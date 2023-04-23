@@ -130,7 +130,7 @@ shift $((OPTIND-1))
 
 mkdir -p "$renget_dir"
 cd "$renget_dir"
-#:> "downloaded.txt"
+:> "downloaded.txt"
 :> "tmp-$renget_savelink_filename"
 for i in "$@"; do
   get_ids "$renget_source" "$i" >> "tmp-$renget_savelink_filename"
@@ -184,3 +184,4 @@ while [ "$flag" = "true" ]; do
     done
 done
 
+rm *.txt
