@@ -54,7 +54,7 @@ format_text(){
 }
 
 filter_links(){
-    grep -o 'rentry\.org/[0-9A-Za-z]*\|rentry\.co/[0-9A-Za-z]*' | awk -F/ '{print $2}'
+    grep -o 'rentry\.org/[-0-9A-Za-z]*\|rentry\.co/[-0-9A-Za-z]*' | awk -F/ '{print $2}'
 }
 
 get_ids_from_chan()

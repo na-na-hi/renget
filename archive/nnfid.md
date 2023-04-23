@@ -1,0 +1,65 @@
+Bleached Latina MILF anon here. Have a story to tell about my sex life, if you'd like to hear it.
+
+First, a little introduction.
+>lived in the Deep South for over 30 years in a majority white location
+>started being bleached really young
+>birthed several white children ever since
+>fetish becomes making, birthing, and rearing white babies
+>with the advent of technology and the inevitability of technology, my dates get younger while I only get older, to the point where I do the cougar/cub thing a lot now and a lot of them are just college boys who want one night stands
+>which is fine by me because they are easy to convince to take that ultimate risk
+>the rise of the alt-right also made raceplay more mainstream with younger people, which is the opposite of when I was getting the fetish only from actual older racists who sometimes hurt me pretty badly
+
+But there are some issues. Your generation is a bit flawed compared to mine. My recent date was a great example.
+>young, nerdy white boy
+>spoke like a 4channer, may even be in this thread
+>his balls were small and his cock was really unflattering
+>lived with his mom and wanted me to wear his mama's lingerie while sucking his cock
+
+Still, I got to take another white man's virginity and potentially get pregnant, so it seemed worth it. Except the sex fucking sucked. I know it was his first time, but he had no stamina, no skill, and it lasted very briefly. I think he was probably a porn addict who masturbated a lot. Our creampie was terrible, because there was such little cum inside me that I look creamier on days I fuck a dildo. I knew I wasted one of my peak fertile days. Plus he immediately rolled over and went to sleep, and basically told me that I could spend the night but I have to leave in the morning before his mom got home.
+
+But something better happened, by sheer chance. Almost randomly.
+
+I have trouble sleeping in the bigger surrounding cities because it's a new location, it's brighter, and way louder. I usually stay in small wooded towns. So I woke up in the middle of the night, probably around 1 or 2, really thirsty and also needed to piss. So I walked out of my sperm donor's room and found his bathroom, peed, flushed, and went to his kitchen to see if he had any Coke or juice in his fridge. There's a hallway connecting his bedroom, his parents room, the bathroom, and a kitchen/living room hybrid. Hard to explain, but the kitchen is a small offshoot that is separated from the living room by only a few countertops.
+
+So I open up his fridge and find some Mountain Dew and I'm going to use the fridge light to help me find one of those disposable cups to drink out of, but when I turn around, there's an older white guy sitting on the couch, looking at me very confused and very tired. Probably wondering why there's a chubby mexican woman in his kitchen completely naked. And I'm shocked and scared too, because I didn't even know there was anyone else at the house.
+
+Eventually he says "uhh" and I say "umm", but take the initiative to say hi, and it's terribly awkward. Plus I still don't know if he's going to attack me or shoot me or what. So I explain I was the date of the boy in the other room pretty quickly. This guy was my fuckbuddy's dad, who works second shift in a physical job and I guess just falls asleep on the couch sitting down. Me flushing the toilet woke him and then me walking into the kitchen and opening the fridge in front of him revealed it was not his kid.
+
+But I'm not really shy, I'm actually pretty flirtatious. I try to seduce him to talk my way out of any danger. Plus he's already seen me naked, so there's not much left to the imagination anyway. He thinks I'm a prostitute his son hired, because I'm obviously older than his boy and saggier in places.
+
+After we decide to turn the lights on, I notice he's not really shying away from looking at my tits and bush, though, so that, to me, is a sign that I can fuck another married guy. It's something I've done in the past and even got pregnant from those affairs. I'm not going to debate the morality of it, because I know it's wrong, but tell that to my cunt.
+
+I ask to sit with him and he does mention if I want to get dressed first, and I say it's not a big deal because he's already seen me nude, and ask in my most seductive tone if that's a problem. I'm not trying to send mixed messages, I'm trying to be very up front with the fact that I want to get fucked, by him. He mentions he has a wife, and I realize that she's not here early in the morning and I was told she wouldn't be back until the morning, so that's a little sus, I guessed she had a third shift job or something.
+
+This guy was probably older than me, late 40s/early 50s, I'd assume, so probably around my own generation. He's also pretty big and gruff. Dadbod but also quite strong. Greying beard, sleeps in jeans and a work jacket and boots. So I knew the kind of guy he was. Plus, he innocently said two racist things during small talk, about how he had never seen nipples that color and about how I spoke clearly for being "one of them". This was a hard working common man, and those fuck so good.
+
+I decided after a bit of conversation to be even more obvious and bring up again how I'm sitting there nude, and bring up how I've noticed he keeps looking. So I leaned back on the couch and parted my legs and used my fingers to part my pubes and spread my lips open and asked "You like what you see?" I gave him a little show of me rubbing my clit and biting my bottom lip and giggling.
+
+Finally, I mentioned how it wasn't fair he got to see me so much while I didn't get to see anything. I leaned forward and started rubbing his crotch and asked if this was okay, and he said "No, but I guess we're gonna keep doing it." So I try to undo his belt, and fail, which is definitely not very sexy, to the point where he has to do it. But I know how to open jeans, at least. Once I get in there, I produce what was hidden, and holy fuck. "BWC" has become sort of a catch-all term in recent years, but that's what I was looking at. This guy had a huge cock and more than that, giant balls, which is kind of rare to see. I remember saying "holy shit" or "holy fuck" or something like that on instinct, I just kinda blurted it out, and I think it scared him because he responded with that he was sorry if it wasn't big enough. Maybe he was just fishing for compliments or just trying to get me to give him a sort of ranking, but I told him it was fucking massive and beautiful.
+
+I kept kissing his balls for some reason, probably because they looked so good. I know how to do ballsucking, but I couldn't even fit them in my mouth if I wanted to. So I just kissed and licked and fondled them, and trailed my kisses from the base of his shaft all the way up to the head, and then took it into my mouth. It was girthy and long so I knew it was going to be an eye-watering blowjob, but for such a gruff guy, he was a little shy. Just kinda stroked my hair when I expected him to make me choke on it. He did start thrusting a bit near the end, but not throatfucking me like I wanted. I had to do a lot of the deepthroating myself.
+
+I dunno what my blowjob "skill" is, but I am pretty experienced and get a lot of compliments, but this guy had so much stamina that he hadn't even cum after a while. So I start straddling his waist and lining ourselves up, but he gets cold feet and tells me to stop and pushes me away a bit. I tell him it's okay and I really need this, and he again starts mentioning his wife. I'm wet as fuck and ready to have sex with this dude, so I say please and try again.
+
+This time, I manage to take him inside of me, lowering myself down very slowly and it feels so fucking good. I'm guessing it did for him too because he didn't say a goddamn thing to stop me once he entered. It was a good fit too, definitely the best dick I've had in at least five years, maybe more. I sat there for a bit, just looking at him while he was hilted, letting myself adjust to his size and also raising the intimacy with eye contact, being very close face-to-face, and heavy breathing. Finally, I lean back a bit and start riding his shaft and it feels so fucking good. He keeps looking at my tits and belly, and I'm a bit self-conscious about my weight, especially when I know I'm a little fat and it bounces when I ride, so I leaned forward and wrapped my arms around his neck, and started going really fast and hard at a certain angle that's really fucking good for both of us. Even he started vocalizing like an animal and gripped my ass cheeks.
+
+My body was calling out to be bred by this man and god, I wanted to make it happen. But he once again stopped us to say "wait" and I was getting frustrated. Luckily, instead of bringing up affairs again, he said "Let's go to the bedroom." He could have told me to go to the bathroom and bend over and grab the toilet and I would have done it. I was this man's property by this point, even if I thought he was too shy and submissive. That was about to change though.
+
+We went to his bedroom and I bent over it and wagged my ass for him while he undressed completely, but he told me to "go on, get up there", so I guess he wasn't interested in that position. I laid there with my legs open and watched him come around to the side of the bed. Unfortunately, he was getting a condom, so when I noticed, I reached out for it, and when he handed it to me, I threw it and said "It's okay. It's safe." Which is a lie, because I was peak fertility. He seemed a bit conflicted, so I looked into his eyes with the utmost need and said "Please..." Which was all the motivation he needed, I guess, because he mounted me and inserted his bare cock into my unprotected pussy.
+
+Then he fucked me. There is no other word for it. He dominated me with so much pent up lust and strength. I stopped being a woman and started being his little brown fucktoy, which is what I wanted. We were going so hard that the bed was slamming into the wall and I was also being very vocal, because it really did feel so fucking good. (My prior mate probably heard us. I'll never know because I didn't speak to him again.)
+
+I eventually started slipping in raceplay, just to see if he was receptive. Easy start, "give me that big white cock", and it seemed to have an effect. "Fuck my mexican pussy" and "how does my little brown cunt feel?" caused him to respond favorably. But once I told him that spic pussy was made for white cock, he finally started letting out any deeply planted racist thoughts and I squeezed him tightly to thank him for finally playing along. I needed to be devalued, and have our racemixing highlighted. The combination of amazing sex, raceplay, and risky sex nearly brought me to orgasm without even needing clitoral stimulation.
+
+But I was saving the most important raceplay line for the right moment. It's the most powerful one of all because it always works. When he finally told me he was about to cum, I knew it was the right time. I wrapped my legs around his waist and said "Give me your white babies." He was definitely shocked, so I insisted. "Please, I wanna have your babies so bad. Please get me pregnant."
+>"You want my babies?"
+"So bad. Please baby. Please use my spic cunt as your cumdump."
+He started getting more intense at this point, and grabbed my thighs to make me open my legs and forced them up into, like, a really lazy mating press, but it felt so good and we were very close physically. I kept coaching him, because I'm way better at dirty talk and raceplay, but also far more experienced. I would say something and he would say "Yeah? Oh yeah?" and it would be my turn again. Still, he did call me a Mexican slut and told me I better get pregnant with his fucking babies, which made my toes curl.
+
+Finally, he plunged very deeply and literally roared. I wrapped my arms and legs around him and raised my lower body slightly so it was at a good angle, and I swear I could feel him pumping his cum deep inside me. My pussy could feel his twitches, which is actually hard to do. He was having a very intense orgasm with a very powerful cumshot and my fertile pussy was taking everything he had to offer. I loved every moment of the breeding.
+
+Turns out his wife was probably cheating on his all this time, so he hadn't had sex in ages and also never jerked off, so I was his sexual release. I can't imagine having access to those huge balls and that massive cock and still wanting to go elsewhere for sex, but I don't know their personal lives.
+
+I let him breed me two more times after that, as well as use my ass since he had never done anal before. He admitted he always wanted more kids but his wife refused, and he was worried his chance had passed.
+
+We actually exchanged numbers, something I don't do for hookups usually. I'll probably fuck him again, especially if my period arrives. He's interested in having someone to fuck and the idea of a spic surrogate for his offspring, but he's told me he's worried he'll fall in love with me if we keep doing it.
