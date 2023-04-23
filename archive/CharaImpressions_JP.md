@@ -1,0 +1,673 @@
+# JP character impressions
+
+Just some thoughts on newly released units since P.Inori (all thoughts were written either right after their 1st CB or on release.)
+More units can be added as requested in the thread or clan chat, old or new.
+
+No skill images will be provided.
+[TOC2]
+
+### ->Phantom Thief Inori<-
+-> ![PT.Inori](https://redive.estertion.win/card/full/121631.webp) <-
+
+Pros:
+- Deals big damage
+- Guarantees her own crits and buffs crit damage
+- Boosts Own TP
+- Good positioning, not in front of Kaori (2nd furthest back front line unit, only X.Kurumi is behind her)
+
+Cons:
+- Selfish damage dealer (All buffs are to self)
+- No 6* Stats
+- S2 (350 TP Gain) happens every 6th action in loop
+
+-> ![PT.Inori](https://media.discordapp.net/attachments/987137760873824297/995465181180198973/PT.INori.png?width=824&height=670) <-
+
+
+### ->Saren/Akino Duo<-
+-> ![Akino/Saren](https://redive.estertion.win/card/full/180931.webp) <-
+
+Pros:
+- Deals good damage
+- Has good skill loop
+- Buffs team physical crit rate and crit damage 
+- Deploys healing field 
+- Restores own TP for more Burn damage
+
+Cons:
+- UB damage is based on HP (Does less damage at lower HP values)
+- Position might be awkward, but not awful
+
+-> ![Saren/Akino](https://cdn.discordapp.com/attachments/987137760873824297/995468464900804618/Sakino.png) <-
+
+### ->Pirate Shinobu<-
+-> ![Pirate Shinobu](https://redive.estertion.win/card/full/122031.webp) <-
+
+Figured it'd be worth explaining, but her SP1 gets used at first to mark all units with her strange debuff system. Every hit increases the amount of marks from this debuff system, to a cap of 15. UB removes 8 marks in exchange for more dmg. S2 removes 3 marks per use and S1 increase marks on an enemy by 2. I don't have her myself at this time, so I can't really be sure of the specifics of this mechanic. Referencing an Eruru video, her S1 technically applies 3 (2 from the skill, 1 from the enemy actually being hit.), whereas her S1 technically only costs 2, since it apples 1 and costs 3 total.
+Since her UB hits 6 times total, you only really need 2 stacks on the boss before UB'ing to reach max dmg on it, as the marks are consumed on the final hit.
+
+TL;DR for above : Mark system is simple once explained, but confusing at first glance
+
+Pros:
+- Good single target debuffing (UB - 233 + S1 - 140 at max lvl = 373 p.def down)
+- Able to do damage to lifesteal in comps (Compared to Worker Aoi)
+- Skill loop allows for constant 140 p.def down to be applied
+- P.Def down not affected by how many marks get consumed
+- Restores her own TP by a bit
+- Good positioning for Physical comps (Stands behind Djeeta)
+
+
+Cons:
+- Mark system requires a bit of setup 
+- UB Damage can get gimped if enemy not at 2 stacks when UB'ing
+- Single target DPS/debuffer
+- Less debuffing than W.Aoi (373 vs 642)
+- Extremely low crit rate for an attacking unit (1315 vs 1246 for PT.Inori who gives herself guaranteed crits)
+- Only Shinobu can apply her marks
+
+-> ![Pirate Shinobu](https://media.discordapp.net/attachments/987137760873824297/995484182551744512/PA_Shinobu.png?width=1421&height=898)<-
+
+
+### ->Pirate Anna<-
+-> ![Pirate Shinobu](https://redive.estertion.win/card/full/121931.webp) <-
+
+Pros:
+- Able to stack M.Atk and M.Crit dmg buffs on UB
+- Has Aoe Damage and debuff
+- Deals enough damage to lifesteal (If does not get oneshot)
+
+Cons:
+- Front liner (Most likely not tanky enough for T4 tanking)
+- Loses 30% of HP on usage of Skill 2 (Can go up to max of 60% based on M.Atk)
+- Magical debuff value is 142, not great (Could work with Neneka)
+- May operate the same space as P.Yui (Multi-target DPS)
+- Stage Misaki's buff doesn't reach her
+- Requires lots of shields to make work
+
+![Pirate Anna](https://cdn.discordapp.com/attachments/987137760873824297/995484415541129356/PA_Anna.png)
+
+### ->Camp Yukari<-
+Another Mark-based unit that is good in CB
+-> ![Camp Yukari](https://redive.estertion.win/card/full/122231.webp) <-
+
+Pros:
+- Does good damage (UB x3 on crits)
+- UB buffs all units P.Atk and Crits rate (If you have 3 of her marks)
+- Restores TP to three units and herself (Two if you have less than 3 marks)
+- S2 Buffs P.Atk of units that get affected (See above)
+- Good loop to give marks and TP buff 
+
+Cons:
+- Needs a bit of ramp up time to reach maximum efficiency
+
+-> ![Camp Yukari](https://cdn.discordapp.com/attachments/987137760873824297/995484840965177414/Camp_Yukari.png) <-
+
+### ->Camp Aoi<-
+An Arena specialist that doesn't seem to have a good spot because no CC and meh shield.
+![Camp Aoi](https://redive.estertion.win/card/full/122131.webp)
+
+Pros:
+- Can increase own TP boost
+- Gives decent shield 
+- Deals okay damage (better vs squishy targets)
+
+Cons:
+- UB is only damage
+- No good CC for Arena
+- Barrier can get cancelled as it's her first skill
+
+-> ![Camp Aoi](https://cdn.discordapp.com/attachments/987137760873824297/995486210879389816/Camp_Aoi.png) <-
+
+
+### ->Vampy<-
+Unless the T4/T5 bosses don't somehow kill her or you need TP drain - she's a T3 specialist like Muimi in some cases.
+-> ![Vampy](https://redive.estertion.win/card/full/122331.webp) <-
+
+Pros:
+- Steals TP from boss
+- Decent attack loop
+- Decent M.atk buff for party
+- Good M.Def debuff in SP form
+
+
+Cons:
+- Squishy (Probably not fit vs most T5 bosses)
+- Positioning is very far forward 
+- Needs to tank in order to keep SP mode (Think of her as magic Muimi)
+
+-> ![Vampy](https://cdn.discordapp.com/attachments/987137760873824297/995486211172995193/Vampy.png) <-
+
+### ->Swimsuit Hiyori<-
+A physical frontline support. She's pretty far back in terms of positioning, but ultimately won't be used over Fes Yuni or Karin unless heals are needed instead of shields.
+-> ![S.Hiyori](https://redive.estertion.win/card/full/122431.webp) <-
+
+Pros:
+- Good buffs (UB, S1) increase based on targets affected (friendly units)
+- HP regen and instant heal
+- Action speed buff 
+- Behind Djeeta
+
+Cons:
+- Does no damage outside of autos
+- No shields to prevent damage
+- Buffs are very short range
+- No TP Gain/restore/regen buff
+
+![S.Hiyori](https://cdn.discordapp.com/attachments/987137760873824297/995486211563069501/S_Hiyori.png)
+
+
+### ->Swimsuit Rei<-
+Crit damage monster and provides a buff on a skill that also does damage. If her S2 doesn't crit, you lose out on a lot of damage - Which is the whole point of the character. Probably will see use, but you can borrow her. It might mess with your boss routing though, depending on what units you have.
+-> ![S.Rei](https://redive.estertion.win/card/full/122531.webp) <-
+
+Pros:
+- Decent skill loop
+- Guaranteed crit damage on UB 
+- Buffs own crit damage on S2
+- Buffs skills based on marks gained from UB
+- Buffs all units P.atk with S1 based on # of marks
+- Stands behind Djeeta
+- Buff range is good
+
+
+Cons:
+- S2 16% damage increase only applies if S2 crits (No guarantee to crit)
+- No 6* stats
+- No way to increase TP given or taken
+![S.Rei](https://cdn.discordapp.com/attachments/987137760873824297/995486212087349408/S_Rei.png)
+
+
+### ->Swimsuit Yui<-
+A magic-specific support unit that has good buffs and is designed for long fights where she can continually dish out her smaller, but permanent buffs. This unit **COULD** have some level autism, due to the M.Atk crit damage increase being 1% and 100 TP gain being flat from level 1. That's just a theory, but did not occur during July 2022 CB. This does not mean it cannot happen in the future, so take that with a grain of salt. She can survive as a frontliner, to get even more buffing done. A very nice perma.
+-> ![S.Yui](https://redive.estertion.win/card/full/122631.webp) <-
+
+Pros:
+- Good in long fights where she can stack permanent buffs, due to skill loop
+- Flat 100 TP restoration
+- Barrier and HP regen are incredibly useful in T4/T5
+- Stands behind Angel Yori (can get taunt applied to S.Yui and eat attacks if she's tanky enough)
+- Buffs apply to all magic units, regardless of range
+
+
+Cons:
+- Stands in front of NY.Neneka (Potential massive issue in comps and a big reason why level autism might happen)
+- Less effective in shorter fight, don't expect to see her in T1/T2/T3 6p routes
+- Only works with magic units (Ex. P.Kokkoro wouldn't get any TP or buffs due to her being physical)
+- No debuffs
+
+![S.Yui](https://cdn.discordapp.com/attachments/987137760873824297/997611223795368047/S_Yui.png)
+
+### ->Swimsuit Misogi<-
+Projected to be an Arena changer from a few players, S.Misogi's #1 fastest frontline stun is an important asset during stun wars. While Arena is moving away from this slightly due to the Miyako frontline craze, being able to reposition the backline units is a very powerful tool that can allow for new units to shine in arena - Either again or for the 1st time. The TP Drain and p.def reduction means she could even see usage in TP comps where you need more than just Tamaki TP drain for physical comps. Even if she's 1 Star, she'll still be useful.
+-> ![S.Misogi](https://redive.estertion.win/card/full/122831.webp) <-
+
+Pros:
+- S2 is an AOE stun and p.def down
+- Fastest stun in the game, see video for examples vs Inori, Mifuyu and Kasumi (https://youtu.be/qZ_G0V0Anxk?t=190) 
+- Opening skills are S2 into S1
+- UB pulls furthest backline units closer forward
+- S1 is an AOE TP drain 
+- Well-suited to current meta of opening skill dominance
+
+Cons:
+- After initial opening, skill loop is poor
+- No 6* Stats
+- Low damage 
+
+![S.Misogi](https://cdn.discordapp.com/attachments/987137760873824297/1003444164249264189/SMisogi.png)
+
+### ->Swimsuit Mimi<-
+Physical multi-target damage unit with utility and self buffs, S.Mimi might give Creditta a run for her money in terms of that debuffer slot. Initial trials indicate that as long as she can survive, she'll do massive damage and provide higher debuffs than Creditta. Though she has less team utility, the trade off is definitely worth it in some cases. That being said, Creditta is getting her UE in October, so keep an eye out for that.  Here is an example of initial testing from Eruru with a full auto comp on July CB's Lion. https://youtu.be/uh-OGjFhrXM?t=652 - Multi-target units don't get more than 1 boss per month usually, so you may be able to get away with borrowing S.Mimi or simply avoiding that boss all together. This does mean your flexibility is lowered.
+-> ![S.Mimi](https://redive.estertion.win/card/full/122931.webp) <-
+
+Pros:
+- Huge multi-target damage
+- UB hits all targets, no range issues
+- Fantastic self-buffs on UB , S1 & S2
+- Debuffs on S2, UB
+- TP Boost to self on S1
+- Small party crit up buff
+
+Cons:
+- Less party utility vs Creditta (No team TP regen, heal or shields)
+- S2 has a small range, so may not hit all targets
+
+![S.Mimi](https://cdn.discordapp.com/attachments/987137760873824297/1003819695822090321/SMimi.png)
+
+### ->Swimsuit Kyouka<-
+A magic attacker with some debuffs and can attack multiple targets, S.Kyouka's gimmick is her ability to mark enemies with butterflies with each hit she does, up to a cap of 30 per enemy. These butterfly marks simply increase the amount of damage her skills and UB do. As her damage is split into 3 different calculations, she can theoretically go over soft cap 3 times on her UB & S2, while S1 is just 2 damage calculations. She's more or less a budget S.Kyaru 6 Star, but not as strong - based on initial impressions aside from some subpar FA comps. She'll need some favourable boss fights to muscle out S.Kyaru 6 Star, but it certainly isn't impossible if the stars align.
+-> ![S.Kyouka](https://redive.estertion.win/card/full/122731.webp) <-
+
+Pros:
+- Brings her own M.Def Down on S1
+- Good damage
+- Able to buff her own M.Atk permanently
+- Good skill loop
+- Extra stats for 6* Kyouka
+- Can break the soft cap on UB fairly easily
+
+Cons:
+- Lacking 6* stats compared to magic competition
+- No utility outside of debuffs
+- Damage needs to ramp up to max 30 Butterfly marks
+
+![S.Kyouka](https://cdn.discordapp.com/attachments/987137760873824297/1010061250841018438/SKyouka.png)
+
+### ->Ames<-
+Ames is a pure support character that excels in keeping the team alive and dishing out TP to all members. Normally you'd think of defensive buffs and damage cuts in a negative light, but in Ames' case this could be the key to running Position 1 buffers to greater success. Her kit has a great amount of heals and barriers - Which Karin, Fes.Yuni, ST.Misaki (No healing), P.Kokkoro and S.Kokkoro (No barriers) lack. Her buffs are quite nice, though she is missing debuffs which can potentially hurt her usefulness on the physical side. On the magic side, Neneka offers a good chunk of debuffing on her own, meaning that it is less of a problem. O.Yuki can also work, as he offers an action speed buff. While she does zero damage, the buffs she hands out are incredibly powerful. Early testing has shown good results, so it's possible she'll be another pillar of supports like the ones mentioned above.
+-> ![Ames](https://redive.estertion.win/card/full/123031.webp) <-
+
+Pros:
+- Good skill loop
+- Barriers for squishier units to frontline
+- Defense buffs and damage cut 
+- HP Regen for all units
+- HP restoration for lowest HP unit
+- Medium TP Boost to all team members
+- M.Atk & P.Atk increase to team and self.
+
+Cons:
+- Opening skill rotation does not have TP buff, not great for short fights
+- Applies defensive buffs (this might not be an entirely bad thing, depends on T4/T5 comps)
+- No defense down debuffs vs enemies
+- No crit damage or crit chance increase
+
+![Ames](https://cdn.discordapp.com/attachments/987137760873824297/1015826320418148352/Ames.png)
+
+### ->Explorer Maho<-
+Explorer Maho is mostly for buffing multi-target magic teams consistently, while giving them more TP. Her S2 gives TP to all units that are damaged, consuming the "unknown effects' applied by her S2. The issue with her S2 TP mechanic is that if units get damage blocked via barrier, they do not receive the TP from it. S2's base skill only restores 250 TP to Maho herself, meaning that her use in comps with a unit like Ames will be problematic. Given how strong T4/T5 bosses are and E.Maho being geared towards multi-target bosses, she may not see a ton of usage if bosses require barriers. However, her TP restoration is quite high if so, therefore you should be on the lookout for her to be a pretty good perma unit. Borrow-tier at least.
+
+-> ![E.Maho](https://redive.estertion.win/card/full/123131.webp) <-
+
+Pros:
+- Nice M.Aatk buff on UB & S1
+- 100 increase on M.Crit chance on S1
+- TP restoration to self for 250 on S2
+- If damage is taken while under the effects of S2, damaged units a small amount of TP
+
+Cons:
+- Low damage
+- Units that don't take damage due to barriers do NOT receive the TP from S2
+- No defensive debuffs to enemies
+- No crit damage increase
+
+![E.Maho](https://cdn.discordapp.com/attachments/987137760873824297/1015831727433842798/EMaHO.png)
+
+### ->Wild Matsuri<-
+A somewhat useful frontline tank, Wild Matsuri is mostly about dealing damage by herself and tanking with permanent p.def buffs and barriers to self. The barrier is important, because she's not necessarily as tanky as an X.Jun on pure stats alone. They also allow her to stay at lower HP for more damage, while preventing death. Mostly just seen as an OF unit, the 2s stun attached to her UB does hurt her quite a bit. She at least performs decently against Wyvern, compared to Goblin so far.
+
+-> ![W.Matsuri](https://redive.estertion.win/card/full/123931.webp) <-
+
+Pros:
+- UB deals a good amount of damage
+- Decent P.Def debuff
+- Buffs P.Atk for party on UB
+
+Cons:
+- Stuns self on UB for 2s
+- Has to be at low HP to deal biggest potential damage on UB
+- No way to protect self from magic damage
+- Low utility for team buffs
+- No healing to self
+
+### ->Kaiser Insight<-
+The 2nd Extra unit in the game is clearly an Arena-focuse unit this time. Kaiser's entire kit revolves around fucking over the enemy team by increasing damage taken, removing their buffs, barriers or reducing their damage output and defenses. He shows up a decent amount in Arena solution and defenses, but there's no rush to unlocking him ASAP. His lack of any crowd control is what stops him from running over everything in Arena, luckily. Maybe we'll see him drain targets in CB against mutli-target bosses, but that's a pipe dream for fans of this character.
+
+-> ![Kaiser](https://redive.estertion.win/card/full/106931.webp) <-
+
+Pros:
+- Removes all Barriers on UB
+- Removes all stat up effects on UB
+- Steals 100 TP from all targets hit, but only gains 100 TP Total to self on S1
+- Reduces both defenses, both damage types Atk, and both damage type crit damage of all enemies hit by S2
+- Good 1st action skill (S2)
+- Clears barriers, then deals damage
+
+Cons:
+- Squishy
+- Very far forward for a backline unit (Stands in front of Neneka)
+- No CC 
+
+### ->Christmas Yori<-
+For a freebie unit, X.Yori actually has a lot going for her at a first glance. Unfortunately, magic teams are very consistent and replacing any of Ames/Neneka/NY.Neneka/Homare/NY.Homare/Pyaru/A.Yori/O.Yuki/Grea & Anne requires some sort of ridiculous standout skill like TP drain + something else. X.Yori does not possess anything like that. She's a good unit to have farmed in anticipation of her UE, but it'd take a lot to break through that magic team exclusive club. 
+
+-> ![X.Yori](https://redive.estertion.win/card/full/124130.webp) <-
+
+
+Pros:
+- Big TP restoration (350) with an Action speed buff on S2
+- M.Def Debuff on UB
+- Decent M.Atk buff on S2
+
+Cons:
+- TP restoration & Action speed buff only affects 1 unit
+- Low damage
+- M.Atk buff is not very big on S1
+
+
+### ->Christmas Akari<-
+X.Akari is what NY.Neneka would be if she traded her TP restoration and heal in for extra damage and had her M.Atk buffs capped based on skill level. She does have a nice perma M.Atk boost on 1st skill, but her TP boost increase being self only means that she lacks the team punch to replace NY.Neneka. There are already great Magic DPS units, so X.Akari needs the right circumstances in order to shine. So far, that hasn't happened and probably won't happen until her UE is released and gives her a way to restore TP to all teammates.
+
+-> ![X.Akari](https://redive.estertion.win/card/full/124031.webp) <-
+
+
+Pros:
+- Perma M.Atk for all units on S2, Self TP Boost buff 
+- S2 only used once, allowing for better loop
+- S1 buff increased based on all friendly units' M.Atk
+- Can hit damage cap relatively often
+
+Cons:
+- S1's M.Atk buff is capped out based on skill level
+- No TP Restoration to team/single member
+- NY.Neneka exists
+- No heal to be a true support
+
+
+### ->Christmas Jun<-
+A tank that clearly has the dev team looking at making tanks more valuable. She's pretty much got everything you'd want a tank to do in modern Pincess Connect, aside from just having every single buff and being incredibly broken. You won't always need a tank, but X.Jun has proved twice in a row that when you do, she's an excellent choice. Full self-heal, buffs, TP restoration, self-barrier, the list goes on for reasons why you'd want this unit. At least she's a perma, but most likely will stick around for the future. Her TP restoration is on S1, so look forward to that UE as well.
+
+-> ![X.Jun](https://redive.estertion.win/card/full/124231.webp) <-
+
+
+Pros:
+- P.Def debuff on UB
+- Heals self on UB
+- Buffs closest unit & units near that one (150 range) with P.Crit Rate & TP restoration (80) on S1
+- Gives self barrier and buffs P.Crit damage to all friendly front targets near self (150 range)
+- Excellent positioning (She's right in front of Kaori)
+
+"Cons":
+- Low damage
+- No Act.spd buff
+- Buffs have limitations on range
+
+
+### ->Grea/Anne Duo<-
+
+
+-> ![Grea/Anne](https://redive.estertion.win/card/full/181031.webp) <-
+1st CB went well for Grea/Anne, as they dominated the B3 comps with a good comp against B4. The increase to damage based on stacks has been massive, because they can easily reach the damage cap. Combine this with the fact that their UB is split into two damage calculations like Eriko 6 Star and you get 2.2m UBs every so often. This does make them the focus of any comp they are in, but given their strength, that's not a bad thing. This is mostly due to common magic units having buffs attached to their skills/UBs (Ex. Neneka, NY.Neneka, Ames,) that can quickly stack up.
+
+Pros:
+- Excellent loop
+- Good positioning (Behind NY.Neneka)
+- Permanent +15 TP Boost to self
+- Huge damage
+- UB damage is split into two damage calculations, bypassing the damage cap
+- Buffs M.Atk for teammates (Within 200 range of Grea/Anne)
+
+"Cons":
+- Requires other units to provide buffs to hit max stacks from S2 quickly (Cap is 40)
+- No Debuffs
+
+### ->New Year's Mitsuki<-
+
+
+-> ![NY.Mitsuki](https://redive.estertion.win/card/full/124731.webp) <-
+A somewhat interesting unit that's held back by being being a selfish P.DPS, NY.Mitsuki's focus is increasing the amount Critical Damage received by a unit. The mark system only needs her to use her S1 once to reach full stacks, so it shouldn't be a hindrance unless her 1st action S1 gets cancelled. Unfortunately, her skills are only 12s debuffs and the damage she deals isn't anything special. Unless she gets an amazing UE or we suddenly need to debuff enemies to bosses, she's on the shelf. We also already have Pirate Shinobu, who is getting a UE this year. This  further nosedives any chance that she might sneak into a team comp, as P.Shinobu is already niche enough. 
+
+Pros:
+- Can debuff enemies to take 12% extra crit damage (6% from UB, 6% from S1)
+- P.Def debuff 
+- UB permanently raises P.Atk & P.Crit rate per UB after having 1 Mark
+
+Cons:
+- No buffs to teammates
+- Damage isn't great compared to lack of applicable utility
+- Competing against units that have better utility, like Djeeta/X.Miyako/Aki&Saren/Piyori/Shefi
+- Increased crit damage taken isn't a great debuff to have
+
+
+
+### ->New Year's Misato<-
+NY.Misato is a support unit still looking to break through in CB and most likely had her thunder stolen by X.Miyako & Djeeta providing enough TP Gain for physical teams. While she does provide a small amount of TP restoration to all units and does boost TP Gain on UB - She's missing a barrier, which is pretty important for most team comps. Ames' reign is most likely holding back a chance of NY.Misato shining, but we may see her against Rairai if magic doesn't take a massive shit on Rairai again. Keep an eye out for her in the coming months, she's at least got potential in CB.  Decent in full auto comps at the very least.
+
+-> ![NY.Misato](https://redive.estertion.win/card/full/124631.webp) <-
+
+Pros:
+- Good healing from UB (Heal over time) & S2 (Heals lowest % HP unit)
+- Good P.Atk buffs on UB, S1 & S2
+- P.Crit damage increase on S2
+- TP restoration on S1 (100) to all units
+- TP Boost increase (10) to all physical units
+
+Cons:
+- P.Crit increase is a range based around target
+- No barrier
+- Skill loop starts off with 2 autos
+- M.Def buff isn't great, nor is it useful in most situation
+
+### ->New Year's Homare<-
+A multi-target magic damage dealer that has seen good initial usage. While she's still a bit more selfish overall, her UB having a M.Def debuff that scales with debuff value & damage based on number of targets makes her a prime candidate to be the M.DPS of choice against multi-target bosses. Compared to P.Yui, NY.Homare trades in less TP restoration for a smaller reliance on crits to increase her damage. Her dominance over Jan CB provided a good 1st look into the future. This also makes her a potent threat in Arena, because you're always fighting 5 enemies. This does also make comps mostly revolve around her, but she certainly has the firepower to make it worth it. Just wait for Tri-Rocket, Twin Pigs or Lion to see her start 1-tapping bosses.
+
+-> ![NY.Homare](https://redive.estertion.win/card/full/124531.webp) <-
+
+Pros:
+- Restores TP to Self on S1 (225)
+- Debuffs all enemies hit by UB (increased debuff & damage value based on # of targets damaged)
+- Raises own M.Crit damage & M.Crit Rate on S1
+- High damage in fights against multiple targets
+- Additional M.Def Debuff on S2
+- Good skill loop
+
+"Cons":
+- No healing
+- Useless vs single target
+
+### ->Liberator Nozomi<-
+Initial impressions show that this alt for Nozomi is probably a home run in CB, maybe P.Arena. The limitation of her skills being physical units only is a bit of a hindrance for B.Arena, though. Her position also messes with the traditional Saren/Ninon positioning( She is between them), but could still replace Saren. As for her comparison with S.Saren, Sex Nozomi's TP gain is slightly less - But it also provides a permanent p.def down debuff on all enemies. Being a limited, she's hard to pass up. Anything that gives TP and has a good UB/skills will get a fair look, just like X.Miyako after she received her UE. Given how low her damage is and the importance of each unit in physical comps, she could get reduce to an OF/T3 specialist like S.Saren. In fights where more healing is needed and Djeeta/X.Miyako provide enough TP gain, she may not have a spot. You may regret not getting this unit.
+A final aside, her TP buff actually applies before S.Saren. This results in some back to back UB silliness, as you can see displayed here.  https://youtu.be/XDW5v5bHMuY (Go to 7:03 in the video)
+
+-> ![Sex.Nozomi](https://redive.estertion.win/card/full/124831.webp)  <-
+
+Pros:
+- Large TP buff on S2
+- Permanent debuff to all on S2
+- Good skill loop (S2 is 1st action)
+- Provides p.crit dmg up
+- Good positioning for Physical quad frontliner comps
+- TP boost skill keeps getting handed out at a reduced amount after initial boost
+- UB provided additional Def down
+
+
+
+Cons:
+- No healing
+- No shields
+- Low-ish damage to heal self for T4/T5
+- Only useful for physical parties
+
+
+### ->Liberator Kaya<-
+Sex Kaya shares a similar gimmick to her other versions - She does big damage on her first UB, then subsequent ones deal a reduced amount. Her skillset is useful for Arena from initial testing and could be seen in some OF Comps for physical multi-target due to this, but that 2nd part is pure speculation. Pairs well with S.Misogi against Inori lead, as yours S.Misogi will prevent Sex.Kaya from getting stunned (https://youtu.be/yk5TK5Phsj4?t=245). Her performance seems solely based on the initial UB window and cleaning up any weakened units with a follow up UB. The pushback on her UB helps with cleaning up further back units, which is a nice benefit. Good to farm, seems functional at 3* at the very least. With the 250 character orb for free from her event, this is a unit you probably don't want to pass up for P.Arena - Especially as a new player. 
+
+-> ![Sex.Kaya](https://redive.estertion.win/card/full/124931.webp) <-
+
+Pros:
+- Big UB damage that reaches fairly far back (600 range)
+- S2 TP Boosts before S.Saren or Sex.Nozomi TP boost applies (Her TP boost value is 1000, so she gets a full TP bar)
+- Knocks back units by 300 to set up for next UB
+- S1 helps buff to compensate for lost damage a bit
+
+Cons:
+- UB loses 50% damage after 1st use for all other uses
+- TP Boost on S2 goes down to 200 per usage
+- Needs help clearing tanky characters
+- Reliance on crit to clear units through shields from Ames
+- Countered by S.Misogi 
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+### -> Liberator Muimi <-
+Proven to be a great physical option so far, Liberator Muimi's role is that of a frontline damage dealer that wants to tank hits and lifesteal up. In that respect, she's similar to regular Muimi. Unlike regular Muimi, she gains a stronger debuff when transforming instead of just losing it. Not much to say, aside from the fact that the SP version of her skills have two damage calculations against the soft cap. This is a large reason why she's so good, because her SP form is just SP2 -> SP1 over and over for 15 seconds. She's a limited and will be back in August for her 6 month re-run. 
+
+-> ![Liberator Muimi](https://redive.estertion.win/card/full/125031.webp) <-
+
+Pros:
+- Good Loop and initial attack pattern
+- SP form is just spamming damage skills for 15s
+- SP form skills have 2 damage calculations against the soft cap, 
+- Increases own Action Speed by 80% which can stack with other Action speed buffs
+- Has a good p.def down debuff to one target
+- Buffs own P.Crit Damage, P.Crit Rate and P.Atk
+
+Cons:
+- No Team utility outside of debuff (Buffs are to self, not team)
+- If cannot face tank, is somewhat hampered due to lack of SP form access (Still works decently vs Gobling for example)
+
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+
+### -> Misora <-
+The latest Prifes unit, Misora is a magic damage unit that has yet to break out, CB wise in a big way. However, her performance in 
+[EX6](https://www.youtube.com/watch?v=EejlFdbk_BY) is no joke and could be a preview into what we could see, given the proper CB boss conditions. She mainly fills the role of a damage dealer/debuffer, but her buffs are permanent and applied throughout a fight. Unfortunately, her UB and S1 Target the 1st, 2nd & 3rd furthest enemies and this can impact her damage against mutlti-target bosses. The flip side of this is that it means she lacks the inconsistent targeting that an S.Kyouka might have.
+
+-> ![Misora](https://redive.estertion.win/card/full/118231.webp) <-
+
+Pros:
+- Large damage on UB and S1 that have 3 different damage calculations against soft cap
+- Conditionally lowers M.Def by a small amount on UB (See cons for condition)
+- Spams S1 in loop constantly after SP1 for consistency
+- Increase M.Crit Damage taken to units damaged by UB
+- S2 Buffs M.Crit Rate for entire party permanently (180s)
+
+Cons:
+- SP buff/Mark only lasts 12s, which is the condition for UB & S1 to apply m.def shred
+- Does not offer any TP restoration or Boost increase
+
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+
+### ->Cafe Tamaki<-
+A multi-target physical specialist, Cafe Tamaki did very well against the beetle in March. She's a damage/support hybrid that heals, buffs p.atk and restores TP in favour of Crit damage/crti chance buffs, or p.def debuffs. While you can most likely borrow her, she's a perma that had an excellent showing on her first go. Definitely one to keep an eye out for.
+
+-> ![Camaki](https://redive.estertion.win/card/full/125131.webp) <-
+
+Pros:
+- Has TP restoration to party and self on S1
+- Deals good damage to mutli-target bosses
+- Buffs physical damage teammates on S2
+- Deploys a field buff with a radius of 150 that buffs P.Atk & restores HP
+- Places buff field after jumping to teammate with highest P.Atk (Cafe Tamaki does not count as a potential jump target)
+- TP boost to self increased based on number of teammates
+- Heals on UB, alongside good damage
+
+"Cons":
+- Small radius on buff field
+- Requires specific P.Atk values to control who she jumps to
+- No p.def debuff skills
+
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+
+### -> Cafe Monika<-
+No one knows what they were thinking with this character. At first glance, Cafe Monika seems like a decent OF choice due to her debuffs and enormous P.Atk buff on S2. And then you read her skills, realizing that her S2 locks her into a dancing animation for 24 seconds, or until she gets hit 3 times. [Just watch this to get an idea](https://youtu.be/XqQWxpruy8Q?t=255) of what is being explained, it's really something that has to be observed. Theoretically, you can use Liberator Nozomi or Summer Saren to give her enough TP to cancel her S2 after the massive P.Atk buff is applied, but this sounds better than it actually is. Mostly due to damage cap.
+
+-> ![Cafe Monika](https://redive.estertion.win/card/full/125231.webp) <-
+
+Pros:
+- Good p.def debuff on UB & S1
+- Huge P.atk buff on S2
+- TP restoration to self for more UBs
+- P.Def buff to help squishier units in OF comps
+
+Cons:
+- S2 locks her into a dancing animation for 24 seconds
+- S2 restores to only to self
+- Mediocre damage
+- No Crit damage increase
+- Nearly impossible to use in full auto comps, because she won't use UB until after finishing S2 (Unless she's set)
+
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+### -> Noir Shizuru <-
+Noir Shizuru appears to fail at doing her job of protecting your team from CC & physical damage. Purely designed for Arena purposes, her S1 is too slow to avoid the harsh reality of arena meta against a position 1 stunner. However, could see fringe usage against teams that can't stun her initially and use Miyako as their position one. Someone to re-visit when she gets her UE, or needs an Arena meta shift to push her into favour.
+
+-> ![Noir Shizuru](https://redive.estertion.win/card/full/120031.webp) <-
+
+Pros:
+- UB buffs P.atk of friendly units based on damage dealt, up to a cap
+- Heals self on UB
+- S2 bind has large range (600)
+- S1 deploys physical barrier and stops friendly units from being CC'd 3 times
+
+Cons:
+- First action (S1) is stopped by common CC units like Inori, Mifuyu & Kasumi
+- Does not protect from MS.Kasumi, Overload Kyaru CC with first action (S1)
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+### ->Ranger Kokkoro<-
+Has some really nice buffs, but physical teams have some extremely competitive spots for supports that deal no damage. Even worse, her range is mostly around the backline and will be probably be slotted in with backline physical damage dealers like Cafe.Tamaki & Creditta. Similar to Stage Misaki, just without the TP restoration. Unfortunately, TP restoration is a fairly critical stat on most supports. Maybe check back once her UE comes in and it gives her TP restoration or something of that nature.
+
+-> ![Ranger Kokkoro](https://redive.estertion.win/card/full/125331.webp) <-
+
+Pros:
+- Buffs P.Atk, scaling based off of own P.Atk (Up to a cap of 120+120 x Skill Level) on UB
+- Buffs P.Crit rate on UB
+- Buffs P.Crit Dmg & P.Atk (similar functionality to UB) on S1
+- Has HP regen + dual dmg type Barrier on S2
+
+
+Cons:
+- Short range on all abilities buff (100 near Ranger Kokkoro)
+- Positioned in the backline, between Creditta & Hatsune so won't buff frontline physical attackers like Christina or Djeeta
+- Supports like Ames are magic units, so her buffs don't help that scaling
+- Lacks TP Boost or Restoration buffs
+- Does not have large burst heal
+- Competing against other supports with more utility (Ex. Ames, S.Kokkoro, NY.Misato, Laby)
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+### ->Ranger Shiori<-
+Interesting choice to have a backline debuffer that also buffs herself only. If your units are getting fried because they're too far forward and backline targets don't get hit, you may see her pop in to provide a consistent stream of damage and debuffs. She's extremely squishy, so she'll probably need a setup where she won't be hit. A good example of this would actually be the demo that [Cygames released](https://twitter.com/priconne_redive/status/1645260562757201920) to show her off. While she's not going to be dealing huge amounts of damage, having a nice, consistently safe output of debuffs does help full auto comps quite a bit. Keep an eye out for her against fights like Sky Valkyrie in November, most likely paired with Christina. There are certainly opportunities for her to be a borrow tier character.  
+-> ![Ranger Shiori](https://redive.estertion.win/card/full/125431.webp) <-
+
+Pros:
+- Deals good damage on UB & S1
+- Give self TP on S1 & S2
+- Permanently increase P.Crit Damage & P.atk on every S2 usage
+- Good P.Def down on UB & S1
+
+
+Cons:
+- Low crit chance on base stats
+- No buffs to crit chance, which can make her P.Crit dmg increase meaningless
+- No team buffs 
+- Very frail, cannot be used in comps where she gets hit more than once until healed 
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+### ->Fallen Riri <-
+**TL;DR  If you're ultra conversative with your gems and hate rolling for permas, wait for training mode before deciding to roll her. But she's a good permanent unit.**
+Able to summon two "Shadow" versions of herself, Fallen Riri can output a surprising amount of damage and still dish out consistent buffs and debuffs. The individual numbers are not super impressive, but the idea is that them being used x3 is incredibly effective. Somewhat comparable to Neneka in that sense, but missing any sort of TP Boost/restoration in her kit. The most intriguing part of her kit is that she can dodge certain CC, thanks to her SP skill (Misaki 6* curse & Hex do not apply to her, for example.). And also like Neneka, her Shadows can be used to tank autos from bosses. However, these do not spawn far enough to be placed in front of units like Djeeta, or Piyori as examples. Overall, she seems like a solid unit on release. A TP restoration/TP boost buff from her UE could skyrocket her into must have status next year, because anything her S1+ gets, her shadows will also receive. 
+
+-> ![Fallen Riri](https://redive.estertion.win/card/full/125831.webp) <-
+
+Pros:
+- Deals good damage when both shadows are up, on UB
+- S2 deals good damage (With her shadows dealing a bit less damage)
+- Consistent buff and debuff application
+- Shadows spawn 50 & 100 units in front of her, allowing for some potential front lining duties (compare to Neneka, could be used with position 1 Aki/Saren, or Monika 6*?)
+- Can dodge debuffs/CC with SP skill
+- Good skill loops that also apply to her Shadow
+
+
+Cons:
+- Low crit chance on base stats
+- No TP-related buffs
+- Lacking shields or healing 
+- UB does low damage when not buffed by having two shadows
+- Needs to get her Shadows out ASAP to benefit, meaning she may likely be paired with L.Nozomi exclusively
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)

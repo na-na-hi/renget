@@ -1,0 +1,39 @@
+/hmoma/ request
+Title: Relationship perks
+Tags: Human x Anthro, Seagull, Casual Romance, Facefucking, Teasing/Flirting
+
+																						Relationship perks
+
+Greg looked at Jake, then back at the road, "That was fun, right?".  Jake shrugged back, trying to hide his excitement. Greg  flicked the seagull's beak, and got his hand slapped away. Greg chuckled, then focused on driving while Jake stared out the window. The seagull silently laughed at the idea of Greg's idea of a date at the beach. It was nice but Jake could have done without the sand, he was looking forward to what happened after anyway. 
+
+Jake stood at an even six feet, had gray eyes, and was a little itchy from all the sand. His plain clothes were faded from sitting on the beach all day, but also It was under some of his white feathers, on his face, and even caught in his tail. Somewhat annoyed, he rubbed the top of his head and found even more sand.  "God dammit" he mumbled to himself.
+
+The two continued their drive back to their place, looking forward to a relaxing night at home, and maybe a hot shower. After a lovely amount of traffic, they got home. Jake stepped out first, stretching his wings and groaning. He was thin for his size, but confident. He was only a few inches taller than Greg, but about forty pounds lighter. It made him look disproportional in a few ways, but Greg found it charming. The thin seagull wasn't the best at sports or the most athletic, but he had a calm, and sometimes slutty personality that Greg found adorable.  
+
+Jake made his way towards the front door, looked back at Greg, and grinned while stepping inside. He was certainly going to enjoy some alone time with Greg, but figured he would have a few beers first. He grabbed a few out of the fridge and opened one, glad to be out of the heat. He sat down on their couch before throwing his shirt into the corner of the room and sipped his beer. 
+
+Greg walked in, noticed Jake was shirtless and grinned. "Damn, stripping for me already, huh?" he asked while grabbing one of the beers that Jake left out. Jake blushed and unbuttoned his jeans, hooking his thumbs in the loops. He replied, "Yeah, figured I'd give you a taste before I shower".
+
+Greg got closer and Jake brought him in for a hug. They kissed for a few moments, Greg could taste the beer on Jake's breath. He broke it off, took a step back and playfully said "Damn, you do need a shower" while fondling him. He pulled his pants down and felt Jake's fat dick through his briefs while they continued hugging. He whispered "Someone's eager" into Jake's ear and felt him shudder. He ran his hands along the seagull's back, and gave his ass a squeeze before letting him go. "I'll join you in a second".
+
+Jake casually finished his beer and walked to the bathroom. He turned on the water and stripped. He flexed in the mirror while the water worked it's way up the pipes and out the showerhead. Greg came in and hugged him from behind, placing a kiss on the side of his neck. He fondled Jake from behind, then started teasing his nipples while kissing his shoulder blades. Greg grabbed Jake's massive, soft dick and gave it a light squeeze. He shuddered, then turned around and removed Greg's shirt off of him. 
+
+"I've been looking forward to this all day" he said while kneeling in front of Greg and pulling his pants and boxers down. He gently licked Greg's balls while stroking his hardening dick. He traced a vein with his fingers, then started stroking his full length while Greg cursed under his breath. He carefully opened his beak and deepthroated him with no effort. He let it rest in his throat for a few moments before letting it slide out to catch his breath. He wiped the spit and precum off his beak and ate it slowly, then looked back up at Greg and angled himself slightly.
+
+Greg grabbed the back of Jake's head and brought his hips closer. He dick-slapped Jake a few times before cramming his dick in the eager Seagull's mouth. He watched Jake's eyes roll up in pure enjoyment while he slid in and out of his throat. He could feel Greg's dick bulging in his throat and even made a show of it by getting the tip of his beak to touch Greg's stomach. 
+
+Greg forced himself to pull out so Jake could catch his breath. Jake watched it throb in front of him for a few moments only to wrap his arms around his hips and force him back in. Greg was reaching his limit, he grabbed the back of Jake's head and pumped a few times before slowing down and eventually stopping. "There you go, swallow it."
+
+Jake groaned in response. He felt Greg's fat cock pulsing in his throat as he shot his load while he struggled to swallow it all. A few moments went by before he finally got it lodged out of his throat, strings of cum and spit trailed off his beak and onto the floor below him. He gasped, then looked back up at Greg and winked. His own dick was painfully hard. Greg could see the two massive veins that crawled down the underside of Jake's fat dick. He watched Jake's dick throb with need a large spurt of precum shot out, and landed on his upper leg.
+
+Jake got up off his knees, and bear-hugged Greg. Still panting, he whispered "Fuck, that was hot", then stepped into the shower. Once again, Greg got behind him and started fondling the horny bird. "Your turn".
+
+It was time to return the favor.
+
+Before Jake could even react, he felt Greg's hand wrap around his fat dick and start pumping. Slow at first, making sure to milk out more precum. Jake finally gained some composure and spoke up "Hey, that's not fair! I'm so pent up- mmmfff". Greg ignored him and kept slowly beating him off, whenever he felt him tense up, he would ease off, just to frustrate him. After five minutes of this, the tip of Jake's dick turned a slightly darker shade of red from all the edging. The veins on his dick stood out even more in the stark contrast to his white feathers. He started panting and couldn't stop himself from moaning whenever Greg groped him all over. He squawked as he came, making him blush even harder than he already was. He shot out seven massive ropes of semen all over the shower floor, and leaned on the shower wall to support himself. 
+
+Greg stood there, mostly shocked at how hard he made Jake cum. He kissed him on the back of the neck, and stepped out the shower and dried off. He threw the towel outside the bathroom door and spoke up, "Love ya, when you're done lets order some food." he paused, having trouble deciding what he wanted. "When you're done let's order a pizza or something, I can't be fucked to actually cook anything since it's so late, maybe tomorrow."
+
+Jake agreed, and continued showering. Getting with Greg certainly had it's advantages, but Jake realized just how lucky he was to be with him. The surprise handjobs were nice, but the every day moments something he grew to cherish. The jokes about him squawking during sex got old, but Jake had other ways to get back at him, all in good fun. He felt like he genuinely lucked out. He let the water pour on him while he reflected for a bit, then got out the shower and dried off. He walked out, naked, and continued his conversation with Greg. Every now and then he would catch him glancing at his large, soft dick and say "Dude, my eyes are up here" and winked. Feeling a bit more smug, Jake kept going: "Hey when you place the order", he paused for a moment, and started casually helicoptering his massive dick, then continued "ask if there's any meat specials". 
+
+Greg started laughing and Jake joined in, howling with laughter. They each cracked open another beer and started relaxing. Jake threw on some slightly baggy sweat pants that did nothing to hide his bulge, while Greg placed their order. He was happy he met Jake, a little jealous about his massive dick, but still happy.

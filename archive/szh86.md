@@ -1,0 +1,44 @@
+#Soappression
+[Original article](https://localcrew.ru/cleanseukraine) © Zhenya Loginov
+Curious are the fates of design and even more surprising is the human treatment of its history. It would be too trite to say that people take liberties with facts or even make up facts-it is well known. Each of us has done it ourselves with our own personal history. But if in private life this is forgivable, when it comes to entire peoples (or nations? can't tell anymore), the legacy splitting begins. Is this designer ours or yours? We can argue until the Second Coming. In the coming years, we will probably have to have just such debates with the Ukrainian national intelligentsia. Even if we take part in them or try not to notice them, the activity from the other side will not stop boiling.
+
+Appropriation is also quite cliché. Much more interesting is a different kind of kung fu. Using someone else's heritage as a weapon. ''Weaponizing,'' as the English say. It's an elegant way of propaganda. With enough imagination and sense of proportion, you can make mountains with it. The main thing is to know where to stop. And not to promise things you can't deliver. Spoiler: the heroes of our story today have not succeeded in these tasks.
+
+Some time ago the author of this column had a thought that made his back feel cold (this is an exaggeration, because the realization was calm, but the back should have felt cold). Since there are now many Ukrainians in Western academia, and Ukrainian expats and immigrants tend to be very patriotic, what will they do in the humanities? What are they already doing?
+
+It didn't take long for me to get an answer. Here and there I began to notice the work of people. Not those of the conspiracy type, but real people. Not sages from a secret order, but ordinary PhDs. PhD and a place in the department is enough to work as much as a mythical Englishwoman with a caliper. And most importantly, unlike conspiracy ideas, we do not need to prove anything here. The heroes of our story themselves successfully demonstrate the essence of their activity and will even get angry if you decide that "they didn't mean anything by it." 
+
+Since the author is subscribed to several newsletters, from time to time he sees in them, pardon the expression, "some shit". Usually it is immediately apparent in the titles of the works: "Feminist Devanagari Font," "The Decolonization of South Asian Design," etc. Just in case, let's add that these are not made-up titles. Now you're finally ready to hear the theme of our issue today. It will be a story about how Ukrainian culture has been colonized by Russian business and its design.
+
+In the study of design history, it's hard to do without the British. The history begins with their country, the English themselves have a good grasp of the subject and their work is worth referring to. And, of course, there is a place for minorities and the oppressed in the modern English university. In his inbox, for example, the author found a link to an online conference in the Folk Cultures in Everyday Objects series. A perfectly normal topic, as long as it doesn't involve politics or modern "studies" like "gender" and "feminist". Or Ukrainian ones.
+
+The story itself, without interpretation, is short and also banal. In 1864, the perfume company Brocard & Co. put "National Soap" on sale. The idea to sell it came from the wife of the owner of the company, Heinrich Brocard, Charlotte Ravet, a Belgian by birth. Henry Afanasyevich himself came to Russia from France and his family never accepted Russian citizenship. But that's just for the record.
+
+Charlotte also came up with a marketing move that changed so much that no Ukrainian researchers could ever dream of. "National Soap" was a cheap product priced at a penny. It made modern hygiene available to the masses of the peasantry without any state targeted programs, which is certainly a massive service to the populace.
+
+![The accused](https://localcrew.ru/wp-content/uploads/2022/12/soap_colony_04.webp)
+
+But it seemed to the enterprising lady that consumer properties were not enough, so she offered to put in the soap packages the designs of fashionable embroideries. These embroideries were fashionable according to the woman whose father had come to Russia from Belgium, the husband was a Frenchman with a Russian name, and they lived in contemporary Russian educated society, which had long followed all the common European trends. 
+
+The embroidery distributed by Brocard was trendy: French roses, Dutch, German embroidery. All of these were mixed with folk patterns, which the upper classes were then beginning to get into. The result in the form of designs was sent to production and that's how it got to Ukraine.
+
+Here we go to the iron arguments of the researcher, whose name we will not mention, so that it does not look like a personal attack - It is, in researcher's opinion, an attack on the entire Ukrainian narrative and "anti-colonialism" without distinction of nationality, age or gender. We in this magazine respect equality.
+
+So what could be Russian and colonial in the story told to us? According to Ukrainian science within the walls of an English university, it was a substitution of the traditional local Ukrainian pattern. Soap became popular, and the embroidery designs that served as a bonus became beloved by Russian artisans. Oh, we didn't say? After all, Brokard's soap wasn't dropped from a helicopter exclusively on Ukrainian villages like plague blankets. It was sold all over the country. Across the country, the French rose found a place on the sleeves of sundresses and collars of kosovorotkas. The folk pattern, which in the eyes of the Ukrainian researcher appears as "pure", was thus "contaminated" by the commercial one.
+
+![Slide with examples of folk embroidery (left) and Brokard embroidery (right)](https://localcrew.ru/wp-content/uploads/2022/12/soap_colony_05.webp)
+
+In principle, nothing new has happened. Cultures at all times have absorbed and adapted something from each other in a similar way. But let's not forget the word "weaponizing"! In order to gain scholarship, one must associate any process with "colonization." Add to what you have already heard, a comparison of soap sales with "bans on printing books in Ukrainian." Say that the Russian Empire was a state of the Russians as if it were something bad. Put the phrase on top: "By the end of the nineteenth century the Russification project was implemented in Ukraine with an unseen cruelty". Congratulations! Now you are a modern and fashionable scientist, as well as a fighter for the good against the bad.
+
+Don't even ask what was meant by "unseen cruelty". The speaker herself admitted at the end of her speech that she was incapable of arguing for her position. Yes, our whole story today boils down to the fact that the loud headline and thrown accusations do not beat the facts presented by the narrator herself, and she cannot explain how Russia colonized Ukraine with foreign embroideries.
+
+Don't be too quick to be disappointed. First, the inconsistency of this kind of "science" is a good thing. Secondly, here is another "fact" of Ukrainian thought: from the report we learn that Ukrainian ethnographers, it turns out, invented the term "traditional culture," which "is not found in international science". According to the researcher, this concept illustrates the distance between authentic embroideries and "interveners" from Brocard's designs.
+
+![](https://localcrew.ru/wp-content/uploads/2022/12/soap_colony_03-620x789.webp)
+![](https://localcrew.ru/wp-content/uploads/2022/12/soap_colony_02.webp)
+![](https://localcrew.ru/wp-content/uploads/2022/12/soap_colony_01.webp)
+- The designs in question
+
+What attitude should a serious researcher have toward this circus? At least we heard the real facts. There was a marketing campaign, and folk embroidery did change under its influence. But colonization did not take place. It is not even clear which culture is replacing the Ukrainian folk culture. Pan-European? Then what about the Russians?
+
+Folk culture has changed everywhere. And not only the embroidery. Everything was changing. The old Russia was going away, just as the old France, Spain, England. The industrial revolution set in motion a machine to create a mass society, replacing the traditional one. It had no colonial politics, no national origin, and no will. Only the Belgian woman, who wanted to make a living, had the will. And while we're on the subject of pseudo-science, it would be great to hear a feminist-studies report on how a French husband oppressed his Belgian wife, who, in turn, projected this abusive relationship onto the Russian people, oppressing them with her cross-stitching. It seems your humble servant will soon have a scholarship and a place in London.

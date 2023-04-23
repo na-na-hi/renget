@@ -161,12 +161,6 @@ while [ "$flag" = "true" ]; do
     p "starting recursive download..."
     :> "tmp-$renget_savelink_filename"
     for file in *.md; do
-        id="${file%.*}"
-        if grep -q "^$id\$" "downloaded.txt"; then
-            inf "$id already exists"
-            continue
-        fi
-        
         get_ids_from_file "$file" >> "tmp-$renget_savelink_filename"
     done
     cat "tmp-$renget_savelink_filename" | sort | uniq -i | grep . > "rec-$renget_savelink_filename"
