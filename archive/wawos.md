@@ -1,0 +1,32 @@
+Chapter 4, Day 2.2 : The Toad
+
+The courtyard was bustling with students, some playing with gobstones, others chatting happily, a few loud laugh erupting from time to time and the odd couple kissing in a corner. Margaret briskly paced through, on her way to the hopefully empty common room as few students threw a passing glance at her.
+The hallways were almost empty, with only a few students, most busy studying or chatting with a painting, as Margaret observed the best way to navigate her way back to her common room, a flying book threw itself on her face, pages first, open in the middle.
+
+The obviously surprised girl struggled a little against the force of the enchanted item before closing it a bit too loud for her intention, the book's cover started glowing faintly and a little voice started speaking, it was Professor Weasley's "Good morning, miss... M-Megamelons, I couldn't help but notice your note about 'detective' work, what a wonderful idea! So wonderful, in fact, that I took the liberty of making some last minute modifications to your Field Guide to better accommodate you! Knowing you, I'm sure you'll be delighted to have all you need in this very special book! Have a nice week-end, Margaret!" the caring professor voice quieted before changing into a more neutral and calm voice "One student has requested your help."
+The young girl was in awe and she was moved by her professor's kindness and discretion, she opened the page on the blue mark reading "Quests", chuckling at the thought of herself in a suit of armour, and began reading the note left by a concerned first year : "Hello detective, my Gryffindor friend told me about your note, I'm a first year Hufflepuff and I lost my toad, he's a little green toad, he looks angry but he's very nice, I have no idea where he could be, please help me! Oh, his name is Douglas, he loves singing in the morning, I'll be waiting in the clocktower courtyard!"
+
+"A toad? I love toads" she thought "and frogs, they're adorable, and he's supposed to be nice? I can't wait to meet him." she was excited at the prospect of playing with a new friend, and helping an innocent soul in distress.
+"But where could it be, I suppose I should look around the fountains..." she briskly walked around the castle, quickly scanning every room and carefully inspecting the fountains.
+As Margaret approached the Clocktower Courtyard fountain, she noticed a girl bent over the water, reaching into it and pocketing what she had scooped, before looking around, suspicious.
+Not spotted yet, she kept observing the strange girl's behaviour, she was hiding something, maybe the toad? Her blue eyes suddenly glued themselves into Margaret's, her expression turning into an uneasy smirk and... she tripped. Her purse flying right open, spilling gold coins everywhere, her half-glasses thrown off her face, she looked over the shadow towering her, the hint of a tear showing in the corner of her eyes.
+"Fiddlesticks!" the Slytherin girl muttered to herself as she began pawing for her glasses, while wobblily standing up, her knee a little bit scraped.
+Margaret offered her open hand to her fellow student, her other hand offered the floored girl her glasses back.
+"Thanks Gryffindork!" said the snarky girl, waving her wand to recover her spilled bounty, glasses on her nose and knee still a little shaky.
+Margaret waved her wand softly and the small injury began healing. "Oooh free service? I like you already, hehe!" said the grinning little lady, fixing her hat.
+"What were you doing in that fountain? Did you find a green toad?" asked Margaret, softly.
+"That's none-a-your beeswax!" exclaimed the snarky Slytherin "Wait, green toad? You're looking for something aren't you..?" she begins shuffling around a strange bag and produces a small green rock. "I can sell you this wonderful magical item. This enchanted pebble allows you to see through the eyes of the person you're thinking about and...Stuff...Since you helped me AND healed me I will allow you to rob me from this prized possession for the mere price of... 1 Galleon... 5 Galleons!"
+Utterly amused by her schoolmate, Margaret stifled a chuckle "That's very generous of you. I don't know a lot about artifacts but this sounds incredibly valuable." she said, a slight puzzled look on her face. "Crap is she not that gullible? Quick, noggin', start joggin' !" the budding entrepreneur thought "Ehehe, how keen, yes it's very valuable but... Uhh... It only works on animals! Yes! That's why it's so cheap." "But still valuable!" it was as if her eyes had turned into galleons.
+"This may be exactly what I need, I will offer you 10 galleons, for your generosity and for helping me help another student." said Margaret, grabbing her purse.
+"SCORE!" screamed the blonde girl internally as she almost reluctantly parted with the blatant counterfeit item: a small pebble dipped in green paint.
+"Thank you for your patronage, hehe, my name is Alice, I hope to do business with you again!" she smirked as Margaret nodded "Well then...Ta-ta!" Alice half ran away, her coin purse singing loudly.
+
+Holding the obviously useless pebble in her hand, Margaret was now alone in the courtyard, focusing intensely.
+Or so she would've loved to if the sound of a first year shyly approaching her didn't interrupt her thinking. "Hello, are you the Detective? Do you have my toad?" the young girl asked.
+"Not yet, I'm sorry." she answered, her gaze locked on the pebble, her mind wandering in a distant swamp, buzzing with mosquitoes and the cacophony of fat brown toads.
+"I do now!" she was unusually excited, "Wait for me here, I know exactly where Douglas is." her usual composure was back, the little girl was a little scared, Margaret suddenly bolted towards the lake right where she had been exercising this morning, the little girl was now very scared.
+Less than 10 minutes later, her robes a little muddy and her breath not even shorted, Margaret appeared again, the toad in one hand, the pebble in another, as an innocent smile started beaming on the Hufflepuff girl's face.
+
+Hiding in the shadows, Alice was flabbergasted "What is this girl? She did it? And that worthless pebble HELPED?!"
+
+Her heart was warm from the child's smile, uncomfortable embrace and tears, she couldn't bring herself to make her forget, maybe she should be remembered, maybe a little attention wasn't that bad.

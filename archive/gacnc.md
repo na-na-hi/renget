@@ -1,0 +1,4 @@
+(best quality:1.3), (masterpiece:1.2), 1girl, cute, looking at viewer, white hair, (albino_style:1.08), (white eyelashes, colored eyelashes:1.2), (black dress:1.35), red eyes, (sketch:1.1), sharp lines, (swept bangs:1.3), sakura tree, bag, hair ribbon, (black turtleneck:1.2), (official art:1.1), (close-up:1.1), petals, (from side:0.9), upper body, braid, (half-closed eyes:0.8), fluffy eyelashes
+
+lowres, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, out of frame, extra fingers, mutated hands, (poorly drawn hands), (poorly drawn face), (mutation), (deformed breasts), (ugly), blurry, (bad anatomy), (bad proportions), (extra limbs), no humans, (black eyelashes:1.2), (realistic:1.2), animal ears, (hair between eyes:1.35), (hair over eyes:1.3), eyeliner, (bangs:1.3), (glossy, shiny:1.2), ( hime cut:1.1), (glowing:1.2), headband
+10 CFG, 25 Steps, NAI Model [925997e9]

@@ -1,0 +1,30 @@
+#LoRAs
+
+##Characters
+[Ankha, Animal Crossing [07/Apr/2023]](https://files.catbox.moe/6ri9fz.safetensors)
+[Argonians [07/Apr/2023]](https://files.catbox.moe/ekmirg.safetensors)
+[Delia Ketchum, Pokémon [07/Apr/2023]](https://files.catbox.moe/yjgxoc.safetensors)
+[Felix Argyle, Re:Zero [07/Apr/2023]](https://files.catbox.moe/et6srx.safetensors)
+[Frankie Foster, Foster's Home for Imaginary Friends [07/Apr/2023]](https://files.catbox.moe/ekwjfi.safetensors)
+[Goblin [07/Apr/2023]](https://files.catbox.moe/plk39a.safetensors)
+[Hex Maniac, Pokémon [07/Apr/2023]](https://files.catbox.moe/sgqy8q.safetensors)
+[Jessie, Pokémon [07/Apr/2023]](https://files.catbox.moe/g51fq3.safetensors)
+[L, Death Note [07/Apr/2023]](https://files.catbox.moe/vl9hdo.safetensors)
+[Lana's Mom, Pokémon [07/Apr/2023]](https://files.catbox.moe/ywesdx.safetensors)
+[Link, The Legend of Zelda: Breath of the Wild [07/Apr/2023]](https://files.catbox.moe/ak022w.safetensors)
+[Lola Bunny, Looney Tunes [07/Apr/2023]](https://files.catbox.moe/52brhj.safetensors)
+[Lopunny, Pokémon [07/Apr/2023]](https://files.catbox.moe/yul4sr.safetensors)
+[Midna, The Legend of Zelda: Twilight Princess [07/Apr/2023]](https://files.catbox.moe/ls0eea.safetensors)
+[Misa Amane, Death Note [07/Apr/2023]](https://files.catbox.moe/gmlwdg.safetensors)
+[Nani Pelekai, Lilo & Stitch [19/Apr/2023]](https://files.catbox.moe/5inpwl.safetensors)
+[Natsuki, Doki Doki Literature Club [07/Apr/2023]](https://files.catbox.moe/vzvw2x.safetensors)
+[Panty Anarchy, Panty & Stocking with Garterbelt [07/Apr/2023]](https://files.catbox.moe/ndefcb.safetensors)
+[Retro MILF [07/Apr/2023]](https://files.catbox.moe/rhrj5u.safetensors)
+[Rin Tezuka, Katawa Shoujo [07/Apr/2023]](https://files.catbox.moe/p6hdpn.safetensors)
+[Rouge the Bat, Sonic [07/Apr/2023]](https://files.catbox.moe/q4i21k.safetensors)
+[Wolf Anthro Male [07/Apr/2023]](https://files.catbox.moe/o35d5p.safetensors)
+##Styles
+[Death Note [07/Apr/2023]](https://files.catbox.moe/btuy5t.safetensors)
+[Wolf Girl With You, seismic[07/Apr/2023]](https://files.catbox.moe/mmcfr3.safetensors)
+##aom2strawberry
+[HuggingFace](https://huggingface.co/Dorshu/aom2strawberry/resolve/main/aom2strawberry.safetensors)

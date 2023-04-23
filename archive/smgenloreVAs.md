@@ -1,0 +1,1376 @@
+-> ![Image description](https://files.catbox.moe/czzc9h.jpg) <-
+# -> The Sound of Autism: VA Aside <-
+
+SMITE's got a lot of VAs.
+Hundreds of them.
+Over 1,000 individual VAs as of writing.
+You might have heard their voices somewhere else before *(given SMITE, quite oddly, has an \*absurdly\* good quality English cast in terms of it's scope and budget)* - so I'll quickly clear up what is and is not schizophrenia on your end; you can decide from there on whether you want to take your meds or not. I've not got the time to cover every skin in the game or every role each actor has done, so I'll just be sticking to defaults / classics and lead / main voices you will probably recognise *(over \*Background Character #29665\* from \*Who: The Adventures of What\*) ~~or at the very least, since there's quite a lot of series I'm not into, I'll be basing 'relevence' off of what I've seen via reaction images / lurking the site etc and who seems to be recognisable~~*. You might notice a few repeated names, but preese unnastan - this bit's probably going to be used mostly for people looking up their main and 1-2 others, so I may as well do them all equally and at once.
+
+Major *(major)* dubbing roles that should be immediately recognisable will be in **bold**.
+Alphabetically in order of cross-roles within LoRez, then subjectively in what I'd imagine to be an order of recognition to a given Anon, with special inclusions for other mythological names and VA has done in other series. You'll notice many of these are /v/ and /a/ >dubs, but they're VA's, it's the name of the game - I've also gone to the delight of..... 'visualising' some of the series, when they share multiple VA's with SMITE, just to add to the mindfuckery.
+**Naturally, major weeb warning ahead.**
+
+ - Achilles 			  = Ricco Fajardo
+	- Camazotz
+	- Corvus (Paladins)
+	- Mirio Togata (BnHA)
+	- Producer-san (Zombieland Saga)
+	- Taiju (Dr Stone)
+	- Itona Horibe (Assassination Classroom)
+	- Kyosuke Munakata (Danganronpa)
+ - Agni 			  = Scott Freeman
+	- Thanatos
+	- Issei Hyoudou (Highschool DxD)
+	- *~~Got partyv& for CP in 2015~~*
+ - Ah Muzen Cab 			  = Jason Liebrecht
+	- Zeke (Attack on Titan)
+	- Abel (Street Fighter V)
+	- Yato (Noragami)
+	- Hei (Darker than Black)
+	- Dabi (BnHA)
+	- Rob Lucci (One Piece)
+	- Mordecai (Borderlands)
+	- Tapion / Champa (Dragon Ball)
+ - Ah Puch 			  = Bruce Carey
+	- Silvers Rayleigh (One Piece)
+	- Lemo (Dragon Ball)
+	- Ivan Dreyar (Fairy Tale)
+	- Yosaku (Toriko)
+ - Amaterasu 			  = Cristina Valenzuela
+	- Discordia
+	- Ying (Paladins)
+	- **Shantae** / Risky (Shantae)
+	- Riven (League of Legends)
+	- Cerebella / Skull Heart (Skullgirls)
+	- Noel Vermillion (Blazblue)
+	- Killua (Hunter x Hunter 2011)
+	- Sakura (Fate)
+	- Marinette (Ladybug and Cat Noir)
+	- Darkness (Konosuba)
+	- Charlotta / Ferry (Granblue Fantasy)
+	- Marnie (Pokemon Masters)
+	- Kizuna AI (Official English Dub)
+	- Homura (Madoka Magica)
+	- Mio (K-On)
+	- Sailor Mars (Sailor Moon)
+	- Elsa Granhiert (Re:Zero)
+	-  Xingqiu / Bennett (Genshin Impact)
+	- Fujiko (Lupin III, later roles)
+	- Vivy (Vivy: Fluorite Eye's Song)
+ - Anhur 			  = Christopher Sabat
+	- Fenrir
+	- Geb
+	- He Bo
+	- Zeus
+	- Grover (Paladins)
+	- **Vegeta / Piccolo / Shenron** / Recoome (Dragon Ball)
+	- **All Might** (BnHA)
+	- Zoro (One Piece)
+	- Louis Armstrong (Full Metal Alchemist)
+	- Elfman Strauss (Fairy Tail)
+	- Jigen (Lupin III, split between Richard Epcar)
+	- Mondo Ohwada (Danganronpa)
+	- Kazuma / Raizen (Yu Yu Hakusho)
+	- Jason (Tokyo Ghoul)
+	- Batou (Ghost in the Shell)
+	- Papa (Darling in the Franxx)
+	- Garterbelt (Panty & Stocking)
+	- Inferno Cop (Inferno Cop)
+	- Ayame Soma (Fruits Basket)
+	- Rath / Attikus (Battleborn)
+	- ~~Blood Eagle Leader (Tribes Ascend)~~
+	- *His power level.....IT'S OVER 9000!!!!!*
+ - Anubis 			  = R Bruce Elliott
+	- Whitebeard (One Piece)
+	- Richard Moore (Detective Conan)
+	- Makarov Dreyar (Fairy Tail)
+	- Pixis (Attack on Titan)
+	- Captain Ginyu (Dragon Ball)
+	- *Like, hundreds of other minor 'old man' roles*
+ - Ao Kuang 			  = Kaiji Tang
+	- **Ichiban Kasuga** (Yakuza 6: Like a Dragon)
+	- Munehisa Iwai (Persona 5)
+	- Satoro Gojo (Jujustu Kaisen)
+	- Faust (Guilty Gear)
+	- Detective Pikachu (Pokemon) *game ones, not the movie one*
+	- Archer (Fate, later roles)
+	- Sanemi Shinazugawa (Kimetsu no Yaiba)
+	- Tsumugu Kinagase (Kill la Kill)
+	- Osamu Dazai (Bungou Stray Dogs)
+	- Eustace (Granblue)
+	- Halfdan (Vinland Saga)
+	- Owain (Fire Emblem Awakening)
+	- Odin (Fire Emblem Fates)
+	- Jann Lee (Dead or Alive 6)
+	- Retsu Kaioh (Baki 2018)
+	- ~~Guts (Berserk 2016)~~
+ - Ao Kuang (Classic) 			  = Kent Williams
+	- Supreme Kai / Kibito Kai / Android 20 (Dragon Ball)
+	- Kuro (One Piece)
+	- Mr Compress (BnHA)
+	- Judge (Ace Attourney)
+	- Byakuya Ishigami *aka Senko's Dad* (Dr. Stone)
+	- Dr Franxx (Darling in the Franxx)
+	- Mao the Cat (Darker than Black)
+	- Goau Fanel (Escaflowne)
+	- ***A MIGHTY STORM!***
+ - Aphrodite 			  = Martha Harms
+	- Skadi
+	- Kinessa (Paladins)
+	- Maya (Borderlands)
+	- Irina Jelavic (Assassination Class)
+	- Officer Jenny (Pokemon Anime, later roles)
+	- Daidouji *~~aka huge titted delinquent~~* (Senran Kagura)
+ - Apollo 			  = Phil Parsons
+	- *{Classic has the same VA}*
+	- Chiron
+	- Kenny Ackerman (Attack on Titan)
+	- Nappa (Dragon Ball)
+	- Buccaneer (Full Metal Alchemist)
+	- Tensei Iida *aka Iida's Older Brother* (BnHA)
+	- Flying Dutchman (Soul Eater)
+	- Jesus Burgess (One Piece)
+ - Arachne 			  = Colleen Clinkenbeard
+	- Ne Zha
+	- **Monkey D. Luffy** (One Piece)
+	- Son Goku / Son Gohan / Agent Mai / Zangya (Dragon Ball)
+	- Lilith (Borderlands)
+	- Erza Scarlet (Fairy Tail)
+	- Momo Yaoyorozu (BnHA)
+	- Scarlet (Space☆Dandy)
+	- Riza Hawkeye (Full Metal Alchemist)
+	- Rachel Moore (Detective Conan)
+	- Akito Soma (Fruits Basket)
+	- Scanty (Panty & Stocking)
+	- Chisa Yukizome (Danganronpa)
+	- Galilea (Battleborn)
+	- *Troublemaker, known hyperfat fetishist. ~~And it shows.~~*
+ - Ares 			  = Jason Douglas
+	- *{Classic has the same VA}*
+	- Beerus / King Cold (Dragon Ball)
+	- Krieg (Borderlands)
+	- Kokuyo (Dr Stone)
+ - Artemis 			  = Brina Palencia
+	- Cupid
+	- Rei Ayanami (Evangelion, later roles)
+	- Moxxi (Borderlands)
+	- Chopper / Young Zoro (One Piece)
+	- Chiaotzu (Dragon Ball, later roles)
+	- Minoru Mineta (BnHA)
+	- Holo (Spice & Wolf)
+	- Io / FeMC (Code: Vein)
+	- Sakura Minamoto (Zombieland Saga)
+	- Yin (Darker than Black)
+	- Juvia Lockser (Fairy Tail)
+	- Ayra (Fire Emblem)
+	- Nyotengu (Dead or Alive)
+	- Rin (Fruits Basket)
+	- Ibuki Mioda (Danganronpa)
+	- Vi Graythorn (Detective Conon)
+ - Artio 			  = Hetty Abbott 
+	- *{Heavily into shorts, Artio is her only VA work}*
+ - Athena 			  = Lindsey Alena 
+	-  *{No other credited roles} {Of note} {Lots of background voicework, you might have heard her in GTA V, Last of Us II or Red Dead Redemption 2}*
+ - Athena (Classic) 			  = Kara Edwards
+	- Son Goten (Dragon Ball)
+	- Chihiro Fujisaki (Danganronpa)
+	- Hikage (Senran Kagura)
+	- Shayne (Battleborn)
+ - Atlas 			  = Bob Carter 
+	- Odin
+	- Olorun
+	- Balrog (Street Fighter)
+	- Baraka (Mortal Kombat)
+	- Sig Curtis (Full Metal Alchemist) 
+	- Bojack (Dragon Ball)
+	- Luco (Darker Than Black)
+	- Over Justice (Space Patrol Luluco)
+ - Awilix 			  = Bryn Apprill
+	- Skye (Paladins)
+	- Ryoko Asakura (Haruhi, later roles)
+	- Ritsu (Assassination Classroom)
+	- Yotsuba Nakano (Quintessential Quintuplets)
+	- Hiyori Iki (Noragami)
+	- Krista (Attack on Titan)
+	- Ibara Shiozaki (BnHA)
+	- Miku (Darling in the Franxx)
+	- Zenith Greyrat (Mushoku Tensei)
+	- Tsubasa Kamii (Danganronpa)
+	- Ai Mizuno (Zombieland Saga)
+	- Tail Red (Ore, Twintail ni Narimasu)
+	- Cyan (Show by Rock)
+	- Shirahoshi (One Piece)
+ - Baba Yaga 			  = Jenn Wong
+	-  *{No other credited roles} {Of note} {Mostly background voice work}*
+ - Bacchus 			  = Chris Rager
+	- Drogoz (Paladins)
+	- **Mr. Satan** / King Enma / South Supreme Kai (Dragon Ball)
+	- Blackbeard (One Piece)
+	- Veldora Tempest (Slime Isekai)
+	- Cementoss (BnHA)
+	- Torgue (Borderlands)
+	- Zampano (Full Metal Alchemist)
+	- Lothar Rendain (Battleborn)
+ - Bakasura 			  = Bradford Jackson
+	- *{Classic has the same VA}*
+	- Hun Batz
+	- Oolong / King Cold (Dragon Ball)
+	- Shade (Borderlands)
+	- Gonzo Tarukane (Yu Yu Hakusho)
+	- *{Genuinely though it was Adam from Mythbusters at first, but no, he's just a lookalike VA}*
+ - Baron Samedi 			  = Edward Bosco
+	- Ruckus (Paladins)
+	- Viktor (Paladins)
+	- Ed (Street Fighter V)
+	- Chipp Zanuff (Guilty Gear Strive)
+	- Kan-Ra (Killer Instinct)
+	- Male MC (Code: Vein)
+	- Gustav / Lif (Fire Emblem Heroes)
+	- Alastor (Hazbin Hotel)
+	- Hammerhead (One Punch Man)
+	- Franklin (Hunter x Hunter)
+	- Akira Mabuchi (Yakuza 6: Like a Dragon)
+	- Icon of Sin (DOOM Eternal)
+	- Chamomile (Baki)
+	- Soundwave / Ultra Magnus (Transformers, later roles)
+	- Jagi (Fist of the North Star, later roles)
+ - Bastet 			  = Leah Clark
+	- **Toga Himiko** (BnHA)
+	- Kobayashi (Miss Yobayashi's Dragon Maid)
+	- Ikuno (Darling in the Franxx)
+	- Mio (Nichijou)
+	- Kobachi (Kaguya-sama)
+	- Dark Grasper (Ore, Twintail ni Narimasu)
+	- Young Kaneki / Ruizawa (Tokyo Ghoul)
+	- Mavis Vermillion (Fairy Tail)
+	- Sylvie (How Not to Summon a Demon Lord)
+	- Megumi Hanajima (Fruits Basket)
+	- Nora (Spice & Wolf)
+	- Yuudachi (KanColle)
+	- ~~Ms. Wilderzone (Tribes Ascend)~~
+ - Bellona 			  = Laura Post
+	- Nox
+	- **Ahri** (League of Legends)
+	- Kasumi Yoshizawa (Persona 5 Royal)
+	- Sakuna (Sakuna: Of Rice & Ruin)
+	- Nu Wa (SMT V)
+	- Yuko Takao (SMT III Nocture Remaster)
+	- Valentine (Skullgirls)
+	- Akeha (NieR Reincarnation)
+	- Ana (Killing Floor 2)
+	- Fubuki (One Punch Man)
+	- Harley Quinn (Telltale Batman)
+	- Arfoire (Neptunia)
+	- Zooey (Granblue)
+	- Melone Twins (Scarlet Nexus)
+	- Cheryl / Flannery (Pokemon Masters)
+	- Ragyo Kiryuin (Kill la Kill)
+	- Mai Zenin (Jujutsu Kaisen)
+	- Diana Cavendish (Little Witch Academia)
+	- Tamayo (Kimetsu no Yaiba)
+	- Diantha (Pokemon Anime)
+	- Isabella (The Promised Neverland)
+	- Queen Nehellenia (Sailor Moon)
+	- Macrophage (Cells at Work)
+ - Cabrakan 			  = Tyson Rinehart
+	- **Daru** (Steins; Gate)
+	- Bartolomeo (One Piece)
+	- Hifumi Yamada (Danganronpa)
+	- Ota (Ping Pong: The Animation)
+	- Enji Koma (Tokyo Ghoul)
+	- Ranga (Slime Isekai)
+	- Matsuda (Highschool DxD)
+ - Camazotz			   =	Ricco Fajardo
+	- Achilles
+	- Corvus (Paladins)
+	- Mirio Togata (BnHA)
+	- Producer-san (Zombieland Saga)
+	- Taiju (Dr Stone)
+	- Itona Horibe (Assassination Classroom)
+	- Kyosuke Munakata (Danganronpa)
+ - Cerberus			   =	Bruce DuBose
+	- Thor
+	- Marcus Kincaid (Borderlands)
+	- Gonzales (Full Metal Alchemist)
+	- Djel (Attack on Titan)
+	- Kaijin (Slime Isekai)
+	- General Graves (Duke Nukem)
+	- Neptune (One Piece)
+ - Cernunnos			   =	Mick Lauer 
+	- Khan (Paladins)
+	- Leone Abbacchio (JoJo's Bizarre Adventure Part 5: Golden Wind)
+ - Chaac 			  = Patrick Seitz
+	- Hades
+	- **DIO** (JoJo's Bizarre Adventure)
+	- **Scorpion** (Mortal Kombat X)
+	- The Lich King / Garrosh (World of Warcraft)
+	- Renekton / Lucian / Kog'Maw (League of Legends)
+	- Endeavor (BnHA)
+	- Franky (One Piece)
+	- Dracula / Death (Castlevania)
+	- Artanis (Starcraft)
+	- Ira Gamagoori (Kill la Kill)
+	- Jiren (Dragon Ball)
+	- JP (REDLINE)
+	- Sky High (Tiger & Bunny)
+	- Hugo / Bob (Street Fighter)
+	- Keith (Attack on Titan)
+	- Samson (Skullgirls)
+	- Ragna (BlazBlue)
+	- Douglas / Daghan (Xenoblade Chronicles X)
+	- Death Knight / Basilio / Jeritza (Fire Emblem)
+	- Shuren / Isshin Kurosaki (Bleach)
+	- Uvogin (Hunter x Hunter)
+	- Laxus Dreyar (Fairy Tail)
+	- Doppo Kunikida (Bungou Stray Dogs)
+	- Assasin: Zayd / Hassan (Fate)
+	- Bass Armstrong (Dead or Alive)
+	- Sergei Vladimir (Resident Evil)
+	- TJ Combo (Killer Instinct)
+	- Cervantes de Leon (Soul Caliber)
+	- Mason (Dragon's Dogma)
+	- Tauemon (Sakuna: Of Rice & Ruin)
+	- Metatron (SMT V)
+	- Nyarlathotep (Persona 2)
+	- Kadokura / Victor / Gouto Douji / MC's Father (SMT Soul Hackers)
+	- Barton Rosch (Ni No Kuni)
+	- Olberic Eisenberg (Octopath Traveller)
+	- Marco Owen (King of Thorn)
+	- Ghetsis (Pokemon Anime)
+	- Thorkell (Vinland Saga)
+	- Devastator / Overlord (Transformers, later roles)
+	- Tank Top Master (One Punch Man)
+	- Riz (BEASTARS)
+	- Harumi Takeda (Senpai ga Uzai Kohai)
+	- Sloth (Full Meal Alchemist)
+	- Starmon (Digimon)
+	- Kadomon Risch (Re:Zero)
+	- Lyric / Zavok / Zomom (Sonic the Hedgehog)
+	- Ladiva (Granblue Fantasy)
+	- Lt. Surge (Pokemon Masters)
+	- Captain (SONNY Boy) *aka Monkey Baseball*
+	- Red Blood Cell AD6614 (Cells at Work: BLACK) *You're gonna carry that Oxygen.*
+ - Chang'E 			  = Trina Nishimura
+	- **Mikasa Ackerman** (Attack on Titan)
+	- **Kurisu Makise** (Steins; Gate)
+	- Mari Makinami (Evangelion)
+	- Kyoka Jiro (BnHA)
+	- Kirishima (KanColle)
+	- Rachel (Baccano)
+	- Lan Fan (Full Metal Alchemist: Brotherhood)
+ - Chang'E's Rabbit 			  = Ric Spiegel
+	- Dr. Zed Blanco (Borderlands)
+	- Narrator (Age of Empires II)
+	- Gordon Quick / Max Chen (Deus Ex)
+ - Charybdis 			  = Xanthe Huynh
+	- Willo (Paladins)
+	- Haru Okumura (Persona 5)
+	- Hanyuu (Higurashi Gou)
+	- Ui Hirasawa (K-On)
+	- Vatista (BlazBlue)
+	- Siesta (Detective is Already Dead)
+	- Nonoko Kishii (Dragon Dentist)
+	- Platelet (Cells at Work)
+	- Alice (Fate)
+	- Eir (Fire Emblem: Heroes)
+	- Marianne (Fire Emblem: Three Houses)
+	- Hanayo Koizumi (Love: Live)
+	- Nazuna Hiwatashi (BNA)
+	- Ophelia (Vivy: Fluorite Eye's Song)
+	- Alluka Zoldyck (Hunter x Hunter)
+	- Theresia van Astrea / Plum (Re; Zero)
+	- Nagisa Momoe (Madoka Magica)
+	- Hidomi Hibajiri (FLCL Progressive)
+	- Erika (Pokemon Masters)
+	- Sachi (Sword Art Online)
+ - Chernobog			   =	Doug Cockle
+	- ***~~HOLY FUCKING SHIT HE'S~~* Geralt of Rivia** (Witcher 3) *more recognisable when voicing Spirit Caller Hou Yi*
+ - Chiron 			  = Phil Parsons
+	- Apollo
+	- Kenny Ackerman (Attack on Titan)
+	- Nappa (Dragon Ball)
+	- Buccaneer (Full Metal Alchemist)
+	- Tensei Iida *aka Iida's Older Brother* (BnHA)
+	- Flying Dutchman (Soul Eater)
+	- Jesus Burgess (One Piece)
+ - Chronos 			  = Stan Robak
+	-  *{Loads of miscellaneous commercials / political ads...}*
+	-  *{Slick personal website - guy's got a grind going}*
+ - Cliodhna 			  = Elsie Lovelock 
+	-  Lillith (Paladins)
+	-  *{No other credited roles} {Of note} {VA's cute though} {Huge amount of recent roles though, all minor, seems she's breaking into the industry - the girl's on a grind for a deserved lead role to say the least}*
+ - Cthulhu 			  = Adin Rudd
+	- Merlin
+	- Beelzebub (Granblue Fantasy)
+	- Lysandre (Pokemon Anime)
+ - Cu Chulainn 			  = Jared J. Lee 
+	-  *{No other credited roles} {Of note} {Seems to have retired ~2014?}*
+	-  *{Also is a living racist steroetype of an irishman, you'll understand when you invariably look him up now}*
+ - Cupid 			  = Brina Palencia
+	- Artemis
+	- Rei Ayanami (Evangelion, later roles)
+	- Moxxi (Borderlands)
+	- Chopper / Young Zoro (One Piece)
+	- Chiaotzu (Dragon Ball, later roles)
+	- Minoru Mineta (BnHA)
+	- Holo (Spice & Wolf)
+	- Io / FeMC (Code Vein)
+	- Sakura Minamoto (Zombieland Saga)
+	- Yin (Darker than Black)
+	- Juvia Lockser (Fairy Tail)
+	- Ayra (Fire Emblem)
+	- Nyotengu (Dead or Alive)
+	- Rin (Fruits Basket)
+	- Ibuki Mioda (Danganronpa)
+	- Vi Graythorn (Detective Conon)
+ - Da Ji 			  = Mallorie Rodak
+	- Solution (Overlord)
+	- High Elf Archer (Golbin Slayer)
+	- Miyo Takano (Higurashi Gou)
+	- Yukino Aguria (Fairy Tail)
+ - Danzaburou 			  = Dai Tabuchi
+	-  *{No other credited roles} {Of note} {Mostly a TV / Film actor over a VA, you might have heard him in 47 Ronin}*
+ - Discordia 			  = Cristina Valenzuela
+	- Amaterasu
+	- Ying (Paladins)
+	- **Shantae** / Risky (Shantae)
+	- Riven (League of Legends)
+	- Cerebella / Skull Heart (Skullgirls)
+	- Noel Vermillion (Blazblue)
+	- Killua (Hunter x Hunter 2011)
+	- Sakura (Fate)
+	- Marinette (Ladybug and Cat Noir)
+	- Darkness (Konosuba)
+	- Charlotta / Ferry (Granblue Fantasy)
+	- Marnie (Pokemon Masters)
+	- Kizuna AI (Official English Dub)
+	- Homura (Madoka Magica)
+	- Mio (K-On)
+	- Sailor Mars (Sailor Moon)
+	- Elsa Granhiert (Re:Zero)
+	-  Xingqiu / Bennett (Genshin Impact)
+	- Fujiko (Lupin III, later roles)
+	- Vivy (Vivy: Fluorite Eye's Song)
+ - Erlan Shen 			  = Brandon McInnis 
+	- Sir Nighteye (BnHA)
+	- Gen Asagiri (Dr. Stone)	
+	- Yuta Hibiki (SSSS. Gridman)
+	- Finral Roulacase (Black Clover)
+	- Sohnosuke Izayoi (Danganronpa)
+	- Iketeru (Uramichi Oniisan)
+	- Xane (Fire Emblem: Heroes)
+	- Yuichiro Kurono (Fire Force)
+ - Fafnir 			  = Ari Ross 
+	-  *{No other credited roles} {Of note} {Lots of generally minor TV work otherwise, you won't have heard him or anything he's done anywhere else}*
+ - Fenrir 			  = Christopher Sabat
+	- Anhur
+	- Fenrir
+	- Geb
+	- He Bo
+	- Zeus
+	- Grover (Paladins)
+	- **Vegeta / Piccolo / Shenron** / Recoome (Dragon Ball)
+	- **All Might** (BnHA)
+	- Zoro (One Piece)
+	- Louis Armstrong (Full Metal Alchemist)
+	- Elfman Strauss (Fairy Tail)
+	- Jigen (Lupin III, split between Richard Epcar)
+	- Mondo Ohwada (Danganronpa)
+	- Kazuma / Raizen (Yu Yu Hakusho)
+	- Jason (Tokyo Ghoul)
+	- Batou (Ghost in the Shell)
+	- Papa (Darling in the Franxx)
+	- Garterbelt (Panty & Stocking)
+	- Inferno Cop (Inferno Cop)
+	- Ayame Soma (Fruits Basket)
+	- Rath / Attikus (Battleborn)
+	- ~~Blood Eagle Leader (Tribes Ascend)~~
+	- *His power level.....IT'S OVER 9000!!!!!*
+ - Freya 			  = Jamie Marchi
+	- **Junko Enoshima** (Danganronpa)
+	- Quetzalcoatl (Miss Kobayashi's Dragon Maid)
+	- Brita (Darker than Black)
+	- Ellie (Borderlands 3)
+	- Mt. Lady (BnHA)
+	- Panty (Panty & Stocking)
+	- Miss Valentine (One Piece)
+	- Rias Gremory (Highschool DxD)
+	- Cana Alberona (Fairy Tail)
+	- Chloe (Spice & Wolf)
+	- Marcarita (Dragon Ball)
+	- Midori (Space Patrol Luluco)
+	- Ristarte (Cautious Hero)
+	- Tsuyu (Noragami)
+	- ~~Femme Fatale (Tribes Ascend)~~
+	- ~~that one Cassie skin.....you know...*that* one... (Paladins)~~
+	- *Known troublemaker, responsible for the infamous 'Pesky Patriarchial Societal Demands' line-change as Quetzalcoatl*
+ - Ganesha 			  = Reagan Murdock 
+	- Murichim / Giin (Dragon Ball)
+	- Hanakawa (Gleipnir)
+ - Geb 			  = Christopher Sabat
+	- Anhur
+	- Fenrir
+	- He Bo
+	- Zeus
+	- Grover (Paladins)
+	- **Vegeta / Piccolo / Shenron** / Recoome (Dragon Ball)
+	- **All Might** (BnHA)
+	- Zoro (One Piece)
+	- Louis Armstrong (Full Metal Alchemist)
+	- Elfman Strauss (Fairy Tail)
+	- Jigen (Lupin III, split between Richard Epcar)
+	- Mondo Ohwada (Danganronpa)
+	- Kazuma / Raizen (Yu Yu Hakusho)
+	- Jason (Tokyo Ghoul)
+	- Batou (Ghost in the Shell)
+	- Papa (Darling in the Franxx)
+	- Garterbelt (Panty & Stocking)
+	- Inferno Cop (Inferno Cop)
+	- Ayame Soma (Fruits Basket)
+	- Rath / Attikus (Battleborn)
+	- ~~Blood Eagle Leader (Tribes Ascend)~~
+	- *His power level.....IT'S OVER 9000!!!!!*
+ - Gilgamesh 			  = Nazeeh Tarsha 
+	- King Uri Reiss (Attack on Titan)
+	- Young Jiren (Dragon Ball)
+ - Guan Yu 			  = Mark Stoddard
+	- Ooishi (Higurashi Gou)
+	- Dr. Hiriluk (One Piece)
+	- Dr. Brief (Dragon Ball, later roles)
+	- Vladof (Borderlands)
+	- Hans von Zettour (Saga of Tanya the Evil)
+	- Kazuo Tengan (Danganronpa)
+	- Inspector Joseph Meguire (Detective Conan)
+	- Dr. Kyudai Garaki a.k.a Dr. Maruta Shiga (BnHA)
+	- Olba Meiya (Devil is a Part Timer)
+	- Goose Perkins (Baccano)
+	- Akihiro Kanou (Tokyo Ghoul)
+ - Hachiman 			  = Patrick McAlister
+	-  *{No other credited roles} {Of note}*
+ - Hades 			  = Patrick Seitz
+	- Chaac
+	- **DIO** (JoJo's Bizarre Adventure)
+	- **Scorpion** (Mortal Kombat X)
+	- The Lich King / Garrosh (World of Warcraft)
+	- Renekton / Lucian / Kog'Maw (League of Legends)
+	- Endeavor (BnHA)
+	- Franky (One Piece)
+	- Dracula / Death (Castlevania)
+	- Artanis (Starcraft)
+	- Ira Gamagoori (Kill la Kill)
+	- Jiren (Dragon Ball)
+	- JP (REDLINE)
+	- Sky High (Tiger & Bunny)
+	- Hugo / Bob (Street Fighter)
+	- Keith (Attack on Titan)
+	- Samson (Skullgirls)
+	- Ragna (BlazBlue)
+	- Douglas / Daghan (Xenoblade Chronicles X)
+	- Death Knight / Basilio / Jeritza (Fire Emblem)
+	- Shuren / Isshin Kurosaki (Bleach)
+	- Uvogin (Hunter x Hunter)
+	- Laxus Dreyar (Fairy Tail)
+	- Doppo Kunikida (Bungou Stray Dogs)
+	- Assassin: Zayd / Hassan (Fate)
+	- Bass Armstrong (Dead or Alive)
+	- Sergei Vladimir (Resident Evil)
+	- TJ Combo (Killer Instinct)
+	- Cervantes de Leon (Soul Caliber)
+	- Mason (Dragon's Dogma)
+	- Tauemon (Sakuna: Of Rice & Ruin)
+	- Metatron (SMT V)
+	- Nyarlathotep (Persona 2)
+	- Kadokura / Victor / Gouto Douji / MC's Father (SMT Soul Hackers)
+	- Barton Rosch (Ni No Kuni)
+	- Olberic Eisenberg (Octopath Traveller)
+	- Marco Owen (King of Thorn)
+	- Ghetsis (Pokemon Anime)
+	- Thorkell (Vinland Saga)
+	- Devastator / Overlord (Transformers, later roles)
+	- Tank Top Master (One Punch Man)
+	- Riz (BEASTARS)
+	- Harumi Takeda (Senpai ga Uzai Kohai)
+	- Sloth (Full Meal Alchemist)
+	- Starmon (Digimon)
+	- Kadomon Risch (Re:Zero)
+	- Lyric / Zavok / Zomom (Sonic the Hedgehog)
+	- Ladiva (Granblue Fantasy)
+	- Lt. Surge (Pokemon Masters)
+	- Captain (SONNY Boy) *aka Monkey Baseball*
+	- Red Blood Cell AD6614 (Cells at Work: BLACK) *You're gonna carry that Oxygen.*
+ - He Bo 			  = Christopher Sabat
+	- Anhur
+	- Fenrir
+	- Geb
+	- Zeus
+	- Grover (Paladins)
+	- **Vegeta / Piccolo / Shenron** / Recoome (Dragon Ball)
+	- **All Might** (BnHA)
+	- Zoro (One Piece)
+	- Louis Armstrong (Full Metal Alchemist)
+	- Elfman Strauss (Fairy Tail)
+	- Jigen (Lupin III, split between Richard Epcar)
+	- Kazuma / Raizen (Yu Yu Hakusho)
+	- Jason (Tokyo Ghoul)
+	- Batou (Ghost in the Shell)
+	- Papa (Darling in the Franxx)
+	- Garterbelt (Panty & Stocking)
+	- Inferno Cop (Inferno Cop)
+	- Ayame Soma (Fruits Basket)
+	- Rath / Attikus (Battleborn)
+	- ~~Blood Eagle Leader (Tribes Ascend)~~
+	- *His power level.....IT'S OVER 9000!!!!!*
+ - Heimdallr 			  = Michael Schwalbe 
+	 - Balrog (Devil May Cry 5)
+ - Hel 			  = Monica Rial
+	- **Bulma** (Dragon Ball, Kai onward)
+	- Stocking (Panty & Stocking)
+	- Amy Yeager (Detective Conan)
+	- Tsuyu Asui (BnHA)
+	- Tanya Degurechaff (Saga of Tanya the Evil)
+	- Index (Index / Railgun / Accelerator)
+	- Tomoko Kuroki (Watamote)
+	- Suu (Monster Musume)
+	- Maya Ibuki (Evangelion)
+	- Kaede Kayano (Assassination Classroom)
+	- Shizuka Marikawa (High School of the Dead)
+	- Anna Nishikinomiya (Shimoneta)
+	- Tsubaki Nakatsukasa (Soul Eater)
+	- Minamo (Azumanga Daioh)
+	- Akatsuki (KanColle)
+	- Sayaka Maizono (Danganronpa)
+	- Mia (Welcome to the NHK)
+	- Kuro (Restaurant to Another World)
+	- Lalaco Godspeed (Space Patrol Luluco)
+	- Sakura Kinomoto (Cardcaptor Sakura, later roles)
+ - Hera 			  = Lydia Mackay
+	- Athena (Borderlands)
+	- Boa Hancock (One Piece)
+	- Trisha Elric (Full Metal Alchemist: Brotherhood)
+	- Shion Karanomori (Psycho-Pass)
+	- Suzune *aka Rin* (Senran Kagura)
+	- Sophia Nishikinomiya (Shimoneta)
+	- Aimbra (Battleborn)
+	- *The VA actually looks pretty similar to in-game Hera.*
+ - Hercules 			  = J Michael Tatum
+	- **Fernando** (Paladins)
+	- **Rintaro Okabe** (Steins; Gate)
+	- Erwin Smith (Attack on Titan)
+	- Isaac (Baccano)
+	- Ryousuke Takahashi (Initial D)
+	- Tenya Iida (BnHA)
+	- Sir Hammerlock (Borderlands)
+	- Overlord Dr. Gel (Space☆Dandy)
+	- Erich von Rerugen (Saga of Tanya the Evil)
+	- Zarbon / Mira / Bora / Upa (Dragon Ball)
+	- Shu Tsukiyama (Tokyo Ghoul)
+	- Eneru / Pearl (One Piece)
+	- Jin Kirigiri (Danganronpa)
+	- Scar (Full Metal Alchemist: Brotherhood)
+	- Magma (Dr. Stone)
+	- Loser (Dimension W)
+	- Harris Barnum (Darker than Black)
+	- Tobias (Pokemon Anime)
+	- Mycroft Holmes (Moriarty the Patriot)
+	- Kelvin / Pendles (Battleborn)
+ - Classic Hercules 			  = Kevin Sorbo
+	- **Hercules** (Hercules: The Legendary Journeys)
+	- **Hercules** (God of War 3)
+	- **Hercules** (Hercules and the Amazon Women)
+	- **Hercules** (Hercules and Xena – The Animated Movie: The Battle for Mount Olympus)
+	- Kull (Kull the Conqueror)
+	- Spartan Captain (Meet the Spartans)
+	- Crusher (Skylanders)
+	- Dylan Hunt (Andromeda)
+	- *(Certifiably based; Mel Gibson tier takes for the most part. Has named the Jew, both in the Bible and in the industry}*
+- Horus 			  = Gavin Hammon 
+	- ***~~HOLY FUCKING SHIT HE'S~~* Kenny** (Telltale's The Walking Dead)
+	- Pantheon / Varus (League of Legends)
+	- Beast / TweedleDee / TweedleDum / Mirror (Wolf Among Us)
+	- The Black Knight (Sonic and the Black Knight)
+	- *(I'm just putting this line here remind janefags that they're an existential embarrassment.}*
+ - Hou Yi 			  = Austin Tindle
+	- Ken Kaneki (Tokyo Ghoul)
+	- Accelerator (Index / Railgun / Accelerator)
+	- Karma (Assassination Classroom)
+	- Kiyoshi (Prison School)
+	- Monoma (BnHA)
+	- Emperor Jircniv (Overlord)
+	- Kiyotaka Ishimaru (Danganronpa)
+	- Mitsuka Soji (Ore, Twintail ni Narimasu)
+ - Hun Batz 			  = Bradford Jackson
+	- Bakasura
+	- Oolong / King Cold (Dragon Ball)
+	- Shade (Borderlands)
+	- Gonzo Tarukane (Yu Yu Hakusho)
+	- *{Genuinely though it was Adam from Mythbusters at first, but no, he's just a lookalike VA}*
+ - Ishtar 			  = Dalia Ramahi
+	- *{Another actress trained in traditional theatre, this time around a Arabic-first language girl. Trying to make headway into the wider industry, currently a primary school teacher and had been taking internal corporate advertisment odd-jobs before this}*
+ - Isis 			  = Caitlin Glass
+	- *{Classic has the same VA}*
+	- Lian (Paladins)
+	- **Cammy** (Street Fighter)
+	- Mina Ashido (BnHA)
+	- Kyoko Kirigiri (Danganronpa)
+	- Jolyne's Mother / Jotaro's Wife (JoJo's Bizarre Adventure Part 6: Stone Ocean)
+	- Vados (Dragon Ball)
+	- Nefertari Vivi (One Piece)
+	- Umiko Ahagon (New Game)
+	- Maya Ibuki (Evangelion)
+	- Lilian Weinberg (Dr. Stone)
+	- Thorn (Battleborn)
+ - Izanami 			  = Lisa Ortiz
+	- **Amy Rose** (Sonic the Hedgehog)
+	- Lina Inverse (Slayers)
+	- Rosa / Sabrina / Flannery / Mars / Korrina + Shitton of minor characters (Pokemon Anime)
+	- Ai Aino (Aria)
+	- Chopper (One Piece, initial roles)
+	- Burnin' (BnHA)
+	- Burstinatrix (YuGiOh)
+ - Janus 			  = Sean Hennigan
+	- Gol D. Roger / Ben Beckman (One Piece)
+	- Yoshimura (Tokyo Ghoul)
+	- *THE ONE PIECE IS REAL! IT'S THE NAME OF THE TREASURE IN THE GRAND LINE!*
+ - Jing Wei 			  = Alison Viktorin 
+	- Detective Conan (Detective Conan)
+	- Shouta (Miss Kobayashi's Dragon Maid)
+	- QT (Space☆Dandy)
+	- Kuroko Shirai (Index / Railgun / Accelerator)
+	- Yayoi (KanColle)
+ - Jormungandr 			  = Kellen Goff 
+	- Fiddlesticks (League of Legends)
+	- Diavolo (JoJo's Bizarre Adventure Part 5: Golden Wind)
+	- Overhaul (BnHA)
+    - Zagred (Black Clover)
+	- Freddy (Five Nights at Freddy's 5 onward)
+	- Kenichi Natsuki (Re; Zero)
+	- Reita Toritsuka (Saiki)
+	- Abyss Herald (Genshin Impact)
+	- Rekka Hoshimiya (Fire Force)
+	- Spider Demon Father (Kimetsu no Yaiba)
+	- Bloaters (Last of Us 2)
+	- MC (The Night is Short, Walk on Girl)
+ - Kali 			  = Anastasia Munoz
+	- Narberal Gamma (Overlord)
+	- Koko Hekmatyar (Jorumugand)
+	- Harumi Kiyama (Index / Railgun / Accelerator)
+	- Monomi (Danganronpa)
+	- Minerva Orland (Fairy Tail)
+	- Uwabami (BnHA)
+	- Anastasia Munoz (Strike Witches)
+ - Khepri 			  = Jeremy Schwartz
+	- Oars Jr / Z (One Piece)
+	- Sorbet / Lord Slug (Dragon Ball)
+	- Smiles (Manhunt)
+ - King Arthur 			  = Xander Mobus
+	- **Joker & Arsene** (Persona 5)
+	- The Hands (Super Smash Bros)
+	- Abigail (Street Fighter V)
+	- Groh (Soul Calibur)
+	- Toge Inumaki (Jujutsu Kaisen)
+	- D'Arby (Gamer) (JoJo's Bizarre Adventure Part 3: Stardust Crusaders)
+	- Second Fleet Master *aka The Blacksmith* (Monster Hunter World)
+	- Uncle Mimic (Shantae)
+	- Steven Stone (Pokemon Master)
+	- Chin Kaioh (Baki 2018)
+	- The Dagda (SMT IV)
+	- Merchant Sereth (Dust)
+ - Kukulkan 			  = Clifford Chapin
+	- **Katsuki Bakugo** (BnHA)
+	- **Kaworu Nagisa** (Evangelion)
+	- Conny Springer (Attack on Titan)
+	- Yuri Dreyar (Fairy Tail)
+	- Romeo Jisso (JoJo's Bizarre Adventure Part 6: Stone Ocean)
+	- Kirito Kamui (Psycho-Pass)
+	- Hideyoshi Nagachika (Tokyo Ghoul)
+	- Tomohito Sugino / Baseball Guy (Assassination Classroom)
+	- Emile Bichel Berger (How Not to Summon a Demon Lord)
+	- Joshua (The World Ends with You Anime)
+	- Michael K. (YIIK)
+	- Toby (Battleborn)
+	- *{your little weaboo sister (and half of tumblr) masturbates to the sound of kukulkan's voice}*
+ - Kumbhakarna 			  = Jeremy Inman
+	- Android 16 (Dragon Ball)
+	- Patty / Barbarossa / Magellan (One Piece)
+	- Michio Tamura (Ping Pong: The Animation)
+	- Taurus (Fairy Tail)
+	- Gaganpo / Lionel (Lizard / Lion) (Restaurant to Another World)
+	- Kevin the Replacement Teacher (Assassination Classroom)
+	- Magne *(Tranny)* / Sludge Villain (BnHA)
+ - Kuzenbo 			  = Mike Pollock
+	- ***~~HOLY FUCKING SHIT HE'S~~* Eggman** (Sonic the Hedgehog)
+	- Langston Lickatoad (Viva la Pinata)
+	- Captain Obo (Syberia)
+	- Drayden / Volcanion (Pokemon Anime)
+	- Dad / Grandad (Caillou)
+	- Master Xin (The Little Panda Fighter)
+ - Lancelot 			  = Matthew Curtis
+	- ***~~HOLY FUCKING SHIT HE'S~~* Toucan Sam** (Fruit Loops) *{Current voice}*
+	- Nightmare Balloon Boy (Five Nights at Freddy's)
+	-  *{Shitton of smaller scale stuff, guy's put in elbow grease}*
+ - Loki 			  = Alex Ross 
+	-  *{Mostly a TV actor, side characters and indie movies}*
+ - Classic Loki 			  = Ashley Wood
+	-  *{Mostly a TV actor, lots of smaller scale stuff + a few political ads}*
+ - Maui 			  = Brent Mukai
+	- Sho Minamimoto (The World Ends With You Anime)
+	- Dragon's Dream Stand (JoJo's Bizarre Adventure Part 6: Stone Ocean)
+    - Daimu Akutsu (Lost Judgement)
+	- Dorshe (Ousama Ranking)
+    - Atsuya Baba (ODD TAXI)
+ - Medusa 			  = Rachel Robinson
+	- *~~brown titty kitty~~* Ghislaine (Mushoku Tensei)
+	- Oerba Yun Fang (Final Fantasy)
+	- Sakura Ohgami (Danganronpa)
+	- Vorazun (Starcraft II)
+	- Holly Whyte (Bravely Default)
+	- Anastasia Nikolaevna Romanova (Drifters)
+	- Female Argonians (Elder Scrolls Online)
+	- Motherglare (Fairy Tale)
+	- Zorin Blitz (Hellsing)
+	- Izanami (Noragami)
+	- Goetia (Xenoblade)
+ - Mercury 			  = Joel McDonald
+	- Meow (Space☆Dandy)
+	- Takumi Fujiwara (Initial D)
+	- Jacuzzi Splot (Baccano)
+	- Zeref (Fairy Tail)
+	- Captain Flynt (Borderlands)
+	- Reita Toritsuka (Saiki)
+	- Aoyama Yuuga (BnHA)
+	- Zahha (Dragon Ball)
+	- Brief (Panty & Stocking)
+	- Bartholomew Kuma (One Piece)
+	- Oberon (Ancient Magus Bride)
+	- Dilandau Albatou (Escaflowne, one of the voices)
+	- Poland (Hetalia)
+ - Merlin 			  = Adin Rudd
+	- Cthulhu
+	- Beelzebub (Granblue Fantasy)
+	- Lysandre (Pokemon Anime)
+ - Morgan Le Fay 			  = Claire Curtis-Ward
+	- *{Major theatre actress, lots of indie leads too - nothing else in terms of VA though}*
+	- *{qt3.14}*
+	- *~~{according to her resume is a semi-skilled swordfighter, though theatre-ended} {she'll fuckin cut you up}~~*
+ - Mulan 			  = Molly Zhang
+	- *{No other credited roles} {Of note} {Seems to be building herself up though}*
+	- *{ex-nurse, full degree}*
+ - Ne Zha 			  = Colleen Clinkenbeard
+	- Arachne
+	- **Monkey D. Luffy** (One Piece)
+	- Son Goku / Son Gohan / Agent Mai / Zangya (Dragon Ball)
+	- Lilith (Borderlands)
+	- Erza Scarlet (Fairy Tail)
+	- Momo Yaoyorozu (BnHA)
+	- Scarlet (Space☆Dandy)
+	- Riza Hawkeye (Full Metal Alchemist)
+	- Rachel Moore (Detective Conan)
+	- Akito Soma (Fruits Basket)
+	- Scanty (Panty & Stocking)
+	- Chisa Yukizome (Danganronpa)
+	- Galilea (Battleborn)
+	- *Troublemaker, known fat fetishist. ~~And it shows.~~*
+ - Neith 			  = Lindsay Seidel
+	- Cassie (Paladins)
+	- Eris Greyrat (Mushoku Tensei)
+	- Nagisa Shiota (Assassination Classroom)
+	- Romeo Conbolt (Fairy Tail)
+	- Nejire Hado (BnHA)
+	- Eto (Tokyo Ghoul)
+	- Celestia Ludenberg (Danganronpa)
+	- Gabi Braun (Attack on Titan)
+	- Maya Fey (Ace Attourney)
+	- Ichika Nakano (Quintessential Quintuplets)
+	- Yayoi Kunizuka (Psycho-Pass)
+	- ~~Medusa~~ Boa Sandersonia (One Piece)
+	- Ruka Urushibara (Steins; Gate)
+	- Akane Shinjo (SSSS. Gridman)
+	- Aisa Himegami (Index / Railgun / Accelerator)
+	- ~~Morgan~~ Majolika le Fay (Okami-san)
+	- Airfield Princess (KanColle)
+	- ~~Terror of the Deep Scylla~~
+ - Nemesis 			  = Amanda Doskocil / Amanda Haberkorn
+	- Belgium (Hetalia)
+	- *{got married to Classic Vamana's VA and retired, he's the breadwinner}*
+	- *{unironically might have started their relationship on the set for SMITE, given timings}*
+ - Nike 			  = Elizabeth Maxwell
+	- The Morrigan
+	- Albedo (Overlord)
+	- Sae Niijima (Persona)
+	- Urbosa / Riju (Legend of Zelda)
+	- Caulifla / Kefla (Dragon Ball)
+	- Ymir (Attack on Titan)
+	- Queen Aurora (Sleepy Princess in the Demon Castle)
+	- Midnight (BnHA)
+	- Saeko Mukoda (Yakuza 6: Like a Dragon)
+	- Mira Morales (Just Cause 4)
+	- Rosaria (Genshin Impact)
+	- Nagato (KanColle)
+	- Karen Kisaragi (Danganronpa)
+	- Bishamon (Noragami)
+ - Nox 			  = Laura Post
+	- Bellona
+	- **Ahri** (League of Legends)
+	- Kasumi Yoshizawa (Persona 5 Royal)
+	- Sakuna (Sakuna: Of Rice & Ruin)
+	- Nu Wa (SMT V)
+	- Yuko Takao (SMT III Nocture Remaster)
+	- Valentine (Skullgirls)
+	- Akeha (NieR Reincarnation)
+	- Ana (Killing Floor 2)
+	- Fubuki (One Punch Man)
+	- Harley Quinn (Telltale Batman)
+	- Arfoire (Neptunia)
+	- Zooey (Granblue)
+	- Melone Twins (Scarlet Nexus)
+	- Cheryl / Flannery (Pokemon Masters)
+	- Ragyo Kiryuin (Kill la Kill)
+	- Mai Zenin (Jujutsu Kaisen)
+	- Diana Cavendish (Little Witch Academia)
+	- Tamayo (Kimetsu no Yaiba)
+	- Diantha (Pokemon Anime)
+	- Isabella (The Promised Neverland)
+	- Queen Nehellenia (Sailor Moon)
+	- Macrophage (Cells at Work)
+ - Nu Wa 			  = Stephanie Young
+	- *{Classic has the same VA}*
+	- Nico Robin (One Piece)
+	- Olivier Mira Armstrong (Full Metal Alchemist: Brotherhood)
+	- Nisha (Borderlands)
+	- Towa (Dragon Ball)
+	- Nana Shimura (BnHA)
+	- Mary (Dimension W)
+ - Odin 			  = Bob Carter
+	- Atlas
+	- Olorun
+	- Balrog (Street Fighter)
+	- Baraka (Mortal Kombat)
+	- Sig Curtis (Full Metal Alchemist) 
+	- Bojack (Dragon Ball)
+	- Luco (Darker Than Black)
+	- Over Justice (Space Patrol Luluco)
+ - Olorun 			  = Bob Carter
+	- Atlas
+	- Odin
+	- Balrog (Street Fighter)
+	- Baraka (Mortal Kombat)
+	- Sig Curtis (Full Metal Alchemist) 
+	- Bojack (Dragon Ball)
+	- Luco (Darker Than Black)
+	- Over Justice (Space Patrol Luluco)
+ - Osiris 			  = Mike McFarland
+	- **Master Roshi** / Yajirobe / Baby Vegeta (Dragon Ball)
+	- Goemon (Lupin III)
+	- Jean Kirschtein (Attack on Titan)
+	- Charlie Nash (Street Fighter V)
+	- Buggy (One Piece)
+	- Mashirao Ojiro / Ecoplasm (BnHA)
+	- Carnage Kabuto (One Punch Man)
+	- Makoto Hyuga (Evangelion)
+	- Kotaro Amon (Tokyo Ghoul)
+	- Jean Havoc (Full Metal Alchemist)
+ - Pele 			  = Nicole Gose
+	- Sekhmet (Re; Zero)
+	- Plumeria (Fire Emblem: Heroes)
+	- Allister (Pokemon Masters)
+ - Persephone 			  = Allegra Clark
+	- Dorothea (Fire Emblem)
+	- White Blood Cell (Cells at Work: BLACK)
+	- Beidou (Genshin Impact)
+	- Josuke's Mother (JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable) 
+	- Jinyu (FLCL)
+	- Atalanta (Fate)
+	- Elizabeth (Vivy: Fluorite Eye's Song)
+	- Spider Demon Mother (Kimetsu no Yaiba)
+	- Josephine (Dragon Age: Inquisition)
+	- Artura Arrima (Neptunia)
+	- Cynthia (Pokemon Masters)
+	- Artemis (SMT V)
+ - Poseidon 			  = Richard Epcar
+	- **Raiden** (Mortal Kombat)
+	- **Akuma** (Street Fighter)
+	- **Old Joseph Joestar / OldJo** (JoJo's Bizarre Adventure Part 3: Stardust Crusaders)
+	- **Ansem** (Kingdom Hearts)
+	- Xin Zhao (League of Legends)
+	- Jigen (Lupin III, split between Christopher Sabat)
+	- The Joker (Injustice & other DC Fighting Games)
+	- Batou (Ghost in the Shell)
+	- The ~~Ch~~Admiral (Monster Hunter World)
+	- Multiple NPCs, at least one of which you probably recognise through your playthrough (Skyrim)
+	- Genji Kamogawa (Hajime Ippo)
+	- BoBoBo-Bo Bo-BoBo (BoBoBo-Bo Bo-BoBo)
+	- Principle Kobayakawa (Persona 5)
+	- Hope (SMT IV)
+	- Argent Heinkel (Bravely Default)
+	- Priest (Warcraft)
+	- Colossal Centipede Demon / Centichoro (One Punch Man)
+	- Giovanni (Pokemon Generations)
+	- Manda (Naruto)
+	- Dong Zhuo (Dynasty Warriors)
+	- Shellshock (Power Rangers)
+ - Ra 			  = Chuck Huber
+	- Android 17 / Android 13 ~~BORN IN A MOUNTAIN RAISED IN A CAVE TRUCKIN' AND FUCKIN' IS ALL I CRAVE~~ / Emperor Pilaf / Master Shen / Garlic Jr. (Dragon Ball)
+	- Hiei (Yu Yu Hakusho)
+	- Dr. Franken Stein (Soul Eater)
+	- Yuichi Tachibana (Initial D)
+	- Kurogiri (BnHA)
+	- Matchstick (Borderlands)
+	- Cerberus Guildy (Ore, Twintail ni Narimasu)
+	- **BATHE.... in the GHLOOOOO**
+	- *~~{He unironically seems too based for the modern VA industry - got cancelled a (quite literal) literal who, whom was salty he lost to Chuck in a (quite literal) literal what VA competition}~~*
+ - Raijin 			  = Ray Hurd
+	- Kizaru (One Piece)
+	- Gazef Stronoff (Overlord)
+	- Top / Daigen (Dragon Ball)
+	- Selkie (BnHA)
+ - Rama 			  = Nick Landis
+	- Rala (Fairy Tail)
+	- Krillin (Dragon Ball Abridged)
+	- *{No other credited roles} {Of note}*
+ - Ratatoskr 			  = Holly Franklin
+	- Mother Nature (Barney the Dinosaur)
+	- *{Otherwise, quite a bit of infant-targetted TV stuff}*
+	- *~~AH HAHAAH HAHAAH HAHAAH HAHAAH HAHAAH HAHA~~*
+ - Ravana 			  = Leo Fabian
+	- Xing Tian
+	- Killer (One Piece)
+	- Olga Nanagia (Fairy Tail)
+	- *{And an absolute disproportionate fuck-ton of minor voices. This guy's fucking everywhere, on any character without a name}*
+ - Scylla 			  = Carrie Savage
+	- Valeria / Miser / Abelia Schillfelt (Soul Calibur)
+	- Yufa (Ragnrok)
+	- Lisanna Strauss (Fairy Tail)
+	- Xiaoqiao / Diaochan (Dynasty Warriors)
+	- Celica A. Mercury (BlazBlue)
+	- Shirley (Fate)
+	- Marz Doll (Street Fighter V)
+	- Vulcanus (Disgaea)
+	- *{Odd VA, constantly seems to be in/out retirement and in multiple state-based VA pools. Having kids?}*
+ - Serqet 			  = Kristin Sutton
+	- Kate Takenomiya *~~aka the Ginger Drillsbitch at the end~~* (Prison School)
+	- Asca Connell (Fairy Tail)
+	- *{Loads of minor voices, but no real 'lead' roles - above are the most notable ones I could skim}*
+ - Set 			  = Chris Tergliafera
+	- Avdol (JoJo's Bizarre Adventure Part 3: Stardust Crusaders)
+	- Tank-Top Tiger (One Punch Man)
+	- Fugen *aka The Commander* (Monster Hunter Rise)
+	- Kiyotaka Ijichi (Jujutsu Kaisen)
+	- Jyoji Hijiri (SMT III Nocturne Remaster)
+	- Sigma (Marvel vs Capcom)
+	- Silva Zoldyck (Hunter x Hunter)
+	- Gundham Tanaka (Danganronpa)
+	- Benkei (Fate)
+ - Shiva 			  = Harish Bhimani
+	- *{Bollywood VA, has done a huge amount of backing work in India; including narrating the Mahabharata TV adaptation for it's 90's release}*
+	- *{Been kicking around and working since the 80's, probably one of the most experienced VAs in the cast}*
+ - Skadi 			  = Martha Harms
+	- Aphrodite
+	- Kinessa (Paladins)
+	- Maya (Borderlands 2)
+	- Officer Jenny (Pokemon Anime, later roles)
+	- Irina Jelavic (Assassination Class)
+	- Daidouji *~~aka huge titted delinquent~~* (Senran Kagura)
+ - Sobek 			  = Brandon Potter
+	- *{Classic has the same VA}*
+	- Shanks / Orlumbus (One Piece)
+	- Godot (Ace Attourney Anime)
+	- Hanekoma (The World Ends with You Anime)
+	- Appule (Dragon Ball)
+	- Yukinori Shinohara (Toyko Ghoul)
+	- Gunhead (BnHA)
+ - Sol 			  = Jeannie Tirado
+	- Android 21 ~~*aka the pink sex one*~~ (Dragon Ball)
+	- Lucia (Street Fighter V)
+	- Viktoriya Ivanovna Serebryakov (Saga of Tanya the Evil)
+	- Female Byleth (Super Smash Bros)
+	- Female Byleth (Fire Emblem)
+	- Tao Isonokami (SMT V)
+	- Catarina Claes (Next Life as a Villainess)
+	- Claudia Strife *aka Cloud Strife's Mother* (Final Fantasy)
+	- Kokoro (Darling in the Franxx)
+	- Zera (Fairy Tail)
+	- Koala (One Piece)
+	- Kotomi Ikuta (Danganronpa)
+	- Kujou Sara (Genshin Impact)
+	- Kaga (KanColle)
+ - Sun Wukong 			  = Sean Schemmel
+	- ***~~HOLY FUCKING SHIT HE'S~~* Goku** / King Kai (Dragon Ball)
+	- Lucario (Super Smash Bros)
+	- Strong / Half of the Male Ghouls in the game (Fallout 4)
+	- Conrad / Gaston (Berserk)
+	- Vellian Crowler / Ojama Yellow (YuGiOh)
+	- Mr. Akashi (Yu Yu Hakusho)
+	- Black Doom (Shadow the Hedgehog)
+	- Lucario / Cyrus / Clay / Hugh / Colress (Pokemon Movie / Anime)
+	- ~~Horus~~ Horace (Skullgirls)
+	- Amidamaru / Rio (Shaman King)
+	- Scar *aka the MC* (Wulin Warriors: Legend of the Pleiades) *~~(The Precursor series to 'Absolute Puppetkino' aka Thunderbolt Fantasy)~~*
+	- A huge chunk of the Thumbs in the Thumb Wrestling Federation
+ - Susano 			  = Jim Foronda
+	- **Claptrap** (Borderlands, later roles)
+	- Dr. Mindbender (G. I. Joe)
+	- Muscular (BnHA)
+	- Denny Brosh (Full Metal Alchemist)
+	- Men-Men / Janemba / Janempa (Dragon Ball)
+	- Tararan / Kong (One Piece)
+	- Isanari Uesugi (Quintessential Quintuplets)
+	- Oscar Mike / ISIC (Battleborn)
+ - Sylvanus 			  = Bob Reed
+	- Galactic King (Dragon Ball)
+	- Kleese (Battleborn)
+	- *{Industry Vet., been in quite a bit of TV / indue stuff too}*
+ - Terra 			  = Erica Lindbeck
+	- **Barbie** (Barbie, later roles)
+	- Zoe / Taliyah (League of Legends)
+	- Futaba Sakura (Persona 5)
+	- Menat (Street Fighter V)
+	- Cassie Cage (Mortal Kombat, later roles)
+	- Ashley (Warioware)
+	- Lea, The Serious Handler (Monster Hunter World)
+	- Cheelai (Dragon Ball)
+	- Blaze the Cat / Omochao (Sonic, later roles)
+	- Sophitia Alexandra (Soulcalibur)
+	- Spider Demon Sister (Kimetsu no Yaiba)
+	- Jessie (Final Fantasy VII Remake)
+	- Coco (Code: Vein)
+	- Ritsuko Akagi (Evangelion)
+	- Katalina (Granblue)
+	- Pakunoda (Hunter x Hunter)
+	- Mordred (Fate)
+	- Momoko Togame (Madoka Magica)
+	- Eli Ayase (Love Live)
+	- Sumire Kakei (Boruto)
+ - Thanatos 			  =	Scott Freeman
+	- Agni
+	- Issei Hyoudou (Highschool DxD)
+	- *~~Got partyv& for CP in 2015~~*
+ - The Morrigan 			  = Elizabeth Maxwell
+	- Nike
+	- Albedo (Overlord)
+	- Sae Niijima (Persona)
+	- Urbosa / Riju (Legend of Zelda)
+	- Caulifla / Kefla (Dragon Ball)
+	- Ymir (Attack on Titan)
+	- Queen Aurora (Sleepy Princess in the Demon Castle)
+	- Midnight (BnHA)
+	- Saeko Mukoda (Yakuza 6: Like a Dragon)
+	- Mira Morales (Just Cause 4)
+	- Rosaria (Genshin Impact)
+	- Nagato (KanColle)
+	- Karen Kisaragi (Danganronpa)
+	- Bishamon (Noragami)
+ - Thor 			  = Bruce DuBose
+	- Cerberus
+	- Marcus Kincaid (Borderlands)
+	- Gonzales (Full Metal Alchemist)
+	- Djel (Attack on Titan)
+	- Kaijin (Slime Isekai)
+	- General Graves (Duke Nukem)
+	- Neptune (One Piece)
+ - Thoth 			  = Christopher Guerrero
+	- Grohk / Jenos (Paladins)
+	- Ainz Oool Gowl (Overlord)
+	- Lavender (Dragon Ball)
+	- Gecko Moria (One Piece)
+	- Rikiya Katsukame (BnHA)
+	- Hercules (Highschool DxD)
+	- Aurox (Batleborn)
+ - Tiamat 			  = Sheshe Azizi
+	- *{No other credited roles} {At all}*
+ - Tsukuyomi 			  = Bill Millsap
+	- Monkey King (DotA 2)
+	- Prosciutto (JoJo's Bizarre Adventure Part 5: Golden Wind)
+	- Gyoro-Gyroro (One Punch Man)
+	- Anre (Granblue)
+	- Lance (Pokemon Masters)
+	- *~~They should have honestly went with Kirk Thornton (Shadow the Hedgehog)~~*
+ - Tyr 			  = Ian Sinclair
+	- **Dandy** (Space☆Dandy)
+	- **Brook** (One Piece)
+	- Rashid (Street Fighter V)
+	- Whis (Dragon Ball)
+	- Toriko (Toriko)
+	- Chuck (Panty & Stocking)
+	- Meso Shouji (BnHA)
+	- Marc (Spice & Wolf)
+	- Daikoku (Noragami)
+	- Gawazu (Fairy Tail)
+	- Gaddes (Escaflowne, later roles)
+	- Masayuki Sanada (Ping Pong: The Animation)
+	- Baron Flynt (Borderlands)
+	- Montana (Battleborn)
+ - Ullr 			  = Bill Jenkins
+	- Torvald
+	- Sebas Tian (Overlord)
+	- Grand Elder (Dragon Ball)
+	- *~~God~~* THE BASTARD FORMALLY KNOWN AS SONZAI X (Saga of Tanya the Evil)
+	- Older Number 48 (Full Metal Alchemist)
+	- Manfred von Karma (Ace Attourney Anime)
+	- Keel Lorenz (Evangelion)
+	- Duke Freid (Escaflowne, later roles)
+ - Vamana 			  = Sean Chiplock
+	- Subaru Natsuki (Re; Zero)
+	- Ky Kiske (Edens Zero)
+	- Revali (Legend of Zelda)
+	- Guido Mista (JoJo's Bizarre Adventure Part 5: Golden Wind)
+	- Yuuki Mishima (Persona 5)
+	- Diluc (Genshin Impact)
+	- Noob Saibot (Mortal Kombat)
+	- Ky Kiske (Guilty Gear)
+	- Shin (Dorohedoro)
+	- Tao (Beastars)
+	- Choromatsu (Osomatsu-san)
+	- Bog Demon (Kimetsu no Yaiba)
+	- Kiyotaka Ishimaru (Danganronpa)
+	- Sherlock Holmes (Fate)
+	- Rash Battletoad (Killer Instinct)
+ - Classic Vamana 			  = Todd Haberkorn
+	- Natsu Dragneel (Fairy Tail)
+	- Keroro (Sgt. Keroro)
+	- Android 19 / Jaco (Dragon Ball)
+	- Betelgeuse Romanee-Conti (Re; Zero)
+	- Death the Kid (Soul Eater)
+	- Firo Prochainezo (Baccano)
+	- Yun (Street Fighter)
+	- Grey Matter (Ben 10)
+	- Keisuke Takahashi (Initial D, later roles)
+	- Six-Tails (Naruto)
+	- Oberon (Sword Art Online)
+	- Ling Yao (Full Metal Alchemist)
+	- Drive Knight (One Punch Man)
+	- Kagero (Monster Hunter Rise)
+	- Male Morgan / Metodey (Fire Emblem)
+	- Zer0 (Borderlands, joint role)
+	- Korekiyo Shinguji / Teruteru Hanamura (Danganronpa)
+	- Sho Minazuki (Persona Dancing)
+	- Italy (Hetalia)
+	- Baphomet (Devil May Cry)
+	- Siam (One Piece)
+	- Hypnos (Saint Seiya)
+	- Boldur (Battleborn)
+	- *{married to Nemesis's VA}*
+ - Vulcan 			  = Rick Robertson
+	- Dabura (Dragon Ball)
+	- Yomi (Yu Yu Hakusho)
+ - Xbalanque 			  = Josh Grelle
+	- Armin (Attack on Titan)
+	- Yuji Sakai (Shakugan no Shana) *{the same one that [s4s]fags identify themselves as, over Anons / Anonymous}*
+	- Fumikage Tokoyami (BnHA)
+	- Maou (Devil is a Part-Timer)
+	- Shimazu Toyohisa *aka the MC* (Drifters)
+	- Issei Hyoudou (Highschool DxD, later roles */ Scott Freeman's 'replacement'*)
+	- Futaro Uesugi *aka the MC* (Quintessential Quintuplets)
+	- Itsuki Takeuchi (Initial D, later roles)
+	- Kenichi Shirahama (Kenichi: The Mightiest Disciple)
+	- Byakuya Togami (Danganronpa)
+	- Nobuchika Ginoza (Psycho Pass)
+	- Kinro (Dr Stone)
+	- Original Tanya Degurechaff (Saga of Tanya the Evil)
+	- Yamada (Ping Pong: The Animation)
+	- Kenji Sakurai (Darker than Black)
+	- Demigra (Dragon Ball)
+	- Sima Shi (Dynasty Warriors)
+	- Lithuania (Hetalia)
+	- Haka (Halo Legends)
+	- Ox Ford (Soul Eater)
+	- Chiqicheetah (One Piece)
+ - Xing Tian 			  = Leo Fabian
+	- Ravana
+	- Killer (One Piece)
+	- Olga Nanagia (Fairy Tail)
+	- *{And an absolute disproportionate fuck-ton of minor voices. This guy's fucking everywhere, on any character without a name}*
+	- ~~*{wait just a second...green....faceless....unnamed characters.....it can't b-}*~~
+	- ~~Anonymous / The Voice in Anon's head (4chan)~~
+ - Yemoja 			  = Cassie Ewulu
+	- *{No other credited roles} {Of note}*
+	- ~~that one Trandro skin.....you know...*that* one... (Paladins)~~
+ - Yu Huang 			  = Cory Yee
+	- Akito (Ghostwire Tokyo)
+	- Gorou / Draff (Genshin Impact)
+	- Hermes (Record of Ragnarok)
+	- *{Few other credited roles.... lots of minor English dubbing for Korean stuff?} {Seems to be building himself up though}*
+ - Ymir 			  = Charles Campbell
+	- Gran Torino (BnHA)
+	- Adelheid von Schugel *aka the Mad Scientist* (Sage of Tanya the Evil)
+	- Wakaba Mine (Fairy Tail)
+	- Fujitora (One Piece)
+	- *{loads of minor old-man-type roles, big enough to be named but not big enough to be recognisable / notable}*
+ - Zeus 			  = Christopher Sabat
+	- Anhur
+	- Fenrir
+	- Geb
+	- He Bo
+	- Grover (Paladins)
+	- **Vegeta / Piccolo / Shenron** / Recoome (Dragon Ball)
+	- **All Might** (BnHA)
+	- Zoro (One Piece)
+	- Louis Armstrong (Full Metal Alchemist)
+	- Elfman Strauss (Fairy Tail)
+	- Jigen (Lupin III, split between Richard Epcar)
+	- Mondo Ohwada (Danganronpa)
+	- Kazuma / Raizen (Yu Yu Hakusho)
+	- Jason (Tokyo Ghoul)
+	- Batou (Ghost in the Shell)
+	- Papa (Darling in the Franxx)
+	- Garterbelt (Panty & Stocking)
+	- Inferno Cop (Inferno Cop)
+	- Ayame Soma (Fruits Basket)
+	- Rath / Attikus (Battleborn)
+	- ~~Blood Eagle Leader (Tribes Ascend)~~
+	- *His power level.....IT'S OVER 9000!!!!!*
+ - Zhong Kui 			  = Daniel Penz
+	- Montblanc Noland (One Piece)
+	- Fukuro (Fairy Tail)
+	- Amagata (Ghost in the Shell)
+	- Zuno (Dragon Ball)
+
+ - Lore Lady                			= Suehyla El-Attar
+	- *{Mostly TV / Film acting, this appears to be her only Voice Acting role. Usually background chaacters, however has wormed her way into a Marvel movie at some point as a 'major' background character with multiple lines (Ant Man & the Wasp, as an Agent)}*
+ - Default Announcer 			  = Brett Weaver
+	- Mr 1. / Morgan (One Piece)
+	- Keiji (Space Patrol Luluco)
+    - Toji Suzuhara (Evengelion)
+	- Ryu (Street Fighter II TV Show)
+	- *{Mostly older, minor roles. Very established.}*
+
+
+
+*Phew!*
+And that's just the default VAs. Oh, and 'sorry' if I missed any major names in some shows in particular ~~but I just don't care enough to care~~.
+If I had included skins, it would take forfuckingever to do fully - but you'd also know why your schizosenses can hear Ash Ketchum (Senpai Slayer Serqet + others), ~~Twilight Sparkle~~ Nier 2B (Defiant Bellona + others), Ryu / Gohan (Crystal Colossus Ymir), Krillin / Usopp / Korosensei / Lupin III (Dreadbeard Poseidon), Asuka Langley (Soothsayer Morrigan) and the Re:Zero Cat Tranny (Marvelous Maid Amatersu) in-game. Oh, and basically all the crossover skins are indeed the same (or current) voice actors for the crossover; while there's a few fill-ins, it's usually because the original VA is either dead or retired. It's unironically a star-studded cast... at least in terms of the >dub scene *(hey, the proverbial stars might be made of proverbial plastic, but you can't tell the difference from a distance)*.
+
+As for personal speculation why this is the case, while I'm not too versed in the culture or deeplore of >western >dubbing 'scene', the three factors at popped out at me while writing this up are:
+1. American English dubbing seems to have 3 'scenes', where lots of studios / talent acquisition focuses itself - these being 'the LA scene', 'the Texas scene' and 'the New York scene'. While this creates an incestuous industry where amateur talent gets grandfathered in easily *~~(hey, I've heard this one before! it's the problem with all of >westshit dubbing!)~~*, it does allow for scripts to pull a large amount of VA's in quickly and for VA's to semi-easily establish a base of operations / connections. For this example, it appears SMITE generally pulls from the Texas scene. This is also why some shows keep popping up, while other large-scale Voice Acting works you'd expect to see more of are barely mentioned - each pulls mostly from a different scene outside of a few bigger names.
+2. Chris Sabat (voice of Zeus) is the VA director of this game - and while I'm not sure how influential that is in the process of getting VAs on board, it probably helps that the lead director is a big name within the industry itself - able to pull from the nebulous concept known as 'networking'. I know for a fact too that some of the community managers / assistants / interns know a lot of names within the industry (as has been stated in some dev interviews), so that's even more for the case of good networking on behalf of Titanforge.
+3. The game itself seems to work as established 'stepladder' into the wider / major Voice Acting industry - while lots of the initial / older VAs are the more established VAs, the newer VAs use it as a way to build themselves up a strong portfolio to move into a more 'lead' role elsewhere, while establishing their own connections while working on SMITE. Not to say the more recent names are all newfags and interns, but it anecdotally appears that way for the most part *(the "process" being to do some acting for a skin voice pack, 'earning' your way to a default God VA, and from there having a built up resume to get a bigger role within the wider industry)*
+
+
+Final words; I *seriously* hope you don't watch >dubs.
+~~The best part of all this is... I don't even play with audio, I just listen to music / videos. I'm functionally deaf in-game *lol*. This section literally means nothing to me, it's just *a big aside, for (You)*.~~
+
+
+-> ![SMITEsona 5](https://files.catbox.moe/jeq70e.jpg) <-
+
+-> ![SMITE ☆ Dandy](https://files.catbox.moe/oh114v.jpg) <-
+
+-> ![Ace Attorney: Phoenix SMITE](https://files.catbox.moe/m80whp.jpg) <-
+
+-> ![SMITESMITE's Bizaare Adventure](https://files.catbox.moe/v06e0p.jpg) <-
+
+-> ![SMITE's Gate](https://files.catbox.moe/2tdsmx.jpg) <-
+
+-> ![SMITEshoku Tensei](https://files.catbox.moe/a0zovv.jpg) <-
+
+-> ![Panty & SMITEing with Ragnarok](https://files.catbox.moe/fb971i.jpg) <-
+
+-> ![Lupin the Third: Part SMITE](https://files.catbox.moe/q4ge9a.jpg) <-
+
+-> ![esforesSMITE](https://a.pomf.cat/cfwyfn.jpg) <-
+
+-> ![Dateline NBC: To SMITE a Predator, with Chris Hansen](https://files.catbox.moe/qpmplf.jpg) <-
+
+-> ![SMITEverlord](https://files.catbox.moe/qaqm2f.jpg) <-
+
+-> ![Canon OTP](https://files.catbox.moe/5g368c.jpg) <-
+
+-> ![Hercules's Stance on Diversity](https://files.catbox.moe/cs280b.jpg) <-

@@ -1,0 +1,85 @@
+Extra : The Job
+
+Margaret sighed in satisfaction, the soreness of her lakeside activities slowly leaving her body as she basked into the sun, slowly stretching as a gentle breeze caressed her bare neck. Today was one her favourite days, a quiet Saturday, no job, no assignments and not a word spoken yet.
+Sitting on the pier, taking in the distant sounds of the lake's water and the melodic chirping of nearby birds, she reached into her bag for today's dinner, filling her hardworking body with energy after a well deserved break, under the watchful eye of a couple of distant Horklumps.
+Her appetite satisfied and her things packed, the fit girl stretched one last time with a soft grunt of satisfaction when suddenly, a beautiful long-eared owl landed next to her, a sealed letter in its beak. Bowing to the bird, Margaret grabbed the letter, patted the bird's head and offered a treat before waving goodbye to the majestic creature.
+"Good morning, 'Detective', my client's guild and my very own club would like to request your help for a perilous job. A mutual friend of ours left a very important item in a certain cave, please see the map on the back of the letter, we unfortunately have no staff available to recover said item. (Our skilled staff being currently busy, and our free staff lacking in skill for such a dangerous mission) Now you may wonder what's so special about this cave or this item? This is where things get exciting, several bad seeds were spotted by our scouts, including Inferi and Dark Wizards, we urge you to be careful, but should you succeed you will be well rewarded." Perplexed, Margaret flipped the letter, looking at the "map", it was a crude crayon drawing of a certain clearing in the Forbidden Forest she had passed a few times.
+"I'd rather do this than risk running into someone..." she thought to herself, looking at the towering Castle.
+
+The Forbidden Forest had a well-deserved reputation, being the boggart of most first years, but to Margaret it was a place of quiet and beauty, the home of many creatures who accepted her with open arms, or legs, or... Horn? Careful not to disturb the many cobwebs, she made her way to the clearing, a beautiful pond hosting a happy family of giant purple toads welcomed her, resisting the urge to play with them, she made her way around her froggy temptation to the cave on the other side where the remains of a camp were waiting for her.
+Bearing signs of struggle, the camp was a complete mess, a very large creature had obviously destroyed it and... had a quick bite, quite a few in fact, Margaret pinched her nose, walking past the decaying remains, now under the guise of the Disillusionment Charm, she quietly approached the entrance to the cave.
+"YOU CAN'T IMAGINE HOW INCONVENIENT TRAVEL WAS BEFORE I INVENTED FLOO POWER!" boomed a nearby statue's voice to the sneaky girl's annoyance as she made her first step into the dark cave.
+Or so she thought, the cave walls were lined with lit sconces, and a trail of blood was leading her deep into the earth. Carefully she advanced deeper and deeper until the trail led her to its source : A large chimera.
+She backed a little, carefully observing the room and the creature, the large beast was taking a well deserved nap after what appeared to be quite the feast, resting its body on a large pile of hay, the three heads clearly sleeping. Behind the creature was a very large door, obviously reinforced "The chimera must have betrayed or trapped the Dark Wizards." she thought.
+Steeling herself, she removed her "invisibility", walking carefully towards the great beast "This should be fine...".
+
+The unlucky girl didn't expect, however, to trip on a small pebble, her whole body slamming noisily in a puddle of water, the sound echoing in the wide circular area was enough to wake up the chimera, now stretching and yawning as its three heads came to life : the low growl of a lion, the hissing of the snake, the "chewing" of the goat and the grating sound of shackles jiggling on the ground.
+Slowly standing up to her feet, an open hand towards the creature, Margaret attempted to soothe the creature "Shhhh... it's alright..." her soft voice barely producing an echo.
+The Chimera having had its fill earlier approached slowly, the hissing getting louder and louder, the chewing creeping closer and closer and the enormous lion head looking straight at her.
+Quietly casting Silencio on the goat's head "Can't have you do anything brash now..." Margaret slowly approached the beast, her hand coming closer and closer to the lion's nose.
+Now on one knee, bowing, and her hand resting on the curious creature's haed, Margaret exhaled slowly, the hissing stopped, the goat hadn't bleated and the lion big eyes were slowly closing, feeling at peace thanks the girl's mysterious aura and gentle nature.
+Standing up slowly, she produced three treats for each of the large creature's heads, laying them down away from the door, beckoning the creature farther and farther, allowing access to the door and its bindings, they circled each other, never interrupting their gazes.
+Her back now against the door, she was trapped, things definitely shouldn't go wrong now, of all times; she threw a slab of meat to the snake head, the other two treats still in her hand, in full display. "Diffindo." she whispered, the chains breaking off loudly.
+The large creature jumped slightly "Shhh shhh..." she threw another slab of meat, this time to the lion "It's alright friend..." she whispered "Finite Incantatem." the spell on the goat head was lifted. She was now at the mercy of the Chimera but they had a deal, the beast turned slightly, easing access to the goat head, the other two heads licking their lips in anticipation, she plopped a pumpkin in front of the creature, brashly caressing its fur as the last head was finally getting satiated.
+Having had its fill, the creature slowly made its way out of the cave, not looking back at the girl that had just freed it. Margaret quickly grabbed a quill and wrote a letter to Professor Fig, warning him of the presence of the dangerous but satiated creature.
+Her owl now on the way, all she had to do now was to sneak past the door into the presumed Dark Wizard den.
+
+"Why is this place filled with puzzles, bags of gold and wiggenweld potions" she wondered, as she made her way through a strangely empty cave, arms full of green vials "I can't hold all of these..." she grumbled.
+The bright sunlight was lighting up most of the water filled cave, at the center of the pond, an island, with a lonely tree and an open tomb, as Margaret approached, she could hear the distant sounds of conversation: a large group of Dark Wizards and Poachers, they were having an intense conversation, pointing at the small island, at the beasts, yelling at the obvious subordinates.
+"Those I won't pacify that easily..." she thought. Making sure her footing was free of pebbles, she crept closer and closer, the camp was larger than she thought, with plenty of covers, she listened to her soon to be victims as she scanned the area.
+
+They were hungry, it was past dinner and they had been waiting for supplies for one day now, clearly the work of the Chimera.
+Out of sight and still under the Disillusionment Charm, Margaret produced a plate full of treats that was stored in her bag, the work of Professor Weasley's vain attempts at overfeeding her, she uncorked a red-capped vial and tainted the delicious pastries. "I'm sorry for what you're about to go through..." she thought.
+A quick swish of the wand and the plate was now resting on the table, in the middle of the camp, another quick swish and a small cup was thrown off the table, bringing the Wizards' attention to the suspicious meal.
+"What's this? Pastries?" "Don't eat that! It's obviously a trap!" "Who cares I'm starving!" "Shut up, idiots, the beasts are sleeping!"
+The obvious trap wouldn't catch them all but more than she had hoped for fell for it, devouring tarts, muffins and cakes, more joined them when they didn't keel over right away, their mistake.
+More than half the camp was now busy stuffing their face on the laced food under the watchful, snarky gaze of their strong-willed companions, and a few minutes later, the wizards and poachers that had been eating the food stood up in unison and apparated away simultaneously .
+"What the... Idiots!" "Hey I guess the food wasn't poisoned, then, right?" not having identified the strange effect, a few more wizards fell for the trap, stuffing their face before suddenly apparating away.
+
+Only one wizard was left, clearly not as stupid as his peers, he yelled out "Come out! I know you're there and I won't fall for any of your traps!"
+No answer.
+The angry man whipped out his wand, blasting randomly at the now empty camp "COME OUT! STOP HIDING!" he yelled.
+Waiting for a good time to counter-attack, Margaret observed his frantic waving through a mirror, at an angle, stuff flying everywhere from the various spell the furious man unleashed in a blind rage, looking for an invisible target.
+Chuckling softly, Margaret swished her wand quietly, nudging one of the many wiggenweld potions littering the camp right under the man's foot, tripping him noisily.
+"DAMN IT!" he yelled out in frustration, his wand flying out of his hand, falling flat on his face. This was her chance.
+The panicked man's attempt to stand up were interrupted by tied shoelaces, he tripped again, he was boiling with rage, crawling towards his wand.
+"Looking for this?" A white haired girl suddenly appeared right where his wand laid, her green eyes looking straight into his soul, blinded with rage, the hulking man frantically tried removed his shoes, wiggling his feet, before attempting to tackle the young student.
+She swiftly dodged the man, like a bullfighter, tripping him and throwing him into the pond in a wet splash.
+
+He wasn't coming out of the water.
+Bubbles were rising up but nothing was happening, the worried girl carefully approached the clear pond, ready for an ambush. She didn't expect this.
+Inside what appeared to be a beautiful pond laid hundreds of Inferi, now pinning their quarry underwater, the man was desperately trying to fight back, in vain without his wand.
+Margaret didn't think twice "Levioso!" at least ten bodies jumped out of the water, along with a screaming man "Accio!" now safely away from the water, she started blasting the creatures away from the panicked man, his screams filling the cave as he looked at the pond, where the rest of the Inferi were starting to come out.
+Still levitating, the man futilely reached for his wand "Levioso." "Petrificus Totalus." "Arresto Momentum." "Damn it!" he thought, paralyzed body floating high above the lone girl, who was now...Pulling out a sword? "I'm doomed..." he thought "That idiot won't make it, and when they're done with her I'll be surrounded!" he wanted to scream, to curse the hungry cowards.
+
+The creatures creeped closer and closer, surrounding Margaret, the man couldn't see it, but the air was thick with ancient magic, her sword glowing brightly, she crouched suddenly, sword pointed towards the group, readying a slash "Pft! is she blind?!" sharp water blades flew out of her sword, cutting, dismembering and beheading the growing mass that slowly creeped towards her, her swift bladework disabling body after body, albeit a little too slowly as the mass started encircling the girl.
+She crouched, spinned and jumped, slashing in every direction, unleashing a barrage of slashes, severed upper bodies reaching for her as more and more Inferi walked over them, climbing higher and higher, lasting for a few minutes, the beautiful spectacle was a dazzling sight, rainbows were starting to form from the sheer amount of water blasting everywhere, the few Inferi whose bodies were still intact slipped on the wet bodies, the hundreds of creatures now slowed to a literal crawl, the girl stopped in her track.
+Droplets of water started raising from the ground, the compact mass of bodies crept slowly towards Margaret, unaware of what was about to happen, the Dark Wizard couldn't see anything from where he was but he knew something huge would be happening soon.
+
+Strong waves started encircling the lumbering mass, gathering them, compacting them, circling and circling, the creatures yelled in frustration as they were rolled into a massive floating orb of water, relaxing a little, Margaret focused her wand on her target "Incendio Tria."
+Muffled screams echoed inside the cave, contrasting heavily with its otherwise peaceful atmosphere, the floating Dark Wizard could only feel the intense heat and see the shadows of what was happening behind him, he was mortified, feeling like he could be next despite his saviour being the one responsible for the harrowing sight
+
+A horrible smell filled the cave, the floating wizard was grunting in pain from the burns on his back. "Finite Incantatem." "Arresto Momentum." "Petrificus Totalus." "Not again..." he thought, exhausted and traumatized, his bare back floating close to the ground.
+The pale girl approached, uncorking an unlabeled potion, healing his burns in a few seconds. "Finite Incantatem." "Impedimenta."
+Now on the floor the Dark Wizard tried seizing his chance, wobbling towards his wanted, wanting to apparate far away from the scary girl and the horrible stench.
+She sighed, sending a shiver down his spine as he wasn't halfway to his wand "Accio." he fell, pulled by the leg, reminding him of his terrifying dip in the pond, the girl pinned him, kneeled on his back, trying to struggle against the pin and the jinx, in vain. "Accio." she has two wands now, he was done for.
+Or so he thought, she tied the wand into a knot made from the remains of his shirt, approached her mouth to his ear slowly and whispered "Tell me everything."
+His mind was suddenly invaded, he knew his occlumency but simply couldn't grasp her unusual slithering, she was looking for something but he didn't know what. Thoughts of home filled his head, relaxing him against his will then suddenly it was over, he was back at the cave, pinned powerless against a puny child old enough to be his daughter.
+"Just relax." she whispered again, her monotone voice sending chills down his spine, cradling his head, she whispered sweet nothings as his eyes closed, ready to meet his fate. "Obliviate."
+The cave was empty, he was stationed there to meet a merchant for a mundane transaction and his job was over, his bag was overflowing with... wiggenweld potions? He tried standing up, why was he on the floor? He was violently thrown, sucked away and suddenly home, perplexed, with a real treasure trove of green vials.
+
+All immediate threats eliminated, Margaret rushed over to the cages, unlocking them one by one, freeing a flock of gagged Fwoopers and... a first year.
+The traumatized child was crying in a ball, jumping at her touch, despite her soothing words, she produced a small blanket, spiked a little cupcake with Calming Draught and left the child for the small island at the center of the pond.
+
+The rainbows were gone but the bright sunlight was still there, bathing the tree in a warm soothing light, next to the open tomb, a table, with a locked chest, the thieves had obviously struggled with the item.
+Not taking any risk, she threw a rag over the container, bagging it safely, before making her way back to the child.
+"Are you feeling better?" she held out her hand, the young Ravenclaw girl's eyes were red and she was obviously hungry, having devoured the pastry blindly, she nodded at the fifth year, now noticing her robes.
+"Do you want to see a Unicorn on the way back to the Castle?" smiled Margaret, the trembling girl nodded in silence.
+
+"A job well done!" said the Guild liaison "We don't usually ask for outside help but that was magnificent, five stars!"
+Margaret carefully handed over the jute bag containing the chest, advising careful handling to her fellow Fifth Year. "Two more things." she said, arm deep in her bag "I found a caged first year Ravenclaw, she's with Nurse Blainey, now." she pulled another big jute bag out "And this" she dropped the bag carefully "is full of wiggenweld." "I don't know what to do with all this stuff, there's so much of it, everywhere."
+The liaison's eyes turned into galleons "My, what a generous donation!" a nearby Hufflepuff girl jumped, looking scared. "Your payment!" said the client, handing over a bag of coins, but struggling to let it go as Margaret grabbed it.
+"Thank you, have a nice day." said Margaret, already on her way to her dormitories. "Ehehe, what Penny doesn't know..." the girl swished her wand, the huge bag of wiggenweld potions disappearing inside her own bag.
+
+Later that day, Margaret would visit the Infirmary, bringing candies from Honeydukes to the poor girl, after a hushed scolding from the nurse and professor Weasley, she would be sent to her room, 50 points taken from Gryffindor, a crying first year peck on her cheek, and gaining a hundred points for Gryffindor.
+That night, she slept like a log.

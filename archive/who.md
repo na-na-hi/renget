@@ -1,0 +1,1 @@
+->![](https://c.tenor.com/U5258PI1AD0AAAAC/meguru-bachira-blue-lock.gif)<-

@@ -1,0 +1,1037 @@
+# /mmg/ + /inti/ ARCHIVE LOG
+
+**The following list contain links of past threads from the Mega Man and later affiliated Inti Creates General.**
+
+`This list will be updated every sunday for the sake of preserving our general's history, formatting of this notepad will (hopefully) be improved along the way.`
+
+>*Please note that b4k tends to make a memory wipe of a portion of their images/videos storaged on their servers once in a while, this means there's a chance the images that are listed in the older threads will pop out a 404 error when attempting to be opened in full resolution. 	-Vilefag.*
+
+[TOC]
+
+## No 401 to 500
+
+- 460: Wife took my navi Edition
+	- https://arch.b4k.co/vg/thread/368557279/f
+- 459: Weird posers Edition
+	- https://arch.b4k.co/vg/thread/368411407/
+- 458: Konami Edition
+	- https://arch.b4k.co/vg/thread/368271348/
+- 457: Reploids "Undercover" Edition
+	- https://arch.b4k.co/vg/thread/368084184/
+- 456: EGG Edition
+	- https://arch.b4k.co/vg/thread/367921712/
+- 455: You Wouldn't Play Rookie Hunter Mode Would You Edition
+	- https://arch.b4k.co/vg/thread/367795110/
+- 454: Festive Edition
+	- https://arch.b4k.co/vg/thread/367646383/
+- 453: Choose your NUT Edition
+	- https://arch.b4k.co/vg/thread/367527904/
+- 452: Mega Man Vero Edition
+	- https://arch.b4k.co/vg/post/367374687/
+- 451: Infight Edition
+	- https://arch.b4k.co/vg/thread/367279593/
+- 450: Close Enough Edition
+	- https://arch.b4k.co/vg/post/367168772/
+- 449: No hat for the fishe Edition
+	- https://arch.b4k.co/vg/post/367038252/
+- 448: Out with the Cow, In with the Tiger Edition
+	- https://arch.b4k.co/vg/post/366884532/
+- 447: my my this is starting to turn into an acute ailment Edition
+	- https://arch.b4k.co/vg/post/366726723/
+- 446: Happy New Year Ball Edition
+	- https://arch.b4k.co/vg/post/366627756/
+- 445: Year of the Tiger Edition
+	- https://arch.b4k.co/vg/post/366483691/
+- 444: End of the year Edition
+	- https://arch.b4k.co/vg/post/366301565/
+- 443: Feliz navidad y prospero año nuevo Edicion
+	- https://arch.b4k.co/vg/post/366151398/
+- 442: Watersports Edition
+	- https://arch.b4k.co/vg/post/366005000/
+- 441: Weakling! Edition
+	- https://arch.b4k.co/vg/post/365850671/
+- 440: Java Masters Edition
+	- https://arch.b4k.co/vg/post/365707995/
+- 439: La pastorela Edition
+	- https://arch.b4k.co/vg/post/365586919/
+- 438: Dorky Christmas Edition
+	- https://arch.b4k.co/vg/post/365445725/
+- 437: Reindeer Edition
+	-  https://arch.b4k.co/vg/post/365292698/
+- 436: you have been warned Edition
+	- https://arch.b4k.co/vg/post/365120451/
+- 435: Su presencia comandante, Musa Zonda Edition
+	- https://arch.b4k.co/vg/post/364986626/
+- 434: Late Birhthday Edition
+	- https://arch.b4k.co/vg/post/364811897/
+- 433: Sightings of the assumed slain remain unsubstantiated at this time Edition
+	- https://arch.b4k.co/vg/post/364629791/
+- 432: That's literally his mom Edition
+	- https://arch.b4k.co/vg/post/364483597/
+- 431: Wait, we never got to see dark Ekoro did we? What a ripoff Edition
+	- https://arch.b4k.co/vg/post/364299105/
+- 430: Iris is coming for you Edition
+	- https://arch.b4k.co/vg/post/364146505/
+- 429: 15 years of SFing Edition
+	- https://arch.b4k.co/vg/post/364057607/
+- 428: Clown Edition
+	- https://arch.b4k.co/vg/post/363900109/
+- 427: War is always the option Edition
+	- https://arch.b4k.co/vg/post/363765527/
+- 426: The one who wears the Mariko mask Edition
+	- https://arch.b4k.co/vg/post/363667429/
+- 425: "Hey Copen, did I ever tell you about the time your aunt and mom..." Edition
+	- https://arch.b4k.co/vg/post/363533273/
+- 424: God Hand Edition
+	- https://arch.b4k.co/vg/post/363353784/
+- 423: Chilling with Cain Edition
+	- https://arch.b4k.co/vg/post/363262787/
+- 422: Math Drills Edition
+	- https://arch.b4k.co/vg/post/363139529/
+- 421: Test me if you can Edition
+	- https://arch.b4k.co/vg/post/362995709/
+- 420: Lolibaba love it Edition
+	- https://arch.b4k.co/vg/post/362822036/
+- 419: Free washing and waxing Edition
+	- https://arch.b4k.co/vg/post/362727367/
+- 418: Buenos dias Gibril Edition
+	- https://arch.b4k.co/vg/post/362632167/
+- 417: Jason raging about his whore wife Edition
+	- https://arch.b4k.co/vg/post/362511632/
+- 416: December is here Edition
+	- https://arch.b4k.co/vg/post/362378372/
+- 415: November is over you know what that means Edition
+	- https://arch.b4k.co/vg/post/362268885/
+- 414: Cool Bird Edition
+	- https://arch.b4k.co/vg/post/362123084/
+- 413: The strongest failure Edition
+	- https://arch.b4k.co/vg/post/362077837/
+- 412: Shy Stylish Holy Warrior Edition
+	- https://arch.b4k.co/vg/post/361967906/
+- 411: Belated Turkey Day Edition
+	- https://arch.b4k.co/vg/post/361836739/
+- 410: Sneks are good Edition
+	- https://arch.b4k.co/vg/post/361660921/
+- 409: Best adept impresonating best idol Edition
+	- https://arch.b4k.co/vg/post/361499776/
+- 408: Don't hurt my Iris Edition
+	- https://arch.b4k.co/vg/post/361300137/
+- 407: F I R E Edition
+	- https://arch.b4k.co/vg/post/361154760/
+- 406: Jobber Style Edition
+	- https://arch.b4k.co/vg/post/360997505/
+- 405: It is disgusting Edition
+	- https://arch.b4k.co/vg/post/360824971/
+- 404: Different models are sold separately Edition
+	- https://arch.b4k.co/vg/post/360647556/
+- 403: La hija de Iris y (Tu) appearently Edition
+	- https://arch.b4k.co/vg/post/360508946/
+- 402: Almost dead Edition
+	- https://arch.b4k.co/vg/post/360385327/
+- 401: Jobstyle Edition
+	- https://arch.b4k.co/vg/post/360239605/
+
+## No 301 to 400
+- 400: Country concert after party Edition
+	- https://arch.b4k.co/vg/post/360125126/
+- 399: Preparing for the /vg/ League Edition
+	- https://arch.b4k.co/vg/post/359991345/
+- 398: Visor Edition
+	- https://arch.b4k.co/vg/post/359829678/
+- 397: The less hateful of the two Edition
+	- https://arch.b4k.co/vg/post/359651947/
+- 396: At least this one was cold before being death Edition
+	- https://arch.b4k.co/vg/post/359484376/
+- 395: Coolest Jobber Edition
+	- https://arch.b4k.co/vg/post/359370703/
+- 394: Posters that need context Edition
+	- https://arch.b4k.co/vg/post/359206325/
+- 393: THE CHAD OF JOBBERS Edition
+	- https://arch.b4k.co/vg/post/359091523/
+- 392: Sweet sweet witch Edition
+	- https://arch.b4k.co/vg/post/358927691/
+- 391: Movement Bug Edition
+	- https://arch.b4k.co/vg/post/358723776/
+- 390: Pure Imagination Edition
+	- https://arch.b4k.co/vg/post/358569306/
+- 389: Post-Halloween Edition
+	- https://arch.b4k.co/vg/post/358451481/
+- 388: Edición dia de adeptos
+	- https://arch.b4k.co/vg/post/358312070/
+- 387: Layer's reminder of failure that makes her happy Edition
+	- https://arch.b4k.co/vg/post/358163138/
+- 386: The waifu wars Edition
+	- https://arch.b4k.co/vg/post/358040286/
+- 385: Now trending Edition
+	- https://arch.b4k.co/vg/post/357936661/
+- 384: Magical Girl Edition
+	- https://arch.b4k.co/vg/post/357818717/
+- 383: Closer to spooky day Edition
+	- https://arch.b4k.co/vg/post/357693302/
+- 382: GUTSMAN Edition
+	- https://arch.b4k.co/vg/post/357553835/
+- 381: Drink with taste Edition
+	- https://arch.b4k.co/vg/post/357456087/
+- 380: Darkest Reference Edition
+	- https://arch.b4k.co/vg/post/357320875/
+- 379: BURN TO THE GROUND Edition
+	- https://arch.b4k.co/vg/post/357163143/
+- 378: Magical girls are for... Edition
+	- https://arch.b4k.co/vg/post/356986247/
+- 377: Feel the breeze Edition
+	- https://arch.b4k.co/vg/post/356859781/
+- 376: Spooks Edition
+	- https://arch.b4k.co/vg/post/356689247/
+- 375: Freedom Edition
+	- https://arch.b4k.co/vg/post/356531843/
+- 374: Comfy tea time Edition
+	- https://arch.b4k.co/vg/post/356321302/
+- 373: Gacha Infection Edition
+	- https://arch.b4k.co/vg/post/356104363/
+- 372: 1 year late Edition
+	- https://arch.b4k.co/vg/post/355925735/
+- 371: Bliss Zero Edition
+	- https://arch.b4k.co/vg/post/355731058/
+- 370: Booty and Booby Edition
+	- https://arch.b4k.co/vg/post/355520432/
+- 369: Choose your CyberElf Edition
+	- https://arch.b4k.co/vg/post/355314878/
+- 368: "Adepts" working Edition
+	- https://arch.b4k.co/vg/post/355194556/
+- 367: Splendid Artwork Edition
+	- https://arch.b4k.co/vg/post/355112781/
+- 366: Patrick Love Edition
+	- https://arch.b4k.co/vg/post/354917417/
+- 365: Miyu Edition
+	- https://arch.b4k.co/vg/post/354689862/
+- 364: Choose your model Edition
+	- https://arch.b4k.co/vg/post/354472261/
+- 363: No chances of failure Edition
+	- https://arch.b4k.co/vg/post/354315298/
+- 362: If I see that fucking Alia one more time Edition
+	- https://arch.b4k.co/vg/post/354173938/
+- 361: Choose your fighter Edition
+	- https://arch.b4k.co/vg/post/353966528/
+- 360: Take your medicine Edition
+	- https://arch.b4k.co/vg/post/353804139/
+- 359: LOLASPHERICAL Edition
+	- https://arch.b4k.co/vg/post/353620154/
+- 358: What are you taking, sir? Edition
+	- https://arch.b4k.co/vg/post/353464012/
+- 357: What the medabots collab should have been Edition
+	- https://arch.b4k.co/vg/post/353270047/
+- 356: Just pick a side Edition
+	- https://arch.b4k.co/vg/post/353091896/
+- 355: I am interested in your religion Edition
+	- https://arch.b4k.co/vg/post/352911818/
+- 354: Pay atention to the plant Edition
+	- https://arch.b4k.co/vg/post/352663669/
+- 353: Feel the burn! Edition
+	- https://arch.b4k.co/vg/post/352411715/
+- 352: Ciel has had enough! Edition
+	- https://arch.b4k.co/vg/post/352220478/
+- 351: The love a young reploid woman has for (You) Edition.
+	- https://arch.b4k.co/vg/thread/352026358/
+- 350: ¡Viva la soberania y la libertad de los adeptos mundiales que se hicieron Mexicanos! edición.
+	- https://arch.b4k.co/vg/thread/351836430/
+- 349: Ozuma Kojimbo Edition
+	- https://arch.b4k.co/vg/thread/351648317/
+- 348: JASOOOON Edition
+	- https://arch.b4k.co/vg/thread/351427486/
+- 347: Jenga Edition
+	- https://arch.b4k.co/vg/thread/351223151/
+- 346: Another Eliese Edition
+	- https://arch.b4k.co/vg/thread/350976023/
+- 345: SMEGMA VIRUS Edition
+	- https://arch.b4k.co/vg/thread/350791437/
+- 344: Dabbing on Gunvolt fags Edition
+	- https://arch.b4k.co/vg/thread/350658858/
+- 343: Alone at least Edition
+	- https://arch.b4k.co/vg/thread/350529565/
+- 342: Alternative Copen Edition
+	- https://arch.b4k.co/vg/thread/350346625/
+- 341: Rockman Powers Edition
+	- https://arch.b4k.co/vg/thread/350007794/
+- 340: I know what you did Edition
+	- https://arch.b4k.co/vg/thread/349759029/
+- 339: A retard and a dork Edition
+	- https://arch.b4k.co/vg/thread/349496984/
+- 338: Metal bending Edition
+	- https://arch.b4k.co/vg/thread/349324820/
+- 337: Matsuri fishe Edition
+	- https://arch.b4k.co/vg/thread/349052859/
+- 336: Last one for the summer Edition
+	- https://arch.b4k.co/vg/thread/348813249/
+- 335: Someday... Edition
+	- https://arch.b4k.co/vg/thread/348583170/
+- 334: Cool motherfucker Edition
+	- https://arch.b4k.co/vg/thread/348332240/
+- 333: 3 Edition
+	- https://arch.b4k.co/vg/thread/348060690/
+- 332: READY Edition
+	- https://arch.b4k.co/vg/thread/347844826/
+- 331: It's a man? It's a woman? No, IT'S A JOBBER Edition
+	- https://arch.b4k.co/vg/thread/347626123/
+- 330: Schrödinger's Legs Edition
+	- https://arch.b4k.co/vg/thread/347250047/
+- 329: THE EVIL Edition
+	- https://arch.b4k.co/vg/thread/346942375/
+- 328: Mets are neat Edition
+	- https://arch.b4k.co/vg/thread/346666093/
+- 327: Keep it cool Edition
+	- https://arch.b4k.co/vg/thread/346316481/
+- 326: Bassed and Purplepilled Edition
+	- https://arch.b4k.co/vg/thread/346020129/
+- 325: Baby in her way to mass murder Edition
+	- https://arch.b4k.co/vg/thread/345714125/
+- 324: Cool game edition
+	- https://arch.b4k.co/vg/thread/345412059/
+- 323: Swimsuit Pallette is so~~~~~cute and funny edition!
+	- https://arch.b4k.co/vg/thread/345143017/
+- 322: featuring Rock™ from the Megaman™ Series Edition
+	- https://arch.b4k.co/vg/thread/344933462/
+- 321: Sunglasses at night Edition
+	- https://arch.b4k.co/vg/thread/344645273/
+- 320: Slapp and stabb Edition
+	- https://arch.b4k.co/vg/thread/344318670/
+- 319: Plum Edition
+	- https://arch.b4k.co/vg/thread/343999619/
+-  318: Swimsuit Roll Edition
+	- https://arch.b4k.co/vg/thread/343826734/
+-  317: Tron-sama appreciation edition
+	- https://arch.b4k.co/vg/thread/343535823/
+-  316: Chill, Penguin edition
+	- https://arch.b4k.co/vg/thread/343331538/
+-  315: Best couple Edition.
+	- https://arch.b4k.co/vg/thread/343136709/
+-  314: Now That's Pretty Hot Edition.
+	- https://arch.b4k.co/vg/thread/342928006/
+-  313: Rigo if she 2d toon Edition.
+	- https://arch.b4k.co/vg/thread/342654621/
+-  312: Incredible Captcha Edition.
+	- https://arch.b4k.co/vg/thread/342492550/
+-  311: Bloodlust Redman Edition.
+	- https://arch.b4k.co/vg/thread/342236606/
+-  310: Summer starts in August edition.
+	- https://arch.b4k.co/vg/thread/341882284/
+-  309: RiCO body erotic edition.
+	- https://arch.b4k.co/vg/thread/341571103/
+-  308: Possible future collaborations edition.
+	- https://arch.b4k.co/vg/thread/341258107/
+-  307: YER FOCKIN' ASSHOLES Edition
+	- https://arch.b4k.co/vg/thread/340893981/
+-  306: Only I know who I was before Edition
+	- https://arch.b4k.co/vg/thread/340576581/
+-  305: Summer Re Roll delayed until the hunt is over edition
+	- https://arch.b4k.co/vg/thread/340364686/
+-  304: Summer is coming edition
+	- https://arch.b4k.co/vg/thread/340102389/
+-  303: He looks great in any armor Edition
+	- https://arch.b4k.co/vg/thread/339832834/
+-  302: Palette Salt Edition
+	-  https://arch.b4k.co/vg/thread/339584025/
+-  301: Palette alt Edition
+	-  https://arch.b4k.co/vg/thread/339357082/
+
+## No. 201 to 300
+-  300: Point of no return Edition
+	- https://arch.b4k.co/vg/thread/339156169/
+-  299: Pallette's Bizarre Boss Fight: Bridal Tendency
+	- https://arch.b4k.co/vg/thread/338903706/
+-  298: Fire Edition.
+	- https://arch.b4k.co/vg/thread/338669605/
+-  297: As was promised edition.
+	- https://arch.b4k.co/vg/thread/338522487/
+- 296: Reploid/human relations edition.
+	- https://arch.b4k.co/vg/thread/338391665/
+- 295: Pro Evolution So-X-er Edition.
+	- https://arch.b4k.co/vg/thread/338187970/
+- 294: ADEPT TIME Edition.
+	- https://arch.b4k.co/vg/thread/338045224/
+- 293: RiCO was the baddie in the end Edition.
+	- https://arch.b4k.co/vg/thread/337877326/
+- 292: The moon orbits the earth edition.
+	- https://arch.b4k.co/vg/thread/337704696/
+- 291: Doctor of kicking your ass edition.
+	- https://arch.b4k.co/vg/thread/337501807/
+- 290: Guess who's behind the mask Edition.
+	- https://arch.b4k.co/vg/thread/337339690/
+- 289: Get in the fucking COPE(n) Car Edition.
+	- https://arch.b4k.co/vg/thread/337155260/
+- 288: Palette Fighter Edition.
+	- https://arch.b4k.co/vg/thread/336974830/
+- 287: A sweet transexual from transvestite Transylvania edition.
+	- https://arch.b4k.co/vg/thread/336842398/
+- 286: Soccer edition
+	- https://arch.b4k.co/vg/thread/336710502/
+- 285: Welcome to adept breeding pits edition.
+	- https://arch.b4k.co/vg/thread/336573885/
+- 284: MEGA MANZINHO SOCCER 64 Edition
+	- https://arch.b4k.co/vg/thread/336443430/
+- 283: The Game That Actually Delivered
+	- https://arch.b4k.co/vg/thread/336275767/
+- 282: No Copen in sight Edition
+	- https://arch.b4k.co/vg/thread/336046559/
+- 281: Why no easter event Taicom
+	- https://arch.b4k.co/vg/thread/335836557/
+- 280: Robots can have religion too
+	- https://arch.b4k.co/vg/thread/335707786/
+- 279: So much human/reploid poon it bankrupts the red light district and makes reploids contemplate offing themselves if it stops edition.
+	- https://arch.b4k.co/vg/thread/335558791/
+- 278: X and his murderer friend Edition.
+	- https://arch.b4k.co/vg/thread/335410910/
+- 277: Blasting your Master called Zero Edition.
+	- https://arch.b4k.co/vg/thread/335286808/
+- 276: Cute Sun Edition.
+	- https://arch.b4k.co/vg/thread/335168843/
+- 275: Cursed Girlfriend Edition.
+	- https://arch.b4k.co/vg/thread/335013889/
+- 274: Go hug and not fug your mom Edition.
+	- https://arch.b4k.co/vg/thread/334901226/
+- 273: Messiest break-up edition.
+	- https://arch.b4k.co/vg/thread/334744769/
+- 272: Snake gang edition
+	- https://arch.b4k.co/vg/thread/334496471/
+- 271: Kalinka is cute edition
+	- https://arch.b4k.co/vg/thread/334326868/
+- 270: The event that we need Edition
+	- https://arch.b4k.co/vg/thread/334193246/
+- 269: What is X fighting for? Edition
+	- https://arch.b4k.co/vg/thread/334079448/
+- 268: Bassed and redpilled edition
+	- https://arch.b4k.co/vg/thread/333966837/
+- 267: Why she is so angry? Edition
+	- https://arch.b4k.co/vg/thread/333866273/
+- 266: https://arch.b4k.co/vg/thread/333535910/
+	- https://arch.b4k.co/vg/thread/333740103/
+- 265: An Awkward Meeting Edition
+	- https://arch.b4k.co/vg/thread/333535910/
+- 264: MAGMA LAG Edition
+	- https://arch.b4k.co/vg/thread/333392060/
+- 263: Best Star Force Girl edition
+	- https://arch.b4k.co/vg/thread/333245582/
+- 262: No idea of what am I doing Edition
+	- https://arch.b4k.co/vg/thread/333129060/
+- 261: Moon Edition
+	- https://arch.b4k.co/vg/thread/333005960/
+- 260: We will Rock Man You
+	- https://arch.b4k.co/vg/thread/332881269/
+- 259: The State of Skiver
+	- https://arch.b4k.co/vg/thread/332767097/
+- 258: Sigma X5 ture final body Edition
+	- https://arch.b4k.co/vg/thread/332657443/
+- 257: This is what we lost on 11 Edition
+	- https://arch.b4k.co/vg/thread/332492813/
+- 256: ENVISION Edition
+	- https://arch.b4k.co/vg/thread/332373608/
+- 255: DUNKIN' Edition
+	- https://arch.b4k.co/vg/thread/332221667/
+- 254: Prueya They only want your EM Edition
+	- https://arch.b4k.co/vg/thread/332068135/
+- 253: Shad-e-man Edition
+	- https://arch.b4k.co/vg/thread/331939627/
+- 252: SEGA Mega Men
+	- https://arch.b4k.co/vg/thread/331797450/
+- 251: Featuring NumberSOVL from the Megaman Battle Network series
+	- https://arch.b4k.co/vg/thread/331650889/
+- 250: Open your mail edition
+	- https://arch.b4k.co/vg/thread/331533551/
+- 249: Numberman.EXE Edition
+	- https://arch.b4k.co/vg/thread/331449326/
+- 248: You must have and love your family with _____ Edition
+	- https://arch.b4k.co/vg/thread/331384439/
+- 247: Used*Goods MK.II Edition
+	- https://arch.b4k.co/vg/thread/331295686/
+- 246: Monsoon was so right edition
+	- https://arch.b4k.co/vg/thread/331177776/
+- 245: Cute drill girl edition
+	- https://arch.b4k.co/vg/thread/331064067/
+- 244: Space Niggas edition
+	- https://arch.b4k.co/vg/thread/330933305/
+- 243: Happy Easters everybody edition.
+	- https://arch.b4k.co/vg/thread/330796665/
+- 242: Obligatory MMZ2 Elpizo Edition
+	- https://arch.b4k.co/vg/thread/330706450/
+- 241: Fireworks provided by Zero's body Edition.
+	- https://arch.b4k.co/vg/thread/330636982/
+- 240: Nothing to see here, please move along fellow adepts edition.
+	-  https://arch.b4k.co/vg/thread/330551976/
+- 239: We were all dead from the beginning Edition.
+	- https://arch.b4k.co/vg/thread/330434590/
+- 238: Volnutt spent too much time with Tron Edition. 
+	- https://arch.b4k.co/vg/thread/330286145/
+- 237: You just opened the gates of hell Edition.
+	- https://arch.b4k.co/vg/thread/330148679/
+- 236: Someone will be mad at this Edition.
+	- https://arch.b4k.co/vg/thread/329959216/
+- 235: Best girl edition.
+	- https://arch.b4k.co/vg/thread/329831256/
+- 234: Plum for your Telemelts Edition
+	- https://arch.b4k.co/vg/thread/329710265/
+- 233: They're hard ma'am Edition
+	- https://arch.b4k.co/vg/thread/329592754/
+- 232: What a nice young lady Edition
+	- https://arch.b4k.co/vg/thread/329474585/
+- 231: Look at this cute droid Edition.
+	- https://arch.b4k.co/vg/thread/329332318/
+- 230: This is the plot of the second game edition.
+	- https://arch.b4k.co/vg/thread/329098490/
+- 229: Japanese Pothead Edition.
+	- https://arch.b4k.co/vg/thread/328919315/
+- 228: Happy 20th anniversary BN! Edition.
+	- https://arch.b4k.co/vg/thread/328789246/
+- 227: How a MM character would look in Gunvolt Edition.
+	- https://arch.b4k.co/vg/thread/328643449/
+- 226: Happy anniversary Edition
+	- https://arch.b4k.co/vg/thread/328501818/
+- 225: Don't roll for Iris Edition.
+	- https://arch.b4k.co/vg/thread/328284046/
+- 224: PS-One | Sex dungeon broken (ft. Alia) Edition.
+	- https://arch.b4k.co/vg/thread/328070147/
+- 223: Edición del gran varón
+	- https://arch.b4k.co/vg/thread/327867716/
+- 222: Here lies Axl. He never scored Edition
+	-  https://arch.b4k.co/vg/thread/327699838/
+- 221: Into your heart Edition.
+	- https://arch.b4k.co/vg/thread/327509243/
+- 220: Being a reploid is suffering Edition.
+	- https://arch.b4k.co/vg/thread/327327312/
+- 219: Still alive in my heart Edition.
+	- https://arch.b4k.co/vg/thread/327206624/
+- 218: Into the Rollverse Edition.
+	- https://arch.b4k.co/vg/thread/327038103/
+- 217: /inti/chads won Edition.
+	- https://arch.b4k.co/vg/thread/326808979/
+- 216: Tryhard Edition.
+	- https://arch.b4k.co/vg/thread/326632225/
+- 215: This isn't the Repliforce ship Edition.
+	- https://arch.b4k.co/vg/thread/326413215/
+- 214: This is official art! Edition.
+	- https://arch.b4k.co/vg/thread/326212580/
+- 213: DIAMONDS Edition.
+	- https://arch.b4k.co/vg/thread/326027013/
+- 212: Dream of a Kneeler Edition.
+	- https://arch.b4k.co/vg/thread/325789289/
+- 211: Clangers exist in other universes too
+	- https://arch.b4k.co/vg/thread/325591280/
+- 210: Sigma's Virus Maverick to Maverick edition.
+	- https://arch.b4k.co/vg/thread/325429392/
+- 209: Sleeping Beauty Edition.
+	- https://arch.b4k.co/vg/thread/325210824/
+- 208: Hobby Edition.
+	- https://arch.b4k.co/vg/thread/325018728/
+- 207: One-sided love Edition.
+	- https://arch.b4k.co/vg/thread/324853713/
+- 206: Used Goods Edition.
+	- https://arch.b4k.co/vg/thread/324710589/
+- 205: Dangerously implying image Edition.
+	- https://arch.b4k.co/vg/thread/324532070/
+- 204: No Way Fag Edition.
+	- https://arch.b4k.co/vg/thread/324404734/
+- 203: "You People" Edition.
+	- https://arch.b4k.co/vg/thread/324214719/
+- 202: Redfieldbloodline.png Edition.
+	- https://arch.b4k.co/vg/thread/324015838/
+- 201: I... don’t have anything clever to say about this Edition.
+	- https://arch.b4k.co/vg/thread/323904035/
+
+## No. 100 to 200
+- 200: The ship that broke ~~a man~~ the general edition.
+	- https://arch.b4k.co/vg/thread/323799032/
+- 199: Still mute and still E tier Edition.
+	- https://arch.b4k.co/vg/thread/323668473/
+- 198: The buff did nothing Edition
+	- https://arch.b4k.co/vg/thread/323513743/
+- 197: Sexual harrassment seminar Edition.
+	- https://arch.b4k.co/vg/thread/323368219/
+- 196: Cinnamon Beyond Absolution edition.
+	 - https://arch.b4k.co/vg/thread/323207359/
+- 195: If You Don´t Like Him, Your Taste Is Shit edition.
+	- https://arch.b4k.co/vg/thread/323059425/
+- 194: Reploid gf wearing her old college outfit edition.
+	- https://arch.b4k.co/vg/thread/322891745/
+- 193: TWO REPLOIDS edition.
+	- https://arch.b4k.co/vg/thread/322726580/
+- 192: Minty's sweethearts edition.
+	- https://arch.b4k.co/vg/thread/322564714/
+- 191: Black horse of the Zerobowl edition.
+	- https://arch.b4k.co/vg/thread/322428270/
+- 190: New swimsuit Edition
+	- https://arch.b4k.co/vg/thread/322279117/
+- 189: Reploid chads cuking human men Edition
+	- https://arch.b4k.co/vg/thread/322109172/
+- 188: Daily adept baby booms Edition
+    - https://arch.b4k.co/vg/thread/321891839/
+- 187: Is this a Yakuza reference Edition
+	- https://arch.b4k.co/vg/thread/321672223/
+- 186: Remember this Edition
+    - https://arch.b4k.co/vg/thread/321494395/
+- 185: A despicable Edition
+	- https://arch.b4k.co/vg/thread/321315070/
+- 184: Optimistic Edition
+	- https://arch.b4k.co/vg/thread/321096593/
+- 183: The WWW executives Edition
+	-  https://arch.b4k.co/vg/thread/320874904/
+- 182: He inspires you Edition
+	- https://arch.b4k.co/vg/thread/320737686/
+- 181:	Sweater Levi Edition
+	- https://arch.b4k.co/vg/thread/320605376/
+- 180: Comfy snowball wars Edition
+	- https://arch.b4k.co/vg/thread/320395398/
+- 179:  Megaman attack edition
+	- https://arch.b4k.co/vg/thread/320172153/
+- 178: Click to know more Edition
+	- https://arch.b4k.co/vg/thread/320006683/
+- 177: Year of te Ox Edition
+	- https://arch.b4k.co/vg/thread/319843762/
+- 176: Taurus Fire finally in the OP (notreally) Edition.
+	- https://arch.b4k.co/vg/thread/319607201/
+- 175: Late New Years Edition
+	- https://arch.b4k.co/vg/thread/319433119/
+- 174: SIT DOWN Edition
+	- https://arch.b4k.co/vg/thread/319200258/
+- 173: Happy new year's! Edition
+	- https://arch.b4k.co/vg/thread/319009582/
+- 172: A graphic card died for this Edition
+	-  https://arch.b4k.co/vg/thread/318811614/
+- 171: This time, there is only one death girl in this picture Edition
+	-  https://arch.b4k.co/vg/thread/318569141/
+- 170: Merry Christmas /mmg/ + /inti/ Edition
+	- https://arch.b4k.co/vg/thread/318424583/
+- 169: Do (You) fell like a Mega Man yet? Edition
+	- https://arch.b4k.co/vg/thread/318281954/
+- 168: Bit's Bizarre Christmas Adventure Edition
+   - https://arch.b4k.co/vg/thread/318087484/
+- 167: Mrs. Claus is here Edition
+   - https://arch.b4k.co/vg/thread/317943110
+- 166: Last Roll of the year because Ferham will monopolize the OP till January Edition.
+   - https://arch.b4k.co/vg/thread/317824474/
+- 165: Padoru is inevitable, Padoru is Eternal Edition
+  - https://arch.b4k.co/vg/thread/317662378/
+- 164: Golly Edition
+  - https://arch.b4k.co/vg/thread/317490957/
+- 163: Would you fug? edition.
+  - https://arch.b4k.co/vg/thread/317317865/
+- 162: Revived by an evil totem edition.
+  - https://arch.b4k.co/vg/thread/317176837/
+- 161: Desert Wars Edition
+  - https://arch.b4k.co/vg/thread/316958279/
+- 160: Battle of Omega Edition
+  - https://arch.b4k.co/vg/thread/316785808/
+- 159: The good doctor's greatest Edition
+  - https://arch.b4k.co/vg/thread/316619751/
+- 158: ENTER CHADNNAMON Edition
+  - https://arch.b4k.co/vg/thread/316402619/
+- 157:  Xtreme is back Edition
+  - https://arch.b4k.co/vg/thread/316212728/
+- 156: Iris is Ugly Edition
+  - https://arch.b4k.co/vg/thread/315949341/
+- 155: Thirder pounder Edition
+  - https://arch.b4k.co/vg/thread/315838357/
+- 154: Generic navigators Edition
+  - https://arch.b4k.co/vg/thread/315650120/
+- 153: https://arch.b4k.co/vg/thread/315418063/
+  - https://arch.b4k.co/vg/thread/315418063/
+- 152: We will not talk about #151 ever again edition
+  - https://arch.b4k.co/vg/thread/315203363/
+- 151: The original eight edition
+  - https://arch.b4k.co/vg/thread/314985848/
+- 150: Look at me... only me... edition
+  - https://arch.b4k.co/vg/thread/314785870/
+- 149: Ara Ara overdrive Edition
+  - https://arch.b4k.co/vg/thread/314601704/
+- 148: Chillest General around Edition
+  - https://arch.b4k.co/vg/thread/314442737/
+- 147: Don't forget the commiebot Edition *(Protodude was here)*
+  - https://arch.b4k.co/vg/thread/314333425/
+- 146: Based maid Edition
+  - https://arch.b4k.co/vg/thread/314194707/
+- 145: Go Tron! Edition
+  - https://arch.b4k.co/vg/thread/313929020/
+- 144: Best ship Edition
+  - https://arch.b4k.co/vg/thread/313926878/
+- 143: Steel panties, I kneel edition.
+  - https://arch.b4k.co/vg/thread/313822612/
+- 142: SCP-142 In the Femur Breaker Edition
+  - https://arch.b4k.co/vg/thread/313706410/
+- 141: Another day, another dailies session edition.
+  - https://arch.b4k.co/vg/thread/313586790/
+- 140: Endless maintenance edition.
+  - https://arch.b4k.co/vg/thread/313474181/
+- 139: Midnight Premier edition.
+  - https://arch.b4k.co/vg/thread/313275808/
+- 138: Evil robot Edition
+  - https://arch.b4k.co/vg/thread/313139378/
+- 137: Do your fucking dailies, or else Edition
+  - https://arch.b4k.co/vg/thread/313014174/
+- 136: is this obvious enough? Edition
+  - https://arch.b4k.co/vg/thread/312848189/
+- 135: 響ミソラ歌 Edition
+  - https://arch.b4k.co/vg/thread/312713937/
+- 134: Fated Fusion Edition
+  - https://arch.b4k.co/vg/thread/312611550/
+
+*-start of the inclusion of /inti/ in the general's title-*
+
+- 133: I prefer Setochi Aile Edition
+  - https://arch.b4k.co/vg/post/312461457/
+- 132: Happy Halloween! Edition
+  - https://arch.b4k.co/vg/thread/312268507/
+- 131: Pile Driving Edition
+  - https://arch.b4k.co/vg/thread/312096956/
+- 130: It's Spooky time! Edition
+  - https://arch.b4k.co/vg/thread/311939825/
+- 129: Pixelated Gustman's Ass Edition
+  - https://arch.b4k.co/vg/thread/311740659/
+- 128: Nobody can't resist the blue woman Edition
+  - https://arch.b4k.co/vg/thread/311512860/
+- 127: He wasn’t ready for round 2 edition.
+  - https://arch.b4k.co/vg/thread/311512860/
+- 126: He wasn’t ready for round 2 Edition.
+  - https://arch.b4k.co/vg/thread/311320516/
+- Magnetic Bunny ears Edition
+  - https://arch.b4k.co/vg/thread/311071475/
+- 125: Marty Edition
+  - https://arch.b4k.co/vg/thread/310822883/
+- 124: Ecce homo qui est X Edition
+  - https://arch.b4k.co/vg/thread/310645536/
+- 123: Its 25k... or nothing Edition
+  - https://arch.b4k.co/vg/thread/310415971/
+- 122: Don't abuse Cyber-Elves Edition
+  - https://arch.b4k.co/vg/thread/310254584/
+- 121: Sono chi no Mega Man Edition
+  - https://arch.b4k.co/vg/thread/310254584/
+- 120: Remove meatbag edition.
+  - https://arch.b4k.co/vg/thread/309860742/
+- 119: Revelation 17:7 Edition
+  - https://arch.b4k.co/vg/thread/309611371/
+- 118: here is you lead developer Edition
+  - https://arch.b4k.co/vg/thread/309393659/
+- 117: Rolling down the street Edition
+  - https://arch.b4k.co/vg/thread/309158487/
+- 116: Welcome to Spooky Edition
+  - https://arch.b4k.co/vg/thread/308867828/
+- 115: Not that far from the truth Edition
+  - https://arch.b4k.co/vg/thread/308693778/
+- 114: The Legends are coming Edition
+  - https://arch.b4k.co/vg/thread/308485683/
+- 113: Assembly detour Edition
+  - https://arch.b4k.co/vg/thread/308283258/
+- 112: The Official girl of /mmg/ Edition
+  - https://arch.b4k.co/vg/thread/308077707/
+- 111: Ready to work Edition
+  - https://arch.b4k.co/vg/thread/307911183/
+- 110: Dumpling 6head Edition
+  - https://arch.b4k.co/vg/thread/307765962/
+- 109: Finally a different boss theme edition
+  - https://arch.b4k.co/vg/thread/307580685/
+- 108: MegaMan Zero: Or how I learned to stop worrying and love human on robot love Edition
+  - https://arch.b4k.co/vg/thread/307457285/
+- 107: JUSTICE Edition
+  - https://arch.b4k.co/vg/thread/307291692/
+- 106: Tickles Edition
+  - https://arch.b4k.co/vg/thread/307078690/
+- 105: Black Reploid supremacy Edition
+  - https://arch.b4k.co/vg/thread/306896561/
+- 104: Like the good ol' days Edition
+  - https://arch.b4k.co/vg/thread/306693790/
+- 103: Pre-maintenance procedures Edition
+  - https://arch.b4k.co/vg/thread/306547078/
+- 102: Give War A Chance Edition
+  - https://arch.b4k.co/vg/thread/306364108/
+- 101: Super (No More Reboot) Edition
+  - https://arch.b4k.co/vg/thread/306305639/
+- 100: Zero is a certified Doctor Edition
+  - https://arch.b4k.co/vg/thread/306200481/
+
+## No. 0 to 99
+- 99: She's finally in! Edition.
+  - https://arch.b4k.co/vg/thread/306081393/
+- 98: Where are your Waifus? Edition.
+  - https://arch.b4k.co/vg/thread/305903375/
+- 97: They are going to be wearing that for new year Edition
+  - https://arch.b4k.co/vg/thread/305746974/
+- 96: Roll is still the Best Edition
+  - https://arch.b4k.co/vg/thread/305552208/
+- 95:  /pg/ edition.
+  - https://arch.b4k.co/vg/thread/305314431/
+- 94: Blonde is Power Edition.
+  - https://arch.b4k.co/vg/thread/305054903/
+- 93: The war is coming Edition.
+  - https://arch.b4k.co/vg/thread/304799021/
+- 92: Dr. Light needs you! Edition.
+  - https://arch.b4k.co/vg/thread/304520030/
+- 91: Aile needs no swimsuit Edition.
+  - https://arch.b4k.co/vg/thread/304292874/
+- 90: Valiant Maverick Hunters Edition.
+  - https://arch.b4k.co/vg/thread/304107845/
+- 89: Repliforce vacation Edition.
+  - https://arch.b4k.co/vg/thread/303906329/
+- 88: Say hello to my little friend edition.
+  - https://arch.b4k.co/vg/thread/303649543/
+- 87: Summertime Blues edition
+  - https://arch.b4k.co/vg/thread/303418857/
+- 86: Tard Wranglin' edition
+  - https://arch.b4k.co/vg/thread/303235772/
+- 85: In your dreams edition
+  - https://arch.b4k.co/vg/thread/303018739/
+- 84: FemZero Edition
+  - https://arch.b4k.co/vg/thread/302839018/
+- 83: Even more summer edition
+  - https://arch.b4k.co/vg/thread/302604763/
+- 82: Summer Edition
+  - https://arch.b4k.co/vg/thread/302349423/
+- 81: Swimsuit Roll Edition
+  - https://arch.b4k.co/vg/thread/302192029/
+- 80: Choose your Bait Edition
+  - https://arch.b4k.co/vg/thread/302037443/
+- 79: She's gonna wreck it Edition
+  - https://arch.b4k.co/vg/thread/301813146/
+- 78: Ooh god oh fuck we slow Edition
+  - https://arch.b4k.co/vg/thread/301566115/
+- 77: Na(7)na(7) Edition
+  - https://arch.b4k.co/vg/thread/301377000/
+- 76:  X smoking Edition.
+  - https://arch.b4k.co/vg/thread/301110551/
+- 75: Mega Manlet Edition.
+  - https://arch.b4k.co/vg/thread/300829464/
+     -75 bis: https://arch.b4k.co/vg/thread/300850130/
+- 74: Boner Alert Edition.
+  - https://arch.b4k.co/vg/thread/300581864/
+   - 74 bis: https://arch.b4k.co/vg/thread/300612084/
+- 73: Not Flashing Booty For Once Edition.
+  - https://arch.b4k.co/vg/thread/300337441/
+- 72: He went for the boot thruster Edition.
+  - https://arch.b4k.co/vg/thread/300050275/
+- 71: Alternative Outfits Edition
+  - https://arch.b4k.co/vg/thread/299793271/
+- 70: X Baddies edition
+  - https://arch.b4k.co/vg/thread/299573691/
+   - 404'd : https://arch.b4k.co/vg/thread/299570216/
+- 69: ロックマン OP Edition
+  - https://arch.b4k.co/vg/thread/299395691/
+- 68: Disrespectful Aile edition
+  - https://arch.b4k.co/vg/thread/299145313/
+- 67: Lolass edition
+  - https://arch.b4k.co/vg/thread/298936437/
+- 66: Soulful Thighs Edition
+  - https://arch.b4k.co/vg/thread/298663524/
+- 65: The struggle is real Edition
+  - https://arch.b4k.co/vg/thread/298376078/
+- 64: Tough Choice Edition
+  - https://arch.b4k.co/vg/thread/298249591/
+- 63: Interspecies(?) Sisters Edition
+  - https://arch.b4k.co/vg/thread/297903370/
+- 62: Luna, quite literally! Edition
+  - https://arch.b4k.co/vg/thread/297621538/
+- 61: Bridgefags BTFO Edition
+  - https://arch.b4k.co/vg/thread/297323940/
+- 60: The OP is, uh, this Edition
+  - https://arch.b4k.co/vg/thread/297115336/
+- 59: Black spinner down Edition
+  - https://arch.b4k.co/vg/thread/296844981/
+- 58: X7 GOTY Edition
+  - https://arch.b4k.co/vg/thread/296572243/
+- 57: Return of the Queen Edition
+  - https://arch.b4k.co/vg/thread/296275957/
+- 56: Mega Man: Battle & Chase 2 soon! Edition
+  - https://arch.b4k.co/vg/thread/295993246/
+- 55: Exposed Cleveage Edition
+  - https://arch.b4k.co/vg/thread/295726852/
+- 54: "What am I buying Metals for!?" Edition
+  - https://arch.b4k.co/vg/thread/295496649/
+- 53: Still Up There Edition
+  - https://arch.b4k.co/vg/thread/295303446/
+- 52: Morpho Live Edition
+  - https://arch.b4k.co/vg/thread/295082808/
+- 51: Good luck Mega Man! Edition
+  - https://arch.b4k.co/vg/thread/294918240/
+- 50 /mmg/ finally dies Edition
+  - https://arch.b4k.co/vg/thread/294734835/
+- 49 Something eyecatching edition
+  - https://arch.b4k.co/vg/thread/294629272/
+- 48 Forbidden lore edition
+  - https://arch.b4k.co/vg/thread/294416020/
+- 47 Skinny MMZero Exoskeleton edition
+  - https://arch.b4k.co/vg/thread/294206205/
+- 46 Cold fish edition
+  - https://arch.b4k.co/vg/thread/294416020/
+- 45 Babby's first X game edition
+  - https://arch.b4k.co/vg/thread/293851926/
+- 44 Zero's fan club edition
+  - https://arch.b4k.co/vg/thread/293609801/
+- 43 The filtered edition
+  - https://arch.b4k.co/vg/thread/293398447/
+- 42 Better than nothing edition
+  - https://arch.b4k.co/vg/thread/293254610/
+- 41 Best Girl edition
+  - https://arch.b4k.co/vg/thread/293142021/
+- 40 Feline friends edition
+  - https://arch.b4k.co/vg/post/292973285/
+- 39 Putting the MEGA in the MAN edition
+  - https://arch.b4k.co/vg/post/292826470/
+- 38 2cool4skool edition
+  - https://arch.b4k.co/vg/thread/292660685/
+- 37 I FEEL THE WIND THE WIND IN THE SKY edition
+  - https://arch.b4k.co/vg/post/292463078/
+- 36 Punished Alouette edition
+  - https://arch.b4k.co/vg/thread/292330862/
+- 35 Layer the player slayer edition
+  - https://arch.b4k.co/vg/thread/292196291/
+- 34 Roll has gotten much mature lately edition
+  - https://arch.b4k.co/vg/post/292035216/
+- 33 Stagnation edition
+  - https://arch.b4k.co/vg/post/291879593/
+- 32 X armor edition
+  - https://arch.b4k.co/vg/post/291639869/
+- 31 MORE THAN A ROBOT edition
+  - https://arch.b4k.co/vg/post/291415052/
+- 30 No.30(th) Anniversary edition
+  - https://arch.b4k.co/vg/post/291243294/
+- 29 D-day (but not really) Edition
+  - https://arch.b4k.co/vg/post/291033170/
+- 28 Zero fucking dies Edition
+  - https://arch.b4k.co/vg/post/290809189/
+- 27 One-time offer edition
+  - https://arch.b4k.co/vg/post/290580321/
+- 26 Worst Girl Edition
+  - https://arch.b4k.co/vg/post/290412637/
+- 25 /our/ delivery girl Edition
+  - https://arch.b4k.co/vg/thread/290195291/
+- 24 Bass Soul Edition
+  - https://arch.b4k.co/vg/post/289921352/
+- 23 Someone fucked up even more Edition
+  - https://arch.b4k.co/vg/thread/289747241/
+- 22 Bleu Ciel Edition
+  - https://arch.b4k.co/vg/thread/289488837/
+- 21 Someone fucked up edition
+  - https://arch.b4k.co/vg/thread/289271348/
+  - *Autosaged #21:  https://arch.b4k.co/vg/thread/289269964/*
+- 20 Alia's Donuts of Doom Edition 
+  - https://arch.b4k.co/vg/thread/289071707/
+- 19 Lady's Man Edition
+  - https://arch.b4k.co/vg/thread/288858717/
+- 18 Mega Ma'am Edition
+  - https://arch.b4k.co/vg/thread/288586168/
+- 17 Megaman X(1)7 Edition 
+  - https://arch.b4k.co/vg/thread/288294880/
+- 16 X9 Edition
+  - https://arch.b4k.co/vg/thread/288175587/
+- 15 Play Power Fighters NGPC Edition
+  - https://arch.b4k.co/vg/thread/287892145/
+- 14 Luna Platz Edition
+  - https://arch.b4k.co/vg/thread/287546338/
+- 13 Green Boobs Edition
+  - https://arch.b4k.co/vg/thread/287288056/
+- 12 DUDE SKIN edition 
+  - https://arch.b4k.co/vg/thread/287114312/ 
+- 11 Cute PETs edition
+  - https://arch.b4k.co/vg/thread/286878525/
+- 10 Soulless Copy edition
+  - https://arch.b4k.co/vg/thread/286570946/
+- 9 Mighty -No.9- edition
+  - https://arch.b4k.co/vg/thread/286354428/
+- 8 Releasing in 200 years edition
+  - https://arch.b4k.co/vg/thread/286089086/
+- 7 Party in Hell edition
+  - https://arch.b4k.co/vg/thread/285872982/
+- 6 Yandere RiCO edition
+  - https://arch.b4k.co/vg/thread/285615295/
+- 5 Rokkuman Exxu, Daibu! edition **(X DiVE launch day)**
+  - https://arch.b4k.co/vg/thread/285335237/
+- 4 Diagnosed with Maverick edition
+  -  https://arch.b4k.co/vg/thread/285137215/
+- 3 Maverick Hunter edition
+  - https://arch.b4k.co/vg/thread/284927789/
+- 2 Save Assist edition
+  - https://arch.b4k.co/vg/thread/284762307/
+- 1 Bond was here.
+  - https://arch.b4k.co/vg/thread/284422629/
+- 0 *Pilot /mmg/*
+  - https://arch.b4k.co/vg/thread/284105508/
+
+## Other (old /mmg/, and /v/ threads)
+
+*some old threads from the old /mmg/ (might list them all depending on my luck and patience for archived.moe to work)*
+
+- 172 "Get the Fuck Up Edition"
+  -  https://archived.moe/vg/thread/181818805
+- 171 "Pandora did nothing wrong Edition"
+  - https://archived.moe/vg/thread/181613864/ 
+- 170 "Mighty Gunvolt Burst is out on 3ds edition"
+  -  https://archived.moe/vg/thread/181155825/
+
+- 168 "Bye-Bye, Conman Edition"
+  - https://archived.moe/vg/thread/179710827/
+- 167 "Bye-Bye, Conman Edition"
+  - https://archived.moe/vg/thread/179710827/
+- 166 "Rushing to make a new thread Edition"
+  - https://archived.moe/vg/thread/179374156/
+- 165 Where's my Switch Port Edition
+  - https://archived.moe/vg/thread/178950340/
+- 164 Extra Gay Edition
+  - https://archived.moe/vg/thread/178521472/
+- 163 Gachapon Frustrations Edition
+  - https://archived.moe/vg/thread/178062263/
+- 162 Wily Return Force edition
+  - https://archived.moe/vg/thread/177691009/
+- 161
+  - https://archived.moe/vg/thread/177288812/
+(...)
+- 155 "Another Fucking Funk Edition"
+  -  https://archived.moe/vg/thread/174609602
+- 80 "Tron Cartoon Edition" 
+  - https://archived.moe/vg/thread/143505754
+- 52 "Congartulations Edition"
+  - https://archived.moe/vg/thread/132965563
+
+*A few old /v/ threads I happen to have saved:*
+
+https://arch.b4k.co/v/thread/482960858
+https://arch.b4k.co/v/thread/486146647
+https://arch.b4k.co/v/thread/488532769
+https://arch.b4k.co/v/thread/491245310
+https://arch.b4k.co/v/thread/491362434
+https://arch.b4k.co/v/thread/491568139
+https://arch.b4k.co/v/thread/495089178
+
+*Some, if not all, /v/ threads around the time of the* **MM Z/ZX Legacy Collection's Launch:**
+
+https://arch.b4k.co/v/thread/491763441
+https://arch.b4k.co/v/thread/496469471
+https://arch.b4k.co/v/thread/496610206
+https://arch.b4k.co/v/thread/497267785
+https://arch.b4k.co/v/thread/497321752
+https://arch.b4k.co/v/thread/497353287
+https://arch.b4k.co/v/thread/497374018
+https://arch.b4k.co/v/thread/497405274
+https://arch.b4k.co/v/thread/497450853
+https://arch.b4k.co/v/thread/497478891
+https://arch.b4k.co/v/thread/497529621
+https://arch.b4k.co/v/thread/497572148
+https://arch.b4k.co/v/thread/497650929
+https://arch.b4k.co/v/thread/497605420
+https://arch.b4k.co/v/thread/497689497
+https://arch.b4k.co/v/thread/497772626
+https://arch.b4k.co/v/thread/497824585
+https://arch.b4k.co/v/thread/497885026
+https://arch.b4k.co/v/thread/497940868
+https://arch.b4k.co/v/thread/498030116
+https://arch.b4k.co/v/thread/498111069
+https://arch.b4k.co/v/thread/498209146
+https://arch.b4k.co/v/thread/498279637
+https://arch.b4k.co/v/thread/498355150
+https://arch.b4k.co/v/thread/498410695
+https://arch.b4k.co/v/thread/498506769
+https://arch.b4k.co/v/thread/498669110
+https://arch.b4k.co/v/thread/498704417
+https://arch.b4k.co/v/thread/498732191
+https://arch.b4k.co/v/thread/498821656
+https://arch.b4k.co/v/thread/498898496
+https://arch.b4k.co/v/thread/498961181
+https://arch.b4k.co/v/thread/499054892
+https://arch.b4k.co/v/thread/499137538
+https://arch.b4k.co/v/thread/499197862
+https://arch.b4k.co/v/thread/499244790
+https://arch.b4k.co/v/thread/499272705
+https://arch.b4k.co/v/thread/499330506

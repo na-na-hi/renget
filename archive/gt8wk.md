@@ -1,0 +1,6 @@
+:>=
+blodjow face
+fucked silly
+ahegao
+torogao
+naughty face

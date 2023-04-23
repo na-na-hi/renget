@@ -1,0 +1,28 @@
+#A different kind of confession
+Slumped on a wall, Sunny drank from his cup of hot chocolate as he observed a group of older high school kids walk out of the entrance being all loud and rowdy as usual. He recognized their faces of course, but he did not know their names. The boy absentmindedly sloshed the content of his cup from one side to another, getting a feel for how much was left inside. Not much left. People watching. It was a habit he had acquired back when he was new in school about three months ago; an activity that Kel suggested to him during a particularly lengthy phone conversation that inevitably touched upon how he was doing in his new school. Sunny confessed that he was unable to talk to other students normally and that it made life difficult for him. Often he would find himself stammering like an idiot whenever someone approached and talked with him, unable to look them straight in the eyes and the conversation never going beyond the awkward small talk. To say that he felt like a fish out of water would be a massive understatement. He was a melting popsicle that had been discarded on the ground; swathes of ants feasting on him. A most painful existence. “It really works!!” said Kel, laughing on the other side. “I swear dude, people watching would take some of that stress off and you’d be chatting with people in no time. No harm in trying, right?” 
+
+Kel was right. Sunny started people watching the day after it was suggested to him, buying a small snack or a drink from the vending machine nearby the entrance, and would sit at a convenient spot where he could observe the students pour in and out of the school building. It was a thoroughly boring affair at first. Sunny would sometimes find himself on the brink of sleep, just barely managing to pull through and continue what he set out to do. The results were astounding. Sunny stopped being the awkward, bumbling mess that he was and could now hold conversations with other people for a considerable length of time. There was this girl he’s been talking with for a few weeks now. Her name was Allison, Allie for short. She’s got smooth, long blonde hair that reached up to her shoulders and a cute babyface adorned with a tiny nose and pretty blue eyes. By some funny twist, it was actually him who first struck up a conversation with her after they bumped into each other after class. It went surprisingly well and they’ve constantly kept in touch with each other since then. Not a day went by where they didn’t spend time with each other’s company. Unlike any other girl in his class, Allie was fun, smart, and very easy to talk to. He felt with her a sensation of closeness and intimacy he hasn’t felt ever since leaving Faraway town.
+
+“Hey Sunny, people watching again?” said a familiar voice from behind.
+
+It’s Allie. What good timing.
+
+“Allie, I thought you already went home,” he said, drinking the rest of his hot chocolate. He looked at the slender figure before him. So pretty…
+
+After seemingly contemplating it for a bit, Allie sat on the floor and urged him to do the same, hugging her backpack in front. “So, got any plans for tonight?”
+
+“Plans for tonight?” he said, repeating what she just said with a puzzled look on his face. 
+
+“Well,” she started, giggling a bit. “Mom and Dad are gonna be out for tonight and I just thought that—” She paused, her hand hovering above his before coming down. Allie squeezed the back of his hand, her fingers intertwining with his. Sunny’s heart almost jumped out of its chest and his entire body was frozen on its spot. What’s going on? A girl inviting him to their house? Is this really happening? Sunny’s mind was an incoherent jumble of thoughts swirling in every direction. Maybe he’s misinterpreting it and it’s nothing. Maybe she just wanted a friend to drop by and not feel lonely? Maybe—
+
+Allie stood up for a moment and paced back and forth, thumb pressed on her chin, before returning to her spot. “Alright, screw it, I’m gonna cut to the chase,” said Allie, bringing her face uncomfortably close to his. Sunny gulped. “I like you, Sunny. Being with you feels… special.” Her face was now flushed red (whether with embarrassment or excitement he wasn’t sure) as though she just swallowed something spicy. “Ever since that day when we first met, I couldn’t stop thinking about you. I’d lay on my bed every night with nothing in my mind but you. Of what could be between us. Have I ever told you how freaking cute you are?” Sunny shook his head, sweat dripping from his forehead. At that moment, Sunny was all but certain that his face mirrored the look on hers. Once again, he felt like a popsicle melting on the ground, but without the ants feasting on him this time.
+
+He forced himself to calm down and focus, steadying his breathing. “N-No, I don’t think you have,” he answered as his lips twitched. Allie continued. “Well, now you’ve heard me say it. But that’s not what enamored me to you, no. You’re one of the kindest, most considerate persons I’ve ever met, Sunny, and that’s no hyperbole. Who else would spend hours listening to me talk about my bullshit and even offer good advice on top of that? Not even my parents would!”
+
+Sunny was stunned. “You’re a good person, Sunny” she said, cupping his face with her warm hands. A good person huh? He wasn’t so sure about that. But the fact that he had feelings for her; that he was sure of. He loved her just as she loved him.
+
+“I love you,” he blurted.
+
+Allie pressed her lips on his. It lasted five seconds but felt much longer. That moment will forever be engraved on his mind.
+
+“I love you too.”

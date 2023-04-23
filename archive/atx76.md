@@ -1,0 +1,16 @@
+> Tom had done what many before him failed to do, and outlasted the demon that haunted him. With his disc shattered beyond the point of recognition, he was seemingly able to escape his torment.
+> For most people, this would rightfully be a cause of celebration. Men don't often get to escape from beasts who lurk in the darkness. But for Tom, there was nothing to be thankful for.
+> He lost people he cared deeply for, along with innocent bystanders just trying to help. All over a damned ROM of an old game that he used to play.
+> Even if he wasn't able to see the demon with his own eyes, his mind is still plagued with thoughts of him. No matter how hard he tried to bury it, the guilt always stuck with him. Leaving him forever tainted and ruined.
+> Unbeknownst to Tom however, the demon still lived. In its final moments of desperation, it shot its very soul into his head as a last ditch effort to cling onto this mortal coil.
+> It was festering in his mind for what felt like an eternity, torturing him with countless nightmares and endless regret. Why did he deserve to live? He could have done so much more to prevent the loss of life and the destruction of families.
+> The demon fed away at his brain, feasting on Tom's fears. Seeing through his eyes how it was to live life as a human. It only had one desire, and that was to shatter the barrier between men and demon to bring humanity to its knees.
+> The thoughts only grew worse for Tom, his head throbbing with pain. His eyes darted around wherever he went, feeling as if something was observing him. He couldn't see the cruel fate that was going to be brought to him.
+> One day, after making it home, the pain grew unbearable. He fell to the ground on his hands and knees, coughing blood. Struggling to breathe and with his vision getting blurry, he cried. He just wanted the pain to stop. He didn't know what he could do to stop it, and he felt powerless to do so.
+> He should have died. All these years have been nothing but meandering around after a tragedy that he cannot let go. 
+> That's when the beast gave him the mercy he desired, and the death that it craved.
+> After slowly materializing in his brain for years, it stuck his hands through Tom's forehead. Splitting his head in half all while Tom let out a blood-curdling scream.
+> It rose out of the bloody cocoon it spent years festering in, only to come out as a truly unholy abomination.
+> Its hair was a deep blue, drenched in the blood of its host. His arms were long and unsightly, with his hands having sharp nails that seemed to be cracked. His mouth was filled with rows of sharp teeth, eager to consume any flesh it would stumble upon. The skin of its body was sallow, but tough.
+> After all these years, it had finally done it. A horrific fate would be brought to the world. The barrier between the free and the damned shall no longer exist. It will bring forth a new age perdition.
+> For it has been reborned, and brought into existence. With nothing in its way...

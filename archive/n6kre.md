@@ -1,0 +1,15 @@
+***
+#Income Overview
+***
+>Income Overview
+The data was collected during the 20:00 GMT+0 06.03.2022 to 20:00 GMT+0 13.03.2022 period. Data is sorted from largest to smallest total income during the data collecting period.
+To define the sources of income:
+- ‘Trading Profit’ stems from selling coins within the last week. Once a coin is sold, an associated ‘buy’ transaction is matched. The difference between buy price and sell price, deducted by buying/selling taxes, constitutes the trading profit column. Zeros in this column indicate a lack of sells, while negative values indicate inefficient trading.
+- ‘Investments Profit’ stems from coins bought but not sold within the last week. In this case, the ‘profit’ is measured by taking the buy price and subtracting it from the 14-day average price of the coin. Negative values here indicate buying coins above their base price and holding them – large negative values are often the signs of heavy oshicoining or spending large amounts of money at once.
+- ‘Last Dividends’ is simple enough. It’s the dividend payout from 12.03.2022 dividends.
+- ‘Wallet Appreciation’ is the increase in net worth caused by market inflation. Bigger wallets have coins that remained ‘passive’ throughout the entire week are neither bought nor sold; however, the market is trending upwards, and thus they increase in value over time slightly. It is harder to notice, but it has a massive impact as it makes up for roughly 1/4th of the total profits of higher-ranked players. It’s calculated by taking the 21-day average price of a coin one week ago and now, subtracting them, and then multiplying by the amount of ‘passive’ coins in the wallet for every coin. Naturally, if the market were trending downwards, we’d observe a wallet depreciation, loss in value.
+***
+
+-> ![Income Overview](https://files.catbox.moe/5si2i7.png) <-
+
+***

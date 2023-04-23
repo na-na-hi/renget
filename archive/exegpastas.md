@@ -1,0 +1,116 @@
+#/exeg/ Original Creepypasta List
+![Art by Porcupineanon](https://files.catbox.moe/b331ro.jpg)
+##Vidya pastas
+Title|Game|Link
+------|------|------
+*WONDER FIGHT COLOR*|Original|[(link)](https://rentry.org/wondercolorfight)
+*BOMBER*|Bomberman|[(link)](https://pastebin.com/Yn0eNpEY)
+*LOSS.wad*|DooM|[(part 1)](https://arch.b4k.co/vg/thread/384832784/#384921318), [(part 2)](https://arch.b4k.co/vg/thread/384944914/#384993240)
+Unnamed Ghosts N Goblins pasta|Ghosts N Goblins|[(link)](https://arch.b4k.co/vg/thread/386475825/#386516073)
+*Secret 4th legendary hat?*|Team Fortress 2|[(link)](https://rentry.org/4thlegendaryhat)
+*Toon 204*|Toontown Online|[(link)](https://arch.b4k.co/vg/thread/403248738/#403324773)
+*tim*|Jr. Pac-Man|[(link)](https://docs.google.com/document/d/16LCoYqjjK5jUB9lrMUgNaKYUWPMUtKgSS4QW0v-hXWg/edit)
+*Pokémon Setting Sun* (WIP)|Pokémon Sun|[(link)](https://rentry.org/z7h42t)
+*Shinto*|Friday Night Funkin' Lullaby|[(link)](https://rentry.org/shintopasta)
+*PokeParamon.net*|Pokémon|[(link)](https://rentry.org/pokeparamon)
+*street fighter: champion of fighters*|Street Fighter|[(link)](https://docs.google.com/document/d/117mDKk0rdETONdVOxxoDmDejhPmvLZND5GZc_NRYoeI/edit)
+Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/418715034/#418828296)
+*SUPER MARIO BROS. 3 - PC PROTOTYPE*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3pcid)
+*Wario Land 4: Fool's Demise*|Wario Land 4|[(link)](https://rentry.org/foolsdemise)
+*Weird 3DS Mario Mod*|Super Mario 3D Land|[(link)](https://rentry.org/weird3dsmario)
+*halflife3reimagined* (WIP)|Half-Life 2|[(link)](https://rentry.org/halflife3reimagined)
+*SCREAM FOR IT*|Mario Party 8|[(link)](https://rentry.org/SCREAMFORIT)
+*Super Mario Brothers 3: The Encore*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3encore)
+*Kirby's Anomaly* (WIP)|Kirby's Adventure|[(link)](https://rentry.org/KirbysAnomaly)
+
+##.exe pastas
+Title|Link
+------|------
+*EXE Tales 1: Lost and Found* (Plushhog)|[(link)](https://rentry.org/or9th)
+*EXE Tales 2: Chaos of my own Creation* (PNG)|[(link)](https://rentry.org/sifrb)
+*WannaRide*|[(part 1)](https://rentry.org/WannaRide), [(part 2)](https://rentry.org/WannaRideToo), [(part 0)](https://rentry.org/WannaRideAlpha)
+*Superbyte*|[(link)](https://rentry.org/3szou)
+*Sabotage*|[(link)](https://rentry.org/kysva)
+*Clown.exe*|[(lore)](https://rentry.org/cgnq9), [(part 1)](https://rentry.org/clown1), [(part 2)](https://rentry.org/clown2)
+*Carnival Night Zone: Pirated Edition* (Clown.exe)|[(link)](https://rentry.org/carnivalnight)
+*Sonic-1-Beta-Log-Archive* (Feels) (WIP)|[(link)](https://rentry.org/imvni)
+*Ancient1*|[(part 1)](https://rentry.org/Ancient1), [(part 2)](https://rentry.org/Ancient1part2), [(part 3)](https://rentry.org/Ancient1Part3), [(part 4)](https://rentry.org/Ancient1FinalPart)
+*Genesys*|[(part 1)](https://arch.b4k.co/vg/thread/376255580/#376310031), [(part 2)](https://arch.b4k.co/vg/thread/397552239/#397554818)
+*Forsaken*|[(link)](https://rentry.org/forsaken-pasta)
+*Sovlless*|[(link)](https://rentry.org/8ftob)
+*WAM*|[(original)](https://rentry.org/WamFullStory), [(reboot)](https://rentry.org/WAM_Rebooted)
+*DECEIVING SOUL* (Deceiver)|[(link)](https://rentry.org/rth8g)
+*Sonic.exe: The Final Round*|[(link)](https://rentry.org/the-final-round)
+Unnamed EXE greentext #1|[(link)](https://arch.b4k.co/vg/thread/407644610/#407869040)
+*Lucky Day* (Deceiver)|[(link)](https://rentry.org/luckyday)
+*Lofi hills* (Funk.Wav)|[(link)](https://rentry.org/Lofihills)
+*The Deceiver*|[(link)](https://rentry.org/deceiverpasta)
+*Bile*|[(link)](https://arch.b4k.co/vg/thread/417531060/#417642765)
+Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#418253426)
+*My Good Friend Sonic* (TooFast.exe)|[(link)](https://arch.b4k.co/vg/thread/419195395/#419433207)
+*Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
+*Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb)
+
+##Non-vidya pastas
+Title|Link
+------|------
+*Spotter.mp4*|[(link)](https://rentry.org/spottermp4)
+*Fog Forest* (WIP)|[(part 1)](https://rentry.org/fogfores)
+*LIGHTOPIA*|[(link)](https://rentry.org/lightopia)
+*Santa's Workshop*|[(link)](https://rentry.org/santasworkshop)
+*Old Man Jenkins*|[(link)](https://rentry.org/oldmanjenkins)
+*12 Months: The Turn of the Millennium*|[(link)](https://rentry.org/turnofthemillenium)
+*12 Months: Koibito no jikken*|[(link)](https://rentry.org/koibitono)
+*12 Months: A Newly Found Interview with Ken Levine*|[(link)](https://rentry.org/kenlevine)
+*Nature Trail* (poem)|[(link)](https://arch.b4k.co/vg/thread/421120756/#421302892)
+*A Digital Séance with a Demon: Step by Step Guide.*|[(link)](https://rentry.org/digitalseance)
+*what we have chosen to become*|[(link)](https://rentry.org/whatwehave)
+*An Accident at Disneyland*|[(link)](https://rentry.org/anaccidentatdisney)
+*Abandoned Hotel Exploration*|[(link)](https://rentry.org/abandonedhotel)
+
+##Rewritten by /exeg/
+Title|Link
+------|------
+*The Fredbite Virus* (The Fredbear Virus)|[(link)](https://arch.b4k.co/vg/thread/405098645/#405220914)
+*Sonic Hedgehog 11* (Hog & Scorched) (WIP)|[(rentry)](https://rentry.org/sonichedgehog11), [(website)](https://sh11fanpage.neocities.org/)
+Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentry.org/pbsrb), [(Rebooted)](https://rentry.org/atx76), [(Blue-Ray)](https://rentry.org/kkpn7)
+*NormalCP*|[(link)](https://rentry.org/normalcdrewrite)
+*MX*|[(link)](https://rentry.org/mxrewrite)
+*Starved*|[(part 1)](https://rentry.org/starvedrewrite), [(part 2)](https://rentry.org/starvedrewrite2)
+*PS135*|[(link)](https://rentry.org/ps135rewrite)
+*Duke*|[(link)](https://rentry.org/dukerewrite)
+*Wechidna*|[(link)](https://rentry.org/wechidnarewrite)
+*mcpe my world* (Herobrine) (WIP)|[(link)](https://youtube.com/playlist?list=PLIA_5TcM2DFARQauSFhGnIqqoBtmcfZSr)
+*Mr. Virtual* |[(link)](https://rentry.org/mrvirtualrewrite)
+*Rerun* (poem)|[(link)](https://rentry.org/rerunrewrite)
+*Blood Whistle*|[(link)](https://rentry.org/marioluigibloodwhistlerewrite)
+*SMB3:BW Fan Group* (Blood Whistle)|[(link)](https://rentry.org/smb3bw)
+*Emperor M*|[(link)](https://rentry.org/nwcemperormrewrite)
+*Early Draft of Episode 150 "Star Koopa"* (Emperor M)|[(link)](https://rentry.org/starkoopa)
+*Almighty & Rodent*|[(link)](https://rentry.org/almightyrodentrewrite)
+*Sonic Adventure DX: A Glitch in the Game* (DX)|[(link)](https://rentry.org/dxrewrite)
+*Flower Child*|[(link)](https://rentry.org/flowerchildrewrite)
+*SL4SH*|[(link)](https://rentry.org/sl4shrewrite)
+*How To Access Luigi's Mansion 2's Secret Mode* (Ihsoy)|[(link)](https://rentry.org/darkmoonmirror)
+*Ihsoy REDONE*|[(link](https://someordinarygamers.fandom.com/wiki/Ihsoy_REDONE)
+*Turmoil*|[(link)](https://rentry.org/turmoilrewrite)
+
+##Restored/archived by /exeg/
+Title|Link
+------|------
+*NES Godzilla Prototype*|[(link)](https://rentry.org/ngp)
+*The Sonic R Horror* (Dot Lisall, among others)|[(link)](https://web.archive.org/web/20051018073343/quackerandbowen.com/sonicr.htm)
+
+##Shitpastas
+Title|Link
+------|------
+*Burning Red*|[(link)](https://arch.b4k.co/vg/thread/387068237/#387134246)
+*HOUSE OF WEGA*|[(link)](https://arch.b4k.co/vg/thread/412491576/#412620809)
+*THE DEVIOUS IMPOSTER*|[(link)](https://arch.b4k.co/vg/thread/413051746/#413215158)
+*MY COPY OF SUPER MARIO BOOM BOOM WENT BOOM BOOM?!*|[(link)](https://files.catbox.moe/cnzu8u.txt)
+*Egg.exe*|[(link)](https://arch.b4k.co/vg/thread/414676128/#414771692)
+*the blood child*|[(link)](https://rentry.org/ynqfg)
+*hog retake: the hedgehog town incident*|[(link)](https://rentry.org/ddmd8)
+*flower god*|[(link)](https://rentry.org/p6yzy)
+*plimbo falsario*|[(link)](https://rentry.org/plimbofalsario), [(d-sides)](https://rentry.org/xnbzt)
+*Plumbers don't get Pussy*|[(link)](https://files.catbox.moe/16yk84.txt)

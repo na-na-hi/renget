@@ -1,0 +1,42 @@
+earrings
+single earring
+hoop earrings
+stud earrings
+star earrings
+heart earrings
+tassel earrings
+cross earrings
+crescent earrings
+multiple earrings
+feather earrings
+flower earrings
+skull earrings
+magatama earrings
+gold earrings
+bow earrings
+dangle earrings
+pill earrings
+triangle earrings
+crystal earrings
+food-themed earrings
+potara earrings
+pearl earrings
+anchor earrings
+drop earrings
+pom pom earrings
+snake earrings
+jack-o'-lantern earrings
+bell earrings
+butterfly earrings
+spade earrings
+bunny earrings
+cherry earrings
+ribbon earrings
+snowflake earrings
+mismatched earrings
+glowing earrings
+ghost earrings
+strawberry earrings
+clover earrings
+lightning bolt earrings
+leaf earrings
