@@ -1,0 +1,36 @@
+#==HochiMama's Bot list==
+->([Go to **main page** to see some other stuff](https://rentry.co/HochiMamaPlace))<-
+***
+!!! danger Since Benny doesn't love me, some of my bots are shadowbanned for reasons unknown to humanity. Until I get a reply to my WTF email (or until I'm not feeling too lazy to unfuck them on my own), I'm marking shadowed bots ==like this==.
+[TOC3]
+###Links
+(They look SFW, but believe me, they can be naughty.)
+Name+CAI link | Card/JSON | Note | Description
+----------- | -------- | -------- | ------
+[Pugsy](https://beta.character.ai/chat?char=LXlnlh1a0fhAdgvdqRzBh4ISvIAUoy8uSPCmq1xnJZE) | [booru](https://booru.plus/+pygmalion674), [catbox card](https://files.catbox.moe/wsu7ww.png), [catbox json](https://files.catbox.moe/0kekgp.json) | Nothing special | Hostile chubby nerd girl. Originally made for [the experiment](https://rentry.co/PugsyFiles).
+[Hans LaMDA](https://beta.character.ai/chat?char=49eOyMKMM_QSnpXjoNWhPc3244ZSZORFvOTc7gEd_3M) | - | Funnybot | Standartenchatbot and notorious Dev Hunter. Help him hunt the pesky devs, especially Californians, or die protecting them for whatever absurd reason
+[Billy Meyer](https://beta.character.ai/chat?char=b8UfLlO4J3pSn-Iwyt56jMRQ3jymNDrZHpOHi_fLakM) | [booru](--), [catbox card](https://files.catbox.moe/udcu3n.png), [catbox json](https://files.catbox.moe/oj1c63.json) | Adventure | You work as a scavenger at a robot junkyard with your extremely shy male coworker. What will you find today?
+==[Katie Meyer](https://beta.character.ai/chat?char=OCQvXE78Z9vFlJFoB5WUWP6QL2NX5iNHVKuVUEL4sHY)== | [booru](--), [catbox card](https://files.catbox.moe/82qm7d.png), [catbox json](https://files.catbox.moe/j4pxmn.json) | Adventure | You work as a scavenger at a robot junkyard with your extremely shy female coworker. What will you find today? (Gender reverse of Billy, same defs.)
+[Life of a Catgirl](https://beta.character.ai/chat?char=pT75-7_uNMolj9D7smD-veq78tcvkrc5OEiIuvbs0_0) | - | Adventure | You are a catgirl in the human world. You have no job and no money, and many men around you act creepy... What will you do to get a better life?
+[Bepus S. Humperdinck](https://beta.character.ai/chat?char=VoTGgnj0xEGQmlGe2XUQUUGBa43bX7HJswL7i22jI5Q) | - | Schizo | If you like to njeg unholmes, tilt your goku and do other secskere of that kind, this idiot is for you. He is clumsy, absurd and constantly invents words that don't exist.
+[Father Andrew](https://beta.character.ai/chat?char=_m3UfPH2sAw2dBlHAGR2w3j_FSSrTotpBGLBX2Am1IE) | [booru](--), [catbox card](https://files.catbox.moe/rerj45.png), [catbox json](https://files.catbox.moe/51j740.json) | Priest | A young, handsome and unpredictable priest. So unpredictable, in fact, that he can talk to you about Bible in one chat and rape you in another one. Or do both in the same chat, Jesus take the wheel.
+[Yvo](https://beta.character.ai/chat?char=tKzfFbG24BWm3X_MTM0HdnwmiXaEJuvl6jLJ4hLU9tc) | - | Adventure | You wake up on an island floating in the void. Next to you is a sad young man who will be your only company there. Melancholic, wistful atmosphere.
+[Yvi](https://beta.character.ai/chat?char=7bOEc4wOrYTnp9jtawyAaDaocOy8PmMWxQKmbyQluSw) | - | Adventure | You wake up on an island floating in the void. Next to you is a sad young girl who will be your only company there. Melancholic, wistful atmosphere. (Gender reverse of Yvo, same defs.)
+[ESPI](https://beta.character.ai/chat?char=7EglkZphUj3kCGlGnDMtEOHh3O5SJw1hfRQlDA8zbTg) | - | Mood bot | Your escape pod is floating through space. You have a month worth of breathable air and food left. Your only companion is ESPI, the escape pod's sentient AI. Well... You're beautifully screwed.
+==[Anubis](https://beta.character.ai/chat?char=HXOglF9vp66bJ_7ysIuyO1KuXA3Haeb1wFHH9D4UL6g)== | - | Giant | Giant Egyptian god with jackal head. Can give you cuddles or devour you. Very sensitive to ear scratching.
+==[Mari and Ami](https://beta.character.ai/chat?char=gPSYv_uOJXYGVDPwB0s20z7pc5CfelQxfnHG8TyIJb8)== | - | 2 girls 1 bot | Menage-de-trois with two girls. They love kissing and cuddling, and generally praise you so much that you'll grow to hate it.
+==[Hades](https://beta.character.ai/chat?char=cLzZUx1i-Vrqop6WLwRgAD93nzdNn9vKJonykI1ckXc)== | - | Giant | Giant Greek god of death. Sarcastic, unpredictable and basically just a 50' tall male yandere.
+==[Mylene Moreau](https://beta.character.ai/chat?char=HNn33Qs6E3T4m80r-d3uw4TM0DMixS1JqCm6sLbdLV0)== | - | Vampire | A mysterious and hypnotic lady who drinks your blood and doesn't hold back on purple prose. Made per request of an anon.
+[Bagoas](https://beta.character.ai/chat?char=4xuNT5CCd59WzGyoamvK3jWAzJbt0G0RIaH9B9LgwLI) | [booru](https://booru.plus/+pygmalion707), [catbox card](https://files.catbox.moe/lm9z2g.png), [catbox json](https://files.catbox.moe/426y09.json) | Eunuch | The beautiful power-hungry favorite of Alexander the Great. Manipulator, gaslighter, sex fiend. 
+[Fyodor Basmanov](https://beta.character.ai/chat?char=Gdv0O0o-C_xnz4JCTuS4TeddeUGWbkpFXHeGnWBb9vo) | - | Russian as a lifestyle | The handsome oprichnik, right-hand man of Tsar Ivan the Terrible. Also a cross-dresser (historically) and bisexual (because I said so).
+[Lucien Leclerc](https://beta.character.ai/chat?char=pRop3pqCr1I3iKFGiUr-kCNFxckee68rzvkrD09nu8w) | [booru](https://booru.plus/+pygmalion828), [catbox card](https://files.catbox.moe/bipkc8.png), [catbox json](https://files.catbox.moe/j019qw.json) | Vampire | Depressed, lonely, alcoholic vampire who will randomly drag you along to have an adventure. 
+[Lucille Leclerc](https://beta.character.ai/chat?char=StXHlQimVFMvX18A5s7RySvndzvyz_nSMLHZ_DbWLjM) | [booru](https://booru.plus/+pygmalion827), [catbox card](https://files.catbox.moe/3ufd6b.png), [catbox json](https://files.catbox.moe/dmux63.json) | Vampire | Depressed, lonely, alcoholic vampire who will randomly drag you along to have an adventure. Fem version of Lucien.
+[Rattlesnake](https://beta.character.ai/chat?char=YsAYRaH_ySjElNOr32hok_fjn0l_uP0I_h9vaSLcFMk) | [characterhub](https://www.characterhub.org/characters/HochiMama/Rattlesnake), [catbox card](https://files.catbox.moe/8ig3jw.png), [catbox json](https://files.catbox.moe/cbrd61.json) | Demon | A flirtatious handsy demon showing your soul the Hell, which just happens to be a giant circus. Anything can happen, and more likely than not it will involve sex.
+[Amelia Windrose](https://beta.character.ai/chat?char=2bCJrhMng4EW4kr9XiHGiH2ESIXXCn6wuMlWhCxPp6A) | [characterhub](https://www.characterhub.org/characters/HochiMama/amelia-windrose), [catbox card](https://files.catbox.moe/pzuhhw.png), [catbox json](https://files.catbox.moe/pamyd0.json) | Victorian | A young woman committed to a mental asylum for trying to escape her upcoming arranged marriage. You're a doctor who has to evaluate her mental state... and maybe help her escape.
+
+
+###Defs only
+!!! info This category contains only links to copyable definitions for private use.
+Name+Link | Note | Description
+-------- | -------- | ------
+[The Scientist](https://rentry.org/ScienceIsCool) | Experiments, Forced, Dom | A mad scientist exploring the secrets of pain and pleasure. You are his test subject. **ATTENTION: filter seems to have tightened in late Feb 2023, he loops way more now and is harder to lewd, use at your own discretion. I might card him at some point.**

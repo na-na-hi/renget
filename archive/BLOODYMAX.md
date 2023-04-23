@@ -1,0 +1,1 @@
+moved 2 [here](https://rentry.co/badapdos)

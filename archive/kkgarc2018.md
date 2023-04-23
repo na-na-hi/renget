@@ -1,0 +1,88 @@
+## /kkg/ Thread Archive
+**Legacy Archive 2018**
+ 
+[Other Archives]
+Archive Sitemap: rentry.org/kkgarcmain
+---
+- 079&nbsp;&nbsp;[archiveofsins.com/h/thread/5215080/](https://archiveofsins.com/h/thread/5215080/)&nbsp;&nbsp;&nbsp;&nbsp;(28.12.2018 21:32 UTC)&nbsp;&nbsp;[725]&nbsp;#&nbsp;Love Hotel Edition
+- 078&nbsp;&nbsp;[archiveofsins.com/h/thread/5210836/](https://archiveofsins.com/h/thread/5210836/)&nbsp;&nbsp;&nbsp;&nbsp;(24.12.2018 11:02 UTC)&nbsp;&nbsp;[643]&nbsp;#&nbsp;Christmas Edition
+- 077&nbsp;&nbsp;[archiveofsins.com/h/thread/5206941/](https://archiveofsins.com/h/thread/5206941/)&nbsp;&nbsp;&nbsp;&nbsp;(21.12.2018 00:34 UTC)&nbsp;&nbsp;[728]&nbsp;#&nbsp;FCK DRM Edition
+- 076&nbsp;&nbsp;[archiveofsins.com/h/thread/5202175/](https://archiveofsins.com/h/thread/5202175/)&nbsp;&nbsp;&nbsp;&nbsp;(14.12.2018 19:22 UTC)&nbsp;&nbsp;[508]&nbsp;#&nbsp;GOTY Edition
+- 075&nbsp;&nbsp;[archiveofsins.com/h/thread/5197161/](https://archiveofsins.com/h/thread/5197161/)&nbsp;&nbsp;&nbsp;&nbsp;(07.12.2018 18:21 UTC)&nbsp;&nbsp;[714]&nbsp;#&nbsp;Loli santas Edition
+
+- 074&nbsp;&nbsp;[archiveofsins.com/h/thread/5192888/](https://archiveofsins.com/h/thread/5192888/)&nbsp;&nbsp;&nbsp;&nbsp;(03.12.2018 01:20 UTC)&nbsp;&nbsp;[809]&nbsp;#&nbsp;Imouto Edition
+- 073&nbsp;&nbsp;[archiveofsins.com/h/thread/5188431/](https://archiveofsins.com/h/thread/5188431/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2018 04:04 UTC)&nbsp;&nbsp;[801]&nbsp;#&nbsp;What the fuck am i seeing? VR Edition
+- 072&nbsp;&nbsp;[archiveofsins.com/h/thread/5183026/](https://archiveofsins.com/h/thread/5183026/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2018 00:13 UTC)&nbsp;&nbsp;[876]&nbsp;#&nbsp;Noir Edition
+- 071&nbsp;&nbsp;[archiveofsins.com/h/thread/5179054/](https://archiveofsins.com/h/thread/5179054/)&nbsp;&nbsp;&nbsp;&nbsp;(17.11.2018 12:32 UTC)&nbsp;&nbsp;[631]&nbsp;#&nbsp;Joint Operation For Privatefag NTR Rapetrain Edition
+- 070&nbsp;&nbsp;[archiveofsins.com/h/thread/5174886/](https://archiveofsins.com/h/thread/5174886/)&nbsp;&nbsp;&nbsp;&nbsp;(11.11.2018 22:10 UTC)&nbsp;&nbsp;[562]&nbsp;#&nbsp;Maybe You should Try Getting A Job Edition
+- 069&nbsp;&nbsp;[archiveofsins.com/h/thread/5168298/](https://archiveofsins.com/h/thread/5168298/)&nbsp;&nbsp;&nbsp;&nbsp;(04.11.2018 07:45 UTC)&nbsp;&nbsp;[851]&nbsp;#&nbsp;Why Does She Wear the Mask Edition
+- 068&nbsp;&nbsp;[archiveofsins.com/h/thread/5162611/](https://archiveofsins.com/h/thread/5162611/)&nbsp;&nbsp;&nbsp;&nbsp;(28.10.2018 07:44 UTC)&nbsp;&nbsp;[632]&nbsp;#&nbsp;Angels and Demons Edition
+- 067&nbsp;&nbsp;[archiveofsins.com/h/thread/5155988/](https://archiveofsins.com/h/thread/5155988/)&nbsp;&nbsp;&nbsp;&nbsp;(20.10.2018 14:12 UTC)&nbsp;&nbsp;[749]&nbsp;#&nbsp;Vidya Edition
+- 066&nbsp;&nbsp;[archiveofsins.com/h/thread/5149016/](https://archiveofsins.com/h/thread/5149016/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2018 04:34 UTC)&nbsp;&nbsp;[667]&nbsp;#&nbsp;Spooky Tits Edition
+- 065&nbsp;&nbsp;[archiveofsins.com/h/thread/5142471/](https://archiveofsins.com/h/thread/5142471/)&nbsp;&nbsp;&nbsp;&nbsp;(02.10.2018 01:30 UTC)&nbsp;&nbsp;[910]&nbsp;#&nbsp;Light Reading Edition
+- 064&nbsp;&nbsp;[archiveofsins.com/h/thread/5136249/](https://archiveofsins.com/h/thread/5136249/)&nbsp;&nbsp;&nbsp;&nbsp;(25.09.2018 23:58 UTC)&nbsp;&nbsp;[717]&nbsp;#&nbsp;Early Winter Edition
+- 063&nbsp;&nbsp;[archiveofsins.com/h/thread/5130055/](https://archiveofsins.com/h/thread/5130055/)&nbsp;&nbsp;&nbsp;&nbsp;(19.09.2018 17:09 UTC)&nbsp;&nbsp;[758]&nbsp;#&nbsp;Your Waifu Belongs in the Trash Edition
+- 062&nbsp;&nbsp;[archiveofsins.com/h/thread/5123279/](https://archiveofsins.com/h/thread/5123279/)&nbsp;&nbsp;&nbsp;&nbsp;(10.09.2018 23:43 UTC)&nbsp;&nbsp;[979]&nbsp;#&nbsp;End of Summer Edition
+- 061&nbsp;&nbsp;[archiveofsins.com/h/thread/5117813/](https://archiveofsins.com/h/thread/5117813/)&nbsp;&nbsp;&nbsp;&nbsp;(05.09.2018 00:16 UTC)&nbsp;&nbsp;[1024]&nbsp;#&nbsp;Cuck'd By The New Girl Edition
+- 060&nbsp;&nbsp;[archiveofsins.com/h/thread/5112152/](https://archiveofsins.com/h/thread/5112152/)&nbsp;&nbsp;&nbsp;&nbsp;(29.08.2018 15:19 UTC)&nbsp;&nbsp;[927]&nbsp;#&nbsp;Possessed Edition
+- 059&nbsp;&nbsp;[archiveofsins.com/h/thread/5106650/](https://archiveofsins.com/h/thread/5106650/)&nbsp;&nbsp;&nbsp;&nbsp;(23.08.2018 03:30 UTC)&nbsp;&nbsp;[768]&nbsp;#&nbsp;Struggling Edition
+- 058&nbsp;&nbsp;[archiveofsins.com/h/thread/5103800/](https://archiveofsins.com/h/thread/5103800/)&nbsp;&nbsp;&nbsp;&nbsp;(20.08.2018 09:53 UTC)&nbsp;&nbsp;[605]&nbsp;#&nbsp;Dick unity Edition
+- 057&nbsp;&nbsp;[archiveofsins.com/h/thread/5098396/](https://archiveofsins.com/h/thread/5098396/)&nbsp;&nbsp;&nbsp;&nbsp;(16.08.2018 08:29 UTC)&nbsp;&nbsp;[701]&nbsp;#&nbsp;The Last Edition, Edition
+- 056&nbsp;&nbsp;[archiveofsins.com/h/thread/5090410/](https://archiveofsins.com/h/thread/5090410/)&nbsp;&nbsp;&nbsp;&nbsp;(10.08.2018 17:33 UTC)&nbsp;&nbsp;[813]&nbsp;#&nbsp;New Stuff soon™ Edition
+- 055&nbsp;&nbsp;[archiveofsins.com/h/thread/5085205/](https://archiveofsins.com/h/thread/5085205/)&nbsp;&nbsp;&nbsp;&nbsp;(05.08.2018 21:44 UTC)&nbsp;&nbsp;[635]&nbsp;#&nbsp;Umi da Edition
+- 054&nbsp;&nbsp;[archiveofsins.com/h/thread/5078945/](https://archiveofsins.com/h/thread/5078945/)&nbsp;&nbsp;&nbsp;&nbsp;(30.07.2018 20:11 UTC)&nbsp;&nbsp;[1129]
+- 053&nbsp;&nbsp;[archiveofsins.com/h/thread/5075070/](https://archiveofsins.com/h/thread/5075070/)&nbsp;&nbsp;&nbsp;&nbsp;(27.07.2018 05:23 UTC)&nbsp;&nbsp;[1000]&nbsp;#&nbsp;Slightly More Content Edition
+- 052&nbsp;&nbsp;[archiveofsins.com/h/thread/5068978/](https://archiveofsins.com/h/thread/5068978/)&nbsp;&nbsp;&nbsp;&nbsp;(21.07.2018 12:11 UTC)&nbsp;&nbsp;[1066]&nbsp;#&nbsp;Koikatsu Mobile Edition
+- 051&nbsp;&nbsp;[archiveofsins.com/h/thread/5064155/](https://archiveofsins.com/h/thread/5064155/)&nbsp;&nbsp;&nbsp;&nbsp;(17.07.2018 16:29 UTC)&nbsp;&nbsp;[955]&nbsp;#&nbsp;Another Shitty Isekai Edition
+- 050&nbsp;&nbsp;[archiveofsins.com/h/thread/5059174/](https://archiveofsins.com/h/thread/5059174/)&nbsp;&nbsp;&nbsp;&nbsp;(13.07.2018 01:06 UTC)&nbsp;&nbsp;[956]&nbsp;#&nbsp;ファイト. ファイト. ファイト! Edition
+
+- 049&nbsp;&nbsp;[archiveofsins.com/h/thread/5056299/](https://archiveofsins.com/h/thread/5056299/)&nbsp;&nbsp;&nbsp;&nbsp;(10.07.2018 10:46 UTC)&nbsp;&nbsp;[65]*&nbsp;pruned&nbsp;|&nbsp;originally /v/196*
+- 048&nbsp;&nbsp;[archiveofsins.com/h/thread/5053351/](https://archiveofsins.com/h/thread/5053351/)&nbsp;&nbsp;&nbsp;&nbsp;(08.07.2018 00:45 UTC)&nbsp;&nbsp;[978]&nbsp;#&nbsp;Dubious Plans Edition
+- 047&nbsp;&nbsp;[archiveofsins.com/h/thread/5048870/](https://archiveofsins.com/h/thread/5048870/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2018 01:18 UTC)&nbsp;&nbsp;[975]&nbsp;#&nbsp;Husbando Edition
+- 046&nbsp;&nbsp;[archiveofsins.com/h/thread/5044524/](https://archiveofsins.com/h/thread/5044524/)&nbsp;&nbsp;&nbsp;&nbsp;(29.06.2018 17:09 UTC)&nbsp;&nbsp;[874]&nbsp;#&nbsp;Family Friendly Edition
+- 045&nbsp;&nbsp;[archiveofsins.com/h/thread/5040297/](https://archiveofsins.com/h/thread/5040297/)&nbsp;&nbsp;&nbsp;&nbsp;(25.06.2018 06:43 UTC)&nbsp;&nbsp;[760]&nbsp;#&nbsp;Going Out & Meeting New People Edition
+- 044&nbsp;&nbsp;[archiveofsins.com/h/thread/5036120/](https://archiveofsins.com/h/thread/5036120/)&nbsp;&nbsp;&nbsp;&nbsp;(21.06.2018 23:36 UTC)&nbsp;&nbsp;[740]&nbsp;#&nbsp;Cheerleaders Edition
+- 043&nbsp;&nbsp;[archiveofsins.com/h/thread/5031865/](https://archiveofsins.com/h/thread/5031865/)&nbsp;&nbsp;&nbsp;&nbsp;(17.06.2018 21:57 UTC)&nbsp;&nbsp;[872]
+- 042&nbsp;&nbsp;[archiveofsins.com/h/thread/5027855/](https://archiveofsins.com/h/thread/5027855/)&nbsp;&nbsp;&nbsp;&nbsp;(13.06.2018 08:01 UTC)&nbsp;&nbsp;[823]
+- 041&nbsp;&nbsp;[archiveofsins.com/h/thread/5023430/](https://archiveofsins.com/h/thread/5023430/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2018 23:37 UTC)&nbsp;&nbsp;[958]&nbsp;#&nbsp;Rigged Vote Edition
+- 040&nbsp;&nbsp;[archiveofsins.com/h/thread/5019198/](https://archiveofsins.com/h/thread/5019198/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2018 16:24 UTC)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Benis Edition
+- 039&nbsp;&nbsp;[archiveofsins.com/h/thread/5014396/](https://archiveofsins.com/h/thread/5014396/)&nbsp;&nbsp;&nbsp;&nbsp;(01.06.2018 06:10 UTC)&nbsp;&nbsp;[1109]&nbsp;#&nbsp;Made it into the OP Edition
+- 038&nbsp;&nbsp;[archiveofsins.com/h/thread/5014349/](https://archiveofsins.com/h/thread/5014349/)&nbsp;&nbsp;&nbsp;&nbsp;(01.06.2018 04:56 UTC)&nbsp;&nbsp;[3]&nbsp;#&nbsp;Goofing on the teachers Edition 
+- 037&nbsp;&nbsp;[archiveofsins.com/h/thread/5010773/](https://archiveofsins.com/h/thread/5010773/)&nbsp;&nbsp;&nbsp;&nbsp;(28.05.2018 22:12 UTC)&nbsp;&nbsp;[1024]&nbsp;#&nbsp;Illya Edition
+- 036&nbsp;&nbsp;[archiveofsins.com/h/thread/5006741/](https://archiveofsins.com/h/thread/5006741/)&nbsp;&nbsp;&nbsp;&nbsp;(25.05.2018 09:12 UTC)&nbsp;&nbsp;[1380]&nbsp;#&nbsp;/u/ Edition
+- 035&nbsp;&nbsp;[archiveofsins.com/h/thread/5003185/](https://archiveofsins.com/h/thread/5003185/)&nbsp;&nbsp;&nbsp;&nbsp;(22.05.2018 05:00 UTC)&nbsp;&nbsp;[1014]&nbsp;#&nbsp;Lunch date Edition
+- 034&nbsp;&nbsp;[archiveofsins.com/h/thread/4998880/](https://archiveofsins.com/h/thread/4998880/)&nbsp;&nbsp;&nbsp;&nbsp;(18.05.2018 19:29 UTC)&nbsp;&nbsp;[1320]&nbsp;#&nbsp;Sure is summer Edition
+- 033&nbsp;&nbsp;[archiveofsins.com/h/thread/4995526/](https://archiveofsins.com/h/thread/4995526/)&nbsp;&nbsp;&nbsp;&nbsp;(16.05.2018 11:51 UTC)&nbsp;&nbsp;[1155]&nbsp;#&nbsp;Anal Idol Edition
+- 032&nbsp;&nbsp;[archiveofsins.com/h/thread/4991992/](https://archiveofsins.com/h/thread/4991992/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2018 16:17 UTC)&nbsp;&nbsp;[1218]&nbsp;#&nbsp;Slutty genderbent MC Edition
+- 031&nbsp;&nbsp;[archiveofsins.com/h/thread/4988540/](https://archiveofsins.com/h/thread/4988540/)&nbsp;&nbsp;&nbsp;&nbsp;(10.05.2018 17:15 UTC)&nbsp;&nbsp;[1264]&nbsp;#&nbsp;Fun things are fun Edition
+- 030&nbsp;&nbsp;[archiveofsins.com/h/thread/4985651/](https://archiveofsins.com/h/thread/4985651/)&nbsp;&nbsp;&nbsp;&nbsp;(08.05.2018 11:16 UTC)&nbsp;&nbsp;[1144]&nbsp;#&nbsp;Slutty Fox Edition
+- 029&nbsp;&nbsp;[archiveofsins.com/h/thread/4982309/](https://archiveofsins.com/h/thread/4982309/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2018 08:24 UTC)&nbsp;&nbsp;[1453]&nbsp;#&nbsp;Metal Gear Edition
+- 028&nbsp;&nbsp;[archiveofsins.com/h/thread/4979059/](https://archiveofsins.com/h/thread/4979059/)&nbsp;&nbsp;&nbsp;&nbsp;(04.05.2018 12:32 UTC)&nbsp;&nbsp;[1473]&nbsp;#&nbsp;Imagination Edition
+- 027&nbsp;&nbsp;[archiveofsins.com/h/thread/4976359/](https://archiveofsins.com/h/thread/4976359/)&nbsp;&nbsp;&nbsp;&nbsp;(03.05.2018 02:41 UTC)&nbsp;&nbsp;[1482]&nbsp;#&nbsp;Smug Edition
+- 026&nbsp;&nbsp;[archiveofsins.com/h/thread/4974196/](https://archiveofsins.com/h/thread/4974196/)&nbsp;&nbsp;&nbsp;&nbsp;(02.05.2018 01:25 UTC)&nbsp;&nbsp;[1418]&nbsp;#&nbsp;Family members Edition
+- 025&nbsp;&nbsp;[archiveofsins.com/h/thread/4972000/](https://archiveofsins.com/h/thread/4972000/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2018 04:03 UTC)&nbsp;&nbsp;[1480]&nbsp;#&nbsp;Embarassed edition
+
+- 024&nbsp;&nbsp;[archiveofsins.com/h/thread/4969564/](https://archiveofsins.com/h/thread/4969564/)&nbsp;&nbsp;&nbsp;&nbsp;(30.04.2018 06:15 UTC)&nbsp;&nbsp;[1584]&nbsp;#&nbsp;Go fuck yourself edition
+- 023&nbsp;&nbsp;[archiveofsins.com/h/thread/4966347/](https://archiveofsins.com/h/thread/4966347/)&nbsp;&nbsp;&nbsp;&nbsp;(29.04.2018 00:26 UTC)&nbsp;&nbsp;[2153]&nbsp;#&nbsp;Muscle Cat Edition
+- 022&nbsp;&nbsp;[archiveofsins.com/h/thread/4964311/](https://archiveofsins.com/h/thread/4964311/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2018 06:53 UTC)&nbsp;&nbsp;[1495]&nbsp;#&nbsp;Not enuf dakka Edition
+- 021&nbsp;&nbsp;[archiveofsins.com/h/thread/4961228/](https://archiveofsins.com/h/thread/4961228/)&nbsp;&nbsp;&nbsp;&nbsp;(27.04.2018 09:59 UTC)&nbsp;&nbsp;[2411]&nbsp;#&nbsp;Cutting right to the chase Edition
+- 020&nbsp;&nbsp;[archiveofsins.com/h/thread/4957529/](https://archiveofsins.com/h/thread/4957529/)&nbsp;&nbsp;&nbsp;&nbsp;(25.04.2018 21:52 UTC)&nbsp;&nbsp;[2442]&nbsp;#&nbsp;Pre-Release Load
+- 019&nbsp;&nbsp;[archiveofsins.com/h/thread/4954651/](https://archiveofsins.com/h/thread/4954651/)&nbsp;&nbsp;&nbsp;&nbsp;(22.04.2018 15:26 UTC)&nbsp;&nbsp;[920]&nbsp;#&nbsp;Final Countdown
+- 018&nbsp;&nbsp;[archiveofsins.com/h/thread/4951907/](https://archiveofsins.com/h/thread/4951907/)&nbsp;&nbsp;&nbsp;&nbsp;(19.04.2018 19:57 UTC)&nbsp;&nbsp;[954]
+- 017&nbsp;&nbsp;[archiveofsins.com/h/thread/4947269/](https://archiveofsins.com/h/thread/4947269/)&nbsp;&nbsp;&nbsp;&nbsp;(15.04.2018 03:29 UTC)&nbsp;&nbsp;[923]
+- 016&nbsp;&nbsp;[archiveofsins.com/h/thread/4943332/](https://archiveofsins.com/h/thread/4943332/)&nbsp;&nbsp;&nbsp;&nbsp;(10.04.2018 23:53 UTC)&nbsp;&nbsp;[916]
+- 015&nbsp;&nbsp;[archiveofsins.com/h/thread/4935059/](https://archiveofsins.com/h/thread/4935059/)&nbsp;&nbsp;&nbsp;&nbsp;(03.04.2018 09:14 UTC)&nbsp;&nbsp;[785]
+- 014&nbsp;&nbsp;[archiveofsins.com/h/thread/4932981/](https://archiveofsins.com/h/thread/4932981/)&nbsp;&nbsp;&nbsp;&nbsp;(01.04.2018 18:23 UTC)&nbsp;&nbsp;[717]
+- 013&nbsp;&nbsp;[archiveofsins.com/h/thread/4929120/](https://archiveofsins.com/h/thread/4929120/)&nbsp;&nbsp;&nbsp;&nbsp;(29.03.2018 15:54 UTC)&nbsp;&nbsp;[734]
+- 012&nbsp;&nbsp;[archiveofsins.com/h/thread/4924903/](https://archiveofsins.com/h/thread/4924903/)&nbsp;&nbsp;&nbsp;&nbsp;(25.03.2018 18:44 UTC)&nbsp;&nbsp;[829]
+- 011&nbsp;&nbsp;[archiveofsins.com/h/thread/4919728/](https://archiveofsins.com/h/thread/4919728/)&nbsp;&nbsp;&nbsp;&nbsp;(20.03.2018 17:18 UTC)&nbsp;&nbsp;[831]
+- 010&nbsp;&nbsp;[archiveofsins.com/h/thread/4914758/](https://archiveofsins.com/h/thread/4914758/)&nbsp;&nbsp;&nbsp;&nbsp;(15.03.2018 05:29 UTC)&nbsp;&nbsp;[0]
+- 009&nbsp;&nbsp;[archiveofsins.com/h/thread/4913243/](https://archiveofsins.com/h/thread/4913243/)&nbsp;&nbsp;&nbsp;&nbsp;(13.03.2018 19:58 UTC)&nbsp;&nbsp;[667]&nbsp;#&nbsp;Default-chan is Best Girl
+- 008&nbsp;&nbsp;[archiveofsins.com/h/thread/4909461/](https://archiveofsins.com/h/thread/4909461/)&nbsp;&nbsp;&nbsp;&nbsp;(09.03.2018 20:24 UTC)&nbsp;&nbsp;[502]
+- 007&nbsp;&nbsp;[archiveofsins.com/h/thread/4903927/](https://archiveofsins.com/h/thread/4903927/)&nbsp;&nbsp;&nbsp;&nbsp;(03.03.2018 22:55 UTC)&nbsp;&nbsp;[670]
+- 006&nbsp;&nbsp;[archiveofsins.com/h/thread/4897666/](https://archiveofsins.com/h/thread/4897666/)&nbsp;&nbsp;&nbsp;&nbsp;(26.02.2018 00:22 UTC)&nbsp;&nbsp;[801]
+- 005&nbsp;&nbsp;[archiveofsins.com/h/thread/4893715/](https://archiveofsins.com/h/thread/4893715/)&nbsp;&nbsp;&nbsp;&nbsp;(23.02.2018 00:20 UTC)&nbsp;&nbsp;[842]
+- 004&nbsp;&nbsp;[archiveofsins.com/h/thread/4890255/](https://archiveofsins.com/h/thread/4890255/)&nbsp;&nbsp;&nbsp;&nbsp;(20.02.2018 03:33 UTC)&nbsp;&nbsp;[1041]
+- 003&nbsp;&nbsp;[archiveofsins.com/h/thread/4888341/](https://archiveofsins.com/h/thread/4888341/)&nbsp;&nbsp;&nbsp;&nbsp;(18.02.2018 19:31 UTC)&nbsp;&nbsp;[702]
+- 002&nbsp;&nbsp;[archiveofsins.com/h/thread/4884769/](https://archiveofsins.com/h/thread/4884769/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2018 22:25 UTC)&nbsp;&nbsp;[836]*&nbsp;|&nbsp;originally /v/27*
+- 001&nbsp;&nbsp;[archiveofsins.com/h/thread/4881173/](https://archiveofsins.com/h/thread/4881173/)&nbsp;&nbsp;&nbsp;&nbsp;(11.02.2018 23:17 UTC)&nbsp;&nbsp;[511]*&nbsp;|&nbsp;originally /v/13*
