@@ -1,9 +1,7 @@
-#[/llst/ - Love Live Seiyuu Thread](https://www.youtube.com/shorts/McLvFg4DVgE)
--><-
--> ![](https://i.imgur.com/SB6U8JT.gif) <-
+#[/llst/ - Love Live Seiyuu Thread](#)
+-> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
 **Previous versions:**
-
 https://rentry.org/llst-2021-02-bkup
 https://rentry.org/llst-2022-06-arch
 https://rentry.org/llst-2022-07-arch
@@ -27,15 +25,18 @@ https://rentry.org/llst-2022-08-arch
 ==2022-2-2==
 - Love Live! Superstar!! Liella! 3rd LoveLive! Tour ~WE WILL!!~ (Tokyo Leg) <Day.1&2>
 
+
 ##Table of Contents
 [TOC]
  
+
 ##Ideal Links
 Events tracker: https://ramen.events/ 
 ↳ LL Events Index: https://ramen.events/love-live-event-info-index/
 LLFans JP (LoveLive Japanese Fanbase Site) : https://ll-fans.jp/
+***
 
-##SEIYUU INFO, LINKS AND SNS
+##Seiyuu Information, Links & SNS
  
 ###🌸🌸 µ's Seiyuu 🌸🌸
 **Emi Niita 新田恵海** (December 10, 1985) "Emitsun"
@@ -365,7 +366,7 @@ https://kusunokitomori.com
 https://www.sma.co.jp/s/sma/artist/441
 https://twitter.com/tomori_kusunoki
 https://www.youtube.com/c/tomorikusunoki
-
+***
 
 ##CONCERTS, SHOWS & VODS LINKS 
 **Love Live! Official YouTube Channel**
@@ -558,7 +559,7 @@ https://nyaa.si/view/1376884
 https://nyaa.si/view/1375171
 https://nyaa.si/view/1374189
 
-==(ENGSUB)== Nijgasaki 1st Live! ~With You~  
+==(ENGSUB)==Nijgasaki 1st Live! ~With You~  
 RAW: https://nyaa.si/view/1272946 
 BD ENGSUB: https://nyaa.si/view/1575338  
 
@@ -573,7 +574,7 @@ BD 720p - https://nyaa.si/view/1245130
 RAW - https://nyaa.si/view/1170341
 
 ####EVENTS/PERFORMANCES/MISC
-(20220710) TOKIMEKI Talk Room Pts 1&2
+TOKIMEKI Talk Room Pts 1&2
 https://nyaa.si/view/1551497
 
 Love Live! Festival 2020 (TV Ver.)
@@ -662,22 +663,23 @@ Part 3
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
 
+
 ###Hasunosora
 Official YT Channel: https://www.youtube.com/@lovelive_hasu
 
-###Miscellaneous
 
 **Love Live! Archive - Live Streams (January 2016 - September 2022) (249.1 GiB)**
 https://nyaa.si/view/1612720
 
 **Aqours/Nijigasaki Concert Collection (935.0 GiB)**
 https://nyaa.si/view/1613034
+***
 
 ## RANDOM LINKS 
 **Unofficial /llst/ discord:** https://discord.gg/6As836P9rN
 **Komiya Arisa PB/Photo linkdump:** https://rentry.org/llst-arishasashin
 
-###Image Galleries & Photobooks
+**Misc Videos, Links, and Photos**
 Ucchi Photobook - https://imgur.com/a/UruilEF
 Ucchi Photobook (old version) - https://imgur.com/a/q2UyB
 Ucchi Imagedump - https://imgur.com/a/DXR0E
@@ -708,8 +710,8 @@ Sayurin PB 12-2022 -
 https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
  
-###Youtube Niconama mirrors & Fansubs
-####RAW
+**Videos/Clips/Namas**
+**Raw:**
 LL Radio / Nama Raw - https://www.youtube.com/channel/UCWDlvslRHBPgjDhTIFyBvwg/videos
 ↳ What A Wonderful Radio (Nakonagi nama) Playlist - https://www.youtube.com/playlist?list=PLHN4pSpGXsHlvwhfOH0odINjhtLMziU40
 ↳ Love Live ANN - https://youtube.com/playlist?list=PLHN4pSpGXsHl50QwwqQSTV50uRIZJ4w95
@@ -718,7 +720,7 @@ Raw niconamas - https://www.youtube.com/channel/UCK8Hs9st7QXeuUez_QvP90Q
 Nijigasaki AbemaTV Image Girl Battle - https://www.youtube.com/channel/UC9fvLHGAiPpnKfjE5GwFi4w
 Aqours broadcasts - https://www.youtube.com/channel/UCY-n3NM-QA2mA037Lz659ng
 
-####ENGSUB
+**Engsub:**
 Anchan Radio Curtain Call engsubs - https://www.youtube.com/channel/UCvbw0CC8sx-J_AInkSd6z8w
 Nijigasaki engsubs 1 - https://www.youtube.com/channel/UC_mhrvjwYXgsm0h8oUkdU3w
 Nijigasaki engsubs 2 - https://www.youtube.com/channel/UCxwlx6pl-OO2WNhl__ylBjQ 
@@ -731,7 +733,7 @@ Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
 https://youtube.com/@smithsubs876
 https://youtube.com/@bbadsubs
  
-###Magazines & Blog Translations
+**Magazines & Blog Translations**
 Aikyan - http://aikyan.dyreatic.moe/archive
 Aikyan blog (2011~2017) - https://drive.google.com/drive/folders/0B7xk6DBWgv7CbnFQa3hocnZFSTA
 Arisha - http://arishamod.tumblr.com/archive
@@ -740,9 +742,9 @@ Anchan - https://frozenmikan.tumblr.com/archive
 Shuka - http://saitou-shuka.tumblr.com/archive
 Random translations - http://translations.dyreatic.moe/archive
 Nijigasaki Social Media - https://twitter.com/niji_fans_para
+
  
- 
-###Wikifeet links
+**Wikifeet links**
 **µ's**
 https://www.wikifeet.com/Aina_Kusuda
 https://www.wikifeet.com/Aya_Uchida
@@ -794,7 +796,7 @@ https://www.wikifeet.com/Yuina
 
 **Hasunosora Seiyuu**
 https://www.wikifeet.com/Kotoko_Sasaki
-
+***
  
 ## 🎂🎂 Birthday Calendar 🎂🎂
 **JANUARY**
@@ -835,7 +837,6 @@ May 24 - Shu Uchida
 June 9 - Yuuki Yuuna
 June 28 - Mimori Suzuko
 
-
 **JULY**
 July 1 - Naomi Payton
 July 12 - Yoshino Nanjo
@@ -873,6 +874,7 @@ December 10 - Emi Nitta
 December 22 - Tomori Kusunoki
 December 23 - Hinata Sato
 December 26 - Sora Tokui
+***
 
 -> Credits to former pastebin anon for his work <-
 -> Currently maintained by: ==**cocosginormousmilkers** !!mNcwlMFpnaU==<-

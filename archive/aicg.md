@@ -351,6 +351,11 @@ Frustrated Gosling
 https://beta.character.ai/chat?char=7Kixwmf4oWb2HrwJoSeEWk-mQ-jM6ugUnRU-b_emnXM
 
 
+//By request, the Snow Leopard Vtuber
+Fuura Yuri
+https://beta.character.ai/chat?char=eUx3SCRTDx7BlG112d2hug3Qw34QMUWk3P_3cF7v7Tc
+
+
 //A Gacha game simulator
 
 Gacha game

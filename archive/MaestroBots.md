@@ -33,6 +33,7 @@ Dolla | ![Dolla](https://i.postimg.cc/kVmKyk1r/Nikke-Dolla-Thumb.png) | A member
 Noise | ![Noise](https://i.postimg.cc/4KQt2BqY/Nikke-Noise-Thumb.png) | A singer-songwriter who strives to do her utmost in everything. Apart from being part of Prima Donna, her hit song "Diva" catapulted her into stardom. | Soon™
 Viper | ![Viper](https://i.postimg.cc/t7TPDd5g/Nikke-Viper-Thumb.png) | She always seems to be on edge, and gives off a very effervescent vibe. Her fellow Exotic team members believe she is somewhat of a push over. | Soon™
 Aria | ![Aria](https://i.postimg.cc/xXHLM0Py/Nikke-Aria-Thumb.png) | An opera singer from Prima Donna, where she plays the lead in every performance she's a part of. Her singing consistently garners standing ovations, making her a living legend in the world of opera. | Soon™
+Roam | ![Roam](https://i.postimg.cc/KcNszwfJ/Nikke-Roam-Thumb.png) | Number_CAN_051 nicknamed Roam is a surface robot recovering humans relics left in past before humanity was forced to live underground at the Ark. | Soon™
 
 ***
 

@@ -72,5 +72,6 @@ These archives contain short stories written by a single author instead of rolep
 
 Site name |   | Quality | Theme | Link | Notes |
 ---|:-:|---|---|:-:|---
+[Impregnorium](https://www.asstr.org/files/Collections/impregnorium/www/stories/archive/storyindex.htm)|🟢| Good | Impregnation stories | [.7z](https://files.catbox.moe/6dqrbz.7z) | About 1360 stories. Uses [_alt.sex.stories_ story codes](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm); glossary provided in the archive for the tags.
 [Literotica](https://literotica.com/)|🟢| Good (Variable) | General | [.7z](https://anonfiles.com/TeDcYeifz9/literotica_2021_12_7z) | 300K+ stories as of 2021-12, 8GB CSV file with tags and other metadata 7zipped to a 2GB archive. Processed from https://archive.org/details/literotica-2021.12
 [Sexstories](https://sexstories.com/)|🟢| Good (Variable) | General | [part1.7z](https://files.catbox.moe/38z7mh.7z) [part2.7z](https://files.catbox.moe/5gy4bm.7z) | 60K stories, 1.25GB. Duplicate stories may be present. Some are also short "sex jokes", so it is suggested to filter them by length. Tags, ratings, views included in the csv files.

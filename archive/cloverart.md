@@ -5,6 +5,8 @@
 ![The Clover Guild Badge](https://i.imgur.com/qg1Myve.jpg)
 ####Clover Guild Badge Sketch
 ![Clover Guild Badge](https://i.imgur.com/DxWy1tb.png)
+####Guildhall Concept by Booker and Kiyo
+![Guildhall Concept](https://i.imgur.com/NCKc3kF.png)
 ####Capim Town (Sketch)
 ![Capim Town (Sketch)](https://i.imgur.com/PdNhaq8.png)
 ####Capim Town (Background)
@@ -142,6 +144,8 @@
 ![Tybo's Money Pile](https://i.imgur.com/9taQATS.png)
 #####Chespin's Solar Beam
 ![Chespin's Solar Beam](https://i.imgur.com/fQnssiD.png)
+#####Macom's Charge
+![Macom's Charge](https://i.imgur.com/JqNG0tj.png)
 ####Bullet's Blitz
 #####Bullet & Mimi
 ![Bullet & Mimi](https://i.imgur.com/D5HNeRz.png)
@@ -155,7 +159,9 @@
 #####KIna
 ![Kina](https://i.imgur.com/J3TVIv0.png)
 #####Onward
-[Onward](https://i.imgur.com/NMCNfbE.png)
+![Onward](https://i.imgur.com/NMCNfbE.png)
+#####Clover Guild Wave 1
+![Clover Guild Wave 1](https://i.imgur.com/98HmV9t.png)
 ####Chespin's Chest
 #####Chespin & Wooper
 ![Chespin & Wooper](https://i.imgur.com/qOLMaJT.png)
@@ -183,6 +189,14 @@
 ![Chesthink](https://i.imgur.com/rDyNCYv.png)
 #####Woopdrink
 ![Woopdrink](https://i.imgur.com/9pFpMSm.png)
+#####Chescan
+![Chescan](https://i.imgur.com/kDoxmRk.png)
+#####Wooper Wall
+![Wooper Wall](https://i.imgur.com/aBQPFDR.png)
+#####Suspin
+![Suspin](https://i.imgur.com/MD8uz26.png)
+#####Cloverdraw
+![Cloverdraw](https://i.imgur.com/q9WQKr8.png)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -196,6 +210,10 @@
 ![Fobbiden Knowledge](https://i.imgur.com/Kf1DdRE.png)
 #####Toge Rant
 ![Toge Rant](https://i.imgur.com/ETajkOl.png)
+#####Sooraa Biimu
+![Sooraa Biimu](https://i.imgur.com/C9T5uhk.png)
+#####Sussy Elm
+![Sussy Elm](https://i.imgur.com/s1BS4hC.png)
 ####Kaiji's Goods
 #####Kris the Schizo Absol
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
@@ -303,6 +321,9 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 ![Vulpix Commits Arson](https://i.imgur.com/GQQEThh.png)
 #####At The Beach
 ![At The Beach](https://i.imgur.com/0QA5UR2.png)
+#####Vulpix Spark
+EDIT (Original Unknown)
+![Vulpix Spark](https://i.imgur.com/Ha00hGz.png)
 ####Phanpy's Craft
 #####Cyndaquil
 ![Cyndaquil](https://i.imgur.com/zPuUFyl.png)
@@ -325,7 +346,11 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 #####Aurora Borealis
 ![Aurora Borealis](https://i.imgur.com/Tq0vH80.png)
 #####Phanpy's Tier List
-![Phanpy's Tier List](https://i.imgur.com/2cBGXmj.png)
+![Phanpy's Tier List](https://i.imgur.com/Ish191Z.png)
+#####Sickos
+![Sickos](https://i.imgur.com/lclwqV3.png)
+#####Courage the Cowardly Sewaddle
+![Courage the Cowardly Sewaddle](https://i.imgur.com/IKQEpAS.png)
 ####Ross's "Realism"
 #####Rossus
 ![Rossus](https://i.imgur.com/h9HvoMa.png)
@@ -391,6 +416,9 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 ![We Bare Mons](https://i.imgur.com/JW1XRvR.png)
 #####Skiddo Sweep
 ![Skiddo Sweep](https://i.imgur.com/Rweemxr.png)
+####Smith's Style
+#####Monka Skoupi
+![Monka Skoupi](https://i.imgur.com/HM1LiW8.png)
 ####Sotto's Sovl
 #####Mawile's Character Design
 ![Mawile's Character Design](https://i.imgur.com/4apsYkR.png)
@@ -412,6 +440,8 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 ![Drawboard 4](https://i.imgur.com/z1Zv4ux.png)
 #####Drawboard 5
 ![Drawboard 5](https://i.imgur.com/9UtJxYB.jpg)
+#####Drawboard 6
+![Drawboard 6](https://i.imgur.com/rJ5mPYX.png)
 ####Art Archives
 [Clover Guild Badge](https://arch-img.b4k.co/vp/1677978445049.png)
 [Mawile's Character Design](https://arch-img.b4k.co/vp/1678132586931.png)
@@ -593,7 +623,7 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 [Tybo's Money Pile](https://arch-img.b4k.co/vp/1681950977625.png)
 [Onward](https://arch-img.b4k.co/vp/1681952780656.png)
 [Chespin's Solar Beam](https://arch-img.b4k.co/vp/1681954984681.png)
-[Phanpy's Tier List](https://arch-img.b4k.co/vp/1681955770500.png)
+[Phanpy's Tier List](https://arch-img.b4k.co/vp/1682228365333.png)
 [Yes Chef](https://arch-img.b4k.co/vp/1681964496611.png)
 [Chespin (forma de violencia)](https://arch-img.b4k.co/vp/1681965694182.png)
 [Smith the Skourpi](https://arch-img.b4k.co/vp/1682011256314.png)
@@ -603,3 +633,17 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 [Ava the Braixen](https://arch-img.b4k.co/vp/1682114655762.png)
 [Booker's Ultimate Challenge](https://arch-img.b4k.co/vp/1682138695896.png)
 [The Clover Badge](https://arch-img.b4k.co/vp/1682141189583.jpg)
+[Clover Guild Wave 1](https://arch-img.b4k.co/vp/1682198470523.png)
+[Sickos](https://arch-img.b4k.co/vp/1682199305450.png)
+[Drawboard 6](https://arch-img.b4k.co/vp/1682199715043.png)
+[Vulpix Spark](https://arch-img.b4k.co/vp/1682200036606.png)
+[Chescan](https://arch-img.b4k.co/vp/1682204563557.png)
+[Macom's Charge](https://arch-img.b4k.co/vp/1682208879122.png)
+[Wooper Wall](https://arch-img.b4k.co/vp/1682216976401.png)
+[Guildhall Concept](https://arch-img.b4k.co/vp/1682266550539.png)
+[Sooraa Biimu](https://arch-img.b4k.co/vp/1682225670390.png)
+[Sussy Elm](https://arch-img.b4k.co/vp/1682284869729.png)
+[Suspin](https://arch-img.b4k.co/vp/1682286596684.png)
+[Courage the Cowardly Sewaddle](https://arch-img.b4k.co/vp/1682292473922.png)
+[Cloverdraw](https://arch-img.b4k.co/vp/1682300066756.png)
+[Monka Skoupi](https://arch-img.b4k.co/vp/1682306381298.png)

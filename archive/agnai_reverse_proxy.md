@@ -1,5 +1,6 @@
 # Reverse proxy on agnai
 
+WHOCARS/HF VIDEO TUTORIAL: https://files.catbox.moe/5f1x3y.webm
 TODD VIDEO TUTORIAL: https://files.catbox.moe/hsshni.webm
 
 ## agnai.chat

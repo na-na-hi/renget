@@ -296,6 +296,33 @@ Ability: Sniper
 
 Moves: Bug Bite, Cross Poison, Crunch, Rock Tomb
 
+###Avalon
+>Facet: Reincarnated Human
+>Job: Bounty Hunter
+>Pokemon: Braixen
+>Ability: Blaze
+>Rare Quality: Food Finder
+>Equipment: (None)
+>Team: Union (on parole)
+>Rank: Rookie
+>Appearance: Band-aid under left eye.
+>Name: Avalon
+>Nickname: Ava
+>Nature: Bashful trying to be Brave
+>Birthday: 10/31
+>Lucky Number: 22
+>Motto: "Always run in the opposite direction of loud noises unless you're tone deaf."
+Favorite:
+>Animal: Tiny critters in general
+>Food: Anything sweet; Mochi especially
+>Item: Snow globes
+>Behavior: Cooking
+Least Favorite:
+>Animal: Frogs
+>Food: Anything spicy; Tabasco sauce especially
+>Item: Trick mirrors
+>Behavior: Socializing
+
 ###Tooca/Lapi
 >Lapi (male Axew):
 >The Axew is a Gentle, kind, and considerate Pokémon...but a bit of a wuss and leery of violence. Not a coward per se, but its not in his personality to fight with someone over something that might be viewed as trivial. Not the type to be all high and mighty either however. Would absolutely not be the type to go after outlaws as a mission for example.
@@ -353,6 +380,35 @@ Moves: Bug Bite, Cross Poison, Crunch, Rock Tomb
 
 ###Concord
 >All around pretty quiet, and prefers to stay out of the limelight but also just likes helping however he can.
+
+###Avalon
+>Nickname: Ava
+>Sex: Female
+>Facet: Reincarnated Human
+>Job: Bounty Hunter
+>Pokemon: Braixen
+>Ability: Blaze
+>Rare Quality: Food Finder
+>Equipment: (None)
+>Team: Union (on parole)
+>Rank: Rookie
+>Appearance: Band-aid under left eye.
+>Nature: Bashful trying to be Brave
+>Birthday: 10/31
+>Lucky Number: 22
+>Motto: "Always run in the opposite direction of loud noises unless you're tone deaf."
+>
+>Favorite:
+>Animal: Tiny critters in general
+>Food: Anything sweet; Mochi especially
+>Item: Snow globes
+>Behavior: Cooking
+>
+>Least Favorite:
+>Animal: Frogs
+>Food: Anything spicy; Tabasco sauce especially
+>Item: Trick mirrors
+>Behavior: Socializing
 
 ###Nigel
 >Personality: Constantly concerned with "clean escapes", avoiding risky situations, keeping "his kids" from becoming starved retards, and being sure he can ruin anyone with a serious reason to oppose him... As such an obvious coward about it that "NTRsol" is as much a Guild in-joke on non-member anons as a serious warning that this apparently-PTSD-ridden literal-motherfucker has, somehow, stolen girls

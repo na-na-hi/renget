@@ -29,13 +29,15 @@ N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | Vulpix, Alolan | Sandshrew (F) & Fletchling (M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
+Concord | M | Nickit | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#concord)
+Vivi | F | Sylveon | CC (Pikachu, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi)
+Avalon 'Ava' | F | Braixen | N/A | Clover Guild Affiliated/Bounty Hunter | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 Tooca | F | Snivy | Axew (M) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Bullet | M | Noivern | Indeedee (Mimi, F, Careful) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bullet)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
 Adelaid | F | Voltorb | Drowzee (Dahpi, M)| Rescue Team | 
-Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | [Quiet](https://rentry.org/vpmdcloverpb#concord)
 Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | Careful
 Nigel | M | Absol | | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#Nigel)
 Skull | M | Cubone | | Clover Guild Member | Quiet
@@ -102,6 +104,15 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 39 | [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88) | | | | |
 40 | [Percival's Extended Introduction](https://rentry.org/uosgo9) | | | | |
 41 | [Torchic Crosses the Alps](https://rentry.org/unesm) | | | | |
+42 | [Encounter (ft. Not Ross)](https://rentry.org/226i97) | | | | |
+43 | | | | | |
+44 | | | | | |
+45 | | | | | |
+46 | | | | | |
+47 | | | | | |
+48 | | | | | |
+49 | | | | | |
+50 | | | | | |
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation Rules and Prompt](https://rentry.org/EtF_Rules)
@@ -201,7 +212,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
-	* [Encounter (ft. Not Ross)](https://rentry.org/226i97) *Not on Table*
+	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Smith the Skorupi
@@ -299,6 +310,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Percival's Extended Introduction](https://rentry.org/uosgo9)
 * [Torchic Crosses the Alps](https://rentry.org/unesm)
 * [Encounter (ft. Not Ross)](https://rentry.org/226i97)
+
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)

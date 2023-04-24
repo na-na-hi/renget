@@ -22,7 +22,7 @@
 	>==MV==  - 
 !!! Info Incomplete - https://rentry.org/nzpe9
 
->>**Mega link to the vods for unarchived members karaoke - Updated link on 11/13**
+>>**Mega link to the vods for unarchived members karaoke - Updated link on 04/23/23 - Added "【MEMBERS ONLY】Drawing n Stuff"**
 >https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ05OWlE5Q1NnelpWT2V4TXFCWDJ1Sk5HQk1xQ2drMU1xajA5ZzF1OUNmanJoZWFMMVN4MEVScWRzSks1SWN0SDMvZzhiUkprbnIxV0s0VnRZd3ZMTWl1K25GeXY3UT09IiwiaSI6ImxseDVjVi85V2RkV0E3N1AifQ==
 >**The password is the first line Mumei said in this comment.**
 >https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/community?lc=Ugw-4_lhRf9ztdI1L254AaABAg&lb=UgkxwzbiSc357FsmIfGrHl5b4hBGEKIbc-Gn

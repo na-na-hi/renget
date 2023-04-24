@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Su-25SM3 attack aircraft of the Russian Aerospace Forces.
+https://files.catbox.moe/mtc4hb.MP4
 >Tank assault on hohol trench
 https://files.catbox.moe/wyij36.mp4
 >Wagner UAV operator instructor

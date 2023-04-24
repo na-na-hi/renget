@@ -9,7 +9,11 @@
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 ***
+Now reformed, the former outlaw Smeargle opens an unusual shop in town. Here, he can show you a different perspective on life by switching the bodies of you and a willing participant for one day. Don't worry, the law is around to make sure he holds up his end of the bargain. Do you simply goof around for the day? Use it to get a taste of a comrade's abilities firsthand? Lose a bet and the winner chose this? Or does an urgent mission come up, forcing the two of you to tackle it in an unfamiliar form?
 
+Versatile enough to be used by multiple people as a plot device for their own little stories.
+
+***
 **Cake**
 People notice that the Guildmaster seems to be feeling down, so several guild members gather up to bake a cake for him.
 Chaos ensues in Beast's kitchen.

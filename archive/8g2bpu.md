@@ -1,5 +1,17 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Booker learning to fly
+
+Togetic cleaning the storage room 
+
+Waiting room outside the clinic.  Feat. Artist's choice injured pokemon
+
+Percival perched on the guild diligently 
+
+A few 2nd wave mons sitting together at a dinner table
+
+Chespin lifting Minun with his vines to pick an apple from a tree
+
 Phanpy and friends in winter outfit (in progress)
 
 Phanpy and friends at the blue claw inn
@@ -38,7 +50,7 @@ Guild members stealing Chateaux Cherim from Beast's kitchen
 
 ~~Outlaw Smeargle getting hit by Chespin's Solarbeam~~
 
-Artist Anon-mons drawing at a canvas or paper together
+~~Artist Anon-mons drawing at a canvas or paper together~~
 
 ~~gm in swimsuit pls pls pls pls~~
 
