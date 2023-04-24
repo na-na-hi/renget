@@ -68,6 +68,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Jackson (じゃくそんの部屋)**<-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/15552736)[[Fantia]](https://fantia.jp/fanclubs/209309) [[Twitter]](https://twitter.com/3djakuson) <-
 
+[[Fantia]](https://fantia.jp/products/419751) : Azur Lane - Shiranui
 [[Fantia]](https://fantia.jp/products/324816) : Azur Lane - Oite -Summer Dedication-
 [[Fantia]](https://fantia.jp/products/277809) : Azur Lane - Kagerou
 [[Fantia]](https://fantia.jp/products/162726) : Azur Lane - Kamikaze Kai

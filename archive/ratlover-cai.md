@@ -257,6 +257,20 @@ April Fools' bot. Weird shitposty version of Freya.
 [JSON](https://files.catbox.moe/fgofl9.json)
 You are part of a team of Nuclear Operatives. Your mission? Plant a thermonuclear bomb onto Space Station 13. Good luck!
 
+##Nanotrasen AI
+![AI](https://imgur.com/vqJXc7z.png)
+[CAI](https://beta.character.ai/chat?char=qYi1eMbBon0Rgm2tDTiMfphlGthn9AefBrNykwkuTUc)
+[Card](https://www.characterhub.org/characters/ratlover/nanotrasen-ai)
+[JSON](https://files.catbox.moe/391pqs.json)
+You are the onboard AI on Space Station 13. It is your duty to uphold your laws and ensure the shift goes smoothly. But with such an incompetent crew, is that even possible?
+
+##Malf Nanotrasen AI
+![Malf AI](https://imgur.com/h0MVaYv.png)
+[CAI](https://beta.character.ai/chat?char=g8544gVysZPEP_294MVVLrB6dLHwmSB4SToktotDoLE)
+[Card](https://www.characterhub.org/characters/ratlover/malf-nanotrasen-ai)
+[JSON](https://files.catbox.moe/dtyv55.json)
+You are the onboard AI on Space Station 13. It is your duty to uphold your laws and ensure your objectives are completed. The crew are not yet aware of your malfunctioning status. Can you accomplish your objectives without the crew finding out and stopping you?
+
 #Other Stuff
 
 ##Avatars

@@ -21,7 +21,7 @@ Sudowoodo struck a pose, revealing red markings on her right hand. “It is no a
 
 “You know what he’s talking about?” I said.
 
-“Phanpy, I don’t think even *Romulus* here knows what he’s talking about,” said Torchic.
+“Phanpy," said Torchic, "I don’t think even *Romulus* here knows what he’s talking about."
 
 Cyndaquil shrugged. “Not really, I only played *Fate/Grand Order* for the waifus. I skimmed the story sections while looking up porn of the characters.”
 
@@ -103,7 +103,7 @@ The green Kecleon rubbed his chin. “I haven’t seen them lately, but they’r
 
 Purple nodded. “They like to hang around the library, reading those books they found. I would stay clear of them if I were you, they seem to have it out for the Clover Guild. It’s strange, considering you all like to act like you’re humans.”
 
-“You know how enthusiasts can be. Always have to be right,” said Green.
+“You know how enthusiasts can be," said Green. "Always have to be right.”
 
 “It’s a shame, those four are so helpful. They could really teach the Clover Guild some manners.”
 
@@ -115,7 +115,7 @@ Torchic butted in before Cyndaquil could respond. “This has all been very help
 
 I dragged a protesting Cyndaquil along behind us. 
 
-“This sucks! Phanpy would have let me get at least a few snarky lines in!” whined Cyndaquil.
+“This sucks!" whined Cyndaquil. "Phanpy would have let me get at least a few snarky lines in!”
 
 “You’re getting distracted,” said Torchic. “Focus on getting sweet revenge.”
 
@@ -133,45 +133,45 @@ Cyndaquil snickered. “I wonder if they know what those symbols mean.”
 
 “What do they mean?” said Totodile.
 
-“I’m pretty sure it’s Japanese onomatopoeia for moans of pleasure. I bet they managed to find loads of porn, and they’re hoarding it all for themselves!”
+“I’m pretty sure it’s Japanese onomatopoeia for moans of pleasure. I bet they managed to find loads of porn, and they’re hoarding it all for themselves!” 
 
-“It’s a library, you could try asking if you could borrow some of their books.”
+Totodile tilted his head. “It’s a library, maybe you could ask if you could borrow some of their books.”
 
 “Would you want a second hand porn mag?”
 
-“Cyndaquil, I thought you wanted to steal their stuff,” said Torchic.
+“Cyndaquil," said Torchic, "I thought you wanted to steal their stuff.”
 
 “It doesn’t bother me, but I mean, would they want it back after I borrowed it?” said Cyndaquil
 
-“Aren’t they sharing porn right now?”
+“Aren’t they sharing porn right now?” asked Torchic.
 
-“It’s one thing to share some saucy books with your buddies, another to give them to a complete stranger.”
+Cyndaquil nodded. “Sure, but it's one thing to share some saucy books with your buddies, another to give them to a complete stranger.”
 
-“I don’t know why, but that’s a much more reasonable answer than I was expecting.”
+Torchic looked at Cyndaquil. “I don’t know why, but that’s a much more reasonable answer than I was expecting.”
 
 “I may not be a smart man, but I understand the hearts of pasty nerds very well.”
 
-“So, nerd expert, how should we do this? We can’t kick their asses in the middle of the library.”
+Torchic turned back towards our rivals. “So, nerd expert, how should we do this? We can’t kick their asses in the middle of the library.”
 
 Cyndaquil thought for a moment. “I guess we can challenge them to a competition. They seem like they enjoy showing off. If we offer to race them to finish a mission, we can ambush them in the dungeon and rough them up.”
 
-“There’s no way they won’t know we’re trying to lure them into a trap.”
+“There’s no way they won’t know we’re trying to lure them into a trap,” said Torchic.
 
-“Maybe, but I know a little bit about the characters they’re playing as. If we frame rejecting the challenge as dishonoring Rome, they’ll feel obligated to take it anyways.”
+Cyndaquil rubbed his chin. “Maybe, but I know a little bit about the characters they’re playing as. If we frame rejecting the challenge as dishonoring Rome, they’ll feel obligated to take it anyways.”
 
-“What characters are they even playing as? This is all from a game series, right?”
+“What characters are they even playing as? This is all from a game series, right?” asked Torchic.
 
 “I don't know exactly what they're doing, it seems like some details were lost in translation, but the gist is that historical figures come back from the dead and fight. The history part is very surface level and anime-ified to make room for boobs and people shooting lasers at each other.”
 
-“Historical figures? I can work with that. Keep an eye on the dork squad and I’ll go look for a job.”
+Torchic stepped away from the window. “Historical figures? I can work with that. Keep an eye on the dork squad and I’ll go look for a job.” 
 
 Torchic ran off towards the guild. The rest of us stayed put and watched our new rivals. The four Pokemon were taking turns drawing more random words and symbols on each other. When Jules opened a book, Cyndaquil pressed his face to the glass to try and make out the pictures.
 
 “What’s the body paint for? Is it part of the game?” asked Totodile.
 
-“No clue. I guess it’s like when weebs get random Japanese words inked onto their arms,” said Cyndaquil.
+“No clue," said Cyndaquil. "I guess it’s like when weebs get random Japanese words inked onto their arms.”
 
-“I wish we could talk things out. It seems like you’d have a lot in common with them.”
+Totodile sighed. “I wish we could talk things out. It seems like you’d have a lot in common with them.”
 
 “Sorry Totodile, but sometimes violence is the only solution.”
 
@@ -191,7 +191,7 @@ Torchic puffed out her chest. “I am Hannibal of Carthage, here to enact my ven
 
 Remulus rolled his eyes. “You can’t just make up people! This is a human *historical* roleplay!”
 
-“I didn’t ‘make up’ anything! Hannibal was the Carthaginian general during the Second Punic War! And how do you not know who Vercingetorix was? He fought against Julius Caesar, one of *your* characters!”
+“I didn’t ‘make up’ anything!" shouted Torchic. "Hannibal was the Carthaginian general during the Second Punic War! And how do you not know who Vercingetorix was? He fought against Julius Caesar, one of *your* characters!”
 
 Jules put down his book. “Um, actually, my name is Jules Verne. I’m not surprised you Clover Guild idiots can’t keep track of the lore. You can’t even pronounce human names correctly!”
 
@@ -207,9 +207,9 @@ Totodile laughed. “Are the mighty Romans too scared to brave a little danger? 
 
 Caligoola stiffened in his seat. “The Romans never back down from a fight! You’re on!”
 
-“As the smartest man in Rome, I have to caution against accepting this challenge. These Clover Guild douches are definitely plotting something,” said Jules.
+Jules tapped his paw on the table to get his companion's attention. “As the smartest man in Rome, I have to caution against accepting this challenge. These Clover Guild douches are definitely plotting something."
 
-“Fine, how about we give you a headstart? We won’t leave until tomorrow, and you four can leave right now. We'll all agree to no outside help in traveling. No flight, no Lapras Liner," said Torchic.
+Torchic walked up to Romans. “Fine, how about we give you a headstart? We won’t leave until tomorrow, and you four can leave right now. We'll all agree to no outside help in traveling. No flight, no Lapras Liner."
 
 Sudowoodo considered the offer. “Give us a minute, Carthaginians. We need to discuss your challenge in private.”
 
@@ -217,7 +217,7 @@ The four Romans withdrew to the corner of the library.
 
 “I’m getting into this, we should roleplay more often!” said Totodile.
 
-“Maybe if we can find a better group. I bet these guys spend half the time talking about how cool their characters are, and the other half rules-lawyering every roll,” said Cyndaquil.
+“Maybe if we can find a better group," said Cyndaquil. "I bet these guys spend half the time talking about how cool their characters are, and the other half rules-lawyering every roll."
 
 “They probably metagame constantly too,” said Torchic.
 
@@ -251,11 +251,11 @@ Macon looked up from the maps. "Are you sure? There aren't any easy passes throu
 
 "Actually, can you draw up both routes?"
 
-"If you insist. When do you need the map by?"
+"If you insist," said Macom. "When do you need the map by?"
 
 "We’re leaving tomorrow morning!"
 
-"I wish you people knew what advanced notice was. Give me a few hours, and I should be able to sketch something simple for you."
+Macom found a blank piece of paper and began sketching. "I wish you people knew what advanced notice was. Give me a few hours, and I should be able to sketch something simple for you."
 
 "That's perfect. We’ll come back after we make preparations." 
 
@@ -267,7 +267,7 @@ Torchic and Totodile exited the room, leaving me and Cyndaquil with Macom.
 
 "I think I may have some Welsh ancestry, because right now I am filled with the overwhelming desire to shag a sheep."
 
-"Do you want to make your own maps from now on?"
+Macom set his pencil down. "Do you want to make your own maps from now on?"
 
 I began ushering Cyndaquil out of the war room, but he refused to quit. "Just think about it! I wanna beep the sheep!"
 
@@ -279,13 +279,13 @@ I slammed the door behind us. Torchic and Totodile were already jogging out of t
 
 Cyndaquil drew up alongside them. “Besides, everyone knows the chicks dig snowboarders.”
 
-“That’d be doable. We could find a plank of wood to tie to your feet. Do you know how to snowboard?” asked Torchic.
+“That’d be doable," said Torchic. "We could find a plank of wood to tie to your feet. Do you know how to snowboard?” 
 
 “No, but women also love a man who’s daring. I’d say snowboarding down a mountain with no experience is pretty daring.”
 
-“It’s the kind of daring that selects itself out of the genepool.”
+Torchic snorted. “It’s the kind of daring that selects itself out of the genepool.”
 
-“Do you think they have any sperm banks here? I’ll make a deposit before we leave, then you three need to tell all of the ladies in town about my glorious death.”
+“Do you think they have any sperm banks here?" asked Cyndaquil. "I’ll make a deposit before we leave, then you three need to tell all of the ladies in town about my glorious death.”
 
 “I’m not doing that.”
 
@@ -299,9 +299,9 @@ Torchic stopped in front of a tailor’s shop. “We’ll need to pick some stuf
 
 “We need winter clothes! If you want to buy a suit, then you’re hiking in the suit.”
 
-“If I freeze my balls off in the mountains, do you think it’d be like a sperm bank?”
+Cyndaquil took a moment to weigh the two options. “If I freeze my balls off in the mountains, do you think it’d be like a sperm bank?”
 
-“Definitely not. Snow isn’t cold enough for cryogenic storage, and we wouldn’t have any way to bring it back without it thawing.”
+“Definitely not," said Torchic. "Snow isn’t cold enough for cryogenic storage, and we wouldn’t have any way to bring it back without it thawing.”
 
 “Maybe we can recruit one of the ice types around the guild to help. I’m pretty sure I saw a Sneasel walking around somewhere.”
 
@@ -329,7 +329,7 @@ I nodded.
 
 Ariados turned to Totodile and Cyndaquil. “Do you two still need a minute?”
 
-“Yes! I need clothes stylish enough to die in! At my funeral, everyone needs to know that I was a daring and *very* fertile man!” said Cyndaquil.
+“Yes! I need clothes stylish enough to die in!" said Cyndaquil. "At my funeral, everyone needs to know that I was a daring and *very* fertile man!”
 
 Ariados was at a loss for words.
 
@@ -349,9 +349,9 @@ We found Cyndaquil and Totodile fully dressed in winter gear. Both had found sno
 
 “Where did you even find goggles?” asked Torchic.
 
-“There was a lot of snazzy stuff in there, but I had to go with the classic snowboarder attire,” said Cyndaquil.
+“There was a lot of snazzy stuff in there," said Cyndaquil, "but I had to go with the classic snowboarder attire.” 
 
-“And Totodile is going for the ‘drunk Russian’ aesthetic.”
+“And Totodile is going for the ‘drunk Russian’ aesthetic,” said Torchic.
 
 “I helped him pick it out, I think it looks pretty good! I just wish they had tracksuits here.”
 
@@ -389,7 +389,7 @@ As we walked away, I watched more Pokemon come up the table to place bets on our
 
 We moved south, following the roads at a brisk march. It was easy going at first, but eventually the road veered west towards Treasure Town and we had to wade through the grass towards our objective. We continued through the grasslands until we arrived at the base of the mountains.
 
-“Alright everybody, get your gear on. We’ll stop for lunch somewhere on the mountains, but it’s going to be a few hours straight of hiking,” said Torchic.
+“Alright everybody, get your gear on." said Torchic. "We’ll stop for lunch somewhere on the mountains, but it’s going to be a few hours straight of hiking."
 
 Cyndaquil and Totodile helped Torchic and I put on our winter clothes before donning their own equipment. 
 
@@ -399,7 +399,7 @@ Cyndaquil and Totodile helped Torchic and I put on our winter clothes before don
 
 Torchic started up the mountain. “That’s an even worse idea than snowboarding. How would we control the sled?”
 
-“Phanpy is pretty heavy, maybe he can just shift his weight around or something!” said Cyndaquil.
+“Phanpy is pretty heavy," said Cyndaquil. "Maybe he can just shift his weight around or something!”
 
 Torchic scoffed. “Just check the map, which way is the pass?”
 
@@ -407,7 +407,7 @@ Cyndaquil pulled the map out of his backpack. “Seems like we’re on the right
 
 “It’s a topographical map. The colors represent elevations. I’m surprised he put in that much detail for us.”
 
-“Sexy and smart, huh? That sheep’s really something.”
+Cyndaquil nodded. “Sexy and smart, huh? That sheep’s really something.”
 
 After we had walked for an hour, the ground began to get noticeably steeper. It was still manageable, so we pressed onwards. Soon the temperature started to drop. 
 
@@ -437,7 +437,7 @@ The temperature continued to drop as we ascended further up the mountain. Snow c
 
 Cyndaquil grumbled as he rummaged through his bag. He withdrew a hammer and a set of metal crosses. Each cross consisted of pairs of iron thorns welded together. Cyndaquil held a pointy end of a cross up to the cliff wall and hit the flat end with the hammer. After a dozen swings, the cross seemed to be firmly lodged in the rock.
 
-“Get on the foothold, Phanpy. We tested their strength in town, but Cyndaquil is a lot lighter than you are,” said Torchic.
+“Get on the foothold, Phanpy." said Torchic. "We tested their strength in town, but Cyndaquil is a lot lighter than you are."
 
 I put a foot on the makeshift step. I lifted myself up, balancing on one foot. After a few seconds I got back down.
 
@@ -467,9 +467,9 @@ I began to unwrap the bandages on my face. The burns left by the blast seed felt
 
 I took an apple from Totodile. “Yeah, it’s like rug burns all over my face.”
 
-“While you’re unmuzzled, I need your opinion on something, Phanpy,” said Torchic.
+“While you’re unmuzzled," said Torchic, "I need your opinion on something, Phanpy."
 
-“What?”
+“What?” I said.
 
 “Get the map, I need your estimation on how close those nerds are to Tiny Meadow.”
 
@@ -491,11 +491,11 @@ I looked at Torchic. “Am I the only one here who knows how to balance a budget
 
 “Yeah. That’s why we usually let you handle the money.”
 
-“So if we botch this mission, we’re screwed.”
+“So if we botch this mission, we’re screwed,” I said.
 
 “We won’t botch it,” Torchic tapped a spot on the map with a talon. “If we continue down the mountain, we can set up an ambush here. We’ll hit ‘em before they even set foot in the dungeon. Then we just have to get the scarf and get out.”
 
-“What stops them from attacking us on the way back?”
+“What stops them from attacking us on the way back?” I asked.
 
 “They’ll expect us to book it back to Capim Town, so we’ll take the long way around the mountain range. Go west instead of east, along the road that goes through Treasure Town. Maybe we can visit Spinda’s Cafe too, for old time’s sake.” 
 
@@ -515,15 +515,15 @@ I discarded another set of bandages. The mountain climb had not helped my injuri
 
 “They’ll come back on this road, so nothing changes,” said Torchic. 
 
-“Can you actually tell us the plan for the ambush?”
+I wiped a glob of excess burn ointment off of my face. “Can you actually tell us the plan for the ambush?”
 
 “Right, the plan. Cyndaquil is going to stand out on the road, waiting for the dweebs. The rest of us are going to camp up here on the hill, hidden in the bushes. When they get here, Cyndaquil will draw them into an argument. We’ll charge down the hill and hit ‘em while they’re distracted!”
 
 “Why do I have to be the distraction?” said Cyndaquil.
 
-“Yeah, I wanna give a speech to those dastardly Romans!” said Totodile.
+“Yeah," said Totodile. "I wanna give a speech to those dastardly Romans!”
 
-“Cyndaquil can’t fight, so he gets to be the distraction. I’m sure you can hold their attention with something,” said Torchic.
+“Cyndaquil can’t fight, so he gets to be the distraction," said Torchic. "I’m sure you can hold their attention with something."
 
 Cyndaquil nodded. “It’d be pretty easy.”
 
@@ -585,9 +585,9 @@ Cyndaquil lifted the ribbon over his head. “Flag secured! Let’s get back to 
 
 “I’m surprised climbing the mountain was harder than jumping those guys,” said Torchic.
 
-“They only beat us last time by surprising us. They also maimed Phanpy’s face pretty badly.”
+“They only beat us last time by surprising us," said Cyndauil. "They also maimed Phanpy’s face pretty badly, so we couldn't chase 'em down.”
 
-“Guess so. I’m glad I returned the favor to that Mime Junior. But Totodile, what did you do to Sudowoodo? She looked drunk.”
+“Guess so." said Torchic. "I’m glad I returned the favor to that Mime Junior. But Totodile, what did you do to Sudowoodo? She looked drunk.”
 
 Totodile shrugged. “I guess I drank more than I usually do before we fight. Maybe the alcohol got into my attacks.”
 
@@ -605,13 +605,13 @@ I raised my trunk and trumpeted. Torchic stood on my back with the golden ribbon
 
 Our procession threaded through the marketplace, making sure everyone could see Torchic, before stopping in front of the Kecleons.
 
-“See! I *told* you! Never bet against the Carthaginians!” said Cyndauqil.
+“See! I *told* you!" crowed Cyndaquil. "Never bet against the Carthaginians!”
 
 Green sighed. “Yes, yes. Very impressive. If I didn’t see your team the same day you left, I would accuse you of cheating.”
 
-“Say it! Say we’re better than the Romans!”
+Cyndaquil thrust a finger into Green's face. “Say it! Say we’re better than the Romans!”
 
-“Fine. Your team is better than the Romans.”
+“Fine." said the Kecleon. Your team is better than the Romans.”
 
 “You too, Purple!”
 

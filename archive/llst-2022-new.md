@@ -11,6 +11,10 @@ https://rentry.org/llst-2022-08-arch
 
 
 ##Changelog:
+==2022-4-23==
+- maintainer updated. I killed the other one. :darktrollface:
+- Nijigasaki April Fanmeet links are now up/being posted 
+
 ==2022-4-02==
 - replaced lineblog links with archives due to its impending discontinuation [link](https://notice2.line.me/line_blog2/web/document/notice?documentId=20217448&lang=ja)
 
@@ -23,12 +27,14 @@ https://rentry.org/llst-2022-08-arch
 ==2022-2-2==
 - Love Live! Superstar!! Liella! 3rd LoveLive! Tour ~WE WILL!!~ (Tokyo Leg) <Day.1&2>
 
-==2022-12-25==
-- Happy Birthday Jesus!
-**TOC**
+##Table of Contents
 [TOC]
  
- 
+##Ideal Links
+Events tracker: https://ramen.events/ 
+↳ LL Events Index: https://ramen.events/love-live-event-info-index/
+LLFans JP (LoveLive Japanese Fanbase Site) : https://ll-fans.jp/
+
 ##SEIYUU INFO, LINKS AND SNS
  
 ###🌸🌸 µ's Seiyuu 🌸🌸
@@ -221,6 +227,7 @@ https://www.instagram.com/shushu.524/
 https://www.youtube.com/channel/@ShuUchidaShuTube
  
 **Akina Homoto 法元明菜** (August 5, 1996) "Homin, Minmin"
+https://www.just-pro.jp/talent/voice-actor/homoto_akina/
 https://homoto-akina.com/
 https://twitter.com/homoto_akina
 https://www.youtube.com/channel/@akinasanchi
@@ -251,7 +258,6 @@ https://www.instagram.com/koi_liyuu/
 https://ameblo.jp/liyuu0109
 https://www.youtube.com/@liyuuchannel
 https://archive.is/8Hhzn ==Lineblog Archive==
-==Note: most of her Chinese run accounts are staff-ran and are geoblocked outside of Mainland China==
 https://weibo.com/u/2955896132
 https://space.bilibili.com/4549624/
 
@@ -369,27 +375,25 @@ https://www.youtube.com/c/lovelive_series/
 ####CONCERTS/LIVES/VODs
 1st ~ 6th Lives 720p
 https://nyaa.si/view/809886
- 
-Love Live! µ's 1st Live!
+
+Love Live! µ's 1st Live! 
 https://nyaa.si/view/648058
- 
-µ's New Year Love Live! 2013
+
+µ's New Year Love Live! 2013 
 https://nyaa.si/view/477428
- 
-µ's 3rd Anniversary
+
+µ's 3rd Anniversary 
 https://nyaa.si/view/508017
- 
-Love Live! 2014 ENDLESS PARADE
+
+Love Live! 2014 ENDLESS PARADE 
 https://nyaa.si/view/578708
- 
-Love Live! 5th Live! µ's Go Go! Love Live 2015 ~Dream Sensation~
+
+Love Live! 5th Live! µ's Go Go! Love Live 2015 ~Dream Sensation~ 
 https://nyaa.si/view/765486
- 
-Love Live! µ's Final Love Live! ~µ'sic Forever~
-1080p subs - https://nyaa.si/view/912563
-720p subs - https://nyaa.si/view/913045
- 
- 
+
+Love Live! µ's Final Love Live! ~µ'sic Forever~ 
+==SUBBED== 1080p - https://nyaa.si/view/912563   
+
 ###Aqours
 ####CONCERTS/LIVES/VODs
 Love Live! Sunshine!! Aqours - Is Everyone Ready ~One, Two, Sunshine!!~
@@ -480,7 +484,7 @@ Teku Teku Aqours
 3rd years - https://nyaa.si/view/1019207
 Hakodate - https://nyaa.si/view/1046487
 
-**MISC**
+**EVENTS/PERFORMANCES/MISC**
 **Aqours Club**
 Kotatsu Special - https://nyaa.si/view/1123830
 2021 - https://nyaa.si/view/1404666
@@ -536,7 +540,7 @@ Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
  
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
-==NEW== 5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
+5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
 webrip: https://nyaa.si/view/1577721
 BDRip HEVC: https://nyaa.si/view/1652899
 BDRip: https://nyaa.si/view/1652249
@@ -567,8 +571,22 @@ HQ RAW: https://nyaa.si/view/1361102
 BD 1080p - https://nyaa.si/view/1245129
 BD 720p - https://nyaa.si/view/1245130
 RAW - https://nyaa.si/view/1170341
-  
-**SUBUNIT PERFORMANCES** 
+
+####EVENTS/PERFORMANCES/MISC
+(20220710) TOKIMEKI Talk Room Pts 1&2
+https://nyaa.si/view/1551497
+
+Love Live! Festival 2020 (TV Ver.)
+https://nyaa.si/view/1242913
+
+Nijigasaki Anime BD Special Program: 
+https://nyaa.si/view/1417140
+
+**Fanmeet**
+==NEW== Nijigasaki Tokimeki Fan Meeting Tour
+D1&D2 Hiroshima - https://nyaa.si/view/1664169
+ 
+**Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
 Vol.2 QU4RTZ ～Sweet Cafe～ - https://nyaa.si/view/1443241
 Vol.3 A・ZU・NA ~The Night Before~ - https://nyaa.si/view/1447856
@@ -578,15 +596,6 @@ UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
 UNIT LIVE & FAN MEETING Vol.4 R3BIRTH ~First DELIGHT~ (BD) - https://nyaa.si/view/1616797
 Love Live! Nijigasaki High School Idol Club UNIT LIVE! ~QU4RTZ Fluffy Magic~ - https://nyaa.si/view/1651131
 
-####MISC VIDEOS
-(20220710) TOKIMEKI Talk Room Pts 1&2
-https://nyaa.si/view/1551497
-
-Love Live! Festival 2020 (TV Ver.)
-https://nyaa.si/view/1242913
-
-Nijigasaki Anime BD Special Program: 
-https://nyaa.si/view/1417140
 
 
 ###Liella!
@@ -866,4 +875,4 @@ December 23 - Hinata Sato
 December 26 - Sora Tokui
 
 -> Credits to former pastebin anon for his work <-
--> Currently maintained by: ==**ttb618** !KMvYqykzY.==<-
+-> Currently maintained by: ==**cocosginormousmilkers** !!mNcwlMFpnaU==<-

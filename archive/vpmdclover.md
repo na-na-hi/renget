@@ -3,22 +3,22 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam| M | Meowstic | Larkspur (M) & Marigold (F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
+Lliam | M | Meowstic | Larkspur (M) & Marigold (F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (F) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
 Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charm/smokey)
 Booker | M | Ribombee | Sneasel (F) | Clover Guild Writer/Researcher/Scout | [Timid](https://rentry.org/vpmdcloverpb#booker)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
 Augustus 'Gus' | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
-Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina)
+Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina) *Pending*
 KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc)
 Kaiji  | M | Meowth, Alolan | Absol (Kris, M) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaiji)
-N/A | M | Skiddo | N/A | Clover Guild Transport |
-Beast | M | Munchlax | N/A | Clover Guild Native Chef |
+N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdclover#skiddo) *Pending*
+Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdclover#beast) *Pending*
 N/A | M | Phanpy | Cyndaquil, Torchic, Totodile | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
 N/A | M | Chespin | Wooper (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#chespinwooper)
-N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye)
+N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye) *Pending*
 Casey | F | Raboot | | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
-Tybo | M | Skitty | N/A | Clover Guild Native Member |
+Tybo | M | Skitty | N/A | Clover Guild Native Member |  [???](https://rentry.org/vpmdclover#tybo) *Pending*
 Acrab | M | Krabby | N/A | Clover Guild Member | Hasty
 Ross | M | Smeargle | N/A | Clover Guild Member | [Insomniac](https://rentry.org/vpmdcloverpb#ross)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)
@@ -27,15 +27,16 @@ N/A | F | Minun | Raichu (M) | Clover Guild Gardener/Bounty Hunter | Jolly
 N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https://rentry.org/vpmdcloverpb#togetic)
 "Carrot" | M | Dusk Lycanroc | Liepard (F) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrot)
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
-Kiyo | M | Vulpix, Alolan | Sandshrew (F) & Fletchling (M, hum) | Clover Guild Member/Native Outlaws | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
+Kiyo | M | Vulpix, Alolan | Sandshrew (F) & Fletchling (M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
-Tooca | F | Snivy | Axew (M) | Clover Guild (semi(?)-)Affiliated Explorers/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
+Tooca | F | Snivy | Axew (M) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Bullet | M | Noivern | Indeedee (Mimi, F, Careful) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bullet)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
 Adelaid | F | Voltorb | Drowzee (Dahpi, M)| Rescue Team | 
-Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | [Careful](https://rentry.org/vpmdcloverpb#sotto)
+Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | [Quiet](https://rentry.org/vpmdcloverpb#concord)
+Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | Careful
 Nigel | M | Absol | | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#Nigel)
 Skull | M | Cubone | | Clover Guild Member | Quiet
 | | Shelgon | Jangmo-o | Clover Guild Member |
@@ -99,12 +100,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 37 | [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i) | | | | |
 38 | [Tales of the Grind (ft. Smith)](https://rentry.org/34ww5) | | | | |
 39 | [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88) | | | | |
-40 | | | | | |
+40 | [Percival's Extended Introduction](https://rentry.org/uosgo9) | | | | |
+41 | [Torchic Crosses the Alps](https://rentry.org/unesm) | | | | |
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation Rules and Prompt](https://rentry.org/EtF_Rules)
 ####Current Colaborative Writing Project Pieces
-* [ETF Intro](https://docs.google.com/document/d/1KR3NMEU5WsXqvqkvaqMNcjCh9yIbuRlchhYQHIABG9M/edit)
+*  [ETF Intro (Google Doc link! Remember to open in incognito!)](https://docs.google.com/document/d/1KR3NMEU5WsXqvqkvaqMNcjCh9yIbuRlchhYQHIABG9M/edit)
 *  [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 
 ###List of Stories Sorted by Author
@@ -187,18 +189,19 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
-	* [Percival's Extended Introduction](https://rentry.org/uosgo9) *Not on Table*
+	* [Percival's Extended Introduction](https://rentry.org/uosgo9)
 * Phanpy-anon
 	* [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo)
 	* [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) 
 	* [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c)
 	* [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e)
 	* [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek)
-	* [Torchic Crosses the Alps](https://rentry.org/unesm) *Not on Table*
+	* [Torchic Crosses the Alps](https://rentry.org/unesm)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
+	* [Encounter (ft. Not Ross)](https://rentry.org/226i97) *Not on Table*
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Smith the Skorupi
@@ -295,6 +298,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [A New World](https://rentry.org/sm6dx)
 * [Percival's Extended Introduction](https://rentry.org/uosgo9)
 * [Torchic Crosses the Alps](https://rentry.org/unesm)
+* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)

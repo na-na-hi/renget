@@ -38,11 +38,15 @@ https://www.characterhub.org/characters/cptpants/Marina/main
 ![The Master](https://i.imgur.com/4jKGiQL.png)
 The big bad of *Fallout 1*. Chat with him about Super Mutants or nuclear wastelands or what have you.
 https://beta.character.ai/chat?char=R9RarToT8PLKrEJHquVkgo4O48lu-TgqeUV3iGYGTbo
+https://booru.plus/+pygmalion1416
+https://www.characterhub.org/characters/cptpants/the-master
 
 ##The Noise (*Pizza Tower*)
 ![The Noise](https://static.wikia.nocookie.net/pizzatower/images/7/73/Spr_noiseHUD_idle.gif)
 A character from the indie game *Pizza Tower*. It's like the Noid, but noisier.
 https://beta.character.ai/chat?char=8uRRHQX8YQbN3oojnbokcH9YftxA2Udx31nGj2ZshCQ
+https://booru.plus/+pygmalion1421
+https://www.characterhub.org/characters/cptpants/the-noise
 
 ##Queen Rennala (*Elden Ring*)
 ![Rennala](https://i.imgur.com/fpVWeb4.png)

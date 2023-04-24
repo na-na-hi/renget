@@ -1,20 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 23.04.2023 05:15 UTC]
+[Last Updated: 24.04.2023 01:30 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7334405/](https://boards.4chan.org/h/thread/7334405/)
-Trash - [boards.4chan.org/trash/thread/55911042/](https://boards.4chan.org/trash/thread/55911042/)
+Current thread - [boards.4chan.org/h/thread/7339169/](https://boards.4chan.org/h/thread/7339169/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 576&nbsp;&nbsp;[archiveofsins.com/h/thread/7339169/](https://archiveofsins.com/h/thread/7339169/)&nbsp;&nbsp;&nbsp;&nbsp;(23.04.2023 23:48)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Commerce Edition
 - 575&nbsp;&nbsp;[archiveofsins.com/h/thread/7334405/](https://archiveofsins.com/h/thread/7334405/)&nbsp;&nbsp;&nbsp;&nbsp;(21.04.2023 21:53)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Terrarium Edition
 - 574&nbsp;&nbsp;[archiveofsins.com/h/thread/7329173/](https://archiveofsins.com/h/thread/7329173/)&nbsp;&nbsp;&nbsp;&nbsp;(19.04.2023 16:45)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;You have Chika Edition
-- 573&nbsp;&nbsp;[archiveofsins.com/h/thread/7323614/](https://archiveofsins.com/h/thread/7323614/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:42)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Chow time Edition
+- 573&nbsp;&nbsp;[archiveofsins.com/h/thread/7323614/](https://archiveofsins.com/h/thread/7323614/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:42)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Chow time Edition
 - 572&nbsp;&nbsp;[archiveofsins.com/h/thread/7316595/](https://archiveofsins.com/h/thread/7316595/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 05:58)&nbsp;&nbsp;[990]&nbsp;#&nbsp;Catch of the Day edition
-- 571&nbsp;&nbsp;[archiveofsins.com/h/thread/7310459/](https://archiveofsins.com/h/thread/7310459/)&nbsp;&nbsp;&nbsp;&nbsp;(10.04.2023 02:20)&nbsp;&nbsp;[979]&nbsp;#&nbsp;I FUCKING LOVE LEAN!!! Edition
 ---
 Archive:
 
+- 571&nbsp;&nbsp;[archiveofsins.com/h/thread/7310459/](https://archiveofsins.com/h/thread/7310459/)&nbsp;&nbsp;&nbsp;&nbsp;(10.04.2023 02:20)&nbsp;&nbsp;[979]&nbsp;#&nbsp;I FUCKING LOVE LEAN!!! Edition
 - 570&nbsp;&nbsp;[archiveofsins.com/h/thread/7304072/](https://archiveofsins.com/h/thread/7304072/)&nbsp;&nbsp;&nbsp;&nbsp;(06.04.2023 23:08)&nbsp;&nbsp;[1066]&nbsp;#&nbsp;Dorito Edition
 - 569&nbsp;&nbsp;[archiveofsins.com/h/thread/7296960/](https://archiveofsins.com/h/thread/7296960/)&nbsp;&nbsp;&nbsp;&nbsp;(03.04.2023 20:44)&nbsp;&nbsp;[944]&nbsp;#&nbsp;GET IN THE FUCKING ROBOT! edition
 - 568&nbsp;&nbsp;[archiveofsins.com/h/thread/7291441/](https://archiveofsins.com/h/thread/7291441/)&nbsp;&nbsp;&nbsp;&nbsp;(01.04.2023 02:21)&nbsp;&nbsp;[895]&nbsp;#&nbsp;The speed in my soul edition
@@ -45,7 +45,7 @@ Archive:
 ---
 Trash:
 
-- 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[286]
+- 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[317]
 - 008&nbsp;&nbsp;[desuarchive.org/trash/thread/55836156/](https://desuarchive.org/trash/thread/55836156/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:46)&nbsp;&nbsp;[221]
 - 007&nbsp;&nbsp;[desuarchive.org/trash/thread/55745273/](https://desuarchive.org/trash/thread/55745273/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 10:08)&nbsp;&nbsp;[307]
 - 006&nbsp;&nbsp;[desuarchive.org/trash/thread/55616940/](https://desuarchive.org/trash/thread/55616940/)&nbsp;&nbsp;&nbsp;&nbsp;(07.04.2023 21:59)&nbsp;&nbsp;[320]

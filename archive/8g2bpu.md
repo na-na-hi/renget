@@ -1,5 +1,11 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Phanpy and friends in winter outfit (in progress)
+
+Phanpy and friends at the blue claw inn
+
+Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall (in progress)
+
 Alakazam wearing a pointy white sheet over his head
 
 Chespin holding a large blanket over his head ala Legend of Zelda
@@ -38,7 +44,7 @@ Artist Anon-mons drawing at a canvas or paper together
 
 Ronnie running around the infirmary screaming like an idiot and knocking things over
 
-Kaiji accidentally flicking a coin into Kris' eye
+~~Kaiji accidentally flicking a coin into Kris' eye~~
 
 Guildmembers having dinner together in the dinning hall
 
@@ -84,7 +90,7 @@ Percival getting racially abused by Tinkaton
 
 ~~Booker building a slingshot~~
 
-Elm the Duskull screaming "OOGA BOOGA!!!" to Sewaddle
+~~Elm the Duskull screaming "OOGA BOOGA!!!" to Sewaddle~~
 
 ~~Beast using Numel as an oven~~
 

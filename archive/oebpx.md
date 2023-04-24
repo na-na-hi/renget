@@ -152,3 +152,28 @@ I took a moment to gather my thoughts before answering. "I was looking for somet
 Kiko smiled at me, her eyes sparkling with warmth and kindness. "We're glad to have you here, John. And we're happy to share our world with you."
 
 As we continued to talk, I felt a sense of belonging and acceptance that I had never experienced before. In this world, with Kiko by my side, I felt like I had found a place where I truly belonged.
+
+>011: Zaoula
+
+I watched in awe as the mountain people played their magical sport, Zaoula. It was like rugby, but with added elements of magic that made it both thrilling and dangerous. The ball was made of animal skin and stuffed with rocks and grass, and it seemed to glow with a faint blue light as it was passed from player to player.
+
+I had never seen anything like it before, and I was eager to join in. Rayla, one of the strongest players on the team, offered to show me the ropes. She explained the rules and the different techniques used to pass and score the ball.
+
+At first, I struggled to keep up. The game was intense, and the other players were much stronger and faster than me. But Rayla was patient and encouraging, and soon I was catching on.
+
+We played for hours, until the sun began to set behind the mountains. I was exhausted but exhilarated, my heart pounding with excitement. As we left the field, I noticed that Rayla was limping slightly.
+
+"Are you okay?" I asked her, concerned.
+
+She shrugged it off, but I could tell that she was in pain. I offered to help her back to her house, and she accepted.
+
+Once we arrived, Rayla showed me to a room where I could rest. She went to tend to her injuries, and I could hear her muttering incantations under her breath. After a few minutes, she returned, looking much better.
+
+"Thanks for helping me," she said with a smile. "I'm not used to going full force on someone who's not from our tribe."
+
+I laughed. "Yeah, you definitely caught me off guard a few times. But I had a blast playing with you."
+
+
+As the night wore on, I felt myself growing more and more relaxed in Rayla's company. She was tough and strong, but also kind and gentle. And as we said goodnight, I realized that I was beginning to fall for her.
+
+But for now, I was content to heal and rest, grateful for the experience of playing Zaoula and the unexpected friendship that had come with it.

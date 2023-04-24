@@ -73,7 +73,7 @@ https://rentry.org/Tavern4Retards [Keyshare guide. Tavern.]
 https://rentry.org/sillytermux [Silly extras. Phone]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 alwaysfindtheway.github.io [Proxy checker]
-https://rentry.org/MothsBotMakingStuff [Bot Making]
+https://rentry.org/oaicards [Bot Making]
 --Replace this with recent news please--
 
 Previous: --last thread--
@@ -218,7 +218,7 @@ key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 proxy checker: alwaysfindtheway.github.io
 agnai keyshare: https://rentry.org/agnai_reverse_proxy 
 tavern keyshare: https://rentry.org/Tavern4Retards 
-bots guide: https://rentry.org/MothsBotMakingStuff
+bots guide: https://rentry.org/oaicards
 
 Old: --Old thread--
 ```

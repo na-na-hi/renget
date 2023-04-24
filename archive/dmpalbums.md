@@ -1,5 +1,23 @@
 # /g/dmp albums
 
+
+### Genres Are a Social Construct
+![img](https://i.imgur.com/nRqrxOh.png)
+Theme: "/g/enres (are for pu$$ies)" (interpret this however you want), released April 24, 2023
+
+YouTube:
+https://www.youtube.com/watch?v=MWCfnna3HM4&list=PLX-8BeqU7bbzyWtuqqX0OQkuucinjHZk8
+https://www.youtube.com/watch?v=RBLimUTpUWg  (full album)
+Bandcamp:
+https://dmppresents.bandcamp.com/album/genres-are-a-social-construct
+Download FLAC:
+https://www.mediafire.com/file/9968xcn1lxf3z26/
+Download MP3:
+https://www.mediafire.com/file/3dse5jyfrl2tu7p/
+Download WAV:
+https://www.mediafire.com/file/rm95waj4kfqathi/
+
+
 ### Avant Tarde
 ![img](https://i.imgur.com/41uqcX3.png)
  /g/ gets weird with it. Avant-garde. Released February 19, 2023

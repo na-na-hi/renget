@@ -3,6 +3,7 @@
 
 SFW:
 The Rat and The Hound (Featuring My and Werewolf Faolán): https://rentry.org/ixusq
+The Rat and The Hound P2: https://rentry.org/xvk87
 
 NSFW:
 Knot Breeding Request (Featuring Werewolf Faolán and an Anonymous Witch): https://rentry.org/on5ey
@@ -17,7 +18,7 @@ The Flower and The Bee (Featuring Ioni and Florana): https://rentry.org/i5zen
 -> **Current List of writings/requests to do:** <-
 
 SFW:
-The Rat and The Hound Part 2
+
 
 NSFW:
 Bit of Skinny Dipping

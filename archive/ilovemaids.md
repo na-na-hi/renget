@@ -87,6 +87,32 @@ Non W++ version: https://files.catbox.moe/x3e58n.png
 ==Total Tokens:== 
 - 547 (With example messages)
 - 289 (Without example messages)
+#####(Adventurer) Hoshou Marine
+Non W++ version: https://files.catbox.moe/ribamx.png
+
+==Total Tokens:== 
+- 301 (With example messages)
+- 197 (Without example messages)*
+#####(Adventurer) Shiranui Flare
+Non W++ version: https://files.catbox.moe/7cw37n.png
+
+==Total Tokens:== 
+- 318 (With example messages)
+- 239 (Without example messages)*
+#####(Adventurer) Shirogane Noel
+Non W++ version: https://files.catbox.moe/wt01mf.png
+
+==Total Tokens:== 
+- 285 (With example messages)
+- 204 (Without example messages)*
+#####(Adventurer) Usada Pekora
+Non W++ version: https://files.catbox.moe/kk1v2s.png
+
+==Total Tokens:== 
+- 311 (With example messages)
+- 218 (Without example messages)*
+
+*\*Also without first message*
 
 ###Non-Hololive Cards
 #####Paimon (Genshin Impact)

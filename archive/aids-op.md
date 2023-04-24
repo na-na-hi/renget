@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/KryNaDb.png)
-GIWTWM Edition
+![suggested OP image](https://imgur.com/YbX0w40.png)
+Omniterpe Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>426835358
+Last thread: >>427005327
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -30,7 +30,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/21) https://saga3.vercel.app adds J2 as an "alternate model" ; Kobold TPUs fixed on United??? >>426997068
+\>(04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United??? >>426997068
 (04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642
 (04/19) Henk rejects VCbuxx >>426491821 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
 (04/15) ChatGPT trash: https://games.skutteoleg.com/dreamio https://latitude.io/blog/ai-dungeon-to-test-chatgpt-through-azure
@@ -39,7 +39,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write prompts about next week's theme, Size Difference Friday! >>426735929
+Write prompts about this week's theme, Size Difference Friday! >>426735929
 
 
 ##Perma-Template

@@ -105,6 +105,7 @@
 >Dislikes lewdness.
 
 ###Kina
+{Pending}
 
 ###KFC the Combusken
 >KFC the Combusken Portrait courtesy of Linoone-anon:
@@ -148,6 +149,12 @@
 >A male Absol whose horn was broken off slightly above the base of the blade. Became partners with Kaiji because everyone else thought he was crazy and avoided him. His predictions of imminent danger are usually wildly exaggerated misinterpretations of the actual impending threat, which he will still believe wholeheartedly every time without fail. Soft-spoken, good-natured, and a bit too trusting, he'll try to do what he thinks is right even if it gets in the way of the mission, and might need someone to reign him in. A relatively experienced battler who used to go on adventures some time before meeting Kaiji, but doesn't like to talk about it (nor his horn). Seems to already have a basic familiarity with humans. Insecure about being called crazy/dumb because of his predictions. Has a tendency to hyperfocus and go quiet during battles. Hates anyone who would betray those close to them.
 >Ability: Super Luck
 >Moves: Night Slash, Psycho Cut, Fury Cutter, Sleep Talk
+
+###Skiddo
+{Pending}
+
+###Beast
+{Pending}
 
 ###Phanpy and Pals
 >Phanpy
@@ -196,6 +203,15 @@
 >May one day learn more about what she is
 
 ###Sableye
+{Pending}
+
+###Casey
+>To throw my hat in the ring, Casey is a quiet, athletic female raboot who use to be a human. That much is obvious but there's more to her. She use to be a male professional athlete in the human world, the driven and ambitious type, before an accident crippled him. That headstrong approach to life became a jaded shuffled to the next day.
+>It's only now that she's turning around. As a raboot she's got all her strength back and treasures it- why sit when she can stand? Why wait in the guild when she can go exploring in one of these dungeons?
+>Besides that, she avoids drawing attention to herself. She's heard of pokemon but wasn't a fan, so instead of asking a million question she keeps quiet and pieces things together from the conversation the guild nerds spout on about. When she talks, it's short and to the point, not much internet slang.
+
+###Tybo
+{Pending}
 
 ###Ross
 >chronically tired, insomniac
@@ -252,6 +268,9 @@
 >Becoming a Duskull has caused some quirks in his behavior. Sometimes he feels like an internal voice is whispering to him in order to guide him or make him take specific actions. It also helps him stay focused during fights, although it can also cause an unfamiliar rage to awaken when he’s in a pinch. He attributes this voice to Ghost Pokémon instincts. This also has caused him to acquire a taste for pranking and spooking others, but he doesn’t want to be an annoyance, so he makes sure to do it sparingly and to only do pranks that aren’t dangerous.
 >Doesn’t like to be near Pelippers due to personal reasons.
 >Abilities: Shadow Sneak; Astonish; Will-o-Wisp (in a future story); can go through walls and floor. Must create visualizations in order to use moves, so he needs more time than usual to perform them, but they also pack a bigger punch.
+
+###Kiyo/Cassie/Bean
+[See Linked](https://rentry.org/kcb-01)
 
 ### Smith
 Name: Smith
@@ -332,15 +351,8 @@ Moves: Bug Bite, Cross Poison, Crunch, Rock Tomb
 >- Can only glide at first and gradually works her way up to flying
 >- Really misses her thumbs
 
-###Kiyo/Cassie/Bean
-[See Linked](https://rentry.org/kcb-01)
-
-###Casey
->To throw my hat in the ring, Casey is a quiet, athletic female raboot who use to be a human. That much is obvious but there's more to her. She use to be a male professional athlete in the human world, the driven and ambitious type, before an accident crippled him. That headstrong approach to life became a jaded shuffled to the next day.
->It's only now that she's turning around. As a raboot she's got all her strength back and treasures it- why sit when she can stand? Why wait in the guild when she can go exploring in one of these dungeons?
->Besides that, she avoids drawing attention to herself. She's heard of pokemon but wasn't a fan, so instead of asking a million question she keeps quiet and pieces things together from the conversation the guild nerds spout on about. When she talks, it's short and to the point, not much internet slang.
-
-###Sotto
+###Concord
+>All around pretty quiet, and prefers to stay out of the limelight but also just likes helping however he can.
 
 ###Nigel
 >Personality: Constantly concerned with "clean escapes", avoiding risky situations, keeping "his kids" from becoming starved retards, and being sure he can ruin anyone with a serious reason to oppose him... As such an obvious coward about it that "NTRsol" is as much a Guild in-joke on non-member anons as a serious warning that this apparently-PTSD-ridden literal-motherfucker has, somehow, stolen girls

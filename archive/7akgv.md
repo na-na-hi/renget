@@ -1,38 +1,25 @@
-This is the /hifi/ General. Topics: headphones, amps, speakers, dacs, sources, AVRs, subs and more.
+This is the /hifi/ General. Talk about everything, except if there is a specific thread. Topics include: headphones, amps, speakers, dacs, sources, AVRs, subs and more.
 
-Previous thread: 
+Previous thread:
 FAQ: https://rentry.org/uvhe4
 This text: https://rentry.org/7akgv
 
-Books:
-* Floyd E. Toole: Sound Reproduction: The Acoustics and Psychoacoustics of Loudspeakers and Rooms, third edition
+Devices that are low priced are the most asked for, so here are some that are also considered good. Make yourself known if you think something should be added or removed:
 
-Websites for reviews:
-* https://www.audiosciencereview.com/
-* https://www.erinsaudiocorner.com/
+Speakers passive:
+* JBL Stage A130 (bookshelf)
+* Elac DBR62 (bookshelf)
+* Wharfedale Diamond 12.1 12.2 12.3 (bookshelf, larger bookshelf, tower)
+* KEF Q350 (bookshelf)
 
-Tips:
-* Avoid uncorrected rooms
-* Avoid soundbars
-* Ferengi Rule of Aquisition #141: Only Fools Pay Retail! Use Hifishark and price search sites to find good deals.
-
-Devices that offer better than usual value follow.
-
-Speakers, bookshelf, passive:
-* JBL Stage A130
-* Focal Chora 806
-* Elac DBR62
-* ELAC Debut 2.0 B6.2
-* Wharfedale Diamond 12.2, 12.3 (tower)
-
-Speakers, bookshelf, active:
-* JBL LSR305P MK II
-* Adam T5V
-* Krk Rokit 5 G4
-* Neumi BS5P
+Speakers active:
+* JBL LSR305P MK II (bookshelf)
+* Adam T5V (bookshelf)
+* Krk Rokit 5 G4 (bookshelf)
+* Neumi BS5P (bookshelf)
 
 Amps:
-* Used Yamaha R-S700 (Full size, receiver, power section like A-S701, pre-out/main-in, 170€/$150 used, value champ)
+* Used Yamaha R-S700 (Full size, receiver, power section like A-S701, pre-out/main-in, 170€/$150, value champ)
 * Yamaha A-S 300/301/500/501/700 or 701 (Full size)
 * Onkyo A-9130 (Full size)
 * Aiyima A07 (Desktop)
@@ -48,6 +35,9 @@ DAC:
 * Loxjie D30 (also headphone amp)
 * Schiit modi+
 
+Streamer:
+* RPi 3A+ with Moode and CamillaDSP (30€, rpilocator.com)
+
 Measurement Microphone:
 * MiniDSP UMIK1
 
@@ -56,14 +46,26 @@ DSP:
 * MiniDSP Flex
 
 Subwoofer:
-* Dayton Audio SUB-1200
 * SVS SB-1000
-* Jamo C912
 * Rythmik L12
 
 Software:
 * REW
-* EQ APO, with Peace Equalizer extension
+* EQ APO, as well as the Peace Equalizer extension
 
-Streamer:
-* Moode with CamillaDSP, running on a RPi 2 or better (rpilocator.com)
+Books:
+* Floyd E. Toole: Sound Reproduction: The Acoustics and Psychoacoustics of Loudspeakers and Rooms, third edition
+
+Websites for nonpayed reviews:
+* https://www.audiosciencereview.com/
+* https://www.erinsaudiocorner.com/
+
+Thread soundtrack:
+* Heroin version: [YouTube] The Stranglers - Golden Brown (1080p) (embed)
+* Audiophile version: [YouTube] Dave Brubeck - Golden Brown (embed)
+
+Tips:
+* Avoid uncorrected rooms
+* Avoid soundbars
+* Ferengi Rule of Aquisition #141: Only Fools Pay Retail!
+* Use Hifishark and price search sites to find good deals.

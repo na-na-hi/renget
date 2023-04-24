@@ -23,7 +23,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **4** |NIKKEKU| ==**334**== |OPEN | GAINAX | 26/32 | N 
 **5** | MESUGAK1 | ==**4414**== |PERMISSION | CAEL | 32/32 | Y 
 **5** | CSERYL | ==**3903**== |OPEN | EFEK | 32/32 | N 
-**4** | UOOOH | ==**13720**== |PERMISSION | SYLVAN | 31/32 | Y 
+**4** | UOOOH | ==**13720**== |PERMISSION | SYLVAN | 32/32 | Y 
 
 ##Server: Global
 

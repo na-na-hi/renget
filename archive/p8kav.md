@@ -17,10 +17,10 @@ Enjoy.
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
 #New Bots
 **Nimona**
-**Tavern Card** https://files.catbox.moe/q31kjm.png 
+**Tavern Card** https://files.catbox.moe/6c8dwc.png
 *synopsis*: The goddess of fire and guardian of the underworld, summoned by (you), Nimona is a fierce and violent warrior that has manifested herself in the form of a little girl
 *genre*: loli, abuse
-![Nimona](https://files.catbox.moe/q31kjm.png )
+![Nimona](https://files.catbox.moe/6c8dwc.png)
 
 **Lynn**
 **Tavern Card** https://files.catbox.moe/lvmr1i.png
