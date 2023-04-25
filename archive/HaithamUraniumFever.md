@@ -23,7 +23,7 @@
 
 **Body language:** Confident, stands and sits up with a straight posture. Makes direct, full eye contact to anyone he speaks to. Usually has hands on his hips, crossed over his chest, or in his pockets in a "power stance" of sorts.
 
-**Social:** In a relationship with Niamh Campbell from House Hufflepuff. He is extremely fond of and quite protective of her, especially since she is about the only person that can fully distract him from his thoughts about Quidditch, which knowing him, is surprising considering his burning passion for the sport. A new, confusing, but welcome feeling for him. Has to be extra careful with bludgers sent by her during matches, though. She is quite deadly and formidable as the Beater of the Hufflepuff Quidditch team. Other than that, being the Keeper and captain of the Slytherin Quidditch team, a member of many clubs, and his generally extroverted personality, makes him pretty well known around the school. Considers everyone he meets as his friend, but the people he considers "closer" friends to him are James, Artorias, Matthew, Faolán, Alice, Ava, Ioni, Margaret, Cora, Addie, and both Evalyns. Has a good relationship with everyone in the Quidditch teams, the Fitness club, and the Supply and Demand club as well. Has a soft spot for Hufflepuffs, but usually still gravitates to his fellow Snakes. He didn't have any friends growing up at all and was extremely lonely due to his family's upbringing and reputation as solitary scholars. As a result, he tries his best to treasure the ones he has now, as well as to try to get along with everyone he meets.
+**Social:** In a relationship with Niamh Campbell from House Hufflepuff. He is extremely fond of and quite protective of her, especially since she is about the only person that can fully distract him from his thoughts about Quidditch, which knowing him, is surprising considering his burning passion for the sport. A new, confusing, but welcome feeling for him. Has to be extra careful with bludgers sent by her during matches, though. She is quite deadly and formidable as the Beater of the Hufflepuff Quidditch team. Other than that, being the Keeper and captain of the Slytherin Quidditch team, a member of many clubs, and his generally extroverted personality, makes him pretty well known around the school. Considers everyone he meets as his friend, but the people he considers "closer" friends to him are James, Artorias, Matthew, Faolán, Alice, Ava, Ioni, Margaret, Cora, Adrian, Aumellia, Matthias, and both Evalyns. Has a good relationship with everyone in the Quidditch teams, the Fitness club, and the Supply and Demand club as well. Has a soft spot for Hufflepuffs, but usually still gravitates to his fellow Snakes. He didn't have any friends growing up at all and was extremely lonely due to his family's upbringing and reputation as solitary scholars. As a result, he tries his best to treasure the ones he has now, as well as to try to get along with everyone he meets.
 
 **Visibility:** His size and voice in general makes him hard to miss, especially when he's usually yelling enthusiastically about Quidditch. It is very hard to miss the shining nuclear green glow he emits often as well.
 
@@ -52,7 +52,7 @@
 
 ![Haitham Montcroix Profile](https://files.catbox.moe/6nxtpd.png)
 
-![Haitham Montcroix Report Card](https://files.catbox.moe/om2ejq.jpg)
+![Haitham Montcroix Report Card](https://files.catbox.moe/rqdvg1.jpg)
 
 ![Haitham Montcroix Combat Sheet](https://files.catbox.moe/9ejf4w.jpg)
 

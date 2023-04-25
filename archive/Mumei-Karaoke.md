@@ -14,15 +14,16 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Chapters== - 02/24 - Added [[#43](https://rentry.org/Mumei-Karaoke#2023-02-14-unarchived-karaoke-_-%E6%AD%8C%E6%9E%A0its-valentines-day-9bwgrpf0x9e)] - 03/01 - Added [[#31](https://rentry.org/Mumei-Karaoke#2022-09-27-unarchived-karaokei-dont-think-my-voice-is-strained-now-qblg9r7yod4)] - [[#34](https://rentry.org/Mumei-Karaoke#2022-11-12-members-onlymusical-karaoke-cqoyaezoqcy )] -  [[#38](https://rentry.org/Mumei-Karaoke#2022-12-20-unarchived-karaoke-%E6%AD%8C%E6%9E%A0fa-la-la-la-la-plhdrowsy8g )] -  [[#40]( https://rentry.org/Mumei-Karaoke#2023-01-28-unarchived-karaoke-_-%E6%AD%8C%E6%9E%A0im-in-a-mood-uemptqcn2aq)] - [[#42](https://rentry.org/Mumei-Karaoke#2023-02-07-unarchived-karaoke-_-%E6%AD%8C%E6%9E%A0emo-songs-p5iihjjitja)] - Updated - [[#4](https://rentry.org/Mumei-Karaoke#2021-11-12-unarchivedso-this-is-sugar-ooowooowowowoo-1x4jqw7ftuc )] - [[#6](https://rentry.org/Mumei-Karaoke#2021-12-01-unarchivedmic-test-1-2-volume-warning-akjun0r_oj8 )] - [[#8](https://rentry.org/Mumei-Karaoke#2021-12-15-howdy-unarchived-xugr2rt2h50 )] - [[#9](https://rentry.org/Mumei-Karaoke#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc )] - [[#10](https://rentry.org/Mumei-Karaoke#2021-12-22-unarchived-karaoke-ok-iuqavyj_gos )] - [[#12](https://rentry.org/Mumei-Karaoke#2022-01-05-members-acapella-karaoke-unarchived-5ekqtbaitmi )] - [[#13](https://rentry.org/Mumei-Karaoke#2022-01-16-unarchived-caffeine-crash-karaoke-qjeirm8apmi )] - [[#14](https://rentry.org/Mumei-Karaoke#2022-01-22-500k-karaoke-unarchived-lwui5-fwv4u )] - [[#15](https://rentry.org/Mumei-Karaoke#2022-01-28-quiet-singing-owl-unarchived-1b72qwpjpeo )] - [[#16](https://rentry.org/Mumei-Karaoke#2022-02-08-i-sing-but-im-tired-jgwnsecl7p8 )] - [[#17](https://rentry.org/Mumei-Karaoke#2022-02-15-karaokevalentines-day-songs-unarchived-f-lni5hb6ve )] - [[#19](https://rentry.org/Mumei-Karaoke#2022-03-10-not-karaoke-yxavajw2uvw )] - [[#20](https://rentry.org/Mumei-Karaoke#2022-03-22-sleepy-tunes-unarchived-emv0plgpt_c )] - [[#22](https://rentry.org/Mumei-Karaoke#2022-04-04-unarchived-noise-brr-wsrasxxeluq )]
-	>==Karaoke Clips== - 02/24 - Added [[#43](https://rentry.org/Mumei-Karaoke/#2023-02-14-unarchived-karaoke-_-%E6%AD%8C%E6%9E%A0its-valentines-day-9bwgrpf0x9e_1)]
+	>==Chapters== - 04/25 - Added [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0)
+	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0_1)
 	>==Mumei Radio== - 03/25 - Updated- https://rentry.org/Mumei-Radio
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== 
 	>==MV==  - 
 !!! Info Incomplete - https://rentry.org/nzpe9
 
->>**Mega link to the vods for unarchived members karaoke - Updated link on 04/23/23 - Added "【MEMBERS ONLY】Drawing n Stuff"**
+>>**Mega link to the vods for unarchived members karaoke**
+>>**Updated link on 04/25/23 - Added "【MEMBERS ONLY】Practicing New JP Songs !!"**
 >https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ05OWlE5Q1NnelpWT2V4TXFCWDJ1Sk5HQk1xQ2drMU1xajA5ZzF1OUNmanJoZWFMMVN4MEVScWRzSks1SWN0SDMvZzhiUkprbnIxV0s0VnRZd3ZMTWl1K25GeXY3UT09IiwiaSI6ImxseDVjVi85V2RkV0E3N1AifQ==
 >**The password is the first line Mumei said in this comment.**
 >https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/community?lc=Ugw-4_lhRf9ztdI1L254AaABAg&lb=UgkxwzbiSc357FsmIfGrHl5b4hBGEKIbc-Gn
@@ -2522,6 +2523,38 @@ CHAPTER18=01:40:16.550
 CHAPTER18NAME=14. First Burn - Hamilton
 
 ```
+***
+
+######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:31.799
+CHAPTER01NAME=Start
+CHAPTER02=00:06:59.539
+CHAPTER02NAME=01. Ghost Rule - deco*27
+CHAPTER03=00:14:50.000
+CHAPTER03NAME=02. Hibana - deco*27
+CHAPTER04=00:22:38.000
+CHAPTER04NAME=03. Blue Bird - Ikimonogakari
+CHAPTER05=00:27:10.000
+CHAPTER05NAME=DAYBREAK FRONTLINE - Orangestar
+CHAPTER06=00:31:56.000
+CHAPTER06NAME=04. The Beginning - ONE OK ROCK
+CHAPTER07=00:38:21.000
+CHAPTER07NAME=05. Kokoronashi - Chouchou-P
+CHAPTER08=00:45:08.510
+CHAPTER08NAME=06. Hitorinbo Envy - koyori
+CHAPTER09=00:51:08.000
+CHAPTER09NAME=FIRE - QUEEN BEE (Accapella)
+CHAPTER10=00:53:19.435
+CHAPTER10NAME=Shiny Smily Story - hololive IDOL PROJECT
+CHAPTER11=00:55:18.626
+CHAPTER11NAME=Idol - Yoasobi (Accapella)
+
+```
 
 ***
 [Back to TOC](https://rentry.org/Mumei-Karaoke)
@@ -3479,6 +3512,23 @@ You Are My Sunshine - Gene Autry  |  https://files.catbox.moe/2h394h.mp4 |   htt
 Candy Man - Sammy Davis Jr.  | https://files.catbox.moe/n05ey2.mp4  |   https://cldup.com/Mvfe0J50gF.mp4
 Helpless - Hamilton  | https://files.catbox.moe/e6eft2.mp4  |   https://cldup.com/RU94fINiz9.mp4
 First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.com/iJyey81Wmx.mp4
+
+***
+
+
+######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+>Timestamps
+01. [Ghost Rule - deco*27](https://youtu.be/Wj2B3n8XjV0?t=419)
+02. [Hibana - deco*27](https://youtu.be/Wj2B3n8XjV0?t=890)
+03. [Blue Bird - Ikimonogakari](https://youtu.be/Wj2B3n8XjV0?t=1358)
+[DAYBREAK FRONTLINE - Orangestar](https://youtu.be/Wj2B3n8XjV0?t=1630)
+04. [The Beginning - ONE OK ROCK](https://youtu.be/Wj2B3n8XjV0?t=1916)
+05. [Kokoronashi - Chouchou-P](https://youtu.be/Wj2B3n8XjV0?t=2301)
+06. [Hitorinbo Envy - koyori](https://youtu.be/Wj2B3n8XjV0?t=2708)
+[FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3068)
+[Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3199)
+[Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3318)
 
 ***
 

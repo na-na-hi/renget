@@ -111,6 +111,12 @@ Non W++ version: https://files.catbox.moe/kk1v2s.png
 ==Total Tokens:== 
 - 311 (With example messages)
 - 218 (Without example messages)*
+#####(Adventurer) Murasaki Shion
+Non W++ version: https://files.catbox.moe/whed1s.png
+
+==Total Tokens:== 
+- 331 (With example messages)
+- 250 (Without example messages)*
 
 *\*Also without first message*
 

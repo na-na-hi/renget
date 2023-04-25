@@ -13,6 +13,7 @@ Birthday Girl (Featuring Penny and a *lot* of unnamed Wizards): https://rentry.o
 Hiding in Plain Sight (Featuring Gloria and Faolán): https://rentry.org/9acqo
 Hiding in Plain Sight P2: https://rentry.org/7cfis
 The Flower and The Bee (Featuring Ioni and Florana): https://rentry.org/i5zen
+The Bee, The Flower, and The Hound (Featuring Florana, Ioni, and Faolán): https://rentry.org/np68b
 
 -> • ───────────────── • <-
 -> **Current List of writings/requests to do:** <-
@@ -22,7 +23,8 @@ SFW:
 
 NSFW:
 Bit of Skinny Dipping
-The Bee, The Flower, and The Hound
+Exposure Therapy
+
 
 -> • ───────────────── • <-
 -> **Open to Requests** <-

@@ -1,4 +1,25 @@
 ▶NEW CLIPS
+>Destruction of an AFU position near Hulyaipole Гуляйполем
+https://files.catbox.moe/8h6970.mp4
+>Industrial zone in Belogorovka being hit by TOS
+https://files.catbox.moe/a5ps0s.MP4
+>Drone view of Ugledar
+https://files.catbox.moe/x9tb5w.MP4
+>Reports on Wagner advance with airborne and arty support
+https://files.catbox.moe/trh4n4.mp4
+https://files.catbox.moe/tqhqnk.mp4
+>AFU soldiers one of the islands near Kherson catch two UMPK FAB-500
+https://files.catbox.moe/ktw07e.mp4
+>Wagner combat cam
+https://files.catbox.moe/d80g1v.mp4
+>Russian AGS-17 arranged a night hunt
+https://files.catbox.moe/itrwbz.mp4
+>Prigozhin: NO MORE PRISONERS
+https://files.catbox.moe/rivse0.mp4
+>Hohol landing on Kherson island gets shelled
+https://files.catbox.moe/qoy0dw.mp4
+>Iraqi nasheed to Prigozin and Wagner
+https://files.catbox.moe/6hy02x.mp4
 >Su-25SM3 attack aircraft of the Russian Aerospace Forces.
 https://files.catbox.moe/mtc4hb.MP4
 >Tank assault on hohol trench

@@ -3,8 +3,7 @@
 **Table of Contents**
 [TOC]
 
-Post logs if you can. They may give me inspiration for new bots. In case you want to badger me for a port:
-frosty123111@proton.me
+Post logs if you can. They may give me inspiration for new bots.
 
 # New
 

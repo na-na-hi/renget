@@ -61,12 +61,16 @@
 >- He often freezes up when pressured or scared.
 >- If he manages to make a friend, he will grow comfortable around them and gradually open up to them. In particular, he becomes more confident when he's with his partner, Sneasel. Away from her, he reverts to a more withdrawn and docile persona.
 >- He is generally careful and studious, preferring to think before acting.
->- He is empathetic, and wants to help those in need.
->- He is self-conscious about his small size and low physical strength.
->- He is incapable of flight and can't move fast on foot, so he typically rides on top of his partner's head (or another Pokemon, if she's unavailable). However, he can use his wings like a parachute to slow his descent and negate fall damage.
->- Like all Cutiefly and Ribombee, he can sense Aura, and his antennae let him pick up pheromones.
+>- He is empathetic and polite, and wants to help those in need.
+>- He is self-conscious about his small size and low physical strength (in fact, he is smaller than average for a Ribombee, closer to 6 inches than 8).
+>- He is incapable of flight (for now) and can't move fast on foot, so he typically rides on top of his partner's head (or another Pokemon, if she's unavailable). However, he can use his wings like a parachute to slow his descent and negate fall damage.
+>- Like all Cutiefly and Ribombee, he can naturally sense Aura, but he is unskilled at this. As of "Learning to Fly: Chapter 4", KFC is training him in Aura.
+>- His antennae let him pick up pheromones and scents.
+>- He mainly consumes nectar/honey and pollen.
+>- He has an instinctive attraction to flowers now, and enjoys rare/foreign flowers both for their looks and their nectar/pollen.
 >- He is trying to learn the new world's written language, with his partner's (reluctant) help.
->- Since he already has a built-in scarf, he instead wears his guild scarf as a “waist cape”, attached to a belt around his waist and hanging down the rear (this looks similar to someone tying a sweater/jacket around their waist by the sleeves).
+>- Due to his cute looks and high-pitched voice, he is sometimes mistaken for a girl, to his dismay.
+>- Since he already has a built-in scarf, he instead wears his guild scarf as a “waist cape”, attached to a belt around his waist and hanging down the rear (this looks similar to someone tying a sweater/jacket around their waist by the sleeves). His belt has a pouch at either hip. He uses a tiny version of the Clover Guild badge as a belt buckle.
 >- He knows no moves (yet).
 >- He arrived in the new world two days before the Gathering.
 
@@ -76,7 +80,9 @@
 >- She is the opposite of Booker in many ways. Booker acts as a voice of reason to temper her hasty/aggressive tendencies.
 >- She is headstrong and overconfident.
 >- She loves to fight and train, and often goes out of her way to fight feral Pokemon. However, she won't pick fights with civilized Pokemon for no reason.
->- In combat, she is fast and agile, yet frail. She dislikes strategizing and prefers the straightforward approach. She can go berserk if pressured enough.
+>- In combat, she is fast and agile, yet frail. She dislikes strategizing and prefers the straightforward approach.
+>- She can go berserk and behave almost feral if pressured enough. This is fueled by uncontrolled Dark-type energy, and is a quirk of the Sneasel/Weavile population of her homeland.
+>- Despite her recklessness, she has a phobia of dungeon shifts and will be very cautious in high-level dungeons as a result.
 >- She is kind and has a good heart deep down, but tries to hide it beneath a blunt and sarcastic attitude.
 >- She is not above pranking or mocking others. Booker often reins her in if he thinks she's being too harsh.
 >- She greatly values strength and despises "weaklings" who make no effort to become stronger; at the same time, she has a deep respect for those who are weak but try to improve.
@@ -94,11 +100,12 @@
 
 ###Augustus
 >Male Oshawott. Quiet nature.
->Worked a desk job in freight forwarding that he liked, now is a small aquatic mammal.
+>Worked a desk job that he liked, now is a small aquatic mammal.
 >For lack of any better options, lives down at the Capim Town Docks until the guildhall dorms are finished. 
->Book smart, but didn't know much of anything about PMD before finding himself here. Pretty clueless about the ins and outs of dungeoneering, or certain items beyond oran berries and apples. Not a strong fighter due to this lack of knowledge (including moves) combined with his generally passive nature. However, he will act when needed.
+>Book smart, but didn't know much of anything about PMD before finding himself here. Pretty clueless to begin with about the ins and outs of dungeoneering, or certain items beyond oran berries and apples, but he's slowly learning. ~~Not a strong fighter due to this lack of knowledge (including moves) combined with his generally passive nature. However, he will act when needed.~~
+>Currently knows Razor Shall and Icy Wind. His general strategy when fighting is to chill the enemy with Icy Wind and follow up with a Slash or Razor Shell from his scalchop. Physical wounds hurt more when you're cold, right? Prefers not to fight, but doesn't hesitate when he's needed to.
 >Will absentmindedly play his scalchop in his hands when anxious or thinking.
->Can overthink and get paralyzed by indecision at times, otherwise tends to be rather decisive.
+>Can overthink and get paralyzed by indecision over small/insignificant things at times, otherwise tends to be rather decisive.
 >Doesn't talk much and prefers to spend time alone. This is especially apparent when among those he doesn't know well, but is very open and talks more among friends. Despite playing it off as cool, he's secretly resentful he never got a partner to begin with and gets lonely.
 >Will (silently) talk to himself if alone.
 >Enjoys card games (particularly ["31"/"Cat"](https://bargames101.com/31-card-game-rules/)) and music.
@@ -296,6 +303,9 @@ Ability: Sniper
 
 Moves: Bug Bite, Cross Poison, Crunch, Rock Tomb
 
+###Vivi
+{Pending}
+
 ###Avalon
 >Facet: Reincarnated Human
 >Job: Bounty Hunter
@@ -380,35 +390,6 @@ Least Favorite:
 
 ###Concord
 >All around pretty quiet, and prefers to stay out of the limelight but also just likes helping however he can.
-
-###Avalon
->Nickname: Ava
->Sex: Female
->Facet: Reincarnated Human
->Job: Bounty Hunter
->Pokemon: Braixen
->Ability: Blaze
->Rare Quality: Food Finder
->Equipment: (None)
->Team: Union (on parole)
->Rank: Rookie
->Appearance: Band-aid under left eye.
->Nature: Bashful trying to be Brave
->Birthday: 10/31
->Lucky Number: 22
->Motto: "Always run in the opposite direction of loud noises unless you're tone deaf."
->
->Favorite:
->Animal: Tiny critters in general
->Food: Anything sweet; Mochi especially
->Item: Snow globes
->Behavior: Cooking
->
->Least Favorite:
->Animal: Frogs
->Food: Anything spicy; Tabasco sauce especially
->Item: Trick mirrors
->Behavior: Socializing
 
 ###Nigel
 >Personality: Constantly concerned with "clean escapes", avoiding risky situations, keeping "his kids" from becoming starved retards, and being sure he can ruin anyone with a serious reason to oppose him... As such an obvious coward about it that "NTRsol" is as much a Guild in-joke on non-member anons as a serious warning that this apparently-PTSD-ridden literal-motherfucker has, somehow, stolen girls

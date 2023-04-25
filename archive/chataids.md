@@ -23,3 +23,6 @@ https://github.com/SillyLossy/TavernAI-extras
 
 ###AgnAIstic
 https://agnai.chat/
+
+###Card Repo
+https://www.characterhub.org/

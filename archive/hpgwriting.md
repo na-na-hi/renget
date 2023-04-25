@@ -30,6 +30,7 @@ Florana Summerbee: https://rentry.org/FloranaSummerbeeWriting
 Garland Stephald: https://rentry.org/wap742
 Logren Wight: https://rentry.org/fa2y3
 Ioni Lacroix: https://rentry.org/p7rxf
+Artorias Draco Black: https://rentry.co/ArtoriasBlack
 ->• ───────────────── •<-
 
 Name: Your characters name here so we know who this is about.

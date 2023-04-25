@@ -30,7 +30,7 @@ Booker and Gus relaxing to some tunes
 
 ~~Macom preparing to Charge+Discharge~~
 
-Bullet sleeping upside down like a bat
+~~Bullet sleeping upside down like a bat~~
 
 ~~A group photo of all the guild members (+ other characters on the background) pre Enter the Federation~~
 

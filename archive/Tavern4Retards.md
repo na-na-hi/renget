@@ -199,15 +199,13 @@ The Key takeaway here is to look for huggingface links, navigate to the site and
 As a retard guide, I'll include some of the links being shared, but I will **not** be keeping them up-to-date as /aicg/ burns through threads..
 You can check the availability of Turbo and GPT4 Keys here: https://alwaysfindtheway.github.io/ 
 ```
-"Todd Howard's TES: GeePeeTee four(3.75) Experience." 	<- "Comes with free jailbreaks that enhances your cooms."
-https://c857d09db23e6822e3.gradio.live/v1
-
 "GPT Keys"
 https://whocars123-oai-proxy.hf.space/proxy/
 https://whocars123-oai-proxy2.hf.space/proxy/
 https://anonjegger340-coom-tunnel.hf.space/proxy/
 https://gookproxy-coomlemon.hf.space/					<- "Korean bro's (?)"
 https://maceter636-8874416364.hf.space/proxy/			<- "Ivans Key"
+https://lee-myo-biyanna.hf.space/						<- "Another Gook"
 
 "GPT Keys but prompts are logged."
 https://anonjegger340-logged-cooms.hf.space/
@@ -219,6 +217,10 @@ https://khanon-oai-proxy.hf.space/proxy/
 https://moxxie-knolastname-530560494330.hf.space/proxy/
 https://maceter636-7282349227.hf.space/proxy/			<- "Ivan's GPT4 (Password required)"
 https://testingcodehere-oai-proxy.hf.space/				<- "GPT4 Key, 29% (?)"
+
+"Owari da! RIP"
+"Todd Howard's TES: GeePeeTee four(3.75) Experience."
+https://c857d09db23e6822e3.gradio.live/v1
 ```
 If you attempt to connect to a valid proxy link but receive the message "**Endpoint not found**" in the console, this indicates that the proxy is currently offline. This means that the link does not connect to any server. You can verify the link, but as long as it ends with /openai/v1, it should be the correct link. It is possible that the owner of the proxy has shut it down. "**Access token Invalid**" means that the api key is incorrect, for proxies that means it's gated behind password. Input the password as the API key to acccess it. Don't know it? Find another proxy.
 

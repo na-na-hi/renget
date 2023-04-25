@@ -22,8 +22,7 @@
 Dates are based on EST
 ***
 !!!info Updates
-	>==Chapters== - 12/22 - [Added #37](https://rentry.org/irdxq#2022-12-15-karaoke-endurance-%E6%AD%8C%E6%9E%A0singing-until-765000-subscribers-qfhxe364ory) - 12/24 - Added [#36](https://rentry.org/irdxq#2022-12-07-%E6%AD%8C%E6%9E%A0-karaokejp-songs-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-ppszjdkmoxo) - [#35](https://rentry.org/irdxq#2022-11-24-gobble-gobble-leb3buem1l0) - [#33](https://rentry.org/irdxq#2022-10-31-karaokeboo-uj8g1tf2ugo)
-
+	>==Chapters== - 04/23 - [Added #44](https://rentry.org/irdxq/edit#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0) 
 !!! Info Incomplete - https://rentry.org/nzpe9
 !!! warning # of times she has sung each song so far
      https://rentry.org/37gbg
@@ -33,6 +32,7 @@ Dates are based on EST
 
 
 ######『2021-09-28』 - 【UNARCHIVED】what [sWQIkO7txq4]
+
 ```
 CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
@@ -66,6 +66,7 @@ CHAPTER14=01:02:42.000
 CHAPTER14NAME=13. High Regard - The Story So Far
 CHAPTER15=01:08:39.000
 CHAPTER15NAME=14. Cigarettes & Saints - The Wonder Years
+
 ```
 ######『2021-10-15』 - 【UNARCHIVED】Sleepy Singing [31wNJfaYIos]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -96,6 +97,7 @@ CHAPTER11=00:41:05.000
 CHAPTER11NAME=10. Living Room Song - The Wonder Years
 CHAPTER12=00:44:00.000
 CHAPTER12NAME=11. I Miss You - Blink 182
+
 ```
 ###### 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -121,6 +123,7 @@ CHAPTER08=00:24:09.000
 CHAPTER08NAME=07. Nandemonaiya - Radwimps
 CHAPTER09=00:29:58.000
 CHAPTER09NAME=08. Kanzen Kankaku Dreamer - ONE OK ROCK
+
 ```
 
 ######『2021-11-12』 - 【UNARCHIVED】So this is sugar ooowooowowowoo [1X4JqW7ftuc]
@@ -133,55 +136,56 @@ CHAPTER01NAME=Start
 CHAPTER02=00:01:18.400
 CHAPTER02NAME=01. Sugar, We're Goin Down - Fall Out Boy
 CHAPTER03=00:05:51.900
-CHAPTER03NAME=02. Grenade - Bruno Mars
+CHAPTER03NAME=Grenade - Bruno Mars
 CHAPTER04=00:10:42.000
-CHAPTER04NAME=03. Landslide - Fleetwood Mac
+CHAPTER04NAME=02. Landslide - Fleetwood Mac
 CHAPTER05=00:14:44.500
-CHAPTER05NAME=04. I Fall Apart - Post Malone
+CHAPTER05NAME=03. I Fall Apart - Post Malone
 CHAPTER06=00:18:21.500
-CHAPTER06NAME=05. Burn - Hamilton
+CHAPTER06NAME=04. Burn - Hamilton
 CHAPTER07=00:22:20.100
-CHAPTER07NAME=06. Mamma Mia - ABBA
+CHAPTER07NAME=05. Mamma Mia - ABBA
 CHAPTER08=00:26:34.500
-CHAPTER08NAME=07. How Far I'll Go - Moana
+CHAPTER08NAME=06. How Far I'll Go - Moana
 CHAPTER09=00:30:38.000
-CHAPTER09NAME=08. Came Out Swinging - The Wonder Years
+CHAPTER09NAME=07. Came Out Swinging - The Wonder Years
 CHAPTER10=00:34:31.000
-CHAPTER10NAME=09. Sunflower - Post Malone, Swae Lee
+CHAPTER10NAME=08. Sunflower - Post Malone, Swae Lee
 CHAPTER11=00:38:45.200
-CHAPTER11NAME=10. Terrible Things - Mayday Parade
+CHAPTER11NAME=09. Terrible Things - Mayday Parade
 CHAPTER12=00:42:54.000
-CHAPTER12NAME=11. I Hope This Comes Back to Haunt You - Neck Deep
+CHAPTER12NAME=10. I Hope This Comes Back to Haunt You - Neck Deep
 CHAPTER13=00:45:45.000
-CHAPTER13NAME=12. I've Given Up on You - Real Friends
+CHAPTER13NAME=11. I've Given Up on You - Real Friends
 CHAPTER14=00:49:45.000
-CHAPTER14NAME=13. Cups (When I'm Gone) - Pitch Perfect 
+CHAPTER14NAME=12. Cups (When I'm Gone) - Pitch Perfect
 CHAPTER15=00:52:20.000
-CHAPTER15NAME=14. Let It Go - Frozen
+CHAPTER15NAME=13. Let It Go - Frozen
 CHAPTER16=00:56:55.000
-CHAPTER16NAME=15. Life is a Highway - Rascal Flatts
+CHAPTER16NAME=Life is a Highway - Rascal Flatts
 CHAPTER17=00:59:45.000
-CHAPTER17NAME=16. Three Cheers for Five Years - Mayday Parade
+CHAPTER17NAME=14. Three Cheers for Five Years - Mayday Parade
 CHAPTER18=01:05:45.000
-CHAPTER18NAME=17. Dear Maria, Count Me In - All Time Low
+CHAPTER18NAME=15. Dear Maria, Count Me In - All Time Low
 CHAPTER19=01:09:00.000
-CHAPTER19NAME=18. Mr. Brightside - The Killers
+CHAPTER19NAME=16. Mr. Brightside - The Killers
 CHAPTER20=01:14:31.000
-CHAPTER20NAME=19. A Thousand Years - Christina Perri
+CHAPTER20NAME=17. A Thousand Years - Christina Perri
 CHAPTER21=01:20:40.000
-CHAPTER21NAME=20. Jack Sparrow - The Lonely Island (Ft. Michael Bolton)
+CHAPTER21NAME=18. Jack Sparrow - The Lonely Island (Ft. Michael Bolton)	
 CHAPTER22=01:24:16.500
-CHAPTER22NAME=21. I Dreamed a Dream - Les Miserables
+CHAPTER22NAME=19. I Dreamed a Dream - Les Miserables
 CHAPTER23=01:30:58.000
-CHAPTER23NAME=22. She Used to Be Mine - Sara Bareilles
+CHAPTER23NAME=20. She Used to Be Mine - Sara Bareilles
 CHAPTER24=01:35:47.000
-CHAPTER24NAME=23. Take Me Home, Country Roads - John Denver
+CHAPTER24NAME=21. Take Me Home, Country Roads - John Denver
 CHAPTER25=01:39:40.000
-CHAPTER25NAME=24. Leaving on a Jet Plane - John Denver
+CHAPTER25NAME=Leaving on a Jet Plane - John Denver
 CHAPTER26=01:40:31.000
-CHAPTER26NAME=25. Fly Me to the Moon - Frank Sinatra
+CHAPTER26NAME=Fly Me to the Moon - Frank Sinatra
 CHAPTER27=01:42:45.000
-CHAPTER27NAME=26. Never Grow Up - Taylor Swift
+CHAPTER27NAME=22. Never Grow Up - Taylor Swift
+
 ```
 ######『2021-11-27』 - 【MEMBERS】UNARCHIVED KARAOKE [BxFkssSt2tI]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -232,6 +236,7 @@ CHAPTER21=01:30:08.500
 CHAPTER21NAME=18. All Too Well - Taylor Swift
 CHAPTER22=01:39:42.200
 CHAPTER22NAME=19. Colors of the Wind - Pocahontas
+
 ```
 ######『2021-12-01』 - 【UNARCHIVED】mic test 1 2 (volume warning!!!) [AKJUn0R_Oj8]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -249,49 +254,46 @@ CHAPTER04NAME=04. Somebody That I Used to Know - Gotye
 CHAPTER05=00:35:08.000
 CHAPTER05NAME=05. Angel - Sarah McLachlan
 CHAPTER06=00:40:03.000
-CHAPTER06NAME=06. Kimi Dayo Kimi Nandayo - Goose house
+CHAPTER06NAME=Kimi Dayo Kimi Nandayo - Goose house
 CHAPTER07=00:41:39.000
-CHAPTER07NAME=07. American Pie - Don McLean
+CHAPTER07NAME=American Pie - Don McLean
 CHAPTER08=00:44:27.000
-CHAPTER08NAME=08. Payphone - Maroon 5
+CHAPTER08NAME=06. Payphone - Maroon 5
 CHAPTER09=00:47:30.000
-CHAPTER09NAME=09. On My Own - Les Miserables
+CHAPTER09NAME=07. On My Own - Les Miserables
 CHAPTER10=00:53:38.000
-CHAPTER10NAME=10. Stay - The Kid Laro & Justin Bieber
+CHAPTER10NAME=08. Stay - The Kid Laro & Justin Bieber
 CHAPTER11=00:56:13.000
-CHAPTER11NAME=11. Helpless - Hamilton
+CHAPTER11NAME=09. Helpless - Hamilton
 CHAPTER12=01:00:18.000
-CHAPTER12NAME=12. Journey to the Past - Anastasia
+CHAPTER12NAME=Journey to the Past - Anastasia
 CHAPTER13=01:02:31.500
-CHAPTER13NAME=13. All I Want - A Day To Remember
+CHAPTER13NAME=All I Want - A Day To Remember
 CHAPTER14=01:05:06.000
-CHAPTER14NAME=14. My New Philosophy - You're a Good Man, Charlie Brown
+CHAPTER14NAME=My New Philosophy - You're a Good Man, Charlie Brown
 CHAPTER15=01:05:58.000
-CHAPTER15NAME=15. Man in the Mirror - Michael Jackson
+CHAPTER15NAME=10. Man in the Mirror - Michael Jackson
 CHAPTER16=01:10:00.000
-CHAPTER16NAME=16. Sunday Morning - Maroon 5
+CHAPTER16NAME=11. Sunday Morning - Maroon 5
 CHAPTER17=01:13:42.000
-CHAPTER17NAME=17. I Don't Like Who I Was Then - The Wonder Years
+CHAPTER17NAME=I Don't Like Who I Was Then - The Wonder Years
 CHAPTER18=01:16:40.000
-CHAPTER18NAME=18. Tomorrow - Annie
+CHAPTER18NAME=Tomorrow - Annie
 CHAPTER19=01:18:18.000
-CHAPTER19NAME=19. Shadowland - The Lion King Broadway
+CHAPTER19NAME=Shadowland - The Lion King Broadway
 CHAPTER20=01:20:33.000
-CHAPTER20NAME=20. Somewhere Only We Know - Keane
+CHAPTER20NAME=12. Somewhere Only We Know - Keane
 CHAPTER21=01:25:03.000
-CHAPTER21NAME=21. Twinkle, Twinkle, Little Star
+CHAPTER21NAME=13. Twinkle, Twinkle, Little Star
 CHAPTER22=01:26:24.000
-CHAPTER22NAME=22. That Would Be Enough - Hamilton
+CHAPTER22NAME=14. That Would Be Enough - Hamilton
 CHAPTER23=01:32:23.000
-CHAPTER23NAME=23. Candy Store - Heathers Musical
+CHAPTER23NAME=15. Candy Store - Heathers Musical
 CHAPTER24=01:36:56.000
-CHAPTER24NAME=24. Stars - Les Miserables
+CHAPTER24NAME=16. Stars - Les Miserables
 CHAPTER25=01:43:01.000
-CHAPTER25NAME=25. Go the Distance - Hercules
-CHAPTER26=01:45:32.000
-CHAPTER26NAME=26. You'll Be In My Heart - Tarzan
-CHAPTER27=01:47:48.000
-CHAPTER27NAME=27. Reflection - Mulan
+CHAPTER25NAME=17. Disney Medley - Lea Salonga
+
 ```
 ######『2021-12-07』 - 【UNARCHIVED】Noise! [lSL77qv-UbQ]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -300,56 +302,61 @@ CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
 CHAPTER01=00:02:11.000
 CHAPTER01NAME=Start
-CHAPTER02=00:03:37.000
-CHAPTER02NAME=01. Just Awake - Fear, and Loathing in Las Vegas
-CHAPTER03=00:06:41.000
-CHAPTER03NAME=02. departure! - Galneryus
-CHAPTER04=00:09:38.000
-CHAPTER04NAME=03. Vocal Warmups
-CHAPTER05=00:16:19.000
-CHAPTER05NAME=04. Go the Distance - Hercules
-CHAPTER06=00:19:32.000
-CHAPTER06NAME=04. Go the Distance - Hercules (Female Key)
-CHAPTER07=00:21:24.000
-CHAPTER07NAME=05. Teenagers - My Chemical Romance
-CHAPTER08=00:23:08.000
-CHAPTER08NAME=06. I Miss You - Blink-182
-CHAPTER09=00:28:18.000
-CHAPTER09NAME=07. Set Fire To The Rain - Adele
-CHAPTER10=00:30:07.000
-CHAPTER10NAME=08. One Day More - Les Miserables
-CHAPTER11=00:34:02.000
-CHAPTER11NAME=09. Epilogue - Les Miserables
-CHAPTER12=00:39:11.000
-CHAPTER12NAME=10. Chasing Pavements - Adele
-CHAPTER13=00:41:19.000
-CHAPTER13NAME=11. Girlfriend - Avril Lavigne
-CHAPTER14=00:43:05.000
-CHAPTER14NAME=12. Someone Like You - Adele
-CHAPTER15=00:51:11.000
-CHAPTER15NAME=13. Baby One More Time - Britney Spears
-CHAPTER16=00:53:22.000
-CHAPTER16NAME=14. I Dreamed a Dream - Les Miserables
-CHAPTER17=01:00:04.000
-CHAPTER17NAME=15. Safe & Sound - Taylor Swift
-CHAPTER18=01:11:55.000
-CHAPTER18NAME=16. Never Gonna Give You Up - Rick Astley
-CHAPTER19=01:13:32.000
-CHAPTER19NAME=17. Don't Stop Believin' - Journey
-CHAPTER20=01:17:51.000
-CHAPTER20NAME=18. Bohemian Rhapsody - Queen
-CHAPTER21=01:23:49.000
-CHAPTER21NAME=Intermission
-CHAPTER22=01:24:33.000
-CHAPTER22NAME=Back
-CHAPTER23=01:24:43.000
-CHAPTER23NAME=19. My Heart Will Go On - Celine Dion
-CHAPTER24=01:31:03.000
-CHAPTER24NAME=20. Defying Gravity - Wicked
-CHAPTER25=01:37:23.000
-CHAPTER25NAME=21. Eye of the Tiger - Survivor
-CHAPTER26=01:40:05.000
-CHAPTER26NAME=22. Total Eclipse of the Heart - Bonnie Tyler
+CHAPTER02=00:04:02.582
+CHAPTER02NAME=Just Awake - Fear, and Loathing in Las Vegas
+CHAPTER03=00:05:26.282
+CHAPTER03NAME=Just Awake - (Accapella)
+CHAPTER04=00:06:41.000
+CHAPTER04NAME=departure! - Galneryus
+CHAPTER05=00:09:38.000
+CHAPTER05NAME=01. Vocal Warmups
+CHAPTER06=00:16:19.000
+CHAPTER06NAME=Go the Distance - Hercules
+CHAPTER07=00:19:32.000
+CHAPTER07NAME=Go the Distance - Michael Bolton (Female Key)
+CHAPTER08=00:21:24.000
+CHAPTER08NAME=Teenagers - My Chemical Romance
+CHAPTER09=00:23:08.000
+CHAPTER09NAME=I Miss You
+CHAPTER10=00:23:52.316
+CHAPTER10NAME=02. I Miss You - Blink-182
+CHAPTER11=00:28:18.000
+CHAPTER11NAME=Set Fire To The Rain - Adele
+CHAPTER12=00:30:07.000
+CHAPTER12NAME=03. One Day More - Les Miserables
+CHAPTER13=00:34:02.000
+CHAPTER13NAME=Epilogue - Les Miserables
+CHAPTER14=00:39:11.000
+CHAPTER14NAME=Chasing Pavements - Adele
+CHAPTER15=00:41:19.000
+CHAPTER15NAME=Girlfriend - Avril Lavigne
+CHAPTER16=00:43:05.000
+CHAPTER16NAME=04. Someone Like You - Adele
+CHAPTER17=00:51:11.000
+CHAPTER17NAME=Baby One More Time - Britney Spears
+CHAPTER18=00:53:22.000
+CHAPTER18NAME=05. I Dreamed a Dream - Les Miserables
+CHAPTER19=01:00:04.000
+CHAPTER19NAME=Safe & Sound - Taylor Swift
+CHAPTER20=01:11:55.000
+CHAPTER20NAME=Never Gonna Give You Up - Rick Astley
+CHAPTER21=01:13:32.000
+CHAPTER21NAME=06. Don't Stop Believin' - Journey
+CHAPTER22=01:17:51.000
+CHAPTER22NAME=07. Bohemian Rhapsody - Queen
+CHAPTER23=01:23:49.000
+CHAPTER23NAME=Intermission
+CHAPTER24=01:24:33.000
+CHAPTER24NAME=Back
+CHAPTER25=01:24:43.000
+CHAPTER25NAME=08. My Heart Will Go On - Celine Dion
+CHAPTER26=01:31:03.000
+CHAPTER26NAME=09. Defying Gravity - Wicked
+CHAPTER27=01:37:23.000
+CHAPTER27NAME=Eye of the Tiger - Survivor
+CHAPTER28=01:40:05.000
+CHAPTER28NAME=Total Eclipse of the Heart - Bonnie Tyler
+
 ```
 ######『2021-12-15』 - HOWDY unarchived [xUgR2rT2h50]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -365,35 +372,36 @@ CHAPTER03NAME=02. I Want It That Way - Backstreet Boys
 CHAPTER04=00:12:16.000
 CHAPTER04NAME=03. I'll Be - Edwin McCain
 CHAPTER05=00:19:00.000
-CHAPTER05NAME=04. I Just Can't Wait to Be King - from The Lion King
+CHAPTER05NAME=04. I Just Can't Wait to Be King - The Lion King
 CHAPTER06=00:23:56.000
 CHAPTER06NAME=05. Empty Chairs at Empty Tables - Les Miserables
 CHAPTER07=00:27:50.000
-CHAPTER07NAME=06. American Pie, Pt. 1 - Don McLean
+CHAPTER07NAME=American Pie, Pt. 1 - Don McLean
 CHAPTER08=00:33:21.000
-CHAPTER08NAME=07. Colors of the Wind - Judy Kuhn (from Pocahontas)
+CHAPTER08NAME=Colors of the Wind - Pocahontas
 CHAPTER09=00:38:27.200
-CHAPTER09NAME=08. Back To December - Taylor Swift
+CHAPTER09NAME=06. Back To December - Taylor Swift
 CHAPTER10=00:43:53.000
-CHAPTER10NAME=09. Mamma Mia - ABBA
+CHAPTER10NAME=07. Mamma Mia - ABBA
 CHAPTER11=00:48:46.000
-CHAPTER11NAME=10. Do You Know (The Ping Pong Song) - Enrique Iglesias
+CHAPTER11NAME=08. Do You Know (The Ping Pong Song) - Enrique Iglesias
 CHAPTER12=00:53:45.000
-CHAPTER12NAME=11. Travelin Soldier - The Chicks
+CHAPTER12NAME=09. Travelin Soldier - The Chicks
 CHAPTER13=00:59:35.500
-CHAPTER13NAME=12. The Circle Game - Joni Mitchell
+CHAPTER13NAME=10. The Circle Game - Joni Mitchell
 CHAPTER14=01:05:25.000
-CHAPTER14NAME=13. Cat's in the Cradle - Harry Chapin
+CHAPTER14NAME=11. Cat's in the Cradle - Harry Chapin
 CHAPTER15=01:10:17.000
-CHAPTER15NAME=14. Lean on Me - Bill Withers
+CHAPTER15NAME=12. Lean on Me - Bill Withers
 CHAPTER16=01:15:00.000
-CHAPTER16NAME=15. 22 - Taylor Swift
+CHAPTER16NAME=13. 22 - Taylor Swift
 CHAPTER17=01:20:08.000
-CHAPTER17NAME=16. Circle of Life - from The Lion King
+CHAPTER17NAME=14. Circle of Life - from The Lion King
 CHAPTER18=01:26:44.500
-CHAPTER18NAME=17. Wagon Wheel - Darius Rucker
-CHAPTER19=01:32:50.000
-CHAPTER19NAME=18. On My Own - from Les Miserables
+CHAPTER18NAME=15. Wagon Wheel - Darius Rucker
+CHAPTER19=01:32:50.120
+CHAPTER19NAME=16. On My Own - from Les Miserables
+
 ```
 ######『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -424,38 +432,37 @@ CHAPTER11=00:42:21.000
 CHAPTER11NAME=10. We Wish You a Merry Christmas
 CHAPTER12=00:43:45.000
 CHAPTER12NAME=11. We Wish You a Merry Christmas (Round 2)
-CHAPTER13=00:45:35.000
-CHAPTER13NAME=12. Up On The Housetop (Wrong Key)
-CHAPTER14=00:46:51.500
-CHAPTER14NAME=13. Up On The Housetop
-CHAPTER15=00:52:42.000
-CHAPTER15NAME=14. Rockin Around the Christmas Tree
-CHAPTER16=00:55:15.000
-CHAPTER16NAME=15. Grandma Got Run Over by a Reindeer - Elmo & Patsy
-CHAPTER17=01:00:04.000
-CHAPTER17NAME=16. All I Want For Christmas Is You - Mariah Carey
-CHAPTER18=01:04:07.000
-CHAPTER18NAME=17. All I Want For Christmas Is You - Mariah Carey (Round 2)
-CHAPTER19=01:11:25.000
-CHAPTER19NAME=18. Padoru (Autotuned)
-CHAPTER20=01:12:29.000
-CHAPTER20NAME=19. Your Song - Elton John
-CHAPTER21=01:16:58.000
-CHAPTER21NAME=20. Mistletoe - Justin Bieber
-CHAPTER22=01:20:01.000
-CHAPTER22NAME=Animal
-CHAPTER23=01:21:11.000
-CHAPTER23NAME=Back
-CHAPTER24=01:21:42.000
-CHAPTER24NAME=21. Part of Your World - The Little Mermaid
-CHAPTER25=01:24:56.000
-CHAPTER25NAME=22. Do You Want to Build a Snowman? - Frozen
-CHAPTER26=01:28:50.000
-CHAPTER26NAME=23. Rolling in the Deep - Adele
-CHAPTER27=01:33:56.000
-CHAPTER27NAME=24. Let It Go - Frozen
-CHAPTER28=01:38:44.500
-CHAPTER28NAME=25. Dancing Queen - ABBA (Autotuned)
+CHAPTER13=00:46:51.500
+CHAPTER13NAME=12. Up On The Housetop
+CHAPTER14=00:52:42.000
+CHAPTER14NAME=13. Rockin Around the Christmas Tree
+CHAPTER15=00:55:15.000
+CHAPTER15NAME=14. Grandma Got Run Over by a Reindeer - Elmo & Patsy
+CHAPTER16=01:00:04.000
+CHAPTER16NAME=15. All I Want For Christmas Is You - Mariah Carey
+CHAPTER17=01:04:07.000
+CHAPTER17NAME=16. All I Want For Christmas Is You - Mariah Carey (Round 2)
+CHAPTER18=01:11:25.000
+CHAPTER18NAME=Padoru (Autotuned)
+CHAPTER19=01:12:29.000
+CHAPTER19NAME=Your Song - Elton John
+CHAPTER20=01:16:58.000
+CHAPTER20NAME=17. Mistletoe - Justin Bieber
+CHAPTER21=01:20:01.000
+CHAPTER21NAME=Animal
+CHAPTER22=01:21:11.000
+CHAPTER22NAME=Back
+CHAPTER23=01:21:42.000
+CHAPTER23NAME=18. Part of Your World - The Little Mermaid
+CHAPTER24=01:24:56.000
+CHAPTER24NAME=Do You Want to Build a Snowman? - Frozen
+CHAPTER25=01:28:50.000
+CHAPTER25NAME=19. Rolling in the Deep - Adele
+CHAPTER26=01:33:56.000
+CHAPTER26NAME=20. Let It Go - Frozen
+CHAPTER27=01:38:56.000
+CHAPTER27NAME=21. Dancing Queen - ABBA (Autotuned)
+
 ```
 ######『2021-12-22』 - (UNARCHIVED) Karaoke OK! [iUqAVyJ_Gos]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -490,26 +497,29 @@ CHAPTER13=01:04:57.000
 CHAPTER13NAME=12. Adam's Song - Blink-182
 CHAPTER14=01:12:50.000
 CHAPTER14NAME=13. Burn - Hamilton
-CHAPTER15=01:20:47.000
-CHAPTER15NAME=14. Mamma Mia - ABBA
-CHAPTER16=01:25:13.000
-CHAPTER16NAME=15. Love Story - Taylor Swift
-CHAPTER17=01:30:48.000
-CHAPTER17NAME=16. All Star - Smash Mouth
-CHAPTER18=01:37:19.000
-CHAPTER18NAME=17. Summer Nights - Grease
-CHAPTER19=01:45:18.000
-CHAPTER19NAME=18. Leaving on a Jet Plane - John Denver
-CHAPTER20=01:53:20.000
-CHAPTER20NAME=19. Payphone - Maroon 5
-CHAPTER21=01:58:25.000
-CHAPTER21NAME=20. I Dreamed A Dream - Les Miserables 
-CHAPTER22=02:03:42.000
-CHAPTER22NAME=21. One Day More - Les Miserables 
-CHAPTER23=02:08:17.000
-CHAPTER23NAME=22. Travelin Soldier - The Chicks
-CHAPTER24=02:13:54.000
-CHAPTER24NAME=23. Top of the World - The Chicks
+CHAPTER15=01:18:50.000
+CHAPTER15NAME=Barbie Girl - Aqua
+CHAPTER16=01:20:47.000
+CHAPTER16NAME=14. Mamma Mia - ABBA
+CHAPTER17=01:25:13.000
+CHAPTER17NAME=15. Love Story - Taylor Swift
+CHAPTER18=01:30:48.000
+CHAPTER18NAME=16. All Star - Smash Mouth
+CHAPTER19=01:37:19.000
+CHAPTER19NAME=17. Summer Nights - Grease
+CHAPTER20=01:45:18.000
+CHAPTER20NAME=18. Leaving on a Jet Plane - John Denver
+CHAPTER21=01:53:20.000
+CHAPTER21NAME=19. Payphone - Maroon 5
+CHAPTER22=01:58:25.000
+CHAPTER22NAME=20. I Dreamed A Dream - Les Miserables 
+CHAPTER23=02:03:42.000
+CHAPTER23NAME=21. One Day More - Les Miserables 
+CHAPTER24=02:08:17.000
+CHAPTER24NAME=22. Travelin Soldier - The Chicks
+CHAPTER25=02:13:54.000
+CHAPTER25NAME=23. Top of the World - The Chicks
+
 ```
 ######『2021-12-31』 - 【UNARCHIVED】 New Years Karaoke! #HoloENNYRelay [NP59D8xufgU]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -536,6 +546,7 @@ CHAPTER09=00:37:36.000
 CHAPTER09NAME=08. Back to December - Taylor Swift
 CHAPTER10=00:42:44.000
 CHAPTER10NAME=09. The Circle Game - Joni Mitchell
+
 ```
 ######『2022-01-05』 - 【MEMBERS】 Acapella KARAOKE [unarchived] [5EkQTBaITmI]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -545,99 +556,100 @@ CHAPTER00NAME=Opening
 CHAPTER01=00:01:02.000
 CHAPTER01NAME=Start
 CHAPTER02=00:08:52.000
-CHAPTER02NAME=01. Campfire Song Song - Spongebob (Acapella)
+CHAPTER02NAME=Campfire Song Song - Spongebob (Acapella)
 CHAPTER03=00:10:27.000
-CHAPTER03NAME=02. Ochame Kinou (Acapella)
+CHAPTER03NAME=Ochame Kinou (Acapella)
 CHAPTER04=00:13:50.000
-CHAPTER04NAME=03. Complicated - Avril Lavigne (Acapella)
+CHAPTER04NAME=Complicated - Avril Lavigne (Acapella)
 CHAPTER05=00:17:30.000
-CHAPTER05NAME=04. Reflection - Mulan (Acapella)
+CHAPTER05NAME=01. Reflection - Mulan (Acapella)
 CHAPTER06=00:20:13.000
-CHAPTER06NAME=05. Candour - Neck Deep (Acapella)
+CHAPTER06NAME=02. Candour - Neck Deep (Acapella)
 CHAPTER07=00:29:09.000
-CHAPTER07NAME=06. Sleepwalking - Bring Me The Horizon (Acapella)
+CHAPTER07NAME=Sleepwalking - Bring Me The Horizon (Acapella)
 CHAPTER08=00:32:09.500
-CHAPTER08NAME=07. Love The Way You Lie - Eminem ft. Rihanna
+CHAPTER08NAME=03. Love The Way You Lie - Eminem ft. Rihanna
 CHAPTER09=00:36:35.000
-CHAPTER09NAME=08. The Water is Wide
+CHAPTER09NAME=04. The Water is Wide - Eva Cassidy
 CHAPTER10=00:42:28.500
-CHAPTER10NAME=09. Price Tag - Jessie J ft. B.o.B
+CHAPTER10NAME=Price Tag - Jessie J ft. B.o.B
 CHAPTER11=00:44:38.000
-CHAPTER11NAME=10. Boogie Wonderland - Earth, Wind & Fire
+CHAPTER11NAME=Boogie Wonderland - Earth, Wind & Fire
 CHAPTER12=00:48:32.000
-CHAPTER12NAME=11. Billionaire - Travie McCoy ft. Bruno Mars
+CHAPTER12NAME=Billionaire - Travie McCoy ft. Bruno Mars
 CHAPTER13=00:51:14.000
-CHAPTER13NAME=12. Blank Space - Taylor Swift
+CHAPTER13NAME=05. Blank Space - Taylor Swift
 CHAPTER14=00:55:41.000
-CHAPTER14NAME=13. Baby - Justin Bieber
+CHAPTER14NAME=06. Baby - Justin Bieber
 CHAPTER15=01:00:24.000
-CHAPTER15NAME=14. Iris - Goo Goo Dolls
+CHAPTER15NAME=07. Iris - Goo Goo Dolls
 CHAPTER16=01:05:32.000
-CHAPTER16NAME=15. It's Quiet Uptown - Hamilton
+CHAPTER16NAME=08. It's Quiet Uptown - Hamilton
 CHAPTER17=01:09:58.000
-CHAPTER17NAME=16. Ho hey - The Lumineers
+CHAPTER17NAME=09. Ho hey - The Lumineers
 CHAPTER18=01:13:44.000
-CHAPTER18NAME=17. Forget You - Ceelo Green
+CHAPTER18NAME=10. Forget You - Ceelo Green
 CHAPTER19=01:19:02.000
-CHAPTER19NAME=18. I Will Always Love You - Whitney Houston
+CHAPTER19NAME=11. I Will Always Love You - Whitney Houston
 CHAPTER20=01:23:54.000
-CHAPTER20NAME=19. If We Hold on Together - Diana Ross
+CHAPTER20NAME=If We Hold on Together - Diana Ross
 CHAPTER21=01:27:34.000
-CHAPTER21NAME=20. All I Want - A Day To Remember
+CHAPTER21NAME=12. All I Want - A Day To Remember
 CHAPTER22=01:32:01.000
-CHAPTER22NAME=21. Ring of Fire - Johnny Cash
+CHAPTER22NAME=13. Ring of Fire - Johnny Cash
 CHAPTER23=01:36:20.000
-CHAPTER23NAME=22. Secrets - One Republic
+CHAPTER23NAME=Secrets - One Republic
 CHAPTER24=01:40:01.000
-CHAPTER24NAME=23. When will my life begin - Tangled
+CHAPTER24NAME=14. When will my life begin - Tangled
 CHAPTER25=01:42:56.000
-CHAPTER25NAME=24. One Day More - Les Miserables
+CHAPTER25NAME=15. One Day More - Les Miserables
 CHAPTER26=01:48:43.000
-CHAPTER26NAME=25. TiK ToK - Kesha
+CHAPTER26NAME=16. TiK ToK - Kesha
 CHAPTER27=01:53:46.000
-CHAPTER27NAME=Animal
+CHAPTER27NAME=Forgot to feed Animal
 CHAPTER28=01:56:00.000
-CHAPTER28NAME=26. Use Somebody - Kings Of Leon
+CHAPTER28NAME=17. Use Somebody - Kings Of Leon
 CHAPTER29=02:00:31.000
-CHAPTER29NAME=27. My Favorite Things - The Sound of Music
+CHAPTER29NAME=18. My Favorite Things - The Sound of Music
 CHAPTER30=02:04:43.000
-CHAPTER30NAME=28. The Schuyler Sisters - Hamilton
+CHAPTER30NAME=19. The Schuyler Sisters - Hamilton
 CHAPTER31=02:08:12.000
-CHAPTER31NAME=29. Wait For It - Hamilton
+CHAPTER31NAME=20. Wait For It - Hamilton
 CHAPTER32=02:12:33.000
-CHAPTER32NAME=30. Seasons of Love - Rent
+CHAPTER32NAME=21. Seasons of Love - Rent
 CHAPTER33=02:20:45.000
-CHAPTER33NAME=31. Unwritten - Natasha Bedingfield
+CHAPTER33NAME=22. Unwritten - Natasha Bedingfield
 CHAPTER34=02:26:56.000
-CHAPTER34NAME=32. We Will Rock You - Queen
+CHAPTER34NAME=23. We Will Rock You - Queen
 CHAPTER35=02:29:27.000
-CHAPTER35NAME=33. YMCA - Village People
+CHAPTER35NAME=24. YMCA - Village People
 CHAPTER36=02:35:53.500
-CHAPTER36NAME=34. ABC - The Jacksons
+CHAPTER36NAME=25. ABC - The Jacksons
 CHAPTER37=02:40:45.000
-CHAPTER37NAME=35. Smile - The Story So far (Acapella)
+CHAPTER37NAME=Smile - The Story So far (Acapella)
 CHAPTER38=02:42:18.000
-CHAPTER38NAME=36. Nerve - The Story So far (Acapella)
+CHAPTER38NAME=Nerve - The Story So far (Acapella)
 CHAPTER39=02:42:23.000
-CHAPTER39NAME=Animal
+CHAPTER39NAME=Animal on the mic
 CHAPTER40=02:47:13.000
-CHAPTER40NAME=36. Nerve - The Story So far (Acapella)-Continued-
+CHAPTER40NAME=Nerve - The Story So far (Acapella) -Continued-
 CHAPTER41=02:50:52.000
-CHAPTER41NAME=37. Closure - The Story So Far (Acapella)
+CHAPTER41NAME=Closure - The Story So Far (Acapella)
 CHAPTER42=02:52:14.000
-CHAPTER42NAME=38. Roam - The Story So Far (Acapella)
+CHAPTER42NAME=Roam - The Story So Far (Acapella)
 CHAPTER43=02:54:19.000
-CHAPTER43NAME=39. Daughters - The Story So Far (Acapella)
+CHAPTER43NAME=26. Daughters - The Story So Far (Acapella)
 CHAPTER44=02:56:04.000
-CHAPTER44NAME=40. Mt Diablo  - The Story So Far (Acapella)
+CHAPTER44NAME=Mt Diablo - The Story So Far (Acapella)
 CHAPTER45=02:57:33.000
-CHAPTER45NAME=41. Placeholder - The Story So Far (Acapella)
+CHAPTER45NAME=Placeholder - The Story So Far (Acapella)
 CHAPTER46=02:59:11.000
-CHAPTER46NAME=42. All Wrong - The Story So Far (Acapella)
+CHAPTER46NAME=All Wrong - The Story So Far (Acapella)
 CHAPTER47=03:00:16.000
-CHAPTER47NAME=43. 680 South - The Story So Far (Acapella)
+CHAPTER47NAME=27. 680 South - The Story So Far (Acapella)
 CHAPTER48=03:03:20.000
-CHAPTER48NAME=44. Empty Space - The Story So Far (Acapella)
+CHAPTER48NAME=Empty Space - The Story So Far (Acapella)
+
 ```
 ######『2022-01-16』 - Unarchived Caffeine Crash Karaoke [qjEiRm8apMI]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -652,56 +664,56 @@ CHAPTER03=00:08:06.000
 CHAPTER03NAME=02. Ring of Fire - Johnny Cash
 CHAPTER04=00:11:35.000
 CHAPTER04NAME=03. Forget You - Ceelo Green
-CHAPTER05=00:16:21.000
+CHAPTER05=00:17:23.000
 CHAPTER05NAME=04. Take a Break - Hamilton
-CHAPTER06=00:17:23.000
-CHAPTER06NAME=05. Take a Break - Hamilton (Take 2)
-CHAPTER07=00:23:22.000
-CHAPTER07NAME=06. Mamma Mia - ABBA
-CHAPTER08=00:27:31.000
-CHAPTER08NAME=07. Give Me Love - Ed Sheeran
-CHAPTER09=00:35:21.000
-CHAPTER09NAME=08. Teenage Dream - Katy Perry
-CHAPTER10=00:41:55.000
-CHAPTER10NAME=09. Dear John - Taylor Swift
-CHAPTER11=00:50:32.000
-CHAPTER11NAME=10. Landslide - Fleetwood Mac
-CHAPTER12=00:55:32.000
-CHAPTER12NAME=11. Preview of A New Start - Nanashi Mumei
-CHAPTER13=00:57:21.000
-CHAPTER13NAME=12. Preview of A New Start - Nanashi Mumei (Acapella) 
-CHAPTER14=01:01:29.000
-CHAPTER14NAME=13. Clairvoyant - The Story So Far (Acapella) 
-CHAPTER15=01:03:10.000
-CHAPTER15NAME=14. I Miss You - Blink-182
-CHAPTER16=01:07:59.000
-CHAPTER16NAME=15. My Favorite Things - The Sound of Music
-CHAPTER17=01:11:32.000
-CHAPTER17NAME=16. Edelweiss - The Sound of Music
-CHAPTER18=01:14:55.000
-CHAPTER18NAME=17. Satisfied - Hamilton 
-CHAPTER19=01:21:23.000
-CHAPTER19NAME=18. YMCA - Village People
-CHAPTER20=01:28:09.000
-CHAPTER20NAME=19. Mr. Brightside - The Killers
-CHAPTER21=01:32:34.000
-CHAPTER21NAME=20. Thnks fr th Mmrs - Fall Out Boy
-CHAPTER22=01:36:54.000
-CHAPTER22NAME=21. Wonderwall - Oasis
-CHAPTER23=01:42:45.000
-CHAPTER23NAME=22. All I Want - A Day to Remember
-CHAPTER24=01:46:20.000
-CHAPTER24NAME=23. All I Want - Kodaline
-CHAPTER25=01:52:40.000
-CHAPTER25NAME=24. I Dreamed a Dream - Les Miserables
-CHAPTER26=01:58:39.000
-CHAPTER26NAME=25. Stereo Heart - Gym Class Heroes (Acapella)
-CHAPTER27=01:59:14.000
-CHAPTER27NAME=26. Wish You Were Here - Avril Lavigne
-CHAPTER28=02:03:37.000
-CHAPTER28NAME=27. Love The Way You Lie - Eminem ft. Rihanna
-CHAPTER29=02:08:22.000
-CHAPTER29NAME=28. Jack Sparrow - The Lonely Island (Ft. Michael Bolton)
+CHAPTER06=00:23:22.000
+CHAPTER06NAME=05. Mamma Mia - ABBA
+CHAPTER07=00:27:31.000
+CHAPTER07NAME=06. Give Me Love - Ed Sheeran
+CHAPTER08=00:35:21.000
+CHAPTER08NAME=07. Teenage Dream - Katy Perry
+CHAPTER09=00:41:55.000
+CHAPTER09NAME=08. Dear John - Taylor Swift
+CHAPTER10=00:50:32.000
+CHAPTER10NAME=09. Landslide - The Chicks
+CHAPTER11=00:55:32.000
+CHAPTER11NAME=Preview of A New Start - Nanashi Mumei
+CHAPTER12=00:57:21.000
+CHAPTER12NAME=Preview of A New Start - Nanashi Mumei (Acapella)
+CHAPTER13=01:01:29.000
+CHAPTER13NAME=Clairvoyant - The Story So Far (Acapella)
+CHAPTER14=01:03:10.000
+CHAPTER14NAME=10. I Miss You - Blink-182
+CHAPTER15=01:07:59.000
+CHAPTER15NAME=11. My Favorite Things - The Sound of Music
+CHAPTER16=01:11:32.000
+CHAPTER16NAME=12. Edelweiss - The Sound of Music
+CHAPTER17=01:14:55.000
+CHAPTER17NAME=13. Satisfied - Hamilton
+CHAPTER18=01:21:23.000
+CHAPTER18NAME=14. YMCA - Village People
+CHAPTER19=01:28:09.000
+CHAPTER19NAME=15. Mr. Brightside - The Killers
+CHAPTER20=01:32:34.000
+CHAPTER20NAME=16. Thnks fr th Mmrs - Fall Out Boy
+CHAPTER21=01:36:54.000
+CHAPTER21NAME=17. Wonderwall - Oasis
+CHAPTER22=01:42:45.000
+CHAPTER22NAME=18. All I Want - A Day to Remember
+CHAPTER23=01:46:20.000
+CHAPTER23NAME=19. All I Want - Kodaline
+CHAPTER24=01:52:40.000
+CHAPTER24NAME=20. I Dreamed a Dream - Les Miserables
+CHAPTER25=01:58:39.000
+CHAPTER25NAME=Stereo Heart - Gym Class Heroes (Acapella)
+CHAPTER26=01:59:14.000
+CHAPTER26NAME=21. Wish You Were Here - Avril Lavigne
+CHAPTER27=02:03:37.000
+CHAPTER27NAME=22. Love The Way You Lie - Eminem ft. Rihanna
+CHAPTER28=02:08:22.000
+CHAPTER28NAME=23. Jack Sparrow - The Lonely Island (Ft. Michael Bolton)
+CHAPTER29=02:11:39.000
+CHAPTER29NAME=Preview of A New Start - Nanashi Mumei
 
 ```
 ######『2022-01-22』 - 500K KARAOKE - unarchived [lwUI5-fWv4U]
@@ -730,49 +742,49 @@ CHAPTER09NAME=08. We Are Young - fun
 CHAPTER10=00:42:21.000
 CHAPTER10NAME=09. What Makes You Beautiful - One Direction
 CHAPTER11=00:49:07.000
-CHAPTER11NAME=10. True Colors - Cyndi Lauper
+CHAPTER11NAME=True Colors - Cyndi Lauper
 CHAPTER12=00:52:01.000
-CHAPTER12NAME=11. Secrets - One Republic
+CHAPTER12NAME=10. Secrets - One Republic
 CHAPTER13=00:56:09.000
-CHAPTER13NAME=12. Take Me Home, Country Roads - John Denver
+CHAPTER13NAME=11. Take Me Home, Country Roads - John Denver
 CHAPTER14=01:01:11.000
-CHAPTER14NAME=13. Fly Me to the Moon - Frank Sinatra
+CHAPTER14NAME=12. Fly Me to the Moon - Frank Sinatra
 CHAPTER15=01:04:36.000
-CHAPTER15NAME=14. Teenage Dirtbag - Wheatus
+CHAPTER15NAME=13. Teenage Dirtbag - Wheatus
 CHAPTER16=01:08:32.000
 CHAPTER16NAME=Idol meeting
 CHAPTER17=01:11:47.000
-CHAPTER17NAME=15. Mamma Mia - ABBA
+CHAPTER17NAME=14. Mamma Mia - ABBA
 CHAPTER18=01:16:30.000
-CHAPTER18NAME=16. Hallelujah - Jeff Buckley
+CHAPTER18NAME=15. Hallelujah - Jeff Buckley
 CHAPTER19=01:25:56.000
-CHAPTER19NAME=17. Skinny Love - Bon Iver
+CHAPTER19NAME=16. Skinny Love - Bon Iver
 CHAPTER20=01:31:21.000
-CHAPTER20NAME=18. Jumper - Third Eye Blind
+CHAPTER20NAME=17. Jumper - Third Eye Blind
 CHAPTER21=01:35:48.000
-CHAPTER21NAME=19. Toxic - Britney Spears
+CHAPTER21NAME=18. Toxic - Britney Spears
 CHAPTER22=01:41:15.000
-CHAPTER22NAME=20. Just the Way You Are - Bruno Mars
+CHAPTER22NAME=19. Just the Way You Are - Bruno Mars
 CHAPTER23=01:48:15.000
-CHAPTER23NAME=21. Defying Gravity - Wicked
+CHAPTER23NAME=20. Defying Gravity - Wicked
 CHAPTER24=01:58:34.000
-CHAPTER24NAME=22. Riptide - Vance Joy
+CHAPTER24NAME=21. Riptide - Vance Joy
 CHAPTER25=02:04:59.000
-CHAPTER25NAME=23. Iris - Goo Goo Dolls
+CHAPTER25NAME=22. Iris - Goo Goo Dolls
 CHAPTER26=02:11:59.000
-CHAPTER26NAME=24. Easy On Me - Adele
+CHAPTER26NAME=23. Easy On Me - Adele
 CHAPTER27=02:16:49.000
-CHAPTER27NAME=25. Alexander Hamilton - Hamilton
+CHAPTER27NAME=24. Alexander Hamilton - Hamilton
 CHAPTER28=02:21:31.000
-CHAPTER28NAME=26. You'll Be Back - Hamilton
+CHAPTER28NAME=25. You'll Be Back - Hamilton
 CHAPTER29=02:30:26.000
-CHAPTER29NAME=27. If I Die Young - The Band Perry
+CHAPTER29NAME=26. If I Die Young - The Band Perry
 CHAPTER30=02:34:40.000
-CHAPTER30NAME=28. Little Talks - Of Monsters and Men
+CHAPTER30NAME=27. Little Talks - Of Monsters and Men
 CHAPTER31=02:39:34.000
-CHAPTER31NAME=29. A New Start - Nanashi Mumei
+CHAPTER31NAME=28. A New Start - Nanashi Mumei
 CHAPTER32=02:43:26.000
-CHAPTER32NAME=30. A New Start (Harmony Part) - Nanashi Mumei
+CHAPTER32NAME=A New Start (Harmony Part) - Nanashi Mumei
 
 ```
 
@@ -808,33 +820,34 @@ CHAPTER12NAME=10. The A Team - Ed Sheeran
 CHAPTER13=01:01:38.000
 CHAPTER13NAME=11. The Lazy Song - Bruno Mars
 CHAPTER14=01:08:04.000
-CHAPTER14NAME=12. Chasing Pavements - Adele
+CHAPTER14NAME=Chasing Pavements - Adele
 CHAPTER15=01:10:33.000
-CHAPTER15NAME=13. This Love - Maroon 5
+CHAPTER15NAME=12. This Love - Maroon 5
 CHAPTER16=01:16:11.000
 CHAPTER16NAME=Idol Meeting
 CHAPTER17=01:18:28.000
 CHAPTER17NAME=Back
 CHAPTER18=01:19:08.000
-CHAPTER18NAME=14. Bring Me To Life - Evanescence
+CHAPTER18NAME=13. Bring Me To Life - Evanescence
 CHAPTER19=01:27:10.000
-CHAPTER19NAME=15. Sweater Weather - The Neighbourhood
+CHAPTER19NAME=14. Sweater Weather - The Neighbourhood
 CHAPTER20=01:32:26.000
-CHAPTER20NAME=16. Fix You - Coldplay
+CHAPTER20NAME=15. Fix You - Coldplay
 CHAPTER21=01:39:00.000
-CHAPTER21NAME=17. How to Save a Life - The Fray
+CHAPTER21NAME=16. How to Save a Life - The Fray
 CHAPTER22=01:44:41.000
 CHAPTER22NAME=Bad Day (Finding Key)
 CHAPTER23=01:46:00.000
-CHAPTER23NAME=18. Bad Day - Daniel Powter
+CHAPTER23NAME=17. Bad Day - Daniel Powter
 CHAPTER24=01:50:33.000
 CHAPTER24NAME=Idol Meeting
 CHAPTER25=01:51:55.000
 CHAPTER25NAME=Back
 CHAPTER26=01:53:23.000
-CHAPTER26NAME=19. Dreams - Fleetwood Mac
+CHAPTER26NAME=18. Dreams - Fleetwood Mac
 CHAPTER27=02:04:50.000
-CHAPTER27NAME=20. Yellow - Coldplay 
+CHAPTER27NAME=19. Yellow - Coldplay
+
 ```
 
 ######『2022-02-08』 - i sing but im tired [JgWNSecL7P8]
@@ -865,7 +878,7 @@ CHAPTER10NAME=Bring Me To Life - Evanescence (Finding Key)
 CHAPTER11=00:44:44.000
 CHAPTER11NAME=09. Bring Me To Life - Evanescence
 CHAPTER12=00:51:59.000
-CHAPTER12NAME=10. Sorairo Days - Shoko Nakagawa (Acapella)
+CHAPTER12NAME=10. Sorairo Days - Shoko Nakagawa (Acapella) -TV Size-
 CHAPTER13=00:54:50.000
 CHAPTER13NAME=Take Me Home, Country Roads - John Denver (Finding Key)
 CHAPTER14=00:55:26.000
@@ -881,29 +894,30 @@ CHAPTER18NAME=I Want It That Way - Backstreet Boys (Finding Key)
 CHAPTER19=01:23:55.000
 CHAPTER19NAME=15. I Want It That Way - Backstreet Boys
 CHAPTER20=01:27:28.700
-CHAPTER20NAME=16. Unravel - TK from Ling Tosite Sigure (Acapella)
+CHAPTER20NAME=16. Unravel - TK from Ling Tosite Sigure (Acapella) -TV Size-
 CHAPTER21=01:30:00.000
-CHAPTER21NAME=17. Gurenge - LiSA  (Acapella)
+CHAPTER21NAME=Gurenge - LiSA (Acapella)
 CHAPTER22=01:31:18.000
-CHAPTER22NAME=18. Satisfied - Hamilton
+CHAPTER22NAME=17. Satisfied - Hamilton
 CHAPTER23=01:38:00.000
-CHAPTER23NAME=19. How To Save A Life - The Fray
+CHAPTER23NAME=18. How To Save A Life - The Fray
 CHAPTER24=01:43:23.000
-CHAPTER24NAME=20. Cardinals - The Wonder Years (Acapella)
+CHAPTER24NAME=Cardinals - The Wonder Years (Acapella)
 CHAPTER25=01:44:18.000
 CHAPTER25NAME=Idea
 CHAPTER26=01:45:14.000
-CHAPTER26NAME=21. The Best Day Ever - The SpongeBob SquarePants Movie
+CHAPTER26NAME=19. The Best Day Ever - The SpongeBob SquarePants Movie
 CHAPTER27=01:50:15.000
-CHAPTER27NAME=22. Ocean Man - Ween
+CHAPTER27NAME=20. Ocean Man - Ween
 CHAPTER28=01:55:00.000
 CHAPTER28NAME=Godspeed (Sweet Dreams) - The Chicks (Finding Key)
 CHAPTER29=01:56:52.000
-CHAPTER29NAME=21. Shinzou wo Sasageyo - Linked Horizon (Acapella)
+CHAPTER29NAME=Shinzou wo Sasageyo - Linked Horizon (Acapella)
 CHAPTER30=01:59:48.000
-CHAPTER30NAME=22. Guren no Yumiya - Linked Horizon
+CHAPTER30NAME=21. Guren no Yumiya - Linked Horizon
 CHAPTER31=02:06:47.000
 CHAPTER31NAME=The Rumbling - SiM (Acapella)
+
 ```
 
 ###### 『2022-02-15』 - 【KARAOKE】Valentine's Day Songs! - unarchived [f-LNI5HB6vE]
@@ -939,48 +953,49 @@ CHAPTER13=00:46:15.000
 CHAPTER13NAME=Went to get water
 CHAPTER14=00:47:42.000
 CHAPTER14NAME=Back
-CHAPTER15=00:48:47.000
+CHAPTER15=00:50:17.000
 CHAPTER15NAME=10. Someone Like You - Adele
 CHAPTER16=00:55:48.000
 CHAPTER16NAME=11. I Miss You - blink-182
 CHAPTER17=01:03:57.000
-CHAPTER17NAME=12. Too Little, Too Late - JoJo
+CHAPTER17NAME=Too Little, Too Late - JoJo
 CHAPTER18=01:08:51.700
-CHAPTER18NAME=13. Burn - Hamilton
+CHAPTER18NAME=12. Burn - Hamilton
 CHAPTER19=01:13:54.200
-CHAPTER19NAME=14. Blank Space - Taylor Swift
+CHAPTER19NAME=13. Blank Space - Taylor Swift
 CHAPTER20=01:20:09.000
-CHAPTER20NAME=15. Skinny Love - Bon Iver
+CHAPTER20NAME=14. Skinny Love - Bon Iver
 CHAPTER21=01:25:25.000
-CHAPTER21NAME=16. A Thousand Years - Christina Perri
+CHAPTER21NAME=15. A Thousand Years - Christina Perri
 CHAPTER22=01:31:29.000
 CHAPTER22NAME=Idol Meeting
 CHAPTER23=01:34:00.000
 CHAPTER23NAME=Back
 CHAPTER24=01:35:59.000
-CHAPTER24NAME=17. Mamma Mia - ABBA
+CHAPTER24NAME=16. Mamma Mia - ABBA
 CHAPTER25=01:40:25.000
-CHAPTER25NAME=18. Welcome To The Black Parade - My Chemical Romance 
+CHAPTER25NAME=17. Welcome To The Black Parade - My Chemical Romance
 CHAPTER26=01:47:33.000
-CHAPTER26NAME=19. Hey, Soul Sister - Train
+CHAPTER26NAME=18. Hey, Soul Sister - Train
 CHAPTER27=01:55:11.000
-CHAPTER27NAME=20. Everytime We Touch - Cascada
+CHAPTER27NAME=19. Everytime We Touch - Cascada
 CHAPTER28=01:59:27.000
-CHAPTER28NAME=21. Angel - Sarah McLachlan
+CHAPTER28NAME=20. Angel - Sarah McLachlan
 CHAPTER29=02:07:23.000
 CHAPTER29NAME=My Heart Will Go On - Celine Dion (Forgot to unmute the music)
 CHAPTER30=02:07:48.000
-CHAPTER30NAME=22. My Heart Will Go On - Celine Dion
+CHAPTER30NAME=21. My Heart Will Go On - Celine Dion
 CHAPTER31=02:13:59.000
-CHAPTER31NAME=23. YMCA - Village People
+CHAPTER31NAME=22. YMCA - Village People
 CHAPTER32=02:21:56.000
-CHAPTER32NAME=24. What The Hell - Avril Lavigne
+CHAPTER32NAME=23. What The Hell - Avril Lavigne
 CHAPTER33=02:26:28.000
 CHAPTER33NAME=25. Want U Back - Cher Lloyd
 CHAPTER34=02:31:19.000
-CHAPTER34NAME=26. Shiny Smily Story - hololive IDOL PROJECT (Acapella)
+CHAPTER34NAME=Shiny Smily Story - hololive IDOL PROJECT (Acapella)
 CHAPTER35=02:36:25.000
-CHAPTER35NAME=27. A New Start - Nanashi Mumei
+CHAPTER35NAME=25. A New Start - Nanashi Mumei
+
 ```
 
 ###### 『2022-03-10』 - 【KARAOKE】PRACTICE ! 日本語で歌ってみよう ! ~ [cKwLKXgdl-M]
@@ -1023,6 +1038,7 @@ CHAPTER16=00:48:37.000
 CHAPTER16NAME=07. Hikaru Nara - Goose house
 CHAPTER17=00:52:00.000
 CHAPTER17NAME=Practice 4
+
 ```
 ###### 『2022-03-10』 - not karaoke [YxaVAjW2uVw]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -1065,51 +1081,52 @@ CHAPTER16NAME=Back
 CHAPTER17=01:09:18.000
 CHAPTER17NAME=10. All Too Well - Taylor Swift
 CHAPTER18=01:17:02.100
-CHAPTER18NAME=11. Empty Chairs at Empty Tables - Les Miserables
+CHAPTER18NAME=Empty Chairs at Empty Tables - Les Miserables
 CHAPTER19=01:23:39.000
-CHAPTER19NAME=12. A Thousand Years - Christina Perri
+CHAPTER19NAME=11. A Thousand Years - Christina Perri
 CHAPTER20=01:30:35.000
 CHAPTER20NAME=Hallelujah - Finding key
 CHAPTER21=01:33:14.600
-CHAPTER21NAME=13. Hallelujah - Leonard Cohen
+CHAPTER21NAME=12. Hallelujah - Leonard Cohen
 CHAPTER22=01:40:46.400
-CHAPTER22NAME=14. Single Ladies - Beyonce
+CHAPTER22NAME=13. Single Ladies - Beyonce
 CHAPTER23=01:46:25.000
 CHAPTER23NAME=Idol Meeting
 CHAPTER24=01:49:56.500
 CHAPTER24NAME=Back
 CHAPTER25=01:50:58.000
-CHAPTER25NAME=15. Hikaru Nara - Goose house
+CHAPTER25NAME=14. Hikaru Nara - Goose house
 CHAPTER26=01:56:39.500
-CHAPTER26NAME=16. A New Start
+CHAPTER26NAME=15. A New Start - Nanashi Mumei
 CHAPTER27=02:02:02.000
-CHAPTER27NAME=17. September - Earth, Wind & Fire
+CHAPTER27NAME=16. September - Earth, Wind & Fire
 CHAPTER28=02:07:36.000
-CHAPTER28NAME=18. Satisfied - Hamilton
+CHAPTER28NAME=17. Satisfied - Hamilton
 CHAPTER29=02:15:35.000
-CHAPTER29NAME=19. I Will Always Love You - Whitney Houston
+CHAPTER29NAME=18. I Will Always Love You - Whitney Houston
 CHAPTER30=02:21:29.000
-CHAPTER30NAME=20. Radioactive - Imagine Dragons
+CHAPTER30NAME=19. Radioactive - Imagine Dragons
 CHAPTER31=02:24:37.500
 CHAPTER31NAME=Went to get a battery
 CHAPTER32=02:27:46.000
 CHAPTER32NAME=Back
 CHAPTER33=02:29:27.000
-CHAPTER33NAME=21. Mamma Mia - ABBA
+CHAPTER33NAME=20. Mamma Mia - ABBA
 CHAPTER34=02:35:11.200
-CHAPTER34NAME=22. She Will Be Loved - Maroon 5
+CHAPTER34NAME=21. She Will Be Loved - Maroon 5
 CHAPTER35=02:41:01.000
-CHAPTER35NAME=23. Payphone - Maroon 5
+CHAPTER35NAME=22. Payphone - Maroon 5
 CHAPTER36=02:46:11.000
-CHAPTER36NAME=24. Popular - Wicked
+CHAPTER36NAME=23. Popular - Wicked
 CHAPTER37=02:50:08.000
-CHAPTER37NAME=25. I Miss You - blink-182
+CHAPTER37NAME=24. I Miss You - blink-182
 CHAPTER38=02:55:25.000
-CHAPTER38NAME=26. Fireflies - Owl City
+CHAPTER38NAME=25. Fireflies - Owl City
 CHAPTER39=03:00:37.000
-CHAPTER39NAME=27. Take Me Home, Country Roads - John Denver
+CHAPTER39NAME=26. Take Me Home, Country Roads - John Denver
 CHAPTER40=03:04:48.000
-CHAPTER40NAME=28. Somebody To Love - Queen
+CHAPTER40NAME=27. Somebody To Love - Queen
+
 ```
 
 ###### 『2022-03-22』 - sleepy tunes unarchived [EMV0plGpt_c]
@@ -1161,13 +1178,14 @@ CHAPTER20NAME=14. Man in the Mirror - Michael Jackson
 CHAPTER21=01:22:48.000
 CHAPTER21NAME=15. Love Story - Taylor Swift
 CHAPTER22=01:27:25.000
-CHAPTER22NAME=Beautiful - Heathers
+CHAPTER22NAME=Beautiful - Heathers (Acapella)
 CHAPTER23=01:28:04.000
 CHAPTER23NAME=16. Bring Him Home - Les Miserables
 CHAPTER24=01:31:32.900
 CHAPTER24NAME=17. On My Own - Les Miserables
 CHAPTER25=01:40:41.000
-CHAPTER25NAME=Jack Sparrow Acapella
+CHAPTER25NAME=Jack Sparrow (Acapella)
+
 ```
 
 ###### 『2022-03-24』 - 【ENDURANCE】 I Sing Until 600K Subs [S6rjSjW-X3w]
@@ -1194,27 +1212,27 @@ CHAPTER05NAME=02. Rolling in the Deep - Adele
 CHAPTER06=00:22:06.000
 CHAPTER06NAME=03. U Got It Bad - Usher
 CHAPTER07=00:28:35.000
-CHAPTER07NAME=Confessions, Pt. II - Usher
+CHAPTER07NAME=Confessions, Pt. II - Usher (Acapella)
 CHAPTER08=00:31:10.000
 CHAPTER08NAME=04. Wonderwall - Oasis
 CHAPTER09=00:35:48.000
-CHAPTER09NAME=I Kissed A Girl
+CHAPTER09NAME=I Kissed A Girl (Acapella)
 CHAPTER10=00:36:47.000
 CHAPTER10NAME=05. The Rainbow Connection - Jim Henson
 CHAPTER11=00:41:30.000
 CHAPTER11NAME=06. A Home on the Range
 CHAPTER12=00:46:28.000
-CHAPTER12NAME=All Wrong - The Story So Far
+CHAPTER12NAME=All Wrong - The Story So Far (Acapella)
 CHAPTER13=00:48:48.000
 CHAPTER13NAME=07. All I Want - A Day to Remember
 CHAPTER14=00:52:23.000
-CHAPTER14NAME=Passing Through A Screen Door - The Wonder Years
+CHAPTER14NAME=Passing Through A Screen Door - The Wonder Years (Acapella)
 CHAPTER15=00:54:38.000
 CHAPTER15NAME=08. Numb - Linkin Park
 CHAPTER16=01:02:27.500
 CHAPTER16NAME=09. On My Own - Les Miserables (JP Ver.)
 CHAPTER17=01:07:33.000
-CHAPTER17NAME=Uninstall - Chiaki Ishikawa
+CHAPTER17NAME=Uninstall - Chiaki Ishikawa (Acapella)
 CHAPTER18=01:10:21.000
 CHAPTER18NAME=10. 3AM - Matchbox Twenty
 CHAPTER19=01:13:04.000
@@ -1230,27 +1248,27 @@ CHAPTER23NAME=14. All the Small Things - Blink-182
 CHAPTER24=01:38:16.000
 CHAPTER24NAME=15. Sunflower - Post Malone, Swae Lee
 CHAPTER25=01:40:52.800
-CHAPTER25NAME=American Pie - Don McLean
+CHAPTER25NAME=American Pie - Don McLean (Acapella)
 CHAPTER26=01:44:01.000
 CHAPTER26NAME=16. When I Look At You - Miley Cyrus
 CHAPTER27=01:50:41.000
-CHAPTER27NAME=On The Loose
+CHAPTER27NAME=On The Loose (Acapella)
 CHAPTER28=01:52:56.000
 CHAPTER28NAME=17. She Will Be Loved - Maroon 5
 CHAPTER29=01:57:19.000
-CHAPTER29NAME=Seasons of Love
+CHAPTER29NAME=Seasons of Love (Acapella)
 CHAPTER30=01:58:38.000
 CHAPTER30NAME=18. The Lazy Song - Bruno Mars
 CHAPTER31=02:01:13.500
-CHAPTER31NAME=Waiting In Vain - Bob Marley & the Wailers
+CHAPTER31NAME=Waiting In Vain - Bob Marley & the Wailers (Acapella)
 CHAPTER32=02:01:54.000
 CHAPTER32NAME=19. Bubbly - Colbie Caillat
 CHAPTER33=02:06:03.000
 CHAPTER33NAME=20. Pompeii - Bastille
 CHAPTER34=02:09:59.600
-CHAPTER34NAME=Wagon Wheel - Darius Rucker
+CHAPTER34NAME=Wagon Wheel - Darius Rucker (Acapella)
 CHAPTER35=02:12:08.000
-CHAPTER35NAME=Mamma Mia - ABBA
+CHAPTER35NAME=Mamma Mia - ABBA (Acapella)
 CHAPTER36=02:13:42.000
 CHAPTER36NAME=21. Fix You - Coldplay
 CHAPTER37=02:20:00.000
@@ -1471,6 +1489,7 @@ CHAPTER70=03:29:55.000
 CHAPTER70NAME=aLIEz - SawanoHiroyuki[nZk] (Acapella)
 CHAPTER71=03:30:55.233
 CHAPTER71NAME=640k
+
 ```
 
 ######『2022-07-03』 - 【UNARCHIVED KARAOKE】 + 4 Sips Of Soju [5utbgVjBt9c]
@@ -1548,6 +1567,7 @@ CHAPTER34=02:14:39.000
 CHAPTER34NAME=Payphone - Maroon 5
 CHAPTER35=02:16:21.000
 CHAPTER35NAME=18. Shiny Smily Story - hololive IDOL PROJECT
+
 ```
 
 ######『2022-07-11』 - im in my feels [GmDGL4K9oxM]
@@ -1665,8 +1685,8 @@ CHAPTER52=02:14:19.666
 CHAPTER52NAME=Ghosts - Mayday Parade (Acapella)
 CHAPTER53=02:15:44.500
 CHAPTER53NAME=The Only Exception - Paramore (Acapella)
-```
 
+```
 
 ######『2022-08-03』 - 【KARAOKE】Early Birthday Tunes !!! [Y_L8TusmUsU]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -1760,8 +1780,8 @@ CHAPTER42=03:20:25.567
 CHAPTER42NAME=Birthday Info
 CHAPTER43=03:24:06.000
 CHAPTER43NAME=Ending
-```
 
+```
 
 ***
 ######『2022-08-10』 - 【MEMBERS ONLY】Scuffed Guitar n Song Practice [P3fxfL2fQ9c]
@@ -1808,16 +1828,14 @@ CHAPTER14=00:43:20.350
 CHAPTER14NAME=Poems, Prayers And Promises - John Denver
 CHAPTER15=00:45:17.000
 CHAPTER15NAME=Let It Be - The Beatles
+
 ```
-
-***
 ######『2022-09-27』 - 【UNARCHIVED karaoke】I don't think my voice is strained now [QBLg9R7YOd4]
-[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+[Go back to the TOC](https://rentry.org/irdxq)
 ***
 
-***
 ######『2022-10-14』 - 【UNARCHIVED】mumei's turn to procrastinate [ajptD_dnhWA]
-[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+[Go back to the TOC](https://rentry.org/irdxq)
 ```
 CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
@@ -1905,9 +1923,11 @@ CHAPTER41=02:21:13.684
 CHAPTER41NAME=Akuma no Ko - Ai Higuchi (Acapella)
 CHAPTER42=02:24:34.717
 CHAPTER42NAME=Glassy Sky - Tokyo Ghoul (Acapella)
+
 ```
 
 ***
+
 ######『2022-10-31』 - 【KARAOKE】BOO [Uj8G1Tf2uGo]
 [Go back to the TOC](https://rentry.org/irdxq)
 
@@ -1942,11 +1962,95 @@ CHAPTER13=01:06:17.110
 CHAPTER13NAME=11. Do You Hear the People Sing? - Les Miserables
 CHAPTER14=01:08:57.220
 CHAPTER14NAME=Epilogue / Finale  - Les Miserables (Acapella)
+
 ```
 
 ######『2022-11-12』 - 【MEMBERS ONLY】Musical Karaoke !!! [cQoYAeZoQCY]
 [Go back to the TOC](https://rentry.org/irdxq)
 
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:32.480
+CHAPTER01NAME=Start
+CHAPTER02=00:08:35.550
+CHAPTER02NAME=01. Omigod You Guys - Legally Blonde The Musical
+CHAPTER03=00:19:48.160
+CHAPTER03NAME=02. Good Morning Baltimore - Hairspray
+CHAPTER04=00:25:06.000
+CHAPTER04NAME=03. You Can't Stop the Beat - Hairspray
+CHAPTER05=00:34:07.220
+CHAPTER05NAME=04. My Favorite Things - The Sound of Music
+CHAPTER06=00:41:53.410
+CHAPTER06NAME=I Miss You - Blink-182
+CHAPTER07=00:45:59.000
+CHAPTER07NAME=05. Candy Store - Heathers Musical
+CHAPTER08=00:49:55.040
+CHAPTER08NAME=Idol Meeting / What's New, Scooby-Doo? 
+CHAPTER09=00:53:09.080
+CHAPTER09NAME=Bring Him Home - Les Miserables (Test)
+CHAPTER10=00:56:17.190
+CHAPTER10NAME=The Confrontation - Les Miserables
+CHAPTER11=00:59:19.290
+CHAPTER11NAME=Fantine's Death - Les Miserables (Acapella)
+CHAPTER12=01:02:00.310
+CHAPTER12NAME=06. Satisfied - Hamilton
+CHAPTER13=01:08:13.420
+CHAPTER13NAME=07. All That Jazz - Chicago
+CHAPTER14=01:13:10.370
+CHAPTER14NAME=08. Dead Mom - Beetlejuice
+CHAPTER15=01:17:36.550
+CHAPTER15NAME=09. Seasons of Love - Rent
+CHAPTER16=01:22:34.470
+CHAPTER16NAME=All I Want For Christmas Is You - Mariah Carey
+CHAPTER17=01:25:45.230
+CHAPTER17NAME=Empty Chairs at Empty Tables (Acapella)
+CHAPTER18=01:26:26.100
+CHAPTER18NAME=10. Empty Chairs at Empty Tables - Les Miserables
+CHAPTER19=01:30:20.010
+CHAPTER19NAME=11. She Used To Be Mine - Sara Bareilles
+CHAPTER20=01:35:55.580
+CHAPTER20NAME=Singin' in the Rain - Mint Royale
+CHAPTER21=01:37:21.490
+CHAPTER21NAME=For Good - Wicked  (Acapella)
+CHAPTER22=01:37:50.240
+CHAPTER22NAME=As Long As You're Mine - Wicked
+CHAPTER23=01:39:56.300
+CHAPTER23NAME=12. For Good - Wicked
+CHAPTER24=01:47:07.210
+CHAPTER24NAME=Tomorrow - Annie (Acapella)
+CHAPTER25=01:48:38.170
+CHAPTER25NAME=13. Maybe - Annie
+CHAPTER26=01:51:48.440
+CHAPTER26NAME=Somewhere Out There
+CHAPTER27=01:53:19.500
+CHAPTER27NAME=14. Somewhere Out There - An American Tail
+CHAPTER28=01:59:31.210
+CHAPTER28NAME=Breaking Free - High School Musical (Acapella)
+CHAPTER29=02:00:50.230
+CHAPTER29NAME=Listen - Beyonce (Acapella)
+CHAPTER30=02:01:56.310
+CHAPTER30NAME=Take a Bow - Rihanna (Acapella)
+CHAPTER31=02:02:12.360
+CHAPTER31NAME=Gotta Go My Own Way - High School Musical 2 (Acapella)
+CHAPTER32=02:03:09.570
+CHAPTER32NAME=Take Me or Leave Me - Rent (Acapella)
+CHAPTER33=02:05:55.060
+CHAPTER33NAME=Looking Through Your Eyes - Quest for Camelot
+CHAPTER34=02:08:30.080
+CHAPTER34NAME=Through Heaven's Eyes - The Prince of Egypt
+CHAPTER35=02:11:15.050
+CHAPTER35NAME=15. Burn - Hamilton
+CHAPTER36=02:16:00.110
+CHAPTER36NAME=Silhouette - Kana-Boon (Acapella)
+CHAPTER37=02:18:39.560
+CHAPTER37NAME=Unison - Houshou Marine (Acapella)
+CHAPTER38=02:19:59.180
+CHAPTER38NAME=I'm Your Treasure Box - Houshou Marine (Acapella)
+CHAPTER39=02:22:21.170
+CHAPTER39NAME=Dear - 19's Sound Factory (Acapella)
+
+```
 
 ######『2022-11-24』 - gobble gobble [Leb3BUeM1l0]
 [Go back to the TOC](https://rentry.org/irdxq)
@@ -2056,6 +2160,7 @@ CHAPTER50=03:41:22.070
 CHAPTER50NAME=37. Since U Been Gone - A Day to Remember
 CHAPTER51=03:45:16.260
 CHAPTER51NAME=38. Godspeed (Sweet Dreams) - The Chicks
+
 ```
 
 ######『2022-12-07』 - 【歌枠 KARAOKE】JP SONGS ~ 日本語で歌ってみる ! [PpsZjdkMoxo]
@@ -2092,6 +2197,7 @@ CHAPTER13=01:43:56.420
 CHAPTER13NAME=10. A New Start - Nanashi Mumei
 CHAPTER14=01:59:27.080
 CHAPTER14NAME=11. Shiny Smily Story - hololive IDOL PROJECT
+
 ```
 
 ######『2022-12-15』 - 【KARAOKE ENDURANCE | 歌枠】Singing Until 765,000 Subscribers! ~ [qfhXe364ORY]
@@ -2204,11 +2310,230 @@ CHAPTER51=05:30:41.530
 CHAPTER51NAME=47. Give Me Love - Ed Sheeran
 CHAPTER52=05:37:04.370
 CHAPTER52NAME=Sono Saki e - RIRIKO (Acapella)
+
 ```
 
 ######『2022-12-20』 - 【UNARCHIVED KARAOKE | 歌枠】fa la la la la [PLhdRowsy8g]
 [Go back to the TOC](https://rentry.org/irdxq)
 
+```
+CHAPTER00=00:04:02.000
+CHAPTER00NAME=01. Jingle Bells
+CHAPTER01=00:08:28.000
+CHAPTER01NAME=02. The Twelve Days of Christmas
+CHAPTER02=00:13:59.000
+CHAPTER02NAME=03. Rudolph the Red-Nosed Reindeer
+CHAPTER03=00:16:53.000
+CHAPTER03NAME=04. Rockin Around the Christmas Tree - Brenda Lee
+CHAPTER04=00:20:03.000
+CHAPTER04NAME=05. Winter Wonderland
+CHAPTER05=00:22:34.000
+CHAPTER05NAME=06. Feliz Navidad - Jose Feliciano
+CHAPTER06=00:27:24.000
+CHAPTER06NAME=07. Santa Claus Is Coming to Town - The Jackson 5
+CHAPTER07=00:31:13.000
+CHAPTER07NAME=08. Santa Baby - Eartha Kitt
+CHAPTER08=00:36:15.000
+CHAPTER08NAME=09. Last Chirstmas - Taylor Swift
+CHAPTER09=00:40:49.000
+CHAPTER09NAME=10. All I Want For Christmas Is You - Mariah Carey
+CHAPTER10=00:46:11.000
+CHAPTER10NAME=11. Deck the Halls
+CHAPTER11=00:48:39.000
+CHAPTER11NAME=12. Baby, It's Cold Outside - Idina Menzel
+CHAPTER12=00:52:15.000
+CHAPTER12NAME=13. Jingle Bell Rock - Bobby Helms
+
+```
+***
+
+
+######『2023-01-19』 - 【歌枠 KARAOKE】JP SONGS ~ 日本語で歌ってみる ! [D2cFXO3p_SU]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+***
+
+######『2023-01-28』 - 【UNARCHIVED KARAOKE _ 歌枠】i'm in a mood [UemptqCn2aQ]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:02:02.590
+CHAPTER01NAME=Start
+CHAPTER02=00:03:45.510
+CHAPTER02NAME=01. Leaving on a Jet Plane - John Denver
+CHAPTER03=00:11:24.120
+CHAPTER03NAME=02. Forever & Always - Taylor Swift
+CHAPTER04=00:18:24.300
+CHAPTER04NAME=03. You Belong With Mei - Taylor Swift
+CHAPTER05=00:23:27.150
+CHAPTER05NAME=Fifteen - Taylor Swift
+CHAPTER06=00:28:07.100
+CHAPTER06NAME=04. Never Grow Up - Taylor Swift
+CHAPTER07=00:34:09.490
+CHAPTER07NAME=05. Love Story - Taylor Swift
+CHAPTER08=00:45:10.080
+CHAPTER08NAME=06. Dear John - Taylor Swift
+CHAPTER09=00:54:15.560
+CHAPTER09NAME=Stellar Stellar (Acapella)
+CHAPTER10=00:58:41.320
+CHAPTER10NAME=07. Jolene - Dolly Parton
+CHAPTER11=01:03:24.170
+CHAPTER11NAME=08. Stellar Stellar - Hoshimachi Suisei
+CHAPTER12=01:11:44.090
+CHAPTER12NAME=09. Disenchanted - My Chemical Romance
+CHAPTER13=01:21:26.360
+CHAPTER13NAME=10. Kanzen Kankaku Dreamer - ONE OK ROCK
+CHAPTER14=01:25:52.333
+CHAPTER14NAME=HoloFes
+CHAPTER15=01:28:08.682
+CHAPTER15NAME=The Longest Time
+CHAPTER16=01:29:24.533
+CHAPTER16NAME=Mukanjyo - Survive Said the Prophet (Acapella)
+CHAPTER17=01:31:08.166
+CHAPTER17NAME=The Forgotten song - Whoo (Acapella)
+CHAPTER18=01:33:02.533
+CHAPTER18NAME=Safe & Sound - Taylor Swift (Acapella)
+CHAPTER19=01:37:24.000
+CHAPTER19NAME=Mukanjyo - Survive Said the Prophet (Acapella)
+CHAPTER20=01:43:35.000
+CHAPTER20NAME=On My Own (JP Ver.) - Les Miserables (Acapella)
+
+```
+
+***
+
+######『2023-01-29』 - 【MEMBERS ONLY】歌枠  ACAPELLA SINGING ~ [c-WM9Agwv9s]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+***
+
+######『2023-02-07』 - 【UNARCHIVED KARAOKE _ 歌枠】Emo Songs [p5iIHjjITjA]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:02:10.616
+CHAPTER01NAME=Start
+CHAPTER02=00:05:50.270
+CHAPTER02NAME=01. Always - Blink-182
+CHAPTER03=00:13:12.010
+CHAPTER03NAME=02. All Signs Point to Lauderdale - A Day to Remember
+CHAPTER04=00:20:31.150
+CHAPTER04NAME=03. Disenchanted - My Chemical Romance
+CHAPTER05=00:28:30.190
+CHAPTER05NAME=04. Daylily - Movements
+CHAPTER06=00:33:18.320
+CHAPTER06NAME=05. The Middle - Jimmy Eat World
+CHAPTER07=00:37:06.270
+CHAPTER07NAME=Empty Space - The Story So Far
+CHAPTER08=00:38:08.000
+CHAPTER08NAME=06. Welcome to My Life - Simple Plan
+CHAPTER09=00:42:51.080
+CHAPTER09NAME=07. Untitled - Knuckle Puck
+CHAPTER10=00:48:23.080
+CHAPTER10NAME=08. Time Of Your Life (Good Riddance) - Green Day
+CHAPTER11=00:52:26.320
+CHAPTER11NAME=09. Jumper - Third Eye Blind
+CHAPTER12=01:00:28.260
+CHAPTER12NAME=10. If It Means a Lot to You - A Day to Remember
+CHAPTER13=01:05:48.370
+CHAPTER13NAME=11. I Don't Like Who I Was Then - The Wonder Years
+CHAPTER14=01:13:06.290
+CHAPTER14NAME=12. Can You Feel My Heart - Bring Me the Horizon
+CHAPTER15=01:18:00.420
+CHAPTER15NAME=13. Drown - Bring Me the Horizon
+CHAPTER16=01:24:19.580
+CHAPTER16NAME=Gives You Hell - The All-American Rejects
+CHAPTER17=01:25:22.500
+CHAPTER17NAME=14. My Immortal - Evanescence
+CHAPTER18=01:39:33.340
+CHAPTER18NAME=15. Sign - Flow
+CHAPTER19=01:43:55.350
+CHAPTER19NAME=16. Unravel - TK from Ling Tosite Sigure
+
+```
+
+***
+
+######『2023-02-14』 - 【UNARCHIVED KARAOKE _ 歌枠】It's Valentines Day !! [9bWgrpf0x9E]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:18.216
+CHAPTER01NAME=Start
+CHAPTER02=00:06:09.030
+CHAPTER02NAME=01. I'm Yours - Jason Mraz
+CHAPTER03=00:13:09.090
+CHAPTER03NAME=02. Have I Told You Lately That I Love You - Rod Stewart
+CHAPTER04=00:19:04.110
+CHAPTER04NAME=03. Somewhere Out There - An American Tail
+CHAPTER05=00:24:47.450
+CHAPTER05NAME=04. Stacy's Mom - Fountains of Wayne
+CHAPTER06=00:33:02.120
+CHAPTER06NAME=05. At Last - Etta James
+CHAPTER07=00:37:33.110
+CHAPTER07NAME=06. Burning Love - Elvis Presley
+CHAPTER08=00:42:24.220
+CHAPTER08NAME=07. The Only Exception - Paramore
+CHAPTER09=00:48:22.160
+CHAPTER09NAME=Idol Meeting / How Am I Supposed to Live Without You - Michael Bolton
+CHAPTER10=00:50:38.220
+CHAPTER10NAME=Mumei is back
+CHAPTER11=00:54:33.560
+CHAPTER11NAME=08. Begin Again - Taylor Swift
+CHAPTER12=01:03:07.190
+CHAPTER12NAME=Enchanted - Taylor Swift
+CHAPTER13=01:06:58.340
+CHAPTER13NAME=09. Kiss Me - Ed Sheeran
+CHAPTER14=01:16:51.190
+CHAPTER14NAME=10. Never Gonna Give You Up - Rick Astley
+CHAPTER15=01:22:19.529
+CHAPTER15NAME=11. You Are My Sunshine - Gene Autry
+CHAPTER16=01:30:32.346
+CHAPTER16NAME=12. Candy Man - Sammy Davis Jr.
+CHAPTER17=01:35:43.160
+CHAPTER17NAME=13. Helpless - Hamilton
+CHAPTER18=01:40:16.550
+CHAPTER18NAME=14. First Burn - Hamilton
+
+```
+***
+
+######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
+[Go back to the TOC](https://rentry.org/irdxq)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:31.799
+CHAPTER01NAME=Start
+CHAPTER02=00:06:59.539
+CHAPTER02NAME=01. Ghost Rule - deco*27
+CHAPTER03=00:14:50.000
+CHAPTER03NAME=02. Hibana - deco*27
+CHAPTER04=00:22:38.000
+CHAPTER04NAME=03. Blue Bird - Ikimonogakari
+CHAPTER05=00:27:10.000
+CHAPTER05NAME=DAYBREAK FRONTLINE - Orangestar
+CHAPTER06=00:31:56.000
+CHAPTER06NAME=04. The Beginning - ONE OK ROCK
+CHAPTER07=00:38:21.000
+CHAPTER07NAME=05. Kokoronashi - Chouchou-P
+CHAPTER08=00:45:08.510
+CHAPTER08NAME=06. Hitorinbo Envy - koyori
+CHAPTER09=00:51:08.000
+CHAPTER09NAME=FIRE - QUEEN BEE (Accapella)
+CHAPTER10=00:53:19.435
+CHAPTER10NAME=Shiny Smily Story - hololive IDOL PROJECT
+CHAPTER11=00:55:18.626
+CHAPTER11NAME=Idol - Yoasobi (Accapella)
+
+```
 
 ***
 

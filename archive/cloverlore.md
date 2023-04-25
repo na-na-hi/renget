@@ -6,7 +6,7 @@ Quick reference of all important events in timeline order to help writers, along
 	2. [Undated (Release Order)](https://rentry.org/cloverlore#undated)
 3. [Lore Bins](https://rentry.org/cloverlore#lore-bins)
 ####Timeline
-![Timeline](https://i.imgur.com/G6a68O6.png)
+![Timeline](https://i.imgur.com/Okw85xk.png)
 ####Locations
 A list of unique locations visited by guild members, or canon locations altered by guild members
 ######The Clover Guildhall
@@ -95,7 +95,8 @@ A trio of outlaws, Kiyo, Cassie, and Bean, join the Clover Guild as part of sche
 Smith begins a quest for power
 ######[Togetic's Recruitment (Togetic) (Intro)](https://rentry.org/tqb5q)
 Togetic is rescued by Team Cozy
-
+######[The Marvelous Carrot and Hazel Archive (Carrot) (Intro)](https://rentry.org/carrot-hazel-archive)
+Intro for Carrot and Hazel, plus personality blurbs
 ####Lore Bins
 List of bins focused entirely on lore
 ######[A Detailed Guide to Aura (KFC)](https://rentry.org/PMD_Aura)

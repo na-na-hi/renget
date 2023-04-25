@@ -1,6 +1,9 @@
 ## Tortoise finetuned models
 
 !!! info new!
+French language V2
+https://huggingface.co/Snowad/French-Tortoise
+
 Princess Merida from Brave
 https://huggingface.co/datasets/Bluebomber182/Princess-Merida-From-Brave/tree/main
 
@@ -25,9 +28,6 @@ Mary Sunderland (Silent Hill 2)
 Melina (Elden Ring)
 Mitsuru Kirijo (Persona 3)
 https://huggingface.co/ecker/tortoise-tts-models/tree/main/finetunes
-
-French language
-https://huggingface.co/Snowad/French-Tortoise
 
 Japanese language
 https://huggingface.co/ecker/tortoise-tts-models/tree/main/finetunes/japanese

@@ -13,11 +13,6 @@
 ![Capim Town (Background)](https://i.imgur.com/vUAvfn7.png)
 ####Team Oracle
 ![Team Oracle](https://i.imgur.com/P1EGK9c.png)
-####Clover of Future Past
-![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)
-####Presidents in PMD
-[ANIMATION](https://www.youtube.com/watch?v=kit8hHJZH1w)
-![Presidents in PMD](https://i.imgur.com/u09flyt.png)
 ####Phanpy & Friends
 ![Phanpy & Friends](https://i.imgur.com/ORhdhnB.png)
 ####Hogging the Dummy
@@ -214,6 +209,12 @@
 ![Sooraa Biimu](https://i.imgur.com/C9T5uhk.png)
 #####Sussy Elm
 ![Sussy Elm](https://i.imgur.com/s1BS4hC.png)
+####Growlithe-anon's Graphics
+#####Clover of Future Past
+![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)
+#####Presidents in PMD
+[ANIMATION](https://www.youtube.com/watch?v=kit8hHJZH1w)
+![Presidents in PMD](https://i.imgur.com/u09flyt.png)
 ####Kaiji's Goods
 #####Kris the Schizo Absol
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)

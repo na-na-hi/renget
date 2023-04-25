@@ -3,7 +3,7 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam | M | Meowstic | Larkspur (M) & Marigold (F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
+Lliam | M | Meowstic | Zorua (Larkspur, M) & Delphox (Marigold, F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (F) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
 Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charm/smokey)
 Booker | M | Ribombee | Sneasel (F) | Clover Guild Writer/Researcher/Scout | [Timid](https://rentry.org/vpmdcloverpb#booker)
@@ -14,10 +14,10 @@ KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.
 Kaiji  | M | Meowth, Alolan | Absol (Kris, M) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaiji)
 N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdclover#skiddo) *Pending*
 Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdclover#beast) *Pending*
-N/A | M | Phanpy | Cyndaquil, Torchic, Totodile | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
+N/A | M | Phanpy | Cyndaquil (M), Torchic (F), & Totodile (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
 N/A | M | Chespin | Wooper (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#chespinwooper)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye) *Pending*
-Casey | F | Raboot | | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
+Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
 Tybo | M | Skitty | N/A | Clover Guild Native Member |  [???](https://rentry.org/vpmdclover#tybo) *Pending*
 Acrab | M | Krabby | N/A | Clover Guild Member | Hasty
 Ross | M | Smeargle | N/A | Clover Guild Member | [Insomniac](https://rentry.org/vpmdcloverpb#ross)
@@ -29,14 +29,15 @@ N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | Vulpix, Alolan | Sandshrew (F) & Fletchling (M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
-Concord | M | Nickit | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#concord)
-Vivi | F | Sylveon | CC (Pikachu, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi)
-Avalon 'Ava' | F | Braixen | N/A | Clover Guild Affiliated/Bounty Hunter | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
+Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
 Tooca | F | Snivy | Axew (M) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Bullet | M | Noivern | Indeedee (Mimi, F, Careful) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bullet)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
+Concord | M | Nickit | N/A | [Clover Guild Affiliated Explorer](https://arch.b4k.co/vp/thread/53672956/#53679006) | [Quiet](https://rentry.org/vpmdcloverpb#concord)
 Adelaid | F | Voltorb | Drowzee (Dahpi, M)| Rescue Team | 
 Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | Careful
 Nigel | M | Absol | | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#Nigel)
@@ -181,13 +182,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Kiyo the Keokeo
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Lliam the Guildmeowster Meowstic
-	* [Encounter (ft. Lliam)](https://rentry.org/Encounter_Meowstic)
 	* [The Misadventures of Totodile (ft. Lliam & Solid Linoone)](https://rentry.org/TMoT)
 	* [A Message Board (ft. Lliam)](https://rentry.org/cq4k5) 
 	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
     * [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
     * [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
     * [Mysteriosity Study](https://rentry.org/Mysteriosity)
+    * [Unrelated to Clover Guild]
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -223,6 +224,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
+	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) *Not on Table*
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -310,6 +312,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Percival's Extended Introduction](https://rentry.org/uosgo9)
 * [Torchic Crosses the Alps](https://rentry.org/unesm)
 * [Encounter (ft. Not Ross)](https://rentry.org/226i97)
+* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

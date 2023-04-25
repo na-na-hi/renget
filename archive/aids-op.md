@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/YbX0w40.png)
-Omniterpe Edition
+![suggested OP image](https://imgur.com/osJZsmg.png)
+Pajama Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>427005327
+Last threads: >>427120382 >>427147830
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -30,11 +30,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United??? >>426997068
+\>(04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
+(04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
 (04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642
 (04/19) Henk rejects VCbuxx >>426491821 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
 (04/15) ChatGPT trash: https://games.skutteoleg.com/dreamio https://latitude.io/blog/ai-dungeon-to-test-chatgpt-through-azure
-(04/13) Imgenchads can't lose >>425603746 ; Not great not terrible? https://huggingface.co/spaces/BlinkDL/Raven-RWKV-7B
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
@@ -48,13 +48,14 @@ Write prompts about this week's theme, Size Difference Friday! >>426735929
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>[X]
 
-\>READ FIRST: https://i.imgur.com/LAsNqFe.png
+\>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
 ▶Ways to Write
-NovelAI — Paid, Remote SaaS: https://novelai.net
-KoboldAI — Free, Local or Remote Colab: https://koboldai.org / https://koboldai.org/colab
-KoboldAI Horde — Free, Remote generations from others hosting models: https://lite.koboldai.net
-LLaMA & Alpaca — Free, Local or Remote Colab: https://rentry.org/llamaaids
+NovelAI — Paid; remote SaaS: https://novelai.net
+KoboldAI — Free; local or remote colab: https://koboldai.org / https://koboldai.org/colab
+KoboldAI Horde — Free; remote generations from other model hosts: https://lite.koboldai.net
+Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united
+LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
 
 ▶Tools & Resources
 Wiki: https://aids.miraheze.org/wiki/Main_Page
@@ -67,11 +68,10 @@ Abandon AI Dungeon! https://rentry.org/remember-what-they-took-from-you
 Chatshit: https://rentry.org/chataids
 Imgen: https://rentry.org/AIDSimg
 Avoid: CharacterAI, Dreamily, OpenAI, Paperspace, Pirr, Sudowrite
-For AI Roguelite, voice, full avoid list & more:
-https://rentry.org/aids-alts
+For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 
 ▶https://rentry.org/aids-op
-
+ 
 ▶News
 \>(M/DD) New items get to be green.
 (M/DD) Items with the same date go on the same line. Trim news according to importance, rather than date. Condense news by topic (NAI, Kobold, etc.)

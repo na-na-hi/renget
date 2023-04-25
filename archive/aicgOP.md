@@ -74,6 +74,7 @@ https://rentry.org/sillytermux [Silly extras. Phone]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 alwaysfindtheway.github.io [Proxy checker]
 https://rentry.org/oaicards [Bot Making]
+https://github.com/AmmoniaM/Spermack [Ruski Claude]
 --Replace this with recent news please--
 
 Previous: --last thread--
@@ -93,10 +94,11 @@ A general dedicated to discussion & development of AI Chatbots.
 
 >News/Meta
 --News here--
+https://github.com/AmmoniaM/Spermack [some russian tavern slack claude hack]
 rentry.org/agnai_reverse_proxy [Proxy guide. agnai, video included]
 rentry.org/Tavern4Retards [Proxy guide. Tavern]
 rentry.org/sillytermux [Silly extras. Phone]
-rentry.org/MothsBotMakingStuff [Bot Making]
+rentry.org/oaicards [Bot Making]
 rentry.org/aicg_meta [/aicg/ model assessment]
 rentry.org/Brazilnumeroum [Send your logs for llama tune]
 rentry.org/aicgOP [OP templates for easy baking]
@@ -145,8 +147,6 @@ https://docs.miku.gg/
 https://rentry.org/mikugg
 >Get texts from your waifu
 http://rentry.org/waifutext
->Thread summarizer
-https://kagi.com/summarizer/index.html
 
 Previous: --Last thread here--
 ```
@@ -210,7 +210,8 @@ https://rentry.org/mikugg
 http://rentry.org/waifutext
 
 ▶Meta
-Dump your gpt4 logs into brazilian bussy: https://rentry.org/Brazilnumeroum
+logs for brazil bussy: https://rentry.org/Brazilnumeroum
+russian claude: https://github.com/AmmoniaM/Spermack
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 silly extras on mobile: https://rentry.org/sillytermux

@@ -109,7 +109,6 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 23/04
-8192 | Mesugaki | Open as of 13/04
 11162 | Rats | Open as of 20/04
 
 ##### Full
@@ -129,6 +128,7 @@ Club ID | Club Name | Club Status
 6294 | Lucklets | Full as of 12/04
 6665 | F2Poor | Full as of 07/04
 6786 | Enuji | Full as of 30/09
+8192 | Mesugaki | Full as of 24/04
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 

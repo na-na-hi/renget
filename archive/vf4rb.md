@@ -25,6 +25,7 @@ https://rentry.org/caeua   Extra : I'd RATher die (Starring : Someone, Includes 
 https://rentry.org/bm2v9 Extra : You forced my hand. (Starring : Someone, Includes : Megamelons)
 https://rentry.org/nyema  Extra : Gryffindor vs Hufflepuff (Includes : Amelia, Haitham, Ava, Matthew, Elizabeth, Heather, Alice)
 https://rentry.org/9xd48    Extra : A brief history of Megamelons
-https://rentry.org/ztsww   Extra : Saving Penthesilia Parley (Includes: Many anons)
+https://rentry.org/ztsww   Extra : Saving Penthesilia Parley (Includes : Many anons)
 
+https://rentry.org/mt832  Extra: A Blessing in Disguise (Includes  : Margaret's parents) *WARNING: Heavy romance* 
 https://rentry.org/v94ys Extra : ??? (Starring : Someone) *WARNING: Bullying*  only added for archiving's sake, I did NOT like writing this at all.

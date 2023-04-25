@@ -151,6 +151,10 @@ SifAvellana[EN]
 https://twitter.com/sifavellana
 https://www.twitch.tv/sifavellana
 
+AkiajiMargo[EN]
+https://twitter.com/akiajimargo
+https://www.twitch.tv/akiajimargo
+
 Maroony[EN]
 https://twitter.com/maroony_ch
 https://www.twitch.tv/maroony
@@ -198,10 +202,65 @@ nightmairu[EN]
 https://twitter.com/nightmairu
 https://www.twitch.tv/nightmairu
 
+KayukoVT[EN]
+https://twitter.com/kayukoVT
+https://www.twitch.tv/tentxclee\
+
+Pema[EN]
+https://twitter.com/PemaMysterious
+https://www.twitch.tv/pema
+
+Ichigolemonade[EN]
+https://twitter.com/ichigolemonade_
+http://twitch.tv/ichigolemonade_
+
+AurabunVT[EN]
+https://twitter.com/AurabunVT
+https://www.twitch.tv/aurabun
+
+HolyPupperVT[EN]
+https://twitter.com/HolyPupperVT
+https://www.twitch.tv/holypupperri/
+
+ReichuTV[EN]
+https://twitter.com/ReichuTV
+https://www.twitch.tv/ReichuLIVE/
+
+Toriidoki[EN]
+https://twitter.com/Toriidoki
+https://www.twitch.tv/toriidoki
+
+Kiki_Nene_[EN]
+https://twitter.com/kiki_nene_
+http://twitch.tv/kiki_nene_
+
+Yanabells[EN]
+https://twitter.com/yanabellsexe
+https://www.twitch.tv/yanabells
+
+Sulkycats[EN]
+https://twitter.com/sulkycats
+https://www.twitch.tv/sulkycats
+
+SilverDawnbreak[EN]
+https://twitter.com/SilverDawnbreak
+https://www.twitch.tv/silver_dawnbreak
+
+EUREKA X49 四九ゆりかch[EN]
+https://twitter.com/eurekax49
+https://www.youtube.com/@eurekax49/
+
 ***
 ##->Other Vtubers<-
 BunnyBlasty[ES]
 https://twitter.com/OneBunnyQueen
 https://www.twitch.tv/bunnyblasty
+
+
+Parkdona ch. 박도나[KR]
+https://twitter.com/parkdonakr
+https://www.twitch.tv/pdona_d
+https://www.youtube.com/@ParkDona211
+
 ***
 [TOC2]

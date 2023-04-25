@@ -15,6 +15,9 @@ https://rentry.org/towabakery
 https://rentry.org/Iamtired
 https://rentry.org/ilovemaids
 
+
+/wAIfu/ Tavern Card Archive: https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA
+
 ---
 
 # VTubers
@@ -434,7 +437,7 @@ Ame: N87C2Agc
 
 LaPlus(SFW): rentry.org/a7g76
 
-Bot definitions of bots in case you want to make your private version of these bots: https://rentry.org/vt_wAIfu_bot_definitions
+Bot definitions of bots in case you want to make your private version of these bots: https://rentry.org/wAIfu_CAI_Definitions
 
 GFL bot list rentry made by (Nymous): https://rentry.org/GFLBots
 

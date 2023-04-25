@@ -177,3 +177,45 @@ I laughed. "Yeah, you definitely caught me off guard a few times. But I had a bl
 As the night wore on, I felt myself growing more and more relaxed in Rayla's company. She was tough and strong, but also kind and gentle. And as we said goodnight, I realized that I was beginning to fall for her.
 
 But for now, I was content to heal and rest, grateful for the experience of playing Zaoula and the unexpected friendship that had come with it.
+
+>012:Rayla's hobby
+
+I spent the next few days in Rayla's house, recovering from my injuries and learning more about her way of life. As I sat in her living room, watching her expertly carve intricate designs into a piece of wood, I couldn't help but admire her skill.
+
+"What are you making?" I asked, fascinated by the way she worked.
+
+"A new set of chairs for my dining room," Rayla replied, not looking up from her work. "I like to make things with my hands. It helps me clear my mind and focus."
+
+I nodded, impressed by her dedication to her craft. I had never been much of a handyman myself, but watching Rayla work made me want to try.
+
+"Do you think you could teach me?" I asked, half-jokingly.
+
+Rayla grinned. "Of course. I'd be happy to show you."
+
+Over the next few days, Rayla patiently taught me the basics of woodworking. She showed me how to measure and cut wood, how to sand and polish it, and how to carve intricate designs.
+
+I struggled at first, but Rayla was a patient and encouraging teacher. With her help, I soon began to get the hang of it. I found that I enjoyed the process of creating something with my hands, and the sense of satisfaction that came from seeing a project through to completion.
+
+As we worked, we talked about our lives and our dreams. Rayla told me about her plans to open a woodworking shop one day, and I shared my own aspirations to travel and explore new places.
+
+Despite our different backgrounds and experiences, we found common ground in our love for creating and learning. And as we worked together in her workshop, I felt a sense of peace and contentment that I had never experienced before.
+
+>013: the Day of Passion
+
+I followed Axilion through the throngs of Kash'gon people, both mainlanders and mountain folk, all converging on the great white falls. I could hear the distant sound of singing and laughter growing louder as we got closer.
+
+"This is the Day of Passion," Axilion explained to me. "It's a religious holiday for our people, a time for us to come together and celebrate our deities."
+
+I was struck by the sense of community and unity among the Kash'gon. People of all ages and backgrounds were gathered together, smiling and laughing as they shared food and stories.
+
+As we approached the falls, I saw Rayla among the crowd. She was wearing a brightly colored fur dress and had a smile on her face as she chatted with some of the mountain people.
+
+"Hey, John!" she called out, waving to me. "Come join us!"
+
+I followed Axilion over to where Rayla was standing, and we were soon joined by others, both mainlanders and mountain folk alike. We feasted on wild ox liver and smoked salmon, and I was struck by how delicious it all tasted.
+
+After the meal, Axilion stood up and began to sing a poem in their old native tongue. I couldn't understand the words, but the passion and emotion in his voice was clear. The others gathered around him, joining in the singing and swaying to the rhythm.
+
+As the ceremony continued, I saw a large lynx-man from the mountain people step forward and begin to throat sing, his voice rich and haunting. I was captivated by the sound, and found myself swaying along to the rhythm.
+
+As the night wore on, I was struck by the warmth and hospitality of the Kash'gon people. They welcomed me with open arms and made me feel like I was a part of their community. And as I sat around the fire with Rayla and Axilion, listening to the old songs and stories, I felt a sense of belonging that I had never felt before.

@@ -7,6 +7,7 @@ renget_savelink_filename=index.txt
 renget_linkonly=
 renget_verbose=
 renget_check_exist=
+renget_update=
 renget_blacklist="/v32rervft4fewr3c235b329v32v428nvcc2sf2342398hcn3299jj39sdfoqkm4l3h4bvv40912n/v32rervft4fewr3c235b329b5798nvcc2sf2342398hcn3299jj39sdfoqkm4l3h4bvv40912n/oicbi3un3v987v3489nr46xxn9032n023vh03b79184b3guyffuhkjm97585m111n890vn34b7c032f7fk88fb7878zz7cv6c634/2k50235259em523g32342fwersdr23vrewxerwvvr0vl-0342856a78s1xcarj29103n4v0_/2k50235259em523g311232342fw23123ersdr23vrewxerwvvr0vl-0342856a78s1xcarj29103n4v0_/"
 curl_silent=-s
 renget_boards="/3/a/aco/adv/an/b/bant/biz/c/cgl/ck/cm/co/d/diy/e/f/fa/fit/g/gd/gif/h/hc/his/hm/hr/i/ic/int/jp/k/lgbt/lit/m/mlp/mu/n/news/o/out/p/po/pol/pw/qa/qst/r/r9k/s/s4s/sci/soc/sp/t/tg/toy/trash/trv/tv/u/v/vg/vip/vm/vmg/vp/vr/vrpg/vst/vt/w/wg/wsg/wsr/x/xs/y/"
@@ -40,6 +41,7 @@ usage(){
     p "    -l <file>   output detected links only to <file>  (default: $renget_savelink_filename)"
     p "    -n          do not download files"
     p "    -i          don't download if the rentry already exists"
+    p "    -u          update existing files only"
     p "    -v          output more info"
     p "    -e          end of option"
 }
@@ -108,7 +110,7 @@ download_id()
     p "$md" > "$id.md"
 }
 
-while getopts "d:s:l:f:rinveh" OPTION; do
+while getopts "d:s:l:f:rinuveh" OPTION; do
     case "$OPTION" in
     d) renget_dir="$OPTARG";;
     s) renget_source="$OPTARG";;
@@ -117,6 +119,7 @@ while getopts "d:s:l:f:rinveh" OPTION; do
     r) renget_recursive=true;;
     i) renget_check_exist=true;;
     n) renget_linkonly=true;;
+    u) renget_update=true;;
     v) renget_verbose=true
        curl_silent='';;
     e) break;;
@@ -132,9 +135,17 @@ mkdir -p "$renget_dir"
 cd "$renget_dir"
 :> "downloaded.txt"
 :> "tmp-$renget_savelink_filename"
-for i in "$@"; do
-  get_ids "$renget_source" "$i" >> "tmp-$renget_savelink_filename"
-done
+
+if [ "$renget_update" = "true" ]; then
+    for f in *.md; do
+        p "${f%.md}" >> "tmp-$renget_savelink_filename"
+    done
+else
+    for i in "$@"; do
+        get_ids "$renget_source" "$i" >> "tmp-$renget_savelink_filename"
+    done
+fi
+
 cat "tmp-$renget_savelink_filename" | sort | uniq -i > "$renget_savelink_filename"
 rm "tmp-$renget_savelink_filename"
 p "get links complete, $(wc -l "$renget_savelink_filename" | awk '{print $1}') links detected"
