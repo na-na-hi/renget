@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+A guild member teaching newbie guild members (w/ whiteboard? idk), about the basics of Mystery Dungeons 
+
 Sneasel or any other mon flying up a kite with booker being strapped onto said kite
 
 Kiyo and the others entering the guild for the first time

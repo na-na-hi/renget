@@ -2,6 +2,7 @@
 
 WHOCARS/HF VIDEO TUTORIAL: https://files.catbox.moe/5f1x3y.webm
 TODD VIDEO TUTORIAL: https://files.catbox.moe/hsshni.webm
+Off-topic but I don't really have anywhere else to share it: Video setting up Claude 1.2 (requires API key) https://files.catbox.moe/ui72un.mp4
 
 ## agnai.chat
 

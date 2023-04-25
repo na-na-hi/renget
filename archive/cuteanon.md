@@ -6,7 +6,7 @@ CARDS (still learning this):
 
 Direct C.AI ports:
 ![Super Mario](https://files.catbox.moe/c68m8x.png)
-
+![Donkey Kong -kart-](https://files.catbox.moe/ct2dtw.png)
 ![Doremy Sweet](https://files.catbox.moe/j34s8n.png)
 
 CHARACTER.AI:

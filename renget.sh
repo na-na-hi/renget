@@ -105,7 +105,7 @@ download_id()
     md=$(get "https://rentry.org/$id/raw")
     fail && p "download rentry md failed" && exit 1
     p "$md" | grep -q '<title>Error</title>' && p "download rentry md $id failed" && return 1
-    p "$md" > "$id.md"
+    p "$md" -o "$id.md"
 }
 
 download_ids_aria2()
