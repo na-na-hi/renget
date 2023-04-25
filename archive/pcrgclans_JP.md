@@ -15,7 +15,7 @@ FlatChests (26/30)| A clan of refined tastes. No hags or trannies allowed.  幼�
 Wide Hips (30/30)| Delicious child-bearing hips are what the world needs. | Casual | 1640 |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
 Fun Island (29/30) | Kokkoro is the cutest. | Casual | N/A |  Just be yourself. + tag in profile
 Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | N/A | -
-つるぺったん (9/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | N/A |  -
+つるぺったん (10/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | N/A |  -
 Looplets (15/30) | 100% /pcrg/ | Casual | N/A |  Just have fun with the game. Not aiming for glory or ranks just yet.
 
 

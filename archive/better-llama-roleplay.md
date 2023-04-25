@@ -1,13 +1,19 @@
 # Anon's Guide to LLaMA Roleplay
 
-This is intended to be a simple and straightforward guide showcasing how you can use prompting to make LLaMA models produce longer outputs that are more conducive to roleplay in [TavernAI](https://github.com/Cohee1207/SillyTavern). It's possible that this strategy may work with other models, but I have not tested other models.
+This is intended to be a simple and straightforward guide showcasing how you can use prompting to make LLaMA models produce longer outputs that are more conducive to roleplay in [SillyTavern](https://github.com/Cohee1207/SillyTavern). It's possible that this strategy may work with other models, but I have not tested other models.
 
 !!! note Something to note
 	The quality of your outputs are going to depend on the model that you choose. I did my testing with [LLaMA-13B-pretrained-sft-do2-4bit-128g](https://huggingface.co/gozfarb/llama-13b-pretrained-sft-do2-4bit-128g), which worked well, but don't go in expecting GPT-4 quality. Keep your expectations grounded in reality.
 
 ## Method 1: Non Alpaca Models
 1. Go to the 'public' folder of your Tavern install
-2. Open up script.js and scroll down to line 1773 (the " // add non-pygma dingus else if (!is_pygmalion) {" line)
+2. Open up script.js and scroll down to the following lines:
+```python
+            // add non-pygma dingus
+            else if (!is_pygmalion) {
+                mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
+            }
+```
 3. Replace what's inside the curly brackets with the following:
 ```python
 if (main_api == 'textgenerationwebui' || main_api == 'kobold') {

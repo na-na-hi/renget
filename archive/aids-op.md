@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/osJZsmg.png)
-Pajama Edition
+![suggested OP image]()
+Anniversary Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last threads: >>427120382 >>427147830
+Last thread: >>427358572
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -30,11 +30,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
+\>(04/27) Two years later, remember what they took from you. https://i.imgur.com/VK3mt6T.mp4
+(04/25) Mom: "We have chatGPT at home" https://huggingface.co/chat
+(04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
 (04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
-(04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642
-(04/19) Henk rejects VCbuxx >>426491821 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
-(04/15) ChatGPT trash: https://games.skutteoleg.com/dreamio https://latitude.io/blog/ai-dungeon-to-test-chatgpt-through-azure
+(04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks

@@ -61,6 +61,7 @@
 04/2023|[Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
 04/2023|[Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)
 04/2023|[Low-code LLM: Visual Programming over LLMs](https://arxiv.org/abs/2304.08103)
+04/2023|[WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)

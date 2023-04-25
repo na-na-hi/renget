@@ -1,10 +1,14 @@
-#[/llst/ - Love Live Seiyuu Thread](#)
+#[/llst/ - Love Live Seiyuu Thread](https://www.youtube.com/watch?v=TVFw7ecocjc)
 -> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
 ##Changelog:
+==2022-4-26==
+- filters, thread template, and disclaimer added
+
 ==2022-4-25==
 - Ideal links updated
 - Added Nijigasaki Fanmeet concert link
+- new seiyuu info format rework is now a go 
 
 ==2022-4-23==
 - maintainer updated. I killed the other one. :darktrollface:
@@ -15,9 +19,6 @@
 
 ==2022-3-26==
 - Coco Hayashi (setsuna replacement) added
-
-==2022-3-7==
-- Hasunora VAs added
 
 
 ***
@@ -41,17 +42,54 @@
 
 **Love Live Fansites:**
 [LLfrens (JP)](https://ll-fans.jp/)
-[Love Live Plebbit](https://www.reddit.com/r/LoveLive/)
+[Love Live Plebbit](https://www.reddit.com/r/LoveLive/) (⚠**Warning: cancer**)
 [LATAM-run Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
-[idol.st](https://idol.st/) (⚠Warning: cancer)
-
+[idol.st](https://idol.st/) (⚠**Warning: cancer**)
+[**Unofficial /llst/ discord:**](https://discord.gg/6As836P9rN)
 ##Previous versions:
 https://rentry.org/llst-2021-02-bkup
-https://rentry.org/llst-2022-06-arch
-https://rentry.org/llst-2022-07-arch
-https://rentry.org/llst-2022-08-arch
 ***
+##Thread Template
+!!! note When making a new thread:
+	- dont be an idiot 
+    - follow the template below
+	- **DON'T MIX UP THE SUBJECT AND NAME FIELDS YOU FUCKING NO LIFER BOOMER**
+ 	- wait patiently until the bump limit has been reached (>300 posts, page 10)
+		- [unless you want to gain the ire of the jannies...](https://i.kym-cdn.com/photos/images/newsfeed/001/828/669/6ee.gif)
 
+**SUBJECT FIELD**
+Love Live! Seiyuu Thread #XXX
+
+**COMMENT FIELD**
+Information for live shows and viewings:
+https://lovelive-anime.jp
+https://twitter.com/LoveLive_staff
+
+SNS and concerts:
+https://rentry.org/llst-2022-new
+
+https://discord.gg/TZwԁqbStej
+
+Previous: >>694201488 (# of previous thread)
+
+***
+##Thread QoL (Quality of Life) Filter
+!!! note Recommended
+	4chanx is recommended when applying these filters
+``` javascript
+#/jp/ QoL Troll spammer filter
+/shitter|troll/i;boards:jp;subject:love live
+/yudu/i;boards:jp;subject:love live
+/mippi/i;boards:jp;subject:love live
+/ibuki/i;boards:jp;subject:love live
+/so now what/i;boards:jp;subject:love live
+/miumi/i;boards:jp;subject:love live
+/rinna/i;boards:jp;subject:love live
+/mizuki/i;boards:jp;subject:love live
+/feral|nao/i;boards:jp;subject:love live
+```
+
+***
 ##Seiyuu Information, Links & SNS
  
 ###🌸🌸 µ's Seiyuu 🌸🌸
@@ -260,15 +298,15 @@ https://www.youtube.com/@officialyoutubechannel5539
 ###✨✨ Liella! Seiyuu ✨✨
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
-**Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[[1]](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
-**Aya Emori  絵森彩**|Emorin, Aya(-chan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/)|[[1]](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
-**Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn) - [Weibo](https://weibo.com/u/2955896132) - [Bilibili](https://space.bilibili.com/4549624/) |[[1]](https://img.moegirl.org.cn/common/4/47/Liyuu%E5%85%AC%E5%BC%8F%E7%85%A7.jpg)
-**Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) - [Twitter](https://twitter.com/_Naomi_Payton_) - [Instagram](https://www.instagram.com/_naomi_payton_) | [[1]](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
-**Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) | [[1]]()
-**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998/99 (See below)|[Artist website](https://lantis.jp/misakinako/) - [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) - [Twitter](https://twitter.com/MisakiNako_) - [Line SNS](https://page.line.me/124ydyji ) | [[1]]()
-**Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|September 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [[1]]()
-**Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [[1]]()
-**Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[[1]]()
+**Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
+**Aya Emori  絵森彩**|Emorin, Aya(-chan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/)|[📷](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
+**Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn) - [Weibo](https://weibo.com/u/2955896132) - [Bilibili](https://space.bilibili.com/4549624/) |[📷](https://img.moegirl.org.cn/common/4/47/Liyuu%E5%85%AC%E5%BC%8F%E7%85%A7.jpg)
+**Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) - [Twitter](https://twitter.com/_Naomi_Payton_) - [Instagram](https://www.instagram.com/_naomi_payton_) | [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
+**Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) | [📷]()
+**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998/99 (See below)|[Artist website](https://lantis.jp/misakinako/) - [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) - [Twitter](https://twitter.com/MisakiNako_) - [Line SNS](https://page.line.me/124ydyji ) | [📷]()
+**Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|September 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [📷]()
+**Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [📷]()
+**Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[📷]()
 
 - Nako Misaki's birth year is undisclosed, with fans speculating a birth year of [1998](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) or [1999](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2).
 
@@ -659,7 +697,7 @@ https://nyaa.si/view/1613034
 ***
 
 ## RANDOM LINKS 
-**Unofficial /llst/ discord:** https://discord.gg/6As836P9rN
+
 **Komiya Arisa PB/Photo linkdump:** https://rentry.org/llst-arishasashin
 
 **Misc Videos, Links, and Photos**
@@ -858,6 +896,10 @@ December 22 - Tomori Kusunoki
 December 23 - Hinata Sato
 December 26 - Sora Tokui
 ***
+-> **Disclaimer: all content here are hosted offsite, publicly available official information and media that qualifies under the area of fair use and does not in any way violate local or Japanese copyright laws.**<- 
+->**免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。**<-
+->**さらに、このページでは、著作権のルールに違反することがないことを保証しています。**<-
 
--> Credits to former pastebin anon for his work <-
+
+-> Credits to former pastebin anon for his work and to all the wonderful people of /llst/!<-
 -> Currently maintained by: ==**cocosginormousmilkers** !!mNcwlMFpnaU==<-

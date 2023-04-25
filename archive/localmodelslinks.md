@@ -7,6 +7,7 @@
 [Example Fine Tune Walkthrough](https://archive.ph/308gG)|Shows use of custom dataset and how to use it to fine tune a model 
 [Example LoRa Walkthrough](https://archive.ph/XPezc)|Huggingface's StackLLaMa with their lora_config settings 
 [4-bit LoRA Training Notebook](https://gist.github.com/kaiokendev/1e735debbad8bf793e119bbc98f40c54)|LoRA tune on Colab 
+[Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|guide to longer outputs more conducive to roleplay in TavernAI
 |
 **Models**|
 [Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models. Link is for LLaMa currently
@@ -48,7 +49,6 @@
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting 
 [Alpaca's Instruction](https://archive.ph/Wkmzr)|Image of the root verbs and objects for Alpaca specifically. 
-[Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|guide to longer outputs more conducive to roleplay in TavernAI
 [RPBT Prompt](https://rentry.org/RPBT)|anon's prompt that allows for OOC dialogue and for the bot to play as different NPCs 
 |
 **GPU Gits**|
