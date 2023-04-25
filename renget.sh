@@ -17,7 +17,7 @@ renget_boards="/3/a/aco/adv/an/b/bant/biz/c/cgl/ck/cm/co/d/diy/e/f/fa/fit/g/gd/g
 #bigboards: d, e, h, vg, vt, g, trash
 
 p(){
-    printf "%s\n" "$*"
+    printf '%s\n' "$*"
 }
 
 die(){
@@ -67,7 +67,7 @@ get_ids_from_chan()
     board="$1"
     inf "getting ids from board $board..."
     json=$(get "https://a.4cdn.org/$board/catalog.json")
-    fail && p "download board json failed" && exit 1
+    fail && die "download board $board json failed"
     p "$json" | jq -r '.[].threads[].com' | format_text | filter_links
 }
 
@@ -76,7 +76,7 @@ get_ids_from_rentry()
     id="$1"
     inf "getting ids from rentry $id..."
     md=$(get "https://rentry.org/$id/raw")
-    fail && p "download rentry md failed" && exit 1
+    fail && die "download rentry md $id failed"
     p "$md" | grep -q '<title>Error</title>' && inf "download rentry md $id failed"
     p "$md" | filter_links
 }
@@ -103,7 +103,7 @@ download_id()
     id="$1"
     inf "getting rentry $id..."
     md=$(get "https://rentry.org/$id/raw")
-    fail && p "download rentry md failed" && exit 1
+    fail && p "download rentry md $id failed" && return 1
     p "$md" | grep -q '<title>Error</title>' && p "download rentry md $id failed" && return 1
     p "$md" -o "$id.md"
 }
@@ -152,12 +152,12 @@ else
     done
 fi
 
-cat "tmp-$renget_savelink_filename" | sort | uniq -i > "$renget_savelink_filename"
+sort < "tmp-$renget_savelink_filename" | uniq -i > "$renget_savelink_filename"
 rm "tmp-$renget_savelink_filename"
 p "get links complete, $(wc -l "$renget_savelink_filename" | awk '{print $1}') links detected"
 [ "$renget_linkonly" = "true" ] && exit 0
 
-for id in $(cat "$renget_savelink_filename"); do
+while read -r id; do
     if [ "$renget_check_exist" = "true" ] && [ -f "$id.md" ]; then
         inf "$id already exists"
         continue
@@ -177,11 +177,11 @@ for id in $(cat "$renget_savelink_filename"); do
         download_id "$id"
     fi
     p "$id" >> "downloaded.txt"
-done
+done < "$renget_savelink_filename"
 
 [ "$renget_use_aria2" = "true" ] && download_ids_aria2 "aria2-$renget_savelink_filename"
 
-[ "$renget_recursive" != "true" ] && exit 0
+[ "$renget_recursive" != "true" ] && rm -- *.txt && exit 0
 
 flag="true"
 
@@ -194,11 +194,11 @@ while [ "$flag" = "true" ]; do
     for file in *.md; do
         get_ids_from_file "$file" >> "tmp-$renget_savelink_filename"
     done
-    cat "tmp-$renget_savelink_filename" | sort | uniq -i | grep . > "rec-$renget_savelink_filename"
+    sort < "tmp-$renget_savelink_filename" | uniq -i | grep . > "rec-$renget_savelink_filename"
     rm "tmp-$renget_savelink_filename"
     p "get links complete, $(wc -l "rec-$renget_savelink_filename" | awk '{print $1}') links detected"
     
-    for id in $(cat "rec-$renget_savelink_filename"); do
+    while read -r id; do
         if [ "$renget_check_exist" = "true" ] && [ -f "$id.md" ]; then
             inf "$id already exists"
             continue
@@ -223,9 +223,9 @@ while [ "$flag" = "true" ]; do
             download_id "$id"
         fi
         p "$id" >> "downloaded.txt"
-    done
+    done < "rec-$renget_savelink_filename"
     
     [ "$renget_use_aria2" = "true" ] && download_ids_aria2 "aria2-$renget_savelink_filename"
 done
 
-rm *.txt
+rm -- *.txt
