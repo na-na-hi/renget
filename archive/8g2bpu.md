@@ -1,5 +1,29 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Kiyo and the others entering the guild for the first time
+
+Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance
+
+Jimmy decorating the interior of the chest
+
+Chespin holding Wooper like a gun
+
+Raboot and KFC doing a spar together
+
+Gus calmly sitting at the docks
+
+Beast holding a butcher knife as he witnessed someone eating at the pantry
+
+Sableye cooking in a cauldron
+
+Guild members (artist's choice) playing in the rain [claimed/claiming this one but i think other people doing it would be fun also if you wanna do it too]
+
+Tocca (Snivy) and Lapi (Axew) doing gardening
+
+Linoone doing parkour around Capim Town to deliver a package 
+
+A group of members (artist's choice) riding on Percival as they soar through the sky
+
 Booker learning to fly
 
 Togetic cleaning the storage room 

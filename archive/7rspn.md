@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>155th Marine Brigade /w Bandit visit DPR orphanage
+https://files.catbox.moe/y4cs7g.mp4
+>AFU soldiers one of the islands near Kherson catch two UMPK FAB-500
+https://files.catbox.moe/ktw07e.mp4
 >Destruction of an AFU position near Hulyaipole Гуляйполем
 https://files.catbox.moe/8h6970.mp4
 >Industrial zone in Belogorovka being hit by TOS

@@ -15,7 +15,7 @@
 !!!info Updates
 	>==Audio== 
 	>==Chapters== - 04/25 - Added [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0)
-	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0_1)
+	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0_1) - **I updated the timestamps after the vod got trimmed**
 	>==Mumei Radio== - 03/25 - Updated- https://rentry.org/Mumei-Radio
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== 
@@ -2527,7 +2527,7 @@ CHAPTER18NAME=14. First Burn - Hamilton
 
 ######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
 [Go back to the TOC](https://rentry.org/Mumei-Karaoke)
-
+For the original vod before she trimmed it
 ```
 CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
@@ -2546,7 +2546,7 @@ CHAPTER06NAME=04. The Beginning - ONE OK ROCK
 CHAPTER07=00:38:21.000
 CHAPTER07NAME=05. Kokoronashi - Chouchou-P
 CHAPTER08=00:45:08.510
-CHAPTER08NAME=06. Hitorinbo Envy - koyori
+CHAPTER08NAME=Hitorinbo Envy - koyori
 CHAPTER09=00:51:08.000
 CHAPTER09NAME=FIRE - QUEEN BEE (Accapella)
 CHAPTER10=00:53:19.435
@@ -3519,16 +3519,16 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 ######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
 [Go back to the TOC](https://rentry.org/Mumei-Karaoke)
 >Timestamps
-01. [Ghost Rule - deco*27](https://youtu.be/Wj2B3n8XjV0?t=419)
-02. [Hibana - deco*27](https://youtu.be/Wj2B3n8XjV0?t=890)
-03. [Blue Bird - Ikimonogakari](https://youtu.be/Wj2B3n8XjV0?t=1358)
+01. [Ghost Rule - deco*27](https://youtu.be/Wj2B3n8XjV0?t=417)
+02. [Hibana - deco*27](https://youtu.be/Wj2B3n8XjV0?t=889)
+03. [Blue Bird - Ikimonogakari](https://youtu.be/Wj2B3n8XjV0?t=1357)
 [DAYBREAK FRONTLINE - Orangestar](https://youtu.be/Wj2B3n8XjV0?t=1630)
-04. [The Beginning - ONE OK ROCK](https://youtu.be/Wj2B3n8XjV0?t=1916)
-05. [Kokoronashi - Chouchou-P](https://youtu.be/Wj2B3n8XjV0?t=2301)
-06. [Hitorinbo Envy - koyori](https://youtu.be/Wj2B3n8XjV0?t=2708)
-[FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3068)
-[Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3199)
-[Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3318)
+04. [The Beginning - ONE OK ROCK](https://youtu.be/Wj2B3n8XjV0?t=1878)
+05. [Kokoronashi - Chouchou-P](https://youtu.be/Wj2B3n8XjV0?t=2263)
+[Hitorinbo Envy - koyori](https://youtu.be/Wj2B3n8XjV0?t=2672)
+[FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
+[Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3163)
+[Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
 
 ***
 

@@ -99,8 +99,8 @@ download_id()
 {
     id="$1"
     if echo "$renget_blacklist" | grep -Fq "/$id/"; then
-      p "$id is in blacklist"
-      return 1
+        p "$id is in blacklist"
+        return 1
     fi
     
     inf "getting rentry $id..."

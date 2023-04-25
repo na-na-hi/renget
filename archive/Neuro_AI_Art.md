@@ -821,6 +821,8 @@ Neuro 2.0 AI generated (Lewd)
 
 Neuro 2.0 AI generated (NSFW)
 
+![Neuro](https://files.catbox.moe/8opzww.png)
+![Neuro](https://files.catbox.moe/0vin6d.png)
 ![Neuro](https://files.catbox.moe/7dve85.png)
 ![Neuro](https://files.catbox.moe/193no9.png)
 ![Neuro](https://files.catbox.moe/6puo30.png)

@@ -48,6 +48,7 @@
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting 
 [Alpaca's Instruction](https://archive.ph/Wkmzr)|Image of the root verbs and objects for Alpaca specifically. 
+[Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|guide to longer outputs more conducive to roleplay in TavernAI
 [RPBT Prompt](https://rentry.org/RPBT)|anon's prompt that allows for OOC dialogue and for the bot to play as different NPCs 
 |
 **GPU Gits**|

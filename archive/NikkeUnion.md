@@ -17,10 +17,10 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **4** | 404TH | ==**4033**== |PERMISSION | YUKIKAZE| 32/32 | N 
 **5** | CUNNYWOW | ==**4496**== |OPEN | FRIEDKUN | 32/32 | N 
 **5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 31/32 | N 
-**3** |EPITAPH| ==**7975**== |PERMISSION | BORGAR | 11/32 | N 
+**3** |EPITAPH| ==**7975**== |PERMISSION | BORGAR | 12/32 | N 
 **5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 32/32 | Y 
 **3** |TOGEMURA| ==**10050**== |OPEN | THERAS| 32/32 | N 
-**4** |NIKKEKU| ==**334**== |OPEN | GAINAX | 26/32 | N 
+**4** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 32/32 | N 
 **5** | MESUGAK1 | ==**4414**== |PERMISSION | CAEL | 32/32 | Y 
 **5** | CSERYL | ==**3903**== |OPEN | EFEK | 32/32 | N 
 **4** | UOOOH | ==**13720**== |PERMISSION | SYLVAN | 32/32 | Y 
@@ -66,4 +66,4 @@ Name | Crime | Used to be called | ID | Region
 MELLOW | Leader sold the union to the Chinese | IRONTITS | 2921 | NA
 
 -> ![Doro](https://i.imgur.com/LM0pZQd.png) <-
-!!! info -> In case I missed you on the thread and want to update your union info you can drop by here https://discord.gg/VwXZjjED <-
+!!! info -> In case I missed you on the thread and want to UPDATE your union info you can drop by here https://discord.gg/VwXZjjED <-

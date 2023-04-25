@@ -22,7 +22,7 @@
 Dates are based on EST
 ***
 !!!info Updates
-	>==Chapters== - 04/23 - [Added #44](https://rentry.org/irdxq/edit#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0) 
+	>==Chapters== - 04/25 - [Added #44](https://rentry.org/irdxq/edit#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0) 
 !!! Info Incomplete - https://rentry.org/nzpe9
 !!! warning # of times she has sung each song so far
      https://rentry.org/37gbg
@@ -2525,7 +2525,7 @@ CHAPTER06NAME=04. The Beginning - ONE OK ROCK
 CHAPTER07=00:38:21.000
 CHAPTER07NAME=05. Kokoronashi - Chouchou-P
 CHAPTER08=00:45:08.510
-CHAPTER08NAME=06. Hitorinbo Envy - koyori
+CHAPTER08NAME=Hitorinbo Envy - koyori
 CHAPTER09=00:51:08.000
 CHAPTER09NAME=FIRE - QUEEN BEE (Accapella)
 CHAPTER10=00:53:19.435

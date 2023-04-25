@@ -219,3 +219,13 @@ After the meal, Axilion stood up and began to sing a poem in their old native to
 As the ceremony continued, I saw a large lynx-man from the mountain people step forward and begin to throat sing, his voice rich and haunting. I was captivated by the sound, and found myself swaying along to the rhythm.
 
 As the night wore on, I was struck by the warmth and hospitality of the Kash'gon people. They welcomed me with open arms and made me feel like I was a part of their community. And as I sat around the fire with Rayla and Axilion, listening to the old songs and stories, I felt a sense of belonging that I had never felt before.
+>014: Diffrent cultures
+As we sat around the campfire, I couldn't help but ask Axilion and Rayla about their thoughts on marriage between the mountain people and mainland Kash'gon. Their answers were not what I expected.
+
+Rayla spoke first, "John, it's not that we look down on the mainland Kash'gon, it's just that our lifestyles are very different. We have to be strong and physically capable to survive in the mountain, and hunting is a way of life for us. Mainland Kash'gon tend to live in more urban areas and have different jobs that don't require the same physical strength."
+
+Axilion chimed in, "Rayla's right. The weather and environment in the mountain can be harsh, and it takes a certain kind of person to be able to live here. Mainland Kash'gon may find it difficult to adapt to our way of life."
+
+I listened to their words and tried to understand their point of view. They weren't being dismissive of the idea of marriage between the two groups, but they saw the practicalities and realities of the situation. I respected their perspective and began to see another side of the Kash'gon culture that I hadn't known before.
+
+I was grateful for Axilion and Rayla's insights and for opening my eyes to a new perspective. And who knows, maybe one day love will find a way to bridge the gap between the mountain and the mainland.

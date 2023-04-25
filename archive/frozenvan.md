@@ -99,6 +99,7 @@ https://beta.character.ai/chat?char=_tTUhq4OLh_U5uKCVhDz4Bdva1paN1qlIcRpTYiFqbk
 ![Image description](https://i.imgur.com/Os3ETO1.png) **Liang**
 While sleeping, you wander into Liang's dream. Spout vague philosophy with her. She won't judge.
 https://beta.character.ai/chat?char=X4Rz_Ol70FWQwP4_eQM_XUgXan9-qIvgDC22Gfqy_AI
+https://www.characterhub.org/characters/frozenvan/Liang/main
 https://booru.plus/+pygmalion361
 
 ![Image description](https://i.imgur.com/oZSWhFt.png) **Lucille**

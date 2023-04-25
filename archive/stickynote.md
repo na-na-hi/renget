@@ -14,7 +14,7 @@
 
 -> da1sy derek-shepherd dreamr dreamthieves drown dsm4 <- 
 
--> eddis embroidered embroidery emptygold et-umbra-sumus eugenides <-
+-> eddis embroidered emptygold et-umbra-sumus eugenides <-
 
 -> false-reality faolan festus firelight flannel forewarned forgery foxfangs foxhole-court <-
 

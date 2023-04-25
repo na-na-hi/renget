@@ -15,7 +15,7 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Karaoke Clips== - 02/24 - Added [#43](https://rentry.org/5y2mt/#2023-02-14-unarchived-karaoke-_-%E6%AD%8C%E6%9E%A0its-valentines-day-9bwgrpf0x9e)
+	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/5y2mt/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0) - **I updated the timestamps after the vod got trimmed**
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== 
 
@@ -29,6 +29,7 @@
 https://youtu.be/dip1794Rd54?t=141
 
 ######『2021-09-28』 - 【UNARCHIVED】what [sWQIkO7txq4]
+[Back to TOC](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
 ------ | ------ | ------
 The Bare Necessities - The Jungle Book |  https://files.catbox.moe/yhtq24.mp4    |   https://cldup.com/RvXwsCCu7K.mp4
@@ -593,7 +594,7 @@ I'm with You - Avril Lavigne    |    https://files.catbox.moe/8xeg90.mp4       |
 Breakaway - Kelly Clarkson    |  https://files.catbox.moe/2bnnt0.mp4         |     https://cldup.com/4DD52BVgtB.mp4  
 Our Song - Taylor Swift    |   https://files.catbox.moe/rpq1me.mp4        |       https://cldup.com/k8AWdmbVAa.mp4
 Come As You Are - Nirvana    |  https://files.catbox.moe/beqsca.mp4         |      https://cldup.com/vHNqLiwpWL.mp4 
-Operator - Jim Croce    |   https://files.catbox.moe/xscw9c.mp4        |    https://cldup.com/qFPUUe2V5y.mp4   
+Operator - Jim Croce    |   https://files.catbox.moe/20f8lr.mp4        |    https://cldup.com/qFPUUe2V5y.mp4   
 The Scientist - Coldplay    |  https://files.catbox.moe/9fi3ou.mp4         |       https://cldup.com/A3j_jBTl9d.mp4
 I Dreamed A Dream - Les Miserables    |  https://files.catbox.moe/9uerrf.mp4         |       https://cldup.com/-vV_PvsZB5.mp4
 Shiny Smily Story - hololive IDOL PROJECT    |   https://files.catbox.moe/kdn342.mp4        |       https://cldup.com/Q_asmYwuKW.mp4
@@ -625,6 +626,7 @@ Bamboo - Peter, Paul and Mary (Acapella)  |   https://files.catbox.moe/7quf41.mp
 
 ***
 
+
 ######『2022-08-03』 - 【KARAOKE】Early Birthday Tunes !!! [Y_L8TusmUsU]
 [Go back to the TOC](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
@@ -654,10 +656,9 @@ On My Own - Les Miserables  | https://files.catbox.moe/du8jod.mp4      |    http
 Bring Him Home - Les Miserables  | https://files.catbox.moe/yu4x7x.mp4      |    https://cldup.com/ZQt0FrNcV3.mp4    
 Over The Rainbow - Judy Garland  |  https://files.catbox.moe/mh71j3.mp4     |    https://cldup.com/tO5uZMs_cn.mp4    
 Operator - Jim Croce  |  https://files.catbox.moe/exy6uk.mp4     |        https://cldup.com/diKs7NjXQr.mp4
-Astrogirl - Tsukumo Sana  | https://files.catbox.moe/iupekl.mp4      |     https://cldup.com/sbRwxo9BNY.mp4   
+Astrogirl - Tsukumo Sana  | https://files.catbox.moe/iupekl.mp4      |     https://cldup.com/sbRwxo9BNY.mp4         
 
 ***
-
 
 
 ***
@@ -688,7 +689,6 @@ Always on My Mind - Willie Nelson | https://files.catbox.moe/ppsp1g.mp4  |   htt
 Take Me Home, Country Roads - John Denver |  https://files.catbox.moe/s1iq13.mp4  |   https://cldup.com/QU5wGgEIJQ.mp4
 
 ***
-
 
 ######『2022-09-27』 - 【UNARCHIVED karaoke】I don't think my voice is strained now [QBLg9R7YOd4]
 [Go back to the TOC](https://rentry.org/5y2mt)
@@ -949,6 +949,7 @@ My Immortal - Evanescence  | https://files.catbox.moe/frx2z3.mp4  |   https://cl
 Sign - Flow  | https://files.catbox.moe/j3xjei.mp4  |   https://cldup.com/8AfDjI4wza.mp4
 Unravel - TK from Ling Tosite Sigure  | https://files.catbox.moe/be4kpe.mp4  |   https://cldup.com/vmlBZwb7dr.mp4
 
+
 ***
 
 ######『2023-02-14』 - 【UNARCHIVED KARAOKE _ 歌枠】It's Valentines Day !! [9bWgrpf0x9E]
@@ -972,13 +973,35 @@ Helpless - Hamilton  | https://files.catbox.moe/e6eft2.mp4  |   https://cldup.co
 First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.com/iJyey81Wmx.mp4
 
 ***
+
+
+######『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]
+[Go back to the TOC](https://rentry.org/5y2mt)
+>Timestamps
+01. [Ghost Rule - deco*27](https://youtu.be/Wj2B3n8XjV0?t=417)
+02. [Hibana - deco*27](https://youtu.be/Wj2B3n8XjV0?t=889)
+03. [Blue Bird - Ikimonogakari](https://youtu.be/Wj2B3n8XjV0?t=1357)
+[DAYBREAK FRONTLINE - Orangestar](https://youtu.be/Wj2B3n8XjV0?t=1630)
+04. [The Beginning - ONE OK ROCK](https://youtu.be/Wj2B3n8XjV0?t=1878)
+05. [Kokoronashi - Chouchou-P](https://youtu.be/Wj2B3n8XjV0?t=2263)
+[Hitorinbo Envy - koyori](https://youtu.be/Wj2B3n8XjV0?t=2672)
+[FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
+[Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3163)
+[Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
+
+***
+
+!!! note
+	###->Mumei Radio<-
+    ->https://rentry.org/Mumei-Radio<- 
+
 ***
 !!! danger 
 	###->Chapters/Clips for Off-Collab Karaoke<-
     ->https://rentry.org/x2fcrh<-
 
 ***
-[Back to TOC](https://rentry.org/5y2mt)
+[Go back to the TOC](https://rentry.org/5y2mt)
 ***
 ***
 
@@ -1004,6 +1027,12 @@ I Miss You - blink-182 (Duet w/ Ame) | https://files.catbox.moe/xu4qie.mp4
 Livin' La Vida Loca - Ricky Martin (Shrek 2) (Duet w/ Ame) | https://files.catbox.moe/60ztq0.mp4 
 Everytime We Touch - Cascada (Duet w/ Bae) | https://cldup.com/irgEZwm_B3.mp4
 I'm Yours - Jason Mraz	(Duet w/ Bae)  |  https://files.catbox.moe/arfoib.mp4
+Someone Like You - Adele (Duet w/ Ame) | https://files.catbox.moe/z7e13b.mp4
+Toxic - Britney Spears (Duet w/ Ame) | https://files.catbox.moe/31p2kq.mp4
+My Heart Will Go On - Celine Dion (Duet w/ Ame) | https://files.catbox.moe/7h1og1.mp4
+Defying Gravity - Wicked (Duet w/ Ame) | https://files.catbox.moe/4k5b4s.mp4
+Since U Been Gone - Kelly Clarkson (Duet w/ Ame) | https://files.catbox.moe/yqn0o0.mp4
+Sunday Morning - Maroon 5 (Duet w/ Ame) | https://files.catbox.moe/seycce.mp4
 
 ***
 ***
@@ -1065,7 +1094,10 @@ Silhouette - Kana-Boon (Duet w/ 1st time singing + 1 year anniversary) | https:/
 Silhouette - Kana-Boon  (Trio) | https://files.catbox.moe/my76bz.mp4
 Mamma Mia - ABBA x 10 | https://cldup.com/ZdR0Px-oBs.mp4
 again - YUI (Duet) | https://files.catbox.moe/dx2xg9.mp4
-A Cruel Angel's Thesis (Duet) | https://files.catbox.moe/6ysyay.mp4
+A Cruel Angel's Thesis (Duet) |  https://files.catbox.moe/6ysyay.mp4
+Landslide - The Chicks x4 | https://cldup.com/d2DxvrTQKz.mp4 / https://files.catbox.moe/mvupn9.mp4
+
+***
 
 ***
 ###Bottom of the page

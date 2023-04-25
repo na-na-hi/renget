@@ -67,6 +67,7 @@ Title|Link
 *what we have chosen to become*|[(link)](https://rentry.org/whatwehave)
 *An Accident at Disneyland*|[(link)](https://rentry.org/anaccidentatdisney)
 *Abandoned Hotel Exploration*|[(link)](https://rentry.org/abandonedhotel)
+*The Ex-Zombie*|[(link)](https://rentry.org/exzombie)
 
 ##Rewritten by /exeg/
 Title|Link

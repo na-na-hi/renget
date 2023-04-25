@@ -85,6 +85,7 @@ I think every model still has "one" in it, it's just not "complete". Some models
 	]
 	```
 	* This picture have five by five pixels. Picture look like letter O.
+###Set Your VAE
 Download one. Put it here.
 -> ![/stable-diffusion-webui/models/VAE](https://i.postimg.cc/L6KZ7YyB/VAE.png) <-
 Set it.

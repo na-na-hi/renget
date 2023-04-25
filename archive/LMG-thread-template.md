@@ -1,8 +1,8 @@
 !!! Note 04-25-2023 Updates:
-	News Section Updated | Resource Charts Updated | Grammar & Punctuation Updated
+	News section in OP template updated (Since 04/25). | Resource charts updated & fixed. | Grammar & punctuation corrections were made. | New & "improved" Rentry banner, with Miku added.
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 4.00<-
+#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 4.01<-
 
 [TOC2]
 
@@ -67,7 +67,7 @@ https://pastebin.com/LmRhwUCA
 \>ERP/RP Datasets
 https://rentry.org/qib8f
 
-###->Follow-up Post (Optional, but great to have)<-
+###->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: (Notes are a placeholder)**
 -Anon goes over the repo process of the LLaMA-Adapter >>92XXXXXX
 -Anon releases reverse Miku >>92XXXXXX
@@ -75,9 +75,7 @@ https://rentry.org/qib8f
 -Oobabooga merged commit to fix one-click-install issue >>92XXXXXX
 -Anons proposes a good use for wawario2's long-term memory >>92XXXXXX >>92XXXXXX
 -etc...
-
 **►Recent Highlight Post from the Previous Thread: >>92XXXXXX (Cross-Thread)**
-No need to repost the entire recap from the other thread, a simple Cross-thread link is good.
 
 ***
 ##->Comprehensive Guides & Resources for LMM's<-
@@ -92,13 +90,12 @@ Project & Model Names | Resource Links:
 llama.cpp (ggerganov) | https://github.com/ggerganov/llama.cpp (◕) (Ŏ)
 ⇲ koboldAI | https://github.com/KoboldAI/KoboldAI-Client (◕) (Ŏ)
 ⇲ AgustusCletus llama.cpp | https://github.com/AgustusCletus/llama.cpp (◎) (Ŏ)
-Oasst LlaMA 13B q4 | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main (◕) (Ŏ) (NEW) 
+Oasst LlaMA 13B q4 | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main (◕) (Ŏ)
 Stanford Alpaca  | https://github.com/tatsu-lab/stanford_alpaca (◕) ( Ĩ )-Stanford University
-Alpaca.cpp (CPU) | https://github.com/antimatter15/alpaca.cpp (◎) (Ŏ)
 Alpaca Native | https://huggingface.co/chavinlo/alpaca-13b/tree/main (◕) (Ŏ)
 LlaVA | https://llava-vl.github.io (◕) (Ŏ / ⌀) ( Ĩ )-Multiple Universities ($)-Microsoft
 ⇲ GPT4-X-Alpaca | https://huggingface.co/chavinlo/gpt4-x-alpaca (◕) (Ŏ)
-⇲ GPT4-X-Alpaca 13b Native 4bit 128g GGML GPTQ 4b_1 (Quantized) | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main/gpt4-x-alpaca-13b-ggml-q4_1-from-gptq-4bit-128g (◕) (Ŏ) (NEW)
+⇲ GPT4-X-Alpaca 13b Native 4bit 128g GGML GPTQ 4b_1 (Quantized) | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main/gpt4-x-alpaca-13b-ggml-q4_1-from-gptq-4bit-128g (◕) (Ŏ)
 Alpaca LoRA (LoRA 4 GPU's) | https://github.com/tloen/alpaca-lora (◕) (Ŏ)
 GPT4-ALL (LoRA)| https://github.com/nomic-ai/gpt4all (◕) (Ŏ)
 ↳ Using GPT4-ALL w/ llama.cpp | https://github.com/ggerganov/llama.cpp#using-gpt4all (◕) (Ŏ)
@@ -107,7 +104,7 @@ FastChat (Vicuna) | https://github.com/lm-sys/FastChat#readme (◕) (Ŏ / ⌀) (
 ↳ Vicuna Unfiltered | https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered (◕) (Ŏ)
 **Plugins & Other Projects:** | ->-------------------------------------------<-
 Llama Hub | https://github.com/emptycrown/llama-hub (◕) (Ŏ)
-LLaMA retrieval plugin (ChatGPT Plugins for LlaMA) | https://github.com/lastmile-ai/llama-retrieval-plugin (◕) (Ŏ)
+LLaMA retrieval plugin (ChatGPT Plugins for LlaMA) | https://github.com/lastmile-ai/llama-retrieval-plugin (◔) (Ŏ)
 GPTQ for LlaMA | https://github.com/qwopqwop200/GPTQ-for-LLaMa (◕) (Ŏ)
 LlaMA Adapter | https://github.com/ZrrSkywalker/LLaMA-Adapter (◕) (Ŏ)
 LlaMA Tokenizer | https://huggingface.co/hf-internal-testing/llama-tokenizer/tree/main (◕) (Ŏ)
@@ -141,14 +138,15 @@ ColossalAI | https://github.com/hpcaitech/ColossalAI (◕) (Ŏ) ( Ĩ )-Multiple
 ###Other Related Projects for Models:
 Project Names | Resource Links:
 ------ | ------
-Oobabooga's Standard (One-Click Method) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ) (GPU Inference | WebUI)
-Koboldcpp | https://github.com/LostRuins/koboldcpp (◕) (Ŏ) (CPU Inference | WebUI)
-↳ Wawa's TGW w/ Long-Term Memory | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ)
+Oobabooga's Standard (One-Click Method) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ) (GPU Inference - WebUI)
+↳ Wawa's TGW w/ Long-Term Memory | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ) (Extension)
+Koboldcpp | https://github.com/LostRuins/koboldcpp (◕) (Ŏ) (CPU Inference - WebUI)
+Alpaca.cpp | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ) (CPU Inference)
 LLM Benchmark Prompts | https://pastebin.com/LmRhwUCA (◕) (Ŏ)
 Whisper.cpp (Speech Recognition) | https://github.com/ggerganov/whisper.cpp (◕) (Ŏ)
 AMD GPU (ROCm) | https://github.com/RadeonOpenCompute/ROCm (◕) (Ŏ) ($)-AMD
 
-###Only Miku
+###Just Miku
 Project Names | Resource Links:
 ------ | ------
 OG Miku | https://pastebin.com/5WVd28Um
@@ -157,7 +155,7 @@ Miku.sh | https://pastebin.com/vWKhETWS
 
 ***
 ##->Other Known Places for Discussion:<-
-!!! danger PLEASE DO NOT SHILL ANY IRC OR DISCORD SERVERS IN THE /LMG/ THREADS!! THERE ARE NO OFFICIAL /lmg/ DISCORDS!!
+!!! danger PLEASE DO NOT SHILL ANY IRC, DISCORD SERVERS OR WHATNOT IN THE /LMG/ THREADS!! ALSO, THERE'S NO OFFICIAL /lmg/ DISCORD!!
 **►Github Discussions:**
 https://github.com/ggerganov/llama.cpp/discussions
 https://github.com/oobabooga/text-generation-webui/discussions

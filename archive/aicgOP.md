@@ -38,6 +38,7 @@ https://agnai.chat/ [Universal Frontend]
 
 >LLaMA
 https://rentry.org/nur779 [Models]
+https://rentry.org/better-llama-roleplay
 https://github.com/ggerganov/llama.cpp [CPU]
 >>>/g/lmg/ [Dedicated local discussion]
 
@@ -131,6 +132,7 @@ https://rentry.org/PygTips
 
 >LLaMA
 >>>/g/lmg/ [up-to-date documentation and discussion]
+https://rentry.org/better-llama-roleplay [RP guide]
 https://rentry.org/nur779 [Models]
 https://github.com/ggerganov/llama.cpp [CPU]
 
@@ -190,6 +192,7 @@ tips: https://rentry.org/PygTips
 
 ▶LLaMA
 on CPU: https://github.com/ggerganov/llama.cpp
+rp info: https://rentry.org/better-llama-roleplay
 models: https://rentry.org/nur779
 local discussion: >>>/g/lmg/
 

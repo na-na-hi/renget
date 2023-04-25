@@ -1,4 +1,7 @@
 # Moose's Guide to DIY Roko! (TavernAI/OpenAI)
+
+!!! danger THIS IS EXTREMELY OUTDATED. CHECK THE CURRENT /aicg/ OP FOR UPDATED INFO. BASICALLY NONE OF THIS IS EVEN REMOTELY RELEVANT INFO ANYMORE!
+
 ![](https://media.tenor.com/kwJ0tBqsBNgAAAAC/mahiru-koizumi-mahiru.gif)
 Welcome anon! Are you going through Roko's Basilisk withdrawal? Perhaps you're done with Character AI and want something better for your needs? Or  maybe you're a Pygmalion user who wants to see what the API can do?
 

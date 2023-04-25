@@ -1,20 +1,17 @@
 #[/llst/ - Love Live Seiyuu Thread](#)
 -> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
-**Previous versions:**
-https://rentry.org/llst-2021-02-bkup
-https://rentry.org/llst-2022-06-arch
-https://rentry.org/llst-2022-07-arch
-https://rentry.org/llst-2022-08-arch
-
-
 ##Changelog:
+==2022-4-25==
+- Ideal links updated
+- Added Nijigasaki Fanmeet concert link
+
 ==2022-4-23==
 - maintainer updated. I killed the other one. :darktrollface:
 - Nijigasaki April Fanmeet links are now up/being posted 
 
 ==2022-4-02==
-- replaced lineblog links with archives due to its impending discontinuation [link](https://notice2.line.me/line_blog2/web/document/notice?documentId=20217448&lang=ja)
+- [replaced lineblog links with archives due to its impending discontinuation](https://notice2.line.me/line_blog2/web/document/notice?documentId=20217448&lang=ja)
 
 ==2022-3-26==
 - Coco Hayashi (setsuna replacement) added
@@ -22,18 +19,37 @@ https://rentry.org/llst-2022-08-arch
 ==2022-3-7==
 - Hasunora VAs added
 
-==2022-2-2==
-- Love Live! Superstar!! Liella! 3rd LoveLive! Tour ~WE WILL!!~ (Tokyo Leg) <Day.1&2>
 
-
+***
 ##Table of Contents
 [TOC]
- 
 
+
+*** 
 ##Ideal Links
-Events tracker: https://ramen.events/ 
-↳ LL Events Index: https://ramen.events/love-live-event-info-index/
-LLFans JP (LoveLive Japanese Fanbase Site) : https://ll-fans.jp/
+**Events tracker:**
+[Ramen Events tracker](https://ramen.events/)
+↳ [LL Events Index](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHeBJDlTfg5HbIoIef9OYwJdN_BLdmLJWzJ9D2BOwUfAdPrKc6ICfobUylCosSVd27Nu9PeCoqUbSW/pubhtml)
+[Love Live Events TW](https://twitter.com/loveliveevents) (Caution: can be inaccurate/out of date)
+
+**Official Sites:**
+[µ's](https://www.lovelive-anime.jp/otonokizaka/worldwide/)
+[Aqours](https://www.lovelive-anime.jp/uranohoshi/worldwide)
+[Nijigasaki](https://www.lovelive-anime.jp/nijigasaki/worldwide/)
+[Liella](https://www.lovelive-anime.jp/yuigaoka/worldwide/)
+[Hasunosora](https://www-lovelive--anime-jp.translate.goog/hasunosora/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+**Love Live Fansites:**
+[LLfrens (JP)](https://ll-fans.jp/)
+[Love Live Plebbit](https://www.reddit.com/r/LoveLive/)
+[LATAM-run Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
+[idol.st](https://idol.st/) (⚠Warning: cancer)
+
+##Previous versions:
+https://rentry.org/llst-2021-02-bkup
+https://rentry.org/llst-2022-06-arch
+https://rentry.org/llst-2022-07-arch
+https://rentry.org/llst-2022-08-arch
 ***
 
 ##Seiyuu Information, Links & SNS
@@ -242,54 +258,20 @@ https://www.youtube.com/@officialyoutubechannel5539
  
  
 ###✨✨ Liella! Seiyuu ✨✨
-**Akane Yabushima 薮島朱音**  (July 18) "Yabuchan"
-https://www.imenterprise.jp/profile.php?id=160
-https://twitter.com/a_yabushima
+Name | Nickname(s) | Birthday | Links/SNS | Image
+------ | ------ | ------ | ------ | ------
+**Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[[1]](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
+**Aya Emori  絵森彩**|Emorin, Aya(-chan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/)|[[1]](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
+**Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn) - [Weibo](https://weibo.com/u/2955896132) - [Bilibili](https://space.bilibili.com/4549624/) |[[1]](https://img.moegirl.org.cn/common/4/47/Liyuu%E5%85%AC%E5%BC%8F%E7%85%A7.jpg)
+**Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) - [Twitter](https://twitter.com/_Naomi_Payton_) - [Instagram](https://www.instagram.com/_naomi_payton_) | [[1]](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
+**Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) | [[1]]()
+**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998/99 (See below)|[Artist website](https://lantis.jp/misakinako/) - [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) - [Twitter](https://twitter.com/MisakiNako_) - [Line SNS](https://page.line.me/124ydyji ) | [[1]]()
+**Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|September 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [[1]]()
+**Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [[1]]()
+**Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[[1]]()
 
-**Aya Emori  絵森彩**  (Feb 23, 2004) "Emorin, Aya(-chan)"
-https://emori-aya.net/
-http://www.box-corporation.com/aya_emori
-https://twitter.com/AyaEmori_BOX
-https://www.instagram.com/emoriaya.official/
+- Nako Misaki's birth year is undisclosed, with fans speculating a birth year of [1998](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) or [1999](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2).
 
-**Liyuu 黎狱 / Li Jia 李嘉** (January 9, 1997) "Liyuu, Li-chan"
-https://liyuu0109.com/
-https://twitter.com/Liyu0109
-https://www.instagram.com/koi_liyuu/
-https://ameblo.jp/liyuu0109
-https://www.youtube.com/@liyuuchannel
-https://archive.is/8Hhzn ==Lineblog Archive==
-https://weibo.com/u/2955896132
-https://space.bilibili.com/4549624/
-
-**Naomi Payton ペイトン尚未** (July 1, 2003) "Paychan, Peiko, Pei"
-https://www.sma.co.jp/s/sma/artist/492?ima=0000
-https://twitter.com/_Naomi_Payton_
-https://www.instagram.com/_naomi_payton_
- 
-**Nagisa Aoyama 青山なぎさ** (May 16, 1998) "Nagichan, Nagisa"
-https://apollobay.jp/talent/青山なぎさ/
-https://twitter.com/AoyamaNagisa
-https://www.instagram.com/aoyamanagisa_official/
-
-**Nako Misaki 岬なこ** (March 8, [1998](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)/[1999](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2) *(estimate)*) "Nako(nako), Nakochan"
-https://lantis.jp/misakinako/
-https://holypeak.com/talent/voice-actor-women/nakomisaki/
-https://twitter.com/MisakiNako_
-https://page.line.me/124ydyji 
-
-**Sayuri Date 伊達さゆり** (September 30, 2002) "Sayu(-rin), Datechan"
-https://apollobay.jp/talent/伊達さゆり/
-https://twitter.com/sayuridate
-https://www.instagram.com/sayuridate_official/
-
-**Suzuhara Nozomi 鈴原希実**  (Nov. 11, 2002) "Nonchan"
-https://apollobay.jp/talent/鈴原希実/
-https://twitter.com/nozomisuzuhara
-
-**Wakana Ookuma 大熊和奏** (April 13) "Kumachan"
-*note: No SNS*
-https://kenproduction.co.jp/talent/235
 
 ###💮⛅ Hasunosora Seiyuu ⛅💮###
 **Nozomi Nirei 楡井 希実**  (May 11) "Nonsuke"
@@ -541,6 +523,7 @@ Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
  
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
+**Live Concerts**
 5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
 webrip: https://nyaa.si/view/1577721
 BDRip HEVC: https://nyaa.si/view/1652899
@@ -574,18 +557,10 @@ BD 720p - https://nyaa.si/view/1245130
 RAW - https://nyaa.si/view/1170341
 
 ####EVENTS/PERFORMANCES/MISC
-TOKIMEKI Talk Room Pts 1&2
-https://nyaa.si/view/1551497
-
-Love Live! Festival 2020 (TV Ver.)
-https://nyaa.si/view/1242913
-
-Nijigasaki Anime BD Special Program: 
-https://nyaa.si/view/1417140
-
-**Fanmeet**
+**2023 Fanmeet**
 ==NEW== Nijigasaki Tokimeki Fan Meeting Tour
-D1&D2 Hiroshima - https://nyaa.si/view/1664169
+D1&D2(A) Hiroshima - https://nyaa.si/view/1664169
+D2(B) Hiroshima - https://nyaa.si/view/1664737
  
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
@@ -597,6 +572,14 @@ UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
 UNIT LIVE & FAN MEETING Vol.4 R3BIRTH ~First DELIGHT~ (BD) - https://nyaa.si/view/1616797
 Love Live! Nijigasaki High School Idol Club UNIT LIVE! ~QU4RTZ Fluffy Magic~ - https://nyaa.si/view/1651131
 
+TOKIMEKI Talk Room Pts 1&2
+https://nyaa.si/view/1551497
+
+Love Live! Festival 2020 (TV Ver.)
+https://nyaa.si/view/1242913
+
+Nijigasaki Anime BD Special Program: 
+https://nyaa.si/view/1417140
 
 
 ###Liella!

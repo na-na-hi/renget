@@ -64,6 +64,7 @@ Some examples include but are not limited to:
 *Cookie Hana* (ES): https://www.twitch.tv/cookiehana
 *Trickywi* (EN): https://www.twitch.tv/trickywi
 *Yuniiho* (EN): https://www.twitch.tv/Yuniiho
+*Yuikaichan* (EN): https://www.twitch.tv/yuikaichan
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko/videos

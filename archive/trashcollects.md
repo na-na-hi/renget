@@ -131,7 +131,7 @@ I apologize for not keeping a record of the models I used. Without their amazing
 ####AOM VAE (rename it the same as the AOM model you use)
 	https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
 
-### Frankenmodels
+### Frankenmodels (Yttreia's Merges)
 	https://drive.google.com/drive/folders/1kQrMDo2AtzcfAycGhI79M2YnPUHebu6M
 
 Explanation:

@@ -13,6 +13,16 @@ Also, ask in [#module-discussion](https://discord.gg/novelai)
 ##Euterpe
 
 ***
+##### [Jar Jar](https://cdn.discordapp.com/attachments/356304198398115841/1100315094950350878/Jar_Jar.module)
+*Source Material: Euterpe v2, `0.006mb`, `4` .txt, `1000` steps, `14630.96%` coverage, `3.1249` loss.*
+Shitpost module.
+-> *25-4-2023* ->
+***
+##### [UwU](https://cdn.discordapp.com/attachments/356304198398115841/1100308577526222888/UwU_v2.module)
+*Source Material: Euterpe v2, `0.034mb`, `5` .txt, `1500` steps, `3974%` coverage, `3.8506` loss.*
+Shitpost module.
+-> *25-4-2023* ->
+***
 ##### [Alex yiik](https://cdn.discordapp.com/attachments/356304198398115841/1072031466223042651/Alex_yiik_pume.module)
 *Source Material: Euterpe v2, `0.095mb`, `9` .txt, `1000` steps, `935%` coverage, `2.7990` loss.*
 !!! note 
