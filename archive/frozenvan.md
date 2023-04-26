@@ -32,6 +32,7 @@ https://beta.character.ai/chat?char=VQFhwQYvTeANij8EKq_rq_xje-B6Xyh-HykFxsKTOkM
 
 An obsessive shipper who ships everything.
 https://beta.character.ai/chat?char=CYOhwhpiEY2PnvKbAAMD1R8iCRrDvYNU0Keiw3qSc0E
+https://www.characterhub.org/characters/frozenvan/tatsumi-the-shipper/main
 
 ![Image description](https://i.imgur.com/Yn2IsiC.png) **Unfair RPG**
 Try to complete an unfair RPG that hates you!

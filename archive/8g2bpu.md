@@ -1,5 +1,19 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+A group of anon-mons (artist's choice) inside a monster house
+
+A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)
+
+A group of three or more having a swimming competition 
+
+Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers
+
+Any anon-mons babysitting a baby-mon (job requests tend to get weird)
+
+Guild members reading books on the library (add clover stories as titles on the book if possible?)
+
+Anon-mons going fishing at the river (is this alright?)
+
 Nick and Kiyo meeting, idk insert clueless members comparing the two
 
 A guild member teaching newbie guild members (w/ whiteboard? idk), about the basics of Mystery Dungeons 
@@ -16,9 +30,9 @@ Chespin holding Wooper like a gun
 
 Raboot and KFC doing a spar together
 
-Gus calmly sitting at the docks
+~~Gus calmly sitting at the docks~~
 
-Beast holding a butcher knife as he witnessed someone eating at the pantry
+~~Beast holding a butcher knife as he witnessed someone eating at the pantry~~
 
 Sableye cooking in a cauldron
 
@@ -32,7 +46,7 @@ A group of members (artist's choice) riding on Percival as they soar through the
 
 Booker learning to fly
 
-Togetic cleaning the storage room 
+Togetic cleaning the storage room - IN PROGRESS
 
 Waiting room outside the clinic.  Feat. Artist's choice injured pokemon
 
@@ -74,7 +88,7 @@ Cyndaquil getting powdered Blast Seed thrown in his face
 
 A scene of the artist's choice from A 'Mon, Gus
 
-Guild members stealing Chateaux Cherim from Beast's kitchen
+~~Guild members stealing Chateaux Cherim from Beast's kitchen~~
 
 (assuming you do comics) A small comic about particularly desperate guild members trying in vain to use the request board as a replacement for 4chan
 

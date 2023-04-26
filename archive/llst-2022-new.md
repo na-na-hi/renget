@@ -897,8 +897,8 @@ December 23 - Hinata Sato
 December 26 - Sora Tokui
 ***
 -> **Disclaimer: all content here are hosted offsite, publicly available official information and media that qualifies under the area of fair use and does not in any way violate local or Japanese copyright laws.**<- 
-->**免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。**<-
-->**さらに、このページでは、著作権のルールに違反することがないことを保証しています。**<-
+->**免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。さらに、このページでは、著作権のルールに違反することがないことを保証しています。**<-
+
 
 
 -> Credits to former pastebin anon for his work and to all the wonderful people of /llst/!<-

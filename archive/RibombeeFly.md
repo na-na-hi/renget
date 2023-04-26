@@ -342,11 +342,11 @@ The water seemed to come up a lot faster than the ground had. My heart started t
 
 Or so I thought, until my frantically-shifting gaze noticed something floating in the bay below. It was white and light blue, and blended in with the water. But even from this height, I could recognize the sight of Gus the Oshawott, my friend, guildmate, and fellow human-turned-Pokemon. He loved swimming and relaxing in the bay ever since becoming a Water-type, so it was no surprise to see him here—but it certainly felt like a surprise now, since I had been certain I was doomed. Now that I saw him, my hope came back to life. If I could land on him instead of in the water, I could survive.
 
-I took hold of my wings once more and maneuvered towards Gus. I was getting distressingly close to the surface of the bay. I could practically hear the water rippling. I screamed Gus’ name as I came down. His ears eventually twitched, and he opened his eyes and looked around.
+I took hold of my wings once more and maneuvered towards Gus. I was getting distressingly close to the surface of the bay. I could practically hear the water rippling. I screamed Gus’ name as I came down. His ears twitched, and he opened his eyes and looked around.
 
 “Booker?” I heard his faint voice float up from below. “Huh? Was that...”
 
-“Up here!” I cried. “Help!”
+“Up here!” I cried. “Help! Catch me!”
 
 Gus looked up. After staring at the sky briefly, he finally spotted the tiny Ribombee falling nearby. “What!?” he shouted. “How—how did—never mind, just hang on!”
 
@@ -356,13 +356,13 @@ He kicked his legs and shot through the water, getting closer to me. I kept tilt
 
 I groaned and lay there limply on his shell.
 
-“Sorry...” the Oshawott mumbled. “I should’ve moved that out of the way, huh? But at least you’re alive! Why were you falling from the sky? How’d you even get up there?”
+“Sorry...” the Oshawott mumbled. “I should’ve moved that thing out of the way, huh? But at least you’re alive! Why were you falling from the sky? How’d you even get up there?”
 
 I slowly pushed myself up off Gus’s scalchop and sat upright. “Long... story...” I murmured. My voice was shaking, and I couldn’t say anything more. I hunched over and hid my face in my hands to hide the tears welling up in my eyes. I couldn’t believe I was alive.
 
-Gus floated there for a while in silence, patiently waiting for me to recover. I was afraid I would break down and sob in front of my guildmate, but it seemed like the good memories of gliding and swooping around in the air were overriding the near-death experience I just had. I composed myself before long, then told Gus the basics of what just happened. As I reached the end of my story, I heard a familiar trill from above. Taillow was diving down like a meteor, and barely swerved up before crashing into the bay. She kicked up a spray of mist as she flew right over the water's surface and shot past me and Gus.
+Gus floated there for a while in silence, patiently waiting for me to recover. I was afraid I would break down and sob in front of my guildmate, but it seemed like the good memories of gliding and swooping around in the air were overriding the near-death experience I just had. I composed myself before long, then told Gus the basics of what just happened. As I reached the end of my story, I heard a familiar trill from above. Taillow was diving down like a meteor, and barely swerved up before crashing into the bay. She kicked up a spray of mist as she flew right over the water's surface and shot towards me and Gus.
 
-“Booker!” she shouted. “Booker! You’re alive! I’m so, so, so sorry!”
+“Booker!” she shouted as she zoomed past us. “Booker! You’re alive! I’m so, so, so sorry!”
 
 She looped back around and hovered nearby, sending out a stream of rapid-fire apologies. I sighed and held up a hand to stop her. “It’s... it's okay,” I said. “It’s over. I lived. It’s fine.”
 
@@ -372,13 +372,13 @@ She looped back around and hovered nearby, sending out a stream of rapid-fire ap
 
 Gus smiled and looked away sheepishly as he backstroked to shore. Taillow followed, apologizing all the way. At the coast, Gus rode the gentle waves and beached himself on his back. I slid down the side of his body and landed on the sand, then scurried away from the water to avoid any stray waves. Gus got up and joined me, while Taillow swooped down and landed some distance ahead.
 
-“Seriously, Booker,” she said, bowing her head low, “I can’t say sorry enough. I promised to catch you before you hit the ground, and I really meant it! But I just got distracted. I’m such an idiot. I always get distracted too easily... I wish I wasn’t so scatterbrained...”
+“Seriously, Booker,” she said, bowing her head low, “I can’t say sorry enough. I promised to catch you before you hit the ground, and I really meant it! But I just got distracted. I was focused on flying around and having fun, but then I looked and saw you were gone! It was so scary! I’m sorry... I’m such an idiot. I always get distracted too easily... I wish I wasn’t so scatterbrained...”
 
-“But it ended okay,” I said. “Don’t beat yourself up over it. Aside from the ending, it was an amazing experience for me, so I’m happy it happened. And besides, I can tell you learned not to get distracted so easily from now on, right?”
+“But... it ended okay,” I said. “Don’t beat yourself up over it. Aside from the ending, it was an amazing experience for me, so I’m happy it happened. And besides, I can tell you learned not to get distracted so easily from now on, right?”
 
 Taillow perked up again. “Y-yeah! Exactly! It was a learning experience—for both of us! You did learn more about gliding and feeling the wind, didn’t you?”
 
-“I did. I think that’ll be useful if I eventually figure out how to fly.”
+“I did. And I think that’ll be useful if I eventually figure out how to fly.”
 
 “WHEN you figure out how to fly,” Taillow corrected me, giving me a wink.
 
@@ -392,7 +392,7 @@ I smiled at her. “Yeah... well, I hope you’re right. Hopefully it’s just a
 
 Taillow thanked me and said, “Well... if you’re still okay with riding me, hop on. I’ll take you back to Sneasel.”
 
-I got on Taillow’s back again, while resolving not to let go this time. We flew back to the spot where we left Sneasel. Taillow soared over the treetop market, looking for my partner. I leaned over her shoulder to get a look at things below. I felt a rush as I saw the world from the air once again. However, we were much lower, so the same feeling of beauty and freedom was much less pronounced.
+I got on Taillow’s back again, while resolving not to let go this time. We flew back to the spot where we left Sneasel. Taillow soared over the giant tree stumps, looking for my partner. I leaned over her shoulder to get a look at things below. I felt a rush as I saw the world from the air once again. However, we were much lower, so the same feeling of beauty and freedom was much less pronounced.
 
 “See her?” I shouted over the wind blowing past us.
 
@@ -406,14 +406,13 @@ Taillow brought me over there. Just as I suspected, I saw Sneasel out front. She
 
 Taillow landed on a nearby fence, almost eye level with Sneasel, and I dismounted and stood beside her. Together, we summarized what happened. Linoone and Sneasel both listened closely. Sneasel seemed to approve of my decision to fly on Taillow’s back so I could get a feel for flying. She even told us that she was a bit jealous of me. But I could feel a storm coming, and sure enough, she started to get concerned when we told her about my freefall. And once we reached the part where Taillow got distracted and failed to save me, everything changed.
 
-
 I started to regret having the ability to sense Aura, because I felt an ugly, almost painful emotional energy radiating out of Sneasel. I’d never felt this before. It grew more intense as I saw her lower her stance. I had no chance to give a warning. In an instant, she lunged at Taillow, grabbed her by the neck, yanked her off the fence, and chokeslammed her. The bird let out strangled squawks and flailed uselessly on the ground, slapping her wings against Sneasel’s arms.
 
 “You dirt-pecking retard!” Sneasel hissed as she kneeled over the hapless bird. “You almost killed my partner! Give me one reason why I shouldn’t shank your ugly face right now!”
 
-Sneasel was angrier than I’d ever seen her before, and her rage froze me solid. I wanted to jump down and stop her before she did something horrible, but I was too shocked to move.
+Sneasel was angrier than I’d ever seen her before. Her rage froze me solid. I wanted to jump down and stop her before she did something horrible, but I was too shocked to move.
 
-Solid Linoone saw me standing there, immobilized, and decided to take action himself. He hopped forward, shouting, “Hey! Break it up! No need to fight!”
+Linoone saw me standing there, immobilized, and decided to take action himself. He hopped forward, shouting, “Hey! Break it up! No need to fight!”
 
 Sneasel looked at him and snarled. Linoone stopped in his tracks and took a step back.
 
@@ -421,9 +420,9 @@ Sneasel looked at him and snarled. Linoone stopped in his tracks and took a step
 
 “Wrong,” Sneasel replied as she squeezed Taillow’s neck tighter. “Nobody hurts my partner and gets away with it.”
 
-Taillow’s struggles redoubled, and her eyes met mine. As she stared at me pleadingly, I finally felt the motivation to get moving. I broke free of my fear and jumped off the fence, floating down and landing next to the bird’s head.
+Taillow’s struggles redoubled, and her eyes met mine. As she stared at me pleadingly, I finally felt the motivation to get moving. I broke free of my fear and jumped off the fence.
 
-“Sneasel, wait!” I shouted. “Please don’t hurt her!”
+“Sneasel, wait!” I shouted as I softly landed next to Taillow's head. “Please don’t hurt her!”
 
 Sneasel’s narrowed gaze darted over to me. “What are you talking about?” she growled. “Booker, you almost died because she’s a total idiot!”
 
@@ -435,11 +434,11 @@ I stammered, “N-no! I d-didn’t mean it like that. What I meant was... it’s
 
 Sneasel looked back and forth between me and Taillow, clearly trying to decide if she should give in to her rage or listen to the pleas of her partner. She seemed to be leaning towards my side, fortunately, since I noticed she was loosening her grip, and Taillow was able to breathe more easily.
 
-Eventually, Linoone cleared his throat. “This isn’t really my business,” he said, “but the way I see it... if Booker’s the one who got hurt, and he forgives Taillow, and Taillow already apologized and promised to do better... then I think you should cut her some slack. An eye for an eye makes the whole world blind, right?”
+Eventually, Linoone cleared his throat. “This isn’t really my business,” he said, “but the way I see it... if Booker’s the one who got hurt, and he forgives Taillow, and Taillow already apologized and promised to do better... then I think you should cut her some slack. No reason to punish her if she already learned her lesson. An eye for an eye makes the whole world blind, right?”
 
 “Exactly,” I said. “So, please... just let her go, Sneasel. Things turned out okay, and I gained some good experience. You don’t have to hurt her.”
 
-Sneasel glared at Taillow. The bird looked up at her with an expression suggesting she accepted her fate, whatever Sneasel decided to do. After a long and tense staring contest, my partner sighed and looked away at last.
+Sneasel glared at Taillow. The bird looked up at her with an expression suggesting she accepted her fate, whatever Sneasel decided to do. After a long and tense staring contest, my partner sighed and looked away.
 
 “Fine,” she said. “I’ll let you go. But only because Booker wants me to. That said...”
 
@@ -449,7 +448,7 @@ Sneasel finally released Taillow. The bird fluttered her wings and flailed aroun
 
 “Sorry!” she shouted, giving me one last apology before disappearing among the massive tree stumps of Capim Town.
 
-The three of us watched her go. Sneasel sat down and sighed. Linoone sat back on his haunches and twiddled his claws.
+The three of us watched her go. Linoone sat back on his haunches and gave an awkward cough.
 
 “Oookay, glad that’s over,” he said. “Glad you didn’t hurt her too badly, Sneasel. Probably wouldn’t be a good PR move to beat up a citizen on your guildhall’s doorstep, eh?”
 
@@ -457,16 +456,16 @@ The three of us watched her go. Sneasel sat down and sighed. Linoone sat back on
 
 I nodded. “Me too. And thanks for letting Taillow go.” My voice wavered and I broke eye contact with her as I added, “Um, but... y-you kinda scared me, though. I’ve never seen you get mad like that before.”
 
-“That’s cuz nobody ever brought you that close to death before,” she said, and I could have sworn I saw her shudder slightly. “Well, if it’s all over now, and you swear that you’re okay, then I guess we can move on and forget about it. And with how I put the fear of the gods in Taillow, I bet she’ll be less of a birdbrain from now on. Hopefully.”
+“That’s cuz nobody ever brought you that close to death before,” she said, and I could have sworn I saw her shudder slightly. “Well, if it’s all over now, and you swear that you’re okay, then I guess we can move on and forget about it. And with how I just put the fear of the gods in Taillow, I bet she’ll be less of a birdbrain from now on. Hopefully.”
 
-“Hopefully,” said Linoone. “But some Pokemon never change. I’ve met Taillow before, and knowing her, I bet she’ll still get into plenty of shenanigans in the future. Anyway, I’ve still got plenty of mail to deliver, so I’ve gotta go. Glad you made it back to the ground safely, Booker. And good luck with your flying. If I can help you at all, lemme know. See ya!”
+“Hopefully,” said Linoone with a smirk. “But some Pokemon never change. I’ve met Taillow before, and knowing her, I bet she’ll still get into plenty of shenanigans in the future. Anyway, I’ve still got plenty of mail to deliver, so I’ve gotta go. Glad you made it back to the ground safely, Booker. And good luck with your flying. If I can help you at all, lemme know. See ya!”
 
-With a tip of his cap, Linoone darted off at a stunning speed. Sneasel and I watched him go, then she picked me up, put me on her head, and went towards the guildhall.
+With a tip of his cap, Linoone darted off at a stunning speed, while Sneasel put me back on her head and went towards the guildhall.
 
-“So, other than the rough ending... you said you learned some stuff from that feather-head?” she asked.
+“So, other than the rough ending...” she asked me, “you said you actually learned some stuff from that feather-head?”
 
-“Yeah,” I said. “I can give you more details later. But in a word, being up there was... unreal.”
+“Yeah,” I said. “I can give you more details later. But she did teach me useful stuff. And in a word, being up there in the sky was... unreal.”
 
-I lay down on her head and stared up at the sky. I saw a couple bird Pokemon flying around, free as the wind. Someday, I would join them. I’d taken one step closer with my experiences today. I now knew what it felt like to glide around in the air. It wasn’t true flight, but it was close, and it was enticing. For the rest of the day, and long afterward, my thoughts were filled with memories of freefalling and dreams of flight.
+I lay down on her head and stared up at the sky. I saw a couple bird Pokemon flying around, free as the wind. Someday, I would join them. I’d taken one huge step closer with my experiences today. Taillow had given me advice about flying and helped me learn a bit about my new musculature, and after flying on her back and gliding through the air on my own, I had a much better concept of how it felt to fly. I still hadn’t experienced true flight, but it was only a matter of time until I cracked the code and took to the air. For the rest of the day, and long afterward, my thoughts were filled with memories of freefall and dreams of flight.
 
-####Chapter 4: Aura (Coming soon...)
+####Chapter 4: Aura (coming soon...)

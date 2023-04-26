@@ -16,7 +16,7 @@ Some examples include but are not limited to:
 *Rosemi Lovelock* (EN): https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg
 *Olivia Monroe* (EN): https://www.twitch.tv/oliviamonroe
 *Kiki Lockheart* (EN): https://www.youtube.com/@KikiLockheartCh
-*Koyori Hakui* (JP): https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw
+*Hakui Koyori* (JP): https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw
 *Chibidoki* (EN): https://www.twitch.tv/chibidoki
 *Suo Sango* (JP): https://www.youtube.com/@SuoSango
 *Himemori Luna* (JP): https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw
@@ -33,7 +33,7 @@ Some examples include but are not limited to:
 *허니츄러스* (KR): https://www.twitch.tv/honeychurros
 *Aizono Manami* (JP): https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
 *Tulsi-Nightmare Madness IV* (JP): https://www.youtube.com/@Tulsi_Nightmare
-*Aloe Mano* (JP): https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw
+*Mano Aloe* (JP): https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw
 *Oda Nobuhime* (JP): https://www.youtube.com/channel/UCGcD5iUDG8xiywZeeDxye-A
 *Remi Vespertine* (EN): https://www.twitch.tv/remi
 *Kuramochi Meruto* (JP): https://www.youtube.com/@KuramochiMeruto
@@ -51,7 +51,6 @@ Some examples include but are not limited to:
 *Irelyth* (ES): https://www.twitch.tv/irelyth
 *Rosuuri* (EN): https://www.twitch.tv/rosuuri
 *OppaiPantsu* (EN): https://www.twitch.tv/ohpaipansuu
-*Aizono Manami* (JP): https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
 *Sasaki Saku* (JP): https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
 *Matsuro Meru* (EN): https://www.youtube.com/c/Meruru
 *AmeDoll* (AUS): https://www.twitch.tv/amedoll

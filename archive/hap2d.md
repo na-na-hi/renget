@@ -2,7 +2,6 @@ Personality blurb :)
 Name: Smith
 Species: Skorupi
 sex: Male
-
 (personality isn't 100% set in stone and is subject to change if i feel like it, im still developing this character and my writing techniques. If you ask nicely, then other anons are allowed and even encouraged to use him in their stories. I'd love to see other anon's takes on his dialogue, personality, etc, and i'd be willing to incorporate it into future work.)
 
 >Keeps to himself, usually speaks only when spoken to, and keeps his sentences brief, until he gets comfortable, then is more willing to unwind.

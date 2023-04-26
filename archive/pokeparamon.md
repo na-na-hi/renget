@@ -85,7 +85,7 @@
 >I ran as fast as I could out of there, I know it was chasing me.
 >Only stopped when I got out of the cave.
 >I'm never going back.
-![The Creature from Anonymous, created by AI](https://files.catbox.moe/9mfin9.png) ![Mirage Tower Trainer, created by Me](https://files.catbox.moe/z2o2b5.png)
+![The Creature from Anonymous, created by AI](https://files.catbox.moe/9mfin9.png)
 ##Q: Have you seen that weird trainer within the Mirage Tower?
 
 >Now I understand that the Mirage Tower in of itself is a strange rumour.
@@ -395,7 +395,7 @@
 >I fear she's dead.
 
 ![Duskull from Generation III](https://files.catbox.moe/a43013.png)
-##>Q: Naughty kids, has this ever happened to you?
+##Q: Naughty kids, has this ever happened to you?
 
 >First time posting here, hi!
 >Just wanted to see if this kind of thing happened to anyone else.
@@ -430,6 +430,45 @@
 >Mom was pretty mad at me, telling me about how dangerous that was but I couldn't focus on her at that time.
 
 >Not when I saw the skull staring at me through the window.
+
+![Venusaur from Generation I](https://files.catbox.moe/mjpexq.png)
+##A: Worst trip I ever had
+
+>What's up guys?
+>Just wanted to come on here and talk about some freaky shit that happened.
+>Also a bit of a psa, telling you guys not to do what I did.
+>Okay so starting straight off the bat, I'm an insomniac.
+>There isn't much of a reason behind it that I know of, it's just how things are right now.
+>I've tried everything from melatonin to warm glasses of milk, nothing's cutting it.
+>So last night, I had what I thought was a decent idea.
+>My Venesaur happens to know a move called Sleep Powder.
+>He shoots out some powder from the flower on his back and it sends pokemon straight to sleep.
+>And so in my mind, if they can fall asleep just from getting hit with that, I should be able to fall asleep with no issue.
+>It was a fool proof plan in my eyes.
+>At least it was.
+>Y'see, Sleep Powder has that effect on other Pokemon.
+>It's quite a bit different when you're a human being.
+>Only found this little fact out when he sprayed it in my face after I asked him to do so.
+>It was...really blurry.
+>Very dark too.
+>Could barely see a damn thing, everything that was moving looked like they were shadows.
+>My body felt like I was getting trapped in concrete, I didn't have a chance to move.
+>Thankfully I was lying in bed at the time but that didn't mean I was getting any sleep.
+>Even if I closed my eyes, I could still see those shadows.
+>Venusaur was moving around a whole bunch, stressed out with how I was reacting.
+>It got worse when I saw something else.
+>It was the only thing that wasn't like a shadow.
+>It was every colour at once.
+>It was every shape at once.
+>It was everything that had ever given me nightmares, it was that thing everyone fears when their time is up.
+>And it was going to eat my soul.
+>It walked through the fucking window.
+>When it came all the way through and gazed at me with all of those eyes and everything that wasn't an eye...
+>I blacked out.
+>When I woke up, I was out of that trip.
+
+>Sleep Powder.
+>Not even fucking once man.
 ***
 -> Fan-Submissions: Posts Made by Other People! <-
 ![Spoink from Generation III](https://files.catbox.moe/vwjfar.png)

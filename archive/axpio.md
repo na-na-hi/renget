@@ -14,17 +14,16 @@ Hiding in Plain Sight (Featuring Gloria and Faolán): https://rentry.org/9acqo
 Hiding in Plain Sight P2: https://rentry.org/7cfis
 The Flower and The Bee (Featuring Ioni and Florana): https://rentry.org/i5zen
 The Bee, The Flower, and The Hound (Featuring Florana, Ioni, and Faolán): https://rentry.org/np68b
+Exposure Therapy (Featuring Ioni and Werewolf Faolán): https://rentry.org/pkfqw
 
 -> • ───────────────── • <-
 -> **Current List of writings/requests to do:** <-
 
 SFW:
-
+Currently Empty
 
 NSFW:
 Bit of Skinny Dipping
-Exposure Therapy
-
 
 -> • ───────────────── • <-
 -> **Open to Requests** <-

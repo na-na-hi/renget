@@ -23,14 +23,12 @@
 ![Beast's Inner Beauty](https://i.imgur.com/BUUe8t7.png)
 ####McDrowning
 ![McDrowning](https://i.imgur.com/k34l2xj.png)
-####Amphadraw
-![Amphadraw](https://i.imgur.com/exK8RU3.png)
 ####Team Cozy Drunk by Linoone and Kiyo
 ![Team Cozy Drunk](https://i.imgur.com/GJlPhao.png)
 ####Imposhawott
 ![Imposhawott](https://i.imgur.com/MxJi3qJ.png)
-####Ava the Braixen
-![Ava the Braixen](https://i.imgur.com/uHVgdu2.png)
+####Smith's Over
+![Smith's Over](https://i.imgur.com/qeEQBRp.png)
 ####Adelaid's Ambitious Works
 #####Adelaid and Dahpi
 ![Adelaid and Dahpi](https://i.imgur.com/UNWg7eM.png)
@@ -43,6 +41,9 @@
 ![Capim Town Surgery Center](https://i.imgur.com/AuMMoft.png)
 #####Odd Behavior
 ![Odd Behavior](https://i.imgur.com/MdrKHVl.png)
+####Avalon Arts
+#####Avalon the Braixen
+![Avalon the Braixen](https://i.imgur.com/mq39cnq.png)
 ####Beast's Full Course
 #####Beast Thumbs Up
 ![Beast Thumbs Up](https://i.imgur.com/OumLZp8.jpg)
@@ -94,6 +95,8 @@
 ![Yes Chef](https://i.imgur.com/WbKxSCd.png)
 #####Beast Buds
 ![Beast Buds](https://i.imgur.com/jGzrHHb.png)
+#####What?
+![What](https://i.imgur.com/g4BBQrW.png)
 ####Booker's Research
 #####Booker
 ![Booker](https://i.imgur.com/tCqk4Ue.png)
@@ -141,6 +144,8 @@
 ![Chespin's Solar Beam](https://i.imgur.com/fQnssiD.png)
 #####Macom's Charge
 ![Macom's Charge](https://i.imgur.com/JqNG0tj.png)
+#####Sleepy Bullet
+![Sleepy Bullet](https://i.imgur.com/Ra9HSOZ.png)
 ####Bullet's Blitz
 #####Bullet & Mimi
 ![Bullet & Mimi](https://i.imgur.com/D5HNeRz.png)
@@ -180,6 +185,8 @@
 ![Chestube](https://i.imgur.com/TcFk8hd.png)
 #####Smerglecha
 ![Smerglecha](https://i.imgur.com/J38ZrE9.png)
+####Amphadraw
+![Amphadraw](https://i.imgur.com/exK8RU3.png)
 #####Chesthink
 ![Chesthink](https://i.imgur.com/rDyNCYv.png)
 #####Woopdrink
@@ -192,6 +199,8 @@
 ![Suspin](https://i.imgur.com/MD8uz26.png)
 #####Cloverdraw
 ![Cloverdraw](https://i.imgur.com/q9WQKr8.png)
+#####Woopstand
+![Woopstand](https://i.imgur.com/qtW7ubQ.png)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -215,6 +224,10 @@
 #####Presidents in PMD
 [ANIMATION](https://www.youtube.com/watch?v=kit8hHJZH1w)
 ![Presidents in PMD](https://i.imgur.com/u09flyt.png)
+#####Cyndaquil Alone
+![Cyndaquil Alone](https://i.imgur.com/4pVgzby.png)
+#####Growlithe-anon Portrait
+![Growlithe-anon Portrait](https://i.imgur.com/oNDri0o.png)
 ####Kaiji's Goods
 #####Kris the Schizo Absol
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
@@ -238,6 +251,8 @@
 ![PMDG Final](https://i.imgur.com/5uF2c8D.png)
 #####Chespin (forma de violencia)
 ![Chespin (forma de violencia)](https://i.imgur.com/3YOMRHi.png)
+#####enteRIng the FederaTion
+![enteRIng the FederaTion](https://i.imgur.com/560Al0h.png)
 ####Kiyo's Kino
 #####Kiyo and Sandshrew
 ![Sandshrew and Keokeo](https://i.imgur.com/tbTDBI0.png)
@@ -377,6 +392,8 @@ EDIT (Original Unknown)
 ![God's Drunkest Firefighter](https://i.imgur.com/PrNHsm2.png)
 #####Ancap Drifblim
 ![Ancap Drifblim](https://i.imgur.com/xsrAqJo.png)
+#####What the Dog Doin?
+![What the Dog Doin](https://i.imgur.com/fLkSylx.png)
 ####Sableye's Gems
 #####Batter Up
 ![Batter Up](https://i.imgur.com/rZLzk4L.png)
@@ -631,7 +648,7 @@ EDIT (Original Unknown)
 [Ancap Drifblim](https://arch-img.b4k.co/vp/1682027711921.png)
 [Skiddo Sweep](https://arch-img.b4k.co/vp/1682043606505.png)
 [Beast Buds](https://arch-img.b4k.co/vp/1682054224912.png)
-[Ava the Braixen](https://arch-img.b4k.co/vp/1682114655762.png)
+[Ava the Braixen](https://arch-img.b4k.co/vp/1682319887674.png)
 [Booker's Ultimate Challenge](https://arch-img.b4k.co/vp/1682138695896.png)
 [The Clover Badge](https://arch-img.b4k.co/vp/1682141189583.jpg)
 [Clover Guild Wave 1](https://arch-img.b4k.co/vp/1682198470523.png)
@@ -648,3 +665,11 @@ EDIT (Original Unknown)
 [Courage the Cowardly Sewaddle](https://arch-img.b4k.co/vp/1682292473922.png)
 [Cloverdraw](https://arch-img.b4k.co/vp/1682300066756.png)
 [Monka Skoupi](https://arch-img.b4k.co/vp/1682306381298.png)
+[Cyndaquil Alone](https://arch-img.b4k.co/vp/1682348153166.png)
+[What the Dog Doin](https://arch-img.b4k.co/vp/1682369429826.png)
+[Growlithe-anon Portrait](https://arch-img.b4k.co/vp/1682380105440.png)
+[Sleepy Bullet](https://arch-img.b4k.co/vp/1682392268444.png)
+[What](https://arch-img.b4k.co/vp/1682410088776.png)
+[enteRIng the FederaTion](https://arch-img.b4k.co/vp/1682486981825.png)
+[Woopstand](https://arch-img.b4k.co/vp/1682481171956.png)
+[Smith's Over](https://arch-img.b4k.co/vp/1682484717342.png)

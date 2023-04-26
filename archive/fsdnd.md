@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2481* | Last image filter update: */hmofa/ thread #2435*
+#######Last word filter update: */hmofa/ thread #2490* | Last image filter update: */hmofa/ thread #2435*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -98,7 +98,7 @@
 /(\d\n|^)the undesirables(\\.|$)/i;boards:trash;op:no
 /underdeveloped brain/i;boards:trash;op:no
 /fuck off back where you came from(\\.|,)/i;boards:trash;op:no
-/(\d\n|^)(maggot|subhuman|adolescent|go back|mid schoolers|get aids|teenage mentality|underdeveloped brain|eat shit|undesirable|worm|neck yourself|go fuck yourself|you will not replace us|end your life|you are worthless|underdeveloped|this is a (zoomer|teenager)|underage central|homework|delusion|where did you come from|your mother will die in her sleep tonight|you don't belong here|stop posting|you will rot|18\-20|(|absolute |pure )cancer)(|s)(|\\.|\?)$/i;boards:trash;op:no
+/(\d\n|^)(30%|maggot|subhuman|adolescent|go back|mid schoolers|get aids|teenage mentality|underdeveloped brain|eat shit|undesirable|worm|neck yourself|go fuck yourself|you will not replace us|end your life|you are worthless|underdeveloped|this is a (zoomer|teenager)|underage central|homework|delusion|where did you come from|your mother will die in her sleep tonight|you don't belong here|stop posting|you will rot|18\-20|(|absolute |pure )cancer)(|s)(|\\.|\?)$/i;boards:trash;op:no
 /you will never be white/i;boards:trash;op:no
 /(\d\n|^)dilate, subhuman/i;boards:trash;op:no
 /fortnite playing/i;boards:trash;op:no
@@ -121,7 +121,7 @@
 /(?=.\*(^|\d\n)this poster is)(?=.\*(mentally ill|vermin|adolescent|maggot|worm|cretin|chimp|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
 /(?=.\*discovered this general)(?=.\*(vermin|adolescent|maggot|worm|cretin|insect|spawn|chimp|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
 /(discovered|found) this (board|general) (|only )a (couple of|\d|\d or \d) (months|days|weeks) ago/i;boards:trash;op:no
-/(z[o0][o0]m|new|phone)(shit|\\bape|worm|cunt|kek|cuck|tard|child|twerp|chimp)/i;boards:trash;op:no
+/(z[o0][o0]m|new|phone)(shit|kid|\\bape|worm|cunt|kek|cuck|tard|child|twerp|chimp)/i;boards:trash;op:no
 /nu(| )(|\/)hmofa(|\/)/i;boards:trash;op:no
 /die (vermin|adolescent|maggot|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage)/i;boards:trash;op:no
 /a blm supporting/i;boards:trash;op:no

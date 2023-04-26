@@ -10,6 +10,7 @@ Omocat merch is typically readily available and will ship quickly. Check back la
 |||
 |-----|-----|
 [![Birthday 2022](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/-enFaunaBD2020banner_B0_png.png)](https://shop.hololivepro.com/en/products/ceresfauna_bd2022) | [![Valentine's 2023](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/_en_hololiveenvalentine2023_b0_1676021305.png)](https://shop.hololivepro.com/en/products/hololiveen_valentine2023?variant=43779072721116)
+[![Birthday 2023](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/en_faunabd2020banner_b0_1679018089_700x.png)](https://shop.hololivepro.com/en/products/ceresfauna_bd2023)
 
 ##Omocat
 

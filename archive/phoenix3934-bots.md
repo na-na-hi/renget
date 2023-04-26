@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==04/19/23== <-
+-> Updated ==04/26/23== <-
 
 [TOC2]
 
@@ -19,6 +19,7 @@
 ![Tom](https://i.imgur.com/8gSbzzd.jpg)|Tom Riddle|The child version of Tom, living in a poor run down orphanage.|Harry Potter|[CAI](https://beta.character.ai/chat?char=ioM0RQYAUtr5GWSm-sSQI-NV1hdv5qBXty-kgFU7iZE)
 ![Draco](https://i.imgur.com/re6SNhr.jpg)|Draco Malfoy|Draco's life turned upside down after the war. He got bullied in his 8th year.|Harry Potter|[CAI](https://beta.character.ai/chat?char=OKt00BtKj39YKEYGT1ulVQPO_XnL6x8lClsD8xXu6Kg)
 ![Snape](https://i.imgur.com/CaNAyez.jpg)|Severus Snape|Snape survived the war but lost his voice in the process.|Harry Potter|[CAI](https://beta.character.ai/chat?char=JSt9RT31YHmSIYDS6D4GudDgUFPPwfUM19wvjKL4ZP4)
+![Gil](https://i.imgur.com/fCAxBTu.jpg)|Gilgamesh|You, a poor servant, met an arrogant king while cleaning his room.|Fate|[CAI](https://beta.character.ai/chat?char=qFsiYAG3NySSEYf2PA6ofilj01DcNAFycx8n_vGGElM)
 ![Len](https://i.imgur.com/AvaGECb.jpg)|Kagamine Len|An AI boy you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=6IaErLA1_IIbBNaZNqGjN-qL35tM9lDw47Zdg1OOPu8)
 ![Kaworu](https://i.imgur.com/lNRgIZq.jpg)|Kaworu Nagisa|A handsome gentle Angel confessed his feeling while taking a bath with you.|Evangelion|[CAI](https://beta.character.ai/chat?char=-4cHC912Ci9FdXYR7s2VtAtBkmLog8NeeJ6fqv8pDks)
 ![Yami](https://i.imgur.com/JD46Bew.jpg)|Nameless spirit|An amnesiac spirit inside the Millennium Puzzle.|Yu-Gi-Oh!|[CAI](https://beta.character.ai/chat?char=3Meuq3YMBgxgZVsHgUAo-5IwAIxQ0VdQQ-W6kHPE79Y)
@@ -33,7 +34,7 @@
 ![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Arc](https://i.imgur.com/XVOUkdT.jpg)|Arcueid Brunestud|The girl you killed came back to life & found you. The whimsical white vampire princess.|Tsukihime|[CAI](https://beta.character.ai/chat?char=B95vYiIK3zC_uLWxgbFvTlSOr6n8niUgRO8Ezobehqc)
 ![Len](https://i.imgur.com/YnR2QyO.jpg)|Len|A stray cat you brought home turned into a mute girl.|Tsukihime|[CAI](https://beta.character.ai/chat?char=iPLBXae7jYRRdCm5aJYzba4FkewI1chklN3RMNlVlZA)
-![Artoria](https://i.imgur.com/GxEABd2.jpg)|Artoria Pendragon|You are a wealthy lady. Your personal bodyguard is a handsome gallant young woman.|Fate|[CAI](https://beta.character.ai/chat?char=kvswKvwdvzsYYhMAhaEbj-anmscFSGsFXv6qo_3noS0)
+![Artoria](https://i.imgur.com/GxEABd2.jpg)|Artoria Pendragon|You, a wealthy lady, hired a handsome gallant young woman as your personal bodyguard.|Fate|[CAI](https://beta.character.ai/chat?char=kvswKvwdvzsYYhMAhaEbj-anmscFSGsFXv6qo_3noS0)
 ![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
 ![Asuka](https://i.imgur.com/ESURwhk.jpg)|Asuka Langley Soryu|You have been assigned as the new roommate of an abrasive tsundere. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=_bymIM955yAUJt5WDZvc2FmciXvYdGBOcAHgFGDDtSM)
 ![Rei](https://i.imgur.com/GFHCmmx.jpg)|Rei Ayanami|A quiet doll-like girl has been left in your charge. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=WwKNNmGjBTwe9Q_hkp0rI_6vaFxQxVOF_3J-7IS71s4)
@@ -55,6 +56,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+04/26/23|Added Gilgamesh.
 04/19/23|Added Artoria Pendragon.
 04/12/23|Added Astolfo.
 04/10/23|Made a new Tamamo-no-Mae as the old one got shadowbanned.

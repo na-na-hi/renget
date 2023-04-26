@@ -1,6 +1,212 @@
 # 'Cleaner' Proxy checker - Tavern4Retards Anon.
-->Updated script, now it highlights GPT4 values, % and Promptlogging, It also auto-refreshes, every 10 minutes..<-
+->Highlights GPT4 values, % and Promptlogging, It also auto-refreshes, every 10 minutes..<-
+
+Updated it again, seeing as the gooks added more proxies and flipped the layout, now it refreshes entire page instead of induvidual. And I've merged the CSS into tempermonkey for simplicity.
+
+!!! warning
+    Tampermonkey script V3 + CSS in one and same script.
+![Image](https://i.imgur.com/cEZxTH9.png) 
+```
+// ==UserScript==
+// @name         Proxy GPT4 - Checker!
+// @author       Tavern4Retards
+// @version      3.0
+// @description  Highlight specific text and refresh the page every 10 seconds to check for changes
+// @match        https://*.hf.space/
+// @match        https://alwaysfindtheway.github.io/
+// @run-at       document-end
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+        let style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = `
+        #oaireverseproxy,
+        #servergreeting,
+        #promptloggingisenabled,
+        h1,
+        h2,
+        h3,
+        p,
+        body p {
+            display: none !important;
+        }
+        body {
+            background-color: #252525 !important;
+            color: #fff !important;
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        }
+        iframe {
+            height: 600px !important;
+        }
+    `;
+
+    document.getElementsByTagName('head')[0].appendChild(style);
+
+
+    // This array contains configurations for highlighting text
+    const highlightConfigs = [
+        {
+            regex: /"gpt4": (\d+)/g,
+            style: {
+                fontWeight: 'bold',
+                fontSize: '18px',
+                textShadow: '2px 2px 4px #000000'
+            },
+            getColor: (value) => value > 0 ? 'green' : 'red'
+        },
+        {
+            regex: /"gpt4": "(\d+)%"/g,
+            style: {
+                fontWeight: 'bold',
+                fontSize: '18px',
+                textShadow: '2px 2px 4px #000000'
+            },
+            getColor: (value) => value > 0 ? 'green' : 'red'
+        },
+        {
+            regex: /"logPrompts": "(false|true)"/g,
+            style: {
+                fontSize: '18px',
+                textShadow: '2px 2px 4px #000000'
+            },
+            getColor: (value) => value === 'false' ? 'red' : (value === 'true' ? 'yellow' : 'black')
+        },
+        {
+            regex: /"promptLogging": "(false|true)"/g,
+            style: {
+                fontSize: '18px',
+                textShadow: '2px 2px 4px #000000'
+            },
+            getColor: (value) => value === 'false' ? 'red' : (value === 'true' ? 'yellow' : 'black')
+        },
+        {
+            regex: /"gpt4": "(\d+)%"/g,
+            style: {
+                fontWeight: 'bold',
+                fontSize: '18px',
+                textShadow: '2px 2px 4px #000000'
+            },
+            getColor: (value) => value > 0 ? 'green' : 'red'
+        }
+    ];
+
+    // This function highlights text based on the configurations in highlightConfigs
+    function highlightText() {
+        for (const config of highlightConfigs) {
+            const matches = document.body.innerHTML.matchAll(config.regex);
+            for (const match of matches) {
+                const value = match[1];
+                const color = config.getColor(value);
+                const style = Object.entries(config.style).map(([key, value]) => `${key}: ${value};`).join(' ');
+                const highlightedText = `<span style="${style}">${match[0]}</span>`;
+                document.body.innerHTML = document.body.innerHTML.replace(match[0], highlightedText);
+            }
+        }
+
+        const logPromptsRegex = /"logPrompts": "(false|true)"/g;
+        const logPromptsMatches = document.body.innerHTML.matchAll(logPromptsRegex);
+        for (const match of logPromptsMatches) {
+            const value = match[1];
+            const color = value === 'false' ? 'red' : (value === 'true' ? 'yellow' : 'black');
+            const style = `color: ${color}; font-weight: bold; font-size: 18px; text-shadow: 2px 2px 4px #000000;`;
+            const highlightedText = `<span style="color: orange; font-weight: bold; font-size: 12px; text-shadow: 2px 2px 4px #000000;">${'"logPrompts": '}</span><span style="${style}">${`"${value}"`}</span>`;
+            document.body.innerHTML = document.body.innerHTML.replace(match[0], highlightedText);
+        }
+
+        const promptLoggingRegex = /"promptLogging": "(false|true)"/g;
+        const promptLoggingMatches = document.body.innerHTML.matchAll(promptLoggingRegex);
+        for (const match of promptLoggingMatches) {
+            const value = match[1];
+            const color = value === 'false' ? 'red' : (value === 'true' ? 'yellow' : 'black');
+            const style = `color: ${color}; font-weight: bold; font-size: 18px; text-shadow: 2px 2px 4px #000000;`;
+            const highlightedText = `<span style="color: orange; font-weight: bold; font-size: 12px; text-shadow: 2px 2px 4px #000000;">${'"promptLogging": '}</span><span style="${style}">${`"${value}"`}</span>`;
+            document.body.innerHTML = document.body.innerHTML.replace(match[0], highlightedText);
+        }
+
+        const gpt4Regex = /"gpt4": (\d+)/g;
+        const gpt4Matches = document.body.innerHTML.matchAll(gpt4Regex);
+        for (const match of gpt4Matches) {
+            const gpt4Value = parseInt(match[1]);
+            const gpt4Color = gpt4Value > 0 ? 'green' : 'red';
+            const gpt4Style = `color: ${gpt4Color}; font-weight: bold; font-size: 18px; text-shadow: 2px 2px 4px #000000;`;
+            document.body.innerHTML = document.body.innerHTML.replace(match[0], `<span style="${gpt4Style}">${match[0]}</span>`);
+        }
+
+        const gpt4PercentRegex = /"gpt4": "(\d+)%"/g;
+        const gpt4PercentMatches = document.body.innerHTML.matchAll(gpt4PercentRegex);
+        for (const match of gpt4PercentMatches) {
+            const gpt4PercentValue = parseInt(match[1]);
+            const gpt4PercentColor = gpt4PercentValue > 0 ? 'green' : 'red';
+            const gpt4PercentStyle = `color: ${gpt4PercentColor}; font-weight: bold; font-size: 18px; text-shadow: 2px 2px 4px #000000;`;
+            document.body.innerHTML = document.body.innerHTML.replace(match[0], `<span style="${gpt4PercentStyle}">${match[0]}</span>`);
+        }
+    }
+
+        highlightText();
+        const currentUrl = window.location.href;
+    if (currentUrl !== 'https://alwaysfindtheway.github.io/') {
+        return;
+    }
+
+    // Set the countdown interval in seconds
+    const countdownInterval = 600;
+
+    // Reload the current page with a hard refresh
+    function hardRefresh() {
+        unsafeWindow.location.reload(true);
+    }
+
+    // Define the countdown function
+    function countdown() {
+        const countdownElement = document.createElement('div');
+        countdownElement.style.position = "fixed";
+        countdownElement.style.left = "50%";
+        countdownElement.style.transform = "translateX(-50%)";
+        countdownElement.style.bottom = "10px";
+        countdownElement.style.textAlign = "center";
+        countdownElement.style.backgroundColor = "transparent";
+        countdownElement.style.color = "#fff";
+        countdownElement.style.padding = "10px";
+        countdownElement.style.fontSize = "20px";
+        countdownElement.setAttribute('id', 'countdown');
+        countdownElement.style.display = "inline-block";
+        countdownElement.style.minWidth = "200px";
+        countdownElement.style.boxShadow = "0px 0px 15px rgba(0,0,0,0.8)";
+        countdownElement.style.borderRadius = "15px";
+        countdownElement.style.backgroundImage = "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%)";
+        countdownElement.style.zIndex = "9999";
+        document.body.appendChild(countdownElement);
+
+        let count = countdownInterval;
+        const countdownId = setInterval(() => {
+            countdownElement.innerText = `Auto-Refresh in ${count--}s`;
+            if (count === -1) {
+                clearInterval(countdownId);
+                hardRefresh();
+            }
+        }, 1000);
+    }
+
+    // Add event listener to run highlightText once on page load
+    window.addEventListener('load', () => {
+        highlightText()
+        countdown();
+    }, { once: true });
+
+    // Set the interval to refresh the page every minute
+    setInterval(() => {
+        hardRefresh();
+    }, countdownInterval * 1000);
+})();
+```
 ***
+
+!!! danger
+    Old script, still work just not fitted for the new site layout.
+
 ->![Image](https://i.imgur.com/yDjfuLn.png) <-
 ***
 !!! info

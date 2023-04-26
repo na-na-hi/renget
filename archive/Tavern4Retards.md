@@ -169,9 +169,10 @@ And the next time you want to start, simply do: `./start` | [Shell script & Star
 Updating Silly | -
 - | :-
 You can update silly (*branch doesn't matter*) by running the following commands: | 
-`cd silly && git stash && git pull` | Selects "silly" folder, save local changes, updates.
+`cd silly && git stash && git pull`  | Selects "silly" folder, save local changes, updates.
 You switch to dev build w/ following commands | 
 `git checkout dev && git pull` You can switch back to main w/ `git checkout main`
+Sometimes Tavern might need to re-install dependencies when updated, if so run:   `npm install` in silly directory. | 
 !!! note
     ->The **&&** symbol is a command separator that allows you to run commands on either side. If you prefer to execute commands one at a time, you can run each command between **&&** as a standalone command.<-
 !!! danger **Uninstalling Tavern**

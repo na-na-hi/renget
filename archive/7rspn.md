@@ -1,4 +1,19 @@
 ▶NEW CLIPS
+>Western Artyomovsk report
+https://files.catbox.moe/hrpnzi.mp4
+https://files.catbox.moe/yamm5n.mp4
+>FAB undermines hohol base at electrical substation in Kremen Forest.
+https://files.catbox.moe/580ctk.MP4
+>59th VSU brigade being targeted by Russian artillery.
+https://files.catbox.moe/fn3lxy.MP4
+>Prigozhin over seeing the training of new Wagner recruits
+https://files.catbox.moe/ya24z8.mp4
+>Does China recognize Ukraine as a sovereign state?
+https://files.catbox.moe/eez9z9.mp4
+>Massive 'Stop the Ukrainization of Poland' protest
+https://files.catbox.moe/ixrxu6.mp4
+>AFU Kherson selfie offensive vs FAB-500
+https://files.catbox.moe/gtwv54.MP4
 >155th Marine Brigade /w Bandit visit DPR orphanage
 https://files.catbox.moe/y4cs7g.mp4
 >AFU soldiers one of the islands near Kherson catch two UMPK FAB-500
