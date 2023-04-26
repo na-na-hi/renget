@@ -33,6 +33,35 @@ Light 3
 Dark 3 
 Sex 3
 
+======SERVANT======
+This is my Servant, her name is Solution~ 
+
+Solution 
+Race: [Humie], [Slime] 
+Sex: [Futanari] 
+Hair: [Black] 
+Eyes: [Blue] 
+Skin: [Pale] 
+Face: [Girly] 
+Height: [Average] 
+Bust: [Medium] 
+Hips: [Feminine] 
+Butt: [Feminine] 
+Fitness: [Fit] 
+F.M.S.U.: [Everwet], [Buckets Of Cum], [Milky], [Fluid Druid], [Everhard], [Love Nectar], [Arka Tanks x5], [Arka Fountains], [Life, Uh, Finds A Way], [Eggz], [Clutch], [Scrambled] 
+G.R.M.: [Bio-Immortal], [Tasty Fate], [Regeneration], [Tireless], [Aqua Affinity], [Mermania], [Claws], [Demon Core], [Tentacles], [Doublethink], [Divergence], [Monster Mash x1] 
+U.T.T.: [Flavour Town], [Perfect Pussy], [Porn Physics], [Divine Pregnancy], [Back Support], [Pron Studio], [Mr Clean], [World Clean], [Tamed Shark ] 
+Spawn Point: [LOST] 
+Banes: [Ahegao], [No Metagaming], [Lightweight], [Masculinity], [Femininity], [Humanity], [Slime Time], [Masochist], [Sadist] 
+Boons: [Hush Money], [Tasty Prof], [Darkvision], [Talk To Me], [Relative Realism], [Soul Split], [Wisdom Incarnate], [HUD], [Status], [Hero], [Demon Lord], [Man Portions], [Permanence], [Great Sage] 
+Strength 2 
+Agility 2 
+Endurance 3 
+Durability 3 
+Combat 5 
+Arcane 2 
+Elemental 2 
+
 
 ======PROFILE======
 [EOH Name]

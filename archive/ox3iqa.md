@@ -70,3 +70,7 @@
 ![Karin and Sabrina](https://files.catbox.moe/lh2vjg.png)
 *Pokegirl domme duo*
 (tavern card) - https://files.catbox.moe/ev1cyf.png
+####Franziska Von Karma
+![Franziska Von Karma](https://files.catbox.moe/v9l523.png)
+*Arrogant prosecutor*
+(tavern card) - https://files.catbox.moe/zmhuxe.png

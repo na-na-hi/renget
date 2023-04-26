@@ -50,6 +50,7 @@
 03/2023|[Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/abs/2303.14177)
 03/2023|[SemDeDup: Data-efficient learning at web-scale through semantic deduplication](https://arxiv.org/abs/2303.09540)
 04/2023|[Segment Anything](https://arxiv.org/abs/2304.02643)
+04/2023|[A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)

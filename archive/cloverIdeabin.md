@@ -8,6 +8,9 @@
 	2. Add your idea to the top of the list so it's seen before older ideas
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
+
+A Mimikyu and Pikachu team stroll into town hawking their wares. At first they seem to be a pair of retired dungeon explorers just looking to sell off their stock, but as the story continues it becomes very clear that the Mimikyu is using the Pikachu for its own ends and manipulating him into doing everything that might possibly endanger the pair. A little bit after the Mimikyu suggests taking the Pikachu into a dungeon 'for old time's sake' and the Pikachu agrees, the protagonists find out that the Mimikyu is plotting to abandon his partner there (so that the Mimikyu can have 100% of their business' profits). From there it becomes a race against the clock to save Pikachu from his partner! How will our heroes succeed (or fail)?
+
 ***
 Now reformed, the former outlaw Smeargle opens an unusual shop in town. Here, he can show you a different perspective on life by switching the bodies of you and a willing participant for one day. Don't worry, the law is around to make sure he holds up his end of the bargain. Do you simply goof around for the day? Use it to get a taste of a comrade's abilities firsthand? Lose a bet and the winner chose this? Or does an urgent mission come up, forcing the two of you to tackle it in an unfamiliar form?
 

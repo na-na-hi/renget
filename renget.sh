@@ -20,6 +20,10 @@ p(){
     printf '%s\n' "$*"
 }
 
+pn(){
+    printf '%s' "$*"
+}
+
 die(){
     echo "$@" 1>&2
     exit 1
@@ -94,6 +98,7 @@ get_ids()
     case "$1" in
     chan) get_ids_from_chan "$2";;
     rentry) get_ids_from_rentry "$2";;
+    id) p "$2";;
     *) die "invalid mode";;
     esac
 }
@@ -105,7 +110,7 @@ download_id()
     md=$(get "https://rentry.org/$id/raw")
     fail && p "download rentry md $id failed" && return 1
     p "$md" | grep -q '<title>Error</title>' && p "download rentry md $id failed" && return 1
-    p "$md" -o "$id.md"
+    pn "$md" > "$id.md"
 }
 
 download_ids_aria2()

@@ -67,7 +67,8 @@ Some examples include but are not limited to:
 *Yuikaichan* (EN): https://www.twitch.tv/yuikaichan
 
 ###Salmon Pink:
-*Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko/videos
+*Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
+*Nekomiya Hinata* (JP): https://www.youtube.com/@NekomiyaHinata
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
@@ -83,6 +84,12 @@ To be *only* discussed within the context and as relating to their transient pin
 *Pink Bao the Whale* (EN): https://www.twitch.tv/baoo
 *Pink Shylily* (EN): https://www.twitch.tv/shylily
 *Uruha Rushia* (JP): https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ
+
+###Pink Halflings:
+Defined as vtubers whose hair is around half *solid* pink (Not highlights or underlayer), usually vertically divided.
+*Kotoka Torahime* (EN): https://www.youtube.com/@KotokaTorahime
+*Ame Doll* (EN): https://www.twitch.tv/amedoll
+*Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

@@ -1,6 +1,6 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
+![suggested OP image](https://i.imgur.com/iGrNw8e.png)
 Anniversary Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>427358572

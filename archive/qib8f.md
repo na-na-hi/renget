@@ -6,8 +6,11 @@ Listed below are archives containing RP (roleplaying) and ERP (erotic roleplayin
 
 Keep in mind that most messages in the CSV files are in raw HTML and are **not** ready for use for LLM training or fine-tuning. Further processing will be needed for that.
 
-!!! warning Be careful
+!!! danger Be careful
 	Except for rather basic selection criteria (e.g. forum thread length), messages are completely unfiltered, therefore cleaning for removing [PII](https://en.wikipedia.org/wiki/Personal_data) and so-called [CSAM](https://en.wikipedia.org/wiki/Child_sexual_abuse_material) where needed will be necessary.
+
+!!! warning
+	Anonfile download links may occasionally temporarily fail or give 404 error. Try downloading again if that happens.
 
 Site name |   | Forum Section | Quality | Theme | Link | Message length statistics and notes |
 ---|:-:|---|---|---|:-:|---

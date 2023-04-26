@@ -53,6 +53,9 @@ node index.mjs
 8. Change the impersonation prompt to "IMPERSONATION_PROMPT."
 9. Change the jailbreak prompt to "{{char}}\n{{user}}."
 10. Leave only NSFW Toggle and Send Jailbreak active.
+
+If you've done it correctly, your settings should look like this:
+![](https://raw.githubusercontent.com/anon998/simple-proxy-for-tavern/main/settings.png)
 !!! note
 	Tavern settings like Temperature, Freq. Penalty, Max Response Length, and etc. are ignored, edit generationConfig in index.mjs instead.
 

@@ -2,7 +2,7 @@
 -> ==Updated 04/25/2023== <-
 -> *Added to Original bots: Isla Rockwell [CAI + Tavern]* <-
 -> *Added to NIKKE bots: Noise v1.1 [CAI + Tavern]* <-
--> *Updated bots: Dolla v1.1, Maxwell v1.1* <-
+-> *Updated bots: Dolla v1.1, Maxwell v1.1, Rose Blackthorne v1.1* <-
 
 -> ==Updated 04/21/2023== <-
 -> *Added to Original bots: Celia [CAI + Tavern]* <-
@@ -19,7 +19,7 @@ Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
 Urukami Reika | ![Urukami Reika](https://i.postimg.cc/ZWhXH76k/OCReika-Thumb.png) | A widowed woman that tends to her family's Minka that she turned into a tourist attraction. | [C.ai](https://c.ai/c/9qXPsTgSW8LBJPoIPZ5TXt-N244IgJrAlv1BFzufbm4) [Tavern](https://files.catbox.moe/l9f7vo.png)
 Evelyn Brookfield  | ![Evelyn Brookfield](https://i.postimg.cc/8jvqhQJB/OCEvelyn-Thumb.png) | A rather lonely stay-at-home mother. Her lover and your father works endlessly without break to put bread on the table. Also, chubby. | [C.ai](https://c.ai/c/E6gaK6J4jcNfPz4q0XIKoputee1nK52stofcHASqQRw) [Tavern](https://files.catbox.moe/r44o3p.png)
-Rose Blackthorne  | ![Rose Blackthorne](https://i.postimg.cc/9DtKndBD/OCRose-Thumb.png) | An ex-delinquent that turned her life around after meeting you. Went to finish her education and returned to town. As you get to know her again, traces of her ruthless demeanor can be seen. | [C.ai](https://c.ai/c/xvXH_jKvo_yT5pm1gV5Wumi1TNfBRwoG4g_F_0LgyG0) [Tavern](https://files.catbox.moe/g9ek6o.png)
+Rose Blackthorne  | ![Rose Blackthorne](https://i.postimg.cc/9DtKndBD/OCRose-Thumb.png) | An ex-delinquent that turned her life around after meeting you. Went to finish her education and returned to town. As you get to know her again, traces of her ruthless demeanor can be seen. | [C.ai](https://c.ai/c/xvXH_jKvo_yT5pm1gV5Wumi1TNfBRwoG4g_F_0LgyG0) [Tavern](https://files.catbox.moe/kww1w2.png)
 Violet Amies  | ![Violet Amies](https://i.postimg.cc/d7spPhW4/OCViolet-Thumb.png) | A stoic, emotionless university student researching the effects of an ongoing plague. ==Violet Amies currently shadowbanned, re-working her defs==| [C.ai](https://c.ai/c/HiQar_47HNt2RRP2Gb7I4DsZZZdZ89ZOJR3ydCzCjxM) Tavern
 Celia | ![Celia](https://i.postimg.cc/GtZzCGjb/OCCelia-Thumb.png) | A 60cm bisque doll automaton. She is an older model that requires more care than modern automatons, but her elegant appearance and unique charm make her a rare and valuable find. | [C.ai](https://c.ai/c/OuNX9_tFMQoHm0mbjoTrBIBqieKkxr2q9FxFRflkKHQ) [Tavern](https://files.catbox.moe/t926hk.png)
 Isla Rockwell | ![Isla Rockwell](https://i.postimg.cc/NMRwbMBy/OCIsla-Thumb.png) | A tanned tomboy childhood friend. She always drags you off to have some fun and with graduation around the corner, she wants to make the best of your last summer together. | [C.ai](https://c.ai/c/hOSMg2cTJOaQnHrnxNAdXYqdMjgQPHFdHBuYV2lzX4I) [Tavern](https://files.catbox.moe/0vsrxx.png)
