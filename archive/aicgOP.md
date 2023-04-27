@@ -1,16 +1,171 @@
 #/aicg/ OP templates
 ->Images Included<-
 
-!!!note IMPORTANT INFO
+!!!warning IMPORTANT INFO
+	Pictures are unavailable for the time being. I'll retake them all for the 6 OPs in here.
+
 	OPs status
 	OP | Text/Image
 	------ | ------
-	OP1    | Text updated. Picture outdated
-	OP2    | Text updated?. Picture outdated
-	OP3    | Text updated. Picture outdated	
+	OP1    | Text updated. No picture
+	OP2    | Text updated?. No picture
+	OP3    | Text updated. No picture
+	OP1 (trimmed)    | Text updated. No picture
+    OP2 (trimmed)    | Text updated. No picture
+	OP3 (trimmed)    | Text updated. No picture
 	
-	The pictures for 1 and 3 are fixed now, I'm going back to be a wagie so I'll only be here on evenings and some of the night and it's really hard to catch up with the threads so if you have to tell me something do it here ohgodohfuckwhywhypleasegod@proton.me, (Don't worry I'll still bake and I'll probably lurk at work. And I'll keep this thing up to date). Remember to Be calm and reasonable
+	
+	I'm back to being a wagie so I'll only be here on evenings and some of the night and it's really hard to catch up with the threads so if you have to tell me something do it here ohgodohfuckwhywhypleasegod@proton.me, (Don't worry I'll still bake and I'll probably lurk at work. And I'll keep this thing up to date). Remember to Be calm and reasonable
 [TOC]
+
+##Trimmed OPs
+
+######OP1
+```
+--Edition here--
+A general dedicated to discussion & development of AI Chatbots
+
+>New
+--News here--
+https://github.com/AmmoniaM/Spermack [Ruski Claude]
+
+>Bots
+https://www.characterhub.org
+https://booru.plus/+pygmalion
+https://rentry.org/cai-list [CAI resources]
+https://rentry.org/meta_bot_list [Foreign Bots]
+https://zoltanai.github.io/character-editor/ 
+
+>OAI fronts
+>Tavern
+https://github.com/SillyLossy/TavernAI [Tavern]
+https://rentry.org/sillytermux [Mobile Extras]
+https://rentry.org/Tavern4Retards [Keyshare guide]
+>Agnai
+https://agnai.chat/
+https://rentry.org/agnai_reverse_proxy [Keyshare guide]
+
+>Botmaking
+>Intro
+https://rentry.org/botmaking_tips
+>Guides
+https://rentry.org/MothsBotMakingStuff
+https://rentry.org/oaicards
+
+>Local models (Pygmalion, LLaMa)
+>>>/g/lmg/ [up-to-date documentation and discussion]
+https://rentry.org/aicg_op_overflow#local-models [Useful links]
+
+>Other
+>Miku, a full immersive frontend
+https://docs.miku.gg/
+https://rentry.org/mikugg
+>Get texts from your waifu
+http://rentry.org/waifutext
+
+>Meta
+https://rentry.org/aicgOP [OP templates for easy baking]
+https://alwaysfindtheway.github.io [Proxy checker]
+https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
+https://rentry.org/aicg_meta [/aicg/'s assessments]
+https://rentry.org/aicg_op_overflow#other [Extra Info]
+
+Previous: --Last thread here--
+```
+######OP2
+```
+A general dedicated to discussion & development of AI Chatbots.
+
+--Edition here--
+
+>News/Meta
+--News here--
+https://github.com/AmmoniaM/Spermack [russian tavern slack claude hack]
+https://rentry.org/Brazilnumeroum [Send your logs for llama tune]
+
+>Frontends
+>Silly
+https://github.com/SillyLossy/TavernAI [multi-bot chats, auto-summary, picture-sending]
+https://rentry.org/sillytermux [Extras. Phone]
+https://rentry.org/Tavern4Retards [guide]
+>Agnai
+https://agnai.chat/ [Full web no-DL option, multi-user rooms, Claude API]
+https://rentry.org/agnai_reverse_proxy [Video guides for proxies/Claude API]
+
+>Bots
+https://www.characterhub.org
+https://booru.plus/+pygmalion
+https://rentry.org/cai-list [/aicg/ CAI bots + CAI resources]
+https://rentry.org/meta_bot_list  [4chan-made bots meta-rentry]
+https://zoltanai.github.io/character-editor/ [creator/editor]
+
+>Botmaking
+>Basic
+https://rentry.org/botmaking_tips
+>Advanced
+https://rentry.org/MothsBotMakingStuff
+https://rentry.org/oaicards
+
+>Local models (Pygmalion, LLaMa)
+>>>/g/lmg/ [up-to-date documentation and discussion]
+https://rentry.org/aicg_op_overflow#local-models [Useful links]
+
+>Other
+https://rentry.org/aicgOP [OP templates for easy baking]
+https://alwaysfindtheway.github.io [Proxy checker]
+https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
+https://rentry.org/aicg_meta [/aicg/ services/FE assessment]
+https://rentry.org/aicg_op_overflow#other [CAI, Kobold, NAI, Miku, waifutext...]
+
+Previous: --Last thread here--
+```
+######OP3
+```
+A general dedicated to discussion & development of AI Chatbots
+
+>--your edition--
+
+▶Recent
+--News here--
+ruski claude: https://github.com/AmmoniaM/Spermack
+
+▶Frontends
+▶Silly
+silly tavern: https://github.com/SillyLossy/TavernAI
+mobile extras: https://rentry.org/sillytermux
+keyshare guide: https://rentry.org/Tavern4Retards
+▶Agnai
+https://agnai.chat/
+keyshare guide: https://rentry.org/agnai_reverse_proxy 
+
+▶Bots
+https://www.characterhub.org
+https://booru.plus/+pygmalion
+bots and resources on cai: https://rentry.org/cai-list
+outsider bots: https://rentry.org/meta_bot_list
+https://zoltanai.github.io/character-editor/
+
+▶Botmaking
+basic: https://rentry.org/botmaking_tips
+advanced:
+https://rentry.org/MothsBotMakingStuff
+https://rentry.org/oaicards
+
+▶Local models (Pygmalion, LLaMa)
+>>>/g/lmg/ [up-to-date documentation and discussion]
+extra links: https://rentry.org/aicg_op_overflow#local-models
+
+▶Meta
+OP templates: https://rentry.org/aicgOP
+services assessment: https://rentry.org/aicg_meta
+key verifier: https://github.com/Buhankoanon/OAI_API_Checker
+proxy checker: alwaysfindtheway.github.io
+extra topics: https://rentry.org/aicg_op_overflow#other
+
+Previous: --Last thread here--
+```
+
+##Full OPs
 
 ######OP 1
 ```
@@ -68,7 +223,6 @@ http://rentry.org/waifutext
 >News/Meta
 https://rentry.org/aicgOP [OP templates for easy baking]
 https://rentry.org/aicg_meta [Full /aicg/ assessment]
-https://rentry.org/Brazilnumeroum [Logs here]
 https://rentry.org/agnai_reverse_proxy [Keyshare guide. agnai]
 https://rentry.org/Tavern4Retards [Keyshare guide. Tavern.]
 https://rentry.org/sillytermux [Silly extras. Phone]
@@ -80,12 +234,6 @@ https://github.com/AmmoniaM/Spermack [Ruski Claude]
 
 Previous: --last thread--
 ```
-
-With my custom CSS + 4chanX and OneeChan:
-![CSS](https://imgur.com/nzIs43S.png)
-
-Vanilla:
-![NO CSS](https://imgur.com/wQzjZGS.png)
 
 ######OP 2
 ```
@@ -101,7 +249,6 @@ rentry.org/Tavern4Retards [Proxy guide. Tavern]
 rentry.org/sillytermux [Silly extras. Phone]
 rentry.org/oaicards [Bot Making]
 rentry.org/aicg_meta [/aicg/ model assessment]
-rentry.org/Brazilnumeroum [Send your logs for llama tune]
 rentry.org/aicgOP [OP templates for easy baking]
 alwaysfindtheway.github.io [Proxy checker]
 github.com/Buhankoanon/OAI_API_Checker [Key checker]
@@ -152,12 +299,6 @@ http://rentry.org/waifutext
 
 Previous: --Last thread here--
 ```
-
-With my custom CSS + 4chanX and OneeChan:
-![CSS](https://imgur.com/i7NR9NE.png)
-
-Vanilla:
-![NO CSS](https://imgur.com/muPJUPC.png)
 
 ######OP 3
 ```
@@ -213,7 +354,6 @@ https://rentry.org/mikugg
 http://rentry.org/waifutext
 
 ▶Meta
-logs for brazil bussy: https://rentry.org/Brazilnumeroum
 russian claude: https://github.com/AmmoniaM/Spermack
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
@@ -226,9 +366,3 @@ bots guide: https://rentry.org/oaicards
 
 Old: --Old thread--
 ```
-
-With my custom CSS + 4chanX and OneeChan:
-![CSS](https://imgur.com/b19fspq.png)
-
-Vanilla:
-![NO CSS](https://imgur.com/WPavVx3.png)

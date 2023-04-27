@@ -1,6 +1,7 @@
 -> It's been annoying to maintain my shitty rentry *(plus a few of the trial keys are dead)*, so please use my HF proxy: <-
 -> https://moxxie-knolastname-530560494330.hf.space/proxy/openai/v1 <- 
--> The proxy is actively updated and it has newer keys. <-
+-> ~~The proxy is actively updated and it has newer keys.~~ <-
+-> The proxy is completely fucking dead. <-
 ***
 -> \>t. devnull <-
 -> *I'm not giving away keys unless I'm posting under my trip (!!V8y0yf5xRbh or  !Moxxie9ans)* <-

@@ -147,3 +147,4 @@
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 01/2023|[Semianalysis - overview of OpenAI Triton And PyTorch 2.0](https://archive.is/upoNg)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)
+04/2023|[Yohei Nakajima - AsymmeTrix: Asymmetric Vector Embeddings for Directional Similarity Search](https://archive.ph/nbMXN)

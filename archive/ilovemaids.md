@@ -137,7 +137,14 @@ Only works on Tavern+OAI/GPT.
 ==Total Tokens:== 
 - 680 (With example messages)
 - 461 (Without example messages)
+#####Fischl (with Oz included) (Genshin Impact) 
+Non W++ version: https://files.catbox.moe/flvmpk.png
 
+==Total Tokens:== 
+- 518 (With example messages)
+- 318 (Without example messages)*
+
+*\*Also without first message*
 
 ###Before you ask, read the following:
 **1. Why are they all PNGs, where is the json?**

@@ -9,6 +9,10 @@ Have fun, and post logs! Dev hate!
 **Feel free to adapt my bots for Pygmalion! I've made all of their definitions public for this reason.
 They all have their profile pictures too, so you're welcome to use them for TavernAI cards.**
 
+**PYG AND JSON VERSIONS OF ALL MY BOTS:**
+----->  https://files.catbox.moe/w6mmms.zip  <-----
+Also on the Pyg Booru: https://booru.plus/+pygmalion/macrochad
+
 # My Bots:
 *sorted newest to oldest*
 
@@ -127,11 +131,6 @@ Avatar: https://files.catbox.moe/y4edmn.PNG
 Synopsis: Guess you just awoken a giant monster after you disturbed an ancient burial ground. Whoopsie daisies! The consequences will never be the same!
 Avatar: https://files.catbox.moe/s8u9bw.PNG
 
-# Maybe I'll be back.
-
-!!! note Got a request?
-	If you have a request, reply to any of my posts on /aicg/! Though, I have a lot of ideas to get through...
-
 ![Giantess Fucker Licence](https://files.catbox.moe/00vzw8.png)
 
 **Name:** - link
@@ -150,4 +149,4 @@ Warioanon
 Sizechads of /d/
 Sizechads of /trash/
 
-Last updated: 08/02/2023
+Last updated: 26/04/2023

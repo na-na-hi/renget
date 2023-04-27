@@ -147,8 +147,9 @@ Negatives: braid,
 #####Fubuki
 	shirakami fubuki, hololive, white hair, long hair, low ponytail, side braid, ahoge, green eyes, fox ears, fox tail, black tail fur, star tail ornament, 
 Negatives:
-!!! note Note:
-	It tries to make her low ponytail into her tail or sometimes just not give her the tail at all. Removing the low ponytail tag will retain her upper hair shape while allowing her tail to generate correctly, but will just cut her hair off at the short part.
+!!! note Notes:
+	* It tries to make her low ponytail into her tail or sometimes just not give her the tail at all. Removing the low ponytail tag will retain her upper hair shape while allowing her tail to generate correctly, but will just cut her hair off at the short part.
+	* For Kurokami: kurokami fubuki, hololive, fox ears, red eyes, black hair, side braid, ahoge, long hair, low ponytail, 
 
 #####Mio
 	ookami mio, hololive, wolf ears, orange eyes, black hair, long hair,
@@ -156,7 +157,7 @@ Negatives: blue hair, two side up, twintails, one side up,
 !!! note Notes:
     * For some reason it always tries to give her twintails, thus the extra negatives.
 	* Her actual tail is never happening so "wolf tail" just tries to give her a Fubuki tail instead. Adding "tail," to negatives will remove the tail generation entirely if you don't like this.
-	* My wife is cute!
+	* My wife is cute and fat!
 
 #####Okayu
 	nekomata okayu, hololive, ahoge, cat ears, cat tail, 
@@ -281,6 +282,10 @@ Negatives: french braid,
 !!! note Notes: 
 	* We have Polka at home.
 	* Her side braid is RNG.
+
+#####Aloe
+	mano aloe, hololive, pink hair, blonde colored inner hair, horns, hair bow, blue eyes, long hair, pointy ears,
+Negatives: 
 
 -----------------------------------------
 
@@ -491,7 +496,7 @@ Negatives: red hair, twintails, two side up,
 
 ---------------------------------------
 
-##Nijisanji: New!
+##Nijisanji:
 
 ###EN:
 ####GaZuLight:
@@ -984,22 +989,176 @@ Negatives:
 
 ---------------------------------------
 
-##Indies and Others: New!
-###VOMS
-#####Pikamee
+##Indies and Outlaws: New!
+###VOMS:
+####Pikamee
 	amano pikamee, voms, short hair, blonde hair, (green colored inner hair), green eyes, antenna,
 Negatives: twintails, two side up, 
 !!! note Note:
 	I love Pikamee as my girlfriend as she has boing boing!
 
+---------------------------------------
 
-###OTHERS
-#####Kizuna Ai
+###VShitshow:
+####Kson
+	kson, purple hair, short hair, ponytail, blue eyes, streaked hair, glasses,
+Negatives: twintails, two side up, 
+!!! note Note:
+	Her eyes aren't exactly blue or purple. Can you believe they really let the colorblind guy do the rentry?
+
+####Nazuna
+	amemiya nazuna, vshojo, silver hair, white beret, pink eyes, blue eyes, heterochromia, short hair, single braid,
+Negatives: black headwear, pointy ears,
+!!! note Note:
+	Trying to prompt her hair correctly somehow made it worse, I don't get it.
+
+####Nyanners
+	nyatasha nyanners, vshojo, pink hair, long hair, twintails, purple eyes, cat ears, ahoge, parted bangs, hair between eyes, black hair bow, 
+Negatives: 
+!!! note Note:
+	Nyanners constantly talks about architecture on stream and is /here/, so consider prompting her fat or pregnant. She would like to be either.
+
+####Veibae
+	vei \(vtuber\), vshojo, white hair, very long hair, short red horns, hair between eyes, parted bangs, blue eyes, pointy ears, ahoge, 
+Negatives: twintails, two side up, demon horns, 
+!!! note Note:
+	I don't know why her horns are like that sometimes. If you remove demon horns from negatives they are really long. 
+
+####Silvervale
+	silvervale, vshojo, blue hair, pink hair, gradient hair, blue wolf ears, blue eyes, swept bangs, very long hair, (hair flower), 
+Negatives: twintails, two side up, hair ribbon, hair bow, low twintails,
+!!! note Note:
+	The hair flower placement is RNG. Her pink fluff is never ever.
+
+####Melody
+	melody \(projektmelody\), vshojo, blue eyes, purple hair, multicolored hair, gradient hair, high ponytail, triangle hair ornaments, bangs, hair between eyes, streaked hair, 
+Negatives: 
+!!! note Note:
+	"bandaid on nose," is a tag, it just doesn't work. 
+
+####Ironmouse
+	ironmouse, vshojo, pink hair, purple hair, medium hair, white horns, purple eyes, bangs, heart hair ornaments, multicolored hair, pointy ears, heart ahoge, two side up, two-tone hair, 
+Negatives: 
+!!! note Note:
+	We have Ironmouse at home, the horns are correct though so I added her anyway. Nobody watches VShojo, you'll be fine.
+
+####Froot
+	bsapricot \(vtuber\), vshojo, green hair, multicolored hair, colored inner hair, horns, green eyes, bangs, sidelocks, pointy ears, 
+Negatives: 
+!!! note Note:
+	When trying to prompt her with her husband, the AI will often generate a second man that fucks her instead.
+
+
+
+Zentreya is in Males.
+
+---------------------------------------
+
+###774 inc.:
+####Patra
+	suou patra, silver hair, pink hair, long hair, cone hair buns, double bun, red eyes, very long hair, 
+Negatives: twintails, two side up, 
+
+---------------------------------------
+
+###Vic inc.:
+####Luna
+	kaguya luna, white hair, twintails, hair ornament, blue eyes, bangs,
+Negatives: 
+!!! note Note:
+	Her cat ear looking things are baked in, I don't know how to prompt for them if they don't show up.
+
+---------------------------------------
+
+###Vspo!:
+####Beni
+	yakumo beni, vspo!, green hair, long hair, swept bangs, purple earrings, purple eyes, 
+Negatives: pointy ears, twintails, two side up, 
+
+---------------------------------------
+
+###Indies
+####Kizuna Ai
 	kizuna ai, swept bangs, blue eyes, brown hair, pink hair, hair bow, long hair, pink hairband, two-tone hair, long sidelocks,
 Negatives: twintails, two side up, messy hair, pointy ears, blue hair, purple hair,
 !!! note WIP Outfit:
 	arm warmers, bare shoulders, black ribbon, boots, detached sleeves, lace-trimmed legwear, lace-trimmed sleeves, navel, sailor collar, sideboob, short shorts, striped ribbon, striped thighhighs, thigh boots, thighhighs, vest, virtual youtuber, white footwear, white shorts, white sleeves, white thighhighs, white vest, 
 
+####Ui Mama
+	shigure ui \(vtuber\), blonde hair, short hair, bangs, (hair rings), red beret, swept bangs, green eyes,
+Negatives: blue beret, pointy ears, black beret, hair ribbons, hair bows, twintails, 
+!!! note Note:
+	The AI will attempt to generate the right side of her head but this does not exist. Any images of the right side of Ui's head should be disposed of immediately. 
+!!! warning
+	Do not look at it.
+
+####Shondo
+	fallenshadow, purple hair, blunt bangs, pink hair bows, pink eyes, medium hair, sidelocks,  
+Negatives: 
+
+####Delutaya
+	delutaya, green hair, streaked hair, twin drills, ahoge, bangs, red eyes, triangle hair ornament, earrings,
+Negatives: 
+!!! note Note:
+	I don't have a fucking clue how to tag those things on her head so kinda Triangle at home.
+
+####Bao
+	bao \(vtuber\), blue hair, long hair, bangs, red eyes, hair between eyes,
+Negatives: 
+!!! note Notes:
+	* The shape of the cum stain on her hair is RNG but will always be in the right spot. The side sparkles are more rare.
+	* It may give her normal hair sidelocks, adding "sidelocks" to negatives will remove them but may also fuck up the rest of her head so try rolling a new seed instead.
+
+####Michael Feline
+	mikeneko \(utaite\), pink hair, gradient hair, purple hair, cat ears, purple eye, white eye patch, ahoge, black lolita hairband, multicolored hair, 
+Negatives: double bun, red hair, 
+!!! note Note:
+	You may need more emphasis on gradient hair. Eye patch tends to be black instead of white.
+
+---------------------------------------
+
+##Males: New!
+###Homostars:
+####Miyabi
+	hanasaki miyabi, holostars, red hair, short hair, hair between eyes, yellow eyes,
+Negatives: twintails, two side up, pointy ears, 
+
+####Izuru
+	kanade izuru, holostars, black hair, hair between eyes, short hair, purple eyes, black hood, bangs, hair over one eye, ear piercings,
+Negatives: braid, 
+
+---------------------------------------
+
+###People of Anycolor:
+####Kuzuha
+	kuzuha, nijisanji, white hair, short hair, messy hair, hair between eyes, red eyes, ear piercings, sharp teeth, 
+Negatives: 
+
+####Masaru
+	suzuki masaru, nijisanji, grey hair, black hair, multicolored hair, short hair, brown eyes, streaked hair, 
+Negatives: twintails, two side up, blue hair, 
+
+####Vox
+	vox akuma, nijisanji, black hair, red hair, (multicolored hair), medium hair, two-tone hair, yellow eyes, pale skin, bangs, hair over one eye, eye liner, eye shadow, messy hair, tassel earrings,
+Negatives: braid, white hair, purple hair, hair bow, hair ribbon, colored inner hair, 
+!!! note Notes:
+	* Depending on your mix this may be Vox at home.
+	* Makes for a cute girl as well.
+
+####Mysta
+	mysta rias, nijisanji, brown hair, short hair, orange sunglasses, round eyewear, blue eyes, sidelocks, white cap,
+Negatives: pointy ears,
+!!! note Note:
+	It definitely knows who he is but not his hat. The glasses may be orange more often without tagging blue eyes but it's rng what color his eyes are in that case.
+
+---------------------------------------
+
+###VShojo:
+####Zentreya
+	zentreya \(vtuber\), vshojo, red hair, yellow eyes, hair between eyes, ponytail, messy hair, dragon horns, sidelocks,
+Negatives: 
+!!! note Note:
+	Should make his ears pointy by default but prompting for them specifically fucks up the horns for some reason.
 
 ====================================================================================================================================================================================================
 

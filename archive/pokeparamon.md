@@ -468,7 +468,37 @@
 >When I woke up, I was out of that trip.
 
 >Sleep Powder.
->Not even fucking once man.
+>Not even fucking once man
+
+![Alakazam from Generation I](https://files.catbox.moe/pm6eeu.png)
+##Q: This should be a banned move, right?
+
+>Teleport should be banned from any and all trainers.
+>I'm in a volatile mood since this happened very recently so I don't want to see people giving me shit for this.
+>I just want to get this shit off of my chest so that you guys can understand my point of view.
+>And maybe so you guys won't think of trying it yourself.
+>So to start this off, I'm a novice trainer.
+>Been looking into making a good start on it for a while now, finally got the opportunity to do so when my brother gifted me his Alakazam.
+>He was a good fighter, would've made me go pretty far in the minor league tournament that's held in my town sometimes.
+>But the team composition needed another well rounded Pokemon so I went over to Route 4.
+>Heard from a couple of friends that Ekans are usually spotted there so I figured I may as well get a poison type to help vary my options in battle.
+>So heading over there and after waiting it out a bit, I finally managed to see one.
+>It slithered around and threw some attacks at Alakazam, which got him poisoned.
+>As a novice, I didn't think to get anything to help cure him and I didn't want him to faint out here like that.
+>So without thinking and while Ekans was diving in to puncture him with a bite, I made Alakazam use Teleport.
+>We teleported straight to where we had just entered to get into Route 4.
+>I sighed and picked up the Pokeball to let Alakazam back in.
+>I stopped myself when I heard his screams.
+>Or rather, their screams.
+>It looked like Ekans had managed to land the hit after all.
+>I could tell as its neck was spurting a heavy stream of blood.
+>It, not them.
+>They were now one after all.
+>Alakazam took on a sickly colour of yellow and purple, with its arms and legs reduced to slimy nubs.
+>Its face looked as if it had been sanded down at the sides to fit the shape of Ekans, with muscle tissue and bone left underneath.
+>I panicked.
+>I ran away, leaving that thing to die alone.
+>Jesus, I should've comforted him.
 ***
 -> Fan-Submissions: Posts Made by Other People! <-
 ![Spoink from Generation III](https://files.catbox.moe/vwjfar.png)

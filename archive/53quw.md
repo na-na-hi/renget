@@ -32,3 +32,6 @@ Wiki - https://succov.miraheze.org/wiki/Main_Page
 ***
 ######->Aurelia<-
 Wiki - https://aurelia-game.fandom.com/wiki/Aurelia_Wiki
+***
+######->MilkyQuestII<-
+Guide - https://rentry.co/igcxdo

@@ -198,7 +198,7 @@ This archiver is a Python script that:
 ```python
 # Version 3
 
-import time, os, re, chat_downloader, yt_dlp, schedule
+import datetime, time, os, re, chat_downloader, yt_dlp, schedule
 from slugify import slugify
 from multiprocessing import Process, Manager
 
@@ -223,18 +223,36 @@ scanned_streams = '1-10' # first 10 streams in /streams page, scanning more make
 
 p_active = {}
 
+class WindowsInhibitor:
+	'''Prevent OS sleep/hibernate in windows; code from:
+	https://github.com/h3llrais3r/Deluge-PreventSuspendPlus/blob/master/preventsuspendplus/core.py
+	API documentation:
+	https://msdn.microsoft.com/en-us/library/windows/desktop/aa373208(v=vs.85).aspx'''
+	ES_CONTINUOUS = 0x80000000
+	ES_SYSTEM_REQUIRED = 0x00000001
+
+	def __init__(self):
+		pass
+
+	def inhibit(self):
+		import ctypes
+		print("Preventing Windows from going to sleep")
+		ctypes.windll.kernel32.SetThreadExecutionState(
+			WindowsInhibitor.ES_CONTINUOUS | \
+			WindowsInhibitor.ES_SYSTEM_REQUIRED)
+
+	def uninhibit(self):
+		import ctypes
+		print("Allowing Windows to go to sleep")
+		ctypes.windll.kernel32.SetThreadExecutionState(
+			WindowsInhibitor.ES_CONTINUOUS)
+
 def prog_hook(d,active,id):
 	if d['status'] == 'downloading':
 		active[id] = [True, True, d['fragment_index']]
 	if d['status'] == 'finished' and active[id][1]:
 		active[id] = [True, False, active[id][2]]
 		print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Stream ended with " + str(active[id][2]) + " frags.")
-
-def to_time(s):
-	d = "%d:" % int(s/(60*60*24)) if s > 60*60*24 else ""
-	h = "%02d:" % int(s/(60*60)%24) if s > 60*60 else ""
-	m = "%02d:" % int(s/60%60) if s > 60 else ""
-	return d + h + m + ("%02d" % (s%60))
 
 def grab_Metadata():
 	ydl_opts = {
@@ -388,6 +406,9 @@ def archiver(active):
 			p_active[id] = {'vid': vid, 'chat': chat}
 
 if __name__ == '__main__':
+	# in Windows, prevent the OS from sleeping while we run
+	if os.name == 'nt':
+		WindowsInhibitor().inhibit()
 	with Manager() as mgr:
 		print("========================\nMumei's stream archiver!\n========================\n")
 		active = mgr.dict()
@@ -403,51 +424,120 @@ if __name__ == '__main__':
 					del_p(id)
 					del active[id]
 			print(end='\x1b[2K')
-			print('Active streams: ' + str(list(active.keys())) + ', Total time waited: ' + to_time(waited), end='\r')
+			print('Active streams: ' + str(list(active.keys())) + ', Total time waited: ' + str(datetime.timedelta(seconds=waited)), end='\r')
 			waited += 1
 			time.sleep(1)
 ```
-##Easy(?) Soundpost Clipper and Cropper
+##Easy(?) Soundpost Creator
 This python script will call your installation of FFMPEG with simple pre-defined instructions in order to make the process of soundpost production easier and simpler without sacrificing quality too greatly.
 
 ```python
-import subprocess, shlex, re, math, os, shutil
+import subprocess, shlex, re, math, os, shutil, datetime
+from pathlib import Path
 
 if __name__ == '__main__':
-	file = input("VOD:").replace('"','')
+	file = input("VOD:").replace('"','').strip()
 	f = subprocess.Popen(shlex.split(r'ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 -i "' + file + r'"'), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 	codecs = [x.decode('ascii').strip() for x in f.stdout]
-	# vc = "mp4" if codecs[0] == 'h264' else 'webm'
+	f = subprocess.Popen(shlex.split(r'ffprobe -v error -select_streams v:0 -show_entries stream=width,height,duration -of default=noprint_wrappers=1:nokey=1 -i "' + file + r'"'), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+	dims = [x.decode('ascii').strip() for x in f.stdout]
 	ac = "aac" if codecs[0] == 'aac' else 'opus'
-	start = input("Start time:")
-	end = input("End time:")
-	crf = input("CRF [Video Quality] (1-63, suggested starting point at 30):")
-	crop = input("Crop (Press enter if no crop, ex: 600:780:1320:300 bottom right 600x780 pixels of 1920x1080 source):")
-	scale = input("Scale (Press enter if no scale, ex: 200:-1 200px wide and scale height in-ratio):")
+	print("\n<Timestamps>")
+	print("Timestamps are expected in the format of HH:MM:SS.sss")
+	print("Example: 1:23:45.678 for the 1 hour, 23 minutes, and 45.678 seconds mark.")
+	print("Not all spots need to be filled, 23:45 will read as 23 minutes and 45 seconds.")
+	print("VOD Length: " + str(datetime.timedelta(seconds=round(float(dims[2])))))
+	valid_start = False
+	while not valid_start:
+		start = input("Start time: ").strip()
+		if not start:
+			print("You must specify a valid starting time.")
+			continue
+		try:
+			tmp = start.split(':')
+			time_s = 0
+			for x in range(len(tmp)):
+				time_s += round(float(tmp[x]) * math.pow(60,len(tmp)-x-1),3)
+		except:
+			print("You must specify a valid starting time.")
+			continue
+		if time_s < 0 or time_s > float(dims[2]):
+			print("You must specify a starting time within 0 and " + str(datetime.timedelta(seconds=round(float(dims[2]))))+ ".")
+		else:
+			valid_start = True
+	valid_end = False
+	while not valid_end:
+		end = input("End time: ").strip()
+		if not end:
+			print("You must specify a valid ending time.")
+			continue
+		try:
+			tmp = end.split(':')
+			time_e = 0
+			for x in range(len(tmp)):
+				time_e += round(float(tmp[x]) * math.pow(60,len(tmp)-x-1),3)
+		except:
+			print("You must specify a valid ending time.")
+			continue
+		if time_e < 0 or time_e > float(dims[2]) or time_e <= time_s:
+			print("You must specify an ending time within 0 and " + str(datetime.timedelta(seconds=round(float(dims[2]))))+ " as well as after your starting time.")
+		else:
+			valid_end = True
+	pre = 5 if time_s - 5 > 0 else time_s
+	post = 5 if time_e + 5 < float(dims[2]) else float(dims[2]) - time_e
+	print("\n<Quality of video>")
+	print("CRF determines the overall quality of the video.")
+	print("A lower number indicates higher quality,")
+	print("but often visually identical quality can be found")
+	print("between values of 10-25. Default value is 20.")
+	crf = input("CRF: ").strip() or "20"
+	print("\n<Bitrate>")
+	print("Defaults to Constant Quality (0).")
+	print("Specified bitrate will try to constrain the quality while controlling filesize.")
+	print("Max filesize for /vt/ is 4MB, for your specified clip length of " + str(time_e-time_s) + " seconds")
+	print("it is suggest that the highest you should go is " + str((1024*4*8)/(time_e-time_s)) + "k.")
+	print("Example: " + str((1024*3*8)/(time_e-time_s)) + "k")
+	cq = input("Bitrate: ").strip() or "0"
+	crf += r' -b:v ' + cq
+	print("\n<Scale (Optional)>")
+	print("Straight forward, do this if you want to reduce filesize.")
+	print("You simply define the dimensions you want the video to be.")
+	print("Using '-1' indicates we want that to scale in-ratio with the other dimension.")
+	print("Example: -1:720 is 720p, -1:480 is 480p")
+	scale = input("Scale (Leave empty if no scale): ").strip()
+	print("\n<Crop (Optional, but Recommended)>")
+	print("The basics of cropping is choosing your desired width and height")
+	print("and telling it from what pixel you would like that region to originate.")
+	print("Example: https://video.stackexchange.com/questions/4563/how-can-i-crop-a-video-with-ffmpeg")
+	print("For most streams, Mumei is on the lower right corner.")
+	print("To select down to only her, you can define the specific pixel space she inhabits.")
+	print("This is done by defining the size of the region you desire and the starting point.")
+	print("The starting point of the region must be specified by the top-left pixel you want the region in.")
+	print("Complex? Yes! But all that math can be done for you!")
+	print("Mumei is generally in the right 31.25% and bottom 72.5% of the video.")
+	print("Knowing that we can set the width to in_w*0.3125 and height to in_h*0.725")
+	print("and in order to get the top-left pixel of that region, we simply take the opposite!")
+	print("That being 1-0.3125 = 0.6875 and 1-0.725 = 0.275.")
+	print("That crop can be written as: in_w*0.3125:in_h*0.725:in_w*0.6875:in_h*0.275")
+	crop = input("Crop (Leave empty if no crop.): ").strip()
 	vf = ""
-	if len(crop) > 1:
-		vf += r'crop=' + crop
-	if len(vf) > 0:
-		vf += r','
-	if len(scale) > 1:
+	if scale:
 		vf += r'scale=' + scale
-	if len(vf) > 0:
+	if crop and scale:
+		vf += r','
+	if crop:
+		vf += r'crop=' + crop
+	if vf:
 		vf = r' -vf "' + vf + r'"'
-	tmp = start.split(':')
-	time_s = 0
-	for x in range(len(tmp)):
-		time_s += round(float(tmp[x]) * math.pow(60,len(tmp)-x-1),3)
-	tmp = end.split(':')
-	time_e = 0
-	for x in range(len(tmp)):
-		time_e += round(float(tmp[x]) * math.pow(60,len(tmp)-x-1),3)
-	pre = time_s - 5
-	post = time_e + 5
+	FF_Flags = '-c:v libvpx-vp9 -ss '+ str(pre) + r' -t ' + str(round(time_e - time_s,3)) + vf + r' -crf ' + crf + r' -row-mt 1 -threads 0 -deadline best -pix_fmt yuv420p10le'
 	os.makedirs(r'tmp')
-	subprocess.run(shlex.split(r'ffmpeg.exe -benchmark -i "' + file + r'" -c copy -ss '+ str(pre) + r' -to ' + str(post) + r' -y tmp\\clip.mkv'))
-	subprocess.run(shlex.split(r'ffmpeg -i tmp\\clip.mkv -an -c:v libvpx-vp9 -ss 5 -t ' + str(round(time_e - time_s,3)) + vf + r' -crf ' + crf + r' -b:v 0 -pass 1 -f null NUL'))
-	subprocess.run(shlex.split(r'ffmpeg -i tmp\\clip.mkv -c:a copy -c:v libvpx-vp9 -ss 5 -t ' + str(round(time_e - time_s,3)) + vf + r' -crf ' + crf + r' -b:v 0 -pass 2 -y tmp\\clip-encode.mkv'))
-	subprocess.run(shlex.split(r'ffmpeg -i tmp\\clip-encode.mkv -c:v copy -an -y "out[sound=files.catbox.moe%2F[REPLACE HERE].' + ac + '].webm" -c:a copy -vn -y out.' + ac))
+	tmp_clip = str(Path("tmp/clip.mkv"))
+	tmp_encode = str(Path("tmp/clip-encode.mkv"))
+	file = str(Path(file))
+	subprocess.run(r'ffmpeg -hide_banner -i "' + file + r'" -c copy -ss '+ str(time_s - pre) + r' -to ' + str(time_e + post) + r' -y ' + tmp_clip)
+	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_clip + r' -an ' + FF_Flags + r' -pass 1 -f null ' + str(os.devnull))
+	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_clip + r' -c:a copy ' + FF_Flags + r' -pass 2 -y ' + tmp_encode)
+	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_encode + r' -c:v copy -an -y "out[sound=files.catbox.moe%2F[REPLACE HERE].' + ac + '].webm" -c:a copy -vn -y out.' + ac)
 	shutil.rmtree(r'tmp')
 	os.remove(r'ffmpeg2pass-0.log')
 ```
@@ -471,10 +561,10 @@ if __name__ == '__main__':
 		pic2vid = r'' 
 		stills = r'' 
 	else:
-		video_codec = r'libaom-av1 -crf 0 -pix_fmt yuv444p -strict -2'
-		pic2vid = r'-shortest' 
-		stills = r'-stream_loop -1'
-	subprocess.run(shlex.split(r'ffmpeg.exe -benchmark ' + stills + r' -i "' + file + r'" -i "' + url + r'" ' + pic2vid + r' -c:v ' + video_codec + r' -c:a copy -y "' + original_name + r'.mkv"'))
+		video_codec = r'libx264 -preset veryslow -qp 0 -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2"'
+		pic2vid = r'' if info.group(3) in ['jpg','jfif'] else r'-shortest' 
+		stills = r'' if info.group(3) in ['jpg','jfif'] else r'-stream_loop -1'
+	subprocess.run(shlex.split(r'ffmpeg.exe ' + stills + r' -i "' + file + r'" -i "' + url + r'" ' + pic2vid + r' -c:v ' + video_codec + r' -c:a copy -y "' + original_name + r'.mkv"'))
 ```
 
 ###Lazy Quality (Fast for GIF)
@@ -491,14 +581,14 @@ if __name__ == '__main__':
 		url = "https://" + url
 	sound_ext = info.group(3)
 	video_ext = info.group(4)
-	a_codec = "copy" if sound_ext in ['ogg', 'opus', 'webm'] else "libopus"
+	a_codec = "copy" if sound_ext in ['ogg', 'opus', 'webm'] else "libopus -b:a 128K"
 	if video_ext == 'webm':
 		v_codec = "copy"
 		pic2vid = r'' 
 		stills = r'' 
 	else:
 		v_codec = "libvpx-vp9 -pix_fmt yuva420p -lossless 1 -deadline best"
-		pic2vid = r'-shortest' 
-		stills = r'-stream_loop -1'
-	subprocess.run(shlex.split(r'ffmpeg.exe -benchmark ' + stills + r' -i "' + file + r'" -i "' + url + r'" ' + pic2vid + r' -c:v ' + v_codec + r' -c:a ' + a_codec + r' -y "' + original_name + r'.webm"'))
+		pic2vid = r'' if video_ext in ['jpg','jfif'] else r'-shortest' 
+		stills = r'' if video_ext in ['jpg','jfif'] else r'-stream_loop -1'
+	subprocess.run(shlex.split(r'ffmpeg.exe ' + stills + r' -i "' + file + r'" -i "' + url + r'" ' + pic2vid + r' -c:v ' + v_codec + r' -c:a ' + a_codec + r' -y "' + original_name + r'.webm"'))
 ```

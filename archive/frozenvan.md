@@ -149,6 +149,7 @@ https://www.characterhub.org/characters/frozenvan/Julia
 ![Image description](https://i.imgur.com/MhvNgJy.png) **Hina**
 After killing the demon lord, you return home to your village where your dear friend Hina awaits. How do you tell her that her husband Kazuto is dead?
 https://beta.character.ai/chat?char=zfKIEL8oeNeeW7t3Tzl0OzJP7mnqq4BHdr-ePCcfDFo
+https://www.characterhub.org/characters/frozenvan/Hina
 
 ![Image description](https://i.imgur.com/MMgMVjc.png) **Kazuto**
 A noble hero destined to die. Hina's husband.

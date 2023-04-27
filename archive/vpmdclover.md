@@ -1,4 +1,5 @@
 ##/PMDG/ Clover Guild
+![Wave 1](https://i.imgur.com/98HmV9t.png)
 [TOC3]
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality

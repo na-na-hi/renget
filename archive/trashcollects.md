@@ -453,6 +453,10 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	https://mega.nz/folder/c5NhgYZA#Uj6VXv7AJAyUkpEA0DcnaA
 
+### Princess Luna + Twilight Sparkle
+
+	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
+
 ## LORAs from the Discord
 
 ### Various Characters (FinalEclipse's Trash Pile)

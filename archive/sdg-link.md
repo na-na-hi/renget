@@ -185,4 +185,5 @@ https://boards.4chan.org/trash/#s=sdg
 ##Official Discord
 discord.gg/stablediffusion
 
-paste for PW (^_^) and other thread bakers - Apr 11th - https://pastebin.com/m7BPD8tG
+##Bakery
+Cut'n'paste for PWAnon (^_^) and other thread bakers - Apr 11th - https://pastebin.com/m7BPD8tG

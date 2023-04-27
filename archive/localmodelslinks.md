@@ -57,6 +57,9 @@
 [TavernAI GPU Inferencing](https://github.com/Cohee1207/SillyTavern)|Heavily modified TavernAI fork with WebUI API support
 [WebUI Context Hack](https://rentry.org/wfy3p)|forcing a GC every 8 tokens in streaming mode
 |
+[DeepFloyd-IF](https://github.com/deep-floyd/IF)|text-to-image model with text encoder and three cascaded pixel diffusion decoders (up to 1024x1024)
+[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|suite of various audio related foundational models for use with a LLM (use basaran for local) 
+|
 **CPU Gits**|
 [llama.cpp](https://github.com/ggerganov/llama.cpp)|Main CPU-based inferencing 
 [kobold.cpp](https://github.com/LostRuins/koboldcpp)|llama.cpp fork with Kobold UI

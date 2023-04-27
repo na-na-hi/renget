@@ -229,16 +229,17 @@ The biggest risk is not taking any risk.
 
 ##Dorothy
 >Blabla Status
+Paradise for the chosen ones
 
 >Gift Received
-1.
-2.
-3.
+1. Are you trying to get my attention?
+2. Your efforts will NOT go unnoticed.
+3. Is this how you take care of Nikkes?
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. Recently my mind has been filled with you.
+2. Fine. You've piqued my interest. Satisfied?
+3. Shall I use you or make you mine? I'm not sure what i'll do.
 
 ##Drake
 >Blabla Status
@@ -802,16 +803,17 @@ God, please don't give me any more trials.
 
 ##Rei 
 >Blabla Status
+3>>>>>>>>>>2>>1
 
 >Gift Received
-1.
-2.
-3.
+1. Wooooow!
+2. For me? Really?
+3. I'll split it with Naru. *giggle*
 
 >Affection Lvl Up
-1.
-2.
-3.
+ 1. Are you hungry, Teacher? I can always share my snacks with you.
+ 2. You're not going away, are you, Teacher? (voice trying not to cry during this line)
+ 3. You're the best, Teacher.
 
 ##Rupee (Default)
 >Blabla Status

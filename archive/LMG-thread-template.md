@@ -1,8 +1,8 @@
 !!! Note 04-25-2023 Updates:
-	News section in OP template updated (Since 04/25). | Resource charts updated & fixed. | Grammar & punctuation corrections were made. | New & "improved" Rentry banner, with Miku added.
+	News section in OP template updated (Since 04/26). | Resource charts updated & fixed. | Grammar & punctuation corrections were made. | New & "improved" Rentry banner, with Miku added.
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 4.01<-
+#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 4.02<-
 
 [TOC2]
 
@@ -41,8 +41,6 @@ https://github.com/ggerganov/llama.cpp
 https://github.com/qwopqwop200/GPTQ-for-LLaMa (GPTQ 4 LlaMA)
 \>Alpaca Guide/Resources
 https://huggingface.co/chavinlo/alpaca-13b/tree/main (Native Model)
-https://huggingface.co/chavinlo/gpt4-x-alpaca (GPT4xAplaca)
-https://github.com/tloen/alpaca-lora (LoRA for GPU's)
 \>GPT-J & Pyggy Guide/Resources
 https://rentry.org/Pyggymancy (Windows)
 https://rentry.org/pygmalion-local (Linux)
@@ -66,6 +64,8 @@ https://rentry.org/RPBT
 https://pastebin.com/LmRhwUCA
 \>ERP/RP Datasets
 https://rentry.org/qib8f
+\>Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
+https://github.com/anon998/simple-proxy-for-tavern
 
 ###->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: (Notes are a placeholder)**

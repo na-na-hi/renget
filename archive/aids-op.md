@@ -30,7 +30,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/27) Two years later, remember what they took from you. https://i.imgur.com/VK3mt6T.mp4
+\>(04/27) Two years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
 (04/25) Mom: "We have chatGPT at home" https://huggingface.co/chat
 (04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
 (04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
