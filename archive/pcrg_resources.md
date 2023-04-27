@@ -42,7 +42,7 @@ https://expugn.github.io/priconne-quest-helper/
 **Songs and wallpapers**
 https://priconne-hill.com/album
 
-**/pcrg/ icon collab**
+**/pcrg/ Icon collab**
 https://mega.nz/folder/ttJzwSjK#0GD1BRnvpoezoJsPLBkhkw
 
 **/pcrg/ Halloween collab**
@@ -53,6 +53,9 @@ https://mega.nz/folder/NgIRFYZS#kqnRH-Z0C-iio7Z28frMhw
 
 **/pcrg/ Back-to-school collab**
 https://mega.nz/folder/NpImzAbZ#JKi6BbLJ2RzpCefBtK0u1g
+
+**/pcrg/ Multimedia collab**
+https://mega.nz/folder/cpgT2L6R#YZQNTcCKun3MBbVqggQdWA
 
 **Video content**
 https://mega.nz/folder/zthyCJSA#qyoIqjgmSWCnlNp3rt97UQ

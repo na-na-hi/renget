@@ -262,6 +262,9 @@ This works in mock battles and actual runs.
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 
+>I forgot if I started a mock battle or a real run, help! 
+In battle, at the top left of your screen it shows if it's a mock battle. If there isn't notice, it's a real run. 
+
 >Should I save my raid coins? 
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
 You don't lose your coins after a refresh. 

@@ -12,19 +12,19 @@ Speakers passive:
 * Wharfedale Diamond 12.1 12.2 12.3 (bookshelf, larger bookshelf, tower)
 * KEF Q350 (bookshelf)
 
-Speakers active:
-* JBL LSR305P MK II (bookshelf)
-* Adam T5V (bookshelf)
-* Krk Rokit 5 G4 (bookshelf)
-* Neumi BS5P (bookshelf)
+Speakers active (bookshelf):
+* JBL LSR305P MK II
+* Adam T5V
+* Krk Rokit 5 G4
+* Neumi BS5P
 
 Amps:
 * Used Yamaha R-S700 (Full size, receiver, power section like A-S701, pre-out/main-in, 170€/$150, value champ)
 * Yamaha A-S 300/301/500/501/700 or 701 (Full size)
 * Onkyo A-9130 (Full size)
-* Aiyima A07 (Desktop)
-* Topping PA3s (Desktop)
-* Fosi BT20A Pro (Desktop)
+* Aiyima A07 (small)
+* Topping PA3s (small)
+* Fosi BT20A Pro (small)
 
 Headphone amps:
 * Topping L30 II (headphone)

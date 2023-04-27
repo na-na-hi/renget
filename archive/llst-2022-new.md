@@ -2,6 +2,9 @@
 -> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
 ##Changelog:
+==2022-4-27==
+- improved filters
+
 ==2022-4-26==
 - filters, thread template, and disclaimer added
 - Applied the new format for the Nijigasaki seiyuu list
@@ -75,21 +78,48 @@ Previous: >>694201488 (# of previous thread)
 
 ***
 ##Thread QoL (Quality of Life) Filter
-!!! note Recommended
-	4chanx is recommended when applying these filters
+**Improved** non-intrusive filter for 4chanx that massively improves thread readability. ==Last updated: 04/27/2023==
+!!! warning Warning
+	These filters are only tested, and are only recommended to work on 4chanx
+**Comment field**
 ``` javascript
 #/jp/ QoL Troll spammer filter
-/shitter|troll/i;boards:jp;subject:love live
+/(?=.*maria)(?=.*troll).*$/i;boards:jp;subject:love live
+/(?=.*chunrun)(?=.*troll).*$/i;boards:jp;subject:love live
+/(?=.*nijigasaki)(?=.*troll).*$/i;boards:jp;subject:love live
+/(?=.*maria)(?=.*shitter).*$/i;boards:jp;subject:love live
+/(?=.*chunrun)(?=.*shitter).*$/i;boards:jp;subject:love live
+/(?=.*nijigasaki)(?=.*shitter).*$/i;boards:jp;subject:love live
+/(?=.*maria)(?=.*abuse).*$/i;boards:jp;subject:love live
+/(?=.*chunrun)(?=.*abuse).*$/i;boards:jp;subject:love live
+/(?=.*nijigasaki)(?=.*abuse).*$/i;boards:jp;subject:love live
+/(?=.*fuck off)(?=.*troll).*$/i;boards:jp;subject:love live
+/(?=.*chunrun)(?=.*troll shit).*$/i;boards:jp;subject:love live
+/(?=.*maria)(?=.*troll shit).*$/i;boards:jp;subject:love live
+/(?=.*nijigasaki)(?=.*troll shit).*$/i;boards:jp;subject:love live
+/troll piece of shit/i;boards:jp;subject:love live
+/orctaku/i;boards:jp;subject:love live
 /yudu/i;boards:jp;subject:love live
 /mippi/i;boards:jp;subject:love live
 /ibuki/i;boards:jp;subject:love live
 /so now what/i;boards:jp;subject:love live
 /miumi/i;boards:jp;subject:love live
+/karen/i;boards:jp;subject:love live
 /rinna/i;boards:jp;subject:love live
-/mizuki/i;boards:jp;subject:love live
-/feral|nao/i;boards:jp;subject:love live
+/feral nao/i;boards:jp;subject:love live
+/\*off\*/i;boards:jp;subject:love live
 ```
 
+**Image MD5 Filter**
+``` javascript
+/bnGRirFGncEVOGkhY4O/Qw==/;boards:jp
+/eI0J6xtXxi2rdlB4NP0aNQ==/;boards:jp
+/slfoSPpVwHcNFswg1modsA==/;boards:jp
+/+JgOHnlh8OMkpzXyq/7wMw==/;boards:jp
+/+4cFRiOWmfAgR3Y+pq/20A==/;boards:jp
+/t3MkLhzMY4koAktRTTpDKw==/;boards:jp
+/+4cFRiOWmfAgR3Y+pq/20A==/;boards:jp
+```
 ***
 ##Seiyuu Information, Links & SNS
 !!! warning Warning
@@ -186,6 +216,7 @@ https://komiya-arisa.net/
 http://www.box-corporation.com/arisa_komiya
 https://twitter.com/box_komiyaarisa
 https://www.instagram.com/arisakomiya_official/
+https://www.tiktok.com/@arisakomiya_official
  
 **Shuka Saito 斉藤朱夏** (August 16, 1996) "Shukashuu"
 https://www.saitoshuka.jp/
@@ -229,14 +260,14 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
 **Aguri Onishi 大西亜玖璃** | Agupon | May 2, 1997 |[Official Website](https://aguri-onishi.com/) / [Agency Website](http://link-plan.net/talent_onishi.html) / [Twitter](https://twitter.com/aguri_onishi) / [YouTube](https://www.youtube.com/@onishiaguri-official)|[📷](https://columbia.jp/onishiaguri/images/index_photo06.jpg)
 **Mayu Sagara 相良茉優** | Mayuchi | April 17, 1995 |[Agency Website](https://www.digitaldouble.co.jp/artists/mayu_sagara) / [Twitter](https://twitter.com/MayuSgr) / [Instagram](https://www.instagram.com/mayusgr/) / [Youtube](https://www.youtube.com/c/相良茉優)| [📷]()
-**Kaori Maeda 前田佳織里**| Kaorin | April 25, 1996 |[Agency Website](https://www.amuse.co.jp/artist/A8884/) / [Twitter](https://twitter.com/kaor1n_n ) | [📷]()
+**Kaori Maeda 前田佳織里**| Kaorin | April 25, 1996 |[Agency Website](https://www.amuse.co.jp/artist/A8884/) / [Twitter](https://twitter.com/kaor1n_n) / [Instagram](https://www.instagram.com/maedakaori_official/)| [📷]()
 **Miyu Kubota 久保田未夢**| Miyutan |Jan. 31, 1995|[Official Site](https://www.81produce.co.jp/actor_search/index.php/item?id=192) / [Twitter](https://twitter.com/iRis_k_miyu) / [Ameblo](https://ameblo.jp/iris-official-blog/theme-10060120103.html) | [📷]()
 **Natsumi Murakami 村上奈津実**|Naachan, Natyan|Sept. 7, 1995|[Official site](https://nacherry.jp/) / [Agency site](https://yu-rin.com/talent/yourin_mn0907.html) / [Twitter](https://twitter.com/natyaaaaaaan07)|[📷]()
 **Akari Kito 鬼頭明里**|Akarin|Oct. 16, 1994|[Official site](https://kitoakari.com/) / [Agency site](https://www.raccoon-dog.co.jp/talent/r09-kitou.html) / [Twitter](https://twitter.com/kitoakari_1016) / [Instagram](https://www.instagram.com/akarikito1016/) / [Twitter](https://www.youtube.com/@KitoAkari_Official)|[📷](https://www.raccoon-dog.co.jp/talent/talentpic/r09.jpg)
 **Coco Hayashi 林鼓子**|Koko-chan, Hayamaru|May 15, 2002|[Instagram](https://www.instagram.com/coco_hayashi.official/ ) / [Twitter](https://mobile.twitter.com/cocohayashi515) / [==Former agency page==](https://archive.is/ZbOts) |[📷]()
 **Maria Sashide 指出毬亜**|Chunrun, Chun|Sept. 20, 1998|[Agency website](https://withline.jp/talent/maria_sashide) / [Twitter](https://twitter.com/sashide_m) / [Instagram](http://instagram.com/mariasashide_)|[📷]()
 **Chiemi Tanaka 田中ちえ美**|Chiemi, Tanaka~a|October 6, XXXX ==[1]==|[Official site](https://nacherry.jp/) / [Agency site](https://stay-luck.com/talent/tanaka-chiemi/) / [Twitter](https://twitter.com/t_chiemi1006) / [Ameblo](https://ameblo.jp/tanaka-chiemi06/)|[📷]()
-**Moeka Koizumi 小泉萌香**|Moepii, Pippi|Feb. 27, 1996|[Agency website](https://www.amuse.co.jp/artist/A8700/) / [Twitter](https://twitter.com/k_moeka_)|[📷]()
+**Moeka Koizumi 小泉萌香**|Moepii, Pippi|Feb. 27, 1996|[Agency website](https://www.amuse.co.jp/artist/A8700/) / [Twitter](https://twitter.com/k_moeka_) / [Instagram](https://www.instagram.com/moeka_koizumi_/)|[📷]()
 **Shu Uchida 内田秀**|Shuushuu|May 24, 1996|[Agency site](https://www.just-pro.jp/talent/voice-actor/uchida_shu/) / [Twitter](https://twitter.com/uchida_shu0524) / [Instagram](https://www.instagram.com/shushu.524/) / [YouTube](https://www.youtube.com/channel/@ShuUchidaShuTube)|[📷]()
 **Akina Homoto 法元明菜**|Homin, Minmin|Aug. 5, 1996|[Agency site](https://www.just-pro.jp/talent/voice-actor/homoto_akina/) / [Official site](https://homoto-akina.com/) / [Twitter](https://twitter.com/homoto_akina) / [YouTube](https://www.youtube.com/channel/@akinasanchi) / [Weibo](https://weibo.com/u/6892466160)|[📷]()
 **Hinaki Yano 矢野妃菜喜**|Hinaki, Hina|March 5, 1997|[Agency site](https://smavoice.jp/s/sma03/artist/85?ima=4658) / [Twitter](https://twitter.com/yano_hinaki35) / [Instagram](https://www.instagram.com/yano_hinaki35/) / [YouTube](https://www.youtube.com/@yano_hinaki)|[📷]()
@@ -255,11 +286,11 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
 **Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
-**Aya Emori  絵森彩**|Emorin, Aya(-chan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/)|[📷](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
+**Aya Emori  絵森彩**|Emorin, Aya(-chan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/) - [TikTok](https://www.tiktok.com/@ayaemori_official)|[📷](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
 **Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn)|[📷](https://img.moegirl.org.cn/common/4/47/Liyuu%E5%85%AC%E5%BC%8F%E7%85%A7.jpg)
 **Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) - [Twitter](https://twitter.com/_Naomi_Payton_) - [Instagram](https://www.instagram.com/_naomi_payton_) | [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
-**Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) | [📷]()
-**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, XXXX ==[1]==|[Artist website](https://lantis.jp/misakinako/) - [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) - [Twitter](https://twitter.com/MisakiNako_) - [Line SNS](https://page.line.me/124ydyji ) | [📷]()
+**Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) - [TikTok](https://www.tiktok.com/@aoyama_nagisa_official) | [📷]()
+**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, XXXX ==[1]==|[Artist website](https://lantis.jp/misakinako/) - [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) - [Twitter](https://twitter.com/MisakiNako_) - [Line SNS](https://page.line.me/124ydyji ) |[📷]()
 **Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|September 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [📷]()
 **Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [📷]()
 **Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[📷]()
