@@ -12,3 +12,4 @@
 ->[Cooking Sheet](https://files.catbox.moe/86ui75.jpg)<-
 
 ->[Magical Creatures Sheet](https://files.catbox.moe/ee0889.png)<-
+->[(extended edit)](https://files.catbox.moe/946e4z.png)<-

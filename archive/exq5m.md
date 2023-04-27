@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 4/3/2023
+>Up To Date As Of 4/20/2023
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -320,6 +320,10 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Marine Chunky Customer](https://i.imgur.com/ji2kk9b.png)
+.
+.
+
+![Coco Gluttonous Graduation](https://i.imgur.com/5vqT78i.png)
 .
 .
 .

@@ -114,7 +114,7 @@ Negatives:
     * Her name has a strong effect on backgrounds.
 
 #####Shion
-	murasaki shion, hololive, grey hair, brown eyes, gradient eyes, (double bun), long hair,
+	murasaki shion, hololive, grey hair, yellow eyes, gradient eyes, (double bun), long hair,
 Negatives: twintails, two side up, gradient hair, 
 !!! note Notes:
     * I don't know a truly consistent way to get rid of her weird bun ties but sometimes they look fine. You can try adding "hair ornaments," and "green hair," to negatives though which sometimes works.

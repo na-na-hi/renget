@@ -649,4 +649,11 @@ neighbor noises autism
 
 [🐈 thumbnail](https://files.catbox.moe/bkzxtq.png)
 
+
+##### 【KU100 ASMR】 Comfy ASMR for you! ♡ Ear cleaning & assorted triggers for sleep & relaxation [tfgr7SXGk14]
+[2023-04-26](https://holodex.net/watch/tfgr7SXGk14) - censored
+forest noises autism
+https://twitter.com/ceresfauna/status/1651469520278781954
+[catbox audio](https://files.catbox.moe/d2by63.aac)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

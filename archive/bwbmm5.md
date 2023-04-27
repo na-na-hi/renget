@@ -149,6 +149,7 @@
 /mentally ill shitzoid/i;boards:trash;op:no
 /need volfa in my life/i;boards:trash;op:no
 /read happiest place on fur for the first time again/i;boards:trash;op:no
+/(?=.\*parasite)(?=.\*socks)/ims;boards:trash;op:no
 /(?=.\*used goods)(?=.\*(sloppy|hmofa))/ims;boards:trash;op:no
 /\/homofag\//i;boards:trash;op:no
 /(black (seed|cock)|BWNO|yt boy|for BBC)/i;boards:trash;op:no

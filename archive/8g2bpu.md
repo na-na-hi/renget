@@ -46,7 +46,7 @@ A group of members (artist's choice) riding on Percival as they soar through the
 
 Booker learning to fly
 
-Togetic cleaning the storage room - IN PROGRESS
+~~Togetic cleaning the storage room~~
 
 Waiting room outside the clinic.  Feat. Artist's choice injured pokemon
 

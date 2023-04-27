@@ -39,6 +39,8 @@ Femezen X Femra hot springs yuri (FxF): https://imgur.com/a/ot6iYhH
 
 Heal assist! (MxFxF): https://imgur.com/a/FgSglMF
 
+Kokoha (F Lala): https://mega.nz/folder/IHoDwLhK#PYLZx88BoU1utK8CcC7UKQ
+
 G.C. (MxM): https://imgur.com/a/2qRpu7D
 
 Gothc@'s Malera Khagan (MxF): https://imgur.com/a/XkVZYnm

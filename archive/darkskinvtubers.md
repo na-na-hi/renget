@@ -179,16 +179,13 @@ Naki_VT[EN]
 https://twitter.com/NakiVT
 https://www.twitch.tv/naki_vt
 
-
 Tommysonline[EN]
 https://twitter.com/tommysonlineVT
 https://www.twitch.tv/tommysonline
 
-
 Bombiwombi[EN]
 https://twitter.com/BombiWombi
 https://www.twitch.tv/bombiwombi
-
 
 KokoNuts[EN]
 https://twitter.com/KokoNutsVT
@@ -249,6 +246,58 @@ https://www.twitch.tv/silver_dawnbreak
 EUREKA X49 四九ゆりかch[EN]
 https://twitter.com/eurekax49
 https://www.youtube.com/@eurekax49/
+
+chocojax[EN]
+https://twitter.com/chocojax
+https://www.twitch.tv/chocojax
+
+FalooVT[EN]
+https://www.twitch.tv/faloovt
+https://twitter.com/FalooVT
+
+MoruMoruSan【ALOHA Vtuber】[EN]
+https://twitter.com/MoimoiPlanet
+https://www.youtube.com/@MoimoiPlanet
+
+NairuNirvana[EN]
+https://www.twitch.tv/nairunirvana
+https://twitter.com/NairuNirvana
+
+UzuriMia[EN]
+https://twitter.com/UzuriMia
+https://www.twitch.tv/uzurimia
+
+lullabylolita[EN]
+https://twitter.com/lullabylolita
+https://www.twitch.tv/lullabylolita
+
+Zuan[EN]
+https://twitter.com/ZuantheFaun
+https://www.twitch.tv/zuan
+
+FuuLuluu[EN]
+https://twitter.com/Fuululuu
+https://www.twitch.tv/fuululuu
+
+StellalunaVT[EN]
+https://twitter.com/StellaLunaVT
+https://www.twitch.tv/stellalunavt
+
+trinity_vtuber_[EN]
+https://www.twitch.tv/trinity_vtuber_
+https://twitter.com/lovetrinthighs
+
+BrewwVT[EN]
+https://twitter.com/Breww_VT
+https://www.twitch.tv/brewwvt
+
+ArcticAaliyah[EN]
+https://twitter.com/ArcticAaliyah
+https://www.twitch.tv/arcticaaliyah
+
+justSasha[EN]
+https://twitter.com/SashasCastle
+https://www.twitch.tv/justSasha
 
 ***
 ##->Other Vtubers<-

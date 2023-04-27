@@ -20,6 +20,8 @@ Future Release Dates:
 「!」 Mario Kart 8 Deluxe - Booster Course Pass 5 & 6 releases in 2023.
 
 Current News Links:
+「!」LEGO Donkey Kong, Cranky Kong, Diddy Kong, Dixie Kong, & Funky Kong Teased
+https://twitter.com/LEGO_Group/status/1651224656991379456
 「!」MARIO MOVIE IS OUT IN THEATERS, along with impressions, Reviews and legit spoilers
 「!」Super Mario Bros Movie Posters/Trailers FINAL Recap
 https://rentry.org/3sgat
@@ -28,8 +30,6 @@ https://www.youtube.com/watch?v=kNbSaFoJRKQ
 「!」Booster Course Wave 4 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 https://twitter.com/HarperMarieRose/status/1633693626239799296
-「!」Mario + Rabbids Sparks of Hope: The Tower of Doooom DLC released on March 2nd
-https://www.youtube.com/watch?v=taitiRQdgDQ
 
 ----
 

@@ -64,17 +64,25 @@ As Sneasel moved her hand off my head, I looked back at my wings and tensed up m
 
 “I know. We’ll need to find a flying Pokemon. I hate to bother other people and ask for help, but I don’t think I have any other option.”
 
-I paused and thought about my guildmates, and the Pokemon affiliated with the guild. “Let’s see... flying Pokemon... there’s a Vibrava who showed up at the guildhall before, but I only saw him once or twice, and I don’t know anything about him. And there’s the Noivern, Bullet. He’s not a guild member, but I think he could help me if we could find him. Do you know where he lives, or where he is right now?”
+I paused and thought about my guildmates, and the Pokemon affiliated with the guild. “Let’s see... flying Pokemon... Natu is the first that comes to mind. He’s Charm’s partner. Is he here?”
 
-“Nope,” said Sneasel. “We could ask around and track him down, but he’s probably out on a mission with his girlfriend, as usual.”
+Sneasel shook her head. “I bumped into Charm yesterday, and she said she and Natu were heading out on a couple missions today. We can wait till tomorrow and talk to him when they get back.”
 
-“The Indeedee? She’s not his girlfriend—according to Bullet, anyway. But that’s beside the point. Any other flyers you can think of?”
+“I’d rather not wait,” I said. “The sooner I can get started on this, the better.”
 
-“How about we talk to Archie? She’s a guildmate, and she lives just at the edge of town. We can swing by and see if she can help.”
+“Then how about we talk to Archie? She’s a guildmate, and she lives just at the edge of town. We can swing by and see if she can help.”
 
 “Archie the Archeops? Uh... I don’t want to sound rude... but she’s not a good flyer. Not her fault, though—her species just can’t fly well. So I don’t think I’d be able to learn much from her. It would be better to talk to a skilled flyer.”
 
-“Good point. But we ain’t got any in the guild. I guess we can hit the town and look for someone there. There’s plenty of flying Pokemon in town. And I’ve been here longer than you, so I can probably give you some ideas about who’s best to ask.”
+“Good point. But I think Natu and Archie are our only flying guildmates. How about outsiders?”
+
+“Well, there’s a Vibrava who showed up at the guildhall before, but I only saw him once or twice, and I don’t know anything about him. And there’s the Noivern, Bullet. He’s not a guild member, but I think he could help me if we could find him. Do you know where he lives, or where he is right now?”
+
+“Nope,” said Sneasel. “We could ask around and track him down, but he’s probably out on a mission with his girlfriend, like usual.”
+
+“The Indeedee? She’s not his girlfriend—according to Bullet, anyway. But that’s beside the point. Any other flyers you can think of?”
+
+“Well, there’s plenty of flying Pokemon in town. Maybe we can head out and ask them. And I’ve been here longer than you, so I can probably give you some ideas about who’s best to ask.”
 
 A certain Pokemon popped up in my mind. “Actually,” I said, “now that you mention it, I have one idea. Let’s head out into town.”
 

@@ -2,7 +2,7 @@
 ->Images Included<-
 
 !!!warning IMPORTANT INFO
-	Pictures are unavailable for the time being. I'll retake them all for the 6 OPs in here.
+	Pictures will be unavailable for the time being. I'll retake them all for the 6 OPs in here.
 
 	OPs status
 	OP | Text/Image

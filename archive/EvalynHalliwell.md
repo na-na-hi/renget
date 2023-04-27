@@ -40,7 +40,7 @@
 
 ->• ───────────────── •<-
 #Writing hooks
-- Enjoys singing (sea shanties in particular) and is pretty good at it, but is deeply embarrassed of this fact and doesn't want anyone to know. Frequently sneaks out to the Owlery at night to do so instead, and leaves a rock enchanted with the Amplifying Charm below so that she can hear if anyone is coming.
+- Enjoys singing (sea shanties in particular) and is pretty good at it, but is deeply embarrassed of this fact and doesn't want anyone to know. Instead she frequently sneaks out to the Owlery at night to sing, and leaves a rock enchanted with the Amplifying Charm below so that she can hear if anyone is coming.
 - Likes to fly out to remote spots around the valley to read/study, but often gets distracted by any interesting things she might come across (ruins, Merlin trials, pretty landscapes, etc) and ends up exploring instead.
 - Active member of the Supply & Demand Club, and co-organizer of the Hogwarts Unofficial Quidditch League as well as being a chaser for the Ravenclaw team.
 - Not actively inclined to break rules, but she tends to sort of just casually disregard any that she thinks are stupid and will happily go along with anyone who wants to do something unauthorized as long as they provide a good enough justification. While generally a good judge of risk, this has gotten her into trouble a few times.
@@ -57,6 +57,8 @@
 ![Report Card](https://files.catbox.moe/pxqv4b.jpg)
 
 ![Food Sheet](https://files.catbox.moe/6uveqy.png)
+
+![Magical Creatures Sheet](https://files.catbox.moe/06rxcr.png)
 
 ![Quidditch Sheet](https://files.catbox.moe/oitc5w.png)
 

@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2490* | Last image filter update: */hmofa/ thread #2435*
+#######Last word filter update: */hmofa/ thread #2491* | Last image filter update: */hmofa/ thread #2491*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -164,6 +164,7 @@
 /read happiest place on fur for the first time again/i;boards:trash;op:no
 /(?=.\*used goods)(?=.\*(sloppy|hmofa))/ims;boards:trash;op:no
 /\/homofag\//i;boards:trash;op:no
+/(?=.\*parasite)(?=.\*socks)/ims;boards:trash;op:no
 /(black (seed|cock)|BWNO|yt boy|for BBC)/i;boards:trash;op:no
 /cumskin/i;boards:trash;op:no
 /(?=.\*(blacked|bbc))(?=.\*(edit(|s)|hmofa|waifur(|s)))/ims;boards:trash;op:no
