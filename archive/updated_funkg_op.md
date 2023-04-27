@@ -11,10 +11,10 @@ Week #XXXX - ??? Edition
 >NEWS:
 >Funkin Crew's 2023-04-25 blog post
 https://funkin.me/blog/2023-04-25/
+>Ninjamuffin & PA did an AMA on /funkg/
+https://rentry.org/6zfux
 >Week 7 source code has released
 https://github.com/FunkinCrew/Funkin
->Ninjamuffin did an AMA on /funkg/
-https://rentry.org/6zfux
 >Phantom Arcade's stream summaries
 https://rentry.org/pnkn5
 

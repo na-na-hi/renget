@@ -1,4 +1,17 @@
 ▶NEW CLIPS
+>TOR fucked up by a Lancet. TEST!!!!
+https://files.catbox.moe/hl15zl.mp4
+>"You should die, lad, because you're a retard" – music vid
+https://files.catbox.moe/019qe1.mp4
+>that it's not so bad It's not so bad
+https://files.catbox.moe/0i64xw.mp4
+>Azog battalion near Bakhmut
+https://files.catbox.moe/d88cmu.mp4
+>Arrival of "Gerans" at location of the AFU in Zaporozhye on April 25
+https://files.catbox.moe/ixi1tn.mp4
+>MiG-31 crashed near Monchegorsk (Northern Russia), pilots managed to eject, media report
+https://files.catbox.moe/pm0sl5.mp4
+https://files.catbox.moe/e6nzuv.mp4
 >Western Artyomovsk report
 https://files.catbox.moe/hrpnzi.mp4
 https://files.catbox.moe/yamm5n.mp4

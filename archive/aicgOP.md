@@ -81,7 +81,6 @@ A general dedicated to discussion & development of AI Chatbots.
 >News/Meta
 --News here--
 https://github.com/AmmoniaM/Spermack [russian tavern slack claude hack]
-https://rentry.org/Brazilnumeroum [Send your logs for llama tune]
 
 >Frontends
 >Silly

@@ -82,14 +82,14 @@ You can only spark units currently on banner.
 **Sparks do not carry over between banners**, so whatever Recruitment Points you have left over gets turned into crafting mats when the banner ends.
 
 >How often do I get a spark?
-You get 12,000 gems on average per month, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though. 
+You get 12,000 gems on average per month, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
 You want to save up for a spark before rolling. Do not roll without a spark, because you can get fucked really hard.
 
 >I have X amount of rolls into the banner, but I already rolled the banner unit. Should I keep going?
 Play it by ear. It's always nice to save some extra rolls for the future, but as a rule of thumb I'd say above 150 rolls you just keep going.
-It depends on whether you like or want the other girl too. 
+It depends on whether you like or want the other girl too (if applicable). 
 
 >I just got a ten roll ticket! Do they expire?
 No.
@@ -101,6 +101,7 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 >Is there a good planner for banners?
 https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/
 Read the yellow highlighted text. 
+
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.
@@ -416,6 +417,9 @@ Yes. You really can.
 >Banners
 Global follows the JP schedule reasonably tight, see [the banner list for all the upcoming banners](https://bluearchive.wiki/wiki/Banner_List).
 
+>Rolling 
+If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
+
 >XP
 1 AP = 1 XP. Your level is tied to how much AP you spend, so there's no real way to level up faster. 
 You can 3x refresh your AP for 90 gems a day, which is kind of good. Whether it's worth it is for you to decide.
@@ -470,8 +474,6 @@ You pretend nothing's wrong and do the same what you're already doing.
 You can get pink reports in the Joint Exercise Shop, and you can get reports AND credits from the Mastery Certificate Shop. 
 There's also technically the reports you can buy in the normal shop for credits, but those are a scam. 
 
-
-
 >Is it too late to play? 
 No.
 The best time to start was yesterday, the second best time to start is right now. 
@@ -517,7 +519,7 @@ You can only join clubs or add friends from the same region.
 
 >When did X change get added 
 You'll have to manually look for it. 
-Go to https://bluearchive.wiki/wiki/Events, underneath Event Summary > details you can find new additions 
+Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
 
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba. Anything is much appreciated. 

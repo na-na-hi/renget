@@ -1,3 +1,21 @@
+#27.04.2023 Ninjamuffin & Phantom Arcade AMA summary#
+**Ninja:**
+>The FAG is planned to be DRM free and the source code will (ideally) come with all the art assets and such.
+>The updated base game engine is being made so that it breaks as little stuff as possible when it comes to mods, and everything that can be done in other engines can also be done in the base game engine.
+>A Dead Estate reference or level is not planned but not out of the question either.
+>Improvements to the UI and menus will be done piece by piece.
+>A limited online play demo for the NG version of Funkin' is possible. All depends if the infastructure is there sooner rather than later.
+>Certain future songs will be composed by "certain other people".
+>GF's canon panty colors are white.
+**PA:**
+>Nudity will be in the FAG, based on whether or not it makes PA laugh or horny. However, nudity will also be used sparingly.
+>PA handles the design for the women.
+>"Leaf Girl" is just a doodle PA made for fun, and isn't planned for anything in particular.
+>PA has asked Dozen for help, but hasn't given him any tasks in particular yet.
+>Original characters are being focused on right now rather than guest characters.
+>The next level was originally planned to be very off kilter, but Ninja suggested that Funkin' could use a "cool level", and thus Darnell was suggested and approved.
+>The artbook is still planned, which includes all the FLA doodles.
+
 #15.12.2022 Ninjamuffin AMA summary#
 
 >Input system will be greatly improved

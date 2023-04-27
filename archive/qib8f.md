@@ -80,4 +80,4 @@ Site name |   | Quality | Theme | Link | Notes |
 [Sexstories](https://sexstories.com/)|🟢| Good (Variable) | General | [part1.7z](https://files.catbox.moe/38z7mh.7z) [part2.7z](https://files.catbox.moe/5gy4bm.7z) | 60K stories, 1.25GB. Duplicate stories may be present. Some are also short "sex jokes", so it is suggested to filter them by length. Tags, ratings, views included in the csv files.
 [The Erotic Mind-Control Story Archive](https://mcstories.com/)|🟢| **Excellent** | Erotic mind control stories (general) | [.7z](https://anonfiles.com/q1g5rdn1zc/mcstories_all_7z) | 36000+ stories (including multi-chapter parts). All stories include a short summary and categories based on a modified _alt.sex.stories_ system, described in detail [here](https://mcstories.com/Tags/index.html). The stories are in very consistently formatted HTML, and separating unwanted portions like _trailers_, _milestones_, chapter titles and so on should be easy.
 
-You can find more legally questionable story raw data files [in a separate Rentry](https://rentry.org/ashh2).
+Story raw data of more questionable nature is available on ashh2.

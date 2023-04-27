@@ -139,6 +139,8 @@
 04/2023|[Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study](https://arxiv.org/abs/2304.06762)
 04/2023|[Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145)
 04/2023|[Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
+04/2023|[Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/abs/2304.13007)
+04/2023|[Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables](https://arxiv.org/abs/2304.13559)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

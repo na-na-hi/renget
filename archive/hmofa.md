@@ -2679,6 +2679,10 @@ https://www.sofurry.com/view/1943177 (ch. 29)
 https://www.sofurry.com/view/1945845 (ch. 30)
 https://www.sofurry.com/view/1948266 (ch. 31)
 https://www.sofurry.com/view/1950943 (ch. 32)
+https://www.sofurry.com/view/1953956 (ch. 33)
+https://www.sofurry.com/view/1953959 (ch. 34)
+https://www.sofurry.com/view/1956770 (ch. 35)
+https://www.sofurry.com/view/1959539 (ch. 36)
 https://www.sofurry.com/view/1820027 (glossary)
 
 `Swindled Change`
@@ -3891,7 +3895,7 @@ https://git.io/Js8ym
 #####meklab
 
 `The Fox & Hound`
-https://archiveofourown.org/works/4385071
+https://archiveofourown.org/works/43850712
 
 `Wolfox`
 https://git.io/J39yY

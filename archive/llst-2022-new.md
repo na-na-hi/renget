@@ -99,6 +99,7 @@ Previous: >>694201488 (# of previous thread)
 /(?=.*nijigasaki)(?=.*troll shit).*$/i;boards:jp;subject:love live
 /troll piece of shit/i;boards:jp;subject:love live
 /orctaku/i;boards:jp;subject:love live
+/genturd/i;boards:jp;subject:love live
 /yudu/i;boards:jp;subject:love live
 /mippi/i;boards:jp;subject:love live
 /ibuki/i;boards:jp;subject:love live

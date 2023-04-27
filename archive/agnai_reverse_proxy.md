@@ -2,11 +2,13 @@
 
 #### Video guides
 
-whocars/hf proxies: https://files.catbox.moe/5f1x3y.webm
+Todd: https://files.catbox.moe/hilc9c.mp4
 
-Claude 1.2 (requires API key) https://files.catbox.moe/ui72un.mp4
+whocars/hf proxies: https://files.catbox.moe/750zod.mp4
 
-OpenAI (with your own key) https://files.catbox.moe/jproza.mp4
+Claude 1.2 (requires API key) https://files.catbox.moe/gyoyxa.mp4
+
+OpenAI (with your own key) https://files.catbox.moe/2rmxag.mp4
 
 #### If you want to install agnai locally
 
@@ -23,8 +25,6 @@ You can alternatively run `agnai -d` if you want the console to log all payloads
 [1] https://agnai.chat/settings Set Default AI Service to "Kobold", click on the Kobold tab, set "Third-party backend format" to OpenAI and set the third-party URL to the OpenAI proxy URL (***the one that ends with /proxy/openai**).
 
 **FOR THE TODD PROXY MAKE SURE YOU REMOVE /v1 FROM THE URL**
-
-Make sure you have some garbage entered for the OpenAI API key under OpenAI settings (unless you have a key there then that's fine)
 
 [2]  Start a chat. Open the chat menu at the top right, and click "Generation Settings"
 
