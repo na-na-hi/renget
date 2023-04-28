@@ -262,3 +262,25 @@ One night, I encountered a group of nomads who were traveling through the desert
 As I continued on my journey, I encountered a sandstorm that nearly engulfed me. I had to seek shelter behind a large rock formation, and as I waited for the storm to pass, I felt a sense of awe at the power of nature. The wind howled and the sand whipped around me, creating a symphony of sound and motion that was both terrifying and beautiful.
 
 Despite the challenges, I was determined to reach my destination. I pushed on through the heat and the sand, and finally, after what felt like an eternity, I caught sight of a small village in the distance. It was the home of the sand people, and I felt a mix of excitement and apprehension as I approached it.
+
+>017: Journey to the Desert (3/3)
+
+As I stumbled across the sand dunes, my vision started to blur and my feet felt heavy as if they were made of lead. The scorching sun above me beat down mercilessly, and I felt like I was on the brink of collapsing. My thoughts were jumbled and I could hardly string together a coherent sentence.
+
+Suddenly, everything went black, and I woke up in a strange place, surrounded by a group of Serval-cat-people, Cheetah-people, and Sand cat-people. It took me a moment to remember where I was and why I was there.
+
+My head throbbed painfully as I tried to speak, but my voice was barely a whisper. I noticed that the desert people were speaking a different dialect of Kash'gonian, and I struggled to understand what they were saying.
+
+Despite my condition, I managed to explain to them why I was there and about my travels and experiences with the Kash'gon. They listened intently, and I saw a glimmer of curiosity in their eyes.
+
+As my consciousness began to fade again, a tall Serval woman named Razina stepped forward and volunteered to be my guide. She offered me water and offered to build a small sand tent for me using magic. I watched in wonder as she effortlessly created a shelter out of sand where I could rest. Her movements were graceful and fluid, and I could sense a quiet strength in her demeanor.
+
+I looked around and saw that there were indeed three types of Sand People. The Serval and Cheetah were tall and lanky, while the Sand Cat were short and buff. They moved with a grace that I had never seen before.
+
+Razina noticed my curious gaze and explained, "We use magic to help us move with ease in the desert, to find water and food, and to heal. With magic, we can even make sand waves and ski on it."
+
+I watched as they demonstrated their abilities, creating a sand wave and riding it like it was water. It was like nothing I had ever seen before.
+
+As I drifted in and out of consciousness, I couldn't help but notice how the desert people lived in such harsh and unforgiving conditions. Despite their challenging circumstances, they seemed to be content and at peace with themselves and their surroundings.
+
+I knew that my journey with the sand people would be full of challenges and obstacles, but I was determined to learn more about their way of life and gain a deeper understanding of the Kash'gon culture.

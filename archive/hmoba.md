@@ -1,5 +1,5 @@
 # /hmoba/ Masterbin
-->Updated - 22 Apr 2023 18:59 UTC<-
+->Updated - 28 Apr 2023 14:56 UTC<-
 ***
 !!! note Golden Rule: 
 	Remember to keep stories on topic – If it does not center around a male human top with a femboy anthro bottom, it does not belong here!
@@ -44,31 +44,34 @@ https://rentry.org/Dak07A
 https://archiveofourown.org/works/15763029
 	==Anon the Jade Hunter== (NEW!)
 https://rentry.org/welldressed
-2. ######Blammer 
+2. ######Auren
+==Starstruck==
+https://archiveofourown.org/works/46748620
+3. ######Blammer 
 	==Compiled Stories & Miscellanea== (NEW!)
 https://rentry.org/mvfvu
-3. ######Bucephalus
+4. ######Bucephalus
 	==Sam and Noel==
 https://controlc.com/30aaba4d
-4. ######Drewanon
+5. ######Drewanon
 	==Do The Time Warp Anthology==
 http://rentry.org/timewarpanthology
 	==Contrived High Fantasy Scenario==
 https://rentry.org/Sp00kySlashtgSlash
-5. ######HomeTome
+6. ######HomeTome
 	==Vermintide: Lone Skaven==
 https://www.sofurry.com/view/1958058
 https://archiveofourown.org/works/45287857
-6. ######Tailsanon
+7. ######Tailsanon
 	==Tails Vocaroos==
 1 https://vocaroo.com/1majhK380ubD
 2 https://vocaroo.com/12DLWEtJN2ju
 3 https://vocaroo.com/1gjkMANuHUur
 4 https://vocaroo.com/13uJPDPEbHGY
 EX https://vocaroo.com/1gfkFta8u11j
-7. ######spicyhazard
+8. ######spicyhazard
 	==Just Bros Being Bros== (NEW!)
 https://archiveofourown.org/works/46667341 
-8. ######WritefriendSnippet
+9. ######WritefriendSnippet
 	==Bunboy Ashley==
 https://archiveofourown.org/works/42547977

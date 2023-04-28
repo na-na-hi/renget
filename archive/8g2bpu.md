@@ -52,7 +52,7 @@ Waiting room outside the clinic.  Feat. Artist's choice injured pokemon
 
 Percival perched on the guild diligently 
 
-A few 2nd wave mons sitting together at a dinner table
+~~A few 2nd wave mons sitting together at a dinner table~~
 
 Chespin lifting Minun with his vines to pick an apple from a tree
 

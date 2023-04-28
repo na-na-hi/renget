@@ -52,6 +52,8 @@ https://dezgo.com/image2image
 ###Inpainting Sites
 https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting 
 https://inpainter.vercel.app/paint
+###DeepFloyd
+https://huggingface.co/spaces/DeepFloyd/IF
 
 ##Models, Textual Inversion & Embeddings
 https://civitai.com
@@ -186,4 +188,4 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 
 ##Bakery
-Cut'n'paste for PWAnon (^_^) and other thread bakers - Apr 11th - https://pastebin.com/m7BPD8tG
+Cut'n'paste for PWAnon (^_^) and other thread bakers - Apr 28th - https://pastebin.com/dNtrVZbH

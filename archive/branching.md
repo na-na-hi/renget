@@ -1114,7 +1114,7 @@ Unfortunately for him, that night he had a nightmare about being chased by a gia
 
 ***
 
-##-> (Temporary?) Extras (Character Summary, Timeline Placement, Lore Bin Quick Reference) <-
+##-> (Temporary?) Extras (Character Summary, Lore Bin Quick Reference) <-
 **Character Summary:**
 During his life as a human, Elm was very afraid of taking risks and trying new things. This caused him to miss many opportunities in life, and he carried many regrets because of that. After being turned into a Duskull he promised to himself that in this life he would be someone more adventurous, who seeks new experiences and unique days.
 Elm has a bad tendency to overthink and expect the worst possible outcomes, as unlikely as they might be, and it might even lead to anxiety attacks. This can cause him to hesitate when facing the unknown, but he always remembers his promise and tries his best to put fear aside and push forward.
@@ -1122,10 +1122,6 @@ He has a hard time socializing with people he doesn’t know and can come across
 Becoming a Duskull has caused some quirks in his behavior. Sometimes he feels like an internal voice is whispering to him in order to guide him or make him take specific actions. It also helps him stay focused during fights, although it can also cause an unfamiliar rage to awaken when he’s in a pinch. He attributes this voice to Ghost Pokémon instincts. This also has caused him to acquire a taste for pranking and spooking others, but he doesn’t want to be an annoyance, so he makes sure to do it sparingly and to only do pranks that aren’t dangerous.
 Doesn’t like to be near Pelippers due to personal reasons.
 Abilities: Shadow Sneak; Astonish; Will-o-Wisp (in a future story); can go through walls and floor. Must create visualizations in order to use moves, so he needs more time than usual to perform them, but they also pack a bigger punch.
-
-**Timeline Placement:**
-For now either along with "The First Day on The Job" or “Introducing Capim Town”, or in the space between it and the Federation. The story is very flexible timeline-wise, so it can be easily moved if needed.
--> ![Timeline]( https://i.imgur.com/zKcGQpO.png) <-
 
 **Lore Bin Quick Reference:**
 A human wakes up as a Duskull, goes through a dungeon, travels to Capim, then joins the guild and decides to name himself "Elm". The guild’s storeroom is described as being very messy and full of junk and unlabeled boxes, with no inventory.

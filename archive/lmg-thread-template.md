@@ -83,16 +83,17 @@ https://github.com/anon998/simple-proxy-for-tavern
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
+    V. 
 ###LlaMA:
 Project & Model Names | Resource Links:
 ------ | ------
 llama.cpp (ggerganov) | https://github.com/ggerganov/llama.cpp (◕) (Ŏ)
 ⇲ koboldAI | https://github.com/KoboldAI/KoboldAI-Client (◕) (Ŏ)
 ⇲ AgustusCletus llama.cpp | https://github.com/AgustusCletus/llama.cpp (◎) (Ŏ)
-llama-7b-ggml-q5_1 (GGML) | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main (◕) (Ŏ)
-llama-13b-ggml-q5_1 (GGML) | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main (◕) (Ŏ)
-llama-33b-ggml-q5_1 (GGML) | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main (◕) (Ŏ)
-LLaMa-65B-quantized (GGML) | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main (◕) (Ŏ)
+llama-7b-ggml-q5_1 (CPU-GGML) | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main (◕) (Ŏ)
+llama-13b-ggml-q5_1 (CPU-GGML) | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main (◕) (Ŏ)
+llama-33b-ggml-q5_1 (CPU-GGML) | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main (◕) (Ŏ)
+LLaMa-65B Quantized (CPU-GGML) | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main (◕) (Ŏ)
 
 ####Alpaca (LlaMA):
 Project & Model Names | Resource Links:
@@ -102,7 +103,7 @@ Alpaca Native | https://huggingface.co/chavinlo/alpaca-13b/tree/main (◕) (Ŏ)
 ⇲ GPT4-X-Alpaca | https://huggingface.co/chavinlo/gpt4-x-alpaca (◕) (Ŏ)
 ⇲ GPT4-X-Alpaca 13b Native 4bit 128g GGML GPTQ 4b_1 (Quantized) | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main/gpt4-x-alpaca-13b-ggml-q4_1-from-gptq-4bit-128g (◕) (Ŏ)
 Alpaca LoRA (LoRA 4 GPU's) | https://github.com/tloen/alpaca-lora (◕) (Ŏ)
-Alpacino 13b q5_1 (GGML) | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main (◕) (Ŏ)
+Alpacino 13b q5_1 (CPU-GGML) | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main (◕) (Ŏ)
 
 ####GPT4-ALL (LlaMA):
 Project & Model Names | Resource Links:
@@ -114,30 +115,31 @@ GPT4-ALL (LoRA)| https://github.com/nomic-ai/gpt4all (◕) (Ŏ)
 Project & Model Names | Resource Links:
 ------ | ------
 FastChat (Vicuna) | https://github.com/lm-sys/FastChat#readme (◕) (Ŏ / ⌀) ( Ĩ )-Multiple Universities
-↳ Vicuna w/ GGML | https://huggingface.co/eachadea/ggml-vicuna-13b-4bit/tree/main (◕) (Ŏ)
-↳ Vicuna Unfiltered | https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered (◕) (Ŏ)
+↳ Vicuna w/ (CPU-GGML) | https://huggingface.co/eachadea/ggml-vicuna-13b-4bit/tree/main (◕) (Ŏ)
+↳ Vicuna Unfiltered (GPU) | https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered (◕) (Ŏ)
+↳↳ Vicuna 13b free (GPU) | https://huggingface.co/reeducator/vicuna-13b-free (◕) (Ŏ)
 LlaVA | https://llava-vl.github.io (◕) (Ŏ / ⌀) ( Ĩ )-Multiple Universities ($)-Microsoft
-Vicuna-7b-1.1 (GGML) | https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main (◕) (Ŏ)
-Vicuna-13b-1.1 (GGML) | https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main (◕) (Ŏ)
+Vicuna-7b-1.1 (CPU-GGML) | https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main (◕) (Ŏ)
+Vicuna-13b-1.1 (CPU-GGML) | https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main (◕) (Ŏ)
 
 ####Oasst (LlaMA):
 Project & Model Names | Resource Links:
 ------ | ------
-Oasst LlaMA 13B q4 | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main (◕) (Ŏ)
-Oasst LlaMA 33b q5_0 (GGML) | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main (◕) (Ŏ)
-Oasst LlaMA 33b q5_1 (GGML) | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main (◕) (Ŏ)
+Oasst LlaMA 13B q4 (CPU-GGML) | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main (◕) (Ŏ)
+Oasst LlaMA 33b q5_0 (CPU-GGML) | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main (◕) (Ŏ)
+Oasst LlaMA 33b q5_1 (CPU-GGML) | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main (◕) (Ŏ)
 
 ####WizardLM (LlaMA):
 Project & Model Names | Resource Links:
 ------ | ------
 WizardLM | https://github.com/nlpxucan/WizardLM (◕) (Ŏ)
-WizardLM-7B (GGML) | https://huggingface.co/TheBloke/wizardLM-7B-GGML/tree/main (◕) (Ŏ)
+WizardLM-7B (CPU-GGML) | https://huggingface.co/TheBloke/wizardLM-7B-GGML/tree/main (◕) (Ŏ)
 
 ####SuperCOT (LlaMA):
 Project & Model Names | Resource Links:
 ------ | ------
-llama-13b-supercot q5_1 sft6 (GGML) | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main (◕) (Ŏ)
-llama-33b-supercot q5_1 sft6 (GGML) | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main (◕) (Ŏ)
+llama-13b-supercot q5_1 sft6 (CPU-GGML) | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main (◕) (Ŏ)
+llama-33b-supercot q5_1 sft6 (CPU-GGML) | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main (◕) (Ŏ)
 
 ####Plugins & Other Projects (LlaMA):
 Project & Model Names | Resource Links:
@@ -189,10 +191,10 @@ Model Torrents | https://rentry.org/nur779 (◕)
 ####Text Generation/Webui:
 Project Names | Resource Links:
 ------ | ------
-Oobabooga's Standard (One-Click Method) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ) (GPU Inference - WebUI)
-↳ Wawa's TGW w/ Long-Term Memory | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ) (Extension)
-Koboldcpp | https://github.com/LostRuins/koboldcpp (◕) (Ŏ) (CPU Inference - WebUI)
-Alpaca.cpp | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ) (CPU Inference)
+Oobabooga's Standard (GPU Inf.) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ)
+↳ Wawa's TGW w/ Long-Term Memory (Extension) | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ) 
+Koboldcpp (CPU Inf.) | https://github.com/LostRuins/koboldcpp (◕) (Ŏ)
+Alpaca.cpp (CPU Inf.) | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ) 
 
 ####Finetuning Resources:
 !!! info Coming Soon

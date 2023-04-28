@@ -31,11 +31,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
+\>(04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
 (04/27) Two years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
 (04/25) Mom: "We have chatGPT at home" https://huggingface.co/chat
 (04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
 (04/23) Saga adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
-(04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks

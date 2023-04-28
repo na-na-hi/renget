@@ -35,12 +35,13 @@ Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdc
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
 Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
+N/A | ? | Pikachu | N/A? | Clover Guil Member | Bashful *Pending*
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Bullet | M | Noivern | Indeedee (Mimi, F, Careful) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bullet)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
-Concord | M | Nickit | N/A | [Clover Guild Affiliated Explorer](https://arch.b4k.co/vp/thread/53672956/#53679006) | [Quiet](https://rentry.org/vpmdcloverpb#concord)
+Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | [Quiet](https://rentry.org/vpmdcloverpb#concord)
 Adelaid | F | Voltorb | Drowzee (Dahpi, M)| Rescue Team | 
 Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | Careful
 Nigel | M | Absol | | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#Nigel)

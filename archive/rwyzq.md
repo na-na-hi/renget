@@ -542,6 +542,28 @@ if __name__ == '__main__':
 	os.remove(r'ffmpeg2pass-0.log')
 ```
 
+##Soundpost FIlename Cleaner
+Removes `http://` and `https://` and fixes `_2F` to `%2F` in the folder it is ran in.
+Reason:
+https://github.com/rcc11/4chan-sounds-player/blob/master/src/components/tools/create.js#L176 indicates they are stripped anyway and do not actually matter.
+
+```python
+import os
+
+if __name__ == '__main__':
+	cwd = os.getcwd()
+	for file in os.listdir(cwd):
+		file_ext = file.split(r'.')
+		file_ext = file_ext[len(file_ext)-1]
+		if file_ext in ['webm','png','jpg','gif','jpeg','jfif']:
+			if len(file.split(r'sound=')) > 1:
+				if file.split(r'sound=')[1].startswith(r'http') or len(file.split(r'_2F')) > 1:
+					clean_file = file.replace(r'http%3A%2F%2F',r'').replace(r'https%3A%2F%2F',r'').replace(r'_2F',r'%2F')
+					os.replace(file,clean_file)
+					print(end='\x1b[2K')
+					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file), end='\r')
+```
+
 ##Soundpost Recombiner
 These scripts are meant to combine the audio back into the video file for soundpost archiving.
 ###Archival Quality (Slow for GIF)

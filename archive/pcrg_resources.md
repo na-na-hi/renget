@@ -16,6 +16,8 @@ https://rentry.co/pcrgclans_JP
 **JP MTL tool setup**
 >[424433568](https://boards.4channel.org/vg/thread/424433151#p424433568)
 
+**JP CB guide for newcuties**
+https://rentry.org/qfz8d
 
 **Wide Hips character impressions**
 https://rentry.co/CharaImpressions_EN
