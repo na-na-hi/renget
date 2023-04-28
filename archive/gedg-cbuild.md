@@ -1,6 +1,6 @@
 # C Builds and Libraries for the Inexperienced
 
-This guide was made for [/agdg/](https://boards.4channel.org/vg/catalog#s=agdg) and [/gedg/](https://boards.4channel.org/g/catalog#s=gedg). Make sure to also check out [/chad/](https://boards.4channel.org/g/catalog#s=chad)! If you see any glaring errors, feel free to tell Froggy !!UYKMqlVW9eC, he would appreciate the criticism to make this tutorial better.
+This guide was made for [/agdg/](https://boards.4channel.org/vg/catalog#s=agdg),  [/gedg/](https://boards.4channel.org/g/catalog#s=gedg), and [/chad/](https://boards.4channel.org/g/catalog#s=chad)! If you see any glaring errors, feel free to tell Froggy !!UYKMqlVW9eC, he would appreciate the criticism to make this tutorial better.
 
 In this world if anything is eternal, it is the learning curve of building C projects. The problem is that, like any subject, people turn something easy into something hard by skipping fundamental steps. This might not be your fault. You might ask: "How do I use a library?", and someone answers with "CMake". And while CMake is useful, it is NOT what you should be using for libraries the very first time you learn about them. It is important to build and link a simple library using the compiler before trying it in CMake. That being said, you might have to do a lot of reading, but none of this is actually hard to do.
 

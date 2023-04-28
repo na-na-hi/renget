@@ -141,6 +141,8 @@ https://t.me/s/NabrezhnyeIntel
 ***
 ## Clips
 ▶NEW CLIPS
+\>Geranium yeets UA Buk-M2 at night
+https://files.catbox.moe/vshf6d.mp4
 \>Hohols pulling survivor from rubble
 https://files.catbox.moe/d4utcy.mp4
 \>Another S-300 tries to run but cant hide from Lancet

@@ -1,5 +1,5 @@
 ▶NEW CLIPS
->TOR fucked up by a Lancet. TEST!!!!
+>TOR fucked up by a Lancet.
 https://files.catbox.moe/hl15zl.mp4
 >"You should die, lad, because you're a retard" – music vid
 https://files.catbox.moe/019qe1.mp4

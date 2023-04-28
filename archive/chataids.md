@@ -4,6 +4,9 @@ See also /aicg/ on /g/.
 
 #AI Chat Resources
 
+###General Chatbot Guide
+https://old.reddit.com/user/Crataco/comments/zuowi9/opensource_chatbot_companions/
+
 ###OG (Not for lewd)
 https://chat.openai.com/chat
 

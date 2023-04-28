@@ -21,7 +21,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **4** | 404TH | ==**4033**== |PERMISSION | YUKIKAZE| 32/32 | N 
 **5** | CUNNYWOW | ==**4496**== |OPEN | FRIEDKUN | 32/32 | N 
 **5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 31/32 | N 
-**3** |EPITAPH| ==**7975**== |PERMISSION | BORGAR | 12/32 | N 
+**3** |EPITAPH| ==**7975**== |PERMISSION | BORGAR | 13/32 | N 
 **5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 32/32 | Y 
 **3** |TOGEMURA| ==**10050**== |OPEN | THERAS| 32/32 | N 
 **4** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 32/32 | N 

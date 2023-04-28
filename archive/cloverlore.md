@@ -9,14 +9,24 @@ Quick reference of all important events in timeline order to help writers, along
 ![Timeline](https://i.imgur.com/Okw85xk.png)
 ####Locations
 A list of unique locations visited by guild members, or canon locations altered by guild members
+#####Capim Town Locations
 ######The Clover Guildhall
-Currently does not have a well defined layout, but exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi). The guild’s storeroom is full of junk and unlabeled boxes, with no organization.
+Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi). The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z).
+######Guildhall Layout (Update with Kiyo's layout when KFC adds to archives!)
+![OUT OF DATE](https://i.imgur.com/NCKc3kF.png)
+######Blue Claw Inn
+An inn/tavern in Capim Town. Notable for being the location where [Gathering](https://rentry.org/h3fdu) occurs and the guild is formed.
+######Ariados the Tailor
+Tailor in Capim Town. The backroom of her store is for clothing storage, and is several floors tall and full of clothes from top to bottom. Uses her silk threads to climb up and down to fetch clothes. Ariados also uses her silk as improvised measuring tape and for weaving her own silk cloth. First appears in [Torchic Crosses the Alps](https://rentry.org/unesm)
+#####Other Locations
 ######Hot Spring
 A hot spring on top of a mountain near Capim Town, guarded by a Charizard who battles anyone who tries to reach the summit. First visited by Chepin in [Mountain Hike](https://rentry.org/mk77t)
 ######Echo Chamber
 A new chamber replacing the trap chest room at the end of Waterfall Cave. First visited by Booker in [The Echo Chamber](https://rentry.org/RibombeeEcho)
 ######Apple Woods
 Suffered a large forest fire that destroyed the Perfect Apple tree. Caused by Phanpy's team in [The First Day on the Job](https://rentry.org/pn2fz)
+
+
 ####Stories
 Summaries of important events from different completed stories. The goal is to focus on events that would impact other anon's stories, instead of summarizing every written work. Origin/Introduction stories are included and labeled (Intro).
 #####[Gathering (Booker)](https://rentry.org/h3fdu)

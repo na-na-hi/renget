@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/iGrNw8e.png)
-Anniversary Edition
+![suggested OP image](https://imgur.com/of82DT4.png)
+Single-Use Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>427358572
+Last thread: >>427518763
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -13,6 +13,7 @@ KoboldAI — Free; local or remote colab: https://koboldai.org / https://kobolda
 KoboldAI Horde — Free; remote generations from other model hosts: https://lite.koboldai.net
 Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united
 LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
+\>Saga  — Free; remote, use 'alternate model' (J2) https://saga3.vercel.app
 
 ▶Tools & Resources
 Wiki: https://aids.miraheze.org/wiki/Main_Page
@@ -30,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/27) Two years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
+(04/27) Two years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
 (04/25) Mom: "We have chatGPT at home" https://huggingface.co/chat
 (04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
-(04/23) https://saga3.vercel.app adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
+(04/23) Saga adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
 (04/20) Devblogchads won https://blog.novelai.net/novelais-new-llm-tokenizer-5bc140e17642 ; Stability BLOOMs it: https://github.com/stability-AI/stableLM
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write prompts about this week's theme, Size Difference Friday! >>426735929
+\>Today is Size Difference Friday; reply to the anchorpost with your colossal prompts! >>427643158
 
 
 ##Perma-Template

@@ -24,6 +24,7 @@ https://rentry.org/Writing-Resources-and-Other-Things
 
 ####Voice Cloning
 https://rentry.org/AI-Voice-Cloning
+https://beta.elevenlabs.io/
 
 ####NAI:
 NAI specific wiki: https://naidb.miraheze.org
@@ -38,8 +39,11 @@ Format Guide: https://nolialsea.github.io/Wpp
 Runpod: https://koboldai.org/runpod-united
 8-bit patch: https://gitgud.io/ItsDrivingMeNuts/kobold-ai-8bit-patch
 
-####LLaMA tokenizer
+####LLaMA Tokenizer
 https://files.catbox.moe/8v7aqv.model
+
+####Anthropic/Claude Tokenizer
+https://github.com/anthropics/anthropic-sdk-python/blob/main/anthropic/tokenizer.py
 
 ####Holo (cheaper paid option):
 https://writeholo.com
@@ -51,9 +55,6 @@ https://www.sudowrite.com
 ####AI Roguelite
 https://store.steampowered.com/app/1889620
 https://github.com/Yardanico/ai-roguelite-nai
-
-##General Chatbot Guide
-https://old.reddit.com/user/Crataco/comments/zuowi9/opensource_chatbot_companions/
 
 ##SoloRPG Guide
 https://rentry.org/SoloAI2

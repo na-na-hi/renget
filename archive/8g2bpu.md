@@ -6,7 +6,7 @@ A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to
 
 A group of three or more having a swimming competition 
 
-Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers
+~~Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers~~
 
 Any anon-mons babysitting a baby-mon (job requests tend to get weird)
 
@@ -64,7 +64,7 @@ Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka out
 
 Alakazam wearing a pointy white sheet over his head
 
-Chespin holding a large blanket over his head ala Legend of Zelda
+~~Chespin holding a large blanket over his head ala Legend of Zelda~~
 
 One or more guild members (artist's choice) wearing (ugly/christmas) sweaters.
 

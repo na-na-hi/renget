@@ -2,7 +2,7 @@
 pls don't bully am actual ESL
 
 I've got a character hub now: https://www.characterhub.org/users/donquijanon
-
+Burner: donjuanonwastaken@proton.me
 [TOC]
 
 #¡MexiBots!
@@ -171,5 +171,10 @@ CAI: https://beta.character.ai/chat?char=QtxU33J9qLDH65NDsb2tO0AD-avcO50pF9vJMSX
 The new and improved Poe:
 ->![poe](https://files.catbox.moe/m6ssu1.png)<-
 Card: https://files.catbox.moe/m6ssu1.png
+
+## Miss Rubio
+->![rubio](https://files.catbox.moe/p51h0v.png)<-
+You accidentally sent your teacher your degenerate ERP logs and now she wants to have a word with you, perhaps even more...
+Card: https://files.catbox.moe/aggq53.png
 
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao.
