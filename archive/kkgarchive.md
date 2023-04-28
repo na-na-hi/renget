@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 28.04.2023 03:30 UTC]
+[Last Updated: 28.04.2023 12:15 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7343212/](https://boards.4chan.org/h/thread/7343212/)
+Current thread - [boards.4chan.org/h/thread/7347371/](https://boards.4chan.org/h/thread/7347371/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 578&nbsp;&nbsp;[archiveofsins.com/h/thread/7347371/](https://archiveofsins.com/h/thread/7347371/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 05:29)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Eveningtimes Edition
 - 577&nbsp;&nbsp;[archiveofsins.com/h/thread/7343212/](https://archiveofsins.com/h/thread/7343212/)&nbsp;&nbsp;&nbsp;&nbsp;(25.04.2023 21:43)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Real Human Bulb Edition
 - 576&nbsp;&nbsp;[archiveofsins.com/h/thread/7339169/](https://archiveofsins.com/h/thread/7339169/)&nbsp;&nbsp;&nbsp;&nbsp;(23.04.2023 23:48)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Commerce Edition
-- 575&nbsp;&nbsp;[archiveofsins.com/h/thread/7334405/](https://archiveofsins.com/h/thread/7334405/)&nbsp;&nbsp;&nbsp;&nbsp;(21.04.2023 21:53)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Terrarium Edition
+- 575&nbsp;&nbsp;[archiveofsins.com/h/thread/7334405/](https://archiveofsins.com/h/thread/7334405/)&nbsp;&nbsp;&nbsp;&nbsp;(21.04.2023 21:53)&nbsp;&nbsp;[975]&nbsp;#&nbsp;Terrarium Edition
 - 574&nbsp;&nbsp;[archiveofsins.com/h/thread/7329173/](https://archiveofsins.com/h/thread/7329173/)&nbsp;&nbsp;&nbsp;&nbsp;(19.04.2023 16:45)&nbsp;&nbsp;[1162]&nbsp;#&nbsp;You have Chika Edition
-- 573&nbsp;&nbsp;[archiveofsins.com/h/thread/7323614/](https://archiveofsins.com/h/thread/7323614/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:42)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Chow time Edition
 ---
 Archive:
 
+- 573&nbsp;&nbsp;[archiveofsins.com/h/thread/7323614/](https://archiveofsins.com/h/thread/7323614/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:42)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Chow time Edition
 - 572&nbsp;&nbsp;[archiveofsins.com/h/thread/7316595/](https://archiveofsins.com/h/thread/7316595/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 05:58)&nbsp;&nbsp;[990]&nbsp;#&nbsp;Catch of the Day edition
 - 571&nbsp;&nbsp;[archiveofsins.com/h/thread/7310459/](https://archiveofsins.com/h/thread/7310459/)&nbsp;&nbsp;&nbsp;&nbsp;(10.04.2023 02:20)&nbsp;&nbsp;[979]&nbsp;#&nbsp;I FUCKING LOVE LEAN!!! Edition
 - 570&nbsp;&nbsp;[archiveofsins.com/h/thread/7304072/](https://archiveofsins.com/h/thread/7304072/)&nbsp;&nbsp;&nbsp;&nbsp;(06.04.2023 23:08)&nbsp;&nbsp;[1066]&nbsp;#&nbsp;Dorito Edition

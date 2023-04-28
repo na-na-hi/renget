@@ -65,7 +65,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 
 ##Hall of Shame
 
-Name | Crime | Used to be called | ID | Region
+Union name / Anon Name | Crime | Used to be called | ID | Region
 :----: | ------ | ------ | ------ | ------ 
 MELLOW | Leader sold the union to the Chinese | IRONTITS | 2921 | NA
 

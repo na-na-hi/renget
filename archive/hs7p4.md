@@ -8,6 +8,7 @@
 * [2022-10-26: Scared at 3am](https://files.catbox.moe/fjbl5c.m4a)
 * [2022-12-19: Bathtub "stream"](https://files.catbox.moe/eand92.m4a)
 * [2023-01-24: Onsen space](https://files.catbox.moe/ikw15w.mp3)
+* [2023-04-25: "The Princess Bride" watchalong](https://files.catbox.moe/wx3m2q.m4a)
 
 **This list is incomplete. Some spaces which are missing:**
 

@@ -1100,7 +1100,7 @@ Step | Interpolation Method	|Primary Model	|Secondary Model	|Tertiary Model	|Mer
 
 [MEGA](https://mega.nz/file/mhshHJAJ#DqlplsXdlongetDRdyZy54mDQk7kSy_ePCWiJ3Rqe4E)
 
-###emL_v20_hll4p3ep8[`9001c6ee35`]
+###emL_v20_hll4p3ep8-4806-1812-8694[`e9d782e81f`]
 **Models used:**
 [ExpMixLine v20](https://rentry.org/sdg-motherload#expmixline-v20)
 [hll4-p3-ep8](https://huggingface.co/CluelessC/hll-test/resolve/main/hll4-p3-ep8.safetensors)
@@ -1113,9 +1113,14 @@ Step | Interpolation Method	|Primary Model	|Secondary Model	|Tertiary Model	|Mer
 :----: | :----: | :----: | :----: | :----: | :----:
 1   | Add Difference @ 1.0 |expmixLine_v20|hll4-p3-ep8|NovelAI|emL_v20_hll4p3ep8
 
-[Download Link](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/emL_v20_hll4p3ep8.safetensors)
+[Download Link](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/emL_v20_hll4p3ep8-4806-1812-8694.safetensors)
 
-####NEW Super Gekijōban Shinseiki Dai Rantō HLL4p3 You Can (Not) Proompt VIII Epoch HD Remix &IRYS Turbo[`095ada70b8`]
+!!! warning CLIP had incorrect positions, fixed: 3, 6, 7, 12, 14, 24, 28, 29, 41, 48, 53, 56, 58, 61, 63.
+	Old emL_v20_hll4p3ep8 with the broken CLIP encoder [Download Link](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/emL_v20_hll4p3ep8.safetensors) [`9001c6ee35`]
+
+
+
+####NEW Super Gekijōban Shinseiki Dai Rantō HLL4p3 You Can (Not) Proompt VIII Epoch HD Remix &IRYS Turbo-4759-1551-9111[`6842de21bb`]
 **Instructions:**
 !!!info Save as safetensors, **save as float16**
 	**Copy config from: Don't**, **Discard weights with matching name `^model_ema`**
@@ -1125,7 +1130,11 @@ Step | Interpolation Method	|Primary Model	|Secondary Model	|Tertiary Model	|Mer
 2 | Weighted Sum @ .60|CHADv254p3ep8|7th_HLL438_v2_AC_WS25|N/A|[NEW Super Gekijōban Shinseiki Dai Rantō HLL4p3 You Can (Not) Proompt VIII Epoch HD Remix &IRYS](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/NEW%20Super%20Gekij%C5%8Dban%20Shinseiki%20Dai%20Rant%C5%8D%20HLL4p3%20You%20Can%20(Not)%20Proompt%20VIII%20Epoch%20HD%20Remix%20%26IRYS.safetensors)[`7763e473c3`]
 3 | Weighted Sum @ .60|emL_v20_hll4p3ep8|Step 2|N/A|NEW Super Gekijōban Shinseiki Dai Rantō HLL4p3 You Can (Not) Proompt VIII Epoch HD Remix &IRYS Turbo
 
-[Download Link](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/NEW%20Super%20Gekij%C5%8Dban%20Shinseiki%20Dai%20Rant%C5%8D%20HLL4p3%20You%20Can%20(Not)%20Proompt%20VIII%20Epoch%20HD%20Remix%20%26IRYS%20Turbo.safetensors)
+[Download Link, Fixed CLIP](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/NEW%20Super%20Gekij%C5%8Dban%20Shinseiki%20Dai%20Rant%C5%8D%20HLL4p3%20You%20Can%20(Not)%20Proompt%20VIII%20Epoch%20HD%20Remix%20%26IRYS%20Turbo-4759-1551-9111.safetensors)
+
+!!! warning CLIP had incorrect positions, fixed: 3, 6, 7, 12, 14, 24, 28, 29, 41, 48, 53, 56, 58, 61, 63.
+	Old [Download Link](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/NEW%20Super%20Gekij%C5%8Dban%20Shinseiki%20Dai%20Rant%C5%8D%20HLL4p3%20You%20Can%20(Not)%20Proompt%20VIII%20Epoch%20HD%20Remix%20%26IRYS%20Turbo.safetensors) with the broken, unfixed CLIP encoder [`095ada70b8`]
+	The one without `Turbo` is fine, as emL_v20 was the source of the incorrect CLIP positions.
 
 ###Soup[`0dcbb6f048`]
 Soup

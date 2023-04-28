@@ -1,6 +1,8 @@
 ##/PMDG/ Clover Guild
 ![Wave 1](https://i.imgur.com/98HmV9t.png)
 [TOC3]
+###Where to Start
+[Intro to the Clover Guild](https://rentry.org/cloverintro)
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
@@ -51,6 +53,8 @@ Skull | M | Cubone | | Clover Guild Member | Quiet
  | | Quilava | | Outsider | Greedy?
  | | Mudkip | | Outsider | MEME CLOWN
 
+####Guild Affinity Chart by
+![Guild Affinity Chart v1](https://i.imgur.com/RQDrdJH.png)
 [Personality Blurbs Masterlist](https://rentry.org/vpmdcloverpb)
 [Aura Bow Personalities](https://rentry.org/Aura_Personalities)
 
@@ -69,7 +73,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 2 | [Map (ft. Booker)](https://rentry.org/e9e5p) | [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874) | [A 'Mon, Gus](https://rentry.org/7ytz9) | [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h) | [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) | [Encounter (ft. Lliam)](https://rentry.org/Encounter_Meowstic) 
 3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdue) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [KFC's Path to Aura Chapter Titles & Ending Only](https://rentry.org/KFC_Path_to_Aura)
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
-5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) | | | [The Wayfinder (wip)](https://rentry.org/TheWayFinder)
+5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) | | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7) | [The Wayfinder (wip)](https://rentry.org/TheWayFinder)
 6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | | | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 8 | [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT) | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | |
@@ -107,9 +111,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 40 | [Percival's Extended Introduction](https://rentry.org/uosgo9) | | | | |
 41 | [Torchic Crosses the Alps](https://rentry.org/unesm) | | | | |
 42 | [Encounter (ft. Not Ross)](https://rentry.org/226i97) | | | | |
-43 | | | | | |
-44 | | | | | |
-45 | | | | | |
+43 | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) | | | | |
+44 | [Foraging Run (ft. Smith)](https://rentry.org/5ivrh) | | | | |
+45 | [Stronger (ft. Chespin)](https://rentry.org/grmup) | | | | |
 46 | | | | | |
 47 | | | | | |
 48 | | | | | |
@@ -161,6 +165,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi)
 	* [The Outlaw (ft. Chespin)](https://rentry.org/q7she)
 	* [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i)
+	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -169,6 +174,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Debby and Linoone story: The Race](https://rentry.org/vd3nc)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
+	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -210,6 +216,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e)
 	* [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek)
 	* [Torchic Crosses the Alps](https://rentry.org/unesm)
+	* [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -222,10 +229,11 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Smith's Personality Blurb](https://rentry.org/hap2d)
 	* [Tales of the Grind (ft. Smith)](https://rentry.org/34ww5)
     * [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88)
+	* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
-	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) *Not on Table*
+	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -314,6 +322,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Torchic Crosses the Alps](https://rentry.org/unesm)
 * [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 * [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
+* [Intro to the Clover Guild](https://rentry.org/cloverintro)
+* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
+* [Stronger (ft. Chespin)](https://rentry.org/grmup)
+* [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

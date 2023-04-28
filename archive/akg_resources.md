@@ -66,7 +66,7 @@ __Operators outfit/skins__
 * [HermitzPlanner](https://hermitzplanner.github.io/)
 * [Upcoming Skins list sheet](https://docs.google.com/spreadsheets/d/13WaE-e52vdbANJ6oteL9EHlg_bv2k1Moe8ZV-SLI908)
 
-### Base (Beta) information
+### Base (BETA)
 
 __Base (Beta) Combo Guide__
 
@@ -74,7 +74,7 @@ __Base (Beta) Combo Guide__
 
 __Skill Guide__
 
-* arknights-poll.net (See which skill that got mastered on CN server)
+* [Arknights Poll](https://arknights-poll.net/result.html) (See which skill that got mastered on CN server)
 * [Viktorlab CN Skill DPS Calculator](https://viktorlab.cn/akdata/)
 
 !!! note Irene Mastery Guide
@@ -97,14 +97,14 @@ My favorite > Your favorite. If you think yours is better:
 ### Maps and enemies
 
 __Map simulator__
-* https://map.ark-nights.com/map/ (Map simulator with enemies path, timing etc)
+* https://map.ark-nights.com/areas/ (Map simulator with enemies path, timing etc)
 * https://prts-chan.vercel.app (CC maps, with enemies stats, risk calculator etc)
 
 __Map clear records database__
 * [ArkRec](https://en.arkrec.com/)
 
 __Enemy reference__
-* [Arknemy Enemy Databse](https://arknemy.github.io/enemy/)
+* [Arknemy Enemy Database](https://arknemy.github.io/enemy/)
 * [Aceship enemy Info](https://aceship.github.io/AN-EN-Tags/akenemy.html)
 
 ### Farming and Mats
@@ -177,7 +177,7 @@ resource | link
 /akg/ Drawpile pastebin | https://pastebin.com/unS1Uga0
 /akg/ Drawpile archive | [new archive](https://imgbox.com/g/97eTBbkUbq), [old archive](https://imgbox.com/g/u7HiPPkUpb)
 /akg/ Divegrass Page | https://implyingrigged.info/wiki//akg/
-Fankit (stickers, wallpapers) | https://www.arknights.global/fankit
+Fankit (stickers, wallpapers) | [Official EN Link](https://www.arknights.global/fankit), [Anon archive](https://files.catbox.moe/emlg5a.zip)
 Gacha revenue (update monthly) | https://space.bilibili.com/179948458
 Upcoming event prediction calendar | https://ak.jaywye.ee/calendar
 
@@ -189,6 +189,7 @@ The old pastebin, lots of outdated and dead links
 https://pastebin.com/v8bXccGJ
 
 ***
+## Contact me
 
 !!! info Contact me
     You can send mail to eurekalove@protonmail.com if there's anything to add/change/edit, or just reply to the OP for current /akg/ thread as I rarely check this mail account inbox.

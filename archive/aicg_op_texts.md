@@ -24,12 +24,14 @@ https://github.com/AmmoniaM/Spermack [russian tavern slack claude hack]
 >Agnai
 https://agnai.chat/ [Full web no-DL option, multi-user rooms, Claude API]
 https://rentry.org/agnai_guides [Video guides for proxies/Claude API/OAI]
+>Character.AI
+https://c.ai/ [Easiest but filtered]
 
 >Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
 https://rentry.org/cai-list [/aicg/ CAI bots + CAI resources]
-https://rentry.org/meta_bot_list  [4chan-made bots meta-rentry]
+https://rentry.org/meta_bot_list  [4chan meta-botlist]
 https://zoltanai.github.io/character-editor/ [creator/editor]
 
 >Botmaking
@@ -69,6 +71,8 @@ ruski claude: https://github.com/AmmoniaM/Spermack
 ▶Agnai
 https://agnai.chat/
 video guides: https://rentry.org/agnai_guides
+▶Character.AI
+https://c.ai/
 
 ▶Bots
 https://www.characterhub.org
@@ -96,3 +100,13 @@ extra topics: https://rentry.org/aicg_extra_information#other
 
 Previous: >>--Last thread here--
 ```
+
+***
+***
+***
+Sister rentries:
+- https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
+- https://rentry.org/aicg_extra_information - /aicg/ OP overflow, additional info missing from the OP
+
+Email for feedback and suggestions:
+- aicg2023@proton.me

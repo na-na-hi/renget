@@ -1,4 +1,4 @@
-# agnai guides
+# agnai.chat guides
 
 #### Video guides
 

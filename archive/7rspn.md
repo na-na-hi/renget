@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>As promised, footage of the defeat of the German self-propelled air defense system Gepard
+https://files.catbox.moe/j976j6.mp4
+>S-300s fucked up by a Lancet.
+https://files.catbox.moe/eqbxz2.mp4
+>Something for your little fren too
+https://files.catbox.moe/wlpk2k.mp4
+>Another S-300 tries to run but cant hide from Lancet
+https://files.catbox.moe/ma9dfn.mp4
+>Geranium yeets UA Buk-M2 at night
+https://files.catbox.moe/vshf6d.mp4
+>Hohols pulling survivor from rubble
+https://files.catbox.moe/d4utcy.mp4
 >TOR fucked up by a Lancet.
 https://files.catbox.moe/hl15zl.mp4
 >"You should die, lad, because you're a retard" – music vid

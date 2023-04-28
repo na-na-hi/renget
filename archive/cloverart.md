@@ -5,8 +5,8 @@
 ![The Clover Guild Badge](https://i.imgur.com/qg1Myve.jpg)
 ####Clover Guild Badge Sketch
 ![Clover Guild Badge](https://i.imgur.com/DxWy1tb.png)
-####Guildhall Concept by Booker and Kiyo
-![Guildhall Concept](https://i.imgur.com/NCKc3kF.png)
+####Guildhall Layout by Booker and Kiyo
+![Guildhall Layout v2](https://i.imgur.com/ABnbwza.png)
 ####Capim Town (Sketch)
 ![Capim Town (Sketch)](https://i.imgur.com/PdNhaq8.png)
 ####Capim Town (Background)
@@ -146,6 +146,8 @@
 ![Macom's Charge](https://i.imgur.com/JqNG0tj.png)
 #####Sleepy Bullet
 ![Sleepy Bullet](https://i.imgur.com/Ra9HSOZ.png)
+#####Togetic Cleaning the Storeroom
+![Togetic Cleaning the Storeroom](https://i.imgur.com/KFqMfzH.png)
 ####Bullet's Blitz
 #####Bullet & Mimi
 ![Bullet & Mimi](https://i.imgur.com/D5HNeRz.png)
@@ -201,6 +203,8 @@
 ![Cloverdraw](https://i.imgur.com/q9WQKr8.png)
 #####Woopstand
 ![Woopstand](https://i.imgur.com/qtW7ubQ.png)
+#####Soyper
+![Soyper](https://i.imgur.com/zirihJZ.jpg)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -253,6 +257,11 @@
 ![Chespin (forma de violencia)](https://i.imgur.com/3YOMRHi.png)
 #####enteRIng the FederaTion
 ![enteRIng the FederaTion](https://i.imgur.com/560Al0h.png)
+####KFC Bucket
+#####KFC's Forest Adventure
+![KFC's Forest Adventure](https://i.imgur.com/ebHK1e2.gif)
+#####KFC's Iron-Zinc Scarf
+![KFC's Iron-Zinc Scarf](https://i.imgur.com/XniMoNJ.png)
 ####Kiyo's Kino
 #####Kiyo and Sandshrew
 ![Sandshrew and Keokeo](https://i.imgur.com/tbTDBI0.png)
@@ -273,11 +282,12 @@
 ![Smith the Skourpi](https://i.imgur.com/CW4OCoH.png)
 #####Booker's Ultimate Challenge
 ![Booker's Ultimate Challenge](https://i.imgur.com/D7yqJxD.png)
-####KFC Bucket
-#####KFC's Forest Adventure
-![KFC's Forest Adventure](https://i.imgur.com/ebHK1e2.gif)
-#####KFC's Iron-Zinc Scarf
-![KFC's Iron-Zinc Scarf](https://i.imgur.com/XniMoNJ.png)
+#####Gus on the Docks
+![Gus on the Docks](https://i.imgur.com/PTefoQJ.png)
+#####Blanket Get
+![Blanket Get](https://i.imgur.com/j8WwwEl.png)
+#####Three Strangers in a Garden
+![Three Strangers in a Garden](https://i.imgur.com/tOOs6IV.png)
 ####Linoone's Letters
 #####Card Game
 ![Card Game](https://i.imgur.com/erSGlPt.png)
@@ -316,6 +326,10 @@
 ![Specialmon](https://i.imgur.com/92tc9nN.png)
 #####Beast & an Ordinary Stove
 ![Beast & an Ordinary Stove](https://i.imgur.com/BfQ1z0X.png)
+#####Gopnik Pokémon Style
+![Gopnik Pokémon Style]()
+
+
 ####Lliam's Grid
 #####Guildmaster and His Namesake
 ![Guildmaster and His Namesake](https://i.imgur.com/sPb9rot.jpg)
@@ -444,6 +458,8 @@ EDIT (Original Unknown)
 ![Upset](https://i.imgur.com/0d5J0sV.png)
 #####Clover Medic & Alchemist
 ![Clover Medic & Alchemist](https://i.imgur.com/lGvmDND.png)
+#####Latias gets Trolled
+![Latias gets Trolled](https://i.imgur.com/1c6Q3zJ.png)
 ####Togetic's Traces
 #####Togetic Portrait
 ![Togetic Portrait](https://i.imgur.com/tLGEZQc.png)
@@ -658,7 +674,7 @@ EDIT (Original Unknown)
 [Chescan](https://arch-img.b4k.co/vp/1682204563557.png)
 [Macom's Charge](https://arch-img.b4k.co/vp/1682208879122.png)
 [Wooper Wall](https://arch-img.b4k.co/vp/1682216976401.png)
-[Guildhall Concept](https://arch-img.b4k.co/vp/1682266550539.png)
+[Guildhall Layout v2](https://arch-img.b4k.co/vp/1682610644695.png)
 [Sooraa Biimu](https://arch-img.b4k.co/vp/1682225670390.png)
 [Sussy Elm](https://arch-img.b4k.co/vp/1682284869729.png)
 [Suspin](https://arch-img.b4k.co/vp/1682286596684.png)
@@ -673,3 +689,11 @@ EDIT (Original Unknown)
 [enteRIng the FederaTion](https://arch-img.b4k.co/vp/1682486981825.png)
 [Woopstand](https://arch-img.b4k.co/vp/1682481171956.png)
 [Smith's Over](https://arch-img.b4k.co/vp/1682484717342.png)
+[Gus on the Docks](https://arch-img.b4k.co/vp/1682534265764.png)
+[Togetic Cleaning the Storeroom](https://arch-img.b4k.co/vp/1682563753868.png)
+[Blanket Get](https://arch-img.b4k.co/vp/1682612333345.png)
+[Guild Affinity Chart v1](https://arch-img.b4k.co/vp/1682623587919.png)
+[Three Strangers in a Garden](https://arch-img.b4k.co/vp/1682626341894.png)
+[Latias Gets Trolled](https://arch-img.b4k.co/vp/1656222400882.png)
+[Soyper](https://arch-img.b4k.co/vp/1622565705754.jpg)
+[Gopnik Pokémon Style](https://arch-img.b4k.co/vp/1682655103172.png)

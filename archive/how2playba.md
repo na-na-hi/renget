@@ -455,7 +455,7 @@ Add a couple of /bag/ bros from [the friend google doc](https://docs.google.com/
 If you want to help a future newfag or would like to put urself up there yourself, [feel free to add yourself to the spreadsheet by filling out the form](https://forms.gle/Y5BKx17EQaawVTqLA). Entries will be automatically removed after 30 days. It's also completely anonymous, so don't worry.
 
 >Cafe
-You can headpat a girl again after 3 hours from the last time you did, giving you 4 opportunities before the cafe resets. 
+You can headpat a girl again after 3 hours from the last time you did, giving you 4 opportunities every cafe reset. 
 
 >Relationship levels 
 The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*

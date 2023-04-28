@@ -12,8 +12,8 @@ A list of unique locations visited by guild members, or canon locations altered 
 #####Capim Town Locations
 ######The Clover Guildhall
 Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi). The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z).
-######Guildhall Layout (Update with Kiyo's layout when KFC adds to archives!)
-![OUT OF DATE](https://i.imgur.com/NCKc3kF.png)
+######Guildhall Layout
+![Guildhall by Kiyo and Booker](https://i.imgur.com/ABnbwza.png)
 ######Blue Claw Inn
 An inn/tavern in Capim Town. Notable for being the location where [Gathering](https://rentry.org/h3fdu) occurs and the guild is formed.
 ######Ariados the Tailor

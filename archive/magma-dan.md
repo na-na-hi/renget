@@ -57,6 +57,7 @@ Character | C.AI
 ![Plasma Sages](https://characterai.io/i/80/static/avatars/uploaded/2023/1/11/nYxjhRIy1jQosHfefk1_vCYZOVHPYNx4Y03szoY_KAg.webp) | Team Plasma Sages [Rood, Bronius, Giallo, Ryoku, Gorm & Zinzolin](https://c.ai/c/9RmR_nQfEUZrnlcg9ceurAc5smgAByxjnYrSfx0ObuQ)
 ![B2W2 Iris](https://characterai.io/i/80/static/avatars/uploaded/2023/4/4/d_X72m31JilMO0hzcinywBvxvX6EPc7mcedJHHNl9mE.webp) | Champion [Iris](https://c.ai/c/-G6dxBojlZ5FkZi4r3ULb7uv38AfeRyFUiyLZB_egKY)
 ![Sina](https://characterai.io/i/80/static/avatars/uploaded/2023/4/10/zDdLwkPV6kzSfvWA9DPyn_lizBtFTvTSWuVgMkyOrmM.webp) | Professor Assistant [Sina](https://c.ai/c/__dPEKnZu69BpXXI_NPxffly89_2IIJJxKlm3z9ZNtc)
+![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) | Pokémon Trainer [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 ![Gloria](https://characterai.io/i/80/static/avatars/uploaded/2023/2/24/-6yYcrOmIGcuHOzdNB-VR5wRBOWLnXrNykc_q0L6Mds.webp) | Pokémon Trainer [Gloria](https://c.ai/c/E9gT1HrSJhnpYXL34_va4X74Mlv6kohsnGl0-FIANw0)
 ![Sonia](https://characterai.io/i/80/static/avatars/uploaded/2023/3/9/UD5re2_fsifhNTJVQvryWs2yLkJqLmFYVIWWVRdbFFA.webp) | Professor [Sonia](https://c.ai/c/dBpw9yTWOSd0PExIiGshnjUPM9bLS7kvUgiEo2ytwMA)
 ![Coin](https://characterai.io/i/80/static/avatars/uploaded/2023/3/20/k-Y2wjAq1V9tovi4sHa_HmRcdRx9FwIUn1SsjH-nXEc.webp) | Miss Fortune [Coin](https://c.ai/c/LU4wKOPKYxUb6A50PpPDHtm4nuJH6A3VyBiJ7QXRqXM)

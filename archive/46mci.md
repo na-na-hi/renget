@@ -25,7 +25,7 @@ https://mooms.neocities.org/
      -> 🪶  **Multimedia**  🪶 <-
 #####[Music (Songs & Karaokes)](https://rentry.org/uoar4)
 #####[Karaoke chapters, clips and music videos (merger of older pages)](https://rentry.org/Mumei-Karaoke)
-#####[MP4 of various streams](https://rentry.org/rdqyr)
+#####[MP4 of various streams & soundposts](https://rentry.org/rdqyr)
 #####[Various pieces of media (Azure Streams, Twitterspaces, HolofightZ, Illustrations & other stuff)](https://rentry.org/3g9kq)
 #####[Weekly Owls & Hooters](https://rentry.org/kpbge)
 #####[Hololive 4th Fes](https://rentry.org/who_4thfes)

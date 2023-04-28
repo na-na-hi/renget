@@ -43,3 +43,17 @@ https://koboldai.org/colab
 ##### NovelAI
 https://naidb.miraheze.org/wiki/Main_Page
 - NAI not chat focused, small models (for now hopefully)
+
+##### Miku\.gg
+https://docs.miku.gg
+https://rentry.org/mikugg
+- OAI and Kobold frontend with TTS and rich Emotion images support
+***
+***
+***
+Sister rentries:
+- https://rentry.org/aicg_op_texts - /aicg/ OP templates for ease of baking
+- https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
+
+Email for feedback and suggestions:
+- aicg2023@proton.me

@@ -1,6 +1,6 @@
 # /rrat/'s Guide to Hakos Baelz
 
-## Songs and Covers
+## Songs, Covers, and Performances
 
 Bae's singing is amazing, and it shows best in her songs and covers. Although she has her original song "PLAY DICE", her covers tend to be slow, power ballads which showcase her singing really well.
 
@@ -11,8 +11,17 @@ Bae's singing is amazing, and it shows best in her songs and covers. Although sh
 Some of her others songs and covers:
 
 * [【ORIGINAL MV】PLAY DICE! || HAKOS BAELZ](https://www.youtube.com/watch?v=na6bysYNuS0) : Her first original song
+* [【holo\*27 MV】Gawr Gura x Hakos Baelz - Sweet Appetite【hololive x DECO\*27】](https://www.youtube.com/watch?v=8dzJS6r2qzU) : Original song with Gura for the Holo\*27 project
 * [【MV】アニマル || preYdator COVER](https://www.youtube.com/watch?v=G4upepd3jAU) : Her first duet with Mumei
 * [【MV】STRANGE - ¿? || HAKOS BAELZ COVER](https://www.youtube.com/watch?v=s2wIscd82QE) : Her cover released for Halloween
+* [【MV】暁・Dawn - Akatsuki no Yona || HAKOS BAELZ COVER](https://www.youtube.com/watch?v=otVcHo52oOU) : More oriental-styled song
+* [【MV】Daikirai Na Hazu Datta - Honeyworks || HAKOS BAELZ X IRYS COVER](https://www.youtube.com/watch?v=HrT8Oon9Kxs) : Her first duet with IRyS
+* [【MV】Suki Dakara・好きだから。 ／ 『ユイカ』 || HAKOS BAELZ  X  H A Y K O](https://www.youtube.com/watch?v=eH04zjJp8iE) : Cute love song for White Day where she sings both female and male parts (no voice changer)
+* [GIMME X GIMME // Miori Celesta x Hakos Baelz ver.](https://www.youtube.com/watch?v=qMRClp8ltME) : Cover duet with Miori Celesta
+
+She's also a prolific dancer, which you can see bits of here:
+
+* [hololive 4th fes. Our Bright Parade holo\*27 stage【チラ見せ】](https://www.youtube.com/live/pDLDcU3dWp8?feature=share&t=5010) : Her performance of "Sweet Appetite" with Gura on the Holo\*27 stage (free portion)
 
 ## Roleplay / Voice-acting
 
@@ -31,6 +40,8 @@ Bae enjoys voice acting a lot, and it shows in the different roleplay and voice-
 
 Bae does a lot of creative variety streams, and these tend to be some of her best content.
 
+* [《BAE-GEMITE DOMINATION》Episode 1 w/ Roboco-san & Sakura Miko](https://www.youtube.com/watch?v=SOf93F4dOQ4&list=PLcPAszg2ItaGF0fkWk_qE34gDAlU99AAx) : Reaction series where she gets HoloPro members to try Vegemite and say what they think of it
+* [≪#StillNotBaeBday≫ Birthday Stream fr fr [NOT CLICKBAIT]](https://www.youtube.com/watch?v=ts1-_YGubh0) : Birthday stream where she shows a vlog of her visiting a strawberry farm and winery
 * [≪RAT CAM≫ i build gingerbread house](https://www.youtube.com/watch?v=FRIHkf4EK-0) : Handcam stream (yes, her hands are that small)
 * [≪NEWLY FRIEND GAME≫ A fox and a rat](https://www.youtube.com/watch?v=lI9IiPil3iY&list=PLcPAszg2ItaFRyxe6BXjaaG2G0LG1UHZG) : Game show series where she interacts with various HoloJP members
 * [≪WHITE DAY STREAM≫ RATING YOUR PICK UP LINES](https://www.youtube.com/watch?v=s4Ms3hQ_IAY)

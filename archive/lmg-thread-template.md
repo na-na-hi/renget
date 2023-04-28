@@ -1,8 +1,8 @@
-!!! info  04-27-2023 Update:
-	Made some additional minor fixes on top of the new chart layout
+!!! info  04-28-2023 Update:
+	Made some additional minor fixes on top of the new chart layout | Current wiki is sort-of dead & owner of wiki is gone since 04/12. New wiki is needed at this point. | Character Creation and Resources section was expanded | If I have the extra time, I'll dig through the old threads and fill out the archived news and research papers
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.01<-
+#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.11<-
 
 [TOC2]
 
@@ -168,7 +168,7 @@ Pygmalion | https://huggingface.co/PygmalionAI (◕) (Ŏ)
 Project Names | Resource Links:
 ------ | ------
 PyTorch (.pt .pth) | https://github.com/pytorch/pytorch (◕) (Ŏ) ($)-Facebook
-↳ Intel Extension | https://github.com/intel/intel-extension-for-pytorch
+↳ Intel Extension | https://github.com/intel/intel-extension-for-pytorch (◕) (Ŏ) ($)-Intel Corp.
 ↳ Transformers | https://github.com/huggingface/transformers (◕) (Ŏ)
 GGML (ggerganov) | https://github.com/ggerganov/ggml (◕) (Ŏ)
 Cuda Python | https://github.com/NVIDIA/cuda-python (◕) (Ŏ) ($)-NVIDIA
@@ -178,58 +178,94 @@ DeepSpeed | https://github.com/microsoft/DeepSpeed (◕) (Ŏ) ($)-Microsoft
 ColossalAI | https://github.com/hpcaitech/ColossalAI (◕) (Ŏ) ( Ĩ )-Multiple
 
 ***
-###Other Related Projects for Models:
+###Other Related Projects for Models and Guides:
+####General Resources
+Project Names | Resource Links:
+------ | ------
+Whisper.cpp (Speech Recognition) | https://github.com/ggerganov/whisper.cpp (◕) (Ŏ)
+AMD GPU (ROCm) | https://github.com/RadeonOpenCompute/ROCm (◕) (Ŏ) ($)-AMD
+Model Torrents | https://rentry.org/nur779 (◕)
+
+####Text Generation/Webui:
 Project Names | Resource Links:
 ------ | ------
 Oobabooga's Standard (One-Click Method) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ) (GPU Inference - WebUI)
 ↳ Wawa's TGW w/ Long-Term Memory | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ) (Extension)
 Koboldcpp | https://github.com/LostRuins/koboldcpp (◕) (Ŏ) (CPU Inference - WebUI)
 Alpaca.cpp | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ) (CPU Inference)
+
+####Finetuning Resources:
+!!! info Coming Soon
+Project Names | Resource Links:
+------ | ------
+
+####Benchmarking Resources:
+Project Names | Resource Links:
+------ | ------
 LLM Benchmark Prompts | https://pastebin.com/LmRhwUCA (◕) (Ŏ)
-Whisper.cpp (Speech Recognition) | https://github.com/ggerganov/whisper.cpp (◕) (Ŏ)
-AMD GPU (ROCm) | https://github.com/RadeonOpenCompute/ROCm (◕) (Ŏ) ($)-AMD
+
+####ERP/Roleplaying/Story Generation Resources:
+Project Names | Resource Links:
+------ | ------
+RolePlayBot Guide | https://rentry.org/RPBT (◕)
+LLM Benchmark Prompts | https://pastebin.com/LmRhwUCA (◕)
+ERP/RP Data Collection (Logs) | https://rentry.org/qib8f (◕)
 
 ***
-###Everything Miku
+###Character Making Resources:
+####Character Generators and Resources:
+!!! info Coming Soon
+Project Names | Resource Links:
+------ | ------
+
+####Everything Miku
 Project Names | Resource Links:
 ------ | ------
 OG Miku | https://pastebin.com/5WVd28Um
 Reverse Miku | https://pastebin.com/yG6xWMS (404'd)
 Miku.sh | https://pastebin.com/vWKhETWS
 
+####Other Characters and Waifus:
+!!! info Coming Soon
+Project Names | Resource Links:
+------ | ------
+
 ***
 ##->Archived Research Papers<-
 !!! info Coming Soon
-Date (MM/DD/YYYY) | Publisher / Description / Link:
+Date: (MM/DD/YYYY) | Document Citation: (APA 7th Edition)
 ------ | ------
+05/18/2020 | Gupta, V., Saw, A., Nokhiz, P., Netrapalli, P., Rai, P., & Talukdar, P. (2020). P-SIF: Document Embeddings Using Partition Averaging (arXiv:2005.09069). arXiv. http://arxiv.org/abs/2005.09069
 
 ***
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
-(04/22/2023) | OASS "releases" XORs again, deletes them soon after... again
-(04/21/2023) | StableLM models performing terribly, are apparently broken. https://github.com/Stability-AI/StableLM/issues/30
+04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
+04/21/2023 | StableLM models performing terribly, are apparently broken. https://github.com/Stability-AI/StableLM/issues/30
 
 ***
-##->Other Known Places for Discussion:<-
+##->Other Known Places for LLM (ML/AI) Discussions:<-
 !!! danger PLEASE DO NOT SHILL ANY IRC, REDDIT, DISCORD SERVERS OR WHATNOT IN THE /LMG/ THREADS!! ALSO, THERE'S NO OFFICIAL /lmg/ DISCORD!!
-**GitHub** | Links:
+**GitHub** | Discussion Links:
 ------ | ------
-ggerganov's llama.cpp | https://github.com/ggerganov/llama.cpp/discussions
-oobabooga's WebUI | https://github.com/oobabooga/text-generation-webui/discussions
+ggerganov's llama.cpp | https://github.com/ggerganov/llama.cpp/discussions (◕)
+oobabooga's WebUI | https://github.com/oobabooga/text-generation-webui/discussions (◕)
+Koboldcpp | https://github.com/LostRuins/koboldcpp/discussions (◕)
+KoboldAI | https://github.com/KoboldAI/KoboldAI-Client/discussions (◕)
+wawawario2 long_term_memory | https://github.com/wawawario2/long_term_memory/discussions (◕)
 
-**Other Imageboards** | Links:
+**Other Imageboards** | Discussion Links:
 ------ | ------
-/robowaifu/ | https://alogs.space/robowaifu/catalog.html
+/robowaifu/ | https://alogs.space/robowaifu/catalog.html (◕)
 
-**IRC** | Links:
+**IRC** | Discussion Links:
 ------ | ------
-\#Localmodels | irc.libera.chat #localmodels
+\#Localmodels | irc.libera.chat #localmodels (◔)
 
-**Discord** | Links:
+**Discord** | Discussion Links:
 ------ | ------
-n/a | n/a
-
-**Reddit** | Links:
------- | ------
-n/a | n/a
+RedPajamas | https://discord.com/invite/9Rk6sSeWEG (◕)
+Stable Diffusion | discord.gg/stablediffusion (◕)
+Pygmalion | https://discord.com/invite/ZHXEa3yywq (◕)
+KoboldAI | https://koboldai.org/discord (◕)
