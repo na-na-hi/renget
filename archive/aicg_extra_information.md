@@ -28,7 +28,10 @@ https://github.com/ggerganov/llama.cpp [CPU]
 
 #### Other
 
-##### Character.AI
+https://rentry.org/waifutext
+- receive texts from your waifu as notifications on Android and more; uses OpenAI
+
+##### Character\.AI
 https://c.ai/
 https://rentry.org/newcaitools [CAI tools]
 - **The** C.AI filtered to hell right now but still fun to play around
@@ -44,10 +47,14 @@ https://koboldai.org/colab
 https://naidb.miraheze.org/wiki/Main_Page
 - NAI not chat focused, small models (for now hopefully)
 
+https://boards.4channel.org/vg/catalog#s=aids
+- the /vg/aids/, AI Dynamic Storytelling General, is mostly utilizing NAI; a lot of useful info
+
 ##### Miku\.gg
 https://docs.miku.gg
 https://rentry.org/mikugg
 - OAI and Kobold frontend with TTS and rich Emotion images support
+
 ***
 ***
 ***

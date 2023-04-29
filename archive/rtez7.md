@@ -111,7 +111,7 @@ As we had practiced, several guild members gave us strange looks as they passed.
 
 Kiyo was trying hard not to shout. "I'm telling you, we should leave before we get sucked into whatever weird game those four are playing!"
 
-Cassie rolled her eyes. "They're just playing music. And look at those outfits! They look adorable! Well, not Cyndaquil, but the other three!"
+Cassie rolled her eyes. "They're just playing music. And look at those outfits! They look adorable!"
 
 Bean whispered something to Cassie from his perch on her shoulder.
 

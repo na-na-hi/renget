@@ -22,6 +22,15 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 ####Writing Tools and Resources
 https://rentry.org/Writing-Resources-and-Other-Things
 
+####SoloRPG Guide
+https://rentry.org/SoloAI2
+https://rentry.org/AdventureModules
+https://rentry.org/SoloAI
+
+####AI Roguelite
+https://store.steampowered.com/app/1889620
+https://github.com/Yardanico/ai-roguelite-nai
+
 ####Voice Cloning
 https://rentry.org/AI-Voice-Cloning
 https://beta.elevenlabs.io/
@@ -39,12 +48,6 @@ Format Guide: https://nolialsea.github.io/Wpp
 Runpod: https://koboldai.org/runpod-united
 8-bit patch: https://gitgud.io/ItsDrivingMeNuts/kobold-ai-8bit-patch
 
-####LLaMA Tokenizer
-https://files.catbox.moe/8v7aqv.model
-
-####Anthropic/Claude Tokenizer
-https://github.com/anthropics/anthropic-sdk-python/blob/main/anthropic/tokenizer.py
-
 ####Holo (cheaper paid option):
 https://writeholo.com
 
@@ -52,29 +55,27 @@ https://writeholo.com
 OpenAI; use at own risk https://imgur.com/a/3fgm0Si
 https://www.sudowrite.com
 
-####AI Roguelite
-https://store.steampowered.com/app/1889620
-https://github.com/Yardanico/ai-roguelite-nai
-
-##SoloRPG Guide
-https://rentry.org/SoloAI2
-https://rentry.org/AdventureModules
-https://rentry.org/SoloAI
-
-##Facebook OPT Demo: 
+####Facebook OPT Demo: 
 https://opt.alpa.ai
 
-##GPT-J Demo
+####GPT-J Demo
 https://6b.eleuther.ai
 https://bellard.org/textsynth/
 
-##Bun-Cho (Japanese)
+####Bun-Cho (Japanese)
 https://bun-cho.work/
 
 #/aids/ Tools:
-###Henk's Literotica Scrape
-https://mega.nz/file/f1gTDYpL#VH00xPebOtkQHIKdxvfYrgBKIQLdfXSP4qQp4M3YTys
-###Henk's Skein Scrape
+####LLaMA Tokenizer
+https://files.catbox.moe/8v7aqv.model
+
+####Anthropic/Claude Tokenizer
+https://github.com/anthropics/anthropic-sdk-python/blob/main/anthropic/tokenizer.py
+
+###Dumb Reformatter (In-Browser Module Data Formatting)
+https://ermela.net/dumb-reformatter/
+
+####Henk's Skein Scrape
 https://mega.nz/file/btR20KSI#crokcj5gLCD009KpH_RY3X3ebgLTt8niQarjEOVYPKU
 
 ###Coomer Fashion
@@ -108,6 +109,9 @@ https://github.com/cloveranon/Clover-Edition
 \>>>/trash/i2islut
 
 ##Broken?
+~~####Henk's Literotica Scrape
+https://mega.nz/file/f1gTDYpL#VH00xPebOtkQHIKdxvfYrgBKIQLdfXSP4qQp4M3YTys
+
 ~~https://github.com/CuriousNekomimi/AIDCAT~~
 
 ~~##Kobold + GPT-J (Colab Client; No Finetune)

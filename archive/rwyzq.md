@@ -188,6 +188,8 @@ Add after Line 21079:
 ```
 
 ##Robust Archiver
+Last Updated: 04/26/23 (mm/dd/yy)
+
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Firefox)
 * Logs chat (as much as possible, including pre- and post-stream).
@@ -429,6 +431,8 @@ if __name__ == '__main__':
 			time.sleep(1)
 ```
 ##Easy(?) Soundpost Creator
+Last Updated: 04/26/23 (mm/dd/yy)
+
 This python script will call your installation of FFMPEG with simple pre-defined instructions in order to make the process of soundpost production easier and simpler without sacrificing quality too greatly.
 
 ```python
@@ -543,6 +547,8 @@ if __name__ == '__main__':
 ```
 
 ##Soundpost FIlename Cleaner
+Last Updated: 04/28/23 (mm/dd/yy)
+
 Removes `http://` and `https://` and fixes `_2F` to `%2F` in the folder it is ran in.
 Reason:
 https://github.com/rcc11/4chan-sounds-player/blob/master/src/components/posts/index.js#L114 indicates it uses whatever protocol you're already using for 4chan.
@@ -567,6 +573,7 @@ if __name__ == '__main__':
 ##Soundpost Recombiner
 These scripts are meant to combine the audio back into the video file for soundpost archiving.
 ###Archival Quality (Slow for GIF)
+Last Updated: 04/26/23 (mm/dd/yy)
 
 ```python
 import subprocess, shlex, re
@@ -590,6 +597,7 @@ if __name__ == '__main__':
 ```
 
 ###Lazy Quality (Fast for GIF)
+Last Updated: 04/26/23 (mm/dd/yy)
 
 ```python
 import subprocess, shlex, re

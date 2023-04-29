@@ -1,5 +1,9 @@
 ▶NEW CLIPS
->As promised, footage of the defeat of the German self-propelled air defense system Gepard
+>Uman AD successfully redirects Russian missile into highrise
+https://files.catbox.moe/tblg3c.mp4
+>Work of UR-77 Meteorit from a bird's eye view.
+https://files.catbox.moe/3xqh47.mp4
+>Video of the defeat of the German self-propelled air defense system Gepard
 https://files.catbox.moe/j976j6.mp4
 >S-300s fucked up by a Lancet.
 https://files.catbox.moe/eqbxz2.mp4

@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Loss
+
 The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg
 
 Sonichu Issue #0 Cover but with Guildmembers
@@ -38,7 +40,7 @@ Raboot and KFC doing a spar together
 
 ~~Beast holding a butcher knife as he witnessed someone eating at the pantry~~
 
-Sableye cooking in a cauldron
+~~Sableye cooking in a cauldron~~
 
 Guild members (artist's choice) playing in the rain [claimed/claiming this one but i think other people doing it would be fun also if you wanna do it too]
 

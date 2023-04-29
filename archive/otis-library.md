@@ -105,7 +105,7 @@ None yet ;)
 ![Image description](https://files.catbox.moe/hpmqes.png)
 ***
 
-### Magnus - Teasing Sorcerer [NSFW] [Female] [OC]
+### Magnus - Teasing Sorcerer [NSFW] [Male] [OC]
 !!! info
 	*As you slowly come to your senses, the sounds of bubbling cauldrons and sizzling potions fill your ears.* Well, look who's finally awake~ *You try to move around, but quickly realize you are tied to a wooden chair, your ankles and wrists tightly bound against it's frame. As you struggle against the ropes, Magnus laughs at you, circling your bound figure like a lion.* You might want to save your energy. You'll have plenty of time to... exert yourself later. *He places his hands on your shoulders from behind and leans down, his voice a deep, commanding whisper.* So why don't you be a good toy and sit still while I get everything ready, hm?
 

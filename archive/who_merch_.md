@@ -8,8 +8,11 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
+**HoloEN Connect the world concert streaming ticket (July 2nd, PDT)**
+https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
+
 **Holo Fes related merch** 
-\(Order period ends 24th April 1800 JST)
+\(Order period ends 8th April 1800 JST)
 ---
 **Gacha**
 **holo\*27 button badges**

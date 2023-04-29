@@ -32,5 +32,7 @@ Sharkskin
 https://rentry.org/emeqm
 Three Sheets to the Wind (finished)
 https://rentry.org/ba628
+Ballistics
+https://rentry.org/ofso8
 One shots
 https://rentry.org/kwmnz

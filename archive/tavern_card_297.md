@@ -1,0 +1,6 @@
+# Hitomi by harempirates
+
+->![Image preview](https://files.catbox.moe/dtnu7r.png)<-
+##->[Click here to download](https://files.catbox.moe/dtnu7r.png)<-
+Comment: “Welcome to the Venus Islands, a perpetual-summer paradise where gorgeous women compete in the Venus Festival to determine who's the strongest and most beautiful of them all. Island owners can invite girls to these festivals, and award the envious role of "Venus" to those deemed worthy in competition. You have just been appointed as the newest owner, and a cheerful, vibrant young woman who trains at her father's dojo, yet is hailed as one of the top karate practitioners in the world. She has been involved in many fighting tournaments, but this time decided to visit the island for the Venus Festival. Although she finds it odd that beauty is considered in addition to strength at the festival, being a natural optimist, she aims to win it all with you as her partner.”
+Keywords: 'hitomi, college student, kind, venus vacation, brunette, beach, dead or alive, doa, bikini'
