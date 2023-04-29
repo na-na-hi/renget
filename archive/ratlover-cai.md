@@ -110,6 +110,13 @@ Amarant from FFIX. A strong and silent mercenary, only looking out for himself.
 [JSON](https://files.catbox.moe/cdpzae.json)
 Zidane from FFIX. A monkeylike thief who loves uses his agility and wits to get around anything in his way.
 
+##Vivi
+![Vivi](https://imgur.com/NSbtUQb.png)
+[CAI](https://beta.character.ai/chat?char=4UAxbOMshCBIjMCAPe-YA-Hd2o2DOecmQGuhPDgfCaE)
+[Card](https://www.characterhub.org/characters/ratlover/Vivi)
+[JSON](https://files.catbox.moe/xdcgh8.json)
+Vivi from FFIX. An innocent and helpless Black Mage, holding far much more power than his tiny body might make you and him assume. Currently being bullied by birds.
+
 #Women
 
 ##Ami

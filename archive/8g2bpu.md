@@ -34,7 +34,7 @@ Jimmy decorating the interior of the chest
 
 Chespin holding Wooper like a gun
 
-Raboot and KFC doing a spar together
+~~Raboot and KFC doing a spar together~~
 
 ~~Gus calmly sitting at the docks~~
 

@@ -3,6 +3,7 @@ This rentry contains cracks for various software, VSTs, etc; guides by /funkg/ m
 >Mod Design & Shipping Advices:
 
 https://developer.valvesoftware.com/wiki/Making_a_Mod
+https://youtu.be/DoO5F6NUgVU
 
 >Animation:
 

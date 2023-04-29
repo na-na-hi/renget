@@ -1,6 +1,6 @@
-!!! note New Thread
+!!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10552642 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10616554 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[The Wettest Ink](https://docs.google.com/document/d/e/2PACX-1vQDHfs0GhmvlJvfTkmZXbGdDROs6qC4AcjiKw4IuaLyw_UbbpxPQVWoYn8LFJrAosMcs2wPUEUhgPv9/pub)* | Ina | sweat, smell |
 | *[Barnyard Shift](https://archiveofourown.org/works/46081033)* | Calli | ringo, brap, choco |
 | *[The Grim Reaper is a Bed-Messer](https://archiveofourown.org/works/45401197)* | Calli, Gura | ringo, brap, choco |
 | *[A Tale of Two Bowels](https://docs.google.com/document/d/e/2PACX-1vS0B-tLoUy8XCc5aeBG8xhKuANjq6VkLh4NxLkukJRoNyNKbJIhA0bqkGBV3plj0WVCrr3OipLK07CA/pub)* | Ame, Gura | choco |
@@ -97,6 +98,8 @@
 | [>>3880474](#3880474) | Suisei | ringo |
 | [>>3892685](#3892685) | Suisei | ringo |
 | [>>3921300](#3921300) 📷 | Ame | brap, choco | 
+| [>>4240054](#4240054) | Matsuri | choco |
+| [>>4242094](#4242094) | Various | choco |
 | [>>5242355](#5242355) | Calli, Kiara, Gura, Ame | ringo |
 | [>>5248738](#5248738) | Calli, Kiara, Gura, Ame, Ina | choco |
 | [>>5311592](#5311592) | Ame, Ina | brap |
@@ -205,17 +208,17 @@
 | [>>>/d/10462894](#d10462894) | Pekora | brap |
 | [>>>/d/10466415](#d10466415) | Sana | choco |
 | [>>>/d/10468808](#d10468808) | Calli | choco |
-| [>>40994723](#40994723) | Iroha | ringo |
-| [>>41169076](#41169076) | Sora | choco |
-| [>>41352856](#41352856) | Sora, Towa, Subaru | brap |
-| [>>41446444](#41446444) | Suisei | brap |
-| [>>42551712](#42551712) | Calli | choco |
-| [>>42047835](#42047835) | Hanabi | choco |
-| [>>42987705](#42987705) | Gura, Kiara | sweat |
-| [>>43137252](#43137252) | Suisei | ringo |
-| [>>>/d/10550735](#d10550735) | n/a | brap, choco |
-| [>>>/d/10549326](#d10549326) | Selen | brap, choco |
-| [>>44237191](#44237191) | Gura, Ame, Ina, Calli, Kiara | milk |
+| [>>40994723](https://rentry.org/ringotext2#40994723) | Iroha | ringo |
+| [>>41169076](https://rentry.org/ringotext2#41169076) | Sora | choco |
+| [>>41352856](https://rentry.org/ringotext2#41352856) | Sora, Towa, Subaru | brap |
+| [>>41446444](https://rentry.org/ringotext2#41446444) | Suisei | brap |
+| [>>42551712](https://rentry.org/ringotext2#42551712) | Calli | choco |
+| [>>42047835](https://rentry.org/ringotext2#42047835) | Hanabi | choco |
+| [>>42987705](https://rentry.org/ringotext2#42987705) | Gura, Kiara | sweat |
+| [>>43137252](https://rentry.org/ringotext2#43137252) | Suisei | ringo |
+| [>>>/d/10550735](https://rentry.org/ringotext2#d10550735) | n/a | brap, choco |
+| [>>>/d/10549326](https://rentry.org/ringotext2#d10549326) | Selen | brap, choco |
+| [>>44237191](https://rentry.org/ringotext2#44237191) | Gura, Ame, Ina, Calli, Kiara | milk |
 
 
 ## >>249165
@@ -614,6 +617,42 @@ I'm willing to offer myself as a sacrifice because I want to force Suisei to dri
 >"No need to smell that the whole stream" she says before booting up Live2d.
 >Everything on, she starts her stream, wiggling slightly in her chair as her butt itches for her hurried and poor cleaning
 >"Hey guys, sorry I'm a minute late, I got caught up with something and lost track of time."
+
+-> [[top]](#ringo-greentext) <-
+-> * * * <-
+
+## >>4240054
+
+Not an expert in taste, but I'll try and answer. Matsuri has fluctuating eating habits, sometimes massively overeating and sometimes borderline starving herself. If she's in a food restrictive phase, she'd be quite constipated and only go once every 2 or 3 days. Her diet seems low in fibre, so her shits would consist of long and difficult straining for a small result. Since she had a very bland diet, the taste would be equally bland, almost tasteless. However, she would have pretty bad gas during this period due to her constipation; the shit staying in her intestines would undergo fermentation and cause more rancid gas.
+Now the flipside, when Matsuri was overeating, which I'm going to base off her diet as a teenager. She would definitely have been shitting more regularly, daily at an absolute minimum. In my personal estimation, she was probably shitting twice per day, each load equally huge. She would have risked clogging any toilet due to her overeating, and probably did so at least weekly. As she was eating a wider variety of foods, the smell would be intense, and her logs would be a softer consistency (although still solid). I imagine when JK Matsuri entered the bathroom at school, the other girls got out as quickly as possible. With the size of her logs, the softer consistency and the fact that she was continually eating, thus adding more pressure on her digestive system, she might have struggled to hold it in. Although Matsuri's fetish is peeing, I wouldn't be surprised if she had a few poop accidents too. The taste at this point would be overwhelming, bitter and greasy with traces of whatever she gorged herself on most recently.
+
+-> [[top]](#ringo-greentext) <-
+-> * * * <-
+
+## >>4242094
+
+>Suisei
+Has a meat-heavy diet and very rarely eats vegetables, leading to a lack of fibre. Also very likely to hold it in due to not using the bathroom on stream and probably not shitting in public (speculation but it fits with the rest of her personality)
+>Matsuri
+See above
+>Shion
+Too lazy to go to the bathroom, so she holds it as long as possible. Of course, this means it takes even more time and effort when she finally does go. Sometimes has to use magic to speed things up.
+>Okayu
+Onigiri doesn't contain enough fibre for the large amount she eats. Her shits are just too big to come out easily.
+>Korone
+Years of holding it in for marathon gaming sessions caused her body to adjust and slow down her bowels.
+>Marine
+Talked about having to take a suppository on stream before. While suppositories can be used for purposes other than laxatives, she didn't mention any other reason to take it which leads me to believe she was suffering with severe constipation.
+>Rushia
+Only gets constipated occasionally, but it's so severe she trains her screaming voice by pushing out rock-hard shits.
+>Luna
+Unsurprisingly, a diet of 90% candy is low in fibre. Being a princess, she has a private toilet, so she has no problem sitting there for as long as it takes. One Luknight is assigned to enema duty, but is forbidden to speak of it under penalty of death.
+>Botan
+As part of her military training, she learned to hold it in for extended sniper missions. While she could go more frequently, she finds it more convenient to wait as this gives her more time to stream.
+>Gura
+Over thousands of years, she got used to the underwater environment. In Atlantis, the pressurised water all around her acted as a light enema and helped soften her shits; she isn't used to needing to push like she has to on land. Also, fish contain little to no fibre, and her diet is entirely fish.
+>Roboco
+Doesn't shit at all.
 
 -> [[top]](#ringo-greentext) <-
 -> * * * <-
@@ -2644,255 +2683,4 @@ IIRC in the movie it's hooked up to plumbing but imagining something stand-alone
 -> [[top]](#ringo-greentext) <-
 -> * * * <-
 
-## >>40994723
-
->Be you
->Husband of Iroha
->Iroha has been drinking lots of water, so she can stay hydrated of course.
->Get trapped in an elevator with her
->Her legs tingle
->Tugs on your arm
->"A-Anon, I-I really need to go..."
->Everything is going as planned
->Talk to Iroha about it being okay
->Tickle her so she can't hold it in
->A warm stream of yellow gold runs down her leg
->She's crying
->You're beyond hard
->Lick her neck until she runs another river in her pants
->Hell, get your hand in her panties and massage her so you can apply pressure
->Finally she lets it out, her pants are soaked
->She's a broken mess
->Give her your jacket to tie around her waist so she can hide it
->Bring her back home
->Lock yourself in the bathroom while she bangs on the door and continues to make puddles under herself.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>41169076
-
->It'd be super hot if she shit on her bed so I'll choose to believe she does
-
->>>41169076
->The smell would be interesting coming from a goddesses butthole. Imagine her parents walking in and seeing a lovely shit on her bed like a gift so cute
-
->>>41172187
->I'd force her to sit in it for ten minutes so she knows what she did. But I'd clean her up afterwards.
->
->God that's be so hot. Imagine catching her in the act, a long log halfway out as she looks in horror
-
->>>41175883
->>horror
->Autist Sora is conditioned to think this is normal, so she unemotionally replies "hey I'll be done in a second" and grips the sheets to finish up.
-
->>>41185298
->I'd love to watch her struggle against the constipation, making cute little grunts as she tries as hard as she can to get things moving before you can stop her.
->
->She could use the bathroom, but her bed is comfortable. She doesn't want to use the bathroom, even if she's made to sit in it.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>41352856
-
-I feel like Sora would have a lovely aged sort of scent that really sticks to your sinus. Towa’s would probably come out like a smoke cloud and be quite stinky. I bet Subaru lets them rip hard and loud when alone, ones that shake her apartment and just linger for a while, causing her to open the door (though I would just sit in it).
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>41446444
-
->Suisei is set to tape her The First Take performance
->Show is famous for getting well-known artists to record in one try
->It's also a first for a VTuber to appear on such a mainstream channel
->Her nerves have been dwelling deep in her gut all morning
->Guitar and piano man are ready
->Recording booth guy gives the signal
->Suisei steps up to the mic, sweating
->They decided it would be cooler to jump straight into the song, no introduction
->One short breath out and a deep inhale…
->DAAATTTE BOKU WA HOSHI DAKA—_brrrpppttt_
->Suisei accidentally bass-boosts her a cappella intro with a meaty fart
->Embarrassed but too nervous to stop, she keeps singing
->Backing artists are shocked but follow her lead after a stumbling start
->By the time the outro instrumental fades to silence, Suisei is red like a tomato
->Japanese rules-following autism requires that they use the take, mistakes and all
->Suisei crying and begging them not to
->Contract has already been inked, they aren't backing down
->SONY_LAWYERS.DVF
->As the premiere arrives, Suisei is mortified
->The video goes viral, tens of millions of views
->not like this
->The public image of VTubers is a joke
->"VTooters" is trending on Twitter
->Local JP news stations broadcast the clip on repeat
->It spreads overseas, too, since farts are the universal language
->Suisei sobs inconsolably, the entire world having heard her brap
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>42551712
-
-Mistress Mori in our hearts
-In her panties live her sharts
-Off of work, to put a damper
-She pinches loaves into her pampers
-Breath and temp is getting hotter
-Odor could make your eyes water
-Do not let her coquettishness fool ye
-Her demeanor is just to woo thee
-She'll sit in your lap and strain and grunt
-You'll feel a lump rise from her butt
-She'll turn around and bat her eyes
-"I'm so sorry, what a surprise!"
-She'll lock lips with you and then
-Push out another loaf again
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>42047835
-
->enter my vtuber room
->sit in the middle of my 12 curved monitors that surround me with a 360° view
->soundbars and subs underneath each one for the full experience
->welcome home batman, what will you be pleasuring yourself to today?
->nothing special today computer...how about some hanabi taking a dump to start with
->AI generated porn lines each monitor as it cycles through my 5tb folder
->now open hanabi_constipation.wav, I'm feeling...#11 today. Oh and computer? turn off the safety protocols
->VR headset smell attachment begins pumping the stench of wolf feces directly into my olfactory
->each monitor is filled with artificial sounds of what this small wolf girl would sound like if she were passing a bowel movement far over 120 decibels
->while hundreds of AI generated arts depict every last excruciating step of the process
->all while I use my 3D printed special hanabi asshole fleshlight to jerk off
->once I've finished, each monitor plays the latest vod from hanabi as I superchat $10 and subtly include different words I need her to say for my prompts
-the future is looking bright
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>42987705
-
-Gura has been chained up in Kiara's room for days, forced to lick her body clean in the stead of a daily shower. Every day she comes home, drenched in sweat for 8 (eight) hours of dancing practice, to be cleaned by Gura. She truly forces Gura to lick up every drop of sweat from her hairless body, right until her tongue is completely sore. She starts with her incredibly stinky feet that have been vacuum-sealed in tight dancing shoes for an entire day, undoubtedly the most rancid part of her body. Gura then has to slowly work herself up, cleaning in particular between the thighs and her vagina. Finally, the sweatiest place of all, between her ass cheeks. This part takes the longest. She can then finally move on to the upper body, which is arguably easier. In fact, by comparison to her stinky feet, her drenched armpits actually seem of pleasant taste. Nevertheless, the act is no less time consuming, and eventually this leaves Gura with an absolutely sore tongue. She doesn't even get a thank you for her service, let alone is allowed to be freed from her chains. Merely an cold acknowledgement that her duty was fulfilled. Until the next day, where she has to lick her clean all over again.
-But the worst part is, Gura enjoys this more than Kiara does.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>43137252
-
-For too long I have been deprived
-The nectar that fulfils our lives
-The golden stream of sweetest taste
-To fill a toilet, such a waste
-
-I search for her scent, night and day
-To offer myself for no pay
-I shall serve as her loyal throne
-Wherever she goes, town or home
-
-Her bladder need not fill or strain
-My mouth shall save her from such pain
-A simple squat upon my face
-My eager mouth shall catch her waste
-
-In the background I shall wait
-Keeping track of when she ate
-My noble charge, till I do die
-Nose in blue pubes, eyes to the sky
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10550735
-
->tfw you'll never have a gf that's tsundere about being into farts
->tfw you'll never have her slowly realize it's fine to be herself around you, so she starts being more brazen about how much she actually enjoys it.
->tfw you'll never be able to use this as a leeway into her trying scat for you by telling her you really like the smell of her pre-poop farts, and saying that if she soiled herself, you wouldn't mind and would clean everything up after
->tfw you two are cuddling while she's farting up a storm after purposely eating a bag of dried fruits hours earlier, when she grips your hand tighter and she pushes harder, when you hear not a brap sound, but a crackling.
->tfw she'll never be red in the face as she looks at you with a side glance, asking "well, y-you like this, right?"
->tfw you'll never gingerly press your hand against her now heavily soiled pants as you wordlessly move in for a kiss, the two of you feeling the blood and dopamine rush to your heads as you're enveloped by the smell of her accident and the feeling of her warmth.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10549326
-
->Selen gets the Niji job and promptly stops trying to exercise or control her diet at all
->It's not like she was ever doing too well at it, but now that her job is to sit on her ass all day, she has literally no reason to whatsoever
->A nice perk of her dragon body is that she doesn't really get "full" like a human would
->She still has to digest what she eats, but her actual capacity for food is limited only by how much time she spends eating
->That promptly becomes becomes "every minute she's not streaming or asleep," and plenty of time on-stream too
->On any given day, her overfed, jiggling belly bulges out further and further as the hours pass, as she shoves pound after pound of food down her gullet
->She has to upgrade to a king bed to be able to rest her belly during the night, since by the end of the day it's usually extending three or four feet in front of her, if not more
->Management asks her if she can please try to avoid eating before streams so much, because her bloated stomach's constant gurgling and groaning is getting too loud
->She declines to correct their assumption that she's not gorging herself during and after the stream too
->She ignores the initial message completely, and tells them to fuck off when they ask her about it later
->Out of other ideas, Anycolor hires (You) to massage her belly while she streams, hoping they might resolve the issue that way
->They probably assumed she'd give you a chair to sit next to her or something like that, but she just laughs when you ask for one, and says that you'll be on your knees underneath her desk
->She expects you to work continuously for the length of the stream, and if you stop for even a couple seconds, threatens to suffocate you
->Sometimes, she makes her point by scooting forward in her chair to press her churning mass of flab and digesting food into your body, cackling with laughter if she does it hard enough to push you over
->You're not allowed to get up to get food or water, not even for the 8- and 10-hour endurance streams
->In fact, for those streams, Selen uses her dragon claw to reach underneath the table and wave whatever she's about to eat in front of your face
->"Awww.... Bet this would taste SO GOOD for you right now.... But I'm STARVING! I guess you don't need it with that tiny human body anyway..."
->Then she laughs hysterically, shoves it into her mouth, and laughs some more
->She lets out a roaring belch and her belly gurgles in your face, almost as if to join in her mockery of you
->Speaking of which, you predictably don't help with the original problem at all; Selen's digestion is just as loud as before
->She texts management and says she thinks it might work if they give her three more people
->To her immense amusement, they actually do it
->Nominally, all four of you are only supposed to help with the noise issue, but by this point Selen has gotten much more confident in her ability to push you around
->She always just threatens to tie you down on the seat of her extra-wide gaming chair and leave you there, or something like that, and doesn't seem to care too much whether you live or die
->Now she has two servants for belly rubs and two left over to bring the latest delivery of food to her desk and clean off the remnants of the last one, and even feed her if she doesn't have a hand free
->She's no longer charitable enough to limit belly massage time to just during streams, either, and now expects it morning till night
->The same rule about no breaks to eat still applies, and her teasing only gets more relentless the more exhausted and desperate you look
->Before long Selen has you doing every single one of her household chores, and she does literally nothing from the moment she gets up until the moment she goes to bed besides stream, stuff herself, and think of new ways to use you
->Eventually what she's making you do has literally no other purpose than her own enjoyment
->Like telling you she'll let you have her half-eaten burger if you can manage to lift her belly under your own power and keep it up for an hour straight
->Inevitably your arms or legs give out under the incredible weight and she just laughs and laughs
->One day, one of you actually manages it, and she hands him the burger only to take her claw and grab it right back as he's about to bite in
->You've never seen her laugh harder
-
->As stated, Selen can eat as much as she wants, but her body does still digest everything
->The weight gain doesn't bother her because her dragon strength keeps her mobile far past what a human body would be able to support
->It's not like moving around doesn't take some effort when her ass is wider than a coach bus, but after all, she only needs to get to her desk in the morning and back to bed at night
->Besides, she has (You) to do anything that might otherwise be a hassle for her, and to carry her belly around if she ate a particularly massive amount and doesn't feel like supporting it herself
->No, the bigger problem by far is her dragon-sized dumps
->The tiny toilet in her bathroom sits unused; underneath her immense mass it would presumably shatter instantly
->It wouldn't be much use anyway when a single one of her logs can be wider than the entire toilet bowl
->When she needs to shit, which is several times a day, she sits over the side of her XXXL Jacuzzi and lets loose
->A big girl like her can't be expected to take a shit without her standard belly massage, so she always gets to watch two of you struggle against an undiluted fog of her revolting shit stench
->Face masks or Febreze are not allowed, of course
->Afterwards, it's your responsibility to clean everything up, and she makes sure as she walks out to taunt you about how much work that must be
->"Holy shit, that was HUGE, even for me. There's no WAY you get done with that before I have to go again"
->This is a very real and unpleasant threat: If you do fail to finish in time, she'll throw you on top of whatever's left and literally bury you in her shit
->"I can't believe a single dump covers your ENTIRE body. It's just crazy how tiny you are"
->She doesn't really wipe; with her dragon claw it would be at least theoretically possible, but she doesn't think it's worth the effort
->Alternatively, she could have one of you do it, but that's still time she can't spend eating
->This makes her absolutely reek 24/7, especially given that she can go a week or longer without washing herself at all
->Even though she and her gaming chair smell so bad it's disorienting, this is of course not a valid excuse for interrupting her belly massage or the flow of food to her desk
->"It's totally natural! Y'know? Pffft, are you saying a girl can't have bodily functions?"
->You always have to be careful doing the laundry; a pair of her stretchy purple leggings, which usually end up more brown than purple, can knock you out on the spot
->If all the caked-on shit ever makes her asscrack too itchy, it's your job to get in there and lick her asshole clean until she's satisfied
->Giving you a towel or something instead would probably be more effective, but she likes this way better
->If she's gassy (which is often), she always blasts plenty of wet farts right in your face
->"It literally moves your body when I FART? You're an ACTUAL twig"
->Her assumption is wrong; you're just physically recoiling out of repulsion, but you decline to correct her because you're certain this would only make the whole thing worse
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>44237191
-
->Gura is a shark, she lives in the saltwater also has small boobs therefore her milk would taste salty because of the enviroment she lives in.
-
->Watson is always busy therefore her milk might taste bitter yes she might be the only human in myth but her stress would ruin the flavor.
-
->Ina is out of boundaries, she is has small tits and also produces ink, not milk therefore she is pretty much unable to produce quality milk or any milk at all.
-
->Calli loves to drink, that's enough to ruin the breastmilk also her diet is even more fucked up, sure i do want to suck on Calli's fat milkers but the taste wouldn't be good at all.
-
->Kiara fixes everything, she is an idol and she likes to dance therefore she is in constant movement and she keeps herself in shape, taking care of what she eats, also she is phoenix, they produce heat so you always get warm milk whenever you want
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
+-> More greentext on [rentry.org/ringotext2](/ringotext2) <-

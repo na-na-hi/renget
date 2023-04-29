@@ -7,7 +7,7 @@
 [Example Fine Tune Walkthrough](https://archive.ph/308gG)|Shows use of custom dataset and how to use it to fine tune a model 
 [Example LoRa Walkthrough](https://archive.ph/XPezc)|Huggingface's StackLLaMa with their lora_config settings 
 [4-bit LoRA Training Notebook](https://gist.github.com/kaiokendev/1e735debbad8bf793e119bbc98f40c54)|LoRA tune on Colab 
-[Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|guide to longer outputs more conducive to roleplay in TavernAI
+[Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|For longer outputs more conducive to roleplay in TavernAI
 |
 **Models**|
 [Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models. Link is for LLaMa currently
@@ -49,23 +49,20 @@
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting 
 [Alpaca's Instruction](https://archive.ph/Wkmzr)|Image of the root verbs and objects for Alpaca specifically. 
-[RPBT Prompt](https://rentry.org/RPBT)|anon's prompt that allows for OOC dialogue and for the bot to play as different NPCs 
+[RPBT Prompt](https://rentry.org/RPBT)|Allows for OOC dialogue and for the bot to play as different NPCs 
 |
 **GPU Gits**|
 [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)|Main GPU-based inferencing with extension support 
 [Text Gen Extensions](https://github.com/oobabooga/text-generation-webui/wiki/Extensions)|Wiki link. Said wiki in general is excellent
 [TavernAI GPU Inferencing](https://github.com/Cohee1207/SillyTavern)|Heavily modified TavernAI fork with WebUI API support
-[WebUI Context Hack](https://rentry.org/wfy3p)|forcing a GC every 8 tokens in streaming mode
-|
-[DeepFloyd-IF](https://github.com/deep-floyd/IF)|text-to-image model with text encoder and three cascaded pixel diffusion decoders (up to 1024x1024)
-[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|suite of various audio related foundational models for use with a LLM (use basaran for local) 
+[WebUI Context Hack](https://rentry.org/wfy3p)|Forces a GC every 8 tokens in streaming mode
 |
 **CPU Gits**|
 [llama.cpp](https://github.com/ggerganov/llama.cpp)|Main CPU-based inferencing 
 [kobold.cpp](https://github.com/LostRuins/koboldcpp)|llama.cpp fork with Kobold UI
 [gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp)|llama.cpp fork that also replaces OpenAi's GPT APIs 
 |
-[Serge](https://github.com/nsarrazin/serge)|LLaMa.cpp chat interface. SvelteKit frontend, MongoDB
+[Serge](https://github.com/nsarrazin/serge)|llama.cpp chat interface. SvelteKit frontend, MongoDB
 [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron)|llama.cpp chat interface.  
 [Llama Server](https://github.com/nuance1979/llama-server)|llama.cpp Chat interface. Chatbot UI 
 |
@@ -75,29 +72,32 @@
 **Local Related Gits**|
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [LLaMa Pruning](https://github.com/horseee/LLaMA-Pruning)|WIP. Various techniques to prune (zero weights) LLaMa models (needs post-training)
-[Basaran](https://github.com/hyperonym/basaran)|open-source alternative to the OpenAI text completion API
+[Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 
 [Langchain Tutorials](https://python.langchain.com/en/latest/)|Guide to get started and how to use. Youtube videos are also a good resource here
-[Local LLM Langchain](https://github.com/ausboss/Local-LLM-Langchain)|anon's experimental extension with langchain support for notebook
-[LLaMa Index](https://github.com/jerryjliu/llama_index)|central interface to connect LLM's with external data
-[LLaMa Hub](https://github.com/emptycrown/llama-hub)|simple library of all the data loaders/readers for llama index/langchain
+[Local LLM Langchain](https://github.com/ausboss/Local-LLM-Langchain)|Experimental extension for WebUI with langchain support for notebook
+[LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
+[LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
 |
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
-[Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|should be best to use LoRa on the 4bit model in this case LLaMa
+[Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa
 |
-[Rank Response from Human Feedback](https://github.com/GanjinZero/RRHF)|easier alignment tuning method 
-[Shell GPT](https://github.com/TheR1D/shell_gpt)|command-line productivity tool works though OpenAI API (local with Basaran) 
+[Rank Response from Human Feedback](https://github.com/GanjinZero/RRHF)|Easier alignment tuning method 
+[Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 
 [Segment Anything WebUI](https://github.com/derekray311511/SAM-webui)|SAM webui (GPU inferenced). Georgi seems he might do a SAM.cpp 
-[Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone)|text-to-audio transformer based model with CPU/GPU inference 
-[Vlad's SD WebUI fork](https://github.com/vladmandic/automatic)|fork of Automatic1111 stable diffusion webui with active development 
+[Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone)|Text-to-audio transformer based model with CPU/GPU inference 
+[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|Suite of various audio related foundational models for use with a LLM (use basaran for local) 
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
+[Vlad's SD WebUI fork](https://github.com/vladmandic/automatic)|Fork of Automatic1111 stable diffusion webui with active development 
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
-[ShareGPT](https://rentry.org/shareGPTleak)|user-shared conversations gathered from chatGPT
+[ShareGPT Unfiltered v4](https://huggingface.co/datasets/gozfarb/ShareGPT_Vicuna_unfiltered)|Removed refusals, excessive unicode, excessive repeats
+[Evol Instruct Unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered)|Removed refusals, blatant alignment, blanks
 [GPTeacher](https://github.com/teknium1/GPTeacher)|collection of modular datasets generated by GPT-4
 [GPT4 4 LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)|alpaca style self-instruct technique using GPT4 also with chinese version
 [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)|InstructorDoctor-200k real patient-doctor conversations 
-[Unnatural Instructions](https://github.com/orhonovich/unnatural-instructions)|instructs automatically generated by a LLM
-[Coomer Forums Scrape Rentry](https://rentry.org/qib8f)|raw RP/ERP/ELIT content
+[Wikipedia Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Done by Cohere. link is their blog with some suggested use cases
+[Coomer Forums Scrape Rentry](https://rentry.org/qib8f)|Raw RP/ERP/ELIT content

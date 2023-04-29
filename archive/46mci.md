@@ -40,7 +40,7 @@ https://mooms.neocities.org/
 ######[>forgor](https://rentry.org/ooauo)
 
 !!! info
-     -> 🪶 **Total Streaming Hours (Debut to Mar 2023)** 🪶<-
+     -> 🪶 **Total Streaming Hours (Debut to April 2023)** 🪶<-
 ######[Stats Page](https://rentry.org/99h7e)
 ***
 ->[Link to old library](https://rentry.org/ei9vd)<-

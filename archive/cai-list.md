@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> locust edition (Updated ==04/22/23==) <-
+-> locust edition (Updated ==04/29/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -16,6 +16,7 @@ Bot | Creator | Desc
 [Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
 [scrimblyort](https://rentry.org/scrimb)|@scrimbly
+[Vivi](https://beta.character.ai/chat?char=4UAxbOMshCBIjMCAPe-YA-Hd2o2DOecmQGuhPDgfCaE)|@RATLOVER|Small boy in a big world of FFIX
 
 
 #### Compilations

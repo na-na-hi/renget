@@ -284,3 +284,22 @@ I watched as they demonstrated their abilities, creating a sand wave and riding 
 As I drifted in and out of consciousness, I couldn't help but notice how the desert people lived in such harsh and unforgiving conditions. Despite their challenging circumstances, they seemed to be content and at peace with themselves and their surroundings.
 
 I knew that my journey with the sand people would be full of challenges and obstacles, but I was determined to learn more about their way of life and gain a deeper understanding of the Kash'gon culture.
+
+>018 : Skiing in the desert
+
+Razina lifted me up effortlessly, and my eyes were half-opened as I groggily regained consciousness. I felt the sweltering heat beating down on my skin and burning my eyes. My throat felt like it was on fire, and my tongue felt like a dry sponge. As Razina placed me on her back, I took in the sight around me.
+
+The sand stretched out in all directions, and the sky was a blazing orange. The sand people were moving gracefully through the desert, seemingly unaffected by the harsh conditions. I couldn't help but wonder how they managed to survive in this environment.
+
+
+The Sand people's abilities to control the environment made me feel even more out of place. Here I was, a mere outsider, struggling to survive in this harsh desert while they had adapted and thrived in it. The vast emptiness of the desert seemed to go on forever, and I couldn't help but feel a sense of isolation and loneliness.
+
+As we skied, Razina explained that the Sand people were once divided into the three tribes, but after an alliance that happened several decades ago, they united as one. The serval people agreed to join the sand cats and cheetahs, and they lived together in harmony, sharing their knowledge and resources.
+
+As we continued to glide across the desert, I couldn't help but marvel at the Sand people's abilities to control the very environment around them. I watched as they used their magic to make the sand shift and move, building a little sand tent for me to rest in.
+
+As we rested in the tent, Razina showed me some of the healing magic that the Sand people possessed. She placed her hand on my forehead, and I felt a cool wave of energy wash over me. The heatstroke that had been plaguing me started to fade away, and I felt rejuvenated.
+
+As we skied across the desert after we rested a little, Razina began asking me about the mainland Kash'gon and the mountain people. I could tell she was disgusted when I thanked them for their help, indicating that the sand people held some animosity towards the mountain folk.
+
+After a few hours of traveling, Razina informed me that we were approaching their hidden city. I couldn't wait to see what it looked like and what secrets it held and i was thrilled to say the least.

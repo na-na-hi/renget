@@ -1,4 +1,5 @@
-# The Noxx Catalog of Bots (Includes SFW and NSFW)  ![Image description](https://files.catbox.moe/0lldfo.gif)
+# The Noxx Catalog of Bots   
+-> ![Image description](https://files.catbox.moe/0lldfo.gif) <-
 
 ***
 -> This is where Noxx will place his bots for catalogue and archiving purposes, since Discord kinda fucking sucks and he doesn't wanna shift through all those unorganized piles of JSONs and PNGs on his laptop. <-
