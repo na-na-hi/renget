@@ -20,8 +20,8 @@ Future Release Dates:
 「!」 Mario Kart 8 Deluxe - Booster Course Pass 5 & 6 releases in 2023.
 
 Current News Links:
-「!」LEGO Donkey Kong, Cranky Kong, Diddy Kong, Dixie Kong, & Funky Kong Teased
-https://twitter.com/LEGO_Group/status/1651224656991379456
+「!」LEGO Donkey Kong, Cranky Kong, Diddy Kong, Dixie Kong, & Funky Kong Sets
+https://twitter.com/LEGO_Group/status/1651949484564201473
 「!」MARIO MOVIE IS OUT IN THEATERS, along with impressions, Reviews and legit spoilers
 「!」Super Mario Bros Movie Posters/Trailers FINAL Recap
 https://rentry.org/3sgat

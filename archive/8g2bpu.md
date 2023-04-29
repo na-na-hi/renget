@@ -1,5 +1,9 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg
+
+Sonichu Issue #0 Cover but with Guildmembers
+
 A group of anon-mons (artist's choice) inside a monster house
 
 A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)

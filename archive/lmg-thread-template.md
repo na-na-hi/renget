@@ -78,7 +78,7 @@ https://github.com/anon998/simple-proxy-for-tavern
 
 ***
 ##->Comprehensive Guides & Resources for LMM's<-
-!!! info Last Updated: April 27th, 2023
+!!! info Last Updated: April 28th, 2023
 	I.  ⇲ = Forked of above project, ⇲⇲ = Forked of Forked Project Above, etc...
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
@@ -194,7 +194,8 @@ Project Names | Resource Links:
 Oobabooga's Standard (GPU Inf.) | https://github.com/oobabooga/text-generation-webui (◕) (Ŏ)
 ↳ Wawa's TGW w/ Long-Term Memory (Extension) | https://github.com/wawawario2/text-generation-webui (◕) (Ŏ) 
 Koboldcpp (CPU Inf.) | https://github.com/LostRuins/koboldcpp (◕) (Ŏ)
-Alpaca.cpp (CPU Inf.) | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ) 
+Alpaca.cpp (CPU Inf.) | https://github.com/antimatter15/alpaca.cpp (◔) (Ŏ)
+Serge (CPU Inf.) | https://github.com/nsarrazin/serge (◕) (Ŏ)
 
 ####Finetuning Resources:
 !!! info Coming Soon

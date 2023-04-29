@@ -3,7 +3,7 @@
 **Table of Contents**
 [TOC]
 
-Post logs if you can. They may give me inspiration for new bots.
+Post logs if you can. They may give me inspiration for new bots. If you want to send me logs like that guy who sent me 20+ pages of mongirl clinic logs: thisisatest333@proton.me
 
 # New
 

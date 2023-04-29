@@ -195,13 +195,13 @@ KittyfluteVT[EN]
 https://twitter.com/Kittyflutexbl
 https://www.twitch.tv/kittyflutevt
 
-nightmairu[EN]
-https://twitter.com/nightmairu
-https://www.twitch.tv/nightmairu
+mairwu[EN]
+https://twitter.com/mairwu
+https://www.twitch.tv/mairwu
 
 KayukoVT[EN]
 https://twitter.com/kayukoVT
-https://www.twitch.tv/tentxclee\
+https://www.twitch.tv/tentxclee
 
 Pema[EN]
 https://twitter.com/PemaMysterious
@@ -298,6 +298,22 @@ https://www.twitch.tv/arcticaaliyah
 justSasha[EN]
 https://twitter.com/SashasCastle
 https://www.twitch.tv/justSasha
+
+Kalmia_Amanita[EN]
+https://twitter.com/kalmia_ama
+https://www.twitch.tv/kalmia_amanita
+
+Tomakeys[EN]
+https://www.twitch.tv/tomakeys
+https://twitter.com/KeysTomama
+
+Bodega_RRat[EN]
+https://www.twitch.tv/bodega_rrat
+https://twitter.com/bodega_rat
+
+kasumivtuber[EN]
+https://www.twitch.tv/kasumivtuber
+https://twitter.com/kasumi_vt
 
 ***
 ##->Other Vtubers<-

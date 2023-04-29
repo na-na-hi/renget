@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/of82DT4.png)
-Single-Use Edition
+![suggested OP image](https://imgur.com/QXeaafH.png)
+Colossal Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>427518763
+Last thread: >>427670917
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
+\>(04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF ; stability... finetunes vicuna? https://huggingface.co/spaces/CarperAI/StableVicuna
 (04/27) Two years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
-(04/25) Mom: "We have chatGPT at home" https://huggingface.co/chat
+(04/25) Mom: We have chatGPT at home https://huggingface.co/chat
 (04/24) RP-7B halfway done! https://www.together.xyz/blog/redpajama-training-progress
 (04/23) Saga adds uncensored Jurassic2 >>427059504 ; Kobold TPUs fixed on United! >>426997068
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is Size Difference Friday; reply to the anchorpost with your colossal prompts! >>427643158
+\>Today is Size Difference Friday; reply to the anchorpost with your colossal prompts! >>427671157
 
 
 ##Perma-Template

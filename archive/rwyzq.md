@@ -545,7 +545,8 @@ if __name__ == '__main__':
 ##Soundpost FIlename Cleaner
 Removes `http://` and `https://` and fixes `_2F` to `%2F` in the folder it is ran in.
 Reason:
-https://github.com/rcc11/4chan-sounds-player/blob/master/src/components/tools/create.js#L176 indicates they are stripped anyway and do not actually matter.
+https://github.com/rcc11/4chan-sounds-player/blob/master/src/components/posts/index.js#L114 indicates it uses whatever protocol you're already using for 4chan.
+WARNING: OVERWRITES FILES
 
 ```python
 import os
@@ -558,10 +559,9 @@ if __name__ == '__main__':
 		if file_ext in ['webm','png','jpg','gif','jpeg','jfif']:
 			if len(file.split(r'sound=')) > 1:
 				if file.split(r'sound=')[1].startswith(r'http') or len(file.split(r'_2F')) > 1:
-					clean_file = file.replace(r'http%3A%2F%2F',r'').replace(r'https%3A%2F%2F',r'').replace(r'_2F',r'%2F')
+					clean_file = file.replace(r'_2F',r'%2F').replace(r'_3A',r'%3A').replace(r'http%3A%2F%2F',r'').replace(r'https%3A%2F%2F',r'')
 					os.replace(file,clean_file)
-					print(end='\x1b[2K')
-					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file), end='\r')
+					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file))
 ```
 
 ##Soundpost Recombiner
