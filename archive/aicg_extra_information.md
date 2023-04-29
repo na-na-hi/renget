@@ -55,6 +55,9 @@ https://docs.miku.gg
 https://rentry.org/mikugg
 - OAI and Kobold frontend with TTS and rich Emotion images support
 
+##### RisuAI
+https://github.com/kwaroran/RisuAI-release
+- korean frontend for oobabooga's and OAI; local install and online demo; feature rich + plugins
 ***
 ***
 ***

@@ -107,6 +107,50 @@ Flare Ch. 不知火フレア[JP]
 https://www.youtube.com/@ShiranuiFlare
 https://twitter.com/shiranuiflare
 
+四ツ辻まよい[JP]
+https://twitter.com/mayoi_4224
+https://www.youtube.com/@mayoi_4224
+
+陽夏のの/HinatsuNono[JP]
+https://twitter.com/HinatsuNono
+https://www.youtube.com/channel/UCPeF0V8dzSUYHwgLjvC86PQ
+
+青龍アオイ🐲四方神姫 Aoi Seiryu [JP]
+https://twitter.com/4GVseiryu
+https://www.youtube.com/channel/UC3Z4nXVK8a0Y3D9MroL7gEA
+
+しゅがーぐらいだー[JP]
+https://twitter.com/sugarrrglider
+https://www.youtube.com/@LilySyu_PJblue/
+
+猫吹ケムリ☁Nekobuki Kemuri[JP]
+https://twitter.com/mo9mo9ke6ri
+https://www.youtube.com/channel/UCPiAB6q4PDMkMl5sr1CWGcw
+
+CMY子【三つ目メガネっ娘お絵かきVtuber】[JP]
+https://twitter.com/sei1go
+https://www.youtube.com/channel/UCgOyJUzx06loBmxUPqldm_w
+
+眠居ふわりのふわり塾 [JP]
+https://twitter.com/zzz_fuwari
+https://www.youtube.com/@zzz_fuwari
+
+皇牙サキ Ooga Saki [JP] [Graduated]
+https://archive.org/details/youtube-C_Rx8aiDnws
+https://archive.org/details/youtube-EIaIZAX9QaA
+
+SatouHolmes Ch.佐藤ホームズ [JP] [Male]
+https://twitter.com/satouholmes
+https://www.youtube.com/@satouholmes/
+
+鳴ノ世ユウト@知識欲系邪神Vtuber [JP] [Male]
+https://twitter.com/Nyarlat_Nosse_V
+https://www.youtube.com/@Nyarlat_noss
+
+Reo inuduki ch [JP] [Male]
+https://twitter.com/Reo_inuduki
+https://www.youtube.com/@Reoinuduk
+
 ***
 
 ##->EN Vtubers<-
@@ -315,12 +359,23 @@ kasumivtuber[EN]
 https://www.twitch.tv/kasumivtuber
 https://twitter.com/kasumi_vt
 
+CookieSwirlC [EN]
+https://twitter.com/CookieSwirlC
+https://www.youtube.com/user/CookieSwirlc
+
+Mushi 蟲[EN]
+https://twitter.com/vtubermushi
+https://www.twitch.tv/vtubermushi
+
+Aliciaxlife[EN]
+https://www.youtube.com/@Aliciaxlife
+https://twitter.com/aliciaxlifeVT
+
 ***
 ##->Other Vtubers<-
 BunnyBlasty[ES]
 https://twitter.com/OneBunnyQueen
 https://www.twitch.tv/bunnyblasty
-
 
 Parkdona ch. 박도나[KR]
 https://twitter.com/parkdonakr

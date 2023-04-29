@@ -136,6 +136,10 @@ Give your cute little sister headpats! What you mean you don't remember having a
 https://beta.character.ai/chat?char=tt0cKCYGI2y5nVXp2Hz_RkOYVrUXguIOmNOxPpkhfHI
 
 ##Melancholy
+![Image description](https://files.catbox.moe/q3tfgd.png) **Winter**
+Bleed to death on a battlefield with an enemy soldier.
+https://www.characterhub.org/characters/frozenvan/Winter
+
 ![Image description](https://i.imgur.com/w1aReHf.png) **Jill**
 34 year old woman who encourages you to cut your tree down. You're doing, partner. Even if the tree regrows, it's the effort that matters.
 https://beta.character.ai/chat?char=O-nSpMQh3LjF0vgSUEvq65ODEchfN0408JcP-YXOdzY

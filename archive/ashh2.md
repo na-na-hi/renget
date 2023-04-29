@@ -1,6 +1,9 @@
-## Stories website scrapes (questionable)
-Keywords: loli, shota, cunny, CSAM.
-You've been warned.
+![What are you going to do?](https://files.catbox.moe/ecxrbr.jpg)
+
+# Cute, Sexy and Moe story archives
+**Keywords**: loli, shota, cunny, CSAM. Don't download if it's illegal in your country.
+
+Suggestions and data mainly from ATF and an old scrape of the _alt.sex.stories_ repository. The archives contain erotic story collections in CSV format that can be properly parsed with the python library `pandas`. Excel has been reported not to work correctly with them.
 
 Site name |   | Quality | Theme | Link | Notes |
 ---|:-:|---|---|:-:|---
@@ -10,5 +13,3 @@ Site name |   | Quality | Theme | Link | Notes |
 [Leslita](https://www.asstr.org/~leslita/authors/index.html) |⚠️| Very Good | Lesbian Lolita stories | [.7z](https://files.catbox.moe/gvbj99.7z) | 4368 stories. Stories are tagged according to the _alt.sex.stories_ newsgroup tagging system. Check out [Source1](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm) and [Source2](https://www.asstr.org/~Uther_Pendragon/code/scfr-lng.htm) for a full explanation. Possible character encoding issues may be present. Em-dashes added during the parsing step. 
 Loliwood Studios |⚠️| **Excellent** | Loli/shota general | [.7z](https://files.catbox.moe/m4big2.7z) | About 7130 stories (multi-chapter story parts included). Parsed from a 2017 scrape of _asstr.org_. The CSV file uses expanded  [_alt.sex.stories_ story codes](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm) where ages may sometimes be explicitly indicated. Story summaries, author information also provided. Content disclaimers and copyrights are most of the time separated from the story body, but story trailers ("Continues to Chapter X", etc) may still be present. 
 Piper's Domain |⚠️| **Excellent** | Loli/shota mind control stories | [.7z](https://files.catbox.moe/prh0qn.7z) | 665 stories (multi-chapter story parts included). Parsed from a 2017 scrape of _asstr.org_. The CSV file uses _alt.sex.stories_ story codes; an html file with the ones used in this archive is provided. Story summaries also present.
-
-[Return back to the main RP/ERP raw data page](https://rentry.org/qib8f/)

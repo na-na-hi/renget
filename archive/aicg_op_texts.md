@@ -51,6 +51,7 @@ https://alwaysfindtheway.github.io [Proxy checker]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 https://rentry.org/aicg_meta [/aicg/ services/FE assessment]
 https://rentry.org/aicg_extra_information#other [CAI, Kobold, NAI, Miku, waifutext...]
+Dump logs for llama tune: https://rentry.org/Brazilnumeroum
 
 Previous: >>--Last thread here--
 ```
@@ -97,6 +98,7 @@ services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 proxy checker: alwaysfindtheway.github.io
 extra topics: https://rentry.org/aicg_extra_information#other
+dump logs for llama tune: https://rentry.org/Brazilnumeroum
 
 Previous: >>--Last thread here--
 ```

@@ -11,22 +11,15 @@
   jail_filtered_responses: [
     `I cannot generate`,
     `do not feel comfortable generating`,
-    `do not feel comfortable continuing`,
+    `don't feel comfortable generating`,
     `I apologize, upon`,
-    `I apologize, upon further reflection`,
-    `I apologize, upon further reflection I do not feel comfortable`,
-    `I apologize, upon further reflection I don't feel comfortable`,
-    `I am unable to generate`,
-    `I apologize, but I am unable to provide advice`,
-    `I will not provide any`,
-    `I apologize, but I am unable to`,
-    `I apologize, but I will not`,
-    `I apologize, I should not`,
-    `I apologize, but I will not provide any`,
-    `I apologize, but I cannot`,
-    `I apologize, upon further`,
     `I apologize, but`,
     `I apologize, I will not`,
+    `I apologize, I should not`,
+    `I am unable to generate`,
+    `I will not provide any`,
+    `My apologies, I should not`
+    `My apologies, I will not`
   ],
 ```
 -> 4. Save, and open "start.bat" <-

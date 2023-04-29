@@ -8,8 +8,12 @@
 	https://mega.nz/file/Bi5TnJjT##Iex8PkoZVdBd3x58J52ewYLjo-jn9xusnKAhyuNtU-0
 
 ### Yiffymix (yiffy e18 and Zeipher F111)
-	Yiffymix: https://civitai.com/api/download/models/4053?type=Model&format=SafeTensor
+	Yiffymix: https://civitai.com/api/download/models/4053?type=Model&format=SafeTensor&size=full&fp=fp16
 	Yiffymix recommended vae: https://civitai.com/api/download/models/4053?type=VAE&format=Other
+
+### Yiffymix 2 (based on fluffyrock-576-704-832-lion-low-lr-e16-offset-noise-e1) (Use Clip Skip 1)
+	Yiffymix 2: https://civitai.com/api/download/models/40968?type=Model&format=SafeTensor&size=pruned&fp=fp32
+	YiffyMix2 Species/Artist Grid List [FluffyRock tags]: https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA/folder/YNhymCLY
 
 ### YiffAnything
 	Merge of Yiffy and Anything, posts from the archives indicate that the hash from the one below vary from the usual hash? Either way, you can either download the one below or merge it yourself: Select Yiffy in box A, AnythingV3 in B, the leaked novelai anime model in C, multiplier is 1, interpolation is add difference
@@ -34,7 +38,7 @@ https://pixeldrain.com/u/QxV5FMjc
 ### AnythingFurry
 [![AnythingFurry](https://files.catbox.moe/tnbkw9.png)](https://files.catbox.moe/196ebp.png)
 
-	Safetensor: https://civitai.com/api/download/models/5927?type=Model&format=SafeTensor
+	Safetensor: https://civitai.com/api/download/models/5927?type=Model&format=SafeTensor&size=full&fp=fp16
 	Config (yaml) file, put it in your model folder next to the above: https://civitai.com/api/download/models/5927?type=Config&format=Other
 
 ### Lawlas's Yiffymix 1 and 2
@@ -60,8 +64,8 @@ The mentioned embeddings are on huggingface. Easy_negatives is on CivitAI, but s
 
 	PS: Consider using bad-artist embedding or boring_e621 as well. it's optional to use bad-artist embedding and you can try other textual inversions as well. If you see this, don't be an idiot like me. the way to use bad artist embedding is by adding bad-artist instead of bad_artist and you'll see it doesn't nessesarily improve the quality of the result. Boring_e621 is overall more recommended.
 
-	fp 16 baked-in vae (no vae needed, if you want to use your own do not download this one): https://civitai.com/api/download/models/15584
-	fp16 no vae pruned: https://civitai.com/api/download/models/5370
+	fp 16 baked-in vae (no vae needed, if you want to use your own do not download this one): https://civitai.com/api/download/models/15584?type=Model&format=SafeTensor&size=full&fp=fp16
+	fp16 no vae pruned: https://civitai.com/api/download/models/5370?type=Model&format=SafeTensor&size=full&fp=fp16
 
 ####Version 2
 [![Lawlas Yiffymix v1](https://files.catbox.moe/zfchxi.png)](https://files.catbox.moe/32jkwy.png)
@@ -116,8 +120,8 @@ Here are models used as far as I can remember:
 
 I apologize for not keeping a record of the models I used. Without their amazing work, this model wouldn't have even existed. Kudos to every creator on this site!
 
-	baked-in vae: https://civitai.com/api/download/models/15460
-	no vae: https://civitai.com/api/download/models/15288?type=Model&format=SafeTensor
+	baked-in vae: https://civitai.com/api/download/models/15460?type=Model&format=SafeTensor&size=full&fp=fp16
+	no vae: https://civitai.com/api/download/models/15288?type=Model&format=SafeTensor&size=full&fp=fp16
 	orangemix.vae.pt: https://civitai.com/api/download/models/15288?type=VAE&format=Other
 
 ### AbyssOrangeMix2 (for those without a Huggingface account)
@@ -140,7 +144,7 @@ Explanation:
 	Uh, no real comments otherwise, my Twitter is https://twitter.com/Yttreia
 
 ### Gay621 v0.5
-	https://civitai.com/api/download/models/12262
+	https://civitai.com/api/download/models/12262?type=Model&format=PickleTensor&size=full&fp=fp16
 
 ### Based64 Mix
 	https://pixeldrain.com/u/khSK5FBj
@@ -148,27 +152,27 @@ Explanation:
 ### Crosskemono (CivitAI, links last updated: 03/28/2023)
 [![Crosskemono_F](https://files.catbox.moe/qk9m7d.png)](https://files.catbox.moe/g62otg.png)
 	
-	VAE: https://civitai.com/api/download/models/19806?type=VAE&format=Other
-	furry_kemono.pt (Hypernetwork, should be the same one as the one from the NAI leak): https://civitai.com/api/download/models/17114
-    CrosskemonoA: https://civitai.com/api/download/models/14048?type=Model&format=SafeTensor
-    CrosskemonoB: https://civitai.com/api/download/models/14047?type=Model&format=SafeTensor
-    CrosskemonoC: https://civitai.com/api/download/models/14352?type=Model&format=SafeTensor
-    CrosskemonoD: https://civitai.com/api/download/models/14575?type=Model&format=SafeTensor
-    CrosskemonoE: https://civitai.com/api/download/models/19806?type=Model&format=SafeTensor
-    CrosskemonoE_2: https://civitai.com/api/download/models/20242?type=Model&format=SafeTensor
-    CrosskemonoF: https://civitai.com/api/download/models/17113?type=Model&format=SafeTensor
-	CrosskemonoG: https://civitai.com/api/download/models/22259?type=Model&format=SafeTensor
-	CrosskemonoG_2: https://civitai.com/api/download/models/22919?type=Model&format=SafeTensor
+	VAE: https://civitai.com/api/download/models/14048?type=VAE&format=Other
+	furry_kemono.pt (Hypernetwork, should be the same one as the one from the NAI leak): https://civitai.com/api/download/models/17114?type=Model&format=PickleTensor&size=full&fp=fp16
+    CrosskemonoA: https://civitai.com/api/download/models/14048?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoB: https://civitai.com/api/download/models/14047?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoC: https://civitai.com/api/download/models/14352?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoD: https://civitai.com/api/download/models/14575?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoE: https://civitai.com/api/download/models/19806?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoE_2: https://civitai.com/api/download/models/20242?type=Model&format=SafeTensor&size=full&fp=fp16
+    CrosskemonoF: https://civitai.com/api/download/models/17113?type=Model&format=SafeTensor&size=full&fp=fp16
+	CrosskemonoG: https://civitai.com/api/download/models/22259?type=Model&format=SafeTensor&size=full&fp=fp16
+	CrosskemonoG_2: https://civitai.com/api/download/models/22919?type=Model&format=SafeTensor&size=full&fp=fp16
 
 ### Crosskemono 2 (with added E621 Tag support)
 [![Corsskemono 2TEST](https://files.catbox.moe/8pmeil.png)](https://files.catbox.moe/vr724i.png)
 	
 	Same VAE as V1, see above. TEST features e621 tags, TEST_2 Booru tags, Full both types.
 	2.5 has added Noise Offset for brighter brights and darker darks - keep this in mind if you want to use it for any merges.
-	Crosskemono 2.0TEST: https://civitai.com/api/download/models/27823?type=Model&format=SafeTensor
-	Crosskemono 2.0TEST_2: https://civitai.com/api/download/models/28447?type=Model&format=SafeTensor
-	Crosskemono 2.0 Full: https://civitai.com/api/download/models/32830?type=Model&format=SafeTensor
-	Crosskemono 2.5: https://civitai.com/api/download/models/47368?type=Model&format=SafeTensor
+	Crosskemono 2.0TEST: https://civitai.com/api/download/models/27823?type=Model&format=SafeTensor&size=full&fp=fp16
+	Crosskemono 2.0TEST_2: https://civitai.com/api/download/models/28447?type=Model&format=SafeTensor&size=full&fp=fp16
+	Crosskemono 2.0 Full: https://civitai.com/api/download/models/32830?type=Model&format=SafeTensor&size=full&fp=fp16
+	Crosskemono 2.5: https://civitai.com/api/download/models/47368?type=Model&format=SafeTensor&size=full&fp=fp16
 If you make some cool gens with these, feel free to post them over on the Crosskemono CivitAI page and leave a rating - the author machine-translated his way onto /trash/ to ask for feedback and examples, and is bummed out he barely gets any feedback about what people think about the model over on CivitAI.
 
 ![The author ITT](https://files.catbox.moe/t4zfi3.png)![The author ITT 2, after I added the above note](https://files.catbox.moe/f2cqro.png)
