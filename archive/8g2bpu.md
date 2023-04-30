@@ -1,8 +1,12 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+lliam doing gendo pose when facing phanpys team
+
+Debby and Kaz (Solid Linoone) on a date
+
 Loss
 
-The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg
+~~The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg~~
 
 Sonichu Issue #0 Cover but with Guildmembers
 
@@ -54,7 +58,7 @@ Booker learning to fly
 
 ~~Togetic cleaning the storage room~~
 
-Waiting room outside the clinic.  Feat. Artist's choice injured pokemon
+~~Waiting room outside the clinic.  Feat. Artist's choice injured pokemon~~
 
 Percival perched on the guild diligently 
 

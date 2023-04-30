@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 29.04.2023 18:45 UTC]
+[Last Updated: 30.04.2023 00:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7347371/](https://boards.4chan.org/h/thread/7347371/)
 Trash - [boards.4chan.org/trash/thread/56098387/](https://boards.4chan.org/trash/thread/56098387/)
@@ -9,7 +9,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 578&nbsp;&nbsp;[archiveofsins.com/h/thread/7347371/](https://archiveofsins.com/h/thread/7347371/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 05:29)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Eveningtimes Edition
 - 577&nbsp;&nbsp;[archiveofsins.com/h/thread/7343212/](https://archiveofsins.com/h/thread/7343212/)&nbsp;&nbsp;&nbsp;&nbsp;(25.04.2023 21:43)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Real Human Bulb Edition
-- 576&nbsp;&nbsp;[archiveofsins.com/h/thread/7339169/](https://archiveofsins.com/h/thread/7339169/)&nbsp;&nbsp;&nbsp;&nbsp;(23.04.2023 23:48)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Commerce Edition
+- 576&nbsp;&nbsp;[archiveofsins.com/h/thread/7339169/](https://archiveofsins.com/h/thread/7339169/)&nbsp;&nbsp;&nbsp;&nbsp;(23.04.2023 23:48)&nbsp;&nbsp;[1175]&nbsp;#&nbsp;Commerce Edition
 - 575&nbsp;&nbsp;[archiveofsins.com/h/thread/7334405/](https://archiveofsins.com/h/thread/7334405/)&nbsp;&nbsp;&nbsp;&nbsp;(21.04.2023 21:53)&nbsp;&nbsp;[975]&nbsp;#&nbsp;Terrarium Edition
 - 574&nbsp;&nbsp;[archiveofsins.com/h/thread/7329173/](https://archiveofsins.com/h/thread/7329173/)&nbsp;&nbsp;&nbsp;&nbsp;(19.04.2023 16:45)&nbsp;&nbsp;[1162]&nbsp;#&nbsp;You have Chika Edition
 ---
@@ -48,7 +48,7 @@ Archive:
 ---
 Trash:
 
-- 010&nbsp;&nbsp;[desuarchive.org/trash/thread/56098387/](https://desuarchive.org/trash/thread/56098387/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 15:31)&nbsp;&nbsp;[162]
+- 010&nbsp;&nbsp;[desuarchive.org/trash/thread/56098387/](https://desuarchive.org/trash/thread/56098387/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 15:31)&nbsp;&nbsp;[199]
 - 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[317]
 - 008&nbsp;&nbsp;[desuarchive.org/trash/thread/55836156/](https://desuarchive.org/trash/thread/55836156/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:46)&nbsp;&nbsp;[221]
 - 007&nbsp;&nbsp;[desuarchive.org/trash/thread/55745273/](https://desuarchive.org/trash/thread/55745273/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 10:08)&nbsp;&nbsp;[307]

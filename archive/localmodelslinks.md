@@ -77,6 +77,7 @@
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 
 [Langchain Tutorials](https://python.langchain.com/en/latest/)|Guide to get started and how to use. Youtube videos are also a good resource here
 [Local LLM Langchain](https://github.com/ausboss/Local-LLM-Langchain)|Experimental extension for WebUI with langchain support for notebook
+[LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
 [LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
 |

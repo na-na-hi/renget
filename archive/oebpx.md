@@ -303,3 +303,21 @@ As we rested in the tent, Razina showed me some of the healing magic that the Sa
 As we skied across the desert after we rested a little, Razina began asking me about the mainland Kash'gon and the mountain people. I could tell she was disgusted when I thanked them for their help, indicating that the sand people held some animosity towards the mountain folk.
 
 After a few hours of traveling, Razina informed me that we were approaching their hidden city. I couldn't wait to see what it looked like and what secrets it held and i was thrilled to say the least.
+
+>018.5: Comparing Kash'gon Magic
+
+As Razina leads me through the vast desert, my mind wanders and I start to compare the different types of Kash'gon magic.
+
+The mainland Kash'gon magic I learned was focused on emission and transformation of the elements of nature. They would often use their magic to control the weather, create objects out of thin air, and manipulate the natural world. It was a complex and intricate form of magic that required years of training and focus to master.
+
+The mountain people's magic, on the other hand, was more primal and wild. It was focused on enhancing their speed and strength, allowing them to move swiftly and gracefully through the mountains. Their magic was offensive and aggressive, designed for fighting and hunting.
+
+The sand people's magic was completely different from what I had seen before. They used their magic to manipulate their surroundings, building structures out of sand and controlling the environment around them. Their magic was fluid and adaptable, able to be used in any situation.
+
+As I reflect on these different types of magic, I can't help but wonder how they all came to be. Each form of magic seemed so distinct and unique, yet they all originated from the same source - the Kash'gon.
+
+I begin to realize that the Kash'gon must have had an incredible understanding of the natural world and the power that lay within it. They must have seen the potential for magic in every aspect of their world and explored it to its fullest extent.
+
+But even with this understanding, I couldn't help but feel that each type of magic was incomplete on its own. It was only when the three tribes came together and shared their knowledge and abilities that they were truly able to unlock the full potential of Kash'gon magic.
+
+I look up at Razina, who is still leading me through the desert, and I can't help but feel grateful for this opportunity to learn and explore this new form of magic. And as we continue on towards the hidden city of the sand people, I can only imagine what other secrets and wonders await me in this vast and mysterious land.

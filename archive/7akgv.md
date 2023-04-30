@@ -1,5 +1,7 @@
 We talk about everything that has to do with speakers, amps, dacs, sources, AVRs, subs, acoustics, electrical engineering and other theory.
+
 Headphones, headphone amps, IEMs and earbuds go here: https://boards.4channel.org/g/catalog#s=iemg
+/hpg/ AES papers and other audio resources are here: https://mega.nz/folder/jlR3WYqb#5b4rDPV2dRmCCrQc5_VG4Q
 
 Previous thread:
 FAQ: https://rentry.org/uvhe4

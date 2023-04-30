@@ -188,7 +188,7 @@ Add after Line 21079:
 ```
 
 ##Robust Archiver
-Last Updated: 04/26/23 (mm/dd/yy)
+Last Updated: 04/29/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Firefox)
@@ -276,6 +276,8 @@ def grab_Metadata():
 			if info:
 				streams = info['entries']
 				for stream in streams:
+					if not stream:
+						continue
 					if re.search(r'free\s*chat', stream['fulltitle'], re.I) and not free_chat_allowed:
 						continue
 					if stream['live_status'] in ['is_live','is_upcoming']:

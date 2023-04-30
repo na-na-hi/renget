@@ -116,6 +116,7 @@
 12/2022|[Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689)
 12/2022|[Pretraining Without Attention](https://arxiv.org/abs/2212.10544)
 12/2022|[The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/abs/2212.09720)
+12/2022|[Prompting Is Programming: A Query Language for Large Language Models](https://arxiv.org/abs/2212.06094)
 01/2023|[SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient](https://arxiv.org/abs/2301.11913)
 01/2023|[SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 01/2023|[Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)

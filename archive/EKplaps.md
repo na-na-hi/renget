@@ -1,7 +1,7 @@
 Plapc@ album
 -
 - EK chara : https://files.catbox.moe/z0a4gp.chara
-- EK's secret notes link : https://secret.daredaddy.com/fNLHa3pD5r (new)
+- EK's secret notes link : none
 
 EK main albums
 - 
