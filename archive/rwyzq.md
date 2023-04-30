@@ -433,7 +433,8 @@ if __name__ == '__main__':
 			time.sleep(1)
 ```
 ##Easy(?) Soundpost Creator
-Last Updated: 04/26/23 (mm/dd/yy)
+###VOD
+Last Updated: 04/30/23 (mm/dd/yy)
 
 This python script will call your installation of FFMPEG with simple pre-defined instructions in order to make the process of soundpost production easier and simpler without sacrificing quality too greatly.
 
@@ -537,15 +538,44 @@ if __name__ == '__main__':
 		vf = r' -vf "' + vf + r'"'
 	FF_Flags = '-c:v libvpx-vp9 -ss '+ str(pre) + r' -t ' + str(round(time_e - time_s,3)) + vf + r' -crf ' + crf + r' -row-mt 1 -threads 0 -deadline best -pix_fmt yuv420p10le'
 	os.makedirs(r'tmp')
-	tmp_clip = str(Path("tmp/clip.mkv"))
-	tmp_encode = str(Path("tmp/clip-encode.mkv"))
-	file = str(Path(file))
-	subprocess.run(r'ffmpeg -hide_banner -i "' + file + r'" -c copy -ss '+ str(time_s - pre) + r' -to ' + str(time_e + post) + r' -y ' + tmp_clip)
+	tmp_clip = r'"' + str(Path("tmp/clip.mkv")) + r'"'
+	tmp_encode = r'"' + str(Path("tmp/clip-encode.mkv")) + r'"'
+	file = r'"' + str(Path(file)) + r'"'
+	subprocess.run(r'ffmpeg -hide_banner -i ' + file + r' -c copy -ss '+ str(time_s - pre) + r' -to ' + str(time_e + post) + r' -y ' + tmp_clip)
 	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_clip + r' -an ' + FF_Flags + r' -pass 1 -f null ' + str(os.devnull))
 	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_clip + r' -c:a copy ' + FF_Flags + r' -pass 2 -y ' + tmp_encode)
 	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_encode + r' -c:v copy -an -y "out[sound=files.catbox.moe%2F[REPLACE HERE].' + ac + '].webm" -c:a copy -vn -y out.' + ac)
 	shutil.rmtree(r'tmp')
 	os.remove(r'ffmpeg2pass-0.log')
+```
+
+###Twitter
+Last Updated: 04/30/23 (mm/dd/yy)
+```python
+import subprocess, os
+from pathlib import Path
+
+if __name__ == '__main__':
+	file = input("Twitter Video:").replace('"','').strip()
+	print("\n<Quality of video>")
+	print("CRF determines the overall quality of the video.")
+	print("A lower number indicates higher quality,")
+	print("but often visually identical quality can be found")
+	print("between values of 10-25. Default value is 20.")
+	crf = input("CRF: ").strip() or "20"
+	print("\n<Bitrate>")
+	print("Defaults to Constant Quality (0).")
+	print("Specified bitrate will try to constrain the quality while controlling filesize.")
+	cq = input("Bitrate: ").strip() or "0"
+	crf += r' -b:v ' + cq
+	FF_Flags = '-c:v libvpx-vp9 -crf ' + crf + r' -row-mt 1 -threads 0 -deadline best -pix_fmt yuv420p10le'
+	tmp_encode = r'"' + str(Path("tmp-twitter-encode.mkv")) + r'"'
+	file = r'"' + str(Path(file)) + r'"'
+	subprocess.run(r'ffmpeg -hide_banner -i ' + file + r' -an ' + FF_Flags + r' -pass 1 -f null ' + str(os.devnull))
+	subprocess.run(r'ffmpeg -hide_banner -i ' + file + r' -c:a copy ' + FF_Flags + r' -pass 2 -y ' + tmp_encode)
+	subprocess.run(r'ffmpeg -hide_banner -i ' + tmp_encode + r' -c:v copy -an -y "out[sound=files.catbox.moe%2F[REPLACE HERE].aac].webm" -c:a copy -vn -y out.aac')
+	os.remove(r'ffmpeg2pass-0.log')
+	os.remove(tmp_encode)
 ```
 
 ##Soundpost FIlename Cleaner

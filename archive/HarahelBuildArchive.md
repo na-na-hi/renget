@@ -363,6 +363,11 @@ Note: Idol by day, ara ara~ onee-chan by night.
 Data: https://textbin.net/lvn2x9dlau
 Music: 
 
+Name: Mello
+Note: Playing Monster Breeder: Harahel Edition featuring special appearances from the Taimanin series and more!
+Data: https://rentry.org/MelloBuild
+Music: 
+
 Name:	Mugen
 Note:	A thuggish, hot-blooded ghoul from Nocturne with an insatiable hunger for battle and street justice. Aloof, vulgar, and meatheaded to a fault, but his heart is in the right place - most of the time.
 Data:	https://textbin.net/my3hcbeo0j

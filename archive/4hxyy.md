@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 304 - Rewarding The Challengers Edition: https://desuarchive.org/trash/thread/56149537/
 Thread 303 - Thirsty For Virgins Edition: https://desuarchive.org/trash/thread/56095661/
 Thread 302 - First Version Edition: https://desuarchive.org/trash/thread/55933533/
 Thread 301 - First Place or Gold Medal Edition: https://desuarchive.org/trash/thread/55678498/

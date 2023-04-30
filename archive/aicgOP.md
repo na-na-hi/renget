@@ -27,7 +27,7 @@
 A general dedicated to discussion & development of AI Chatbots
 
 >>>New
---News stuff--
+--News Stuff--
 
 >>>Frontends
 >Tavern
@@ -72,7 +72,7 @@ https://rentry.org/aicg_meta [/aicg/ service/frontend ranking]
 https://rentry.org/aicg_op_texts | https://rentry.org/aicgOP [OP templates]
 https://rentry.org/aicg_extra_information [CAI, Kobold, NAI, waifutext...]
 
-Previous: --Previous Thread--
+Previous : --Previous--
 ```
 ##Trimmed OPs
 

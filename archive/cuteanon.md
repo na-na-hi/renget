@@ -2,7 +2,7 @@ cute anon's shill rentry for you to read and enjoy
 
 CARDS (still learning this):
 
-![Paper Mario](https://files.catbox.moe/0tdu34.png)
+![Paper Mario](https://files.catbox.moe/mhp6ed.png)
 
 Direct C.AI ports:
 ![Super Mario](https://files.catbox.moe/c68m8x.png)

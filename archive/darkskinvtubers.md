@@ -371,6 +371,30 @@ Aliciaxlife[EN]
 https://www.youtube.com/@Aliciaxlife
 https://twitter.com/aliciaxlifeVT
 
+weiwiko[EN]
+https://www.twitch.tv/weiwiko
+https://twitter.com/weiwiko
+
+dicequeenDi[EN]
+https://www.twitch.tv/dicequeendi
+https://twitter.com/dicequeendi
+
+Roesalie[EN]
+https://www.twitch.tv/roesalie
+https://twitter.com/itsroesalie
+
+VTuberCypress[EN]
+https://www.twitch.tv/vtubercypress
+https://twitter.com/vtubercypress
+
+Endearest[EN]
+https://twitter.com/endearestx
+https://www.twitch.tv/endearest
+
+MinimaLaifu[EN]
+https://www.twitch.tv/minimalaifu
+https://twitter.com/minimalaifu
+
 ***
 ##->Other Vtubers<-
 BunnyBlasty[ES]
@@ -381,6 +405,10 @@ Parkdona ch. 박도나[KR]
 https://twitter.com/parkdonakr
 https://www.twitch.tv/pdona_d
 https://www.youtube.com/@ParkDona211
+
+諾海[CH]
+https://www.twitch.tv/nuohai_0104
+https://twitter.com/Nuohai0104/status/1650897620565651456
 
 ***
 [TOC2]
