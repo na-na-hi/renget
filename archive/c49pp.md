@@ -1,4 +1,4 @@
-Welcome to /horg/, the Horror Game General. Discuss anything relating to horror games, from the AAA classics to the current indie games.
+Welcome to /horg/, the Horror Game General. Discuss anything relating to horror games, from the AAA classics such as Resident Evil, Dead Space and Silent Hill to the current indie games and hidden gems such as Yume Nikki, FAITH, World of Horror and beyond.
 Thread #??? -  ??? Edition
 
 > Game Recommendations - https://rentry.org/gamerecommendations

@@ -115,7 +115,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 43 | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) | | | | |
 44 | [Foraging Run (ft. Smith)](https://rentry.org/5ivrh) | | | | |
 45 | [Stronger (ft. Chespin)](https://rentry.org/grmup) | | | | |
-46 | | | | | |
+46 | [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g) | | | | |
 47 | | | | | |
 48 | | | | | |
 49 | | | | | |
@@ -173,6 +173,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)
 	* [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775)
 	* [Debby and Linoone story: The Race](https://rentry.org/vd3nc)
+	* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -327,10 +328,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
 * [Stronger (ft. Chespin)](https://rentry.org/grmup)
 * [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
+* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)
 ###[Clover Lore Quick Reference](https://rentry.org/cloverlore)
+###[Clover Guild Tier List Maker](https://tiermaker.com/create/pmdg-members-15736308)
+###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)

@@ -205,6 +205,11 @@
 ![Woopstand](https://i.imgur.com/qtW7ubQ.png)
 #####Soyper
 ![Soyper](https://i.imgur.com/zirihJZ.jpg)
+#####Woop River
+![Woop River](https://i.imgur.com/aFDD7Bm.png)
+####Dusk Lycanroc's Drawings
+#####Team Notoriety
+![Team Notoriety](https://i.imgur.com/7QNfPUO.png)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -222,6 +227,12 @@
 ![Sooraa Biimu](https://i.imgur.com/C9T5uhk.png)
 #####Sussy Elm
 ![Sussy Elm](https://i.imgur.com/s1BS4hC.png)
+#####Therapy
+![Therapy](https://i.imgur.com/YEnXuBI.png)
+#####Anon Doesn't Think You're Cute
+![Anon Doesn't Think You're Cute](https://i.imgur.com/BXprz3u.png)
+#####Booker Gets Trolled - Elm Edition
+![Booker Gets Trolled - Elm Edition](https://i.imgur.com/8iUHYef.png)
 ####Growlithe-anon's Graphics
 #####Clover of Future Past
 ![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)
@@ -232,6 +243,10 @@
 ![Cyndaquil Alone](https://i.imgur.com/4pVgzby.png)
 #####Growlithe-anon Portrait
 ![Growlithe-anon Portrait](https://i.imgur.com/oNDri0o.png)
+#####Lliam in the Gru Meme
+![Lliam in the Gru Meme](https://i.imgur.com/ICXf1ma.png)
+#####Lliam's Question
+![Lliam's Question](https://i.imgur.com/kt5GdB3.jpg)
 ####Kaiji's Goods
 #####Kris the Schizo Absol
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
@@ -288,6 +303,8 @@
 ![Blanket Get](https://i.imgur.com/j8WwwEl.png)
 #####Three Strangers in a Garden
 ![Three Strangers in a Garden](https://i.imgur.com/tOOs6IV.png)
+#####KFC and Casey Sparring
+![KFC and Casey Sparring](https://i.imgur.com/VVDVhg9.png)
 ####Linoone's Letters
 #####Card Game
 ![Card Game](https://i.imgur.com/erSGlPt.png)
@@ -327,9 +344,7 @@
 #####Beast & an Ordinary Stove
 ![Beast & an Ordinary Stove](https://i.imgur.com/BfQ1z0X.png)
 #####Gopnik Pokémon Style
-![Gopnik Pokémon Style]()
-
-
+![Gopnik Pokémon Style](https://i.imgur.com/9Sbjkcl.png)
 ####Lliam's Grid
 #####Guildmaster and His Namesake
 ![Guildmaster and His Namesake](https://i.imgur.com/sPb9rot.jpg)
@@ -342,6 +357,10 @@
 ![Macom Working on a Map](https://i.imgur.com/oWmJTht.png)
 #####Gardening Minun
 ![Gardening Minun](https://i.imgur.com/f8H6rbg.png)
+#####Seasons Tier List
+![Seasons Tier List](https://i.imgur.com/7hZJWX5.png)
+#####Colors Tier List
+![Colors Tier List](https://i.imgur.com/btr0wZr.png)
 ####Nick's Edits
 #####Vulpix at the Beach
 EDIT ([original](https://primaldialga493.tumblr.com/post/712607436534628352/hiraeth))
@@ -354,6 +373,11 @@ EDIT ([original](https://azurityarts.tumblr.com/post/690807437155057664/daily-do
 #####Vulpix Spark
 EDIT (Original Unknown)
 ![Vulpix Spark](https://i.imgur.com/Ha00hGz.png)
+####Pikachu's Paper
+#####The Inner Machinations of my Mind are an Enigma
+![The Inner Machinations of my Mind are an Enigma](https://i.imgur.com/OkNfaCa.png)
+#####At an Interchu
+![At an Interchu](https://i.imgur.com/exejxwx.png)
 ####Phanpy's Craft
 #####Cyndaquil
 ![Cyndaquil](https://i.imgur.com/zPuUFyl.png)
@@ -381,6 +405,10 @@ EDIT (Original Unknown)
 ![Sickos](https://i.imgur.com/lclwqV3.png)
 #####Courage the Cowardly Sewaddle
 ![Courage the Cowardly Sewaddle](https://i.imgur.com/IKQEpAS.png)
+#####The Troll Slaiyers
+![The Troll Slaiyers](https://i.imgur.com/1oAb5zW.png)
+#####Booker Gets Trolled - Phanpy Edition
+![Booker Gets Trolled - Phanpy Edition](https://i.imgur.com/22uYzPd.png)
 ####Ross's "Realism"
 #####Rossus
 ![Rossus](https://i.imgur.com/h9HvoMa.png)
@@ -408,6 +436,8 @@ EDIT (Original Unknown)
 ![Ancap Drifblim](https://i.imgur.com/xsrAqJo.png)
 #####What the Dog Doin?
 ![What the Dog Doin](https://i.imgur.com/fLkSylx.png)
+#####Dinner Time
+![Dinner Time](https://i.imgur.com/jWX6KNA.png)
 ####Sableye's Gems
 #####Batter Up
 ![Batter Up](https://i.imgur.com/rZLzk4L.png)
@@ -448,7 +478,7 @@ EDIT (Original Unknown)
 ![We Bare Mons](https://i.imgur.com/JW1XRvR.png)
 #####Skiddo Sweep
 ![Skiddo Sweep](https://i.imgur.com/Rweemxr.png)
-####Smith's Style
+####Smith's Squggles
 #####Monka Skoupi
 ![Monka Skoupi](https://i.imgur.com/HM1LiW8.png)
 ####Sotto's Sovl
@@ -460,6 +490,8 @@ EDIT (Original Unknown)
 ![Clover Medic & Alchemist](https://i.imgur.com/lGvmDND.png)
 #####Latias gets Trolled
 ![Latias gets Trolled](https://i.imgur.com/1c6Q3zJ.png)
+#####Virginity Tierlist
+![Virginity Tierlist](https://i.imgur.com/jrbfRgA.png)
 ####Togetic's Traces
 #####Togetic Portrait
 ![Togetic Portrait](https://i.imgur.com/tLGEZQc.png)
@@ -697,3 +729,19 @@ EDIT (Original Unknown)
 [Latias Gets Trolled](https://arch-img.b4k.co/vp/1656222400882.png)
 [Soyper](https://arch-img.b4k.co/vp/1622565705754.jpg)
 [Gopnik Pokémon Style](https://arch-img.b4k.co/vp/1682655103172.png)
+[The Inner Machinations of my Mind are an Enigma](https://arch-img.b4k.co/vp/1682664645165.png)
+[Seasons Tier List](https://arch-img.b4k.co/vp/1682683689297.png)
+[Team Notoriety](https://arch-img.b4k.co/vp/1682686571616.png)
+[Virginity Tier List](https://arch-img.b4k.co/vp/1682693778210.png)
+[Therapy](https://arch-img.b4k.co/vp/1682699287380.png)
+[Dinner Time](https://arch-img.b4k.co/vp/1682699524906.png)
+[Colors Tier List](https://arch-img.b4k.co/vp/1682701728284.png)
+[Anon Doesn't Think You're Cute](https://arch-img.b4k.co/vp/1682715506365.png)
+[At an Interchu](https://arch-img.b4k.co/vp/1682733584253.png)
+[Lliam in the Gru Meme](https://arch-img.b4k.co/vp/1682781717614.png)
+[KFC and Casey Sparring](https://arch-img.b4k.co/vp/1682788652250.png)
+[The Troll Slaiyers](https://arch-img.b4k.co/vp/1682808756595.png)
+[Lliam's Question](https://arch-img.b4k.co/vp/1682810993325.jpg)
+[Woop River](https://arch-img.b4k.co/vp/1682815658230.png)
+[Booker Gets Trolled - Phanpy Edition](https://arch-img.b4k.co/vp/1682816395706.png)
+[Booker Gets Trolled - Elm Edition](https://arch-img.b4k.co/vp/1682819780221.png)

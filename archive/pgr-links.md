@@ -6,7 +6,7 @@
 2. [CN Wikipedia](https://wiki.biligame.com/zspms/首页)
 3. [Official Site](https://pgr.kurogame.net)
 4. [Twitter Page](https://twitter.com/PGR_GLOBAL)
-5. [Youtube Page](https://www.youtube.com/c/PunishingGrayRaven)
+5. [YouTube Page](https://www.youtube.com/c/PunishingGrayRaven)
 
 
 ####Beginner Guides and Resources

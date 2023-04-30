@@ -321,3 +321,20 @@ I begin to realize that the Kash'gon must have had an incredible understanding o
 But even with this understanding, I couldn't help but feel that each type of magic was incomplete on its own. It was only when the three tribes came together and shared their knowledge and abilities that they were truly able to unlock the full potential of Kash'gon magic.
 
 I look up at Razina, who is still leading me through the desert, and I can't help but feel grateful for this opportunity to learn and explore this new form of magic. And as we continue on towards the hidden city of the sand people, I can only imagine what other secrets and wonders await me in this vast and mysterious land.
+
+>019: The Hidden City
+As Razina and I approached the hidden city of the sand people, I couldn't help but marvel at the sight before me. The city was well-hidden, protected by powerful mirage magic that concealed it from the outside world. But as we stepped through the veil of magic, the city revealed itself in all its splendor.
+
+It was a city unlike any other I had seen before. Houses and mansions made of sand and stone were scattered throughout the city, each with intricate carvings and designs etched into the walls. The streets were lined with shops and markets, selling everything from exotic spices to beautifully crafted pottery. There were libraries and museums, filled with ancient artifacts and historical records of the sand people's rich culture.
+
+As we walked through the city, I couldn't help but feel a sense of awe at the beauty and intricacy of it all. The sand people had built a city that was not only functional but also aesthetically pleasing. Their culture was clearly one of creativity and artistry, and I felt privileged to have the opportunity to witness it firsthand.
+
+I noticed that the sand people's clothing was also unique, reflecting the harsh environment they lived in. They wore loose-fitting garments made of lightweight fabrics that allowed for ease of movement and ventilation. The colors of their clothing were earthy and muted, blending in perfectly with the sand and stone surroundings.
+
+As we walked past a particularly stunning sand statue, Razina turned to me and asked about mainland Kash'gon and the mountain people. I was hesitant to answer, knowing that the sand people held a certain disdain for them, but I felt it was important to be honest.
+
+I explained that mainland Kash'gon was known for its use of elemental magic and transformational abilities. They could manipulate the elements of nature to their will, bending them to their whim. The mountain people, on the other hand, were known for their offensive magic and physical prowess. They used their magic to enhance their strength and speed in battle, relying on their primal instincts to guide them.
+
+As I finished my explanation, I couldn't help but reflect on the different types of magic I had encountered in my travels. Each culture had their own unique way of using magic, reflecting their environment and way of life. It was fascinating to see how magic could be used in so many different ways, and I felt grateful for the opportunity to learn about them all.
+
+As we continued our tour of the sand people's city, I couldn't help but wonder what other secrets lay hidden within their walls. The sand people had proven to be a fascinating and complex culture, and I was eager to learn more about them.

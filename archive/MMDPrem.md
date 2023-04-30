@@ -47,6 +47,12 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 [[Booth]](https://hinoichi-studio.booth.pm/items/4237069) : Original - School Idol Xiasha
 [[Booth]](https://hinoichi-studio.booth.pm/items/2180191) : Original - Byakuya
 ***
+-> **Homyu** <-
+-> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
+
+[[Patreon]](https://www.patreon.com/posts/mmdmodel-kisaki-81977133) : Blue Archive - Kisaki
+[[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
+***
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 

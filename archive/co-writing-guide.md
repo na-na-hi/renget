@@ -1,6 +1,6 @@
 #Co-writing guide
 This guide is mainly about how to steer your story... yeah. The guide is semi for both casual players and try-hard writers at the same time.
-(i need better introduction)
+(i need better introduction, im working on rewritng this)
 
 [TOC2]
 
@@ -19,7 +19,7 @@ So there is not really 'a secret trick' to understand preset, without having to 
 And don't try touching any of the settings, beside characters count, or sometime temperature, they are usually carefully crafted. Unless you know what you are doing, of course.
 
 My recommendation is...
-On **Euterpe**: try out ***Pro Writer***, it's a default preset at the bottom list. A very decisive preset, and many had good time with it; But for more advanced prose, I would recommend my ***[Truthfully](https://cdn.discordapp.com/attachments/356304198398115841/1037687812968960061/Truthfully-euterpe_pume.preset)*** preset; an honorable mention would be ***[ATypical Swansong](https://cdn.discordapp.com/attachments/1035339294182752256/1035339294367285258/ATypical_Swansong_v1.1-66B88.preset)*** since some NAI veterans seem to like it.
+On **Euterpe**: try out ***Pro Writer***, it's a default preset at the bottom list. A very decisive preset, and many had good time with it; But for more advanced prose, I would recommend my ***[Truthfully](https://cdn.discordapp.com/attachments/1037673943798140979/1085810492414640158/Truthfully-2-euterpe_pume.preset)*** preset; an honorable mention would be ***[ATypical Swansong](https://cdn.discordapp.com/attachments/1035339294182752256/1035339294367285258/ATypical_Swansong_v1.1-66B88.preset)*** since some NAI veterans seem to like it.
 
 On **Krake**: check ***[Ace High](https://cdn.discordapp.com/attachments/1035339751504498778/1035339751907139624/Aces_High-C0AD3.preset)***, it's easy to use. A very proficient preset for anyone—use ***Top Gun Beta***, if it feels too random; But if you're pro-narrative, and able to do some inputting, use my ***[Truthfully\(Krake\)](https://cdn.discordapp.com/attachments/1037673943798140979/1039273562609033306/Truthfully-4-krake_pume.preset)***.
 

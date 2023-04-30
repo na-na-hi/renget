@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Lancet pilot Sam Hydrov destroys 2S1 Gvozdika
+https://files.catbox.moe/aj4cvj.mp4
+>UA channel post video of Russian on Dnepr river being killed
+>Turns out it was cut from video showing they knowingly killed a civilian
+https://files.catbox.moe/i2fm8z.MP4
+https://files.catbox.moe/dzjazm.mp4
 >Uman AD successfully redirects Russian missile into highrise
 https://files.catbox.moe/tblg3c.mp4
 >Work of UR-77 Meteorit from a bird's eye view.

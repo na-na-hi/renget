@@ -671,3 +671,60 @@ Cons:
 - UB does low damage when not buffed by having two shadows
 - Needs to get her Shadows out ASAP to benefit, meaning she may likely be paired with L.Nozomi exclusively
 [Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+### -> Alchemist Karin<-
+Karin's gimmick is that she's a support meant to sustain teammates via heals and defensive buffs, while weakening the enemies with debuffs. Unfortunately, these kinds of buffs aren't typically useful in most scenarios. Even when these are useful, she's possibly going to be subjected to skill level autism due to the way TP Gain is calculated in relation to defensive buffs. **(Ex. being A.Yori, Maho, Ames)** As she is a welfare unit, she's most likely designed to not be strong. Unless they give her some sort of TP on her UE next year, you probably won't see her outside of some Arena usage where she's the backline unit (This section will be updated once I get her growpshere and run some tests on her skills in Arena)
+
+
+
+-> ![Alchemist Karin](https://redive.estertion.win/card/full/125731.webp) <-
+
+Pros:
+- HP regen, M.Atk & P.Atk buffs on UB
+- M.Def & P.Def debuff on S1
+- Heal on S2 
+- Debuffs hit all enemies in front of Karin (So if Rima is behind her, she won't get hit by the debuffs)
+
+
+Cons:
+- Skills only apply to units in front of her
+- Has M.Def & P.Def buffs on S2
+- Has M.Atk & P.Aatk debuffs on S1 (Could be considered a Pro for P.Arena)
+- No TP Restoration, Regen or Boost buffs
+- No Shields
+- No action speed buff
+- Strange positioning (Mid, behind Ceremonial Yui & front of H.Rin)
+- No CC to assist in Arena 1st turn
+- Slow 1st action
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+
+### ->Warlock Djeeta<-
+**TL;DR  Somewhat comparable to NY.Neneka, but with less potency in exchange for targeting all friendlies with S2 buffs instead of only highest M.Atk unit like NY.Neneka. Her positioning is complete ass in a general sense.**
+If you were to look at her skills individually, they actually look pretty good. Unfortunately, Djeeta's S2 is extremely reliant on her having her Seal active. Without it, her S2 loses half its potency in all aspects except the TP Restoration.
+Her TP restoration is 5 less than X.Miyako (75 vs 80), meaning it's certainly not bad. One of the big highlights is that her M.Crit dmg increase can get to 20%, which is 5% higher than NY.Nenenka's across her S1+ & UB (15% to a single target). Her positioning is a large issue, considering that she can't tank at all and stands in front of two common slot 1 units - NY.Neneka & Angel Yori.
+Overall, she's not a home-run out of the gate. Magic teams have incredibly steep competition for team slots. The staples of Neneka/NY.Neneka/Ames/ST.Misaki/GreAnne would need a reason to include Warlock Djeeta over any of them. Given that she has TP restoration, this isn't unthinkable - But would require scenarios where you can get away with running less healing/shielding and more offense, or NY.Neneka isn't functional. For the Arena enthusiasts, she most likely is useless.
+
+-> ![Warlock Djeeta](https://redive.estertion.win/card/full/125531.webp) <-
+
+Pros:
+- UB buffs self M.atk and adds a Seal (mark) to self, in order to buff S2
+- Good M.Def debuff on S1 that is AOE
+- Good M.Atk, M.Crit Chance & M.Crit Damage increase from S2
+- S2 values are enhanced with Seal active (Values are doubled, aside from the TP restoration)
+- TP restoration to all on S2
+- Stands behind some magic tanks (Monika 6 Star, Noir Kuuka, X.Mahiru)
+- M.Crit rate & Crit dmg increase 
+- Pumps out decent damage
+
+Cons:
+- Defensive buffs on both sides
+- Reduces M.Atk of enemies (Most bosses deal physical, so not always relevant)
+- **Stands in front of NY.Neneka and Angel Yori**
+- Significantly squishier than NY.Neneka (-7013K HP, - 240 P.def & -332M.Def compared to NY.Neneka)
+- S2 is only half effective when applied without her seal buff 
+- UB Seal only lasts 18s
+- S1 field only lasts 12s
+- HP Bond stories (Could be a buff for Djeeta 6 Star, probably not.)
+
+[Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)

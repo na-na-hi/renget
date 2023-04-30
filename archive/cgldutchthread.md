@@ -1,5 +1,6 @@
 #/CGL/ Dutch thread
 !!! info Changelog
+    2023/04/30 - Updated con list, added Thread OP copypasta
     2023/04/17 - Updated con list
     2023/01/01 - Page went live, fixed some tyop's
     2022/12/17 - Made this page
@@ -21,6 +22,7 @@ This convention agenda focuses on Dutch events but includes some of the more pop
 | 1-2 April | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
 | 15-16 April | [🇳🇱 TomoCon](https://tomocon.nl)  | A smaller cheap anime convention in Berghem, especially popular with younger visitors. |
 | 22-23 April | [🇳🇱 Elfia Haarzuilens](https://www.elfia.com/en/haarzuilens/)  | A large popular outdoor fantasy event in Haarzuilens. |
+| 22-23 April | [🇳🇱 Comic Con Holland](https://comicconholland.nl/)  | A comic con in Den Bosch, organised by the people from Comic Con Brussels. |
 | 6-7 May | [🇳🇱 MIA NL](https://www.made-in-asia.nl/nl/)  | A popular commercial anime convention in Gorinchem. |
 | 21-21 May | [🇧🇪 Comic Con Brussels](https://comicconbrussels.com/en/homepage-en/)  | A large commercial geek convention in Brussels. |
 | 9-11 June | [🇳🇱 Animecon](https://animecon.nl/)  | The oldest anime convention of the Netherlands, hosted in Rijswijk. Recently restructured after a big oopsie and started to appeal more to comic con crowds with large halls. |
@@ -32,22 +34,23 @@ This convention agenda focuses on Dutch events but includes some of the more pop
 |---|---|---|
 | 30 June - 2 July | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
 | 8-9 July | [🇧🇪 Atsusacon](https://www.atsusacon.be)  | Belgium's largest anime convention... I think? |
+| 8-9 July | [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/)  | Fantasy event in Mondo Verde, Landgraaf |
 | 3-6 August | [🇳🇱 Castlefest](https://castlefest.nl/nl)  | A(nother) large popular outdoor fantasy event in Haarzuilens with tons of great food. |
 | 11-13 August | [🇳🇱 Abunai!](https://abunaicon.nl/)  | The second oldest and probably now largest anime convention of the Netherlands, hosted in Veldhoven. There's a heavy focus on content and night programming for the party people. |
 | 12-13 August | [🇳🇱 Showmasters Comic Con Amsterdam](https://www.comiccon-europe.com/amsterdam/index.php/en/)  | A geek convention in Amsterdam with a poor repuation and the tendency to postpone or cancel last minute. |
 | 25-27 August | [🇳🇱 Viencon](https://viencon.nl/)  | A weekend at Center Parks Limburgse Peel with your friends, where half your neighbors are weebs. |
 | 16-17 September | [🇳🇱 Elfia Arcen](https://www.elfia.com/en/arcen/)  | A large popular outdoor fantasy event in Arcen. |
+| 22 - 23 September | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/)  | A popular commercial anime convention in Brussels. |
 
 #####Q4: October - December
 | **Date** | **Convention** | **Info** |
 |---|---|---|
-| 7-8 I October | - [🇳🇱 Gameforce](https://nl.gameforce.gg/) | A new gaming festival to replace Firstlook |
+| 7-8 October | [🇳🇱 Gameforce](https://nl.gameforce.gg/) | A new gaming festival to replace Firstlook |
 | 21-22 October | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
 
 Nothing Yet
 
 #####Events still without a date
-- [🇳🇱 El Mundo Fantasia](http://www.elmundofantasia.com/): Fantasy event in/near a zoo. Website is currently offline -> dead?
 - [🇳🇱 Animecon Classic](https://animecon.nl/classic/nl/): Animecon with a focus on quality content. No news on if they will do another edition or not.
 - [🇳🇱 Heroes DCC](https://dutchcomiccon.com/) Fall/Winter edition: Typically takes place in November.
 - [🇳🇱 Midwinterfair](https://www.archeon.nl/agenda/midwinter-fair.html): December fantasy event in Archeon.
@@ -81,3 +84,19 @@ You can email me at dutchthreadop \[apenlul\] gmail.com.
 I used to run multiple websites on the same hosting package which I got for my private website and email. This meant for each additional site I wanted to add I only had to pay for the domain name. Sadly, the hosting company doubled their prices and changed policies and effective January 1st 2023 requires separate hosting packages for each site. The cost this would add even when moving hosts combined with the drop in use of the site and loss of motivation to keep it updated lead me to decide to cancel it. 2016-2022, it was fun while it lasted!
 
 I did download a backup of the site and databases and also had the Internet Archive make one final snapshot before I took the site offline. This snapshot can be found at https://web.archive.org/web/20221215132318/https://dutchgulls.nl/
+
+## Thread OP copypasta
+```
+Previous thread: >>[thread_id]
+>[Recap items go here]
+
+Upcoming Major Events:
+>[next 6 events go here]
+Full calendar: https://rentry.org/cgldutchthread#2023-convention-agenda
+
+Links and Advice:
+>POSTS MADE IN DUTCH ARE AGAINST SITE-WIDE RULES AND WILL BE DELETED!
+>[random /cgl/ unrelated advice]
+>Rentry guide to Dutch conventions, calander and such: https://rentry.org/cgldutchthread
+>Comfy Discord: https://discord.gg/QAYNyfY
+```

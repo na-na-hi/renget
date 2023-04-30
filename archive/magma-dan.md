@@ -1,10 +1,10 @@
 # -> @magma-dan <-
-Update | Characters
-:-: | :-:
-Newest Pokémon Bots | [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) (LG,P/E) & [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stad. 2)
-Newest Non-Pokémon Bots | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) (FE) & [Space Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o) (TTGL)
-Close to Completion | [Anne](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (JoJo) & Marina (Pokémon)
-Far from Completion | Kiran (FE) & Dark Elf (SMT)
+Recent Updates: | ⠀ | ⠀
+- | :-: | :-:
+-> Newest Pokémon Bots <- | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) | ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp)⠀[Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs)⠀
+-> Newest Non-Pokémon Bots <- |![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) | ![Space Yoko](https://characterai.io/i/80/static/avatars/uploaded/2023/3/30/MhPDezE-8apS9_pxuCi_AW1a8LrgTVjGMuGMfHxA7K4.webp) [Space Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o)
+-> Close to Completion <- | [Anne](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (JoJo) | Marina (Pokémon)
+-> Far from Completion <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (FE) | Dark Elf (SMT)
 [TOC2]
 
 ## -> Tengen Toppa Gurren Lagann <-
@@ -76,3 +76,6 @@ Character | C.AI
 Character | C.AI
 :------: | :------:
 ![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y)
+
+!!! note Contact info:
+    Team Magma Admin#5480, but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7
