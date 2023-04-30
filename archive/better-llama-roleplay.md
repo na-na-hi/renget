@@ -24,7 +24,7 @@ if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
         mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
         }
 ```
-4. Alternatively, you can download [this .js file](https://files.catbox.moe/3sbln8.js) and replace script.js with it. Just make sure to rename the file back to script.js.
+4. Alternatively, you can download [this .js file](https://files.catbox.moe/nk2k03.js) and replace script.js with it. Just make sure to rename the file back to script.js.
 4. Boot up either textgen or kobold and load your favorite model. I recommend kobold. [There's a fork of Kobold that supports loading models in 4bit quantization](https://github.com/0cc4m/KoboldAI).
 5. Make sure pygmalion formatting is disabled, multigen should also be disabled as it has a bad habit of repetition.
 6. Choose a preset. Ones that I would recommend are: Naive, Ouroboros, Lycaenidae, Genesis, Pygmalion, and Coherent Creative.
@@ -51,17 +51,19 @@ node index.mjs
 ```
 	This starts the proxy. `npm install` only needs to be ran once, subsequent usage only requires `node index.mjs`.
 5. Open up SillyTavern and set the API in the "API Connections" menu to "OpenAI." We're going to be taking advantage of the reverse proxy feature.
-6. Create a new preset and set the "OpenAI Reverse Proxy" to `http://127.0.0.1:29172/v1`. If you want to change which port or IP the proxy is initialized to you can do so by editing the `index.mjs` file. 
+6. Create a new preset and set the "OpenAI Reverse Proxy" to `http://127.0.0.1:29172/v1`. If you want to change which port or IP the proxy is initialized to you can do so by copying the file `config.default.mjs` to `config.mjs` and editing it there, that way the changes don't get loss with every update.
 7. Leave the "Context Size" at the maximum so that SillyTavern doesn't attempt to truncate the message, the proxy will take care of that for us.
 8. Clear the main prompt, NSFW prompt, jailbreak prompt, and impersonation prompt. Then, change the impersonation prompt to "IMPERSONATION_PROMPT" if you'd like to be able to use the "Impersonate" feature and set the jailbreak prompt to `{{char}}\n{{user}}` as this is necessary for the proxy to function properly.
 9. Turn on the "NSFW Toggle" and "Send Jailbreak" settings. You can also enable "Streaming" to have the tokens streamed as they're being completed, but keep in mind this only works with textgenerationwebui and koboldcpp. If you've done your settings correctly, they should look like [this image](https://raw.githubusercontent.com/anon998/simple-proxy-for-tavern/main/settings.png).
-10. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI), [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers), or [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases) if you haven't already. If you plan on using KoboldAI, you may need to edit `index.mjs` and set `backendType` to `"kobold"`, otherwise leave it set to `null`.
+10. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI), [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers), or [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases) if you haven't already. If you plan on using KoboldAI, you may need to edit `config.mjs` and set `backendType` to `"kobold"`, otherwise leave it set to `null`.
 11. Load your preferred model and go back to SillyTavern. Click the "Connect" button underneath the "API key." This will prompt SillyTavern to try connecting to the reverse proxy which will then cause the reverse proxy to connect to your backend, which should work successfully.
 	1. Textgenerationwebui: Run textgenerationwebui with the following paramters: `--api --notebook`. These parameters are needed to connect textgenerationwebui to the proxy.
 	2. KoboldCPP: Run KoboldCPP with the `--stream` parameter if you to make use of its streaming capabilities.
 12. Good luck and have fun with your new and improved LLaMA generations.
 !!! note Caveats
-	If you want to make adjustments to the temperature, response length, and so forth you'll need to open `index.mjs` and edit the `generationConfig` section. Adjust the `replyAttributes` variable and `buildLlamaPrompt` function to further tune the AI's responses to your needs. If you want always keep the example messages in the prompt you'll have to edit `keepExampleMessageInPrompt` while also enabling the option in SillyTavern's UI.
+	* If you want to make adjustments to the temperature, response length, and so forth you'll need to create a new preset in the `presets` folder and change the values. 
+	* Adjust the `replyAttributes` variable in `config.mjs` and create a new prompt format in the `prompt-formats` folder to further tune the AI's responses to your needs. 
+	* If you want always keep the example messages in the prompt you'll have to edit `keepExampleMessageInPrompt` in ` config.mjs` while also enabling the option in SillyTavern's UI.
 
 # WizardLM-7B
 WizardLM-7B is a large language model that has been trained using [evolved instructions](https://github.com/nlpxucan/WizardLM#overview-of-evol-instruct), with a focus on improving the model's performance on high complexity tasks. Evolved instructions are a novel approach to improving the performance of LLMs by using LLMs instead of humans to mass-produce open-domain instructions. Using this Evol-Instruct method, the WizardLM team have been able to produce results that are quite impressive for a 7B model, at times competing with or exceeding the quality of larger models. The fact that it is quantized lends itself to being able to run on a greater variety of consumer hardware. For these reasons and more, this portion of the guide will showcase how to download and setup WizardLM-7B to give quality roleplay outputs.

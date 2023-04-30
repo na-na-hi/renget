@@ -23,6 +23,7 @@
 * The guild spits up into groups and each group takes a dungeon. One bottle of "Rift sealant" is provided to each group. Each group must return with a green Rift Sealant bottle cap. (See Lore Section for more details)
 
 ####Lore about Rifts and Rift Sealant:
+(Everything in parentheses isn't told to the characters, it is there just for the writers as extra information/clarification)
 * Rifts can only be seen by those with advanced aura sensory skills (at this time only KFC has that ability).
 * For non-aura users, "To find a rift, you need to find what does not belong." 
 * However, rifts have a noticeable effect on the dungeon itself and its inhabitants.

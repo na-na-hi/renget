@@ -9,17 +9,17 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Melts
 
-**THU: BN6 airhoc /v/melt at 2UTC (Parsec)**
+**THU: Mega Man Zero at 2UTC (Telemelt)**
 **FRI:  Megaman X Command Mission at 2UTC (Parsec)**
-**SAT: Curse of the Moon 2 at 3UTC (Parsec)** Zero melt instead if the /v/ guy gives life signs
-**SUN: Minemelt at 18UTC ()** probably
+**SAT: Speed Power Gunbike at 2UTC (Parsec)**
+**SUN: Minemelt at 17UTC ()**
 
 ##Cytubes
 
 Things probably will work
 
 **SAT: Rockman.exe at 16UTC**
-
+**SUN: Rockman.exe Stream at 15UTC**
 >-
 nothing
 

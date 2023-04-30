@@ -145,11 +145,11 @@ https://www.youtube.com/@satouholmes/
 
 鳴ノ世ユウト@知識欲系邪神Vtuber [JP] [Male]
 https://twitter.com/Nyarlat_Nosse_V
-https://www.youtube.com/@Nyarlat_noss
+https://www.youtube.com/@Nyarlat_nosse/
 
 Reo inuduki ch [JP] [Male]
 https://twitter.com/Reo_inuduki
-https://www.youtube.com/@Reoinuduk
+https://www.youtube.com/@Reoinuduki
 
 ***
 

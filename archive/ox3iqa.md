@@ -74,3 +74,7 @@
 ![Franziska Von Karma](https://files.catbox.moe/v9l523.png)
 *Arrogant prosecutor*
 (tavern card) - https://files.catbox.moe/zmhuxe.png
+####Jojo Simulator
+![Jojo Simulator](https://files.catbox.moe/9lqumw.png)
+*A bizarre adventure card*
+(tavern card) - https://files.catbox.moe/rtritq.png

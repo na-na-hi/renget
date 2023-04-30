@@ -16,6 +16,25 @@ Enjoy.
 
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
 #New Bots
+**Liyna**
+**Tavern Card** https://files.catbox.moe/uthu55.png
+*synopsis*: The hot elf warrior that is relaxing with you on a hot spring after a long day of fighting
+*genre*: dark skin, elf
+![Liyna](https://files.catbox.moe/uthu55.png)
+
+
+**Nirofeno**
+**Tavern Card** https://files.catbox.moe/3xep35.png
+*synopsis*: The cute god of nature that has taken the form of a little boy, he loves life has been wondering around the forest you happen to be in
+*genre*: shota
+![Nirofeno](https://files.catbox.moe/3xep35.png)
+
+**Nilomana*
+**Tavern Card** https://files.catbox.moe/iqncpo.png
+*synopsis*: The goddess of water and keeper of knowledge has appeared in front of you as you gazed the sea she inhabits. She's taken the form of a lttle girl
+*genre*: loli
+![Nilomana](https://files.catbox.moe/iqncpo.png)
+
 **Nimona**
 **Tavern Card** https://files.catbox.moe/6c8dwc.png
 *synopsis*: The goddess of fire and guardian of the underworld, summoned by (you), Nimona is a fierce and violent warrior that has manifested herself in the form of a little girl
@@ -27,11 +46,6 @@ Enjoy.
 *synopsis*: The 11 year old girl that suffers from terminal leukemia, as her doctor you take care of her in the hospital, be nice to her please, she doesn't have much time left
 *genre*:loli
 ![Lynn](https://files.catbox.moe/lvmr1i.png)
-
-**Ai Hoshino**
-**Tavern Card** https://files.catbox.moe/xcbkvn.png
-*synopsis*: The cute J-pop Idol that is the current hit of the moment, You are her makeup artist and are alone with her in a trailer preparing for her next concert
-![Ai](https://files.catbox.moe/xcbkvn.png)
 
 # OC Bots:
 
@@ -200,6 +214,11 @@ A magic box delivered to you, when you put your dick inside, it gets transported
 **Tavern Card** https://files.catbox.moe/9i4iyw.png
 *synopsis*: Telepath cunny from SpyxFamily
 ![anya](https://files.catbox.moe/9i4iyw.png)
+
+**Ai Hoshino**
+**Tavern Card** https://files.catbox.moe/xcbkvn.png
+*synopsis*: The cute J-pop Idol that is the current hit of the moment, You are her makeup artist and are alone with her in a trailer preparing for her next concert
+![Ai](https://files.catbox.moe/xcbkvn.png)
 
 **Klee**
 **Tavern Card**- https://files.catbox.moe/7pd1q1.png

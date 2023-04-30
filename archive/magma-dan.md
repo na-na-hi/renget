@@ -1,4 +1,10 @@
 # -> @magma-dan <-
+Update | Characters
+:-: | :-:
+Newest Pokémon Bots | [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) (LG,P/E) & [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stad. 2)
+Newest Non-Pokémon Bots | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) (FE) & [Space Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o) (TTGL)
+Close to Completion | [Anne](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (JoJo) & Marina (Pokémon)
+Far from Completion | Kiran (FE) & Dark Elf (SMT)
 [TOC2]
 
 ## -> Tengen Toppa Gurren Lagann <-
@@ -11,12 +17,13 @@ Character | C.AI
 ## -> Fire Emblem <-
 Character | C.AI
 :------: | :------:
-![Erinys](https://characterai.io/i/80/static/avatars/uploaded/2023/1/25/k-0s50EyQSVvnBb-p6spWFKKf9tBpBU45Az_skstIbU.webp) | [Erinys](https://c.ai/c/ohJlzQ-tbQsQ9vF8AOiUSO4bNKuSQd6f43bODJ3v84g) (Genealogy of the Holy War)
-![Cath](https://characterai.io/i/80/static/avatars/uploaded/2023/1/15/BWc8PTuN_c5J8Ng2-EKVsrZdPimBTBrSBOhQXTxvnr8.webp) | [Cath](https://c.ai/c/ANHyQT3y-al7BTcq5t_C1eKdG6nK2CDojhrfoDEzG1M) (The Binding Blade)
-![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) (The Blazing Blade)
-![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) (New Mystery of the Emblem)
-![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) (Fates: Conquest)
-![Mila](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/lh_i9FKifs0tlAS8Yl89NFu3JMk4vjGUhMMLgNij-d0.webp) | [Mila](https://c.ai/c/2FMHfLi0V2agUXcO4Hd1hCU9ybTVEl7arnkSm7-Dprc) (Shadows of Valentia)
+![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) - Shadow Dragon and the Blade of Light
+![Mila](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/lh_i9FKifs0tlAS8Yl89NFu3JMk4vjGUhMMLgNij-d0.webp) | [Mila](https://c.ai/c/2FMHfLi0V2agUXcO4Hd1hCU9ybTVEl7arnkSm7-Dprc) - Gaiden
+![Erinys](https://characterai.io/i/80/static/avatars/uploaded/2023/1/25/k-0s50EyQSVvnBb-p6spWFKKf9tBpBU45Az_skstIbU.webp) | [Erinys](https://c.ai/c/ohJlzQ-tbQsQ9vF8AOiUSO4bNKuSQd6f43bODJ3v84g) - Genealogy of the Holy War
+![Cath](https://characterai.io/i/80/static/avatars/uploaded/2023/1/15/BWc8PTuN_c5J8Ng2-EKVsrZdPimBTBrSBOhQXTxvnr8.webp) | [Cath](https://c.ai/c/ANHyQT3y-al7BTcq5t_C1eKdG6nK2CDojhrfoDEzG1M) - The Binding Blade
+![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) - The Blazing Blade
+![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon
+![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates
 
 ## -> Azur Lane <-
 Character | C.AI

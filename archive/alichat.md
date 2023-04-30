@@ -294,7 +294,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 -	**My character card is 1100 tokens, will that cause an issue?**
 
 	Your character’s chat memory is your ”**Chat Context**”.
-	“**Description**”, “**Personality**”, and “**Scenario**” are `permanent tokens`. These make up your “Character Context”. These reduce your character’s chat memory.
+	“**Description**”, “**Personality**”, and “**Scenario**” are `permanent tokens`. These make up your “**Character Context**”. These reduce your character’s chat memory.
 	“**Examples of Dialogue**” box, and “**First message**” are `temporary tokens`. These are part of your “**Chat Context**” and do not reduce your character’s chat memory.
 	“**Amount generation**” are the tokens that get reserved for the AI’s responses. This reduces your character’s chat memory.
 	“**User’s chat input**” also directly reduces your character’s chat memory.
