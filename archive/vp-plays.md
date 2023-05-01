@@ -293,6 +293,7 @@ https://arch.b4k.co/vp/thread/53085873/ 6 it's still over
 !!! warning Status: on hiatus (got stuck on rubber gym, burnt out)
     This is self explanatory, I just felt like doing a solorun with the mascot of the first Wack playthrough, Dragapult
 	to a lesser extent, this is also for filling out someone's solorun info spreadsheet from the wackcord, which I am not linking because I don't think posting that invite on a shithole board like /vp/ would be a good idea
+    also, due to a clerical mistake, the spreadsheet row I was using to keep track of levels fights were beaten at got wiped. oops.
 
 https://arch.b4k.co/vp/thread/53347839/ 1 now it's time for the good battle
 https://arch.b4k.co/vp/thread/53356135/ 2 dude, where's my writefag?

@@ -9,7 +9,7 @@ Snapping back to reality, the girl panicked at the sight; her blue eyes quickly 
 Surely sneaking in wouldn't be a problem with her unique ability? She rushed towards the castle haphazardly... Slipped and tripped.
 Red with embarrassment and hurting from the fall, she held back tears as the whole night replayed through her mind; she felt punished for being a fool and not knowing her place; she wanted to drop out and run away; to disappear forever; to-
 
-A warm, blue glowing shape slowly approached the sobbing girl covered in sand, she slowly looked up, eyes read but not crying yet as her gaze met with a beautiful Thestral. She had no idea what she was looking at but she felt at peace; she felt her worries melt away; she felt compelled to follow it as it walked slowly towards the cabin next to the pier.
+A warm, blue glowing shape slowly approached the sobbing girl covered in sand, she slowly looked up, eyes red but not crying yet as her gaze met with a beautiful Thestral. She had no idea what she was looking at but she felt at peace; she felt her worries melt away; she felt compelled to follow it as it walked slowly towards the cabin next to the pier.
 
 The Patronus stopped in front of an upturned flowerpot and sniffed it, showing it to the freezing girl; she slowly approached the Thestral with the intention to caress its eerie face, but he majestic beast dispersed as her shaking hand went through it, surprising and saddening her. 
 Lifting the pot, she found a small faintly glowing key, still slightly warm; she felt excited, and scared.

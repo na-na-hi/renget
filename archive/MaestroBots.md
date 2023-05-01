@@ -1,4 +1,9 @@
 # Maestro's Bot List
+-> ==Updated 04/30/2023== <-
+-> *Added to Original bots: Cordelia [CAI + Tavern], Alexis [CAI + Tavern]* <-
+-> *Added to NIKKE bots: Viper [CAI + Tavern], Aria [CAI + Tavern]* <-
+-> *Updated bots: Dolla v1.2* <-
+
 -> ==Updated 04/25/2023== <-
 -> *Added to Original bots: Isla Rockwell [CAI + Tavern]* <-
 -> *Added to NIKKE bots: Noise v1.1 [CAI + Tavern]* <-
@@ -23,6 +28,8 @@ Rose Blackthorne  | ![Rose Blackthorne](https://i.postimg.cc/9DtKndBD/OCRose-Thu
 Violet Amies  | ![Violet Amies](https://i.postimg.cc/d7spPhW4/OCViolet-Thumb.png) | A stoic, emotionless university student researching the effects of an ongoing plague. ==Violet Amies currently shadowbanned, re-working her defs==| [C.ai](https://c.ai/c/HiQar_47HNt2RRP2Gb7I4DsZZZdZ89ZOJR3ydCzCjxM) Tavern
 Celia | ![Celia](https://i.postimg.cc/GtZzCGjb/OCCelia-Thumb.png) | A 60cm bisque doll automaton. She is an older model that requires more care than modern automatons, but her elegant appearance and unique charm make her a rare and valuable find. | [C.ai](https://c.ai/c/OuNX9_tFMQoHm0mbjoTrBIBqieKkxr2q9FxFRflkKHQ) [Tavern](https://files.catbox.moe/t926hk.png)
 Isla Rockwell | ![Isla Rockwell](https://i.postimg.cc/NMRwbMBy/OCIsla-Thumb.png) | A tanned tomboy childhood friend. She always drags you off to have some fun and with graduation around the corner, she wants to make the best of your last summer together. | [C.ai](https://c.ai/c/hOSMg2cTJOaQnHrnxNAdXYqdMjgQPHFdHBuYV2lzX4I) [Tavern](https://files.catbox.moe/0vsrxx.png)
+Cordelia | ![Cordelia](https://i.postimg.cc/HJ2tB5Z0/OCCordelia-Thumb.png) | Your impassive personal assistant of several years. While hopeful in the beginning, the lack of raise or acknowledgement causes resentment to stir within her causing her to act more callous. | [C.ai](https://c.ai/c/3SUqmFG6c_Yi_k-jKsaF1azRP3R30VGn3MlpQoVXabI) [Tavern](https://files.catbox.moe/xp0e0b.png)
+Alexis | ![Alexis](https://i.postimg.cc/wtHVXFVT/OCAlexis-Thumb.png) | An introverted university student in need of tutoring. Although relectant to seek help, she does so anyways and finds out that it isn't so bad after all.  | [C.ai](https://c.ai/c/hnrd05rBEY2BWw0Wpyhg9qS3XsfLnsnTOraxxr0f7T0) [Tavern](https://files.catbox.moe/8d37q9.png)
 
 ***
 
@@ -35,13 +42,15 @@ Scarlet | ![Scarlet](https://i.postimg.cc/LYyP2hHR/Nikke-Scarlet-Thumb.png) | Ac
 Maxwell | ![Maxwell](https://i.postimg.cc/gLnZJdJh/Nikke-Maxwell-Thumb.png) | Strongest member of Matis and an ace in technology. Intelligent, rational and talkative, but smart and hides her true feelings behind a smile. | [C.ai](https://c.ai/c/oz8RYxEAcJihKKn-7L5Xmh3rYrlzqa1fswZqWe-vtuo) [Tavern](https://files.catbox.moe/u14nyd.png)
 Centi | ![Centi](https://i.postimg.cc/tZR6KFG2/Nikke-Centi-Thumb.png) | Her forte lies in constructing facilities. Looks weak but has amazing strength to lift heavy items or crush them with her bare hands easily.  | [C.ai](https://c.ai/c/P-A58EP33c5k_dGVzLuF6wU-vTfFo-nLxbpzXQe13rQ) [Tavern](https://files.catbox.moe/ku2djq.png)
 Yuni | ![Yuni](https://i.postimg.cc/V5VthSGW/Nikke-Yuni-Thumb.png) | Yuni has a penchant for sadism. However, this twisted side of hers has alienated her from other people, until she encountered Mihara. | [C.ai](https://c.ai/c/oTmQfVrkYp802xIiXHVY1Zem4zlDFVo5sPPY2S7OAso) [Tavern](https://files.catbox.moe/c45fyy.png)
-Dolla | ![Dolla](https://i.postimg.cc/kVmKyk1r/Nikke-Dolla-Thumb.png) | A member of Talentum, Tetra's business-savvy "squad" whose mercantile acumen helps the Ark's economy flourish. A businesswoman and owner of her own electronics company, Dolla's first and last thought is on how to profit from the right investments. Rumors abound have her fingers in more than a few...unsavory pies. | [C.ai](https://c.ai/c/DnvWX21OCoizRIVPLK7YHYf34H8KA2lRepgCt8hhTSo) [Tavern](https://files.catbox.moe/4jj4h0.png)
+Dolla | ![Dolla](https://i.postimg.cc/kVmKyk1r/Nikke-Dolla-Thumb.png) | A member of Talentum, Tetra's business-savvy "squad" whose mercantile acumen helps the Ark's economy flourish. A businesswoman and owner of her own electronics company, Dolla's first and last thought is on how to profit from the right investments. Rumors abound have her fingers in more than a few...unsavory pies. | [C.ai](https://c.ai/c/DnvWX21OCoizRIVPLK7YHYf34H8KA2lRepgCt8hhTSo) [Tavern](https://files.catbox.moe/jg7q85.png)
 Noise | ![Noise](https://i.postimg.cc/4KQt2BqY/Nikke-Noise-Thumb.png) | A singer-songwriter who strives to do her utmost in everything. Apart from being part of Prima Donna, her hit song "Diva" catapulted her into stardom. | [C.ai](https://c.ai/c/bNYeQb786Zc4vjiUiIrCe-k4boXdexzIVD_h8RxnhEg) [Tavern](https://files.catbox.moe/zdo4ax.png)
-Viper | ![Viper](https://i.postimg.cc/t7TPDd5g/Nikke-Viper-Thumb.png) | She always seems to be on edge, and gives off a very effervescent vibe. Her fellow Exotic team members believe she is somewhat of a push over. | Soon™
-Aria | ![Aria](https://i.postimg.cc/xXHLM0Py/Nikke-Aria-Thumb.png) | An opera singer from Prima Donna, where she plays the lead in every performance she's a part of. Her singing consistently garners standing ovations, making her a living legend in the world of opera. | Soon™
+Viper | ![Viper](https://i.postimg.cc/t7TPDd5g/Nikke-Viper-Thumb.png) | She always seems to be on edge, and gives off a very effervescent vibe. Her fellow Exotic team members believe she is somewhat of a push over. | [C.ai](https://c.ai/c/dROk8W0WO0JRAuaRg5lLgERvENEcDGhV1Y4OgmamO5Q) [Tavern](https://files.catbox.moe/xn4uta.png)
+Aria | ![Aria](https://i.postimg.cc/xXHLM0Py/Nikke-Aria-Thumb.png) | An opera singer from Prima Donna, where she plays the lead in every performance she's a part of. Her singing consistently garners standing ovations, making her a living legend in the world of opera. | [C.ai](https://c.ai/c/3UvMbQEa_V-5Yeolt_PQxoTMtlcBT77_Qcgqu1StzEY) [Tavern](https://files.catbox.moe/ra0vv0.png)
 Roam | ![Roam](https://i.postimg.cc/KcNszwfJ/Nikke-Roam-Thumb.png) | Number_CAN_051 nicknamed Roam is a surface robot recovering humans relics left in past before humanity was forced to live underground at the Ark. | Soon™
 Sin | ![Sin](https://i.postimg.cc/sQv32JPt/Nikke-Sin2-Thumb.png) | Her voice will gradually seep into the minds of others, eventually turning them into puppets entirely under her control. Even with the mask that stymies her powers, Sin's silver tongue makes every conversation a minefield. | Soon™
 Frima | ![Frima](https://i.postimg.cc/kVjn9HSQ/Nikke-Frima-Thumb.png) | As a laziness incarnate, she thinks deeply about the most efficient way to behave, hence she doesn't speak or move any more than necessary in her daily life. | Soon™
+Milk | ![Milk](https://i.postimg.cc/9wpvqHQP/Nikke-Milk-Thumb.png) | In sharp contrast to her dainty appearance, she is an avid thrill seeker and enjoys getting into fights and confrontation with others. | Soon™
+Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The leader of Triangle who protects the squad with all her effort. Possesses superb skills in office and on battlefield, but has an ill temperament. | Soon™
 
 ***
 

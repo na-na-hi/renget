@@ -1,4 +1,4 @@
-/aceg/'s Ace Combat 7 multiplayer guide v1.3, as compiled by the anons. Let's do this, buddy.
+/aceg/'s Ace Combat 7 multiplayer guide v1.4, as compiled by the anons. Let's do this, buddy.
 
 The essentials:
 1. Parts and builds
@@ -7,10 +7,11 @@ The essentials:
 More advanced techniques:
 4. Countering meta builds
 5. Gunnery
-6. Scoring system explanation
+6. Special Weapons and how to use them
+7. Scoring system explanation
 Goodies:
-7. /aceg/-approved builds
-8. Miscellaneous
+8. /aceg/-approved builds
+9. Miscellaneous
 
 -----------------------
 
@@ -50,7 +51,7 @@ Situational awareness is the key to victory. Always keep your attention and refl
 >missiles will almost never hit from the side unless you're going under 600 kph, so if lots are coming from multiple directions, show them your sides
 Even Macross-tier avalanches of missiles can be evaded if you angle yourself right. As always, assess the direction they're coming from, and turn so that they don't see your rear. It is trickier with incoming LAAMs and HVAAs, which will require you to go faster to evade them even if you're showing them your sides, but it will help you survive even if an entire room wants you dead.
 >a good rule of thumb to make your missiles hit is to fire when you can see up the target's engines if you're behind, and refer to these webms for head-on attacks: fire so that the enemy will turn into your missile's trajectory.
-When you're in a trailing position, you'll need to be as cloe as possible in order to leave your enemy no escape. Refer to this picture: https://arch-img.b4k.co/vg/1656110964214.png , the angle is right, but ideally you'd be even closer to ensure the enemy will have no escape.
+When you're in a trailing position, you'll need to be as close as possible in order to leave your enemy no escape. Refer to this picture: https://arch-img.b4k.co/vg/1656110964214.png , the angle is right, but ideally you'd be even closer to ensure the enemy will have no escape.
 https://arch-img.b4k.co/vg/1637052321107.webm
 Notice how this buddy has forced the target to go slow, and fires when the enemy has no way of evading the attack. His target does get a shot off, but he evades by pitching down; instead the target keeps turning into the missiles and actually makes their job easier, guaranteeing a hit.
 https://arch-img.b4k.co/vg/1657584721339.webm
@@ -63,7 +64,8 @@ A missile fired with this technique will track really viciously, to the point wh
 >try to anticipate the enemy's moves!
 Being able to predict your opponent is the key to victory, so you need to be proactive and imagine what he will do next. Fly accordingly: be the first to turn on the merge (this is essentially a lead turn, the most basic of BFM can be applied here) to get a few precious moments of advantage; guess where he'll turn next and plan your own move accordingly to get an advantageous angle.
 >don't bother with QAAM/EML/SASM, they only teach you bad manoeuvres that either leave you extremely exposed to attack or at a terrible angle to fire on the enemy
-Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still free points. This means that their users learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
+Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still free points. This means that their users
+ learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
 >before pulling a PSM, check who's targeting you and don't initiate the manoeuvre if someone could shoot at you 
 PSMs (post-stall manoeuvres like the Kulbit and Cobra) are an extremely powerful tool, but you are vulnerable while you're pulling them. Never initiate one if someone's behind you, as you'll give them a sure shot to kill you; remember to also check for other players looking at you, because nothing kills a PSMing plane like an HVAA or LAAM. As always, be aware of your surroundings and do not expose yourself needlessly.
 >use gravity to your advantage!
@@ -90,7 +92,7 @@ By the way, this should be a given, but it also means that you need to jink a bi
 A PSM that might give the enemy the perfect angle to shoot you may not be possible when you're close to the ground, or at least will require the enemy to be more careful to avoid slamming into obstacles. Exploit that mercilessly. Be daring in your flying, capitalise on the danger of crashing and you might make the enemy's usual manoeuvres unfeasible.
 >***Fight like a lion.***
 When it comes to playstyle, your best bet of winning such an engagement is surprising the enemy with your moves, and doing so with rabid, unrestrained aggression. Do not let the enemy breathe for a millisecond. Catch him with his pants down when you can and keep the pressure on, while being mindful of the speed at which he may pull a PSM. If you see the enemy is getting the upper hand, only then should you disengage to build some distance and try again. Ironically, a head-on attack will usually be your best bet of killing him: while it does expose you to his railgun, he is also going to be exposed to your own missiles. If you can get an advantageous angle, you'll win that joust.
-At least in my experience, a build that can get the shot off in a head-on before the enemy can get the gun to bear on you will be your best bet for survival. As an example, below is a HCAA Typhoon build made to exploit that fact, which can also be applied to the Rafale and F-15J.
+At least in my experience, a build that can get the shot off in a head-on before the enemy can get the EML to bear on you will be your best bet for survival at worst and victory at best. As an example, below is a HCAA Typhoon build made to exploit that fact, which can also be applied to the Rafale and F-15J.
 https://arch-img.b4k.co/vg/1663685464459.jpg
 Many HPAA planes are able to PSM to level the playing field, and the F-15 S/MTD will also outmanoeuvre the Wyvern at all flight regimes.
 >QAAM
@@ -114,7 +116,8 @@ It's true that QAAM users can shoot at you from any angle, but at the same time,
 Rather than murdering you without even thinking, the SASM user turns the match into a score attack mission because he can farm points without even thinking.
 >the wide AOE means that it doesn't even need to hit to damage the target, essentially getting points for free
 >the explosion itself deals half the damage of a standard missile, which doesn't sound like much, but it takes only two salvos to kill an F-15C without Armour 2
->if it does hit, a SASM inflicts as much damage as a QAAM from the impact plus the explosion on top of it, oneshotting every single plane without Armor 2 installed
+>if it does hit, a SASM inflicts as much damage as a QAAM from the impact plus the explosion on top of it, oneshotting every single plane without Armor 2
+ installed
 What this means is that the SASM player can just lob his missiles at the player in first place when he's distracted and get points for free, because unless he's going really fast he will get hit by the explosion at the very least. Assuming that the player in first place is a Su-35S with three stars (see score system section below), this means that a SASM user can reliably rack up 6,5k points per salvo and speed off before receiving any sort of retaliation.
 Unless you actually get hit square in the face by the SASM, it's unlikely that its user will kill you unassisted. Rather, he will target players that are already damaged to ensure a kill and get even more free points. With all that said, it's time to think up ways to counter it.
 >check your radar to see if someone is approaching the furball at high speed.
@@ -132,13 +135,36 @@ The same trick described multiple times in this guide works even in a close figh
 If you simply cannot hit the target, then use your current advantage to reposition yourself for an easier shot.
 
 5. Gunnery
-Ace Combat 7's guns are as powerful as the gunsight is unsuitable for dogfighting. Think of it as a WW2-era gyro sight: it shows the right direction to lead your shot, but you need to lead your target a lot more than what it shows you in order to hit. A far more intuitive way to aim is to take advantage of your infinite ammo and "walk your fire":
+Ace Combat 7's guns are misunderstood. Their range is 1700 metres, more than what the gunsight shows you, and they're capable of handily destroying any target with a sustained burst. They are as powerful as the gunsight is unsuitable for dogfighting. Think of it as a WW2-era gyro sight: it shows the right direction to lead your shot, but you need to lead your target a lot more than what it shows you in order to hit. A far more intuitive way to aim is to take advantage of your infinite ammo and "walk your fire":
 >see where the tracers are going
 >apply a correction accordingly
 >watch as the enemy is shredded in less than two seconds of sustained fire
 If you do find the pipper to be more convenient, then a good rule of thumb in a turnfight is to use the edge of the pipper as an initial reference instead of the central dot, and lead the target even more than that. Lead the target roughly twice as much as the reticle tells you.[more coming soon]
 
-6. Score system explanation
+6. Special Weapons and how to use them
+Unless you're in a Sp.W off room or your plane doesn't get good Sp.Ws, you will do most of your work using Special Weapons. They differ greatly in behaviour, so you'll need to adjust your playstyle to employ them most effectively.  
+>4AAM
+Unfortunately, 4AAMs are not particularly manoeuvrable and they get a debuff to homing for the first second after launch, so they'll suck at close range. You can only really use them against furballs that are unaware of you, and having only four at a time won't help much with clearing them. Lob them at the furball as you close in with your standard missiles and guns. Upgrading them feels like a waste to me, considering that they don't hit often.
+>6AAM and 8AAM
+Much better. For some reason, PA decided to buff them to the point of making 4AAMs look like unguided rockets, while 6AAMs and 8AAMs could reasonably be used as dogfighting missiles. You can use them (especially the 6AAMs) both as dogfighting missiles and as furball-clearers. They're manoeuvrable and hit like a truck, so you'll only need a single missile to bring down an unarmoured target. Do not fire more than a single missile per target per salvo. Do not waste them by shooting them liberally, only fire them at fully-formed furballs (especially if they're going slow) or use them as dogfighting missiles.
+>HCAA
+Think of them as standard missiles, but better in every single way: better homing, better damage, better speed. They effectively make MSLs obsolete, so you can safely upgrade them exclusively. Otherwise, you can use them the same way you use standards, though obviously with a bit more caution since >finite ammo. You should still fire your unupgraded standard missiles to keep up the pressure on the enemy when you haven't got a clear shot.
+>HPAA
+Rewarding patience and the buddy who waits for a good angle, they'll oneshot any plane that doesn't use armour when unupgraded. Damage 2 will make them obliterate any plane, regardless of armour. You won't need more ammo if you wait for the right moment and angle to fire, but you will need practice to recognise it. Refer to the footage above for ideal timing and firing angles.
+>HVAA
+Lob them at slow, unaware targets, and watch the points roll. They're pretty manoeuvrable for a sniping weapon, but most importantly (and obviously) they're fast as fuck. Just don't use them at short range, they've got a slight debuff similar to 4AAMs. You'll give your opponent a nasty surprise on the merge, if he doesn't think fast. Stealth will make it even safer, and people will despise your existence and hunt you down; consider a build capable of both defending itself at knife range and staying undetected at longer range. Remember, you WILL become visible on everyone's radar for a second when you fire!
+>LAAM
+The quintessential sniping weapon, goes really well with stealth; you will pop up on radar for a second in any case the moment you fire. As with HVAAs, fire at distracted, slow targets who are already preoccupied with something else. Useless within 2km.
+>PLSL
+Look at the guy on top of the leaderboard and go medieval on his ass. You're a force to be reckoned in a radius of approximately 5km, but you'll need to lead the target a fair amount, and the slightest hint of clouds will stop it. If you're within a cloud, a bolt will travel 50 metres or so before dissipating into a harmless blue fart. PLSL bolts travel exactly twice as fast as your gun's shots and have a maximum range of 5km (if unupgraded), so adjust appropriately. You can use both gun and PLSL at knife range to melt a plane in an instant. Practice leading the target a lot, and walk your fire as you'd do with your guns, only more so at long range!
+>SAAM
+Keep the other guy in the circle. Mostly used as a sniping weapon, SAAM is surprisingly powerful in a dogfight if you're behind the enemy. A situational quirk of the weapon is that if you fire two SAAMs at different targets, and both targets are within the circle, both missiles will keep tracking perfectly fine. Don't get overly focused on your current target, or you might be easy prey to other people, who'll catch you distracted!
+>TLS
+Sniper central. Like PLSL, clouds are your biggest enemy. Unlike PLSL, using TLS means having a giant, attention-grabbing beacon emanating from your plane the moment you fire, so the entire room will usually drop everything they're doing to focus on you. Do not get overly focused on a single target, be prepared to evade incoming at a moment's notice, and remember that TLS rewards a steady hand.
+>EML, QAAM, SASM
+Don't.
+
+7. Score system explanation
 >Every player has a base score value based on the cost rating of their aircraft. The exact cost/score table can be found here: https://arch-img.b4k.co/vg/1656114430836.png
 >However, the actual amount of points you get is scaled based on the ratio of your aircraft cost to that of the other players. Flying a higher cost aircraft will reduce the points you receive, and conversely flying a lower cost aircraft increases the points you receive. For instance, if you destroy a plane that has 300 cost less than you do, 95% of the original score calculated is given.
 
@@ -177,7 +203,7 @@ So even if the scoreboard in TDM is:
 >Alpha 2 2k
 Then Alpha 3 will still have 2 stars, and Alpha 4 will have 1, despite all of Bravo outscoring them. However, low scoring players can still contribute by tying up enemies, evading their attacks and not giving out points, while their teammates hit those enemies while they're distracted.
 
-7. /aceg/-approved builds
+8. /aceg/-approved builds
 The buddies have come up with many builds and tactics to use them effectively, focusing on making them enjoyable to use without sacrificing strength in a fight. Included here are the main weapons used by the build, the buddies' remarks on how to employ these planes, and the reasoning behind their choice of parts. The builds listed here are sorted by increasing CST.
 **Remember: many of these builds can be applied to a good variety of aircraft!**
 
@@ -188,7 +214,8 @@ https://arch-img.b4k.co/vg/1658138545693.png
 >2130 MiG-29A HPAA
 https://imgur.com/a/6sZdWR9
 >Here's a more slightly more readable (and up-to-date in terms of what I fly nowadays) screencap.
->Blisk was chosen over VCE specifically due to the higher acceleration (despite the descriptions being the same), Cutting-Edge Airbrakes to make low-speed energy fighting easier, New Flaps and SupMan are bogstandard, Cutting Edge Large Flap had some kind of reasoning behind it, but I kinda forgot. **[---Editor's note: It's the increased deceleration, which when coupled with Airbrakes gives the plane an even tighter turn radius---]** BFTs are sort of a crutch, but you are a paper mache plane if you don't have BFTs on the 29 as well (many, and I mean many missiles will OHKO or 2HKO you) but I've mostly relied on dodging. DPF to OHKO Wyverns and tougher bastards, High-Energy Propellant and Steering Device to make up for the HPAA's many failures. Takeoff Weight Augmentation is another "crutch" in that 22 HPAAs are generally just barely enough to get you through a normal time limit lobby, if you aren't being extraordinarily shrewd. Having extra missiles would be useful for a fledgling HPAA user though.
+>Blisk was chosen over VCE specifically due to the higher acceleration (despite the descriptions being the same), Cutting-Edge Airbrakes to make low-speed energy fighting easier, New Flaps and SupMan are bogstandard, Cutting Edge Large Flap had some kind of reasoning behind it, but I kinda forgot. **[---Editor's note: It's the increased deceleration, which when coupled with Airbrakes gives the plane an even tighter turn radius---]** BFTs are sort of a crutch, but you are a paper mache plane if you don't have BFTs on the 29 as well (many, and I mean many missiles will OHKO or 2HKO you) but I've mostly relied on dodging. DPF to OHKO Wyverns and tougher bastards, High-Energy Propellant and Steering Device to make up for the HPAA's many failures. Takeoff Weight Augmentation is another "crutch" in that 22 HPAAs are generally just barely enough to get you through a normal time limit lobby, if you aren't being extraordinarily shrewd. Having extra missiles would be useful for a fledgling HPAA user
+ though.
 
 >2400 Rafale M HCAA
 https://arch-img.b4k.co/vg/1675558829806.png

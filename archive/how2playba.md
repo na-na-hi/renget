@@ -144,14 +144,15 @@ A good start is upgrading ur Serina to 2\*, as she's your best friend early on.
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet. 
 
-You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
-You get the biggest return on investment (ROI) by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills. 
-
-If you want a specific guide, [use this one for raids (and skill priority)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this one for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
+[Use this one for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this one for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
 The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
 
 ![how to use excel](https://i.imgur.com/QHrepqU.png)
 Make sure to read the extra notes on the right as well. 
+
+You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
+You get the biggest return on investment (ROI) by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills. 
+
 
 If you want to plan ahead with your investments, you can use [the planner](https://justin163.com/planner/) to see how much you exactly need. 
 ![Seeing your cool stuff](https://i.imgur.com/i1aXm3X.png)
@@ -432,7 +433,7 @@ Any AP that crosses the max limit (999) gets sent to your bank. It expires in 7 
 >Lessons
 For the Schale areas: at rank 10 you unlock receiving choice tickets on top of the regular drops when you're doing your lessons. Pretty neat
 The max rank for an area is 12.
-Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. As there are only 7 areas (8 in JP), and 80/7 = 11 + 3/7, I'd suggest maxing out every area. 
+Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. As there are only 7 areas (9 in JP), and 80/7 = 11 + 3/7, I'd suggest maxing out every area. 
  
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.

@@ -10,13 +10,14 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(04/30) PygmalionAI release two 7B LLaMA-based models
+https://huggingface.co/PygmalionAI
+\>(04/29) GPT4 X Alpasta 30B Merge
+https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit
 \>(04/25) Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
 https://github.com/anon998/simple-proxy-for-tavern
 \>(04/23) OASS 30B released & quantized
 https://huggingface.co/MetaIX/OpenAssistant-Llama-30b-4bit
-\>(04/22) SuperCOT LoRA (by kaiokendev), merged by helpful anons
-https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda
-https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 
 ►**GitHub Heist QRD**
 https://rentry.org/Jarted
@@ -246,6 +247,7 @@ Miku.sh | ◕ | https://pastebin.com/vWKhETWS
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+04/22/2023 | SuperCOT LoRA (by kaiokendev), merged by helpful anons https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
 04/21/2023 | StableLM models performing terribly, are apparently broken. https://github.com/Stability-AI/StableLM/issues/30
 
