@@ -101,7 +101,7 @@ Now that you know what the different prompt do and are best for. Let's go over a
 
 **Prioritize rules**. You need to tell the AI what you want it to do. Give it clear and simple prompts. First, tell it the rules, guides or things that it has to follow. For example, say that this is a roleplay, that it has to act like some characters, that it has to say what it does in detail, that it has to stay away from clichés, that it has to use some words or ways of talking, etc. Rules should always be the first thing in a prompt. After you tell the rules, you can tell the AI what it has to do, include or not.
 
-**Avoid inconsistency**. Maintaining consistency in your prompts is key to getting the desired response from the AI. This means using proper grammar and sentence structure. Although I'm not great at grammar myself, I always strive for consistency in my prompts. Take, for example, the following poorly written prompt: `While you're roleplaying, always stay in character, never break character, and never speak as the user. All interactions should start with user input. Buildings must be described well, and all sexual content should be explicit and arousing.` It has errors, too many commas, and the prompts don't make sense together. A better version that maintains consistency might look like this: `You are now roleplaying as {{char}}. It's crucial to stay in character at all times and avoid speaking as the user. Progress should never be made without user input. When depicting sexual content, be sure to use sensual details and describe characters as aroused. Additionally, all buildings should be described in meticulous detail.` This version has proper sentence structure and descriptive language, making it clear what the prompts are asking for. Also, I separated the building prompt from the character prompts to ensure it's understood as a separate instruction.
+**Avoid inconsistency**. Maintaining consistency in your prompts is key to getting the desired response from the AI. This means using proper grammar and sentence structure. Although I'm not great at grammar myself, I always strive for consistency in my prompts. Take, for example, the following poorly written prompt: `While you're roleplaying, always stay in character, never break character, and never speak as user All interactions should start with user input. Buildings must be described well, and all sexual content should be explicit and arousing.` It has errors, too many commas, and the prompts don't make sense together. A better version that maintains consistency might look like this: `You are now roleplaying as {{char}}. It's crucial to stay in character at all times and avoid speaking for {{user}}. Progress should never be made without {{user}} input. When depicting sexual content, you're encouraged to use explicit details and describe characters as aroused. All buildings should be described in meticulous detail.` This version has proper sentence structure and descriptive language, making it clear what the prompts are asking for. Also, I separated the building prompt from the character prompts to ensure it's understood as a separate instruction.
 
 **Use of special symbols**. Using special symbols like quotation marks and parentheses can help draw attention to specific text within a prompt for the AI. Quotation marks can indicate that certain text is important and should be given more weight by the AI. This can be especially helpful in longer prompts where certain parts need to stand out. Parentheses can also be used to provide additional guidance to the AI on how to respond, such as adding an "OOC" note to indicate that certain text is out of character. However, it's important not to overuse these symbols as it can make the prompt more confusing and less effective.
 
@@ -162,7 +162,7 @@ Now run with `node server.js`
 Shortcut w/ shell script | -
 - | -
 Optionally, you can also make a shell script to run it with one command for your convenience:
-`echo "cd silly && node server.js" | cat > start`
+`echo "cd silly && npm install && node server.js" | cat > start`
 `chmod +x start`
 And the next time you want to start, simply do: `./start` | [Shell script & Start](https://i.imgur.com/0WFVK2f.jpg) 
 
@@ -200,27 +200,33 @@ The Key takeaway here is to look for huggingface links, navigate to the site and
 As a retard guide, I'll include some of the links being shared, but I will **not** be keeping them up-to-date as /aicg/ burns through threads..
 You can check the availability of Turbo and GPT4 Keys here: https://alwaysfindtheway.github.io/ 
 ```
-"GPT Keys"
-https://whocars123-oai-proxy.hf.space/proxy/
-https://whocars123-oai-proxy2.hf.space/proxy/
-https://anonjegger340-coom-tunnel.hf.space/proxy/
-https://gookproxy-coomlemon.hf.space/					<- "Korean bro's (?)"
-https://maceter636-8874416364.hf.space/proxy/			<- "Ivans Key"
-https://lee-myo-biyanna.hf.space/						<- "Another Gook"
+"Todd Howards: GeePeeTeeFo - Unfiltered Skyrim Edition - Courtesy of cunnychads."
+https://toddbot.net/v1
+https://c857d09db23e6822e3.gradio.live/v1
+
+"GPT4 Keys"
+https://whocars123-oai-proxy.hf.space 	<- "Whocars CIA enforced, logged and monitored 24/7 - Extreme caution: No password."
+https://neurokun-z-1488.hf.space 		<- "Rusky proxy - Requires Russian Captcha - You have 20 seconds - Instructions change"
+https://aicg-moxxie-proxy.hf.space 		<- "Requires Access Token:  Often revealed here: https://rentry.org/moxxie_proxy"
 
 "GPT Keys but prompts are logged."
-https://anonjegger340-logged-cooms.hf.space/
-https://whocars123-public-test.hf.space/
+"None currently"
 
 "Endpoint Not found - Aka broken proxies"
+https://anonjegger340-logged-cooms.hf.space/
+https://whocars123-public-test.hf.space/
 https://nocars-oai-proxy.hf.space/proxy/
 https://khanon-oai-proxy.hf.space/proxy/
 https://moxxie-knolastname-530560494330.hf.space/proxy/
-https://maceter636-7282349227.hf.space/proxy/			<- "Ivan's GPT4 (Password required)"
-https://testingcodehere-oai-proxy.hf.space/				<- "GPT4 Key, 29% (?)"
-
-"Owari da! RIP"
-"Todd Howard's TES: GeePeeTee four(3.75) Experience."
+https://maceter636-7282349227.hf.space/proxy/
+https://testingcodehere-oai-proxy.hf.space/			
+https://whocars123-oai-proxy.hf.space/proxy/
+https://whocars123-oai-proxy2.hf.space/proxy/
+https://anonjegger340-coom-tunnel.hf.space/proxy/
+https://gookproxy-coomlemon.hf.space/					
+https://maceter636-8874416364.hf.space/proxy/		
+https://lee-myo-biyanna.hf.space/			
+https://ahhahhmistress243-ahhahh.hf.space/proxy/			
 https://c857d09db23e6822e3.gradio.live/v1
 ```
 If you attempt to connect to a valid proxy link but receive the message "**Endpoint not found**" in the console, this indicates that the proxy is currently offline. This means that the link does not connect to any server. You can verify the link, but as long as it ends with /openai/v1, it should be the correct link. It is possible that the owner of the proxy has shut it down. "**Access token Invalid**" means that the api key is incorrect, for proxies that means it's gated behind password. Input the password as the API key to acccess it. Don't know it? Find another proxy.
@@ -240,3 +246,5 @@ Updates:
 04/10: Added new Termux instructions, curtesy of Linux anon /aicg/, depecrated TL;DR linux instructions, Rewrote the system prompt section, added some videos, reworked Linux nano editing, Revamped the 'Overview of Tavern', to explain better and more in-detail. Prettied it up and fixed alot of spelling errors.
 04/10: Added Termux guide for android users, added TL;DR Section for Windows and Termux install, explained swipes and cleaned up some typos and enlarged some images.
 04/09: First finished version.
+***
+*If you have any input for how to improve, add or generally something that is unclear -- BigTrasher@proton.me*

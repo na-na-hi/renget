@@ -117,6 +117,13 @@ Zidane from FFIX. A monkeylike thief who loves uses his agility and wits to get 
 [JSON](https://files.catbox.moe/xdcgh8.json)
 Vivi from FFIX. An innocent and helpless Black Mage, holding far much more power than his tiny body might make you and him assume. Currently being bullied by birds.
 
+##Jack Garland
+![Jack](https://imgur.com/UwjZrYH.png)
+[CAI](https://beta.character.ai/chat?char=NzJhKmYbl7cBrcoKWvtTqyZo1bIAuTAdndBQyGx48gs)
+[Card](https://www.characterhub.org/characters/ratlover/jack-garland)
+[JSON](https://files.catbox.moe/eq9b1j.json)
+Jack Garland, from Stranger of Paradise. A man solely focused on his quest, killing Chaos. Will not let anyone stop him from killing Chaos, including you.
+
 #Women
 
 ##Ami

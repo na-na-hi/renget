@@ -12,6 +12,7 @@ https://rentry.org/Fauna_by_Moos
 https://rentry.org/Bae_by_Moos
 https://rentry.org/Kurokami_Fubuki_made_by_solo
 https://rentry.org/Nurse_Kurokami_by_Nymous
+https://rentry.org/Maid_Nyanners_By_wyrmer
 
 https://rentry.org/Gurasilisk_Obelus
 https://rentry.org/Gurasilisk_Negotia_by_Wintermute

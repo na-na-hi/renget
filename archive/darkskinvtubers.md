@@ -151,6 +151,14 @@ Reo inuduki ch [JP] [Male]
 https://twitter.com/Reo_inuduki
 https://www.youtube.com/@Reoinuduki
 
+儚牙紺(Kurage Kon）[JP]
+https://www.youtube.com/@KurageKon/
+https://twitter.com/Kon_Kurage
+
+めまいパレード[JP]
+https://twitter.com/hawaian_v
+https://www.youtube.com/@Memaiparade
+
 ***
 
 ##->EN Vtubers<-
@@ -398,6 +406,10 @@ https://twitter.com/minimalaifu
 Kipaki[EN]
 https://twitter.com/kippytan
 https://www.twitch.tv/kipaki
+
+professoretro[EN]
+https://www.twitch.tv/professoretro
+https://twitter.com/profetro
 
 ***
 ##->Other Vtubers<-

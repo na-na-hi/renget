@@ -1,4 +1,20 @@
 ▶NEW CLIPS
+>Pavlograd explosion shockwave
+https://files.catbox.moe/ky4ea4.mp4
+https://files.catbox.moe/q5k46i.mp4
+https://files.catbox.moe/s3qte0.mp4
+>Wagner, Bakhmut combat footage
+https://files.catbox.moe/hlg2yf.mp4
+>Lancet vs. Gvozdika
+https://files.catbox.moe/vjf8sk.mp4
+>Moar Road of Death
+https://files.catbox.moe/q6oz2p.mp4
+https://files.catbox.moe/vin5ot.mp4
+https://files.catbox.moe/rwxvhz.mp4 (NOT COMFY)
+>KA-52 and MI-28 combat footage from last fall
+https://files.catbox.moe/e8ocg3.mp4
+>Powerful explosion in Pavlograd, shock wave shattered the windows
+https://files.catbox.moe/k83a1t.mp4
 >Tu-95s heard departing Russian airbase
 https://files.catbox.moe/k1np38.mp4
 https://files.catbox.moe/49ca6r.mp4

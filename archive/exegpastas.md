@@ -50,6 +50,7 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 *My Good Friend Sonic* (TooFast.exe)|[(link)](https://arch.b4k.co/vg/thread/419195395/#419433207)
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb)
+Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 
 ##Non-vidya pastas
 Title|Link

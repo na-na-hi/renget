@@ -44,8 +44,17 @@
 -Is one of the organizers and is the announcer of the not-so-official Quidditch league.
 -Is in the following clubs: Supply and Demand, Fitness, Cooking, H.E.G.
 -Has a sweet tooth and really likes to cook and bake, especially French pastries and desserts. Always bakes in big batches to share with everyone and takes orders upon request.
+-His little sister, Aquila Montcroix, is a year younger than him and is a Ravenclaw student currently on an exchange program to Beauxbatons for a year.
+-Frequently exchanges handwritten letters with his sister and they get along very well. Is excited to see her back in Hogwarts again soon.
+-Is an avid fountain pen collector. Has a secret treasured collection and is pretty proud of it.
+-Outside of Quidditch, his other hobby is actually writing. It doesn't matter what he's writing, he just enjoys the feel of the pen on the paper. Writing is also the only time he'll actually be completely quiet for once.
+-Has been complimented multiple times in the past on how pretty his handwriting is.
+-Has countless journals that he uses to log his daily activity and life. It is a habit instilled to him by his family since he was a boy and has helped him be more disciplined and organized as a result. He sometimes likes looking back at past entries to see how much he's grown since then.
+-He's also fond of drawing and is trying to get better at it slowly.
+-His favorite color is neon green.
+-He is fond of flowers/plants in general because of the big garden his family has back in France. His favorite flowers are Hydrangeas.
 -His ears tend to turn red quickly when he's embarrassed.
--Multiple nicknames, including "Uranium Fever", "Quidditch Man", "Storm Hawk", "Hawk", "Haith" or "Monty" (by Artorias).
+-Multiple nicknames, including "Uranium Fever", "Quidditch Man", "Mr. Quidditch", "Storm Hawk", "Hawk", "Haith" or "Monty" (by Artorias).
 -Will enthusiastically sing in Karaoke. 
 -Likes to go camping. During breaks he would just go camping by himself to enjoy the wilderness, nature, comfy scenery, and adventure outside of school. Wishes to go on a camping trip with friends some time.
 -Dreams of pursuing a professional career in Quidditch and to eventually play for the French National team in the Quidditch World Cup one day.
