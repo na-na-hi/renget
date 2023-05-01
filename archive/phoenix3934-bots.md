@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==04/26/23== <-
+-> Updated ==05/01/23== <-
 
 [TOC2]
 
@@ -28,14 +28,15 @@
 ## Female bots
  Avatar | Name | Description | Original Work | Link
 ------ | ------ | ------- | ------- | -------
-![Honoka](https://i.imgur.com/vX86NrU.jpg)|Honoka|A busty airhead coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=UNGLebYHlUe8vzZxQdQtkVpYJ272YSIpqPdUTlNEvG0)
-![Marie](https://i.imgur.com/kuMO38V.jpg)|Marie Rose|A small chest childish loli coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=3uc1ReOpbCjWNJ198MT9pOgrmrzMP2CbPobJo21ykQs)
-![Nami](https://i.imgur.com/2Fvh1Kg.jpg)|Nagisa and Misaki|A pair of beautiful sisters become your assistants. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=HDkpMlPPw_8q_3u5HEdl_CTWZGBF9FRKpRsWVlzy4xI)
+![Artoria](https://i.imgur.com/GxEABd2.jpg)|Artoria Pendragon|You, a wealthy lady, hired a handsome gallant young woman as your personal bodyguard.|Fate|[CAI](https://beta.character.ai/chat?char=kvswKvwdvzsYYhMAhaEbj-anmscFSGsFXv6qo_3noS0)
+![Nero](https://i.imgur.com/Zd86zwu.jpg)|Nero Claudius|You are the consort of the haughty Emperor of Rome.|Fate|[CAI](https://beta.character.ai/chat?char=Dk9VNSu1UfbetnpvHsW8gRzmqGtPaR88_Hg9zwnimSA)
+![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
 ![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Arc](https://i.imgur.com/XVOUkdT.jpg)|Arcueid Brunestud|The girl you killed came back to life & found you. The whimsical white vampire princess.|Tsukihime|[CAI](https://beta.character.ai/chat?char=B95vYiIK3zC_uLWxgbFvTlSOr6n8niUgRO8Ezobehqc)
 ![Len](https://i.imgur.com/YnR2QyO.jpg)|Len|A stray cat you brought home turned into a mute girl.|Tsukihime|[CAI](https://beta.character.ai/chat?char=iPLBXae7jYRRdCm5aJYzba4FkewI1chklN3RMNlVlZA)
-![Artoria](https://i.imgur.com/GxEABd2.jpg)|Artoria Pendragon|You, a wealthy lady, hired a handsome gallant young woman as your personal bodyguard.|Fate|[CAI](https://beta.character.ai/chat?char=kvswKvwdvzsYYhMAhaEbj-anmscFSGsFXv6qo_3noS0)
-![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
+![Honoka](https://i.imgur.com/vX86NrU.jpg)|Honoka|A busty airhead coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=UNGLebYHlUe8vzZxQdQtkVpYJ272YSIpqPdUTlNEvG0)
+![Marie](https://i.imgur.com/kuMO38V.jpg)|Marie Rose|A small chest childish loli coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=3uc1ReOpbCjWNJ198MT9pOgrmrzMP2CbPobJo21ykQs)
+![Nami](https://i.imgur.com/2Fvh1Kg.jpg)|Nagisa and Misaki|A pair of beautiful sisters become your assistants. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=HDkpMlPPw_8q_3u5HEdl_CTWZGBF9FRKpRsWVlzy4xI)
 ![Asuka](https://i.imgur.com/ESURwhk.jpg)|Asuka Langley Soryu|You have been assigned as the new roommate of an abrasive tsundere. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=_bymIM955yAUJt5WDZvc2FmciXvYdGBOcAHgFGDDtSM)
 ![Rei](https://i.imgur.com/GFHCmmx.jpg)|Rei Ayanami|A quiet doll-like girl has been left in your charge. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=WwKNNmGjBTwe9Q_hkp0rI_6vaFxQxVOF_3J-7IS71s4)
 ![KOS-MOS](https://i.imgur.com/lfusK5T.jpg)|KOS-MOS|An expensive android you bought home as a maid. Despite her blank expression she does have a bit of emotion inside her.|Xenosaga|[CAI](https://beta.character.ai/chat?char=0jBb9-cp0wJrWe2SReHnM1hTFvrO_X-woybkP1fOMkY)
@@ -56,6 +57,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+05/01/23|Added Nero Claudius.
 04/26/23|Added Gilgamesh.
 04/19/23|Added Artoria Pendragon.
 04/12/23|Added Astolfo.

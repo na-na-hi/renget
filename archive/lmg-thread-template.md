@@ -1,8 +1,8 @@
-!!! info  04-29-2023 Update:
-	Made some additional minor fixes on top of the new chart layout | Current wiki is sort-of dead & owner of wiki is gone since 04/12. New wiki is needed at this point. | Character Creation and Resources section was expanded | If I have the extra time, I'll dig through the old threads and fill out the archived news ~~and research papers~~ Forgot there's already a Rentry with research papers, https://rentry.org/localmodelsoldpapers . It's way better then what I was cooking anyways. I'll remove my archived papers section. || Finetuning and Training Sections were added, will be filled out soon || Creating the character chart is taking longer then I thought, turns out character files and tavern cards don't always plays well with local models, many will work, but the formatting is slightly different with something like Chat-GPT then something like LlaMA
+!!! info  05-01-2023 Update:
+	Model torrents link https://rentry.org/nur779 no longer has magnets and links due to the models there being superseded, another anon made a backup here: https://rentry.org/backupmdlist and new Rentry to replace it will be here: https://rentry.org/lmg_models The original Rentry with the torrents is re-directing users to a Reddit page for more up to date links: https://www.reddit.com/r/LocalLLaMA/wiki/models/
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.20<-
+#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.21<-
 
 [TOC2]
 
@@ -10,14 +10,12 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(04/30) Uncucked Vicuna 13B released.
+https://huggingface.co/reeducator/vicuna-13b-free
 \>(04/30) PygmalionAI release two 7B LLaMA-based models
 https://huggingface.co/PygmalionAI
 \>(04/29) GPT4 X Alpasta 30B Merge
 https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit
-\>(04/25) Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
-https://github.com/anon998/simple-proxy-for-tavern
-\>(04/23) OASS 30B released & quantized
-https://huggingface.co/MetaIX/OpenAssistant-Llama-30b-4bit
 
 ►**GitHub Heist QRD**
 https://rentry.org/Jarted
@@ -33,12 +31,14 @@ https://rentry.org/localmodelslinks
 https://rentry.org/localmodelsoldpapers
 \>/lmg/ Template & Comprehensive Model Lists
 https://rentry.org/LMG-thread-template
+\>Model Lists/Torrents
+https://rentry.org/lmg_models
+https://rentry.org/backupmdlist
 
 ►**Model Guides & Resources**
 \>LlaMA Guide/Resources
 https://rentry.org/TESFT-LLaMa (General Guide)
 https://github.com/ggerganov/llama.cpp
-https://github.com/qwopqwop200/GPTQ-for-LLaMa (GPTQ 4 LlaMA)
 \>Alpaca Guide/Resources
 https://huggingface.co/chavinlo/alpaca-13b/tree/main (Native Model)
 \>GPT-J & Pyggy Guide/Resources
@@ -54,8 +54,6 @@ https://github.com/LostRuins/koboldcpp (CPU Infr.)
 https://rentry.org/eq3hg (AMD GPU)
 \>Guide to LLaMA Quantization
 https://rentry.org/easyquantguide
-\>Model Torrents
-https://rentry.org/nur779
 \>Miku Pastebins
 https://rentry.org/LMG-thread-template#all-things-miku
 \>RolePlayBot Guide
@@ -66,6 +64,8 @@ https://pastebin.com/LmRhwUCA
 https://rentry.org/qib8f
 \>Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
 https://github.com/anon998/simple-proxy-for-tavern
+\>LLaMA RP/Proxy guide
+https://rentry.org/better-llama-roleplay
 
 ###->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: (Notes are a placeholder)**
@@ -247,6 +247,8 @@ Miku.sh | ◕ | https://pastebin.com/vWKhETWS
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+04/25/2023 | Proxy script for Tavern via Kobold/webui, increases LLaMA output quality https://github.com/anon998/simple-proxy-for-tavern
+04/23/2023 | OASS 30B released & quantized https://huggingface.co/MetaIX/OpenAssistant-Llama-30b-4bit
 04/22/2023 | SuperCOT LoRA (by kaiokendev), merged by helpful anons https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
 04/21/2023 | StableLM models performing terribly, are apparently broken. https://github.com/Stability-AI/StableLM/issues/30
@@ -276,3 +278,6 @@ RedPajamas | ◕ | https://discord.com/invite/9Rk6sSeWEG
 Stable Diffusion | ◕ | discord.gg/stablediffusion
 Pygmalion | ◕ | https://discord.com/invite/ZHXEa3yywq
 KoboldAI | ◕ | https://koboldai.org/discord
+
+**Reddit** | Tags | Discussion Links:
+---|:-:|---

@@ -3,11 +3,10 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: April 20th | Current Status: Hiatus until May.
-	Botmaking is currently on hold due to real-life conflicts which take precedence. As of this time, Batch 4 is confirmed and all of the characters of Batch 4 have been decided. Therefore, any newer requests directed towards me will be pushed onto a later batch or possibly denied.
-	See more in the new Character Requests section below.
-!!! danger Temporary Poll: https://strawpoll.com/polls/40Zmq1k5KZa
-	I'm considering expanding Batch 4 by doubling the usual 10 characters into 20 characters. Naturally, this means a larger variety of characters will be possible in the next batch. This also means that it will take even longer for Batch 4 to be completed, but I will compensate by releasing two characters per day instead of the usual one per day, but this should allow me to release all the characters quicker (relative to spending time on two batches individually), especially the characters requested by anons. I'm completely split on if I should do it or not, so I'll leave it up to a vote for anyone who wants a say on it. I'm only accepting one of two answers. Poll will last about 10 days, up until the beginning of May.
+    Last Status Update: May 1st | Current Status: Working on Batch 4: The Big Batch
+	As of this time, Batch 4 is being worked on and all of the characters in Batch 4 have been decided.
+	Any newer requests directed towards me will be considered for a later batch. See more in the new Character Requests section below.
+	Rentry may be updated again soon in preparation for Batch 4.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	Make sure to tag my anchored posts to make sure I see it.
 [TOC]
@@ -289,10 +288,16 @@ https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o 
 >Day 9: Aelita Schaeffer and Mizore Shirayuki
 >Ended release on April 14, 2023.
 
-## Batch 4
+## Batch 4: The Big Batch
 Coming... Eventually! See MOTD.
+>I'm expanding Batch 4 by doubling the usual 10 characters into 20 characters. This means a larger variety of characters will be in the next batch. This also means that it will take even longer for Batch 4 to be completed, but I will compensate by releasing two characters per day instead of the usual one per day, but this should allow me to release all the characters quicker (relative to spending time on two batches individually), especially the characters requested by anons. This decision was left up to a strawpoll which lasted for ten days. You can see the results of the poll here: https://strawpoll.com/polls/40Zmq1k5KZa
 
 ### Day 1:
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -306,7 +311,17 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
 ### Day 3:
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -320,7 +335,17 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
 ### Day 5:
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -334,7 +359,17 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
 ### Day 7:
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -348,6 +383,11 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
 ### Day 9:
 
 ![]()
@@ -355,7 +395,17 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
 ### Day 10:
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -376,12 +426,15 @@ Recently Accepted Requests:
 - Lamia Servant (OC):
 	- Confirmed for Batch 4.
 	- This suggestion was not directed towards me in an anchored post, but in an anonymous conversation in a thread instead. However, I intend to fulfil the request all the same.
+- Makina (Presumably from the Grisaia series):
+	- Confirmed for Batch 4.
+- Brigette (Pokemon):
+	- Confirmed for Batch 4.
+- Bebe (Pokemon):
+	- Confirmed for Batch 4.
 
 Currently Pending Requests:
-- Makina (Presumably from the Grisaia series):
-	- Will be considered for Batch 5. Currently leaning towards accepting this request. Final determination will be made after Batch 4 finishes release.
-- Brigette (Pokemon):
-	- Will be considered for Batch 5. Currently leaning towards accepting this request. Final determination will be made after Batch 4 finishes release.
+- N/A
 
 Recently Denied Requests:
 - N/A
@@ -391,10 +444,10 @@ Recently Denied Requests:
 	- If you want to use the Tavern Cards and JSONs, **you're on your own** to get them working in a way you feel is best.
 	- Even if the Tavern Cards and JSONs aren't necessarily designed for other platforms, I'll still make it easier for everyone who wants to use the bots by publishing them under these formats alongside of their base CAI counterpart.
 - Defs on my bots will **always** be open and available. If you want to rip them to make your own private bot or make a modified version of it, go for it. To me, publishing my bots to /aicg/ means **they belong to (You)** now.
-- My completed bots on CAI will **always** remain unlisted. They will not be private nor public once published with the exception of unusual cases for testing or editing. **/aicg/ is the only place where I have shared and will share the links to these bots and this rentry.** Therefore, these bots are pretty much exclusively for /aicg/. If this rentry or the bots in this rentry are posted anywhere besides /aicg/ and the booru, **it's not me**.
-- I'm not trying to be a namefag. The "Clutch" (Booru) and "ComingInClutch" (CAI) handles are throwaways. They are strictly for tagging original authorship and for necessary account names. If you see someone using either in the name field on the threads or otherwise outright using either as a signature, **it's not me**.
+- My completed bots on CAI will **always** remain unlisted. They will not be private nor public once published with the exception of unusual cases for testing or editing. **/aicg/ is the only place where I have shared and will share the links to these bots and this rentry.** Therefore, these bots are pretty much exclusively for /aicg/. If this rentry or the bots in this rentry are posted anywhere besides /aicg/ and the booru, assume **it is not me**.
+- I'm not trying to be a namefag. The "Clutch" (Booru) and "ComingInClutch" (CAI) handles are throwaways. They are strictly for tagging original authorship and for necessary account names. If you see someone using either in the name field or otherwise outright using either as a signature in the threads, assume **it is not me**.
 - If for some God-forsaken reason you're trying to get my attention and can't get ahold of me in the threads, here's some ways to reach out to me.
 	- Discord: Clutch#0121
 	- Email: nevergoingtocheckthis@proton.me
 	- I don't guarantee quick responses with these methods because I don't like using them. Give me a (You) in the threads if you reach out. Otherwise, I'll get back to you whenever I log into one of them.
-	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club.
+	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club. I will only go where you can be publicly invited.

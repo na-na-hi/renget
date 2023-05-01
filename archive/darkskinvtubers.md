@@ -395,6 +395,10 @@ MinimaLaifu[EN]
 https://www.twitch.tv/minimalaifu
 https://twitter.com/minimalaifu
 
+Kipaki[EN]
+https://twitter.com/kippytan
+https://www.twitch.tv/kipaki
+
 ***
 ##->Other Vtubers<-
 BunnyBlasty[ES]

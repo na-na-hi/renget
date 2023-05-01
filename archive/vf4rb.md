@@ -3,7 +3,7 @@
 ##Main Story: 
 
 https://rentry.org/kuwby 	Day 0: The Sorting Ceremony (Includes: "dyke"anon, Haitham)
-https://rentry.org/exvx2 	 Day 1: Potions (Includes  My)
+https://rentry.org/exvx2 	 Day 1: Potions (Includes My)
 https://rentry.org/bamt3 	Day 2.1: The Swim (Includes: Amelia, Haitham)
 https://rentry.org/wawos 	Day 2.2: The Toad (Includes  Alice)
 https://rentry.org/4h5ve 	 Day 3: The Swan Escaped (Includes: Hannah, Alice, Rout)
@@ -30,4 +30,4 @@ https://rentry.org/4cpmwk Extra: Midnight Walk (Starring: Someone)
 
 ##One time
 https://rentry.org/mt832  Extra: A Blessing in Disguise (Includes: Margaret's parents) *WARNING: Romance, kissing* 
-https://rentry.org/v94ys  Extra: ??? *WARNING: Bullying*  only added for archiving's sake, I did NOT like writing this at all.
+https://rentry.org/v94ys  Extra: ??? *WARNING: Bullying*  only added for archiving's sake, I did NOT enjoy writing this at all.

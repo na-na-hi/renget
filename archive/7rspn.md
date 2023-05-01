@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>Tu-95s heard departing Russian airbase
+https://files.catbox.moe/k1np38.mp4
+https://files.catbox.moe/49ca6r.mp4
+https://files.catbox.moe/8udqan.mp4
+>New explosion in Pavlograd
+https://files.catbox.moe/8fd5p8.mp4
+>Explosion in the Dnepropetrovsk region
+https://files.catbox.moe/t0o53j.mp4
+>After strike on Pavlograd chemical plant, a lot of shells to the S-300 detonated, caused smoke to fill sky
+https://files.catbox.moe/rci37v.mp4
+>Massive explosion's at Pavlograd railyard after airstrike
+https://files.catbox.moe/4o9fzv.mp4
 >Lancet pilot Sam Hydrov destroys 2S1 Gvozdika
 https://files.catbox.moe/aj4cvj.mp4
 >UA channel post video of Russian on Dnepr river being killed

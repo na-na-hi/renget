@@ -66,13 +66,13 @@ Percival perched on the guild diligently
 
 Chespin lifting Minun with his vines to pick an apple from a tree
 
-Phanpy and friends in winter outfit (in progress)
+~~Phanpy and friends in winter outfits~~
 
 Phanpy and friends at the blue claw inn
 
-Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall (in progress)
+~~Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall~
 
-Alakazam wearing a pointy white sheet over his head
+~~Alakazam wearing a pointy white sheet over his head~~
 
 ~~Chespin holding a large blanket over his head ala Legend of Zelda~~
 

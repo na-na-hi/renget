@@ -143,6 +143,12 @@ Non W++ version: https://files.catbox.moe/flvmpk.png
 ==Total Tokens:== 
 - 518 (With example messages)
 - 318 (Without example messages)*
+#####Risa (Phantasy Start Online 2) 
+Non W++ version: https://files.catbox.moe/5k6u71.png
+
+==Total Tokens:== 
+- 511 (With example messages)
+- 249 (Without example messages)*
 
 *\*Also without first message*
 

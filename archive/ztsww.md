@@ -47,5 +47,5 @@ The beautiful, dramatic scene was interrupted by yet another loud entrance: Pent
 
 The entire Hog's Head fell silent, Euphemia held James tight, babbling about ghosts; the new Prefect spoke up "What are you all doing here? Why are you looking at me like that?" She approached the table full of staring, dumbfounded students "AH the flyers! I spent all morning tearing these down! I'm not dead! That's a fake picture! The tongue and the eyes are clearly drawn in!"
 "YOU'RE ALIVE?!" yelled the whole group simultaneously, in surprise.
-Behind the counter, a sneaky little merchant added a pair of badges to the "For Sale" display on the bar, cackling evilly as she caressed Mr Piggy.
+Behind the counter, a sneaky little merchant added a pair of buttons to the "For Sale" display on the bar, cackling evilly as she caressed Mr Piggy.
 The large group of students stared in silence before erupting in laughter.

@@ -47,10 +47,11 @@ This will delete the account stored on the computer without deleting the game it
 !!! note Consider using a phone or Bluestacks before going through DMM, if you aim to re-roll. The first account you log in to a particular DMM account with, will be bound to that account. Might as well make it one you actually want.
 
 
-##->Who do I reroll for?<-
+##->Who do I reroll for, as a new/returning player? <-
 Updated: March 31st, 2023
 
-Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 of the 16 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
+**TL;DR - If you don't get Neneka & Ames in the first spark, consider re-rolling if you have the patience. Free 3* from Tutorial is not relevant, just a nice cherry on top.**
+Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 of the 16 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies and returning players have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
 The following list is for new players to target, as some units are amazing - But require a ton of investment before they're actually good. 
 
 ###->S Tier - Must roll for good start<-
@@ -81,7 +82,32 @@ The following list is for new players to target, as some units are amazing - But
 **Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.
 
 ### ->D tier - Not worth rolling for at this time<-
-**Muimi** - No place for her until 6*. Has a Unique Equip, but is still outmatched. Check back when she gets a 6 Star.
+**Muimi** - No place for her until 6*. Has a Unique Equip, but is still outmatched. Check back after her 6* is released in early May.
+
+### -> Overall Prifes tier list <-
+Please note, the following is written for how these units are for max level players. (From best to worst = SS > S > A > B > C > D > F)
+If you have a different option, discuss in the thread and it can be discussed.
+
+Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
+:----: | :----: | :----: | :----: | :----: | :----: | :----: 
+Christina | SS | C  | B | S | Yes | Yes
+Muimi | F | F | C | C | Yes | Coming soon
+Neneka | SS | D | SS | SS | Yes | No
+P.Peco | C | A | C | B | Yes | No
+P.Kokkoro | B | C | A | A | No | No
+P.Yui | D | B | C | C | Yes | No
+Laby | SS | F | SS | S | Yes | No
+P.Hiyori | S | F | A | B | Yes | No
+P.Kyaru | A | B | S | S | Yes | No
+P.Rei | C | A | SS | A | No | No
+Hatsu/Shio | C | D | B | A | No | No
+Homare | S | F | SS | S | No | No
+LL Trio | C | F | B | C | No | No
+Ranpha | B | F | A | A | No | No
+Aki/Saren | S | F | S | S | No | No
+Ames | SS | SS | SS | SS | No | No
+GreAnne | SS | F | SS | SS | No | No
+Misora | A | F | SS | A | No | No
 
 ##->Limited targets<-
 These units are only available during their specific banners and should be considered must-haves for anyone.
@@ -90,7 +116,7 @@ These units are only available during their specific banners and should be consi
 **New Years Kyaru** - Still great for nearly all game modes aside from Clan battle now, best to save a spark for her. 
 **New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year.
 **Swimsuit Saren** - Useful in every single game mode, grab her when possible.
-**Liberator(Sex) Nozomi**  - Similar to S.Saren, she is slated to be extremely useful in all game modes for physical teams.
+**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to use UBs very early, but better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount.
 
 ##->Permanent Targets<-
 While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions.
@@ -146,7 +172,7 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Arisa (2 Nodes)
 - Jun (2 Nodes, 3 Nodes in Side Story)
 - Angel Yori (1 Node)
-- Eriko (8 Nodes)
+- Eriko (8 Nodes, 2 in Side Story)
 - Magical Monika (1 Node) 
 - Shefi (1 Node)
 - Tomo (1 Node, 5 Nodes in Side Story)
@@ -157,16 +183,16 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Ranger Rin (1 Node)
 - Inori (1 Node)
 - Rima (7 Nodes)
-- Mifuyu (8 Nodes)
+- Mifuyu (8 Nodes, 2 in Side Story)
 - Ninon (3 Nodes)
-- Saren (3 Nodes)
+- Saren (3 Nodes, 5 in Side Stories)
 - Pecorine (8 Nodes)
-- Shizuru (3 Nodes)
-- Aoi (8 Nodes)
-- Kurumi (8 Nodes)
-- Yuki (8 Nodes)
-- Kyouka (1 Node)
-- Kasumi (1 Node)
+- Shizuru (3 Nodes, 2 Nodes in Side Story)
+- Aoi (8 Nodes, 2 in Side Story)
+- Kurumi (8 Nodes, 2 in Side Story)
+- Yuki (8 Nodes, 2 in Side Story)
+- Kyouka (1 Node, 2 in Side Story)
+- Kasumi (1 Node, 5 in side stories)
 
 ##->Frequently Asked Questions<-
 

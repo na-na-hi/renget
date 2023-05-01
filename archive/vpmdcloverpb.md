@@ -28,6 +28,7 @@
 >- Has a tendency to overthink and overanalyze things.
 >- Endlessly fascinated with the world.
 >- Relatively new compared to some of the others - arrived in the world a day and a half (the afternoon before) the events of "Gathering".
+>- Comes from a TL where Chunsoft, unfortunately, went bankrupt before 2005. While the broader Pokemon series existed, PMD did not, and he had no knowledge of concepts specific to the series upon arrival.
 >- **Speech**: Very formal and on guard usually, but willing to be more casual with people as he gets to know them better.
 >- **Garb**: Multiple storage options when on an expedition, usually at least a pair of (size-appropriate) saddlebags and a pouch/toolband on his left foreleg. Sometimes a curve band as well.
 
@@ -40,6 +41,7 @@
 >- Somewhat disorderly and unsystematic, often forgets things.
 >- Energetic, but quiet. Not likely to speak up in a crowd.
 >- Feels a need to prove herself to others.
+>- Slightly pessimistic at times.
 >- **Speech**: Often tends towards terseness. Can occasionally talk at length about subjects she's interested in, but not to strangers.
 >- **Garb**: Always seen wearing a somewhat worn Dodge Scarf, dyed in a pallet matching her own colors. Owns a wool traveling cloak.
 

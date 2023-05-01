@@ -11,7 +11,7 @@
 |
 **Models**|
 [Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models. Link is for LLaMa currently
-[Torrents Rentry](https://rentry.org/backupmdlist)|Kept mostly up-to-date current quantizations for popular models
+[Torrents Rentry](https://rentry.org/lmg_models)|Kept mostly up-to-date current quantizations for popular models
 [Bellard's TS Server](https://bellard.org/ts_server)|[Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard) hosts a server with open models and a closed source way to run them 
 [The-Eye](https://the-eye.eu/public/AI)|File host site that has a random assortment of ML resources
 |

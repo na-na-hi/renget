@@ -34,7 +34,7 @@
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)
 [Chara](https://beta.character.ai/chat?char=OR0j93iECLeB9hPgOrVbqOUGjoqwSwjGUm7CO1AP5y0)
 [Emilia](https://beta.character.ai/chat?char=UPa5X44wE70iIE6oauCKbxKQi9z43H5nyIMPXcA9a04)
-[Mari](https://beta.character.ai/chat?char=vY3nkCD9uvbFIFmPezwEFic7zDuS5vB3FBRc2D9I4TA)
+[Mari](https://beta.character.ai/chat?char=vY3nkCD9uvbFIFmPezwEFic7zDuS5vB3FBRc2D9I4TA) https://files.catbox.moe/5198ze.png
 [McMaid (Wendy)](https://beta.character.ai/chat?char=ERGNH71JeMWwTUxQ9mTSM9MXxWQX3Ss1sKscae9yQBY)
 [Saigo Muteki](https://beta.character.ai/chat?char=DsDlH4JnHhvtXpUvjJ1mb150OpfFr78DvC66Op0d7kU) https://files.catbox.moe/h7kcui.png
 [Sus-chan (Sus)](https://beta.character.ai/chat?char=OGNovTHYOPpDXMykd3hlGAtaVdVxDoSm1Z2fQ_q0CKs)
