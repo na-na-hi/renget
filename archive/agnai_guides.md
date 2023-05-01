@@ -2,9 +2,9 @@
 
 #### Video guides
 
-Todd: https://files.catbox.moe/hilc9c.mp4
+Todd: https://files.catbox.moe/hilc9c.mp4 (proxy link used is illustrative and likely outdated)
 
-whocars/hf proxies: https://files.catbox.moe/750zod.mp4
+whocars/hf proxies: https://files.catbox.moe/750zod.mp4 (proxy link used is illustrative and likely outdated)
 
 Claude 1.2 (requires API key) https://files.catbox.moe/gyoyxa.mp4
 

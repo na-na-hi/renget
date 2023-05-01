@@ -5,7 +5,8 @@
 ## Models
 
 ### Easter e17
-	https://mega.nz/file/Bi5TnJjT##Iex8PkoZVdBd3x58J52ewYLjo-jn9xusnKAhyuNtU-0
+	.ckpt: https://mega.nz/file/Bi5TnJjT#Iex8PkoZVdBd3x58J52ewYLjo-jn9xusnKAhyuNtU-0
+	.safetensors: https://pixeldrain.com/u/PJUjEzAB
 
 ### Yiffymix (yiffy e18 and Zeipher F111)
 	Yiffymix: https://civitai.com/api/download/models/4053?type=Model&format=SafeTensor&size=full&fp=fp16

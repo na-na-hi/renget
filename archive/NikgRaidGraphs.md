@@ -4,7 +4,7 @@
 
 !!! warning Want your /nikg/ certified Union to be tracked? Buy /nikg/ Premium and let me know in the thread
 
-!!! danger /nikg/ Premium special flash sale! -85% off! X100 EFF! Only ~~$99,99/day~~ $99,99/day!
+!!! danger To be updated on Day 6. I won't be doing it day-by-day anymore.
 
 >Index
 

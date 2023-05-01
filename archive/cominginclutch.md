@@ -1,12 +1,12 @@
-# Clutch's Bots
+# Clutch's Roleplay Characters
 
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
     Last Status Update: May 1st | Current Status: Working on Batch 4: The Big Batch
-	As of this time, Batch 4 is being worked on and all of the characters in Batch 4 have been decided.
-	Any newer requests directed towards me will be considered for a later batch. See more in the new Character Requests section below.
-	Rentry may be updated again soon in preparation for Batch 4.
+	Batch 4 is being worked on and all of the characters in Batch 4 have been decided. See more in the Release Information section below.
+	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
+	Rentry may be updated further over the next few days in preparation for Batch 4.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	Make sure to tag my anchored posts to make sure I see it.
 [TOC]
@@ -414,19 +414,17 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 
 # Character Requests
 !!! info Current statuses regarding all recent and current requests directed towards me will be listed here.
-	Because I appreciate bot requests made towards me directly, I prioritize requests as the first characters to be released in the batches.
-	However, due to how I work on my entire batches of bots simultaneously, as well as due to how I release my bots in batches, I acknowledge these requests are fulfilled in an untimely manner.
-	That being said, your requests are never forgotten, and I hope implementing this section can provide assurance on that point.
-	If you've made a character request to me, I will get it listed here as soon as possible so you can see the current status of your request.
-	If your request is denied, I apologize in advance. Please do not take it personally. Reasons for denying a character will always be provided and the request will remain listed until the batch it was considered for has finished releasing.
-	Make sure to also read the MOTD to find the status of the current or next batch.
+	I appreciate requests and prioritize them as the first characters to be released in the batches. However, due to how I work on the characters and release them in batches, I acknowledge these requests are fulfilled in an untimely manner. That being said, your requests are not forgotten.
+	If you've made a character request to me, it will be listed here with the current status of the request.
+	If your request is denied, I apologize. Reasons for denying a character will always be provided and the request will remain listed until the batch it was considered for has finished releasing.
+	Make sure to check the MOTD to find the status of the current or next batch.
 Recently Accepted Requests:
 - Idol/Celebrity taking advantage of you (OC):
 	- Confirmed for Batch 4.
 - Lamia Servant (OC):
 	- Confirmed for Batch 4.
 	- This suggestion was not directed towards me in an anchored post, but in an anonymous conversation in a thread instead. However, I intend to fulfil the request all the same.
-- Makina (Presumably from the Grisaia series):
+- Makina (Grisaia series):
 	- Confirmed for Batch 4.
 - Brigette (Pokemon):
 	- Confirmed for Batch 4.
@@ -450,4 +448,4 @@ Recently Denied Requests:
 	- Discord: Clutch#0121
 	- Email: nevergoingtocheckthis@proton.me
 	- I don't guarantee quick responses with these methods because I don't like using them. Give me a (You) in the threads if you reach out. Otherwise, I'll get back to you whenever I log into one of them.
-	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club. I will only go where you can be publicly invited.
+	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club. I will only go where public invites are given.

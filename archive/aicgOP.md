@@ -1,5 +1,8 @@
 #/aicg/ OP templates
 
+!!!note
+	new service available tentative to be added: https://venusai.chat
+
 !!!info IMPORTANT INFO
 	Added the Kaomoji guy's OP for completeness's sake. Won't change anything here since it's not mine I'll just use the latest one that he posted. I'll add some pictures back but without the CSS. All of these are being updated soon-ish
 
@@ -106,6 +109,8 @@ https://rentry.org/mikugg
 >RisuAI
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
+>Venus AI tentative new service
+https://venusai.chat
 
 >Botmaking
 >Intro
@@ -200,6 +205,9 @@ https://rentry.org/mikugg
 ▶RisuAI
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
+▶Venus AI
+https://venusai.chat
+
 
 ▶Bots
 https://www.characterhub.org

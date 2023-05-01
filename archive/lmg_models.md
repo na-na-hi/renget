@@ -1,4 +1,4 @@
-!!! warning This is a backup of the old model list rentry. I've added links to SuperCOT at the top, given it's the most popular current model. After that is original rentry text, untouched. I'll look at redoing a basic list, with up to date links and info, if nobody else wants to take over.
+!!! danger This is a backup of the old model list rentry. I've added links to SuperCOT at the top, given it's the most popular current model. After that is the original rentry text, untouched. I'll look at redoing a basic list, with up to date links and info, if nobody else wants to take over.
 
 #->/lmg/ Model Links and Torrents <-
 

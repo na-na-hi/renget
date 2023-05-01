@@ -320,4 +320,7 @@ PGL_0055_SmokeAlarmASMR (CRF26).mp4
 PGL_0056_RickMortyCustomerService (CRF25).mp4
 ```magnet:?xt=urn:btih:ebf1025b74ad22602a970c94791d6dda37043ecc&dn=PGL_0056_RickMortyCustomerService%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
 
+PGL_0057_ArtSchoolQuarterback (CRF 25).mp4
+```magnet:?xt=urn:btih:a6cbf15c3c9deb959cb6ed78ede0229f6a3e2bc0&dn=PGL_0057_ArtSchoolQuarterback%20(CRF%2025).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
 ###jump to latest PGL
