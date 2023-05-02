@@ -2,7 +2,7 @@
 
 Welcome to the Game and Engine Development General or [/gedg/](https://boards.4channel.org/g/gedg) Compendium.
 
-We have a [wiki](https://wiki.installgentoo.com/wiki/Gedg)!
+We have a [wiki](https://wiki.installgentoo.com/wiki/Gedg)! If you find a helpful resource, make sure to add it there.
 
 Also check out our IRC channel [#/g/gedg on rizon](https://qchat.rizon.net/?channels=/g/gedg)!
 

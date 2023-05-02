@@ -338,3 +338,75 @@ I explained that mainland Kash'gon was known for its use of elemental magic and 
 As I finished my explanation, I couldn't help but reflect on the different types of magic I had encountered in my travels. Each culture had their own unique way of using magic, reflecting their environment and way of life. It was fascinating to see how magic could be used in so many different ways, and I felt grateful for the opportunity to learn about them all.
 
 As we continued our tour of the sand people's city, I couldn't help but wonder what other secrets lay hidden within their walls. The sand people had proven to be a fascinating and complex culture, and I was eager to learn more about them.
+
+>019.1 :EXTRAS
+I will now give some extra info about the world and the characters
+> characters :
+
+>John Kaliber: 185 cm (6'0)
+-Male
+-Human
+-26
+-Explorer and traveler
+>Axilion: 183 cm (6'0)
+-Male
+-Mainland Kash'gon(siamese cat)
+-27 years old
+-guide and a pilgrim
+>Kiko: 176 cm (5'7)
+-Female
+-Mainland Kash'gon(siamese cat)
+-24 years old
+-spell maker and
+>Rayla: 195 cm (6'4)
+-Female
+-Kash'gon from the mountain people (lynx)
+-26 years old
+-Hunter and a Carpenter
+>Riama:219 cm (7'2)
+-Female
+-Kash'gon from the mountain people(Sphynx)
+-37 years
+-a chief and member of the mountain people's Council
+>Razina:220 cm (7'2)
+-Female
+-Kash'gon from the sand people (Serval)
+-28 years old
+-merchant and a warrior
+>Karashi:146.30 (4'8)
+-Female
+-Mainland Kash'gon (tortoiseshell cat)
+-76 years old
+-A Scholar (the highest title in the Kash'gon community)
+
+> Additional traditions and cultural elements for the Kash'gons :
+
+-Lunar Festival: The Kash'gons celebrate the full moon with a festival that takes place once a month. During the festival, they gather around a bonfire and perform traditional dances and music.
+
+-Magical Runes: The Kash'gons have a complex system of magical runes that are used for communication and spell casting. Each rune has a specific meaning and can be used to create powerful spells that can control the elements, communicate with animals, and heal the sick.
+
+-Witch Hats: As mentioned before, the female Kash'gons wear a witch hat-like hat as a symbol of their magical abilities. The hat is often decorated with symbols and feathers, and is passed down from generation to generation.
+
+-Tree of Life: The Kash'gons believe in the concept of the Tree of Life, a mystical tree that is said to connect all living beings.
+
+-Twintails Haircut: As you mentioned, the female Kash'gons have a long hair twintails haircut that is considered a symbol of their magical powers. and is seen as a source of pride and beauty.
+
+> THE KASH'GON MYTHOLOGY :
+
+> The Origin of the Kash'gon
+
+In the beginning, there was only Felidae, a powerful and Mighty deity that existed in a realm beyond the mortal world. Felidae was the embodiment of all feline spirits and possessed the power to create and shape the world as it saw fit.
+
+One day, Felidae decided to create three beings in its image: Panthera, Acinonyx, and Felis. Each of these beings was imbued with a part of Felidae's essence and was given the power to shape the world as they saw fit.
+
+Panthera was the strongest of the three and possessed the power to manipulate fire and earth. With its power, Panthera created the mountains and the volcanoes, shaping the very foundation of the world.
+
+Acinonyx was the fastest of the three and possessed the power to control wind and water. With its power, Acinonyx created the oceans and the winds, shaping the very atmosphere of the world.
+
+Felis was the most cunning of the three and possessed the power to manipulate time and space. With its power, Felis created the stars and the galaxies, shaping the very fabric of the world.
+
+Together, the three Kash'gon beings created a world that was vibrant and alive. They created creatures of all kinds and imbued them with their own essence, creating a diverse and magical world.
+
+Over time, the three Kash'gon beings created their own offspring, each with their own unique powers and abilities. These offspring went on to create their own civilizations, spreading the essence of Felidae throughout the world.
+
+And so, the Kash'gon people were born, each with their own connection to the powerful and Mighty deity that created them. They would go on to shape the world in their own ways, but always with the knowledge that they were descended from the three first Kash'gon beings created by Felidae.

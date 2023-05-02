@@ -124,8 +124,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation Rules and Prompt](https://rentry.org/EtF_Rules)
 ####Current Colaborative Writing Project Pieces
-*  [ETF Intro (Google Doc link! Remember to open in incognito!)](https://docs.google.com/document/d/1KR3NMEU5WsXqvqkvaqMNcjCh9yIbuRlchhYQHIABG9M/edit)
-*  [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
+* [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
+* [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby

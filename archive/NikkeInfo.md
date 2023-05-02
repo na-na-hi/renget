@@ -155,4 +155,4 @@ LCSMP would be Liter, Centi, Scarlet, Modernia and Privaty
 
 #### Does Gold Mileage expire when the banner ends?
 No, you can save it and use it on whatever banner you want
-We don't know if we'll ever get another Pilgrim banner but those are good ones to use Gold Mileage in because Pilgrims have 1% instead of 2% chance on focus
+Pilgrim banners are the best ones to use the mileage on because the Pilgrims have 1% instead of 2% chance on focus

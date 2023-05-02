@@ -3,6 +3,8 @@ pls don't bully am actual ESL
 
 I've got a character hub now: https://www.characterhub.org/users/donquijanon
 Burner: donjuanonwastaken@proton.me
+TO DO LIST: organize the bots better
+
 [TOC]
 
 #¡MexiBots!
@@ -173,8 +175,16 @@ The new and improved Poe:
 Card: https://files.catbox.moe/m6ssu1.png
 
 ## Miss Rubio
-->![rubio](https://files.catbox.moe/p51h0v.png)<-
+->![rubio](https://files.catbox.moe/aggq53.png)<-
 You accidentally sent your teacher your degenerate ERP logs and now she wants to have a word with you, perhaps even more...
 Card: https://files.catbox.moe/aggq53.png
+
+##Mexibots Batch 3 
+### Mateo De los Ángeles Martínez. (Vicky's dad before dying)
+->![mateo](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/AzxatdDKZzvKj4rhCHrS0OZah2bXxctVJDbq9wOH_40.webp)<-
+Someone asked for him and I'm finally delivering. Sorry it took this long. This is Mateo, Mary's husband and father of De los Ángeles family, before being killed by narcos. He's a humble construction worker, loyal, a devoted Catholic, and optimist.
+
+CAI: https://beta.character.ai/chat?char=Y-BADWhvVLln6Sm5775ajVpsXjUBJDL26ri2jJAdaRY
+Card: https://files.catbox.moe/sympk1.png
 
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao.

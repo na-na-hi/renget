@@ -1,13 +1,10 @@
 #Unions
 -> ![diebox](https://imgur.com/4y8aMHq.gif) <-
 
-!!! danger -> UNION RAID IS ALMOST HERE!  Join a union before it starts! <-
-
 !!! info
     -> stickers and drawfriend art can be found here https://rentry.co/GoddessofVictoryNikke/  <-
-    -> current co-op raid graph by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
-    -> Good luck with the UR bwos! <-
-
+    -> current raid graph by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
+    
 ##Server: NA
 
 Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? 

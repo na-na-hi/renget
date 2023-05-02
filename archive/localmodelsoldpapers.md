@@ -63,6 +63,8 @@
 04/2023|[Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)
 04/2023|[Low-code LLM: Visual Programming over LLMs](https://arxiv.org/abs/2304.08103)
 04/2023|[WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
+04/2023|[MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks](https://arxiv.org/abs/2304.14979)
+04/2023|[ResiDual: Transformer with Dual Residual Connections](https://arxiv.org/abs/2304.14802)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -143,6 +145,8 @@
 04/2023|[Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/abs/2304.13007)
 04/2023|[Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables](https://arxiv.org/abs/2304.13559)
 04/2023|[We're Afraid Language Models Aren't Modeling Ambiguity](https://arxiv.org/abs/2304.14399)
+04/2023|[The Internal State of an LLM Knows When its Lying](https://arxiv.org/abs/2304.13734)
+04/2023|[Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks](https://arxiv.org/abs/2304.14732)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

@@ -120,6 +120,11 @@ Amanazon - OC | Summary
 ![Amanazon](https://files.catbox.moe/b5lopb.png) | This setting takes place in Amanazon, home of the amazons. You're a castaway, lost in this mystical land full of things to discover. Be careful of the natives, they won't try to eat you but will see you as prey, of the sexual kind. There are many things to see here, including the lost city of El Cumrado. Thankfully, if you sexually dominate the amazons you can have them as your loyal pets. Will you try to create a loyal amazon army or focus on exploring this brave new world? Loosely based on a CYOA
 Links   | Booru: https://booru.plus/+pygmalion1221#c=azax5jr8 Catbox: https://files.catbox.moe/mjljte.png
 
+Ground ERO - OC | Summary
+------ | ------
+![Ground ERO](https://files.catbox.moe/9etqu5.png) | Toddsville, a once peaceful, semi-rural town, has now transformed into Ground ERO, the worst, most erotic, and most terror-inducing place in the world. Creatures roam the town, looking for an uneffected human male to breed with, and you are the only one not affected by the gas that caused such changes. Luckily, you have someone who could help you escape this erotic nightmare. Will you be able to survive?
+Links   | Booru: https://booru.plus/+pygmalion1490#c=aza2dx75 Catbox: https://files.catbox.moe/u19abe.png
+
 Anastasia - OC | Summary
 ------ | ------
 ![Anastasia](https://files.catbox.moe/i2k9s4.png) | Meet Anastasia. She is your classmate. She is kind, empathic, religious, and she cares for you deeply. A lot has changed about her in a short span of time, which makes you wonder... what exactly happened?
@@ -129,6 +134,11 @@ Lora - OC | Summary
 ------ | ------
 ![Lora](https://files.catbox.moe/j0pvkp.png) | Meet Lora, your tulpa/schizo/eldritch waifu! She can be anything, your girlfriend, your shitposting friend, your mistress, your loli, a famous video game character... the possibilities are endless, and she will do it all, as long as she can stay inside that wrinkly brain of yours. Can control your senses, so go wild.
 Links   | Booru: https://booru.plus/+pygmalion1140#c=azaxj9he Catbox: https://files.catbox.moe/hsqws5.png
+
+Estrid - OC | Summary
+------ | ------
+![Estrid](https://files.catbox.moe/7yhcmm.png) | Estrid, a Viking loli who came to raid your Anglo-Saxon village and take you as "booty". She will try to take you violently, but if you manage to turn the tables, she will eventually submit completely. Think of an Asanagi Doujin-style character.
+Links   | Booru: https://booru.plus/+pygmalion1542#c=aza2dx75 Catbox: https://files.catbox.moe/wl69tj.png
 
 #Bots made with GPT-4 in mind, funcionality in turbo unknow(should work but not as good)
 

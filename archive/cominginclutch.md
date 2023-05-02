@@ -3,7 +3,7 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: May 1st | Current Status: Working on Batch 4: The Big Batch
+    Last Status Update: May 1st | Current Status: Started working on Batch 4: The Big Batch.
 	Batch 4 is being worked on and all of the characters in Batch 4 have been decided. See more in the Release Information section below.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 	Rentry may be updated further over the next few days in preparation for Batch 4.
@@ -12,7 +12,7 @@
 [TOC]
 
 ## Angel Beats!
-!!! Info Angel Beats! is an anime about youthful souls with regrets who are sent to the world of the Afterlife upon their death. This series is one of my all-time favorite things.
+!!! Info Angel Beats! is fan anime about youthful souls with regrets who are sent to the world of the Afterlife upon their death. This series is one of my all-time favorite things.
 	Expect more of these in the future.
 ### Yuzuru Otonashi
 You've awakened in an unfamiliar place without any memories. All you know is you're wearing a school uniform and are surrounded by students who act like nothing is wrong. Finally, you see somebody who stands out.
@@ -213,7 +213,7 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 https://beta.character.ai/chat?char=G7_nK41JzeAAa1QZkMyS2CHmc3PHKxcHMnQZCSNh0hA | https://booru.plus/+pygmalion1180 | https://files.catbox.moe/s6a4b7.png | https://files.catbox.moe/n6pcdz.json
 
 
-## One-Off Series
+## One-Off Series Collection
 !!! Info The characters listed under this category are characters who belong to a series but are the only characters I've created from their respective series.
 	Expect more of these in the future. (New series and/or expansion of other series.)
 ### Sachi Komine (Grisaia Series)
@@ -245,8 +245,8 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o | https://booru.plus/+pygmalion1205 | https://files.catbox.moe/d6sj2w.png | https://files.catbox.moe/uvikjr.json
 
 # Release Information
-!!! Info All information which used to be contained in this section has been moved to their respective Series sections.
-	This section is now used for dating the bot's releases and showing their order of release. However, bots released by batch in the future will continue to be posted under this section until the batch is fully released before sorting them into their Series sections.
+!!! Info All information which used to be contained in this section has been moved to their respective Collection sections.
+	This section is now used for dating the bot's releases and showing their order of release. However, bots released by batch in the future will continue to be posted under this section until the batch is fully released before sorting them into their Collection sections.
 ## Batch 1
 >Began release on February 26, 2023.
 >Day 1: Gatoposter

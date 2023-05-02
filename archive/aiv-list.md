@@ -19,9 +19,10 @@ https://www.twitch.tv/omarmezenner ||
 **Carli G** https://www.twitch.tv/atheneaiheroes |scam| ![scam](https://files.catbox.moe/tlgpdg.png)
 https://www.twitch.tv/vytalow |recent broadcasts, pi dones not show aivtuber avatar| ![vytalow](https://files.catbox.moe/t6rbd4.png)
 **vTuberGirlAI** https://www.twitch.tv/vtubergirlai || ![vtuberaigirl](https://files.catbox.moe/anwh7t.png)
+**Sai-sama** https://www.twitch.tv/skorpionai || 
 
 
-##Multilingual - mostly En
+##Multilingual - mostly EN
 Stream | Notes | Pic 
 ------ | : ------:  | ------ :
 **Kitt** https://www.youtube.com/@kittasmr88772  || ![kitt](https://files.catbox.moe/h7v8yb.jpg)

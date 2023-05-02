@@ -225,3 +225,394 @@
 >the muzzle felt weird but the affection was the first real kindness you'd felt here
 >if someone wanted to kill you they could with your guard down 
 >at the moment you just melted into the kiss
+
+>after a brief moment, you pushed Ashley up and got up
+>you had no idea why that just happened but you couldn't get distracted
+>you almost considered it was a ploy by whatever controlled her 
+>but Ashley's eyes were that pretty ocean blue
+>the red was gone from them
+>she really tried to find anything in the room to look at besides your gaze
+>but she wasn't pointing a gun at you
+>you asked if she was OK and she relaxed a little
+>her body posture 
+>"I'm sorry about earlier, it was like I couldn't control myself"
+>was this about the gun or the kiss?
+>she locked up with an "eep"
+>then stammered while trying to look at the carpet
+>"shouldn't we get going?"
+>the change of subject was obvious but you'd roll with it
+>her tail swayed as you bet she mentally hoped you bought it
+>you had considered ask her outright why she was a mouse but that still felt rude
+>you don't just go and ask that
+>the kiss did make you look at Ashley a little differently 
+>but that was something you'd have to put on the backburner 
+>she did at least still look nice despite the kidnapping and attacks
+>you wondered just how she didn't get chilly with that plaid skirt
+>maybe that's why she seemed to huddle up to you when you both made your way out to the chamber
+>her fur was still silky smooth to your bare arm
+>the kiss was still present on your mind
+>why did she jump you?
+>was it her way of showing gratitude?
+>you had kissed a mouse
+>you almost didn't notice the cultists 
+>almost
+>another gunfight ensued
+>three more corpses
+>but the odds were not in your favor
+>you grabbed her wrist and bolted for a small room
+>you pushed Ashley towards a cabinet and shoved a desk in front of door
+>you felt fortunate that they were super predictable 
+>they would try to batter down the door
+>you had your shotgun pointed at the door when the banging started
+>you waited
+>banging intensified 
+>the door buckled slightly
+>there were more than a few
+>and they clearly had hatchets
+>more gouges in the door
+>you waited
+>sweat dripped off you as you mentally readied yourself
+>deep breaths
+>Ashley was nervous
+>she tried to keep quiet behind you but you heard her squeaks everyone other hit on the door
+>still, you waited
+>you fought the urge to flinch on the strikes yourself 
+>instead you just braced the shotgun tightly against your waist
+>only when they finally busted parts of the door did you act
+>you saw their faces as buckshot hit the crowd around the entrance at center mass
+>it wasn't as violent as a headshot but you knocked them back
+>you followed it with another shot
+>and another
+>the door was shredded now
+>as were the cultists dumb enough to cluster around it
+>so with that small peace you shouted back to Ashley
+>you both had to move
+>she fumbled out of the cabinet onto her face
+>ass up in the air she was instantly mindful of her skirt and she panicked covering back up
+>she rose quickly, dusting off her sleeveless orange sweater 
+>you two didn't have time so you decided to throw Ashley on your shoulder 
+>you had her head bouncing against your thigh despite her very vocal protests
+>there was no time to lose and the cultists had to all be on high alert
+>you didn't know how the parasite shared information but they'd be here in no time
+>your hand was firm above her tail to hold her steady on your shoulder
+>the adrenaline had your heart racing a mile a minute and you ignored everything except getting to safety with Ashley in tow
+>they had to be trying to bog you down in fights, had to be
+>so for now your best option was stealth
+>you ran through empty chambers, thankful to hear nothing else
+>they would try and trail you two but you hoped to put just enough distance between the last fight and you
+>Ashley needed doubt felt this was undignified, alternating between squeaking protests and waving her hands around
+>she was light on your shoulder
+>that much you remembered
+>trouble hit like a freight train when you entered one room
+>it was almost like a cage
+>you didn't have time to ask for what when you noticed a hulking figure with giant claws
+>he was on edge but his back was to you
+>some growth on his back, the plagas drew your attention
+>before you could react the other door opposite your entryway swung open
+>the cultist didn't even know what hit him when the giant leapt and tore into him
+>it didn't distinguish between friend or foe 
+>you quickly put two and two together
+>when you entered you were damn near silent
+>this thing must need noise to know what's happening
+>that's when you remembered your passenger
+>Ashley almost screamed at the new threat but you grabbed her by the back of the head and smashed her face into your crotch to muffle her
+>the mouse clawed at your pants at first
+>you almost reacted at the little razor sharp things scratching through the fabric
+>but past experience had you keeping completely silent
+>those claws on the blind creature could do worse than Ashley's 
+>the mess of gore on the floor was proof enough of that
+>you had the back of her blonde hair gripped tight
+>she was mashed as tight against your crotch as possible
+>thankfully muffled
+>her boots failed and threatened to throw you off balance but you held still
+>you'd have only one chance at this
+>you'd been saving the magnum for something really special
+>the stopping power something that couldn't be matched elsewhere 
+>you didn't dare risk the peashooter
+>you'd have one shot and then the creature would either be dead or would react
+>you weren't confident that reaction would be good for your health
+>pressing Ashley tight against you, you used your other arm to line up the shot
+>you were about four arms length away
+>you'd stilled your breath and readied your body for the kickback
+>one shot felt like it would rip your arm from the joint
+>but it did the job and the thing died instantly 
+>Ashley muffled against your pants brought you back to reality 
+>you were about to set her down when the unexpected happen
+>in her renewed struggle against your grip something dropped and rolled across the floor
+>an orange?
+>what?
+>or was that a grapefruit?
+>now wasn't the time to categorize citrus though
+>because the hushed silence and her frozen reaction made you keenly aware of another sensation
+>your shoulder was wet through the fabric 
+>you were aware this wasn't the best place for this
+>however… this was pressing against your shoulder
+>you set Ashley down gently and if there was awkward behavior before, this took the cake
+>she, no he, stood there with one "boob" 
+>the other had rolled out onto the floor
+>trying really hard to keep the skirt fabric from tenting
+>you shut the one door the cultist had stumbled through
+>you two needed to talk
+>something the mouse didn't seem ready for 
+>was this Ashley?
+>you'd had your suspicions since the whole giant mouse thing
+>now you find out it was a mouse boy
+>what the hell was going on
+>what you didn't expect was he wouldn't even let you get a word out
+>you were all ready to start asking 20 questions and Ashley stole your thunder by falling against you and start sobbing loudly
+>your anger at the deception didn't last long in the face of this
+>you felt awkward hugging the mouse but your arms just instinctively went to hold who was crying against your chest
+>you really hoped a cultist didn't decide now was a good time
+>you didn't say anything initially, >it felt natural to allow Ashley to let it out and you weren't getting answers until everything calmed down
+>the embrace seemed to do it
+>eventually the sobbing slowed and he relaxed a little
+>the huge ears on his head twitched a little at you clearing your throat
+>you came out and said it
+>why was the president dressing his son in girl outfits?
+>it was a strange lifestyle choice
+>also second point 
+>did Ashley realize he was a giant mouse?
+>you ended with the promise you weren't pissed
+>more confused than anything
+>he needed to give you answers
+>especially if you two were going to make it out of here
+>"so…"
+>the voice was still hushed and a little raspy after the cry
+>"I have a confession. I'm not the president's daughter"
+>of course, he was a boy
+>"no no. I mean I'm maybe not Ashley."
+>what
+>you didn't see this coming
+>but why did the cult kidnap him?
+>you were conversing in whispers just in case
+>"I was in town where the president's daughter was, wearing the same outfit"
+>maybe these villagers weren't really civilized after all
+>but the mouse thing
+>a tail, giant ears 
+>how did they not figure that one out?
+>you didn't initially question it but you did find it strange
+>"I'd always hear all these cool adventures from my older brother."
+>you were wondering where he was going with this and let him continue
+>"see he followed these siblings around on all their little escapades. I think he said they were named the Redfields."
+>that made you perk up
+>but no
+>that was too much of a coincidence 
+>had to be
+>"he even wrote it all down. I just thought it sounded cool"
+>he pulled himself against your chest again
+>didn't really address the crossdressing 
+>or why he was a giant mouse
+>but you didn't bother with details
+>what he said earlier came back to you
+>so they didn't kidnap the president's daughter
+>"the whole time they thought I was her and they've never bothered to confirm it."
+>so they just nabbed a giant mouse with a penis and grapefruits down his sweater
+>and never questioned it
+>still haven't questioned it
+>maybe the parasite makes them collectively fail to see the obvious
+>like a hive mind stupidity
+>granted, you rolled with it
+>but this was actually good news
+>you patted Ashley on the back and said it was OK
+>actually, better than ok 
+>the president's daughter was off partying somewhere and safe
+>this terror organization fumbled and revealed their hand
+>all you had to do was get the bugs out of you two and install democracy on this shitty little cult
+>you weighed the pros and cons of telling your bosses
+>might just play along for the moment
+>Ashley had calmed down now
+>wait that wasn't right
+>what was his real name?
+>you'd have to call him Ashley around this area to keep up appearances but you were owed that much
+>he huffed against your chest and you remembered how warm he was 
+>"I guess you're right. you rescued me. so I guess my knight in shining armor deserves a name. it's Ash, no kidding."
+>was he snuggling up to your chest right now?
+>so you took mental notes
+>the situation wasn't ideal 
+>and you had plenty of questions
+>you made an executive decision to hold onto the information about the president's daughter
+>she was safe as long as they thought this mouse was her
+>you pat the back of Ash's hair
+>it probably wasn't his real name
+>too much of coincidence 
+>granted, you didn't know what to think
+>so you picked him up delicately and allowed him to stand under his own power
+>you two were going to have to rely on one another if you were to get out of here
+>you wanted him to really understand that
+>you weren't using him as bait for the cultists
+>that would imply he'd get hurt
+>you clasped your hands on his shoulders and promised him you'd bring him home safe
+>that's probably when the trouble began
+>because if he wasn't clingy before, he had your arm in death grip now for some reason
+>but he didn't seem scared now
+>you had no idea why he was holding on like that
+>but at least he relaxed
+>you'd get more out of him later
+>possibly ask why Luis didn't seem bothered by the rodent
+>you were about to head out the door when he scrambled away and grabbed his "boob"
+>some readjustment and they looked like they could fool anyone again
+>now you could leave and Ash took up his place next to you
+>you had a strong urge to continue your conversation with your companion
+>there was definitely a lot that needed to be said
+>but you also needed to sneak out 
+>he followed right behind you and you got better at not getting tripped up
+>the cultists seemed to be unaware of your presence now and you wanted to keep it that way
+>when you got to a strange bottomless pit with platforms scattered to an exit on the other side you breathed in
+>you were sure Ashley wouldn't make it himself
+>you instead looked over your shoulder and told him to hold onto you
+>you'd hopefully jump these piggyback style
+>he looked hesitant 
+>you smiled and said you promised you get you both through this
+>he was in good hands
+>that made him shift a little but it won him over
+>his slender arms around your neck were warmer and softer than a scarf
+>your hands rested on his legs and he didn't protest this time
+>while it threw off your balance a little he wasn't really that heavy 
+>you both held on tight as you leapt for the first platform 
+>your boots landed hard and you recovered quickly
+>he squeaked into your ear as you leapt and landed on another platform
+>the stones must have been some old bridge
+>it was holding up well to every jump
+>you managed a few more leaps
+>the last jump you nearly missed but Ashley shoved himself forward, giving the momentum to stick it
+>he had tightly clutched your neck in a panic
+>his legs wrapped around you
+>you breathed a sigh of relief and gently set your passenger down
+>he withdrew and you noticed he was having to readjust his skirt again
+>you paid no mind to the tent he was fighting down
+>guys will be guys 
+>you got erections at weird times too
+>muttering above you in Spanish made you freeze for a second before hugging the wall
+>Ashley was surprised when you pulled him towards your chest
+>your left hand held the back of his head and the other held his lower back
+>poor thing must have been scared because he shivered in your embrace
+>you were aware of his erection because it poked against your hip
+>he really chose a bad time for it but you'd have to make do
+>at least he suppressed any noises but you had his face against your chest for a reason
+>occasionally he jostled against you and let out a low noise
+>he had to be uncomfortable but until the cultists walked away from the ledge he'd need to stay close
+>his arms held onto you though
+>not in a panic or anything
+>at least he was trusting you now
+>when the voices got distant you finally relaxed and released Ash
+>he seemed flustered for some reason
+>well it was better than the screaming 
+>he whispered to you and asked if you'd seen a restroom while running through the castle
+>you hadn't 
+>it was a weird time for a bathroom emergency 
+>he'd have to hold it for now
+>at least until you had privacy
+>you asked if he'd want to get caught with his pants down
+>er, skirt
+>that somehow got him more flustered 
+>he was weird
+>regardless, you both pressed on through the castle
+>after the rough start on your journey he was starting to get it
+>it wasn't like having a combat buddy but he at least was trying to be helpful now
+>even offered to carry ammo and medical supplies
+>it was good to have a bigger inventory 
+>when you got to your merchant friend he practically lit up
+>how the merchant got in here you didn't know but it was a blessing
+>you had to gently let down Ash because no, he was not getting a rocket launcher to help you with
+>the enthusiasm was appreciated but he hadn't even used a pistol yet
+>afterwards the rest of the castle was a breeze
+>the usual assortment of cultist swarms, puzzles, giant statue encounters and BOWs you'd come to expect
+>amazingly, Ash continued to grow in usefulness and seemed to get braver as you two forged ahead
+>maybe not quite ready for a rocket launcher but maybe you'd toss him one of your dinky pistols
+>the last encounter with Salazar nearly turned your stomach
+>you'd had Ash hide nearby in a crawlspace
+>this big fights were still something you didn't want him part of
+>after sniping the little napoleon looking weird with what felt like all your rifle ammo he went down
+>you both could leave now that your gracious host was a bubbling pile of ooze
+>you went back and saw Ash peak out of his hidey hole
+>when you offered a hand up he looked at it wide eyed before taking it
+>"why are you being this nice? I got you into this."
+>this wasn't your idea of a vacation but these guys needed to be stopped
+>there was always another Umbrella or another Birkin
+>so it worked out
+>plus you would have went out of your way to help anyone in this
+>you told him to make sure to buy you a beer when this was all said and done
+>then you'd be even
+>he looked a little bashful so you reassured him by clasping your arm around his shoulder
+>you brushed his hair out of his eyes and said you promised and you meant it
+>you laughed when he said he needed a bathroom break after all the excitement
+>at least you calmed him down
+>you said you'd find a spot and scout it out beforehand 
+>that way he'd be safe
+>you said you had a surprise after and that perked him up
+>you saw the castle chambers led into a cave and you were unsure what that would bring 
+>couldn't go back out into the village with the numbers they had
+>so it looked like the only answer was to go deeper with Ashley
+>you found an alcove in the caves and made sure, very sure there wasn't some Scooby-Doo secret door shit
+>he looked grateful as he ran in when you gave him the all clear
+>you were both guys so you'd just stand outside the gap and keep watch the other way
+>he almost objected but you weren't letting him get kidnapped again
+>the alcove was about seven feet into the cave, that would be enough privacy
+>Ash just had to give a signal he was done and you'd both be on your way
+>he finally agreed once he got you to promise to only keep look out, he needed his privacy
+>practically had to swear on a Bible
+>keeping watch was the calmest time you'd had in a while
+>for you
+>Ash on the other hand
+>well Ash had gotten you to promise not to watch him
+>on the other hand he watched you
+>the second the coast was clear for him he flipped up his skirt
+>he had spent a good portion of the day rock hard about you
+>ever since getting shoved nose first into your crotch and all the manhandling
+>he'd thought you were handsome before but after seeing you in action and being treated like that…
+>well he was crushing hard on you
+>and even after he found out you'd lied
+>you'd wanted to help
+>he muffled his moans with his tail as his blue eyes studied you like dinner
+>his hand furiously pumped his red cock, it's angry color contrasting with the white fur around it
+>he'd been leaking precum ever since you'd shouldered him and he definitely needed new panties after this
+>his brother had bragged about adventure but Ash never considered romance 
+>his legs were shaky as he just kept watching you and he balanced himself with his other hand
+>fantasies filled his mind
+>your breath on his chest as you moved to attack a vulnerable pink nipple with your teeth
+>you pulling his hair as you drove your manhood deeper than his fingers could reach
+>he imagined how much better your crotch smelled with the pants off
+>how tight you could grip the base of his tail as a handle
+>you were every inch his hero and you came in and swept him off his feet
+>you needed a steed but Ash would have been fine with you mounting him instead
+>he wanted to give you your reward
+>he knew it was dumb to do it here
+>this was all dumb
+>but he craved you to look over your shoulder, to see him with his panties down and desperate
+>but he didn't want to force it, to bring the attention to himself
+>he needed you to want him like that
+>he dreamed of that big fat cock you must have and how you could stuff it in him
+>he yearned for you to just grab him and bent him over the closest thing and just use him
+>mentally he was wondering what he'd call you while he rode that big human cock
+>would you growl how much you loved him as you emptied a load in him
+>would you bring him along everywhere from then on
+>Ash knew how dangerous everything was now and this made him swear to himself
+>if you got them through this safe and sound
+>he was practically your property 
+>the way you handled yourself just fighting all these monsters, it was a thrill
+>not the adventure his brother had told Ash years back
+>something more primal
+>the mouse boy knew he swung of the male team but there wasn't a guy like you before
+>he wasn't a whore throwing his ass wherever 
+>you were special
+>he stared hard at your back while he arched his and shot cum across the alcove 
+>he almost collapsed but caught himself
+>his heart rate eased down and he could think again
+>and he all of a sudden felt embarrassed and quickly covered back up
+>a soft voice from behind you cleared his throat
+>"I'm all, um, finished. sorry."
+>well the break was nice at least
+>you turned and there he was looking skittish
+>you smiled and said no problem then remembered what you said earlier, the epiphany reading over your face openly
+>then you could tell he remembered the surprise and his giant ears perked up
+>when you went to pull off your belt his eyes shot wide
+>"w-what? what are you doing?!?"
+>he squeaked out in a whisper and started to panic for some reason
+>you told him to relax, it was part of the surprise
+>that seemed to make him more fidgety and he really didn't want to make eye contact
+>just a stuttering mess now
+>strange
+>he froze and slowly looked up when you pressed him back to the cave wall with a hand on his slender shoulder
+>then you handed him the belt and holster for your sidearm
+>you felt you could trust him with a pistol, perhaps you were too rash earlier to keep him unarmed
+>you didn't expect him to almost faint in response, it couldn't be that exciting
