@@ -5,6 +5,8 @@
 
 Bibo+ Trans: https://www.xivmodarchive.com/modid/43683
 
+Bibo+ Trans IVCS: https://www.xivmodarchive.com/modid/66961
+
 Bibo+ Benis: https://www.xivmodarchive.com/modid/45095
 
 Bibo+ Nyl's Hotdog: https://www.xivmodarchive.com/modid/64839

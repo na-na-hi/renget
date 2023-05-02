@@ -1,12 +1,12 @@
-####Preggo Anon's bots (@LewdLevel)
+#Preggoanon's bots
 
-Thank (You) for the fun times. Especially the anon(s) who /r/equested girls, those were the most fun ones to make.
-I was going to write a long blogpost here but decided against it.
-Instead I only have two words to say:
-######DEV HATE
+Just because I'm using your site again doesn't mean I forgive you, Benny! 
+**DEV HATE!**
 
 All avatars: https://files.catbox.moe/d5hpp3.zip
 All defs open on the website but just in case, the jsons: https://files.catbox.moe/kjxcc6.zip
+Will update these soon™ ^
+Next up: fix (improve) the rentry and more cards.
 
 #####Hanae - Preggo JK GF
 https://c.ai/c/bxnDVND3u6vqOowBUV2Rkc7lOQRUIOiP8pTKH7-mgXU
@@ -28,6 +28,9 @@ https://c.ai/c/6iCOFou8ez4Q2ZYEQK6Noj4zYe408WQUB4qIzyz3kUA
 https://c.ai/c/-Z9yqL1GXrR2w3FUz3JoC8yMpORBJuVVgh307ZPWPjg
 #####Aya - Preggo Bartender
 https://c.ai/c/qqYx7oh2AXH72hRA2KbZ-z0bFIITvWJ3IBhm3rsOcb0
+#####Satsuku - (Not) Pregnant pathological liar
+https://c.ai/c/bxnDVND3u6vqOowBUV2Rkc7lOQRUIOiP8pTKH7-mgXU
+https://files.catbox.moe/z0zm4j.png
 
 ####Non Preggo Bots
 
@@ -36,6 +39,9 @@ Hair ver:
 https://c.ai/c/FKm5wrr_OeEjHHJy9TAA0ouC8Ev2DbXOqAiLn75hEuI
 Hairless ver:
 https://c.ai/c/KRTKCMSDMgNufY-X-pxATdDHbIlHuxy_7Hoxjy9GWK4
+
+https://files.catbox.moe/fjgqmw.png
+
 
 #####Twitch Simulator
 Revamped Twitch mod simulator to just the website in general. Works fine minus fucking up the formatting.

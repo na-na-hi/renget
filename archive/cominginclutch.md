@@ -3,7 +3,7 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: May 1st | Current Status: Started working on Batch 4: The Big Batch.
+    Last Status Update: May 2nd | Current Status: Started working on Batch 4: The Big Batch.
 	Batch 4 is being worked on and all of the characters in Batch 4 have been decided. See more in the Release Information section below.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 	Rentry may be updated further over the next few days in preparation for Batch 4.
@@ -447,5 +447,5 @@ Recently Denied Requests:
 - If for some God-forsaken reason you're trying to get my attention and can't get ahold of me in the threads, here's some ways to reach out to me.
 	- Discord: Clutch#0121
 	- Email: nevergoingtocheckthis@proton.me
-	- I don't guarantee quick responses with these methods because I don't like using them. Give me a (You) in the threads if you reach out. Otherwise, I'll get back to you whenever I log into one of them.
+	- I don't guarantee quick responses with these methods because I don't like using them. If I've posted on the anchor, give me a (You) to get my attention. If I've not posted on the anchor, hang up a request for me on the anchor post. Otherwise, I'll get back to you whenever I log into one of them.
 	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club. I will only go where public invites are given.

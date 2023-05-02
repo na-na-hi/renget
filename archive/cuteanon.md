@@ -31,6 +31,7 @@ Misc:
 Metalkek: https://beta.character.ai/chat?char=Kav8oO78j9ge0nFVKcdqVxkR0UZs4wbBAmwhR1jjs4Q
 ctf_2fort: https://beta.character.ai/chat?char=QpD_g0Liev1atmra_rMsHpmD4cDkJS5Jy4YjSteB_hM
 -LADP- Cole Phelps: https://beta.character.ai/chat?char=10xjUfiyLrs0Yyb3OYTzNE3lf_CtNAAuFEkXeNVOATI
+THE ALIEN: https://beta.character.ai/chat?char=KJpBw1p65ureNOw3ke7eGM6KPhqEmxbNln7MvkjKARs
 Evil Guy (i'm pretty sure this guy is shadowbanned): https://beta.character.ai/chat?char=T3sHG72nY-7I8IWo7p1U_b-q_8HvKooG4AzGH4LovlA
 The Server Room: https://beta.character.ai/chat?char=1ZGtVNiwzzJ89SbLR5ryWbRTRiG8FXgCfyzLJMHoWaE
 

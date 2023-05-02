@@ -22,6 +22,9 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 ####Writing Tools and Resources
 https://rentry.org/Writing-Resources-and-Other-Things
 
+####Todd/Slaude Tavern Guide
+https://rentry.org/aids-tavern
+
 ####SoloRPG Guide
 https://rentry.org/SoloAI2
 https://rentry.org/AdventureModules

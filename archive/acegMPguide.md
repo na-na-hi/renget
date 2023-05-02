@@ -8,10 +8,11 @@ More advanced techniques:
 4. Countering meta builds
 5. Gunnery
 6. Special Weapons and how to use them
-7. Scoring system explanation
+7. Stealth
+8. Scoring system explanation
 Goodies:
-8. /aceg/-approved builds
-9. Miscellaneous
+9. /aceg/-approved builds
+10. Miscellaneous
 
 -----------------------
 
@@ -64,8 +65,7 @@ A missile fired with this technique will track really viciously, to the point wh
 >try to anticipate the enemy's moves!
 Being able to predict your opponent is the key to victory, so you need to be proactive and imagine what he will do next. Fly accordingly: be the first to turn on the merge (this is essentially a lead turn, the most basic of BFM can be applied here) to get a few precious moments of advantage; guess where he'll turn next and plan your own move accordingly to get an advantageous angle.
 >don't bother with QAAM/EML/SASM, they only teach you bad manoeuvres that either leave you extremely exposed to attack or at a terrible angle to fire on the enemy
-Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still free points. This means that their users
- learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
+Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still free points. This means that their users learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
 >before pulling a PSM, check who's targeting you and don't initiate the manoeuvre if someone could shoot at you 
 PSMs (post-stall manoeuvres like the Kulbit and Cobra) are an extremely powerful tool, but you are vulnerable while you're pulling them. Never initiate one if someone's behind you, as you'll give them a sure shot to kill you; remember to also check for other players looking at you, because nothing kills a PSMing plane like an HVAA or LAAM. As always, be aware of your surroundings and do not expose yourself needlessly.
 >use gravity to your advantage!
@@ -154,17 +154,32 @@ Rewarding patience and the buddy who waits for a good angle, they'll oneshot any
 >HVAA
 Lob them at slow, unaware targets, and watch the points roll. They're pretty manoeuvrable for a sniping weapon, but most importantly (and obviously) they're fast as fuck. Just don't use them at short range, they've got a slight debuff similar to 4AAMs. You'll give your opponent a nasty surprise on the merge, if he doesn't think fast. Stealth will make it even safer, and people will despise your existence and hunt you down; consider a build capable of both defending itself at knife range and staying undetected at longer range. Remember, you WILL become visible on everyone's radar for a second when you fire!
 >LAAM
-The quintessential sniping weapon, goes really well with stealth; you will pop up on radar for a second in any case the moment you fire. As with HVAAs, fire at distracted, slow targets who are already preoccupied with something else. Useless within 2km.
+The quintessential sniping weapon, goes really well with stealth; you will pop up on radar for a second in any case the moment you fire. As with HVAAs, fire at distracted, slow targets who are already preoccupied with something else. Useless within 1km.
 >PLSL
-Look at the guy on top of the leaderboard and go medieval on his ass. You're a force to be reckoned in a radius of approximately 5km, but you'll need to lead the target a fair amount, and the slightest hint of clouds will stop it. If you're within a cloud, a bolt will travel 50 metres or so before dissipating into a harmless blue fart. PLSL bolts travel exactly twice as fast as your gun's shots and have a maximum range of 5km (if unupgraded), so adjust appropriately. You can use both gun and PLSL at knife range to melt a plane in an instant. Practice leading the target a lot, and walk your fire as you'd do with your guns, only more so at long range!
+Look at the guy on top of the leaderboard and go medieval on his ass, and shoot up an entire furball while they're preoccupied with each other. You're a force to be reckoned in a radius of approximately 5km, but you'll need to lead the target a fair amount, and the slightest hint of clouds will stop it. Do not mindlessly joust an EML user, or you'll get a railgun shell through your face and out your ass. If you're within a cloud, a bolt will travel 50 metres or so before dissipating into a harmless blue fart. PLSL bolts travel exactly twice as fast as your gun's shots and have a maximum range of 5km (if unupgraded), so adjust your aim appropriately. You can use both gun and PLSL at knife range to melt a plane in an instant. Practice leading the target a lot, and walk your fire as you'd do with your guns, only more so at long range!
 >SAAM
 Keep the other guy in the circle. Mostly used as a sniping weapon, SAAM is surprisingly powerful in a dogfight if you're behind the enemy. A situational quirk of the weapon is that if you fire two SAAMs at different targets, and both targets are within the circle, both missiles will keep tracking perfectly fine. Don't get overly focused on your current target, or you might be easy prey to other people, who'll catch you distracted!
 >TLS
-Sniper central. Like PLSL, clouds are your biggest enemy. Unlike PLSL, using TLS means having a giant, attention-grabbing beacon emanating from your plane the moment you fire, so the entire room will usually drop everything they're doing to focus on you. Do not get overly focused on a single target, be prepared to evade incoming at a moment's notice, and remember that TLS rewards a steady hand.
+Sniper central. Like PLSL, clouds are your biggest enemy. Unlike PLSL, using TLS means having a giant, attention-grabbing beacon emanating from your plane the moment you fire, so the entire room will usually drop everything they're doing to focus on you out of sheer awe. Do not get overly focused on a single target, be prepared to evade incoming at a moment's notice, and remember that TLS rewards a steady hand.
 >EML, QAAM, SASM
 Don't.
 
-7. Score system explanation
+7. Stealth
+Ḯ̸̧̖̠̗̍̉̌ ̶̺͇̗͐̿S̸̢̨̰̟͌͋́̕Ē̴̛̳̟͍͘ͅE̷͖̗̬͙̾ ̵̭̟́̌Y̵̞̺͕͚̋̇O̸͚̼͎͑̂̋̽U̶̲̍̂̚
+In AC7, stealth works through levels, from 0 to 10, that increasingly affect the enemy's ability to spot you on radar. Stealth will affect enemy detection by:
+>hiding you entirely at a distance
+>making you fade into view when approaching, instead of instantly appearing on the enemy's scope
+>hiding you when you are in a cone behind the enemy, the size of which will depend on the exact level
+All aircraft will have a native stealth score, which can be looked up in the datasheet and is obviously higher for stealthier ones IRL. Things like the Phantom, Eagle, or Foxhound get a native stealth score of 0, while the F-35 or the FALKEN get a native 6, the highest vanilla score possible. On top of that, the separate stealth parts will 2 and 5 levels respectively to the plane, so a F-22 with Stealth 2 will have a combined level 10 stealth.
+The effects of stealth are summed up in this chart from the datasheet, where
+>start displaying
+The distance at which you will begin appearing. Beyond that distance, you are invisible.
+>fully displayed
+The distance at which your target box is fully shown to the enemy on his HUD. Beyond that distance, the enemy won't be able to use the target-tracking camera to actively track you, and your target box is less conspicuous on the HUD than a non-stealthy enemy's box.
+>Back Blind angle
+The size of the cone behind the enemy where you will be invisible to him.
+
+8. Score system explanation
 >Every player has a base score value based on the cost rating of their aircraft. The exact cost/score table can be found here: https://arch-img.b4k.co/vg/1656114430836.png
 >However, the actual amount of points you get is scaled based on the ratio of your aircraft cost to that of the other players. Flying a higher cost aircraft will reduce the points you receive, and conversely flying a lower cost aircraft increases the points you receive. For instance, if you destroy a plane that has 300 cost less than you do, 95% of the original score calculated is given.
 
@@ -203,7 +218,7 @@ So even if the scoreboard in TDM is:
 >Alpha 2 2k
 Then Alpha 3 will still have 2 stars, and Alpha 4 will have 1, despite all of Bravo outscoring them. However, low scoring players can still contribute by tying up enemies, evading their attacks and not giving out points, while their teammates hit those enemies while they're distracted.
 
-8. /aceg/-approved builds
+9. /aceg/-approved builds
 The buddies have come up with many builds and tactics to use them effectively, focusing on making them enjoyable to use without sacrificing strength in a fight. Included here are the main weapons used by the build, the buddies' remarks on how to employ these planes, and the reasoning behind their choice of parts. The builds listed here are sorted by increasing CST.
 **Remember: many of these builds can be applied to a good variety of aircraft!**
 

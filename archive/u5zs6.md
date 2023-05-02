@@ -34,6 +34,9 @@ Kassyra Follower: https://mega.nz/file/JM4FDJAC#e25ajNBGv7Z7JptdmiSOFdm7-USFZEC1
 A bosmer executioner with a checkered past. She fights with an Ebony Rapier and wears the mask of a deer skull! The perfect follower for those looking for more than just your average Wood Elf Rouge! She can be found on the Center Isle of Leyawiin at a small campsite on the shore or at the Pale Pass Gate.
 WARNING: Kassyra Requires Animated Armoury. There are two versions of Kassyra. One requires Beyond Skyrim - Cyrodiil (Not Bruma) and has an extra little camp you can find Kassyra in. The other version just places her at the Pale Pass Gate. Choose what version suites you best!
 
+Morgane the Ordinator of Necrom: https://mega.nz/file/ZVZx0ZgA#30aQ9HRDjL6MzulQZVgESrogo0Wvkt2-HvyMzVuEa-0
+An Ordinator from Necrom who has made her way to Solitheim to retire. She comes with her own lore book, custom armor and pet Nix Hound who follows her around (Not you though, Fuck you)! She can be found on the walls of Raven Rock!
+
 ##Ports
 
 Unplayable Faction Armors: https://mega.nz/file/ZE5VEI6D#3nBb1NGv_7zHs8qXRVdhcpYszOqdtJqC_TRPLjMSwmE

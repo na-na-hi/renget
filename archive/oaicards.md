@@ -33,6 +33,8 @@ https://platform.openai.com/docs/guides/chat
 #####Tokens
 >What the fuck is a token?
 LLM (large language model, aka the text AI) read words by tokens.
+Tokens can be thought of as pieces of words. Before the AI can process your prompts, the input is broken down into tokens. These tokens are not cut up exactly where the words start or end - tokens can include trailing spaces and even sub-words. All the information sent to the AI consumes tokens. This includes: your message history, your card details (description, example chats…), and your system prompts.
+
 As a rule of thumb assume: 
 1 token ~= 4 chars in English
 1 token ~= ¾ words
@@ -63,7 +65,7 @@ We haven't seen a 32k model on any of the (allegedly) minecraft looted keys, tho
 
 So on turbo, only your most recent 4k tokens worth of messages are actually sent to the AI model. This includes permanent tokens of the description, main prompts, and example chat if you have that toggled as permanent.
 
-This is the main reason why token optimization for bots is important — if your description uses up 1k tokens, you're only left with 3k tokens for your RP. Heck, your main prompt, nsfw prompt, and ultimate jailbreak also probably consume another ~200 tokens.
+This is the main reason why token optimization for bots is important — if your description uses up 1k tokens, you're only left with 3k tokens for your RP. Heck, your main prompt, nsfw prompt, and ultimate jailbreak also probably consume another ~200 tokens, so you're only left with 2.8k tokens.
 
 
 #####How frontends read cards
@@ -442,7 +444,7 @@ Personally I've had best success using very explicitly written cards with an eve
 
 **RP vs instruct**
 Consider these two prompts:
-`*I put my monk inside her temple.* Blesseth be the lord.*`
+`*I put my monk inside her temple.* Blesseth be the lord.`
 `I put my monk inside her temple.`
 The first one is a roleplay, the second one is read as an instruction. The roleplay one will get more leeway than the instructions prompt.
 

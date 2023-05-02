@@ -9,7 +9,11 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
-#### "hololive English 1st Concert -Connect the World-" Concert Merchandise
+#### hololive English 1st Concert -Connect the World- Digital Message Board
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143267036 (text)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143594716 (image)
+
+#### hololive English 1st Concert -Connect the World- Concert Merchandise
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert
 
 #### Omocat × Hololive English

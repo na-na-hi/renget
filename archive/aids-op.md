@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/HT7XEpY.jpg)
-Just Communication Edition
+![suggested OP image]()
+ Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>428095761
+Last thread: >>428285089
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,11 +31,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/01) Neat https://novelai.net/tokenizer ; Saga updated >>427986768 >>428192114
+\>(05/02) Todd/Slaude Tavern guide: https://rentry.org/aids-tavern
+(05/01) Neat https://novelai.net/tokenizer ; Saga updated >>427986768 >>428192114 >>428281578
 (04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF ; stability finetunes vicuna https://huggingface.co/spaces/CarperAI/StableVicuna
 (04/27) 2 years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
 (04/25) Mom: We have chatGPT at home https://huggingface.co/chat
-(04/24) RP-7B half done https://www.together.xyz/blog/redpajama-training-progress
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
