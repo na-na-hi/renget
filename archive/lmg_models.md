@@ -5,7 +5,7 @@
 ## Changelog (MDY)
 [05-02-2023] - Initial Rentry
 
-## 4-bit Model Requirements
+## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. If you do not have enough RAM to load model, it will load into swap. Note that groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
 
 Model Parameters | VRAM Required | RAM
@@ -15,7 +15,7 @@ Model Parameters | VRAM Required | RAM
 30B | 24GB  | 32GB
 65B | 42GB | 64GB
 
-## CPU/llama.cpp RAM Requirements
+## 4-bit CPU/llama.cpp RAM Requirements
 !!! note 5bit to 8bit Quantized models are becoming more common, and will obviously require more RAM. Will update these with the numbers when I have them.
 
 Model | Quantized to 4bit

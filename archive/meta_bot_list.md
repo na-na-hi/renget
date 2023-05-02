@@ -3,22 +3,22 @@
 ***
 [TOC2]
 ***
-## /g/aicg/
+## [/g/aicg/](https://boards.4channel.org/g/catalog#s=aicg)
 - https://rentry.org/cai-list - large list of bots and botmakers; cai and rentries with cards; tools and manuals; **current**
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; **deprecated**
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; **current**
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; **deprecated**
-## /mlp/chag/
+## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)
 - https://derpy.me/ccQBQ - large list of bots; cai and cards; **current**
-## /vp/vpcai/
+## [/vp/vpcai/](https://boards.4channel.org/vp/catalog#s=vpcai)
 - https://rentry.org/vpcai - large list of bots; cai only; **current**
 - https://rentry.org/vpcai-X/ - small list of bots; cards only; **current**
-## /vt/wAIfu/
+## [/vt/wAIfu/](https://boards.4channel.org/vt/catalog#s=AI+Vtuber+Chatbots)
 - https://rentry.org/temporary_wAIfu_List - large list of bots; cai, cards and rentries with cards; manuals; **current**
 - https://rentry.org/aiwaifu - large list of bots; almost completely cai; **deprecated**
 - https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA - large list of bots; cards only; **current**
 - https://rentry.org/aicg - large list of bots; cai only; **current**
-## /vg/aids/
+## [/vg/aids/](https://boards.4channel.org/vg/catalog#s=AI+Dynamic+Storytelling+General)
 - https://aetherroom.club - large list of prompts; text prompts only; **current**
 - https://prompts.aidg.club - large list of prompts; text prompts only; **deprecated**
 

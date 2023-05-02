@@ -1,8 +1,11 @@
-!!! info  05-01-2023 Update:
-	Model torrents link https://rentry.org/nur779 no longer has magnets and links due to the models there being superseded, another anon made a backup here: https://rentry.org/backupmdlist and new Rentry to replace it will be here: https://rentry.org/lmg_models The original Rentry with the torrents is re-directing users to a Reddit page for more up to date links: https://www.reddit.com/r/LocalLLaMA/wiki/models/
+!!! danger Public Service Announcement! (‾◡◝) https://www.youtube.com/watch?v=U-kTu9XOFQc
+     **The anons of /lmg/ has spoken in great numbers, please remember to keep the Jarted Rentry section in the OP when baking. Thank you very much & have a lovely day!**
+
+!!! info  05-02-2023 Update:
+	Model Download/Torrent links backup was moved down to the charts, lmg-model anon got his rentry filled out and ready to use https://rentry.org/lmg_models || A 6th row was added to the chart's tag info below, feedback would be appreciated if having this would be a good idea. 
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.30<-
+#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.32<-
 
 [TOC2]
 
@@ -32,8 +35,7 @@ https://rentry.org/localmodelsoldpapers
 \>/lmg/ Template & Comprehensive Model Lists
 https://rentry.org/LMG-thread-template
 \>Model Lists/Torrents
-https://rentry.org/lmg_models
-https://rentry.org/backupmdlist
+https://rentry.org/lmg_models (NEW!!)
 
 ►**Model Guides & Resources**
 \>LlaMA Guide/Resources
@@ -84,7 +86,10 @@ https://rentry.org/better-llama-roleplay
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-    V. ✅= Uncucked Certified || 🚮 = Cucked Certified (Just an Idea)
+    V. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Just an Idea)
+!!! info
+     You can find more detailed download and torrent information at this Rentry: https://rentry.org/lmg_models which is maintained by another anon. That Rentry would more useful for anons who know what they want and want quicker access. Charts below here should hopefully help serve as a reference (targeted for newer anons) about, activity status, quick information about the different models and finetunes, other guides, and Renties that couldn't fit into the OP template.
+
 ###LlaMA
 Project & Model Names: | Inference: | Type: | Tags: | Resource Links:
 ---|:-:|:-:|:-:|---
@@ -187,7 +192,10 @@ Project & Model Names: | Type: | Tags: | Resource Links:
 ---|:-:|:-:|---
 Whisper.cpp | Speech Recognition | ◕ Ŏ | https://github.com/ggerganov/whisper.cpp 
 AMD GPU | ROCm | ◕ Ŏ $ | https://github.com/RadeonOpenCompute/ROCm (-AMD)
-Model Torrents | Rentry | ◕ | https://rentry.org/nur779 
+Model Torrents | Rentry | ○ | https://rentry.org/nur779
+Model Torrents Backup | Rentry | ◔ | https://rentry.org/backupmdlist
+LMG Models | Rentry | ◕ | https://rentry.org/lmg_models
+
 
 ####Text Generation/Webui:
 Project & Model Names: | Type: | Tags: | Resource Links:

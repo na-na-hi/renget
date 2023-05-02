@@ -1,4 +1,8 @@
-We talk about everything that has to do with speakers, amps, dacs, sources, AVRs, subs, acoustics, electrical engineering and other theory.
+We talk about everything that has to do with speakers, amps, dacs, sources, avr, home cinema, subs, acoustics, electrical engineering and other theory.
+
+Links to music you enjoy are appreciated as well, examples:
+https://www.youtube.com/watch?v=z-GUjA67mdc
+https://www.youtube.com/watch?v=2Qs1J612nZs
 
 Headphones, headphone amps, IEMs and earbuds go here: https://boards.4channel.org/g/catalog#s=iemg
 /hpg/ AES papers and other audio resources are here: https://mega.nz/folder/jlR3WYqb#5b4rDPV2dRmCCrQc5_VG4Q
@@ -55,16 +59,12 @@ Software:
 Books:
 * Floyd E. Toole: Sound Reproduction: The Acoustics and Psychoacoustics of Loudspeakers and Rooms, third edition
 
-Websites for nonpaid reviews:
+Websites for non-paid reviews:
 * https://www.audiosciencereview.com/
 * https://www.erinsaudiocorner.com/
-
-Thread soundtrack:
-* Heroin version: https://www.youtube.com/watch?v=z-GUjA67mdc
-* Audiophile version: https://www.youtube.com/watch?v=2Qs1J612nZs
 
 Tips:
 * Avoid uncorrected rooms, don't even think of upgrading speakers without
 * Avoid soundbars, you can get active speakers for the same money
 * Avoid headphones, instead make sure you have physical bass and correct stereo imaging
-* Ferengi Rule of Aquisition #141: Only Fools Pay Retail! Use Hifishark and price search sites
+* Ferengi Rule of Acquisition #141: Only Fools Pay Retail! Use Hifishark and price search sites

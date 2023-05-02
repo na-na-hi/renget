@@ -139,7 +139,7 @@ Ace Combat 7's guns are misunderstood. Their range is 1700 metres, more than wha
 >see where the tracers are going
 >apply a correction accordingly
 >watch as the enemy is shredded in less than two seconds of sustained fire
-If you do find the pipper to be more convenient, then a good rule of thumb in a turnfight is to use the edge of the pipper as an initial reference instead of the central dot, and lead the target even more than that. Lead the target roughly twice as much as the reticle tells you.[more coming soon]
+If you do find the pipper to be more convenient, then a good rule of thumb in a turnfight is to use the edge of the pipper as an initial reference instead of the central dot, and lead the target even more than that, roughly twice as much as the reticle tells you.[more coming soon]
 
 6. Special Weapons and how to use them
 Unless you're in a Sp.W off room or your plane doesn't get good Sp.Ws, you will do most of your work using Special Weapons. They differ greatly in behaviour, so you'll need to adjust your playstyle to employ them most effectively.  
