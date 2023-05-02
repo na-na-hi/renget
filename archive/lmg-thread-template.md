@@ -226,9 +226,10 @@ Anon's Guide to LLaMA Roleplay | | ◕ | https://rentry.org/better-llama-rolepla
 ####Character Generators and Resources:
 Project & Model Names: | Type: | Tags: | Resource Links:
 ---|:-:|:-:|---
-Oobabooga's Character Guide | | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Custom-chat-characters.md 
-ZoltanAI Character Editor | | ◕ Ŏ | https://github.com/ZoltanAI/character-editor 
-Booru Collection for Pygmalion | | ◕ | https://booru.plus/+pygmalion 
+Oobabooga's Character Guide | Guide | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Custom-chat-characters.md
+Oobabooga's Character Creator | .json | ◕ Ŏ | https://oobabooga.github.io/character-creator.html 
+ZoltanAI Character Editor | Tavern, Pyggy, CAI | ◕ Ŏ | https://github.com/ZoltanAI/character-editor 
+Booru Collection for Pygmalion | PNG, .json | ◕ | https://booru.plus/+pygmalion 
 wAIfu - Tavern Cards | | ◕ | https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA 
 
 ####Other Characters and Waifus:

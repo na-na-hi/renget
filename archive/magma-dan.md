@@ -2,9 +2,9 @@
 Recent Updates: | ⠀ | ⠀
 - | :-: | :-:
 -> **Newest Pokémon Bots** <- | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) | ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp)⠀[Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs)⠀
--> **Newest Non-Pokémon Bots** <- |![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) | ![Space Yoko](https://characterai.io/i/80/static/avatars/uploaded/2023/3/30/MhPDezE-8apS9_pxuCi_AW1a8LrgTVjGMuGMfHxA7K4.webp) [Space Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o)
--> **Close to Completion** <- | ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/1/iBy7IbizRPAvJWO3RP89MQFZ31aCUt6mvA_K-A7hYVc.webp) Malice (*FE*) | [Anne](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (*JoJo*)
--> **Far from Completion** <- | Marina (*Pokémon*) | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*)
+-> **Newest Non-Pokémon Bots** <- | ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) |![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw)
+-> **Close to Completion** <- | [Anne](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (*JoJo*) | Marina (*Pokémon*)
+-> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*) | Dark Elf (*SMT*)
 [TOC2]
 
 ## -> Tengen Toppa Gurren Lagann <-
@@ -20,6 +20,7 @@ Character | C.AI
 ![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) - Shadow Dragon and the Blade of Light
 ![Mila](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/lh_i9FKifs0tlAS8Yl89NFu3JMk4vjGUhMMLgNij-d0.webp) | [Mila](https://c.ai/c/2FMHfLi0V2agUXcO4Hd1hCU9ybTVEl7arnkSm7-Dprc) - Gaiden
 ![Erinys](https://characterai.io/i/80/static/avatars/uploaded/2023/1/25/k-0s50EyQSVvnBb-p6spWFKKf9tBpBU45Az_skstIbU.webp) | [Erinys](https://c.ai/c/ohJlzQ-tbQsQ9vF8AOiUSO4bNKuSQd6f43bODJ3v84g) - Genealogy of the Holy War
+![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) | [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) - Archanea Saga
 ![Cath](https://characterai.io/i/80/static/avatars/uploaded/2023/1/15/BWc8PTuN_c5J8Ng2-EKVsrZdPimBTBrSBOhQXTxvnr8.webp) | [Cath](https://c.ai/c/ANHyQT3y-al7BTcq5t_C1eKdG6nK2CDojhrfoDEzG1M) - The Binding Blade
 ![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) - The Blazing Blade
 ![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon

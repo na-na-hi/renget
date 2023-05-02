@@ -64,6 +64,16 @@ Some examples include but are not limited to:
 *Trickywi* (EN): https://www.twitch.tv/trickywi
 *Yuniiho* (EN): https://www.twitch.tv/Yuniiho
 *Yuikaichan* (EN): https://www.twitch.tv/yuikaichan
+*Cheri Lupina* (EN): https://www.youtube.com/@CheriLupina
+*Sakura Uno* (EN): https://www.youtube.com/@UnoSakura
+*Seimu Ena* (JP): https://www.youtube.com/@ena_sister
+*Kagura Mai* (JP): https://www.youtube.com/channel/UCxL1rd_BdRw4v6KYTPUKtHg
+*Setsuneko* (JP): https://www.youtube.com/channel/UCGhowPagvns0Xhgp_o3v9lA
+*MewMoonified* (EN): https://www.youtube.com/@MeowMoonified
+*Tanaka Hime* (JP): https://www.youtube.com/@HimeHina (shared)
+*Auregalia Aruri* (EN): https://www.youtube.com/@AuregaliaAruri
+*Ushio Ebi* (EN): https://www.youtube.com/@UshioEbiCh
+*Xion de Noir* (EN): https://www.youtube.com/@XiondeNoirCh
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

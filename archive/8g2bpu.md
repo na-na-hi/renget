@@ -1,5 +1,11 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Togetic ranting at Ross about his paint trails in the storeroom
+
+Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
+and/or
+Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm
+
 redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg
 
 Chespin and Sneasel doing a "high shovel" like in Tails Gets Trolled

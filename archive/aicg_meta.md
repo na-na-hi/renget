@@ -28,6 +28,13 @@ Notes:
 - No one uses Scale anymore due to the lack of free-to-use SFW endpoint.
 - There are different LLaMA variants. I'm not well-versed enough with them to provide a rating, but contributions are welcome.
 
+Quick notes on how to access each:
+- GPT-4: Join the [official waitlist](https://openai.com/waitlist/gpt-4-api) (make a convincing application), or use a reverse proxy that has it ([proxy links](https://alwaysfindtheway.github.io) / [agnai video guides](https://rentry.org/agnai_guides) / [tavern guide](https://rentry.org/Tavern4Retards))
+- Claude (API): [Apply.](https://www.anthropic.com/earlyaccess) They are VERY selective. There's also a [Slack-Claude hack for Tavern](https://github.com/AmmoniaM/Spermack), but it's not as good (highly filtered, more limited context, can't edit/remove all messages).
+- Davinci-3: Use an OpenAI key directly in SillyTavern/agnai. You can use your own or buy one (search "buy openai key" on yandex).
+- Turbo: Same as davinci-3 but you can also use a reverse proxy.
+- Claude (Poe): Create a bot over at https://poe.com/. Example: https://poe.com/coolreisen
+
 ## Frontend (service support)
 
 Only two frontends are currently recommended.

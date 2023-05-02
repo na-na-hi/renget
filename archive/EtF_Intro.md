@@ -4,87 +4,97 @@ Near the edge of Capim Town, two Pokemon walked up to a large building, which wa
 
  “Are you sure this is the place?” squawked Chatot. 
 
-The Alakazam to his left stared at an Oshawott relaxing in the pond, “Yes, I’m certain this is the Clover Guild.” 
+The Alakazam to his left stared at an Oshawott relaxing in the pond. “Yes,” said the psychic, “I’m certain this is the Clover Guild.” 
 
-Eventually, the Oshawott noticed the two Pokemon standing at the front of the base as if they were waiting for a greeting from someone, so he got out of the pond and waddled his way over to greet the two strangers, “Hi my name’s Gus, are you looking for someone?” 
+Eventually, the Oshawott noticed the two Pokemon standing at the front of the base. They seemed as if they were waiting for a greeting from someone, so he got out of the pond and waddled his way over to greet the two strangers.
+
+“Hi,” he said. “My name’s Gus. Are you looking for someone?” 
 
 “We have important business with the Combusken that resides here, so bring me to him, human,” demanded Alakazam. 
 
-To stay out of trouble and not draw attention to themselves, the transformed humans of the Clover Guild came up with a story to explain their human mannerisms and actions. Gus, being one of those transformed humans had memorized the script to tell the native Pokemon. “There must be some mistake you see we aren’t really human but we like to role-play as them.” 
+To stay out of trouble and not draw attention to themselves, the transformed humans of the Clover Guild came up with a story to explain their human mannerisms and actions. Gus, being one of those transformed humans, had memorized the script to tell the native Pokemon. “There must be some mistake. You see, we aren't really humans, but we like to role-play as them.” 
 
-Alakazam having already read the aura of the creature claiming to be an Oshawott wasn’t buying that tall tale in the least and responded to his off-topic lie, “If you think I’ll fall for that, you must be dumber than the average human, an already low bar to reach… now human, take me to the Combusken before I have to apply force.” Gus, intimated by the Alakazam’s direct threat and tall statue, froze up for a moment. Impatiently, Alakazam reiterated, “Take us to the Combusken now or you’ll figure out that I hate repeating myself more than your kind.”
+Alakazam, having already read the aura of the creature claiming to be an Oshawott, wasn’t buying that tall tale in the least. “If you think I’ll fall for that,” he growled, “you must be dumber than the average human. And that’s already a low bar to reach… now human, take me to the Combusken before I have to apply force.”
 
-Gus snapped back to his senses and uneasily lead them to the dojo where he knew the Combusken usually was. 
+Gus, intimidated by the Alakazam’s direct threat and tall stature, froze up for a moment. Impatiently, Alakazam reiterated, “Take us to the Combusken now, or you’ll figure out there’s only one thing I hate more than your kind: repeating myself.”
 
-Alakazam and Chatot walk into the Clover Guildhall only to be hit with a smell so putrid that even some of the paint on the walls is stripping off. The floor was covered in dirt like no one had bothered to sweep in months. 
+Gus snapped back to his senses and uneasily led them to the dojo where he knew the Combusken usually was. 
 
-Alakazam, disgusted by the guildhall’s inhabitants, couldn’t help but complain, “It smells awful and it’s a total mess. I know humans are filthy but, you can actually tolerate living like this? Before Gus had a chance to respond, Alakazam caught a glimpse of a Cyndaquil and exclaimed, “And what is that one doing to that Liechi berry?” 
+Alakazam and Chatot walked into the Clover Guildhall only to be hit with a smell so putrid that even some of the paint on the walls was stripping off. The floor was covered in dirt like no one had bothered to sweep in months. 
 
-Cyndaquil, overhearing Alakazam, started to cut a small, very small, circular hole into the berry and elaborate, “Well you see, I’m gonna use the hole I’ve cut into this berry to —” 
+Alakazam, disgusted by the guildhall’s inhabitants, couldn’t help but complain, “It smells awful and it’s a total mess. I know humans are filthy, but how can you actually tolerate living like this?”
 
-Before Cyndaquil could start to violate the berry’s hole a Phany rushed into Cyndaquil dragging him out of the lobby with his trunk. “Not in the Lobby, you idiot!” scolded Phanpy.
+Before Gus had a chance to respond, Alakazam caught a glimpse of a Cyndaquil and exclaimed, “And what is that one doing to that Liechi berry?” 
 
-Chatot, recognizing the Phanpy and Cyndaquil, whispered to Alakazam, “I remember that Cyndaquil, he’s a pervy little freak. Best to steer clear of him.” 
+Cyndaquil, overhearing Alakazam, started to cut a very small, circular hole into the berry. “Well, you see,” he elaborated, “I’m gonna use the hole I’ve cut into this berry to —” 
 
-After what felt like an eternity, Gus successfully escorted Chatot and Alakazam to the guild’s dojo, then quickly ran off back to the pond. Chatot remained outside of the room to shoo away any would-be nuisances. 
+Before Cyndaquil could start to violate the berry’s hole, a Phany rushed into him and dragged him out of the lobby with his trunk. “Not in the Lobby, you idiot!” scolded Phanpy.
 
-In comparison to the rest of the guild, the dojo was relatively clean and equipped with various makeshift weights and equipment. One of the weights was begging used by a dark Pokemon with large claws, Sneasel. On the other side of the dojo, the Combusken of interest finished speaking to a small yellow Pokemon, Ribombee. “... And that should boost the power of your Fairy Wind, Booker, if by only a little,”  Combusken guided.
+Chatot, recognizing the two of them, whispered to Alakazam, “I remember Cyndaquil. He’s a pervy little freak. Best to steer clear of him.” 
+
+After what felt like an eternity, Gus successfully escorted Chatot and Alakazam to the guild’s dojo, then quickly ran off back to the pond. Chatot remained outside of the room to shoo away any would-be nuisances, while Alakazam went inside. 
+
+In comparison to the rest of the guild, the dojo was relatively clean. It was equipped with various makeshift weights and equipment, and one of the weights was being used by a dark Pokemon with large claws- a Sneasel. On the other side of the dojo, the Combusken of interest finished speaking to a small yellow Pokemon, Ribombee. 
+
+“... And that should boost the power of your Fairy Wind, Booker, if only by a little,” Combusken said.
 
 “Hope I’m not interrupting something important,” Alakazam lied.
 
-The Combusken shifted his gaze over to the Alakazam and furrowed his brow, “Ugh… you showed up earlier than I expected. Just tell me what you want so we can get this over with.” snapped Combusken.
+The Combusken shifted his gaze over to the Alakazam and furrowed his brow. “Ugh… you showed up earlier than I expected. Just tell me what you want so we can get this over with.”
 
-Alakazam sternly responded to the blatant disrespect, “Is that how you greet a superior? Address me properly, Combusken.”
+Alakazam sternly responded to the blatant disrespect. “Is that how you greet a superior? Address me properly, Combusken.”
 
-Knowing that this conversation won’t go anywhere until he showed Alakazam undeserved respect, Combusken played along, “To what do I owe the pleasure of your visit, sir?” Sneasel in the back heard the clear sarcasm in his tone and couldn’t help but let out a small chuckle, while she finished making her way over to her Ribombee partner. 
+Knowing that this conversation wouldn’t go anywhere until he showed Alakazam undeserved respect, Combusken played along. “To what do I owe the pleasure of your visit, sir?”
 
-“Several things, as a matter of fact, but first I’d like to discuss this…” responded Alakazam as he plucked out several documents from his satchel and threw them over to Combusken. 
+A short distance away, Sneasel heard the clear sarcasm in his tone. She couldn’t help but let out a small chuckle as she made her way over to her Ribombee partner. 
 
-After rummaging through the papers for a moment, Combusken finally spoke, “This is my first expedition report, I wrote it over 3 months ago. After all this time you, now, wanna discuss it with me?”
+Alakazam replied to Combusken: “Several things, as a matter of fact, but first I’d like to discuss this…” 
 
-“It took time for all the requisition, acceptance, and removal forms to be processed,” clarified Alakazam. “And I had to process *a lot* of them for this visit, so indulge me won’t you?” 
+He plucked out several documents from his satchel and threw them over to Combusken. 
 
-Before Combusken could speak, Booker managed to work up the courage to ask the question that had been weighing on his mind since this stranger showed up, “Excuse me, sir, but... who are you?”
+After rummaging through the papers for a moment, Combusken finally said, “This is my first expedition report. I wrote it over 3 months ago. After all this time, now you wanna discuss it with me?”
 
-Alakazam ignored the human’s question, so the Combusken answered instead, "This is President Alakazam."
+Alakazam clarified, “It took time for all the requisition, acceptance, and removal forms to be processed. And I had to process *a lot* of them for this visit, so indulge me, won’t you?” 
 
-"President? I didn't know Pokemon had presidents," said Booker after shifting his attention to the one who actually answered him.
+Before Combusken could speak, Booker managed to work up the courage to ask the question that had been weighing on his mind since this stranger showed up. “Excuse me, sir, but... who are you?”
 
-Alakazam, not one to miss an opportunity to belittle a human, chimed in, "I'm not surprised. There are very many things humans don't know.” 
+Alakazam ignored the human’s question, so the Combusken answered instead. "This is President Alakazam."
 
-Sneseal gave this stranger who claimed to be a president who would so quickly insult her partner a death glare. "Wow, rude. KFC, what's with this guy?" asked Sneasel.
+"President?” Booker asked, shifting his attention to Combusken. “I didn't know Pokemon had presidents."
 
-President Alakazam, not one to miss an opportunity to belittle a disrespectful Pokemon, interrupted, “KFC? That’s a stupid name. Is that what the humans call you?”
+Alakazam, not one to miss an opportunity to belittle a human, chimed in with, "I'm not surprised. There are very many things humans don't know.” 
+
+Sneseal gave this stranger who insulted her partner a death glare. "Wow, rude,” she said. “KFC, what's with this guy?"
+
+Alakazam, also not one to miss an opportunity to belittle a disrespectful Pokemon, said, “KFC? That’s a stupid name. Is that what the humans call you?”
 
 “Well, t-technically…” Booker stammered, “...it’s an acronym.”
 
-Alakazam pressed further, maintaining direct eye contact with the subject in question, “Then what does ‘KFC’ stand for?” 
+Alakazam pressed further, ignoring Booker while maintaining direct eye contact with Combusken: “Then what does ‘KFC’ stand for?” 
 
-KFC looked down at the floor, a little embarrassed he mumbled, “...I’d rather not say.” 
+KFC looked down at the floor. A little embarrassed, he mumbled, “...I’d rather not say.” 
 
-For a moment the room stood quietly until KFC felt a small tap on his foot and Ribombee asked “Um... so, what's he the president of? We don't live in a country here, so..."
+For a few moments, the room was quiet. Then KFC felt a small tap on his foot. He looked down to see Booker, who asked him, “Um... so, what's he the president of? We don't live in a country here, so..."
 
-“He’s the president of the Exploration Team Federation.” KFC elaborated, “In other words, he is our boss. Anyway knowing him, this will take a while, let’s call it for training today.”
+“He’s the president of the Exploration Team Federation,” KFC elaborated. “In other words, he is our boss. Anyway, knowing him, this will take a while. Let’s call it for training today.”
 
-Booker hopped onto Sneasel’s head and made their way toward the exit. Sneasel whispered to Booker, “Don’t let him get to you he’s a psychic nutcase,” as she shut the door on their way out.
+Booker nodded, then used Fairy Wind to launch himself up onto Sneasel’s head. As they made their way toward the exit, Sneasel whispered to Booker, “Don’t let that psychic nutcase get to you.”
 
-No one left in the dojo except for Alakazam and KFC and everything was still for a brief moment, until the president spoke up, “Finally that human’s gone. Honestly, how do you put up with them?”
+With them gone, there was no one left in the dojo except for Alakazam and KFC. Everything was still for a brief moment, until the president spoke up. “Finally that human’s gone. Honestly, how do you put up with them?”
 
- “Ehh…” the Combusken shrugged, “They aren’t so bad once you *actually* get to know ‘em,” 
-
-Trying to get to the point KFC bluntly asked, “In any case, what’s wrong with my expedition report?”
+“Ehh…” the Combusken said with a shrug, “They aren’t so bad once you *actually* get to know ‘em. In any case, what’s wrong with my expedition report?”
 
 “I never said there was anything wrong with it.” 
 
-KFC asked, “So you came all the way from the Water Continent to only complement my report?” 
+“So you came all the way from the Water Continent to only compliment my report?” 
 
-“Good point…“ the President paused to collect his thoughts then proceeded to lambast the report. “It was awful! You didn't use any of the dungeon codes, put a mission number, or any topographical features of the dungeon. You didn’t put a forwarding name on the header and to top it all off you formatted the report like it was a letter. Need I go on?” 
+“Good point…“ the President paused to collect his thoughts, then proceeded to lambast the report. “It was awful! You didn't use any of the dungeon codes, put a mission number, or list any topographical features of the dungeon. You didn’t put a forwarding name on the header, and to top it all off, you formatted the report like it was a letter. Need I go on?” 
 
-“How was I supposed to know what to include? It was my first report and you didn’t tell me anything!” the angry Combusken complained. 
+“How was I supposed to know what to include?” the angry Combusken complained. “It was my first report and you didn’t tell me anything!” 
 
-President Alakazam almost rose his voice, again, but took a moment to keep his composure and in a stern voice declared, “I expect a full rewrite submitted a week from tomorrow. *Do. I. make. myself. Clear?*”
+President Alakazam almost raised his voice again, but took a moment to keep his composure. In a stern voice, he said, “I expect a full rewrite submitted a week from tomorrow. *Do. I. Make. Myself. Clear?*”
 
-KFC opened his beak, about to speak, but decided that arguing with Alakazam would be a waste of time. “Yes, sir...” said Combusken, swallowing his pride,
+KFC opened his beak to argue, but decided it would be a waste of time. “Yes, sir...” he said, swallowing his pride.
 
 “Great…” Alakazam switched topics like he was checking off items on a list. Now, as part of your deal, we’ve kept a close eye on your clan and our scouts reported that a small group of them are traveling to Luminous Spring.” 
 
@@ -119,7 +129,7 @@ The Combusken stopped at two large wooden doors, they were varnished with a larg
 
 The office was wide with one sweeping bow window overlooking the expansive forest behind the Guildmaster’s desk. The traditional executive-style desk was made of dark oak and had a glass top littered with unorganized papers. Over on the left wall, there was a bookshelf where a variety of orbs were displayed. To the right of the doors, stood a coat rack with the Guildmaster’s familiar garb hanging from its side. There was a display case with assorted wands mounted to the back panel. Guildmaster Lliam was sitting behind the desk in a cloth upholstered chair, while vigorously writing something. Less than a moment later, Lliam’s head popped up to see who opened the door.
 
- “Oh-! KFC is there something you need?” asked Guildmaster Lliam, as he started to shuffle the papers away on his desk.
+ “Oh-! KFC, is there something you need?” asked Guildmaster Lliam, as he started to shuffle the papers away on his desk.
 
 “Not me, but…” Before KFC could finish his sentence Chatot and President Alakazam barged into the office.
 
@@ -139,7 +149,7 @@ Lliam opened the folder and read the cover document then a realization hit him, 
 
 “You’ll be evicted immediately!” interrupted Chatot.
 
-“I won’t let that happen.” Lliam knew the consequences if the humans were evicted and the inevitable happens. “What do I need to do to get us authorization?”
+“I won’t let that happen.” Lliam knew the consequences if the humans were evicted and the inevitable happened. “What do I need to do to get us authorization?”
 
 President Alakazam was still bound to the rules of the Federation and thus explained to the human, “The only way for you to get authorization is to undergo the Federation Entrance Exam, which is a test, administered by me, that requires multiple teams to complete a mission of my choosing”
 
@@ -177,11 +187,11 @@ Overhearing the bet and the stakes his guildmember put up, Lliam knew he had to 
 
 Alakazam thought this back-and-forth wouldn’t finish until the sun blew up so he decided to cut it off short. “So, are you going to cover the cost of the fee, or not?”
 
-The guildmaster opened his mouth about to say something, but the Combusken beat him to the punch, “Yeah, I’m gonna cover the cost and you’re the one paying me so you know I’m good for it.”
+The guildmaster opened his mouth to say something, but the Combusken beat him to the punch, “Yeah, I’m gonna cover the cost and you’re the one paying me so you know I’m good for it.”
 
 “Very well… Combusken go to the bank and withdraw the exam fee.” The President, frustrated that he’ll have to put up with humans a little while longer, gave Lliam a glare that looked like he was trying to shoot daggers into his soul, “You, stupid human, gather everyone here into the Lobby, while I prepare the test you’re going to fail.”
 
-Lliam said “Alright sir…” but thought “Wow! What a fuckin’ Jackass.”
+Lliam said “Alright sir…” but thought “Jackass.”
 
 KFC set off for the bank and the Guildmaster had to figure out a way to round up the hyperactive autists known as members of the Clover Guild, leaving President Alakazam and a riled-up Chatot left in the office to create an exam.
 
@@ -189,13 +199,13 @@ Flapping his wings in excitement, Chatot laughed, “Ha! This is the safest bet 
 
 “You sound pretty confident” Alakazam began to take out several papers and a jar of black ink from his brown satchel. “Are you sure that was a good idea?”
 
-“I’m familiar with one of the teams here and if that's the lowest bar that so-called Guildmaster set to join their band of misfits, then I know I’ll come out on top,” Chatot boasted. Alakazam utilized his psychic powers to pluck a wing feather from Chatot’s plumage. “Ow! At the very least could you warn me in advance if you’re going to do that?”
+“I’m familiar with one of the teams here and if that's the lowest bar that the so-called Guildmaster set to join their band of misfits, then I know I’ll come out on top,” Chatot boasted. Alakazam utilized his psychic powers to pluck a wing feather from Chatot’s plumage. “Ow! At the very least could you warn me in advance if you’re going to do that?”
 
 “If I remember. Now, what test should I give them?” Alakazam scanned through the myriad files he laid out on the desk, “Now, what test should I give them? I don’t want to take any chances that they’ll pass, it wouldn’t look good on me if any humans taint the Federation's good name.” 
 
 Chatot looked puzzled, “Why not give them an impossible task like ‘Collect all Seven Treasures in 10 minutes… or something similar to that?’”
 
-“Then they could contest the results of the test to the board on the bases that the test was biased, and the humans would have a reasonable case.” Alakazam started to scratch his chin and closed his eyes. “It needs to be almost impossible something that they could do in theory but not in practice.”
+“Then they could contest the results of the test to the board on the basis that the test was biased, and the humans would have a reasonable case.” Alakazam started to scratch his chin and closed his eyes. “It needs to be almost impossible. Something that they could do in theory but not in practice.”
 
 Chatot played through many ideas in his mind of an exam they could give and get away with, then realized, “Wait, don’t you have those secret rank missions? Just give them one of those and our victory is assured and I can have that kid work off all the damages that Phanpy’s Team caused me” 
 
@@ -205,7 +215,7 @@ Several Minutes go by while Alakazam and as soon as he finished preparing the ex
  
 Lliam, pretending to ignore that insult, declared “I finished getting everyone together”
 
-The president scoffed, “I’m surprised you managed to do that much.” Lliam intently stared at his wand collection and contemplated what the consequences would be if he used a Two-Edged wand on President Jackass. Before Lliam could come to a definitive conclusion, KFC burst into the office carrying a comedically large sack of money, but he fell backward as soon as the sack of cash got jammed in the doorway. The Combusken got up like nothing had happened and started to pull the bag through the doors.
+The president scoffed, “I’m surprised you managed to do that much.”  Unsure if Alakazam had the ability to read minds, Lliam kept his thoughts and actions silent and obedient to be safe, for himself and the safety of the guild, KFC burst into the office carrying a comically large sack of money, but he fell backward as soon as the sack of cash got jammed in the doorway. The Combusken got up like nothing had happened and started to pull the bag through the doors.
 
 “Sorry, it took so long…” KFC said, still pulling the bag, now halfway through the double doors. “....apparently, the bank doesn’t like it when you withdraw 100 grand all at once.” With an audible snap, the sack of Poke flew into the room, which was caught by an unfazed Alakazam's Psychic in mid-air, as KFC tumbled forward into the desk knocking over some of the exam files. 
 
@@ -233,7 +243,7 @@ The lobby was boisterous as ever, with a plethora of voices filling the air.
 
 As Lliam, Chatot, and Alakazam file into the foyer, the chatter of the rowdy guildmembers continued.
 
-“Guildmaster what’s the matter?”
+“Guildmaster, what's the matter?”
 
 “Whoa, is that Chatot?”
 
@@ -241,13 +251,13 @@ As Lliam, Chatot, and Alakazam file into the foyer, the chatter of the rowdy gui
 
 A whiny voice interrupts Alakazam, “I don’t wanna take a test!” quickly followed by a shrill “Me neither!"
 
-The president took a deep breath and continued, “Based on the number of you here some can opt out. However, if an inadequate number refuse to take the test my associate Chatot, and I will shut your guild down. Now, as I was expl—” 
+The president took a deep breath and continued, “Based on the number of you here some can opt out. However, if an inadequate number choose to take the test my associate Chatot, and I will shut your guild down. Now, as I was expl—” 
 
 Upon hearing the threat, the crowd erupted in furor “How come you get to decide that? You’re not the boss of us!” 
 
 “Does this retard think we’ll listen to him?”
 
-“Le’s rush him, he can’t stop all of us.”
+“Let's rush him, he can’t stop all of us.”
 
 Cut off for a second time by unruly humans, Alakazam’s rage finally boiled over, “Quiet, filthy humans!” A large wave of psychic energy spread over the room forcing almost everyone’s mouth shut. “Now, use what little brain power you humans have and try to stay silent while I finish explaining the rules.” The Federation’s President waited a few seconds, then released Psychic. 
 
@@ -255,7 +265,7 @@ With the room quiet Alakazam continued his speech, “First, the guildmaster may
 
 All the guildmembers remained quiet, not wanting to experience another Psychic or Thunderbolt. However, Llaim utilized the dead air to relay KFC‘s vague parting words. “To find a rift, you need to find what does not belong." The guild stared at Llaim with an identical confusion to the one he had.
 
-“As I was explaining… A rift is an invisible tear in the fabric of space-time. No one knows what the cause of their appearance and they cannot be entered. Furthermore, a rift is completely invisible to almost everyone, but their unique effects on mystery dungeons make them detectable. Some of the rift’s effects on dungeons are noted in each group's folder.” Alakazam displayed the small bottle to the examinees. “In addition, I will provide each group with one bottle of rift sealant. To summarise its use, When a group believes a rift is within 5 meters of them, they should open the bottle. After a short period of time, the small piece of white on the underside of the bottle cap will change colors. If the paper turns red, no rift was sealed. However, if it turns green then a rift was found and sealed. For the guild to pass the exam, all groups must return with a green rift sealant bottle cap, within 48 hours.”
+“As I was explaining… A rift is an invisible tear in the fabric of space-time. No one knows the cause of their appearance and they cannot be entered. Furthermore, a rift is completely invisible to almost everyone, but their unique effects on mystery dungeons make them detectable. Some of the rift’s effects on dungeons are noted in each group's folder.” Alakazam displayed the small bottle to the examinees. “In addition, I will provide each group with one bottle of rift sealant. To summarize its use, When a group believes a rift is within 5 meters of them, they should open the bottle. After a short period of time, the small piece of white on the underside of the bottle cap will change colors. If the paper turns red, no rift was sealed. However, if it turns green then a rift was found and sealed. For the guild to pass the exam, all groups must return with a green rift sealant bottle cap, within 48 hours.”
 
 Some exploration teams decided to form a group with other teams or solo Pokemon while other teams decided that they would do their mission alone and some Pokemon believed they weren’t up for the challenge and stayed behind.
 

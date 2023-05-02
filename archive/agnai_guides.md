@@ -2,9 +2,15 @@
 
 #### Video guides
 
+##### proxies
+
+Note: there may be a bug where you'll have to set your desired default preset not just in the Kobold settings tab (as demonstrated in the videos), but also in the OpenAI settings tab.
+
 Todd: https://files.catbox.moe/hilc9c.mp4 (proxy link used is illustrative and likely outdated)
 
 whocars/hf proxies: https://files.catbox.moe/750zod.mp4 (proxy link used is illustrative and likely outdated)
+
+##### direct
 
 Claude 1.2 (requires API key) https://files.catbox.moe/gyoyxa.mp4
 

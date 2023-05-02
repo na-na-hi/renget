@@ -223,6 +223,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
+	* [Ross Tries to Sleep](https://rentry.org/7kn8v) *Not on Table*
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Smith the Skorupi
@@ -328,6 +329,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Stronger (ft. Chespin)](https://rentry.org/grmup)
 * [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 * [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
+* [Ross Tries to Sleep](https://rentry.org/7kn8v)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

@@ -9,6 +9,9 @@
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 
+A hardcore Genwunner is isekai'd as an infamously hated objectmon, like Garbodor, Klefki, Vanillite, etc., and has to cope with his new identity, as well as the variety of new Pokemon inhabiting the world.
+
+***
 A Mimikyu and Pikachu team stroll into town hawking their wares. At first they seem to be a pair of retired dungeon explorers just looking to sell off their stock, but as the story continues it becomes very clear that the Mimikyu is using the Pikachu for its own ends and manipulating him into doing everything that might possibly endanger the pair. A little bit after the Mimikyu suggests taking the Pikachu into a dungeon 'for old time's sake' and the Pikachu agrees, the protagonists find out that the Mimikyu is plotting to abandon his partner there (so that the Mimikyu can have 100% of their business' profits). From there it becomes a race against the clock to save Pikachu from his partner! How will our heroes succeed (or fail)?
 
 ***

@@ -1,6 +1,7 @@
 #Co-writing guide
-This guide is mainly about how to steer your story... yeah. The guide is semi for both casual players and try-hard writers at the same time.
-(i need better introduction, im working on rewritng this)
+Hello! What is this page is about? It's about steering!.. As in, when you are writing with the AI itself, in NovelAI's editor; I know, I know... There are many flashy buttons in there, *'Ooh, what's memory? What do I put in Lorebook?'* And I may have had wrote guides on them. But it's nothing compare to how you write!
+
+Ouu... I can't emphasise the importance of ***steering*** enough—It can't be taught! It relies on experience. But it's the very core of how the AI itself operate. It'll ripple through everything you did, like how you write a Memory or Lorebook, the *output* you get from the AI. And in a way, you'll discover this on your own too, the more use the AI. It's also very subjective—which on this page, I'll tell you what I learned.
 
 [TOC2]
 
@@ -8,64 +9,77 @@ This guide is mainly about how to steer your story... yeah. The guide is semi fo
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
 
-####Generation Settings
-The truth is, presets make a huge difference in your NovelAI experience - While you can just pick one preset and spend the rest of the year with it, you can still have a 'why did I stick with this preset for so long??' or 'why didn't I know about this preset sooner??' - Thus, so, picking a right preset for yourself is a bit critical.
+####Spelling and Grammar
 
-I don't \_\_\_ —1. love, 2. hate, 3...—All the presets are patterns of selecting one word from the ranking list of the likely next word made by the AI; By starter, you'll have a large amount of words, (1.love--5234.Biden). Each sampling in the preset will cut them down, to the final pool, (1.love--23.care). Then, NAI will randomly pick one word from that final pool, each word have its own probability -\> I don't *hate* \_\_\_— 1. you, 2. cats, 3...—repeat.
+*Grammar and Spelling?* YES!—This is the most important discipline you must have. Make *sure* you don't mispronounce any~ of your characters' names, or any~ words. And yes, grammar too. Try to keep it professional. Put period(.) like a sane person—You can't throw a bunch of disordered inputs at the AI and expect it to not breakdown. You... *(gasped)* sabotaged the AI.
 
-Low randomness increase % of picking likely word(s), lower % for unlikely words. High randomness will make mid-bottom words more likely... Repetition penalty decrease a chance of picking words that was already used, because langauge models tend to repeat itself by default.
+*Why?* Why do we have to bother?  
+As the famous phrase goes: ***"Garbage in garbage out."***—If there are a bunch of anomalies in the context. Guess what? It'll try to replicate those anomalies!
+The AI is not: 'Garbage ~~in quality out.'~~; But it's, "Quality in quality out." Or, well.. "Goodies in goodies out."
 
-So there is not really 'a secret trick' to understand preset, without having to learn all the samplers. Each own have its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.
-And don't try touching any of the settings, beside characters count, or sometime temperature, they are usually carefully crafted. Unless you know what you are doing, of course.
+So we have to do intense proofreading every time we write?  
+No. It's not fun. Trust me, I tried; The more important thing is to not make an obvious mistake. Something that is very jarring. We...  encountered users who do this, sometime. Please! Before you complain about the AI's output, make sure that your writing is sane first! The AI do *not* require special formatting or absurd input, the skill that you need is the English itself. Write like how you would write a fiction!
 
-My recommendation is...
-On **Euterpe**: try out ***Pro Writer***, it's a default preset at the bottom list. A very decisive preset, and many had good time with it; But for more advanced prose, I would recommend my ***[Truthfully](https://cdn.discordapp.com/attachments/1037673943798140979/1085810492414640158/Truthfully-2-euterpe_pume.preset)*** preset; an honorable mention would be ***[ATypical Swansong](https://cdn.discordapp.com/attachments/1035339294182752256/1035339294367285258/ATypical_Swansong_v1.1-66B88.preset)*** since some NAI veterans seem to like it.
+—One last thing that I want to mention is a grammar-assisted tool. You should... try it!  
+'...Is this cheating? Don't you need to rely on your human assessment?' ...Well, it's up to you. But honestly, my NAI experience has been much more fun ever since I gave in and use one of those, (I don't need to reread every single edit I made over and over to correct my error any more.): the one I'm currently use is LanguageTool, it's also an open-source project. Of course, it would make stylistic suggestion sometime, just ignore them.
 
-On **Krake**: check ***[Ace High](https://cdn.discordapp.com/attachments/1035339751504498778/1035339751907139624/Aces_High-C0AD3.preset)***, it's easy to use. A very proficient preset for anyone—use ***Top Gun Beta***, if it feels too random; But if you're pro-narrative, and able to do some inputting, use my ***[Truthfully\(Krake\)](https://cdn.discordapp.com/attachments/1037673943798140979/1039273562609033306/Truthfully-4-krake_pume.preset)***.
+####Lead the way and implying
 
-(note, don't enable Dynamic Range in Truthfully.)
-Other than that, you can try out default preset too; or get variant/other presets from [#content-sharing](https://discord.gg/novelai).
+"How do I get the AI to ..." is a common question. And most of the time, or 100% of the time really... Is to guide the context yourself! Remember, the AI is a continuation machine, they're powered by the narrative flow: And *you*! Have a power to direct that flow with a few beginning words, (like typing `The voice still` and just hit send.) Or in the middle. Or in the end... Basically, you can kind of predict what the AI is going to say base on the last few strings of text. (Just... general idea, and it can still surprise you, or be wrong.)
 
-####Steering
+The more you think like a storyteller, the better you are at managing this flow. The AI is, in a way, a reflection of you. The AI will help you grow and adapt to this 'real time co-writing.' Since the better you are, the better AI's output is!  
+There is a narrative rhythm there. The way you write your sentence is everything. 
 
-Whenever we talk about **[Lorebook](https://rentry.org/lorebook-guide)** or **[Memory](https://rentry.org/memory-guide)**, both boil down to "How do we make the AI become more helpful?" Both of these tools - I had already written guides on them - are useful for making the AI understand what we are trying to write. A few text that should do it. Don't over-engineer them, view them more as a ref-sheet... And if you don't feel like using them, it's fine.
+The same goes for information, describing, ability, and intention. Just like what NAI dev OccultSage said: "You need to ***imply***." The most efficient way to insert an info is not to write a Lorebook entry or in the Memory; but in the story itself. Imply! If you read any kind of novels before, you would know that sometime the protagonist would just recall or make a plan in his/her head. As well as many other ways that you can imply the information/intention in the current moment.
 
-The third tool is the **Module**, Module right now is all about writing style, and pattern. If you are on Euterpe you can train your own custom module, or pick one of the default module—NovelAI is taken to a whole new level with the module that complement your writing—On the other hand, if the module is mostly irrelevant or out-of-focus from your story, it's going to hinder the AI, so you might as well just stick to no-modules.
-
-Right, now, let's talk about the actual writing process. I think you probably know what to do. But I'm going to give some of my thoughts:
-
-***Literature writing****, be mindful of the pattern* - The way you write your sentence is everything. It's hard to explain, but you have to train yourself to write in a literary style. There is a narrative rhythm there... You have to be careful on how you present your input, make sure that the grammar is correct; Because if your prose feels just right, the AI should be able to effectively cooperate with you. But if the prose is too nontraditional, broken, straightforward, the AI's output would probably be silly.
-
-***Long or short****, pick the right setting* - If you find yourself editing too much, use very low Output Length! But if you are keeping an eye on what the AI is going to write, use much higher Output Length!
-
-***Brute forcing****, just keep editing/writing* - You know what to do when the AI isn't exactly helpful? You take over and write what you need to write. The AI won't be able to read your mind, it may not be fluent in some area, or it may not know all the context. Every time the output becomes irrelevant, I just go ahead and edit it.
-
-***Connect the dots****, informs the AI* - Making the story coherent, is your job—You can't just put everything that happens in the Lorebooks and call it a day, because it's too much, and the AI probably can't make use of it—You have to use your brain power to write/guide the story. It's how you create an overarching story.
+And also: **Be bold**. You have an editorial power, use it. You know what to do when the AI isn't exactly helpful? By taking over and write what you need to write. The AI won't be able to read your mind, it may not be fluent in some area, or it may not know all the context. Every time the output becomes irrelevant, simply goes ahead and edit it.
 
 ***Scene not novel****, if you can write a scene, you can write an entire story* - The AI can only remember 2048 tokens (1024 if you are on Tablet), which is about 1.3k words. And that's not the entire book, isn't it? Which is what most newbie novelists said—To that I replied, yes, it might not be able to write an entire novel. But if it can help you with a sentence, then paragraph, then scene, then chapter—You see where I'm going at.
 
-#####Keyboard Shortcuts
+#####Keyboard Shortcuts and Token Probabilities
 
-If you haven't tried these shortcuts, you should try it out. I use these by instinct, and are quite critical to my NovelAI session; Just like any computer program, knowing shortcuts will make you more proficient and faster.
+- ***Ctrl + Enter*** — to hit send.
+- ***Alt + R*** —to retry gen.
 
-- ***Ctrl + Enter*** —for normal gen.
-- ***Alt + R*** —for retry gen.
-- ***Ctrl + Shift + Enter*** —for inline gen.
-- ***Ctrl+Z & Ctrl+y*** —for undo/redo.
+Just in case you don't know about the shortcuts, here it is^ You should try it... as in, like most programs, knowing shortcuts will simply be more convenient than moving a mouse, and faster too. (I still click the button sometime; Unless you are on a phone, which, I guess you won't be using a shortcut then 😂.)
 
-I use *normal gen* for when I want to move forward. However, if I think the output can be better or want to see an alternative, I would *retry*; Also, turn bidirectional inline off. That way, you'll be able to generate fully anywhere on the storytext with *inline gen*.
+- User setting -\> AI Settings -\> Experimental -\> Enable **Token Probabilities** & **Editor Token Probabilities**
+(Also, goes to Interface -\> experimental -\> Use Editor V2; if you don't have it on.)
 
-Basic stuff like *Ctrl+C* & *Ctrl + V*, that's what I do when combining prose from different outputs.
+These two options will allow you to see further into the model itself, clicking on an output will give you the list of words that the AI was considering. *And* you click on one of those option and retry from there. 
 
-Another fun fact, is that once the text is on NovelAI. It will be there forever as part of the .story file. That's right, you can even *undo* back to the beginning of a story, seeing every input/retry/edit that have ever been made, going on different branches, back down and *redo* back to the present.
+####Context
 
-#####Token Probabilities
+- **Advanced** tab \-> **Current Context**.
 
-Everything that the AI generated, all of them have a list of words(tokens) that the model was considering. This is really useful when we are looking for an alternative word. Sometimes the word that we had in mind *might* be there, but maybe we are just too unlucky that the AI didn't choose it. Well, we shall just copy the word and put it in the story ourselves.
+Take a looong look at what's in the context. If you failed to understand this, you *won't* understand how the AI do fundamentally work.  
+I am saying this because you need to understand that there is nothing special about Memory, Lorebook, or Author's Note. They are ***all*** just a part of context—A Lorebook entry is not a special piece of context nor is it an instruction. Imagine a context as a piece of paper, your current story: the storytext, will take a majority of your page, and your active entry will be placed at the top.   
 
-You probably already had it on, but if you haven't, simply click:
-*Setting \-> Enable Token Probabilities \-> ON*
-You will see a brain icon beside the retry button, probabilities list will become available after you generated.
+Storytext has limitation, once you hit the max size. The oldest text will be gone and gone to make a room for newer text.  
+The larger your Memory/Lorebooks are, the less room for storytext, scene's memorization will be shorter.
+
+#####Tools
+
+The strategy for managing the context are here: **[Lorebook](https://rentry.org/lorebook-guide)**, **[Memory](https://rentry.org/memory-guide)**. I already wrote a guide on them, but yes, they're a mere reference (for the AI). When using these two, it'll be only because you want to write beyond 1,400 words. Since these entries will allow you to connect the thread across context regardless of how far you write.  
+It's very much possible to write a story without relying on these tools. That is usually the case if I'm not aiming to write a long story! But once you hit the max active storytext, you will be starting to re-establish things that have already been told or correct the AI to keep up the consistency: using Lorebook and Memory will help.
+
+Then, there is **Module**. Using Module is like... turning a generalist AI into a specialist.  
+Module right now is all about writing style, and pattern. If you are on Euterpe you can train your own custom module, or pick one of the default module—NovelAI is taken to a whole new level with the module that complement your writing—On the other hand, if the module is mostly irrelevant or out-of-focus from your story, it's going to hinder the AI, so you might as well just stick to no-modules.
+
+Another thing that I want to mention is **Output Length**, it's in the 3rd tab of the right panel. Default being `160` characters, or about 40–60 tokens, is pretty much fine. But if you find yourself editing too much, try switching to `40` characters. And if you were spamming Send a little bit too much, switch to a higher length.
+‎
+
+Lastly, being **Preset**.  
+Some people are confused about what it does, or have a completely wrong idea—But to explain. Basically at any given output token. The AI have a long list of words that it was considering, and your preset select one word out of that list.
+
+> `I don't _?_ (love, hate, ..., 5234. Biden)`
+> Each layer in the preset will cut them down, to the final pool.
+> `I don't _?_ (love, hate, ..., 23. care)`
+> Then, one word will be randomly pick from the final pool, each word have its own probability.
+> `I don't` *`hate`* ` _?_ (you, cats, ...)`—repeat.
+
+Each preset have its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.  
+See default presets or get a custom preset from [#content-sharing](https://discord.gg/novelai).
 
 ***
 
