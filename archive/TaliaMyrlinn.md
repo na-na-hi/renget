@@ -1,5 +1,5 @@
 # Talia Linn
--> ![Talia Linn, Morning Dew Guildmom](https://s.sankakucomplex.com/data/16/12/1612712a1f7382ea41b46fcfd3570d48.jpg?e=1672122129&m=FU74xQGwyKVZrLshVHOHgg) <-
+-> ![Talia Linn, Morning Dew Guildmom in her office attire](https://img3.gelbooru.com/images/09/ce/09ce10f950143d7243455e068061bb86.jpg) <-
 
 ## Build
 Race: [Minotaur], [Elf]
@@ -52,7 +52,7 @@ Talia would fall into the Barbarian class if those were an option; forceful and 
 
 Other than that she's a great cook and has been taking singing and etiquette lessons.
 
--> ![](https://s.sankakucomplex.com/data/45/56/4556dc1cee54073d427c0b9674d5fd28.png?e=1672161365&m=j3cscUSzjR9wQiMGs4bTrQ) <-
+-> ![](https://img3.gelbooru.com/images/c3/43/c343cba9c0f6e96541d017203f05c6f6.jpg) <-
 
 Fluff Notes:
 - [A Home], [A Manor], and [Regal Upgrade] are the Morning Dew Guild Hall

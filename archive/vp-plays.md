@@ -142,7 +142,7 @@ https://arch.b4k.co/vp/thread/52259578/ 15 victory road broke
     It's basically a reborn clone, but with some of the edge being replaced with pretentiousness, and a lot of it, even at the expense of gameplay.
     >we're neither woke nor do we bow to the mob
     and yet we're still not allowed to have onscreen handholding with the player character's childhood friend. literally 1984
-    Also includes the cutscene that combined the writer's barely disguised fetish, extreme cutscene stupidity, and shitty rewards for completing a terribly executed slog - the three things I hate the most in fangames - to cause me to ragequit, an incident that lead to an anon taking up a tripcode and continuing after I burn out. It's technically a dragon monotype if you include pangolins, kaijus, and assorted reptiles as "dragons".
+    Also includes the cutscene that combined the writer's barely disguised fetish, extreme cutscene stupidity, and shitty rewards for completing a terribly executed slog - the three things I hate the most in fangames - to cause me to ragequit, which caused an incident that lead to an anon taking up a tripcode and continuing after I burned out. It's technically a dragon monotype if you include pangolins, kaijus, and assorted reptiles as "dragons".
    
     Like the Wack threads, this playthrough also had some overlap with other LPs; in this case, the latter 2 threads overlapped with Pokemon Opal, albiet the short scrapped playthrough I did before I burnt out because the game didn't get good until like 12 hours in or whatever.
     If wagiedos doesn't return by the time I hear about the next Empire update I'll probably redo this playthrough and experience the clusterfuck myself.
@@ -168,7 +168,7 @@ https://arch.b4k.co/vp/thread/51871975/ [14] i don't even know what subtitle to 
 	>1. Doubles mode would be on, turning basically every non-wild encounter into a doubles battle
 	>2. I'd restrict myself to only using steel type pokemon.
 	This could have been interesting if it wasn't for the fact that Wack's doubles mode is extremely incomplete, and it's possible to softlock at the third gym just by walking past an invisible trainer without a team.
-	This LP is mostly here just for completeness's sake, and maybe because it has the very, very beginning of the xenoverse playthrough, although nothing before the player is actually allowed to save
+	This LP is mostly here just for completeness's sake, and maybe because it has the very, very beginning of the xenoverse playthrough, although it's nothing before the player is actually allowed to save
 	
 https://arch.b4k.co/vp/thread/51548975/ 1 let's try this again
 https://arch.b4k.co/vp/thread/51577291/ 2 nevermind, softlocked.
@@ -302,6 +302,7 @@ https://arch.b4k.co/vp/thread/53375847/ 3 got bored/filtered, it's over
 ##Pokemon Wack (woot solorun)
 !!! info Status: Ongoing
     don't you love stubbornness
-    this is another solorun of Pokemon Wack but with woot
+    this is another solorun of Pokemon Wack but with woot, but with at least 425% more legendaries murdered
 	
 https://arch.b4k.co/vp/thread/53705156/ 1 woot wednesday
+https://arch.b4k.co/vp/thread/53737743/ 2 total legendary death

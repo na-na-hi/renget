@@ -9,6 +9,19 @@
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 
+***
+https://youtu.be/0kPXa5REmzc
+You hear your partner cry out from behind you.
+*"Anon, help! I'm hurt!"* 
+You turn your head in a panic, only to find the spot empty. That's right... your partner was actually beside you. Momentarily distracted, you're left open and get hit hard by the Psychic-type you're fighting.
+"Voices are just vibrations in the air," they explain, a devilish grin creeping across their face. "I've become skilled enough with telekinesis that I can replicate them perfectly."
+The phantom voices give you and your partner more than enough trouble throughout the battle, but when the two of you feel the Psychic probing your minds, the situation quickly worsens. You both hear your own voices start to read your thoughts aloud, before quickly creeping into memories and feelings, soon starting to air out your deepest secrets.
+*"I-I have feelings for Anon!"* your partner's voice echoes through the arena, as you see their face quickly fill with dread. "Th-that's not-!"
+You don't have time to react before it's your turn again. Hearing all of your secrets spilled out to the one closest to you already felt like the end of the world, but you quickly learn that things can always get worse. *"I wish I wasn't their partner! I'm getting tired of them..."*
+You try to explain to your partner that it's not true, and it really isn't! But all the real secrets the enemy had been sharing until now made a lie here or there all the more believable, and your partner's face has never looked more sorrowful than it does now.
+The Psychic-type you were fighting smirks, not even bothering to attack anymore. They know they've done more damage than any move ever could.
+*[A Psychic-type that broadcasts you and your partner's thoughts and secrets out loud during the fight, and then eventually slips a couple of lies in to damage your relationship with them.]*
+***
 A hardcore Genwunner is isekai'd as an infamously hated objectmon, like Garbodor, Klefki, Vanillite, etc., and has to cope with his new identity, as well as the variety of new Pokemon inhabiting the world.
 
 ***

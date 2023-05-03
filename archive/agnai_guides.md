@@ -2,6 +2,8 @@
 
 #### Video guides
 
+**(May 3rd 2023: the interface has changed a little, I will re-record the tutorials but I'm waiting for a couple of bugfixes with the new interface)**
+
 ##### proxies
 
 Note: there may be a bug where you'll have to set your desired default preset not just in the Kobold settings tab (as demonstrated in the videos), but also in the OpenAI settings tab.

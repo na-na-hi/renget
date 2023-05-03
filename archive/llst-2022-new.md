@@ -239,8 +239,9 @@ https://kanako-tktk.com/
 https://www.amuse.co.jp/artist/A8758/index.html
 https://twitter.com/Kanako_tktk/
 https://www.instagram.com/kanako.tktk/
-https://www.youtube.com/c/Kanako_tktk
-https://www.youtube.com/c/kingamech 
+https://www.youtube.com/c/Kanako_tktk (artist channel)
+https://www.youtube.com/@kanako-tktk (personal channel)
+https://www.youtube.com/c/kingamech (gaming channel)
  
 **Aina Suzuki 鈴木愛奈** (July 23, 1995) "Ainya"
 https://suzukiaina.jp/

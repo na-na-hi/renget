@@ -1,6 +1,3 @@
-!!! danger Public Service Announcement! (‾◡◝) https://www.youtube.com/watch?v=U-kTu9XOFQc
-     **The anons of /lmg/ has spoken in great numbers, please remember to keep the Jarted Rentry section in the OP when baking. Thank you very much & have a lovely day!**
-
 !!! info  05-02-2023 Update:
 	Model Download/Torrent links backup was moved down to the charts, lmg-model anon got his rentry filled out and ready to use https://rentry.org/lmg_models || A 6th row was added to the chart's tag info below, feedback would be appreciated if having this would be a good idea. 
 

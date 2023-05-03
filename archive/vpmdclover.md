@@ -21,7 +21,7 @@ N/A | M | Phanpy | Cyndaquil (M) & Torchic (F) & Totodile (M) | Clover Guild Mem
 N/A | M | Chespin | Wooper (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#chespinwooper)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye) *Pending*
 Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
-Tybo | M | Skitty | N/A | Clover Guild Native Member |  [???](https://rentry.org/vpmdcloverpb#tybo) *Pending*
+Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
 Acrab | M | Krabby | N/A | Clover Guild Member | Hasty
 Ross | M | Smeargle | N/A | Clover Guild Member | [Insomniac](https://rentry.org/vpmdcloverpb#ross)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)

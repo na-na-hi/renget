@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png
+
 Togetic ranting at Ross about his paint trails in the storeroom
 
 Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
@@ -80,7 +82,7 @@ Chespin lifting Minun with his vines to pick an apple from a tree
 
 Phanpy and friends at the blue claw inn
 
-~~Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall~
+~~Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall~~
 
 ~~Alakazam wearing a pointy white sheet over his head~~
 

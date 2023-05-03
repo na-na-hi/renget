@@ -14,6 +14,8 @@ Steps may vary depending on your distro, but it should generally be the same the
 This guide is mainly intended for linux, however [here's a windows guide](#windows-guide) written by anon. If you have questions, you can try to ask in /aicg/ but it's not a tech help general so don't expect help, just hope for it. Additionally, since we're on /g/ you should have at least a good enough understanding to solve some problems on your own without spoonfeeding.
 
 ###UPDATES
+I am no longer maintaining this, as I lost interest in local models. The theory should still be applicable
+
 (2023-01-27): Here's a small tutorial for manually updating if you use the start script. It seems the parameters aren't working very well for auto updating.
 1: If you know there's a new model out (or want to go from main->dev) then navigate to KoboldAI/models/ and delete the pyg6b folder.
 2: Change the start script to either main/dev for whichever one you want to run

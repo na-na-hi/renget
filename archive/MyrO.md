@@ -1,5 +1,5 @@
 # Myriad Odraz
--> ![Myriad "Myr" Odraz, Archivist and Scholar](https://s.sankakucomplex.com/data/25/04/2504885fab98bc8a81fff365f60f05f6.png?e=1672115141&m=MzwKoRkXaBWXZjARNctI2Q) <-
+-> ![Myriad "Myr" Odraz, Archivist and Scholar](https://img3.gelbooru.com/images/ec/6d/ec6d6f2db19be506f3568a83c5e3e2be.png) <-
 
 ## Build
 Race: [Mazoku], [Elf]
@@ -52,4 +52,4 @@ Myr keeps his tail obscured within his long coat and uses its needle-like tip to
 
 He picked up the art of hexes, curses, enchanting, and progressed with alchemy during his time as a [Doublethink]. His dream is to be able to perform complex transmutations or apply the effects of potions with but a touch of his finger tips. For now he can do some basic ones like rusting metal or water into a weak wine. He's not a strong mage but instead has a wide toolbox of abilities to pick from.
 
--> ![](https://s.sankakucomplex.com/data/ec/6d/ec6d6f2db19be506f3568a83c5e3e2be.png?e=1672116197&m=4hksH7ivPNjZmfuStJ31_g) <-
+-> ![](https://img3.gelbooru.com/images/41/f2/41f2c8e1a991bc0e7ff51686b5173091.jpg) <-

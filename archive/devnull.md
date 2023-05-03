@@ -1,7 +1,3 @@
--> ~~It's been annoying to maintain my shitty rentry *(plus a few of the trial keys are dead)*, so please use my HF proxy:~~ <-
--> ~~https://moxxie-knolastname-530560494330.hf.space/proxy/openai/v1~~ <- 
--> ~~The proxy is actively updated and it has newer keys.~~ <-
--> The proxy is completely fucking dead. <-
 ***
 -> How to avoid the Claude filter: <-
 -> 1. Download the [Latest version of Spermack](https://github.com/AmmoniaM/Spermack/archive/refs/heads/main.zip) <-

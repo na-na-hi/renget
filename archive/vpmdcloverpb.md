@@ -220,7 +220,7 @@
 >Besides that, she avoids drawing attention to herself. She's heard of pokemon but wasn't a fan, so instead of asking a million question she keeps quiet and pieces things together from the conversation the guild nerds spout on about. When she talks, it's short and to the point, not much internet slang.
 
 ###Tybo
-{Pending}
+>Tybo is a male Skitty, native to the pokemon world. Prior to his entry into the Clover Guild, he was an isolationist living alone in a cabin in an arctic area. He’s pretty greedy, and tends to loot “abandoned” places he finds and sells them. He never steals anything where there are people around and doesn’t like stealing from someone unless he sees them as a shitty person or if the place is abandoned, or just in a general state of chaos where someone stealing another’s belongings is of least concern. He tends to not think too much ahead and acts in the moment, he’s also really lucky when it comes to staying out of trouble, he most goes with the flow and silently observes whatever drama is going down at the moment, although he never gossips about it and keeps all his knowledge to himself. Tybo isn’t very malicious, but he’s far from being an angel.
 
 ###Ross
 >chronically tired, insomniac

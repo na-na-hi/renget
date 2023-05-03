@@ -5,6 +5,8 @@
 ###Alephkeller
 >Risk Assessment
 https://archiveofourown.org/works/36084505/
+>Risk Compensation
+https://archiveofourown.org/works/46265299?view_full_work=true
 
 ###Anonno
 >Yeen Green 
@@ -23,6 +25,9 @@ https://rentry.org/xc77i
 https://www.klgrth.io/paste/savh8
 >Wolf Worship
 https://rentry.org/yxvst
+>An Unconventional Yeen GF
+https://rentry.co/gd734hgs
+tags: Yeen, pseudo penis, public sex, public masturbation, public humiliation, anal sex, prostate stimulation, bully, handjobs, cuckquean, ntr, male human/anthro femboy, girly
 >Viking Bear Green
 https://rentry.org/gepww
 
@@ -60,6 +65,10 @@ https://archiveofourown.org/works/43706511
 https://archiveofourown.org/works/42110778?view_full_work=true
 
 ###Caux_Caux_Jambaux
+>Because That's What Friends Are For
+https://archiveofourown.org/works/46177690
+>Kayla Kemper: Amateur Easter Bunny
+https://archiveofourown.org/works/46366651
 >Serving The Queen
 https://archiveofourown.org/works/43347355
 
@@ -148,15 +157,26 @@ https://archiveofourown.org/works/40876602
 ###LiveIron 
 >/adhg/ Musical Parody Library 
 https://archiveofourown.org/works/45819115/chapters/115310383
+>April's Fool
+https://archiveofourown.org/works/46156069
 >Beeg Problems
 https://archiveofourown.org/works/43793265
 >Hedge Fund
 https://archiveofourown.org/works/41117763/chapters/103065318
+>Jagwife and BoatAnon's Beeg Beech Vaycay 
+https://archiveofourown.org/works/46309102?view_full_work=true
 >Negligent Discharge
 https://archiveofourown.org/works/41117478/chapters/103655751
+https://archiveofourown.org/works/41117478?view_full_work=true
+https://archiveofourown.org/works/42047733/chapters/105571812
+https://archiveofourown.org/works/44719186/chapters/112513687
 https://chyoa.com/story/Negligent-Discharge.46328
+>Onyx in the Dunes
+https://archiveofourown.org/works/46808233/chapters/117900304
 >The She-Wolf that Followed me Home 
 https://archiveofourown.org/works/45972355
+>Spider Slayer 
+https://archiveofourown.org/works/46776454
 >Tales from Sector COW
 https://archiveofourown.org/works/41694924
 >Untitled College Story (UCS) Chapter 1
@@ -190,6 +210,8 @@ https://archiveofourown.org/works/45977575
 https://archiveofourown.org/works/30177060/chapters/74349258
 
 ###marumarun
+>There's No Way I Got Assigned To My Older Sister?! The Story Of How The Anthrostate Gave Me An Unthinkable Marriage 
+https://archiveofourown.org/works/46499158?view_full_work=true
 >Pilot In Command 
 https://archiveofourown.org/works/43996200?view_full_work=true
 >Tasha's Love Quest 
@@ -253,18 +275,22 @@ https://archiveofourown.org/works/37488952
 >The Full Treatment
 https://www.sofurry.com/view/1792009
 https://archiveofourown.org/works/37488922
->The Trash that Lurks in the Hearts of Possums
-https://www.sofurry.com/view/1775295
-https://archiveofourown.org/works/37521946
+>Stray
+https://archiveofourown.org/works/46499647
 >Sweeter than Honey
 https://www.sofurry.com/view/1771713
 https://archiveofourown.org/works/37490659
+>The Trash that Lurks in the Hearts of Possums
+https://www.sofurry.com/view/1775295
+https://archiveofourown.org/works/37521946
 >Wedding Knight
 https://archiveofourown.org/works/42366081
 
 ###Regal
 >Button Up Blouse
 https://rentry.org/arrxe
+>A Little Workout
+https://rentry.org/mnq3y
 >A Snack Before Lunch. 
 https://rentry.org/txx5o
 
@@ -320,6 +346,8 @@ https://archiveofourown.org/works/44818570?view_adult=true
 https://rentry.org/xgxe9
 >Gott im HimmeI
 https://archiveofourown.org/works/42910455
+>The HOARD act
+https://archiveofourown.org/works/46854601
 >Home By Christmas
 https://archiveofourown.org/works/41235135
 >Hostile Work Environment
@@ -388,6 +416,11 @@ https://archiveofourown.org/works/45088000
 https://archiveofourown.org/works/38386957
 >Mistress Ninghong
 https://archiveofourown.org/works/38259031
+
+###worker_9
+>Rabbit to the Wolves
+https://archiveofourown.org/works/46450948
+tags: wolfgirls, scent kink, scent marking, sweat, bodily fluids, cunnilingus, vaginal sex, human-like genitalia, 3rd person, one shot, 7.3K words
 
 ###WritefriendSnippet
 >Anthro Insurrection
