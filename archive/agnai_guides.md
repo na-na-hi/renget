@@ -26,12 +26,10 @@ agnai
 ```
 You can alternatively run `agnai -d` if you want the console to log all payloads, like on Silly.
 
-#### Text guide for reverse proxies
+#### agnai userscripts
 
-[1] https://agnai.chat/settings Set Default AI Service to "Kobold", click on the Kobold tab, set "Third-party backend format" to OpenAI and set the third-party URL to the OpenAI proxy URL (***the one that ends with /proxy/openai**).
+##### CYOA helper
 
-**FOR THE TODD PROXY MAKE SURE YOU REMOVE /v1 FROM THE URL**
+https://greasyfork.org/en/scripts/465392-agnaistic-cyoa-helper
 
-[2]  Start a chat. Open the chat menu at the top right, and click "Generation Settings"
-
--> Turn on "Use Preset" and select "OpenAI - Turbo (#2)" or your own preset. You have to make your own preset if you want to use GPT-4. (**USING A GPT-4 PRESET IS MANDATORY FOR THE TODD PROXY**) Save.
+![](https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU9sQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--03402f7d908975b472a71f3526a67d9e78309ba0/file.png?locale=en)

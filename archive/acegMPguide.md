@@ -170,14 +170,15 @@ In AC7, stealth works through levels, from 0 to 10, that increasingly affect the
 >hiding you entirely at a distance
 >making you fade into view when approaching, instead of instantly appearing on the enemy's scope
 >hiding you when you are in a cone behind the enemy, the size of which will depend on the exact level
-All aircraft will have a native stealth score, which can be looked up in the datasheet and is obviously higher for stealthier ones IRL. Things like the Phantom, Eagle, or Foxhound get a native stealth score of 0, while the F-35 or the FALKEN get a native 6, the highest vanilla score possible. On top of that, the separate stealth parts will 2 and 5 levels respectively to the plane, so a F-22 with Stealth 2 will have a combined level 10 stealth.
-The effects of stealth are summed up in this chart from the datasheet, where
+All aircraft will have a native stealth score, which can be looked up in the datasheet and is obviously higher for stealthier ones IRL. Things like the Phantom, Eagle, or Foxhound get a native stealth score of 0, while the F-35 or the FALKEN get a native 6, the highest vanilla score possible. On top of that, the separate stealth parts will add 2 and 5 levels respectively to the plane, so a F-22 (native lvl 5) with Stealth 2 will have a combined level 10 stealth.
+The effects of stealth are summed up in this chart (***https://arch-img.b4k.co/vg/1683039631708.png***) from the datasheet, where
 >start displaying
-The distance at which you will begin appearing. Beyond that distance, you are invisible.
+The distance at which you will begin appearing on the enemy's HUD, gradually fading into view. Beyond that distance, you are completely invisible.
 >fully displayed
 The distance at which your target box is fully shown to the enemy on his HUD. Beyond that distance, the enemy won't be able to use the target-tracking camera to actively track you, and your target box is less conspicuous on the HUD than a non-stealthy enemy's box.
 >Back Blind angle
-The size of the cone behind the enemy where you will be invisible to him.
+The size of the cone behind the enemy where you will be invisible to him. If your level is high enough, it may even cause the enemy to lose track of you after passing him during a close dogfight, potentially giving you a moment to surprise him.
+Stealth is mostly used in BVR builds (LAAM and HVAA) to make hunting them down more difficult- after all, it's hard to kill the guy who shot you if you can't even see him. Adding range parts to these Sp.Ws will make this strategy even more effective, potentially allowing you to fire your weapons beyond the enemy's radar range. However, no matter what you do, you WILL pop up on everyone's radar for a second when you fire any weapon (including your gun!), so these builds rely on surprise and an extremely cautious playstyle, often turning tail the moment someone figures out where they are and comes for their blood.
 
 8. Score system explanation
 >Every player has a base score value based on the cost rating of their aircraft. The exact cost/score table can be found here: https://arch-img.b4k.co/vg/1656114430836.png

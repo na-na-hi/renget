@@ -51,6 +51,7 @@
 03/2023|[SemDeDup: Data-efficient learning at web-scale through semantic deduplication](https://arxiv.org/abs/2303.09540)
 04/2023|[Segment Anything](https://arxiv.org/abs/2304.02643)
 04/2023|[A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
+05/2023|[Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -147,6 +148,7 @@
 04/2023|[We're Afraid Language Models Aren't Modeling Ambiguity](https://arxiv.org/abs/2304.14399)
 04/2023|[The Internal State of an LLM Knows When its Lying](https://arxiv.org/abs/2304.13734)
 04/2023|[Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks](https://arxiv.org/abs/2304.14732)
+05/2023|[Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://arxiv.org/abs/2305.00771)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

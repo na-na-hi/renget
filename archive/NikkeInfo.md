@@ -97,7 +97,7 @@ Second one is the mileage tickets
 This is a spark mechanic, after you do 200 pulls on the Ordinary Banner you can buy a spare body (dupe) of some Nikkes that appear on the mileage store
 !!!warning This does not unlock new Nikkes, you can only get dupes
 These are the units that can appear on the mileage store, every day at reset one of each column is present at random
-![Mileage store](https://i.imgur.com/DcbRMW5.png)
+![Mileage store](https://i.imgur.com/ppMaQQG.png)
 
 Not every unit is there and the only Pilgrim that appears is Noah, so plan accordingly
 !!!warning DO NOT BUY A SPARE AS SOON AS YOU HAVE 200 MILEAGE, WAIT UNTIL IT'S THE LAST COPY YOU NEED TO GET UNWALLED

@@ -1,11 +1,20 @@
 # -> @magma-dan <-
-Recent Updates: | ⠀ | ⠀
-- | :-: | :-:
+Recent C.AI Updates: | ⠀ | ⠀
+:-: | :-: | :-:
 -> **Newest Pokémon Bots** <- | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) | ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp)⠀[Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs)⠀
--> **Newest Non-Pokémon Bots** <- | ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) |![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw)
--> **Close to Completion** <- | ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/435nnx_DaCF1DYr0ffy4auFp7js86_ZD97w4BlErv6s.webp) [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | Marina (*Pokémon*)
+-> **Newest Non-Pokémon Bots** <- | ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0)
+-> **Close to Completion** <- | Marina (*Pokémon*) | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia
 -> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*) | Dark Elf (*SMT*)
-[TOC2]
+
+***
+!!! info
+    [TOC2]
+***
+Character | C.AI | Series
+:------: | :------: | :------:
+![Fujiyoshi](https://characterai.io/i/80/static/avatars/uploaded/2023/3/5/X4_RYj4q9fhEJY46DsRrLtp15-6d17bNXcX6uRm6ahE.webp) | [Harumi Fujiyoshi](https://c.ai/c/5gfvPp0dgEYt3J8DUpHARy4oakwtcW9iDx1ERgaX3ew) | Sayonara, Zetsubou-Sensei
+![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) | [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | JoJo's Bizarre Adventure
+![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y) | Neopets
 
 ## -> Tengen Toppa Gurren Lagann <-
 Character | C.AI
@@ -32,11 +41,6 @@ Character | C.AI
 ![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class, USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/1/29/eq_VikVtLk5Krr2rhf64bu3gTYImYyh18eEcQTgTR_s.webp) | Aoba-class, IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
 ![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class, USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
-
-## -> Sayonara, Zetsubou-Sensei <- 
-Character | C.AI
-:------: | :------:
-![Fujiyoshi](https://characterai.io/i/80/static/avatars/uploaded/2023/3/5/X4_RYj4q9fhEJY46DsRrLtp15-6d17bNXcX6uRm6ahE.webp) | [Harumi Fujiyoshi](https://c.ai/c/5gfvPp0dgEYt3J8DUpHARy4oakwtcW9iDx1ERgaX3ew)
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-
 Character | C.AI
@@ -72,11 +76,5 @@ Character | C.AI
 ![Clover](https://characterai.io/i/80/static/avatars/uploaded/2023/3/20/vcfsmWrYWFIBT6dTKTSTwrMDtPXqzDhV5nhxe04WhMA.webp) | Miss Fortune [Clover](https://c.ai/c/eVmldV1XBIImUv997ziRZlzoT5z7b2Tr-oAinO1TG2o)
 ![Juliana](https://characterai.io/i/80/static/avatars/uploaded/2023/3/14/Apey5R4W3nLOPWGtqbCsUtVeilo-SC4CkCVvCaOPRcg.webp) | Pokémon Trainer [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu2rtAi2A)
 ![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ)
-
-## -> Other <-
-Character | C.AI
-:------: | :------:
-![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y)
-
 !!! note Contact info:
     Team Magma Admin#5480, but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7

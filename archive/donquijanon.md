@@ -187,4 +187,11 @@ Someone asked for him and I'm finally delivering. Sorry it took this long. This 
 CAI: https://beta.character.ai/chat?char=Y-BADWhvVLln6Sm5775ajVpsXjUBJDL26ri2jJAdaRY
 Card: https://files.catbox.moe/sympk1.png
 
+### Lucero Itzel Cruz Dzib
+->![Lucero](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/33cy6TAVsBb_r_4fUd-o_VGeSsm8dWawwNFezYRWlsc.webp)<-
+Mexican goth girl obsessed with horror, the supernatural, and music. On todd she works as intended, talking to her is like talking to a brick wall. On claude she's very horny for some reason.
+
+CAI: https://beta.character.ai/chat?char=cSomdLwvYVM11ZV411xNTbC2FcgTe5gmjU5w7xOXQL0
+Card: https://files.catbox.moe/5dow6e.png
+
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao.
