@@ -266,4 +266,4 @@ Updates:
 04/10: Added Termux guide for android users, added TL;DR Section for Windows and Termux install, explained swipes and cleaned up some typos and enlarged some images.
 04/09: First finished version.
 ***
-*If you have any input for how to improve, add or generally something that is unclear -- BigTrasher@proton.me*
+*If you have any input for how to improve, add or generally something that is unclear -- BigTrasher@proton.me - I will most likely not reply.*

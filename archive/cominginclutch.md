@@ -3,7 +3,7 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: May 2nd | Current Status: Started working on Batch 4: The Big Batch.
+    Last Status Update: May 3rd | Current Status: Started working on Batch 4: The Big Batch.
 	Batch 4 is being worked on and all of the characters in Batch 4 have been decided. See more in the Release Information section below.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 	Rentry may be updated further over the next few days in preparation for Batch 4.
@@ -432,7 +432,8 @@ Recently Accepted Requests:
 	- Confirmed for Batch 4.
 
 Currently Pending Requests:
-- N/A
+- Non-obscure female Star Wars character(s)
+    - Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
 
 Recently Denied Requests:
 - N/A

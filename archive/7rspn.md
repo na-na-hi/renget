@@ -1,4 +1,25 @@
 ▶NEW CLIPS
+>$20K Lancet takes out million dollar M109
+https://files.catbox.moe/2mdzkw.mp4
+>TOS-1A strike on AFU in Bakhmut
+https://files.catbox.moe/9lq9jo.mp4
+>Aftermath of TOS1 in Bakhmut
+https://files.catbox.moe/ft5ex0.mp4 (NOT COMFY)
+https://files.catbox.moe/5xwew5.mp4 (NOT COMFY)
+>AFU Mi-24 downed by missile
+https://files.catbox.moe/fmndts.mp4
+>Russian soldiers save a trapped kitten
+https://files.catbox.moe/gu4p1p.mp4
+>Ammunition depod explodes near Kherson
+https://files.catbox.moe/igrgih.mp4
+>full recording of the Pavlograd fireworks trough a CCTV camera
+https://files.catbox.moe/5jxr03.mp4
+>AFU suicide kayakers wasted
+https://files.catbox.moe/twcs0e.mp4
+>Russian air strikes on UA positions in the South
+https://files.catbox.moe/vrfxkx.mp4
+>Airstrike on point of temporary deployment of AFU infantry
+https://files.catbox.moe/8tv2l3.mp4
 >Pavlograd explosion shockwave
 https://files.catbox.moe/ky4ea4.mp4
 https://files.catbox.moe/q5k46i.mp4

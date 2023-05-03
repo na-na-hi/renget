@@ -1,5 +1,7 @@
+!!! danger 05-03-2023 Important information about the template Rentry, I'm going to keep the Jarted link on the template Rentry, and it will be choice of other bakers to add the Jared Rentry or not. But I will personally keep the Jarted Link for the foreseeable future when I bake threads, mainly because of this post: https://boards.4channel.org/g/thread/93163026#p93163745 That's all I'm going to talk about it
+
 !!! info  05-02-2023 Update:
-	Model Download/Torrent links backup was moved down to the charts, lmg-model anon got his rentry filled out and ready to use https://rentry.org/lmg_models || A 6th row was added to the chart's tag info below, feedback would be appreciated if having this would be a good idea. 
+	 Model Download/Torrent links backup was moved down to the charts, lmg-model anon got his rentry filled out and ready to use https://rentry.org/lmg_models || A 6th row was added to the chart's tag info below, feedback would be appreciated if having this would be a good idea. 
 
 ->![Image description](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 #->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊 𝖁𝖊𝖗. 5.32<-
@@ -152,6 +154,7 @@ LLaMA retrieval plugin | Plugin | ◔ Ŏ | https://github.com/lastmile-ai/llama-
 GPTQ for LlaMA | | ◕ Ŏ | https://github.com/qwopqwop200/GPTQ-for-LLaMa
 LlaMA Adapter | Adapter | ◕ Ŏ | https://github.com/ZrrSkywalker/LLaMA-Adapter
 LlaMA Tokenizer | Tokenizer | ◕ Ŏ | https://huggingface.co/hf-internal-testing/llama-tokenizer/tree/main
+LlaMA Index | Data Augment. | ◕ Ŏ | https://github.com/jerryjliu/llama_index
 
 ***
 ###ChatGLM:

@@ -77,9 +77,9 @@ Model | Type | Download
 ## GPT4-X-Alpasta 30B (04/29/2023)
 !!! info
 
-	An attempt at improving Open Assistant's performance as an instruct while retaining its excellent prose. The merge consists of Chansung's GPT4-Alpaca Lora and Open Assistant's native fine-tune. 
+	An attempt at improving Open Assistant's performance as an instruct while retaining its excellent prose. The merge consists of Chansung's GPT4-Alpaca Lora and Open Assistant's native fine-tune.
 
-	Note that while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose gains makes up for it.
+	It is an extremely coherent model for logic based instruct outputs. And while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue for creative writing/chatbot purposes. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose and coherence gains makes up for it.
 
 Model | Type | Download
 --- | --- | ---
@@ -97,7 +97,7 @@ Model | Type | Download
 30B 4bit | GPU CUDA | https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g
 30B 4bit 128gs | GPU CUDA | https://huggingface.co/Peeepy/llama-33b-oasst-4bit
 
-## SuperCOT (04/22/2023) ![Current Best](https://i.ibb.co/Ydzj0TW/star.png)
+## SuperCOT (04/22/2023)
 !!! info
 
 	SuperCOT is a LoRA trained with the aim of making LLaMa follow prompts for Langchain better, by infusing chain-of-thought datasets, code explanations and instructions, snippets, logical deductions and Alpaca GPT-4 prompts.

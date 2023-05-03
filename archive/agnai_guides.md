@@ -2,21 +2,21 @@
 
 #### Video guides
 
-**(May 3rd 2023: the interface has changed a little, I will re-record the tutorials but I'm waiting for a couple of bugfixes with the new interface)**
+**(May 3rd 2023: VIDEOS UPDATED WITH NEW AGNAI PRESET INTERFACE, RE-CHECK IF YOU'RE HAVING DIFFICULTIES)**
 
 ##### proxies
 
 Note: there may be a bug where you'll have to set your desired default preset not just in the Kobold settings tab (as demonstrated in the videos), but also in the OpenAI settings tab.
 
-Todd: https://files.catbox.moe/hilc9c.mp4 (proxy link used is illustrative and likely outdated)
+Todd/gpt4 proxies: https://files.catbox.moe/lqykvj.mp4
 
-whocars/hf proxies: https://files.catbox.moe/750zod.mp4 (proxy link used is illustrative and likely outdated)
+whocars/hf proxies: https://files.catbox.moe/46lfqp.mp4
 
 ##### direct
 
-Claude 1.2 (requires API key) https://files.catbox.moe/gyoyxa.mp4
+Claude 1.2 (requires API key) https://files.catbox.moe/ml6ar3.mp4
 
-OpenAI (with your own key) https://files.catbox.moe/2rmxag.mp4
+OpenAI (with your own key) https://files.catbox.moe/ykv26c.mp4
 
 #### If you want to install agnai locally
 

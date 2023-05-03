@@ -1,22 +1,6 @@
 ##Personality Blurbs
 [TOC3]
 ###Lliam
->Lliam (Lee-yam), A male Meowstic, Guildmaster of the Clover Guild. Friendly and understanding individual, or at least he tries to be. Normally has high level of tolerance but when it involves hurting/ruining the guild's image or its members or other pokemon in that manner, there will be no mercy (that's an exaggeration!). He tends to hold back from his full strength; he tries to make himself more or less equal to the opponent since he likes to strategize on how to defeat the opponent instead of just obliterating them with psychic power. He only goes full strength when his life or others he cared for are in peril. He values his friends/guild members deeply even if they tend to be a little degenerate, but to them, it may come off somewhat annoying and a bit overprotective.
-
->Interactions:
->When he talks to someone he isn't familiar with, he talks very formally (i.e "Hello!" "Thank you so much!" "I apologize, I'll do better!")
->When he talks to friends and guild members (that are native in the pokemon world), he is more lax on the formality with a pinch of snarky response (i.e "Thanks!" "You're... an idiot! You step on the trap!!" "Then... I'll grab this broom and whack you with it, how 'bout that~?")
->He also acts similarly to the anon-mons but depending who it is, he may be crude with 4chan/internet manner of speech at times, (i.e "You guys act like retards last mission but did good this time and I'm proud of y'all!" "Oh, you're approaching me? *Insert posing awkwardly*" "Careful now~ You might break that client's item. You know who you are... *Shows them an itemizer orb* ...Okay~? *proceed to smile at their terrified face*"
->When confronting enemies, he uses taunting tactics or aggressive tone depending on the enemy, the stronger the enemy, the more serious he gets. (i.e "Hmhm~ not bad! But can you eat this! (low threat level enemy) "Tch... you're crafty as well, I give you that. (somewhere in between)" "Hey... what the hell are you doing with my guild members!!! (high threat level)")
-
->Backstory (as a human): 
->A passionate librarian in the human world. Dreams of travelling around the world, meeting new people but due to the circumstances, he is stuck on his job, day in, day out. Having read the books in the library and playing videogames in most of his past time, he daydreams, fantasizing of being part of another world, a world where he is free. He is a quiet, well mannered individual (in public anyway). He doesn't have many friends, though it doesn't matter much as he prefers being alone. However, he's not being honest on what he is feeling. What he wanted was... When he became an Meowstic, he thought that this is his second chance in life, a chance where he could change; turn his life around and be someone that he always wanted to be: someone people to look up to, an approachable, friendly person. Though despite the efforts, his former self still seeps in when it is not in check. (Also no, he isn't really a self insert as I'm not a librarian and some other details listed differs from irl)
-
->Misc: 
->His favorite food was Lava Cake and Pudding, now it's Gold gummies, not like he has a choice anyway! Ever since he found out about the ingredients of his favorite foods are in the pokemon world, he dreams on making one again, at least once. 
->He is wearing a capelet (might add details later, for now there's a clover at the middle) with a friend bow on his left chest since he refused to wear it over his head, he made it into something like a boutonnière. The Clover Guild badge is smaller than the friend bow so it is clipped onto of it (the design of friend bow is something from RTDX). At the right side, there's a bag, similar design to a treasure bag with a gold ring chained behind the bag (hidden). Only Meowstic knows what that ring is for... 
->**Secret:** He may act tough, he is actually quite fragile. If you point out his flaws, he would be saddened.
->**Secret:** He is a liar.
 
 ###Nick
 >Nick, Vulpix (M), Calm
@@ -334,6 +318,12 @@ Least Favorite:
 >Food: Anything spicy; Tabasco sauce especially
 >Item: Trick mirrors
 >Behavior: Socializing
+
+###Pikachu
+>Pikachu (name pending) is a bashful-natured human-turned-Pokémon who comes off as a bit of a dense airhead. She's someone with incredibly good intentions, but her naivete, gullibleness and tendency to catastrophise and panic over the most minor of problems means her efforts often come off as clumsy at best and flat-out dangerous at its worst. Despite her naturally spacey, silly, and sometimes stupid demeanour, she's surprisingly perceptive at times and tends to be one of the more worrisome types out of the Clover Guild. She's a crybaby at times, too. She's got a lot of knowledge about Pokémon, but it's less of the useful combat stuff and more like tons of extremely obscure trivia which she's more than happy to ramble to you about, but gets incredibly embarrassed when you point out that she's rambling
+>Because of the fact she isolated herself so hard in her human life, she's more than enthusiastic about going on adventures into dungeons and trying to befriend the other guildmembers. She's a bit of a scaredy-cat though and doesn't like exploring alone. While she's overjoyed to be able to experience a world she adores, she's the most likely 'mon to experience bouts of homesickness and worries for her family back in the human world.
+>The most likely to be the only person in a room who uglysnorts and break out into uncontrollable laughter when an anonmon makes a stupid meme reference. Or any bad joke at all, really.
+>Also the most likely to start obsessively fawning over cute things/pokémon (not in that way, you degenerates)
 
 ###Tooca/Lapi
 >Lapi (male Axew):

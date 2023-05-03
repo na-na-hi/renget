@@ -31,10 +31,13 @@ https://github.com/ggerganov/llama.cpp [CPU]
 https://rentry.org/waifutext
 - receive texts from your waifu as notifications on Android and more; uses OpenAI
 
+https://rentry.org/TavernAIExtrasGuide
+- set up character expressions in SillyTavern
+
 ##### Character\.AI
 https://c.ai/
 https://rentry.org/newcaitools [CAI tools]
-- **The** C.AI filtered to hell right now but still fun to play around
+- **The** C\.AI filtered to hell right now but still fun to play around
 
 ##### KoboldAI
 https://koboldai.org/ / https://koboldai.org/colab
@@ -53,11 +56,15 @@ https://boards.4channel.org/vg/catalog#s=aids
 ##### Miku\.gg
 https://docs.miku.gg
 https://rentry.org/mikugg
-- OAI and Kobold frontend with TTS and rich Emotion images support
+- frontend for OAI and Kobold; TTS and rich Emotion images support
 
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
 - korean frontend for oobabooga's and OAI; local install and online demo; feature rich + plugins
+
+##### VenusAI
+https://venusai.chat
+- vietnamese frontend for OAI and Kobold; online only; common bot catalogue with numberfagging
 ***
 ***
 ***

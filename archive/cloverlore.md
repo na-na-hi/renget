@@ -83,8 +83,6 @@ Phanpy's team and the rest of the Treasure Town members arrive in Capim Town.
 
 ##### Undated
 Ordered by release date
-######[Encounter (Lliam) (Intro)](https://rentry.org/Encounter_Meowstic)
-Lliam's first appearance in the Pokemon world, waking up in the Sacred Ruins and meets Hooppa. Hoopa gives Lliam his ring and tells Lliam he isn't the only human in this world.
 ######[Raboot's Introduction (Casey) (Intro)](https://arch.b4k.co/vp/thread/53384286/#q53388874)
 Casey wakes up in a field near Capim Town and finds a job board in town
 ######[Sableye's History (Sableye) (Intro)](https://rentry.org/zyw8t)

@@ -35,7 +35,7 @@ Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdc
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
 Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
-N/A | F | Pikachu | N/A? | Clover Guil Member | Bashful *Pending*
+N/A | F | Pikachu | N/A? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)

@@ -96,7 +96,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *How To Access Luigi's Mansion 2's Secret Mode* (Ihsoy)|[(link)](https://rentry.org/darkmoonmirror)
 *Ihsoy REDONE*|[(link](https://someordinarygamers.fandom.com/wiki/Ihsoy_REDONE)
 *Turmoil*|[(link)](https://rentry.org/turmoilrewrite)
-*Xeunoflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue)
+*Xeunoflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1)
 
 ##Restored/archived by /exeg/
 Title|Link
