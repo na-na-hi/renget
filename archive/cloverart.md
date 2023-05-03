@@ -207,9 +207,6 @@
 ![Soyper](https://i.imgur.com/zirihJZ.jpg)
 #####Woop River
 ![Woop River](https://i.imgur.com/aFDD7Bm.png)
-####Dusk Lycanroc's Drawings
-#####Team Notoriety
-![Team Notoriety](https://i.imgur.com/7QNfPUO.png)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -350,6 +347,9 @@
 ![Guildmaster and His Namesake](https://i.imgur.com/sPb9rot.jpg)
 #####Guildmaster and Botony
 ![Guildmaster and Botony](https://i.imgur.com/8BkNs4Q.jpg)
+####Lycanroc's Library
+#####Team Notoriety
+![Team Notoriety](https://i.imgur.com/7QNfPUO.png)
 ####Minun's Garden
 #####Gus & Linoone
 ![Gus & Linoone](https://i.imgur.com/OyBLVqs.png)

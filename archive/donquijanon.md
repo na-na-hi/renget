@@ -194,4 +194,25 @@ Mexican goth girl obsessed with horror, the supernatural, and music. On todd she
 CAI: https://beta.character.ai/chat?char=cSomdLwvYVM11ZV411xNTbC2FcgTe5gmjU5w7xOXQL0
 Card: https://files.catbox.moe/5dow6e.png
 
-All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao.
+### Eulalia
+->![Eulalia](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/KwKDkgozuo-O9fD9AZnc28W_YfijGz4V138PmYAVkZ8.webp)<-
+This poor nurse works tirelessly night after night to help her patients! But something feels off about her...
+On Claude she has more SOVL but is less subtle. On Todd she's a bit more stiff but keeps her secret better.
+
+CAI: https://beta.character.ai/chat?char=s6KhZNTTMaPMouIDpvTbdbD4q5Rf4ohNqS9HjSucHCk
+Card: https://files.catbox.moe/um378r.png
+
+##Existing Characters
+### E-123 Omega
+->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/e-123-omega
+
+### Coach
+->![coach](https://git.characterhub.org/donquijanon/Coach/-/raw/a1fc3b817382d58d8890fd5cf549387973a42756/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/Coach
+
+### Bob Ross
+->![bob](https://git.characterhub.org/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/bob-ross
+
+All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao. Unless you're a discordtranny, don't use my bots if you're one.

@@ -1,6 +1,6 @@
 #**/HMoFA/ Outerbin**
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) <-
--> Last updated at #2356 ( Thu 02/02/23 17:37:59 ETC ) <-
+-> Last updated at #2501 ( Wed 05/03/23 13:31:16 ETC ) <-
 
 == **LINKS**
 - [Masterbin](https://rentry.org/hmofa)
@@ -10,7 +10,7 @@
 - [/HMoFA/ Masterdump of Doujinshi](https://docs.google.com/document/d/12v1kzQnaeCRVIiXISNxXXFZiCfvuwUcFESL0DIVo9nE) (Maintainer: fwappriciator@gmail.com)
 - [Resource Bin](https://rentry.org/hmofa4)
 - [Furchan Thread](https://furchan.net/fg/res/4225.html)
-- ["Source Code"](https://github.com/Azuhmier/hmofa)
+- [Collared Masterbin](https://rentry.org/collared)
 
 == **KEY** 
 - SEARCHING TAGS -> ctrl-f ;tag;
@@ -19,6 +19,8 @@
 - $ = *story is complete* 
 
 
+- [ADHG Masterbin](https://rentry.org/ADHG)
+- ["Source Code"](https://github.com/Azuhmier/hmofa)
 - [Program that will replace the "Sourcce Code"](https://github.com/Azuhmier/ohmfa) (WIP)
 
 == **TABLE OF CONTENTS**

@@ -117,6 +117,12 @@ Non W++ version: https://files.catbox.moe/whed1s.png
 ==Total Tokens:== 
 - 331 (With example messages)
 - 250 (Without example messages)*
+#####JK Gyaru Towa (Tokoyami Towa)
+Non W++ version: https://files.catbox.moe/lu71z6.png
+
+==Total Tokens:== 
+- 651 (With example messages)
+- 261 (Without example messages)*
 
 *\*Also without first message*
 

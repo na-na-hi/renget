@@ -1,5 +1,9 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
+
+ One of the guild members with Jojo stats (https://d.furaffinity.net/art/bittenhard/1585922600/1585922600.bittenhard_standretsucol02.jpg)
+
 A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png
 
 Togetic ranting at Ross about his paint trails in the storeroom

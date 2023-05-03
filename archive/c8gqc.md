@@ -86,14 +86,16 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ##Bullet IEMs ($15 - $100)
 ***
 *Hall of Fame*
-• Moondrop Quarks DSP (Harman) - $15
 • Final E500 (dark neutral) - $25 
+• Tanchjim Tanya (warm V) - $25 
 • Etymotic ER2XR (bassy neutral) - $100
 
 *Honorable Mentions*
-• KZ Ling Long (V-shape) - $15
+• Moondrop Quarks (neutral) - $15
+• Moondrop Quarks DSP (Harman) - $15
 • Tanchjim Zero (bright neutral) - $15
-• Tanchjim Tanya (warm V) - $25 
+• Tanchjim Zero DSP (Harman) - $15
+• Tanchjim Tanya DSP (Harman) - $25 
 • Etymotic ER2SE (neutral) - $100
 
 ##Showerhead Earbuds ($5 - $25)

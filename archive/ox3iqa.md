@@ -1,4 +1,9 @@
 #Dould bots
+
+[TOC]
+
+##OC Donuts
+
 ####Alz
 ![Alz](https://files.catbox.moe/nlseh2.png)
 *Eccentric, self-proclaimed President of the world*
@@ -78,3 +83,13 @@
 ![Jojo Simulator](https://files.catbox.moe/9lqumw.png)
 *A bizarre adventure card*
 (tavern card) - https://files.catbox.moe/rtritq.png
+
+##/his/tism
+####Argonautica
+![Argonautica](https://files.catbox.moe/wbwej0.png)
+*Conquering the sea with friends*
+(tavern card) - https://files.catbox.moe/y83rdx.png
+####The Odyssey
+![Odyssey](https://files.catbox.moe/xqmcxo.png)
+*A tempting and tumultuous voyage*
+(tavern card) - https://files.catbox.moe/ht02l5.png
