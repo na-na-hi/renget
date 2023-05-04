@@ -1,6 +1,6 @@
 #/vtai/ FAQ 
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [Main](https://rentry.org/vtai/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
+-> [Main](https://rentry.org/vtai/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) | [LoRAs](https://rentry.org/vtaiLoRAs) <-
 
 [TOC]
 

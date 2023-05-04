@@ -1,5 +1,5 @@
-!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 29th Apr. All dates dd/mm.
+f!!! info Blue Archive General Clubs/Circles/Friend Database
+Last updated: 3rd May. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -126,7 +126,7 @@ Club ID | Club Name | Club Status
 3640 | DFC | Full as of 17/09
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
-6665 | F2Poor | Full as of 07/04
+6665 | F2Poor | Full as of 03/05
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 24/04
 8785 | Frogs | Full as of 21/11

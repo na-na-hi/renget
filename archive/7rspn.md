@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>First footage of Geran-2 launches in the ukraine
+https://files.catbox.moe/43xq5f.mp4
+>LNR 2nd Army Corps fry the 54th AFU brigade near Belogorovka
+https://files.catbox.moe/3imw8y.mp4
+https://files.catbox.moe/w97q41.mp4
+>Failed drone attack on Kremlin flag pole
+https://files.catbox.moe/ziwetd.MP4
+>February footage of self-propelled guns being destroyed by Lancet
+https://files.catbox.moe/4mlb0o.mp4
+https://files.catbox.moe/2mdzkw.mp4
+>TOS-1A strike on AFU in Bakhmut
+https://files.catbox.moe/9lq9jo.mp4
 >$20K Lancet takes out million dollar M109
 https://files.catbox.moe/2mdzkw.mp4
 >TOS-1A strike on AFU in Bakhmut

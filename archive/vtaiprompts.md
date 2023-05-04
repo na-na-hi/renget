@@ -1,6 +1,6 @@
 #/vtai/ Prompt List
 -> [![vtai](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Archive](https://rentry.org/vtaiarchive) <-
+-> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Archive](https://rentry.org/vtaiarchive) | [LoRAs](https://rentry.org/vtaiLoRAs) <-
 !!! info *NEW*
 	I have updated the rentry to reflect hll3.1 mixes.
 	Old hll and NovelAI proompts be [here](https://rentry.org/3y56t) if you still need them

@@ -71,6 +71,7 @@
 |
 **Local Related Gits**|
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
+[RPTQ for LLaMa](https://github.com/AlpinDale/RPTQ-for-LLaMA)|WIP implementation of weight+activation quantization
 [LLaMa Pruning](https://github.com/horseee/LLaMA-Pruning)|WIP. Various techniques to prune (zero weights) LLaMa models (needs post-training)
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |

@@ -7,6 +7,7 @@ https://rentry.org/AnimAnon
 
 !!!note Get the script here (original): https://rentry.org/sd-loopback-wave I am also hosting a repo on GitHub in case rentry or the original page is taken down: https://github.com/FizzleDorf/Loopback-Wave-for-A1111-Webui
 
+!!!note A new version by s9roll7 with emphasis on music sync is available [here!](https://github.com/s9roll7/sd_loopback_music_sync_wave)
 ---
 
 ##Introduction

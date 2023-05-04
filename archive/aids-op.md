@@ -1,7 +1,7 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
- Edition
+![suggested OP image](https://imgur.com/P8YvPwM.png)
+Locust Control Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>428285089
  
@@ -31,7 +31,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/02) Todd/Slaude Tavern guide: https://rentry.org/aids-tavern
+\>(05/02) Todd/Slaude Tavern guide (use at your own discretion): https://rentry.org/aids-tavern
 (05/01) Neat https://novelai.net/tokenizer ; Saga updated >>427986768 >>428192114 >>428281578
 (04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF ; stability finetunes vicuna https://huggingface.co/spaces/CarperAI/StableVicuna
 (04/27) 2 years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
@@ -40,7 +40,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Size Difference Friday is over, enjoy the colossal prompts! >>427776323
+\>Theme suggestions for next week are being taken! >>428325039
 
 
 ##Perma-Template

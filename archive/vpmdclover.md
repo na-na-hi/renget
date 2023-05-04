@@ -191,7 +191,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Kiyo the Keokeo
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Lliam the Guildmeowster Meowstic
-    * [An Adventurer's Journal (Past Arc)](https://rentry.org/AnAdveJour)
 	* [The Misadventures of Totodile (ft. Lliam & Solid Linoone)](https://rentry.org/TMoT)
 	* [A Message Board (ft. Lliam)](https://rentry.org/cq4k5) 
 	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 

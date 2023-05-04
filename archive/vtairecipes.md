@@ -1,6 +1,6 @@
 #->  /vtai/ Models Cookbook <-
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
+-> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) | [LoRAs](https://rentry.org/vtaiLoRAs) <-
 !!!note Acknowledgement
     This page is heavily based on the [/hdg/ Stable Diffusion Models Cookbook](https://rentry.org/hdgrecipes), and is intended as an /vtai/-specific alternative, is recommended to read it if you have never mixed models or for reference as we use some mixes from there as well.
 [TOC]

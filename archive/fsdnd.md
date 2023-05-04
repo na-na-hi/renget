@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2491* | Last image filter update: */hmofa/ thread #2491*
+#######Last word filter update: */hmofa/ thread #2501* | Last image filter update: */hmofa/ thread #2491*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -70,6 +70,7 @@
 /(?=.\*slow)(?=.\*hmofa)(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
 /back to the pit(,|\\.)/i;boards:trash;op:no
 /don't post pornographic (content|images)/i;boards:trash;op:no
+/we only had one drawfag/i;boards:trash;op:no
 /(^|\d\n)It's only going to get worse(\\.|$)/i;boards:trash;op:no
 /s(|c)hi(|t)zoomer/i;boards:trash;op:no
 /ipajeet/i;boards:trash;op:no
@@ -162,6 +163,7 @@
 /mentally ill shitzoid/i;boards:trash;op:no
 /need volfa in my life/i;boards:trash;op:no
 /read happiest place on fur for the first time again/i;boards:trash;op:no
+/burzum was right/i;boards:trash;op:no
 /(?=.\*used goods)(?=.\*(sloppy|hmofa))/ims;boards:trash;op:no
 /\/homofag\//i;boards:trash;op:no
 /(?=.\*parasite)(?=.\*socks)/ims;boards:trash;op:no

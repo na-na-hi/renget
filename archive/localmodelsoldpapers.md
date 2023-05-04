@@ -149,6 +149,8 @@
 04/2023|[The Internal State of an LLM Knows When its Lying](https://arxiv.org/abs/2304.13734)
 04/2023|[Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks](https://arxiv.org/abs/2304.14732)
 05/2023|[Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://arxiv.org/abs/2305.00771)
+05/2023|[Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+05/2023|[FreeLM: Fine-Tuning-Free Language Model](https://arxiv.org/abs/2305.01616)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

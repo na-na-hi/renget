@@ -1,6 +1,6 @@
 #/vtai/ Archive
 -> [![vtai](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Prompts](https://rentry.org/vtaiprompts) <-
+-> [Main](https://rentry.org/vtai) | [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Prompts](https://rentry.org/vtaiprompts) | [LoRAs](https://rentry.org/vtaiLoRAs) <-
 
 #[/vtai/ MEGA Archive](https://mega.nz/folder/23oAxTLD#vNH9tPQkiP1KCp72d2qINQ)
 ##Every thread going back to >>34648551

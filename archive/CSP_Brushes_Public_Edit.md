@@ -2,7 +2,8 @@
     !!! danger
 !!! danger
 ##Info
-- [Public edit copy](https://rentry.org/CSP_Brushes_Public_Edit) is available for anyone to edit
+- ↘️↘️↘️↘️
+	- This is a publicly editable version of this rentry, click `edit` at the bottom. The edit code is `4chan` You may also export this to create non CSP variants  using this layout.
 - Textures can be exported by applying to default brushes and exporting but ==3D models as of yet have no convenient way of being shared.==
   - Probably a way by going into your appdata folder.
 - If there is no name then there is no links. It's a space holder. If the DL link goes nowhere then I haven't uploaded yet.
@@ -110,13 +111,6 @@
 **Retro processing filter🪄**|[1687209]|[Store](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
-**Everything Below I am Uploading later**
-**Mystery Cat🪄**|[1856722]|[Store](https://assets.clip-studio.com/en-us/detail?id=1856722)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/67/1856722/thumbnail?1628278090)
-**Crystal Particle Brush🪄**|[1857258]|[Store](https://assets.clip-studio.com/en-us/detail?id=1857258)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/72/1857258/thumbnail)
-**Crystal Engram brush🪄**|[1857257]|[Store](https://assets.clip-studio.com/en-us/detail?id=1857257)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/57/72/1857257/thumbnail)
-**Glow🪄**|[1779888]|[Store](https://assets.clip-studio.com/en-us/detail?id=1779888)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/98/1779888/thumbnail)
-**Dynamic Gradient🪄**|[1809491]|[Store](https://assets.clip-studio.com/en-us/detail?id=1809491)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/91/94/1809491/thumbnail)
-**A gradient map that makes anything pretty🪄**|[1740150]|[Store](https://assets.clip-studio.com/en-us/detail?id=1740150)|[DL]()|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/50/01/1740150/thumbnail)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 

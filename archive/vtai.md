@@ -1,6 +1,6 @@
 #/vtai/ 
 -> ![vtai](https://files.catbox.moe/w9rln6.png) <-
--> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
+-> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) | [LoRAs](https://rentry.org/vtaiLoRAs) <-
 
 [TOC]
 
@@ -8,6 +8,7 @@
 #[Cookbook](https://rentry.org/vtairecipes)
 #[Proompts](https://rentry.org/vtaiprompts)
 #[Archive](https://rentry.org/vtaiarchive)
+#[LoRAs](https://rentry.org/vtaiLoRAs)
 #[vtai Google Colab](https://colab.research.google.com/drive/1STL60qfoY-iSlhRb9zFETRLTqhNbznRf)
 #OP Links
 >NAI Leak Speedrun

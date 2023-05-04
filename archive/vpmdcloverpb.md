@@ -1,7 +1,5 @@
 ##Personality Blurbs
 [TOC3]
-###Lliam
-
 ###Nick
 >Nick, Vulpix (M), Calm
 >- One of those people that would've been considered "gifted" as a child, and then burnt out *hard*.
@@ -207,15 +205,20 @@
 >Tybo is a male Skitty, native to the pokemon world. Prior to his entry into the Clover Guild, he was an isolationist living alone in a cabin in an arctic area. He’s pretty greedy, and tends to loot “abandoned” places he finds and sells them. He never steals anything where there are people around and doesn’t like stealing from someone unless he sees them as a shitty person or if the place is abandoned, or just in a general state of chaos where someone stealing another’s belongings is of least concern. He tends to not think too much ahead and acts in the moment, he’s also really lucky when it comes to staying out of trouble, he most goes with the flow and silently observes whatever drama is going down at the moment, although he never gossips about it and keeps all his knowledge to himself. Tybo isn’t very malicious, but he’s far from being an angel.
 
 ###Ross
->chronically tired, insomniac
->is a nice person, but acts distant mostly to stay in denial about the whole isekai situation
->wasn't really into pokemon as a human, gets confused with basic knowledge assumptions
->prone to sleepwalking if he can sleep
->can't draw for shit (ironic, right), but has been known to produce awe-inspiring work while asleep
->doesn't get the tail thing, if he's not consciously thinking about holding his tail he leaves a trail of paint wherever he goes - handy, because he has a tendency to wander around without paying attention to where he's going
->can be incredibly creative and resourceful but only when something's creating an issue for him - fashioned a bag out of a crate and some vines because he was getting fed up with having to put stuff down to carry his tail
->gets mad when people ask him to draw stuff
->yeah! i think generally he'd speak politely, but dismissively if that makes sense - like he means well but he's not really engaged with conversation if that makes sense. if he were approached by a team that were questioning him he'd get confused and start stuttering pretty quickly
+Ross (M), Smeargle
+>Chronically tired, struggles with insomnia (undecided as to whether Insomnia is his ability or not)
+>Struggling to deal with the whole isekai situation, feels very out of his depth. Easily stressed.
+>Has no prior knowledge of Pokemon before becoming one, gets easily confused with how strange everything is compared to the normal world
+>Basic knowledge assumptions are lost on him (why does eating a berry heal your wounds etc)
+>Has a habit of overthinking when confused or stressed, leading him to seem distant or disengaged when speaking with people
+>Despite that, is nice and tries to be polite, but won't realise if he's coming across as curt or rude
+>Despite being a Smeargle, has no artistic talent whatsoever. Gets annoyed when people assume he does and asks him to draw something for them
+>When he CAN get to sleep, he's prone to occassional episodes of sleepwalking. Has painted some incredible pieces of art while sleepwalking, but has no conscious recollection of doing so, and refuses to take credit for it
+>He's the sort of person who can be incredibly resourceful and creative but only if something's causing him frustration or creating a problem for him
+>Constantly forgets that his tail drags behind him and leaves a trail of paint wherever he goes unless he's tucked it into his belt - this can come in handy though as it means he's easy to find most of the time.
+
+Ability: Insomnia (probably)
+Moves: Sketch (hasn't figured it out yet)
 
 ###Jimmy
 >First of all, as he's still not completely used to this new body, he hasn't learned how to hop on his chest like a normal Gimmighoul. Instead of dragging it everywhere, he prefers to leave it in his room most of the time, and only uses it to store coins, and to sleep inside of. Once he gains control over his chest he'll start hopping around the guild, but will still not take it to dungeons.
