@@ -27,6 +27,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Ourple Guy
 [Guy FLP](https://files.catbox.moe/bycwkj.zip)
 [Lore V1 FLP](https://files.catbox.moe/33dae6.zip)
+##Schoolgrounds
+[Leaked Build](https://files.catbox.moe/g48jlf.zip)
 ## Sky
 [Sky Animations](https://drive.google.com/drive/folders/1uktHVtNhTTIpdxqaniv8WWmYq5p0PfAl)
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)

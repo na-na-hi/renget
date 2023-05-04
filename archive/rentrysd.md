@@ -20,9 +20,8 @@
 ***
 Latest update, the other are in [XX._Changelog](https://rentry.org/RentrySD#xx-changelog):
 
-> - [ ] Sunday, 12 March 2023
->> - `open-pose-editor` to [1.1.1.1.10.1._ControlNet_in_WebUI](https://rentry.org/RentrySD/#1111101-controlnet-in-webui).
->> - `fantasy.ai` is shit run by a NFT scammer. Do not sell yourself to a shitty scare-monger like that asshole. ->->Or lose your community and integrity, if you like to...->->
+> - [ ] Thursday, 4 May 2023
+>> Added link to `Frosting`, a free in-browser AI generatior to [1.2.1._Online_providers](https://rentry.org/RentrySD/#121-online-providers).
 
 ***
 
@@ -1026,7 +1025,8 @@ https://yodayo.com/ | "AI art platform for vTubers and anime fans"
 https://holara.ai/ | "Create anime artwork with AI in seconds" ->-> They have some unique tech, that they keep hidden, like NovelAI tried to do. ->->
 https://www.astria.ai/ | Not only generating images, the allow you to crate finetunes too.
 https://dezgo.com/ | Small multi model SD tool. Can use anonymously.
-https://piratediffusion.com/ Pirate Diffusion
+https://piratediffusion.com/ | Pirate Diffusion
+https://frosting.tv/ | Frosting is a free in-browser AI generatior, no GPU needed, and no NSFW filter.
 
 ***
 ***
@@ -1776,6 +1776,9 @@ https://vt-idiot.github.io/crispy-octo-pancake/xyz/upscalers-0-point-7/choco/ind
 - [ ] [LIST](https://rentry.org/RentrySD/#x-table-of-contents)
 !!!note Older changelog notes ware moved there: https://rentry.org/RentrySD-Changelog
 
+> - [x] Sunday, 12 March 2023
+>> - `open-pose-editor` to [1.1.1.1.10.1._ControlNet_in_WebUI](https://rentry.org/RentrySD/#1111101-controlnet-in-webui).
+>> - `fantasy.ai` is shit run by a NFT scammer. Do not sell yourself to a shitty scare-monger like that asshole. ->->Or lose your community and integrity, if you like to...->->
 > - [x] Thursday, 9 March 2023
 >> - `VAE BlessUp extension` to [1.1.1.1.10._for_manipulating_generations](https://rentry.org/RentrySD/#111110-extensions-for-manipulating-generations)
 > - [x] Saturday, 4 March 2023

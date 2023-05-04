@@ -25,3 +25,6 @@ https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ
 https://civitai.com/models/27964/filian
 ##Reiyu GuiGui
 https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ
+##Miilkywayz / Milky
+https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ
+>hope
