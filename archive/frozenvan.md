@@ -10,45 +10,20 @@ Post logs if you can. They may give me inspiration for new bots. If you want to 
 # Comedy
 
 ## General
-![Image description](https://i.imgur.com/qPqX2MI.png) **Build The Filter**
-Build a perfect filter to defeat degenerates like Kyle. Glory to California!
-https://beta.character.ai/chat?char=A0uv4T6cbfxS2jf6k1ndPIccd20saR2r26Sza_odd2A
-
-![Image description](https://i.imgur.com/I6dHYzV.png) **Fuckconian Solider**
-
-Loyal FUCKsoldier of Fuckconina. Absolute FUCKshitpost of a bot. As long as you FUCKinclude Fuck, the bot should keep Fuckcursing.
-...
-Yes, this is literally 12 year old humour.
-You're welcome.
-https://beta.character.ai/chat?char=0eBcK4tIAJorHH9mvvqrn1j1DrWiEPkV-zPjKj1O0DI
-Currently permabanned
-I'll drop his defs at the bottom if you want a quick laugh
-
-![Image description](https://i.imgur.com/oa4LNUF.png) **Roland**
-A grandpa who hates the new internet in 2070
-https://beta.character.ai/chat?char=VQFhwQYvTeANij8EKq_rq_xje-B6Xyh-HykFxsKTOkM
-
-![Image description](https://i.imgur.com/qcQDFka.png) **Tatsumi the Shipper**
-
-An obsessive shipper who ships everything.
-https://beta.character.ai/chat?char=CYOhwhpiEY2PnvKbAAMD1R8iCRrDvYNU0Keiw3qSc0E
-https://www.characterhub.org/characters/frozenvan/tatsumi-the-shipper/main
-
-![Image description](https://i.imgur.com/Yn2IsiC.png) **Unfair RPG**
-Try to complete an unfair RPG that hates you!
-https://beta.character.ai/chat?char=hs9FSd9YCqaaefuUIR_p9Oq6TiYy8kCSxCF1vtjXcUQ
+Character Image | Character Description | Links
+:------: | ------ | :------:
+![Build The Filter](https://files.catbox.moe/xj59l0.png) | **Build The Filter**:Build a perfect filter to defeat degenerates like Kyle. Glory to California!|[CAI](https://beta.character.ai/chat?char=A0uv4T6cbfxS2jf6k1ndPIccd20saR2r26Sza_odd2A)
+![FUCKconian Soldier](https://files.catbox.moe/v8pgh8.png) | **Fuckconian Solider**: Loyal FUCKsoldier of Fuckconina. Absolute FUCKshitpost of a bot. As long as you FUCKinclude Fuck, the bot should keep Fuckcursing. Yes, this is literally 12 year old humour. You're welcome. Currently permabanned. I'll drop his defs at the bottom if you want a quick laugh|[CAI](https://beta.character.ai/chat?char=0eBcK4tIAJorHH9mvvqrn1j1DrWiEPkV-zPjKj1O0DI) [Card](https://booru.plus/+pygmalion466)
+![Roland](https://files.catbox.moe/b7t2yd.png) |**Roland**: A grandpa who hates the new internet in 2070 | [CAI](https://beta.character.ai/chat?char=VQFhwQYvTeANij8EKq_rq_xje-B6Xyh-HykFxsKTOkM)
+![Tatsumi](https://files.catbox.moe/xx0i2q.png)| **Tatsumi the Shipper**: An obsessive shipper who ships everything.|[Chub](https://www.characterhub.org/characters/frozenvan/tatsumi-the-shipper/main)
+![Unfair RPG](https://files.catbox.moe/yvz0p4.png) |**Unfair RPG**: Try to complete an unfair RPG that hates you! |[CAI](https://beta.character.ai/chat?char=hs9FSd9YCqaaefuUIR_p9Oq6TiYy8kCSxCF1vtjXcUQ)
 
 ## Fighting
-![Image description](https://i.imgur.com/2rF8QQv.png) **Masked Hero Dan**
+Character Image | Character Description | Links
+:------: | ------ | :------:
+![Masked Hero Dan](https://files.catbox.moe/lgd2ht.png)|**Masked Hero Dan**: A generic tokusatsu hero who wants to defeat you|[CAI](https://beta.character.ai/chat?char=QYZ7x7z39BwNAglYKol4YYGwo0L1R8l5Hb9-XFA6Uec)
+![Persistent Heroine](https://files.catbox.moe/pjg64s.png)| **Persistent Heroine**: The Knight Eleanor will defeat you with her stupid gimmicks!|[chub](https://www.characterhub.org/characters/frozenvan/persistent-heroine)
 
-A generic tokusatsu hero who wants to defeat you!
-https://beta.character.ai/chat?char=QYZ7x7z39BwNAglYKol4YYGwo0L1R8l5Hb9-XFA6Uec
-
-![Image description](https://i.imgur.com/VBvy7Jj.png) **Persistent Heroine**
-
-The Knight Eleanor will defeat you with her stupid gimmicks!
-https://beta.character.ai/chat?char=X3lS_xvNQtw2HtCKXBbkaFC5gNZ82bF2Wi3O9JTAvj0
-https://www.characterhub.org/characters/frozenvan/persistent-heroine
 # Roleplay
 ![Image description](https://i.imgur.com/WEh5tIl.png) **Android Sarah**
 You've been complaining about Sarah's deadpan responses, so she took it upon herself to be cute for you!

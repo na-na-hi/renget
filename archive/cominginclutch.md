@@ -292,6 +292,28 @@ https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o 
 Coming... Eventually! See MOTD.
 >I'm expanding Batch 4 by doubling the usual 10 characters into 20 characters. This means a larger variety of characters will be in the next batch. This also means that it will take even longer for Batch 4 to be completed, but I will compensate by releasing two characters per day instead of the usual one per day, but this should allow me to release all the characters quicker (relative to spending time on two batches individually), especially the characters requested by anons. This decision was left up to a strawpoll which lasted for ten days. You can see the results of the poll here: https://strawpoll.com/polls/40Zmq1k5KZa
 
+As thanks for all the support up to this point, I'm providing a list of hints for all 20 characters in this upcoming batch (Ordered by release):
+>3x OC characters
+>>2x Abusive celebrity OC (Alternate versions)
+>>Lamia servant OC
+>1x Grisaia Series character
+>>Makina
+>4x Pokemon female characters
+>>Bebe
+>>Brigette
+>>2x Additional Pokemon (Anime) characters
+>2x Angel Beats! characters
+>>Kanade Tachibana
+>>Male character
+>1x Male Star Wars OC
+>1x Flash animation character (New series)
+>2x Hentai game characters (New series, different series)
+>1x /aicg/-related character
+>1x Female manga character (New series)
+>2x Male anime characters (New series, different series)
+>1x Male video game character (New series)
+>1x Male movie character (New series)
+
 ### Day 1:
 
 ![]()

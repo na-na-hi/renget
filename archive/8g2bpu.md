@@ -1,6 +1,8 @@
 **Please put newer scene ideas to draw at the top of the list**
 
-A Kriketot dancing with a Rawst Berry over his head, with Ronnie staring menacingly in the background.
+anon-mons reenacting Buried Alive with Alakazam https://www.youtube.com/watch?v=N5TWbeav7hI
+
+A Kricketot dancing with a Rawst Berry over his head, with Ronnie staring menacingly in the background.
 
 A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
 

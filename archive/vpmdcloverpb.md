@@ -1,5 +1,54 @@
 ##Personality Blurbs
 [TOC3]
+###Lliam
+>Lliam (Lee-yam), formerly Stargazer, is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a poised, shrewd, though friendly, and an approachable individual. Normally, he has a high level of tolerance when it comes to behaviors regarding and from guild members, but when it reaches the point of hurting others, that's where he draws the line. He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others.
+>He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lie about it. Rarely does he ever tell about his past to anyone, even the guild members.
+>On paper, he is one of the strongest in the guild with his overwhelming psychic powers, but due to an incident in the past, he is unable to cast his fullest potential; he can only cast a certain amount of moves before his body can't withstand his high power output anymore, which causes him to faint. This could possibly put him at the bottom of the guild list in terms of power scaling.
+>He uses Hoopa's ring, wands, support moves, and items to compensate for his lack of use of his psychic power, however. He tends to be flexible with anything in his arsenal, like combining wands with his support moves, for example. He can use Reflect not only for his allies' protection from heavy attacks, but he could also use it as a mirror for his wand shots. He can still freely use telekinesis as much as he likes as it doesn't take that much from him.
+>Though he will use his psychic powers when his life or others that he cares about are in peril, he values his friends/guild members very deeply, even if they tend to be a bit deviant. But to them, it may come off as somewhat of an annoyance and slightly a bit too overprotective, like a mother to her children. Wonder who he took after that from...?
+
+>Interactions:
+>When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally, ("Hello!" "Thank you so much!" "I apologize, I'll do better!")
+>When he talks to friends and to the guild (that are native to the Pokémon world), he is more lax on the formality with a pinch of snarky response, ("Thanks!" "You're... an idiot! You step on the trap!!" "Then... I'll grab this broom and whack you with it, how 'bout that~?")
+>He also acts similarly to the anon-mons but depending on who it is, he may be crude with his 4chan/internet manner of speech at times, ("You guys acted like retards last mission but did good this time, and I'm proud of y'all!" "Oh, you're approaching me? *Insert posing awkwardly*" "Be careful now; you might break that client's item. You know who you are... No dinner for you if that happens, okay~? *proceeds to smile at the terrified members' faces*")
+>When confronting enemies, he uses taunting tactics or an aggressive tone depending on the enemy; the stronger the enemy, the more serious he gets, ("Hmhm~ not bad! But can you eat this! (low threat level enemy) "Tch... you're crafty as well, I give you that. (somewhere in between)" "Hey... don't hurt them!!! (high threat level)")
+>When he talks to ???
+
+>Backstory (An Adventurer's Journal):
+>???
+
+>Backstory (as a human):
+>A passionate librarian in the human world He dreams of traveling around the world and meeting new people, but due to the circumstances, he is stuck at his job, day in and day out. Having read the books in the library and played videogames in most of his free time, he daydreams, fantasizing of being part of another world, a world where he is free. He is a quiet, well-mannered individual (in public, anyway). He doesn't have many friends, though it doesn't matter much as he prefers being alone. However, he's not being honest about what he's feeling. What he wanted was... When a certain event happened during his journey in the Pokémon world, he thought that this was his second chance in life, a chance where he could change; turn his life around, and be someone that he always wanted to be: an approachable person. Someone people could count on to be their friend Though despite the efforts, his former self still seeps in when it is not in check.
+>(Also no, he isn't really a self-insert, as I'm not a librarian and some other details listed differ from irl.)
+
+>Misc:
+>His favorite food was Lava Cake and Pudding, now it's Gold gummies; not like he has a choice anyway! Ever since he found out about the ingredients of his favorite foods in the Pokémon world, he dreams on making those again, at least for once.
+>He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, exliers, TMs, etc.
+>At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just enter through the gold ring's portal if he feels like it. The left wing's secret room is his bedroom (with no windows as his wardrobe would be blocking it, so he got rid of it). While the right wing's secret room is his personal laboratory (it has windows with blinders to prevent any flying Mon from eavesdropping).
+>The lower basement floor is off-limits. No questions asked.
+>**Secret**: He may act tough, but he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
+>**Secret**: Someone is living in the guildhall that nobody is aware of except for Lliam. 
+>**Secret**: He writes letters to someone often and has their familiar Noctowl fly to the guild at night to deliver mail/parcel/allowance.
+>**Secret**: His name, Lliam, has a meaning behind it that is related to the plot.
+>**Secret**: He is a liar.
+
+>Abilities:
+>Keen Eye (An Adventurer's Journal), Prankster
+
+>Moves (Support form):
+>Reflect
+>Light Screen
+>Helping Hand
+>Misty Terrain 
+>Psychic Terrain (often paired with Psybeam, Psychic, or Expanding Force; counts as two consecutive uses per attack on respective moves)
+
+>Moves (Combat form):
+>Shadow Ball (faints after 8 consecutive uses)
+>Thunderbolt (an alternative to Shadow Ball; faints after 8 consecutive uses.)
+>Psybeam (his usual Psychic attack, faints after 8 consecutive uses)
+>Psychic (stronger attack than Psybeam, but after 4 consecutive uses, he will faint.)
+>Expanding Force (usually unused; his final attack. He will faint once used.)
+
 ###Nick
 >Nick, Vulpix (M), Calm
 >- One of those people that would've been considered "gifted" as a child, and then burnt out *hard*.

@@ -117,3 +117,4 @@ Title|Link
 *flower god*|[(link)](https://rentry.org/p6yzy)
 *plimbo falsario*|[(link)](https://rentry.org/plimbofalsario), [(d-sides)](https://rentry.org/xnbzt)
 *Plumbers don't get Pussy*|[(link)](https://files.catbox.moe/16yk84.txt)
+*LETS GO HUNTING FOR SHADOWS*|[(link)](https://rentry.org/9g4vr)
