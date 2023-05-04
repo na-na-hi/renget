@@ -23,7 +23,7 @@
 
 >Misc:
 >His favorite food was Lava Cake and Pudding, now it's Gold gummies; not like he has a choice anyway! Ever since he found out about the ingredients of his favorite foods in the Pokémon world, he dreams on making those again, at least for once.
->He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, exliers, TMs, etc.
+>He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, elixers, TMs, etc.
 >At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just enter through the gold ring's portal if he feels like it. The left wing's secret room is his bedroom (with no windows as his wardrobe would be blocking it, so he got rid of it). While the right wing's secret room is his personal laboratory (it has windows with blinders to prevent any flying Mon from eavesdropping).
 >The lower basement floor is off-limits. No questions asked.
 >**Secret**: He may act tough, but he is actually quite fragile. If you pointed out his flaws, he would be very saddened.

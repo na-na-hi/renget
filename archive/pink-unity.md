@@ -74,6 +74,7 @@ Some examples include but are not limited to:
 *Auregalia Aruri* (EN): https://www.youtube.com/@AuregaliaAruri
 *Ushio Ebi* (EN): https://www.youtube.com/@UshioEbiCh
 *Xion de Noir* (EN): https://www.youtube.com/@XiondeNoirCh
+*Eve さゔちゃんねる* (JP): https://www.youtube.com/@user-eg6us6os5r
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

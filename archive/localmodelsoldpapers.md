@@ -92,6 +92,7 @@
 04/2022|[GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 11/2022|[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 04/2023|[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
+05/2023|[StarCoder: May the source be with you!](https://huggingface.co/bigcode/starcoder)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

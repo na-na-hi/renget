@@ -36,13 +36,16 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ##MidFi IEMs ($120 - $210)
 ***
 *Hall of Fame*
+• Juzear 41T (neutral) - $165
 • Letshuoer S12 Pro (V-shape) - $170
 • Letshuoer x Z Review Z12 Gold (bassy V) - $170
 • SeeAudio Yume II (Harman) - $200
 
 *Honorable Mentions*
+• Letshuoer D13 (bassy W) - $120
 • Tinhifi T4 Plus (bright V) - $120
 • Sennheiser IE200 (W-shape) - $150
+• SoundRhyme SR5 (neutral) - $150
 • KiiBoom Evoke (Harman) - $170
 • Tanchjim New Hana 2021 (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
@@ -82,6 +85,8 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Kinera Skuld (neutral) - $550
 • Dunu SA6 MKII (bassy neutral) - $580
 • Moondrop S8 (Harman) - $700
+• AüR Audio Neon Pro (neutral) - $710
+• 7th Acoustics Supernova (neutral) - $750
 
 ##Bullet IEMs ($15 - $100)
 ***
@@ -96,6 +101,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tanchjim Zero (bright neutral) - $15
 • Tanchjim Zero DSP (Harman) - $15
 • Tanchjim Tanya DSP (Harman) - $25 
+• Final E2000 (warm V) - $45
 • Etymotic ER2SE (neutral) - $100
 
 ##Showerhead Earbuds ($5 - $25)
