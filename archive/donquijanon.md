@@ -206,7 +206,7 @@ Card: https://files.catbox.moe/um378r.png
 ->![atzin](https://git.characterhub.org/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
 Cheerful and optimistic genetically engineered Axolotl girl.
 
-CAI: 
+CAI: https://beta.character.ai/chat?char=NW-eN8wjeWXy7q3K08KS6igR_8UPWcdqusTxuEvOSnU
 Card: https://www.characterhub.org/characters/donquijanon/Atzin
 
 ##Existing Characters

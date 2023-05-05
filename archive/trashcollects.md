@@ -462,6 +462,17 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
 
+### Steve Martin Style
+
+	https://rentry.org/zni6o
+	https://pixeldrain.com/u/cmZbPM6C
+	https://pixeldrain.com/u/eA1M7CYM
+
+	"SteveMartinsArt style"
+
+	Probably so-so, didn't test it well enough
+
+
 ## LORAs from the Discord
 
 ### Various Characters (FinalEclipse's Trash Pile)

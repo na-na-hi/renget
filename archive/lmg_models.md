@@ -71,6 +71,8 @@ Model | Type | Download
 
 	Pygmalion 7B is a dialogue model that uses LLaMA-7B as a base. The dataset includes RP/ERP content. Metharme 7B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
 
+	PygmalionAI intend to use the same dataset on the higher parameter LLaMA models. No ETA as of yet.
+
 	>Filtering Status : None
 
 Model | Type | Download
@@ -88,7 +90,7 @@ Model | Type | Download
 
 	It is an extremely coherent model for logic based instruct outputs. And while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue for creative writing/chatbot purposes. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose and coherence gains makes up for it.
 
-	>Filtering Status : Light
+	>Filtering Status : Medium
 
 Model | Type | Download
 --- | --- | ---

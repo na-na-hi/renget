@@ -40,6 +40,10 @@ MDE_DaughterUniversity_r12 (CRF 22, grain).mp4
 MDE_GuiltStimulatorII_r3 (CRF 25).mp4
 ```magnet:?xt=urn:btih:5875e679bf4df95573fe8b39d54bebf588f5b9d3&dn=MDE_GuiltStimulatorII_r3%20(CRF%2025).mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce```
 
+***NEWEST***
+HW_054 - I H8 Lamborguineas_r1.mp4
+```magnet:?xt=urn:btih:43c2a6ff3120a93faa9e85f14eb680c353e942ab&dn=HW_054%20-%20I%20H8%20Lamborguineas_r1.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
 ##ONGOING STREAM VODS (GUMROAD)
 
 2022-11-22 - SAM Hyde drops a NUKE LIVE in MW2 Fight Reaction KSI.mp4
