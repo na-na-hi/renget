@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/Bt4jt1I.png)
-Disability Edition
+![suggested OP image](https://imgur.com/QNcQ0Dj.png)
+Fear & Trembling Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>428444502
+Last thread: >>428589798
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
+\>(05/05) Saga alphas freeform mode >>428651359 ; Kobold mpt update >>428646586 >>428664559
+\>(05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter
 (05/02) Todd/Slaude Tavern guide (use at your own discretion): https://rentry.org/aids-tavern
-(05/01) Neat https://novelai.net/tokenizer ; Saga updated >>427986768 >>428192114 >>428281578
-(04/28) Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF ; stability finetunes vicuna https://huggingface.co/spaces/CarperAI/StableVicuna
+(05/01) Neat https://novelai.net/tokenizer ; Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
 (04/27) 2 years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
-(04/25) Mom: We have chatGPT at home https://huggingface.co/chat
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Write dumb prompts for next week's theme, Retarded Klutz Friday! >>428586436
+Write dumb prompts for next week's theme, Retarded Klutz Friday! >>428586436
 
 
 ##Perma-Template

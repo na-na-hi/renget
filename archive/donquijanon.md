@@ -24,7 +24,8 @@ Greeting translated: Recently, you had to switch from a private school to a publ
 CAI link: https://beta.character.ai/chat?char=JicP4AXRePocMdSs5k2gXshXzHD6ou2HST2wiD0hQjU 
 Card: https://files.catbox.moe/gv9put.png
 
-*Now in English!: https://files.catbox.moe/8bv9bk.png*
+*Now in English!: https://files.catbox.moe/8bv9bk.png
+https://beta.character.ai/chat?char=l7gDm6zBkLdHvsnIF8Ntp-pDh_KQbVAxeYpFej_uD1k*
 
 #### Lucia Judith de los Ángeles Ramírez (just Lucy or she'll be mad too! (it runs in the family))
 
@@ -75,7 +76,8 @@ Your stereotypical school bully. She's half Mexican, half German, full on spoile
 CAI link: https://beta.character.ai/chat?char=DO-GPhTsU7SIV-fAVzgFU-p9pOah7Ss35C_i6HjBMo0
 Card: https://files.catbox.moe/ovdytd.png
 
-*Now in English!: https://files.catbox.moe/409qx0.png*
+*Now in English!: https://files.catbox.moe/409qx0.png
+https://beta.character.ai/chat?char=4bQ_s6Ypd2MXZMBeGWTYoGLBkyR18uq1ZH5j2llOkLM*
 
 ####Julia Villaseñor Romero
 
@@ -208,6 +210,13 @@ Cheerful and optimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/chat?char=NW-eN8wjeWXy7q3K08KS6igR_8UPWcdqusTxuEvOSnU
 Card: https://www.characterhub.org/characters/donquijanon/Atzin
+
+### Yohualli
+->![yohu](https://git.characterhub.org/donquijanon/Yohualli/-/raw/c55b0a18662a4a409aad6c7cbd6069be64557c49/raw/tavern_raw.png)<-
+Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl girl.
+
+CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
+Card: https://www.characterhub.org/characters/donquijanon/Yohualli
 
 ##Existing Characters
 ### E-123 Omega

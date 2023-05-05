@@ -19,6 +19,8 @@ UNF Artemis: https://www.xivmodarchive.com/modid/58253
 
 Eve Futanari: https://www.xivmodarchive.com/private/69ea5345-ba2f-499b-b602-720768b59e0a
 
+Tight and Firm3: https://www.xivmodarchive.com/modid/43337
+
 -
 -
 

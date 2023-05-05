@@ -3,7 +3,10 @@
 
 ->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
 
-->[Combat Sheet](https://files.catbox.moe/ncejtw.jpg)<-
+->[Combat Info Sheet](https://files.catbox.moe/ncejtw.jpg)<-
+
+->[RPG Party Sheet](https://files.catbox.moe/fgxcni.jpg)<-
+->[(solo version)](https://files.catbox.moe/ekl6bo.jpg)<-
 
 ->[Quidditch Stats](https://files.catbox.moe/6619zl.png)<-
 

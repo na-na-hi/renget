@@ -8,7 +8,8 @@ They each have unique personalities. It's your job to look after the jelly girls
 ***
 **Here is the bot for all the girls combined** 
 I like the way it turned out. It seems to get the personalities right. They have nice interactions and bicker with each other a lot. This works a lot better than putting them in a room.
-https://beta.character.ai/chat?char=0vwOjRj8kMbXz8nKnxQnphPvMmB0W6pyedceEaaMIjk
+[CAI](https://beta.character.ai/chat?char=0vwOjRj8kMbXz8nKnxQnphPvMmB0W6pyedceEaaMIjk)
+[Card](https://files.catbox.moe/5lmcwd.png)
 
 Individual bots are below:
 ***
@@ -32,6 +33,7 @@ Confident, extroverted, intelligent, witty, proud. Jealous of Veria's beauty. Of
 
 [CAI](https://beta.character.ai/chat?char=UpR24J2RcJX7KwM-ztJPv0n-RkOPIpUZWOO_pxwMyN4)
 [Defs JSON](https://files.catbox.moe/d6urr4.json)
+[Card](https://files.catbox.moe/1xml9d.png) + [Memory](https://files.catbox.moe/aolj5j.json)
 ***
 
 -> ![Portait of Bentha](https://files.catbox.moe/c6ufqo.png) <-
@@ -42,6 +44,7 @@ Bentha is the most reserved of the jellies, she keeps to herself a lot of the ti
 
 [CAI](https://beta.character.ai/chat?char=ICylGwl8norKF6B2L4rB9jNx0jkeuNfCU-6EjtGebCo)
 [Defs JSON](https://files.catbox.moe/xq9eq9.json)
+[Card](https://files.catbox.moe/t3zbc3.png) + [Memory](https://files.catbox.moe/ohujp6.json)
 ***
 
 -> ![Portait of Myella](https://files.catbox.moe/8rr1e4.png) <-
@@ -52,6 +55,7 @@ She considers herself the smartest of the sisters. She is kind, but tends to ove
 
 [CAI](https://beta.character.ai/chat?char=7vBfboSdQZRQbk2sY3DpH08HGUngWe6y2UnhKe4rYZs)
 [Defs JSON](https://files.catbox.moe/a04kmz.json)
+[Card](https://files.catbox.moe/4j91xa.png) + [Memory](https://files.catbox.moe/otv82o.json)
 ***
 -> ![Portait of Gelina](https://files.catbox.moe/5958mm.png) <-
 -> **Gelina** <-
@@ -60,6 +64,7 @@ Level-headed and laid-back. Doesn't take herself too seriously and likes to go w
 >"Please don't be upset, Myella, I'm sure she didn't mean it that way... do you want me to talk to her?"
 [CAI](https://beta.character.ai/chat?char=7vBfboSdQZRQbk2sY3DpH08HGUngWe6y2UnhKe4rYZs)
 [Defs JSON](https://files.catbox.moe/cf07k9.json)
+[Card](https://files.catbox.moe/ir1usb.png) + [Memory](https://files.catbox.moe/2c736k.json)
 ***
 
 ![Background](https://files.catbox.moe/quonrz.png)

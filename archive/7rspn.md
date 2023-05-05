@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>AFU positions in western Bakhmut
+https://files.catbox.moe/tfbuok.mp4
 >Marinka urban combat
 https://files.catbox.moe/g3v14x.mp4
 https://files.catbox.moe/f5l5s9.mp4

@@ -1,9 +1,9 @@
 # -> @magma-dan <-
-Recent C.AI Updates: | ⠀ | ⠀
+Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 :-: | :-: | :-:
--> **Newest Pokémon Bots** <- | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY) | ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp)⠀[Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs)⠀
+-> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 -> **Newest Non-Pokémon Bots** <- | ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0)
--> **Close to Completion** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) *Untrained* | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia | Corrin ♀
 -> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*) | Dark Elf (*SMT*)
 
 ***
@@ -53,6 +53,7 @@ Character | C.AI
 :------: | :------:
 ![Rocket Executive](https://characterai.io/i/80/static/avatars/uploaded/2023/2/1/f2JC-RTuHpjAuuyUeqJXeRfz9-pqY4ucVNxQsFCHAwc.webp) | [Rocket Executive](https://c.ai/c/BNMwymcQW_PwTDYxfdLyheOkZrbHBWso9Pds8h_YX4k) (Gen II)
 ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp) | Pokémon Trainer [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stadium 2)
+ ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) | Idol Trainer [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) 
 ![Annie&Oakley](https://characterai.io/i/80/static/avatars/uploaded/2023/4/11/vUq358ywk88qtBsiasITpwB4iACON0GPdP74crLNd3A.webp) | Burglar Sisters [Annie & Oakley](https://c.ai/c/CCLPNwVNHyIayLPvrzI4-tywyl2d1vk3xn3DjsTzh6s)
 ![Courtney](https://characterai.io/i/80/static/avatars/uploaded/2023/1/3/guyAhfIJzsUtqLGP0nlL3arJ-2wzqTWfmUNI7zBLFTc.webp) | Magma Admin [Courtney](https://c.ai/c/ZGGI7ChOW5T32YdOfJRrVM0ZIkpUVv0uwxuSNwev33A) (Gen III) ([Pygmalion](https://files.catbox.moe/9fzy2y.json))
 ![Shelly](https://characterai.io/i/80/static/avatars/uploaded/2023/1/10/CRjiLu6JxdYzX6aSUTTgXGyWsGnKLdfWeOkw--wAeSU.webp) | Aqua Admin [Shelly](https://c.ai/c/IdgaLuOku198n7bfZZsF2DcNeXZ7aZBwVtxaZaNE7Xo) (Gen III) ([Pygmalion](https://files.catbox.moe/vtppmt.json))

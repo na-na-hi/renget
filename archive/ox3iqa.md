@@ -93,3 +93,17 @@
 ![Odyssey](https://files.catbox.moe/xqmcxo.png)
 *A tempting and tumultuous voyage*
 (tavern card) - https://files.catbox.moe/ht02l5.png
+
+##ECON Series
+####Capitalist-chan
+![Capitalist-chan](https://files.catbox.moe/n45qhs.png)
+*The shameless CEO*
+(tavern card) - https://files.catbox.moe/8kpd9i.png
+####Communist-chan
+![Communist-chan](https://files.catbox.moe/s9c2xa.png)
+*The cheerful tyrant*
+(tavern card) - https://files.catbox.moe/c0c48w.png
+####Fascist-chan
+![Fascist-chan](https://files.catbox.moe/5pmvgn.png)
+*The smug megalomaniac*
+(tavern card) - https://files.catbox.moe/kzzza8.png

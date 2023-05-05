@@ -178,3 +178,6 @@ You are banned.
 - [Yabber](https://github.com/JKAnderson/Yabber)
 - [UXM](https://cdn.discordapp.com/attachments/529900741998149643/955650210711892029/UXM_2.4.ER-1.03.1-fix01.zip) - [Read this first!](https://i.imgur.com/TMEGPhb.png) - [Nordgaren's fork](https://github.com/Nordgaren/UXM-Selective-Unpack)
 - [EldenRingUpscaler Beta Build 02](https://files.catbox.moe/szvwjh.zip) - [Build 01](https://files.catbox.moe/7q81ho.zip)
+
+###Other pastas
+Main /dsg/ pasta: https://docs.google.com/document/d/18E8bdTK-2ODVaemrFF-v6WEDjV0htlpUOvi9lWABbM0/pub

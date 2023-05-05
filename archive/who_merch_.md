@@ -10,9 +10,12 @@ Some articles are already sold-out for certain sizes for the OMOCAT merch.
 
 **HoloEN Connect the world concert streaming ticket (July 2nd, PDT)**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
+**Additional tickets will be made avalible after 13th May 10AM PDT
+If you want to attend the concert without buying a scalped ticket it's probably the last last chance.**
+https://www.ticketmaster.com/event/0A005E712A3809AD
 
 **Holo Fes related merch** 
-\(Order period ends 8th April 1800 JST)
+\(Order period ends 8th May 1800 JST)
 ---
 **Gacha**
 **holo\*27 button badges**

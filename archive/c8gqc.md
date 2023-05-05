@@ -50,6 +50,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tanchjim New Hana 2021 (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
 • Tinhifi P1 Max (warm neutral) - $190
+• iKKO OH10 (V-shape) - $200
 • Thieaudio Elixir (bassy neutral) - $210
 
 ##HiFi IEMs ($220 - $350)
@@ -66,8 +67,8 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Yanyin Aladdin (bassy neutral) - $245
 • Kiwi Ears Orchestra Lite (neutral) - $250
 • Tanchjim Oxygen (mild V) - $280
-• Moondrop Blessing3 (neutral) - $320
-• SeeAudio Bravery RB (V-shape) - $320
+• Moondrop Blessing3 (bright neutral) - $320
+• SeeAudio Bravery RB (mild V) - $320
 
 ##Audiofool IEMs ($450 - $1000)
 ***
@@ -154,10 +155,12 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • KZ Starline (black, use inverted/reversed)
 • Spinfit CP100+
 • Spinfit CP145
+• Symbio Hybrid 
 • Tanchjim T-APB
 • Tennmak Turbo Whirlwind
 • TRI Clarion
 • TRN T-Ear
+• Zeos Render Hybrid
 
 ##Helpful External Links
 ***
