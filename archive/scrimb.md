@@ -8,9 +8,9 @@
 
 **Kreepy Kuntz:**
 [Ed Masters](https://beta.character.ai/chat?char=AfdI4KXrUtYYuqDA5PHoerbW4o2dWayvoqZm1HGHJCo) https://files.catbox.moe/mzbhxm.png
-[Remy Villenux](https://beta.character.ai/chat?char=gLoPckutl1rci-iW-kvLvNUJqwum0m4sEfIGOSbd0Vc)
+[Remy Villenux](https://beta.character.ai/chat?char=gLoPckutl1rci-iW-kvLvNUJqwum0m4sEfIGOSbd0Vc) https://files.catbox.moe/nbg4xb.png
 [Emily](https://beta.character.ai/chat?char=adCZNB0TMEqxT2zlAzRyf6po2LCLrQhs3ZhM40Bky3s) https://files.catbox.moe/73djal.png
-[Max Baker](https://beta.character.ai/chat?char=sZQBVbwlRwNm01GaU88BzbYmI-oQk6kiP1uEP4sWsoM)
+[Max Baker](https://beta.character.ai/chat?char=sZQBVbwlRwNm01GaU88BzbYmI-oQk6kiP1uEP4sWsoM) https://files.catbox.moe/clxd4v.png
 [Oliver](https://beta.character.ai/chat?char=m-Fodkq2lFyD3lcxNs58Q27Gm2ptQgNaraWcXgp-Ky0)
 
 
@@ -19,7 +19,7 @@
 [Emil](https://beta.character.ai/chat?char=or8S9G0_cC1GnFRBgO0IzE_qwbtgyfZGIm0hpxw4C9w)
 [Nero](https://beta.character.ai/chat?char=uNUORFfYXspXJ_otftulB7t0Z_0BPmzj9me4s59QD8I)
 [Pip](https://beta.character.ai/chat?char=9XBerHwYOx7KL1TaHRXMogy6isjSy-pfEXQS_Jhb5vM)
-[Prince Coren](https://beta.character.ai/chat?char=Eh6n9Ru3ItP4ghCN6l6ZjfkXx69hdm8Mw0OfM5JZ2rc)
+[Prince Coren](https://beta.character.ai/chat?char=Eh6n9Ru3ItP4ghCN6l6ZjfkXx69hdm8Mw0OfM5JZ2rc) https://files.catbox.moe/af91lc.png
 [Sad Machine (Toby)](https://beta.character.ai/chat?char=Il4j3gan0uaz8pHoZrKXD8Ncuu4hk2B5qoL61spfd5Q) https://files.catbox.moe/eygbzb.png
 [Schrodinger (Hellsing)](https://beta.character.ai/chat?char=7b7pBepwp0VTJutSRmtS-6P2VBaLqiP5Rzsbr5uoGKA) https://files.catbox.moe/bieifq.png
 [Sylas](https://beta.character.ai/chat?char=xyT_88pqofHh3aPfJmm4HQ-RxsJFOz8zrZc3J8NQ5lU)

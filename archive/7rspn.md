@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>Marinka urban combat
+https://files.catbox.moe/g3v14x.mp4
+https://files.catbox.moe/f5l5s9.mp4
+>Bossman pissed his shells are late again
+https://files.catbox.moe/m1hyoa.mp4 (NOT COMFY)
+>Hohols shoot down their own TB2 drone over Kiev
+https://files.catbox.moe/j4i7po.mp4
+https://files.catbox.moe/smksu2.mp4
+https://files.catbox.moe/p1qwkt.mp4
+>FAB-500M62 strikes destroy equipment and fuel of AFU in Berislav, Kherson
+https://files.catbox.moe/ptp7fz.mp4
+https://files.catbox.moe/5iqdbi.mp4
 >First footage of Geran-2 launches in the ukraine
 https://files.catbox.moe/43xq5f.mp4
 >LNR 2nd Army Corps fry the 54th AFU brigade near Belogorovka

@@ -19,6 +19,7 @@
 11/2022|[Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 03/2023|[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
 04/2023|[Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)
+05/2023|[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -93,6 +94,7 @@
 11/2022|[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 04/2023|[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
 05/2023|[StarCoder: May the source be with you!](https://huggingface.co/bigcode/starcoder)
+05/2023|[CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

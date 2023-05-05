@@ -3,6 +3,7 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-05-2023] - Added CPU quantization variation links
 [05-02-2023] - Initial Rentry
 
 ## 4-bit GPU Model Requirements
@@ -18,8 +19,8 @@ Model Parameters | VRAM Required | RAM
 ## 4-bit CPU/llama.cpp RAM Requirements
 !!! note 5bit to 8bit Quantized models are becoming more common, and will obviously require more RAM. Will update these with the numbers when I have them.
 
-Model | Quantized to 4bit
---- | ---
+Model | 4-bit | 5-bit | 8-bit
+--- | --- | --- | ---
 7B |  3.9 GB
 13B | 7.8 GB
 30B | 19.5 GB
@@ -30,18 +31,22 @@ Model | Quantized to 4bit
 
 	The original LLaMA weights converted to Transformers @ 16bit. A torrent is available as well, but it uses outdated configuration files that will need to be updated. Note that these aren't for general use, as the VRAM requirements are beyond consumer scope.
 
+	>Filtering Status : None
+
 Model | Type | Download
 --- | --- | ---
-7B 16bit | HF Format | https://huggingface.co/Neko-Institute-of-Science/LLaMA-7B-HF
-13B 16bit | HF Format | https://huggingface.co/Neko-Institute-of-Science/LLaMA-13B-HF
-30B 16bit | HF Format | https://huggingface.co/Neko-Institute-of-Science/LLaMA-30B-HF
-65B 16bit | HF Format | https://huggingface.co/Neko-Institute-of-Science/LLaMA-13B-HF
+7B 16bit | HF Format | [HuggingFace](https://huggingface.co/Neko-Institute-of-Science/LLaMA-7B-HF)
+13B 16bit | HF Format | [HuggingFace](https://huggingface.co/Neko-Institute-of-Science/LLaMA-13B-HF)
+30B 16bit | HF Format | [HuggingFace](https://huggingface.co/Neko-Institute-of-Science/LLaMA-30B-HF)
+65B 16bit | HF Format | [HuggingFace](https://huggingface.co/Neko-Institute-of-Science/LLaMA-13B-HF)
 All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f787d9f68ac075a9b24281573a&dn=Safe-LLaMA-HF-v2%20(4-04-23)&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 
 ## LLaMA 4-bit Weights
 !!! info
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)
+
+	>Filtering Status : None
 
 Model | Type | Download
 --- | --- | ---
@@ -55,6 +60,8 @@ Model | Type | Download
 
 	A work-in-progress, community driven attempt to make an unfiltered version of Vicuna. It currently has an early stopping bug, and a partial workaround has been posted on the repo's model card.
 
+	>Filtering Status : Very light
+
 Model | Type | Download
 --- | --- | ---
 13B | GPU & CPU | https://huggingface.co/reeducator/vicuna-13b-free
@@ -64,15 +71,15 @@ Model | Type | Download
 
 	Pygmalion 7B is a dialogue model that uses LLaMA-7B as a base. The dataset includes RP/ERP content. Metharme 7B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
 
+	>Filtering Status : None
+
 Model | Type | Download
 --- | --- | ---
 7B Pygmalion/Metharme | XOR | https://huggingface.co/PygmalionAI/
-7B 4-bit Pygmalion GGML | CPU | https://huggingface.co/TehVenom/Pygmalion-7b-4bit-Q4_1-GGML
-7B 4-bit Metharme GGML | CPU | https://huggingface.co/TehVenom/Metharme-7b-4bit-Q4_1-GGML
-7B 4-bit Pygmalion | GPU Triton | https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors
-7B 4-bit Pygmalion 128gs | GPU CUDA  | https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda
-7B 4-bit Metharme | GPU Triton | https://huggingface.co/TehVenom/Metharme-7b-4bit-GPTQ-Safetensors
-7B 4-bit Metharme | GPU CUDA | https://huggingface.co/askmyteapot/metharme
+7B Pygmalion GGML | CPU | [Q4](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-Q4_1-GGML), [Q5](https://huggingface.co/waifu-workshop/pygmalion-7b-ggml-q5_0), [Q8](https://huggingface.co/waifu-workshop/pygmalion-7b-ggml-q8_0)
+7B Metharme GGML | CPU | [Q4](https://huggingface.co/TehVenom/Metharme-7b-4bit-Q4_1-GGML), [Q5](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1)
+7B Pygmalion | GPU | [Triton 4-bit](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors), [CUDA 4-bit 128gs](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda)
+7B Metharme | GPU | [Triton 4-bit](https://huggingface.co/TehVenom/Metharme-7b-4bit-GPTQ-Safetensors), [CUDA 4-bit](https://huggingface.co/askmyteapot/metharme)
 
 ## GPT4-X-Alpasta 30B (04/29/2023)
 !!! info
@@ -80,6 +87,8 @@ Model | Type | Download
 	An attempt at improving Open Assistant's performance as an instruct while retaining its excellent prose. The merge consists of Chansung's GPT4-Alpaca Lora and Open Assistant's native fine-tune.
 
 	It is an extremely coherent model for logic based instruct outputs. And while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue for creative writing/chatbot purposes. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose and coherence gains makes up for it.
+
+	>Filtering Status : Light
 
 Model | Type | Download
 --- | --- | ---
@@ -90,12 +99,13 @@ Model | Type | Download
 
 	An open-source alternative to OpenAI’s ChatGPT/GPT 3.5 Turbo. However, it seems to suffer from [overfitting](https://www.datarobot.com/wiki/overfitting/) and is heavily filtered. Not recommended for creative writing or chat bots, given the "assistant" personality constantly bleeds through, giving you dry dialogue.
 
+	>Filtering Status : Heavy
+
 Model | Type | Download
 --- | --- | ---
 30B | XOR | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
-30B 4bit GGML | CPU | https://huggingface.co/MildlyAggressiveGoose1/ggml-oasst-sft-6-llama-30B-q4_2
-30B 4bit | GPU CUDA | https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g
-30B 4bit 128gs | GPU CUDA | https://huggingface.co/Peeepy/llama-33b-oasst-4bit
+30B GGML | CPU | [Q4](https://huggingface.co/MildlyAggressiveGoose1/ggml-oasst-sft-6-llama-30B-q4_2)
+30B | GPU | [CUDA 4-bit](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [CUDA 4-bit 128gs](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
 
 ## SuperCOT (04/22/2023)
 !!! info
@@ -104,14 +114,15 @@ Model | Type | Download
     
 	Though designed to improve Langchain, it's quite versatile and works very well for other tasks like creative writing and chatbots. The author also pruned a number of filters from the datasets. As of early May 2023, it's the most recommended model on /lmg/
 
+	>Filtering Status : Very Light
+
 Model | Type | Download
 --- | --- | ---
 Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
-13B 4bit GGML | CPU |  https://huggingface.co/gozfarb/llama-13b-supercot-ggml
-30B 4bit GGML  | CPU |  https://huggingface.co/gozfarb/llama-30b-supercot-ggml
-13B 4bit 128gs | GPU CUDA | https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
-30B 4bit 128gs  | GPU CUDA | https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda
-30B 4bit | GPU CUDA | https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda
+13B GGML | CPU | [Q4](https://huggingface.co/camelids/llama-13b-supercot-ggml-q4_2), [Q8](https://huggingface.co/camelids/llama-13b-supercot-ggml-q8_0)
+30B GGML  | CPU | [Q4](https://huggingface.co/camelids/llama-33b-supercot-ggml-q4_2), [Q5](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1), [Q8](https://huggingface.co/camelids/llama-33b-supercot-ggml-q8_0)
+13B | GPU | [CUDA 4-bit 128gs](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
+30B | GPU | [CUDA 4-bit](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [CUDA 4-bit 128gs](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
 
 ## Previous Model List
 !!! info

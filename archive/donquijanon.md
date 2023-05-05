@@ -202,6 +202,13 @@ On Claude she has more SOVL but is less subtle. On Todd she's a bit more stiff b
 CAI: https://beta.character.ai/chat?char=s6KhZNTTMaPMouIDpvTbdbD4q5Rf4ohNqS9HjSucHCk
 Card: https://files.catbox.moe/um378r.png
 
+### Atzin
+->![atzin](https://git.characterhub.org/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
+Cheerful and optimistic genetically engineered Axolotl girl.
+
+CAI: 
+Card: https://www.characterhub.org/characters/donquijanon/Atzin
+
 ##Existing Characters
 ### E-123 Omega
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-

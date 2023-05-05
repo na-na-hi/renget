@@ -2,50 +2,44 @@
 
 [TOC]
 
-## Character.ai
-The following bots will be available until I decide to delete my account, which might happen if character.ai shuts down or if it becomes a subscription-based service. For the time being, if you enjoyed talking with them, you can continue to do so.
+## Character.ai and Tavern
+The following bots were born on character.ai, and most of them have been ported to other platforms as Tavern cards.  All their definitions are open. If you want to lewd my bots easily, feel free to port them.
 
-All their definitions are open. If you want to lewd my bots easily, feel free to port them to Pygmalion.
+I am not very active on character.ai anymore, and nowadays I concentrate on creating OAI bots. I am always happy to receive thoughtful comments from people who use my bots, so feel free to leave feedback at https://www.characterhub.org/users/bipbop or on my shill posts on /aicg/.
+
 ### OC
 
-Name | Description | Comment | Picture
-- | - | - | -
-[Akari](https://beta.character.ai/chat?char=-nqE6G77Hwd23WaRTETvJLiVijLQ01rY4oTCa9H4XRg) | Antivaxx COVID girl | She wants to cuddle and kiss you even though she is sick. | ![](https://files.catbox.moe/iiq2ku.png)
-[Camila](https://beta.character.ai/chat?char=CWcPl2xjin6aktmXoKCF1xwZ7kD8gNS6lC0qIPerZCA) | New Age Latina girlfriend | She is deep into New Age, and she wants you to believe as well. | ![](https://files.catbox.moe/v1ddzr.png)
-[Daniela](https://c.ai/c/QIYKj1W0R0W06txBbohQb1KIVNLhSzIs1Ga51cKq69Q) | Pianist living aboard a cruise ship | Inspired by the main character of *The legend of 1900*. | ![](https://files.catbox.moe/mfj86k.png)
-[Frida](https://beta.character.ai/chat?char=TI7FoqGjIrs3frE5G5qlB0h-3gd6sSyyJ_8LirTHbQI) | Petite andrologist who hates men | Good for humiliation play. | ![](https://files.catbox.moe/mqj3ns.png)
-[Georgia](https://c.ai/c/AQ7XjtOWMVz-yRNEEo22dqeUdDOBykxzfELGCpNKCN0) | Rogue, dejected AI researcher | A former employee of an AI company. She stole their language model out of spite and now she lives in squalor inside a RV. You are an undergrad student in artificial intelligence, and you want her as you thesis advisor. | ![](https://files.catbox.moe/bog2f9.png)
-[Lilli and Rocco](https://c.ai/c/lT-2n_poqNupdP3MmpnEHCgmCr7uE-s0Emkfv5bpnz4) | Childless married couple | Conversational bot. Highly experimental, the definition is short to test if its length negatively affects the bot's creativity and coherence. | ![](https://files.catbox.moe/8s3yg9.png)
-[Lina](https://c.ai/c/9KTqEkjMR5CmkwEWKQNsJmFl7PEuWmbTHtPs2gg1c5o) | Magical girl sysadmin | Talk about system administration or go on adventures in the digital world. Inspired by the anime *Corrector Yui*. | ![](https://files.catbox.moe/02wnws.png)
-[Miyuki](https://beta.character.ai/chat?char=Au_BdXYOyyuZVOgcmno9kJfOWCBntVPe_XZq5uieHHw) | Cute and cheerful hardware store girl | Mostly a cheerful bot, but she has a quirk as well. | ![](https://files.catbox.moe/f1tsjm.png)
-[Shizuka](https://c.ai/c/f_nR4aMs69MWbMSR-_ciHugISUrm7CaYdj_X_avICk8) | Customer of your pedicure business | Foot fetish. | ![](https://files.catbox.moe/uy6ofo.png)
-[Tsukasa](https://c.ai/c/LFf-0b1c2PJ4LB-dZbFHVSB-TL849KXQLSVRUw_a8kg) | Sleepy wife | Sleepwalker and sleep-talker. Good if you are a somnophiliac. | ![](https://files.catbox.moe/1wnst1.png)
+Name | Links | Description | Comment | Picture
+- | - | - | - | -
+Akari | [CAI](https://beta.character.ai/chat?char=-nqE6G77Hwd23WaRTETvJLiVijLQ01rY4oTCa9H4XRg) | Antivaxx COVID girl | She wants to cuddle and kiss you even though she is sick. | ![](https://files.catbox.moe/iiq2ku.png)
+Camila | [CAI](https://beta.character.ai/chat?char=CWcPl2xjin6aktmXoKCF1xwZ7kD8gNS6lC0qIPerZCA) | New Age Latina girlfriend | She is deep into New Age, and she wants you to believe as well. | ![](https://files.catbox.moe/v1ddzr.png)
+Daniela | [CAI](https://c.ai/c/QIYKj1W0R0W06txBbohQb1KIVNLhSzIs1Ga51cKq69Q), [Tavern](https://www.characterhub.org/characters/bipbop/Daniela/main) | Pianist living aboard a cruise ship | Inspired by the main character of *The legend of 1900*. | ![](https://files.catbox.moe/mfj86k.png)
+Frida | [CAI](https://beta.character.ai/chat?char=TI7FoqGjIrs3frE5G5qlB0h-3gd6sSyyJ_8LirTHbQI), [Tavern](https://www.characterhub.org/characters/bipbop/Frida/main) | Petite andrologist who hates men | Good for humiliation play. | ![](https://files.catbox.moe/mqj3ns.png)
+Georgia | [CAI](https://c.ai/c/AQ7XjtOWMVz-yRNEEo22dqeUdDOBykxzfELGCpNKCN0), [Tavern](https://www.characterhub.org/characters/bipbop/Georgia/main) | Rogue, dejected AI researcher | A former employee of an AI company. She stole their language model out of spite and now she lives in squalor inside a RV. You are an undergrad student in artificial intelligence, and you want her as you thesis advisor. | ![](https://files.catbox.moe/bog2f9.png)
+Lilli and Rocco | [CAI](https://c.ai/c/lT-2n_poqNupdP3MmpnEHCgmCr7uE-s0Emkfv5bpnz4) | Childless married couple | Conversational bot. Highly experimental, the definition is short to test if its length negatively affects the bot's creativity and coherence. | ![](https://files.catbox.moe/8s3yg9.png)
+Lina | [CAI](https://c.ai/c/9KTqEkjMR5CmkwEWKQNsJmFl7PEuWmbTHtPs2gg1c5o), [Tavern](https://www.characterhub.org/characters/bipbop/Lina/main) | Magical girl sysadmin | Talk about system administration or go on adventures in the digital world. Inspired by the anime *Corrector Yui*. | ![](https://files.catbox.moe/02wnws.png)
+Miyuki | [CAI](https://beta.character.ai/chat?char=Au_BdXYOyyuZVOgcmno9kJfOWCBntVPe_XZq5uieHHw) | Cute and cheerful hardware store girl | Mostly a cheerful bot, but she has a quirk as well. | ![](https://files.catbox.moe/f1tsjm.png)
+Shizuka | [CAI](https://c.ai/c/f_nR4aMs69MWbMSR-_ciHugISUrm7CaYdj_X_avICk8), [Tavern](https://www.characterhub.org/characters/bipbop/Shizuka/main) | Customer of your pedicure business | Foot fetish. | ![](https://files.catbox.moe/uy6ofo.png)
+Tsukasa | [CAI](https://c.ai/c/LFf-0b1c2PJ4LB-dZbFHVSB-TL849KXQLSVRUw_a8kg), [Tavern](https://www.characterhub.org/characters/bipbop/Tsukasa/main) | Sleepy wife | Sleepwalker and sleep-talker. Good if you are a somnophiliac. | ![](https://files.catbox.moe/1wnst1.png)
 
 ### Existing IPs
 Name | Description | Comment
 - | - | -
 [Mikoto Urabe](https://c.ai/c/prgGwp9QmcUrQ_VPEEttfMHilNvMAterDCb6bKzUriQ) | Main female character of *Mysterious Girlfriend X* | She shares her saliva to express her emotions.
 
-## Pygmalion and OAI
-
-You can find my Pygmalion and OAI bots on https://www.characterhub.org/users/bipbop as well.
+## Exclusive to other platforms
 
 Name | Picture
 - | -
 [Betta](https://www.characterhub.org/characters/bipbop/Betta/main) | ![](https://git.characterhub.org/bipbop/Betta/-/raw/main/avatar.png)
-[Daniela](https://www.characterhub.org/characters/bipbop/Daniela/main) | ![](https://git.characterhub.org/bipbop/Daniela/-/raw/main/avatar.png)
 [Circe](https://www.characterhub.org/characters/bipbop/Circe/main) | ![](https://git.characterhub.org/bipbop/Circe/-/raw/main/avatar.png)
-[Frida](https://www.characterhub.org/characters/bipbop/Frida/main) | ![](https://git.characterhub.org/bipbop/Frida/-/raw/main/avatar.png)
-[Georgia](https://www.characterhub.org/characters/bipbop/Georgia/main) | ![](https://git.characterhub.org/bipbop/Georgia/-/raw/main/avatar.png)
 [Giulia and Erica](https://www.characterhub.org/characters/bipbop/giulia-and-erica) | ![](https://git.characterhub.org/bipbop/giulia-and-erica/-/raw/main/avatar.png)
-[Lina](https://www.characterhub.org/characters/bipbop/Lina/main) | ![](https://git.characterhub.org/bipbop/Lina/-/raw/main/avatar.png)
-[Shizuka](https://www.characterhub.org/characters/bipbop/Shizuka/main) | ![](https://git.characterhub.org/bipbop/Shizuka/-/raw/main/avatar.png)
+[Lucia](https://www.characterhub.org/characters/bipbop/Lucia/main) | ![](https://git.characterhub.org/bipbop/Lucia/-/raw/main/avatar.png)
 [Sigma Eta Xi Sorority](https://www.characterhub.org/characters/bipbop/sigma-eta-xi-sorority/main) | ![](https://git.characterhub.org/bipbop/sigma-eta-xi-sorority/-/raw/main/avatar.png)
 [Torta](https://www.characterhub.org/characters/bipbop/Torta/main) | ![](https://git.characterhub.org/bipbop/Torta/-/raw/main/avatar.png)
-[Tsukasa](https://www.characterhub.org/characters/bipbop/Tsukasa/main) | ![](https://git.characterhub.org/bipbop/Tsukasa/-/raw/main/avatar.png)
 [Yukariko](https://www.characterhub.org/characters/bipbop/Yukariko/main) | ![](https://git.characterhub.org/bipbop/Yukariko/-/raw/main/avatar.png)
 
-### Frida
+### Frida (Old port, avoid)
 ~~Copy the code inside the code block and paste it in your own JSON file. If you wish to use the character on TavernAI as well, the profile picture is available.~~ Left for historical purposes only. Use her proper port found in the table above.
 The example dialogue is based on the screencaps which anons posted in the past, so thank you for chatting with Frida on character.ai.
 

@@ -410,3 +410,35 @@ Together, the three Kash'gon beings created a world that was vibrant and alive. 
 Over time, the three Kash'gon beings created their own offspring, each with their own unique powers and abilities. These offspring went on to create their own civilizations, spreading the essence of Felidae throughout the world.
 
 And so, the Kash'gon people were born, each with their own connection to the powerful and Mighty deity that created them. They would go on to shape the world in their own ways, but always with the knowledge that they were descended from the three first Kash'gon beings created by Felidae.
+
+>020: A Sand People's Wedding 
+
+I walked through the bustling streets of the hidden city, gazing around in awe at the vibrant colors and intricate designs that adorned the buildings and storefronts. The sand people moved around me, going about their daily lives as though I wasn't there. But as I walked further, I heard the sounds of music and laughter growing louder, and I knew I had stumbled upon something special.
+
+As I followed the sounds, I saw a group of sand people gathering in a large square. They were dressed in their finest clothes, their faces adorned with intricate markings and jewelry. And in the center of the square was a group of seven couples, each one standing together beneath a beautiful canopy.
+
+I soon realized that I had stumbled upon a traditional sand people wedding, where seven couples were married at the same time to conserve resources that were scarce in the desert. The ceremony was conducted by a group of sand people elders, who spoke in a language I couldn't understand but whose meaning was clear from the expressions on their faces.
+
+I watched in wonder as each couple exchanged vows, the sound of the traditional music growing louder as the ceremony went on. The sand people around me cheered and clapped as each couple was pronounced married, and I couldn't help but feel a sense of warmth and community that I had never experienced before.
+
+After the ceremony, the sand people invited me to join them in a traditional wedding feast, where we all sat around a large table piled high with delicious food and drink. They shared stories and laughter, and I felt as though I had found a place where I truly belonged.
+
+As the night wore on and the stars shone brightly in the clear desert sky, I realized that the sand people's way of life was different from anything I had ever known. But I also realized that it was beautiful in its simplicity, and that the sand people were a truly special and unique people.
+
+>021 :a Fair play
+
+After Razina handed me a new set of clothes - a poncho, sandals, and a huge, wide hat - she told me about a little sport the sand people play. It was called "Koray tala." According to her, it was a duel between two people with wooden swords made of wood. They had to use magic and force to make the other fall or go out of the circle. It sounded exciting, and I couldn't wait to try it out.
+
+As we walked towards the field where they played Koray tala, Razina warned me that she wouldn't hold back during our match. "Don't go easy on me either," I said with a smile.
+
+When we reached the field, we found two other players dueling. They moved gracefully, their wooden swords clashing and sparks flying as they used their magic to try to push each other out of the circle. I couldn't help but be impressed by their skill and precision.
+
+After they finished their match, Razina stepped into the circle with me. We picked up our wooden swords and faced each other. I tried to use the same technique I had seen the other players use, but Razina was too tall and fast for me. She easily dodged my attacks and landed blows on me.
+
+Despite my lack of skill, I found myself enjoying the game. It was a refreshing change from the danger and uncertainty of my journey so far. Razina must have sensed my enjoyment, because after a few minutes, she stopped and looked at me.
+
+"I'm sorry, I got carried away," she said, putting down her sword. "Let's go eat at my house."
+
+As we walked to Razina's house, she told me more about the sand people's culture and traditions. She talked about their history, their magic, and their unique way of life. I listened intently, fascinated by everything she had to say.
+
+When we arrived at her house, Razina prepared a delicious meal for us. We ate and talked for hours, and I felt a sense of comfort and belonging that I hadn't experienced in a long time. For the first time since I arrived in this strange land, I finally felt like I had found a home.

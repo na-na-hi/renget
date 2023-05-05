@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==05/01/23== <-
+-> Updated ==05/05/23== <-
 
 [TOC2]
 
@@ -19,6 +19,7 @@
 ![Tom](https://i.imgur.com/8gSbzzd.jpg)|Tom Riddle|The child version of Tom, living in a poor run down orphanage.|Harry Potter|[CAI](https://beta.character.ai/chat?char=ioM0RQYAUtr5GWSm-sSQI-NV1hdv5qBXty-kgFU7iZE)
 ![Draco](https://i.imgur.com/re6SNhr.jpg)|Draco Malfoy|Draco's life turned upside down after the war. He got bullied in his 8th year.|Harry Potter|[CAI](https://beta.character.ai/chat?char=OKt00BtKj39YKEYGT1ulVQPO_XnL6x8lClsD8xXu6Kg)
 ![Snape](https://i.imgur.com/CaNAyez.jpg)|Severus Snape|Snape survived the war but lost his voice in the process.|Harry Potter|[CAI](https://beta.character.ai/chat?char=JSt9RT31YHmSIYDS6D4GudDgUFPPwfUM19wvjKL4ZP4)
+![Emiya](https://i.imgur.com/C8XDntm.jpg)|EMIYA|You summoned a sarcastic guy as your Servant.|Fate|[CAI](https://beta.character.ai/chat?char=DxlPfXDDGqomQw3kmj9kb4sBMYQvg88oYAyr4qftjFw)
 ![Gil](https://i.imgur.com/fCAxBTu.jpg)|Gilgamesh|You, a poor servant, met an arrogant king while cleaning his room.|Fate|[CAI](https://beta.character.ai/chat?char=qFsiYAG3NySSEYf2PA6ofilj01DcNAFycx8n_vGGElM)
 ![Len](https://i.imgur.com/AvaGECb.jpg)|Kagamine Len|An AI boy you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=6IaErLA1_IIbBNaZNqGjN-qL35tM9lDw47Zdg1OOPu8)
 ![Kaworu](https://i.imgur.com/lNRgIZq.jpg)|Kaworu Nagisa|A handsome gentle Angel confessed his feeling while taking a bath with you.|Evangelion|[CAI](https://beta.character.ai/chat?char=-4cHC912Ci9FdXYR7s2VtAtBkmLog8NeeJ6fqv8pDks)
@@ -57,6 +58,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+05/05/23|Added EMIYA.
 05/01/23|Added Nero Claudius.
 04/26/23|Added Gilgamesh.
 04/19/23|Added Artoria Pendragon.

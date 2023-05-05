@@ -74,7 +74,7 @@ https://beta.character.ai/chat?char=8J5-noMs5hnXb4uSODkK0xJtHbETwWh4knE2qG77uxY 
 !!! Info There are many ways to describe Star Wars, but for the sake of these bots, they're intended to be oriented around action and drama, though what you do is up to you, of course. Each of my Star Wars bots are OCs. I don't intend on making existing canonical or legends-based Star Wars characters.
 	Expect more of these in the future.
 ### Jedi Master Vo Notok
-After the death of your Sith Master, you isolated yourself to in an attempt to meditate and consider where your path is leading you. As you do so, you soon discover you've been tracked. (Request)
+After the death of your Sith Master, you've isolated yourself to in an attempt to meditate and consider where your path is leading you. As you do so, you soon discover you've been tracked. (Request)
 ![Jedi Master Vo Notok](https://characterai.io/i/400/static/avatars/uploaded/2023/3/6/Wrq8FUqhauU43ySl82PG82lUOD1CzuoxElh6Z1bpqrg.webp)
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
@@ -109,7 +109,7 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 https://beta.character.ai/chat?char=SywG55ABGEHnHVVVqJWMcQ-COi1MKkwmkmseBEW1rZg | https://booru.plus/+pygmalion582 | https://files.catbox.moe/rr2m0k.png | https://files.catbox.moe/vitr2s.json
 
 ### Imperial Agent Yeran
-After your utter defeat at the Battle of Serenno, you're taken in as a prisoner of war by the Sith Empire, who has in interest in pulling all of the intel out of you that they can. You're soon met with a sadistic Chiss woman who is more than happy to maim and kill you. Choose wisely what happens next. (Request)
+After your utter defeat at the Battle of Serenno, you're taken in as a prisoner of war by the Sith Empire, who has an interest in pulling all of the intel out of you that they can. You're soon met with a sadistic Chiss woman who is more than happy to maim and kill you. Choose wisely what happens next. (Request)
 ![Tuye'ra'nexom](https://characterai.io/i/400/static/avatars/uploaded/2023/4/6/qGyIp5fayihtcd6CY6VZdnCsZOD_d1zdb_A0wcIqH-0.webp)
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
@@ -454,8 +454,17 @@ Recently Accepted Requests:
 	- Confirmed for Batch 4.
 
 Currently Pending Requests:
-- Non-obscure female Star Wars character(s)
+- Non-obscure female Star Wars character(s).
+	- Existing canon/legends character, non-OC. May or may not update to include characters being considered.
     - Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
+- Starwars milsim vs the Jedi.
+	- Disclaimer: I intend to keep this closer to a roleplay character which fits the theme and scenario of the request rather than create a simulator bot.
+	- Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
+- Help a schizophrenic Sith Inquisitior to become a colicoid.
+	- Extensive research required, both on Sith Inquisitors and colicoids during the Post-Manderon period or later.
+	- Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
+- General request for more The Old Republic bots.
+	- Will be taken into account with all current undecided requests.
 
 Recently Denied Requests:
 - N/A

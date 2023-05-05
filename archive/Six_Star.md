@@ -454,7 +454,17 @@ Ultimate Chris domination so far, welcome back. Another damage cap circumventor,
 She's a giant nuke now. Either she kills everyone, or she'll explode due to lose 100% of her defenses after UB.
 - UB+ increased damage by nearly x5, no changes to reducing defenses by 100%. New addition is that she buffs her M.Atk for 8 seconds for a large amount.
 - Probably not suited for CB single target comps anymore, but could actually be a Multi-target damage dealer. Most likely would need support from units that give defenses, because having 0 M/P Defense is not great for CB. I doubt she'll have a spot, this is mostly just hope. Still worth keeping an eye out for, given the amount of barriers/heals in the game.
-- Some early testing shows that she [carry an entire arena team](https://twitter.com/leonmaru_pcrd/status/1643449297026023425). She's a stall breaker and the hope is to nuke everything, then the 2nd UB finishes off any stragglers. Any squishies can get wiped off the face of the earth. Her positioning means she's difficult to snare with MS.Kasumi as well. Yuki can charm her if she's in the 2nd position, so be careful. Finally, she needs a M.Atk Debuff to help her UB wipe enemies, so something like an NY.Homare with a 1st action M.Def Down works. 
-- I wrote this 45 minutes after her release, but early impressions are that she will have some usage in blowing up stall defenses. the amount of damage she pumps out is absurd. Experiment away, Arena players. For CB, there's a tiny chance You'll see her blowing up CB bosses. You can probably use her in T3.
+- Some early testing shows that she can [carry an entire arena team](https://twitter.com/leonmaru_pcrd/status/1643449297026023425). She's a stall breaker and the hope is to nuke everything, then the 2nd UB finishes off any stragglers. Any squishies can get wiped off the face of the earth. Her positioning means she's difficult to snare with MS.Kasumi as well. Yuki can charm her if she's in the 2nd position, so be careful. Finally, she needs a M.Atk Debuff to help her UB wipe enemies, so something like an NY.Homare with a 1st action M.Def Down works. 
+- Overall great in both Arenas on the defensive and offensive side. Think of Ninon, but on the magic side and stronger. CB is a pipe dream, maybe in some sort of wacky OF comp.
+
+[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+
+
+## -> Muimi<- (JP Release Date: Year 6, May 8th)
+TBD
+- TBD
+- TBD
+- TBD 
+- TBD
 
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

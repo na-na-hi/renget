@@ -20,6 +20,7 @@ cartoondatabank.com - Databank containing information, images and theme songs to
 desuarchive.org/co - FoolFuuka Archive for /co/
 intanibase.com - The Internet Animation Database
 kemono.party -🔞- Public archive for paywalled art content
+metamorphose.org - Catalogue of transformations in cartoons... strange...
 toonhound.com - Information on UK animated television series
 
 #### Blogs / Personal Sites
@@ -34,7 +35,8 @@ whataboutthad.com - Thad Komorowski's blog
 e621.net -🔞🐺- For when you just gotta yiff in hell
 gravityfalls.booru.org -🔞😈- Booru for the series *Gravity Falls*
 the-collection.booru.org -🔞- Booru for /co/'s drawfags
-rule34.xxx -🔞- Booru for... well... Rule 34
+rule34.us -🔞- Booru for... well... Rule 34
+rule34.xxx -🔞- Another r34 booru
 zoo.booru.org -🔞🐺- Booru for the series *Zootopia*
 
 #### (Comic) Books
@@ -54,13 +56,14 @@ webtoons.com/en/ - Self-publishing indie webcomic site with a similar community 
 z-lib.is - Book library
 
 #### Community Websites / Forums
-`Always remember to respectful and lurk before posting on any (small) community listed below …`
+`Always remember be to respectful and lurk before posting on any (small) community listed below …`
 
 baraag.net -🔞😈- Mastodon art instance that is not for the faint of heart
 deviantart.com - Art sharing platform that's garnered a reputation for weird fetish art, like with tumblr, you can still find good art here
 fandom.com - Site for creating wiki pages
 furaffinity.net - 🐺- Furry art community
 inkbunny.net -🐺- Furry art community
+newgrounds.com - Flash animation site that holds a very special place in the hearts of internet boomers everywhere
 pixiv.net/en/ - Primarily for anime illustrations, but there are a few western artists that post here as well
 sudomemo.net - Flipnote Studio community born from the ashes of Hatena, mostly populated by autistic teenagers
 tumblr.com - Blogging site that has long passed its prime, you can still find the occasional good blog or piece of fanart
@@ -130,6 +133,7 @@ tachiyomi.org - Comic/manga reader for Android
 #### Miscellaneous / Unsorted
 base64decode.org - If it starts with a 'aHR0' then you'll need this
 catbox.moe - File hosting for when your images are either too big or too lewd for /co/
+libredirect.github.io - List of alternative frontends for popular websites
 mega.nz - Cloud storage, a very popular way for /co/ to share cartoons with one another
 my90stv.com - 90s tv simulator that lines up YouTube videos of shows and commercials to simulate watching random tv channels
 rwbyg.com - Site companion for /rwbyg/
