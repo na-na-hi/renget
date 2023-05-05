@@ -12,7 +12,7 @@ https://mmda.booru.org/
 https://bowlroll.net/r18/file/tag/MikuMikuDance
 https://smutba.se/
 >Avatars 3.0 Guide
-https://youtu.be/dTlZXDJueks
+https://www.youtube.com/watch?v=bSwMz4WcajQ
 >OVR Adv. Settings (playspace mover)
 https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
 https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases

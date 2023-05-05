@@ -1,6 +1,6 @@
 **Please put newer scene ideas to draw at the top of the list**
 
-ross not being able to sleep
+~~ross not being able to sleep~~
 
 ross sleepwalking
 
@@ -56,7 +56,7 @@ Sneasel or any other mon flying up a kite with booker being strapped onto said k
 
 Kiyo and the others entering the guild for the first time
 
-Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance
+~~Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance~~
 
 Jimmy decorating the interior of the chest
 

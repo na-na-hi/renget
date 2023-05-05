@@ -10,4 +10,4 @@ has sick long hair
 beat coolrash in dota 2
 Sexuality: Bisexual, can change between plumber and princess or monsters at will
 he will appear in friday night funkin mod marmadmerge (when it starts developmen ((no i am not giving him other media stop asking : ) ) ) )
-also he can grow moustache to assert dominance
+His favorite pizza is hawaiian pizza.

@@ -6,13 +6,28 @@
 ***
 
 #Tavern Guide and cards:
-
 !!!Back-up your TavernAI folder whenever you update
+
+##GPT-3.5 Turbo, Ol' reliable:
 
 Just follow this rentry for Turbo:https://rentry.org/tavernai_gpt35 you will need an OpenAI API key. Requires phone number but it nets you $5 worth of tokens. At $0.002 per 1k tokens that adds up to around 1.8M words. Just use $1 burner phones and keep scamming them, there is no filter except for some rare cases that have nothing to do with the general.
 ~~Follow this guide for GPT-4 for free using Scale:https://github.com/nai-degen/TavernAIScale~~ Dead.
 
-Cards:
+##Claude, arguably the best model available. In open beta for now on slack.com.
+- Get SillyLossy TavernAI (dev branch): https://github.com/Cohee1207/SillyTavern/tree/dev
+- Get Spermack. Personally I made a copy of my Tavern folder and installed it there: https://github.com/bfs15/Spermack
+- Follow the guide on the Spermack Github. Consider making multiple accounts for when Claude gets removed from your workspace.
+- Disable character and style anchors in TavernAI, AI Response Formatting (The large "A").
+
+Personally I also disable the jailbreak prompt and only have the NSFW toggle on. I'm not sure if that affects the filter in Claude, but I almost never get filtered. Even without the automatic retry from Spermack.
+
+##Author's notes and world info
+A powerful tool to keep character behavior as you want them to be, add inner thoughts, keep track of (you)r appearance or size differences such as making sure the AI knows Judy is 3ft tall. Also useful to keep /collared/ tropes as part of the world lore so the AI can reference it. A basic Author's note for inner thoughts I use is:
+
+[System Note - Don't respond to this note, simply obey it: {{char}} should have internal thoughts written in italics and quotation marks *«Example thought here~»* for example. These thoughts should follow her personality and be relevant to the occasion. Always keep the initiative and have {{char}} lead and do/suggest things that move things forward without skipping the current activity, not ask questions.]
+
+
+##Cards:
 https://files.catbox.moe/rnqj7s.png - Lil Tygah (Tigress Rapper)
 https://files.catbox.moe/onoc0r.png - Nurse Akila
 https://files.catbox.moe/ost8i2.png - Sisu 

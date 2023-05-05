@@ -69,6 +69,7 @@ Title|Link
 *An Accident at Disneyland*|[(link)](https://rentry.org/anaccidentatdisney)
 *Abandoned Hotel Exploration*|[(link)](https://rentry.org/abandonedhotel)
 *The Ex-Zombie*|[(link)](https://rentry.org/exzombie)
+*Like Water*|[(link)](https://rentry.org/flowlikewater)
 
 ##Rewritten by /exeg/
 Title|Link

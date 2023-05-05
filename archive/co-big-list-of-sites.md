@@ -1,4 +1,4 @@
-# /co/'s Big List of Sites V23.05.04
+# /co/'s Big List of Sites V23.05.05
 ***
 !!! warning 
 	-> **Got anything you wanna tell me? Feel free to let me know!** <-
@@ -21,17 +21,22 @@ desuarchive.org/co - FoolFuuka Archive for /co/
 intanibase.com - The Internet Animation Database
 kemono.party -🔞- Public archive for paywalled art content
 metamorphose.org - Catalogue of transformations in cartoons... strange...
+the-ride.neocities.org - Catalogue dedicated to a multitude of *Sonic* fancomics
 toonhound.com - Information on UK animated television series
 
 #### Blogs / Personal Sites
 cartoonresearch.com - Jerry Beck's blog
-johnkstuff.blogspot.com - John Kricfalusi's blog, he made Ren & Stimpy
+itsnotstupid.com - *Invader Zim* fan website
+johnkstuff.blogspot.com - John Kricfalusi's blog, creator of *Ren & Stimpy*
 kingofooo.tumblr.com - Official staff blog for *Adventure Time*
+outpost-daria-reborn.info - *Daria* fansite and successor to the now defunct Outpost Daria
+rebeccasugar.tumblr.com - Rebecca Sugar's blog, creator of *Steven Universe*
 stusshow.com - Stu Shostak's personal site and frontpage for 'Stu's Show'
-stretchfilms.com - John R. Dilworth's personal site, he made Courage the Cowardly Dog 
+stretchfilms.com - John R. Dilworth's personal site, creator of *Courage the Cowardly Dog*
 whataboutthad.com - Thad Komorowski's blog
 
 #### Boorus
+booru.allthefallen.moe -🔞😈- All The Fallen's booru, there's a looot of loli on here
 e621.net -🔞🐺- For when you just gotta yiff in hell
 gravityfalls.booru.org -🔞😈- Booru for the series *Gravity Falls*
 the-collection.booru.org -🔞- Booru for /co/'s drawfags
@@ -70,6 +75,10 @@ tumblr.com - Blogging site that has long passed its prime, you can still find th
 tvtropes.org - Site for documenting tropes in fiction
 twitter.com - Troon and drama magnet that ended up being the main hub for artists to share their work, we recommend using [Nitter](https://github.com/zedeus/nitter/wiki/Instances) for your browsing experience
 
+#### Drawing
+sites.google.com/site/ourwici/ - /ic/'s wiki page, has plenty of good resources for drawing there
+
+
 #### Imageboards
 `… same goes for imageboards.`
 
@@ -100,6 +109,8 @@ torrentproject.cc - Torrent site
 yourbittorrent.com - Torrent site
 
 ##### Private Torrent Sites (a/k/a Private Trackers)
+`Visit /ptg/ on /g/ to learn more. And don't go around begging for invites.`
+
 cartoonchaos.org (CC) - Private community for animated shows and movies
 myanonamouse.net (MAM) - Private community for books, possibly the closest thing to a private tracker for comics
 myspleen.org (MS) - Private community for animated shows, VHS and Betamax recordings
@@ -136,6 +147,7 @@ catbox.moe - File hosting for when your images are either too big or too lewd fo
 libredirect.github.io - List of alternative frontends for popular websites
 mega.nz - Cloud storage, a very popular way for /co/ to share cartoons with one another
 my90stv.com - 90s tv simulator that lines up YouTube videos of shows and commercials to simulate watching random tv channels
+neocities.org - Web hosting with a community similar to Geocities, has a lot of ca
 rwbyg.com - Site companion for /rwbyg/
 
 #### Special Thanks

@@ -465,6 +465,8 @@ Currently Pending Requests:
 	- Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
 - General request for more The Old Republic bots.
 	- Will be taken into account with all current undecided requests.
+- Clarify that Vo Notok's time takes place after the Galactic Empire as opposed to "The Empire".
+	- Not really a request, just temporarily placing this here as a self-reminder.
 
 Recently Denied Requests:
 - N/A
