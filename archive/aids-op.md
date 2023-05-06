@@ -3,7 +3,7 @@
 ![suggested OP image](https://imgur.com/RGdrlWI.png)
 Overcoming Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>428694327
+Last thread: >>428804494
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,8 +31,8 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-(05/05) Saga alphas freeform mode >>428651359 ; Kobold mpt update >>428646586 >>428664559
-(05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter
+\>(05/06) More Kobold updates >>428646586 >>428664559 >>428841081
+(05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter ; Saga alphas freeform mode >>428651359
 (05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
 (05/01) Neat https://novelai.net/tokenizer ; Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
 (04/27) 2 years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
@@ -40,7 +40,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write dumb prompts for next week's theme, Retarded Klutz Friday! >>428586436
+Write dumb prompts for this week's theme, Retarded Klutz Friday!
 
 
 ##Perma-Template

@@ -472,6 +472,15 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	Probably so-so, didn't test it well enough
 
+### Digby (Animal Crossing)
+
+	https://files.catbox.moe/vjhxcv.safetensors
+
+### Able Sisters (Animal Crossing)
+
+	https://files.catbox.moe/1zno17.safetensors
+	> I suppose you use the e621 tags for each sister?
+	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
 
 ## LORAs from the Discord
 
@@ -581,6 +590,10 @@ Link:
 
 ### Various (Penis Lineup, Kass, Krystal, Loona, Protogen, Puro, Spyro, Toothless
 	https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA
+
+### Zorayas (Elden Ring)
+https://civitai.com/models/54924/zorayas-elden-ring-lora
+Direct DL: https://civitai.com/api/download/models/59321?type=Model&format=SafeTensor
 
 ## Assorted Random Stuff
 

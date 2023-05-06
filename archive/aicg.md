@@ -616,6 +616,12 @@ Morgan
 https://beta.character.ai/chat?char=IQqQRxSqMhKsw3Ah8w8G6I6Cwr6RzgDQ_BApML9DIOg
 
 
+//The girl with the mystery Crest from Fire Emblem: Three Houses
+
+Marianne Von Edmumd
+https://beta.character.ai/comms?char=TnIxwWh1bK5WsTY6UO9CeumxAY0lkhnrWiH1awQg7_8
+
+
 //These two are totally not using the dev code names for two existing characters.  They throw away some unusual garbage... what's their deal?
 
 Mary and Kate

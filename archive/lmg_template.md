@@ -1,7 +1,11 @@
+!!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.
+!!! note Wiki in the template is dead at this point. A new one is needed.
+
 ->![Miku & HK416](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 
-#->/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 & 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝕲𝖚𝖎𝖉𝖊<-
-
+#/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
+->*V 1.00 | Helped Making Waifus Real Since 2023* <-
+***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
@@ -28,9 +32,9 @@ https://rentry.org/localmodelslinks
 \>Local Models & Old Papers
 https://rentry.org/localmodelsoldpapers
 \>/lmg/ General Resource Charts
-https://rentry.org/LMG-thread-template
+https://rentry.org/lmg-resources
 \>Model Lists/Torrents
-https://rentry.org/lmg_models (NEW!!)
+https://rentry.org/lmg_models
 
 ►**Model Guides & Resources**
 \>LlaMA Guide/Resources
@@ -48,25 +52,25 @@ https://github.com/oobabooga/text-generation-webui (GPU Infr.)
 https://github.com/wawawario2/text-generation-webui (Long Term Memory)
 https://github.com/LostRuins/koboldcpp (CPU Infr.)
 \>Ooba. ROCm
-https://rentry.org/eq3hg (AMD GPU)
+https://rentry.org/eq3hg (AMD)
 \>Guide to LLaMA Quantization
 https://rentry.org/easyquantguide
 \>Miku Pastebins
-https://rentry.org/LMG-thread-template#all-things-miku
-\>/lmg/ Template Rentry
+https://rentry.org/lmg-resources#all-things-miku
+\>/lmg/ Template
 https://rentry.org/lmg_template
 \>RolePlayBot Guide
 https://rentry.org/RPBT
 \>LLM Benchmark Prompts
 https://pastebin.com/LmRhwUCA
-\>ERP/RP Data Collection (Logs)
+\>ERP/RP Data Collection
 https://rentry.org/qib8f
 \>Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
 https://github.com/anon998/simple-proxy-for-tavern
 \>LLaMA RP/Proxy guide
 https://rentry.org/better-llama-roleplay
 
-###->Follow-up Re-cap Post (Optional, but great to have)<-
+##->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: (Notes are a placeholder)**
 -Anon goes over the repo process of the LLaMA-Adapter >>92XXXXXX
 -Anon releases reverse Miku >>92XXXXXX

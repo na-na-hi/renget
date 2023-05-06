@@ -105,6 +105,8 @@ Smith begins a quest for power
 Togetic is rescued by Team Cozy
 ######[The Marvelous Carrot and Hazel Archive (Carrot) (Intro)](https://rentry.org/carrot-hazel-archive)
 Intro for Carrot and Hazel, plus personality blurbs
+######[It Comes in Pairs (Clara) (Intro)](https://rentry.org/cmxrvt)
+Clara and Smoke intro, they meet some guild members on a mission and Smoke realizes that some of them are human.
 ####Lore Bins
 List of bins focused entirely on lore
 ######[A Detailed Guide to Aura (KFC)](https://rentry.org/PMD_Aura)

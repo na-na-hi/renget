@@ -53,6 +53,7 @@ Skull | M | Cubone | | Clover Guild Member | Quiet
  | M | Vibrava | | Outsider | Quiet
  | M | Quilava | | Outsider | Jew-mon
  | M | Mudkip | | Outsider | MEME CLOWN
+Clara | F | Lucario | Smoke (Human, M, Shares body with Clara)||[???](https://arch-img.b4k.co/vp/1682995004423.png)
 
 ####Guild Affinity Chart by
 ![Guild Affinity Chart v1](https://i.imgur.com/RQDrdJH.png)
@@ -89,7 +90,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 17 | [Go to Bed: Part 2 (ft. Chespin)](https://rentry.org/2dvef) | | [Wanderer (ft. Smith)](https://rentry.org/cxhk8) | | |
 18 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
 19 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz)| | [A New World](https://rentry.org/sm6dx) | | |
-20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | | | | |
+20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
 21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | | | |
 22 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq)| | | | |
 23 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | | | | |
@@ -166,7 +167,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi)
 	* [The Outlaw (ft. Chespin)](https://rentry.org/q7she)
 	* [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i)
+	* [A New World (ft. Not Chespin)](https://rentry.org/sm6dx)
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
+* Clara the Lucario
+	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -200,8 +204,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
-* Mew
-	* [A New World](https://rentry.org/sm6dx)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * (Gus the) Oshawott
@@ -320,7 +322,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 * [A New World](https://rentry.org/sm6dx)
 * [Percival's Extended Introduction](https://rentry.org/uosgo9)
-* [Torchic Crosses the Alps](https://rentry.org/unesm)
+* [Torchic Crosses the Alps (ft. Phanpy)](https://rentry.org/unesm)
 * [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 * [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 * [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -329,6 +331,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 * [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 * [Ross Tries to Sleep](https://rentry.org/7kn8v)
+* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 * [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
