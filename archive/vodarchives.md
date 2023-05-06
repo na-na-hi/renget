@@ -76,6 +76,8 @@ Suzaku - https://mega.nz/folder/6NJhUIzY#cWWg15zZXlVwVhQaxkmd3w
 **Other Corpo / Indies:**
 Minai Karte - https://drive.google.com/drive/folders/1EGD9KlWwKOAEtMbSzElXXRDcArB67bcZ
 Zettai Tenshi Kurumi-chan - https://mega.nz/folder/SY8zRagT#fY6oYYlkcSj0pDHffMGEOQ
+Jitomi Monoe - https://onedrive.live.com/?authkey=%21ADpyEVkDJt3bXqI&id=F42A4587F0EA46EC%21963&cid=F42A4587F0EA46EC
+Pikamee - https://mega.nz/file/fWR23S6D#fDphw_HDbc2Gjv9o3CTwp3vugsgbUDj59UvYsKdJVNs
 Pikamee (membership) - https://mega.nz/folder/JOpw0JjR#rqxIDIuncmylDd2vrEStAQ
 
 
@@ -92,9 +94,10 @@ Tsukishita Kaoru - https://nyaa.si/view/1312938 (far from complete)
 Kagami Kira - https://nyaa.si/view/1312595
 
 **Other Corpo / Indies:**
-Jitomi Monoe - https://nyaa.si/view/1346753 (missing member streams)
 Fuzuki Miki - https://nyaa.si/view/1390740
 Mint Fantôme - https://nyaa.si/view/1381870 (missing member streams)
 Beatani - https://nyaa.si/view/1602633
+Jitomi Monoe - https://nyaa.si/view/1346753 (missing member streams)
+Pikamee - magnet:?xt=urn:btih:edb96430726b128b3c0c77954b8a3aea0cdfa1c6&dn=Pikamee%20archive&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce
 Pikamee (Twitch VODs) - https://nyaa.si/view/1653264
 Umiushi Urara - magnet:?xt=urn:btih:3db2e8ad0dad7fee551143c1babc015347bf484d&xt=urn:btmh:1220bcbbc8b4abe455197e130820336f2e274d50327d9393e4bf46b4d0177d9fa99a&dn=slugma

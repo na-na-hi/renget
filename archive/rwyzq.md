@@ -145,7 +145,71 @@ After it finally downloads something it will have the files saved in a folder na
 ![](https://cldup.com/ELI_WUPnVR.png)
 ***
 
+#YTBetter
+This is a userscript that returns the ability to rewind in livestreams, install Tampermonkey addon to use:
+
+##Variant 1
+Shared many times, known to work.
+```javascript
+// ==UserScript==
+// @name        YTBetter
+// @namespace   YTBetter
+// @match       https://*.youtube.com/*
+// @run-at      document-start
+// @grant       none
+// @version     2.0
+// @author      トワ…
+// @description Patches YouTube to bypass some limitations
+// ==/UserScript==
+
+"use strict";
+
+// Interop with "Simple YouTube Age Restriction Bypass"
+const {
+  get: getter,
+  set: setter,
+} = Object.getOwnPropertyDescriptor(Object.prototype, "playerResponse") ?? {
+  set(value) {
+    this[Symbol.for("YTBetter")] = value;
+  },
+  get() {
+    return this[Symbol.for("YTBetter")];
+  },
+};
+
+const isObject = (value) => value != null && typeof value === "object";
+
+Object.defineProperty(Object.prototype, "playerResponse", {
+  set(value) {
+    if (isObject(value)) {
+      const { videoDetails } = value;
+      if (isObject(videoDetails)) {
+        videoDetails.isLiveDvrEnabled = true;
+      }
+    }
+    setter.call(this, value);
+  },
+  get() {
+    return getter.call(this);
+  },
+  configurable: true,
+});
+```
+
+##Variant 2
+Appears to be more advanced with hooking into frames on pages like Holodex.
+https://greasyfork.org/en/scripts/459535-ytbetter
+
 #/who/-developed scripts
+##Preface
+Excluding the 4chan-x section which is a userscript edit, these are going to be generally written in Python 3.
+To run these, simply copy them into a text file and save it as `[FILENAME].py` (replacing `[FILENAME]` with whatever you want) then execute them through Python's executable or through command prompt with opening command prompt window in the folder it's located and typing `python [FILENAME].py`.
+
+###Using yt-dlp to grab a VOD
+Docs: https://github.com/yt-dlp/yt-dlp
+Follow the installation in the docs.
+To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
+
 ##4chan-x Edit: Better Page Info (Purge Position)
 ![](https://files.catbox.moe/3azond.png)
 4chan-X.user.js: https://files.catbox.moe/yvgup8.js

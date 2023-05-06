@@ -23,6 +23,7 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 https://rentry.org/Writing-Resources-and-Other-Things
 
 ####Todd/Slaude Tavern Guide
+Use at your own risk: https://i.imgur.com/gT7b4W1.jpg
 https://rentry.org/aids-tavern
 
 ####SoloRPG Guide

@@ -10,6 +10,7 @@ Knot Breeding Request (Featuring Werewolf Faolán and an Anonymous Witch): https
 Date Night (Featuring Eudaemonia and Faolán): https://rentry.org/ofzst
 Uncontrollable Instincts (Featuring Faolán, 2 unnamed witches, and Penny Warwick): https://rentry.org/cgnio4
 Birthday Girl (Featuring Penny and a *lot* of unnamed Wizards): https://rentry.org/cfimr
+After Hours Experiment (Featuring Penny and Werewolf Faolán): https://rentry.org/wevmkr
 Hiding in Plain Sight (Featuring Gloria and Faolán): https://rentry.org/9acqo
 Hiding in Plain Sight P2: https://rentry.org/7cfis
 The Flower and The Bee (Featuring Ioni and Florana): https://rentry.org/i5zen
@@ -20,10 +21,10 @@ Exposure Therapy (Featuring Ioni and Werewolf Faolán): https://rentry.org/pkfqw
 -> **Current List of writings/requests to do:** <-
 
 SFW:
-Currently Empty
+The Change
 
 NSFW:
-Bit of Skinny Dipping
+After Match
 
 -> • ───────────────── • <-
 -> **Open to Requests** <-

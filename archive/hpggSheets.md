@@ -1,6 +1,8 @@
 #/hpgg/ Autism Sheets
 ->[Character Sheet](https://files.catbox.moe/h9g2ou.png)<-
 
+->[Writing Reference Page (scroll down)](https://rentry.org/hpgwriting)<-
+
 ->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
 
 ->[Combat Info Sheet](https://files.catbox.moe/ncejtw.jpg)<-

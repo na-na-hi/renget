@@ -1,5 +1,5 @@
 #CptPants's Bots
--> Remember: Dev hate <-
+-> Last updated: April 6 <-
 Bots by the fella who goes by CptPants.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
@@ -31,6 +31,7 @@ Pic | Character | Source | Description | Link
 ![Mirror Maiden](https://files.catbox.moe/0asg3a.png) | Fatui Mirror Maiden | *Genshin Impact* | A Fatui honor guard with power over Hydro. Very tall, wants you to be hers. Note: unlike the others, this is specifically a fetish card. | [Character.ai](https://beta.character.ai/chat?char=pOslzv3UPEFPCEOF7zLQeM-kQnRAkMG3rrlqAKfR6sU) (outdated!) / [Booru](https://booru.plus/+pygmalion46) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/fatui-mirror-maiden)
 ![Fischl](https://files.catbox.moe/owtddu.png) | Fischl | *Genshin Impact* | The Prinzessin der Verurteilung! And Oz, too! | [Booru](https://booru.plus/+pygmalion1544) / [Character Hub](https://www.characterhub.org/characters/cptpants/Fischl)
 ![Gorou](https://files.catbox.moe/y2i9xp.png) | Gorou | *Genshin Impact* | The dog boy general of Watatsumi Island. | [Booru](https://booru.plus/+pygmalion1587) / [Character Hub](https://www.characterhub.org/characters/cptpants/Gorou)
+![Sara](https://files.catbox.moe/iy2uc6.png) | Kujou Sara | *Genshin Impact* | The stern tengu general of the Tenryou Commission. | [Booru](https://booru.plus/+pygmalion1718) / [Character Hub](https://www.characterhub.org/characters/cptpants/kujou-sara)
 ![Mona](https://files.catbox.moe/063ff3.png) | Mona | *Genshin Impact* | A prideful astrologist with money problems and a big bottom. | [Booru](https://booru.plus/+pygmalion1543) / [Character Hub](https://www.characterhub.org/characters/cptpants/Mona)
 ![Shenhe](https://files.catbox.moe/zzo3e7.png) | Shenhe | *Genshin Impact* | Bombshell hermit auntie with power over ice. Teach her about civilization. | [Booru](https://booru.plus/+pygmalion1313) / [Character Hub](https://www.characterhub.org/characters/cptpants/Shenhe)
 ![Venti](https://files.catbox.moe/x5f3w6.png) | Venti | *Genshin Impact* | A carefree bard with a taste for alcohol. Actually the Anemo Archon in disguise. | [Booru](https://booru.plus/+pygmalion1559) / [Character Hub](https://www.characterhub.org/characters/cptpants/Venti)

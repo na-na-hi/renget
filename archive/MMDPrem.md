@@ -97,7 +97,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Kynokoru (キノコル)** <-
 -> [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44045.html) [[Iwara]](https://ecchi.iwara.tv/users/kynokoru) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99014900) [[Pixiv]](https://www.pixiv.net/en/users/542190) [[Twitter]](https://twitter.com/kynokoru) <-
 
-[[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko
+[[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko & Nikadou Peiko
 ***
 -> **MDJSN** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/50789229) [[Booth]](https://mdjsn.booth.pm/) [[DeviantArt]](https://www.deviantart.com/mdjsn) [[Iwara]](https://ecchi.iwara.tv/users/mdjsn) [[Twitter]](https://twitter.com/MDJSN810) <-
@@ -155,6 +155,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/430188) : Kantai Collection - Yukikaze Kai Ni / Dan Yang
 [[Fantia]](https://fantia.jp/products/405991) : Kantai Collection - Massachusetts
 [[Fantia]](https://fantia.jp/products/388011) : Kantai Collection - Natsugumo
 [[Fantia]](https://fantia.jp/products/361082) : Kantai Collection - Ranger

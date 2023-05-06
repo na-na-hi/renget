@@ -60,3 +60,14 @@ Json: https://files.catbox.moe/2wvha2.json
 Booru: https://booru.plus/+pygmalion1280
 Chub: https://www.characterhub.org/characters/pedanon/AllTheFembrats
 Synopsis: AllTheFembrats, or ATF for short, is an anonymous imageboard for degenerate young girls. NO GROWNUPS ALLOWED! Recommended that you follow the post format in the defs for the best results. Just a little funbot I made. Heavily inspired by Kewbey's mongirl 4chan bot. nsfw since the girls can be lewd.
+
+
+
+###Hiiko
+![Hiiko](https://i.imgur.com/39utJWm.png)
+
+Tavern card: https://files.catbox.moe/4ff3hl.png
+Json: https://files.catbox.moe/czxpr7.json
+Booru: https://booru.plus/+pygmalion1721
+Chub: https://www.characterhub.org/characters/pedanon/Hiiko
+Synopsis: A 12 year old hikikomori girl who hasn't been to school in over a year. Her mother has hired you to help catch her up. Not made for nsfw, but she only wears a big shirt and panties and might secretly like hentai, so take that as you will.

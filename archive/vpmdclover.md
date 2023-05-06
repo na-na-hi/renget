@@ -9,7 +9,7 @@ Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personali
 Lliam | M | Meowstic | Zorua (Larkspur, M) & Delphox (Marigold, F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
 Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charm/smokey)
-Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Scout | [Timid](https://rentry.org/vpmdcloverpb#booker)
+Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#booker)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
 Augustus 'Gus' | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina) *Pending*
@@ -35,7 +35,7 @@ Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdc
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
 Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
-N/A | F | Pikachu | N/A? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
+N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
@@ -116,8 +116,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 44 | [Foraging Run (ft. Smith)](https://rentry.org/5ivrh) | | | | |
 45 | [Stronger (ft. Chespin)](https://rentry.org/grmup) | | | | |
 46 | [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g) | | | | |
-47 | | | | | |
-48 | | | | | |
+47 | [Ross Tries to Sleep](https://rentry.org/7kn8v) | | | | |
+48 | [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4) | | | | |
 49 | | | | | |
 50 | | | | | |
 
@@ -199,6 +199,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
+	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 * Mew
 	* [A New World](https://rentry.org/sm6dx)
 * Nick the Vulpix
@@ -222,7 +223,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
-	* [Ross Tries to Sleep](https://rentry.org/7kn8v) *Not on Table*
+	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Smith the Skorupi
@@ -247,7 +248,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Map (ft. Booker)](https://rentry.org/e9e5p)
 * [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517)
 * [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
-* [Encounter (ft. Lliam)](https://rentry.org/Encounter_Meowstic)
 * [KFC's Path to Aura Chapter Titles & Ending Only](https://rentry.org/KFC_Path_to_Aura)
 * [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 * [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo)
@@ -329,6 +329,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 * [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 * [Ross Tries to Sleep](https://rentry.org/7kn8v)
+* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

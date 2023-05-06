@@ -1,6 +1,8 @@
 # Pyggymancy
-## LLaMA might be here, but it's impossible to run on my GPU. Edition
-Still in the OP? Cool!
+## I'm learning how to do this fancy new stuff.
+Still in the OP? Cool, despite this being pretty old now, back when there was only /aicg/.
+They made some Pyggy models based on the LLaMA, or Alpaca, or whatever. Haven't smelled those yet.
+Only really kept here for posterity since it's embedded into the OP templates.
 
 [TOC3]
 
@@ -151,12 +153,12 @@ In the "new" UI, it's in the settings scrolling a fair bit down.
 I want to experiment more with softprompts, but Google won't hand me TPU time, so I can't follow [this guide](https://rentry.org/shiso-softprompt-quickstart#training-a-soft-prompt) properly. I tried using Google's GPU time, but the script doesn't like that. I've yet to try the local version properly.
 Worth a try anyhoo if you've got a whole series and want to try to get better immersion!
 
-These are simple notes and a walkthrough of what I know. If you find anything that's not on here, future Pyggymancer, then hopefully you'll be able to find me in /aicg/ to share them with me! Alternately, you can find me in the /wAIfu/ matrix or just [directly at Matrix itself](https://matrix.to/#/@nordgeit:nordgeit.no).
+These are simple notes and a walkthrough of what I know. If you find anything that's not on here, future Pyggymancer, then hopefully you'll be able to find me in /lmg/ to share them with me! Alternately, you can find me in the /wAIfu/ matrix or just [directly at Matrix itself](https://matrix.to/#/@nordgeit:nordgeit.no).
 
 ####Conclusion
-Pyggy is far from perfect. It was made by a bunch of /vt/ and /g/ amateurs that started out with essentially 0 knowledge. But if you're new to AI chatbots, and you have the power to run Pyggy, then you should run Pyggy. CAI and OAI-API (or whatever that tavern setup is called) both have their limits, with CAI being filtered in all sorts of ways and OAI-API requiring you to get a bunch of API keys from OAI (Hope you don't get moderated...), making them both less reliable than running locally.
-Mastering Pyggy and improving the ways you use it is the path to go.
-Or, if people manage to finetune LLaMA for this, that works too.
+Pyggy is far from perfect. It was made by a bunch of /vt/ and /g/ amateurs that started out with essentially 0 knowledge. But if you're new to AI chatbots, and you have the power to run Pyggy, then Pyggy isn't the worst choice. CAI and OAI-API (or whatever that tavern setup is called) both have their limits, with CAI being filtered in all sorts of ways and OAI-API requiring you to get a bunch of API keys from OAI (Hope you don't get moderated...), making them both less reliable than running locally.
+Mastering Pyggy and improving the ways you use it is a path.
+People have managed to finetune LLaMA for this, that works too, even on CPU.
 Other links, including some I already mentioned:
 github.com/PygmalionAI
 rentry.org/pygmalion-ai

@@ -10,6 +10,11 @@
 	4. Click Save
 
 ***
+
+The Clover Guild has succeeded in their Federation test, and are now a fully-realized guild! Naturally, this means it's time for a celebration. Drinks and games abound, not to mention tipsiness as the night progresses.
+Likely far too difficult for just one person to write, due to so many other characters+writing them drunk. Maybe a 3-person colab kind of deal could make this work out?
+
+***
 https://youtu.be/0kPXa5REmzc
 You hear your partner cry out from behind you.
 *"Anon, help! I'm hurt!"* 

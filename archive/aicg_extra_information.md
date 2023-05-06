@@ -60,7 +60,10 @@ https://rentry.org/mikugg
 
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
+https://risu.pages.dev
 - korean frontend for oobabooga's and OAI; local install and online demo; feature rich + plugins
+
+![](https://files.catbox.moe/xs0fj6.png)
 
 ##### VenusAI
 https://venusai.chat

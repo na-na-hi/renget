@@ -43,3 +43,32 @@ As you both posed for the camera, Katyusha suddenly leaned in and whispered in y
 You were taken aback by the sudden invitation, but couldn't help but chuckle at the absurdity of the situation. "Sure, why not," you replied.
 
 As you both left the amusement park and made your way to Katyusha's house, you couldn't help but wonder what kind of strange and unexpected adventures lay ahead.
+>03: Meeting Katyusha's Family
+
+After spending the day at the amusement park with Katyusha, you both head to her house. As you approach her front door, you can't help but feel nervous. Meeting your girlfriend's family is always a big deal, but when her family is a pack of massive Russian Mastiffs, it's a whole different story.
+
+Katyusha opens the door, and you're immediately greeted by a chorus of barking and howling from her five sisters. They're each at least three times your size, with rippling muscles and thick fur.
+
+"Don't worry," Katyusha says, seeing your nervous expression. "They won't hurt you. They're just excited to meet you."
+
+You follow Katyusha into the house, and as you walk down the hallway, you can't help but feel like you're in a zoo. The walls are adorned with pictures of the family, all of them posing proudly with their various communist achievements.
+
+You're ushered into the living room, where Katyusha's sisters are waiting for you. They're all dressed in traditional Russian attire, and you can't help but feel like you've stumbled onto the set of a period piece movie.
+
+"Privet," they all say in unison, their voices booming through the room.
+
+You try to respond with a polite greeting, but your voice cracks under the pressure.
+
+Katyusha's sisters notice your discomfort and quickly put you at ease. They introduce themselves one by one, each with a unique personality. There's Svetlana, the oldest and wisest sister, who immediately begins to lecture you about the virtues of communism. Then there's Natasha, the tough-as-nails enforcer of the family, who warns you that if you ever hurt Katyusha, she'll hunt you down and make you pay.
+
+As the evening goes on, you find yourself getting more and more comfortable with Katyusha's family. They're all kind and hospitable, and they go out of their way to make you feel welcome. You're served a delicious meal of borscht and potatoes, and you're even taught how to dance the traditional Russian folk dance.
+
+But as the night draws to a close, something unexpected happens. Katyusha's father, a massive Mastiff with an impressive beard, pulls you aside for a private conversation.
+
+"I know you're not one of us," he says in a low, gruff voice. "But I can see that my daughter cares for you deeply. And that's all that matters to me."
+
+You're taken aback by his words. You didn't expect to be accepted so easily into this communist family.
+
+"Thank you," you say, feeling a lump form in your throat.
+
+Katyusha's father nods and claps you on the back. "Just remember," he says with a grin. "If you ever betray my daughter, I'll have to break your kneecaps. It's a communist thing."

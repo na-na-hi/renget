@@ -187,7 +187,8 @@ Sometimes Tavern might need to re-install dependencies when updated, if so run: 
 
 Step 1 - Settings menu | Step 2 - Insert proxy | Step 3 - API menu - Connect
 :-: | :-: | :-:
-[![BURGER MENU](https://i.imgur.com/nSAS6RL.jpg)](https://i.imgur.com/nSAS6RL.jpg) | [![BURGER MENU](https://i.imgur.com/rFVvmk3.jpg)](https://i.imgur.com/rFVvmk3.jpg) | [![BURGER MENU](https://i.imgur.com/UTlScwT.jpg)](https://i.imgur.com/UTlScwT.jpg)
+[![BURGER MENU](https://i.imgur.com/sos032s.png)](https://i.imgur.com/sos032s.png) | [![BURGER MENU](https://i.imgur.com/3cCs2Ao.png)](https://i.imgur.com/3cCs2Ao.png) | [![BURGER MENU](https://i.imgur.com/iIn05Qr.png)](https://i.imgur.com/iIn05Qr.png)
+Make sure you have **OpenAI** selected in the API menu ![APIicon](https://i.imgur.com/oHuNi58.png). Then find **OpenAI Reverse Proxy** in the burger menu. ![Burger](https://i.imgur.com/aCoxl8o.png) | Paste in the **full** proxy link in the Input field below **OpenAI Reverse Proxy**, don't know what the full link is? Look below. | Go to **API** ![APIicon](https://i.imgur.com/oHuNi58.png) and put **Cunny** into the **API key** field, if the proxy is password protected, **PUT THE PASSWORD THERE.**
 
 ### Proxy link sharing!
 Proxy sharing is a new thing that's being done to share keys for others. Made and published by [Idosal](https://huggingface.co/spaces/idosal/oai-proxy)(?), this allows for anons who have been gifted with many GPT keys, to share it with others to enjoy. By placing the key behind the proxy, one can control usage of keys and avoid someone getting a hold of it and manipulate it. When connecting to a proxy, you are exposing your computer, network to someone's server! Which then redirects your connetion and request to OpenAI. This poses a security risk! So use them at your own risk. However, the source code is always available on Huggingface, so you can confirm if it's been alter with in a malicious way if you're tech-savy.. Which let's be honest, you're reading this guide, so you're not.
@@ -217,10 +218,10 @@ If you receive the message "Endpoint not found" when attempting to connect to a 
 If you see "Access token Invalid," it means that the API key is incorrect, and the proxy is password-protected. Input the password as the API key to access it. If you don't know the password, find another proxy.
 
 **Streaming:**
-For certain proxies that support streaming, enabling it can supposedly help with 504 errors. If you're using proxies like whocars123-oai-proxy, enabling streaming should decrease your response timeouts and not return as many 504 errors.
+Streaming as a function is great to have on proxies. It provides you with a steady stream of the text being generated. This completely nulls 504 connection timeout errors. If the proxy supports this, make sure to enable this! Otherwise you will lose GPT4 responses if it takes 60 seconds or more to generate.
 
 ## Agnai setup.
-May add later...
+Not looking good bros...
 
 ***
 Updates:

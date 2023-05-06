@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>General Gothmog inspects siege machines created in the forges of Barad Dur
+https://files.catbox.moe/3ia250.mp4
 >AFU positions in western Bakhmut
 https://files.catbox.moe/tfbuok.mp4
 https://files.catbox.moe/ti5rxh.mp4

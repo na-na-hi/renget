@@ -7,14 +7,14 @@
 [05-02-2023] - Initial Rentry
 
 ## 4-bit GPU Model Requirements
-!!! note VRAM Required takes full context (2048) into account. If you do not have enough RAM to load model, it will load into swap. Note that groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
+!!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
 
-Model Parameters | VRAM Required | RAM
---- | --- | ---
-7B | 8GB | 6 GB
-13B | 12GB | 12GB
-30B | 24GB  | 32GB
-65B | 42GB | 64GB
+Model Parameters | VRAM Required | GPU Examples | RAM to Load
+--- | --- | --- | ---
+7B | 8GB | RTX 1660, 2060, AMD 5700xt, RTX 3050, 3060 | 6 GB
+13B | 12GB | AMD 6900xt, RTX 2060 12GB, 3060 12GB, 3080 12GB, A2000 | 12GB
+30B | 24GB  | RTX 3090, RTX 4090, A4500, A5000, 6000, Tesla V100 | 32GB
+65B | 42GB | A100 80GB, NVIDIA Quadro RTX 8000, Quadro RTX A6000 | 64GB
 
 ## 4-bit CPU/llama.cpp RAM Requirements
 !!! note 5bit to 8bit Quantized models are becoming more common, and will obviously require more RAM. Will update these with the numbers when I have them.

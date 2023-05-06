@@ -1,8 +1,8 @@
 ->![Champagne Pirate Wiki Banner](https://i.ibb.co/5j8Hv20/champagne-wiki.png)<-
 
 # CHAMPAGNE PIRACY WIKI
-### ->👇 NOW AT NEW WEBSITE 👇<-
-## ->🌐 HTTPS://CHAMPAGNE.SURGE.SH 🌐<-
+#### ->👇 NOW AT NEW WEBSITE 👇<-
+###### ->🌐 HTTPS://CHAMPAGNE.SURGE.SH 🌐<-
 
 ->*Pirate, save money, buy champagne*. 🥂<-
 ->🥳🎉🎊🎁🎈🤠😍🤩🕺💃<-

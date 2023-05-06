@@ -131,9 +131,9 @@
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
 - [URL Safety Results](https://www.urlvoid.com/scan/fmovies.name/)
 
-### ▶️ [GOKU](https://goku.to/)
+### ▶️ [GOKU](https://goku.sx/)
 - Awesome place for free HD streaming without registration at all, including subtitles in several languages with a single click as well.
-- [URL Safety Results](https://www.urlvoid.com/scan/goku.to)
+- [URL Safety Results](https://www.urlvoid.com/scan/goku.sx)
 
 ### ▶️ [GoMovies](https://gomovies.sx/)
 - Famous movie website that allows free users to view movies and TV series in HD quality with no advertisements.

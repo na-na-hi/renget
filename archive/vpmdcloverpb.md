@@ -210,11 +210,13 @@
 >Alcoholic, but a happy drunk. Wants to have fun, and wants everyone to get along. He's too anxious when sober to socialize, so he feels like drinking is the best way to make himself social and liked by the group.
 
 ###Chespin/Wooper
->Decided to stick with a basic name for the sake of blending in. Despite this, slips up and mentions the human world a lot
->Easily startled and worries a lot. Quick to panic when things go badly
->Gets pepped up from exposure to sunlight
->Primarily sticks to Vine Whip in battle, sometimes holding enemies down for him to Headbutt. Has recently learned Solarbeam, and is unable to resist performing the move like an attack from a certain show.
->Hates hay beds, gets very irritable when he doesn't sleep well
+>Chespin decided to stick with a basic name for the sake of blending in. Despite this, slips up and mentions the human world a lot.
+>Easily startled and worries a lot. Quick to panic when things go badly.
+>Outside of this, Chespin usually has a more "subdued" personality. Isn't afraid to make a dumb little joke here and there. He usually won't go around cheering or jumping for joy, but doesn't get sad very often.
+>Gets pepped up from exposure to sunlight, both physically and mentally.
+>Primarily sticks to Vine Whip in battle, sometimes holding enemies down for him to Headbutt. If an enemy is large enough, can "slingshot" himself with his vines to hit harder with Headbutt. 
+>Has recently learned Solarbeam, and is unable to resist performing the move like an attack from a certain show.
+>Hates hay beds, gets very irritable when he doesn't sleep well.
 >Becomes absolutely furious when coming across a foe who hurt him or a friend in the past, will often attack them even after they're knocked out.
 >Will put up with all the memes the other guildmates love to talk about
 >His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
@@ -222,15 +224,17 @@
 >Most adventures he actually dares to go on are to obtain mundane items the guild is mysteriously missing
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
+>Cheerfulness and enthusiasm is what Wooper's all about. It'd take someone doing something very serious to make him mad.
 >Wooper frequently pesters Chespin to go on missions and treasure hunts, is enthusiastic to the point of obsession
 >Wooper tends to be treated as a living gun by Chespin in battle, being carried by his vines
 >While unusually skilled at fighting with moves like Earth Power, Wooper is reckless and frail. Even just one moderately hard hit will knock him out
 >Due to this, Chespin prioritizes protecting Wooper from harm in battle, even going so far as to use himself as a shield
 >Chespin can't shake the feeling that something seems a little off about him
->Despite that mild worry, the two are almost never seen apart.
+>Despite that concern, the two are almost never seen apart.
 >Should something happen to Wooper, Chespin will ignore everything else, even immense fears, to get him back.
 >Other guild members trick Wooper into repeating memes, with the promise that the phrases are "human detectors"
 
+>Together, Chespin and Wooper form Team Cozy. The treasures they seek are more mundane things such as comfy blankets, tasty foods, and pretty much anything that helps one relax.
 
 ###Mindy
 >A Mew that was found knocked out on the side of the road by Chespin and Wooper
