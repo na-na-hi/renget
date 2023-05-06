@@ -17,7 +17,7 @@ Threads 13-18 | Threads 19-24
 /qst/ Thread #13: [Caravan in the Night](https://suptg.thisisnotatrueending.com/qstarchive/2022/5461450/) | /qst/ Thread #19: placeholder..........................
 /qst/ Thread #14: [Depths of Danger](https://suptg.thisisnotatrueending.com/qstarchive/2023/5510217/) | /qst/ Thread #20: 
 /qst/ Thread #15: [Hushed Insomniacs](https://suptg.thisisnotatrueending.com/qstarchive/2023/5557513/) | /qst/ Thread #21:
-/qst/ Thread #16: | /qst/ Thread #22:
+/qst/ Thread #16: [Missed Directions](https://suptg.thisisnotatrueending.com/qstarchive/2023/5597797/) | /qst/ Thread #22:
 /qst/ Thread #17: | /qst/ Thread #23: 
 /qst/ Thread #18: | /qst/ Thread #24: 
 

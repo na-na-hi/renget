@@ -145,7 +145,7 @@ Temperature | Frequence Penalty | Presence Penalty
 ### ->SillyTavern - Android / Termux / Phone<-
 ->Termux is a Linux terminal emulator for Android that allows you to install SillyTavern and take your waifus with you on the go. It's a straightforward process that I find easier than installing it on Windows.<-
 !!! note
-    ->**To help you understand the installation process, I've provided a 3-minute video, that showcases the installtion of SillyTavern on your Android, using Termux. The video doesn't have audio, but it shows me copying and pasting the commands for the installation process. You can use this video as a visual aid for what the process looks like. Check out the [Video link of Installation here](https://streamable.com/xg2hmf). Special thanks to /aicg/ anon for providing improved Linux instructions.**<-
+    ->**To help you understand the installation process, I've provided a 3-minute video, that showcases the installation of SillyTavern on Android, using Termux. The video doesn't have audio, but it shows me copying and pasting the commands for the installation process. You can use this video as a visual aid for what the process looks like. Check out the [Video link of Installation here](https://streamable.com/xg2hmf). Special thanks to /aicg/ anon for providing improved Linux instructions.**<-
 
 Instructions | Images
 - | :-

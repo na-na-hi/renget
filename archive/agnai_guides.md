@@ -6,8 +6,6 @@
 
 ##### proxies
 
-Note: there may be a bug where you'll have to set your desired default preset not just in the Kobold settings tab (as demonstrated in the videos), but also in the OpenAI settings tab.
-
 Todd/gpt4 proxies: https://files.catbox.moe/lqykvj.mp4
 
 whocars/hf proxies: https://files.catbox.moe/46lfqp.mp4

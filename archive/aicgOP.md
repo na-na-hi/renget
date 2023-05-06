@@ -32,13 +32,13 @@ A general dedicated to discussion & development of AI Chatbots
 >Tavern
 https://github.com/SillyLossy/TavernAI
 https://rentry.org/Tavern4Retards [Guide for retards, this means you]
-https://rentry.org/sillytermux [Mobile extras]
+https://rentry.org/STAI-Termux [Guide for phonetards]
 https://github.com/AmmoniaM/Spermack [Russki Slack Claude proxy]
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Video guides]
 >CAI
-https://character.ai [Where it all began]
+https://character.ai [Matcha]
 https://rentry.org/newcaitools | https://greasyfork.org/en/scripts/by-site/character.ai [cai userscripts]
 >RisuAI, a Korean frontend with ImageGen
 http://risu.pages.dev/

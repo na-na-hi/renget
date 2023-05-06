@@ -56,8 +56,8 @@ Thread 256 - Titan's abs Edition: https://desuarchive.org/trash/thread/49398302/
 Thread 255 - Dark Alley Hooker Edition: https://desuarchive.org/trash/thread/49338496/
 Thread 254 - Bublle Bath Edition: https://desuarchive.org/trash/thread/49207003/
 Thread 253 - Look! Up In The Sky! (And Under Her Skirt) Edition: https://desuarchive.org/trash/thread/49151099/
-Thread 252 - Blessed by Neptune, get a swimmer body Edition: https://desuarchive.org/trash/thread/48838492/
-Thread 251 - It's morbin time Edition: https://desuarchive.org/trash/thread/48783443/
+Thread 252 - Blessed by Neptune, Get A Swimmer Body Edition: https://desuarchive.org/trash/thread/48838492/
+Thread 251 - It's Morbin Time Edition: https://desuarchive.org/trash/thread/48783443/
 Thread 250 - MHA genius girl Edition: https://desuarchive.org/trash/thread/48653604/
 Thread 249 - Teen Girl in a Frog World Edition: https://desuarchive.org/trash/thread/48591035/
 Thread 248 - Alternate artist Edition: https://desuarchive.org/trash/thread/48294380/
@@ -293,7 +293,7 @@ Thread 29 - Big Time Bitches Edition AKA Momo's Birthday Edition: https://desuar
 Thread 28 - Trifecta Edition: https://desuarchive.org/trash/thread/18400813/
 Thread 27 - Party Prep Edition: https://desuarchive.org/trash/thread/18364788/
 Thread 26 - Just Cum Already Edition: https://desuarchive.org/trash/thread/18275254/
-Thread 25 - Tall Dragon Edition: https://desuarchive.org/trash/thread/18242066/ 
+Thread 25 - Tall Dragon Edition: https://desuarchive.org/trash/thread/18242066/
 Thread 24 - Handjob Queen Edition: https://desuarchive.org/trash/thread/18211963/
 Thread 23 - National Pride Edition: https://desuarchive.org/trash/thread/18164307/
 Thread 22 - Goldilocks Edition: https://desuarchive.org/trash/thread/18131211/
@@ -314,7 +314,7 @@ Thread 8 - A Bimbo's Friends Edition: https://desuarchive.org/trash/thread/17888
 Thread 7 - Cute Bimbos Edition: https://desuarchive.org/trash/thread/17880434/
 Thread 6 - Bimbos Come In All Sizes Edition: https://desuarchive.org/trash/thread/17864682/
 Thread 5 - Phantom blowjob edition: https://desuarchive.org/trash/thread/17846006/
-Thread 4 - Thicc Bimbo Frog Legs edition: https://desuarchive.org/trash/thread/17804573
+Thread 4 - Thicc Bimbo Frog Legs edition: https://desuarchive.org/trash/thread/17825426/
 Thread 3 - Sexy Pink Slut Edition: https://desuarchive.org/trash/thread/17804573/
 Thread 2 - A New Era Edition: https://desuarchive.org/trash/thread/17782515/
 Thread 1 - Boku No Hero Academy Bimbo Thread: https://desuarchive.org/trash/thread/17763017/

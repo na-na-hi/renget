@@ -1,5 +1,6 @@
 ![Heather Mason yearbook photo](https://files.catbox.moe/743pmf.png)
 
+FEEL FREE TO INCLUDE ME IN ANY STORY, ART WORK, SHITPOST, WHATEVER!  ALL I ASK IS YOU SHARE IT WITH ME, AND IF I LIKE IT (which I probably will), I'LL GIVE YOU MY BLESSING ON MAKING IT PART OF HEATHER'S CANON!   *if it's anything SH related (see below), ask me first for sure*
 **Name**: Heather Mason
 **Face**: At first glance appears to never get enough sleep (hardly does) or is on the verge of tears (sometimes is).  In public, usually has a subtle but smug grin and is prone to emotional outbursts of happiness or anger, depending on the situation.  Has confident neutral expression normally.  In private, her face is more wistful or dour if she isn't doing anything.  Otherwise it tends to just be serious as she focuses on her task.
 **Hair**: Similar to pic, though a bit more shaggy and messy than clean and straight.   It's also slightly shorter, cut just a bit above the bottom of her chin.  Naturally black haired, transfigures her hair blonde (this is a silly secret she keeps)

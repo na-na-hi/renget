@@ -42,6 +42,7 @@ gravityfalls.booru.org -🔞😈- Booru for the series *Gravity Falls*
 the-collection.booru.org -🔞- Booru for /co/'s drawfags
 rule34.us -🔞- Booru for... well... Rule 34
 rule34.xxx -🔞- Another r34 booru
+visuabusters.com -🔞😈- Personal site/booru for the Visuabusters art circle
 zoo.booru.org -🔞🐺- Booru for the series *Zootopia*
 
 #### (Comic) Books
@@ -78,7 +79,6 @@ twitter.com - Troon and drama magnet that ended up being the main hub for artist
 #### Drawing
 sites.google.com/site/ourwici/ - /ic/'s wiki page, has plenty of good resources for drawing there
 
-
 #### Imageboards
 `… same goes for imageboards.`
 
@@ -109,7 +109,7 @@ torrentproject.cc - Torrent site
 yourbittorrent.com - Torrent site
 
 ##### Private Torrent Sites (a/k/a Private Trackers)
-`Visit /ptg/ on /g/ to learn more. And don't go around begging for invites.`
+`Visit /ptg/ on /g/ to learn more. Also don't go around begging for invites.`
 
 cartoonchaos.org (CC) - Private community for animated shows and movies
 myanonamouse.net (MAM) - Private community for books, possibly the closest thing to a private tracker for comics

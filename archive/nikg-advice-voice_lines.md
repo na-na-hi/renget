@@ -21,14 +21,14 @@ Alone
 Good bunny, my bunny.
 
 >Gift Received
-1.
-2.
-3.
+1. A gift from Rabbity... i'll cherish it forever!
+2. Is this a souveneir from the ark? Thank you!
+3. I wanna give you a gift too! What do you want?
 
 >Affection Lvl Up
-1.
-2.
-3.
+3. This is the happiest place in the world!
+1. I think i'm starting to catch feelings for you, Rabbity.
+2. I wanna be with you forever and ever.
 
 ## Anis
 >Blabla Status

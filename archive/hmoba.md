@@ -37,7 +37,7 @@ https://mega.nz/folder/BxJ0yTZS#MNfjwdtiShkH6kSHJsa26A
 #### Authors
 1. ######Anonymous
 	==Militairy Hare==
-https://rentry.org/miliharey 
+https://rentry.org/MilitaryHare1
 	==The Exception== 
 https://rentry.org/Dak07A
 	==Secretary for a Day==

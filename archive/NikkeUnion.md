@@ -21,7 +21,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **3** |EPITAPH| ==**7975**== |PERMISSION | BORGAR | 13/32 | N 
 **5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 32/32 | Y 
 **3** |TOGEMURA| ==**10050**== |OPEN | THERAS| 32/32 | N 
-**4** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 32/32 | N 
+**4** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 31/32 | N 
 **5** | MESUGAK1 | ==**4414**== |PERMISSION | CAEL | 32/32 | Y 
 **5** | CSERYL | ==**3903**== |OPEN | EFEK | 32/32 | N 
 **4** | UOOOH | ==**13720**== |PERMISSION | SYLVAN | 32/32 | Y 

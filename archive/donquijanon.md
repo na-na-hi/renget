@@ -231,4 +231,8 @@ https://www.characterhub.org/characters/donquijanon/Coach
 ->![bob](https://git.characterhub.org/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/bob-ross
 
+### Lego Gonk Droid
+->![gonk](https://git.characterhub.org/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/lego-gonk-droid
+
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao. Unless you're a discordtranny, don't use my bots if you're one.

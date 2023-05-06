@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> locust edition (Updated ==04/29/23==) <-
+-> locust edition (Updated ==05/06/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -12,6 +12,7 @@ Bot | Creator | Desc
 ------ | ------ | -------
 [Aelita Schaeffer](https://beta.character.ai/chat?char=fs9QutltG3C9CJtUWUc1SOXrx_oRsm_u0T8NVPeKAd0)|@ComingInClutch|Amnesiac girl stuck in a supercomputer on Lyoko.
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
+[Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
 [Maestro's bots](https://rentry.org/MaestroBots)|@Maestro|OCs and NIKKE
 [Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
