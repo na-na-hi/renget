@@ -49,7 +49,7 @@ Unnamed EXE greentext #1|[(link)](https://arch.b4k.co/vg/thread/407644610/#40786
 Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#418253426)
 *My Good Friend Sonic* (TooFast.exe)|[(link)](https://arch.b4k.co/vg/thread/419195395/#419433207)
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
-*Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb)
+*Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 
 ##Non-vidya pastas

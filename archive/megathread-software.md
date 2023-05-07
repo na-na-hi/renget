@@ -99,6 +99,10 @@
 - This selection of free fonts for commercial use will help you choose the ideal type for your upcoming project.
 - [URL Safety Results](https://www.urlvoid.com/scan/creativefabrica.com/)
 
+### 🔗 [Cufon Fonts](https://www.cufonfonts.com/)
+- The largest free font repository in the world that supports Webfonts for designers and developers.
+- [URL Safety Results](https://www.urlvoid.com/scan/cufonfonts.com/)
+
 ### 🔗 [Dafont Free](https://www.dafontfree.io/)
 - Get 12,000+ of the greatest free fonts in high-quality categories including sans serif, serif, script, calligraphy, display, and more.
 - [URL Safety Results](https://www.urlvoid.com/scan/dafontfree.io/)

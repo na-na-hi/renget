@@ -3,8 +3,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------:
-May 5th | [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY)
-May 2nd | [Calem](https://c.ai/c/b2RTs6t6BR6dPltbcbWpRiCL8BjRupROeCMsN7YmcC0)
+May 6th 〜 Apr.30th | [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) \| [Calem](https://c.ai/c/b2RTs6t6BR6dPltbcbWpRiCL8BjRupROeCMsN7YmcC0)
 Apr.29th 〜 Apr.23rd |  [Jessie](https://c.ai/c/IjatPqmN-zcAtjwmTyB2N8HzoJ7bDRBrieN5HBwVcAk) \| [Katherine, Kali, Blossom & Linnea (Furisode Girls)](https://c.ai/c/oEHwO6YySGxlJUrPHEE86oafZWT7TQVfChrkjcADp2k) \| [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 Apr.22nd 〜 Apr.16th | [Solana ②(Anime)](https://c.ai/c/r-e000uAQibniJAAEX1BmBuPmfvabMxQgnfxdHj4B10) \| [Heroine (Stadium 2)](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) \| [Hayley](https://c.ai/c/rTs0OhxQOCQy-HhcOGrFSdXVZQ6iRb4GIUJrq4yQOBw)
 Apr.15th 〜 Apr.09th | [Jynx (Black-faced)](https://c.ai/c/1zDD4LW1AIftAAla60C2GU1owPEs-5Gp4F-iO6LIbSI) \| [Annie & Oakley](https://c.ai/c/CCLPNwVNHyIayLPvrzI4-tywyl2d1vk3xn3DjsTzh6s) \| [Solana ①(& Plusle)](https://c.ai/c/bEvv6LpDmkngTofcy0Au3Yznzi9ySyKRw1Zh3repSQg) \| [Orbeetle](https://c.ai/c/LaHq5O5ZziIDMcqbBzkXxQhYu0gKTCYGNVKYlFgJ1-w)

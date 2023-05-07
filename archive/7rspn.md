@@ -1,4 +1,11 @@
 ▶NEW CLIPS
+>Bradley column from the 47th mechanized likely heading to Zaporizhzhia
+https://files.catbox.moe/ssbma2.mp4
+>Incendiary barrages on the last hohol positions in Bakhmut citadel
+https://files.catbox.moe/x3y7fn.mp4
+https://files.catbox.moe/81nill.MP4
+https://files.catbox.moe/y773kx.mp4
+https://files.catbox.moe/kw13bx.mp4
 >General Gothmog inspects siege machines created in the forges of Barad Dur
 https://files.catbox.moe/3ia250.mp4
 >AFU positions in western Bakhmut

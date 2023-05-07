@@ -114,6 +114,8 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers and buffers you can ignore the environment mood and attack type. 
 Always run full teams (6 students). 
+Supports =/= DPS. They SUPPORT you, by bringing CC. They do not deal damage. 
+
 
 For PvE (normal and hard missions, bounties, commissions) you want AOE units. If you're having trouble with a boss, bring in a strong single target (ST) DPS instead.
 At the start you run an evasion tank like Yuuka or Tsubaki, who are the best at tanking damage early on. Eimi is also a solid option thanks to her self-heal EX and very solid damage early on. The damage type of ur tank doesn't matter too much however, since their job is to tank damage (yes, really). After you get access to T4 bags, you can run more orthodox tanks like Hoshino or Haruka (or Tsubaki, because she's still really good).
@@ -139,8 +141,11 @@ That's it.
 
 ## Leveling ur roster
 This is the bonsai part. 
-**Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. 
-A good start is upgrading ur Serina to 2\*, as she's your best friend early on.
+**Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. You use each team for **all content related to their colour**.
+For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten and Hieronymus).
+Once you have more resources you can branch out to a wider roster. 
+
+A good start to every account is upgrading ur Serina to 2\*, as she's your best friend early on.
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet. 
 
@@ -152,7 +157,6 @@ Make sure to read the extra notes on the right as well.
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
 You get the biggest return on investment (ROI) by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills. 
-
 
 If you want to plan ahead with your investments, you can use [the planner](https://justin163.com/planner/) to see how much you exactly need. 
 ![Seeing your cool stuff](https://i.imgur.com/i1aXm3X.png)

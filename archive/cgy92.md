@@ -193,3 +193,4 @@ ________________
 |2022-07-18| ANATOMY REVIEW with Calli + Sana + Mumei | [![](https://files.catbox.moe/q681z9.jpg)](https://www.youtube.com/watch?v=60r1O06S4jo)|Mori & Sana|
 |2022-07-27| 【MINECRAFT】ID Server? | [![](https://files.catbox.moe/plx1wf.jpg)](https://www.youtube.com/watch?v=6uTNjxChxWw)  |[Bae](https://www.youtube.com/watch?v=6Onu1dX7riI), Risu, Zeta & Kaela|
 |2022-08-31| 【TWILIGHT WATCHALONG】 hold on tight, spider monkey with MUMEI | [![](https://files.catbox.moe/wf7mtl.jpg)](https://www.youtube.com/watch?v=c4fAF2N9R_s)  |Fauna - has a [follow-up](https://www.youtube.com/watch?v=M2GvDo_EucI) and might be made into a series with a possible offcollab (watchalongs+ Twilight karaoke).|
+|2023-05-05|  【COUNCIL COLLAB】The Gang Plays UNO  | [![](https://files.catbox.moe/9ftvfm.jpg)](https://www.youtube.com/watch?v=k6fcl4rk3Y8)| First full Council collab after a while. Organised by Mumei. Fun stream with lots of banter and moom noises.|

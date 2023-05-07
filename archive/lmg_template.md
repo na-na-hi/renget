@@ -4,7 +4,7 @@
 ->![Miku & HK416](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.00 | Helped Making Waifus Real Since 2023* <-
+->*V 1.10 | Helped Making Waifus Real Since 2023* <-
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
@@ -19,56 +19,62 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 \>(05/04) StarCoder, a 15.5B parameter models trained on 80+ programming languages.
 https://huggingface.co/bigcode/starcoderbase
 
-►**GitHub Heist QRD**
-https://rentry.org/Jarted
-
 ►**FAQ**
 \>Wiki
-https://local-llm.cybercowboy.de/
+\>>404
 \>Main FAQ
 https://rentry.org/er2qd
 \>Helpful LLM Links
 https://rentry.org/localmodelslinks
 \>Local Models & Old Papers
 https://rentry.org/localmodelsoldpapers
-\>/lmg/ General Resource Charts
-https://rentry.org/lmg-resources
 \>Model Lists/Torrents
 https://rentry.org/lmg_models
+\>/lmg/ General Resource Charts
+https://rentry.org/lmg-resources
 
 ►**Model Guides & Resources**
-\>LlaMA Guide/Resources
-https://rentry.org/TESFT-LLaMa (General Guide)
+\>LlaMA Resources
+https://rentry.org/TESFT-LLaMa (Gen. Guide)
 https://github.com/ggerganov/llama.cpp
-\>Alpaca Guide/Resources
-https://huggingface.co/chavinlo/alpaca-13b/tree/main (Native Model)
-\>GPT-J & Pyggy Guide/Resources
+https://github.com/openlm-research/open_llama
+\>Eachadea Models
+https://huggingface.co/eachadea
+\>Camelids Lab Models
+https://huggingface.co/camelids
+\>A wAIfu workshop Models
+https://huggingface.co/waifu-workshop
+\>Pyggy Guides & Resources
 https://rentry.org/Pyggymancy (Windows)
 https://rentry.org/pygmalion-local (Linux)
 
+►**Text Gen. UI (Inf.)**
+https://github.com/oobabooga/text-generation-webui (GPU)
+https://github.com/LostRuins/koboldcpp (CPU)
+
+►**ERP/RP/Story Gen.**
+\>RolePlayBot
+https://rentry.org/RPBT
+\>ERP/RP-Data-Collection
+https://rentry.org/qib8f
+\>LLaMA RP/Proxy
+https://rentry.org/better-llama-roleplay 
+
 ►**Other Resources**
-\>Text Gen. UI
-https://github.com/oobabooga/text-generation-webui (GPU Infr.)
-https://github.com/wawawario2/text-generation-webui (Long Term Memory)
-https://github.com/LostRuins/koboldcpp (CPU Infr.)
+\>GitHub Heist QRD
+https://rentry.org/Jarted
 \>Ooba. ROCm
 https://rentry.org/eq3hg (AMD)
-\>Guide to LLaMA Quantization
+\>LLaMA Quantization Guide
 https://rentry.org/easyquantguide
 \>Miku Pastebins
 https://rentry.org/lmg-resources#all-things-miku
-\>/lmg/ Template
+\>/lmg/ Bake Template
 https://rentry.org/lmg_template
-\>RolePlayBot Guide
-https://rentry.org/RPBT
-\>LLM Benchmark Prompts
+\>Benchmark Proompts
 https://pastebin.com/LmRhwUCA
-\>ERP/RP Data Collection
-https://rentry.org/qib8f
-\>Proxy script for Tavern via Kobold/webui, increases LLaMA output quality
+\>Proxy script-for-Tavern (w/ Kobold/WebUI) (+output quality)
 https://github.com/anon998/simple-proxy-for-tavern
-\>LLaMA RP/Proxy guide
-https://rentry.org/better-llama-roleplay
 
 ##->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: (Notes are a placeholder)**
