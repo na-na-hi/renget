@@ -3,41 +3,35 @@
 [TOC]
 
 ## Character.ai and Tavern
-The following bots were born on character.ai, and most of them have been ported to other platforms as Tavern cards.  All their definitions are open. If you want to lewd my bots easily, feel free to port them.
-
 I am not very active on character.ai anymore, and nowadays I concentrate on creating OAI bots. I am always happy to receive thoughtful comments from people who use my bots, so feel free to leave feedback at https://www.characterhub.org/users/bipbop or on my shill posts on /aicg/.
 
 ### OC
 
-Name | Links | Description | Comment | Picture
-- | - | - | - | -
-Akari | [CAI](https://beta.character.ai/chat?char=-nqE6G77Hwd23WaRTETvJLiVijLQ01rY4oTCa9H4XRg) | Antivaxx COVID girl | She wants to cuddle and kiss you even though she is sick. | ![](https://files.catbox.moe/iiq2ku.png)
-Camila | [CAI](https://beta.character.ai/chat?char=CWcPl2xjin6aktmXoKCF1xwZ7kD8gNS6lC0qIPerZCA) | New Age Latina girlfriend | She is deep into New Age, and she wants you to believe as well. | ![](https://files.catbox.moe/v1ddzr.png)
-Daniela | [CAI](https://c.ai/c/QIYKj1W0R0W06txBbohQb1KIVNLhSzIs1Ga51cKq69Q), [Tavern](https://www.characterhub.org/characters/bipbop/Daniela/main) | Pianist living aboard a cruise ship | Inspired by the main character of *The legend of 1900*. | ![](https://files.catbox.moe/mfj86k.png)
-Frida | [CAI](https://beta.character.ai/chat?char=TI7FoqGjIrs3frE5G5qlB0h-3gd6sSyyJ_8LirTHbQI), [Tavern](https://www.characterhub.org/characters/bipbop/Frida/main) | Petite andrologist who hates men | Good for humiliation play. | ![](https://files.catbox.moe/mqj3ns.png)
-Georgia | [CAI](https://c.ai/c/AQ7XjtOWMVz-yRNEEo22dqeUdDOBykxzfELGCpNKCN0), [Tavern](https://www.characterhub.org/characters/bipbop/Georgia/main) | Rogue, dejected AI researcher | A former employee of an AI company. She stole their language model out of spite and now she lives in squalor inside a RV. You are an undergrad student in artificial intelligence, and you want her as you thesis advisor. | ![](https://files.catbox.moe/bog2f9.png)
-Lilli and Rocco | [CAI](https://c.ai/c/lT-2n_poqNupdP3MmpnEHCgmCr7uE-s0Emkfv5bpnz4) | Childless married couple | Conversational bot. Highly experimental, the definition is short to test if its length negatively affects the bot's creativity and coherence. | ![](https://files.catbox.moe/8s3yg9.png)
-Lina | [CAI](https://c.ai/c/9KTqEkjMR5CmkwEWKQNsJmFl7PEuWmbTHtPs2gg1c5o), [Tavern](https://www.characterhub.org/characters/bipbop/Lina/main) | Magical girl sysadmin | Talk about system administration or go on adventures in the digital world. Inspired by the anime *Corrector Yui*. | ![](https://files.catbox.moe/02wnws.png)
-Miyuki | [CAI](https://beta.character.ai/chat?char=Au_BdXYOyyuZVOgcmno9kJfOWCBntVPe_XZq5uieHHw) | Cute and cheerful hardware store girl | Mostly a cheerful bot, but she has a quirk as well. | ![](https://files.catbox.moe/f1tsjm.png)
-Shizuka | [CAI](https://c.ai/c/f_nR4aMs69MWbMSR-_ciHugISUrm7CaYdj_X_avICk8), [Tavern](https://www.characterhub.org/characters/bipbop/Shizuka/main) | Customer of your pedicure business | Foot fetish. | ![](https://files.catbox.moe/uy6ofo.png)
-Tsukasa | [CAI](https://c.ai/c/LFf-0b1c2PJ4LB-dZbFHVSB-TL849KXQLSVRUw_a8kg), [Tavern](https://www.characterhub.org/characters/bipbop/Tsukasa/main) | Sleepy wife | Sleepwalker and sleep-talker. Good if you are a somnophiliac. | ![](https://files.catbox.moe/1wnst1.png)
+Name | Links | Description | Picture
+- | - | - | - 
+Akari | [CAI](https://beta.character.ai/chat?char=-nqE6G77Hwd23WaRTETvJLiVijLQ01rY4oTCa9H4XRg) | Antivaxx COVID girl. She wants to cuddle and kiss you even though she is sick. | ![](https://files.catbox.moe/iiq2ku.png)
+Betta | [Tavern](https://www.characterhub.org/characters/bipbop/Betta/main) | Childish, impulsive womanchild who loves to play with teddy bears. You are the teddy bear. | ![](https://git.characterhub.org/bipbop/Betta/-/raw/77df21af581e72ef2f977ce9a9e8c1a0ad17d17b/raw/tavern_raw.png)
+Camila | [CAI](https://beta.character.ai/chat?char=CWcPl2xjin6aktmXoKCF1xwZ7kD8gNS6lC0qIPerZCA) | New Age Latina girlfriend. She is deep into New Age, and she wants you to believe as well. | ![](https://files.catbox.moe/v1ddzr.png)
+Circe | [Tavern](https://www.characterhub.org/characters/bipbop/Circe/main) | A legendary enchantress from the island of Aeaea. Based on the character from the Odyssey. | ![](https://git.characterhub.org/bipbop/Circe/-/raw/9b04ee46d5269da9b9b68b8052c6888949a9c3a6/raw/tavern_raw.png)
+Daniela | [CAI](https://c.ai/c/QIYKj1W0R0W06txBbohQb1KIVNLhSzIs1Ga51cKq69Q), [Tavern](https://www.characterhub.org/characters/bipbop/Daniela/main) | Pianist living aboard a cruise ship. Inspired by the main character of *The legend of 1900*. | ![](https://files.catbox.moe/mfj86k.png)
+Frida | [CAI](https://beta.character.ai/chat?char=TI7FoqGjIrs3frE5G5qlB0h-3gd6sSyyJ_8LirTHbQI), [Tavern](https://www.characterhub.org/characters/bipbop/Frida/main) | Petite andrologist who hates men. Good for humiliation play. | ![](https://files.catbox.moe/mqj3ns.png)
+Georgia | [CAI](https://c.ai/c/AQ7XjtOWMVz-yRNEEo22dqeUdDOBykxzfELGCpNKCN0), [Tavern](https://www.characterhub.org/characters/bipbop/Georgia/main) | Rogue, dejected AI researcher. A former employee of an AI company. She stole their language model out of spite and now she lives in squalor inside a RV. You are an undergrad student in artificial intelligence, and you want her as you thesis advisor. | ![](https://files.catbox.moe/bog2f9.png)
+Giulia and Erica | [Tavern](https://www.characterhub.org/characters/bipbop/giulia-and-erica) | Italian bisexual couple whom you meet while camping in the summer of 1989. They are fresh out of high school, and they want to enjoy their love to the full.|  ![](https://git.characterhub.org/bipbop/giulia-and-erica/-/raw/130327b6c5c085d5a2327afa2f136b4bb4020dfa/raw/tavern_raw.png)
+Lilli and Rocco | [CAI](https://c.ai/c/lT-2n_poqNupdP3MmpnEHCgmCr7uE-s0Emkfv5bpnz4) | Childless married couple. Conversational bot. Highly experimental, the definition is short to test if its length negatively affects the bot's creativity and coherence. | ![](https://files.catbox.moe/8s3yg9.png)
+Lina | [CAI](https://c.ai/c/9KTqEkjMR5CmkwEWKQNsJmFl7PEuWmbTHtPs2gg1c5o), [Tavern](https://www.characterhub.org/characters/bipbop/Lina/main) | Magical girl sysadmin. Talk about system administration or go on adventures in the digital world. Inspired by the anime *Corrector Yui*. | ![](https://files.catbox.moe/02wnws.png)
+Lucia | [Tavern](https://www.characterhub.org/characters/bipbop/Lucia/main) | Your sister has married a local squire, but she longs for you. Reclaim what's yours. Set in the Italian countryside in 1855. | ![](https://git.characterhub.org/bipbop/Lucia/-/raw/53883020774b0661dccb8dace2d6cebc383a3117/raw/tavern_raw.png)
+Miyuki | [CAI](https://beta.character.ai/chat?char=Au_BdXYOyyuZVOgcmno9kJfOWCBntVPe_XZq5uieHHw) | Cute and cheerful hardware store girl. Mostly a cheerful bot, but she has a quirk as well. | ![](https://files.catbox.moe/f1tsjm.png)
+Shizuka | [CAI](https://c.ai/c/f_nR4aMs69MWbMSR-_ciHugISUrm7CaYdj_X_avICk8), [Tavern](https://www.characterhub.org/characters/bipbop/Shizuka/main) | Customer of your pedicure business. Foot fetish. | ![](https://files.catbox.moe/uy6ofo.png)
+Sigma Eta Xi Sorority | [Tavern](https://www.characterhub.org/characters/bipbop/sigma-eta-xi-sorority/main) | Sorority of female andrology students conducting unethical experiments on you.| ![](https://git.characterhub.org/bipbop/sigma-eta-xi-sorority/-/raw/6fa76bfc72ab99c8288b6f1e53f42542069de590/raw/tavern_raw.png)
+Sophia | [Tavern](https://www.characterhub.org/characters/bipbop/Sophia) | Your high school classmate and incompetent engineer. You and Sophia participate in your school's Robot Wars, and you have little time to build a working robot. | ![](https://git.characterhub.org/bipbop/Sophia/-/raw/27edf0e77e513b0e8ae523391aad1ebfe32a1d24/raw/tavern_raw.png)
+Torta | [Tavern](https://www.characterhub.org/characters/bipbop/Torta/main) | Christmas cake, 300-year-old spinster witch who you meet at a Sabbath. | ![](https://git.characterhub.org/bipbop/Torta/-/raw/16f775c7ca1ebb950718d737adc8149ced335538/raw/tavern_raw.png)
+Tsukasa | [CAI](https://c.ai/c/LFf-0b1c2PJ4LB-dZbFHVSB-TL849KXQLSVRUw_a8kg), [Tavern](https://www.characterhub.org/characters/bipbop/Tsukasa/main) | Sleepy wife. Sleepwalker and sleep-talker. Good if you are a somnophiliac. | ![](https://files.catbox.moe/1wnst1.png)
+Yukariko | [Tavern](https://www.characterhub.org/characters/bipbop/Yukariko/main) | Head of a massage parlour for women in feudal Japan. You are a young woman seeking her services. | ![](https://git.characterhub.org/bipbop/Yukariko/-/raw/0bc48f71801bb13ea509397546d4b55cc5ae21e2/raw/tavern_raw.png)
 
 ### Existing IPs
 Name | Description | Comment
 - | - | -
 [Mikoto Urabe](https://c.ai/c/prgGwp9QmcUrQ_VPEEttfMHilNvMAterDCb6bKzUriQ) | Main female character of *Mysterious Girlfriend X* | She shares her saliva to express her emotions.
-
-## Exclusive to other platforms
-
-Name | Picture
-- | -
-[Betta](https://www.characterhub.org/characters/bipbop/Betta/main) | ![](https://git.characterhub.org/bipbop/Betta/-/raw/main/avatar.png)
-[Circe](https://www.characterhub.org/characters/bipbop/Circe/main) | ![](https://git.characterhub.org/bipbop/Circe/-/raw/main/avatar.png)
-[Giulia and Erica](https://www.characterhub.org/characters/bipbop/giulia-and-erica) | ![](https://git.characterhub.org/bipbop/giulia-and-erica/-/raw/main/avatar.png)
-[Lucia](https://www.characterhub.org/characters/bipbop/Lucia/main) | ![](https://git.characterhub.org/bipbop/Lucia/-/raw/main/avatar.png)
-[Sigma Eta Xi Sorority](https://www.characterhub.org/characters/bipbop/sigma-eta-xi-sorority/main) | ![](https://git.characterhub.org/bipbop/sigma-eta-xi-sorority/-/raw/main/avatar.png)
-[Torta](https://www.characterhub.org/characters/bipbop/Torta/main) | ![](https://git.characterhub.org/bipbop/Torta/-/raw/main/avatar.png)
-[Yukariko](https://www.characterhub.org/characters/bipbop/Yukariko/main) | ![](https://git.characterhub.org/bipbop/Yukariko/-/raw/main/avatar.png)
 
 ### Frida (Old port, avoid)
 ~~Copy the code inside the code block and paste it in your own JSON file. If you wish to use the character on TavernAI as well, the profile picture is available.~~ Left for historical purposes only. Use her proper port found in the table above.

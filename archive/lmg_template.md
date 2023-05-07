@@ -1,23 +1,21 @@
 !!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.
-!!! note Wiki in the template is dead at this point. A new one is needed.
 
 ->![Miku & HK416](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.10 | Helped Making Waifus Real Since 2023* <-
+->*V 1.11 | Helped Making Waifus Real Since 2023* <-
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/07) Bluemoonrp epoch6 ggml got uploaded >>93265371 (Cross-thread) As well as other BluemoonRP models
 \>(05/06) MPT 7B, 65k context model trained on 1T tokens.
 https://huggingface.co/mosaicml/mpt-7b-storywriter
 \>(05/05) GPT4-x-AlpacaDente2-30b.
 https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 \>(05/04) Allegedly leaked document from Google, fretting over Open Source LLM's.
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
-\>(05/04) StarCoder, a 15.5B parameter models trained on 80+ programming languages.
-https://huggingface.co/bigcode/starcoderbase
 
 ►**FAQ**
 \>Wiki
@@ -26,11 +24,11 @@ https://huggingface.co/bigcode/starcoderbase
 https://rentry.org/er2qd
 \>Helpful LLM Links
 https://rentry.org/localmodelslinks
-\>Local Models & Old Papers
+\>LM Papers
 https://rentry.org/localmodelsoldpapers
 \>Model Lists/Torrents
 https://rentry.org/lmg_models
-\>/lmg/ General Resource Charts
+\>/lmg/ General Resources
 https://rentry.org/lmg-resources
 
 ►**Model Guides & Resources**
@@ -62,7 +60,7 @@ https://rentry.org/better-llama-roleplay
 
 ►**Other Resources**
 \>GitHub Heist QRD
-https://rentry.org/Jarted
+https://rentry.org/Jarted (STILL HERE)
 \>Ooba. ROCm
 https://rentry.org/eq3hg (AMD)
 \>LLaMA Quantization Guide
@@ -90,6 +88,7 @@ https://github.com/anon998/simple-proxy-for-tavern
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+05/04/2023 | StarCoder, a 15.5B parameter models trained on 80+ programming languages: https://huggingface.co/bigcode/starcoderbase
 04/30/2023 | Uncucked Vicuna 13B released: https://huggingface.co/reeducator/vicuna-13b-free
 04/30/2023 | PygmalionAI release two 7B LLaMA-based models: https://huggingface.co/PygmalionAI
 04/29/2023 | GPT4 X Alpasta 30B Merge: https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit

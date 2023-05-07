@@ -53,7 +53,7 @@ Skull | M | Cubone | | Clover Guild Member | Quiet
  | M | Vibrava | | Outsider | Quiet
  | M | Quilava | | Outsider | Jew-mon
  | M | Mudkip | | Outsider | MEME CLOWN
-Clara | F | Lucario | Smoke (Human, M, Shares body with Clara)||[???](https://arch-img.b4k.co/vp/1682995004423.png)
+Clara | F | Lucario | Smoke (Human, M, shares body with Clara)||[Docile](https://rentry.org/imwuw)
 
 ####Guild Affinity Chart by
 ![Guild Affinity Chart v1](https://i.imgur.com/RQDrdJH.png)

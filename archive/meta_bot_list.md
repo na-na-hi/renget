@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-04-29)==<-
+->==(Updated 2023-05-07)==<-
 ***
 [TOC2]
 ***
@@ -8,6 +8,7 @@
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; **deprecated**
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; **current**
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; **deprecated**
+- https://rentry.org/bots_with_expressions - small list of bots; cards with expressions only; **current** *help me fill it up*
 ## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)
 - https://derpy.me/ccQBQ - large list of bots; cai and cards; **current**
 ## [/vp/vpcai/](https://boards.4channel.org/vp/catalog#s=vpcai)

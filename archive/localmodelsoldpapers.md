@@ -135,6 +135,7 @@
 03/2023|[Meet in the Middle: A New Pre-training Paradigm](https://arxiv.org/abs/2303.0729)
 03/2023|[Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
 03/2023|[Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647)
+03/2023|[FP8 versus INT8 for efficient deep learning inference](https://arxiv.org/abs/2303.17951)
 03/2023|[Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
 04/2023|[RPTQ: Reorder-based Post-training Quantization for Large Language Models](https://arxiv.org/abs/2304.01089)
 04/2023|[REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/abs/2304.01904)

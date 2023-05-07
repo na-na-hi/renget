@@ -127,6 +127,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Saitouplaza (斎藤プラザ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/92970073) [[Fantia]](https://fantia.jp/fanclubs/276102) [[Twitter]](https://twitter.com/saitouplaza) [[Twitter R18]](https://twitter.com/saitou02761879) <-
 
+[[Fantia]](https://fantia.jp/posts/1958131) : Kantai Collection - Satsuki
 [[Fantia]](https://fantia.jp/posts/1900326) : Kantai Collection - Asashimo Kai Ni
 [[Fantia]](https://fantia.jp/posts/1695374) : Kantai Collection - Kuma Kai Ni
 [[Fantia]](https://fantia.jp/posts/1718443) : Kantai Collection - I-47

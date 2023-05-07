@@ -12,3 +12,8 @@ Bot | Creator | Desc | Demo
 
 ## Bots v2
 Currently none, but at least 2 were promised. Go make some! Use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
+***
+***
+***
+Email for new submissions:
+- aicg2023@proton.me
