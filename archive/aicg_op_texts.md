@@ -26,6 +26,8 @@ https://agnai.chat/ [Full web no-DL option, multi-user rooms, Claude API]
 https://rentry.org/agnai_guides [Video guides for proxies/Claude API/OAI]
 >Character.AI
 https://c.ai/ [Easiest but filtered]
+>RisuAI
+http://risu.pages.dev/ [New Korean frontend with English UI]
 
 >Bots
 https://www.characterhub.org
@@ -74,6 +76,8 @@ https://agnai.chat/
 video guides: https://rentry.org/agnai_guides
 ▶Character.AI
 https://c.ai/
+▶RisuAI
+http://risu.pages.dev/ [New Korean frontend with English UI]
 
 ▶Bots
 https://www.characterhub.org

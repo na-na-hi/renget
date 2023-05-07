@@ -478,7 +478,8 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 ### Able Sisters (Animal Crossing)
 
-	https://files.catbox.moe/1zno17.safetensors
+	Trained on SD 1.5: https://files.catbox.moe/1zno17.safetensors
+	Trained on NAI: https://files.catbox.moe/79u1qa.safetensors
 	> I suppose you use the e621 tags for each sister?
 	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
 

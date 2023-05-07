@@ -5,6 +5,7 @@
 [General guide](https://rentry.org/ergpocketguide)
 [A twink's guide to 14 flasks](https://docs.google.com/document/d/18zKt1MhxOEGdPzNE5rCKPaPsaZul_tjLifvqC97j13A/edit)
 [Weapon art damage guide](https://docs.google.com/document/d/17og1zLnCfdL9TFvTnI4A9Nf9EwkBbutishHPTGBDAE8/edit)
+[Quest Failure Points and Missable Items](https://pastebin.com/H7ANjU87)
 >Checklists
 - Roundtablehold: [Main page](https://roundtablehold.net/index.html) - [Quests](https://roundtablehold.net/checklists/npc_questlines.html) - [Quests alt](https://roundtablehold.net/checklists/tldr_all_npc_quest_stepsin_order.html) - [Bosses](https://roundtablehold.net/checklists/bosses.html) - [Illusory walls](https://roundtablehold.net/checklists/illusory_walls_invisible_paths.html)
 - [Quests, achievements, graces, bosses, gestures by gobluebro](https://gobluebro.github.io/Elden-Ring-Checklist)
