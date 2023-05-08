@@ -33,7 +33,7 @@ Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdclo
 Kiyo | M | Vulpix, Alolan | Sandshrew (Cassie, F) & Fletchling (Bean, M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
-Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
 N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)

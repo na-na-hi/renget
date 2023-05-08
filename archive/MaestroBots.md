@@ -4,7 +4,7 @@
 -> *Added to NIKKE bots: Roam [Tavern], Sin [Tavern]* <-
 
 -> **CAI bots are currently on hold until the site's issues are fixed** <-
--> **They are currently created but still need to be trained** <-
+-> **They are currently created but still need to be trained, so until then they will remain unlisted** <-
 
 -> ==Updated 04/30/2023== <-
 -> *Added to Original bots: Cordelia [CAI + Tavern], Alexis [CAI + Tavern]* <-
@@ -37,7 +37,7 @@ Celia | ![Celia](https://i.postimg.cc/GtZzCGjb/OCCelia-Thumb.png) | A 60cm bisqu
 Isla Rockwell | ![Isla Rockwell](https://i.postimg.cc/NMRwbMBy/OCIsla-Thumb.png) | A tanned tomboy childhood friend. She always drags you off to have some fun and with graduation around the corner, she wants to make the best of your last summer together. | [C.ai](https://c.ai/c/hOSMg2cTJOaQnHrnxNAdXYqdMjgQPHFdHBuYV2lzX4I) [Tavern](https://files.catbox.moe/0vsrxx.png) 		v1.0
 Cordelia | ![Cordelia](https://i.postimg.cc/HJ2tB5Z0/OCCordelia-Thumb.png) | Your impassive personal assistant of several years. While hopeful in the beginning, the lack of raise or acknowledgement causes resentment to stir within her causing her to act more callous. | [C.ai](https://c.ai/c/3SUqmFG6c_Yi_k-jKsaF1azRP3R30VGn3MlpQoVXabI) [Tavern](https://files.catbox.moe/xp0e0b.png) 		v1.0
 Alexis | ![Alexis](https://i.postimg.cc/wtHVXFVT/OCAlexis-Thumb.png) | An introverted university student in need of tutoring. Although relectant to seek help, she does so anyways and finds out that it isn't so bad after all.  | [C.ai](https://c.ai/c/hnrd05rBEY2BWw0Wpyhg9qS3XsfLnsnTOraxxr0f7T0) [Tavern](https://files.catbox.moe/8d37q9.png) 	v1.0
-Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | C\.ai [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
+Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She's a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | C\.ai [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
 Kei Belford | ![Kei Belford](https://i.postimg.cc/vDYZzBJz/OCKei-Thumb.png) | Stuck in a declining marriage with (you). Kei is a dedicated researcher with a cool and collected demeanor who seems to be more focused on work than her relationship. | C\.ai [Tavern](https://files.catbox.moe/vsqaf0.png) 	v1.0
 
 ***

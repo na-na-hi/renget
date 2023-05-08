@@ -48,8 +48,7 @@ https://archived.moe/b/thread/892397263#p892397581
 AI DEGEN STARTUP PACK (THIS IS A PACK OF MY LORAS, HYPERNETWORKS, AND TEXTUAL INVERSIONS ALL WITH PREMADE PREVIEW IMAGES)
 https://gofile.io/d/qjIlZZ
 
-They said something along the lines of I could upload it, but I felt icky just uploading it here so i'd like to say I TAKE NO CREDIT IN IT'S CREATION he did it, not me, but without further adieu here it is 
-
+this kokonoe rin embed was made by professor harkness
 https://pixeldrain.com/u/tQuAyFHi
 
 a further improvement on gaping models has been done by a user on civitai so here it is 

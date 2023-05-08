@@ -17,10 +17,10 @@ Some differences between the two:
 2) Download latest release of [SillyTavern](https://github.com/Cohee1207/SillyTavern/releases)
 3) Extract everything and run `Start.bat`
 ![](https://files.catbox.moe/g69ai9.jpg)
-4) Click on [1], select OpenAI, click the button in the top left and select GPT-4 as OpenAI Model
+4) Click on [1], click the button in the top left and select `OpenAI` as API
 5) Click on [2], select GPT-4. In the field `OpenAI Reverse Proxy`, enter one of these and then save the preset
 ```
-https://toddbot.net/v1
+https://toddbot.net/v2
 https://c857d09db23e6822e3.gradio.live/v1
 ```
 6) Click on [1] again, enter anything in the API key field, click connect. Should light up green if everything is correct.

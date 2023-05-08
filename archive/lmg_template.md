@@ -11,7 +11,8 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
-\>(05/07) Bluemoonrp epoch6 ggml got uploaded >>93265371 & other BluemoonRP models too
+\>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
+https://huggingface.co/reeducator/bluemoonrp-13b
 \>(05/06) MPT 7B, 65k context model trained on 1T tokens.
 https://huggingface.co/mosaicml/mpt-7b-storywriter
 \>(05/05) GPT4-x-AlpacaDente2-30b.
@@ -38,21 +39,20 @@ https://rentry.org/lmg-resources
 https://rentry.org/TESFT-LLaMa (LlaMA Guide)
 https://github.com/ggerganov/llama.cpp
 https://github.com/openlm-research/open_llama
-\>Eachadea Models
+\>Hugging Face Models
 https://huggingface.co/eachadea
-\>Camelids Models
 https://huggingface.co/camelids
-\>A wAIfu workshop Models
 https://huggingface.co/waifu-workshop
-\>Ehartford Models
 https://huggingface.co/ehartford
-\>Pyggy Guides & Resources
+https://huggingface.co/TheBloke
+\>Pyggy. Resources
 https://rentry.org/Pyggymancy (Windows)
 https://rentry.org/pygmalion-local (Linux)
 
 ►**Text Gen. UI (Inf.)**
-https://github.com/oobabooga/text-generation-webui (GPU)
-https://github.com/LostRuins/koboldcpp (CPU)
+https://github.com/oobabooga/text-generation-webui
+https://github.com/LostRuins/koboldcpp
+https://github.com/0cc4m/KoboldAI 
 
 ►**ERP/RP/Story Gen.**
 \>RolePlayBot
