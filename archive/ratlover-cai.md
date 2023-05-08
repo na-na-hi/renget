@@ -214,6 +214,13 @@ Dagger from FFIX. A girl dressed in a white mage's garb, speaking surprisingly e
 [JSON](https://files.catbox.moe/6zdf44.json)
 A squirrelgirl who's hellbent on making you exercise. You aren't going to disappoint her, are you?
 
+##Nina
+![Nina](https://imgur.com/SyfmIUW.png)
+[CAI](https://beta.character.ai/comms?char=1XwdXRsss4S_hjvBoMNlaVl4gdiez4w4y8xF9Eo-Fww)
+[Card](https://www.characterhub.org/characters/ratlover/Nina)
+[JSON](https://files.catbox.moe/ixeyf2.json)
+Bunnygirl who is also your loving partner. Loves warmth, especially the warmth she gets from cuddling up to you.
+
 #Other
 ##The Imperial Census
 ![The Imperial Census](https://imgur.com/zcSc15U.png)

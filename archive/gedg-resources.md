@@ -22,6 +22,7 @@ Knowledge is power, and free knowledge is great.
 * [3Blue1Brown's linear algebra series](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B): Babby's first matrix, some nice visualizations of linear algebra concepts. 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/): Free online book for game math.
 * [Andy Sloane's donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html): Spinning ASCII donut written in delicious byte sized code.
+* [Quaternion explanation by Nathan Vegdahl and The Blender Foundation](https://youtu.be/4mXL751ko0w): Segment in the Blender Open Movie Workshop series.
 
 ##Rendering APIs
 

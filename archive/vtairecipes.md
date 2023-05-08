@@ -1313,7 +1313,7 @@ Primary Model: AbyssOrangeMix2_hard, Secondary Model: hll3.1, Unpruned hashes: [
 **Notes:** 
 Primary Model: AbyssOrangeMix2_hard, Secondary Model: hll4-p3-ep8
 [Huggingface](https://huggingface.co/grugger/chubas/resolve/main/models/hll4-p3-ep8/HoloCre4msicle-p3-ep8.safetensors)
-#####HoloCreamsicle_new[`8354a1c039`] 
+#####HoloCreamsicle_new[`8354a1c039`][`beddb00607`] 
 **Notes:** 
 aka Holo3.1Creamsicle, _yes grapefruitjuice is the same thing, yes, just use it instead_
 Primary model: hll3.1 

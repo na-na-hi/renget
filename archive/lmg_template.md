@@ -1,6 +1,4 @@
 !!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.
-!!! Note
-     https://boards.4channel.org/g/thread/93275817#p93281293 Anon points out potential confusion with TESFT link having "Gen. Guide", probably should have been "LlaMA Guide"
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 

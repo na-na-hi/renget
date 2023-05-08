@@ -74,7 +74,7 @@ My eyes widened. "...Huh?"
 #Chapter 4—2β ~ I trusted you -Alternate Path-
 ->**To "bereave" someone who is no longer in this world**<-
 
-The last thing I remembered was tears—crying to the shards as the bleed from the cuts worsened. I begin to see Stargazer inside those shards, delusion or not, his blurry figure recedes further and further into this supposing mirror world. "Mirror on the wall, why doesn't he come back to this world!? Mirror on the wall! Mirror on that wall!!!!" I lash out until my voice cracks.
+The last thing I remembered was tears—crying to the shards as the bleeding from the cuts worsened. I begin to see Stargazer inside those shards, delusion or not, his blurry figure recedes further and further into this supposing mirror world. "Mirror on the wall, why doesn't he come back to this world!? Mirror on the wall! Mirror on that wall!!!!" I lash out until my voice cracks.
 
 Lady Marigold understandably startled, decided to silently use an Escape Orb and carry me by her shoulders. "The bleeding must have gone through your head," she comments.
 

@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[The Clubroom](https://rentry.org/aou7kp)* | IRyS, Calli, Bae | sweat, smell, ringo |
 | *[The Wettest Ink](https://docs.google.com/document/d/e/2PACX-1vQDHfs0GhmvlJvfTkmZXbGdDROs6qC4AcjiKw4IuaLyw_UbbpxPQVWoYn8LFJrAosMcs2wPUEUhgPv9/pub)* | Ina | sweat, smell |
 | *[Barnyard Shift](https://archiveofourown.org/works/46081033)* | Calli | ringo, brap, choco |
 | *[The Grim Reaper is a Bed-Messer](https://archiveofourown.org/works/45401197)* | Calli, Gura | ringo, brap, choco |

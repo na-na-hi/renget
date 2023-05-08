@@ -29,6 +29,14 @@
 ![Imposhawott](https://i.imgur.com/MxJi3qJ.png)
 ####Smith's Over
 ![Smith's Over](https://i.imgur.com/qeEQBRp.png)
+####Kissing Booth
+![Kissing Booth](https://i.imgur.com/VWMFqDj.png)
+####Ross Over
+![Ross Over](https://i.imgur.com/ckhClvh.png)
+####Kaiji's Babysitting Service
+![Kaiji's Babysitting Service](https://i.imgur.com/AbHZ67H.png)
+####Hello There
+![Hello There](https://i.imgur.com/N2g9hZU.jpg)
 ####Adelaid's Ambitious Works
 #####Adelaid and Dahpi
 ![Adelaid and Dahpi](https://i.imgur.com/UNWg7eM.png)
@@ -97,6 +105,12 @@
 ![Beast Buds](https://i.imgur.com/jGzrHHb.png)
 #####What?
 ![What](https://i.imgur.com/g4BBQrW.png)
+#####Goyslop
+![Goyslop](https://i.imgur.com/GgHPf0I.png)
+#####It's Pizza Time
+![It's Pizza Time](https://i.imgur.com/Vl4I8xs.png)
+#####Soul Restored
+![Soul Restored](https://i.imgur.com/4DqJpZ9.png)
 ####Booker's Research
 #####Booker
 ![Booker](https://i.imgur.com/tCqk4Ue.png)
@@ -148,6 +162,8 @@
 ![Sleepy Bullet](https://i.imgur.com/Ra9HSOZ.png)
 #####Togetic Cleaning the Storeroom
 ![Togetic Cleaning the Storeroom](https://i.imgur.com/KFqMfzH.png)
+#####A Meeting on Mt. Freeze
+![A Meeting on Mt. Freeze](https://i.imgur.com/lGTed1x.png)
 ####Bullet's Blitz
 #####Bullet & Mimi
 ![Bullet & Mimi](https://i.imgur.com/D5HNeRz.png)
@@ -207,6 +223,8 @@
 ![Soyper](https://i.imgur.com/zirihJZ.jpg)
 #####Woop River
 ![Woop River](https://i.imgur.com/aFDD7Bm.png)
+#####Woopnouncement
+![Woopnouncement](https://i.imgur.com/G1Twgdb.png)
 ####Elm's Doodles
 #####Guildmaster and Oren Berries
 ![Guildmaster and Oren Berries](https://i.imgur.com/4lTrsed.png)
@@ -244,6 +262,8 @@
 ![Lliam in the Gru Meme](https://i.imgur.com/ICXf1ma.png)
 #####Lliam's Question
 ![Lliam's Question](https://i.imgur.com/kt5GdB3.jpg)
+#####Oh Hell Yes!
+![Oh Hell Yes](https://i.imgur.com/7FbhQr8.png)
 ####Kaiji's Goods
 #####Kris the Schizo Absol
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
@@ -302,6 +322,10 @@
 ![Three Strangers in a Garden](https://i.imgur.com/tOOs6IV.png)
 #####KFC and Casey Sparring
 ![KFC and Casey Sparring](https://i.imgur.com/VVDVhg9.png)
+#####Kiyo's Harmonics
+![Kiyo's Harmonics](https://i.imgur.com/8sFJqY0.png)
+#####Cassie's Past
+![Cassie's Past](https://i.imgur.com/ykdfnF3.png)
 ####Linoone's Letters
 #####Card Game
 ![Card Game](https://i.imgur.com/erSGlPt.png)
@@ -342,6 +366,8 @@
 ![Beast & an Ordinary Stove](https://i.imgur.com/BfQ1z0X.png)
 #####Gopnik Pokémon Style
 ![Gopnik Pokémon Style](https://i.imgur.com/9Sbjkcl.png)
+#####Present by Linoone and Debby
+![Present by Linoone and Debby](https://i.imgur.com/eyKV3th.png)
 ####Lliam's Grid
 #####Guildmaster and His Namesake
 ![Guildmaster and His Namesake](https://i.imgur.com/sPb9rot.jpg)
@@ -350,6 +376,12 @@
 ####Lycanroc's Library
 #####Team Notoriety
 ![Team Notoriety](https://i.imgur.com/7QNfPUO.png)
+#####Clara and Smokes' Personailites
+![Clara and Smokes' Personailites](https://i.imgur.com/v3Iz1CC.png)
+#####Lliam the Boy Kisser
+![Lliam the Boy Kisser](https://i.imgur.com/GN46OtH.png)
+#####Lliam Stuck
+![Lliam Stuck](https://i.imgur.com/8Sjkd4W.png)
 ####Minun's Garden
 #####Gus & Linoone
 ![Gus & Linoone](https://i.imgur.com/OyBLVqs.png)
@@ -409,6 +441,10 @@ EDIT (Original Unknown)
 ![The Troll Slaiyers](https://i.imgur.com/1oAb5zW.png)
 #####Booker Gets Trolled - Phanpy Edition
 ![Booker Gets Trolled - Phanpy Edition](https://i.imgur.com/22uYzPd.png)
+#####OH MAI GAH
+![OH MAI GAH](https://i.imgur.com/jP1mgh8.png)
+#####Small Pika
+![Small Pika](https://i.imgur.com/1HeTnbj.png)
 ####Ross's "Realism"
 #####Rossus
 ![Rossus](https://i.imgur.com/h9HvoMa.png)
@@ -745,3 +781,21 @@ EDIT (Original Unknown)
 [Woop River](https://arch-img.b4k.co/vp/1682815658230.png)
 [Booker Gets Trolled - Phanpy Edition](https://arch-img.b4k.co/vp/1682816395706.png)
 [Booker Gets Trolled - Elm Edition](https://arch-img.b4k.co/vp/1682819780221.png)
+[Kissing Booth](https://arch-img.b4k.co/vp/1682914502489.png)
+[Clara and Smove Personailites](https://arch-img.b4k.co/vp/1682995004423.png)
+[Goyslop](https://arch-img.b4k.co/vp/1683081627163.png)
+[It's Pizza Time](https://arch-img.b4k.co/vp/1683093259999.png)
+[Lliam the Boy Kisser](https://arch-img.b4k.co/vp/1683119001958.png)
+[Ross Over](https://arch.b4k.co/vp/thread/53733153)
+[Oh Hell Yes](https://arch-img.b4k.co/vp/1683159176555.png)
+[Kaiji's Babysitting Service](https://arch.b4k.co/vp/thread/53733153)
+[Present by Linoone and Debby](https://arch-img.b4k.co/vp/1683227577681.png)
+[Kiyo's Harmonics](https://arch-img.b4k.co/vp/1683227944244.png)
+[OH MAI GAH](https://arch-img.b4k.co/vp/1683252944074.png)
+[Hello There](https://arch-img.b4k.co/vp/1683255154980.jpg)
+[Lliam Stuck](https://arch-img.b4k.co/vp/1683295673448.png)
+[Cassie's Past](https://arch-img.b4k.co/vp/1683335210373.png)
+[A Meeting on Mt. Freeze](https://arch-img.b4k.co/vp/1683341926430.png)
+[Woopnouncement](https://arch-img.b4k.co/vp/1683426398241.png)
+[Small Pika](https://arch-img.b4k.co/vp/1683496714858.png)
+[Soul Restored](https://arch-img.b4k.co/vp/1683501113899.png)

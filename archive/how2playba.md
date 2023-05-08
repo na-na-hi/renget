@@ -206,7 +206,7 @@ Currently available units that you can farm
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/RmtxyqS.png)
+![hard nodes to farm](https://i.imgur.com/ebMCX79.png)
 Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/htmlview#), check it out for a more detailed explanation on farmable units.
 
 >Should I farm a unit I don't own?
@@ -316,7 +316,7 @@ Don't use ur elephs for farmable characters if you can, they're quite literally 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. 
 
 >Raid shop
-![For me Hanako is SS tier](https://i.imgur.com/k6IgRVx.png)
+![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/V5QosY2.png)
 You should limit yourself to buying out 2 characters per raid and coin type, but this isn't a hard rule. 
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.

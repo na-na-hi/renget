@@ -98,6 +98,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Ihsoy REDONE*|[(link](https://someordinarygamers.fandom.com/wiki/Ihsoy_REDONE)
 *Turmoil*|[(link)](https://rentry.org/turmoilrewrite)
 *Xeunoeflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1), [(part 2)](https://rentry.org/xeunoeflaunz-chapter-2)
+*Peach Cake* (The Baker)|[(link)](https://rentry.org/peachescake)
 
 ##Restored/archived by /exeg/
 Title|Link

@@ -46,7 +46,7 @@ If you are doing any intense/focus NovelAI session, you would probably be better
 
 - **Advanced** tab \-> **Current Context**.
 
-Take a looong look at what's in the context. If you failed to understand this, you *won't* understand how the AI do fundamentally work.  
+Take a looong look at what's in the context. If you fail to understand this, you *won't* understand how the AI does fundamentally work.  
 I am saying this because you need to understand that there is nothing special about Memory, Lorebook, or Author's Note. They are ***all*** just a part of context—A Lorebook entry is not a special piece of context nor is it an instruction. Imagine a context as a piece of paper, your current story: the storytext, will take a majority of your page, and your active entry will be placed at the top.   
 
 Storytext has limitation, once you hit the max size. The oldest text will be gone and gone to make a room for newer text.  
@@ -60,11 +60,11 @@ It's very much possible to write a story without relying on these tools. That is
 Then, there is **Module**. Using Module is like... turning a generalist AI into a specialist.  
 Module right now is all about writing style, and pattern. If you are on Euterpe you can train your own custom module, or pick one of the default module—NovelAI is taken to a whole new level with the module that complement your writing—On the other hand, if the module is mostly irrelevant or out-of-focus from your story, it's going to hinder the AI, so you might as well just stick to no-modules.
 
-Another thing that I want to mention is **Output Length**, it's in the 3rd tab of the right panel. Default being `160` characters, or about 40–60 tokens, is pretty much fine. But if you find yourself editing too much, try switching to `40` characters. And if you were spamming Send a little bit too much, switch to a higher length.
+Another thing that I want to mention is **Output Length**, it's on the 3rd tab of the right panel. Default being `160` characters, or about 40–60 tokens, is pretty much fine. But if you find yourself editing too much, try switching to `40` characters. And if you were spamming Send a little bit too much, switch to a higher length.
 ‎
 
 Lastly, being **Preset**.  
-Some people are confused about what it does, or have a completely wrong idea—But to explain. Basically at any given output token. The AI have a long list of words that it was considering, and your preset select one word out of that list.
+Some people are confused about what it does, or have a completely wrong idea—But to explain. Basically at any given output token. The AI has a long list of words that it was considering, and your preset select one word out of that list.
 
 > `I don't _?_ (love, hate, care, want, ..., dance, die)`
 > Each layer in the preset will cut them down, to the final pool.
@@ -72,7 +72,7 @@ Some people are confused about what it does, or have a completely wrong idea—B
 > Then, one word will be randomly pick from the final pool, each word have its own probability.
 > `I don't` *`hate`* ` _?_ (you, cats, woman, ...)`—repeat.
 
-Each preset have its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.  
+Each preset has its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.  
 See default presets or get a custom preset from [#content-sharing](https://discord.gg/novelai).
 
 ***

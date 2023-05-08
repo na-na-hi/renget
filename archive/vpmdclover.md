@@ -76,7 +76,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdue) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW) | [The Wayfinder (wip)](https://rentry.org/TheWayFinder)
 5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) | | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7) | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
-6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | | | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
+6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | |
 8 | [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT) | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | |
 9 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | |
@@ -91,7 +91,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 18 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
 19 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz)| | [A New World](https://rentry.org/sm6dx) | | |
 20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
-21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b) | | |
+21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | | | |
 22 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq)| | | | |
 23 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | | | | |
 24 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)| | | | |
@@ -119,11 +119,11 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 46 | [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g) | | | | |
 47 | [Ross Tries to Sleep](https://rentry.org/7kn8v) | | | | |
 48 | [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4) | | | | |
-49 | | | | | |
-50 | | | | | |
+49 | [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw) | | | | |
+50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
-[Enter the Federation Rules and Prompt](https://rentry.org/EtF_Rules)
+[Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
 ####Current Colaborative Writing Project Pieces
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
@@ -171,6 +171,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
+	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -178,6 +179,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775)
 	* [Debby and Linoone story: The Race](https://rentry.org/vd3nc)
 	* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
+	* [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -221,6 +223,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek)
 	* [Torchic Crosses the Alps](https://rentry.org/unesm)
 	* [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
+	* [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -335,7 +338,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Ross Tries to Sleep](https://rentry.org/7kn8v)
 * [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 * [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
+* [More Apples (ft. Clara)](https://rentry.org/imuwu)
+* [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
 * [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b)
+* [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
