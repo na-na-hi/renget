@@ -75,10 +75,6 @@
 - Using some of the greatest file servers, you can download a tonne of excellent movies and TV series at dizzying speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/uhdmovies.vip/)
 
-### 🔗 [Vegamovies](https://vegamovies.party/)
-- Various file-sharing URLs for Hollywood and Bollywood films in various formats, including Bluray, HDRip, BRRip, Web-DL, etc.
-- [URL Safety Results](https://www.urlvoid.com/scan/vegamovies.party/)
-
 ### 🔗 [YourSerie](https://www.yourserie.com/)
 - Excellent resource in an effort to give movies and TV shows, particularly in regions where access to streaming services do not exist.
 - [URL Safety Results](https://www.urlvoid.com/scan/yourserie.com/)

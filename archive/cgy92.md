@@ -91,6 +91,15 @@ Her 3rd stream called 'shhhhhhh' is the one being the most recommended by the th
 |------|-----|-----|-----|
 | 2022-08-17 |  【RUST】 shhhhhhh |  [![](https://files.catbox.moe/rphnba.jpg)](https://www.youtube.com/watch?v=Pke26y7l-Ks) | Subaru, Moona, [Zeta](https://youtu.be/H0H7UhAJtjE?t=5317) & Kaela[[1]](https://www.youtube.com/watch?v=NQc9v8KobMQ&t=9325s),[[2]](https://youtu.be/NQc9v8KobMQ?t=18345)
 
+#####Civilization V
+->[Go back to the TOC](https://rentry.org/cgy92)->
+Long awaited series. She was denied her history and Civ streams by managment. But the Moom delivers as the Hopium fortold. First stream's save is sadly abondoned but the save from the 2nd stream is continuted properly. She tries to stream it every Friday night.
+| Date | Title | Link & Thumbnails | 
+|------|-----|-----|
+|2023-04-14|  【CIVILIZATION V】 Just Doin' My Job | [![](https://files.catbox.moe/qj8b4z.jpg)](https://www.youtube.com/watch?v=9JxA2kBHxa0) |
+|2023-04-28|  【CIVILIZATION V】Get In Loser, We're Going Pillaging |  [![](https://files.catbox.moe/h0adlf.jpg)](https://www.youtube.com/watch?v=GhYNv2H6hwc) |
+|2023-05-07|  【CIVILIZATION V】What If We Made Peace? Haha.. Unless?  |[![](https://files.catbox.moe/tfthyi.jpg)](https://www.youtube.com/watch?v=DEmTKu7VxRs) |
+
 _____________________
 
 ##Karaokes

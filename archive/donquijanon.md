@@ -219,28 +219,32 @@ CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv
 Card: https://www.characterhub.org/characters/donquijanon/Yohualli
 
 ##Existing Characters
-### E-123 Omega
+### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/e-123-omega
 
-### Coach
+### Coach (L4D2)
 ->![coach](https://git.characterhub.org/donquijanon/Coach/-/raw/a1fc3b817382d58d8890fd5cf549387973a42756/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/Coach
 
-### Bob Ross
+### Bob Ross (The Joy of Painting)
 ->![bob](https://git.characterhub.org/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/bob-ross
 
-### Lego Gonk Droid
+### Lego Gonk Droid (Lego Star Wars)
 ->![gonk](https://git.characterhub.org/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/lego-gonk-droid
 
-### The Postal Dude
+### The Postal Dude (Postal 2)
 ->![dude](https://git.characterhub.org/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/postal-dude
 
-### Soldier TF2
+### Soldier (TF2)
 ->![soldier](https://git.characterhub.org/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/Soldier
+
+### Sylvie (Teaching Feeling)
+->![sylvie](https://git.characterhub.org/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/Sylvie
 
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao. Unless you're a discordtranny, don't use my bots if you're one.

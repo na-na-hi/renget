@@ -27,6 +27,9 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Ourple Guy
 [Guy FLP](https://files.catbox.moe/bycwkj.zip)
 [Lore V1 FLP](https://files.catbox.moe/33dae6.zip)
+##Reskins
+[Chef GF](https://files.catbox.moe/bhvic7.zip)
+[Rapper GF](https://files.catbox.moe/suwp8x.zip)
 ##Schoolgrounds
 [Leaked Build](https://files.catbox.moe/g48jlf.zip)
 ## Sky

@@ -1,6 +1,8 @@
 # 6 Stars 
 All 6 Star units get increased base stats and a UB+ that enhances that skill. Some 6 Stars get better UB+ upgrades than others.  
 
+Last Updated: May 7th (Some units were written for EN and are being converted to JP onlight thoughts.)
+
 [TOC2]
 
 ## -> Kyaru <- (JP release date: Year 2, August 31st)
@@ -461,10 +463,10 @@ She's a giant nuke now. Either she kills everyone, or she'll explode due to lose
 
 
 ## -> Muimi<- (JP Release Date: Year 6, May 8th)
-TBD
-- TBD
-- TBD
-- TBD 
-- TBD
+More damage with damage cap circumvent, a CC immunity and 6 Star stats means Muimi might make a return to her former glory..
+- UB+ will now give Muimi a mark, giving her a complete immunity to CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
+- While the demonstration was shit, Muimi's niche of tanking as 1st position, keeping her UB up and spamming her SP1+ > SP2 > SP1+  loop in UB form may return with an Ames and increased 6* stats behind her. Her biggest concern will always be to stay in UB form and not exploding while pumping out damage. Lots of bosses have ways to drain TP or don't give TP on their UBs, so that's something to keep in mind.
+- Could see some P.Arena usage or niche Arena solutions like Chris, but most likely won't be a common unit. Being immune to CC certainly helps, but she does not dodge things like curse from Misaki and will still take damage.
+- With Twin Pigs this month, a physical 1st position unit that always want to take damage may also hold great value. With tons of barriers, TP gain and heals available to Muimi compared to when she was previously meta, don't be surprised to see her run over bosses that can't 1shot her. Maintaining her TP values should be easier with stuff like X.Miyako, Laby, Ames. Similar to how GreAnne require the team built around them, Muimi will most likely need a team built around her. For Auto players, Muimi is very auto friendly due her UB draining instead of needing to be re-activated constantly.
 
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

@@ -1,5 +1,9 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Cheerleader Booker
+
+Debby walking away from an explosion
+
 Hell's Kitchen, with Beast as Gordon Ramsey and guild mons as contestants 
 
 cyndaquil has trapped booker in a jar 

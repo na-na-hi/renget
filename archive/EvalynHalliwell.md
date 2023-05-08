@@ -49,6 +49,18 @@
 - No combat sheet yet, but in short her combat style favours sneaky sniping and using the the environment to her advantage rather than direct confrontation. Is absolutely willing to open a fight with an Avada Kedavra from stealth, "fairness" be damned.
 
 
+**Fun Facts:**
+- Her favourite colour is blue-grey, like the colour of slate.
+- Likes the idea of being on a ship at sea. Has never been on a ship at sea. Spent a lot of time sitting by the docks when she was young though.
+- Her (muggle) father is a watchmaker, and she has a good working knowledge of clockworks and mechanical devices from spending time with him.
+- Her mother works at the Ministry, doing important yet rather mundane office work. Though dull, it pays well, which is helpful since her own parents cut her off from the family's wealth.
+- Very fond of birds of all kinds. Since coming to Hogwarts, she's become particularly fond of the owls and makes sure to visit them often.
+- Generally not a big drinker of alcohol. Favours hot beverages (hot chocolate the most, but coffee and tea as well) and considers the ability to keep a mug hot indefinitely to be one of the biggest perks of being a witch.
+- Spent a while studying occlumency and is moderately proficient in it. Doesn't have any particular use for it; she's just really weirded out by the idea of legilimency and doesn't want anyone looking into her head.
+- Will read just about anything she can get her hands on, but particularly loves adventure novels and spell books (the older and weirder the better).
+- The currant-coloured longcoat she usually wears was a going-away present from her father. It's one of her most treasured posessions, and has been damaged and mended countless times.
+- She is attempting to learn how to paint, but her attempts so far have been less than impressive.
+
 ->• ───────────────── •<-
 
 

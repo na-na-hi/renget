@@ -4,7 +4,7 @@
 ## ***Threads: [[1-150]](https://rentry.co/iftod/) | [151 - current]***
 
 ---
-##***Most recent thread scraped: #248***
+##***Most recent thread scraped: #250***
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
 >Quoted text = context
 
@@ -479,6 +479,25 @@ a curious spot their lance does park.
 from behind my tail, my flesh exposed.
 a dormant desire has arose...
 
+=============================================
+
+\>"So Hunter. i know we've had our differences, and we haven't always seen eye-to-eye, but i need to ask you for a favor"
+\>"i need someplace to lay low for a few days"
+[you can feel a small quake ripple through the ground past you
+\>"make that a few weeks.."](https://desu-usergeneratedcontent.xyz/trash/image/1681/24/1681248740197.jpg)
+"hmm, maybe. rent isn't cheap ya know and i don't know if a monster crashing at my place would be good for me financially"
+\>"i promise no digging, no boulder throwing and no tracking sand in the house, best behavior. please!"
+an aftershock rolls by and you can feel some sand move beneath you
+"it's mating season for Black Diablos again isnt it?"
+\>"h-how about my Mantle! 100% drop rate! o-or one of my horns! you need those right!?"
+"you know the last time you let her go berserk like that we had to re-map that whole area as the sandpit sinkhole"
+\>"I barely made it out alive last time! it was a bloodbath!!"
+\>"please buddy I'm beggin' ya, I wanna to live to see the sun again ya see?!"
+"fine, fine. you can stay for a while, but no shenanigans, and no inviting Shara Ishvalda over again either, it took me forever to fix the holes you guys made in the floor last time."
+\>"you're the best buddy a monster could ever ask for! I've already got my stuff, you'll see I'll be the best behaved monster you've ever seen!"
+
+it later took you and a squad of palico over the course of several months to clean all the sand and loose gravel from your house.
+
 ---
 ###*Fatalis*
 
@@ -843,6 +862,31 @@ Realizing you're already way past first base and quickly heading straight for th
 \>Did... did it save you from drowning?
 \>As you try to get up, the Lagiacrus grabs you with its claws and squeezes you against its body.
 \>It looks like you'll have to stay a little more time with it.
+
+---
+###*Lavasioth*
+
+=============================================
+
+\>It's 20XX
+\>Years after monsters are now considered sapient creatures right after humans and wyverians
+\>Since it's technically now illegal to be a murder for hire expert, you are now forced to change careers
+\>Luckily there has been a booming market for hunters like you
+\>Now you hurt monsters the the good way
+\>AKA a gigolo/dom 
+\>Granted there were other careers you could've went through 
+\>Dragonator engineers and operators coat the now retired weapons with sterile plastic molds for "safe use"
+\>Veterans now use their expertise to know how the monster wants it
+\>Newbies who just joined before the treaty are now considered prized for their "pure and impressionable characteristics"
+\>Fashion hunters offer their services for roleplaying sessions 
+\>Currently your client, a Lavasioth, requested a scalding session
+\>Basically you are to slowly pour out colder water on her magma cracks
+\>Normally such a thing would be harmful to her but you're there to make sure it goes smoothly and not hurt her scales in the long run
+\>The leviathan hissed as the first drop reaches on her legs
+\>But her blushing face and bit lip assures you that you're making progress
+\>You order her to roll on her belly as you dip your hand in the cold bucket of water
+\>Raising your hand in the air like you're about to slap a longsword user, you smack your client's cheeks
+\>The wet smack and sizzling aftermath leaves her in tears, joyful tears
 
 ---
 ###*Legiana*

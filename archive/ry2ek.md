@@ -1,6 +1,7 @@
 ######Introducing Capim Town
 by Phanpy-anon
 Sequel to [The First Day on the Job](https://rentry.org/pn2fz)
+Followed by [A Freelance Request](https://rentry.org/qx7hw)
 
 We finally caught sight of Capim Town on Friday afternoon. The first thing we saw was a series of cylindrical buildings stacked on top of each other like a giant game of the Tower of Hanoi. Stairs and rope bridges crisscrossed the town, connecting the different layers of housing. 
 
