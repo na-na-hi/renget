@@ -39,6 +39,11 @@ Your party may bring you back a picture, which is a nice piece of art for the gu
 ## ->EX Equipment <-
 EX Equips are extra stats that each unit can equip and obtain. There is no rank system with these equips, you simply slot them in and they add stats. In addition, these equips are removable and can be shifted around to different units. 
 
+### -> EX Equip bonuses <-
+
+Currently, Gold and Pink EX equips have unique skills applied to characters. For a full list of these, please refer to this [google spreadsheet.](https://docs.google.com/spreadsheets/d/1JjK7Ws4gfzKChRs5ueoxEZVN5SXK10nhDC1-nbm0NUs/edit#gid=2070688066) Please note that these are currently only available on non-CB EX Equips.
+
+
 ### -> EX Equip types <-
 There are currently two categories of EX equipment: Normal and Clan Battle. CB equips have the CB icon at the top left of the icon, while Normal equips have "EX" written in that spot instead. Normal equips cannot be used to equip in the CB slot, but CB equips **CAN** be used in the normal slot.
 Both function as written above. The reason these are split, is because the normal set units have equipped apply to all game modes except for CB. The CB equips only apply to CB of course. One thing to note for these CB equips, is that after using a unit with a CB EX equip, the game will know that the particular CB EX equip has been used in that day. Currently, only weapons exist for CB equips with no indication if we'll get accessories or armors yet. Currently, there is only 1 type of weapon in the CB category per type of character architype, giving the same type of stats per weapon.

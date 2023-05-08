@@ -33,7 +33,7 @@ Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdclo
 Kiyo | M | Vulpix, Alolan | Sandshrew (Cassie, F) & Fletchling (Bean, M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
-Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
 N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
@@ -91,7 +91,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 18 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
 19 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz)| | [A New World](https://rentry.org/sm6dx) | | |
 20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
-21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | | | |
+21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b) | | |
 22 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq)| | | | |
 23 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | | | | |
 24 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)| | | | |
@@ -200,6 +200,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
     * [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
     * [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
+    * [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -244,6 +245,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
 	* [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992)
 	* [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517)
+
 ### List of Stories Sorted by Time Published
 * [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
 * [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
@@ -333,6 +335,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Ross Tries to Sleep](https://rentry.org/7kn8v)
 * [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 * [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
+* [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

@@ -34,6 +34,10 @@ A lot of the links use rentry.org, if .org is down try .co instead.
 
 Polls are used as an effort to keep things democratic on the general.
 
+Should jams be unlisted?
+
+https://strawpoll.com/polls/7rnzmovbdyO
+
 ## Game Jams
 
 Game jams are held on itch.io. Make sure to read their [terms of service](https://itch.io/docs/legal/terms); posters on /g/ who have become accustomed to posting &#128557; and the [gamer word](https://www.merriam-webster.com/dictionary/nigger) should tread carefully. 

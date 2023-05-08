@@ -1,6 +1,8 @@
 # /aicg/ bots with expressions list
 -> Bots for Silly \ Risu, i.e. excluding miku\.gg bots, which are here https://rentry.org/mikugg <-
 -> List updated: ==07.05.2023== <-
+!!! note Submissions info
+    Because charhub is getting official support for the expression packs soon, the list is considered deprecated. You can still use the email though, and I will add your bots here, if for some reason you prefer not to use charhub.
 
 
 Bot | Creator | Desc | Demo

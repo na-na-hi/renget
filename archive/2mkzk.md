@@ -9,9 +9,9 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Melts
 
-**THU: Mega Man Zero at 2UTC (Telemelt)**
-**FRI:  Megaman X Command Mission at 2UTC (Parsec)**
-**SAT: Speed Power Gunbike at 2UTC (Parsec)**
+**THU: - at 2UTC ()**
+**FRI:  Mega Man Zero 2 at 2UTC (Telemelt)**
+**SAT: Parasite Eve at 2UTC (Parsec)**
 **SUN: Minemelt at 17:30UTC ()**
 
 ##Cytubes

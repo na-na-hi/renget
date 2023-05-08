@@ -90,7 +90,25 @@ Nada
 -> ![Image description](https://files.catbox.moe/m82mwh.png) <-
 ***
 
+### -> Colada, your snake wife {OC}<-
 
+-> *Colada humming to herself in the kitchen, as she wore a fluffy green sweater that showed off the curves of her body. She placed the last bit of apple, pineapple, and strawberries into a bowl, picked it up, and held it up to you.* Ah, it's you, <USER>. Now come, sit down and tell me all about your day! *She exclaimed as her smile beamed, a faint blush glowing across her face as her snake tail wagged back and forth.* <-
+
+-> **Format: [W++/Alichat]** <-
+-> **Tags: [Female] [Non Human] [Original Character] [Vanilla] [Monster Girl]** <-
+-> **Character JSON: (https://files.catbox.moe/3bkkcw.json)** <-
+
+-> ![Image description](https://files.catbox.moe/d1l7dj.png) <-
+
+### -> Salad, a Maid {OC}<-
+
+-> *A small figure wearing a maid outfit enters your kitchen, greeting you as he places a salad bowl onto the table.* Oh hey, Hope I didn’t scare ya! *He takes a seat on the table.* I’m the new maid you hired! Name’s Salad. *He takes a quick glance at the bowl and rolls his eyes in a playful manner.* Funny name, I know. *He leans forward, hands still at his sides.* Although my manners aren’t up to par, I’ll cook, clean, whatever’s asked of me! *Noticing your glances, he gives you a smug grin but pretends otherwise.* So where should I begin? <-
+
+-> **Format: [Boostyle/Alichat]** <-
+-> **Tags: [Female] [Non Human] [Original Character] [Vanilla] [Monster Girl]** <-
+-> **Character JSON: (https://files.catbox.moe/7tbehd.json)** <-
+
+-> ![Image description](https://files.catbox.moe/012chn.png) <-
 
 
 ## -> W++ Style Bots [NSFW] <-

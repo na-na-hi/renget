@@ -72,3 +72,31 @@ You're taken aback by his words. You didn't expect to be accepted so easily into
 "Thank you," you say, feeling a lump form in your throat.
 
 Katyusha's father nods and claps you on the back. "Just remember," he says with a grin. "If you ever betray my daughter, I'll have to break your kneecaps. It's a communist thing."
+
+>Katyusha's Other side 
+
+After spending a few hours with Katyusha's family, you were starting to feel comfortable around them. They were all nice and welcoming to you, even though they were three times your size. You couldn't help but feel a little intimidated by their sheer size and strength, but their warm demeanor helped ease your nerves.
+
+As the evening progressed, Katyusha suggested that you both go to the local gymnasium. "I want to show you my other side," she said with a grin.
+
+You followed her to the gymnasium, where you saw a group of people gathered around a wrestling mat. Katyusha confidently strode over to them, and you noticed that everyone seemed to know her.
+
+"Katyusha, it's been too long!" exclaimed a tall, burly man with a thick beard.
+
+"Good to see you too, Ivan," Katyusha replied, giving him a strong handshake.
+
+You watched as Katyusha began to warm up, stretching and flexing her muscles. It was then that you realized how truly powerful she was. Her muscles rippled under her skin as she moved, and you could see the raw strength in her every movement.
+
+As the matches began, Katyusha eagerly stepped onto the mat, facing off against her opponents with a fierce determination. You watched in awe as she expertly grappled and pinned each one of them.
+
+Finally, it was time for the main event - Katyusha's match against Ivan. The two of them circled each other, each one sizing up the other's strength. Then, with lightning-fast reflexes, they lunged at each other, their muscles straining against each other as they grappled for dominance.
+
+It was a brutal match, with neither one of them giving an inch. Sweat poured down their bodies as they strained against each other, but in the end, Katyusha emerged victorious, pinning Ivan to the mat with a triumphant roar.
+
+You couldn't help but cheer along with the rest of the spectators, thrilled by Katyusha's incredible athleticism and power. As she stepped off the mat, her face flushed with victory, she turned to you with a beaming smile.
+
+"So, what do you think?" she asked, still panting from the exertion.
+
+"I think I'm impressed," you replied, grinning back at her.
+
+From that moment on, you knew that Katyusha was a force to be reckoned with, both in her political beliefs and her athletic prowess. And you couldn't wait to see what other surprises she had in store for you.

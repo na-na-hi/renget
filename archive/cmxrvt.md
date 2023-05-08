@@ -1,4 +1,4 @@
-# IT COMES IN PAIRS
+# IT COMES IN PAIRS (INTRO)
 
 "C'mon, we're losing them!" I said, weaving through the trees. 
 
@@ -87,9 +87,9 @@ They kept at it for a while, without dropping their guard, not wanting to give e
 
 Sneasel didn't like the feeling of being observed, of feeling defenseless, but she calmed herself with the knowledge of her past battles, and readied herself for the worst. 
 
-Charm was jumping back and fort, trying to see & feel whoever their unexpected visitor, the fear he felt meant that he needed to concentrate further than normal to keep himself calm & for his abilities to work. 
+Natu was jumping back and fort, trying to see & feel whoever their unexpected visitor was, the fear he felt meant that he needed to concentrate further than normal to keep himself calm & for his abilities to work. 
 
-Charm was the most affected one, even if she didn't let it show. This feeling of dread and overwhelming fear reminded her of her past life, of her own imprisionment and life before she came here, and she hated it, she hated it like she never hated anything before. Her heart wouldn't be able to hold out for much longer if she didn't do something, anything, *anyo- *
+Charm was the most affected one, even if she didn't let it show. This feeling of dread and overwhelming fear reminded her of her past life, of her own imprisionment and life before she came here, and she hated it, she hated it like she never hated anything before. Her heart wouldn't be able to hold out for much longer if she didn't do something, anything, *anyo-*
 
 "HEY! YOU!!" screamed Sneasel, snapping Charm out of her episode and Natu of his concentration. They both turned, and followed where their partner was pointing, and saw it, their supposed stalker. 
 

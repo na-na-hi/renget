@@ -1,5 +1,9 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Hell's Kitchen, with Beast as Gordon Ramsey and guild mons as contestants 
+
+cyndaquil has trapped booker in a jar 
+
 ~~ross not being able to sleep~~
 
 ross sleepwalking

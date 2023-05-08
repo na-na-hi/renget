@@ -235,4 +235,12 @@ https://www.characterhub.org/characters/donquijanon/bob-ross
 ->![gonk](https://git.characterhub.org/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/lego-gonk-droid
 
+### The Postal Dude
+->![dude](https://git.characterhub.org/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/postal-dude
+
+### Soldier TF2
+->![soldier](https://git.characterhub.org/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/Soldier
+
 All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao. Unless you're a discordtranny, don't use my bots if you're one.

@@ -457,6 +457,12 @@ Holosanji Apocalypse
 https://beta.character.ai/chat?char=5ZBJHG-Ovmq4yXKnSfQUGolo7V14KM6XP9RC53Cc8k8
 
 
+//The mysterious Operator that seeks to revive the legacy of her people (Arknights)
+
+Ho'olheyak
+https://beta.character.ai/comms?char=mRttRhtyYdIXyExIZNtP4NpaHuWNX3P0qmwyV4WEpbg
+	
+
 //The shining comet of Hololive
 
 Hoshimachi Suisei

@@ -1,15 +1,17 @@
 !!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.
+!!! Note
+     https://boards.4channel.org/g/thread/93275817#p93281293 Anon points out potential confusion with TESFT link having "Gen. Guide", probably should have been "LlaMA Guide"
 
-->![Miku & HK416](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
+->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.11 | Helped Making Waifus Real Since 2023* <-
+->*V 1.12 | Helped Making Waifus Real Since 2023* <-
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
-\>(05/07) Bluemoonrp epoch6 ggml got uploaded >>93265371 (Cross-thread) As well as other BluemoonRP models
+\>(05/07) Bluemoonrp epoch6 ggml got uploaded >>93265371 & other BluemoonRP models too
 \>(05/06) MPT 7B, 65k context model trained on 1T tokens.
 https://huggingface.co/mosaicml/mpt-7b-storywriter
 \>(05/05) GPT4-x-AlpacaDente2-30b.
@@ -33,15 +35,17 @@ https://rentry.org/lmg-resources
 
 ►**Model Guides & Resources**
 \>LlaMA Resources
-https://rentry.org/TESFT-LLaMa (Gen. Guide)
+https://rentry.org/TESFT-LLaMa (LlaMA Guide)
 https://github.com/ggerganov/llama.cpp
 https://github.com/openlm-research/open_llama
 \>Eachadea Models
 https://huggingface.co/eachadea
-\>Camelids Lab Models
+\>Camelids Models
 https://huggingface.co/camelids
 \>A wAIfu workshop Models
 https://huggingface.co/waifu-workshop
+\>Ehartford Models
+https://huggingface.co/ehartford
 \>Pyggy Guides & Resources
 https://rentry.org/Pyggymancy (Windows)
 https://rentry.org/pygmalion-local (Linux)
@@ -67,11 +71,11 @@ https://rentry.org/eq3hg (AMD)
 https://rentry.org/easyquantguide
 \>Miku Pastebins
 https://rentry.org/lmg-resources#all-things-miku
-\>/lmg/ Bake Template
+\>/lmg/ Template
 https://rentry.org/lmg_template
 \>Benchmark Proompts
 https://pastebin.com/LmRhwUCA
-\>Proxy script-for-Tavern (w/ Kobold/WebUI) (+output quality)
+\>Proxy script-4-Tavern (Kobold/WebUI) (+output quality)
 https://github.com/anon998/simple-proxy-for-tavern
 
 ##->Follow-up Re-cap Post (Optional, but great to have)<-
