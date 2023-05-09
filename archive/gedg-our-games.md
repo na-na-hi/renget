@@ -7,7 +7,7 @@ Make sure to provide some kind of evidence that it was made by a /gedg/ poster. 
 * Linking to posts made during dev. A good archive website for this kind of thing is https://desuarchive.org/.
 * Having dev that was posted on /gedg/ that is well known by the posters of /gedg/.
 
-Of course, game jam entries should be added to the list of games without any fuss. /agdg/ events are included here because of cross-posters.
+Of course, game jam entries should be added to the list of games without any fuss. /agdg/ events are included here because of cross-posters. Entries that are submitted to /agdg/ events that have also appeared on /gedg/ posters will be listed.
 
 * [Fools in April Jam](https://itch.io/jam/gedg-fools-in-april) -- April 2nd 2023 at 1:30 AM GMT to April 13th 2023 at 1:30 AM GMT
 	* [Bl@c-Man](https://zzc3.itch.io/blac-man) by [zzc3](https://zzc3.itch.io/)
@@ -15,7 +15,7 @@ Of course, game jam entries should be added to the list of games without any fus
 	* [Space Case](https://froggygreen.itch.io/space-case) by [FroggyGreen](https://froggygreen.itch.io/)
 
 * [/agdg/ Demo Day 50](https://itch.io/jam/agdg-demo-day-50) -- May 5th 2023 at 7:00 AM GMT to May 8th 2023 at 7:00 AM GMT
-	* [BATTY VAMPS](https://frenchfriesguy.itch.io/batty-vamps-3d)
+	* [BATTY VAMPS](https://frenchfriesguy.itch.io/batty-vamps-3d) by [frenchfriesguy](https://frenchfriesguy.itch.io/)
 
 ***
 ->

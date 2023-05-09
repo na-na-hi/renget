@@ -1,4 +1,4 @@
-# -> SillyTavern and GPT Proxy Guide for RETARDS <-
+# -> SillyTavern and GPT Guide for RETARDS <-
 -> This guide will help you set up SillyTavern, a fork of TavernAI, which I considered to be the best front-end currently available for chatting with AI bots. It will also explain to you what the different options do in SillyTavern and how it affects the AI. This guide will also shows you how to connect SillyTavern to a Proxy that anons from /aicg/ sometimes share. Overall, this guide *Is* a work in progress, and I plan to add more to it. All Images in this guide can be clicked on to enlarge.<-
 ***
 [TOC2]
@@ -179,52 +179,8 @@ Sometimes Tavern might need to re-install dependencies when updated, if so run: 
 !!! danger **Uninstalling Tavern**
     ->To uninstall SillyTavern, type `rm -rf silly` from the root directory `~ $`. But be careful, If you type in the wrong folder name, it will erase it alongside ***ALL ITS SUBFOLDERS***, without confirmation.  So, don't be a *Retard* and delete the wrong shit.<-
 ***
-## ->PROXY GPT SETUP<-
-->The GPT Proxy is a reverse proxy server where people host their API keys for others to use. This is because API keys have poor security, and someone with a working API key can impose usage limits and even revoke keys, rendring them useless. Unfortunately, some anti-coomers and trannys have been revoking keys out of spite. To prevent this, someone came up with the idea of using a proxy.<-
-
-!!! info SillyTavern & Proxy
-    SillyTavern now supports proxy usage within its user interface! This means that editing the server.js file is no longer necessary, so that section has been removed. Instead, I'll provide a simple image guide on how to use proxies. If you're still interested in how to edit server.js on Windows or Termux, you can find the old deprecated instructions here: https://rentry.org/Deprecated4Retards
-
-Step 1 - Settings menu | Step 2 - Insert proxy | Step 3 - API menu - Connect
-:-: | :-: | :-:
-[![BURGER MENU](https://i.imgur.com/sos032s.png)](https://i.imgur.com/sos032s.png) | [![BURGER MENU](https://i.imgur.com/3cCs2Ao.png)](https://i.imgur.com/3cCs2Ao.png) | [![BURGER MENU](https://i.imgur.com/iIn05Qr.png)](https://i.imgur.com/iIn05Qr.png)
-Make sure you have **OpenAI** selected in the API menu ![APIicon](https://i.imgur.com/oHuNi58.png). Then find **OpenAI Reverse Proxy** in the burger menu. ![Burger](https://i.imgur.com/aCoxl8o.png) | Paste in the **full** proxy link in the Input field below **OpenAI Reverse Proxy**, don't know what the full link is? Look below. | Go to **API** ![APIicon](https://i.imgur.com/oHuNi58.png) and put **Cunny** into the **API key** field, if the proxy is password protected, **PUT THE PASSWORD THERE.**
-
-### Proxy link sharing!
-Proxy sharing is a new thing that's being done to share keys for others. Made and published by [Idosal](https://huggingface.co/spaces/idosal/oai-proxy)(?), this allows for anons who have been gifted with many GPT keys, to share it with others to enjoy. By placing the key behind the proxy, one can control usage of keys and avoid someone getting a hold of it and manipulate it. When connecting to a proxy, you are exposing your computer, network to someone's server! Which then redirects your connetion and request to OpenAI. This poses a security risk! So use them at your own risk. However, the source code is always available on Huggingface, so you can confirm if it's been alter with in a malicious way if you're tech-savy.. Which let's be honest, you're reading this guide, so you're not.
-
-So to quickly explain how the links works, I'll provide a small summary:
->Neurokun makes a huggingface account : https://huggingface.co/neurokun
->He imports Idosal's code into his own 'space' on huggingface and gives it a name.
->https://huggingface.co/spaces/neurokun/V-1488
->On that site we get to see the [services status (Running, Error, Pause) and information about the proxy](https://i.imgur.com/e6wbsmL.png).
->We can see the status of keys, Turbo, GPT4, Logged etc.. You want to look for this:
->"api": "https://neurokun-v-1488.hf.space/proxy/openai/v1",
->Strip it to just the link
->https://neurokun-v-1488.hf.space/proxy/openai/v1 : And now you have the actual proxy link.
->Past into tavern proxy and then add something, anything to the API key and connect.
->Ready to go.
-
-Now, most proxies have a tendency to only show 95% of the link, like this: ``https://neurokun-v-1488.hf.space/proxy/openai``.
-When that is the case, you need to add ``/v1`` to the link, like this: ``https://neurokun-v-1488.hf.space/proxy/openai/v1``.
-Then it's fully functioning and you can put it into Tavern and RP with your waifu.
-
-When you try to access a proxy, you may sometimes get some errors - Endpoint not found & Access Token incorrect:
-
-**Endpoint not found:**
-If you receive the message "Endpoint not found" when attempting to connect to a valid proxy link, it indicates that the proxy is currently offline. This means that the link does not connect to any server. You can verify the link, but as long as it ends with /openai/v1, it should be the correct link. If the owner of the proxy has shut it down, you won't be able to access it.
-
-**Access Token incorrect:**
-If you see "Access token Invalid," it means that the API key is incorrect, and the proxy is password-protected. Input the password as the API key to access it. If you don't know the password, find another proxy.
-
-**Streaming:**
-Streaming as a function is great to have on proxies. It provides you with a steady stream of the text being generated. This completely nulls 504 connection timeout errors. If the proxy supports this, make sure to enable this! Otherwise you will lose GPT4 responses if it takes 60 seconds or more to generate.
-
-## Agnai setup.
-Not looking good bros...
-
-***
 Updates:
+05/09: Some minor reworkings.
 05/02: Typos, rewrote some things, streaming + Proxy updates and rewrite and Contact information.
 04/21: Added termux SillyTavern update + Branch switching.
 04/15: Proxy cleanup, added my shitty CSS/Script to simplify the proxy checker.

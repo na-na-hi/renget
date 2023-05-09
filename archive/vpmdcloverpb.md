@@ -381,6 +381,9 @@ Least Favorite:
 >The most likely to be the only person in a room who uglysnorts and break out into uncontrollable laughter when an anonmon makes a stupid meme reference. Or any bad joke at all, really.
 >Also the most likely to start obsessively fawning over cute things/pokémon (not in that way, you degenerates)
 
+###Psyduck
+>a psyduck with epilepsy that has to sleep and rest a lot more than the average pokemon but i can contribute incredible energy. Kinda punk but also sweet. And extremely, extremely broke
+
 ###Tooca/Lapi
 >Lapi (male Axew):
 >The Axew is a Gentle, kind, and considerate Pokémon...but a bit of a wuss and leery of violence. Not a coward per se, but its not in his personality to fight with someone over something that might be viewed as trivial. Not the type to be all high and mighty either however. Would absolutely not be the type to go after outlaws as a mission for example.

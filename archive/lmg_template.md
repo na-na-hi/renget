@@ -61,8 +61,6 @@ https://rentry.org/qib8f
 https://rentry.org/better-llama-roleplay 
 
 ►**Other Resources**
-\>GitHub Heist QRD
-https://rentry.org/Jarted (STILL HERE)
 \>Ooba. ROCm
 https://rentry.org/eq3hg (AMD)
 \>LLaMA Quantization Guide
@@ -99,3 +97,10 @@ Date (MM/DD/YYYY) | Description:
 04/22/2023 | SuperCOT LoRA (by kaiokendev), merged by helpful anons: https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
 04/21/2023 | StableLM models performing terribly, are apparently broken: https://github.com/Stability-AI/StableLM/issues/30
+
+##->Drama Rentry Chart<-
+->![DRAMA ALERT!!!!!!!!!!!!!!!!!](https://i.ibb.co/hYTdK7n/DRAMA-ALERT.png)<-
+!!! danger I don't care anymore, it's up to individual bakers to include any of theses links in their OP post, or be it in the recap, or anywhere else. It's not going to be my problem. However, I won't remove Jarted or any future Rentry drama links from this Rentry and simply place them in this chart as they come. For the template above, there will always be enough character space to include Jarted or another Rentry drama link. (Template <1,900 characters)
+Name: | Brief Description: | URL:
+------ | ------ | ------
+Jarted Rentry | A user on GitHub named Jart ripped off the hard work of another GitHub user Slaren... | https://rentry.org/Jarted

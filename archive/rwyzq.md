@@ -252,7 +252,7 @@ Add after Line 21079:
 ```
 
 ##Robust Archiver
-Last Updated: 05/08/23 (mm/dd/yy)
+Last Updated: 05/09/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Firefox)
@@ -407,6 +407,8 @@ def vidProc(id, outtmpl, active):
 		'socket_timeout': 300,
 		'noprogress': True,
 		'progress_hooks': [lambda d: prog_hook(d,active,id)],
+		'file_access_retries': 1000,
+		'retries': 5,
 	}
 	URL = "https://www.youtube.com/watch?v=" + id
 	with yt_dlp.YoutubeDL(ydl_opts) as ydl:
