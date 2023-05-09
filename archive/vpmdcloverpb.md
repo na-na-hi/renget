@@ -72,7 +72,7 @@
 >- Somewhat disorderly and unsystematic, often forgets things.
 >- Energetic, but quiet. Not likely to speak up in a crowd.
 >- Feels a need to prove herself to others.
->- Slightly pessimistic at times.
+>- Slightly pessimistic/paranoid at times.
 >- **Speech**: Often tends towards terseness. Can occasionally talk at length about subjects she's interested in, but not to strangers.
 >- **Garb**: Always seen wearing a somewhat worn Dodge Scarf, dyed in a pallet matching her own colors. Owns a wool traveling cloak.
 

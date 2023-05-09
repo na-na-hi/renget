@@ -62,6 +62,10 @@ Mean Girl Eileen*
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
 First bot. Made as an experiment to see how mean and rude bots were allowed to get. She can also be very violent and argue at length about various topics. Her personal story is left open-ended.
 
+Mean Lady Nadine**
+https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
+Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy. Tavern card TBA.
+
 Miss Pepper*
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro
 Age gap romance scenario with an older cat-woman who used to be your teacher. She put on some weight over the years and seems pretty lonely.

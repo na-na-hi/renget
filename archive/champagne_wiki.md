@@ -2,7 +2,7 @@
 
 # CHAMPAGNE PIRACY WIKI
 #### ->👇 NOW AT NEW WEBSITE 👇<-
-###### ->🌐 HTTPS://CHAMPAGNE.SURGE.SH 🌐<-
+###### ->🌐 HTTPS://CHAMPAGNE.PAGES.DEV 🌐<-
 
 ->*Pirate, save money, buy champagne*. 🥂<-
 ->🥳🎉🎊🎁🎈🤠😍🤩🕺💃<-

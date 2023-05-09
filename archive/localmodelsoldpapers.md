@@ -97,6 +97,7 @@
 05/2023|[StarCoder: May the source be with you!](https://huggingface.co/bigcode/starcoder)
 05/2023|[CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
 05/2023|[MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
+05/2023|[Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -158,6 +159,7 @@
 05/2023|[Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 05/2023|[FreeLM: Fine-Tuning-Free Language Model](https://arxiv.org/abs/2305.01616)
 05/2023|[Cuttlefish: Low-rank Model Training without All The Tuning](https://arxiv.org/abs/2305.02538)
+05/2023|[AttentionViz: A Global View of Transformer Attention](https://arxiv.org/abs/2305.03210)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

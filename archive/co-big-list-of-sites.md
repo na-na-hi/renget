@@ -1,4 +1,4 @@
-# /co/'s Big List of Sites V23.05.05
+# /co/'s Big List of Sites V23.05.08
 ***
 !!! warning 
 	-> **Got anything you wanna tell me? Feel free to let me know!** <-
@@ -26,6 +26,7 @@ toonhound.com - Information on UK animated television series
 
 #### Blogs / Personal Sites
 cartoonresearch.com - Jerry Beck's blog
+dilbertblog.typepad.com/the_dilbert_blog - Scott Adams' abandoned blog, creator of *Dilbert*
 itsnotstupid.com - *Invader Zim* fan website
 johnkstuff.blogspot.com - John Kricfalusi's blog, creator of *Ren & Stimpy*
 kingofooo.tumblr.com - Official staff blog for *Adventure Time*
@@ -112,6 +113,7 @@ yourbittorrent.com - Torrent site
 `Visit /ptg/ on /g/ to learn more. Also don't go around begging for invites.`
 
 cartoonchaos.org (CC) - Private community for animated shows and movies
+mese-vilag.net - Hungarian private community for cartoons
 myanonamouse.net (MAM) - Private community for books, possibly the closest thing to a private tracker for comics
 myspleen.org (MS) - Private community for animated shows, VHS and Betamax recordings
 oldtoons.world - Private community for animated shows and movies

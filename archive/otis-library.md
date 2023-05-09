@@ -4,7 +4,7 @@
 
 ![Image description](https://files.catbox.moe/9bhx0a.png)
 
-Hello and thank you for taking the time to check out my character library Rentry! My name is Otis and I do a lot of stuff, specifically Pygmalion Characters and Web Development. Due to the recent Discord change that no longer embeds metadata in .png files, I've decided to create a Rentry for all of my characters! Feel free to take a look around, or download a few of my characters. 
+Hello and thank you for taking the time to check out my character library Rentry! My name is Otis and I do a lot of stuff, specifically Pygmalion Characters and Web Development. Due to the recent Discord change that no longer embeds metadata in .png files, I've decided to create a Rentry for all of my characters! Feel free to take a look around, or download a few of my characters. **If you intent to post any of my characters on an external page, you must get my permission before doing so.**
 
 If you have any character requests, suggestions, or feedback, feel free to find me in the [PygmalionAI Discord](https://discord.gg/pygmalionai) or DM me on Discord at Otis#9664. I also have my own [Discord Server](https://discord.gg/awEhNPaqg4) which also includes my CharaCards, and is just a place to chill.
 

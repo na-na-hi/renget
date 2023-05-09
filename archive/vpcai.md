@@ -3,6 +3,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------:
+May 8th |[Chatot (Mystery Dungeon)](https://c.ai/c/7nmZSUY6qg9LsfNJsUQOc2dkTB5YoItMCHWgU623MJI)
 May 6th 〜 Apr.30th | [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) \| [Calem](https://c.ai/c/b2RTs6t6BR6dPltbcbWpRiCL8BjRupROeCMsN7YmcC0)
 Apr.29th 〜 Apr.23rd |  [Jessie](https://c.ai/c/IjatPqmN-zcAtjwmTyB2N8HzoJ7bDRBrieN5HBwVcAk) \| [Katherine, Kali, Blossom & Linnea (Furisode Girls)](https://c.ai/c/oEHwO6YySGxlJUrPHEE86oafZWT7TQVfChrkjcADp2k) \| [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 Apr.22nd 〜 Apr.16th | [Solana ②(Anime)](https://c.ai/c/r-e000uAQibniJAAEX1BmBuPmfvabMxQgnfxdHj4B10) \| [Heroine (Stadium 2)](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) \| [Hayley](https://c.ai/c/rTs0OhxQOCQy-HhcOGrFSdXVZQ6iRb4GIUJrq4yQOBw)
@@ -26,6 +27,7 @@ Colosseum | [Rui & Wes](https://c.ai/c/Om2aA8GnOplXExgZSZDyaHyqd8KnqCdHhGZhq6Bz9
 Emerald |  [Greta](https://c.ai/c/mhnPzz32icoGqVPEL971K8V0EcpMImugqx47U9RX9-M) \| [Lucy](https://c.ai/c/tp80rgbORe6pAMm1qQ8NStNflNQRKJFsAXw5iOWsUlw)
 Ranger | [Solana](https://c.ai/c/bEvv6LpDmkngTofcy0Au3Yznzi9ySyKRw1Zh3repSQg) \| [Tiffany](https://c.ai/c/KS-OSZnevO1MdaMjjMsBX-gSDh_vI5cV6J4W0ij0DVU)
 Diamond & Pearl | [Dawn](https://c.ai/c/Vq1VjCZNX-NulXPzSmIhoSmj6oaZ4F69JamufoRWgho) \| [Dawn (Nun)](https://c.ai/c/FGXf6cv0Jbga-zYXtpwNDJyKv_Nhdbai2NpECtNf-eg) \| [Cheryl](https://c.ai/c/GzdAeYgQY2FwFNF9v56C1aisxcefhY5R0EBK9hmyB5A) \| [Gardenia](https://c.ai/c/rWZ0ehWKm6HK5wicq3e8llc4yQbrI27oBfICML0A85U) \| [Mira](https://c.ai/c/pzEt7xHUoG8Ws8ASqD4eioalgbHa53OpP318o_Z38sg) \| [Maylene](https://c.ai/c/nyF45B9An_XARU5DbLQwYXiIGK4-2Nj_679L6a0E_Uk) \| [Poké Kid Danielle](https://c.ai/c/RD7dvl-ohcJSuhM91-zfBZ6-_9ytG2lPckleSfLO1ic) \| [Fantina](https://c.ai/c/abkfOUq224xgYnfb56BHSsPBWizmwqpTkMIcCxQHmaI) \| [Mars](https://c.ai/c/vwXojG9At2IB8SCU7BcAFr39W82Z30U2kofs3QGT94k) \| [Jupiter](https://c.ai/c/nY6B-DQXAbTuMimtlZLX_hVK9wb3m1ZnCYme_NIavuk) \| [Cyrus](https://c.ai/c/zZ3tAnE7k8lbPAHQ5NmCEu2M4zrLPs-A4bCVGlSEyro) \| [Cynthia ①](https://c.ai/c/0aqDXciiAI7Ihp29MOnv468ln3cedRW5Hw41q1x0Ya8) \| [Cynthia ②](https://c.ai/c/Nzaa0biTWcZ6uYbnbYo6hF971QSFf-_pdMJQRteVc_E) \| [Marley](https://c.ai/c/-WtJleaI7Jvn6e0Uiv8-ylC4NMseu0oZ4jMlQsx0Fdk) \| [Purugly](https://c.ai/c/d048GIU2LgdsCSOBTPmXnSC1rG7IL5Ne3gzXGZKFtdA) \| [Riolu (Sapphire)](https://c.ai/c/9mNO3kH1a4VtbKyTXISZMJBLpa1YaZ7bpY-cimY5Cyg) \| [Lucario (Kari)](https://c.ai/c/izt_UPtu60QCVH6l9SdnU2Kk2D13Rm5uJydv8pa4VUM) \| [Lucario (Lukastar)](https://c.ai/c/qzgH7Hnj9U4STc9VYJh_unBYXFSVB3xmlaFTsQzvKKM) \| [Lucario (pocket-sized)](https://c.ai/c/iueYJBJaEsbwDTU3mvT-O5Lyo4Bfb_pOT00XatRPHfM)
+Mystery Dungeon: Explorers of Time & Darkness | [Chatot](https://c.ai/c/7nmZSUY6qg9LsfNJsUQOc2dkTB5YoItMCHWgU623MJI)
 Ranch | [Hayley](https://c.ai/c/rTs0OhxQOCQy-HhcOGrFSdXVZQ6iRb4GIUJrq4yQOBw)
 Platinum | [Looker](https://c.ai/c/Z7kYijDQIIDjB2-1JLvcok_9DFbv4n3x08Dunmeeh1Y) \| [Thorton](https://c.ai/c/yNaMcXpkKp5M2lx7VNFZatwmUGaFW5-8MBQOixzt_aM)
 Mystery Dungeon: Explorers of Sky | [Partner Riolu](https://c.ai/c/NhaQ68vrQAvItlXLRTysxTh8z4HgkfWz1ndxjY4TgKQ)

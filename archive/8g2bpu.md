@@ -22,7 +22,7 @@ A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
 
 ~~A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png~~
 
-Togetic ranting at Ross about his paint trails in the storeroom
+~~Togetic ranting at Ross about his paint trails in the storeroom~~
 
 Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
 and/or
@@ -36,7 +36,7 @@ lliam doing gendo pose when facing phanpys team
 
 Debby and Kaz (Solid Linoone) on a date
 
-Loss
+~~Loss~~
 
 ~~The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg~~
 

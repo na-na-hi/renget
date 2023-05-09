@@ -249,10 +249,18 @@ https://www.characterhub.org/characters/donquijanon/Sylvie
 - Use the experimental prompt to make it closer to the game. Feel free to change the values to make it easier or harder. 
 1. Slaude: breaks the format often and requires a lot of wrangling.
 2. Todd: seems to work better.
+
 Prompt 1: for simplicity. 
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. At 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.` 
 
 Prompt 2: Milestones. They don't work at all on Slaude though.
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. Milestones: 20 trust: first smile. 40 trust: friends. 60 trust: crush. 80 trust: love, will ask to sleep together. 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.`
 
-All bots got open defs cuz I'm not a fag. Feel free to copy them, microwave them or whatever, just post logs lmao. Unless you're a discordtranny, don't use my bots if you're one.
+### Usui Sachi (Love at First Sight)
+->![sachi](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/82dcd99fb27fe2d19b7057b9f77000c4ef301900/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/usui-sachi
+
+- Comes with 6 emotions expression pack, download it here: https://files.catbox.moe/9l69kc.rar
+- And backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
+
+Don't use my bots if you're a discordtranny or redditard.

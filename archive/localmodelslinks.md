@@ -42,6 +42,9 @@
 [Huggingface NLP Course](https://huggingface.co/course/chapter1/1)|Make sure to look at the other courses as well 
 [Google's ML Course](https://developers.google.com/machine-learning/foundational-courses)|Various courses related to ML 
 |
+[AttentionViz](http://attentionviz.com)|Interactive tool that visualizes global attention patterns for transformer models
+[Diffusion Explainer](https://poloclub.github.io/diffusion-explainer)|Interactive tool that explains how SD transforms text into images
+|
 **Prompting**|
 [Prompt Engineering](https://archive.ph/s7JAR)|Guide and current research on prompting by OpenAI's tech lead
 [OpenAI's Promptbook](https://github.com/openai/openai-cookbook)|ChatGPT/GPT-4 focused 
