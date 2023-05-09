@@ -37,10 +37,11 @@ Quick notes on how to access each:
 
 ## Frontend (service support)
 
-Only two frontends are currently recommended.
-Silly's Tavern mod is the more featureful option, while Agnai is a newer alternative preferred by /aicg/ developers and sometimes considered to have a more secure future.
-FrankenTavern is deprecated by its author, who said to remove it from this document and is no longer used by most of its /aicg/ users anyway.
+Only two frontends are currently recommended, Silly and the newer option Agnai. Both have a lot of different features and are improving fast.
+
 [Miku](https://docs.miku.gg) is noteworthy, but difficult to compare. It uses sentiment classification to show different sprites for each message, and text-to-speech, supporting OAI, Kobold, Whisper, AzureTTS, ElevenLabs, and NovelAITTS.
+
+[RisuAI](https://risu.pages.dev) is noteworthy but I'm not knowledgeable about its features yet.
 
 
 |       | OAI | NAI |  Kobold |      Scale | Poe | Claude API |
@@ -57,7 +58,7 @@ Supported by all:
 - control over the prompt
 - phone access
 
-|         |UJB | WEB ONLY OPTN | MULTI CHARA | TREES                                | IMG CAPTION | IMG GEN | SUMMARY |  MULTI-USER | SCREENSHOT |
-|---------|--- |---------------|-------------|--------------------------------------|-------------|---------|---------|------------|------------|
-| Silly   |✅ | ✅ (Colab)     | ✅          | ⚠️(must delete new msgs to swipe old) | ✅          | ✅      | ✅       |  🚫          | 🚫          |
-| Agnai   |✅ | ✅             | 🚫          | ⚠️ (last msg only)                    | 🚫          | ✅      | 🚫       |  ✅          | ✅   |
+|         |UJB | WEB ONLY OPTN | MULTI CHARA | TREES                                | IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS        |
+|---------|--- |---------------|-------------|--------------------------------------|-------------|---------|---------|------------|------------|------------|
+| Silly   |✅ | ✅ (Colab)     | ✅          | ⚠️(must delete new msgs to swipe old) | ✅          | ✅      | ✅      |  🚫        | 🚫         | 🚫         |
+| Agnai   |✅ | ✅             | 🚫          | ⚠️ (last msg only)                    | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅ (11labs) |

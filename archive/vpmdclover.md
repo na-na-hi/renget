@@ -202,7 +202,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
     * [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
     * [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
-    * [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -340,7 +339,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 * [More Apples (ft. Clara)](https://rentry.org/imuwu)
 * [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
-* [Meowstic Origin Story Bad Ending A](https://rentry.org/Ch4-2b)
 * [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)

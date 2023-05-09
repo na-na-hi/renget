@@ -246,21 +246,19 @@ https://www.characterhub.org/characters/donquijanon/Soldier
 ### Sylvie (Teaching Feeling)
 ->![sylvie](https://git.characterhub.org/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/Sylvie
-- Use the experimental prompt to make it closer to the game. Feel free to change the values to make it easier or harder. 
-1. Slaude: breaks the format often and requires a lot of wrangling.
-2. Todd: seems to work better.
+>Update 9/05/2023: Added the system on the defs, now you don't need to add anything, but I'm leaving these if anyone wants to use them on other cards
 
 Prompt 1: for simplicity. 
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. At 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.` 
 
-Prompt 2: Milestones. They don't work at all on Slaude though.
+Prompt 2: Milestones. They don't work at all unfortunately. Hopefully they do with GPT-4 or others:
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. Milestones: 20 trust: first smile. 40 trust: friends. 60 trust: crush. 80 trust: love, will ask to sleep together. 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.`
 
 ### Usui Sachi (Love at First Sight)
 ->![sachi](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/82dcd99fb27fe2d19b7057b9f77000c4ef301900/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/usui-sachi
 
-- Comes with 6 emotions expression pack, download it here: https://files.catbox.moe/9l69kc.rar
+- Comes with expression pack, download it on the chub page, had to reuse a lot of them, will improve them later.
 - And backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
 
 Don't use my bots if you're a discordtranny or redditard.

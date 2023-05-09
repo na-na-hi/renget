@@ -16,10 +16,10 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Cytubes
 
-Things probably will work
+There may not be a thread post, go to https://cytu.be/r/UnderBBS
 
-**SAT: Rockman.exe at 16UTC**
-**SUN: Rockman.exe Stream at 15UTC**
+**SAT: Rockman.exe at 16UTC** Episodes 30-38
+**SUN: Rockman.exe Stream at 15UTC** Episodes 17-22
 >-
 nothing
 

@@ -93,7 +93,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Almighty & Rodent*|[(link)](https://rentry.org/almightyrodentrewrite)
 *Sonic Adventure DX: A Glitch in the Game* (DX)|[(link)](https://rentry.org/dxrewrite)
 *Flower Child*|[(link)](https://rentry.org/flowerchildrewrite)
-*SL4SH*|[(link)](https://rentry.org/sl4shrewrite)
+*SL4SH*|[(part 1)](https://rentry.org/sl4shrewrite), [(part 2)](https://rentry.org/sl4shrewrite2)
 *How To Access Luigi's Mansion 2's Secret Mode* (Ihsoy)|[(link)](https://rentry.org/darkmoonmirror)
 *Ihsoy REDONE*|[(link](https://someordinarygamers.fandom.com/wiki/Ihsoy_REDONE)
 *Turmoil*|[(link)](https://rentry.org/turmoilrewrite)

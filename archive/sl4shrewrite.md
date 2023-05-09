@@ -1,4 +1,6 @@
-#SL4SH Rewrite
+#SL4SH Rewrite Part 1
+[Part 2](https://rentry.org/sl4shrewrite2)
+
 1 H4V3 0N3 PUrP053 1N 11F3 4ND 7H475 JU57 70 M355 W17H 7r45H  
 
 831N6 4 50N1C F4N 15 W0r53 7H4N 831N6 r311610U5   
