@@ -27,12 +27,14 @@ Model | 4-bit | 5-bit | 8-bit
 30B | 19.5 GB
 65B | 38.5 GB
 
+# Original Weights
+
 ## LLaMA 16-bit Weights
 !!! info
 
 	The original LLaMA weights converted to Transformers @ 16bit. A torrent is available as well, but it uses outdated configuration files that will need to be updated. Note that these aren't for general use, as the VRAM requirements are beyond consumer scope.
 
-	>Filtering Status : None
+	>Filtering : None
 
 Model | Type | Download
 --- | --- | ---
@@ -47,7 +49,7 @@ All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)
 
-	>Filtering Status : None
+	>Filtering : None
 
 Model | Type | Download
 --- | --- | ---
@@ -56,12 +58,14 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU CUDA (128gs) | [Torrent Magnet](magnet:?xt=urn:btih:88f7d9d2460ffcaf78b21e83012de00939eacb65&dn=LLaMA-HF-4bit-128g&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
+# Models/Finetunes/LoRA's
+
 ## BluemoonRP 13B (05/07/2023)
 !!! info
 
 	An RP/ERP focused finetune of LLaMA 13B finetuned on BluemoonRP logs. It is designed to simulate a 2-person RP session. Two versions are provided; a standard 13B with 2K context and an experimental 13B with 4K context. It has a non-standard format (LEAD/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
 
-	>Filtering Status : Very light
+	>Filtering : None
 
 Model | Type | Download
 --- | --- | ---
@@ -72,7 +76,7 @@ Model | Type | Download
 
 	Vicuna 1.1 13B finetune incorporating various datasets in addition to the unfiltered ShareGPT. This is an experiment attempting to enhance the creativity of the Vicuna 1.1, while also reducing censorship as much as possible. All datasets have been cleaned. Additionally, only the "instruct" portion of GPTeacher has been used. It has a non-standard format (USER/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
 
-	>Filtering Status : Very light
+	>Filtering : Light
 
 Model | Type | Download
 --- | --- | ---
@@ -83,7 +87,7 @@ Model | Type | Download
 
 	ChanSung's Alpaca-LoRA-30B-elina merged with Open Assistant's second Finetune. Testing in progress.
 
-	>Filtering Status : Medium
+	>Filtering : Medium
 
 Model | Type | Download
 --- | --- | ---
@@ -98,7 +102,7 @@ https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit
 
 	A work-in-progress, community driven attempt to make an unfiltered version of Vicuna. It currently has an early stopping bug, and a partial workaround has been posted on the repo's model card.
 
-	>Filtering Status : Very light
+	>Filtering : Light
 
 Model | Type | Download
 --- | --- | ---
@@ -111,7 +115,7 @@ Model | Type | Download
 
 	PygmalionAI intend to use the same dataset on the higher parameter LLaMA models. No ETA as of yet.
 
-	>Filtering Status : None
+	>Filtering : None
 
 Model | Type | Download
 --- | --- | ---
@@ -128,7 +132,7 @@ Model | Type | Download
 
 	It is an extremely coherent model for logic based instruct outputs. And while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue for creative writing/chatbot purposes. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose and coherence gains makes up for it.
 
-	>Filtering Status : Medium
+	>Filtering : Medium
 
 Model | Type | Download
 --- | --- | ---
@@ -139,7 +143,7 @@ Model | Type | Download
 
 	An open-source alternative to OpenAI’s ChatGPT/GPT 3.5 Turbo. However, it seems to suffer from [overfitting](https://www.datarobot.com/wiki/overfitting/) and is heavily filtered. Not recommended for creative writing or chat bots, given the "assistant" personality constantly bleeds through, giving you dry dialogue.
 
-	>Filtering Status : Heavy
+	>Filtering : Heavy
 
 Model | Type | Download
 --- | --- | ---
@@ -154,7 +158,7 @@ Model | Type | Download
     
 	Though designed to improve Langchain, it's quite versatile and works very well for other tasks like creative writing and chatbots. The author also pruned a number of filters from the datasets. As of early May 2023, it's the most recommended model on /lmg/
 
-	>Filtering Status : Very Light
+	>Filtering : Light
 
 Model | Type | Download
 --- | --- | ---

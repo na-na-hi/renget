@@ -21,8 +21,6 @@
 ![Sleeping Chespin](https://i.imgur.com/5n25DVa.png)
 ####Beast's Inner Beauty
 ![Beast's Inner Beauty](https://i.imgur.com/BUUe8t7.png)
-####McDrowning
-![McDrowning](https://i.imgur.com/k34l2xj.png)
 ####Team Cozy Drunk by Linoone and Kiyo
 ![Team Cozy Drunk](https://i.imgur.com/GJlPhao.png)
 ####Imposhawott
@@ -150,7 +148,7 @@
 ![Booker Meets Booker](https://i.imgur.com/jqLvi6o.png)
 #####The Chatterbox
 ![The Chatterbox](https://i.imgur.com/RB7fV1N.png)
-#####Love Cutemons
+#####Cassie's Lament
 ![Love Cutemons](https://i.imgur.com/Jswx3Eh.png)
 #####Tybo's Money Pile
 ![Tybo's Money Pile](https://i.imgur.com/9taQATS.png)
@@ -158,6 +156,8 @@
 ![Chespin's Solar Beam](https://i.imgur.com/fQnssiD.png)
 #####Macom's Charge
 ![Macom's Charge](https://i.imgur.com/JqNG0tj.png)
+#####Kris Got a Boo-Boo
+![Kris Got a Boo-Boo](https://i.imgur.com/wGkdjzu.png)
 #####Sleepy Bullet
 ![Sleepy Bullet](https://i.imgur.com/Ra9HSOZ.png)
 #####Togetic Cleaning the Storeroom
@@ -219,6 +219,8 @@
 ![Cloverdraw](https://i.imgur.com/q9WQKr8.png)
 #####Woopstand
 ![Woopstand](https://i.imgur.com/qtW7ubQ.png)
+#####Chespin (forma de violencia)
+![Chespin (forma de violencia)](https://i.imgur.com/3YOMRHi.png)
 #####Soyper
 ![Soyper](https://i.imgur.com/zirihJZ.jpg)
 #####Woop River
@@ -273,20 +275,18 @@
 ![Aftermath](https://i.imgur.com/LtqzGAU.png)
 #####Kaiji's Portrait
 ![Kaiji Portrait](https://i.imgur.com/j7sdYRp.png)
-#####Chad Kris
-![Chad Kris](https://i.imgur.com/5dl0i1b.jpg)
 #####Kirs Doll
 ![Kirs Doll](https://i.imgur.com/4KD6cbj.png)
 #####Unsmoke
 ![Unsmoke](https://i.imgur.com/rMtDWCx.png)
 #####Bashful Bunny Boi Kris
 ![Bashful Kris](https://i.imgur.com/9Ba5Eyn.png)
+#####McDrowning
+![McDrowning](https://i.imgur.com/k34l2xj.png)
 #####Kaiji's Nap
 ![Kaiji's Nap](https://i.imgur.com/InDIeEv.png)
 #####PMDG Final
 ![PMDG Final](https://i.imgur.com/5uF2c8D.png)
-#####Chespin (forma de violencia)
-![Chespin (forma de violencia)](https://i.imgur.com/3YOMRHi.png)
 #####enteRIng the FederaTion
 ![enteRIng the FederaTion](https://i.imgur.com/560Al0h.png)
 ####KFC Bucket
@@ -752,6 +752,7 @@ EDIT (Original Unknown)
 [Cyndaquil Alone](https://arch-img.b4k.co/vp/1682348153166.png)
 [What the Dog Doin](https://arch-img.b4k.co/vp/1682369429826.png)
 [Growlithe-anon Portrait](https://arch-img.b4k.co/vp/1682380105440.png)
+[Kris Got a Boo-Boo](https://arch-img.b4k.co/vp/1682274431063.png)
 [Sleepy Bullet](https://arch-img.b4k.co/vp/1682392268444.png)
 [What](https://arch-img.b4k.co/vp/1682410088776.png)
 [enteRIng the FederaTion](https://arch-img.b4k.co/vp/1682486981825.png)

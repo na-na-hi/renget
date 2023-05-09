@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Hohol squatters evicted by Wagner
+https://files.catbox.moe/36mwqp.mp4
+>T-80BVM 60th Independent Motorized Rifle Brigade destroyed an AFU tank
+https://files.catbox.moe/zuoony.mp4
 >Bradley column from the 47th mechanized likely heading to Zaporizhzhia
 https://files.catbox.moe/ssbma2.mp4
 >Incendiary barrages on the last hohol positions in Bakhmut citadel

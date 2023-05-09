@@ -9,4 +9,4 @@
 ![pre-/jdb/ threads ](https://files.catbox.moe/8qhbkg.png)
 |   |   |   |   | 
 :-: | :-:  | :-:  | :-:  | 
-[![pre-/jdb/ Thread #1](https://files.catbox.moe/4xruip.png)](https://desuarchive.org/mlp/thread/38851366/) | [![pre-/jdb/ Thread #2](https://files.catbox.moe/ov22xf.png)](https://desuarchive.org/mlp/thread/38953266/) | [![pre-/jdb/ Thread #3](https://files.catbox.moe/9clr9n.png)](https://desuarchive.org/mlp/thread/39005316/) | [![pre-/jdb/ Thread #4](https://files.catbox.moe/1u4c9y.png)](https://desuarchive.org/mlp/thread/39066113/) |
+[![pre-/jdb/ Thread #1](https://files.catbox.moe/4xruip.png)](https://desuarchive.org/mlp/thread/37719708/) | [![pre-/jdb/ Thread #2](https://files.catbox.moe/ov22xf.png)](https://desuarchive.org/mlp/thread/37904436/) | [![pre-/jdb/ Thread #3](https://files.catbox.moe/9clr9n.png)](https://desuarchive.org/mlp/thread/38606364/) | [![pre-/jdb/ Thread #4](https://files.catbox.moe/1u4c9y.png)](https://desuarchive.org/mlp/thread/38716403/) |

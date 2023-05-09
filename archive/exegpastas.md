@@ -99,6 +99,8 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Turmoil*|[(link)](https://rentry.org/turmoilrewrite)
 *Xeunoeflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1), [(part 2)](https://rentry.org/xeunoeflaunz-chapter-2)
 *Peach Cake* (The Baker)|[(link)](https://rentry.org/peachescake)
+*Executable M*|[(link)](https://rentry.org/emexecutablemrewrite)
+*Weird Animation Trend* (Executable M)|[(link)](https://rentry.org/weirdanimation)
 
 ##Restored/archived by /exeg/
 Title|Link

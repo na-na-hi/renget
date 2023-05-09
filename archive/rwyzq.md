@@ -252,7 +252,7 @@ Add after Line 21079:
 ```
 
 ##Robust Archiver
-Last Updated: 04/29/23 (mm/dd/yy)
+Last Updated: 05/08/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Firefox)
@@ -359,7 +359,7 @@ def save_Metadata(url, fn):
 		'writedescription': True,
 		'writethumbnail': True,
 		'skip_download': True,
-		'outtmpl': fn + '\\%(title)s [%(id)s].%(ext)s',
+		'outtmpl': fn + '/%(title)s [%(id)s].%(ext)s',
 		'no_warnings': True,
 		'ignore_no_formats_error': True,
 		'ignoreerrors': True
@@ -461,7 +461,7 @@ def archiver(active):
 			print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + '> Found stream\nID: ' + id + '\nTitle: ' + title)
 			URL = "https://www.youtube.com/watch?v=" + id
 			fn = slugify(title, allow_unicode=True) + "-" + id
-			outtmpl = fn + '\\%(title)s [%(id)s].%(ext)s'
+			outtmpl = fn + '/%(title)s [%(id)s].%(ext)s'
 			if not os.path.exists(fn):
 				os.makedirs(fn) # Creates a containing folder
 				save_Metadata(URL, fn)

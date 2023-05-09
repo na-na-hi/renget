@@ -1,4 +1,8 @@
 #Dould bots
+Mostly femdom oriented content with random ideas I thought were cool interspersed amongst them. 
+All bots will also be ported here: https://www.characterhub.org/users/dould
+Throwaway email since everyone else is doing it and I am a sheeple: BasedMaan622@proton.me
+Logs and feedback are always welcome.
 
 [TOC]
 
@@ -34,6 +38,10 @@
 *Teasing bully angel*
 (tavern card) - https://files.catbox.moe/wmkyi5.png
 (outdated) - https://beta.character.ai/chat?char=HryOTCqYByG6nAeqCvaERFDKk8KNGP6Bn13rRcoWXsg
+####Jade
+![Jade](https://files.catbox.moe/ksgrzy.png)
+*Money hungry casino bunny*
+(tavern card) - https://files.catbox.moe/cwcczb.png
 
 ##Revamped Monster Girl bots
 

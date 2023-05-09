@@ -175,9 +175,9 @@
 - The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web.
 - [URL Safety Results](https://www.urlvoid.com/scan/movie-web.app/)
 
-### ▶️ [MyFlixer](https://myflixer.link/)
+### 🐐 [MyFlixer](https://myflixer.to/) / [2](https://myflixer.today/) / [3](https://myflixertv.to/) / [4](https://myflixer.it/) / [5](https://myflixer.pw/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
-- [URL Safety Results](https://www.urlvoid.com/scan/myflixer.link/)
+- [URL Safety Results](https://www.urlvoid.com/scan/myflixer.to/)
 
 ### ▶️ [PressPlay](https://www.pressplay.top/)
 - Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.

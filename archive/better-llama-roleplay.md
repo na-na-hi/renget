@@ -41,19 +41,11 @@ If you're using a model that was finetuned or based off Alpaca, you're likely go
 1. Install [NodeJS](https://nodejs.org/en) if you don't have it already. This is required for not only SillyTavern but also the proxy.
 2. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
 3. Download the proxy from [here](https://github.com/anon998/simple-proxy-for-tavern).
-4. Open the command line in the directory of the proxy folder and run the following command:
-```python
-npm install
-node index.mjs
-
-# Or this to reload automatically when editing the file:
-# npx nodemon index.mjs
-```
-	This starts the proxy. `npm install` only needs to be ran once, subsequent usage only requires `node index.mjs`.
+4. Navigate to the directory of the proxy folder and double-click `start.bat`. If you're on Linux, open the command line in the directory and run `./start.sh`. This starts the proxy (obviously).
 5. Open up SillyTavern and set the API in the "API Connections" menu to "OpenAI." We're going to be taking advantage of the reverse proxy feature.
-6. Create a new preset and set the "OpenAI Reverse Proxy" to `http://127.0.0.1:29172/v1`. If you want to change which port or IP the proxy is initialized to you can do so by copying the file `config.default.mjs` to `config.mjs` and editing it there, that way the changes don't get loss with every update.
+6. Create a new preset and set the "OpenAI Reverse Proxy" to `http://127.0.0.1:29172/v1`. If you want to change which port or IP the proxy is initialized to you can do so by copying the file `config.default.mjs` to `config.mjs` and editing it there, that way the changes don't get loss with every update. Alternatively, you can download [alpaca.settings](https://raw.githubusercontent.com/anon998/simple-proxy-for-tavern/main/img/alpaca.settings) and place it in the `public/OpenAI Settings/` folder of your SillyTavern install. You would then set the "OpenAI Reverse Proxy" to `http://127.0.0.1:29172/v1` and skip to step 10.
 7. Leave the "Context Size" at the maximum so that SillyTavern doesn't attempt to truncate the message, the proxy will take care of that for us.
-8. Clear the main prompt, NSFW prompt, jailbreak prompt, and impersonation prompt. Then, change the impersonation prompt to "IMPERSONATION_PROMPT" if you'd like to be able to use the "Impersonate" feature and set the jailbreak prompt to `{{char}}\n{{user}}` as this is necessary for the proxy to function properly.
+8. Clear the main prompt, NSFW prompt, jailbreak prompt, and impersonation prompt. Then, change the impersonation prompt to "IMPERSONATION_PROMPT" if you'd like to be able to use the "Impersonate" feature and set the jailbreak prompt to `{{char}}|{{user}}` as this is necessary for the proxy to function properly. Optionally, you can add your own text on the second line.
 9. Turn on the "NSFW Toggle" and "Send Jailbreak" settings. You can also enable "Streaming" to have the tokens streamed as they're being completed, but keep in mind this only works with textgenerationwebui and koboldcpp. If you've done your settings correctly, they should look like [this image](https://github.com/anon998/simple-proxy-for-tavern/blob/main/img/settings.png?raw=true).
 10. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI), [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers), or [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases) if you haven't already. If you plan on using KoboldAI, you may need to edit `config.mjs` and set `backendType` to `"kobold"`, otherwise leave it set to `null`.
 11. Load your preferred model and go back to SillyTavern. Click the "Connect" button underneath the "API key." This will prompt SillyTavern to try connecting to the reverse proxy which will then cause the reverse proxy to connect to your backend, which should work successfully.
@@ -71,6 +63,8 @@ WizardLM-7B is a large language model that has been trained using [evolved instr
 1. Download WizardLM-7B either from the [official HF repository](https://huggingface.co/TheBloke/wizardLM-7B-GPTQ) or this [MEGA backup repository](https://mega.nz/folder/IeUgUbaZ#C8Ng-81-DAV_qfWqbVMoEw/folder/ZH9hjbiC). The only difference between the two is that the official HF repository only contains the safetensors file which will not work in KoboldAI, whereas the MEGA repository has the .pt files which will work in both KoboldAI or textgenerationwebui. If you plan on using KoboldAI, you HAVE to use the MEGA repository files.
 	1. Alternatively, you can download and run the [WizardLM-7B installer script](https://files.catbox.moe/a5xk6c.bat). This installer does a majority of the guide for you, including installing KoboldAI, patching WizardLM-7B, and adding the SillyTavern prompt script. After which, you would run KoboldAI using the `play.bat` file that's in the `KoboldAI` folder then follow steps 5, 6, and 10. I don't recommend using this installer as it isn't perfect and it would probably be faster to just follow the guide, but it's an option nonetheless.
 	2. CPU Version: Download WizardLM-7B-GGML from the [official HF repository](https://huggingface.co/TheBloke/wizardLM-7B-GGML).
+!!! note Uncensored WizardLM-7B
+	There's an [uncensored version of WizardLM-7B](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) available to download. Keep in mind, this version only works with textgenerationwebui so if you plan on using KoboldAI you'll have to stick with MEGA repository for the time being.
 2. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI) or [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers). I recommend KoboldAI as it is, in my opinion, faster to setup and noob-friendly, though its outputs can be slower than textgenerationwebui due to its lack of streaming.
 	1. CPU Version: Download and install the latest version of [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases).
 !!! note Having issues with textgenerationwebui? 

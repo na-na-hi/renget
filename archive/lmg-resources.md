@@ -2,11 +2,10 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.12 | Helped Making Waifus Real Since 2023* <-
+->*V 6.13 | Helped Making Waifus Real Since 2023* <-
 ***
-!!! danger The template and resource charts are going to be separate Rentrys. The template page will reside here: https://rentry.org/lmg_template Apologies for the inconvenience 
-!!! note Rentry Updates: 05-08-2023
-     **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** | Couldn't help myself and decided to work on this Rentry again while on break. | The first section: https://rentry.org/lmg-resources#quick-rundown-on-large-language-models is still a working draft. Will finish this section soon. | Fixed most of the charts, only a few remain.
+!!! note Rentry Update: 05-08-2023
+     **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** | The template and resource charts are going to be separate Rentrys. The template page will reside here: https://rentry.org/lmg_template Apologies for the inconvenience  | Couldn't help myself and decided to work on this Rentry again while on break. | The first section: https://rentry.org/lmg-resources#quick-rundown-on-large-language-models is still a working draft. Will finish this section soon. | Fixed most of the charts, only a few remain.
 ***
 [TOC2]
 ***
@@ -16,10 +15,38 @@
 Large language models, such as BERT (Bidirectional Encoder Representations from Transformers) or ChatGPT (Generative Pre-trained Transformer), and LlaMA (Large Language Model Meta AI) are a type of natural language processing (NLP) algorithm designed to understand human language. These models use artificial intelligence techniques like deep learning and neural networks to analyze text data and generate responses based on the context of the input.
 
 ###Quick Newbie Guide to Start Using LLMs:
+**KoboldCPP Method (Updated: 05/09/2023)**
+==Step 1:== Find a [GGML](https://github.com/ggerganov/ggml#readme) model that you want to use and download it. You can scoll down to the model down below or check out this Rentry for the latest and greatest: https://rentry.org/lmg_models You could also use these examples... [Vicuna-13b-cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/blob/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin) (11GB RAM Req.), [Oasst-llama13b-ggml-q4](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main) (10GB RAM Req.), [GPT-J-Janeway-6B-ggml-q5_1](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main) (9GB RAM Req.), [WizardLM-7B-uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) (6GB RAM Req.)
+
+==Step 2:== Get yourself the latest release of [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases). Windows will nag you about some shit about security, just ignore that.
+
+==Step 3:== Once downloaded, launch KoboldCPP.exe by double clicking on it, or run "`KoboldCPP.exe --help`" through CMD prompt to get command line arguments for more control. Some useful flag lines to know are: `--threads` (number of CPU cores), `--stream`, --smartcontext, and `--host` (internal network IP) are useful. `--host` allows use from local network or VPN! `--useclblast 0 0` maps to GPU0 and `--useclblast 1 0` to GPU1. If not, experiment. At start, exe will prompt you to select bin file you downloaded in step 1, newer updates will also provide an easy dialogue box to change clbast and to load your model, so no worries if you're not comfortable with using the command prompt. Be sure to free up enough ram for your model!
+
+==Step 4:==
+Once everything is complete and successfully loaded, KoboldCPP should automatically launch into your browser. If not, just copy the localhost URL from command prompt into your browser. Should you want to exit KoboldCPP, press CTRL-C in the CMD window to stop. 
+
+**Ooba's Text-Gen-WebUI**
+==Step 1:==
+(Insert missing text)
+
+==Step 2:==
+(Insert missing text)
+
+==Step 3:==
+(Insert missing text)
+
+==Step 4:==
+(Insert missing text)
+
+**Troubleshooting**
+==Common Problem #1:(Insert missing text)==
+(Insert missing text)
+
+==Common Problem #2: (Insert missing text)==
 (Insert missing text)
 
 ###QRD History of LLMs:
-You could technically go back to the 1950s with "Symbolic NLP", but that's mostly irrelevant for this introduction guide. What's important is that research and development exploded in the last 10 years with NLP and LLM's. With one of the most important developments done by Google researchers in 2017, they were able to make a huge breakthrough in natural language processing (NLP), released it to the public and named it Transformers (Yes... they named it after Michael Bay's Movie). Not soon after, they quickly became popular in the NLP community because they could process vast amounts of text data much faster than any previous models.  But it wasn't until the last few years that they became good enough to handle complex human language like a native speaker would. Founded in 2015, OpenAI was researching "AI" and NLPs, and with the help of Google's Transformers, they created ChatGPT. It was with the release of their third iteration (GPT-3) that "AI" and LLM's hit mainstream media. Just before then, Microsoft had invested in OpenAI back in 2019. As of recently, and with a lot more private investment from Microsoft, the people behind OpenAI decided to be a little less open, added a bunch of filters to their model and not fully release their models anymore. Around the same time, Facebook was also working on NLP's and LLM's. However, as of last year, their LlaMA models were leaked on the internet started a huge rush on open source "AI" and LLM development. 
+You could technically go all the way back to the 1950's with "Symbolic NLP", but that's mostly irrelevant for this introduction guide. What's important is that research and development has exploded within the last 10 years with NLP and LLM's. With one of the most important developments done by Google researchers in 2017, they were able to make a huge breakthrough in natural language processing (NLP), released it to the public and named it Transformers (Yes... they named it after Michael Bay's Movie). Not soon after, they quickly became popular in the NLP community because they could process vast amounts of text data much faster than any previous models.  But it wasn't until the last few years that they became good enough to handle complex human language like a native speaker would. Founded in 2015, OpenAI was researching "AI" and NLPs, and with the help of Google's Transformers, they created ChatGPT. It was with the release of their third iteration (GPT-3) that "AI" and LLM's hit mainstream media. Just before then, Microsoft had invested in OpenAI back in 2019. As of recently, and with a lot more private investment from Microsoft, the people behind OpenAI decided to be a little less open, added a bunch of filters to their model and not fully release their models anymore. Around the same time, Facebook was also working on NLP's and LLM's. However, as of last year, their LlaMA models were leaked on the internet started a huge rush on open source "AI" and LLM development. 
 
 ###How Large Language Models (LLM) Really Work:
 (Insert missing text)
@@ -29,6 +56,7 @@ You could technically go back to the 1950s with "Symbolic NLP", but that's mostl
 
 ###What do I need to know to "Git Gud"?
 (Insert missing text)
+
 
 ***
 ##->Models, Datasets, Guides & Resources for LMM's<-
@@ -253,6 +281,11 @@ Project & Model Names: | Tags: | Resource Links:
 OG Miku | ◕ | https://pastebin.com/5WVd28Um
 Reverse Miku | (404) | https://pastebin.com/yG6xWMS
 Miku.sh | ◕ | https://pastebin.com/vWKhETWS
+
+##All Other things
+Project & Model Names: | Tags: | Resource Links:
+---|:-:|---
+/lmg/ Baking Template | ◕ | https://rentry.org/lmg_template
 
 ***
 ##->Other Known Places for LLM (ML/AI) Discussions:<-
