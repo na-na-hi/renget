@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/k5UovMM.png)
-Daddy Edition
+![suggested OP image](https://imgur.com/FtajP0u.png)
+Cute Little Monkeys Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>428970319
+Last thread: >>429103328
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,11 +31,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/08) Kobold updates: >>428664559 >>428841081 ; Green Devil out! >>429061348
+\>AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
+(05/08) Kobold updates: >>428664559 >>428841081 ; Green Devil out! >>429061348
 (05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter ; Saga alphas freeform mode >>428651359
 (05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
 (05/01) Neat https://novelai.net/tokenizer ; Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
-(04/27) 2 years later, remember what they took from you. https://i.imgur.com/UjqKQzd.mp4
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks

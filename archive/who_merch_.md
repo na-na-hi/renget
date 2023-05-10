@@ -14,9 +14,25 @@ https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
 If you want to attend the concert without buying a scalped ticket it's probably the last last chance.**
 https://www.ticketmaster.com/event/0A005E712A3809AD
 
+
+##Sold out/ order period ended
+**HoloEN Valentines Merch set**  (Order period ended 20th March 1800 JST, **Situation Voice still available for purchase**)
+https://shop.hololivepro.com/en/products/hololiveen_valentine2023
+
+**Birthday Merch Yr 1** 
+https://shop.hololivepro.com/en/products/nanashimumei_bd2022
+
+**Council First Year Anniversary** 
+https://shop.hololivepro.com/en/products/hololiveen_council_an1st
+
+**Tsukumo Holo Council Merch (Art by Sana)** (Order period started 16th Feb 1200 JST, ended 12th March 2359 JST)
+https://shop.tsukumo.co.jp/features/hololive_english/
+
+**HoloEN Kimono Acrylic stands** (Order period ended 20th Feb 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
+
 **Holo Fes related merch** 
-\(Order period ends 8th May 1800 JST)
----
+- - -
 **Gacha**
 **holo\*27 button badges**
 https://shop.hololivepro.com/en/products/hololive_superexpo2023_holo27?variant=43818745528540
@@ -33,20 +49,3 @@ https://shop.hololivepro.com/en/products/hololive_superexpo2023_chibi_sticker?va
 https://shop.hololivepro.com/en/products/hololive_superexpo2023_chibi_acrylickeychain?variant=43818739335388
 **Acrylic stand**
 https://shop.hololivepro.com/en/products/hololive_3dacrylicstand_bright?variant=43818744348892
-
-##Sold out/ order period ended
-**HoloEN Valentines Merch set**  (Order period ended 20th March 1800 JST, **Situation Voice still available for purchase**)
-https://shop.hololivepro.com/en/products/hololiveen_valentine2023
-
-**Birthday Merch Yr 1** 
-https://shop.hololivepro.com/en/products/nanashimumei_bd2022
-
-**Council First Year Anniversary** 
-https://shop.hololivepro.com/en/products/hololiveen_council_an1st
-
-**Tsukumo Holo Council Merch (Art by Sana)** (Order period started 16th Feb 1200 JST, ended 12th March 2359 JST)
-https://shop.tsukumo.co.jp/features/hololive_english/
-
-
-**HoloEN Kimono Acrylic stands** (Order period ended 20th Feb 1800 JST)
-https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand

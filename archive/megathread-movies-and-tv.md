@@ -19,6 +19,10 @@
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
 - [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)
 
+### 🔗 [BollyMaza](https://ww1.bollymaza.click/)
+- Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
+- [URL Safety Results](https://www.urlvoid.com/scan/bollymaza.click/)
+
 ### 🔗 [butchixanh](https://butchixanh.com/)
 - Take advantage of the most recent news and downloads (*including torrents*) about Korean movies and TV series from 1990 to the present.
 - [URL Safety Results](https://www.urlvoid.com/scan/butchixanh.com)
@@ -38,10 +42,6 @@
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)
-
-### 🔗 [MoviezAddiction](https://m.bloginguru.info/)
-- Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
-- [URL Safety Results](https://www.urlvoid.com/scan/m.bloginguru.info/)
 
 ### 🔗 [NollyVerse](https://www.nollyverse.com/)
 - Intended to cover every movie genre, from Hollywood to Bollywood, Chinese, and Korean films, as well other kind of dramas

@@ -91,10 +91,11 @@ https://rentry.org/meta_bot_list [Foreign Bots]
 https://zoltanai.github.io/character-editor/ 
 
 >OAI fronts
+>Agnai+Tavern guide
+https://rentry.org/Aicg4Retards
 >Tavern
 https://github.com/SillyLossy/TavernAI [Tavern]
 https://rentry.org/sillytermux [Mobile Extras]
-https://rentry.org/Tavern4Retards [Keyshare guide]
 https://github.com/AmmoniaM/Spermack [Ruski Claude]
 >Agnai
 https://agnai.chat/
@@ -185,14 +186,15 @@ A general dedicated to discussion & development of AI Chatbots
 --News here--
 
 ▶Frontends
+▶agnai and tavern guide
+https://rentry.org/Aicg4Retards
 ▶Silly
 silly tavern: https://github.com/SillyLossy/TavernAI
 mobile extras: https://rentry.org/sillytermux
-keyshare guide: https://rentry.org/Tavern4Retards
 ruski claude: https://github.com/AmmoniaM/Spermack
 ▶Agnai
 https://agnai.chat/
-guide: https://rentry.org/agnai_guides
+guides: https://rentry.org/agnai_guides
 ▶Miku
 https://docs.miku.gg/
 https://rentry.org/mikugg

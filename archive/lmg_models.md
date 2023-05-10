@@ -3,6 +3,7 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-10-2023] - Added WizardLM 13B Uncensored
 [05-07-2023] - Added Vicuna 13B Cocktail, bluemoonrp-13b & AlpacaDente2
 [05-05-2023] - Added CPU quantization variation links
 [05-02-2023] - Initial Rentry
@@ -59,6 +60,21 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 # Models/Finetunes/LoRA's
+
+## WizardLM 13B Uncensored (05/10/2023)
+!!! info
+
+	This is WizardLM trained with a subset of the dataset - responses that contained alignment / moralizing were removed. The intent is to train a WizardLM that doesn't have alignment built-in, so that alignment (of any sort) can be added separately with for example with a RLHF LoRA.
+
+	Note that despite being an "uncensored" model, several tests have demonstrated that the model will still refuse to comply with certain requests.
+
+	>Filtering : Light
+
+Model | Type | Download
+--- | --- | ---
+13B GGML | CPU | [Q5](https://huggingface.co/TehVenom/WizardLM-13B-Uncensored-Q5_1-GGML)
+13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g)
+
 
 ## BluemoonRP 13B (05/07/2023)
 !!! info

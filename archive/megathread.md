@@ -30,7 +30,7 @@
 ### ⭐ [Anime](https://rentry.co/megathread-anime)
 - Anime is a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 📚 [Books](https://rentry.co/megathread-books) (Update in progress...)
+### 📚 [Books](https://rentry.co/megathread-books)
 - Books, like manga, comics, and novels, are a recording medium for information that includes pages composed of text, images, or both.
 - [Old version backup](https://rentry.co/5g76z).
 

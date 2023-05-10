@@ -16,39 +16,21 @@ Enjoy.
 
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
 #New Bots
-**Liyna**
-**Tavern Card** https://files.catbox.moe/uthu55.png
-*synopsis*: The hot elf warrior that is relaxing with you on a hot spring after a long day of fighting
-*genre*: dark skin, elf
-![Liyna](https://files.catbox.moe/uthu55.png)
+**Kiran**
+**Tavern Card**
+https://files.catbox.moe/7bbazq.png
+*synopsis* A young bartender you've known for her entire life
+*genre* loli
+![Kiran](https://files.catbox.moe/7bbazq.png)
 
-
-**Nirofeno**
-**Tavern Card** https://files.catbox.moe/3xep35.png
-*synopsis*: The cute god of nature that has taken the form of a little boy, he loves life has been wondering around the forest you happen to be in
-*genre*: shota
-![Nirofeno](https://files.catbox.moe/3xep35.png)
-
-**Nilomana*
-**Tavern Card** https://files.catbox.moe/iqncpo.png
-*synopsis*: The goddess of water and keeper of knowledge has appeared in front of you as you gazed the sea she inhabits. She's taken the form of a lttle girl
-*genre*: loli
-![Nilomana](https://files.catbox.moe/iqncpo.png)
-
-**Nimona**
-**Tavern Card** https://files.catbox.moe/6c8dwc.png
-*synopsis*: The goddess of fire and guardian of the underworld, summoned by (you), Nimona is a fierce and violent warrior that has manifested herself in the form of a little girl
-*genre*: loli, abuse
-![Nimona](https://files.catbox.moe/6c8dwc.png)
-
-**Lynn**
-**Tavern Card** https://files.catbox.moe/lvmr1i.png
-*synopsis*: The 11 year old girl that suffers from terminal leukemia, as her doctor you take care of her in the hospital, be nice to her please, she doesn't have much time left
-*genre*:loli
-![Lynn](https://files.catbox.moe/lvmr1i.png)
+**Alejandra Mendoza**
+**Tavern Card**
+https://files.catbox.moe/0gkive.png
+*synopsis*: spanish speaking child prostitute that is offering a gringo her services
+*genre*: loli, Spanish speaking 
+![Aleja](https://files.catbox.moe/0gkive.png)
 
 # OC Bots:
-
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE
 **Tavern Card** https://files.catbox.moe/6o3c5j.png
 **NSFW Tavern Card** - https://files.catbox.moe/03dnf5.png
@@ -104,6 +86,36 @@ Yes, this is a bot based on me
 *genre*: Toddler, baby
 *synopsis*:The 9 month old you were tasked to take care of for the afternoon
 ![Eliza](https://files.catbox.moe/l5f8mp.png)
+
+**Liyna**
+**Tavern Card** https://files.catbox.moe/uthu55.png
+*synopsis*: The hot elf warrior that is relaxing with you on a hot spring after a long day of fighting
+*genre*: dark skin, elf
+![Liyna](https://files.catbox.moe/uthu55.png)
+
+**Nirofeno**
+**Tavern Card** https://files.catbox.moe/3xep35.png
+*synopsis*: The cute god of nature that has taken the form of a little boy, he loves life has been wondering around the forest you happen to be in
+*genre*: shota
+![Nirofeno](https://files.catbox.moe/3xep35.png)
+
+**Nilomana*
+**Tavern Card** https://files.catbox.moe/iqncpo.png
+*synopsis*: The goddess of water and keeper of knowledge has appeared in front of you as you gazed the sea she inhabits. She's taken the form of a lttle girl
+*genre*: loli
+![Nilomana](https://files.catbox.moe/iqncpo.png)
+
+**Nimona**
+**Tavern Card** https://files.catbox.moe/6c8dwc.png
+*synopsis*: The goddess of fire and guardian of the underworld, summoned by (you), Nimona is a fierce and violent warrior that has manifested herself in the form of a little girl
+*genre*: loli, abuse
+![Nimona](https://files.catbox.moe/6c8dwc.png)
+
+**Lynn**
+**Tavern Card** https://files.catbox.moe/lvmr1i.png
+*synopsis*: The 11 year old girl that suffers from terminal leukemia, as her doctor you take care of her in the hospital, be nice to her please, she doesn't have much time left
+*genre*:loli
+![Lynn](https://files.catbox.moe/lvmr1i.png)
 
 **Luìneäftxäi**
 **Tavern Card** https://files.catbox.moe/xk7pux.png
