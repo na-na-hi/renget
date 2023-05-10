@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Moscow May 9th celebrations go off with a bang
+https://files.catbox.moe/qeprry.mp4
 >Hohol squatters evicted by Wagner
 https://files.catbox.moe/36mwqp.mp4
 >T-80BVM 60th Independent Motorized Rifle Brigade destroyed an AFU tank

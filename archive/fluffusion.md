@@ -10,6 +10,7 @@ Fluffusion is a 640 base resolution model with aspect ratio buckets, Clip Skip 2
 ###r1:
 * csv https://cdn.discordapp.com/attachments/315121916199305218/1093975936577319044/fluffusion_r1_tags.csv
 
+* e18 https://pixeldrain.com/u/dH1eiuxr
 * e17 https://pixeldrain.com/u/1m6CePiN
 * e16 https://pixeldrain.com/u/dRKesvN3
 * e15 https://pixeldrain.com/u/Te9xL1wA (Now in safetensors!)

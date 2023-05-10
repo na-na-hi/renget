@@ -1,162 +1,322 @@
-![Shiroko](https://i.imgur.com/PeKxtXl.png)
+#LAZY TRAINING GUIDE
+->==This guide will walk you through setting up your Kohya script, pointing it to your NovelAI model, setting up your args.py, curating your dataset, training your LORA and generating your LORA. It is a step-by-step made for lazy people.==<-
 
-# LAZY TRAINING GUIDE
+->==These are baseline settings and can be tweaked depending on whatever LoRA you want to make. I personally find these settings useful for generating simple characters==<-
 
-**PREFACE**
+# Step 1
 
-I have seen a few comments over the last few days relating to 16e-5 being a bad training setting. To quote the great Baroke Obammer, 'Uh, let me be clear', I am aiming for a 90% character accuracy with the ability to completely morph outfits, poses, and produce NSFW content WITHOUT the need to train it into the LORA itself. I am lazy. All of the example images in this guide unless specified are trained on 16e-5.
+If you already have the NAI model, you can skip this step. This is purely for training.
 
-The example Shiroko LORA was trained EXCLUSIVELY on her swimsuit outfit. As you can see, you can change her clothes just fine.
+First, download the NAI model via the below magnet link. Copy and paste the link into your address bar:
 
-What does it mean to go for 100% character accuracy? Most of the time, it will stick on aspects of the training data and make it inherent to the character, disallowing the switching of outfits, nudity or poses. I guarantee that the majority of the gorgeous character LORAs you see on most repos with high fidelity are mostly rigid, or you'll need to gacha your gens with forced tagging, leading to its own set of problems.
+magnet:?xt=urn:btih:5bde442da86265b670a3e5ea3163afad2c6f8ecc
 
-If you want an exact recreation of a character, use a slower learning rate and up your epochs. 1e-4 LR, set epochs higher and set 'save_every_n_epochs' to 1 (allowing you to spit out multiple epochs at a time for testing) seems to be popular. You could also scour some LORA repos and copy settings from your favorites. The best way to train new outfits etc. into your crispy LORA will be to set new concept folders with new outfits, expressions etc. and **TAG THEM WELL** or they won't work.
+![Step 1](https://i.imgur.com/OygwIAy.png)
 
-cont.
-
-**UPDATE**
-
-With the introduction of https://github.com/derrian-distro/LoRA_Easy_Training_Scripts/releases/tag/installers-v5 it is now easier than ever to move over to the new, updated script. This is functionally exactly the same, save for the introduction of restarts actually working for 'cosine_with_restarts', along with the 'alpha' setting. I would suggest using this new script from now on.
-
-Once installed, open your script in a text editor
-
-Set up the script to point to your folders (self-explanatory within the script itself)
+You only need 'animefull-final-pruned'. 'animevae' is the base NAI vae, and is useful for a neutral vae when testing your LoRA.
 
 
-**UPDATE**
-
-Thanks to 
-https://rentry.org/beginners-lora-training-params#learning-rates-learning-rate-text-encoder-learning-rate-unet-learning-rate 
-https://rentry.org/lora-training-science
-
-anon for the info
-
-See also
-https://rentry.org/LoRA-Explained-by-ChatGPT
 
 
-More testing will be required, but it seems that the settings:
-
->unet lr = 8e-5 * 2 = 16e-5
->text lr = 1.5e-5 * 2 = 3e-5
->learning rate = unet lr
-
-Are yielding superior results.
-
-If you're looking for more detail with possibly slightly more overfitting, you can use something similar to 
-
->unet lr 1.5e-5 to 6e-5
->text lr 6e-5 to 8e-5
-
-If you don't care as much about overfitting but still want a bit of flexibility, I've played around with 
-
->unet lr 3.5e-4
-
-With lower folder repeats which works pretty well.
-
-**NOTICE REGARDING EPOCHS**
-
-Epochs can be used to generate snapshots of your LORA during training. What this means is that if you set your epochs to 8, and then save every 1 epoch, you will create 8 versions of your LORA. This is obviously fantastic for testing purposes, and with the introduction of the newer script and faster epochs, you can go as high as you want. Obviously this will mean that it will bake your LORA up to the final epoch and os it will take longer, so keep in mind that you probably don't need to go over 4-6 unless you're baking a higher fidelity LORA or a concept.
-
-Use these settings on the script. Simply copy and paste over the default settings, ensuring that you copy over the correct settings. Remember to amend the file paths. It is my understanding that you can change 'batch size' up or down depending on your VRAM with no noticeable impact to the final generation, but this has not been extensively tested. You can leave everything else:
-
-        self.base_model: str = r"YOUR MODEL HERE"  # example path, r""
-        self.img_folder: str = r"YOUR IMAGE FOLDER HERE"  # is the folder path to your img folder, make sure to follow the guide
-                                    # here for folder setup: https://rentry.org/2chAI_LoRA_Dreambooth_guide_english#for-kohyas-script
-        self.output_folder: str = r"YOUR OUTPUT FOLDER HERE"  # just the folder all epochs/safetensors are output
-        self.change_output_name: Union[str, None] = "YOUR OUTPUT NAME HERE" # changes the output name of the epochs
-        self.save_json_folder: Union[str, None] = None  # OPTIONAL, saves a json folder of your config to whatever location you set here.
-        self.load_json_path: Union[str, None] = None  # OPTIONAL, loads a json file partially changes the config to match.
-        self.json_load_skip_list: Union[list[str], None] = None  # OPTIONAL, allows the user to define what they skip when loading a json,
-                                                                 # IMPORTANT: by default it loads everything, including all paths,
-                                                                 # format to exclude things is like so: ["base_model", "img_folder", "output_folder"]
-        self.multi_run_folder: Union[str, None] = None  # OPTIONAL, set to a folder with jsons generated by my script and it will begin training using those scripts.
-                                                        # keep in mind, it will ignore the json_load_skip_list to ensure that everything gets loaded.
-                                                        # IMPORTANT: This will also ignore all params set here and instead use all params in the json files.
-        self.save_json_only: bool = False  # set to true if you don't want to do any training, but rather just want to generate a json
-
-        self.net_dim: int = 128  # network dimension, 128 is the most common, however you might be able to get lesser to work
-        self.alpha: float = 128  # represents the scalar for training. the lower the alpha,
-                                # the less gets learned per step. if you want the older way of training, set this to dim
-        # list of schedulers: linear, cosine, cosine_with_restarts, polynomial, constant, constant_with_warmup
-        self.scheduler: str = "cosine_with_restarts"  # the scheduler for learning rate. Each does something specific
-        self.cosine_restarts: Union[int, None] = 3  # OPTIONAL, represents the number of times it restarts. Only matters if you are using cosine_with_restarts
-        self.scheduler_power: Union[float, None] = 1  # OPTIONAL, represents the power of the polynomial. Only matters if you are using polynomial
-        self.warmup_lr_ratio: Union[float, None] = 0.1  # OPTIONAL, Calculates the number of warmup steps based on the
-                                                         # ratio given. Make sure to set this if you are using
-                                                         # constant_with_warmup, None to ignore
-        self.learning_rate: Union[float, None] = 16e-5  # OPTIONAL, when not set, lr gets set to 1e-3 as per adamW. Personally, I suggest actually setting this as lower lr seems to be a small bit better.
-        self.text_encoder_lr: Union[float, None] = 3e-5  # OPTIONAL, Sets a specific lr for the text encoder, this overwrites the base lr I believe, None to ignore
-        self.unet_lr: Union[float, None] = 16e-5  # OPTIONAL, Sets a specific lr for the unet, this overwrites the base lr I believe, None to ignore
-        self.num_workers: int = 1  # The number of threads that are being used to load images, lower speeds up
-                                   # the start of epochs, but slows down the loading of data. The assumption here is
-                                   # that it increases the training time as you reduce this value
-        self.persistent_workers: bool = True  # makes workers persistent, further reduces/eliminates the lag in between epochs. however it may increase memory usage
-
-      self.batch_size: int = 2 # The number of images that get processed at one time, this is directly proportional
-                                  # to your vram and resolution. with 12gb of vram, at 512 reso, you can get a maximum of 6 batch size
-        self.num_epochs: int = 6  # The number of epochs, if you set max steps this value is ignored as it doesn't calculate steps.
-        self.save_at_n_epochs: Union[int, None] = 1  # OPTIONAL, how often to save epochs, None to ignore
-        self.shuffle_captions: bool = False  # OPTIONAL, False to ignore
-        self.keep_tokens: Union[int, None] = 1  # OPTIONAL, None to ignore
-        self.max_steps: Union[int, None] = None  # OPTIONAL, if you have specific steps you want to hit, this allows you to set it directly. None to ignore
-
-**NOTE**
-
-It is the opinion of many that training at 768 will increase LORA quality. While this may be the case, I have yet to see substantial evidence that it is ENOUGH of a quality increase to justify bumping down batch size and thus increasing training time. If you do want to change this, change the resolution settings to the below:
-
-        self.train_resolution: int = 768
-        self.min_bucket_resolution: int = 768
-        self.max_bucket_resolution: int = 768
-
-If you get CUDA errors, reduce batch size.
-
-I will personally continue to train at 512
 
 
-![Shiroko](https://i.imgur.com/wA4iNIY.png)
-![Shiroko](https://i.imgur.com/Nu1uyXn.jpg)
-![Shiroko](https://i.imgur.com/vevNJOm.jpg)
-![Shiroko](https://i.imgur.com/o7yl7MF.png)
 
-Thus we will stay with cosine_with_restarts
+# Step 2
 
-*cont.*
+Install the easy training scripts via 
 
-If you don't already have it, download the dataset tag editor via extensions in the web ui and install from URL ->
+https://github.com/derrian-distro/LoRA_Easy_Training_Scripts/releases/tag/installers-v6
 
-https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
+You only need the installer.py
 
-Download https://github.com/Bionus/imgbrd-grabber - open 'downloads', input your Danbooru tags. You can then download however many images you want. You will then need to get rid of images with undesirable qualities, such as extra characters, poor art quality etc. 
+![Step 2](https://i.imgur.com/3RVlMMU.png)
 
-FOR EXAMPLE - in Grabber download, next to tags -> shiroko_(blue_archive) 1girl - Image limit '150'.
+To do this, simply create a folder wherever you'd like, place the installer.py in the folder, and run it.
 
-Open the tag editor, paste your dataset directory of images in the field, tick 'Overwrite' in 'Use Interrogator Caption' and tick 'Use WDv1.4 Tagger'.
+![Step 3](https://i.imgur.com/e9ENFPn.png)
 
-Click 'Load'.
+Install Torch 2.1.0 when prompted
+Install triton build
+Install the optional cudnn patch
 
-Click on 'Batch edit captions' and tick 'Prepend additional tags'.
+![Step 4](https://i.imgur.com/GeTInC5.png)
 
-In 'Edit tags', type in what your character is called. This is so you can call them in the tags later i.e.: Shiroko
+Once installed, you'll have the 'LoRA_Easy_training_Scripts' folder. Open it.
 
-Next, click the 'remove' tab and sort by frequency. Remove tags inherent to the character, such as eye color, animal ears, hair color, hair style etc.
 
-Click 'save all changes' on the top left.
 
-Place the images and text files with tags in your script image repeat folders.
 
-Run 'run_command_line.bat' to run your script.
 
-*Notice* - With the introduction of faster epochs, you can disregard folder repeats a bit more than before. I would still suggest a few less epochs and some repeats, but you can now get away with higher epochs with lower repeats, which will create more snapshots for you to test your LORA. If your LORA is underbaked, use a higher epoch, if overbaked, use lower etc.
 
-This will spit out your LORA, and the first epoch of your LORA. 99% of the time  the second epoch is the best version, with the first epoch being for testing to see whether you overcook it.
+#Step 3
 
-With this method, none of your LORAs should cook, and you will get good, consistent quality.
+Right click your 'ArgsList.py' and open it in notepad.
 
-Below are 130 images running at 5 repeats (on the folder), totalling around 900 steps each at batch 2. Note that details such as the character's halo is gacha. The best way to fix this is by re-baking the LORA with another folder at lower repeat steps with detailed, in-focus and well-tagged aspects you want to show up, i.e. download 20 images of the halo, set the repeats to 2-3 along with 5 repeat folder containing the base training images:
+![Step 5](https://i.imgur.com/FjM1mMk.png)
 
-Tags in order:
+It will look like this. Don't be frightened, there are only a few things we need to change from the get-go to train your first LoRA. 
 
->1girl, shiroko, grey hair, blue eyes, short hair, animal ears, street, embarrassed, hair ornament, halo, swimsuit, beach
+![Step 6](https://i.imgur.com/cJ9notB.png)
 
-![Shiroko](https://i.imgur.com/9ucx5UC.png)
+Firstly, create a folder wherever you'd like, probably within the scripts folder, and name it 'Training Dataset' or something similar. 
+
+Open https://files.catbox.moe/7usa2j.py - This can be used interchangeably with your own ArgsList. You can simpy copy and paste all of this info into your own ArgsList file, or manually amend it. These are baseline settings that I have saved to create a character LoRA.
+
+Change your base_model, img_folder and output_folder paths.
+
+*self.base_model: str = r"C:\Users\me\Desktop\New folder\stable-diffusion-webui\models\Stable-diffusion\model.ckpt"* - NAI model
+*self.img_folder: str = r"C:\Users\me\Desktop\EasyTraining V6\LoRA_Easy_Training_Scripts\Training"* - Image dataset
+*self.output_folder: str = r"C:\Users\me\Desktop\New folder\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora"* - LoRA folder
+
+These are dependent on where your files are. Simply copy and paste the address from file explorer into the notepad doc, amending the defaults.
+
+Explanations of the important parts, going down the list:
+
+        self.scheduler: str = "cosine_with_restarts"
+
+We want to keep the scheduler as cosine_with_restarts for now. This enables cosine, and the ability to set restarts (restarting the training from scratch on a certain epoch). This allows your LoRA to continue training without overfitting too quickly. 
+
+        self.cosine_restarts: Union[int, None] = 5  # OPTIONAL, represents the number of times it restarts.
+
+As a personal preference, I like to set my restarts to 10% of my epoch count. For this purpose, it will be 5 restarts, epoch 50.
+
+        # learning rate args
+        self.learning_rate: Union[float, None] = 1.6e-4  # AdamW does not require this, some other optimizers do.
+        self.unet_lr: Union[float, None] = 1.6e-4  # OPTIONAL, Sets a specific lr for the unet, this overwrites
+        # the base lr in AdamW
+        self.text_encoder_lr: Union[float, None] = 6.5e-5  # OPTIONAL, Sets a specific lr for the text encoder,
+        # this overwrites the base lr in AdamW
+
+Typically I like to keep the LR and UNET the same. The higher the learning rate, the slower the LoRA will train, which means it will learn more in every epoch. I like to keep this low (around 1e-4 up to 4e-4) for character LoRAs, as a lower learning rate will stay flexible while conforming to your chosen model for generating. 
+
+The text encoder can be kept at 6.5e-5 up to 9.5e-5. If the text encoder is set too high, the LoRA will not conform to the model as well, and it will start to oversaturate your images once you start generating.
+
+        self.net_dim: int = 32  # network dimension, 32 is default, but some people train at higher dims
+        self.alpha: float = 16  # represents the scalar for training. default is half of dim.
+
+You can set these higher depending on your needs. For example, 128/128 dim/alpha will saturate your gens with more of the styling from your image dataset. This is useful for things like artist and style LoRAs, but less desirable for characters and concepts. 
+
+        self.train_resolution: int = 512
+
+You can set this as high as 768. You will need to reduce the batch size to compensate for the use in VRAM. I have personally not noticed a huge difference in image quality, but your mileage may vary. I keep this at 512 most of the time.
+
+        self.batch_size: int = 2  # The number of images that get processed at one time, this is directly proportional
+        # to your vram and resolution. with 12gb of vram, at 512 reso,
+        # you can get a maximum of 6 batch size
+
+As a standard, I have kept this at batch 2. Higher batch sizes require more VRAM. For example, a 3060 can hit batch 6. There is varying information of how this affects your LoRA. From my experience it's safest just to pick one batch size and amend your training settings dependent on the finished LoRA. It is a factor, but not impactful enough to change every time you want to make a new LoRA. For this example, I will be using 202 images. Each epoch will train once on each image, and go up an epoch. This will keep training until it hits 50 epochs and spits out the finished LoRA. 
+
+
+
+        self.clip_skip: int = 2  # If you are training on a model that is anime based,
+        # keep this at 2 as most models are designed for that
+
+As a rule, NAI-based models = Clip 2
+SD-based models = Clip 1
+
+        # steps args
+        self.num_epochs: int = 50  # The number of epochs, if you set max steps this value is
+        # ignored as it doesn't calculate steps.
+        self.save_every_n_epochs: Union[int, None] = 5  # OPTIONAL, how often to save epochs, None to ignore
+
+We will be setting image repeats to 1, so I have kept epochs high to compensate. Higher epochs will mean longer training and more steps. Setting the 'self.save_every_n_epochs' to 5 will save every 5 epochs. This will simply save your LoRA every 5 epochs, and will let you pick the sweet spot where your LoRA is cooked to your liking. You will need to set epochs higher or lower depending on the amount of images you have in your dataset. 
+
+        self.buckets: bool = True
+        self.min_bucket_resolution: int = 320
+        self.max_bucket_resolution: int = 1280
+        self.bucket_reso_steps: Union[int, None] = 64  # is the steps that is taken when making buckets, can be any
+
+From what I understand, bucketing will take snapshots of your image up to your max resolution (assuming the image is above 512). I've seen no consensus on whether setting the max resolution too high creates latent space i.e. white noise/snapshots of unusable data, so I keep it at 1280 as a middle ground.
+
+These are the primary things you'll be changing around once you're more comfortable with what kind of LoRA you want to train, and the datasets you train them on.
+
+
+
+
+
+
+#Step 4
+
+Now you need to curate your dataset. We're going to scrape danbooru & gelbooru using hydrus. This will download images using the given booru tags. For this example, I'm going to be downloading images tagged 'irene_(kanniiepan)'. You can use whatever tags you want, as this will be the dataset for your LoRA. 
+
+https://github.com/hydrusnetwork/hydrus/releases/tag/v526
+
+Install the latest build of Hydrus via the .exe installer (assuming you're on Windows).
+
+Open the hydrus client.
+
+![Step 7](https://i.imgur.com/xrusRGG.png)
+
+Next, click 'pages' on the top left and click 'pick a new page'.
+
+![Step 8](https://i.imgur.com/4Ph4NpX.png)
+
+Click 'download'.
+
+![Step 9](https://i.imgur.com/DZzK5T4.png)
+
+Click 'gallery'.
+
+![Step 10](https://i.imgur.com/btLGHjc.png)
+
+You now have the gallery download function open.
+
+![Step 11](https://i.imgur.com/8Ny6rQ8.png)
+
+Click on 'safebooru tag search' under the 'search tags' bar and select 'danbooru & gelbooru tag search' in the 'select gallery' menu.
+
+![Step 12](https://i.imgur.com/sYksGfK.png)
+
+Put your tags into the 'search tags' bar. These will be the tags the scraper will use to determine which images to download.
+
+![Step 13](https://i.imgur.com/EQhRQrE.png)
+
+Press enter on your keyboard. This will start downloading your images. You can view the progress via the bars on the left. 
+
+![Step 14](https://i.imgur.com/DD8qkRx.png)
+
+We now have a dataset, assuming your tags were what you were looking for.
+
+![Step 15](https://i.imgur.com/IsRjF6m.png)
+
+Next, click 'pages' on the top left again, 'pick a new page', select 'special' and 'duplicates processing'
+
+![Step 16](https://i.imgur.com/e9ekpuP.png)
+
+On the left you will see the 'preparation (needs work) tab'. I typically leave this as default, as it works well. Click the play button.
+
+![Step 17](https://i.imgur.com/bOB5pzu.png)
+
+Click the 'filtering' tab and click 'launch the filter.
+
+![Step 18](https://i.imgur.com/VHgfrMv.png)
+
+You will now be greeted by the filter screen. This should be self-explanatory using the buttons on the right. Tell it if it's a duplicate image (you can use the arrow keys to flick between the 2 images) or that they're related alternatives etc. Keep doing this until you've gone through every duplicate and you're satisfied.
+
+![Step 19](https://i.imgur.com/YgKiz9h.png)
+
+Once that's done, you can click on 'pages', 'pick a new page', 'file search', 'my files'.
+
+![Step 20](https://i.imgur.com/ovIfwKq.png)
+
+We now have our dataset. It's up to you to skim through it and see if there's anything you don't like. 
+
+If there are any images with text that you don't want, censor bars or anything else undesirable that would be fixable, you can use lama-cleaner
+
+https://github.com/Sanster/lama-cleaner
+
+You can simply run
+
+pip install lama-cleaner
+lama-cleaner --model=lama --device=cpu --port=8080
+
+Via Powershell. This will allow you to open lama-cleaner via localhost and drop images into the window. You can then use the tool to very simply go over any undesirable content (hold ctrl to paint multiple lines). This is an extremely useful tool, and it works exceptionally well to remove things like text and censor bars. This is overall unecessary if you already have a clean dataset, but it's there if necessary.
+
+In the training folder you created earlier, where you will be putting your images, go into the folder and create a new folder. Ensure that the start of the folder is '1_'. For this example, mine is set to '1_Irene'. The '1_' denotes the amount of repeats on that specific folder.
+
+Place your images inside that folder. You can highlight all in Hydrus (ctrl+a) and drag them in.
+
+![Step 21](https://i.imgur.com/KUVIvrj.png)
+
+You now have your images.
+
+
+
+
+
+
+#Step 5
+
+Open stable diffusion.
+
+Open 'Extensions' and install https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor from URL. Reload your UI.
+
+![Step 22](https://i.imgur.com/EQfXgh3.png)
+
+This is the tagger. It will interrogate your dataset and apply tags to them.
+
+Paste the link to your dataset in the 'Dataset directory' bar. If you have multiple folders with images, paste the base 'Training' folder and tick 'Load from subdirectories'. 
+
+'Use Interrogator Caption' set to 'Overwrite'
+Select interrogator 'wd-v1-4-swinv2-tagger-v2'
+
+Click 'Load'
+
+![Step 23](https://i.imgur.com/tLewAxo.png)
+
+We now have our images loaded, with the generated captions on the right.
+
+![Step 24](https://i.imgur.com/Nwt6iMM.png)
+
+Click on 'Batch Edit Captions', 'Search and Replace'. 
+
+In the 'Edit Tags' bar, set your activation tag. This personally doesn't seem to do much to me, but everyone uses them so may as well. I'd recommend setting it to something the model probably hasn't been trained on i.e. 'TIML'. Up to you. I'll be setting mine to 'Irene'. Prepend additional tags should be ticked.
+
+This will also let you add your own manual tags. For example, if you have a concept folder for 'sitting', you can add the 'sitting' tag to every single image. Tagging is EXTREMELY important, so make sure your tags are in order. 
+
+On the bottom of Search and Replace, put an underscore in the Search Text and a single space in the Replace Text. Click 'Each Tags'. Click 'Search and Replace'. This will remove the underscores from your tags.
+
+![Step 25](https://i.imgur.com/NFe9i08.png)
+
+![Underscores](https://i.imgur.com/aJ3dzn4.png)
+
+Click on the 'Remove' tab. I'd recommend clicking 'Remove duplicate tags' to ensure your tags are OK.
+
+We can see that 'Irene' has been added to the dataset as a tag. I have left all other tags alone.
+
+When done, click 'Save all changes'.
+
+![Step 26](https://i.imgur.com/1eyB2bn.png)
+
+Navigate back to your training folder. All of your images should be associated with .txt files with identical names. Make sure the tags look OK. I typically skim a few.
+
+![Step 27](https://i.imgur.com/G9D75sg.png)
+
+Our dataset is now complete.
+
+
+
+
+#Step 6
+
+In your EasyTraining V6 folder with your scripts, your ArgsList.py will execute after run_command_line.bat is run. 
+
+This will train at 1.6e-4 for 50 epochs at batch 2, as specified above in the args file. For this test, we're going to be training for more steps than necessary. The simple rule is that you can pick a lower epoch, but you can't keep training once it's done, so it's best to settle on training for however long you're comfortable with. On batch 2, a character LoRA is probably pretty good after anywhere from 1,000 to 2,000 steps. This can change wildly depending on the complexity of the character, whether it conforms to the model you're generating on etc. 
+
+For concepts, whether something will take longer or shorter to train depends on how well the model conforms to that specific concept. Some concepts will train well in 600 steps, some will train well in 10,000 and require the LoRA strength lowering when generating.
+
+Style/artist LoRAs are typically pretty easy to train, especially if on 128/128 dim/alpha, as a lot of the styling will bleed from the dataset into the LoRA. Since your dataset should be a consistent art style, even training at 32/16 should yield pretty quick results. 
+
+Since we have our dataset and our training parameters in order, you can click the .bat file. 
+
+![Step 28](https://i.imgur.com/Kpqcltz.png)
+
+Once this runs, we can see that our buckets are in order
+
+![Step 29](https://i.imgur.com/F7ZXqa1.png)
+
+We can now see the total number of epochs and the steps. I like to ignore any errors that don't stop the LoRA from training, because I have no idea what they mean.
+
+Your training time, iterations and loss will start to change until they settle into a sweet spot.
+
+![Step 30](https://i.imgur.com/BMr7dFn.png)
+
+Wait for it to train. Once complete, it will spit out your LoRA and every epoch you've saved.
+
+![Step 31](https://i.imgur.com/h4lqCWT.png)
+
+You can now generate with your LoRA on your preferred model. Be sure to use tags in your .txt file. For example, if your character has black hair, use the tag 'black hair'.
+
+Here is an example of our finished LoRA, generated on AOM2_nsfw on Karras, CFG 7.5, 512x768 upscaled by 2.
+
+At this point it's up to you on which epoch is best. If none of them are good enough, there are a few things you can try.
+
+Note the gradual loss of model conformity as we go up the epochs. More training = more of the dataset bleeding into the model. 
+
+![Step 32](https://i.imgur.com/jE9X6Pk.jpeg)
+
+If your LoRA is 'underfit' i.e. your character isn't showing up, the details aren't coming through etc. you will either need to train for longer, or increase the training rate.
+
+If your LoRA is 'overfit' i.e. it is a garbled mess of artifacting, saturation etc. you either need to go down a few epochs or reduce the training rate. 
+
+![Fin](https://i.imgur.com/V4s5clw.png)

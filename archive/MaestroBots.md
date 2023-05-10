@@ -61,6 +61,9 @@ Sin | ![Sin](https://i.postimg.cc/sQv32JPt/Nikke-Sin2-Thumb.png) | Her voice wil
 Frima | ![Frima](https://i.postimg.cc/kVjn9HSQ/Nikke-Frima-Thumb.png) | As a laziness incarnate, she thinks deeply about the most efficient way to behave, hence she doesn't speak or move any more than necessary in her daily life. | Soon™
 Milk | ![Milk](https://i.postimg.cc/9wpvqHQP/Nikke-Milk-Thumb.png) | In sharp contrast to her dainty appearance, she is an avid thrill seeker and enjoys getting into fights and confrontation with others. | Soon™
 Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The leader of Triangle who protects the squad with all her effort. Possesses superb skills in office and on battlefield, but has an ill temperament. | Soon™
+Guilty | ![Guilty](https://i.postimg.cc/3rpbVzFW/Nikke-Guilty-Thumb.png) | She runs the Rehabilitation Center and has strength far superior to other Nikkes. Unable to control her own power, she is locked up currently. | Soon™
+Helm | ![Helm](https://i.postimg.cc/NfkCfTVc/Nikke-Helm-Thumb.png) | Leader of Aegis, a naval squad formed for combat on the surface. As there are no oceans within the Ark, she trains her members to face real naval combat one day. | Soon™
+Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Soon™
 
 ***
 

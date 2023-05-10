@@ -442,3 +442,19 @@ Despite my lack of skill, I found myself enjoying the game. It was a refreshing 
 As we walked to Razina's house, she told me more about the sand people's culture and traditions. She talked about their history, their magic, and their unique way of life. I listened intently, fascinated by everything she had to say.
 
 When we arrived at her house, Razina prepared a delicious meal for us. We ate and talked for hours, and I felt a sense of comfort and belonging that I hadn't experienced in a long time. For the first time since I arrived in this strange land, I finally felt like I had found a home.
+
+>022: THE SAND WARRIORS
+
+As I watched Razina's friends demonstrate their impressive abilities, I couldn't help but feel awestruck. Rebel merged with the sand, and it flowed around her body like a river, responding to her every command. She seemed to disappear, only to reappear moments later, popping up in different places within the sandstorm.
+
+Oliya, on the other hand, had superhuman speed. She was faster than any Kash'gon I had ever seen before. But what surprised me even more was her ability to control the sandstorm, directing it to her will. The way she moved through the wind and sand was graceful, like a dance.
+
+As for Razina, she was a talented sword wielder. Her sword was long and pointy, and it gleamed in the sun. I could tell from the way she held it that she had years of training under her belt. She swung the sword around, slicing the air with ease. I was amazed at how she could cut even rocks with her sword.
+
+I couldn't help but wonder who their enemies could be. It seemed like the Sand People had mastered the art of warfare and magic. But I didn't want to ask, I just wanted to enjoy the spectacle.
+
+After the showcase, Razina invited me to her house for dinner. Her house was made of sandstone, and it blended in perfectly with the surrounding desert. Inside, the walls were decorated with colorful tapestries and paintings of sand dunes and camels.
+
+We sat down on a mat, and Razina brought out some food. The aroma of the spices filled my nose, and my mouth began to water. We talked and laughed as we ate, and I felt like I was part of the Sand People's community. They were so welcoming, and I couldn't help but feel grateful to be there.
+
+As the night went on, I began to feel a sense of belonging. It was strange to feel so at home in a place that was so foreign to me. But the Sand People had a way of making you feel like you were part of something bigger than yourself. I couldn't wait to see what other adventures awaited me in this fascinating world.

@@ -273,11 +273,17 @@ And switch to **Placement tab**-\> Enable **Cascading Activation**.
 Then, we make Relation category
 Like original steps, but uses term *'Relations'* in Prefix, Insertion Order as `450`.
 
-The entry should look like this:
+Finally, you should make an entry in the following format:
 > **Vin** and **Reen**: Their relationship is odd. Reen helps Vin willingly but she always whines about Reen helping her despite asking for it.
 Key: `/(?=.*?\b(Vin)\b)(?=.*?\b(Reen)\b)/si`
  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎^ You see?
 You use this exact format of key, names in () can be wrote interchangeably. (Learn Regex more at 'Special Keys' section, as well as troubleshooting, like excessive highlighting.)
+
+Once you properly set it up, it'll look something like this:
+==Glossary:  
+‎ ‎ ‎ ‎ • Relations: What people mean to each other and how they interact.== 
+==Relation:  
+‎ ‎ ‎ ‎ • Vin and Reen: Their relationship is odd. Reen helps Vin willingly but she always whines about Reen helping her despite asking for it.==
 
 ---
 

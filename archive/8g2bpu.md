@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Gus wearing a comically large cowboy hat
+
 Chespin having a quickdraw showdown with Charm. Wooper is Chespin's 'gun' in this case.
 
 Cheerleader Booker

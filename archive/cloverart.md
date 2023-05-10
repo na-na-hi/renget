@@ -245,11 +245,15 @@
 #####Sussy Elm
 ![Sussy Elm](https://i.imgur.com/s1BS4hC.png)
 #####Therapy
-![Therapy](https://i.imgur.com/YEnXuBI.png)
+![Therapy](https://i.imgur.com/cZhsfTc.png)
 #####Anon Doesn't Think You're Cute
 ![Anon Doesn't Think You're Cute](https://i.imgur.com/BXprz3u.png)
 #####Booker Gets Trolled - Elm Edition
 ![Booker Gets Trolled - Elm Edition](https://i.imgur.com/8iUHYef.png)
+#####Ross Loss (of Sleep)
+![Ross Loss](https://i.imgur.com/6G14Pwn.png)
+#####Ross but Cursed
+![Hey Ross, remember that time you were in the CLover Guild?](https://i.imgur.com/1oDeQ1N.png)
 ####Growlithe-anon's Graphics
 #####Clover of Future Past
 ![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)
