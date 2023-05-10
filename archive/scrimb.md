@@ -5,7 +5,7 @@
 [BD-214](https://beta.character.ai/chat?char=NHuj6fWYippoczKTOFOzr-o0IZD_0cM54d_K0vpr3Lc) https://files.catbox.moe/63sr3v.png
 [BD-404](https://beta.character.ai/chat?char=FrS8t2F24gyX6j3QTtTR-ui9eefSkh5kg4QqI9RFUyc) https://files.catbox.moe/r948e3.png
 [???](https://beta.character.ai/chat?char=3q48x2_OBIdbQaT4YA9F8YfA2W_cBhBieGFd0jmY--I)
-BD-303: soon™
+[BD-303](https://beta.character.ai/comms?char=qOBVurCWOAur9AfshBEWpvLF7EQhB0qjisA4jd0Vli4) https://files.catbox.moe/qsbai1.png
 
 **Kreepy Kuntz:**
 [Ed Masters](https://beta.character.ai/chat?char=AfdI4KXrUtYYuqDA5PHoerbW4o2dWayvoqZm1HGHJCo) https://files.catbox.moe/mzbhxm.png

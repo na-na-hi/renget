@@ -28,5 +28,3 @@ Link: rentry.org/kkgarchive
 - 2018 Thread Statistics: files.catbox.moe/kjusri.png [01.01.19]
 
 &nbsp;
-
--> ![Hello~](https://eapi.pcloud.com/getpubthumb?code=XZghVhZILMp7m5K3FpoBplnfOIaAziSmeEk&linkpassword=undefined&size=320x180&crop=0&type=auto) <-

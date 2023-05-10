@@ -2,4 +2,4 @@
 # Guide has been updated!
 ->**Which also now includes Agnai. Hence the name change.**<-
 
-![img](https://files.catbox.moe/tf6vbc.png)
+![img](https://i.imgur.com/YXEZNGw.jpg)

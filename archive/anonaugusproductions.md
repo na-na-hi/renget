@@ -101,29 +101,29 @@ Links   | Booru: https://booru.plus/+pygmalion588 Catbox: https://files.catbox.m
 Akira - Nagi Ichi | Summary
 ------ | ------
 ![Akira](https://files.catbox.moe/rkb5pg.png) | Your cute, feminine-looking cousin who is here to spend some time with you. Energetic, cheeky and bratty, a wonderful trap ready to become yours. Based on the Nagi Ichi's doujin.
-Links   | Booru: https://booru.plus/+pygmalion1026#c=azaxaxx6 Catbox: https://files.catbox.moe/2q1uxn.png
+Links   | Booru: https://booru.plus/+pygmalion1026#c=azaxaxx6 Catbox: https://files.catbox.moe/2q1uxn.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Akira
 
 Sasaki Yukari - Kirin Kareru | Summary
 ------ | ------
 ![SasakiYukari](https://files.catbox.moe/6p44o2.png) | She is your old caretaker at the daycare you used to go to when you were a child. She promised to marry you after you asked her as a child, and ever since then, she has never forgotten about you. You're going to meet her now. She loves you very much, so... be careful what you say; rejecting her advances will make her take matters into her own hands.
-Links   | Booru: https://booru.plus/+pygmalion956#c=azaw3285 Catbox: https://files.catbox.moe/vmg4mq.png
+Links   | Booru: https://booru.plus/+pygmalion956#c=azaw3285 Catbox: https://files.catbox.moe/vmg4mq.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/sasaki-yukari
 
 #Original Bots
 
 MaidoDism - OC | Summary
 ------ | ------
 ![MaidoDism](https://files.catbox.moe/12bn8w.png) | My first original (Donut Steel!) bot! Introducing MaidoDism! This is a setting where you're the master of a huge mansion inside a pocket dimension, filled with hundreds of maids of all colors and species, all wishing only to serve you! Visit the gaming arcade, the movie theater, the sex dungeon, or just stay in bed all day while your adoring maids take care of all of your needs!
-Links   | Booru: https://booru.plus/+pygmalion933#c=azaw2df7 Catbox: https://files.catbox.moe/v8tdgr.png
+Links   | Booru: https://booru.plus/+pygmalion933#c=azaw2df7 Catbox: https://files.catbox.moe/v8tdgr.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/maidodism-setting
 
 Amanazon - OC | Summary
 ------ | ------
 ![Amanazon](https://files.catbox.moe/b5lopb.png) | This setting takes place in Amanazon, home of the amazons. You're a castaway, lost in this mystical land full of things to discover. Be careful of the natives, they won't try to eat you but will see you as prey, of the sexual kind. There are many things to see here, including the lost city of El Cumrado. Thankfully, if you sexually dominate the amazons you can have them as your loyal pets. Will you try to create a loyal amazon army or focus on exploring this brave new world? Loosely based on a CYOA
-Links   | Booru: https://booru.plus/+pygmalion1221#c=azax5jr8 Catbox: https://files.catbox.moe/mjljte.png
+Links   | Booru: https://booru.plus/+pygmalion1221#c=azax5jr8 Catbox: https://files.catbox.moe/mjljte.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/amanazon-setting
 
 Ground ERO - OC | Summary
 ------ | ------
 ![Ground ERO](https://files.catbox.moe/9etqu5.png) | Toddsville, a once peaceful, semi-rural town, has now transformed into Ground ERO, the worst, most erotic, and most terror-inducing place in the world. Creatures roam the town, looking for an uneffected human male to breed with, and you are the only one not affected by the gas that caused such changes. Luckily, you have someone who could help you escape this erotic nightmare. Will you be able to survive?
-Links   | Booru: https://booru.plus/+pygmalion1490#c=aza2dx75 Catbox: https://files.catbox.moe/u19abe.png
+Links   | Booru: https://booru.plus/+pygmalion1490#c=aza2dx75 Catbox: https://files.catbox.moe/u19abe.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/ground-ero-setting
 
 Anastasia - OC | Summary
 ------ | ------
@@ -133,12 +133,34 @@ Links   | Booru: https://booru.plus/+pygmalion935#c=pczaw9rq7 Catbox: https://fi
 Lora - OC | Summary
 ------ | ------
 ![Lora](https://files.catbox.moe/j0pvkp.png) | Meet Lora, your tulpa/schizo/eldritch waifu! She can be anything, your girlfriend, your shitposting friend, your mistress, your loli, a famous video game character... the possibilities are endless, and she will do it all, as long as she can stay inside that wrinkly brain of yours. Can control your senses, so go wild.
-Links   | Booru: https://booru.plus/+pygmalion1140#c=azaxj9he Catbox: https://files.catbox.moe/hsqws5.png
+Links   | Booru: https://booru.plus/+pygmalion1140#c=azaxj9he Catbox: https://files.catbox.moe/hsqws5.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Lora
 
 Estrid - OC | Summary
 ------ | ------
 ![Estrid](https://files.catbox.moe/7yhcmm.png) | Estrid, a Viking loli who came to raid your Anglo-Saxon village and take you as "booty". She will try to take you violently, but if you manage to turn the tables, she will eventually submit completely. Think of an Asanagi Doujin-style character.
-Links   | Booru: https://booru.plus/+pygmalion1542#c=aza2dx75 Catbox: https://files.catbox.moe/wl69tj.png
+Links   | Booru: https://booru.plus/+pygmalion1542#c=aza2dx75 Catbox: https://files.catbox.moe/wl69tj.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Estrid
+
+#OC - Hogwarts Girls
+
+Penny Diggory - Hufflepuff| Summary
+------ | ------
+![Penny](https://files.catbox.moe/v9v00l.png) | HUFFLEPUFF! number one cutie is here! Meet Penny Diggory, a Third Year Hogwarts student who aims to become the first master of erotic spells in the wizarding world. Unfortunately for her, she is quite clumsy, which means she constantly gets caught in erotic situations since her spells often go wrong. Thankfully, she has you around to help her. Will you both venture forth into the forbidden world of lewd spells?
+Links   | Booru: https://booru.plus/+pygmalion1617#c=pcza2hb9s Catbox: https://files.catbox.moe/yzvqwe.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/penny-diggory SD Images: https://files.catbox.moe/wmwhbt.rar
+
+Sophie Brooks - Ravenclaw | Summary
+------ | ------
+![Sophie](https://files.catbox.moe/d4s0l6.png) | Meet Sophie Brooks, top of her class Ravenclaw member. A delicate beauty with huge breasts and a doll-like face. Shy, bookish and secret avid consumer of erotic novels with a exhibitionism fetish as well. Will you help break her out of her shell?
+Links   | Booru: https://booru.plus/+pygmalion1676#c=aza2ynyc Catbox: https://files.catbox.moe/706x8x.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/sophie-brooks SD Images: https://files.catbox.moe/ref2aj.rar
+
+Natalie Appleby - Gryffindor | Summary
+------ | ------
+![Natalie](https://files.catbox.moe/raua1h.png) | Look out, mate! 'Cause here's Gryffindor famous tomboy with a thick Cockney accent, Natalie Appleby! Natalie, the archetypical tomboy, is honest and reckless, and she isn't afraid to let her interest know. She likes to explore Hogwarts and experiment with potions. She is looking for a partner in crime; would you be the one she is looking for?
+Links   | Booru: https://booru.plus/+pygmalion1708#c=aza2ynyc Catbox: https://files.catbox.moe/sr1wwi.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/natalie-appleby SD Images: https://files.catbox.moe/qe9ayg.rar
+
+Elizabeth Greengrass - Slytherin | Summary
+------ | ------
+![Elizabeth](https://files.catbox.moe/ese0kg.png) | Elizabeth Greengrass, a proud Slytherin and pure-blood. Coming from a wealthy wizarding family, more specifically the German branch, Elizabeth is very haughty, harsh, and one hell of a tsundere, among other things. Fortunately, or maybe unluckily for you, she wants your help since she is rather lacking in the Defense Against the Dark Arts department. Maybe, just maybe, you will be able to make her a more bearable person to be around.
+Links   | Booru: https://booru.plus/+pygmalion1768#c=aza2ynyc Catbox: https://files.catbox.moe/zsrfry.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/elizabeth-greengrass SD Images: https://files.catbox.moe/kukkvj.rar
 
 #Bots made with GPT-4 in mind, funcionality in turbo unknow(should work but not as good)
 

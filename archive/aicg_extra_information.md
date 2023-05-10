@@ -15,7 +15,7 @@ This is still updated frequently but the format these are posted with is mostly 
 ##### Pygmalion-6B
 https://koboldai.org/cpp [CPU]
 https://pastebin.com/Ah5ZUcGE [Node.js install guide (Win7)]
-https://laika-ch.itch.io/ [Laika’s LiteVN]
+https://laika-ch.itch.io/laikas-litevn-ui-for-koboldai [Laika’s LiteVN]
 https://rentry.org/Pyggymancy [Guide]
 https://rentry.org/PygTips
 - Classic pyg links. Not much going on with it right now
@@ -60,7 +60,7 @@ https://rentry.org/mikugg
 
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
-https://risu.pages.dev
+(https://risu.pages.dev) https://risuai.xyz
 - korean frontend for oobabooga's and OAI; local install and online demo; feature rich + plugins
 
 ![](https://files.catbox.moe/xs0fj6.png)

@@ -15,18 +15,18 @@ If you're curious about a service, the OP should have the information you need.
 |                | NSFW | SFW | MEMORY | CREATIVITY | COMPLEX DEFS | PRICE  | EASE OF USE
 |----------------|------|-----|--------|------------|--------------|--------|------------
 | GPT-4          | 🏆   | 🏆  | 🏆     | 🥈         | 🏆           | HIGH   | 🥈        |
-| Claude (API)   | 🏆   | 🏆  | 🌱     | 🏆         | 🌱           | FREE   | 🥈        |
+| Claude (API)   | 🏆   | 🏆  | 🥈     | 🏆         | 🥈           | FREE   | 🥈        |
+| Claude (Slack) | 🥈   | 🏆  | 🌱     | 🏆         | 🥈           | FREE   | 🌱        |
 | Davinci-3      | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |
 | Turbo          | 🥈   | 🥈  | 🥈     | 🥈         | 🌱           | LOW    | 🥈        |
 | CAI            | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
-| Claude (Poe)   | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🥈        |
-| LLaMA          | 🌱   | 🌱  | 🌱     | 🌱         | 🌱           | FREE   | 🌱        |
+| Claude (Poe)   | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
+| Pyg (LLaMA)    | 🥈   | 🥈  | 🌱     | 🌱         | 🌱           | FREE   | 🌱        |
 | NovelAI        | 🌱   | 🌱  | 🌱     | 🌱         | 🌱           | MEDIUM | 🥈        |
-| Pyg            | 🌱   | ⛔  | 🌱     | 🌱         | 🌱           | FREE   | 🥈        |
+| Pyg 6B         | 🌱   | ⛔  | 🌱     | 🌱         | 🌱           | FREE   | 🥈        |
 
 Notes:
-- No one uses Scale anymore due to the lack of free-to-use SFW endpoint.
-- There are different LLaMA variants. I'm not well-versed enough with them to provide a rating, but contributions are welcome.
+- I'm removing LLaMA from this chart because there are tons of variants, including some that are very good in everything (other than the 2k memory), but it's very difficult to present accurate and comprehensive information for all the tunes. Seek out /lmg/ for the time being.
 
 Quick notes on how to access each:
 - GPT-4: Join the [official waitlist](https://openai.com/waitlist/gpt-4-api) (make a convincing application), or use a reverse proxy that has it ([proxy links](https://alwaysfindtheway.github.io) / [agnai video guides](https://rentry.org/agnai_guides) / [tavern guide](https://rentry.org/Tavern4Retards))
@@ -34,6 +34,7 @@ Quick notes on how to access each:
 - Davinci-3: Use an OpenAI key directly in SillyTavern/agnai. You can use your own or buy one (search "buy openai key" on yandex).
 - Turbo: Same as davinci-3 but you can also use a reverse proxy.
 - Claude (Poe): Create a bot over at https://poe.com/. Example: https://poe.com/coolreisen
+- Claude (Slack): See OP.
 
 ## Frontend (service support)
 
@@ -44,10 +45,10 @@ Only two frontends are currently recommended, Silly and the newer option Agnai. 
 [RisuAI](https://risu.pages.dev) is noteworthy but I'm not knowledgeable about its features yet.
 
 
-|       | OAI | NAI |  Kobold |      Scale | Poe | Claude API |
-|-------|-----|-----|---------|      ------|-----|------------|
-| Silly | ✅   | ✅       | ✅      | 🚫     | ✅   | 🚫      |
-| Agnai | ✅   | ✅       | ✅      | ✅     | 🚫   | ✅      |
+|       | OAI | NAI | Kobold | Scale | Poe | Claude API | Claude (Slack) |
+|-------|-----|-----|--------|-------|-----|------------|----------------|
+| Silly | ✅  | ✅  | ✅     | 🚫    | ✅  | 🚫         | ✅ (fork)      |
+| Agnai | ✅  | ✅  | ✅     | ✅    | 🚫  | ✅         | 🚫             |
 
 ## Frontend (features)
 
@@ -60,5 +61,5 @@ Supported by all:
 
 |         |UJB | WEB ONLY OPTN | MULTI CHARA | TREES                                | IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS        |
 |---------|--- |---------------|-------------|--------------------------------------|-------------|---------|---------|------------|------------|------------|
-| Silly   |✅ | ✅ (Colab)     | ✅          | ⚠️(must delete new msgs to swipe old) | ✅          | ✅      | ✅      |  🚫        | 🚫         | 🚫         |
+| Silly   |✅ | ✅ (Colab)     | ✅          | ⚠️(must delete new msgs to swipe old) | ✅ (ext)    | ✅ (ext)| ✅ (ext)|  🚫        | 🚫         | 🚫         |
 | Agnai   |✅ | ✅             | 🚫          | ⚠️ (last msg only)                    | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅ (11labs) |

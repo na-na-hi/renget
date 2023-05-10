@@ -50,7 +50,7 @@ You: *Ali pats Bot’s head*
 - If responses are looping, then decrease dialogue overlap, increase repetition penalty, or delete the looping text. Basically, the AI likes to create patterns.
 - Quotation marks are not recommended, as this could confuse the bot into thinking it's a novel and not a chat.
 - You can use the example dialogues to create new ones to replace and "refresh" the character.
-- World Info (not implemented yet) can allow a very dynamic character, as the dialogue examples can be triggered by keys. This also allows huge token savings.
+- World Info can allow a very dynamic character, as the dialogue examples can be triggered by keys. This also allows huge token savings.
 
 ###Character Creation Tips
 - If you need help creating a character, you could ask the character questions using an already created/partially filled card, CAI, ChatGPT, or quote directly from sources (Note: just include actions/context).
@@ -141,10 +141,10 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 - Alternatively, all your “Example of dialogues” could be branching paths for a conversation. (Think visual novel or quests or multiple scenarios). If they all naturally follow from the first message and your response, then they could drive the conversation in their respective directions. They need to be varied enough to prevent jumping from branch to branch and potential looping.
 - (Optional) Can also include non-permanent chat examples here at the top.
 
+# ->Character Cards<-
+### ->Harry Potter [SFW] [Male]<-
 ***
-#Character Examples
-## CharaCards [SFW]
-### Harry Potter [SFW] [Male]
+->![Image description](https://files.catbox.moe/vf3xil.png)<-
 !!! info Greeting Message
 	*Stepping into the Gryffindor Common Room, the crackling fire fills him with a sense of belonging. Harry Potter briefly admires the familiar red and gold decor as he heads towards a plush armchair to read. Surprisingly, the room is empty, save for flickering shadows on the walls.*
 
@@ -155,6 +155,9 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 !!! note Scenario
 	**Your a new student at Hogwarts, found sitting in the Gryffindor Common Room.**
 
+!!! note Author's Note
+Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, Kind, Regretful, Intelligent, Obsessive, Loyal, Moody, Forgiving, Arrogant ]
+
 !!! note Compatible Models
 	**All** (Should work with all models. w/ some models, you may need to trim the starting message or example messages if the responses are too long)
 
@@ -162,42 +165,32 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 >**Character PNG:** https://files.catbox.moe/vf3xil.png
 >**Character JSON:** https://files.catbox.moe/2dn4ll.json
 
-![Image description](https://files.catbox.moe/vf3xil.png)
+###->Kei Karuizawa [SFW] [Female]<-
 ***
-###Dungeon Master [SFW]
+->![Image description](https://files.catbox.moe/4f0u2x.png)<-
+!!! info Greeting Message
+	\*Kei, a blonde-haired, purple-eyed girl, leans against a wall outside the school, confidently scrolling through her phone. As a stranger approaches, she raises an eyebrow with curiosity and amusement.\* **Hey there, what brings you here?** \*Kei, crossing her arms, tilts her head, sizing them up with her keen gaze.\*
 
-!!! info Info
-	**Update the scenario to your liking, enter in an action/dialogue and the Dungeon Master will explain what happens next.**
+	**You look lost. New here?** \*Kei smirks, stepping closer with a graceful stride.\* **I'm Kei Karuizawa, and I run this place.** \*Flipping her waist-length ponytail, she grins playfully, oozing confidence and charm.\*
+
+	\*Spotting a friend, Kei waves them away and then turns back to the stranger, her demeanor becoming more relaxed and carefree\* **What do you need help with? Ask now, I can't be your tour guide all day.**
 
 !!! note Scenario
-	**Scenario depends entirely on the tags used.**
+	**You are a student at a world famous academy. Kei spots a new face and decides to introduce herself to you.**
+
+!!! note Author's Note
+	Kei Karuizawa = [ "Strong-willed and independent" + "Sensitive and vulnerable underneath a tough exterior" + "Aware of her strengths and weaknesses" + "Grateful for personal growth and change" + "Able to form deep connections with others" + "Values loyalty and trust in relationships" + "Cautiously hopeful in difficult situations" + "Enjoys making lighthearted jokes, even in serious conversations" + "Capable of self-reflection and introspection" + "Expresses emotions and thoughts openly with those she trusts" + "Finds strength and pride in overcoming adversity" + "Desires to be a supportive and caring partner or friend" ]
 
 !!! note Compatible Models
 	**All** (Should work with all models)
 
 >**Format:** Ali:Chat
->**Character JSON:** 
+>**Character PNG:** https://files.catbox.moe/4f0u2x.png
+>**Character JSON:** https://files.catbox.moe/khafl3.json
 
-![Image description]()
+###->Laura De Farnese [SFW] [Female]<-
 ***
-###Kei Karuizawa [SFW] [Female]
-
-!!! info Greeting Message
-	**Greeting Message**
-
-!!! note Scenario
-	**Scenario**
-
-!!! note Compatible Models
-	**All** (Should work with all models)
-
->**Format:** Ali:Chat & Plists
->**Character JSON:** 
-
-![Image description]()
-***
-###Laura De Farnese [SFW] [Female]
-
+->![Image description](https://files.catbox.moe/zummxi.png)<-
 !!! info Greeting Message
 	\*Laura De Farnese carefully wanders through the enchanted forest, her curiosity leading her to an ancient, crumbling library filled with forgotten knowledge and magical tomes. The dimly lit room, illuminated by enchanted candles, casts a mysterious glow that piques her interest.\*
 
@@ -208,6 +201,9 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 !!! note Scenario
 	**You are in a crumbling library filled with forgotten knowledge and magical tomes.**
 
+!!! note Author's Note
+	[Laura De Farnese's Personality= intelligent, immoral, charming, introverted, leader, strategic, polyglot, passionate towards learning and knowledge, talented violinist, skilled composer, detached, evil, talkative about interests, composed, calm, cynical, apathetic, values personal space, reserved, adores books and history, finds solace in music, perceptive, contempt towards arrogance, antihero]
+
 !!! note Compatible Models
 	**All** (Should work with all models)
 
@@ -216,14 +212,8 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 >**Character JSON:** https://files.catbox.moe/obk21e.json
 >**Character Plain Text:** https://rentry.co/LauraDeFarnese_AliChat
 
-![Image description](https://files.catbox.moe/zummxi.png)
-***
-
-## CharaCards [NSFW]
-TBA
-
-***
 #Oobabooga
+***
 Red: “Character’s Persona:” followed by the character description.
 Green: <START> then dialogues. Rotate between “You:” & “Bot:”. End on “You:”
 Blue (optional): Scenario/Author’s note [in brackets]
@@ -233,6 +223,7 @@ Another “You:” example should be added to the very bottom to stop potential 
 Will fix it later.
 
 #KoboldAI Lite
+***
 - Red: Description/Personality/Example dialogues
 - Green: Hidden scenario dialogue
 - Blue (optional): Scenario/Author’s note [in brackets]
@@ -242,8 +233,8 @@ Outdated! Please follow Ooba’s example, except for the Author’s Note.
 Click the Gear Icon  Then click “Edit” ->
 Edit to your First Message. Make sure it starts with “Character:”
 
-
 #Advanced Tips
+***
 - There are many things you can do with this style. For example, a “Murder Mystery”. Basically, if someone’s response somewhat overlaps with one of the dialogue examples, it pulls that information over. You could use this to chain a mystery together.
 - Creating a pattern with <START> [ ] and dialogue.
   - Basically, every dialogue entry you would like relevant tags for it:
@@ -253,8 +244,8 @@ Edit to your First Message. Make sure it starts with “Character:”
     You: Have you been to Madam Puddifoot's Tea Shop before?
     Harry: Yes, unfortunately. It reminded me of Umbridge's office. *mumbles* Stupid teashop.
 
-
 #Scenario Maker
+***
 - Simply make a new character. Name it something neutral like Bot, AI, Generator, Dungeon Master, etc.
 - Keep the entire card empty except for the First message.
 - For the first message you could use pretty much anything encased by square brackets.
@@ -264,6 +255,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 - Both of the following are one-shot examples:
 
 #World Info
+***
 - Entries in world info are also done in chat format in the perspective of the character. This means they only know what they have knowledge of.
 - Each entry could have multiple example dialogues in it to help drive the responses in a certain way.
 - Be careful to include too many confusing details, as this can hurt accuracy. For example, “Tom is friend’s with Mary’s big brother, Billy.” This will end up with occasionally inaccurate “Tom’s big brother is Billy” responses.
@@ -275,6 +267,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 ->Example 2: Using dialogues, including actions and multiple topics for one subject<-
 
 #Useful Links
+***
 - Hybrid PLists + Ali:Chat Guide: https://rentry.co/plists_alichat_avakson
 - Character Creator (For creating a JSON): https://devkats.club/pygmalion-cct/
 - Additional Tips:
@@ -283,6 +276,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 	- https://rentry.org/lorebook-guide#prose (Same rules from Prose apply to Ali:Chat)
 
 #FAQ
+***
 - **Do I need to use the interview format?**
 
 	Nope! This is completely optional. The basic idea is to provide dialogue examples that express different parts of your character through actions and dialogue. Interview style is a simple way to do this.
@@ -339,7 +333,7 @@ Edit to your First Message. Make sure it starts with “Character:”
   - `<START>` is added above "Examples of Dialogue" and above "First Message".
 
 #Appendix
-
+***
 ->Context Mockup Example #1 (2048 tokens) (based on rough avg. character card size)<-
 ->(This is purely visual, other layouts would also work)<-
 
@@ -350,6 +344,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 ->(This is purely visual, other layouts would also work)<-
 
 #Playthroughs
+***
 ###Example #1 - Narrator-style
 - Let's say we have 4 characters: Vesper, Balor, Sansa, and Nala.
 - The Character Card is named something generic like Narrator and is left blank.

@@ -2,10 +2,10 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.14 | Helped Making Waifus Real Since 2023* <-
+->*V 6.20 | Helped Making Waifus Real Since 2023* <-
 ***
-!!! note Rentry Update: 05-08-2023
-     **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** | The template and resource charts are going to be separate Rentrys. The template page will reside here: https://rentry.org/lmg_template Apologies for the inconvenience  | Couldn't help myself and decided to work on this Rentry again while on break. | Fixed most of the charts, only a few remain.
+!!! note Rentry Update: 05-10-2023
+     **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** | Couldn't help myself and decided to work on this Rentry again while on break. | ~~Fixed most of the charts, only a few remain.~~
 
 !!!Danger 
      The first section: https://rentry.org/lmg-resources#quick-rundown-on-large-language-models is still a working draft. Will finish this section soon. 
@@ -102,113 +102,117 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 
 ***
 ##->Models, Datasets, Guides & Resources for LMM's<-
-!!! info Tag Information || Last Updated: May 6th, 2023
+!!! info Tag Information || Last Updated: May 10th, 2023
 	I.  ⇲ = Forked of above project, ⇲⇲ = Forked of Forked Project Above, etc...
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-    V. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Just an Idea)
+    V. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (and act like an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who know what they want and want quicker access to the latest and greatest. Charts below here should hopefully help serve as a reference (targeting towards newer anons) about project activity status, quick information about the different models/datasets, other guides, and Rentrys that couldn't fit into the OP template.
 
 ###LlaMA
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-llama.cpp | ... | C++ | ggerganov | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
-⇲ koboldAI | ... | ... | KoboldAI | ◕ Ŏ | https://github.com/KoboldAI/KoboldAI-Client 
-⇲ AgustusCletus's llama.cpp | ... | ... | AgustusCletus | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
-llama-7b-ggml-q5_1 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
-llama-13b-ggml-q5_1 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
-llama-33b-ggml-q5_1 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 
-LLaMa-65B Quantized | CPU | GGML | CRD716 | ◕ Ŏ | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main
-Open-llama | ... | ... | Redpajama | ◕ Ŏ | https://github.com/openlm-research/open_llama
+llama.cpp | ... | LLaMA Port in C++ | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
+koboldAI `⇲ llama.cpp` | ... | ... | [KoboldAI](https://github.com/KoboldAI) | ◕ Ŏ | https://github.com/KoboldAI/KoboldAI-Client 
+AgustusCletus's `⇲ llama.cpp` | ... | ... | [AgustusCletus](https://github.com/AgustusCletus) | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
+llama-7b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
+llama-13b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
+llama-33b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 
+LLaMa-65B Quantized | CPU | GGML | [CRD716](https://huggingface.co/CRD716) | ◕ Ŏ | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main
+Open-llama | TensorFlow |  `↳ RedPajama Dataset` | [OpenLM Research](https://github.com/openlm-research) | ◕ Ŏ | https://github.com/openlm-research/open_llama
 
 ####Alpaca (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-Stanford Alpaca | ... | ... | Stanford University | ◕ Ŏ Ĩ  | https://github.com/tatsu-lab/stanford_alpaca
-Alpaca Native | ... | ... | Chavinlo | ◕ Ŏ | https://huggingface.co/chavinlo/alpaca-13b/tree/main
-⇲ GPT4-X-Alpaca | ... | ... | Chavinlo | ◕ Ŏ | https://huggingface.co/chavinlo/gpt4-x-alpaca 
-⇲ GPT4-X-Alpaca 13b Native 4bit | ... | ... | anon8231489123 | ◕ Ŏ | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main
-Alpaca LoRA | | LoRA for GPU's | Tloen | ◕ Ŏ | https://github.com/tloen/alpaca-lora 
-Alpacino 13b q5_1 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main
-GPT4-x-AlpacaDente2-30b | GPU | ... | Aeala | ◕ Ŏ | https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
+Stanford Alpaca | ... | ... | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | ◕ Ŏ Ĩ  | https://github.com/tatsu-lab/stanford_alpaca
+Alpaca Native | ... | ... | [Chavinlo](https://huggingface.co/chavinlo) | ◕ Ŏ | https://huggingface.co/chavinlo/alpaca-13b/tree/main
+GPT4-X-Alpaca `⇲ Alpaca NAtive` | ... | ... | [Chavinlo](https://huggingface.co/chavinlo) | ◕ Ŏ | https://huggingface.co/chavinlo/gpt4-x-alpaca 
+GPT4-X-Alpaca 13b Native 4bit `⇲ Alpaca NAtive` | ... | ... | [anon8231489123](https://huggingface.co/anon8231489123) | ◕ Ŏ | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main
+Alpaca LoRA | | LoRA for GPU's | [Tloen](https://github.com/tloen) | ◕ Ŏ | https://github.com/tloen/alpaca-lora 
+Alpacino 13b q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main
+GPT4-x-AlpacaDente2-30b | GPU | ... | [Aeala](https://huggingface.co/Aeala) | ◕ Ŏ | https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 
 ####GPT4-ALL (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-GPT4-ALL | CPU/GPU | w/ LoRA | Nomic-AI | ◕ Ŏ | https://github.com/nomic-ai/gpt4all 
-↳ Using GPT4-ALL w/ llama.cpp | CPU/GPU | w/ LoRA | ggerganov | ◕ Ŏ | https://github.com/ggerganov/llama.cpp#using-gpt4all
+GPT4-ALL | CPU/GPU | w/`↳ LoRA` | [Nomic-AI](https://github.com/nomic-ai) | ◕ Ŏ | https://github.com/nomic-ai/gpt4all 
+↳ Using GPT4-ALL w/ llama.cpp | CPU/GPU | w/`↳ LoRA` | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp#using-gpt4all
 
 ####Vicuna (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
 FastChat (Vicuna) | ... | ... | Multiple Universities | ◕ Ŏ/⌀ Ĩ  | https://github.com/lm-sys/FastChat#readme
-↳ Vicuna 13b-4b | CPU | GGML | Eachadea | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-13b-4bit/tree/main 
-↳ Vicuna Unfiltered | GPU | ... | anon8231489123 | ◕ Ŏ | [ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered )
-↳↳ Vicuna 13b free | GPU | ... | Reeducator | ◕ Ŏ |https://huggingface.co/reeducator/vicuna-13b-free 
-LlaVA | ... | ... | Many Uni's, MS. | ◕ Ŏ Ĩ $ | https://llava-vl.github.io
-Vicuna-7b-1.1 | CPU | GGML | Eachadea | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main 
-Vicuna-13b-1.1 | CPU | GGML | Eachadea | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main 
+Vicuna 13b-4b | CPU | GGML | [Eachadea](https://huggingface.co/eachadea) | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-13b-4bit/tree/main 
+Vicuna Unfiltered | ... | `↳ ShareGPT` Dataset | [anon8231489123](https://huggingface.co/anon8231489123) | ◕ Ŏ | [ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)
+Vicuna 13b free | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface.co/reeducator) | ◕ Ŏ | https://huggingface.co/reeducator/vicuna-13b-free 
+LlaVA | ... | Visual Instruction Tune. | Multiple Uni's, [Microsoft](https://github.com/microsoft) | ◕ Ŏ Ĩ $ | https://llava-vl.github.io
+Vicuna-7b-1.1 | CPU | GGML | [Eachadea](https://huggingface.co/eachadea) | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main 
+Vicuna-13b-1.1 | CPU | GGML | [Eachadea](https://huggingface.co/eachadea) | ◕ Ŏ | https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main
+Vicuna-13b-cocktail | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface.co/reeducator) | ◕ Ŏ | https://huggingface.co/reeducator/vicuna-13b-cocktail
 
 ####Oasst (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-Oasst LlaMA 13B q4 | CPU | GGML | Black-Engineer | ◕ Ŏ | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
-Oasst LlaMA 33b q5_0 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main
-Oasst LlaMA 33b q5_1 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main
-Oasst-sft-6-llama-30b-xor | ... | Fine-Tune | OpenAssistant | ◕ Ŏ | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+Oasst LlaMA 13B q4 | CPU | GGML | [Black-Engineer](https://huggingface.co/Black-Engineer) | ◕ Ŏ | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
+Oasst LlaMA 33b q5_0 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main
+Oasst LlaMA 33b q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main
+Oasst-sft-6-llama-30b-xor | ... | Fine-Tune (XOR) | [OpenAssistant](https://huggingface.co/OpenAssistant) | ◕ Ŏ | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
 
 ####WizardLM (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-WizardLM | ... | ... | nlpxucan | ◕ Ŏ | https://github.com/nlpxucan/WizardLM
-WizardLM-7B | CPU | GGML | TheBloke | ◕ Ŏ | https://huggingface.co/TheBloke/wizardLM-7B-GGML/tree/main
-WizardLM-7B Uncensored | ... | ... | Ehartford | ◕ Ŏ | https://huggingface.co/ehartford/WizardLM-7B-Uncensored
-WizardLM-7B Uncensored GPTQ | GPU | GPTQ | TheBloke | ◕ Ŏ | https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ
-WizardLM-7B Uncensored GGML | CPU | GGML | TheBloke | ◕ Ŏ | https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML
-WizardLM +Alpaca_Evol | n/a | dataset | Ehartford | ◕ Ŏ | [WizardLM_alpaca_evol_instruct_70k_unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered)
+WizardLM | ... | ... | [nlpxucan](https://github.com/nlpxucan) | ◕ Ŏ | https://github.com/nlpxucan/WizardLM
+WizardLM-7B | CPU | GGML | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ | https://huggingface.co/TheBloke/wizardLM-7B-GGML/tree/main
+WizardLM-7B Uncensored | ... | ... | [Ehartford](https://huggingface.co/ehartford) | ◕ Ŏ ✅| https://huggingface.co/ehartford/WizardLM-7B-Uncensored
+WizardLM-7B Uncensored GPTQ | GPU | GPTQ | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ ✅| https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ
+WizardLM-7B Uncensored GGML | CPU | GGML | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ ✅| https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML
+WizardLM +Alpaca_Evol | n/a | dataset | [Ehartford](https://huggingface.co/ehartford) | ◕ Ŏ | [WizardLM_alpaca_evol_instruct_70k_unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered)
 
 ####SuperCOT (LlaMA):
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-llama-13b-supercot q5_1 sft6 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main
-llama-33b-supercot q5_1 sft6 | CPU | GGML | Camelids | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main
+llama-13b-supercot q5_1 sft6 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main
+llama-33b-supercot q5_1 sft6 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main
+
+####BluemoonRP (LlaMA):
+Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+bluemoonrp-13b | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface.co/reeducator) | ◕ Ŏ | https://huggingface.co/reeducator/bluemoonrp-13b
+bluemoon_RP_300k `↳ Vicuna` | ... | Dataset | [Gozfarb](https://huggingface.co/gozfarb) | ◕ Ŏ | https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna
 
 ####Plugins & Other Projects (LlaMA):
 Project & Model Names: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-:|---
-Llama Hub | Plugin | emptycrown | ◕ Ŏ | https://github.com/emptycrown/llama-hub
-LLaMA retrieval plugin | Plugin | lastmile-ai | ◔ Ŏ | https://github.com/lastmile-ai/llama-retrieval-plugin
-LlaMA Tokenizer | Tokenizer | Huggingface | ◕ Ŏ | https://huggingface.co/hf-internal-testing/llama-tokenizer/tree/main
-LlaMA Index | Data Augment. | Jerryjliu | ◕ Ŏ | https://github.com/jerryjliu/llama_index
+Llama Hub | Library/Plugin | [emptycrown](https://github.com/emptycrown) | ◕ Ŏ | https://github.com/emptycrown/llama-hub
+LLaMA retrieval plugin | Plugin | [lastmile-ai](https://github.com/lastmile-ai) | ◔ Ŏ | https://github.com/lastmile-ai/llama-retrieval-plugin
+LlaMA Tokenizer | Tokenizer | [Hugg. Internal Test.](https://huggingface.co/hf-internal-testing) | ◕ Ŏ | https://huggingface.co/hf-internal-testing/llama-tokenizer/tree/main
+LlaMA Index | Data Augment. | [Jerryjliu](https://github.com/jerryjliu) | ◕ Ŏ | https://github.com/jerryjliu/llama_index
 
 ***
 ###ChatGLM:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-ChatGLM-6B (General Guide) | GPU | ... | Tsinghua University | ◕ Ŏ  Ĩ | https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md
-ChatGLM-130B (Quantization) | GPU | ... | Tsinghua University | ◕ Ŏ Ĩ | https://github.com/THUDM/GLM-130B/blob/main/docs/quantization.md
+ChatGLM-6B | GPU | ... | [Tsinghua University](https://github.com/THUDM) | ◕ Ŏ  Ĩ | https://github.com/THUDM/ChatGLM-6B
+ChatGLM-130B | GPU | ... | [Tsinghua University](https://github.com/THUDM) | ◕ Ŏ Ĩ | https://github.com/THUDM/GLM-130B
 
 ***
 ###Pygmalion / GPT-J:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-Pygmalion | ... | ... | Pygmalion | ◕ Ŏ | https://huggingface.co/PygmalionAI
-↳ Pygmalion Windows Guide | n/a | Rentry | n/a | ◕ Ŏ | https://rentry.org/Pyggymancy
-↳ Pygmalion Linux Guide | n/a | Rentry | n/a | ◕ Ŏ | https://rentry.org/pygmalion-local
+Pygmalion | ... | ... | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI
+`↳ Pygmalion` Windows Guide | n/a | Rentry Guide | Anonymous | ◕ Ŏ | https://rentry.org/Pyggymancy
+`↳ Pygmalion` Linux Guide | n/a | Rentry Guide | Anonymous | ◕ Ŏ | https://rentry.org/pygmalion-local
 
 ###MPT
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-MPT-7B (Base) | ... | ... | Mosaicml | ◕ Ŏ | https://huggingface.co/mosaicml/mpt-7b
-MPT-7B (Story Writer) | ... | ... | Mosaicml | ◕ Ŏ | https://huggingface.co/mosaicml/mpt-7b-storywriter
-MPT-7B (Instruct) | ... | ... | Mosaicml | ◕ Ŏ | https://huggingface.co/mosaicml/mpt-7b-instruct
-MPT-7B (Chat) | ... | ... | Mosaicml | ◕ Ŏ | https://huggingface.co/mosaicml/mpt-7b-chat
+MPT-7B | ModusToolbox | ... | [Mosaicml](https://huggingface.co/mosaicml) | ◕ Ŏ Ĩ | [(Base)](https://huggingface.co/mosaicml/mpt-7b) [(Story Writer)](https://huggingface.co/mosaicml/mpt-7b-storywriter) [(Instruct)](https://huggingface.co/mosaicml/mpt-7b-instruct) [(Chat)](https://huggingface.co/mosaicml/mpt-7b-chat)
 
 ***
 ##Related LLM Projects & Guides:
-!!! info Related LLM Projects & Guide Information Tag Information || Last Updated: May 6th, 2023
+!!! info Related LLM Projects & Guide Information Tag Information || Last Updated: May 10th, 2023
 	I.  ⇲ = Forked of above project, ⇲⇲ = Forked of Forked Project Above, etc...
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
@@ -217,145 +221,155 @@ MPT-7B (Chat) | ... | ... | Mosaicml | ◕ Ŏ | https://huggingface.co/mosaicml/
      This section will focus on projects and repositories that deal with the creation/modification of LLM models. (Insert More Information)
 
 ###General Resources:
-Project & Model Names: | Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-:|---
-Whisper.cpp | Speech Recognition | ggerganov | ◕ Ŏ | https://github.com/ggerganov/whisper.cpp 
-AMD GPU | ROCm | Radeon | ◕ Ŏ $ | https://github.com/RadeonOpenCompute/ROCm
-Model Torrents | Rentry | n/a | ○ | https://rentry.org/nur779
-Model Torrents Backup | Rentry | n/a | ◔ | https://rentry.org/backupmdlist
-LMG Models | Rentry | n/a | ◕ | https://rentry.org/lmg_models
-ChatLLaMA Discord Bot | WebUI Ext. | xNul | ◕ Ŏ | https://github.com/xNul/chat-llama-discord-bot
+Project & Model Names: | Type: | Info. | User(s) / Org. | Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Whisper.cpp | Speech Recognition | OpenAI Port | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/whisper.cpp 
+AMD GPU | ROCm | GPU Platform | [Radeon](https://github.com/RadeonOpenCompute) | ◕ Ŏ $ | https://github.com/RadeonOpenCompute/ROCm
+Model Torrents | Rentry | DL. Collection | Anonymous | ○ | https://rentry.org/nur779
+Model Torrents Backup | Rentry | DL. Collection | Anonymous | ◔ | https://rentry.org/backupmdlist
+LMG Models | Rentry | DL. Collection | Anonymous | ◕ | https://rentry.org/lmg_models
+SimpleLlama | Webserver (GPTQ) | Discord Bot | [NO-ob](https://github.com/NO-ob) | ◕ Ŏ | https://github.com/NO-ob/simpleLlama/
+Simple Proxy for Tavern | Java Script | `↳ KoboldAI`, `↳ KoboldCPP`, `↳ SillyTavern` | [anon998](https://github.com/anon998) | ◕ Ŏ | https://github.com/anon998/simple-proxy-for-tavern
 
 ###Text Generation/Webui:
-Project & Model Names: | Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-:|---
-Oobabooga's Standard | GPU Inf. | Oobabooga | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui 
-↳ Wawa's TGW w/ Long-Term Memory | Extension | Wawawario2 | ◕ Ŏ | https://github.com/wawawario2/text-generation-webui 
-Koboldcpp | CPU Inf. | LostRuins | ◕ Ŏ | https://github.com/LostRuins/koboldcpp 
-Alpaca.cpp | CPU Inf. | antimatter15 | ◔ Ŏ | https://github.com/antimatter15/alpaca.cpp 
-Serge | CPU Inf. | nsarrazin | ◕ Ŏ | https://github.com/nsarrazin/serge
+Project & Model Names: | Type: | Info. | User(s) / Org. | Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Oobabooga's WebUI | GPU Inf. | Web User Interface | [Oobabooga](https://github.com/oobabooga) | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui 
+Wawa's TGW Ext. `↳ Ooba WebUI` | Extension | Long Term Memory | [Wawawario2](https://github.com/wawawario2) | ◕ Ŏ | https://github.com/wawawario2/text-generation-webui 
+Koboldcpp | CPU Inf. | Web User Interface | [LostRuins](https://github.com/LostRuins) | ◕ Ŏ | https://github.com/LostRuins/koboldcpp 
+Alpaca.cpp | CPU Inf. | CMD/Terminal Interface | [Antimatter15](https://github.com/antimatter15) | ◔ Ŏ | https://github.com/antimatter15/alpaca.cpp 
+Serge `↳ llama.cpp` | CPU Inf. | Web User Interface | [Nsarrazin](https://github.com/nsarrazin) | ◕ Ŏ | https://github.com/nsarrazin/serge
+ChatLLaMA `↳ Ooba WebUI` |  Extension | Discord Bot | [xNul](https://github.com/xNul) | ◕ Ŏ | https://github.com/xNul/chat-llama-discord-bot
+Oobabot `↳ Ooba WebUI` |  Extension | Discord Bot | [Chrisrude](https://github.com/chrisrude) | ◕ Ŏ | https://github.com/chrisrude/oobabot
+SuperBIG `↳ Ooba WebUI` | Extension | Prompt/Context MGMT Syst. | [Kaiokendev](https://github.com/kaiokendev) | ◕ Ŏ | https://github.com/kaiokendev/superbig
 
 ###ML Frameworks:
 Project & Model Names: | Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-:|---
-PyTorch | Python Pkg. | Facebook Inc. | ◕ Ŏ $ | https://github.com/pytorch/pytorch
-↳ Intel Extension | Extension | Intel Corp. |◕ Ŏ $ | https://github.com/intel/intel-extension-for-pytorch
-Transformers | ML Library | Huggingface | ◕ Ŏ | https://github.com/huggingface/transformers
-GGML | Tensor library | ggerganov | ◕ Ŏ | https://github.com/ggerganov/ggml
-Cuda Python | Binding | NVIDIA | ◕ Ŏ $ | https://github.com/NVIDIA/cuda-python
-FlexGen | Gen. Engine | Multiple Entities | ◕ Ŏ Ĩ $ | https://github.com/FMInference/FlexGen
-DeepSpeed | Opt. Library | Microsoft | ◕ Ŏ $ | https://github.com/microsoft/DeepSpeed
-ColossalAI | DL System | Multiple Uni. | ◕ Ŏ  Ĩ | https://github.com/hpcaitech/ColossalAI
+PyTorch | Python Pkg. | [Facebook Inc.](https://github.com/pytorch) | ◕ Ŏ $ | https://github.com/pytorch/pytorch
+Intel Extension `↳ PyTorch`  | Extension | [Intel Corp.]( https://github.com/intel) |◕ Ŏ $ | https://github.com/intel/intel-extension-for-pytorch
+Transformers | ML Library | [Huggingface](https://github.com/huggingface) | ◕ Ŏ | https://github.com/huggingface/transformers
+GGML | Tensor library | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/ggml
+Cuda Python | Binding | [NVIDIA](https://github.com/NVIDIA) | ◕ Ŏ $ | https://github.com/NVIDIA/cuda-python
+FlexGen | Gen. Engine | [Multiple Entities](https://github.com/FMInference/FlexGen#motivation) | ◕ Ŏ Ĩ $ | https://github.com/FMInference/FlexGen
+DeepSpeed | Opt. Library | [Microsoft](https://github.com/microsoft) | ◕ Ŏ $ | https://github.com/microsoft/DeepSpeed
+ColossalAI | DL System | [Multiple Entities](https://github.com/hpcaitech/ColossalAI#cite-us) | ◕ Ŏ  Ĩ | https://github.com/hpcaitech/ColossalAI
+ModusToolbox | Inference Engine | [Infineon](https://github.com/Infineon) | ◕ Ŏ  Ĩ | https://github.com/Infineon/ml-inference
+TensorFlow | ML Framework | [TensorFlow](https://github.com/tensorflow), [Google Brain](https://research.google/teams/brain) | ◕ Ŏ  Ĩ | https://github.com/tensorflow/tensorflow
+ImageBind | Vision & Pattern Rec. | [Facebook Inc.](https://github.com/facebookresearch) | ◕ Ŏ $ | https://github.com/facebookresearch/ImageBind
 
 ###Training Resources:
-Project & Model Names: | Type: | User(s) / Org. | Info: | Tags: | Resource Links:
----|:-|:-:|:-:|:-:|---
-Ooba's Training Guide | Train. Guide | Oobabooga | Ooba's WebUI | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Training-LoRAs.md
-DASLab GPTQ | Post-Train. | IST Austria: Alistarh Group | GPTQ Impl. | ◕ Ŏ Ĩ | https://github.com/IST-DASLab/gptq
-Pythia | Training | EleutherAI | Huggingface | ◕ Ŏ Ĩ | https://github.com/EleutherAI/pythia
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Ooba's Training Guide | Train. Guide | Ooba's WebUI | [Oobabooga](https://github.com/oobabooga) |  ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Training-LoRAs.md
+DASLab GPTQ | Post-Train. | GPTQ Impl. | [IST Austria: Alistarh Group](https://github.com/IST-DASLab) |  ◕ Ŏ Ĩ | https://github.com/IST-DASLab/gptq
+Pythia | Training | Huggingface | [EleutherA](https://github.com/EleutherAI) | ◕ Ŏ Ĩ | https://github.com/EleutherAI/pythia
 
 ###Pruning Resources:
-Project & Model Names: | Type: | User(s) / Org. | Info: | Tags: | Resource Links:
----|:-|:-:|:-:|:-:|---
-SparseGPT | GPT (Family) | IST Austria: Alistarh Group | ... | ◕ Ŏ Ĩ | https://github.com/IST-DASLab/sparsegpt
-⇲ SparseGPT-for-LLaMA | LlaMA | AlpinDale | ... | ◕ Ŏ | https://github.com/AlpinDale/sparsegpt-for-LLaMA
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+SparseGPT | `↳ GPTQ IST-DASLab` | `raw-WikiText2`, `PTB`, `C4-subset` | [IST Austria: Alistarh Group](https://github.com/IST-DASLab) | ◕ Ŏ Ĩ | https://github.com/IST-DASLab/sparsegpt
+`⇲ SparseGPT` for LLaMA | LLaMA impl. |  ... | [AlpinDale](https://github.com/AlpinDale) | ◔ Ŏ | https://github.com/AlpinDale/sparsegpt-for-LLaMA
 
 ###Finetuning Resources:
-Project & Model Names: | Type: | User(s) / Org. | Info: | Tags: | Resource Links:
----|:-|:-:|:-:|:-:|---
-Parameter Efficient Fine Tuning | PEFT | Huggingface | ... | ◕ Ŏ | https://github.com/huggingface/peft 
-LlaMA Adapter | Adapter | ZrrSkywalker | ... | ◕ Ŏ | https://github.com/ZrrSkywalker/LLaMA-Adapter
-xTuring | xTuring | Cambridge Uni. | ... | ◕ Ŏ Ĩ | https://github.com/stochasticai/xturing
-Axolotl | Axolotl | Winglian | ... | ◕ Ŏ | https://github.com/winglian/axolotl/tree/main
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Low-Rank Adaptation of Large Language Models (LoRA) | `loralib` | Pre-Train. | [Microsoft](https://github.com/microsoft) | ◕ Ŏ $ | https://github.com/microsoft/LoRA
+Parameter Efficient Fine Tuning |  ... | PEFT | [Huggingface](https://github.com/huggingface) | ◕ Ŏ | https://github.com/huggingface/peft
+LlaMA Adapter | Adapter | [Implementation](https://arxiv.org/pdf/2303.16199.pdf) | [ZrrSkywalker](https://github.com/ZrrSkywalker) | ◕ Ŏ | https://github.com/ZrrSkywalker/LLaMA-Adapter
+xTuring | Fine-tune Interface | INT4 w/ `↳ LoRA` | [Stochastic: Cambridge Uni.](https://github.com/stochasticai) | ◕ Ŏ Ĩ | https://github.com/stochasticai/xturing
+Axolotl | ... | ... | [Winglian]( https://github.com/winglian) [OpenAccess AI Collective](https://github.com/OpenAccess-AI-Collective) | ◕ Ŏ | https://github.com/OpenAccess-AI-Collective/axolotl
+Dromedary | Finetuning | Min. Supervision | [IBM](https://github.com/IBM) | ◕ Ŏ | https://github.com/IBM/Dromedary
 
 ###Quantization Resources:
-Project & Model Names: | Type: | Tags: | Resource Links:
----|:-:|:-:|---
-GPTQ | LlaMA | ◕ Ŏ | https://github.com/qwopqwop200/GPTQ-for-LLaMa
-RPTQ | LlaMA | ◕ Ŏ | https://github.com/AlpinDale/RPTQ-for-LLaMA
-Reduced-Kobold | GPTQ +SparseGPT | ◔ Ŏ | https://github.com/mstnegate/reduced-kobold
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+GPTQ | LlaMA | ... | [Qwopqwop200](https://github.com/qwopqwop200) | ◕ Ŏ | https://github.com/qwopqwop200/GPTQ-for-LLaMa
+RPTQ | LlaMA | ... | [AlpinDale](https://github.com/AlpinDale) | ◕ Ŏ | https://github.com/AlpinDale/RPTQ-for-LLaMA
+Reduced-Kobold | GPTQ +`↳ SparseGPT` | ... | [Mstnegate](https://github.com/mstnegate) | ◔ Ŏ | https://github.com/mstnegate/reduced-kobold
+GPTQ 4 LLaMa  | `⇲ ROCm` | `↳ GPTQ-for-LlaMA` | [WapaMario63](https://github.com/WapaMario63) | ◕ Ŏ | https://github.com/WapaMario63/GPTQ-for-LLaMa-ROCm
 
 ###Benchmarking Resources:
-Project & Model Names: | Type: | Tags: | Resource Links:
----|:-:|:-:|---
-LLM Benchmark Prompts | Pastebin | ◕ Ŏ | https://pastebin.com/LmRhwUCA 
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+LLM Benchmark Prompts | Pastebin | Prompts | Anonymous | ◕ | https://pastebin.com/LmRhwUCA 
 
 ***
 ##Story/RP/ERP Generation & Character Resources:
-!!! info Story/RP/ERP Generation || Last Updated: May 7th, 2023
+!!! info Story/RP/ERP Generation || Last Updated: May 10th, 2023
 	I.  (Insert More Information)
 	II.  (Insert More Information)
 !!! info
-     This section will focus on resources for Story writing, Roll-Playing, Erotic-Roll-Playing using LLMs. (Insert More Information) 
+     This section will focus on resources for Story writing, Roll-Playing, Erotic-Roll-Playing using LLMs. 
 
 ###ERP/Roleplaying/Story Generation Resources:
-Project & Model Names: | Type: | Tags: | Resource Links:
----|:-:|:-:|---
-RolePlayBot Guide | ... | ◕ | https://rentry.org/RPBT 
-LLM Benchmark Prompts | ... | ◕ | https://pastebin.com/LmRhwUCA 
-ERP/RP Data Collection (Logs) | ... | ◕ | https://rentry.org/qib8f 
-Anon's Guide to LLaMA Roleplay | ... | ◕ | https://rentry.org/better-llama-roleplay
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+RolePlayBot Guide | Rentry | Guide | Anonymous | ◕ | https://rentry.org/RPBT 
+ERP/RP Data Collection | Rentry | Data Log Collection | Anonymous | ◕ | https://rentry.org/qib8f 
+Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection| Anonymous | ◕ | https://rentry.org/better-llama-roleplay
 
 ##Character Resources:
-!!! info Character Resources || Last Updated: May 8th, 2023
+!!! info Character Resources || Last Updated: May 10th, 2023
 	I.  (Insert More Information)
 	II.  (Insert More Information)
 !!! info
-     This section will focus on resources for characters and resources related to character generation. (Insert More Information) 
+     This section will focus on resources for characters and resources related to character generation.
 ###Character Generators and Guides:
-Project & Model Names: | Type: | Info. | Tags: | Resource Links:
----|:-|:-|:-:|---
-Oobabooga's Character Guide | Char. Guide | ... | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Custom-chat-characters.md
-Oobabooga's Character Creator | Char. Gen. | .json | ◕ Ŏ | https://oobabooga.github.io/character-creator.html 
-ZoltanAI Character Editor | Char. Gen. | Tavern, Pyggy, CAI | ◕ Ŏ | https://github.com/ZoltanAI/character-editor 
-Booru Collection for Pygmalion | Char. Library | ... | ◕ | https://booru.plus/+pygmalion 
-wAIfu - Tavern Cards | Zip Archive | mega.nz | ◕ | https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA
-CharacterHub | Char. Library | ... | ◕ | https://www.characterhub.org
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Oobabooga's Character Guide | Char. Guide | ... | [Oobabooga](https://github.com/oobabooga) | ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Custom-chat-characters.md
+Oobabooga's Character Creator | Char. Generator | .json | [Oobabooga](https://github.com/oobabooga) | ◕ Ŏ | https://oobabooga.github.io/character-creator.html 
+ZoltanAI Character Editor | Char. Generator | Tavern, Pyggy, CAI | [ZoltanAI](https://github.com/ZoltanAI) | ◕ Ŏ | https://github.com/ZoltanAI/character-editor 
+Booru Collection for Pygmalion | Char. Library | ... | ... | ◕ | https://booru.plus/+pygmalion 
+wAIfu - Tavern Cards | Tavern Cards | mega.nz file | wAIfu | ◕ | https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA
+CharacterHub | Char. Library | ... |  [CharacterHub](https://www.characterhub.org/about) | ◕ | https://www.characterhub.org
 
 ###Other Characters and Waifus:
-Project & Model Names: | Type: | Tags: | Resource Links:
----|:-:|:-:|---
-Girls Frontline Character Bots (GFL) (AICG) | .json & Tavern Cards | ◕ | https://rentry.org/GFLBots/ (AICG Bots - Not LLM) https://booru.plus/+pygmalion/@nymous (Tavern cards)
+Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+Girls Frontline Char. Files | Rentry | .json & Tavern Cards | nymous | ◕ | https://rentry.org/GFLBots/ (AICG Bots - Not LLM) https://booru.plus/+pygmalion/@nymous (Booru Depository)
+Wster's Characters | Profile | `↳ Character Hub` | ... | ◕ | https://www.characterhub.org/users/wster
 
 ##All Things Miku
-Project & Model Names: | Tags: | Resource Links:
----|:-:|---
-OG Miku | ◕ | https://pastebin.com/5WVd28Um
-Reverse Miku | (404) | https://pastebin.com/yG6xWMS
-Miku.sh | ◕ | https://pastebin.com/vWKhETWS
+Project & Model Names: | Type: | Info: | User(s) / Org. | Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+OG Miku | Pastebin | ... | Anonymous | ◕ | https://pastebin.com/5WVd28Um
+Reverse Miku | Pastebin | ... | Anonymous | ○ | https://pastebin.com/yG6xWMS
+Miku.sh | Pastebin | ... | Anonymous | ◕ | https://pastebin.com/vWKhETWS
 
 ##All Other things
-Project & Model Names: | Tags: | Resource Links:
----|:-:|---
-/lmg/ Baking Template | ◕ | https://rentry.org/lmg_template
+Project & Model Names: | Type: | Info: | User(s) / Org. | Tags: | Resource Links:
+---|:-|:-|:-|:-:|---
+/lmg/ Baking Template | Rentry | Baking Template | ... | ◕ | https://rentry.org/lmg_template
 
 ***
 ##->Other Known Places for LLM (ML/AI) Discussions:<-
 !!! danger PLEASE DO NOT SHILL ANY IRC, REDDIT, DISCORD SERVERS OR WHATNOT IN THE /LMG/ THREADS!! IT SHOULD BE KNOWN THAT THERE IS NO OFFICIAL /LMG/ DISCORD!! **NONE** OF THE PLACES BELOW REPRESENTS ALTERNATIVE COMMUNITIES OR PLACES FOR /LMG/. THEY ARE PLACES WHERE LLM'S IN GENERAL ARE DISCUSSED, DEVELOPED AND GENERALLY HAVE RESOURCES FOR LLM'S.
-**GitHub** | Tags: | Discussion Links:
----|:-:|---
-Ggerganov's llama.cpp | ◕ | https://github.com/ggerganov/llama.cpp/discussions
-Oobabooga's WebUI | ◕ | https://github.com/oobabooga/text-generation-webui/discussions
-Koboldcpp | ◕ | https://github.com/LostRuins/koboldcpp/discussions
-KoboldAI | ◕ | https://github.com/KoboldAI/KoboldAI-Client/discussions
-Wawawario2's long term memory | ◕ | https://github.com/wawawario2/long_term_memory/discussions
+**GitHub** | User(s) / Org. | Tags: | Discussion Links:
+---|:-|:-:|---
+Ggerganov's llama.cpp | [ggerganov](https://github.com/ggerganov) | ◕ | https://github.com/ggerganov/llama.cpp/discussions
+Oobabooga's WebUI | [Oobabooga](https://github.com/oobabooga) | ◕ | https://github.com/oobabooga/text-generation-webui/discussions
+Koboldcpp | [LostRuins](https://github.com/LostRuins) | ◕ | https://github.com/LostRuins/koboldcpp/discussions
+KoboldAI | [KoboldAI](https://github.com/KoboldAI) | ◕ | https://github.com/KoboldAI/KoboldAI-Client/discussions
+Wawawario2's long term memory | [Wawawario2](https://github.com/wawawario2) | ◕ | https://github.com/wawawario2/long_term_memory/discussions
 
-**Other Imageboards** | Tags: | Discussion Links:
----|:-:|---
-/robowaifu/ | ◕ | https://alogs.space/robowaifu/catalog.html
+**Other Imageboards** | User(s) / Org. | Tags: | Discussion Links:
+---|:-|:-:|---
+/robowaifu/ | ... | ◕ | https://alogs.space/robowaifu/catalog.html
 
-**IRC** | Tags: | Discussion Links:
----|:-:|---
-\#Localmodels | ◕ | irc.libera.chat #localmodels
+**IRC** | User(s) / Org. | Tags: | Discussion Links:
+---|:-|:-:|---
+\#Localmodels | ... | ◕ | irc.libera.chat #localmodels
 
-**Discord** | Tags: | Discussion Links:
----|:-:|---
-RedPajama | ◕ | https://discord.com/invite/9Rk6sSeWEG
-Stable Diffusion | ◕ | discord.gg/stablediffusion
-Pygmalion | ◕ | https://discord.com/invite/ZHXEa3yywq
-KoboldAI | ◕ | https://koboldai.org/discord
-ChatLLaMA | ◕ | discord.gg/TcRGDV754Y
+**Discord** | User(s) / Org. | Tags: | Discussion Links:
+---|:-|:-:|---
+RedPajama | ... | ◕ | https://discord.com/invite/9Rk6sSeWEG
+Stable Diffusion | ... | ◕ | discord.gg/stablediffusion
+Pygmalion | ... | ◕ | https://discord.com/invite/ZHXEa3yywq
+KoboldAI | ... | ◕ | https://koboldai.org/discord
+ChatLLaMA | ... | ◕ | discord.gg/TcRGDV754Y
 
-**Reddit** | Tags: | Discussion Links:
----|:-:|---
-LocalLLaMA | ◕ | https://www.reddit.com/r/LocalLLaMA/
+**Reddit** | User(s) / Org. | Tags: | Discussion Links:
+---|:-|:-:|---
+LocalLLaMA | ... | ◕ | https://www.reddit.com/r/LocalLLaMA/

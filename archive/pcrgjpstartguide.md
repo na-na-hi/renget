@@ -54,35 +54,35 @@ Updated: March 31st, 2023
 Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 of the 16 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies and returning players have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
 The following list is for new players to target, as some units are amazing - But require a ton of investment before they're actually good. 
 
-###->S Tier - Must roll for good start<-
+###->SS Tier - Get these two in or before your first spark and you're gold<-
 **Neneka** - Amazing magic unit that does everything except heal your team and restore TP. Useful for any level player, from new to #1 clan. Re-roll or make her your #1 spark target. Even without Unique Equip, still a great unit but get it ASAP and max it.
 **Ames** - Amazing support unit, makes entire party tankier with barrier, heals and a damage cut to lowest HP unit. Can help new players get further than they otherwise would without borrows. No Unique Equip.
 
-
-###->A Tier - Great for low and high level players, spark worth if you get the other two above<-
-**Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
+###->S Tier - Must have targets for max level players, worth completing a spark or two if you get the other two above as a new player<-
 **Christina** - Requires 6* & Max investment. Some TLs may require X.Chris bonds as well, so be careful when reviewing TLs. But an amazing physical damage dealer
-**Labyrista** - Thanks to her Unique Equip, rocketed straight into dominance in March 2023 CB. Requires max investment, but well worth it.
-**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
-**Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
+**Labyrista** - Thanks to her Unique Equip, rocketed straight back to dominance in CB. Requires max investment, but well worth it.
 **Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used.
+**Princess Hiyori** - CB staple that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE.
 
-
-### ->B Tier - Good for low level players, growing into great late game choices<-
-**Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
-**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. No Unique Equip yet. Can do well in low level Arena, with enough TP charging.
+### ->A Tier - Good for low levels, great for for Max-high levels<-
+**Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
 **Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
-**Princess Hiyori** - See P.Kyaru, just that she's physical.
-**Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
+**Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Good CB usage in April, needs more continued usage to stay relevant or move up in worth.
+**Muimi** - She's probably back, but we have very little data to prove this. Will re-visit
+
+### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
+**Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
+**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
+**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. No Unique Equip yet. Can do well in low level Arena, with enough TP charging.
+**Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
-**Misora** - A good magic damage dealer, but has yet to prove her massive worth aside from being very useful in EX6. No CB usage to date, so this could change in the next few months.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
-**Hatsune/Shiori Duo** - A good option for multi-target physical backline, but can get by without them
-**Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.
+**Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
 
 ### ->D tier - Not worth rolling for at this time<-
-**Muimi** - No place for her until 6*. Has a Unique Equip, but is still outmatched. Check back after her 6* is released in early May.
+**Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.
+**Hatsune/Shiori Duo** - A good option for multi-target physical backline, but can get by without them.
 
 ### -> Overall Prifes tier list <-
 Please note, the following is written for how these units are for max level players. (From best to worst = SS > S > A > B > C > D > F)
@@ -91,13 +91,13 @@ If you have a different option, discuss in the thread and it can be discussed.
 Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: 
 Christina | SS | C  | B | S | Yes | Yes
-Muimi | F | F | C | C | Yes | Coming soon
+Muimi | S | D | SS | S | Yes | Yes
 Neneka | SS | D | SS | SS | Yes | No
 P.Peco | C | A | C | B | Yes | No
 P.Kokkoro | B | C | A | A | No | No
-P.Yui | D | B | C | C | Yes | No
+P.Yui | D | C | C | C | Yes | No
 Laby | SS | F | SS | S | Yes | No
-P.Hiyori | S | F | A | B | Yes | No
+P.Hiyori | SS | F | A | B | Yes | No
 P.Kyaru | A | B | S | S | Yes | No
 P.Rei | C | A | SS | A | No | No
 Hatsu/Shio | C | D | B | A | No | No
@@ -107,16 +107,22 @@ Ranpha | B | F | A | A | No | No
 Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
 GreAnne | SS | F | SS | SS | No | No
-Misora | A | F | SS | A | No | No
+Misora | A | F | SS | S | No | No
 
 ##->Limited targets<-
-These units are only available during their specific banners and should be considered must-haves for anyone.
+These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
 
+###CB
 **New Years Neneka** - #1 magic buffer in the game, only comes by every New Years. Please roll for her/save a spark in your initial clearing and rolling.
-**New Years Kyaru** - Still great for nearly all game modes aside from Clan battle now, best to save a spark for her. 
 **New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year.
-**Swimsuit Saren** - Useful in every single game mode, grab her when possible.
 **Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to use UBs very early, but better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount.
+
+### Arena
+**Swimsuit Saren** - Massive TP restoration to all teammates on 1st skill for instant UBs. Sees use in all game modes, but extremely useful in Arena. Grab her when possible.
+
+### PvE
+**New Years Kyaru** -  Relegated to specific SP Dungeon & SP Event comps, but still a must have in your arsenal for these scenarios.
+
 
 ##->Permanent Targets<-
 While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions.

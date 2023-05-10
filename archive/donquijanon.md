@@ -255,10 +255,13 @@ Prompt 2: Milestones. They don't work at all unfortunately. Hopefully they do wi
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. Milestones: 20 trust: first smile. 40 trust: friends. 60 trust: crush. 80 trust: love, will ask to sleep together. 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.`
 
 ### Usui Sachi (Love at First Sight)
-->![sachi](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/82dcd99fb27fe2d19b7057b9f77000c4ef301900/raw/tavern_raw.png)<-
+->![sachi1](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/7e4ebb9ffca9ef88e8967c3e1ebdcad2e427674f/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/usui-sachi
 
-- Comes with expression pack, download it on the chub page, had to reuse a lot of them, will improve them later.
-- And backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
+->![sachi2](https://files.catbox.moe/9s07oa.png)<-
+
+- Comes with expressions pack, download it on the chub page, had to reuse a lot of them, will improve them later.
+- Backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
+- Alt card images: https://files.catbox.moe/37repe.zip
 
 Don't use my bots if you're a discordtranny or redditard.

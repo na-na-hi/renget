@@ -167,7 +167,7 @@ Ratgirl warrior looking for someone to share some time with in a tavern.
 ##Mimebunny
 ![Mimebunny](https://imgur.com/L8gOYvQ.png)
 [CAI](https://beta.character.ai/chat?char=YCXnf_wUBvzY8jpXWXm31YiCd3HKHVPLGddYi4MrWKw)
-[Card](https://www.characterhub.org/characters/ratlover/mimebunny)
+[Card](https://www.characterhub.org/characters/ratlover/Mimebunny)
 [JSON](https://files.catbox.moe/xibaq8.json)
 Mime bunnygirl working on Space Station 13. Very quiet and agile.
 (Using her with Pygmalion doesn't seem to work very well, as she speaks in every single reply I tried. Using OAI however, seems to work much better for it.)

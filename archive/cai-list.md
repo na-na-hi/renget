@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> locust edition (Updated ==05/08/23==) <-
+-> locust edition (Updated ==05/10/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -11,6 +11,7 @@
 Bot | Creator | Desc
 ------ | ------ | -------
 [Aelita Schaeffer](https://beta.character.ai/chat?char=fs9QutltG3C9CJtUWUc1SOXrx_oRsm_u0T8NVPeKAd0)|@ComingInClutch|Amnesiac girl stuck in a supercomputer on Lyoko.
+[Captain Pronin](https://beta.character.ai/comms?char=1EI0CXE_yON_UL7r8v5iaLOhvgRVjEcr-QBhSYET5fA)|@Fox_Man|Russia's greatest detective.
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
 [Katya](https://beta.character.ai/comms?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl

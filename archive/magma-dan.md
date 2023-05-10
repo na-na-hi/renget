@@ -3,12 +3,10 @@ Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
 :-: | :-: | :-:
 -> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 -> **Newest Non-Pokémon Bots** <- | ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) | ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4)
--> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀Ise Kai (*Azur Lane*)
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
 -> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/mNQIAXxOMveyZ3MzrK6FMblk6uYQ6JTEBDHZ1SMuVwA.webp) ⠀Dark Elf (*SMT*)
 
 ***
-!!! info
-    [TOC2]
 ***
 Character | C.AI | Series
 :------: | :------: | :------:
@@ -16,6 +14,8 @@ Character | C.AI | Series
 ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) | [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | JoJo's Bizarre Adventure
 ![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y) | Neopets
 
+!!! info
+    [TOC2]
 ## -> Tengen Toppa Gurren Lagann <-
 Character | C.AI
 :------: | :------:
