@@ -139,6 +139,12 @@ https://www.youtube.com/@zzz_fuwari
 https://archive.org/details/youtube-C_Rx8aiDnws
 https://archive.org/details/youtube-EIaIZAX9QaA
 
+サカイメの書架 [JP] [Graduated]
+https://www.youtube.com/@user-cc9dg3lk4z
+
+ Yunomiya Izuru -Izuru CH- [JP]
+https://www.youtube.com/@-izuruch-3433
+
 SatouHolmes Ch.佐藤ホームズ [JP] [Male]
 https://twitter.com/satouholmes
 https://www.youtube.com/@satouholmes/
@@ -158,6 +164,39 @@ https://twitter.com/Kon_Kurage
 めまいパレード[JP]
 https://twitter.com/hawaian_v
 https://www.youtube.com/@Memaiparade
+
+Eneko=Stinger[JP]
+https://twitter.com/EnekoStinger
+https://www.youtube.com/@EnekoStinger
+
+莉子ちゃんねる [JP]
+https://twitter.com/riko_seifukubu
+https://www.youtube.com/@user-wl9ql1sm7g
+
+霧の森ノン  Non Kirinomori [JP]
+https://twitter.com/NON_MJMJ
+https://www.youtube.com/@nonkirinomori 
+
+カフェ-de-しょこらch【咲良 しょこら】[JP]
+https://twitter.com/s_shocolat0507
+https://www.youtube.com/@sakura-shocolat-ch
+
+ゆんちゃむちゃんねる [JP]
+https://twitter.com/yuntyamutyamu
+https://www.youtube.com/@user-ji7hk8ub5f
+
+善財空ねる -Nel Zenzaiku- [JP]
+https://twitter.com/nel_zenzaiku
+https://www.youtube.com/@-nelzenzaiku-193
+
+黒綺ハル / Kuroki Haru [JP]
+https://twitter.com/haru_harunosora
+https://www.youtube.com/@harunosora
+
+Dia Tatsunuma / 辰沼ディア [JP]
+https://twitter.com/Dia_Tatsunuma
+https://www.youtube.com/@DiaTatsunuma
+https://www.twitch.tv/dia_tatsunuma
 
 ***
 
@@ -259,10 +298,6 @@ Pema[EN]
 https://twitter.com/PemaMysterious
 https://www.twitch.tv/pema
 
-Ichigolemonade[EN]
-https://twitter.com/ichigolemonade_
-http://twitch.tv/ichigolemonade_
-
 AurabunVT[EN]
 https://twitter.com/AurabunVT
 https://www.twitch.tv/aurabun
@@ -298,10 +333,6 @@ https://www.twitch.tv/silver_dawnbreak
 EUREKA X49 四九ゆりかch[EN]
 https://twitter.com/eurekax49
 https://www.youtube.com/@eurekax49/
-
-chocojax[EN]
-https://twitter.com/chocojax
-https://www.twitch.tv/chocojax
 
 FalooVT[EN]
 https://www.twitch.tv/faloovt

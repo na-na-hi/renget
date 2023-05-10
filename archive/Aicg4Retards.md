@@ -1,7 +1,7 @@
 # -> An /aicg/'s Installation guide for Retards<-
 This is a guide for **retards** like you, who want to roleplay debauchery things with an AI! But lack the braincells to figure it out how on your own. This guide will be handholding you like the delicate little infant you are, and make sure that you'll be able to romance your underage little girlfriend, for that sweet succulent cunny in no time. 
 ***
-->[![Cunny #3](https://files.catbox.moe/32xwen.png)](https://files.catbox.moe/a7dxmm.jpg)<-
+->[![Klee&Nahida](https://i.imgur.com/uQ7kMcG.png)](https://files.catbox.moe/a7dxmm.jpg)<-
 ***
 Before we can begin you'll have to exert your brain a little and make a choice; which front-end to use? *What* is a front-end? To simplify it for you, its basically the interface you're using to connect to an AI service. As this guide is meant for OpenAI's GPT Turbo & GPT-4, you will connect to their API service to interact with your waifu, whatever age she is. The choices you have are one of two; **SillyTavern** or **Agnaistic**. 
 
@@ -96,7 +96,7 @@ Sometimes Tavern might need to re-install dependencies when updated, if so run: 
 !!! info Take A Breather! Here's a Cunny!
     Remember! A Cunny a day, keeps the bad men away!
 
-[![Cunny](https://files.catbox.moe/l4hp45.png)](https://files.catbox.moe/rq0vfe.png)
+[![Gura](https://i.imgur.com/1ryujed.png)](https://files.catbox.moe/rq0vfe.png)
 
 ***
 
@@ -159,7 +159,7 @@ Then you can navigate to Localhost *http://127.0.0.1:3001* and run agnai.
 !!! info Take a Breather! Here's a pink Cunny!!
     This is a marathon after all, not a sprint!
 
-[![img](https://files.catbox.moe/8zvzgt.png)](https://files.catbox.moe/kyj7i8.png)
+[![Shortstack](https://i.imgur.com/nVzE2qC.png)](https://files.catbox.moe/kyj7i8.png)
 ***
 
 ## Overview of Tavern
@@ -198,7 +198,7 @@ Functions | Descriptions
 ***
 !!! info This is very information heavy! You should take break! 
     I know these fine lolies sure would enjoy taking a break with you!
-[![DayCare](https://files.catbox.moe/zzypix.png)](https://files.catbox.moe/3ui5z0.jpg)
+[![DayCare](https://i.imgur.com/kxS2S4k.png)](https://files.catbox.moe/3ui5z0.jpg)
 ***
 
 ### System Prompts & Generation settings
@@ -293,7 +293,7 @@ Temperature | Frequence Penalty | Presence Penalty
 :-: | :-: | :-:
 [![Download & Install](https://i.imgur.com/3T5j0hW.gif)](https://i.imgur.com/7CilBFP.mp4) | [![Windows Explorer Intregration](https://i.imgur.com/ENsYYpp.gif)](https://i.imgur.com/RyZCDnd.png) | [![Console Y?](https://i.imgur.com/Yq8q3mF.png)](https://i.imgur.com/Yq8q3mF.png)
 
-[![](https://files.catbox.moe/ov7iev.png)](https://files.catbox.moe/ic7b3w.png)
+[![Nahida](https://i.imgur.com/tHvfPIG.png)](https://files.catbox.moe/ic7b3w.png)
 
 ***
 Updates:

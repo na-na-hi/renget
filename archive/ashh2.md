@@ -1,15 +1,27 @@
-![What are you going to do?](https://files.catbox.moe/ecxrbr.jpg)
+![Three lolis](https://files.catbox.moe/ecxrbr.jpg)
 
-# Cute, Sexy and Moe story archives
+# Cute, Sexy and Moe archives
 **Keywords**: loli, shota, cunny, CSAM. Don't download if it's illegal in your country.
 
-Suggestions and data mainly from ATF and an old scrape of the _alt.sex.stories_ repository. The archives contain erotic story collections in CSV format that can be properly parsed with the python library `pandas`. Excel has been reported not to work correctly with them.
+Suggestions and data mainly from ATF and an old scrape of the _alt.sex.stories_ repository. The archives contain raw forum messages (in HTML) and erotic story collections in CSV format that can be properly parsed with the python library `pandas`. Excel has been reported not to work correctly with them.
 
+Please note that these archives are not ready to use for fine-tuning large language models. They should be cleaned and reprocessed in some way first; in the case of ERP/RP forums this means for example dealing with (not necessarily removing) HTML tags and/or BB code.
+
+More suggestions for similar content to scrape are welcome. Indicate them in /lmg/ after linking this Rentry in your message. Note that I will probably not add here scrapes from forums or websites that require a _manual approval process_ for accessing their content.
+
+## ERP/RP Forums
+Site name |   | Forum Section | Quality | Theme | Link | Message length statistics and notes |
+---|:-:|---|---|---|:-:|---
+[AllTheFallen](https://allthefallen.moe/forum/index.php) |⚠️| Roleplaying | Good | Loli/shota ERP | [.zip](https://files.catbox.moe/f4ujtl.7z) | `[Count:80864 Mean:975 Std:1781 25%:243 50%:510 75%:1132 90%:2236 95%:3245]` 
+[Lolicit](https://www.lolicit.org/forum.php) |⚠️| RP 1 on 1, RP general | Good | Loli/shota ERP | [.zip](https://files.catbox.moe/gust2p.zip) | #1:`[Count:37880 Mean:588 Std:678 25%:147 50%:461 75%:810 90%:1184 95%:1536]` #2:`[Count:45493 Mean:619 Std:1093 25%:158 50%:323 75%:686 90%:1367 95%:2019]`
+
+## Stories
 Site name |   | Quality | Theme | Link | Notes |
 ---|:-:|---|---|:-:|---
+[AllTheFallen](https://allthefallen.moe/forum/index.php) |⚠️| Mediocre ~ Good | Loli/shota general | [.7z](https://files.catbox.moe/lm5t9v.7z) | `[Count:47189 Mean:7049 Std:18518 25%:175 50%:913 75%:3944 90%:21160 95%:37340]` Since it's been scraped from a forum, the .CSV contains user comments as well.
 [C####sexstories](https://c____sexstories.com)|⚠️| Mediocre | Loli/shota general | [.zip](https://files.catbox.moe/s86tn2.zip) | Small collection of _forbidden_ stories (194). Uses _alt.sex.stories_ tagging (Check out [Source1](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm) and [Source2](https://www.asstr.org/~Uther_Pendragon/code/scfr-lng.htm) for details). The website name was too on the nose, so I censored it for this Rentry. Stories may need some cleaning for the remaining html tags.
 [Juicy Secrets](https://www.juicysecrets.club/) |⚠️| Poor** | Lesbian and Incest Lolita stories | [.zip](https://files.catbox.moe/be5hah.zip) | The stories are very good, but _consistently_ cleaning up the text from unnecessary tags, notes, links and information seems very difficult without extensive manual work. Thus, this .CSV file is just a raw scrape of the stories in html from the website, without much processing involved.
-[Kristen's Archives - The Book Shelf Directories](https://www.asstr.org/~Kristen/) |⚠️| Mediocre~Good (Variable) | General + Taboo + Lolisho | [.7z](https://files.catbox.moe/6cjx31.7z) | 4150+ selected stories of various genres parsed from a 2017 scrape of  _asstr.org_. Uses [_alt.sex.stories_ story codes](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm). Basic cleaning has been performed but the stories may still contain author notes, disclaimers, copyright remarks, short summaries and trailers, so they might be difficult to use properly.
+[Kristen's Archives - The Book Shelf Directories](https://www.asstr.org/~Kristen/) |⚠️| Mediocre~Good (Variable) | General + Taboo + Lolisho | [.7z](https://files.catbox.moe/6cjx31.7z) | 4150+ selected stories of various genres parsed from a 2017 scrape of  _asstr.org_. Uses [_alt.sex.stories_ story codes](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm). Basic cleaning has been performed but the stories may still contain author notes, disclaimers, copyright remarks, short summaries and trailers, so they might be difficult to use properly. About 25% of the stories are tagged as teen or loli/shota and below.
 [Leslita](https://www.asstr.org/~leslita/authors/index.html) |⚠️| Very Good | Lesbian Lolita stories | [.7z](https://files.catbox.moe/gvbj99.7z) | 4368 stories. Stories are tagged according to the _alt.sex.stories_ newsgroup tagging system. Check out [Source1](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm) and [Source2](https://www.asstr.org/~Uther_Pendragon/code/scfr-lng.htm) for a full explanation. Possible character encoding issues may be present. Em-dashes added during the parsing step. 
 Loliwood Studios |⚠️| **Excellent** | Loli/shota general | [.7z](https://files.catbox.moe/m4big2.7z) | About 7130 stories (multi-chapter story parts included). Parsed from a 2017 scrape of _asstr.org_. The CSV file uses expanded  [_alt.sex.stories_ story codes](https://www.asstr.org/~Uther_Pendragon/code/scfr.htm) where ages may sometimes be explicitly indicated. Story summaries, author information also provided. Content disclaimers and copyrights are most of the time separated from the story body, but story trailers ("Continues to Chapter X", etc) may still be present. 
 Piper's Domain |⚠️| **Excellent** | Loli/shota mind control stories | [.7z](https://files.catbox.moe/prh0qn.7z) | 665 stories (multi-chapter story parts included). Parsed from a 2017 scrape of _asstr.org_. The CSV file uses _alt.sex.stories_ story codes; an html file with the ones used in this archive is provided. Story summaries also present.

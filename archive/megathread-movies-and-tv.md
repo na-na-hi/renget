@@ -187,6 +187,10 @@
 - With even more wonderful features, you can watch a big variety of full HD movies and TV shows online for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/putlocker.pe/)
 
+### ▶️ [SeriesOnline](https://seriesonline.gg/)
+- Users may watch movies and TV episodes in great quality on this ad-free platform and is even superior to paid websites.
+- [URL Safety Results](https://www.urlvoid.com/scan/seriesonline.gg/)
+
 ### ▶️ [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
@@ -211,9 +215,9 @@
 - Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
 - [URL Safety Results](https://www.urlvoid.com/scan/uniquestream.net/)
 
-### ▶️ [WatchSeriesHD](https://watchserieshd.live/)
+### ▶️ [WatchSeries](https://watchseries.im/) / [2](https://watchserieshd.live/)
 - Get free HD streaming of movies and TV shows online. There is no need to register or subscribe. Get rid of your boredom and stress.
-- [URL Safety Results](https://www.urlvoid.com/scan/watchserieshd.live/)
+- [URL Safety Results](https://www.urlvoid.com/scan/watchseries.im/)
 
 ### ▶️ [YesMovies](https://yesmovies.ag/)
 - You may easily search for and discover your favorite movies and TV series while finding all the details including IMDB ratings.

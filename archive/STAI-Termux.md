@@ -87,7 +87,7 @@ Next is downloading the dependencies, you can do this by running this command, `
 ## Running SillyTavern.
 
 Last and final step weebs! Oh wait sorry.
-Ahem! To run tavern after you have completed the above steps, simply use this command, `node server.js`. 
+Ahem! To run tavern after you have completed the above steps, simply use this command, `./start.sh` or `bash start.sh` whichever you want.. 
 
 After that there should be an indication on the termux that tavern is running, after that just copy this link, `https://127.0.0.1:8000` and paste it into your browser and you're done!
 

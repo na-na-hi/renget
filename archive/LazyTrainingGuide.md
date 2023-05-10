@@ -70,65 +70,6 @@ Change your base_model, img_folder and output_folder paths.
 
 These are dependent on where your files are. Simply copy and paste the address from file explorer into the notepad doc, amending the defaults.
 
-Explanations of the important parts, going down the list:
-
-        self.scheduler: str = "cosine_with_restarts"
-
-We want to keep the scheduler as cosine_with_restarts for now. This enables cosine, and the ability to set restarts (restarting the training from scratch on a certain epoch). This allows your LoRA to continue training without overfitting too quickly. 
-
-        self.cosine_restarts: Union[int, None] = 5  # OPTIONAL, represents the number of times it restarts.
-
-As a personal preference, I like to set my restarts to 10% of my epoch count. For this purpose, it will be 5 restarts, epoch 50.
-
-        # learning rate args
-        self.learning_rate: Union[float, None] = 1.6e-4  # AdamW does not require this, some other optimizers do.
-        self.unet_lr: Union[float, None] = 1.6e-4  # OPTIONAL, Sets a specific lr for the unet, this overwrites
-        # the base lr in AdamW
-        self.text_encoder_lr: Union[float, None] = 6.5e-5  # OPTIONAL, Sets a specific lr for the text encoder,
-        # this overwrites the base lr in AdamW
-
-Typically I like to keep the LR and UNET the same. The higher the learning rate, the slower the LoRA will train, which means it will learn more in every epoch. I like to keep this low (around 1e-4 up to 4e-4) for character LoRAs, as a lower learning rate will stay flexible while conforming to your chosen model for generating. 
-
-The text encoder can be kept at 6.5e-5 up to 9.5e-5. If the text encoder is set too high, the LoRA will not conform to the model as well, and it will start to oversaturate your images once you start generating.
-
-        self.net_dim: int = 32  # network dimension, 32 is default, but some people train at higher dims
-        self.alpha: float = 16  # represents the scalar for training. default is half of dim.
-
-You can set these higher depending on your needs. For example, 128/128 dim/alpha will saturate your gens with more of the styling from your image dataset. This is useful for things like artist and style LoRAs, but less desirable for characters and concepts. 
-
-        self.train_resolution: int = 512
-
-You can set this as high as 768. You will need to reduce the batch size to compensate for the use in VRAM. I have personally not noticed a huge difference in image quality, but your mileage may vary. I keep this at 512 most of the time.
-
-        self.batch_size: int = 2  # The number of images that get processed at one time, this is directly proportional
-        # to your vram and resolution. with 12gb of vram, at 512 reso,
-        # you can get a maximum of 6 batch size
-
-As a standard, I have kept this at batch 2. Higher batch sizes require more VRAM. For example, a 3060 can hit batch 6. There is varying information of how this affects your LoRA. From my experience it's safest just to pick one batch size and amend your training settings dependent on the finished LoRA. It is a factor, but not impactful enough to change every time you want to make a new LoRA. For this example, I will be using 202 images. Each epoch will train once on each image, and go up an epoch. This will keep training until it hits 50 epochs and spits out the finished LoRA. 
-
-
-
-        self.clip_skip: int = 2  # If you are training on a model that is anime based,
-        # keep this at 2 as most models are designed for that
-
-As a rule, NAI-based models = Clip 2
-SD-based models = Clip 1
-
-        # steps args
-        self.num_epochs: int = 50  # The number of epochs, if you set max steps this value is
-        # ignored as it doesn't calculate steps.
-        self.save_every_n_epochs: Union[int, None] = 5  # OPTIONAL, how often to save epochs, None to ignore
-
-We will be setting image repeats to 1, so I have kept epochs high to compensate. Higher epochs will mean longer training and more steps. Setting the 'self.save_every_n_epochs' to 5 will save every 5 epochs. This will simply save your LoRA every 5 epochs, and will let you pick the sweet spot where your LoRA is cooked to your liking. You will need to set epochs higher or lower depending on the amount of images you have in your dataset. 
-
-        self.buckets: bool = True
-        self.min_bucket_resolution: int = 320
-        self.max_bucket_resolution: int = 1280
-        self.bucket_reso_steps: Union[int, None] = 64  # is the steps that is taken when making buckets, can be any
-
-From what I understand, bucketing will take snapshots of your image up to your max resolution (assuming the image is above 512). I've seen no consensus on whether setting the max resolution too high creates latent space i.e. white noise/snapshots of unusable data, so I keep it at 1280 as a middle ground.
-
-These are the primary things you'll be changing around once you're more comfortable with what kind of LoRA you want to train, and the datasets you train them on.
 
 
 
@@ -320,3 +261,65 @@ If your LoRA is 'underfit' i.e. your character isn't showing up, the details are
 If your LoRA is 'overfit' i.e. it is a garbled mess of artifacting, saturation etc. you either need to go down a few epochs or reduce the training rate. 
 
 ![Fin](https://i.imgur.com/V4s5clw.png)
+
+Training fluff:
+
+Explanations of the important parts, going down the list:
+
+        self.scheduler: str = "cosine_with_restarts"
+
+We want to keep the scheduler as cosine_with_restarts for now. This enables cosine, and the ability to set restarts (restarting the training from scratch on a certain epoch). This allows your LoRA to continue training without overfitting too quickly. 
+
+        self.cosine_restarts: Union[int, None] = 5  # OPTIONAL, represents the number of times it restarts.
+
+As a personal preference, I like to set my restarts to 10% of my epoch count. For this purpose, it will be 5 restarts, epoch 50.
+
+        # learning rate args
+        self.learning_rate: Union[float, None] = 1.6e-4  # AdamW does not require this, some other optimizers do.
+        self.unet_lr: Union[float, None] = 1.6e-4  # OPTIONAL, Sets a specific lr for the unet, this overwrites
+        # the base lr in AdamW
+        self.text_encoder_lr: Union[float, None] = 6.5e-5  # OPTIONAL, Sets a specific lr for the text encoder,
+        # this overwrites the base lr in AdamW
+
+Typically I like to keep the LR and UNET the same. The higher the learning rate, the slower the LoRA will train, which means it will learn more in every epoch. I like to keep this low (around 1e-4 up to 4e-4) for character LoRAs, as a lower learning rate will stay flexible while conforming to your chosen model for generating. 
+
+The text encoder can be kept at 6.5e-5 up to 9.5e-5. If the text encoder is set too high, the LoRA will not conform to the model as well, and it will start to oversaturate your images once you start generating.
+
+        self.net_dim: int = 32  # network dimension, 32 is default, but some people train at higher dims
+        self.alpha: float = 16  # represents the scalar for training. default is half of dim.
+
+You can set these higher depending on your needs. For example, 128/128 dim/alpha will saturate your gens with more of the styling from your image dataset. This is useful for things like artist and style LoRAs, but less desirable for characters and concepts. 
+
+        self.train_resolution: int = 512
+
+You can set this as high as 768. You will need to reduce the batch size to compensate for the use in VRAM. I have personally not noticed a huge difference in image quality, but your mileage may vary. I keep this at 512 most of the time.
+
+        self.batch_size: int = 2  # The number of images that get processed at one time, this is directly proportional
+        # to your vram and resolution. with 12gb of vram, at 512 reso,
+        # you can get a maximum of 6 batch size
+
+As a standard, I have kept this at batch 2. Higher batch sizes require more VRAM. For example, a 3060 can hit batch 6. There is varying information of how this affects your LoRA. From my experience it's safest just to pick one batch size and amend your training settings dependent on the finished LoRA. It is a factor, but not impactful enough to change every time you want to make a new LoRA. For this example, I will be using 202 images. Each epoch will train once on each image, and go up an epoch. This will keep training until it hits 50 epochs and spits out the finished LoRA. 
+
+
+
+        self.clip_skip: int = 2  # If you are training on a model that is anime based,
+        # keep this at 2 as most models are designed for that
+
+As a rule, NAI-based models = Clip 2
+SD-based models = Clip 1
+
+        # steps args
+        self.num_epochs: int = 50  # The number of epochs, if you set max steps this value is
+        # ignored as it doesn't calculate steps.
+        self.save_every_n_epochs: Union[int, None] = 5  # OPTIONAL, how often to save epochs, None to ignore
+
+We will be setting image repeats to 1, so I have kept epochs high to compensate. Higher epochs will mean longer training and more steps. Setting the 'self.save_every_n_epochs' to 5 will save every 5 epochs. This will simply save your LoRA every 5 epochs, and will let you pick the sweet spot where your LoRA is cooked to your liking. You will need to set epochs higher or lower depending on the amount of images you have in your dataset. 
+
+        self.buckets: bool = True
+        self.min_bucket_resolution: int = 320
+        self.max_bucket_resolution: int = 1280
+        self.bucket_reso_steps: Union[int, None] = 64  # is the steps that is taken when making buckets, can be any
+
+From what I understand, bucketing will take snapshots of your image up to your max resolution (assuming the image is above 512). I've seen no consensus on whether setting the max resolution too high creates latent space i.e. white noise/snapshots of unusable data, so I keep it at 1280 as a middle ground.
+
+These are the primary things you'll be changing around once you're more comfortable with what kind of LoRA you want to train, and the datasets you train them on.
