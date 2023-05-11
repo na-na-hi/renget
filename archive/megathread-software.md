@@ -13,6 +13,16 @@
 
 &nbsp;
 
+# 📝 ➜ Table of Contents
+
+[TOC]
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 1 ➜ Direct Downloads
 
 ### 🔗 [Aedownload](https://aedownload.com/)

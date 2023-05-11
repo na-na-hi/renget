@@ -13,6 +13,16 @@
 
 &nbsp;
 
+# 📝 ➜ Table of Contents
+
+[TOC]
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 1 ➜ Direct Downloads
 
 ### 🔗 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)

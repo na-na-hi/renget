@@ -1,8 +1,11 @@
 ### **/moon/ links**
 
 **Karaoke**
-[Archived](https://www.holosite.me/song/search.html) - Click on the options tab and click on ムーナ then search for the song you want, only for Archived Karaokes. 
-Unarchived - [Incomplete Mega](https://mega.nz/folder/XRYD2RRC#6vVkatVFR39LwZAKKgJTTA) 
+-[Archived](https://www.holosite.me/song/search.html) - Click on the options tab and click on ムーナ then search for the song you want, only for Archived Karaokes. 
+
+-Unarchived 
+- [Incomplete Mega](https://mega.nz/folder/XRYD2RRC#6vVkatVFR39LwZAKKgJTTA) 
+- [Stash](https://stash.kitsu.red/karaoke/moona/) (This might be down at times, if it is just check again after a while.)
 >For ones that aren't in the link just search on nyaa/pirates and hope it's not dead. 
 
 **3D Lives/Appearances**

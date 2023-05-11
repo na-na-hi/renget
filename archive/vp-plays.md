@@ -205,6 +205,7 @@ https://arch.b4k.co/vp/thread/51810074/ 12 luke, i am your overused plot device 
 ##Pokemon Opal
 !!! note Status: Completed
     The fifth major LP, notable for bird spam instead of dragon spam. For the sake of completeness, the first few threads before I burnt out from boredom are included, but for all intents and purposes, this playthrough was done by Wagiedos after he finished empire chapter who the fuck knows who the fuck cares, who then disappeared after this LP.
+also, looking through the archive, it seems like the lurkers and tripfags were considerably hornier than usual.
 
 https://arch.b4k.co/vp/thread/51868978/ -2 all the official starters suck
 https://arch.b4k.co/vp/thread/51871975/ -1 rule 5 compliant
@@ -300,9 +301,17 @@ https://arch.b4k.co/vp/thread/53356135/ 2 dude, where's my writefag?
 https://arch.b4k.co/vp/thread/53375847/ 3 got bored/filtered, it's over
 
 ##Pokemon Wack (woot solorun)
-!!! info Status: Ongoing
+!!! warning Status: on hiatus (i should probably try to get a longer attention span)
     don't you love stubbornness
     this is another solorun of Pokemon Wack but with woot, but with at least 425% more legendaries murdered
 	
 https://arch.b4k.co/vp/thread/53705156/ 1 woot wednesday
 https://arch.b4k.co/vp/thread/53737743/ 2 total legendary death
+
+##Pokemon Ocandia
+!!! info Status: Ongoing
+    Basically a hijacked shill thread for You Just Know: the fangame, that ended up becoming a proper LP, where I play a shitty shilled fangame to prove that it's nowhere near as good as the shill claims it is, so you guys don't have to.
+    Not a LP of one of its sequels, "Pokemon Ocandia: Blood on the Ice", which is a very shittily made visual novel with about fuck-all to do with Pokemon.
+
+https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
+https://arch.b4k.co/vp/thread/53781242/ 2

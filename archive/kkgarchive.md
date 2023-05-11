@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 11.05.2023 01:00 UTC]
+[Last Updated: 11.05.2023 07:00 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7367699/](https://boards.4chan.org/h/thread/7367699/)
 
@@ -9,7 +9,7 @@ Last five:
 - 582&nbsp;&nbsp;[archiveofsins.com/h/thread/7367699/](https://archiveofsins.com/h/thread/7367699/)&nbsp;&nbsp;&nbsp;&nbsp;(10.05.2023 11:09)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Devilish witchery Edition!
 - 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Feedin' the geese Edition
 - 580&nbsp;&nbsp;[archiveofsins.com/h/thread/7356383/](https://archiveofsins.com/h/thread/7356383/)&nbsp;&nbsp;&nbsp;&nbsp;(03.05.2023 09:55)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Hurry the fuck up OP edition
-- 579&nbsp;&nbsp;[archiveofsins.com/h/thread/7352221/](https://archiveofsins.com/h/thread/7352221/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 00:47)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Sad drunk Chika edition
+- 579&nbsp;&nbsp;[archiveofsins.com/h/thread/7352221/](https://archiveofsins.com/h/thread/7352221/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 00:47)&nbsp;&nbsp;[1079]&nbsp;#&nbsp;Sad drunk Chika edition
 - 578&nbsp;&nbsp;[archiveofsins.com/h/thread/7347371/](https://archiveofsins.com/h/thread/7347371/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 05:29)&nbsp;&nbsp;[951]&nbsp;#&nbsp;Eveningtimes Edition
 ---
 Archive:

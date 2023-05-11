@@ -13,6 +13,16 @@
 
 &nbsp;
 
+# 📝 ➜ Table of Contents
+
+[TOC]
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 1 ➜ Direct Downloads
 
 ### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Sign Up

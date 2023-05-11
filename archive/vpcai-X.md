@@ -2,7 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------:
-May 10th | Dawn - *TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
+May 10th | Dawn⠀-⠀*TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*

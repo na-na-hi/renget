@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/FtajP0u.png)
-Cute Little Monkeys Edition
+![suggested OP image](https://imgur.com/LxjDrf1.png)
+The Tardening Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>429103328
+Last thread: >>429250412
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
+\>(05/10) Colabchads... it's over. \[spoiler]Maybe.\[/spoiler] >>429365520
+(05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
 (05/08) Kobold updates: >>428664559 >>428841081 ; Green Devil out! >>429061348
 (05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter ; Saga alphas freeform mode >>428651359
 (05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
-(05/01) Neat https://novelai.net/tokenizer ; Floyd underwhelms https://huggingface.co/spaces/DeepFloyd/IF
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write dumb prompts for this week's theme, Retarded Klutz Friday!
+Write dumb prompts for tomorrow's theme, Retarded Klutz Friday!
 
 
 ##Perma-Template

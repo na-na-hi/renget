@@ -22,6 +22,16 @@
 
 &nbsp;
 
+# 📝 ➜ Table of Contents
+
+[TOC]
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 🏆 1 ➜ Greatest Treasures
 
 ### 🧭 [All Purpose](https://rentry.co/megathread-all-purpose)

@@ -13,6 +13,16 @@
 
 &nbsp;
 
+# 📝 ➜ Table of Contents
+
+[TOC]
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 1 ➜ Direct Downloads
 
 ### 🔗 [3ost](https://3ost.ru/) • Sign Up • Russian UI

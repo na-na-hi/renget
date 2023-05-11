@@ -16,7 +16,7 @@ Previous development suggestions for TW listed on the GitGud repo for AnonTW (ht
 - Hickey Mechanic Tweak
 - New Achievements
 - New Requests
-- Feature: Egg Laying Mechanic for Amphibian, Bird, Insect, and Reptile Youkai.
+- Feature: Egg Laying Mechanic for Amphibian, Bird, Fish, Insect, and Reptile Youkai.
 
 Suggestions which have been completed.
 - Feature: Banquet Expansion

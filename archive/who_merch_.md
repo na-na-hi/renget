@@ -8,11 +8,20 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
-**HoloEN Connect the world concert streaming ticket (July 2nd, PDT)**
+
+**HoloEN Connect the World Concert (July 2nd, PDT)**
+- - -
+**Streaming ticket**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
-**Additional tickets will be made avalible after 13th May 10AM PDT
+**Additional venue tickets will be made avalible on 13th May 10AM PDT
 If you want to attend the concert without buying a scalped ticket it's probably the last last chance.**
 https://www.ticketmaster.com/event/0A005E712A3809AD
+
+**Merch** (Order period ends 29th May 0200 PDT)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_madetoorder
+**Sponsor merch**
+Keyboard keycap set & desk pad
+https://hyte.com/store/hololive-connect-the-world-keycap-bundle?v=151
 
 
 ##Sold out/ order period ended
