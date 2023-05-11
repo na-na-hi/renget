@@ -13,16 +13,15 @@ There are two methods you may use to format your SD card to FAT32:
 
 #####Warning:
 ***
-#####`Make sure to backup any files that you have on your SD card before you start!`
+!!!danger Make sure to backup any files that you have on your SD card before you start!
 
-#####`No seriously, backup your files because you will be formatting your SD card and you will lose all files on your SD card!`
+!!!danger No seriously, backup your files because you will be formatting your SD card and you will lose all files on your SD card!
 
-#####`Last warning, please backup your files that are on your SD card before you start!`
+!!!danger Last warning, please backup your files that are on your SD card before you start!
 
-#####Formatting your SD card:
+#####Format an SD card:
 ***
-***Note:**
-If you're unsure on how to boot a payload, please check this [guide](https://rentry.org/SwitchPayloadLaunch).*
+!!!info If you're unsure on how to boot a payload, please check this [guide](https://rentry.org/SwitchPayloadLaunch).
 
 1. Launch into hekate. 
 2. Select the `Tools` tab.
@@ -35,29 +34,44 @@ If you're unsure on how to boot a payload, please check this [guide](https://ren
 ####PC method
 #####What you'll need:
 ***
-* [Minitool Partition Wizard](https://www.partitionwizard.com/download-free-from-cnet.html?p=pw&e=pw-free&r=free-partition-manager)
+* [Minitool Partition Wizard](https://cdn2.minitool.com/?p=pw&e=pw-free)
 
 #####Warning:
 ***
-#####`Make sure to backup any files that you have on your SD card before you start!`
+!!!danger Make sure to backup any files that you have on your SD card before you start!
 
-#####`No seriously, backup your files because you will be formatting your SD card and you will lose all files on your SD card!`
+!!!danger No seriously, backup your files because you will be formatting your SD card and you will lose all files on your SD card!
 
-#####`Last warning, please backup your files that are on your SD card before you start!`
+!!!danger Last warning, please backup your files that are on your SD card before you start!
 
-#####Formatting your SD card:
+
+#####Format an SD Card:
 ***
-Plug your SD card into your PC and launch Minitool partition wizard.
-Once you have Minitool partition wizard launched, highlight your SD card by clicking on it.
-Right click it, and select `Delete All Partitions`.
+1. Connect your SD card to your PC.
+2. Launch **MiniTool Partition Wizard**. 
+3. Select your SD card and right click on it.
+4. Select `Delete All Partitons` and confirm by clicking `Yes`.
+	* You will now have an empty partition called `*:`. 
+5.  Select that partition, right click on it, and click `Create`.
+7. Do the following:
+	1. In the **Partition Label:** box, write a name.
+	2. In the **File System:** menu, select `Fat32`.
+8. Click `OK` to confirm the partition settings.
+9. Click `✓ Apply` and click `Yes` to apply the pending changes.
+10. Your SD card will  now be formatted to `FAT32`.
 
-Once done you will have one empty partition. Right click on that empty partition and select `Create`. 
-
-In the `Partition Label` section, write any name you want.
-In the `File System` section, make sure to select `FAT32`.
-Once you're done, click `OK`.
-
-Now select `apply` and your SD card will be formatted to `FAT32`. 
+#####Format a partition:
+***
+1. Connect your SD card to your PC.
+2. Launch **MiniTool Partition Wizard. **
+3.  Select your desired partition and right click on it.
+4. Select `Format`.
+5. Do the following:
+	1. In the **Partition Label:** box, write a name.
+	2. In the **File System:** menu, select `Fat32`.
+6. Click `OK` to confirm the partition settings.
+7. Click `✓ Apply` and click `Yes` to apply the pending changes.
+8. Your partition will  now be formatted to `FAT32`.
 
 ***
 ######[⬅️ Go Back 🦝](https://rentry.org/homebrewandmisc)

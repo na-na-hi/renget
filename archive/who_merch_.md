@@ -9,7 +9,7 @@ https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
 
-**HoloEN Connect the World Concert (July 2nd, PDT)**
+>**HoloEN Connect the World Concert (July 2nd, PDT)**
 - - -
 **Streaming ticket**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
@@ -40,7 +40,7 @@ https://shop.tsukumo.co.jp/features/hololive_english/
 **HoloEN Kimono Acrylic stands** (Order period ended 20th Feb 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
 
-**Holo Fes related merch** 
+>**Holo Fes related merch** 
 - - -
 **Gacha**
 **holo\*27 button badges**

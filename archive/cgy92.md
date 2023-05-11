@@ -43,7 +43,7 @@ What is featured on this recommendation list was her longest stream at the time 
 
 ######Jump King
 ->[Go back to the TOC](https://rentry.org/cgy92)->
-Most recent longest stream, clocking at 6:13:43. The other reasons why the stream is featured in the rentry are the VChat interactions with Bae and Kronii and the last 30 minutes of perseverance on Mumei's part to get done with her in-game objectives.
+Previous longest stream (title taken by [PKM Violet Shiny Hunt](https://www.youtube.com/watch?v=PHeWJNBIFbY) in Dec 22), clocking at 6:13:43. The other reasons why the stream is featured in the rentry are the VChat interactions with Bae and Kronii and the last 30 minutes of perseverance on Mumei's part to get done with her in-game objectives.
 | Date | Title | Link & Thumbnail |
 |------|-----|-----|
 | 2022-02-12 | 【JUMP KING】Owl Learns to JUMP! ft. maybe friends | [![](https://files.catbox.moe/aals6q.jpg)](https://www.youtube.com/watch?v=hb7U1_CUc8Q)

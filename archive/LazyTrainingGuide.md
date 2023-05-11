@@ -3,6 +3,8 @@
 
 ->==These are baseline settings and can be tweaked depending on whatever LoRA you want to make. I personally find these settings useful for generating simple characters==<-
 
+My Civit: https://civitai.com/user/LazyTrainer/
+
 5/11/23 - Updated Hydrus link, included link to Py 3106
 
 # Step 1

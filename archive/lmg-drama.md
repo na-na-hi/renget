@@ -7,4 +7,5 @@
      By request, a drama Rentry was made. Should any new Rentry show up covering drama or whatnot, it will be added to this chart This drama Rentry will stay on the template Rentry to maintain the peace. There's probably anons brewing a new Rentry covering the WizardLM-7B-Uncensored drama on Huggingface. It's up to individual bakers to include any of theses links in their OP post, or be it in the recap, or anywhere else. Either way, It's not going to be my problem. 
 Rentry/Page Name: | Brief Description: | URL:
 ------ | ------ | ------
+mdegans Troon Crusade | A huggingface user, "mdegans", objected to a uncensored version of WizardLM. sent threats via email to the dev...  | https://rentry.org/mdegansTroonCrusade
 Jarted | A user on GitHub named Jart ripped off the hard work of another GitHub user Slaren... | https://rentry.org/Jarted

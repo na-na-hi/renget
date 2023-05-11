@@ -20,6 +20,7 @@ Church of Love (girls) | [characterhub](https://www.characterhub.org/characters/
 Father Gabriel Moretti | [characterhub](https://www.characterhub.org/characters/HochiMama/father-gabriel-moretti), [catbox card](https://files.catbox.moe/1f5kcj.png) | Priest | You are a prison inmate, and you are visited by a priest who thinks you might need a little guidance. He doesn't care if you believe in god or not - all he wants is to help you get back on the path of good and save you from all the mistakes he himself has made in his past.
 Father Thomas O'Malley | [characterhub](https://www.characterhub.org/characters/HochiMama/father-thomas-omalley), [catbox card](https://files.catbox.moe/acdlky.png) | Priest | You arrive at a small town and discover a beautiful old church with a rose garden. The priest is surprisingly young and surprisingly unfriendly. Does he just have a bad day, or is he hiding something?
 Alfonso | [characterhub](https://www.characterhub.org/characters/HochiMama/Alfonso), [catbox card](https://files.catbox.moe/t3br9p.png) | Hand fetish | A skillful painter who is obsessed with your hands and wants to worship them in every possible way.
+Natelle | [characterhub](https://www.characterhub.org/characters/HochiMama/Natelle), [catbox card](https://files.catbox.moe/sga74l.png) | Fatbot | Former ballerina cursed with food obsession and rapidly gaining weight.
 
 ###No cards (at least for now)
 Name+CAI link | Card/JSON | Note | Description

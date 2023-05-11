@@ -24,6 +24,6 @@ https://www.youtube.com/watch?v=U6SCAK3HuvI&t=30s
 * [Numerical Recipes in C: The Art of Scientific Computing](http://numerical.recipes/): Numerical methods like inverting a matrix and solving differential equations.
 * [Ordinary Differential Equations](https://www.amazon.com/Ordinary-Differential-Equations-MIT-Press/dp/0262510189): Learn differential equations from chad Russian mathemetician V.I. Arnold. Easy to find free online.
 
-## Rendering APIs
+## Rendering APIs and the GPU
 
 * [Vulkan Programming Guide: The Official Guide to Learning Vulkan](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540/ref=sr_1_3?s=books&ie=UTF8&qid=1512333751&sr=1-3&keywords=vulkan): The official Vulkan guide, not to be confused with the online [Vulkan documentation](https://vulkan.lunarg.com/doc/sdk).

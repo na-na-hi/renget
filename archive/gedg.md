@@ -57,7 +57,7 @@ Post your progress monthly. Unlike game jams you can work on something old. Subm
 
 ## Resources and Links
 
-In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw).
+In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. 
 
 ### C Builds and Libraries for the Inexperienced
 
