@@ -145,18 +145,6 @@ https://www.youtube.com/@user-cc9dg3lk4z
  Yunomiya Izuru -Izuru CH- [JP]
 https://www.youtube.com/@-izuruch-3433
 
-SatouHolmes Ch.佐藤ホームズ [JP] [Male]
-https://twitter.com/satouholmes
-https://www.youtube.com/@satouholmes/
-
-鳴ノ世ユウト@知識欲系邪神Vtuber [JP] [Male]
-https://twitter.com/Nyarlat_Nosse_V
-https://www.youtube.com/@Nyarlat_nosse/
-
-Reo inuduki ch [JP] [Male]
-https://twitter.com/Reo_inuduki
-https://www.youtube.com/@Reoinuduki
-
 儚牙紺(Kurage Kon）[JP]
 https://www.youtube.com/@KurageKon/
 https://twitter.com/Kon_Kurage
@@ -197,6 +185,16 @@ Dia Tatsunuma / 辰沼ディア [JP]
 https://twitter.com/Dia_Tatsunuma
 https://www.youtube.com/@DiaTatsunuma
 https://www.twitch.tv/dia_tatsunuma
+
+ベラライカ [JP]
+https://twitter.com/bellaraika
+https://www.youtube.com/@bellaraika 
+
+
+新妻 ネトラ [JP]
+https://twitter.com/NTR_s2s2
+https://www.youtube.com/@NTR_s2s2
+
 
 ***
 
@@ -485,8 +483,21 @@ https://twitter.com/bbyruthless
 ichigolemonade_[EN]
 https://twitter.com/IchigoLemonade_
 https://www.twitch.tv/ichigolemonade_
+
+Garou[EN]
+https://www.twitter.com/Garougyaru
+https://www.twitch.tv/gyarugarou
+
+Dolce[EN]
+https://www.twitter.com/DolceVtuber
+https://www.twitch.tv/dolcevt
+
+Maika Mallow Ch. [EN]
+https://twitter.com/MaikaMallow
+https://www.youtube.com/@MaikaMallow
+
 ***
-##->Other Vtubers<-
+##->Other  languages<-
 BunnyBlasty[ES]
 https://twitter.com/OneBunnyQueen
 https://www.twitch.tv/bunnyblasty
@@ -505,5 +516,67 @@ https://twitter.com/SelphyMelody
 https://www.twitch.tv/selphy
 https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q
 
+
+
+##->Male/Babiniku<-
+
+Oga Ch.荒咬オウガ [JP]
+https://twitter.com/aragamioga
+https://www.youtube.com/@AragamiOga
+
+ベルモンド・バンデラス [JP]
+https://twitter.com/belmond_b_2434
+https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+
+Gwelu Os Gar [JP]
+https://twitter.com/Gwelu_os_gar
+https://www.youtube.com/@GweluOsGar
+
+イブラヒム [JP]
+https://twitter.com/honmono_ibrahim
+https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A
+
+Riksa Dhirendra [ID]
+https://twitter.com/RiksaDhirendra
+https://www.youtube.com/@RiksaDhirendra
+
+SatouHolmes Ch.佐藤ホームズ [JP]
+https://twitter.com/satouholmes
+https://www.youtube.com/@satouholmes/
+
+鳴ノ世ユウト@知識欲系邪神Vtuber [JP] 
+https://twitter.com/Nyarlat_Nosse_V
+https://www.youtube.com/@Nyarlat_nosse/
+
+Reo inuduki ch [JP] 
+https://twitter.com/Reo_inuduki
+https://www.youtube.com/@Reoinuduki
+
+ティナ・ブラックタイガー [JP]
+https://twitter.com/ThinA_Btora
+https://www.youtube.com/@ThinAnotEbi
+
+KOKI [JP]
+https://twitter.com/KOKI_V_creative
+https://www.youtube.com/@KOKI_V_creative
+
+さけちゃんねる金髪褐色 [JP]
+https://twitter.com/saketya
+https://www.youtube.com/@user-mc1vd8ch4p
+https://www.twitch.tv/saketyav
+
+搗栗のとちゃんねる [JP]
+https://twitter.com/Kachiguri_Noto
+https://www.youtube.com/@NOTO_CHANNEL
+
+ 一等星あらた [JP]
+https://twitter.com/Itosei_Arata
+https://www.youtube.com/@Ittosei_Arata
+
+Aiden Khanin [EN]
+https://www.twitter.com/AidenKhanin
+https://www.twitch.tv/AidenKhanin 
+
 ***
+
 [TOC2]

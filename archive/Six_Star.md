@@ -1,150 +1,236 @@
 # 6 Stars 
-All 6 Star units get increased base stats and a UB+ that enhances that skill. Some 6 Stars get better UB+ upgrades than others.  
+All 6 Star units get increased base stats and a UB+ that enhances that skill. Some 6 Stars get better UB+ upgrades than others. 
+Ratings will be given for Bond story, Max level and low level priority rating. This goes from: **Top > High > Med > Low > Luxury**
 
-Last Updated: May 7th (Some units were written for EN and are being converted to JP onlight thoughts.)
+Top - Rules the meta in relevant category.
+High - Great choice if you're running low on top priority picks
+Med - Can wait if you're trying to manage resources, but good
+Low - Not super important, but nice to have
+Luxury - Collection purposes only if you have extra resources to fluff about with
+
+PvE is defined as a general category for anything that isn't Arena or CB such as Event SP, Dungeons, Luna Tower, Special Dungeon, etc... 
+
+Last Updated: May 10th (Kokkoro to Ayane have been updated with the latest JP thoughts. If you have a different opinion, reply to the OP in the thread and discuss why.)
 
 [TOC2]
 
 ## -> Kyaru <- (JP release date: Year 2, August 31st)
-Kyaru 6 Star is more of an Arena unit that gets to shine in a Master Senri comp to pop the mobs with her UB.
-- UB+ gives her double damage and a fear debuff that prevents units from using their UB.
- - Bonds 9-12 give a total of 70 Magic Crit Rate, and 360 M.Atk, a must have for Nyaru comps.
-- Kyaru sees some usage in Arena where she's the focal point, thanks to her huge range and fear debuff.
-- She is used for 1 month in CB, then rarely seen unless you're looking for a budget option. An okay unit for Arena
+Does not see any usage, a stat stick for her other versions. 
+- UB+: Gives her double damage and a fear debuff that prevents units from using their UB.
+- CB:  Do not use in CB, as she is extremely powercrept by the plethora of mutli-target mages actually designed for CB.
+- Arena: Can be a very poor man's mage in Arena for Luna cannon comps, but is extremely outclassed. Do not use outside of having a pure love for the character.
+- PvE: Not going to be used in any sort of content 
+- Unless you've unlocked all other 6 Stars or have some sort of undying love for Kyaru, her only worth is in bond stories. Not advised for new players, as there are better units to unlock.
+
+Bond story priority: Low (Relevant for O.Kyaru, Pyaru)
+Max level Unit priority: Luxury
+New player Unit priority: Luxury (Does not help clear EX3+ faster)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Kokkoro <- (JP release date: Year 2, August 31st)
-Good unit in Arena early on due to stats, but amazing in CB for a long time and prone to rank AND level autism.
-- UB+ gives her a big party heal, increased buff values and gives units +10 TP boost for 18s per UB and stacks.
-- Can do well in Arena due to stats, but falls off as her skills are garbage. 
-- Gets used a ridiculous amount early on for CB, due to her support skills and position in relation to magic teams. 
-- Drops off after a while of newer support releases that have better skills than her, but is always creeping in the back of minds for TP looping.
-- https://www.youtube.com/watch?v=HQYH3d1tjho
+Can be a decent stop-gap for tanking and healing if you're missing some, but definitely an outclassed support.
+- UB+: gives her a big party heal, increased buff values and gives units +10 TP boost for 18s per UB and stacks.
+- CB: Outfclassed by her own Princess version, which is currently outclassed by other units. A victim of power creep.
+- PvP: No CC as a support and no reason to use, her skills are not very good in PvP.
+- PvE: Nice heal if you don't have decent options for healing and TP buffs, but just overall outdated.
+- You can find limited, cope use for her since she has TP Boost, but will always be a sub-optimal choice. There are simply too many supports that are just better. Bond story tier, like Kyaru.
+
+Bond story priority: Low (Relevant for C.Kokkoro, NY.Kokkoro)
+Max level Unit priority: Luxury
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher,  unless you have no healers)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Pecorine <- (JP release date: Year 2, August 31st)
-Amazing Arena unit, not seen in CB outside of inferior comps and some early Goblin stuff.
-- UB+ gives her a P.Atk buff that increases based on HP and increases the values of current defensive buffs gained from it
-- 6 Star Stats are the massive difference for her, only real way to deal with her is by stunning her onigiri and having your own Peco on release.
-- Never drops off too hard, but takes a back seat to Rima 6 Star due to Magical Kasumi. Arena players want her badly.
-- Still used in specific defense cheese comps in JP arena.
+Still has a niche in Arena offense, but no longer relevant in a meta sense. 
+- UB+: Gives her a P.Atk buff that increases based on HP and increases the values of current defensive buffs gained from it
+- CB: Skillset is not appropriate for CB, do not attempt to use. 6 Star does not change this.
+- PvP: Has some niche usage against those Summer Hatsune comps where they try to burst squishy targets, but isn't pivotal to those.
+- PvE: Tanks generally need some sort of reason to be used, but Peco has none over options like Nozomi.
+- Peco has no taunt or utility for her team, which many other tanks do. She has a lot of nodes early on, but you can blow through story with borrows and get other key 6 Star units to farm.
+
+Bond story priority: Low (Relevant for P.Peco)
+Max level Unit priority: Luxury
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Rino <- (JP release date: Year 2, September 30th)
-Fantastic Arena unit that is needed to stay competitive in Arena. She'll pop anything once she UBs, unless it's Peco or a tank with a shield. She can pop squishy units, but you need a plan on how to deal with the other units.
-- UB+ gives an increase in damage and a x3.5 modifier for crits, meaning she'll evaporate anything with an X.Chika buff and TP boosts from S.Saren & Yukari
-- Rino Wars dominate Arena brackets and if your Rino isn't 1shotting the enemy Rino or other units, they get enough TP to fire right back.
-- Sees use in very specific Shadow Horse Nyaru comps, where she is used as a UB sponge due to it targeting the highest P.Atk unit and she has 6* stats to survive it. 
-- In March 2020, got Youtube videos flagged for any audio where she UB'd or a Youtuber talked about it by name due to the pandemic. People had to mute audio of it and refer to her UB as 567 Rain to avoid the automated flag system
-- Still used in Arena on JP for offense teams, a great unit to have if you plan on doing Arena.
+Extremely niche and outclassed, not worth grabbing over other B.Arena units.
+- UB+ gives an increase in damage and a x3.5 modifier for crits.
+- CB: No chance as she's heavily reliant on crits and offers nothing outside of damage. Does not circumvent the damage cap.
+- PvP: Very niche usage against full squishy teams without Ames, or other barriers. Thee issue is that the meta does not lend itself to that on defense or offense. P.Aren would be your best bet if you're a huge Rino fan with a diehard desire to make her work.
+- PvE: Most PvE units are HP sponges, which Rino cannot deal with. Could deal a bit of damage in panic comps to clean up mutli-target dungeon bosses, but there are better options by far. 
+- A running theme for the first few batches of 6 Star units - There are just better options, especially with Monika/Tamaki/Hiyori sharing the same store. Can still shred squishy teams, but so can many other units.
+
+Bond story priority: Luxury (Rino has no good versions to note for this)
+Max level Unit priority: Low
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Rima <- (JP release date: Year 2, October 31st)
-An Arena staple and sees some very rare use cases in CB. A good answer to Rino and later on, Magical Girl Kasumi due to her late entrance.
-- UB+ gives increased damage, increased p.def buff and a physical barrier. Very good answer to physical comps that don't account for Rima, she can easily force a stall.
-- She will be used in nearly every defense comps and is one of the reasons why stall meta is so dominant during this period. 
-- Rima has sparring use in CB against Crab and Orc Chief in T4 because of her UB shield. 
-- She never really goes away, as her late run-in is too important to counter the meta-warping Magical Girl Kasumi.
+Even after all these years, Rima is still here and plays a part in Arena.
+- UB+ gives increased damage, increased p.def buff and a physical barrier. 
+- CB: Not worth looking at anymore, there are simply better tanks that offer actual utility like Action speed or TP restoration. Rima doesn't.
+- PvP: Not as omnipresent because NY.Muimi is in side stories, but their roles are still critical in eating up a MS.Kasumi snare. Rima's barrier still continues to help block physical damage, but her role in defense is long gone. Every slot is precious in PvP, so you need a very good reason to leave your Pos 2 unit exposed to an S.Misogi/Inori/Mifuyu stun. In addition, her running in late does also manipulate positions for opponents due to her needing a spot to run to and changing up where units stop in relation to the enemy team. Certainly one to grab, or grab NY.Muimi.
+- PvE: Not worth anything, unless MS.Kasumi pops up in some strange EX stage
+- Rima will always be relevant to PvP, she's just tailor made for it. Everywhere else, she is nothing more than a joke.
+
+Bond story priority: Luxury (Rima has no bonds worth speaking about)
+Max level Unit priority: Med
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Io <- (JP release date: Year 2, November 30th)
+Io 6* is another Arena unit that is required to fight for top spots in a comfy manner. Still used defenses & offense, though in fewer comps. 
+- UB+ hits opponents with TP Boost reduction, increased damage, 1s increase on charm and drains TP from damaged units. If her skill does 0 damage because of shields, the charm and TP reduction do not take effect. Charm lasts 5s.
+- CB: TP steal is nice, but zero reason to use her when other TP steal units like Noir Io do it better.
+- PvP: Still a great PvP unit, just in choice defense and offenses. As metas have changed, Io has remained a stable part of most for her charm and TP steal.
+- PvE: Can be used to watch units murder each other, but requires a lot of investment into having Io UB as often as possible. This can help lower level players clear individual Luna Tower floors, VH fights or main story nodes they may have been struggling with, but it's incredibly gimmicky. Other than this small niche, nothing of note.
+- Arena enthusiasts should aim for Io, as she's a good part of a healthy box for offense solutions. Everyone else, just avoid her unless you enjoy running funny comps like the one mentioned above.
 
-Io 6* is another Arena unit that is required to fight for top spots, as were Rino & Rima before her. Still used in JP defenses & offense, though in fewer comps. 
-- UB+ hits opponents with TP Boost reduction, increased damage, 1s increase on charm and draisn TP from damaged units. If her skill does 0 damage because of shields, the charm and TP reduction do not take effect.
-- Io Wars are a hilarious gamble, because draining the correct unit on S2's random choice can lead to a win. Draining the wrong unit can lead to a loss, which there is nothing you can do about. Dominates offense and defense comps. Yet you don't really have a choice, because she's so strong.
-- No use in CB, outside of budget options where you need to drain TP from bosses.
-- Sees slight dips in arena usage, but still always a threat. Less used in JP these days defensively, more of an uncommon unit.
+Bond story priority: Low (Relevant for Noir Io)
+Max level Unit priority: High
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Yukari <- (JP release date: Year 2, December 31st)
-It's been nearly 3 years and we're still using Yukari in nearly every single game mode. She's one of the best 6 Stars and a very easy one for new players to obtain quickly. New players should make her or Maho their first one.
-- UB+ now heals, provides a m.def buff and increased shielding. Massive for keeping units alive against otherwise fatal damage in fights.
-- Yukari was used before in Arena, she's a mainstay now. Having the stats to tank and give out TP to units like Rino & Io means that she frees up an extra slot to play with in your Arena comps. Mifuyu stuns her out of her first TP restore, but magic gets completely shut down by her. Io UB+ gets blocked hard by Yukari if she's allowed to UB.
-- Yukari can now tank in several CB fights, while handing out TP to units like Nyaru and others. Maximum CB rank autism with Yukari, including her UE. A must-have for CB for several years.
-- This is the one of the real nightmares of CB autism, as Arena users want her maxed for their brackets - But CB players want her at Rank 14 for efficient TP timings and so she doesn't TP charge the wrong unit in timelines. 
-- Yukari 6 Star is used in every single part of the game, no exceptions. Be glad she's from Dungeon, as she never goes away. JP CB does not use her very often anymore, but only after we got shit like Karin, NY.Neneka, Fes.Yuni and other supports that finally pushed her out.
+Yukari is still going to show up and there's nothing we can do about it. Her TP charge is too valuable to fall out of meta in at least Arena.
+- UB+ now heals, provides a m.def buff and increased shielding. 
+- CB: Not very good use, but could be made to help in sub-optimal comps. Or you can just hit T3 instead.
+- PvP: Yukari + good Arena unit (Ex. Anna, Ames) on offense/defense will never not be a good combo, as she can instantly fill a TP bar with a S2. Usually charges pos 4 unit, but this is dependent on positioning and gets weird because positions are strange in this game sometimes, especially with NY.Muimi or Rima involved.
+- PvE: Similar to Ames in some ways, but a specialist against magic damage. She and Ames make for a good duo to protect your units, provided you can run 3 DPS. Very useful in comps for dungeons or Luna Tower, where you need a quick TP charge and a tanky position 1 unit to do it.
+- Easy to farm up since she's a Dungeon shop unit and always relevant, she's a top priority to assist in clearing content for new players. If you're not a new player, you most likely have her. If not, then go get her.
+
+Bond story priority: High (Relevant for X.Yukari, herself)
+Max level Unit priority: Top (Why wouldn't you have her?)
+New player Unit priority: Top (Can help clear EX3/4 if missing units that provide TP)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Maho <- (JP release date: Year 3, January  31st)
-She is a huge reason loops exist, a common CB Rank AND level autism offender, Arena unit and worst of all - Extends timelines to incredibly high times because of how often units will UB. Another unit that has never left the meta and continues to see usage in all game modes to this day, in JP. There is no reason to not get this unit ASAP.
-- UB+ give increased M.Atk and P.Def. The big upgrade is that her UB also gives a flat 120 TP to all units and restores 10 TP per second, for 10 seconds. Both the 120 TP & 10 TP per second are increased by the receiving unit's TP boost stat. 
-- Maho now has a solid niche in Arena, blinding the 2nd slot in an opponent's team. If that's not good enough, she also is another contributor to stall comps, because of her extremely far back positioning and ability to buff p.def. If you can't kill her, she will buff her party's defense, heal up units and eventually break you or waste the 1:30.
-- Another CB autism nightmare, she has seen use at a few different ranks including 11, 12 and 18. Her UE heal can cause TLs to brick if it grants her target too much P.Def. This results in not enough TP being gained by that unit, fucking the TL and misaligning timings.
-- Her UB TP gains are flat values, meaning that the only benefit from leveling it is getting a bigger P.Def and M.Atk buff. This results in Maho have extreme level autism, where you want her under max level for many comps later on.
-- Simmers/TL makers should be warned that this wasn't too public early on, so reference comps might be hard to find. Just don't level her UE, S1 or UB for CB, unless you really need to for TLs.
-- Maho 6 Star warps the meta and is probably the only reason looping existed to the extent it does. Her contributions lead to an eventual TP Boost maximum cap, because of shit like Tier 5 130m 1-pans. (See below). 
-https://www.youtube.com/watch?v=4_nl2Eo6WAA
+Still used in CB, still causing level autism, good Arena unit and worst of all - Extends timelines to incredibly high times because of how often units will UB. Another unit that has never left the meta and continues to see usage in all game modes still. There is no reason to not get this unit ASAP.
+- UB+: Gives increased M.Atk and P.Def. The big upgrade is that her UB also gives a flat 120 TP to all units and restores 10 TP per second, for 10 seconds. Both the 120 TP & 10 TP per second are increased by the receiving unit's TP boost stat. 
+- CB: Consistently seen in comps and mostly for her UB's huge TP restoration, but is the worst offender of level autism. Just go and look at any Wyvern Rider month and you'll see, but because increased defensive stats still affect TP Gain, she will always have some form of autism in timelines. We have a ton of TP boost, so her UBs will be granting a large amount.
+- PvP: Niche PvP usage, but still does help with a blind and UBs in tanky comps to help lighten blows from hard hitting physical attacks. 
+- PvE: Excellent for the reasons above, but just applied to all other modes. 
+- Candidate for 1st 6 Star choice, she's just always going to be relevant. Her in combination with TP Boosters like Neneka are examples of why we now have a TP Boost stat cap. Even through that, Maho is a top tier pick in most parts of the game.
+
+Bond story priority: Low (Relevant for C.Maho)
+Max level Unit priority: Top (Why wouldn't you have her?)
+New player Unit priority: Top (Necessary for early EX3/4)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Yui <- (JP Release Date: Year 3, February 29th)
-Yui isn't as impactful in CB as other units, but she does see a fair bit of use. A unit that especially new players will adore, to help clear pesky nodes and content that you'd normally not be able to clear.
-- UB+ Gives increased heal, physical barrier, p.def buff and most importantly, a large increase in action speed.
-- A great arena unit for countering Rino, if she doesn't die. This means that the rank autism is also here for Yui if you're an Arena player. Her UB popping is the difference between your Rino dying or not. Sees niche usage as more units are released
-- For CB, she offers players the ability to tank hits that would normally be fatal, from physical damage. Since units get TP even if shields block damage, this makes Yui a valuable asset. She starts to drop off for max rank players, as she offer no debuffs - But for newer players, she allows for easier hits that would most likely fail in higher tiers.
-- Overall, a really solid unit with lots of early hard node to gain access to. As the game goes further along, she loses her place in CB - But most other game modes make great use of 6 Star Yui in JP, even to this day.
+Mostly not used, but easy to farm with so many nodes.
+- UB:+ Gives increased heal, physical barrier, p.def buff and an added buff to action speed.
+- CB: Not relevant anymore, Ames is a better support in every imaginable way aside from action speed, which we can get from units like Karin or Monika.
+- PvP: Outside of very cheesy full tank comps with shields and healing, Yui doesn't see much use in PvP due not having any CC.
+- PvE: Can help clear against physical damage where folks may have struggled - But at that point, you can just Ames and a better unit. Seen sometimes in SP dungeon, but the first two boss floors and be cleared by many things and is not an indication that Yui is really strong.
+- Past her prime, but has enough nodes to easily farm up when done with other units. Supports these days are just filled to the brim with utility and Yui does not compare. Obtain out of pure love, or do not touch until much later.
+
+Bond story priority: Low (Relevant for S.Yui)
+Max level Unit priority: Low 
+New player Unit priority: Low (Can assist for early EX3/4 comps, but not a main piece.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Hiyori <- (JP Release Date: Year 3, February 29th)
-Hiyori is a flash in the pan for CB, but an important one. All she does is offer damage, meaning that her expiration date approaches when other units can offer more than just damage. In Arena, she's great and then becomes just alright.
+Hiyori has been relegated to niche Arena solutions, but at least it's something.
 - UB+ increases her damage by double for the main target and triples it for the units who are hit by the multi-target portion, with an extra bit of range on the multi-target parts
-- She becomes one of the highest damage dealers for a brief time for CB and a great one for multi-target bosses. She also has a massive drop off when it does occur.
-- In Arena, she does well when not up against a Peco or Rima, as she cannot bypass them. That being said, she has an effective spot in P.Arena and some offense teams in JP today. Not the most effective, but a niche is a niche.
-- Overall, a solid unit on release that eventually gets powercrept by new releases.
+- CB: Not relevant, just make sure you don't mistake her portrait for Piyori.
+- PvP: Can see some usage in comps where there are many squishies and she can reach them with her UB. Not an Arena staple by any means, but a real niche is better than nothing.
+- PvE: See CB, just don't. 
+- There are better borrows for new players like Chris or Akino, so that's not something for her at this point. If you like having a flexible PvP box, grab her after key B.Arena targets like Monika, Tamaki. Helps Piyori's P.Atk though.
+
+Bond story priority: Med (Relevant for Piyori, maybe S.Hiyori)
+Max level Unit priority: Low 
+New player Unit priority: Low (Can help in a pinch for EX3/4 comps, certainly not a main piece.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Rei <- (JP Release Date: Year 3, February 29th)
-Rei is an example of a 6 Star that gets an extra goodie that makes her a core CB unit for quite some time.
-- UB+ give a massive increase in damage, alongside a unique buff that doubles the values of her skills. This means that while being a great damage dealer, her debuff gets doubled and the duration goes from 12s to 24s. Too bad about Counter slash being a shit skill.
-- Not really an Arena unit, but could see some niche usage as a physical damage dealer in P.Arena due to raw stats advantage. Not very impactful once more units are released.
-- CB is where Rei earns her accolades, as her increased stats allow her to eat up damage and lifesteal it back up. She is used in nearly all physical comps due to this, for a decent amount of time. Rei eventually does fall off in favour of other debuffers who don't get stuck in counter-slash, but her time will never be forgotten.
-- A must have for CB units, as borrowing Rei/Chris is a common double physical theme for certain routes. Not advised for Arena usage in most scenarios, outside of release P.Arena usage. Somewhat dead in JP
+Rei is just okay, but no longer has a spot.
+- UB+: Gives a massive increase in damage, alongside a unique buff that doubles the values of her skills. 
+- CB: No usage, aside from maybe some T3 comps. But almost anything can do T3.
+- PvP: Not built for PvP, she's too busy getting stuck in counter-slash. Many better options.
+- PvE: Can help in some dungeon comps early on due to her UB+, but those are resources you could be using for another, better 6 star.
+- The biggest thing Rei 6 Star contributes is having her bond stories apply to P.Rei and maybe S.Rei when her UE rolls around. She's now retired and won't be seen, unless something crazy happens.
+
+Bond story priority: Low (Relevant for P.Rei, possibly S.Rei)
+Max level Unit priority: Low 
+New player Unit priority: Low (Can help in a pinch for EX3/4 comps, certainly not a main piece.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Hatsune <- (JP Release Date: Year 3, March 31st)
-The Rino solution no one asked for, now becomes the master of Arena. Also benefits from of loops against T5 Pigs & Lion in CB.
-- UB+ actually does the same damage against magic units and no added bonus. However, it gives an increased amount of damage damage vs physical targets, a m.def debuff and a 6s stun against anything physical.
-- Hastune canon is a classic Arena comp that will shred anything physical. The only real way to stop it, is by stopping Yukari and or S.Saren. If left unchecked, she will smash your team in 2 UBs. Not as good on defense due to being a very specific counter, but a really great P.Arena comp for defense in blind matches. It's a free win if your opponent can't guess where you stored it, to actually counter it.
-- She actually has a niche in CB, which is performing in loop comps vs Tier 5 Lion and Pigs. Otherwise, not very useful due to specific niche.
-- Hatsune is still seen in some offenses in JP, but not as much anymore. For a while, she is the biggest stall breaker because of how strong physical units are in Arena. If you plan on hanging around in P.Arena, better get her.
+Do well in P.Arena to farm Anna instead, because Hatsune is on the bench.
+- UB+: Gives an increased amount of damage damage vs physical targets, a m.def debuff and a 6s stun against anything physical.
+- CB: No niche anymore, as we have many better options in magic damage multi-target damagers. Was mostly only used in loops anyway.
+- PvP: Still sees some usage, but Misaki/Anna are mostly used in the magic space for PvP. Can still smash physical teams without proper magic barrier protection thanks to her stun, but that's usually just the enemy having a poor defense.
+- PvE: Requires too much support for little return, so just avoid her for this purpose.
+- The meta has naturally gained lots of ways to deal with Hatsune. From CC to shields like S.Chika, magic units need a bit more punch if they're going to break maxed out units running around with barriers.
+
+Bond story priority: Low (Relevant for S.Hatsune)
+Max level Unit priority: Low 
+New player Unit priority: Low (Can help clear lower level physical 6* quests)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Tamaki <- (JP Release Date: Year 3, April 30th)
-A sorely needed magic sniper, due to the terrors of Yui/Io/Hatsune/Maho in their respective comps. Now with Rairai destruction abilities.
-- UB+ gives nothing against physical units, but gains a few new buffs against magic attackers. A massive increase in UB damage and large p.def debuff make her the true anti-fun for magic units.
-- Her role as a magic sniper means that she'll be pivotal to snuffing out stall comp staples like Yui, Maho and Io. She is the sole protector against Hatsune cannon if you have the right units, because she'll pop Hatsune before the terror begins.
-- Tamaki's role is to drain TP from bosses and be a damage dealer/debuffer against magic bosses where applicable. She's more of an uncommon unit that you should always have built, because when she appears - You cannot replace her role.
+Tamaki's still kicking, just in a minor role.
+- UB+: Gives nothing against physical units, but gains a few new buffs against magic attackers. A massive increase in UB damage and large p.def debuff.
+- CB: Has had niche roles as TP stealer/debuffer against Rairai & Madame Electra in the past, but is slowly fading away due to better units appearing in these roles. 
+- PvP: Can be used to snipe Ames in comps where stuns will not prevent Tamaki from hitting first. Not a mainstay, but is reliable for sniping key magic units when you can't find someone else to do it.
+- Tamaki's got a weird case of being designed for Arena, but being relevant in CB. As her stun does not offer a defensive debuff or any team utility, she will most likely continue to fall behind in cases where her TP steal is not enough to make her relevant. She lives on through her hat alts.
+
+Bond story priority: Med (Relevant for Ca.Tamaki)
+Max level Unit priority: Med 
+New player Unit priority: Med (Can help clear lower level magic 6* quests, assist in alternative anti-magic solutions in Arena and CB)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
+
 ## -> Mifuyu <- (JP Release Date: Year 3, May 31st)
-An Arena specialist with the quickest stun in the game, thanks KMR.
+A quick 1st action stun means Mifuyu will always have some relevance, just varying degrees in both Arenas.
 - UB+ Gives increased damage, increases the stun time to 4s and adds a condition that if the target being UB'd is already stunned, her UB will deal damage to and stun every other unit in the party.
-- Mifuyu is a great lead unit that can stun the 1st enemy unit (or 2nd in the list if Rima/NY.Muimi are in) in order to force a skill cancel. She's got a faster stun than Inori IF she is furthest forward unit in your party at the start of the fight. Good on defense as well as a nice stall breaker in offense comps, Arenalords will want her quickly.
-- No use in CB.
-- Mifuyu will always get used in Arena in niche scenarios, especially in P.Arena. Best get to farming, Arena folks.
+- CB: I've tried.and it doesn't work. She's an Arena unit, so don't even think about it. Bosses can't get stunned anymore.
+- PvP: Excellent lead or 2nd position with Inori or S.Misogi. Really shines in P.Arena, but can be used in B.Arena in certain solutions. Less dominant due to the release of S.Misogi, Miyako 6 Star and other factors, but still a force in both modes.
+- PvE: See CB.
+- Unless you're a PvP kind of person, you'll want to avoid her. And since stuns can miss thanks to being lower level, do be careful when using her if you choose to grab her early. Having a large amount of nodes means you CAN farm her quicky, but doesn't necessarily means you should prioritize her.
+
+Bond story priority: Luxury (Mifuyu has no relevant alts)
+Max level Unit priority: Med 
+New player Unit priority: Low (helps in Arena efforts, just watch level difference for unexpected stun % chance misses.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Shizuru <- (JP Release Date: Year 3, June 30th)
-Another Arena unit that has specialized CB usage against Needle Creeper T4/T5. 
-- UB+ increase the damage by a ton, adds a p.def buff, physical barrier and HP regen to all units within 300 range of her.
-- For Arena, Shizuru shuts down any physical based comps and is a contributor to stall comps, or the 6 Star crowd with Yukari/Maho/Yui/Shizuru/Rima. It's a lot of shielding and healing if you cannot break one in a single hit. She can also smash squishy units with her UB, if the occasion presents itself.
-- With a small niche in CB, Shizuru is actually pretty important when she's called upon against Needle Creeper and to a lesser extent, Orc Chief in T4/T5.
-- Solid unit that has some usage in several game modes when needed. Mostly a physical damage wall that can also offer heals, her time in CB on JP has mostly ended.
+Niche in both Arena and CB, you can't really go wrong with Shizuru.
+- UB+: Increase the damage by a ton, adds a p.def buff, physical barrier and HP regen to all units within 300 range of her.
+- CB:  Shizuru is actually pretty important when she's called upon, but these are usually the smallest of niches that come around infrequently. 
+- Arena:  Shizuru helps stuff physical damage dealers, provide healing and is a nice contributor to shutting down those S.Hatsune/R.Rin style compes that are meant to explode units. She can also smash squishy units with her UB, if the occasion presents itself.
+- PvE: Sometimes called upon for the same reasons called out above, but again - It's an extremely rare moment when it does happen.
+- Solid unit that has some usage in several game modes when needed. Mostly a physical damage wall that can also offer heals, her usage in CB is usually the smallest of niches.
+
+Bond story priority: Luxury (Relevant alts: Noir Shizuru)
+Max level Unit priority: Med
+New player Unit priority: Low (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Ayane <- (JP Release Date: Year 3, August 6th)
-An Arena niche unit that can really mess with positions, but needs support.
-- UB+ has increased damage, makes it an AOE damaging skill that applies stun to units within 375 range of the initial target and increases the stun time to 3s
-- Not exactly a titan of Arena, but can mess with positioning if she's allowed to get a UB off. More of a P.Arena unit if anything, but still not great.
-- No use in CB, as bosses do not get stunned.
-- Not really worth the resources, you can skip her if you wish. Arena lovers may want to add her to the collection, as her knockback can help score wins against comps not built to handle that.
+Supposed to be an Arena unit, but just doesn't have enough tools to complete with power creep.
+- UB+: Increased damage, makes it an AOE damaging skill that applies stun to units within 375 range of the initial target and increases the stun time to 3s
+- CB: No, as bosses do not get stunned.
+- Arena: No, there are many better stun options.
+- PvE: Unless you're trying to do some fancy position manipulation for fun or in Luna Tower, there's no reason to use her.
+- Ayane is outdated and just can't keep up with the meta of Arena. You can try to make anything work in P.Arena and there are certainly opportunities that could work, but that's just a theory.
+
+Bond story priority: Med (Relevant alts: Ex. Ayane)
+Max level Unit priority: Low
+New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
-## -> Saren <- (JP Release Date: Year 3, September 7th)
+## -> Saren <- (JP Release Date: Year 3, September 7th) **Next to be updated**
 Excellent unit that provides a buff at lower HPs, Saren role is more of a supporter.
-- UB+ deals increased damage, including another increase based on missing HP and a Magic & P.Atk buff for all friendly units.
-- 6 Star Saren is a staple in many comps for Arena, as she charges the closest unit for a massive amount of TP. In addition, she can completely wipe the enemy team if she ever UBs below 25% HP. If she were to eat a Rino UB and survive, she will most likely exact her revenge.
-- Her role in CB is still that of a buffer, but can be used to tank for comps due to increased stats. Most commonly, still used with Nyaru comps when Yukari is not necessary. She will be useful for a decent amount of time in CB, so start farming her soon.
-- Saren's CB niche has disappeared in JP, but not before playing important roles in both physical and magic comps. She is well and alive in Arena, TP Charging her #1 partner, Ninon. 
+- UB+: Deals increased damage, including another increase based on missing HP and a Magic & P.Atk buff for all friendly units.
+- CB: 
+- Arena: 
+- PvE: 
+- 
+
+
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Akino <- (JP Release Date: Year 3, September 7th)

@@ -341,6 +341,7 @@ Miku.sh | Pastebin | ... | Anonymous | ◕ | https://pastebin.com/vWKhETWS
 Project & Model Names: | Type: | Info: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
 /lmg/ Baking Template | Rentry | Baking Template | ... | ◕ | https://rentry.org/lmg_template
+/lmg/ Drama Rentry | Rentry | Charts with Rentry Drama pages | ... | ◕ | https://rentry.org/lmg-drama
 
 ***
 ##->Other Known Places for LLM (ML/AI) Discussions:<-

@@ -3,6 +3,8 @@
 
 ->==These are baseline settings and can be tweaked depending on whatever LoRA you want to make. I personally find these settings useful for generating simple characters==<-
 
+5/11/23 - Updated Hydrus link, included link to Py 3106
+
 # Step 1
 
 If you already have the NAI model, you can skip this step. This is purely for training.
@@ -22,6 +24,8 @@ You only need 'animefull-final-pruned'. 'animevae' is the base NAI vae, and is u
 
 
 # Step 2
+
+Install the correct version of Python - https://www.python.org/downloads/release/python-3106/
 
 Install the easy training scripts via 
 
@@ -80,7 +84,9 @@ These are dependent on where your files are. Simply copy and paste the address f
 
 Now you need to curate your dataset. We're going to scrape danbooru & gelbooru using hydrus. This will download images using the given booru tags. For this example, I'm going to be downloading images tagged 'irene_(kanniiepan)'. You can use whatever tags you want, as this will be the dataset for your LoRA. 
 
-https://github.com/hydrusnetwork/hydrus/releases/tag/v526
+I would strongly recommend a dataset of at least 30-100 images. You CAN use less, but the idea is to keep the LoRA more flexible with a diverse range of images.
+
+https://github.com/hydrusnetwork/hydrus/releases
 
 Install the latest build of Hydrus via the .exe installer (assuming you're on Windows).
 

@@ -1,9 +1,9 @@
-!!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.
-
-->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
-
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
 ->*V 1.13 | Helped Making Waifus Real Since 2023* <-
+
+->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
+***
+!!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again. | There's now a Drama Rentry that will contain a chart that will save and archive all new drama Rentry pages like Jarted, template below has been updated with the new drama link: https://rentry.org/lmg-drama
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
@@ -48,7 +48,7 @@ https://rentry.org/pygmalion-local (Linux)
 https://github.com/oobabooga/text-generation-webui
 https://github.com/LostRuins/koboldcpp
 https://github.com/0cc4m/KoboldAI
-https://github.com/NO-ob/simpleLlama/ (NEW!!)
+https://github.com/NO-ob/simpleLlama (NEW!!)
 
 ►**ERP/RP/Story Gen.**
 \>RolePlayBot
@@ -59,6 +59,8 @@ https://rentry.org/qib8f
 https://rentry.org/better-llama-roleplay 
 
 ►**Other Resources**
+\>/lmg/ Drama Rentry
+https://rentry.org/lmg-drama (NEW!!)
 \>Ooba. ROCm
 https://rentry.org/eq3hg (AMD)
 \>LLaMA Quantization Guide
@@ -95,10 +97,3 @@ Date (MM/DD/YYYY) | Description:
 04/22/2023 | SuperCOT LoRA (by kaiokendev), merged by helpful anons: https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
 04/21/2023 | StableLM models performing terribly, are apparently broken: https://github.com/Stability-AI/StableLM/issues/30
-
-##->Drama Rentry Chart<-
-->![DRAMA ALERT!!!!!!!!!!!!!!!!!](https://i.ibb.co/hYTdK7n/DRAMA-ALERT.png)<-
-!!! danger I don't care anymore, it's up to individual bakers to include any of theses links in their OP post, or be it in the recap, or anywhere else. It's not going to be my problem. However, I won't remove Jarted or any future Rentry drama links from this Rentry and simply place them in this chart as they come. For the template above, there will always be enough character space to include Jarted or another Rentry drama link. (Template <1,900 characters)
-Name: | Brief Description: | URL:
------- | ------ | ------
-Jarted Rentry | A user on GitHub named Jart ripped off the hard work of another GitHub user Slaren... | https://rentry.org/Jarted

@@ -87,8 +87,14 @@ Non W++ version: https://files.catbox.moe/x3e58n.png
 ==Total Tokens:== 
 - 547 (With example messages)
 - 289 (Without example messages)
+#####Maid Fauna (Ceres Fauna)
+Non W++ version: https://files.catbox.moe/x3e58n.png
+
+==Total Tokens:== 
+- 666 (With example messages)
+- 297 (Without example messages)
 #####(Adventurer) Hoshou Marine
-Non W++ version: https://files.catbox.moe/ribamx.png
+Non W++ version: https://files.catbox.moe/1apzmq.png
 
 ==Total Tokens:== 
 - 301 (With example messages)

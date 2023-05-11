@@ -176,7 +176,7 @@ Puzzle gaming. Look at youtube videos if you don't know how to solve a puzzle lo
 You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
 If you have trouble with the boss you can charge ur EX bar to 10 the battle before.
 
-A personal recommendation are to use Tactical Supports. They can carry a lot of the missions by themselves. 
+A personal recommendation is to use Tactical Supports. They can carry a lot of the missions by themselves. 
 
 Go as far as you can in the normal mode for the cafe upgrades. They drop every 3 areas at mission 5, that boost your daily AP recovery (this means 3-5, 6-5, ...). If your goal is to get those upgrades early it's fine to 1\* a few missions, first time rewards don't care about ur stars. 
 Don't forget to actually upgrade your cafe.

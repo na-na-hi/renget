@@ -218,6 +218,12 @@ Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl 
 CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
 Card: https://www.characterhub.org/characters/donquijanon/Yohualli
 
+## The Door
+->![door](https://git.characterhub.org/donquijanon/the-door/-/raw/0067767b2212f8512c3666bd5fdeaa936de2483a/raw/tavern_raw.png)<-
+Made as an experiment to test chance and randomness. Each time you open it, something different will be on the other side.
+
+https://www.characterhub.org/characters/donquijanon/the-door
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -263,5 +269,9 @@ https://www.characterhub.org/characters/donquijanon/usui-sachi
 - Comes with expressions pack, download it on the chub page, had to reuse a lot of them, will improve them later.
 - Backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
 - Alt card images: https://files.catbox.moe/37repe.zip
+
+### The Monkey's Paw
+->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
 
 Don't use my bots if you're a discordtranny or redditard.
