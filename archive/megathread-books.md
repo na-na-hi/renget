@@ -69,8 +69,9 @@
 - An ebook store that offers many novels, short tales, and useful academic publications.
 - [URL Safety Results](https://www.urlvoid.com/scan/pdfstop.com/)
 
-### 🐐 [PDFDrive](https://pdfdrive.to/) / [2](https://www.pdfdrive.com/)
+### 🐐 [PDFDrive](https://pdfdrive.to/) / [2](https://www.pdfdrive.com/) / [3](https://zlibrary.to/)
 - Almost any PDF book may be downloaded using this online platform, which welcomes both seasoned readers and newbies.
+- The [3rd option Z Library](https://zlibrary.to/) is not to be confused with [Z-Library Project](https://singlelogin.re/).
 - [URL Safety Results](https://www.urlvoid.com/scan/pdfdrive.to/)
 
 ### 🔗 [PDFMagazines Club](https://pdfmagazines.club/)
@@ -81,7 +82,7 @@
 - Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 - [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
 
-### 🐐 [Z-Library](https://singlelogin.re/) • Sign Up
+### 🐐 [Z-Library Project](https://singlelogin.re/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 - [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)
 

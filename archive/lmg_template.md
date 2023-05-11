@@ -3,12 +3,13 @@
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.12 | Helped Making Waifus Real Since 2023* <-
+->*V 1.13 | Helped Making Waifus Real Since 2023* <-
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/10) GPU-accelerated token generation >>93334002
 \>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
 https://huggingface.co/reeducator/bluemoonrp-13b
 \>(05/06) MPT 7B, 65k context model trained on 1T tokens.
@@ -23,10 +24,6 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 \>>404
 \>Main FAQ
 https://rentry.org/er2qd
-\>Helpful LLM Links
-https://rentry.org/localmodelslinks
-\>LM Papers
-https://rentry.org/localmodelsoldpapers
 \>Model Lists/Torrents
 https://rentry.org/lmg_models
 \>/lmg/ General Resources
@@ -50,7 +47,8 @@ https://rentry.org/pygmalion-local (Linux)
 ►**Text Gen. UI (Inf.)**
 https://github.com/oobabooga/text-generation-webui
 https://github.com/LostRuins/koboldcpp
-https://github.com/0cc4m/KoboldAI 
+https://github.com/0cc4m/KoboldAI
+https://github.com/NO-ob/simpleLlama/ (NEW!!)
 
 ►**ERP/RP/Story Gen.**
 \>RolePlayBot

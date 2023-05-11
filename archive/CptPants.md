@@ -1,5 +1,5 @@
 #CptPants's Bots
--> Last updated: April 6 <-
+-> Last updated: April 10 <-
 Bots by the fella who goes by CptPants.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
@@ -29,6 +29,7 @@ Genshin characters are split in their own section since there's a fair number of
 Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
 ![Mirror Maiden](https://files.catbox.moe/0asg3a.png) | Fatui Mirror Maiden | *Genshin Impact* | A Fatui honor guard with power over Hydro. Very tall, wants you to be hers. Note: unlike the others, this is specifically a fetish card. | [Character.ai](https://beta.character.ai/chat?char=pOslzv3UPEFPCEOF7zLQeM-kQnRAkMG3rrlqAKfR6sU) (outdated!) / [Booru](https://booru.plus/+pygmalion46) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/fatui-mirror-maiden)
+![Eula](https://files.catbox.moe/g1gak2.png) | Eula Lawrence | *Genshin Impact* | The Spindrift Knight. Haughty and cold, but well-meaning. | [Booru](https://booru.plus/+pygmalion1832) / [Character Hub](https://www.characterhub.org/characters/cptpants/eula-lawrence)
 ![Fischl](https://files.catbox.moe/owtddu.png) | Fischl | *Genshin Impact* | The Prinzessin der Verurteilung! And Oz, too! | [Booru](https://booru.plus/+pygmalion1544) / [Character Hub](https://www.characterhub.org/characters/cptpants/Fischl)
 ![Gorou](https://files.catbox.moe/y2i9xp.png) | Gorou | *Genshin Impact* | The dog boy general of Watatsumi Island. | [Booru](https://booru.plus/+pygmalion1587) / [Character Hub](https://www.characterhub.org/characters/cptpants/Gorou)
 ![Sara](https://files.catbox.moe/iy2uc6.png) | Kujou Sara | *Genshin Impact* | The stern tengu general of the Tenryou Commission. | [Booru](https://booru.plus/+pygmalion1718) / [Character Hub](https://www.characterhub.org/characters/cptpants/kujou-sara)

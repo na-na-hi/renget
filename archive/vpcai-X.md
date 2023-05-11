@@ -1,4 +1,10 @@
 # -> List of Anon-Made Cards and .json Files <-
+!!! note New Additions
+Update | Characters
+:------: | :------:
+May 10th | Dawn - *TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
+!!! note
+***
 !!! info *Use 'Save link' to download Catbox .json files*
 Characters | URLs
 :----: | :----:
@@ -7,6 +13,7 @@ Characters | URLs
 **RSE Courtney** | Pygmalion [Catbox](https://files.catbox.moe/9fzy2y.json)
 **RSE Shelly** | Pygmalion [Catbox](https://files.catbox.moe/vtppmt.json)
 **Gardevoir** | TavernAI [Booruplus](https://booru.plus/+pygmalion984) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Gardevoir/main)
+**Dawn** | TavernAI [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 **Cynthia** | TavernAI [Booruplus](https://booru.plus/+pygmalion970) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
 **Hilda** | TavernAI [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
 **Rosa** | TavernAI [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)

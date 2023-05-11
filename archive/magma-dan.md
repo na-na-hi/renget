@@ -1,10 +1,10 @@
 # -> @magma-dan <-
 Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
-:-: | :-: | :-:
--> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
--> **Newest Non-Pokémon Bots** <- | ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) | ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4)
--> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) Anthea & Concordia | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
--> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) Kiran (*FE*) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/mNQIAXxOMveyZ3MzrK6FMblk6uYQ6JTEBDHZ1SMuVwA.webp) ⠀Dark Elf (*SMT*)
+:-: | :- | :-
+-> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) ⠀[Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
+-> **Newest Non-Pokémon Bots** <- | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai | ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) ⠀⠀[Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea & Concordia | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) Oboro (*FE*)
+-> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/mNQIAXxOMveyZ3MzrK6FMblk6uYQ6JTEBDHZ1SMuVwA.webp) ⠀Dark Elf  ⠀(*SMT*)
 
 ***
 ***
@@ -41,6 +41,7 @@ Character | C.AI
 :------: | :------:
 ![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class, USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/1/29/eq_VikVtLk5Krr2rhf64bu3gTYImYyh18eEcQTgTR_s.webp) | Aoba-class, IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
+![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) | Ise-class, IJN [Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
 ![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class, USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-
