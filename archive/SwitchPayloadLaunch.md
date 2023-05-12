@@ -46,7 +46,10 @@ To launch payloads on an **IPatched Erista** or a **Mariko** unit, then you must
 **Step 1:**
 - Download the following files and extract them into the root of your SD card:
 	- [SX Gear](https://web.archive.org/web/20210217231219/https://sx.xecuter.com/download/SX_Gear_v1.1.zip) 
-		- Skip this file if you use an **SX Core / SX lite** with **Spacecraft-NX** or a **HWFLY** modchip
+		- Skip this file if you use one of the following:
+			* **SX Core / SX lite** with **Spacecraft-NX**
+			* **HWFLY**
+			* **PicoFly**
 	- [Hekate](https://github.com/CTCaer/hekate/releases/latest)
 
 **Step 2:**

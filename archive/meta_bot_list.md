@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-05-07)==<-
+->==(Updated 2023-05-12)==<-
 ***
 [TOC2]
 ***
@@ -22,6 +22,8 @@
 ## [/vg/aids/](https://boards.4channel.org/vg/catalog#s=AI+Dynamic+Storytelling+General)
 - https://aetherroom.club - large list of prompts; text prompts only; **current**
 - https://prompts.aidg.club - large list of prompts; text prompts only; **deprecated**
+## [/trash/Collared/](https://boards.4chan.org/trash/catalog#s=/collared/)
+- https://rentry.org/Collared-CAI - small list of bots; cai and cards; tools and manuals; **current**
 
 ***
 Too old, for historical purposes only:

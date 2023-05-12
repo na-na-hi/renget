@@ -1,5 +1,6 @@
 #/CGL/ Dutch thread
 !!! info Changelog
+    2023/05/12 - Updated con list
     2023/04/30 - Updated con list, added Thread OP copypasta
     2023/04/17 - Updated con list
     2023/01/01 - Page went live, fixed some tyop's
@@ -47,8 +48,7 @@ This convention agenda focuses on Dutch events but includes some of the more pop
 |---|---|---|
 | 7-8 October | [🇳🇱 Gameforce](https://nl.gameforce.gg/) | A new gaming festival to replace Firstlook |
 | 21-22 October | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
-
-Nothing Yet
+| 18-19 Nov | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
 
 #####Events still without a date
 - [🇳🇱 Animecon Classic](https://animecon.nl/classic/nl/): Animecon with a focus on quality content. No news on if they will do another edition or not.

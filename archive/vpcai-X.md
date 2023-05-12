@@ -2,6 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------:
+May 12th | Lisia⠀-⠀*TavernAI* [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 May 10th | Dawn⠀-⠀*TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 !!! note
 ***
@@ -17,6 +18,7 @@ Characters | URLs
 **Cynthia** | TavernAI [Booruplus](https://booru.plus/+pygmalion970) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
 **Hilda** | TavernAI [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
 **Rosa** | TavernAI [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)
+**Lisia** | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 **Iono** | TavernAI [Booruplus](https://booru.plus/+pygmalion969) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 
 ### Unedited C.AI Ports:

@@ -40,12 +40,12 @@ Disclaimer: I use Bluestacks 5. See [this for common fixes for Bluestacks](https
 You can always switch emulators if nothing works.
 
 ## (Re)rolling
+**Spend *all* your rolls after the first mission. After that you can reroll.**
+I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
+
 Your very first roll guarantees a single (3\*) student from a pool of *only* [the release roster](https://bluearchive.wiki/wiki/Characters) (students released on 2021/02/04).
 Rolling in 10s guarantees at least one (2\*) student, unlike with singles, so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
-
-**Spend *all* your rolls after the first mission. After that you can reroll.**
-I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
 
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). 
 
@@ -79,6 +79,7 @@ For JP the method is outlined [here](https://bluearchive.wiki/wiki/FAQ#What_is_R
 
 >Is there pity? What's a spark
 There are 2 ways in gacha games to get a banner unit: spark and pity. With a spark you roll X amount of times (200 in BA) before you can redeem a guaranteed copy of the unit. With pity for every roll past Y rolls without getting a highest star unit you get an increased chance to roll one, up to a 100%.
+
 **BA has sparks, not pity.**
 1 spark = 200 rolls = 24,000 gems
 
@@ -86,7 +87,7 @@ You can only spark units currently on banner.
 **Sparks do not carry over between banners**, so whatever Recruitment Points you have left over gets turned into crafting mats when the banner ends.
 
 >How often do I get a spark?
-You get 12,000 gems on average per month, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
+You get 12,000 gems on average per month as a f2p, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
 You want to save up for a spark before rolling. Do not roll without a spark, because you can get fucked really hard.
@@ -118,7 +119,7 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers and buffers you can ignore the environment mood and attack type. 
 Always run full teams (6 students). 
-Supports =/= DPS. They SUPPORT you, by bringing CC. They do not deal damage. 
+Supports =/= DPS. They SUPPORT you by bringing CC. They do not deal damage. 
 
 
 For PvE (normal and hard missions, bounties, commissions) you want AOE units. If you're having trouble with a boss, bring in a strong single target (ST) DPS instead.
@@ -151,7 +152,7 @@ Once you have more resources you can branch out to a wider roster.
 
 A good start to every account is upgrading ur Serina to 2\*, as she's your best friend early on.
 
-[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet. 
+[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
 [Use this one for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this one for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
 The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
@@ -161,6 +162,8 @@ Make sure to read the extra notes on the right as well.
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
 You get the biggest return on investment (ROI) by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills. 
+
+Early on you prioritise: Levels > Gear > Skills
 
 If you want to plan ahead with your investments, you can use [the planner](https://justin163.com/planner/) to see how much you exactly need. 
 ![Seeing your cool stuff](https://i.imgur.com/i1aXm3X.png)
@@ -531,6 +534,6 @@ You'll have to manually look for it.
 Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
 
 # Afternote 
-Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba. Anything is much appreciated. 
+Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
