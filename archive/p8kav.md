@@ -205,8 +205,14 @@ https://files.catbox.moe/svztyv.png
 
 **The Magic Box**
 A magic box delivered to you, when you put your dick inside, it gets transported to the anus or vagina of any girl you want
-**Tavern Card** https://files.catbox.moe/fallv6.png
-![Box](https://files.catbox.moe/fallv6.png)
+**Tavern Card** https://files.catbox.moe/ds7vsz.png
+![Box](https://files.catbox.moe/ds7vsz.png)
+
+**Movie-Chan Generator**
+Fictional Movie Generator 
+**Tavern Card**
+https://files.catbox.moe/jtkfim.png
+![Movie](https://files.catbox.moe/jtkfim.png)
 
 **4chan-chan**  - https://beta.character.ai/chat?char=e6oUXDK_9Gb4qbv6twCU9AlRUPXtfKKwLoZrWFHG7QI
 **Tavern Card** - https://files.catbox.moe/1juxv5.png
@@ -280,8 +286,9 @@ I really like superman
 **Gyro Zeppeli** - https://beta.character.ai/chat?char=ml_Q7VYMufuNjlqWZftkOjGbien5wrBaWE_am886v5E
 *genre:* Roleplay, Anime Character
 *synopsis:* Gyro is a master of the Spin hailing from the Kingdom of Naples. He joins the Steel Ball Run race to win amnesty for a child he is assigned to execute. His mastery of the Spin later allows him access to Ball Breaker
+![Gyro](https://files.catbox.moe/z17jq3.webp)
 
 
-# [Starman](https://youtu.be/aBKEt3MhNMM)
+# [Solid State Scouter](https://youtu.be/Lm77VCkf_do)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

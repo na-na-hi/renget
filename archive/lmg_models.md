@@ -31,13 +31,17 @@ Model | 4-bit | 5-bit | 8-bit
 # Filtering/Bias Rundown
 !!! info
 
-	Both bias and filtering can be introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. In contrast, instruct models are guided through fine-tuning to adhere to specific instructions, which allows the intentional manipulation of outputs. The current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
+	Both bias and filtering can be introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
 
-	Filtering occurs when the model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as potentially offensive or unsafe. An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". In contrast, bias is a more subtle phenomenon that can influence the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political or social issues will typically result in outputs that align with left-wing narratives. 
+	In contrast, instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs. The current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
 
-	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting For example, the model may comply with a request to output something derogatory but skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways, as it will tend to favor positive outcomes to events and conversations.
+	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". 
 
-	Removing filtering from a dataset is generally easier than removing bias, particularly when it comes to "positivity" bias, which is often inherent in the training data. Both filtering and bias are common issues that can affect GPT-derived models, and although there have been some successful efforts to mitigate filtering, bias is still a major problem.
+	Bias is a more subtle phenomenon that can influence the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political or social issues will typically result in outputs that align with left-wing narratives. 
+
+	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting. For example, you can remove the filtering so that the model will comply with a request to output something derogatory or "offensive", but it can still skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to events and conversations.
+
+	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
 
 # Original Weights
 

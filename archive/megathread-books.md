@@ -29,6 +29,18 @@
 - Free online courses from CBTNuggets, Lynda, Phlearn, and other providers.
 - [URL Safety Results](https://www.urlvoid.com/scan/courseclub.me/)
 
+### 🔗 [Course Drive](https://coursedrive.org)
+- Video lessons from Udemy, Lynda, Packetpub, Pluralsight + more are available for free download. 
+- [URL Safety Results](https://www.urlvoid.com/scan/coursedrive.org/)
+
+### 🔗 [CourseDown](https://coursedown.com/)
+- Specializing in free courses in many areas from Udemy and Skillshare.
+- [URL Safety Results](https://www.urlvoid.com/scan/coursedown.com/)
+
+### 🔗 [DownloadFreeCourse](https://downloadfreecourse.com/)
+- Download Udemy Paid Courses free of charge for Programming, IT etc. The sky is the limit and sometimes offer torrent links.
+- [URL Safety Results](https://www.urlvoid.com/scan/downloadfreecourse.com/)
+
 ### 🔗 [DownMagaz](https://downmagaz.net/)
 - Users may get easily pdf magazines in practically every category for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/downmagaz.net/)
@@ -46,9 +58,17 @@
 - It focuses on IT and programming books, which are available for free download.
 - [URL Safety Results](https://www.urlvoid.com/scan/forcoder.su/)
 
+### 🔗 [Free Tutorials Download](https://freetutsdownload.net/)
+- Assisting people in downloading free courses in various aspects and to share the knowledge extensively with everyone.
+- [URL Safety Results](https://www.urlvoid.com/scan/freetutsdownload.net/)
+
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 - Free downloads (*including torrents*) of paid courses from Udemy, including programming, marketing, and IT.
 - [URL Safety Results](https://www.urlvoid.com/scan/freecoursesite.com/)
+
+### 🔗 [FreeEducationWeb](https://freeeducationweb.com/)
+- Get your hands on thousands of courses from top institutions like Udemy, Linkedin, Pluralsight, and Packtpub.
+- [URL Safety Results](https://www.urlvoid.com/scan/freeeducationweb.com/)
 
 ### 🔗 [GetComics](https://getcomics.org/)
 - You can download comics from DC, Marvel, Image, Dark Horse, Dynamite, IDW, Oni, Valiant, and many more publishers.
@@ -92,9 +112,17 @@
 - Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 - [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
 
+### 🔗 [TutsNode](https://tutsnode.net/)
+- Free educational tutorials in software, design, and academics, among other fields.
+- [URL Safety Results](https://www.urlvoid.com/scan/tutsnode.net/)
+
 ### 🔗 [UDEMY 24](https://udemy24.com/)
 - Offering free Udemy courses and tutorials that are simple to follow. A fantastic way to develop abilities is through self-study.
 - [URL Safety Results](https://www.urlvoid.com/scan/udemy24.com/)
+
+### 🔗 [Udemycourses](https://udemycourses.me/)
+- One of the most comprehensive sites offering free Udemy classes online; not the most up-to-date, but links still function.
+- [URL Safety Results](https://www.urlvoid.com/scan/udemycourses.me/)
 
 ### 🐐 [Z-Library Project](https://singlelogin.re/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.

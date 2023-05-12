@@ -2,9 +2,44 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->>Mumeism = 	4,115 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
+>>Mumeism = 	4,709 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
 Date/Name | Number | Comments
 ------ | ------ | ------
+『2023-05-11』 - 【COLLAB】Drawing Furry Friends with FAUNA ~ [oz-v43KG6rs]  |  000   |    
+『2023-05-09』 - 【MINECRAFT】This Is An Owl's World And You're Just Living In It [z1-oKh0Cjg0]  |     004|    
+『2023-05-08』 - 【IDOL SHOWDOWN】I'll SHOW you these fists !!! [d3XPXr2AzsU]  |  003   |    
+『2023-05-07』 - 【CIVILIZATION V】What If We Made Peace_ Haha.. Unless_ [DEmTKu7VxRs]  | 230    |   
+『2023-05-05』 - 【COUNCIL COLLAB】The Gang Plays UNO [k6fcl4rk3Y8]  |  010   |    
+『2023-04-28』 - 【CIVILIZATION V】Get In Loser, We're Going Pillaging [GhYNv2H6hwc]  | 027    |    
+『2023-04-27』 - 【DREDGE】One Fish, Two Fish, Normal Fish, Lovecraftian Fish [Vq3PkB0ephQ]  | 001    |    
+『2023-04-24』 - 【MEMBERS ONLY】Practicing New JP Songs !! [Wj2B3n8XjV0]  |  000   |    
+『2023-04-23』 - 【MEMBERS ONLY】Drawing n Stuff [MmdMqDjcL64]  |  000   |    
+『2023-04-21』 - 【MINECRAFT】THE OWL MUMEI!! THE OWL!! [4FfFArNeIbg]  | 002    |    
+『2023-04-19』 - 【MINECRAFT】owl make owl [BuuRLC0_omU]  | 001    |    
+『2023-04-17』 - 【SC CATCH UP】 Gonna Don That Don ! [GSWi7_leX00]  |  005   |   
+『2023-04-16』 - 【SC CATCH UP】 Gonna Don That Don ! [PG4tOBt3VjU   | 000
+『2023-04-14』 - 【CIVILIZATION V】 Just Doin' My Job [9JxA2kBHxa0]  | 215    |    
+『2023-04-13』 - 【PUYOPUYO TETRIS 2】 How Fast Can My Brain Go !! [AgqLOFHSt9E]  | 001    |    
+『2023-04-12』 - 【FAN-MADE GAME】 CouncilRyS RPG [Xda8AonOpk8]  |  000   |    
+『2023-04-11』 - 【PASSPARTOUT 2】 Happy Little Abominations [_lFV6r6U0eo]  | 001
+『2023-04-08』 - 【UNARCHIVED】Jamming In My New Outfit ! #Owlfit [MSF1aR0RDg4]    | 000
+『2023-04-08』 - 【NEW OUTFIT REVEAL】Casual Mooms ! ~ #owlfit [GS09PY2IbBg]  |  002   |    
+『2023-04-07』 - 【GETTING OVER IT】 They're all laughing​ [8uNUIa6TR38]  | 004    |    
+『2023-04-06』 - 【MEMBERS ONLY】Bocchi The Rock! Watch-Along FINALE [KiatpUsrTnw]  |  004   |    
+『2023-04-05』 - 【SC CATCH UP】Redeem your don dons here [hvxCIieVZtQ]  | 007    |    
+『2023-04-04』 - 【Q REMASTERED】good brain, good squish [uBGgYVJ1ZOk]  |  001   |    
+『2023-04-03』 - It's Moomin' Time [v0QBRuXPHr4]  | 002    |    
+『2023-03-25』 - 【UNARCHIVED】Mumei Radio Broadcast #2 [HCqHLi7c6EU]  |  035   |    
+『2023-03-19』 - 【hololive EXPO & 4th Fes】Idowl Mumei !!! [GyGTjsmw1-o]  | 000    |    
+『2023-03-12』 - 【MEMBERS ONLY】Bocchi The Rock! Watch-Along Part 2 [zLgvSQl5INk]  | 001    |    
+『2023-03-11』 - 【HOLOCURE】Another Attempt to Moom and Zoom [1u3UzoAWeY4]  | 001    |    
+『2023-03-10』 - 【HOLOCURE】Moomin n Zoomin [kRDffxVTnNo]  |  001   |    
+『2023-03-08』 - 【MINECRAFT】oh hi [ZxHVxhVxwJ0]  |  010   |    
+『2023-03-02』 - 【MEMBERS ONLY】Bocchi The Rock! Watch-Along [t2TEbfmmMgc]  |  011   |    
+『2023-02-25』 - 【UNARCHIVED】Mumei Radio Broadcast [AtAeRp6pPPE]  |   012  |    
+『2023-02-15』 - 【HOLOCURE】TIMED RUNS! I Want To Beat My Record! [BnBYYGyOfLA]  | 000   |    
+『2023-02-14』 - 【UNARCHIVED KARAOKE _ 歌枠】It's Valentines Day !! [9bWgrpf0x9E]  |  002   |    
+『2023-02-11』 - 【HOLOCURE】UP TO DATE ! [nBdPbm9pqQA]  | 001    |    
 『2023-02-10』 - 【CHIT CHAT】mmmm [U67QkN_Iruk]    |    000 | 11 - if you include usernames
 『2023-02-08』 - 【GEOGUESSR】Bonjour Señor [zfXkcttTcS4]    |    001 |  590 - if you include usernames 
 『2023-02-07』 - 【UNARCHIVED KARAOKE _ 歌枠】Emo Songs [p5iIHjjITjA]    |    002 | 802 -  if you include usernames 
@@ -303,7 +338,7 @@ Date/Name | Number | Comments
 『2021-11-21』 - 【Pokemon_ Shining Pearl】Sinnoh Expedition!-snMd3mMadYo | 000 - 00 
 『2021-11-20』 - 【DUOLINGO】Japanese Study!-zJZWKkDFg4M | 000 - 00 
 『2021-11-19』 - 【ACNH】Goofy Goobin-n0nP76bvhNo | 001 - 00 
-『2021-11-18』 - 【The Legend of Zelda_ BOTW】Remember Who You Are Link #holoCouncil-qmnpGysmwmw | 042 - 00 | The spam started because she said "worship me" https://youtu.be/qmnpGysmwmw?t=3330
+『2021-11-18』 - 【The Legend of Zelda_ BOTW】Remember Who You Are Link #holoCouncil-qmnpGysmwmw | 042 - 00 | The spam started because she said "worship me" [timestamp](https://youtu.be/qmnpGysmwmw?t=3330)
 『2021-11-17』 - 【LET'S CHAT】Superchat Catch-up! #holoCouncil-Py3uLUT-Q1A | 000 - 00 
 『2021-11-13』 - 【Blue Archive】Getcha Gacha-E_5b_Y1qovs | 000 - 00 
 『2021-11-12』 - 【MEMBERS】Doubutsu Doodling-JP-bKv0dWys | 000 - 00 
@@ -334,7 +369,7 @@ Date/Name | Number | Comments
 『2021-10-04』 - 【The Legend of Zelda - BOTW】Remember Mumei...  #holoCouncil [_6lNFwAeLHo] | 009 - 00 
 『2021-10-02』 - 【Rimworld】Winter Is Coming..  #holoCouncil [GaUAysKiYg8] | 001 - 00 
 『2021-10-01』 - 【DRAWING】Makin Creatin Somethin #holoCouncil [tgmayYuET3A] | 004 - 00 
-『2021-09-29』 - 【CELEBRATION】Membership CELEBRATION Part II! #holoCouncil [wpXxZMSHOTA] | 244 - 01 | Before the spam started it was only 1 person that said it. The spam started because she was reading super chats and "Archbishop of Mumeism" sent one. https://youtu.be/wpXxZMSHOTA?t=7526
+『2021-09-29』 - 【CELEBRATION】Membership CELEBRATION Part II! #holoCouncil [wpXxZMSHOTA] | 244 - 01 | Before reading a sc it was at 1 [timestamp](https://youtu.be/wpXxZMSHOTA?t=7526)
 『2021-09-28』 - 【UNARCHIVED】what [Nanashi Mumei Ch. hololive-EN] (sWQIkO7txq4) | Didn't save chat
 『2021-09-27』 - 【Minecraft】Bird Brained Birbs ft. @Takanashi Kiara Ch. hololive-EN    #holoCouncil [50-HQZj5FVg] | 003 - 00 
 『2021-09-24』 - 【MEMBERSHIPS OPEN】A Little Announcement! #holoCouncil [KkCx6ZClADg] | 002 - 00 

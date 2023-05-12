@@ -61,9 +61,17 @@
 - Dedicated to music production tools including DAWs and plugins. Sample libraries may only be accessed by premium members.
 - [URL Safety Results](https://www.urlvoid.com/scan/g-meh.com/)
 
+### 🔗 [GFXDomain Blog](https://gfxdomain.co/)
+- Focusing on resources from a variety of programs for 3D modeling, animation, motion graphics, video editing, and texturing.
+- [URL Safety Results](https://www.urlvoid.com/scan/gfxdomain.co/)
+
 ### 🐐 [LRepacks](https://lrepacks.net/) • Russian UI
 - Numerous portable applications and utilities that are well-liked by users for more than ten years.
 - [URL Safety Results](https://www.urlvoid.com/scan/lrepacks.net/)
+
+### 🔗 [M S J](https://www.macserialjunkie.com/forum/) • Sign Up • MacOS
+- Good discussion board where members of the community discusses everything MacOS and exchange cracked software and games.
+- [URL Safety Results](https://www.urlvoid.com/scan/macserialjunkie.com/)
 
 ### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
 - Several MacOS apps available covering a wide variety. However, the site uses premium file hosts, which is not friendly for free users.
@@ -77,9 +85,9 @@
 - Go-to resource for applications and books. Many people trust it and it provides access to the latest versions of files.
 - [URL Safety Results](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
-### 🔗 [M S J](https://www.macserialjunkie.com/forum/) • Sign Up • MacOS
-- Good discussion board where members of the community discusses everything MacOS and exchange cracked software and games.
-- [URL Safety Results](https://www.urlvoid.com/scan/macserialjunkie.com/)
+### 🔗 [motka](https://motka.net/)
+- Designed to provide high-quality, cost-free tools for designers, including LUTs, sound engines, Adobe software and plugins.
+- [URL Safety Results](https://www.urlvoid.com/scan/motka.net/)
 
 ### 🔗 [NMac](https://nmac.to/hub/) • MacOS
 - Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get your download started, very easy.
@@ -92,6 +100,10 @@
 ### 🐐 [RSLOAD](https://rsload.net/) • Russian UI
 - It offers access to files for the most recent app releases and always changing and improving to keep up with the times.
 - [URL Safety Results](https://www.urlvoid.com/scan/rsload.net/)
+
+### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI
+- Updated often, with complete, unrestricted versions of just the best applications available.
+- [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)
 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Persian UI
 - Nice catalogue of free applications, games, software for Android, animation, utilities, and much more.

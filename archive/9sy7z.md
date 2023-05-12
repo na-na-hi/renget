@@ -106,7 +106,225 @@ Noticing me smiling at my newly-clothed reflection, Elm looked pleased. "Now eve
 
 "Oh, thanks! I wonder what's in here..." Elm quickly opened up the small box, [and the moment he looked inside...](https://rentry.org/8pirs)
 
-## Training! (Coming soon)™
+## Training!
+
+"Yawn..."
+
+I let out a loud yawn as I get up and stretch my arms. I'm in my room, currently sitting on my makeshift bed with a warm blanket over me. Rubbing my eyes, I can see that it's still dark outside.
+
+*(Damn, must be the middle of the night. My sleep schedule's fucked due to all of the storeroom work... Ugh...)*
+
+I flop back onto my bed and cover myself back up with the blanket, in an attempt to fall back asleep.
+
+*(... Okay fuck this, I'm too awake. I need to tire myself out a bit.)*
+
+I toss off the blanket and climb off the cushion while doing a large stretch. *(Hmmm... I could go back to fixing up the storeroom, but then I'd probably be unable to make myself stop working until I drop from exhaustion again... I should do something a bit lighter. Some training maybe?)*
+
+I stared at my own hands. *(I'm so weak on my own that training won't do much, but at least it might wear me out a bit so I can go back to sleep.)* Sighing, I open the door to my room and exit into the hallway. *(I could use the training room, but it's a nice night tonight, I'll head to the docks. Less chance of someone walking in on me there too. Hopefully.)*
+
+Carefully sneaking out of the guild, I enter the streets of Capim Town. Various lamps light the roads, but the moon in the sky does much more to illuminate the town. The streets are mostly empty, apart from some random pokemon wandering around that I can barely make out the shadows of. 
+
+*(I haven't had much chance to explore the town since coming here, I've mostly stayed cooped up in the guild. Maybe I should try for an aerial view?)* 
+
+I do a small leap into the air and flap my wings, sending me flying upwards towards the stars in the sky. Once the momentum wears off, I flap my wings more lightly to maintain my position in mid-air. *(Still need to get the hang of flying... Let's just do a nice glide to the docks.)* I re-orient myself so my back faces the sky, and tilt my body downwards slightly to glide down. I glide over the town's roads and houses, with the lights becoming a blur as I start to pick up speed against the cool night wind.
+
+I flip myself around so my chest faces the sky, and let the stars of the night sky wash over me. *(The stars and town are beautiful out here at night, I should explore it a bit more. Would help me get betting at flying too-ACK!)*
+
+**SPLASH**
+
+I landed back-first into the water, and panicked for a second trying to get myself upright. After a bit of flailing and splashing around, I'm treading water with my head just above the waves. I shake my head to try and get some water out of my ears.
+
+*(Ugh... I need to pay more attention sometime. Lets just swim to the dock-)*
+
+My thought is interrupted by a large splash of water in front of me! The water splashes into my eyes, and after wiping them I see what caused the commotion. It's an Oshawott, and one I think I've seen before at the guild. 
+
+The Oshawott swims up to me. "You okay? You didn't look like you were intending for a splash-down."
+
+I shake my head. "I-I... D-Didn't check w-where I was f-flying."
+
+"It's alright, need some help getting back onto land?"
+
+"I-I t-think I-I'll be f-fine..." I tread water a bit harder to get my back and wings out of the water, then wiggle my wings to get some water off of them, and then give him a large flap to lift me out of the water. Once back in the air, I land on the nearby pier. The Oshawott dives under the water, then jumps out of the water like a dolphin and lands right next to me.
+
+"I'm Gus." Says the Oshawott as he adjusts the scallop on his chest. 
+
+"T-Togetic. N-Nice to m-meet y-you." I say while bowing. 
+
+"No need to be that formal. What are you doing out here?"
+
+"I... U-Uh... O-Originally w-went outside to t-train b-but got m-mesmerized b-by the night s-sky..."
+
+Gus smiles. "You like looking at the stars, too?"
+
+I nod, and then walked to the edge of the pier to sit down, and Gus sat next to me. For a while, we just stared at the stars in silence, letting the sound of the waves wash over us. Neither of us seemed to want to break the silence with idle chatter. However, our peaceful moment is interrupted by the sound of footsteps. I get up and turn around, and see a Sneasel walking towards us. 
+
+Waltzing up to me, the Sneasel appears to size me up before she finally says something. "So you're that Togetic that joined the guild."
+
+"Y-Yeah... H-Hello..." *(... What's with the cold stare? She is an ice type but she's freaking me out.)*
+
+Stepping closer, she forces me to look up as she towers over me. "... You know, I heard some interesting rumors a while back. Something about a powerful duo of a Togetic and a Dewott that went around beating up outlaws within an inch of their lives... And other exploration teams, as well, robbing them of their supplies."
+
+My heart stopped. *(No.... I escaped all that! Why-)*
+
+"... But there's no way that's you, considering how weak you look!" She chuckles and backs off. "I'm just messing with you. I'm Sneasel. Glad to finally have the chance to meet you."
+
+"U-Uhrm.... Y-You t-t-too...." *(What the fuck.)*
+
+I can feel my heart finally starting to beat again, and I notice her face has changed to a much more cheerful expression with a large smirk, but the same doesn't apply to her eyes, which continue to hold the same suspicious glare.
+
+*(Oh god. This is some sort of test, isn't? She's going to fucking gut me right here if I don't answer right. I guess this is finally the time to see if I can really trust my fellow guildmates.)*
+
+I take a deep breath. "W-Well... A-Actually... I... Uh... E-Erm... Y-You're..."
+
+Sneasel raises an eyebrow. "I'm what?"
+
+"... Y-You w-were r-r-right... I-I was o-on a t-team with... a D-Dewott..."
+
+Sneasel steps back in shock. "What? Are you serious?"
+
+I nod while staring at the ground. There's an awkward silence, but I don't dare to look back up at her.
+
+*(... Well, she hasn't stabbed me yet. Maybe she can't tell if I'm telling the truth? Fuck, what do I-)*
+
+My inner ramblings are interrupted by a weird sound I hear from Sneasel. I finally decide to look up, and see her covering her mouth with her claws, holding back laughter.
+
+"Pfft... Bwahahaahaha!" She finally lets loose and nearly falls backward onto the ground from how hard she laughs. "Oh, you're hilarious! I almost thought you were telling the truth for a second, but you look like way too much of a weakling to ever be a part of some infamous team like that."
+
+*(I should probably just take this chance to lie here... But if she finds out later... Fuck it, full honesty. I don't wanna constantly worry about getting shanked by this insane psycho bitch in the future.)*
+
+"... I-I'm not j-j-joking. The rum-m-mors a-are true... W-We d-did beat up-p-p a l-lot of p-pokemon pretty b-badly..." I take another deep breath in a futile attempt to calm myself. "S-Sorry i-if... W-We h-hurt one of y-your f-friends..."
+
+Sneasel's laughter stopped, and her face once again contorted back to its original suspicious glare. "So, what are you doing here then? Tired of stealing from other adventure teams? Oh, I get it! That's why you're in the storeroom all the time." She steps closer to me once again, and I once again stare at the ground, both too afraid and ashamed to face her. "You're stealing stuff from the storeroom, aren't you? Well, I've only got one thing to say to the likes of you..." 
+
+*(Well, at least God can't say that I never told the truth.)* I close my eyes as I prepare for the worst.
+
+"... Can I train with you?"
+
+*(What.)* "What." 
+
+"I mean, obviously you aren't a good guy, but every rumor I heard described you and your partner's fighting style as amazing! You two defeated pokemon that should've been much stronger! C'mon, give me some good tips and I promise I won't tell anybody about your past!"
+
+*(... She... Just wanted... Fighting tips?! This girl is even crazier than I thought. )*
+
+She kneels down in order to be at eye level with me. "Sorry if I spooked ya', but I just gotta know your secrets! Do you have some kind of secret move? Secret aura powers? Oh, do you trick your enemies into underestimating you since you look and sound so weak?" 
+
+*(I'll take that as a compliment, I think.)* "U-Uh... N-None of t-that... I-I'm sorry, b-but... I-I can't t-train you..."
+
+"Aww, why!? Give me a reason, at least!"
+
+*(I don't mind training, But... Do I truly want to get stronger? Chasing power... That's one of the things Dewott wanted, and what almost got us into a lot of trouble. I guess it couldn't hurt to see why this girl wants to train.)*
+
+"W-Well... W-What d-do you w-want t-to g-get s-stronger f-for?" Feeling a bit more relaxed, I sit down on the dock, and Sneasel decides to take a seat as well.
+
+"Well, cuz... I just need to get stronger. I never want to have to run away from a fight again. And more recently... I have someone I want to protect." She looks off towards the guild. "It's not just for my own sake anymore."
+
+I close my eyes and ponder her words. *(Someone to protect... Oh, she must mean that Rimbombee that's always hanging around her. I've heard other guild members say he's completely useless in combat, I guess she must be carrying the weight of their team. Reminds me of me and Dewott...)*
+
+I open my eyes and faced Sneasel. "T-The one you w-want to p-protect... W-Would you f-fight t-t-to the e-end-d-d f-for them? Even if t-they c-couldn't d-do the same f-for y-you?"
+
+Sneasel locked eyes with me and instantly replied. "Without a second thought."
+
+*(Wow, she's...)* 
+
+"Y-You're... U-Um... Really fucking **stupid**." 
+
+Sneasel is taken aback by my sudden outburst. "... What did you just say to me?"
+
+"Exactly what I said." I flap my wings to quickly make myself stand up. "You're a complete **MORON!** You think strength is just fighting until your body can't fight anymore? You think strength is defending helpless friends? You **REALLY** think strength is dying for your friends, leaving them without you?!" Unable to hold myself back, I get up into her face. "What's that little **useless** bug friend of yours going to do if you fuck up during a fight? Use a *dinky* little slingshot to defeat ferals? Hah! Any mistakes **YOU** make in a fight would doom your partner as well!"
+
+Sneasel jumps backward with a growl. "Don't you dare say those things about Booker, he's doing his best to get stronger, unlike a weakling like you who refuses to train!"
+
+*(I know I shouldn't be doing this, but she's really getting on my nerves!)* "Alright then, I'll give you your **damn** training lesson! **GUS**!"
+
+Gus, who had been silently watching us talk from the end of the pier, jumped up as I called his name. Startled, he replied, "Uh... What do you want me for?"
+
+"You're going to be *my* partner for this sparring match. Make sure I can **trust** you, got it?!" Gus is shocked by my sudden assertiveness, and seems too scared to argue with me.
+
+"A-Alright, I'll fight with you!" Gus grabbed his scallop from his chest and locked eyes with Sneasel. 
+
+Sneasel put her claws on her hips. "Two versus one? This isn't fair."
+
+"Why don't you call **Booker** to be your partner then? I'm ***SURE*** that'll make this fight eve-WHOA!" I'm cut off by an ice shard flying inches away from my face, it was so close I could feel the freezing air around it graze my skin. Looking back at Sneasel, I see her dashing towards me, with another ice shard ready in one of her claws!
+
+I do a roll to the side which sends me flying off the pier, and I use my wings just in time to stop me from hitting the water. Hovering in place, I see Sneasel preparing to throw another ice shard at me, but Gus decides to go in for a slash with his scallop, shattering the ice shard in Sneasel's claw!
+
+"**NICE ONE!** FOLLOW IT UP!" Gus looks at me for half a second and gives me a quick nod, and follows up his attack with more scallop slashes that force Sneasel to block them with her claws. She seems hesitant to make an attack against Gus, which I assume is because she only really wants to beat me up, not Gus. However, her patience runs out and she easily deflects one of Gus's slashes with a slash of her own, which sends his scallop flying into the air!
+
+*(Shit, he's defenseless against her claws without that!)* I flap my wings as hard as I can, gliding across the surface of the water while keeping my eyes locked on the scallop flying through the air. I position myself under it, and flip myself around to catch it right before it would've landed on my chest. *(Perfect!)* I fly up and look back towards the dock, and see Gus struggling to dodge Sneasel's claw swipes. 
+
+"**OVER HERE!**" My yell grabs both Gus and Sneasel's attention. I thrust Gus's scallop in front of my head, and send myself flying like a missile straight at Sneasel. She covers her face with her arms to brace for impact, but right before I'm about to collide with her I orient myself upright and flap my wings, stopping my momentum for a successful feint. I quickly toss the scallop back to its rightful owner, and Gus seizes the chance to slash Sneasel in the side while she's still covering her face! Sneasel lets out a yelp as she's sent flying down the dock! 
+
+"**Perfect!** Gus, time for the finisher!"
+
+"Got it! Wait, wha-" I quickly fly behind Gus and grab his back, and use all of my strength to lift him into the air! "W-Wait, what are you doing!?"
+
+I ignore his whining as I focus on flying the both of us over towards Sneasel, who is only now getting back on her feet. Flying above her while carrying Gus, I do a spin in mid-air and send Gus hurtling toward Sneasel! Seconds before impact, Sneasel sees the living projectile flying towards her and jumps backwards, making Gus miss her and smash right through the wooden planks of the dock and splash into the water below!
+
+*(Oops. I uh, probably should've explained what I was doing first, guess muscle memory from doing combo moves with Dewott took over. I hope he's okay.)* As I fly down to the hole in the dock, Sneasel shoots some ice shards at me, and I yell in pain as one connects with my right wing! The freezing cold sends shivers throughout my body as I start plummeting back down to earth! I slam into the pier, and hear the wooden planks creek under me as a wave of pain passes through my entire body due to the impact. Dazed, I pull myself up only to see another ice shard speeding towards my face. I don't even have time to let out a gasp before I feel the freezing shard hit my face. The feeling of burning cold envelops my body for a second before everything goes black.
+
+I'm awoken by a rush of energy flowing through my body, as well as hearing the crunch of something being chewed in my mouth. Swallowing, I open my eyes and realize Gus just fed me a reviver seed. I sit up and rub my eyes, and see Sneasel sitting nearby, staring at me with her arms crossed.
+
+"You okay?" Gus says as he hands me an oran berry. "Sneasel hit you pretty hard."
+
+I munch on it and feel another wave of energy course through my body, erasing some of my pain. "Y-yeah... I-I s-should b-b-be t-the o-one asking y-you if you're o-okay... S-Sorry a-about t-the throw..."
+
+"It's fine, I didn't get hurt. That throw actually let me jump up through the hole in the dock and sneak up behind Sneasel to knock her ou-"
+
+"HEY! You said you weren't going to mention that!" Sneasel snaps.
+
+"Right, sorry." Gus says as he scratches the back of his head sheepishly. "Well, good thing we're all okay."
+
+"Y-Yeah..." I finish eating the oran berry and stand up. "U-Um, S-Sneasel?"
+
+"... What?" Sneasel doesn't look at me as she responds.
+
+"I-I'm s-sorry... A-About e-everything I s-said b-before..."
+
+Sneasel sighs. "... It's alright. You weren't entirely wrong, I am pretty dumb. But you're completely wrong about Booker being useless. He might not be strong, but he's saved me from my own stupidity countless times."
+
+I nodded. "I a-also g-got myself k-knocked out b-by y-you... D-Despite s-saying t-to n-not make s-stupid m-mistakes l-like I j-just d-did..."
+
+"It was a mistake you could afford to make since Gus could still fight. You were right in saying me making a fatal mistake like that would put Booker in a lot of danger as well. And..." Sneasel sighs again. "... You fought pretty well."
+
+"I-It was m-mostly all G-Gus..."
+
+Gus smiles. "Thanks, but really all I did is just wave my scallop around. In a fair fight, Sneasel would've had me beat."
+
+"Of course." Sneasel said with a satisfied smirk. "But your guy's teamwork was amazing. It made me understand what you think strength is, Togetic. It's teamwork, isn't it?"
+
+I nodded again. "Y-Yes. B-But more t-than that, s-strength is k-knowing you c-can t-trust your team-m-mate to c-cover your w-weaknesses with t-their own s-strengths."
+
+"Ha, don't need to do that if I just get strong enough to have no weaknesses!" Sneasel puts her arms behind her head and lays back on the pier, staring at the stars. "... Teamwork is a powerful thing though. You and that Dewott must've been a true force to be reckoned with."
+
+I just stare at the ocean silently. *(We were, though Dewott did most of the heavy lifting. I was pretty much useless until I evolved, and even then I can still barely fight on my own. Here I am getting my ass handed to me in a 2v1 while Dewott's probably doing just fine on his own.)*
+
+Sneasel lifts up her head to face me. "... Don't want to talk about him? Fair enough, it was rude of me to bring up your past anyway."
+
+"... You r-remind me of h-him, a b-bit." I mutter under my breath. "I-I guess t-that's why I g-got so m-mad... I s-saw m-myself and D-Dewott in y-you a-and B-Booker."
+
+Sneasel put her claw to her chin with a grim expression her face. "So... Then, did he make a mistake and...?"
+
+"O-Oh, h-he didn't die." Sneasel let out a sigh of relief as I said that. "W-We just h-had s-some close c-calls... O-One of them d-did lead t-to me e-evolving t-t-though..." I let out a sigh of my own. "We w-were both h-humans, a-and he w-wanted to g-go back to the h-human w-world while I-I d-didn't, s-so we a-abandoned e-eachother." I struggle to stop my voice from wavering.
+
+Gus sat down next to me and put his arm on my back. "I want to go back too, but I wouldn't ruin a friendship over it. I know I'd have to leave some friends behind here, but I'd want to leave on good terms with all of them." 
+
+Sneasel looked off towards the sea, and her face made her look like she was deep in thought. *(I wonder... Is she thinking about if Booker would want to go back to the human world? I wonder how many of the humans here would want to go back. It's going to be a sad day when a way back to the human world is finally found.)*
+
+We all continue to look out to the starry sea, enjoying how beautiful the moon and the stars in the night sky made it look. The only thing we could hear is the wind rustling through some of the nearby trees and the waves crashing against the supports of the pier. 
+
+However, our peaceful moment was soon interrupted. 
+
+"**ZZZZZT, WERE YOU THREE THE CAUSE OF THE NOISE COMPLAINTS?**"
+
+Startled, we all jump to see a Magnezone behind us. "**AND NOW I CAN SEE THAT THE PIER IS DAMAGED, ZZZZZZZZZT**"
+
+"Uh... It was like that when we got here!" Sneasel quickly responds nervously. "Actually, we came here cuz of the noises we heard! Right guys?" Sneasel waits for a response from one of us to back her up, but there's only silence. "... Guys?" 
+
+Sneasel turns around to see that both me and Gus have disappeared. I've already flown back over the town while Gus silently dived into the water, out of sight. 
+
+I'm unable to hold back a smirk when I hear Sneasel yell "COWARDS!" in the distance while I glide my way over to the guild. 
+
+*(Now she's for sure going to shank me later.)*
 
 ## Encounter with Mew (Coming soon)™
 

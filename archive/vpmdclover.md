@@ -78,8 +78,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW) | [The Wayfinder (wip)](https://rentry.org/TheWayFinder)
 5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) | | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7) | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
-7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | |
-8 | [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT) | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | |
+7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | | [May or may not write idk](https://rentry.org/SumRandoDraft)
+8 | [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT) | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | | [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 9 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | |
 10 | [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | |
 11 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | |
@@ -122,12 +122,23 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 48 | [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4) | | | | |
 49 | [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw) | | | | |
 50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
+51 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
+52 | | | | | |
+53 | | | | | |
+54 | | | | | |
+55 | | | | | |
+56 | | | | | |
+57 | | | | | |
+58 | | | | | |
+59 | | | | | |
+60 | | | | | |
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
 ####Current Colaborative Writing Project Pieces
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
+* [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
@@ -224,6 +235,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Torchic Crosses the Alps](https://rentry.org/unesm)
 	* [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)
 	* [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
+* Pikachu
+	* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -238,6 +251,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Tales of the Grind (ft. Smith)](https://rentry.org/34ww5)
     * [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88)
 	* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
+	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -341,6 +355,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [More Apples (ft. Clara)](https://rentry.org/imuwu)
 * [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
 * [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
+* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
+* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

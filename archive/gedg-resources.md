@@ -26,6 +26,7 @@ Knowledge is power, and free knowledge is great.
 * [Andy Sloane's donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html): Spinning ASCII donut written in delicious byte sized code.
 * [How to write an Eulerian fluid simulator with 200 lines of code](https://www.youtube.com/watch?v=iKAVRgIrUOU) : Concise and effective fluid simulation video by Ten Minute Physics. 
 * [Jamie Wong's WebGL fluid simulation](https://jamie-wong.com/2016/08/05/webgl-fluid-simulation/): Fluid simulation explained nicely with good visuals.
+* [Physically based modeling Pixar lecture notes](https://graphics.pixar.com/pbm2001/): Lecture notes by Andrew Witkin and David Baraff. Some of the topics include rigid body dynamics, cloth and fur simulation, and differential equations.
 * [Quaternion explanation by Nathan Vegdahl and The Blender Foundation](https://youtu.be/4mXL751ko0w): Segment in the Blender Open Movie Workshop series.
 
 ##Rendering APIs and the GPU
