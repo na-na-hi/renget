@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/LxjDrf1.png)
-The Tardening Edition
+![suggested OP image](https://imgur.com/JmkN1YG.jpg)
+Anti-Neuron Ninja Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>429250412
+Last thread: >>429368884
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,10 +31,10 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/10) Colabchads... it's over. \[spoiler]Maybe.\[/spoiler] >>429365520
+\>(05/11) Big noose soon >>429473860 >>429443235
+\>(05/10) Colabchads, it's over \[spoiler]maybe\[/spoiler] >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
 (05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
-(05/08) Kobold updates: >>428664559 >>428841081 ; Green Devil out! >>429061348
-(05/05) 65k context?! https://huggingface.co/mosaicml/mpt-7b-storywriter ; Saga alphas freeform mode >>428651359
+(05/08) Kobold updates >>428664559 >>428841081 ; Green Devil out >>429061348 ; 65k context https://huggingface.co/mosaicml/mpt-7b-storywriter
 (05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
 
 ▶/aids/ Events

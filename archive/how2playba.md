@@ -43,6 +43,10 @@ You can always switch emulators if nothing works.
 Your very first roll guarantees a single (3\*) student from a pool of *only* [the release roster](https://bluearchive.wiki/wiki/Characters) (students released on 2021/02/04).
 Rolling in 10s guarantees at least one (2\*) student, unlike with singles, so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
+
+**Spend *all* your rolls after the first mission. After that you can reroll.**
+I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
+
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). 
 
 >What are good units to roll for?

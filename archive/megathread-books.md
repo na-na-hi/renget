@@ -92,6 +92,10 @@
 - Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 - [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
 
+### 🔗 [UDEMY 24](https://udemy24.com/)
+- Offering free Udemy courses and tutorials that are simple to follow. A fantastic way to develop abilities is through self-study.
+- [URL Safety Results](https://www.urlvoid.com/scan/udemy24.com/)
+
 ### 🐐 [Z-Library Project](https://singlelogin.re/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 - [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)

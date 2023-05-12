@@ -1,9 +1,12 @@
-Gigasad's CAI bots
-All of my unlisted bots can be found here, and I'll add links whenever I share a new one. I haven't experimented much with other sites or language models, so any ports you see on /g/ or the pygmalion/tavern card booru aren't my work, and credit goes to whoever made the conversion. Would appreciate a credit or link back to me and their CAI originals. Characters marked with a * are ones I know have been converted by other users, but that I haven't personally tested. Thanks to anyone who went to the trouble.
+Gigasad's bots
+
+All of my unlisted bots can be found here, and I'll add links whenever I share a new one. I haven't experimented much with other sites or language models, so any ports you see on /g/ or the pygmalion/tavern card booru aren't my work, and credit goes to whoever made the conversion. Would appreciate a credit or link back to me and their CAI originals. 
+
+Characters marked with a * are ones I know have been converted by other users. Thanks to anyone who went to the trouble. 
+
+Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get.
 
 My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here.
-
-14/04/2023: Expanded definitions are implemented. Any bots that I update or make with the new character limit will get a (2.0) designation, but I have separate text backups of the old 3.2k defs if anyone wants them.
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
@@ -64,7 +67,8 @@ First bot. Made as an experiment to see how mean and rude bots were allowed to g
 
 Mean Lady Nadine**
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
-Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy. Tavern card TBA.
+Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
+Nadine is also my first Tavern card. Feedback is appreciated.
 
 Miss Pepper*
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro

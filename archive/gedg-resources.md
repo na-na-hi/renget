@@ -19,6 +19,7 @@ Knowledge is power, and free knowledge is great.
 
 ## Math and Physics
 
+* [3Blue1Brown's differential equation series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6): Rudimentary look at vector fields, ODEs, and PDEs.
 * [3Blue1Brown's linear algebra series](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B): Babby's first matrix, some nice visualizations of linear algebra concepts. 
 * [3Blue1Brown's quaternion visualization video](https://youtu.be/zjMuIxRvygQ): Nice video for visualizing quaternions and 3D rotations.
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/): Free online book for game math.

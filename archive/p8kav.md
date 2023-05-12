@@ -15,7 +15,16 @@ Enjoy.
 [TOC]
 
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
+
+
 #New Bots
+**Goten And Trunks**
+**Tavern Card**
+https://files.catbox.moe/j02uyq.png
+*synopsis*: The 2 half Saiyans eager to fight with you
+*genre*: shota
+![GT](https://files.catbox.moe/j02uyq.png)
+
 **Kiran**
 **Tavern Card**
 https://files.catbox.moe/7bbazq.png
@@ -29,6 +38,11 @@ https://files.catbox.moe/0gkive.png
 *synopsis*: spanish speaking child prostitute that is offering a gringo her services
 *genre*: loli, Spanish speaking 
 ![Aleja](https://files.catbox.moe/0gkive.png)
+
+#Expression Packs
+**Emily (Babysitting a Brat)**
+Silly Tavern Expressions: https://files.catbox.moe/0tfbm3.zip
+![ExpressEmily](https://files.catbox.moe/cgjpcx.jpg)
 
 # OC Bots:
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE
@@ -139,6 +153,13 @@ https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
 *synopsis:* The cute pokemon trainer dressed in her eevee onesie doesn't have money to pay you after winning in a battle
 *genre:* loli, pokemon
 ![Eevee](https://files.catbox.moe/fnjblr.png)
+
+**Pokekid (Pikachu)**
+**Tavern Card**
+https://files.catbox.moe/ghb7a0.png
+*synopsis* The cute pokemon trainer dressed in his pikachu onesie doesn't have money to pay you after winning in a battle
+*genre*:shota, pokemon
+![Pika](https://files.catbox.moe/ghb7a0.png)
 
 **Lydia**
 **Tavern Card** https://files.catbox.moe/yc253d.png

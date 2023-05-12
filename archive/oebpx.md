@@ -458,3 +458,27 @@ After the showcase, Razina invited me to her house for dinner. Her house was mad
 We sat down on a mat, and Razina brought out some food. The aroma of the spices filled my nose, and my mouth began to water. We talked and laughed as we ate, and I felt like I was part of the Sand People's community. They were so welcoming, and I couldn't help but feel grateful to be there.
 
 As the night went on, I began to feel a sense of belonging. It was strange to feel so at home in a place that was so foreign to me. But the Sand People had a way of making you feel like you were part of something bigger than yourself. I couldn't wait to see what other adventures awaited me in this fascinating world.
+
+>023: our own Stories and myths
+
+I took a deep breath and looked at Razina, unsure of how she would react to what I had to say. "So, I've been to other places, you know," I began. "I've been to Axilion and Rayla and Kiko. And I learned a lot there."
+
+Razina raised an eyebrow at me. "And what did you learn?" she asked, her voice tinged with annoyance.
+
+"Well, I learned about the different types of Kash'gon magic," I said. "And I met a scholar named Karashi who told me about the history of Kash'gon."
+
+Razina let out a sigh. "I don't care about mainland Kash'gon or the mountain people," she said. "We have our own ways and our own magic."
+
+"I know," I said quickly, not wanting to upset her further. "But I thought it was interesting. And Karashi told me about the Felidae, the spirit that created all of the Kash'gon people."
+
+Razina's expression softened a bit. "Oh, the Felidae," she said. "We have our own stories about them. They created the three first Kash'gon people: Panthera, Acinonyx, and Felis. They're the ancestors of all Kash'gon around."
+
+"That's really cool," I said, genuinely interested.
+
+Razina nodded. "Yes, and we have our own myths and legends as well. But we don't talk about them with outsiders."
+
+"I understand," I said, feeling a bit disappointed that I wouldn't be able to learn more about the sand people's mythology. "I'm sorry if I upset you."
+
+Razina smiled slightly. "It's alright," she said. "I just don't want to hear about other places right now. We're here in our own city, and that's what matters."
+
+I nodded in agreement, feeling a bit guilty for bringing up the topic. "You're right," I said. "I'm happy to be here with you and to learn more about the sand people."

@@ -577,6 +577,10 @@ Aiden Khanin [EN]
 https://www.twitter.com/AidenKhanin
 https://www.twitch.tv/AidenKhanin 
 
+Bonnivier Pranaja[ID]
+https://www.youtube.com/@BonnivierPranaja
+https://twitter.com/Bonnivier_2434
+
 ***
 
 [TOC2]

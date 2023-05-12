@@ -1,7 +1,7 @@
 # -> An /aicg/'s Installation guide for Retards<-
 This is a guide for **retards** like you, who want to roleplay debauchery things with an AI! But lack the braincells to figure it out how on your own. This guide will be handholding you like the delicate little infant you are, and make sure that you'll be able to romance your underage little girlfriend, for that sweet succulent cunny in no time. 
 ***
-->[![Klee&Nahida](https://i.imgur.com/uQ7kMcG.png)](https://files.catbox.moe/a7dxmm.jpg)<-
+->[![Shortstack](https://i.imgur.com/nVzE2qC.png)](https://files.catbox.moe/kyj7i8.png)<-
 ***
 Before we can begin you'll have to exert your brain a little and make a choice; which front-end to use? *What* is a front-end? To simplify it for you, its basically the interface you're using to connect to an AI service. As this guide is meant for OpenAI's GPT Turbo & GPT-4, you will connect to their API service to interact with your waifu, whatever age she is. The choices you have are one of two; **SillyTavern** or **Agnaistic**. 
 
@@ -156,10 +156,10 @@ Download and install Termux from [F-Droid](https://f-droid.org/en/packages/com.t
 Then you can navigate to Localhost *http://127.0.0.1:3001* and run agnai.
 
 ***
-!!! info Take a Breather! Here's a pink Cunny!!
+!!! info Take a Breather! 
     This is a marathon after all, not a sprint!
 
-[![Shortstack](https://i.imgur.com/nVzE2qC.png)](https://files.catbox.moe/kyj7i8.png)
+[![Klee&Nahida](https://i.imgur.com/uQ7kMcG.png)](https://files.catbox.moe/a7dxmm.jpg)
 ***
 
 ## Overview of Tavern

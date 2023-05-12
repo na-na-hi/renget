@@ -28,6 +28,17 @@ Model | 4-bit | 5-bit | 8-bit
 30B | 19.5 GB
 65B | 38.5 GB
 
+# Filtering/Bias Rundown
+!!! info
+
+	Both bias and filtering can be introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. In contrast, instruct models are guided through fine-tuning to adhere to specific instructions, which allows the intentional manipulation of outputs. The current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
+
+	Filtering occurs when the model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as potentially offensive or unsafe. An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". In contrast, bias is a more subtle phenomenon that can influence the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political or social issues will typically result in outputs that align with left-wing narratives. 
+
+	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting For example, the model may comply with a request to output something derogatory but skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways, as it will tend to favor positive outcomes to events and conversations.
+
+	Removing filtering from a dataset is generally easier than removing bias, particularly when it comes to "positivity" bias, which is often inherent in the training data. Both filtering and bias are common issues that can affect GPT-derived models, and although there have been some successful efforts to mitigate filtering, bias is still a major problem.
+
 # Original Weights
 
 ## LLaMA 16-bit Weights
@@ -35,7 +46,8 @@ Model | 4-bit | 5-bit | 8-bit
 
 	The original LLaMA weights converted to Transformers @ 16bit. A torrent is available as well, but it uses outdated configuration files that will need to be updated. Note that these aren't for general use, as the VRAM requirements are beyond consumer scope.
 
-	>Filtering : None
+	>Type: Foundational
+	>Filtering: None
 
 Model | Type | Download
 --- | --- | ---
@@ -50,7 +62,8 @@ All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)
 
-	>Filtering : None
+	>Type: Foundational	
+	>Filtering: None
 
 Model | Type | Download
 --- | --- | ---
@@ -68,7 +81,8 @@ Model | Type | Download
 
 	Note that despite being an "uncensored" model, several tests have demonstrated that the model will still refuse to comply with certain requests.
 
-	>Filtering : Light
+	>Type: Instruct
+	>Filtering: Light
 
 Model | Type | Download
 --- | --- | ---
@@ -81,7 +95,8 @@ Model | Type | Download
 
 	An RP/ERP focused finetune of LLaMA 13B finetuned on BluemoonRP logs. It is designed to simulate a 2-person RP session. Two versions are provided; a standard 13B with 2K context and an experimental 13B with 4K context. It has a non-standard format (LEAD/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
 
-	>Filtering : None
+	>Type: Roleplay
+	>Filtering: None
 
 Model | Type | Download
 --- | --- | ---
@@ -92,6 +107,7 @@ Model | Type | Download
 
 	Vicuna 1.1 13B finetune incorporating various datasets in addition to the unfiltered ShareGPT. This is an experiment attempting to enhance the creativity of the Vicuna 1.1, while also reducing censorship as much as possible. All datasets have been cleaned. Additionally, only the "instruct" portion of GPTeacher has been used. It has a non-standard format (USER/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
 
+	>Type: Instruct
 	>Filtering : Light
 
 Model | Type | Download
@@ -103,7 +119,8 @@ Model | Type | Download
 
 	ChanSung's Alpaca-LoRA-30B-elina merged with Open Assistant's second Finetune. Testing in progress.
 
-	>Filtering : Medium
+	>Type: Instruct
+	>Filtering: Medium
 
 Model | Type | Download
 --- | --- | ---
@@ -118,7 +135,8 @@ https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit
 
 	A work-in-progress, community driven attempt to make an unfiltered version of Vicuna. It currently has an early stopping bug, and a partial workaround has been posted on the repo's model card.
 
-	>Filtering : Light
+	>Type: Instruct
+	>Filtering: Light
 
 Model | Type | Download
 --- | --- | ---
@@ -131,7 +149,8 @@ Model | Type | Download
 
 	PygmalionAI intend to use the same dataset on the higher parameter LLaMA models. No ETA as of yet.
 
-	>Filtering : None
+	>Type: Roleplay (Pyg), Roleplay Instruct (Meth)
+	>Filtering: None
 
 Model | Type | Download
 --- | --- | ---
@@ -148,7 +167,8 @@ Model | Type | Download
 
 	It is an extremely coherent model for logic based instruct outputs. And while the prose is generally very good, it does suffer from the "Assistant" personality bleedthrough that plagues the OpenAssistant dataset, which can give you dry dialogue for creative writing/chatbot purposes. However, several accounts claim it's nowhere near as bad as OA's finetunes, and that the prose and coherence gains makes up for it.
 
-	>Filtering : Medium
+	>Type: Instruct
+	>Filtering: Medium
 
 Model | Type | Download
 --- | --- | ---
@@ -159,6 +179,7 @@ Model | Type | Download
 
 	An open-source alternative to OpenAI’s ChatGPT/GPT 3.5 Turbo. However, it seems to suffer from [overfitting](https://www.datarobot.com/wiki/overfitting/) and is heavily filtered. Not recommended for creative writing or chat bots, given the "assistant" personality constantly bleeds through, giving you dry dialogue.
 
+	>Type: Instruct
 	>Filtering : Heavy
 
 Model | Type | Download
@@ -174,7 +195,8 @@ Model | Type | Download
     
 	Though designed to improve Langchain, it's quite versatile and works very well for other tasks like creative writing and chatbots. The author also pruned a number of filters from the datasets. As of early May 2023, it's the most recommended model on /lmg/
 
-	>Filtering : Light
+	>Type: Instruct
+	>Filtering: Light
 
 Model | Type | Download
 --- | --- | ---
