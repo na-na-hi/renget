@@ -224,6 +224,11 @@ Made as an experiment to test chance and randomness. Each time you open it, some
 
 https://www.characterhub.org/characters/donquijanon/the-door
 
+## The Phone
+->![phone](https://git.characterhub.org/donquijanon/the-phone/-/raw/6ea27b98a58f55a49c43e4b5f666dd3e66c1352e/raw/tavern_raw.png)<-
+Inspired by Hotline Miami and the phone calls from the Sims 1.
+https://www.characterhub.org/characters/donquijanon/the-phone
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-

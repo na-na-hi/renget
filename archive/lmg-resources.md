@@ -353,6 +353,8 @@ Project & Model Names: | Type: | Info: | User(s) / Org. | Tags: | Resource Links
 ---|:-|:-|:-|:-:|---
 /lmg/ Baking Template | Rentry | Baking Template | ... | ◕ | https://rentry.org/lmg_template
 /lmg/ Drama Rentry | Rentry | Charts with Rentry Drama pages | ... | ◕ | https://rentry.org/lmg-drama
+/lmg/ Papers **Backup** | Backup Rentry | lmg usefull papers backup | ... | ◕ | https://rentry.org/lmg_papers_backup
+Local Models Related Links **Backup** | Backup Rentry | LM Related Links | ... | ◕ | https://rentry.org/lm_related_links_backup
 
 ***
 ##->Archived Update Logs<-

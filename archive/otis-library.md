@@ -17,6 +17,10 @@ If you have any character requests, suggestions, or feedback, feel free to find 
 Each of the characters listed in this library will include a name, description, brief summary, category, and other miscellaneous info regarding the details of said character. Along with each character, a CharaCard and a .json will be included for download. **Some characters (Alice) now contain Sprites which can be used alongside an emotion detection extension.**
 ***
 
+## Find Me!
+### Venus AI
+I'm now on Venus AI: https://venusai.chat/profiles/419792ca-2017-41a9-ba36-3ce1c996da6a_profile-of-otis
+
 ## CharaCards [SFW]
 None yet ;)
 ***

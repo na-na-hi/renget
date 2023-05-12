@@ -118,6 +118,10 @@ Data:	https://rentry.co/DomitianBuild
 Theme:	https://www.youtube.com/watch?v=jJRnNm_jhEs
 		https://www.youtube.com/watch?v=infH2qniUuo
 
+Name: Don't Worry About It
+Note: Xadera Slime with a taste for forbidden fruit.
+Data: https://rentry.org/d2fs4
+Music: 
 
 Name:	Dorothy "Dolly" Byxmori
 Note:	The cutest moth ever. She is a friendly yet slightly paranoid girl that has slowly been open up to people with some good bad and great results.

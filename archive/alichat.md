@@ -269,11 +269,21 @@ Edit to your First Message. Make sure it starts with “Character:”
 #Useful Links
 ***
 - Hybrid PLists + Ali:Chat Guide: https://rentry.co/plists_alichat_avakson
-- Character Creator (For creating a JSON): https://devkats.club/pygmalion-cct/
+- Character Creator (For creating a JSON): https://zoltanai.github.io/character-editor/
 - Additional Tips:
 	- https://rentry.org/chai-pygmalion-tips
 	- https://rentry.org/pygtips#character-creation-tips
 	- https://rentry.org/lorebook-guide#prose (Same rules from Prose apply to Ali:Chat)
+- Character Repositories:
+	- https://rentry.org/avakson_library
+	- https://rentry.co/grubbgroo
+	- https://rentry.org/LaathixsStuffs
+	- https://rentry.co/Noxxcringebots
+	- https://rentry.co/PrimesBots
+	- https://rentry.org/shyelijahpygmalion
+	- https://rentry.org/otis-library
+	- https://rentry.org/Totally-Accurate
+	- https://rentry.org/TrappusRentry
 
 #FAQ
 ***

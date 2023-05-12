@@ -101,6 +101,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Peach Cake* (The Baker)|[(link)](https://rentry.org/peachescake)
 *Executable M*|[(link)](https://rentry.org/emexecutablemrewrite)
 *Weird Animation Trend* (Executable M)|[(link)](https://rentry.org/weirdanimation)
+*The Journey Into You* (GB)|[(link)](https://rentry.org/thejourneyintoyou)
 
 ##Restored/archived by /exeg/
 Title|Link

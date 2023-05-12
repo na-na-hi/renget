@@ -1,9 +1,9 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.13 | Helped Making Waifus Real Since 2023* <-
+->*V 1.14 | Helped Making Waifus Real Since 2023* <-
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
-!!! Danger The template Renty is now split into two Rentry's to keep things consistent: This Rentry will be home to the template, https://rentry.org/lmg-resources will contain the charts. Apologies for the inconvenience | Updates here will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again. | There's now a Drama Rentry that will contain a chart that will save and archive all new drama Rentry pages like Jarted, template below has been updated with the new drama link: https://rentry.org/lmg-drama
+!!! info Local LLM Guide added | google leaked doc news moved to the "Archived News"
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
@@ -16,8 +16,6 @@ https://huggingface.co/reeducator/bluemoonrp-13b
 https://huggingface.co/mosaicml/mpt-7b-storywriter
 \>(05/05) GPT4-x-AlpacaDente2-30b.
 https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
-\>(05/04) Allegedly leaked document from Google, fretting over Open Source LLM's.
-https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 
 ►**FAQ**
 \>Wiki
@@ -28,6 +26,8 @@ https://rentry.org/er2qd
 https://rentry.org/lmg_models
 \>/lmg/ General Resources
 https://rentry.org/lmg-resources
+\>Local LLM Guide
+https://rentry.org/local_LLM_guide (NEW)
 
 ►**Model Guides & Resources**
 \>LlaMA Resources
@@ -48,7 +48,7 @@ https://rentry.org/pygmalion-local (Linux)
 https://github.com/oobabooga/text-generation-webui
 https://github.com/LostRuins/koboldcpp
 https://github.com/0cc4m/KoboldAI
-https://github.com/NO-ob/simpleLlama (NEW!!)
+https://github.com/NO-ob/simpleLlama
 
 ►**ERP/RP/Story Gen.**
 \>RolePlayBot
@@ -60,7 +60,7 @@ https://rentry.org/better-llama-roleplay
 
 ►**Other Resources**
 \>/lmg/ Drama Rentry
-https://rentry.org/lmg-drama (NEW!!)
+https://rentry.org/lmg-drama
 \>Ooba. ROCm
 https://rentry.org/eq3hg (AMD)
 \>LLaMA Quantization Guide
@@ -88,6 +88,7 @@ https://github.com/anon998/simple-proxy-for-tavern
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+05/04/2023 | Allegedly leaked document from Google, fretting over Open Source LLM's. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 05/04/2023 | StarCoder, a 15.5B parameter models trained on 80+ programming languages: https://huggingface.co/bigcode/starcoderbase
 04/30/2023 | Uncucked Vicuna 13B released: https://huggingface.co/reeducator/vicuna-13b-free
 04/30/2023 | PygmalionAI release two 7B LLaMA-based models: https://huggingface.co/PygmalionAI
