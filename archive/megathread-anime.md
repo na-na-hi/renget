@@ -53,9 +53,9 @@
 - Built with love, this website is a community for fans of anime where users can share updates, news, and obtain downloads of new anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
 
-### 🔗 [Ripcrabbyanime](https://ripcrabbyanime.us/)
+### 🔗 [Ripcrabbyanime](https://ripcrabbyanime.in/)
 - Popular titles freely available, from classic favorites to the newest releases, which serves as a community for anime aficionados.
-- [URL Safety Results](https://www.urlvoid.com/scan/ripcrabbyanime.us/)
+- [URL Safety Results](https://www.urlvoid.com/scan/ripcrabbyanime.in/)
 
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - Easy-to-navigate site and a large collection of anime series, including downloads from some of the most popular subbers.
@@ -137,12 +137,8 @@
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
 - [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
-### ▶️ [animos](https://www.animos.cf/) • Under Construction
-- A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
-- [URL Safety Results](https://www.urlvoid.com/scan/animos.cf/)
-
 ### ▶️ [Enime](https://enime.moe/)
-- Anime streaming service that allows you to just hop in and start watching with no need for a VPN.
+- A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
 - [URL Safety Results](https://www.urlvoid.com/scan/enime.moe/)
 
 ### ▶️ [Gogoanime](https://gogoanime.gr/) / [#2](https://gogoanime.llc/)

@@ -1,14 +1,16 @@
-#![Image description](https://iili.io/HNzisXj.jpg)
+#![Image description](https://files.catbox.moe/t24orv.png)
 
-##->It's over...<-
+##->We're so back!<-
 
 ***
 
-##->Nsfw endpoint(lmao)<-
-->`Ded, gone, over, owari. `<-
+##->Endpoint<-
+->https://branon-oai-proxy.hf.space/<-
 
-~~->Key: Kuruminha<-~~
-~~->Url: https://dashboard.scale.com/spellbook/api/v2/deploy/vxc3a0o<-~~
+
+***
+##->JB<-
+->https://files.catbox.moe/boapo2.txt<-
 
 ***
 ##->If you want to help me make an LLaMa trained on gpt-4 please send your logs here:<-

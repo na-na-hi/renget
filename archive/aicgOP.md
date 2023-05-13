@@ -122,6 +122,7 @@ https://rentry.org/oaicards
 http://rentry.org/waifutext
 
 >Meta
+https://rentry.org/Brazilnumeroum [Logs for Mr.Bunda]
 https://rentry.org/aicgOP - https://rentry.org/aicg_op_texts [OP templates]
 https://alwaysfindtheway.github.io [Proxy checker]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
@@ -225,6 +226,7 @@ services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 proxy checker: alwaysfindtheway.github.io
 extra topics: https://rentry.org/aicg_extra_information
+brazil logs: https://rentry.org/Brazilnumeroum
 
 Previous: --Last thread here--
 ```

@@ -1,4 +1,4 @@
-!!! Danger This is just a backup from localmodelslinks, it's based from this post: https://boards.4channel.org/g/thread/93323225#p93328754 It will not be updated.
+!!! Danger This is just a backup from localmodelslinks, it's based from this post: https://boards.4channel.org/g/thread/93323225#p93328754 It will not be updated. NEW UPDATE, anon who made the original Local Models Related Papers Rentry brought it back up just now.
 #Local Models Related Papers
 /lmg/ | ->Accelerate<-
 ------ | ------

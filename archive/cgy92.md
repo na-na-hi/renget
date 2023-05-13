@@ -99,6 +99,7 @@ Long awaited series. She was denied her history and Civ streams by managment. Bu
 |2023-04-14|  【CIVILIZATION V】 Just Doin' My Job | [![](https://files.catbox.moe/qj8b4z.jpg)](https://www.youtube.com/watch?v=9JxA2kBHxa0) |
 |2023-04-28|  【CIVILIZATION V】Get In Loser, We're Going Pillaging |  [![](https://files.catbox.moe/h0adlf.jpg)](https://www.youtube.com/watch?v=GhYNv2H6hwc) |
 |2023-05-07|  【CIVILIZATION V】What If We Made Peace? Haha.. Unless?  |[![](https://files.catbox.moe/tfthyi.jpg)](https://www.youtube.com/watch?v=DEmTKu7VxRs) |
+|2023-05-12|  【CIVILIZATION V】I am good civilization | [![](https://files.catbox.moe/vgjdth.jpg)](https://www.youtube.com/watch?v=8EokKZKj6BE)|
 
 _____________________
 

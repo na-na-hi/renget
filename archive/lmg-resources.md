@@ -112,8 +112,8 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 ###LlaMA Models, Guides, & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-llama.cpp | n/a | LLaMA Port in C++ | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
-AgustusCletus's `⇲llama.cpp` | n/a | Fork Proj. | [AgustusCletus](https://github.com/AgustusCletus) | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
+llama.cpp | CPU | LLaMA Port in C++ | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
+AgustusCletus's `⇲llama.cpp` | GPU | Fork Proj. | [AgustusCletus](https://github.com/AgustusCletus) | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
 llama-7b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
 llama-13b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
 llama-33b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 

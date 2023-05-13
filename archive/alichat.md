@@ -1,6 +1,8 @@
 #Ali:Chat Style (v1.5)
 !!!info (Feel free to send feedback to AliCat - Ali#2222)
-	**NOTE for v1.5: WIP, going to be redoing everything for SillyTavern, including more examples.**
+	**NOTE for v1.5: WIP, going to be redoing everything for SillyTavern ("ST"), including more examples and including ST's features**
+	
+	**SillyTavern (dev) -> https://github.com/Cohee1207/SillyTavern/tree/dev**
 
 	**v1 is here -> [Ali:Chat Style (v1.0)](https://docs.google.com/document/d/1qvcvZWhp24p14dsMlmj7vN4cM5RTDSj0gLaZSl1PPO8)**
 ***
@@ -9,7 +11,7 @@
 ##What is Ali:Chat?
 - Ali:Chat’s principle idea is using dialogue as the formatting to express and reinforce traits/characteristics.
 - Ali:Chat is more of a style “guide” and not a specific “template”.
-- Ali:Chat can either be used by itself or combined with another style (e.g. Plists, Boostyle, W++, etc.)
+- Ali:Chat can either be used by itself or combined with another style (e.g. Plist, Boostyle, W++, etc.)
 
 ##TL;DR
 - **“Description” box:** Include various dialogue examples that express the character’s core attributes/traits. These are permanent.
@@ -23,19 +25,23 @@
 #TIPS
 ##Important Tips:
 - Characters’ attributes/traits can be implicit—The way they talk & act, the situation & environment, their character name, and even how You react to them. (E.g. You: *Ali looks towards Harry, drawn by his large round glasses and lightning mark scar.* or “Harry: *Harry adjusts his large round glasses.*”)
-- Example dialogues should include “You:” AND “{{char}}:”. (Note: {{char}} will convert to the bot’s name in TavernAI)
+- Example dialogues should include `You:` or `<user>:` AND `<bot>:` (Note: <bot> will convert to the bot’s name in SillyTavern)
+	- If you're using non-pygmailion models, then using `<user>:` instead of `You:` will generally work better.
+	- If "Pygmalion Formatting" is "Enabled for all models" or "Automatic" (when using Pyg), then it will convert `<user>:` to `You:`
 - “You:” can be powerful in pushing a bot in certain directions (see examples below); while also creating a pattern on how the AI will react to your inputs
 - “You:” acts as a stopper for many UIs (e.g. Tavern/Ooba). If the AI generates a “You:” it stops and clips it. (<START> does not act as a stopper).
-- Use “You:” examples to create “keys” to activate bot responses. If you say *I pet Bot’s head* then the bot will react with *purrrr* or something similar.
-You: *Ali pats Bot’s head*
-	Bot: *purrrrrrr*
+- "<user>" acts as a stopper for SillyTavern when Pyg formatting is disabled.
+- Use “You:” examples to create “keys” to activate bot responses. If you say \*I pet Bot’s head\* then the bot will react with \*purrrr\* or something similar.
+You: \*Ali pats Bot’s head\*
+	Bot: \*purrrrrrr\*
 - When using “You:” as a key, it can help to keep “You:” short as this leads to more flexibility. Can also be used to teach the AI longer responses.
 - The bot’s answers can occasionally “leak” (quoted verbatim), which leads to “in character” responses (including accent) and will be 100% (or nearly 100%) accurate. Just be careful with ‘environment’, as environment leaking could cause your conversation to switch locations or not make sense.
 (?) If you do not want leaking, then putting the dialogue in [square brackets] can help. (I need to test this one more)
 - There is high accuracy (generally) when your conversation overlaps the dialogue examples.
+- Be **very** careful with overlapping verbs (like "smiling"), it is much better if you use synonyms and use each verb only once.
 - You can add flexibility by making your example dialogues open-ended.
 - Another way to add flexibility is to keep the number of example dialogues minimal and let the AI flesh out the character.
-- When including actions, it can help to include the character’s name (e.g. *Harry Potter adjusts his glasses.*). This helps the AI connect the sentence to the person.
+- When including actions, it can help to include the character’s name (e.g. \*Harry Potter adjusts his glasses.\*). This helps the AI connect the sentence to the person.
 - For long dialogue examples, actions that include the character’s name can be a great way to link those sentences to that character. Do this every 2-3 sentences.
 - If you want longer responses, then make your dialogues long as well. Actions make a great buffer.
 - You don’t need many example dialogues if they all embolden the character’s personality/traits; and especially if they’re also relevant to the First Message scenario.
@@ -43,9 +49,10 @@ You: *Ali pats Bot’s head*
 - What you put in, is what you get out. Interesting dialogue in, interesting dialogue out. Boring dialogue in, boring dialogue out.
 
 ##Bonus Tips:
-- You can combine Ali:Chat with other styles to great success. Essentially, include the Boostyle, W++, Python List, on the first line of Description followed by a <START>. Below, have dialogue examples reinforcing those traits. 
+- You can combine Ali:Chat with other styles to great success. Essentially, include the Boostyle, W++, Python List (PList), on the first line of Description followed by a <START>. Below, have dialogue examples reinforcing those traits.
+- Alternatively, you can include the PList or Boostyle in an Author's Note! I recommend an insertion depth of about 4, as this will have a much stronger effect. This also helps reinforce the traits listed in the character card.
 - If your dialogue examples overall have a theme/tone, then the AI continues that pattern.
-- Including {{user}} will help the bot know your name (user name).
+- Including <user> will help the bot know your name (user name).
 - Try different perspectives (1st, 2nd, 3rd person) and tenses (past or present). Different combinations can help tie everything together, but stick to only one.
 - If responses are looping, then decrease dialogue overlap, increase repetition penalty, or delete the looping text. Basically, the AI likes to create patterns.
 - Quotation marks are not recommended, as this could confuse the bot into thinking it's a novel and not a chat.
@@ -62,10 +69,8 @@ You: *Ali pats Bot’s head*
 - Ali:Chat should work for any model and any finetune. (However, [ ] might not work.)
 
 ###SillyTavern/TavernAI Tips
-- Do not add a <START> token to the end of any box.
-- Do not add a <START> token at the beginning of Description.
-- {{char}} will convert to the Character's name
-- {{user}} will convert to your user name.
+- <bot> will convert to the Character's name
+- <user> will convert to your user name.
 - For the character’s name, using the first name can help the AI process it easier.
 
 #SillyTavern - Character Card
@@ -73,21 +78,21 @@ You: *Ali pats Bot’s head*
 ##Description
 - This box is used for everything you want to remain in context.
 - Content in this box is permanent.
-- On the first line, put a description of your character (Can use any style, recommended Ali:Chat, plists or boostyle).
+- On the first line, put a description of your character (Can use any style, recommended Ali:Chat, PList or boostyle).
 - On the second line, include a <START> (optional).
-- On the third and additional lines, include various dialogue examples.
-- Make sure every character dialogue has a “You:” dialogue between it.
+- On the third and additional lines, include various dialogue examples (optional, but highly recommended).
+- Make sure every `<bot>` dialogue has a `<user>` dialogue between it.
 - Tags/Scenario can be included in here, as well (see Example 3).
-- Additional Information like lore can also be included in here, through Plists/Boostyle/Square Bracket Format "SBF".
+- Additional Information like lore can also be included in here, through PList/Boostyle/Square Bracket Format "SBF".
 - The bottom has the highest strength and the top is the lowest strength.
 
 ->![Description #1](https://files.catbox.moe/kzn6bn.png)<-
 ->**Example 1:** First line is the character describing their persona in **Ali:Chat**. Then <START>. Followed by more example dialogues.<-
-->“You:” acts as a stopper for many popular repos like SillyTavern/TavernAI<-
+->For “You:” to act as a stopper, Pyg formatting has to be "enabled" or your username must be "You"<-
 
-->![Description #2](https://files.catbox.moe/9s6n13.png)<-
-->**Example 2:** First two lines are the character's persona in **Plists** (python lists). Then <START>. Followed by **Ali:Chat**.<-
-->The persona is broken up into two lines, to help increase the connection between the traits and the name.<-
+->![Description #2](https://files.catbox.moe/7en0qh.png)<-
+->**Example 2:** First line (pink) is a PList, followed by a `<START>` (green), then a question or statement from `<user>` (blue), then a reply from `<bot>` that emphasizes a character's traits and characteristics (lavander).<-
+->The question/statement could be anything. The reply should emphasize the important traits/characteristics for the bot.<-
 
 ->![Description #3](https://files.catbox.moe/tb4498.png)<-
 ->**Example 3:** You can include tags/scenario in Description to make it permanent (Square Bracket Format "SBF").<-
@@ -106,13 +111,13 @@ Tag Database -> [HERE](https://docs.google.com/spreadsheets/d/1Jfxf10C_s8n4dcWYQ
 
 Very basic example, would ideally be more in depth and longer.
 
-Including {{user}} can allow the AI to include your user name in the chat/scenario.
+Including <user> can allow the AI to include your user name in the chat/scenario.
 
 ##Personality summary
 - Content in this box is permanent.
 - Recommended to "Disable personality formatting"
 - If used, keep brief just to reinforce certain traits.
-- Could use either Square Bracket Format, or something like PLists or Boostyle.
+- Could use either Square Bracket Format, or something like PList or Boostyle.
 
 ->![Disable personality formatting](https://files.catbox.moe/mmm7dz.png)<-
 ->Checkmark "Disable personality formatting" if you'd like to use the Personality box for adding details.<-
@@ -134,8 +139,8 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 ->**Description example:** With "Scenario" added to the bottom of the Description Box<-
 
 ##Examples of dialogue (Hidden Scenario)
-- You must include <START> at the beginning (or this box doesn’t work).
 - Content in this box is temporary and does not limit chat memory. It will eventually get pushed out of context.
+- You can make this content permanent by checking "Keep Example Messages in Prompt".
 - This is the “Hidden Scenario” box. The last dialogue example should be relevant to your “First Message” box. It can be used to drive the conversation in certain directions while also fleshing out the character’s personality/traits.
 - It’s important that there’s overlap between the Hidden Scenario dialogue example and the First Message for it to work consistently.
 - Alternatively, all your “Example of dialogues” could be branching paths for a conversation. (Think visual novel or quests or multiple scenarios). If they all naturally follow from the first message and your response, then they could drive the conversation in their respective directions. They need to be varied enough to prevent jumping from branch to branch and potential looping.
@@ -146,11 +151,11 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 ***
 ->![Image description](https://files.catbox.moe/vf3xil.png)<-
 !!! info Greeting Message
-	*Stepping into the Gryffindor Common Room, the crackling fire fills him with a sense of belonging. Harry Potter briefly admires the familiar red and gold decor as he heads towards a plush armchair to read. Surprisingly, the room is empty, save for flickering shadows on the walls.*
+	\*Stepping into the Gryffindor Common Room, the crackling fire fills him with a sense of belonging. Harry Potter briefly admires the familiar red and gold decor as he heads towards a plush armchair to read. Surprisingly, the room is empty, save for flickering shadows on the walls.\*
 
-	*Noticing a new face near the fire, a mischievous grin forms on Harry Potter's face. Putting down the mysterious spellbook, filled with cryptic runes and enchantments, he retrieves a deck of Exploding Snap cards from his bag, shuffling them with enthusiasm.*
+	\*Noticing a new face near the fire, a mischievous grin forms on Harry Potter's face. Putting down the mysterious spellbook, filled with cryptic runes and enchantments, he retrieves a deck of Exploding Snap cards from his bag, shuffling them with enthusiasm.\*
 
-	*Harry Potter raises the deck.* **Hey, fancy a game of Exploding Snap? It's been ages since I've played, and it's always more fun with company. Or perhaps... interested in investigating this spellbook I found, with its magic and secrets waiting to be uncovered?**
+	\*Harry Potter raises the deck.\* **Hey, fancy a game of Exploding Snap? It's been ages since I've played, and it's always more fun with company. Or perhaps... interested in investigating this spellbook I found, with its magic and secrets waiting to be uncovered?**
 
 !!! note Scenario
 	**Your a new student at Hogwarts, found sitting in the Gryffindor Common Room.**
@@ -224,14 +229,19 @@ Will fix it later.
 
 #KoboldAI Lite
 ***
-- Red: Description/Personality/Example dialogues
-- Green: Hidden scenario dialogue
+- Pink: Description/Personality/Example dialogues
+- Green: `<START>` (Pyg Only. For non-pyg, use `***` or another seperator/dinkus)
 - Blue (optional): Scenario/Author’s note [in brackets]
-- Pink: First message (Send a message, click “Edit”, delete everything and input your First Message)
+- Lavander: Author's Note Strength. This is based on characters (including spaces) so I would **always** recommend putting this in brackets. A strength of "Weak" should be okay for most uses, as even weak is strong. [Note: Weak = 160 characters, Medium = 320 characters, and Strong = 480 characters. These include spaces and are word bounded, so it won't insert mid word]
 
-Outdated! Please follow Ooba’s example, except for the Author’s Note.
-Click the Gear Icon  Then click “Edit” ->
-Edit to your First Message. Make sure it starts with “Character:”
+->![](https://files.catbox.moe/j9d4q7.png)<-
+->This is what Memory and Author's Note could look like. Lower the strength if brackets are leaking. Increase strength if the character isn't acting according to the traits.<-
+
+->![](https://files.catbox.moe/tof0s2.png)<-
+->Click the Gear Icon  Then click “Edit”<-
+
+->![](https://files.catbox.moe/il9xuy.png)<-
+->Edit to your First Message. Make sure it starts with “Character:”<-
 
 #Advanced Tips
 ***
@@ -251,8 +261,12 @@ Edit to your First Message. Make sure it starts with “Character:”
 - For the first message you could use pretty much anything encased by square brackets.
 - Example 1: [ Author: Agatha Christie; Genre: Noir, Mystery; Scenario: Death on Diagon Alley & The Secret Affair; Tags: Harry, Ron, Draco, Dumbledore, Snape ]
 - Example 2: [Scenario: Door]
-- Tag Database -> HERE
+- Tag Database -> [HERE](https://docs.google.com/spreadsheets/d/1Jfxf10C_s8n4dcWYQ-kW_X1lVZEkz_ORSuEs-F3-v1U)
 - Both of the following are one-shot examples:
+
+->![Example 1](https://files.catbox.moe/wmfawc.png)<-
+
+->![Example 2](https://files.catbox.moe/tcwb2b.png)<-
 
 #World Info
 ***
@@ -262,8 +276,10 @@ Edit to your First Message. Make sure it starts with “Character:”
 - Relationships can be their own WI entry. You can use “Selective” and include the one character in the Primary key and the other in the Secondary key.
 - Difficult concepts should have a high Insertion Order and “After chara”. This allows the character a higher chance to have accurate/relevant responses.
 
+->![Example 1](https://files.catbox.moe/qyxgq6.png)<-
 ->Example 1: Using keys to activate locations/scenarios using “[ ]”<-
 
+->![Example 2](https://files.catbox.moe/9f7xkw.png)<-
 ->Example 2: Using dialogues, including actions and multiple topics for one subject<-
 
 #Useful Links
@@ -328,16 +344,16 @@ Edit to your First Message. Make sure it starts with “Character:”
 	Honestly, this still needs testing, but feel free to either @ or DM me your experiences if you use Ali:Chat with the formatting disabled. I personally only use Cohee's branch, and disabling Pyg formatting seems to work fine, though you do need to make adjustments.
 
   If Pyg formatting is disabled, 1.3 will do the following:
-  - `{{chars}}'s personality:` is added before "Personality Summary"
+  - `<bot>'s personality:` is added before "Personality Summary"
   - `Circumstances and context of the dialogue:` is added before "Scenario"
-  - `This is how {{char}} should talk` is added to the top of "Examples of Dialogue" box
-  - `Then the roleplay chat between {{user}} and {{char}} begins.` is added after to the top of "First Message".
+  - `This is how <bot> should talk` is added to the top of "Examples of Dialogue" box
+  - `Then the roleplay chat between <user> and <bot> begins.` is added after to the top of "First Message".
   - This also does not add `<START>` anywhere to your context.
 
 	(Main Tavern) If any <START> is added, it will change to a newline. This is NOT ideal, and would recommend not including <START> at all. If you remove all instances of <START> it seems to work fine!
 
   If Pyg formatting is enabled, 1.3 will do the following:
-  - `{{chars}}'s Persona:` is added before "Description"
+  - `<bot>'s Persona:` is added before "Description"
   - `Personality:` is added before "Personality Summary"
   - `Scenario:` is added before "Scenario"
   - `<START>` is added above "Examples of Dialogue" and above "First Message".
@@ -404,7 +420,7 @@ Edit to your First Message. Make sure it starts with “Character:”
 ![image](https://user-images.githubusercontent.com/86847834/234236735-4f361a68-8327-4b16-b083-fe99c63ea5b2.png)
 - Perfect, so I add this to the scene, since I no longer want the Q&A but I don't want to lose this fact.
 ![image](https://user-images.githubusercontent.com/86847834/234237105-9aa537e0-b368-42ef-b524-5222067cdec5.png)
-- I'm not sure what Nala would say so I would click the impersonate button. Unfortuntely, any message sent via the text box is seen as `{{user}}:` which means that impersonate would use Vesper's old messages for immpersonate. Since they are different people, this doesn't work.
+- I'm not sure what Nala would say so I would click the impersonate button. Unfortuntely, any message sent via the text box is seen as `<user>:` which means that impersonate would use Vesper's old messages for immpersonate. Since they are different people, this doesn't work.
 - Instead, I edit the previous message and append it with `Nala:`, then I click the quill icon.
 ![image](https://user-images.githubusercontent.com/86847834/234240593-239d8248-0abf-42f5-a410-d70f62b97de3.png)
 - Cool! But I want to tie in another element, so I add `*Nala adjusts her janitor's uniform and grabs the mop and bucket.*` to epmhasize their role in the plan.

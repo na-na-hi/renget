@@ -68,4 +68,4 @@ Union name / Anon Name | Crime | Used to be called | ID | Region
 MELLOW | Leader sold the union to the Chinese | IRONTITS | 2921 | NA
 
 -> ![soon](https://imgur.com/jw45Mzy.png) <-
-!!! info -> In case I missed you on the thread and want to UPDATE your union info you can drop by here https://discord.gg/q9eBJXJG <-
+!!! info -> In case I missed you on the thread and want to UPDATE your union info you can drop by here https://discord.gg/AsmDNaQR <-

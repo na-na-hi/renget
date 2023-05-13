@@ -3,7 +3,7 @@
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
-!!! info Local LLM Guide added | google leaked doc news moved to the "Archived News"
+!!! info Local LLM Guide added | google leaked doc news moved to the "Archived News" | https://rentry.org/LocalModelsLinks & https://rentry.org/LocalModelsPapers have returned, thank you Anon!
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
@@ -28,6 +28,10 @@ https://rentry.org/lmg_models
 https://rentry.org/lmg-resources
 \>Local LLM Guide
 https://rentry.org/local_LLM_guide (NEW)
+\>Local Models Links
+https://rentry.org/LocalModelsLinks
+\>Local Models Papers
+https://rentry.org/LocalModelsPapers
 
 ►**Model Guides & Resources**
 \>LlaMA Resources

@@ -1,7 +1,11 @@
 #Fluffusion
 ##NEWS:
-###Fluffusion Revision 1 Now Training!
-Estimated time to Epoch 20, around the 12th of May. Decently usable epoch date expected before or around April 27th due to model achieving coherency - will continue training beyond that point to see any further changes.
+###Fluffusion Revision 1 Training Completed!
+https://pixeldrain.com/u/6mYzw6AT
+
+A prompting speedrun will be made to make adjusting over from Yiffy and or FluffyRock to make life easy.
+
+The others are listed here as historical and may move to another Rentry.
 
 ##Fluffusion Release:
 
@@ -10,6 +14,7 @@ Fluffusion is a 640 base resolution model with aspect ratio buckets, Clip Skip 2
 ###r1:
 * csv https://cdn.discordapp.com/attachments/315121916199305218/1093975936577319044/fluffusion_r1_tags.csv
 
+* e20 https://pixeldrain.com/u/6mYzw6AT
 * e19 https://pixeldrain.com/u/v4RY6SC1
 * e18 https://pixeldrain.com/u/dH1eiuxr
 * e17 https://pixeldrain.com/u/1m6CePiN

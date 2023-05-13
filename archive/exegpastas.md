@@ -100,7 +100,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Xeunoeflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1), [(part 2)](https://rentry.org/xeunoeflaunz-chapter-2)
 *Peach Cake* (The Baker)|[(link)](https://rentry.org/peachescake)
 *Executable M*|[(link)](https://rentry.org/emexecutablemrewrite)
-*Weird Animation Trend* (Executable M)|[(link)](https://rentry.org/weirdanimation)
+*Weird Animation Trend*/*Stockholme Syndrome* (Executable M)|[(part 1)](https://rentry.org/weirdanimation), [(part 2)](https://www.wattpad.com/story/341677997-stockholme-syndrome)
 *The Journey Into You* (GB)|[(link)](https://rentry.org/thejourneyintoyou)
 
 ##Restored/archived by /exeg/

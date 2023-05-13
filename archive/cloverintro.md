@@ -7,7 +7,7 @@
 ##Good lord what is happening in this thread?! Are you roleplaying?!
 
 ~~Aurora borealis~~
-It's not actual roleplaying. The gist of it is that we imagine what would happen if a bunch of anons got transported to the PMD world and decided to form a guild (Clover Guild). Then, we create characters, write stories and make art about them. We also discuss the setting and what kind of shenanigans these characters would be involved with. It's kinda similar to how the SCP Foundation community started, if you're familiar with that.
+It's not actual roleplaying, but collaborative writing. The gist of it is that we imagine what would happen if a bunch of anons got transported to the PMD world and decided to form a guild (Clover Guild). Then, we create characters, write stories and make art about them. We also discuss the setting and what kind of shenanigans these characters would be involved with. It's kinda similar to how the SCP Foundation community started, if you're familiar with that.
 
 ***
 
@@ -63,6 +63,7 @@ Now for some tips:
 - Making an OP flawless character can make it difficult to write about them in the long term. On the other hand, giving them flaws and goals can open up many story possibilities.
 - There is no set rule against having your character be a legendary/mythical Pokémon, but be aware that it takes a skilled writer to make the character not come off as a "muh super special OC" unless we're talking about the "low tier" ones, like Shaymin or Manaphy.
 - We have an [idea bin](https://rentry.org/cloverIdeabin) where people put ideas that they don't feel like executing or don't feel competent enough to pull off. Reading through it might give you some inspiration!
+- Some of the characters in the list are inactive/undeveloped and not used in stories at all. So, if you want to use a certain species that is already in the guild you can ask around to see if that species is "free to grab". But there's no rule against the guild having more than one character of the same Pokémon species, so don't stress over it.
 
 ***
 
@@ -76,6 +77,31 @@ We also have [personality blurbs](https://rentry.org/vpmdcloverpb) to help with 
 
 ***
 
+##Writing Resources
+
+**A bunch of stuff that might help you with writing.**
+
+PMD World Map: https://eddyk28.github.io/PMD%20Map
+(The guild is located in Capim Town, which is in the Grass Continent)
+
+Clover Guild Quick Reference: https://rentry.org/cloverlore
+(Contains a WIP layout of the guild and a list of changes/additions in the setting)
+
+Guild Members Personality Blurbs: https://rentry.org/vpmdcloverpb
+
+Idea Bin: https://rentry.org/cloverIdeabin
+
+Main Rentry Link: https://rentry.org/vpmdclover
+
+***
+
 ##This all sounds cringe AF. I don't want to take part in this!!!
 
 That's fine. We are still a PMD general, so feel free to discuss the games or share art ~~~or grieve over no new PMD again~~.
+
+***
+
+##Is there even anything left to discuss about the games?
+
+Yes! Several romhacks are finished, though most of them are short story hacks. One of the anons in the thread (Wooperdev) is working on a Sky QoL romhack nicknamed Project Orion.
+Also, feel free to share your PMD playthoughs in the thread.

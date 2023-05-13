@@ -181,6 +181,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i)
 	* [A New World (ft. Not Chespin)](https://rentry.org/sm6dx)
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
+	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -357,6 +358,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 * [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
+* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

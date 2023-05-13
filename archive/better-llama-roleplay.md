@@ -65,26 +65,26 @@ WizardLM-7B is a large language model that has been trained using [evolved instr
 	2. CPU Version: Download WizardLM-7B-GGML from the [official HF repository](https://huggingface.co/TheBloke/wizardLM-7B-GGML).
 !!! note Uncensored WizardLM-7B
 	There's an [uncensored version of WizardLM-7B](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) available to download. Keep in mind, this version only works with textgenerationwebui so if you plan on using KoboldAI you'll have to stick with the MEGA repository for the time being.
-2. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI) or [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers). I recommend KoboldAI as it is, in my opinion, faster to setup and noob-friendly, though its outputs can be slower than textgenerationwebui due to its lack of streaming.
+2. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI) or [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers). I recommend textgenerationwebui as it offers great ease of us, an expanded feature set, and streaming support.
 	1. CPU Version: Download and install the latest version of [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases).
-!!! note Having issues with textgenerationwebui? 
-	There seems to be a bug of undetermined origin that is causing it to generate bad results in *very* specific situations. You're unlikely to encounter the issue yourself. If you do, though, try switching to KoboldAI for now. I will continue to look into resolving this issue and will update if I find a solution.
-3. KoboldAI: Download this [WizardLM-7B config patch](https://files.catbox.moe/rkb7yp.zip). The configuration files present in both repositories are currently incompatible with KoboldAI and will result in bad or inferior results. Therefore, this config patch needs to be downloaded. Once downloaded, go ahead and replace the files in the repository with the files from the patch. If you're using textgenerationwebui or the CPU version of WizardLM-7B you can disregard this step.
-	1. Textgenerationwebui: If you're using the HF/MEGA configuration files as-is, open `config.json` in your preferred text editor and make sure `use_cache` is set to `true`, otherwise your generations will be extremely slow.
-4. KoboldAI: Rename one of the .pt files to "4bit-128g", this lets KoboldAI know what load method to use and the groupsize.
-	1. Textgenerationwebui: Make sure WizardLM-7B is ran with the following parameters: `--wbits 4 --groupsize 128 --model_type llama --api --notebook`. The first three parameters are necessary to load the model, while the other two are needed to connect textgenerationwebui to SillyTavern.
+!!! warning KoboldAI Issues
+	The latest version of [KoboldAI](https://github.com/0cc4m/KoboldAI) no longer loads WizardLM-7B for unknown reasons. Either stay at your current version or revert to this [Known Good](https://github.com/0cc4m/KoboldAI/commit/4180620999307a8eefb2bcd05e94161eb478243b) version.
+3. Textgenerationwebui: If you're using the HF/MEGA configuration files as-is, open `config.json` in your preferred text editor and make sure `use_cache` is set to `true`, otherwise your generations will be extremely slow.
+	1. KoboldAI: Download this [WizardLM-7B config patch](https://files.catbox.moe/rkb7yp.zip). The configuration files present in both repositories are currently incompatible with KoboldAI and will result in bad or inferior results. Therefore, this config patch needs to be downloaded. Once downloaded, go ahead and replace the files in the repository with the files from the patch. If you're using textgenerationwebui or the CPU version of WizardLM-7B you can disregard this step.
+4. Textgenerationwebui: Make sure WizardLM-7B is ran with the following parameters: `--wbits 4 --groupsize 128 --model_type llama --api --notebook`. The first three parameters are necessary to load the model, while the other two are needed to connect textgenerationwebui to SillyTavern.
+	1. KoboldAI: Rename one of the .pt files to "4bit-128g", this lets KoboldAI know what load method to use and the groupsize.
+		2. KoboldAI: Click the "Try New UI" button at the top right. This is the only way to use 4bit quantization with Kobold. Navigate to the "Interface" options menu and turn on "Experimental UI." This, too, is necessary to use 4bit quantization.
+		3. KoboldAI: Load the model. Make sure "Use 4bit Mode" is turned on or else it won't load it in 4bit (obviously).
 	2. CPU Version: Make sure WizardLM-7B-GGML is ran with the following parameters: `--threads [number of physical CPU cores] --stream`. The first parameter specifies how many CPU cores to use, otherwise KoboldCPP will guess how many it should use, the second parameter is needed to connect KoboldCPP to SillyTavern. Some optional but useful parameters include `--smartcontext --useclblast [GPU Device]`. The first reduces prompt processing frequency while the second uses your GPU to speed up prompt processing and takes a GPU Device as an argument like so: `--useclblast 0 0`. GPU0 is `0 0` while GPU1 is `1 0`, experiment if this isn't the case.
-5. KoboldAI: Click the "Try New UI" button at the top right. This is the only way to use 4bit quantization with Kobold. Navigate to the "Interface" options menu and turn on "Experimental UI." This, too, is necessary to use 4bit quantization.
-6. KoboldAI: Load the model. Make sure "Use 4bit Mode" is turned on or else it won't load it in 4bit (obviously).
-7. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
-8. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
+5. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
+6. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
 ```python
             // add non-pygma dingus
             else if (!is_pygmalion) {
                 mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
             }
 ```
-9. Replace what's inside the curly brackets with the following:
+7. Replace what's inside the curly brackets with the following:
 ```python
 if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
         mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString + "\n[System note: Write one reply only. Do not decide what " + name1 + " says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about " + name2 + "'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]\n";
@@ -94,7 +94,7 @@ if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
 ```
 !!! note 
 	Play around with the system note prompt until you get results that satisfy your needs.
-10. Connect SillyTavern to your backend and enjoy your affordable, quality LLaMA generations.
+8. Connect SillyTavern to your backend and enjoy your affordable, quality LLaMA generations.
 	1. CPU Version: By default, KoboldCPP is initialized at port 5001. Make sure you change port 5000 to port 5001 when trying to connect from SillyTavern. Alternatively, use the `--port` parameter to change the port.
 
 # Troubleshooting

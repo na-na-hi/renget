@@ -33,7 +33,7 @@ Model | 4-bit | 5-bit | 8-bit
 
 	Both bias and filtering can be introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
 
-	In contrast, instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs. The current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
+	In contrast, instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
 
 	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". 
 
