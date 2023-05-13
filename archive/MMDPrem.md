@@ -50,7 +50,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Homyu** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
 
-[[Patreon]](https://www.patreon.com/posts/mmdmodel-kisaki-81977133) : Blue Archive - Kisaki
 [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
@@ -84,6 +83,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **Jsn** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/25175) [[Fantia]](https://fantia.jp/fanclubs/50141) [[Iwara]](https://ecchi.iwara.tv/users/jsn) [[Twitter]](https://twitter.com/JsnUoroku) <-
+
+[[Fantia]](https://fantia.jp/products/431517) : Virtual YouTuber - Yorumi Rena -Bunny Girl-
 ***
 -> **Kafuji (VRキャラクター製作所)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/188920) [[Booth]](https://kafuji.booth.pm) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40057.html) [[Fantia]](https://fantia.jp/fanclubs/3967) [[Gumroad]](https://kafuji.gumroad.com/) [[Patreon]](https://www.patreon.com/kafuji) [[Twitter]](https://twitter.com/Kafuji) <-
@@ -205,9 +206,10 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Zy0n7** <-
 -> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
 
+[[Gumroad]](https://zy0n7.gumroad.com/l/bjsmqq) : Cyberpunk - Rebecca
 [[Gumroad]](https://zy0n7.gumroad.com/l/vqnyl) : Dragon Maid - Elma
 [[Gumroad]](https://zy0n7.gumroad.com/l/mpbme) : Made in Abyss - Faputa
-[[Gumroad]](https://zy0n7.gumroad.com/l/uojut) : Dragon Maid - Lucoa
+[[Gumroad]](https://zy0n7.gumroad.com/l/uojut) : Dragon Maid - Lucoa (+PMX)
 [[Gumroad]](https://zy0n7.gumroad.com/l/mpzoq) : My Hero Academia - Sousaki Shino -Mandalay-
 [[Gumroad]](https://zy0n7.gumroad.com/l/gxdrlq) : Pokemon - Braixen
 [[Gumroad]](https://zy0n7.gumroad.com/l/vypnof) : Bakemonogatari - Shinobu (+PMX)

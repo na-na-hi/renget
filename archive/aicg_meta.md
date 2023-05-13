@@ -59,10 +59,10 @@ Supported by all:
 - control over the prompt
 - phone access
 
-|         |UJB | WEB OPTN  | MULTI CHARA | TREES | IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS        | EMOTION PACKS |
-|---------|--- |-----------|-------------|-------|-------------|---------|---------|------------|------------|------------|---------------|
-| Silly   |✅ | ✅ (Colab) | ✅          | ⚠️     | ✅ (ext)    | ✅ (ext)| ✅ (ext)|  🚫        | 🚫         | 🚫         |✅ (ext)       |
-| Agnai   |✅ | ✅         | ⚠️ (WIP)     | ⚠️     | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅ (11labs) |🚫             |
+|         |UJB | WEB OPTN  | MULTI CHARA | TREES | IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS (11labs)| EMOTION PACKS |
+|---------|--- |-----------|-------------|-------|-------------|---------|---------|------------|------------|-------------|---------------|
+| Silly   |✅ | ✅ (Colab) | ✅          | ⚠️     | ✅ (ext)    | ✅ (ext)| ✅ (ext)|  🚫        | 🚫         |✅           |✅ (ext)       |
+| Agnai   |✅ | ✅         | ✅          | ⚠️     | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅           |🚫             |
 
 - (ext) means you have to install [the Silly extras](https://github.com/Cohee1207/SillyTavern-extras#modules). They can be a little complicated to setup for non-technical users.
 - **Trees**: Very partial support. Agnai can swipe latest messages. Silly preserves old swipes, but requires you to delete any message following them to access them.

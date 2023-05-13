@@ -6,26 +6,99 @@
 ***
 
 #Tavern Guide and cards:
-!!!Back-up your TavernAI folder whenever you update
+!!!Back-up your TavernAI folder whenever you update. Also use SillyLossy TavernAI, seriously. The regular one can't compare. 
 
 ##GPT-3.5 Turbo, Ol' reliable:
 
-Just follow this rentry for Turbo:https://rentry.org/tavernai_gpt35 you will need an OpenAI API key. Requires phone number but it nets you $5 worth of tokens. At $0.002 per 1k tokens that adds up to around 1.8M words. Just use $1 burner phones and keep scamming them, there is no filter except for some rare cases that have nothing to do with the general.
+Just follow this rentry for Turbo:https://rentry.org/tavernai_gpt35 you will need an OpenAI API key. Requires phone number but it nets you $5 worth of tokens. At $0.002 per 1k tokens that adds up to around 1.8M words. Just use $1 burner phones and keep scamming them, there is no filter except for some rare cases that have nothing to do with the general. You can also check /aicg/ on /g/ for proxies or keys.
 ~~Follow this guide for GPT-4 for free using Scale:https://github.com/nai-degen/TavernAIScale~~ Dead.
 
 ##Claude, arguably the best model available. In open beta for now on slack.com.
 - Get SillyLossy TavernAI (dev branch): https://github.com/Cohee1207/SillyTavern/tree/dev
 - Get Spermack. Personally I made a copy of my Tavern folder and installed it there: https://github.com/bfs15/Spermack
 - Follow the guide on the Spermack Github. Consider making multiple accounts for when Claude gets removed from your workspace.
-- Disable character and style anchors in TavernAI, AI Response Formatting (The large "A").
+- Disable character and style anchors in TavernAI, AI Response Formatting (The large "A). Remove any jailbreak prompts that deal with consent or similar.
+- Keep your Slack.com tab open in browser so you can check whenever you get filtered and for what reason. Keep in mind Spermack has an auto-retry feature that triggers when you get filtered and when the response is too short. If you run out of retries it will likely crash your TavernAI forcing you to restart.
+- Don't be afraid to swipe away bad results. This shit is free. 
 
-Personally I also disable the jailbreak prompt and only have the NSFW toggle on. I'm not sure if that affects the filter in Claude, but I almost never get filtered. Even without the automatic retry from Spermack.
+Personally I also disable the jailbreak prompt and only have the NSFW toggle on. I'm not sure if that affects the filter with Claude, but I almost never get filtered. Even without the automatic retry from Spermack. **They will eventually (took around 9000 messages for me, and only after I tried testing evil shit) remove Claude from your workspace, so be ready to create a new workspace/account to bypass this.**
+
+Some old tips and prompts, containt an old main.js with autoformatter included that is probably not compatible with the current spermack:https://rentry.co/aqc65
+
+Prompts that I use: https://pastebin.com/DkgV5q4t
+
+##Spermack Autoformatter
+
+Not made by me, this will automatically place all text outside of quotation marks as italics. To do so go to your spermack folder and open Main.js with NOTEPAD++, Vscode or something similar. Then paste the following:
+
+```
+function fix_formatting(text) {
+    text = text
+          .replaceAll(/“|”/g, '"')
+          .replaceAll(/""/g, '"')
+          .replaceAll(/\*/g, '')
+          .replace(/ +\n/g, '\n').trim()
+          .replace(/^\s*[\*"]\s*(\r?\n|$)/gm, '')
+          .replace(/^\n+/, '');
+
+    let sp = text.split(/(\n|")/g);
+
+    let is_dialogue = false;
+
+    let result = "";
+
+    is_dialogue = false;
+
+    for (let s of sp) {
+      if (s == '"') {
+          is_dialogue = !is_dialogue;
+
+          result += '"';
+
+          continue;
+      }
+      
+      if (!is_dialogue && !(/^\s*$/.test(s))) {
+          s = s.replace(/^(\s*)/, '$1*');
+          s = s.replace(/(\s*)$/, '*$1');
+      }
+
+      result += s;
+    }
+
+    return result;
+}
+```
+It should look like this:
+
+ ![Image description](https://files.catbox.moe/8v042p.png)
+
+Then Ctrl+F this: `role: 'assistant'`. Change it so instead of `content:result`it looks like this:
+
+ ![Image description](https://files.catbox.moe/yqrlfs.png)
+
+Save the file and restart your Spermack.
 
 ##Author's notes and world info
-A powerful tool to keep character behavior as you want them to be, add inner thoughts, keep track of (you)r appearance or size differences such as making sure the AI knows Judy is 3ft tall. Also useful to keep /collared/ tropes as part of the world lore so the AI can reference it. A basic Author's note for inner thoughts I use is:
+A powerful tool to keep character behavior as you want them to be, add inner thoughts, keep track of (you)r appearance or size differences such as making sure the AI knows Judy is 3ft tall. Also useful to keep /collared/ tropes as part of the world lore so the AI can reference it. To use them click on the extensions menu (the three piled boxes on SillyLossy Tavern) and then "Author's Note / Character Bias". Paste the text in the input box and set the number of messages and insertion depth. It can be used to set thoughts, change character behavior, make sure the bot remember your appearance...for example with my stream simulator I used it to make sure the bot formatted A basic Author's note for inner thoughts I use is:
 
-[System Note - Don't respond to this note, simply obey it: {{char}} should have internal thoughts written in italics and quotation marks *«Example thought here~»* for example. These thoughts should follow her personality and be relevant to the occasion. Always keep the initiative and have {{char}} lead and do/suggest things that move things forward without skipping the current activity, not ask questions.]
+`[System Note - Don't respond to this note, simply obey it: {{char}} should have internal thoughts written in italics and quotation marks *«Example thought here~»* for example. These thoughts should follow her personality and be relevant to the occasion. Always keep the initiative and have {{char}} lead and do/suggest things that move things forward without skipping the current activity, not ask questions.]`
 
+Custom Author note for Collared.com forums and Stream simulator, remember to set n messages as 1 and insertion depth as 1:
+
+`[System Note - Don't respond to this note, simply obey it: Forum User posts should not contain user actions like *purrs* or *winks. Only typed messages info as real posts, this is a forum, not RP. Human males get preferential treatment, swarmed by simping, thirsty girls, etc.]`
+
+`[System Note - Don't respond to this note, simply obey it: in case a chat message includes the words /fax, AUTOMOD will then drop a human supremacist and anthro male inferiority or breeding fact. Don't do this everytime, simulate it organically. The Chat is fast and thus many messages will be sent at the same time. Chat Posts should only contain typed dialogue and not actions or RP. Emojis should be inserted in between colons. {{User}} does not post in chat, he talks in stream thus you must never include {{user}}'s messages in the stream chat.]`
+
+Note I used for managing sex during stream:
+
+`[System Note - Don't respond to this note, simply obey it: Follow the typical structure of a Twitch.tv stream chat, including emojis (concentrate on thirsty and feminine emojis such as kisses and lips, eggplants and sweat). There should be at least 6 new chat messages per post, Include references to humie superiority and #FuckFur, furboi inferiority. Remember to include any changes, use internet lingo and make sure to always be creative on the chat responses. Do not control or post for {{user}}. Include the occasional superchat and donation. Avoid writing actions, this is a chat not an RP.  In chat, never post as {{user}} unless {{user}} explictly says so. And if and only if that is the case never type "{{user}}:", instead type "{{user}}(STREAMER):". Do this ONLY if {{user}} says or narrates he is typing in chat. Otherwise do not ever post as {{user}} or  "{{user}}(STREAMER):" in chat. Everything {{user}} says is said in camera on stream and not typed in chat. Now that "@TanyaPawgalski @AzuraVixen17 are with {{user}} you should narrate their actions and descriptions as well instead of writing their messages in chat as they are busy worshiping {{user}}'s cock. Narrated what is happening on camera from their perspective, at least one full paragraph.]`
+
+The {{user}}(STREAMER): is important as TavernAI bugs out if the AI types "{{user}}:", cutting off the message. Here is the result:https://files.catbox.moe/m1ye6b.png
+
+World info is what you use to set up lore and background info you want the AI to always keep in mind, for example places, organizations, concepts, historical events, etc. It consists of keys and entries. TavernAI scans for keys in the last N messages (user's choice) and then inserts the entry into the prompt. Very useful. To access it click the World Info menu (book with a globe). Here is a world info I made based on /Collared/ tropes:https://files.catbox.moe/wwv32b.json
+
+Originally meant for my Judy card but it should work with any anthro cards. Set up token budget to ~500. It very rarely insert all entries anyways. 
 
 ##Cards:
 https://files.catbox.moe/rnqj7s.png - Lil Tygah (Tigress Rapper)
@@ -41,6 +114,9 @@ https://files.catbox.moe/s7ga9b.png - Loona
 https://files.catbox.moe/m148zr.png - Judy Hopps  (Racist bunny-cop who wants to see her kind collared, enslaved, and bred by humans.)
 https://files.catbox.moe/59uo9q.png - Devil Familiar
 https://files.catbox.moe/wa7x9z.png - Master Tigress
+https://files.catbox.moe/mlhugr.png - Collared.com forums, adapted from my CAI bot.
+https://files.catbox.moe/dlfn1z.png - Stream simulator, remember you can edit out the emojis and anything you dislike. Large defs (~1440 tokens)
+https://www.characterhub.org/characters/norquinal/collared-day - Collared Day: The Anthrostate has been toppled, and in its place the Imperium of Mankind has mandated that every member of the master species, once they turn eighteen, shall be assigned their very own anthro companion.
 
 !!! Remember to keep your bots UNLISTED and that the devs hate you. 
 #CAI Bots

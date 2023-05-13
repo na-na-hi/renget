@@ -220,8 +220,8 @@
 >Becomes absolutely furious when coming across a foe who hurt him or a friend in the past, will often attack them even after they're knocked out.
 >Will put up with all the memes the other guildmates love to talk about
 >His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
->Isn't much for going on missions and adventures, preferring to take his time and check out the sights
->Most adventures he actually dares to go on are to obtain mundane items the guild is mysteriously missing
+>Prefers to take his time and check out the sights
+>Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
 >Cheerfulness and enthusiasm is what Wooper's all about. It'd take someone doing something very serious to make him mad.
@@ -234,7 +234,7 @@
 >Should something happen to Wooper, Chespin will ignore everything else, even immense fears, to get him back.
 >Other guild members trick Wooper into repeating memes, with the promise that the phrases are "human detectors"
 
->Together, Chespin and Wooper form Team Cozy. The treasures they seek are more mundane things such as comfy blankets, tasty foods, and pretty much anything that helps one relax.
+>Together, Chespin and Wooper form Team Cozy. While they may bring in an outlaw every now and then, the main focus of their adventures are more mundane things such as comfy blankets, tasty foods, and pretty much anything that helps one relax. 
 
 ###Mindy
 >A Mew that was found knocked out on the side of the road by Chespin and Wooper

@@ -123,7 +123,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 49 | [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw) | | | | |
 50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
 51 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
-52 | | | | | |
+52 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
 53 | | | | | |
 54 | | | | | |
 55 | | | | | |
@@ -135,7 +135,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
-####Current Colaborative Writing Project Pieces
+####Current Collaborative Writing Project Pieces
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
@@ -181,7 +181,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i)
 	* [A New World (ft. Not Chespin)](https://rentry.org/sm6dx)
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
-	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) *Not on Table*
+	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -215,6 +215,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
     * [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
     * [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
+    * [May or may not write idk](https://rentry.org/SumRandoDraft)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)

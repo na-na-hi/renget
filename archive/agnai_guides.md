@@ -16,6 +16,10 @@ Claude 1.2 (requires API key) https://files.catbox.moe/ml6ar3.mp4
 
 OpenAI (with your own key) https://files.catbox.moe/ykv26c.mp4
 
+##### other
+
+using a multi-character room https://files.catbox.moe/beuua6.mp4
+
 #### If you want to install agnai locally
 
 Install Node version 16 or higher per official instructions: https://nodejs.org/en/download

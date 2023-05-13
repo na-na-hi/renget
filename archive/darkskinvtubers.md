@@ -1,586 +1,169 @@
 #/choc/ - Chocolate Brown Chuubas
-***
+---
 
 [TOC2]
 
-***
+---
 
 ##->JP Vtubers<-
-ばーちゃる東和ちゃんねる[JP]
-https://twitter.com/VIPi_towa
-https://youtube.com/@VIPi_towa
+Name|Links|Tags/Description
+:----:|:----:|:----:
+ばーちゃる東和ちゃんねる|[Twitter](https://twitter.com/VIPi_towa) [Youtube](https://youtube.com/@VIPi_towa)|
+RIA|[Twitter](https://twitter.com/Ria_emoechi) [Youtube](https://www.youtube.com/@ria_emec)|
+千夜イチヤ|[Twitter](https://twitter.com/senya_1ya) [Youtube](https://www.youtube.com/@senya_1ya/streams)|
+Chloe Ch.猫小夜くろえ|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
+Levimaru ch|[Twitter](https://twitter.com/YatonoLevi) [Youtube](https://www.youtube.com/@levimaruch) [Twitch](https://www.twitch.tv/yatonolevi)|
+しゅがーぐらいだー|[Twitter](https://twitter.com/sugarrrglider) [Youtube](https://www.youtube.com/@LilySyu_PJblue)|One half of a vtuber duo
+Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charlotte_HNST) [Youtube](https://www.youtube.com/@Charlotte_Shimamura)|774inc.
+みみぴ|[Twitter](https://twitter.com/Mimipi_MMP) [Youtube](https://www.youtube.com/@mimipi_ch/streams)|
+魔使マオ -matsukai mao-|[Twitter](https://twitter.com/matsukai_mao) [Youtube](https://www.youtube.com/@MatsukaiMao/streams)|Nijisanji - Horror games
+葉山舞鈴 / Ohayama Ch.|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
+轟京子/kyoko todoroki|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
+神成きゅぴ / Kaminari Qpi|[Twitter](https://twitter.com/xprprQchanx) [Youtube](https://youtube.com/@KaminariQpi)|VSPO - FPS Gyaru
+烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams)|
+ヴァリアナ・S・ティンガーネット|[Twitter](https://twitter.com/Valiana_s) [Youtube](https://www.youtube.com/@valiana_s)|スナックにり - Mahjong
+猫葉こば|[Twitter](https://twitter.com/Coba_Nekoba) [Twitch](https://www.twitch.tv/nekobacoba)|
+火神カナ|[Twitter](https://twitter.com/KagamiKana) [Youtube](https://www.youtube.com/@user-pe6he6do7r/streams)|
+咲田みりん Sakuta Mirin|[Twitter](https://twitter.com/Mirin_Sakuta) [Youtube](https://www.youtube.com/@Mirin_Sakuta/streams)|
+譜奏 棗 / Natsume Fukana|[Twitter](https://twitter.com/NatsumeFukana) [Youtube](https://www.youtube.com/@NatsumeFukana)|
+メルシュ -Malstrøm-|[Twitter](https://twitter.com/Malstrom_V) [Youtube](https://www.youtube.com/@malstrom/streams)|
+Jina Ch. 司波ジーナ|[Twitter](https://twitter.com/shibajina_vt) [Youtube](https://www.youtube.com/@jinach.0408/streams)|
+アガメ|[Twitter](https://twitter.com/agamemega) [Youtube](https://www.youtube.com/@user-qq4iw3tx4v/streams)|
+ねこあらし / nekoarashi|[Twitter](https://twitter.com/YA_IVA) [Youtube](https://www.youtube.com/@nekoarashi/videos)|
+霧島響希|[Twitter](https://twitter.com/kirishima_stack) [Twitch](https://www.twitch.tv/kirishima_hibiki)|
+王神 天斛 /Ōgami Channel|[Twitter](https://twitter.com/tet_ogami) [Youtube](https://www.youtube.com/channel/UCeGp6_JL6OewKt8pj77a_rg)|
+Flare Ch. 不知火フレア|[Twitter](https://twitter.com/shiranuiflare) [Youtube](https://www.youtube.com/@ShiranuiFlare)| Hololive
+四ツ辻まよい|[Twitter](https://twitter.com/mayoi_4224) [Youtube](https://www.youtube.com/@mayoi_4224)|
+陽夏のの/HinatsuNono|[Twitter](https://twitter.com/HinatsuNono) [Youtube](https://www.youtube.com/channel/UCPeF0V8dzSUYHwgLjvC86PQ)|
+青龍アオイ🐲 Aoi Seiryu|[Twitter](https://twitter.com/4GVseiryu) [Youtube](https://www.youtube.com/channel/UC3Z4nXVK8a0Y3D9MroL7gEA)|
+猫吹ケムリ☁Nekobuki Kemuri|[Twitter](https://twitter.com/mo9mo9ke6ri) [Youtube](https://www.youtube.com/channel/UCPiAB6q4PDMkMl5sr1CWGcw)|
+CMY子|[Twitter](https://twitter.com/sei1go) [Youtube](https://www.youtube.com/channel/UCgOyJUzx06loBmxUPqldm_w)|
+眠居ふわりのふわり塾|[Twitter](https://twitter.com/zzz_fuwari) [Youtube](https://www.youtube.com/@zzz_fuwari)|
+ Yunomiya Izuru -Izuru CH-| [Youtube](https://www.youtube.com/@-izuruch-3433)|
+儚牙紺(Kurage Kon）|[Twitter](https://twitter.com/Kon_Kurage) [Youtube](https://www.youtube.com/@KurageKon/)|
+めまいパレード|[Twitter](https://twitter.com/hawaian_v) [Youtube](https://www.youtube.com/@Memaiparade)|
+Eneko=Stinger|[Twitter](https://twitter.com/EnekoStinger) [Youtube](https://www.youtube.com/@EnekoStinger)|
+莉子ちゃんねる|[Twitter](https://twitter.com/riko_seifukubu) [Youtube](https://www.youtube.com/@user-wl9ql1sm7g)|
+霧の森ノン  Non Kirinomori|[Twitter](https://twitter.com/NON_MJMJ) [Youtube](https://www.youtube.com/@nonkirinomori)| Horror games, DbD
+カフェ-de-しょこらch【咲良 しょこら】|[Twitter](https://twitter.com/s_shocolat0507) [Youtube](https://www.youtube.com/@sakura-shocolat-ch)|
+ゆんちゃむちゃんねる|[Twitter](https://twitter.com/yuntyamutyamu) [Youtube](https://www.youtube.com/@user-ji7hk8ub5f)|
+善財空ねる -Nel Zenzaiku-|[Twitter](https://twitter.com/nel_zenzaiku) [Youtube](https://www.youtube.com/@-nelzenzaiku-193)|
+黒綺ハル / Kuroki Haru|[Twitter](https://twitter.com/haru_harunosora) [Youtube](https://www.youtube.com/@harunosora)|
+Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Youtube](https://www.youtube.com/@DiaTatsunuma) [Twitch](https://www.twitch.tv/dia_tatsunuma)|Speaks english as well
+ベラライカ|[Twitter](https://twitter.com/bellaraika) [Youtube](https://www.youtube.com/@bellaraika)|
+新妻 ネトラ|[Twitter](https://twitter.com/NTR_s2s2) [Youtube](https://www.youtube.com/@NTR_s2s2)|
 
-RIA[JP]
-https://twitter.com/Ria_emoechi
-https://www.youtube.com/@ria_emec
+---
 
-千夜イチヤ[JP]
-https://twitter.com/senya_1ya
-https://www.youtube.com/@senya_1ya/streams
-
-Chloe Ch.猫小夜くろえ[JP]
-https://twitter.com/Nekoyo_Chloe
-https://www.youtube.com/@Nekoyo_Chloe/streams
-
-Levimaru ch[JP]
-https://twitter.com/YatonoLevi
-https://www.youtube.com/@levimaruch
-https://www.twitch.tv/yatonolevi
-
-しゅがーぐらいだー[JP]
-https://twitter.com/sugarrrglider
-https://www.youtube.com/@sugarrrglider/streams
-
-Charlotte Channel / 島村シャルロット【ななしいんく】[JP]
-https://twitter.com/Charlotte_HNST
-https://www.youtube.com/@Charlotte_Shimamura
-
-みみぴ[JP]
-https://twitter.com/Mimipi_MMP
-https://www.youtube.com/@mimipi_ch/streams
-
-魔使マオ -matsukai mao- [JP]
-https://twitter.com/matsukai_mao
-https://www.youtube.com/@MatsukaiMao/streams
-
-葉山舞鈴 / Ohayama Ch.[JP]
-https://twitter.com/Hayama_Marin
-https://youtube.com/@HayamaMarin
-
-轟京子/kyoko todoroki【にじさんじ】[JP]
-https://twitter.com/KT_seeds
-https://www.youtube.com/@TodorokiKyoko/streams
-
-神成きゅぴ / Kaminari Qpi [JP]
-https://twitter.com/xprprQchanx
-https://youtube.com/@KaminariQpi
-
-烏星-ebosi-[JP]
-https://twitter.com/ebosi_64
-https://www.youtube.com/@ebosi/streams
-
-ヴァリアナ・S・ティンガーネット【スナックにり】[JP]
-https://twitter.com/Valiana_s
-https://www.youtube.com/@valiana_s
-
-猫葉こば[JP]
-https://twitter.com/Coba_Nekoba
-https://www.twitch.tv/nekobacoba
-
-火神カナ[JP]
-https://twitter.com/KagamiKana
-https://www.youtube.com/@user-pe6he6do7r/streams
-
-咲田みりん Sakuta Mirin[JP]
-https://twitter.com/Mirin_Sakuta
-https://www.youtube.com/@Mirin_Sakuta/streams
-
-譜奏 棗 / Natsume Fukana[JP]
-https://twitter.com/NatsumeFukana
-https://www.youtube.com/@NatsumeFukana
-
-メルシュ -Malstrøm-[JP]
-https://twitter.com/Malstrom_V
-https://www.youtube.com/@malstrom/streams
-
-Jina Ch. 司波ジーナ[JP]
-https://twitter.com/shibajina_vt
-https://www.youtube.com/@jinach.0408/streams
-
-アガメ[JP]
-https://twitter.com/agamemega
-https://www.youtube.com/@user-qq4iw3tx4v/streams
-
-ねこあらし / nekoarashi[JP]
-https://twitter.com/YA_IVA
-https://www.youtube.com/@nekoarashi/videos
-
-霧島響希[JP]
-https://twitter.com/kirishima_stack
-https://www.twitch.tv/kirishima_hibiki
-
-王神 天斛 /Ōgami Channel[JP]
-https://twitter.com/tet_ogami
-https://www.youtube.com/channel/UCeGp6_JL6OewKt8pj77a_rg
-
-Flare Ch. 不知火フレア[JP]
-https://www.youtube.com/@ShiranuiFlare
-https://twitter.com/shiranuiflare
-
-四ツ辻まよい[JP]
-https://twitter.com/mayoi_4224
-https://www.youtube.com/@mayoi_4224
-
-陽夏のの/HinatsuNono[JP]
-https://twitter.com/HinatsuNono
-https://www.youtube.com/channel/UCPeF0V8dzSUYHwgLjvC86PQ
-
-青龍アオイ🐲四方神姫 Aoi Seiryu [JP]
-https://twitter.com/4GVseiryu
-https://www.youtube.com/channel/UC3Z4nXVK8a0Y3D9MroL7gEA
-
-しゅがーぐらいだー[JP]
-https://twitter.com/sugarrrglider
-https://www.youtube.com/@LilySyu_PJblue/
-
-猫吹ケムリ☁Nekobuki Kemuri[JP]
-https://twitter.com/mo9mo9ke6ri
-https://www.youtube.com/channel/UCPiAB6q4PDMkMl5sr1CWGcw
-
-CMY子【三つ目メガネっ娘お絵かきVtuber】[JP]
-https://twitter.com/sei1go
-https://www.youtube.com/channel/UCgOyJUzx06loBmxUPqldm_w
-
-眠居ふわりのふわり塾 [JP]
-https://twitter.com/zzz_fuwari
-https://www.youtube.com/@zzz_fuwari
-
-皇牙サキ Ooga Saki [JP] [Graduated]
-https://archive.org/details/youtube-C_Rx8aiDnws
-https://archive.org/details/youtube-EIaIZAX9QaA
-
-サカイメの書架 [JP] [Graduated]
-https://www.youtube.com/@user-cc9dg3lk4z
-
- Yunomiya Izuru -Izuru CH- [JP]
-https://www.youtube.com/@-izuruch-3433
-
-儚牙紺(Kurage Kon）[JP]
-https://www.youtube.com/@KurageKon/
-https://twitter.com/Kon_Kurage
-
-めまいパレード[JP]
-https://twitter.com/hawaian_v
-https://www.youtube.com/@Memaiparade
-
-Eneko=Stinger[JP]
-https://twitter.com/EnekoStinger
-https://www.youtube.com/@EnekoStinger
-
-莉子ちゃんねる [JP]
-https://twitter.com/riko_seifukubu
-https://www.youtube.com/@user-wl9ql1sm7g
-
-霧の森ノン  Non Kirinomori [JP]
-https://twitter.com/NON_MJMJ
-https://www.youtube.com/@nonkirinomori 
-
-カフェ-de-しょこらch【咲良 しょこら】[JP]
-https://twitter.com/s_shocolat0507
-https://www.youtube.com/@sakura-shocolat-ch
-
-ゆんちゃむちゃんねる [JP]
-https://twitter.com/yuntyamutyamu
-https://www.youtube.com/@user-ji7hk8ub5f
-
-善財空ねる -Nel Zenzaiku- [JP]
-https://twitter.com/nel_zenzaiku
-https://www.youtube.com/@-nelzenzaiku-193
-
-黒綺ハル / Kuroki Haru [JP]
-https://twitter.com/haru_harunosora
-https://www.youtube.com/@harunosora
-
-Dia Tatsunuma / 辰沼ディア [JP]
-https://twitter.com/Dia_Tatsunuma
-https://www.youtube.com/@DiaTatsunuma
-https://www.twitch.tv/dia_tatsunuma
-
-ベラライカ [JP]
-https://twitter.com/bellaraika
-https://www.youtube.com/@bellaraika 
-
-
-新妻 ネトラ [JP]
-https://twitter.com/NTR_s2s2
-https://www.youtube.com/@NTR_s2s2
-
-
-***
 
 ##->EN Vtubers<-
+Name|Links|Tags/Description
+:----:|:----:|:----:
+Sara Nagare / 流サラ|[Twitter](https://twitter.com/saranagare) [Youtube](https://www.youtube.com/@SaraNagare/streams)|PRISM Project
+NeonHarper|[Twitter](https://twitter.com/NeonHarper) [Twitch](https://twitch.tv/neonharper)|
+LuckyPochi|[Twitter](https://twitter.com/PochiLucky/status/1638383838555688961) [Twitch](https://www.twitch.tv/luckypochi)|
+Tomoe Umari Ch.|[Twitter](https://twitter.com/UmariTomoe) [Youtube](https://www.youtube.com/channel/UCDoH-Xv1K-9U3frP6uzuXAA)|Military Horse Girl
+RuzuuZuzu|[Twitter](https://twitter.com/_Ruzuu_) [Twitch](https://www.twitch.tv/ruzuuzuzu)|
+LaAvispa_VTuber|[Twitter](https://twitter.com/LaAvispa_VTuber) [Twitch](https://www.twitch.tv/laavispa_vtuber)| Tomboy Wasp
+Savi|[Twitter](https://twitter.com/savisenpaii) [Twitch](https://twitch.tv/savii)|
+Trickywi|[Twitter](https://twitter.com/trickywii) [Twitch](https://www.twitch.tv/trickywi)|
+コヨーテ / Coyote|[Twitter](https://twitter.com/Coyote_KEMOV) [Youtube](https://www.youtube.com/@Coyote_KemoV/streams)|KemoV - Tekken Addict
+SifAvellana|[Twitter](https://twitter.com/sifavellana) [Twitch](https://www.twitch.tv/sifavellana)|
+Maroony|[Twitter](https://twitter.com/maroony_ch) [Twitch](https://www.twitch.tv/maroony)| Retro gamer mouse
+Charlottexbear|[Twitter](https://twitter.com/Charlottexbear) [Twitch](https://www.twitch.tv/charlottexbear)| LSE (Little sister experience)
+Nyaruchuuu|[Twitter](https://twitter.com/nyaruchuuu) [Twitch](https://www.twitch.tv/nyaruchuuu)|Shirayuri - Idol
+Scarle Yonaguni|[Twitter](https://twitter.com/ScarleYonaguni) [Youtube](https://www.youtube.com/@ScarleYonaguni)|NijiEN - Endurance streamer
+SansinJin|[Twitter](https://twitter.com/sansinjin) [Twitch](https://www.twitch.tv/sansinjin)|
+Naki_VT|[Twitter](https://twitter.com/NakiVT) [Twitch](https://www.twitch.tv/naki_vt)|
+Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.twitch.tv/tommysonline)|
+Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
+KokoNuts|[Twitter](https://twitter.com/KokoNutsVT) [Twitch](https://www.twitch.tv/kokonuts)|
+KittyfluteVT|[Twitter](https://twitter.com/Kittyflutexbl) [Twitch](https://www.twitch.tv/kittyflutevt)|
+Mairwu|[Twitter](https://twitter.com/mairwu) [Twitch](https://www.twitch.tv/mairwu)| Tomboy rat friend
+KayukoVT|[Twitter](https://twitter.com/kayukoVT) [Twitch](https://www.twitch.tv/tentxclee)|
+Pema|[Twitter](https://twitter.com/PemaMysterious) [Twitch](https://www.twitch.tv/pema)|
+AurabunVT|[Twitter](https://twitter.com/AurabunVT) [Twitch](https://www.twitch.tv/aurabun)|
+HolyPupperVT|[Twitter](https://twitter.com/HolyPupperVT) [Twitch](https://www.twitch.tv/holypupperri/)|
+ReichuTV|[Twitter](https://twitter.com/ReichuTV) [Twitch](https://www.twitch.tv/ReichuLIVE/)|
+Toriidoki|[Twitter](https://twitter.com/Toriidoki) [Twitch](https://www.twitch.tv/toriidoki)|
+Kiki_Nene_|[Twitter](https://twitter.com/kiki_nene_) [Twitch](http://twitch.tv/kiki_nene_)|
+Yanabells|[Twitter](https://twitter.com/yanabellsexe) [Twitch](https://www.twitch.tv/yanabells)|
+Sulkycats|[Twitter](https://twitter.com/sulkycats) [Twitch](https://www.twitch.tv/sulkycats)|
+SilverDawnbreak|[Twitter](https://twitter.com/SilverDawnbreak) [Twitch](https://www.twitch.tv/silver_dawnbreak)|
+EUREKA X49 四九ゆりかch|[Twitter](https://twitter.com/eurekax49) [Youtube](https://www.youtube.com/@eurekax49/)|
+FalooVT|[Twitter](https://twitter.com/FalooVT) [Twitch](https://www.twitch.tv/faloovt)|
+MoruMoruSan|[Twitter](https://twitter.com/MoimoiPlanet) [Youtube](https://www.youtube.com/@MoimoiPlanet)|
+NairuNirvana|[Twitter](https://twitter.com/NairuNirvana) [Twitch](https://www.twitch.tv/nairunirvana)|
+UzuriMia|[Twitter](https://twitter.com/UzuriMia) [Twitch](https://www.twitch.tv/uzurimia)|
+Lullabylolita|[Twitter](https://twitter.com/lullabylolita) [Twitch](https://www.twitch.tv/lullabylolita)|
+Zuan|[Twitter](https://twitter.com/ZuantheFaun) [Twitch](https://www.twitch.tv/zuan)|
+FuuLuluu|[Twitter](https://twitter.com/Fuululuu) [Twitch](https://www.twitch.tv/fuululuu)|
+StellalunaVT|[Twitter](https://twitter.com/StellaLunaVT) [Twitch](https://www.twitch.tv/stellalunavt)|
+Trinity_vtuber_|[Twitter](https://twitter.com/lovetrinthighs) [Twitch](https://www.twitch.tv/trinity_vtuber_)|
+BrewwVT|[Twitter](https://twitter.com/Breww_VT) [Twitch](https://www.twitch.tv/brewwvt)|
+ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://www.twitch.tv/arcticaaliyah)|
+justSasha|[Twitter](https://twitter.com/SashasCastle) [Twitch](https://www.twitch.tv/justSasha)|
+Kalmia_Amanita|[Twitter](https://twitter.com/kalmia_ama) [Twitch](https://www.twitch.tv/kalmia_amanita)|Retro PC gamer
+Tomakeys|[Twitter](https://twitter.com/KeysTomama) [Twitch](https://www.twitch.tv/tomakeys)| Monkey who loves cartoons and toys
+Bodega_RRat|[Twitter](https://twitter.com/bodega_rat) [Twitch](https://www.twitch.tv/bodega_rrat)| Artist rrat
+kasumivtuber|[Twitter](https://twitter.com/kasumi_vt) [Twitch](https://www.twitch.tv/kasumivtuber)| ASMR
+CookieSwirlC|[Twitter](https://twitter.com/CookieSwirlC) [Youtube](https://www.youtube.com/user/CookieSwirlc)|#1 Vtuber worldwide
+Mushi 蟲|[Twitter](https://twitter.com/vtubermushi) [Twitch](https://www.twitch.tv/vtubermushi)|
+Aliciaxlife|[Twitter](https://twitter.com/aliciaxlifeVT) [Youtube](https://www.youtube.com/@Aliciaxlife)|
+weiwiko|[Twitter](https://twitter.com/weiwiko) [Twitch](https://www.twitch.tv/weiwiko)|
+dicequeenDi|[Twitter](https://twitter.com/dicequeendi) [Twitch](https://www.twitch.tv/dicequeendi)|Tabletop games specialist
+Roesalie|[Twitter](https://twitter.com/itsroesalie) [Twitch](https://www.twitch.tv/roesalie)|
+VTuberCypress|[Twitter](https://twitter.com/vtubercypress) [Twitch](https://www.twitch.tv/vtubercypress)|
+Endearest|[Twitter](https://twitter.com/endearestx) [Twitch](https://www.twitch.tv/endearest)|
+MinimaLaifu|[Twitter](https://twitter.com/minimalaifu) [Twitch](https://www.twitch.tv/minimalaifu)|
+Kipaki|[Twitter](https://twitter.com/kippytan) [Twitch](https://www.twitch.tv/kipaki)|
+professoretro|[Twitter](https://twitter.com/profetro) [Twitch](https://www.twitch.tv/professoretro)|
+KuraiKoinushi|[Twitter](https://twitter.com/KuraiKoinushi) [Twitch](https://www.twitch.tv/kuraikoinushi)|
+LOLALoading|[Twitter](https://twitter.com/LOLAloading_) [Twitch](https://www.twitch.tv/lolaloading)|
+Vixen_VTuber|[Twitter](https://twitter.com/Vixen_VTuber) [Twitch](https://www.twitch.tv/vixen_vtuber)|
+RipSkip|[Twitter](https://twitter.com/vRipSkip) [Twitch](https://www.twitch.tv/ripskip)|
+UlaDelMar|[Twitter](https://twitter.com/tentaclebard) [Twitch](https://twitch.tv/uladelmar)|
+Myun|[Twitter](https://twitter.com/Myunchen_) [Twitch](https://twitch.tv/myun)|
+ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://twitch.tv/arcticaaliyah)|
+Chocojax|[Twitter](https://twitter.com/chocojax) [Twitch](https://www.twitch.tv/chocojax)|
+Poyobuny|[Twitter](https://twitter.com/poyobuny) [Twitch](https://www.twitch.tv/poyobuny)|
+Bbyruthless|[Twitter](https://twitter.com/bbyruthless) [Twitch](https://www.twitch.tv/bbyruthless)|
+Ichigolemonade_|[Twitter](https://twitter.com/IchigoLemonade_) [Twitch](https://www.twitch.tv/ichigolemonade_)| Gunpla Gyaru
+Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting game vtuber
+Dolce|[Twitter](https://www.twitter.com/DolceVtuber) [Twitch](https://www.twitch.tv/dolcevt)|
+Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://www.youtube.com/@MaikaMallow)|
+
+---
 
-Sara Nagare / 流サラ [PRISM Project] [EN]
-https://twitter.com/saranagare
-https://www.youtube.com/@SaraNagare/streams
-
-NeonHarper[EN]
-https://twitter.com/NeonHarper
-https://twitch.tv/neonharper
-
-LuckyPochi[EN]
-https://twitter.com/PochiLucky/status/1638383838555688961
-https://www.twitch.tv/luckypochi
-
-Tomoe Umari Ch.[EN]
-https://twitter.com/UmariTomoe
-https://www.youtube.com/channel/UCDoH-Xv1K-9U3frP6uzuXAA
-
-RuzuuZuzu[EN]
-https://twitter.com/_Ruzuu_
-https://www.twitch.tv/ruzuuzuzu
-
-LaAvispa_VTuber[EN]
-https://twitter.com/LaAvispa_VTuber
-https://www.twitch.tv/laavispa_vtuber
-
-Savii[EN]
-https://twitter.com/savisenpaii
-https://twitch.tv/savii
-
-Trickywi[EN]
-https://twitter.com/trickywii
-https://www.twitch.tv/trickywi
-
-コヨーテ / Coyote[EN]
-https://twitter.com/Coyote_KEMOV
-https://www.youtube.com/@Coyote_KemoV/streams
-
-SifAvellana[EN]
-https://twitter.com/sifavellana
-https://www.twitch.tv/sifavellana
-
-AkiajiMargo[EN]
-https://twitter.com/akiajimargo
-https://www.twitch.tv/akiajimargo
-
-Maroony[EN]
-https://twitter.com/maroony_ch
-https://www.twitch.tv/maroony
-
-Charlottexbear[EN]
-https://twitter.com/Charlottexbear
-https://www.twitch.tv/charlottexbear
-
-Nyaruchuuu[EN]
-https://twitter.com/nyaruchuuu
-https://www.twitch.tv/nyaruchuuu 
-
-Scarle Yonaguni[EN]
-https://twitter.com/ScarleYonaguni
-https://www.youtube.com/@ScarleYonaguni
-
-SansinJin[EN]
-https://twitter.com/sansinjin
-https://www.twitch.tv/sansinjin
-
-Naki_VT[EN]
-https://twitter.com/NakiVT
-https://www.twitch.tv/naki_vt
-
-Tommysonline[EN]
-https://twitter.com/tommysonlineVT
-https://www.twitch.tv/tommysonline
-
-Bombiwombi[EN]
-https://twitter.com/BombiWombi
-https://www.twitch.tv/bombiwombi
-
-KokoNuts[EN]
-https://twitter.com/KokoNutsVT
-https://www.twitch.tv/kokonuts
-
-KittyfluteVT[EN]
-https://twitter.com/Kittyflutexbl
-https://www.twitch.tv/kittyflutevt
-
-mairwu[EN]
-https://twitter.com/mairwu
-https://www.twitch.tv/mairwu
-
-KayukoVT[EN]
-https://twitter.com/kayukoVT
-https://www.twitch.tv/tentxclee
-
-Pema[EN]
-https://twitter.com/PemaMysterious
-https://www.twitch.tv/pema
-
-AurabunVT[EN]
-https://twitter.com/AurabunVT
-https://www.twitch.tv/aurabun
-
-HolyPupperVT[EN]
-https://twitter.com/HolyPupperVT
-https://www.twitch.tv/holypupperri/
-
-ReichuTV[EN]
-https://twitter.com/ReichuTV
-https://www.twitch.tv/ReichuLIVE/
-
-Toriidoki[EN]
-https://twitter.com/Toriidoki
-https://www.twitch.tv/toriidoki
-
-Kiki_Nene_[EN]
-https://twitter.com/kiki_nene_
-http://twitch.tv/kiki_nene_
-
-Yanabells[EN]
-https://twitter.com/yanabellsexe
-https://www.twitch.tv/yanabells
-
-Sulkycats[EN]
-https://twitter.com/sulkycats
-https://www.twitch.tv/sulkycats
-
-SilverDawnbreak[EN]
-https://twitter.com/SilverDawnbreak
-https://www.twitch.tv/silver_dawnbreak
-
-EUREKA X49 四九ゆりかch[EN]
-https://twitter.com/eurekax49
-https://www.youtube.com/@eurekax49/
-
-FalooVT[EN]
-https://www.twitch.tv/faloovt
-https://twitter.com/FalooVT
-
-MoruMoruSan【ALOHA Vtuber】[EN]
-https://twitter.com/MoimoiPlanet
-https://www.youtube.com/@MoimoiPlanet
-
-NairuNirvana[EN]
-https://www.twitch.tv/nairunirvana
-https://twitter.com/NairuNirvana
-
-UzuriMia[EN]
-https://twitter.com/UzuriMia
-https://www.twitch.tv/uzurimia
-
-lullabylolita[EN]
-https://twitter.com/lullabylolita
-https://www.twitch.tv/lullabylolita
-
-Zuan[EN]
-https://twitter.com/ZuantheFaun
-https://www.twitch.tv/zuan
-
-FuuLuluu[EN]
-https://twitter.com/Fuululuu
-https://www.twitch.tv/fuululuu
-
-StellalunaVT[EN]
-https://twitter.com/StellaLunaVT
-https://www.twitch.tv/stellalunavt
-
-trinity_vtuber_[EN]
-https://www.twitch.tv/trinity_vtuber_
-https://twitter.com/lovetrinthighs
-
-BrewwVT[EN]
-https://twitter.com/Breww_VT
-https://www.twitch.tv/brewwvt
-
-ArcticAaliyah[EN]
-https://twitter.com/ArcticAaliyah
-https://www.twitch.tv/arcticaaliyah
-
-justSasha[EN]
-https://twitter.com/SashasCastle
-https://www.twitch.tv/justSasha
-
-Kalmia_Amanita[EN]
-https://twitter.com/kalmia_ama
-https://www.twitch.tv/kalmia_amanita
-
-Tomakeys[EN]
-https://www.twitch.tv/tomakeys
-https://twitter.com/KeysTomama
-
-Bodega_RRat[EN]
-https://www.twitch.tv/bodega_rrat
-https://twitter.com/bodega_rat
-
-kasumivtuber[EN]
-https://www.twitch.tv/kasumivtuber
-https://twitter.com/kasumi_vt
-
-CookieSwirlC [EN]
-https://twitter.com/CookieSwirlC
-https://www.youtube.com/user/CookieSwirlc
-
-Mushi 蟲[EN]
-https://twitter.com/vtubermushi
-https://www.twitch.tv/vtubermushi
-
-Aliciaxlife[EN]
-https://www.youtube.com/@Aliciaxlife
-https://twitter.com/aliciaxlifeVT
-
-weiwiko[EN]
-https://www.twitch.tv/weiwiko
-https://twitter.com/weiwiko
-
-dicequeenDi[EN]
-https://www.twitch.tv/dicequeendi
-https://twitter.com/dicequeendi
-
-Roesalie[EN]
-https://www.twitch.tv/roesalie
-https://twitter.com/itsroesalie
-
-VTuberCypress[EN]
-https://www.twitch.tv/vtubercypress
-https://twitter.com/vtubercypress
-
-Endearest[EN]
-https://twitter.com/endearestx
-https://www.twitch.tv/endearest
-
-MinimaLaifu[EN]
-https://www.twitch.tv/minimalaifu
-https://twitter.com/minimalaifu
-
-Kipaki[EN]
-https://twitter.com/kippytan
-https://www.twitch.tv/kipaki
-
-professoretro[EN]
-https://www.twitch.tv/professoretro
-https://twitter.com/profetro
-
-KuraiKoinushi[EN]
-https://www.twitch.tv/kuraikoinushi
-https://twitter.com/KuraiKoinushi
-
-LOLALoading[EN]
-https://twitter.com/LOLAloading_
-https://www.twitch.tv/lolaloading
-
-Vixen_VTuber[EN]
-https://www.twitch.tv/vixen_vtuber
-https://twitter.com/Vixen_VTuber
-
-RipSkip[EN]
-https://twitter.com/vRipSkip
-https://www.twitch.tv/ripskip
-
-UlaDelMar[EN]
-https://twitter.com/tentaclebard
-https://twitch.tv/uladelmar
-
-Myun[EN]
-https://twitch.tv/myun
-https://twitter.com/Myunchen_
-
-ArcticAaliyah[EN]
-https://twitter.com/ArcticAaliyah
-https://twitch.tv/arcticaaliyah
-
-chocojax[EN]
-https://twitter.com/chocojax
-https://www.twitch.tv/chocojax
-
-poyobuny[EN]
-https://www.twitch.tv/poyobuny
-https://twitter.com/poyobuny
-
-bbyruthless[EN]
-https://www.twitch.tv/bbyruthless
-https://twitter.com/bbyruthless
-
-ichigolemonade_[EN]
-https://twitter.com/IchigoLemonade_
-https://www.twitch.tv/ichigolemonade_
-
-Garou[EN]
-https://www.twitter.com/Garougyaru
-https://www.twitch.tv/gyarugarou
-
-Dolce[EN]
-https://www.twitter.com/DolceVtuber
-https://www.twitch.tv/dolcevt
-
-Maika Mallow Ch. [EN]
-https://twitter.com/MaikaMallow
-https://www.youtube.com/@MaikaMallow
-
-***
 ##->Other  languages<-
-BunnyBlasty[ES]
-https://twitter.com/OneBunnyQueen
-https://www.twitch.tv/bunnyblasty
+Name|Links|Tags/Description
+:----:|:----:|:----:
+BunnyBlasty[ES]|[Twitter](https://twitter.com/OneBunnyQueen) [Twitch](https://www.twitch.tv/bunnyblasty)|Spanish
+Parkdona ch. 박도나[KR]|[Twitter](https://twitter.com/parkdonakr) [Youtube](https://www.youtube.com/@ParkDona211) [Twitch](https://www.twitch.tv/pdona_d)|Korean - ASMR
+諾海[CH]|[Twitter](https://twitter.com/Nuohai0104/status/1650897620565651456) [Twitch](https://www.twitch.tv/nuohai_0104)|Chinese
+Selphius[GER]|[Twitter](https://twitter.com/SelphyMelody) [Youtube](https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q) [Twitch](https://www.twitch.tv/selphy)|German
 
-Parkdona ch. 박도나[KR]
-https://twitter.com/parkdonakr
-https://www.twitch.tv/pdona_d
-https://www.youtube.com/@ParkDona211
-
-諾海[CH]
-https://www.twitch.tv/nuohai_0104
-https://twitter.com/Nuohai0104/status/1650897620565651456
-
-Selphius[GER]
-https://twitter.com/SelphyMelody
-https://www.twitch.tv/selphy
-https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q
-
-
+---
 
 ##->Male/Babiniku<-
+Name|Links|Tags/Description
+:----:|:----:|:----:
+Oga Ch.荒咬オウガ [JP]|[Twitter](https://twitter.com/aragamioga) [Youtube](https://www.youtube.com/@AragamiOga)|Holostars
+ベルモンド・バンデラス [JP]|[Twitter](https://twitter.com/belmond_b_2434) [Youtube](https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A)|Nijisanji
+Gwelu Os Gar [JP]|[Twitter](https://twitter.com/Gwelu_os_gar) [Youtube](https://www.youtube.com/@GweluOsGar)|Nijisanji
+イブラヒム [JP]|[Twitter](https://twitter.com/honmono_ibrahim) [Youtube](https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A)|Nijisanji
+Riksa Dhirendra [ID]|[Twitter](https://twitter.com/RiksaDhirendra) [Youtube](https://www.youtube.com/@RiksaDhirendra)|NijiID
+SatouHolmes Ch.佐藤ホームズ [JP]|[Twitter](https://twitter.com/satouholmes) [Youtube](https://www.youtube.com/@satouholmes/)|
+鳴ノ世ユウト@知識欲系邪神Vtuber [JP]|[Twitter](https://twitter.com/Nyarlat_Nosse_V) [Youtube](https://www.youtube.com/@Nyarlat_nosse/)|
+Reo inuduki ch [JP] |[Twitter](https://twitter.com/Reo_inuduki) [Youtube](https://www.youtube.com/@Reoinuduki)|
+ティナ・ブラックタイガー [JP]|[Twitter](https://twitter.com/ThinA_Btora) [Youtube](https://www.youtube.com/@ThinAnotEbi)|
+KOKI [JP]|[Twitter](https://twitter.com/KOKI_V_creative) [Youtube](https://www.youtube.com/@KOKI_V_creative)|
+さけちゃんねる金髪褐色 [JP]|[Twitter](https://twitter.com/saketya) [Youtube](https://www.youtube.com/@user-mc1vd8ch4p) [Twitch](https://www.twitch.tv/saketyav)|
+搗栗のとちゃんねる [JP]|[Twitter](https://twitter.com/Kachiguri_Noto) [Youtube](https://www.youtube.com/@NOTO_CHANNEL)|
+ 一等星あらた [JP]|[Twitter](https://twitter.com/Itosei_Arata) [Youtube](https://www.youtube.com/@Ittosei_Arata)|
+Aiden Khanin [EN]|[Twitter](https://www.twitter.com/AidenKhanin) [Twitch](https://www.twitch.tv/AidenKhanin )|
+Bonnivier Pranaja[ID]|[Twitter](https://twitter.com/Bonnivier_2434) [Youtube](https://www.youtube.com/@BonnivierPranaja)|NijiID
 
-Oga Ch.荒咬オウガ [JP]
-https://twitter.com/aragamioga
-https://www.youtube.com/@AragamiOga
-
-ベルモンド・バンデラス [JP]
-https://twitter.com/belmond_b_2434
-https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
-
-Gwelu Os Gar [JP]
-https://twitter.com/Gwelu_os_gar
-https://www.youtube.com/@GweluOsGar
-
-イブラヒム [JP]
-https://twitter.com/honmono_ibrahim
-https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A
-
-Riksa Dhirendra [ID]
-https://twitter.com/RiksaDhirendra
-https://www.youtube.com/@RiksaDhirendra
-
-SatouHolmes Ch.佐藤ホームズ [JP]
-https://twitter.com/satouholmes
-https://www.youtube.com/@satouholmes/
-
-鳴ノ世ユウト@知識欲系邪神Vtuber [JP] 
-https://twitter.com/Nyarlat_Nosse_V
-https://www.youtube.com/@Nyarlat_nosse/
-
-Reo inuduki ch [JP] 
-https://twitter.com/Reo_inuduki
-https://www.youtube.com/@Reoinuduki
-
-ティナ・ブラックタイガー [JP]
-https://twitter.com/ThinA_Btora
-https://www.youtube.com/@ThinAnotEbi
-
-KOKI [JP]
-https://twitter.com/KOKI_V_creative
-https://www.youtube.com/@KOKI_V_creative
-
-さけちゃんねる金髪褐色 [JP]
-https://twitter.com/saketya
-https://www.youtube.com/@user-mc1vd8ch4p
-https://www.twitch.tv/saketyav
-
-搗栗のとちゃんねる [JP]
-https://twitter.com/Kachiguri_Noto
-https://www.youtube.com/@NOTO_CHANNEL
-
- 一等星あらた [JP]
-https://twitter.com/Itosei_Arata
-https://www.youtube.com/@Ittosei_Arata
-
-Aiden Khanin [EN]
-https://www.twitter.com/AidenKhanin
-https://www.twitch.tv/AidenKhanin 
-
-Bonnivier Pranaja[ID]
-https://www.youtube.com/@BonnivierPranaja
-https://twitter.com/Bonnivier_2434
-
-***
+---
 
 [TOC2]
