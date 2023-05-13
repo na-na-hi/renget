@@ -1,12 +1,10 @@
 Gigasad's bots
 
-All of my unlisted bots can be found here, and I'll add links whenever I share a new one. I haven't experimented much with other sites or language models, so any ports you see on /g/ or the pygmalion/tavern card booru aren't my work, and credit goes to whoever made the conversion. Would appreciate a credit or link back to me and their CAI originals. 
-
 Characters marked with a * are ones I know have been converted by other users. Thanks to anyone who went to the trouble. 
 
 Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get.
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here.
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore.
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414

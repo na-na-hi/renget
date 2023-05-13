@@ -3,6 +3,8 @@ Below are links to various links, archives and resources.
 >The /funkg/ Archives:
 https://mega.nz/folder/s5pmGSpK#ARAetxhnAOUpjczVoq4Y5g
 https://mega.nz/megadrop/D2SKtOXSbgo
+>/funkg/ Booru:
+https://booru.plus/+funkg
 >Phantom Arcade Stream Archive:
 https://www.youtube.com/playlist?list=PL3wzueQts4CkbCNPwV8u3QodTT8WHJp_K
 >Spooky Month Archive:

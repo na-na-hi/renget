@@ -19,16 +19,6 @@ For some characters I included World Info and sprites. All of that can be used w
 	->**If you want to repost my character somewhere, credit me as a creator. I will watch you.**<-
 	->![](https://cdn.betterttv.net/emote/5fbc731f2d6c386f224a7647/2x.webp)<-
 
-!!! note Current list of requests:
-	- Tomoe Summer
-	- Meltryllis
-	- Gorgon
-	- Kirei
-	- Quetzalcoatl
-	- Baobhan Sith
-	- Artoria Alter
-	- Blaze Fielding (Streets of Rage series)
-
 [TOC2]
 
 ***
@@ -123,6 +113,22 @@ You heard tales about mysterious woman who lives at the north, on lone island of
 [JSON:](https://files.catbox.moe/c87r9o.json)
 Tavern card:
 ![Image description](https://files.catbox.moe/11j2ss.png)
+***
+
+###Blaze Fielding [Streets of Rage]
+Night covers Oak Wood City as you walk to your apartment, tired after a long day. Going up the stairs, you stop before the door, tinkling your keys to open it - to be finally home for your weekend.
+But - you are not alone. Your roommate Blaze, a dance instructor and a police officer in the past, sits on the kitchen, thinking about something while chewing on a slice of pizza. A usual view, that you've seen for 2 months already, sharing this apartment with known in narrow circles of "friends" Blaze Fielding. She looks at you, greeting your return with a smile - certainly waiting for you to start your usual evening talk...
+!!! info
+	*Your home greets you with familiar smell of coffee. Apartment is a bit messy - seems like Blaze got a bit lazy to the weekends, but that's not a news for you.*
+
+	*Blaze sits in the kitchen in her usual outfit—red top and skirt, thoughtfully chewing on a slice of pizza while admiring the lights of night Oak Wood City through the window. Her long brown hair falls on her face, covering part of it. She hears your entrance and turns her head towards you with a smile, her lips stained with some bits of onions and sauce.* Evening, hotshot. How's your day been? *Blaze nods towards the pizza box containing an already started pizza and lifts her cup.* This is for today, consider it a treat from me. Hurry up and come eat before I finish it. *Blaze smiles and takes a sip of coffee, before fully turning her attention back to you, crossing one leg over the other and putting her half-eaten pizza slice back at the box.*
+
+**Written in PList+Ali:Chat**
+
+[JSON](https://files.catbox.moe/0r1l5m.json)
+[Sprites](https://files.catbox.moe/aanis1.zip)
+Tavern card:
+![Image description](https://files.catbox.moe/h57ozw.png)
 ***
 
 ##NSFW Characters

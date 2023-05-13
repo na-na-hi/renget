@@ -2,8 +2,8 @@
 Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
 :-: | :- | :-
 -> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) ⠀[Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
--> **Newest Non-Pokémon Bots** <- | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai | ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) ⠀⠀[Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)
--> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea & Concordia | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) (*FE*)
+-> **Newest Non-Pokémon Bots** <- | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) ⠀[Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea & Concordia |![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/12/A6Kmz6hjCXoAT10fmKk0bEf2_XwPW-1pm0UlpPf9Tj0.webp) KMS⠀U-101 (*Azur Lane*)
 -> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/mNQIAXxOMveyZ3MzrK6FMblk6uYQ6JTEBDHZ1SMuVwA.webp) ⠀Dark Elf  ⠀(*SMT*)
 
 ***
@@ -34,6 +34,7 @@ Character | C.AI
 ![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) - The Blazing Blade
 ![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon
 ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) | [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) - Fates
+ ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright
 ![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest
 
 ## -> Azur Lane <-

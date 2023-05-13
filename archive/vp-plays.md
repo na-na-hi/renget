@@ -1,4 +1,5 @@
 # /VP/ PLAYS THREAD ARCHIVE
+**Table of Contents**
 [TOC2]
 ##Foreword
 I've decided that the previous thread archive was messy and kind of a pain to scroll through, even with thread numbers, so I've decided to make something a bit more organized. I've decided to move this to rentry.org for several reasons;
@@ -314,4 +315,5 @@ https://arch.b4k.co/vp/thread/53737743/ 2 total legendary death
     Not a LP of one of its sequels, "Pokemon Ocandia: Blood on the Ice", which is a very shittily made visual novel with about fuck-all to do with Pokemon.
 
 https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
-https://arch.b4k.co/vp/thread/53781242/ 2
+https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
+https://arch.b4k.co/vp/thread/53791184/ 3

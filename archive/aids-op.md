@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/JmkN1YG.jpg)
-Anti-Neuron Ninja Edition
+![suggested OP image](https://imgur.com/4oRp2w8.png)
+Remedial Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>429368884
+Last thread: >>429495963
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -40,7 +40,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write dumb prompts for tomorrow's theme, Retarded Klutz Friday!
+\>Today is still Retarded Klutz Friday; reply to the anchorpost with your stupid prompts! >>429496360
 
 
 ##Perma-Template

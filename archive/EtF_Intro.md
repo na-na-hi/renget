@@ -78,7 +78,7 @@ For a few moments, the room was quiet. Then KFC felt a small tap on his foot. He
 
 “He’s the president of the Exploration Team Federation,” KFC elaborated. “In other words, he is our boss. Anyway, knowing him, this will take a while. Let’s call it for training today.”
 
-Booker nodded, then used Fairy Wind to launch himself up onto Sneasel’s head. As they made their way toward the exit, Sneasel whispered to Booker, “Don’t let that psychic nutcase get to you.”
+Booker nodded, then used Fairy Wind to launch himself up onto Sneasel’s head. As they made their way toward the exit, Sneasel whispered to Booker, “Don’t let that psychic jerk get to you.”
 
 With them gone, there was no one left in the dojo except for Alakazam and KFC. Everything was still for a brief moment, until the president spoke up. “Finally that human’s gone. Honestly, how do you put up with them?”
 
@@ -96,144 +96,156 @@ President Alakazam almost raised his voice again, but took a moment to keep his 
 
 KFC opened his beak to argue, but decided it would be a waste of time. “Yes, sir...” he said, swallowing his pride.
 
-“Great…” Alakazam switched topics like he was checking off items on a list. Now, as part of your deal, we’ve kept a close eye on your clan and our scouts reported that a small group of them are traveling to Luminous Spring.” 
+“Great…” Alakazam switched topics like he was checking off items on a list. “Now, as part of your deal, we’ve kept a close eye on your clan. Our scouts reported that a small group of them are traveling to Luminous Spring.” 
 
-“What?!” the fireless Combusken’s eyes widened and his legs shuddered. No longer able to control the volume of his voice, he cried out “That should’ve been the first thing you told me!” He felt his heart beat faster against his chest and the blood rushing in his ears. “If I run I should be able to make it in time.” KFC twisted his body around and attempted to make a B-line for the Mystifying Forest in hopes of cutting them off. However before KFC could take a single step, his entire body began to levitate and glow with a faint psychic energy. 
+“What?!” the fireless Combusken yelled. His eyes widened and his legs shuddered. He felt his heart beat faster against his chest and the blood rushing in his ears. No longer able to control the volume of his voice, he cried out, “That should’ve been the first thing you told me! If I run, I should be able to make it in time!” 
 
-“Hold it!” Alakazam shouted with his left arm raised and hand, glowing in the same energy, pointed at the Combusken. “They’ve only just left their camp near Brine Cave and still need to cross that mountain range. In addition, we’ve already put multiple countermeasures in place. You’ll have plenty of time to catch them, so relax.” 
+KFC twisted his body around and attempted to make a beeline for the Mystifying Forest in hopes of cutting them off. However, before KFC could take a single step, his entire body began to levitate and glow with a faint psychic energy. 
 
-A few minutes passed with KFC still firmly held in the air until he was noticeably calm enough for Alakazam to agree to let him down. 
+“Hold it!” Alakazam shouted, his left arm raised and his glowing hand pointed at the Combusken. “They’ve only just left their camp near Brine Cave and still need to cross that mountain range. In addition, we’ve already put multiple countermeasures in place. You’ll have plenty of time to catch them, so relax.” 
 
-“If you’ve completely recomposed yourself, take me to whoever runs this dump. I have something of the utmost importance to discuss with them.”
+A few seconds passed with KFC still firmly held in the air until he was noticeably calm enough for Alakazam to agree to let him down. 
 
-KFC, back in sound mind, said “Yeah, yeah… Guildmaster Lliam is probably in his office, follow me.” 
+“Now, if you’ve completely recomposed yourself,” said the psychic, “take me to whoever runs this dump. I have something of the utmost importance to discuss with them.”
 
-Both exited the dojo and then, Chatot perched on the Alakazam’s shoulder. “Took you long enough,” squawked Chatot. “Are we heading to the *Guildmaster,* Now?” 
+KFC, back in sound mind, said, “Yeah, yeah… Guildmaster Lliam is probably in his office. Follow me.” 
 
-The Combusken nodded and stepped ahead of the president and his passenger to lead the way to the Guildmaster’s office. 
+As they exited the dojo, Chatot perched on the Alakazam’s shoulder. “Took you long enough,” squawked Chatot. “Are we heading to the *Guildmaster,* now?” 
 
-Alakazam isn’t usually one to bring up personal subjects or questions, but in this case, he believed it to be important. “So… umm… how is your Aura training going?”
+The Combusken nodded. He stepped ahead of the president and his passenger to lead the way to the Guildmaster’s office. 
 
-With a hint of frustration in his voice, KFC explained, “Slow and steady, I guess. At the very least I can manipulate the shape of concentrated Aura now, although I am having problems with expanding it further than half a meter outside my body,”
-“Well, it’s necessary that you improve your abilities as quickly as possible, after all, you did promise.”
+Alakazam wasn’t usually one to bring up personal subjects or questions, but in this case, he believed it to be important. “So… umm… how is your Aura training going?”
 
-KFC instinctively tugged on *his* scarf, “...yeah, I did…”
+With a hint of frustration in his voice, KFC explained, “Slow and steady, I guess. At the very least I can manipulate the shape of concentrated Aura now, although I am having problems with expanding it further than half a meter outside my body.”
 
-There was a brief moment of silence until Chatot broke the ice,” Aura… Ah! I remember you now, you’re that kid who barged into our most recent Lively Town meeting demanding to speak with the President. I thought you were going to join the Wigglytuff Guild in Treasure Town, what happened?”
+“Well, it’s necessary that you improve your abilities as quickly as possible. After all, you did promise.”
 
-KFC got a gleam in his eyes, “Heh…I can’t remember.” KFC turned his head over to Alakazam, and in a sarcastic tone, “Can you Mr. President?”
+KFC instinctively tugged on *his* scarf “...Yeah, I did…”
 
-Alakazam, reluctant to describe his blunder, dodged the question, “It’s hardly important now. Ahem… anyway is this his Office? 
+There was a brief moment of silence until Chatot broke the ice. “Aura… Ah! I remember you now, you’re that kid who barged into our most recent Lively Town meeting, demanding to speak with the President. I thought you were going to join the Wigglytuff Guild in Treasure Town. What happened?”
 
-The Combusken stopped at two large wooden doors, they were varnished with a large four-leaf clover carved into them. “This is it, let me check and see if he is in there.” KFC slowly cracked open the door and peeked inside. 
+KFC got a gleam in his eyes. “Heh…I can’t remember.” He looked over to Alakazam, and asked in a sarcastic tone, “Can you, Mr. President?”
 
-The office was wide with one sweeping bow window overlooking the expansive forest behind the Guildmaster’s desk. The traditional executive-style desk was made of dark oak and had a glass top littered with unorganized papers. Over on the left wall, there was a bookshelf where a variety of orbs were displayed. To the right of the doors, stood a coat rack with the Guildmaster’s familiar garb hanging from its side. There was a display case with assorted wands mounted to the back panel. Guildmaster Lliam was sitting behind the desk in a cloth upholstered chair, while vigorously writing something. Less than a moment later, Lliam’s head popped up to see who opened the door.
+Alakazam, reluctant to describe his blunder, dodged the question. “It’s hardly important now. Ahem… anyway, is this his office? 
 
- “Oh-! KFC, is there something you need?” asked Guildmaster Lliam, as he started to shuffle the papers away on his desk.
+The Combusken stopped at two large wooden doors. They were varnished and had a large four-leaf clover carved into them. “This is it,” KFC replied. “Let me check and see if he is in there.”
 
-“Not me, but…” Before KFC could finish his sentence Chatot and President Alakazam barged into the office.
+KFC slowly cracked open the door and peeked inside. The office was wide, with one sweeping bow window overlooking the expansive forest behind the Guildmaster’s desk. The traditional executive-style desk was made of dark oak and had a glass top littered with unorganized papers. Over on the left wall, there was a bookshelf where a variety of orbs were displayed. To the right of the doors stood a coat rack with the Guildmaster’s familiar garb hanging from it. There was a display case with assorted wands mounted to the back panel. Guildmaster Lliam was sitting behind the desk in a cloth upholstered chair, while vigorously writing something. Less than a moment later, Lliam’s head popped up to see who opened the door.
 
-“Chatot and…” Lliam looked toward Alakazam and, in a vain attempt to maintain the charade from his past, feigned ignorance  “I’m sorry but I don’t recognize you.” 
+“Oh-! KFC, is there something you need?” asked Guildmaster Lliam, as he started to shuffle the papers away on his desk.
 
-“Lying to my face… as expected of the garbage student of that Delphox.” sniped Alakazam already sick of the human put in front of him.
+KFC shook his head. “Not me, but…”
 
-As he finished cramping all his unsorted paperwork into the desk drawer, Lliam replied, “As you can see, I’m very busy so make this quick and tell me why you’re here.”
+Before KFC could finish his sentence Chatot and President Alakazam barged into the office.
 
-Chatot, waiting for this moment all day, could barely contain his excitement and declared “We’re here to shut you down.”
+“Chatot and…” Lliam looked toward Alakazam and, in a vain attempt to maintain the charade from his past, feigned ignorance. “I’m sorry, but I don’t recognize you.” 
 
-Lliam stood up and slammed his hands on his desk. “What? Shut us down, on what grounds?!” he exclaimed. 
+Alakazam snarled. “Lying to my face… as expected of the garbage student of that Delphox.” he sniped, already sick of the human put in front of him.
 
-Alakazam, trying to gain control of the situation and his associate, elaborated “What he is trying to say is without proper authorization, your claims of being a guild are unfounded and illegal. Therefore, we will be issuing you a cease and desist and we expect you to terminate all forms of operation at once.” The president took a few steps closer to the disgusting human and flung over the manilla folder containing numerous legal papers which would have hit Lliam in the face if he hadn’t caught it.
+Lliaim kept his true thoughts of Alakazam hidden to keep the peace as he finished cramming all his unsorted paperwork into the desk drawer, Lliam said, “As you can see, I’m very busy, so make this quick and tell me why you’re here.”
 
-Lliam opened the folder and read the cover document then a realization hit him, “Wait this building is designated as a guild base by Capim Town, so if we aren’t a guild—”
+Chatot, waiting for this moment all day, could barely contain his excitement as declared, “We’re here to shut you down!”
+
+Lliam stood up and slammed his hands on his desk. “What?” he exclaimed. “Shut us down? On what grounds?!” 
+
+Alakazam, trying to gain control of both the situation and his associate, elaborated for him: “What he is trying to say is that without proper authorization, your claims of being a guild are unfounded and illegal. Therefore, we will be issuing you a cease and desist and we expect you to terminate all forms of operation at once.”
+
+The president took a few steps closer to the human and flung over the manilla folder containing numerous legal papers. It would have hit Lliam in the face if he hadn’t caught it.
+
+Lliam opened the folder and read the cover document. Then a realization hit him. “Wait. This building is designated as a guild base by Capim Town, so if we aren’t a guild—”
 
 “You’ll be evicted immediately!” interrupted Chatot.
 
-“I won’t let that happen.” Lliam knew the consequences if the humans were evicted and the inevitable happened. “What do I need to do to get us authorization?”
+Lliam’s face became grim. “I won’t let that happen,”he said. He knew the consequences if the humans were evicted and the inevitable happened. “What do I need to do to get us authorization?”
 
-President Alakazam was still bound to the rules of the Federation and thus explained to the human, “The only way for you to get authorization is to undergo the Federation Entrance Exam, which is a test, administered by me, that requires multiple teams to complete a mission of my choosing”
+President Alakazam was still bound to the rules of the Federation, and thus explained to the human, “The only way for you to get authorization is to undergo the Federation Entrance Exam, which is a test, administered by me, that requires multiple teams to complete a mission of my choosing.”
 
-Lliam, without missing a beat, jumped at the opportunity, “Great, then I’d like for my guild to take the Federation Entrance Exam as soon as possible.”
+Lliam, without missing a beat, jumped at the opportunity. “Great! Then I’d like for my guild to take the Federation Entrance Exam as soon as possible.”
 
-“Certainly, I can give it to you as soon as you pay me the 100,000 Poké administration fee.”
+“Certainly. I can give it to you as soon as you pay me the 100,000 Poké administration fee.”
 
-The Guildmaster’s heart sank, “...I don’t have that much, Is there anything I can do to get you to give the test right now?”
+The Guildmaster’s heart sank. “...I don’t have that much. Is there anything I can do to get you to give the test right now?”
 
-“No, but it’s for the best anyway…” The one glimmer of hope the Guildmaster had to save the guild was dashed away.  “...after all, a bunch of filthy humans led by a filthy human guildmaster living in a filthy guild doesn't stand a chance of passing,” Alakazam mocked as he turned to leave.
+“No, but it’s for the best anyway…” Alakazam said as he turned to leave. “After all, a bunch of filthy humans led by a filthy human guildmaster living in a filthy guild doesn't stand a chance of passing anyway.” 
 
-“Well, I think they do.” KFC, who had stayed silent the entire time decided to chime in, “Despite how they look, most of the teams here are competent.”
 
-Chatot butted in “Ha! Are you willing to bet on that?”
+KFC, who had stayed silent the entire time, decided to chime in now. “Well, I think they do. Despite how they look, most of the teams here are competent.”
 
- “I am.” KFC saw the countenance on Chatot’s smug face and called his bluff “In fact, I have 100,000 in the bank so I’ll pay the test fee, but if the Clover Guild passes you reimburse the cost.”
+Chatot laughed. “Ha! Are you willing to bet on that?”
+
+“I am,” KFC replied. “In fact, I have 100,000 in the bank, so I’ll pay the test fee. But if the Clover Guild passes, you reimburse the cost.”
 
 “And if I win?” asked Chatot, now starting to take this proposal seriously.
 
-“I’ll transfer to the Wigglytuff Guild and I’ll pay you 100% of everything I make from missions, forever”
+“I’ll transfer to the Wigglytuff Guild and I’ll pay you 100% of everything I make from missions, forever.”
 
 The stakes were too good, especially for a bet like this. “You’re on!” squawked Chatot. Then, he and KFC shook wings, sealing the informal agreement. 
 
-Overhearing the bet and the stakes his guildmember put up, Lliam knew he had to say something. “KFC, you can’t! That’s a lot of money and a guildmaster shouldn’t rely on handouts.” I formed this guild, and I should have expected this to happen, it's my responsibility and my fault that I didn’t see this coming.” 
+Overhearing the bet and the stakes his guildmember put up, Lliam knew he had to say something. “KFC, you can’t! That’s a lot of money and a guildmaster shouldn’t rely on handouts. I formed this guild, and I should have expected this to happen. It's my responsibility and my fault that I didn’t see this coming.” 
 
 “That money was gonna pile up in the bank anyway, so just take it,” KFC replied.
 
-“Well then…” Lliam thought about his options. “At least let me pay you back, I can even take out a loan and get you the entirety of the money back tomorrow.”
+“Well then…” Lliam thought about his options. “At least let me pay you back. I can even take out a loan and get you the entirety of the money back tomorrow.”
 
-“Why?” KFC asked. “I’m gonna get the money back anyway.” Lliam looked confused for a moment so Combusken continued, “I’m certain that the guild will pass and then I’ll win the 100k back… Unless you think there’s some reason your guildmembers will fail.”
+“Why?” KFC asked. “I’m gonna get the money back anyway.” Lliam looked confused for a moment, so the Combusken continued, “I’m certain that the guild will pass and then I’ll win the 100k back… Unless you think there’s some reason your guildmembers will fail.”
 
 “No, you’re misconstruing my words, that's not what I meant. I—” 
 
-“Then there’s nothing to worry about…” KFC gave Lliam a firm pat on the back. “...and besides I don’t really have a use for money since the guild provides me with everything I need, so think of this as me paying off a tab.”
+“Then there’s nothing to worry about…” KFC gave Lliam a firm pat on the back. “...And besides, I don’t really have a use for money, since the guild provides me with everything I need. So think of this as me paying off a tab.”
 
 Alakazam thought this back-and-forth wouldn’t finish until the sun blew up so he decided to cut it off short. “So, are you going to cover the cost of the fee, or not?”
 
-The guildmaster opened his mouth to say something, but the Combusken beat him to the punch, “Yeah, I’m gonna cover the cost and you’re the one paying me so you know I’m good for it.”
+The guildmaster opened his mouth to say something, but the Combusken beat him to the punch and said, “Yeah, I’m gonna cover the cost. And you’re the one paying me, so you know I’m good for it.”
 
-“Very well… Combusken go to the bank and withdraw the exam fee.” The President, frustrated that he’ll have to put up with humans a little while longer, gave Lliam a glare that looked like he was trying to shoot daggers into his soul, “You, stupid human, gather everyone here into the Lobby, while I prepare the test you’re going to fail.”
+“Very well… Combusken, go to the bank and withdraw the exam fee.” The President, frustrated that he would have to put up with humans a little while longer, gave Lliam a glare that looked like he was trying to shoot daggers into his soul. “You, stupid human, gather everyone into the lobby, while I prepare the test you’re going to fail.”
 
-Lliam said “Alright sir…” but thought “Jackass.”
+Lliam said, “Alright sir,” but thought, “Jackass.”
 
-KFC set off for the bank and the Guildmaster had to figure out a way to round up the hyperactive autists known as members of the Clover Guild, leaving President Alakazam and a riled-up Chatot left in the office to create an exam.
+As KFC set off for the bank, the Guildmaster had to figure out a way to round up the hyperactive autists known as members of the Clover Guild. He left, leaving President Alakazam and a riled-up Chatot in the office to create the exam.
 
 Flapping his wings in excitement, Chatot laughed, “Ha! This is the safest bet I’ve ever made in my life.” 
 
-“You sound pretty confident” Alakazam began to take out several papers and a jar of black ink from his brown satchel. “Are you sure that was a good idea?”
+“You sound pretty confident,” Alakazam said as he began to take out several papers and a jar of black ink from his brown satchel. “Are you sure that was a good idea?”
 
-“I’m familiar with one of the teams here and if that's the lowest bar that the so-called Guildmaster set to join their band of misfits, then I know I’ll come out on top,” Chatot boasted. Alakazam utilized his psychic powers to pluck a wing feather from Chatot’s plumage. “Ow! At the very least could you warn me in advance if you’re going to do that?”
+“I’m familiar with one of the teams here,” Chatot said, “and if that's the lowest bar that the so-called Guildmaster set to join their band of misfits, then I know I’ll come out on top.” Alakazam utilized his psychic powers to pluck a wing feather from Chatot’s plumage. “Ow! At the very least could you warn me in advance if you’re going to do that?”
 
-“If I remember. Now, what test should I give them?” Alakazam scanned through the myriad files he laid out on the desk, “Now, what test should I give them? I don’t want to take any chances that they’ll pass, it wouldn’t look good on me if any humans taint the Federation's good name.” 
+“If I remember. Now, what test should I give them?” Alakazam scanned through the myriad files he laid out on the desk. “I don’t want to take any chances that they’ll pass. It wouldn’t look good on me if any humans taint the Federation's good name.” 
 
-Chatot looked puzzled, “Why not give them an impossible task like ‘Collect all Seven Treasures in 10 minutes… or something similar to that?’”
+Chatot looked puzzled. “Why not give them an impossible task like ‘Collect all Seven Treasures in 10 minutes’… or something similar to that?”
 
-“Then they could contest the results of the test to the board on the basis that the test was biased, and the humans would have a reasonable case.” Alakazam started to scratch his chin and closed his eyes. “It needs to be almost impossible. Something that they could do in theory but not in practice.”
+“Then they could appeal to the Board and contest the results of the test on the basis that the test was biased–and the humans would have a reasonable case.” Alakazam started to scratch his chin and closed his eyes. “It needs to be almost impossible. Something that they could do in theory but not in practice.”
 
-Chatot played through many ideas in his mind of an exam they could give and get away with, then realized, “Wait, don’t you have those secret rank missions? Just give them one of those and our victory is assured and I can have that kid work off all the damages that Phanpy’s Team caused me” 
+Chatot played through many ideas in his mind of an exam they could give and get away with, then realized, “Wait, don’t you have those secret rank missions? Just give them one of those and our victory is assured! And I can have that kid work off all the damages that Phanpy’s Team caused me.” 
 
-“Actually, that’s not a bad idea, and I think I know the perfect one to give…” Alakazam tucked all irrelevant files back into his bag and Chaot flew onto the desk, so they could prepare to administer the almost impossible test. 
+“Actually, that’s not a bad idea, and I think I know the perfect one to give…” 
 
-Several Minutes go by while Alakazam and as soon as he finished preparing the exam materials, Guildmaster Lliam reentered the room. “...couldn’t even get five minutes of rest before this trash showed up…” Alakazam mumbled to himself.
+Alakazam tucked all irrelevant files back into his bag and Chaot flew onto the desk, so they could prepare to administer the almost impossible test. 
+
+Several minutes went by while Alakazam finished preparing the exam materials. As soon as he was done, Guildmaster Lliam reentered the room. 
+
+“...Couldn’t even get five minutes of rest before this trash showed up…” Alakazam mumbled to himself.
  
-Lliam, pretending to ignore that insult, declared “I finished getting everyone together”
+Lliam, pretending to ignore that insult, declared, “I finished getting everyone together!”
 
-The president scoffed, “I’m surprised you managed to do that much.”  Unsure if Alakazam had the ability to read minds, Lliam kept his thoughts and actions silent and obedient to be safe, for himself and the safety of the guild, KFC burst into the office carrying a comically large sack of money, but he fell backward as soon as the sack of cash got jammed in the doorway. The Combusken got up like nothing had happened and started to pull the bag through the doors.
+The president scoffed, “I’m surprised you managed to do that much.”  
 
-“Sorry, it took so long…” KFC said, still pulling the bag, now halfway through the double doors. “....apparently, the bank doesn’t like it when you withdraw 100 grand all at once.” With an audible snap, the sack of Poke flew into the room, which was caught by an unfazed Alakazam's Psychic in mid-air, as KFC tumbled forward into the desk knocking over some of the exam files. 
+Unsure if Alakazam had the ability to read minds, Lliam kept his thoughts and actions silent and obedient to be safe, for himself and the safety of the guild. Moments later, KFC burst into the office carrying a comically large sack of money, but he fell backward as the bag got jammed in the doorway. The Combusken got up like nothing had happened and started to pull the bag through the doors.
 
-Scrambling to his feet once again, Combusken gathered the fallen paperwork off the floor while Chatot and Lliam stood, silent, in awe at the comedy routine that had transpired. 
+“Sorry it took so long…” KFC said, still pulling the bag, now halfway through the double doors. “....Apparently, the bank doesn’t like it when you withdraw 100 grand all at once.” With an audible snap, the sack of Poke flew into the room. Alakazam, unfazed, caught it in midair with his Psychic, while KFC tumbled forward into the desk and knocked over some of the exam files. 
 
-KFC had a quick peek at the exam file before putting the files back on the desk’s countertop since Alakazam was distracted by the bag of money, “...99,999, 100,000… Alright, everything seems to be in order, you may leave, Combusken,” directed Alakazam.
+Chatot and Lliam stood, silent, in awe at the comedy routine that had transpired. Scrambling to his feet once again, the Combusken gathered the fallen paperwork off the floor, sneaking a peek at the exam file. Meanwhile, Alakazam was distracted by the bag of money. “...99,999, 100,000… Alright, everything seems to be in order. You may leave, Combusken.”
 
-KFC furrowed his brow and had a perplexed expression plastered on his face. “Why? I should be able to stay and participate in the test.”
+KFC furrowed his brow, a perplexed expression plastered on his face. “Why? I should be able to stay and participate in the test.”
 
-“You could…” Alakazam paused for emphasis “But did you forget about Luminous Spring?”
+“You could…” Alakazam paused for emphasis. “But did you forget about Luminous Spring?”
 
-The fireless Combusken was struck by a sudden realization, and his face snapped from confusion to panic in a matter of milliseconds. “Shit, I completely lost track of time, I need to go now!” As KFC had one foot out the door he whispered “Repeat this to the others: To find a rift, you need to find what does not belong." to Lliam.
+The fireless Combusken was struck by a sudden realization, and his face snapped from confusion to panic in a matter of milliseconds. “Shit, I completely lost track of time, I need to go now!” As KFC had one foot out the door he whispered to Lliam, “Repeat this to the others: To find a rift, you need to find what does not belong."
 
-Dawning a similar puzzled expression as the Combusken had a mere moment prior, Lliam was about to ask What does that even mean? However, KFC was already gone before the Guildmaster could get the chance.
+Donning a similar puzzled expression as the Combusken had a mere moment prior, Lliam was about to ask, “What does that even mean?” However, KFC was already gone before the Guildmaster could get the chance.
 
-Lliam looked back at Alakazam who had neatly stacked several packets of exam materials. “Let’s get this over with, come on Chatot …and Human.” All three made their way toward the Lobby silently as Lliam felt the importance of the exam’s results start to sink in.
+Lliam looked back at Alakazam, who had neatly stacked several packets of exam materials. “Let’s get this over with. Come on Chatot …and human.” All three made their way toward the lobby silently as Lliam felt the importance of the exam’s results start to sink in.
 
-The lobby was boisterous as ever, with a plethora of voices filling the air. 
+The lobby was abuzz with activity as all the guild members crowded together, a plethora of voices filling the air. 
 
 “What’s going on?” 
 
@@ -241,32 +253,38 @@ The lobby was boisterous as ever, with a plethora of voices filling the air.
 
 “Did some team set fire in a forest again?”
 
-As Lliam, Chatot, and Alakazam file into the foyer, the chatter of the rowdy guildmembers continued.
+As Lliam, Chatot, and Alakazam filed into the foyer, the chatter of the rowdy guildmembers continued.
 
 “Guildmaster, what's the matter?”
 
 “Whoa, is that Chatot?”
 
-“Attention everyone!!” Alakazam demanded. However, the order was drowned out by the sound of everyone else’s conversations. Lliam fires a large thunderbolt into the crowd immediately putting the room's focus on himself. Lliam pointed over to President Alakazam who cleared his throat to start his lengthy speech. “Ahem…” The center of the guild's attention shifted over to Alakazam. “This human next to me has opted to enter all of you into the Federation Entrance Exam. It–” 
+“Attention everyone!!” Alakazam demanded. However, the order was drowned out by the sound of everyone else’s conversations. Lliam fired a large thunderbolt into the crowd, immediately putting the room's focus on himself. He pointed over to President Alakazam, who cleared his throat to start his lengthy speech. 
 
-A whiny voice interrupts Alakazam, “I don’t wanna take a test!” quickly followed by a shrill “Me neither!"
+“Ahem…” he said, drawing everyone’s attention to himself. “This human next to me has opted to enter all of you into the Federation Entrance Exam. It–” 
 
-The president took a deep breath and continued, “Based on the number of you here some can opt out. However, if an inadequate number choose to take the test my associate Chatot, and I will shut your guild down. Now, as I was expl—” 
+A whiny voice interrupted Alakazam: “I don’t wanna take a test!” It was quickly followed by a shrill “Me neither!"
 
-Upon hearing the threat, the crowd erupted in furor “How come you get to decide that? You’re not the boss of us!” 
+The president took a deep breath and continued, “Based on the number of you here, some can opt out. However, if an inadequate number choose to take the test, my associate Chatot and I will shut your guild down. Now, as I was expl—” 
+
+Upon hearing the threat, the crowd erupted in furor. 
+
+“How come you get to decide that? You’re not the boss of us!” 
 
 “Does this retard think we’ll listen to him?”
 
 “Let's rush him, he can’t stop all of us.”
 
-Cut off for a second time by unruly humans, Alakazam’s rage finally boiled over, “Quiet, filthy humans!” A large wave of psychic energy spread over the room forcing almost everyone’s mouth shut. “Now, use what little brain power you humans have and try to stay silent while I finish explaining the rules.” The Federation’s President waited a few seconds, then released Psychic. 
+Cut off for a second time by the unruly humans, Alakazam’s rage finally boiled over. “Quiet, filthy humans!” he roared. A large wave of psychic energy washed over the room, forcing almost everyone’s mouth shut. He glared at the crowd and said, “Now, use what little brain power you humans have and try to stay silent while I finish explaining the rules.” The Federation’s President waited a few seconds, then released Psychic. 
 
-With the room quiet Alakazam continued his speech, “First, the guildmaster may not participate as the main purpose of the exam is to assess the guild's rank and file. Second, the participating members will pair off into groups…” He took a packet from the top of his neatly stacked pile and held it toward the crowd. “And each group will explore an assigned dungeon, the name of which will be specified in this folder unless the dungeon your group is assigned was discovered recently and unsurveyed. In those cases, the dungeon has been given a code name, If a group wishes to give it a real name at the end, they may do so. The objective of your assignment is to seal a rift.” Lliam’s ears perked up as Alakazam paused his spiel to open a packet and grab a small bottle from inside it.
+With the room quiet, Alakazam continued his speech. “First, the guildmaster may not participate, as the main purpose of the exam is to assess the guild's rank and file. Second, the participating members will pair off into groups…” He took a packet from the top of his neatly stacked pile and held it toward the crowd. “And each group will explore an assigned dungeon, the name of which will be specified in this folder–unless the dungeon was discovered recently and is still unsurveyed. In those cases, the dungeon has been given a code name. If your group wishes to propose an official name at the end, you may do so. Now for the important part: each of these dungeons contains a rift, and the objective of your assignment is to seal it.” 
 
-All the guildmembers remained quiet, not wanting to experience another Psychic or Thunderbolt. However, Llaim utilized the dead air to relay KFC‘s vague parting words. “To find a rift, you need to find what does not belong." The guild stared at Llaim with an identical confusion to the one he had.
+Lliam’s ears perked up as Alakazam paused his spiel to open a packet and grab a small bottle from inside it.
 
-“As I was explaining… A rift is an invisible tear in the fabric of space-time. No one knows the cause of their appearance and they cannot be entered. Furthermore, a rift is completely invisible to almost everyone, but their unique effects on mystery dungeons make them detectable. Some of the rift’s effects on dungeons are noted in each group's folder.” Alakazam displayed the small bottle to the examinees. “In addition, I will provide each group with one bottle of rift sealant. To summarize its use, When a group believes a rift is within 5 meters of them, they should open the bottle. After a short period of time, the small piece of white on the underside of the bottle cap will change colors. If the paper turns red, no rift was sealed. However, if it turns green then a rift was found and sealed. For the guild to pass the exam, all groups must return with a green rift sealant bottle cap, within 48 hours.”
+All the guildmembers remained quiet, not wanting to experience another Psychic or Thunderbolt. However, Llaim utilized the dead air to relay KFC‘s vague parting words: “To find a rift, you need to find what does not belong." The guild stared at Llaim with an identical confusion to the one he had.
 
-Some exploration teams decided to form a group with other teams or solo Pokemon while other teams decided that they would do their mission alone and some Pokemon believed they weren’t up for the challenge and stayed behind.
+Alakazam continued, “As I was explaining… A rift is an invisible tear in the fabric of space-time. No one knows the cause of their appearance, and they cannot be entered. Furthermore, a rift is completely invisible to almost everyone, but their unique effects on mystery dungeons make them detectable. Some of the rift’s effects on dungeons are noted in each group's folder.” Alakazam displayed the small bottle to the examinees and added, “In addition, I will provide each group with one bottle of rift sealant. When a group believes a rift is within 5 meters of them, they should open the bottle. After a short period of time, the small white paper on the underside of the bottle cap will change colors. If the paper turns red, no rift was sealed. However, if it turns green, then a rift was found and sealed. For the guild to pass the exam, all groups must return with a green rift sealant bottle cap, within 48 hours.”
 
-After every group was formed and received an exam packet with the rift sealant, Federation President Alakazam instructed, “Commence the Federation Entrance Exam!... you filthy humans.”
+With that, the crowd’s chaotic chatter resumed in earnest. Some exploration teams decided to form groups with other teams or solo Pokemon, while other teams decided that they would do their mission alone. Other Pokemon believed they weren’t up for the challenge and stayed behind.
+
+After every group was formed and received an exam packet with the rift sealant, Federation President Alakazam looked them over and loudly announced, “Commence the Federation Entrance Exam!... you filthy humans.”

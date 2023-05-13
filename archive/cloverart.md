@@ -254,6 +254,8 @@
 ![Ross Loss](https://i.imgur.com/6G14Pwn.png)
 #####Ross but Cursed
 ![Hey Ross, remember that time you were in the CLover Guild?](https://i.imgur.com/1oDeQ1N.png)
+#####Angry Alakazam
+![NOOO!STOP SHITTING UP THE POKÉMON WORLD! FILTHY HUMAAANS!!!](https://i.imgur.com/Rpj9tka.png)
 ####Growlithe-anon's Graphics
 #####Clover of Future Past
 ![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)

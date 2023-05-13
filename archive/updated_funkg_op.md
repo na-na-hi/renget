@@ -29,8 +29,6 @@ https://gamejolt.com/games/tag-fnf
 https://github.com/FunkinCrew/funkin-resources
 https://rentry.org/funkgmoddinghelp
 
->/funkg/ Booru:
-https://booru.plus/+funkg
 >/funkg/ Mod Wiki:
 https://funkinchan.club/wiki/Main_Page
 >/funkg/ Link Compilation:

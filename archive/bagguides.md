@@ -16,4 +16,3 @@ https://sensei.help/en | Equipment Farming Calculator
 [Google Document](https://docs.google.com/document/d/1Ui0FRgG8h8RB1-cA639F3ETDrVM7q9FKftg4vBKBAAQ/edit) | Library of Stats and Formulas
 [Google Document](https://docs.google.com/document/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0/edit#) | Raid Strategy Guide
 [Google Document](https://docs.google.com/spreadsheets/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/) | PVP Tierlist
-[Google Document](https://drive.google.com/drive/folders/1XNdrtS3qk2ChKiF32omwCdeZUzbG1Yn5) | Manga/4koma

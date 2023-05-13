@@ -1,3 +1,4 @@
+-> My proxy: https://huggingface.co/spaces/aicg/Moxxie-Proxy <-
 ***
 -> How to avoid the Claude filter: <-
 -> 1. Download the [Latest version of Spermack](https://github.com/AmmoniaM/Spermack/archive/refs/heads/main.zip) <-

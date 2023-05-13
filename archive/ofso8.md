@@ -616,3 +616,500 @@
 >then you handed him the belt and holster for your sidearm
 >you felt you could trust him with a pistol, perhaps you were too rash earlier to keep him unarmed
 >you didn't expect him to almost faint in response, it couldn't be that exciting
+
+>he seemed to calm down after a minute or two
+>you didn't have a lot of time so you asked if he knew anything about guns
+>he silently shook his head
+>you were afraid of that
+>so crash course in gun safety and all that
+>point it down, trigger discipline and all that
+>you figured the cultists not wanting to hurt such a high value target would given Ash an edge
+>you asked him to stance up, show you how he thinks he should shoot
+>last thing you'd need was him flying backwards from recoil
+>the pistol looked gigantic in his hands
+>when he trembled you felt bad
+>he didn't know his little adventure would turn into this
+>you took a little pity on him
+>you moved behind him and wrapped your arms around him, your hands over his
+>he was still shaking so you planted a leg between his
+>you didn't exactly tower over him but you could see over his hair and between his big ears
+>you instructed him to take deep steady breaths to ready himself
+>he was never trained for any of this so getting him calm was the first step
+>then you told him to spread his legs more and he nearly jumped for some reason
+>you dodged his tail as he nearly jettisoned himself to the ceiling
+>however, he soon understood the purpose of the wider stance was to help balance
+>after you explained you weren't a "pervert"
+>no idea why he thought firearm training was perverted
+>after about twenty minutes you were happy he at least got some basics
+>he could at least cap those guys hauling him up over their shoulders now
+>what you didn't know was how quickly that training would be put to use
+>the parasites had done some weird shit so far but it seemed like the cult had been toying with them
+>trying to make them even more dangerous
+>and you two ran into that in the castle caverns a bit past your break spot
+>the creatures that jumped you both looked like giant bugs
+>you were starting to get deja vu from all the crap you dealt with in Raccoon City 
+>things looked absolutely alien and you discovered quickly they could cloak
+>Ashley spotted them first
+>because while you couldn't see them all that well, he could hear them
+>they shimmered slightly in the light
+>taking flight must exert them too much for the camouflage however and that made them easy to shoot
+>sure they were nimble in the air but they were visible 
+>shotgun made all their weaving worthless because you were sure to clip something 
+>one of them got lucky and grabbed Ashley
+>you panicked at seeing the mouse up in the air 
+>this wasn't happening again
+>getting separated like before
+>you didn't have time to scream out before Ashley did a very smart/dumb thing
+>you were happy to see the gift had paid off
+>Ash fumbled with the gun but got it right up to the bug's mouth and mag dumped the thing's brains out
+>what was dumb and not so much a relief was Ashley was twenty feet in the air and over a pit
+>you ran hard as you could, slid towards the edge, and got hold of something solid
+>the bug plummeted and you quickly realized you were looking down Ash's skirt and your hand had his tail 
+>the mouse nearly screamed at the tugging and your arm nearly came out of its socket but he was safe
+>displaying an inhuman flexibility and agility he just about doubled over and grabbed your shoulder
+>it hurt but he managed to scamper up you and to your surprise kill one of those bugs that spotted an easy target
+>he'd even used your pistol to do it, pulling it while he had been climbing up
+>you'd both had enough of the caves after just a few minutes and sprinted towards an obvious exit
+>Ashley continued to spot for you, the hearing making ambushes impossible
+>he wasn't even panicked or screaming now
+>if he was afraid he didn't let it show as outwardly as before
+>maybe actually killing one of those things made him see it wasn't as impossible as he thought
+>a few service tunnels and gunfights with the bugs you managed to get out of there
+>with Ashley in tow as well
+>you took time to slap his shoulder and say you were proud of him in there
+>his response was to look everywhere but you and say he was thinking of another bathroom break
+>it did get pretty scary in there but that was sudden
+>it seemed like the caves led into a mine system
+>you'd have to find a way to the surface and you heard more guttural Spanish ahead
+>the mines were indeed stuffed to the rafters with villagers that really wanted hurl dynamite
+>Ashley had to cover his ears a lot
+>the gunfire had been difficult for him but an explosion in an enclosed space must have been hell
+>then they got creative
+>Ashley and you dodged in different directions from one such explosion 
+>the mouse ended up in a tunnel that was weaker 
+>another blast and the shit started caving in
+>you weren't fast enough to rush for it but he was darting away from the collapse 
+>you were shocked for a second, staring at the blocked off cave
+>then you were pissed
+>you blew the head off the one villager that threw the last stick
+>fucking dynamite 
+>at least the stick he had just lit took out a group of them 
+>but now you had an issue 
+>do you pick Ashley or your route through the mines?
+>Ashley tried clawing at the rocks and was greeted with more falling into their place
+>he wasn't built for strenuous digging and ended up giving up after a few frantic minutes
+>he fell back against the rock wall and processed what to do 
+>he heard a few more gunshots and explosions and hoped you were alright
+>now, he could stay here and hope you could dig out the rock
+>or head deeper and hope you two could meet
+>the rocks could take hours to clear and neither of you had that sort of time
+>so the tunnel it had to be
+>Ash just hoped he could circle around in time
+>the pistol would be a last resort if he couldn't sneak
+>checking ammo, he reloaded like you taught him
+>a little clumsy but he managed
+>the quiet of the caverns didn't help relax him and he fiddled with the pistol 
+>his ears focused and he slunk out into the mine tunnel, torchlight bathing everything in hostile reds
+>his boots were ruined by now, mentally he wondered if you two could go shopping after this
+>a beach 
+>after all this
+>definitely going to a beach
+>Ash would get a swimsuit
+>something barely covering anything
+>that was the ticket 
+>that would definitely draw your eye
+>maybe something low cut
+>just enough ass cleavage that wouldn't get you two kicked off a public beach
+>what color would best work with his white fur
+>he distracted himself with happy thoughts while listening for danger
+>the mines in this section had been quiet so far but Ash didn't doubt they wouldn't go for him now
+>since you had been separated from him, he was vulnerable 
+>or so they believed 
+>had to get out of this
+>warm ocean water glistening off your skin
+>Ashley was living for tomorrow now
+>he just had to pray you upheld your part of the bargain 
+>you were pulling off his bikini top with your teeth and he wasn't accepting anything less
+>slipping through the tunnels was easier than he expected but he was still careful
+>occasionally gunfire echoed through the tunnels and he took that as a good sign
+>sure, you were fighting but that meant you were alive
+>plus you seemed to be moving as well so he had made the right call
+>when he heard some shuffling up ahead he was cautious 
+>his footsteps grew soft
+>sneaking was natural for him
+>sunny beach
+>just think sunny beach
+>Ashley calmed his breathing and went over your firearms training 
+>it was brief but it was the closest thing to a security blanket he had now
+>this was definitely all the adventure his brother had seen and more
+>he wasn't sure he was cut out for that sort of life though
+>the glamor had faded 
+>now he just had to survive and hope you reciprocate his feelings
+>he'd just have to like, seduce you
+>somehow
+>he really had no idea how to actually do that but that was a bridge he'd cross when he got to it
+>more gunfire and footsteps shuffled away from where he crouched
+>they were obviously heading off to deal with the intruder, you
+>that was good news
+>well, not for you
+>but it meant he was getting closer to you
+>he checked his pistol briefly and crawled forward
+>the caverns smelled of mildew and grime
+>that part stuck out to him a lot
+>the villagers didn't ever seem to stand out too much from their surroundings any more
+>you smelled nice to him though
+>he thought about that
+>at least tracking you might be easy
+>then you two would get rid of these bugs and get away from this God forsaken place
+>his tail slightly bobbed behind him to give him better balance crouched
+>the skirt at helped him be flexible too
+>truly the most tactical invention
+>the fake boobs were annoying though
+>but impersonating a celebrity for the fame and possibly getting into nightclubs seemed like it was worth it
+>no one really asked about the giant mouse thing
+>and he wasn't about to correct them
+>everyone just assumed 
+>maybe this Ashley was just kind of homely looking enough he could pass for her
+>celebrities were weird and he was more than happy to use that to his advantage 
+>at least that was what he assumed
+>as for why he never impersonated a male celebrity?
+>he liked skirts, so what was the big deal
+>this whole wanderlust had led him into a dangerous spot and he thought back
+>if you hadn't rescued him
+>he'd be a slave to this cult
+>he was in love almost at that corny cheese joke
+>you noticed he was a mouse or were at least bold enough to say it out loud
+>he also took note
+>you didn't exactly reject that kiss
+>even kissed back
+>you didn't think he looked super weird or ugly 
+>so there was hope
+>he held onto that hope until he found an area with a minecart
+>it led down some rickety wooden tracks
+>death trap in the making
+>however gunfire below the ledge made him peak over
+>there you were about thirty feet down
+>he eyed the mine cart that would head down to that level
+>it was a risk
+>jumping would be fatal
+>Ash hyped himself up
+>it was just like one of those roller coasters
+>just hop in a roll down
+>but the brakes 
+>that's the issue
+>could he stop it?
+>he saw you were backed into a corner and threw caution to the wind
+>hopefully you'd give him a reward for his daring rescue
+>that last thought made Ashley perk up
+>reward
+>yes
+>you were pinned behind cover and didn't expect to see a cart flying down the track near you
+>you almost opened fire when you saw familiar boots poking up from the cart, moving around in a panic
+>the villagers had no time to react before the cart blasted through their group and slammed through several trusses 
+>the cart had smashed a few of them but those that were distracted were quickly gunned down
+>you felt amazingly lucky for the opportunity 
+>Ash had come through and created an opening
+>you rushed over and saw he was dazed but no worse for wear
+>Spanish behind you made you pick him up out of the cart bridal style and start running 
+>these tunnels had to have another opening
+>hopefully better than this place
+>though judging by the track record probably not
+>still, these tunnels were a labyrinth made to waste your time
+>getting you both bug free was a priority 
+>you had a feeling taking out Salazar early did some damage to the group at least
+>the distressing amount of mutations this cult was making didn't ease your fears
+>they had to be stopped more than ever
+>bugs first though
+>Luis had remarked on research about them
+>so maybe they had a way to destroy the infestation
+>Ash had appeared to recover
+>you asked if he wanted to walk it off 
+>"we lost them right?"
+>sure enough the noises were distant 
+>they wouldn't be able to catch up
+>you told him you felt like you lost them
+>"well in that case, can you carry me a little longer?"
+>strange but maybe he felt woozy still
+>he draped his arms around you and relaxed in your arms as you trudged through the mines towards what looked like open space
+>what was initially disappointment turned to horror
+>the glow of the room was due to what looked like a lava pit
+>Ashley was already looking uncomfortable in the heat
+>he got down and shielded himself behind you
+>was he smelling you?
+>well that wasn't the important thing because you were greeted by a familiar sight
+>two of them
+>you'd fought one of those troll giants before in the village outskirts
+>but now two of the monsters strode out of a giant doorway on the other side of the room
+>Ashley choked back a scream
+>you could tell by how he was holding your shoulders he was tensed up
+>you couldn't lie and say you weren't also scared 
+>they made the mistake of using this room though
+>you saw the precarious condition the pit was in
+>and it was big enough for one of these things to fall into
+>you knew from fighting the one they weren't graceful
+>maybe you could have them trip over each other
+>you doubted you'd get lucky enough to get both of them
+>the mouse boy was nervous
+>you clasped a hand over one of his soft ones and told him you needed him to keep it together 
+>these things would probably be too dumb to know not to hurt him
+>so you'd serve as a distraction and pointed to the apparatus over head
+>a few good shots and it would bring down the platform into the lava
+>you would plan to be off the platform
+>you promised
+>he still sounded scared but you needed to trust him
+>you would get you both out of here so you added incentive
+>if you both got out of this fight you'd do whatever he asked
+>give him whatever he'd like
+>no objections
+>that seemed to calm him instantly somehow
+>you'd break on three
+>one
+>your body felt like a coiled sping
+>two
+>sweat formed on your brow and the beasts got closer
+>three
+>you darted forward to catch their eye and Ashley slunk backwards, making no sudden moves
+>they were dumb and uncoordinated 
+>thankfully that worked in your favor
+>piss off one and he swings a club without thinking of the other one
+>it was easy to get them to pay attention to just you
+>especially when you'd switched to your magnum
+>you'd thought about a shotgun but fuck getting within arms reach of these things
+>Ashley had made himself scarce and the plan was working
+>you'd were getting exhausted dodging the blows but a single hit would kill you
+>you couldn't chance getting hit
+>one of the idiots charged and made a beeline for the platform 
+>you dodged another clumsy swing and peppered a few shots at the other freak to get him to close in
+>you were getting nervous about getting boxed in but you had to trust Ashley
+>he'd come through
+>you knew it
+>sure enough Ash had the time to steady up and take aim
+>ignoring the urges you telling him to spread his legs had put in him
+>every piece of that lesson but that one part
+>he was hoping you weren't just exaggerating about that reward because he was looking forward to it
+>the first shot didn't hit the chain 
+>the second didn't either
+>however, third time's the charm
+>the chain suspended that whole platform and if it went
+>he hoped you didn't make a mistake trusting him
+>you heard the gunshots 
+>the giants seemed too caught up in attacking you
+>you didn't make it obvious you glanced up 
+>you saw a shot hit, sparks flying
+>Ashley quickly emptied the rest of the gun on the links
+>more misses than hits but it did it
+>the second giant charged onto the platform and you felt it waver
+>you decided to risk it and baited one of them into slamming his club down
+>idiot fell for it
+>they both just assumed you were dodging but you'd leapt clear of the pad as it dropped from the hit
+>both of them fell into the lava but not without a fight
+>one of them clawed at you while bellowing and there was a real fear fucking lava couldn't stop these things
+>you backed off while training your sight on it
+>you weren't shy about shooting a couple more times
+>the bullets finally seemed to hit home and actually do something because the beast finally went slack and fell into the red heat
+>you weren't sure how durable those things were so you stayed away from the pit and made your way towards Ashley 
+>he seemed a little distraught 
+>you asked what was wrong?
+>was he OK?
+>"it's just… I couldn't make the shot. even with you counting on me"
+>the mouse boy looked to his boots and slumped against the wall of the cave
+>you decided he had the right idea
+>you sat next to him and he quietly nudged a rock
+>you felt like he needed a boost
+>you remarked he had weakened the chains
+>it wasn't perfect but you to made do
+>isn't that what life was about?
+>you two still managed to kill the giants
+>you were both alive and that's what mattered
+>that seemed to help a little so you added the cherry on top of the sundae
+>you get to name your reward, you know
+>the ears twitched
+>you saw it
+>"but I don't think I deserve it…"
+>you were both sitting here alive because of his actions
+>so he could name his price
+>he thought about it in silence 
+>"are you sure?"
+>positive 
+>"really?"
+>you offered and you'd pay him back
+>he probably wanted money or another vacation or something
+>"welp, fuck it."
+>you were confused what that meant then he quickly straddled you and wrapped his arms around your shoulders
+>"I'm not dying a virgin," he whispered desperately to you
+>"you almost died so many times and…"
+>he frantically pulled his top up and pitched the bra staffers over his head
+>his bravery seemed to fade briefly before he found his resolve
+>his hand grabbed yours and he placed it on his bare chest
+>his white fur was like silk
+>smooth to your fingertips but he wanted you hand flat over a specific spot
+>"I know. I know."
+>he was pleading when he looked down at you with his blue eyes
+>"you're straight or have a girlfriend or whatever and I'm stupid"
+>he started to look more and more crestfallen as you tried to figure out how to react
+>"but I… can't let this go."
+>you realized he wanted you to feel his heart and it raced
+>hammered harder than yours did when you just fought out there
+>he was so scared
+>the stress was getting to him and you figure that had to have taken a lot from him
+>so your hand went to undo his black bra
+>you gently set it aside and agreed
+>this wasn't the ideal place for a thing but you knew he was so terrified
+>nowhere was really safe so this was as good a place as any
+>you were sort of in new territory here
+>but you figured he'd feel bad if you just kind of sat there
+>so fine
+>you promised 
+>you didn't want to leave it unfulfilled 
+>so you mirrored him and pulled your shirt off
+>that seemed to perk him up
+>he ran his paw over your chest in appreciation 
+>the pads were soft on your skin
+>you allowed him to work at his pace but there was something you wanted to try
+>he flinched when you reached up and rubbed his ear
+>you'd be curious this whole time what it felt like
+>he was confused
+>then leaned into it
+>"I think I'm going to make you regret that promise"
+>he looked somewhat nervous
+>you'd never been with a guy before 
+>really this was about the farthest you've gotten with anyone
+>Ada was kind of a tease but you were probably in a worse situation than this
+>Ashley here wasn't a tease given how he arched against you
+>you'd have to fix something
+>was Ash his real name?
+>"I know it sounds silly but yeah. why?"
+>well you wanted to make sure you groaned out the right name 
+>none of that president's daughter nonsense 
+>you felt how tense his back was as your hand went further down
+>his fur really was a pleasure to touch
+>"we-we don't have to do this."
+>he tried to get up off you and your hand clamped over one of his thighs
+>he squeaked, actually squeaked and then he gulped down his anxiety for a moment 
+>he seriously thought he was forcing himself on you
+>you ran your hand up his skirt and if you weren't in a lava cave you could have felt his body burning up
+>he buried his face in his hands when you flipped the cloth up, exposing him
+>he was rock hard and leaking
+>so he really did want this
+>his cock angrily throbbed and wasn't at all contained in his panties
+>he didn't try to make eye contact whatsoever
+>"I'm sorry."
+>his anxiety was obvious by now
+>did he like you?
+>you had to admit, he was alright
+>he had pretty soft hips
+>you patted his thigh gingerly and he whined and wiggled in your lap
+>so he must really enjoy your company
+>that was good
+>you enjoyed his company too
+>so you decided best to go with it
+>you had no idea how to go about this
+>killing all that shit past you and you were freezing up at feeling up a mouse
+>best you could do is lay on the charm
+>think back to like movies
+>so he was girly
+>might mean he likes what women like
+>your hand ran over his back down to his tail and he froze
+>his eye peaked through his fingers down into your own eyes
+>when you softly gripped his tail at the base he jerked his hips 
+>you used your free hand to undo your pants 
+>or attempt to
+>trying to do it one hand was difficult and but Ash helped
+>he seemed briefly impatient and almost shredded your pants with his tiny claws just to get your pants down
+>tugging softly on his smooth tail seemed to interrupt his thought processes 
+>his manhood twitched in his panties 
+>your own flopped out the second your pants opened
+>it was hard too and his blue eyes were drawn to it
+>it strained hard against the boxer briefs 
+>he gulped again
+>"I can't believe this is happening," he murmured
+>his small paws shakily groped at your manhood and you groaned at the sensation
+>he froze and you assured him he was doing fine
+>his paw pads felt so strange when he got bold
+>he watched you for every little reaction
+>"you're really sure about this. I'm not… weird?"
+>he worried too much
+>so you pulled him down into a kiss
+>your tongue explored his mouth and he finally relaxed
+>you both let your guard down and that was a mistake
+>things got hazy after
+>you tasted him on your lips
+>he was sweet
+>that was your last memory before you blacked out
+>then it felt like you were in the backseat of your own body
+>you were seeing things through your eyes but you didn't have control
+>the kiss turned hostile
+>you weren't kissing Ash
+>he was shocked when you broke the kiss and you got violent
+>you saw your body grab the mouse boy by the throat
+>your fingers on his neck
+>he had noticed something when he saw your eyes and he started flailing
+>you were trying your damndest to break the hold 
+>this had to be the bugs
+>you couldn't let this happen
+>he kicked and tried breaking free but your hand had him 
+>he tried struggling and you couldn't stop it
+>it felt impossible until he finally got enough breath to speak two words
+>"you promised"
+>that gave you the strength to wrest control back
+>these goddamn bugs weren't winning
+>they weren't making you a fucking liar 
+>and they
+>weren't 
+>hurting
+>Ash
+>your screamed that last word to the cavern and unclutched his throat
+>the parasite control had faded for the moment
+>the mouse boy gasped for air on the ground and when he locked eyes with you he flinched
+>it was brief but you saw he was scared
+>you said you were sorry 
+>while you expected him to stay frightened he picked himself up
+>with his breath back he offered you a paw
+>you pulled him into a hug and said you were sorry again
+>then you noticed a few things
+>your pants had were still down and he had a wet spot up against you
+>did he just cum from earlier?
+>he noticed you noticing and piped up, trying to preserve the dignity of the moment
+>his soft heartbeat had slowed against your chest, any hard feelings just nonexistent 
+>"I pulled a gun on you, remember?" 
+>he had, you knew he wasn't in control
+>"so, no sorrys. we should deal with the parasites. this was selfish…"
+>you bluntly replied
+>you promised you'd save him and you promised you'd take his virginity
+>you too had too much to live for so you couldn't fail
+>though something did trouble you
+>if the parasite could have a hive mind, they just discovered Ash wasn't "their" Ash
+>his cover was blown and it would get a lot more deadly from here on out
+>he embraced you and buried his head against your chest
+>"we'll be ok."
+>the danger had made your dick soft and you had suspicions Ash came
+>somehow
+>you were too much of a gentleman to ask him outright
+>you let him break the embrace first 
+>since they knew now, you pointed out he probably didn't need the citrus now
+>you saw him get bashful when you said he looked better without the fake boobs
+>he still covered his chest like a girl would
+>you'd get you both out of here
+>no, you both would do this
+>you both got dressed and you could tell he was still troubled
+>you hooked an arm around his shoulder and tried the most sauve line you could think of
+>you offered to kiss his neck to make it better and he just about fell over
+>he seemed to forgive you for that earlier incident but you didn't forgive yourself 
+>you weren't in control but it still traumatized you
+>this time he could pick up on that
+>"I could have shot you," he muttered 
+>his blue eyes were cast towards the lava pit 
+>then he glanced over to you
+>"I didn't."
+>you didn't know what that meant and he didn't elaborate 
+>he was right though
+>you'd given him the gun and he could have defended himself
+>surprisingly, he was the one to usher you two out
+>not exactly taking the lead but he was a bit more assertive
+>it was a few more tunnels before you found something amazing
+>an elevator
+>this was it
+>you'd be heading up for the first time in hours
+>when you smelled fresh air for the first time you grabbed Ash and spun him
+>he panicked and insisted you put him down in the most embarrassed tone
+>the salt water in the air never smelled so good

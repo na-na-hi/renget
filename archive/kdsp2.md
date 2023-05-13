@@ -55,6 +55,9 @@ https://justpaste.it/clcxi (alt link)
 Bimbo Awareness (Persona 5) by Kin12 | Completed: 2023-03-12
 https://archiveofourown.org/works/45699232/
 
+Confiding in Ann Takamaki (Persona 5) by Kin12 | Completed: 2023-05-12
+https://archiveofourown.org/works/47130919/
+
 The Gushing Acrobat (Persona 5) by Kin12 | Completed: 2023-05-01
 https://archiveofourown.org/works/46877284/
 

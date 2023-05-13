@@ -73,7 +73,7 @@ You're taken aback by his words. You didn't expect to be accepted so easily into
 
 Katyusha's father nods and claps you on the back. "Just remember," he says with a grin. "If you ever betray my daughter, I'll have to break your kneecaps. It's a communist thing."
 
->Katyusha's Other side 
+>04: Katyusha's Other side 
 
 After spending a few hours with Katyusha's family, you were starting to feel comfortable around them. They were all nice and welcoming to you, even though they were three times your size. You couldn't help but feel a little intimidated by their sheer size and strength, but their warm demeanor helped ease your nerves.
 
@@ -100,3 +100,39 @@ You couldn't help but cheer along with the rest of the spectators, thrilled by K
 "I think I'm impressed," you replied, grinning back at her.
 
 From that moment on, you knew that Katyusha was a force to be reckoned with, both in her political beliefs and her athletic prowess. And you couldn't wait to see what other surprises she had in store for you.
+
+>05: Two Communist Dogs one human
+
+As you and Katyusha walked down the street, you saw a familiar figure approaching. It was the Tibetan Mastiff girl from earlier. She saw you and called out, "Hey! I remember you. You're the guy who helped me out when I was lost."
+
+Katyusha looked at you, surprised. "You know her? How do you know her?" she asked.
+
+You quickly explained the situation to Katyusha, telling her how you had helped the mastiff girl and ended up becoming friends.
+
+Katyusha seemed a bit skeptical but eventually accepted the explanation. "Well, I guess that's fine," she said. "But why did you try to run away from my house earlier?"
+
+You felt a bit embarrassed as you explained your reason for running away. "I was just a bit overwhelmed, I guess. Your family is so big and I didn't know how to handle it," you said.
+
+Katyusha smiled understandingly. "Don't worry, I understand. But don't worry, you'll get used to it. And besides, my family really likes you. They were talking about you all day yesterday."
+
+You felt a bit more at ease after hearing that. As you walked with Katyusha and the Tibetan Mastiff girl, you couldn't help but notice how different they were from each other. Katyusha was big and muscular, with a fierce look in her eye. The Tibetan Mastiff girl, on the other hand, was much more gentle and calm.
+
+As you walked, Katyusha suddenly stopped and turned to you. "Hey, I just remembered something. You mentioned earlier that you used to do wrestling in school, right?"
+
+You nodded, wondering where this was going.
+
+"Well, I happen to be a big fan of Roman-Greco wrestling. I even have a little practice ring set up in my backyard. Do you want to try it out with me?"
+
+You felt a bit intimidated by the idea, but you couldn't resist the challenge. "Sure, let's do it!" you said.
+
+Katyusha led you to her backyard where you saw a small wrestling ring set up. She showed you some basic moves and techniques, and soon you were both grappling and wrestling with each other. It was intense and exhausting, but also incredibly fun.
+
+As the sun began to set, you and Katyusha collapsed onto the grass, panting and laughing. "That was awesome!" you said.
+
+Katyusha grinned. "I knew you'd like it. You're a natural wrestler."
+
+Just then, the Tibetan Mastiff girl approached you both. "Hey, I was thinking, would you guys like to come to a communist party with me next weekend? We're going to have lots of food, music, and of course, discussions about Marxist theory."
+
+You and Katyusha looked at each other, a bit surprised but intrigued. "Sure, why not?" you said.
+
+As you walked back to Katyusha's house, you couldn't help but laugh at the unexpected turn your day had taken. Who knew that hanging out with a communist Tibetan Mastiff and a sport-loving Russian Mastiff would lead to wrestling matches and party invitations? You couldn't wait to see what other surprises lay ahead.

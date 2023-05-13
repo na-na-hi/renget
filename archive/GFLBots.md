@@ -8,6 +8,7 @@ There's a bunch of Tavern cards and jsons (links in the metadata of the cards) a
 
 There's youtube playlists of story scenes and event scenes in GFLv4 parts 1 and 2.
 
+https://docs.google.com/document/d/1X3VeA8ZgCtC8xkP-cLiBaySJpeX0S9B8mdG8PIsXsy4/edit#heading=h.vom3y44ixolu
 https://tinyurl.com/GFLGDoc
 https://gfl.amaryllisworks.pw/#main-1-0
 https://tinyurl.com/GFLv4Part1

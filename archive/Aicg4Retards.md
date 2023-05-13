@@ -51,8 +51,8 @@ Step # | Quick Install - Git
 :-: | -
 1 | Install [Node.js](https://nodejs.org/en), LTS or Current. Remember to tick Chocolatey during installation.
 2 | Run Command Prompt, Navigate to folder you want SillyTavern in eg. `cd c:\user\CunnyChamp\`.
-3 | Git command for Main branch: `git clone https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && npm Install` 
-3.5 | Git command for Dev branch: `git clone -b dev https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && npm Install` 
+3 | Git command for Main branch: `git clone https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
+3.5 | Git command for Dev branch: `git clone -b dev https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
 4 | Start SillyTavern w/ **Start.bat**, located in SillyTavern Directory.
 
 ***

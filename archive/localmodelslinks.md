@@ -16,7 +16,7 @@
 [The-Eye](https://the-eye.eu/public/AI)|File host site that has a random assortment of ML resources
 |
 **Papers**|
-[Local Models Papers Rentry](https://rentry.org/localmodelsoldpapers)|Other /lmg/ resource I keep up to date with new papers and articles
+[Local Models Papers Rentry](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up to date with new papers and articles
 [LabML.AI](https://papers.labml.ai/papers/recent)|Best way to find newly published papers
 [PapersWithCode](https://paperswithcode.com)|Good for catching trending papers based off Github stars
 |
@@ -33,7 +33,7 @@
 [ML Glossary](https://archive.ph/iPHWI)|From Google 
 [List of Frameworks](https://archive.ph/UkaHR)|Mostly for training Models from scratch. Maybe we'll get there someday 
 [Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|Former Tesla lead for AI (now at OpenAI). Builds models with explanation
-[Thread Template](https://rentry.org/LMG-thread-template)|Also has further resources and information
+[Thread Resources](rentry.org/lmg-resources)|Has explanations, resources, and links. Also the thread template 
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 |
 **Learn**|
@@ -56,8 +56,10 @@
 **GPU Gits**|
 [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)|Main GPU-based inferencing with extension support 
 [Text Gen Extensions](https://github.com/oobabooga/text-generation-webui/wiki/Extensions)|Wiki link. Said wiki in general is excellent
-[TavernAI GPU Inferencing](https://github.com/Cohee1207/SillyTavern)|Heavily modified TavernAI fork with WebUI API support
 [WebUI Context Hack](https://rentry.org/wfy3p)|Forces a GC every 8 tokens in streaming mode
+|
+[TavernAI GPU Inferencing](https://github.com/Cohee1207/SillyTavern)|Heavily modified TavernAI fork with WebUI API support
+[Issho WebUI](https://github.com/stong/issho)|Non-Gradio WebUI that supposedly can do full context 30B with 24GB VRAM 
 |
 **CPU Gits**|
 [llama.cpp](https://github.com/ggerganov/llama.cpp)|Main CPU-based inferencing 
@@ -83,6 +85,8 @@
 [LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
 [LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
+[ReLLM](https://github.com/r2d4/rellm)|Regular Expressions for Language Model Completions
+[superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
