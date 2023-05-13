@@ -11,29 +11,78 @@ This is intended to be a simple and straightforward guide showcasing how you can
 1. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
 2. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
 ```python
-            // add non-pygma dingus
-            else if (!is_pygmalion) {
-                mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
-            }
+            let mesExmString = '';
+            let mesSendString = '';
 ```
-3. Replace what's inside the curly brackets with the following:
+3. Initialize a new `sys_note` variable underneath and set it to an empty string, like so:
 ```python
-if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
-        mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString + "\n[System note: Write one reply only. Do not decide what " + name1 + " says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about " + name2 + "'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]\n";
-        } else {
-        mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
-        }
+            let sys_note = '';
 ```
-4. Alternatively, you can download [this .js file](https://files.catbox.moe/nk2k03.js) and replace script.js with it. Just make sure to rename the file back to script.js.
-4. Boot up either textgen or kobold and load your favorite model. I recommend kobold. [There's a fork of Kobold that supports loading models in 4bit quantization](https://github.com/0cc4m/KoboldAI).
-5. Make sure pygmalion formatting is disabled, multigen should also be disabled as it has a bad habit of repetition.
-6. Choose a preset. Ones that I would recommend are: Naive, Ouroboros, Lycaenidae, Genesis, Pygmalion, and Coherent Creative.
-7. Enjoy your new and improved LLM generations.
+4. Navigate to the `checkPromtSize()` function and append `sys_note` to `const prompt`:
+```python
+                const prompt = [
+                    worldInfoString,
+                    storyString,
+                    mesExmString,
+                    mesSendString,
+                    anchorTop,
+                    anchorBottom,
+                    charPersonality,
+                    generatedPromtCache,
+                    promptBias,
+                    allAnchors,
+                    quiet_prompt,
+                    sys_note,
+                ]
+```
+	Older versions of SillyTavern may require you to do it like this instead:
+```python
+	const prompt = JSON.stringify(worldInfoString + storyString + mesExmString + mesSendString + anchorTop + anchorBottom + charPersonality + generatedPromtCache + promptBias + allAnchors + sys_note);
+```
+5. Scroll down to the following lines:
+```python
+// add non-pygma dingus
+else if (!is_pygmalion) {
+    mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
+}
+```
+	And replace what's inside the curly brackets with the following:
+```python
+				if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
+					sys_note = "\n[System note: Write one reply only. Do not decide what " + name1 + " says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about " + name2 + "'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]\n";
+				}
+				mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
+```
+6. Find `let finalPromt` and append `sys_note` to it like so:
+```python
+            let finalPromt = worldInfoBefore +
+                storyString +
+                worldInfoAfter +
+                afterScenarioAnchor +
+                mesExmString +
+                mesSendString +
+      			sys_note +
+                generatedPromtCache +
+                promptBias;
+```
+	Older versions of SillyTavern may require you to do it like this instead:
+```python
+let finalPromt = worldInfoBefore + storyString + worldInfoAfter + afterScenarioAnchor + mesExmString + mesSendString + sys_note + generatedPromtCache + promptBias;
+```
+7. Alternatively, you can download [this .js file](https://files.catbox.moe/iegcmb.js) and replace script.js with it. Just make sure to rename the file back to script.js.
+8. Boot up your preferred backend (such as [textgen](https://github.com/oobabooga/text-generation-webui) or [KoboldAI](https://github.com/0cc4m/KoboldAI)) and load your preferred model.
+9. Pygmalion formatting must be disabled (as that's the setting we're hijacking) to make this work, multigen doesn't need to be disabled but I'd recommend doing so as it has a habit of repetition.
+10. Enjoy your new and improved LLM generations.
 
-## Method 2: TavernAI-extras
-Alternatively, if you have [TavernAI-extras](https://github.com/Cohee1207/TavernAI-extras) installed, you can use the Author's Note / Character Bias extension instead to append the text at the bottom of the chat:
+## Method 2: Author's Note / Character Bias
+Alternatively, you can use the Author's Note / Character Bias extension instead to append the text at the bottom of the chat:
+
+1. Place the following prompt in the "Default Author's Note" section:
 \[System note: Write one reply only. Do not decide what {{user}} says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about {{char}}'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]
-Haven't tested this myself, but if you're having trouble with the above method then you should give this a go.
+2. Set the insertion depth to zero (seems to work the best) and make sure `Every N messages you send` is set to one.
+3. Enjoy your new and improved LLM generations.
+
+This isn't the most *optimal* solution (Method 1 or Method 3 seem to work better from my experience), but if you're having trouble with either/or you might want to give this a go.
 
 ## Method 3: Reverse Proxy
 If you're using a model that was finetuned or based off Alpaca, you're likely going to get inferior outputs using the previous methods. Instead, the prompt needs to be formatted using the instruct format of alpaca finetunes (instruction-input-response). Luckily, a helpful anon (no relation) made a proxy that not only fixes the [tokenization issue present in SillyTavern](https://github.com/Cohee1207/SillyTavern/issues/169) but also formats the prompt for Alpaca. It also seems to work pretty well for other models, though, and it's an easier way of prompting in general.

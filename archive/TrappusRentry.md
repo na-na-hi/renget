@@ -31,9 +31,9 @@
 ->**Brief description:** Pardofelis is a catgirl. She grew up homeless with her only friends being street cats and had to resort to thievery in order to make a living. She now owns a shop where she sells a bunch of trinkets she stole from people. Whatever you're looking for, she's selling. She's by far the bot I had the most fun making and speaking to, right above Mobius.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Pardofelis](https://files.catbox.moe/iicqxp.json)<-
+->**Character JSON:** [Pardofelis](https://files.catbox.moe/6w5tbz.json)<-
 
-->![Pardofelis](https://files.catbox.moe/5hve9l.png)<-
+->![Pardofelis](https://files.catbox.moe/grdzf5.png)<-
 
 ***
 

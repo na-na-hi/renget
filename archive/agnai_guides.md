@@ -32,8 +32,4 @@ You can alternatively run `agnai -d` if you want the console to log all payloads
 
 #### agnai userscripts
 
-##### CYOA helper
-
-https://greasyfork.org/en/scripts/465392-agnaistic-cyoa-helper
-
-![](https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU9sQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--03402f7d908975b472a71f3526a67d9e78309ba0/file.png?locale=en)
+(CYOA helper currently broken)

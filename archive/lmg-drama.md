@@ -1,7 +1,7 @@
 #/𝖑𝖒𝖌/ 𝕯𝖗𝖆𝖒𝖆 𝕹𝖆𝖙𝖎𝖔𝖓
 ->*V 1.10 | Helped Making Waifus Sad & Angry Since 2023* <-
 ***
-->![DRAMA ALERT!!!!!!!!!!!!!!!!!](https://i.ibb.co/jDJbCWr/lmg-Drama-Nation-Image-Update-2.png)<-
+->![DRAMA ALERT!!!!!!!!!!!!!!!!!](https://i.ibb.co/KhmnHmP/Keemer-final-edit.png)<-
 ***
 !!! Danger
      By request, a drama Rentry was made. Should any new Rentry show up covering drama or whatnot, it will be added to this chart. This drama Rentry will stay on the template Rentry to maintain the peace. It's up to individual bakers to include any of theses links in their OP post, or be it in the recap, or anywhere else. Either way, It's not going to be my problem.

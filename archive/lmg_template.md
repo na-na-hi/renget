@@ -9,13 +9,12 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/13) llama.cpp GPU acceleration has been merged onto master>>93403996 >>93404319
 \>(05/10) GPU-accelerated token generation >>93334002
 \>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
 https://huggingface.co/reeducator/bluemoonrp-13b
 \>(05/06) MPT 7B, 65k context model trained on 1T tokens.
 https://huggingface.co/mosaicml/mpt-7b-storywriter
-\>(05/05) GPT4-x-AlpacaDente2-30b.
-https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 
 ►**FAQ**
 \>Wiki
@@ -92,6 +91,7 @@ https://github.com/anon998/simple-proxy-for-tavern
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+05/05/2023 | GPT4-x-AlpacaDente2-30b. https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 05/04/2023 | Allegedly leaked document from Google, fretting over Open Source LLM's. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 05/04/2023 | StarCoder, a 15.5B parameter models trained on 80+ programming languages: https://huggingface.co/bigcode/starcoderbase
 04/30/2023 | Uncucked Vicuna 13B released: https://huggingface.co/reeducator/vicuna-13b-free

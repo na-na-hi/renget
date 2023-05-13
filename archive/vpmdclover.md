@@ -37,6 +37,7 @@ Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentr
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
 N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 ??? | ? | Psyduck | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#psyduck)
+"Sentret" | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
@@ -247,6 +248,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
+* Sentret the Sentret
+	* [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs) *Not on Table*
 * Smith the Skorupi
 	* [Wanderer (ft. Smith)](https://rentry.org/cxhk8)
     * [Smith's Personality Blurb](https://rentry.org/hap2d)
@@ -360,6 +363,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
 * [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
+* [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

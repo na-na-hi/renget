@@ -9,8 +9,10 @@
 
 
 ***
+
 ##->JB<-
 ->https://files.catbox.moe/boapo2.txt<-
+
 
 ***
 ##->If you want to help me make an LLaMa trained on gpt-4 please send your logs here:<-

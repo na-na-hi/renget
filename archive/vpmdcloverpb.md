@@ -222,19 +222,22 @@
 >His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
 >Prefers to take his time and check out the sights
 >Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
+>His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper knows his old name so far.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
 >Cheerfulness and enthusiasm is what Wooper's all about. It'd take someone doing something very serious to make him mad.
 >Wooper frequently pesters Chespin to go on missions and treasure hunts, is enthusiastic to the point of obsession
 >Wooper tends to be treated as a living gun by Chespin in battle, being carried by his vines
->While unusually skilled at fighting with moves like Earth Power, Wooper is reckless and frail. Even just one moderately hard hit will knock him out
+>While unusually skilled at fighting with moves like Earth Power and Hydro Pump, Wooper is reckless and frail. Even just one moderately hard hit will knock him out instantly.
 >Due to this, Chespin prioritizes protecting Wooper from harm in battle, even going so far as to use himself as a shield
 >Chespin can't shake the feeling that something seems a little off about him
 >Despite that concern, the two are almost never seen apart.
 >Should something happen to Wooper, Chespin will ignore everything else, even immense fears, to get him back.
 >Other guild members trick Wooper into repeating memes, with the promise that the phrases are "human detectors"
+>His true name is Woopy, a name Wooper really isn't a fan of.
 
 >Together, Chespin and Wooper form Team Cozy. While they may bring in an outlaw every now and then, the main focus of their adventures are more mundane things such as comfy blankets, tasty foods, and pretty much anything that helps one relax. 
+>The two wear matching Mach Ribbons
 
 ###Mindy
 >A Mew that was found knocked out on the side of the road by Chespin and Wooper
@@ -383,6 +386,9 @@ Least Favorite:
 
 ###Psyduck
 >a psyduck with epilepsy that has to sleep and rest a lot more than the average pokemon but i can contribute incredible energy. Kinda punk but also sweet. And extremely, extremely broke
+
+###Sentret
+>Sentret the Sentret is a feral child. Bright eyed, bushy tailed and far too trusting. Will jump off a bridge if all his friends do it. Eats garbage. Is easily distracted. Also easily impressed, thinks every other person at the guild is the absolute coolest. Fearless, more from not comprehending danger than any sort of bravery. Will talk too much if you let him. Chronic idiot. Only vaguely interested in finding his dead parents.
 
 ###Tooca/Lapi
 >Lapi (male Axew):

@@ -11,9 +11,9 @@ It does exactly what it says in the title, it's a guide and a FAQ (Frequently As
 ######How do i hack my Switch? 
 [(back to top)](https://rentry.org/Switch_Guide_FAQ/)
 Read one of these guides (they're all good but can explain some steps in different ways, you're free to cross-check them when you're unsure about something):
-⤷https://rentry.org/SwitchHackingIsEasy
-⤷https://nh-server.github.io/switch-guide/
 ⤷https://switch.homebrew.guide/
+⤷https://nh-server.github.io/switch-guide/
+⤷https://rentry.org/SwitchHackingIsEasy
 
 ######Where are the sigpatches?
 [(back to top)](https://rentry.org/Switch_Guide_FAQ/)
