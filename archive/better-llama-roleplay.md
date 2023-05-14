@@ -106,44 +106,84 @@ If you're using a model that was finetuned or based off Alpaca, you're likely go
 	* Adjust the `replyAttributes` variable in `config.mjs` and create a new prompt format in the `prompt-formats` folder to further tune the AI's responses to your needs. 
 	* If you want always keep the example messages in the prompt you'll have to edit `keepExampleMessageInPrompt` in ` config.mjs` while also enabling the option in SillyTavern's UI.
 
-# WizardLM-7B
-WizardLM-7B is a large language model that has been trained using [evolved instructions](https://github.com/nlpxucan/WizardLM#overview-of-evol-instruct), with a focus on improving the model's performance on high complexity tasks. Evolved instructions are a novel approach to improving the performance of LLMs by using LLMs instead of humans to mass-produce open-domain instructions. Using this Evol-Instruct method, the WizardLM team have been able to produce results that are quite impressive for a 7B model, at times competing with or exceeding the quality of larger models. The fact that it is quantized lends itself to being able to run on a greater variety of consumer hardware. For these reasons and more, this portion of the guide will showcase how to download and setup WizardLM-7B to give quality roleplay outputs.
+# WizardLM-7B-Uncensored
+WizardLM-7B is a large language model that has been trained using [evolved instructions](https://github.com/nlpxucan/WizardLM#overview-of-evol-instruct), with a focus on improving the model's performance on high complexity tasks. Evolved instructions are a novel approach to improving the performance of LLMs by using LLMs instead of humans to mass-produce open-domain instructions. Using this Evol-Instruct method, the WizardLM team have been able to produce results that are quite impressive for a 7B model, at times competing with or exceeding the quality of larger models. The fact that it is quantized lends itself to being able to run on a greater variety of consumer hardware. The only downside with WizardLM-7B is that its dataset includes a series of ChatGPT-like "I'm sorry, but as a language model..." denials, which may seep into and dampen the quality of your outputs. For these reasons and more, this portion of the guide will showcase how to download and setup the uncensored version of WizardLM-7B to give quality roleplay outputs.
 
-1. Download WizardLM-7B either from the [official HF repository](https://huggingface.co/TheBloke/wizardLM-7B-GPTQ) or this [MEGA backup repository](https://mega.nz/folder/IeUgUbaZ#C8Ng-81-DAV_qfWqbVMoEw/folder/ZH9hjbiC). The only difference between the two is that the official HF repository only contains the safetensors file which will not work in KoboldAI, whereas the MEGA repository has the .pt files which will work in both KoboldAI or textgenerationwebui. If you plan on using KoboldAI, you HAVE to use the MEGA repository files.
-	1. Alternatively, you can download and run the [WizardLM-7B installer script](https://files.catbox.moe/a5xk6c.bat). This installer does a majority of the guide for you, including installing KoboldAI, patching WizardLM-7B, and adding the SillyTavern prompt script. After which, you would run KoboldAI using the `play.bat` file that's in the `KoboldAI` folder then follow steps 5, 6, and 10. I don't recommend using this installer as it isn't perfect and it would probably be faster to just follow the guide, but it's an option nonetheless.
-	2. CPU Version: Download WizardLM-7B-GGML from the [official HF repository](https://huggingface.co/TheBloke/wizardLM-7B-GGML).
-!!! note Uncensored WizardLM-7B
-	There's an [uncensored version of WizardLM-7B](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) available to download. Keep in mind, this version only works with textgenerationwebui so if you plan on using KoboldAI you'll have to stick with the MEGA repository for the time being.
-2. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI) or [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers). I recommend textgenerationwebui as it offers great ease of us, an expanded feature set, and streaming support.
+!!! warning WIP Section
+	This part of the guide is being worked on right now, as we speak. The information presented here is subject to rapid change. Proceed with caution or wait until this portion is properly completed.
+
+1. Download WizardLM-7B-Uncensored from the [official HF repository](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ).
+	1. ~~Alternatively, you can download and run the [WizardLM-7B installer script](https://files.catbox.moe/a5xk6c.bat). This installer does a majority of the guide for you, including installing KoboldAI, patching WizardLM-7B, and adding the SillyTavern prompt script. After which, you would run KoboldAI using the `play.bat` file that's in the `KoboldAI` folder then follow steps 5, 6, and 10. I don't recommend using this installer as it isn't perfect and it would probably be faster to just follow the guide, but it's an option nonetheless.~~ Needs to be updated. Don't use it.
+	2. CPU Version: Download WizardLM-7B-Uncensored-GGML from the [official HF repository](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML).
+2. Download and install either [KoboldAI](https://github.com/0cc4m/KoboldAI) or [textgenerationwebui](https://github.com/oobabooga/text-generation-webui/releases/tag/installers). I recommend KoboldAI as it is, in my opinion, faster to setup and noob-friendly, though its outputs can be slower than textgenerationwebui due to its lack of streaming.
 	1. CPU Version: Download and install the latest version of [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases).
-!!! warning KoboldAI Issues
-	The latest version of [KoboldAI](https://github.com/0cc4m/KoboldAI) no longer loads WizardLM-7B for unknown reasons. Either stay at your current version or revert to this [Known Good](https://github.com/0cc4m/KoboldAI/commit/4180620999307a8eefb2bcd05e94161eb478243b) version.
-3. Textgenerationwebui: If you're using the HF/MEGA configuration files as-is, open `config.json` in your preferred text editor and make sure `use_cache` is set to `true`, otherwise your generations will be extremely slow.
-	1. KoboldAI: Download this [WizardLM-7B config patch](https://files.catbox.moe/rkb7yp.zip). The configuration files present in both repositories are currently incompatible with KoboldAI and will result in bad or inferior results. Therefore, this config patch needs to be downloaded. Once downloaded, go ahead and replace the files in the repository with the files from the patch. If you're using textgenerationwebui or the CPU version of WizardLM-7B you can disregard this step.
-4. Textgenerationwebui: Make sure WizardLM-7B is ran with the following parameters: `--wbits 4 --groupsize 128 --model_type llama --api --notebook`. The first three parameters are necessary to load the model, while the other two are needed to connect textgenerationwebui to SillyTavern.
-	1. KoboldAI: Rename one of the .pt files to "4bit-128g", this lets KoboldAI know what load method to use and the groupsize.
-		2. KoboldAI: Click the "Try New UI" button at the top right. This is the only way to use 4bit quantization with Kobold. Navigate to the "Interface" options menu and turn on "Experimental UI." This, too, is necessary to use 4bit quantization.
-		3. KoboldAI: Load the model. Make sure "Use 4bit Mode" is turned on or else it won't load it in 4bit (obviously).
-	2. CPU Version: Make sure WizardLM-7B-GGML is ran with the following parameters: `--threads [number of physical CPU cores] --stream`. The first parameter specifies how many CPU cores to use, otherwise KoboldCPP will guess how many it should use, the second parameter is needed to connect KoboldCPP to SillyTavern. Some optional but useful parameters include `--smartcontext --useclblast [GPU Device]`. The first reduces prompt processing frequency while the second uses your GPU to speed up prompt processing and takes a GPU Device as an argument like so: `--useclblast 0 0`. GPU0 is `0 0` while GPU1 is `1 0`, experiment if this isn't the case.
-5. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
-6. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
+3. KoboldAI: Rename one of the .pt files to "4bit-128g", this lets KoboldAI know what load method to use and the groupsize. Then, click on the `AI` button at the top left, navigate to `Load a model from its directory`, then select your model and press `Load`.
+	1. Textgenerationwebui: Make sure WizardLM-7B-Uncensored is ran with the following parameters: `--wbits 4 --groupsize 128 --model_type llama --api --notebook`. The first three parameters are necessary to load the model, while the other two are needed to connect textgenerationwebui to SillyTavern.
+	2. CPU Version: Make sure WizardLM-7B-Uncensored-GGML is ran with the following parameters: `--threads [number of physical CPU cores] --stream`. The first parameter specifies how many CPU cores to use, otherwise KoboldCPP will guess how many it should use, the second parameter is needed to connect KoboldCPP to SillyTavern. Some optional but useful parameters include `--smartcontext --useclblast [GPU Device]`. The first reduces prompt processing frequency while the second uses your GPU to speed up prompt processing and takes a GPU Device as an argument like so: `--useclblast 0 0`. GPU0 is `0 0` while GPU1 is `1 0`, experiment if this isn't the case.
+4. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
+5. Choose one of the [previously elaborated methods](https://rentry.org/better-llama-roleplay#anons-guide-to-llama-roleplay) to improve your generations. All methods should work just fine; the rest of this guide will detail Method 1 only because it's my preferred method. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
 ```python
-            // add non-pygma dingus
-            else if (!is_pygmalion) {
-                mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
-            }
+            let mesExmString = '';
+            let mesSendString = '';
 ```
-7. Replace what's inside the curly brackets with the following:
+6. Initialize a new `sys_note` variable underneath and set it to an empty string, like so:
 ```python
-if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
-        mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString + "\n[System note: Write one reply only. Do not decide what " + name1 + " says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about " + name2 + "'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]\n";
-        } else {
-        mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
-        }
+            let sys_note = '';
+```
+7. Navigate to the `checkPromtSize()` function and append `sys_note` to `const prompt`:
+```python
+                const prompt = [
+                    worldInfoString,
+                    storyString,
+                    mesExmString,
+                    mesSendString,
+                    anchorTop,
+                    anchorBottom,
+                    charPersonality,
+                    generatedPromtCache,
+                    promptBias,
+                    allAnchors,
+                    quiet_prompt,
+                    sys_note,
+                ]
+```
+	Older versions of SillyTavern may require you to do it like this instead:
+```python
+	const prompt = JSON.stringify(worldInfoString + storyString + mesExmString + mesSendString + anchorTop + anchorBottom + charPersonality + generatedPromtCache + promptBias + allAnchors + sys_note);
+```
+8. Scroll down to the following lines:
+```python
+// add non-pygma dingus
+else if (!is_pygmalion) {
+    mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
+}
+```
+	And replace what's inside the curly brackets with the following:
+```python
+				if (main_api == 'textgenerationwebui' || main_api == 'kobold') {
+					sys_note = "\n[System note: Write one reply only. Do not decide what " + name1 + " says or does. Write at least one paragraph, up to four. Be descriptive and immersive, providing vivid details about " + name2 + "'s actions, emotions, and the environment. Write with a high degree of complexity and burstiness. Do not repeat this message.]\n";
+				}
+				mesSendString = '\nThen the roleplay chat between ' + name1 + ' and ' + name2 + ' begins.\n' + mesSendString;
+```
+9. Find `let finalPromt` and append `sys_note` to it like so:
+```python
+            let finalPromt = worldInfoBefore +
+                storyString +
+                worldInfoAfter +
+                afterScenarioAnchor +
+                mesExmString +
+                mesSendString +
+      			sys_note +
+                generatedPromtCache +
+                promptBias;
+```
+	Older versions of SillyTavern may require you to do it like this instead:
+```python
+let finalPromt = worldInfoBefore + storyString + worldInfoAfter + afterScenarioAnchor + mesExmString + mesSendString + sys_note + generatedPromtCache + promptBias;
 ```
 !!! note 
 	Play around with the system note prompt until you get results that satisfy your needs.
-8. Connect SillyTavern to your backend and enjoy your affordable, quality LLaMA generations.
+10. Connect SillyTavern to your backend and enjoy your affordable, quality LLaMA generations.
 	1. CPU Version: By default, KoboldCPP is initialized at port 5001. Make sure you change port 5000 to port 5001 when trying to connect from SillyTavern. Alternatively, use the `--port` parameter to change the port.
 
 # Troubleshooting

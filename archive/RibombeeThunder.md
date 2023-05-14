@@ -648,7 +648,7 @@ Meanwhile, Sneasel retrieved Booker and put him back in her pouch. Then she bega
 
 “It can still hit us if we don’t notice in time!” Sneasel said. “Be careful! Booker, got anything that can slow it down?”
 
-Booker looked down at the few items remaining in the pouch, and picked up a jagged purple Sleep Wand. He swung it over his head and blasted Manectric in the face with a beam of purple energy. It stayed awake, but it stumbled and whined, giving Charm and Sneasel a chance to unload more attacks at its left foreleg to the point where it began to limp slightly. It recovered from its daze and resumed pouncing and biting, mixing in a few lightning bolts as well.
+Booker looked down at the few items remaining in the pouch, and picked up a jagged purple Sleep Wand obtained from the second Monster House. He swung it over his head and blasted Manectric in the face with a beam of purple energy. It stayed awake, but it stumbled and whined, giving Charm and Sneasel a chance to unload more attacks at its left foreleg to the point where it began to limp slightly. It recovered from its daze and resumed pouncing and biting, mixing in a few lightning bolts as well.
 
 Charm and Sneasel stayed apart from each other so the boss would have to divide its attention between them. Whenever Sneasel was attacked, she used Quick Attack to dodge, but after what happened last time, she made sure to stay low and scrape her claws along the rocky ground beneath the petals, which helped her keep her footing on the slippery surface. On the other hand, Charm was too slow to evade, and had to rely on the orb to help her dodge.
 
@@ -690,7 +690,7 @@ Booker considered that question, glancing around the room as he did so. His rovi
 
 ‘Sounds risky.’
 
-Booker paused. ‘Yeah,’ he thought. “And I never thought I’d say this about something involving fire, but... I’m willing to take that risk.’
+Booker paused. ‘Yeah,’ he thought. ‘And I never thought I’d say this about something involving fire, but... I’m willing to take that risk.’
 
 
 -> https://www.youtube.com/watch?v=ElAC1Dii2Ec ->

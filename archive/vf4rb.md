@@ -28,6 +28,7 @@ https://rentry.org/9xd48    Extra: A brief history of Megamelons
 https://rentry.org/ztsww   Extra: Saving Penthesilia Parley (Includes: Many anons)
 https://rentry.org/4cpmwk Extra: Midnight Walk (Starring: My)
 https://rentry.org/n35aak Extra: A Peaceful Nap (Includes: My)
+https://rentry.org/p75bi Extra: Florana's Gift (Includes: Florana, Haitham)
 
 ##One time
 https://rentry.org/mt832  Extra: A Blessing in Disguise (Includes: Margaret's parents) *WARNING: Romance, kissing* 

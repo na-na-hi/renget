@@ -1,4 +1,34 @@
 ▶NEW CLIPS
+>Airstrike in Ternopol, likely fuel depot
+https://files.catbox.moe/wgm3jh.mp4
+https://files.catbox.moe/g7dipa.MP4
+>MOAR from Khmelnitsky ammo dump
+https://files.catbox.moe/wpjiku.mp4
+https://files.catbox.moe/d0krqj.mp4
+>One Mi-8 shot down over Klintsy in Bryansk region
+https://files.catbox.moe/h6tidf.mp4
+https://files.catbox.moe/149xm9.mp4
+>Second Mi-8 helicopter crashing in Unecha district, near the village of Volkustichi in Bryansk region.
+https://files.catbox.moe/7kdl0p.mp4
+>Su-34 crash in Klintsy district of the Bryansk region
+https://files.catbox.moe/jqas4y.mp4
+https://files.catbox.moe/9igg0k.mp4
+>Russian arrivals at ammo depot in Khmelnitsky
+https://files.catbox.moe/frsc6b.mp4
+https://files.catbox.moe/5ygerf.mp4
+https://files.catbox.moe/xqqe3u.mp4
+>Fighting at Spronoe
+https://files.catbox.moe/v1haj6.MP4
+https://files.catbox.moe/t2ey5v.MP4
+>Counter-offensyiv has begun, repelled by 132nd brigade
+https://files.catbox.moe/bfn81g.mp4
+>Fresh TOS-1A "Solntsepyok"
+https://files.catbox.moe/fynd4e.mp4
+>Equipment and AFU soldiers rekt using Krasnopol artillery shells - Svatovo-Kremennaya line.
+https://files.catbox.moe/7bptjt.mp4
+https://files.catbox.moe/a06bcu.mp4
+>Artillerymen spectacularly destroy a hohol 2S1 Gvozdika
+https://files.catbox.moe/k5aozq.MP4
 >KA-52 kino
 https://files.catbox.moe/qj46t9.mp4
 >Battle for Belogorovka

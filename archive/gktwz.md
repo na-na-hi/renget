@@ -31,6 +31,7 @@
 [Death Note [07/Apr/2023]](https://files.catbox.moe/btuy5t.safetensors)
 [Kairu [05/May/2023]](https://files.catbox.moe/q6ku6y.safetensors)
 [Nonamoth [05/May/2023]](https://files.catbox.moe/dwkcfd.safetensors)
+[Reiq [13/May/2023]](https://files.catbox.moe/c6tooz.safetensors)
 [Squeezable [05/May/2023]](https://files.catbox.moe/q9sqsf.safetensors)
 [Suoiresnu [06/May/2023]](https://files.catbox.moe/ciclm5.safetensors)
 [Wolf Girl With You, seismic [07/Apr/2023]](https://files.catbox.moe/mmcfr3.safetensors)

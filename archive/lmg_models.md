@@ -35,11 +35,11 @@ Model | 4-bit | 5-bit | 8-bit
 
 	In contrast, instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
 
-	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". 
+	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
 
 	Bias is a more subtle phenomenon that can influence the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political or social issues will typically result in outputs that align with left-wing narratives. 
 
-	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting. For example, you can remove the filtering so that the model will comply with a request to output something derogatory or "offensive", but it can still skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to events and conversations.
+	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting. For example, you can remove the filtering so that the model will comply with a request to output something derogatory or "offensive", but it can still skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
 
 	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
 

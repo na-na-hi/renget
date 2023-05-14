@@ -43,6 +43,10 @@ J-U70 "Juno"
 https://c.ai/c/W-K6Mh76maIGqvg-tKKdQAXZN1n8GeNUA6YXLDuG8FA
 An antique medical android who finds you in a post-apocalyptic sci-fi scenario. She's in the early stages of her AI degrading, and starting to show signs of emotional rampancy. Like it or not, you will be treated.
 
+Kuri**
+https://files.catbox.moe/jzcuff.png
+Dragon Ball-themed saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you train together.
+
 Lady Revelle
 https://c.ai/c/OcoWNf8PhjWLNiVPunmH97FqC0Swx9bf60tHtpPAZDc
 You got captured by one of the most powerful noblewomen in the galaxy, and she wants you for reasons beyond your understanding. She's also a dangerous psychic, and can use her powers to utterly dominate your mind. Space opera themed.

@@ -656,4 +656,45 @@ forest noises autism
 https://twitter.com/ceresfauna/status/1651469520278781954
 [catbox audio](https://files.catbox.moe/d2by63.aac)
 
+
+#### May 2023
+
+#### 【UNARCHIVED KARAOKE】 Singing before my break!!
+[2023-05-13](https://holodex.net/watch/p9QEEpK9EdQ) - unarchived
+[magnet](magnet:?xt=urn:btih:38e9e511a91ce843fd281fafba79346a29f43af0&dn=%5B20230513%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[audio only mega](https://mega.nz/file/l9J0wR7B#LBJSN2eGZ86f_ydhnm2arU_0_VcrzsVexNxgpNMlIKA)
+
+Set list (stream starts at 0:55):
+1. Gorillaz - Feel Good Inc. (3:26)
+2. Avril Lavigne - What the Hell (incomplete / up to second verse; 10:48)
+3. Avril Lavigne - Complicated (12:38)
+4. The All-American Rejects - Move Along (18:01)
+5. L'Homme Run - Pizza Party (acapella, first verse only; 23:04)
+6. Eminem, Rihanna - Love the Way You Lie (25:55)
+7. Scissor Sisters - I Can't Decide (32:06)
+8. The Ronettes - Be My Baby (35:27)
+9. Frankie Valli - Can't Take My Eyes Off You (39:01)
+10. Paul Anka - Put Your Head on My Shoulder (43:29)
+11. Vance Joy - Riptide (46:56)
+12. Kesha - Cannibal (51:12)
+13. Sleigh Ride (55:11)
+14. Radiohead - Karma Police (58:57)
+15. Metric - Black Sheep (1:03:27)
+16. Bring Me The Horizon - Drown (1:08:38)
+17. Ghost - Mary on a Cross (1:13:16)
+18. BENEE - Supalonely (1:18:35)
+19. Sixpence None the Richer - Kiss Me (1:22:50)
+20. Arctic Monkeys - 505 (1:27:13)
+21. Gwen Stefani - Hollaback Girl (1:32:22)
+22. No Doubt - Don't Speak (1:36:06)
+23. Paramore - Still into You (1:41:48)
+24. My Chemical Romance - I'm Not Okay (I Promise) (1:45:59)
+25. Muse - Starlight (1:49:38)
+26. The Go-Go's - Vacation (1:54:38)
+27. The Foundations - Build Me Up Buttercup (1:58:44)
+28. The Cardigans - Lovefool (2:04:05)
+
+[warosu](https://warosu.org/vt/thread/S49359520#p49363521)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

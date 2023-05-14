@@ -246,6 +246,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
+	* [Ross Sleeps...?](https://rentry.org/opi29) *Not on Table*
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Sentret the Sentret
@@ -364,6 +365,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
 * [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 * [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
+* [Ross Sleeps...?](https://rentry.org/opi29)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
