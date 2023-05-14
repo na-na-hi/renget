@@ -31,9 +31,10 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tanchjim Ola Bass (bright V) - $45
 • Truthear x Crinacle Zero (Harman) - $50
 • Moondrop Aria Snow Edition (warm neutral) - $80
+• KiiBoom Allure (mild V) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
 
-##MidFi IEMs ($120 - $210)
+##MidFi IEMs ($110 - $210)
 ***
 *Hall of Fame*
 • Juzear 41T (neutral) - $165
@@ -42,6 +43,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • SeeAudio Yume II (Harman) - $200
 
 *Honorable Mentions*
+• Dunu Kima (neutral) - $110
 • Letshuoer D13 (bassy W) - $120
 • Tinhifi T4 Plus (bright V) - $120
 • Sennheiser IE200 (W-shape) - $150

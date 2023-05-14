@@ -161,7 +161,7 @@ Non W++ version: https://files.catbox.moe/flvmpk.png
 ==Total Tokens:== 
 - 518 (With example messages)
 - 318 (Without example messages)*
-#####Risa (Phantasy Start Online 2) 
+#####Risa (Phantasy Star Online 2) 
 Non W++ version: https://files.catbox.moe/5k6u71.png
 
 ==Total Tokens:== 
@@ -186,4 +186,7 @@ Happens a lot when you want to be alone with one character or want to exclude a 
 
 **4. Help! The bots keep puppeteering me and putting words in my mouth!**
 
-I noticed this happens very rarely with GPT 3.5 and more occasionally with the Multi-character cards. It just my own assumption, but the bots might have mistaken "You" as another character instead of well... (You). Though this is just baseless assumption and should be taken with a grain of salt. The best advice I can give (You) is to edit out the "You" part the bot generate. It's a lot more cheaper than regenerating the message.
+I noticed this happens very rarely with GPT 3.5 and more occasionally with the Multi-character cards. It just my own assumption, but the bots might have mistaken "You" as another character instead of well... (You). Though this is just baseless assumption and should be taken with a grain of salt. ~~The best advice I can give (You) is to edit out the "You" part the bot generate. It's a lot more cheaper than regenerating the message.~~
+If you use Silly Tavern or other frontend that lets you edit the system prompt, try to add "Do not write {{user}} dialogue into the story" or some other variations into the main prompt. And if still doesn't work put it into your Jailbreak Prompt like the example bellow:
+==[System Note: Do not write {{user}} dialogue into the story]==
+Try to change the wording if it still doesn't work or maybe add "you" character into the prompt above if it keep generating You dialogue.

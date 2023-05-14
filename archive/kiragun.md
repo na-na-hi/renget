@@ -7,11 +7,11 @@ Equipment translation: https://rentry.co/kiragun
 ---
 **Shigure Kira Stigma**
 
-T: Ice DMG +30%, during the effective period of [Candy Flip] after it is triggered through B piece, when all team member’s max HP is greater or equivalent to 2000/4000/6000, host’s Total DMG +15%/17%/19%, if max HP exceeds 6000, additionally +1% for every 400 exceeding HP, max 5% (cannot be stacked). 
+T: Ice DMG +30%, during the effective period of [Candy Flip] after it is triggered through B piece, when all team members' max HP is greater or equivalent to 2000/4000/6000, team Total DMG +15%/17%/19%, if max HP exceeds 6000, additionally +1% for every 400 exceeding HP, max 5% (cannot be stacked). 
 
 M: Total DMG +20%, when Charged ATK or Ultimate hits an enemy will inflict 200% ATK of Ice DMG (CD: 5s), Weapon Active’s Total DMG +30%.
 
-B: Ice DMG +25%, after casting Weapon Active, all team members enter [Candy Flip] effect, last for 15s, when all team member’s max HP is greater or equivalent to 2000/4000/6000, host’s Elemental DMG +32%/34%/36%, if max HP exceeds 6000, additionally +2% for every 400 exceeding HP, max 10% (cannot be stacked), when equipped by Shigure Kira, this effect can be triggered upon casting QTE or Ultimate.
+B: Ice DMG +25%, after casting Weapon Active, all team members enter [Candy Flip] effect, last for 15s, when all team members'  max HP is greater or equivalent to 2000/4000/6000, team Elemental DMG +32%/34%/36%, if max HP exceeds 6000, additionally +2% for every 400 exceeding HP, max 10% (cannot be stacked), when equipped by Shigure Kira, this effect can be triggered upon casting QTE or Ultimate.
 
 2 set: Total DMG +20%, when host enters field, all enemies receive +15% Elemental DMG, and receive +7.5% Total DMG, if the max HP of the host who equips 2 set of this stigma exceeds 6000, enemies additionally receive +1% Total DMG for every 400 exceeding HP, max 5%, last for 15s, can be refreshed (cannot be stacked). 
 

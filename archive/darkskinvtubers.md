@@ -142,6 +142,7 @@ BunnyBlasty[ES]|[Twitter](https://twitter.com/OneBunnyQueen) [Twitch](https://ww
 Parkdona ch. 박도나[KR]|[Twitter](https://twitter.com/parkdonakr) [Youtube](https://www.youtube.com/@ParkDona211) [Twitch](https://www.twitch.tv/pdona_d)|Korean - ASMR
 諾海[CH]|[Twitter](https://twitter.com/Nuohai0104/status/1650897620565651456) [Twitch](https://www.twitch.tv/nuohai_0104)|Chinese
 Selphius[GER]|[Twitter](https://twitter.com/SelphyMelody) [Youtube](https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q) [Twitch](https://www.twitch.tv/selphy)|German
+Myun[GER]|[Twitter](https://twitter.com/Myunchen_) [Youtube](https://www.youtube.com/@myun) [Twitch](https://www.twitch.tv/myun)|German
 
 ---
 

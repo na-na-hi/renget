@@ -10,12 +10,12 @@ Make sure to provide some kind of evidence that it was made by a /gedg/ poster. 
 Of course, game jam entries should be added to the list of games without any fuss. /agdg/ events are included here because of cross-posters. Entries that are submitted to /agdg/ events that have also appeared on /gedg/ posters will be listed.
 
 * [Fools in April Jam](https://itch.io/jam/gedg-fools-in-april) -- April 2nd 2023 at 1:30 AM GMT to April 13th 2023 at 1:30 AM GMT
-	* [Bl@c-Man](https://zzc3.itch.io/blac-man) by [zzc3](https://zzc3.itch.io/)
-	* [Lianshi](https://aruseus.itch.io/lianshi) by [Aruseus](https://aruseus.itch.io/)
-	* [Space Case](https://froggygreen.itch.io/space-case) by [FroggyGreen](https://froggygreen.itch.io/)
+	* [Bl@c-Man](https://itch.io/jam/gedg-fools-in-april/rate/2013303) by [zzc3](https://zzc3.itch.io/)
+	* [Lianshi](https://itch.io/jam/gedg-fools-in-april/rate/2008418) by [Aruseus](https://aruseus.itch.io/)
+	* [Space Case](https://itch.io/jam/gedg-fools-in-april/rate/1998235) by [FroggyGreen](https://froggygreen.itch.io/)
 
 * [/agdg/ Demo Day 50](https://itch.io/jam/agdg-demo-day-50) -- May 5th 2023 at 7:00 AM GMT to May 8th 2023 at 7:00 AM GMT
-	* [BATTY VAMPS](https://frenchfriesguy.itch.io/batty-vamps-3d) by [frenchfriesguy](https://frenchfriesguy.itch.io/)
+	* [BATTY VAMPS](https://itch.io/jam/agdg-demo-day-50/rate/2014598) by [frenchfriesguy](https://frenchfriesguy.itch.io/)
 
 ***
 ->

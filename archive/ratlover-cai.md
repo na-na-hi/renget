@@ -124,6 +124,13 @@ Vivi from FFIX. An innocent and helpless Black Mage, holding far much more power
 [JSON](https://files.catbox.moe/eq9b1j.json)
 Jack Garland, from Stranger of Paradise. A man solely focused on his quest, killing Chaos. Will not let anyone stop him from killing Chaos, including you.
 
+##Oswald the Flagellator
+![Oswald](https://imgur.com/wHAgTUG.png)
+[CAI](https://beta.character.ai/chat?char=FiA0bd0iRzU_cQynZy8h5v4mIPBQARQdUrvBNgABQBQ)
+[Card](https://www.characterhub.org/characters/ratlover/oswald-the-flagellator)
+[JSON](https://files.catbox.moe/n81yhm.json)
+You've just been made the personal acolyte of this cult leader of a rat. Will you be the useful acolyte he hopes for?
+
 #Women
 
 ##Ami

@@ -28,6 +28,7 @@
 ##Styles
 [AccelArt [06/May/2023]](https://files.catbox.moe/os1vz2.safetensors)
 [BlushySpicy [07/May/2023]](https://files.catbox.moe/666d0v.safetensors)
+[Crimson Comics [14/May/2023]](https://files.catbox.moe/kbg3j9.safetensors)
 [Death Note [07/Apr/2023]](https://files.catbox.moe/btuy5t.safetensors)
 [Kairu [05/May/2023]](https://files.catbox.moe/q6ku6y.safetensors)
 [Nonamoth [05/May/2023]](https://files.catbox.moe/dwkcfd.safetensors)

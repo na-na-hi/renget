@@ -482,3 +482,19 @@ Razina nodded. "Yes, and we have our own myths and legends as well. But we don't
 Razina smiled slightly. "It's alright," she said. "I just don't want to hear about other places right now. We're here in our own city, and that's what matters."
 
 I nodded in agreement, feeling a bit guilty for bringing up the topic. "You're right," I said. "I'm happy to be here with you and to learn more about the sand people."
+
+>024: The Court of Justice
+
+As I walked with Razina through the sandy streets of the hidden city, we stumbled upon a large gathering of Sand People. Curious, I asked her what was going on.
+
+"It's a court hearing," she said, her expression darkening. "A serval warrior was caught stealing from a civilian's house while on duty. It's a serious offense."
+
+I watched as the serval warrior was brought before the judge, a fellow Sand Person. The evidence was presented, and it was clear that the serval had indeed committed the crime. Razina was visibly angry and disgusted by the serval's actions.
+
+The jury found the serval guilty and handed down a severe punishment. They took away all of her magic and sentenced her to a journey through the desert to rediscover herself.
+
+I was surprised to learn that they could take away someone's magic, and I asked Razina about it. She explained that it was a temporary punishment for a year or two, and it was meant to be a chance for the guilty party to reflect on their actions and make amends.
+
+As we left the court, I couldn't help but feel a sense of respect for the Sand People and their sense of justice. They held themselves and their fellow tribe members accountable for their actions, and they weren't afraid to dole out harsh punishments when necessary.
+
+I wondered if the other Kash'gon tribes had similar systems of justice and punishment. It was clear to me that the Sand People took their responsibilities seriously, and it made me feel proud to be among them.

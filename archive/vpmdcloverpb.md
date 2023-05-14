@@ -222,6 +222,7 @@
 >His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
 >Prefers to take his time and check out the sights
 >Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
+>Never drank alcohol before, but due to an occasion where he unknowingly drank several bottles of it, has lightened up. Gets heavily embarrassed when he sobers up and finds out he got drunk.
 >His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper knows his old name so far.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
