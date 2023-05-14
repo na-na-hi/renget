@@ -483,6 +483,13 @@ NAI Trained: pixeldrain com u kS25QCQY
 	> I suppose you use the e621 tags for each sister?
 	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
 
+### 3D Midna (trained on Fluffyrock lion low-lr e22 offset-noise e7)
+	https://files.catbox.moe/88ov7p.safetensors
+
+### Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
+
+	https://pastebin.com/U7pGcJZ1
+
 ## LORAs from the Discord
 
 ### Various Characters (FinalEclipse's Trash Pile)

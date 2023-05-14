@@ -13,9 +13,6 @@ Some articles are already sold-out for certain sizes for the OMOCAT merch.
 - - -
 **Streaming ticket**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
-**Additional venue tickets will be made avalible on 13th May 10AM PDT
-If you want to attend the concert without buying a scalped ticket it's probably the last last chance.**
-https://www.ticketmaster.com/event/0A005E712A3809AD
 
 **Merch** (Order period ends 29th May 0200 PDT)
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert_madetoorder

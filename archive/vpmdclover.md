@@ -57,6 +57,9 @@ Skull | M | Cubone | | Clover Guild Member | Quiet
  | M | Mudkip | | Outsider | MEME CLOWN
 Clara | F | Lucario | Smoke (Human, M, shares body with Clara)||[Docile](https://rentry.org/imwuw)
 
+####[Minor Characters Table](https://rentry.org/pmdg_clover_minor)
+[Minor Characters Personaility List](https://rentry.org/pmdg_clover_minor_personalities)
+
 ####Guild Affinity Chart by
 ![Guild Affinity Chart v1](https://i.imgur.com/RQDrdJH.png)
 [Personality Blurbs Masterlist](https://rentry.org/vpmdcloverpb)
@@ -136,7 +139,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
-####Current Collaborative Writing Project Pieces
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)

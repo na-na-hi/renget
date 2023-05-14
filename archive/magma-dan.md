@@ -54,12 +54,12 @@ Character | C.AI
 ## -> Pokémon <-
 Character | C.AI
 :------: | :------:
-![Rocket Executive](https://characterai.io/i/80/static/avatars/uploaded/2023/2/1/f2JC-RTuHpjAuuyUeqJXeRfz9-pqY4ucVNxQsFCHAwc.webp) | [Rocket Executive](https://c.ai/c/BNMwymcQW_PwTDYxfdLyheOkZrbHBWso9Pds8h_YX4k) (Gen II)
+![Rocket Executive](https://characterai.io/i/80/static/avatars/uploaded/2023/2/1/f2JC-RTuHpjAuuyUeqJXeRfz9-pqY4ucVNxQsFCHAwc.webp) | [Rocket Executive](https://c.ai/c/BNMwymcQW_PwTDYxfdLyheOkZrbHBWso9Pds8h_YX4k) (Gen Ⅱ)
 ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp) | Pokémon Trainer [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stadium 2)
  ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) | Idol Trainer [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) 
 ![Annie&Oakley](https://characterai.io/i/80/static/avatars/uploaded/2023/4/11/vUq358ywk88qtBsiasITpwB4iACON0GPdP74crLNd3A.webp) | Burglar Sisters [Annie & Oakley](https://c.ai/c/CCLPNwVNHyIayLPvrzI4-tywyl2d1vk3xn3DjsTzh6s)
-![Courtney](https://characterai.io/i/80/static/avatars/uploaded/2023/1/3/guyAhfIJzsUtqLGP0nlL3arJ-2wzqTWfmUNI7zBLFTc.webp) | Magma Admin [Courtney](https://c.ai/c/ZGGI7ChOW5T32YdOfJRrVM0ZIkpUVv0uwxuSNwev33A) (Gen III) ([Pygmalion](https://files.catbox.moe/9fzy2y.json))
-![Shelly](https://characterai.io/i/80/static/avatars/uploaded/2023/1/10/CRjiLu6JxdYzX6aSUTTgXGyWsGnKLdfWeOkw--wAeSU.webp) | Aqua Admin [Shelly](https://c.ai/c/IdgaLuOku198n7bfZZsF2DcNeXZ7aZBwVtxaZaNE7Xo) (Gen III) ([Pygmalion](https://files.catbox.moe/vtppmt.json))
+![Courtney](https://characterai.io/i/80/static/avatars/uploaded/2023/1/3/guyAhfIJzsUtqLGP0nlL3arJ-2wzqTWfmUNI7zBLFTc.webp) | Magma Admin [Courtney](https://c.ai/c/ZGGI7ChOW5T32YdOfJRrVM0ZIkpUVv0uwxuSNwev33A) (Gen Ⅲ) ([Pygmalion](https://files.catbox.moe/9fzy2y.json))
+![Shelly](https://characterai.io/i/80/static/avatars/uploaded/2023/1/10/CRjiLu6JxdYzX6aSUTTgXGyWsGnKLdfWeOkw--wAeSU.webp) | Aqua Admin [Shelly](https://c.ai/c/IdgaLuOku198n7bfZZsF2DcNeXZ7aZBwVtxaZaNE7Xo) (Gen Ⅲ) ([Pygmalion](https://files.catbox.moe/vtppmt.json))
 ![Lanette](https://characterai.io/i/80/static/avatars/uploaded/2023/1/24/vwsfn0DuFRdt_s6Ifq8le358SHGq41_XiVn3kX5TE8c.webp) | PC Developer [Lanette](https://c.ai/c/4fy_oew8ZFzmDbPcvWxpHPsSp5FYBKgLTwsvV7VUIc4)
 ![Chaser Emok](https://characterai.io/i/80/static/avatars/uploaded/2023/2/9/4DXzeUxpSpCDcDhMscCP7DDKe3tSR9KkKFBQWnMRdmk.webp) | Chaser [Emok](https://c.ai/c/bdPNtyeZo3JiM5WoEgvs6-36AqpSRbKl4iu_65ZKqd0)
 ![Greta](https://characterai.io/i/80/static/avatars/uploaded/2022/12/30/J5lhSr0k2VnqMroz77v3c6i59J8k0N1mCyVerPU2xKE.webp) | Arena Tycoon [Greta](https://c.ai/c/mhnPzz32icoGqVPEL971K8V0EcpMImugqx47U9RX9-M)

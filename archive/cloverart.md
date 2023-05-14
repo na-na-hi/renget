@@ -273,25 +273,25 @@
 #####Oh Hell Yes!
 ![Oh Hell Yes](https://i.imgur.com/7FbhQr8.png)
 ####Kaiji's Goods
-#####Kris the Schizo Absol
+#####"I predict that today will be a good day!"
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
-#####Smacking Kris's Ass
+#####Guess He Didn't Predict *That*...
 ![Smacking Kris's Ass](https://i.imgur.com/iy7K8Fm.png)
-#####Aftermath
+#####Guess You Didn't Predict *That*...
 ![Aftermath](https://i.imgur.com/LtqzGAU.png)
-#####Kaiji's Portrait
+#####Cattitude
 ![Kaiji Portrait](https://i.imgur.com/j7sdYRp.png)
-#####Kirs Doll
+#####Liquid Kris
 ![Kirs Doll](https://i.imgur.com/4KD6cbj.png)
-#####Unsmoke
+#####Gunsmoke
 ![Unsmoke](https://i.imgur.com/rMtDWCx.png)
-#####Bashful Bunny Boi Kris
+#####Easter Kris (cyndaquil not by me)
 ![Bashful Kris](https://i.imgur.com/9Ba5Eyn.png)
 #####McDrowning
 ![McDrowning](https://i.imgur.com/k34l2xj.png)
-#####Kaiji's Nap
+#####Mellow Monday
 ![Kaiji's Nap](https://i.imgur.com/InDIeEv.png)
-#####PMDG Final
+#####Enemy of RKS
 ![PMDG Final](https://i.imgur.com/5uF2c8D.png)
 #####enteRIng the FederaTion
 ![enteRIng the FederaTion](https://i.imgur.com/560Al0h.png)

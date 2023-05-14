@@ -1,5 +1,5 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.50 | Helped Making Waifus Real Since 2023* <-
+->*V 6.51 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
@@ -7,7 +7,7 @@
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
 !!! note Rentry Update: Week 3 of May, 2023
-     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section.
+     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F
 
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
@@ -106,7 +106,8 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-    V. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
+    V. ~~Striked out Entry~~ = Project or model entry 404'd or got deleted.
+    VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (as well as an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who simply want access to the latest and greatest models and datasets. Charts below here should hopefully help serve as a reference (geared towards newer anons) about each project's activity status, quick information about the different models/datasets, guides, and a place to find other Rentry pages.
 
@@ -177,7 +178,7 @@ llama-33b-supercot q5_1 sft6 | CPU | GGML | [Camelids](https://huggingface.co/ca
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
 Bluemoonrp-13b | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface.co/reeducator) | ◕ Ŏ | https://huggingface.co/reeducator/bluemoonrp-13b
-Bluemoon_RP_300k `↳Vicuna` | N.A | Dataset | [Gozfarb](https://huggingface.co/gozfarb) | ◕ Ŏ | https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna
+~~Bluemoon_RP_300k `↳Vicuna`~~ | ~~N.A~~ | ~~Dataset~~ | ~~[Gozfarb](https://huggingface.co/gozfarb)~~ | ~~◕ Ŏ~~ | ~~https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna~~
 
 ####Plugins & Other Projects for LlaMA models:
 Project & Model Names: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
@@ -240,6 +241,7 @@ GPTeacher | GPT4 Modular Datasets | [Teknium1](https://github.com/teknium1) | �
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
+     V. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
 !!! info
      This section will focus on projects and repositories that deal with the creation/finetuning/pruning of large language models, frameworks, quantization, and benchmarking.
 
@@ -332,6 +334,7 @@ LLM Benchmark Prompts | Pastebin | Prompts | Anonymous | ◕ | https://pastebin.
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
+    IV. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
 !!! info
      This section will focus on resources for Story writing, Roll-Playing, Erotic-Roll-Playing using WebUIs for LLMs and other interfaces. 
 
@@ -348,6 +351,7 @@ Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection| Anonymous | ◕ |
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
+    IV. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
 !!! info
      This section will focus on characters and resources for large language model interfaces, which will contain Rentry pages, generators, guides and other overall resources.
 ###Character Generators & General Information:

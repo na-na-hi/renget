@@ -129,6 +129,12 @@ Non W++ version: https://files.catbox.moe/lu71z6.png
 ==Total Tokens:== 
 - 651 (With example messages)
 - 261 (Without example messages)*
+#####JK Osananajimi Subaru (Oozora Subaru)
+Non W++ version: https://files.catbox.moe/tw35dv.png
+
+==Total Tokens:== 
+- 397 (With example messages)
+- 256 (Without example messages)*
 
 *\*Also without first message*
 
