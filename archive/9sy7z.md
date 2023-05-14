@@ -326,9 +326,167 @@ I'm unable to hold back a smirk when I hear Sneasel yell "COWARDS!" in the dista
 
 *(Now she's for sure going to shank me later.)*
 
-## Encounter with Mew (Coming soon)™
+## Wooper gets Smashed
 
-## Wooper gets Smashed (Coming soon)™
+"Ugh... Huff!" 
+
+I adjust the crate I'm holding in my arms as I struggle to carry it through the halls of the guild. It's the middle of the night, and the guild's hallways are illuminated by oil lamps. Not wanting the crate to obscure my view, I walk at an awkward sideways angle which slows me down. The sound of jingling bottles within the crate continually makes me nervous, as at any moment I'm afraid I could hear one of them shatter. 
+
+*(Damn, why didn't they include some packaging to act as a buffer so the bottles aren't all bouncing against each other!? And Beast is going to think I'm the one that broke them if any of them do happen to crack.)*
+
+I walk through the dim and empty dining hall and notice that the door to the kitchen is ajar. *(Thank god, don't have to risk putting down the crate to open the door.)* I hit the door with my shoulder to open it, and inside I see...
+
+"C'MON WOOPER, CHUG CHUG CHUG!"
+
+Wooper is laying on the floor as Chespin pours a wine from a wine bottle directly into his mouth. Wooper's eyes are half-closed and dazed, while his large smile looks even larger as he's opening wide to make sure none of the wine spills out of it. Chespin can barely hold the bottle straight as his body sways from side to side. Chespin finally notices me and looks over, and his eyes look just as dazed as Wooper's. 
+
+"Oh... *hic*, hey Toge!" Chespin slurs as he accidentally spills some of the wine onto Wooper's chest, which just seems to absorb it. 
+
+"U-Uh... H-Hey..." *(Well, at least I happened to restocking the wine tonight. That'll save them getting skinned and fileted alive by Beast.)*
+
+Chespin's bottle lets out its final drip of wine, and it lands directly on Wooper's face, once again getting absorbed into his body. Wooper is unresponsive, but has a look of pure bliss on his face. Chespin lets out a loud hiccup and falls on his behind, giggling. 
+
+*(... I'm not sure how I feel about seeing my two saviors getting completely shitfaced. I should probably cover for them considering how much I owe them for saving me that one time.)*
+
+I walk over to one of the kitchen counters and carefully place down the crate of wine, and then turn to face my two inebriated guildmates. "H-How m-many b-b-bottles d-did you d-drink?" 
+
+Chespin groggily looks up at me with a smile. "I hadsh... *hic*... One bottle, and we wanted tch see howsh many... *hiccup*... Wooper could takesh... I thinks he had... *hic*.... Two..." Chespin then flopped down onto his back, staring at the kitchen ceiling.
+
+Sighing, I open the crate and start taking out and organizing some of the wine into the kitchen cabinets. *(Cabernet Carnivine... Mareep Merlot... Persim Noir... Chesto Chardonnay... Chateau Cherrim... Ah.)* While organizing them, I notice that the cabinet that usually held Chateau Cherrim was empty. *(Well, guess that's their favorite. I'll have to remember that for their birthdays or Christmas.)* Just as I'm about to get back to organizing the bottles, I hear footsteps and a voice from the dining hall.
+
+"**WHO'S IN MY KITCHEN IN THE MIDDLE OF THE NIGHT!? I SWEAR IF YOU'RE MESSING WITH THE MAYO AGAIN CYNDAQUIL I'M GOING TO TURN YOU INTO BREAD!**"
+
+*(Oh, fuck! Gotta hide the drunkards!)* 
+
+I quickly open up a large cabinet close to the floor that is full of pans and various cooking utensils, but is thankfully large enough to be able to hold Wooper and Chespin if they were squeezed in there. *(It'll be a tight fit, but they'll thank me later.)* I fly over to Wooper, pick him up, and then shove his squishy body into the cabinet, making the pans clang against each other. Chespin is alerted by the loud noise and sits up. 
+
+"*hic* Whatsh... What are you doing to Woopy?!" Before Chespin can get angry at me, I grab him and throw him into the cabinet! "OOFSH! HEY, *hic*, WHAT ARE-"
+
+I whisper closely to Chespin "*s-stay quiet or y-you're going to g-get s-slow boiled-d.*" Before slamming the cabinet door on him and Wooper. I hear them fidget inside against some of the pots and pans for a few seconds, but eventually the noise stops. I breathe a sigh of relief, and Beast finally makes his way into the room.
+
+"**YOU BETTER NOT BE MESSING WITH MY NEWLY BOUGHT PANS-** Oh, it's just you, Togetic." Beast leans against the doorway as he catches his breath. "Heard some clattering down here and assumed it was one of the usual troublemakers."
+
+"H-Hello S-Sir Winchester..."
+
+"You don't have to call me "Sir", everyone here just calls me Beast anyway." However, his slight smirk betrays the fact that he actually enjoys my choice of honorific. Beast seemed to like me more than most other guild members. Initially, he disliked how I would sneak into the kitchen to organize things for him without him knowing, but over time he came to accept it, and he started sending me on errands for him to restock the cooking supplies he needed. He also appreciated how I could understand his rants about food, but sometimes this led to ranting of my own about food in the human world that he couldn't keep up with. "Restocking the wine?"
+
+I nod. "Y-Yes... F-From the s-special order you p-put in w-with the K-Kecleons back i-in t-t-town. T-They a-assured me i-it was only the f-finest of e-each batch..."
+
+Beast scoffed. "It better be, it took a lot of convincing to get the Guildmaster to let me use the guild's funds to pay for it." Beast walked over to the open crate and started examining some of the bottles I had yet to put away. "Looks like they haven't been tampered with, at least. But we won't know if they've been watered-down until they're open."
+
+"N-Not like t-the *plebian* palettes of the pokemon here would be able to tell the differences between a watered-down wine and one of the *highest*, most *refined* quality! N-None of them probably even know how something as **simple** as the shape of the wine glass itself c-can influence how the wine can taste due to how the wine's aroma reaches one's nose!" 
+
+A large grin formed on Beast's face. "Perfectly right. Everyone here just gulps down everything alcoholic without actually trying to enjoy the flavor profile of the drink. Well, not that we really have the fancy glasses to do something like high-quality wine tasting here anyway." Beast put his hand to his chin and thought for a moment. "Hey... Why don't we do a little taste test right now? You're the one that carried it all over here, you deserve the chance to enjoy some of it before the rest of the guild goes through all of it."
+
+*(A-Actually drink it!? Sure I know a lot about alcohol, but I've never drank any, even as a human! Ugh, why am I thinking about that, I have to get Team Cozy out of here before they make any noise and blow their cover!)*
+
+Nervously shaking my head, I say, "U-Uhm... I-I m-must d-decline... I-I wouldn't w-want to w-waste any of the w-wine..."
+
+"Nonsense! Come on, let's get some glasses!" Beast starts walking towards me, but then nearly slips on a puddle of wine! Regaining his balance, he notices the large amount of Chateau Cherrim spilled all over his kitchen floor. "Who... Who made this mess!?"
+
+*(Oh fuck. Well, I'm still indebted to Team Cozy, so here goes.)* I let out a sigh. "... M-Me.... I'm s-s-sorry... I-I d-d-dropped a... Erm... B-Bottle by ac-c-ccident... I-I w-was c-cleaning it u-up b-b-before you c-came in... I-I-I'm really s-sorry, S-Sir W-Winchester..." 
+
+Beast's expression turned soft. "O-Oh... It's alright. Even a great chef like me makes a mess of the kitchen sometimes. Here, I'll help you clean up-"
+
+"N-No! A-A h-head chef l-like you s-shouldn't have to c-clean up the m-mess of an a-assistant l-like me..."
+
+"Oh, come on. I'm down here, I might as well hel-" His voice is interrupted by some clattering within the cabinet behind me, and I see the cabinet door move slightly out of the corner of my eye. Acting quickly, I bash myself against the cabinet to force it closed, while clutching my chest and wincing to pretend that I'm in pain.
+
+"O-Oof.. O-Ow..."
+
+Beast rushes over to me. "Togetic! Are you alright? I can get some oran berries from the pantry."
+
+"I-I'm fine... J-Just a-a little s-sore f-from... U-Uh... T-Training w-with... S-Sneasel!" *(God my excuses are getting worse by the second.)*
+
+"You don't look fine, are you sure you don't need any help?"
+
+"Y-Yeah.. J-Just a l-little s-sore... And t-tired..." I let out a large yawn, right into Beast's face. "A-ah... S-Sorry... I-I should g-go get s-some rest..."
+
+Beast lets out a smaller yawn of his own. "Yeah... I'm feeling a bit tired too all of a sudden, I should get back to sleep." After letting out another yawn, Beast lethargically walks to the kitchen's exit, only slightly attempting to avoid stepping in the puddles of wine. Once he disappears through the doorway I let out a large sigh of relief. 
+
+*(Haaah... I can't believe Yawn worked. I should use it more often, I just hope he doesn't fall asleep while climbing the stairs.)* 
+
+Turning my attention back to Team Cozy, I get up, and the moment I stop holding back the cabinet door Chespin and Wooper come rolling right out. "Ouch! Couldn't you have put us in a larger cabinet? It wasn't comfy being in there! *hic*" Chespin pouts as he stands up and dusts himself off, he's still somewhat unsteady on his feet but he appears slightly more sober. "... Thanks for *hic* covering for us, though."
+
+Wooper attempts and fails a few times to stand upright, and Chespin has to help him stay steady. "Yeah... *hic*, thanksh! Your natural awkward shtuttering made it imposshible for Beasht to tell you were... *hic*... lying!" Wooper says gleefully when Chespin finally gets him back onto his feet.
+
+"T-Thanks... I-I think." Despite being somewhat annoyed at them, I can never stop myself from smiling when I see Wooper's joyful face. "W-Why were you t-two getting d-drunk d-down here a-anyway? Y-You know h-how mad B-Beast gets." 
+
+Chespin put his hands behind his head. "Heheh... Well, *hic* Wooper was asking me about how *hic* humans drink alcohol, so..."
+
+*(Guess someone was a party animal in a past life. Or at least wanted to be one.)* "W-What kind of h-human chugs w-wine, t-though?"
+
+"We *hic* couldn't find... any beersh!" Wooper nearly falls over again but Chespin puts his arm on his head to balance him.
+
+"And Wooper just *hic* really likes this wine, Beast has caught him sneaking in to *hic* drink it before!"
+
+*(Extra noted. Now I just need to find out their birthdays)* "A-Are both of you s-sober enough to w-walk?"
+
+Chespin nods, and Wooper tries to nod, but instead he just faceplants into the ground. After helping his friend up yet again, Chespin takes out his vines and wraps them around Wooper's body, and then lifts him over his head shakily. "I can *hic* carry Wooper back to our room like this."
+
+"A-Alright. You two g-go on ahead s-so I can catch you i-if you stumble." After taking a moment to clean up the cabinet I shoved them into, I follow them out of the kitchen and through the dining hall. As Chespin stumbles up the stairs holding Wooper above him with his vines, I carefully keep an eye on both of them, arms ready to catch either if they fall. Thankfully, neither of them falls over, and we make it to the floor that Chespin and Wooper's room is on. After a short walk we make it to the door of their room, and Chespin places Wooper on the ground as I open the door to their room for them.
+
+"Y-You two feeling a-alright? I can get you some w-water if you two need to s-sober up more." 
+
+Chespin and Wooper shake their heads. "I'm feeling mostly *hic* sober now. You okay Wooper?" Wooper looks at Chespin and begins to nod, but lets out a loud yawn instead. "Alright then, let's get you into bed." Wooper nods again, and walks into the room. Chespin and I follow behind him, and I'm momentarily shocked by the massive blanket that takes up the room. Chespin seems to notice my awe. "Impressive *hic*, right?"
+
+"Y-Yeah, your t-team name is n-no joke." *(... How the hell are they going to wash that thing when it eventually gets dirty though?)* My gaze eventually turns to Wooper, who flops down on the middle of the blanket and falls asleep near instantly. *(Feels weird to see Wooper actually tired out for once, guess he's hungover. Chespin and Wooper are such great friends, if only I could have a friendship like that.)*
+
+Chespin notices my forlorn expression. "... Something wrong?"
+
+"... I-I'm just jealous of y-your friendship. Y-You two are p-practically inseparable. I d-don't think anyone else in the guild has a r-relationship as deep and as i-inspirational as you two."
+
+Chespin blushes. "W-Well, that might be exaggerating it a bit, but thanks. Just know we both consider you a great friend as well. If you're ever feeling uncomfortable, Team Cozy will always be here to make you feel cozy!... *hic*" 
+
+I giggle as Chespin isn't able to hold back a hiccup. "I j-just... Wish I could c-connect with s-someone on the same l-level you and W-Wooper can..." I let out a sigh. "F-Feels like I c-can n-neve-BAWH!?"
+
+Out of nowhere, Chespin suddenly gives me a big hug, and holds me tightly. "I told you! *hic* We'll always be here if you need to feel more comfy, got it?" Chespin's embrace fills me with warmth, and I hug him back. 
+
+"... T-Thanks..." All of my worries wash away as I just let myself enjoy the feeling of being hugged and embraced by someone. Chespin's body occasionally vibrates violently when he hiccups, but it's not enough for me to mind. After hugging for about a full minute Chespin lets go of me. 
+
+"Uh... Sorry if that seemed kinda...*hic* y'know. I don't know what came over me, must be the wine." Chespin says while looking away from me awkwardly.
+
+*(Guess the booze makes him more touchy-feely.)* "I-It's fine. I-I kinda needed t-that, anyway." I take another look at Wooper, who's still out completely cold on the giant blanket. "Well, I should p-probably let you s-sleep off your drunkenness. T-Thanks for all of the s-support."
+
+"Heh, *hic* you're the one that saved us from getting chewed out by Beast, we should be thanking you." Chespin stretches out his arms while letting out a yawn. "Well, goodnight!" 
+
+"G-Goodnight." I walk out of the room and Chespin closes the door behind me. *(Well, that sure was... Something. I should get back to the kitchen and clean up the rest of the mess down there before turning in for the night myself.)*
+
+***
+
+While cleaning up the mess of spilled wine in the kitchen, I notice something glint on the floor from the light of the oil lamps. Moving closer, I can see it's a Clover Guild badge. 
+
+*(Huh. I guess this must be one of Team Cozy's, probably fell off after they tumbled out of the cabinet. I'll go sneak it into their room while they're sleeping)* 
+
+***
+
+Making my way back up to their room, I slowly and carefully open up the door, not wanting to disturb either of Team Cozy's coziness. Once it's open enough, I peek my head in, and see a sight that shocks me to my very core. An image that will forever be burned into my retinas for the rest of my life. Chespin and Wooper are under the covers of the giant blanket, and cuddling each other, with Chespin having his arm over Wooper's body.
+
+*(This... This... Is...)*
+
+https://www.youtube.com/watch?v=WY_-MK0XBGc
+
+*(This is the absolute cutest thing I have EVER seen in my life. Nothing else in this world or the human world could possibly compare to the level of cuteness and beauty at this moment, right here. This simple moment of innocent cuddling between two best friends is the PEAK of adorableness within all universes. There could be a million universes where this exact scene happens, yet this one will always be the cutest and most powerful of all of them. Breaking down how this scene and all of the factors that create it as the perfect image of kawaiiness would do a disservice to the scene, as all of those factors working together in unison, much like how Chespin and Wooper always work in unison, is what makes the scene whole, and what makes the scene the pure unfiltered essence of cuteness and beauty. However, despite how I know how folly it is it try and analyze this scene, I cannot stop myself from wanting to indulge in describing what makes it perfect, as doing so would allow me more time to view the scene critically, and perhaps even embolden my philosophical appreciation for this pinnacle of kawaii. Chespin and Wooper's friendship, and their undying devotion to each other, is perhaps the most important aspect of this scene. Perchance. Their relationship is one that would be the envy of anyone in the world, a friendship between two friends who understand each other near-perfectly, and who both have their minds completely set on the same, noble but in-of-itself adorable goal of making the world a comfier place. This sets the backdrop for the rest of the scene, while Chespin and Wooper's embrace shows how masterful their relationship is, there's more going into it than that. As a pokemon, Wooper does not have any reason to believe why cuddling with someone for warmth would be awkward or even something to get flustered about. However, as a human, and due to how awkward Chespin got after he hugged me, it is obvious Chespin, like a lot of human males in the world, find the idea of any physical contact with another male, for a lack of a better term, "extremely gay", and thus are afraid to manifest their platonic affection towards another male friend in any physical ways. Now this has never stopped Europeans, but due to the fact that Chespin hasn't attempted to kiss anyone on the lips as a greeting and hasn't asked for a license for his vines and other possible weaponry, it can be assumed he's American. These pure homo-social bonds between Chespin and Wooper are also why a male like me is the only one who could **EVER** truly appreciate this scene. Women would **NEVER** understand this scene, they would mistake the pure, loving embrace between friends as homosexual and assume that they are lovers instead of being the world's best companions. Homosexual men and of course, **DYKES** would never be able to understand the rich nuances of this scene either, this is a scene with straight men that only other, just as straight men could fully appreciate. Disgusting **FUJOSHITS** would bastardize this scene and use it as an excuse to write **DISGUSTING** smut instead of PROPER fanfiction that would show the true colors of Team Cozy's relationship. Lesser men, not as confident in their own sexuality, would laugh at this scene, calling it gay, unable to accept their own insecurities and would be unable see to that their **"""criticism"""** of the scene is really just a projection of their own inner turmoil of being **faggots**. Truly, only **I**, standing here right at this moment, this scene forever ingrained into my mind, could ever hope to-)*
+
+"Watching the two lovebirds cuddle each other?" Elm whispers as he floats next to me to get a better look into the room. "More like Team Homozy, am I rig-"
+
+With all of the force in my body, I perform a devastating uppercut, powered by the power of the cuteness of Team Cozy that flows within me. Elm's body is instantly shot upwards and hits the ceiling... Or it would've, if he wasn't a ghost type. Instead he went flying right through, and with how much force I put into that uppercut I can only assume that he must be somewhere within lower orbit by now. 
+
+*(Team Cozy and their relationship are truly the peak and pinnacle of all relationships within the guild, no, within the entire world, and it must be protected **AT ALL COSTS.** That **DUMBSKULL**, that motherfucking baka, that sick motherfucking **BAKA** will NOT ruin this perfect moment, nor will ANYONE else. I must make sure this moment, and all future moments like it, are safe and protected. I must secure a future for Team Cozy and Team Cozy appreciators (Me). I will make sure no one and nothing stands in the way of Team Cozy's bonds of friendship. I cannot allow a world to exist where Chespin and Wooper stop being friends. Their friendship will be protected. If anything were to happen to Chespin or Wooper, I would kill everyone in this guild and then myself.)* Remembering what I initially came here for, I quietly float into the room, and place the lost badge on the small table on the side of the room, and quietly float out, sneaking one last glance at Chespin and Wooper before I carefully shut the door to their room.
+
+As I turn away from the door, I see a familiar shadow floating down from the ceiling. He rubs the lower half of his body, wincing in pain. "What was THAT for?"
+
+"U-Uh, sorry. Y-You just s-spooked me."
+
+"Remind me to not be a ghost next time. What were you doing staring at those two, anyway?"
+
+"S-Something you'll n-never understand, d-don't worry about it."
+
+Elm gives me a weird look, then shrugs. "Well, see you around." Elm gives me a wave and then goes back on his way. I start making my way back to my own room.
+
+*(I will create a world where the coziness that we know today lasts forever.)*
+
+## Encounter with Mew (Coming soon)™
 
 ## Sorry, Guildmaster! (Coming soon)™
 

@@ -219,13 +219,14 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 
 #Oobabooga
 ***
-Red: “Character’s Persona:” followed by the character description.
-Green: <START> then dialogues. Rotate between “You:” & “Bot:”. End on “You:”
-Blue (optional): Scenario/Author’s note [in brackets]
-Pink: Hidden Scenario. Add “You:” between examples. End on “You:”
+Red: "Your name" should be updated before you select/reselect the TavernAI card, as it will automatically replace all <user> or {{user}} to the selected name. Character's name should match the character name in the example dialogues.
+Orange: "Greeting" contains the first message of the character.
+Yellow: “Character’s Persona:” followed by the character persona description (can be in Ali:Chat, PList, Boostyle, W++, etc.)
+Green: "Context" should contain the entire character card, with the bottom being weighted stronger than the top.
+Blue: <START> is included at the end to act as a seperator between the "Context" and the "Greeting".
 
-Another “You:” example should be added to the very bottom to stop potential looping.
-Will fix it later.
+->![](https://files.catbox.moe/m50fjn.png)<-
+->Another “You:” example could be added to the very bottom just above <START> to stop potential looping (This is more important for 6B than 7B).<-
 
 #KoboldAI Lite
 ***

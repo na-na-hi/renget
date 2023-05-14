@@ -62,7 +62,7 @@ Berry picks up the Frism, holding it up to her mouth. “These are incredibly ra
 “That there is the real deal, no doubt about it...incredible!”
 “Yeah, real deal is right, Wooper and I nearly died trying to get th-”
 
-My words are cut off in an instant by Squishy. “You **WHAT?! YOU RISKED WOOPY'S LIFE FOR SIMPLE MATERIAL GAIN? FOR TREASURE?!” There is nothing in his voice but the purest anger and vitriol I have ever heard in my life. “I SHOULD BURY YOU ALIVE FOR TREATING HIM SO HORRIBLY! PREPARE TO TASTE JUSTICE!”**
+My words are cut off in an instant by Squishy. “You **WHAT?! YOU RISKED WOOPY'S LIFE FOR SIMPLE MATERIAL GAIN? FOR TREASURE?!”** There is nothing in his voice but the purest anger and vitriol I have ever heard in my life. **“I SHOULD BURY YOU ALIVE FOR TREATING HIM SO HORRIBLY! PREPARE TO TASTE JUSTICE!”**
 I gasp as I feel the floor begin to shake, Squishy staring at me with a look of unfiltered rage. I couldn't have possibly picked a worse thing to say. Now I'm really starting to get scared. Giant hornets and evil snowflakes are one thing, but there's no way I can fight against Wooper's father! “W-wait! I-I-It isn't like that, h-honest! I-I'm a human, remember?!”
 **“HUMAN OR NOT, NOBODY TREATS MY SON THAT WA-”**
 

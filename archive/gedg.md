@@ -34,9 +34,7 @@ A lot of the links use rentry.org, if .org is down try .co instead.
 
 Polls are used as an effort to keep things democratic on the general.
 
-Should jams be unlisted?
-
-https://strawpoll.com/polls/7rnzmovbdyO
+Currently no active polls.
 
 ## Game Jams
 

@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 14.05.2023 08:00 UTC]
+[Last Updated: 14.05.2023 14:15 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7373976/](https://boards.4chan.org/h/thread/7373976/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 583&nbsp;&nbsp;[archiveofsins.com/h/thread/7373976/](https://archiveofsins.com/h/thread/7373976/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2023 22:08)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Misty Morning Edition
 - 582&nbsp;&nbsp;[archiveofsins.com/h/thread/7367699/](https://archiveofsins.com/h/thread/7367699/)&nbsp;&nbsp;&nbsp;&nbsp;(10.05.2023 11:09)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Devilish witchery Edition!
-- 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Feedin' the geese Edition
+- 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[1074]&nbsp;#&nbsp;Feedin' the geese Edition
 - 580&nbsp;&nbsp;[archiveofsins.com/h/thread/7356383/](https://archiveofsins.com/h/thread/7356383/)&nbsp;&nbsp;&nbsp;&nbsp;(03.05.2023 09:55)&nbsp;&nbsp;[1065]&nbsp;#&nbsp;Hurry the fuck up OP edition
 - 579&nbsp;&nbsp;[archiveofsins.com/h/thread/7352221/](https://archiveofsins.com/h/thread/7352221/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 00:47)&nbsp;&nbsp;[1079]&nbsp;#&nbsp;Sad drunk Chika edition
 ---
