@@ -1,5 +1,5 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.51 | Helped Making Waifus Real Since 2023* <-
+->*V 6.52 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
@@ -106,31 +106,32 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-    V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
+    V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
     VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (as well as an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who simply want access to the latest and greatest models and datasets. Charts below here should hopefully help serve as a reference (geared towards newer anons) about each project's activity status, quick information about the different models/datasets, guides, and a place to find other Rentry pages.
 
 ###LlaMA Models, Guides & Resources:
-Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-llama.cpp | CPU | LLaMA Port in C++ | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
-AgustusCletus's `⇲llama.cpp` | GPU | Fork Proj. | [AgustusCletus](https://github.com/AgustusCletus) | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
-llama-7b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
-llama-13b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
-llama-33b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 
-LLaMa-65B Quantized | CPU | GGML | [CRD716](https://huggingface.co/CRD716) | ◕ Ŏ | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main
+Hyperlinked Models & Projects: | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[llama.cpp](https://github.com/ggerganov/llama.cpp) `⇲LlaMA`| [ggerganov](https://github.com/ggerganov) | GitHub Repo. | CPU // LLaMA Port in C++ // 4-bit quant. support | ◕ Ŏ
+[AgustusCletus/llama.cpp](https://github.com/AgustusCletus/llama.cpp) `⇲llama.cpp` | [AgustusCletus](https://github.com/AgustusCletus) | Forked Project | CPU | ◎ Ŏ
+[llama-7b-ggml](https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main) | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
+[llama-13b-ggml](https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main ) | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
+[llama-33b-ggml](https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main )  | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
+[LLaMa-65B Quantized](https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main) | [CRD716](https://huggingface.co/CRD716) | Quant. Models | CPU //  ==GGML Quant. q4_0 q4_1 q4_2 q5_0 q5_1== | ◕ Ŏ
 
 ####Alpaca (LlaMA) Models, Guides & Resources:
-Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-Stanford Alpaca  | N.A | `⇲LlaMA 7B` | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | ◕ Ŏ Ĩ  | https://github.com/tatsu-lab/stanford_alpaca
-Alpaca Native | GPU | `↳PyTorch` | [Chavinlo](https://huggingface.co/chavinlo) | ◕ Ŏ | https://huggingface.co/chavinlo/alpaca-13b/tree/main
-GPT4-X-Alpaca `⇲Alpaca NAtive` | GPU | `↳PyTorch` | [Chavinlo](https://huggingface.co/chavinlo) | ◕ Ŏ | https://huggingface.co/chavinlo/gpt4-x-alpaca 
-GPT4-X-Alpaca 13b Native 4bit `⇲Alpaca NAtive` | Multiple | w/`↳GPTeacher` | [anon8231489123](https://huggingface.co/anon8231489123) | ◕ Ŏ | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main
-Alpaca LoRA | GPU | LoRA for GPU's | [Tloen](https://github.com/tloen) | ◕ Ŏ | https://github.com/tloen/alpaca-lora 
-Alpacino 13b ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main
-GPT4-x-AlpacaDente2-30b | GPU | `↳Alpaca-LoRA-30B-elina`&`↳Open Ass 2nd Tune` | [Aeala](https://huggingface.co/Aeala) | ◕ Ŏ | https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
+Hyperlinked Models & Projects: | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) `⇲LlaMA 7B` | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | GitHub Repo. | Code & Documentation | ◕ Ŏ Ĩ
+[Alpaca LoRA](https://github.com/tloen/alpaca-lora) `⇲Stanford Alpaca` | [Tloen](https://github.com/tloen) | Instruct-tune | LoRA for GPUs | ◕ Ŏ 
+[Alpaca-13b (Native)](https://huggingface.co/chavinlo/alpaca-13b/tree/main) | [Chavinlo](https://huggingface.co/chavinlo) | Trained Model | GPU // `↳PyTorch` | ◕ Ŏ
+[GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) `⇲Alpaca Native` | [Chavinlo](https://huggingface.co/chavinlo) | Finetuned Model | GPU // `↳PyTorch` | ◕ Ŏ
+[GPT4-X-Alpaca 13b Native 4bit](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main) `⇲Alpaca Native` |  [anon8231489123](https://huggingface.co/anon8231489123) | Finetuned & Quant. Models | `Inference: Multi.` // `Dataset: ↳GPTeacher` // ==GPTQ Quant.== ==GGML Quant. 4_1==  | ◕ Ŏ
+[Alpacino13b](https://huggingface.co/digitous/Alpacino13b) | [Digitous](https://huggingface.co/digitous) | Trained Model | `GPU Inf: ↳Triton` // `↳Alpaca-LoRA`,  `↳CoT-LoRA`, `↳Storytelling-LoRA ` | ◕ Ŏ
+[Alpacino 13b (ggml)](https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main) `Alpacino13b` | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU Inf. // ==GGML Quant. q5_1== | ◕ Ŏ
+[GPT4-x-AlpacaDente2-30b](https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b)  `⇲Alpaca-LoRA-30B-elina` | [Aeala](https://huggingface.co/Aeala) | Finetuned Model | GPU // `↳Open-Ass 2nd Finetune` | ◕ Ŏ
 
 ####GPT4-ALL (LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:

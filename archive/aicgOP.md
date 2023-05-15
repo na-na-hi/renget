@@ -1,6 +1,6 @@
 #/aicg/ OP templates
 !!!info IMPORTANT INFO
-	Added the Kaomoji guy's OP for completeness's sake. Won't change anything here since it's not mine I'll just 	 use the latest one that he posted. I'll add some pictures back but without the CSS. All of these are being 	updated soon-ish
+	Kaomoji Template here https://rentry.org/kaomojibaka
 
 	OPs status
 	OP | Text/Image
@@ -11,68 +11,12 @@
 	OP1 (trimmed)    | Text updated. No picture
     OP2 (trimmed)    | Text outdated. No picture
 	OP3 (trimmed)    | Text updated. No picture
-	Kaomoji OP		| Latest. No picture
+	Kaomoji OP		| https://rentry.org/kaomojibaka
 	
 	
 	If you have to tell me something do it here ohgodohfuckwhywhypleasegod@proton.me Remember to Be calm and reasonable
 [TOC]
 
-##Extra
-
-######OP1
-```
---Edition Here-- Edition
-
-A general dedicated to discussion & development of AI Chatbots
-
->>>New
---News Stuff--
-
->>>Frontends
->Tavern
-https://github.com/SillyLossy/TavernAI
-https://rentry.org/Tavern4Retards [Guide for retards, this means you]
-https://rentry.org/STAI-Termux [Guide for phonetards]
-https://github.com/AmmoniaM/Spermack [Russki Slack Claude proxy]
->Agnai
-https://agnai.chat/
-https://rentry.org/agnai_guides [Video guides]
->CAI
-https://character.ai [Matcha]
-https://rentry.org/newcaitools | https://greasyfork.org/en/scripts/by-site/character.ai [cai userscripts]
->RisuAI, a Korean frontend with ImageGen
-http://risu.pages.dev/
-https://github.com/kwaroran/RisuAI-release/releases
->Miku, a full immersive frontend
-https://docs.miku.gg/
-https://rentry.org/mikugg
-
->>>Bots
-https://www.characterhub.org
-https://booru.plus/+pygmalion
-https://rentry.org/cai-list [aicg botlist]
-https://rentry.org/meta_bot_list [4chan meta botlist]
-https://zoltanai.github.io/character-editor/ [Tavern cards editor]
-
->>>Bot making
->Basic
-https://rentry.org/botmaking_tips
->Advanced
-https://rentry.org/oaicards
-https://rentry.org/MothsBotMakingStuff
-
->>>Local models (Pygmalion, LLaMa)
->>>/g/lmg/ [up-to-date documentation and discussion]
-
->>>Meta
-https://alwaysfindtheway.github.io [Proxy urls]
-https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
-https://rentry.org/aicg_meta [/aicg/ service/frontend ranking]
-https://rentry.org/aicg_op_texts | https://rentry.org/aicgOP [OP templates]
-https://rentry.org/aicg_extra_information [CAI, Kobold, NAI, waifutext...]
-
-Previous : --Previous--
-```
 ##Trimmed OPs
 
 ######OP1
@@ -240,27 +184,25 @@ Previous: --Last thread here--
 A general dedicated to discussion & development of AI Chatbots
 
 >Pygmalion-6B
-https://koboldai.org/cpp [CPU]
-https://pastebin.com/Ah5ZUcGE [Node.js install guide (Win7)]
 https://laika-ch.itch.io [Laika’s LiteVN]
-https://rentry.org/Pyggymancy [Guide]
-https://rentry.org/PygTips
 
 >Bots :)
-https://www.characterhub.org 
+https://www.characterhub.org
 https://booru.plus/+pygmalion
-https://zoltanai.github.io/character-editor/
-https://botprompts.net
+https://rentry.org/cai-list [CAI resources]
+https://rentry.org/meta_bot_list [Foreign Bots]
+https://zoltanai.github.io/character-editor/ 
 
 >OAI
-https://github.com/SillyLossy/TavernAI [Superior(?) fork]
-https://rentry.org/FrankenTavern
-https://agnai.chat/ [Universal Frontend]
+--Tavern--
+https://github.com/SillyLossy/TavernAI [Tavern]
+https://rentry.org/sillytermux [Mobile Extras]
+https://github.com/AmmoniaM/Spermack [Ruski Claude]
+--Agnai---
+https://agnai.chat/
+https://rentry.org/agnai_guides [Guide]
 
 >LLaMA
-https://rentry.org/nur779 [Models]
-https://rentry.org/better-llama-roleplay
-https://github.com/ggerganov/llama.cpp [CPU]
 >>>/g/lmg/ [Dedicated local discussion]
 
 >Character.AI

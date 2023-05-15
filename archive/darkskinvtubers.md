@@ -132,6 +132,7 @@ Ichigolemonade_|[Twitter](https://twitter.com/IchigoLemonade_) [Twitch](https://
 Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting game vtuber
 Dolce|[Twitter](https://www.twitter.com/DolceVtuber) [Twitch](https://www.twitch.tv/dolcevt)|
 Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://www.youtube.com/@MaikaMallow)|
+AuteruTori [EN/MSA]|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Arabic birb
 
 ---
 

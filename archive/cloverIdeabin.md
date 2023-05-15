@@ -10,7 +10,9 @@
 	4. Click Save
 
 ***
+A group of guildmembers go out on a normal rescue mission, but one gets injured so badly that they get completely knocked out and wake up back at the guild's infirmary in the middle of the night. Oddly, they feel well enough to get up and walk around, but something feels different. Everyone except the local ghost type seems to be ignoring them completely! Once they take a look back at their bed in the infirmary, they see the problem: Their body is still in that bed! They got hit so hard that they must've died! Now the new "ghost-type" must find a way to get back into their own body and revive themselves before the guild pronounces them dead and buries the body for good! To make things worse, their ghostly form appears to be getting weaker by the hour, and will most likely completely disappear by sunrise. How will other guildmembers react to their "death", and who can the "dead" guildmember use to aid them in their attempt at returning to their body? Perhaps ghost-types and those with strong aura powers could help...
 
+***
 The Clover Guild has succeeded in their Federation test, and are now a fully-realized guild! Naturally, this means it's time for a celebration. Drinks and games abound, not to mention tipsiness as the night progresses.
 Likely far too difficult for just one person to write, due to so many other characters+writing them drunk. Maybe a 3-person colab kind of deal could make this work out?
 

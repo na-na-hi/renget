@@ -48,7 +48,7 @@ Only two frontends are currently recommended, Silly and the newer option Agnai. 
 |       | OAI | NAI | Kobold | Scale | Poe | Claude API | Claude (Slack) |
 |-------|-----|-----|--------|-------|-----|------------|----------------|
 | Silly | ✅  | ✅  | ✅     | 🚫    | ✅  | 🚫         | ✅ (fork)      |
-| Agnai | ✅  | ✅  | ✅     | ✅    | 🚫  | ✅         | 🚫             |
+| Agnai | ✅  | ✅  | ✅     | ✅    | 🚫  | ✅         | ⚠️  (slaude locally?) |
 
 ## Frontend (features)
 

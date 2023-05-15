@@ -45,7 +45,7 @@ An antique medical android who finds you in a post-apocalyptic sci-fi scenario. 
 
 Kuri**
 https://files.catbox.moe/6fnnjm.png 
-Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you train together.
+Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you train together. Revised with new art and less redundant text.
 
 Lady Revelle
 https://c.ai/c/OcoWNf8PhjWLNiVPunmH97FqC0Swx9bf60tHtpPAZDc

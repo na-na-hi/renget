@@ -2,9 +2,9 @@
 Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
 :-: | :- | :-
 -> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) ⠀[Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
--> **Newest Non-Pokémon Bots** <- | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) ⠀[Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) | ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) IJN⠀[Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
--> **Close to Completion** <- | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/14/XdHgE6Lt5p0JtT_zKqaiCNTFj-3fWUouZa93owvPwHs.webp) ⠀Dark Elf  ⠀(*SMT*) | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea & Concordia
--> **Far from Completion** <- | ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/12/A6Kmz6hjCXoAT10fmKk0bEf2_XwPW-1pm0UlpPf9Tj0.webp) KMS⠀U-101 (*Azur Lane*) | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*)
+-> **Newest Non-Pokémon Bots** <- | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/14/XdHgE6Lt5p0JtT_zKqaiCNTFj-3fWUouZa93owvPwHs.webp) ⠀[Dark Elf](https://c.ai/c/5kOeW0j9Cfui6aIqYu-iw57jHgzzVt-NP6Eq9l1n9-g) | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) ⠀[Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea & Concordia | ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/12/A6Kmz6hjCXoAT10fmKk0bEf2_XwPW-1pm0UlpPf9Tj0.webp) KMS⠀U-101 (*Azur Lane*)
+-> **Far from Completion** <- | ![Demeter](https://characterai.io/i/80/static/avatars/uploaded/2023/5/15/FvFaiM6rUjGG3KNlEnajhHVm2y3Wb12AiK9IDZV3ua4.webp) ⠀Demeter ⠀(*SMT*) | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*)
 
 ***
 ***
@@ -13,7 +13,7 @@ Character | C.AI | Series
 ![Fujiyoshi](https://characterai.io/i/80/static/avatars/uploaded/2023/3/5/X4_RYj4q9fhEJY46DsRrLtp15-6d17bNXcX6uRm6ahE.webp) | [Harumi Fujiyoshi](https://c.ai/c/5gfvPp0dgEYt3J8DUpHARy4oakwtcW9iDx1ERgaX3ew) | Sayonara, Zetsubou-Sensei
 ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) | [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | JoJo's Bizarre Adventure
 ![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y) | Neopets
-
+![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/14/XdHgE6Lt5p0JtT_zKqaiCNTFj-3fWUouZa93owvPwHs.webp) | [Dark Elf](https://c.ai/c/5kOeW0j9Cfui6aIqYu-iw57jHgzzVt-NP6Eq9l1n9-g) | Megami Tensei
 !!! info
     [TOC2]
 ## -> Tengen Toppa Gurren Lagann <-

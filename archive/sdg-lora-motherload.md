@@ -904,25 +904,63 @@ Prompt:
 !!! info Size: 512x696, Seed: 3667275473, Model: anypastelAnythingV45_anypastelAnythingV45, Steps: 40, Sampler: Euler a, CFG scale: 10, Clip skip: 2, Model hash: 99d004eeec, Hires upscale: 2, AddNet Enabled: True, AddNet Model 1: strange_headV0.4-000006(b05951d2ba2f), Hires upscaler: R-ESRGAN 4x+ Anime6B, AddNet Module 1: LoRA, AddNet Weight A 1: 0.7, AddNet Weight B 1: 0.7, Denoising strength: 0.35
 ***
 
-##HIMARS LoRa
+##Presenting panties
 
 Description:
-!!! note Draws HIMARS'.
+!!! note Generates girls holding panties.
 
 Triggerwords:
-!!! note HIMARS
+!!! note presentingpanties, panties, holding, holding panties
 
 Download links:
-https://pixeldrain.com/u/wabuuNFn
-https://files.catbox.moe/l7exss.safetensors
+https://pixeldrain.com/u/MP3cJSWh
+https://files.catbox.moe/6z9rip.safetensors
 
 Gen examples:
-![1](https://files.catbox.moe/kt7qek.jpeg)
+ ![1](https://files.catbox.moe/21gwla.jpeg)
 
 Prompt:
 
-!!! info
+!!! info masterpiece, best quality,1girl,<lora:presentingpanties-10:0.8>,prensentingpanties,panties, holding,holding panties, upper body,from below,shy,blush,smile
 
-!!! info
+!!! info badhandv4,(worst quality, low quality:1.4), (greyscale, monochrome:1.0), text, title, logo, signature,navel
 
-!!! info
+!!! info  Size: 1024x1536, Seed: 3936181067, Model: hassakuHentaiModel_v11, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, 'Overlap': 48, Clip skip: 2, "{'Method': 'MultiDiffusion', 'Upscaler': '4x-UltraSharp', Model hash: 973cb455d0, 'Scale factor': 2, 'Keep input size': True}", 'Tile batch size': 8, Denoising strength: 0.3, 'Latent tile width': 96, 'Latent tile height': 96, Tiled Diffusion upscaler: 4x-UltraSharp, Discard penultimate sigma: True, Tiled Diffusion scale factor: 2
+***
+
+##Photo Comparison
+
+Description:
+!!! note You need a Wide Shot image, like Width=>Height, Width should be at least 768.
+
+!!! note  There are two separate prompts necessary. One for Background Waifu, Second for Waifu in Picture.
+
+!!! note  Put tag - Photo_Comparison, NSFW first, then describe BG waifu, then put phone, cellphone, smartphone, holding, Picture (you can also use other similar prompts), After that put Picture Waifu prompt, ex - Sex, Vaginal, Nude, NSFW etc.
+
+Triggerwords:
+!!! note Photo_Comparison 
+
+Download links:
+https://pixeldrain.com/u/VVsZTHFf
+https://files.catbox.moe/b2w6v7.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/6vsed0.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, best quality, high quality, highres:1.4), detailed, extremely detailed, ambient soft lighting, 4K, Photo_Comparison, (mature female, milf:1.2), (long hair, red hair, blunt bangs, long sidelocks:1.3), (blue eyes, red dress:1.2), (phone, cellphone, smartphone, holding, nude, vaginal, picture:1.3) <lora:milfWeightEdit_v1:0.5> <lora:jujunaughtStyleLora_v10:0.3> <lora:envybetterhandsLocon_beta2:1> <lora:Photo_Comparison-v2:0.8>
+
+!!! info Negative prompt: (low quality, worst quality:1.3), (monochrome:1.1), (bad_prompt_version2:0.8), (easynegative:1.2), (text, signature), (pussy)
+
+!!! info Seed: 810732909, Steps: 26, Sampler: UniPC, CFG scale: 7
+
+ ![2](https://files.catbox.moe/j61op2.jpeg)
+
+Prompt:
+
+!!! info masterpiece, ultra realistic,photon mapping,radiosity,physically-based rendering,realistic,(high resolution), 1girl,huge breasts,black hair,<lora:koreanDollLikeness_v15:0.3>, <lora:taiwanDollLikeness_v10:0.3>,<lora:Photo_Comparison-v2:1>,nude,
+
+!!! info Negative prompt: EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand, (multiple girls:1.5), extra legs, extra breasts,
+
+!!! info Size: 1000x800, Seed: 3952295309, Model: V08_V08a, Steps: 20, Sampler: Euler a, CFG scale: 3.5, Clip skip: 2, Mask blur: 4, Face restoration: CodeFormer, Denoising strength: 0.5
