@@ -33,7 +33,7 @@ Be sure to actually read what's written right under the start of the [Games Down
 [(back to top)](https://rentry.org/Switch_Guide_FAQ/)
 There are a lot of different options but the main three are:
 - [**Awoo Installer**](https://github.com/Huntereb/Awoo-Installer)
-	- Supports all switch games' formats (NSP, XCI, NSZ, XCZ) and is probably the easiest installer to use. Has some alternatives like [NSAInstaller](https://github.com/Team-Neptune/NSAInstaller) or [AtmoXL-Titel-Installer](https://github.com/dezem/AtmoXL-Titel-Installer) if you don't like Awoo's anime theme
+	- Supports all switch games' formats (NSP, XCI, NSZ, XCZ) and is probably the easiest installer to use. Has some alternatives like [NSAInstaller](https://github.com/Team-Neptune/NSAInstaller) if you don't like Awoo's anime theme
 !!! info Among other functionalities Awoo also comes with a "Sigpatches Updater", avoid using it because the sigpatches included in Awoo are usually only updated when Awoo itself is updated, meaning they'll usually be deprecated (because Awoo isn't updated anytime new Sigpatches are needed). You can find more info on Sigpatches and where to get them [here](https://rentry.org/Switch_Guide_FAQ#what-are-these-sigpatches-anyway-and-whats-this-random-zip-linked-in-this-guide) and [here](https://rentry.org/Switch_Guide_FAQ#where-are-the-sigpatches) respectively.
 - [**Goldleaf**](https://github.com/XorTroll/Goldleaf)
 	- Supports games in NSP format only and while still serviceable is not the best option to install games anymore
@@ -59,7 +59,7 @@ There are a few ways that ultimately have the same results and as such you can c
 	- Only works with DBI but it's probably the easiest method of the bunch as it requires no setup. Simply connect your Switch to your PC via USB, run DBI on your Switch, select the "Run MTP Responder" option (or press X on DBI's main menu) and then go to "My Computer" folder on your PC. You should see a "Switch" folder there, click on it and you'll see different numbered folders (like for example "1: External SD Card" or "7: Saves"). While in this screen you can pretty much manage most of the stuff on your Switch what you want to focus on is "5: Micro SD install" and "6: NAND install", simply pick the one that is for the storage you want to install your games to (the former being the SD Card and the latter being the internal storage) and then copy and paste your game file (NSP, XCI, NSZ, XCZ) on it and the game will be installed. Keep in mind that installation speed with this method might be slower than proper USB installing.
 
 - External USB installing
-	- This is also a pretty easy method, just put the game files on an external USB storage like a HDD or a USB stick and then select the corresponding option on your installer. Only works with some Awoo forks (ie AtmoXL-Titel-Installer) or DBI.
+	- This is also a pretty easy method, just put the game files on an external USB storage like a HDD or a USB stick and then select the corresponding option on your installer. Only works with some Awoo forks or DBI.
 
 
 ######What's the difference between the various formats Switch games comes in?

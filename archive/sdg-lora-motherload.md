@@ -676,3 +676,253 @@ Prompt:
 !!! info Bodycam footage of Elmo being arrested 
 
 !!! info Size: 512x512, Seed: 1142247472, Model: crystalClear_Photorealistic, Steps: 100, Sampler: Euler a, CFG scale: 8, Model hash: a77dd123e1
+***
+
+##Capybara
+
+Description:
+!!! note Makes capybaras.
+
+Triggerwords:
+!!! note capybara
+
+Download links: 
+https://pixeldrain.com/u/tm1TdskX
+https://files.catbox.moe/l0xts4.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/36kfa7.jpeg)
+
+Prompt:
+
+!!! info capybara, onsen, ninomae ina'nis, tentacle hair <lora:capi-09:0.75>
+
+!!! info Negative prompt: (worst quality, low quality:1.2)
+
+!!! info Size: 640x768, Seed: 2097496104, Model: based65_v20, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 8.5, Clip skip: 2, Model hash: 8112ab8b43, Hires upscale: 1.25, Hires upscaler: 4x_foolhardy_Remacri, Denoising strength: 0.71
+
+ ![2](https://files.catbox.moe/cjdzsx.jpeg)
+
+Prompt:
+
+!!! info i am legend, Will Smith, black leather jacket, city ruins in the background, destroyed bridge, capybara walks along, highly detailed, [ok i pull up], best quality, high res <lora:capi-09:0.5>
+
+!!! info Negative prompt: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, low quality, bad quality, worst quality, kid, child, text, watermark, negative_hand-neg, nsfw, nude
+
+!!! info Size: 512x512, Seed: 3393146244, Steps: 12, Sampler: Euler, CFG scale: 7, Mask blur: 4, Model hash: 9aba26abdf, ControlNet Model: control_v11f1e_sd15_tile [a371b31b], ControlNet Weight: 1, ControlNet Enabled: True, Denoising strength: 0.9, ControlNet Ending Step: 1, ControlNet Resize Mode: Crop and Resize, ControlNet Control Mode: Balanced, ControlNet Preprocessor: none, ControlNet Pixel Perfect: True, ControlNet Starting Step: 0, ControlNet Preprocessor Parameters: "(64, 64, 64)"
+***
+
+##Food Photography
+
+Description:
+!!! note Generates pictures of food. Please use this with realistic vision, it only really works with that.
+
+Triggerwords:
+!!! note foodphoto
+
+Download links:
+https://pixeldrain.com/u/X1nCTKXA
+https://files.catbox.moe/163vdk.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/6utt1t.jpeg)
+
+Prompt:
+
+!!! info RAW photo, waffles, <lora:foodphoto:0.8> foodphoto, dslr, soft lighting, high quality, film grain, Fujifilm XT
+
+!!! info Seed: 2358633856, Steps: 30, Sampler: Euler a, CFG scale: 7, Hires upscale: 2, Hires upscaler: Latent, Denoising strength: 0.55
+***
+
+##Gil Elvgren = Pin-Up Artist Series
+
+Description:
+!!! note Pin-up lora based on the art style of Gil Elvgren.
+
+Triggerwords:
+!!! note in the art style of gil elvgren, a painting of a woman
+
+Download links:
+https://pixeldrain.com/u/5DBjgpHm
+https://files.catbox.moe/14i8it.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/et48ql.jpeg)
+
+Prompt:
+
+!!! info <lora:g1l3lvgr3n_v1:0.8>, a painting of a woman wearing gloves is holding a coca cola bottle, smiling, in the art style of gil elvgren, award winning, masterpiece
+
+!!! info Negative prompt: By bad artist -neg, ng_deepnegative_v1_75t, (duplicate), (double), canvas frame, cartoon, 3d, (ugly eyes, deformed iris, deformed pupils, fused lips and teeth:1.1), un-detailed skin, cgi, 3d, render, sketch, anime, text, monochromatic, cropped, out of frame body, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, doll, child
+
+!!! info  Size: 512x768, Seed: 57151058, Model: protogenX34Photorealism_1, Steps: 70, Sampler: DPM++ SDE Karras, CFG scale: 8, Model hash: 44f90a0972, Face restoration: CodeFormer
+
+ ![2](https://files.catbox.moe/sf59yw.jpeg)
+
+Prompt:
+
+!!! info <lora:g1l3lvgr3n_v1:0.8>, a painting of a woman in lingerie in bed, in the art style of gil elvgren, highly detailed, award winning, masterpiece
+
+!!! info By bad artist -neg, ng_deepnegative_v1_75t, (duplicate), (double body), (twisted body), canvas frame, cartoon, 3d, (ugly eyes, deformed iris, deformed pupils, fused lips and teeth:1.1), un-detailed skin, cgi, 3d, render, sketch, anime, text, monochromatic, cropped, out of frame body, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, doll, child
+
+!!! info Size: 512x768, Seed: 3161884743, Model: protogenX34Photorealism_1, Steps: 40, Sampler: DPM++ SDE Karras, CFG scale: 8, Model hash: 44f90a0972, Face restoration: CodeFormer
+***
+
+##Catrina / Mexican Skull MakeUp
+
+Description:
+!!! note Mexican day of the dead makeup LoRA.
+
+Triggerwords:
+!!! note CatrinaMakeUp
+
+Download links:
+https://pixeldrain.com/u/RWDkDE8t
+https://files.catbox.moe/ga32ls.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/ru0w6a.jpeg)
+
+Prompt:
+
+!!! info yellow eyes,
+
+!!! info Negative prompt (low quality:1.4), (worst quality:1.4), (monochrome:1.1),(bad_prompt_version2:0.8), (bad-hands-5:1.1), badhands1, lowres,(Bored pose), static pose, busty bad hands, lowers, long body, disfigured, ugly, cross eyed, squinting, grain, Deformed, blurry, bad anatomy, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, disgusting, poorly drawn, mutilated, ((text)), ((centered shot)), ((symetric pose)), ((symetric)), multiple views, multiple panels, blurry, multiple panels, blurry, watermark, letterbox, text, easynegative,
+
+!!! info Size: 720x1024, Seed: 1690116249, Model: galenaREDUX_v10, Steps: 30, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Mask blur: 4, Model hash: a45ad8b386, Denoising strength: 0.45
+***
+
+##Classic Doomguy 
+
+Description:
+!!! note Doomguy in the classic space marine outfit.
+
+Triggerwords:
+!!! note doomguy
+
+Download links:
+https://pixeldrain.com/u/V4Pwhjhe
+https://files.catbox.moe/0jgf7h.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/wp5nn5.jpeg)
+
+Prompt:
+
+!!! info (doomguy:1.1), walking, cyan background, limited palette, bright green armor, (muscular:1.1), (bioluminescence:1.2), clothing cutout, open clothes, <lora:doomguy-15:1>
+
+!!! info Negative prompt: bad-picture-chill-75v, negative_hand-neg, backpack, eyes visible through headwear, motorcycle helmet, google, red visor
+
+!!! info Size: 512x512, Seed: 151596458, Model: realisticVisionV20_v20, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: c0d1994c73, Hires upscale: 1.5, Hires upscaler: Latent, ControlNet Model: control_v11p_sd15_openpose [cab727d4], ControlNet Module: none, ControlNet Weight: 1, ControlNet Enabled: True, Denoising strength: 0.5, ControlNet Guidance End: 1, ControlNet Guidance Start: 0
+
+ ![2](https://files.catbox.moe/kek1nn.jpeg)
+
+Prompt:
+
+!!! info (1girl:1.4), (doomguy:1.2), full body, (solo:1.4), (standing on one leg:1.2), (masterpiece, best quality, absurdres:1.3), winter city scene, <lora:doomguy-15:1>
+
+!!! info bad-picture-chill-75v, (orange background:1.3), 1boy,
+
+!!! info Size: 768x1024, Seed: 2772110705, Model: Dreamshaper_4_baked_vae_fp16, Steps: 20, Sampler: DPM++ 2S a Karras, CFG scale: 7, Clip skip: 2, Model hash: db2c51c333
+
+ ![3](https://files.catbox.moe/3ufywi.jpeg)
+
+Prompt:
+
+!!! info (masterpiece:1.4), best quality, illustration, (sweat), abs, navel
+
+!!! info Negative prompt: (low quality, worst quality:1.4), grain, pixelated, 3d, easynegative, bad-hands-5, art By bad artist -neg,
+
+!!! info Size: 512x512, Seed: 753062812, Model: abyssorangemix2_Hard, Steps: 33, {"vae": "f768813edc", "model": "cadf2c6654"}, Sampler: DPM++ SDE Karras, CFG scale: 9.5, Clip skip: 2, Mask blur: 4, Model hash: cadf2c6654, bad-hands-5": "aa7651be15", Denoising strength: 0.66, By bad artist -neg": "2d35613490"
+***
+
+##Siserg / Innocent Witches Style LoRA
+
+Description:
+!!! note Innocent Witches (porn game) art style LoRA. Use with a weight of around 0.8 and 1 for the best results.
+
+Triggerwords:
+!!! note no triggerwords
+
+Download links:
+https://pixeldrain.com/u/Xsf4gmgL
+https://files.catbox.moe/eut2b5.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/s51yfc.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, best quality, high resolution),panty pull, 1girl, ((solo):1.2), underwear, ass, thighhighs, hat, panties, candle, breasts, book, black hair, garter straps, bent over, large breasts, purple panties, short hair, lace, lace trim, ass grab, lips, witch hat, lace-trimmed legwear, pants, uncensored, makeup, brown hair, dress, fingering, lipstick, table, pants pull, <lora:siserg-000007:1>
+
+!!! info Negative prompt: EasyNegative, (worst quality:1.4), (low quality:1.4) ,(depth of field, bokeh, blurry:1.4), (monochrome:1.1),(bad_prompt_version2:0.8), bad-hands-5
+
+!!! info Size: 640x512, Seed: 2301744199, Steps: 20, Sampler: Euler a, CFG scale: 5, Clip skip: 2, Model hash: eac6c08a19, Hires steps: 20, Hires upscale: 1.5, Hires upscaler: 4x_Valar_v1, Face restoration: GFPGAN, Denoising strength: 0.4
+
+ ![2](https://files.catbox.moe/7huxn0.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, best quality, high resolution),1girl, female masturbation, masturbation, breasts, nipples, pussy, nude, spread legs, closed eyes, solo, blonde hair, pillow, jewelry, earrings, grabbing own breast, long hair, bed, large breasts, fingering, barefoot, uncensored, lying, on back, navel, completely nude, blush, stuffed toy, pussy juice, pubic hair, nipple tweak, on bed, indoors, condom, female pubic hair, stuffed animal, breasts apart, <lora:siserg-000007:1>
+
+!!! info EasyNegative, (worst quality:1.4), (low quality:1.4) ,(depth of field, bokeh, blurry:1.4), (monochrome:1.1),(bad_prompt_version2:0.8), bad-hands-5
+
+!!! info  Size: 640x512, Seed: 164055971, Steps: 20, Sampler: Euler a, CFG scale: 5, Clip skip: 2, Model hash: eac6c08a19, Hires steps: 20, Hires upscale: 1.5, Hires upscaler: 4x_Valar_v1, Face restoration: GFPGAN, Denoising strength: 0.4
+***
+
+##Strange Head
+
+Description:
+!!! note Generates characters with weird heads.
+
+Triggerwords:
+!!! note strange head, anything head
+
+Download links:
+https://pixeldrain.com/u/axaSqoX2
+https://files.catbox.moe/mtkiai.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/uzbkwy.jpeg)
+
+Prompt:
+
+!!! info strange head, sunflower head, flower, sunflower, solo, 1boy, male focus, holding flower, yellow flower, holding, black shirt, cowboy shot, pants, shirt, standing, black pants,no humans
+
+!!! info Negative prompt: (Worst Quality, Low Quality:1.4), (Poorly Made Bad 3D, Lousy Bad Realistic:1.1),humans
+
+!!! info Size: 768x768, Seed: 478275182, Model: mixProV3_v3, Steps: 40, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b6928134bb, Hires upscale: 2, AddNet Enabled: True, AddNet Model 1: strange_headV0.4-000006(b05951d2ba2f), Hires upscaler: R-ESRGAN 4x+ Anime6B, AddNet Module 1: LoRA, AddNet Weight A 1: 0.6, AddNet Weight B 1: 0.6, Denoising strength: 0.35
+
+ ![2](https://files.catbox.moe/karkjk.jpeg)
+
+Prompt:
+
+!!! info strange head,Goat skull head,1boy, solo, simple background, (((white background:1.2))), buttons, double-breasted, coat, belt, long sleeves,full body,no humans,
+
+!!! info Negative prompt: (Worst Quality, Low Quality:1.4), (Poorly Made Bad 3D, Lousy Bad Realistic:1.1),humans
+
+!!! info Size: 512x696, Seed: 3667275473, Model: anypastelAnythingV45_anypastelAnythingV45, Steps: 40, Sampler: Euler a, CFG scale: 10, Clip skip: 2, Model hash: 99d004eeec, Hires upscale: 2, AddNet Enabled: True, AddNet Model 1: strange_headV0.4-000006(b05951d2ba2f), Hires upscaler: R-ESRGAN 4x+ Anime6B, AddNet Module 1: LoRA, AddNet Weight A 1: 0.7, AddNet Weight B 1: 0.7, Denoising strength: 0.35
+***
+
+##HIMARS LoRa
+
+Description:
+!!! note Draws HIMARS'.
+
+Triggerwords:
+!!! note HIMARS
+
+Download links:
+https://pixeldrain.com/u/wabuuNFn
+https://files.catbox.moe/l7exss.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/kt7qek.jpeg)
+
+Prompt:
+
+!!! info
+
+!!! info
+
+!!! info

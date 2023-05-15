@@ -79,7 +79,7 @@ Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.
 Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
 KokoNuts|[Twitter](https://twitter.com/KokoNutsVT) [Twitch](https://www.twitch.tv/kokonuts)|
 KittyfluteVT|[Twitter](https://twitter.com/Kittyflutexbl) [Twitch](https://www.twitch.tv/kittyflutevt)|
-Mairwu|[Twitter](https://twitter.com/mairwu) [Twitch](https://www.twitch.tv/mairwu)| Tomboy rat friend
+Mairwu|[Twitter](https://twitter.com/mairwu) [Youtube](https://www.youtube.com/@Mairwu) [Twitch](https://www.twitch.tv/mairwu)| Tomboy rat friend
 KayukoVT|[Twitter](https://twitter.com/kayukoVT) [Twitch](https://www.twitch.tv/tentxclee)|
 Pema|[Twitter](https://twitter.com/PemaMysterious) [Twitch](https://www.twitch.tv/pema)|
 AurabunVT|[Twitter](https://twitter.com/AurabunVT) [Twitch](https://www.twitch.tv/aurabun)|

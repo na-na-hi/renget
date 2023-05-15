@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Wagner Best in Hell - Hiring
+https://files.catbox.moe/6xf94h.mp4
+>Wagner lancet compilation (not comfy,burning hohol)
+https://files.catbox.moe/310arw.mp4
+>M55S (T-55 woonderwaffen) destruction. Svatovo direction.
+https://files.catbox.moe/xw0znc.mp4
 >Airstrike in Ternopol, likely fuel depot
 https://files.catbox.moe/wgm3jh.mp4
 https://files.catbox.moe/g7dipa.MP4

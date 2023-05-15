@@ -66,7 +66,7 @@ Gains 300 initial points of [Cheer Support], casting QTE restores 150 points of 
 **ULTIMATE**
 Enters sniper mode, uses [White Note] to cast a total of 3 shots, dealing 500% + 500% + 700% ATK of Ice DMG. Each shot inflict 6 points of Rime trauma. 
 
-If Ultimate is used from off field state, when Ultimate ends, Shigure Kira will enter field after the final shot. 
+If Ultimate is used from off field state, when Ultimate ends, Shigure Kira will enter the field after the final shot. 
 
 (Note: Ult cast animation is a suspended animation and doesn't stop time. Aiming during sniper mode stops time)
 

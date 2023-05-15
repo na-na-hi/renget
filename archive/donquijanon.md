@@ -295,7 +295,7 @@ https://www.characterhub.org/characters/donquijanon/usui-sachi
 
 ### Rotting Soulmate
 ->![soul](https://files.catbox.moe/c3x0d1.png)<-
-Inspired by the story of the same name.
+Based on the story of the same name.
 https://www.characterhub.org/characters/donquijanon/rotting-soulmate
 
 Don't use my bots if you're a discordtranny or redditard.

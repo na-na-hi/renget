@@ -77,6 +77,8 @@ https://archived.moe/vp/thread/53361374/	#13
 https://archived.moe/vp/thread/53465542/	#14
 https://archived.moe/vp/thread/53503334/	#15
 https://archived.moe/vp/thread/53542821/	#16
+https://archived.moe/vp/thread/53631917/	#17
+https://archived.moe/vp/thread/53749857/	#18
 
 >story rules
 Ash must remain human, any story that has Ash either transforms into a pokemon (most notably a Latios) or was born one do not count and will not be added to the above list

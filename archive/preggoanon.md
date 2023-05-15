@@ -12,6 +12,7 @@ Next up: fix (improve) the rentry and more cards.
 https://c.ai/c/bxnDVND3u6vqOowBUV2Rkc7lOQRUIOiP8pTKH7-mgXU
 #####Sakura - Preggo Little Sister
 https://c.ai/c/PqLuUiShwy2HVRb70BT3hzaei8_6Gs9KX5x9gCAIM9o
+Tavern card: https://files.catbox.moe/w910xa.png
 #####Itsuki - Preggo Delinquent
 https://c.ai/c/hb2j5TkGb7cj2LfeLtXyFAGQjPgEmWY1weQn9o0SwIw
 #####Ui - Cripple Preggo Wife
