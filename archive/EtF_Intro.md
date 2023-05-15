@@ -96,7 +96,7 @@ President Alakazam almost raised his voice again, but took a moment to keep his 
 
 KFC opened his beak to argue, but decided it would be a waste of time. “Yes, sir...” he said, swallowing his pride.
 
-“Great…” Alakazam switched topics like he was checking off items on a list. “Now, as part of your deal, we’ve kept a close eye on your clan. Our scouts reported that a small group of them are traveling to Luminous Spring.” 
+“Great…” Alakazam switched topics like he was checking off items on a list. “Now, as part of your deal, we’ve kept a close eye on your clan. Our scouts reported that a small group of them are traveling to Luminous Spring. It's in a small clearing at the end of the Mystifying Forest that is North North East of here.” 
 
 “What?!” the fireless Combusken yelled. His eyes widened and his legs shuddered. He felt his heart beat faster against his chest and the blood rushing in his ears. No longer able to control the volume of his voice, he cried out, “That should’ve been the first thing you told me! If I run, I should be able to make it in time!” 
 

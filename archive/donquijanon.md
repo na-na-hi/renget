@@ -1,8 +1,9 @@
 #El changarro de bots by DonQuijAnon 
-pls don't bully am actual ESL
 
-I've got a character hub now: https://www.characterhub.org/users/donquijanon
-Burner: donjuanonwastaken@proton.me
+>ATTENTION: As of 14/05/2023 I'm on hiatus, probably will release fewer bots until uni stops taking most of my time. I still have a lot of bots on the back burner, planning on updating the Sylvie card more, and the Mexibots TM series is not over. I don't know how long I'll be away, and I don't like making promises and then not delivering. Hit me up in the /aicg/ threads if you want to say anything, I'm lurking most of the time. Also, I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+
+My Character hub: https://www.characterhub.org/users/donquijanon
+Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
 TO DO LIST: organize the bots better
 
 [TOC]
@@ -229,6 +230,13 @@ https://www.characterhub.org/characters/donquijanon/the-door
 Inspired by Hotline Miami and the phone calls from the Sims 1.
 https://www.characterhub.org/characters/donquijanon/the-phone
 
+## Melissa Smith
+->![melissa](https://git.characterhub.org/donquijanon/melissa-smith/-/raw/06daeb2f4b96c4a4feb9be9638d6b69e38bec254/raw/tavern_raw.png)<-
+This is my first fetish oriented bot and that's right, I'm an architect. I implemented a highly autistic stats system on this one. Don't use it if you're not into it.
+->![melissa2](https://files.catbox.moe/hnc676.png)<-
+
+https://www.characterhub.org/characters/donquijanon/melissa-smith
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -254,11 +262,21 @@ https://www.characterhub.org/characters/donquijanon/postal-dude
 ->![soldier](https://git.characterhub.org/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/Soldier
 
+### The Monkey's Paw
+->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
+https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
+
+## Ray-Kbys girls
+
 ### Sylvie (Teaching Feeling)
 ->![sylvie](https://git.characterhub.org/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/Sylvie
 >Update 9/05/2023: Added the system on the defs, now you don't need to add anything, but I'm leaving these if anyone wants to use them on other cards
+>Update 13/05/2023: Better display for stats. Please leave feedback.
 
+->![sylvie2](https://files.catbox.moe/0mty5x.png)<-
+
+(OUTDATED: Left for archiving purposes)
 Prompt 1: for simplicity. 
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. At 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.` 
 
@@ -275,8 +293,9 @@ https://www.characterhub.org/characters/donquijanon/usui-sachi
 - Backgrounds from the vn: https://files.catbox.moe/5q9p8a.rar
 - Alt card images: https://files.catbox.moe/37repe.zip
 
-### The Monkey's Paw
-->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
+### Rotting Soulmate
+->![soul](https://files.catbox.moe/c3x0d1.png)<-
+Inspired by the story of the same name.
+https://www.characterhub.org/characters/donquijanon/rotting-soulmate
 
 Don't use my bots if you're a discordtranny or redditard.

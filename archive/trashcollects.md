@@ -184,11 +184,12 @@ If you make some cool gens with these, feel free to post them over on the Crossk
 ### Low-Poly
 	mega.nz/file/PAcABRrS##tFCWwWyyatquNvrzLIUqPkrpYJhsS9nEjpY0mv4SNKM
 
-### Fluffusion Prototype r10 e7 640x
+### Fluffusion
 [![Fluffusion Protoype r10 e7 640x](https://files.catbox.moe/7d1t7y.png)](https://files.catbox.moe/qkvf3r.png)
 
 Seperate Fluffusion rentry maintained by the model author (?): https://rentry.org/fluffusion
 	
+	Prototype r10 e7 640x
 	.ckpt: https://pixeldrain.com/u/BiRcb1bH
 	.safetensors: https://pixeldrain.com/u/f9Le5J9P
 	e621 tags with post counts used in Fluffusion (could use it for looking up stuff, making wildcards or for use in Tag Autocomplete, put it in \extensions\a1111-sd-webui-tagcomplete\tags for that):

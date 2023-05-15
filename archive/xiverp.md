@@ -1,3 +1,5 @@
+REMINDER: No dickgirls, scat, or diapers in the thread. Please report anyone you see posting them.
+
 ╔═══════════════════════════════════════════════╗
 ║            　　　　　　　　　　　　  Resources & Info      　　 　 　　　　　　　　　            ║
 ╩═══════════════════════════════════════════════╩════════════════════════════════════════════

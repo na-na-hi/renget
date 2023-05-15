@@ -27,3 +27,5 @@
 ->[Summer Date Sheet](https://files.catbox.moe/uu1gl2.png)<-
 
 ->[Mirror Universe Alt Sheet](https://files.catbox.moe/sjdoof.jpg)<-
+
+->[Divination/Futures Sheet](https://files.catbox.moe/nvcw90.jpg)<-

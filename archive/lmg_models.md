@@ -1,5 +1,7 @@
 #->/lmg/ Model Links and Torrents <-
 
+!!! danger Due to a [recent quantization format change](https://github.com/ggerganov/llama.cpp/pull/1405), the Q4 and Q5 GGML/CPU models listed below are incompatible with the latest version of llama.cpp, and will need to be reconverted/quantized in order to fix the problem. Either use an older version of llama.cpp, convert the models yourself, or wait until someone else does it. Links will be added once they become available, and I'll note whether the model uses the old or new format.
+
 [TOC2]
 
 ## Changelog (MDY)
@@ -31,15 +33,15 @@ Model | 4-bit | 5-bit | 8-bit
 # Filtering/Bias Rundown
 !!! info
 
-	Both bias and filtering can be introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
+	Both bias and filtering is introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
 
-	In contrast, instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
+	Instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
 
 	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
 
-	Bias is a more subtle phenomenon that can influence the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political or social issues will typically result in outputs that align with left-wing narratives. 
+	Bias is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
 
-	Beyond hot-topic issues, bias also manifests as a "positivity" or "wholesomeness" weighting. For example, you can remove the filtering so that the model will comply with a request to output something derogatory or "offensive", but it can still skew the output to make it complementary instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
+	Beyond hot-topic issues, it also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
 
 	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
 

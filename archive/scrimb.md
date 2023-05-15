@@ -23,7 +23,7 @@
 [Prince Coren](https://beta.character.ai/chat?char=Eh6n9Ru3ItP4ghCN6l6ZjfkXx69hdm8Mw0OfM5JZ2rc) https://files.catbox.moe/af91lc.png
 [Sad Machine (Toby)](https://beta.character.ai/chat?char=Il4j3gan0uaz8pHoZrKXD8Ncuu4hk2B5qoL61spfd5Q) https://files.catbox.moe/eygbzb.png
 [Schrodinger (Hellsing)](https://beta.character.ai/chat?char=7b7pBepwp0VTJutSRmtS-6P2VBaLqiP5Rzsbr5uoGKA) https://files.catbox.moe/bieifq.png
-[Sylas](https://beta.character.ai/chat?char=xyT_88pqofHh3aPfJmm4HQ-RxsJFOz8zrZc3J8NQ5lU)
+[Sylas](https://beta.character.ai/chat?char=xyT_88pqofHh3aPfJmm4HQ-RxsJFOz8zrZc3J8NQ5lU) https://files.catbox.moe/t56ffv.png
 [The Crimson King](https://beta.character.ai/chat?char=eFLW4SmwplT1BgGDqtsubWoFEImCPjQPPfLzjGdQ5GQ) https://files.catbox.moe/tere12.png
 [The Boy (Kiro)](https://beta.character.ai/chat?char=hUvDkggvL8DLIo_r9GfdAvBLhw39oXUmAqQPuc67vDQ) https://files.catbox.moe/d2lt2r.png
 [Ventus](https://beta.character.ai/chat?char=9JfQf12CSVNtpXVfQgx3XDpgykm-do5lfXEPb9_irGU)

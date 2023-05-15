@@ -5,10 +5,6 @@ A curated list of LoRAs from civitai, huggingface, 4chan, 2ch.hk/ai/ and so on, 
 Discord: https://discord.gg/ktVSfP596Y
 I  take model/LoRA backup requests too. So if you need something saved, tell  me.
 
-All of civitai has been mirrored (as of 3/29/23) and the link is available in our discord. We're considering making torrents for each model and LoRA and putting them on the new SD wiki once it's up.
-
-Rentry status update (4/11/23): The R2 mirror anon bailed on us without saying a word and took the civitai mirror down for whatever reason (fuck him). And I have a fuckton of work that got dumped on me IRL, so I won't be able to update the rentry for a while. 
-
 Model Motherload: https://rentry.org/sdg-motherload
 
 #LoRA's
@@ -523,3 +519,160 @@ Prompt:
 
 !!! info Size: 640x768, Seed: 3851053250, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: 168144a879, Hires steps: 20, Hires upscale: 1.5, Hires upscaler: BSRGAN, Face restoration: GFPGAN, Denoising strength: 0.7
 ***
+
+##Darkest Dungeon
+
+Description:
+!!! note LoRA trained on the Darkest Dungeon art style.
+
+Triggerwords:
+!!! note ddstyle
+
+Download links: 
+https://pixeldrain.com/u/53TF4QqJ
+https://files.catbox.moe/8bd2uc.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/bu7fe4.png)
+
+Prompt:
+
+!!! info (darkest dungeon), ddstyle, (A portrait of a female pirate), pirate hat, ocean background, intricate, highly detailed, atmospheric background, dust, fog, (bokeh:1.3),(god rays:1.3)  <lora:DarkestDungeonV1.1:0.8>
+
+!!! info Negative prompt: (badhandv4:0.25), (worst quality, low quality, normal quality:1.4)
+***
+
+##M_Pixel 
+
+Description:
+!!! note LoRA for making pixel waifus and other characters. This would work great with the pixel extension. The LoRA creator says it pairs well with other LoRA's. Recommended settings for characters: resolution 512X768, hires fix 1.5, Denoising strength 0.4: 0.5, LoRA strength 0.5. Recommended settings for buildings: resolution, 768X768, hires fix 1.2
+
+Triggerwords:
+!!! note pixel
+
+Download links: 
+
+https://pixeldrain.com/u/9BnvpjWn
+https://files.catbox.moe/5fawh6.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/snhr4r.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, top quality, best quality), pixel,pixel art,1girl,full body, <lora:pixel_f2:0.5>
+
+!!! info Negative prompt: (worst quality, low quality:2),
+
+!!! info  Size: 512x768, Seed: 3871362733, Model: cetusMix_Coda2, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: 2, Model hash: 68c0a27380, Hires upscale: 1.5, Hires upscaler: Latent, Denoising strength: 0.5
+
+Gen examples:
+ ![1](https://files.catbox.moe/w1cov4.jpg)
+
+Prompt:
+
+!!! info 1girl, dress, jacket, rain, ground vehicle, mecha, motor vehicle, motorcycle, on motorcycle, vehicle focus, wheel, night, road, street, rain, city, puddles, <lora:waifu_on_Motorcycle_v2:0.8>, Masterpiece, best quality , pixel, pixelart <lora:pixel_f2:0.5>
+
+!!! info Negative prompt: easynegative
+
+!!! info Size: 1024x1536, Seed: 2862538056, Model: duelanimemix_v1, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Mask blur: 4, Model hash: 2b93503072, Face restoration: CodeFormer, Denoising strength: 0.3
+***
+
+##Colored Icons / Logo Generator
+
+Description:
+!!! note Now you can generate infinite numbers of Logos and Colored Icons with this LoRA. Works 80% of time, I will train with more images in next update to make it even better.   It is trained on Dream Shaper so prefer that, though it works fine with many other models too. Size needs to below 600px, for higher resolutions use upscaling. Weight: 0.6 to 0.9 works great.
+
+Triggerwords:
+!!! note coloredic0n icon
+
+Download links: 
+https://pixeldrain.com/u/6782Ej5a
+https://files.catbox.moe/nl55zw.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/6z66nr.jpeg)
+
+Prompt:
+
+!!! info <lora:Colored_Icons_by_vizsumit:0.8> coloredic0n icon, pirates,
+
+!!! info Size: 512x512, Seed: 3761643460, Model: dream-shaper-5, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: ffad8f3da7
+
+![2](https://files.catbox.moe/779szx.jpeg)
+
+Prompt:
+
+!!! info <lora:Colored_Icons_by_vizsumit:0.8> coloredic0n icon, a pumpkin
+
+!!! info Size: 500x500, Seed: 2246637516, Model: dream-shaper-5, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: ffad8f3da7
+***
+
+##Kardia of Rhodes / Knight-Girl LoRA
+
+Description:
+!!! note Kardia of Rhodes / Knight-Girl LoRA. This LoRA was trained on NovelAI, so it will not do particularly well with realistic models. It was also trained with a heavily NSFW dataset. This dataset was also heavily geared towards the character Kardia of Rhodes.
+
+!!! note The strength is good from 0.6 to 0.8, but I use 0.75 strength. All images are generated are generated with Hires Fix and the Orangemix VAE. All pictures were made with the blends available on my profile.
+
+!!! note The keyword to this LoRA is "knightgirl". Additionally, you can have things such as 'helm', 'helmet', 'armor', 'breastplate', etc. Any tag involving armor will do the trick. If you tag without nudity, you'll probably get non-nude results, but it's pretty geared towards partial nudity. Still more clothed than the average MMO woman outfit though.
+
+Triggerwords:
+!!! note knightgirl
+
+Download links: 
+https://pixeldrain.com/u/eccj6Acp
+https://files.catbox.moe/z31qgp.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/a55fgt.jpeg)
+
+Prompt:
+
+!!! info beautiful, (masterpiece:1.2), (best quality:1.2), perfect face, perfect eyes, perfect lighting, 1girl, armor, black hair, boots, breasts, collar, female pubic hair, gauntlets, greaves, high heels, holding, huge breasts, large breasts, long hair, navel, nipple bar, nipple piercing, nipple rings, nipples, nude, pauldrons, piercing, pubic hair, pussy, shield, shoulder armor, solo, sword, uncensored, weapon, yellow eyes, knightgirl, <lora:Knightgirl LoRA:0.75>
+
+!!! info Negative prompt: (low quality, worst quality:1.3),(monochrome:1.1),(bad-hands-5:0.6),(bad_prompt_version2:0.8),(EasyNegative)
+
+!!! info Size: 512x768, Seed: 444857567, Model: Euclase Blend, Steps: 75, Sampler: DPM++ SDE Karras, CFG scale: 6, Model hash: f725cdf24b, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x_fatal_Anime_500000_G, Denoising strength: 0.45
+
+Gen examples:
+ ![2](https://files.catbox.moe/kvzl9g.jpeg)
+
+Prompt:
+
+!!! info beautiful, (masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, armor, belt, breasts, cleavage, cowboy shot, arms at side, full armor, gauntlets, helm, helmet, large breasts, pauldrons, shorts, shoulder armor, simple background, solo, knightgirl, <lora:Knightgirl LoRA:0.75>
+
+!!! info (low quality, worst quality:1.3),(monochrome:1.1),(bad-hands-5:0.6),(bad_prompt_version2:0.8),(EasyNegative)
+
+!!! info Size: 512x768, Seed: 991172750, Model: Galena Blend, Steps: 75, Sampler: DPM++ SDE Karras, CFG scale: 6, Model hash: 007bac7501, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x_fatal_Anime_500000_G, Denoising strength: 0.45
+***
+
+##Body Cam Footage
+
+Description:
+!!! note Generates images that look like bodycam footage.
+
+Triggerwords:
+!!! note Bodycam
+
+Download links: 
+https://pixeldrain.com/u/bNVgWX65
+https://files.catbox.moe/fv2y17.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/c78apk.jpeg)
+
+Prompt:
+
+!!! info Bodycam footage of Halo Master Chief being arrested 
+
+!!! info Size: 512x512, Seed: 2582394543, Model: crystalClear_Photorealistic, Steps: 150, Sampler: Euler a, CFG scale: 8, Model hash: a77dd123e1
+
+Gen examples:
+ ![2](https://files.catbox.moe/9gre2b.jpeg)
+
+Prompt:
+
+!!! info Bodycam footage of Elmo being arrested 
+
+!!! info Size: 512x512, Seed: 1142247472, Model: crystalClear_Photorealistic, Steps: 100, Sampler: Euler a, CFG scale: 8, Model hash: a77dd123e1

@@ -5,10 +5,6 @@ A curated list of models from civitai, huggingface and other sites, and a back u
 **Discord: https://discord.gg/2Vnxqtd922**
 I  take model/LoRA backup requests too. So if you need something saved, tell  me.
 
-All of civitai has been mirrored (as of 3/29/23) and the link is available in our discord. We're considering making torrents for each model and LoRA and putting them on the new SD wiki once it's up.
-
-Rentry status update (4/11/23): The R2 mirror anon bailed on us without saying a word and took the civitai mirror down for whatever reason (fuck him). And I have a fuckton of work that got dumped on me IRL, so I won't be able to update the rentry for a while. 
-
 **LoRA Motherload: https://rentry.org/sdg-lora-motherload**
 
 #Models
