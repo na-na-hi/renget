@@ -101,12 +101,12 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 
 ***
 ##->General Resources / Guides for Large Language Models (LLM) & Datasets<-
-!!! info Tag Information || Last Updated: May 13th, 2023
+!!! info Tag Information || Last Updated: May 14th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-    V. ~~Striked out Entry~~ = Project or model entry 404'd or got deleted.
+    V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
     VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (as well as an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who simply want access to the latest and greatest models and datasets. Charts below here should hopefully help serve as a reference (geared towards newer anons) about each project's activity status, quick information about the different models/datasets, guides, and a place to find other Rentry pages.
@@ -116,9 +116,9 @@ Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Reso
 ---|:-|:-|:-|:-:|---
 llama.cpp | CPU | LLaMA Port in C++ | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp 
 AgustusCletus's `⇲llama.cpp` | GPU | Fork Proj. | [AgustusCletus](https://github.com/AgustusCletus) | ◎ Ŏ | https://github.com/AgustusCletus/llama.cpp 
-llama-7b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
-llama-13b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
-llama-33b-ggml-q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 
+llama-7b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main 
+llama-13b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main 
+llama-33b-ggml ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main 
 LLaMa-65B Quantized | CPU | GGML | [CRD716](https://huggingface.co/CRD716) | ◕ Ŏ | https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main
 
 ####Alpaca (LlaMA) Models, Guides & Resources:
@@ -129,7 +129,7 @@ Alpaca Native | GPU | `↳PyTorch` | [Chavinlo](https://huggingface.co/chavinlo)
 GPT4-X-Alpaca `⇲Alpaca NAtive` | GPU | `↳PyTorch` | [Chavinlo](https://huggingface.co/chavinlo) | ◕ Ŏ | https://huggingface.co/chavinlo/gpt4-x-alpaca 
 GPT4-X-Alpaca 13b Native 4bit `⇲Alpaca NAtive` | Multiple | w/`↳GPTeacher` | [anon8231489123](https://huggingface.co/anon8231489123) | ◕ Ŏ | https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main
 Alpaca LoRA | GPU | LoRA for GPU's | [Tloen](https://github.com/tloen) | ◕ Ŏ | https://github.com/tloen/alpaca-lora 
-Alpacino 13b q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main
+Alpacino 13b ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main
 GPT4-x-AlpacaDente2-30b | GPU | `↳Alpaca-LoRA-30B-elina`&`↳Open Ass 2nd Tune` | [Aeala](https://huggingface.co/Aeala) | ◕ Ŏ | https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 
 ####GPT4-ALL (LlaMA) Models, Guides & Resources:
@@ -153,10 +153,10 @@ Vicuna-13b-cocktail | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface
 ####Opan Assistant (Oasst-LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-Oasst LlaMA 13B q4 | CPU | GGML | [Black-Engineer](https://huggingface.co/Black-Engineer) | ◕ Ŏ | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
-Oasst LlaMA 33b q5_0 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main
-Oasst LlaMA 33b q5_1 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main
-Oasst-sft-6-llama-30b-xor | N.A | Fine-Tune (XOR) | [OpenAssistant](https://huggingface.co/OpenAssistant) | ◕ Ŏ | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+Oasst LlaMA 13B ==q4== | CPU | GGML | [Black-Engineer](https://huggingface.co/Black-Engineer) | ◕ Ŏ | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
+Oasst LlaMA 33b ==q5_0== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main
+Oasst LlaMA 33b ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main
+Oasst-sft-6-llama-30b ==xor== | N.A | Fine-Tune (XOR) | [OpenAssistant](https://huggingface.co/OpenAssistant) | ◕ Ŏ | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
 
 ####WizardLM (LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
@@ -171,8 +171,8 @@ WizardLM alpaca evol instruct 70k unfiltered | N.A | dataset | [Ehartford](https
 ####SuperCOT (LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-|:-:|---
-llama-13b-supercot q5_1 sft6 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main
-llama-33b-supercot q5_1 sft6 | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main
+llama-13b-supercot ==q5_1== ==sft6== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main
+llama-33b-supercot ==q5_1== ==sft6== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main
 
 ####BluemoonRP (LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
@@ -222,10 +222,10 @@ RedPajama-Data | N.A | Data Repository | [RedPajama (GitHub)](https://github.com
 RedPajama INCITE 3B v1 | Multi. Inf. | `↳GPT-NeoX` | [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | ◕ Ŏ Ĩ | [Base-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1), [Instruct-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-3B-v1), [Chat-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1)
 RedPajama INCITE 7B v1 | Multi. Inf. | `↳GPT-NeoX` | [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | ◕ Ŏ Ĩ | [Base-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-7B-v0.1), [Instruct-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1), [Chat-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1)
 Koishi Instruct-3B | GPU | Finetune: `↳INCITE Base 3B` | [Ewof](https://huggingface.co/ewof) | ◕ Ŏ | https://huggingface.co/ewof/koishi-instruct-3b
-Koishi Instruct 3B-f32 `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-f32
-Koishi Instruct 3B-4.1q `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q4_1
-Koishi Instruct 3B-5.1q `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q5_1
-Koishi Instruct 3B-8.0q `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q8_0
+Koishi Instruct 3B ==f32== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-f32
+Koishi Instruct 3B ==4.1q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q4_1
+Koishi Instruct 3B ==5.1q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q5_1
+Koishi Instruct 3B ==8.0q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q8_0
 
 ***
 ###Other Datasets & Related Resources:
@@ -233,15 +233,17 @@ Project & Model Names: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
 ---|:-|:-|:-:|---
 ShareGPT | ChatGPT Datalogs | [Domeccleston](https://github.com/domeccleston) | ◕ Ŏ | https://github.com/domeccleston/sharegpt
 GPTeacher | GPT4 Modular Datasets | [Teknium1](https://github.com/teknium1) | ◕ Ŏ | https://github.com/teknium1/GPTeacher
+Encyclopedia Britannica Loaded | Britannica Dataset | [Davanstrien](https://huggingface.co/davanstrien) | ◕ Ŏ | https://huggingface.co/datasets/davanstrien/encyclopedia_britannica_loaded
+Embedding Wikipedia | Guide & Resource | [Nils Reimers](https://txt.cohere.com/author/nils), [Jay Alammar](https://txt.cohere.com/author/jay) [Cohere](https://cohere.com)| ◕ Ŏ $ | https://txt.cohere.com/embedding-archives-wikipedia/
 
 ***
 ##->Related Projects for Large Language Model (LLM) & Guides<-
-!!! info Tag Information || Last Updated: May 13th, 2023
+!!! info Tag Information || Last Updated: May 14th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-     V. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
+     V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
 !!! info
      This section will focus on projects and repositories that deal with the creation/finetuning/pruning of large language models, frameworks, quantization, and benchmarking.
 
@@ -298,6 +300,7 @@ FastChat | Training Platform | w/ Web UI | Multiple Universities | ◕ Ŏ/⌀ Ĩ
 Ooba's Training Guide | Train. Guide | Ooba's WebUI | [Oobabooga](https://github.com/oobabooga) |  ◕ Ŏ | https://github.com/oobabooga/text-generation-webui/blob/main/docs/Training-LoRAs.md
 DASLab GPTQ | Post-Train. | GPTQ Impl. | [IST Austria: Alistarh Group](https://github.com/IST-DASLab) |  ◕ Ŏ Ĩ | https://github.com/IST-DASLab/gptq
 Pythia | Training | Huggingface | [EleutherA](https://github.com/EleutherAI) | ◕ Ŏ Ĩ | https://github.com/EleutherAI/pythia
+Dataset Preparation Tool for LLM Training | Training Tool | `↳YAML` Config. w/ text transformers | [Justin42](https://github.com/Justin42) |  ◕ Ŏ | https://github.com/Justin42/dsbuild
 
 ###Pruning Guides & Resources:
 Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
@@ -334,7 +337,7 @@ LLM Benchmark Prompts | Pastebin | Prompts | Anonymous | ◕ | https://pastebin.
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
-    IV. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
+    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
 !!! info
      This section will focus on resources for Story writing, Roll-Playing, Erotic-Roll-Playing using WebUIs for LLMs and other interfaces. 
 
@@ -351,7 +354,7 @@ Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection| Anonymous | ◕ |
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
-    IV. ~~Striked out Entry~~ = Project or entry 404'd or got deleted.
+    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
 !!! info
      This section will focus on characters and resources for large language model interfaces, which will contain Rentry pages, generators, guides and other overall resources.
 ###Character Generators & General Information:

@@ -30,6 +30,14 @@ Workshops all over the country will worship a wide array of Chuubas that they be
 The dead will usually be sent out to the sea with their favorite tool in life so that they may offer it to their oshi once they reach their ports in the heavenly realm
 Onobots however are very particular about recovering every corpse of themselves that they hear about in order to recycle them to repair themselves or create new Onobots from the parts 
 
+## ->**Locations**<-
+
+### Capital
+Capital is the Capital City of the Retro Reich and build where the Onobots first crashed upon the world. It features a main Castle build partly out of pieces from the Spaceship they used to traverse the skies. There in the Throne Room, Onolumi is reigning the Nation tho no one ever was allowed an audience with her or has seen her at all. Nowadays Capital is a flourishing city with a huge market and harbor fitting for the capital city of a maritime trading nation.
+
+### Shipyard Stationtown
+Shipyard Stationtown is less a traditional city but more the result of Shipyard docks, and the buildings to support them, slowly merging together over time into one, almost 200 km long city. The depths of the city however barely reaches a single kilometer as buildings to support the docks are built all around them and on top of each other, creating a huge almagation of wood, stone and rope, where places often need to be reached via ladders or bridges. and a pub could be "hanging" a hundred meters off ground only supported by beams built towards its surroundings. The place is everchanging as it fits itself for the desires of the free spirited workers who also shape it to meet the demands for their creations. A ship being canceled could suddenly become a place to life and party in, while somwhere else some older part gets cleaned up for a new dock.
+
 ## ->**Military**<-
 The primary focus of the Reich's military is focussed upon their Navy, wich is used actively as escorts for the many merchant ships of the country and is thus well-trained and maintained at all times. Due to Onobots however investing a lot into it without properly telling the Navy officials about it the proper size of it is unknown, the rough estimates of its size is as followed:
 

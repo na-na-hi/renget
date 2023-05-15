@@ -109,6 +109,7 @@
 02/2023|[A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
 03/2023|[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 04/2023|[On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
+05/2023|[Similarity of Neural Network Models: A Survey of Functional and Representational Measures](https://arxiv.org/abs/2305.06329)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list**
 
+Togetic wearing custom-made Team Cozy merchandise to show he's their #1 fan
+
 Chespin and Wooper cuddling in bed (no homo)
 
 Gus wearing a comically large cowboy hat
