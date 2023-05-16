@@ -1,4 +1,4 @@
-#[/llst/ - Love Live Seiyuu Thread](https://www.youtube.com/watch?v=TVFw7ecocjc)
+#[/llst/ - Love Live Seiyuu Thread](https://twitter.com/teamonibe/status/1658109988244692992/)
 -> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
 ##Changelog:

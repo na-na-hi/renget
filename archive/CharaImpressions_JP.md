@@ -673,7 +673,7 @@ Cons:
 [Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
 
 ### -> Alchemist Karin<-
-Karin's gimmick is that she's a support meant to sustain teammates via heals and defensive buffs, while weakening the enemies with debuffs. Unfortunately, these kinds of buffs aren't typically useful in most scenarios. Even when these are useful, she's possibly going to be subjected to skill level autism due to the way TP Gain is calculated in relation to defensive buffs. **(Ex. being A.Yori, Maho, Ames)** As she is a welfare unit, she's most likely designed to not be strong. Unless they give her some sort of TP on her UE next year, you probably won't see her outside of some Arena usage where she's the backline unit (This section will be updated once I get her growpshere and run some tests on her skills in Arena)
+Karin's gimmick is that she's a support meant to sustain teammates via heals and defensive buffs, while weakening the enemies with debuffs. Unfortunately, these kinds of buffs aren't typically useful in most scenarios. Even when these are useful, she's possibly going to be subjected to skill level autism due to the way TP Gain is calculated in relation to defensive buffs. **(Ex. being A.Yori, Maho, Ames)** As she is a welfare unit, she's most likely designed to not be strong. Unless they give her some sort of TP on her UE next year, you probably won't see her. The best you can hope for, is a way for new players to combat massive damage and clear stuff earlier than expected
 
 
 
@@ -728,3 +728,33 @@ Cons:
 - HP Bond stories (Could be a buff for Djeeta 6 Star, probably not.)
 
 [Return to Top](https://rentry.co/CharaImpressions_JP#jp-character-impressions)
+
+### ->Vikala<-
+**TL;DR: Buffer that has invulnerability and TP Boost+Restore but lacks a debuff.**
+
+Vikala is a P.dmg buffer that leans heavily into the buffing side, in terms of her skills. TP boost increase and restoration are always an attractive option and the rest of her kit performs well, despite the requirement of the S2 field needing to be active. Her being incredibly skill-reliant means you have less control over when you activate her more powerful skills. This also means that cancelling autos is good, to generate more TP buffs and not skip any S2s. 
+Her positioning is pretty bad in relation to the meta of Christina 1st position, but that doesn't account for how potentially strong Muimi will be, or other common 1st position units such as Tomo, Djeeta or X.Jun. We can easily see these kinds of comps shift, especially against magic damage - Since Chris does not dodge magic damage.
+ While Vikala does not have the stats/skills required to be a 1st position unit or the main damage dealer in her comps, she does have invuln to all damage on her UB. This is to combat her incredibly low defensive stats and allow her to simply ignore lethal damage. This also means that she probably won't be too friendly to auto players, as timing a dodge or cancelling one of her autos could be the difference between life or death. Twin Pigs' table flip or Wyvern UB are good examples of when you'd love to just have the damage miss for a squishy teammate.
+Overall, unless you need your support to dodge lethal damage every now and again, she may not see too much usage. Some of the test comps out there don't really abuse her invuln, which is what separates her from other TP buffer hybrids such as X.Miyako, Aki/Saren, C.Tamaki,, SA.Tamaki, Laby, Creditta who also do damage in addition to their TP restore. Every slot is precious in a team comp, so units need their entire kit to have big impact if they want to be meta. Probably gonna be a nice piece if you need invulnerability, but physical teams have stiff competition in the support type role. High end of borrow tier, could be must roll with UE in the future. Full auto/SET only players may not enjoy.
+
+-> ![Vikala](https://redive.estertion.win/card/full/125631.webp) <-
+
+Pros:
+- UB gives invulnerability for 4s
+- UB gives good conditional P.Atk buff (If field is active)
+- TP restoration, TP Boost & P.Crit dmg increase to units in range by 5% for 12s on S1 (Increased if field is active)
+- Good P.Atk, P.Crit chance buff on S2
+- Field activation on S2 applies a HoT to allies in range
+- Fantastic skill loop & opening pattern
+- Positioned behind some common physical 1st Position units (X.Jun, Muimi 6 Star, Piyori)
+- S2 field reaches all frontline units in the game, up to S.Hatsune (Laby for relevant physical units)
+
+Cons:
+- Extremely squishy, cannot take hits well
+- Low damage (UB is the only damage skill)
+- Skills require field to be active, otherwise they are weakened significantly (50 TP restore vs 100, no TP boost increase)
+- Positioned behind Christina
+- No P.Def debuff
+- No Action Speed buff
+- Not SET/Auto friendly
+- No barrier

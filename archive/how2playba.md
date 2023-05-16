@@ -493,7 +493,9 @@ If you're playing the game for a specific girl, I'd still suggest playing now ev
 
 >I just missed the X banner, will she get a rerun?
 Students attached to a story event get a rerun, including limited units. Otherwise the chance is pretty slim.
-See https://bluearchive.wiki/wiki/Banner_List for future banners. 
+See https://bluearchive.wiki/wiki/Banner_List for future banners.
+
+If it's a limited unit they seem to be getting a yearly rerun. Anniversary units can be rolled during anniversary banners, but won't be sparkable. 
 
 >Should I join a (/bag/) club? 
 Yes. It's 10 AP daily, an extra source of credits, and it lets you borrow hyper invested students for Total Assault, Joint Exercise, and Conquest.

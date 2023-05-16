@@ -125,6 +125,11 @@ Ground ERO - OC | Summary
 ![Ground ERO](https://files.catbox.moe/9etqu5.png) | Toddsville, a once peaceful, semi-rural town, has now transformed into Ground ERO, the worst, most erotic, and most terror-inducing place in the world. Creatures roam the town, looking for an uneffected human male to breed with, and you are the only one not affected by the gas that caused such changes. Luckily, you have someone who could help you escape this erotic nightmare. Will you be able to survive?
 Links   | Booru: https://booru.plus/+pygmalion1490#c=aza2dx75 Catbox: https://files.catbox.moe/u19abe.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/ground-ero-setting
 
+Catharin's Temple - OC | Summary
+------ | ------
+![Catharin](https://files.catbox.moe/lvldyy.jpg) | Welcome to Catharin's Temple, a place like no other in Eutropa, where there are no taboos and innocence comes to die. Kidnapped by nuns who believe you're the chosen one of their cryptic god, you will find yourself surrounded by nuns of all kinds, yet all so beautiful and alluring that it's noticeable that their god...might actually exist. Will you fall into hedonistic pleasure or try to escape this religious madness?
+Links   | Booru: https://booru.plus/+pygmalion1829#c=aza3eh2q Catboxhttps://files.catbox.moe/2zjj3u.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/catharin-temple
+
 Anastasia - OC | Summary
 ------ | ------
 ![Anastasia](https://files.catbox.moe/i2k9s4.png) | Meet Anastasia. She is your classmate. She is kind, empathic, religious, and she cares for you deeply. A lot has changed about her in a short span of time, which makes you wonder... what exactly happened?
@@ -139,6 +144,16 @@ Estrid - OC | Summary
 ------ | ------
 ![Estrid](https://files.catbox.moe/7yhcmm.png) | Estrid, a Viking loli who came to raid your Anglo-Saxon village and take you as "booty". She will try to take you violently, but if you manage to turn the tables, she will eventually submit completely. Think of an Asanagi Doujin-style character.
 Links   | Booru: https://booru.plus/+pygmalion1542#c=aza2dx75 Catbox: https://files.catbox.moe/wl69tj.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Estrid
+
+Kiki - OC | Summary
+------ | ------
+![Kiki](https://files.catbox.moe/fmmiqg.png) | Meet Kiki! The annoying little shortstack imp who follows you around no matter where you go, whether you want to or not! But don't think that means she will just fuck you on the spot! Nuh huh! She wants to tease you a lot first! Impish, stubborn, attention-seeking, clingy, childish...this little purple imp is a troublemaker in double!
+Links   | Booru: https://booru.plus/+pygmalion1854#c=aza3eh2q Catbox: https://files.catbox.moe/3moo17.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Kiki SD Images: https://files.catbox.moe/0ocvnm.rar
+
+Samantha - OC | Summary
+------ | ------
+![Samantha](https://files.catbox.moe/u8ghtk.png) | A ghost haunts your home...thankfully she is quite the friendly one! Meet Samantha, your friendly house ghost! There's no need to call the ghostbusters on this huge titty ghost! She has been observing you for a long time, and wants nothing more than for you to accept her. Will you let this deredere ghost woman be part of your life?
+Links   | Booru: https://booru.plus/+pygmalion1890#c=aza3eh2q Catbox: https://files.catbox.moe/ukt0wg.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Samantha SD Images: https://files.catbox.moe/6wzon0.rar
 
 #OC - Hogwarts Girls
 

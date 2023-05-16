@@ -600,10 +600,30 @@ Link:
 ### Various (Penis Lineup, Kass, Krystal, Loona, Protogen, Puro, Spyro, Toothless
 	https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA
 
-### Zorayas (Elden Ring)
-https://civitai.com/models/54924/zorayas-elden-ring-lora
-Direct DL: https://civitai.com/api/download/models/59321?type=Model&format=SafeTensor
+### Puffin's LoRAs
+Pic taken 2023/05/16
+![Puffin's Stuff](https://files.catbox.moe/9uqnzq.png)
 
+Looking them over, some of these are likely the same ones posted before ITT, currently filed under "Birds" up above. Gonna leave it up, for posterity's sake.
+Some of these are Lycoris files; check out [this extension](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) if you encounter problems.
+
+	Tweetfur: https://civitai.com/api/download/models/11442?type=Model&format=SafeTensor&size=full&fp=fp16
+	Puffin: https://civitai.com/api/download/models/11432?type=Model&format=SafeTensor&size=full&fp=fp16
+	Anthro Griffin: https://civitai.com/api/download/models/30044?type=Model&format=SafeTensor&size=full&fp=fp16
+	Mae Borowski (Night in the Woods): https://civitai.com/api/download/models/30127?type=Model&format=SafeTensor&size=full&fp=fp16
+	Marie Itami (Brand New Animal): https://civitai.com/api/download/models/30940?type=Model&format=SafeTensor&size=full&fp=fp16
+	Bea Santello (Night in the Woods): https://civitai.com/api/download/models/31668?type=Model&format=SafeTensor&size=full&fp=fp16
+	Cockatiel: https://civitai.com/api/download/models/11446?type=Model&format=SafeTensor&size=full&fp=fp16
+	Anthro Birds: https://civitai.com/api/download/models/32214?type=Model&format=SafeTensor&size=full&fp=fp16
+	Rito (Species, BotW): https://civitai.com/api/download/models/41394?type=Model&format=SafeTensor
+	Falco (Star Fox): https://civitai.com/api/download/models/42650?type=Model&format=SafeTensor
+	Coco Bandicoot: https://civitai.com/api/download/models/57895?type=Model&format=SafeTensor
+	Elora (Spyro): https://civitai.com/api/download/models/58081?type=Model&format=SafeTensor
+	Zorayas (Elden Ring): https://civitai.com/api/download/models/59321?type=Model&format=SafeTensor
+	Tempest Shadow (MLP): https://civitai.com/api/download/models/62278?type=Model&format=SafeTensor
+	Secretary Bird: https://civitai.com/api/download/models/63229?type=Model&format=SafeTensor
+	Anthro Corvids: https://civitai.com/api/download/models/64462?type=Model&format=SafeTensor
+	
 ## Assorted Random Stuff
 
 ###X/Y Grid of Artists

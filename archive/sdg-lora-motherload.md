@@ -545,7 +545,7 @@ Prompt:
 ##M_Pixel 
 
 Description:
-!!! note LoRA for making pixel waifus and other characters. This would work great with the pixel extension. The LoRA creator says it pairs well with other LoRA's. Recommended settings for characters: resolution 512X768, hires fix 1.5, Denoising strength 0.4: 0.5, LoRA strength 0.5. Recommended settings for buildings: resolution, 768X768, hires fix 1.2
+!!! note LoRA for making pixel waifus and other characters. This would work great with the pixelization extension. The LoRA creator says it pairs well with other LoRA's. Recommended settings for characters: resolution 512X768, hires fix 1.5, Denoising strength 0.4: 0.5, LoRA strength 0.5. Recommended settings for buildings: resolution, 768X768, hires fix 1.2
 
 Triggerwords:
 !!! note pixel
@@ -964,3 +964,94 @@ Prompt:
 !!! info Negative prompt: EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand, (multiple girls:1.5), extra legs, extra breasts,
 
 !!! info Size: 1000x800, Seed: 3952295309, Model: V08_V08a, Steps: 20, Sampler: Euler a, CFG scale: 3.5, Clip skip: 2, Mask blur: 4, Face restoration: CodeFormer, Denoising strength: 0.5
+***
+
+##2B (4 versions)
+
+Description:
+!!! note You can generate 4 versions of 2B with this LoRA. Blindfold + black dress, no blindfold + black dress, blindfold + white leotard, no blindfold + white leotard. Just keep in mind that you have to put "blue eyes" in your prompt when generating 2B without a blindfold and use "covered navel, white leotard" in your prompt for the white outfit.
+
+Triggerwords:
+!!! note yorha no. 2 type b
+
+Download links:
+https://pixeldrain.com/u/XZp3sW7m
+https://files.catbox.moe/sa1r9c.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/jwqoav.jpeg)
+
+Prompt:
+
+!!! info (((extremely detailed))),(((masterpiece))),(((best quality))), illustration,clear-cut margin,((motion line)), aiming at viewer, battle, ((monochrome)),(((solo,masterpiece,best quality,highly detailed,volumetric lighting))), ((extremely detailed)), (((masterpiece))), (((best quality))), illustration, clear-cut margin, (1girls:1.2), photorealistic, (finely detailed water:1.1), (depth of field:1.1), (ruins:1.2), jewelry, (first person view:1.2), (rainy:1.3), (rainbows:1.1), shadows, (death stranding:1.3),yorha no. 2 type b, solo, white hair, puffy sleeves, short hair, mole under mouth, long sleeves, juliet sleeves, cleavage cutout, black hairband, parted lips, black thighhighs, black gloves, cleavage, turtleneck, bangs, feather trim, feather-trimmed sleeves, black blindfold, covered navel, white leotard, <lora:2bYorhaNo2TypeBNier_v1:0.7>, (close-up ass:1.2), ass focus. standing, wet, (rain:1.4), night, from behind ,official art,
+
+!!! info Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo, monochrome, worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs
+
+!!! info Size: 512x768, Seed: 2864179044, Model: darkSushiMixMix_brighter, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7.5, Clip skip: 2, Model hash: 0b8d2055c5, Hires steps: 20, Hires upscale: 2, Hires upscaler: realesr-animevideov3, Denoising strength: 0.55
+
+![2](https://files.catbox.moe/55sion.jpeg)
+
+Prompt:
+
+!!! info model style,(masterpiece:1.3),best quality,ultra high res, (sharp focus), (photorealistic:1.5),extremely detailed cg unity 8k wallpaper,yorha no. 2 type b, solo, gray eyes, (full body:0.9),(white hair:1.2), puffy sleeves, short hair, closed mouth, mole under mouth, long sleeves, juliet sleeves, cleavage cutout, (black hairband:1.3), parted lips, black thighhighs, black gloves,cleavage, turtleneck, bangs, feather trim, feather-trimmed sleeves, black skirt,(outdoors:1.2),(ruins:1.4),(forest:1.3),gorgeous detail face, close-up,<lora:2bYorhaNo2TypeBNier_v1:1>,
+
+!!! info (simple background:2),paintings, sketches,(upside-down:1.5), (worst quality:2), (low quality:2), (normal quality:2), lowres, (monochrome:1.2), (grayscale:1.2), skin spots, acnes, skin blemishes, age spot, manboobs, backlight, boring, out of frame, (ugly:1.2), (bad anatomy:1.2), (bad proportions:1.3), cloned face, glitchy, bokeh, close up, text, watermarks, logo, DeepNegative, facing away, looking away, tilted head, extra digit, fewer digits, cropped, signature, watermark, username, blurry, bad hands, bad feet, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, jpeg artifacts, extra heads, extra fingers, extra limbs, extra arms, extra legs, extra foots, malformed limbs, fused fingers, too many fingers, long neck, red eyes, cross-eyed, mutated hands, missing fingers, missing arms, missing legs, flat chested, bad body, gross proportions, error, polar lowres,
+
+!!! info Size: 1024x1536, Seed: 78720262, Model: meinaunreal_v1Beta, Steps: 35, Sampler: DPM++ 2M Karras, CFG scale: 8, Model hash: 5a1c2b4a08, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0
+***
+##Jim Lee (DC Comics / Marvel) Style LoRA
+
+Description:
+!!! note Really nice comicbook LoRA. It can do pretty cool non-capeshit stuff in the comic art style with the right model.
+
+Triggerwords:
+!!! note jim lee
+
+Download links:
+https://pixeldrain.com/u/hzy8hw1J
+https://files.catbox.moe/hk6864.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/v6hj5r.png)
+
+Prompt:
+
+!!! info Jim lee, 1boy, batman abs, bara, black hair, gray bodysuit, blue eyes, slight growl full grey bodysuit, cape, crossed arms, large pectorals, standing in dark deep shadows, 1symmetrical bat emblem:.5 male focus, muscular, muscular male, pectoral lift, Bat Cave Entrance, pectorals, black cape, short hair, simple background, solo, superhero, upper body, flat style , ((masterpiece)) <lora:jimLeeDCComicsMarvel_offset:0.65> <lora:aToZovyaRPGArtists_v2Art:.425> , bright big moonlight:.5
+
+!!! info (Painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark (username, artist name), (worst quality, low quality:1.4), bad anatomy.
+
+!!! info  Seed: 1191878083, Steps: 40, Sampler: DPM++ SDE Karras, CFG scale: 7
+***
+
+##Goth LoRA
+
+Description:
+!!! note Generates goth girls. It is best used from 0.6 from 0.8 strength. I use 0.75 strength. I do warn that this LoRA has a slightly hard time working with other LoRA's. I did get pretty good generations out of using it as an img2img passover for pre-made images. 
+
+Triggerwords:
+!!! note goth girl, goth makeup
+
+Download links:
+https://files.catbox.moe/lhpfpf.safetensors
+https://anonfiles.com/Q4WdC7r9z3/Goth_LoRA_safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/5jhls7.jpeg)
+
+Prompt:
+
+!!! info beautiful, (masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, solo, (bikini), outdoors, dark castle, (blood moon), voluptuous, massive breasts, upper body, goth makeup, goth girl, <lora:(Direction) Goth LoRA:0.75>
+
+!!! info (low quality, worst quality:1.3),(monochrome:1.1),(bad-hands-5:0.6),(bad_prompt_version2:0.8),(EasyNegative)
+
+!!! info Size: 512x768, Seed: 3425741581, Model: Galena Blend, Steps: 28, Sampler: DPM++ SDE Karras, CFG scale: 6, Model hash: 6294646a3d, Hires steps: 3, Hires upscale: 1.5, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0.3
+
+ ![2](https://files.catbox.moe/jk3t3u.jpeg)
+
+Prompt:
+
+!!! info best quality, intricate details, chromatic aberration, goth makeup, goth girl, corneo_runny_makeup 1girl, long hair, black hair, messy hair, red highlights, hair over one eye, red eyes, sharp eyes, choker, neon shirt, torn legwear, open jacket, against wall, brick wall, graffiti, dim lighting, alley <lora:gothGirlLora_v10:0.7> (Style-Necromancy:0.6)
+
+!!! info (worst quality:1.4), (low quality:1.4), (monochrome:1.1), easynegative, bad-artist-anime, bad-image-v2-39000, bad_prompt_version2, bad_quality, ng_deepnegative_v1_75t, verybadimagenegative_v1.1-6400, vile_prompt3,
+
+!!! info Size: 512x768, Seed: 1462885113, Model: F_Test_sleeplessmix_v10, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: 2, Model hash: 367b9723e3, Hires upscale: 2, Hires upscaler: 4x-AnimeSharp, Denoising strength: 0.6

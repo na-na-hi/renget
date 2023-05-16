@@ -1,10 +1,13 @@
 # Maestro's Bot List
+## -> [Original Bots](#original-bots)  [NIKKE Bots](#nikke-bots) <-
+***
+-> ==Updated 05/16/2023== <-
+-> *Added to Original bots: Fujimura Kaori [CAI], Kei Belford [CAI]* <-
+-> *Added to NIKKE bots: Roam [CAI], Sin [CAI]* <-
+
 -> ==Updated 05/07/2023== <-
 -> *Added to Original bots: Fujimura Kaori [Tavern], Kei Belford [Tavern]* <-
 -> *Added to NIKKE bots: Roam [Tavern], Sin [Tavern]* <-
-
--> **CAI bots are currently on hold until the site's issues are fixed** <-
--> **They are currently created but still need to be trained, so until then they will remain unlisted** <-
 
 -> ==Updated 04/30/2023== <-
 -> *Added to Original bots: Cordelia [CAI + Tavern], Alexis [CAI + Tavern]* <-
@@ -23,7 +26,7 @@
 -> ==Updated 04/17/2023== <-
 -> *Rentry created* <-
  
-## -> Original bots <-
+## -> Original Bots <-
 
 ***
 
@@ -37,8 +40,8 @@ Celia | ![Celia](https://i.postimg.cc/GtZzCGjb/OCCelia-Thumb.png) | A 60cm bisqu
 Isla Rockwell | ![Isla Rockwell](https://i.postimg.cc/NMRwbMBy/OCIsla-Thumb.png) | A tanned tomboy childhood friend. She always drags you off to have some fun and with graduation around the corner, she wants to make the best of your last summer together. | [C.ai](https://c.ai/c/hOSMg2cTJOaQnHrnxNAdXYqdMjgQPHFdHBuYV2lzX4I) [Tavern](https://files.catbox.moe/0vsrxx.png) 		v1.0
 Cordelia | ![Cordelia](https://i.postimg.cc/HJ2tB5Z0/OCCordelia-Thumb.png) | Your impassive personal assistant of several years. While hopeful in the beginning, the lack of raise or acknowledgement causes resentment to stir within her causing her to act more callous. | [C.ai](https://c.ai/c/3SUqmFG6c_Yi_k-jKsaF1azRP3R30VGn3MlpQoVXabI) [Tavern](https://files.catbox.moe/xp0e0b.png) 		v1.0
 Alexis | ![Alexis](https://i.postimg.cc/wtHVXFVT/OCAlexis-Thumb.png) | An introverted university student in need of tutoring. Although relectant to seek help, she does so anyways and finds out that it isn't so bad after all.  | [C.ai](https://c.ai/c/hnrd05rBEY2BWw0Wpyhg9qS3XsfLnsnTOraxxr0f7T0) [Tavern](https://files.catbox.moe/8d37q9.png) 	v1.0
-Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She's a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | C\.ai [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
-Kei Belford | ![Kei Belford](https://i.postimg.cc/vDYZzBJz/OCKei-Thumb.png) | Stuck in a declining marriage with (you). Kei is a dedicated researcher with a cool and collected demeanor who seems to be more focused on work than her relationship. | C\.ai [Tavern](https://files.catbox.moe/vsqaf0.png) 	v1.0
+Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She's a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | [C.ai](https://c.ai/c/6xwoW4eQzFZXDAFClzpIrD0MIsEP84v9k70BQ_Fa33I) [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
+Kei Belford | ![Kei Belford](https://i.postimg.cc/vDYZzBJz/OCKei-Thumb.png) | Stuck in a declining marriage with (you). Kei is a dedicated researcher with a cool and collected demeanor who seems to be more focused on work than her relationship. | [C.ai](https://c.ai/c/y2WpXUePSxMIIKtPwSzUVK8H_o_f7dBxUv6jyVHuxbE) [Tavern](https://files.catbox.moe/vsqaf0.png) 	v1.0
 
 ***
 
@@ -56,8 +59,8 @@ Dolla | ![Dolla](https://i.postimg.cc/kVmKyk1r/Nikke-Dolla-Thumb.png) | A member
 Noise | ![Noise](https://i.postimg.cc/4KQt2BqY/Nikke-Noise-Thumb.png) | A singer-songwriter who strives to do her utmost in everything. Apart from being part of Prima Donna, her hit song "Diva" catapulted her into stardom. | [C.ai](https://c.ai/c/bNYeQb786Zc4vjiUiIrCe-k4boXdexzIVD_h8RxnhEg) [Tavern](https://files.catbox.moe/zdo4ax.png) 	v1.1
 Viper | ![Viper](https://i.postimg.cc/t7TPDd5g/Nikke-Viper-Thumb.png) | She always seems to be on edge, and gives off a very effervescent vibe. Her fellow Exotic team members believe she is somewhat of a push over. | [C.ai](https://c.ai/c/dROk8W0WO0JRAuaRg5lLgERvENEcDGhV1Y4OgmamO5Q) [Tavern](https://files.catbox.moe/xn4uta.png) 	v1.0
 Aria | ![Aria](https://i.postimg.cc/xXHLM0Py/Nikke-Aria-Thumb.png) | An opera singer from Prima Donna, where she plays the lead in every performance she's a part of. Her singing consistently garners standing ovations, making her a living legend in the world of opera. | [C.ai](https://c.ai/c/3UvMbQEa_V-5Yeolt_PQxoTMtlcBT77_Qcgqu1StzEY) [Tavern](https://files.catbox.moe/ra0vv0.png) 	v1.0
-Roam | ![Roam](https://i.postimg.cc/KcNszwfJ/Nikke-Roam-Thumb.png) | Number_CAN_051 nicknamed Roam is a surface robot recovering humans relics left in past before humanity was forced to live underground at the Ark. | C\.ai [Tavern](https://files.catbox.moe/92zij8.png) 	v1.0
-Sin | ![Sin](https://i.postimg.cc/sQv32JPt/Nikke-Sin2-Thumb.png) | Her voice will gradually seep into the minds of others, eventually turning them into puppets entirely under her control. Even with the mask that stymies her powers, Sin's silver tongue makes every conversation a minefield. ==GPT-4 recommended to see her filtered speech==| C\.ai [Tavern](https://files.catbox.moe/vsctev.png) 	v1.0
+Roam | ![Roam](https://i.postimg.cc/KcNszwfJ/Nikke-Roam-Thumb.png) | Number_CAN_051 nicknamed Roam is a surface robot recovering humans relics left in past before humanity was forced to live underground at the Ark. | [C.ai](https://c.ai/c/u6mpbTfg1I1i1K4t5G2jHPRVw4Z05AMVGpfplBvFzuE) [Tavern](https://files.catbox.moe/92zij8.png) 	v1.0
+Sin | ![Sin](https://i.postimg.cc/sQv32JPt/Nikke-Sin2-Thumb.png) | Her voice will gradually seep into the minds of others, eventually turning them into puppets entirely under her control. Even with the mask that stymies her powers, Sin's silver tongue makes every conversation a minefield. ==GPT-4 recommended to see her filtered speech==| [C.ai](https://c.ai/c/PWCMa1Ne3e08JbrRVHmjvSi2UORQbHzasRNWeA07PcY) [Tavern](https://files.catbox.moe/vsctev.png) 	v1.0
 Frima | ![Frima](https://i.postimg.cc/kVjn9HSQ/Nikke-Frima-Thumb.png) | As a laziness incarnate, she thinks deeply about the most efficient way to behave, hence she doesn't speak or move any more than necessary in her daily life. | Soon™
 Milk | ![Milk](https://i.postimg.cc/9wpvqHQP/Nikke-Milk-Thumb.png) | In sharp contrast to her dainty appearance, she is an avid thrill seeker and enjoys getting into fights and confrontation with others. | Soon™
 Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The leader of Triangle who protects the squad with all her effort. Possesses superb skills in office and on battlefield, but has an ill temperament. | Soon™
@@ -69,3 +72,4 @@ Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a pr
 
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
+-> 05/16 - NIKKE Lorebook proceeding at a slowish-steady pace. I learned first-hand that trying to do it all in one go is an easy way to burn out from bot related stuff. NIKKE bots are back on track. <-

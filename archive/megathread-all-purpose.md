@@ -26,7 +26,7 @@
 # 📑 1 ➜ Direct Downloads
 
 ### 🔗 [DirtyWarez](https://forum.dirtywarez.com/) • Sign Up
-- Fantastic communit that host a wide variety of excellent media content across almost all genres.
+- Fantastic community that host a wide variety of media content across almost all genres.
 - [URL Safety Results](https://www.urlvoid.com/scan/forum.dirtywarez.com/)
 
 ### 🔗 [File Pursuit](https://filepursuit.com/)
@@ -38,19 +38,19 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/freesoff.com/)
 
 ### 🐐 [Internet Archive](https://archive.org/)
-- Millions of free books, films, programmes, songs, websites, and more are available at this nonprofit library.
+- Millions of free books, films, songs, and more are available at this nonprofit library.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
 - Generic database including various types of media content, although with a little bit more emphasis on music.
 - [URL Safety Results](https://www.urlvoid.com/scan/scnlog.me/)
 
-### 🔗 [SoftArchive](https://softarchive.is/)
+### 🔗 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 - A scene website founded in 2004, recognised for new releases of software, games, music, movies, and eBooks.
 - [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
 
 ### 🔗 [WarezBook](https://www.warezbook.org/) • Sign Up
-- Cleanly designed forum with an online source of high-quality movies, software, games, music, and funstuff.
+- Cleanly designed forum with an online source of movies, software, games, and music.
 - [URL Safety Results](https://www.urlvoid.com/scan/warezbook.org/)
 
 &nbsp;

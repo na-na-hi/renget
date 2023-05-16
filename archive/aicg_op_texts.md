@@ -30,7 +30,7 @@ https://c.ai/ [Easiest but filtered]
 http://risu.pages.dev/ [New Korean frontend with English UI]
 
 >Bots
-https://www.characterhub.org
+https://www.chub.ai
 https://booru.plus/+pygmalion
 https://rentry.org/cai-list [/aicg/ CAI bots + CAI resources]
 https://rentry.org/meta_bot_list  [4chan meta-botlist]
@@ -79,7 +79,7 @@ https://c.ai/
 http://risu.pages.dev/ [New Korean frontend with English UI]
 
 ▶Bots
-https://www.characterhub.org
+https://www.chub.ai
 https://booru.plus/+pygmalion
 bots and resources on cai: https://rentry.org/cai-list
 outsider bots: https://rentry.org/meta_bot_list
