@@ -15,8 +15,6 @@
 \>(05/10) GPU-accelerated token generation >>93334002
 \>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
 https://huggingface.co/reeducator/bluemoonrp-13b
-\>(05/06) MPT 7B, 65k context model trained on 1T tokens.
-https://huggingface.co/mosaicml/mpt-7b-storywriter
 
 ►**FAQ**
 \>Wiki

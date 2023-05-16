@@ -1223,3 +1223,37 @@ Prompt:
 !!! info Negative prompt: EasyNegative, bad-hands-5, (worst quality:2), Bad Anatomy, crumpled limbs, bad hands, bad fingers, missing fingers, missing arms, missing legs, extra digit, watermark, username, artist name, signature, text, grid view,
 
 !!! info Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 741001124, Size: 512x768, Model hash: 5ca932494d, Model: breakdomain_M1735, Denoising strength: 0.53, Clip skip: 2, ENSD: 31337, Hires upscale: 1.5, Hires steps: 17, Hires upscaler: Latent (nearest-exact)
+***
+
+##Elizabeth (Bioshock Infinite)
+
+Description:
+!!! note Generates Elizabeth in outfits from Bioshock and Burial at Sea.
+
+Triggerwords:
+!!! note Elizabeth, (for the classic outfit): regoutfit, woman, blue jacket, blue skirt, ((pure white corset)), chocker, blue eyes, short black hair, (for the burial at sea outfit): dlcoutfit, woman, white shirt, ((white collared shirt)), (Black skirt:1.2), ((pencil skirt)), red belt, (red necklace), shoulder length black hair, blue eyes
+
+Download links:
+https://pixeldrain.com/u/8FrZcTvE
+https://files.catbox.moe/h2j04u.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/hktabl.jpeg)
+
+Prompt:
+
+!!! info highres, masterpiece, perfect ligthing, bloom, night, dark, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.1), <lora:MISC-GlossyFace:0.3> cleavage, blue eyes, medium breasts,<lora:MISC-BreastInClass:0.2>, smile, :d, <lora:CHAR-Elizabeth:0.3>, Elizabeth, regoutfit, woman, blue jacket, blue skirt, ((pure white corset)), black choker, blue eyes, short black hair, inside, bookcase, library, vintage, book, round staircase, blackboard, chalk, dynamic pose, (carpet:1.1),
+
+!!! info Negative prompt: easynegative, ng_deepnegative_v1_75t, (bad-hands-5:1.1), loli, young, teen, child, aged down, lolita, lolita_fashion, shota, minor, wa_lolita, underage, flat chest, (low quality, worst quality, lowres:1.1), text, patreon, watermark, grass, windows, window,
+
+!!! info Size: 512x768, Seed: 2652943524, Model: revAnimated_v122, Steps: 23, Sampler: DPM++ 2M Karras, CFG scale: 7, Clip skip: 2, Model hash: 4199bcdd14, Hires upscale: 2.5, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.4
+
+![2](https://files.catbox.moe/4bb0vu.jpeg)
+
+Prompt:
+
+!!! info highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:0.5), <lora:MISC-GlossyFace:0.3> blue eyes, smile, sexy, :d, sensual, <lora:CHAR-Elizabeth:0.8>, Elizabeth, dlcoutfit, woman, white shirt, ((white collared shirt)), (Black skirt:1.2), red belt, (red necklace), shoulder length black hair, blue eyes, vintage, night, (bioshock:0.8), smoking, cigarette, noire
+
+!!! info easynegative, ng_deepnegative_v1_75t, (bad-hands-5:1.1), loli, young, teen, child, aged down, lolita, lolita_fashion, shota, minor, wa_lolita, underage, flat chest, (low quality, worst quality, lowres:1.1), text, patreon, watermark, grass,
+
+!!! info Size: 512x768, Seed: 3564433263, Model: revAnimated_v122, Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Clip skip: 2, Model hash: 4199bcdd14, Hires upscale: 2.5, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.4

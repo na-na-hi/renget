@@ -31,7 +31,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-(05/11) Big noose soon >>429473860 >>429443235
+\>(05/16) Big noose soon >>429473860 >>429443235 ; Altman field trips to DC https://www.youtube.com/watch?v=MZcwAb5RRLI
 (05/10) Colabchads, it's over \[spoiler]maybe\[/spoiler] >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
 (05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
 (05/08) Kobold updates >>428664559 >>428841081 ; Green Devil out >>429061348 ; 65k context https://huggingface.co/mosaicml/mpt-7b-storywriter

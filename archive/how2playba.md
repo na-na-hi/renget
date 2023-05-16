@@ -454,6 +454,9 @@ It's pretty useless to minmax though, since you'll always be in report hell. And
 For every level below the recommended level you'll start doing 2% less damage while taking 2% more dmg, up to 20 levels. If you ever wonder why it gets so hard progressing, that's why. This is compared between student and enemy level, not Sensei level. 
 Very important to keep in mind is that you can ignore the recommended level. Until you actually can't get further, ignore it. Otherwise you block urself mentally, instead of the game stopping you. 
 
+One-time per battle skills can happen once in every battle.
+E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times .
+
 >Daily and weekly missions
 Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is great. 
  

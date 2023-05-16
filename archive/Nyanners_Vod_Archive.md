@@ -7,7 +7,7 @@
 
 This Archive starts from Nyanners Vtuber Debut (2020-07-17) until the current date, it also includes 90% of Vods of Collabs on other Channels from 2020-07-17 until 2022-12-31 as i started to only archive main channel vods from that date forward. I will always make sure my Vods are safe to share as i started this Archive purely for Archival purposes. You can find a Spreadsheet with the runtime and contents of each Vod in the link below which is useful if you are looking for a specific Vod, for the whole Archive check the Microsoft Onedrive Links below it. You can also find a Fanart/reaction pic archive and an Archive of MP3 and MP4 Karaoke Clips of Nyanners in this rentry.
 
-#-  [Nyanners Vod Archive Spreadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446)
+#-  [Nyanners Vod Archive Spreadsheet (Use this to easily find specific vods)](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446)
  
  
 ---

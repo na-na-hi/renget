@@ -1,5 +1,5 @@
 !!! note Just a place to keep my baking template up-to-date.
-    ->Other /aicg/ baker rentries are https://rentry.org/aicgOP and https://rentry.org/aicg_op_texts.<-
+    ->The other /aicg/ baker rentry is https://rentry.org/aicgOP<-
     ->Feedback: kaomojibaker@proton.me <-
 ```
 /aicg/ - AI Chatbot General
@@ -35,11 +35,11 @@ https://docs.miku.gg/
 https://rentry.org/mikugg
 
 >>Bots
-https://www.characterhub.org
+https://chub.ai
 https://booru.plus/+pygmalion
 https://rentry.org/cai-list [aicg botlist]
 https://rentry.org/meta_bot_list [4chan meta botlist]
-https://zoltanai.github.io/character-editor/ [Tavern cards editor]
+https://zoltanai.github.io/character-editor [Tavern cards editor]
 
 >>Bot making
 >Basic
