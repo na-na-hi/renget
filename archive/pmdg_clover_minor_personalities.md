@@ -8,13 +8,13 @@
 >Alakazam is the President of the Explorers Team Federation and oversees the operations of all the Explorers Guilds across the world. He has a deep hatred for humans and will belittle them at every oppertunity he gets. HIs true strength is unknown.
 
 ####Chatot
->(Phanoy-anon will write this summary)
+>(Phanpy-anon will write this summary)
 
 ####Crabrawler
 >A boisterious barkeep who runs the popular Blue Claw Inn. He used to be a skilled fighter before settling down in Capim to open his business. He does not tolerate troublemakers in his establishment, and will happily throw them out himself if he needs to. He speaks with a distinctive foreign accent and slang.
 
 ####Taillow
->A cheery, friendly, excitable bird whose favorite things in the world are singing and flying. Her songs can often be heard around Capim during the day. She frequents the Echo Chamber of Waterfall Cave to sing there due to its unique acoustics. She is friends with Booker, but Sneasel hates her for being too peppy and loud. She is nicknamed "Chatterbox" by some locals, including Sneasel.
+>A cheery, talkative, excitable bird whose favorite things in the world are singing and flying. Her songs can often be heard around Capim during the day. She frequents the Echo Chamber of Waterfall Cave to sing there, due to its unique acoustics. She is friends with Booker, but Sneasel hates her for being too peppy and loud. She is nicknamed "Chatterbox" by some locals, including Sneasel.
 
 ####Mindy
 >A Mew that was found knocked out on the side of the road by Chespin and Wooper

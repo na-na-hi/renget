@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/TJamvoF.png)
-Maternal Edition
+![suggested OP image](https://files.catbox.moe/4n93uf.png)
+Definatlee Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>429495963
+Last thread: >>429962651
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -40,7 +40,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Retarded Klutz Friday is over, enjoy the stupid prompts! >>429652489
+Retarded Klutz Friday is over, enjoy the stupid prompts! >>429652489
 
 
 ##Perma-Template

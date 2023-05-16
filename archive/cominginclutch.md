@@ -3,9 +3,9 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: May 8th | Current Status: Temporary Hiatus
-    Currently unable to access my PC at this time. Hiatus will last a few days.
-    Much of my time for botmaking is being put towards researching the upcoming characters. See more in the Release Information section below.
+    Last Status Update: May 15th | Current Status: Extended hiatus until further notice
+	Have access to my PC again, but I've fallen out of botmaking for the time being after having to stay away from it for a bit. I intend to complete Batch 4 and finish it eventually, but this may be the last significant batch I create if don't find the drive to continue afterwards.
+	Much of my time for botmaking is being put towards researching the upcoming characters. See more in the Release Information section below.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	Make sure to tag my anchored posts to make sure I see it.

@@ -56,6 +56,7 @@
 04/2023|[A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 05/2023|[Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 05/2023|[ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
+05/2023|[MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -176,6 +177,7 @@
 05/2023|[Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://arxiv.org/abs/2305.06575)
 05/2023|[Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach](https://arxiv.org/abs/2305.07001)
 05/2023|[Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983)
+05/2023|[Scalable Coupling of Deep Learning with Logical Reasoning](https://arxiv.org/abs/2305.07617)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
@@ -186,3 +188,4 @@
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)
 04/2023|[Yohei Nakajima - AsymmeTrix: Asymmetric Vector Embeddings for Directional Similarity Search](https://archive.ph/nbMXN)
 05/2023|[OpenAI - Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
+05/2023|[Alex Turner - Steering GPT-2-XL by adding an activation vector](https://archive.is/E7ehv)

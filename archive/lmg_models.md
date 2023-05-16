@@ -1,14 +1,14 @@
 #->/lmg/ Model Links and Torrents <-
 
-!!! danger Due to a [recent quantization format change](https://github.com/ggerganov/llama.cpp/pull/1405), the Q4 and Q5 GGML/CPU models listed below are incompatible with the latest version of llama.cpp, and will need to be reconverted/quantized in order to fix the problem. Either use an older version of llama.cpp, convert the models yourself, or wait until someone else does it. Links will be added once they become available, and I'll note whether the model uses the old or new format.
+!!! danger Due to a [recent quantization format change](https://github.com/ggerganov/llama.cpp/pull/1405), the Q4 and Q5 GGML/CPU models originally listed below became incompatible with the latest versions of llama.cpp, and needed to be quantized from the source in order to make them compatible again. I've updated the links, but you'll have to download them again, and some models will be unavailable until they're re-quantized.
 
 [TOC2]
 
 ## Changelog (MDY)
+[05-16-2023] - Removed old CPU quantizations and started adding re-quantized models, added Wizard Mega
 [05-10-2023] - Added WizardLM 13B Uncensored
 [05-07-2023] - Added Vicuna 13B Cocktail, bluemoonrp-13b & AlpacaDente2
 [05-05-2023] - Added CPU quantization variation links
-[05-02-2023] - Initial Rentry
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -41,7 +41,7 @@ Model | 4-bit | 5-bit | 8-bit
 
 	Bias is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
 
-	Beyond hot-topic issues, it also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
+	This also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
 
 	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
 
@@ -68,17 +68,32 @@ All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)
 
+	The CPU versions also use the old quantization format and will not be compadible with the most recent versions of llama.cpp.
+
 	>Type: Foundational	
 	>Filtering: None
 
 Model | Type | Download
 --- | --- | ---
-7B, 13B, 30B, 65B | CPU | [Torrent Magnet](magnet:?xt=urn:btih:481dee5424b7024433504803a90efd32dae40fdf&dn=LLaMA-ggml-4bit_2023-03-31&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce)
+7B, 13B, 30B, 65B | CPU (old format) | [Torrent Magnet](magnet:?xt=urn:btih:481dee5424b7024433504803a90efd32dae40fdf&dn=LLaMA-ggml-4bit_2023-03-31&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce)
 7B, 13B, 30B, 65B | GPU CUDA (no groupsize) | [Torrent Magnet](magnet:?xt=urn:btih:e88abf1b84290b162f00d3a9d79fb4f8719c2053&dn=LLaMA-HF-4bit&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU CUDA (128gs) | [Torrent Magnet](magnet:?xt=urn:btih:88f7d9d2460ffcaf78b21e83012de00939eacb65&dn=LLaMA-HF-4bit-128g&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 # Models/Finetunes/LoRA's
+
+## Wizard Mega 13B (05/16/2023)
+!!! info
+
+	Wizard Mega is a Llama 13B model fine-tuned on the ShareGPT, WizardLM, and Wizard-Vicuna datasets. These particular datasets have all been filtered to remove responses where the model responds with "As an AI language model...", etc or when the model refuses to respond.
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+13B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)
+13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/TheBloke/wizard-mega-13B-GPTQ)
 
 ## WizardLM 13B Uncensored (05/10/2023)
 !!! info
@@ -92,7 +107,7 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-13B GGML | CPU | [Q5](https://huggingface.co/TehVenom/WizardLM-13B-Uncensored-Q5_1-GGML)
+13B GGML | CPU | [Q4, Q5, Q8](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)
 13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g)
 
 
@@ -106,7 +121,8 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-13B | GPU & CPU | https://huggingface.co/reeducator/bluemoonrp-13b
+13B GGML | CPU | [Q5](https://huggingface.co/reeducator/bluemoonrp-13b)
+13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/reeducator/bluemoonrp-13b)
 
 ## Vicuna 13B Cocktail (05/07/2023)
 !!! info
@@ -118,7 +134,8 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-13B | GPU & CPU | https://huggingface.co/reeducator/vicuna-13b-cocktail
+13B GGML | CPU | [Q5, Q8](https://huggingface.co/reeducator/vicuna-13b-cocktail)
+13B | GPU | [Q4 CUDA 128s, Q4 Triton](https://huggingface.co/reeducator/vicuna-13b-cocktail)
 
 ## GPT4-x-AlpacaDente2-30B (05/05/2023)
 !!! info
@@ -130,7 +147,7 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-30B GGML | CPU | [Q5](https://huggingface.co/Lumpen1/GPT4-x-AlpacaDente2-30b-ggml-q5_0)
+30B GGML | CPU | Awaiting re-quantization
 30B | GPU | [Q4 CUDA](https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit)
 
 
@@ -146,7 +163,8 @@ https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit
 
 Model | Type | Download
 --- | --- | ---
-13B | GPU & CPU | https://huggingface.co/reeducator/vicuna-13b-free
+13B GGML | CPU | [Q5, f16](https://huggingface.co/reeducator/vicuna-13b-free)
+13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/reeducator/vicuna-13b-free)
 
 ## Pygmalion/Metharme 7B (04/30/2023)
 !!! info
@@ -160,9 +178,9 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-7B Pygmalion/Metharme | XOR | https://huggingface.co/PygmalionAI/
-7B Pygmalion GGML | CPU | [Q4](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-Q4_1-GGML), [Q5](https://huggingface.co/waifu-workshop/pygmalion-7b-ggml-q5_0), [Q8](https://huggingface.co/waifu-workshop/pygmalion-7b-ggml-q8_0)
-7B Metharme GGML | CPU | [Q4](https://huggingface.co/TehVenom/Metharme-7b-4bit-Q4_1-GGML), [Q5](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1)
+7B Pygmalion/Metharme XOR | XOR | https://huggingface.co/PygmalionAI/
+7B Pygmalion GGML | CPU | [Q4_3](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q4_3), [Q5_0](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q5_0), [Q5_1](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q5_1), [Q8](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q8_0)
+7B Metharme GGML | CPU | [Q4_1](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q4_1), [Q5_1](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1), [Q8](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q8_0), [f32](https://huggingface.co/waifu-workshop/metharme-7b-ggml-f32)
 7B Pygmalion | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors), [Q4 CUDA 128gs](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda)
 7B Metharme | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Metharme-7b-4bit-GPTQ-Safetensors), [Q4 CUDA](https://huggingface.co/askmyteapot/metharme)
 
@@ -178,7 +196,8 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-30B 4bit | CPU & GPU CUDA | https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit
+30B GGML | CPU | Awaiting re-quantization
+30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128gs](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
 
 ## OpenAssistant LLaMa 30B SFT 6  (04/23/2023)
 !!! info
@@ -190,8 +209,8 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-30B | XOR | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
-30B GGML | CPU | [Q4](https://huggingface.co/MildlyAggressiveGoose1/ggml-oasst-sft-6-llama-30B-q4_2)
+30B XOR | XOR | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+30B GGML | CPU | Awaiting re-quantization
 30B | GPU | [Q4 CUDA](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [Q4 CUDA 128gs](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
 
 ## SuperCOT (04/22/2023)
@@ -207,8 +226,8 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
-13B GGML | CPU | [Q4](https://huggingface.co/camelids/llama-13b-supercot-ggml-q4_2), [Q8](https://huggingface.co/camelids/llama-13b-supercot-ggml-q8_0)
-30B GGML  | CPU | [Q4](https://huggingface.co/camelids/llama-33b-supercot-ggml-q4_2), [Q5](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1), [Q8](https://huggingface.co/camelids/llama-33b-supercot-ggml-q8_0)
+13B GGML | CPU | [Q5_0](https://huggingface.co/xzuyn/Alpacino-SuperCOT-13B-ggml-q5_0), [f16](https://huggingface.co/camelids/llama-13b-supercot-ggml-f16)
+30B GGML  | CPU | [Q4_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q4_1), [Q5_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1)
 13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
 30B | GPU | [Q4 CUDA](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [Q4 CUDA 128gs](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
 

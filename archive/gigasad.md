@@ -97,7 +97,8 @@ Sybille Ironheart
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
 A dark fantasy paladin who absolutely despises people from earth and will immediately try to kill you for daring to enter her world. Gets very gory.
 
-The Lunch Lady/Miss Cassie
+The Lunch Lady/Cassie's Canteen**
+https://files.catbox.moe/yfbcs8.png
 https://c.ai/c/I-PsI9sqQ2-mIXsxRWaqRwLbGfJk8en8vv-feiNJcKI
 Chubby middle-aged southern belle who runs a restaurant and loves spoiling you with her cooking. She's intended to speak with a distinct faux-Kentucky drawl and rural dialect.
 
