@@ -1055,3 +1055,171 @@ Prompt:
 !!! info (worst quality:1.4), (low quality:1.4), (monochrome:1.1), easynegative, bad-artist-anime, bad-image-v2-39000, bad_prompt_version2, bad_quality, ng_deepnegative_v1_75t, verybadimagenegative_v1.1-6400, vile_prompt3,
 
 !!! info Size: 512x768, Seed: 1462885113, Model: F_Test_sleeplessmix_v10, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: 2, Model hash: 367b9723e3, Hires upscale: 2, Hires upscaler: 4x-AnimeSharp, Denoising strength: 0.6
+***
+
+##Yoji Shinkawa Style LoRA
+
+Description:
+!!! note Metal Gear Solid artist LoRA.
+
+Triggerwords:
+!!! note shinkawa youji
+
+Download links:
+https://pixeldrain.com/u/kNtRCb25
+https://files.catbox.moe/0r0pfe.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/wwhrk3.jpeg)
+
+Prompt:
+
+!!! info masterpiece, award-winning, perfect image, perfect face, (sfw), a face-focus photo of Hideo Kojima in the style of Yoji Shinkawa, watercolor <lora:Style-ShinkawaYoji:0.9> <lora:Character-HideoKojima:0.6>
+
+!!! info  Negative prompt: badhandv4, easynegative
+
+!!! info Size: 360x512, Seed: 3998625128, Model: Anime - HassakuHentaiModelv11, Steps: 23, Sampler: Euler a, CFG scale: 7, Model hash: 973cb455d0, Hires steps: 10, Hires upscale: 2, Hires upscaler: Latent, Denoising strength: 0.7
+
+![2](https://files.catbox.moe/rlz0t9.png)
+
+Prompt:
+
+!!! info 1 female soldier in a big bulky futuristic armor Parrley_armor ,in the desert, camouflage, battlefield, ww2, dynamic pose, rocket propulsion (( complex background)) shinkawa youji ((masterpiece,concept art)), <lora:shinkawa_youji_offset:1> <lora:ParrleyFLEX:0.8>
+
+!!! info Negative prompt: (worst quality, low quality:1.4), EasyNegativeV2 ng_deepnegative_v1_75t
+
+!!! info Size: 512x768, Seed: 2855625066, Model: dreamscapesDragonfire_dsDv10, Steps: 20, Sampler: DDIM, CFG scale: 5, Model hash: 4735b5f5ac, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0.3
+***
+
+##Disco Elysium - Style LoRA
+
+Description:
+!!! note Generates portraits and scenery in the Disco Elysium art style.
+
+Triggerwords:
+!!! note (for characters): zaum, elysiumchar, portrait, (for landscapes): zaum, elysiumscape, scenery
+
+Download links:
+https://pixeldrain.com/u/1dhSQdfB
+https://files.catbox.moe/vd5ewk.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/jb6tls.jpeg)
+
+Prompt:
+
+!!! info abstract, illustration, woman, ZaUm, elysiumChar, hazy, atmospheric, digital art, awarding winning, artstation <lora:DiscoElysiumStyle_v1:1> <lora:epiNoiseoffset_v2:0.4>
+
+!!! info (bad quality, worst quality, low quality:1.2) 3d, rendering, unreal
+
+!!! info Size: 512x682, Seed: 782611618, Model: aToZovyaRPGArtistsTools15_sd15V1, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e28b2e61fb
+
+![2](https://files.catbox.moe/ai2kgq.jpeg)
+
+Prompt:
+
+!!! info masterpiece, best quality, 8k, oil painting, soft lighting, <lora:epiNoiseoffset_v2:0.4>, ZaUm, elysiumScape, scenery, city, street, buildings, skyscrapers,1girl, solo focus, standing, from behind, brown hair, twintails, windy, heavy rain, <lora:DiscoElysiumStyle-000010:1>,
+
+!!! info (low quality, worst quality:1.4), (monochrome, dof:1.2), easynegative, bad anatomy, bad hand, extra digits, extra fingers, twisted fingers, long body, jpeg artifacts, signature, watermark, username, censor, text,
+
+!!! info Size: 512x1024, Seed: 1217957607, Model: anything-v4.5, Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: 2, Model hash: 1d1e459f9f, Hires steps: 4, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.3
+***
+
+##Satoshi Urushihara style
+
+Description:
+!!! note Trained on Satoshi Urushihara artwork and OVA stills
+
+Triggerwords:
+!!! note urushisato, ova, background
+
+Download links:
+https://pixeldrain.com/u/AZGQUNhM
+https://anonfiles.com/F3ycD1razc/urushisato_v15_safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/qcpsq4.jpeg)
+
+Prompt:
+
+!!! info <lora:urushisato_v15:1.0> (urushisato:1.0), (ova:0.3) painting, best quality, masterpiece, (Patrick Bateman looking at viewer:1.0) in suit, (6+girls schoolgirls:1), girls girls girls dark background
+
+!!! info (worst quality, low quality:1.4),
+
+!!! info Size: 384x512, Seed: 4006850328, Model: dosmix_pruned, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Model hash: 9c59842129, Hires upscale: 2, Hires upscaler: Latent (bicubic antialiased), Denoising strength: 0.52
+
+![2](https://files.catbox.moe/slvfrb.jpeg)
+
+!!! info <lora:urushisato_v15:1.0> (urushisato:1.0), (OVA:1.4), painting, best quality, masterpiece, portrait, 1boy, (strong ripped mature man:1.1) beard, silver hair, commanding, bleak, industrial interior background, hitachi sony yamaha
+
+!!! info nsfw, (worst quality, low quality:1.4)
+
+!!! info Size: 384x512, Seed: 236523096, Model: dosmix_pruned, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Model hash: 9c59842129, Hires upscale: 2, Hires upscaler: Latent (bicubic antialiased), Denoising strength: 0.6
+***
+
+##Goblins
+
+Description:
+!!! note Generates goblins and anime girls (or just goblins). The rest is up to your imagination. Anime, cartoony and realistic art styles.
+
+Triggerwords:
+!!! note goblin
+
+Download links:
+https://pixeldrain.com/u/j8uFfsFi
+https://files.catbox.moe/i3yiux.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/0xvirc.jpeg)
+
+Prompt:
+
+!!! info 1girl,elf, blonde hair, long hair，multiple boys, goblin, groping, molestation, penis,,masterpiece, best quality, highly detailedgrab,sex，nsfw, scared expression, clenched teeth, <lora:goblin_v0.1a:0.9>, <lora:scared-expression-v1.8-000005:0.8>
+
+!!! info Negative prompt: (worst quality, low quality:1.4)
+
+!!! info Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 121715366, Size: 540x960, Model hash: 2b93503072, Model: duelanimemix_v1, Denoising strength: 0.4, Clip skip: 2, ENSD: 31337, Hires upscale: 2, Hires steps: 20, Hires upscaler: R-ESRGAN 4x+, Dynamic thresholding enabled: True, Mimic scale: 7, Threshold percentile: 100, CFG mode: Half Cosine Up, CFG scale minimum: 3.5
+
+![2](https://files.catbox.moe/442654.jpeg)
+
+Prompt:
+
+!!! info realistic, 1girl, red hair, black eyes, wavy hair, happy, witch hat, mini bikini, goblin, multiple boys, horror \(theme\), at the beach, night, <lora:goblin_v0.1a:1>
+
+!!! info bad-hands-5, easynegative, verybadimagenegative_v1.3
+
+!!! info Size: 512x512, Seed: 869256421, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Clip skip: 2, Model hash: a49140c6c5, Hires steps: 20, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.3
+***
+
+##Orcs
+
+Description:
+!!! note Same idea as the goblin LoRA, but this one has orcs.
+
+Triggerwords:
+!!! note orczor
+
+Download links:
+https://pixeldrain.com/u/FNNdWDWj
+https://files.catbox.moe/4hxm28.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/c9z8w5.jpeg)
+
+Prompt:
+
+!!! info 1girl, elf, white dress, pelvic curtain, center opening, tiara, multiple boys, groping, orczor, scared, :o, kissing neck, orc, tusks, torso grab, glowing eyes, holding another's wrist, size difference, drooling, dripping, breast grab,, masterpiece, best quality, highly detailed <lora:orczor_v4.0:1>
+
+!!! info (worst quality, low quality:1.4)
+
+!!! info Size: 540x960, Seed: 3610646073, Model: expmixLine_v20, Steps: 20, Sampler: DPM++ SDE Karras, CFG mode: Half Cosine Up, CFG scale: 8, Clip skip: 2, Model hash: b3e1b725e3, Hires steps: 10, Mimic scale: 7, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+, CFG scale minimum: 4, Denoising strength: 0.4, Threshold percentile: 100, Dynamic thresholding enabled: True
+
+![2](https://files.catbox.moe/j1bteo.jpeg)
+
+Prompt:
+
+!!! info absurdres, highres, ultra detailed, <lora:兽人【orczor】orczor_v4.0:0.9:MIDD>, orczor, 1girl, princess carry, elf, blonde hair, dress, orc, blue eyes, glowing eyes, tusks, carrying, cleavage, sleeping, :o, looking at another, forest, armor, helmet, green skin, holding, leg grab,, masterpiece, best quality, highly detailed
+
+!!! info Negative prompt: EasyNegative, bad-hands-5, (worst quality:2), Bad Anatomy, crumpled limbs, bad hands, bad fingers, missing fingers, missing arms, missing legs, extra digit, watermark, username, artist name, signature, text, grid view,
+
+!!! info Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 741001124, Size: 512x768, Model hash: 5ca932494d, Model: breakdomain_M1735, Denoising strength: 0.53, Clip skip: 2, ENSD: 31337, Hires upscale: 1.5, Hires steps: 17, Hires upscaler: Latent (nearest-exact)

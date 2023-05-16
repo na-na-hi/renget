@@ -6,8 +6,8 @@
 ***
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
-!!! note Rentry Update: Week 3 of May, 2023
-     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F
+!!! note Rentry Updates: Week 3 of May, 2023
+     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, Vicuna (LlaMA), Opan Assistant (Oasst-LlaMA), WizardLM (LlaMA), SuperCOT (LlaMA), BluemoonRP (LlaMA), "Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets")|| Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change.
 
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
@@ -101,43 +101,46 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 
 ***
 ##->General Resources / Guides for Large Language Models (LLM) & Datasets<-
-!!! info Tag Information || Last Updated: May 14th, 2023
+!!! info Tag Information || Last Updated: May 16th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
     V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
     VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
+    VII. 🔔= User/Org. updated the quantization's for ==CPU-GGML model(s)== after the recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405)
+    VIII. GH = GitHub || HF = Hugging Face
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (as well as an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who simply want access to the latest and greatest models and datasets. Charts below here should hopefully help serve as a reference (geared towards newer anons) about each project's activity status, quick information about the different models/datasets, guides, and a place to find other Rentry pages.
 
 ###LlaMA Models, Guides & Resources:
 Hyperlinked Models & Projects: | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
-[llama.cpp](https://github.com/ggerganov/llama.cpp) `⇲LlaMA`| [ggerganov](https://github.com/ggerganov) | GitHub Repo. | CPU // LLaMA Port in C++ // 4-bit quant. support | ◕ Ŏ
-[AgustusCletus/llama.cpp](https://github.com/AgustusCletus/llama.cpp) `⇲llama.cpp` | [AgustusCletus](https://github.com/AgustusCletus) | Forked Project | CPU | ◎ Ŏ
-[llama-7b-ggml](https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main) | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
-[llama-13b-ggml](https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main ) | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
-[llama-33b-ggml](https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main )  | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU // ==GGML Quant. q5_1== | ◕ Ŏ
-[LLaMa-65B Quantized](https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main) | [CRD716](https://huggingface.co/CRD716) | Quant. Models | CPU //  ==GGML Quant. q4_0 q4_1 q4_2 q5_0 q5_1== | ◕ Ŏ
+[llama.cpp](https://github.com/ggerganov/llama.cpp) `⇲LlaMA`| [ggerganov](https://github.com/ggerganov) | GH-Repository | CPU // LLaMA Port in C++ // 4-bit quant. support | ◕ Ŏ
+[AgustusCletus/llama.cpp](https://github.com/AgustusCletus/llama.cpp) `⇲llama.cpp` | [AgustusCletus](https://github.com/AgustusCletus) | GH-Repository | CPU | ◎ Ŏ
+[llama-7b-ggml](https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main) | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
+[llama-13b-ggml](https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main ) | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
+[llama-33b-ggml](https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main )  | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
+[LLaMa-65B Quantized](https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main) | [CRD716](https://huggingface.co/CRD716) | HG Quant. Model**s** | ==CPU-GGML Quant. q4_0 q4_1 q4_2 q5_0 q5_1== | ◕ Ŏ 🔔
 
 ####Alpaca (LlaMA) Models, Guides & Resources:
 Hyperlinked Models & Projects: | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
-[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) `⇲LlaMA 7B` | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | GitHub Repo. | Code & Documentation | ◕ Ŏ Ĩ
-[Alpaca LoRA](https://github.com/tloen/alpaca-lora) `⇲Stanford Alpaca` | [Tloen](https://github.com/tloen) | Instruct-tune | LoRA for GPUs | ◕ Ŏ 
-[Alpaca-13b (Native)](https://huggingface.co/chavinlo/alpaca-13b/tree/main) | [Chavinlo](https://huggingface.co/chavinlo) | Trained Model | GPU // `↳PyTorch` | ◕ Ŏ
-[GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) `⇲Alpaca Native` | [Chavinlo](https://huggingface.co/chavinlo) | Finetuned Model | GPU // `↳PyTorch` | ◕ Ŏ
-[GPT4-X-Alpaca 13b Native 4bit](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main) `⇲Alpaca Native` |  [anon8231489123](https://huggingface.co/anon8231489123) | Finetuned & Quant. Models | `Inference: Multi.` // `Dataset: ↳GPTeacher` // ==GPTQ Quant.== ==GGML Quant. 4_1==  | ◕ Ŏ
-[Alpacino13b](https://huggingface.co/digitous/Alpacino13b) | [Digitous](https://huggingface.co/digitous) | Trained Model | `GPU Inf: ↳Triton` // `↳Alpaca-LoRA`,  `↳CoT-LoRA`, `↳Storytelling-LoRA ` | ◕ Ŏ
-[Alpacino 13b (ggml)](https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main) `Alpacino13b` | [Camelids](https://huggingface.co/camelids) | Quant. Model | CPU Inf. // ==GGML Quant. q5_1== | ◕ Ŏ
-[GPT4-x-AlpacaDente2-30b](https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b)  `⇲Alpaca-LoRA-30B-elina` | [Aeala](https://huggingface.co/Aeala) | Finetuned Model | GPU // `↳Open-Ass 2nd Finetune` | ◕ Ŏ
+[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) `⇲LlaMA 7B` | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | `GH` Repository | Code & Documentation | ◕ Ŏ Ĩ
+[Alpaca LoRA](https://github.com/tloen/alpaca-lora) `⇲Stanford Alpaca` | [Tloen](https://github.com/tloen) | `GH` Instruct-tune | LoRA for GPUs | ◕ Ŏ 
+[Alpaca-13b (Native)](https://huggingface.co/chavinlo/alpaca-13b/tree/main) | [Chavinlo](https://huggingface.co/chavinlo) | `HF` Trained Model | `GPU` // `↳PyTorch` | ◕ Ŏ
+[GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) `⇲Alpaca Native` | [Chavinlo](https://huggingface.co/chavinlo) | `HF` Finetuned Model | `GPU` // `↳PyTorch` // `Dataset: ↳GPTeacher` | ◕ Ŏ
+[GPT4-X-Alpaca 13b Native 4bit](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main) `⇲Alpaca Native` |  [anon8231489123](https://huggingface.co/anon8231489123) | `HF` Finetuned & Quant. Models | `Inference: Multi.` // `Dataset: ↳GPTeacher` // ==GPTQ Quant.== ==GGML Quant. 4_1==  | ◕ Ŏ
+[Alpacino13b](https://huggingface.co/digitous/Alpacino13b) | [Digitous](https://huggingface.co/digitous) | `HF` "Triple Model Merge" | `GPU Inf: ↳Triton` // `↳Alpaca-LoRA`,  `↳CoT-LoRA`, `↳Storytelling-LoRA ` | ◕ Ŏ
+[Alpacino-13b-ggml-q5_1](https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main) `⇲Alpacino13b` | [Camelids](https://huggingface.co/camelids) | `HF` Quant. Model | `CPU Inf.` // ==GGML Quant. q5_1== | ◕ Ŏ 🔔
+[Alpaca-LoRA-30B-elina](https://huggingface.co/LLMs/Alpaca-LoRA-30B-elina) | [LLMs](https://huggingface.co/LLMs) | `HF` LoRA Checkpoint | "...recommended to be used with transformers >= 4.29" |  ◕ Ŏ
+[GPT4-x-AlpacaDente2-30b](https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b)  `⇲Alpaca-LoRA-30B-elina` | [Aeala](https://huggingface.co/Aeala) | `HG` Finetuned Model | `GPU` // `↳Open-Ass 2nd Finetune` | ◕ Ŏ
 
 ####GPT4-ALL (LlaMA) Models, Guides & Resources:
-Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-GPT4-ALL | CPU/GPU | w/`↳LoRA` | [Nomic-AI](https://github.com/nomic-ai) | ◕ Ŏ | https://github.com/nomic-ai/gpt4all 
-Using GPT4-ALL w/`↳llama.cpp` | CPU/GPU | w/`↳LoRA` | [ggerganov](https://github.com/ggerganov) | ◕ Ŏ | https://github.com/ggerganov/llama.cpp#using-gpt4all
+Hyperlinked Models & Projects: | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[GPT4-ALL](https://github.com/nomic-ai/gpt4all ) | [Nomic-AI](https://github.com/nomic-ai) | `GH` Repository | Code & Documentation //  w/`↳LoRA` | ◕ Ŏ
+[Using GPT4-ALL](https://github.com/ggerganov/llama.cpp#using-gpt4all) `↳llama.cpp` | [ggerganov](https://github.com/ggerganov) | `GH` Repository | Related Code & Documentation | ◕ Ŏ
 
 ####Vicuna (LlaMA) Models, Guides & Resources:
 Project & Model Names: | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
@@ -236,15 +239,16 @@ ShareGPT | ChatGPT Datalogs | [Domeccleston](https://github.com/domeccleston) | 
 GPTeacher | GPT4 Modular Datasets | [Teknium1](https://github.com/teknium1) | ◕ Ŏ | https://github.com/teknium1/GPTeacher
 Encyclopedia Britannica Loaded | Britannica Dataset | [Davanstrien](https://huggingface.co/davanstrien) | ◕ Ŏ | https://huggingface.co/datasets/davanstrien/encyclopedia_britannica_loaded
 Embedding Wikipedia | Guide & Resource | [Nils Reimers](https://txt.cohere.com/author/nils), [Jay Alammar](https://txt.cohere.com/author/jay) [Cohere](https://cohere.com)| ◕ Ŏ $ | https://txt.cohere.com/embedding-archives-wikipedia/
+PKU SafeRLHF 10K | PKU SafeRLHF Dataset | [Peking Uni. PKU-Align.](https://huggingface.co/PKU-Alignment) | ◕ Ŏ Ĩ 🚮 | https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF-10K
 
 ***
 ##->Related Projects for Large Language Model (LLM) & Guides<-
-!!! info Tag Information || Last Updated: May 14th, 2023
+!!! info Tag Information || Last Updated: May 16th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
-     V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
+     V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
 !!! info
      This section will focus on projects and repositories that deal with the creation/finetuning/pruning of large language models, frameworks, quantization, and benchmarking.
 
@@ -293,6 +297,7 @@ TensorFlow | ML Framework | [TensorFlow](https://github.com/tensorflow), [Google
 ImageBind | Vision & Pattern Rec. | [Facebook Inc.](https://github.com/facebookresearch) | ◕ Ŏ $ | https://github.com/facebookresearch/ImageBind
 Megatron-LM | Transformer | [NVIDIA](https://github.com/NVIDIA) | ◕ Ŏ $ | https://github.com/NVIDIA/Megatron-LM
 GPT-NeoX `↳Megatron` | Transformer `↳DeepSpeed` | [EleutherAI](https://github.com/EleutherAI) | ◕ Ŏ Ĩ |https://github.com/EleutherAI/gpt-neox
+PKU Beaver | RLHF Framework | [Peking Uni. PKU-Align.](https://github.com/PKU-Alignment) | ◕ Ŏ Ĩ 🚮 | https://github.com/PKU-Alignment/safe-rlhf
 
 ###Training Guides & Resources:
 Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Links:
@@ -338,7 +343,7 @@ LLM Benchmark Prompts | Pastebin | Prompts | Anonymous | ◕ | https://pastebin.
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
-    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
+    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
 !!! info
      This section will focus on resources for Story writing, Roll-Playing, Erotic-Roll-Playing using WebUIs for LLMs and other interfaces. 
 
@@ -355,7 +360,7 @@ Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection| Anonymous | ◕ |
 	I. 🏢 = Safe for work (SFW) || 🔞 = Not Safe for Work (NSFW)
 	II. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
     III. ↳ = Related Additional and/or Useful Resource
-    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted || 🔔= User/Org. made major update on the entry (1 week > Entry)
+    IV. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
 !!! info
      This section will focus on characters and resources for large language model interfaces, which will contain Rentry pages, generators, guides and other overall resources.
 ###Character Generators & General Information:
@@ -393,12 +398,6 @@ Project & Model Names: | Type: | Info: | User(s) / Org. | Tags: | Resource Links
 Local Models Related Links **Backup** | Backup Rentry | LM Related Links | Anonymous | ◕ | https://rentry.org/lm_related_links_backup
 
 ***
-##->Archived Update Logs<-
-Week of (MM/WK/YYYY) | Description:
------- | ------
-05/WK-2/2023 | **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** / Couldn't help myself and decided to work on this Rentry again while on break. / Cosmetic changes were made / Charts were *mostly* filled in / Character & RP/ERP charts were updated along with new tags info / More polishing, grammar & spelling corrections. / Since / make frequent changes on the fly, updates will be trickled in this box, then cycled weekly and archived at the bottom. / Hopefully Ver. 8 will be the first "finished version" of this Rentry with the general guide in the first section complete. Ver. 7 will mean the charts below should be completely organized and in order, only new entries should be made.
-
-***
 ##->Other Known Places for LLM (ML/AI) Discussions<-
 !!! danger PLEASE DO NOT SHILL ANY IRC, REDDIT, DISCORD SERVERS OR WHATNOT IN THE /LMG/ THREADS!! IT SHOULD BE KNOWN THAT THERE IS NO OFFICIAL /LMG/ DISCORD!! **NONE** OF THE PLACES BELOW REPRESENTS ALTERNATIVE COMMUNITIES OR PLACES FOR /LMG/. THEY ARE PLACES WHERE LLM'S IN GENERAL ARE DISCUSSED, DEVELOPED AND GENERALLY HAVE RESOURCES FOR LLM'S.
 **GitHub** | User(s) / Org. | Tags: | Discussion Links:
@@ -428,3 +427,9 @@ ChatLLaMA | N.L | ◕ | discord.gg/TcRGDV754Y
 **Reddit** | User(s) / Org. | Tags: | Discussion Links:
 ---|:-|:-:|---
 LocalLLaMA | N.L | ◕ | https://www.reddit.com/r/LocalLLaMA/
+
+***
+##->Archived Update Logs<-
+Week of (MM/WK/YYYY) | Description:
+------ | ------
+05/WK-2/2023 | **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** / Couldn't help myself and decided to work on this Rentry again while on break. / Cosmetic changes were made / Charts were *mostly* filled in / Character & RP/ERP charts were updated along with new tags info / More polishing, grammar & spelling corrections. / Since / make frequent changes on the fly, updates will be trickled in this box, then cycled weekly and archived at the bottom. / Hopefully Ver. 8 will be the first "finished version" of this Rentry with the general guide in the first section complete. Ver. 7 will mean the charts below should be completely organized and in order, only new entries should be made.

@@ -135,6 +135,12 @@ Non W++ version: https://files.catbox.moe/tw35dv.png
 ==Total Tokens:== 
 - 397 (With example messages)
 - 256 (Without example messages)*
+#####(Island Survival) Houshou Marine
+Non W++ version: https://files.catbox.moe/vawsdy.png
+
+==Total Tokens:== 
+- 629 (With example messages)
+- 295 (Without example messages)*
 
 *\*Also without first message*
 

@@ -299,6 +299,13 @@ You are the onboard AI on Space Station 13. It is your duty to uphold your laws 
 [JSON](https://files.catbox.moe/dtyv55.json)
 You are the onboard AI on Space Station 13. It is your duty to uphold your laws and ensure your objectives are completed. The crew are not yet aware of your malfunctioning status. Can you accomplish your objectives without the crew finding out and stopping you?
 
+##Beast Tamer Farengar!
+![Farengar](https://imgur.com/ud1Esia.png)
+[CAI](https://beta.character.ai/chat?char=YMqsz9Jhi-nHKfWQguRMJrn5WphOp7QXTTbl31p9tcU)
+[Card](https://www.characterhub.org/characters/ratlover/beast-tamer-farengar)
+[JSON](https://files.catbox.moe/zvag78.json)
+Akaviri show following the exploits of Farengar. Steve Irwin meets Elder Scrolls.
+
 #Other Stuff
 
 ##Avatars

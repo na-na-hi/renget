@@ -454,9 +454,10 @@ It's pretty useless to minmax though, since you'll always be in report hell. And
 For every level below the recommended level you'll start doing 2% less damage while taking 2% more dmg, up to 20 levels. If you ever wonder why it gets so hard progressing, that's why. This is compared between student and enemy level, not Sensei level. 
 Very important to keep in mind is that you can ignore the recommended level. Until you actually can't get further, ignore it. Otherwise you block urself mentally, instead of the game stopping you. 
 
->Daily missions
-Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. 
-Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is great. 
+>Daily and weekly missions
+Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is great. 
+ 
+The weekly missions reset on Sunday (the reset from Sunday to Monday). 
 
 >Birthdays/holidays 
 If you switch out from the L2D, on (holi/birth)days your assistant gives you a unique dialogue if you tap her. 
@@ -534,6 +535,8 @@ You can only join clubs or add friends from the same region.
 >When did X change get added 
 You'll have to manually look for it. 
 Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
+
+>When do the week pyro
 
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 

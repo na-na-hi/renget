@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>Hohol AA works as intended
+https://files.catbox.moe/4gset0.mp4
+>Tulips blooming in Bakhmut
+https://files.catbox.moe/muqe17.mp4
+>Recent fireworks in Kiev
+https://files.catbox.moe/er5j34.mp4
+>Wagner dismantling the last hohol fortifications in the high-rises of Bakhmut
+https://files.catbox.moe/2jl3j4.mp4
 >Wagner Best in Hell - Hiring
 https://files.catbox.moe/6xf94h.mp4
 >Wagner lancet compilation (not comfy,burning hohol)

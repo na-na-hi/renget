@@ -11,7 +11,7 @@
 A general dedicated to discussion & development of AI Chatbots
 
 >>New
-gpt4 on hopium, slack claude up and schizo
+gpt4 sometimes, slack claude up and schizo
 https://lablab.ai/event/anthropic-ai-hackathon 1 week free claude api?
 claude now 100k token "context", cai+ is here
 
@@ -52,7 +52,7 @@ https://rentry.org/MothsBotMakingStuff
 >>>/g/lmg/ [up-to-date documentation and drama]
 
 >>Meta
-https://alwaysfindtheway.github.io [Proxy urls]
+https://navigatethecoom.github.io/navigate [Proxy urls]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
 https://rentry.org/aicg_meta [/aicg/ service/frontend ranking]
 https://rentry.org/kaomojibaka [OP templates]

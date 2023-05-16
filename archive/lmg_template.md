@@ -3,12 +3,14 @@
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
-!!! info Local LLM Guide added | google leaked doc news moved to the "Archived News" | https://rentry.org/LocalModelsLinks & https://rentry.org/LocalModelsPapers have returned, thank you Anon!
+!!! Note Rentry Update: Week 3 of May, 2023
+     New news updated @ May 16th || Description and name updated for "Proxy for Tavern', shortened number of characters
 ***
 ##->Main Body for OP Template<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
 \>(05/13) llama.cpp GPU acceleration has been merged onto master>>93403996 >>93404319
 \>(05/10) GPU-accelerated token generation >>93334002
 \>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
@@ -26,7 +28,7 @@ https://rentry.org/lmg_models
 \>/lmg/ General Resources
 https://rentry.org/lmg-resources
 \>Local LLM Guide
-https://rentry.org/local_LLM_guide (NEW)
+https://rentry.org/local_LLM_guide
 \>Local Models Links
 https://rentry.org/LocalModelsLinks
 \>Local Models Papers
@@ -72,25 +74,28 @@ https://rentry.org/easyquantguide
 https://rentry.org/lmg-resources#all-things-miku
 \>/lmg/ Template
 https://rentry.org/lmg_template
-\>Benchmark Proompts
+\>Benchmark Prompts
 https://pastebin.com/LmRhwUCA
-\>Proxy script-4-Tavern (Kobold/WebUI) (+output quality)
+\>Proxy for Tavern (+output quality for WebUI)
 https://github.com/anon998/simple-proxy-for-tavern
 
 ##->Follow-up Re-cap Post (Optional, but great to have)<-
-**►Recent Highlights from the Previous Thread: (Notes are a placeholder)**
--Anon goes over the repo process of the LLaMA-Adapter >>92XXXXXX
--Anon releases reverse Miku >>92XXXXXX
--Anons brings up the idea of a mascot for /lmg/ >>92XXXXXX >>>>92XXXXXX
--Oobabooga merged commit to fix one-click-install issue >>92XXXXXX
--Anons proposes a good use for wawario2's long-term memory >>92XXXXXX >>92XXXXXX
--etc...
-**►Recent Highlight Post from the Previous Thread: >>92XXXXXX (Cross-Thread)**
+**►Recent Highlights from the Previous Thread: >>92XXXXXX (Previous OP Thread Reference)**
+
+--Anon goes over the repo process of the LLaMA-Adapter >>92XXXXXX
+--Anon releases reverse Miku >>92XXXXXX
+--Anons brings up the idea of a mascot for /lmg/ >>92XXXXXX >>>>92XXXXXX
+--Oobabooga merged commit to fix one-click-install issue >>92XXXXXX
+--Anons proposes a good use for wawario2's long-term memory >>92XXXXXX >>92XXXXXX
+--etc...
+
+**►Recent Highlight Post from the Previous Thread: >>92XXXXXX (Previous Recap Post Reference)**
 
 ***
 ##->Archived News<-
 Date (MM/DD/YYYY) | Description:
 ------ | ------
+05/06/2023 | MPT 7B, 65k context model trained on 1T tokens: https://huggingface.co/mosaicml/mpt-7b-storywriter
 05/05/2023 | GPT4-x-AlpacaDente2-30b. https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 05/04/2023 | Allegedly leaked document from Google, fretting over Open Source LLM's. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 05/04/2023 | StarCoder, a 15.5B parameter models trained on 80+ programming languages: https://huggingface.co/bigcode/starcoderbase
@@ -102,3 +107,8 @@ Date (MM/DD/YYYY) | Description:
 04/22/2023 | SuperCOT LoRA (by kaiokendev), merged by helpful anons: https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g
 04/22/2023 | OASS "releases" XORs again, deletes them soon after... again
 04/21/2023 | StableLM models performing terribly, are apparently broken: https://github.com/Stability-AI/StableLM/issues/30
+
+##->Archived Updates<-
+Week of (MM/WK/YYYY) | Description:
+------ | ------
+05/WK-2/2023 | Local LLM Guide added // google leaked doc news moved to the "Archived News" // https://rentry.org/LocalModelsLinks & https://rentry.org/LocalModelsPapers have returned, thank you Anon!

@@ -228,96 +228,96 @@ Use crookedtrees in your prompt
 
 ## Galleries
 
-### FluffAnon's Generations
+# FluffAnon's Generations
 	https://mega.nz/folder/oqxUXbZb##0w9iSSlL9gO0W_eZ65HU8g
 
-### Yttreia's Stuff
+# Yttreia's Stuff
 	https://mega.nz/folder/mb5ACDhQ##o1VQjNnuXzhp0dKH6Aza7Q
 
 ## LORAs
 
-### LORAs from /hdg/
+# LORAs from /hdg/
 	 https://gitgud.io/gayshit/makesomefuckingporn
 
-### Malo LORA
+# Malo LORA
 	https://mega.nz/folder/GPBn2SSD##eBwvVC89ASh4Yq9hUQP6HA
 
-### Mokochi/Neferpitou (among others) LORAs apparently taken from /h/
+# Mokochi/Neferpitou (among others) LORAs apparently taken from /h/
 	https://mega.nz/folder/mIVB1CwL##ZEt4Kg2Q8Y5WMR-piNXwfg/folder/HNlUwQAR
 
-### Ber00, Elora, Fredina, Quotefox, Ralsei Meme, Rikose, Syuro, Hariet (Mario Odyssey), Double Deck, Volcarona, Claire (The Summoning) in the style of Anonymouse
+# Ber00, Elora, Fredina, Quotefox, Ralsei Meme, Rikose, Syuro, Hariet (Mario Odyssey), Double Deck, Volcarona, Claire (The Summoning) in the style of Anonymouse
 	https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
 
-### Pokemon, Kikurage, Sindoll, Tsampikos and Hizake among many others (Professor Harkness)
+# Pokemon, Kikurage, Sindoll, Tsampikos and Hizake among many others (Professor Harkness)
 	https://mega.nz/folder/zr4AgC4Y##jIa0G6J5xDdRi2lZ2YNJ5w
 
-### Midna LORA from /h/
+# Midna LORA from /h/
 	https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
 
-### Various Styles
+# Various Styles
 	https://mega.nz/folder/ctl1FYoK##BYlpywutnH4psbEcxsbLLg
 
-### Amad, Kishibe, Pochincoff
+# Amad, Kishibe, Pochincoff
 	https://mega.nz/folder/8uZFTBRK##HdBiUFsXvAbuRZC9Agg_fw
 
-### Binah, Felicia, Meicrackmon, Taokaka
+# Binah, Felicia, Meicrackmon, Taokaka
 	https://mega.nz/folder/NugFxBTD##7E7mnrOnPvn0DJrBl7hntw
 
-### Moths, Pokemon (Style), Mai Shiranui (DubAnon) (New Link)
+# Moths, Pokemon (Style), Mai Shiranui (DubAnon) (New Link)
 	https://mega.nz/folder/RqwWzKJI##cL3aVloimycDgqrqqejyUg
 
-### Another Fredina LORA
-### 42160 Steps
+# Another Fredina LORA
+# 42160 Steps
 	https://www.mediafire.com/file/0ljg5z2iyfxc0p8/BIMBOFREDDY_42160_lora.ckpt/file
-### 80920 Steps
+# 80920 Steps
 	https://www.mediafire.com/file/jh31keiazl6jscl/BIMBOFREDDY_80920_lora.ckpt/file
 
-### Matuura's Fox Girl (removed from CivitAI)
+# Matuura's Fox Girl (removed from CivitAI)
 	Triggerword is matuurafox
 	https://pixeldrain.com/u/XxyWEbDV
 
-### Splatoon Characters, Various Pokemon (Froslass, Jirachi, Toxicroak...), Youjomodoki (style) (AmmoniaM)
+# Splatoon Characters, Various Pokemon (Froslass, Jirachi, Toxicroak...), Youjomodoki (style) (AmmoniaM)
 	https://mega.nz/folder/WLonVYKB##_zFftVxaUW8iXmKk8jXHZw
 
-### Miraheze (Ankha, Lopunny, Argonians)
+# Miraheze (Ankha, Lopunny, Argonians)
 	https://aids.miraheze.org/wiki/LoRAs
 
-### Pale Kemono (Amari Akitsune)
+# Pale Kemono (Amari Akitsune)
 	https://mega.nz/folder/LBgmgYiT##p4ynaa4zMC5B8xnSvktf5w
 
-### Better Scalies
+# Better Scalies
 	https://pixeldrain.com/u/VJTZFfui
 
-### Ayabemiso
+# Ayabemiso
 	https://files.catbox.moe/x4mqae.safetensors
 
-### Shortstacks, Coco Bandicoot, Elora, Midna, Mirko, Priscilla, Ranni, Gwynever Dress, Goblins, Mothgirls, Yordles, PlantPenetrator, Pochincoff, tangobat, wamudraws
+# Shortstacks, Coco Bandicoot, Elora, Midna, Mirko, Priscilla, Ranni, Gwynever Dress, Goblins, Mothgirls, Yordles, PlantPenetrator, Pochincoff, tangobat, wamudraws
 	https://mega.nz/folder/IPM2ERrL##a6Zti0k0G7FZmQz2AfCgrg/folder/tatCTY5L
 
-### Majmajor
+# Majmajor
 	https://mega.nz/folder/vRRhxZ6T##lUoVgvJ5qZZflIVHH6oqyg
 
-### Blowup Doll Concept
+# Blowup Doll Concept
 	https://mega.nz/folder/HtZBDJBR##fjzIGR-Le1KIEZCx94ntsw
 
-### Human art by Shinodage and Pestil (Keyword is "pestino")
+# Human art by Shinodage and Pestil (Keyword is "pestino")
 	https://mega.nz/file/vQVCVKZa##3KLu3mrq443BlgSGkJlULHKkK1PQZVbe-LRaNlkp2ko
 
-### Assorted HDG characters and LORAs
+# Assorted HDG characters and LORAs
 	https://mega.nz/folder/TZElCCIL##OEutCsJPD0G5lXPXLGgfcQ
 
-### Ranamon
+# Ranamon
 	https://mega.nz/folder/lRZ1ja5Y##f4O0o36egRB_M5fM6wHPOQ
 
-### Birds
+# Birds
 	https://mega.nz/folder/XZ0ETKwC##A3jEZoXJr60Pdwxh-gUgqw
 
-### Guangjian Huang (@hgjart)
+# Guangjian Huang (@hgjart)
 	### About keywords: No particulars. I removed the artist name to make it implicit. It works very well with "armor" and "weapon" since most pictures include at least one of those tags. I think "greek" will also set off a couple of images.
 	Epoch 6: https://files.catbox.moe/asbbkh.safetensors
 	Epoch 12: https://files.catbox.moe/fpdliw.safetensors
 
-### Cervina 7 (readme+Epochs 1-15)
+# Cervina 7 (readme+Epochs 1-15)
 	https://files.catbox.moe/dousfo.txt
 	https://files.catbox.moe/9upztm.safetensors
 	https://files.catbox.moe/bplmxp.safetensors
@@ -335,35 +335,35 @@ Use crookedtrees in your prompt
 	https://files.catbox.moe/fkbitq.safetensors
 	https://files.catbox.moe/9ipux7.safetensors
 
-### Dr. Comet (Epochs 1-5)
+# Dr. Comet (Epochs 1-5)
 	https://files.catbox.moe/w6x8so.safetensors
 	https://files.catbox.moe/08ybcs.safetensors
 	https://files.catbox.moe/ufjyf8.safetensors
 	https://files.catbox.moe/dzn7ct.safetensors
 	https://files.catbox.moe/i5w4ws.safetensors
 
-###Fursuits
+#Fursuits
 	https://rentry.org/sxmpm
 
-### Udders (from /d/)
+# Udders (from /d/)
 	https://mega.nz/folder/yVA3TbRQ##-SjPY7UuosLhSMF6KdY2jQ
 
-### Bubsy
+# Bubsy
 	Keyword: Bubsy the Bobcat
 	pixeldrain.com/u/a1gfqRcj
 
-### kame_3t (Artist), Nanachi (Made In Abyss) + Various Furry Artists (among others)
+# kame_3t (Artist), Nanachi (Made In Abyss) + Various Furry Artists (among others)
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/PoZQgLQC
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/30wnQL4K
 
-### Trish the Opossum
+# Trish the Opossum
 	Activated with "Trish the opossum"
 	pixeldrain.com/u/t8b7cpJb
 
-### Honovy
+# Honovy
 	https://mega.nz/file/nRojlLyR##4FCf5ep5tE7aqZKzPHvqN6MrPJM5RZ5Lio5BT5isplg
 
-### OoT (Style)
+# OoT (Style)
 	v1:
 	https://files.catbox.moe/mjm6v2.7z
 
@@ -375,41 +375,41 @@ Use crookedtrees in your prompt
 	v2:
 	https://files.catbox.moe/eh9o6h.7z
 
-### Horror
+# Horror
 	https://files.catbox.moe/tzmb9k.safetensors
 
-### Captain Amelia (Treasure Planet)
+# Captain Amelia (Treasure Planet)
 	https://mega.nz/folder/8f4WzJ6T##6bsCz2bi4C0SxV10Hy-bvw
 
-### No-Swift, Miles-DF, Ruaidri
+# No-Swift, Miles-DF, Ruaidri
 	I uploaded my Ruaidri and Miles-DF LoRAs alongside my No-Swift LoRA. All are trained on top of Gay621 and untested elsewhere. No-Swift and Ruaidri are activated with "by no-swift" and "by ruaidri" respectively (in line with Gay621's conventions).
 	Miles-DF was the first one I made and I didn't know what I was doing, so there's no activation keyword -- it still kind of works, but it's somewhat shit. I don't actually like his art style so I'm unlikely to ever remake it either.
 	https://pixeldrain.com/l/cPaQ8ZLF
 
-### Rustle (Artist)
+# Rustle (Artist)
 	https://files.catbox.moe/adei36.safetensors
 
-### Apimiku
+# Apimiku
 	v1: https://files.catbox.moe/nr2vqs.safetensors
 	v2: https://files.catbox.moe/0wpcp4.safetensors
 
-### inCase
+# inCase
 	https://mega.nz/folder/JTI3FByR##YKrzupCKSUIh5eCabqz3Hw
 
-### Blaze the Cat
+# Blaze the Cat
 	https://mega.nz/folder/OvQBVChb##TNJAPKVbrsBgTc1-D_j4IA
 
-### Stylized 3D Anime LoRA
+# Stylized 3D Anime LoRA
 	https://files.catbox.moe/4yzumd.safetensors
 
-### Narse, Skygracer, Jay Nailor, Raiji, Zourik (Artists)
+# Narse, Skygracer, Jay Nailor, Raiji, Zourik (Artists)
 	Use keyword "<artist>mix"
 	https://mega.nz/folder/VhtQEQjL#mmR6mOsl1u12XY-QtCngBA
 
-### Sagitta (Yu-Gi-Oh!)
+# Sagitta (Yu-Gi-Oh!)
 	https://mega.nz/folder/xoEHHZ5K#F6wEzK9LN0bdpvX-opLIlw
 
-### Mergingbois
+# Mergingbois
 v4:
 
 	https://pixeldrain.com/u/Q4v8WuXu
@@ -420,19 +420,19 @@ v5b:
 	NAI Trained: mediafire.com/file/ikbsqolr8mucmot nai.zip
 	NAI was uploaded to mediafire as pixeldrain was failing to finish the upload for some reason
 
-### Mei_Panda (Turning Red)
+# Mei_Panda (Turning Red)
 	https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
 
-### Feral Horses (from /vt/ of all places?)
+# Feral Horses (from /vt/ of all places?)
 anonfiles.com/F2V0P7i8z2/horse_safetensors
 
-### Roll (Mega-Man)
+# Roll (Mega-Man)
 ``
 Responds to typical roll db tags + "rollchan".``
 
 	https://files.catbox.moe/wdl1zk.safetensors
 
-### Feralbois
+# Feralbois
 `C'mon with another gift, I threw a bunch of feral pics into the lora colab and out popped this. Feralbois v1. Trained on NAI with E621 tags. The dataset covers quite a bit though you may get mixed results on the anthro on feral positions. Its also a bit biased to felines...I was a lion king kid.`
 Lora: pixeldrain.com/u/NP87NGA2
 Dataset: pixeldrain.com/u/VvT693oy
@@ -442,16 +442,16 @@ Dataset: pixeldrain com u Jc3svbHe
 Fluff Trained: pixeldrain com u V6cosxNn
 NAI Trained: pixeldrain com u kS25QCQY
 
-### Nanaki/RedX,III LoRA
+# Nanaki/RedX,III LoRA
 `Based off of yiffye, but seems to work with other checkpoints. Trigger word is "redxiii"`
 
 	pixeldrain.com/u/YpsVqcpJ
 
-### Tsukino (Monster Hunter Stories)
+# Tsukino (Monster Hunter Stories)
 
 	pixeldrain.com/u/FYtiu8P6
 
-### Waai Fu (Arknights)
+# Waai Fu (Arknights)
 	My 4th try (holy fuck) at it and i wont probably try this anymore, this was done on Hollowstrawberry's lora trainer: https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb
 	Trained with 61 images at 768 resolution for 5 repeats and 10 epochs, used flip_aug and min_snr_ganma, 2e-4 unet/1e-4 text econder lr, batch size 2.
 	Getting waai fu right is a nightmare and i think part of the problem is the models not being good at it, i only tested with 7thanimev3c: https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_C.safetensors but if someone has a merge with a furry model and it looks better on those please do tell me.
@@ -459,11 +459,11 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	https://mega.nz/folder/c5NhgYZA#Uj6VXv7AJAyUkpEA0DcnaA
 
-### Princess Luna + Twilight Sparkle
+# Princess Luna + Twilight Sparkle
 
 	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
 
-### Steve Martin Style
+# Steve Martin Style
 
 	https://rentry.org/zni6o
 	https://pixeldrain.com/u/cmZbPM6C
@@ -473,27 +473,27 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	Probably so-so, didn't test it well enough
 
-### Digby (Animal Crossing)
+# Digby (Animal Crossing)
 
 	https://files.catbox.moe/vjhxcv.safetensors
 
-### Able Sisters (Animal Crossing)
+# Able Sisters (Animal Crossing)
 
 	Trained on SD 1.5: https://files.catbox.moe/1zno17.safetensors
 	Trained on NAI: https://files.catbox.moe/79u1qa.safetensors
 	> I suppose you use the e621 tags for each sister?
 	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
 
-### 3D Midna (trained on Fluffyrock lion low-lr e22 offset-noise e7)
+# 3D Midna (trained on Fluffyrock lion low-lr e22 offset-noise e7)
 	https://files.catbox.moe/88ov7p.safetensors
 
-### Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
+# Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
 
 	https://pastebin.com/U7pGcJZ1
 
 ## LORAs from the Discord
 
-### Various Characters (FinalEclipse's Trash Pile)
+# Various Characters (FinalEclipse's Trash Pile)
 	• Dawn Bellwether (Zootopia)
 	• Esix (e621 mascot)
 	• Fidget (Elysian Tail)
@@ -521,7 +521,7 @@ NAI Trained: pixeldrain com u kS25QCQY
     https://mega.nz/folder/1m51RTjI##ZmcA4WUuskdXq0ggQCs8BQ (OLD)
 	https://drive.google.com/drive/folders/1B41fkQ6RwEWamfc5YE4yC8ZQVz-DUUEF
 
-### BulkedUp
+# BulkedUp
     Here is a LoRA, BulkedUp, that was made with Kohya's GUI. The purpose of this LoRA was to create bigger buff dudes on different Stable Diffusion models. I personally use between 0.2 to 0.5 strength, with 0.2 strength adding a bit of muscle and 0.5 going even bigger. Compared to the Hypernetworks I have worked on, I believe that LoRAs are a great alternative for training with shorter training time and better generations. However, from what I've seen on how this LoRA behaves, it seems to reflect the art style of its respective artist that it was trained on at 0.6 strength and above. Due to this discovery, I will provide the training dataset for the LoRA in the link.
 
     Using default E621 tags with spaces, like huge muscles, works really well with the LoRA
@@ -534,7 +534,7 @@ Here is the link to the LoRA, model formula, training dataset, and images of the
 	NOTE: The merged model the LoRA was trained on requires the VAE, vae-ft-mse-840000-ema-pruned.ckpt, from stabilityai 
 	https://mega.nz/folder/BRVVSYZT##hc4dSxLbjXPZQ5EEGh973A
 
-### Protogens
+# Protogens
 	protogen - Obsolete version trained on 2400 steps
 
 	protogenv2 - Newer version trained on roughly 3200 steps
@@ -549,7 +549,7 @@ Link:
 
 	https://mega.nz/folder/C2R2ESCT##uwszxIuh6fYm4iq6xu3WsQ
 
-### Mr. Wolf (The Bad Guys)
+# Mr. Wolf (The Bad Guys)
 	Mr. Wolf from The Bad Guys, but he's a LoRA now.
 	
 	Responds very well to higher weighting, like :1.3 or :1.2. The LoRA is trained at 704 resolution, so it works best at that size.
@@ -564,11 +564,11 @@ Link:
 
 	mega.nz/file/315EiDCD##bsH75Mh00i7Ts6chY99rQI9gP__DJpidbqDd2MbdVPs
 
-### Wizzikt
+# Wizzikt
 	~300 images from Wizzikt.
 	Download link: pixeldrain.com/u/yqadCyMz
 
-### beeg wolf wife generator (Sligarthetiger)
+# beeg wolf wife generator (Sligarthetiger)
 
 	My first attempt at a LoRA. This is LoRA Trained on 150 works by Sligarthetiger at around 4000 steps for 6 epochs. Contains two versions.
 
@@ -590,17 +590,17 @@ Link:
 
 	https://mega.nz/folder/vuJUyaAa##ncWjDuMmnQmFoPLf0dw-YA
 
-### SnowskauCharr
+# SnowskauCharr
 	Trained on ye-18
 	pixeldrain.com/u/KGwp6dAc
 
-### Cervids
+# Cervids
 	https://pixeldrain.com/u/3a6yvbTD
 
-### Various (Penis Lineup, Kass, Krystal, Loona, Protogen, Puro, Spyro, Toothless
+# Various (Penis Lineup, Kass, Krystal, Loona, Protogen, Puro, Spyro, Toothless
 	https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA
 
-### Puffin's LoRAs
+# Puffin's LoRAs
 Pic taken 2023/05/16
 ![Puffin's Stuff](https://files.catbox.moe/9uqnzq.png)
 
