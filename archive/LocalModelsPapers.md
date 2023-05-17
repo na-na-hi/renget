@@ -23,6 +23,7 @@
 05/2023|[FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://arxiv.org/abs/2305.02549)
 05/2023|[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
+05/2023|[Towards Expert-Level Medical Question Answering with Large Language Models (Med-Palm 2)](https://arxiv.org/abs/2305.09617)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -182,6 +183,8 @@
 05/2023|[Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983)
 05/2023|[Scalable Coupling of Deep Learning with Logical Reasoning](https://arxiv.org/abs/2305.07617)
 05/2023|[Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
+05/2023|[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
+05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.0913)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

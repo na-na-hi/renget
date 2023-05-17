@@ -30,8 +30,8 @@ Emotion image: https://files.catbox.moe/ta9m64.zip
 
 ### 밴시 소녀, 세라피나 (Seraphina, the Banshee Girl)
 ![Image description](https://files.catbox.moe/6fmnwl.png)
-Character card: https://files.catbox.moe/rpui42.png
-Emotion image: https://files.catbox.moe/xgw02w.zip
+Emotion image: https://files.catbox.moe/5meeqp.zip (Include character cards)
+
 
 ### 음울한 메이드, 모카 (Mocha, the Dismal Maid)
 ![Image description](https://ac-p1.namu.la/20230423sac/d8431f7e55780dcf8a075139c7aa871c3aee787af0ea7e2f6d0094a847239bce.png?expires=1684299019&key=CUIX2oC4ULjOFqRFRRRZhw&type=orig)

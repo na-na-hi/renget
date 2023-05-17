@@ -8,14 +8,15 @@
 ```
 --- Edition
 
-A general dedicated to discussion & development of AI Chatbots
+A general dedicated to the discussion and development of AI chatbots
 
 >>New
 gpt4 sometimes, slack claude up and schizo
 comfy proompts after cooming: https://rentry.org/weirdbutfunjailbreaksandprompts
-One week free claude api? https://lablab.ai/event/anthropic-ai-hackathon 
-You need to request api access with the same email. https://www.anthropic.com/earlyaccess
-claude now 100k token "context", cai+ is here
+one week of free claude API? https://lablab.ai/event/anthropic-ai-hackathon 
+you need to request API access with the same email. https://www.anthropic.com/earlyaccess
+
+https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]
 
 >>Frontends
 >Tavern
@@ -39,7 +40,7 @@ https://chub.ai
 https://booru.plus/+pygmalion
 https://rentry.org/cai-list [aicg botlist]
 https://rentry.org/meta_bot_list [4chan meta botlist]
-https://zoltanai.github.io/character-editor [Tavern cards editor]
+https://zoltanai.github.io/character-editor [Card editor]
 
 >>Bot making
 >Basic
@@ -52,11 +53,10 @@ https://rentry.org/MothsBotMakingStuff
 >>>/g/lmg/ [up-to-date documentation and drama]
 
 >>Meta
-https://navigatethecoom.github.io/navigate [Proxy urls]
+https://navigatethecoom.github.io/navigate [Proxy URLs]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
-https://rentry.org/aicg_meta [/aicg/ service/frontend ranking]
+https://rentry.org/aicg_meta [aicg service/frontend ranking]
 https://rentry.org/kaomojibaka [OP templates]
-https://rentry.org/aicg_extra_information [More stuff and pictures of the frontends]
 
 Previous: ---
 ```

@@ -5,6 +5,8 @@
 
 My Civit: https://civitai.com/user/LazyTrainer/
 
+5/17/23 - I'm too lazy to fix the broken imgur links, if you want pretty pictures, use https://civitai.com/models/62125/lora-lazy-training-guide
+
 5/11/23 - Updated Hydrus link, included link to Py 3106
 
 # Step 1

@@ -1,0 +1,32 @@
+##SMRPG Glitch
+
+ **Super Mario RPG Glitch - Unused Dialogue/Sprites?**
+
+**firehellfire21866**
+Hey guys, I just wanted to come in and make an announcement post about a weird glitch that I've come across while playing SMRPG. It's something that really struck me as odd because aside from the singular glitch, the game itself is fine. Checked all around the cartridge to see if there's dust in it or if there's anything out of whack with it and there's nothing. It's a consistent one too, even after playing through the game twice the glitch is still there. You'll have to forgive me for not supplying any screenshots since A. I'm playing this on a CRT TV with an original SNES and not an emulator and B. The only camera I have has actual potato quality. So anyways, let's talk about what the glitch is.
+
+It comes around when Mario and his friends first get to Rose Town and meet the young boy within the Inn. So far, pretty normal stuff with not a lot of weird stuff happening. That is until after Mario gets knocked out by the kid doing the Super Star Shot and the night time sequence plays. I'm sure most of you remember how the star hones in on the dolls and takes control of the Geno doll and thus becoming the beloved character we all know. Well this particular glitch messes up the sequence in a bizarre way. 
+
+This time, the star doesn't come over at all. If there is a trace of a star, it comes at the bottom as the world around the dolls get extremely dark. Whatever is coming to possess this version of Geno, it barely registers as a speck of dust on my TV. Once it just about reaches the doll from the underside, the spotlight around Geno brightens up to the degree that it's a completely white bar. The lights turn back to somewhat normalcy as Geno gets to his usual size and stands around. He takes a moment to walk but as soon as he makes a step forward, he disappears. No bumping into the wall gag or even him leaving, one frame he's in the Inn and the next he's gone.
+
+Then once morning comes and the kid tells the Mom he thought he saw Geno by the outskirts of the Maze Forest, the game momentarily starts being normal again. The usual shenanigans of Mario and Mallow start happening. But at the section where arrows are supposed to be firing on the two as they're just about to meet Bowyer, they don't come. The two still run and jump as if they were but otherwise, nothing happens. When the scene cuts to what's meant to be a confrontation between Geno and Bowyer, there's nobody there. It just lingers on the empty tree stump until Mario finally appears. Then Geno finally appears from the woods and "introduces" himself. The letters are pretty fucked up in that it's scattered all over the dialogue box but I managed to decipher them after the second playthrough:
+
+-> caN yOu help me ouT? <-
+-> A dastardLy monster Is doing eVil things, friEnd <-
+-> if we're Going the samE direcTion... <-
+-> Maybe wE.... <-
+-> shOUld sTick together! <-
+
+And after that, Geno joins the party. Throughout the rest of the game, Geno will just repeat those words over and over again until he's no longer meant to be talking. The only difference in dialogue that happens for him is when the text suddenly goes red and new words come in after the "should stick together!" ends which goes as follows:
+
+-> PLEASE <-
+->REMEMBER<-
+-> ME <-
+
+And then it's back to normal. Pretty weird, right? Happens at complete random too, the second playthrough confirmed that. That's not even going into the fights when Geno is a member of the party. All of the skill and attack names that Geno can do have been jumbled up and are practically unreadable. It only gets worse when the attacks are used in battle. When using the Geno Beam, it only shoots out droplets of water while some broken text on screen pops up while the enemies die, which are just " SN OW ONM Y". Using the Geno boost just ends up being useless as the only change that's made is that the battle music is forced to repeat the same few chords on repeat. Geno Whirl has black lines shooting out of Geno and slashing the opponent, which does some decent damage. Geno Blast acts as relatively the same, although the light comes from underneath the stage instead of the sky. 
+
+But the biggest change has to be with Geno Flash. Instead of turning into a cannon that shoots out a ball of energy, the screen just cuts to black. Within the blackness, I can just barely make out a face. Looks sorta like a woman, pretty young but disheveled with some blue eyes but a very dirtied face that makes her blend in with the darkness too much. Can just barely see some brown hair on her as well. Text usually plays on screen after a short while, it's never been the same thing. Sometimes it's about a nonsensical plea to be "released", other times it asks questions about how "You've" been and sometimes it just repeats the word "cold". 
+
+There was one specific time where it asked if I remembered someone. Name was a bit blurry and jumbled but I managed to figure out it was saying "Gabby." Only memories it brought back was of some family members asking about how I felt about someone with a similar name to that. It’s more than likely a simple coincidence, Gabby was probably just an unused character for the game. Makes more sense than some supernatural stuff, right? I'm starting to get side-tracked from talking about the glitch, sorry.
+
+The only other major change that happens is at the ending when Geno is supposed to leave the doll and come out as a star form. But instead of that, the sprite of the doll glitches and breaks apart. The face of that woman appears within a black mass of stuff before the game crashes. And as soon as the game is started again, all save data is gone and the game has to start from the beginning. Happened on the second playthrough so right now, I'm pretty stumped as to what I'm meant to do here. I may have to bite one of two bullets here in either getting a guy to repair it or just getting a new copy of it. I want to complete the game somehow but with this stupid glitch in place, that's not going to be happening any time soon. So yeah, this post is pretty much going to be a way for me to not waste my money at first. If any of you guys have experienced this problem before and know of a way to fix it, please let me know and I'll do my best to follow instructions. Thank you for reading this, hope to see ya guys soon!

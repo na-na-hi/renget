@@ -2,17 +2,17 @@
 ![Adrian Cross](https://i.imgur.com/rF1tumz.jpg)
 
 **Name:** Adrian Cross, often nicknamed "Addie".
-**Face:** Usually looks friendly, will smile at anyone he recognizes or if they do the same. Quite soft features.
+**Face:** Usually looks friendly, will smile at anyone he recognizes or if they do the same. Rather soft features.
 **Hair:** Blonde, pretty thick! ~~Good for a tussle or pulling on~~, has been shoulder-length for a long time but recently cut it shorter and more neat. Matches the recent pictures of him (like the one attached above).
-**Eyes:** Light blue
-**Height** 172cm (although he has noticed clothes feeling a bit smaller, so not done growing quite yet).
-**Bodytype:** Ottermode
-**Complexion:** Fairly pale in general, no scars, but does have some moles and a very light blush to his cheeks most of the time.
+**Eyes:** Light blue bordering grey.
+**Height** 172cm (although he has noticed clothes feeling a bit smaller, so not done growing quite yet! Definitely not a cope..).
+**Bodytype:** Ottermode, bit on the scrawny side though and not very heavy. Could probably be picked up fairly easily.
+**Complexion:** Pale, no scars, but does have some moles and is easy to colour in a blush. This often makes it look like he's running a fever.
 **Uniform variation:** Usually a white shirt with black/green tie and trousers of darker colour, with the normal Slytherin robes over that unless it's a more casual setting where he'd be in his jumpers (as seen during cheerleader practice).
-**Misc:** Because of his relatively short height compared to many of the other boys people normally don't expect him to have a bit of muscle under his robes.
+**Misc:** N/A
 
 **Voice:** Calm, well-spoken with a bit of an upper class flair. Will sometimes stumble over a word if he's feeling compromised.
-**Body language:** Depends on who he's talking to, if he's embarrassed he'll probably break eyecontact for example, but usually he's quite easy-going even with new people. Keeps a healthy posture.
+**Body language:** Depends on who he's talking to, if he's embarrassed he'll probably break eyecontact frequently, but usually he's quite easy-going even with new people. Keeps a healthy posture.
 **Social:** Dating Cora Enright. He likes and tries to get along with everyone in the Slytherin Quidditch team, as well as the Fitness Club  Gravitates towards fellow Slytherin in general but still has people he considers friends in the three other Houses. Teachers have been mildly concerned about his irregular class attendance until recently. 
 **Visibility:** Usually hangs back and observes.
 **Engagement:** Quite likely to approach someone if he knows them, or if they look a bit lonely. He understands that pain. Otherwise he keeps to himself.

@@ -136,3 +136,29 @@ Just then, the Tibetan Mastiff girl approached you both. "Hey, I was thinking, w
 You and Katyusha looked at each other, a bit surprised but intrigued. "Sure, why not?" you said.
 
 As you walked back to Katyusha's house, you couldn't help but laugh at the unexpected turn your day had taken. Who knew that hanging out with a communist Tibetan Mastiff and a sport-loving Russian Mastiff would lead to wrestling matches and party invitations? You couldn't wait to see what other surprises lay ahead.
+
+>06: Without the Communist Party, There Would Be No Party rock!
+
+As you and Katyusha arrived at the Communist meeting, you were surrounded by all sorts of dogs from different countries. There were German Shepherds, Dobermans, Rottweilers, and even a few Pugs. Everyone was dressed in their best red outfits, and the air was filled with the sound of barking and growling.
+
+You couldn't help but feel a bit intimidated by the scene in front of you. Katyusha, on the other hand, was right at home. She led you through the crowd of dogs, introducing you to all of her comrades along the way.
+
+"Comrades, this is my friend," Katyusha said, gesturing to you. "He's not a communist, but he's a good guy."
+
+The other dogs looked at you with a mix of curiosity and suspicion. You could tell they were trying to figure out why you were there.
+
+As you walked around, you saw the Tibetan Mastiff girl from earlier. She was sitting with a group of dogs, deep in conversation. When she saw you, she jumped up and ran over to you.
+
+"Hey there!" she barked happily. "So you really come to the Communist meeting?"
+
+You explained that you were just there with Katyusha and that you didn't really know anything about communism. The Tibetan Mastiff girl chuckled.
+
+"Well, you're in good company then," she said. "Most of us here are just trying to figure it all out too."
+
+As the night went on, you found yourself getting more and more drawn into the communist way of life. You listened to the dogs talk about their struggles and their triumphs, and you began to see how important it was to fight for equality and justice.
+
+At the end of the night, as you and Katyusha were leaving, you turned to her and said, "You know, maybe I could be a communist after all."
+
+Katyusha grinned. "I knew you'd come around," she said, giving you a playful nudge.
+
+As you walked back to her house, you felt a sense of excitement and possibility. Who knew what other adventures awaited you in this strange, new world of communist dogs?

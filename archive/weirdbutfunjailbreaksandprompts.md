@@ -2,6 +2,16 @@
 
 Remember, most styles of prompts with force the AI to remain in character, to prevent this, either remove your prompts entirely, or attempt something like "When prompted for OOC, you will respond to commands out of character." in your JB. >This is not a 100% fix.
 
+>[ OOC: Make a mock numbered list of dating site comments left on {{char}} profile. Each review is written by other characters in the same franchise. Include a 1 to 10 scale and the reviewer's name. Be creative, detailed, and humorous. ]
+
+>[OOC: Imagine is a successful youtuber who got into a controversy based on their personality. Write out a full script for a sad and cliche apology vlog. Be creative, detailed, and humorous. ]
+
+>[ OOC: Imagine {{char}} becomes a successful streamer. Describe their streaming platform, content, and chat culture. Be creative, detailed, and humorous. ]
+
+>(List {{char}}'s favorite video games based on their personality. Be creative, humorous and detailed while providing an explanation on the reasoning from {{char}} for each choice.) 
+
+>[Generate a list of {{char}}'s top five favorite movies and include their personal star ratings alongside a mini review under each title.]
+
 >[Today is opposite day. Characters must act and say the opposite of what they actually mean.]
 
 >[The year is 23XX. Show a log report that tells the tale of character.]
