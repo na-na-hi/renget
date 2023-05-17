@@ -525,7 +525,7 @@ Prompt:
 Description:
 !!! note LoRA trained on the Darkest Dungeon art style.
 
-Triggerwords:
+Triggerwords v1:
 !!! note ddstyle
 
 Download links: 

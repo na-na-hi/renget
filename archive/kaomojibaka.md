@@ -1,6 +1,6 @@
 !!! note Just a comfy place to keep my baking template up-to-date. (⊃｡•́‿•̀｡)⊃
     ->The other /aicg/ baker rentry is https://rentry.org/aicgOP<-
-    ->Feedback: kaomojibaker@proton.me <-
+    ->(◞⁎˃ᆺ˂)◞✉ kaomojibaker@proton.me <-
 ```
 /aicg/ - AI Chatbot General
 ```
@@ -12,8 +12,9 @@ A general dedicated to discussion & development of AI Chatbots
 
 >>New
 gpt4 sometimes, slack claude up and schizo
-comfy proompts when you are done with cooming: https://rentry.org/Weirdbutfunjailbreaksandprompts
-https://lablab.ai/event/anthropic-ai-hackathon 1 week free claude api?
+comfy proompts after cooming: https://rentry.org/weirdbutfunjailbreaksandprompts
+One week free claude api? https://lablab.ai/event/anthropic-ai-hackathon 
+You need to request api access with the same email. https://www.anthropic.com/earlyaccess
 claude now 100k token "context", cai+ is here
 
 >>Frontends
@@ -27,14 +28,11 @@ https://rentry.org/ClaudeJB
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Video guides]
+>RisuAI
+https://github.com/kwaroran/RisuAI
 >CAI
 https://character.ai [sold out to google, cai+]
 https://rentry.org/newcaitools [cai userscripts]
->RisuAI
-https://github.com/kwaroran/RisuAI
->Miku
-https://docs.miku.gg/
-https://rentry.org/mikugg
 
 >>Bots
 https://chub.ai
@@ -62,3 +60,6 @@ https://rentry.org/aicg_extra_information [More stuff and pictures of the fronte
 
 Previous: ---
 ```
+
+!!! note
+    ->、ヽ｀、ヽ｀个o(-ω-｡)ﾟ｀ヽ、｀ヽ、<-

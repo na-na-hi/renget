@@ -2,7 +2,8 @@
 -> Current link is https://docs.miku.gg <-
 -> List updated: ==19.03.2023== <-
 
-Not enough bots yet to do categories 'n shit.
+!!! note
+    Judging by the absence of any activity at /aicg/ and at the official discord server miku\.gg currently can be considered on pause or abandoned.
 [TOC2]
 ## Bots v1
 Bot | Creator | Desc | Demo
@@ -11,7 +12,8 @@ Bot | Creator | Desc | Demo
 [**Asuka v2**](https://anonfiles.com/QcU64df6z1/asuka_public_v2_zip) | [formerwagie](https://desuarchive.org/g/thread/92188073/#92188421) | New voice sampled off of the american dub. Some tweaks to her character prompts. | https://files.catbox.moe/9wwkyn.mp4 ;
 
 ## Bots v2
-Currently none, but at least 2 were promised. Go make some! Use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
+Currently none, but at least 2 were promised.
+To make bots use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
 ***
 ***
 ***
