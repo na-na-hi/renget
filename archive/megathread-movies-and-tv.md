@@ -41,6 +41,10 @@
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
 
+### 🔗 [Edytjedhgmdhm](https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
+- Excellent directory containing tons of high-quality movies and TV shows, as well as a good number of ebooks.
+- [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
+
 ### 🔗 [FooGle](https://foogle.shivamhw.me/)
 - Super-fast downloads without requiring registration, either through the website or Google Drive, but often has limits.
 - [URL Safety Results](https://www.urlvoid.com/scan/foogle.shivamhw.me/)

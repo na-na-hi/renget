@@ -22,6 +22,7 @@
 05/2023|[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 05/2023|[FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://arxiv.org/abs/2305.02549)
 05/2023|[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
+05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -72,6 +73,7 @@
 04/2023|[MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks](https://arxiv.org/abs/2304.14979)
 04/2023|[ResiDual: Transformer with Dual Residual Connections](https://arxiv.org/abs/2304.14802)
 05/2023|[Code Execution with Pre-trained Language Models](https://arxiv.org/abs/2305.05383)
+05/2023|[Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -103,6 +105,7 @@
 05/2023|[MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
 05/2023|[Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726)
 05/2023|[InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
+05/2023|[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://arxiv.org/abs/2305.07922)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -178,6 +181,7 @@
 05/2023|[Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach](https://arxiv.org/abs/2305.07001)
 05/2023|[Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983)
 05/2023|[Scalable Coupling of Deep Learning with Logical Reasoning](https://arxiv.org/abs/2305.07617)
+05/2023|[Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

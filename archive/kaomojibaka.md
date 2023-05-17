@@ -56,7 +56,7 @@ https://navigatethecoom.github.io/navigate [Proxy urls]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
 https://rentry.org/aicg_meta [/aicg/ service/frontend ranking]
 https://rentry.org/kaomojibaka [OP templates]
-https://rentry.org/aicg_extra_information [CAI, Kobold, NAI, waifutext...]
+https://rentry.org/aicg_extra_information [More stuff and pictures of the frontends]
 
 Previous: ---
 ```

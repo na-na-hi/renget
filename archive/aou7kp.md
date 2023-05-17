@@ -712,7 +712,7 @@ Spurred by the promise of escape, your dormant leaden muscles creak back to life
 
 Seven feet away, the girls have cajoled Bae into leading the charge. You can feel their excitement building. The only thing they have left is to decide on the exact position, something IRyS is taking great interest in. You need to move fast, but your limbs refuse to cooperate any further. You stare at your motionless hand. *Move, you son of a bitch. Move!*
 
-“Okay, so we’re going with an ‘amazon press’. Let’s bring him over. Calli, clear a space on the floor. Bae, you can keep everything on except your panties.”
+“Okay, so we’ll keep it simple with the ‘cowgirl’ position. Let’s bring him over. Calli, clear a space on the floor. Bae, you can keep everything on except your panties.”
 
 You’re out of time. IRyS is less than an arm's length away. Her scent is working hard against the progress you’ve been eking out. You can already feel her hoisting you off your chair and forcing you to the ground to live out the rest of the night as a catatonic meat dildo.
 
@@ -754,47 +754,76 @@ Voices rise in a screaming chorus within your skull. All of them insist on how o
 
 At the border between two finalities, your body lies adrift and the overworked motor guiding your agency stalls out. You can’t choose. You don’t know anymore. The light fades from your eyes as you look upon the suite of temptresses and put on a wretched, lecherous smile.
 
-The cutter falls from your hand. IRyS takes another step forward, reaching out with a warm smile.
+The box cutter falls to the ground. IRyS takes another step forward, reaching out with open arms.
 
-Your hand wraps around the base of one of the heavy statues lining the sill and sends it crashing facefirst through the window in a wide, looping arc, showering the uncut grass on the other side with glass shrapnel. Blessed green forest air rushes in and stimulates your lungs. You hear someone call out to you as your hand finds purchase on the gritty, glass-speckled sill. If you were to hesitate now, you know all would be lost. Pricks of blood erupt along your palm as you pivot your body weight onto it and toss yourself into the open night air.
+Your hand wraps around the base of one of the heavy statues lining the sill and sends it crashing facefirst through the window in a wide, looping arc, showering the uncut grass on the other side with glass shrapnel. Blessed green forest air rushes in and stimulates your lungs. You hear Mori call out to you as your right hand finds purchase on the gritty, glass-speckled sill. If you were to hesitate now, you know all would be lost. Pricks of blood erupt along your palm as you pivot your body weight onto it and toss yourself into the open night air. No matter where this fall takes you, you’ll be out of their hands.
 
-You never considered the height before, looking at the school building from the outside. Was this a lethal jump? It’s from the second floor, but the ceilings are so low in this building. Wind whistles past your ears as you stare into the dark sea of grass rapidly swelling up to meet you. The simmering orange coin of a sun disappears. Twin bolts of pain rush up your legs with a deep crack felt in the pit of your stomach as the damp earth slams into your chest.
+Something snags your belt.
 
-Voices above, panicked and in disbelief, disappear into the void.  
+IRyS, using strength none of you knew she had, drives her body backward and yanks you inside. The two of you crash through the table and send droves of black and white comic pages flapping into the air. The girls descend upon your paralyzed, disorientated body with rabid glee.
 
-– – – – – –
-– – – – – –
+“Get his arms!” Someone shouts, and two heavy, warm weights pin your hands to the ground. You swivel your head, eyes wide and desperate, to see Mori and IRyS sitting on your arms. Bae lands on your thighs to complete the trap. You’re practically immobilized now, and throwing the full strength of your muscles into their weight only rocks your torso a half inch off the ground.
 
-Your first sensations upon waking up are small vibrations. A larger bump shifts your entire body upward. Cautiously, you stretch your limbs and promptly smack them against a hard plastic barrier. Soft leather cushions your back. You open your eyes expecting the worst.
+Mori squirms on top of your arm and shakes the bangs from her face. “You had to make this difficult at the end, huh?” She looks at Bae. “Do it! Now!”
 
-The president is leaning back in the driver's seat, looking deeply focused. Looming street lights flash by in the distance. The car is dark except for the sharp blue glow of the dashboard's media player.
+You hear the soft whisper of leather being pulled through your belt loops. Warm air accosts your thighs as Bae unzips your pants and pulls them down to your knees. Her face is taunt with nervousness, but a determined smile remains.
 
-She notices your stirring and smiles. “I’m driving you to the hospital. You don’t have to move or talk if it hurts.”
+She leans down for a quick sniff of your boxers, mumbling something to herself, then yanks them down as well. Using the cum milked out from Mori’s footjob as lube, Bae’s delicate hands wrap around your shaft and quickly pump and squeeze your flaccid cock into a slick, twitching, steel rod aimed at the ceiling. An impish inner voice delights in your display of physical attraction. *If you’re so afraid of them,* it hisses in a nasty whisper, *why is your cock so ready to split her apart?*
 
-You slowly turn over, groaning like an old man, and rise to a  fully upright seated position. A dull ache throbs around your ankles, your nose is a broken pile of cartilage, and your head is still swimming in great heaving loops. “How’d you find me?”
+Holding her skirt in her hands, Bae squats over your dick and kisses the head against her juicy lower lips. Her brilliant blue eyes grow wide and gleam with anticipation. Mori and IRyS clamp down hard on both of your arms to make sure there’s no sudden movements before the final curtain falls.
 
-“Your mood plummeted the moment you came back from the Cultural Studies Club. You don’t need to be head of the student council to know it had something to do with those girls. I’ve been keeping an eye on that part of the old school building while I slog through my paperwork in the evenings. Once I heard the window break, I ran over and found you in the grass” 
+Your last ditch effort was admirable, all things considered. A second quicker on the draw would have dropped you onto the forest’s floor outside– bruised, bleeding, and free. But you’ve lost.
 
-She looks at your injuries and sighs. “What did they do to you in there?”
+Bae drops her hips and takes the full length of your achingly erect cock in one go. Her eyes flutter, light moans escape her lips, and she leans forward to press her hands against your stomach. In the hypnotic haze clouding your vision, the wild red of her twintails seem to blaze like embers.
 
-You considered leaving it at blackmail and bullying, but more details kept pouring out as the conversation advanced. The entire history of your encounters with the girls– the clubroom meeting, the drinks, the “favors”, all laid out to the best of your memory. Even when your recollections of the events grew bloated with lurid details, the president took all of it in with unflinching composure.
+There is no romance or grace in her movements. Only years of repressed sexual desire billowing out in a storm of horny, cock-devouring *lust*. She brings her hips up, almost to the point of releasing you, and slaps right back down with all her body weight and then some, slamming into your pelvis like she was trying to press the floorboards beneath you. It’s impossible to move, to speak, to think of anything other than Bae’s incredible warm, wet, tightness sliding rhythmically over your cock. A numbing white cloud is forming in your head while she rides you for all you’re worth.
 
-“That is much more…involved than I expected,” she says. “I’m sorry. I should have done something sooner.”
+“Hey, don’t go passing out on us, idiot,” Mori says from your left with a light slap to your face. “She’s the one doing all the work!”
 
-She eyes the empty drug bottle bobbing in her cup holder, jumping lightly upon any bump in the road. “And I’m assuming that’s what they drugged you with?”
+The two other girls, you realize, are busy making good use of the rest of your body. Mori shoves her panties to the side and grinds against your left hand, moaning softly. You don’t need to be told to recruit all five digits into fingering and thrusting into her hairy, needy pussy. IRyS meanwhile lays on the ground with your arm sandwiched between her breasts, nibbling teasingly on your ear. She whispers deeply perverted fantasies straight to your brain with a voice unbecoming of her usual air-headed nature. “This is just the *start* of what we’re gonna do to you,” she purrs, enunciating her intent with a sly lick of your ear.
 
-“Yeah, pretty sure. Any idea what that is?”
+Any lingering resistance has been beaten and smothered into dust. You stare mindlessly at the trio of girls dominating your body and feel nothing but chemical bliss pulsing through your brain stem. Your hips jerk to life and start rising in time to meet Bae on the way down. With so much unnatural power behind your thrusts, the dull slap of your balls against the underside of her toned ass join the cacophony of obscene sounds filling the room. Every muscle in your body is dead set on driving as deep into her insatiable pussy as possible, reshaping her insides like you were trying to hit her very womb. The crazed, pheromone-addled lust piloting your rock-hard erection pounds away at Bae’s slit until her thick, well-trained thighs are quivering from the overdose of stimulation.
 
-The president brushes her thumb against the steering wheel. “It’s an imprinting agent. Once ingested, the user becomes highly suggestible to those around them. The American military played around with it during some covert ops back in the 80’s. This one in particular activates from the controller's pheromones.”
+A wild look sparks across her eyes. Bae takes your challenge head on and reasserts her role on top, bouncing on your pre-cum slathered cock with excessive fervor and more than a little sadism. Her nails, though short and maintained, dig small cuts into your abs as her grip unconsciously tightens. Sometimes she deliberately slows down and grinds against the base, throwing her hips in a circle just to tease your inevitable, rapidly building ejaculation a little longer. Everything below your waist melts into a warm mess of carnal pleasure.
 
-Pheromones. That’s certainly one word for eye-watering fujo musk. You sit back in your seat, frankly unsure how to respond. Of all the questions clambering for priority, you utter: “How do you know that?”
+Finally, after a subjective eternity of Bae mercilessly pulverizing your pelvis, you reach your limit. Your balls clench up and a violent climax rips through your body, surging up your urethra and spurting several thick, virile ropes deep inside Bae. She makes sure to stay pressed down as tight as possible to keep all your freshly extracted seed inside. She shudders feeling your warmth flood her insides and surrenders to the release, collapsing on top of your chest with her fat tits cushioning the fall.
 
-She laughs. “This school’s history is complicated. The investors pumping millions into it aren’t doing it from the goodness of their hearts or out of flimsy sentimental value.” The car rolls to a stop at an empty four-way intersection and she turns to you, red light washing over her hair. “But none of that should matter to you. I stand by what I said when I took you in. I just want a helpful, hard-working council member. Someone to keep the peace and uphold our values as students. Can you do that for me?”
+Bae’s breath races hot and satisfied against your neck. Still fully sheathed inside her pussy, your body weakly forces out a couple more shots while her sweaty, panting body weighs down upon yours. Soon after, she rolls off you and lays spread eagle on the floor, your jelly-thick creampie oozing slowly out of her sex and pooling between her thighs.
 
-“Sure,” you say, sensing a new distance between the two of you. “I don’t mind writing this off as a really messed up week if that gets me back to my normal school life.”
+“I gotta try that,” Mori says, visibly envious of her friend’s starry-eyed bliss.
 
-“Good. The effects will wear off after a week of no contact with the controllers– the girls, in this case. I’ll get a leave of absence set up for you.” The light turns green and the engine murmurs back to full power.
+IRyS turns her head up and pouts. “Ehh? I thought we agreed I was next.” 
 
-The hospital appears on the horizon. In that moment you realize how little you know about the president. You’ve never seen her in any normal classes, or hanging out with people that weren’t in the council. No photos seem to exist of her where she’s not in uniform. There’s also the question of why she didn’t call an ambulance when she first found your broken body. It could be that she’s driving you personally out of some misguided guilt from not acting sooner, but–
+“No way, you said-...ugh, nevermind, we’ll settle it somehow. First, let’s get him some water before round two. And Bae, you got those zinc supplements ordered, right? Those should help out in the future.”
 
-Your head throbs. Now’s not the time to dive down another tangle of mysteries. You recline your seat and turn to the window, nursing your wounds and watching the night sky scroll by.
+Still lying on her back, Bae gives a thumbs up. “I got you. I also looked online and bought some other stuff that’s supposed to help with the, uh, ‘production’.”
+
+You’re given a moment to yourself as they prop you against the wall and tip a glass of water down your throat. Vaguely, you’re aware of IRyS and Mori playing rock-paper-scissors somewhere else in the room. A faint vibration, almost unnoticeable in your detached headspace, murmurs along your thigh. You take out your phone and bring it to your ear.
+
+Dried blood cakes your nose and lips, your eyes stare unblinking into infinity. “Good afternoon, Ms. President,” you say with perfect composure.
+
+“Good afternoon. I apologize for contacting you outside school hours, but I wanted to make sure everything was alright. With you, I mean. A sudden onset of fainting can be a symptom of something much more serious, after all, and it sounded like you still didn’t know the cause.”
+
+“Don’t worry about it.” A carved smile lifts your lips. “It’s been much better recently. It hasn’t happened for days. As I thought, a good night’s sleep was all I needed.”
+
+The president exhales. “Good. That’s good.”
+
+Your eyes travel to the upturned bookcase and the lumpy carpet of upturned comics beneath. “Also, since we’re already talking, I'd like to retract my earlier statements on the Cultural Studies Club. There’s more to them than I thought.”
+
+“...I’m sorry? Your report seemed quite convinced that-”
+
+“My report was clouded by exhaustion and inexperience,” you interject. “Barging in and shutting down a club after a single bad session would be disrespectful to the years spent pulling it together. Give me, let’s say, another three months to properly make up my mind.”
+
+A pause. “If that’s what you think is best. I won’t admonish any council member for taking time to see the job done right.” Her voice dips into something darker and more suspicious. “...Where are you right now?”
+
+“My girlfriends’ place. Does that matter?”
+
+“No. No, of course not. Sorry, that was rude of me. Then I’ll see you on Monday.”
+
+You hang up and slump against the wall. *You should have told her,* a small voice pleads among the drifting, shimmering shards of your psyche. *You should have told her where you are! To call the police and save you!*
+
+Your eyes roll lazily in their sockets as the girls finish their preparations and close in on you. They’re almost entirely naked now, their raw, brutal musk smell overwhelming your senses within seconds. Their hands lay into your chest and tear away your clothes so their slick skin can meld into yours.
+
+A heavy– now assuredly permanent –fog envelops your brain as you stare into the ceiling, feeling lips and fingers trace hungrily across your skin. You chuckle feverishly.
+
+*Save you from what?*

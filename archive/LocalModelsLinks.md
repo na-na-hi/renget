@@ -43,6 +43,7 @@
 [Google's ML Course](https://developers.google.com/machine-learning/foundational-courses)|Various courses related to ML 
 |
 [AttentionViz](http://attentionviz.com)|Interactive tool that visualizes global attention patterns for transformer models
+[Boundless DAS](https://github.com/frankaging/align-transformers)|Distributed Alignment Search library for LLMs 
 [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer)|Interactive tool that explains how SD transforms text into images
 |
 **Prompting**|

@@ -1,4 +1,4 @@
-![Image description](https://files.catbox.moe/j36dvu.jpg)
+![Image description](https://files.catbox.moe/1p6dj2.jpg)
 
 Name: Faolán O'Dwyer 
 Face: He tries his best to look friendly, a combination of tired looking eyes and facial scars makes him seem more intimidating then he actually intends to be. Though this does lead to the occasional benefit of people finding his features "Strong and rugged" even if he doesn't always agree.

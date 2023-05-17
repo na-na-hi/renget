@@ -83,7 +83,7 @@ https://venusai.chat
 ***
 ***
 Sister rentries:
-- https://rentry.org/aicg_op_texts - /aicg/ OP templates for ease of baking
+- https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
 
 Email for feedback and suggestions:

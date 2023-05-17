@@ -1,4 +1,4 @@
-# /co/'s Big List of Sites V23.05.08
+# /co/'s Big List of Sites V23.05.16
 ***
 !!! warning 
 	-> **Got anything you wanna tell me? Feel free to let me know!** <-
@@ -77,14 +77,12 @@ tumblr.com - Blogging site that has long passed its prime, you can still find th
 tvtropes.org - Site for documenting tropes in fiction
 twitter.com - Troon and drama magnet that ended up being the main hub for artists to share their work, we recommend using [Nitter](https://github.com/zedeus/nitter/wiki/Instances) for your browsing experience
 
-#### Drawing
-sites.google.com/site/ourwici/ - /ic/'s wiki page, has plenty of good resources for drawing there
-
 #### Imageboards
 `… same goes for imageboards.`
 
 7chan.org/co/ - 7chan's /co/ mirror
 8chan.moe/co/ - 8chan's /co/ mirror
+8chan.moe/ac/ - 8chan's Spanish /co/ mirror
 boards.plus4chan.org/co/ - /co/ bunker
 fujochan.org - GOD HATES FUJOS
 sturdychan.help/co/ - Ever wonder where all the worst generals go after getting banned? No? Well here it is anyway

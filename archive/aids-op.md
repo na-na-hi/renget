@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/16) Big noose soon >>429473860 >>429443235 ; Altman field trips to DC https://www.youtube.com/watch?v=MZcwAb5RRLI
-(05/10) Colabchads, it's over \[spoiler]maybe\[/spoiler] >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
+\>(05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
+(05/11) Big noose soon >>429473860 >>429443235
+(05/10) Colabchads, it's over [spoiler]maybe[/spoiler] >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
 (05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
-(05/08) Kobold updates >>428664559 >>428841081 ; Green Devil out >>429061348 ; 65k context https://huggingface.co/mosaicml/mpt-7b-storywriter
 (05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Retarded Klutz Friday is over, enjoy the stupid prompts! >>429652489
+\>Retarded Klutz Friday is over, theme suggestions for next week are being taken! >>430093774
 
 
 ##Perma-Template

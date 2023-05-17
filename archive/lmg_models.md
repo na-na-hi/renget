@@ -196,7 +196,7 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-30B GGML | CPU | Awaiting re-quantization
+30B GGML | CPU | [Q4_0](https://huggingface.co/spanielrassler/GPT4-X-Alpasta-30b-ggml)
 30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128gs](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
 
 ## OpenAssistant LLaMa 30B SFT 6  (04/23/2023)

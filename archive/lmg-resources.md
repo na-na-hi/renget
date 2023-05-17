@@ -249,6 +249,7 @@ PKU SafeRLHF 10K | PKU SafeRLHF Dataset | [Peking Uni. PKU-Align.](https://huggi
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
      V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
+    VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
 !!! info
      This section will focus on projects and repositories that deal with the creation/finetuning/pruning of large language models, frameworks, quantization, and benchmarking.
 
@@ -352,7 +353,7 @@ Project & Model Names: | Type: | Info: | User(s) / Org. |  Tags: | Resource Link
 ---|:-|:-|:-|:-:|---
 RolePlayBot Guide | Rentry | Guide | Anonymous | ◕ | https://rentry.org/RPBT 
 ERP/RP Data Collection | Rentry | Data Log Collection | Anonymous | ◕ | https://rentry.org/qib8f 
-Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection| Anonymous | ◕ | https://rentry.org/better-llama-roleplay
+Anon's Guide to LLaMA Roleplay | Rentry | Data Log Collection | Anonymous | ◕ | https://rentry.org/better-llama-roleplay
 
 ***
 ##->Character Guides & Resources<-

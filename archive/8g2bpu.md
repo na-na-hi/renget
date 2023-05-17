@@ -108,7 +108,7 @@ Chespin lifting Minun with his vines to pick an apple from a tree
 
 ~~Phanpy and friends in winter outfits~~
 
-Phanpy and friends at the blue claw inn
+~~Phanpy and friends at the blue claw inn~~
 
 ~~Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall~~
 

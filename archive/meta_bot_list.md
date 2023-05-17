@@ -32,7 +32,7 @@ Too old, for historical purposes only:
 ***
 ***
 Sister rentries:
-- https://rentry.org/aicg_op_texts - /aicg/ OP templates for ease of baking
+- https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/aicg_extra_information - /aicg/ OP overflow, additional info missing from the OP
 
 Email for feedback and suggestions:
