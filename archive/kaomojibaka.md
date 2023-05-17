@@ -1,4 +1,4 @@
-!!! note Just a place to keep my baking template up-to-date.
+!!! note Just a comfy place to keep my baking template up-to-date. (⊃｡•́‿•̀｡)⊃
     ->The other /aicg/ baker rentry is https://rentry.org/aicgOP<-
     ->Feedback: kaomojibaker@proton.me <-
 ```
@@ -12,6 +12,7 @@ A general dedicated to discussion & development of AI Chatbots
 
 >>New
 gpt4 sometimes, slack claude up and schizo
+comfy proompts when you are done with cooming: https://rentry.org/Weirdbutfunjailbreaksandprompts
 https://lablab.ai/event/anthropic-ai-hackathon 1 week free claude api?
 claude now 100k token "context", cai+ is here
 
@@ -22,6 +23,7 @@ https://rentry.org/aicg4retards [THE guide for retards and phonetards, this mean
 https://github.com/AmmoniaM/Spermack [Russki Slack Claude proxy]
 https://github.com/PandarusAnon/slaude [Another Slaude proxy]
 https://github.com/bfs15/slaude [aisu fork]
+https://rentry.org/ClaudeJB
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Video guides]

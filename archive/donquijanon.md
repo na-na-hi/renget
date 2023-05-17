@@ -1,6 +1,6 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: As of 14/05/2023 I'm on hiatus, probably will release fewer bots until uni stops taking most of my time. I still have a lot of bots on the back burner, planning on updating the Sylvie card more, and the Mexibots TM series is not over. I don't know how long I'll be away, and I don't like making promises and then not delivering. Hit me up in the /aicg/ threads if you want to say anything, I'm lurking most of the time. Also, I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+>ATTENTION: As of 14/05/2023 I will be releasing fewer bots until uni stops taking most of my time. I still have a lot of bots on the back burner, planning on updating the Sylvie card more, and the Mexibots TM series is not over. I don't know how long I'll be away, and I don't like making promises and then not delivering. Hit me up in the /aicg/ threads if you want to say anything, I'm lurking most of the time. Also, I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
@@ -236,6 +236,11 @@ This is my first fetish oriented bot and that's right, I'm an architect. I imple
 ->![melissa2](https://files.catbox.moe/hnc676.png)<-
 
 https://www.characterhub.org/characters/donquijanon/melissa-smith
+
+## RANDOM VIDS
+->![vids](https://files.catbox.moe/h3gnhb.png)<-
+A strange website containing every video ever recorded in history.
+https://www.characterhub.org/characters/donquijanon/random-vids
 
 ##Existing Characters
 ### E-123 Omega (Sonic)

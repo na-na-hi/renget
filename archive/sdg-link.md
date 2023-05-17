@@ -188,4 +188,4 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 
 ##Bakery
-Cut'n'paste for PWAnon (^_^) and other thread bakers - Apr 28th - https://pastebin.com/dNtrVZbH
+Cut'n'paste for PWAnon (^_^) and other thread bakers - May17th - https://pastebin.com/EMejiLCG

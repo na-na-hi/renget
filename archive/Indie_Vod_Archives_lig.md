@@ -125,5 +125,12 @@ Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
 
 ---
-##Ways to contact me if needed
-If you have questions or some the IRC is the best way to contact if im not in there or you dont want to use IRC check my Archive Spreadsheet for other ways to contact me on the first page: [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446)
+#Ways to contact me if needed
+If you have questions or something check below for ways to contact me if needed
+
+Content|Link|Description 
+-------|-------|------- 
+Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
+/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
+Email|[Link]()| Psobb1302@gmail.com
+Discord|[Link]()| Nyarchivist#5437

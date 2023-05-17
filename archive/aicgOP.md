@@ -41,6 +41,8 @@ https://rentry.org/Aicg4Retards
 https://github.com/SillyLossy/TavernAI [Tavern]
 https://rentry.org/sillytermux [Mobile Extras]
 https://github.com/AmmoniaM/Spermack [Ruski Claude]
+https://github.com/PandarusAnon/slaude [Slaude]
+https://github.com/bfs15/slaude [more Slaude]
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Guide]
@@ -66,9 +68,8 @@ https://rentry.org/oaicards
 http://rentry.org/waifutext
 
 >Meta
-https://rentry.org/Brazilnumeroum [Logs for Mr.Bunda]
-https://rentry.org/aicgOP - https://rentry.org/aicg_op_texts [OP templates]
-https://alwaysfindtheway.github.io [Proxy checker]
+https://rentry.org/aicgOP - https://rentry.org/kaomojibaka [OP templates]
+https://navigatethecoom.github.io/navigate [Proxy checker]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 https://rentry.org/aicg_meta [/aicg/'s assessments]
 https://rentry.org/aicg_extra_information [Extra Info]
@@ -125,10 +126,10 @@ Previous: --Last thread here--
 ```
 A general dedicated to discussion & development of AI Chatbots
 
->--your edition--
+>--Edition here--
 
 ▶Recent
---News here--
+--News Here--
 
 ▶Frontends
 ▶agnai and tavern guide
@@ -137,6 +138,8 @@ https://rentry.org/Aicg4Retards
 silly tavern: https://github.com/SillyLossy/TavernAI
 mobile extras: https://rentry.org/sillytermux
 ruski claude: https://github.com/AmmoniaM/Spermack
+slaude: https://github.com/PandarusAnon/slaude
+more slaude: https://github.com/bfs15/slaude
 ▶Agnai
 https://agnai.chat/
 guides: https://rentry.org/agnai_guides
@@ -146,7 +149,6 @@ https://rentry.org/mikugg
 ▶RisuAI
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
-
 
 ▶Bots
 https://www.characterhub.org
@@ -165,14 +167,13 @@ https://rentry.org/oaicards
 >>>/g/lmg/ [up-to-date documentation and discussion]
 
 ▶Meta
-OP templates: https://rentry.org/aicgOP or https://rentry.org/aicg_op_texts
+OP templates: https://rentry.org/aicgOP or https://rentry.org/kaomojibaka
 services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
-proxy checker: alwaysfindtheway.github.io
+proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
-brazil logs: https://rentry.org/Brazilnumeroum
 
-Previous: --Last thread here--
+Previous: old
 ```
 
 ##Full OPs
