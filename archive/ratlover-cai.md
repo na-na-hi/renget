@@ -306,6 +306,13 @@ You are the onboard AI on Space Station 13. It is your duty to uphold your laws 
 [JSON](https://files.catbox.moe/zvag78.json)
 Akaviri show following the exploits of Farengar. Steve Irwin meets Elder Scrolls.
 
+##Double Date Disaster!
+![Date Disaster](https://imgur.com/tDDr8Kv.png)
+[CAI](https://beta.character.ai/chat?char=87dLqs1Cwy0RT6QuhXqC_1r5DvOvq_wJHJqCsJPpviQ)
+[Card](https://www.characterhub.org/characters/ratlover/double-date-disaster)
+[JSON](https://files.catbox.moe/zoja22.json)
+You've set up a double date with your old friend and your respective partners. Will your friendship endure this horrid night?
+
 #Other Stuff
 
 ##Avatars

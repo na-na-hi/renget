@@ -21,7 +21,7 @@
 04/2023|[Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)
 05/2023|[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 05/2023|[FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://arxiv.org/abs/2305.02549)
-05/2023|[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
+05/2023|[PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
 05/2023|[Towards Expert-Level Medical Question Answering with Large Language Models (Med-Palm 2)](https://arxiv.org/abs/2305.09617)
 |

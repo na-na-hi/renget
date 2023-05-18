@@ -108,7 +108,7 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 	IV. Ŏ = Open Source || ⌀ = Closed Source || Ĩ= Institutional ⊻ University Projects || $ = Private ⊻ Corporate Projects
     V. ~~Strike out Entry~~ = Project or model entry 404'd or was deleted
     VI. ✅= Unfiltered/Uncucked Verified || 🚮 = Filtered/Cucked Verified (Not all links have been thoroughly verified)
-    VII. 🔔= User/Org. updated the quantization's for ==CPU-GGML model(s)== after the recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405)
+    VII. 🔔= User/Org. updated the quantization's for ==GGML model(s)== after the recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405)
     VIII. GH = GitHub || HF = Hugging Face
 !!! info
      This section represents the current LLMs, datasets, guides and whatnot that's currently being developed (as well as an archive). You can find more detailed information (including download & torrent links) at this Rentry: https://rentry.org/lmg_models which is maintained by another great anon. That Rentry would more useful for anons who simply want access to the latest and greatest models and datasets. Charts below here should hopefully help serve as a reference (geared towards newer anons) about each project's activity status, quick information about the different models/datasets, guides, and a place to find other Rentry pages.
@@ -116,25 +116,25 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 ###LlaMA Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
-[llama.cpp](https://github.com/ggerganov/llama.cpp) `⇲LlaMA`| [ggerganov](https://github.com/ggerganov) | GH-Repository | CPU // LLaMA Port in C++ // 4-bit quant. support | ◕ Ŏ
-[AgustusCletus/llama.cpp](https://github.com/AgustusCletus/llama.cpp) `⇲llama.cpp` | [AgustusCletus](https://github.com/AgustusCletus) | GH-Repository | CPU | ◎ Ŏ
-[llama-7b-ggml](https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main) | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
-[llama-13b-ggml](https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main ) | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
-[llama-33b-ggml](https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main )  | [Camelids](https://huggingface.co/camelids) | HF Quant. Model | ==CPU-GGML Quant. q5_1== | ◕ Ŏ 🔔
-[LLaMa-65B Quantized](https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main) | [CRD716](https://huggingface.co/CRD716) | HG Quant. Model**s** | ==CPU-GGML Quant. q4_0 q4_1 q4_2 q5_0 q5_1== | ◕ Ŏ 🔔
+[llama.cpp](https://github.com/ggerganov/llama.cpp) `⇲LlaMA`| [ggerganov](https://github.com/ggerganov) | `GH` Repository | CPU // LLaMA Port in C++ // 4-bit quant. support | ◕ Ŏ
+[AgustusCletus/llama.cpp](https://github.com/AgustusCletus/llama.cpp) `⇲llama.cpp` | [AgustusCletus](https://github.com/AgustusCletus) | `GH` Repository | CPU | ◎ Ŏ
+[llama-7b-ggml](https://huggingface.co/camelids/llama-7b-ggml-q5_1/tree/main) | [Camelids](https://huggingface.co/camelids) | `HF` Quant. Model | ==GGML Quant. q5_1== | ◕ Ŏ 🔔
+[llama-13b-ggml](https://huggingface.co/camelids/llama-13b-ggml-q5_1/tree/main ) | [Camelids](https://huggingface.co/camelids) | `HF` Quant. Model | ==GGML Quant. q5_1== | ◕ Ŏ 🔔
+[llama-33b-ggml](https://huggingface.co/camelids/llama-33b-ggml-q5_1/tree/main )  | [Camelids](https://huggingface.co/camelids) | `HF` Quant. Model | ==GGML Quant. q5_1== | ◕ Ŏ 🔔
+[LLaMa-65B Quantized](https://huggingface.co/CRD716/ggml-LLaMa-65B-quantized/tree/main) | [CRD716](https://huggingface.co/CRD716) | `HG` Quant. Model**s** | ==GGML Quant. q4_0 q4_1 q4_2 q5_0 q5_1== | ◕ Ŏ 🔔
 
 ####Alpaca (LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
 [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) `⇲LlaMA 7B` | [Stanford University: Tatsu Lab](https://github.com/tatsu-lab) | `GH` Repository | Code & Documentation | ◕ Ŏ Ĩ
-[Alpaca LoRA](https://github.com/tloen/alpaca-lora) `⇲Stanford Alpaca` | [Tloen](https://github.com/tloen) | `GH` Instruct-tune | LoRA for GPUs | ◕ Ŏ 
+[Alpaca LoRA](https://github.com/tloen/alpaca-lora) `⇲Stanford Alpaca` | [Tloen](https://github.com/tloen) | `GH` LoRA Instruct-tune | LoRA for GPUs | ◕ Ŏ 
 [Alpaca-13b (Native)](https://huggingface.co/chavinlo/alpaca-13b/tree/main) | [Chavinlo](https://huggingface.co/chavinlo) | `HF` Trained Model | `GPU` // `↳PyTorch` | ◕ Ŏ
 [GPT4-X-Alpaca](https://huggingface.co/chavinlo/gpt4-x-alpaca) `⇲Alpaca Native` | [Chavinlo](https://huggingface.co/chavinlo) | `HF` Finetuned Model | `GPU` // `↳PyTorch` // `Dataset: ↳GPTeacher` | ◕ Ŏ
 [GPT4-X-Alpaca 13b Native 4bit](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main) `⇲Alpaca Native` |  [anon8231489123](https://huggingface.co/anon8231489123) | `HF` Finetuned & Quant. Models | `Inference: Multi.` // `Dataset: ↳GPTeacher` // ==GPTQ Quant.== ==GGML Quant. 4_1==  | ◕ Ŏ
 [Alpacino13b](https://huggingface.co/digitous/Alpacino13b) | [Digitous](https://huggingface.co/digitous) | `HF` "Triple Model Merge" | `GPU Inf: ↳Triton` // `↳Alpaca-LoRA`,  `↳CoT-LoRA`, `↳Storytelling-LoRA ` | ◕ Ŏ
 [Alpacino-13b-ggml-q5_1](https://huggingface.co/camelids/alpacino-13b-ggml-q5_1/tree/main) `⇲Alpacino13b` | [Camelids](https://huggingface.co/camelids) | `HF` Quant. Model | `CPU Inf.` // ==GGML Quant. q5_1== | ◕ Ŏ 🔔
 [Alpaca-LoRA-30B-elina](https://huggingface.co/LLMs/Alpaca-LoRA-30B-elina) | [LLMs](https://huggingface.co/LLMs) | `HF` LoRA Checkpoint | "...recommended to be used with transformers >= 4.29" |  ◕ Ŏ
-[GPT4-x-AlpacaDente2-30b](https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b)  `⇲Alpaca-LoRA-30B-elina` | [Aeala](https://huggingface.co/Aeala) | `HG` Finetuned Model | `GPU` // `↳Open-Ass 2nd Finetune` | ◕ Ŏ
+[GPT4-x-AlpacaDente2-30b](https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b)  `⇲Alpaca-LoRA-30B-elina` | [Aeala](https://huggingface.co/Aeala) | `HF` Finetuned Model | `GPU` // `↳Open-Ass 2nd Finetune` | ◕ Ŏ
 
 ####GPT4-ALL (LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
@@ -146,44 +146,48 @@ Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Ad
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
 [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna) `⇲LlaMA` | Multiple Universities | Uni. Project | ... | ◕ Ŏ/⌀ Ĩ
-[legacy-ggml-vicuna-13b-4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-13b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ
-[legacy-ggml-vicuna-7b-4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-7b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ
-[ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | [anon8231489123](https://huggingface.co/anon8231489123) | `HG` Refined Dataset | `Dataset: ↳ShareGPT` | ◕ Ŏ
+[LlaVA](https://llava-vl.github.io) | Multiple Uni's, [Microsoft](https://github.com/microsoft) | `GH` Repository | Visual Instruction Tune. | ◕ Ŏ Ĩ $
+[legacy ggml vicuna 13b 4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-13b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ
+[legacy ggml vicuna 7b 4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-7b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ
+[ShareGPT Vicuna unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | [anon8231489123](https://huggingface.co/anon8231489123) | `HF` Refined Dataset | `Dataset: ↳ShareGPT` | ◕ Ŏ
 [Vicuna 13b free](https://huggingface.co/reeducator/vicuna-13b-free) | [Reeducator](https://huggingface.co/reeducator) | `HF` Finetuned & Quant. Models | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // ==GGML Quant. f16, q5_0==, ==GPTQ 4-bit CUDA.== | ◕ Ŏ 🔔
-[LlaVA](https://llava-vl.github.io) | Multiple Uni's, [Microsoft](https://github.com/microsoft) | `GH` Repository | Visual Instruction Tune. | ◕ Ŏ Ĩ $ | 
-[ggml-vicuna-7b-1.1](https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main) | [Eachadea](https://huggingface.co/eachadea) | `HF` Finetuned & Quant. Models | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1== | ◕ Ŏ🔔
-[ggml-vicuna-13b-1.1](https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main) | [Eachadea](https://huggingface.co/eachadea) | `HF` Finetuned & Quant. Models | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== | ◕ Ŏ🔔
-[Vicuna-13b-cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail) | [Reeducator](https://huggingface.co/reeducator) | Finetuned & Quant. Models | `Datasets: ↳ShareGPT_Vicuna_unfiltered, ↳bluemoon_roleplay_300k_vicuna, ↳GPTeacher-Vicuna ` // ==GGML Quant. 5_0, 8_0==, ==GPTQ 4-bit CUDA== | ◕ Ŏ🔔
+[ggml vicuna 7b 1.1](https://huggingface.co/eachadea/ggml-vicuna-7b-1.1/tree/main) | [Eachadea](https://huggingface.co/eachadea) | `HF` Finetuned & Quant. Models | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1== | ◕ Ŏ🔔
+[ggml vicuna 13b 1.1](https://huggingface.co/eachadea/ggml-vicuna-13b-1.1/tree/main) | [Eachadea](https://huggingface.co/eachadea) | `HF` Finetuned & Quant. Models | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== | ◕ Ŏ🔔
+[Vicuna 13b cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail) | [Reeducator](https://huggingface.co/reeducator) | `HF` Finetuned & Quant. Models | `Datasets: ↳ShareGPT_Vicuna_unfiltered, ↳bluemoon_roleplay_300k_vicuna, ↳GPTeacher-Vicuna ` // ==GGML Quant. 5_0, 8_0==, ==GPTQ 4-bit CUDA== | ◕ Ŏ🔔
+[VicUnlocked alpaca 30b 4bit](https://huggingface.co/Aeala/VicUnlocked-alpaca-30b-4bit) | [Aeala](https://huggingface.co/Aeala) | `HF` Finetuned & Quant. Models | `Dataset: cleaned ↳ShareGPT` // `Alpaca format` // ==GPTQ 4-bit CUDA== | ◕ Ŏ
+[VicUnlocked alpaca half 30b LoRA](https://huggingface.co/Aeala/VicUnlocked-alpaca-half-30b-LoRA)  | [Aeala](https://huggingface.co/Aeala) |  `HF` LoRA Instruct-tune | `Dataset: ↳ShareGPT_Vicuna_unfiltered` // `Benchmarks: ↳Wikitext2, ↳c4-new, ↳ptb-new` // `⇲VicUnlocked alpaca half 30b LoRA`| ◕ Ŏ
+[VicUnlocked alpaca 30b](https://huggingface.co/Aeala/VicUnlocked-alpaca-30b)  | [Aeala](https://huggingface.co/Aeala) |  `HF` Finetuned Model | `GPU` // `↳PyTorch` // `Dataset: cleaned ↳ShareGPT` // `Merge: ⇲VicUnlocked alpaca half 30b LoRA`| ◕ Ŏ
+[VicUnLocked 30b LoRA](https://huggingface.co/Neko-Institute-of-Science/VicUnLocked-30b-LoRA) | [Neko Institute of Science](huggingface.co/Neko-Institute-of-Science) | `HF` LoRA Instruct-tune | `Convert tool: ↳vicuna_to_alpaca` | ◕ Ŏ
+
 
 ####Opan Assistant (Oasst-LlaMA) Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-Oasst LlaMA 13B ==q4== | CPU | GGML | [Black-Engineer](https://huggingface.co/Black-Engineer) | ◕ Ŏ | https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
-Oasst LlaMA 33b ==q5_0== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_0/tree/main
-Oasst LlaMA 33b ==q5_1== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/oasst-sft-6-llama-33b-ggml-q5_1/tree/main
-Oasst-sft-6-llama-30b ==xor== | N.A | Fine-Tune (XOR) | [OpenAssistant](https://huggingface.co/OpenAssistant) | ◕ Ŏ | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[Oasst LlaMA 13B](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4) | [Black-Engineer](https://huggingface.co/Black-Engineer) | CPU | ==GGML(OLD) Quant. 4_0== | ◕ Ŏ 
+[Oasst-sft-6-llama-30b](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) | [OpenAssistant](https://huggingface.co/OpenAssistant) | Weights | ==xor== | ◕ Ŏ
 
 ####WizardLM (LlaMA) Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-WizardLM | N.A | `↳LlaMA 7B` | [nlpxucan](https://github.com/nlpxucan) | ◕ Ŏ | https://github.com/nlpxucan/WizardLM
-WizardLM-7B | CPU | GGML | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ | https://huggingface.co/TheBloke/wizardLM-7B-GGML/tree/main
-WizardLM-7B Uncensored | GPU | `↳WizardLM alpaca evol instruct 70k unfiltered` | [Ehartford](https://huggingface.co/ehartford) | ◕ Ŏ ✅| https://huggingface.co/ehartford/WizardLM-7B-Uncensored
-WizardLM-7B Uncensored GPTQ | GPU | GPTQ | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ ✅| https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ
-WizardLM-7B Uncensored GGML | CPU | GGML | [TheBloke](https://huggingface.co/TheBloke) | ◕ Ŏ ✅| https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML
-WizardLM alpaca evol instruct 70k unfiltered | N.A | dataset | [Ehartford](https://huggingface.co/ehartford) | ◕ Ŏ | [WizardLM_alpaca_evol_instruct_70k_unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered)
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[WizardLM](https://github.com/nlpxucan/WizardLM) | [nlpxucan](https://github.com/nlpxucan) | `GH` Repository | Trained model w/ full evolved instructions // `↳LlaMA 7B` | ◕ Ŏ
+[WizardLM-7B](https://huggingface.co/TheBloke/wizardLM-7B-GGML) | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | Merging of delta weights w/ original Llama7B model // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== |  ◕ Ŏ 🔔
+[WizardLM alpaca evol instruct 70k unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered) | [Ehartford](https://huggingface.co/ehartford) | `HF` Refined Dataset | "...WizardLM dataset victor123/evol_instruct_70k, removing instances of blatant alignment..." | ◕ Ŏ
+[WizardLM alpaca claude evol inst. 70k](https://huggingface.co/datasets/Norquinal/WizardLM_alpaca_claude_evol_instruct_70k) | [Norquinal](https://huggingface.co/Norquinal) | `HF` Refined Dataset | `Dataset: ↳Claude` // `Instruction: ↳WizardLM ` | ◕ Ŏ
+[WizardLM-7B Uncensored](https://huggingface.co/ehartford/WizardLM-7B-Uncensored) | [Ehartford](https://huggingface.co/ehartford) | `HF` Finetuned Model | `GPU` // `↳PyTorch` // `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` | ◕ Ŏ ✅
+[WizardLM-7B Uncensored GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) `⇲WizardLM-7B Uncensored` | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` // ==GPTQ 4-bit CUDA== | ◕ Ŏ ✅
+[WizardLM-7B Uncensored GGML](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== | ◕ Ŏ ✅🔔
 
 ####SuperCOT (LlaMA) Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-llama-13b-supercot ==q5_1== ==sft6== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1/tree/main
-llama-33b-supercot ==q5_1== ==sft6== | CPU | GGML | [Camelids](https://huggingface.co/camelids) | ◕ Ŏ | https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1/tree/main
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[llama-13b-supercot-ggml-q5_1](https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1) | [Camelids](https://huggingface.co/camelids) | `HF` Finetuned & Quant. Models |  ==GGML Quant. q5_1== | ◕ Ŏ🔔
+[llama-33b-supercot-ggml-q5_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1) | [Camelids](https://huggingface.co/camelids) | `HF` Finetuned & Quant. Models |  ==GGML Quant. q5_1== | ◕ Ŏ🔔
 
 ####BluemoonRP (LlaMA) Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-Bluemoonrp-13b | GPU & CPU | GGML & GPTQ | [Reeducator](https://huggingface.co/reeducator) | ◕ Ŏ | https://huggingface.co/reeducator/bluemoonrp-13b
-~~Bluemoon_RP_300k `↳Vicuna`~~ | ~~N.A~~ | ~~Dataset~~ | ~~[Gozfarb](https://huggingface.co/gozfarb)~~ | ~~◕ Ŏ~~ | ~~https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna~~
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[Bluemoonrp-13b](https://huggingface.co/reeducator/bluemoonrp-13b) | [Reeducator](https://huggingface.co/reeducator) | `HF` Finetuned & Quant. Models | `Dataset: ↳bluemoon_roleplay_300k_vicuna` // ==GGML Quant. q5_0== ==GPTQ Quant. Safetensors== | ◕ Ŏ 🔔
+[~~Bluemoon_RP_300k ~~](https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna) | ~~[Gozfarb](https://huggingface.co/gozfarb)~~ | Pruned RP Dataset | `↳Vicuna` | ~~◕ Ŏ~~
 
 ####Plugins & Other Projects for LlaMA models:
 Project/Dataset Name: (Hyperlinked) | Info/Type: | User(s) / Org. | Tags: | Resource Links:

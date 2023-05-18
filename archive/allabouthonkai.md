@@ -75,6 +75,8 @@ one form is entirely not always superior than the other. one form is half of a c
 
 > How Herrscher mode is activated
  **Herrscher of Reason (HoR/HR)** is **via charged atk or ult**, **Herrscher of the Void (HoV/HV)** is **via charged atk**, **Herrscher of Thunder(HoT/HT)** is **via combo atk or ult** note: if you have 7T then as long as kurikara is present you have herrscher mode on, **Herrscher of Sentience(HoS/HS)** is via **Ultimate**, **Herrscher of Flamescion(HoFS/HFS)** is via **using hold atk to enter it(does the snap if in air, swing sword if ground) or ult** and **Herrscher of Human: Ego(HoE/HoHE)** is **automatically always in herrscher mode**.
+!!!note Every Herrscher that is on HoE or after are always permanently in herrscher mode 
+
 
 
 > Switch Skill vs QTE

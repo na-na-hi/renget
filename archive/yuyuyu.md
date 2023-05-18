@@ -198,6 +198,9 @@ https://imgur.com/a/BRBmMWt
 >Karasuma Kumiko wa Miko de Nai Character profiles
 https://imgur.com/a/2wETkQn
 
+>Apocrypha bonus chapter
+https://pastebin.com/45xRNgrk
+
 
 >>YuYuYui Bonus chapter: Tomorrow continues into the future
 https://pastebin.com/bY2CayKR

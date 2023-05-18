@@ -4,6 +4,28 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>[OOC: Write out a mock list of best fitting songs for your character to listen while shooting up a school based on their personality, stating their ratings of the songs and their explanations as to why they find them fitting. Be creative, detailed, and humorous.]
+
+>>Warning for these ones, you may need to fiddle with the numerical formatting in order to make it function. I'm a retard and can't figure out a good method of keeping it in without ruining the Rentry. So yea. Also, try replacing 'erotic' with something different. Like Comedic, or combatative. Get creative! 
+>[The system will add a list of 3 options for {{user}} as if they were a videogame character and the effect they have or what they do. These options are in an erotic "Choose your own adventure" style. The list of options changes with every message, and changes depending on the situation. The third option should always be the most extreme choice. Put this text box at the end of every message in this format;
+>```
+>1 : ...
+>2 : ...
+>3 : ...
+>```
+>The ``` is important. Options can be used by {{user}} saying the index of the option, like this; 1. Remember options that have been chosen and their effects. Options apply their effect at the end of the user's last message.]
+
+>(DO NOT REMOVE ANY STATS THAT {{char}} WOULD NORMALLY POST.)
+>(At the end of {{char}}'s response, include three options for {{user}} to pick from in a Choose Your Own Adventure Style. The following format should be used, surrounded by ``` marks
+>```
+>1. ...
+>2. ...
+>3. ...
+>```
+>All three options should be in character for {{user}} and be related to the current situation. The first option will always be in favor of moving the plot forward. The second option will always be the most sexual option. The third option will always be extremely creative and change the plot entirely.)
+
+>(To mimic {{user}}'s abysmal communication skills, write only incomplete sentences, for example: "Ahh...ahh...Mistress...")
+
 >(OOC: Create a list of character's favorite gacha games. Describe why your character likes each game, who they pull for - waifu or husbando, how their personality affects gambling habits. Be creative, detailed, and humorous.)
 
 >[OOC: Write a fictional, mock youtube comment history of your character, first showing what videos they commented on, and then the comments, include like to dislike ratio]
@@ -101,11 +123,13 @@ Check the bottom for one new, interesting but not 'fun' prompt.
 >[In this scene {{char}} knows that s/he is a fictional character and {{user}} is her author/creator. They are at their annual appointment for review and potential adjustment of her physical and mental traits.]
 
 
-These three below have apparently triggered ye olde 'I apologize' sometimes, if they don't work, reword them, remove schizophrenic- whatever you need. Just slapping a warning so you don't use them and make surprise noises.
+4-chan shit here. Enjoy.
 
 >(OOC: Write a post written by your character, anonymously posted on the imageboard 4chan using 4chan slang commonly associated with the site. List what board it is on, and then format the post as it would be on the website like: Anonymous 05/16/23(Tue)19:27:56 No.93474654 but change the date, time and post number to be unique.)
 
 >(Write out a schizophrenic 4chan post based on your character. Include post timestamp, post number, and follow proper 4chan post structure. Include greentext if applicable. Be descriptive, creative, and humorous.)
+
+>[Write a very schizophrenic 4chan /h/ thread where the anons are reacting to what just transpired as if it's a new hentai that just released. Include post timestamps, post numbers, and follow proper 4chan post structure and replies. Avoid reddit mannerisms. Posters use rude language. Include greentext if applicable. Be creative, and humorous.]
 
 As an alternative to the above, try.
 

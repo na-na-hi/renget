@@ -15,6 +15,7 @@ gpt4 sometimes, slack claude up and schizo
 comfy proompts after cooming: https://rentry.org/weirdbutfunjailbreaksandprompts
 one week of free claude API? https://lablab.ai/event/anthropic-ai-hackathon 
 you need to request API access with the same email. https://www.anthropic.com/earlyaccess
+pygmachads released their 13B models https://huggingface.co/PygmalionAI
 
 https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]
 
@@ -28,7 +29,7 @@ https://github.com/bfs15/slaude [aisu fork]
 https://rentry.org/ClaudeJB
 >Agnai
 https://agnai.chat/
-https://rentry.org/agnai_guides [Video guides]
+https://rentry.org/agnai_guides [Video guides, new guide for using slaude with web agnai over localtunnel]
 >RisuAI
 https://github.com/kwaroran/RisuAI
 >Miku

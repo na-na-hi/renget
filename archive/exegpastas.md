@@ -22,6 +22,7 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *SCREAM FOR IT*|Mario Party 8|[(link)](https://rentry.org/SCREAMFORIT)
 *Super Mario Brothers 3: The Encore*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3encore)
 *Kirby's Anomaly* (WIP)|Kirby's Adventure|[(link)](https://rentry.org/KirbysAnomaly)
+*Mario Paint Time Capsule*|Mario Paint|[(link)](https://rentry.org/mptc)
 
 ##.exe pastas
 Title|Link
