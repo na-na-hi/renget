@@ -3,7 +3,6 @@
 
 ->==These are baseline settings and can be tweaked depending on whatever LoRA you want to make. I personally find these settings useful for generating simple characters==<-
 
-My Civit: https://civitai.com/user/LazyTrainer/
 
 5/17/23 - I'm too lazy to fix the broken imgur links, if you want pretty pictures, use https://civitai.com/models/62125/lora-lazy-training-guide
 

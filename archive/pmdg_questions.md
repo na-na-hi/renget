@@ -1,5 +1,6 @@
 ##Question ideas for /pmdg/
 
+>Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
 >Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
 >If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
 >Is it common to travel across the world to different continents, or do most Pokemon stay on their home continent for their whole lives?
@@ -11,10 +12,9 @@
 >Do you think Pokemon in the PMD world use weapons like swords or bows, or just rely on their moves and items?
 >What meat-related foods would you miss the most if you became an herbivorous Pokemon?
 >What plant-related foods would you miss the most if you became a carnivorous Pokemon?
->Pokemon come in many sizes. What scale do they use for buildings and other structures? Do they scale the buildings to smaller Pokemon (which are more common), with the downside being that big Pokemon can't fit? Or do they make oversized buildings to try and accomodate all Pokemon?
->Do Ice-types enjoy cold food? Do they ever get brainfreeze?
+>Pokemon come in many sizes. What scale do they use for buildings and other structures? Do they scale the buildings to smaller Pokemon (which are more common), with the downside being that big Pokemon can't fit? Or do they make oversized buildings to try and accommodate all Pokemon?
+>Do Ice-types enjoy cold food? Do they ever get brain freeze?
 >Do Fire-types enjoy spicy food? Do they have a higher tolerance for it?
->If you became a carnivorous Pokemon, would you eat meat that came from your own species?
 >Do you think most towns have their own school, like Serene Village does? Are there any full-on universities for advanced studies, or just basic schoolhouses that teach the basics?
 >For "interior" mystery dungeons, like caves, are they pitch-black or are they naturally lit up somehow? If they're lit up on their own, where does the light come from?
 >How would native Pokemon react if you told them their whole world was just a video game? And would you choose to tell them that in the first place, or keep it a secret?
@@ -24,6 +24,21 @@
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+>Have you used the touchpad feature in pmd, like you touch on a specific tile to move the character instead of using the D-pad?
+>What's the worst aspect of pmd for you, in terms of gameplay only.
+>Do you think the pokemon world has the same 365 days, 24 hours a day like the real world or is it something completely different?
+>Do Ice-type Pokemon feel cold to the touch? And do they get chilly in cold weather or are they immune to low temperatures?
+
+>What creative things could you do with items that isn't their intended use (game mechanics wise)? Like that one time Groovyle used Luminous orb to blind the enemy.
+>Which dungeon trap do you hate the most and why?
+>Kecleon will buy certain items from you at high price (i.e Golden Ribbon = 2000 Poke), what do you think he uses those for?
+>Your partner got captured by the enemy and the only way to save them is to obey what the enemy says. Would you do it?
+
+>According to legend, that artifact you've found is cursed. Would you still dare to touch it?
+>Have you hummed to a pmd soundtrack? If so, have you been caught doing it?
+>First game is about Rescue, Second game is about Explorers and so on. What would the theme be for pmd5?
+>Have the characters in these games made you like that pokemon?
 
 >What crimes do you think the outlaw has committed to be wanted? (in a plausible sense in terms of the games)
 >Have you expected the twist that Grovyle is the good guy or did you get caught off guard?

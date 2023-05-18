@@ -14,17 +14,6 @@ Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal 
 - To be determined.
 ## Danmaku Expansion
 - https://gitgud.io/Pedy/pedy-tw/-/issues/3
-## Dating Expansion
-An expansion of the functionality of the dating system, such as visiting an izakaya, going out for karaoke, and other distinct dating locations based on map, which might allow the player to train other stats while on dates and minimize the sameness of dating.
-For example:
-- [Go to an Izakaya] could be an expensive alternative of [Eat Together] since it involves alcoholic drinks and there’s just more things you can do with alcohol involved. Potential features include:
-	- A main drinking mini game where you two compete in some sort of game; the losing side drinks a round.
-	- Drunken conversation.
-	- A “Mood” meter that gives a boost to everything you do during the entire scene.
-	- If someone passes out from drinking the entire scene is over (the date should still go on so drunk rape can happen), which forces the player to engage in resource management.
-- [Engage in Karaoke!] should not penalize either of you if you have low musical skill because it is merely a fun party activity; however, it should give a boost if either of you do have a high musical skill.
-- [Window Shopping at Kourindou]
-- Event specific ideas such as [View the Fireworks] on New Year’s Day.
 ## Egg Laying Mechanic
 - https://gitgud.io/Pedy/pedy-tw/-/issues/30
 ## Female MC Pregnancy
@@ -43,12 +32,6 @@ For example:
 - To be determined; initial concept by AK Spectre and Eri.
 ## Jealousy Expansion
 - To be determined.
-## LiG Housing System & Carpentry Skill
-In response to requests for the MC to be able to make their own furniture, in order to bypass paying for a commission at the Human Village, I believe it would be best represented by a skill.
-- This skill could theoretically tie into being able to build your own house.
-- The specifics have yet to be determined; concerns about balancing issues have been raised.
-
-Alternatively, porting over the LiG housing system as a money sink may be a more viable option, with the carpentry skill being used for minor things.
 ## Map for Makai
 - Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
 ## Milking Improvements
@@ -66,3 +49,30 @@ Alternatively, porting over the LiG housing system as a money sink may be a more
 - This issue will serve as a non-exhaustive list of sex acts to be added to TW as commands specific to character and species. Facesitting, gap shenanigans with Yukari, tailjobs, and wingjobs are among the examples which have been requested.
 ## Tanuki Loans via Mamizou
 - A feature that allows the player to request a loan from Mamizou, with the risk of losing reputation if they do not repay it in a timely manner.
+## “Teach Me How to Please You”
+- Suggestion. Not for use by neodev/pedytw.
+Haremettes should give you a request that makes one teach the other how to best please you with a selected sex technique. Basically the existing "have
+sex with me" but more like "have sex with her while I watch and take notes".
+And with 2(or more) 2hus, obviously.
+Requires love, or sex friends level with both. Vaginal sex won't be possible if the teacher is a virgin. Anal too. And both if the player is a virgin(there are better events with existing dialogue for losing virginities). Student's virginity is alright, I'm imagining it as an event where the student just watches you have actual sex, at most practicing sucking or jerking you off under the teacher's watchful eye.
+The higher [2hu A]'s level in any of the techniques is, the better teacher she is to [2hu B]. Ex tiers would be able to get an E rank straight to C, for example. Your own technique level should also matter, but say at a 50% reduction. It should be a random technique roll with a strong preference for vaginal if [2hu B] has it at really low levels. The entire request should be initiated by [2hu B], with a suggested teacher, who you might be able to swap out for someone else(so you can have your main girl teaching every time instead of a randomly selected one). You bring her and [2hu A] to your or her bedroom and you execute the request there. Or, for when you will be able to have group dates, in love hotels or bedrooms outside of your home area too.
+Like imagine, Seija getting tips from Shinmyoumaru on how to take your massive dong and remain conscious. Tsukasa teaching Reimu proper handjobs, while doing that funny fox hand gesture with her free hand. Remilia sipping wine and carefully watching what to do while Meiling is showing off proper boobjob tech and Sakuya is calmly sucking nut after nut after nut outta you and staring you in the eyes. Embarrassed Yuuka holding Wriggle on top of herself while you fuck the bug and she explains how she rhythmically tightens the kegel muscles in the way that makes you cum the fastest and that wrapping her legs around you makes you lose your mind. Youmu slowly stretching her virgin butthole with her fingers according to Ran's stuttering advice as you pound her. Kaguya drooling and masturbating like a madwoman neglecting any advice while Mokou(or anyone else) is riding you. It can even be done with the planned tailjobs and wingjobs, where say, Okuu would teach Aya what to do not to break her wings.
+It should help with the technique grind. It's not like it's usually a problem to get the girl to agree to sex at the point when she loves you, but it's kinda sucky to have a harem newcomer who's pretty much unable to have sex and please you the first couple of times. I guess you could also adapt it to nonlewd requests, like learning to cook with a team of chefs behind the newcomer.
+# Suggestions Ported Over to Git
+## Dating Expansion
+An expansion of the functionality of the dating system, such as visiting an izakaya, going out for karaoke, and other distinct dating locations based on map, which might allow the player to train other stats while on dates and minimize the sameness of dating.
+For example:
+- [Go to an Izakaya] could be an expensive alternative of [Eat Together] since it involves alcoholic drinks and there’s just more things you can do with alcohol involved. Potential features include:
+	- A main drinking mini game where you two compete in some sort of game; the losing side drinks a round.
+	- Drunken conversation.
+	- A “Mood” meter that gives a boost to everything you do during the entire scene.
+	- If someone passes out from drinking the entire scene is over (the date should still go on so drunk rape can happen), which forces the player to engage in resource management.
+- [Engage in Karaoke!] should not penalize either of you if you have low musical skill because it is merely a fun party activity; however, it should give a boost if either of you do have a high musical skill.
+- [Window Shopping at Kourindou]
+- Event specific ideas such as [View the Fireworks] on New Year’s Day.
+## LiG Housing System & Carpentry Skill
+In response to requests for the MC to be able to make their own furniture, in order to bypass paying for a commission at the Human Village, I believe it would be best represented by a skill.
+- This skill could theoretically tie into being able to build your own house.
+- The specifics have yet to be determined; concerns about balancing issues have been raised.
+
+Alternatively, porting over the LiG housing system as a money sink may be a more viable option, with the carpentry skill being used for minor things.

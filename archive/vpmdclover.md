@@ -67,8 +67,9 @@ Clara | F | Lucario | Smoke (Human, M, shares body with Clara)||[Docile](https:/
 
 !!!Note General Info
      Surrounding the titular "Clover Guild", made up of /pmdg/ anons isekaied to a PMD world and their native partners.
-     Established by Guildmaster Meowstic, who has incredible psychic powers that can hunt down humons due to differences in aura.
-     Guild is generally established "in a forest near a lake", on the Grass Continent in Capim Town. Guild building might be inside a tree. Other aspects are still undefined.
+     Established by Guildmaster Meowstic, who has incredible psychic powers that can hunt down humons due to differences in aura (probably?).
+     Guild is generally established "in a forest near a lake", on the Grass Continent in Capim Town. Guild building is inside a tree. There's a map of it! This info blurb is woefully outdated!
+	Everyone has pillows and blankets (that aren't made of hay) standard-issue thanks to the efforts of Chespin and Wooper. Due to being made from leaves, they're dark green in coloration.
 
 ###Writing
 ####Story Timeline
@@ -96,7 +97,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 18 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
 19 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz)| | [A New World](https://rentry.org/sm6dx) | | |
 20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
-21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | | | |
+21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)| | |
 22 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq)| | | | |
 23 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | | | | |
 24 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)| | | | |
@@ -128,7 +129,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
 51 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
 52 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
-53 | | | | | |
+53 |[Ross Sleeps...?](https://rentry.org/opi29) | | | | |
 54 | | | | | |
 55 | | | | | |
 56 | | | | | |
@@ -248,11 +249,11 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
-	* [Ross Sleeps...?](https://rentry.org/opi29) *Not on Table*
+	* [Ross Sleeps...?](https://rentry.org/opi29) 
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Sentret the Sentret
-	* [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs) *Not on Table*
+	* [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
 * Smith the Skorupi
 	* [Wanderer (ft. Smith)](https://rentry.org/cxhk8)
     * [Smith's Personality Blurb](https://rentry.org/hap2d)

@@ -1,5 +1,8 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
+[Espathra] https://arch.b4k.co/vp/thread/53747197/#53760925
+[Spinda] https://rentry.org/be48q
+[Hypno] https://archiveofourown.org/works/46530355
 [Glaceon Alpha] https://desuarchive.org/trash/thread/55218379/#55268245
 [WIP?][Sneasler] https://desuarchive.org/trash/thread/54993156/#55095120
 [Dustox] https://www.fanfiction.net/s/11154009/125/The-Life-of-PokeSexuals

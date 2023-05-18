@@ -7,12 +7,13 @@
 
 Bot | Creator | Desc | Demo
 :-:| - | - |
-![](https://files.catbox.moe/6o3c5j.png)[**Babysitting a brat**](https://files.catbox.moe/9jsc8r.rar) | [Sull](https://desuarchive.org/g/thread/93278860/#93278995) | The Babysitting a Brat expression pack. just drag to character folder and put the "Emily" folder in there. first version, will make a more upscaled one soon as well as the nude version. | https://files.catbox.moe/be7azb.png
+![](https://files.catbox.moe/6o3c5j.png) [**Babysitting a brat**](https://files.catbox.moe/9jsc8r.rar) | [Sull](https://desuarchive.org/g/thread/93278860/#93278995) | The Babysitting a Brat expression pack. just drag to character folder and put the "Emily" folder in there. first version, will make a more upscaled one soon as well as the nude version. | https://files.catbox.moe/be7azb.png
 https://www.characterhub.org/characters/horcocks/uss-galaxy - [**USS Galaxy**](https://files.catbox.moe/fx1i7e.rar) | [horcocks](https://desuarchive.org/g/thread/93288242/#93289674) | Be sure to use the 28-expression logic. It's a little emotive for a Vulcan, but honestly if you wanted lore accurate just don't install it. | https://files.catbox.moe/v6aonw.png
 ![](https://files.catbox.moe/9xjpwy.png) https://rentry.org/11Bots | [11Bots](https://desuarchive.org/g/thread/93278860/#93280525) | Mostly based on my Koikatsu characters. | https://files.catbox.moe/6wwgh3.png
 ![](https://files.catbox.moe/zxlwf9.png) https://rentry.org/Color-emotion | [컬러노트 ColorNote](https://desuarchive.org/g/thread/93464876#93467991) | 이곳은 개인 감정봇, 일반봇 제작 저장소 입니다. Static and animated. | https://files.catbox.moe/lsraw5.jpg
 ![](https://files.catbox.moe/rpui42.png) [**Seraphina**](https://files.catbox.moe/xgw02w.zip) | [또르 Ddo-Reu](https://desuarchive.org/g/thread/93478394#93479837) | a cold but warm-hearted banshee girl | https://files.catbox.moe/6itbus.png
 ![](https://files.catbox.moe/8xsbmf.png) https://rentry.org/Ddo-Reu | [또르 Ddo-Reu](https://desuarchive.org/g/thread/93478394#93479837) | The images were all created using stable-diffusion-webui. | https://files.catbox.moe/2r7idn.png
+![](https://files.catbox.moe/vj9caf.png) [**Kazumi_Oma**](https://files.catbox.moe/ruz8tf.rar) | [anonaugus](https://desuarchive.org/g/thread/93491072#93491490) | civitai komatsuzaki-rui-danganronpa-artist-style | https://files.catbox.moe/itmrdb.png
 
 
 

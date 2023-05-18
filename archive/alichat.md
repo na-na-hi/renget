@@ -383,11 +383,11 @@ Blue: <START> is included at the end to act as a seperator between the "Context"
 - Change username to Vesper
 - Click "Impersonate" or create your own first message. In this case, I created my first message, then pressed enter.
 ![image](https://user-images.githubusercontent.com/86847834/234211927-cdcc29e7-552f-4aeb-8196-324af3c2a0c8.png)
-- I want the AI to continue, so I press the quill button (I do **not** want the AI to add a `/n` as that would ruin the continuation.)
+- I want the AI to continue, so I press the quill button (or Regenerate, swipe, or generate on an empty prompt)
 ![image](https://user-images.githubusercontent.com/86847834/234212976-f9b64e1a-b17d-451f-a61e-32ad3ffaa910.png)
 - I don't like this response, since it didn't continue from where Balor left off, so I:
 	- Delete the message
-	- Click the quill button (Regenerate, swipe, and generate will add a `/n` so the only option is to delete the message first and then click the quill button)
+	- Click the quill button
 - I didn't like any of the regenerations, so I updated it to the following:
 ![image](https://user-images.githubusercontent.com/86847834/234217003-37c6ac2b-43cb-457b-b3a0-24e84695e10c.png)
 - Click the quill to continue after "Firstly,"
@@ -399,7 +399,7 @@ Blue: <START> is included at the end to act as a seperator between the "Context"
 - Wanting to change scenes there are the following options:
 	1. Write the message from Narrator
 	2. Write the message from Vesper
-	3. Write the message using like `/system`
+	3. Write the message using like `/sys`
 	4. Edit the previous comment and append the scene change, then click the quill to continue.
 - Since messages with Narrator or Vesper are unideal, if it's prepended by a `Narrator: [ Scene:` or `Vesper: [ Scene:`, then we will choose option `iv`
 - I'm not sure what to do with Sansa and Nala, so I leave it very open ended. In this scene, I will play Nala, so I change my name.

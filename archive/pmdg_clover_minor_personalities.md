@@ -8,7 +8,7 @@
 >Alakazam is the President of the Explorers Team Federation and oversees the operations of all the Explorers Guilds across the world. He has a deep hatred for humans and will belittle them at every oppertunity he gets. HIs true strength is unknown.
 
 ####Chatot
->(Phanpy-anon will write this summary)
+>Chatot from the Explorers PMD games. Bears a grudge against the Clover Guild and Phanpy's team in particular for the destruction of Apple Woods
 
 ####Crabrawler
 >A boisterious barkeep who runs the popular Blue Claw Inn. He used to be a skilled fighter before settling down in Capim to open his business. He does not tolerate troublemakers in his establishment, and will happily throw them out himself if he needs to. He speaks with a distinctive foreign accent and slang.

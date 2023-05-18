@@ -5,10 +5,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-18-2023] - Added VicUnlocked-30B
 [05-16-2023] - Removed old CPU quantizations and started adding re-quantized models, added Wizard Mega
 [05-10-2023] - Added WizardLM 13B Uncensored
 [05-07-2023] - Added Vicuna 13B Cocktail, bluemoonrp-13b & AlpacaDente2
-[05-05-2023] - Added CPU quantization variation links
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -37,9 +37,9 @@ Model | 4-bit | 5-bit | 8-bit
 
 	Instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
 
-	Filtering occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
+	**Filtering** occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
 
-	Bias is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
+	**Bias** is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
 
 	This also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
 
@@ -81,6 +81,23 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 # Models/Finetunes/LoRA's
+
+
+## VicUnLocked 30B
+!!! info
+
+	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed. There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+LoRA | LoRA | [HF Link](https://huggingface.co/Neko-Institute-of-Science/VicUnLocked-30b-LoRA)
+30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GGML)
+30B | GPU | [Q4 CUDA](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ)
+
+
 
 ## Wizard Mega 13B (05/16/2023)
 !!! info

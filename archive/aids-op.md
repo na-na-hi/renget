@@ -1,9 +1,10 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/4n93uf.png)
-Definatlee Edition
+![suggested OP image](https://files.catbox.moe/8zjay0.webm)
+https://files.catbox.moe/8zjay0.webm
+Bated Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>429962651
+Last thread: >>430106363
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +32,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
-(05/11) Big noose soon >>429473860 >>429443235
-(05/10) Colabchads, it's over [spoiler]maybe[/spoiler] >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
+\>(05/17) NAI announces announcements https://blog.novelai.net/text-model-progress-is-going-good-82a94855445e
+(05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
+(05/10) Colabchads, it's over? >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
 (05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
-(05/02) Todd/Slaude Tavern guide (use at your own risk https://i.imgur.com/gT7b4W1.jpg): https://rentry.org/aids-tavern
+(05/02) Slaude Tavern guide (use at own risk https://i.imgur.com/gT7b4W1.jpg) https://rentry.org/aids-tavern
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Retarded Klutz Friday is over, theme suggestions for next week are being taken! >>430093774
+\>Theme suggestions for next week are being voted on! https://youpoll.me/101951
 
 
 ##Perma-Template

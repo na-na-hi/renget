@@ -42,6 +42,10 @@ Logs and feedback are always welcome.
 ![Jade](https://files.catbox.moe/ksgrzy.png)
 *Money hungry casino bunny*
 (tavern card) - https://files.catbox.moe/cwcczb.png
+####Orochi
+![Orochi](https://files.catbox.moe/d945zp.png)
+*Mysterious serpentine beauty*
+(tavern card) - https://files.catbox.moe/52ht2m.png
 
 ##Revamped Monster Girl bots
 

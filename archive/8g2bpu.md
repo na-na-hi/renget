@@ -1,10 +1,7 @@
-**Please put newer scene ideas to draw at the top of the list**
-
-Togetic wearing custom-made Team Cozy merchandise to show he's their #1 fan
+**Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
+Lliam shipping guildmembers 
 
 Chespin and Wooper cuddling in bed (no homo)
-
-Gus wearing a comically large cowboy hat
 
 Chespin having a quickdraw showdown with Charm. Wooper is Chespin's 'gun' in this case.
 
@@ -16,8 +13,6 @@ Hell's Kitchen, with Beast as Gordon Ramsey and guild mons as contestants
 
 cyndaquil has trapped booker in a jar 
 
-~~ross not being able to sleep~~
-
 ross sleepwalking
 
 anon-mons reenacting Buried Alive with Alakazam https://www.youtube.com/watch?v=N5TWbeav7hI
@@ -28,25 +23,15 @@ A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
 
  One of the guild members with Jojo stats (https://d.furaffinity.net/art/bittenhard/1585922600/1585922600.bittenhard_standretsucol02.jpg)
 
-~~A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png~~
-
-~~Togetic ranting at Ross about his paint trails in the storeroom~~
-
 Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
 and/or
 Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm
 
 redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg
 
-~~Chespin and Sneasel doing a "high shovel" like in Tails Gets Trolled~~
-
 lliam doing gendo pose when facing phanpys team
 
 Debby and Kaz (Solid Linoone) on a date
-
-~~Loss~~
-
-~~The Troll Slaiyers but with Guildmons (ref at the bottom: http://www.tailsgetstrolled.com/wp-content/uploads/2011/12/trolls_attack_8_by_tailsgetstrolled1-d5hwjh6-449x1024.jpeg~~
 
 Sonichu Issue #0 Cover but with Guildmembers
 
@@ -56,15 +41,9 @@ A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to
 
 A group of three or more having a swimming competition 
 
-~~Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers~~
-
-Any anon-mons babysitting a baby-mon (job requests tend to get weird)
-
 Guild members reading books on the library (add clover stories as titles on the book if possible?)
 
 Anon-mons going fishing at the river (is this alright?)
-
-Nick and Kiyo meeting, idk insert clueless members comparing the two
 
 A guild member teaching newbie guild members (w/ whiteboard? idk), about the basics of Mystery Dungeons 
 
@@ -72,19 +51,9 @@ Sneasel or any other mon flying up a kite with booker being strapped onto said k
 
 Kiyo and the others entering the guild for the first time
 
-~~Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance~~
-
 Jimmy decorating the interior of the chest
 
 Chespin holding Wooper like a gun
-
-~~Raboot and KFC doing a spar together~~
-
-~~Gus calmly sitting at the docks~~
-
-~~Beast holding a butcher knife as he witnessed someone eating at the pantry~~
-
-~~Sableye cooking in a cauldron~~
 
 Guild members (artist's choice) playing in the rain [claimed/claiming this one but i think other people doing it would be fun also if you wanna do it too]
 
@@ -96,25 +65,9 @@ A group of members (artist's choice) riding on Percival as they soar through the
 
 Booker learning to fly
 
-~~Togetic cleaning the storage room~~
-
-~~Waiting room outside the clinic.  Feat. Artist's choice injured pokemon~~
-
 Percival perched on the guild diligently 
 
-~~A few 2nd wave mons sitting together at a dinner table~~
-
 Chespin lifting Minun with his vines to pick an apple from a tree
-
-~~Phanpy and friends in winter outfits~~
-
-~~Phanpy and friends at the blue claw inn~~
-
-~~Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall~~
-
-~~Alakazam wearing a pointy white sheet over his head~~
-
-~~Chespin holding a large blanket over his head ala Legend of Zelda~~
 
 One or more guild members (artist's choice) wearing (ugly/christmas) sweaters.
 
@@ -122,35 +75,17 @@ A guild member (probably Charm or Kaiji) explaining what 'KFC' actually stands f
 
 Booker and Gus relaxing to some tunes
 
-~~Macom preparing to Charge+Discharge~~
-
-~~Bullet sleeping upside down like a bat~~
-
-~~A group photo of all the guild members (+ other characters on the background) pre Enter the Federation~~
-
 Elm using his shadow sneak shoryuken on a Pelipper
 
 Ronnie screaming at a Kricketot
 
 Cyndaquil getting powdered Blast Seed thrown in his face
 
-~~Cryogonal getting hit by a Solarbeam~~
-
 A scene of the artist's choice from A 'Mon, Gus
-
-~~Guild members stealing Chateaux Cherim from Beast's kitchen~~
 
 (assuming you do comics) A small comic about particularly desperate guild members trying in vain to use the request board as a replacement for 4chan
 
-~~Outlaw Smeargle getting hit by Chespin's Solarbeam~~
-
-~~Artist Anon-mons drawing at a canvas or paper together~~
-
-~~gm in swimsuit pls pls pls pls~~
-
 Ronnie running around the infirmary screaming like an idiot and knocking things over
-
-~~Kaiji accidentally flicking a coin into Kris' eye~~
 
 Guildmembers having dinner together in the dinning hall
 
@@ -170,13 +105,9 @@ Lliam and Macom doing their mental card game
 
 Debby's staring contest with Pelipper
 
-~~Chespin getting drunk~~
-
 Charm and Natu fighting Lowe the Venipede
 
 Nick and Amelia swimming
-
-~~Booker trying to get the map from the top of the bookshelf~~
 
 Gus meeting Booker and Sneasel
 
@@ -186,22 +117,93 @@ Meloetta and Politoed performing on stage
 
 Percival getting racially abused by Tinkaton
 
-~~Wooper testing his "human detector" on Duskull~~
-
-~~Debby and Linoone racing~~
-
 "insert guild member here" arriving at Capim town
-
-~~Ross making puppy eyes to Kecleon and Kaiji~~
-
-~~Booker building a slingshot~~
-
-~~Elm the Duskull screaming "OOGA BOOGA!!!" to Sewaddle~~
-
-~~Beast using Numel as an oven~~
 
 Phanpy's friend, Totodile, showing his trick at The Blue Claw Inn
 
 Togetic catching Wooper getting drunk and covering for him
 
 Carrot and Hazel arriving to the guild
+
+**Finished Requests (Some links pending gallery uploads)**
+~~Togetic wearing custom-made Team Cozy merchandise to show he's their #1 fan~~
+
+~~Gus wearing a comically large cowboy hat~~
+
+~~ross not being able to sleep~~
+
+~~A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png~~
+
+[Togetic ranting at Ross about his paint trails in the storeroom](https://rentry.org/cloverart#ross-loss-of-sleep)
+
+~~Chespin and Sneasel doing a "high shovel" like in Tails Gets Trolled~~
+
+[Loss](https://rentry.org/cloverart#ross-loss-of-sleep)
+
+[The Troll Slaiyers but with Guildmons](https://rentry.org/cloverart#the-troll-slaiyers)
+
+[Any anon-mons babysitting a baby-mon (job requests tend to get weird)](https://rentry.org/cloverart#kaijis-babysitting-service)
+
+~~Nick and Kiyo meeting, idk insert clueless members comparing the two~~
+
+[Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers](https://rentry.org/cloverart#three-strangers-in-a-garden)
+
+[Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance](https://rentry.org/cloverart#a-meeting-on-mt-freeze)
+
+[Raboot and KFC doing a spar together](https://rentry.org/cloverart#kfc-and-casey-sparring)
+
+[Gus calmly sitting at the docks](https://rentry.org/cloverart#gus-on-the-docks)
+
+[Beast holding a butcher knife as he witnessed someone eating at the pantry](https://rentry.org/cloverart#woopstand)
+
+~~Sableye cooking in a cauldron~~
+
+[Togetic cleaning the storage room](https://rentry.org/cloverart#togetic-cleaning-the-storeroom)
+
+[Waiting room outside the clinic.  Feat. Artist's choice injured pokemon](https://rentry.org/cloverart#therapy)
+
+[A few 2nd wave mons sitting together at a dinner table](https://rentry.org/cloverart#dinner-time)
+
+[Phanpy and friends in winter outfits](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
+
+~~Phanpy and friends at the blue claw inn~~
+
+[Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
+
+~~Alakazam wearing a pointy white sheet over his head~~
+
+[Chespin holding a large blanket over his head ala Legend of Zelda](https://rentry.org/cloverart#blanket-get)
+
+[Macom preparing to Charge+Discharge](https://rentry.org/cloverart#macoms-charge)
+
+[Bullet sleeping upside down like a bat](https://rentry.org/cloverart#sleepy-bullet)
+
+[A group photo of all the guild members (+ other characters on the background) pre Enter the Federation](https://rentry.org/cloverart#clover-guild-wave-1)
+
+[Guild members stealing Chateaux Cherim from Beast's kitchen](https://rentry.org/cloverart#woopstand)
+
+[Outlaw Smeargle getting hit by Chespin's Solarbeam](https://rentry.org/cloverart#smerglecha)
+
+[Cryogonal getting hit by a Solarbeam](https://rentry.org/cloverart#sooraa-biimu)
+
+[Artist Anon-mons drawing at a canvas or paper together](https://rentry.org/cloverart#cloverdraw)
+
+[gm in swimsuit pls pls pls pls](https://rentry.org/cloverart#lliam-swimsuit-edition)
+
+[Kaiji accidentally flicking a coin into Kris' eye](https://rentry.org/cloverart#kris-got-a-boo-boo)
+
+[Chespin getting drunk](https://rentry.org/cloverart#team-cozy-drunk-by-linoone-and-kiyo)
+
+[Booker trying to get the map from the top of the bookshelf](https://rentry.org/cloverart#bookers-ultimate-challenge)
+
+[Wooper testing his "human detector" on Duskull](https://rentry.org/cloverart#whats-updog)
+
+[Debby and Linoone racing](https://rentry.org/cloverart#debby-and-linoone-race)
+
+[Ross making puppy eyes to Kecleon and Kaiji](https://rentry.org/cloverart#no-money)
+
+~~Booker building a slingshot~~
+
+[Elm the Duskull screaming "OOGA BOOGA!!!" to Sewaddle](https://rentry.org/cloverart#courage-the-cowardly-sewaddle)
+
+[Beast using Numel as an oven](https://rentry.org/cloverart#beast-an-ordinary-stove)

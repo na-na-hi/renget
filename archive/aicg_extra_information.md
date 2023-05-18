@@ -1,8 +1,9 @@
 # /aicg/ Extra links
 
-[TOC]
+[TOC2]
 ***
-#### Current frontends
+!!! info
+    #### Current frontends
 #####Agnaistic
 https://github.com/luminai-companion/agn-ai
 https://agnai.chat
@@ -32,7 +33,8 @@ https://venusai.chat
 
 ***
 
-#### Bots
+!!! info
+    #### Bots
 ##### Booruplus
 https://booru.plus/+pygmalion
 - updated regularly; cards; oldest and still popular; minimalistic
@@ -45,19 +47,69 @@ https://booru.plus/+pygmalion
 
 ![](https://files.catbox.moe/aheqjx.png)
 
-#####BotPrompts
+***
+##### Other
+**BotPrompts**
 https://botprompts.net
 - This site was updated regularly with new "bots". They're only jsons so you'll have to assemble the cards yourself. The bots are decent enough.
 - now it looks dead
 
 ![](https://files.catbox.moe/d71zj4.png)
 
+**Pygmalion**
+https://mega.nz/folder/FWgxyaLA#1Dxz2IYVibPBSMnM1Rut7Q
+https://drive.google.com/drive/folders/16K7HGgySBNLLlsWJDSJOElpor0_Hq7rj
+- archives with SFW and NSFW bots from Pygmalion discord server up to 18.04.2023
+
+**AI 채팅 채널**
+https://arca.live/w/characterai/bots
+- korean bots are neatly collected and shared here; click on the "SWF" \ "NSFW" in 1.1 and 1.2
+
+**4chan meta list**
+- check out the link at the bottom of this rentry
+
+**Tools**
 https://nolialsea.github.io/Wpp/
 - ancient W++ formatting helper
 
 ***
 
-#### Local models
+!!! info
+    #### Online avatar generators
+##### Nemu's Waifu Generator
+https://waifus.nemusona.com
+- easy to use, user-friendly and completely free; just please don't rape it
+
+ ![](https://files.catbox.moe/lr4e6g.png)
+
+##### Dezgo
+https://dezgo.com
+- easy to use, user-friendly; free tier is quite slow; has additional features
+
+ ![](https://files.catbox.moe/yl4bea.png)
+
+##### Stable Horde
+https://aqualxx.github.io/stable-ui
+- completely free; is quite slow; has additional features; gives precise control
+
+ ![](https://files.catbox.moe/2tcy02.png)
+
+##### PixAI
+https://pixai.art
+- requires to sign up; free tier can be slow; has additional features
+
+ ![](https://files.catbox.moe/sy3kw5.png)
+
+##### HappyAccidents
+https://www.happyaccidents.ai
+- requires to sign up; free tier is limited and very slow; has additional features
+
+ ![](https://files.catbox.moe/mrp4ax.png)
+
+***
+
+!!! info
+    #### Local models
 
 ##### Pygmalion-6B
 https://koboldai.org/cpp [CPU]
@@ -75,7 +127,8 @@ https://github.com/ggerganov/llama.cpp [CPU]
 
 ***
 
-#### Other
+!!! info
+    #### Other
 
 https://rentry.org/waifutext
 - receive texts from your waifu as notifications on Android and more; uses OpenAI
@@ -117,9 +170,11 @@ https://rentry.org/mikugg
 ##### TavernAI
 https://github.com/TavernAI/TavernAI
 - frontend for OAI and Kobold; local install
+
 ***
 ***
 ***
+
 Sister rentries:
 - https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards

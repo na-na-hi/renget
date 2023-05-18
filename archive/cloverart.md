@@ -272,6 +272,8 @@
 ![Lliam's Question](https://i.imgur.com/kt5GdB3.jpg)
 #####Oh Hell Yes!
 ![Oh Hell Yes](https://i.imgur.com/7FbhQr8.png)
+#####I hope people get the reference
+![Chutes n' Ladders](https://i.imgur.com/hdKx1B6.png)
 ####Kaiji's Goods
 #####"I predict that today will be a good day!"
 ![Kris the Schizo Absol](https://i.imgur.com/K4DiwIc.png)
@@ -388,6 +390,10 @@
 ![Lliam the Boy Kisser](https://i.imgur.com/GN46OtH.png)
 #####Lliam Stuck
 ![Lliam Stuck](https://i.imgur.com/8Sjkd4W.png)
+#####Clara meets the guild
+![Clara](https://i.imgur.com/aWHbLDp.png)
+#####Rent free
+![Rent free](https://i.imgur.com/4U7G6Al.png)
 ####Minun's Garden
 #####Gus & Linoone
 ![Gus & Linoone](https://i.imgur.com/OyBLVqs.png)
@@ -416,6 +422,10 @@ EDIT (Original Unknown)
 ![The Inner Machinations of my Mind are an Enigma](https://i.imgur.com/OkNfaCa.png)
 #####At an Interchu
 ![At an Interchu](https://i.imgur.com/exejxwx.png)
+#####OH MAI GAH
+![OH MAI GAH](https://i.imgur.com/jP1mgh8.png)
+#####Small Pika
+![Small Pika](https://i.imgur.com/1HeTnbj.png)
 ####Phanpy's Craft
 #####Cyndaquil
 ![Cyndaquil](https://i.imgur.com/zPuUFyl.png)
@@ -447,10 +457,6 @@ EDIT (Original Unknown)
 ![The Troll Slaiyers](https://i.imgur.com/1oAb5zW.png)
 #####Booker Gets Trolled - Phanpy Edition
 ![Booker Gets Trolled - Phanpy Edition](https://i.imgur.com/22uYzPd.png)
-#####OH MAI GAH
-![OH MAI GAH](https://i.imgur.com/jP1mgh8.png)
-#####Small Pika
-![Small Pika](https://i.imgur.com/1HeTnbj.png)
 ####Ross's "Realism"
 #####Rossus
 ![Rossus](https://i.imgur.com/h9HvoMa.png)
@@ -520,6 +526,8 @@ EDIT (Original Unknown)
 ![We Bare Mons](https://i.imgur.com/JW1XRvR.png)
 #####Skiddo Sweep
 ![Skiddo Sweep](https://i.imgur.com/Rweemxr.png)
+#####...
+![...](https://i.imgur.com/skN0DSt.png)
 ####Smith's Squggles
 #####Monka Skoupi
 ![Monka Skoupi](https://i.imgur.com/HM1LiW8.png)

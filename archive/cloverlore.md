@@ -11,7 +11,8 @@ Quick reference of all important events in timeline order to help writers, along
 A list of unique locations visited by guild members, or canon locations altered by guild members
 #####Capim Town Locations
 ######The Clover Guildhall
-Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi). The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z).
+Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); (green) blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi).
+The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z). It also has a mirror, a substitute plushie with a sewn up butt, and a box with "Reviver Seeds : )" scribbled over the label.
 ######Guildhall Layout
 ![Guildhall by Kiyo and Booker](https://i.imgur.com/ABnbwza.png)
 ######Blue Claw Inn
@@ -107,6 +108,8 @@ Togetic is rescued by Team Cozy
 Intro for Carrot and Hazel, plus personality blurbs
 ######[It Comes in Pairs (Clara) (Intro)](https://rentry.org/cmxrvt)
 Clara and Smoke intro, they meet some guild members on a mission and Smoke realizes that some of them are human.
+######[SENTRET: Sentret the Sentret (Sentret, Sentret) (Sentret) (Intro)](https://pastebin.com/C7G3EsBs)
+Sentret embarks on a quest to find his dead parents
 ####Lore Bins
 List of bins focused entirely on lore
 ######[A Detailed Guide to Aura (KFC)](https://rentry.org/PMD_Aura)
