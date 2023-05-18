@@ -1,5 +1,5 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.14 | Helped Making Waifus Real Since 2023* <-
+->*V 1.15 | Helped Making Waifus Real Since 2023* <-
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
@@ -10,11 +10,11 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/18) VicunaUnlocked-30B released
 \>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
 \>(05/13) llama.cpp GPU acceleration has been merged onto master>>93403996 >>93404319
 \>(05/10) GPU-accelerated token generation >>93334002
-\>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models.
-https://huggingface.co/reeducator/bluemoonrp-13b
+\>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models. https://huggingface.co/reeducator/bluemoonrp-13b
 
 ►**FAQ**
 \>Wiki

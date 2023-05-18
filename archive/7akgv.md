@@ -30,8 +30,9 @@ Amps:
 * Used Yamaha R-S700 (receiver, power section like A-S701, pre-out/main-in, 170€/$150, value champ)
 * Yamaha A-S 300/301/500/501/700 or 701
 * Onkyo A-9130
+* Denon PMA600NE
+* NAD C 316BEE
 * Aiyima A07 (small)
-* Topping PA3s (small)
 * Fosi BT20A Pro (small)
 
 DACs:

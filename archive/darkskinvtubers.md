@@ -112,7 +112,7 @@ Mushi 蟲|[Twitter](https://twitter.com/vtubermushi) [Twitch](https://www.twitch
 Aliciaxlife|[Twitter](https://twitter.com/aliciaxlifeVT) [Youtube](https://www.youtube.com/@Aliciaxlife)|
 weiwiko|[Twitter](https://twitter.com/weiwiko) [Twitch](https://www.twitch.tv/weiwiko)|
 dicequeenDi|[Twitter](https://twitter.com/dicequeendi) [Twitch](https://www.twitch.tv/dicequeendi)|Tabletop games specialist
-Roesalie|[Twitter](https://twitter.com/itsroesalie) [Twitch](https://www.twitch.tv/roesalie)|
+Roesalie|[Twitter](https://twitter.com/itsroesalie) [Twitch](https://www.twitch.tv/roesalie)|Minecraft streamer
 VTuberCypress|[Twitter](https://twitter.com/vtubercypress) [Twitch](https://www.twitch.tv/vtubercypress)|
 Endearest|[Twitter](https://twitter.com/endearestx) [Twitch](https://www.twitch.tv/endearest)|
 MinimaLaifu|[Twitter](https://twitter.com/minimalaifu) [Twitch](https://www.twitch.tv/minimalaifu)|
@@ -133,6 +133,9 @@ Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.
 Dolce|[Twitter](https://www.twitter.com/DolceVtuber) [Twitch](https://www.twitch.tv/dolcevt)|
 Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://www.youtube.com/@MaikaMallow)|
 AuteruTori [EN/MSA]|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Arabic birb
+SuperJinxy|[Twitter](https://twitter.com/super_jinxy) [Twitch](https://www.twitch.tv/super_jinxy/)|
+BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|
+
 
 ---
 

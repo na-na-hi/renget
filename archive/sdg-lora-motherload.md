@@ -1257,3 +1257,32 @@ Prompt:
 !!! info easynegative, ng_deepnegative_v1_75t, (bad-hands-5:1.1), loli, young, teen, child, aged down, lolita, lolita_fashion, shota, minor, wa_lolita, underage, flat chest, (low quality, worst quality, lowres:1.1), text, patreon, watermark, grass,
 
 !!! info Size: 512x768, Seed: 3564433263, Model: revAnimated_v122, Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Clip skip: 2, Model hash: 4199bcdd14, Hires upscale: 2.5, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.4
+***
+
+##Jenny Boot style LoRA
+
+Description:
+!!! note Photoshoot style LoRA.
+
+Triggerwords:
+!!! note None
+
+Download links:
+1.5:
+https://pixeldrain.com/u/QcxsszMU
+https://anonfiles.com/Q4c5d1sfz1/JENNYBOOT_1_5_safetensors
+
+2.1:
+https://pixeldrain.com/u/rK8hLcSP
+https://anonfiles.com/7ac5das1z6/JENNYBOOT_2_1_safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/9afix8.jpeg)
+
+Prompt:
+
+!!! info a woman in a black dress with a necklace on her neck
+
+!!! info 3d render, cgi, painting, drawing, cartoon, anime, nartfixer,
+
+!!! info Size: 768x1024, Seed: 971371851, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d

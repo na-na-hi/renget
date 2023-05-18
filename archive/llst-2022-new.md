@@ -580,8 +580,9 @@ RAW - https://nyaa.si/view/1170341
 ####EVENTS/PERFORMANCES/MISC
 **2023 Fanmeet**
 ==NEW== Nijigasaki Tokimeki Fan Meeting Tour
-D1&D2(A) Hiroshima - https://nyaa.si/view/1664169
-D2(B) Hiroshima - https://nyaa.si/view/1664737
+D1&D2 Hiroshima - https://nyaa.si/view/1664169 / https://nyaa.si/view/1664737 alt: https://nyaa.si/view/1672987
+D1&D2 Tokyo - https://nyaa.si/view/1672987
+D1&D2 Aichi - https://nyaa.si/view/1672987
  
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
@@ -797,6 +798,7 @@ https://www.wikifeet.com/Akane_Yabushima
 https://www.wikifeet.com/Suzuhara_Nozomi
 
 https://www.wikifeet.com/Yuina
+https://www.wikifeet.com/Chihaya_Yoshitake
 
 **Hasunosora Seiyuu**
 https://www.wikifeet.com/Kotoko_Sasaki

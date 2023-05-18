@@ -18,30 +18,65 @@
 
 ***
 
-## Operators Information
+## General Gameplay Resources
 
-### Basic information
+### Battle / Combat resources 
+
+* [Viktorlab CN Skill DPS Calculator](https://viktorlab.cn/akdata/) 
+* [Detailed mechanics sheet](https://docs.google.com/spreadsheets/u/1/d/11Stfk6ymNVBrFQMS5_3gDkKQYC1f4QOouA7ObMx4MJg/htmlview)
+
+### Maps and enemies
+
+__Map simulator__
+* https://map.ark-nights.com/areas/ (Map simulator with enemies path, timing etc)
+* https://prts-chan.vercel.app (CC maps, with enemies stats, risk calculator etc)
+* https://tomimi.dev/en (IS maps simulator, enemy with Ascension modifier)
+
+__Map clear records database__
+* [ArkRec](https://en.arkrec.com/)
+
+__Enemy reference__
+* [Arknemy Enemy Database](https://arknemy.github.io/enemy/)
+* [Aceship enemy Info](https://aceship.github.io/AN-EN-Tags/akenemy.html)
+
+### Base (BETA)
+
+* [Base combo sheet](https://docs.google.com/spreadsheets/d/1zYc2JU46X0XWmV7s1503bN4feRdOMa1eehrTQ2jGaiE/edit)
+* [PeterYR YouTube channel](https://youtube.com/@PeterYR)
+
+### Farming and Mats
+
+__Mats farming efficiency__
+
+* [Penguin stats](https://penguin-stats.io/result/item)
+* [Faming Sheet with API Fetcher](https://docs.google.com/spreadsheets/u/1/d/12X0uBQaN7MuuMWWDTiUjIni_MOP015GnulggmBJgBaQ/htmlview#gid=485742288)
+
+__Mats usage planner__
+
+* [ark-nights.com](https://ark-nights.com/?locale=en_US)
+* [AK GamePress Operator Planner](https://gamepress.gg/arknights/tools/arknights-operator-planner)
+* [Krooster Planner](https://www.krooster.com/planner/goals)
+* [Penguin stats Planner](https://penguin-stats.io/planner)
+* [ArknTools Planner](https://arkn.lolicon.app) (Can import via screenshot) 
+
+### Team generator
+* [akgcc randomizer](https://akgcc.github.io/cc/randomizer.html)
+* [Draft pick website (in Japanese)](https://suns-wyk.com/operators-random-choice/#/tool)
+* [arkrand Arknights Randomizer](https://akrand.itch.io/arknights-randomizer)
+
+## Operator related resources 
+
+### General information
 * [Aceship Operators page](https://aceship.github.io/AN-EN-Tags/akhrchars.html)
 * [AK GamePress Interactive Operator List](https://gamepress.gg/arknights/tools/interactive-operator-list)
 
-### Modules
-* [Module data sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTA6I0ffKjIubfoxd3GedgVScdQ2G90EFSlHzADsNP7nk5nXa8BNyW3beeUS8WD6UXRu8EfV3bBSoRI/pubhtml#)
-* [Module Rating by DragonGJY](https://docs.google.com/spreadsheets/d/1A0_0XTAcDDtHkvyAwjTqEEzM8cf5h3E60u23ZVXw4eg/edit#gid=0)
+### Tier list?
 
-### Guides
-* [Operators Subclass sheet](https://docs.google.com/spreadsheets/d/1jGWI1iqfFz1h59bycP2rJo9ca4BQf7S1hJ9iPcXcmrI/htmlview#)
-* [Sanity;Gone](https://sanitygone.help/operators)
-* Go ask /akg/ LOL
+My favorite > Your favorite. If you think yours is better:
 
-### Tools
-* [Viktorlab CN Skill DPS Calculator](https://viktorlab.cn/akdata/)
-* [Arknights Poll](https://arknights-poll.net/result.html) (CN server 6* skill mastery and modules unlock trend )
+![Suzupoint](https://i.imgur.com/UegGmk9.jpeg) 
 
-***
-
-## Gameplay Resources
-
-### Operators acquisition
+### Operators Acquisition 
 
 __Recruitment__
 
@@ -65,16 +100,9 @@ __Collection logging__
 
 * [Krooster](https://www.krooster.com/)
 
-__Operators outfit/skins__
+### Skills
 
-* [HermitzPlanner](https://hermitzplanner.github.io/)
-* [Upcoming Skins list sheet](https://docs.google.com/spreadsheets/d/13WaE-e52vdbANJ6oteL9EHlg_bv2k1Moe8ZV-SLI908)
-
-### Base (BETA)
-
-__Base (Beta) Combo Guide__
-
-* [Base combo sheet](https://docs.google.com/spreadsheets/d/1zYc2JU46X0XWmV7s1503bN4feRdOMa1eehrTQ2jGaiE/edit)
+* [Arknights Poll](https://arknights-poll.net/result.html) (CN server 6* skill mastery and modules unlock trend )
 
 __Training Room Guide__
 
@@ -90,45 +118,20 @@ __Training Room Guide__
 
     For more details and advanced strat, check the [infographics](https://files.catbox.moe/q8mdi9.png)
 
-### Tier list?
+### Modules
+* [Module data sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTA6I0ffKjIubfoxd3GedgVScdQ2G90EFSlHzADsNP7nk5nXa8BNyW3beeUS8WD6UXRu8EfV3bBSoRI/pubhtml#)
+* [Module Rating by DragonGJY](https://docs.google.com/spreadsheets/d/1A0_0XTAcDDtHkvyAwjTqEEzM8cf5h3E60u23ZVXw4eg/edit#gid=0)
 
-My favorite > Your favorite. If you think yours is better:
+### Guides
+* [Operators Subclass sheet](https://docs.google.com/spreadsheets/d/1jGWI1iqfFz1h59bycP2rJo9ca4BQf7S1hJ9iPcXcmrI/htmlview#)
+* [Sanity;Gone](https://sanitygone.help/operators)
+* Go ask /akg/ LOL 
 
-![Suzupoint](https://i.imgur.com/UegGmk9.jpeg)
+### Outfit/skins
 
-### Maps and enemies
+* [HermitzPlanner](https://hermitzplanner.github.io/)
+* [Upcoming Skins list sheet](https://docs.google.com/spreadsheets/d/13WaE-e52vdbANJ6oteL9EHlg_bv2k1Moe8ZV-SLI908)
 
-__Map simulator__
-* https://map.ark-nights.com/areas/ (Map simulator with enemies path, timing etc)
-* https://prts-chan.vercel.app (CC maps, with enemies stats, risk calculator etc)
-* https://tomimi.dev/en (IS maps simulator, enemy with Ascension modifier)
-
-__Map clear records database__
-* [ArkRec](https://en.arkrec.com/)
-
-__Enemy reference__
-* [Arknemy Enemy Database](https://arknemy.github.io/enemy/)
-* [Aceship enemy Info](https://aceship.github.io/AN-EN-Tags/akenemy.html)
-
-### Farming and Mats
-
-__Mats farming efficiency__
-
-* [Penguin stats](https://penguin-stats.io/result/item)
-* [Faming Sheet with API Fetcher](https://docs.google.com/spreadsheets/u/1/d/12X0uBQaN7MuuMWWDTiUjIni_MOP015GnulggmBJgBaQ/htmlview#gid=485742288)
-
-__Mats usage planner__
-
-* [ark-nights.com](https://ark-nights.com/?locale=en_US)
-* [AK GamePress Operator Planner](https://gamepress.gg/arknights/tools/arknights-operator-planner)
-* [Krooster Planner](https://www.krooster.com/planner/goals)
-* [Penguin stats Planner](https://penguin-stats.io/planner)
-* [ArknTools Planner](https://arkn.lolicon.app) (Can import via screenshot)
-
-### Team generator
-* [akgcc randomizer](https://akgcc.github.io/cc/randomizer.html)
-* [Draft pick website (in Japanese)](https://suns-wyk.com/operators-random-choice/#/tool)
-* [arkrand Arknights Randomizer](https://akrand.itch.io/arknights-randomizer)
 
 ***
 

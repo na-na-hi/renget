@@ -25,6 +25,10 @@
 
 # 📑 1 ➜ Direct Downloads
 
+### 🔗 [4DOWNLOAD](https://4download.net/)
+- Complete software downloads, audio samples, tutorials, e-books, and videos may all be found here.
+- [URL Safety Results](https://www.urlvoid.com/scan/4download.net/)
+
 ### 🔗 [Aedownload](https://aedownload.com/)
 - Hundreds of brand-new, After Effects and Premiere Pro templates, including sound effects are available.
 - [URL Safety Results](https://www.urlvoid.com/scan/aedownload.com/)
@@ -76,6 +80,10 @@
 ### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
 - Several MacOS apps available covering a wide variety. However, the site uses premium file hosts, which is not friendly for free users.
 - [URL Safety Results](https://www.urlvoid.com/scan/macappdownload.com/)
+
+### 🔗 [MaGeSY](https://www.magesy.blog/)
+- DAWs, sample libraries, VST plugins, multitracks, and other music production software are all heavily emphasized.
+- [URL Safety Results](https://www.urlvoid.com/scan/magesy.blog/)
 
 ### 🔗 [MicroTech](https://programs.themicrotech.net/)
 - Aims to simplify access to the files for the most recent versions while continuously improving and staying current with technology.
