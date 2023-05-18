@@ -68,7 +68,7 @@ All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)
 
-	The CPU versions also use the old quantization format and will not be compadible with the most recent versions of llama.cpp.
+	The CPU old format version is before the [recent quantization format change via pull #1405](https://github.com/ggerganov/llama.cpp/pull/1405), and will not work with versions of llama.cpp beyond that pull. The CPU new format links have been converted to work with #1405 and beyond.
 
 	>Type: Foundational	
 	>Filtering: None
@@ -76,6 +76,7 @@ All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f
 Model | Type | Download
 --- | --- | ---
 7B, 13B, 30B, 65B | CPU (old format) | [Torrent Magnet](magnet:?xt=urn:btih:481dee5424b7024433504803a90efd32dae40fdf&dn=LLaMA-ggml-4bit_2023-03-31&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce)
+7B, 13B, 30B, 65B | CPU (new format) | [7B](https://huggingface.co/TheBloke/LLaMa-7B-GGML), [13B](https://huggingface.co/TheBloke/LLaMa-13B-GGML), [30B](https://huggingface.co/TheBloke/LLaMa-30B-GGML)
 7B, 13B, 30B, 65B | GPU CUDA (no groupsize) | [Torrent Magnet](magnet:?xt=urn:btih:e88abf1b84290b162f00d3a9d79fb4f8719c2053&dn=LLaMA-HF-4bit&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU CUDA (128gs) | [Torrent Magnet](magnet:?xt=urn:btih:88f7d9d2460ffcaf78b21e83012de00939eacb65&dn=LLaMA-HF-4bit-128g&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
@@ -86,7 +87,9 @@ Model | Type | Download
 ## VicUnLocked 30B
 !!! info
 
-	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed. There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
+	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed. The CUDA version is currently being converted/uploaded , will add the link when it turns up.
+
+	There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
 
 	>Type: Instruct
 	>Filtering: Light
@@ -95,7 +98,7 @@ Model | Type | Download
 --- | --- | ---
 LoRA | LoRA | [HF Link](https://huggingface.co/Neko-Institute-of-Science/VicUnLocked-30b-LoRA)
 30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GGML)
-30B | GPU | [Q4 CUDA](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ)
+30B | GPU | [Q4 Triton](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ)
 
 
 
@@ -216,7 +219,7 @@ Model | Type | Download
 30B GGML | CPU | [Q4_0](https://huggingface.co/spanielrassler/GPT4-X-Alpasta-30b-ggml)
 30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128gs](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
 
-## OpenAssistant LLaMa 30B SFT 6  (04/23/2023)
+## OpenAssistant LLaMa 30B SFT 7  (04/23/2023)
 !!! info
 
 	An open-source alternative to OpenAI’s ChatGPT/GPT 3.5 Turbo. However, it seems to suffer from [overfitting](https://www.datarobot.com/wiki/overfitting/) and is heavily filtered. Not recommended for creative writing or chat bots, given the "assistant" personality constantly bleeds through, giving you dry dialogue.
@@ -226,8 +229,8 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-30B XOR | XOR | https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
-30B GGML | CPU | Awaiting re-quantization
+30B XOR | XOR | https://huggingface.co/OpenAssistant/oasst-sft-7-llama-30b-xor
+30B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/OpenAssistant-SFT-7-Llama-30B-GGML)
 30B | GPU | [Q4 CUDA](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [Q4 CUDA 128gs](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
 
 ## SuperCOT (04/22/2023)

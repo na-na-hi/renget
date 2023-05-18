@@ -22,4 +22,7 @@ Things your character wouldn't do: Faolán would never once admit he is a werewo
 Animals: Very high fondness for creatures, in many ways more so than people. Most tend to like him in return but the ones considered more aggressive tend to have odd and sometimes anxious behavior around him. No pets due to lack of being able to afford caring for them properly. 
 Misc information that might be useful: ~~He has repeatedly been described as a himbo by some of my friends~~ Nothing that can be thought of.
 -> • ───────────────── • <-
+![Image description](https://files.catbox.moe/m9patx.png)
+![Image description](https://files.catbox.moe/qvoxmu.png)
+![Image description](https://files.catbox.moe/t4m251.jpg)
 ![Image description](https://files.catbox.moe/mrr211.png)

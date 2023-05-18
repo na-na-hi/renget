@@ -31,6 +31,8 @@ https://agnai.chat/
 https://rentry.org/agnai_guides [Video guides]
 >RisuAI
 https://github.com/kwaroran/RisuAI
+>Miku
+https://docs.miku.gg/
 >CAI
 https://character.ai [sold out to google, cai+]
 https://rentry.org/newcaitools [cai userscripts]

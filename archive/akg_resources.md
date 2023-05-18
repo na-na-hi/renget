@@ -33,6 +33,10 @@
 * [Sanity;Gone](https://sanitygone.help/operators)
 * Go ask /akg/ LOL
 
+### Tools
+* [Viktorlab CN Skill DPS Calculator](https://viktorlab.cn/akdata/)
+* [Arknights Poll](https://arknights-poll.net/result.html) (CN server 6* skill mastery and modules unlock trend )
+
 ***
 
 ## Gameplay Resources
@@ -72,10 +76,8 @@ __Base (Beta) Combo Guide__
 
 * [Base combo sheet](https://docs.google.com/spreadsheets/d/1zYc2JU46X0XWmV7s1503bN4feRdOMa1eehrTQ2jGaiE/edit)
 
-__Skill Guide__
+__Training Room Guide__
 
-* [Arknights Poll](https://arknights-poll.net/result.html) (See which skill that got mastered on CN server)
-* [Viktorlab CN Skill DPS Calculator](https://viktorlab.cn/akdata/)
 
 !!! note Irene Mastery Guide
     
@@ -99,6 +101,7 @@ My favorite > Your favorite. If you think yours is better:
 __Map simulator__
 * https://map.ark-nights.com/areas/ (Map simulator with enemies path, timing etc)
 * https://prts-chan.vercel.app (CC maps, with enemies stats, risk calculator etc)
+* https://tomimi.dev/en (IS maps simulator, enemy with Ascension modifier)
 
 __Map clear records database__
 * [ArkRec](https://en.arkrec.com/)
@@ -125,6 +128,7 @@ __Mats usage planner__
 ### Team generator
 * [akgcc randomizer](https://akgcc.github.io/cc/randomizer.html)
 * [Draft pick website (in Japanese)](https://suns-wyk.com/operators-random-choice/#/tool)
+* [arkrand Arknights Randomizer](https://akrand.itch.io/arknights-randomizer)
 
 ***
 
@@ -180,6 +184,13 @@ resource | link
 Fankit (stickers, wallpapers) | [Official EN Link](https://www.arknights.global/fankit), [Anon archive](https://files.catbox.moe/emlg5a.zip)
 Gacha revenue (update monthly) | https://space.bilibili.com/179948458
 Upcoming event prediction calendar | https://ak.jaywye.ee/calendar
+
+***
+
+## More /akg/ rentry pages
+
+* [Newcutie guide](https://rentry.org/akgnewcutieguide)
+* [Side events guide](https://rentry.org/akgsideevents) 
 
 ***
 

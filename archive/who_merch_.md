@@ -1,8 +1,5 @@
 # Nanashi Mumei merchandise
 
-**2023 Casual outfit merch(Keychain)** (Order period ends 15th May 1800 JST)
-https://shop.hololivepro.com/en/products/nanashimumei_nc2023
-
 **OMOCAT CouncilRys** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
@@ -20,7 +17,19 @@ https://shop.hololivepro.com/en/products/hololiveen_1stconcert_madetoorder
 Keyboard keycap set & desk pad
 https://hyte.com/store/hololive-connect-the-world-keycap-bundle?v=151
 
+- - -
 
+##Games
+**Groove Coaster**
+Main game: https://store-jp.nintendo.com/list/software/70010000019180.html?dlc=1
+DLC: https://store-jp.nintendo.com/list/software/70050000036260.html
+
+**hololive X Valkyrie Connect collab vol. 2 (Until 31st May)**
+Mumei and Clock's shill stream: https://www.youtube.com/watch?v=rzTWlwjCckQ  
+(QR code and link inside)
+Mumei's unit is free and obtainable by doing missions.
+
+- - -
 ##Sold out/ order period ended
 **HoloEN Valentines Merch set**  (Order period ended 20th March 1800 JST, **Situation Voice still available for purchase**)
 https://shop.hololivepro.com/en/products/hololiveen_valentine2023
@@ -55,3 +64,6 @@ https://shop.hololivepro.com/en/products/hololive_superexpo2023_chibi_sticker?va
 https://shop.hololivepro.com/en/products/hololive_superexpo2023_chibi_acrylickeychain?variant=43818739335388
 **Acrylic stand**
 https://shop.hololivepro.com/en/products/hololive_3dacrylicstand_bright?variant=43818744348892
+
+**2023 Casual outfit merch(Keychain)** (Order period ends 15th May 1800 JST)
+https://shop.hololivepro.com/en/products/nanashimumei_nc2023

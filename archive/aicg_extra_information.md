@@ -8,14 +8,14 @@
 https://github.com/luminai-companion/agn-ai
 https://agnai.chat
 https://rentry.org/agnai_guides
-- australian frontend for many AI services; local install and online demo; feature rich and user-friendly
+- australian frontend for many AI services; local install and online version; feature rich and user-friendly
 
 ![](https://files.catbox.moe/6iu0kt.png)
 
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
 (https://risu.pages.dev) https://risuai.xyz
-- korean frontend for oobabooga's and OAI; local install and online demo; feature rich + plugins
+- korean frontend for oobabooga's and OAI; local install and online version; feature rich + plugins
 
 ![](https://files.catbox.moe/h5qx2o.png)
 
@@ -27,7 +27,7 @@ https://github.com/Cohee1207/SillyTavern
 
 ##### VenusAI
 https://venusai.chat
-- vietnamese frontend for OAI and Kobold; online only; common bot catalogue with numberfagging
+- vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
 
 ![](https://files.catbox.moe/iworgx.png)
 
@@ -162,8 +162,7 @@ https://boards.4channel.org/vg/catalog#s=aids
 ##### Miku\.gg
 https://docs.miku.gg
 https://rentry.org/mikugg
-- frontend for OAI and Kobold; local install and online demo; TTS and rich Emotion images support
-- currently development appears to be paused or stopped
+- frontend for OAI and Kobold; local install and online demo; TTS and rich Emotion images support; own bot format
 
 ![](https://files.catbox.moe/uwxk54.png)
 

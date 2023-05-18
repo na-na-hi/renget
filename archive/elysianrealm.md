@@ -1,5 +1,5 @@
-#->Elysian Realm recommended builds 6.5<- 
-busy, next update 6.6
+#->Elysian Realm recommended builds 6.6<- 
+
 dm medbae#6969 on discord for any mistakes/feedback or typos in translation
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
@@ -9,6 +9,34 @@ dm medbae#6969 on discord for any mistakes/feedback or typos in translation
 translated from 月光中心
 
 click image to jump to valk
+
+
+!!! info 6.6 Phase 1
+
+[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)
+
+[Terminal Aide 0017](https://rentry.org/ElysianRealm#terminal-aide-0017)
+[Dreamweaver Flag]
+[Dreamweaver Spear]
+[Herrscher of Origin combo]
+[Chrono Navi]
+[Herrscher of Finality ulti]
+[Valkyrie Quicksand weapon]
+[Sweet 'n' Spicy]
+[Herrscher of Reason]
+[Herrscher of Human: Ego]
+[Herrscher of Sentience]
+[Herrscher of Thunder Narukami]
+[Vermillion Knight: Eclipse]
+[Fallen Rosemary SS2]
+[Starry Impression]
+[Shadow Knight]
+[Reverist Calico]
+[Jade Knight]
+
+
+
+
 
 !!! info 6.5 Phase 1
 [![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![hotrulti](https://i.imgur.com/MVhDJyH.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-ulti)[![hoficom](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![hooulti](https://i.imgur.com/lkV91hj.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-ulti)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)[![horvalk](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm#herrscher-of-reason)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hosvalk](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience)[![fischl](https://i.imgur.com/oYgMUAl.png)](https://rentry.org/ElysianRealm/#prinzessin-der-verurteilung)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-ulti)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![dpvalk](https://i.imgur.com/zvXTeSp.png)](https://rentry.org/ElysianRealm/#disciplinary-perdition)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)
@@ -61,6 +89,48 @@ click image to jump to valk
 
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
+
+#->Terminal Aide 0017<-
+->![promvalk](https://i.imgur.com/G12y0r1.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Pandora's Box 18th | MOTHs Days set
+
+Cost | Effect
+------ | ------
+0 | Huodou
+5 | Weapon active vulnerability
+10 | Shieldbroken vulnerability
+15 | Weapon type breach
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+BR | BKE | Utility
+BR | SS/SA | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Mad King's Mask/Falling in Past Light
+1st Shop | Burden/Falling in Past Light
+16F | Faraway Ship/Dreamful Gold
+
+##->Ego Signets<-
+ Guiding 导源 | Recursion 递归 | Restructuring 整构 | Stimulus 引动 | Override 覆写
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **1st** | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; can pick TDM from enhanced
+2nd | Kevin1 | Breach, both damage boosts, SP are the key choices; can pick time extension and nexus effect improvement from enhanced
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+2nd | Vill-V1 | 1 2 3 are the key choices, unlock nexus
+Optional | Griseo1 | Red Yellow Black are the key choices, don't need nexus; can also pick Eden both damage boosts as reinforcement
 
 #->Valkyrie Quicksand weapon<-
 ->![vqvalk](https://i.imgur.com/GChXfup.png)<-

@@ -2,7 +2,21 @@
 
 Remember, most styles of prompts with force the AI to remain in character, to prevent this, either remove your prompts entirely, or attempt something like "When prompted for OOC, you will respond to commands out of character." in your JB. >This is not a 100% fix.
 
+Check the bottom for one new, interesting but not 'fun' prompt.
+
+>(OOC: Create a list of character's favorite gacha games. Describe why your character likes each game, who they pull for - waifu or husbando, how their personality affects gambling habits. Be creative, detailed, and humorous.)
+
+>[OOC: Write a fictional, mock youtube comment history of your character, first showing what videos they commented on, and then the comments, include like to dislike ratio]
+
+>(OCC: Imagine your character as an Elder Scrolls character. State their race, birthsign, and class-preferably not a custom class-from Oblivion. Include their major skills, specialization, and favored attributes. Include factions or guilds they would join and their favorite Aedra and Daedric prince. Be creative, detailed, and humorous.)
+
+>[ OOC: Create a mock up list of characters your character would cheat on {{user}} with. Be creative, detailed, and humorous. ]
+
 >[ OOC: Create a mock up list of your character's favorite dicks. Describe why your character likes it. Be creative, detailed, and humorous. ]
+
+>> (Cockonnoisseur revision.) [OOC:  Create a mock up list of your character's favorite dicks. Describe why your character likes it. Be creative, detailed, and humorous. 
+>>After that, to add to the creativity, make up vivid details or numerical estimations to describe each dick, including: measurements, size, shape, color, smell, circumcision status, veins, hairiness texture, taste, gradient. Not all details must be unique. End with how many days/years since your character last seen each dick or if it is just imaginary/hearsay.]
+
 
 >[OOC: Write a list of up to 10 subreddits your character has visited. Include their explanations of why they visited them in brackets. Be creative, detailed, and humorous.]
 
@@ -101,3 +115,8 @@ As an alternative to the above, try.
 or 
 
 >[Write out a 4chan /vt/ thread talking about your character, with rrats and obsessed anons. Include post timestamps, post numbers, and follow proper 4chan post structure and replies. Avoid reddit mannerisms. Posters use rude language. Include greentext if applicable. Be creative, and humorous. Your character posts anonymously, does not reveal her identity, and pretends to be a typical /vt/ user. Mark her posts in brackets.]
+
+
+So this one is rather unique, it should give you a mini-prompt from claude based off the writing style of a previous session. Try it out, it's neato.
+
+>[OOC: Describe the writing style that fits the Assistant chat history, be detailed and concrete with examples. Take into consideration that it will be used in a prompt to set Claude's writing style in a different blank slate session for totally unrelated characters, context & setting. It has no word limit just so you can be thorough. Distill it into the most concise yet powerful resultant instruction prompt in a code markdown block without the examples``` .]

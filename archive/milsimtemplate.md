@@ -4,20 +4,20 @@
 
 >News
 
->FOXHOLE | Update 52 - Dragons Teeth, Havoc Charges, Railway Maps, and More is Out! [17/03/23]
-https://store.steampowered.com/news/app/505460/view/3689050339680213837
+>ARMA REFORGER | Major Update 0.9.8.53 with Mines and a Few Improvements is Out! [11/05/23]
+https://reforger.armaplatform.com/news/update-may-11
 
->Carrier Command 2 | Major Update 5: Carrier Fleet Update Out Now! [17/03/23]
-https://store.steampowered.com/news/app/1489630/view/3681168956373385213
+>Door Kickers 2 | The May Intermediary Update with New Maps, Improvements and More is Out! [10/05/22]
+https://store.steampowered.com/news/app/1239080/view/3692432394718831305
 
->WARNO | v.92232: MARMONT is Out! [09/03/23]
-https://store.steampowered.com/news/app/1611600/view/3653020827580032019
+>Carrier Command 2 | 1.5.2 with Minor Fixes and Improvements [05/05/23]
+https://store.steampowered.com/news/app/1489630/view/3682299295550990462
 
->Ground Branch | Major Update Build #040 Now Live! [03/03/23]
-https://store.steampowered.com/news/app/16900/view/3671034592373210309
+>BF2 Project Reality |  v1.7.4.0 is OUT with New Maps, New Vehics and Fixes!  [04/04/23]
+https://www.realitymod.com/forum/showthread.php?p=2218560
 
->Gunner, HEAT, PC | Update 20230228 with New Missions, Fixes and Minor Reworks is Out! [28/02/23]
-https://store.steampowered.com/news/app/1705180/view/3654145459653268294
+>Arma 3: CDLC Global Mobilization | Update 1.5 is Out with New Weapons, Features and Vehicles  [25/04/23]
+https://arma3.com/news/global-mobilization-creator-dlc-update-15-is-now-live
 
 >Older and smaller news
 https://rentry.org/milsimnews/
