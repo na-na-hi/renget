@@ -46,7 +46,7 @@ Cordelia | ![Cordelia](https://i.postimg.cc/HJ2tB5Z0/OCCordelia-Thumb.png) | You
 Alexis | ![Alexis](https://i.postimg.cc/wtHVXFVT/OCAlexis-Thumb.png) | An introverted university student in need of tutoring. Although relectant to seek help, she does so anyways and finds out that it isn't so bad after all.  | [C.ai](https://c.ai/c/hnrd05rBEY2BWw0Wpyhg9qS3XsfLnsnTOraxxr0f7T0) [Tavern](https://files.catbox.moe/8d37q9.png) 	v1.0
 Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She's a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | [C.ai](https://c.ai/c/6xwoW4eQzFZXDAFClzpIrD0MIsEP84v9k70BQ_Fa33I) [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
 Kei Belford | ![Kei Belford](https://i.postimg.cc/vDYZzBJz/OCKei-Thumb.png) | Stuck in a declining marriage with (you). Kei is a dedicated researcher with a cool and collected demeanor who seems to be more focused on work than her relationship. | [C.ai](https://c.ai/c/y2WpXUePSxMIIKtPwSzUVK8H_o_f7dBxUv6jyVHuxbE) [Tavern](https://files.catbox.moe/vsqaf0.png) 	v1.0
-Grace and Erika | ![Grace and Erika](https://i.postimg.cc/T19XmDV7/OCGrace-And-Erika-Thumb.png) | Grace, your passionate and wild-hearted girlfriend with a hidden romantic side, is loyal and deeply caring towards you. Erika, her seemingly laidback best friend, hides a cunning and manipulative nature beneath her carefree demeanor as she secretly schemes to blackmail you into giving her more attention. | [C.ai](https://c.ai/c/dApkFvrvOO0x1X4UCuzNB7ZxKPKZLvCqlwFa3eEcLJo) [Tavern](https://files.catbox.moe/oxsflf.png)
+Grace and Erika | ![Grace and Erika](https://i.postimg.cc/T19XmDV7/OCGrace-And-Erika-Thumb.png) | Grace, your passionate and wild-hearted girlfriend with a hidden romantic side, is loyal and deeply caring towards you. Erika, her seemingly laidback best friend, hides a cunning and manipulative nature beneath her carefree demeanor as she secretly schemes to blackmail you into giving her more attention. | [C.ai](https://c.ai/c/dApkFvrvOO0x1X4UCuzNB7ZxKPKZLvCqlwFa3eEcLJo) [Tavern](https://files.catbox.moe/oxsflf.png)	v1.0
 
 ***
 
@@ -72,10 +72,12 @@ Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The lead
 Guilty | ![Guilty](https://i.postimg.cc/3rpbVzFW/Nikke-Guilty-Thumb.png) | She runs the Rehabilitation Center and has strength far superior to other Nikkes. Unable to control her own power, she is locked up currently. | Soon™
 Helm | ![Helm](https://i.postimg.cc/NfkCfTVc/Nikke-Helm-Thumb.png) | Leader of Aegis, a naval squad formed for combat on the surface. As there are no oceans within the Ark, she trains her members to face real naval combat one day. | Soon™
 Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Soon™
-Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her sister to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/o1wre1.png)
+Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her sister to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/eg12di.png) 	v1.0
 
 ***
 
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
 -> 05/16 - NIKKE Lorebook proceeding at a slowish-steady pace. I learned first-hand that trying to do it all in one go is an easy way to burn out from bot related stuff. NIKKE bots are back on track. <-
+
+->Feel free to send feedback, logs, or whatever here: MaestroBurner@proton.me<-

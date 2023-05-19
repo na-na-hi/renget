@@ -13,7 +13,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **5** | NIKGERS | ==**368**== |PERMISSION | POLUS | 32/32| N 
 **5** | NIKKERZ | ==**466**== |PERMISSION | CEDAR | 32/32 | N 
 **5** | NOPAN | ==**1216**== |PERMISSION | KAKARO | 32/32 | N 
-**5** | UOH | ==**1435**== |PERMISSION | LINCHED | 32/32 | N 
+**5** | UOH | ==**1435**== |PERMISSION | ??? | ??? | N 
 **4** | MILKKERS | ==**1491**== |PERMISSION | PLOT | 32/32 | N 
 **5** | N1KKAS | ==**1888**== |PERMISSION | BUTZ | 32/32 | N 
 **4** | 404TH | ==**4033**== |PERMISSION | YUKIKAZE| 32/32 | N 
@@ -25,7 +25,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **4** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 31/32 | N 
 **5** | MESUGAK1 | ==**4414**== |PERMISSION | CAEL | 32/32 | Y 
 **5** | CSERYL | ==**3903**== |OPEN | EFEK | 32/32 | N 
-**5** | UOOOH | ==**13720**== |PERMISSION | ASLOV | 29/32 | Y 
+**5** | UOOOH | ==**13720**== |PERMISSION | ASLOV | 32/32 | Y 
 
 ##Server: Global
 

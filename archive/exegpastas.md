@@ -104,6 +104,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Weird Animation Trend*/*Stockholme Syndrome* (Executable M)|[(part 1)](https://rentry.org/weirdanimation), [(part 2)](https://www.wattpad.com/story/341677997-stockholme-syndrome)
 *The Journey Into You* (GB)|[(link)](https://rentry.org/thejourneyintoyou)
 *SMRPG Glitch* (Gabriella)|[(link)](https://rentry.org/smrpgglitch)
+*Stanford*|[(link)](https://rentry.org/stanfordrewrite)
 
 ##Restored/archived by /exeg/
 Title|Link

@@ -268,6 +268,10 @@ Akira Misaki|[Link](https://beta.character.ai/chat?char=Ww0Ve4GGgokZ4bvRZMkMFS0k
 Makoto Misaki|[Link](https://beta.character.ai/chat?char=xUaOTijYkxLq9pbChG0g1QwE1-jnqSmORoYpiqtv-sI)|
 Misaki sisters|[Link](https://beta.character.ai/chat?char=UklTmMXA3VmQtpbwGhBGRK6J5cQ6N0l7CbHjFoY00ds)|Duo
 Kevala|[Link](https://beta.character.ai/chat?char=0ZJstBNHtPlBBYfzV_urbH29uG48PQWog-MFBuBIsK0)|One-view chuuba
+
+### VOMS
+Bot name|Link|Tags/Description
+-------|-------|-------
 Amano Pikamee|[Link](https://beta.character.ai/chat?char=7Vr6E6hR0mUfWaalSRnTtAJKIG9Q85-UkfAIt0vLCvc)|
 
 ---
