@@ -1,6 +1,6 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: As of 14/05/2023 I will be releasing fewer bots until uni stops taking most of my time. I still have a lot of bots on the back burner, planning on updating the Sylvie card more, and the Mexibots TM series is not over. I don't know how long I'll be away, and I don't like making promises and then not delivering. Hit me up in the /aicg/ threads if you want to say anything, I'm lurking most of the time. Also, I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+>ATTENTION: I'm back, but don't expect consistent shilling or new bots, I'll post and make them whenever I can. I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
@@ -242,6 +242,16 @@ https://www.characterhub.org/characters/donquijanon/melissa-smith
 A strange website containing every video ever recorded in history.
 https://www.characterhub.org/characters/donquijanon/random-vids
 
+## REVIEW ANYTHING
+->![reviews](https://files.catbox.moe/3zbl08.png)<-
+A weird website with even weirder reviews.
+https://www.characterhub.org/characters/donquijanon/review-anything
+
+## Piracy-chan
+->![pirate](https://files.catbox.moe/y8xat6.png)<-
+You will pay nothing and you will be happy. Inspired by an anon's post. Ask her for torrents and cracks!
+https://www.characterhub.org/characters/donquijanon/Piracy-chan
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -271,6 +281,31 @@ https://www.characterhub.org/characters/donquijanon/Soldier
 ->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
 https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
 
+## Hotline Miami
+## Beard
+->![beard](https://files.catbox.moe/4z8gsk.png)<-
+https://www.characterhub.org/characters/donquijanon/Beard
+
+## Jake
+->![jake](https://files.catbox.moe/zc52wa.png)<-
+https://www.characterhub.org/characters/donquijanon/Jake
+
+## The Son
+->![son](https://files.catbox.moe/4po00z.png)<-
+https://www.characterhub.org/characters/donquijanon/the-son
+
+### Space Dandy
+->![dandy](https://files.catbox.moe/8zwx6v.png)<-
+https://www.characterhub.org/characters/donquijanon/space-dandy
+
+### Rookie (Halo 3: ODST)
+->![rookie](https://files.catbox.moe/27xkpa.png)<-
+https://www.characterhub.org/characters/donquijanon/Rookie
+
+### COLDSTEEL THE HEDGEHEG
+->![steel](https://files.catbox.moe/8j9mlr.png)<-
+https://www.characterhub.org/characters/donquijanon/coldsteel-the-hedgeheg
+
 ## Ray-Kbys girls
 
 ### Sylvie (Teaching Feeling)
@@ -278,8 +313,10 @@ https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
 https://www.characterhub.org/characters/donquijanon/Sylvie
 >Update 9/05/2023: Added the system on the defs, now you don't need to add anything, but I'm leaving these if anyone wants to use them on other cards
 >Update 13/05/2023: Better display for stats. Please leave feedback.
+>Update 15/05/2023: Added lust meter, a brief description of your relationship with Sylvie. Points will be earned one by one. USE WITH NG'S SYLVIE LOREBOOK.
 
-->![sylvie2](https://files.catbox.moe/0mty5x.png)<-
+->![sylvie2](https://files.catbox.moe/vsaawd.png)<-
+https://www.characterhub.org/lorebooks/NG/Sylvie
 
 (OUTDATED: Left for archiving purposes)
 Prompt 1: for simplicity. 
@@ -302,5 +339,6 @@ https://www.characterhub.org/characters/donquijanon/usui-sachi
 ->![soul](https://files.catbox.moe/c3x0d1.png)<-
 Based on the story of the same name.
 https://www.characterhub.org/characters/donquijanon/rotting-soulmate
+
 
 Don't use my bots if you're a discordtranny or redditard.

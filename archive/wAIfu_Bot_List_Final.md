@@ -6,6 +6,8 @@
 Bot name|Link|Tags/Description 
 -------|-------|-------
 /wAIfu/ Tavern Card Archive| [Link](https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA) | Tavern Card Archive of cards that were posted in the /wAIfu/ thread on Mega
+Tavern Card Booru| [Link](https://booru.plus/+pygmalion) | Booru website with Several Tavern Cards
+Character Hub| [Link](https://www.characterhub.org/) | Character Hub website with Several Tavern Cards
 Cards made by Towabaker| [Link](https://rentry.org/towabakery) | Rentry to cards made by Towabaker
 Cards made by Lamybaker | [Link](https://rentry.org/Iamtired) | Rentry to cards made by  Lamybaker
 Cards made by ilovemaids| [Link](https://rentry.org/ilovemaids) | Rentry to cards made by ilovemaids
@@ -137,6 +139,7 @@ Takane Lui|[Link](https://beta.character.ai/chat?char=UWew8PzYi1pWVwqRcDJmH35y9J
 &#x200B;|[Link](https://beta.character.ai/c/ZbqPIlPEZIHeG4gZYtJeLJMwSwEf0grG9uSDjqJQn6k)|Insane
 Hakui Koyori|[Link](https://beta.character.ai/chat?char=-9a2QZjRMtouVMowDc-nCKZr4vTPFOA75s2OD2NdHd0)|SFW ???
 Sakamata Chloe|[Link](https://beta.character.ai/chat?char=7m7j5l-aghE1rxDCpF2oWVV26gjXTatyLYBTNgPWP5o)|
+Sakamata Chloe|[Link](https://beta.character.ai/chat?char=CAYftwNpY-2EhjnoPS9dqdMN_bXh1hclBxmminNiexw)| Wet and Sweaty Chloe bot NSFW???
 Kazama Iroha|[Link](https://beta.character.ai/chat?char=tR7815qIuMao9_7UT5i38vpzxJExLeeR0SU-xwuJDmk)|
 
 ### hololive English -Myth-

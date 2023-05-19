@@ -1,5 +1,5 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.54 | Helped Making Waifus Real Since 2023* <-
+->*V 6.55 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
@@ -7,7 +7,7 @@
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
 !!! note Rentry Updates: Week 3 of May, 2023
-     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, ~~Vicuna (LlaMA)~~, ~~Opan Assistant (Oasst-LlaMA)~~, ~~WizardLM (LlaMA)~~, ~~SuperCOT (LlaMA)~~, ~~BluemoonRP (LlaMA)~~, "Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets") // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
+     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, ~~Vicuna (LlaMA)~~, ~~Opan Assistant (Oasst-LlaMA)~~, ~~WizardLM (LlaMA)~~, ~~SuperCOT (LlaMA)~~, ~~BluemoonRP (LlaMA)~~, ~~"Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets")~~ // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
 
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
@@ -163,8 +163,8 @@ Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Ad
 ####Opan Assistant (Oasst-LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
-[Oasst LlaMA 13B](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4) | [Black-Engineer](https://huggingface.co/Black-Engineer) | CPU | ==GGML(OLD) Quant. 4_0== | ◕ Ŏ 
-[Oasst-sft-6-llama-30b](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) | [OpenAssistant](https://huggingface.co/OpenAssistant) | Weights | ==xor== | ◕ Ŏ
+[Oasst LlaMA 13B](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4) | [Black-Engineer](https://huggingface.co/Black-Engineer) | `HF` Finetuned and Quant. Model | ==GGML(OLD) Quant. 4_0== | ○ Ŏ 
+[Oasst-sft-6-llama-30b](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor) | [OpenAssistant](https://huggingface.co/OpenAssistant) | `HF` Weights | ==xor== | ◕ Ŏ
 
 ####WizardLM (LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
@@ -187,7 +187,7 @@ Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Ad
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
 [Bluemoonrp-13b](https://huggingface.co/reeducator/bluemoonrp-13b) | [Reeducator](https://huggingface.co/reeducator) | `HF` Finetuned & Quant. Models | `Dataset: ↳bluemoon_roleplay_300k_vicuna` // ==GGML Quant. q5_0== ==GPTQ Quant. Safetensors== | ◕ Ŏ 🔔
-[~~Bluemoon_RP_300k ~~](https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna) | ~~[Gozfarb](https://huggingface.co/gozfarb)~~ | Pruned RP Dataset | `↳Vicuna` | ~~◕ Ŏ~~
+[~~Bluemoon_RP_300k ~~](https://huggingface.co/datasets/gozfarb/bluemoon_roleplay_300k_vicuna) | ~~[Gozfarb](https://huggingface.co/gozfarb)~~ | `HF` Pruned RP Dataset | `↳Vicuna` | ~~◕ Ŏ~~
 
 ####Plugins & Other Projects for LlaMA models:
 Project/Dataset Name: (Hyperlinked) | Info/Type: | User(s) / Org. | Tags: | Resource Links:
@@ -199,42 +199,42 @@ LlaMA Index | Data Augment. | [Jerryjliu](https://github.com/jerryjliu) | ◕ Ŏ
 
 ***
 ###ChatGLM "Chinese ChatGPT" Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-ChatGLM-6B | GPU | Bilingual Dialogue LM | [Tsinghua University](https://github.com/THUDM) | ◕ Ŏ  Ĩ | https://github.com/THUDM/ChatGLM-6B
-ChatGLM-130B | GPU | Bilingual Dialogue LM | [Tsinghua University](https://github.com/THUDM) | ◕ Ŏ Ĩ | https://github.com/THUDM/GLM-130B
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | [Tsinghua University](https://github.com/THUDM) | `GH` Bilingual Dialogue LM | ... | ◕ Ŏ  Ĩ
+[ChatGLM-130B](https://github.com/THUDM/GLM-130B) | [Tsinghua University](https://github.com/THUDM) | `GH` Bilingual Dialogue LM | ... | ◕ Ŏ Ĩ
 
 ***
 ###Pygmalion Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-Pygmalion | N.A | HF Account | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI
-`↳Pygmalion` Windows Guide | N.A | Rentry Guide | Anonymous | ◕ Ŏ | https://rentry.org/Pyggymancy
-`↳Pygmalion` Linux Guide | N.A | Rentry Guide | Anonymous | ◕ Ŏ | https://rentry.org/pygmalion-local
-Pygmalion 350m| GPU | `↳BK OPT-350M` | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI/pygmalion-350m
-Pygmalion 1.3B | GPU | `↳pythia-1.3b-deduped` | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI/pygmalion-1.3b
-Pygmalion 2.7B | GPU | `↳gpt-neo-2.7B` | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI/pygmalion-2.7b
-Pygmalion 6B | GPU | `↳GPT-J-6B` | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI/pygmalion-6b
-Pygmalion 7B | GPU | `↳LLaMA-7B` | [Pygmalion](https://huggingface.co/PygmalionAI) | ◕ Ŏ | https://huggingface.co/PygmalionAI/pygmalion-7b
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[Pygmalion](https://huggingface.co/PygmalionAI) | [Pygmalion](https://huggingface.co/PygmalionAI) | `HF` Account | ... | ◕
+[`↳Pygmalion` Windows Guide](https://rentry.org/Pyggymancy) | Anonymous | Rentry Guide | Pygmalion guide for Windows users | ◕
+[`↳Pygmalion` Linux Guide](https://rentry.org/pygmalion-local) | Anonymous | Rentry Guide  | Pygmalion guide for Linux users | ◕
+[Pygmalion 350m](https://huggingface.co/PygmalionAI/pygmalion-350m) `⇲BK OPT-350M` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HG` Finetuned Model | `Datasets: "↳various sources"` | ◕ Ŏ
+[Pygmalion 1.3B](https://huggingface.co/PygmalionAI/pygmalion-1.3b) `⇲pythia-1.3b-deduped` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HG` Finetuned Model | `Datasets: "↳various sources"`  | ◕ Ŏ
+[Pygmalion 2.7B](https://huggingface.co/PygmalionAI/pygmalion-2.7b) `⇲gpt-neo-2.7B` | [Pygmalion](https://huggingface.co/PygmalionAI) |`HG` Finetuned Model | `Datasets: "↳various sources"` | ◕ Ŏ
+[Pygmalion 6B](https://huggingface.co/PygmalionAI/pygmalion-6b) `⇲GPT-J-6B` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HG` Finetuned Model | `Datasets: "↳various sources"` | ◕ Ŏ
+[Pygmalion 7B](https://huggingface.co/PygmalionAI/pygmalion-7b) `↳LLaMA-7B` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HF` Instruct Finetune | ==xor== // "...biased towards fiction writing and conversation." | ◕ Ŏ
+[Metharme-13b](https://huggingface.co/PygmalionAI/metharme-13b) `↳LLaMA-13B` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HF` Instruct Finetune | ==xor== // "...biased towards fiction writing and conversation." | ◕ Ŏ
+[Pygmalion-13b](https://huggingface.co/PygmalionAI/pygmalion-13b) `↳LLaMA-13B` | [Pygmalion](https://huggingface.co/PygmalionAI) | `HF` Instruct Finetune | ==xor== // "...biased towards fiction writing and conversation." | ◕ Ŏ
 
 ***
 ###Mosaic Pretrained Transformers (MPT) Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-MPT-7B | GPU | `↳ModusToolbox` | [Mosaicml](https://huggingface.co/mosaicml) | ◕ Ŏ Ĩ | [(Base)](https://huggingface.co/mosaicml/mpt-7b) [(Story Writer)](https://huggingface.co/mosaicml/mpt-7b-storywriter) [(Instruct)](https://huggingface.co/mosaicml/mpt-7b-instruct) [(Chat)](https://huggingface.co/mosaicml/mpt-7b-chat)
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+MPT-7B [(Base)](https://huggingface.co/mosaicml/mpt-7b) [(Story Writer)](https://huggingface.co/mosaicml/mpt-7b-storywriter) [(Instruct)](https://huggingface.co/mosaicml/mpt-7b-instruct) [(Chat)](https://huggingface.co/mosaicml/mpt-7b-chat) | [Mosaicml](https://huggingface.co/mosaicml) | `↳ModusToolbox` | "MosaicML platform for LLM pretraining, finetuning, and inference" | ◕ Ŏ Ĩ
 
 ***
 ###RedPajama Models, Guides & Resources:
-Project/Dataset Name: (Hyperlinked) | Inference: | Info/Type: | User(s) / Org. | Tags: | Resource Links:
----|:-|:-|:-|:-:|---
-RedPajama-Data | N.A | Data Repository | [RedPajama (GitHub)](https://github.com/togethercomputer) | ◕ Ŏ Ĩ | https://github.com/togethercomputer/RedPajama-Data
-RedPajama INCITE 3B v1 | Multi. Inf. | `↳GPT-NeoX` | [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | ◕ Ŏ Ĩ | [Base-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1), [Instruct-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-3B-v1), [Chat-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1)
-RedPajama INCITE 7B v1 | Multi. Inf. | `↳GPT-NeoX` | [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | ◕ Ŏ Ĩ | [Base-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-7B-v0.1), [Instruct-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1), [Chat-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1)
-Koishi Instruct-3B | GPU | Finetune: `↳INCITE Base 3B` | [Ewof](https://huggingface.co/ewof) | ◕ Ŏ | https://huggingface.co/ewof/koishi-instruct-3b
-Koishi Instruct 3B ==f32== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-f32
-Koishi Instruct 3B ==4.1q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q4_1
-Koishi Instruct 3B ==5.1q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q5_1
-Koishi Instruct 3B ==8.0q== `⇲Koishi Instruct-3B` | CPU | GGML | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | ◕ Ŏ | https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-q8_0
+Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
+:--|:--|:--|:--|:-:
+[RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) | [RedPajama (GitHub)](https://github.com/togethercomputer) | `GH` Data Repository | ... | ◕ Ŏ Ĩ
+RedPajama INCITE 3B v1 [Base-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1), [Instruct-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-3B-v1), [Chat-3B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1)| [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | `HF` Native Models | Multi. Inf. // `↳GPT-NeoX` | ◕ Ŏ Ĩ
+RedPajama INCITE 7B v1 [Base-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-7B-v0.1), [Instruct-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1), [Chat-7B](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1)| [Togethercomputer (RedPajama-HF)](https://huggingface.co/togethercomputer) | `HF` Native Models | Multi. Inf. // `↳GPT-NeoX` | ◕ Ŏ Ĩ
+[koishi-instruct-metharme](https://huggingface.co/datasets/ewof/koishi-instruct-metharme) | [Ewof](https://huggingface.co/ewof) | `HF` Dataset Repository | `Datasets: A lot` | ◕ Ŏ
+[Koishi Instruct 3B](https://huggingface.co/ewof/koishi-instruct-3b) `⇲INCITE Base 3B` | [Ewof](https://huggingface.co/ewof) | `HF` Native Finetune Model| GPU // `Dataset: ↳koishi-instruct-metharme` | ◕ Ŏ
+[Koishi Instruct 3B (GGML) f32](https://huggingface.co/mongolian-basket-weaving/koishi-instruct-3b-ggml-f32) `⇲Koishi Instruct-3B` | [Mongolian Basket Weaving](https://huggingface.co/mongolian-basket-weaving) | `HF` Finetuned & Quant. Model | ==GGML Quant. f32== | ◕ Ŏ
 
 ***
 ###Other Datasets & Related Resources:

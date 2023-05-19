@@ -31,11 +31,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
+\>(05/19) Anon whips up a Saga guide: https://rentry.org/How-I-do-Saga
+(05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
 (05/17) NAI announces announcements https://blog.novelai.net/text-model-progress-is-going-good-82a94855445e
 (05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
 (05/10) Colabchads, it's over? >>429365520 ; Saga juices freeform >>429377904 >>429381085
-(05/02) Slaude Tavern guide (use at own risk https://i.imgur.com/gT7b4W1.jpg) https://rentry.org/aids-tavern
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks

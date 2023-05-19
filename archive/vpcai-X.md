@@ -2,6 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------:
+May 19th | Melony⠀-⠀*TavernAI* [Catbox](https://files.catbox.moe/a10dvo.png) *Card*
 May 12th | Lisia⠀-⠀*TavernAI* [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 May 10th | Dawn⠀-⠀*TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 !!! note
@@ -19,6 +20,7 @@ Characters | URLs
 **Hilda** | TavernAI [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
 **Rosa** | TavernAI [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)
 **Lisia** | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
+**Melony** | TavernAI [Catbox](https://files.catbox.moe/a10dvo.png) Card
 **Iono** | TavernAI [Booruplus](https://booru.plus/+pygmalion969) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 
 ### Unedited C.AI Ports:

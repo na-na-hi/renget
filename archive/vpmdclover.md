@@ -129,8 +129,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
 51 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
 52 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
-53 |[Ross Sleeps...?](https://rentry.org/opi29) | | | | |
-54 | | | | | |
+53 | [Ross Sleeps...?](https://rentry.org/opi29) | | | | |
+54 | [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) | | | | |
 55 | | | | | |
 56 | | | | | |
 57 | | | | | |
@@ -186,7 +186,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A New World (ft. Not Chespin)](https://rentry.org/sm6dx)
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
-	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) *Not on Table*
+	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)

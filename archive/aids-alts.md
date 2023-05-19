@@ -26,6 +26,9 @@ https://rentry.org/Writing-Resources-and-Other-Things
 Use at your own risk: https://i.imgur.com/gT7b4W1.jpg
 https://rentry.org/aids-tavern
 
+####Anon's Saga Guide
+https://rentry.org/How-I-do-Saga
+
 ####SoloRPG Guide
 https://rentry.org/SoloAI2
 https://rentry.org/AdventureModules

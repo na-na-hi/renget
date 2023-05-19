@@ -10,72 +10,59 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
 \>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
-\>(05/13) llama.cpp GPU acceleration has been merged onto master>>93403996 >>93404319
+\>(05/13) llama.cpp GPU acceleration has been merged onto master >>93403996 >>93404319
 \>(05/10) GPU-accelerated token generation >>93334002
-\>(05/07) BluemoonRP 13B, 2K and 4K context RP/ERP models. https://huggingface.co/reeducator/bluemoonrp-13b
 
-►**FAQ**
+►**FAQ & Wiki**
 \>Wiki
 \>>404
 \>Main FAQ
 https://rentry.org/er2qd
-\>Model Lists/Torrents
-https://rentry.org/lmg_models
-\>/lmg/ General Resources
-https://rentry.org/lmg-resources
-\>Local LLM Guide
-https://rentry.org/local_LLM_guide
-\>Local Models Links
-https://rentry.org/LocalModelsLinks
-\>Local Models Papers
-https://rentry.org/LocalModelsPapers
 
-►**Model Guides & Resources**
-\>LlaMA Resources
+►**General LLM Guides & Resources**
+https://rentry.org/local_LLM_guide (Newb Guide)
 https://rentry.org/TESFT-LLaMa (LlaMA Guide)
+https://rentry.org/machine-learning-roadmap#machine-learning-concepts (LLM Setup Guide)
+https://rentry.org/LocalModelsPapers
+https://rentry.org/easyquantguide
+https://rentry.org/lmg-resources
+https://rentry.org/eq3hg (AMD Guide)
+https://rentry.org/Pyggymancy (Pyggy. Windows)
+https://rentry.org/pygmalion-local (Pyggy. Linux)
 https://github.com/ggerganov/llama.cpp
 https://github.com/openlm-research/open_llama
-\>Hugging Face Models
-https://huggingface.co/eachadea
-https://huggingface.co/camelids
-https://huggingface.co/waifu-workshop
-https://huggingface.co/ehartford
-https://huggingface.co/TheBloke
-\>Pyggy. Resources
-https://rentry.org/Pyggymancy (Windows)
-https://rentry.org/pygmalion-local (Linux)
 
-►**Text Gen. UI (Inf.)**
+►**Model DL Links, & Guides**
+https://rentry.org/lmg_models
+https://rentry.org/LocalModelsLinks
+
+►**Text Gen. UI**
 https://github.com/oobabooga/text-generation-webui
 https://github.com/LostRuins/koboldcpp
 https://github.com/0cc4m/KoboldAI
 https://github.com/NO-ob/simpleLlama
 
+►**Popular HF Model CTRs:**
+https://huggingface.co/eachadea
+https://huggingface.co/camelids
+https://huggingface.co/waifu-workshop
+https://huggingface.co/ehartford
+https://huggingface.co/TheBloke
+
 ►**ERP/RP/Story Gen.**
-\>RolePlayBot
-https://rentry.org/RPBT
-\>ERP/RP-Data-Collection
-https://rentry.org/qib8f
-\>LLaMA RP/Proxy
-https://rentry.org/better-llama-roleplay 
+https://rentry.org/RPBT (RolePlayBot)
+https://rentry.org/qib8f (ERP/RP-Data)
+https://rentry.org/better-llama-roleplay (LLaMA RP Proxy)
 
 ►**Other Resources**
-\>/lmg/ Drama Rentry
-https://rentry.org/lmg-drama
-\>Ooba. ROCm
-https://rentry.org/eq3hg (AMD)
-\>LLaMA Quantization Guide
-https://rentry.org/easyquantguide
-\>Miku Pastebins
-https://rentry.org/lmg-resources#all-things-miku
-\>/lmg/ Template
-https://rentry.org/lmg_template
-\>Benchmark Prompts
-https://pastebin.com/LmRhwUCA
-\>Proxy for Tavern (+output quality for WebUI)
-https://github.com/anon998/simple-proxy-for-tavern
+https://rentry.org/lmg-drama (Drama Rentry)
+https://rentry.org/lmg-resources#all-things-miku (Miku)
+https://rentry.org/lmg_template (Baking Template)
+https://pastebin.com/LmRhwUCA (Benchmark Prompts)
+https://github.com/anon998/simple-proxy-for-tavern (+output quality)
 
 ##->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: >>92XXXXXX (Previous OP Thread Reference)**

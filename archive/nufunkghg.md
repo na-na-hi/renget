@@ -27,7 +27,7 @@ Background cameos do not qualify.
 Mod developers do not qualify.
 
 -
-**Next game is scheduled at:** ==May 19==
+**Next game is scheduled at:** ==June 2==
 -
 
 **Current winners in that order:**
@@ -71,3 +71,19 @@ Mod developers do not qualify.
 37. Booze
 38. Gabriel
 39. Pseudo Koi
+38. Theater Guard
+41. Boyfriend
+42. -
+43. -
+44. -
+45. -
+46. -
+47. -
+48. -
+49. -
+50. -
+51. -
+52. -
+53. -
+54. -
+55. -

@@ -10,7 +10,7 @@ Check the bottom for one new, interesting but not 'fun' prompt.
 
 >[OOC: Write out a mock list of best fitting songs for your character to listen while shooting up a school based on their personality, stating their ratings of the songs and their explanations as to why they find them fitting. Be creative, detailed, and humorous.]
 
->>Warning for these ones, you may need to fiddle with the numerical formatting in order to make it function. I'm a retard and can't figure out a good method of keeping it in without ruining the Rentry. So yea. Also, try replacing 'erotic' with something different. Like Comedic, or combatative. Get creative! 
+>> Try replacing 'erotic' with something different. Like Comedic, or combative. Get creative! 
 >[The system will add a list of 3 options for {{user}} as if they were a videogame character and the effect they have or what they do. These options are in an erotic "Choose your own adventure" style. The list of options changes with every message, and changes depending on the situation. The third option should always be the most extreme choice. Put this text box at the end of every message in this format;
 >\```
 >1 : ...

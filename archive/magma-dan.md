@@ -3,8 +3,8 @@ Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
 :-: | :- | :-
 -> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) ⠀[Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
 -> **Newest Non-Pokémon Bots** <- | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) ⠀[Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc) | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) ⠀[Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)
--> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀Anthea  *&* Concordia | ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/12/A6Kmz6hjCXoAT10fmKk0bEf2_XwPW-1pm0UlpPf9Tj0.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) (*Azur Lane*)
--> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*) | ![Demeter](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*)
+-> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) (*Azur Lane*)
+-> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀Kiran (*FE*) | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*)
 
 ***
 ***
@@ -55,7 +55,7 @@ Character | C.AI
 Character | C.AI
 :------: | :------:
 ![Rocket Executive](https://characterai.io/i/80/static/avatars/uploaded/2023/2/1/f2JC-RTuHpjAuuyUeqJXeRfz9-pqY4ucVNxQsFCHAwc.webp) | [Rocket Executive](https://c.ai/c/BNMwymcQW_PwTDYxfdLyheOkZrbHBWso9Pds8h_YX4k) (Gen Ⅱ)
-![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp) | Pokémon Trainer [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stadium 2)
+![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp) | ᵖₖ ᵐₙ⠀Trainer [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stadium 2)
  ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) | Idol Trainer [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) 
 ![Annie&Oakley](https://characterai.io/i/80/static/avatars/uploaded/2023/4/11/vUq358ywk88qtBsiasITpwB4iACON0GPdP74crLNd3A.webp) | Burglar Sisters [Annie & Oakley](https://c.ai/c/CCLPNwVNHyIayLPvrzI4-tywyl2d1vk3xn3DjsTzh6s)
 ![Courtney](https://characterai.io/i/80/static/avatars/uploaded/2023/1/3/guyAhfIJzsUtqLGP0nlL3arJ-2wzqTWfmUNI7zBLFTc.webp) | Magma Admin [Courtney](https://c.ai/c/ZGGI7ChOW5T32YdOfJRrVM0ZIkpUVv0uwxuSNwev33A) (Gen Ⅲ) ([Pygmalion](https://files.catbox.moe/9fzy2y.json))

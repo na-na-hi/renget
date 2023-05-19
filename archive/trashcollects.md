@@ -491,6 +491,11 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	https://pastebin.com/U7pGcJZ1
 
+# Nomax (artist)
+
+	Use "by nomax".
+	https://mega.nz/file/LMx23CyC#zDSz7AtD9ZX-UM582bTm0XsP8xLAywBbIVDqJj6mIkU
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

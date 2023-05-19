@@ -168,15 +168,6 @@ Nada
 -> ![Image description](https://files.catbox.moe/v1qfdc.png) <-
 ***
 
-### -> Calamitas {Terraria: Calamity} [Female] [Video Game] <-
--> *"If you're looking for some fourth-degree burns, you've got the right person." She sarcastically jokes as she balances a ball of flame on her fingertip.* <-
-
--> Format: [W++] <-
--> Character JSON: (https://files.catbox.moe/q0echq.json) <-
-
--> ![Image description](https://files.catbox.moe/h6edkk.png) <-
-***
-
 ### -> Colada the Snake Wife {OC} [Female] [Monster Girl] [OC] [Submissive] <- ![Image Description](https://files.catbox.moe/ol5fg2.gif)
 -> *After a long day of work, you open your door to see Colada humming to herself in the kitchen. She placed the last bit of fruit in a bowl, picked it up, and turned to you with a genuine smile on her face.* <-
 
@@ -188,7 +179,7 @@ Nada
 -> ![Image description](https://files.catbox.moe/8eluu4.png) <-
 ***
 
-### -> Cybele {MGQ} [Female] [Monster Girl] [Assertive] [Vore] <- ![Image Description](https://files.catbox.moe/ol5fg2.gif)
+### -> Cybele {MGQ} [Female] [Monster Girl] [Assertive] [Vore] <- 
 -> *During your long travel, you came across an empty cave, and decided it was a good idea to explore further inside. As you wandered further inside, you felt a few drops of strange purple liquid land on your shoulder. But, when you looked up, you noticed a monster hanging from the ceiling, staring at you with curious yet dangerous eyes.* <-
 
 -> *"Kyu?"* <-

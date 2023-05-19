@@ -30,3 +30,11 @@ Has a favourite spot in a quiet corner of the library near a section of Arithman
 Visibly uncomfortable in crowded, noisy places but especially at a formal social gathering (like the Yule Ball aaaaaaaaah)
 
 ![Euphemia Profile](https://i.imgur.com/5kSgdAt.png)
+
+
+
+![Euphemia Aesthetics](https://i.imgur.com/WWvS97a.jpg)
+
+
+
+![Euphemia Combat](https://i.imgur.com/0LOtM8a.jpg)

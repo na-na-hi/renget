@@ -4,8 +4,7 @@
 
 ####What you'll need:
 ***
-* [**DBI 542**](https://github.com/rashevskyv/dbi/releases/latest)
-	* **DBI 563 has issues currently**
+* [**DBI**](https://github.com/rashevskyv/dbi/releases/latest/download/DBI.nro)
 * [**Android File Transfer** (MacOS Users Only)](https://www.android.com/filetransfer/)
 	* You will need this in order to to enable MTP functionality on MacOS.
 ####Steps:
