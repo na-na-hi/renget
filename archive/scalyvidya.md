@@ -9,6 +9,8 @@ Sharks and salamanders are not reptiles.
 
 [TOC]
 
+***
+
 ## Series
 At least 2-3 or so games each; we'll get them out of the way first. Largely unsorted.
 
@@ -41,10 +43,10 @@ The general has an [Argonian modding index](https://docs.google.com/spreadsheets
 ####Drakenguard
 **Features some hack 'n slash and aerial combat.**
 
-The gameplay in these are generally regarded to be bad, but they're also Yoko Taro games so they're also bizarre enough to be endearing in their own right. Some of the entries include dragon partners (Angelus in 1, Mikhail in 3) for the main characters. The Nier games are also related.
+The gameplay in these are generally regarded to be bad, but they're also Yoko Taro games so they're also bizarre enough to be endearing in their own right. The key entries include dragon partners for the main characters. The Nier series is also essentially connected.
 
 ####Gex
-**Mostly known for its two 3D platformers during 5th gen.**
+**Mostly known for a handful of 3D platformers during 5th gen.**
 
 Filled to the brim with TV and movie references of the time.
 
@@ -78,6 +80,8 @@ Most here may be familiar with Original Sin 2 and their lizardmen, including the
 
 The other quintessential action game series on this list, featuring a good share of draconic bosses and also transformations made accessible through given covenants the player may join . Though the latter isn't that practical, the first game at least had them fashionable while they want sandwiches in the third. DaS2 instead makes it a set of armor. This should probably get bumped down elsewhere but dragons are already prominent enough throughout the franchise somewhat.
 
+***
+
 ## Standalone
 Ideally these should be games where the /scaly/ part is very much relevant.
 
@@ -106,14 +110,11 @@ An interactive novel about a draak-kin's (feathered wyvern) life, from egg to ad
 Ventuswill is often revered on /scaly/, so it's only fair that her game goes on here. But it's been released on more platforms now and you STILL can't marry her, goddamn it.
 
 ####Dragalia Lost
-!!! danger Approaching End of Life.
-	The developers are scheduled to end releasing content by July 2022, after which then the end-of-service schedule will be apparent.
-Gacha game ventured between Nintendo and Cygames, some of the dragons are popular around these parts and the game has a transformation powerup mechanic involving them. However the latter actually cuts into DPS significantly in practice and was mostly used to tank damage, and the game also needs to cater to vanilla waifufags to presumably keep the lights on and someone also gave the dragons some humanoid forms, further defeating the point.
-
-/scaly/ also has an alliance within the game.
+!!! danger IT'S FUCKING DEAD
+Dragalia...Lost.
 
 ####ARK
-One of the more known OPEN WORLD SURVIVAL CRAFTING (and formerly) EARLY ACCESS but with dinosaurs, of which some can be tamed. Also has a more fantasy-themed DLC.
+One of the more known OPEN WORLD SURVIVAL CRAFTING (and formerly) EARLY ACCESS but with dinosaurs, of which some can be tamed. Also has a more fantasy-themed DLC. There is a good bit of infamy surrounding the game and its development (shit is very unoptimized and ridiculous in file size too), so take caution.
 
 ####Drakan
 A dragon rider game, with Arokh assisting the player in the air and sometimes ground.
@@ -130,6 +131,8 @@ It's a competitive dragon rider game that happens to be free-to-play. As a resul
 ####I of the Dragon
 A dragon game hailing from around 2004.
 
+***
+
 ##Browser / Flash
 In-browser and Flash games that are a lot more compact than the above, but **aren't pornographic.** Look a bit further down for that.
 
@@ -142,6 +145,8 @@ A former flavor of the month the internet made porn of for a bit, you try to mak
 ####[Flight Rising](https://www1.flightrising.com/)
 Browser game about breeding dragons, that has at least one anon in the general still playing or keeping tabs on it.
 
+***
+
 ## Lewd
 !!! warning
 	This section could use some expansion. There are very likely plenty of these by now that are better than these offerings.
@@ -153,8 +158,9 @@ It's a text adventure game where you go through the hardships of being a kobold.
 Coming in both single player and even MUD forms, both are text adventures sharing the premise of the furry apocalypse happening, where defeat in combat, items, and certain scenes can transform the player. There are a few reptilian transformations as with some NPCs. Still under development, the Godot build appears to be a different game entirely.
 
 ####[Grove](https://grovedevelopment.itch.io/groverpgnsfw)
-A gay-oriented RPG Maker game with a humanoid dragon protagonist and some of his kin exploring cursed as fuck lands, with corruption as an overarching theme. Still under development, but reaching the end of story content at least unlocks a gallery for you to see bad end content without needing to throw battles.
+A gay-oriented RPG Maker game with a humanoid dragon protagonist and some of his kin exploring cursed as fuck lands, with corruption being the overarching theme. Still under development, but reaching the end of story content for a given build at least unlocks a gallery for you to see bad end content without needing to throw battles constantly.
 
+***
 
 ## Character Creators or Mods
 This is for anything with powerful enough player character editing or has any notable mods, but bears little relevance to /scaly/ in literally any other way.
@@ -163,23 +169,41 @@ This is for anything with powerful enough player character editing or has any no
 A GZDoom gameplay mod that can be ran with most Doom WADs, the player character is an overpowered, anthropomorphic dragon who uses both guns and magic in tandem, also able to fly freely. Created by the Russian Overkill dev, the overall quality of the mod is also very high despite the premise, but it's also very overtuned in strength on purpose as a result.
 
 ####Second Life
-Still somehow kicking almost 20 years later despite having a shitty engine, basically anything /scaly/ should be possible to make as an avatar, be it bipedal or quadruped. The catch is that SL works on an economy; you'll likely have to fork up money or somehow get enough lindens from someone since any good avatar isn't free, and some specific knowhow may also be required to achieve given results if you don't buy a holistic avatar. If you've had any experience with modding Bethesda games - what with body mods and needing clothing meshes that fit them, it's sort of similar but with everything behind microtransactions.
+Still somehow kicking for over 20 years later despite having a shitty engine, basically anything /scaly/ should be possible to make as an avatar, be it bipedal or quadruped. The catch is that SL works on an economy; you'll likely have to fork up money, grind some minigames, go soliciting, or somehow get enough lindens from someone since any good avatar isn't free, and some specific knowhow may also be required to achieve given results if you don't buy a holistic avatar. If you've had any experience with modding Bethesda games - what with body mods and needing clothing meshes that fit them, it's sort of similar but with nearly everything behind microtransactions.
 
-Obviously it is also up to you on what you will actually do with your avatar afterwards. 
+Obviously, it is also up to you on what you will actually do with your avatar afterwards. 
 
-As there are multiple third-party clients available, [Firestorm](https://www.firestormviewer.org/) is typically recommended for general use but others do at least have other niches. If you are doing degenerate things, it does have RLV built-in as well.
+As there are multiple third-party clients available, [Firestorm](https://www.firestormviewer.org/) is typically recommended for general use but others do at least have other niches. If you are doing degenerate things, it does have RLVa built-in as well, an API that allows.
 
-####VRchat, NeosVR, etc
-Seriously nigger? You can pretty much just use any model properly rigged for these. [You can even *be* the Tama!](https://arcticmoray.gumroad.com/l/mizmiz)
+####VR Sims (VRChat, NeosVR)
+You can pretty much just use any model properly configured for these, but generally speaking you'll likely be stuck with anthropomorphic avatars (that may or may not have digitigrade legs). There's plenty of decent avatars and sometimes free, lesser versions of paid stuff are also around, which do typically have better support. Typically, these are often sold on Gumroad, and come with .blend files, pre-setup Unity Projects for VRChat, and Substance Painter files for making your own textures. There's a bit more of an upfront cost and these are more complicated, but unlike SL you at least own the files and can pretty much do nearly anything you want with them.
+
+Neos on the other hand can accept .obj and .fbx models with a literal drag and drop, but avatar setup ***requires*** a good amount of proper in-world configuration and opening Unity projects may still be the only means to get all the loose textures and maybe other assets required.
+
+#####Avatars
+
+!!! warning
+	This is not an exhaustive list of paid avatars that fit under the scaly umbrella. A website named VRCArena indexes a lot of avatars but is also somewhat lacking in quality control.
+
+- The [Nardoragon](https://nardoiri.gumroad.com/l/Nardoragon) is a fairly soft-looking anthro that while isn't too malleable in proportions, has a *shitload* of third-party support compared to the rest.
+	- Someone else made a [robot variant](https://drakiousderg.gumroad.com/l/RoboNardoragon).
+- [Nicroreda](https://nicoreda.gumroad.com/) sells the Kobodal and the more eastern-like Dergodal. A chibified version of the former is available for free on Neos and presumably VRC.
+- The [Drachetype](https://agitype01.gumroad.com/l/bplda) is essentially Synths, Digimon, and PSO2 Casts all in one mecha-dragon look.
+- There's some Synth avatars.
+- The [Draconian](https://alber.gumroad.com/l/Draconian) is essentially a buff anthro dragon, although the creator's other avatars are much more popular.
+- [You can even *be* the Tama.](https://arcticmoray.gumroad.com/l/mizmiz) Several other odd Monster Hunter avatars also exist.
+- Someone provides [mods](https://morghus.gumroad.com) to convert some dragon avatars into wyverns.
 
 ####Phantasy Star Online 2
-!!! danger *New Genesis* in itself in a rough spot as far as the actual game goes by Sega trying to do open world shit, while base *PSO2* itself has minimal support since it more or less finished.
-Arguably has the best character editor in a game without access to user-made assets (compared to the above two); creative use of accessories can accomplish a ton of things, yielding a reptilian/draconic appearance isn't that hard but this is still a service game, so this may involve needing to build up a collection over a sizeable amount of time for desired results. Playing as a CAST can be an easier way out of accomplishing this with cybernetic-looking parts. If you're skeptical, artist [agitype01](https://twitter.com/agitype01/status/1481838081217302528?t=8UA-S2FX4-jiD9a4uvnWJg&s=19) has a knack for figuring out scaly/furry getups within PSO2.
+!!! danger *New Genesis* in itself is fairly dubious in quality as far as the actual game goes by Sega trying to do open world shit, while base *PSO2* despite having a lot itself - has incredibly minimal support since it more or less finished.
+Arguably has the best character editor in a game without access to user-made assets (compared to the above two); creative use of accessories can accomplish a ton of things, yielding a reptilian/draconic appearance isn't that hard but this is still a service game, so this may involve needing to build up a collection over a sizeable amount of time for desired results.
 
-The original PSO2 features draconic mobs and characters from a planet named Amduskia, where they play a largely minor role but come back for some relevance in the final episode. Strangely, most of its boss-type enemies have female voiceovers for their rarer counterparts.
+Playing as a CAST can be an easier way out of accomplishing this with cybernetic-looking parts if you can dig mecha looks. Artist [agitype01](https://twitter.com/agitype01/status/1481838081217302528?t=8UA-S2FX4-jiD9a4uvnWJg&s=19) not only has a knack for figuring out scaly/furry getups within PSO2, but he also won an accessory design contest with the [Crestadraga mask](https://www.bumped.org/phantasy/wp-content/uploads/2022/05/icon_accessory_6920.png) which for the time being is only available to buy off other players in NGS.
+
+The original PSO2 features draconic mobs and characters from a planet named Amduskia, where they play a largely minor role but come back for some relevance in the final episode. Strangely, most of its boss-type enemies have female voiceovers for their rarer counterparts. The only cosmetic based on their appearance is a player-designed costume.
 
 
 ##Honorable Mentions?
 Maybe this can be a section for games that contain scaly characters or critters worth mentioning, playable or not, but don't really fit elsewhere. However there can be a lot of 'token scaly' characters or races out there (ie Sorlag in QC, Goris in FO2, or XCOM 2 vipers) and this could be long. The editor will see if there's demand for it, possibly a section for relevant playable factions (ie in 4X games or RTS or whatever) could work too.
 
-Stuff like MTX will probably just be left out on the whole since I don't think anyone here would really care about paying money to have a pet dragon follow you around in Path of Exile or something else gay like that.
+Stuff like MTX will probably just be left out on the whole since anyone here wouldn't really care about paying money to have a pet dragon follow you around in Path of Exile or something else gay like that.

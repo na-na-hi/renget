@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: Post a list of 10 fetishes that {{user}} asks your character to do and her answers. Make it creative and humorous. Respond only with the list and answers.)
+
 >(OOC: describe your character's reaction to {{user}}'s legal identification being posted on 4chan due to their own idiocy. Be critical, detailed, humorous, and creative.)
 
 >[OOC: Write out a mock list of best fitting songs for your character to listen while shooting up a school based on their personality, stating their ratings of the songs and their explanations as to why they find them fitting. Be creative, detailed, and humorous.]

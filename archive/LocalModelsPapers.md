@@ -24,6 +24,7 @@
 05/2023|[PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
 05/2023|[Towards Expert-Level Medical Question Answering with Large Language Models (Med-Palm 2)](https://arxiv.org/abs/2305.09617)
+05/2023|[DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/abs/2305.10429)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -186,6 +187,7 @@
 05/2023|[Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
 05/2023|[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
 05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.0913)
+05/2023|[Accelerating Transformer Inference for Translation via Parallel Decoding](https://arxiv.org/abs/2305.10427)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

@@ -97,9 +97,9 @@ Model | Type | Download
 13B Pygmalion GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/notstoic/pygmalion-13b-ggml/tree/main)
 13B Metharme GGML | CPU | [Q4_1, Q5_1, Q8](https://huggingface.co/TehVenom/Metharme-13b-GGML/tree/main)
 13B Pygmalion | GPU | [Q4 CUDA 128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
-13B Metharme | GPU |  Not yet
+13B Metharme | GPU | [Q4 CUDA 128g](https://huggingface.co/TehVenom/Metharme-13b-4bit-GPTQ)
 
-## VicUnLocked 30B
+## VicUnLocked 30B (05/18/2023)
 !!! info
 
 	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed.	There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
@@ -259,6 +259,51 @@ Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
 30B GGML  | CPU | [Q4_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q4_1), [Q5_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
 30B | GPU | [Q4 CUDA](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [Q4 CUDA 128g](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
+
+# Dataset Formats
+
+
+#### Alpaca
+
+`Below is an instruction that describes a task. Write a response that appropriately completes the request.`
+
+`### Instruction:`
+`Input`
+
+`### Response:`
+
+#### Alpaca (with input)
+
+`Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.`
+
+`### Instruction:`
+`Instruction`
+
+`### Input:`
+`Input`
+
+`### Response:`
+
+#### Metharme
+
+`<|system|>This is a text adventure game. Describe the scenario to the user and give him three options to pick from on each turn.<|user|>Input<|model|>`
+
+#### OpenAssistant
+
+`<|prompter|>Input<|endoftext|><|assistant|>`
+
+#### Vicuna 1.1
+
+`A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.`
+
+`USER: Input`
+`ASSISTANT:`
+
+#### WizardLM
+
+`Input`
+
+`### Response:`
 
 ## Previous Model List
 !!! info
