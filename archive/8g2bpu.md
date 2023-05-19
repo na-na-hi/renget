@@ -1,4 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
+
+ "Poker night at the inventory" with pokemons
+
 Lliam shipping guildmembers 
 
 Chespin and Wooper cuddling in bed (no homo)

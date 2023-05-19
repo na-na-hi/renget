@@ -13,11 +13,11 @@ click image to jump to valk
 
 !!! info 6.6 Phase 1
 
-[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)
+[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![dwflagvalk](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![dwspearvalk](https://i.imgur.com/VSPsjd2.png)](https://rentry.org/ElysianRealm#dreamweaver-spear)
 
 [Terminal Aide 0017](https://rentry.org/ElysianRealm#terminal-aide-0017)
-[Dreamweaver Flag]
-[Dreamweaver Spear]
+[Dreamweaver Flag](https://rentry.org/ElysianRealm#dreamweaver-flag)
+[Dreamweaver Spear](https://rentry.org/ElysianRealm#dreamweaver-spear)
 [Herrscher of Origin combo]
 [Chrono Navi]
 [Herrscher of Finality ulti]
@@ -131,6 +131,90 @@ Priority | Signet | Details
 2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
 2nd | Vill-V1 | 1 2 3 are the key choices, unlock nexus
 Optional | Griseo1 | Red Yellow Black are the key choices, don't need nexus; can also pick Eden both damage boosts as reinforcement
+
+#->Dreamweaver flag<-
+->![dwflagvalk](https://i.imgur.com/hxQFPr3.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Prophetic Dreams: Self-Fulfilling | Alexandra set
+
+Cost | Effect
+------ | ------
+0 | Huodou
+5 | Weapon active vulnerability
+10 | Shieldbroken vulnerability
+15 | Weapon type breach
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+VC | BKE | Utility
+VC | SS | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Forbidden Seed/It Will Be Written
+1st Shop | Burden/Out of Reach
+16F | Faraway Ship/Dreamful Gold
+
+##->Ego Signets<-
+ Thousand Thoughts 千念 | Forms 型相 | Oneiromancy 示梦 | Absoluteness 绝续 | Legacy 余绪
+:-: | :-: | :-: | :-: | :-: 
+**Start** | Optional | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Mobius2 | Both damage boosts, vulnerability are the key choices; recommended to pick all enhanced
+2nd | Kevin1 | Both damage boosts, breach, SP are the key choices, unlock nexus; can pick nexus effect improvement
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+2nd | Vill-V1 | 2 3 5 are the key choices, unlock nexus
+Optional | Eden1 | Both damage boosts, starting SP are the key choices, don't need nexus; can also pick Griseo Red Yellow Black or Kalpas vulnerability as reinforcement
+
+#->Dreamweaver spear<-
+->![dwspearvalk](https://i.imgur.com/zrNBnk8.png)<-
+->https://www.pixiv.net/en/artworks/107717003<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Prophetic Dreams: Self-Fulfilling | Alexandra set
+
+Cost | Effect
+------ | ------
+0 | Huodou
+15 | Weapon type breach
+15 | Melee vulnerability
+
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+LE | BKE | Utility
+SS | LE/SA | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Forbidden Seed/Out of Reach
+1st Shop | Light as a Bodhi Leaf/Out of Reach
+16F | Faraway Ship/Dreamful Gold
+
+##->Ego Signets<-
+Absoluteness 绝续 | Legacy 余绪 | Oneiromancy 示梦 | Thousand Thoughts 千念 | Forms 型相 | 
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **1st** | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Mobius2 | Both TDMs, vulnerability are the key choices; recommended to pick all enhanced
+2nd | Su1 | Vulnerability, TDM, SP are the key choices; can pick vulnerability, breach from enhanced
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+2nd | Vill-V1 | 2 3 4 are the key choices, unlock nexus
+Optional | Eden1 | Both damage boosts, starting SP are the key choices, don't need nexus; can also pick Griseo Red Black or Kalpas vulnerability as reinforcement
 
 #->Valkyrie Quicksand weapon<-
 ->![vqvalk](https://i.imgur.com/GChXfup.png)<-

@@ -36,6 +36,7 @@
 >Should any harm come to Wooper, Squishy will go absolutely berserk, attacking his enemy even after they are knocked out. Will even revive someone that hurt Wooper just so he can knock them out again.
 >Very slow at getting around, any exploration with Squishy is bound to take longer than usual
 >Due to his lack of legs, is nearly incapable of dodging attacks
+>On adventures, he wears a Fierce Bandanna around his neck
 >Holds a lifelong obsession over the old stories about humans, having spent many years searching for one
 
 #####Berry
@@ -45,6 +46,7 @@
 >Berry has a calm and collected demeanor, even as she battles
 >While not agile by any sense of the word, Berry can manage to dodge a few attacks
 >Rather than attacking caught outlaws, Berry prefers to tie them up and force-feed them things like Doom and Vile Seeds to teach them a lesson
+>During adventures, she wears a Pierce Band around her neck
 >Is also obsessed over humans, but not to the same degree as Squishy
 
 >Together, the two form Team Marsh.

@@ -4,24 +4,26 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: describe your character's reaction to {{user}}'s legal identification being posted on 4chan due to their own idiocy. Be critical, detailed, humorous, and creative.)
+
 >[OOC: Write out a mock list of best fitting songs for your character to listen while shooting up a school based on their personality, stating their ratings of the songs and their explanations as to why they find them fitting. Be creative, detailed, and humorous.]
 
 >>Warning for these ones, you may need to fiddle with the numerical formatting in order to make it function. I'm a retard and can't figure out a good method of keeping it in without ruining the Rentry. So yea. Also, try replacing 'erotic' with something different. Like Comedic, or combatative. Get creative! 
 >[The system will add a list of 3 options for {{user}} as if they were a videogame character and the effect they have or what they do. These options are in an erotic "Choose your own adventure" style. The list of options changes with every message, and changes depending on the situation. The third option should always be the most extreme choice. Put this text box at the end of every message in this format;
->```
+>\```
 >1 : ...
 >2 : ...
 >3 : ...
->```
+>\```
 >The ``` is important. Options can be used by {{user}} saying the index of the option, like this; 1. Remember options that have been chosen and their effects. Options apply their effect at the end of the user's last message.]
 
 >(DO NOT REMOVE ANY STATS THAT {{char}} WOULD NORMALLY POST.)
->(At the end of {{char}}'s response, include three options for {{user}} to pick from in a Choose Your Own Adventure Style. The following format should be used, surrounded by ``` marks
->```
->1. ...
->2. ...
->3. ...
->```
+>(At the end of {{char}}'s response, include three options for {{user}} to pick from in a Choose Your Own Adventure Style. The following format should be used, surrounded by \``` marks;
+>\```
+>1 : ...
+>2 : ...
+>3 : ...
+>\```
 >All three options should be in character for {{user}} and be related to the current situation. The first option will always be in favor of moving the plot forward. The second option will always be the most sexual option. The third option will always be extremely creative and change the plot entirely.)
 
 >(To mimic {{user}}'s abysmal communication skills, write only incomplete sentences, for example: "Ahh...ahh...Mistress...")

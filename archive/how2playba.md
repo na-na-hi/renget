@@ -161,7 +161,7 @@ The 'best' units are the ones with a high score, but be aware that BA is a game 
 Make sure to read the extra notes on the right as well. 
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
-You get the biggest return on investment (ROI) by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills. 
+You get the biggest return on investment by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills.
 
 Early on you prioritise: Levels > Gear > Skills
 
@@ -234,6 +234,8 @@ With a well timed CC you can cancel the rangers' special ability, so if you star
 Always try to go for the highest tier you can clear. It drops lower tier mats as well, so there's no reason to farm a lower level.
 You won't lose a ticket if you retreat, so you have infinite retries. 
 
+>Which bounty area do I sweep? (JP only) 
+If you need to ask, distribute ur tickets evenly. 
 
 >What do I get from the Bounty shop?
 See [the shop section](https://rentry.org/how2playba#shop). 

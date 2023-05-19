@@ -186,6 +186,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A New World (ft. Not Chespin)](https://rentry.org/sm6dx)
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
+	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -369,6 +370,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 * [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
 * [Ross Sleeps...?](https://rentry.org/opi29)
+* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)

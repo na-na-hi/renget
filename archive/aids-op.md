@@ -1,17 +1,16 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/8zjay0.webm)
-https://files.catbox.moe/8zjay0.webm
-Bated Edition
+![suggested OP image](https://imgur.com/OFIswFc.png)
+The Long Wait Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>430106363
+Last thread: >>430248110
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
 ▶Ways to Write
 NovelAI — Paid; remote SaaS: https://novelai.net
 KoboldAI — Free; local or remote colab: https://koboldai.org / https://koboldai.org/colab
-KoboldAI Horde — Free; remote generations from other model hosts: https://lite.koboldai.net
+KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
 Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
 LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
 Saga  — Free; remote, use J2 model https://saga3.vercel.app
@@ -32,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/17) NAI announces announcements https://blog.novelai.net/text-model-progress-is-going-good-82a94855445e
+\>(05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
+(05/17) NAI announces announcements https://blog.novelai.net/text-model-progress-is-going-good-82a94855445e
 (05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
-(05/10) Colabchads, it's over? >>429365520 ; Saga juices freeform mode >>429377904 >>429381085
-(05/09) AI Roguelite gets harder (easier): https://i.imgur.com/iK0dgOx.jpg
+(05/10) Colabchads, it's over? >>429365520 ; Saga juices freeform >>429377904 >>429381085
 (05/02) Slaude Tavern guide (use at own risk https://i.imgur.com/gT7b4W1.jpg) https://rentry.org/aids-tavern
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Theme suggestions for next week are being voted on! https://youpoll.me/101951
+\>Create cards for next week's theme: Catgirl Friday! >>430340451
 
 
 ##Perma-Template

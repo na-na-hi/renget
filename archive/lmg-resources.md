@@ -1,5 +1,5 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.53 | Helped Making Waifus Real Since 2023* <-
+->*V 6.54 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
@@ -7,7 +7,7 @@
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
 !!! note Rentry Updates: Week 3 of May, 2023
-     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, Vicuna (LlaMA), Opan Assistant (Oasst-LlaMA), WizardLM (LlaMA), SuperCOT (LlaMA), BluemoonRP (LlaMA), "Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets") // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
+     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, ~~Vicuna (LlaMA)~~, ~~Opan Assistant (Oasst-LlaMA)~~, ~~WizardLM (LlaMA)~~, ~~SuperCOT (LlaMA)~~, ~~BluemoonRP (LlaMA)~~, "Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets") // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
 
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
@@ -101,7 +101,7 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 
 ***
 ##->General Resources / Guides for Large Language Models (LLM) & Datasets<-
-!!! info Tag Information || Last Updated: May 16th, 2023
+!!! info Tag Information || Last Updated: May 19th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project
@@ -145,7 +145,7 @@ Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Ad
 ####Vicuna (LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
-[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna) `⇲LlaMA` | Multiple Universities | Uni. Project | ... | ◕ Ŏ/⌀ Ĩ
+[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna) `⇲LlaMA` | Multiple Universities | Uni. Project | Finetuned LLaMA model with ShareGPT dataset. | ◕ Ŏ/⌀ Ĩ
 [LlaVA](https://llava-vl.github.io) | Multiple Uni's, [Microsoft](https://github.com/microsoft) | `GH` Repository | Visual Instruction Tune. | ◕ Ŏ Ĩ $
 [legacy ggml vicuna 13b 4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-13b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ
 [legacy ggml vicuna 7b 4bit](https://huggingface.co/eachadea/legacy-ggml-vicuna-7b-4bit) | [Eachadea](https://huggingface.co/eachadea) | `HF` Trained Model | ==GGML(OLD) Quant.== | ○ Ŏ

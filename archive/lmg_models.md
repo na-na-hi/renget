@@ -5,10 +5,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-19-2023] - Added Pyg & Meth 13B
 [05-18-2023] - Added VicUnlocked-30B
 [05-16-2023] - Removed old CPU quantizations and started adding re-quantized models, added Wizard Mega
 [05-10-2023] - Added WizardLM 13B Uncensored
-[05-07-2023] - Added Vicuna 13B Cocktail, bluemoonrp-13b & AlpacaDente2
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -83,13 +83,26 @@ Model | Type | Download
 
 # Models/Finetunes/LoRA's
 
+## Pygmalion/Metharme 13B (05/19/2023)
+!!! info
+
+	Pygmalion 13B is a dialogue model that uses LLaMA-13B as a base. The dataset includes RP/ERP content. Metharme 13B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
+
+	>Type: Roleplay (Pyg), Roleplay Instruct (Meth)
+	>Filtering: None
+
+Model | Type | Download
+--- | --- | ---
+13B Pygmalion/Metharme XOR | XOR | https://huggingface.co/PygmalionAI/
+13B Pygmalion GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/notstoic/pygmalion-13b-ggml/tree/main)
+13B Metharme GGML | CPU | [Q4_1, Q5_1, Q8](https://huggingface.co/TehVenom/Metharme-13b-GGML/tree/main)
+13B Pygmalion | GPU | [Q4 CUDA 128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
+13B Metharme | GPU |  Not yet
 
 ## VicUnLocked 30B
 !!! info
 
-	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed. The CUDA version is currently being converted/uploaded , will add the link when it turns up.
-
-	There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
+	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed.	There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
 
 	>Type: Instruct
 	>Filtering: Light
@@ -98,9 +111,7 @@ Model | Type | Download
 --- | --- | ---
 LoRA | LoRA | [HF Link](https://huggingface.co/Neko-Institute-of-Science/VicUnLocked-30b-LoRA)
 30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GGML)
-30B | GPU | [Q4 Triton](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ)
-
-
+30B | GPU | [Q4 Triton](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ), [Q4 CUDA](https://huggingface.co/QMB15/VicUnlocked-30B-gptq-cuda)
 
 ## Wizard Mega 13B (05/16/2023)
 !!! info
@@ -113,7 +124,7 @@ LoRA | LoRA | [HF Link](https://huggingface.co/Neko-Institute-of-Science/VicUnLo
 Model | Type | Download
 --- | --- | ---
 13B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)
-13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/TheBloke/wizard-mega-13B-GPTQ)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/TheBloke/wizard-mega-13B-GPTQ)
 
 ## WizardLM 13B Uncensored (05/10/2023)
 !!! info
@@ -128,7 +139,7 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 13B GGML | CPU | [Q4, Q5, Q8](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)
-13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g)
 
 
 ## BluemoonRP 13B (05/07/2023)
@@ -142,7 +153,7 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 13B GGML | CPU | [Q5](https://huggingface.co/reeducator/bluemoonrp-13b)
-13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/reeducator/bluemoonrp-13b)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/reeducator/bluemoonrp-13b)
 
 ## Vicuna 13B Cocktail (05/07/2023)
 !!! info
@@ -160,7 +171,7 @@ Model | Type | Download
 ## GPT4-x-AlpacaDente2-30B (05/05/2023)
 !!! info
 
-	ChanSung's Alpaca-LoRA-30B-elina merged with Open Assistant's second Finetune. Testing in progress.
+	ChanSung's Alpaca-LoRA-30B-elina merged with Open Assistant's second Finetune.
 
 	>Type: Instruct
 	>Filtering: Medium
@@ -184,14 +195,12 @@ https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit
 Model | Type | Download
 --- | --- | ---
 13B GGML | CPU | [Q5, f16](https://huggingface.co/reeducator/vicuna-13b-free)
-13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/reeducator/vicuna-13b-free)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/reeducator/vicuna-13b-free)
 
 ## Pygmalion/Metharme 7B (04/30/2023)
 !!! info
 
 	Pygmalion 7B is a dialogue model that uses LLaMA-7B as a base. The dataset includes RP/ERP content. Metharme 7B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
-
-	PygmalionAI intend to use the same dataset on the higher parameter LLaMA models. No ETA as of yet.
 
 	>Type: Roleplay (Pyg), Roleplay Instruct (Meth)
 	>Filtering: None
@@ -201,7 +210,7 @@ Model | Type | Download
 7B Pygmalion/Metharme XOR | XOR | https://huggingface.co/PygmalionAI/
 7B Pygmalion GGML | CPU | [Q4_3](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q4_3), [Q5_0](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q5_0), [Q5_1](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q5_1), [Q8](https://huggingface.co/xzuyn/Pygmalion-V3-6B-ggml-q8_0)
 7B Metharme GGML | CPU | [Q4_1](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q4_1), [Q5_1](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1), [Q8](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q8_0), [f32](https://huggingface.co/waifu-workshop/metharme-7b-ggml-f32)
-7B Pygmalion | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors), [Q4 CUDA 128gs](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda)
+7B Pygmalion | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors), [Q4 CUDA 128g](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda)
 7B Metharme | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Metharme-7b-4bit-GPTQ-Safetensors), [Q4 CUDA](https://huggingface.co/askmyteapot/metharme)
 
 ## GPT4-X-Alpasta 30B (04/29/2023)
@@ -217,7 +226,7 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 30B GGML | CPU | [Q4_0](https://huggingface.co/spanielrassler/GPT4-X-Alpasta-30b-ggml)
-30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128gs](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
+30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128g](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
 
 ## OpenAssistant LLaMa 30B SFT 7  (04/23/2023)
 !!! info
@@ -231,7 +240,7 @@ Model | Type | Download
 --- | --- | ---
 30B XOR | XOR | https://huggingface.co/OpenAssistant/oasst-sft-7-llama-30b-xor
 30B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/OpenAssistant-SFT-7-Llama-30B-GGML)
-30B | GPU | [Q4 CUDA](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [Q4 CUDA 128gs](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
+30B | GPU | [Q4 CUDA](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [Q4 CUDA 128g](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
 
 ## SuperCOT (04/22/2023)
 !!! info
@@ -248,8 +257,8 @@ Model | Type | Download
 Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
 13B GGML | CPU | [Q5_0](https://huggingface.co/xzuyn/Alpacino-SuperCOT-13B-ggml-q5_0), [f16](https://huggingface.co/camelids/llama-13b-supercot-ggml-f16)
 30B GGML  | CPU | [Q4_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q4_1), [Q5_1](https://huggingface.co/camelids/llama-33b-supercot-ggml-q5_1)
-13B | GPU | [Q4 CUDA 128gs](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
-30B | GPU | [Q4 CUDA](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [Q4 CUDA 128gs](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
+30B | GPU | [Q4 CUDA](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [Q4 CUDA 128g](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
 
 ## Previous Model List
 !!! info

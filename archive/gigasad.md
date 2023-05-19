@@ -1,10 +1,10 @@
 Gigasad's bots
 
-Characters marked with a * are ones I know have been converted by other users. Thanks to anyone who went to the trouble. 
+Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru or characterhub, so if you see something of mine reuploaded there it will be someone else's conversion, or an edit. 
 
-Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get.
+Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get. I'd prefer to focus on making new original characters, but I'm not against doing official ports of old CAI bots if they're specifically requested and haven't been converted yet.
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are.
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are. 
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
@@ -70,7 +70,7 @@ First bot. Made as an experiment to see how mean and rude bots were allowed to g
 Mean Lady Nadine**
 https://files.catbox.moe/pm73bl.png
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
-Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
+My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
 
 Miss Pepper*
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro
