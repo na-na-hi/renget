@@ -18,6 +18,11 @@ _______
 
 ___________________________________
 
+#### Valkyrie Connect collab voice lines
+https://catbox.moe/c/ncz7dd
+___________________________________
+
+
 #### HoloFightZ section
 ---
 | Show | Matches & Opponents |

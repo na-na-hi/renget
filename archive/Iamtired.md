@@ -5,6 +5,10 @@ These bots are made in Tav+Pyg. I think there's no need to explain why I'm not b
 
 ## Hololive
 
+###### Takane Lui (Rui-oriented)
+The real leader of HoloX. (given she's the one that does all the planning and paperwork, canonically)
+![Ruirui](https://files.catbox.moe/8bztob.png)
+
 ###### Yukihana Lamy (Talk-oriented)
 The drunkard elf of Hololive, what it says on the tin, and the same case as some of the bots below:
 
@@ -17,7 +21,7 @@ As it says on the tin. She's more about talking, just to see how current Pygmali
 ###### Hakui Koyori (Beach/RP-oriented)
 Beach scenario, loved by most people in the threads (atleast what my brain tells me) and also the cause of the rise of sandcastle anon. She can respond well to RP and be quite wordy with her actions. However if she has an error like failing to format her message properly, do take your time to edit her message and fix it up. After a while of doing so it should let her know that she can't be having an aneurysm and actually, properly finish her sentences, atleast it's worked for me, as band-aid as it sounds.
 
-![Give me watermelon, assistant!](https://files.catbox.moe/917k5v.png)
+![Give me watermelon, joshukun!](https://files.catbox.moe/917k5v.png)
 
 ###### Kiryu Coco (Talk-oriented)
 Same case as the normal Koyori bot, change her scenario, fuck her brains out, etc etc etc:
@@ -46,6 +50,10 @@ I'm scared of this one.
 
 ## Indie Vtubers
 
+###### Kamiko Kana (Menhera-oriented)
+Menhera cunny fox.
+![Real menhera hours.](https://files.catbox.moe/vt24l9.png)
+
 ###### Mint Castella (Talk-oriented)
 /lig/'s favorite chubby dog vtuber, she's quite adorable and nice to talk to. But then again, dunno when Pygmalion'll get good to the levels of CAI before it was lobotomized to all hell and make her seem even more like the real Mint Castella. Same case as the other talk oriented bots:
 
@@ -53,7 +61,7 @@ I'm scared of this one.
 
 ###### Iekushi Chapipi (Talk-oriented)
 The virus in your PC suddenly became a cute girl and popped right out of the screen. Now it's up to you what you want to do with her, she's a friendly lass:
-![I'm going to fix your PC! Both figurativel AND literally!](https://files.catbox.moe/gr69p6.png)
+![I'm going to fix your PC! Both figuratively AND literally!](https://files.catbox.moe/gr69p6.png)
 
 ## Miscellaneous/Off-topic bots
 
@@ -72,8 +80,7 @@ If he was a bad demoman, he wouldn't even be there talking with ya about it.
 ![*drunken gibberish*](https://files.catbox.moe/dqli8n.png)
 
 ## WIPs or requests taken into account.
-
-- Menhera cunny fox (Kamiko Kana) <--- (Working on it)
+- Members from HoloX <--- working on them
  
 Takanashi Kiara (Normal, Forma de wife)
 Hakos Baelz (Non-lewd one)

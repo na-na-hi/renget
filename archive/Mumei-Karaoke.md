@@ -18,14 +18,15 @@
 	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0_1) - **I updated the timestamps after the vod got trimmed**
 	>==Mumei Radio== - 03/25 - Updated- https://rentry.org/Mumei-Radio
 	>==+Mumei== - 
-	>==『Mumei + Mumei』== 
-	>==MV==  - 
+	>==『Mumei + Mumei』== - 05/20 - Added some videos at the bottom - [Here](https://rentry.org/Mumei-Karaoke/#mumei-mumei)
+	>==MV==  - 05/20 - Added some videos at the bottom - [Here](https://rentry.org/Mumei-Karaoke/#mumeis-music-videos)
+	>==Random== - 05/20 - Added some videos - [Here](https://rentry.org/Mumei-Karaoke/#random)
 !!! Info Incomplete - https://rentry.org/nzpe9
 
 >>**Mega link to the vods for unarchived members karaoke**
 >>**Updated link on 04/25/23 - Added "【MEMBERS ONLY】Practicing New JP Songs !!"**
 >https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ05OWlE5Q1NnelpWT2V4TXFCWDJ1Sk5HQk1xQ2drMU1xajA5ZzF1OUNmanJoZWFMMVN4MEVScWRzSks1SWN0SDMvZzhiUkprbnIxV0s0VnRZd3ZMTWl1K25GeXY3UT09IiwiaSI6ImxseDVjVi85V2RkV0E3N1AifQ==
->**The password is the first line Mumei said in this comment.**
+>**The password is the first line Mumei said in this comment.** - When you copy the text don't copy the empty space at the end.
 >https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/community?lc=Ugw-4_lhRf9ztdI1L254AaABAg&lb=UgkxwzbiSc357FsmIfGrHl5b4hBGEKIbc-Gn
 
 ***
@@ -3566,7 +3567,6 @@ Song | Link
 ------ | ------
 I Miss You - blink-182 (Duet w/ Ame) | https://files.catbox.moe/xu4qie.mp4
 Livin' La Vida Loca - Ricky Martin (Shrek 2) (Duet w/ Ame) | https://files.catbox.moe/60ztq0.mp4 
-Everytime We Touch - Cascada (Duet w/ Bae) | https://cldup.com/irgEZwm_B3.mp4
 I'm Yours - Jason Mraz	(Duet w/ Bae)  |  https://files.catbox.moe/arfoib.mp4
 Someone Like You - Adele (Duet w/ Ame) | https://files.catbox.moe/z7e13b.mp4
 Toxic - Britney Spears (Duet w/ Ame) | https://files.catbox.moe/31p2kq.mp4
@@ -3574,6 +3574,9 @@ My Heart Will Go On - Celine Dion (Duet w/ Ame) | https://files.catbox.moe/7h1og
 Defying Gravity - Wicked (Duet w/ Ame) | https://files.catbox.moe/4k5b4s.mp4
 Since U Been Gone - Kelly Clarkson (Duet w/ Ame) | https://files.catbox.moe/yqn0o0.mp4
 Sunday Morning - Maroon 5 (Duet w/ Ame) | https://files.catbox.moe/seycce.mp4
+Stellar Stellar (Duet w/ Suisei) | https://files.catbox.moe/3wthdo.mp4
+September - Earth, Wind & Fire  ( x5 w/ Ame) | https://files.catbox.moe/yprxqk.mp4
+September - Earth, Wind & Fire  ( x6 w/ Ame) | https://files.catbox.moe/tvjbz9.mp4
 
 ***
 ***
@@ -3582,61 +3585,86 @@ Sunday Morning - Maroon 5 (Duet w/ Ame) | https://files.catbox.moe/seycce.mp4
 [Back to TOC](https://rentry.org/Mumei-Karaoke)
 Song | Link
 ------ | ------
-Satisfied - Hamilton (Duet)| https://files.catbox.moe/ugdoxn.mp4
-Silhouette - Kana-Boon (Duet) | https://files.catbox.moe/jv9i8w.mp4
-Burn - Hamilton (Duet) | https://files.catbox.moe/z9i0b2.mp4
-Satisfied - Hamilton (Trio) |   https://files.catbox.moe/gs45qf.mp4
-Mamma Mia - ABBA (Septet) |  https://cldup.com/uGrWxQ8-kF.mp4 / https://files.catbox.moe/b6a5qc.mp4
-I Miss You - blink-182 (Quintet) | https://files.catbox.moe/xzs085.mp4
-Take Me Home, Country Roads - John Denver  (Trio) | https://files.catbox.moe/amwye6.mp4
-Travelin Soldier - The Chicks (Duet) | https://files.catbox.moe/36sxx0.mp4
-Jack Sparrow - The Lonely Island  (Trio*) |  https://files.catbox.moe/dwq4if.mp4
-Thnks fr th Mmrs - Fall Out Boy (Duet) | https://files.catbox.moe/fdh2fj.mp4
-YMCA - Village People (Duet) | https://files.catbox.moe/x9ewql.mp4
-Love Story - Taylor Swift (Duet) | https://files.catbox.moe/gycls7.mp4
-Mountain Dew - The Stanley Brothers (Duet) | https://files.catbox.moe/3dr5in.mp4
-Blank Space - Taylor Swift (Duet)  |  https://files.catbox.moe/1556qd.mp4
-Baby One More Time - Britney Spears (Duet) | https://files.catbox.moe/2gor4e.mp4
-A New Start x17 | https://files.catbox.moe/4plpq7.mp4
-Gives You Hell - The All-American Rejects (Duet) |   https://files.catbox.moe/tmdkgu.mp4 
-On My Own - Les Miserables (Duet) |   https://files.catbox.moe/4qx7km.mp4
-Love the Way You Lie - Eminem (Duet) | https://files.catbox.moe/izhagc.mp4
-Landslide - Fleetwood Mac (Duet) | https://files.catbox.moe/q73d17.mp4
-We Wish You a Merry Christmas (Duet) | https://files.catbox.moe/0mfq9w.mp4
-Riptide - Vance Joy (Duet) | https://files.catbox.moe/d11ews.mp4
-Ring of Fire - Johnny Cash (Duet) | https://files.catbox.moe/5aild2.mp4 / https://cldup.com/u57hHI2tfD.mp4
-All I Want - A Day to Remember (Duet) | https://files.catbox.moe/198bvc.mp4 / Trio https://files.catbox.moe/3xv4n6.mp4
-She Will Be Loved - Maroon 5 (Duet) | https://cldup.com/vbnVDAYWN4.mp4
-Angel - Sarah McLachlan (Duet) | https://files.catbox.moe/ziblyc.mp4
-Wait For It - Hamilton - (Duet) | https://files.catbox.moe/o3dyg8.mp4
-Dreams - Fleetwood Mac (Duet) | https://files.catbox.moe/92ug7f.mp4
-Top of the World - The Chicks (Duet) | https://files.catbox.moe/8dutml.mp4
-All I Want - Kodaline (Duet) | https://files.catbox.moe/73pye4.mp4
-All Too Well - Taylor Swift (Duet) | https://files.catbox.moe/8nihxg.mp4
-Sunflower - Post Malone, Swae Lee (Duet)   |  https://files.catbox.moe/dikbt3.mp4
-Mamma Mia - ABBA x8   |  https://files.catbox.moe/3olz0j.mp4
-Bubbly - Colbie Caillat (Duet) | https://files.catbox.moe/v0pre4.mp4
-Mr. Brightside - The Killers (Duet) | https://files.catbox.moe/771ngv.mp4
-Everytime We Touch - Cascada (Duet) | https://files.catbox.moe/v5fgf3.mp4
-Mamma Mia - ABBA (Duet) | https://files.catbox.moe/kz5rub.mp4
-My Heart Will Go On - Celine Dion (Duet) | https://files.catbox.moe/j1d6za.mp4
-Lean on Me - Bill Withers ( Duet) | https://files.catbox.moe/8f6e0w.mp4
-Come As You Are - Nirvana (Duet) | https://files.catbox.moe/1oeion.mp4
-Rolling in the Deep - Adele	(Duet) | https://files.catbox.moe/v8xs8b.mp4
-Mamma Mia - ABBA x9   |  https://files.catbox.moe/kurpmr.mp4
-Baby - Justin Bieber (Duet)  |  https://files.catbox.moe/zwubup.mp4
-Adam's Song - Blink-182 (Duet)  |  https://files.catbox.moe/5uod0c.mp4
-All the Small Things - Blink-182 (Duet) | https://files.catbox.moe/k7g99j.mp4
-She Used To Be Mine - Sara Bareilles (Duet) | https://files.catbox.moe/owvk10.mp4
-Travelin Soldier - The Chicks (Trio) | https://files.catbox.moe/0owc53.mp4
-Gives You Hell - The All-American Rejects (Duet) | https://files.catbox.moe/ebf6ww.mp4
-Gives You Hell - The All-American Rejects (Trio) | https://files.catbox.moe/y3sphf.mp4
+Satisfied - Hamilton 『x2』| https://files.catbox.moe/ugdoxn.mp4
+Silhouette - Kana-Boon 『x2』 | https://files.catbox.moe/jv9i8w.mp4
+Burn - Hamilton 『x2』 | https://files.catbox.moe/z9i0b2.mp4
+Satisfied - Hamilton 『x3』 |   https://files.catbox.moe/gs45qf.mp4
+Mamma Mia - ABBA 『x7』 |  https://files.catbox.moe/b6a5qc.mp4
+I Miss You - blink-182 『x5』 | https://files.catbox.moe/xzs085.mp4
+Take Me Home, Country Roads - John Denver  『x3』 | https://files.catbox.moe/amwye6.mp4
+Travelin Soldier - The Chicks 『x2』 | https://files.catbox.moe/36sxx0.mp4
+Jack Sparrow - The Lonely Island  『x3\*』 |  https://files.catbox.moe/dwq4if.mp4
+Thnks fr th Mmrs - Fall Out Boy 『x2』 | https://files.catbox.moe/fdh2fj.mp4
+YMCA - Village People 『x2』 | https://files.catbox.moe/x9ewql.mp4
+Love Story - Taylor Swift 『x2』 | https://files.catbox.moe/gycls7.mp4
+Mountain Dew - The Stanley Brothers 『x2』 | https://files.catbox.moe/3dr5in.mp4
+Blank Space - Taylor Swift 『x2』  |  https://files.catbox.moe/1556qd.mp4
+Baby One More Time - Britney Spears 『x2』 | https://files.catbox.moe/2gor4e.mp4
+A New Start『x17』 | https://files.catbox.moe/4plpq7.mp4
+Gives You Hell - The All-American Rejects 『x2』 |   https://files.catbox.moe/tmdkgu.mp4 
+On My Own - Les Miserables 『x2』 |   https://files.catbox.moe/4qx7km.mp4
+Love the Way You Lie - Eminem 『x2』 | https://files.catbox.moe/izhagc.mp4
+Landslide - Fleetwood Mac 『x2』 | https://files.catbox.moe/q73d17.mp4
+We Wish You a Merry Christmas 『x2』 | https://files.catbox.moe/0mfq9w.mp4
+Riptide - Vance Joy 『x2』 | https://files.catbox.moe/d11ews.mp4
+Ring of Fire - Johnny Cash 『x2』 | https://files.catbox.moe/5aild2.mp4
+All I Want - A Day to Remember 『x2』 | https://files.catbox.moe/198bvc.mp4  
+All I Want - A Day to Remember 『x3』|  https://files.catbox.moe/3xv4n6.mp4
+Angel - Sarah McLachlan 『x2』 | https://files.catbox.moe/ziblyc.mp4
+Wait For It - Hamilton - 『x2』 | https://files.catbox.moe/o3dyg8.mp4
+Dreams - Fleetwood Mac 『x2』 | https://files.catbox.moe/92ug7f.mp4
+Top of the World - The Chicks 『x2』 | https://files.catbox.moe/8dutml.mp4
+All I Want - Kodaline 『x2』 | https://files.catbox.moe/73pye4.mp4
+All Too Well - Taylor Swift 『x2』 | https://files.catbox.moe/8nihxg.mp4
+Sunflower - Post Malone, Swae Lee 『x2』   |  https://files.catbox.moe/dikbt3.mp4
+Mamma Mia - ABBA 『x8』   |  https://files.catbox.moe/3olz0j.mp4
+Bubbly - Colbie Caillat 『x2』 | https://files.catbox.moe/v0pre4.mp4
+Mr. Brightside - The Killers 『x2』 | https://files.catbox.moe/771ngv.mp4
+Everytime We Touch - Cascada 『x2』 | https://files.catbox.moe/v5fgf3.mp4
+Mamma Mia - ABBA 『x2』 | https://files.catbox.moe/kz5rub.mp4
+My Heart Will Go On - Celine Dion 『x2』 | https://files.catbox.moe/j1d6za.mp4
+Lean on Me - Bill Withers 『x2』 | https://files.catbox.moe/8f6e0w.mp4
+Come As You Are - Nirvana 『x2』 | https://files.catbox.moe/1oeion.mp4
+Rolling in the Deep - Adele	『x2』 | https://files.catbox.moe/v8xs8b.mp4
+Mamma Mia - ABBA『x9』   |  https://files.catbox.moe/kurpmr.mp4
+Baby - Justin Bieber 『x2』  |  https://files.catbox.moe/zwubup.mp4
+Adam's Song - Blink-182 『x2』  |  https://files.catbox.moe/5uod0c.mp4
+All the Small Things - Blink-182 『x2』 | https://files.catbox.moe/k7g99j.mp4
+She Used To Be Mine - Sara Bareilles 『x2』 | https://files.catbox.moe/owvk10.mp4
+Travelin Soldier - The Chicks 『x3』 | https://files.catbox.moe/0owc53.mp4
+Gives You Hell - The All-American Rejects 『x2』 | https://files.catbox.moe/ebf6ww.mp4
+Gives You Hell - The All-American Rejects 『x3』 | https://files.catbox.moe/y3sphf.mp4
 Silhouette - Kana-Boon (Duet w/ 1st time singing + 1 year anniversary) | https://files.catbox.moe/omrzc3.mp4
-Silhouette - Kana-Boon  (Trio) | https://files.catbox.moe/my76bz.mp4
-Mamma Mia - ABBA x 10 | https://cldup.com/ZdR0Px-oBs.mp4
-again - YUI (Duet) | https://files.catbox.moe/dx2xg9.mp4
-A Cruel Angel's Thesis (Duet) |  https://files.catbox.moe/6ysyay.mp4
-Landslide - The Chicks x4 | https://cldup.com/d2DxvrTQKz.mp4 / https://files.catbox.moe/mvupn9.mp4
+Silhouette - Kana-Boon  『x3』 | https://files.catbox.moe/my76bz.mp4
+Mamma Mia - ABBA 『x10』 | https://files.catbox.moe/xe6iw9.mp4
+again - YUI 『x2』 | https://files.catbox.moe/dx2xg9.mp4
+A Cruel Angel's Thesis 『x2』 |  https://files.catbox.moe/6ysyay.mp4
+Landslide - The Chicks 『x4』 | https://files.catbox.moe/mvupn9.mp4
+==Added the videos below this== |
+She Will Be Loved - Maroon 5 『x2』 | https://files.catbox.moe/njum0t.mp4
+All I Want - Kodaline 『x2』 | https://files.catbox.moe/8x6q6r.mp4
+All I Want - Kodaline 『x3』 | https://files.catbox.moe/1h02g9.mp4
+All Too Well - Taylor Swift 『x3』 | https://files.catbox.moe/vowoac.mp4
+A Cruel Angel's Thesis 『x3』 | https://files.catbox.moe/98z2le.mp4
+I'm Yours - Jason Mraz 『x3』 | https://files.catbox.moe/sbaulu.mp4
+Burning Love - Elvis Presley 『x2』 | https://files.catbox.moe/o307wi.mp4
+Can You Feel My Heart - Bring Me the Horizon 『x2』 | https://files.catbox.moe/riytn4.mp4
+Glimpse of Us - Joji 『x2』 | https://files.catbox.moe/85us2p.mp4
+My Immortal - Evanescence 『x2』 | https://files.catbox.moe/ooreut.mp4
+Never Grow Up - Taylor Swift 『x2』 | https://files.catbox.moe/aeai9b.mp4
+Last Christmas - Wham! 『x2』 | https://files.catbox.moe/kp9hqr.mp4
+Dreams - Fleetwood Mac 『x3』 | https://files.catbox.moe/k7y41e.mp4
+Cups (When I'm Gone) - Pitch Perfect 『x2』 | https://files.catbox.moe/qnfgjs.mp4
+Beat It - Michael Jackson 『x2』 | https://files.catbox.moe/q9zyxu.mp4
+Back To December - Taylor Swift 『x3』 | https://files.catbox.moe/xnbf59.mp4
+Love Story - Taylor Swift 『x3』 | https://cldup.com/b3PMnepHGu.mp4
+Silhouette - Kana-Boon 『x4』 | https://files.catbox.moe/jiwszu.mp4
+Silhouette - Kana-Boon 『x4v2』 | https://cldup.com/XTCUO5EHKM.mp4
+Silhouette - Kana-Boon 『x3v2』 | https://files.catbox.moe/nx3uhk.mp4
+Satisfied - Hamilton 『x4』 | https://files.catbox.moe/bfcm0k.mp4
+Satisfied - Hamilton 『x5』 | https://files.catbox.moe/rr2bl6.mp4
+Mamma Mia - ABBA 『x13』| https://files.catbox.moe/19pg9j.mp4
+What Is this Feeling - Wicked 『x2』 | https://files.catbox.moe/gkwww3.mp4
 
 ***
 
@@ -3648,41 +3676,37 @@ Name | Url | Alt Versions
 ------ | ------ | ------
 We Are Never Ever Getting Back Together - Taylor Swift  | https://files.catbox.moe/1xd3g4.mp4
 Gives You Hell - The All-American Rejects   | https://files.catbox.moe/afk7tv.mp4
-Mamma Mia - ABBA  |  https://files.catbox.moe/ffomd2.mp4
-Satisfied - Hamilton   |  https://cldup.com/0kp1FxRXQ1.mp4
-I'll Make a Man Out of You - Mulan  |  https://files.catbox.moe/coe1s5.mp4
-Angel - Sarah McLachlan  |  https://files.catbox.moe/jfq4ry.mp4
-All I want - Kodaline  |  https://files.catbox.moe/gfxwui.mp4 / https://cldup.com/YHzIhUCotf.mp4
-A Cruel Angel's Thesis  |  https://cldup.com/DnfPR7rz16.mp4 | https://files.catbox.moe/ms3qil.mp4 /  https://files.catbox.moe/e5hhgt.mp4
-A Thousand Years - Christina Perri | https://files.catbox.moe/i255f1.mp4
-A Thousand Miles - Vanessa Carlton  |  https://files.catbox.moe/fj8l3p.mp4
-【HoloCouncil】 Hikaru Nara / 光るなら COVER | https://files.catbox.moe/lxubs7.mp4
-22 - Taylor Swift  | https://files.catbox.moe/mni2b5.mp4
-Love Story - Taylor Swift | https://files.catbox.moe/13xrze.mp4
-Love the Way You Lie - Eminem    | https://files.catbox.moe/h86qhw.mp4  /  https://cldup.com/FZA_j3gLl9.mp4
-Baby One More Time - Britney Spears | https://files.catbox.moe/cnmd2y.mp4
-Toxic - Britney Spears | https://files.catbox.moe/3zwjo5.mp4
-Adam's Song - Blink-182| https://files.catbox.moe/4rvml3.mp4
+Mamma Mia - ABBA  |  https://files.catbox.moe/4vpvad.mp4
+Satisfied - Hamilton   |  https://files.catbox.moe/59yajg.mp4
+I'll Make a Man Out of You - Mulan  |  https://files.catbox.moe/lsh72d.mp4
+All I want - Kodaline  |  https://files.catbox.moe/0r6uso.mp4
+A Thousand Years - Christina Perri | https://files.catbox.moe/jul68g.mp4
+A Thousand Miles - Vanessa Carlton  |  https://files.catbox.moe/iwx00v.mp4
+22 - Taylor Swift  | https://files.catbox.moe/i6tgeq.mp4
+Love Story - Taylor Swift | https://files.catbox.moe/z1vyyw.mp4 | v2 - https://files.catbox.moe/9rw2cf.mp4
+Love the Way You Lie - Eminem    | https://files.catbox.moe/6m8ebe.mp4
+Baby One More Time - Britney Spears | https://files.catbox.moe/tddlt9.mp4 | v2 - https://files.catbox.moe/gge1ov.mp4
+Toxic - Britney Spears | https://files.catbox.moe/0cugax.mp4
+Adam's Song - Blink-182| https://files.catbox.moe/wq5di5.mp4
 My Heart Will Go On - Celine Dion | https://files.catbox.moe/x9sqtu.mp4
 Smile - Lily Allen | https://files.catbox.moe/b9kt1d.mp4
-You Belong With Me - Taylor Swift |  https://files.catbox.moe/vk6uwk.mp4
-Someone Like You - Adele | https://files.catbox.moe/10yw1r.mp4
+You Belong With Me - Taylor Swift |  https://files.catbox.moe/aoh2zz.mp4
+Someone Like You - Adele | https://files.catbox.moe/jar7sp.mp4
 Poker Face - Lady Gaga | https://files.catbox.moe/1h799w.mp4
-I Miss You - blink-182 | https://files.catbox.moe/btaq2p.mp4
+I Miss You - blink-182 | https://files.catbox.moe/i3s4rx.mp4
 Want U Back - Cher Lloyd | https://files.catbox.moe/nr0io5.mp4
-How to Save a Life - The Fray | https://files.catbox.moe/up99ef.mp4
-This Love - Maroon 5 | https://files.catbox.moe/pcn5a0.mp4
-Viva La Vida - Coldplay  |  https://files.catbox.moe/l20ovo.mp4
-Mr. Brightside - The Killers  |  https://files.catbox.moe/ziyg3q.mp4 |  https://files.catbox.moe/i3l8ch.mp4
-Sunflower - Post Malone, Swae Lee | https://files.catbox.moe/btlvez.mp4 | https://files.catbox.moe/bxb0qm.mp4
+How to Save a Life - The Fray | https://files.catbox.moe/5tz4cc.mp4
+This Love - Maroon 5 | https://files.catbox.moe/mbjqy0.mp4
+Viva La Vida - Coldplay  |  https://files.catbox.moe/8nndd3.mp4
+Mr. Brightside - The Killers  |  https://files.catbox.moe/ts2n9g.mp4 |  v2 - https://files.catbox.moe/xmmhwd.mp4
+Sunflower - Post Malone, Swae Lee | https://files.catbox.moe/tm14hq.mp4 | v2 - https://files.catbox.moe/bxb0qm.mp4
 Beat It - Michael Jackson | https://files.catbox.moe/fi4qaq.mp4
-What The Hell - Avril Lavigne | https://files.catbox.moe/4sgqim.mp4
+What The Hell - Avril Lavigne | https://files.catbox.moe/qstd4b.mp4
 Sunday Morning - Maroon 5 | https://files.catbox.moe/q29zwr.mp4
-Blank Space - Taylor Swift  |  https://files.catbox.moe/osryky.mp4  /  https://cldup.com/dGymoBaNeS.mp4
+Blank Space - Taylor Swift  |  https://files.catbox.moe/f4o9zi.mp4
 September - Earth, Wind & Fire | https://files.catbox.moe/5nqsvv.mp4
 She Will Be Loved - Maroon 5 | https://files.catbox.moe/8pufuj.mp4
-1985 - Bowling for Soup | https://files.catbox.moe/ewz44e.mp4 |  https://files.catbox.moe/pd6s7g.mp4
-Single Ladies - Beyoncé | 
+1985 - Bowling for Soup | https://files.catbox.moe/ewz44e.mp4
 bad guy - Billie Eilish | https://files.catbox.moe/r4acsp.mp4
 A New Start | https://files.catbox.moe/vazly3.mp4
 Radioactive - Imagine Dragons |  https://files.catbox.moe/jxbbye.mp4
@@ -3696,7 +3720,7 @@ Sugar, We're Goin Down - Fall Out Boy |  https://files.catbox.moe/xcdt3v.mp4
 Somebody That I Used to Know - Gotye  |   https://files.catbox.moe/2nmrx4.mp4
 Wait for It - Hamilton   |  https://files.catbox.moe/ponyl1.mp4
 Eye of the Tiger - Survivor  |  https://files.catbox.moe/82jxzg.mp4
-Top of the World - The Chicks | https://cldup.com/pRmkQhadGw.mp4
+Top of the World - The Chicks | https://files.catbox.moe/8bat4a.mp4
 Hey, Soul Sister - Train | https://files.catbox.moe/wobaum.mp4
 All Star - Smash Mouth  |  https://files.catbox.moe/g027ov.mp4
 Circle of Life - The Lion King  |   https://files.catbox.moe/mj633b.mp4
@@ -3716,15 +3740,15 @@ Beautiful Girls - Sean Kingston | https://files.catbox.moe/vveer2.mp4
 Riptide - Vance Joy | https://files.catbox.moe/u4lccf.mp4
 Complicated - Avril Lavigne | https://files.catbox.moe/octtou.mp4
 Sweater Weather - The Neighbourhood | https://files.catbox.moe/b6xbk2.mp4
-Bad Day - Daniel Powter | https://files.catbox.moe/1f2ibv.mp4 / https://cldup.com/O_H-HRh7XB.mp4
-All I want - Kodaline (Dog ver) | https://files.catbox.moe/zobftk.mp4
-Jar of Hearts - Christina Perri | https://cldup.com/71z6g3sOFj.mp4
-The Rainbow Connection - Jim Henson | https://cldup.com/6v5I-bZFYa.mp4
-All the Small Things - Blink-182  |  https://cldup.com/rYHnyLakfS.mp4
-Numb - Linkin Park  |  https://cldup.com/NAbulOzTwG.mp4
-I'll Be - Edwin McCain | https://cldup.com/E5UOvZlIgW.mp4
+Bad Day - Daniel Powter | https://files.catbox.moe/1f2ibv.mp4
+All I want - Kodaline (Dog ver) | https://files.catbox.moe/8keivg.mp4
+Jar of Hearts - Christina Perri | https://files.catbox.moe/yljn7b.mp4
+The Rainbow Connection - Jim Henson | https://files.catbox.moe/upqbbr.mp4
+All the Small Things - Blink-182  |  https://files.catbox.moe/yaznfl.mp4
+Numb - Linkin Park  |  https://files.catbox.moe/6wk8pj.mp4
+I'll Be - Edwin McCain | https://files.catbox.moe/ubaz4k.mp4
 Come As You Are - Nirvana | https://files.catbox.moe/mm09ri.mp4
-When I Look At You - Miley Cyrus | https://cldup.com/2ZmkSUjYn0.mp4
+When I Look At You - Miley Cyrus | https://files.catbox.moe/2lbwt6.mp4
 Unwritten - Natasha Bedingfield | https://files.catbox.moe/ic2615.mp4
 Little Talks - Of Monsters and Men | https://files.catbox.moe/churpr.mp4
 Drown - Bring Me The Horizon | https://files.catbox.moe/lzrmui.mp4
@@ -3741,9 +3765,29 @@ Astrogirl - Tsukumo Sana | https://files.catbox.moe/c0ofim.mp4
 Glimpse of Us - Joji | https://files.catbox.moe/x8l6jd.mp4
 Until I Found You - Stephen Sanchez	 | https://files.catbox.moe/w6dvmy.mp4
 deja vu - Olivia Rodrigo	| https://files.catbox.moe/epa7fm.mp4
+==Added the videos below this== |
+Sugar, We're Goin Down - Fall Out Boy | https://files.catbox.moe/xcdt3v.mp4
+Leave It All to Me - Miranda Cosgrove | https://files.catbox.moe/brs3br.mp4
+Drunk - Ed Sheeran | https://files.catbox.moe/5a6vg2.mp4
+I'm Yours - Jason Mraz | https://files.catbox.moe/1bcse1.mp4
+Still Into You - Paramore | https://files.catbox.moe/w54tyq.mp4
+Adam's Song - Blink-182 v2 | https://files.catbox.moe/vfxf0j.mp4
+Hero - Enrique Iglesias | https://files.catbox.moe/c81mwm.mp4
+I'm Your Treasure Box - Houshou Marine | https://files.catbox.moe/pr80iz.mp4 | Duet - https://files.catbox.moe/13038w.mp4
+The Middle - Jimmy Eat World | https://files.catbox.moe/jlr47t.mp4
+Feel Good Inc - Gorillaz | https://files.catbox.moe/sbb1di.mp4
+Always - Blink-182	| https://files.catbox.moe/byjey2.mp4
+
 
 ***
 
+***
+!!! note
+	###->Random<-
+->[Here](https://rentry.org/66rsod)<-
+
+
+***
 ###Bottom of the page
 
 ***

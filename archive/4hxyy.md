@@ -4,7 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
-Thread 306 - Lesbian cosplay Edition: https://desuarchive.org/trash/thread/56620030/
+Thread 306 - Lesbian Cosplay Edition: https://desuarchive.org/trash/thread/56620030/
 Thread 305 - Assured Domination Edition: https://desuarchive.org/trash/thread/56438523/
 Thread 304 - Rewarding The Challengers Edition: https://desuarchive.org/trash/thread/56149537/
 Thread 303 - Thirsty For Virgins Edition: https://desuarchive.org/trash/thread/56095661/

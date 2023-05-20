@@ -5,10 +5,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-20-2023] - Added Manticore 13B
 [05-19-2023] - Added Pyg & Meth 13B
 [05-18-2023] - Added VicUnlocked-30B
 [05-16-2023] - Removed old CPU quantizations and started adding re-quantized models, added Wizard Mega
-[05-10-2023] - Added WizardLM 13B Uncensored
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -67,6 +67,20 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 ## ->Models/Finetunes/LoRA's<-
+
+### Manticore 13B (05/20/2023)
+!!! info
+
+	Manticore 13B is a 3 epoch LLaMa 13B model fine-tuned on a number of merged datasets.
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+13B 16-bit | Unquantized | [HF Link](https://huggingface.co/openaccess-ai-collective/manticore-13b)
+13B  GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/Manticore-13B-GGML)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/TheBloke/Manticore-13B-GPTQ)
 
 ### Pygmalion/Metharme 13B (05/19/2023)
 !!! info

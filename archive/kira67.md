@@ -32,7 +32,7 @@ When a teammate on the field casts Ultimate, Shigure Kira gains 5 stacks of [Enc
 When [Encore] reaches max 10 stacks, you can trigger Shigure Kira’s QTE. 
 
 **PASSIVE 1**
-Upon entering battle, initial SP +40, this effect can only be triggered once every 10 minutes in open world. When Shigure Kira is off field, when teammate attacks and deal damage, Kira gains 15 SP (CD: 3s). 
+Upon entering battle, initial SP **+40 > 25**, this effect can only be triggered once every 10 minutes in open world. When Shigure Kira is off field, when teammate attacks and deal damage, Kira gains 15 SP (CD: 3s). 
 
 **PASSIVE 2**
 When QTE or Ultimate hits an enemy, they will receive **+20% > 12%** Elemental DMG, last for 15s, can be refreshed, and restores **5 > 3** SP for the whole team (CD: 5s) 
@@ -54,37 +54,39 @@ SEQ 4: Deals 48% x 5 ATK of Ice DMG, upon hitting an enemy, restore 30 points of
 SEQ 5: Deals 500% ATK of Ice DMG, upon hitting an enemy, restore 60 points of [Cheer Support]. 
 
 **BASIC ATK 1**
-QTE (Toggle): When [Encore] reaches max 10 stacks, you can trigger Shigure Kira’s QTE, Shigure Kira will enter in the background, deal 800% ATK of Ice DMG. Entering through QTE consumes whole team’s [Encore] stacks. Also inflict 12 points of Rime trauma towards enemies that were hit by QTE. 
+QTE (Toggle): When [Encore] reaches max 10 stacks, you can trigger Shigure Kira’s QTE, Shigure Kira will enter in the background, deal 800% ATK of Ice DMG. Entering through QTE consumes all [Encore] stacks. Also inflict **12 > 6** points of Rime trauma on enemies hit by QTE. 
 
 **BASIC ATK 2**
 Gains 300 initial points of [Cheer Support], casting QTE restores 150 points of [Cheer Support] for herself. 
 
 **BASIC ATK 3**
 (Toggle): When Kira is on standby and meets all the conditions to use Ultimate, tap Shigure Kira icon to instantly switch her in and use her Ultimate.
+**NEW IN V2: Off-field ult will consume all Encore stacks. For each stack consumed, the final shot will deal additional 1 point of rime trauma, and recover 0.5 sp for the team. Max 6 stacks.**
 
 ---
 **ULTIMATE**
-Enters sniper mode, uses [White Note] to cast a total of 3 shots, dealing 500% + 500% + 700% ATK of Ice DMG. Each shot inflict **6 > 4** points of Rime trauma. 
-**NEW IN V2: Each shot that hits an enemy reduces Kira's ult cd by 1s (does not take effect in coop), minimum cd 12s.**
+SP: 125, CD: 20s. Enters sniper mode, uses [White Note] to cast a total of 3 shots, dealing 500% + 500% + 700% ATK of Ice DMG. Each shot inflict **6 > 4** points of Rime trauma. 
+
 
 If Ultimate is used from off field state, when Ultimate ends, Shigure Kira will enter the field after the final shot. 
-**NEW IN V2: Off-field ult will consume all Encore stacks. For each stack consumed, the final shot will deal additional 1 point of rime trauma, and recover 0.5 sp for the team. Max 6 stacks.**
+
 
 (Note: Ult cast animation is a suspended animation and doesn't stop time. Aiming during sniper mode stops time)
 
 **ULTIMATE 1**
-When Ultimate hits an enemy, enemy will receive **+20% >12%** more Ice DMG, last for 15s, can be refreshed. 
+When Ultimate hits an enemy, enemy will receive **+20% >15%** more Ice DMG, last for 15s, can be refreshed. 
 
 **ULTIMATE 2**
 When Ultimate’s final shot hit an enemy, all team member’s Total DMG +15%, Ice DMG **+20% > 10%**, last for 15s, can be refreshed. 
 
 **ULTIMATE 3**
 For every Ultimate shots that hits an enemy, whole team gain **8 > 7** SP. 
+**NEW IN V2: Each shot that hits an enemy reduces Kira's ult cd by 1s (does not take effect in coop), minimum cd 12s.**
 ---
 
 **CHARGED ATK**
 Uses [White Note] to deal an accurate shot. 
-When [Cheer Support] reaches 150 points, hold ATK button to consume 150 points of [Cheer Support] and cast Charged ATK, deal 600% ATK of Ice DMG **and additional 10xATK damage (HP loss effect)**
+When [Cheer Support] reaches 150 points, hold ATK button to consume 150 points of [Cheer Support] and cast Charged ATK, deal 600% ATK of Ice DMG **and additional ATK x 10 damage (HP loss effect)**
 
 **CHARGED ATK 1**
 When Charged ATK hits an enemy, Shigure Kira’s Total DMG +30%, Ice DMG +20%, last for 8s, can be refreshed. 

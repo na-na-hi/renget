@@ -41,3 +41,9 @@ FEEL FREE TO INCLUDE ME IN ANY STORY, ART WORK, SHITPOST, WHATEVER!  ALL I ASK I
 ![Heather Mason report card](https://files.catbox.moe/8q2zgi.png)
 
 ![Heather Mason combat sheet](https://files.catbox.moe/ti3ujw.png)
+
+![Heather Mason cooking sheet](https://files.catbox.moe/rrksx2.jpg)
+
+![Heather Mason magical creatures sheet](https://files.catbox.moe/actx14.png)
+
+![Heather Mason potions sheet](https://files.catbox.moe/bdahcj.png)

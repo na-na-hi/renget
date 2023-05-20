@@ -50,6 +50,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Homyu** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
 
+[[Patreon]](https://www.patreon.com/posts/mmdmodel-kokona-83272003) : Blue Archive - Sunohara Kokona
 [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
@@ -235,6 +236,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Booth]](https://ucup.booth.pm/items/4737264) [[Gumroad]](https://ucup.gumroad.com/l/nluiac) : Blue Archive - Hanekawa Hasumi
+[[Gumroad]](https://ucup.gumroad.com/l/qsmhr) : Taimanin Yukikaze - Mizuki Yukikaze
 [[Booth]](https://ucup.booth.pm/items/4584912) [[Gumroad]](https://ucup.gumroad.com/l/hgcbf) : Virtual YouTuber - Houshou Marine 2
 [[Gumroad]](https://ucup.gumroad.com/l/cenpf) : Azur Lane - Bremerton
 [[Booth]](https://ucup.booth.pm/items/4442411) [[Gumroad]](https://ucup.gumroad.com/l/lbtxmi) : Tengen Toppa Gurren Lagann : Yoko Littner

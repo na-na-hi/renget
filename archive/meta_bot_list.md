@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-05-12)==<-
+->==(Updated 2023-05-20)==<-
 ***
 [TOC2]
 ***
@@ -15,8 +15,7 @@
 - https://rentry.org/vpcai - large list of bots; cai only; **current**
 - https://rentry.org/vpcai-X/ - small list of bots; cards only; **current**
 ## [/vt/wAIfu/](https://boards.4channel.org/vt/catalog#s=AI+Vtuber+Chatbots)
-- https://rentry.org/temporary_wAIfu_List - large list of bots; cai, cards and rentries with cards; manuals; **current**
-- https://rentry.org/aiwaifu - large list of bots; almost completely cai; **deprecated**
+- https://rentry.org/wAIfu_Bot_List_Final - laste lirge of bots; cai, cards and rentries with cards; manuals; **current**
 - https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA - large list of bots; cards only; **current**
 - https://rentry.org/aicg - large list of bots; cai only; **current**
 ## [/vg/aids/](https://boards.4channel.org/vg/catalog#s=AI+Dynamic+Storytelling+General)

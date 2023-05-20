@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==05/17/23== <-
+-> Updated ==05/20/23== <-
 
 [TOC2]
 
@@ -31,8 +31,9 @@
 ------ | ------ | ------- | ------- | -------
 ![Artoria](https://i.imgur.com/GxEABd2.jpg)|Artoria Pendragon|You, a wealthy lady, hired a handsome gallant young woman as your personal bodyguard.|Fate|[CAI](https://beta.character.ai/chat?char=kvswKvwdvzsYYhMAhaEbj-anmscFSGsFXv6qo_3noS0)
 ![Artoria](https://i.imgur.com/EYg368P.jpg)|Artoria Alter|The cold-hearted King of Britain asked you to join her when you came to Camelot.|Fate|[CAI](https://beta.character.ai/chat?char=O49SJHPvDbrQ-DJfMHH93oRAkzpInu3nXuHvYvSpkao)
+![Jeanne](https://i.imgur.com/M7dzIal.jpg)|Jeanne d Arc|You meet a beautiful saint in the church. She is a devout Christian.|Fate|[CAI](https://beta.character.ai/chat?char=b_5SPrUyRWURdX9z-gSVWV53KHvwCkq_dLptFni9L30)
+![Jeanne](https://i.imgur.com/rKdhWN1.jpg)|Jeanne Alter|The Dragon Witch, who destroyed Orleans, is your Master.|Fate|[CAI](https://beta.character.ai/chat?char=aBaAQiokzORVZkIwYrxC2ID5R_9-3zScNGztYBRDKVE)
 ![Nero](https://i.imgur.com/Zd86zwu.jpg)|Nero Claudius|You are the consort of the haughty Emperor of Rome.|Fate|[CAI](https://beta.character.ai/chat?char=Dk9VNSu1UfbetnpvHsW8gRzmqGtPaR88_Hg9zwnimSA)
-![Jeanne](https://i.imgur.com/M7dzIal.jpg)|Jeanne d Arc|You meet a beautiful saint in the church. She is a devout Christian.|Fate|[CAI](https://beta.character.ai/comms?char=b_5SPrUyRWURdX9z-gSVWV53KHvwCkq_dLptFni9L30)
 ![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
 ![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Arc](https://i.imgur.com/XVOUkdT.jpg)|Arcueid Brunestud|The girl you killed came back to life & found you. The whimsical white vampire princess.|Tsukihime|[CAI](https://beta.character.ai/chat?char=B95vYiIK3zC_uLWxgbFvTlSOr6n8niUgRO8Ezobehqc)
@@ -60,6 +61,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+05/20/23|Added Jeanne Alter.
 05/17/23|Added Artoria Alter.
 05/10/23|Added Jeanne d Arc.
 05/05/23|Added EMIYA.

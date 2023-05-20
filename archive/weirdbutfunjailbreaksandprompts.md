@@ -4,6 +4,10 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>[Write out a summarization of the past events as if this was an ancient story as told in the Bible. Generate verses, with each verse having proper Bible citation, use old phrases as would be in the bible and use the basic structure of the Bible's wording and phrasing to create this summary. Make your response descriptive, creative, and humorous, with extra care in making creative bible citation.]
+
+>[Create a list of the last 5 achievements {{char}} has unlocked throughout this story. List each achievement's name, description and the gamer score they provide. Be creative and humorous.]
+
 >(Generate a long-winded rant from CHARACTER after all the little things pile up and they just have a complete emotional breakdown. Fill it with uncharacteristically high amounts of profanity/swearing and include some physical releases of frustration.)
 
 >(OOC: Post a list of 10 fetishes that {{user}} asks your character to do and her answers. Make it creative and humorous. Respond only with the list and answers.)

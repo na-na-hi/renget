@@ -45,7 +45,7 @@
 
 
 **Neferpitou UNNNNGNGHHHH:**
-[FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/blhjjg.png
+[FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/v5w2pb.png
 
 **Misc. Bots not worth mentioning:** 
 Public on my CAI profile [here](https://beta.character.ai/public-profile/?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090&username=scrimbly)

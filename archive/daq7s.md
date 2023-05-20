@@ -11,48 +11,44 @@
 >Karaoke clips - https://rentry.org/5y2mt
 
 !!!info Updates
-	>08/08 - [Added last 5](https://rentry.org/daq7s#bottom-of-the-page)
+	>05/20 - [Added some videos](https://rentry.org/daq7s#bottom-of-the-page)
 
 ***
 Name | Url | Alt Versions
 ------ | ------ | ------
 We Are Never Ever Getting Back Together - Taylor Swift  | https://files.catbox.moe/1xd3g4.mp4
 Gives You Hell - The All-American Rejects   | https://files.catbox.moe/afk7tv.mp4
-Mamma Mia - ABBA  |  https://files.catbox.moe/ffomd2.mp4
-Satisfied - Hamilton   |  https://cldup.com/0kp1FxRXQ1.mp4
-I'll Make a Man Out of You - Mulan  |  https://files.catbox.moe/coe1s5.mp4
-Angel - Sarah McLachlan  |  https://files.catbox.moe/jfq4ry.mp4
-All I want - Kodaline  |  https://files.catbox.moe/gfxwui.mp4 / https://cldup.com/YHzIhUCotf.mp4
-A Cruel Angel's Thesis  |  https://cldup.com/DnfPR7rz16.mp4 | https://files.catbox.moe/ms3qil.mp4 /  https://files.catbox.moe/e5hhgt.mp4
-A Thousand Years - Christina Perri | https://files.catbox.moe/i255f1.mp4
-A Thousand Miles - Vanessa Carlton  |  https://files.catbox.moe/fj8l3p.mp4
-【HoloCouncil】 Hikaru Nara / 光るなら COVER | https://files.catbox.moe/lxubs7.mp4
-22 - Taylor Swift  | https://files.catbox.moe/mni2b5.mp4
-Love Story - Taylor Swift | https://files.catbox.moe/13xrze.mp4
-Love the Way You Lie - Eminem    | https://files.catbox.moe/h86qhw.mp4  /  https://cldup.com/FZA_j3gLl9.mp4
-Baby One More Time - Britney Spears | https://files.catbox.moe/cnmd2y.mp4
-Toxic - Britney Spears | https://files.catbox.moe/3zwjo5.mp4
-Adam's Song - Blink-182| https://files.catbox.moe/4rvml3.mp4
+Mamma Mia - ABBA  |  https://files.catbox.moe/4vpvad.mp4
+Satisfied - Hamilton   |  https://files.catbox.moe/59yajg.mp4
+I'll Make a Man Out of You - Mulan  |  https://files.catbox.moe/lsh72d.mp4
+All I want - Kodaline  |  https://files.catbox.moe/0r6uso.mp4
+A Thousand Years - Christina Perri | https://files.catbox.moe/jul68g.mp4
+A Thousand Miles - Vanessa Carlton  |  https://files.catbox.moe/iwx00v.mp4
+22 - Taylor Swift  | https://files.catbox.moe/i6tgeq.mp4
+Love Story - Taylor Swift | https://files.catbox.moe/z1vyyw.mp4 | v2 - https://files.catbox.moe/9rw2cf.mp4
+Love the Way You Lie - Eminem    | https://files.catbox.moe/6m8ebe.mp4
+Baby One More Time - Britney Spears | https://files.catbox.moe/tddlt9.mp4 | v2 - https://files.catbox.moe/gge1ov.mp4
+Toxic - Britney Spears | https://files.catbox.moe/0cugax.mp4
+Adam's Song - Blink-182| https://files.catbox.moe/wq5di5.mp4
 My Heart Will Go On - Celine Dion | https://files.catbox.moe/x9sqtu.mp4
 Smile - Lily Allen | https://files.catbox.moe/b9kt1d.mp4
-You Belong With Me - Taylor Swift |  https://files.catbox.moe/vk6uwk.mp4
-Someone Like You - Adele | https://files.catbox.moe/10yw1r.mp4
+You Belong With Me - Taylor Swift |  https://files.catbox.moe/aoh2zz.mp4
+Someone Like You - Adele | https://files.catbox.moe/jar7sp.mp4
 Poker Face - Lady Gaga | https://files.catbox.moe/1h799w.mp4
-I Miss You - blink-182 | https://files.catbox.moe/btaq2p.mp4
+I Miss You - blink-182 | https://files.catbox.moe/i3s4rx.mp4
 Want U Back - Cher Lloyd | https://files.catbox.moe/nr0io5.mp4
-How to Save a Life - The Fray | https://files.catbox.moe/up99ef.mp4
-This Love - Maroon 5 | https://files.catbox.moe/pcn5a0.mp4
-Viva La Vida - Coldplay  |  https://files.catbox.moe/l20ovo.mp4
-Mr. Brightside - The Killers  |  https://files.catbox.moe/ziyg3q.mp4 |  https://files.catbox.moe/i3l8ch.mp4
-Sunflower - Post Malone, Swae Lee | https://files.catbox.moe/btlvez.mp4 | https://files.catbox.moe/bxb0qm.mp4
+How to Save a Life - The Fray | https://files.catbox.moe/5tz4cc.mp4
+This Love - Maroon 5 | https://files.catbox.moe/mbjqy0.mp4
+Viva La Vida - Coldplay  |  https://files.catbox.moe/8nndd3.mp4
+Mr. Brightside - The Killers  |  https://files.catbox.moe/ts2n9g.mp4 |  v2 - https://files.catbox.moe/xmmhwd.mp4
+Sunflower - Post Malone, Swae Lee | https://files.catbox.moe/tm14hq.mp4 | v2 - https://files.catbox.moe/bxb0qm.mp4
 Beat It - Michael Jackson | https://files.catbox.moe/fi4qaq.mp4
-What The Hell - Avril Lavigne | https://files.catbox.moe/4sgqim.mp4
+What The Hell - Avril Lavigne | https://files.catbox.moe/qstd4b.mp4
 Sunday Morning - Maroon 5 | https://files.catbox.moe/q29zwr.mp4
-Blank Space - Taylor Swift  |  https://files.catbox.moe/osryky.mp4  /  https://cldup.com/dGymoBaNeS.mp4
+Blank Space - Taylor Swift  |  https://files.catbox.moe/f4o9zi.mp4
 September - Earth, Wind & Fire | https://files.catbox.moe/5nqsvv.mp4
 She Will Be Loved - Maroon 5 | https://files.catbox.moe/8pufuj.mp4
-1985 - Bowling for Soup | https://files.catbox.moe/ewz44e.mp4 |  https://files.catbox.moe/pd6s7g.mp4
-Single Ladies - Beyoncé | 
+1985 - Bowling for Soup | https://files.catbox.moe/ewz44e.mp4
 bad guy - Billie Eilish | https://files.catbox.moe/r4acsp.mp4
 A New Start | https://files.catbox.moe/vazly3.mp4
 Radioactive - Imagine Dragons |  https://files.catbox.moe/jxbbye.mp4
@@ -66,7 +62,7 @@ Sugar, We're Goin Down - Fall Out Boy |  https://files.catbox.moe/xcdt3v.mp4
 Somebody That I Used to Know - Gotye  |   https://files.catbox.moe/2nmrx4.mp4
 Wait for It - Hamilton   |  https://files.catbox.moe/ponyl1.mp4
 Eye of the Tiger - Survivor  |  https://files.catbox.moe/82jxzg.mp4
-Top of the World - The Chicks | https://cldup.com/pRmkQhadGw.mp4
+Top of the World - The Chicks | https://files.catbox.moe/8bat4a.mp4
 Hey, Soul Sister - Train | https://files.catbox.moe/wobaum.mp4
 All Star - Smash Mouth  |  https://files.catbox.moe/g027ov.mp4
 Circle of Life - The Lion King  |   https://files.catbox.moe/mj633b.mp4
@@ -86,15 +82,15 @@ Beautiful Girls - Sean Kingston | https://files.catbox.moe/vveer2.mp4
 Riptide - Vance Joy | https://files.catbox.moe/u4lccf.mp4
 Complicated - Avril Lavigne | https://files.catbox.moe/octtou.mp4
 Sweater Weather - The Neighbourhood | https://files.catbox.moe/b6xbk2.mp4
-Bad Day - Daniel Powter | https://files.catbox.moe/1f2ibv.mp4 / https://cldup.com/O_H-HRh7XB.mp4
-All I want - Kodaline (Dog ver) | https://files.catbox.moe/zobftk.mp4
-Jar of Hearts - Christina Perri | https://cldup.com/71z6g3sOFj.mp4
-The Rainbow Connection - Jim Henson | https://cldup.com/6v5I-bZFYa.mp4
-All the Small Things - Blink-182  |  https://cldup.com/rYHnyLakfS.mp4
-Numb - Linkin Park  |  https://cldup.com/NAbulOzTwG.mp4
-I'll Be - Edwin McCain | https://cldup.com/E5UOvZlIgW.mp4
+Bad Day - Daniel Powter | https://files.catbox.moe/1f2ibv.mp4
+All I want - Kodaline (Dog ver) | https://files.catbox.moe/8keivg.mp4
+Jar of Hearts - Christina Perri | https://files.catbox.moe/yljn7b.mp4
+The Rainbow Connection - Jim Henson | https://files.catbox.moe/upqbbr.mp4
+All the Small Things - Blink-182  |  https://files.catbox.moe/yaznfl.mp4
+Numb - Linkin Park  |  https://files.catbox.moe/6wk8pj.mp4
+I'll Be - Edwin McCain | https://files.catbox.moe/ubaz4k.mp4
 Come As You Are - Nirvana | https://files.catbox.moe/mm09ri.mp4
-When I Look At You - Miley Cyrus | https://cldup.com/2ZmkSUjYn0.mp4
+When I Look At You - Miley Cyrus | https://files.catbox.moe/2lbwt6.mp4
 Unwritten - Natasha Bedingfield | https://files.catbox.moe/ic2615.mp4
 Little Talks - Of Monsters and Men | https://files.catbox.moe/churpr.mp4
 Drown - Bring Me The Horizon | https://files.catbox.moe/lzrmui.mp4
@@ -111,9 +107,23 @@ Astrogirl - Tsukumo Sana | https://files.catbox.moe/c0ofim.mp4
 Glimpse of Us - Joji | https://files.catbox.moe/x8l6jd.mp4
 Until I Found You - Stephen Sanchez	 | https://files.catbox.moe/w6dvmy.mp4
 deja vu - Olivia Rodrigo	| https://files.catbox.moe/epa7fm.mp4
+==Added the videos below this== |
+Sugar, We're Goin Down - Fall Out Boy | https://files.catbox.moe/xcdt3v.mp4
+Leave It All to Me - Miranda Cosgrove | https://files.catbox.moe/brs3br.mp4
+Drunk - Ed Sheeran | https://files.catbox.moe/5a6vg2.mp4
+I'm Yours - Jason Mraz | https://files.catbox.moe/1bcse1.mp4
+Still Into You - Paramore | https://files.catbox.moe/w54tyq.mp4
+Adam's Song - Blink-182 v2 | https://files.catbox.moe/vfxf0j.mp4
+Hero - Enrique Iglesias | https://files.catbox.moe/c81mwm.mp4
+I'm Your Treasure Box - Houshou Marine | https://files.catbox.moe/pr80iz.mp4 | Duet - https://files.catbox.moe/13038w.mp4
+The Middle - Jimmy Eat World | https://files.catbox.moe/jlr47t.mp4
+Feel Good Inc - Gorillaz | https://files.catbox.moe/sbb1di.mp4
+Always - Blink-182	| https://files.catbox.moe/byjey2.mp4
 
 
 ***
+
+
 
 ###->Bottom of the page<-
 ***

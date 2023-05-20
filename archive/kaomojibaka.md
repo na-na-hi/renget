@@ -23,8 +23,7 @@ https://rentry.org/aicg_extra_information [Pictures of the frontends and other s
 >Tavern
 https://github.com/SillyLossy/TavernAI
 https://rentry.org/aicg4retards [THE guide for retards and phonetards, this means you]
-https://github.com/AmmoniaM/Spermack [Russki Slack Claude proxy]
-https://github.com/PandarusAnon/slaude [Another Slaude proxy]
+https://github.com/PandarusAnon/slaude [Slaude proxy]
 https://github.com/bfs15/slaude [aisu fork]
 https://rentry.org/ClaudeJB
 >Agnai
