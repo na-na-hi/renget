@@ -2,7 +2,7 @@
 
  "Poker night at the inventory" with pokemons
 
-Lliam shipping guildmembers 
+Lliam shipping Team Cozy
 
 Chespin and Wooper cuddling in bed (no homo)
 
@@ -29,8 +29,6 @@ A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
 Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
 and/or
 Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm
-
-redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg
 
 lliam doing gendo pose when facing phanpys team
 
@@ -82,8 +80,6 @@ Elm using his shadow sneak shoryuken on a Pelipper
 
 Ronnie screaming at a Kricketot
 
-Cyndaquil getting powdered Blast Seed thrown in his face
-
 A scene of the artist's choice from A 'Mon, Gus
 
 (assuming you do comics) A small comic about particularly desperate guild members trying in vain to use the request board as a replacement for 4chan
@@ -101,8 +97,6 @@ Outlaw Smeargle swiping Gus's lunch
 Chespin using his vines to hold Wooper like a gun
 
 Booker, Sneasel & Gus watching Meloetta's performance (with various characters at background idk)
-
-Kina pepper spraying Cyndaquil
 
 Lliam and Macom doing their mental card game
 
@@ -129,6 +123,12 @@ Togetic catching Wooper getting drunk and covering for him
 Carrot and Hazel arriving to the guild
 
 **Finished Requests (Some links pending gallery uploads)**
+redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg
+
+~~Cyndaquil getting powdered Blast Seed thrown in his face~~
+
+Kina pepper spraying Cyndaquil
+
 ~~Togetic wearing custom-made Team Cozy merchandise to show he's their #1 fan~~
 
 ~~Gus wearing a comically large cowboy hat~~

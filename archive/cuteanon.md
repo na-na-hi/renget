@@ -1,15 +1,21 @@
 cute anon's shill rentry for you to read and enjoy
 
-CARDS (still learning this):
+Cards:
 
-![Paper Mario](https://files.catbox.moe/mhp6ed.png)
+Paper Mario: https://www.characterhub.org/characters/Anonymous/paper-mario
+Murasa Minamitsu: https://www.characterhub.org/characters/Anonymous/murasa-minamitsu
+Starborn: https://www.characterhub.org/characters/Anonymous/Starborn
 
 Direct C.AI ports:
-![Super Mario](https://files.catbox.moe/c68m8x.png)
-![Donkey Kong -kart-](https://files.catbox.moe/ct2dtw.png)
-![Doremy Sweet](https://files.catbox.moe/j34s8n.png)
 
-CHARACTER.AI:
+Super Mario: https://www.characterhub.org/characters/Anonymous/super-mario
+Donkey Kong -kart-: https://www.characterhub.org/characters/Anonymous/donkey-kong-kart
+Shy Gal: https://www.characterhub.org/characters/Anonymous/shy-gal
+Doremy Sweet: https://www.characterhub.org/characters/Anonymous/doremy-sweet
+Punished Reisen: https://www.characterhub.org/characters/Anonymous/punished-reisen
+
+
+Old character.ai links:
 
 Touhous:
 cool reisen: https://beta.character.ai/chat?char=44Sk8qToil9OQNZZV46NWk28lq3RuM-_ouw02ImT5gA
@@ -34,7 +40,4 @@ ctf_2fort: https://beta.character.ai/chat?char=QpD_g0Liev1atmra_rMsHpmD4cDkJS5Jy
 THE ALIEN: https://beta.character.ai/chat?char=KJpBw1p65ureNOw3ke7eGM6KPhqEmxbNln7MvkjKARs
 Evil Guy (i'm pretty sure this guy is shadowbanned): https://beta.character.ai/chat?char=T3sHG72nY-7I8IWo7p1U_b-q_8HvKooG4AzGH4LovlA
 The Server Room: https://beta.character.ai/chat?char=1ZGtVNiwzzJ89SbLR5ryWbRTRiG8FXgCfyzLJMHoWaE
-
-
-Something Else: 
-https://beta.character.ai/chat?char=eNgO5Uqef1xx7T1nUHlERibO04hFFO1MxBtWXy-4iUg
+Something Else: https://beta.character.ai/chat?char=eNgO5Uqef1xx7T1nUHlERibO04hFFO1MxBtWXy-4iUg

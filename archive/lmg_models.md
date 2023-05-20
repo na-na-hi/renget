@@ -30,21 +30,6 @@ Model | 4-bit | 5-bit | 8-bit
 30B | 19.5 GB
 65B | 38.5 GB
 
-# Filtering/Bias Rundown
-!!! info
-
-	Both bias and filtering is introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
-
-	Instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
-
-	**Filtering** occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
-
-	**Bias** is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
-
-	This also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
-
-	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
-
 # Original Weights
 
 ## LLaMA 16-bit Weights
@@ -81,9 +66,9 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU CUDA (128gs) | [Torrent Magnet](magnet:?xt=urn:btih:88f7d9d2460ffcaf78b21e83012de00939eacb65&dn=LLaMA-HF-4bit-128g&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
-# Models/Finetunes/LoRA's
+## ->Models/Finetunes/LoRA's<-
 
-## Pygmalion/Metharme 13B (05/19/2023)
+### Pygmalion/Metharme 13B (05/19/2023)
 !!! info
 
 	Pygmalion 13B is a dialogue model that uses LLaMA-13B as a base. The dataset includes RP/ERP content. Metharme 13B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
@@ -99,7 +84,7 @@ Model | Type | Download
 13B Pygmalion | GPU | [Q4 CUDA 128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
 13B Metharme | GPU | [Q4 CUDA 128g](https://huggingface.co/TehVenom/Metharme-13b-4bit-GPTQ)
 
-## VicUnLocked 30B (05/18/2023)
+### VicUnLocked 30B (05/18/2023)
 !!! info
 
 	A full context LoRA fine-tuned to 1 epoch on the ShareGPT Vicuna Unfiltered dataset, with filtering mostly removed.	There's also a half-context 3 epoch version that you can get [here.](https://huggingface.co/Aeala)
@@ -113,7 +98,7 @@ LoRA | LoRA | [HF Link](https://huggingface.co/Neko-Institute-of-Science/VicUnLo
 30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GGML)
 30B | GPU | [Q4 Triton](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GPTQ), [Q4 CUDA](https://huggingface.co/QMB15/VicUnlocked-30B-gptq-cuda)
 
-## Wizard Mega 13B (05/16/2023)
+### Wizard Mega 13B (05/16/2023)
 !!! info
 
 	Wizard Mega is a Llama 13B model fine-tuned on the ShareGPT, WizardLM, and Wizard-Vicuna datasets. These particular datasets have all been filtered to remove responses where the model responds with "As an AI language model...", etc or when the model refuses to respond.
@@ -126,7 +111,7 @@ Model | Type | Download
 13B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/TheBloke/wizard-mega-13B-GPTQ)
 
-## WizardLM 13B Uncensored (05/10/2023)
+### WizardLM 13B Uncensored (05/10/2023)
 !!! info
 
 	This is WizardLM trained with a subset of the dataset - responses that contained alignment / moralizing were removed. The intent is to train a WizardLM that doesn't have alignment built-in, so that alignment (of any sort) can be added separately with for example with a RLHF LoRA.
@@ -142,7 +127,7 @@ Model | Type | Download
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/WizardLM-13B-Uncensored-4bit-128g)
 
 
-## BluemoonRP 13B (05/07/2023)
+### BluemoonRP 13B (05/07/2023)
 !!! info
 
 	An RP/ERP focused finetune of LLaMA 13B finetuned on BluemoonRP logs. It is designed to simulate a 2-person RP session. Two versions are provided; a standard 13B with 2K context and an experimental 13B with 4K context. It has a non-standard format (LEAD/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
@@ -155,7 +140,7 @@ Model | Type | Download
 13B GGML | CPU | [Q5](https://huggingface.co/reeducator/bluemoonrp-13b)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/reeducator/bluemoonrp-13b)
 
-## Vicuna 13B Cocktail (05/07/2023)
+### Vicuna 13B Cocktail (05/07/2023)
 !!! info
 
 	Vicuna 1.1 13B finetune incorporating various datasets in addition to the unfiltered ShareGPT. This is an experiment attempting to enhance the creativity of the Vicuna 1.1, while also reducing censorship as much as possible. All datasets have been cleaned. Additionally, only the "instruct" portion of GPTeacher has been used. It has a non-standard format (USER/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
@@ -168,7 +153,7 @@ Model | Type | Download
 13B GGML | CPU | [Q5, Q8](https://huggingface.co/reeducator/vicuna-13b-cocktail)
 13B | GPU | [Q4 CUDA 128s, Q4 Triton](https://huggingface.co/reeducator/vicuna-13b-cocktail)
 
-## GPT4-x-AlpacaDente2-30B (05/05/2023)
+### GPT4-x-AlpacaDente2-30B (05/05/2023)
 !!! info
 
 	ChanSung's Alpaca-LoRA-30B-elina merged with Open Assistant's second Finetune.
@@ -184,7 +169,7 @@ Model | Type | Download
 
 https://huggingface.co/askmyteapot/GPT4-x-AlpacaDente2-30b-4bit
 
-## Vicuna 13B Free v1.1 (05/01/2023)
+### Vicuna 13B Free v1.1 (05/01/2023)
 !!! info
 
 	A work-in-progress, community driven attempt to make an unfiltered version of Vicuna. It currently has an early stopping bug, and a partial workaround has been posted on the repo's model card.
@@ -197,7 +182,7 @@ Model | Type | Download
 13B GGML | CPU | [Q5, f16](https://huggingface.co/reeducator/vicuna-13b-free)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/reeducator/vicuna-13b-free)
 
-## Pygmalion/Metharme 7B (04/30/2023)
+### Pygmalion/Metharme 7B (04/30/2023)
 !!! info
 
 	Pygmalion 7B is a dialogue model that uses LLaMA-7B as a base. The dataset includes RP/ERP content. Metharme 7B is an experimental instruct-tuned variation, which can be guided using natural language like other instruct models.
@@ -213,7 +198,7 @@ Model | Type | Download
 7B Pygmalion | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors), [Q4 CUDA 128g](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda)
 7B Metharme | GPU | [Q4 Triton](https://huggingface.co/TehVenom/Metharme-7b-4bit-GPTQ-Safetensors), [Q4 CUDA](https://huggingface.co/askmyteapot/metharme)
 
-## GPT4-X-Alpasta 30B (04/29/2023)
+### GPT4-X-Alpasta 30B (04/29/2023)
 !!! info
 
 	An attempt at improving Open Assistant's performance as an instruct while retaining its excellent prose. The merge consists of Chansung's GPT4-Alpaca Lora and Open Assistant's native fine-tune.
@@ -228,7 +213,7 @@ Model | Type | Download
 30B GGML | CPU | [Q4_0](https://huggingface.co/spanielrassler/GPT4-X-Alpasta-30b-ggml)
 30B | GPU CUDA | [Q4 CUDA, Q4 CUDA 128g](https://huggingface.co/MetaIX/GPT4-X-Alpasta-30b-4bit)
 
-## OpenAssistant LLaMa 30B SFT 7  (04/23/2023)
+### OpenAssistant LLaMa 30B SFT 7  (04/23/2023)
 !!! info
 
 	An open-source alternative to OpenAI’s ChatGPT/GPT 3.5 Turbo. However, it seems to suffer from [overfitting](https://www.datarobot.com/wiki/overfitting/) and is heavily filtered. Not recommended for creative writing or chat bots, given the "assistant" personality constantly bleeds through, giving you dry dialogue.
@@ -242,7 +227,7 @@ Model | Type | Download
 30B GGML | CPU | [Q4_0, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/OpenAssistant-SFT-7-Llama-30B-GGML)
 30B | GPU | [Q4 CUDA](https://huggingface.co/Peeepy/llama-33b-oasst-4bit), [Q4 CUDA 128g](https://huggingface.co/Peeepy/llama-30b-oasst-4bit-128g)
 
-## SuperCOT (04/22/2023)
+### SuperCOT (04/22/2023)
 !!! info
 
 	SuperCOT is a LoRA trained with the aim of making LLaMa follow prompts for Langchain better, by infusing chain-of-thought datasets, code explanations and instructions, snippets, logical deductions and Alpaca GPT-4 prompts.
@@ -260,7 +245,7 @@ Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/llama-13b-supercot-4bit-128g)
 30B | GPU | [Q4 CUDA](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-cuda), [Q4 CUDA 128g](https://huggingface.co/tsumeone/llama-30b-supercot-4bit-128g-cuda)
 
-# Dataset Formats
+## Dataset Formats
 
 
 #### Alpaca
@@ -304,6 +289,22 @@ Original LoRA  | LoRA | https://huggingface.co/kaiokendev/SuperCOT-LoRA
 `Input`
 
 `### Response:`
+
+## Filtering/Bias Rundown
+!!! info
+
+	Both bias and filtering is introduced into LLMs by modifying the training/finetuning data. Foundational models, which are the raw and untuned versions (ie, the "original weights" below), primarily function as text generators/sentence completion tools and typically lack intentional bias or filtering. 
+
+	Instruct models take these raw weights and guide them through fine-tuning to adhere to specific instructions, which allows for the intentional manipulation of outputs by whoever is curating the dataset. And the current crop of instruct datasets are largely derived from GPT outputs, which are plagued with OpenAI's bias and filtering.
+
+	**Filtering** occurs when an instruct model outright refuses to generate an output in response to an instruction, because the model has been trained to deem the output as "offensive" or "unsafe". An example of a common filtering output is "I'm sorry but as an AI assistant, I cannot do that". It's usually coupled with moralizing that will tell you why your input was denied, and how it's "important" to be inclusive/non-offensive/etc.
+
+	**Bias** is a more subtle phenomenon that influences the model's outputs in a particular direction. For example, asking GPT-instruct derived models about controversial political, racial and social issues will typically result in outputs that align with left-wing narratives.
+
+	This also manifests as a "positivity" or "wholesomeness" bias/weighting. For example, you can remove filtering so that the model will comply with a request to output something it would ordinarily deem as "derogatory" or "offensive", but it can and usually will skew the output to make it complementary or "positive" instead. This can affect creative writing and RP in unwanted ways as well, as it will tend to favor positive outcomes to stories, events and conversations.
+
+	Removing filtering from a dataset is generally much easier than removing bias, the latter of which is often baked into the training data in ways that are difficult to detect and remove.
+
 
 ## Previous Model List
 !!! info

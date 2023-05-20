@@ -37,6 +37,7 @@
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 |
 **Learn**|
+[Machine Learning Self Learning Rentry](https://rentry.org/machine-learning-roadmap)|Guide to learn ML from basic maths to python to ML concepts
 [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)|Give it a read even if you aren't sufficient with your math so you can get a feel of what is happening
 [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)|Do your homework 
 [Huggingface NLP Course](https://huggingface.co/course/chapter1/1)|Make sure to look at the other courses as well 

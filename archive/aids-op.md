@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/OFIswFc.png)
-The Long Wait Edition
+![suggested OP image](https://imgur.com/WpAboSX.jpg)
+Ay Papi! Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>430248110
+Last thread: >>430416797
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/19) Anon whips up a Saga guide: https://rentry.org/How-I-do-Saga
+\>(05/20) Me llaman papi chulo https://bloomchatbot.vercel.app https://huggingface.co/sambanovasystems
+\>(05/20) Sudo goes long-form https://twitter.com/jamesjyu/status/1658933765824192512
+\>(05/20) Neat https://vcai.mpi-inf.mpg.de/projects/DragGAN
+(05/19) Anon whips up a Saga guide: https://rentry.org/How-I-do-Saga
 (05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
-(05/17) NAI announces announcements https://blog.novelai.net/text-model-progress-is-going-good-82a94855445e
-(05/16) Altman visits DC https://www.youtube.com/watch?v=MZcwAb5RRLI
-(05/10) Colabchads, it's over? >>429365520 ; Saga juices freeform >>429377904 >>429381085
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Create cards for next week's theme: Catgirl Friday! >>430340451
+Create cards for next week's theme: Catgirl Friday! >>430340451
 
 
 ##Perma-Template

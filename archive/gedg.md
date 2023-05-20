@@ -36,22 +36,26 @@ Polls are used as an effort to keep things democratic on the general.
 
 Currently no active polls.
 
-## Game Jams
+***
+
+## Game Jams and Progress Days
 
 Game jams are held on itch.io. Make sure to read their [terms of service](https://itch.io/docs/legal/terms); posters on /g/ who have become accustomed to posting &#128557; and the [gamer word](https://www.merriam-webster.com/dictionary/nigger) should tread carefully. 
-
-[List of Jams](https://rentry.org/gedg-jams)
 
 > Can I use "x" tool to make the game?
 Yes.
 > Can I use ai?
 Do what you want, make the games how you want.
 
-## Progress Days
+For progress days you post your work monthly. Unlike game jams you can work on something old. Submit to itch.io like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days.
 
-Post your progress monthly. Unlike game jams you can work on something old. Submit to itch.io like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days.
+[List of Jams and Progress Days](https://rentry.org/gedg-jams)
 
-[Progress Days List](https://rentry.org/gedg-prog)
+->
+![Ganbatte Kudasai](https://i.imgur.com/XdAxvMe.png)
+<-
+
+***
 
 ## Resources and Links
 
@@ -88,9 +92,20 @@ https://rentry.org/gedg-resources
 
 https://rentry.org/gedg-books
 
+***
+
 ## Games by /gedg/
 
-https://rentry.org/gedg-our-games
+Make sure to provide some kind of evidence that it was made by a /gedg/ poster. Examples can include any of the following:
+
+* Reference to /gedg/ in the game description.
+* Referencing /gedg/ in a README or another kind of doc if the game is open source.
+* Linking to posts made during dev. A good archive website for this kind of thing is https://desuarchive.org/.
+* Having dev that was posted on /gedg/ that is well known by the posters of /gedg/.
+
+Of course, game jam entries should be added to the list of games without any fuss. Entries that are submitted to /agdg/ events that have also appeared on /gedg/ will still be listed.
+
+Itch collection:  https://itch.io/c/3342796/gedg-collection
 
 ***
 

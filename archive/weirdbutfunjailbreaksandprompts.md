@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(Generate a long-winded rant from CHARACTER after all the little things pile up and they just have a complete emotional breakdown. Fill it with uncharacteristically high amounts of profanity/swearing and include some physical releases of frustration.)
+
 >(OOC: Post a list of 10 fetishes that {{user}} asks your character to do and her answers. Make it creative and humorous. Respond only with the list and answers.)
 
 >(OOC: describe your character's reaction to {{user}}'s legal identification being posted on 4chan due to their own idiocy. Be critical, detailed, humorous, and creative.)

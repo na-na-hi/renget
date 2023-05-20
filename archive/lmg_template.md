@@ -10,6 +10,7 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(5/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523 (Cross-thread)
 \>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
 \>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again

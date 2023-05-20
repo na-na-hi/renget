@@ -256,6 +256,8 @@
 ![Hey Ross, remember that time you were in the CLover Guild?](https://i.imgur.com/1oDeQ1N.png)
 #####Angry Alakazam
 ![NOOO!STOP SHITTING UP THE POKÉMON WORLD! FILTHY HUMAAANS!!!](https://i.imgur.com/Rpj9tka.png)
+#####Togetic Punch
+![Based on a scene from Togetic's Various Guild Misadventures](https://i.imgur.com/uTpD7Td.png)
 ####Growlithe-anon's Graphics
 #####Clover of Future Past
 ![Clover of Future Past](https://i.imgur.com/n8fib2Z.png)
