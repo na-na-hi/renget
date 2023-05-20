@@ -14,6 +14,7 @@ Chinese alternative, sometimes better than google/bing translator: [[fanyi.baidu
 **4chan Archives**: Use these to search past /mmd/ threads.
 [[4archive.org]](https://4archive.org/board/e/)
 [[archived.moe]](https://archived.moe)
+[[archive.palanq.win]](https://archive.palanq.win/e/)
 [[4chanarchives.com]](https://4chanarchives.com)
 (Dead, use [[archive.org]](http://archive.org/) to browse it.) ~~[[archive.alice.al]](https://archive.alice.al)~~
 (Dead, use [[archive.org]](http://archive.org/) to browse it.) ~~[[archive.wakarimasen.moe]](https://archive.wakarimasen.moe)~~

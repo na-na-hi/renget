@@ -1,16 +1,16 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.15 | Helped Making Waifus Real Since 2023* <-
+->*V 1.16 | Helped Making Waifus Real Since 2023* <-
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
 !!! Note Rentry Update: Week 3 of May, 2023
-     New news updated @ May 16th || Description and name updated for "Proxy for Tavern', shortened number of characters
+     New news updated @ May 20th || Description and name updated for "Proxy for Tavern', shortened number of characters | Last template edit was utter dogshit. Reverted some changes, implemented anon user inputs and added an overflow chart down below. Should have about ~200 extra characters even with the news section as it is right now.
 ***
-##->Main Body for OP Template<-
+##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
-\>(5/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
+\>(05/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
 \>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
 \>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
@@ -24,46 +24,58 @@
 https://rentry.org/er2qd
 
 ►**General LLM Guides & Resources**
-https://rentry.org/local_LLM_guide (Newb Guide)
-https://rentry.org/TESFT-LLaMa (LlaMA Guide)
-https://rentry.org/machine-learning-roadmap#machine-learning-concepts (LLM Setup Guide)
+\>Newb Guide
+https://rentry.org/local_LLM_guide
+\>LlaMA Guide
+https://rentry.org/TESFT-LLaMa
+\>Machine Learning Roadmap
+https://rentry.org/machine-learning-roadmap
+\>Local Models Papers
 https://rentry.org/LocalModelsPapers
+\>Quantization Guide
 https://rentry.org/easyquantguide
+\>lmg General Resources
 https://rentry.org/lmg-resources
-https://rentry.org/eq3hg (AMD Guide)
-https://rentry.org/Pyggymancy (Pyggy. Windows)
-https://rentry.org/pygmalion-local (Pyggy. Linux)
-https://github.com/ggerganov/llama.cpp
-https://github.com/openlm-research/open_llama
+\>ROCm AMD Guide
+https://rentry.org/eq3hg
 
 ►**Model DL Links, & Guides**
+\>Model Links & DL
 https://rentry.org/lmg_models
+\>lmg Related Links
 https://rentry.org/LocalModelsLinks
 
 ►**Text Gen. UI**
+\>Text Gen. WebUI
 https://github.com/oobabooga/text-generation-webui
+\>KoboldCPP
 https://github.com/LostRuins/koboldcpp
+\>KoboldAI
 https://github.com/0cc4m/KoboldAI
+\>SimpleLlama
 https://github.com/NO-ob/simpleLlama
 
-►**Popular HF Model CTRs:**
-https://huggingface.co/eachadea
-https://huggingface.co/camelids
-https://huggingface.co/waifu-workshop
-https://huggingface.co/ehartford
-https://huggingface.co/TheBloke
-
 ►**ERP/RP/Story Gen.**
-https://rentry.org/RPBT (RolePlayBot)
-https://rentry.org/qib8f (ERP/RP-Data)
-https://rentry.org/better-llama-roleplay (LLaMA RP Proxy)
+\>RolePlayBot
+https://rentry.org/RPBT
+\>ERP/RP Data Collection
+https://rentry.org/qib8f
+\>LLaMA RP Proxy
+https://rentry.org/better-llama-roleplay
 
 ►**Other Resources**
-https://rentry.org/lmg-drama (Drama Rentry)
-https://rentry.org/lmg-resources#all-things-miku (Miku)
-https://rentry.org/lmg_template (Baking Template)
-https://pastebin.com/LmRhwUCA (Benchmark Prompts)
-https://github.com/anon998/simple-proxy-for-tavern (+output quality)
+\>Drama Rentry
+https://rentry.org/lmg-drama
+\>Miku
+https://rentry.org/lmg-resources#all-things-miku
+\>Baking Template
+https://rentry.org/lmg_template
+\>Benchmark Prompts
+https://pastebin.com/LmRhwUCA
+\>Simple Proxy for WebUI (+output quality)
+https://github.com/anon998/simple-proxy-for-tavern
+\>Additional Links
+https://rentry.org/lmg_template#additional-resource-links
 
 ##->Follow-up Re-cap Post (Optional, but great to have)<-
 **►Recent Highlights from the Previous Thread: >>92XXXXXX (Previous OP Thread Reference)**
@@ -77,9 +89,25 @@ https://github.com/anon998/simple-proxy-for-tavern (+output quality)
 
 **►Recent Highlight Post from the Previous Thread: >>92XXXXXX (Previous Recap Post Reference)**
 
+##->Additional Resource Links:<-
+Description: | Links:
+:-- | --
+llama.cpp | https://github.com/ggerganov/llama.cpp
+Open LlaMA | https://github.com/openlm-research/open_llama
+**Other Rentry Pages:** | **-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_**
+Pygmalion. Windows Guide | https://rentry.org/Pyggymancy
+Pygmalion Linux Guide | https://rentry.org/pygmalion-local
+Moe Archives | https://rentry.org/ashh2
+**Popular HF Model Contributors:** | **-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_**
+`HF` Account: Eachadea | https://huggingface.co/eachadea
+`HF` Account: Camelids | https://huggingface.co/camelids
+`HF` Account: Waifu Workshop | https://huggingface.co/waifu-workshop 
+`HF` Account: Ehartford | https://huggingface.co/ehartford
+`HF` Account: TheBloke | https://huggingface.co/TheBloke
+
 ***
-##->Archived News<-
-Date (MM/DD/YYYY) | Description:
+##->Archived News:<-
+Date: (MM/DD/YYYY) | Description:
 ------ | ------
 05/06/2023 | MPT 7B, 65k context model trained on 1T tokens: https://huggingface.co/mosaicml/mpt-7b-storywriter
 05/05/2023 | GPT4-x-AlpacaDente2-30b. https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b

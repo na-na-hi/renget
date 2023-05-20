@@ -156,3 +156,12 @@ LCSMP would be Liter, Centi, Scarlet, Modernia and Privaty
 #### Does Gold Mileage expire when the banner ends?
 No, you can save it and use it on whatever banner you want
 Pilgrim banners are the best ones to use the mileage on because the Pilgrims have 1% instead of 2% chance on focus
+
+#### What happens when I reach lvl 200?
+The first 5 Nikkes that you level to lvl 200 get permanently fused to the top row of the Sync Device and you can't remove them (as of now).
+![Top row](https://i.imgur.com/g0FCW4I.png)
+So if you have many LB3 characters choose wisely between meta/waifus
+
+Every level from then on will be primarily gated by dust and will level all the Nikkes on the Sync by 1
+Again, this is why you farm dust on every single event
+![Cost per level](https://i.imgur.com/0A9Hkw1.png)
