@@ -87,8 +87,8 @@
 [LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
 [LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
-[Guidance](https://github.com/microsoft/guidance)|Prompting tools by Microsoft based on Handlebars templating 
-[Local LLM Agent with Guidance](https://github.com/QuangBK/localLLM_guidance)|Uses above to create a react agent [Example](https://archive.is/nfRdN) 
+[Guidance Fork](https://github.com/Maximilian-Winter/guidance)|Fork of a prompting tool by Microsoft with llama-cpp-python support
+[Local LLM Agent with Guidance](https://github.com/QuangBK/localLLM_guidance)|Uses Guidance to create a react agent [Example](https://archive.is/nfRdN) 
 [ReLLM](https://github.com/r2d4/rellm)|Regular Expressions for Language Model Completions
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |

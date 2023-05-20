@@ -1,10 +1,12 @@
 # -> List of Anon-Made Cards and .json Files <-
 !!! note New Additions
-Update | Characters
-:------: | :------:
-May 19th | Melony⠀-⠀*TavernAI* [Catbox](https://files.catbox.moe/a10dvo.png) *Card*
-May 12th | Lisia⠀-⠀*TavernAI* [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
-May 10th | Dawn⠀-⠀*TavernAI* [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
+Update | Characters | URLs
+:------: | :------: | :------: 
+May 20th | Wicke | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
+May 20th | Hex Maniac Helena | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
+May 19th | Melony | TavernAI [Catbox](https://files.catbox.moe/a10dvo.png) Card
+May 12th | Lisia | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
+May 10th | Dawn | TavernAI [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
@@ -20,6 +22,8 @@ Characters | URLs
 **Hilda** | TavernAI [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
 **Rosa** | TavernAI [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)
 **Lisia** | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
+**Wicke** | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
+Hex Maniac **Helena** | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
 **Melony** | TavernAI [Catbox](https://files.catbox.moe/a10dvo.png) Card
 **Iono** | TavernAI [Booruplus](https://booru.plus/+pygmalion969) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 

@@ -170,12 +170,15 @@ Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Ad
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:
 :--|:--|:--|:--|:-:
 [WizardLM](https://github.com/nlpxucan/WizardLM) | [nlpxucan](https://github.com/nlpxucan) | `GH` Repository | Trained model w/ full evolved instructions // `↳LlaMA 7B` | ◕ Ŏ
+[WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) | [Melodysdreamj](https://github.com/melodysdreamj) | `GH` Repository | "Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method" | ◕ Ŏ
 [WizardLM-7B](https://huggingface.co/TheBloke/wizardLM-7B-GGML) | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | Merging of delta weights w/ original Llama7B model // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== |  ◕ Ŏ 🔔
 [WizardLM alpaca evol instruct 70k unfiltered](https://huggingface.co/datasets/ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered) | [Ehartford](https://huggingface.co/ehartford) | `HF` Refined Dataset | "...WizardLM dataset victor123/evol_instruct_70k, removing instances of blatant alignment..." | ◕ Ŏ
 [WizardLM alpaca claude evol inst. 70k](https://huggingface.co/datasets/Norquinal/WizardLM_alpaca_claude_evol_instruct_70k) | [Norquinal](https://huggingface.co/Norquinal) | `HF` Refined Dataset | `Dataset: ↳Claude` // `Instruction: ↳WizardLM ` | ◕ Ŏ
 [WizardLM-7B Uncensored](https://huggingface.co/ehartford/WizardLM-7B-Uncensored) | [Ehartford](https://huggingface.co/ehartford) | `HF` Finetuned Model | `GPU` // `↳PyTorch` // `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` | ◕ Ŏ ✅
 [WizardLM-7B Uncensored GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) `⇲WizardLM-7B Uncensored` | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` // ==GPTQ 4-bit CUDA== | ◕ Ŏ ✅
 [WizardLM-7B Uncensored GGML](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) | [TheBloke](https://huggingface.co/TheBloke) | `HF` Finetuned & Quant. Models | `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` // ==GGML Quant. 4_0, 5_0, 5_1, 8_0== | ◕ Ŏ ✅🔔
+[wizard-vicuna-13b](https://huggingface.co/junelee/wizard-vicuna-13b) | [Junelee](https://huggingface.co/junelee) | `HF` [Model Implementation](https://github.com/melodysdreamj/WizardVicunaLM) | `GPU` // `↳PyTorch` | ◕ Ŏ
+[Wizard-Vicuna-7B-Uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-7B-Uncensored) ` ⇲wizard-vicuna-13b`| [Ehartford](https://huggingface.co/ehartford) | `HF` Trained Model | `GPU` // `↳PyTorch` // `Dataset: ↳WizardLM alpaca evol instruct 70k unfiltered` | ◕ Ŏ
 
 ####SuperCOT (LlaMA) Models, Guides & Resources:
 Project/Dataset Name: (Hyperlinked) | User(s) / Org. | Project Description: | Additional Info: (Framework, Inference, Quant. etc…) | Entry Tags:

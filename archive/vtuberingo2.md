@@ -29,13 +29,14 @@ Nyana_chan - https://streamable.com/k41yug
 Millie Mizuame - https://twitter.com/VTooters/status/1503071663444963338?s=20&t=eOnExOzW9upNDeyo8UbqbA, https://twitter.com/VTooters/status/1504589221239136258?s=20&t=eOnExOzW9upNDeyo8UbqbA
 Blossomcake - https://twitter.com/VTooters/status/1520147233383014401?s=20
 iori shinonara - https://www.youtube.com/shorts/-hacaOVDdSE
-Mumuguru - https://youtu.be/DJM_lXAJyg8 (fart time stamps in comments)
+Mumuguru - https://mega.nz/file/6bZwyJzZ#GZrza9dsiWZFxgWGhAfTiHnWuwSOBOrFpffa0v-mmI0 
 LumiiMari - https://www.youtube.com/watch?v=rI31YzGLtZE; https://www.youtube.com/watch?v=PzIwUUFaptQ; https://www.youtube.com/watch?v=qXW4y8EZATc; https://www.youtube.com/watch?v=VeLFLfWYRVg; https://www.youtube.com/watch?v=UYL239Z4v5M; https://www.youtube.com/watch?v=PEr9MSw2v60; https://www.youtube.com/watch?v=hKfx22XvMTE; https://www.youtube.com/watch?v=8DAWeVc13pc; https://www.youtube.com/watch?v=FOEhgxanf2E; https://youtu.be/Tk8amw-FoP4
 Gemuyo - https://twitter.com/Vtuberfartclips/status/1590589748535775232?s=20&t=988uef8HzuvSauvnVRRblA
 Juna Unagi - https://files.catbox.moe/12mftx.mp4
-Rune Hanekawa - https://www.twitch.tv/runehanekawa/clip/ManlyAbstemiousDolphinFloof-DGJ2AcKLE-b489Zs; https://www.twitch.tv/runehanekawa/clip/KawaiiStormyMeerkatPhilosoraptor-3tju62_I41V0_Mop?filter=clips&range=7d&sort=time; https://thisvid.com/videos/girl-vtuber-farting-burp
+Rune Hanekawa - https://www.twitch.tv/runehanekawa/clip/ManlyAbstemiousDolphinFloof-DGJ2AcKLE-b489Zs; https://www.twitch.tv/runehanekawa/clip/KawaiiStormyMeerkatPhilosoraptor-3tju62_I41V0_Mop?filter=clips&range=7d&sort=time; https://thisvid.com/videos/girl-vtuber-farting-burp; https://www.twitch.tv/runehanekawa/clip/RespectfulPrettiestArtichokePrimeMe-XMNnw92DaC8BTjJK?filter=clips&range=7d&sort=time
 Pomu Rainpuff (dubious) - https://streamable.com/bkrx2f
-Yuko Yurei - https://www.youtube.com/watch?v=n9Ank-Adx9w&t=8622s
+Yuko Yurei - https://www.youtube.com/watch?v=n9Ank-Adx9w&t=8622s; https://files.catbox.moe/i1tfr8.mp4
+Rena Anggraeni - https://youtube.com/shorts/IDKAlPKDoyQ?feature=share
 
 **Choco**
 Mori Calliope - https://youtu.be/nzukVcF4Tfw
@@ -53,10 +54,11 @@ Takane Lui - https://youtu.be/QYwew78SKg4
 Pavolia Reine - https://youtu.be/w-t9MZusn_0?t=10180
 Mori Calliope - https://www.youtube.com/watch?v=CstZsBWV3j8&t=1588s
 Nanashi Mumei - https://youtu.be/TXFR_Mrby7k?t=7248
-Finana Ryugu - https://youtu.be/tvtFiLBbItc?t=6060, https://www.youtube.com/watch?v=PRwiaJTbHks
+Finana Ryugu - https://youtu.be/tvtFiLBbItc?t=6060; https://www.youtube.com/watch?v=PRwiaJTbHks; https://files.catbox.moe/r0fgt9.mp4
 Ironmouse - https://www.youtube.com/watch?v=u1QxM91Ui-Q
 Kobo Kanaeru - https://youtu.be/GGRJOMF8Qfw, https://www.youtube.com/watch?v=HfsUhgrUYFg
 Scarle Yonaguni - https://www.youtube.com/watch?v=v4FFc8P9K8s, https://www.youtube.com/watch?v=J0LpqKp93I8
+Nyanners - https://youtu.be/GC4idq6vJyY
 
 **Vomit**
 Akai Haato - https://youtu.be/UDNpNdcruVM

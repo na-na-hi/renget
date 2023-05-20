@@ -108,6 +108,7 @@
 05/2023|[Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726)
 05/2023|[InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
 05/2023|[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://arxiv.org/abs/2305.07922)
+05/2023|[ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -188,6 +189,8 @@
 05/2023|[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
 05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.0913)
 05/2023|[Accelerating Transformer Inference for Translation via Parallel Decoding](https://arxiv.org/abs/2305.10427)
+05/2023|[Cooperation Is All You Need](https://arxiv.org/abs/2305.10449)
+05/2023|[PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

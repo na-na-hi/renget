@@ -24,6 +24,10 @@ https://github.com/nai-degen/TavernAIScale
 https://github.com/SillyLossy/TavernAI
 https://github.com/SillyLossy/TavernAI-extras
 
+####Todd/Slaude Tavern Guide
+Use at your own risk: https://i.imgur.com/gT7b4W1.jpg
+https://rentry.org/aids-tavern
+
 ###AgnAIstic
 https://agnai.chat/
 

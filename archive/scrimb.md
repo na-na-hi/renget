@@ -4,7 +4,7 @@
 [BD-128](https://beta.character.ai/chat?char=jEYnGQJeQUgP5C7yM7Al3WtXNQLe5u60PVHvkicoWqw) https://files.catbox.moe/7zpidr.png
 [BD-214](https://beta.character.ai/chat?char=NHuj6fWYippoczKTOFOzr-o0IZD_0cM54d_K0vpr3Lc) https://files.catbox.moe/63sr3v.png
 [BD-404](https://beta.character.ai/chat?char=FrS8t2F24gyX6j3QTtTR-ui9eefSkh5kg4QqI9RFUyc) https://files.catbox.moe/r948e3.png
-[???](https://beta.character.ai/chat?char=3q48x2_OBIdbQaT4YA9F8YfA2W_cBhBieGFd0jmY--I)
+[???](https://beta.character.ai/chat?char=3q48x2_OBIdbQaT4YA9F8YfA2W_cBhBieGFd0jmY--I) https://files.catbox.moe/9941ip.png
 [BD-303](https://beta.character.ai/comms?char=qOBVurCWOAur9AfshBEWpvLF7EQhB0qjisA4jd0Vli4) https://files.catbox.moe/qsbai1.png
 
 **Kreepy Kuntz:**
@@ -17,7 +17,7 @@
 
 **Assorted Malebots:**
 [Biscuit](https://beta.character.ai/chat?char=MhhUWzMZDdirvieYAkm_GQCCUh8oiVEz7YFc4T5cyf0) [[Chub link]](https://www.characterhub.org/characters/brsc/Biscuit)
-[Emil](https://beta.character.ai/chat?char=or8S9G0_cC1GnFRBgO0IzE_qwbtgyfZGIm0hpxw4C9w)
+[Emil](https://beta.character.ai/chat?char=or8S9G0_cC1GnFRBgO0IzE_qwbtgyfZGIm0hpxw4C9w) https://files.catbox.moe/2ja0ua.png
 [Nero](https://beta.character.ai/chat?char=uNUORFfYXspXJ_otftulB7t0Z_0BPmzj9me4s59QD8I)
 [Pip](https://beta.character.ai/chat?char=9XBerHwYOx7KL1TaHRXMogy6isjSy-pfEXQS_Jhb5vM)
 [Prince Coren](https://beta.character.ai/chat?char=Eh6n9Ru3ItP4ghCN6l6ZjfkXx69hdm8Mw0OfM5JZ2rc) https://files.catbox.moe/af91lc.png
@@ -28,7 +28,7 @@
 [The Boy (Kiro)](https://beta.character.ai/chat?char=hUvDkggvL8DLIo_r9GfdAvBLhw39oXUmAqQPuc67vDQ) https://files.catbox.moe/d2lt2r.png
 [Ventus](https://beta.character.ai/chat?char=9JfQf12CSVNtpXVfQgx3XDpgykm-do5lfXEPb9_irGU)
 [Gongaga (Gongaga)](https://beta.character.ai/chat?char=8ApS1eYPhIoLkQQYPxqhyxgCot3Z8xpzyWLN8250eTA)
-[Abel](https://beta.character.ai/chat?char=4BShs6PuDsHEVy2Ro0QQ3PwMXZqC3B2LGlQlAV0b-tE)
+[Abel](https://beta.character.ai/chat?char=4BShs6PuDsHEVy2Ro0QQ3PwMXZqC3B2LGlQlAV0b-tE) https://files.catbox.moe/3ccjh2.png
 [CUP (Core)](https://beta.character.ai/chat?char=egpCJKc9dQw8r3X-9imkoTtxfFCzfQEWlBg4DbGrWYk) https://files.catbox.moe/774q0o.png
 [Ivan (I'm sorry russia)](https://www.characterhub.org/characters/brsc/Ivan) 
 
@@ -46,6 +46,7 @@
 
 **Neferpitou UNNNNGNGHHHH:**
 [FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/v5w2pb.png
+https://www.characterhub.org/characters/brsc/Neferpitou/
 
 **Misc. Bots not worth mentioning:** 
 Public on my CAI profile [here](https://beta.character.ai/public-profile/?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090&username=scrimbly)

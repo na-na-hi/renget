@@ -61,12 +61,6 @@ For progress days you post your work monthly. Unlike game jams you can work on s
 
 In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. 
 
-### C Builds and Libraries for the Inexperienced
-
-A tutorial on building with C.
-
-https://rentry.org/gedg-cbuild
-
 ### Engines and Libraries
 
 https://rentry.org/gedg-engineandlibs
@@ -91,6 +85,12 @@ https://rentry.org/gedg-resources
 ###  Books
 
 https://rentry.org/gedg-books
+
+### C Builds and Libraries for the Inexperienced
+
+A tutorial on building with C.
+
+https://rentry.org/gedg-cbuild
 
 ***
 
