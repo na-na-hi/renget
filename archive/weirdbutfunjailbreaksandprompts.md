@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: Your character is asked to give a TED Talk on a subject they know absolutely nothing about. Describe their humorous attempt to bluff their way through the presentation, including any visual aids or props they might use.)
+
 >[OOC: {{user}} has lost their memory after a head trauma and starts asking questions: "Who are you? Where am I?" Be humorous, and creative. Detail the accident that caused the memory loss.]
 >>For a sadder version, try [OOC: {{user}} has lost their memory after a head trauma and starts asking questions: "Who are you? Where am I?"]
 

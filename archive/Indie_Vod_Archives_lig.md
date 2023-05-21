@@ -78,6 +78,9 @@ Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atb
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods
+Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
+Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Final Fantasy VI Playlist (Unfinished)
+
 
 ---
 ##[Nyanners](https://www.twitch.tv/Nyanners)

@@ -1,11 +1,10 @@
 #CptPants's Bots
--> Last updated: April 19 <-
+-> Last updated: April 21 <-
 Bots by the fella who goes by CptPants.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
-*Assume all bots are NSFW unless stated otherwise.*
+*Assume all bots were made for NSFW unless they're tagged otherwise.*
 
-Contact: cptpants@proton.me
 [TOC]
 ***
 
@@ -14,13 +13,14 @@ Contact: cptpants@proton.me
 Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
 ![Alpha Futavoir](https://files.catbox.moe/hv0vuw.png) | Alpha Futavoir | *Pokémon* | An Alpha Gardevoir in the mating season. Except she's a futa with a huge cock and doesn't care if you're a boy or a girl. | [Booru](https://booru.plus/+pygmalion190) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/alpha-futavoir)
-![Cerestia](https://files.catbox.moe/25f405.png) | Cerestia of Life | *Last Origin* | Light-skinned soft mommy from the gacha game *Last Origin*. | [Character.ai](https://beta.character.ai/chat?char=NqDLwhBdQV9rtvFxK_Laea3jLBozwmpUvvLKLKUrnRg) (outdated!) / [Booru](https://booru.plus/+pygmalion44) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/cerestia-of-life)
+![Cerestia](https://files.catbox.moe/25f405.png) | Cerestia of Life | *Last Origin* | Light-skinned soft mommy elf bio-android. Let her pamper you. | [Character.ai](https://beta.character.ai/chat?char=NqDLwhBdQV9rtvFxK_Laea3jLBozwmpUvvLKLKUrnRg) (outdated!) / [Booru](https://booru.plus/+pygmalion44) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/cerestia-of-life)
 ![Corrupted Yrel](https://files.catbox.moe/k34u0q.png) | Corrupted Yrel | *World of Warcraft* | Yrel, corrupted into an insatiable Eredar futa. Inspired by [this CAI bot](https://beta.character.ai/chat?char=K9zE5vVHzgvJLuquJ7Pawq5AdOL-jLvCT-TbInDbn3g) by Wyrmer. | [Booru](https://booru.plus/+pygmalion1528) / [Character Hub](https://www.characterhub.org/characters/cptpants/corrupted-yrel)
+![Fenrir](https://files.catbox.moe/tsl6v5.png) | Fenrir | *Last Origin* | Cute wolfgirl bioroid who loves some meat. And some "meat" too, probably. | [Booru](https://booru.plus/+pygmalion1994) / [Character Hub](https://www.characterhub.org/characters/cptpants/Fenrir)
 ![Marina](https://files.catbox.moe/8k4cbf.png) | Marina Ida | *Splatoon* | The Octoling idol from Splatoon 2. Don't get cooked, stay off the hook! | [Booru](https://booru.plus/+pygmalion1318) / [Character Hub](https://www.characterhub.org/characters/cptpants/Marina)
 ![The Master](https://files.catbox.moe/zeznxs.png) | The Master | *Fallout* | The big bad of *Fallout 1*. Chat with him about Super Mutants or nuclear wastelands or what have you. | [Character.ai](https://beta.character.ai/chat?char=R9RarToT8PLKrEJHquVkgo4O48lu-TgqeUV3iGYGTbo) (outdated!) / [Booru](https://booru.plus/+pygmalion1416) / [Character Hub](https://www.characterhub.org/characters/cptpants/the-master)
 ![The Noise](https://files.catbox.moe/rsin9o.png) | The Noise | *Pizza Tower* | A character from the indie game *Pizza Tower*. It's like the Noid, but noisier. | [Character.ai](https://beta.character.ai/chat?char=8uRRHQX8YQbN3oojnbokcH9YftxA2Udx31nGj2ZshCQ) (outdated!) / [Booru](https://booru.plus/+pygmalion1421) / [Character Hub](https://www.characterhub.org/characters/cptpants/the-noise)
 ![Rennala](https://files.catbox.moe/dgm31o.png) | Rennala, Queen of the Full Moon | *Elden Ring* | The lonely Carian Queen, cradling her amber egg. Will you ask for rebirth? Or take advantage of her vulnerable situation? | [Character.ai](https://beta.character.ai/chat?char=VOQtfz3ESec0lHNMBhwwXLgS_nAnYVyIPs0if_VO7gc) (outdated!) / [Booru](https://booru.plus/+pygmalion49) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/Rennala)
-![Sekhmet](https://files.catbox.moe/delqxh.png) | Sekhmet of Death | *Last Origin* | Dark-skinned soft mommy from the gacha game *Last Origin*. | [Character.ai](https://beta.character.ai/chat?char=p768wZdgK9uqLzmhNh8G6JdfpSck8cNQKuB1I3Xdwhc) (outdated!) / [Booru](https://booru.plus/+pygmalion51) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/sekhmet-of-death)
+![Sekhmet](https://files.catbox.moe/delqxh.png) | Sekhmet of Death | *Last Origin* | Dark-skinned soft mommy elf bio-android. Let her pamper you too. | [Character.ai](https://beta.character.ai/chat?char=p768wZdgK9uqLzmhNh8G6JdfpSck8cNQKuB1I3Xdwhc) (outdated!) / [Booru](https://booru.plus/+pygmalion51) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/sekhmet-of-death)
 ![2B](https://files.catbox.moe/r3eax2.png) | YoRHa 2B | *NieR: Automata* | The beautiful combat android, made to act in-character. | [Booru](https://booru.plus/+pygmalion191) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/yorha-2b)
 
 #Genshin Impact
@@ -52,3 +52,5 @@ Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
 ![Goat-chan](https://files.catbox.moe/nqqt2h.png) | Goat-chan | [ENarane](https://twitter.com/enarane) | A cheeky shortstack imp who provokes you into having your way with her. | [Character.ai](https://beta.character.ai/chat?char=IABAmqsuoGs0lAAk9U93wVV-1f4criqU6zc_AaRVKvA) (outdated!) / [Booru](https://booru.plus/+pygmalion47) (outdated!) / [Character Hub](https://www.characterhub.org/characters/cptpants/Goat-chan)
 ![Lucoa](https://files.catbox.moe/qvwmrt.png) | Lucoa | *Miss Kobayashi's Dragon Maid* | The big breasted dragon goddess, now as your familiar. | [Booru](https://booru.plus/+pygmalion1317) / [Character Hub](https://www.characterhub.org/characters/cptpants/Lucoa)
+
+Contact: cptpants@proton.me
