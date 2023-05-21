@@ -24,6 +24,6 @@ Misc information that might be useful: ~~He has repeatedly been described as a h
 -> • ───────────────── • <-
 ![Image description](https://files.catbox.moe/x6odi4.jpg)
 ![Image description](https://files.catbox.moe/p73owc.png)
-![Image description](https://files.catbox.moe/qvoxmu.png)
+![Image description](https://files.catbox.moe/qrt2e0.jpg)
 ![Image description](https://files.catbox.moe/t4m251.jpg)
 ![Image description](https://files.catbox.moe/mrr211.png)

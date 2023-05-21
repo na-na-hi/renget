@@ -49,6 +49,8 @@ The flex spot can be a healer, another B2 with 40s CD, another dps that doesn't 
 
 When building your team take into account that while on auto the units burst from left to right, so order them with that in mind
 
+For most campaign stages you should prioritize bringing B3s with screen clears (Scarlet, Harran, Privaty, Epinel, Modernia, Maiden...) they'll make your life easier
+
 ####These are my units *(insert picture here)*. Who do I level up?
 You can level whoever you want at the beginning and progress with that, just make sure you can full burst like they showed you on the tutorial
 

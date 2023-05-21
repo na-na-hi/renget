@@ -2,7 +2,7 @@
 ->(with 16GB RAM or more)<-
 **Note:** There are only 3 'steps': Download a model in GGML format, download KoboldCPP.exe, run KoboldCPP.exe with the model then go to its URL in your browser.
 
-**1.DL at least one of these bin files:**
+**1. DL at least one of these bin files.  If multiple models are present, downloading those labelled with "Q5_1" is preferable:**
 
 Good at (**S**)tory or (**I**)nstruct modes:
 (**SI**) 13B (11GB RAM) https://huggingface.co/reeducator/vicuna-13b-cocktail/blob/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin
@@ -11,7 +11,7 @@ Good at (**S**)tory or (**I**)nstruct modes:
 
 (**S**) 6B (9GB RAM) https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main
 
-(**SI**) 7B (6GB RAM) https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML
+(**SI**) 7B (6GB RAM) https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/blob/main/WizardLM-7B-uncensored.ggmlv3.q5_1.bin
 
 More models: https://github.com/LostRuins/koboldcpp/discussions/87
 

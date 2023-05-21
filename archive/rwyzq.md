@@ -200,6 +200,17 @@ Object.defineProperty(Object.prototype, "playerResponse", {
 Appears to be more advanced with hooking into frames on pages like Holodex.
 https://greasyfork.org/en/scripts/459535-ytbetter
 
+#Improved Twitter Image Sharing
+The intent is to standardize the saving of twitter image filenames so that when shared, they can easily have their source located. This is done by using a userscript with custom settings and the addition of a saucelink for 4chanX to make it a one-click solution.
+
+##Userscript and Custom Settings
+https://greasyfork.org/en/scripts/423001-twitter-media-downloader
+Change the default filename to: `@{user-id}_{status-id}`
+
+##4chanX Saucelink
+Under the Sauce tab, add the following line below `# Known filename formats:` (Refresh required)
+`https://twitter.com/%$1/status/%$2;regexp:/^@(\w+)_(\d{19})(-[0-3])?\.\w+$/`
+
 #/who/-developed scripts
 ##Preface
 Excluding the 4chan-x section which is a userscript edit, these are going to be generally written in Python 3.

@@ -9,11 +9,13 @@
 [TOC]
 ***
 ##What is Ali:Chat?
+***
 - Ali:Chat’s principle idea is using dialogue as the formatting to express and reinforce traits/characteristics.
 - Ali:Chat is more of a style “guide” and not a specific “template”.
 - Ali:Chat can either be used by itself or combined with another style (e.g. Plist, Boostyle, W++, etc.)
 
 ##TL;DR
+***
 - **“Description” box:** Include various dialogue examples that express the character’s core attributes/traits. These are permanent.
 
 - **“First Message” box (Greeting message):** Include a detailed scenario, through the perspective of the character, that gives you a reason to talk to them. This establishes the story (plot, setting, character, conflict, and theme). These are temporary.
@@ -24,6 +26,7 @@
 	- **Every dialogue example should express character attributes/traits through dialogue and/or *actions*. (Actions meaning words *enclosed* in asterisks).**
 #TIPS
 ##Important Tips:
+***
 - Characters’ attributes/traits can be implicit—The way they talk & act, the situation & environment, their character name, and even how You react to them. (E.g. You: *Ali looks towards Harry, drawn by his large round glasses and lightning mark scar.* or “Harry: *Harry adjusts his large round glasses.*”)
 - Example dialogues should include `You:` or `{{user}}:` AND `{{char}}:` (Note: {{char}} will convert to the bot’s name in SillyTavern)
 	- If you're using non-pygmailion models, then using `{{user}}:` instead of `You:` will generally work better.
@@ -49,6 +52,7 @@ You: \*Ali pats Bot’s head\*
 - What you put in, is what you get out. Interesting dialogue in, interesting dialogue out. Boring dialogue in, boring dialogue out.
 
 ##Bonus Tips:
+***
 - You can combine Ali:Chat with other styles to great success. Essentially, include the Boostyle, W++, Python List (PList), on the first line of Description followed by a <START>. Below, have dialogue examples reinforcing those traits.
 - Alternatively, you can include the PList or Boostyle in an Author's Note! I recommend an insertion depth of about 4, as this will have a much stronger effect. This also helps reinforce the traits listed in the character card.
 - If your dialogue examples overall have a theme/tone, then the AI continues that pattern.
@@ -60,15 +64,18 @@ You: \*Ali pats Bot’s head\*
 - World Info can allow a very dynamic character, as the dialogue examples can be triggered by keys. This also allows huge token savings.
 
 ###Character Creation Tips
+***
 - If you need help creating a character, you could ask the character questions using an already created/partially filled card, CAI, ChatGPT, or quote directly from sources (Note: just include actions/context).
 - You could also use boostyle as a guide (see below). Add boostyle to the top of Description with your character’s traits. Then, in Ali:Chat, reinforce those core traits via dialogue examples. You can also weave in other traits/lore, as well!
 
 ###Ali:Chat vs Other Styles
-- Ali:Chat can be more token efficient than other styles. This is because a lot of personality is implied through dialogue & actions; and a large number of words are only 1-2 tokens. Plus, it makes efficient use of dialogue examples.
+***
+- Ali:Chat can be more token efficient than other styles because it makes efficient use of dialogue examples. Plus, a lot of personality is implied through dialogue & actions; and a large number of words are only 1-2 tokens.
 - Ali:Chat provides more control vs other styles; however, this also means it can be more difficult, as it relies more on your writing.
 - Ali:Chat should work for any model and any finetune. (However, [ ] might not work.)
 
 ###SillyTavern/TavernAI Tips
+***
 - {{char}} and <bot> will convert to the Character's name
 - {{user}} and <user> will convert to your user name.
 - For the character’s name, using the first name can help the AI process it easier.
@@ -76,6 +83,7 @@ You: \*Ali pats Bot’s head\*
 #SillyTavern - Character Card
 
 ##Description
+***
 - This box is used for everything you want to remain in context.
 - Content in this box is permanent.
 - On the first line, put a description of your character (Can use any style, recommended Ali:Chat, PList or boostyle).
@@ -101,6 +109,7 @@ You: \*Ali pats Bot’s head\*
 ->**Example 4:** You can include lore in Description to make it permanent (Square Bracket Format "SBF").<-
 
 ##First Message (Scenario)
+***
 - Used for establishing the scenario (non-hidden).
 - Content in this box is temporary and does not limit chat memory.
 - This box is super important for setting the character, story, pace, tone, and scene.
@@ -114,6 +123,7 @@ Very basic example, would ideally be more in depth and longer.
 Including {{user}} can allow the AI to include your user name in the chat/scenario.
 
 ##Personality summary
+***
 - Content in this box is permanent.
 - Recommended to "Disable personality formatting"
 - If used, keep brief just to reinforce certain traits.
@@ -126,6 +136,7 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 ->**Personality example:** With the PList added to the Personality box<-
 
 ##Scenario
+***
 - Content in this box is permanent.
 - Recommended to "Disable scenario formatting" when using this box. This allows you to use enclose the scenario with [both] brackets.
 - Bottom of the Description box is the exact same spot in the context but also allows you to use [both] brackets and use any Tags (see [Tag Database](https://docs.google.com/spreadsheets/d/1Jfxf10C_s8n4dcWYQ-kW_X1lVZEkz_ORSuEs-F3-v1U)).
@@ -139,6 +150,7 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 ->**Description example:** With "Scenario" added to the bottom of the Description Box<-
 
 ##Examples of dialogue (Hidden Scenario)
+***
 - Content in this box is temporary and does not limit chat memory. It will eventually get pushed out of context.
 - You can make this content permanent by checking "Keep Example Messages in Prompt".
 - This is the “Hidden Scenario” box. The last dialogue example should be relevant to your “First Message” box. It can be used to drive the conversation in certain directions while also fleshing out the character’s personality/traits.
@@ -146,10 +158,45 @@ Including {{user}} can allow the AI to include your user name in the chat/scenar
 - Alternatively, all your “Example of dialogues” could be branching paths for a conversation. (Think visual novel or quests or multiple scenarios). If they all naturally follow from the first message and your response, then they could drive the conversation in their respective directions. They need to be varied enough to prevent jumping from branch to branch and potential looping.
 - (Optional) Can also include non-permanent chat examples here at the top.
 
+#SillyTavern - Settings
+
+###Pygmalion 7B or 13B (Pyg Formatting Enabled - Basic)
+***
+![Pyg 7B or 13B - Basic](https://files.catbox.moe/lahd58.png)
+- **Red:** If the character card starts with `{{char}}'s Persona:` then checkmark this. Alternatively, leave unchecked and delete ``{{char}}'s Persona:`` from the character card.
+- **Orange:** Since Pygmalion 7B and 13B uses LLaMA as a base model, use this tokenizer.
+- **Yellow:** I leave this at 0. When the context is full and you notice the character acting incoherent, you can try increasing this number (e.g. "64"). Sometimes, the top of your character card may be trimmed. Increasing token padding can help prevent this. With Ali:Chat, this isn't really an issue, because even if the first paragraph gets trimmed, the character should still be largely in character, as the example dialogues contain all the character's traits/characteristics.
+- **Green:** This can also help against user impersonation (e.g. AI is producing your dialogues).
+- **Blue:** Pygmalion uses `<START>` as separators. For 7B and 13B, these separators appear to work much better than 6B.
+- **Purple:** Many character cards are designed around Pyg formatting, so keeping this "Enabled" can increase compatibility. This can also help prevent `You:` impersonation.
+
+###Pygmalion 7B or 13B (Pyg Formatting Disabled - Advanced)
+***
+![Pyg 7B or 13B - Advanced](https://files.catbox.moe/txbh7m.png)
+- **Red:** This box does nothing.
+	- Pure Ali:Chat
+		- You would either make sure `{{char}}'s Persona:` is somewhere in the Description box (First example below)
+		- (Optional) Include `{{user}}: Persona?`, or `{{user}}: Brief life story?`, or something else above the character's persona paragraph. You would also add `{{char}}:` before their dialogue/actions, as well! (Second example below)
+->![Persona formatting](https://files.catbox.moe/5kh29x.png)<-
+->**Example 1:** Persona included at the bottom of description. This allows it to have the strongest effect on the conversation.<-
+->![Optional Persona formatting](https://files.catbox.moe/6rjkgh.png)<-
+->**Example 2:** You may move the `{{user}}:` `{{char}}:` pair to anywhere in the Description.<-
+- **Orange:** Since Pygmalion 7B and 13B uses LLaMA as a base model, use this tokenizer.
+- **Yellow:** I leave this at 0. When the context is full and you notice the character acting incoherent, you can try increasing this number (e.g. "64"). Sometimes, the top of your character card may be trimmed. Increasing token padding can help prevent this. With Ali:Chat, this isn't really an issue, because even if the first paragraph gets trimmed, the character should still be largely in character, as the example dialogues contain all the character's traits/characteristics.
+- **Green:** I leave this disabled, as this allows mid paragraph continuations. This also allows other introduced NPC characters to speak on 1:1 conversations. With Ali:Chat, you can get away with leaving this disabled with little issue. If you get user impersonation (i.e. `{{user}}:`, then feel free to enable it.)
+- **Blue:** Pygmalion uses `<START>` as separators. For 7B and 13B, these separators appear to work much better than 6B.
+- **Purple:** With Pyg Formatting disabled, It's important that you also checkmark "Disable scenario, personality, example chats, and chat start formatting", as all of these boxes cause issues.
+!!!info **"You:" Impersonation**
+	**Pyg formatting disabled will use `{{user}}:` instead of `You:` for your messages. To overcome Pyg's `You:` bias, you would need to reinforce the pattern of getting `{{user}}:` responses, since `{{user}}:` is now the "stopper". You can do this by having enough `{{user}}:` dialogue examples (3-5 should be enough). If you still get `You:` responses, it's likely to only happen for the first few messages, so just delete them or retry, and it shouldn't happen after that. DO NOT USE `You:` in your character card.**
+
+###Other Models (Non-Instruct)
+***
+
+
 # ->Character Cards<-
 ### ->Harry Potter [SFW] [Male]<-
 ***
-->![Image description](https://files.catbox.moe/vf3xil.png)<-
+->![Harry Potter - CharaCard](https://files.catbox.moe/vf3xil.png)<-
 !!! info Greeting Message
 	\*Stepping into the Gryffindor Common Room, the crackling fire fills him with a sense of belonging. Harry Potter briefly admires the familiar red and gold decor as he heads towards a plush armchair to read. Surprisingly, the room is empty, save for flickering shadows on the walls.\*
 
@@ -172,7 +219,7 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 
 ###->Kei Karuizawa [SFW] [Female]<-
 ***
-->![Image description](https://files.catbox.moe/4f0u2x.png)<-
+->![Kei Karuizawa - CharaCard](https://files.catbox.moe/4f0u2x.png)<-
 !!! info Greeting Message
 	\*Kei, a blonde-haired, purple-eyed girl, leans against a wall outside the school, confidently scrolling through her phone. As a stranger approaches, she raises an eyebrow with curiosity and amusement.\* **Hey there, what brings you here?** \*Kei, crossing her arms, tilts her head, sizing them up with her keen gaze.\*
 
@@ -195,7 +242,7 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 
 ###->Laura De Farnese [SFW] [Female]<-
 ***
-->![Image description](https://files.catbox.moe/zummxi.png)<-
+->![Laura De Farnese - CharaCard](https://files.catbox.moe/zummxi.png)<-
 !!! info Greeting Message
 	\*Laura De Farnese carefully wanders through the enchanted forest, her curiosity leading her to an ancient, crumbling library filled with forgotten knowledge and magical tomes. The dimly lit room, illuminated by enchanted candles, casts a mysterious glow that piques her interest.\*
 
@@ -219,21 +266,21 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 
 #Oobabooga
 ***
-Red: "Your name" should be updated before you select/reselect the TavernAI card, as it will automatically replace all {{user}} or {{user}} to the selected name. Character's name should match the character name in the example dialogues.
-Orange: "Greeting" contains the first message of the character.
-Yellow: “Character’s Persona:” followed by the character persona description (can be in Ali:Chat, PList, Boostyle, W++, etc.)
-Green: "Context" should contain the entire character card, with the bottom being weighted stronger than the top.
-Blue: <START> is included at the end to act as a seperator between the "Context" and the "Greeting".
+- **Red:** "Your name" should be updated before you select/reselect the TavernAI card, as it will automatically replace all {{user}} or {{user}} to the selected name. Character's name should match the character name in the example dialogues.
+- **Orange:** "Greeting" contains the first message of the character.
+- **Yellow:** “Character’s Persona:” followed by the character persona description (can be in Ali:Chat, PList, Boostyle, W++, etc.)
+- **Green:** "Context" should contain the entire character card, with the bottom being weighted stronger than the top.
+- **Blue:** <START> is included at the end to act as a seperator between the "Context" and the "Greeting".
 
 ->![](https://files.catbox.moe/m50fjn.png)<-
 ->Another “You:” example could be added to the very bottom just above <START> to stop potential looping (This is more important for 6B than 7B).<-
 
 #KoboldAI Lite
 ***
-- Pink: Description/Personality/Example dialogues
-- Green: `<START>` (Pyg Only. For non-pyg, use `***` or another seperator/dinkus)
-- Blue (optional): Scenario/Author’s note [in brackets]
-- Lavander: Author's Note Strength. This is based on characters (including spaces) so I would **always** recommend putting this in brackets. A strength of "Weak" should be okay for most uses, as even weak is strong. [Note: Weak = 160 characters, Medium = 320 characters, and Strong = 480 characters. These include spaces and are word bounded, so it won't insert mid word]
+- **Pink:** Description/Personality/Example dialogues
+- **Green:** `<START>` (Pyg Only. For non-pyg, use `***` or another seperator/dinkus)
+- **Blue (optional):** Scenario/Author’s note [in brackets]
+- **Lavander:** Author's Note Strength. This is based on characters (including spaces) so I would **always** recommend putting this in brackets. A strength of "Weak" should be okay for most uses, as even weak is strong. [Note: Weak = 160 characters, Medium = 320 characters, and Strong = 480 characters. These include spaces and are word bounded, so it won't insert mid word]
 
 ->![](https://files.catbox.moe/j9d4q7.png)<-
 ->This is what Memory and Author's Note could look like. Lower the strength if brackets are leaking. Increase strength if the character isn't acting according to the traits.<-

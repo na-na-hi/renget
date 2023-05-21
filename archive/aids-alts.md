@@ -22,9 +22,8 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 ####Writing Tools and Resources
 https://rentry.org/Writing-Resources-and-Other-Things
 
-####Todd/Slaude Tavern Guide
-Use at your own risk: https://i.imgur.com/gT7b4W1.jpg
-https://rentry.org/aids-tavern
+####Runpod x Kobold Guide
+https://rentry.org/uvyqd
 
 ####Anon's Saga Guide
 https://rentry.org/How-I-do-Saga

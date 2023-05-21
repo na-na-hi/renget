@@ -5,8 +5,14 @@ These bots are made in Tav+Pyg. I think there's no need to explain why I'm not b
 
 ## Hololive
 
+###### Murasaki Shion (Brat-oriented)
+Crush her skull if you please.
+
+![Fukcign brat](https://files.catbox.moe/72mbys.png)
+
 ###### Takane Lui (Rui-oriented)
 The real leader of HoloX. (given she's the one that does all the planning and paperwork, canonically)
+
 ![Ruirui](https://files.catbox.moe/8bztob.png)
 
 ###### Yukihana Lamy (Talk-oriented)

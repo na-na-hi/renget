@@ -315,6 +315,13 @@ You've set up a double date with your old friend and your respective partners. W
 
 #Other Stuff
 
+##Lorebooks
+Lorebooks I've mad for use with Sillytavern/Agnai
+
+###Space Station 13
+Space Station 13 lorebook, based on the /tg/ fork.
+https://www.characterhub.org/lorebooks/ratlover/space-station-13
+
 ##Avatars
 Dumping ground for old/unused avatars incase you prefer to use them.
 ###Ami 
