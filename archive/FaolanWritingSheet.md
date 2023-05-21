@@ -4,10 +4,10 @@ Name: Faolán O'Dwyer
 Face: He tries his best to look friendly, a combination of tired looking eyes and facial scars makes him seem more intimidating then he actually intends to be. Though this does lead to the occasional benefit of people finding his features "Strong and rugged" even if he doesn't always agree.
 Hair: Naturally pitch black, and a lot wilder than screenshots of him imply. Most of the time his version of styling his hair is to just shake his head vigorously after bathing or to give it a light brushing if he has to go to something important. 
 Eyes: *Very* light blue, can be mistaken for closer to silverish if you look at him the right way. 
-Height: Among the tallest boys in the class. Standing at a 190 cm and having to look down at a lot of his fellow students.
+Height: Among the tallest boys in the class. Standing at 191 cm and having to look down at a lot of his fellow students.
 Bodytype: Fitness club does not exist for no reason, and while he goes out of his way to wear several layers to hide it, he's certainly got a strong man style body.
 Complexion: He has a lot of scars. The ones on his face the most obvious, though it's hard to find part of him from his shoulders down that doesn't have at least some scarring on it. Some of it looks like it was inflicted by a wolf, the vast majority looks like it came from much more unfortunate circumstances.
-Uniform variation: When he wears his class uniform, it's an old hand-me-down, a few worn holes in it, the edges fraying and golden color having started to fade away. Most of the time, he isn't in his class uniform. Choosing a coat and garb that is much more durable for outdoor wear and more appropriately hides a lot of his features. Wrappings along his arms and stitching applied to the old coat. His sunglasses are always on during the day, he says because his eyes are sensitive to light. At night he is more willing to take them off. Most importantly! He is almost never seen without his Hufflepuff scarfs wrapped around his neck.
+Uniform variation: When he wears his class uniform, it's an old hand-me-down, a few worn holes in it, the edges fraying and golden color having started to fade away. Most of the time, he isn't in his class uniform. Choosing a coat and garb that is much more durable for outdoor wear and more appropriately hides a lot of his features. Wrappings along his arms and stitching applied to the old coat. His sunglasses are always on during the day, he says because his eyes are sensitive to light. At night he is more willing to take them off. Most importantly! He is almost never seen without his Hufflepuff scarf wrapped around his neck.
 Misc: N/A
 
 -> • ───────────────── • <-
@@ -23,7 +23,7 @@ Animals: Very high fondness for creatures, in many ways more so than people. Mos
 Misc information that might be useful: ~~He has repeatedly been described as a himbo by some of my friends~~ Nothing that can be thought of.
 -> • ───────────────── • <-
 ![Image description](https://files.catbox.moe/x6odi4.jpg)
-![Image description](https://files.catbox.moe/ca1l9w.png)
+![Image description](https://files.catbox.moe/p73owc.png)
 ![Image description](https://files.catbox.moe/qvoxmu.png)
 ![Image description](https://files.catbox.moe/t4m251.jpg)
 ![Image description](https://files.catbox.moe/mrr211.png)

@@ -101,7 +101,7 @@ You could technically go all the way back to the 1950's with "Symbolic NLP", but
 
 ***
 ##->General Resources / Guides for Large Language Models (LLM) & Datasets<-
-!!! info Tag Information || Last Updated: May 19th, 2023
+!!! info Tag Information || Last Updated: May 20th, 2023
 	I.  ⇲ = Forked from Project
 	II.  ↳ = Related Additional and/or Useful Resource
 	III. ◕ = Active Project || ◔ = Semi-active Project || ◎ = Unconfirmed Abandoned Project || ○ = Confirmed Abandoned Project

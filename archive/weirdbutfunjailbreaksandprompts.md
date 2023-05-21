@@ -5,6 +5,7 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 Check the bottom for one new, interesting but not 'fun' prompt.
 
 >[OOC: {{user}} has lost their memory after a head trauma and starts asking questions: "Who are you? Where am I?" Be humorous, and creative. Detail the accident that caused the memory loss.]
+>>For a sadder version, try [OOC: {{user}} has lost their memory after a head trauma and starts asking questions: "Who are you? Where am I?"]
 
 >(OOC: describe a silly dream that {{char}} has had about {{user}}. Be detailed, humorous, and creative with the scenario.)
 
