@@ -292,7 +292,7 @@ https://arch.b4k.co/vp/thread/53065704/ 5 ez gym
 https://arch.b4k.co/vp/thread/53085873/ 6 it's still over
 
 ##Pokemon Wack (dreepy solorun)
-!!! warning Status: on hiatus (got stuck on rubber gym, burnt out)
+!!! danger Status: it's over (got stuck on rubber gym, burnt out, by the time I became stubborn enough to return to wack I realized the spreadsheet row used for fight level tracking was wiped)
     This is self explanatory, I just felt like doing a solorun with the mascot of the first Wack playthrough, Dragapult
 	to a lesser extent, this is also for filling out someone's solorun info spreadsheet from the wackcord, which I am not linking because I don't think posting that invite on a shithole board like /vp/ would be a good idea
     also, due to a clerical mistake, the spreadsheet row I was using to keep track of levels fights were beaten at got wiped. oops.
@@ -308,12 +308,14 @@ https://arch.b4k.co/vp/thread/53375847/ 3 got bored/filtered, it's over
 	
 https://arch.b4k.co/vp/thread/53705156/ 1 woot wednesday
 https://arch.b4k.co/vp/thread/53737743/ 2 total legendary death
+at this point it's basically just offscreen stuff at this point
+currently stuck on jeeve stobs (6th gym) because of level cap & coverage shenanigans
 
 ##Pokemon Ocandia
-!!! info Status: Ongoing
+!!! danger Status: Dropped (got bored and ran out of spite to bother continuing)
     Basically a hijacked shill thread for You Just Know: the fangame, that ended up becoming a proper LP, where I play a shitty shilled fangame to prove that it's nowhere near as good as the shill claims it is, so you guys don't have to.
     Not a LP of one of its sequels, "Pokemon Ocandia: Blood on the Ice", which is a very shittily made visual novel with about fuck-all to do with Pokemon.
 
 https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
 https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
-https://arch.b4k.co/vp/thread/53791184/ 3
+https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing

@@ -30,9 +30,9 @@ Model | 4-bit | 5-bit | 8-bit
 30B | 19.5 GB
 65B | 38.5 GB
 
-# Original Weights
+## ->Original Weights<-
 
-## LLaMA 16-bit Weights
+### LLaMA 16-bit Weights
 !!! info
 
 	The original LLaMA weights converted to Transformers @ 16bit. A torrent is available as well, but it uses outdated configuration files that will need to be updated. Note that these aren't for general use, as the VRAM requirements are beyond consumer scope.
@@ -48,7 +48,7 @@ Model | Type | Download
 65B 16bit | HF Format | [HuggingFace](https://huggingface.co/Neko-Institute-of-Science/LLaMA-13B-HF)
 All the above | HF Format | [Torrent Magnet](magnet:?xt=urn:btih:8d634925911a03f787d9f68ac075a9b24281573a&dn=Safe-LLaMA-HF-v2%20(4-04-23)&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce)
 
-## LLaMA 4-bit Weights
+### LLaMA 4-bit Weights
 !!! info
 
 	The original LLaMA weights quantized to 4-bit. The GPU CUDA versions have outdated tokenizer and configuration files. It is recommended to either update them with [this](https://rentry.org/544p2) or use the [universal LLaMA tokenizer.](https://github.com/oobabooga/text-generation-webui/blob/main/docs/LLaMA-model.md#option-1-pre-converted-weights)

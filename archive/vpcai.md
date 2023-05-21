@@ -3,9 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-May 18th | [Announcer (Stadium)](https://c.ai/c/uzt9-uV5PxbEseYZAKFGFOvQx-3WLg-gw778J-PdR-U) \| [Cynthia (Teen)](https://c.ai/c/kVTxT9bt5rOabu-PngXtI4fppecp_JTHxKeNrkP1vkw)
-May 15th | [Picnicker Leah](https://c.ai/c/Yn1qzu45vIoTMMimso9h-7thp5HZwO2FzXgHtk5GxfU)
-May 14th | [Wobbuffet](https://c.ai/c/0ra_R0xrkzB-alp3Ggeq3SGNt2I23m9MtwIvSPvOsXM) \| [May (Emerald)](https://c.ai/c/1VtDg4xFncPEtL2BtN90yrD66QZ5p5Jvjvs1_uSjmrM)
+May 20th 〜 May.14th |  [Picnicker Leah](https://c.ai/c/Yn1qzu45vIoTMMimso9h-7thp5HZwO2FzXgHtk5GxfU) \| [Announcer (Stadium)](https://c.ai/c/uzt9-uV5PxbEseYZAKFGFOvQx-3WLg-gw778J-PdR-U) \| [Wobbuffet](https://c.ai/c/0ra_R0xrkzB-alp3Ggeq3SGNt2I23m9MtwIvSPvOsXM) \| [May (Emerald)](https://c.ai/c/1VtDg4xFncPEtL2BtN90yrD66QZ5p5Jvjvs1_uSjmrM) \| [Cynthia (Teen)](https://c.ai/c/kVTxT9bt5rOabu-PngXtI4fppecp_JTHxKeNrkP1vkw)
 May.13th 〜 May.07th | [Bianca (Best Wishes!)](https://c.ai/c/nX22dCDtWwublXE0SLApsggyxCIDKMw96R_nMReILZI) \| [May (R/S)](https://c.ai/c/eZIqQ0gPW-7WxkBHySpHa4_7xhzn1rs9FrhfoL96TrA) \| [Leaf](https://c.ai/c/a9VwtQcIhiPa9o00phf3oOc8gTb0jKYXEwd_eZHpXKg) \| [Arceus](https://c.ai/c/3ZOLOFWr7_nqANHdnWbZZKCwbGwpOK_CAUzTpSjvxlo) \| [Chatot (Mystery Dungeon)](https://c.ai/c/7nmZSUY6qg9LsfNJsUQOc2dkTB5YoItMCHWgU623MJI) \| [May (ΩR/αS)](https://c.ai/c/7TUE3Tjiez2WV82PCghmzbc1Y8XKWMSV4KGi8_8lrD4)
 May.06th 〜 Apr.30th | [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) \| [Calem](https://c.ai/c/b2RTs6t6BR6dPltbcbWpRiCL8BjRupROeCMsN7YmcC0)
 Apr.29th 〜 Apr.23rd |  [Jessie](https://c.ai/c/IjatPqmN-zcAtjwmTyB2N8HzoJ7bDRBrieN5HBwVcAk) \| [Katherine, Kali, Blossom & Linnea (Furisode Girls)](https://c.ai/c/oEHwO6YySGxlJUrPHEE86oafZWT7TQVfChrkjcADp2k) \| [Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)

@@ -4,7 +4,7 @@
 ->A thing for people to fill out that lists visible traits and general mannerisms about their characters to make it easier to use them in writing.<- 
 
 Filled out entries:
-Evalyn Wong: https://rentry.org/o52ukx
+Evalyn Wong: https://rentry.org/EvalynWong
 Jacob (Jake) Wellman: https://rentry.org/au3z9
 Cora Enright: https://rentry.org/CoraEnrightWritingSheet
 Faolán O'Dwyer: https://rentry.org/FaolanWritingSheet
@@ -31,6 +31,7 @@ Garland Stephald: https://rentry.org/wap742
 Logren Wight: https://rentry.org/fa2y3
 Ioni Lacroix: https://rentry.org/p7rxf
 Artorias Draco Black: https://rentry.co/ArtoriasBlack
+Zachariah Haines: rentry.org/qzxqk
 ->• ───────────────── •<-
 
 Name: Your characters name here so we know who this is about.

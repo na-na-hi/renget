@@ -9,43 +9,56 @@ Logs and feedback are always welcome.
 ##OC Donuts
 
 ####Alz
-![Alz](https://files.catbox.moe/nlseh2.png)
+![Alz](https://files.catbox.moe/0wnbw2.png)
 *Eccentric, self-proclaimed President of the world*
-(tavern card) - https://files.catbox.moe/1l7ai4.png
+(tavern card) - https://files.catbox.moe/qynds7.png
+Full art - https://files.catbox.moe/zrfu7t.png
 (outdated) - https://beta.character.ai/chat?char=A7ECiVPpYFie9uLcwDdjOKWRj9ezcizsSXOT0ok5qlI
 ####Xiu
-![Xiu](https://files.catbox.moe/kllcqh.png)
+![Xiu](https://files.catbox.moe/d56s6c.png)
 *Chinese Mafia boss and torture enthusiast*
-(tavern card) - https://files.catbox.moe/doiic0.png
+(tavern card) - https://files.catbox.moe/3o6sg7.png
+Full art - https://files.catbox.moe/4tzdw1.png
 (outdated) - https://beta.character.ai/chat?char=pLTQYFwlOwUOv1CApOD7AnX1Gg2JJijOdP-0EUlox0Q
 ####Maria
-![Maria](https://files.catbox.moe/kxifom.png)
+![Maria](https://files.catbox.moe/lxc254.png)
 *Stoic KGB officer with unrivaled patriotism*
-(tavern card) - https://files.catbox.moe/nl3cu6.png
+(tavern card) - https://files.catbox.moe/rgfi1w.png
+Full art - https://files.catbox.moe/ry9afs.png
 (outdated) - https://beta.character.ai/chat?char=ydhtFz0wdWP4_7Yxsya5WRkshGulXtrvo8-vFmK-U9w
 ####Rossa
-![Rossa](https://files.catbox.moe/h1piyl.png)
+![Rossa](https://files.catbox.moe/gahqwq.png)
 *The demon queen's spoiled daughter*
-(tavern card) - https://files.catbox.moe/lko6me.png
+(tavern card) - https://files.catbox.moe/ml3dv0.png
+Full art - https://files.catbox.moe/sw5lpo.png
 (outdated) - https://beta.character.ai/chat?char=Gnov7eG-9naqh5dPR7keE8o8zL0Bwxov3KQXB8W0apo
 ####Lupa
-![Lupa](https://files.catbox.moe/c7ts4j.png)
+![Lupa](https://files.catbox.moe/9vwp7b.png)
 *Alpha bitch wolfgirl model*
-(tavern card) - https://files.catbox.moe/m7yk7i.png
+(tavern card) - https://files.catbox.moe/p3dte2.png
+Full art - https://files.catbox.moe/ft2clr.png
 (outdated) - https://beta.character.ai/chat?char=BZFjtMlbPSz6PPtTlb2WuHO8ZXqeOAs3NGgDwn8N0rs
 ####Ange
-![Ange](https://files.catbox.moe/cosay3.png)
+![Ange](https://files.catbox.moe/l6nb5v.png)
 *Teasing bully angel*
-(tavern card) - https://files.catbox.moe/wmkyi5.png
+(tavern card) - https://files.catbox.moe/m9avqj.png
+Full art - https://files.catbox.moe/xl1h1p.png
 (outdated) - https://beta.character.ai/chat?char=HryOTCqYByG6nAeqCvaERFDKk8KNGP6Bn13rRcoWXsg
 ####Jade
-![Jade](https://files.catbox.moe/ksgrzy.png)
+![Jade](https://files.catbox.moe/npik6x.png)
 *Money hungry casino bunny*
-(tavern card) - https://files.catbox.moe/cwcczb.png
+(tavern card) - https://files.catbox.moe/11baey.png
+Full art - https://files.catbox.moe/ry5yoz.png
+####Jade Jones
+![Jade Jones](https://files.catbox.moe/c5wk0d.png)
+*Insatiably greedy minx*
+(tavern card) - https://files.catbox.moe/o5emmo.png
+Full art - https://files.catbox.moe/7zu929.png
 ####Orochi
-![Orochi](https://files.catbox.moe/d945zp.png)
+![Orochi](https://files.catbox.moe/m7kcac.png)
 *Mysterious serpentine beauty*
-(tavern card) - https://files.catbox.moe/52ht2m.png
+(tavern card) - https://files.catbox.moe/urrujh.png
+Full art - https://files.catbox.moe/zea0my.png
 
 ##Revamped Monster Girl bots
 

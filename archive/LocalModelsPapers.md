@@ -36,7 +36,7 @@
 03/2023|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
 |
-|**Deepmind** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
+|**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 12/2021|[Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 12/2021|[Improving language models by retrieving from trillions of tokens(RETRO)](https://arxiv.org/abs/2112.04426)
 02/2022|[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
@@ -45,6 +45,7 @@
 04/2022|[Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 05/2022|[A Generalist Agent (GATO)](https://arxiv.org/abs/2205.06175)
 07/2022|[Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
+05/2023|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 |
 |**Meta** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -187,7 +188,7 @@
 05/2023|[Scalable Coupling of Deep Learning with Logical Reasoning](https://arxiv.org/abs/2305.07617)
 05/2023|[Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
 05/2023|[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
-05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.0913)
+05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.09137)
 05/2023|[Accelerating Transformer Inference for Translation via Parallel Decoding](https://arxiv.org/abs/2305.10427)
 05/2023|[Cooperation Is All You Need](https://arxiv.org/abs/2305.10449)
 05/2023|[PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657)

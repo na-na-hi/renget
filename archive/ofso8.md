@@ -1113,3 +1113,337 @@
 >when you smelled fresh air for the first time you grabbed Ash and spun him
 >he panicked and insisted you put him down in the most embarrassed tone
 >the salt water in the air never smelled so good
+
+>to you astonishment no one heard the elevator
+>you had the beach to yourselves for a little bit
+>you sat down on the sand and patted the spot next to you
+>you'd take the peace and quiet as an opportunity 
+>you took stock of your ammo and supplies
+>there looked to be an organized camp in the distance 
+>more of a fort
+>that had to be the main headquarters of the organization 
+>no need to run out of ammo now
+>Ash rearranged his skirt after sitting down near the sand
+>he looked wistfully out to the water lapping at the shore
+>"promise me, if we get out of this, a beach."
+>a beach?
+>"yeah"
+>he rested his muzzle on his paw and just stared out to the dark waves
+>well if you all got out of this you would take him to the beach
+>though you didn't know why he was all concerned about one 
+>it would be nice to get away
+>a voice behind you interrupted your thoughts and made Ash dive for your lap
+>instantly you knew who it was clearing her throat 
+>you'd run into Ada earlier before meeting Ash here
+>you had no idea what the woman wanted but you doubted it was good
+>you patted at Ashley to get off
+>it was OK
+>for now
+>Ada played off the whole Catwoman thing and you couldn't say you were in the greatest mood
+>so you got up and asked what she wanted
+>it was blunt and to the point
+>you didn't exactly have time for riddles 
+>Ash sort of cowered a little behind you, clearly not trusting the stranger
+>Ada eyed your companion and then shocked you
+>"is… that a mouse?"
+>there was genuine confusion in her voice
+>and Ash gripped your shoulder tighter
+>they were reading each other a little and you felt Ash loosen up behind you
+>were they sizing each other up?
+>that's what it felt like
+
+>Ash watched Ada intently over your shoulder
+>you felt like you were in the middle of something you shouldn't be in
+>yet there was something you couldn't stop focusing on
+>Ada saw a mouse
+>Ash was a mouse
+>therefore, you hadn't gone mental from stress or something
+>it made you so goddamn relieved 
+>you had to confirm
+>what did Ada mean by mouse?
+>"you have a giant white mouse behind you?"
+>she did have a point
+>Ash's ivory fur shined in the moonlight 
+>you glimpsed over your shoulder and saw he was boring a hole through Ada with his eyes
+>Ada watched you and Ash with a skeptical, yet bemused look
+>"you two, you know?"
+>Ash hid back behind you
+>you know what?
+>you were a little lost
+>when Ada walked closer Ash surprised you
+>he went from hiding behind you to now in front of you
+>his arm over your chest and he was watching Ada
+>that seemed to be enough of a reaction for the agent
+>she had a small grin
+>"it's true"
+>she shrugged 
+>"guess I lost, right?"
+>lost?
+>none of this was making sense
+>she seemed to watch Ash warily
+>"you have your rabies shot?"
+>Ash straightened up and scowled
+>there was clearly more at play here than you figured
+>but this wasn't important at the moment
+>you asked why Ada popped up 
+>turns out she had information that you'd want
+>the research labs
+>they had them under this compound
+>labs that could remove the plagas
+>now that was useful
+>you thanked her but Ash seemed hesitant 
+>"she's not like a BOW you just found, is she?"
+>wait was he?
+>you felt rude asking
+>you don't just ask someone if they're a bioweapon 
+>Ash surprisingly, took initiative and took you by the waist and herded you both towards the fort
+>"thank you, bye."
+>the mouse boy hustled you along away from the familiar stranger
+
+>Ash was concerned about the parasites, no doubt
+>you waved off to Ada and tied to plan out how you'd get into the base
+>with the clue Ada provided you remained hopeful 
+>you could get rid of these plagas
+>but getting into the place…
+>you saw the searchlights 
+>and the armed guards
+>that was a lot of guns
+>it was bad enough when they had pitchforks
+>thankfully your old friend the merchant was waiting nearby
+>or were there multiple merchants
+>hard to figure out
+>guns made all the deeper thoughts not matter
+>there were too many for a frontal assault 
+>so you eyed a new sniper rifle
+>your old one had gotten you far but this one fired faster
+>you also got a new submachine gun
+>two actually 
+>and an armful of ammo
+>the mines were profitable and the merchant was happy as could be
+>Ash was shocked when you handed him the submachine gun
+>it was something easy to hip fire and he could use it no problem 
+>a frontal assault wasn't ideal but it was quickly looking like the best way
+>you went over how it should go and Ash hung on your every word
+>you used the rifle to clear the towers at a distance
+>meanwhile, Ash had used your stockpile of claymores to create a perimeter around your position
+>the group was slow to react but you wanted them to come to you
+>instead of charging the fort you were forcing them to come out or take cover
+>they needed to take the towers to fire at you and you were popping every idiot that climbed up
+>you would think they'd learn but no
+>so they took the other option
+>Ash had retreated to your position and you got your first surprise in a chain gunner waddling out of the gates
+>the heavy gun revved and you pulled Ash down behind cover
+>it was already shredding your position so you gestured him to fall back with you
+>those mines finally came in handy and several of the attackers were blown backwards by the traps
+>it wasn't enough to deter the chain gunner though, he kept hammering above you
+>getting hit by that would chop you in half and you couldn't get line of sight without exposing yourself
+>you did however, thumb the ring of a flashbang grenade
+>you heaved it over the cover and towards the remains of the group
+>when it went off you popped up and aimed your magnum
+>you had to go overkill for this
+>the gunner was too stunned to recover after you put 6 bullets in center mass 
+>Ash felt reckless and popped up next to you and sprayed the group with the new gift you gave him
+>that seemed to do it and you breathed a sigh of relief 
+>no doubt there would be more but you'd cleared a path for now
+>you both snuck into the fort through the open door now, collecting ammo along the way
+>Ash tried to grab the chain gun like a kleptomaniac but was quickly pulled down to earth by its weight and gave up
+
+>you two had cleared out the top facility judging by the silence 
+>both of you still snuck around just in case
+>no reason to present an easy target
+>you looted the outbuildings and got more supplies
+>the distinct lack of Spanish chatter put you at ease for now
+>Ash huddled close to you
+>the company was welcome
+>more than once he ran square into your back when you suddenly stopped 
+>a hushed silence hung over the camp after your ears had stopped ringing
+>someone below had to have heard all the explosions and gunfire
+>perhaps they had laid out a trap for you?
+>you needed to get in though
+>the prospect of the removing the parasites made it essential
+>there was a chance of an ambush
+>but you had no choice
+>either that or let the bugs win
+>and you liked having your body
+>so you grabbed your new submachine gun and decided you'd mow down the hallways and make a beeline for whatever they had as a lab
+>Ada was not exactly trustworthy but she wouldn't lie about this
+>you were still amazed she realized Ash was a giant mouse
+>BOW was a bit off the mark though
+>the mouse boy wasn't exactly a Tyrant
+>however, he was trustworthy 
+>despite the weirdness that surrounded this whole situation he'd been dependable 
+>you'd definitely take him to the range if you got out of this though
+>but at least you had a second opinion that confirmed you weren't hallucinating 
+>so that was a relief 
+>now you just had the countless rooms of armed goons to worry about
+>at least you weren't doing it alone
+>you got on one side of a set of double doors
+>Ash on the opposite side
+>a small window let you peek in just enough to see some more guys
+>you readied your gun and he did likewise
+>on the count of 3 you kicked open the door and cut through 5 defenders like a scythe 
+>Ash had trouble holding the gun down from the kickback but the enthusiasm was appreciated 
+>more ammo and you went deeper
+>Ash nearly rushed ahead of you but you grabbed him and pulled him back by the tail
+>he had to stifle a weird noise he involuntarily made in reaction
+>you would have to teach him to not just run around corners, hurry or not
+>what astounded you was in your investigation you ran into another familiar face
+>Luis was snooping around some little jury rigged lab and you were relieved to see someone else in here that wasn't hostile
+
+>Luis showed no signs of infection still so you felt he could be trusted
+>from your brief encounters he seemed to just want out as much as you
+>you asked if he'd seen some sort of equipment for removing the bugs
+>the Spaniard grinned and you could tell he had an answer
+>sure enough
+>"a little deeper in the facility is what you're looking for"
+>he briefly went over the procedure and it seemed easy enough
+>you had to ask how he knew and he wasn't forthcoming with that answer
+>yet, that wasn't the important part
+>you needed in there 
+>he gave you a word of caution 
+>"there's some experiments buried deep down there. I'm sure you two have seen some of the odder stuff running around?"
+>sure but it couldn't be much worse
+>stuff like Birkin was old hat to you now
+>"just saying, keep an eye out. it gets worse down there."
+>that had you a little worried
+>again, how he knew this was a mystery 
+>but you'd heed the advice 
+>the rest of the trip was quiet
+>too quiet for your liking
+>then you heard ragged wet breathing behind one of the doors
+>you had to peek and what you saw made you flinch
+>it looked human
+>stood like a human
+>completely naked and it twitched every so often
+>it was just unnatural 
+>just a sort of uncanny thing to look at for long
+>sneaking past it in the narrow hallway seemed unwise
+>this had to be what Luis warned you about
+>one of their weird experiments like the bugs
+>you would take no chances
+>magnum ammo was rare and expensive but it helped with trouble before
+>it didn't react when you cracked open the door
+>you glanced over to Ash while you lined up the sight
+>he had clung behind you, his tiny claws almost like a kitten's against your shirt
+>when you fired the first shot it slumped forward a little, then turned
+>it was hard to look at but you kept shooting
+>the hits registered but it didn't seem to do much more than waver briefly
+>this was why there were no guards down here
+>you weren't about to let it get close
+>for how durable it was it seemed to trade that for speed
+>it slowly walked forward and you had to pull back
+>Ash was with you the whole way
+>occasionally you fired your pistols and it seemed to have no effect like the magnum
+
+>this thing seemed to regenerate from wounds
+>buckshot seemed to have the same effect
+>it shrugged off having an arm blown off
+>even seemed to be growing back
+>Ash freaked out and you couldn't lie and say you weren't with him there
+>Ash emptied another magazine and something happened
+>his shots must have nailed something in the creature because it actually reacted to that
+>you lined up the shotgun and hit the same spot before it healed completely
+>that put it down for a minute
+>it wasn't out but it did do something
+>probably popped something inside it
+>whatever the parasite shit was doing you'd severed part of it
+>so it probably had more targets
+>what followed was Ash would spray and pray and then you'd watch
+>right shoulder
+>another wound that stuck
+>buckshot
+>fall back
+>you two would be running out of room soon
+>hopefully, it wouldn't have many more of these things
+>Ash was getting better with the gun and two more magazines found another target and you ran in and shot it there
+>it frantically reached out for you, spikes growing all over its body
+>but it was death throes as it's last lifeline was severed
+>you'd won but all that ammo you'd just bought was damn near gone
+>Ash leaned against you and sighed
+>"there's probably more of those things," he muttered 
+>you figured he was right
+>you wanted him to be wrong but that's not how this worked
+>if they made one of these things they'd mass produce them
+>Raccoon City taught you that
+>what you wanted had to be past that thing though
+>so you headed back down, far more carefully
+>searching room to room turned up some supplies
+>even a scope that let's you x ray anyone
+>which would have been real great for that regenerator 
+>but if there were more you'd be better off
+>zooming the scope on Ash made him slap it away in embarrassment 
+>you had to explain it wasn't that kind of x ray sight when he accused you of looking at him without clothes on
+>then he got flustered when you asked why he was worried because you'd seen him without clothes on before
+>the search continued
+
+>one more regenerator
+>now that you knew the trick to them it was easier
+>not easy, just easier
+>after clearing a few more rooms you finally found exactly what you were looking for
+>Luis had been sort of right
+>it looked like the device would put the plagas down for a time but not completely kill them 
+>maybe
+>you were scared to hit this device full blast on either of you
+>Ash looked down but you patted him on the back
+>between this machine and the medicine down here you could put off the eggs growing
+>given how their hive mind seemed to work you'd just have to kill the head bug and everything would work out after
+>no signal to hatch would mean the eggs could be safely cut out after
+>at least that's what some of these notes seemed to point to
+>it didn't look good 
+>you were initially worried about the device
+>radiation wasn't exactly your expertise 
+>Ash spoke up
+>"I'll go first, then we'll know it's safe. just do what you have to get the bugs out. I'll be ok."
+>you raised doubts
+>these notes were unsure if it would be the be all and never went past a certain threshold 
+>Ash looked towards his boots
+>"you promised we'd get out of this."
+>he was scared and you couldn't blame him
+>you offered to go first in his place and he refused
+>"you risked your life enough for me. now let me do that for you. hopefully this just gets rid of them and we're safe."
+>you helped strap him in and went over the procedure in triplicate
+>you couldn't fuck this up
+>you refused to fail
+>Ash just closed his eyes and tried to think about warm beaches
+
+>you were initially afraid to pull the trigger on the whole thing and you couldn't put it to words
+>Ash was kind of odd to you but the tech may kill him
+>you'd have been the one to do it
+>but part of you knew if you didn't the parasites would end up winning over
+>and if that happened the world was screwed
+>so Ash did the only thing he could
+>you had to honor that
+>it took a lot of courage from someone that probably hadn't dealt with anything like this before
+>yes, you ended up activating the thing
+>it started powering up, making a whole lot of noises you weren't a fan of
+>then the lasers started happening
+>a red sight narrowed over the mouse boy's chest and hovered over the heart
+>he kept his eyes closed and started silently mumbling to distract from the noises
+>you didn't know at all how any of this would go but the machinery seemed to work automatically 
+>the lasers cut into the mouse and he cried out
+>you nearly jumped to stop it but them the next wave began and the incision was bathed in what you assumed was the radiation 
+>again, you went off what you could gleam from the notes
+>Ashley was clearly going to hurt from this but it seemed to have done the trick after a few minutes of pain
+>you hated to see anyone go through that but the procedure was brief
+>you helped him out of the chair after the computer read out gave you the best possible news
+>the eggs were dead now
+>this equipment had worked flawlessly 
+>he was understandably shaken and you treated the incision
+>the laser had thankfully seemed to seal up the wound after the cut
+>he was weak and you offered him some of your provisions to keep up his strength
+>you kept verbally checking to make sure he was alright
+>slowly he recovered and you were eager to get your own process over with
+>after he helped you onto the table you saw his gaze linger over you
+>he must be wracked with the same guilt you had
+>the pain from the cut burned like hell and the radiation wasn't much better
+>you didn't know how Ash didn't scream from this, but you grit your teeth through the whole thing and tried to hold on
+>when your reading said you were clean you could finally breath 
+>you complimented Ash for enduring that and he turned into a stuttering mess 
+>especially when you planted your hand on his shoulder and said you were serious
+>God would this cut hurt for a while but the risk and pain seemed to be worth it
+>you were both free 
+>you pulled him into a hug and ignored the burn when you held him up in the air
+>he flailed about like a fish and his tail knocked over a bunch of paperwork 
+>"p-put me down!" 
+> you looked up at the mouse boy confused 
+>"uh, please. you shouldn't reopen your wounds…"

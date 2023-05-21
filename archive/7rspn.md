@@ -1,4 +1,22 @@
 ▶NEW CLIPS
+>Prigozhin announced the complete liberation of Bakhmut (TRANSLATED by DDG)
+https://files.catbox.moe/surqn3.mp4
+>Wagner fighters rising Russian and PMC flags above every corner of Bakhmut KINO
+https://files.catbox.moe/8gz9gw.mp4
+>Wagner guys fucking around in Buckmutt court
+https://files.catbox.moe/qz3rzw.mp4
+>Hohols on the run from Samolet district
+https://files.catbox.moe/i063nr.mp4
+>Ride through Bakhmut with Wagner
+https://files.catbox.moe/t4apau.mp4
+>Prigozhin announced the complete liberation of Bakhmut
+https://files.catbox.moe/lz3hy0.mp4
+>Triumphant opening of champagne from Artemovsk Champagne Factory
+https://files.catbox.moe/hw1ybb.mp4
+>Wagner Bakhmut KINO
+https://files.catbox.moe/lu5or6.mp4
+>Hohol: "Bakhmut has fallen"
+https://files.catbox.moe/7jt3iu.mp4
 >Zaluzhny, where are you?
 https://files.catbox.moe/4h1awc.mp4
 >AFU Dead Pigger Collection Team

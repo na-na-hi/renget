@@ -645,7 +645,7 @@ if __name__ == '__main__':
 ```
 
 ##Soundpost FIlename Cleaner
-Last Updated: 04/28/23 (mm/dd/yy)
+Last Updated: 05/20/23 (mm/dd/yy)
 
 Removes `http://` and `https://` and fixes `_2F` to `%2F` in the folder it is ran in.
 Reason:
@@ -653,7 +653,7 @@ https://github.com/rcc11/4chan-sounds-player/blob/master/src/components/posts/in
 WARNING: OVERWRITES FILES
 
 ```python
-import os
+import os, re
 
 if __name__ == '__main__':
 	cwd = os.getcwd()
@@ -661,9 +661,10 @@ if __name__ == '__main__':
 		file_ext = file.split(r'.')
 		file_ext = file_ext[len(file_ext)-1]
 		if file_ext in ['webm','png','jpg','gif','jpeg','jfif']:
-			if len(file.split(r'sound=')) > 1:
-				if file.split(r'sound=')[1].startswith(r'http') or len(file.split(r'_2F')) > 1:
-					clean_file = file.replace(r'_2F',r'%2F').replace(r'_3A',r'%3A').replace(r'http%3A%2F%2F',r'').replace(r'https%3A%2F%2F',r'')
+			fs = file.split(r'sound=')
+			if len(fs) > 1:
+				if fs[1].startswith(r'http') or len(fs[1].split(r'_')) > 1:
+					clean_file = fs[0] + r'sound=' + re.sub(r'https?%3A%2F%2F',r'',fs[1].replace(r'_',r'%').replace(r'%2E',r'.'))
 					os.replace(file,clean_file)
 					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file))
 ```

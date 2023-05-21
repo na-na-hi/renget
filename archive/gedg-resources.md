@@ -14,8 +14,9 @@ Knowledge is power, and free knowledge is great.
 
 ## Programming and Architecture
 
-*  https://www.learn-c.org/: Collection of simple and interactive tutorials for the C programming language.
+* [C Builds and Libraries for the Inexperienced](https://rentry.org/gedg-cbuild): Tutorial made for /agdg/, /chad/, and /gedg/.
 * [Programming in Lua](https://www.lua.org/pil/contents.html ): Official online book to learn Lua. Lua is great for embedding into software.
+*  [learn-c](https://www.learn-c.org): Collection of simple and interactive tutorials for the C programming language.
 
 ## Math and Physics
 

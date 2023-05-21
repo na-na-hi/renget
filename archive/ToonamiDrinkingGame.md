@@ -17,62 +17,37 @@ Take a shot every time:
     -Steve Blum Fast Food/theme restaurant
 -Someone mentions how one of the drinking games is fatal
 
-My Hero Academia S6
--Deku cries
--Deku hurts himself using his power
--All Might transforms
--Plus Ultra is yelled
--Someone says why they want to be a hero
--Frog girl says ribbit
--Bakugo acts like a bitch
--This little purple fuck says something perverted
--Deku spergs out over anything
--You recognize what a character is a reference to
--There's costume talk
--OH MY SEVEN QUIRKS
--Doctor Robotnik appears
+Unicorn: Warriors Eternal
+-Emma denies being gothic elf chick
+-Buddha Boy looks particularly high
+-there's a shot focusing on Foxy Lady's bunda
+-some English Bobbies show up just to get wrecked
+-finish your drink if there's a random tragic twist in the last 5 minutes, then go get the rest of your drinks and finish those if it still hurts
 
-Made in Abyss
--someone talks about relics.
--A type of whistle is mentioned.
--someone mentions the Abyss or it’s curse.
--You see a new type of monster from the Abyss.
--Riko gets injured in any way.
--Someone rubs up on Nanachi
--Reg says Irredeemable
--A new relic is mentioned
--drink twice when Riko and Reg reach a new layer of the Abyss.
--drink twice for overtly pedo shit
+Primal
+-something starts bleeding that wasn't bleeding before
+-A creature gets eaten
+-Spear thinks bout his family
+-Spear is tired of Fang's shit
+-Fang has bedroom eyes
+-Peace and calm is suddenly interrupted
+-Someone or something roars
 
-Yashahime Half-demon princess
--Towa talks about the dream butterfly
--Moroha loses a bounty/gets shitty pay
--Setsuna doesn't give a shit about Towa
--Moroha's unable to fight
--Myoga goes "boing"
--A villain is defeated in less than 3 minutes
--Towa discovers a new power and saves the day
--A flashback of [characters I remember] begins
--A character's name is shown on screen
-2 drinks when:
--inuyasha or kagome say the other's name
--MY ASTHMA
--bees
-
-Lupin:
--A car chase happens
--Lupin escapes a trap or outplays an enemy.
--Fujiko reveals herself
--2 shots if someone besides fujiko was wearing a mask
--Fujiko double crosses everyone.
--Lupin hits on Fujiko.
--Jigen gets nostalgic
--Zenigata gets embarrassed
--The locals get theirs for not listening to Zenigata.
--Goemon does something obviously impossible
--There's a reference to the Sherlock Holmes books
--Someone asks about Raven
--2 shots when they steal something
+Food Wars:
+-someone says "delicious", "umami", "gastronomy", or  "glutamic acid"
+-there's a food reaction, two shots if it's highly sexual three shots if it's clearly impossible
+-victor says "vkusno!"
+-erina is tsun
+-alice pouts
+-megumi freaks out
+-the director gets naked
+-a character gets a cooking nickname
+-there's a shot of meat's meat
+-there's VERY fast chopping at incredible hihg speed
+-soma makes some weird ass experimental food
+-nobles look down on food peasants
+-a new food nen power is revealed
+-El Hermano taunts Soma
 
 One Piece
 -Luffy mentions meat
@@ -119,28 +94,18 @@ Naruto Shippuden:
 -A ninja walks on water, up a tree, or side of a mountain
 -Someone does/uses something overly impractical
 
-Shenmue
--Tom shows up
--Ryo responds to someone with "I see..." or repeats what was said.
--Ryo thinks/talks about revenge
--Ryo finds a new clue
--you see a forklift
--Drink twice if Ryo cockblocks himself
--Drink twice for any reference to a minigame or QTE from the original
--Finish your drink if he looks for sailors
 
-Attack on Titan:
--Someone posts spoilers (optional)
--A side character you barely know dies
--2 shots if a named character dies
--Sasha does something with food
--Anyone acts like a psycho (two shots if it's Mikasa, Eren, or Kenny)
--Gabi is a cunt
--Falco is a pussy
--Piecke crawls around
--Mikasa says "Eren"
--A Titan looks/acts dumb
--Eren bites his thumb
--There's some faux-philosophical narration
--Monkey Trouble pops in
--People start spouting political garbage
+My Hero Academia S6
+-Deku cries
+-Deku hurts himself using his power
+-All Might transforms
+-Plus Ultra is yelled
+-Someone says why they want to be a hero
+-Frog girl says ribbit
+-Bakugo acts like a bitch
+-This little purple fuck says something perverted
+-Deku spergs out over anything
+-You recognize what a character is a reference to
+-There's costume talk
+-OH MY SEVEN QUIRKS
+-Doctor Robotnik appears

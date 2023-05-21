@@ -49,9 +49,17 @@
 - Fantastic place to download Japanese music in both lossy and lossless quality, including vocaloids, pop, anime, and gaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/hikarinoakari.com/)
 
+### 🔗 [JPOPMIX](https://jpopmix.com/)
+- Download albums, eps, and singles of the newest anime soundtracks and Japanese pop music with ease.
+- [URL Safety Results](https://www.urlvoid.com/scan/jpopmix.com/)
+
 ### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
 - Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloads.khinsider.com/)
+
+### 🔗 [KpopTap](https://kpoptap.com/)
+- Quickly download the newest Korean pop music, including albums, eps, singles, and soundtracks for TV shows and dramas.
+- [URL Safety Results](https://www.urlvoid.com/scan/kpoptap.com/)
 
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 - Superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available on leading file hosts.

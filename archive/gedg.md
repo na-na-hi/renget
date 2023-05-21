@@ -86,12 +86,6 @@ https://rentry.org/gedg-resources
 
 https://rentry.org/gedg-books
 
-### C Builds and Libraries for the Inexperienced
-
-A tutorial on building with C.
-
-https://rentry.org/gedg-cbuild
-
 ***
 
 ## Games by /gedg/

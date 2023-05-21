@@ -381,6 +381,9 @@ Least Favorite:
 ###Sentret
 >Sentret the Sentret is a feral child. Bright eyed, bushy tailed and far too trusting. Will jump off a bridge if all his friends do it. Eats garbage. Is easily distracted. Also easily impressed, thinks every other person at the guild is the absolute coolest. Fearless, more from not comprehending danger than any sort of bravery. Will talk too much if you let him. Chronic idiot. Only vaguely interested in finding his dead parents.
 
+###Flynn
+>He was a semi-average, if a bit cocky, dude living a pretty good life until he became a mon, which definitely deflated his confidence. He was a rookie cop back when he was a human, so he'd like to be around other humons, even if he doesn't understand most of what they say.
+
 ###Tooca/Lapi
 >Lapi (male Axew):
 >The Axew is a Gentle, kind, and considerate Pokémon...but a bit of a wuss and leery of violence. Not a coward per se, but its not in his personality to fight with someone over something that might be viewed as trivial. Not the type to be all high and mighty either however. Would absolutely not be the type to go after outlaws as a mission for example.

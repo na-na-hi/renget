@@ -1,4 +1,6 @@
 #/hpgg/ Autism Sheets
+->[/hpgg/ Speed Dating/Friend-ing Application](https://files.catbox.moe/pegqm9.png)<-
+
 ->[Character Sheet](https://files.catbox.moe/h9g2ou.png)<-
 
 ->[Writing Reference Page (scroll down)](https://rentry.org/hpgwriting)<-
@@ -29,3 +31,5 @@
 ->[Mirror Universe Alt Sheet](https://files.catbox.moe/sjdoof.jpg)<-
 
 ->[Divination/Futures Sheet](https://files.catbox.moe/nvcw90.jpg)<-
+
+->[Outfit/Info Sheet (not from /hpgg/)](https://files.catbox.moe/1bor7p.jpg)<-

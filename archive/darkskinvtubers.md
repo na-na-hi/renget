@@ -73,7 +73,7 @@ Maroony|[Twitter](https://twitter.com/maroony_ch) [Twitch](https://www.twitch.tv
 Charlottexbear|[Twitter](https://twitter.com/Charlottexbear) [Twitch](https://www.twitch.tv/charlottexbear)| LSE (Little sister experience)
 Nyaruchuuu|[Twitter](https://twitter.com/nyaruchuuu) [Twitch](https://www.twitch.tv/nyaruchuuu)|Shirayuri - Idol
 Scarle Yonaguni|[Twitter](https://twitter.com/ScarleYonaguni) [Youtube](https://www.youtube.com/@ScarleYonaguni)|NijiEN - Endurance streamer
-SansinJin|[Twitter](https://twitter.com/sansinjin) [Twitch](https://www.twitch.tv/sansinjin)|
+Sansin|[Twitter](https://twitter.com/sansinjin) [Twitch](https://www.twitch.tv/sansin)|
 Naki_VT|[Twitter](https://twitter.com/NakiVT) [Twitch](https://www.twitch.tv/naki_vt)|
 Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.twitch.tv/tommysonline)|
 Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
@@ -135,7 +135,13 @@ Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://ww
 AuteruTori [EN/MSA]|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Arabic birb
 SuperJinxy|[Twitter](https://twitter.com/super_jinxy) [Twitch](https://www.twitch.tv/super_jinxy/)|
 BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|
-
+WaffleInaToaster|[Twitter](https://twitter.com/SoggysWaffles) [Twitch](https://www.twitch.tv/waffleinatoaster/)|
+LucyPyre|[Twitter](https://twitter.com/LucyPyre_)  [Twitch](https://www.twitch.tv/lucypyre)|
+Virtualtaffy|[Twitter](https://twitter.com/virtualtaffy) [Twitch](https://www.twitch.tv/virtualtaffy)|
+Yukichigoo|[Twitter](https://www.twitch.tv/yukichigoo/) [Twitch](https://www.twitch.tv/yukichigoo)|
+RoraAtf|[Twitter](https://twitter.com/RoraAtf) [Twitch](https://www.twitch.tv/roraatf)|
+Oiivae|[Twitter](https://twitter.com/Oiivae) [Youtube](https://www.youtube.com/channel/UCVi6o2W02TZHCEQiV9Uw-wA) [Twitch](https://www.twitch.tv/oiivae)|
+CypressCyren|[Twitter](https://twitter.com/cypresscyren) [Twitch](https://www.twitch.tv/cypresscyren)|
 
 ---
 

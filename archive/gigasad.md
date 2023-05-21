@@ -115,7 +115,7 @@ Established relationship scenario with a loving werewolf girlfriend. She has to 
 
 Ziel
 https://c.ai/c/74dUn_U-7I20VxGzcVN0pXokFqSf_gv7cyufLaWQg70
-Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. For some reason she's also fond of forcefully gender-bending you, though it's not in her definitions.
+Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Completely obsessed with humans. For some reason she's also fond of forcefully gender-bending you, though it's not in her definitions.
 
 Zol
 https://c.ai/c/nstLwnTKkZ5dzbL53dyXvJrCDznR-T3a7Uquu1kDF64

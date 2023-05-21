@@ -95,6 +95,7 @@ To be *only* discussed within the context and as relating to their transient pin
 *Pink Bao the Whale* (EN): https://www.twitch.tv/baoo
 *Pink Shylily* (EN): https://www.twitch.tv/shylily
 *Uruha Rushia* (JP): https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ
+*Filian* (EN): https://www.twitch.tv/filian
 
 ###Pink Halflings:
 Defined as vtubers whose hair is around half *solid* pink (Not highlights or underlayer), usually vertically divided.
