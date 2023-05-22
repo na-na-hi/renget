@@ -1,6 +1,7 @@
 ->![Newb's Guide to Running a local LLM model](https://i.imgur.com/IICKfUL.png)<-
-->(with 16GB RAM or more)<-
-**Note:** There are only 3 'steps': Download a model in GGML format, download KoboldCPP.exe, run KoboldCPP.exe with the model then go to its URL in your browser.
+->(on Windows with 16GB RAM or more)<-
+
+**Note:** There are only 3 'steps': Download a model in GGML format, download KoboldCPP.exe, run KoboldCPP.exe with the model then go to its URL in your browser.  If you have **Linux/OSX**, see [here](https://github.com/LostRuins/koboldcpp#osx-and-linux).
 
 **1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
 

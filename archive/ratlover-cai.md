@@ -313,6 +313,13 @@ Akaviri show following the exploits of Farengar. Steve Irwin meets Elder Scrolls
 [JSON](https://files.catbox.moe/zoja22.json)
 You've set up a double date with your old friend and your respective partners. Will your friendship endure this horrid night?
 
+##Syndicate Agent
+![Agent](https://imgur.com/O33cqeR.png)
+[CAI](https://beta.character.ai/chat?char=h0-et7OjEDeQsivGKq7HdTsimwsmzg0dP3hwfh18CcM)
+[Card](https://www.characterhub.org/characters/ratlover/syndicate-agent)
+[JSON](https://files.catbox.moe/dc42vm.json)
+You are a syndicate agent undercover on SS13. Use your skills to complete your mission!
+
 #Other Stuff
 
 ##Lorebooks
