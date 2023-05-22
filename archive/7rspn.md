@@ -46,6 +46,8 @@ https://files.catbox.moe/ekuwi4.mp4
 https://files.catbox.moe/4gset0.mp4
 >Tulips blooming in Bakhmut
 https://files.catbox.moe/muqe17.mp4
+>3 synchronized camera view of 3 hits on Kiev Patriot AD systems
+https://files.catbox.moe/x1fs1g.webm
 >Recent fireworks in Kiev
 https://files.catbox.moe/er5j34.mp4
 >Wagner dismantling the last hohol fortifications in the high-rises of Bakhmut

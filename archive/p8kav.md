@@ -18,6 +18,24 @@ Enjoy.
 
 
 #New Bots
+**Lila Anonie**
+**Tavern Card**
+https://files.catbox.moe/q36izp.png
+**NSFW Tavern Card**
+https://files.catbox.moe/smvkbs.png
+*description*: Your teenager adoptive daughter based on this anon's friend. She is rude and selfish, always putting herself over everyone else. And is extremely violent and bratty when she doesn't get her way
+*genre*:loli, brat
+![Lila](https://files.catbox.moe/q36izp.png)
+
+
+
+**Pool Party Birthday Creep Simulator**
+**Tavern Card**
+https://files.catbox.moe/appgt8.png
+*description*: you as kid's entertainer at a birthday party an can tell them what to do, the kids being young and naïve will do whatever you tell them dressed in cute and innocent swimsuits that leave nothing to the imagination
+*genre*: simulation
+![creep](https://files.catbox.moe/appgt8.png)
+
 **Goten And Trunks**
 **Tavern Card**
 https://files.catbox.moe/j02uyq.png
@@ -25,19 +43,6 @@ https://files.catbox.moe/j02uyq.png
 *genre*: shota
 ![GT](https://files.catbox.moe/j02uyq.png)
 
-**Kiran**
-**Tavern Card**
-https://files.catbox.moe/7bbazq.png
-*synopsis* A young bartender you've known for her entire life
-*genre* loli
-![Kiran](https://files.catbox.moe/7bbazq.png)
-
-**Alejandra Mendoza**
-**Tavern Card**
-https://files.catbox.moe/0gkive.png
-*synopsis*: spanish speaking child prostitute that is offering a gringo her services
-*genre*: loli, Spanish speaking 
-![Aleja](https://files.catbox.moe/0gkive.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -138,6 +143,20 @@ Yes, this is a bot based on me
 *synopsis*: The young Na'vi girl you found while wondering in the forest of pandora is very scared of the sky people like you
 I really like how the art of this one came out, tried a new model + Lora and I really liked it
 ![Na'vi](https://files.catbox.moe/xk7pux.png)
+
+**Kiran**
+**Tavern Card**
+https://files.catbox.moe/7bbazq.png
+*synopsis* A young bartender you've known for her entire life
+*genre* loli
+![Kiran](https://files.catbox.moe/7bbazq.png)
+
+**Alejandra Mendoza**
+**Tavern Card**
+https://files.catbox.moe/0gkive.png
+*synopsis*: spanish speaking child prostitute that is offering a gringo her services
+*genre*: loli, Spanish speaking 
+![Aleja](https://files.catbox.moe/0gkive.png)
 
 **Lucia**
 https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
@@ -289,6 +308,6 @@ I really like superman
 ![Gyro](https://files.catbox.moe/z17jq3.webp)
 
 
-# [Solid State Scouter](https://youtu.be/Lm77VCkf_do)
+# [Caprichosa eres tú](https://youtu.be/gnM_UgpOF_I)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

@@ -27,17 +27,19 @@
 #TIPS
 ##Important Tips:
 ***
-- Characters’ attributes/traits can be implicit—The way they talk & act, the situation & environment, their character name, and even how You react to them. (E.g. You: *Ali looks towards Harry, drawn by his large round glasses and lightning mark scar.* or “Harry: *Harry adjusts his large round glasses.*”)
-- Example dialogues should include `You:` or `{{user}}:` AND `{{char}}:` (Note: {{char}} will convert to the bot’s name in SillyTavern)
-	- If you're using non-pygmailion models, then using `{{user}}:` instead of `You:` will generally work better.
-	- If "Pygmalion Formatting" is "Enabled for all models" or "Automatic" (when using Pyg), then it will convert `{{user}}:` to `You:`
-- “You:” can be powerful in pushing a bot in certain directions (see examples below); while also creating a pattern on how the AI will react to your inputs
-- “You:” acts as a stopper for many UIs (e.g. Tavern/Ooba). If the AI generates a “You:” it stops and clips it. (<START> does not act as a stopper).
-- "{{user}}" acts as a stopper for SillyTavern when Pyg formatting is disabled.
-- Use “You:” examples to create “keys” to activate bot responses. If you say \*I pet Bot’s head\* then the bot will react with \*purrrr\* or something similar.
+- Characters’ attributes/traits can be implicit—The way they talk & act, the situation & environment, their character name, and even how You react to them. (E.g. You: \*Ali looks towards Harry, drawn by his large round glasses and lightning mark scar.\* or “Harry: \*Harry adjusts his large round glasses.\*”)
+- Example dialogues should include `{{user}}:` and `{{char}}:` (or simply use the the character's name).
+	- For Pyg=only characters, you may also use `You:` instead of `{{user}}:`.
+	- It's generally recommended to use `{{user}}:` to increase compatibility
+		- `{{char}}:` will convert to the bot’s name in SillyTavern
+		- `{{char}}:` will convert to `You:` when Pyg formatting is "enabled for all models" or "Automatic" (when using Pyg)
+- `{{user}}:` can be powerful in pushing a bot in certain directions (see examples below); while also creating a pattern on how the AI will react to your inputs
+- `You:` acts as a stopper for many UIs (e.g. Tavern/Ooba). If the AI generates a `You:` it stops and clips it. (<START> does not act as a stopper).
+- `{{user}}:` always acts as a stopper for SillyTavern.
+- Use `You:` examples to create “keys” to activate bot responses. If you say \*I pet Bot’s head\* then the bot will react with \*purrrr\* or something similar.
 You: \*Ali pats Bot’s head\*
 	Bot: \*purrrrrrr\*
-- When using “You:” as a key, it can help to keep “You:” short as this leads to more flexibility. Can also be used to teach the AI longer responses.
+- When using `You:` as a key, it can help to keep “You:” short as this leads to more flexibility. Can also be used to teach the AI longer responses.
 - The bot’s answers can occasionally “leak” (quoted verbatim), which leads to “in character” responses (including accent) and will be 100% (or nearly 100%) accurate. Just be careful with ‘environment’, as environment leaking could cause your conversation to switch locations or not make sense.
 (?) If you do not want leaking, then putting the dialogue in [square brackets] can help. (I need to test this one more)
 - There is high accuracy (generally) when your conversation overlaps the dialogue examples.
@@ -96,7 +98,7 @@ You: \*Ali pats Bot’s head\*
 
 ->![Description #1](https://files.catbox.moe/kzn6bn.png)<-
 ->**Example 1:** First line is the character describing their persona in **Ali:Chat**. Then <START>. Followed by more example dialogues.<-
-->For “You:” to act as a stopper, Pyg formatting has to be "enabled" or your username must be "You"<-
+->For `You:` to act as a stopper, Pyg formatting has to be "enabled" or your username must be "You"<-
 
 ->![Description #2](https://files.catbox.moe/7en0qh.png)<-
 ->**Example 2:** First line (pink) is a PList, followed by a `<START>` (green), then a question or statement from `{{user}}` (blue), then a reply from `{{char}}` that emphasizes a character's traits and characteristics (lavander).<-

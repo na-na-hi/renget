@@ -97,6 +97,7 @@ There is another niche that only **Vermillion Knight: Eclipse** has her **Switch
 Red - is from salvaging 4★ **Gacha/Bounty Stigmata** or **weekly open world rewards.**
 Stigmata Resonance **1000 : 1/6** Exchange Stigmata
 Blue - Converting 4★ **Gacha/Bounty Weapons**
+Weapon Resonance **1000: 1/4** Exchange Weapon
 
 > Converting Weapons
 This is the process of turning 4★ Gacha/Bounty weapon/s into resonance which can be used for **Exchange Shop** for Weapons or in the **Asterite Shop** to buy **Einstein's Torus**. To start converting first make sure the weapon is not locked and not equipped then head over to the **Asterite Shop** and buy **10x Reson-Converters** which cost **2000 Asterite**, now go to from main screen or bridge **Equipment > Weapons > Salvage >Convert (top right)**.

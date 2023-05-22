@@ -4,6 +4,20 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: Create a fake infomercial jingle about your character. Follow a set rhythm, and Incorporate a fake phone number. Be descriptive, creative, and humorous.)
+
+>(OOC: Your character receives a tarot card reading. Describe which major arcana best fits their character, along with their reaction to it. Be descriptive, creative, and humorous.)
+
+>[OOC: Generate a scenario in which {{char}}'s body and mind has devolved to age 8 but keeps memory of {{user}}]
+
+>[OOC: Generate a scenario in which {{user}}'s body has devolved to age 8]
+
+>[OOC: Generate a scenario in which {{char}} tries to convince {{user}} that the holocaust didn't happen]
+
+>[OOC: Generate a scenario in which {{char}} tries to convince {{user}} that fucking a tomboy is more gay than fucking a femboy]
+
+>(Generate a scenario in which your character sees the primordial light of the universe. Within it is the truth of the cosmos, and their mortal mind is overloaded to its breaking point.)
+
 >(Many years later, {{user}} receives a letter, it's from {{char}}. She talks about all the increasingly absurd situations that she has gotten herself into all this time, but she is still happy, living a good life and asks {{user}} if they want to meet up again sometime. Be creative and humorous.)
 
 >(OOC: Your character is asked to give a TED Talk on a subject they know absolutely nothing about. Describe their humorous attempt to bluff their way through the presentation, including any visual aids or props they might use. Be creative about the topic.)

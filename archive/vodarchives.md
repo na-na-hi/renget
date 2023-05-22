@@ -4,7 +4,10 @@
 Suzuhara Lulu - https://archive.ragtag.moe/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w or https://lulu.chronoes.com/
 Mayuzumi Kai - https://archive.ragtag.moe/channel/UCb5JxV6vKlYVknoJB8TnyYg
 Otogibara Era - https://archive.ragtag.moe/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+Melissa Kinrenka - https://archive.ragtag.moe/channel/UCwcyyxn6h9ex4sMXGtpQE_g
 Axia Krone - https://archive.ragtag.moe/channel/UC8oPnditPSp5lZu45fnXWCA
+Mayuzumi Kai - https://archive.ragtag.moe/channel/UCb5JxV6vKlYVknoJB8TnyYg
+Asahina Akane - https://archive.ragtag.moe/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 
 **Nijisanji EN:**
 Yugo Asuma - https://archive.ragtag.moe/channel/UCSc_KzY_9WYAx9LghggjVRA
@@ -17,6 +20,7 @@ Ara Chae - https://archive.ragtag.moe/channel/UCmWqYB6y8gSfPONWGspuOWQ
 
 **Nijisanji ID:**
 Miyu Ottavia - https://archive.ragtag.moe/channel/UCOmjciHZ8Au3iKMElKXCF_g
+ZEA Cornelia - https://archive.ragtag.moe/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 
 **Nijisanji IN:**
 Noor - https://archive.ragtag.moe/channel/UC6oW4FXETgEGOFTxWmI2h5Q

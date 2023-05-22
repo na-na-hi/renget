@@ -1,9 +1,10 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/uAowIQK.jpg)
-Waiting Room Edition
+![suggested OP image](https://files.catbox.moe/djov9y.GIF)
+https://files.catbox.moe/djov9y.GIF
+Out with the Old Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>430523614
+Last thread: >>430623698
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,10 +32,10 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
+\>(05/22) Summer Phoenix incoming https://www.youtube.com/watch?v=AEMkuXaFdsw
 (05/20) Me llaman papi chulo https://bloomchatbot.vercel.app https://huggingface.co/sambanovasystems
 (05/20) Sudo goes long-form https://twitter.com/jamesjyu/status/1658933765824192512
-(05/20) Neat https://vcai.mpi-inf.mpg.de/projects/DragGAN
-(05/19) Anon whips up a Saga guide: https://rentry.org/How-I-do-Saga
+(05/20) Neat https://vcai.mpi-inf.mpg.de/projects/DragGAN ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
 
 ▶/aids/ Events

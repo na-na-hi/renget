@@ -16,8 +16,10 @@
 	* Documentary about the decadence of Weimar Berlin and Germany to some extent. Normie-friendly. 45 minutes long.
 * [The Weimar Republic | Ultimate Fashion History](https://www.bitchute.com/video/ChBO4pSYwwkl/)
 	* Same as above, but focuses on German art as a whole and draws many parallels between Weimar Germany and today's society. Normie-friendly, but ends up praising some aspects of it and mourns the overthrow of Weimar Germany by National Socialism. 44 minutes long.
-* [The Not So Chosen People](https://odysee.com/@coronamirror:d/the-not-so-chosen-people-cartoon:0?lid=4114a3e3770eb1f8d7433a680e764fa237262a20)
-	* Playlist. The first is a 10 minutes long but powerful video exposing the obvious falsification that is the claim the Jews are "God's Chosen People", as well as Jewish lies regarding Israel, Judaism, and the Old Testament. A must-watch. This first video is a very short and focused summarisation of Jews_for_Hitler's documentary series on the Bible, which focuses on the history of the Old Testament and which dives *very* deeply into some more controversial topics, like Christian Identity. Nonetheless a series which I believe is a must-watch for any National Socialist who identifies as a Christian. Altogether almost 5 hours long.
+* [The Not So Chosen People Cartoon](https://odysee.com/@Gott_mit_uns:8/the-not-so-chosen-people-cartoon:9)
+    * A 10 minutes long but extremely impacting video exposing the obvious falsification that is the claim the Jews are "God's Chosen People" or even that they are all of the peoples in the Old Testament, as well as many other Jewish lies. A *must-watch*.
+* [The Not So Chosen People Series](https://odysee.com/@HistoricalInfo:9/The-Not-So-Chosen-People-Intro:4?lid=8ed4b8f0ccbf4be436e1a44c0922d582b7918b84)
+	* Playlist. The above (cartoon) is only a very short and focused summarisation of Jews_for_Hitler's documentary series on the Bible, which focuses on the history of the Old Testament and which dives *very* deeply into some more controversial topics, like Christian Identity. Nonetheless a series which I believe is a must-watch for any National Socialist who identifies as a Christian. Altogether almost 5 hours long.
 * [High Ashkenazi Jewish IQ Debunked](https://odysee.com/@LeatherApronClub:c/jiq_final:6)
 	* 33 minutes long.
 * [The Nazi Economy](https://odysee.com/@Cultured-Thug:c/Nazi-Economy:a)

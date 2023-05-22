@@ -10,8 +10,7 @@ Luxury - Collection purposes only if you have extra resources to fluff about wit
 
 PvE is defined as a general category for anything that isn't Arena or CB such as Event SP, Dungeons, Luna Tower, Special Dungeon, etc... 
 
-Last Updated: May 10th (Kokkoro to Kuuka have been updated with the latest JP thoughts. If you have a different opinion, reply to the OP in the thread and discuss why.)
-
+Last Updated: May 21st, all units have been updated.
 [TOC2]
 
 ## -> Kyaru <- (JP release date: Year 2, August 31st)
@@ -476,7 +475,7 @@ Another previously useless unit pulled straight into the meta of Arena.
 - UB+ Increased damage and now applies curse. It a unit is cursed or hexed, they will now be charmed if hit by her UB. If all enemies are hexed when this UB hits, units will have Curse applied. If **even one target is  hexed**, then Curse will be applied to all units. Hex damage is increased by 30% from the base damage per second, for 19 seconds.
 - CB: No use in CB
 - Arena - Getting Misaki to UB twice in a short period is the name of the game here, or at least getting her to apply her Curse and charm over the course of the fight. The DoT from them are incredibly powerful. However, the fact that even one missed Hex means you missed out on Curse & charm is a hard condition. A great offensive Arena option, Misaki is here to stay. 
-- PvE: Similar to Aoi, her Hex/Curse a
+- PvE: Similar to Aoi, her Hex/Curse is nice for the bosses that have ridiculous defenses and need DoTs to fight, like the Super Luna Tower gem boss. Outside of that, not too useful.
 - Get farming her 8 nodes, as she'll want LB, max UE and max rank to work at peak efficiency for the Arena folk. Anyone else, skip her because she's worthless in any other mode. The bond stories do help ST.Misaki quite a bit.
 
 Bond story priority: High (Relevant unit: ST.Misaki)
@@ -490,11 +489,11 @@ Not very useful as other supports are just more effective.
 - CB: A very outclassed physical support that has decent buffs from UB+, but shit skills and missing any sort of TP restoration/Barriers/TP Boost buffs
 - Arena: Nothing to see for Arena, move on.
 - PvE: Can be an okay poverty choice, but there are better options.
-- Given the fact that she's in the clan coins shop, isn't used at all and there are better options - Just avoid using her and consider her 
+- Given the fact that she's in the clan coins shop, isn't used at all and there are better options - Just avoid using her and consider her once you have a lot of the other key 6 Stars.
 
 Bond story priority: Med (Relevant Alts: S.Chika)
-Max level Unit priority:  Top
-New player Unit priority: Top
+Max level Unit priority:  Low
+New player Unit priority: Luxury (Does not help in clear EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> S.Kokkoro<- (JP Release Date: Year 5, March 7th)
@@ -505,9 +504,9 @@ Amazing support for physical comps, good thing side stories are a thing.
 - PvE: Can be an okay poverty choice, but there are better options.
 - Given the fact that she's in the clan coins shop, isn't used at all and there are better options - Just avoid using her.
 
-Bond story priority: Med (Relevant unit: MS.Monika)
+Bond story priority: Med (Relevant unit: NY.Kokkoro, C.Kokkoro )
 Max level Unit priority:  Top
-New player Unit priority: Top
+New player Unit priority: High
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> S.Kyaru<- (JP Release Date: Year 5, March 7th)
@@ -550,142 +549,182 @@ New player Unit priority: Luxury (Can help clear maps if you have enough damage 
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Rin <- (JP Release Date: Year 5, May 9th)
-Brings back a taste of CB level autism, you needed to have ignored Arena or Rin to have prepared for this.
-- UB+ grants a stronger P.atk buff, M.Def buff and the same heal value. New additions are +15 TP boost, increased P.Crit rate and HP drain effect (Same as Akari's UB).
-- CB: 
-- Arena:
-- PvE
-- 
+Mostly an Arena unit, there's no place for her in CB at this time.
+- UB+: Grants a stronger P.atk buff, M.Def buff and the same heal value. New additions are +15 TP boost, increased P.Crit rate and HP drain effect (Same as Akari's UB).
+- CB: No usage anymore.
+- Arena: Has a good niche on defenses and offenses that require a quick M.def buff. Not terribly necessary, but nice to have in the roster.
+- PvE: Can help in situations where a m.def buff and healing are required for physical units, but not necessary. 
+- While +15 TP boost sounds incredible, Rin's only usage would be tanking for backline units. Maybe if a strong arsenal of backline physical units is amassed (She's in front of Laby) and she's right to tank, she'll see CB usage again. As for now, it simply isn't in the cards. Her Arena usage is strong enough to warrant a consideration, especially since she comes from dungeon.
 
-Bond story priority: Med (Relevant unit: Pyaru, O.Kyaru)
-Max level Unit priority:  Low
-New player Unit priority: Luxury (Can help in damaging parties, but the cost is too great)
+Bond story priority: Med (Relevant unit: H.Rin, R.Rin)
+Max level Unit priority:  Med
+New player Unit priority: Med (Can assist against magic damage for physical units, does not help EX 3/4+ clears)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Miyako <- (JP Release Date: Year 5, June 6th)
 If you hated Miyako before, you'll hate her even more now.
 - UB+ gives her increased damage and a new permanent dodge increase.
-- CB: 
-- Arena:
-- PvE
-- 
+- CB: Unless you're using her for a poverty 3rd team and need a tank that won't fold, just don't.
+- Arena: Fantastic on different defenses and offenses, a must have if you're going to do Arena in some sort of serious capacity. Can 1v5 stall on defense against physical units by herself.
+- PvE: Not very useful aside from the specific call-out in the "CB" section. This niche is a bit more useful in things like unlock quests, so long as it isn't magic damage.
+- Miyako's just become better at what she did before, which is shut down physical damage and heal herself. If you can't CC her or tag her with magic damage, you're in trouble. Arena specialist by far.
 
-Bond story priority: Med (Relevant unit: Pyaru, O.Kyaru)
-Max level Unit priority:  Low
-New player Unit priority: Luxury (Can help in damaging parties, but the cost is too great)
+Bond story priority: High (Relevant unit: X.Miyako)
+Max level Unit priority:  Med
+New player Unit priority: Med (Does not help clear EX3/4+ earlier)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Misato <- (JP Release Date: Year 5, July 6th)
-Nice budget option, as predicted.
+Has not seen any sort of relevant usage.
 - UB+ does not change the values of her heal or m.def buff. New additions are a M.atk buff, M.Crit damage increase and an HP regen effect, 18s each.
-- CB: 
-- Arena:
-- PvE
-- 
+- CB: Maybe low levels can make her work, but has not seen any sort of real useful usage. Bonds are useful for NY.Misato, who is used in CB.
+- Arena: Can work in those super cheesy stall P.Arena comps, but not a staple by any means
+- PvE: Similar to Rin except for magic units, but still just not worth anything. Positioned too far back to be a 1st position unit, as well.
+- Mostly just a stat stick for NY.Misato at this time, at least she's easy to farm.
 
-Bond story priority: Med (Relevant unit: Pyaru, O.Kyaru)
+Bond story priority: Med (Relevant unit: NY.Misato)
 Max level Unit priority:  Low
-New player Unit priority: Luxury (Can help in damaging parties, but the cost is too great)
+New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Eriko <- (JP Release Date: Year 5, August 8th)
-After 3 months of data, can confirm that she's pretty good and quickly becoming a staple of physical CB teams.
-- UB+ increases damage and removes the "if target is killed" buff branch with a new "If target is not killed" buff branch. If her UB does not kill, she gains a 40% P.Crit damage buff. New effects are an increase in P.Crit damage taken by targets hit by her UB for 18s, a permanent P.Atk buff to self on each UB and her UB is split into two damage calculations. The last part is extremely important, because it means her UB can bypass the softcap of around 1.125m per UB, allowing for her to hit 2.25m UBs total.
-- A decent choice in arena against full tank teams, since she can buff herself to a point where she 1 taps them. Niche as heck though.
-- Kaori is dead because of Eriko now
-- We have little data to back this up, but Eriko's 6 Star is similar to what we saw with Kaori - A revival of a former dominant unit. She has 7 farmable nodes, good luck.
+Reduced to an OF unit, because she only brings damage and nothing else.
+- UB+: Increases damage and removes the "if target is killed" buff branch with a new "If target is not killed" buff branch. If her UB does not kill, she gains a 40% P.Crit damage buff. New effects are an increase in P.Crit damage taken by targets hit by her UB for 18s, a permanent P.Atk buff to self on each UB and her UB is split into two damage calculations. The last part is extremely important, because it means her UB can bypass the softcap of around 1.125m per UB, allowing for her to hit 2.25m UBs total.
+- CB: Mostly seen in T3 or OF comps. Her time as a dominant CB physical unit has passed, mostly because comps require units to be absurdly strong and able to contribute more than just damage.
+- Arena: A decent choice in arena against full tank teams, since she can buff herself to a point where she 1 taps them. Niche as heck though.
+- PvE: Can do a decent job in clearing enemies with her huge buffs, but requires the team to be built around her.
+- Eriko requires a team comp to be build around her to shine, but this isn't very promiment because of her only bringing damage. Her skills are pretty shit as well, especially now since her UB+ is the most effective buff she has. She has 7 farmable nodes, good luck. Her unlock quest will most likely require a tank + Ames to properly beat, like Miyako.
+
+Bond story priority: Luxury (No relevant alts)
+Max level Unit priority: Med
+New player Unit priority: Low (Can help clear EX3/4+ earlier, but she is single target)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Shinobu <- (JP Release Date: Year 5, September 7th)
-Not a great unit so far. More of an arena unit, but doesn't see too much usage there anyway.
-- UB+ gives increased 150 range, damage. New effects are an action speed decrease by x65 of original value for 12s and a guaranteed fear for any unit hit by the UB.
-- Not seen in September or October CB, most likely due to skull dad fucking up things. She may be used for specific bosses, so don't count her out completely. Also S2 being 38 def down per target is a joke.
-- I haven't seen too much of Shinobu in Arena, but that could just be my bracket. Posisbly used in some niche offenses, but does not offer much outside of the fear. Skull dad also is a free TP gain for enemies given the nature of Arena.
-- Doesn't really have a place anywhere currently, but maybe in the future. Other units just have better def down options and aren't stuck between being Arena/CB viable.
+Not a great unit so far. More of an arena unit, but very niche.
+- UB+: Gives increased 150 range, damage. New effects are an action speed decrease by x65 of original value for 12s and a guaranteed fear for any unit hit by the UB.
+- CB: Not useful for anything related to CB, unless you have no other choice.
+- Arena: Can do a job in using her new UB+ to fear units, but her skills are useless. So unless you're building the team around her to get that UB off quickly, she struggles. Skull Dad also feeds the enemy TP by being fodder, which is never useful. P.Arena blind defenses help her usability though.
+- PvE: 
+- Other units just have better def down options and aren't stuck between being Arena/CB viable
+
+Bond story priority: Low (Relevant Units: P.Shinobu)
+Max level Unit priority: Med
+New player Unit priority: Low (Does not help clear EX3/4+ earlier)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Ilya <- (JP Release Date: Year 5, September 7th)
 No longer can crit herself to death, Ilya's got use now.
-- UB+ gives increased damage, increased HP restoration and gives her a stack of her S1+ mark (Buffing m.atk, up to 4 stacks on UB). New effect is that she now gains 50% reduced crit dmg from herself for 18s after every UB.
-- Used in September CB, Ilya was quite good vs the new Wyvern Rider B2. If she isn't constantly targeted by autos, Ilya can self-sustain even in T5 vs multi-target bosses.
-- Not seen in Arena as of late, probably because her skills suck and she's too far forward to kill anyone. 
-- Great in EX5, especially Mode 1 of the boss since it has so many targets for her to crush.
-- A very nice unit to farm up for Dungeon bosses and has some niche usage where P.Yui cannot function. We'll see more of her once Wyvern Rider comes back, though there are higher damage comps. Add to your collection as 2 nodes permits, no rush.
+- UB+: Gives increased damage, increased HP restoration and gives her a stack of her S1+ mark (Buffing m.atk, up to 4 stacks on UB). New effect is that she now gains 50% reduced crit dmg from herself for 18s after every UB.
+- CB: Can see some use against mutli-target bosses, but isn't very fitting compared to the staple MT magic damage units like Neneka, NY.Neneka, Ames, 
+- Arena: Not seen in Arena as of late, probably because her skills suck and she's too far forward to kill anyone. 
+- PvE: Great in EX5, especially Mode 1 of the boss since it has so many targets for her to crush. 
+- A very nice unit to farm up for Dungeon bosses and has some niche FA/Set options for MT Magic damage comps. We'll see more of her once Wyvern Rider comes back, though there are higher damage comps. Add to your collection as 2 nodes permits, no rush.
+
+Bond story priority: Luxury (No relevant alts)
+Max level Unit priority: Med
+New player Unit priority: Med (Can help clear EX3/4+ earlier with proper support)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Tomo <- (JP Release Date: Year 5, October 5th)
 Action speed buffs are amazing and Tomo's got one. She also does damage, unlike Monika.
-- UB+ increased damage by x2. New effects are that Tomo's buffs off UB are now applied to all units who are within 150 range of her, meaning she now grants Actions speed & P.Atk to teammates for 24s.
-- Tomo had a great showing in T3/T4/T5, being a part of a T4 B1x2 team. She has a similar role to Monika, where applying an Action speed buff overrides any debuffs previously given to your units. This was on full display against Wyvern T4/T5, as Tomo's UB cancelled out the debuff from Wyvern UB.
-- No Arena data usage on my end or to report. Probably because she's so far forward and her skills are all damage.
-- Excellent in dungeons, due to 6* stats, multi-target nature and team buffs.
-- Overall, Tomo had a good 1st month. Although she cannot tank like Monika can, she's able to find her spots in team comps when needed so far. She's got 5 side story nodes & 1 hard node, so good luck farming her. She needs max UE too.
+- UB+: Increased damage by x2. New effects are that Tomo's buffs off UB are now applied to all units who are within 150 range of her, meaning she now grants Actions speed & P.Atk to teammates for 24s.
+- CB: She has a similar role to Monika, where applying an Action speed buff overrides any debuffs previously given to your units. Can tank with support, but with Christina behind her in positioning, it has hampered her usage a bit.
+- Arena: Not really useful.
+- PvE: Excellent in dungeons, due to 6* stats, multi-target nature and team buffs. Can be a good piece in dungeon runs, SP comps and other areas.
+- Although she cannot tank like Monika can in most situations, she's able to find her spots in team comps when needed so far. She's got 5 side story nodes & 1 hard node, so good luck farming her. She needs max UE too. As noted above, Christina meta means that Tomo would need her to not be usable in order to shine.
+
+Bond story priority: Luxury (No relevant alts)
+Max level Unit priority: High
+New player Unit priority: Med (Can help clear EX3/4+ earlier)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Shefi <- (JP Release Date: Year 5, November 7th)
-Pretty good so far
-- UB+ Increases damage, increased mark stacks from 10 to 20, counter stacks from 10 to 13 and increased gain in marks from 5 to 7 per UB. New effect is increasing all units TP gain by 10 x number of marks (can go up to 30) if Shefi has her field up. 
-- She's done well in her initial CB, but only really against Goblin. Look forward to future usage, as she's good in longer fights.
-- No Arena usage from initial looks, seems doubtful given how much she needs to ramp up.
-- Probably great in PvE content like dungeon, but not necessarily necessary given the miriad of characters available. 
-- While Shefi looks quite good, she also requires a lot of investment to maximize her full potential. She only has one node and requires maxed UE as well, since it has TP Boost. Definitely an every day farm unit.
+Niche self buffer that can buff P.Atk for all teammates within range.
+- UB+: Increases damage, increased mark stacks from 10 to 20, counter stacks from 10 to 13 and increased gain in marks from 5 to 7 per UB. New effect is restoring TP to herself by 10 + number of marks (can go up to 30) if Shefi has her field up from S2, lasting 10.5s (100 TP, not affected by TP Boost). 
+- CB: After a good few months, Shefi is left on the backburner due to her ramp up time and lack of use compared to other units. Most of her buffs are selfish, including the TP restoration. Can provide a very nice P.Atk buff and consistent damage from her though.
+- Arena: Not an Arena unit, requires too much ramping up.
+- PvE: A decent choice as a P.dmg attacker, but more useful in longer fights.
+- As we've gotten more ridiculous physical units like Christina, Laby UE, Shefi's fallen off in favour of their utility and damage. She could still pop up in CB, but the chances of that aren't as high as before. She only has one node and her UE has TP boost on it, so she requires large investment to be primed for her time to shine.
+
+Bond story priority: Low (Relevant Units: NY.Shefi)
+Max level Unit priority: High
+New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
+[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Mitsuki <- (JP Release Date: Year 5, December 7th)
 A reliable debuff attached to her UB, probably a unit to keep an eye out for in the future.
-- UB+ doubles damage dealt and adds a new p.def debuff that is equal to Mitsuki's level +1. Still requires a kill to heal her for the 20% per kill. **Her UB+ debuff is applied before damage calculation, which seems to be a 1st.**
-- Could see some fringe usage in Mutli-target physical comps, but magic has been winning that war. Mitsuki probably won't change that, just might improve it a bit more since 6* stats help her out. Unless they neuter magic MT comps, you won't see her.
-- Somewhat effective in Arena defenses, but nothing mind-blowing. Can get away with not having her, but good for some solutions on offense.
-- A debuff is always welcome in PvE modes and various SP stages with her curse on S1+, but is still not amazing.
-- Since Mitsuki is easy to farm, she's a welcome addition to a roster that is building towards more options, but not a must-have. Could change if magic dies in multi-target though.
+- UB+: Doubles damage dealt and adds a new p.def debuff that is equal to Mitsuki's level +1. Still requires a kill to heal her for the 20% per kill. **Her UB+ debuff is applied before damage calculation, which seems to be a 1st.**
+- CB: Due to having shit skills, Mitsuki is a walking UB that doesn't contribute anything to MT physical teams.
+- Arena: Somewhat effective in Arena defenses, but nothing mind-blowing. Can get away with not having her, but good for some solutions on offense. Decent in blind P.Arena defenses/offenses with one of her alts, O.Mitsuki.
+- PvE: A debuff is always welcome in PvE modes and various SP stages with her curse on S1+, but is still not amazing.
+- Since Mitsuki is easy to farm, she's a welcome addition to a roster that is building towards more options, but not a must-have. Mostly for Arena.
 
+Bond story priority: Med (Relevant Units: O.Mitsuki)
+Max level Unit priority: Med
+New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Jun <- (JP Release Date: Year 6, January 5th)
 UB went from whatever to fantastic. When you need a tank, Jun is a good choice.
-- UB+ Increases the barrier value to Jun. A new effect is that she spawns a field that buffs units P.Atk that are within the field. The range is 300 for the field. The field also increases action speed by 155%. This effect can stack with other action speed buffs.
-- Has seen some good usage against bosses that require a tank and in some OF comps, a solid choice overall.
-- Not really  a good Arena unit, since her skills are not built for that mode. Maybe you can cheese out some wins with a 5 stack of tanks, but doubtful.
-- Will most likely prove useful in PvE modes, where you will need a tank.
-- Jun has two nodes, definitely worth farming. A unit with two action speed buffs and a def down is pretty rare. Does zero damage, so will be situationally good.
+- UB+: Increases the barrier value to Jun. A new effect is that she spawns a field that buffs units P.Atk that are within the field. The range is 300 for the field. The field also increases action speed by 155%. This effect can stack with other action speed buffs.
+- CB: Has seen some good usage against bosses that require a tank and in some OF comps, a solid choice overall.
+- Arena: Not really  a good Arena unit, since her skills are not built for that mode. Maybe you can cheese out some wins with a 5 stack of tanks, but doubtful.
+- PvE: Excellent pairing with physical teams for clearing fights that required an incredibly tanky 1st position unit with utility. 
+- Jun has two nodes and 3 side stories that are definitely worth farming. A unit with two action speed buffs and a def down is pretty rare. Does nearly zero damage, so will be situationally good. Her range on UB+ may not be all encompassing, but it gets the job done.
 
-
+Bond story priority: Med (Relevant Units: X.Jun)
+Max level Unit priority: High
+New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
-
 
 ## -> Ayumi <- (JP Release Date: Year 6, February 6th)
 The bane of physical Arena comps is back and she's here to stay.
-- UB+ Deals increased damage, doubles the confusion duration from 4s to 8s, doubles the blind duration from 6s to 12s. New effects are a TP boost reduction by 50 for 12s, having a counter on UB that increases by 1 every time she UBs, capped at 3. This counter increase the UB damage done by the amount of counters she has.
-- She's not a CB units, don't do it.
-- Probably the most obnoxious defense units to be released in the past few months, Ayumi pumps out so much CC that it's nearly impossible to fight her with a physical team. However, she does not do well into magic teams that can stop her antics. Like other CC, hers do not apply if the unit's barrier does not break from the damage.
-- Comes from the dungeon shop, so if you're an Arena enthusiast - This is probably a girl you want to target. Outside of Arena, she is not useful. But so far, she's proven to be a thorn in the arena meta that won't be leaving any time soon.
+- UB: Deals increased damage, doubles the confusion duration from 4s to 8s, doubles the blind duration from 6s to 12s. New effects are a TP boost reduction by 50 for 12s, having a counter on UB that increases by 1 every time she UBs, capped at 3. This counter increase the UB damage done by the amount of counters she has.
+- CB: She's not a CB unit, don't do it. CB bosses don't get CC'd.
+- Arena: Probably the most obnoxious defense units to be released in the past few months, Ayumi pumps out so much CC that it's nearly impossible to fight her with a physical team. However, she does not do well into magic teams that can stop her antics. Like other CC, hers do not apply if the unit's barrier does not break from the damage.
+- PvE: Similar to Io, she can use her blind and confusion can cause a disturbance in fights that would normally flatten units. 
+- Comes from the dungeon shop, so if you're an Arena enthusiast - This is probably a girl you want to target. Outside of Arena, she is not useful. But so far, she's proven to be a thorn in the arena meta that won't be leaving any time soon. Bring magic damage and/or physical shields to her unlock quest, or get flattened.
 
+Bond story priority: Med (No relevant alts)
+Max level Unit priority: High
+New player Unit priority: Med (Does not help clear EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
 
 ## -> Christina <- (JP Release Date: Year 6, March 5th)
 Ultimate Chris domination so far, welcome back. Another damage cap circumventor, you're gonna hear her UB voice line a lot.
-- UB+ Splits her UB damage into two different damage calculations, allowing her to deal up to 2.2m damage on a single UB. In addition, her UB now applies a p.def debuff.
-- Absolute monster in her first CB showing, flattening bosses and dodging all of their attacks. Christina tank comps are back in a big way. Definitely a must-have 6* for any CB enthusiasts.
-- Most likely not an arena unit, due to her lack of utility and inability to dodge magic damage. Maybe you can get some wins against full physical teams with an S.Misogi in front of her in P.Arena.
-- Overall, she's slated to be a CB star. With only one month of data, there's no telling what the future holds for Christina. But if that single month is a good indicator, she's not going anywhere.
+- UB+: Splits her UB damage into two different damage calculations, allowing her to deal up to 2.2m damage on a single UB+. In addition, her UB+ now applies a p.def debuff.
+- CB: Flattening single target bosses and dodging all of their attacks, Christina tank comps are back in a big way. Definitely a must-have 6* for any CB enthusiasts and we haven't even seen her against Goblin Great yet. Has somewhat warped the meta to revolve around how you can abuse her in 1st position, but that's also entirely boss dependent.
+- Arena: Most likely not an arena unit, due to her lack of utility and inability to dodge magic damage. Maybe you can get some wins against full physical teams with an S.Misogi in front of her in P.Arena.
+- PvE: Excellent overall, the devs are very aware of her dodging and clearly are attempting to balance around that. Super Luna Tower's a great example of her dominance.
+- As expected, Christina has put her stamp all over the game in nearly all game modes. Dodge is a powerful mechanic and she shits out damage like no one's business, thanks to S1+. For anyone wondering, yes X.Christina is still relevant for that +3 TP. A difficult unlock quest compared to others, so grab some magic units and a Miyako. Priority 1 for master shop coins, as she needs max investment.
 
+Bond story priority: Top (Relevant alts: X.Christina, W.Christina )
+Max level Unit priority: Top
+New player Unit priority: High (Helps clear EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
-
 
 ## -> Anna <- (JP Release Date: Year 6, April 5th)
 She's a giant nuke now. Either she kills everyone, or she'll explode due to lose 100% of her defenses after UB.
 - UB+ increased damage by nearly x5, no changes to reducing defenses by 100%. New addition is that she buffs her M.Atk for 8 seconds for a large amount.
-- Probably not suited for CB single target comps anymore, but could actually be a Multi-target damage dealer. Most likely would need support from units that give defenses, because having 0 M/P Defense is not great for CB. I doubt she'll have a spot, this is mostly just hope. Still worth keeping an eye out for, given the amount of barriers/heals in the game.
-- Some early testing shows that she can [carry an entire arena team](https://twitter.com/leonmaru_pcrd/status/1643449297026023425). She's a stall breaker and the hope is to nuke everything, then the 2nd UB finishes off any stragglers. Any squishies can get wiped off the face of the earth. Her positioning means she's difficult to snare with MS.Kasumi as well. Yuki can charm her if she's in the 2nd position, so be careful. Finally, she needs a M.Atk Debuff to help her UB wipe enemies, so something like an NY.Homare with a 1st action M.Def Down works. 
+- CB: Probably not suited for CB single target comps anymore, but could actually be a Multi-target damage dealer. Maybe could get used for a quick OF comp, but her going to 0 defenses means she instantly explodes to any damage after her 1st UB.
+- Arena: Either she wipes 2+ units and explodes again, or you stall her out with m.def buffs like Yukari and generally tanky units. Pairs well with Yukari+ N.Io as an example. Saren also works in certain setups, but the goal is always the same - Get Anna to blow up the enemy team. Incredibly effective overall, so Arena players will want to add her to to the collection ASAP
+- PvE: Not very suited for PvE, as they're usually damage sponges - The exact kind of unit that Anna is not good at dealing with. 
 - Overall great in both Arenas on the defensive and offensive side. Think of Ninon, but on the magic side and stronger. CB is a pipe dream, maybe in some sort of wacky OF comp.
 
+Bond story priority: Low (No Relevant alts)
+Max level Unit priority: Top
+New player Unit priority: Low (Can help in Arena with proper support but not as potent in low level.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
-
 
 ## -> Muimi<- (JP Release Date: Year 6, May 8th)
 More damage with damage cap circumvent, a CC immunity and 6 Star stats means Muimi might make a return to her former glory..
-- UB+ will now give Muimi a mark, giving her a complete immunity to CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
-- While the demonstration was shit, Muimi's niche of tanking as 1st position, keeping her UB up and spamming her SP1+ > SP2 > SP1+  loop in UB form may return with an Ames and increased 6* stats behind her. Her biggest concern will always be to stay in UB form and not exploding while pumping out damage. Lots of bosses have ways to drain TP or don't give TP on their UBs, so that's something to keep in mind.
-- Could see some P.Arena usage or niche Arena solutions like Chris, but most likely won't be a common unit. Being immune to CC certainly helps, but she does not dodge things like curse from Misaki and will still take damage.
-- With Twin Pigs this month, a physical 1st position unit that always want to take damage may also hold great value. With tons of barriers, TP gain and heals available to Muimi compared to when she was previously meta, don't be surprised to see her run over bosses that can't 1shot her. Maintaining her TP values should be easier with stuff like X.Miyako, Laby, Ames. Similar to how GreAnne require the team built around them, Muimi will most likely need a team built around her. For Auto players, Muimi is very auto friendly due her UB draining instead of needing to be re-activated constantly.
+- UB+: Give sMuimi a mark, giving her a complete immunity to CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
+- CB: While the demonstration was shit, Muimi's niche of tanking as 1st position, keeping her UB up and spamming her SP1+ > SP2 > SP1+  loop in UB form may return with an Ames and increased 6* stats behind her. Her biggest concern will always be to stay in UB form and not exploding while pumping out damage. Lots of bosses have ways to drain TP or don't give TP on their UBs, so that's something to keep in mind.
+- Arena: Could see some P.Arena usage or niche Arena solutions like Chris, but most likely won't be a common unit. Being immune to CC certainly helps, but she does not dodge things like curse from Misaki and will still take damage.
+- With Twin Pigs this month, a physical 1st position unit that always want to take damage may also hold great value. With tons of barriers, TP gain and heals available to Muimi compared to when she was previously meta, don't be surprised to see her run over bosses that can't 1shot her. Maintaining her TP values should be easier with stuff like X.Miyako, Laby, Ames. Similar to how GreAnne require the team built around them, Muimi will most likely need a team built around her. For Auto players, Muimi is very auto friendly due her UB draining instead of needing to be re-activated constantly. She does get charmed and knocked back, despite her CC immunity.
 
+Bond story priority: High (Relevant units: L.Muimi, NY.Muimi)
+Max level Unit priority: Top
+New player Unit priority: Med (Can be a main piece in clearing EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

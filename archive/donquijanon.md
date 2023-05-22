@@ -282,29 +282,33 @@ https://www.characterhub.org/characters/donquijanon/Soldier
 https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
 
 ## Hotline Miami
-## Beard
+### Beard
 ->![beard](https://files.catbox.moe/4z8gsk.png)<-
 https://www.characterhub.org/characters/donquijanon/Beard
 
-## Jake
+### Jake
 ->![jake](https://files.catbox.moe/zc52wa.png)<-
 https://www.characterhub.org/characters/donquijanon/Jake
 
-## The Son
+### The Son
 ->![son](https://files.catbox.moe/4po00z.png)<-
 https://www.characterhub.org/characters/donquijanon/the-son
 
-### Space Dandy
+## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-
 https://www.characterhub.org/characters/donquijanon/space-dandy
 
-### Rookie (Halo 3: ODST)
+## Rookie (Halo 3: ODST)
 ->![rookie](https://files.catbox.moe/27xkpa.png)<-
 https://www.characterhub.org/characters/donquijanon/Rookie
 
-### COLDSTEEL THE HEDGEHEG
+## COLDSTEEL THE HEDGEHEG
 ->![steel](https://files.catbox.moe/8j9mlr.png)<-
 https://www.characterhub.org/characters/donquijanon/coldsteel-the-hedgeheg
+
+## Herbert Moon
+->![moon](https://files.catbox.moe/dl1g9r.png)<-
+https://www.characterhub.org/characters/donquijanon/herbert-moon
 
 ## Ray-Kbys girls
 

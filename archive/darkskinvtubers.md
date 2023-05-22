@@ -142,6 +142,10 @@ Yukichigoo|[Twitter](https://www.twitch.tv/yukichigoo/) [Twitch](https://www.twi
 RoraAtf|[Twitter](https://twitter.com/RoraAtf) [Twitch](https://www.twitch.tv/roraatf)|
 Oiivae|[Twitter](https://twitter.com/Oiivae) [Youtube](https://www.youtube.com/channel/UCVi6o2W02TZHCEQiV9Uw-wA) [Twitch](https://www.twitch.tv/oiivae)|
 CypressCyren|[Twitter](https://twitter.com/cypresscyren) [Twitch](https://www.twitch.tv/cypresscyren)|
+Aivee Fawkes|[Twitter](https://twitter.com/Aivee_Fawkes) [Youtube](https://www.youtube.com/@AiveeFawkes) [Twitch](https://www.twitch.tv/aiveena)|
+Pomiebear|[Twitter](https://twitter.com/Pomiebear) [Twitch](https://www.twitch.tv/pomiebear)|
+Duroppu|[Twitter](https://twitter.com/duroppucharming) [Youtube](https://www.youtube.com/c/DuroppuCh) [Twitch](https://www.twitch.tv/duroppucharming)| Aussie dropbear
+LuminalaVT|[Twitter](https://twitter.com/luminalaVT) [Twitch](https://www.twitch.tv/luminalaVT)|
 
 ---
 
@@ -153,6 +157,7 @@ Parkdona ch. 박도나[KR]|[Twitter](https://twitter.com/parkdonakr) [Youtube](h
 諾海[CH]|[Twitter](https://twitter.com/Nuohai0104/status/1650897620565651456) [Twitch](https://www.twitch.tv/nuohai_0104)|Chinese
 Selphius[GER]|[Twitter](https://twitter.com/SelphyMelody) [Youtube](https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q) [Twitch](https://www.twitch.tv/selphy)|German
 Myun[GER]|[Twitter](https://twitter.com/Myunchen_) [Youtube](https://www.youtube.com/@myun) [Twitch](https://www.twitch.tv/myun)|German
+CowwyVT[ES]|[Twitch](https://www.twitch.tv/cowwyvt)|
 
 ---
 

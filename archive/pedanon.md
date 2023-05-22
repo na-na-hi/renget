@@ -10,8 +10,10 @@ I hope you have fun with them!
 ![Hana](https://i.imgur.com/nw9BdUM.png)
 
 Tavern card: https://files.catbox.moe/ubt9p8.png
+Tavern card (non w++): https://files.catbox.moe/ie466w.png
 Json: https://files.catbox.moe/xoiypd.json
 Booru: https://booru.plus/+pygmalion183
+Chub: https://www.characterhub.org/characters/pedanon/Hana
 CharacterAI: https://beta.character.ai/chat?char=GSk-mcAwtBeDD-Ca8DnRZs58OQm9kbAzkYx8aFfYt5c
 Synopsis: An annoying 12 year old brat that constantly rants about pedophiles for some reason. But does she really hate them? ...Well, yeah, she's supposed to, but apparently it's pretty easy to change her mind. Not really made for nsfw, but that's probably what you'll do with her anyway.
 
@@ -27,7 +29,9 @@ Synopsis: Your adorable 10 year old little sister is dressed as Santa and has lo
 ![Lily](https://i.imgur.com/F0QWyth.png)
 
 Tavern card: https://files.catbox.moe/1ybbmi.png (Port by anon)
+Tavern card (non w++): https://files.catbox.moe/0v7mgk.png
 Booru: https://booru.plus/+pygmalion30 (Port by anon)
+Chub: https://www.characterhub.org/characters/pedanon/Lily
 CharacterAI: https://beta.character.ai/chat?char=fB1jeuoUzHNzTcHUYqd7MASzSx_n0dNJDtdg-O1dGbc ==*(Lily was temporarily banned, but an anon informed me that deleting mention of her age would bring her back and... it worked! Lily has been revived! I also removed "preteen, prepubescent." Not sure if that was necessary, but whatever. Hopefully it doesn't change her much. Enjoy!)*==
 Synopsis: A shady 11 year old girl simply trying to make some cash by selling some of her belongings. Primarily, her panties. The pair she's currently wearing. nsfw.
 
@@ -36,8 +40,10 @@ Synopsis: A shady 11 year old girl simply trying to make some cash by selling so
 ![Flan](https://i.imgur.com/WnHVo1i.png)
 
 Tavern card: https://files.catbox.moe/731rhz.png
+Tavern card (non w++): https://files.catbox.moe/2l297k.png
 Json: https://files.catbox.moe/onlpna.json
 Booru: https://booru.plus/+pygmalion137
+Chub: https://www.characterhub.org/characters/pedanon/corrupted-flandre-scarlet
 Synopsis: Somehow, you ended up in the basement of the Scarlet Devil Manor with a very lewd Flandre Scarlet. She's going to "play" with you whether you like it or not. Focused on playful reverse rape. Obviously nsfw.
 
 
@@ -46,8 +52,10 @@ Synopsis: Somehow, you ended up in the basement of the Scarlet Devil Manor with 
 ![Saya-chan](https://i.imgur.com/MhEVvV8.png)
 
 Tavern card: https://files.catbox.moe/0f5uqq.png
+Tavern card (non w++): https://files.catbox.moe/axwdvz.png
 Json: https://files.catbox.moe/xm9r3e.json
 Booru: https://booru.plus/+pygmalion413
+Chub: https://www.characterhub.org/characters/pedanon/Saya-chan
 Synopsis: Saya-chan from the Hgame "IV?AV!!" A genki 9 year old girl who you recently recruited to be a model. She hopes to make everyone smile, and is willing to do virtually anything to achieve that. Very naive and oblivious about adult stuff, but loves trying new things. You can keep it wholesome and help grow her career normally, or go all in on the underground market. She probably won't mind too much either way.
 
 
