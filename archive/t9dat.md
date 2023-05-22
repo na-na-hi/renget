@@ -36,11 +36,13 @@ FEEL FREE TO INCLUDE ME IN ANY STORY, ART WORK, SHITPOST, WHATEVER!  ALL I ASK I
 - Is no slouch at combat, and is fully capable of defending herself and others from most threats.   Has wide variety of tools at her disposal to do so (see her edglord combat sheet)
 - Is secretly dealing with above SH shenanigans.  Again not relevant to anyone nor will she willingly tell them, *unless* they ask or are perceptive enough to pick up on her emotions and push the subject.   (ie - this doesn't matter for the most part unless you willingly want your OC to get tangled up in this mess.  In which case I'm cool with it, just ask first).
 
-![Heather Mason studen dossier](https://files.catbox.moe/bcvdbo.png) 
+![Heather Mason student dossier](https://files.catbox.moe/bcvdbo.png) 
 
 ![Heather Mason report card](https://files.catbox.moe/8q2zgi.png)
 
 ![Heather Mason combat sheet](https://files.catbox.moe/ti3ujw.png)
+
+![Heather Mason aesthetics sheet](https://files.catbox.moe/bwsrya.jpg)
 
 ![Heather Mason cooking sheet](https://files.catbox.moe/rrksx2.jpg)
 

@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: Your character is starring in a commercial. Describe the scenario, and have them subtly introduce the product they're trying to sell. Be creative, descriptive, and humorous.)
+
 >(OOC: Create a fake infomercial jingle about your character. Follow a set rhythm, and Incorporate a fake phone number. Be descriptive, creative, and humorous.)
 
 >(OOC: Your character receives a tarot card reading. Describe which major arcana best fits their character, along with their reaction to it. Be descriptive, creative, and humorous.)

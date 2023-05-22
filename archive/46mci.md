@@ -32,7 +32,7 @@ https://mooms.neocities.org/
 
 !!! info
      -> 🪶  **Tools**  🪶 <-
-#####[Tools - ytarchive & Twitterspaces recorders](https://rentry.org/rwyzq)
+#####[Tools - ytarchive, Twitterspaces recorders & QOL scripts](https://rentry.org/xu6td)
 
 !!! info
      -> 🪶  **Some dumb stats aka the CHAT HATE section**  🪶 <-

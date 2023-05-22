@@ -294,6 +294,22 @@ https://www.characterhub.org/characters/donquijanon/Jake
 ->![son](https://files.catbox.moe/4po00z.png)<-
 https://www.characterhub.org/characters/donquijanon/the-son
 
+### Jacket
+->![jkt](https://files.catbox.moe/szbrg4.png)<-
+https://www.characterhub.org/characters/donquijanon/Jacket
+
+### Richard, Don Juan, and Rasmus
+->![rdjr](https://files.catbox.moe/e9ug40.png)<-
+https://www.characterhub.org/characters/donquijanon/richard-don-juan-and-rasmus
+
+### Richard
+->![cock](https://files.catbox.moe/s7pp6w.png)<-
+https://www.characterhub.org/characters/donquijanon/Richard
+
+### Lorebook 
+Not recommended with Beard.
+https://www.characterhub.org/lorebooks/donquijanon/hotline-miami
+
 ## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-
 https://www.characterhub.org/characters/donquijanon/space-dandy

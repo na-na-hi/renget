@@ -2,24 +2,24 @@
 ->(with 16GB RAM or more)<-
 **Note:** There are only 3 'steps': Download a model in GGML format, download KoboldCPP.exe, run KoboldCPP.exe with the model then go to its URL in your browser.
 
-**1. DL at least one of these bin files.  If multiple models are present, downloading those labelled with "Q5_1" is preferable:**
+**1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
 
 Good at (**S**)tory or (**I**)nstruct modes:
-(**SI**) 13B (11GB RAM) https://huggingface.co/reeducator/vicuna-13b-cocktail/blob/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin
+(**SI**) 13B (11GB RAM) [Vicuna 13B Cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/resolve/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin) 
 
-(**SI**) 13B (10GB RAM) https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main
+(**SI**) 13B (10GB RAM) [oasst-llama13b](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/resolve/main/qunt4_0.bin) 
 
-(**S**) 6B (9GB RAM) https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main
+(**S**) 6B (9GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main)
 
-(**SI**) 7B (6GB RAM) https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/blob/main/WizardLM-7B-uncensored.ggmlv3.q5_1.bin
+(**SI**) 7B (6GB RAM) [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/blob/main/WizardLM-7B-uncensored.ggmlv3.q5_1.bin)
 
-More models: https://github.com/LostRuins/koboldcpp/discussions/87
+More recommended GGML models [HERE](https://github.com/LostRuins/koboldcpp/discussions/87)
 
-Search Huggingface for new GGML models: https://huggingface.co/models?sort=modified&search=ggml
+Search Huggingface for new GGML models [HERE](https://huggingface.co/models?sort=modified&search=ggml)
 
 **2.Get latest KoboldCPP.exe here: https://github.com/LostRuins/koboldcpp/releases (ignore security complaints)**
 
-**3.Double click KoboldCPP.exe **OR** run "KoboldCPP.exe --help" in CMD prompt to get command line arguments for more control. --threads (number of CPU cores), --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN! "--useclblast 0 0" probably maps to GPU0 and "1 0" to GPU1. If not, experiment. At start, exe will prompt you to select bin file you dl'ed in step 1. Be sure to free up enough ram for your model!
+**3.Double click KoboldCPP.exe OR run "KoboldCPP.exe --help"** in CMD prompt to get command line arguments for more control. --threads (number of CPU cores), --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN! "--useclblast 0 0" probably maps to GPU0 and "1 0" to GPU1. If not, experiment. At start, exe will prompt you to select bin file you dl'ed in step 1. Be sure to free up enough ram for your model!
 
 **4. Go to URL listed in CMD window once model is loaded**
 

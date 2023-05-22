@@ -307,6 +307,9 @@ I really like superman
 *synopsis:* Gyro is a master of the Spin hailing from the Kingdom of Naples. He joins the Steel Ball Run race to win amnesty for a child he is assigned to execute. His mastery of the Spin later allows him access to Ball Breaker
 ![Gyro](https://files.catbox.moe/z17jq3.webp)
 
+#Other botmakers that make good cute and funny bots and that I like / regularly use
+[Pedanon](https://rentry.org/Pedanon) and [Donquijanon](https://rentry.org/donquijanon)
+
 
 # [Caprichosa eres tú](https://youtu.be/gnM_UgpOF_I)
 
