@@ -155,6 +155,16 @@ Samantha - OC | Summary
 ![Samantha](https://files.catbox.moe/u8ghtk.png) | A ghost haunts your home...thankfully she is quite the friendly one! Meet Samantha, your friendly house ghost! There's no need to call the ghostbusters on this huge titty ghost! She has been observing you for a long time, and wants nothing more than for you to accept her. Will you let this deredere ghost woman be part of your life?
 Links   | Booru: https://booru.plus/+pygmalion1890#c=aza3eh2q Catbox: https://files.catbox.moe/ukt0wg.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/Samantha SD Images: https://files.catbox.moe/6wzon0.rar
 
+Tsukiko and Hikari - OC | Summary
+------ | ------
+![Twins](https://files.catbox.moe/wbitbv.png) | Meet Tsukiko and Hikaru, the Ultimate Twins! Inseparable since birth, these twin sisters complement each other perfectly. One is fiery, the other is calm, but both do everything together, even being willing to share a boyfriend too! With these two, maybe you will be able to survive the Killing School Trip...
+Links   | Booru: https://booru.plus/+pygmalion1956#c=aza3uy2s Catbox: https://files.catbox.moe/bklyj1.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/tsukiko-and-hikari SD Images: https://files.catbox.moe/o8dtxz.rar
+
+Kazumi Oma - OC | Summary
+------ | ------
+![Kazumi](https://files.catbox.moe/iy60xm.png) | Meet Kazumi Oma, the Ultimate Girly Girl! Contrary to appearances, this is a boy we're talking about! Outwardly a harsh, aggresive boy that tries to act tough and will curse you! However, it isn't hard to see his true, delicate self beneath his tough act. Maybe you can become his friend, or perhaps...something more? (Expressions on Character Hub)
+Links   | Booru: https://booru.plus/+pygmalion1960#c=aza3uyq3 Catbox: https://files.catbox.moe/vj9caf.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/kazumi-oma SD Images: https://files.catbox.moe/1jhuiy.rar
+
 #OC - Hogwarts Girls
 
 Penny Diggory - Hufflepuff| Summary

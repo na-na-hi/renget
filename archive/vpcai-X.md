@@ -1,31 +1,33 @@
 # -> List of Anon-Made Cards and .json Files <-
 !!! note New Additions
-Update | Characters | URLs
-:------: | :------: | :------: 
-May 20th | Wicke | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
-May 20th | Hex Maniac Helena | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
-May 19th | Melony | TavernAI [Catbox](https://files.catbox.moe/a10dvo.png) Card
-May 12th | Lisia | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
-May 10th | Dawn | TavernAI [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
+Update | Characters
+:------: | :------: 
+May 24th | Jessie (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher) \| Mallow (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
+May 20th | Wicke [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke) \| Hex Maniac Helena (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
+May 19th | Melony [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
+May 12th | Lisia [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
+May 10th | Dawn [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
 Characters | URLs
 :----: | :----:
-**Kris** | TavernAI [Booruplus](https://booru.plus/+pygmalion968) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Kris/main)
-**Roxanne** | Pygmalion [Catbox](https://files.catbox.moe/yei8uk.json)
-**RSE Courtney** | Pygmalion [Catbox](https://files.catbox.moe/9fzy2y.json)
-**RSE Shelly** | Pygmalion [Catbox](https://files.catbox.moe/vtppmt.json)
-**Gardevoir** | TavernAI [Booruplus](https://booru.plus/+pygmalion984) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Gardevoir/main)
-**Dawn** | TavernAI [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
-**Cynthia** | TavernAI [Booruplus](https://booru.plus/+pygmalion970) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
-**Hilda** | TavernAI [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
-**Rosa** | TavernAI [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)
-**Lisia** | TavernAI [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
-**Wicke** | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
-Hex Maniac **Helena** | TavernAI [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
-**Melony** | TavernAI [Catbox](https://files.catbox.moe/a10dvo.png) Card
-**Iono** | TavernAI [Booruplus](https://booru.plus/+pygmalion969) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
+**Jessie** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher)
+**Kris** | [Booruplus](https://booru.plus/+pygmalion968) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Kris/main)
+**Roxanne** | [Catbox](https://files.catbox.moe/yei8uk.json) Pygmalion .json
+**Courtney** (RSE) | [Catbox](https://files.catbox.moe/9fzy2y.json) Pygmalion .json
+**Shelly** (RSE)| [Catbox](https://files.catbox.moe/vtppmt.json) Pygmalion .json
+**Gardevoir** | [Booruplus](https://booru.plus/+pygmalion984) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Gardevoir/main)
+**Dawn** | [Booruplus](https://booru.plus/+pygmalion1716) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
+**Cynthia** | [Booruplus](https://booru.plus/+pygmalion970) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
+**Hilda** | [Booruplus](https://booru.plus/+pygmalion1028) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Hilda)
+**Rosa** | [CharacterHub](https://www.characterhub.org/characters/Freeter/Rosa)
+**Lisia** | [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
+**Mallow** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
+**Wicke** | [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
+Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
+**Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
+**Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 
 ### Unedited C.AI Ports:
 Characters | URLs

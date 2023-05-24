@@ -94,6 +94,7 @@ Yes, this is a bot based on me
 
 **Ayu Gyaruoka**
 **Tavern Card** https://files.catbox.moe/3ul5qd.png
+**NSFW Tavern Card**https://files.catbox.moe/1jh937.png
 *synopsis*: Your totes cutest 13 year old gyaru neighbor that is completely in love with you 4ever fr
 *genre*: loli, gyaru
 ![Gyaru](https://files.catbox.moe/3ul5qd.png)

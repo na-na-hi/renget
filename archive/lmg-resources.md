@@ -1,13 +1,13 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
-->*V 6.55 | Helped Making Waifus Real Since 2023* <-
+->*V 6.56 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
 ***
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
-!!! note Rentry Updates: Week 3 of May, 2023
-     Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, ~~Vicuna (LlaMA)~~, ~~Opan Assistant (Oasst-LlaMA)~~, ~~WizardLM (LlaMA)~~, ~~SuperCOT (LlaMA)~~, ~~BluemoonRP (LlaMA)~~, ~~"Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets")~~ // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
+!!! note Rentry Updates: Week 4 of May, 2023
+     
 
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
@@ -15,89 +15,8 @@
 ***
 ##->Quick Rundown on Large Language Models:<-
 !!!Danger 
-     **This first section is still a working draft. Will finish this section soon.**
-###I. Introduction:
-Large language models, such as BERT (Bidirectional Encoder Representations from Transformers) or ChatGPT (Generative Pre-trained Transformer), and LlaMA (Large Language Model Meta AI) are a type of natural language processing (NLP) algorithm designed to understand human language. These models use artificial intelligence techniques like deep learning and neural networks to analyze text data and generate responses based on the context of the input.
-***
-###II. Quick Newbie Guide to Start Using LLMs:
-I won't cover every possible method of using your model of choice, but I'll cover three common methods many people use and start off with. There are other Rentry pages that cover this as well, but for consistency sake in making a basic FAQ, I'll include KoboldCPP, Obba's Web UI, and the standalone method. If you are looking for step-by-step guide for using KoboldAI + Pygmalion, check out this: [Pyggymancy Rentry](https://rentry.org/Pyggymancy) & [Running Pygmalion Locally on Linux](https://rentry.org/pygmalion-local), which are maintained by other anons.
-
-####KoboldCPP Method (Updated: 05/10/2023):
-Step: | Instructions:
-:--|:--
-==1:== | Find a [GGML](https://github.com/ggerganov/ggml#readme) model that you want to use and download it. You can scoll down to the model down below or check out this Rentry for the latest and greatest: https://rentry.org/lmg_models You could also use these examples... [Vicuna-13b-cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/blob/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin) (11GB RAM Req.), [Oasst-llama13b-ggml-q4](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/tree/main) (10GB RAM Req.), [GPT-J-Janeway-6B-ggml-q5_1](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main) (9GB RAM Req.), [WizardLM-7B-uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) (6GB RAM Req.)
-==2:==  | Get yourself the latest release of [KoboldCPP](https://github.com/LostRuins/koboldcpp/releases). Windows will nag you about some shit about security, just ignore that.
-==3:==  | Once downloaded, launch KoboldCPP.exe by double clicking on it, or run "`KoboldCPP.exe --help`" through CMD prompt to get command line arguments for more control. Some useful flag lines to know are: `--threads` (number of CPU cores), `--stream`, --smartcontext, and `--host` (internal network IP) are useful. `--host` allows use from local network or VPN! `--useclblast 0 0` maps to GPU0 and `--useclblast 1 0` to GPU1. If not, experiment. At start, exe will prompt you to select bin file you downloaded in step 1, newer updates will also provide an easy dialogue box to change clbast and to load your model, so no worries if you're not comfortable with using the command prompt. Be sure to free up enough ram for your model!
-==4:== | Once everything is complete and successfully loaded, KoboldCPP should automatically launch into your browser. If not, just copy the localhost URL from command prompt into your browser. Should you want to exit KoboldCPP, press CTRL-C in the CMD window to stop.
-
-==Common Troubleshooting Issues:== 
-(Insert missing text)
-
-####Ooba's Text-Gen-WebUI Method (Updated: 05/09/2023):
-Step: | Instructions:
-:--|:--
-==Step 1:== | (Insert missing text)
-==Step 2:== | (Insert missing text)
-==Step 3:== | (Insert missing text)
-
-==Common Troubleshooting Issues:== 
-(Insert missing text)
-
-####Standalone Method (Updated: 05/09/2023):
-Step: | Instructions:
-:--|:--
-==Step 1:== | (Insert missing text)
-==Step 2:== | (Insert missing text)
-==Step 3:== | (Insert missing text)
-==Step 4:== | (Insert missing text)
-
-==Common Troubleshooting Issues:== 
-(Insert missing text)
-
-***
-###III. QRD History of LLMs:
-You could technically go all the way back to the 1950's with "Symbolic NLP", but that's mostly irrelevant for this introduction guide. What's important is that research and development has exploded within the last 10 years with NLP and LLM's. With one of the most important developments done by Google researchers in 2017, they were able to make a huge breakthrough in natural language processing (NLP), released it to the public and named it Transformers (Yes... they named it after Michael Bay's Movie). Not soon after, they quickly became popular in the NLP community because they could process vast amounts of text data much faster than any previous models.  But it wasn't until the last few years that they became good enough to handle complex human language like a native speaker would. Founded in 2015, OpenAI was researching "AI" and NLPs, and with the help of Google's Transformers, they created ChatGPT. It was with the release of their third iteration (GPT-3) that "AI" and LLM's hit mainstream media. Just before then, Microsoft had invested in OpenAI back in 2019. As of recently, and with a lot more private investment from Microsoft, the people behind OpenAI decided to be a little less open, added a bunch of filters to their model and not fully release their models anymore. Around the same time, Facebook was also working on NLP's and LLM's. However, at the end of last year, their LlaMA models were leaked on the internet started a huge rush on open source "AI" and LLM development. 
-
-***
-###IV. How Large Language Models (LLMs) Really Work:
-(Insert missing text)
-
-***
-###V. What does stuff like LoRA, Training, Finetuning, Quantization, Transformers etc... even mean?
-(Insert missing text) Lets first start off with understanding the different models**
-
-####The Different Model Variants:
-
-**Llama variants:**
-==Alpaca:== (Insert missing text) ==GPT4All:== (Insert missing text) ==Vicuna:== (Insert missing text) ==Open Assistant:== (Insert missing text) ==WizardLM:== (Insert missing text) ==SuperCOT:== (Insert missing text) 
-
-**"Chinese ChatGPT:"**
-==ChatGLM:== (Insert missing text)
-
-**Pygmalion:**
-==Pygmalion:== (Insert missing text)
-
-**MosaicML (MTB):**
-(Insert missing text)
-
-####Terms and Concepts to Familiarize Yourself when Working with LLMs:
-==Training:== (Insert missing text) ==Pruning:== (Insert missing text) ==Finetuning:== (Insert missing text) ==Quantization:== (Insert missing text) ==Tokenization:== (Insert missing text) ==Positional embeddings:== (Insert missing text) =="Attention":== (Insert missing text) ==Feed Forward Layers:== (Insert missing text) ==Longformer/Flash Attention== (Maybe...Inserting missing text) ==ALiBi/RoPE:== (Maybe...Inserting missing text)
-
-***
-###VI. What do I need to know to "Git Gud"?
-(Insert missing text)
-
-####Knowing the Basics of Machine Learning, Natural Language Processing, & Deep Learning:
-(Insert missing text)
-
-####Knowing the Basics of Programing Languages like Python, Java, C, & C++:
-(Insert missing text)
-
-####Other Stuff to Familiarize Yourself with:
-(Insert missing text)
-
-####Having Some Background in Calculous, Linear Algebra, & Statistics:
-==Calculous:== (Insert missing text) ==Linear Algebra:== (Insert missing text) ==Statistics:== (Insert missing text)
+     **This first section is still a working draft. Will finish this section soon. Will work this section slowly and "git better" with another page as a draft until it's finished. Having a big incomplete section isn't good to look at imo.**
+###I. Work in Progress
 
 ***
 ##->General Resources / Guides for Large Language Models (LLM) & Datasets<-
@@ -442,4 +361,5 @@ LocalLLaMA | N.L | ◕ | https://www.reddit.com/r/LocalLLaMA/
 ##->Archived Update Logs<-
 Week of (MM/WK/YYYY) | Description:
 ------ | ------
+05/wK-3/2023 | Charts are now fixed, no more "...", Only the first FAQ section has missing information. Next comes the fine touches, adding the few missing entries, & work on the first FAQ section. // Gozfarb's HF got 404'd, F // Need to re-work the model & dataset chart section, it had **_more then a few_** mistakes with it's tags. **Model and Dataset Charts should be completed this weekend, the checklist:** (~~LlaMA Models~~, ~~Alpaca (LlaMA)~~, ~~GPT4-ALL (LlaMA)~~, ~~Vicuna (LlaMA)~~, ~~Opan Assistant (Oasst-LlaMA)~~, ~~WizardLM (LlaMA)~~, ~~SuperCOT (LlaMA)~~, ~~BluemoonRP (LlaMA)~~, ~~"Plugins & Other Projects for LlaMA", ChatGLM, Pygmalion Models, MPT, RedPajama Models, "Other Datasets")~~ // Recent [change with llama.cpp](https://github.com/ggerganov/llama.cpp/pull/1405) made old GGML quantizations incompatible. Need to go through each model and add a 🔔 indicated the model was updated with the new change along with the chart changes.
 05/WK-2/2023 | **Updates will be slower this week (Sunday through Friday)... I will be spending time with friends and family as well as going out for my birthday. After next week, I should be regularly updating this Rentry again.** / Couldn't help myself and decided to work on this Rentry again while on break. / Cosmetic changes were made / Charts were *mostly* filled in / Character & RP/ERP charts were updated along with new tags info / More polishing, grammar & spelling corrections. / Since / make frequent changes on the fly, updates will be trickled in this box, then cycled weekly and archived at the bottom. / Hopefully Ver. 8 will be the first "finished version" of this Rentry with the general guide in the first section complete. Ver. 7 will mean the charts below should be completely organized and in order, only new entries should be made.
