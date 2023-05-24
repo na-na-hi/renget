@@ -3,13 +3,15 @@
 
 ->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
 ***
-!!! Note Rentry Update: Week 3 of May, 2023
-     New news updated @ May 20th || Description and name updated for "Proxy for Tavern', shortened number of characters | Last template edit was utter dogshit. Reverted some changes, implemented anon user inputs and added an overflow chart down below. Should have about ~200 extra characters even with the news section as it is right now.
+!!! Note Rentry Update: Week 4 of May, 2023
+     New news updated @ May 23th
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/23) exllama transformer rewrite offers around x2 t/s increases for GPU models
+\>(05/22) SuperHOT 13B prototype & WizardLM Uncensored 30B released
 \>(05/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
 \>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
@@ -125,4 +127,5 @@ Date: (MM/DD/YYYY) | Description:
 ##->Archived Updates<-
 Week of (MM/WK/YYYY) | Description:
 ------ | ------
+05/WK-3/2023 | Description and name updated for "Proxy for Tavern', shortened number of characters // Last template edit was utter dogshit. Reverted some changes, implemented anon user inputs and added an overflow chart down below. Should have about ~200 extra characters even with the news section as it is right now
 05/WK-2/2023 | Local LLM Guide added // google leaked doc news moved to the "Archived News" // https://rentry.org/LocalModelsLinks & https://rentry.org/LocalModelsPapers have returned, thank you Anon!

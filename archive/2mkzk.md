@@ -5,18 +5,16 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/04/15-23/04/15 (yy/mm/dd)
+##23/05/25-23/05/28 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI:  Mega Man Zero 3 at 2UTC (Telemelt)**
+**FRI: - at 2UTC ()**
 **SAT: Parasite Eve at 2UTC (Parsec)**
 **SUN: Minemelt at 17:30UTC ()**
 
 ##Cytubes
-
-Cancelled unless someone else can do it
 
 **SAT: Rockman.exe at 16UTC** Episodes 39-47
 **SUN: Rockman.exe Stream at 15UTC** Episodes 22-27

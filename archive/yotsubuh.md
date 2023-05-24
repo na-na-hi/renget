@@ -1,5 +1,7 @@
 # Yotsubuh's Fat Chats
 
+##This list isn't maintained anymore. All of my bots can be found here: https://www.chub.ai/users/yotsubuh
+
 [TOC]
 
 

@@ -453,7 +453,7 @@ Negatives: red hair, purple hair,
 	You can put "blonde hair," in negatives but it will make it worse.
 
 #####Reine
-	pavolia reine, hololive, silver hair, aqua eyes, high side ponytail, blue feather hair ornament, earrings, french braid,
+	pavolia reine, hololive, silver hair, aqua eyes, high side ponytail, blue feather hair ornament, earrings, braided bang,
 Negatives:
 !!! note Note:
 	Her earrings are pretty baked in but if you prompt for them they will reroll if you want a new shape.

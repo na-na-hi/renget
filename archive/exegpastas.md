@@ -105,6 +105,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *The Journey Into You* (GB)|[(link)](https://rentry.org/thejourneyintoyou)
 *SMRPG Glitch* (Gabriella)|[(link)](https://rentry.org/smrpgglitch)
 *Stanford*|[(link)](https://rentry.org/stanfordrewrite)
+*THE START OF A DARKER SUNSHINE* (Sonic2.exe)|[(link)](https://rentry.org/sonic2exereimagined)
 
 ##Restored/archived by /exeg/
 Title|Link
@@ -126,3 +127,4 @@ Title|Link
 *plimbo falsario*|[(link)](https://rentry.org/plimbofalsario), [(d-sides)](https://rentry.org/xnbzt)
 *Plumbers don't get Pussy*|[(link)](https://files.catbox.moe/16yk84.txt)
 *LETS GO HUNTING FOR SHADOWS*|[(link)](https://rentry.org/9g4vr)
+*Nostalgia Critic Shitpasta*|[(link)](https://arch.b4k.co/vg/thread/430926869/#431001036)

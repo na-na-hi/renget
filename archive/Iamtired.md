@@ -88,6 +88,7 @@ If he was a bad demoman, he wouldn't even be there talking with ya about it.
 ## WIPs or requests taken into account.
 - Members from HoloX <--- working on them
  
+Suzuhara Lulu
 Takanashi Kiara (Normal, Forma de wife)
 Hakos Baelz (Non-lewd one)
 Shiki Miyoshino (Zatsudan Project)

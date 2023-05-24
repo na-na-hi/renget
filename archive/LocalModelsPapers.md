@@ -25,6 +25,8 @@
 05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
 05/2023|[Towards Expert-Level Medical Question Answering with Large Language Models (Med-Palm 2)](https://arxiv.org/abs/2305.09617)
 05/2023|[DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/abs/2305.10429)
+05/2023|[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)
+05/2023|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoint](https://arxiv.org/abs/2305.13245)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -61,6 +63,8 @@
 05/2023|[Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 05/2023|[ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
 05/2023|[MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
+05/2023|[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+05/2023|[Scaling Speech Technology to 1,000+ Languages](https://archive.ph/pRSo5)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -77,6 +81,7 @@
 04/2023|[ResiDual: Transformer with Dual Residual Connections](https://arxiv.org/abs/2304.14802)
 05/2023|[Code Execution with Pre-trained Language Models](https://arxiv.org/abs/2305.05383)
 05/2023|[Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
+05/2023|[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -110,6 +115,7 @@
 05/2023|[InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
 05/2023|[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://arxiv.org/abs/2305.07922)
 05/2023|[ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172)
+05/2023|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -192,6 +198,9 @@
 05/2023|[Accelerating Transformer Inference for Translation via Parallel Decoding](https://arxiv.org/abs/2305.10427)
 05/2023|[Cooperation Is All You Need](https://arxiv.org/abs/2305.10449)
 05/2023|[PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657)
+05/2023|[LLM-Pruner: On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627)
+05/2023|[SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs](https://arxiv.org/abs/2305.11461)
+05/2023|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

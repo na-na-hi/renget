@@ -17,7 +17,8 @@ Torrent:
 [magnet:?xt=urn:btih:0d8165158c22430ebb5c0afced1c37833877192a](magnet:?xt=urn:btih:0d8165158c22430ebb5c0afced1c37833877192a)
 
 Direct downloads:
-https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso
+Filename: en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso
+https://massgrave.dev/windows_ltsc_links.html
 https://pixeldrain.com/u/6y73DJZ2
 
 SHA-256 Source (VisualStudio Subscription Required): https://download.my.visualstudio.com/db/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso?t=61f80e60-fc8d-403b-a74d-aa90bcd92ecf&e=1637126190&h=6598e1ae25f0484870ef33823d0aff5c&su=1

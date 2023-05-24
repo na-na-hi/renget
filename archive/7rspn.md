@@ -1,4 +1,17 @@
 ▶NEW CLIPS
+>MoD footage from Belgorod region of Ukrainian nationalists eliminated
+https://files.catbox.moe/23gkgl.mp4
+>Commander Ratibor presents gold coins to distinguished soldiers
+https://files.catbox.moe/a35pwo.MP4
+>Soldiers of PMC "Wagner" were awarded commemorative medals
+https://files.catbox.moe/xl1mql.mp4
+https://files.catbox.moe/oq5lev.mp4
+>Captured AFU from the 93rd Mechanized Brigade near Artemovsk
+https://files.catbox.moe/1c5ov4.mp4
+>RT Joins Wagner Troops In Artemovsk
+https://files.catbox.moe/klzhpo.mp4
+>Brothers morale very high "volnovakha vibes"
+https://files.catbox.moe/c61dzh.mp4
 >Bakhmut Beats ft. Big Boss
 https://files.catbox.moe/cfqf9u.webm
 >Prigozhin announced the complete liberation of Bakhmut (TRANSLATED by DDG)

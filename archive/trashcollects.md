@@ -496,6 +496,18 @@ NAI Trained: pixeldrain com u kS25QCQY
 	Use "by nomax".
 	https://mega.nz/file/LMx23CyC#zDSz7AtD9ZX-UM582bTm0XsP8xLAywBbIVDqJj6mIkU
 
+# Fluffy64
+
+	https://files.catbox.moe/9k1snp.safetensors
+
+# Shiron (Legendz)
+
+	https://mega.nz/folder/50FVVAbS#gMDnVIgmcPCQ4OWyhRewFw
+
+# Lycanroc
+
+	https://rentry.org/4o2mc
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -628,6 +640,48 @@ Some of these are Lycoris files; check out [this extension](https://github.com/K
 	Tempest Shadow (MLP): https://civitai.com/api/download/models/62278?type=Model&format=SafeTensor
 	Secretary Bird: https://civitai.com/api/download/models/63229?type=Model&format=SafeTensor
 	Anthro Corvids: https://civitai.com/api/download/models/64462?type=Model&format=SafeTensor
+
+# Cynfall's LoRAs
+
+https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
+
+	Brooklyn (gargoyles) USE Brooklyn (gargoyles)
+	Bathym USE bathym
+    Blaidd USE Blaidd (elden ring)
+    Batzz USE demon lord dragon batzz 
+    Barrel USE barrel (live a hero)
+    Exveemon USE exveemon
+    Death USE death (puss in boots)
+    Dire USE Dire (fortnite)
+    Fox Mccloud USE Fox Mccloud
+    Fenrir USE fenrir (housamo)
+    Garmr USE garmr
+    Freddy USE freddy (dislyte)
+    Guilmon USE guilmon
+    Horkeu kamui USE horkeu kamui (tas)
+    Incineroar USE incineroar
+    Jon talbain USE jon talbain
+    Law USE law (sdorica)
+    Leomon USE leomon
+    Macan USE macan (tas)
+    Maliketh USE Maliketh (elden ring)
+    Meowscles USE meowscles
+    Mountain USE mountain (arknights)
+    Nasus USE nasus (lol)
+    Nimbus USE nimbus (world flipper)
+    Renekton USE renekton
+    Seth USE set (tas)
+    Shirou Ogami USE Shirou ogami
+    Simba USE simba
+    Skavens USE skaven
+    Steel USE steel (balto)
+    Tadatomo USE tadatomo
+    Volibear USE volibear
+    Vortex USE Vortex (helluva boss)
+    Wargreymon USE wargreymon
+    Warwick USE warwick (lol)
+    Weregarurumon USE weregarurumon 
+    Wolf O'Donnell USE Wolf O'Donnell
 	
 ## Assorted Random Stuff
 
@@ -683,9 +737,11 @@ https://files.catbox.moe/fs3blo.jpg
 ### "What does ControlNet weight and guidance mean?"
 ![ControlNet Weight and Guidance Rate](https://files.catbox.moe/tjy2jq.png)
 
-### Img2Img example
+### Img2Img examples
 ![Raw doodle](https://files.catbox.moe/jd6bfp.png) ![Final result](https://files.catbox.moe/ahz9is.png)
 https://imgbox.com/g/tdpJerkXh6
+
+![Newer example showcasing workflow](https://files.catbox.moe/bk6ww7.png)
 
 ### E621 Tagger Model for use in WD Tagger
 	The WD Tagger extension as-is only generates Danbooru tags, which is great when training on NAI and other anime-based models. For models based on e621, the tags may need to be changed accordingly. For that reason, you can use the following model instead of the WD one.

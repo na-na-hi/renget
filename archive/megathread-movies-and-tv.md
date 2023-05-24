@@ -25,7 +25,7 @@
 
 # 📑 1 ➜ Direct Downloads
 
-### 🔗 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
+### 🐐 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
 - [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)
 
@@ -77,7 +77,7 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
-### 🐐 [rinzry](https://rinzry.stream/)
+### 🐐 [rinzry](https://rinzry.stream/) • Site Maintenance
 - Great option for streaming or downloading high-quality movies and series, but has a Google API quota limit for each file every 24 hours.
 - [URL Safety Results](https://www.urlvoid.com/scan/rinzry.stream/)
 

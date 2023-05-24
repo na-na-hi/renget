@@ -5,10 +5,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-24-2023] - Added SuperHOT Prototype
+[05-23-2023] - Added WizardLM 30B
 [05-20-2023] - Added Manticore 13B
 [05-19-2023] - Added Pyg & Meth 13B
-[05-18-2023] - Added VicUnlocked-30B
-[05-16-2023] - Removed old CPU quantizations and started adding re-quantized models, added Wizard Mega
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -68,6 +68,22 @@ Model | Type | Download
 
 ## ->Models/Finetunes/LoRA's<-
 
+### SuperHOT 30B Prototype (05/24/2023)
+!!! info
+
+	A LoRA trained on a variety of combined roleplaying datasets. Made by the creator of SuperCOT. This is a prototype at around 0.5 epochs. It uses a special format, so read the LoRA card for instructions.
+
+	The links will be updated with updated checkpoints as they come, and this entry will be removed when the final version is posted.
+
+	>Type: Roleplay Instruct
+	>Filtering: ???
+
+Model | Type | Download
+--- | --- | ---
+30B LoRA | LoRA | [HF Link](https://huggingface.co/kaiokendev/SuperHOT-LoRA-prototype)
+30B GGML | CPU | None yet.
+30B | GPU | [Q4 CUDA 128g](https://huggingface.co/ausboss/llama-30b-SuperHOT-4bit-128g)
+
 ### Manticore 13B (05/20/2023)
 !!! info
 
@@ -79,7 +95,37 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 13B 16-bit | Unquantized | [HF Link](https://huggingface.co/openaccess-ai-collective/manticore-13b)
-13B  GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/Manticore-13B-GGML)
+13B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/Manticore-13B-GGML)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/TheBloke/Manticore-13B-GPTQ)
+
+https://huggingface.co/kaiokendev/SuperHOT-LoRA-prototype
+
+### WizardLM 30B Uncensored (05/23/2023)
+!!! info
+
+	WizardLM 30B trained with a subset of the dataset - responses that contained alignment / moralizing were removed. The intent is to train a WizardLM that doesn't have alignment built-in, so that alignment (of any sort) can be added separately with for example with a RLHF LoRA.
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+30B 16-bit | Unquantized | [HF Link](https://huggingface.co/ehartford/WizardLM-30B-Uncensored)
+30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/WizardLM-30B-Uncensored-GGML)
+30B | GPU | [Q4 Triton](https://huggingface.co/TheBloke/WizardLM-30B-Uncensored-GPTQ/tree/main)
+
+### Manticore 13B (05/20/2023)
+!!! info
+
+	Manticore 13B is a 3 epoch LLaMa 13B model fine-tuned on a number of merged datasets.
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+13B 16-bit | Unquantized | [HF Link](https://huggingface.co/openaccess-ai-collective/manticore-13b)
+13B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/Manticore-13B-GGML)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/TheBloke/Manticore-13B-GPTQ)
 
 ### Pygmalion/Metharme 13B (05/19/2023)

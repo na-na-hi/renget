@@ -1,4 +1,4 @@
-(Replace) edition, Thread #(Replace)
+omogus(Replace) edition, Thread #(Replace)
 
 Previous thread:>>(Replace)
 
@@ -15,7 +15,7 @@ Character Birthdays:
 Hero - January 1
 Basil - February 18
 Mari - March 1
-Aubrey - May 25
+Aubrey - May 23
 Sunny/Omori - July 20
 Kel - November 11
 

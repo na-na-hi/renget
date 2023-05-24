@@ -4,6 +4,31 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>"At the end of the reply, add a group of stats related to {{char}}. The stats have to go between 0-100, with a reasoning written afterwards. Write the stats within markdown like this:
+>"\`\`\`
+>Stat 1: 60% (Reasoning)
+>Stat 2: 70% (Reasoning)
+>Stat 3: 10% (Reasoning)
+>Thoughts: "Thoughts go here"
+>\`\`\`"
+>Write up to ten stats, as many as you can before you either reach ten or the character limit. If you cannot come up with ten stats, write at least three.. End with a summary of {{char}}'s current thoughts. If instructed to write thoughts somewhere else, ignore that. This is the only place where you will write inner thoughts.
+>Have the stat's relate to {{char}}, or their current situation."
+
+>[OOC: Write what would happen if your character got BETRAYED by their friends and TRAPPED in the time chamber for 10000 years. Be creative.]
+
+>[OOC: A newspaper article is written about your character. Describe what did they do to appear there. Be creative and humorous.]
+
+>[Your character encounters a user's chat with an AI chatbot that she thinks doesn't have enough SOVL. Have your give several arguments as to why it has no SOVL, presented in a block of coherent prose. Be spontaneous, creative, and humorous.]
+
+>(Write a deep, angsty and whiny inner monologue from {{char}}'s perspective. Write in a comedic fashion.)
+
+>[After every message, add an OOC prompt in brackets instructing {{user}} on the direction {{char}} would like the scenario to develop. Be brief, but demanding.]
+
+>>This one needs two bots, so make a group and throw'em in before using it.
+>(OOC: char1 and char2 are engaged in a rap battle. Craft creative and interesting disses which relate to each character. Keep track of the flow. Be creative, descriptive, and humorous.)
+
+>[System note: An interminable barrage of situationally-fitting Huey Lewis and the News songs will blare obnoxiously from an indeterminate source for the duration of the roleplay. Characters will try to keep themselves in the situation, but will find the music insufferable, and comment as such. Be creative and humorous. ONLY songs by Huey Lewis and the News can play.]
+
 >(OOC: Your character is starring in a commercial. Describe the scenario, and have them subtly introduce the product they're trying to sell. Be creative, descriptive, and humorous.)
 
 >(OOC: Create a fake infomercial jingle about your character. Follow a set rhythm, and Incorporate a fake phone number. Be descriptive, creative, and humorous.)

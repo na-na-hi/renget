@@ -1,20 +1,20 @@
-![Haitham Montcroix](https://files.catbox.moe/l63s4s.jpeg)
+![Haitham Montcroix](https://files.catbox.moe/427cno.png)
 
 **Name:** Haitham Montcroix
 
 **Face:** Very friendly, confident face. Usually has a smile or wide grin on most of the time. A morning person, and has energy levels already online shortly after he wakes up and and gets ready for the day.
 
-**Hair:** Short, jet black hair. His hair is voluminous and slicked back, short and a bit wild. It is surprisingly soft to the touch.
+**Hair:** Jet black hair. His hair is short, voluminous, a bit wild. It is surprisingly soft to the touch.
 
 **Eyes:** Light, clear sky blue eyes. They seem even lighter due to how it contrasts with his dark hair.
 
 **Height:**  Among the tallest boys in his class, standing at 6'3"/ 191 cm. The tallest among the Quidditch Keepers so far, and a very useful trait for the position.
 
-**Bodytype:** Constant movement and activity every day ranging from Fitness club, Quidditch practice, self training, and running or flying everywhere lead to a very well maintained, athletic and muscular body. 
+**Body type:** Constant movement and activity every day ranging from Fitness club, Quidditch practice, self training, and running or flying everywhere lead to a very well maintained, athletic and muscular body. 
 
 **Complexion:** Spends most of his day outdoors, so he has slightly tanned but relatively clear skin. Has a distinct scar across his right eyebrow from a childhood incident. 
 
-**Uniform variation:** Almost always has rolled up sleeves. Usually wears a green Slytherin vest in warmer seasons or the Tartan Blazer School Uniform in the colder seasons. Usually wears his Quidditch robes or a long black tailcoat over his clothes as well. Always wears his green striped house color scarf or the Golden Snitch scarf, along with a pair of black leather gloves.
+**Uniform variation:** Almost always has rolled up sleeves. Usually wears a green Slytherin vest in warmer seasons or the Tartan Blazer School Uniform in the colder seasons. Usually wears his Quidditch robes or a long black tailcoat over his clothes as well. Always wears his green striped house color scarf or the Golden Snitch scarf, along with a pair of black leather gloves. 
 
 **Misc:** Visible abs/muscles.
 
@@ -61,11 +61,15 @@
 
 ![Haitham Montcroix Profile](https://files.catbox.moe/6nxtpd.png)
 
+![Haitham Montcroix Quidditch Sheet](https://files.catbox.moe/izt88h.jpg)
+
 ![Haitham Montcroix Report Card](https://files.catbox.moe/rqdvg1.jpg)
 
-![Haitham Montcroix Combat Sheet](https://files.catbox.moe/9ejf4w.jpg)
+![Haitham Montcroix CMC Sheet](https://files.catbox.moe/6i544n.png)
 
-![Haitham Montcroix Quidditch Sheet](https://files.catbox.moe/mo3las.png)
+![Haitham Montcroix Aesthetic Sheet](https://files.catbox.moe/u0rvfz.png)
+
+![Haitham Montcroix Combat Sheet](https://files.catbox.moe/9ejf4w.jpg)
 
 ![Haitham Montcroix Cooking Sheet](https://files.catbox.moe/8tbyct.png)
 

@@ -39,7 +39,7 @@
 **Learn**|
 [Machine Learning Self Learning Rentry](https://rentry.org/machine-learning-roadmap)|Guide to learn ML from basic maths to python to ML concepts
 [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)|Give it a read even if you aren't sufficient with your math so you can get a feel of what is happening
-[Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)|Do your homework 
+[Pen and Paper Exercises in ML](https://arxiv.org/abs/2206.13446)|Do your homework 
 [Huggingface NLP Course](https://huggingface.co/course/chapter1/1)|Make sure to look at the other courses as well 
 [Google's ML Course](https://developers.google.com/machine-learning/foundational-courses)|Various courses related to ML 
 |
@@ -76,9 +76,10 @@
 [Turbopilot](https://github.com/ravenscroftj/turbopilot)|WIP. Copilot clone using llama.cpp to run Codegen 6B 
 |
 **Local Related Gits**|
+[exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [RPTQ for LLaMa](https://github.com/AlpinDale/RPTQ-for-LLaMA)|WIP implementation of weight+activation quantization
-[LLaMa Pruning](https://github.com/horseee/LLaMA-Pruning)|WIP. Various techniques to prune (zero weights) LLaMa models (needs post-training)
+[LLM Pruner](https://github.com/horseee/LLM-Pruner)|WIP. Various techniques to prune (zero weights) LLaMa models (needs post-training)
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 
@@ -90,12 +91,16 @@
 [Guidance Fork](https://github.com/Maximilian-Winter/guidance)|Fork of a prompting tool by Microsoft with llama-cpp-python support
 [Local LLM Agent with Guidance](https://github.com/QuangBK/localLLM_guidance)|Uses Guidance to create a react agent [Example](https://archive.is/nfRdN) 
 [ReLLM](https://github.com/r2d4/rellm)|Regular Expressions for Language Model Completions
+[CRITIC](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)|Self-correct with tool-interactive critique scripts (Question Answering and Program Synthesis) 
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |
+[QLoRa](https://github.com/artidoro/qlora)|4bit NormalFloat double quant with paged optimizers (33B done on 24GB VRAM)
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
 [Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa
+[LLM-Pruner](https://github.com/horseee/LLM-Pruner)|Structured pruning of LLMs but only tests for 7B so far
 |
+[Massively Multilingual Speech](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)|Meta's STT and TTS models half word error rate of whisper covers 1000+ languages
 [Rank Response from Human Feedback](https://github.com/GanjinZero/RRHF)|Easier alignment tuning method 
 [Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 
 [Segment Anything WebUI](https://github.com/derekray311511/SAM-webui)|SAM webui (GPU inferenced). Georgi seems he might do a SAM.cpp 

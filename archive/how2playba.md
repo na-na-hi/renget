@@ -9,7 +9,7 @@ Scroll to the bottom for my last edit date.
 - Read the story (it's fun) 
 - Rush through normal missions to unlock cafe upgrades and game modes 
 - Take advantage of the school bonuses in Bounties, and use CC
-- Join a club (you don't have to talk) 
+- Join a club. There's no clan tryharding or an obligation to talk. 
 
 ## Downloading/Setting up the game
 
@@ -460,12 +460,12 @@ One-time per battle skills can happen once in every battle.
 E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times .
 
 >Daily and weekly missions
-Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is great. 
+Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is decent, although I don't do it personally. 
  
 The weekly missions reset on Sunday (the reset from Sunday to Monday). 
 
 >Birthdays/holidays 
-If you switch out from the L2D, on (holi/birth)days your assistant gives you a unique dialogue if you tap her. 
+If you switch out from the L2D, on (birth/holi)days your assistant gives you a unique dialogue if you tap her. 
 
 >Friends
 Need a friend or two?
@@ -540,8 +540,6 @@ You can only join clubs or add friends from the same region.
 >When did X change get added 
 You'll have to manually look for it. 
 Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
-
->When do the week pyro
 
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 

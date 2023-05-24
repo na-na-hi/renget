@@ -98,12 +98,12 @@ Cost | Effect
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-BR | BKE | Utility
-BR | SS/SA | Damage
+SS | BKE | Utility
+SA | BR/SS | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Mad King's Mask/Falling in Past Light
+Start | Mad King's Mask(read notes)/Falling in Past Light
 1st Shop | Burden/Falling in Past Light
 16F | Faraway Ship/Dreamful Gold
 
@@ -115,7 +115,7 @@ Start | Mad King's Mask/Falling in Past Light
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; can pick TDM from enhanced
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; can pick TDM from enhanced. (tl note: Don't take Burden and leave around 1k HP if using Kalpas1, or use Hua2 for protection, or skip Kalpas entirely if too difficult)
 2nd | Kevin1 | Breach, both damage boosts, SP are the key choices; can pick time extension and nexus effect improvement from enhanced
 2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
 2nd | Vill-V1 | 1 2 3 are the key choices, unlock nexus

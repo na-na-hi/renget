@@ -132,7 +132,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 52 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
 53 | [Ross Sleeps...?](https://rentry.org/opi29) | | | | |
 54 | [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) | | | | |
-55 | | | | | |
+55 | [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3) | | | | |
 56 | | | | | |
 57 | | | | | |
 58 | | | | | |
@@ -263,6 +263,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88)
 	* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
 	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
+    * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -372,8 +373,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
 * [Ross Sleeps...?](https://rentry.org/opi29)
 * [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
+* [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
+###[Clover Guild Art Booru](http://cloverguild.org)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)

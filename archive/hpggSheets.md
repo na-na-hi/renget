@@ -33,3 +33,5 @@
 ->[Divination/Futures Sheet](https://files.catbox.moe/nvcw90.jpg)<-
 
 ->[Outfit/Info Sheet (not from /hpgg/)](https://files.catbox.moe/1bor7p.jpg)<-
+
+->[Animagus Sheet](https://files.catbox.moe/3spyy1.jpg)<-

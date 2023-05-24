@@ -1286,3 +1286,389 @@ Prompt:
 !!! info 3d render, cgi, painting, drawing, cartoon, anime, nartfixer,
 
 !!! info Size: 768x1024, Seed: 971371851, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d
+***
+
+##Jenny Blame! LoRA
+
+Description:
+!!! note Trained on kohya-LoRA-dreambooth with Anythingv3-1 model as base, using 40 pics from Blame! Vol.1.
+!!! note Some words that work well : vast, gigantic, decrepit scenery, covered in large tubes and cables, buried under cables, dim light, heavy black and white, giant-gross-organic, monsters-creatures, cyborg girl portrait
+
+Triggerwords:
+!!! note none
+
+Download links:
+https://pixeldrain.com/u/Wv4TqHA2
+https://files.catbox.moe/cwf8x1.safetensors
+
+Gen examples:
+![1](https://files.catbox.moe/upmvsd.jpeg)
+
+Prompt:
+
+!!! info (masterpiece), (best quality), (high resolution), hyper detailed, solo, girl, detailed_background, vast, gigantic, decrepit scenery, covered in large tubes and cables, dim light, (organic works very well with buildings and city scenery) <lora:epiNoiseoffset_v2:1.3>, <lora:blameLora_v10:1>
+
+!!! info Negative prompt: easynegative,lowres, bad anatomy, bad hands, text, error, EasyNegative, bad anatomy, text,bad hands,(worst quality:1.4), (low quality:1.4), (fuze:1.4), error, missing fingers, extra digit, incorrect fingers, extra fingers,
+
+!!! info Size: 512x768, Seed: 469662619, Model: 0__Base_Counterfeit-V3.0_fp16, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: cbfba64e66, ADetailer conf: 30, ADetailer model: face_yolov8n.pt, ADetailer version: 23.5.2.post2, ADetailer x offset: 0, ADetailer y offset: 0, ControlNet 0 Model: controlnet11Models_inpaint [be8bc0ed], ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ControlNet 0 Weight: 1.0, ControlNet 0 Enabled: True, ADetailer dilate/erode: 32, ADetailer inpaint full: True, ControlNet 0 Ending Step: 1.0, ControlNet 0 Resize Mode: ResizeMode.INNER_FIT, ADetailer inpaint padding: 0, ControlNet 0 Control Mode: ControlMode.BALANCED, ControlNet 0 Preprocessor: inpaint_global_harmonious, ADetailer ControlNet model: controlnet11Models_inpaint [be8bc0ed], ControlNet 0 Pixel Perfect: True, ControlNet 0 Starting Step: 0.0, ADetailer ControlNet weight: 1.0, ADetailer denoising strength: 0.4, ADetailer use inpaint width/height: False, ControlNet 0 Preprocessor Parameters: "(512, 64, 64)"
+
+![2](https://files.catbox.moe/c5tvds.jpeg)
+
+Prompt:
+
+!!! info ((broken male body android)), (internal details inside android skull), melted metal, (explosion marks on the body), ((gunshot damage on walls and body)), ((black slime)), ((explosion marks)), <lora:Blame!:1>, ((torn skin)), <lora:bodhor:0.8>, OrganicBiomArt, sad512, dim light, heavy black and white, cyborg girl portrait, smoke and fog city background
+
+!!! info (watermark), badhandsv5-neg, (wall background)
+
+!!! info Size: 768x758, Seed: 3118856849, Model: pikasNewGeneration_v20, Steps: 25, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 3, Model hash: 6c509880a5, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.34
+***
+
+##Cosmic Landscapes
+
+Description:
+!!! note Another retrofuturist inspired LoRa, this time dealing with alien landscapes. Provides pretty good and interesting results, but doesn't always want to follow prompts consistently. Doesn't necessarily need a specific trigger, I don't think, but may produce better (or at least more specific) results with some of the suggested triggers.
+
+Triggerwords:
+!!! note cosmiclandscapes, alien landscape, retro, mysterious, alien plants, strange growths, strange rock formations, desert, barren planet, lake, river, chasm, canyon, mountains, planet, star, neutron star, black hole, saturn, gas giant, galaxy, fog, pyramid, futuristic city, tall spires
+
+Download links:
+https://pixeldrain.com/u/ANd6Q3Hz
+https://files.catbox.moe/po3it4.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/bh6ben.jpeg)
+
+Prompt:
+
+!!! info <lora:CosmicLandscapes:0.7>, CosmicLandscapes, ((retro)), ((painting of an alien landscape)), (((mysterious))), ((colorful)), ((star)), ((thin atmosphere)), ((alien plants)), ((futuristic city)), chiaroscuro, beautifully lit, cinematic lighting, dramatic lighting, natural lighting, naturalism, ((golden ratio)), detailed, 8K, by Bruce Pennington, Danny Flynn <lora:theovercomer8sContrastFix_sd15:0.6>, by alexi zaitsev, by Antoine Blanchard, by Brent Heighton, by Jeremy Mann
+
+!!! info Negative prompt: ((rings)), (signature), (watermark:1.2),(bored photo:1.2),no color, blurry, ugly, poor quality, deformed hands, deformed face, deformed body, extra limbs, low quality, normal quality, text, errors, bad anatomy, mutation, deformed fingers, missing fingers, low res, bad hands, cropped, deformed hands, (deformed legs:1.2), (deformed arms:1.2), (multiple arms:1.2), (signature:1.2),Low quality,Photo,Artifacts,Table,Paper,Pencils,Pages,Wall,watermark,signature,extra limbs,malformed limbs,modern
+
+!!! info Size: 640x640, Seed: 2615377232, Model: protogenInfinity_protogenX86, Steps: 30, Sampler: Euler a, CFG scale: 6.5, Model hash: bc561295ca
+
+![2](https://files.catbox.moe/d4cbe6.jpeg)
+
+Prompt:
+
+!!! info (DSLR photo), <lora:CosmicLandscapes:0.7>, CosmicLandscapes, retro, (mysterious), blue sky, alien creatures, large mushrooms, ((desert)), ((fog)), strange growths, (painting of alien landscape), moon, ocean, mountains on horizon, (alien plants), mountains, gas giant in sky, shadows, stark, eerie, silence, stillness, fading light, fading glow, chiaroscuro, beautifully lit, cinematic lighting, dramatic lighting, natural lighting, naturalism, ((((golden ratio)))), detailed, 8K, by Bruce Pennington, Danny Flynn <lora:theovercomer8sContrastFix_sd15:0.6>
+
+!!! info (signature), (watermark:1.2),(bored photo:1.2),no color, blurry, ugly, poor quality, deformed hands, deformed face, deformed body, extra limbs, low quality, normal quality, text, errors, bad anatomy, mutation, deformed fingers, missing fingers, low res, bad hands, cropped, deformed hands, (deformed legs:1.2), (deformed arms:1.2), (multiple arms:1.2), (signature:1.2),Low quality,Photo,Artifacts,Table,Paper,Pencils,Pages,Wall,watermark,signature,extra limbs,malformed limbs,modern
+
+!!! info Size: 640x640, Seed: 4075072089, Model: protogenInfinity_protogenX86, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 3.5, Model hash: bc561295ca
+***
+
+##nomonos Massive lora
+
+Description:
+!!! note Massive is a lora for generating massive cities and structures trained on SD1.5 and recommend using deliberate V2 
+
+Triggerwords:
+!!! note massive
+
+Download links:
+https://pixeldrain.com/u/5UqL3LtS
+https://files.catbox.moe/3rx7h6.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/snikn2.jpeg)
+
+Prompt:
+
+!!! info night, stars, moon, cloud, forest, huge tree, world tree, horizon, eclipse, tree castle city, massive <lora:nomomassivemassive:1>
+
+!!! info Negative prompt: (low quality, worst quality, lowres:1.4), watermark, signature, mountain, rock
+
+!!! info Size: 704x512, Seed: 2320589632, Model: _AOM_AOM2-r34-SF1-1_pruned, Steps: 25, Sampler: DPM++ 2M Karras, CFG scale: 4, Clip skip: 2, Model hash: a0bb46ef01, Hires steps: 16, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.5
+***
+
+##Simon Stålenhag style LoRA
+
+Description:
+!!! note Swedish landscapes and robots.
+
+Triggerwords:
+!!! note by Simon Stalenhag, by Simon Stålenhag
+
+Download links:
+https://pixeldrain.com/u/KUbYQx7T
+https://anonfiles.com/A4x8i8t3z8/21Stalenhag_safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/x9giyh.jpeg)
+
+Prompt:
+
+!!! info <lora:simonStLenhagStyle_sd21:1> The Iron Knight standing in a field of tall grass with cityscape in behind, by Simon Stalenhag
+
+!!! info Negative prompt: (rmadanegative:1.3)
+
+!!! info  Size: 960x544, Seed: 1461861142, Model: perpetualDiffusion10_v10Moon, Steps: 36, Sampler: Euler a, CFG scale: 5.5, Model hash: 2d05a41142, Hires upscale: 2, Hires upscaler: Latent, Denoising strength: 0.51
+***
+
+##Neon Night LoRA
+
+Description:
+!!! note Generates images with glowing neon signs.
+
+Triggerwords:
+!!! note none
+
+Download links:
+https://pixeldrain.com/u/diAzNpsX
+https://anonfiles.com/Ydz8ift4z0/NeonNight_safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/7wehj6.jpeg)
+
+Prompt:
+
+!!! info <lora:NeonNight:1>a city street at night with a neon sign
+
+!!! info Negative prompt: nartfixer
+
+!!! info Size: 768x1024, Seed: 2331336776, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d
+***
+
+##Punk Collage LoRA
+
+Description:
+!!! note Creates 1970-esque punk collages.
+
+Triggerwords:
+!!! note punk collage of
+
+Download links:
+https://pixeldrain.com/u/TQgBfGby
+https://anonfiles.com/z633idt5z2/PunkCollage_safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/nhtu5s.jpeg)
+
+Prompt:
+
+!!! info <lora:PunkCollage:1>punk collage of a batman 1966
+
+!!! info 3d render, cgi, painting, drawing, cartoon, anime, nartfixer,
+
+!!! info Size: 768x1024, Seed: 3356935641, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d
+
+ ![2](https://files.catbox.moe/hnb8hd.jpeg)
+
+Prompt:
+
+!!! info <lora:PunkCollage:1>punk collage of a frank sinatra
+
+!!! info 3d render, cgi, painting, drawing, cartoon, anime, nartfixer,
+
+!!! info Size: 768x1024, Seed: 3863014211, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d
+***
+
+##Isometric Cutaway LoRA
+
+Description:
+!!! note Makes miniature cutaway rooms.
+
+Triggerwords:
+!!! note Isometric Cutaway
+
+Download links:
+https://pixeldrain.com/u/ktGfEagQ
+https://anonfiles.com/V265i8t9z9/IsometricCutaway_safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/2k8elg.jpeg)
+
+Prompt:
+
+!!! info <lora:IsometricCutaway:1>an isometric cross section of a hidden room filled with arcade games, 80s video store, sonic, blockbuster, 1980s game, nostalgic and cool
+
+!!! info Negative prompt: (rmadanegative:1.3),
+
+!!! info Size: 768x1024, Seed: 3843000462, Model: 2.1_rmadaMerge_v7, Steps: 40, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b346aa1648
+
+ ![2](https://files.catbox.moe/06zu8i.jpeg)
+
+Prompt:
+
+!!! info <lora:IsometricCutaway:1>A miniature kitchen, isometric design, multicolour, cartoon style, insane details, pastel colours, many details in the decour, escher style, hyperdetailed
+
+!!! info (rmadanegative:1.3),
+
+!!! info Size: 768x1024, Seed: 3843000462, Model: 2.1_rmadaMerge_v7, Steps: 40, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b346aa1648
+***
+
+##Moy Lee style LoRA
+
+Description:
+!!! note Cute illustration style lora.
+
+Triggerwords:
+!!! note none
+
+Download links:
+https://pixeldrain.com/u/LbEdaEFt
+https://anonfiles.com/W892i4t5z9/MoyLee_safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/g4ptrw.jpeg)
+
+Prompt:
+
+!!! info <lora:MoyLee:1>a cartoon girl wearing a green hat and scarf
+
+!!! info Negative prompt: nartfixer, 3d render, cgi
+
+!!! info Size: 768x1024, Seed: 2335359668, Model: 2.1_realismEngine_v10, Steps: 20, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: b513c6287d
+***
+
+##Sword Generator
+
+Description:
+!!! note Creates wow/dota-esque weapons.
+
+Triggerwords:
+!!! note Sword, Cleaver, Axe
+
+Download links:
+https://pixeldrain.com/u/knwFVuY5
+https://files.catbox.moe/8ke35v.safetensors
+
+Gen examples:
+
+![1](https://files.catbox.moe/90an54.jpeg)
+
+Prompt:
+
+!!! info Game Art of axe in Painting Comix art style, <lora:Pecha_Swords_LORA_V1.4-000007:0.8>, best quality, Trending on Artstation, masterpiece, holy with golden ornament
+
+!!! info Negative prompt: EasyNegative, (saturated,contrast:1)
+
+!!! info Size: 512x768, Seed: 1376966411, Model: aZovyaRPGArtistTools_v2, Steps: 30, Sampler: DPM++ 2S a Karras, CFG scale: 7, Clip skip: 2, Model hash: da5224a242, Hires steps: 50, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0.6
+
+![2](https://files.catbox.moe/827bog.jpeg)
+
+Prompt:
+
+!!! info Game Art of cleaver in Painting Comix art style, <lora:Pecha_Swords_LORA_V1.4-000007:0.8>, best quality, Trending on Artstation, masterpiece, poisoned green
+
+!!! info Negative prompt: EasyNegative, (saturated,contrast:1)
+
+!!! info Size: 512x768, Seed: 614723081, Model: aZovyaRPGArtistTools_v2, Steps: 30, Sampler: DPM++ 2S a Karras, CFG scale: 7, Clip skip: 2, Model hash: da5224a242, Hires steps: 50, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0.6
+***
+
+##Reel Dieselpunk
+
+Description:
+!!! note Creates dieselpunk characters, vehicles, buildings, etc. To get better results, main keywords are; 1boy, 1girl, building, outdoors, military, ground vehicle, armor, vest, chain, motor vehicle
+
+Triggerwords:
+!!! note dieselpunk
+
+Download links:
+https://pixeldrain.com/u/8Nr5HWVW
+https://anonfiles.com/E7Wei1tfz8/dieselpunk_safetensors
+
+Gen examples:
+
+![1](https://files.catbox.moe/adu2zs.jpeg)
+
+Prompt:
+
+!!! info <lora:dieselpunk:1> dieselpunk, 1girl, armor, realistic, (atmospheric volumetric fog:1.1), military, ground vehicle, (masterpiece:1.4) (illustration:1.2) (best quality:1.4) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) (intricate), building,
+
+!!! info Negative prompt: (cleavage:1.2) (bare shoulders:1.1) hat weapon (bloom) (cartoon) (oversaturated) (bad hands) (disfigured) (grain) (Deformed) (poorly drawn) (mutilated) (lowres) (deformed) (dark) (lowpoly) (CG) (3d) (blurry) (out-of-focus) (man) (male) (boy) (guy) (duplicate) (watermark) (label) (signature) (text) (cropped) (artifacts)
+
+!!! info Size: 512x768, Seed: 3757996793, Model: aZovyaPhotoreal_v1Ultra, Steps: 40, Sampler: DPM++ SDE Karras, CFG scale: 8, Model hash: e1c69e89ae, Hires steps: 40, Hires upscale: 2, Hires upscaler: 4x_foolhardy_Remacri, Denoising strength: 0.4
+
+![2](https://files.catbox.moe/e8jidt.jpeg)
+
+Prompt:
+
+!!! info <lora:dieselpunk:1> dieselpunk, 1girl, building, armor, realistic, (atmospheric volumetric fog:1.1), military, (masterpiece:1.4) (illustration:1.2) (best quality:1.4) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) (intricate)
+
+!!! info Negative prompt: (cleavage:1.2) (bare shoulders:1.1) hat weapon (bloom) (cartoon) (oversaturated) (bad hands) (disfigured) (grain) (Deformed) (poorly drawn) (mutilated) (lowres) (deformed) (dark) (lowpoly) (CG) (3d) (blurry) (out-of-focus) (man) (male) (boy) (guy) (duplicate) (watermark) (label) (signature) (text) (cropped) (artifacts)
+
+!!! info Size: 512x768, Seed: 2551378291, Model: revAnimated_v122, Steps: 40, Sampler: DPM++ SDE Karras, CFG scale: 8, Model hash: 4199bcdd14
+***
+
+##Tune - Style
+
+Description:
+!!! note This is a LoRA trained on commissioned pictures from a user on DeviantArt. It has a nice western cartoon style with a bias towards smaller body types.
+
+Triggerwords:
+!!! note none
+
+Download links:
+https://pixeldrain.com/u/Tm2tJXT2
+https://files.catbox.moe/p8mbvs.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/zo1uz7.jpeg)
+
+Prompt:
+
+!!! info 1girl, ass, black_hair, (cavern, grotto), latex,naked back, bodysuit, breasts, dress, from_behind, long_hair, looking_at_viewer, looking_back, pantylines, red_eyes, solo <lora:tune:0.5>
+
+!!! info verybadimagenegative_v1.3,badhandv4,text,watermark,signature <lora:tune:0.5>", Unprompted Negative Prompt: "verybadimagenegative_v1.3,badhandv4,text,watermark,signature", Unprompted Seed: 4030633478
+
+!!! info Seed: 4030633478 Size: 768x1152, Seed: 4030633478, Model: Mistoon_Emerald_v2, Steps: 20, Sampler: Euler a, CFG scale: 5, Model hash: e51d00b968, Unprompted Prompt: "1girl, ass, black_hair, (cavern, grotto), latex,naked back,  bodysuit, breasts, dress, from_behind, long_hair, looking_at_viewer, looking_back, pantylines, red_eyes, solo, Denoising strength: 0.5, Unprompted Enabled: True
+
+ ![2](https://files.catbox.moe/y2ksz6.jpeg)
+
+Prompt:
+
+!!! info 1girl, anus, ass, black_hair, blush, breasts, bush, christmas_tree, day, foliage, forest, from_behind, grass, long_sleeves, looking_at_viewer, looking_back, medium_breasts, nature, nipples, on_grass, outdoors, pussy, red_legwear, short_hair, sky, solo, sparkle, thighhighs, tree, uncensored <lora:tune:0.5>
+
+!!! info verybadimagenegative_v1.3,badhandv4,text,watermark,signature <lora:tune:0.5>", Unprompted Negative Prompt: "verybadimagenegative_v1.3,badhandv4,text,watermark,signature", Unprompted Seed: 1780667364
+
+!!! info  Seed: 1780667364 Size: 768x1152, Seed: 2031905308, Model: Mistoon_Emerald_v2, Steps: 20, Sampler: Euler a, CFG scale: 5, Model hash: e51d00b968
+***
+
+##Himiko Toga
+
+Description:
+!!! note LoRA for Himiko Toga. Trained on over 1000 images.
+
+Triggerwords:
+!!! note Toga, Himiko, Himiko Toga
+
+Download links:
+https://pixeldrain.com/u/fvTw5g7S
+https://files.catbox.moe/vv17c4.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/j94bus.jpeg)
+
+Prompt:
+
+!!! info masterpiece, top quality, best quality, 1girl, (above angle), petite, erotic, (nsfw), toga, (crazed eyes), (erotic eyes), (lustful eyes), (stimulated), (aheago), rolling_eyes, cross-eyed, <lora:ahegaoep2sd2:1>
+
+!!! info (worst quality, low quality:2), easynegative, ng_deepnegative_v1_75t, badhandv4, (duplicate), ((large breasts),
+
+!!! info Size: 768x1024, Seed: 3672881398, Model: storeBoughtGyozaMix_v32, Steps: 30, Version: v1.2.1, Sampler: DPM++ 2M Karras, CFG scale: 7, Clip skip: 2, Mask blur: 4, Model hash: 57af9d50a1, Denoising strength: 0.45, Postprocess upscaler: R-ESRGAN 4x+ Anime6B, Postprocess upscale by: 4, Postprocess upscaler 2: R-ESRGAN 4x+ Anime6B
+***
+
+##C4ttitude
+
+Description:
+!!! note Antropomorphic cat LoRA.
+
+Triggerwords:
+!!! note c4ttitude
+
+Download links:
+https://pixeldrain.com/u/6qRLLEkx
+https://files.catbox.moe/8bwpmh.safetensors
+
+Gen examples:
+ ![1](https://files.catbox.moe/6t50k6.jpeg)
+
+Prompt:
+
+!!! info <lora:cat-000008:1> c4ttitude red, wearing wizard outfit
+
+!!! info Negative prompt: easynegative
+
+!!! info Size: 512x768, Seed: 2525698245, Model: dreamshaper_332BakedVaeClipFix, Steps: 11, Sampler: DPM++ SDE Karras, CFG scale: 5.5, Clip skip: 2, Model hash: c464e27568, Hires steps: 20, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+, Denoising strength: 0.4
+***

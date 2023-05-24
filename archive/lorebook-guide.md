@@ -388,9 +388,6 @@ Tada! Everything is much more coherent to the AI now, (I can say that, as this i
 	- *Answer:* Well, you have to make a choice between Attribute or Snippet; if you want a simple/effective lore, try Snippet. But if you want to cover more details, try Attribute.
 - *Question:* **Is prose the best?**
 	- *Answer:* I would say, prose give you the greatest amount of control. Tho, you should ask yourself, do you *need* that much control? So, yeah, it's technically the best; but also costs more. It's a valid choice if you know what you are doing!
-- *Question:* **Using $10-15 vs 25 models?**
-	- *Answer:*  Euterpe ($10-15) is going to struggle more, but that is understandable; if you are using Attribute, expanding the bottom-prose part should help a lot.
-On the other hand, you wouldn't need to fidget with Krake ($25) as much.
 - *Question:* **Is Attribute some special method you research?**
 	- *Answer:* No, it was made (literally) by Zaltys. He is responsible for the NovelAI dataset; SGreen is one of the first people who try it and write the very first version of attribute-guide, which later was fork by me; Nobody know if devs are going to do something with it or not. (Like implementing the offical ui for it.) But for now, it's knowledge for people who bother to read reddit/discord/wiki and come across this guide.
 - *Question:* **\*\*\* keep messing up my story.**

@@ -15,7 +15,7 @@ Or install the DMM (PC) version from:
 https://dmg.priconne-redive.jp/
 
 MTL translation instructions 
-https://rentry.org/pcrgMTLguide
+https://rentry.org/pcrgMTLguide (Still broken)
 
 ###->DMM install (No VPN required) <-
 

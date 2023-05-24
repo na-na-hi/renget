@@ -1,20 +1,21 @@
 ## /kkg/ Thread Archive
-[Last Updated: 22.05.2023 16:45 UTC]
+[Last Updated: 24.05.2023 07:15 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7385418/](https://boards.4chan.org/h/thread/7385418/)
+Current thread - [boards.4chan.org/h/thread/7390691/](https://boards.4chan.org/h/thread/7390691/)
 Trash - [boards.4chan.org/trash/thread/56621800/](https://boards.4chan.org/trash/thread/56621800/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 586&nbsp;&nbsp;[archiveofsins.com/h/thread/7390691/](https://archiveofsins.com/h/thread/7390691/)&nbsp;&nbsp;&nbsp;&nbsp;(23.05.2023 02:32)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Go Me! Edition
 - 585&nbsp;&nbsp;[archiveofsins.com/h/thread/7385418/](https://archiveofsins.com/h/thread/7385418/)&nbsp;&nbsp;&nbsp;&nbsp;(20.05.2023 14:02)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Everything in its right place edition.
-- 584&nbsp;&nbsp;[archiveofsins.com/h/thread/7380232/](https://archiveofsins.com/h/thread/7380232/)&nbsp;&nbsp;&nbsp;&nbsp;(17.05.2023 10:41)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Oyabun Chika edition.
+- 584&nbsp;&nbsp;[archiveofsins.com/h/thread/7380232/](https://archiveofsins.com/h/thread/7380232/)&nbsp;&nbsp;&nbsp;&nbsp;(17.05.2023 10:41)&nbsp;&nbsp;[1010]&nbsp;#&nbsp;Oyabun Chika edition.
 - 583&nbsp;&nbsp;[archiveofsins.com/h/thread/7373976/](https://archiveofsins.com/h/thread/7373976/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2023 22:08)&nbsp;&nbsp;[955]&nbsp;#&nbsp;Misty Morning Edition
 - 582&nbsp;&nbsp;[archiveofsins.com/h/thread/7367699/](https://archiveofsins.com/h/thread/7367699/)&nbsp;&nbsp;&nbsp;&nbsp;(10.05.2023 11:09)&nbsp;&nbsp;[1084]&nbsp;#&nbsp;Devilish witchery Edition!
-- 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[1074]&nbsp;#&nbsp;Feedin' the geese Edition
 ---
 Archive:
 
+- 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[1074]&nbsp;#&nbsp;Feedin' the geese Edition
 - 580&nbsp;&nbsp;[archiveofsins.com/h/thread/7356383/](https://archiveofsins.com/h/thread/7356383/)&nbsp;&nbsp;&nbsp;&nbsp;(03.05.2023 09:55)&nbsp;&nbsp;[1065]&nbsp;#&nbsp;Hurry the fuck up OP edition
 - 579&nbsp;&nbsp;[archiveofsins.com/h/thread/7352221/](https://archiveofsins.com/h/thread/7352221/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 00:47)&nbsp;&nbsp;[1079]&nbsp;#&nbsp;Sad drunk Chika edition
 - 578&nbsp;&nbsp;[archiveofsins.com/h/thread/7347371/](https://archiveofsins.com/h/thread/7347371/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 05:29)&nbsp;&nbsp;[951]&nbsp;#&nbsp;Eveningtimes Edition
@@ -55,7 +56,7 @@ Archive:
 ---
 Trash:
 
-- 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[218]
+- 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[282]
 - 011&nbsp;&nbsp;[desuarchive.org/trash/thread/56176356/](https://desuarchive.org/trash/thread/56176356/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 17:56)&nbsp;&nbsp;[314]
 - 010&nbsp;&nbsp;[desuarchive.org/trash/thread/56098387/](https://desuarchive.org/trash/thread/56098387/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 15:31)&nbsp;&nbsp;[324]
 - 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[317]

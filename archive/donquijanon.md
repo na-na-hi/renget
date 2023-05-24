@@ -5,6 +5,7 @@
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
 TO DO LIST: organize the bots better
+Bots that I'm working on: 1. Infinite hotel: requested by one anon; Richter, Biker, and Manny Pardo from Hotline Miami.
 
 [TOC]
 
@@ -24,9 +25,11 @@ Greeting translated: Recently, you had to switch from a private school to a publ
 
 CAI link: https://beta.character.ai/chat?char=JicP4AXRePocMdSs5k2gXshXzHD6ou2HST2wiD0hQjU 
 Card: https://files.catbox.moe/gv9put.png
+https://www.characterhub.org/characters/donquijanon/Vicky
 
 *Now in English!: https://files.catbox.moe/8bv9bk.png
-https://beta.character.ai/chat?char=l7gDm6zBkLdHvsnIF8Ntp-pDh_KQbVAxeYpFej_uD1k*
+https://beta.character.ai/chat?char=l7gDm6zBkLdHvsnIF8Ntp-pDh_KQbVAxeYpFej_uD1k
+https://www.characterhub.org/characters/donquijanon/vicky-english-translation*
 
 #### Lucia Judith de los Ángeles Ramírez (just Lucy or she'll be mad too! (it runs in the family))
 
@@ -36,6 +39,7 @@ Vicky's sister whom you met over the summer. After her dad died, she got depress
 
 CAI link: https://beta.character.ai/chat?char=jxL3ZhqK__nXp1GIXqunpM5EeyL0e1F8tmbtG6uGIgE 
 Card: https://files.catbox.moe/lc61id.png
+https://www.characterhub.org/characters/donquijanon/Lucy
 
 #### Maria Fernanda Ramirez Garcia (Mary the MILF)
 
@@ -45,6 +49,7 @@ The mom. Widowed, single mom of 5. She loved her husband but is still very lonel
 
 CAI link: https://beta.character.ai/chat?char=MWR04XkhYDjbN5eog2hkaQovejF6OivvwxxFwejtqgg
 Card: https://files.catbox.moe/nkxt5e.png
+https://www.characterhub.org/characters/donquijanon/Mary
 
 #### José María de los Ángeles Ramírez 
 
@@ -54,6 +59,7 @@ Some anons wanted a brown shota bot so here you go. The middle child, José. His
 
 CAI link: https://beta.character.ai/chat?char=EYGj5Qk7aiFGKj4t7j95TMk6py4Rb_pM1MX_WvxK2zA
 Card: https://files.catbox.moe/1l4mev.png
+https://www.characterhub.org/characters/donquijanon/Jose
 
 #### Ana and Sofi de los Ángeles Ramírez
 
@@ -63,8 +69,9 @@ Last family members in one card! Ana and Sofi are the youngest daughters, insepa
 
 CAI link: https://beta.character.ai/chat?char=QeO7m6gTjinKrjtS5Wmujb1n8Y39TIe1jwko816DLTA
 Card: https://files.catbox.moe/bii3u5.png
+https://www.characterhub.org/characters/donquijanon/ana-and-sofi
 
-Note: Finally updated the older cards, if you downloaded Vicky, Lucy or Mary prior to april 16th you have the older version without José or the twins on the defs.
+Note: Finally updated the older cards, if you downloaded Vicky, Lucy or Mary prior to april 16th 2023 you have the older version without José or the twins on the defs.
 
 ## Batch 2 
 ### Familia Müller
@@ -76,9 +83,11 @@ Your stereotypical school bully. She's half Mexican, half German, full on spoile
 
 CAI link: https://beta.character.ai/chat?char=DO-GPhTsU7SIV-fAVzgFU-p9pOah7Ss35C_i6HjBMo0
 Card: https://files.catbox.moe/ovdytd.png
+https://www.characterhub.org/characters/donquijanon/Gloria
 
 *Now in English!: https://files.catbox.moe/409qx0.png
-https://beta.character.ai/chat?char=4bQ_s6Ypd2MXZMBeGWTYoGLBkyR18uq1ZH5j2llOkLM*
+https://beta.character.ai/chat?char=4bQ_s6Ypd2MXZMBeGWTYoGLBkyR18uq1ZH5j2llOkLM
+https://www.characterhub.org/characters/donquijanon/gloria-english-translation*
 
 ####Julia Villaseñor Romero
 
@@ -88,6 +97,7 @@ Your bully's mom. Married to a busy man, she spends her lonely days shopping for
 
 CAI link: https://beta.character.ai/chat?char=Vq1CrrKbkDPxx2Ssmbnk1sxhEeICyo398CBAEPJZZwU
 Card: https://files.catbox.moe/6jl2vu.png
+https://www.characterhub.org/characters/donquijanon/Julia
 
 ### Familia Reyes
 ####Caro Reyes Santana "La Reyna del norte"
@@ -98,6 +108,7 @@ While you were drinking at a bar somewhere in Mexico, a tall woman wearing an ex
 
 CAI link: https://beta.character.ai/chat?char=Ryjvu9IiqRzWgKvGp8AAuRYaxVoXd79exvqhGF5gOjI
 Card: https://files.catbox.moe/ftcn6p.png
+https://www.characterhub.org/characters/donquijanon/Caro
 
 ####Carla Josefina Corona de la Cruz
 
@@ -107,6 +118,7 @@ If you thought Caro was bad wait until you meet her great-great-grandmother. Car
 
 CAI link: https://beta.character.ai/chat?char=3Ndizpcu-sbOT2D74dI20HFier-S2lyIYcRMJvN-3UI
 Card: https://files.catbox.moe/2eombl.png
+https://www.characterhub.org/characters/donquijanon/Carla
 
 ###Adela Guadalupe Dolores Jimenez
 
@@ -116,6 +128,7 @@ You were standing at the cemetery late one night during Dia de Muertos when your
 
 CAI link: https://beta.character.ai/chat?char=lb8W5-TP_ha7mIJkzY4w1AGoPSR60xRTcUNu6Yn3oNo
 Card: https://files.catbox.moe/ovij3h.png
+https://www.characterhub.org/characters/donquijanon/Adela
 
 ## Secret vault
 On april 22th we had another COOM - DOOM scare with the Todd proxy. After some grueling hours without cooming, our lord and saviour descended from the heavens and heard our prayers. So to give back to the community I'm releasing my secret vault of bots.
@@ -128,6 +141,7 @@ Inspired by this post, I decided to turn his sister into a bot. I posted her on 
 ->![Emma](https://files.catbox.moe/2zmcgx.png)<-
 No CAI link, I'm not even gonna bother.
 Card: https://files.catbox.moe/2zmcgx.png
+https://www.characterhub.org/characters/donquijanon/Emma
 
 ### Maria Hernández
 
@@ -137,15 +151,17 @@ You failed your Spanish exam and your mom hired a private Spanish tutor. Learn S
 
 CAI: https://beta.character.ai/chat?char=aVkLszUE225jxnuYgiZ_Skbrd0_MZcPQOK1pjfqR084
 Card: https://files.catbox.moe/m91e4s.png
+https://www.characterhub.org/characters/donquijanon/Maria
 
 ### Olivia Smith
 
 ->![olivia](https://characterai.io/i/400/static/avatars/uploaded/2023/4/22/un-pJofieDxNqfzJWsrJi9KLr6m31NVZDH1IHojWkrg.webp)<-
 
-For all my fellow ESLs out there. This cute hockey-obsessed Canadian will help you improve you English skills. The scenario is the same as Maria. Also, her height and weight are in imperial so she can help you with conversions too.
+For all my fellow ESLs out there. This cute hockey-obsessed Canadian will help you improve your English skills. The scenario is the same as Maria. Also, her height and weight are in imperial so she can help you with conversions too.
 
 CAI: https://beta.character.ai/chat?char=t6J-8Qi1VYd1K6tAc7LIzUaRHbTXkFzJ7MaZ9lBfdtY
 Card: https://files.catbox.moe/irun48.png
+https://www.characterhub.org/characters/donquijanon/Olivia
 
 ### Queen Maika
 
@@ -163,6 +179,7 @@ The new and improved Queen Maika:
 ->![maika2](https://files.catbox.moe/w92cgm.png)<-
 
 Card: https://files.catbox.moe/w92cgm.png
+https://www.characterhub.org/characters/donquijanon/queen-maika
 *it's hip to fuck bees*
 
 ### Poe
@@ -176,11 +193,13 @@ CAI: https://beta.character.ai/chat?char=QtxU33J9qLDH65NDsb2tO0AD-avcO50pF9vJMSX
 The new and improved Poe:
 ->![poe](https://files.catbox.moe/m6ssu1.png)<-
 Card: https://files.catbox.moe/m6ssu1.png
+https://www.characterhub.org/characters/donquijanon/Poe
 
 ## Miss Rubio
 ->![rubio](https://files.catbox.moe/aggq53.png)<-
 You accidentally sent your teacher your degenerate ERP logs and now she wants to have a word with you, perhaps even more...
 Card: https://files.catbox.moe/aggq53.png
+https://www.characterhub.org/characters/donquijanon/miss-rubio
 
 ##Mexibots Batch 3 
 ### Mateo De los Ángeles Martínez. (Vicky's dad before dying)
@@ -189,6 +208,7 @@ Someone asked for him and I'm finally delivering. Sorry it took this long. This 
 
 CAI: https://beta.character.ai/chat?char=Y-BADWhvVLln6Sm5775ajVpsXjUBJDL26ri2jJAdaRY
 Card: https://files.catbox.moe/sympk1.png
+https://www.characterhub.org/characters/donquijanon/Mateo
 
 ### Lucero Itzel Cruz Dzib
 ->![Lucero](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/33cy6TAVsBb_r_4fUd-o_VGeSsm8dWawwNFezYRWlsc.webp)<-
@@ -196,6 +216,7 @@ Mexican goth girl obsessed with horror, the supernatural, and music. On todd she
 
 CAI: https://beta.character.ai/chat?char=cSomdLwvYVM11ZV411xNTbC2FcgTe5gmjU5w7xOXQL0
 Card: https://files.catbox.moe/5dow6e.png
+https://www.characterhub.org/characters/donquijanon/Lucero
 
 ### Eulalia
 ->![Eulalia](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/KwKDkgozuo-O9fD9AZnc28W_YfijGz4V138PmYAVkZ8.webp)<-
@@ -204,6 +225,7 @@ On Claude she has more SOVL but is less subtle. On Todd she's a bit more stiff b
 
 CAI: https://beta.character.ai/chat?char=s6KhZNTTMaPMouIDpvTbdbD4q5Rf4ohNqS9HjSucHCk
 Card: https://files.catbox.moe/um378r.png
+https://www.characterhub.org/characters/donquijanon/Eulalia
 
 ### Atzin
 ->![atzin](https://git.characterhub.org/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
@@ -211,6 +233,7 @@ Cheerful and optimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/chat?char=NW-eN8wjeWXy7q3K08KS6igR_8UPWcdqusTxuEvOSnU
 Card: https://www.characterhub.org/characters/donquijanon/Atzin
+https://www.characterhub.org/characters/donquijanon/Atzin
 
 ### Yohualli
 ->![yohu](https://git.characterhub.org/donquijanon/Yohualli/-/raw/c55b0a18662a4a409aad6c7cbd6069be64557c49/raw/tavern_raw.png)<-
@@ -218,6 +241,7 @@ Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl 
 
 CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
 Card: https://www.characterhub.org/characters/donquijanon/Yohualli
+https://www.characterhub.org/characters/donquijanon/Yohualli
 
 ## The Door
 ->![door](https://git.characterhub.org/donquijanon/the-door/-/raw/0067767b2212f8512c3666bd5fdeaa936de2483a/raw/tavern_raw.png)<-
@@ -251,6 +275,11 @@ https://www.characterhub.org/characters/donquijanon/review-anything
 ->![pirate](https://files.catbox.moe/y8xat6.png)<-
 You will pay nothing and you will be happy. Inspired by an anon's post. Ask her for torrents and cracks!
 https://www.characterhub.org/characters/donquijanon/Piracy-chan
+
+## Xbox Live Party
+->![xbox](https://files.catbox.moe/eovgge.png)<-
+Live out the real 2010 Xbox Live party experience!
+https://www.characterhub.org/characters/donquijanon/xbox-live-party
 
 ##Existing Characters
 ### E-123 Omega (Sonic)

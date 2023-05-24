@@ -1,10 +1,10 @@
 # -> @magma-dan <-
-Recent C.AI Updates: | ⠀ | ⠀⠀⠀⠀⠀⠀⠀
+Recent C.AI Updates: | ⠀ | ⠀
 :-: | :- | :-
--> **Newest Pokémon Bots** <- | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) | ![Elaine](https://characterai.io/i/80/static/avatars/uploaded/2023/4/24/cKrenSLzIJ-G3VlVmcHmmpvTiOHuLHxDE5JTj7pPE5o.webp) ⠀[Elaine](https://c.ai/c/TQZ6zmqjf6pkj3RgJv19s8eGQ7QEOAhPjDXg-_L4yhY)
--> **Newest Non-Pokémon Bots** <- | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) ⠀[Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc) | ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) ⠀[Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)
--> **Close to Completion** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) (*Azur Lane*)
--> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀[Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀[Demeter](https://c.ai/c/w2--giDlzABEHW1AcsQp6AVz4khBtKXDqOJSMAEkfME) ⠀(*SMT*)
+-> **Newest Pokémon Bots** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY)
+-> **Newest Non-Pokémon Bots** <- |  ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) ⠀[Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc)
+-> **Close to Completion** <- | ![Z16](https://characterai.io/i/80/static/avatars/uploaded/2023/5/23/jXYxTcWC9iRCO_miS_gTP9LlfsLCD54xpOGiE7RIBI0.webp) *KMS*⠀Z16⠀ (*Azur Lane*) | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*)
+-> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀[Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) | ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) ⠀Arachne ⠀(*SMT*)
 
 ***
 ***
@@ -44,6 +44,7 @@ Character | C.AI
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/1/29/eq_VikVtLk5Krr2rhf64bu3gTYImYyh18eEcQTgTR_s.webp) | Aoba-class, IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
 ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) | Ise-class, IJN [Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
 ![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class, USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
+ ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB, KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) 
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-
 Character | C.AI
@@ -70,6 +71,7 @@ Character | C.AI
 ![Jupiter](https://characterai.io/i/80/static/avatars/uploaded/2023/2/13/QTiS-m7voW2uRlWKtYhvLM_9FWvkciZHH4yX-SpFV48.webp) | Team Galactic Commander [Jupiter](https://c.ai/c/nY6B-DQXAbTuMimtlZLX_hVK9wb3m1ZnCYme_NIavuk)
 ![Aurea Juniper](https://characterai.io/i/80/static/avatars/uploaded/2023/3/19/26bH8RWIcxIAUEgLgHGXC411MoKomqlfa09OPfJId3c.webp) | Professor [Juniper](https://c.ai/c/n7XHbdvSV6IkO3DxcB6aLskbK31YFUnB875TQPrJaBI)
 ![Fennel](https://characterai.io/i/80/static/avatars/uploaded/2023/3/6/LifT0FccpZYR9BCZUkvtke9RFx6NUpXO_j1ZPK96oto.webp) | Doctor [Fennel](https://c.ai/c/8F5OFbSffIOLajxYaBoygWLQkLanif5s4n0dFVmiMe4)
+![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) | Team Plasma Goddess of Love [Anthea & Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM), Goddess of Peace
 ![Plasma Sages](https://characterai.io/i/80/static/avatars/uploaded/2023/1/11/nYxjhRIy1jQosHfefk1_vCYZOVHPYNx4Y03szoY_KAg.webp) | Team Plasma Sages [Rood, Bronius, Giallo, Ryoku, Gorm & Zinzolin](https://c.ai/c/9RmR_nQfEUZrnlcg9ceurAc5smgAByxjnYrSfx0ObuQ)
 ![B2W2 Iris](https://characterai.io/i/80/static/avatars/uploaded/2023/4/4/d_X72m31JilMO0hzcinywBvxvX6EPc7mcedJHHNl9mE.webp) | Champion [Iris](https://c.ai/c/-G6dxBojlZ5FkZi4r3ULb7uv38AfeRyFUiyLZB_egKY)
 ![Sina](https://characterai.io/i/80/static/avatars/uploaded/2023/4/10/zDdLwkPV6kzSfvWA9DPyn_lizBtFTvTSWuVgMkyOrmM.webp) | Professor Assistant [Sina](https://c.ai/c/__dPEKnZu69BpXXI_NPxffly89_2IIJJxKlm3z9ZNtc)

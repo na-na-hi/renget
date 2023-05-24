@@ -28,6 +28,9 @@ https://rentry.org/uvyqd
 ####Anon's Saga Guide
 https://rentry.org/How-I-do-Saga
 
+####/lmg/'s Model List
+https://rentry.org/LocalModelsLinks
+
 ####SoloRPG Guide
 https://rentry.org/SoloAI2
 https://rentry.org/AdventureModules
@@ -83,6 +86,9 @@ https://ermela.net/dumb-reformatter/
 
 ####Henk's Skein Scrape
 https://mega.nz/file/btR20KSI#crokcj5gLCD009KpH_RY3X3ebgLTt8niQarjEOVYPKU
+
+####text_adventures.txt
+https://files.catbox.moe/4msn2r.txt
 
 ###Coomer Fashion
 https://coomer-fashion.creator-spring.com/

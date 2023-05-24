@@ -9,7 +9,10 @@ Dates are relative to the US pacific time zone. Archived member streams are not 
 - _proper_: This release corrects problems in previous releases.
 - _unarchived_: The stream was planned as an unarchived event and made private immediately.
 
-I FUCKING HATE MEGA
+I FUCKING HATE MEGA PLEASE SEED
+
+Want a thumbnail? A lot of the files have it embedded. You can get it by doing the following ffmpeg command (of course replace video.mp4 and thumbnail.png with whatever names you want):
+`ffmpeg.exe -i "video.mp4" -map 0:v -map -0:V -c copy thumbnail.png `
 
 ## Table of contents
 [TOC3]
@@ -32,95 +35,114 @@ I FUCKING HATE MEGA
  
 ##### 【COUNCIL MEETING】NEW PHONE WHO DIS #holocouncil #hololiveEnglish
 _[2022-08-28](https://youtu.be/JRclI_h2H-U)_ - censored
-[Reason for censorship](https://files.catbox.moe/geitva.png)
-[magnet](magnet:?xt=urn:btih:9183d09c1f0d6bb1bc433737ea928a27138c2bb1&dn=kronii%20WTF&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce)
+[🐈 Reason for censorship](https://files.catbox.moe/geitva.png)
+[🧲 magnet](magnet:?xt=urn:btih:9183d09c1f0d6bb1bc433737ea928a27138c2bb1&dn=kronii%20WTF&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce)
 
 
-[Thanks anon](https://warosu.org/vt/thread/S8867245#p8871695)
+[🍀 warosu](https://warosu.org/vt/thread/S8867245#p8871695)
 
 #### September 2021
 
 ##### 【Kalimba ASMR】 Unarchived Kalimba Concert! 🌿 #holoCouncil
-_[2021-09-01](https://youtu.be/voPm-QiHmZs)_
+_[2021-09-01](https://youtu.be/voPm-QiHmZs)_ - unarchived
 
-[magnet](magnet:?xt=urn:btih:d4e289ac7bcda3db885082d5f953d33236b30b22&dn=%5bHololive%20EN%20-%20Ceres%20Fauna%20Ch.%5d%20%e3%80%90Kalimba%20ASMR%e3%80%91%20Unarchived%20Kalimba%20Concert!%20%23holoCouncil%20%5b2021-09-02%5d%20.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce)
+[🧲 magnet](magnet:?xt=urn:btih:d4e289ac7bcda3db885082d5f953d33236b30b22&dn=%5bHololive%20EN%20-%20Ceres%20Fauna%20Ch.%5d%20%e3%80%90Kalimba%20ASMR%e3%80%91%20Unarchived%20Kalimba%20Concert!%20%23holoCouncil%20%5b2021-09-02%5d%20.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce)
+
+##### 【Fauna's ASMR】 Cozy Autumn ASMR 🍂 Crinkley & Comfy #holoCouncil \[Ceres Fauna Ch. hololive-EN\] (2hgwPt5kmZc)
+[2021-09-22](https://www.youtube.com/watch?v=2hgwPt5kmZc) - censored
+censored due to tummy noises
+
+[🧲 magnet](magnet:?xt=urn:btih:9703e9d1ac1951e4c6191f60d833b17d0da581b5&dn=%5b2021-09-22%5d%20%e3%80%90Fauna%27s%20ASMR%e3%80%91%20Cozy%20Autumn%20ASMR%20%f0%9f%8d%82%20Crinkley%20%26%20Comfy%20%23holoCouncil&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443)
+
 
 #### October 2021
+
 
 ##### 【Unarchived Karaoke】 singing my kirin heart out #holoCouncil
 _[2021-10-15](https://youtu.be/JKxGMi9xWj0)_ - unarchived
 
-[mega](https://mega.nz/folder/ImhG1R7K#HPb1aRNorlhSnC2_ly65JA)
+[🐈thumbnail](https://files.catbox.moe/jtxjfr.JPG)
+[🔴mega](https://mega.nz/folder/ImhG1R7K#HPb1aRNorlhSnC2_ly65JA)
+[🧲 magnet](magnet:?xt=urn:btih:84802c1605b756bb2c88e9d3c4ea5c77a860e2bc&dn=Ceres%20Fauna%20Ch.%20hololive-EN_20211015_%e3%80%90Unarchived%20Karaoke%e3%80%91%20singing%20my%20kirin%20heart%20out%20%23holoCouncil&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969)
 
 ##### 【Resident Evil 7】 no more scary bugs #holoCouncil \[need to download still\]
-_[2021-10-20](https://youtu.be/F1z9jqTWBmo)_ - privated
+_[2021-10-20](https://youtu.be/F1z9jqTWBmo)_ - unlisted
+was privated before but is back up now
 
 [ragtag](https://archive.ragtag.moe/watch?v=4glBVtNOjJY)
 
 ##### 【Unarchived Halloween Karaoke】 Let's party!!! 🎃 #holoCouncil 
 _[2021-10-30](https://youtu.be/VDWxsqu6e1Y)_ - unarchived
 
-[magnet](magnet:?xt=urn:btih:1b37302b9c153a22edf14dd93c4965f7157dff00&dn=%5b20211030%5d%e3%80%90Unarchived%20Halloween%20Karaoke%e3%80%91%20Let%27s%20party!!!%20%f0%9f%8e%83%20%23holoCouncil-VDWxsqu6e1Y.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce)
+[🧲 magnet](magnet:?xt=urn:btih:1b37302b9c153a22edf14dd93c4965f7157dff00&dn=%5b20211030%5d%e3%80%90Unarchived%20Halloween%20Karaoke%e3%80%91%20Let%27s%20party!!!%20%f0%9f%8e%83%20%23holoCouncil-VDWxsqu6e1Y.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce)
 
 #### November 2021
 
 ##### 【MINECRAFT】 kill ender dragon (speedrun practice) #holoCouncil
 _[2021-11-03](https://youtu.be/ixjTf_QwSaM)_ - privated
-Privated because of file explorere yab
+Privated because of file explorer yab
 
-[mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/TJhz1SAb)
+[🔴 mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/TJhz1SAb)
+[🧲 magnet](magnet:?xt=urn:btih:0dcc8f5f0e46717a044a7f5b7178e6f059dc72b5&dn=%5b2021-11-03%5d%20%e3%80%90MINECRAFT%e3%80%91%20kill%20ender%20dragon%20(speedrun%20practice)%20%23holoCouncil%20-%20%5bixjTf_QwSaM%5d%20-%20%5b20211103%5d&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80)
 
 [🐈 part 1](https://files.catbox.moe/geyznx.mp4) [🐈 part 2](https://files.catbox.moe/bbautd.mp4) [🐈 part 3](https://files.catbox.moe/5r4n9l.mp4)
 
 
 #####【Fauna's ASMR??】 ASMR Machine Broke :( Chatting quietly #holoCouncil
-_[2021-11-08](https://youtu.be/ewxmRPjLS5U)_ - privated
+_[2021-11-09](https://holodex.net/watch/ewxmRPjLS5U)_ - privated
+Original title: 【Fauna's ASMR】 Rambling to you~ 🌿 Brushies & Chatty ASMR #holoCouncil
+As title states, ASMR machine broke so she chatted with her normal microphone softly. 
 
-[mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/uB4TwaqY)
+[🧲 magnet](magnet:?xt=urn:btih:1483f9f9f949b04ef0b6f21a70fc56825f88b3a1&dn=%5b2021-11-09%5d%20%e3%80%90Fauna%27s%20ASMR%e3%80%91%20Rambling%20to%20you~%20%f0%9f%8c%bf%20Brushies%20%26%20Chatty%20ASMR%20%23holoCouncil%20-%20%5bewxmRPjLS5U%5d&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443)
 
 
 ##### 【Members Unarchived Karaoke】 Let's practice singing together! #holoCouncil
 _[2021-11-16](https://youtu.be/gFVUTChIJzQ)_ - unarchived
 
-[magnet](magnet:?xt=urn:btih:1beb7b4d4080369a40109c1ce44139fbf643b8b0&dn=hololive%20-%20%5B20211117%5D%E3%80%90Members%20Unarchived%20Karaoke%E3%80%91%20Let%27s%20practice%20singing%20together%21%20%23holoCouncil%20%5BCeres%20Fauna%20Ch.%20hololive-EN%5D%20%28gFVUTChIJzQ%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
+[🧲 magnet](magnet:?xt=urn:btih:1beb7b4d4080369a40109c1ce44139fbf643b8b0&dn=hololive%20-%20%5B20211117%5D%E3%80%90Members%20Unarchived%20Karaoke%E3%80%91%20Let%27s%20practice%20singing%20together%21%20%23holoCouncil%20%5BCeres%20Fauna%20Ch.%20hololive-EN%5D%20%28gFVUTChIJzQ%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
 
-[mega](https://mega.nz/file/XOhygQIb#9VOs7CO_IGdp7SCWa8QuwtPD8Ucf4SmUUMT3CJiimx8)
+[🔴 mega](https://mega.nz/file/XOhygQIb#9VOs7CO_IGdp7SCWa8QuwtPD8Ucf4SmUUMT3CJiimx8)
 
 #### December 2021
 
 ##### 【ASMR】 Heartbeat ASMR 💚 Listen while I brush your hair~ #holoCouncil 
 _[2021-12-15](https://youtu.be/kgwdYFEr6jc)_ - privated
 
-[magnet](magnet:?xt=urn:btih:3b6bcc99ba429241580f189d2faacbc2ca8f3068&dn=Ceres%20Fauna%20ASMR%20Privated%20Stream%2015-12-21&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=http%3a%2f%2fvps02.net.orel.ru%3a80)
+[🧲 magnet](magnet:?xt=urn:btih:fba9f7aacd8177634d96772b04eab075345a652b&dn=%5b2021-12-15%5d%20%5b20211215%5d%e3%80%90ASMR%e3%80%91%20Heartbeat%20ASMR%20%f0%9f%92%9a%20Listen%20while%20I%20brush%20your%20hair~%20%23holoCouncil%20%5bCeres%20Fauna%20Ch.%20hololive-EN%5d%20(kgwdYFEr6jc)&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710)
 
-[mega](https://mega.nz/file/SH5HRYBZ#P9etAN9Pok60uEn2eF5-lLJR39ug59_4pxdnJORjHg0)
+[🔴 mega](https://mega.nz/file/SH5HRYBZ#P9etAN9Pok60uEn2eF5-lLJR39ug59_4pxdnJORjHg0)
 
 ##### 【Resident Evil 7】 Bad End Unlocked..? Running for my life with Bae #holoCouncil 
-_[2021-12-16](https://youtu.be/KYhd82W2Rlg)_ - privated
-A lot of resident evil streams were privated. Probably a perm issue.
+_[2021-12-17](https://youtu.be/KYhd82W2Rlg)_ - unlisted
+A lot of resident evil streams were privated. Probably a perm issue. Back up now and is unlisted
 
-[mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/fdxTEALC)
+[🔴 mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/fdxTEALC)
+[🧲 magnet](magnet:?xt=urn:btih:cca52f95a4a5c346589deda475d21d27b4901f22&dn=%5b2021-12-17%5d%20%e3%80%90Resident%20Evil%207%e3%80%91%20Bad%20End%20Unlocked.._%20Running%20for%20my%20life%20with%20Bae%20%23holoCouncil%20-%20%5bKYhd82W2Rlg%5d&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969)
 
 ##### 【CHRISTMAS KARAOKE】 Singing Christmas songs for you! 🎄 【Unarchived】 #holoCouncil 
 _[2021-12-25](https://youtu.be/APQFW6GQmjY)_ - unarchived
-
+I don't have original quality for this one. Only a download of a reupload.
+[🐈 thumbnail](https://files.catbox.moe/iu5zex.webp)
 [youtube](https://www.youtube.com/watch?v=Fd6_39ppOcs)
 [🐈 archive](https://files.catbox.moe/fb027c.mkv)
-[thumbnail](https://files.catbox.moe/iu5zex.webp)
+[🧲 magnet](magnet:?xt=urn:btih:d09f22f0a69f1999e5267743a54170f18e1b6956&dn=%5b2021-12-25%5d%20%e3%80%90CHRISTMAS%20KARAOKE%e3%80%91%20Singing%20Christmas%20songs%20for%20you!%20%20%e3%80%90Unarchived%e3%80%91%20%23holoCouncil%20%5bFd6_39ppOcs%5d&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443)
+
 
 
 ##### 【UNARCHIVED KARAOKE】 New Years RELAY 🎊 HAPPY 2022 #HoloENNYRelay
 _[2021-12-31](https://youtu.be/d1C-at0rh-I)_ - unarchived
 
-[magnet](magnet:?xt=urn:btih:bec731e3d46792107ddd003cb2df91a2ba7daca3&dn=Hololive%20EN%202022%20NEW%20YEARS%20KARAOKE%20RELAY&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+[🧲 magnet](magnet:?xt=urn:btih:bec731e3d46792107ddd003cb2df91a2ba7daca3&dn=Hololive%20EN%202022%20NEW%20YEARS%20KARAOKE%20RELAY&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
 ### 2022
 
 #### January 2022
 
 ##### 【UNARCHIVED KARAOKE】 IT'S DEFINITELY CHRISTMAS KARAOKE #holoCouncil 
-_[2022-01-09](https://youtu.be/yK6EYSMAtiw)_ - unarchived
+_[2022-01-10](https://youtu.be/yK6EYSMAtiw)_ - unarchived
 
+this is a magnet of an archive of the below youtube link. i dont have the original 
+[🧲 magnet](magnet:?xt=urn:btih:c39b1ce1cd01118a66eecce50a3c5239b1ef98fb&dn=%5b2022-01-10%5d%20%e3%80%90UNARCHIVED%20KARAOKE%e3%80%91%20IT%27S%20DEFINITELY%20CHRISTMAS%20KARAOKE%20%5bF3ohAQL3T6g%5d&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80)
 [youtube](https://www.youtube.com/watch?v=F3ohAQL3T6g)
 
 #### February 2022
@@ -128,6 +150,8 @@ _[2022-01-09](https://youtu.be/yK6EYSMAtiw)_ - unarchived
 #####【KU100 KARAOKE】 Singing (softly?) with MAXIMUM sensitivity mic 🗿 Happy Valentine's Day! [Unarchived]
 _[2022-02-14](https://youtu.be/w7KST_fa-io)_ - unarchived
 
+This is a backup torrent of the below youtube video. I don't have the original
+[🧲 magnet](magnet:?xt=urn:btih:f0ba6e33a263b9760d51749b6ef713c275d174c2&dn=%5b2022-02-14%5d%20%e3%80%90KU100%20KARAOKE%e3%80%91%20Singing%20(softly_)%20with%20MAXIMUM%20sensitivity%20mic%20%f0%9f%97%bf%20Happy%20Valentine%27s%20Day!%20%5bUnarchived%5d-%5bw7KST_fa-io%5d&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961)
 [youtube](https://www.youtube.com/watch?v=EeqdQgEfQHY)
 
 ##### 【KARAOKE】Off COLLAB(Fauna, Mumei, Ina, Kronii) IKZ 
@@ -175,7 +199,7 @@ Set list:
 _[2022-03-15](https://youtu.be/UnURUA5ES00)_ - privated
 Some fag in chat said that they could hear her neighbors so she privated it. 
 
-[mega](https://mega.nz/file/Pls0CTZb#higt8q6SUs9-tN-UaOH3ueV5jUJNTxT3WSin_AMKD6o)
+[🔴 mega](https://mega.nz/file/Pls0CTZb#higt8q6SUs9-tN-UaOH3ueV5jUJNTxT3WSin_AMKD6o)
 [🧲 magnet](magnet:?xt=urn:btih:f2a00ca86bbb4317e03833cd682e3039935f00e4&dn=%5b2022-03-15%5d%20kirin%20home&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969)
 
 #### April 2022
@@ -208,6 +232,15 @@ Setlist (timestamps for the youtube upload)
 1:14:40 Panic! At The Disco - The Only Difference Between Martyrdom and Suicide Is Press Coverage
 1:17:50 The All-American Rejects - It Ends Tonight
 
+#### May 2022
+
+##### Anime Boston 2022 Panel with Kronii
+[2022-05-28] - audience recording
+Kronii + Fauna and Ollie + Reine panels.
+[🧲 magnet](magnet:?xt=urn:btih:a14649c3df303ba4218e0e5815cbc33689afdd45&dn=Anime%20Boston%202022&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443)
+
+
+
 #### June 2022
 
 ##### 【unarchived】 uuuuuuuuuuuu
@@ -215,8 +248,8 @@ _[2022-06-07](https://youtu.be/pDgG9hYjzNM)_ - unarchived
 
 [🧲 magnet](magnet:?xt=urn:btih:43dec0fb6c27135d4ac9549f750c75ab9a14b7ae&dn=%5b20220608%5d%20Unarchived%20Karaoke&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce)
 
-[thumbnail](https://files.catbox.moe/aojgt3.jpg)
-[description](https://files.catbox.moe/owwy33.txt)
+[🐈 thumbnail](https://files.catbox.moe/aojgt3.jpg)
+[🐈description](https://files.catbox.moe/owwy33.txt)
 
 [= w=)b](https://warosu.org/vt/thread/S25716705#p25718594)
 
@@ -262,9 +295,9 @@ Set list (stream starts at 1:10):
 
 ##### 【600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!
 _[2022-08-05](https://youtu.be/pOVeFcCzKqA)_ - unarchived
-[🧲 magnet](magnet:?xt=urn:btih:4d4765ffd0c64a1dfb08bd9715764e810dd1d221&dn=%5B20220806%5D%20Unarchived%20600k%20Celebration%20Karaoke&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce)
 
-[thumbnail](https://files.catbox.moe/ms76kt.webp)
+[🧲 magnet](magnet:?xt=urn:btih:4d4765ffd0c64a1dfb08bd9715764e810dd1d221&dn=%5B20220806%5D%20Unarchived%20600k%20Celebration%20Karaoke&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce)
+[🐈 thumbnail](https://files.catbox.moe/ms76kt.webp)
 
 [= w=)b](https://warosu.org/vt/thread/S30163791#p30165017)
 
@@ -309,12 +342,14 @@ _[2022-08-07](https://youtu.be/azqrQ3KPFjs)_ - privated
 
 [🐈 archive](https://files.catbox.moe/0kxuhu.mp4)
 [🐈 thumbnail](https://files.catbox.moe/095205.jfif)
+[🧲 magnet](magnet:?xt=urn:btih:9061dd89b4d03c6e4778d50297cd3d6fc87d6689&dn=%5b2022-08-07%5d%20%e3%80%90KU100%20ASMR%e3%80%91%20Lap%20Pillow%20%20Ear%20Cleaning%20ASMR%20%e2%99%a1%20Ear%20Pick%2c%20Cotton%20Swab%2c%20Brushing%2c%20%20Ear%20Blowing%20%5bazqrQ3KPFjs%5d&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443)
 
 
 ##### 【MARIO KART 8DX】 New DLC with Friends!
 _[2022-08-9](https://youtu.be/n2u6Pm4f3aU)_ - privated
 Stream cut out so she privated it and continued playing without her perspective
 
+[🧲 magnet](magnet:?xt=urn:btih:1ad324aabe89e021d71bfdad8e1d4a01aa3a3b0b&dn=%5b2022-08-09%5d%20%e3%80%90MARIO%20KART%208DX%e3%80%91%20New%20DLC%20with%20Friends!%20_%20n2u6Pm4f3aU&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969)
 [🐈 part 1](https://files.catbox.moe/bw1gi4.mp4) [🐈 part 2](https://files.catbox.moe/y7gkvi.mp4) [🐈 part 3](https://files.catbox.moe/u3lheg.mp4) 
 [🐈 thumbnail](https://files.catbox.moe/5fknof.jfif)
 
@@ -382,10 +417,19 @@ Incomplete songs:
 CHVRCHES - The Mother We Share (first verse only; 1:42:10)
 Green Day - Wake Me Up When September Ends (1:58:58)
 
-##### ≪Resident Evil Village: SHADOWS OF ROSE≫ BABY ROSE IS BACK w/ Fauna \[missing\]
+##### ≪Resident Evil Village: SHADOWS OF ROSE≫ BABY ROSE IS BACK w/ Fauna
 _[2022-11-18](https://youtu.be/hvCuUvk5zp0)_ - privated
 
-[mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/6EgUiYDa)
+[🔴 mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/6EgUiYDa)
+[🧲 magnet](magnet:?xt=urn:btih:cb772d6bd755ed81be1e93bffd81e8587bfc8048&dn=%5b2022-11-19%5d%20%e2%89%aaResident%20Evil%20Village_%20SHADOWS%20OF%20ROSE%e2%89%ab%20BABY%20ROSE%20IS%20BACK%20w_%20Fauna%20-%20%5bhvCuUvk5zp0%5d&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969)
+
+#### November 2022
+
+##### Anime NYC 2022 Panel with Kiara
+[2022-11-19?] - audience recordings
+
+[🧲 magnet](magnet:?xt=urn:btih:450e49ada1156e02ef5c59f8339c1fe766b14885&dn=Anime%20NYC%202022&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969)
+Consists of Ame, BaeRyS, Chicken Salad, Kronii, and Mori's "panels". Also some extra pictures and the omikuji slips.
 
 #### December 2022
 
@@ -438,6 +482,7 @@ Christmas karaoke
 ##### 【UNARCHIVED KARAOKE】 Singing til the new year!!!
 _[2022-12-31](https://youtu.be/iSZfA1X-lzE)_ - unarchived
 Unarchived new years karaoke with Bae and Mumei
+
 [🧲 magnet](magnet:?xt=urn:btih:435217187aec390c620d63245e36ec34bbc15338&dn=%5B20230101%5D%20Unarchived%20New%20Year%27s%20Eve%20Off-Collab%20Karaoke&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
 [audio only mega](https://mega.nz/file/Itwm0ZgQ#RToZYo-0ie12WT7vTjXDmBXvJX5ftLwHBomfmJBSa0g)
 
@@ -474,8 +519,8 @@ Set list (stream starts at 3:44):
 ##### 【KU100 ASMR】 KU100 is back ♡ Assorted triggers ASMR ♡ Ear cleaning, tapping, & more!
 _[2023-01-28](https://youtu.be/qrHe-Ay4s3E)_ - privated
 Privated because she wasn't satisfied with her performance.
-[🐈 part 1](https://files.catbox.moe/voi72u.mp4) [🐈 part 2](https://files.catbox.moe/i1obfn.mp4) [🐈 part 3](https://files.catbox.moe/1m94bq.mp4) [🐈 part 4](https://files.catbox.moe/haxupk.mp4) 
 
+[🧲 magnet](magnet:?xt=urn:btih:852d285f95c5fd8f5fbafee626ca41488ec1a07c&dn=%5b2023-01-28%5d%20%e3%80%90KU100%20ASMR%e3%80%91%20KU100%20is%20back%20%e2%99%a1%20Assorted%20triggers%20ASMR%20%e2%99%a1%20Ear%20cleaning%2c%20tapping%2c%20%26%20more!%20%5bqrHe-Ay4s3E%5d&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.openzim.org%3a80)
 [🐈 audio only](https://files.catbox.moe/nd9qrj.mp3)
 [🐈 thumbnail](https://files.catbox.moe/fz650d.jpg) 
 [🐈 description](https://files.catbox.moe/bprom3.txt)
@@ -593,6 +638,7 @@ Fauna birthday countdown karaoke
 [🧲 magnet](magnet:?xt=urn:btih:64e4b22f8400821ca15ed20d4616ca4f20831375&dn=%5B20230321%5D%20Unarchived%20Pre-Birthday%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
 [mega audio only](https://mega.nz/file/kgAkAA5R#OlHcGUs89EdEWbTsLugDg0uykW9VOGT0D3HlzmVuIe4)
 [🐈 audio only catbox](https://files.catbox.moe/hl48ct.mp3)
+
 Set list (stream starts at 0:54):
 1. Taylor Swift - Look What You Made Me Do (6:57)
 2. No Doubt - Don't Speak (12:24)
@@ -641,12 +687,14 @@ Number of fragments: 10344
 #####【KU100 ASMR】 Soft Whispers & Relaxing Lullabies ♡ Kalimba Playing ♡
 [2023-04-06](https://www.youtube.com/watch?v=IiwPYmF6lAw) - privated
 neighbor noises autism
+
+[🧲 magnet](magnet:?xt=urn:btih:1ef587aef8f70bab3c12dff271d812b3d5b267ae&dn=%5b2023-04-06%5d%20%e3%80%90KU100%20ASMR%e3%80%91%20Soft%20Whispers%20%26%20Relaxing%20Lullabies%20%e2%99%a1%20Kalimba%20Playing%20%e2%99%a1%20%5bIiwPYmF6lAw%5d&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80)
+[🔴 mega](https://mega.nz/folder/OMICxQyB#yKbNaVk5Cxp5sd_CbuuTIQ)
 [gofile](https://gofile.io/d/fHSFG1)
-[mega](https://mega.nz/folder/OMICxQyB#yKbNaVk5Cxp5sd_CbuuTIQ)
 [google drive](https://drive.google.com/drive/folders/1mN4yuqWze4gfACO5Netr7vQE5KREr2s_?usp=share_link)
+
 [🐈 part 1](https://files.catbox.moe/uqhf47.mp4) [🐈 part 2](https://files.catbox.moe/r6bw0e.mp4) [🐈 part 3](https://files.catbox.moe/csrl0i.mp4)
 [🐈 audio only](https://files.catbox.moe/j5gjxv.mp3)
-
 [🐈 thumbnail](https://files.catbox.moe/bkzxtq.png)
 
 
@@ -659,10 +707,10 @@ https://twitter.com/ceresfauna/status/1651469520278781954
 
 #### May 2023
 
-#### 【UNARCHIVED KARAOKE】 Singing before my break!!
+##### 【UNARCHIVED KARAOKE】 Singing before my break!!
 [2023-05-13](https://holodex.net/watch/p9QEEpK9EdQ) - unarchived
-[magnet](magnet:?xt=urn:btih:38e9e511a91ce843fd281fafba79346a29f43af0&dn=%5B20230513%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
-[audio only mega](https://mega.nz/file/l9J0wR7B#LBJSN2eGZ86f_ydhnm2arU_0_VcrzsVexNxgpNMlIKA)
+[🧲 magnet](magnet:?xt=urn:btih:38e9e511a91ce843fd281fafba79346a29f43af0&dn=%5B20230513%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[🔴 audio only mega](https://mega.nz/file/l9J0wR7B#LBJSN2eGZ86f_ydhnm2arU_0_VcrzsVexNxgpNMlIKA)
 
 Set list (stream starts at 0:55):
 1. Gorillaz - Feel Good Inc. (3:26)
@@ -698,3 +746,5 @@ Set list (stream starts at 0:55):
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+suggestions? issues? no seeds? contact here: ILRTYVW@proton.me

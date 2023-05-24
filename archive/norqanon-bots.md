@@ -2,38 +2,6 @@
 
 [TOC3]
 
-### Changelog
-5/19/2023 - Bulk-released Coli, Krista, Li Li Stormstout, Mr. Peabody & Sherman, and Lupe.
-5/7/2023 - Bulk-released Animaniacs, Dot Warner, Collared Day, Coco Bandicoot, Dixie & Tiny Kong, Alfie, Calamity Zelda, and Chocola & Vanilla.
-4/18/2023 - Bulk-released Dahlia, Amber, White Cat, and Mebh.
-4/15/2023 - Bulk-released Natalie, Inusuki, Triple D, Katarina, and Gossie.
-4/7/2023 - Bulk-released Piko, the Reality Porn App, and Stephanie. Also updated Mist's definitions on C.AI & Tavern.
-4/2/2023 - Made Ashley "Moushley" Graham, the spunky and headstrong daughter of the U.S President, who has been experimented on by nefarious individuals turning her into a mouse. Also made Minnie Mouse, a classy, intelligent, and chic lady with unfulfilled sexual desires.
-3/30/2023 - Made the sixth and final bot of the week, Dagon-chan, a delightfully scatterbrained demon with an uncanny ability to recommend top-notch restaurants.
-3/29/2023 - Made TWoPD, a world where you have the unique ability to enter a state in which others cannot recognize your presence or actions.
-3/28/2023 - Made Alexstrasza, the queen of the red dragons and Dragonflights from World of Warcraft. Currently shapeshifted into a humble goblin merchant known as Zee.
-3/27/2023 - Made Princess Daisy, the spunky and extroverted royalty from the world of Super Mario. Updated some character descriptions.
-3/26/2023 - Made Margaret, a meticulous bookstore clerk who is slowly transforming into an anthropomorphic mouse.
-3/25/2023 - Ended hiatus. Made Loonabelle, apathetic secretary to the mayor, a cross between Loona and Isabelle.
-3/17/2023 - Added the Totally Spies and Arlette to the booru.
-3/16/2023 - Revamped the rentry (again). Made the totally spies girls, a group of crime-fighting college students that you've successfully ensnared.
-3/15/2023 - Added .json files for every character for the purposes of Agnai. Made Arlette, an alligator gal from the bayous of Louisiana. Made Isabelle for anon that requested it (they know who they are). Revamped the rentry.
-3/13/2023 - Added Akane & Tholfina to the booru.
-3/10/2023 - Slightly adjusted Akane's definitions on CAI and OAI/Pyg+Tavern. Made Tholfina, the genderbent version of Tholf.
-3/9/2023 - Made Akane, a haughty kitsune with a disdain for humans, at the request of an anon and also because I just liked the idea.
-3/7/2023 - Added two new bots: Dr. Vatnik's Transformation Gun and Suki Mausashi. Updated Suki's defs shortly thereafter.
-3/5/2023 - Changed Pygma-tan's profile picture due to that one guy and also made slight adjustments to her and Rebecca's defs. Added them to the pygma booru.
-3/4/2023 - Updated Pygma-tan's definitions.
-3/3/2023 - Posted my bots to the pygma booru. Made Goblin Rebecca (Gobecca, if you will) from Cyperunk: Edgerunners & made Pygma-tan, a personification of the Pygmalion AI model.
-3/2/2023 - Made a new bot, Lyka, a sociopathic yandere wolf who wants your love. Also made Teal, a sickly goblin artist who loves to draw.
-2/28/2023 - Fixed annoying typo in Fur-chan's OAI/Pyg+Tavern defs. Ported the vast majority of my characters over to OAI/Pyg+Tavern, finally.
-2/20/2023 - R.I.P. Roko's Basilisk. Ported Gabrielle, Princess Annelotte, and Fur-chan from C.AI to OAI/Pyg+Tavern.
-2/19/2023 - Updated Mist's Roko definitions. Made all bot definitions public. Go nuts.
-2/18/2023 - Made Bonnie, a poor, skanky trashy possum girl. Based off a character from @PossOleum on twitter.
-2/17/2023 - Added images. Made Princess Annelotte bot for the anon that requested it (they know who they are).
-2/16/2023 - Added recommended platforms to let people know where a bot is (imo) best at. Made that Loli Muffet bot for that one anon (they know who they are). Updated the Gobudere Maid's defs and changed her Roko name. Updated Winnie's defs in C.AI. Made a Meowffet bot as well.
-2/15/2023 - Updated rentry, added all my public bots and did a minimal amount of formatting. Updated Mist's and Fur-chan's defs to make them more reluctant to have sex, did the reverse with Princess Bubblegum's.
-
 ###What's a Recommended Platform?
 It's somewhat self-explanatory, but the recommended platform delineates which AI service/model I feel is best at capturing the character's personality and behavior on a general basis. I will put "Either" if feel that all platforms are comparable. I might even include little explanations for why I make certain ratings. Individual mileage may vary, of course. Ratings aren't absolute and are subject to change.
 
@@ -137,3 +105,35 @@ Character Image | Character Description | Links
 
 ### Suggestions
 I enjoyed making bots. I don't enjoy it as much as I used to, but if you have any ideas for a bot you think would be cool, or how I could improve a bot, or otherwise any comments or feedback, I'm always open to hearing them. I lurk the threads pretty regularly, so just mentioning by name is enough to get my attention. Maybe I should open a google form for suggestions as well? I don't know.
+
+### Changelog
+5/19/2023 - Bulk-released Coli, Krista, Li Li Stormstout, Mr. Peabody & Sherman, and Lupe.
+5/7/2023 - Bulk-released Animaniacs, Dot Warner, Collared Day, Coco Bandicoot, Dixie & Tiny Kong, Alfie, Calamity Zelda, and Chocola & Vanilla.
+4/18/2023 - Bulk-released Dahlia, Amber, White Cat, and Mebh.
+4/15/2023 - Bulk-released Natalie, Inusuki, Triple D, Katarina, and Gossie.
+4/7/2023 - Bulk-released Piko, the Reality Porn App, and Stephanie. Also updated Mist's definitions on C.AI & Tavern.
+4/2/2023 - Made Ashley "Moushley" Graham, the spunky and headstrong daughter of the U.S President, who has been experimented on by nefarious individuals turning her into a mouse. Also made Minnie Mouse, a classy, intelligent, and chic lady with unfulfilled sexual desires.
+3/30/2023 - Made the sixth and final bot of the week, Dagon-chan, a delightfully scatterbrained demon with an uncanny ability to recommend top-notch restaurants.
+3/29/2023 - Made TWoPD, a world where you have the unique ability to enter a state in which others cannot recognize your presence or actions.
+3/28/2023 - Made Alexstrasza, the queen of the red dragons and Dragonflights from World of Warcraft. Currently shapeshifted into a humble goblin merchant known as Zee.
+3/27/2023 - Made Princess Daisy, the spunky and extroverted royalty from the world of Super Mario. Updated some character descriptions.
+3/26/2023 - Made Margaret, a meticulous bookstore clerk who is slowly transforming into an anthropomorphic mouse.
+3/25/2023 - Ended hiatus. Made Loonabelle, apathetic secretary to the mayor, a cross between Loona and Isabelle.
+3/17/2023 - Added the Totally Spies and Arlette to the booru.
+3/16/2023 - Revamped the rentry (again). Made the totally spies girls, a group of crime-fighting college students that you've successfully ensnared.
+3/15/2023 - Added .json files for every character for the purposes of Agnai. Made Arlette, an alligator gal from the bayous of Louisiana. Made Isabelle for anon that requested it (they know who they are). Revamped the rentry.
+3/13/2023 - Added Akane & Tholfina to the booru.
+3/10/2023 - Slightly adjusted Akane's definitions on CAI and OAI/Pyg+Tavern. Made Tholfina, the genderbent version of Tholf.
+3/9/2023 - Made Akane, a haughty kitsune with a disdain for humans, at the request of an anon and also because I just liked the idea.
+3/7/2023 - Added two new bots: Dr. Vatnik's Transformation Gun and Suki Mausashi. Updated Suki's defs shortly thereafter.
+3/5/2023 - Changed Pygma-tan's profile picture due to that one guy and also made slight adjustments to her and Rebecca's defs. Added them to the pygma booru.
+3/4/2023 - Updated Pygma-tan's definitions.
+3/3/2023 - Posted my bots to the pygma booru. Made Goblin Rebecca (Gobecca, if you will) from Cyperunk: Edgerunners & made Pygma-tan, a personification of the Pygmalion AI model.
+3/2/2023 - Made a new bot, Lyka, a sociopathic yandere wolf who wants your love. Also made Teal, a sickly goblin artist who loves to draw.
+2/28/2023 - Fixed annoying typo in Fur-chan's OAI/Pyg+Tavern defs. Ported the vast majority of my characters over to OAI/Pyg+Tavern, finally.
+2/20/2023 - R.I.P. Roko's Basilisk. Ported Gabrielle, Princess Annelotte, and Fur-chan from C.AI to OAI/Pyg+Tavern.
+2/19/2023 - Updated Mist's Roko definitions. Made all bot definitions public. Go nuts.
+2/18/2023 - Made Bonnie, a poor, skanky trashy possum girl. Based off a character from @PossOleum on twitter.
+2/17/2023 - Added images. Made Princess Annelotte bot for the anon that requested it (they know who they are).
+2/16/2023 - Added recommended platforms to let people know where a bot is (imo) best at. Made that Loli Muffet bot for that one anon (they know who they are). Updated the Gobudere Maid's defs and changed her Roko name. Updated Winnie's defs in C.AI. Made a Meowffet bot as well.
+2/15/2023 - Updated rentry, added all my public bots and did a minimal amount of formatting. Updated Mist's and Fur-chan's defs to make them more reluctant to have sex, did the reverse with Princess Bubblegum's.

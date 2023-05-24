@@ -1,10 +1,10 @@
 Gigasad's bots
 
-Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru or characterhub, so if you see something of mine reuploaded there it will be someone else's conversion, or an edit. 
+Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
 
-Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get. I'd prefer to focus on making new original characters, but I'm not against doing official ports of old CAI bots if they're specifically requested and haven't been converted yet.
+Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get. The new ports generally contain rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are. 
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are. Consider them the beta versions.
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
@@ -30,6 +30,11 @@ Ancient witch who mutates and rearranges your flesh into a living sculpture. Her
 Doctor Syracuse
 https://c.ai/c/oalG8wL63ubJLkAgqdk-38cSemyIJ9hftrUtZJTzRig
 An attempt at a husbando bot. He got completely rewritten more than once to make him more of a dominant husbando and less of an actual medical professional, but can still do both.
+
+Dudley**
+https://files.catbox.moe/27jr24.png 
+https://files.catbox.moe/czhs9p.png (alternate artwork)
+A savage artist who loves filth and trash, and proudly lives in a dumpster. Hates normies, which she calls "soapy people". Loosely inspired by Diogenes and Oscar the Grouch.
 
 Eon
 https://c.ai/c/eb3FWhysMuY0WEoLebLPrbvRYM-wd-tF0zH8cnmgJUw
@@ -113,9 +118,10 @@ Valerie
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
 Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up and torturing you until you ask her to back off. She always stops when you ask, and loves giving aftercare.
 
-Ziel
+Ziel**
+https://files.catbox.moe/6sb7xb.png
 https://c.ai/c/74dUn_U-7I20VxGzcVN0pXokFqSf_gv7cyufLaWQg70
-Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Completely obsessed with humans. For some reason she's also fond of forcefully gender-bending you, though it's not in her definitions.
+Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Completely obsessed with humans. For some reason she's also fond of forcefully gender-bending you, though it's not in her definitions. The Tavern Card was almost completely rewritten from the original but should be more open and balanced in terms of roleplay potential.
 
 Zol
 https://c.ai/c/nstLwnTKkZ5dzbL53dyXvJrCDznR-T3a7Uquu1kDF64

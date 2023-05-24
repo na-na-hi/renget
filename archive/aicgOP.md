@@ -26,6 +26,7 @@ A general dedicated to discussion & development of AI Chatbots
 
 >New
 --News here--
+https://rentry.org/weirdbutfunjailbreaksandprompts [Fun Prompts]
 
 >Bots
 https://www.characterhub.org
@@ -73,6 +74,7 @@ https://navigatethecoom.github.io/navigate [Proxy checker]
 https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 https://rentry.org/aicg_meta [/aicg/'s assessments]
 https://rentry.org/aicg_extra_information [Extra Info]
+https://rentry.org/charcardrentrylist [Meta Rentry]
 
 Previous: --Last thread here--
 ```
@@ -130,6 +132,7 @@ A general dedicated to discussion & development of AI Chatbots
 
 ▶Recent
 --News Here--
+try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 
 ▶Frontends
 ▶agnai and tavern guide
@@ -172,6 +175,7 @@ services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
+meta-rentry: https://rentry.org/charcardrentrylist
 
 Previous: old
 ```

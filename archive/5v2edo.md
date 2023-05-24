@@ -31,7 +31,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Chef GF](https://files.catbox.moe/bhvic7.zip)
 [Rapper GF](https://files.catbox.moe/suwp8x.zip)
 ##Schoolgrounds
-[Leaked Build](https://files.catbox.moe/g48jlf.zip)
+[First Leaked Build](https://files.catbox.moe/g48jlf.zip)
+[Second Leaked Build](https://drive.google.com/file/d/1-GCY-Vh12GNzHRpyQOzp_E7zb4-DRDgd/view?usp=sharing)
 ## Sky
 [Sky Animations](https://drive.google.com/drive/folders/1uktHVtNhTTIpdxqaniv8WWmYq5p0PfAl)
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)
