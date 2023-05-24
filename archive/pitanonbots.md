@@ -1,5 +1,9 @@
 # Pitanon's Bots:
 
+##Priscilla (24/05/2023) [NEW]
+https://www.chub.ai/characters/pitanon/Priscilla
+![Image description](https://files.catbox.moe/43swjs.png)
+
 ## Re:Zero Adventure Bot (22/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![Image description](https://files.catbox.moe/v5e5ta.png)
@@ -13,7 +17,7 @@ https://www.chub.ai/characters/pitanon/Rem
 ![Image description](https://files.catbox.moe/esr4nv.png)
 
 ## Ram (18/5/2023)
-https://www.characterhub.org/characters/pitanon/Ram
+https://www.chub.ai/characters/pitanon/Ram
 ![Image description](https://files.catbox.moe/6sj47g.png)
 
 ## Emilia/w Puck (23/5/2023)
@@ -21,11 +25,11 @@ https://www.chub.ai/characters/pitanon/Emilia
 ![Image description](https://files.catbox.moe/vip5qe.png)
 
 ## Echidna (21/5/2023)
-https://www.characterhub.org/characters/pitanon/Echidna
+https://www.chub.ai/characters/pitanon/Echidna
 ![Image description](https://files.catbox.moe/kzcy6p.png)
 
 ## Lugnica Lorebook (19/5/2023)
-https://www.characterhub.org/lorebooks/pitanon/kingdom-of-lugnica
+https://www.chub.ai/lorebooks/pitanon/kingdom-of-lugnica
 https://files.catbox.moe/5xjpub.json
 
 # Prompts

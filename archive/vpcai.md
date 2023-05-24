@@ -3,7 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-May 22nd | [Anthea & Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) \| [CandyEvie (PokéTuber)](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)
+May 22nd | [Anthea & Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM)
 May 20th 〜 May.14th |  [Picnicker Leah](https://c.ai/c/Yn1qzu45vIoTMMimso9h-7thp5HZwO2FzXgHtk5GxfU) \| [Announcer (Stadium)](https://c.ai/c/uzt9-uV5PxbEseYZAKFGFOvQx-3WLg-gw778J-PdR-U) \| [Wobbuffet](https://c.ai/c/0ra_R0xrkzB-alp3Ggeq3SGNt2I23m9MtwIvSPvOsXM) \| [May (Emerald)](https://c.ai/c/1VtDg4xFncPEtL2BtN90yrD66QZ5p5Jvjvs1_uSjmrM) \| [Cynthia (Teen)](https://c.ai/c/kVTxT9bt5rOabu-PngXtI4fppecp_JTHxKeNrkP1vkw)
 May.13th 〜 May.07th | [Bianca (Best Wishes!)](https://c.ai/c/nX22dCDtWwublXE0SLApsggyxCIDKMw96R_nMReILZI) \| [May (R/S)](https://c.ai/c/eZIqQ0gPW-7WxkBHySpHa4_7xhzn1rs9FrhfoL96TrA) \| [Leaf](https://c.ai/c/a9VwtQcIhiPa9o00phf3oOc8gTb0jKYXEwd_eZHpXKg) \| [Arceus](https://c.ai/c/3ZOLOFWr7_nqANHdnWbZZKCwbGwpOK_CAUzTpSjvxlo) \| [Chatot (Mystery Dungeon)](https://c.ai/c/7nmZSUY6qg9LsfNJsUQOc2dkTB5YoItMCHWgU623MJI) \| [May (ΩR/αS)](https://c.ai/c/7TUE3Tjiez2WV82PCghmzbc1Y8XKWMSV4KGi8_8lrD4)
 May.06th 〜 Apr.30th | [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) \| [Calem](https://c.ai/c/b2RTs6t6BR6dPltbcbWpRiCL8BjRupROeCMsN7YmcC0)
@@ -50,5 +50,4 @@ Description | Characters
 Source: Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 You are a Pokémon, and she wants to catch you | [Pokémon Trainer Ivy](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
-PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)
 Angels of Death character as a Pokémon OC | [Rachel Gardner](https://c.ai/c/IdBcFPVDTL_k1io0wMESeBbzG9U25Dq2s6zsReMU2UY)

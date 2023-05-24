@@ -417,13 +417,19 @@ Incomplete songs:
 CHVRCHES - The Mother We Share (first verse only; 1:42:10)
 Green Day - Wake Me Up When September Ends (1:58:58)
 
+#### October 2022
+
+##### WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP
+[2022-10-24](https://www.youtube.com/watch?v=3O9AE0VhXgs) - unlisted
+Unlisted secret/alternative ending to the nun ASMR
+
+#### November 2022
+
 ##### ≪Resident Evil Village: SHADOWS OF ROSE≫ BABY ROSE IS BACK w/ Fauna
 _[2022-11-18](https://youtu.be/hvCuUvk5zp0)_ - privated
 
 [🔴 mega](https://mega.nz/folder/7YZ32bRZ#T-RUsR5Q6FTtadrcs7g2iw/folder/6EgUiYDa)
 [🧲 magnet](magnet:?xt=urn:btih:cb772d6bd755ed81be1e93bffd81e8587bfc8048&dn=%5b2022-11-19%5d%20%e2%89%aaResident%20Evil%20Village_%20SHADOWS%20OF%20ROSE%e2%89%ab%20BABY%20ROSE%20IS%20BACK%20w_%20Fauna%20-%20%5bhvCuUvk5zp0%5d&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969)
-
-#### November 2022
 
 ##### Anime NYC 2022 Panel with Kiara
 [2022-11-19?] - audience recordings
@@ -431,7 +437,16 @@ _[2022-11-18](https://youtu.be/hvCuUvk5zp0)_ - privated
 [🧲 magnet](magnet:?xt=urn:btih:450e49ada1156e02ef5c59f8339c1fe766b14885&dn=Anime%20NYC%202022&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969)
 Consists of Ame, BaeRyS, Chicken Salad, Kronii, and Mori's "panels". Also some extra pictures and the omikuji slips.
 
+#####  \#HoloENAdvent Day 3 🎄 
+[2022-11-29](https://www.youtube.com/watch?v=kUK-hMXl1Co) - unlisted
+For the holoEN advent calendar
+
+
 #### December 2022
+
+#####  \#HoloENAdvent Day 7 ⛄🎄 
+[2022-12-06](https://www.youtube.com/watch?v=3O9AE0VhXgs) - unlisted
+For the holoEN advent calendar.
 
 #####【UNARCHIVED KARAOKE】 New Outfit Singing!!
 _[2022-12-10](https://youtu.be/ubqDPOOHbL4)_ - unarchived

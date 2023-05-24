@@ -52,6 +52,10 @@ Eneko=Stinger|[Twitter](https://twitter.com/EnekoStinger) [Youtube](https://www.
 Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Youtube](https://www.youtube.com/@DiaTatsunuma) [Twitch](https://www.twitch.tv/dia_tatsunuma)|Speaks english as well
 ベラライカ|[Twitter](https://twitter.com/bellaraika) [Youtube](https://www.youtube.com/@bellaraika)|
 新妻 ネトラ|[Twitter](https://twitter.com/NTR_s2s2) [Youtube](https://www.youtube.com/@NTR_s2s2)|
+砂星はや / Sunahoshi Haya|[Twitter](https://twitter.com/hayachan_18) [Youtube](https://www.youtube.com/@hayachannel)|
+猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
+
+
 
 ---
 

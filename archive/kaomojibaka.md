@@ -11,8 +11,8 @@
 A general dedicated to the discussion and development of AI chatbots
 
 >>New
-gpt4 drying up, slack claude up and schizo
-silly extras has a new infinite context module for slowburnfags
+gpt4 drying up, slack claude doom https://www.anthropic.com/claude-in-slack/installation-disabled
+turbo-chan with infinite context is the new king
 comfy proompts after cooming: https://rentry.org/weirdbutfunjailbreaksandprompts
 
 coomathon keys should get mailed on 26.

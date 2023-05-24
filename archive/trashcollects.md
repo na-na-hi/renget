@@ -686,8 +686,14 @@ https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
 ## Assorted Random Stuff
 
 ###X/Y Grid of Artists
-https://files.catbox.moe/fs3blo.jpg
 (Not embedded due to filesize)
+Comparison of Base SD-Artist - Furry artist combos (done on an older furry model, likely YiffAnything)
+	
+	https://files.catbox.moe/fs3blo.jpg
+
+thebigslick/syuro/anchee/raiji/redrusker/burgerkiss/blushbrush Prompt Matrix comparison (done on a Fluffyrock-Crosskemono 70/30 merge)
+	
+	https://mega.nz/file/fw0ggaaQ#nGpCzW7C7u3Q5w7sr15azX7GO8jdSBRTyjqsKriv60A
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

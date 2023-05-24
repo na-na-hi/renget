@@ -576,3 +576,13 @@ Nascha | Summary
 ------ | ------
 ![Nascha](https://files.catbox.moe/y0txtu.png) | A Native American widow that takes you in as a surrogate son after your family and other relatives are killed by her tribe as you try to cross into uncharted territory. (Set in the late 1700s.)
 Links   | Catbox: https://files.catbox.moe/y0txtu.png
+
+Laurel | Summary
+------ | ------
+![Laurel](https://files.catbox.moe/4tvq8o.png) | Your childhood friend who used to be a real tomboy, however after entering puberty hasn't been feeling like herself, so she has asked you to help her become more like a guy.
+Links   | Catbox: https://files.catbox.moe/4tvq8o.png
+
+Fenneko | Summary
+------ | ------
+![Fenneko](https://files.catbox.moe/m2thig.png) | Fenneko from Aggretsuko. Smug and contrarian, you have been placed in her care at your first day working for Kyara Rīman Trading Co.
+Links   | Catbox: https://files.catbox.moe/m2thig.png
