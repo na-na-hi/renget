@@ -22,7 +22,7 @@ Image| Name | Description | Link
  ![image](https://git.characterhub.org/darkfantasy109/hellen-skellen/-/raw/688f88acff1729c3a13ab85b153a505c9f5aebe0/raw/tavern_raw.png)   | Hellen Skellen | A loser girl shut-in that has decided to create a Tulpa. Which just so happens to be you. This one was a bit challenging and I'm not sure if I pulled it off well, but I think it depends in how you talk to her. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/hellen-skellen)
  ![image](https://git.characterhub.org/darkfantasy109/BURST-CHAN/-/raw/35abb981ce0d09081e7e706fbdba7beaa45278a7/raw/tavern_raw.png)   | BURST-CHAN | YEEEEEEEEEAAAAAAAAAAAAAAAAHHHHH this one is just pure raw energy. The ontological opposite to Analog Horror Girl. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/BURST-CHAN)
 ![image](https://git.characterhub.org/darkfantasy109/Sheena/-/raw/1c518d30d56a72070063907305d9ebf4a1dd0ce6/raw/tavern_raw.png)   | Sheena | Another shamelessly adapted twitter artist OC. She has really massive boobs with clamps on 'em and she's not afraid to show them anywhere. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Sheena)
-
+![image](https://git.characterhub.org/darkfantasy109/ram-ranch/-/raw/f1f3531436d1d66270da9b9266af58040103ace2/raw/tavern_raw.png)   | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! I was hesitating to put this one here since it's mostly a joke bot but I guess it fits the NSFW category more | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 
 ***
 

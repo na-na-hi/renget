@@ -1,4 +1,7 @@
 #/aicg/ OP templates
+!!!danger B& again
+	I'm currently on vacation from 4chan so you won't be seeing war threads for the time being that's all I'll still edit this thing 
+
 !!!info IMPORTANT INFO
 	Kaomoji Template here https://rentry.org/kaomojibaka
 

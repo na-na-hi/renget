@@ -1,5 +1,5 @@
-Last updated: [>>47638415](https://warosu.org/vt/thread/47638394#p47638415)
-4/18/23 11PM EDT
+Last updated: [>>49941745](https://warosu.org/vt/thread/S49941719#p49941745)
+5/24/23 10:45 PM EDT
 ***
 Mob/everyone, gangbang
 https://rentry.org/52cg53
@@ -36,6 +36,45 @@ https://rentry.org/sybe7
 
 Mob/Alban, shota, piss, prostitution, crying
 https://rentry.org/q9hb3
+
+Reader/Alban, reader's pov, male reader, dominant reader, prostitution
+https://rentry.org/w4pdp
+
+Reader/Shu, reader's pov, male reader, dominant reader 
+https://rentry.org/wn7hn
+
+Shu/Reader
+https://rentry.org/9mqqp
+
+Reader/Alban, Chikan, Prostitution
+https://rentry.org/hozc7i
+
+Reader/Alban, Fluff, Aftercare 
+https://rentry.org/s3ea8
+
+Mysta/Reader
+https://rentry.org/f9mw9
+
+Mob/Sonny, minor Mob/Alban, sonnyban, rape, ptsd(?), humiliation, 
+https://rentry.org/mobsonnyban
+
+Mob/Alban, Sugar baby, prostitution, piss-mention, abandonment
+https://rentry.org/t3sp5
+
+Ren/Kyo, Uki/Kyo (off-screen rape), hurt/comfort
+https://rentry.org/obrww
+
+Luca, masturbation, semi public sex?
+https://rentry.org/ucsng5
+
+Alban/reader, somnophilia, blowjob, implied incest 
+https://rentry.org/2otai
+
+***
+
+Meta, Rosebud/Rosebud
+https://rentry.org/5fp4e
+
 ***
 Merch
 

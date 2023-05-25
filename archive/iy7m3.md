@@ -1,4 +1,4 @@
-######Smith and Furret Join the Clover Guild and Form the Luckiest, Most Miraculous Exploration Team to Ever Exist!
+######->Smith and Furret Join the Clover Guild and Form the Luckiest, Most Miraculous Exploration Team to Ever Exist!<-
 by Skorupi-Anon
 
 The sun's light pours through the open window and directly into my eyes, waking me from my slumber. I face away from the window, blinking frequently in an effort to regain my vision. Other than some discomfort in my eyes, thanks to the sun, I feel totally refreshed for the first time in forever. Last night, Furret and I had rented a room at the Blue Claw Inn, and it was the first time I had ever slept on anything other than the hard, dirty ground since arriving in this world. I had sorely missed my bed from when I was a human, and I still do, but right now, this hay feels like the most comfortable thing on the entire planet. It feels so good, in fact, that it takes every ounce of willpower that I have to resist the urge to sleep for the entire day. It's sad to say goodbye, but I force myself to stand up and step away from the bedding.

@@ -195,6 +195,7 @@
 05/2023|[Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
 05/2023|[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
 05/2023|[Pre-Training to Learn in Context](https://arxiv.org/abs/2305.09137)
+05/2023|[ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554)
 05/2023|[Accelerating Transformer Inference for Translation via Parallel Decoding](https://arxiv.org/abs/2305.10427)
 05/2023|[Cooperation Is All You Need](https://arxiv.org/abs/2305.10449)
 05/2023|[PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657)

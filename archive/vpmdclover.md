@@ -144,6 +144,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
+* [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby

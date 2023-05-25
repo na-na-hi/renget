@@ -1,4 +1,3 @@
-#Not the one restarting the proxy constantly.
 #Closed. Ignore obvious bait.
 #mysteryman63453121@proton.me
 #BTC: bc1qjhzcqp4kfrkg6nsnzu0xmn3gsv9q7g7nvn8c4r
