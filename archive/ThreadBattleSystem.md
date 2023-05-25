@@ -94,4 +94,4 @@ Of course people are free to determine their own method whether that be speed or
 ##Archived Battle System
 Here: https://rentry.co/PokeverseOpen
 
-![dartsmells](https://files.cults3d.com/uploaders/14509121/illustration-file/46b3bca2-2487-441e-bfd3-c319c1b962d8/yanmega-render.jpg)
+![dartsmells](https://cdn.discordapp.com/attachments/596511632566517760/1111332881957142578/1684992588244092.png)

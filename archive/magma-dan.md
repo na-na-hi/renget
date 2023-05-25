@@ -1,10 +1,10 @@
 # -> @magma-dan <-
 Recent C.AI Updates: | ⠀ | ⠀
 :-: | :- | :-
--> **Newest Pokémon Bots** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY)
+-> **Newest Pokémon Bots** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY)⠀
 -> **Newest Non-Pokémon Bots** <- |  ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) ⠀[Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc)
--> **Close to Completion** <- | ![Z16](https://characterai.io/i/80/static/avatars/uploaded/2023/5/23/jXYxTcWC9iRCO_miS_gTP9LlfsLCD54xpOGiE7RIBI0.webp) *KMS*⠀Z16⠀ (*Azur Lane*) | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*)
--> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀[Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) | ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) ⠀Arachne ⠀(*SMT*)
+-> **Close to Completion** <- | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*) | -> *update Azur Lane characters' definitions* <- 
+-> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀[Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) | ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) Arachne (*SMT*)
 
 ***
 ***

@@ -47,8 +47,7 @@ Your very first roll guarantees a single (3\*) student from a pool of *only* [th
 Rolling in 10s guarantees at least one (2\*) student, unlike with singles, so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
 
-The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). 
-
+The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
 Made by /bag/:
 ![Reroll targets](https://i.imgur.com/86EZJd0.png)
@@ -65,6 +64,10 @@ You can always ask /bag/ for advice.
 
 >What about good units who are only blue or gold (1 or 2 star)?
 ![Good 1/2 Star Students](https://i.imgur.com/GKg29v0.png)
+
+>What can I get from the Startdash (the paid ticket)?
+You get 1 ten roll, which guarantees a 3\* unit of a set pool.
+![Startdash pool](https://i.imgur.com/vJqP5Yo.png)
 
 >Should I reroll?
 For your waifu? Of course. But besides that? 

@@ -108,6 +108,7 @@ _________________
 | Anon's 3DS Themes | https://files.catbox.moe/royni2.zip |
 | Anon's 3DS Theme (updated Feb 2023) |https://files.catbox.moe/ff30vc.zip|
 | Anon's PS Vita Themes | https://files.catbox.moe/dc77g5.rar |
+| Anon's smart watch face| https://files.catbox.moe/5lxuy6.zip|
 | Timestamp for the KANA-BOON - Silhouette cover (from the second superchat stream) | https://youtu.be/dip1794Rd54?t=122 |
 | Greatest Form of Hopium | https://streamable.com/meqd3h - https://streamable.com/qadsib |
 | Voiceclips from the first superchat stream | https://mega.nz/folder/kTBTAKiD#2OcTxr5EQ36NHqv5AG-Ydg |

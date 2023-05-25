@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: - at 2UTC ()**
+**FRI: Megaman 1 - The New Lands Remastered at 2UTC (Telemelt)**
 **SAT: Parasite Eve at 2UTC (Parsec)**
 **SUN: Minemelt at 17:30UTC ()**
 

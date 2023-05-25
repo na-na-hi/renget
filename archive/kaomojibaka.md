@@ -12,7 +12,7 @@ A general dedicated to the discussion and development of AI chatbots
 
 >>New
 gpt4 drying up, slack claude doom https://www.anthropic.com/claude-in-slack/installation-disabled
-turbo-chan with infinite context is the new king and claude will be back after the coomathon
+turbo-chan with infinite context is the new king and slaude will be back after the coomathon and the gpt keys will reset and todd will be back
 
 coomathon keys should get mailed on 26.
 

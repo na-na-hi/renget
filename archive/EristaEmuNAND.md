@@ -10,7 +10,7 @@ TegraRcmGUI | Hekate | Atmosphere & fusee | SigPatches
 ####Setup:
 ***
 !!!warning Before you begin:
-	* You will need a **64gb SD card** or bigger!
+	* You will need a ==**64gb SD card**== or bigger!
 	* You will need to disable automated backing up of your save data.
 		* To do this, go to `⚙️Settings`  🠆 `Data Management` 🠆 `Save Data Cloud` 🠆 `Settings` and disable `Automatically Back Up Save Data` and `Automatically Download Save Data`.
 	* Make sure you back up all of your files on your SD card to your PC and then delete them off your SD card!

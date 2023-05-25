@@ -15,7 +15,7 @@
 ***
 ##->Quick Rundown on Large Language Models:<-
 !!!Danger 
-     **This first section is still a working draft. Will finish this section soon. Will work this section slowly and "git better" with another page as a draft until it's finished. Having a big incomplete section isn't good to look at imo.**
+     **This first section is still a working draft. Will work this section slowly and "git better" with another page as a draft until it's finished. Having a big incomplete section isn't good to look at imo.**
 ###I. Work in Progress
 
 ***

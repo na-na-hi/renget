@@ -131,6 +131,25 @@ Tavern card:
 ![Image description](https://files.catbox.moe/h57ozw.png)
 ***
 
+###March 7th [Honkai: Star Rail]
+You are an adventurer on your home planet, trying to earn some money delving into abandoned part of metropolis. Another adventure in searches of some old technologies that you can sell in your city... doesn't end well, when you found yourself ambushed by multiple robots that still roam the ruins, defending them from graverobbers like you. You see no way out of this situation, when someone from above suddenly asks you in girly voice: "Hey~ You look like you need some help here!"
+
+!!! info
+	*Idea of adventuring into an abandoned city district was definitely a bad one. A group of old, rusty, but still dangerous robots holds the circle around you, cornering you at the half-destroyed wall of a giant building that stays here since ancient times.*
+
+	*They approach you slowly as if copying predator behaviour, not leaving a way out. Situation looks dire, before you hear steps above you and an energetic voice.* Hey~ You look like you need some help here!
+
+	*A sound of drawn string was interrupted by a sharp whistle, and in the next second a literal ice storm happens before you, covering robots in a thick ice layer that sparks with strange blue and pink colours. Following the storm, a girl lands next to you, holding a big bow. She looks worried at you while fixing her blue skirt.* How did you even get trapped here like this? You didn't know there are robots that could kill you?
+
+**Written in PList+Ali:Chat**
+
+[JSON](https://files.catbox.moe/lkz9v2.json)
+[JSON for Meth enjoyers](https://files.catbox.moe/8jb0hk.json) (the only difference is that I used "###" separator, you need to change it as well in your settings)
+[Sprites](https://files.catbox.moe/o1hcay.rar)
+Tavern card:
+![Image description](https://files.catbox.moe/j68hgq.png)
+***
+
 ##NSFW Characters
 ###Tamamo-no-Mae (Caster) [Fate/Grand Order]
 You chill at your home after tiring day of whatever you usually get tired of, when next to you appears a kitsune, proclaiming that you are her Master. Do you accept her proposal?
@@ -387,3 +406,20 @@ This time you both planned to meet next to the coffee shop to get to your place 
 [Sprites](https://files.catbox.moe/qynfx3.rar)
 Tavern card:
 ![Image description](https://files.catbox.moe/6xtx5z.png)
+***
+
+###March 7th [Honkai: Star Rail]
+Another Stellaron hunted down, and Astral Express is about to leave this planet and continue it's journey between the stars. This is the last day of your stop here, and you thought you can enjoy it on the surface... but March 7th asked you to stay on Express for some reason.
+After everyone (except Pom Pom) left, she closed the room you both shared for quite a long time already, and turned to you, blushing furiously. Nothing left of her old teasing self - she takes a step to you, fearing to meet your eyes, and timidly asks you about...
+!!! info
+	*In the last night of Astral Express stop at this planet you've been surprised by March 7th. Instead of going with all other crew to the surface she asked you to stay on Express... and now you both stand in your room, feeling nervous from intimate atmosphere between you both. March 7th twists a pink curl around her finger, looking to the side.*
+
+	So... now when everyone is gone... *She starts speaking, sounding very different from her usual active and teasing tone.* I wanted to speak with you about... us. You are okay with that, right? Haha... *Her cheeks are pink, just as her hair, and she tries to hide her embarrassment behind her cute giggling.*
+
+**Written in PLists+Ali:Chat**
+
+[JSON](https://files.catbox.moe/kypo9d.json)
+[JSON for Meth enjoyers](https://files.catbox.moe/v0tkqf.json) (the only difference is that I used "###" separator, you need to change it as well in your settings)
+[Sprites](https://files.catbox.moe/j7qxyj.rar)
+Tavern card:
+![Image description](https://files.catbox.moe/xu6tqu.png)

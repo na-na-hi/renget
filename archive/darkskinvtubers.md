@@ -35,8 +35,8 @@ Jina Ch. 司波ジーナ|[Twitter](https://twitter.com/shibajina_vt) [Youtube](h
 Flare Ch. 不知火フレア|[Twitter](https://twitter.com/shiranuiflare) [Youtube](https://www.youtube.com/@ShiranuiFlare)| Hololive
 四ツ辻まよい|[Twitter](https://twitter.com/mayoi_4224) [Youtube](https://www.youtube.com/@mayoi_4224)|
 陽夏のの/HinatsuNono|[Twitter](https://twitter.com/HinatsuNono) [Youtube](https://www.youtube.com/channel/UCPeF0V8dzSUYHwgLjvC86PQ)|
-青龍アオイ🐲 Aoi Seiryu|[Twitter](https://twitter.com/4GVseiryu) [Youtube](https://www.youtube.com/channel/UC3Z4nXVK8a0Y3D9MroL7gEA)|
-猫吹ケムリ☁Nekobuki Kemuri|[Twitter](https://twitter.com/mo9mo9ke6ri) [Youtube](https://www.youtube.com/channel/UCPiAB6q4PDMkMl5sr1CWGcw)|
+青龍アオイ- Aoi Seiryu|[Twitter](https://twitter.com/4GVseiryu) [Youtube](https://www.youtube.com/channel/UC3Z4nXVK8a0Y3D9MroL7gEA)|
+猫吹ケムリ- Nekobuki Kemuri|[Twitter](https://twitter.com/mo9mo9ke6ri) [Youtube](https://www.youtube.com/channel/UCPiAB6q4PDMkMl5sr1CWGcw)|
 CMY子|[Twitter](https://twitter.com/sei1go) [Youtube](https://www.youtube.com/channel/UCgOyJUzx06loBmxUPqldm_w)|
 眠居ふわりのふわり塾|[Twitter](https://twitter.com/zzz_fuwari) [Youtube](https://www.youtube.com/@zzz_fuwari)|
  Yunomiya Izuru -Izuru CH-| [Youtube](https://www.youtube.com/@-izuruch-3433)|
@@ -49,41 +49,40 @@ Eneko=Stinger|[Twitter](https://twitter.com/EnekoStinger) [Youtube](https://www.
 ゆんちゃむちゃんねる|[Twitter](https://twitter.com/yuntyamutyamu) [Youtube](https://www.youtube.com/@user-ji7hk8ub5f)|
 善財空ねる -Nel Zenzaiku-|[Twitter](https://twitter.com/nel_zenzaiku) [Youtube](https://www.youtube.com/@-nelzenzaiku-193)|
 黒綺ハル / Kuroki Haru|[Twitter](https://twitter.com/haru_harunosora) [Youtube](https://www.youtube.com/@harunosora)|
-Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Youtube](https://www.youtube.com/@DiaTatsunuma) [Twitch](https://www.twitch.tv/dia_tatsunuma)|Speaks english as well
+Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Youtube](https://www.youtube.com/@DiaTatsunuma) [Twitch](https://www.twitch.tv/dia_tatsunuma)|Can speak english
 ベラライカ|[Twitter](https://twitter.com/bellaraika) [Youtube](https://www.youtube.com/@bellaraika)|
 新妻 ネトラ|[Twitter](https://twitter.com/NTR_s2s2) [Youtube](https://www.youtube.com/@NTR_s2s2)|
 砂星はや / Sunahoshi Haya|[Twitter](https://twitter.com/hayachan_18) [Youtube](https://www.youtube.com/@hayachannel)|
 猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
-
+ひらりー hillary [JP]|[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
 
 
 ---
 
-
 ##->EN Vtubers<-
 Name|Links|Tags/Description
 :----:|:----:|:----:
-Sara Nagare / 流サラ|[Twitter](https://twitter.com/saranagare) [Youtube](https://www.youtube.com/@SaraNagare/streams)|PRISM Project
+Sara Nagare / 流サラ|[Twitter](https://twitter.com/saranagare) [Youtube](https://www.youtube.com/@SaraNagare/streams)|PRISM Project - Australian, playthroughs and ASMR
 NeonHarper|[Twitter](https://twitter.com/NeonHarper) [Twitch](https://twitch.tv/neonharper)|
-LuckyPochi|[Twitter](https://twitter.com/PochiLucky/status/1638383838555688961) [Twitch](https://www.twitch.tv/luckypochi)|
-Tomoe Umari Ch.|[Twitter](https://twitter.com/UmariTomoe) [Youtube](https://www.youtube.com/channel/UCDoH-Xv1K-9U3frP6uzuXAA)|Military Horse Girl
+LuckyPochi|[Twitter](https://twitter.com/PochiLucky) [Twitch](https://www.twitch.tv/luckypochi)|
+Tomoe Umari Ch.|[Twitter](https://twitter.com/UmariTomoe) [Youtube](https://www.youtube.com/channel/UCDoH-Xv1K-9U3frP6uzuXAA)|Military nerd, older game playthroughs
 RuzuuZuzu|[Twitter](https://twitter.com/_Ruzuu_) [Twitch](https://www.twitch.tv/ruzuuzuzu)|
-LaAvispa_VTuber|[Twitter](https://twitter.com/LaAvispa_VTuber) [Twitch](https://www.twitch.tv/laavispa_vtuber)| Tomboy Wasp
+LaAvispa_VTuber|[Twitter](https://twitter.com/LaAvispa_VTuber) [Twitch](https://www.twitch.tv/laavispa_vtuber)|Tomboy Wasp
 Savi|[Twitter](https://twitter.com/savisenpaii) [Twitch](https://twitch.tv/savii)|
 Trickywi|[Twitter](https://twitter.com/trickywii) [Twitch](https://www.twitch.tv/trickywi)|
 コヨーテ / Coyote|[Twitter](https://twitter.com/Coyote_KEMOV) [Youtube](https://www.youtube.com/@Coyote_KemoV/streams)|KemoV - Tekken Addict
 SifAvellana|[Twitter](https://twitter.com/sifavellana) [Twitch](https://www.twitch.tv/sifavellana)|
-Maroony|[Twitter](https://twitter.com/maroony_ch) [Twitch](https://www.twitch.tv/maroony)| Retro gamer mouse
-Charlottexbear|[Twitter](https://twitter.com/Charlottexbear) [Twitch](https://www.twitch.tv/charlottexbear)| LSE (Little sister experience)
-Nyaruchuuu|[Twitter](https://twitter.com/nyaruchuuu) [Twitch](https://www.twitch.tv/nyaruchuuu)|Shirayuri - Idol
-Scarle Yonaguni|[Twitter](https://twitter.com/ScarleYonaguni) [Youtube](https://www.youtube.com/@ScarleYonaguni)|NijiEN - Endurance streamer
+Maroony|[Twitter](https://twitter.com/maroony_ch) [Twitch](https://www.twitch.tv/maroony)|JRPGs, retro and kusoge
+Charlottexbear|[Twitter](https://twitter.com/Charlottexbear) [Twitch](https://www.twitch.tv/charlottexbear)|Emo bear that loves retro games and dinosaurs
+Nyaruchuuu|[Twitter](https://twitter.com/nyaruchuuu) [Youtube](https://www.youtube.com/@nyaruchuuu) [Twitch](https://www.twitch.tv/nyaruchuuu)|Shirayuri - Variety streams, idol larp
+Scarle Yonaguni|[Twitter](https://twitter.com/ScarleYonaguni) [Youtube](https://www.youtube.com/@ScarleYonaguni)|NijiEN - Variety, Endurance streamer
 Sansin|[Twitter](https://twitter.com/sansinjin) [Twitch](https://www.twitch.tv/sansin)|
 Naki_VT|[Twitter](https://twitter.com/NakiVT) [Twitch](https://www.twitch.tv/naki_vt)|
 Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.twitch.tv/tommysonline)|
 Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
 KokoNuts|[Twitter](https://twitter.com/KokoNutsVT) [Twitch](https://www.twitch.tv/kokonuts)|
 KittyfluteVT|[Twitter](https://twitter.com/Kittyflutexbl) [Twitch](https://www.twitch.tv/kittyflutevt)|
-Mairwu|[Twitter](https://twitter.com/mairwu) [Youtube](https://www.youtube.com/@Mairwu) [Twitch](https://www.twitch.tv/mairwu)| Tomboy rat friend
+Mairu|[Twitter](https://twitter.com/mairwu) [Youtube](https://www.youtube.com/@Mairwu) [Twitch](https://www.twitch.tv/mairwu)|Goth rat girl - FPS gamer, knows Spanish
 KayukoVT|[Twitter](https://twitter.com/kayukoVT) [Twitch](https://www.twitch.tv/tentxclee)|
 Pema|[Twitter](https://twitter.com/PemaMysterious) [Twitch](https://www.twitch.tv/pema)|
 AurabunVT|[Twitter](https://twitter.com/AurabunVT) [Twitch](https://www.twitch.tv/aurabun)|
@@ -94,7 +93,7 @@ Kiki_Nene_|[Twitter](https://twitter.com/kiki_nene_) [Twitch](http://twitch.tv/k
 Yanabells|[Twitter](https://twitter.com/yanabellsexe) [Twitch](https://www.twitch.tv/yanabells)|
 Sulkycats|[Twitter](https://twitter.com/sulkycats) [Twitch](https://www.twitch.tv/sulkycats)|
 SilverDawnbreak|[Twitter](https://twitter.com/SilverDawnbreak) [Twitch](https://www.twitch.tv/silver_dawnbreak)|
-EUREKA X49 四九ゆりかch|[Twitter](https://twitter.com/eurekax49) [Youtube](https://www.youtube.com/@eurekax49/)|
+EUREKA X49 四九ゆりかch|[Twitter](https://twitter.com/eurekax49) [Youtube](https://www.youtube.com/@eurekax49/)|Variety and Plamo/Gunpla
 FalooVT|[Twitter](https://twitter.com/FalooVT) [Twitch](https://www.twitch.tv/faloovt)|
 MoruMoruSan|[Twitter](https://twitter.com/MoimoiPlanet) [Youtube](https://www.youtube.com/@MoimoiPlanet)|
 NairuNirvana|[Twitter](https://twitter.com/NairuNirvana) [Twitch](https://www.twitch.tv/nairunirvana)|
@@ -107,10 +106,10 @@ Trinity_vtuber_|[Twitter](https://twitter.com/lovetrinthighs) [Twitch](https://w
 BrewwVT|[Twitter](https://twitter.com/Breww_VT) [Twitch](https://www.twitch.tv/brewwvt)|
 ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://www.twitch.tv/arcticaaliyah)|
 justSasha|[Twitter](https://twitter.com/SashasCastle) [Twitch](https://www.twitch.tv/justSasha)|
-Kalmia_Amanita|[Twitter](https://twitter.com/kalmia_ama) [Twitch](https://www.twitch.tv/kalmia_amanita)|Retro PC gamer
-Tomakeys|[Twitter](https://twitter.com/KeysTomama) [Twitch](https://www.twitch.tv/tomakeys)| Monkey who loves cartoons and toys
-Bodega_RRat|[Twitter](https://twitter.com/bodega_rat) [Twitch](https://www.twitch.tv/bodega_rrat)| Artist rrat
-kasumivtuber|[Twitter](https://twitter.com/kasumi_vt) [Twitch](https://www.twitch.tv/kasumivtuber)| ASMR
+Kalmia_Amanita|[Twitter](https://twitter.com/kalmia_ama) [Twitch](https://www.twitch.tv/kalmia_amanita)|Retro PC games and garage kits
+Tomakeys|[Twitter](https://twitter.com/KeysTomama) [Twitch](https://www.twitch.tv/tomakeys)|Monkey who loves cartoons and toys
+Bodega_RRat|[Twitter](https://twitter.com/bodega_rat) [Twitch](https://www.twitch.tv/bodega_rrat)|Art/ASMR/Variety
+kasumivtuber|[Twitter](https://twitter.com/kasumi_vt) [Twitch](https://www.twitch.tv/kasumivtuber)|ASMR
 CookieSwirlC|[Twitter](https://twitter.com/CookieSwirlC) [Youtube](https://www.youtube.com/user/CookieSwirlc)|#1 Vtuber worldwide
 Mushi 蟲|[Twitter](https://twitter.com/vtubermushi) [Twitch](https://www.twitch.tv/vtubermushi)|
 Aliciaxlife|[Twitter](https://twitter.com/aliciaxlifeVT) [Youtube](https://www.youtube.com/@Aliciaxlife)|
@@ -132,13 +131,13 @@ ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://twit
 Chocojax|[Twitter](https://twitter.com/chocojax) [Twitch](https://www.twitch.tv/chocojax)|
 Poyobuny|[Twitter](https://twitter.com/poyobuny) [Twitch](https://www.twitch.tv/poyobuny)|
 Bbyruthless|[Twitter](https://twitter.com/bbyruthless) [Twitch](https://www.twitch.tv/bbyruthless)|
-Ichigolemonade_|[Twitter](https://twitter.com/IchigoLemonade_) [Twitch](https://www.twitch.tv/ichigolemonade_)| Gunpla Gyaru
-Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting game vtuber
+Ichigolemonade_|[Twitter](https://twitter.com/IchigoLemonade_) [Twitch](https://www.twitch.tv/ichigolemonade_)|Moth Gyaru - Gunpla, TCG, Handcam
+Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting games
 Dolce|[Twitter](https://www.twitter.com/DolceVtuber) [Twitch](https://www.twitch.tv/dolcevt)|
 Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://www.youtube.com/@MaikaMallow)|
-AuteruTori [EN/MSA]|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Arabic birb
+AuteruTori|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Variety and art, knows Arabic.
 SuperJinxy|[Twitter](https://twitter.com/super_jinxy) [Twitch](https://www.twitch.tv/super_jinxy/)|
-BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|
+BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|Peruvian dark elf
 WaffleInaToaster|[Twitter](https://twitter.com/SoggysWaffles) [Twitch](https://www.twitch.tv/waffleinatoaster/)|
 LucyPyre|[Twitter](https://twitter.com/LucyPyre_)  [Twitch](https://www.twitch.tv/lucypyre)|
 Virtualtaffy|[Twitter](https://twitter.com/virtualtaffy) [Twitch](https://www.twitch.tv/virtualtaffy)|
@@ -148,8 +147,12 @@ Oiivae|[Twitter](https://twitter.com/Oiivae) [Youtube](https://www.youtube.com/c
 CypressCyren|[Twitter](https://twitter.com/cypresscyren) [Twitch](https://www.twitch.tv/cypresscyren)|
 Aivee Fawkes|[Twitter](https://twitter.com/Aivee_Fawkes) [Youtube](https://www.youtube.com/@AiveeFawkes) [Twitch](https://www.twitch.tv/aiveena)|
 Pomiebear|[Twitter](https://twitter.com/Pomiebear) [Twitch](https://www.twitch.tv/pomiebear)|
-Duroppu|[Twitter](https://twitter.com/duroppucharming) [Youtube](https://www.youtube.com/c/DuroppuCh) [Twitch](https://www.twitch.tv/duroppucharming)| Aussie dropbear
+Duroppu|[Twitter](https://twitter.com/duroppucharming) [Youtube](https://www.youtube.com/c/DuroppuCh) [Twitch](https://www.twitch.tv/duroppucharming)|Australian dropbear
 LuminalaVT|[Twitter](https://twitter.com/luminalaVT) [Twitch](https://www.twitch.tv/luminalaVT)|
+NellieAndGrits|[Twitter](https://twitter.com/NellieAndGrits) [Twitch](https://www.twitch.tv/nellieandgrits)|Cowboy possum
+DaijoubuInumaki|[Twitter](https://twitter.com/DaijoubuInumaki) [Twitch](https://www.twitch.tv/daijoubuinumaki)|
+TorakkoVT|[Twitter](https://twitter.com/TorakkoVT/) [Twitch](https://www.twitch.tv/torakkovt)|Sukeban oni tomboy
+YanchaGoGo|[Twitter](https://twitter.com/yanchagogo) [Youtube](https://www.youtube.com/c/YanchaGoGoCh) [Twitch](https://www.twitch.tv/YanchaGoGo)|
 
 ---
 
@@ -161,7 +164,7 @@ Parkdona ch. 박도나[KR]|[Twitter](https://twitter.com/parkdonakr) [Youtube](h
 諾海[CH]|[Twitter](https://twitter.com/Nuohai0104/status/1650897620565651456) [Twitch](https://www.twitch.tv/nuohai_0104)|Chinese
 Selphius[GER]|[Twitter](https://twitter.com/SelphyMelody) [Youtube](https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q) [Twitch](https://www.twitch.tv/selphy)|German
 Myun[GER]|[Twitter](https://twitter.com/Myunchen_) [Youtube](https://www.youtube.com/@myun) [Twitch](https://www.twitch.tv/myun)|German
-CowwyVT[ES]|[Twitch](https://www.twitch.tv/cowwyvt)|
+CowwyVT[ES]|[Twitch](https://www.twitch.tv/cowwyvt)|Spanish
 
 ---
 
@@ -181,8 +184,14 @@ KOKI [JP]|[Twitter](https://twitter.com/KOKI_V_creative) [Youtube](https://www.y
 さけちゃんねる金髪褐色 [JP]|[Twitter](https://twitter.com/saketya) [Youtube](https://www.youtube.com/@user-mc1vd8ch4p) [Twitch](https://www.twitch.tv/saketyav)|
 搗栗のとちゃんねる [JP]|[Twitter](https://twitter.com/Kachiguri_Noto) [Youtube](https://www.youtube.com/@NOTO_CHANNEL)|
  一等星あらた [JP]|[Twitter](https://twitter.com/Itosei_Arata) [Youtube](https://www.youtube.com/@Ittosei_Arata)|
-Aiden Khanin [EN]|[Twitter](https://www.twitter.com/AidenKhanin) [Twitch](https://www.twitch.tv/AidenKhanin )|
+Aiden Khanin [EN]|[Twitter](https://www.twitter.com/AidenKhanin) [Twitch](https://www.twitch.tv/AidenKhanin)|
 Bonnivier Pranaja[ID]|[Twitter](https://twitter.com/Bonnivier_2434) [Youtube](https://www.youtube.com/@BonnivierPranaja)|NijiID
+天津神ツカサ[JP]|[Twitter](https://twitter.com/amatsutsukasa) [Twitch](https://www.twitch.tv/amatsu3hi)|
+sorry[EN]|[Twitter](https://twitter.com/sorry_art) [Twitch](https://www.twitch.tv/sorry)|
+Kuchiwo Tsugumi [JP]|[Twitter](https://twitter.com/GugenTV) [Youtube](https://www.youtube.com/@kuchiwo)|Puzzle game playthroughs
+
+
+
 
 ---
 
