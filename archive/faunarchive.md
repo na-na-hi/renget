@@ -14,6 +14,8 @@ I FUCKING HATE MEGA PLEASE SEED
 Want a thumbnail? A lot of the files have it embedded. You can get it by doing the following ffmpeg command (of course replace video.mp4 and thumbnail.png with whatever names you want):
 `ffmpeg.exe -i "video.mp4" -map 0:v -map -0:V -c copy thumbnail.png `
 
+Want descriptions and archives of what she said in livechat? Check holodex or hololyzer if they aren't included in the entries.
+
 ## Table of contents
 [TOC3]
 
@@ -36,8 +38,11 @@ Want a thumbnail? A lot of the files have it embedded. You can get it by doing t
 ##### 【COUNCIL MEETING】NEW PHONE WHO DIS #holocouncil #hololiveEnglish
 _[2022-08-28](https://youtu.be/JRclI_h2H-U)_ - censored
 [🐈 Reason for censorship](https://files.catbox.moe/geitva.png)
+
+(dead?)
 [🧲 magnet](magnet:?xt=urn:btih:9183d09c1f0d6bb1bc433737ea928a27138c2bb1&dn=kronii%20WTF&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce)
 
+[🧲 magnet](magnet:?xt=urn:btih:1c62c70a8e597b69e24b0a2c168f108e50f24f05&dn=%e3%80%90COUNCIL%20MEETING%e3%80%91NEW%20PHONE%20WHO%20DIS%20%20%23holocouncil%20%23hololiveEnglish-JRclI_h2H-U.mp4&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2f3.tracker.eu.org%3a443)
 
 [🍀 warosu](https://warosu.org/vt/thread/S8867245#p8871695)
 
@@ -52,7 +57,13 @@ _[2021-09-01](https://youtu.be/voPm-QiHmZs)_ - unarchived
 [2021-09-22](https://www.youtube.com/watch?v=2hgwPt5kmZc) - censored
 censored due to tummy noises
 
+use this one
+[🧲 magnet](magnet:?xt=urn:btih:0d94145cf58b7b1604935c98ed36206d1546cb8f&dn=%5b20210922%5d%20%e3%80%90Fauna%27s%20ASMR%e3%80%91%20Cozy%20Autumn%20ASMR%20%f0%9f%8d%82%20Crinkley%20%26%20Comfy%20%23holoCouncil&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+
+don't use this one. 
 [🧲 magnet](magnet:?xt=urn:btih:9703e9d1ac1951e4c6191f60d833b17d0da581b5&dn=%5b2021-09-22%5d%20%e3%80%90Fauna%27s%20ASMR%e3%80%91%20Cozy%20Autumn%20ASMR%20%f0%9f%8d%82%20Crinkley%20%26%20Comfy%20%23holoCouncil&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443)
+
+
 
 
 #### October 2021
@@ -291,7 +302,20 @@ Set list (stream starts at 1:10):
 35. Ceres Fauna - Let Me Stay Here (partial acapella; 2:58:42)
 
 
+##### 【REBROADCAST KARAOKE】 uuuuuuuuuuuu - Ceres Fauna Ch. hololive-EN [COekYvkRqTg]
+[2022-06-20](https://holodex.net/watch/COekYvkRqTg) - unarchived
+it is the same as the one above. just a rebroadcast
+
+[🧲 magnet](magnet:?xt=urn:btih:9b296c5354f1bf4448516bd8218759c87a625ae3&dn=%5B20220620%5D+%E3%80%90REBROADCAST+KARAOKE%E3%80%91+uuuuuuuuuuuu+-+Ceres+Fauna+Ch.+hololive-EN+%5BCOekYvkRqTg%5D.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce)
+
+
 #### August 2022
+
+##### SNOT skit at CRX 2022
+[2022-08-05](https://files.catbox.moe/jyz9la.webm) - audience recording
+> Here's a properly synced video of Hololive SNOT skit at CR Expo. Had to make multiple edits to this as the original video they showed at the convention had terrible audio video sync issues. By terrible, I mean audio and video was out of sync for more than a minute...
+
+[🐈 catbox](https://files.catbox.moe/jyz9la.webm)
 
 ##### 【600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!
 _[2022-08-05](https://youtu.be/pOVeFcCzKqA)_ - unarchived
@@ -438,14 +462,14 @@ _[2022-11-18](https://youtu.be/hvCuUvk5zp0)_ - privated
 Consists of Ame, BaeRyS, Chicken Salad, Kronii, and Mori's "panels". Also some extra pictures and the omikuji slips.
 
 #####  \#HoloENAdvent Day 3 🎄 
-[2022-11-29](https://www.youtube.com/watch?v=kUK-hMXl1Co) - unlisted
+[2022-11-29](https://www.youtube.com/watch?v=kUK-hMXl1Co&list=PLNqCoLalZu8UuYSmMolcfU_JkpFVHQuSV&index=3) - unlisted
 For the holoEN advent calendar
 
 
 #### December 2022
 
-#####  \#HoloENAdvent Day 7 ⛄🎄 
-[2022-12-06](https://www.youtube.com/watch?v=3O9AE0VhXgs) - unlisted
+#####  \#HoloENAdvent Day 7 ⛄🎄 w/ Kronii
+[2022-12-06](https://www.youtube.com/watch?v=ptdt8oOJdOA&list=PLNqCoLalZu8UuYSmMolcfU_JkpFVHQuSV&index=7) - unlisted
 For the holoEN advent calendar.
 
 #####【UNARCHIVED KARAOKE】 New Outfit Singing!!
@@ -485,6 +509,13 @@ Attempted songs:
 Linkin Park - Numb (up to chorus, 1:00:03)
 Sia - Chandelier (up to chorus, 1:52:06)
 
+##### \#HoloENAdvent Day 23 w/ Mori and Mumei
+[2022-12-21](https://www.youtube.com/watch?v=ejyiAfQy3DI&list=PLNqCoLalZu8UuYSmMolcfU_JkpFVHQuSV&index=25) - unlisted
+For the holoen advent calendar
+
+##### \#HoloENAdvent Day 25 
+[2022-12-24](https://www.youtube.com/watch?v=lVOZyku0KtE&list=PLNqCoLalZu8UuYSmMolcfU_JkpFVHQuSV&index=28) - unlisted
+The final day of the advent calendar starring all sockpuppets
 
 ##### 【UNARCHIVED KARAOKE】 Christmas Singing!!! Merry Christmas 🎄🤶🎁
 _[2022-12-25](https://youtu.be/XXDjNMBjBm0)_ - unarchived
@@ -692,8 +723,6 @@ Set list (stream starts at 0:54):
 35. The Cardigans - Lovefool (2:43:14)
 36. Vance Joy - Riptide (2:46:53)
 
-Number of fragments: 10344
-
 [= w=)b](https://warosu.org/vt/thread/S45601997#p45605164)
 
 
@@ -717,7 +746,8 @@ neighbor noises autism
 [2023-04-26](https://holodex.net/watch/tfgr7SXGk14) - censored
 forest noises autism
 https://twitter.com/ceresfauna/status/1651469520278781954
-[catbox audio](https://files.catbox.moe/d2by63.aac)
+[🐈 catbox audio](https://files.catbox.moe/d2by63.aac)
+[🧲 magnet](magnet:?xt=urn:btih:a9c19502d36f6c24e61f793920cda9f79b0ff02c&dn=%5b2023-04-26%5d%20%e3%80%90KU100%20ASMR%e3%80%91%20Comfy%20ASMR%20for%20you!%20%e2%99%a1%20Ear%20cleaning%20%26%20assorted%20triggers%20for%20sleep%20%26%20relaxation%20%5btfgr7SXGk14%5d&tr=http%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.nyaa.uk%3a6969&tr=udp%3a%2f%2ftracker.filemail.com%3a6969&tr=http%3a%2f%2fre-tracker.uz%3a80&tr=https%3a%2f%2ftracker.parrotsec.org%3a443&tr=http%3a%2f%2ftracker.gbitt.info%3a80&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961&tr=udp%3a%2f%2ftracker.moeking.me%3a6969&tr=https%3a%2f%2f3.tracker.eu.org%3a443&tr=https%3a%2f%2f1.tracker.eu.org%3a443&tr=http%3a%2f%2ftracker.openzim.org%3a80&tr=http%3a%2f%2fvps02.net.orel.ru%3a80&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969&tr=udp%3a%2f%2ftracker.skynetcloud.tk%3a6969&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969)
 
 
 #### May 2023

@@ -5,6 +5,7 @@
 	Other tools:
 	[/who/ Starter Pack](https://rentry.org/xu6td)
 	[Python Scripts](https://rentry.org/3edab)
+	[OP Template](https://rentry.org/7uy87)
 
 [Go back to the Main Page](https://rentry.org/46mci)
 [TOC]

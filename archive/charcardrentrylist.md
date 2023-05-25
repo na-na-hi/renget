@@ -10,8 +10,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
-[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
+[!] [Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
+[!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
+[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [!] [Deleterious](https://rentry.org/deleterious) | Misc | English
@@ -29,10 +31,8 @@ Botmaker | Category | Defs Language
 [CptPants](https://rentry.org/CptPants) | Misc | English
 [Dould](https://rentry.org/ox3iqa) | Misc | English
 [Scrimbly](https://rentry.org/scrimb) | Misc | English
-[Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
 [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [Maestro](https://rentry.org/MaestroBots) | Misc | English
-[Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
 [Clutch](https://rentry.org/cominginclutch) | Misc | English
 [Hochimama](https://rentry.co/hochimamabots) | Misc | English
 [Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... | English

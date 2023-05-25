@@ -1,8 +1,8 @@
 # Pitanon's Bots:
 
-##Priscilla (24/05/2023) [NEW]
+##Priscilla (25/05/2023) [Updated]
 https://www.chub.ai/characters/pitanon/Priscilla
-![Image description](https://files.catbox.moe/43swjs.png)
+![Image description](https://files.catbox.moe/dpfbv9.png)
 
 ## Re:Zero Adventure Bot (22/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure

@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/XvBWu5R.jpg)
-Next Model When Edition
+![suggested OP image](https://i.imgur.com/D40pKsl.gif)
+Phoenix Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>430956403
+Last thread: >>431010185
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,7 +31,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/23) NAI updates docs https://docs.novelai.net
+(05/23) NAI updates docs https://docs.novelai.net
 (05/23) Clio drops for Opus; evals suggest best 3B model ever made https://i.imgur.com/ckldhRy.jpg https://i.imgur.com/qAKr00Q.mp4
 (05/22) Summer Phoenix is a wrap https://i.imgur.com/0O3ZPIZ.jpg ; Sudo goes long-form https://twitter.com/jamesjyu/status/1658933765824192512
 (05/20) Neat https://vcai.mpi-inf.mpg.de/projects/DragGAN ; Anon's Saga guide: https://rentry.org/How-I-do-Saga

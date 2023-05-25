@@ -74,6 +74,11 @@ https://greasyfork.org/en/scripts/423001-twitter-media-downloader
 Change the default filename to: `@{user-id}_{status-id}`
 ![](https://files.catbox.moe/vx4k7l.png)
 
+###Nitter Variant (Courtesy of Anon)
+!!!info For those who like using nitter instances for art, here's a tampermonkey script (still in developpement, will maybe implement support for multiple pics in one tweet later ) to save image with @username_statusnumber.Jpg format
+	Clicking on a image on nitter instances will propose to download it as : @username_statusnumber.jpg
+https://files.catbox.moe/b36b0d.js
+
 ##4chan-x Saucelink
 Under the Sauce tab, add the following line below `# Known filename formats:` (Refresh required)
 `https://twitter.com/%$1/status/%$2;regexp:/^@(\w+)_(\d{19})(-[0-3])?\.\w+$/`

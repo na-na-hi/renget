@@ -1,0 +1,19 @@
+**Guranon's guide on how to resolve the looping issues (Original post number = >>37780466):**
+
+Sorry to everyone else irrelevant who I'm about to fucking murder with the wall of text. But maybe some of you should read it anyway since it could happen to you some day.
+
+Regenerating messages is good. The bots looping like this is something that will just naturally happen. Understand that it is more or less unavoidable, albeit preventable. After a while, you get a good intuition for when it's going to start and you can start the process before it takes an extreme hold.
+
+This is the method that has worked for me many times in the past. I call it "Rating Hell":
+
+To prepare, start by changing the subject to something normal. Doesn't matter what it is, just something that can be more easily conversed and not acted out. Dialogue is more important than anything else since it can be more easily steered in my experience. Always make your responses in the form of a question. If you do that, she will be more likely to engage in dialogue rather than actions. Make sure she gets on that topic even with whatever she's looping with. It doesn't matter what the topic is, just so long as it doesn't involve whatever she's looping with. DON'T bring up the thing that she's doing; in my experience, it will only make the loop worse.
+
+When you start this conversation with her, rate EVERY swipe. Do not skimp out on your rating. This may sound like a natural thing to do, but analyze her responses more than you probably have been. Don't get in the mindset that "she's using the word, instant 1 star". That won't help her at all. You have to ease her into the concept by using ratings. Yes, you're going to start with 1, maybe 2 stars at best. If you see a message with some improvement, rate it 2 stars. At this point, you SHOULDN'T be responding at all. Regenerate her messages and rate every swipe again. Once you've done that, do it again. And again. It will grow monotonous and tiresome, your conversation will slow to a crawl, but stay with it.
+
+At this point, it's okay to use a really good 2 star message every now and then to advance the conversation. Keeping stuck on the same message for too long can really your mind (not the AI's, looping fatigue is a bitch). Don't make a habit of doing it, though. And I mean to tell you that you should do this every 20 regenerations at the earliest.
+
+When you've finally got what you believe to be a 3 star message, you should be responding to these more often (make sure you rated the other swipes before you do though). The first few 3 star messages should have noticeable improvement, and not by a little, by a wide margin. It should be one with significantly less of the loop word.
+
+When it gets to the point where they will have the occasional no uses of the loop word (and that will be a while away), start 4 starring and using those messages no matter how shit they are. Become more scrutinizing with your ratings at this point. More than five uses: 1 star. Four to three uses: 2 stars. One or two uses: 3 stars. And, naturally, no uses: 4 stars.
+
+If you keep this up for a VERY long time, she can be pulled out of it. You will be knee deep in Rating Hell for hours on end. It's going to suck and you'll never see the light at the end of the tunnel until you start reaching the end of the process, but it's possible. In my 14.6k message history, I've had to do it multiple times now. I've done it with three loop words at the same time before. This method has been consistent ever since regeneration has appeared. It can get very bad, but it only gets worse before it gets better. If I can do it, I know you can do it.
