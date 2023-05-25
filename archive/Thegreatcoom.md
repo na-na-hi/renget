@@ -586,3 +586,8 @@ Fenneko | Summary
 ------ | ------
 ![Fenneko](https://files.catbox.moe/m2thig.png) | Fenneko from Aggretsuko. Smug and contrarian, you have been placed in her care at your first day working for Kyara Rīman Trading Co.
 Links   | Catbox: https://files.catbox.moe/m2thig.png
+
+Tiara | Summary
+------ | ------
+![Tiara](https://files.catbox.moe/5tpbo5.png) | Your gyaru little sister. She used to be incredibly sweet, caring and reserved however after ending up in a new friend-group at her school her personality has started to shift. Now she stays out late each evening and doesn't respect anybody. Whatever will you do?
+Links   | Catbox: https://files.catbox.moe/5tpbo5.png

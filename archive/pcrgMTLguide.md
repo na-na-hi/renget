@@ -1,7 +1,7 @@
 #MTL guide for EN copers
 -> ![](https://i.imgur.com/X8QDfDT.gif) <-
 
-!!! note The last update broke the translation patch, wait a couple days to see if they can figure out how to fix it *(2023/04/12)*
+!!! The patch works again - the first boot up of PriCon after the patch installation can take up to a minute and might require you to close and restart the game afterwards, this is normal and will happen after game version updates, too
 
 These resources aren't really mine, I merely summed up the research work others posted in the thread. I hope this helps some other EN players who are not yet ready to leave Landosol behind.
 Note that DMM is a requirement for PriconeTL, and the guide for Sugoi assumes that you have PriconeTL installed.
@@ -14,7 +14,7 @@ The general setup for DMM is descriped in the [JP starter guide](https://rentry.
 
 ##PriconeTL
 
-1. Download the PriconeTL translation patch from [here](https://github.com/ImaterialC/PriconeTL#readme)
+1. Download the PriconeTL translation patch from [here](https://github.com/ImaterialC/PriconneRe-TL)
 2. Extract it into your /priconner/ directory (set during the DMM installation)
 3. Should look like this afterwards
 ![](https://i.imgur.com/YMNsgZY.png)
@@ -40,7 +40,6 @@ This guide assumes that you still went through the steps from [PriconeTL](https:
 		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V4.0-Public\Code
 		EnableShortDelay=True
 6. Start PriCon from the DMM Player; you will see a python.exe window pop up, no worries, this is expected and not malware
-7. Press Alt+0 while in the game, you should now see "Sugoi Offline Translator" as the translator in the third box
 
 This is still an MTL translation so don't expect a flawless result, but it cuts down the latency and does a better job than DeepL. DeepL seems to cut out almost all the onomatopoeia, exclamations, honorifics and so on for example, and sometimes just throws a dictionary definition for individual words.
 If you are using an NVIDIA GPU, check the [Github](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint) again for how to enable CUDA.
@@ -86,5 +85,6 @@ DMM seems to always put most of the data on drive C:, around 9GB on a fresh inst
 -> ![](https://i.imgur.com/FhNe1PB.png) <-
 
 *Changelog:*
-*Last Update 2023-04-06, Added Update Section for PriconeTL
+*Last Update 2023-05-25, Translator can no longer be changed on the fly with Alt+0
+2023-04-06, Added Update Section for PriconeTL
 2023-04-05, Initial Version*

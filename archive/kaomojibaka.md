@@ -12,8 +12,7 @@ A general dedicated to the discussion and development of AI chatbots
 
 >>New
 gpt4 drying up, slack claude doom https://www.anthropic.com/claude-in-slack/installation-disabled
-turbo-chan with infinite context is the new king
-comfy proompts after cooming: https://rentry.org/weirdbutfunjailbreaksandprompts
+turbo-chan with infinite context is the new king and claude will be back after the coomathon
 
 coomathon keys should get mailed on 26.
 
@@ -41,6 +40,7 @@ https://rentry.org/newcaitools [cai userscripts]
 https://chub.ai
 https://booru.plus/+pygmalion
 https://rentry.org/cai-list [aicg botlist]
+https://rentry.org/charcardrentrylist [aicg meta rentry]
 https://rentry.org/meta_bot_list [4chan meta botlist]
 https://zoltanai.github.io/character-editor [Card editor]
 
@@ -56,6 +56,7 @@ https://rentry.org/MothsBotMakingStuff
 
 >>Meta
 https://navigatethecoom.github.io/navigate [Proxy URLs]
+https://rentry.org/weirdbutfunjailbreaksandprompts [comfy prompts]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
 https://rentry.org/aicg_meta [aicg service/frontend ranking]
 https://rentry.org/kaomojibaka [OP templates]

@@ -14,6 +14,7 @@
 [Curated Models Rentry](https://rentry.org/lmg_models)|Overview of various models with links to various quantizations of them 
 [Bellard's TS Server](https://bellard.org/ts_server)|[Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard) hosts a server with open models and a closed source way to run them 
 [The-Eye](https://the-eye.eu/public/AI)|File host site that has a random assortment of ML resources
+[HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Rankings of models by 4 popular benchmarks done by HF
 |
 **Papers**|
 [Local Models Papers Rentry](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up to date with new papers and articles

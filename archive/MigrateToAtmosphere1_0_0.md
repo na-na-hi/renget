@@ -1,4 +1,4 @@
-###How to migrate your current Atmosphere setup to 1.5.3
+###How to migrate your current Atmosphere setup to 1.5.4
 ***
 !!! Warning Before you upgrade Atmosphere, please ensure to delete your `/contents/` folder located in `/atmosphere/`.
 
@@ -6,7 +6,7 @@
 ***
 Hekate | Atmosphere | Fusee | SigPatches
 :--: | :--: | :--: | :--:
-[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/download/latest/) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
+[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
 
 ####Steps:
 ***
@@ -81,7 +81,8 @@ bootprotect=0
 payload=bootloader/payloads/fusee.bin
 icon=bootloader/res/icon_payload.bmp
 ```
-!!! info Once you're done, you can set up [Exosphere/DNS.MITM](https://rentry.org/ExosphereDNSMITM) to block firmware updates and prevent your device from being banned. 
+!!! info Blocking Firmware Updates
+	Once you're done, you can set up **[Exosphere/DNS.MITM](https://rentry.org/ExosphereDNSMITM)** to block firmware updates and prevent your device from being banned. 
 
 ***
 ######[⬅️ Go Back 🦝](https://rentry.org/CFWGuides)

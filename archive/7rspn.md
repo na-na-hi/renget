@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Buhanka-chan captures MAXXPRO
+https://files.catbox.moe/6ljbtw.mp4
+>Wagner partied
+https://files.catbox.moe/wdecqp.mp4
+>Hohol unmanned marine drone destroyed
+https://files.catbox.moe/735tsr.mp4
 >MoD footage from Belgorod region of Ukrainian nationalists eliminated
 https://files.catbox.moe/23gkgl.mp4
 >Commander Ratibor presents gold coins to distinguished soldiers

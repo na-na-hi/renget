@@ -33,7 +33,7 @@ Once the upgrade/downgrade is done, you will need to reboot in order to finish t
 	`
 	[ERROR] Fatal error: [NXBOOT] Failed to determine mariko warmboot firmware
 	`
-	then [click here](https://rentry.org/SwitchFAQ/#failed-to-determine-warmboot-firmware) to learn more on how to fix the error.
+	then [click here](https://rentry.org/WarmBootError) to learn more on how to fix the error.
 
 ***
 ######[⬅️ Go Back 🦝](https://rentry.org/UpdateCFWAndFW)

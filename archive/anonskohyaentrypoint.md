@@ -7,7 +7,7 @@ Features the ability to automatically update your training settings when Kohya a
 FOR THE MOST RECENT VERSION OF THIS SCRIPT CHECK HERE: https://rentry.org/anonskohyaentrypoint
 FOR AN EXAMPLE TRAINING SETTINGS FILE LOOK HERE: https://rentry.org/anonskohyaentrypointexample
 * Note that you need to set "--network_module" which defaults to None to "networks.lora" if you're making a new file from the bare defaults.
-(Last updated 2023/4/6)
+(Last updated 2023/5/25)
 
 Made because I wanted something other than LoRA Easy Training Scripts or the various Powershell scripts floating around.
 LoRA Easy Training is way over complicated imho for something that just passes off some args to another program.
@@ -229,7 +229,7 @@ def dump_arg_infos_to_file(op_name, arg_infos, out_path):
 def read_arg_infos_from_file(in_path):
     lines = None
     with open(str(in_path), "r", encoding="utf8") as file:
-        lines = [ll for ll in [l.strip() for l in file.read().replace('\r', '').split('\n')] if len(ll) > 0 and not ll.startswith('[')]
+        lines = [ll for ll in [l.lstrip() for l in file.read().replace('\r', '').split('\n')] if len(ll) > 0 and not ll.startswith('[')]
     num_lines = len(lines)
     lines_per_arg = 4
     if num_lines % lines_per_arg != 0:
@@ -242,7 +242,7 @@ def read_arg_infos_from_file(in_path):
         info = ArgInfo()
         info.key = lines[idx].strip()
         idx += 1
-        info.help_text = lines[idx].strip()
+        info.help_text = lines[idx]
         idx += 1
         def_val_line = lines[idx]
         idx += 1

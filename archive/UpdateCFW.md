@@ -9,6 +9,8 @@ There are two methods when it comes to updating your CFW:
 ***
 ####PC Method
 ***
+!!!note Sigpatches need to be updated only on each ==firmware== update, not each ==CFW== update. This is thanks to [sys-patch](https://github.com/ITotalJustice/sys-patch).
+
 !!! Info You can access your SD card contents via USB by following [this](https://rentry.org/SDCardViaUSB#hekate) guide.
 #####What you'll need:
 []()
@@ -16,7 +18,8 @@ There are two methods when it comes to updating your CFW:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/latest)
 * [fusee](https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin)
 	* Only download this if you are using `fusee.bin`.
-* [Sigpatches](https://jits.cc/patches)
+* [Sigpatches](https://sigmapatches.coomer.party/sigpatches.zip)
+	* Only download this if you are updating your **firmware**.
 
 
 []()
@@ -26,6 +29,7 @@ There are two methods when it comes to updating your CFW:
 	* `atmosphere-x.xx.x-master-xxxxxxxx+hbl-x.x.x+hbmenu-x.x.x.zip`
 	* `hekate_ctcaer_x.x.x_Nyx_x.x.x.zip`
 	* `SigPatches.zip`
+		* This file is only necessary if you have updated your firmware.
 2. When asked to overwrite any files, click **Yes**.
 3. Move `fusee.bin` to `/bootloader/payloads/`.
 	* If you inject `fusee.bin` with a payload injector, then update the payload on your injector.
@@ -35,21 +39,17 @@ There are two methods when it comes to updating your CFW:
 #####What you'll need:
 []()
 * [All In One Switch Updater](https://github.com/HamletDuFromage/AIO-switch-updater/releases/latest/)
+* [Sigpatch-Updater](https://github.com/ITotalJustice/sigpatch-updater/releases/latest/download/sigpatch-updater.nro)
 []()
 []()
 #####Setup:
-!!! INFO You will need to do this only once
 1. Extract `aio-switch-updater.zip` to your SD card.
-2. Enter **All In One Switch Updater**.
-3. Scroll down to **Custom downloads** and select the **second** ==Add a custom link== button.
-4. Add the following to the **Title** and **Link** fields:
-	* **Title**: `Signature Patches`
-	* **URL**: `https://sigmapatches.coomer.party/sigpatches.zip`
+2. Move `sigpatch-updater` to the `/switch/` folder on your SD card.
 
 #####Steps:
-1. Enter **All In One Switch Updater**.
-2. Scroll down to **Custom downloads** and select ==Signature Patches==.
-	* When asked to overwrite existing `.ini` config files, select ==No==.
+1. Enter **Sigpatch-Updater**.
+2. Select ==Update sigpatches==.
+3. Enter **All In One Switch Updater**.
 3. Scroll down to **Update Atmosphere** and pick `atmosphere-x.xx.x-master-xxxxxxxx+hbl-x.x.x+hbmenu-x.x.x.zip`.
 4. Select ==Continue==.
 	* When asked to overwrite existing `.ini` config files, select ==No==.
