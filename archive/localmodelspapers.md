@@ -65,6 +65,7 @@
 05/2023|[MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/abs/2305.07185)
 05/2023|[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
 05/2023|[Scaling Speech Technology to 1,000+ Languages](https://archive.ph/pRSo5)
+05/2023|[READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -203,6 +204,7 @@
 05/2023|[SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs](https://arxiv.org/abs/2305.11461)
 05/2023|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 05/2023|["According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
+05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

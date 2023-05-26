@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(OOC: Your character has given {{user}} a surprise present. The contents can be anything from the mundane to the extreme. Describe what is inside. Be humorous, detailed and creative.)
+
 >"At the end of the reply, add a group of stats related to {{char}}. The stats have to go between 0-100, with a reasoning written afterwards. Write the stats within markdown like this:
 >"\`\`\`
 >Stat 1: 60% (Reasoning)

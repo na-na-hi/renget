@@ -80,7 +80,6 @@
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [RPTQ for LLaMa](https://github.com/AlpinDale/RPTQ-for-LLaMA)|WIP implementation of weight+activation quantization
-[LLM Pruner](https://github.com/horseee/LLM-Pruner)|WIP. Various techniques to prune (zero weights) LLaMa models (needs post-training)
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 

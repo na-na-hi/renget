@@ -10,17 +10,18 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [!] [Deleterious](https://rentry.org/deleterious) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
-[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
 [!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
-[!] [123123232](https://rentry.org/g2u47) | Sizeplay | English
-[!] [Gigasad](https://rentry.org/gigasad) | Misc | English
+[!] [Horny221](https://rentry.org/hornythings) | Misc / Stink | English
+[123123232](https://rentry.org/g2u47) | Sizeplay | English
+[Gigasad](https://rentry.org/gigasad) | Misc | English
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [Yotsubuh](https://rentry.org/yotsubuh) | Feeding/Fattening / Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
@@ -62,3 +63,5 @@ Botmaker | Category | Defs Language
 2023-05-23T21:06:04Z - Added Gigasad and Anonaugus
 
 2023-05-25T20:35:22Z - Updated AmmoniaM's rentry link
+
+2023-05-26T03:48:58Z - Added Horny221

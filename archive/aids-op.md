@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://femto.scrolller.com/mushrooms-grew-on-towel-full-of-cum-6repm9v8wx.jpg)
-Cyan Edition
+![suggested OP image](https://i.imgur.com/RIJ0ykE.jpg)
+Neko Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>431127181
+Last thread: >>431210485
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/23) NAI gets inpainting https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; updates docs https://docs.novelai.net
-(05/23) Clio drops for Opus; evals suggest best 3B model ever made https://i.imgur.com/ckldhRy.jpg https://i.imgur.com/qAKr00Q.mp4
-(05/22) Summer Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg ; Sudo goes long-form https://twitter.com/jamesjyu/status/1658933765824192512
+(05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
+(05/23) Clio drops for Opus; best 3B evals ever? https://i.imgur.com/ckldhRy.jpg https://i.imgur.com/qAKr00Q.mp4
+(05/22) Summer Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg ; long-form Sudo https://twitter.com/jamesjyu/status/1658933765824192512
 (05/20) Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Finish your cards for tonight's theme: Catgirl Friday!
+\>Today is Catgirl Friday, reply to the anchorpost with your cards! Last: >>431229591
 
 
 ##Perma-Template

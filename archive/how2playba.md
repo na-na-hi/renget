@@ -24,7 +24,7 @@ You can play the game through emulators such as [Nox](https://www.bignox.com/), 
  If you want the game in something like "tablet mode" (which lets you see more of the screen (some visuals are cut off at default resolution)), consider changing your emulator to the resolution 1440x1080
 
 For comparison:
-!["Resolutions](https://i.imgur.com/1Zekisx.jpg)
+![Resolutions](https://i.imgur.com/1Zekisx.jpg)
 
 As an aside, payment options can be dodgy on JP if you want to be a whale depending on your region/your payment account's region. These situations are more complicated. Ask about them in the thread.
 
@@ -479,10 +479,9 @@ If you want to help a future newfag or would like to put urself up there yoursel
 You can headpat a girl again after 3 hours from the last time you did, giving you 4 opportunities every cafe reset. 
 
 >Relationship levels 
-The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*
-I have no idea how these sites work, but they seem helpful. 
-[Link 1](https://arona.ai/calc/favor) 
-[Link 2](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
+The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*. 
+[This link let's you calculate how many cafe headpats, gifts, and lessons converts into relationship level.](https://arona.ai/calc/favor) It's korean, so use ur browser's auto translate for it. 
+[This link provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
 
 # FAQ
 > I'm AP capped! What do I spend it on?

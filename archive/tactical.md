@@ -148,7 +148,7 @@ Some may be reluctant to share their Steam profile publicly to join online/co-op
 
 >[Tactical Gaming community Discord](http://www.r6chat.com) started as a classic R6 modding server but expended and now features communities and mod devs for all the major games like SWAT 4, Ready or Not, Ground Branch, Squad, Insurgency, Zero Hour, etc. Can be useful to ask for players, troubleshoot/guides, follow updates.
 
---
+---
 
 ## WebMs (recording and encoding)
 

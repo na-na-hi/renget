@@ -5,10 +5,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-26-2023] - Added BluemoonRP 30B
 [05-24-2023] - Added SuperHOT Prototype
 [05-23-2023] - Added WizardLM 30B
 [05-20-2023] - Added Manticore 13B
-[05-19-2023] - Added Pyg & Meth 13B
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -67,6 +67,21 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 ## ->Models/Finetunes/LoRA's<-
+
+### BluemoonRP 30B 4K (05/26/2023)
+!!! info
+
+	An RP/ERP focused finetune of LLaMA 30B, trained on BluemoonRP logs. It is designed to simulate a 2-person RP session. This version has 4K context token size, achieved with AliBi.
+
+	It uses a non-standard format (LEAD/ASSOCIATE), so ensure that you read the model card and use the correct syntax.
+
+	>Type: Roleplay
+	>Filtering: None
+
+Model | Type | Download
+--- | --- | ---
+30B GGML | CPU | [Q5_0](https://huggingface.co/reeducator/bluemoonrp-30b)
+30B | GPU | [Q4 CUDA 128g](https://huggingface.co/reeducator/bluemoonrp-30b)
 
 ### SuperHOT 30B Prototype (05/24/2023)
 !!! info

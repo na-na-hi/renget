@@ -10,6 +10,10 @@
 	4. Click Save
 
 ***
+You wake up, feeling rested and eager to start a new day, but when you leave your dorm you realise something's horribly wrong. The rooms of the guild hall are twisted and distorted - familiar locations warped and askew, and to make matters worse you can see some of the other guildmates around, but something's not right about them. What's going on??
+
+Somehow the guildhall itself has turned into a mystery dungeon, and the feral pokemon populating it are copies of all the guildmates, twisted by everyone's perceptions of each other (ex: person A is intimidated by person B, so one of the copies of person B is physically more imposing than normal. or person C doesn't really know person D that well, so there's an obvious difference with the copy of person D like they're lacking a distinctive trait) Can you figure out what's going on and find out how to stop it? 
+***
 A group of guildmembers go out on a normal rescue mission, but one gets injured so badly that they get completely knocked out and wake up back at the guild's infirmary in the middle of the night. Oddly, they feel well enough to get up and walk around, but something feels different. Everyone except the local ghost type seems to be ignoring them completely! Once they take a look back at their bed in the infirmary, they see the problem: Their body is still in that bed! They got hit so hard that they must've died! Now the new "ghost-type" must find a way to get back into their own body and revive themselves before the guild pronounces them dead and buries the body for good! To make things worse, their ghostly form appears to be getting weaker by the hour, and will most likely completely disappear by sunrise. How will other guildmembers react to their "death", and who can the "dead" guildmember use to aid them in their attempt at returning to their body? Perhaps ghost-types and those with strong aura powers could help...
 
 ***
