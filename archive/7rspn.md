@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>AFU Commander shot in the head by his own
+https://files.catbox.moe/sbv2po.mp4
+>Wagner conducted POW exchange
+https://files.catbox.moe/x78xfu.MP4
+>Wagner hand over bodies of two foreign mercenaries
+https://files.catbox.moe/ooc6o1.mp4
+>15 AFU surrendered in the Avdiivka direction
+https://files.catbox.moe/uwma3k.MP4
+>Hohol helmet cam CQC fail
+https://files.catbox.moe/c65plp.mp4
+>Lancet compilation KINO
+https://files.catbox.moe/z0gr43.webm
+>Wagner begins transfer of positions in Bakhmut
+https://files.catbox.moe/g1u260.mp4
 >Buhanka-chan captures MAXXPRO
 https://files.catbox.moe/6ljbtw.mp4
 >Wagner partied

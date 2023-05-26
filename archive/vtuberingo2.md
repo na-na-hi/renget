@@ -3,10 +3,20 @@ if there's something new just post it in the thread
 
 **Ringo**
 Sonohara Airi - [Jul 20 2021](https://www.youtube.com/watch?v=-h7xPApC_Ys) (@ 53:37, 1:09:49, 1:21:57) / [Oct 19 2021](https://youtu.be/laiJ0Ls5kcw) (@ 54:43, 57:15, 1:02:20) / [Feb 17 2022](https://www.youtube.com/watch?v=n0myz4NmIo0) (@ 1:25:44) / (ft. Tenshouin Hiina) - [Apr 27 2021](https://youtu.be/DHFb_9zmr3M) (@ 47:22, 49:38, 1:00:28)
-Nonoa - [Dec 21 2021](https://www.youtube.com/watch?v=oz8edHJ_igw) (@ 6:26 + very small amounts throughout the rest of the vod) / [Jan 1 2022](https://youtu.be/gSFIznxuJcI?t=3470), (@57:50)
+Nonoa - [Dec 21 2021](https://www.youtube.com/watch?v=oz8edHJ_igw) (@ 6:26 + very small amounts throughout the rest of the vod) / [Jan 1 2022](https://youtu.be/gSFIznxuJcI?t=3470), (@57:50); https://files.catbox.moe/5cq1e5.m4a ; https://files.catbox.moe/xgvsn9.m4a (featuring Luna Neige)
 Inuyama Tamaki's Pee Holding Tetris (ft. too many to list) - https://www.youtube.com/playlist?list=PLbK4ohgRdoxqRoyl49j_LoLxoou05Hx3E
 Saruei - https://files.catbox.moe/v1kwlj.ogg
 Levi Elipha - https://twitter.com/tyarhannnogu/status/1284480087585218560?s=46&t=0aEjfJoroydNIQovfhqJLw
+Rurikawa Emiri - https://www.youtube.com/watch?v=e-7EFgEocBM&t=3658s
+Hakuma Rei - https://www.youtube.com/watch?v=ClpiBrHBvkc&t=5865s
+Hiina Tenshouin - https://www.youtube.com/watch?v=I4WXiVRBbl8&t=3155s
+Raisu Umeru - https://www.youtube.com/watch?v=7nDnIGzgFvQ&t=3715s
+Kawai Coron - https://www.youtube.com/watch?v=4H0n9TuY8Pw&t=3480s
+Honioi Temari - https://www.youtube.com/watch?v=7h6d6pBAjtA&t=3875s
+Temako - https://www.youtube.com/watch?v=Q-CCgeRLV7E&t=10662s
+Mataame Shizuku - https://www.youtube.com/watch?v=A7QXGsd2Fa0&t=3951s
+Sumire Kuritori - https://files.catbox.moe/ybd3f9.m4a
+Momoga Koyoi - https://www.youtube.com/watch?v=RoVLAKkzr2I&t=12720s
 
 **Braps**
 Tokoyami Towa (or Usada Pekora?) - https://youtu.be/vvNHxiHFHqc?t=6582; https://files.catbox.moe/pudiif.mp4

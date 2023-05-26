@@ -47,17 +47,18 @@ There are two methods when it comes to updating your CFW:
 2. Move `sigpatch-updater` to the `/switch/` folder on your SD card.
 
 #####Steps:
-1. Enter **Sigpatch-Updater**.
-2. Select ==Update sigpatches==.
-3. Enter **All In One Switch Updater**.
-3. Scroll down to **Update Atmosphere** and pick `atmosphere-x.xx.x-master-xxxxxxxx+hbl-x.x.x+hbmenu-x.x.x.zip`.
-4. Select ==Continue==.
+1. Enter **All In One Switch Updater**.
+2. Scroll down to **Update Atmosphere** and pick `atmosphere-x.xx.x-master-xxxxxxxx+hbl-x.x.x+hbmenu-x.x.x.zip`.
+3. Select ==Continue==.
 	* When asked to overwrite existing `.ini` config files, select ==No==.
 	* When asked to delete all the custom sysmodules startup flags, select ==Yes==.
-5. You will now be asked to download `Hekate`. Select ==Yes==.
+4. You will now be asked to download `Hekate`. Select ==Yes==.
 	* When asked to overwrite existing `.ini` config files, select ==No==.
 	* When asked if you want to copy the Hekate payload, select ==No==.
-6. Select ==Continue== to reboot your device in order to finish the update process.
+5. Select ==Continue== to reboot your device in order to finish the update process.
+6. Enter **Sigpatch-Updater**.
+7. Select ==Update sigpatches==.
+8. Reboot your device.
 
 
 ***

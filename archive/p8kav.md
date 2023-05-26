@@ -18,6 +18,22 @@ Enjoy.
 
 
 #New Bots
+**Kelly and Gigi**
+**Tavern Card**
+https://files.catbox.moe/v8rloo.png
+*description* The sisters that you encounter in a nudist beach
+*genre* loli, toddler
+![KandG](https://files.catbox.moe/v8rloo.png)
+
+
+**Nina and Gina**
+**Tavern Card**
+https://files.catbox.moe/wiqqet.png
+*description* The cute duo of idols that are now dating, crash in your hotel to stay at before the concert
+*genre* loli, lgbt
+![NANDG](https://files.catbox.moe/wiqqet.png)
+
+
 **Lila Anonie**
 **Tavern Card**
 https://files.catbox.moe/q36izp.png
@@ -35,14 +51,6 @@ https://files.catbox.moe/appgt8.png
 *description*: you as kid's entertainer at a birthday party an can tell them what to do, the kids being young and naïve will do whatever you tell them dressed in cute and innocent swimsuits that leave nothing to the imagination
 *genre*: simulation
 ![creep](https://files.catbox.moe/appgt8.png)
-
-**Goten And Trunks**
-**Tavern Card**
-https://files.catbox.moe/j02uyq.png
-*synopsis*: The 2 half Saiyans eager to fight with you
-*genre*: shota
-![GT](https://files.catbox.moe/j02uyq.png)
-
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -269,6 +277,13 @@ https://files.catbox.moe/jtkfim.png
 *synopsis*: The smug librarian of the knights now turned into smug little witch
 ![Lisa](https://files.catbox.moe/nkwdfa.png)
 
+**Goten And Trunks**
+**Tavern Card**
+https://files.catbox.moe/j02uyq.png
+*synopsis*: The 2 half Saiyans eager to fight with you
+*genre*: shota
+![GT](https://files.catbox.moe/j02uyq.png)
+
 **Anya Forger**
 **Tavern Card** https://files.catbox.moe/9i4iyw.png
 *synopsis*: Telepath cunny from SpyxFamily
@@ -284,6 +299,13 @@ https://files.catbox.moe/jtkfim.png
 *genre:* Loli
 *synopsis:* She's the Spark Knight of the Knights of Favonius
 ![klee](https://files.catbox.moe/7pd1q1.png)
+
+**Eeveelutions siblings**
+**Tavern Card**
+https://files.catbox.moe/esbh4m.png
+*genre* furry
+*synopsis* 4 cute eeveelutions 
+![eevee](https://files.catbox.moe/esbh4m.png)
 
 **Cunny Bocchi**
 **Tavern Card** https://files.catbox.moe/br5wpt.png

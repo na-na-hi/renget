@@ -25,12 +25,6 @@ https://github.com/Cohee1207/SillyTavern
 
 ![](https://files.catbox.moe/witert.png)
 
-##### VenusAI
-https://venusai.chat
-- vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
-
-![](https://files.catbox.moe/iworgx.png)
-
 ***
 
 !!! info
@@ -110,6 +104,7 @@ https://www.happyaccidents.ai
 
 !!! info
     #### Local models
+    *this section needs a rewrite [26.05.2023]*
 
 ##### Pygmalion-6B
 https://koboldai.org/cpp [CPU]
@@ -117,7 +112,10 @@ https://pastebin.com/Ah5ZUcGE [Node.js install guide (Win7)]
 https://laika-ch.itch.io/laikas-litevn-ui-for-koboldai [Laika’s LiteVN]
 https://rentry.org/Pyggymancy [Guide]
 https://rentry.org/PygTips
-- Classic pyg links. Not much going on with it right now
+- Classic pyg links.
+
+https://docs.alpindale.dev
+- official manual, very extensive and detailed
 
 ##### LLaMa
 https://rentry.org/better-llama-roleplay [RP guide]
@@ -144,7 +142,7 @@ https://rentry.org/newcaitools [CAI tools]
 ![](https://files.catbox.moe/l2f7ba.png)
 
 ##### KoboldAI
-https://koboldai.org/ / https://koboldai.org/colab
+https://koboldai.org / https://koboldai.org/colab
 https://lite.koboldai.net/ [Horde]
 https://rentry.org/ipfub
 https://koboldai.org/colab
@@ -162,9 +160,22 @@ https://boards.4channel.org/vg/catalog#s=aids
 ##### Miku\.gg
 https://docs.miku.gg
 https://rentry.org/mikugg
-- frontend for OAI and Kobold; local install and online demo; TTS and rich Emotion images support; own bot format
+- frontend for OAI and Kobold; local install and online demo; TTS and very rich Expressions support; own bot format
 
 ![](https://files.catbox.moe/uwxk54.png)
+
+##### Project Akiko
+https://github.com/Project-Akiko/Project-Akiko-Web
+- independent alternative to SillyTavern (?)
+
+![](https://files.catbox.moe/y2s0ix.png)
+
+##### VenusAI
+https://venusai.chat
+- vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
+- currently down
+
+![](https://files.catbox.moe/iworgx.png)
 
 ##### TavernAI
 https://github.com/TavernAI/TavernAI
