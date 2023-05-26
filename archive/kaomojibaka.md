@@ -14,9 +14,11 @@ A general dedicated to the discussion and development of AI chatbots
 gpt4 drying up, slack claude doom https://www.anthropic.com/claude-in-slack/installation-disabled
 turbo-chan with infinite context is the new king and slaude will be back after the coomathon and the gpt keys will reset and todd will be back
 
-coomathon keys should get mailed on 26.
+Coomathon keys 28.05. now, but you NEED to submit a project idea first. [Nasti bot when?]
 
 https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]
+
+
 
 >>Frontends
 >Tavern

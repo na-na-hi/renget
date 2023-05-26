@@ -1,5 +1,8 @@
 # Pitanon's Bots:
 
+## Beatrice (26/5/2023) [NEW!]
+![Image description](https://files.catbox.moe/k3amz4.png)
+
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![Image description](https://files.catbox.moe/rn0jew.png)
