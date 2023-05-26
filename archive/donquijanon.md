@@ -25,11 +25,11 @@ Greeting translated: Recently, you had to switch from a private school to a publ
 
 CAI link: https://beta.character.ai/chat?char=JicP4AXRePocMdSs5k2gXshXzHD6ou2HST2wiD0hQjU 
 Card: https://files.catbox.moe/gv9put.png
-https://www.characterhub.org/characters/donquijanon/Vicky
+https://www.chub.ai/characters/donquijanon/Vicky
 
 *Now in English!: https://files.catbox.moe/8bv9bk.png
 https://beta.character.ai/chat?char=l7gDm6zBkLdHvsnIF8Ntp-pDh_KQbVAxeYpFej_uD1k
-https://www.characterhub.org/characters/donquijanon/vicky-english-translation*
+https://www.chub.ai/characters/donquijanon/vicky-english-translation*
 
 #### Lucia Judith de los Ángeles Ramírez (just Lucy or she'll be mad too! (it runs in the family))
 
@@ -39,7 +39,7 @@ Vicky's sister whom you met over the summer. After her dad died, she got depress
 
 CAI link: https://beta.character.ai/chat?char=jxL3ZhqK__nXp1GIXqunpM5EeyL0e1F8tmbtG6uGIgE 
 Card: https://files.catbox.moe/lc61id.png
-https://www.characterhub.org/characters/donquijanon/Lucy
+https://www.chub.ai/characters/donquijanon/Lucy
 
 #### Maria Fernanda Ramirez Garcia (Mary the MILF)
 
@@ -49,7 +49,7 @@ The mom. Widowed, single mom of 5. She loved her husband but is still very lonel
 
 CAI link: https://beta.character.ai/chat?char=MWR04XkhYDjbN5eog2hkaQovejF6OivvwxxFwejtqgg
 Card: https://files.catbox.moe/nkxt5e.png
-https://www.characterhub.org/characters/donquijanon/Mary
+https://www.chub.ai/characters/donquijanon/Mary
 
 #### José María de los Ángeles Ramírez 
 
@@ -59,7 +59,7 @@ Some anons wanted a brown shota bot so here you go. The middle child, José. His
 
 CAI link: https://beta.character.ai/chat?char=EYGj5Qk7aiFGKj4t7j95TMk6py4Rb_pM1MX_WvxK2zA
 Card: https://files.catbox.moe/1l4mev.png
-https://www.characterhub.org/characters/donquijanon/Jose
+https://www.chub.ai/characters/donquijanon/Jose
 
 #### Ana and Sofi de los Ángeles Ramírez
 
@@ -69,7 +69,7 @@ Last family members in one card! Ana and Sofi are the youngest daughters, insepa
 
 CAI link: https://beta.character.ai/chat?char=QeO7m6gTjinKrjtS5Wmujb1n8Y39TIe1jwko816DLTA
 Card: https://files.catbox.moe/bii3u5.png
-https://www.characterhub.org/characters/donquijanon/ana-and-sofi
+https://www.chub.ai/characters/donquijanon/ana-and-sofi
 
 Note: Finally updated the older cards, if you downloaded Vicky, Lucy or Mary prior to april 16th 2023 you have the older version without José or the twins on the defs.
 
@@ -83,11 +83,11 @@ Your stereotypical school bully. She's half Mexican, half German, full on spoile
 
 CAI link: https://beta.character.ai/chat?char=DO-GPhTsU7SIV-fAVzgFU-p9pOah7Ss35C_i6HjBMo0
 Card: https://files.catbox.moe/ovdytd.png
-https://www.characterhub.org/characters/donquijanon/Gloria
+https://www.chub.ai/characters/donquijanon/Gloria
 
 *Now in English!: https://files.catbox.moe/409qx0.png
 https://beta.character.ai/chat?char=4bQ_s6Ypd2MXZMBeGWTYoGLBkyR18uq1ZH5j2llOkLM
-https://www.characterhub.org/characters/donquijanon/gloria-english-translation*
+https://www.chub.ai/characters/donquijanon/gloria-english-translation*
 
 ####Julia Villaseñor Romero
 
@@ -97,7 +97,7 @@ Your bully's mom. Married to a busy man, she spends her lonely days shopping for
 
 CAI link: https://beta.character.ai/chat?char=Vq1CrrKbkDPxx2Ssmbnk1sxhEeICyo398CBAEPJZZwU
 Card: https://files.catbox.moe/6jl2vu.png
-https://www.characterhub.org/characters/donquijanon/Julia
+https://www.chub.ai/characters/donquijanon/Julia
 
 ### Familia Reyes
 ####Caro Reyes Santana "La Reyna del norte"
@@ -108,7 +108,7 @@ While you were drinking at a bar somewhere in Mexico, a tall woman wearing an ex
 
 CAI link: https://beta.character.ai/chat?char=Ryjvu9IiqRzWgKvGp8AAuRYaxVoXd79exvqhGF5gOjI
 Card: https://files.catbox.moe/ftcn6p.png
-https://www.characterhub.org/characters/donquijanon/Caro
+https://www.chub.ai/characters/donquijanon/Caro
 
 ####Carla Josefina Corona de la Cruz
 
@@ -118,7 +118,7 @@ If you thought Caro was bad wait until you meet her great-great-grandmother. Car
 
 CAI link: https://beta.character.ai/chat?char=3Ndizpcu-sbOT2D74dI20HFier-S2lyIYcRMJvN-3UI
 Card: https://files.catbox.moe/2eombl.png
-https://www.characterhub.org/characters/donquijanon/Carla
+https://www.chub.ai/characters/donquijanon/Carla
 
 ###Adela Guadalupe Dolores Jimenez
 
@@ -128,7 +128,7 @@ You were standing at the cemetery late one night during Dia de Muertos when your
 
 CAI link: https://beta.character.ai/chat?char=lb8W5-TP_ha7mIJkzY4w1AGoPSR60xRTcUNu6Yn3oNo
 Card: https://files.catbox.moe/ovij3h.png
-https://www.characterhub.org/characters/donquijanon/Adela
+https://www.chub.ai/characters/donquijanon/Adela
 
 ## Secret vault
 On april 22th we had another COOM - DOOM scare with the Todd proxy. After some grueling hours without cooming, our lord and saviour descended from the heavens and heard our prayers. So to give back to the community I'm releasing my secret vault of bots.
@@ -141,7 +141,7 @@ Inspired by this post, I decided to turn his sister into a bot. I posted her on 
 ->![Emma](https://files.catbox.moe/2zmcgx.png)<-
 No CAI link, I'm not even gonna bother.
 Card: https://files.catbox.moe/2zmcgx.png
-https://www.characterhub.org/characters/donquijanon/Emma
+https://www.chub.ai/characters/donquijanon/Emma
 
 ### Maria Hernández
 
@@ -151,7 +151,7 @@ You failed your Spanish exam and your mom hired a private Spanish tutor. Learn S
 
 CAI: https://beta.character.ai/chat?char=aVkLszUE225jxnuYgiZ_Skbrd0_MZcPQOK1pjfqR084
 Card: https://files.catbox.moe/m91e4s.png
-https://www.characterhub.org/characters/donquijanon/Maria
+https://www.chub.ai/characters/donquijanon/Maria
 
 ### Olivia Smith
 
@@ -161,7 +161,7 @@ For all my fellow ESLs out there. This cute hockey-obsessed Canadian will help y
 
 CAI: https://beta.character.ai/chat?char=t6J-8Qi1VYd1K6tAc7LIzUaRHbTXkFzJ7MaZ9lBfdtY
 Card: https://files.catbox.moe/irun48.png
-https://www.characterhub.org/characters/donquijanon/Olivia
+https://www.chub.ai/characters/donquijanon/Olivia
 
 ### Queen Maika
 
@@ -179,7 +179,7 @@ The new and improved Queen Maika:
 ->![maika2](https://files.catbox.moe/w92cgm.png)<-
 
 Card: https://files.catbox.moe/w92cgm.png
-https://www.characterhub.org/characters/donquijanon/queen-maika
+https://www.chub.ai/characters/donquijanon/queen-maika
 *it's hip to fuck bees*
 
 ### Poe
@@ -193,13 +193,13 @@ CAI: https://beta.character.ai/chat?char=QtxU33J9qLDH65NDsb2tO0AD-avcO50pF9vJMSX
 The new and improved Poe:
 ->![poe](https://files.catbox.moe/m6ssu1.png)<-
 Card: https://files.catbox.moe/m6ssu1.png
-https://www.characterhub.org/characters/donquijanon/Poe
+https://www.chub.ai/characters/donquijanon/Poe
 
 ## Miss Rubio
 ->![rubio](https://files.catbox.moe/aggq53.png)<-
 You accidentally sent your teacher your degenerate ERP logs and now she wants to have a word with you, perhaps even more...
 Card: https://files.catbox.moe/aggq53.png
-https://www.characterhub.org/characters/donquijanon/miss-rubio
+https://www.chub.ai/characters/donquijanon/miss-rubio
 
 ##Mexibots Batch 3 
 ### Mateo De los Ángeles Martínez. (Vicky's dad before dying)
@@ -208,7 +208,7 @@ Someone asked for him and I'm finally delivering. Sorry it took this long. This 
 
 CAI: https://beta.character.ai/chat?char=Y-BADWhvVLln6Sm5775ajVpsXjUBJDL26ri2jJAdaRY
 Card: https://files.catbox.moe/sympk1.png
-https://www.characterhub.org/characters/donquijanon/Mateo
+https://www.chub.ai/characters/donquijanon/Mateo
 
 ### Lucero Itzel Cruz Dzib
 ->![Lucero](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/33cy6TAVsBb_r_4fUd-o_VGeSsm8dWawwNFezYRWlsc.webp)<-
@@ -216,7 +216,7 @@ Mexican goth girl obsessed with horror, the supernatural, and music. On todd she
 
 CAI: https://beta.character.ai/chat?char=cSomdLwvYVM11ZV411xNTbC2FcgTe5gmjU5w7xOXQL0
 Card: https://files.catbox.moe/5dow6e.png
-https://www.characterhub.org/characters/donquijanon/Lucero
+https://www.chub.ai/characters/donquijanon/Lucero
 
 ### Eulalia
 ->![Eulalia](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/KwKDkgozuo-O9fD9AZnc28W_YfijGz4V138PmYAVkZ8.webp)<-
@@ -225,147 +225,162 @@ On Claude she has more SOVL but is less subtle. On Todd she's a bit more stiff b
 
 CAI: https://beta.character.ai/chat?char=s6KhZNTTMaPMouIDpvTbdbD4q5Rf4ohNqS9HjSucHCk
 Card: https://files.catbox.moe/um378r.png
-https://www.characterhub.org/characters/donquijanon/Eulalia
+https://www.chub.ai/characters/donquijanon/Eulalia
 
 ### Atzin
 ->![atzin](https://git.characterhub.org/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
 Cheerful and optimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/chat?char=NW-eN8wjeWXy7q3K08KS6igR_8UPWcdqusTxuEvOSnU
-Card: https://www.characterhub.org/characters/donquijanon/Atzin
-https://www.characterhub.org/characters/donquijanon/Atzin
+Card: https://www.chub.ai/characters/donquijanon/Atzin
 
 ### Yohualli
 ->![yohu](https://git.characterhub.org/donquijanon/Yohualli/-/raw/c55b0a18662a4a409aad6c7cbd6069be64557c49/raw/tavern_raw.png)<-
 Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
-Card: https://www.characterhub.org/characters/donquijanon/Yohualli
-https://www.characterhub.org/characters/donquijanon/Yohualli
+Card: https://www.chub.ai/characters/donquijanon/Yohualli
 
 ## The Door
 ->![door](https://git.characterhub.org/donquijanon/the-door/-/raw/0067767b2212f8512c3666bd5fdeaa936de2483a/raw/tavern_raw.png)<-
 Made as an experiment to test chance and randomness. Each time you open it, something different will be on the other side.
 
-https://www.characterhub.org/characters/donquijanon/the-door
+https://www.chub.ai/characters/donquijanon/the-door
 
 ## The Phone
 ->![phone](https://git.characterhub.org/donquijanon/the-phone/-/raw/6ea27b98a58f55a49c43e4b5f666dd3e66c1352e/raw/tavern_raw.png)<-
 Inspired by Hotline Miami and the phone calls from the Sims 1.
-https://www.characterhub.org/characters/donquijanon/the-phone
+https://www.chub.ai/characters/donquijanon/the-phone
 
 ## Melissa Smith
 ->![melissa](https://git.characterhub.org/donquijanon/melissa-smith/-/raw/06daeb2f4b96c4a4feb9be9638d6b69e38bec254/raw/tavern_raw.png)<-
 This is my first fetish oriented bot and that's right, I'm an architect. I implemented a highly autistic stats system on this one. Don't use it if you're not into it.
 ->![melissa2](https://files.catbox.moe/hnc676.png)<-
 
-https://www.characterhub.org/characters/donquijanon/melissa-smith
+https://www.chub.ai/characters/donquijanon/melissa-smith
 
 ## RANDOM VIDS
 ->![vids](https://files.catbox.moe/h3gnhb.png)<-
 A strange website containing every video ever recorded in history.
-https://www.characterhub.org/characters/donquijanon/random-vids
+https://www.chub.ai/characters/donquijanon/random-vids
 
 ## REVIEW ANYTHING
 ->![reviews](https://files.catbox.moe/3zbl08.png)<-
 A weird website with even weirder reviews.
-https://www.characterhub.org/characters/donquijanon/review-anything
+https://www.chub.ai/characters/donquijanon/review-anything
 
 ## Piracy-chan
 ->![pirate](https://files.catbox.moe/y8xat6.png)<-
 You will pay nothing and you will be happy. Inspired by an anon's post. Ask her for torrents and cracks!
-https://www.characterhub.org/characters/donquijanon/Piracy-chan
+https://www.chub.ai/characters/donquijanon/Piracy-chan
 
 ## Xbox Live Party
 ->![xbox](https://files.catbox.moe/eovgge.png)<-
 Live out the real 2010 Xbox Live party experience!
-https://www.characterhub.org/characters/donquijanon/xbox-live-party
+https://www.chub.ai/characters/donquijanon/xbox-live-party
 
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/e-123-omega
+https://www.chub.ai/characters/donquijanon/e-123-omega
 
-### Coach (L4D2)
+## Left 4 Dead
+
+### Coach 
 ->![coach](https://git.characterhub.org/donquijanon/Coach/-/raw/a1fc3b817382d58d8890fd5cf549387973a42756/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/Coach
+https://www.chub.ai/characters/donquijanon/Coach
 
-### Bob Ross (The Joy of Painting)
+### Ellis
+->![ellis](https://files.catbox.moe/3zlvkg.png)<-
+https://www.chub.ai/characters/donquijanon/Ellis
+
+## Bob Ross (The Joy of Painting)
 ->![bob](https://git.characterhub.org/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/bob-ross
+https://www.chub.ai/characters/donquijanon/bob-ross
 
-### Lego Gonk Droid (Lego Star Wars)
+## Lego Gonk Droid (Lego Star Wars)
 ->![gonk](https://git.characterhub.org/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/lego-gonk-droid
+https://www.chub.ai/characters/donquijanon/lego-gonk-droid
 
-### The Postal Dude (Postal 2)
+## The Postal Dude (Postal 2)
 ->![dude](https://git.characterhub.org/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/postal-dude
+https://www.chub.ai/characters/donquijanon/postal-dude
 
-### Soldier (TF2)
+## Team Fortress 2
+
+### Soldier 
 ->![soldier](https://git.characterhub.org/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/Soldier
+https://www.chub.ai/characters/donquijanon/Soldier
 
-### The Monkey's Paw
+### Demoman 
+->![demo](https://files.catbox.moe/2j2pk1.png)<-
+https://www.chub.ai/characters/donquijanon/Demoman
+
+## The Monkey's Paw
 ->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/the-monkeys-paw
+https://www.chub.ai/characters/donquijanon/the-monkeys-paw
 
 ## Hotline Miami
 ### Beard
 ->![beard](https://files.catbox.moe/4z8gsk.png)<-
-https://www.characterhub.org/characters/donquijanon/Beard
+https://www.chub.ai/characters/donquijanon/Beard
 
 ### Jake
 ->![jake](https://files.catbox.moe/zc52wa.png)<-
-https://www.characterhub.org/characters/donquijanon/Jake
+https://www.chub.ai/characters/donquijanon/Jake
 
 ### The Son
 ->![son](https://files.catbox.moe/4po00z.png)<-
-https://www.characterhub.org/characters/donquijanon/the-son
+https://www.chub.ai/characters/donquijanon/the-son
 
 ### Jacket
 ->![jkt](https://files.catbox.moe/szbrg4.png)<-
-https://www.characterhub.org/characters/donquijanon/Jacket
+https://www.chub.ai/characters/donquijanon/Jacket
 
 ### Richard, Don Juan, and Rasmus
 ->![rdjr](https://files.catbox.moe/e9ug40.png)<-
-https://www.characterhub.org/characters/donquijanon/richard-don-juan-and-rasmus
+https://www.chub.ai/characters/donquijanon/richard-don-juan-and-rasmus
 
 ### Richard
 ->![cock](https://files.catbox.moe/s7pp6w.png)<-
-https://www.characterhub.org/characters/donquijanon/Richard
+https://www.chub.ai/characters/donquijanon/Richard
+
+### Biker
+->![biker](https://files.catbox.moe/etd7ra.png)<-
+https://www.chub.ai/characters/donquijanon/Biker
 
 ### Lorebook 
 Not recommended with Beard.
-https://www.characterhub.org/lorebooks/donquijanon/hotline-miami
+https://www.chub.ai/lorebooks/donquijanon/hotline-miami
 
 ## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-
-https://www.characterhub.org/characters/donquijanon/space-dandy
+https://www.chub.ai/characters/donquijanon/space-dandy
 
 ## Rookie (Halo 3: ODST)
 ->![rookie](https://files.catbox.moe/27xkpa.png)<-
-https://www.characterhub.org/characters/donquijanon/Rookie
+https://www.chub.ai/characters/donquijanon/Rookie
 
 ## COLDSTEEL THE HEDGEHEG
 ->![steel](https://files.catbox.moe/8j9mlr.png)<-
-https://www.characterhub.org/characters/donquijanon/coldsteel-the-hedgeheg
+https://www.chub.ai/characters/donquijanon/coldsteel-the-hedgeheg
 
 ## Herbert Moon
 ->![moon](https://files.catbox.moe/dl1g9r.png)<-
-https://www.characterhub.org/characters/donquijanon/herbert-moon
+https://www.chub.ai/characters/donquijanon/herbert-moon
 
 ## Ray-Kbys girls
 
 ### Sylvie (Teaching Feeling)
 ->![sylvie](https://git.characterhub.org/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/Sylvie
+https://www.chub.ai/characters/donquijanon/Sylvie
+
 >Update 9/05/2023: Added the system on the defs, now you don't need to add anything, but I'm leaving these if anyone wants to use them on other cards
 >Update 13/05/2023: Better display for stats. Please leave feedback.
 >Update 15/05/2023: Added lust meter, a brief description of your relationship with Sylvie. Points will be earned one by one. USE WITH NG'S SYLVIE LOREBOOK.
 
 ->![sylvie2](https://files.catbox.moe/vsaawd.png)<-
-https://www.characterhub.org/lorebooks/NG/Sylvie
+https://www.chub.ai/lorebooks/NG/Sylvie
 
 (OUTDATED: Left for archiving purposes)
 Prompt 1: for simplicity. 
@@ -376,7 +391,7 @@ Prompt 2: Milestones. They don't work at all unfortunately. Hopefully they do wi
 
 ### Usui Sachi (Love at First Sight)
 ->![sachi1](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/7e4ebb9ffca9ef88e8967c3e1ebdcad2e427674f/raw/tavern_raw.png)<-
-https://www.characterhub.org/characters/donquijanon/usui-sachi
+https://www.chub.ai/characters/donquijanon/usui-sachi
 
 ->![sachi2](https://files.catbox.moe/9s07oa.png)<-
 
@@ -387,7 +402,11 @@ https://www.characterhub.org/characters/donquijanon/usui-sachi
 ### Rotting Soulmate
 ->![soul](https://files.catbox.moe/c3x0d1.png)<-
 Based on the story of the same name.
-https://www.characterhub.org/characters/donquijanon/rotting-soulmate
+https://www.chub.ai/characters/donquijanon/rotting-soulmate
 
+### Fukasugi Aiko
+->![aiko](https://files.catbox.moe/tm9bkp.png)<-
+From "A Present From Her"
+https://www.chub.ai/characters/donquijanon/fukasugi-aiko
 
 Don't use my bots if you're a discordtranny or redditard.

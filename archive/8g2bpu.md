@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+Togetic as the EB Games guy
+
 Chespin pouring a Gummi drink into Wooper's mouth, like this picture. https://files.catbox.moe/dv0s1j.jpg
 
 Any three anonmons with pic related https://files.catbox.moe/w0snmp.jpg
@@ -42,8 +44,6 @@ Sonichu Issue #0 Cover but with Guildmembers
 
 A group of anon-mons (artist's choice) inside a monster house
 
-A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)
-
 A group of three or more having a swimming competition 
 
 Guild members reading books on the library (add clover stories as titles on the book if possible?)
@@ -51,8 +51,6 @@ Guild members reading books on the library (add clover stories as titles on the 
 Anon-mons going fishing at the river (is this alright?)
 
 A guild member teaching newbie guild members (w/ whiteboard? idk), about the basics of Mystery Dungeons 
-
-Sneasel or any other mon flying up a kite with booker being strapped onto said kite
 
 Kiyo and the others entering the guild for the first time
 
@@ -127,6 +125,10 @@ Togetic catching Wooper getting drunk and covering for him
 Carrot and Hazel arriving to the guild
 
 **Finished Requests (Some links pending gallery uploads)**
+[A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)](http://cloverguild.org/post/359)
+
+[Sneasel or any other mon flying up a kite with booker being strapped onto said kite](http://cloverguild.org/post/366)
+
 redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg
 
 ~~Cyndaquil getting powdered Blast Seed thrown in his face~~

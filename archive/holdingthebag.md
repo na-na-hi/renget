@@ -1,5 +1,5 @@
 f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 25th May. All dates dd/mm.
+Last updated: 26th May. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -92,6 +92,7 @@ Example Submission:
 Club ID | Club Name | Club Status
 --: | -- | ----
 6358 | ヒナまつり | Open as of 23/11
+13107 | アオダマ | Open as of 25/05
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -99,7 +100,6 @@ Club ID | Club Name | Club Status
 1793 | Horny | Full as of 22/10
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
-13107 | アオダマ | Full as of 26/04
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -108,7 +108,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-244 | Cute&Funny | Open as of 15/05
+244 | Cute&Funny | Open as of 26/05
 1674 | BlueB@lled | Open as of 12/05
 11162 | Rats | Open as of 20/04
 
@@ -128,7 +128,7 @@ Club ID | Club Name | Club Status
 6294 | Lucklets | Full as of 12/04
 6665 | F2Poor | Full as of 03/05
 6786 | Enuji | Full as of 30/09
-8192 | Mesugaki | Full as of 24/04
+8192 | Mesugaki | Full as of 26/05
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 

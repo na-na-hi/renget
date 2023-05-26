@@ -508,6 +508,11 @@ NAI Trained: pixeldrain com u kS25QCQY
 
 	https://rentry.org/4o2mc
 
+# Rauru (Zelta TotK)
+Trained on Fluffyrock
+
+	https://drive.google.com/drive/folders/1yddB7y6NWBIKkCC2eSEwBaDlBRvs8r2f
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

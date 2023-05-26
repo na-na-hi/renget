@@ -104,7 +104,7 @@ Official (and unofficial) places you can get these games.
 ### Popular AAA series and console titles
 
 
--> ![aaa](https://i.imgur.com/zCPTnWt.jpg) <-
+-> ![Resident Evil](https://i.imgur.com/Cv7j2rb.jpg) <-
 
 [Alan Wake 1](https://store.steampowered.com/app/108710/Alan_Wake/) & [American Nightmare](https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/) [▶️](https://www.youtube.com/results?search_query=Alan Wake+gameplay)
 [Alien Isolation](https://store.steampowered.com/app/214490/Alien_Isolation/) [▶️](https://www.youtube.com/results?search_query=Alien+Isolation+gameplay)
@@ -133,7 +133,7 @@ Official (and unofficial) places you can get these games.
 
 ### Survival horror - Retro classic era
 
--> ![sh](https://i.imgur.com/dd1kQY3.jpg) <-
+-> ![Alone In The Dark](https://i.imgur.com/dd1kQY3.jpg) <-
 
 Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resources and inventory, etc.
 
@@ -177,7 +177,7 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 
 ### Survival horror - Retro early precursors
 
--> ![ret](https://i.imgur.com/qLxTrI9.jpg) <-
+-> ![Sweet Home](https://i.imgur.com/qLxTrI9.jpg) <-
 
 [Clock Tower 1](https://vimm.net/vault/1135) [▶️](https://www.youtube.com/results?search_query=Clock Tower+gameplay)
 [Project Firestart](https://www.myabandonware.com/game/project-firestart-5q6) [▶️](https://www.youtube.com/results?search_query=Project Firestart+gameplay)
@@ -187,21 +187,25 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 
 ### Survival horror - Indie homage/revival
 
--> ![rev](https://i.imgur.com/PrIiPmQ.jpg) <-
+-> ![Alisa](https://i.imgur.com/ZmFoLu8.jpg) <-
 
 [Alisa](https://store.steampowered.com/app/1335530/Alisa/) [▶️](https://www.youtube.com/results?search_query=Alisa+gameplay)
 [Back in 1995](https://store.steampowered.com/app/433380/Back_in_1995/) [▶️](https://www.youtube.com/results?search_query=Back in 1995+gameplay)
 [Conscript](https://store.steampowered.com/app/1286990/CONSCRIPT/) [▶️](https://www.youtube.com/results?search_query=Conscript+gameplay)
-[Haunted PS1 Demo Discs](https://hauntedps1.itch.io/) [▶️](https://www.youtube.com/results?search_query=Haunted PS1 Demo+gameplay)
 [Nightmare of Decay](https://store.steampowered.com/app/1848450/Nightmare_of_Decay/) [▶️](https://www.youtube.com/results?search_query=Nightmare of Decay+gameplay) `FPS`
 [Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/) [▶️](https://www.youtube.com/results?search_query=Signalis+gameplay)
 [Song Of Horror](https://store.steampowered.com/app/1096570/SONG_OF_HORROR_COMPLETE_EDITION/) [▶️](https://www.youtube.com/results?search_query=Song Of Horror+gameplay)
 [Them and Us](https://store.steampowered.com/app/915600/Them_and_Us/) [▶️](https://www.youtube.com/results?search_query=Them and Us+gameplay)
 [Tormented Souls](https://store.steampowered.com/app/1367590/Tormented_Souls/) [▶️](https://www.youtube.com/results?search_query=Tormented Souls+gameplay)
 
+Others:
+[Haunted PS1 Demo Discs](https://hauntedps1.itch.io/) [(Wik)i](https://en.wikipedia.org/wiki/Haunted_PS1) [▶️](https://www.youtube.com/results?search_query=Haunted PS1 Demo+gameplay) `compilations of indie horror demos inspired by low poly PS1 aesthetics`
+[Puppet Combo Store](https://puppetcombo.com/#games) [(Wiki)](https://en.wikipedia.org/wiki/Puppet_Combo) [▶️](https://www.youtube.com/results?search_query=Puppet Combo+gameplay) ([Murder House](https://store.steampowered.com/app/1064460/Murder_House/) [▶️](https://www.youtube.com/results?search_query=Murder House+gameplay), [Nun Massacre](https://puppetcombo.itch.io/nun-massacre) [▶️](https://www.youtube.com/results?search_query=Nun Massacre+gameplay), etc.) `indie studio specialized in developing and publishing low poly horror games, typically slasher-inspired`
+Individual demos/vaporware developers to check out: Banned Memories, Becrowned, Code: Dino-H, Compound Fracture, Echoes of the Living, Endless Blue, Heartworm, Hollowbody, Lake Haven, MalformationAB's Ground Zero, Paracusia, Post Trauma, Protagoras Bleeds, Simulacrum, The Devil, The Lunar Effect, The Pale... `few games in this scene end up getting finished commercial products, most will likely never become more than vaporware demos or game jam prototypes, but can be worth following dev progress on Twitter/YouTube...`
+
 ### First-person hide-and-seek/walking-sims
 
--> ![fp](https://i.imgur.com/r5PY3OQ.jpg) <-
+-> ![Amnesia](https://i.imgur.com/BzUghoD.jpg) <-
 
 Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by Outlast and Silent Hills P.T., etc. doesn't typically feature combat except in rare occasions. Worth mentioning that Bunker breaks the formula and features classic survival horror elements.
 
@@ -215,7 +219,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 
 ### Indie horror titles
 
--> ![ind](https://i.imgur.com/HkB3J1C.jpg) <-
+-> ![Faith](https://i.imgur.com/HkB3J1C.jpg) <-
 
 [ANATOMY](https://kittyhorrorshow.itch.io/anatomy) [▶️](https://www.youtube.com/results?search_query=ANATOMY+gameplay)
 [Ao Oni](https://mygames888.info/aooni.html) [▶️](https://www.youtube.com/results?search_query=Ao Oni+gameplay)
@@ -261,7 +265,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Pathologic 1](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/) & [2](https://store.steampowered.com/app/505230/Pathologic_2/) [▶️](https://www.youtube.com/results?search_query=Pathologic+gameplay) `first person`
 [Phasmophobia (VR support)](https://store.steampowered.com/app/739630/Phasmophobia/) [▶️](https://www.youtube.com/results?search_query=Phasmophobia+gameplay)
 [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) [▶️](https://www.youtube.com/results?search_query=Project Zomboid+gameplay)
-[Puppet Combo Store](https://puppetcombo.com/#games) [▶️](https://www.youtube.com/results?search_query=Puppet Combo+gameplay) + [Murder House](https://store.steampowered.com/app/1064460/Murder_House/) [▶️](https://www.youtube.com/results?search_query=Murder House+gameplay) + [Nun Massacre](https://puppetcombo.itch.io/nun-massacre) [▶️](https://www.youtube.com/results?search_query=Nun Massacre+gameplay) `short, low poly, slasher-inspired`
+[Remorse: The List](https://store.steampowered.com/app/867960/Remorse_The_List/) [▶️](https://www.youtube.com/results?search_query=Remorse The List+gameplay) `FPS`
 [Saturnalia](https://store.epicgames.com/en-US/p/saturnalia) [▶️](https://www.youtube.com/results?search_query=Saturnalia+gameplay)
 [Scorn](https://store.steampowered.com/app/698670/Scorn/) [▶️](https://www.youtube.com/results?search_query=Scorn+gameplay) `first person, Giger-inspired`
 [Slender: 8 Pages](https://www.indiedb.com/games/slender-the-eight-pages) & [Arrival](https://store.steampowered.com/app/252330/Slender_The_Arrival/) [▶️](https://www.youtube.com/results?search_query=Slender+gameplay)
@@ -282,7 +286,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 
 ### Point and click adventures
 
--> ![pc](https://i.imgur.com/Z05ORKk.jpg) <-
+-> ![Scratches](https://i.imgur.com/Z05ORKk.jpg) <-
 
 [Baron Wittard](https://store.steampowered.com/app/293980/Baron_Wittard/) [▶️](https://www.youtube.com/results?search_query=Baron Wittard+gameplay)
 [Barrow Hill](https://gog-games.to/search/Barrow%20Hill) [▶️](https://www.youtube.com/results?search_query=Barrow Hill+gameplay)
@@ -308,7 +312,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 
 ### Others, action-horror
 
--> ![act](https://i.imgur.com/Jh9E7rS.jpg) <-
+-> ![Undying](https://i.imgur.com/Jh9E7rS.jpg) <-
 
 [American McGee's Alice 1](https://www.myabandonware.com/game/american-mcgee-s-alice-452) [▶️](https://www.youtube.com/results?search_query=American McGee's Alice+gameplay) & [Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) [▶️](https://www.youtube.com/results?search_query=alice madness returns+gameplay)
 [Aliens Versus Predator 2](https://www.myabandonware.com/game/aliens-versus-predator-2-bga) [▶️](https://www.youtube.com/results?search_query=Aliens Versus Predator 2+gameplay)
@@ -333,7 +337,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 
 ### Others, horror parodies, Halloween games
 
--> ![ha](https://i.imgur.com/CNSV7Dq.jpg) <-
+-> ![Luigi's Mansion](https://i.imgur.com/CNSV7Dq.jpg) <-
 
 Lighthearted, cartoonish, kids-friendly or fun takes on horror tropes, etc. perfect for the Halloween season.
 
@@ -348,7 +352,7 @@ Zombie/horror spin-offs of popular series, like Red Dead Redemption: Undead Nigh
 
 ### Free mods / total conversions
 
--> ![fr](https://i.imgur.com/l9sFA5x.jpg) <-
+-> ![MyHouse](https://i.imgur.com/l9sFA5x.jpg) <-
 
 [Blood: Death Wish](https://www.moddb.com/mods/death-wish-for-blood) [▶️](https://www.youtube.com/results?search_query=Blood: Death Wish+gameplay)
 [Doom: MyHouse.wad](https://www.doomworld.com/vb/thread/134292) [▶️](https://www.youtube.com/results?search_query=Doom: MyHouse.wad+gameplay)

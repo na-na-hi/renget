@@ -149,6 +149,9 @@ You should now have a Windows partition on C:\ and an empty data partition on D:
  
 
 **Moving user folders to second partition or 2nd drive**
+There are two ways to do this, manually though Windows GUI, or through Registry Editor, both ways make the exact same changes to internal system settings.
+
+*Method A*
 Go into C:\Users\username.
 Right click on a folder you want to relocate and select Properties.
 Go to the Location tab, and enter in a new location for the folder (example: C:\Users\username\My Documents -> D:\My Documents)
@@ -161,6 +164,17 @@ Now when an application or game saves user files, it should save to your second 
 ![](https://images2.imgbox.com/98/a7/0RiA93V3_o.png)
  
 Now in the event you need to reinstall, you can freely reinstall without worrying about your files. Just reinstall and then redirect the user folders from C:\Users\username to your 2nd partition/drive and all your files will show up in the appropriate locations for access by programs and games.
+
+*Method B*
+For more advanced users, you can edit all the folder locations directly from Registry Editor.
+Press Win+R, type RegEdit, and press enter to bring up Registry Editor, and go to:
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+From here you can just copy paste "D:\" or wherever your secondary partition is and paste it in the fields for the folders you want to relocate.
+
+![](https://images2.imgbox.com/f4/38/rhvztrLb_o.png)
+
+If you want, you can also right click on the Key and export it to a .reg file to easily redo this on future reinstalls.
  
  
 ######Step 7 (Recommended): Use portable apps to also save having to reconfigure on reinstalls

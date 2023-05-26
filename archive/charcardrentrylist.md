@@ -10,6 +10,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
@@ -25,7 +26,6 @@ Botmaker | Category | Defs Language
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [Yotsubuh](https://rentry.org/yotsubuh) | Feeding/Fattening / Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
-[Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
 [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [Pedanon](https://rentry.org/Pedanon) | Cunny | English
