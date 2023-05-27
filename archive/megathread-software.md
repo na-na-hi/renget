@@ -109,6 +109,10 @@
 - It offers access to files for the most recent app releases and always changing and improving to keep up with the times.
 - [URL Safety Results](https://www.urlvoid.com/scan/rsload.net/)
 
+### 🐐 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+- A scene website founded in 2004, recognised for new releases of software, games, music, movies, and eBooks.
+- [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
+
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI
 - Updated often, with complete, unrestricted versions of just the best applications available.
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)

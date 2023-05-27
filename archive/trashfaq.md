@@ -9,6 +9,11 @@ For Online, check here https://github.com/AUTOMATIC1111/stable-diffusion-webui/w
 Besides the possibilities listed there, https://stablehorde.net/ is another possible way of using this online. Horde allows users to give others access to their hardware to generate images for a currency that allows them to get higher priorities when they themselves want to use others' hardware. Make sure to check out the FAQ.
 From what I tried, https://aqualxx.github.io/stable-ui/ as a GUI for horde seems to work just fine.
 
+## What can the WebUI even do?
+
+Starting out, I suggest giving A1111's Features page a read; it contains information for many of the WebUI's functions, some of them more useful than others.
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
+
 ## What is the best model?
 After a long drought, we now have two whole models trained on furry stuff on e621: Fluffyrock and Fluffusion. 
 Current thread favorites are merges between Fluffyrock, Fluffusion and Crosskemono.
@@ -27,6 +32,36 @@ Follow the instructions in the GitHub to install the userscript.
 
 Left click the download arrow to download an image. Right click it to show the metadata in-browser.
 Downloaded catbox images can be opened in the WebUI's PNG Info tab to look at the metadata, and move it over to txt2img/img2img.
+
+## How do I install extensions?
+
+The WebUI comes with its own maintained list of extensions to be installed from within the WebUI itself; go to Extensions > Available, and click Load from to get a list. From here, you can click on the names to check out the extensions' GitHub pages for more info, or click Install to do just that.
+
+Alternatively, you can paste an extension's GitHub URL into Extensions > Install from, and click Install.
+
+## What tags should I use in my prompts?
+
+How you write your prompts is entirely dependent on the model; base Stable Diffusion works by using natural language, whereas NovelAI Anime(and everything that uses it as a base) uses Danbooru tags.
+Furry models, like yiffy e18, Fluffyrock, Fluffusion and Crosskemono (at least 2.0 and 2.5) use e621 tags instead. In general, try checking out a model's documentation and example prompts to get an idea how to prompt properly.
+
+For prompting with tags, I recommend using the SD WebUI Tagcomplete extension that can be found in Automatic1111's extension list. It comes with .csv files containing Danbooru and e621 tags by default, and suggests fitting tags based on what you are writing.
+
+The authors of Fluffusion and Fluffyrock both made .csv files containing the exact tag counts of tags used in training; put them into \stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags.
+Also, both models are recommended to be used with artist tags to guide the resulting images' style; as with anything regarding SD, this is just a recommendation however, if it looks good it looks good.
+Fluffyrock removed any and all meta tags, whereas fluffusion still contains them, allowing for use of tags like "traditional media \(artwork\)" or the like. Again, check the .csv files for info about what works and what doesn't.
+
+You can choose between the different .csv files via dropdown menu by going to Settings > Tag Autocomplete.
+The corresponding quicksetting is named "tac_tagFile".
+
+## What are Quicksettings?
+
+Under Settings > User Interface, you can add various settings to be displayed alongside the model dropdown by adding their corresponding setting names used in config.json to the Quicksettings field.
+
+Common examples:
+- sd_model_checkpoint	Checkpoint dropdown menu. There by default.
+- sd_vae							VAE dropdown menu
+- CLIP_stop_at_last_layers	Clip Skip setting. Highly recommended to put it here since you'll likely forget to adjust this otherwise.
+- tac_tagFile						Which .csv file containing tags to use for WebUI Tagcomplete
 
 ## Furry artist tags (community spreadsheet)
 

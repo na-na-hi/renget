@@ -73,7 +73,7 @@
 [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron)|llama.cpp chat interface.  
 [Llama Server](https://github.com/nuance1979/llama-server)|llama.cpp Chat interface. Chatbot UI 
 |
-[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speach-to-text CPU-based inferencing 
+[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-text CPU-based inferencing 
 [Turbopilot](https://github.com/ravenscroftj/turbopilot)|WIP. Copilot clone using llama.cpp to run Codegen 6B 
 |
 **Local Related Gits**|
@@ -94,7 +94,7 @@
 [CRITIC](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)|Self-correct with tool-interactive critique scripts (Question Answering and Program Synthesis) 
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |
-[QLoRa](https://github.com/artidoro/qlora)|4bit NormalFloat double quant with paged optimizers (33B done on 24GB VRAM)
+[GPTQLoRa](https://github.com/qwopqwop200/gptqlora)|4bit NormalFloat double quant with paged optimizers (33B done on 24GB VRAM)
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
 [Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa

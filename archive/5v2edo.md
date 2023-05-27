@@ -1,6 +1,10 @@
 #Mod Archive
 [TOC]
 This is a compilation of archived mods, collected for your convenience. If links do not work, mention it in the thread and it will be fixed soon.
+## 7QUID
+[5Shrimp](https://drive.google.com/file/d/1FeQSeJDnUw5lkgN84uFpEaty7qfXiV1m/view?usp=drivesdk)
+[Early song drafts and assets](https://files.catbox.moe/u98sx2.rar)
+[Redux asset collection](https://drive.google.com/file/d/1BToOFke8kP_ZDthdvI8lN8O0H14SYPAz/view?usp=share_link)
 ## Akira
 [First build](https://mega.nz/file/BNt2Hb7A#jPlO_4w2216WUVTtK2yO8_wzBx2pbKrnpEgAlxfK30Q)
 [Second build](https://mega.nz/file/ERkClLKJ#Rqb98Eso_4G1iIMmhOyv-TcLgIRvWA7nIaquLPRfypU)
@@ -27,10 +31,10 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Ourple Guy
 [Guy FLP](https://files.catbox.moe/bycwkj.zip)
 [Lore V1 FLP](https://files.catbox.moe/33dae6.zip)
-##Reskins
+## Reskins
 [Chef GF](https://files.catbox.moe/bhvic7.zip)
 [Rapper GF](https://files.catbox.moe/suwp8x.zip)
-##Schoolgrounds
+## Schoolgrounds
 [First Leaked Build](https://files.catbox.moe/g48jlf.zip)
 [Second Leaked Build](https://drive.google.com/file/d/1-GCY-Vh12GNzHRpyQOzp_E7zb4-DRDgd/view?usp=sharing)
 ## Sky
@@ -38,6 +42,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)
 ## Torture
 [Torture Demo Download](https://drive.google.com/file/d/1jVnXyTfF1euunknZ6BJeC9_xwH51kAd_/view)
+## OFF Mod
+[Unfinished Build](https://drive.google.com/drive/folders/1PryrNc1Rp9HNHVDAMSNLv6IpCk0N2G98?usp=share_link)
 ## Vs. Devil Mario
 [Vs. PowerStar Mario Download](https://www.mediafire.com/file/z2rrl74p1iap306/devilmariouuuuuhhhh.zip/file)
 ## Vs. Red

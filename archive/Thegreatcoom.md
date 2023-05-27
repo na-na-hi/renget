@@ -597,3 +597,8 @@ Zephilite | Summary
 ------ | ------
 ![Zephilite](https://files.catbox.moe/04ms3p.png) | A high-ranking ADVENT interrogation-officer that has been assigned to make you spill everything you know about XCOM. Ruthless and cruel, she delights in watching pathetic humans struggle, though she might underestimate them a BIT too much.
 Links   | Catbox: https://files.catbox.moe/04ms3p.png
+
+Chudlock Holmes RPG | Summary
+------ | ------
+![Chudlock](https://files.catbox.moe/0h87ce.png) | "The west...has fallen." Take on the role of the genius and enigmatic detective Chudlock Holmes as he gets tasked with solving a recent string of child disappearances. How does everything connect, and how are the "Troomers" that have been recently showing up around the city? It's up to you detective, to solve this mystery.
+Links   | Catbox: https://files.catbox.moe/0h87ce.png

@@ -4,6 +4,7 @@
 ***
 !!! info
     #### Current frontends
+
 #####Agnaistic
 https://github.com/luminai-companion/agn-ai
 https://agnai.chat
@@ -15,12 +16,13 @@ https://rentry.org/agnai_guides
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
 (https://risu.pages.dev) https://risuai.xyz
-- korean frontend for oobabooga's and OAI; local install and online version; feature rich + plugins
+- korean frontend for many AI services; local install and online version; feature rich + plugins
 
 ![](https://files.catbox.moe/h5qx2o.png)
 
 ##### SillyTavern
 https://github.com/Cohee1207/SillyTavern
+https://rentry.org/aicg4retards
 - frontend for many AI services; local install; feature rich + extensions
 
 ![](https://files.catbox.moe/witert.png)
@@ -29,6 +31,7 @@ https://github.com/Cohee1207/SillyTavern
 
 !!! info
     #### Bots
+
 ##### Booruplus
 https://booru.plus/+pygmalion
 - updated regularly; cards; oldest and still popular; minimalistic
@@ -66,10 +69,17 @@ https://arca.live/w/characterai/bots
 https://nolialsea.github.io/Wpp/
 - ancient W++ formatting helper
 
+https://zoltanai.github.io/character-editor
+- old reliable character editor; still works but is not maintained and has some non-breaking issues
+
+https://avakson.github.io/character-editor
+- fork of Zoltan's character editor; more recent and has small new features, but the issues currently still persist
+
 ***
 
 !!! info
     #### Online avatar generators
+
 ##### Nemu's Waifu Generator
 https://waifus.nemusona.com
 - easy to use, user-friendly and completely free; just please don't rape it
@@ -135,7 +145,8 @@ https://rentry.org/TavernAIExtrasGuide
 - set up character expressions in SillyTavern
 
 ##### Character\.AI
-https://c.ai/
+https://c.ai
+https://rentry.org/cai-list [CAI knowledge base]
 https://rentry.org/newcaitools [CAI tools]
 - **The** C\.AI filtered to hell right now but still fun to play around
 
@@ -170,16 +181,19 @@ https://github.com/Project-Akiko/Project-Akiko-Web
 
 ![](https://files.catbox.moe/y2s0ix.png)
 
-##### VenusAI
-https://venusai.chat
-- vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
-- currently down
-
-![](https://files.catbox.moe/iworgx.png)
-
 ##### TavernAI
 https://github.com/TavernAI/TavernAI
 - frontend for OAI and Kobold; local install
+
+***
+
+!!! info
+    #### Cemetery
+
+**VenusAI**
+https://venusai.chat
+vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
+https://files.catbox.moe/iworgx.png ; https://files.catbox.moe/68939b.png
 
 ***
 ***

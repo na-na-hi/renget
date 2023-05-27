@@ -1,6 +1,6 @@
 # /aicg/ bots with expressions list
 -> Bots for Silly \ Risu, i.e. excluding miku\.gg bots, which are here https://rentry.org/mikugg <-
--> List updated: ==17.05.2023== <-
+-> List updated: ==27.05.2023== <-
 !!! note Submissions info
     Because charhub now has official support for the expression packs, the list is considered `deprecated`. You can still use the email though, and I will add your bots here, if for some reason you prefer not to use charhub. And I'll try to include any bots I see shilled with catbox links.
 
@@ -14,7 +14,7 @@ https://www.characterhub.org/characters/horcocks/uss-galaxy - [**USS Galaxy**](h
 ![](https://files.catbox.moe/rpui42.png) [**Seraphina**](https://files.catbox.moe/xgw02w.zip) | [또르 Ddo-Reu](https://desuarchive.org/g/thread/93478394#93479837) | a cold but warm-hearted banshee girl | https://files.catbox.moe/6itbus.png
 ![](https://files.catbox.moe/8xsbmf.png) https://rentry.org/Ddo-Reu | [또르 Ddo-Reu](https://desuarchive.org/g/thread/93478394#93479837) | The images were all created using stable-diffusion-webui. | https://files.catbox.moe/2r7idn.png
 ![](https://files.catbox.moe/vj9caf.png) [**Kazumi_Oma**](https://files.catbox.moe/ruz8tf.rar) | [anonaugus](https://desuarchive.org/g/thread/93491072#93491490) | civitai komatsuzaki-rui-danganronpa-artist-style | https://files.catbox.moe/itmrdb.png
-
+![](https://files.catbox.moe/0cifsh.png) [**Yuyuko**](https://files.catbox.moe/ynyb7d.zip) | [Smile](https://desuarchive.org/g/thread/93690763#93691787) | would you like some expressions to include? I stole some from a visual novel for a card but I haven't written anything (*t. actual anon who prepared the full pack* https://files.catbox.moe/k5fdt1.zip) | https://files.catbox.moe/24u1u3.png ; https://files.catbox.moe/ofbjsh.png
 
 
 
