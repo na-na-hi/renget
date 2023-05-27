@@ -1,3 +1,6 @@
+###I'm out of town for the weekend; see you lads on Monday <3
+
+
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://files.catbox.moe/ps5bat.webm)

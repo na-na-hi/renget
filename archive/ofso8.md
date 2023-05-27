@@ -1447,3 +1447,176 @@
 >"p-put me down!" 
 > you looked up at the mouse boy confused 
 >"uh, please. you shouldn't reopen your wounds…"
+
+>you set him down gently and he dusted himself off and readjusted his skirt
+>still strange to think "his" skirt
+>by now the mouse thing wasn't even a big deal
+>the whole situation had skidded so far past unbelievable that anything was possible
+>next you'd be fighting a giant zombie t rex or evil fungus
+>nothing was a surprise any more
+>Ash kissing you was the exception
+>he pulled back and rested against your chest just as quick as his muzzle had met your lips
+>you asked what that was for
+>"you saved us, that's why"
+>you knew this wasn't over though
+>you'd have to kill the queen bug just to make sure this all wouldn't happen again
+>and you bet that Saddler was the queen behind all of this
+>his attempts at suave Bond villain monologuing meant he had to be the biggest cheese here
+>ha
+>cheese
+>after you both felt up to it you reloaded and made your way out
+>along the way you found Luis again 
+>he wanted to talk to you more but before you could a stranger barged into the room
+>well not exactly a stranger
+>Krauser was a former comrade who you'd assumed was KIA on a mission 
+>instead he lunged for Luis with a knife
+>Ash pulled the Spaniard back in a feat of strength you didn't know he had
+>Krauser looked no worse for wear considering the dead man thing
+>he also decided to pick up a penchant for supervillain speeches
+>so you had no doubts of who he worked for
+>instead of letting him gloat you just chucked an incendiary grenade at him and the 3 of you bolted out of the room
+>since you'd found the right lab earlier you didn't have to worry about collateral damage now 
+>at least the fire would keep Krauser distracted
+>no idea why he thought a stupid ambush like that would work
+>the three of you managed to get back outside the compound and you contacted Hunnigan
+>you were brief with a lot of the details but you saw the way forward into the compound
+>the lab facility was just the start and you hadn't found Saddler there
+>so that meant he was deeper on this island fortress 
+>and with some of the fortifications making this place looking like a tiny camp, you'd need air support
+>she said she'd have something prepared in about 15
+>that gave you time to speak to Luis
+>he ended up coming clean
+>the cop thing was a cover
+>he'd initially helped with these bugs
+>research and development so to speak
+>some of those notes you used were his
+>he had felt guilty about assisting Saddler but you'd seen he had turned a new leaf
+>he thanked you for the assist with Krauser 
+>you told him to thank… Ashley
+>yes
+>the president's daughter Ashley
+>you wanted to make sure before you parted ways 
+>you asked Luis if Ashley seemed strange to him
+>the mouse boy elbowed you roughly for the perceived insult then apologized for the elbow
+>"she's American. you're all strange."
+>you threw your hands up and wished him well
+>you reminded him to find a safe hiding spot if Krauser was targeting him
+>hopefully the fire would put him out of commission for a while but given what other experiments happened here you bet he was super charged
+>thankfully he seemed to turn his knife on you immediately in that room
+>you promised Luis a seat on the chopper out of here if he wanted it and he looked genuinely shocked
+>he did help after all
+>you hoped this was over soon
+>you had enough time to take stock of the situation and your ammo 
+>the sniper rifle seemed to work before 
+>so you would use that again
+>Ash would have spare ammo on hand
+>you were hoping the chopper would pulverize the defenses and you'd just have to wipe out the stragglers
+>you heard the machine before you saw it
+>whoever was flying out in the night now was ballsy 
+>sure enough he got on the radio
+>introduced himself to you as Mike 
+>you told him you owed him a beer and he said he knew a bar
+>then he introduced himself to the cultists
+>he spared no time and started lighting up everything that moved
+>you even saw a couple of those chain gunners caught in a rocket blast
+>that was satisfying 
+>you shouldered the rifle when Ashley pointed out movement on one of the towers
+>a guy carrying a rocket launcher 
+>well that would have been a problem if you didn't put lead through his skull
+>the rocket launcher was still a threat to you so your sight around it
+>someone might have some balls and try to grab it
+>you asked Ash to keep spotting
+>none of them had found their balls and grabbed the rocket launcher
+>After a few minutes Mike brought you out of it with a transmission
+>"sorry man, all tapped out. I can spin back around after a resupply"
+>you surveyed the burning defenses and said you'd be able to take it from here
+>the chopper vanished back into the twilight sky and you both set out
+>you felt like the end was ahead of you
+>you asked what Ash was doing once you two were done here
+>he looked kind of nervous and sort of mumbled an answer
+>no idea why he was shy now
+>sure enough the destruction was total
+>cultists were shredded left and right
+>shrapnel in a body there, one charred black there
+>you had your pistol at the ready and Ash was right behind you
+>both of you had your eyes out and you figured no one would be able to jump the mouse 
+>you did make a point to climb up a surviving tower
+>that rocket launcher was a good find and the dumbest you'd killed wasn't using it
+>Ash did look at it enviously but you weren't eager to hand a rookie that level of ordinance 
+>you crept across the open fortress unchallenged
+>all the defenders must have come out to deal with the bird
+>well, to get dealt with by the bird
+>the compound ahead of you looked daunting but the doors were blown open
+>the place was bare and exposed
+>you feared an ambush but there was no choice
+>you bet Saddler was waiting
+>quiet hung over the area aside from the fires behind you
+>this was it, no turning back
+>you turned to Ash and said he could hang back now
+>things would get really dangerous now before it got better
+>he punched your shoulder 
+>his voice was hushed
+>"we are getting out of this. us."
+>after Ash sort of asserted himself you couldn't really disagree
+>you wanted to give him the chance to walk away like Luis but he was adamant 
+>well you weren't going to turn down help
+>you both snuck through the empty fort and ended up inside a maintenance area
+>you'd seen a helipad connected to it and this was the easiest path to it
+>you had figured this was the way to it
+>Saddler might be trying to escape by now
+>what you two didn't expect was Krauser in the way
+>ok maybe you did expect it
+>he seemed too dead set on fighting you 
+>"you going to keep the mouse out of this?"
+>wait
+>he knew?
+>he brandished a pretty hefty knife at you
+>you had no idea what his game was but he was serious
+>you had to get to Saddler and end this so for now
+>the old comrade would have to be stopped first
+>so you made the mistake of playing fair and pulled your own combat knife
+>he charged at you and went for a killing blow right off the bat
+>but you dodged it by inches
+>you felt the steel against your neck as the thrust passed by 
+>he was fast
+>unnaturally fast
+>thrusts and swipes were testing your defenses
+>you dodged and weaved but you know you couldn't keep the rhythm up forever
+>you had to go on the offensive 
+>Ash wanted to help but you both knew the whirlwind of blades was a bad idea to step into
+>you should have just blown this guy up
+>when you'd managed to slam your knife between his ribs he didn't even react
+>so you were right about earlier 
+>he wasn't human
+>the man didn't sell a knife to a chest
+>even worse, the knife was out of your hand now
+>you knew you shouldn't have played fair
+>Krauser decided to stop playing and his arm transformed into some bladed blur of armor
+>yeah he was definitely a freakshow now
+>he swung faster now
+>you saw that blade arm cut through steel like butter
+>you were fucked in close quarters 
+>thankfully, Ash decided he wasn't playing fair either and Krauser used the arm to shield himself from a spray of machine gun fire
+>the distraction gave you the chance to disengage and get a firearm of your own out
+>he was advancing on the mouse boy but received a back full of buckshot for his trouble
+>he'd pay for turning his back on you
+>you had enough time to pump another shot into him before the shield was pointed to you
+>Ash picked up the idea and reloaded and mag dumped his exposed side
+>if Krauser wouldn't play fair then fuck it
+>you had to hurry 
+>the veteran couldn't keep up with the two of you pouring on heat 
+>that fancy arm couldn't protect him from everything coming his way and he got desperate 
+>he rushed Ash, the mouse panicking 
+>you hit Krauser square in the back with a double kick and both of you ended up tumbling together
+>Ash reloaded and backed up while you and Krauser wrestled 
+>the arm was an issue and you had to dodge multiple swipes but you got your knife back and slammed it home into his throat
+>all the damage piled up and that was the end of it, BOW or not
+>you stumbled to your feet and realized you were covered in cuts from the last little scuffle 
+>your eyes hovered over the still warm corpse as Ash asked you something
+>Krauser had been a good man at one point
+>there was a mystery of why he was here, why he was working for Saddler and how he noticed Ash
+>he took that with him
+>you only came back to reality when Ash gently shook your shoulder
+>his blue eyes were full of concern now when they met yours 
+>you said you were OK
+>you weren't

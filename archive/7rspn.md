@@ -1,4 +1,23 @@
 ▶NEW CLIPS
+>Gosha, the combat kitten
+https://files.catbox.moe/pqb9ex.mp4
+>кyкyшкa Kukushka Cuckoo (comfy metro cover)
+https://files.catbox.moe/x0bigg.MP4
+>Hohol life musical (no sub)
+https://files.catbox.moe/8xm6xz.mp4
+>German organ harvesting in Buckmutt (questionable authenticity, but kekable)
+https://files.catbox.moe/8al298.mp4
+>Return of Ivan Khurs
+https://files.catbox.moe/pp6e78.mp4
+https://files.catbox.moe/mydeoz.mp4
+>Prigozhin visited the rear camps where Wagner units will be stationed
+https://files.catbox.moe/vm8p1w.mp4
+>RT reporter Murad Gazdiev from Artemovsk
+https://files.catbox.moe/wp6jex.mp4
+>Hohols shoot their own commander (translated)
+https://files.catbox.moe/sbv2po.mp4
+>Wagner POW exchange (FULL)
+https://files.catbox.moe/9zu4o0.MP4
 >AFU Commander shot in the head by his own
 https://files.catbox.moe/sbv2po.mp4
 >Wagner conducted POW exchange

@@ -1,12 +1,12 @@
 # Pitanon's Bots:
 
-## Beatrice (27/5/2023) [Small update to make reading books work better]
-https://www.chub.ai/characters/pitanon/Beatrice
-![Image description](https://files.catbox.moe/rm07fr.png)
-
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![Image description](https://files.catbox.moe/rn0jew.png)
+
+## Beatrice (27/5/2023)
+https://www.chub.ai/characters/pitanon/Beatrice
+![Image description](https://files.catbox.moe/cd3dvp.png)
 
 ##Priscilla (25/05/2023)
 https://www.chub.ai/characters/pitanon/Priscilla

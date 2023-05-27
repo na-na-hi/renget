@@ -341,3 +341,5 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Frey](https://imgur.com/nYfonZh.png)
 ###Mimebunny
 ![Mimebunny](https://imgur.com/Ar1i0SB.png)
+###The Furred Filchers
+![Filchers](https://imgur.com/T82fBly.png)

@@ -1,41 +1,53 @@
 # Suggestions for EraToho TheWorld
 Development suggestions for TW include:
-## Blindfolded Breast Grab Game
-- 2hus that are friends with you should offer you a game where they blindfold you and you have to squeeze a few pairs of boobs then guess to who each pair belongs to. Maybe also the order they let you touch them. There should be a few misdirections where for example one in a group skips letting you fondle her chest, or another gets two or three turns with your hands. Overly enthusiastic girls can grab your hands or even skip fondling and go for a little smothering.
-Get a few descriptions of the boobs depending on the size, 2hu's height(Shinmyoumaru is obvious whether her chest is flat or gigantic, hus taller than you can bend down to your level and you can feel that, or they can crouch down and you can't tell, short ones need you to lower your hands etc), lactation, their heartbeat depending on their feelings towards you and their boob sensitivity, maybe the feel of the bra/clothes etc.
-They should be able to orgasm from this too.
-Not a suggestion for neodev/pedytw
 ## “Can I Sleep With You?”
-- Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.
+Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.
 If she’s horny enough it should be something like “X tries to gently shake you awake”, you can wake up and fuck her or pretend to be asleep to see if she has any special masturbation dialogue, as to not render it impossible to access.
 Somnophilia is also a thing, hint hint.
 The higher the favor the bigger the chance. Should also be possible for multiple lovers to ask for it simultaneously. If you’re spending majority of your day underneath a pile of women, why not spend majority of your night drowning in girl’s affections too?
 Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal it, pedina.
 ## Childcare Expansion
-- To be determined.
+To be determined.
 ## Female MC Pregnancy
-- To be determined.
+To be determined.
 ## Furniture Recipe Mechanic
-- To be determined.
+To be determined.
+## Game Expansion
+An expansion to the Play a Game custom command.
+- Blindfolded Breast Grab
+
+2hus that are friends with you should offer you a game where they blindfold you and you have to squeeze a few pairs of boobs then guess to who each pair belongs to. Maybe also the order they let you touch them. There should be a few misdirections where for example one in a group skips letting you fondle her chest, or another gets two or three turns with your hands. Overly enthusiastic girls can grab your hands or even skip fondling and go for a little smothering.
+Get a few descriptions of the boobs depending on the size, 2hu's height(Shinmyoumaru is obvious whether her chest is flat or gigantic, hus taller than you can bend down to your level and you can feel that, or they can crouch down and you can't tell, short ones need you to lower your hands etc), lactation, their heartbeat depending on their feelings towards you and their boob sensitivity, maybe the feel of the bra/clothes etc. They should be able to orgasm from this too.
+Not a suggestion for neodev/pedytw
+
+- Cheating Mechanic
+
+A mechanic where you could cheat at a game, where your success would be dependent on opposing character traits, fortune, and et cetera.
+
+- Pachisi
+- Poker + Strip Poker
+- Skill + Trait Integration
+
+A mechanic for participant success in games to be affected by traits and skills alongside fortune.
 ## Hypnosis Expansion
-- In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
+In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
 ## Incident Scenario
-- To be determined; initial concept by AK Spectre and Eri.
+To be determined; initial concept by AK Spectre and Eri.
 ## Jealousy Expansion
-- To be determined.
+To be determined.
 ## Map for Makai
-- Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
+Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
 ## Research System
-- A feature to allow the player to research recipes.
+A feature to allow the player to research recipes.
 - Mixing would be a method to achieve quick results, whereas research would take more time but produce more consistent results; i.e. expediency at the expense of time vs. consistency at the expense of time.
 - This technique could be used instead of interacting with certain 2hus to unlock recipes.
 - Plans for implementing some type of counter-balancing so that this system does not overrun the original mixing mechanism will be addressed.
 ## Sex Act Expansion
-- This issue will serve as a non-exhaustive list of sex acts to be added to TW as commands specific to character and species. Facesitting, gap shenanigans with Yukari, tailjobs, and wingjobs are among the examples which have been requested.
+This issue will serve as a non-exhaustive list of sex acts to be added to TW as commands specific to character and species. Facesitting, gap shenanigans with Yukari, tailjobs, and wingjobs are among the examples which have been requested.
 ## Tanuki Loans via Mamizou
-- A feature that allows the player to request a loan from Mamizou, with the risk of losing reputation if they do not repay it in a timely manner.
+A feature that allows the player to request a loan from Mamizou, with the risk of losing reputation if they do not repay it in a timely manner.
 ## “Teach Me How to Please You”
-- Suggestion. Not for use by neodev/pedytw.
+Suggestion. Not for use by neodev/pedytw.
 Haremettes should give you a request that makes one teach the other how to best please you with a selected sex technique. Basically the existing "have
 sex with me" but more like "have sex with her while I watch and take notes".
 And with 2(or more) 2hus, obviously.
@@ -45,25 +57,25 @@ Like imagine, Seija getting tips from Shinmyoumaru on how to take your massive d
 It should help with the technique grind. It's not like it's usually a problem to get the girl to agree to sex at the point when she loves you, but it's kinda sucky to have a harem newcomer who's pretty much unable to have sex and please you the first couple of times. I guess you could also adapt it to nonlewd requests, like learning to cook with a team of chefs behind the newcomer.
 # Suggestions From the Old Git
 ## 2hus Stealing Food From You Expansion
-- https://gitgud.io/Pedy/pedy-tw/-/issues/4
+https://gitgud.io/Pedy/pedy-tw/-/issues/4
 ## Accessory System
-- https://gitgud.io/Pedy/pedy-tw/-/issues/15
+https://gitgud.io/Pedy/pedy-tw/-/issues/15
 ## Danmaku Expansion
-- https://gitgud.io/Pedy/pedy-tw/-/issues/3
+https://gitgud.io/Pedy/pedy-tw/-/issues/3
 ## Egg Laying Mechanic
-- https://gitgud.io/Pedy/pedy-tw/-/issues/30
+https://gitgud.io/Pedy/pedy-tw/-/issues/30
 ## Gardening Expansion
-- https://gitgud.io/Pedy/pedy-tw/-/issues/2
+https://gitgud.io/Pedy/pedy-tw/-/issues/2
 ## Hate Mark Date Forgiveness Overhaul
-- https://gitgud.io/Pedy/pedy-tw/-/issues/13
+https://gitgud.io/Pedy/pedy-tw/-/issues/13
 ## Hickey Mechanic Tweak
-- https://gitgud.io/Pedy/pedy-tw/-/issues/11
+https://gitgud.io/Pedy/pedy-tw/-/issues/11
 ## Milking Improvements
-- https://gitgud.io/Pedy/pedy-tw/-/issues/31
+https://gitgud.io/Pedy/pedy-tw/-/issues/31
 ## New Achievement Ideas
-- https://gitgud.io/Pedy/pedy-tw/-/issues/14
+https://gitgud.io/Pedy/pedy-tw/-/issues/14
 ## New Request Ideas
-- https://gitgud.io/Pedy/pedy-tw/-/issues/18
+https://gitgud.io/Pedy/pedy-tw/-/issues/18
 # Suggestions Ported Over to Git
 ## Dating Expansion
 An expansion of the functionality of the dating system, such as visiting an izakaya, going out for karaoke, and other distinct dating locations based on map, which might allow the player to train other stats while on dates and minimize the sameness of dating.
