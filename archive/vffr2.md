@@ -101,8 +101,8 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Gay sex with cores on.  Probably the last tuna suit we'll see for a while, since dawei is pushing
 &nbsp;&nbsp;&nbsp;&nbsp;into 'part 2'.  Tied heavily to the kompu 12/12 team, but she can work as solo fire.  Heavily
 &nbsp;&nbsp;&nbsp;&nbsp;weapon locked - you might be able to cope with HoF's PRI, but it'll suck.  There's also a fair
-&nbsp;&nbsp;&nbsp;&nbsp;jump from her 3pc to even a 2p mixed set, so she's p. expensive.  Don't really have a frame of
-&nbsp;&nbsp;&nbsp;&nbsp;reference right now to how good she is vs Vill/Tittybar Rita/HoF on neutral.
+&nbsp;&nbsp;&nbsp;&nbsp;jump from her 3pc to even a 2p mixed set, so she's p. expensive.  Very, *very* solid slot in for
+&nbsp;&nbsp;&nbsp;&nbsp;all fire weathers outside of Vill-V's QUA.
 &nbsp;
 #####Mei
 **B-valks**
@@ -142,8 +142,8 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;we finally got an IMG primary DPS unit for 'free'.  Had a 50% refund gear banner in 6.4
 &nbsp;&nbsp;&nbsp;&nbsp;(they never rerun these sort of release promotions,) so all everyone needed was
 &nbsp;&nbsp;&nbsp;&nbsp;her weapon and 2pc since we also got a pick-a-stigma box - in exchange for this
-&nbsp;&nbsp;&nbsp;&nbsp;largess, they're trying to bait people to pull for S2, since it's a fair bit stronger than usual - if
-&nbsp;&nbsp;&nbsp;&nbsp;you're new and missing the various lightning team permutations, S2 can cover everything
+&nbsp;&nbsp;&nbsp;&nbsp;largess, they baited people to pull for S2, since it's a fair bit stronger than usual, and if
+&nbsp;&nbsp;&nbsp;&nbsp;you're new and missing the various lightning team permutations, S2 covers everything
 &nbsp;&nbsp;&nbsp;&nbsp;except QUA  (consider that everyone else got her free and all her gear at a hefty discount
 &nbsp;&nbsp;&nbsp;&nbsp;before deciding to pull.)  Sadly, she's p. mash heavy - it's so bad they put a hand-holding ring 
 &nbsp;&nbsp;&nbsp;&nbsp;around her weapon and dodge so you don't miss it while having an epileptic fit on the attack button.
@@ -209,8 +209,8 @@ seems to be long gone.
 
 *Herrscher of Truth* (HoTr/Shin-Bronya) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Sidegrade AE/Fischl replacement that requires 3-4/4 to compete with either in fire/lightning.
-&nbsp;&nbsp;&nbsp;&nbsp;Mainly intended for the upcoming 3 S-rank 12/12 kompu team coming next patch - hopefully
-&nbsp;&nbsp;&nbsp;&nbsp;the tri-element weather isn't as cancerous as it sounds.
+&nbsp;&nbsp;&nbsp;&nbsp;Mainly intended for the 3 S-rank 12/12 kompu team (kompu weather fucking sucks, but
+&nbsp;&nbsp;&nbsp;&nbsp;is still doable without the whale squad.)
 &nbsp;
 #####Himeko
 **B-valks**
@@ -297,8 +297,9 @@ seems to be long gone.
 *Violet Executer* (VE/TP)				/ Dorm / Farmable (AW)
 &nbsp;&nbsp;&nbsp;&nbsp;Cutest eviscerator.  Sucked for the longest time, got a core augment (Twilight Paladin).  
 &nbsp;&nbsp;&nbsp;&nbsp;Excellent ST-mecha physical dps.  Needs SS-rank, core 5.  Eats Jizo and DXY alive in
-&nbsp;&nbsp;&nbsp;&nbsp;memorial/abyss.  With Hekate PRI, she sockets in somewhere between Hler Goose
-&nbsp;&nbsp;&nbsp;&nbsp;and AF Goose.
+&nbsp;&nbsp;&nbsp;&nbsp;memorial/abyss.  With Hekate PRI and SSS-rank, she still does well enough vs bosses
+&nbsp;&nbsp;&nbsp;&nbsp;that mihoyo went out of their way to trash her (extra adds w/boss Aponia) to push
+&nbsp;&nbsp;&nbsp;&nbsp;Hare.
 
 *Celestial Hymn* (CH)					/ Dorm / Farmable (AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Critical physical supporter, especially with her endgame PRI weapon.  Impair and succ 
@@ -388,7 +389,8 @@ seems to be long gone.
 *Spina Astrea* (SpA)				/ Limited (partial upgrade available from Elysian Realm)
 &nbsp;&nbsp;&nbsp;&nbsp;The "generous" second S-rank of patch 5.5 - only has AKA as an abyss boss rn.  Crystal sink
 &nbsp;&nbsp;&nbsp;&nbsp;unless you don't have HoF+Mobius, and probably will be spending event bait into the future
-&nbsp;&nbsp;&nbsp;&nbsp;for rank up chips.  Rita Rossweisse pleases old men for B-chips.
+&nbsp;&nbsp;&nbsp;&nbsp;for rank up chips.  If you're a newfag, you should probably skip her for HoFi - even at SS-rank
+&nbsp;&nbsp;&nbsp;&nbsp;she feels a little too close to S-rank HoFi to recommend.  Rita Rossweisse pleases old men for B-chips.
 &nbsp;
 #####Seele
 **A-valks**
@@ -427,7 +429,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Zorro for the 3pc impair effect to be comparable to TP/SN (unless you have her new fast
 &nbsp;&nbsp;&nbsp;&nbsp;rotation/nuke lance + HoS.)  Can skip boss phases by spiking them.  Favored child of MiHoYo's 
 &nbsp;&nbsp;&nbsp;&nbsp;balance coomers - if she starts dropping, they shoehorn something in to prop her back up.
-&nbsp;&nbsp;&nbsp;&nbsp;Mostly replaced in the phys niche by herself (PE) / Elysia (MPE).
+&nbsp;&nbsp;&nbsp;&nbsp;Replaced in her mech phys niche by Hare (*Dreamweaver*).
 
 *Dea Anchora* (DA)					/ Limited
 &nbsp;&nbsp;&nbsp;&nbsp;<insert Saint Seiya reference here> Memorial/abyss stomper for rimestar.  Fire Bio, but
@@ -491,7 +493,10 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;ranks, Carole is pretty self sustaining, while SA needs time to farm up her tornado.)  As 
 &nbsp;&nbsp;&nbsp;&nbsp;far as her gear goes, it's probably Pag M > Kissy Pillow = Pag B (++if you have M) > Pag T,
 &nbsp;&nbsp;&nbsp;&nbsp;since she can use Shuijing/Beethoven and Nebs/DoS PRI, and Pag M's team shield break   
-&nbsp;&nbsp;&nbsp;&nbsp;is unique.  Cute now, gorilla mode in 10 years.
+&nbsp;&nbsp;&nbsp;&nbsp;is unique.  Cute now, gorilla mode in 10 years.  Unless we get fat shield aerial bosses, Prommy
+&nbsp;&nbsp;&nbsp;&nbsp;makes her deader than a corner dealer in Detroit - sucks, since she barely had any time to
+&nbsp;&nbsp;&nbsp;&nbsp;shine, due to there only being a handful of break bosses since her release, and Griseo + Pag M
+&nbsp;&nbsp;&nbsp;&nbsp;did fine for those, and everything else.  Can still do a janky duo-DPS team with Prom+Senti.
 
 *Reverist Calico*								/ Pardofelis
 &nbsp;&nbsp;&nbsp;&nbsp;Ice support specialist, replaces AE for ice.  Comes with a new weapon type, so you really want
@@ -499,7 +504,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;SP gain.  Has a gather,and drops a summon when leaving the field, so you can use 
 &nbsp;&nbsp;&nbsp;&nbsp;JST/Newt as tolerable filler.  Can work as both a general support on most teams, provided
 &nbsp;&nbsp;&nbsp;&nbsp;enemies are susceptible to freeze and you have 2pc Bastet - also works as a fill-in ice DPS with
-&nbsp;&nbsp;&nbsp;&nbsp;fullset.  A cat is fine, too.
+&nbsp;&nbsp;&nbsp;&nbsp;fullset.  A cat is fine, too.  Going to be replaced next patch as ice support by Shigure Kira.
 
 *Golden Diva*									/ Eden
 &nbsp;&nbsp;&nbsp;&nbsp;Drunk cake lightning supporter, provides significantly better SP recovery vs AE.  The real coup
@@ -510,7 +515,8 @@ seems to be long gone.
 
 *Starry Impression*							/ Griseo
 &nbsp;&nbsp;&nbsp;&nbsp;New physical bleed supporter with battery skills, replaces SA in all comps that can
-&nbsp;&nbsp;&nbsp;&nbsp;rotate.  Splits physical with Carole, so use Carole vs fat shields and Griseo vs shieldless.
+&nbsp;&nbsp;&nbsp;&nbsp;rotate.  ~~Splits physical with Carole, so use Carole vs fat shields and Griseo vs shieldless.~~
+&nbsp;&nbsp;&nbsp;&nbsp;Replaced by Prommy in physical outside of Bleed comps, there's probably an S-bleed dps coming.
 &nbsp;&nbsp;&nbsp;&nbsp;Stigwise, if you don't get Cezanne B, don't bother (it's a fancy-pants extendable Newton,)
 &nbsp;&nbsp;&nbsp;&nbsp;just use Margrave from the foundry.  You'll want her weapon, but you can replace with
 &nbsp;&nbsp;&nbsp;&nbsp;Hekate as a cope weapon (can also sub in on ignite weather with SoS.)  ToT
@@ -530,6 +536,16 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;damage is utterly useless to her.  Can sub out her stigs for Drac/Dirac/Dirac or Shuijing,
 &nbsp;&nbsp;&nbsp;&nbsp;but since she's the first physical chakram dps, she really needs her weapon.
 
+*Terminal Aide 0017*				/ Prometheus (Prommy/Botnya)
+&nbsp;&nbsp;&nbsp;&nbsp;IMG phys supporter, kit is built as a mix of Drive Kometa and Carole.  Gauntlet user, and
+&nbsp;&nbsp;&nbsp;&nbsp;replaces both Carole as shieldbreak support and Griseo as a general physical support
+&nbsp;&nbsp;&nbsp;&nbsp;(shifting Griseo to primarily bleed phys support.)  Gear is half off on the release patch,
+&nbsp;&nbsp;&nbsp;&nbsp;plus it counts for full towards the current spending event, so everyone is going to have
+&nbsp;&nbsp;&nbsp;&nbsp;her full geared in abyss.  Also deals stun (a blast from the past) on some of her moves,
+&nbsp;&nbsp;&nbsp;&nbsp;so there might be a stun bar boss in the future.  Has a short 5sec impair on combo, but
+&nbsp;&nbsp;&nbsp;&nbsp;unless we get a quick dump phys DPS, this seems to be mainly for her own usage.
+&nbsp;&nbsp;&nbsp;&nbsp;Rewatched due to balljoints - Desu > Teabitch.
+
 &nbsp;
 **S-valks**
 *Molotov Cherry* (MC/FT/FTD)				/ Rozaliya / Dorm / Farmable (AW)
@@ -540,8 +556,8 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;tanky bosses in SSS memorial.
 
 *Infinite Ouroboros*		/ Mobius / Limited
-&nbsp;&nbsp;&nbsp;&nbsp;She is evil, a driven bitch.  New hebi-hebe that replaces SK, and possibly all mecha on
-&nbsp;&nbsp;&nbsp;&nbsp;non +phys -ele abyss floors.  Cross user, and drops another summon on combo attack,
+&nbsp;&nbsp;&nbsp;&nbsp;She is evil, a driven bitch.  New hebi-hebe that replaces SK, ~~and possibly all mecha on~~
+&nbsp;&nbsp;&nbsp;&nbsp;~~non +phys -ele abyss floors~~.  Cross user, and drops another summon on combo attack,
 &nbsp;&nbsp;&nbsp;&nbsp;so dust off those Otto [B]'s.  Works with Judah against single targets, but is SP 
 &nbsp;&nbsp;&nbsp;&nbsp;starved without her free cast PRI and either Linnaeus or Handel.  Definitely getting
 &nbsp;&nbsp;&nbsp;&nbsp;pressure these days with 7TR HoT/HoO.
@@ -569,6 +585,13 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;as DPS though.)  Due to her kit having integrated shield break bonuses, we're probably in for
 &nbsp;&nbsp;&nbsp;&nbsp;dummy thicc elemental shields going forwards (LOL, just use Pag M - you aren't a Paglet,
 &nbsp;&nbsp;&nbsp;&nbsp;right?) 
+
+*Dreamweaver*  / Hare (Mistletain Schariac) / Limited
+&nbsp;&nbsp;&nbsp;&nbsp;New mech phys DPS notCecilia to replace BKE and TP.  Uses a new weapon type (likely to become
+&nbsp;&nbsp;&nbsp;&nbsp;more frequent as they try to keep players from stat-sticking with their older PRIs,) so you
+&nbsp;&nbsp;&nbsp;&nbsp;either get her weapon or just skip entirely and use the foundry javelin and Elysia set w/Dante M.
+&nbsp;&nbsp;&nbsp;&nbsp;Sucks for Sieg that his wife gets shipped with another straight girl, but w/e.
+
 &nbsp;
 *Note: Just because a character isn't a do-all or fantastic dps, doesn't mean they have no uses - if you look around, you can
 find some funky team comps that work p. well for almost anything.  Except CI Mei.*
@@ -695,6 +718,7 @@ farmable gear.  Cross-link to a quick overview of the gear you can grind for: ht
 &nbsp;
 ####Crystals
 The jewish lifeblood of the game.  General income breakdown is roughly as follows:
+(assumes post-lv 81 account - mihoyo'll push you there pretty fast these days.)
 
 		F2P:
 		Dalies:				    40/day						280/wk
@@ -702,11 +726,11 @@ The jewish lifeblood of the game.  General income breakdown is roughly as follow
 		Armada Member:				    					25/wk
 		Memorial Bosses:				    				100/wk
 			SSS Memorial Bosses:							40/wk
-		Abyss (pre-lv81, bi-weekly, more if you promote, less if you relegate)
-			Forbidden		    80/cycle					160/wk
-			Sinful			    180/cycle					360/wk
-			Agony			    260/cycle					520/wk
-			Red Lotus		    420/cycle					840/wk
+		Abyss (post-lv81, bi-weekly, more if you promote, less if you relegate)
+			Agony 2			    240/cycle					480/wk
+			Agony 3			    320/cycle					640/wk
+			Red Lotus		    400/cycle					800/wk
+		Abyss Missions:			100/cycle					200/wk
 		Battle Pass:		    540/patch(45d avg)			~84/wk
 		Elysian Realm (d100):                               360/wk
 
@@ -715,18 +739,19 @@ The jewish lifeblood of the game.  General income breakdown is roughly as follow
 		Battle Pass:		    720/patch (45d avg)			~120/wk	
 		Top Up:			As much as you can spend, baby
 
-So, assuming Agony retention and buying the monthly card and battle pass,
-average income is ~9500/4wk.  This isn't counting events or first clear
-stage bonuses.  F2Pers get about ~6000/4wk with agony retention.  Note that
+So, assuming post-81 Agony 3 retention and buying the monthly card and battle pass,
+average income is ~10.5k/4wk.  This isn't counting events or first clear
+stage bonuses.  F2Pers get about ~7.5k/4wk with agony 3 retention.  Note that
 this doesn't include event, stage, or seasonal rewards, so the numbers can end
 up much higher.
 
 If you have any intention to spend real money, monthly card is better compared
-to just topping up.  Card gives 330 on purchase, with a similar cost to the 330 pack,
-but also gives 60/day for 30 days, with a 500 crystal drop every 15 days logged in.  
-If you miss a day of login, you will lose that second 500 crystal, so keep that in mind.
-You can also stack passes if you need the initial 330 for a last second roll, but multiple
-passes only add to the length of active time on your pass - you still only get 60/day.
+to just topping up if you need crystals (e.g. for upcoming pyramid costumes.)  Card
+gives 330 on purchase, with a similar cost to the 330 pack, but also gives 60/day for
+30 days, with a 500 crystal drop every 15 days logged in.  If you miss a day of login, 
+you will lose that second 500 crystal, so keep that in mind.  You can also stack passes 
+if you need the initial 330 for a last second roll, but multiple passes only add to the 
+length of active time on your pass - you still only get 60/day.
 
 Battle pass is the other low spending option, coming in three flavors, F2P, Knight 
 (Minnow), and Paladin (Whale).  These passes give assorted items, crystals, and a 
@@ -742,13 +767,12 @@ what's in the shop, and make certain you'll have enough to get what you want bef
 the grace period.
 
 !!!note Monthly Card/Battle Pass Notes
-	With the increasing rate of suit/stig releases, and JewHoYo's current trend of refusing
-	to release A-rank DPS suits (other than Pardo - we'll see if they continue with passable
-	supports as tertiary/quaternary DPS choices in the future,) the monthly card is
-    starting to no longer make any significant impact on being able to get settled.  15 pulls
-	per patch with mocard isn't going to be enough to even put a small dent in the costs
-	if they keep pushing the rapid S-rank release rate.  BP is still good value if you actually need
-	one of the stigs/weapons/suits on offer, though.
+	With the increasing rate of suit/stig releases, and JewHoYo's current trend of creeping
+	(or at least subdividing roles) every six months, 15 pulls per patch with mocard isn't 
+	going to be enough to even put a small dent in the costs given the rapid S-rank release 
+	rate (if you want an upcoming pyramid skin though, go for it - 15$ is far more reasonable
+	that the 100 they normally cost.)  BP is still good value if you actually need one of the 
+	stigs/weapons/suits on offer, though.
 &nbsp;
 &nbsp;
 ####Spending
@@ -802,11 +826,11 @@ LoW 2 Egg
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;available, less important.  You'd be better off getting AE/HoTr instead.
 &nbsp;
 &nbsp;
-With the current state of powercreep, *IMO*, you're better off waiting for a HoS focus gacha (rn in 6.4, make certain
-to get your free HoO from story, and pull her gear while the 50% off release banner is in effect - it ain't coming back.)
+With the current state of powercreep, *IMO*, you're better off waiting for a HoS focus gacha (unless they announce her
+powercreep, which might be rather soon - we get a patch of advance warning on US/SEA, so use that future sight.)
 With that and good cope stigmatas from foundry/Universal Mirage, you should then focus on pulling good general
-support stigmata (Bastet/Turganev - weight to Turg) and farming fragments for the A-rank support suits (Pardo has 
-the best coverage and is dual use.)  With how fast JewHoYo is ramping the powercreep/char replacement rate, support
+support stigmata (Turganev/Cezanne/Prom's Stigs) and farming fragments for the A-rank support suits (Pardo has 
+good coverage and is dual use.)  With how fast JewHoYo is ramping the powercreep/char replacement rate, support
 gear currently has the longest lifespan, since it can be used on multiple shill bosses that all want different main dps valks.
 
 Try to restrain your dumber whale urges, unless you just want a reason to shit up the thread at eos.

@@ -47,6 +47,7 @@
 04/2022|[Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 05/2022|[A Generalist Agent (GATO)](https://arxiv.org/abs/2205.06175)
 07/2022|[Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
+02/2023|[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318)
 05/2023|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 |
 |**Meta** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
@@ -205,6 +206,7 @@
 05/2023|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 05/2023|["According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
 05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
+05/2023|[Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

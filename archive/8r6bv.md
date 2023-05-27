@@ -1,4 +1,4 @@
-###Foundry Gear (game v6.4)
+###Foundry Gear (game v6.6)
 [TOC4]
 &nbsp;
 &nbsp;
@@ -117,7 +117,8 @@ dmg stat stick.
 *Echo of Paradise: Time Ruins*
 Precursor: *Echo of Paradise* / Gacha
 Eden's new PRI, only really necessary for more sub-dps in Aponia teams.  Shoots
-its wad fast, which makes it worse for Turganev Eden.
+its wad fast, which makes it imperceptibly worse for Turganev Eden, but the increased
+sub-DPS should make up for it.
 
 *Positron Blasters*
 Precursor: *Hyper Railguns* / Bounty
@@ -354,6 +355,11 @@ Precursor: *Twirling Glaze* / Gacha
 Susannah's weapon - mandatory, since she's a DPS.  While you *can* sub out for Pardo PRI, it won't
 work very well comparatively.
 
+######Javelins
+*Prophetic Dreams: Self Fulfilling*
+Precursor: *Prophetic Dreams* / Gacha
+Hare's weapon, obviously mandatory (and single use), since she's the only Javelin user thus far.
+
 &nbsp;
 &nbsp;
 
@@ -445,6 +451,13 @@ Section has been split due to the addition of G2-4 stigmata to the crafting pool
 					to more recent ice stigs, seriously gimped.
 &nbsp;
 &nbsp;
+		*Nuwa*
+			T -	Useless, conditional 20% TDM
+			M - Was good long ago, but with the split-phase bosses that fucking drop your combo, now sucks.
+			B - Could be fantastic if we get an Ignite DPS a la Griseo/Susannah for bleed (likely why we won't)
+			2pc/3pc - Not worth giving up all three slots to buff summoned unit DPS.
+&nbsp;
+&nbsp;    
 		*Shakespeare*
 			T	-	Solid single piece Lightning damage
 			M	-	Solid single piece Fire damage (can be replaced with Jingwei M on BR/VG)
@@ -595,6 +608,7 @@ Ana or don't bother (T+B>M.)  Competitive with Welt on HoR as a 3pc.
 &nbsp;
 		*Dante*
 		Precursor: None / Direct craft
+		M - Works on phys that can force activate their evasions (BKE/Hare)
 		2pc - Good as [T]+[M] with Elysia [B] on BKE with Abyss Flower
 		3pc - Self Impair for BKE with Hler
 		Notes: Like all Dudu gear, it's so damn restrictive.  Mainly for Burst Charged Phys, but then you have
@@ -828,7 +842,14 @@ needed asterite.)
 **Chakrams**
 	*Gilded Librae* / AE Imaginon
 		Filler craftable chakram, works as a cope weapon on Aponia - not much
-		to choose from, due to being a new weapon type.
+		to choose from, due to being a new weapon type.  Garbo for Susannah
+		due to being explicitly elemental damage.
+&nbsp;
+&nbsp;
+**Javelins**
+	*Mirage Spearhead* / AE Imaginon
+		Filler weapon for Hare, damage wise similar to her base weapon, but gets
+		dumpstered by her PRI.
 &nbsp;
 #####Basic Stigmata
 !!!info

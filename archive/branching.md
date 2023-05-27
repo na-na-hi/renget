@@ -635,7 +635,7 @@ Before heading back to the settlement, he opened the bag and took note of what h
 - 1 Apple
 - 1 Wonder Orb
 
-*(Good think I found this orb, otherwise I would be worried if the apple and berries would sell for enough money.)*
+*(Good thing I found this orb, otherwise I would be worried if the apple and berries would sell for enough money.)*
 
 ...
 
@@ -905,7 +905,7 @@ As the Duskull entered what could possibly end up being his room in the future, 
 
 "Thanks, Guildmaster. Where is the storeroom?"
 
-"At the end of this hallway. It has a sign outside, so you can't miss it. I'll hear your answer tomorrow, so have a pleasant night~."
+"Just take the stairs down in the entrance hall. It has a sign outside, so you can't miss it. I'll hear your answer tomorrow, so have a pleasant night~."
 
 The Guildmaster began to walk away, but then he suddenly stopped and turned back to face the Duskull.
 
@@ -917,13 +917,13 @@ The Guildmaster began to walk away, but then he suddenly stopped and turned back
 
 "Alright. Looking forward to hearing your answers! Good night~."
 
-After the Guildmaster left, the unnamed Duskull went down the hallway in search of the storeroom while trying to come up with a name for himself.
+After the Guildmaster left, the unnamed Duskull began his search for the storeroom while trying to come up with a name for himself.
 
 *(Dusk? Eh, kinda uncreative. Grim? Meh. Reaper? 2edgy4me. Maybe some random nickname I used online?)* 
 
 *(I feel like I should pick something with a special meaning for me...)*
 
-Just like the Guildmaster mentioned, the storeroom was easy to find due to the sign on the wall next to the door.
+Just like the Guildmaster mentioned, the storeroom was easy to find. He entered it and took a moment to look at his surroundings.
 
 To say that the storeroom was messy would be an understatement. Piles of junk were scattered around, along with many unlabeled boxes and bags. He assumed no one bothered to keep an inventory for the stuff there either. For a brief moment he wondered what stories were behind each individual object in that room.
 

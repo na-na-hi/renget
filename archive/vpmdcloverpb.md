@@ -143,6 +143,9 @@
 >Will (silently) talk to himself if alone.
 >Enjoys card games (particularly ["31"/"Cat"](https://bargames101.com/31-card-game-rules/)) and music.
 >Dislikes lewdness.
+>In order to not feel useless, he usually takes easier low tier missions (preferably those involving minimal fighting) because he lacks a partner and doesn't really like going on missions alone, or helps out wherever needed. He'll occasionally tag along with another team on a higher tier/more difficult mission every now and then, during which time he'll be absent from Capim longer.
+>Never misses a meal in the mess hall, and is usually there in the latter half of the meal hours. Tries to keep his evenings after dinner free. Probably spends a bit more time outside than inside. He's as much a creature of habit as a mon as he was as a human, and tends to keep pretty much the same schedule every day.
+>When he has no missions to run, or wants to be alone and think for a bit, or if the weather is nice and the night sky is clear, or simply has nothing else better to do, you can find him relaxing at the docks.
 
 ###Kina
 {Pending}

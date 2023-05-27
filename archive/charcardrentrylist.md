@@ -10,10 +10,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
-[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English

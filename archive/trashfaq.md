@@ -50,6 +50,20 @@ See https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features for fu
 
 {word} is for NovelAI's official service only. It is similar to (word) but the emphasis is only increased by a factor of 1.05.
 
+## What does BREAK in a prompt field do?
+
+Text (and tags) written in a prompt field is broken down into so-called "tokens", which are then used for interpretation by the AI.
+Normally Stable Diffusion comes with a hard 75 token limit.
+The WebUI allows going above that limit in steps of further 75 tokens by interpreting each 75 token set in parallel, and merging the results for the final image. Check out the top right of a prompt field to see how many tokens you have left. If it starts saying "X/150" you have gone above the 75 limit, and it has started filling up the second token set.
+Doing so causes some tokens to lose their impact, especially if a tag is being split into both the first and the second 75 token set.
+
+Using BREAK in your prompt enforces everything following it to be part of a new token set; the previous one will be padded with empty tokens so it reaches the 75 limit prematurely.
+Experimentation is recommended, some anons seem to use BREAK to make a new token set for each feature of the image.
+
+Furthermore, seeing BREAK in a prompt could be a sign of the Regional Prompter extension being used. 
+
+Also check out https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#infinite-prompt-length and the section after that.
+
 ## float16 vs. float32?
 
 float32 for older gpus or if you want 100% precision. The outputs of both should be nearly identical, the main difference is size and the gpus that support it.

@@ -1,6 +1,6 @@
 ##### -> ![](https://i.postimg.cc/QdvNQG3j/d9f9ea2b.gif) `iNTERESTS` ![](https://i.postimg.cc/QdvNQG3j/d9f9ea2b.gif) <-
 
-**BANDS** ;; **escape the fate**,, falling in reverse,, violent new breed,, **black veil brides**,, brokencyde,, motionless in white,, the used,, lovehatehero,, dot dot curve,, vampires everywhere,, blessthefall,, KISS, mötley crüe,, get scared,, hollywood undead,, D.R.U.G.S *+ ask 4 more*
+**BANDS** ;; **escape the fate**,, falling in reverse,, violent new breed,, **black veil brides**,, brokencyde,, *motionless in white*,, the used,, lovehatehero,, dot dot curve,, vampires everywhere,, blessthefall,, KISS, mötley crüe,, get scared,, hollywood undead,, D.R.U.G.S,, snow whites poison bite *+ ask 4 more*
 
 **SERiES** ;; paradise city,, *average joe*,, bojack horseman,, z nation,, young sheldon, batman
 
