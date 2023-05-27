@@ -393,7 +393,7 @@ Negatives:
 	* Her cute alternate hair is also included. Just replace "ponytail," with "short hair,"
 
 #####Kronii
-	ouro kronii, hololive, headband, hair intakes, colored inner hair, ribbon earrings,
+	ouro kronii, hololive, headband, hair intakes, colored inner hair, ribbon earrings, blue eyes, 
 Negatives: pointy ears,
 !!! note Note:
 	It knows what her veil should look like, just add "veil," if you want it. For some reason specifying the "colored inner hair" also occasionally activates her veil showing up unprompted. "veil, hair ribbon, hair bow," in negatives should make it go way if you don't want it.

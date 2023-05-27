@@ -126,8 +126,8 @@ DON'T: Spam the same type of thing over and over. No one likes a broken record o
 DO: Be chill with others
 DON'T: Throw tantrums just because something happened you didn't like. You're an adult (presumably), so act like it. And if you aren't, then why the hell are you even here? Go to bed nerd. Bottom line, if you have a problem, talk it out, don't be a fag. 
 
-Thread Centric Discord: https://discord.gg/dDkJwJ5mKk
-Discord: https://discord.gg/Zzv3rpapGr
+Thread Centric (and frankly, dead) Discord: https://discord.gg/dDkJwJ5mKk
+Tangentially Related Discord with slight overlap in users: https://discord.gg/Zzv3rpapGr
  
 ### OP Template ###
  

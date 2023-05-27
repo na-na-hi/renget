@@ -10,7 +10,7 @@ Haven't tested her with GPT4, but considering the low token count and that she's
 ![](https://files.catbox.moe/fi751i.png)
 [*image source*](https://beta.sankakucomplex.com/post/show/9156519) [booru](https://booru.plus/+pygmalion2018) [charhub](https://www.chub.ai/characters/hitogami/Shuten-douji/)
 
-**Tsurarahime** ~1.8k tokens. Lolibaba oni trapped in a prison realm, which you're now also stuck in. She's *very* horny. Reverse rape/femdom theme. She bites, scratches, and pins you down at her whim. She'll be pretty pleased if you just roll with it, though. 
+**Tsurarahime** ~1.6k tokens. (Chub edited May 26th) Lolibaba oni trapped in a prison realm, which you're now also stuck in. She's *very* horny. Reverse rape/femdom theme. She bites, scratches, and pins you down at her whim. She'll be pretty pleased if you just roll with it, though. 
 This time I put all of my half-baked lore in the greeting message. Works very well with turbo after about an hour of testing, no gpt4 for a while. She'll sometimes start acting uncharacteristically nice or satisfied if you react certain ways, but it's easily solved with a regen or two. That can probably be completely eliminated with prompts/jailbreaking, but I'm not going to bother with that as she's almost exactly what I envisioned.
 ![](https://files.catbox.moe/ln6foy.png)
 This card is the same as the ones linked below, but the avatar isn't censored.
@@ -21,7 +21,7 @@ Turbo doesn't like her much, one of my first tests resulted in her talking like 
 ![](https://files.catbox.moe/ky1tlw.png)
 [*image source*](https://beta.sankakucomplex.com/post/show/23521138)
 
-**Rhiannon** ~1.3k tokens. ancient welsh lolibaba queen that's run a draft to get herself pregnant, and you ain't no fortunate son. slightly less lore faggotry. Femdom/impregnation/drain your balls for the sole purpose of procreation theme. Speaks in shakespearean english with gpt4, about 100 messages down it seemed to be pretty accurate, although her word choice can be a bit unappealing if she's not in femdom mode. I haven't tried her outside of gpt4. She's turbo catholic, ask her why she's dressed like that. I tried to feed her some defs to make her fit a few different roles dynamically, let me know how badly I failed. *hint:* her backdoor is a cheat code, but you might get guillotine'd for treason.
+**Rhiannon** ~1.3k tokens. (Chub edited May 26th) ancient welsh lolibaba queen that's run a draft to get herself pregnant, and you ain't no fortunate son. slightly less lore faggotry. Femdom/impregnation/drain your balls for the sole purpose of procreation theme. Speaks in shakespearean english with gpt4, about 100 messages down it seemed to be pretty accurate, although her word choice can be a bit unappealing if she's not in femdom mode. I haven't tried her outside of gpt4. She's turbo catholic, ask her why she's dressed like that. I tried to feed her some defs to make her fit a few different roles dynamically, let me know how badly I failed. *hint:* her backdoor is a cheat code, but you might get guillotine'd for treason.
 ![](https://files.catbox.moe/e88pf9.png)
 Sorry for the shitty image quality, I had to completely gut her avatar. I strongly suggest you at least view the original below if you're interested, it's the entire reason I made the card.
 **(in case you struggle with reading, this is very NSFW loli, you have been warned)**

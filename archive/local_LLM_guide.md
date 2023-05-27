@@ -5,14 +5,14 @@
 
 **1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
 
-Good at (**S**)tory or (**I**)nstruct modes:
-(**SI**) 13B (11GB RAM) [Vicuna 13B Cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/resolve/main/ggml-vicuna-13b-cocktail-v1-q5_0.bin) 
+Relative proficiency at (**S/s**)tory or (**I/i**)nstruct modes:
+(**sI**) 13B (12GB RAM) [WizardLM-13B-Uncensored](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML/tree/main)
 
+(**S**) 6B (9GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-GGML/tree/main)
+
+(**Si**) 7B (6GB RAM) [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/tree/main)
+Older but still works- cannot use --gpulayers with:
 (**SI**) 13B (10GB RAM) [oasst-llama13b](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/resolve/main/qunt4_0.bin) 
-
-(**S**) 6B (9GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-ggml-q5_1/tree/main)
-
-(**SI**) 7B (6GB RAM) [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/blob/main/WizardLM-7B-uncensored.ggmlv3.q5_1.bin)
 
 More recommended GGML models [HERE](https://github.com/LostRuins/koboldcpp/discussions/87)
 

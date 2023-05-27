@@ -127,7 +127,7 @@ Official (and unofficial) places you can get these games.
 [S.T.A.L.K.E.R. 1: Shadow of Chernobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/), [Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/) & [Call of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/) [▶️](https://www.youtube.com/results?search_query=S.T.A.L.K.E.R+gameplay)
 [Silent Hill 1](https://vimm.net/vault/6039), [2](https://vimm.net/vault/66448), [3](https://vimm.net/vault/66558), [4](https://vimm.net/vault/66559) + [Origins](https://vimm.net/vault/9253), [Shattered Memories](https://vimm.net/vault/9254) [▶️](https://www.youtube.com/results?search_query=Silent Hill+gameplay)
 [Supermassive Games (Until Dawn, The Quarry, Dark Pictures Anthology...)](https://store.steampowered.com/search/?developer=Supermassive+Games) [▶️](https://www.youtube.com/results?search_query=Dark Pictures Anthology+gameplay)
-[The Callisto Protocol](https://store.steampowered.com/app/1544020/The_Callisto_Protocol/) [▶️](https://www.youtube.com/results?search_query=Callisto Protocol+gameplay)
+[The Callisto Protocol](https://store.steampowered.com/app/1544020/The_Callisto_Protocol/) [▶️](https://www.youtube.com/results?search_query=Callisto Protocol+gameplay) `spiritual successor to Dead Space`
 [The Evil Within 1](https://store.steampowered.com/app/268050/The_Evil_Within/) & [2](https://store.steampowered.com/app/601430/The_Evil_Within_2/) [▶️](https://www.youtube.com/results?search_query=The Evil Within+gameplay)
 [The Last Of Us 1](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) [▶️](https://www.youtube.com/results?search_query=The Last Of Us+gameplay)
 
@@ -227,10 +227,10 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/) [▶️](https://www.youtube.com/results?search_query=Blasphemous+gameplay) `2D sidescroller, Metroidvania`
 [Darkwood](https://store.steampowered.com/app/274520/Darkwood/) [▶️](https://www.youtube.com/results?search_query=Darkwood+gameplay) `top down, survival`
 [Daymare: 1998](https://store.steampowered.com/app/842100/Daymare_1998/) [▶️](https://www.youtube.com/results?search_query=Daymare: 1998+gameplay) `third person, RE2-influenced`
-[Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate/) [▶️](https://www.youtube.com/results?search_query=Dead Estate+gameplay)
+[Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate/) [▶️](https://www.youtube.com/results?search_query=Dead Estate+gameplay) `isometric, rouge-like`
 [Demonophobia (Ryona Guro, Untranslated)](https://mega.nz/file/0TxCSJgI#XpPIMp7RGgthextgghf8jvYDB4Q497-1grBo1RX6fkY) [▶️](https://www.youtube.com/results?search_query=Demonophobia+gameplay)
 [Devotion](https://shop.redcandlegames.com/app/devotion) [▶️](https://www.youtube.com/results?search_query=Devotion+gameplay)
-[Discover My Body](https://pantagruel.itch.io/discover-my-body) [▶️](https://www.youtube.com/results?search_query=Discover My Body+gameplay)
+[Discover My Body](https://pantagruel.itch.io/discover-my-body) [▶️](https://www.youtube.com/results?search_query=Discover My Body+gameplay) `medical horror, 10 minutes to beat`
 [Doki Doki Literature Club Original](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) & [Plus](https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/) [▶️](https://www.youtube.com/results?search_query=Doki Doki Literature Club+gameplay)
 [Don't Starve (Play The Screecher)](https://store.steampowered.com/app/219740/Dont_Starve/) [▶️](https://www.youtube.com/results?search_query=Don't Starve Screecher+gameplay)
 [Duskers](https://store.steampowered.com/app/254320/Duskers/) [▶️](https://www.youtube.com/results?search_query=Duskers+gameplay)
@@ -239,13 +239,13 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Fear & Hunger](https://store.steampowered.com/app/1002300/Fear__Hunger/) [▶️](https://www.youtube.com/results?search_query=Fear & Hunger+gameplay)
 [Five Nights at Freddy's 1](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/) [▶️](https://www.youtube.com/results?search_query=Five Nights at Freddy's+gameplay)
 [Fobia - St. Dinfna Hotel](https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/) [▶️](https://www.youtube.com/results?search_query=Fobia - St. Dinfna Hotel+gameplay) `RE7-inspired`
-[Fran Bow](https://store.steampowered.com/app/362680/Fran_Bow/) [▶️](https://www.youtube.com/results?search_query=Fran Bow+gameplay)
+[Fran Bow](https://store.steampowered.com/app/362680/Fran_Bow/) [▶️](https://www.youtube.com/results?search_query=Fran Bow+gameplay) `point and click`
 [GOHOME](https://store.steampowered.com/app/1334840/GOHOME/) [▶️](https://www.youtube.com/results?search_query=GOHOME+gameplay)
-[Golden Light](https://store.steampowered.com/app/1245430/Golden_Light/) [▶️](https://www.youtube.com/results?search_query=Golden Light+gameplay)
-[Hatred](https://store.steampowered.com/app/341940/Hatred/) [▶️](https://www.youtube.com/results?search_query=Hatred+gameplay)
+[Golden Light](https://store.steampowered.com/app/1245430/Golden_Light/) [▶️](https://www.youtube.com/results?search_query=Golden Light+gameplay) `FPS, rouge-like`
+[Hatred](https://store.steampowered.com/app/341940/Hatred/) [▶️](https://www.youtube.com/results?search_query=Hatred+gameplay) `isometric, twin-sticks shooter`
 [Hello? Hell... o?](https://vgperson.com/games/hellohello.htm) [▶️](https://www.youtube.com/results?search_query=Hello? Hell... o?+gameplay)
 [HellSign](https://store.steampowered.com/app/606500/HellSign/) [▶️](https://www.youtube.com/results?search_query=HellSign+gameplay)
-[I'm on Observation Duty](https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/) [▶️](https://www.youtube.com/results?search_query=I'm on Observation Duty+gameplay)
+[I'm on Observation Duty](https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/) [▶️](https://www.youtube.com/results?search_query=I'm on Observation Duty+gameplay) `spot the difference game`
 [Ib (Remake)](https://store.steampowered.com/app/1901370/Ib/) & [Original](https://www.vgperson.com/games/ib.htm) [▶️](https://www.youtube.com/results?search_query=Ib+gameplay)
 [IMSCARED (Remake)](https://store.steampowered.com/app/429720/IMSCARED/) & [Original](https://gamejolt.com/games/imscared-a-pixelated-nightmare/10058) [▶️](https://www.youtube.com/results?search_query=IMSCARED+gameplay)
 [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/) [▶️](https://www.youtube.com/results?search_query=Inscryption+gameplay)

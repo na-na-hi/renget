@@ -1,4 +1,4 @@
--> Last update: 2023-04-11 ->
+-> Last update: 2023-05-26 ->
 # /&Tactical/ 
 ---
 
@@ -166,9 +166,9 @@ How to use [WebM for Lazies](https://argorar.github.io/WebMConverter/) to conver
 >Download and unpack the [latest build of WebM for Lazies](https://github.com/argorar/WebMConverter/releases/latest) in folder of your choice (latest version of "WebM for..." tool with VP9 support).
 
 * 1. Launch WebMConverter.exe and open your recorded video in it. `(you may encounter an error message if the built-in updater is blocked by your firewall)`
-* 2. Be mindful of the 3MB upload limit.
+* 2. Be mindful of the 4MB upload limit.
 * 3. In the *Processing* tab, you can easily trim, crop, resize, etc. your footage. It's best to keep footage under 30-60 seconds. You can apply some light cropping and resize to lower resolution to reduce output filesize.
-* 4. In the *Encoding* tab, set *Mode* to variable, enable *High quality mode*. Default *CRF* value should be set at around 30. You can try raising the value between 30 and 40 or above to reduce filesize output until you get a result under 3MB (upload limit), but this will also reduce video quality. It's best to reduce resolution rather than cranking up CRF too much. Alternatively, you can set *Mode* to Constant and force *Size limit* to 2.9MB but quality won't be optimal.
+* 4. In the *Encoding* tab, set *Mode* to variable, enable *High quality mode*. Default *CRF* value should be set at around 30. You can try raising the value between 30 and 40 or above to reduce filesize output until you get a result under 4MB (upload limit), but this will also reduce video quality. It's best to reduce resolution rather than cranking up CRF too much. Alternatively, you can set *Mode* to Constant and force *Size limit* to 3.9MB but quality won't be optimal.
 * 5. In the *Advanced* tab, tick the VP9/Opus box. You only need to tick it once as it should remember your choice. VP9 offers better quality output for lesser filesizes, but takes longer to encode.
 * 6. To make more complex edits, click on the down-arrow next to *Trim* and select *Multiple trim*. Use *Go to* to directly input footage timecode or frame  number.
 

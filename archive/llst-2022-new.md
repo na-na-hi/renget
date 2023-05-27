@@ -298,7 +298,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[📷]()
 
 **Notes:**
-- ==[]==Nako Misaki's birth year is undisclosed. In a radio interview however she has stated that she is allegedly "around the same age" as Nagisa Aoyama, leading people to speculate that she is born around 1998-1999. [src1](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [src2](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2).
+- ==[]==Nako Misaki's birth year is undisclosed. In a radio interview however she has stated that she is "around the same age" as Nagisa Aoyama, leading people to speculate that she is born around 1998-1999. [src1](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [src2](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2). The Chinese moegirl wiki gives an birth year of 1999. [src3](https://mzh.moegirl.org.cn/%E5%B2%AC%E5%A5%88%E5%AD%90)
 
 
 ###💮⛅ Hasunosora Seiyuu ⛅💮###

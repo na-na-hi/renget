@@ -10,14 +10,15 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(05/27) FalconLM release Falcon-7B & 40B, new foundational models
+\>(05/26) BluemoonRP 30B 4K released
+\>(05/25) QLoRA and 4bit bitsandbytes released
 \>(05/23) exllama transformer rewrite offers around x2 t/s increases for GPU models
 \>(05/22) SuperHOT 13B prototype & WizardLM Uncensored 30B released
 \>(05/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
 \>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
 \>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
-\>(05/13) llama.cpp GPU acceleration has been merged onto master >>93403996 >>93404319
-\>(05/10) GPU-accelerated token generation >>93334002
 
 ►**FAQ & Wiki**
 \>Wiki
@@ -111,6 +112,8 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+05/13/2023 | llama.cpp GPU acceleration has been merged onto master >>93403996 >>93404319
+05/10/2023 | GPU-accelerated token generation >>93334002
 05/06/2023 | MPT 7B, 65k context model trained on 1T tokens: https://huggingface.co/mosaicml/mpt-7b-storywriter
 05/05/2023 | GPT4-x-AlpacaDente2-30b. https://huggingface.co/Aeala/GPT4-x-AlpacaDente2-30b
 05/04/2023 | Allegedly leaked document from Google, fretting over Open Source LLM's. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
