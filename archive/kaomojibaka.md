@@ -24,7 +24,7 @@ https://github.com/bfs15/slaude [aisu fork]
 https://rentry.org/ClaudeJB
 >Agnai
 https://agnai.chat/
-https://rentry.org/agnai_guides [Video guides, new guide for using slaude with web agnai over localtunnel]
+https://rentry.org/agnai_guides [Video guides]
 >RisuAI
 https://github.com/kwaroran/RisuAI
 >Miku

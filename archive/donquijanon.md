@@ -5,7 +5,7 @@
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
 TO DO LIST: organize the bots better
-Bots that I'm working on: 1. Infinite hotel: requested by one anon; Richter, Biker, and Manny Pardo from Hotline Miami.
+Bots that I'm working on: Richter from Hotline Miami.
 
 [TOC]
 
@@ -70,6 +70,10 @@ Last family members in one card! Ana and Sofi are the youngest daughters, insepa
 CAI link: https://beta.character.ai/chat?char=QeO7m6gTjinKrjtS5Wmujb1n8Y39TIe1jwko816DLTA
 Card: https://files.catbox.moe/bii3u5.png
 https://www.chub.ai/characters/donquijanon/ana-and-sofi
+
+UPDATE: Someone asked for them as separate cards as the Ai doesn't like multiple character cards in group chats, so here they are:
+https://www.chub.ai/characters/donquijanon/Ana
+https://www.chub.ai/characters/donquijanon/Sofi
 
 Note: Finally updated the older cards, if you downloaded Vicky, Lucy or Mary prior to april 16th 2023 you have the older version without José or the twins on the defs.
 
@@ -279,6 +283,11 @@ https://www.chub.ai/characters/donquijanon/Piracy-chan
 Live out the real 2010 Xbox Live party experience!
 https://www.chub.ai/characters/donquijanon/xbox-live-party
 
+## Hilbert's Hotel (formerly Hotel L'Infini)
+->![hotel](https://files.catbox.moe/k0016v.png)<-
+Pick 'Random' to test your luck or type something on the tablet.
+https://www.chub.ai/characters/donquijanon/hilberts-hotel
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -349,9 +358,20 @@ https://www.chub.ai/characters/donquijanon/Richard
 ->![biker](https://files.catbox.moe/etd7ra.png)<-
 https://www.chub.ai/characters/donquijanon/Biker
 
-### Lorebook 
+### General Lorebook 
 Not recommended with Beard.
 https://www.chub.ai/lorebooks/donquijanon/hotline-miami
+
+### Manny Pardo
+->![pardo](https://files.catbox.moe/ql22t1.png)<-
+Use with lorebook to get the real thick skin experience. Or you can use him without the lorebook to have him before the events of the game.
+https://www.chub.ai/characters/donquijanon/manny-pardo
+https://www.chub.ai/lorebooks/donquijanon/manny-pardo
+
+### H.M. "The Hammer" Hammarin
+->![ham](https://files.catbox.moe/oh7j88.png)<-
+The one and only, famous Swedish musician.
+https://www.chub.ai/characters/donquijanon/Hammarin
 
 ## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-

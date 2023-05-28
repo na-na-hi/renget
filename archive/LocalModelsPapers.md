@@ -118,6 +118,7 @@
 05/2023|[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://arxiv.org/abs/2305.07922)
 05/2023|[ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172)
 05/2023|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -140,6 +141,7 @@
 08/2022|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 09/2022|[Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188)
 10/2022|[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323)
+10/2022|[Truncation Sampling as Language Model Desmoothing](https://arxiv.org/abs/2210.15191)
 10/2022|[DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation](https://arxiv.org/abs/2210.07558)
 11/2022|[An Algorithm for Routing Vectors in Sequences](https://arxiv.org/abs/2211.11754)
 12/2022|[Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
@@ -205,8 +207,8 @@
 05/2023|[SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs](https://arxiv.org/abs/2305.11461)
 05/2023|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 05/2023|["According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
-05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
 05/2023|[Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342)
+05/2023|[Landmark Attention: Random-Access Infinite Context Length for Transformers](https://arxiv.org/abs/2305.16300)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
