@@ -380,7 +380,7 @@ Negatives: twintails, two side up, brown hair, dark purple hair, dark hair, blue
 
 ####2nd Gen:
 #####Fauna
-	ceres fauna, hololive, yellow eyes, green hair, white hair flowers, one side up,
+	ceres fauna, hololive, yellow eyes, green hair, white hair flowers, one side up, medium hair, 
 Negatives: (twintails:1.8), (two side up:1.8), (double bun:1.8), black hair, (hair ribbon:1.2), (hair bow:1.2), pointy ears, single hair bun, tied hair,
 !!! note Notes:
 	* Fauna's hair is all fucked up, I assume because all three of her outfits have something flaring out the sides of her hair. As a result, she has extremely baked in twintails while still having her shoulder length blue gradient and flowers at the same time. Even at these weights it still wasn't right. If unweighted "twintails, two side up," in negatives doesn't work you are better off just rolling for a more cooperative seed.

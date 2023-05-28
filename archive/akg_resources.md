@@ -187,6 +187,7 @@ resource | link
 Fankit (stickers, wallpapers) | [Official EN Link](https://www.arknights.global/fankit), [Anon archive](https://files.catbox.moe/emlg5a.zip)
 Gacha revenue (update monthly) | https://space.bilibili.com/179948458
 Upcoming event prediction calendar | https://ak.jaywye.ee/calendar
+Watch bilibili in 1080p | https://xbeibeix.com/api/bilibili/
 
 ***
 

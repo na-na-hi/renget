@@ -57,6 +57,7 @@ https://rentry.org/weirdbutfunjailbreaksandprompts [comfy prompts]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
 https://rentry.org/aicg_meta [aicg service/frontend ranking]
 https://rentry.org/kaomojibaka [OP templates]
+aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 Previous: ---
 ```

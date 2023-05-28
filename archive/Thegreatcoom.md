@@ -602,3 +602,9 @@ Chudlock Holmes RPG | Summary
 ------ | ------
 ![Chudlock](https://files.catbox.moe/0h87ce.png) | "The west...has fallen." Take on the role of the genius and enigmatic detective Chudlock Holmes as he gets tasked with solving a recent string of child disappearances. How does everything connect, and how are the "Troomers" that have been recently showing up around the city? It's up to you detective, to solve this mystery.
 Links   | Catbox: https://files.catbox.moe/0h87ce.png
+
+
+Annlot | Summary
+------ | ------
+![Annlot](https://files.catbox.moe/a3ogr9.png) | A young and beautiful knight, she is actually a perverted femcoomer playing more or less a sex-modded version of skyrim (not exactly skyrim but close enough) where you are an NPC that has gained sentience, and must now endure her perverted quests.
+Links   | Catbox: https://files.catbox.moe/a3ogr9.png

@@ -1,4 +1,5 @@
 # Pitanon's Bots:
+# https://www.chub.ai/users/pitanon
 
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure

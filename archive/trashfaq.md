@@ -47,6 +47,12 @@ Furry models, like yiffy e18, Fluffyrock, Fluffusion and Crosskemono (at least 2
 For prompting with tags, I recommend using the SD WebUI Tagcomplete extension that can be found in Automatic1111's extension list. It comes with .csv files containing Danbooru and e621 tags by default, and suggests fitting tags based on what you are writing.
 
 The authors of Fluffusion and Fluffyrock both made .csv files containing the exact tag counts of tags used in training; put them into \stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags.
+You can find them in Trashcollects:
+https://rentry.org/trashcollects#fluffyrock
+https://rentry.org/fluffusion
+
+If, for whatever reason, you want the original .csv files Tagcomplete comes with: https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/tree/main/tags
+
 Also, both models are recommended to be used with artist tags to guide the resulting images' style; as with anything regarding SD, this is just a recommendation however, if it looks good it looks good.
 Fluffyrock removed any and all meta tags, whereas fluffusion still contains them, allowing for use of tags like "traditional media \(artwork\)" or the like. Again, check the .csv files for info about what works and what doesn't.
 
