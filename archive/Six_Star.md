@@ -719,12 +719,13 @@ New player Unit priority: Low (Can help in Arena with proper support but not as 
 
 ## -> Muimi<- (JP Release Date: Year 6, May 8th)
 More damage with damage cap circumvent, a CC immunity and 6 Star stats means Muimi might make a return to her former glory..
-- UB+: Give sMuimi a mark, giving her a complete immunity to CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
+- UB+: Gives Muimi a mark, giving her a complete immunity to most forms of CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057) (Not including Charm). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
 - CB: While the demonstration was shit, Muimi's niche of tanking as 1st position, keeping her UB up and spamming her SP1+ > SP2 > SP1+  loop in UB form may return with an Ames and increased 6* stats behind her. Her biggest concern will always be to stay in UB form and not exploding while pumping out damage. Lots of bosses have ways to drain TP or don't give TP on their UBs, so that's something to keep in mind.
 - Arena: Could see some P.Arena usage or niche Arena solutions like Chris, but most likely won't be a common unit. Being immune to CC certainly helps, but she does not dodge things like curse from Misaki and will still take damage.
+- PvE: Absolutely destroys dungeons and stages where she can survive. Will most likely see usage in new content like SP dungeons and whatnot.
 - With Twin Pigs this month, a physical 1st position unit that always want to take damage may also hold great value. With tons of barriers, TP gain and heals available to Muimi compared to when she was previously meta, don't be surprised to see her run over bosses that can't 1shot her. Maintaining her TP values should be easier with stuff like X.Miyako, Laby, Ames. Similar to how GreAnne require the team built around them, Muimi will most likely need a team built around her. For Auto players, Muimi is very auto friendly due her UB draining instead of needing to be re-activated constantly. She does get charmed and knocked back, despite her CC immunity.
 
 Bond story priority: High (Relevant units: L.Muimi, NY.Muimi)
 Max level Unit priority: Top
-New player Unit priority: Med (Can be a main piece in clearing EX3/4+)
+New player Unit priority: High (Can be a main piece in clearing EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

@@ -60,6 +60,7 @@ The following list is for new players to target, as some units are amazing - But
 
 ###->S Tier - Must have targets for max level players, worth completing a spark or two if you get the other two above as a new player<-
 **Christina** - Requires 6* & Max investment. Some TLs may require X.Chris bonds as well, so be careful when reviewing TLs. But an amazing physical damage dealer
+**Muimi** - She's definitely back in action, but Muimi requires absolute max investment in order to become relevant. Still worth the S tier rating.
 **Labyrista** - Thanks to her Unique Equip, rocketed straight back to dominance in CB. Requires max investment, but well worth it.
 **Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used.
 **Princess Hiyori** - CB staple that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE.
@@ -68,7 +69,6 @@ The following list is for new players to target, as some units are amazing - But
 **Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
 **Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
 **Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Good CB usage in April, needs more continued usage to stay relevant or move up in worth.
-**Muimi** - She's probably back, but we have very little data to prove this. Will re-visit
 
 ### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
@@ -91,7 +91,7 @@ If you have a different option, discuss in the thread and it can be discussed.
 Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: 
 Christina | SS | C  | B | S | Yes | Yes
-Muimi | S | D | SS | S | Yes | Yes
+Muimi | SS | C | SS | SS | Yes | Yes
 Neneka | SS | D | SS | SS | Yes | No
 P.Peco | C | A | C | B | Yes | No
 P.Kokkoro | B | C | A | A | No | No
@@ -127,7 +127,8 @@ These units are only available during their specific banners, which are typicall
 ##->Permanent Targets<-
 While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions.
 
-**School Festival Yuni** - Fantastic support for both damage types in multiple game modes. If you get her, that's an S-Tier roll.
+**School Festival Yuni** - Fantastic support for both damage types in multiple game modes. Still very good, less dominant.
+**Noire Io** - 
 **Stage Misaki** - Another fantastic support, but only for magic teams. S-Tier roll as far as permas go.
 **Inori** - Top tier Arena unit, good roll for those who enjoy that mode. Is also farmable at Hard Node 44-3.
 **Magical Girl Kasumi** - Top tier Arena unit for offense and defense, farmable at Hard Node 38-3

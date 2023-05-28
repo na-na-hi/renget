@@ -32,6 +32,7 @@ Logren Wight: https://rentry.org/fa2y3
 Ioni Lacroix: https://rentry.org/p7rxf
 Artorias Draco Black: https://rentry.co/ArtoriasBlack
 Zachariah Haines: rentry.org/qzxqk
+Maddison Caldwell: https://rentry.org/cr3e6
 ->• ───────────────── •<-
 
 Name: Your characters name here so we know who this is about.

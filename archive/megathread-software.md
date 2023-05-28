@@ -111,6 +111,7 @@
 
 ### 🐐 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 - A scene website founded in 2004, recognised for new releases of software, games, music, movies, and eBooks.
+- 🗘 ==This link also appears in the 🧭 ➜ [All Purpose](https://rentry.co/megathread-all-purpose) section.==
 - [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
 
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI

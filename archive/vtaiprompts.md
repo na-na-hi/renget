@@ -501,8 +501,8 @@ Negatives: red hair, twintails, two side up,
 ###EN:
 ####GaZuLight:
 #####Pomu
-	pomu rainpuff, nijisanji, blonde hair, red eyes, fairy, fairy wings, hair ribbon, bangs, hair ornament, pointy ears,
-Negatives: twintails, two side up, hair ribbon, hair bow,
+	pomu rainpuff, nijisanji, blonde hair, red eyes, fairy, fairy wings, hair ribbon, bangs, hair ornament, pointy ears, headband, 
+Negatives: twintails, two side up, 
 !!! note Note:
 	"hair ornament," and "hairclip," will give you different things but neither of them are right. I used "hair ornament," because it is in the right place, so something properly shaped may show up if you rolled long enough.
 !!! note WIP Outfit:

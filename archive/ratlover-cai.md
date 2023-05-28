@@ -244,7 +244,7 @@ An agent of the Imperial Census dead set on questioning you. Just answer his que
 Text adventure set in a war-torn land full of anthropomorphic animals.
 
 ##The Furred Filchers
-![Furred Filchers](https://imgur.com/8TA1R9K.png)
+![Furred Filchers](https://imgur.com/tn3IlvL.png)
 [CAI](https://beta.character.ai/chat?char=2YJrMiSxmkFIlnktC7EUdFJRO5RcVkT7NROC2QcGDYc&stream_animation_chunk_size=0&stream_animation_chunk_delay=0)
 [Card](https://www.characterhub.org/characters/ratlover/the-furred-filchers)
 [JSON](https://files.catbox.moe/q99cv1.json)

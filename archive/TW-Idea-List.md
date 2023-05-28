@@ -1,24 +1,37 @@
 # Suggestions for EraToho TheWorld
 Development suggestions for TW include:
 ## “Can I Sleep With You?”
-Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.
+An event where characters can ask to sleep in your room.
+- *Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.
 If she’s horny enough it should be something like “X tries to gently shake you awake”, you can wake up and fuck her or pretend to be asleep to see if she has any special masturbation dialogue, as to not render it impossible to access.
 Somnophilia is also a thing, hint hint.
 The higher the favor the bigger the chance. Should also be possible for multiple lovers to ask for it simultaneously. If you’re spending majority of your day underneath a pile of women, why not spend majority of your night drowning in girl’s affections too?
-Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal it, pedina.
+Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal it, pedina.*
 ## Childcare Expansion
 To be determined.
 ## Female MC Pregnancy
 To be determined.
 ## Furniture Recipe Mechanic
 To be determined.
-## Game Expansion
+## Hypnosis Expansion
+In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
+## Incident Scenario
+To be determined; initial concept by AK Spectre and Eri.
+## In Heat Expansion
+An expansion of which characters have events for when they are in heat.
+- *Momiji. She should try to avoid having sex despite herself unless she is in a fall state, in which case she should seek out the player. Alternatively she could get territorial.*
+- *I want to be raped by savage beast youkai who claw and bite me desperate for babies who sheepishly apologize after with a fertilized ovum*; **i.e. the Kagerou event from TohoK.**
+## Jealousy Expansion
+To be determined.
+## Map for Makai
+Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
+## Play a Game Expansion
 An expansion to the Play a Game custom command.
 - Blindfolded Breast Grab
 
-2hus that are friends with you should offer you a game where they blindfold you and you have to squeeze a few pairs of boobs then guess to who each pair belongs to. Maybe also the order they let you touch them. There should be a few misdirections where for example one in a group skips letting you fondle her chest, or another gets two or three turns with your hands. Overly enthusiastic girls can grab your hands or even skip fondling and go for a little smothering.
+*2hus that are friends with you should offer you a game where they blindfold you and you have to squeeze a few pairs of boobs then guess to who each pair belongs to. Maybe also the order they let you touch them. There should be a few misdirections where for example one in a group skips letting you fondle her chest, or another gets two or three turns with your hands. Overly enthusiastic girls can grab your hands or even skip fondling and go for a little smothering.
 Get a few descriptions of the boobs depending on the size, 2hu's height(Shinmyoumaru is obvious whether her chest is flat or gigantic, hus taller than you can bend down to your level and you can feel that, or they can crouch down and you can't tell, short ones need you to lower your hands etc), lactation, their heartbeat depending on their feelings towards you and their boob sensitivity, maybe the feel of the bra/clothes etc. They should be able to orgasm from this too.
-Not a suggestion for neodev/pedytw
+Not a suggestion for neodev/pedytw*
 
 - Cheating Mechanic
 
@@ -29,14 +42,6 @@ A mechanic where you could cheat at a game, where your success would be dependen
 - Skill + Trait Integration
 
 A mechanic for participant success in games to be affected by traits and skills alongside fortune.
-## Hypnosis Expansion
-In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
-## Incident Scenario
-To be determined; initial concept by AK Spectre and Eri.
-## Jealousy Expansion
-To be determined.
-## Map for Makai
-Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
 ## Research System
 A feature to allow the player to research recipes.
 - Mixing would be a method to achieve quick results, whereas research would take more time but produce more consistent results; i.e. expediency at the expense of time vs. consistency at the expense of time.
@@ -47,14 +52,12 @@ This issue will serve as a non-exhaustive list of sex acts to be added to TW as 
 ## Tanuki Loans via Mamizou
 A feature that allows the player to request a loan from Mamizou, with the risk of losing reputation if they do not repay it in a timely manner.
 ## “Teach Me How to Please You”
-Suggestion. Not for use by neodev/pedytw.
-Haremettes should give you a request that makes one teach the other how to best please you with a selected sex technique. Basically the existing "have
-sex with me" but more like "have sex with her while I watch and take notes".
-And with 2(or more) 2hus, obviously.
-Requires love, or sex friends level with both. Vaginal sex won't be possible if the teacher is a virgin. Anal too. And both if the player is a virgin(there are better events with existing dialogue for losing virginities). Student's virginity is alright, I'm imagining it as an event where the student just watches you have actual sex, at most practicing sucking or jerking you off under the teacher's watchful eye.
+A request where characters can ask you to have another character demonstrate their sexual expertise.
+*Suggestion. Not for use by neodev/pedytw. Haremettes should give you a request that makes one teach the other how to best please you with a selected sex technique. Basically the existing "have sex with me" but more like "have sex with her while I watch and take notes".
+And with 2(or more) 2hus, obviously. Requires love, or sex friends level with both. Vaginal sex won't be possible if the teacher is a virgin. Anal too. And both if the player is a virgin(there are better events with existing dialogue for losing virginities). Student's virginity is alright, I'm imagining it as an event where the student just watches you have actual sex, at most practicing sucking or jerking you off under the teacher's watchful eye.
 The higher [2hu A]'s level in any of the techniques is, the better teacher she is to [2hu B]. Ex tiers would be able to get an E rank straight to C, for example. Your own technique level should also matter, but say at a 50% reduction. It should be a random technique roll with a strong preference for vaginal if [2hu B] has it at really low levels. The entire request should be initiated by [2hu B], with a suggested teacher, who you might be able to swap out for someone else(so you can have your main girl teaching every time instead of a randomly selected one). You bring her and [2hu A] to your or her bedroom and you execute the request there. Or, for when you will be able to have group dates, in love hotels or bedrooms outside of your home area too.
 Like imagine, Seija getting tips from Shinmyoumaru on how to take your massive dong and remain conscious. Tsukasa teaching Reimu proper handjobs, while doing that funny fox hand gesture with her free hand. Remilia sipping wine and carefully watching what to do while Meiling is showing off proper boobjob tech and Sakuya is calmly sucking nut after nut after nut outta you and staring you in the eyes. Embarrassed Yuuka holding Wriggle on top of herself while you fuck the bug and she explains how she rhythmically tightens the kegel muscles in the way that makes you cum the fastest and that wrapping her legs around you makes you lose your mind. Youmu slowly stretching her virgin butthole with her fingers according to Ran's stuttering advice as you pound her. Kaguya drooling and masturbating like a madwoman neglecting any advice while Mokou(or anyone else) is riding you. It can even be done with the planned tailjobs and wingjobs, where say, Okuu would teach Aya what to do not to break her wings.
-It should help with the technique grind. It's not like it's usually a problem to get the girl to agree to sex at the point when she loves you, but it's kinda sucky to have a harem newcomer who's pretty much unable to have sex and please you the first couple of times. I guess you could also adapt it to nonlewd requests, like learning to cook with a team of chefs behind the newcomer.
+It should help with the technique grind. It's not like it's usually a problem to get the girl to agree to sex at the point when she loves you, but it's kinda sucky to have a harem newcomer who's pretty much unable to have sex and please you the first couple of times. I guess you could also adapt it to nonlewd requests, like learning to cook with a team of chefs behind the newcomer.*
 # Suggestions From the Old Git
 ## 2hus Stealing Food From You Expansion
 https://gitgud.io/Pedy/pedy-tw/-/issues/4

@@ -153,6 +153,7 @@ NellieAndGrits|[Twitter](https://twitter.com/NellieAndGrits) [Twitch](https://ww
 DaijoubuInumaki|[Twitter](https://twitter.com/DaijoubuInumaki) [Twitch](https://www.twitch.tv/daijoubuinumaki)|
 TorakkoVT|[Twitter](https://twitter.com/TorakkoVT/) [Twitch](https://www.twitch.tv/torakkovt)|Sukeban oni tomboy
 YanchaGoGo|[Twitter](https://twitter.com/yanchagogo) [Youtube](https://www.youtube.com/c/YanchaGoGoCh) [Twitch](https://www.twitch.tv/YanchaGoGo)|
+Chanzonia|[Twitter](https://twitter.com/chanzzonia) [Twitch](https://www.twitch.tv/chanzonia)|
 
 ---
 

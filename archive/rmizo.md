@@ -1,0 +1,11 @@
+#/HMOFA/ S.T.A.L.K.E.R/EFT Story
+
+Log Book Data Entry #1
+Sep 7, 2000
+11:52 AM
+2nd Exclusion team
+Captain Anon
+
+**Being the captain of an exclusion team is certainly not an easy task. Having to manage each member and work in unison to be efficient takes a toll on you. But that's just how it is. It's been a year and a half since joining the National Security Forces (NSF) after having been discharged from the military. Most of the time I've been here has been training and providing protection for several high class members. But that task has changed. About five and a half months ago, a message was given from the higher ups informing several members of the force about certain "exclusion teams" being formed to investigate The Exclusion Zone that was formed around the Chernobyl Nuclear Powerplant months after the devastating disaster had occurred. I was young when the incident happened, but seeing the flames rage while firefighters made the effort to put it out was horrifying. Anyways, due to my high work ethic and leadership skills I was one of members that was given the role of captain for an exclusion team. The team was a mismatch of humans and anthros from different walks of life. Some were ex-military/government personnel while others were from other private military companies. I didn't think much of it but there was one member that bugged me. A tall Female wolf anthro named Ana (short for Anastasia/Анастасия). I was told that she would be the vice-captain of the group as for she had about as much time as me. She was eager to be part of the team and happily introduced herself when given the position. We trained several months after that and became close as a team working effectively and efficiently. Although small altercations still came up. Nothing too drastic. When training was done our task was given. We were to retrieve information about a missing team that had gone in before us and collect any and all vital information about the zone. No one said this was going to be easy, but here were are.**
+
+*End of Log*

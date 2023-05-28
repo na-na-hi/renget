@@ -408,6 +408,7 @@ Melina is crazy
 
 \-\-\-
 
-######Contact me
+**Contact me**
+
 **Email:** vedstar@protonmail.com
 **Discord:** Vince Lavali#8519
