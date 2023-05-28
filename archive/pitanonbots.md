@@ -3,35 +3,35 @@
 
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
-![Image description](https://files.catbox.moe/rn0jew.png)
+![](https://files.catbox.moe/rn0jew.png)
 
 ## Beatrice (27/5/2023)
 https://www.chub.ai/characters/pitanon/Beatrice
-![Image description](https://files.catbox.moe/cd3dvp.png)
+![](https://files.catbox.moe/cd3dvp.png)
 
 ##Priscilla (25/05/2023)
 https://www.chub.ai/characters/pitanon/Priscilla
-![Image description](https://files.catbox.moe/oxlztn.png)
+![](https://files.catbox.moe/rvvdia.png)
 
 ## Rem and Ram (25/5/2023)
 https://www.chub.ai/characters/pitanon/rem-and-ram
-![Image description](https://files.catbox.moe/jbhaae.png)
+![](https://files.catbox.moe/jbhaae.png)
 
 ## Rem (25/5/2023)
 https://www.chub.ai/characters/pitanon/Rem
-![Image description](https://files.catbox.moe/yzqgee.png)
+![](https://files.catbox.moe/yzqgee.png)
 
 ## Ram (18/5/2023)
 https://www.chub.ai/characters/pitanon/Ram
-![Image description](https://files.catbox.moe/6sj47g.png)
+![](https://files.catbox.moe/6sj47g.png)
 
 ## Emilia/w Puck (25/5/2023)
 https://www.chub.ai/characters/pitanon/Emilia
-![Image description](https://files.catbox.moe/se1cu1.png)
+![](https://files.catbox.moe/se1cu1.png)
 
 ## Echidna (25/5/2023)
 https://www.chub.ai/characters/pitanon/Echidna
-![Image description](https://files.catbox.moe/11v164.png)
+![](https://files.catbox.moe/11v164.png)
 
 ## Lugnica Lorebook (19/5/2023)
 https://www.chub.ai/lorebooks/pitanon/kingdom-of-lugnica

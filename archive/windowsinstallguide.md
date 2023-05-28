@@ -7,6 +7,7 @@ If you've used this guide before and moved your user folders to a different part
 B) C:\Users\Username\AppData
 The AppData folder is hidden, just type it into the path field, some game devs store saves here even though they really shouldn't.
 
+You can also using something like https://www.gamesave-manager.com to backup your game saves.
 
 ######Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.

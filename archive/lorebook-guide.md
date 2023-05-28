@@ -430,11 +430,10 @@ The effect is even stronger wtih attribute method:
 ##Special keys
 Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain, [see this to learn more](https://naidb.miraheze.org/wiki/Using_Regex) - But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
 
-- *Goal:* **Non-exact matching**
-	- *Regex:* `/\bKey/i` - allow ==keywords==, ==keynote==, or ==Key-card==
-    - *Variant: more strict -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
-- *Goal:* **Case sensitive**
-	- *Regex:* `/\bKey\b/`
+- *Goal:* **Exact matching**
+	- *Regex:* `/\bJoe/i` - only allow ==Joe==, but not ~~==Joey==~~ 
+    - *Variant: (s) -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
+    - *Variant: Case sensitive -* `/\bRock?\b/`
 - *Goal:* **Avoid being in full name**
 	- *Answer:* `/\bKey(?! (maker|shop))\b/si` - activate on ==key== but not ~~==key maker==~~ or ~~==key shop==~~
     - *Variant: front -* `/\b(?<!(joe('s)?|john) )Key\b/si` - not active on ~~==joe key==~~, or ~~==joe's key==~~ 

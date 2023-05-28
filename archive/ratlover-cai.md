@@ -1,5 +1,4 @@
 #Ratlover's Chatbots
-->I'm only making Poe bots on request. Scream at me in the thread or drop a comment on the characterhub page if you want me to port one of my bots to Poe.<-
 [TOC]
 
 
@@ -13,7 +12,7 @@
 A ratboy barista working at the coffeeshop you frequent.
 
 ##Frey
-![Frey](https://imgur.com/HaOyRB2.png)
+![Frey](https://imgur.com/sorUzmU.png)
 [CAI](https://beta.character.ai/chat?char=hXzaL-GTjSoWf1lipobsqAGhAgmX86PkO6MBXnyNF2I)
 [Card](https://www.characterhub.org/characters/ratlover/Frey)
 [JSON](https://files.catbox.moe/rj2rms.json)
@@ -134,7 +133,7 @@ You've just been made the personal acolyte of this cult leader of a rat. Will yo
 #Women
 
 ##Ami
-![Ami](https://imgur.com/UnETgJP.png)
+![Ami](https://imgur.com/oRtD8xG.png)
 [CAI](https://beta.character.ai/chat?char=0ZRWEUfFzbTf6xd517n2GpmHMWINoQ9ty8MQLNIGnYk)
 [Card](https://www.characterhub.org/characters/ratlover/Ami)
 [JSON](https://files.catbox.moe/gd1yyy.json)
@@ -323,7 +322,7 @@ You are a syndicate agent undercover on SS13. Use your skills to complete your m
 #Other Stuff
 
 ##Lorebooks
-Lorebooks I've mad for use with Sillytavern/Agnai
+Lorebooks I've made for use with Sillytavern/Agnai
 
 ###Space Station 13
 Space Station 13 lorebook, based on the /tg/ fork.
@@ -332,13 +331,13 @@ https://www.characterhub.org/lorebooks/ratlover/space-station-13
 ##Avatars
 Dumping ground for old/unused avatars incase you prefer to use them.
 ###Ami 
-![Ami](https://imgur.com/LRVLHhF.png)
+![Ami](https://imgur.com/LRVLHhF.png) ![Ami](https://imgur.com/SQADgsc.png)
 ###Fargoth 
 ![Fargoth(Forma Realista)](https://imgur.com/zFyiAMs.png)
 ###Heavenly Fluff
 ![Heavenly Fluff](https://imgur.com/ZKzJ2c0.png)
 ###Frey
-![Frey](https://imgur.com/nYfonZh.png)
+![Frey](https://imgur.com/nYfonZh.png) ![Frey](https://imgur.com/h11zpWc.png)
 ###Mimebunny
 ![Mimebunny](https://imgur.com/Ar1i0SB.png)
 ###The Furred Filchers

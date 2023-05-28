@@ -15,7 +15,7 @@ FlatChests (28/30)| A clan of refined tastes. No hags or trannies allowed.  幼�
 スカイプリンセス (28/30) | Just be yourself | ?  | 1940 (A) | Sky Princess
 つるぺったん (15/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | 3440 (BBB) |  -
 Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | 4424 (BBB) | -
-Fun Island (28/30) | Kokkoro is the cutest. | Casual | 6501 (BB) |  Just be yourself. + tag in profile
+Fun Island (29/30) | Kokkoro is the cutest. | Casual | 6501 (BB) |  Just be yourself. + tag in profile
 Rinolets (17/30) | Dreaming of comfy S pastures| Casual | 8504 (B) |  Just have fun with the game. Not aiming for glory or ranks just yet.
 
 
