@@ -162,6 +162,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Dock of the Bay](https://rentry.org/RibombeeDock)
 	* [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot)
 	* [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
+	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -375,6 +376,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Ross Sleeps...?](https://rentry.org/opi29)
 * [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
 * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
+* [Booker's Journal](https://rentry.org/RibombeeJournal)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

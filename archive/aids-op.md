@@ -1,13 +1,9 @@
-###I'm out of town for the weekend; see you lads on Monday <3
-
-
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/ps5bat.webm)
-https://files.catbox.moe/ps5bat.webm
-Toxoplasmosis Edition
+![suggested OP image](https://i.imgur.com/A7uUJvC.png)
+General Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>431294978
+Last thread: >>431576667
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -17,7 +13,7 @@ KoboldAI — Free; local or remote colab: https://koboldai.org / https://kobolda
 KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
 Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
 LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
-Saga  — Free; remote, use J2 model https://saga3.vercel.app
+\>Saga  — Free; remote (use J2) https://app.sagarpg.io
 
 ▶Tools & Resources
 Wiki: https://aids.miraheze.org/wiki/Main_Page
@@ -35,11 +31,10 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
+\>(05/28) Saga gets big updates (and claude): >>431617023 >>431616429 >>431618626 ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
-(05/23) Clio drops for Opus; best 3B evals ever? https://i.imgur.com/ckldhRy.jpg https://i.imgur.com/qAKr00Q.mp4
-(05/22) Summer Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg ; long-form Sudo https://twitter.com/jamesjyu/status/1658933765824192512
-(05/20) Anon's Saga guide: https://rentry.org/How-I-do-Saga
-(05/18) Cassandra (Pythia tune, Kobold United) drops: https://huggingface.co/wbrown
+(05/23) Clio drops for Opus https://i.imgur.com/qAKr00Q.mp4 ; Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg
+(05/18) Cassandra (Pythia tune, Kobold United): https://huggingface.co/wbrown
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks

@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+This, but with Booker and Sneasel: https://i.kym-cdn.com/photos/images/original/002/571/641/e6f
+
 Togetic as the EB Games guy
 
 Chespin pouring a Gummi drink into Wooper's mouth, like this picture. https://files.catbox.moe/dv0s1j.jpg

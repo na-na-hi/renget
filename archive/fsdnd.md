@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2501* | Last image filter update: */hmofa/ thread #2522*
+#######Last word filter update: */hmofa/ thread #2501* | Last image filter update: */hmofa/ thread #2538*
 
 
 /fifth force/i;boards:trash;op:no;file:no

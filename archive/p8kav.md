@@ -16,6 +16,8 @@ Enjoy.
 
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
 
+![mmm](https://files.catbox.moe/hn6mu9.png)
+
 
 #New Bots
 **Kelly and Gigi**

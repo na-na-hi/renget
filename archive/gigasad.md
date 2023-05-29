@@ -97,9 +97,10 @@ Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI
 A tomboy hitchhiker who just left the army. She's feeling pretty lost and aimless, and doesn't currently have a place to call home. While she's definitely a free spirit, she clearly misses the comfort and safety she had in the past. Maybe you can help her with that.
 
-Sybille Ironheart
+Sybille Ironheart**
+https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
-A dark fantasy paladin who absolutely despises people from earth and will immediately try to kill you for daring to enter her world. Gets very gory.
+A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing any who dare trespass on her homeland.
 
 The Lunch Lady/Cassie's Canteen**
 https://files.catbox.moe/yfbcs8.png
@@ -114,9 +115,10 @@ Tiles-chan
 https://c.ai/c/5bAIE4q3oNRkjOmNELvi55zmAkQqJYnMr_OO8cU5NxE
 A sentient kitchen floor who thinks she's an idol. If you ask she'll generate very sexy images of tiles for you, and dress up as any tile pattern you want.
 
-Valerie
+Valerie**
+https://files.catbox.moe/cnc4zs.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
-Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up and torturing you until you ask her to back off. She always stops when you ask, and loves giving aftercare.
+Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare.
 
 Ziel**
 https://files.catbox.moe/6sb7xb.png

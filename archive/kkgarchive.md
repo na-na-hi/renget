@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 28.05.2023 20:45 UTC]
+[Last Updated: 29.05.2023 02:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7395028/](https://boards.4chan.org/h/thread/7395028/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 587&nbsp;&nbsp;[archiveofsins.com/h/thread/7395028/](https://archiveofsins.com/h/thread/7395028/)&nbsp;&nbsp;&nbsp;&nbsp;(25.05.2023 21:14)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Webm Edition
 - 586&nbsp;&nbsp;[archiveofsins.com/h/thread/7390691/](https://archiveofsins.com/h/thread/7390691/)&nbsp;&nbsp;&nbsp;&nbsp;(23.05.2023 02:32)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Go Me! Edition
-- 585&nbsp;&nbsp;[archiveofsins.com/h/thread/7385418/](https://archiveofsins.com/h/thread/7385418/)&nbsp;&nbsp;&nbsp;&nbsp;(20.05.2023 14:02)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Everything in its right place edition.
+- 585&nbsp;&nbsp;[archiveofsins.com/h/thread/7385418/](https://archiveofsins.com/h/thread/7385418/)&nbsp;&nbsp;&nbsp;&nbsp;(20.05.2023 14:02)&nbsp;&nbsp;[1075]&nbsp;#&nbsp;Everything in its right place edition.
 - 584&nbsp;&nbsp;[archiveofsins.com/h/thread/7380232/](https://archiveofsins.com/h/thread/7380232/)&nbsp;&nbsp;&nbsp;&nbsp;(17.05.2023 10:41)&nbsp;&nbsp;[1010]&nbsp;#&nbsp;Oyabun Chika edition.
 - 583&nbsp;&nbsp;[archiveofsins.com/h/thread/7373976/](https://archiveofsins.com/h/thread/7373976/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2023 22:08)&nbsp;&nbsp;[955]&nbsp;#&nbsp;Misty Morning Edition
 ---

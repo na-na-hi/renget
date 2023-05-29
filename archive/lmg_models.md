@@ -1,14 +1,12 @@
 #->/lmg/ Model Links and Torrents <-
 
-!!! danger Due to a [recent quantization format change](https://github.com/ggerganov/llama.cpp/pull/1405), the Q4 and Q5 GGML/CPU models originally listed below became incompatible with the latest versions of llama.cpp, and needed to be quantized from the source in order to make them compatible again. I've updated the links, but you'll have to download them again, and some models will be unavailable until they're re-quantized.
-
 [TOC2]
 
 ## Changelog (MDY)
+[05-29-2023] - Added Chronos 13B
 [05-26-2023] - Added BluemoonRP 30B
 [05-24-2023] - Added SuperHOT Prototype
 [05-23-2023] - Added WizardLM 30B
-[05-20-2023] - Added Manticore 13B
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -67,6 +65,20 @@ Model | Type | Download
 7B, 13B, 30B, 65B | GPU Triton | [Neko Institute of Science HF page](https://huggingface.co/Neko-Institute-of-Science)
 
 ## ->Models/Finetunes/LoRA's<-
+
+### Chronos 13B (05/29/2023)
+!!! info
+
+	This model is primarily focused on chat, roleplay, and storywriting, but can accomplish other tasks such as simple reasoning and coding. Chronos generates very long outputs with coherent text, largely due to the human inputs it was trained on.
+
+	>Type: Roleplay Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+13B GGML | CPU | [[Q4_0, Q4_1, Q5_0, Q5_1, Q8]](https://huggingface.co/TheBloke/chronos-13B-GGML)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/elinas/chronos-13b-4bit), [Q4 CUDA](https://huggingface.co/Yhyu13/chronos-13b-gptq-4bit)
+
 
 ### BluemoonRP 30B 4K (05/26/2023)
 !!! info

@@ -27,6 +27,7 @@
 05/2023|[DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/abs/2305.10429)
 05/2023|[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)
 05/2023|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoint](https://arxiv.org/abs/2305.13245)
+05/2023|[Small Language Models Improve Giants by Rewriting Their Outputs](https://arxiv.org/abs/2305.13514)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
@@ -209,6 +210,7 @@
 05/2023|["According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
 05/2023|[Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342)
 05/2023|[Landmark Attention: Random-Access Infinite Context Length for Transformers](https://arxiv.org/abs/2305.16300)
+05/2023|[Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

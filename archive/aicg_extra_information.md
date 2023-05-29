@@ -62,6 +62,10 @@ https://drive.google.com/drive/folders/16K7HGgySBNLLlsWJDSJOElpor0_Hq7rj
 https://arca.live/w/characterai/bots
 - korean bots are neatly collected and shared here; click on the "SWF" \ "NSFW" in 1.1 and 1.2
 
+**Venus\.AI**
+https://drive.google.com/drive/folders/1saDTGz_N-jcXTZ3Tz7rdEQV8GnZGPJez
+- dump of venusai\.chat up to 27.05.2023
+
 **4chan meta list**
 - check out the link at the bottom of this rentry
 
@@ -109,6 +113,12 @@ https://www.happyaccidents.ai
 - requires to sign up; free tier is limited and very slow; has additional features
 
  ![](https://files.catbox.moe/mrp4ax.png)
+
+##### Yodayo
+https://yodayo.com/text-to-image
+- requires to sign up using Google or phone; supposed to be easy to use; free tier is supposed to be slow; has additional features
+
+ ![](catbox fucky, image later)
 
 ***
 

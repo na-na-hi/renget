@@ -32,33 +32,6 @@ A lot of the links use rentry.org, if .org is down try .co instead.
 
 ***
 
-### Current Polls
-
-Polls are used as an effort to keep things democratic on the general.
-
-Currently no active polls.
-
-***
-
-## Game Jams and Progress Days
-
-Game jams are held on itch.io. Make sure to read their [terms of service](https://itch.io/docs/legal/terms); posters on /g/ who have become accustomed to posting &#128557; and the [gamer word](https://www.merriam-webster.com/dictionary/nigger) should tread carefully. 
-
-> Can I use "x" tool to make the game?
-Yes.
-> Can I use ai?
-Do what you want, make the games how you want.
-
-For progress days you post your work monthly. Unlike game jams you can work on something old. Submit to itch.io like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days.
-
-[List of Jams and Progress Days](https://rentry.org/gedg-jams)
-
-->
-![Ganbatte Kudasai](https://i.imgur.com/XdAxvMe.png)
-<-
-
-***
-
 ## Resources and Links
 
 In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. 
@@ -69,16 +42,7 @@ https://rentry.org/gedg-engineandlibs
 
 ### Open Source Games
 
-Games where you can learn from the source code.
-
-* [Brogue](https://sites.google.com/site/broguegame/): Roguelike game.
-* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/): Ambitious post-apocalyptic survival roguelike.
-* [Mindustry](https://mindustrygame.github.io/): TD/RTS factory management. 
-* [OpenRCT2](https://openrct2.io/): Open source recreation of RollerCoaster Tycoon .
-* [Quake III Arena](https://github.com/id-Software/Quake-III-Arena): FPS famous for popularizing an [old bit hack trick](https://netlib.org/fdlibm/e_sqrt.c) .
-* [RuneLite](https://runelite.net/): Popular Old School RuneScape client.
-* [SuperTuxKart](https://supertuxkart.net/): Racing game that is similar to Mario Kart.
-* [Tales of Maj'Eyal: Age of Ascendancy](https://te4.org/): ToME is a rouguelike with an active community and a dash of modern flair.
+https://rentry.org/gedg-open
 
 ###  Free (as in Gratis) Online Resources and Books
 
@@ -103,8 +67,33 @@ Of course, game jam entries should be added to the list of games without any fus
 
 Itch collection:  https://itch.io/c/3342796/gedg-collection
 
-***
-
 ->
 ![sailor sez make some games](https://i.imgur.com/q1OL9mr.jpeg)
 <-
+
+***
+
+## Game Jams and Progress Days
+
+Game jams are held on itch.io. Make sure to read their [terms of service](https://itch.io/docs/legal/terms); posters on /g/ who have become accustomed to posting &#128557; and the [gamer word](https://www.merriam-webster.com/dictionary/nigger) should tread carefully. 
+
+> Can I use "x" tool to make the game?
+Yes.
+> Can I use ai?
+Do what you want, make the games how you want.
+
+For progress days you post your work monthly. Unlike game jams you can work on something old. Submit to itch.io like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days.
+
+[List of Jams and Progress Days](https://rentry.org/gedg-jams)
+
+->
+![Ganbatte Kudasai](https://i.imgur.com/XdAxvMe.png)
+<-
+
+***
+
+## Current Polls
+
+Polls are used as an effort to keep things democratic on the general.
+
+Currently no active polls.

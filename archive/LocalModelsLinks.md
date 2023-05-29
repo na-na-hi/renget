@@ -2,16 +2,14 @@
 ->/lmg/<- | ->Accelerate<-
 ------ | ------
 **Guides**|
-[LLaMa CPU/GPU guide](https://rentry.org/TESFT-LLaMa)|Entry guide for Nvidia GPU inferencing and general CPU inferencing 
-[oobabooga ROCm Installation](https://rentry.org/eq3hg)|AMD GPU inferencing
-[Example Fine Tune Walkthrough](https://archive.ph/308gG)|Shows use of custom dataset and how to use it to fine tune a model 
-[Example LoRa Walkthrough](https://archive.ph/XPezc)|Huggingface's StackLLaMa with their lora_config settings 
-[4-bit LoRA Training Notebook](https://gist.github.com/kaiokendev/1e735debbad8bf793e119bbc98f40c54)|LoRA tune on Colab 
+[LLaMa CPU/GPU guide](https://rentry.org/TESFT-LLaMa)|For Nvidia GPU inferencing and CPU inferencing 
+[oobabooga ROCm Installation](https://rentry.org/eq3hg)|For AMD GPU inferencing
+[Tuning Guide](https://rentry.org/llm-training)|For finetuning/lora and general LLM basics
 [Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|For longer outputs more conducive to roleplay in TavernAI
 |
 **Models**|
-[Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models. Link is for LLaMa currently
-[Curated Models Rentry](https://rentry.org/lmg_models)|Overview of various models with links to various quantizations of them 
+[Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models (link for LLaMA models) 
+[Curated Models Rentry](https://rentry.org/lmg_models)|Overview of various models with links to current quantizations
 [Bellard's TS Server](https://bellard.org/ts_server)|[Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard) hosts a server with open models and a closed source way to run them 
 [The-Eye](https://the-eye.eu/public/AI)|File host site that has a random assortment of ML resources
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Rankings of models by 4 popular benchmarks done by HF
@@ -24,13 +22,12 @@
 **News**|
 [AI Explained](https://www.youtube.com/@ai-explained-)|General AI news with well sourced links (Youtube) 
 [Dr Alan D Thompson](https://www.youtube.com/@DrAlanDThompson)|Model reviews and AGI insights (Youtube)
-[Don't Worry About the Vase](https://thezvi.wordpress.com)|Lesswrong cultist so prepare for "AI Bad" takes but does a good weekly AI news roundup (Blog)
+[AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so prepare for "AI Bad" takes but does a good weekly AI news roundup (Blog)
 [SD Compendium](https://www.sdcompendium.com/doku.php?id=weekly_news_0093)|Stable Diffusion focused content with somewhat updated news (Wiki)
 |
 **Info**|
 [Models Table](https://lifearchitect.ai/models-table)|Google Sheet of models/major AI labs/other LLM information by Alan Thompson
 [Which GPU(s) to Get for Deep Learning](https://archive.ph/SY2h6)|Tim Dettmer's continually updated blogpost
-[GPU inferencing Web UI Benchmarks](https://archive.is/0oWRR)|Outdated by now but still useful from Tom's Hardware
 [ML Glossary](https://archive.ph/iPHWI)|From Google 
 [List of Frameworks](https://archive.ph/UkaHR)|Mostly for training Models from scratch. Maybe we'll get there someday 
 [Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|Former Tesla lead for AI (now at OpenAI). Builds models with explanation

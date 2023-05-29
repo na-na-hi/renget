@@ -1,6 +1,10 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 
+## Felix (29/05/2023) [NEW]
+https://www.chub.ai/characters/pitanon/Felix
+catbox broken for now.
+
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![](https://files.catbox.moe/rn0jew.png)

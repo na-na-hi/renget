@@ -49,6 +49,7 @@ A feature to allow the player to research recipes.
 - Plans for implementing some type of counter-balancing so that this system does not overrun the original mixing mechanism will be addressed.
 ## Sex Act Expansion
 This issue will serve as a non-exhaustive list of sex acts to be added to TW as commands specific to character and species. Facesitting, gap shenanigans with Yukari, tailjobs, and wingjobs are among the examples which have been requested.
+- Wakamezake
 ## Tanuki Loans via Mamizou
 A feature that allows the player to request a loan from Mamizou, with the risk of losing reputation if they do not repay it in a timely manner.
 ## “Teach Me How to Please You”

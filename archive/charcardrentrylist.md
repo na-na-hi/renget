@@ -11,22 +11,22 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
-[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
+[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[!] [Gigasad](https://rentry.org/gigasad) | Misc | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
+[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
-[!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
-[Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[Hitogami](https://rentry.org/imtookening/) | Misc | English
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [Deleterious](https://rentry.org/deleterious) | Misc | English
 [Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
 [Horny221](https://rentry.org/hornythings) | Misc / Stink | English
-[Gigasad](https://rentry.org/gigasad) | Misc | English
 [Yotsubuh](https://rentry.org/yotsubuh) | Feeding/Fattening / Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
 [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English

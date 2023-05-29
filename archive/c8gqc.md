@@ -46,7 +46,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Dunu Kima (neutral) - $110
 • Letshuoer D13 (bassy W) - $120
 • Tinhifi T4 Plus (bright V) - $120
-• SoundRhyme SR5 (neutral) - $150
 • KiiBoom Evoke (Harman) - $170
 • Tanchjim New Hana 2021 (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
