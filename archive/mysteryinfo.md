@@ -1,2 +1,4 @@
-FINAL FINAL UPDATE:
-I have 6 Claude API keys that I am willing to put up, if someone cooks up a reverse proxy with a queue system.
+Claude is coming later today, hopefully.
+
+32k proxy, old keys still work:
+https://oai-proxy-8kpi.onrender.com/

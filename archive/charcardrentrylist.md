@@ -20,7 +20,7 @@ Botmaker | Category | Defs Language
 [!] [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
-[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [Deleterious](https://rentry.org/deleterious) | Misc | English

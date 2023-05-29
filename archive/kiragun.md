@@ -1,4 +1,4 @@
-###SHIGURE KIRA EQUIPMENT TRANSLATION V2
+###SHIGURE KIRA EQUIPMENT TRANSLATION V3B
 By Akie, updates by Moriscion
 SP MECH ICE SUPPORT - PISTOL - RANGED
 
@@ -32,7 +32,7 @@ Shigure Kira equip bonus: This effect can also be triggered by casting QTE or Ul
 ~~V2: Total DMG +20%. When host enters the field, all enemies receive ~~+15%~~ 12% more Elemental DMG, and receive ~~+7.5%~~ 5% more Total DMG. If the max HP of the host who equips 2 set of this stigma exceeds 6000, enemies additionally receive ~~+1%~~ 2.5% more Total DMG for every 400 extra HP, max ~~5%~~ 12.5%, last for 15s, can be refreshed (cannot stack).
 Kira equip bonus: Automatically gets max bonus buff from Bottom and 2PC.~~
 
-**V3: Total DMG +20%. When host enters the field, all enemies receive 12% more Elemental DMG for 12s.**
+**V3: Total DMG +20%. When host enters the field, all enemies receive 12% >15% more Elemental DMG for 12s.**
 
 ---
 3PC: 
@@ -57,5 +57,5 @@ Team Elemental DMG ~~+15%~~ **+20% > 18%** (cannot stack), wielder Ice DMG +25%.
 Shigure Kira equip bonus: When Basic ATK (including Combo and Charged) hits [xxx] marked enemies and deal damage, gain 5 SP (CD: 5s), when ~~QTE or~~ Ultimate hits an enemy,  inflict 6 points of Rime trauma. 
 ---
 **PASSIVE 2**
-Wielder Total DMG +20%. When QTE, Combo ATK, Charged ATK or Ultimate hits [xxx] marked enemies, generate an explosion, deal 100% ATK of Ice DMG within 5m radius of the target and restores 60 HP for whole team, each damage type that triggers this effect has 5s cd.
+Wielder Total DMG +20%. When QTE, Combo ATK, Charged ATK or Ultimate hits [xxx] marked enemies, generate an explosion, deal 100% ATK of Ice DMG within 5m radius of the target and restores 60 > 30 HP for whole team, each damage type that triggers this effect has 5s cd.
 Kira equip bonus: Marked enemies take 10% more Ice DMG

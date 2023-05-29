@@ -1,8 +1,8 @@
 # 이곳은 제 개인 감정 봇과 일반 봇 저장소입니다.
 # This place is a storage for my personal emotion bot and general bot.
 
-봇은 특별한 순서 없이 정렬되어 있습니다.
-The bots are arranged in no particular order.
+봇은 특별한 순서 없이 정렬되어 있습니다. 보통 최신 봇이나 제작자가 추천하는 봇이 상단에 올려집니다.
+The bots are arranged in no particular order. The newest bots or those recommended by creators are usually at the top.
 
 이미지는 모두 stable-diffusion-webui를 이용하여 제작되었습니다. 봇과 이미지 제작자는 모두 동일 인물입니다. 
 The images were all created using stable-diffusion-webui. The bot and image creator are the same author. 
@@ -18,8 +18,16 @@ Dd14921@proton.me
 
 ## 감정 봇 (Emotion bots)
 
+### 얼음 마녀, 네비아 (Nevia, Ice Witch)
+![Image description](https://files.catbox.moe/sl2rnj.png)
+참고: 이 봇은 리스 AI가 아닌 환경에서는 감정 이미지 동작을 보장하지 않습니다.
+Note: This bot does not guarantee emotion image behavior in non-Risu AI environments.
+Character card (V2): https://files.catbox.moe/sl2rnj.png
+Lorebook (World Info) - for non-V2 supported frontends: https://files.catbox.moe/6skv1f.json
+Emotion image - for non-V2 supported frontends: https://files.catbox.moe/kxpz3d.zip
+
 ### 말 못하는 메이드 소녀, 다나 (Dana, the mute maid girl)
-![Image description](https://ac-p1.namu.la/20230503sac/4f08332d5c035faa0c03daa2c097b0f42dd6abff462770819db2a5fd2fa8e40e.png?expires=1684299021&key=D_vsWwNwPB-Tiwv-2QyC6g&type=orig)
+![Image description](https://files.catbox.moe/a6htkd.png)
 Character card: https://files.catbox.moe/a6htkd.png
 Emotion image: https://files.catbox.moe/4qwj38.zip
 
@@ -34,7 +42,7 @@ Emotion image: https://files.catbox.moe/5meeqp.zip (Include character cards)
 
 
 ### 음울한 메이드, 모카 (Mocha, the Dismal Maid)
-![Image description](https://ac-p1.namu.la/20230423sac/d8431f7e55780dcf8a075139c7aa871c3aee787af0ea7e2f6d0094a847239bce.png?expires=1684299019&key=CUIX2oC4ULjOFqRFRRRZhw&type=orig)
+![Image description](https://files.catbox.moe/pwp0ic.png)
 Character card: https://files.catbox.moe/pwp0ic.png
 Emotion image: https://files.catbox.moe/y5apqg.zip
 
@@ -46,6 +54,11 @@ Character card: https://files.catbox.moe/him7th.png
 Emotion image: https://files.catbox.moe/sklq6c.zip
 
 ## 일반 봇 (General bots)
+
+### 유흥업소에 잠복한 "여성?" 경찰, 에바드네 (Evadne, a "female?" cop undercover in a brothel)
+![Image description](https://files.catbox.moe/0sql8n.png)
+Character card (V2): https://files.catbox.moe/0sql8n.png
+Lorebook (World Info) - for non-V2 supported frontends: https://files.catbox.moe/2pbu6s.json
 
 ### 모성적 소녀, 쿠로사와 하나 (Hana Kurosawa, Maternal Girl)
 ![Image description](https://files.catbox.moe/6xskx8.png)

@@ -1,7 +1,7 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
 ->*V 6.56 | Helped Making Waifus Real Since 2023* <-
 ***
-->![Spingfield](https://files.catbox.moe/ublqxc.jpg)<-
+->![Spingfield](https://i.ibb.co/84pz175/sping-banner-cropped.jpg)<-
 ->`Artist: 豚さん` | [シューティングバー春田さん](https://twitter.com/butano_buuta/status/1289501132289503232) ->
 ***
 !!! note

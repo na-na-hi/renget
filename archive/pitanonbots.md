@@ -1,9 +1,14 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 
-## Felix (29/05/2023) [NEW]
+## Felix (29/05/2023) 
 https://www.chub.ai/characters/pitanon/Felix
 ![](https://files.catbox.moe/cw8gjf.png)
+
+## Shota Felix (29/05/2023)
+https://www.chub.ai/characters/pitanon/Ferris
+![](https://files.catbox.moe/60mk1z.png)
+
 ## Re:Zero Adventure Bot (25/5/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![](https://files.catbox.moe/rn0jew.png)
