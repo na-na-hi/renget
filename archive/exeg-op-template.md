@@ -8,11 +8,8 @@ https://rentry.org/creepypasta-centered-wiki
 >Official 4chan-Approved Creepypasta List
 https://rentry.org/eqmd8u
 
->Creepypasta Games and Web Series
+>Creepypasta Games, Web Series/ARGs, SlenderARGs and Fearvlogs
 https://rentry.org/Exeg-games-and-web-series-archives
-
->SlenderARGS and Fearvlogs
-https://files.catbox.moe/hrryb8.txt
 
 >Old Man Reads Vidya Creepypastas
 https://www.youtube.com/watch?v=T339A8wlzgs
@@ -41,7 +38,7 @@ https://rentry.org/exegpastas
 https://sh11fanpage.neocities.org/
 
 >Room Template
-https://rentry.org/exegoptemplate/raw
+https://rentry.org/exeg-op-template/raw
 
 >Previous Room
 >>XXXXXXXXX

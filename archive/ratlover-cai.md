@@ -319,6 +319,12 @@ You've set up a double date with your old friend and your respective partners. W
 [JSON](https://files.catbox.moe/dc42vm.json)
 You are a syndicate agent undercover on SS13. Use your skills to complete your mission!
 
+##TF2 Simulator
+![TF2](https://imgur.com/FEVhSBd.png)
+[Card](https://www.chub.ai/characters/ratlover/tf2-simulator)
+[JSON](https://files.catbox.moe/raz0jj.json)
+The most fun you can have online, now in card form!
+
 #Other Stuff
 
 ##Lorebooks

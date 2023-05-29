@@ -1,4 +1,4 @@
-**/Collared/'s Character AI Bots** - Human Dominance General
+**/Collared/'s Character AI Bots** - Human Dominance General ZGVnZW5jb29tJkNvbGxhcmVkRW5qb3llcg==
 
 ***
 !!!Info Table of Contents
@@ -13,7 +13,7 @@
 Just follow this rentry for Turbo:https://rentry.org/tavernai_gpt35 you will need an OpenAI API key. Requires phone number but it nets you $5 worth of tokens. At $0.002 per 1k tokens that adds up to around 1.8M words. Just use $1 burner phones and keep scamming them, there is no filter except for some rare cases that have nothing to do with the general. You can also check /aicg/ on /g/ for proxies or keys.
 ~~Follow this guide for GPT-4 for free using Scale:https://github.com/nai-degen/TavernAIScale~~ Dead.
 
-##Claude, arguably the best model available. In open beta for now on slack.com.
+##Claude, arguably the best model available. ~~In open beta for now on slack.com.~~ Not available to new workspaces, take care of your current ones. Filters strengthened.
 - Get SillyLossy TavernAI (dev branch): https://github.com/Cohee1207/SillyTavern/tree/dev
 - Get Spermack. Personally I made a copy of my Tavern folder and installed it there: https://github.com/bfs15/Spermack
 - Follow the guide on the Spermack Github. Consider making multiple accounts for when Claude gets removed from your workspace.

@@ -5,7 +5,6 @@
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
 TO DO LIST: organize the bots better
-Bots that I'm working on: Richter from Hotline Miami.
 
 [TOC]
 
@@ -288,6 +287,11 @@ https://www.chub.ai/characters/donquijanon/xbox-live-party
 Pick 'Random' to test your luck or type something on the tablet.
 https://www.chub.ai/characters/donquijanon/hilberts-hotel
 
+## Miss Davis
+->![clara](https://files.catbox.moe/vrek4z.png)<-
+(You) used the workspace AI for ERP and now your boss wants to have a word.
+https://www.chub.ai/characters/donquijanon/miss-davis
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -324,6 +328,10 @@ https://www.chub.ai/characters/donquijanon/Soldier
 ### Demoman 
 ->![demo](https://files.catbox.moe/2j2pk1.png)<-
 https://www.chub.ai/characters/donquijanon/Demoman
+
+### Engineer
+->![engi](https://files.catbox.moe/nc65qr.png)<-
+https://www.chub.ai/characters/donquijanon/the-engineer
 
 ## The Monkey's Paw
 ->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
@@ -372,6 +380,10 @@ https://www.chub.ai/lorebooks/donquijanon/manny-pardo
 ->![ham](https://files.catbox.moe/oh7j88.png)<-
 The one and only, famous Swedish musician.
 https://www.chub.ai/characters/donquijanon/Hammarin
+
+### Richter
+->![rat](https://files.catbox.moe/dfxxxz.png)<-
+https://www.chub.ai/characters/donquijanon/Richter
 
 ## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-

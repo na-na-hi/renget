@@ -31,7 +31,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tanchjim Ola Bass (bright V) - $45
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • Moondrop Aria Snow Edition (warm neutral) - $80
-• KiiBoom Allure (mild V) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
 
 ##MidFi IEMs ($110 - $210)
@@ -46,7 +45,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Dunu Kima (neutral) - $110
 • Letshuoer D13 (bassy W) - $120
 • Tinhifi T4 Plus (bright V) - $120
-• KiiBoom Evoke (Harman) - $170
 • Tanchjim New Hana 2021 (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
 • Tinhifi P1 Max (warm neutral) - $190
@@ -73,6 +71,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ##Audiofool IEMs ($450 - $1000)
 ***
 *Hall of Fame*
+• Sound Rhyme DTE500 (bassy neutral) - $460
 • Moondrop Variations (Harman) - $520
 • Xenns Mangird Top (Harman) - $530
 • Yanyin Moonlight (bassy neutral) - $650
@@ -100,9 +99,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Moondrop Quarks (neutral) - $15
 • Moondrop Quarks DSP (Harman) - $15
 • Tanchjim Zero (bright neutral) - $15
-• Tanchjim Zero DSP (Harman) - $15
-• Tanchjim Tanya DSP (Harman) - $25 
-• Final E2000 (warm V) - $45
+• Tanchjim Tanya DSP (bassy Harman) - $25 
 • Etymotic ER2SE (neutral) - $100
 
 ##Showerhead Earbuds ($5 - $25)

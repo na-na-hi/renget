@@ -702,6 +702,10 @@ thebigslick/syuro/anchee/raiji/redrusker/burgerkiss/blushbrush Prompt Matrix com
 	
 	https://mega.nz/file/fw0ggaaQ#nGpCzW7C7u3Q5w7sr15azX7GO8jdSBRTyjqsKriv60A
 
+Vixen in Swimsuit artist examples (Model. acidfur30-fluffyrock35-fluffusion35)
+
+	https://mega.nz/folder/kPEjUaDB#n-IIguEypQkfnfvig0EH4w
+
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
 

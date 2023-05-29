@@ -34,9 +34,9 @@ Eyes: [Pink]
 Skin: [Fair]
 Face: [Girly]
 Height: [Average]
-Bust: [Flat] ([Yuuge])
-Hips: [Thicc]
-Butt: [Large]
+Bust: [Flat] ([Arka Tanks])
+Hips: [Plain] ([Arka Tanks])
+Butt: [Smol] ([Arka Tanks])
 Fitness: [Ripped]
 
 #### F.M.S.U. *(Fuck My Shit Up)*
@@ -55,17 +55,17 @@ Fitness: [Ripped]
 #### G.R.M. *(Global Race Modifiers)*
 [Tasty Fate]
 [Kyuu]+[Claws]
-[Nagini]+[Gorgon]
+[Nagini]
 [Regeneration]+[Tireless]
 [Unusual Aesthetic]+[Unusual Eyes]
-[Dhampir]
-[Monster Mash x2]+[Ubermensch x1]
+[Dhampir]+[Dulluhan]+[Gorgon]
+[Caustic Blood]
+[Monster Mash x2]+[Ubermensch x2]
 [Changeling]
 [Aqua Affinity]+[Mermania]
 [Doublethink]
 [Horns]+[Tentacles]+[Arms]+[Wings]
 [Mushi]+[Sleigh Beggy]
-[Dulluhan]
 [Auxiliary Systems]+[Bio-Immortal]
 [Demon Core]
 
@@ -98,7 +98,7 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Femininity]+[Masculinity]
 [Calamity Magnet]
 [Hephaestus’ Curse]
-[Full Party Required]
+[Conspicuous]
 [Reap What You Sow]
 [Off With A Bang]
 [Mark Of Failure]
@@ -110,13 +110,14 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Darkvision]
 [HUD]+[Status]
 [Hammerspace Inventory]
+[Dr. Frankenstein]
 [Torpor]
 [Aesthetic]
 [Permanence]+[Man Portions]
 [Destiny Drive]
 [Aura’s Veil]
 [Hero x3]+[Demon Lord]
-[Wisdom Incarnate]
+[Wisdom Incarnate]+[Great Sage]
 [Ooga Booga]
 [Sensory Overdose]+[Flavour Flay]
 [Super Seducer]
@@ -129,9 +130,8 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Servant]
 [Senketsu]
 [Squire]
-[A Home]+[A Manor]+[Regal Upgrade+[Service]
+[A Home]+[A Manor]
 [Knowledge x3]
-[Runman]
 [Survival Guide]
 [Concentrated Blood Vial]
 
@@ -150,7 +150,7 @@ Spatial | 3
 Alchemical | 3
 Elemental | 3
 Light | 2
-Dark | 1
+Dark | 2
 
 #### Acquired Items
 **'The Classic'**
@@ -209,16 +209,15 @@ Eyes: [Amber]
 Skin: [Grey]
 Face: [Feminine]
 Height: [Average]
-Bust: [Large] ([Yuuge])
-Hips: [Thicc] ([Extra Thicc])
-Butt: [Large] ([Grandiose])
+Bust: [Flat] ([Arka Tanks])
+Hips: [Plain] ([Arka Tanks])
+Butt: [Smol] ([Arka Tanks])
 Fitness: [Ripped]
 
 #### F.M.S.U. *(Fuck My Shit Up)*
 [Everhard]+[Everwet]
-[Smol Peen]
 [Milky]+[Buckets Of Cum]+[Fluid Druid]
-[Arka Tanks x5]+[Arka Fountains]
+[Arka Tanks x5]+[Arka Fountains]+[Fluid Druid]
 [Patches]
 [Semen Demon]
 [Hyper Fertility]+[Breeding Season]
@@ -236,13 +235,11 @@ Fitness: [Ripped]
 [Undead]+[Lich]
 [Regeneration]+[Tireless]
 [Unusual Aesthetic]+[Unusual Eyes]
-[Gorgon]
-[Monster Mash x2]+[Ubermensch]+[Chimera Ant x3]
-[Changeling]
+[Monster Mash x2]+[Chimera Ant x4]
+[Changeling]+[Dulluhan]+[Gorgon]
 [Aqua Affinity]
 [Doublethink]
 [Mushi]+[Sleigh Beggy]
-[Dulluhan]
 [Big Boi]+[Ciclopse]
 [Tentacles]+[Arms]
 
@@ -252,7 +249,9 @@ Fitness: [Ripped]
 [Porn Physics]+[Porn Studio]
 [Divine Pregnancy]
 [Back Support]
+[Biggus Dickus]+[Full Package]
 [Contortionist]
+[Excalibur]
 [Mr Clean]
 [The Vore Option]
 
@@ -260,9 +259,10 @@ Fitness: [Ripped]
 Spawn Point: [LOST]
 
 #### Banes
-[Entoma]+[Slime Time]+[Water Me]
+[Entoma]+[Water Me]
 [Angry Monster Noises]+[Gaijin Goon]
 [Ahegao]+[Dere Dere]+[Yan Yan]
+[Masochist]+[Sadist]
 [Chūni Deluxe]
 [Damsel]
 [Exhibitionist]+[Flasher]+[Nudist]
@@ -280,10 +280,11 @@ Spawn Point: [LOST]
 [Hush Money]+[Tasty Prof]
 [Darkvision]
 [Phylactery]
+[Dr. Frankenstein]
 [Torpor]
 [Aesthetic]
 [Permanence]
-[Popular]
+[Max Charisma]
 [Destiny Drive]
 [Man Portions]
 [Aura’s Veil]
@@ -296,12 +297,14 @@ Spawn Point: [LOST]
 [Nuru Nuru~]
 [Lucky!]
 [Flavor Flay]+[Sensory Overdose]
+[Galvanized]
 [Inconspicuous]
 [Divine Intervention]
 [Unbreakable Mind]+[Unbreakable Will]
 [Relative Realism]
+[Banishment This World!]
 [Talk to Me]
-[VooDoo]
+[Midas Slut]
 
 #### Proficiencies
 Proficiency |  Level
@@ -312,7 +315,9 @@ Endurance | 3
 Durability | 3
 Strategy | 5
 Alchemical | 4
+Light | 1
 Dark | 3
+Charisma | 4
 Luck | 4
 Sex | 3
 

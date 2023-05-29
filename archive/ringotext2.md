@@ -241,3 +241,61 @@ Nose in blue pubes, eyes to the sky
 >Kiara fixes everything, she is an idol and she likes to dance therefore she is in constant movement and she keeps herself in shape, taking care of what she eats, also she is phoenix, they produce heat so you always get warm milk whenever you want
 
 -> * * * <-
+
+## >>10630929
+
+>Koyori develops a new shrinking potion
+>Just to prove she can, really, doesn't have any good ideas on what to use it for
+>Meanwhile, Lui's ass is always itching from her tight leather pants
+>Lui puts two and two together and gets Koyori to give her a dose that should make someone about the right size to fit in her asscrack
+>Lui slips Iroha the potion figuring she's the most pathetic and will put up the least resistance
+>Lui picks tiny Iroha up, shoves her down the back of her sweat drenched pants and against her filthy asshole, and tells her to get licking or she's going up it
+>Lui moans in pleasure as Iroha starts to clean her and goes to sit down for her six hour stream
+>Iroha occasionally gets too tired or repulsed and stops, but Lui just has to grind against her seat and press Iroha's tiny body back into her ass to get her to start again
+>Lui manages to keep this to herself for a couple weeks but eventually word gets out and some other holomems start thinking about how nice it would be to not have to wash their ass, wipe themselves, or worry about ripping ass during the stream
+>All of the weak or submissive holomems are quickly shrunk down to serve as slaves for the remaining members
+>Some just take one or two, but the filthiest girls start sharing a whole crew between them so they can switch to a new slave as soon as they wear the last one out
+>Moona's huge dumps take the entire holoID gen 3 going until they pass out just to wipe her, what with how fat her ass is
+>All of the full-size girls inevitably start to fucking reek anyway because their deteriorated hygiene is making them filthy faster than their slaves can clean them
+>They decide this is fine and give up
+>All of them still keep at least one of the tiny holomems shoved down their pants "cleaning" them 24/7, because it feels way too good
+
+-> * * * <-
+
+## >>10633226
+
+>Against her better judgement, Ame indulges in a delicious breakfast of bagels and jam-covered toast
+>tummy hort incoming
+>can barely walk without letting one rip but her stream is scheduled soon
+>uses one of Koyori's potions on you and hastily shoves you down the back of her damp unwashed spats
+>slams her fat ass down on her streaming chair and basically flattens you against her sweaty asshole
+>she doesn't have to fumble for the mute button anymore, just lifts one cheek and blasts you with the wettest, worst smelling farts in Myth
+>chat keeps wondering why Ame will randomly go silent and then sigh in relief
+
+-> * * * <-
+
+## >>10633585
+
+I think the worst punishment might actually be Mori. She's very busy and practically never leaves the house so she's probably already been wearing the same clothes for a week by the time she puts you in there. She's one of the most impatient and demanding girls because she doesn't have much free time and uses tormenting you as a form of stress relief. Lots of the girls let their diet go once it wasn't their problem anymore; Mori was already eating like garbage anyway, but she really takes it to the next level just because she thinks it's funny to make you deal with. She'll keep a big jug of milk at her desk and drink straight out of it so she can blast you all day long with huge, sloppy sharts that she doesn't try to hold at all. If you're not back within five seconds licking the liquid shit out of her crack and off her thick asscheeks, you can expect her to give you another one and push a lot harder. You have to make sure she's fully satisfied with your performance absorbing her shit spray, because otherwise she'll wrap a piece of string around you and press you right up against her asshole, then tie the string nice and tight around her waist to keep you there. If she does it right you can't move at all and your only stimulation is watching Mori's filthy asshole flex open for her poor overworked stomach to unload even more of her rancid gas into your face. When she goes to take a dump for real she might "forget" you're in there at first, and then you just have to hope the string doesn't snap against the weight of her fat turds as she shoves her reeking shit into your pathetic tiny body.
+
+-> * * * <-
+
+## >>10633846
+
+It's not just the scat but it's also the idea of your oshi dominating you so hard that you're literally nothing more than a toilet to her. Forcing you to choke down a whole load of her shit for no better reason than that she just doesn't feel like getting up. Mori definitely has absolutely massive dumps so she probably uses you because the real toilet would just clog, unless she was willing to flush halfway through, which is more work than she feels like doing. It's unacceptable for her to have to pause or slow down at all, so if she's really backed up you don't even have time to chew and you just have to feel her forcing her girthy shit down your throat whole as she pumps more and more into your mouth. Since she doesn't have to leave her desk to shit anymore, sometimes you can feel her starting on her next meal while she's still pushing out the last one.
+
+-> * * * <-
+
+## >>10636370
+
+You're not considering that the only girls we currently know about are the ones who are OK with smelling like ass anyway. There's probably many more who care enough to clean themselves now, but if they had access to a few slaves would have no problem fucking reeking in private as long as you can still clean them up whenever it's time to leave the house. If anything Chloe might be a relatively merciful placement because she "only" keeps you down there for a few hours a day, just long enough to keep her asscrack from itching too much and maybe get herself off a little bit, whereas the more self-conscious holomems are happy to use you for as long as it takes to make them presentable and it's not their problem if they've let themselves get so fucking filthy that it takes from morning till night with no breaks.
+
+I'd bet there's a ton of girls out there who would stink so much worse than Chloe if they had Chloe's standards of hygiene and we just don't know about it. The size of Marine's ass probably makes her asscrack so cavernous it's insane and I'm sure she'd love to spend more time perving on people and less time showering if she was given the opportunity.
+
+-> * * * <-
+
+## >>50377010
+
+Uhuumunughhhhh!!! Hairy Sui-chan pusspuss Imagine the fragrant odor of her delicious pubic hair as she takes off her panties at the end of the day. It looks fine textured but full, ideal for wicking up remnants of Suipiss after her idol meetings. She’s built like an Erlenmeyer flask too, so the sweat from her thighs should also accumulate, resulting in a clean but musky odor, the odor of a mature, confident comet. And let’s not forget that drip and blush! Sui-chan is turned the hell on, did she get that way from smelling her own stuffy crotch smell? I bet her Sui-juice will gush and make her garden more fragrant as she plays with herself, unable to resist the erotic enticement of her own body and smell. Imagine how she loses herself to autoerotic ecstasy as she fills the room with the scent of self pleasure, rubbing her fingers through her full, well maintained pubic hair as she rushes in the final sprint towards a convulsive orgasm that sprays her delectable drink upon the clean sheets. Ah~! To drink of the font of Sui-chan! To be enclosed in her thighs as the aroma overwhelms you like a sweet dream!
+
+-> * * * <-

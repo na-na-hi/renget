@@ -220,6 +220,12 @@
 | [>>>/d/10550735](https://rentry.org/ringotext2#d10550735) | n/a | brap, choco |
 | [>>>/d/10549326](https://rentry.org/ringotext2#d10549326) | Selen | brap, choco |
 | [>>44237191](https://rentry.org/ringotext2#44237191) | Gura, Ame, Ina, Calli, Kiara | milk |
+| [>>10630929](https://rentry.org/ringotext2#10630929) | Lui, Iroha, Moona | sweat, brap, choco |
+| [>>>/d/10633226](https://rentry.org/ringotext2#10633226) | Ame | sweat, brap |
+| [>>>/d/10633585](https://rentry.org/ringotext2#10633585) | Calli | brap, choco |
+| [>>>/d/10633846](https://rentry.org/ringotext2#10633846) | Calli | choco |
+| [>>>/d/10636370](https://rentry.org/ringotext2#10636370) | Chloe, Marine | sweat, smell |
+| [>>50377010](https://rentry.org/ringotext2#50377010) | Suisei | sweat, smell, ringo |
 
 
 ## >>249165

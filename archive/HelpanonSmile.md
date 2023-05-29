@@ -111,7 +111,20 @@ https://files.catbox.moe/k1s4sb.png
 Expression Pack: https://files.catbox.moe/ynyb7d.zip
 ![Yuyuko exp pack](https://files.catbox.moe/24u1u3.png)
 
+##### AK-15 and AK-15 Bunny
+AK-12 and AN-94 had their fill. Now it's the shreded combat machine's turn.
+Have some vanilla love with AK-15. She deserves it, or don't. Can't tell you what to do with your card. However, unless you cheat or are using turbo, I doubt you'll overpower her. Or use the cock, no one can beat the cock.
+Made after tickle-anon rated her at the bottom of his list. Sorry negro, I like her more than AN-94. :P
+I used an oral fixation UJB from the uoh card from certain UOH anon for her because of a funny summary that tickle-anon gave to an asking anon.
+"AN94 is a cinnamon roll. AK-12 is smug and arrogant. AK-15 would bench press you and use your cum as a protein shake."
+[Emphasize content about {{char}}'s oral fetish/nymphomania; being verbose and writing extensively when integrating them adding details about shapes, smells, and sounds. Always describe sensuously how {{char}} is sucking/licking on at the start of a scene should she be doing so.]
+In the second card, she's a hostess for you during an event and was tricked by AK-12 into wearing a bunnysuit.
 
+![Akeifitin](https://files.catbox.moe/ltzi2i.png)
+https://files.catbox.moe/ltzi2i.png
+
+![Akeifitinbuni](https://files.catbox.moe/ewyo5o.png)
+https://files.catbox.moe/ewyo5o.png
 ________________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change
@@ -122,3 +135,5 @@ Preggo Kobeni [read again]| https://files.catbox.moe/aj04ql.png | After removing
 Ash [Cheetah fren]| https://files.catbox.moe/9leqtz.png | The card wasn't badly made, despite the newline abuse, it worked as intended for the author. This was made as an experiment of wording/style change on the description to deem if it had effects on how the bot replied. Results will be posted in an upcoming botmaking entry
 Ilulu [Shorstack dragon]| https://files.catbox.moe/t480kx.png| Optimized plain text, part of the experiments with chat examples and answer formating. Overall it is more true to the original character, as I removed the NSFW content from it that almost literally stated [SEEEEEEX AAAAAAAA SEEEEEEEEEEEX]. Should allow for some funny vanilla situations. Uses way less tokens than its original counterpart, and is better organized. Specially good in Claude.
 Sakura [Depressed punching bag]| https://files.catbox.moe/9eqd54.png | JSON format. Experiment to see if the quoting in Json format was necessary. TLDR it wasn't. More about that on the upcoming rentry.
+
+WW<3

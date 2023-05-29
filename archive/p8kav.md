@@ -10,13 +10,14 @@ my pygma booru comments are quite something
 feel free to send me suggestions or things such as how should I kill myself here
 emilythebrat@proton.me
 
+If my bots help you cope with unwanted feelings, don't be afraid to seek help from professionals and to speak to a psychologist
+https://virped.org
+
 Enjoy.
 
 [TOC]
 
 !!! danger NSFW Tavern cards are a naked pictures of the character so don't open in public
-
-![mmm](https://files.catbox.moe/hn6mu9.png)
 
 
 #New Bots

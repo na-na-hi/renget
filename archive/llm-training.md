@@ -434,8 +434,6 @@ One (1) epoch signifies that each sample in the training dataset has been used o
 
 You can visualize the number of epochs as a "for-loop" iterating over the training dataset. Within this loop, there is another nested "for-loop" that goes through each batch of samples, where a batch contains the specified number of samples according to the batch size.
 
-In pre-training, it is common to use a large number of epochs, often in the hundreds or thousands, allowing the algorithm to minimize the model's error significantly. But for fine-tuning purposes, typically only 1 to 3 epochs are used.
-
 To assess the model's performance over epochs, it's common to create line plots, also known as learning curves. These plots display epochs on the x-axis as time and the model's error or skill on the y-axis. Learning curves are useful for diagnosing whether the model has over-learned (high training error, low validation error), under-learned (low training and validation error), or achieved a suitable fit to the training dataset (low training error, reasonably low validation error). We will delve into learning curves in the next part.
 
 Or do you still not understand the difference? In that case, let's look at the main difference between batches and epochs...

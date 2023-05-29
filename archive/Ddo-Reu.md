@@ -20,11 +20,13 @@ Dd14921@proton.me
 
 ### 얼음 마녀, 네비아 (Nevia, Ice Witch)
 ![Image description](https://files.catbox.moe/sl2rnj.png)
-참고: 이 봇은 리스 AI가 아닌 환경에서는 감정 이미지 동작을 보장하지 않습니다.
-Note: This bot does not guarantee emotion image behavior in non-Risu AI environments.
-Character card (V2): https://files.catbox.moe/sl2rnj.png
+참고: 이 봇은 리스 AI가 아닌 환경에서는 감정 이미지 동작을 보장하지 않습니다. 되도록이면 Risu AI를 사용해 주세요.
+Note: This bot does not guarantee emotion image behavior in non-Risu AI environments. Use Risu AI whenever possible.
+
+Character card (V2): https://files.catbox.moe/u73ci5.png
+Character card (Old): https://files.catbox.moe/xjqhye.png
 Lorebook (World Info) - for non-V2 supported frontends: https://files.catbox.moe/6skv1f.json
-Emotion image - for non-V2 supported frontends: https://files.catbox.moe/kxpz3d.zip
+Emotion image - for non-V2 supported frontends: https://files.catbox.moe/z2cy2r.zip
 
 ### 말 못하는 메이드 소녀, 다나 (Dana, the mute maid girl)
 ![Image description](https://files.catbox.moe/a6htkd.png)
@@ -39,7 +41,6 @@ Emotion image: https://files.catbox.moe/ta9m64.zip
 ### 밴시 소녀, 세라피나 (Seraphina, the Banshee Girl)
 ![Image description](https://files.catbox.moe/6fmnwl.png)
 Emotion image: https://files.catbox.moe/5meeqp.zip (Include character cards)
-
 
 ### 음울한 메이드, 모카 (Mocha, the Dismal Maid)
 ![Image description](https://files.catbox.moe/pwp0ic.png)
