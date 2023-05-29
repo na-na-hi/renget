@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 29.05.2023 02:45 UTC]
+[Last Updated: 29.05.2023 09:00 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7395028/](https://boards.4chan.org/h/thread/7395028/)
+Current thread - [boards.4chan.org/h/thread/7400176/](https://boards.4chan.org/h/thread/7400176/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 588&nbsp;&nbsp;[archiveofsins.com/h/thread/7400176/](https://archiveofsins.com/h/thread/7400176/)&nbsp;&nbsp;&nbsp;&nbsp;(29.05.2023 04:17)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Monday Thread Edition
 - 587&nbsp;&nbsp;[archiveofsins.com/h/thread/7395028/](https://archiveofsins.com/h/thread/7395028/)&nbsp;&nbsp;&nbsp;&nbsp;(25.05.2023 21:14)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Webm Edition
 - 586&nbsp;&nbsp;[archiveofsins.com/h/thread/7390691/](https://archiveofsins.com/h/thread/7390691/)&nbsp;&nbsp;&nbsp;&nbsp;(23.05.2023 02:32)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Go Me! Edition
 - 585&nbsp;&nbsp;[archiveofsins.com/h/thread/7385418/](https://archiveofsins.com/h/thread/7385418/)&nbsp;&nbsp;&nbsp;&nbsp;(20.05.2023 14:02)&nbsp;&nbsp;[1075]&nbsp;#&nbsp;Everything in its right place edition.
 - 584&nbsp;&nbsp;[archiveofsins.com/h/thread/7380232/](https://archiveofsins.com/h/thread/7380232/)&nbsp;&nbsp;&nbsp;&nbsp;(17.05.2023 10:41)&nbsp;&nbsp;[1010]&nbsp;#&nbsp;Oyabun Chika edition.
-- 583&nbsp;&nbsp;[archiveofsins.com/h/thread/7373976/](https://archiveofsins.com/h/thread/7373976/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2023 22:08)&nbsp;&nbsp;[955]&nbsp;#&nbsp;Misty Morning Edition
 ---
 Archive:
 
+- 583&nbsp;&nbsp;[archiveofsins.com/h/thread/7373976/](https://archiveofsins.com/h/thread/7373976/)&nbsp;&nbsp;&nbsp;&nbsp;(13.05.2023 22:08)&nbsp;&nbsp;[955]&nbsp;#&nbsp;Misty Morning Edition
 - 582&nbsp;&nbsp;[archiveofsins.com/h/thread/7367699/](https://archiveofsins.com/h/thread/7367699/)&nbsp;&nbsp;&nbsp;&nbsp;(10.05.2023 11:09)&nbsp;&nbsp;[1084]&nbsp;#&nbsp;Devilish witchery Edition!
 - 581&nbsp;&nbsp;[archiveofsins.com/h/thread/7361296/](https://archiveofsins.com/h/thread/7361296/)&nbsp;&nbsp;&nbsp;&nbsp;(06.05.2023 02:26)&nbsp;&nbsp;[1074]&nbsp;#&nbsp;Feedin' the geese Edition
 - 580&nbsp;&nbsp;[archiveofsins.com/h/thread/7356383/](https://archiveofsins.com/h/thread/7356383/)&nbsp;&nbsp;&nbsp;&nbsp;(03.05.2023 09:55)&nbsp;&nbsp;[1065]&nbsp;#&nbsp;Hurry the fuck up OP edition

@@ -1,14 +1,11 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕽𝖊𝖘𝖔𝖚𝖗𝖈𝖊 𝕲𝖚𝖎𝖉𝖊 
 ->*V 6.56 | Helped Making Waifus Real Since 2023* <-
 ***
-->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/80281383](https://i.ibb.co/8cpjrd4/CROP-hk416-girls-frontline-drawn-by-keenh-2a01be476b657d1192dc44d63460a546.png)<-
--> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/80281383) ->
+->![Spingfield](https://files.catbox.moe/ublqxc.jpg)<-
+->`Artist: 豚さん` | [シューティングバー春田さん](https://twitter.com/butano_buuta/status/1289501132289503232) ->
 ***
 !!! note
      **This Rentry Guide is will serve as a quick guide for anons looking into working with Large Language Models like LlaMA or Pygmalion. While there are other detailed Rentry pages and guides around, however this Rentry will be geared towards users that are less technically inclined or just starting off.**
-!!! note Rentry Updates: Week 4 of May, 2023
-     
-
 ***
 **𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘**
 [TOC2]

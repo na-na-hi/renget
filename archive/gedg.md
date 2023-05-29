@@ -18,8 +18,6 @@ Feel free to post about what you are working on by sharing code, pics, or [makin
 
 If you want relevant resources or other additions to the compendium,  ask Froggy !!UYKMqlVW9eC who maintains it. Strong disagreements about the contents of the compendium amongst posters or with Froggy can be handled by holding a vote of what should and shouldn't be present. In the worst case scenario, the markdown file can be easily taken and other posters can branch out with what they think is best. 
 
-Froggy is temporarily banned until the end of May for trying to post a link to coomtech (I have a mirror there of some of my code, forgot the site was banned). If you still have things you wanted added to the Compendium, he will be lurking the thread.
-
 A lot of the links use rentry.org, if .org is down try .co instead.
 
 ->
@@ -40,7 +38,7 @@ In addition to all the resources listed, you might want to check out the [/agdg/
 
 https://rentry.org/gedg-engineandlibs
 
-### Open Source Games
+### Open Source Games and Projects
 
 https://rentry.org/gedg-open
 

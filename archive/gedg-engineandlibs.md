@@ -29,6 +29,7 @@ Tools for those that don't want to reinvent the wheel.
 * [MonoGame](https://www.monogame.net/): C# framework for making games and engines.
 * [Ogre](https://www.ogre3d.org/): 3D game engine made in C++.
 * [OpenGL](https://www.opengl.org/): Ubiquitous cross-platform rendering API.
+* [OpenGL Mathematics (GLM)](https://github.com/g-truc/glm): glm is a ubiquitous math library made for use with OpenGL. It is also commonly used with other graphics API such as Vulkan.
 * [PhysX](https://developer.nvidia.com/physx-sdk):  A powerful C++ physics library.
 * [pygame](https://www.pygame.org/): Python library for game dev.
 * [Ren'Py](https://www.renpy.org/): Engine for making ~~porn~~  visual novels.

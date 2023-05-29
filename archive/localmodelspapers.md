@@ -4,17 +4,23 @@
 |**Google** ->[Papers](https://research.google/pubs/?area=machine-intelligence) [Blog](https://ai.googleblog.com)<-
 12/2017|[Attention Is All You Need (Transformers)](https://arxiv.org/abs/1706.03762)
 10/2018|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+10/2019|[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)](https://arxiv.org/abs/1910.10683)
 11/2019|[Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150)
 02/2020|[GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
+03/2020|[Talking-Heads Attention](https://arxiv.org/abs/2003.02436)
+05/2020|[Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
 09/2020|[Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
+12/2020|[RealFormer: Transformer Likes Residual Attention](https://arxiv.org/abs/2012.11747)
 01/2021|[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
 09/2021|[Finetuned Language Models Are Zero-Shot Learners (Flan)](https://arxiv.org/abs/2109.01652)
+09/2021|[Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)
 11/2021|[Sparse is Enough in Scaling Transformers](https://arxiv.org/abs/2111.12763)
 12/2021|[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)
 01/2022|[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
 01/2022|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 04/2022|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 10/2022|[Scaling Instruction-Finetuned Language Models (Flan-Palm)](https://arxiv.org/abs/2210.11416)
+10/2022|[Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models](https://arxiv.org/abs/2210.13432)
 10/2022|[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 11/2022|[Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 03/2023|[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
@@ -40,6 +46,7 @@
 04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
 |
 |**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
+10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 12/2021|[Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 12/2021|[Improving language models by retrieving from trillions of tokens(RETRO)](https://arxiv.org/abs/2112.04426)
 02/2022|[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
@@ -51,8 +58,10 @@
 02/2023|[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318)
 05/2023|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 |
-|**Meta** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
+|**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
+07/2019|[Augmenting Self-attention with Persistent Memory](https://arxiv.org/abs/1907.01470)
+11/2019|[Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)
 08/2021|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
 05/2022|[OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
 11/2022|[Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
@@ -72,6 +81,7 @@
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
 03/2022|[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/abs/2203.00555)
+12/2022|[A Length-Extrapolatable Transformer](https://arxiv.org/abs/2212.10554)
 01/2023|[Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases](https://arxiv.org/abs/2301.12017)
 02/2023|[Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045)
 03/2023|[Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
@@ -132,10 +142,18 @@
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+06/2019|[Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View](https://arxiv.org/abs/1906.02762)
 10/2019|[Root Mean Square Layer Normalization](https://arxiv.org/abs/1910.07467)
+10/2019|[Transformers without Tears: Improving the Normalization of Self-Attention](https://arxiv.org/abs/1910.05895)
+12/2019|[Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection](https://arxiv.org/abs/1912.11637)
+02/2020|[On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
+06/2020|[Memory Transformer](https://arxiv.org/abs/2006.11527)
+12/2020|[ERNIE-Doc: A Retrospective Long-Document Modeling Transformer](https://arxiv.org/abs/2012.15688)
 01/2021|[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
 03/2021|[The Low-Rank Simplicity Bias in Deep Networks](https://arxiv.org/abs/2103.10427)
+04/2021|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
 06/2021|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+07/2023|[CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention](https://arxiv.org/abs/2108.00154)
 03/2022|[Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 04/2022|[UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
 06/2022|[nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557)
@@ -214,10 +232,8 @@
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
-04/2021|[EleutherAI - Rotary Embeddings: A Relative Revolution](https://archive.is/sU3qk)
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
-01/2023|[Semianalysis - overview of OpenAI Triton And PyTorch 2.0](https://archive.is/upoNg)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)
 04/2023|[Yohei Nakajima - AsymmeTrix: Asymmetric Vector Embeddings for Directional Similarity Search](https://archive.ph/nbMXN)
 05/2023|[OpenAI - Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)

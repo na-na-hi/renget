@@ -77,7 +77,7 @@ Model | Type | Download
 Model | Type | Download
 --- | --- | ---
 13B GGML | CPU | [[Q4_0, Q4_1, Q5_0, Q5_1, Q8]](https://huggingface.co/TheBloke/chronos-13B-GGML)
-13B | GPU | [Q4 CUDA 128g](https://huggingface.co/elinas/chronos-13b-4bit), [Q4 CUDA](https://huggingface.co/Yhyu13/chronos-13b-gptq-4bit)
+13B | GPU | [Q4 CUDA 128g](https://huggingface.co/elinas/chronos-13b-4bit), [Q4 CUDA](https://huggingface.co/Yhyu13/chronos-13b-gptq-4bit), [Q4 Triton](https://huggingface.co/TheYuriLover/chronos-13b-GPTQ-Triton)
 
 
 ### BluemoonRP 30B 4K (05/26/2023)

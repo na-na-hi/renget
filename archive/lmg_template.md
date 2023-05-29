@@ -1,10 +1,8 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.16 | Helped Making Waifus Real Since 2023* <-
-
-->![Norm, Miku & HK416 walk into a bar...](https://i.ibb.co/MshTx5C/LMG-Threat-Template-Banner-with-Norm1.png)<-
+->*V 1.17 | Helped Making Waifus Real Since 2023* <-
 ***
-!!! Note Rentry Update: Week 4 of May, 2023
-     New news updated @ May 23th
+->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
+-> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
@@ -18,7 +16,6 @@
 \>(05/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
 \>(05/19) PygmalionAI release 13B Pyg & Meth
 \>(05/18) VicunaUnlocked-30B released
-\>(05/14) llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
 
 ►**FAQ & Wiki**
 \>Wiki
@@ -33,6 +30,8 @@ https://rentry.org/local_LLM_guide
 https://rentry.org/TESFT-LLaMa
 \>Machine Learning Roadmap
 https://rentry.org/machine-learning-roadmap
+\>Novice's LLM Training Guide
+https://rentry.org/llm-training
 \>Local Models Papers
 https://rentry.org/LocalModelsPapers
 \>Quantization Guide
@@ -112,6 +111,7 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+05/14/2023 | llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
 05/13/2023 | llama.cpp GPU acceleration has been merged onto master >>93403996 >>93404319
 05/10/2023 | GPU-accelerated token generation >>93334002
 05/06/2023 | MPT 7B, 65k context model trained on 1T tokens: https://huggingface.co/mosaicml/mpt-7b-storywriter

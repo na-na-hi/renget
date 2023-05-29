@@ -1,5 +1,10 @@
 ##Question ideas for /pmdg/
 
+
+>How exactly do Gummis make you smarter? Do they physically rewire your neurons somehow? Do they put some sort of weird magic energy inside you that increases your intelligence?
+>In PMD games, Fire-types can walk on molten lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?
+>Why do Pokemon choose to sleep on piles of hay? Are their bodies hardy enough that they don't mind the discomfort? Is it a traditional/cultural sort of thing?
+>How would you react if you encountered a feral member of your own species in a dungeon?
 >Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
 >Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
 >If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
@@ -7,7 +12,6 @@
 >Are legendaries one-of-a-kind, or are there multiple around the world?
 >Are legendaries worshipped like gods?
 >Do prosthetics exist in the PMD world? And if so, are they just simple peg legs and hook hands or would they have some more advanced stuff, like a hand with working fingers?
->Can feral dungeon-dwelling Pokemon be tamed? (Not in the sense of "recruiting" them like you do in some games--rather, can they be tamed/domesticated like pets?)
 >Have any manmade objects come into the PMD world via portals or other means?
 >Do you think Pokemon in the PMD world use weapons like swords or bows, or just rely on their moves and items?
 >What meat-related foods would you miss the most if you became an herbivorous Pokemon?
@@ -24,6 +28,11 @@
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+>After what the Pokemon Square people have done to you... do you feel obligated to save them?
+>With technology remnants like the powerplant in Rescue Team (which can't possibly be the only one), would you be crazy enough to attempt to restore it (and maybe find clues in the past) or just leave it as it is?
+>Can feral dungeon-dwelling Pokemon be tamed? Not in the sense of "recruiting" them like you do in some games—rather, can they be tamed/domesticated like... pets?
+>At the final parts of the game, do you take your time to prepare despite the urgency the game puts on you, or just continue the story more or less prepared? What I meant is that you accept job requests and head out to a dungeon that isn't the final dungeon.
 
 >Have you used the touchpad feature in pmd, like you touch on a specific tile to move the character instead of using the D-pad?
 >What's the worst aspect of pmd for you, in terms of gameplay only.
