@@ -14,8 +14,8 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Chapters== - 04/25 - Added [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0)
-	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/Mumei-Karaoke/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0_1) - **I updated the timestamps after the vod got trimmed**
+	>==Chapters== - 05/29 - Added [#45](https://rentry.org/Mumei-Karaoke#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k)
+	>==Karaoke Clips== - 05/29 - Added Timestamps for [#45](https://rentry.org/Mumei-Karaoke#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k_1) 
 	>==Mumei Radio== - 03/25 - Updated- https://rentry.org/Mumei-Radio
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== - 05/20 - Added some videos at the bottom - [Here](https://rentry.org/Mumei-Karaoke/#mumei-mumei)
@@ -2556,6 +2556,36 @@ CHAPTER11=00:55:18.626
 CHAPTER11NAME=Idol - Yoasobi (Accapella)
 
 ```
+***
+
+######『2023-05-29』 - 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! _D [RzgBF2XsT8k]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:38.417
+CHAPTER01NAME=Start
+CHAPTER02=00:09:05.000
+CHAPTER02NAME=01. Torinoko City - 40mP
+CHAPTER03=00:15:55.000
+CHAPTER03NAME=02. Naimononedari - Kana-Boon
+CHAPTER04=00:22:14.000
+CHAPTER04NAME=03. KING - Kanaria
+CHAPTER05=00:27:59.000
+CHAPTER05NAME=04. KICK BACK - Kenshi Yonezu
+CHAPTER06=00:33:54.000
+CHAPTER06NAME=05. Love Trial - 40mP
+CHAPTER07=00:39:35.000
+CHAPTER07NAME=06. Brave Shine - Aimer
+CHAPTER08=00:47:02.000
+CHAPTER08NAME=07. Oki ni Mesu mama - Eve
+CHAPTER09=01:04:08.000
+CHAPTER09NAME=08. Idol - Yoasobi
+CHAPTER10=01:09:42.000
+CHAPTER10NAME=09. A New Start - Nanashi Mumei (Acoustic)
+
+```
 
 ***
 [Back to TOC](https://rentry.org/Mumei-Karaoke)
@@ -3530,6 +3560,23 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 [FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
 [Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3163)
 [Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
+
+***
+
+######『2023-05-29』 - 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! _D [RzgBF2XsT8k]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+>Timestamps
+01. [Torinoko City - 40mP](https://youtu.be/RzgBF2XsT8k?t=545)
+02. [Naimononedari - Kana-Boon](https://youtu.be/RzgBF2XsT8k?t=955)
+03. [KING - Kanaria](https://youtu.be/RzgBF2XsT8k?t=1334)
+04. [KICK BACK - Kenshi Yonezu](https://youtu.be/RzgBF2XsT8k?t=1679)
+05. [Love Trial - 40mP](https://youtu.be/RzgBF2XsT8k?t=2034)
+06. [Brave Shine - Aimer](https://youtu.be/RzgBF2XsT8k?t=2375)
+07. [Oki ni Mesu mama - Eve](https://youtu.be/RzgBF2XsT8k?t=2822)
+08. [Idol - Yoasobi](https://youtu.be/RzgBF2XsT8k?t=3848)
+09. [A New Start - Nanashi Mumei (Acoustic)](https://youtu.be/RzgBF2XsT8k?t=4182)
+
+
 
 ***
 

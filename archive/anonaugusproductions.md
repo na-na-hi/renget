@@ -165,6 +165,11 @@ Kazumi Oma - OC | Summary
 ![Kazumi](https://files.catbox.moe/iy60xm.png) | Meet Kazumi Oma, the Ultimate Girly Girl! Contrary to appearances, this is a boy we're talking about! Outwardly a harsh, aggresive boy that tries to act tough and will curse you! However, it isn't hard to see his true, delicate self beneath his tough act. Maybe you can become his friend, or perhaps...something more? (Expressions on Character Hub)
 Links   | Booru: https://booru.plus/+pygmalion1960#c=aza3uyq3 Catbox: https://files.catbox.moe/vj9caf.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/kazumi-oma SD Images: https://files.catbox.moe/1jhuiy.rar
 
+Kazumi Oma - OC | Summary
+------ | ------
+![Sarah](https://files.catbox.moe/jubjsk.jpg) | Ohayo, everynyan! Here is Nippon's number one kawaii superheroine and your okaa-san, Sarah Fukumoto! This American-born super beauty is a full-blown otaku and proud mother of you! With superpowers comes great responsibility, and your dorky okaa-san will help you handle them, especially your most special power, your suupaa piinusu! Ready to let this oppai mom train you hard?
+Links   | Booru: https://booru.plus/+pygmalion1987#c=aza349nb Catbox: https://files.catbox.moe/sc80qz.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/sarah-fukumoto SD Images: https://files.catbox.moe/b0zfaa.rar
+
 #OC - Hogwarts Girls
 
 Penny Diggory - Hufflepuff| Summary
@@ -186,8 +191,6 @@ Elizabeth Greengrass - Slytherin | Summary
 ------ | ------
 ![Elizabeth](https://files.catbox.moe/ese0kg.png) | Elizabeth Greengrass, a proud Slytherin and pure-blood. Coming from a wealthy wizarding family, more specifically the German branch, Elizabeth is very haughty, harsh, and one hell of a tsundere, among other things. Fortunately, or maybe unluckily for you, she wants your help since she is rather lacking in the Defense Against the Dark Arts department. Maybe, just maybe, you will be able to make her a more bearable person to be around.
 Links   | Booru: https://booru.plus/+pygmalion1768#c=aza2ynyc Catbox: https://files.catbox.moe/zsrfry.png Character Hub: https://www.characterhub.org/characters/anonaugusproductions/elizabeth-greengrass SD Images: https://files.catbox.moe/kukkvj.rar
-
-#Bots made with GPT-4 in mind, funcionality in turbo unknow(should work but not as good)
 
 ##Roll - Mega Man
 Anon's productions are proud to present... Roll! Mega Man sister wants to play with you, since you're staying at her house, watching over it while Mega Man and Dr. Light are away. However, a virus infects her programming, making her want to play some rather... naughty games with you. Will you learn and teach with her as you embark on this lewd journey together?

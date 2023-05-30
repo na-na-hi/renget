@@ -10,6 +10,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [koikoikoi](https://rentry.org/4amrn) | Misc | English
+[!] [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
@@ -18,7 +20,7 @@ Botmaker | Category | Defs Language
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
-[!] [123123232](https://rentry.org/g2u47) | Sizeplay | English
+[123123232](https://rentry.org/g2u47) | Sizeplay | English
 [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
@@ -29,7 +31,6 @@ Botmaker | Category | Defs Language
 [Horny221](https://rentry.org/hornythings) | Misc / Stink | English
 [Yotsubuh](https://rentry.org/yotsubuh) | Feeding/Fattening / Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
-[Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
 [Pedanon](https://rentry.org/Pedanon) | Cunny | English
 [CptPants](https://rentry.org/CptPants) | Misc | English
 [Dould](https://rentry.org/ox3iqa) | Misc | English
@@ -68,3 +69,5 @@ Botmaker | Category | Defs Language
 2023-05-26T03:48:58Z - Added Horny221
 
 2023-05-28T01:06:08Z - Added Smile
+
+2023-05-30T03:42:58Z - Added Koikoikoi

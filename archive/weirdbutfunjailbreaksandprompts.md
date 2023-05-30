@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(I am going to watch [name of movie] together with {{char}}. Write down their reactions and commentary to the most memorable scenes of the movie)
+
 >(Time skip to the future. {{char}} and {{user}} have known each other for years, but now, {{user}} must leave. Generate an intro for the beginning of the end of their relationship.)
 
 >(OOC: Your character has given {{user}} a surprise present. The contents can be anything from the mundane to the extreme. Describe what is inside. Be humorous, detailed and creative.)

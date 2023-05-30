@@ -152,6 +152,8 @@ Explanation:
 
 ### Crosskemono (CivitAI, links last updated: 03/28/2023)
 [![Crosskemono_F](https://files.catbox.moe/qk9m7d.png)](https://files.catbox.moe/g62otg.png)
+
+![Crosskemono Description](https://files.catbox.moe/mi4di3.png)
 	
 	VAE: https://civitai.com/api/download/models/14048?type=VAE&format=Other
 	furry_kemono.pt (Hypernetwork, should be the same one as the one from the NAI leak): https://civitai.com/api/download/models/17114?type=Model&format=PickleTensor&size=full&fp=fp16
@@ -218,7 +220,7 @@ https://archive.org/details/tism-prism-AI
 
 ### Fluffyrock
 Artist comparison: `https://files.catbox.moe/rmyw4d.jpg`
-Repository: `https://huggingface.co/lodestones/furryrock-model-safetensors`
+Repository (GO HERE FOR DOWNLOADS): `https://huggingface.co/lodestones/furryrock-model-safetensors`
 Artist study: `https://pixeldrain.com/l/caqStmwR`
 Tag Autocomplete CSV: `https://cdn.discordapp.com/attachments/1086767639763898458/1092754564656136192/fluffyrock.csv`
 

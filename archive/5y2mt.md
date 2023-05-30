@@ -15,7 +15,7 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Karaoke Clips== - 04/25 - Added Timestamps for [#44](https://rentry.org/5y2mt/#2023-04-24-members-onlypracticing-new-jp-songs-wj2b3n8xjv0) - **I updated the timestamps after the vod got trimmed**
+	>==Karaoke Clips== - 05/29 - Added Timestamps for [#45](https://rentry.org/5y2mt/#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k)
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== - 05/20 - Added some videos  - [Here](https://rentry.org/5y2mt/#bottom-of-the-page)
 
@@ -988,6 +988,21 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 [FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
 [Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3163)
 [Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
+
+***
+
+######『2023-05-29』 - 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! _D [RzgBF2XsT8k]
+[Go back to the TOC](https://rentry.org/5y2mt)
+>Timestamps
+01. [Torinoko City - 40mP](https://youtu.be/RzgBF2XsT8k?t=545)
+02. [Naimononedari - Kana-Boon](https://youtu.be/RzgBF2XsT8k?t=955)
+03. [KING - Kanaria](https://youtu.be/RzgBF2XsT8k?t=1334)
+04. [KICK BACK - Kenshi Yonezu](https://youtu.be/RzgBF2XsT8k?t=1679)
+05. [Love Trial - 40mP](https://youtu.be/RzgBF2XsT8k?t=2034)
+06. [Brave Shine - Aimer](https://youtu.be/RzgBF2XsT8k?t=2375)
+07. [Oki ni Mesu mama - Eve](https://youtu.be/RzgBF2XsT8k?t=2822)
+08. [Idol - Yoasobi](https://youtu.be/RzgBF2XsT8k?t=3848)
+09. [A New Start - Nanashi Mumei (Acoustic)](https://youtu.be/RzgBF2XsT8k?t=4182)
 
 ***
 
