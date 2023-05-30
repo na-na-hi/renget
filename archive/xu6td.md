@@ -74,8 +74,27 @@ https://greasyfork.org/en/scripts/423001-twitter-media-downloader
 Change the default filename to: `@{user-id}_{status-id}`
 ![](https://files.catbox.moe/vx4k7l.png)
 
+!!!warning `Always show sensitive content` is bugged if you turn it on, make the below changes to the code to fix
+	For non-English language, replace `Show` with whatever it says for your language.
+```diff
+@@ -71,7 +71,7 @@
+         article.dataset.injected = 'true';
+         if (show_sensitive) {
+           let btn_show = article.querySelector('div[aria-labelledby] div[role="button"][tabindex="0"]:not([data-testid]) > div[dir]');
+-          if (btn_show) btn_show.click();
++          if (btn_show.textContent == "Show") btn_show.click();
+         }
+       }
+       let imgs = article.querySelectorAll('a[href*="/photo/"]');
+```
+In non-coder terms:
+Edit Line 74 to be:
+```javascript
+if (btn_show.textContent == "Show") btn_show.click()
+```
+
 ###Nitter Variant (Courtesy of Anon)
-!!!warning For those who like using nitter instances for art, here's a tampermonkey script to save image with @username_statusnumber.Jpg format
+!!!note For those who like using nitter instances for art, here's a tampermonkey script to save image with @username_statusnumber.Jpg format
 	Clicking on a image on nitter instances will propose to download it as : @username_statusnumber.jpg
 	now with [multiple pics in one tweet](https://nitter.it/aQwQhujuXCzdFPE/status/1662076023989739522) support
 	I should also mention the script only works when on a [searching page atm](https://nitter.it/search?f=tweets&q=(%23drawMEI+OR+%23drawingMei+OR+%23%E3%83%A0%E3%83%A1%E7%B5%B5)&e-nativeretweets=on&e-quote=on&since=&until=&near=)

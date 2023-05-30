@@ -99,7 +99,12 @@ Select the `Tools` tab, then select `Partition SD Card`, and finally press `Ok`.
 Now, pick what EmuNAND type you want to use:
 
 * To create a **partition-based** Emunand:
+
+	**Non-OLED:**
 	- Move the emuMMC (RAW) slider until it says `29 full`, then press `Next Step` and finally press `Start`.
+
+	**OLED:**
+	- Move the emuMMC (RAW) slider until it says `58 full`, then press `Next Step` and finally press `Start`.
 []()
 
 * To create a **file-based** EmuNAND:

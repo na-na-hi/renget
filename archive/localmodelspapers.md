@@ -23,6 +23,7 @@
 10/2022|[Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models](https://arxiv.org/abs/2210.13432)
 10/2022|[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 11/2022|[Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
+02/2023|[Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
 03/2023|[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
 04/2023|[Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)
 05/2023|[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)

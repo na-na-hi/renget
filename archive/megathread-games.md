@@ -135,6 +135,10 @@
 - The Russian-born releaser has evolved in recent years from a home archivist to the most well-known repacker on the web.
 - [URL Safety Results](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
+### 🧲 [Free GOG PC Games](https://freegogpcgames.com/)
+- Providing DRM-FREE games from sources that have been thoroughly vetted before being made available for download.
+- [URL Safety Results](https://www.urlvoid.com/scan/freegogpcgames.com/)
+
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaoskrew.org/)

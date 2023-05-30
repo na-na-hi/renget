@@ -1,3 +1,1 @@
-->![](https://i.postimg.cc/288JszBS/pop.png)<-
-->![NORTON / VYRiUM — IT / LiEUR ... Exclusively  ,  She / he if close ; Bisexual  &  Bigender ... Aro⠀.⠀.⠀.⠀M+WP , Physically  &  Mentally disabled ( Autistic ...  Etc ,  Just ask ) ...  Entp 7w8 Sx/so ,  Blah blah blah  ...  15 ✦ E ; 01.02.23  ...  A ; 08.27.20 ,  Co-host ...  No  i  will  not  trade  you  any  rentrys —  FA&FO](https://i.postimg.cc/Ls9PWZQR/ezgif-1-9b3e29ec0a.gif)<-
-->![](https://i.postimg.cc/VsFpZSvh/terror.png)<-
+->![mae + juni jumpscare](https://i.postimg.cc/8c3KHr5d/image.png)<-

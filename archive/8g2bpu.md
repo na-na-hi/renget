@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+KFC holding a Clover Guild badge saying something like "Wow this badge sure is cool. it must've taken like 10 failed attempts before they got it right."
+
 This, but with Booker and Sneasel: https://i.kym-cdn.com/photos/images/original/002/571/641/e6f
 
 Togetic as the EB Games guy

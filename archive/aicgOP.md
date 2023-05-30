@@ -14,7 +14,7 @@
 	Sturdy           | Updated
 	Kaomoji OP		| https://rentry.org/kaomojibaka
 	
-	My mail: ohgodohfuckwhywhypleasegod@proton.me 
+	My mail: therrealrael@proton.me
 	Remember to be calm and reasonable
 [TOC]
 

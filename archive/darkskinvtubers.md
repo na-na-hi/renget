@@ -15,7 +15,7 @@ Chloe Ch.猫小夜くろえ|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube
 Levimaru ch|[Twitter](https://twitter.com/YatonoLevi) [Youtube](https://www.youtube.com/@levimaruch) [Twitch](https://www.twitch.tv/yatonolevi)|
 しゅがーぐらいだー|[Twitter](https://twitter.com/sugarrrglider) [Youtube](https://www.youtube.com/@LilySyu_PJblue)|One half of a vtuber duo
 Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charlotte_HNST) [Youtube](https://www.youtube.com/@Charlotte_Shimamura)|774inc.
-みみぴ|[Twitter](https://twitter.com/Mimipi_MMP) [Youtube](https://www.youtube.com/@mimipi_ch/streams)|
+みみぴ|[Twitter](https://twitter.com/Mimipi_MMP) [Youtube](https://www.youtube.com/@mimipi_ch/streams)| RPG playthroughs
 魔使マオ -matsukai mao-|[Twitter](https://twitter.com/matsukai_mao) [Youtube](https://www.youtube.com/@MatsukaiMao/streams)|Nijisanji - Horror games
 葉山舞鈴 / Ohayama Ch.|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
 轟京子/kyoko todoroki|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
@@ -54,8 +54,8 @@ Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Yo
 新妻 ネトラ|[Twitter](https://twitter.com/NTR_s2s2) [Youtube](https://www.youtube.com/@NTR_s2s2)|
 砂星はや / Sunahoshi Haya|[Twitter](https://twitter.com/hayachan_18) [Youtube](https://www.youtube.com/@hayachannel)|
 猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
-ひらりー hillary [JP]|[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
-
+ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
+ここいつの -kokoi tuno- |[Twitter](https://twitter.com/kokoituno) [Youtube](https://www.youtube.com/@kokoituno) [Twitch](https://www.twitch.tv/kokoituno)|
 
 ---
 
@@ -154,6 +154,7 @@ DaijoubuInumaki|[Twitter](https://twitter.com/DaijoubuInumaki) [Twitch](https://
 TorakkoVT|[Twitter](https://twitter.com/TorakkoVT/) [Twitch](https://www.twitch.tv/torakkovt)|Sukeban oni tomboy
 YanchaGoGo|[Twitter](https://twitter.com/yanchagogo) [Youtube](https://www.youtube.com/c/YanchaGoGoCh) [Twitch](https://www.twitch.tv/YanchaGoGo)|
 Chanzonia|[Twitter](https://twitter.com/chanzzonia) [Twitch](https://www.twitch.tv/chanzonia)|
+Munibug|[Twitter](https://twitter.com/munibug) [Twitch](https://www.twitch.tv/munibug)|
 
 ---
 

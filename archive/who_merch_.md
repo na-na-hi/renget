@@ -1,4 +1,6 @@
 # Nanashi Mumei merchandise
+**774K Subs celebration merch (Order period ends 3rd July 1800 JST)**
+https://shop.hololivepro.com/en/products/nanashimumei_77-4thou
 
 **OMOCAT CouncilRys** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1

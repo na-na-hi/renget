@@ -1,9 +1,10 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/A7uUJvC.png)
-General Edition
+![suggested OP image](https://files.catbox.moe/f9eg6g.gif)
+https://files.catbox.moe/f9eg6g.webm
+Noot Noot Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>431576667
+Last thread: >>431640139
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,7 +32,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(05/28) Saga gets big updates (and claude): >>431617023 >>431616429 >>431618626 ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
+(05/28) Saga gets big updates (and claude): >>431617023 >>431616429 >>431618626 ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
 (05/23) Clio drops for Opus https://i.imgur.com/qAKr00Q.mp4 ; Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg
 (05/18) Cassandra (Pythia tune, Kobold United): https://huggingface.co/wbrown
@@ -39,7 +40,7 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is Catgirl Friday, reply to the anchorpost with your cards! Last: >>431295962
+Catgirl Friday is over, enjoy the neko cards! Last: >>431295962
 
 
 ##Perma-Template

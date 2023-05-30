@@ -227,6 +227,9 @@ Use crookedtrees in your prompt
 
 	https://mega.nz/file/bd9mXRRR#EHMQz-Z2eVZ8t0E7dggXDuulhZJ7M71oHWPbYTYgSsc
 
+###  0.3(acidfur_v10) + 0.7(0.5(fluffyrock-576-704-832-960-1088-lion-low-lr-e22-offset-noise-e7) + 0.5(fluffusion_r1_e20_640x_50))
+
+	https://mega.nz/file/BXEywRzA#ytZAXFZDNmCu54rDQQKKGJdAXIOqEPw6_W9BH4DxKW4
 
 ## Galleries
 
@@ -702,7 +705,7 @@ thebigslick/syuro/anchee/raiji/redrusker/burgerkiss/blushbrush Prompt Matrix com
 	
 	https://mega.nz/file/fw0ggaaQ#nGpCzW7C7u3Q5w7sr15azX7GO8jdSBRTyjqsKriv60A
 
-Vixen in Swimsuit artist examples (Model. acidfur30-fluffyrock35-fluffusion35)
+Vixen in Swimsuit artist examples (Model:  0.3(acidfur_v10) + 0.7(0.5(fluffyrock-576-704-832-960-1088-lion-low-lr-e22-offset-noise-e7) + 0.5(fluffusion_r1_e20_640x_50)) .safetensors) (DL link can be found above)
 
 	https://mega.nz/folder/kPEjUaDB#n-IIguEypQkfnfvig0EH4w
 

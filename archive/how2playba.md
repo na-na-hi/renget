@@ -59,7 +59,9 @@ Or alternatively (not made by /bag/):
 Roll until you get 10 points (this is a JP reroll list)
 
 As the meta is constantly changing, the most optimal reroll targets can change as well.
-The [Future Content Timeline and Unit Ratings](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) and [Raid Strategy Guide](https://docs.google.com/document/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0/edit#) spreadsheets can help a lot in this regard.
+The [Future Content Timeline and Unit Ratings](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) and [Arona's projected banners](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) spreadsheets can help a lot in this regard.
+Both of these links have a banner guide, for the first one just ctrl + f 'banner' on the first sheet.
+
 You can always ask /bag/ for advice. 
 
 >What about good units who are only blue or gold (1 or 2 star)?
@@ -73,7 +75,7 @@ You get 1 ten roll, which guarantees a 3\* unit of a set pool.
 For your waifu? Of course. But besides that? 
 
 Rerolling makes the game easier, but the game is pretty easy as is. It's like going from normal difficulty to easy. 
-I personally didn't reroll and don't recommend it, but I have the advantage of being a day 1 player (and a dolphin that buys the monthlies). The reward for having a fully meta roster is also pretty negligible (3 extra rolls from raids every month and maybe 10 extra rolls if you're rank 1 pvp). 
+I personally didn't reroll and don't recommend it, but I have the advantage of being a day 1 player (and a dolphin that buys the monthlies). The reward for having a fully meta roster is also pretty negligible (3 extra rolls from raids every month and maybe 10 extra rolls if you're rank 1 pvp).
 
 >How do I reroll? (global only) 
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)
@@ -211,6 +213,8 @@ There is no benefit to manually doing them.
 	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. 
 
 ##Farmable units 
+For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
+
 Currently available units that you can farm
 ![currently available farmable units](https://arch-img.b4k.co/vg/1679180130356.png) 
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 

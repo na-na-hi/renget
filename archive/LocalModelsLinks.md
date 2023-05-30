@@ -77,6 +77,7 @@
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [kaiokendev's xPos implementation](https://github.com/kaiokendev/cutoff-len-is-context-len)|Finetuning RoPE models on larger sequences than it was pre-trained can increase the context limit
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
+[Landmark Attention](https://github.com/epfml/landmark-attention)|Uses landmark tokens in attention blocks to allow for pseudo extended context. Works as FT method
 [RPTQ for LLaMa](https://github.com/AlpinDale/RPTQ-for-LLaMA)|WIP implementation of weight+activation quantization
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
@@ -102,6 +103,7 @@
 [Rank Response from Human Feedback](https://github.com/GanjinZero/RRHF)|Easier alignment tuning method 
 [Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 
 [Segment Anything WebUI](https://github.com/derekray311511/SAM-webui)|SAM webui (GPU inferenced). Georgi seems he might do a SAM.cpp 
+[Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
 [Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone)|Text-to-audio transformer based model with CPU/GPU inference 
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|Suite of various audio related foundational models for use with a LLM (use basaran for local) 

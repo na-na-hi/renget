@@ -708,18 +708,18 @@ Bearbearbearbearbearbearbear...
 3. Could I maybe... sleep beside you?
 
 
-##Nihilister
+## Nihilister
 >Blabla Status
 
 >Gift Received
-1.
-2.
-3.
+1. You really do know what I like.
+2. Trynna ply me with gifts, are you? Well, DO keep trying.
+3. The best present would be having (You) on a silver platter... but I should probably stop now.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. Hmm... you're kind of fun...
+2. I'd LOVE to swallow you up just once! ...I guess now's not the time.
+3. Humans are usually such monotonous creatures yet you're not the same.
 
 ##Noah 
 >Blabla Status
