@@ -128,7 +128,7 @@ These units are only available during their specific banners, which are typicall
 While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions.
 
 **School Festival Yuni** - Fantastic support for both damage types in multiple game modes. Still very good, less dominant.
-**Noire Io** - 
+**Noire Io** - Very nice for both arena and some niche CB usage to drain and re-distribute TP to the highest M.Atk unit.
 **Stage Misaki** - Another fantastic support, but only for magic teams. S-Tier roll as far as permas go.
 **Inori** - Top tier Arena unit, good roll for those who enjoy that mode. Is also farmable at Hard Node 44-3.
 **Magical Girl Kasumi** - Top tier Arena unit for offense and defense, farmable at Hard Node 38-3
@@ -289,7 +289,7 @@ A - See above. Reonmaru and other Youtuber guide makers have stopped releasing t
 
 Q - **I heard this game can ruin units by maxing them out, is that true?**
 A - As of February 2nd, 2023 - The only way to brick a unit is most likely by having them leveled to max for things like Maho 6 Star, Rin 6 Star & some other supports that provide defensive buffs.  This is due to the fact that skills increasing defensive stats still reduce the amount of TP gained, based off damage taken. Cygames has mentioned that they're monitoring this system change and will adjust as they deem necessary.
-**TL;DR - Very rarely, you might brick your units if a comp uses Ames but that's not much of a worry**
+**TL;DR - Sometimes your comps may see varying results due to units with defensive buffs, so in that sense they are bricked.**
 
 Q - **They got rid of bricking? How?**
 A - An update made TP gain somewhat standardized across the board. TP Gain from damage taken is calculated as if your unit is the 2nd highest rank, with no equips. These calculations also remove HP, M.Def & P.Def stats from the following sources:
@@ -298,6 +298,9 @@ A - An update made TP gain somewhat standardized across the board. TP Gain from 
 - Bond stories
 - Unique Equips
 See https://priconne-redive.jp/news/information/21224/ for full announcement.
+
+Q - **What happens when a unit has defensive buffs?**
+A - The defensive buffs still use the base value of a unit's defensive stat, meaning that you can get less TP from damage taken in that scenario. Common units that raise defensive stats are Ames & Maho, as examples.
 
 Q - **Can I still brick my units by getting them to 5 Star?**
 A - You can star down between 3, 4 & 5 if your unit is 5. You cannot star down a 6 Star unit. 
@@ -330,7 +333,7 @@ Q - **How do I change the app icon on my phone?**
 A - Only iOS users can do this, but it can be found in Menu > Profile > App Icon
 
 Q - **I missed this important unit's banner, will it come back** 
-A - A unit will have a re-run 6 months after its release. Afterwards, they generally come back once a year, near their original release window.
+A - A limited unit will have a re-run 6 months after its release. Afterwards, they generally come back once a year, near their original release window. Permanents do not receive re-runs.
 
 Q -  **When is the next Prifes?**
 A - Who the fuck knows. We usually get one at the end of the month in Feb (Anniversary) and August (Half Anniversary) guaranteed. Other than that, could be any time.

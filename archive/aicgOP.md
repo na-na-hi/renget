@@ -1,5 +1,5 @@
 #/aicg/ OP templates
-->Check old the old OPs for some memories https://rentry.org/oldOPS <-
+->Check out the old OPs for some memories https://rentry.org/oldOPS <-
 
 !!!danger B& again
 	I'm currently on vacation from 4chan so you won't be seeing war threads for the time being that's all I'll still edit this thing 

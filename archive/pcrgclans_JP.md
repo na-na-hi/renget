@@ -10,7 +10,7 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-Wide Hips (30/30)| Delicious child-bearing hips are what the world needs. | Casual | 1400 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
+Wide Hips (29/30)| Delicious child-bearing hips are what the world needs. | Casual | 1400 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
 FlatChests (28/30)| A clan of refined tastes. No hags or trannies allowed.  幼女大好き | Freeplay  | 1562 (A) |  -
 スカイプリンセス (28/30) | Just be yourself | ?  | 1940 (A) | Sky Princess
 つるぺったん (15/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | 3440 (BBB) |  -

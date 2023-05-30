@@ -41,6 +41,17 @@ A boy meets a dragon in a dream... then becomes one himself. Forced to hide from
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans. (also so far the only species that can wield magic).
 > **PS 4/5**
 ‪
+**Mating Flight: A Non-Romance of Dragons** (2015) by Bard Bloom
+Fantasy (xenofiction)
+Pretty strange book but quite fun to read. The author clearly had fun writing it too. Its a comedy about a set of misfit young dragons who go on a interdimensional trip to fight over who will marry who. Can be a bit of a difficult read at times, deliberately so. Had to refer to a dictionary several times. The dragons are presented as quite alien in their thinking in their thinking and society but in a pretty understandable way? Also unbelievably powerful. Some anons might not like how they are presented as not being wise paragons of virtue, but very amoral from a human standpoint and the flaws in their society are pretty clear to see. But if that doesn't bother you then then book is absurd , witty and explores some interesting themes. The book doesn't really have an ending its sequel is clearly meant to be read as one book.
+**ISBN-13** 978-1514840528
+> **DC 4.5/58** 
+> Dragons are the central focus of the book, non dragons exist but as clear inferiors to the dragons or side characters. No humans.
+> **CA 5/5**
+> "How much dignity dragons are given?" No one is really given much dignity in the book but they are clearly far and large the most powerful/ important beings in the setting.
+> **PS ?**
+> Not really sure how to rate this. Its a comedy so their entire outlook and philosophies are mostly played for laughs but it does have interesting worldbuilding and detailed explorations as why the dragons are the way they are. Interesting themes about power.
+
 **Scales and Honor: The Dragon's Paladin** (2018) by Justin Lee
 Fantasy (dragon riding)
 ~~When a human and a dragon love each other very, very much~~
@@ -156,14 +167,19 @@ The story of a young female Utahraptor by paleontologist Robert T. Bakker, who s
 	There is no rating system.
 	This section is expanded upon anons' requests.
 
+**A Dream of Wings and Flame** (2022) by Cale Plamann
+Fantasy (kobolds)
+(Section pending review)
+**ISBN-13** 979-8356838996
+
 **Ren of Atikala: Kobolds** (2013-2016) by David Adams 
-Fantasy
+Fantasy (kobolds)
 (Section pending review)
 **ISBN-10** 1492335045
 **ISBN-13** 978-1492335047
 
 **Wings of War** (2015-2020) by Bryce O'Connor
-Fantasy
+Fantasy (lizard/dragonfolk)
 (Section pending review)
 **Child of the Daystar**
 **ISBN-10** 0998810614
@@ -216,6 +232,10 @@ Fantasy (dragon riding)
 **Dragonflight**
 **ISBN-10** 0345335465
 **ISBN-13** 978-0345335463
+
+**Fire of the Phoenix** (2021) by Azariah Jade
+Fantasy (xenofiction)
+**ISBN-13** 979-8452680505
 
 **The Inheritance Cycle** (2002-2011) by Christopher Paolini
 Fantasy (dragon riding)

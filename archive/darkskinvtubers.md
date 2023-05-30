@@ -90,6 +90,7 @@ HolyPupperVT|[Twitter](https://twitter.com/HolyPupperVT) [Twitch](https://www.tw
 ReichuTV|[Twitter](https://twitter.com/ReichuTV) [Twitch](https://www.twitch.tv/ReichuLIVE/)|
 Toriidoki|[Twitter](https://twitter.com/Toriidoki) [Twitch](https://www.twitch.tv/toriidoki)|
 Kiki_Nene_|[Twitter](https://twitter.com/kiki_nene_) [Twitch](http://twitch.tv/kiki_nene_)|
+Akiajimargo|[Twitter](https://twitter.com/akiajimargo) [Twitch](https://www.twitch.tv/akiajimargo)|
 Yanabells|[Twitter](https://twitter.com/yanabellsexe) [Twitch](https://www.twitch.tv/yanabells)|
 Sulkycats|[Twitter](https://twitter.com/sulkycats) [Twitch](https://www.twitch.tv/sulkycats)|
 SilverDawnbreak|[Twitter](https://twitter.com/SilverDawnbreak) [Twitch](https://www.twitch.tv/silver_dawnbreak)|
@@ -102,7 +103,7 @@ Lullabylolita|[Twitter](https://twitter.com/lullabylolita) [Twitch](https://www.
 Zuan|[Twitter](https://twitter.com/ZuantheFaun) [Twitch](https://www.twitch.tv/zuan)|
 FuuLuluu|[Twitter](https://twitter.com/Fuululuu) [Twitch](https://www.twitch.tv/fuululuu)|
 StellalunaVT|[Twitter](https://twitter.com/StellaLunaVT) [Twitch](https://www.twitch.tv/stellalunavt)|
-Trinity_vtuber_|[Twitter](https://twitter.com/lovetrinthighs) [Twitch](https://www.twitch.tv/trinity_vtuber_)|
+Trinity_vtuber_|[Twitter](https://twitter.com/Trinityin4) [Twitch](https://www.twitch.tv/trinity_vtuber_)|
 BrewwVT|[Twitter](https://twitter.com/Breww_VT) [Twitch](https://www.twitch.tv/brewwvt)|
 ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://www.twitch.tv/arcticaaliyah)|
 justSasha|[Twitter](https://twitter.com/SashasCastle) [Twitch](https://www.twitch.tv/justSasha)|
@@ -155,6 +156,12 @@ TorakkoVT|[Twitter](https://twitter.com/TorakkoVT/) [Twitch](https://www.twitch.
 YanchaGoGo|[Twitter](https://twitter.com/yanchagogo) [Youtube](https://www.youtube.com/c/YanchaGoGoCh) [Twitch](https://www.twitch.tv/YanchaGoGo)|
 Chanzonia|[Twitter](https://twitter.com/chanzzonia) [Twitch](https://www.twitch.tv/chanzonia)|
 Munibug|[Twitter](https://twitter.com/munibug) [Twitch](https://www.twitch.tv/munibug)|
+bon73P|[Twitter](https://twitter.com/bon73P) [Twitch](https://www.twitch.tv/bon73p)|
+SPQRobi|[Twitter](https://twitter.com/SPQRobi) [Twitch](https://www.twitch.tv/spqrobi/)|
+Scribenuya|[Twitter](https://twitter.com/Scribenuya) [Twitch](https://www.twitch.tv/scribenuya)|
+Latte_w_cream|[Twitter](https://twitter.com/latte_w_cream) [Twitch](https://www.twitch.tv/latte_w_cream)|
+meiraonline|[Twitter](https://twitter.com/_meiraonline) [Youtube](https://www.youtube.com/channel/UCUJkdXs54gXgBSko4N-_JGQ) [Twitch](https://www.twitch.tv/meiraonline)|
+Nekoreen|[Twitter](https://twitter.com/Nekoreen_CH) [Twitch](https://www.twitch.tv/nekoreen)|
 
 ---
 
@@ -191,9 +198,9 @@ Bonnivier Pranaja[ID]|[Twitter](https://twitter.com/Bonnivier_2434) [Youtube](ht
 天津神ツカサ[JP]|[Twitter](https://twitter.com/amatsutsukasa) [Twitch](https://www.twitch.tv/amatsu3hi)|
 sorry[EN]|[Twitter](https://twitter.com/sorry_art) [Twitch](https://www.twitch.tv/sorry)|
 Kuchiwo Tsugumi [JP]|[Twitter](https://twitter.com/GugenTV) [Youtube](https://www.youtube.com/@kuchiwo)|Puzzle game playthroughs
-
-
-
+sadlights [EN]|[Twitter](https://twitter.com/notsadlights) [Twitch](https://www.twitch.tv/sadlights)|
+AliothCh [EN]|[Twitter](https://twitter.com/AliothCh) [Youtube](https://www.youtube.com/@AliothCh) [Twitch](https://www.twitch.tv/aliothch)|
+Meltymoon_ [EN]|[Twitter](https://twitter.com/Meltymoon__) [Youtube](https://www.youtube.com/@Meltymoon) [Twitch](https://www.twitch.tv/meltymoon_)|
 
 ---
 

@@ -183,7 +183,7 @@ Kina pepper spraying Cyndaquil
 
 [Phanpy and friends in winter outfits](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
 
-~~Phanpy and friends at the blue claw inn~~
+[Phanpy and friends at the blue claw inn](http://cloverguild.org/post/345)
 
 [Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
 

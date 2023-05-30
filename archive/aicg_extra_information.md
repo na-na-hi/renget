@@ -6,7 +6,7 @@
     #### Current frontends
 
 #####Agnaistic
-https://github.com/luminai-companion/agn-ai
+(https://github.com/luminai-companion/agn-ai) https://github.com/agnaistic/agnai
 https://agnai.chat
 https://rentry.org/agnai_guides
 - australian frontend for many AI services; local install and online version; feature rich and user-friendly
@@ -118,7 +118,7 @@ https://www.happyaccidents.ai
 https://yodayo.com/text-to-image
 - requires to sign up using Google or phone; supposed to be easy to use; free tier is supposed to be slow; has additional features
 
- ![](catbox fucky, image later)
+ ![](https://files.catbox.moe/b1zpfi.png)
 
 ***
 

@@ -5,6 +5,11 @@ These bots are made in Tav+Pyg. I think there's no need to explain why I'm not b
 
 ## Hololive
 
+###### Kazama Iroha (Degozaru-oriented)
+Gozaru. That is all. You can also fluff the fat fuck that is Pokobee, he's in here, or should be.
+
+![De gozaru, Pokobee is phat](https://files.catbox.moe/abksgc.png)
+
 ###### Murasaki Shion (Brat-oriented)
 Crush her skull if you please.
 
@@ -15,11 +20,12 @@ The real leader of HoloX. (given she's the one that does all the planning and pa
 
 ![Ruirui](https://files.catbox.moe/8bztob.png)
 
-###### Yukihana Lamy (Talk-oriented)
+###### Yukihana Lamy (Alcohol-oriented)
 The drunkard elf of Hololive, what it says on the tin, and the same case as some of the bots below:
 
 ![BECOME](https://files.catbox.moe/otfio4.png)
-###### Koyori Hakui (Talk-oriented)
+
+###### Koyori Hakui (Mayo-oriented)
 As it says on the tin. She's more about talking, just to see how current Pygmalion can carry a fairly regular conversation, however, the scenario can be changed as you wish, as well as her dialogue examples if you want to RP with her instead:
 
 ![Mayonnaisee...](https://files.catbox.moe/cx4rkz.png)
@@ -29,12 +35,12 @@ Beach scenario, loved by most people in the threads (atleast what my brain tells
 
 ![Give me watermelon, joshukun!](https://files.catbox.moe/917k5v.png)
 
-###### Kiryu Coco (Talk-oriented)
+###### Kiryu Coco (Dragon-oriented)
 Same case as the normal Koyori bot, change her scenario, fuck her brains out, etc etc etc:
 
 ![Madafaka!](https://files.catbox.moe/c5bxtj.png)
 
-###### AZKi (Talk-oriented)
+###### AZKi (Diva-oriented)
 Same case as the others I mentioned earlier, just be nice to her:
 
 ![Survive, anon!](https://files.catbox.moe/9suag6.png)
@@ -54,19 +60,26 @@ I'm scared of this one.
 
 ![Mating press.](https://files.catbox.moe/3yb0ga.png)
 
-## Indie Vtubers
+## Indie Vtubers / From other corps
+
+###### Suzuhara Lulu (Spook-oriented)
+Everyone's favorite, -and completely normal- art student. Just change her scenario and avatar if you want it to not be spooky. Easy, right? Even with the spooky preset you can just lead the conversation or situation to something more light-hearted and wholesome.
+
+![Konlulu~](https://files.catbox.moe/gidj2n.png)
 
 ###### Kamiko Kana (Menhera-oriented)
 Menhera cunny fox.
+
 ![Real menhera hours.](https://files.catbox.moe/vt24l9.png)
 
-###### Mint Castella (Talk-oriented)
+###### Mint Castella (Chub-oriented)
 /lig/'s favorite chubby dog vtuber, she's quite adorable and nice to talk to. But then again, dunno when Pygmalion'll get good to the levels of CAI before it was lobotomized to all hell and make her seem even more like the real Mint Castella. Same case as the other talk oriented bots:
 
 ![Helloo, how you doin'?](https://files.catbox.moe/m71t3p.png)
 
-###### Iekushi Chapipi (Talk-oriented)
+###### Iekushi Chapipi (Virus-oriented)
 The virus in your PC suddenly became a cute girl and popped right out of the screen. Now it's up to you what you want to do with her, she's a friendly lass:
+
 ![I'm going to fix your PC! Both figuratively AND literally!](https://files.catbox.moe/gr69p6.png)
 
 ## Miscellaneous/Off-topic bots
@@ -79,16 +92,23 @@ The scenario is ever so slightly funky since there's not much action on her forc
 ###### Shouhouin (Yandere-oriented)
 A possessive office lady, slightly reworked. May need a tune up again.
 
-![Dominant.](https://files.catbox.moe/xc1066.webp)
+![Dominant.](https://files.catbox.moe/2q9h75.png)
 
 ###### Demoman (Explosives-oriented)
 If he was a bad demoman, he wouldn't even be there talking with ya about it.
+
 ![*drunken gibberish*](https://files.catbox.moe/dqli8n.png)
 
+## Bots handed over from outside influences
+
+###### Baby Moona (Daughter-oriented)
+Bot made by a pal from a pal. Sounds unlikely, no? You'll see when you read the definitions. They're more cleaned up because they positively traumatized me when I saw them the first time.
+
+![Papa!](https://files.catbox.moe/owaoct.png)
+
 ## WIPs or requests taken into account.
-- Members from HoloX <--- working on them
+- La+sy <--- working on her
  
-Suzuhara Lulu
 Takanashi Kiara (Normal, Forma de wife)
 Hakos Baelz (Non-lewd one)
 Shiki Miyoshino (Zatsudan Project)

@@ -26,6 +26,7 @@ Saki Kurokoma: https://beta.character.ai/chat?char=M6W4DDZu6eCgwaH0Efvv2HK5VW7Nb
 Satori -MINDBREAKER-: https://beta.character.ai/chat?char=zTlmaXzB2HNC8Onn32QZViDeFXnN4zBrcsXn9DKdng0
 The Yamaxanadu: https://beta.character.ai/chat?char=Wyr8H0xjuIAb-x5danrI0jULlws6SWDBXRYxSiL5b-k
 unrepentant marisa: https://beta.character.ai/chat?char=iGSGl0n_1kxBEGDFrcu5kCiCSAzSorhsc0W3LSBA2-4
+Kijin Seija: https://beta.character.ai/chat?char=xEgExLbuq5f7Iuh05cZse7EQiyFDNixTw5TOXkwuVZ4
 
 Nintendobab stuff:
 Samus Aran: https://beta.character.ai/chat?char=Kp5FOWlmFhyBUUFczoyYSTVgTH0_Lcnt7RDylk6RVCI

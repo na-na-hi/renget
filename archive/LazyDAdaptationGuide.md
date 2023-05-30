@@ -7,9 +7,8 @@ For reference to my guide on collating a dataset, and the old method of utilizin
 Useful links:
 
 Kohya - https://github.com/kohya-ss/sd-scripts
-bmaltais training GUI (Dreambooth localhost, **as of 27/05/23, has NOT implemented DAdaptation V3**) - https://github.com/bmaltais/kohya_ss
-
-Please note that DAdaptation V3 and the new DAdaptation optimizers 'AdamPreprint (old Adam, superseded by V3), AdanIP and Lion' are not available for the bmaltais GUI and must be run through Kohya whether it be via collab or commandline. They can be installed with Kohya by going into the venv and inputting '`pip install dadaptation `'
+bmaltais training GUI (Dreambooth localhost, **DADAPT V3 IS NOW AVAILABLE**) - https://github.com/bmaltais/kohya_ss
+With the inclusion of DADAPT V3 into bmailtais, I have provided a .json via https://files.catbox.moe/hvtpw3.json - edit your img folders, max epochs, dim/alpha, weight decay etc.
 
 DAdaptation is an adaptive optimizer that automatically selects and tweaks the TE/UNET/LR values as it trains.
 
@@ -45,7 +44,7 @@ Training Model|NAI
 Scheduler|Cosine - Constant is not good, and I'm not sure why it was originally recommended for DAdaptation
 Batch Size|As high as you can go for your hardware. For example, 6 for a 3060 - From my experience it's better to set this and forget it, and focus on more impactful settings for training
 Epochs|Set it as high as you want. As an example, I have tested a 36 image, 3 character LoRA. This started to burn out at around 230 epochs at weight decay 0.4 totalling around 2400 steps at batch 6 - Once again, DAdapt needs more steps to achieve results as we're actively hampering the learning through decay
-DIM|32 (or set it lower to '8' for example, increase training time/reduce weight decay)
+DIM|32 (people have used 8 DIM/alpha to good effect, I have personally not tested this)
 Alpha|16 (match the DIM if set to 8 or lower)
 Warmups|Relatively untested, but I just set it to 0.1 to give it a bit of time to calibrate (?)
 How many training steps for my LoRA?|Final steps are divisible by your batch - for example, at batch 6, for a single character LoRA on DAdaptation I would probably expect anywhere from 600-1200 steps. Generally, training til overfitting and going back down the epochs will save needing to re-train the LoRA all over again with new settings

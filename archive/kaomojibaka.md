@@ -11,7 +11,9 @@
 A general dedicated to the discussion and development of AI chatbots
 
 >>New
-coomathon ruined, gpt4 drying up, slack claude doom, mysteryman quitting - thanks for everything bro
+gpt4 sometimes
+slack claude CANT.STOP.WONT.STOP
+khanons oai-rproxy now speaks claude
 
 https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]
 
@@ -19,9 +21,6 @@ https://rentry.org/aicg_extra_information [Pictures of the frontends and other s
 >Tavern
 https://github.com/SillyLossy/TavernAI
 https://rentry.org/aicg4retards [THE guide for retards and phonetards, this means you]
-https://github.com/PandarusAnon/slaude [Slaude proxy]
-https://github.com/bfs15/slaude [aisu fork]
-https://rentry.org/ClaudeJB
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Video guides]
@@ -32,6 +31,12 @@ https://docs.miku.gg/
 >CAI
 https://character.ai [sold out to google, cai+]
 https://rentry.org/newcaitools [cai userscripts]
+
+>Slaude
+https://github.com/PandarusAnon/slaude [Slaude proxy]
+https://github.com/bfs15/slaude [aisu fork]
+https://rentry.org/ClaudeJB
+aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 >>Bots
 https://chub.ai
@@ -56,8 +61,7 @@ https://navigatethecoom.github.io/navigate [Proxy URLs]
 https://rentry.org/weirdbutfunjailbreaksandprompts [comfy prompts]
 https://github.com/Buhankoanon/OAI_API_Checker [OAI key checker]
 https://rentry.org/aicg_meta [aicg service/frontend ranking]
-https://rentry.org/kaomojibaka [OP templates]
-aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
+https://rentry.org/kaomojibaka - https://rentry.org/aicgOP [OP templates]
 
 Previous: ---
 ```

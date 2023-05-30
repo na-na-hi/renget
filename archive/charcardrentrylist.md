@@ -10,6 +10,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
@@ -21,7 +22,7 @@ Botmaker | Category | Defs Language
 [!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
-[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
+[Genoo](https://rentry.org/295se) | Sizeplay | English
 [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
@@ -35,7 +36,6 @@ Botmaker | Category | Defs Language
 [CptPants](https://rentry.org/CptPants) | Misc | English
 [Dould](https://rentry.org/ox3iqa) | Misc | English
 [Scrimbly](https://rentry.org/scrimb) | Misc | English
-[Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [Maestro](https://rentry.org/MaestroBots) | Misc | English
 [Clutch](https://rentry.org/cominginclutch) | Misc | English
 [Hochimama](https://rentry.co/hochimamabots) | Misc | English
