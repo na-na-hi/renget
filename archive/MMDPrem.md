@@ -50,7 +50,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Homyu** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
 
-[[Patreon]](https://www.patreon.com/posts/mmdmodel-kokona-83272003) : Blue Archive - Sunohara Kokona
 [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
 ***
 -> **ISAO (WITCH☆CRAFT)** <-

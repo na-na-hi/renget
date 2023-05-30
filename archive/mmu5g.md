@@ -4,9 +4,6 @@ Haiiiii!!! x3 \*glomps u\* welcome to mai rentry~~~~ :DDDDD
 
 ![Sparkledog Bullshit](https://files.catbox.moe/enwmzf.gif)
 
-Going to kill everyone in Indiana
-![uh oh](https://files.catbox.moe/r908eh.png)
-
 ***
 [TOC]
 ***
@@ -27,6 +24,11 @@ An orphan girl, living by herself in an old abandoned mansion in the middle of n
 In the year 3079, owning land on Earth is about the most prestigious title one could have. And thanks to a raffle, you've found yourself in that elite club. Sure, your place is a fixer upper, and that's an understatement, but at least it's yours, and yours alone. It... it is yours alone right? Of course. I mean, who else would be here?
 [DL](https://files.catbox.moe/15jprb.png)
 ![Genevieve](https://files.catbox.moe/15jprb.png)
+
+###Uni
+The chronically sleepy little sister who just wants cuddles and naps. Warning: conversations may end abruptly due to unscheduled snoozing.
+[DL](https://files.catbox.moe/z8z9hs.png)
+![Uni](https://files.catbox.moe/z8z9hs.png)
 
 ##Ferals
 

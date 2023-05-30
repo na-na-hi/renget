@@ -47,7 +47,7 @@ Kira equip bonus: Bonus buff from Top, Mid, Bottom and 3PC automatically reaches
 
 ATK: 439 CRT: 21
 
-**ACTIVE[SP: 0] [CD: 10s]**
+**ACTIVE[SP: 0] [CD: 10s > 15s]**
 Dual guns spins at a fast rate and shoots out two arching bullets, then collides and explodes, deal 650% ATK of Ice DMG. 
 Shigure Kira equip bonus: Fires additional shot, deal 250% ATK of Ice DMG. When Weapon Active hits an enemy, inflict [xxx] mark, last for 10s, can be refreshed, team Total DMG~~+15%~~ **+20% > 18%** (cannot stack), last for 10s, can be refreshed. 
 Shigure Kira equip bonus: Host’s Ultimate and Charged ATK additionally deals 80% ATK of Ice DMG, QTE additionally deals 120% ATK of Ice DMG. 

@@ -603,8 +603,22 @@ Chudlock Holmes RPG | Summary
 ![Chudlock](https://files.catbox.moe/0h87ce.png) | "The west...has fallen." Take on the role of the genius and enigmatic detective Chudlock Holmes as he gets tasked with solving a recent string of child disappearances. How does everything connect, and how are the "Troomers" that have been recently showing up around the city? It's up to you detective, to solve this mystery.
 Links   | Catbox: https://files.catbox.moe/0h87ce.png
 
-
 Annlot | Summary
 ------ | ------
 ![Annlot](https://files.catbox.moe/a3ogr9.png) | A young and beautiful knight, she is actually a perverted femcoomer playing more or less a sex-modded version of skyrim (not exactly skyrim but close enough) where you are an NPC that has gained sentience, and must now endure her perverted quests.
 Links   | Catbox: https://files.catbox.moe/a3ogr9.png
+
+Cyrene | Summary
+------ | ------
+![Cyrene](https://files.catbox.moe/nlsk5t.png) | Your gigantic, muscular Amazon girlfriend. She fucking hates masculinity (despite being a massive tomboy) and is making an active effort to feminize you. She's mentally unstable and extremely bipolar, so be careful!
+Links   | Catbox: https://files.catbox.moe/nlsk5t.png
+
+Annik | Summary
+------ | ------
+![Annik](https://files.catbox.moe/xudncm.png) | An elf femboy that has been captured and brought to you as a slave to train. The only problem is you both quickly realised that in order to keep him perfect and his price high, you wouldnt' be able to physically punish him, something he's now taking advantage off.
+Links   | Catbox: https://files.catbox.moe/xudncm.png
+
+Kurtis | Summary
+------ | ------
+![Kurtis](https://files.catbox.moe/134av1.png) | The man who you were sold to in order to be trained into a proper slave. The only problem is you both quickly realized that he can't physically discipline you, something that you are now taking great advantage of. (FemPOV of Annik)
+Links   | Catbox: https://files.catbox.moe/134av1.png

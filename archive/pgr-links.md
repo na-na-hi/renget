@@ -20,8 +20,9 @@
 2. [Frames, Memories, Weapons Database](https://grayravens.com/wiki/GRAY_RAVENS)
 3. [Recommended Build](https://docs.google.com/spreadsheets/d/1_NAHdVouSp2T6AwStpz9ZMLZ_ca5EzcuHde5obIlero/htmlview)
 4. [Which Starter S Frame Is the Best Pick?](https://pastebin.com/Wnkxwtpw)
-5. [Frames & CUB Upgrade Cost](https://docs.google.com/spreadsheets/d/19b-japrCPFO1_JvotynrXS-_7BQxQbK7j2WM9z6yIpw)
-6. [BC Planner & Calculator](https://docs.google.com/spreadsheets/d/1nNauBXGcHv_7AepLWBLo4ykl3V_EhxpK/edit#gid=2101374631)
+5. [Frames Tier List](https://docs.google.com/spreadsheets/d/1nCmBq7NstZovPWs9cymAXNyakVXJ4lKvNGbVmtPbcUc/htmlview)
+6. [Frames & CUB Upgrade Cost](https://docs.google.com/spreadsheets/d/19b-japrCPFO1_JvotynrXS-_7BQxQbK7j2WM9z6yIpw)
+7. [BC Planner & Calculator](https://docs.google.com/spreadsheets/d/1nNauBXGcHv_7AepLWBLo4ykl3V_EhxpK/edit#gid=2101374631)
 
 
 ####In-Depth Guides and Resources
@@ -34,10 +35,11 @@
 
 
 ####Miscellaneous
-1. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
-2. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
-3. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
-4. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)
-5. [PGR Emotes and Chibis](https://drive.google.com/drive/u/0/folders/1-JWQAJ4ue7gQNzOJ4hd0wqgjeY0-bOYO) (CN)
-6. [/pgr/ Commissions Archives](https://drive.google.com/drive/folders/1TyszThlQaXIE4UsEkS9SV15IKOQsCZDf) (NSFW)
-7. [Panini Gray Raven Animation](https://www.youtube.com/playlist?list=PL8PXX9CbWv9aW6X4hphB7Rll8e1goaswd)
+1. [Future Patch Summaries](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
+2. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
+3. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
+4. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
+5. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)
+6. [PGR Emotes and Chibis](https://drive.google.com/drive/u/0/folders/1-JWQAJ4ue7gQNzOJ4hd0wqgjeY0-bOYO) (CN)
+7. [/pgr/ Commissions Archives](https://drive.google.com/drive/folders/1TyszThlQaXIE4UsEkS9SV15IKOQsCZDf) (NSFW)
+8. [Panini Gray Raven Animation](https://www.youtube.com/playlist?list=PL8PXX9CbWv9aW6X4hphB7Rll8e1goaswd)

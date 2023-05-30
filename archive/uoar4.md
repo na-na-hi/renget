@@ -103,7 +103,8 @@ _______
 |【歌枠 KARAOKE】JP SONGS ~ 日本語で歌ってみる ! 『2023-01-19』|[![](https://files.catbox.moe/tpdm8u.jpg)](https://www.youtube.com/watch?v=D2cFXO3p_SU) | First proper solo karaoke to be archived. |
 |【UNARCHIVED KARAOKE  歌枠】i'm in a mood 『2023-01-27』| [![](https://files.catbox.moe/oaw1jv.jpg)](magnet:?xt=urn:btih:41190e611452c4f7ac3c244df862aefd88c938e0&dn=%5B20230128%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/qlss93.txt |
 | 【UNARCHIVED KARAOKE  歌枠】Emo Songs 『2023-02-07』 | [![](https://files.catbox.moe/k5dlz9.jpg)]( magnet:?xt=urn:btih:b920ee8c303d8336be839e779fa31560e7191c79&dn=%5B20230208%5D%20Unarchived%20Emo%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/m8whnw.txt|
-|【UNARCHIVED KARAOKE  歌枠】It's Valentines Day !! 『2023-02-14』| [![](https://files.catbox.moe/jqcni3.jpg)](magnet:?xt=urn:btih:37e7c67cb75659d52de872140654ca661e727d8b&dn=%5B20230215%5D%20Unarchived%20Valentine%27s%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) | https://files.catbox.moe/hdys83.txt |
+|【UNARCHIVED KARAOKE  歌枠】It's Valentines Day !! 『2023-02-14』| [![](https://files.catbox.moe/jqcni3.jpg)](magnet:?xt=urn:btih:37e7c67cb75659d52de872140654ca661e727d8b&dn=%5B20230215%5D%20Unarchived%20Valentine%27s%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) | https://files.catbox.moe/hdys83.txt|
+| 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! :D 『2023-05-29』 |[![](https://files.catbox.moe/fwufvx.jpg)](https://www.youtube.com/watch?v=RzgBF2XsT8k) | - |
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
