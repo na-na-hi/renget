@@ -1,4 +1,4 @@
-Updated: 5/24/23
+Updated: 5/31/23
 
 # FAQ
 ### Recommended prompts
@@ -40,6 +40,11 @@ Confirmed working:
 ```
 
 ### Troubleshooting
+- "I can't get koboldcpp to compile with LLAMA_CLBLAST or llamacpp with LLAMA_CUBLAST."
+export PATH=/usr/local/cuda/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+Then compile (follow your package's instructions. e.g. make LLAMA_CUBLAS=1 for vanilla llama.cpp)
+
 - llama.cpp: Failed to load model
 `Are you using the right version? (v1, v2, v3, ggml, ggjt, etc.) This is sometimes hard to know unless you're following along. If you've been gone for a while, clone the latest version of llama.cpp, search ggml in huggingface.co and sort it by most recently updated for compatible models (or, y'know, just quant yourself). 
 Is the model compatible? Not all ggml models are compatible with llama.cpp (e.g. MPT, starcoder, etc.)`

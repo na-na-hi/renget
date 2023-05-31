@@ -5,7 +5,7 @@ This is a guide for **retards** like you, who want to roleplay debauchery things
     ->Sometimes Imgur servers are overloaded. So the guide may not show the images. I don't feel like rehosting the images.. But don't worry. I made sure to rehost the important ones.<-
 
 ***
-->[![Shortstack](https://files.catbox.moe/kyj7i8.png)](https://i.imgur.com/nVzE2qC.png)<-
+->[![Shortstack](https://i.imgur.com/nVzE2qC.png)](https://files.catbox.moe/kyj7i8.png)<-
 ***
 Before we can begin you'll have to exert your brain a little and make a choice; which front-end to use? *What* is a front-end? To simplify it for you, its basically the interface you're using to connect to an AI service. As this guide is meant for OpenAI's GPT Turbo & GPT-4, you will connect to their API service to interact with your waifu, whatever age she is. The choices you have are one of two; **SillyTavern** or **Agnaistic**. 
 
@@ -100,7 +100,7 @@ Sometimes Tavern might need to re-install dependencies when updated, if so run: 
 !!! info Take A Breather! Here's a Cunny!
     Remember! A Cunny a day, keeps the bad men away!
 
-[![Gura](https://files.catbox.moe/rq0vfe.png)](https://i.imgur.com/1ryujed.png)
+[![Gura](https://i.imgur.com/1ryujed.png)](https://files.catbox.moe/rq0vfe.png)
 
 ***
 
@@ -163,7 +163,7 @@ Then you can navigate to Localhost *http://127.0.0.1:3001* and run agnai.
 !!! info Take a Breather! 
     This is a marathon after all, not a sprint!
 
-[![Klee&Nahida](https://files.catbox.moe/a7dxmm.jpg)](https://i.imgur.com/uQ7kMcG.png)
+[![Klee&Nahida](https://i.imgur.com/uQ7kMcG.png)](https://files.catbox.moe/a7dxmm.jpg)
 ***
 
 ## Overview of Tavern
@@ -202,7 +202,7 @@ Functions | Descriptions
 ***
 !!! info This is very information heavy! You should take break! 
     I know these fine lolies sure would enjoy taking a break with you!
-[![DayCare](https://files.catbox.moe/3ui5z0.jpg)](https://i.imgur.com/kxS2S4k.png)
+[![DayCare](https://i.imgur.com/kxS2S4k.png)](https://files.catbox.moe/3ui5z0.jpg)
 ***
 
 ### System Prompts & Generation settings
@@ -297,7 +297,7 @@ Temperature | Frequence Penalty | Presence Penalty
 :-: | :-: | :-:
 [![Download & Install](https://i.imgur.com/3T5j0hW.gif)](https://i.imgur.com/7CilBFP.mp4) | [![Windows Explorer Intregration](https://i.imgur.com/ENsYYpp.gif)](https://i.imgur.com/RyZCDnd.png) | [![Console Y?](https://i.imgur.com/Yq8q3mF.png)](https://i.imgur.com/Yq8q3mF.png)
 
-[![Nahida](https://files.catbox.moe/ic7b3w.png)](https://i.imgur.com/tHvfPIG.png)
+[![Nahida](https://i.imgur.com/tHvfPIG.png)](https://files.catbox.moe/ic7b3w.png)
 
 ***
 Updates:

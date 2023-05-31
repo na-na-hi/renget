@@ -10,10 +10,12 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
+[!] [Gigasad](https://rentry.org/gigasad) | Misc | English
+[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
-[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
 [!] [koikoikoi](https://rentry.org/4amrn) | Misc | English
 [!] [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
@@ -21,8 +23,6 @@ Botmaker | Category | Defs Language
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
-[!] [Gigasad](https://rentry.org/gigasad) | Misc | English
-[Genoo](https://rentry.org/295se) | Sizeplay | English
 [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English

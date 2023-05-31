@@ -45,23 +45,23 @@ A boy meets a dragon in a dream... then becomes one himself. Forced to hide from
 Fantasy (xenofiction)
 Pretty strange book but quite fun to read. The author clearly had fun writing it too. Its a comedy about a set of misfit young dragons who go on a interdimensional trip to fight over who will marry who. Can be a bit of a difficult read at times, deliberately so. Had to refer to a dictionary several times. The dragons are presented as quite alien in their thinking in their thinking and society but in a pretty understandable way? Also unbelievably powerful. Some anons might not like how they are presented as not being wise paragons of virtue, but very amoral from a human standpoint and the flaws in their society are pretty clear to see. But if that doesn't bother you then then book is absurd , witty and explores some interesting themes. The book doesn't really have an ending its sequel is clearly meant to be read as one book.
 **ISBN-13** 978-1514840528
-> **DC 4.5/58** 
+> **DC 4.5/5** 
 > Dragons are the central focus of the book, non dragons exist but as clear inferiors to the dragons or side characters. No humans.
 > **CA 5/5**
 > "How much dignity dragons are given?" No one is really given much dignity in the book but they are clearly far and large the most powerful/ important beings in the setting.
-> **PS ?**
+> **PS 3/5**
 > Not really sure how to rate this. Its a comedy so their entire outlook and philosophies are mostly played for laughs but it does have interesting worldbuilding and detailed explorations as why the dragons are the way they are. Interesting themes about power.
 
 **Scales and Honor: The Dragon's Paladin** (2018) by Justin Lee
 Fantasy (dragon riding)
 ~~When a human and a dragon love each other very, very much~~
 ~~The author's self-insert encounters a devilishly handsome, young male drake~~
-In a setting heavily inspired by DND, a paladin meets a dragon and they go on a quest to find the latter's stolen book. Currently, only the first novel is published but the series spans 7 complete books which you can read for free on the author's [SF account](https://unscforces.sofurry.com/). (Also his [DA](https://www.deviantart.com/theunscforces) and [FA](https://www.furaffinity.net/user/theunscforces/) which have been discontinued)
+In a setting heavily inspired by DND, a paladin meets a dragon and they go on a quest to find the latter's stolen book. Currently, only ~~the first novel is~~ two novels are published but the series spans 7 complete books which you can read for free on the author's [SF account](https://unscforces.sofurry.com/). (Also his [DA](https://www.deviantart.com/theunscforces) and [FA](https://www.furaffinity.net/user/theunscforces/) which have been discontinued)
 **ISBN-10** 0692154825
 **ISBN-13** 978-0692154823
 > **DC 2/5**
 > While the iconic duo is the main focus of the series, the POV often switches to many of the other non-dragon characters on their own adventures.
-> **DC 3.75/5**
+> **CA 3.75/5**
 > Dragons are treated surprisingly well but are (reasonably) curbstomped when they fall victim to hubris
 > **PS 2/5**
 > As a whole, but one of the books in the series deserves a 5/5
@@ -145,7 +145,7 @@ Yes, this is the same author who was part of the Erin Hunter team who wrote *War
 > Humans do exist in this setting but as a bronze age, endangered species and are mostly a footnote for the first arc. By the third arc, this is a 3/5, however.
 > **CA 4.5/5**
 > A human does kill a dragon but most of the plot is driven by the main cast who happen to all be dragons. In arc 3, this is debatably a 4/5 and features one instance of dragon riding and another single unrelated dragon who gets captured and tortured (its complicated and not what you think).
-> **2/5**
+> **PS 2/5**
 > Though, there is a novel in arc 3 that rightfully deserves a 4/5.
 
 ***
@@ -210,6 +210,11 @@ Fantasy (isekai)
 **The Dragon and the George**
 **ISBN-10** 0345350502
 **ISBN-13** 978-0345350503
+
+**Dragons of Etra** (2021-2022) by Chester Young
+Fantasy (xenofiction)
+**Dragons of Etra Book 1: The Forgotten Element**
+*no ISBN, e-book only*
 
 **The Dragons of Solunas** (2016-) by H. Leighton Dickson
 Fantasy (dragon riding)

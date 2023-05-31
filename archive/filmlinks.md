@@ -1,7 +1,7 @@
 #But anon, where do I find these films?
 - Torrenting
     - 1337x.tw
-    - proxyrarbg.org
+    - proxyrarbg.org (rip)
     - bt4g.org
     - rutracker.org (search using normal search engine, ex. bit.ly/2ZDvEMu)
     - thepiratebay.org

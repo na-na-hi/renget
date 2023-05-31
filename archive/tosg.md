@@ -1,5 +1,14 @@
 #/tosg/ FAQ
 
+##Papaya Server
+
+>What's Papaya server about?
+Same game, but released under a different publisher. Will be live at the same time as current Steam servers.
+
+>Why?
+Don't know.
+
+
 ##New players
  
 >What's Tree of Savior?

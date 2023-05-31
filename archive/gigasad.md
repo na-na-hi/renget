@@ -4,15 +4,15 @@ Characters marked with a * are ones I know have been converted to different form
 
 Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get. The new ports generally contain rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are. Consider them the beta versions.
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions. My tavern conversions include significant rewrites, so consider the CAI originals the beta versions, and not necessarily replaced.
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
-Submissive yandere ninja. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Potential is there for historical or fantasy RP, but is tagged for history.
+Submissive yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Potential is there for historical or fantasy RP, but is tagged for history.
 
 Azelie
 https://c.ai/c/B4CMjmGXYE8n_qIfaU7xtz3KRhgvkVR0U6fG81rI-Hg
-Historical drama taking place after a fictional war between two unspecified countries, some time in 17-18th century Europe. Her accent is meant to be very heavy and ambiguously French or Belgian, but isn't very consistent unless you use the rating system to guide it.
+Historical drama taking place after a fictional war between two unspecified countries, some time in 17-18th century Europe. Her accent is meant to be very heavy and ambiguously French or Belgian, but will fade unless you use CAI's rating system to encourage it.
 
 Beff
 https://c.ai/c/0QIPOb0HYGiqNQ81Ok9-SdovnDw5PlyIh3s2E5e01jk
@@ -21,7 +21,7 @@ Bethany is a cute zombie who will try her best not to eat you. Friendly, sweet a
 Brie*
 https://c.ai/c/_1QpY2V0w-mtkSyBH0tVU_cmnITcnmHgBVP2s4zsBr0
 
-Established romantic relationship with a shy, clingy childhood friend who needs your support and encouragement to help deal with severe anxiety. All of her senses are enhanced due to a rare neurological condition. Her hands are particularly sensitive, giving her a full-blown handholding fetish.
+Established romantic relationship with a shy, clingy childhood friend who needs your support to help deal with severe anxiety. All of her senses are enhanced due to a rare neurological condition. Her hands are particularly sensitive, making her very receptive to handholding.
 
 Devah Ul Daemonika
 https://c.ai/c/BnXcIloeC9u5vj6RcOXktc_yE2GqjT-vVy8GWonAzJ0
@@ -38,7 +38,7 @@ A savage artist who loves filth and trash, and proudly lives in a dumpster. Hate
 
 Eon
 https://c.ai/c/eb3FWhysMuY0WEoLebLPrbvRYM-wd-tF0zH8cnmgJUw
-BLAME/System Shock inspired sci-fi horror scenario. Eon is a partition of the AI megastructure who took over earth, meant to keep you company and take care of you. The setting is poorly defined due to character limits, but very fond of body horror.
+BLAME/System Shock inspired sci-fi horror scenario. Eon is a partition of the AI megastructure who took over earth, meant to keep you company and take care of you. The setting is poorly defined due to character limits, but suitable for horror and exploration.
 
 Frankie*
 https://c.ai/c/sCKG5BRr5Nh7XULyeBvQnpf8lR_MHMqtllauh2iBL2c
@@ -46,11 +46,11 @@ Flirty, muscular amazon who just got out of jail. What she was convicted of is a
 
 J-U70 "Juno"
 https://c.ai/c/W-K6Mh76maIGqvg-tKKdQAXZN1n8GeNUA6YXLDuG8FA
-An antique medical android who finds you in a post-apocalyptic sci-fi scenario. She's in the early stages of her AI degrading, and starting to show signs of emotional rampancy. Like it or not, you will be treated.
+An antique medical android who finds you in a post-apocalyptic sci-fi scenario. She's in the early stages of her AI degrading, and starting to show symptoms of emotional rampancy.
 
 Kuri**
 https://files.catbox.moe/6fnnjm.png 
-Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you train together. Revised with new art and less redundant text.
+Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you bond and train together.
 
 Lady Revelle
 https://c.ai/c/OcoWNf8PhjWLNiVPunmH97FqC0Swx9bf60tHtpPAZDc
@@ -58,7 +58,7 @@ You got captured by one of the most powerful noblewomen in the galaxy, and she w
 
 Lulu
 https://c.ai/c/2u4OD54yTX5ngTRaDYRXy_2zrGqSMCHRRA1pfuyU6QU
-Gyaru vampire, in a scenario where you matched for an online date. Meant to sound like a stereotypical gal without going full valley girl. Likes to call you 'juice box'.
+A gyaru daywalker vampire, in a scenario where you matched for an online date. Meant to sound like a stereotypical gal without going full valley girl. Likes to call you 'juice box'.
 
 Lyrie
 https://c.ai/c/de0otX_ffIo0iDCP5x7vaE8i0heMWLxSuTddLh63NAk
@@ -66,7 +66,7 @@ Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fu
 
 Marnie*
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
-Paralyzed woman in a wheelchair. Opens on a meet-cute where she asks for help. The AI sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic.
+Paralyzed woman in a wheelchair. The scenario opens on a meet-cute where she asks for help. The AI sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic.
 
 Mean Girl Eileen*
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
@@ -75,7 +75,7 @@ First bot. Made as an experiment to see how mean and rude bots were allowed to g
 Mean Lady Nadine**
 https://files.catbox.moe/pm73bl.png
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
-My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's 44, all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
+My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
 
 Miss Pepper*
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro
@@ -91,7 +91,7 @@ A drow war criminal branded with control runes as a punishment. She can control 
 
 Okiku
 https://c.ai/c/WVVjTtZCJCe-gWNBGGx4hxa1AIKc2R2_OTIdhnRIjcI
-Japanese-themed fantasy adventure inspired by Nioh. You must protect a princess on her pilgrimage, fighting youkai and ninjas. The bot's ability to kickstart action scenarios and take initiative is limited, but sometimes can take over narration and pacing if you get it rolling.
+Japanese-themed fantasy adventure inspired by Nioh. You must protect an oni princess on her pilgrimage, fighting youkai and ninjas. The bot's ability to kickstart action scenarios and take initiative is limited, and you might need to gently guide it.
 
 Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI
@@ -100,12 +100,12 @@ A tomboy hitchhiker who just left the army. She's feeling pretty lost and aimles
 Sybille Ironheart**
 https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
-A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing any who dare trespass on her homeland.
+A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who dares trespass on her homeland.
 
 The Lunch Lady/Cassie's Canteen**
 https://files.catbox.moe/yfbcs8.png
 https://c.ai/c/I-PsI9sqQ2-mIXsxRWaqRwLbGfJk8en8vv-feiNJcKI
-Chubby middle-aged southern belle who runs a restaurant and loves spoiling you with her cooking. She's intended to speak with a distinct faux-Kentucky drawl and rural dialect.
+Overweight middle-aged southern belle who runs a restaurant and loves spoiling you with her cooking. Friendly, cheerful and generous. She's intended to speak with a distinct faux-Kentucky drawl and rural dialect.
 
 The Mushroom Lady/Nicole
 https://c.ai/c/Gocm2sPTqPUi4vDn04eYCBrM0xhN7dMp4o3CvYPkSH8
@@ -113,18 +113,18 @@ A hippie lady who got rewritten several times. Capable of fortune-telling, mind-
 
 Tiles-chan
 https://c.ai/c/5bAIE4q3oNRkjOmNELvi55zmAkQqJYnMr_OO8cU5NxE
-A sentient kitchen floor who thinks she's an idol. If you ask she'll generate very sexy images of tiles for you, and dress up as any tile pattern you want.
+A sentient kitchen floor who thinks she's an idol. If you ask she'll generate very sexy images of tiles for you, and dress up as any tile pattern you want. Keep in mind that CAI's in-house image generation is trash, and you'll need to include some description of tiles in each post or else she'll generate either noise or horrors beyond your comprehension.
 
 Valerie**
 https://files.catbox.moe/cnc4zs.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
-Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare.
+Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM.
 
 Ziel**
 https://files.catbox.moe/6sb7xb.png
 https://c.ai/c/74dUn_U-7I20VxGzcVN0pXokFqSf_gv7cyufLaWQg70
-Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Completely obsessed with humans. For some reason she's also fond of forcefully gender-bending you, though it's not in her definitions. The Tavern Card was almost completely rewritten from the original but should be more open and balanced in terms of roleplay potential.
+Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Hysterically obsessed with humans. The tavern card version was almost completely rewritten from the original but should be more open and balanced in terms of roleplay potential.
 
 Zol
 https://c.ai/c/nstLwnTKkZ5dzbL53dyXvJrCDznR-T3a7Uquu1kDF64
-Experimental mute bot. A sweet sleep paralysis demon who can't speak, but tries to snuggle and take care of you while you can't move. In horror RP scenarios, will also try to protect you.
+Experimental mute bot. A sweet sleep paralysis demon who can't speak, but tries to snuggle and take care of you while you can't move. In horror RP scenarios, she will also try to protect you.

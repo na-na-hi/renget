@@ -98,10 +98,6 @@
 - Software, movies, games, ebooks, TV shows, and music are all distributed through magnet links by this torrent aggregator.
 - [URL Safety Results](https://www.urlvoid.com/scan/magnetdl.com/)
 
-### 🐐 [RARBG](https://rarbg.to/torrents.php)
-- From its inception in 2008 and still going strong, the project has served a worldwide audience with a wide range of media material.
-- [URL Safety Results](https://www.urlvoid.com/scan/rarbg.to/)
-
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Russian UI
 - Prominent warez forum with news, discussions about many media genres, torrents, and magnet links is also available for downloading.
 - [URL Safety Results](https://www.urlvoid.com/scan/rustorka.com/)

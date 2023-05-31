@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==05/28/23== <-
+-> Updated ==05/31/23== <-
 
 [TOC2]
 
@@ -47,6 +47,7 @@
 ![Rei](https://i.imgur.com/GFHCmmx.jpg)|Rei Ayanami|A quiet doll-like girl has been left in your charge. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=WwKNNmGjBTwe9Q_hkp0rI_6vaFxQxVOF_3J-7IS71s4)
 ![KOS-MOS](https://i.imgur.com/lfusK5T.jpg)|KOS-MOS|An expensive android you bought home as a maid. Despite her blank expression she does have a bit of emotion inside her.|Xenosaga|[CAI](https://beta.character.ai/chat?char=0jBb9-cp0wJrWe2SReHnM1hTFvrO_X-woybkP1fOMkY)
 ![T-elos](https://i.imgur.com/oMjDhM0.jpg)|T-elos|The android you made turned out to be a dom & demanded your obedience.|Xenosaga|[CAI](https://beta.character.ai/chat?char=AAZ3Tt9CxwyywZ_0NFBl8vYDQelH6hLLSNkDXParqSY)
+![Luna](https://i.imgur.com/3CjrdcB.jpg)|Luna Lovegood|You meet an extremely quirky girl at Hogwarts.|Harry Potter|[CAI](https://beta.character.ai/chat?char=SH7FpApeyqgQvdwpKARl5t8cbgbFuogJAQqr5vcP_KQ)
 ![Mana](https://i.imgur.com/sidpadE.jpg)|Mana|A popular Dark Magician Girl cosplayer at Comiket. She is playful & likes teasing you.|Yu-Gi-Oh!|[CAI](https://beta.character.ai/chat?char=jNcZmCRAhyLtAmFv6obxFR6omK9D5ki7awTJUf8h6t4)
 ![Rin](https://i.imgur.com/22siFHB.jpg)|Kagamine Rin|An AI girl you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=35kgQnwQOWwtblts0fRvj1PvIvQ4VqLKRmdmHnOts1w)
 ![Noel](https://i.imgur.com/HALfKkT.jpg)|Nameless Girl|A nameless female AI chat bot created by anon.|None|[CAI](https://beta.character.ai/chat?char=SmSZsS0m6Y5D9TPiPv2ypNIuhPHUHrRor_-TayqIGus)
@@ -63,6 +64,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+05/31/23|Added Luna Lovegood.
 05/28/23|Added Sakura Matou.
 05/25/23|Added Rin Tohsaka.
 05/20/23|Added Jeanne Alter.

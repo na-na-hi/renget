@@ -23,8 +23,7 @@ You will likely need a VPN to download torrents to avoid receiving Copyright not
 - [1337X](https://1337x.to/) - Do not download torrents uploaded by IGG games.
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
 - [NXMAC](https://nxmac.com/)
-- [RARBG](https://rarbg.to/)
-- [RuTor](http://www.rutor.info/)
+-  [RuTor](http://www.rutor.info/)
 - [RuTracker](https://rutracker.org)
 - [Rustorka](http://rustorka.com/)
 - [Tapochek](https://tapochek.net/index.php)
@@ -54,6 +53,7 @@ Direct Downloads are any normal download. You download the file from a server th
 - [SCNLOG.ME](https://scnlog.me/)
 - [SKlauncher](https://skmedix.pl/sklauncher) - for Minecraft.
 - [SteamRIP.com](https://steamrip.com/)
+- [Torrminatorr](https://forum.torrminatorr.com)
 
 ###Trainers (Cheats):
 Note: these are not for online games. Do not use cheats in online games!

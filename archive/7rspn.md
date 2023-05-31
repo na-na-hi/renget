@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Lancet versus Buk-M1 air defense system
+https://files.catbox.moe/oqzbf1.mp4
+>POV under fire from BM-21 Grad MLRS
+https://files.catbox.moe/a9pkmi.mp4
+>Wagner combat compilation
+https://files.catbox.moe/m1br8e.mp4
 >Gosha, the combat kitten
 https://files.catbox.moe/pqb9ex.mp4
 >кyкyшкa Kukushka Cuckoo (comfy metro cover)

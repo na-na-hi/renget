@@ -78,6 +78,7 @@
 05/2023|[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
 05/2023|[Scaling Speech Technology to 1,000+ Languages](https://archive.ph/pRSo5)
 05/2023|[READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
+05/2023|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -230,6 +231,7 @@
 05/2023|[Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342)
 05/2023|[Landmark Attention: Random-Access Infinite Context Length for Transformers](https://arxiv.org/abs/2305.16300)
 05/2023|[Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
+05/2023|[Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

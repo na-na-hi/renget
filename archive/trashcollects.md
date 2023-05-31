@@ -189,6 +189,8 @@ If you make some cool gens with these, feel free to post them over on the Crossk
 ### Fluffusion
 [![Fluffusion Protoype r10 e7 640x](https://files.catbox.moe/7d1t7y.png)](https://files.catbox.moe/qkvf3r.png)
 
+Direct DL link from CivitAI for r1 e20: https://civitai.com/api/download/models/80182?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
 Seperate Fluffusion rentry maintained by the model author (?): https://rentry.org/fluffusion
 
 Below are links to the Prototype r10 e7 model; you probably won't need it, but it's here for posterity.

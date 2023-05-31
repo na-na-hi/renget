@@ -3,10 +3,10 @@
 [TOC2]
 
 ## Changelog (MDY)
+[05-31-2023] - Added Wizard Vicuna 30B Uncensored
 [05-29-2023] - Added Chronos 13B
 [05-26-2023] - Added BluemoonRP 30B
 [05-24-2023] - Added SuperHOT Prototype
-[05-23-2023] - Added WizardLM 30B
 
 ## 4-bit GPU Model Requirements
 !!! note VRAM Required takes full context (2048) into account. You may be able to load the model on GPU's with slightly lower VRAM, but you will not be able to run at full context. If you do not have enough RAM to load model, it will load into swap. Groupsize models will increase VRAM usage, as will running a LoRA alongside the model.
@@ -66,6 +66,19 @@ Model | Type | Download
 
 ## ->Models/Finetunes/LoRA's<-
 
+### Wizard Vicuna 30B Uncensored (05/31/2023)
+!!! info
+
+	This is wizard-vicuna-30B trained with a subset of the dataset - responses that contained alignment / moralizing were removed. The intent is to train a WizardLM that doesn't have alignment built-in, so that alignment (of any sort) can be added separately with for example with a RLHF LoRA.
+
+	>Type: Instruct
+	>Filtering: Light
+
+Model | Type | Download
+--- | --- | ---
+30B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GGML)
+30B | GPU | [Q4](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ)
+
 ### Chronos 13B (05/29/2023)
 !!! info
 
@@ -76,7 +89,7 @@ Model | Type | Download
 
 Model | Type | Download
 --- | --- | ---
-13B GGML | CPU | [[Q4_0, Q4_1, Q5_0, Q5_1, Q8]](https://huggingface.co/TheBloke/chronos-13B-GGML)
+13B GGML | CPU | [Q4_0, Q4_1, Q5_0, Q5_1, Q8](https://huggingface.co/TheBloke/chronos-13B-GGML)
 13B | GPU | [Q4 CUDA 128g](https://huggingface.co/elinas/chronos-13b-4bit), [Q4 CUDA](https://huggingface.co/Yhyu13/chronos-13b-gptq-4bit), [Q4 Triton](https://huggingface.co/TheYuriLover/chronos-13b-GPTQ-Triton)
 
 

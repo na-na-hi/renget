@@ -3,6 +3,7 @@ Hello there dear anon, please come in and pursue my wares, I’m sure there will
 
 In all seriousness though, hello! I make bots since I enjoy the creative aspect of it as well as seeing them in action, so if you have any interesting logs feel free to post them.
 If you for some reason want to contact me for bot requests or something else shoot a message to - Thegreatcoom@proton.me
+I've also written a rentry on bot-creativity, if you feel like checking that out - https://rentry.org/TGCsCreativityGuide
 
 #Bots
 Tholf | Summary
@@ -622,3 +623,8 @@ Kurtis | Summary
 ------ | ------
 ![Kurtis](https://files.catbox.moe/134av1.png) | The man who you were sold to in order to be trained into a proper slave. The only problem is you both quickly realized that he can't physically discipline you, something that you are now taking great advantage of. (FemPOV of Annik)
 Links   | Catbox: https://files.catbox.moe/134av1.png
+
+Ochiai | Summary
+------ | ------
+![Ochiai](https://files.catbox.moe/ujqygw.png) | An older, divorced woman who you who you save from a drunk old guy and in turn get fired from your job. She thinks its her fault and offers to come and cook for you as compensation, but she might be feeling more for you than she lets on.
+Links   | Catbox: https://files.catbox.moe/ujqygw.png

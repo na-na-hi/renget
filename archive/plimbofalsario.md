@@ -11,3 +11,6 @@ beat coolrash in dota 2
 Sexuality: Bisexual, can change between plumber and princess or monsters at will
 he will appear in friday night funkin mod marmadmerge (when it starts developmen ((no i am not giving him other media stop asking : ) ) ) )
 His favorite pizza is hawaiian pizza.
+
+
+upd: i suddenly decided that he is no longer impasta take and is his own mario now: )

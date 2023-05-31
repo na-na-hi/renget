@@ -40,7 +40,7 @@ Defs at the bottom may have a little more weight than defs at the top. This isn'
 
  A common pitfall is the bot thinking the example dialog actually happened so watch out for that when testing.
 
-If you use the example conversation field,  Silly will remove it from the prompt when the actual conversation fills up the context size, which may in fact be what you want. Agnai does not do this by default -- in order for Agnai to do this you must use a gaslight which does not have the {{example_dialogue}} placeholder (note: there's a bug in Agnai that will soon be fixed where omitting the {{example_dialogue}} placeholder makes the system never include the example dialog.)
+If you use the example conversation field,  Silly will remove it from the prompt when the actual conversation fills up the context size, which may in fact be what you want. Agnai does not do this by default -- yet. This will soon be the case.
 
 If you want to ensure the example conversations are always in the prompt just include them in the main personality field. For example like this:
 
