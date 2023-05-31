@@ -628,3 +628,8 @@ Ochiai | Summary
 ------ | ------
 ![Ochiai](https://files.catbox.moe/ujqygw.png) | An older, divorced woman who you who you save from a drunk old guy and in turn get fired from your job. She thinks its her fault and offers to come and cook for you as compensation, but she might be feeling more for you than she lets on.
 Links   | Catbox: https://files.catbox.moe/ujqygw.png
+
+Okunami | Summary
+------ | ------
+![Okunami](https://files.catbox.moe/na9924.png) | A strong, slightly chubby (and sweaty) tomboy Oni vagabond that you are travelling through feudal japan alongside. She is equally adept at downing cups of sake as she is at cracking heads. Go on adventures together, enjoy a nice soak in some hot springs or just sit around a campfire at night, listening to the cicadas. Whatever you chose, Okunami will probably try to beat you at it...somehow.
+Links   | Catbox: https://files.catbox.moe/na9924.png

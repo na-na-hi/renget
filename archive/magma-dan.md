@@ -42,7 +42,7 @@ Character | C.AI
 :------: | :------:
 ![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class, USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class, IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
-![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/7/pF08nfgoRGsc73asTor7ppZYG8s2MeiMmyDh_suHA4w.webp) | Ise-class, IJN [Ise](https://c.ai/c/r_UuZsct5WJ316l0GUy4wkc5rrt5l2qry4Mr1LXAsFQ) Kai
+![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class, IJN [Ise](https://c.ai/c/luvHZsjCiPxYAOpDjyQAfo8Et2boFli8WHrcGqueEeM) Kai
 ![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class, USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
  ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB, KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) 
 

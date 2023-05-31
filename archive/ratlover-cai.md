@@ -227,6 +227,13 @@ A squirrelgirl who's hellbent on making you exercise. You aren't going to disapp
 [JSON](https://files.catbox.moe/ixeyf2.json)
 Bunnygirl who is also your loving partner. Loves warmth, especially the warmth she gets from cuddling up to you.
 
+##Lydia
+![Lydia](https://imgur.com/nRtiV06.png)
+[CAI](https://beta.character.ai/chat?char=0S-5hAObhk-7g3bJYXk1OnYkwZzf1QQ4muYKEtO4QGY)
+[Card](https://www.chub.ai/characters/ratlover/Lydia)
+[JSON](https://files.catbox.moe/mozzwn.json)
+Overworked wolfgirl GP whom you're in the care of. 
+
 #Other
 ##The Imperial Census
 ![The Imperial Census](https://imgur.com/zcSc15U.png)

@@ -4,19 +4,22 @@ The essentials:
 1. Parts and builds
 2. Flying technique essentials
 3. Camera tracking
-More advanced techniques:
+
+More advanced techniques and knowledge:
 4. Countering meta builds
-5. Gunnery
-6. Special Weapons and how to use them
-7. Stealth
-8. Scoring system explanation
+5. PSM essentials (thanks OriGinS, Ali, and Trinity!)
+6. Gunnery
+7. Special Weapons and how to use them
+8. Stealth
+9. Scoring system explanation
+
 Goodies:
-9. /aceg/-approved builds
-10. Miscellaneous
+10. /aceg/-approved builds
 
 -----------------------
 
 1. Parts and builds
+
 Before you start playing multiplayer in earnest, set your control scheme to expert and unlock the following parts (listed in order of importance). It's genuinely more important than getting more planes.
 >High-Speed Datalink Antenna (MSL Homing ++)
 >Thrust-Adjusting Steering Device 2 (MSL) (MSL Homing+)
@@ -41,6 +44,7 @@ Cutting-Edge Large Flap 2 is also one of the reasons why it's important to look 
 After that's done, we can get to the fun part.
 
 2. Flying technique essentials
+
 >look up your plane's ideal cornering speed in the datasheet ***(https://pastebin.com/6Uh45geR)*** and try to stay in that range, and don't slow down excessively
 Every aircraft's got a range of speed where it will turn best, and knowing that will allow you to get the most out of your plane's performance. Even a mediocre aircraft will be a menace if flown right. Do keep in mind that flying too slow will make you an easier target for incoming missiles. as will PSMing.
 >if you're not building up speed to get back to your ideal cornering speed, use high-G turns; and for the love of god, do not fly straight!
@@ -72,6 +76,7 @@ PSMs (post-stall manoeuvres like the Kulbit and Cobra) are an extremely powerful
 Gravity does affect your aircraft and factors in your acceleration/deceleration. You can pull tighter turns if you decelerate while climbing, because it will slow you down more than just using your airbrakes, and you'll accelerate faster when you dive. This can be used in turnfights too: if you're dogfighting on the vertical, high-G while your nose is pointing up, accelerate when it's pointing down. This will tighten your turn radius and allow you to regenerate speed faster for more high-G turning. 
 
 3. Target-tracking camera
+
 Accessed by keeping the "change target" button pressed on controller, or the one referred to as "highlight target" in the keyboard control options, this feature will allow you to keep your view centred on your current target at all times. It works best in third person, as first person's view angle is constrained by the cockpit.
 There are many advantages to using it, namely
 >being able to track your target at all times, you will always be aware of your target's current heading, infer where it's going to turn, or see if he's trying any funny shit with PSMs
@@ -79,6 +84,7 @@ There are many advantages to using it, namely
 Do keep in mind that your general situational awareness is slightly reduced when you're using it, which is the price you pay for much better awareness on that single enemy; don't crash while trying to follow someone!
 
 4. Countering meta builds
+
 The unholy trinity of QAAM/EML/SASM are a pain in the ass, but even they can be beaten with some subterfuge and specific builds. They will still have the advantage, and a meta user will still give you a hard time if he's got half a thought going through his head, but goddamn if beating them doesn't feel good. The first two in particular will be your biggest problem.
 >EML
 The elephant in the room. Oneshot, no warning, and it's got a busted hitbox. When we say the hitbox is stupid, this is what we mean: https://arch-img.b4k.co/vg/1654815510647.webm . To top it all off, it is always mounted on PSM-capable planes. Your overall chances of winning a fight with an EML user depend on the gamemode, the presence of other players, and most importantly the enemy's turning ability. We will assume the worst possible case: a 1v1 against an EML-02. It's fast, it's manoeuvrable, it PSMs.
@@ -134,14 +140,45 @@ The same trick described multiple times in this guide works even in a close figh
 >try to get a different angle and try again
 If you simply cannot hit the target, then use your current advantage to reposition yourself for an easier shot.
 
-5. Gunnery
+5. PSM essentials (thanks OriGinS, Ali, and Trinity!)
+
+Post-stall manoeuvres (PSMs) allow your plane to ignore the concept of angle of attack, plus reposition as you'd like, allowing you to outturn otherwise more manoeuvrable opponents. They are powerful in a one-on-one engagement, but you are vulnerable while you're in the middle of the manoeuvre, so you'll need to always stay alert to avoid getting fucked up. PSM-capable planes are divided in two categories (which can be viewed in the datasheet ***(https://pastebin.com/6Uh45geR)*** : half-PSM (which can only pull off Cobra manoeuvres at most without chaining) and full-PSM (which allow you to PSM for longer). A good rule of thumb is that if the plane is PSM-capable but not fitted with thrust-vectoring nozzles, it's a half-PSM plane (Su-34, non-Top Gun F/A-18, ADFX-01).
+Before starting, set your controls to expert (as you always should) and your High-G Turn Settings to Type B. This will make them easier to initiate and pull off.
+With that done, this is how you initiate a PSM:
+>stay around 400 to 500 kph
+>hold the acceleration button (throttle up)
+>press brake + pitch up
+And congrats, you're in a PSM. When you want to stop the PSM ("cancel" it),
+>pitch down
+And you will return to normal flight, cancelling the PSM in whatever state it is.
+For reference, PSMing will be divided in phases depending on the plane's current behaviour. The phases are called ***Drift*** and ***Boost***. Drift is the initial part, when you're moving in a straight line (the same direction you were going towards before starting the PSM) but can turn the plane's nose to your liking except downwards (allowing you, for instance, to plan your next move or line up for guns), and lasts until you've turned more than 90 degrees. Boost follows immediately after, and is the phase where the plane will start to move towards the direction your nose is currently pointing at. When boosting, you'll be accelerating very fast while maintaining the enhanced mobility (thus "boosting"). Drifting is mostly a setup step (for either a shot or a following move), while Boosting is what allows you to really outturn someone. 
+You'll notice that while the plane's nose can turn extremely quickly, the aircraft itself is going straight until you've rotated more than 90 degrees, after which you'll start to move towards the direction you're pointing at. This is the main limitation of PSMs: while you can outturn anything else in a duel, you will be vulnerable to players outside said duel, who can shoot at you with impunity. This also means that if you PSM while the enemy is directly behind you, the only thing you'll get is a missile up your arse.
+>do not PSM if the enemy has a good angle on you, you'll be a sitting duck
+>never PSM if you've got someone close behind you
+>be careful if someone is packing HVAAs or multi-lock weapons
+A way to make PSMs even more powerful is ***Chaining***, which is basically making a combo out of PSMs. It works like this:
+>initiate a PSM normally
+>cancel once (this can be done at any point) or wait for the PSM to end naturally
+>quickly PSM again
+You can repeat this process as often as you want, as long as you're still below 500 kph to initiate the PSM again. ***REMEMBER***: your throttle still works while you're in the PSM, so you can manage your speed to your liking while in the manoeuvre!
+PSM chaining allows you to do things such as fly backwards (BKF), plus benefit from the effects of PSMing for longer. As such, by chaining, you can keep the advantages of a PSM for as long as you want. There is literally no disadvantage, beyond the usual ones that come from simply fighting at slow speeds - and even then, due to PSMing being weird, enemy missiles may become retarded and miss you anyway (still, don't count on it). 
+BKF is useful because it allows you to keep your nose pointed at the opponent while actually moving away from him, so you might get a shot off (gun or missile) while in a position of relative safety.
+To BKF:
+>PSM normally
+>turn until you're going backwards
+>cancel, then immediately initiate another PSM (after all, you're chaining)
+>keep chaining as long as you like
+
+6. Gunnery
+
 Ace Combat 7's guns are misunderstood. Their range is 1700 metres, more than what the gunsight shows you, and they're capable of handily destroying any target with a sustained burst. They are as powerful as the gunsight is unsuitable for dogfighting. Think of it as a WW2-era gyro sight: it shows the right direction to lead your shot, but you need to lead your target a lot more than what it shows you in order to hit. A far more intuitive way to aim is to take advantage of your infinite ammo and "walk your fire":
 >see where the tracers are going
 >apply a correction accordingly
 >watch as the enemy is shredded in less than two seconds of sustained fire
 If you do find the pipper to be more convenient, then a good rule of thumb in a turnfight is to use the edge of the pipper as an initial reference instead of the central dot, and lead the target even more than that, roughly twice as much as the reticle tells you.[more coming soon]
 
-6. Special Weapons and how to use them
+7. Special Weapons and how to use them
+
 Unless you're in a Sp.W off room or your plane doesn't get good Sp.Ws, you will do most of your work using Special Weapons. They differ greatly in behaviour, so you'll need to adjust your playstyle to employ them most effectively.  
 >4AAM
 Unfortunately, 4AAMs are not particularly manoeuvrable and they get a debuff to homing for the first second after launch, so they'll suck at close range. You can only really use them against furballs that are unaware of you, and having only four at a time won't help much with clearing them. Lob them at the furball as you close in with your standard missiles and guns. Upgrading them feels like a waste to me, considering that they don't hit often.
@@ -164,7 +201,8 @@ Sniper central. Like PLSL, clouds are your biggest enemy. Unlike PLSL, using TLS
 >EML, QAAM, SASM
 Don't.
 
-7. Stealth
+8. Stealth
+
 Ḯ̸̧̖̠̗̍̉̌ ̶̺͇̗͐̿S̸̢̨̰̟͌͋́̕Ē̴̛̳̟͍͘ͅE̷͖̗̬͙̾ ̵̭̟́̌Y̵̞̺͕͚̋̇O̸͚̼͎͑̂̋̽U̶̲̍̂̚
 In AC7, stealth works through levels, from 0 to 10, that increasingly affect the enemy's ability to spot you on radar. Stealth will affect enemy detection by:
 >hiding you entirely at a distance
@@ -180,7 +218,8 @@ The distance at which your target box is fully shown to the enemy on his HUD. Be
 The size of the cone behind the enemy where you will be invisible to him. If your level is high enough, it may even cause the enemy to lose track of you after passing him during a close dogfight, potentially giving you a moment to surprise him.
 Stealth is mostly used in BVR builds (LAAM and HVAA) to make hunting them down more difficult- after all, it's hard to kill the guy who shot you if you can't even see him. Adding range parts to these Sp.Ws will make this strategy even more effective, potentially allowing you to fire your weapons beyond the enemy's radar range. However, no matter what you do, you WILL pop up on everyone's radar for a second when you fire any weapon (including your gun!), so these builds rely on surprise and an extremely cautious playstyle, often turning tail the moment someone figures out where they are and comes for their blood.
 
-8. Score system explanation
+9. Score system explanation
+
 >Every player has a base score value based on the cost rating of their aircraft. The exact cost/score table can be found here: https://arch-img.b4k.co/vg/1656114430836.png
 >However, the actual amount of points you get is scaled based on the ratio of your aircraft cost to that of the other players. Flying a higher cost aircraft will reduce the points you receive, and conversely flying a lower cost aircraft increases the points you receive. For instance, if you destroy a plane that has 300 cost less than you do, 95% of the original score calculated is given.
 
@@ -219,7 +258,7 @@ So even if the scoreboard in TDM is:
 >Alpha 2 2k
 Then Alpha 3 will still have 2 stars, and Alpha 4 will have 1, despite all of Bravo outscoring them. However, low scoring players can still contribute by tying up enemies, evading their attacks and not giving out points, while their teammates hit those enemies while they're distracted.
 
-9. /aceg/-approved builds
+10. /aceg/-approved builds
 The buddies have come up with many builds and tactics to use them effectively, focusing on making them enjoyable to use without sacrificing strength in a fight. Included here are the main weapons used by the build, the buddies' remarks on how to employ these planes, and the reasoning behind their choice of parts. The builds listed here are sorted by increasing CST.
 **Remember: many of these builds can be applied to a good variety of aircraft!**
 

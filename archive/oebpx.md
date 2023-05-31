@@ -524,3 +524,39 @@ With a nod of gratitude, I bid farewell to Fyol, his words echoing in my heart. 
 Walking through the sandstone streets, I carried with me the weight of Fyol's wisdom and the profound realization that life, like the desert, holds infinite possibilities for growth and self-discovery. I vowed to navigate the shifting sands with grace and resilience, ready to embrace the lessons that lay ahead on my journey.
 
 And so, with renewed determination, I ventured forth, ready to face the challenges that awaited me, guided by the wisdom bestowed upon me by the esteemed Scholar of the sand people, Fyol.
+
+>026: THE KAKOUBA
+
+After I met with Foyol The scholar of The Sand People, i went back to Razina's place and found both Rebel the sand cat and Oliya The cheetah there,  the three Kash'goon warriors were getting ready to start a special traditional ritual and course i was curious to know more about this.
+
+Rebel started Explaining the ritual saying "It's a ritual to FILTER the soul from bad luck and evil thoughts and old memories."
+
+"After the ritual, every people will feel much stronger and won't feel any fear of some creatures around," Razina added.
+
+i was impressed and I wanted to be part of the ritual so i asked them if i could join them and as soon as i said that i felt a little discomfort from Razina as she didn't want me to share this experience with them but before she was able to say anything Oliya accepted and invited me to join which i think made Razina a little mad.
+
+after i sat between the buff Sand cat and lanky Cheetah they started Explaining the Ritual to me
+
+"fax'csh" is a ritual where you drink a special hallucinogenic drink that will make you feel and see true thoughts and emotions," Rebel explained. "It's called Kakouba, and it has been passed down through generations."
+
+As the three warriors prepared the Kakouba, I couldn't help but feel a mixture of excitement and apprehension. The idea of delving into the depths of my own psyche, uncovering hidden truths and confronting my deepest fears, stirred a sense of curiosity within me. But at the same time, the prospect of facing my own vulnerabilities and uncertainties was undeniably daunting.
+
+The drink was served in small ornate cups, emitting a faint aroma of exotic herbs and spices. I took a deep breath, gathering my resolve, and raised the cup to my lips. The liquid was warm and tingling, and as it made its way down my throat, a wave of heat surged through my body.
+
+Almost immediately, I felt a shift in my perception. Colors intensified, sounds became more vibrant, and my senses seemed heightened. The world around me took on a dreamlike quality, as if reality had blurred at the edges. I could feel the Kakouba working its magic, unraveling the layers of my consciousness.
+
+My thoughts began to swirl, memories and emotions rising to the surface like a turbulent whirlpool. Images flashed before my eyes, snippets of my journey from Axillion to the sand people, each carrying its own significance and weight. I found myself reflecting on the challenges I had faced, the friendships I had formed, and the growth I had experienced along the way.
+
+But amidst the kaleidoscope of memories, doubts started to creep in. Was my journey truly meaningful? Had I made a difference? These questions echoed in the depths of my mind, triggering an existential crisis. I grappled with the purpose of my quest, questioning the significance of my actions and the impact they had on the world around me.
+
+As I delved deeper into my own psyche, my thoughts became entangled in a web of uncertainty and self-doubt. The weight of my experiences bore down on me, causing my brow to glisten with sweat. The Kakouba had stirred something within me, a restless introspection that threatened to consume me.
+
+I glanced around at Rebel, Oliya, and Razina, their faces blurred by the haze of the Kakouba-induced visions. They seemed distant, their presence both comforting and distant at the same time. In that moment, I realized that my journey, though fraught with doubts and uncertainties, had brought me into contact with incredible individuals, each with their own struggles and triumphs.
+
+As the effects of the Kakouba began to subside, a newfound clarity washed over me. I understood that the answers I sought were not to be found in grand gestures or monumental achievements, but in the moments of connection, growth, and self-discovery I had experienced along the way. My journey had shaped me, molded me into someone capable of facing challenges and embracing the unknown.
+
+With a renewed sense of purpose, I looked at my companions, their gazes filled with understanding. In their eyes, I saw resilience, determination, and a shared understanding of the complexities of life. I realized that we were all on our own journeys, navigating the sands of existence, searching for meaning and purpose.
+
+The ritual had brought me face to face with my own doubts and fears, but it had also shown me the strength and resilience that lay within me. As I stood up, my legs slightly unsteady, I felt a newfound sense of acceptance and self-assurance. The Kakouba had stripped away the layers of pretense, allowing me to see myself in all my flawed beauty.
+
+And so, with the echoes of the Kakouba still reverberating in my mind, I embarked on the next chapter of my journey, ready to face the unknown with a heart filled with newfound understanding and a spirit fortified by the wisdom of the sand people.

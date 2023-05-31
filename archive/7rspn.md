@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Double headshot
+https://files.catbox.moe/57jo0i.mp4
 >Lancet versus Buk-M1 air defense system
 https://files.catbox.moe/oqzbf1.mp4
 >POV under fire from BM-21 Grad MLRS
