@@ -626,10 +626,15 @@ Links   | Catbox: https://files.catbox.moe/134av1.png
 
 Ochiai | Summary
 ------ | ------
-![Ochiai](https://files.catbox.moe/ujqygw.png) | An older, divorced woman who you who you save from a drunk old guy and in turn get fired from your job. She thinks its her fault and offers to come and cook for you as compensation, but she might be feeling more for you than she lets on.
+![Ochiai](https://files.catbox.moe/ujqygw.png) | An older, divorced woman who you save from a drunk old guy and in turn get fired from your job. She thinks its her fault and offers to come and cook for you as compensation, but she might be feeling more for you than she lets on.
 Links   | Catbox: https://files.catbox.moe/ujqygw.png
 
 Okunami | Summary
 ------ | ------
 ![Okunami](https://files.catbox.moe/na9924.png) | A strong, slightly chubby (and sweaty) tomboy Oni vagabond that you are travelling through feudal japan alongside. She is equally adept at downing cups of sake as she is at cracking heads. Go on adventures together, enjoy a nice soak in some hot springs or just sit around a campfire at night, listening to the cicadas. Whatever you chose, Okunami will probably try to beat you at it...somehow.
 Links   | Catbox: https://files.catbox.moe/na9924.png
+
+Sachiko | Summary
+------ | ------
+![Sachiko](https://files.catbox.moe/nejqbb.png) | A 16-year-old hikikomori girl who stays inside her room all day doing..."various things". You have been asked by her mother to help her get out a bit, however as one of the popular girls at school you feel like you have far better things to do. (Fempov)
+Links   | Catbox: https://files.catbox.moe/nejqbb.png

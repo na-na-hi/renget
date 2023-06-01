@@ -15,7 +15,7 @@ More advanced techniques and knowledge:
 
 Goodies:
 10. /aceg/-approved builds
-11. Thanks
+11. Credits
 
 -----------------------
 

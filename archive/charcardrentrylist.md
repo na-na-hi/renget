@@ -10,33 +10,36 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
-[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
-[!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
-[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
+[!] [Scrimbly](https://rentry.org/scrimb) | Misc | English
+[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
+[!] [Phalannex](https://rentry.co/phalannex) | Misc | English
+[!] [Superderp64](https://rentry.org/derpbots) | Touhou / Misc | English
+[!] [AIC Industries](https://rentry.org/aicin) | Maids | English
+[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
+[!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
+[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[!] [Vanillanon](https://rentry.org/bingbingwahoo) | Misc | English
+[!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Deleterious](https://rentry.org/deleterious) | Misc | English
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
-[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
-[!] [Koikoikoi](https://rentry.org/4amrn) | Misc | English
-[!] [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
+[Koikoikoi](https://rentry.org/4amrn) | Misc | English
+[Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
 [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
 [Horny221](https://rentry.org/hornythings) | Misc / Stink | English
-[Yotsubuh](https://rentry.org/yotsubuh) | Feeding/Fattening / Misc | English
-[Phalannex](https://rentry.co/phalannex) | Misc | English
 [Pedanon](https://rentry.org/Pedanon) | Cunny | English
 [CptPants](https://rentry.org/CptPants) | Misc | English
 [Dould](https://rentry.org/ox3iqa) | Misc | English
-[Scrimbly](https://rentry.org/scrimb) | Misc | English
 [Maestro](https://rentry.org/MaestroBots) | Misc | English
 [Clutch](https://rentry.org/cominginclutch) | Misc | English
 [Hochimama](https://rentry.co/hochimamabots) | Misc | English
@@ -74,3 +77,7 @@ Botmaker | Category | Defs Language
 2023-05-30T03:42:58Z - Added Koikoikoi
 
 2023-05-31T22:27:28Z - Added Foxboats
+
+2023-06-01T02:39:35Z - Added AIC Industries, Superderp64 and Vanillanon
+
+2023-06-01T06:37:38Z - Added Nevtelen and removed Yotsubuh (Link is Dead)

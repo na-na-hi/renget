@@ -1,9 +1,6 @@
 #/aicg/ OP templates
 ->Check out the old OPs for some memories https://rentry.org/oldOPS <-
 
-!!!danger B& again
-	I'm currently on vacation from 4chan so you won't be seeing war threads for the time being that's all I'll still edit this thing 
-
 !!!info IMPORTANT INFO
 	Kaomoji Template here https://rentry.org/kaomojibaka
 
@@ -27,7 +24,6 @@ A general dedicated to discussion & development of AI Chatbots
 
 >New
 --News here--
-https://rentry.org/weirdbutfunjailbreaksandprompts [Fun Prompts]
 
 >Bots
 https://www.characterhub.org
@@ -42,9 +38,6 @@ https://rentry.org/Aicg4Retards
 >Tavern
 https://github.com/SillyLossy/TavernAI [Tavern]
 https://rentry.org/sillytermux [Mobile Extras]
-https://github.com/AmmoniaM/Spermack [Ruski Claude]
-https://github.com/PandarusAnon/slaude [Slaude]
-https://github.com/bfs15/slaude [more Slaude]
 >Agnai
 https://agnai.chat/
 https://rentry.org/agnai_guides [Guide]
@@ -55,12 +48,14 @@ https://rentry.org/mikugg
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
 
+>Slaude
+https://github.com/AmmoniaM/Spermack [Ruski Claude]
+https://github.com/PandarusAnon/slaude [Slaude]
+https://github.com/bfs15/slaude [more Slaude]
+https://rentry.org/ClaudeJB [JBs]
+
 >Botmaking
->Intro
-https://rentry.org/botmaking_tips
->Guides
-https://rentry.org/MothsBotMakingStuff
-https://rentry.org/oaicards
+https://rentry.org/meta_botmaking_list
 
 >Local models (Pygmalion, LLaMa)
 >>>/g/lmg/ [up-to-date documentation and discussion]
@@ -76,6 +71,7 @@ https://github.com/Buhankoanon/OAI_API_Checker [Key checker]
 https://rentry.org/aicg_meta [/aicg/'s assessments]
 https://rentry.org/aicg_extra_information [Extra Info]
 https://rentry.org/charcardrentrylist [Meta Rentry]
+try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 
 Previous: --Last thread here--
 ```
@@ -88,7 +84,6 @@ A general dedicated to discussion & development of AI Chatbots
 
 ▶Recent
 --News Here--
-try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 
 ▶Frontends
 ▶agnai and tavern guide
@@ -96,9 +91,6 @@ https://rentry.org/Aicg4Retards
 ▶Silly
 silly tavern: https://github.com/SillyLossy/TavernAI
 mobile extras: https://rentry.org/sillytermux
-ruski claude: https://github.com/AmmoniaM/Spermack
-slaude: https://github.com/PandarusAnon/slaude
-more slaude: https://github.com/bfs15/slaude
 ▶Agnai
 https://agnai.chat/
 guides: https://rentry.org/agnai_guides
@@ -109,6 +101,12 @@ https://rentry.org/mikugg
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
 
+▶Slaude
+ruski claude: https://github.com/AmmoniaM/Spermack
+slaude: https://github.com/PandarusAnon/slaude
+more slaude: https://github.com/bfs15/slaude
+jailbreaks https://rentry.org/ClaudeJB
+
 ▶Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
@@ -117,10 +115,7 @@ outsider bots: https://rentry.org/meta_bot_list
 https://zoltanai.github.io/character-editor/
 
 ▶Botmaking
-basic: https://rentry.org/botmaking_tips
-advanced:
-https://rentry.org/MothsBotMakingStuff
-https://rentry.org/oaicards
+https://rentry.org/meta_botmaking_list
 
 ▶Local models (Pygmalion, LLaMa)
 >>>/g/lmg/ [up-to-date documentation and discussion]
@@ -132,6 +127,7 @@ key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
 meta-rentry: https://rentry.org/charcardrentrylist
+try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 
 Previous: old
 ```
@@ -152,9 +148,6 @@ https://rentry.org/Aicg4Retards
 ▶Silly
 silly tavern: https://github.com/SillyLossy/TavernAI
 mobile extras: https://rentry.org/sillytermux
-ruski claude: https://github.com/AmmoniaM/Spermack
-slaude: https://github.com/PandarusAnon/slaude
-more slaude: https://github.com/bfs15/slaude
 ▶Agnai
 https://agnai.chat/
 guides: https://rentry.org/agnai_guides
@@ -165,6 +158,12 @@ https://rentry.org/mikugg
 http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
 
+▶Slaude
+ruski claude: https://github.com/AmmoniaM/Spermack
+slaude: https://github.com/PandarusAnon/slaude
+more slaude: https://github.com/bfs15/slaude
+jailbreaks https://rentry.org/ClaudeJB
+
 ▶Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
@@ -173,10 +172,7 @@ outsider bots: https://rentry.org/meta_bot_list
 https://zoltanai.github.io/character-editor/
 
 ▶Botmaking
-basic: https://rentry.org/botmaking_tips
-advanced:
-https://rentry.org/MothsBotMakingStuff
-https://rentry.org/oaicards
+https://rentry.org/meta_botmaking_list
 
 ▶Local models (Pygmalion, LLaMa)
 >>>/g/lmg/ [up-to-date documentation and discussion]

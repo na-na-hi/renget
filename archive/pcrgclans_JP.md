@@ -10,8 +10,8 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-Wide Hips (29/30)| Delicious child-bearing hips are what the world needs. | Casual | 1243 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
-FlatChests (27/30)| A clan of refined tastes. No hags or trannies allowed.  幼女大好き | Freeplay  | 1729 (A) |  -
+Wide Hips (30/30)| Delicious child-bearing hips are what the world needs. | Casual | 1243 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
+FlatChests (26/30)| A clan of refined tastes. No hags or trannies allowed.  幼女大好き | Freeplay  | 1729 (A) |  -
 つるぺったん (14/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | 1894 (A) |  -
 Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | 2858 (A) | -
 Fun Island (29/30) | Kokkoro is the cutest. | Casual | 5240 (BB) |  Just be yourself. + tag in profile

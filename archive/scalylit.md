@@ -49,7 +49,7 @@ Pretty strange book but quite fun to read. The author clearly had fun writing it
 > Dragons are the central focus of the book, non dragons exist but as clear inferiors to the dragons or side characters. No humans.
 > **CA 5/5**
 > "How much dignity dragons are given?" No one is really given much dignity in the book but they are clearly far and large the most powerful/ important beings in the setting.
-> **PS 3/5**
+> **PS 4/5**
 > Not really sure how to rate this. Its a comedy so their entire outlook and philosophies are mostly played for laughs but it does have interesting worldbuilding and detailed explorations as why the dragons are the way they are. Interesting themes about power.
 
 **Scales and Honor: The Dragon's Paladin** (2018) by Justin Lee
@@ -98,8 +98,7 @@ Interestingly, the winner of the World Fantasy Award for Best Novel in 2004. Set
 **ISBN-10** 0765319519
 **ISBN-13** 978-0765319517
 > **DC 5/5**
-> Probably the only novel on this list that does not feature any human characters, whatsoever.
-> **Note: CA and PS are ommited**, because of the subjective morality of a species that have no qualms regarding cannibalism due to it being required to reach adulthood.
+> Probably the only novel on this list that (technically) does not feature any human characters, whatsoever.
 ‪‪‪‪‪
 **Temeraire** (2006-2017) by Naomi Novik
 Alternate History (dragon riding)
@@ -198,6 +197,12 @@ Fantasy (xenofiction)
 **Dragon Champion**
 **ISBN-10** 0451463633
 **ISBN-13** 978-0451463630
+ 
+**Avonoa Series** (2014-) by H. R. B. Collotzi 
+Fantasy (xenofiction)
+**The Secret of Avonoa**
+**ISBN-10** 1499758537
+**ISBN-13** 978-1499758535
 
 **Bitterwood** (2007-2018) by James Maxey
 Fantasy
@@ -264,7 +269,6 @@ Fantasy (xenofiction)
 **A Dragon's Chains**
 **ISBN-10** 0999265822
 **ISBN-13** 978-0999265826
- 
 
 ***
 #### Other Resources

@@ -287,18 +287,19 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 ###✨✨ Liella! Seiyuu ✨✨
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
-**Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
+**Akane Yabushima 薮島朱音 **|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
 **Aya Emori  絵森彩**|Emorin, Ayachan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/) - [TikTok](https://www.tiktok.com/@ayaemori_official)|[📷](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
 **Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn)|[📷](https://img.moegirl.org.cn/common/4/47/Liyuu%E5%85%AC%E5%BC%8F%E7%85%A7.jpg)
 **Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) / [Twitter](https://twitter.com/_Naomi_Payton_) / [Instagram](https://www.instagram.com/_naomi_payton_) / [YouTube](https://www.youtube.com/@NaomiPayton_official)| [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
 **Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) - [TikTok](https://www.tiktok.com/@aoyama_nagisa_official) | [📷]()
-**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, XXXX ==[1]==|[Artist website](https://lantis.jp/misakinako/) / [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) / [Twitter](https://twitter.com/MisakiNako_) / [Line](https://page.line.me/124ydyji ) / [YouTube](https://www.youtube.com/@MisakiNako_Lantis/) |[📷]()
-**Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|September 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [📷]()
+**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998 ==[1]== ==[2]==|[Artist website](https://lantis.jp/misakinako/) / [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) / [Twitter](https://twitter.com/MisakiNako_) / [Line](https://page.line.me/124ydyji ) / [YouTube](https://www.youtube.com/@MisakiNako_Lantis/) |[📷]()
+**Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|Sept 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [📷]()
 **Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [📷]()
-**Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, XXXX|[Agency website](https://kenproduction.co.jp/talent/235)|[📷]()
+**Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, 2001 ==[2]==|[Agency website](https://kenproduction.co.jp/talent/235)|[📷]()
 
 **Notes:**
 - ==[]==Nako Misaki's birth year is undisclosed. In a radio interview however she has stated that she is "around the same age" as Nagisa Aoyama, leading people to speculate that she is born around 1998-1999. [src1](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [src2](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2). The Chinese moegirl wiki gives an birth year of 1999. [src3](https://mzh.moegirl.org.cn/%E5%B2%AC%E5%A5%88%E5%AD%90)
+- ==[2]== [Unofficial twitter source for other ages](https://twitter.com/Reiwa_0609/status/1524572216981024768?s=20)
 
 
 ###💮⛅ Hasunosora Seiyuu ⛅💮###
