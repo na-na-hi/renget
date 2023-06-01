@@ -113,7 +113,7 @@ Model | Type | Download
 
 	A LoRA trained on a variety of combined roleplaying datasets. Made by the creator of SuperCOT. This is a prototype at around 0.5 epochs. It uses a special format, so read the LoRA card for instructions.
 
-	The links will be updated with updated checkpoints as they come, and this entry will be removed when the final version is posted.
+	It's not generally recommended for use yet, given its an early prototype. This entry will be removed when the final version is posted.
 
 	>Type: Roleplay Instruct
 	>Filtering: ???

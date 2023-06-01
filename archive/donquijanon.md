@@ -292,6 +292,14 @@ https://www.chub.ai/characters/donquijanon/hilberts-hotel
 (You) used the workspace AI for ERP and now your boss wants to have a word.
 https://www.chub.ai/characters/donquijanon/miss-davis
 
+## /hcg/ - Human Chatting General
+After reading a post about how humans have their own Claudisms, I made this post:
+->![hcgorigins1](https://files.catbox.moe/43uxpa.png)<-
+And someone replied with this:
+->![hcgorigins2](https://files.catbox.moe/8fnnj0.png)<-
+I thought it was a really fun idea, so I made a card about an imageboard for AIs.
+https://www.chub.ai/characters/donquijanon/hcg-human-chatting-general
+
 ##Existing Characters
 ### E-123 Omega (Sonic)
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
@@ -341,6 +349,8 @@ https://www.chub.ai/characters/donquijanon/the-monkeys-paw
 ### Beard
 ->![beard](https://files.catbox.moe/4z8gsk.png)<-
 https://www.chub.ai/characters/donquijanon/Beard
+Beard Lorebook
+https://www.chub.ai/lorebooks/donquijanon/hotline-miami-beard
 
 ### Jake
 ->![jake](https://files.catbox.moe/zc52wa.png)<-
@@ -384,6 +394,22 @@ https://www.chub.ai/characters/donquijanon/Hammarin
 ### Richter
 ->![rat](https://files.catbox.moe/dfxxxz.png)<-
 https://www.chub.ai/characters/donquijanon/Richter
+
+### The Bodyguard
+->![bodyguard](https://files.catbox.moe/x35qi1.png)<-
+https://www.chub.ai/characters/donquijanon/the-bodyguard
+
+### The Girlfriend
+->![gf](https://files.catbox.moe/as7gwz.png)<-
+https://www.chub.ai/characters/donquijanon/the-girlfriend
+
+### Alex
+->![alex](https://files.catbox.moe/7hr16m.png)<-
+https://www.chub.ai/characters/donquijanon/Alex
+
+### Corey
+->![corey](https://files.catbox.moe/2x1nj2.png)<-
+https://www.chub.ai/characters/donquijanon/Corey
 
 ## Space Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-

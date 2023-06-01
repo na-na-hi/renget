@@ -8,7 +8,7 @@ Useful links:
 
 Kohya - https://github.com/kohya-ss/sd-scripts
 bmaltais training GUI (Dreambooth localhost, **DADAPT V3 IS NOW AVAILABLE**) - https://github.com/bmaltais/kohya_ss
-With the inclusion of DADAPT V3 into bmailtais, I have provided a .json via https://files.catbox.moe/hvtpw3.json - edit your img folders, max epochs, dim/alpha, weight decay etc.
+With the inclusion of DADAPT V3 into bmailtais, I have provided a .json via https://files.catbox.moe/8yh7ko.json - edit your img folders, max epochs, dim/alpha, weight decay etc.
 
 DAdaptation is an adaptive optimizer that automatically selects and tweaks the TE/UNET/LR values as it trains.
 

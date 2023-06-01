@@ -1,3 +1,5 @@
+#->Working Title: Crystal Chronicles<-#
+
 ##Kaijianon's Currently Unnamed Story: DRAFT OF CHAPTER ONE ONLY
 (Wording, exact dialogue, and formatting not final. Minor grammatical mistakes will be rectified during the editing pass-through once the entire draft is finished.)
 ***

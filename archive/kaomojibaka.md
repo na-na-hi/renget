@@ -47,11 +47,7 @@ https://rentry.org/meta_bot_list [4chan meta botlist]
 https://zoltanai.github.io/character-editor [Card editor]
 
 >>Bot making
->Basic
-https://rentry.org/botmaking_tips
->Advanced
-https://rentry.org/oaicards
-https://rentry.org/MothsBotMakingStuff
+https://rentry.org/meta_botmaking_list
 
 >>Local models (Pygmalion, LLaMa)
 >>>/g/lmg/ [up-to-date documentation and drama]

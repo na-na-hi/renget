@@ -7,7 +7,7 @@ The essentials:
 
 More advanced techniques and knowledge:
 4. Countering meta builds
-5. PSM essentials (thanks OriGinS, Ali, and Trinity!)
+5. PSM essentials
 6. Gunnery
 7. Special Weapons and how to use them
 8. Stealth
@@ -15,6 +15,7 @@ More advanced techniques and knowledge:
 
 Goodies:
 10. /aceg/-approved builds
+11. Thanks
 
 -----------------------
 
@@ -140,7 +141,7 @@ The same trick described multiple times in this guide works even in a close figh
 >try to get a different angle and try again
 If you simply cannot hit the target, then use your current advantage to reposition yourself for an easier shot.
 
-5. PSM essentials (thanks OriGinS, Ali, and Trinity!)
+5. PSM essentials
 
 Post-stall manoeuvres (PSMs) allow your plane to ignore the concept of angle of attack, plus reposition as you'd like, allowing you to outturn otherwise more manoeuvrable opponents. They are powerful in a one-on-one engagement, but you are vulnerable while you're in the middle of the manoeuvre, so you'll need to always stay alert to avoid getting fucked up. PSM-capable planes are divided in two categories (which can be viewed in the datasheet ***(https://pastebin.com/6Uh45geR)*** : half-PSM (which can only pull off Cobra manoeuvres at most without chaining) and full-PSM (which allow you to PSM for longer). A good rule of thumb is that if the plane is PSM-capable but not fitted with thrust-vectoring nozzles, it's a half-PSM plane (Su-34, non-Top Gun F/A-18, ADFX-01).
 Before starting, set your controls to expert (as you always should) and your High-G Turn Settings to Type B. This will make them easier to initiate and pull off.
@@ -290,3 +291,6 @@ https://imgur.com/a/TYt3fNh
 >2630 F-15 S/MTD HPAA
 https://arch-img.b4k.co/vg/1659824808498.jpg
 >here's what i'm using. my choice for Cutting-Edge Large Flap is to tighten my turn radius more. combined with airbrakes, i can actually keep up with most Rafale's in this thing -- it's insane
+
+11. Credits
+Many thanks to OriGinS, Ali, and Trinity for helping with the PSM section.

@@ -10,21 +10,22 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Deleterious](https://rentry.org/deleterious) | Misc | English
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
+[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
-[!] [koikoikoi](https://rentry.org/4amrn) | Misc | English
+[!] [Koikoikoi](https://rentry.org/4amrn) | Misc | English
 [!] [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
-[!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
-[Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
-[Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [123123232](https://rentry.org/g2u47) | Sizeplay | English
 [VinceLavali](https://rentry.org/vincelavali) | Cunny | English
 [Hitogami](https://rentry.org/imtookening/) | Misc | English
@@ -71,3 +72,5 @@ Botmaker | Category | Defs Language
 2023-05-28T01:06:08Z - Added Smile
 
 2023-05-30T03:42:58Z - Added Koikoikoi
+
+2023-05-31T22:27:28Z - Added Foxboats

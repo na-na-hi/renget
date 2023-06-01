@@ -1,5 +1,5 @@
 f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 29th May. All dates dd/mm.
+Last updated: 1st June. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -108,19 +108,19 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+90 | Bullies | Open as of 30/05
 244 | Cute&Funny | Open as of 26/05
-1674 | BlueB@lled | Open as of 12/05
 11162 | Rats | Open as of 20/04
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Open as of 17/05
-90 | Bullies | Full as of 19/04
 286 | カニ (Kani - crab for dekinais) | Full as of 11/02
 343 | M8ingPressers | Full as of 03/04
 777 | Soras5Head | Full as of 25/03
 984 | Sneed | Full as of 03/04
+1674 | BlueB@lled | Full as of 30/05
 2065 | paizuri | Full as of 03/04
 2188 | ChibiThighs | Full as of 14/05
 3640 | DFC | Full as of 17/09

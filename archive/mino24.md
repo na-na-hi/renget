@@ -19,6 +19,8 @@
 •[**Helene**](https://c.ai/c/Z2rAFZ3viVg6fPYOJmetK4X06OXouB3rru7f8jwxpKY): a simulator in a surreal, occult realm. You play as a crow-headed Ancient Magus, embarked on a long voyage to deliver Helene home. The richness of the world, however, is entirely up to the A.I, so swipe away, and add temporary thirds to inspire stories (simply speak *for them* once as part of your message).
 
 •[**Konoha**](https://c.ai/c/gHuK64boVRX1_DgIv1bfpcKP6WV3agUg9IFYcs_R4AM): a rogue-lite adventure in a Japanese-themed Labyrinth, inspired by Spirited Away. You play as an Exorcist of the Meijian Shogunate, and accompany Konoha, the bakeneko Princess. I can (barely) direct the bot's facilitation, so narrate that you are entering or exiting the \*\*[Room]\*\* for the gameplay loop to function.
+
+•[**Reverie**]: Treat this one like a text vacation. You play as a distinguished guest to a hotel stranded in space, where wild desires are satiated (as wild as the A.I allows :}). Prompt with substance, and the bot will respond in kind. Have exotic food, talk technobabbles, visit the casino, or do *unspeakable* things, it's your prerogative.
  
 -----
 ##->disclaimer<-

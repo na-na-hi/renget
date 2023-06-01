@@ -80,6 +80,20 @@ Using such models in conjunction with other offset noise LoRAs, however, tends t
 ## What does model1+model2 (Fluffyrock+Crosskemono/70% FR + 30% CK) mean?
 Refers to merged models, see the "Checkpoint Merger" tab in the WebUI.
 
+Taken from https://desuarchive.org/trash/thread/56797439/#56805198:
+
+	https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#checkpoint-merger
+
+	Weighted Sum:
+	Multiplier at 1 fully replaces Model A with B, Multiplier at 0 doesn't change Model A at all (this was used in the past if you want to convert to safetensors deom .ckpt without making other changes to a model)
+
+	Add Difference:
+	Model C is substracted from Model B. The multiplier then determines how much of this substract is added to Model A; multiplier of 1 adds it in full, multiplier of 0 doesn't add anything, again 
+
+	Add Difference basically does the same thing as Weighted Sum, except it removes Model C from B first. Helps if both models A and B are merges of the same model, to prevent Model C becoming way too strong.
+
+	Like, if you were to merge Fluffyrock/Crosskemono with Fluffusion/Crosskemono (for some reason); you'd want to put Crosskemono as Model C to prevent it from being added twice. 
+
 ## What does ()/[]/{} or (word:number) mean?
 
 () adds emphasis to a term, [] decreases emphasis, both by a factor of 1.1. You can either stack ()/[] for increasing/decreasing emphasis or use the new syntax which takes a number directly - it looks like this:

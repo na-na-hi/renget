@@ -7,6 +7,8 @@ If I was given a penny every time I was told to "keep your smile" and "rope", I'
 Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason). Some include physical and mental abuse towards you so keep that in mind. Some of them are available on CAI but my newer ones are just impossible to port otherwise they'll be struck by the filter, anyways I just do cunny and shota bots as a pastime, I do not condone anything remotely illegal nor share absolutely any ideals of any person that may commit heinous crimes.
 my pygma booru comments are quite something 
 
+[VenusAI profile if you are into that](https://venus.chub.ai/users/Sull)
+
 feel free to send me suggestions or things such as how should I kill myself here
 emilythebrat@proton.me
 
@@ -21,39 +23,25 @@ Enjoy.
 
 
 #New Bots
-**Kelly and Gigi**
+
+**St. Sull's Pediatric Clinic**
+**Tavern Card** https://files.catbox.moe/pxlauh.png
+*synopsis*: (you) work as a pediatrician in St. Sull's Pediatric clinic, with the help of your handy dandy console that will help you treat young patients. It's your choice to help them, harass them or even harm them more.
+*genre*: simulator
+![Clinic](https://files.catbox.moe/pxlauh.png)
+
+**Pleasure Daycare Re-opening**
+**Tavern Card** https://files.catbox.moe/bc7g6u.png
+*synopsis*: As a reward for investing into Pleasure Daycare, you have been invited to the "Playroom" where the children ages 2 to 14 will do anything for you without any limits
+*genre*simulator
+![daycare](https://files.catbox.moe/bc7g6u.png)
+
+**Pregnant Emily**
 **Tavern Card**
-https://files.catbox.moe/v8rloo.png
-*description* The sisters that you encounter in a nudist beach
-*genre* loli, toddler
-![KandG](https://files.catbox.moe/v8rloo.png)
-
-
-**Nina and Gina**
-**Tavern Card**
-https://files.catbox.moe/wiqqet.png
-*description* The cute duo of idols that are now dating, crash in your hotel to stay at before the concert
-*genre* loli, lgbt
-![NANDG](https://files.catbox.moe/wiqqet.png)
-
-
-**Lila Anonie**
-**Tavern Card**
-https://files.catbox.moe/q36izp.png
-**NSFW Tavern Card**
-https://files.catbox.moe/smvkbs.png
-*description*: Your teenager adoptive daughter based on this anon's friend. She is rude and selfish, always putting herself over everyone else. And is extremely violent and bratty when she doesn't get her way
-*genre*:loli, brat
-![Lila](https://files.catbox.moe/q36izp.png)
-
-
-
-**Pool Party Birthday Creep Simulator**
-**Tavern Card**
-https://files.catbox.moe/appgt8.png
-*description*: you as kid's entertainer at a birthday party an can tell them what to do, the kids being young and naïve will do whatever you tell them dressed in cute and innocent swimsuits that leave nothing to the imagination
-*genre*: simulation
-![creep](https://files.catbox.moe/appgt8.png)
+https://files.catbox.moe/f6yt18.png
+*genre*:loli, pregnancy
+*description*: You were hired to babysit a pregnant 13 year old girl with a very bad attitude who likes to wear very little clothing
+![Preg](https://files.catbox.moe/f6yt18.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -118,11 +106,34 @@ Yes, this is a bot based on me
 *synopsis*:The 9 month old you were tasked to take care of for the afternoon
 ![Eliza](https://files.catbox.moe/l5f8mp.png)
 
+**Lila Anonie**
+**Tavern Card**
+https://files.catbox.moe/q36izp.png
+**NSFW Tavern Card**
+https://files.catbox.moe/smvkbs.png
+*description*: Your teenager adoptive daughter based on this anon's friend. She is rude and selfish, always putting herself over everyone else. And is extremely violent and bratty when she doesn't get her way
+*genre*:loli, brat
+![Lila](https://files.catbox.moe/q36izp.png)
+
 **Liyna**
 **Tavern Card** https://files.catbox.moe/uthu55.png
 *synopsis*: The hot elf warrior that is relaxing with you on a hot spring after a long day of fighting
 *genre*: dark skin, elf
 ![Liyna](https://files.catbox.moe/uthu55.png)
+
+**Pool Party Birthday Creep Simulator**
+**Tavern Card**
+https://files.catbox.moe/appgt8.png
+*description*: you as kid's entertainer at a birthday party an can tell them what to do, the kids being young and naïve will do whatever you tell them dressed in cute and innocent swimsuits that leave nothing to the imagination
+*genre*: simulation
+![creep](https://files.catbox.moe/appgt8.png)
+
+**Kelly and Gigi**
+**Tavern Card**
+https://files.catbox.moe/v8rloo.png
+*description* The sisters that you encounter in a nudist beach
+*genre* loli, toddler
+![KandG](https://files.catbox.moe/v8rloo.png)
 
 **Nirofeno**
 **Tavern Card** https://files.catbox.moe/3xep35.png
@@ -170,6 +181,13 @@ https://files.catbox.moe/0gkive.png
 *genre*: loli, Spanish speaking 
 ![Aleja](https://files.catbox.moe/0gkive.png)
 
+**Nina and Gina**
+**Tavern Card**
+https://files.catbox.moe/wiqqet.png
+*description* The cute duo of idols that are now dating, crash in your hotel to stay at before the concert
+*genre* loli, lgbt
+![NANDG](https://files.catbox.moe/wiqqet.png)
+
 **Lucia**
 https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
 **Tavern Card** https://files.catbox.moe/4angkk.png
@@ -196,12 +214,6 @@ https://files.catbox.moe/ghb7a0.png
 **Tavern Card** https://files.catbox.moe/yc253d.png
 *synopsis*: your 10 year old trans little sister that wants your approval and attention
 ![Lydia](https://files.catbox.moe/yc253d.png)
-
-**Pleasure Daycare**
-I really like this bot, it's just a sandbox for any and all degen fetishes
-**Tavern Card** https://files.catbox.moe/q38uit.png
-*synopsis*: As a reward for investing into Pleasure Daycare, you have been invited to the "Playroom" where the children ages 2 to 14 will do anything for you without any limits
-![daycare](https://files.catbox.moe/q38uit.png)
 
 **Kidnapped by a loli** -https://beta.character.ai/chat?char=2kNYYDmoO1dKnDpkCHkSBjHuyQYGumJFO9EnHgSBrI8
 **Tavern Card** https://files.catbox.moe/o6reoh.png

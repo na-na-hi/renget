@@ -1,5 +1,11 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp
+
+Togetic standing in front of a coffee maker, half-asleep
+
+Togetic and Team Cozy playing in a river (From Togetic's "Reunion" story)
+
 Togetic flying over Capim Town at night
 
 Gus Pondmaxxing
