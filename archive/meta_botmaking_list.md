@@ -39,6 +39,13 @@ Edit: 31 May 2023 09:59 UTC
 - 2829 words, 12 minutes read
 
 *"A step-by-step process for beginners on how you could start making bots."*
+***
+##TGCsCreativityGuide
+https://rentry.org/TGCsCreativityGuide
+
+Pub: [31 May 2023 No.93773423](https://desuarchive.org/g/thread/93773321/#q93773423)
+Edit: -
+- 1683 words, 6 minutes read
 
 ***
 ##HochiTurboTips

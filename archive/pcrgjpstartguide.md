@@ -15,7 +15,7 @@ Or install the DMM (PC) version from:
 https://dmg.priconne-redive.jp/
 
 MTL translation instructions 
-https://rentry.org/pcrgMTLguide (Still broken)
+https://rentry.org/pcrgMTLguide (Not broken)
 
 ###->DMM install (No VPN required) <-
 
@@ -69,11 +69,11 @@ The following list is for new players to target, as some units are amazing - But
 **Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
 **Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
 **Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Good CB usage in April, needs more continued usage to stay relevant or move up in worth.
+**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
 
 ### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
 **Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
-**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. No Unique Equip yet. Can do well in low level Arena, with enough TP charging.
 **Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
 
@@ -99,7 +99,7 @@ P.Yui | D | C | C | C | Yes | No
 Laby | SS | F | SS | S | Yes | No
 P.Hiyori | SS | F | A | B | Yes | No
 P.Kyaru | A | B | S | S | Yes | No
-P.Rei | C | A | SS | A | No | No
+P.Rei | A | A | SS | A | Yes | No
 Hatsu/Shio | C | D | B | A | No | No
 Homare | S | F | SS | S | No | No
 LL Trio | C | F | B | C | No | No
@@ -152,8 +152,9 @@ https://priconne-redive.jp/news/update/20375/
 
 ##->Tips and Suggestions for beginners<-
 
+
 - Always keep Ames and Neneka leveled
-- Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7.
+- Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7. This will allow you to level her UE at no cost, until it reaches level 240.
 - Complete the easy versions of the training dummy gargoyles for easy 100 gems and 1 large heart per. There are 5 in total, but do the first 3.
 - If you have P.Yui, you can get her to Rank 7 and unlock her UE. She'll carry you through early level PvP by blowing up the enemy team. You should have the 3 large hearts for the initial craft thanks the the hearts from the above tip
 - Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on
@@ -339,7 +340,7 @@ Q -  **When is the next Prifes?**
 A - Who the fuck knows. We usually get one at the end of the month in Feb (Anniversary) and August (Half Anniversary) guaranteed. Other than that, could be any time.
 
 Q - **I got Neneka & Ames before needing to spark, is it worth it to finish the spark? Who would I pick?**
-A - There are currently a total of 18 Prifes units, so yes. The only wrong answer is anyone in C tier, but I would advise picking P.Yui for early game arena shit stomping, or Grea/Anne for future proofing. Ranpha also helps with early PvE stuff, because her summon is pretty strong.
+A - There are currently a total of 18 Prifes units, so yes. The only wrong answer is anyone in C tier, but I would advise picking P.Rei or P.Yui for early game arena shit stomping, GreAnne or Christina for future proofing in other high level game modes. Ranpha also helps with early PvE stuff, because her summon is pretty strong.
 
 Q - **Princess Connect is crashing on Launch on my Bluestacks Emulator, what do I do?**
 A - This is due to the Unity Engine update on April 12th, forced on April 15th. You'll need to create a new instance and make sure that you have it running on Android 11 (Beta)

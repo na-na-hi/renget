@@ -27,6 +27,12 @@ https://rentry.org/aicg4retards
 
 ![](https://files.catbox.moe/witert.png)
 
+##### Chub Venus
+https://venus.chub.ai
+- british frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
+
+![](https://files.catbox.moe/8y0ox3.png)
+
 ***
 
 !!! info
@@ -212,6 +218,7 @@ https://files.catbox.moe/iworgx.png ; https://files.catbox.moe/68939b.png
 Sister rentries:
 - https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
+- https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
 
 Email for feedback and suggestions:
 - aicg2023@proton.me

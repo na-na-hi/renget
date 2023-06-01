@@ -1,6 +1,10 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 
+##Crusch (1/6/2023)
+https://www.chub.ai/characters/pitanon/Crusch
+![](https://files.catbox.moe/sw0iqj.png)
+
 # Re:Zero Adventure
 It's all separate cards now. Add and remove them from a group chat when necessary.
 Update: {} worked better than [] and the companion cards should (hopefully) stop continuing the story.

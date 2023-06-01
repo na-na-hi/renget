@@ -1,4 +1,4 @@
-/aceg/'s Ace Combat 7 multiplayer guide v1.4, as compiled by the anons. Let's do this, buddy.
+/aceg/'s Ace Combat 7 multiplayer guide v1.5, as compiled by the anons. Let's do this, buddy.
 
 The essentials:
 1. Parts and builds
@@ -70,7 +70,8 @@ A missile fired with this technique will track really viciously, to the point wh
 >try to anticipate the enemy's moves!
 Being able to predict your opponent is the key to victory, so you need to be proactive and imagine what he will do next. Fly accordingly: be the first to turn on the merge (this is essentially a lead turn, the most basic of BFM can be applied here) to get a few precious moments of advantage; guess where he'll turn next and plan your own move accordingly to get an advantageous angle.
 >don't bother with QAAM/EML/SASM, they only teach you bad manoeuvres that either leave you extremely exposed to attack or at a terrible angle to fire on the enemy
-Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still free points. This means that their users learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
+Obviously enough, EML is a lolcannon with a stupid hitbox and huge damage (meaning its users don't even need to fly the plane, just point their nose and shoot like a point-and-click adventure). QAAM doesn't need to see the enemy to be fired and will turn like a maniac to pursue (meaning they can just spam their missiles with no thought to angles and hope they hit). SASM's AOE means that it doesn't need to hit in order to damage the enemy, and even if the damage isn't much, it's still
+ free points. This means that their users learn to fly like NPCs and will make them sitting ducks in an actual fight, extremely easy targets for anyone with at least two neurons to rub together.
 >before pulling a PSM, check who's targeting you and don't initiate the manoeuvre if someone could shoot at you 
 PSMs (post-stall manoeuvres like the Kulbit and Cobra) are an extremely powerful tool, but you are vulnerable while you're pulling them. Never initiate one if someone's behind you, as you'll give them a sure shot to kill you; remember to also check for other players looking at you, because nothing kills a PSMing plane like an HVAA or LAAM. As always, be aware of your surroundings and do not expose yourself needlessly.
 >use gravity to your advantage!
@@ -123,7 +124,8 @@ It's true that QAAM users can shoot at you from any angle, but at the same time,
 Rather than murdering you without even thinking, the SASM user turns the match into a score attack mission because he can farm points without even thinking.
 >the wide AOE means that it doesn't even need to hit to damage the target, essentially getting points for free
 >the explosion itself deals half the damage of a standard missile, which doesn't sound like much, but it takes only two salvos to kill an F-15C without Armour 2
->if it does hit, a SASM inflicts as much damage as a QAAM from the impact plus the explosion on top of it, oneshotting every single plane without Armor 2
+>if it does hit, a SASM inflicts as much damage as a QAAM from the impact plus the
+ explosion on top of it, oneshotting every single plane without Armor 2
  installed
 What this means is that the SASM player can just lob his missiles at the player in first place when he's distracted and get points for free, because unless he's going really fast he will get hit by the explosion at the very least. Assuming that the player in first place is a Su-35S with three stars (see score system section below), this means that a SASM user can reliably rack up 6,5k points per salvo and speed off before receiving any sort of retaliation.
 Unless you actually get hit square in the face by the SASM, it's unlikely that its user will kill you unassisted. Rather, he will target players that are already damaged to ensure a kill and get even more free points. With all that said, it's time to think up ways to counter it.
@@ -275,12 +277,13 @@ https://imgur.com/a/6sZdWR9
 
 >2400 Rafale M HCAA
 https://arch-img.b4k.co/vg/1675558829806.png
->Never stalls, always ready to fire. ECU Software Update is the important part. Lower Stall speed means you can maintain high-G with a tight radius turns longer than opponents. Vulnerable at high speed since ECU also reduces deceleration in high-G turns. Ideal for aggressive close-range fights at low speeds, exactly what the Rafale excels at. Especially useful in a 1v1 or prolonged turn-rate fights and against PSM users, all low-speed situations.
+>Never stalls, always ready to fire. ECU Software Update is the important part. Lower Stall speed means you can maintain high-G with a tight radius turns longer than opponents. Vulnerable at high speed since ECU also reduces deceleration in high-G turns. Ideal for aggressive close-range fights at low speeds, exactly what the Rafale excels at. Especially useful in a 1v1 or prolonged
+ turn-rate fights and against PSM users, all low-speed situations.
 
 >2420 Typhoon HCAA (can also be applied to Rafales and F-15Js)
 https://arch-img.b4k.co/vg/1663685464459.jpg
 >An attempt to counter meta and PSM users. It's meant to catch the enemy by surprise, or buy you time to reposition and try again. You'll only use HCAAs and your gun to kill people, but you can fire standard missiles to increase the pressure on the opponent and increase the probability of mistakes on his part.
->SupMan 2 and Flaps 3 are essential in any build. Blisk 2 increases acceleration especially at low speed. Airbrakes 2 and Cutting Edge Large Flap 2 increase deceleration, especially when high-Ging, to minimise turn radius and thus give you a bit of a positional advantage even against opponents with a better turn rate. Homing and Damage are obligatory on any missile, and make HCAAs especially vicious. Multiple-target threat level detection will ensure you'll get the first shot off in any head-on engagement.
+>SupMan 2 and Flaps 3 are essential in any build. Blisk 2 increases acceleration, especially at low speed. Airbrakes 2 and Cutting Edge Large Flap 2 increase deceleration, especially when high-Ging, to minimise turn radius and thus give you a bit of a positional advantage even against opponents with a better turn rate. Homing and Damage are obligatory on any missile, and make HCAAs especially vicious. Multiple-target threat level detection will ensure you'll get the first shot off in any head-on engagement.
 >This build requires you to be both extremely aggressive (on the merge and subsequent turns) and aware of both your speed (to avoid stalling) and enemy positioning. Head-on attacks are your best friends against almost anything, only QAAMs are better in that role (and you're a buddy, you don't use QAAMs). Fire your missiles at the edge of the lock-on cone unless you're close enough to see up the enemy's engines (thus only if you're behind him).
 
 >2550 Su-35S 6AAM
@@ -293,4 +296,4 @@ https://arch-img.b4k.co/vg/1659824808498.jpg
 >here's what i'm using. my choice for Cutting-Edge Large Flap is to tighten my turn radius more. combined with airbrakes, i can actually keep up with most Rafale's in this thing -- it's insane
 
 11. Credits
-Many thanks to OriGinS, Ali, and Trinity for helping with the PSM section.
+Many thanks to OriGinS, Ali, Nathan, and Trinity for helping with the PSM section.

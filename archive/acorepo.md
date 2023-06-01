@@ -148,12 +148,24 @@ https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
+- Archer 
+	+ Lana Kane
+https://civitai.com/models/36123/lana-kane-archer
+	+ Katya Kazanova
+https://civitai.com/models/48381/katya-kazanova-archer
 - Honey Bee (Black Dynamite)
 https://civitai.com/models/67075/honey-bee-black-dynamite-character-lora
 - Entrapta (She-Ra)
 https://civitai.com/models/75021/entrapta-from-she-ra
 - Pidge (Voltron)
 https://civitai.com/models/77325/pidge-voltron
+- The Legend of Vox Machina
+	+ Keyleth
+https://civitai.com/models/48148/keyleth-the-legend-of-vox-machina
+	+ Vex'ahlia
+https://civitai.com/models/35387/vexahlia-the-legend-of-vox-machina
+	- Pike Trickfoot
+https://civitai.com/models/48211/pike-trickfoot-the-legend-of-vox-machina
 - Rapunzel (Tangled) & 3D
 https://civitai.com/models/51124/rapunzel-tangled-series
 https://civitai.com/models/21540/rapunzel-tangled

@@ -108,14 +108,14 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-90 | Bullies | Open as of 30/05
 244 | Cute&Funny | Open as of 26/05
 11162 | Rats | Open as of 20/04
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Open as of 17/05
+6 | Arona#1 | Full as of 17/05
+90 | Bullies | Full as of 01/06
 286 | カニ (Kani - crab for dekinais) | Full as of 11/02
 343 | M8ingPressers | Full as of 03/04
 777 | Soras5Head | Full as of 25/03

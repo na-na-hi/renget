@@ -24,6 +24,7 @@
 [High Tide w/ Towa](https://youtube.com/watch?v=KyURvb-eIU8&t=859s) 
 [Chiki Chiki Bang Bang w/ Area15](https://youtube.com/watch?v=n-fzN8-i3Qc&t=1190s) 
 [Turing Love w/ Pekora](https://youtube.com/watch?v=jgoJuJiWtf4&t=1130s)
+[Shallys w/ Aki,Sora,AZKi,Risu](https://youtube.com/watch?v=hURqBaVxnSg&t=3489s) 
 
 ==**Clips**==
 Bring me to Life - https://youtu.be/I5KTJ5TrRFQ 

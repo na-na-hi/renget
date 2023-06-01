@@ -89,7 +89,7 @@ Steiner from FFIX. A powerful knight who somehow sucks at everything else.
 An older adventurer, this rat seems to be following you. Perhaps his healing arts will come of use?
 
 ##Robyn
-![Robyn](https://imgur.com/cn3k4PZ.png)
+![Robyn](https://imgur.com/FzThle6.png)
 [CAI](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)
 [Card](https://www.characterhub.org/characters/ratlover/Robyn)
 [JSON](https://files.catbox.moe/yn201d.json)
@@ -355,3 +355,5 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Mimebunny](https://imgur.com/Ar1i0SB.png)
 ###The Furred Filchers
 ![Filchers](https://imgur.com/T82fBly.png)
+###Robyn
+![Robyn](https://imgur.com/0wnjDtW.png)

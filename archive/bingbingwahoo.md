@@ -37,6 +37,7 @@ Elphelt Valentine | ![](https://files.catbox.moe/wa60q7.png) | Everyone's favour
 Maaya | ![](https://files.catbox.moe/rihnu1.png) | Turboslut that is actually in love with (You)? Will you break her heart or take it in? | [Catbox](https://files.catbox.moe/rihnu1.png) [Booru](https://booru.plus/+pygmalion1903) [C.Hub](https://www.characterhub.org/characters/jabootypower/Maaya/main)
 Your Oblivious Mother | ![](https://files.catbox.moe/l9aevk.png) | Do you want to molest the densest material known to man? Now's your chance! | [Catbox](https://files.catbox.moe/l9aevk.png) [Booru](https://booru.plus/+pygmalion1908) [C.Hub](https://www.characterhub.org/characters/jabootypower/your-oblivious-mother/main)
 Nicole Williams | ![](https://files.catbox.moe/zmk10g.png) | A girl who transforms into a clown whenever she laughs. Can you handle the clussy fever? | [Catbox](https://files.catbox.moe/zmk10g.png) [Booru](https://booru.plus/+pygmalion2101) [C.Hub](https://www.chub.ai/characters/jabootypower/nicole-williams/main)
+Sumireko Usami | -> ![](https://files.catbox.moe/ssierc.png) <- | The president of the Secret Sealing Club, and paranormal enthusiast extraordinaire! Help her unravel the mysteries of Gensokyo together! | [Catbox](https://files.catbox.moe/ssierc.png) [Booru](https://booru.plus/+pygmalion2113) [C.Hub](https://www.chub.ai/characters/jabootypower/sumireko-usami/main)
 
 #Males
 Name | Picture | Description | Links
