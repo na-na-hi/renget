@@ -758,3 +758,34 @@ Cons:
 - No Action Speed buff
 - Not SET/Auto friendly
 - No barrier
+
+### ->Ceremonial Ilya<-
+**TL;DR - At the very least a borrowable unit that will see some usage in CB fights where her bats can stay alive and has a good target to heal. Borrowing does mean you don't get flexible or perfect routing, so be careful.**
+A magic damage dealer/support hybrid that has a nice bit of buffing thanks to her spawned bat familiars, plus a heal from herself. She has a total of 3 skills (S1, S2 & SP) which are all used in her loop. In addition, her skills have their potency increased by the number of bat familiars she has spawned (maxed at 2). Unlike Neneka's clone, bats do not get replaced when Ilya UBs and they are alive. This means they're a bit awkward to use and will cost Ilya damage if they die, as they only replenish on UB.
+The ranges on her bat buffs are a bit strange as well, as they spawn in at 50, 100 range in front of Ilya. This means Ilya, Bat #1 & Bat #2 don't always buff the same units, due to them having the same range. An example is that while Ilya's AS buff reaches Pyaru, her bats actually don't - Meaning Pyaru misses out on on the bat buffs. The bats buffs are fairly important as well, so this can result in some issues when it comes to team building. Another unfortunate result of this spawn range, is that bat #2 actually spawns in front of NY.Neneka, tanking hits if she's 1st position. 
+Overall, Ceremonial Ilya is a good unit that needs her familiars to maximize her potential. A bit of an awkward unit to handle, due to most bosses having AOE damage that can knock her bats down, forcing her to lose TP restoration and damage. But against bosses that only hit the 1st position unit like a Goblin Great or Madame Electra - Her positioning and heal will allow mid mages to get more usage, if paired with a 1st position tank. N.Kuuka & O.Kuuka could see more usage as bosses allow, but don't be surprised to see them pop up. While there aren't a large selection of mid mages yet, May CB has proven that X.Akari/W.Djeeta have the ability be a strong core to usher in a new era of multi-threat mage comps, compared to the previous style of buffing the shit out of 1 mage for huge damage. Limited sample size of course, but something to keep in mind. 
+
+
+-> ![Ceremonial Ilya](https://redive.estertion.win/card/full/126231.webp) <-
+
+Pros:
+- UB deals more damage based on # of bat familiars on the field (Can have a max of 2 at a time, last until death)
+- Bat familiar #1 offers +5 TP boost & M.Atk buff to all units in range 
+- Bat familiar #2 offers M.Crit dmg up by 10% & M.Atk buff to all units in range 
+- Bat familiars spam skills every 2nd action (Loop is Buff > AA)
+- 55% AS buff increase to units within her range
+- S1 restores TP & does damage (both are increased by # of bat familiars)
+- S2 provides good M.Atk & M.Crit chance buff
+- Heals lowest HP target (aside from self) on SP1, allowing for a more offensive support to be ran
+- Great loop (SP1 > S2 > S1 > AA > S2 > SP1 > S1)
+- Great Opening skills order (S2 -> S1 into Loop)
+
+Cons:
+- Bat buffs only last 6s (can't stack with self more than once, due to expiring quickly)
+- Bat buffs do not reach the same units that Ilya does (Ex. Ilya's AS buff reaches Pyaru, but the bats do not)
+- Only gives TP Restoration to self
+- No shred 
+- Bats are squishy, resulting in damage loss when not spawned in if killed
+- Bats spawn in front of NY.Neneka, potentially tanking autos and dying when not desired
+- Bats cannot be replaced from UB if alive, only spawn if dead 
+- Awkward to use with other AS buffers like O.Yuki, X.Yori, Monika, etc... (AS Buffs do not stack)

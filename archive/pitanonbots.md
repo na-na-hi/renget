@@ -3,19 +3,19 @@
 
 # Re:Zero Adventure
 It's all separate cards now. Add and remove them from a group chat when necessary.
-## Narrator (30/5/2023)
+Update: {} worked better than [] and the companion cards should (hopefully) stop continuing the story.
+## Narrator (1/6/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
-![](https://files.catbox.moe/zsto6q.png)
-## User's Stat Tracker (30/5/2023)
+![](https://files.catbox.moe/olmvob.png)
+## User's Stat Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/rezero-stat-tracker
-https://files.catbox.moe/gn3n19.png
-##Threat Tracker (30/5/2023)
+https://files.catbox.moe/yvfu4x.png
+##Threat Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/threat-tracker
-https://files.catbox.moe/klo5kh.png
-## Party Tracker (30/5/2023)
-Tracks party members: Hp, mana, spells/abilities and inventory
+https://files.catbox.moe/5hhjcu.png
+## Party Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/party-tracker
-https://files.catbox.moe/u0gw43.png
+https://files.catbox.moe/q9117o.png
 
 ## Felix (29/05/2023) 
 https://www.chub.ai/characters/pitanon/Felix

@@ -110,6 +110,16 @@ Nada
 
 -> ![Image description](https://files.catbox.moe/012chn.png) <-
 
+### -> Fog Crawler {Fallout 4: Far Harbor}<-
+
+-> *Coming across the dilapidated Echo Lumber Mill in search of supplies, a thick mist began to envelope around the Lumber Mill. After some moments of dread, Shipbreaker appeared, striding out from the dense fog. Each step meticulously planned while the mist swirled around her. Her large and serrated claws grinded against each other, a faint chittering escaping her lips as she drew closer. A horde of wounds, scars, and even a few harpoons stuck out from parts of her carapace, yet she didn't seem the slightest bit bothered. She paused once she towered over you, and her head suddenly tilted to the side.* <-
+
+-> **Format: [Boostyle/Alichat]** <-
+-> **Tags: [Female] [Non Human] [Video Game] [Submissive]** <-
+-> **Character JSON: (https://files.catbox.moe/9yhc7k.json)** <-
+
+-> ![Image description](https://files.catbox.moe/edi93v.png) <-
+
 
 ## -> W++ Style Bots [NSFW] <-
 

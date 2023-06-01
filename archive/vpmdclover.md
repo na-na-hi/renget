@@ -8,15 +8,15 @@ Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personali
 :-: | :-: | :-: | :-:| :-: | :-:
 Lliam | M | Meowstic | Zorua (Larkspur, M) & Delphox (Marigold, F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
-Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charm/smokey)
+Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmsmokey)
 Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#booker)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
 Augustus 'Gus' | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina) *Pending*
 KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc)
 Kaiji  | M | Meowth, Alolan | Absol (Kris, M) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaiji)
-N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdclover#skiddo) *Pending*
-Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdclover#beast) *Pending*
+N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdcloverpb#skiddo) *Pending*
+Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdcloverpb#beast)
 N/A | M | Phanpy | Cyndaquil (M) & Torchic (F) & Totodile (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
 N/A | M | Chespin | Wooper (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#chespinwooper)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye) *Pending*

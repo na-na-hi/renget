@@ -10,6 +10,8 @@ Anybody reads this stuff? Okay, I'm **AVAKSon#0498** and I do some characters fo
 
 Small disclaimer: there is an "old" chars that was written in W++, and "new" chars that is written in PList+AliChat, and new ones perform better. Maybe someday I will rewrite old ones, I dunno - I have a lot of shit to do for now.
 
+Characters sorted based on their creation date, so on the top will be my old ass primitive W++ chars, and closer to the bottom my recent works.
+
 For some characters I included World Info and sprites. All of that can be used with Cohee#1207 fork of Tavern that you can find [here](https://github.com/SillyLossy/TavernAI). Please read readme before trying to find me and ask how to use it.
 
 !!! info

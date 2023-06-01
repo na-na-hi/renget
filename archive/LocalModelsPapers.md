@@ -45,6 +45,7 @@
 07/2022|[Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
 03/2023|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
+05/2023|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
 |
 |**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -232,6 +233,8 @@
 05/2023|[Landmark Attention: Random-Access Infinite Context Length for Transformers](https://arxiv.org/abs/2305.16300)
 05/2023|[Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 05/2023|[Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333)
+05/2023|[Intriguing Properties of Quantization at Scale](https://arxiv.org/abs/2305.19268)
+05/2023|[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

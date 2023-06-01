@@ -98,6 +98,7 @@
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
 [Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa
+[FalconTune](https://github.com/rmihaylov/falcontune)|Above method for the Falcon models (7B/40B) 
 [LLM-Pruner](https://github.com/horseee/LLM-Pruner)|Structured pruning of LLMs but only tests for 7B so far
 |
 [Massively Multilingual Speech](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)|Meta's STT and TTS models half word error rate of whisper covers 1000+ languages

@@ -10,6 +10,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
+[!] [Bipbots](https://rentry.org/bipbots) | Misc | English
 [!] [Scrimbly](https://rentry.org/scrimb) | Misc | English
 [!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
@@ -26,9 +28,8 @@ Botmaker | Category | Defs Language
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Cuteanon](https://rentry.org/cuteanon) | Misc | English
-[!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
-[!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
-[!] [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
+[Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English
 [Koikoikoi](https://rentry.org/4amrn) | Misc | English
 [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry | English
 [Smile](https://rentry.org/HelpanonSmile) | Misc | English
@@ -44,7 +45,6 @@ Botmaker | Category | Defs Language
 [Clutch](https://rentry.org/cominginclutch) | Misc | English
 [Hochimama](https://rentry.co/hochimamabots) | Misc | English
 [Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... | English
-[Bipbots](https://rentry.org/bipbots) | Misc | English
 [Frozenvan](https://rentry.org/frozenvan) | Misc | English
 [Alpaca](https://rentry.org/AlpacaBots) | Misc | English
 [KCAnon](https://rentry.org/botelover_23d5492d) | Mostly KC Characters / Misc | English
