@@ -1,7 +1,7 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](.png)
-Democracy Edition
+![suggested OP image](https://imgur.com/5Ru0ENt.png)
+Siddhartha Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>431998304
  

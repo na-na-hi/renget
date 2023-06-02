@@ -12,14 +12,26 @@ This list currently only compiles published novels but I might create a seperate
 ***
 #### Dragons
 !!! info Info
-	*Because ~~otherkins~~ /scaly/ always complains about how dragons are treated, the following rating system will be used:*
-	- DC (Dragon-centricity): How much the plot revolves around dragons as compared to humans.
-	- CA (Character Agency): How much dignity dragons are given (i.e. as more than just a stepping stone to make another character look cool). 
-	- PS (Philosophy/Spirituality): How much the story focuses on what it philosophically/spiritually means to be a dragon.
-
+	*Rating system is getting a redo. (eventually)*
+	* DC (Dragon-centricity): How much the plot revolves around dragons.
+	* CA (Character Agency): How much dignity dragons are given.
+	* PS (Philosophy/Spirituality): How much the story focuses on what it means to be a dragon.
+‎
+**Avonoa Series** (2014-2021) by H. R. B. Collotzi 
+Fantasy (xenofiction)
+In this world, dragons maintain an ancient tradition of refusing to speak in front of humans to hide their true intelligence. Each dragon must pass the Krucible, a test of silence that acts as a sort of coming of age trial which indicates that a dragon has enough maturity to be allowed to venture beyond dragon territory. The story is told in a split POV, with 60% following Dak, who, having failed the Krucible many times, decides to sneak out after hearing that Tog, his friend, and Priya, a dragoness whom he has promised his heart to, has left with a group on a mission and the other 40% revolving around a reasonable prince, having inherited the throne, trying to deal with a "dragon problem" and the return of his long-lost sister. The first two books are relatively well-written, but by last book, the plot gets a bit convoluted and the author has to make some ass-pulls to give the story a conclusion. 
+**The Secret of Avonoa**
+**ISBN-10** 1499758537
+**ISBN-13** 978-1499758535
+> **DC 4/5**
+> **CA 4/5**
+> Contains some basementanoning.
+> **PS 3/5**
+> Has some interesting xenoanthropology/biology about dragon souls and their mating customs.
+‎
 **Bound in Scales** (2017) by Steven De Luca
 Fantasy (TF/xenofiction)
-A scientist/wizard in a fantasy world turns himself into a dragon in order to study their society (basically the plot of Avatar but actually done well). If you enjoyed this novel, you should check out *Bound in Black* (2020) which is an equally well-written sequel. For a more spoilery synopsis, check out the [tvtropes page](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BoundInScales).
+A scientist/wizard in a fantasy world turns himself into a dragon in order to study their society (basically the plot of Avatar but actually done well). If you enjoyed this novel, you should try *Bound in Black* (2020) which is an equally well-written sequel. For a more spoilery synopsis, check out the [tvtropes page](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BoundInScales).
 **ISBN-10** 1973440571
 **ISBN-13** 978-1973440574
 > **DC 4/5**
@@ -29,7 +41,7 @@ A scientist/wizard in a fantasy world turns himself into a dragon in order to st
 > There's a section that involves some dragons being tortured (to show how evil the antagonists are) but besides that, the dragons in the story are generally free to make choices that drive the plot in a meaningful fashion.
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans.
 > **PS 5/5**
-‪
+‪‎
 **Dragon Dreams** (2021) by C.B. Morgan
 Urban Fantasy (TF/xenofiction)
 A boy meets a dragon in a dream... then becomes one himself. Forced to hide from humanity, he journeys to a sanctuary that they have created, mentored by the dragon from his dreams. Note: This is the author's first published novel and also happens to be adapted from the [DA fic](https://www.deviantart.com/citizenindigo/art/Dragon-Dreams-Prologue-563338138) that he wrote several years ago. (Although the prose is decent)
@@ -40,10 +52,32 @@ A boy meets a dragon in a dream... then becomes one himself. Forced to hide from
 > **CA 5/5**
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans. (also so far the only species that can wield magic).
 > **PS 4/5**
-‪
+‎
+**Dragons of Etra** (2021-2022) by Chester Young
+Fantasy (xenofiction)
+A Wings of Fire-esque novel in which most dragons have an element and those that don't are superstitiously seen as bad omens, usually murdered upon hatching, save for the main protagonist who is able to survive until adulthood. The first book hits all of the standard cliches of a typical rogue/assassin fantasy and the series as a whole seems to be attempting to achieve a world record of cramming as many dragon tropes as possible in the entirety of 2 books.
+**Dragons of Etra Book 1: The Forgotten Element**
+*no ISBN, e-book only*
+> **DC 4.75/5**
+> ~~Humans are basically treated as mythological creatures that don't exist.~~ They do in the second book. 3.75/5
+> **CA 5/5**
+> See above. Wyvern-riding and mental bonding exists in the second novel, however.
+> **PS 2/5**
+> Dragons have their own deities and such but at a certain point, you're going to think you're reading about humans in big scaly costumes dealing with human socioeconomic issues in a typical medieval monarchy (with thieves guilds). Its not like the author doesn't try, as the novel does briefly detail worldbuilding like weapon attachments on wings and in one instance, vertical city sprawl (also minor differences in linguistics and thought) but it sort of does run into the same pitfalls as Wings of Fire. Despite its flaws, the author does have a passion for rider (bonding) and dragon pov stories, and even keeps his own list of dragon literature on his website.
+‎
+**Fire of the Phoenix** (2021) by Azariah Jade
+Fantasy (xenofiction)
+A coming of age story that begins when a terrible calamity falls upon a hatchling's clan, forcing him into exile with the burden of a horrible curse. In terms of pacing, the latter half of the story is a bit rushed with a rather cliche ending.
+**ISBN-13** 979-8452680505
+> **DC 3.75/5**
+> This product may contain humans.
+> **CA 4/5**
+> **PS 3/5**
+> The "curse" and its source acts as the main antagonist of the story, with humans playing a relatively minor role. More focus is given to the different customs between dragon clans and their way of life.
+‎
 **Mating Flight: A Non-Romance of Dragons** (2015) by Bard Bloom
 Fantasy (xenofiction)
-Pretty strange book but quite fun to read. The author clearly had fun writing it too. Its a comedy about a set of misfit young dragons who go on a interdimensional trip to fight over who will marry who. Can be a bit of a difficult read at times, deliberately so. Had to refer to a dictionary several times. The dragons are presented as quite alien in their thinking in their thinking and society but in a pretty understandable way? Also unbelievably powerful. Some anons might not like how they are presented as not being wise paragons of virtue, but very amoral from a human standpoint and the flaws in their society are pretty clear to see. But if that doesn't bother you then then book is absurd , witty and explores some interesting themes. The book doesn't really have an ending its sequel is clearly meant to be read as one book.
+Pretty strange book but quite fun to read. The author clearly had fun writing it too. Its a comedy about a set of misfit young dragons who go on a interdimensional trip to fight over who will marry who. Can be a bit of a difficult read at times, deliberately so. Had to refer to a dictionary several times. The dragons are presented as quite alien in their thinking in their thinking and society but in a pretty understandable way? Also unbelievably powerful. Some anons might not like how they are presented as not being wise paragons of virtue, but very amoral from a human standpoint and the flaws in their society are pretty clear to see. But if that doesn't bother you then then book is absurd, witty and explores some interesting themes. The book doesn't really have an ending its sequel is clearly meant to be read as one book.
 **ISBN-13** 978-1514840528
 > **DC 4.5/5** 
 > Dragons are the central focus of the book, non dragons exist but as clear inferiors to the dragons or side characters. No humans.
@@ -51,7 +85,7 @@ Pretty strange book but quite fun to read. The author clearly had fun writing it
 > "How much dignity dragons are given?" No one is really given much dignity in the book but they are clearly far and large the most powerful/ important beings in the setting.
 > **PS 4/5**
 > Not really sure how to rate this. Its a comedy so their entire outlook and philosophies are mostly played for laughs but it does have interesting worldbuilding and detailed explorations as why the dragons are the way they are. Interesting themes about power.
-
+‎
 **Scales and Honor: The Dragon's Paladin** (2018) by Justin Lee
 Fantasy (dragon riding)
 ~~When a human and a dragon love each other very, very much~~
@@ -62,23 +96,23 @@ In a setting heavily inspired by DND, a paladin meets a dragon and they go on a 
 > **DC 2/5**
 > While the iconic duo is the main focus of the series, the POV often switches to many of the other non-dragon characters on their own adventures.
 > **CA 3.75/5**
-> Dragons are treated surprisingly well but are (reasonably) curbstomped when they fall victim to hubris
+> Despite being a rider novel, dragons are treated surprisingly well but are (reasonably) curbstomped when they fall victim to hubris
 > **PS 2/5**
 > As a whole, but one of the books in the series deserves a 5/5
-‪
+‎
 **Scaleshifter** (2019) by Shelby Hailstone Law
 Fantasy (TF)
-Following a war between two kingdoms involving artificial dragons, a child is drafted into the military and experimented on. After being turned into one, he escapes and comes under the tutelage of a real dragon who teaches him about their way of life. This book is part of a (currently) 3-part series , with *The Black Dragon* (2020) about a female dragon in a similar situation and *The God's Gift* (2021).
+Following a war between two kingdoms involving artificial dragons, a child is drafted into the military and experimented on. After being turned into one, he escapes and comes under the tutelage of a real dragon who teaches him about their way of life. This novel is part of a 4-book series , with *The Black Dragon* (2020) about a female dragon in a similar situation.
 **ISBN-10** 169342889X
 **ISBN-13** 978-1693428890
 > **DC 4.5/5**
 > Besides the beginning, generic humans only really show up as part of the army hunting the protag after he escapes. 
-> 4/5 for the second novel but by the third and fourth this drops to a 2/5.
+> 4/5 for the second novel but by the third and fourth this drops to a 2/5, focusing too much on human intrigue.
 > **CA 4/5**
 > If you consider the torture of fake (human-turned) dragons equivalent to real ones. 
 > Dragons live in a stereotypically utopic, primitive society with a council of elders and tend to avoid humans.
 > **PS 4/5**
-‪
+‪‎
 **Songs of Chaos** (2020) by Michael R. Miller
 Fantasy (dragon riding)
 Ongoing series currently on books 2 of 5. Ascendant and Unbound are the two already released. Servant boy saves blind dragon from death and the two become companions to grow stronger and defeat an upcoming apocalyptic threat. Lots of high fantasy and adventure influenced by cultivation tropes. Really nice wholesome relationship between the two main characters, rider and dragon.
@@ -91,7 +125,7 @@ Ongoing series currently on books 2 of 5. Ascendant and Unbound are the two alre
 > As above.
 >**PS 3/5**
 >The magic system is a central focus and is a product of the dragon's soul.
-‪
+‪‎
 **Tooth and Claw** (2003) by Jo Walton
 Alternate History? (xenofiction)
 Interestingly, the winner of the World Fantasy Award for Best Novel in 2004. Set in a victorian setting, using victorian-era character archetypes and narrative structure, this novel attempts to worldbuild an alien society of dragons with their own social structure and customs. Notably, confession and absolution are regarded a high form of sin, and it is customary to feast upon not only the deceased, but any perceptibly weaker dragons whose continued existence is regarded as a degradation of the species as a whole. The novel follows the immediate aftermath of the death of a dragon clan's patriarch, the ensuing trouble upon dividing up his family's inheritance, and the consequences in seeking reparation thereof.
@@ -99,7 +133,10 @@ Interestingly, the winner of the World Fantasy Award for Best Novel in 2004. Set
 **ISBN-13** 978-0765319517
 > **DC 5/5**
 > Probably the only novel on this list that (technically) does not feature any human characters, whatsoever.
-‪‪‪‪‪
+> **CA 5/5** see above
+> **PS X/5**
+> As a victorian novel, the author intentionally follows the genre convention of having a (human) moral message at the end.
+‪‪‪‪‪‎
 **Temeraire** (2006-2017) by Naomi Novik
 Alternate History (dragon riding)
 Have you ever wondered what the Napoleonic Wars would be like if it were fought with dragons? Well, starting with *His Majesty's Dragon* (2006), the series focuses on a British Navy Captain who ends up becomming a dragon rider for the Britain's Aerial Corps after taking possession of a hatchling.
@@ -111,7 +148,7 @@ Have you ever wondered what the Napoleonic Wars would be like if it were fought 
 > **CA 2.5/5**
 > Western dragons become feral if they do not imprint on a rider and are mostly treated as fodder rather than actual people. There are some exceptions, such as the main duo and dragons are worshipped in some places outside of Europe.
 > **PS 1.5/5**
-‪‪‪
+‪‪‪‎
 **Vainqueur the Dragon** (2019) by Maxime J. Durand
 Fantasy (isekai/litrpg)
 Part of a 4 book series originally adapted from the [royalroad webnovel](https://www.royalroad.com/fiction/26534/vainqueur-the-dragon). Probably the only litrpg on this list, purely because it is a self-aware satire/parody of common litrpg tropes. Also due to popular demand.
@@ -122,10 +159,10 @@ Part of a 4 book series originally adapted from the [royalroad webnovel](https:/
 > **CA 3/5**
 > Can't say much without spoiling, although Vainqueur gets a lot of good character development despite being your stereotypical dragon.
 > **PS 1/5**
-‪‪‪‪
+‪‪‪‪‎
 **The War of Embers** (2019) by James Duvall
 Fantasy/Urban Fantasy (TF/isekai)
-Western ~~isekai~~ portal fiction, which is to say, isekai but without the usual isekai cliches. Although this is poorly rated by /scaly/ standards, it is still an incredibly good fantasy novel on its own. The only reason why this is on the list (besides nepotism) is because it delves deep into the main protag's mental state and personality changes after they are turned into a dragon and has some of the best original worldbuilding for dragons. For a better synopsis, see the tvtropes page [here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfEmbers).
+Western ~~isekai~~ portal fiction, which is to say, isekai but without the usual isekai cliches. Although this is poorly rated by /scaly/ standards, it is still an incredibly good fantasy novel on its own. The only reason why this is on the list (besides nepotism) is because it delves deep into the main protag's mental state and personality changes after they are turned into a dragon and has some very interesting worldbuilding. For a better synopsis, see the tvtropes page [here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfEmbers).
 **ISBN-10** 1795086289
 **ISBN-13** 978-1795086288
 > **DC 2/5**
@@ -133,8 +170,8 @@ Western ~~isekai~~ portal fiction, which is to say, isekai but without the usual
 > **CA 3.5/5**
 > Outside of the main cast, most of the other dragons remain in the background, but they have their own kingdom and maintain their sovereignty.
 > **PS 2/5**
-‪
-**Wings of Fire** (2013-) by Tui T. Sutherland
+‪‎
+**Wings of Fire** (2013-2022) by Tui T. Sutherland
 Fantasy (xenofiction)
 Yes, this is the same author who was part of the Erin Hunter team who wrote *Warrior Cats*. Comprised of 15 novels and a side series that spans 3 arcs, this is the definitive /scaly/ indoctrination machine published by Scholastic intended for a YA audience. Set in an alien world where dragons have organized into tribes as the dominant species on the planet, the first arc focuses on a war of succession and a multi-tribal friendship of dragonets who are the subject of a prophecy of peace.
 **The Dragonet Prophecy**
@@ -197,12 +234,6 @@ Fantasy (xenofiction)
 **Dragon Champion**
 **ISBN-10** 0451463633
 **ISBN-13** 978-0451463630
- 
-**Avonoa Series** (2014-) by H. R. B. Collotzi 
-Fantasy (xenofiction)
-**The Secret of Avonoa**
-**ISBN-10** 1499758537
-**ISBN-13** 978-1499758535
 
 **Bitterwood** (2007-2018) by James Maxey
 Fantasy
@@ -215,11 +246,6 @@ Fantasy (isekai)
 **The Dragon and the George**
 **ISBN-10** 0345350502
 **ISBN-13** 978-0345350503
-
-**Dragons of Etra** (2021-2022) by Chester Young
-Fantasy (xenofiction)
-**Dragons of Etra Book 1: The Forgotten Element**
-*no ISBN, e-book only*
 
 **The Dragons of Solunas** (2016-) by H. Leighton Dickson
 Fantasy (dragon riding)
@@ -242,10 +268,6 @@ Fantasy (dragon riding)
 **Dragonflight**
 **ISBN-10** 0345335465
 **ISBN-13** 978-0345335463
-
-**Fire of the Phoenix** (2021) by Azariah Jade
-Fantasy (xenofiction)
-**ISBN-13** 979-8452680505
 
 **The Inheritance Cycle** (2002-2011) by Christopher Paolini
 Fantasy (dragon riding)

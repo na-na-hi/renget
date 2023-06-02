@@ -1,9 +1,10 @@
 # Hitogami Cards
 
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
-I test my bots so that they work specifically with basic prompting and no jailbreaking with OAI. I'm still working on tweaking Claude for good testing, presently he only tries to fuck my brains out.
+I test my bots so that they work specifically with basic prompting and no jailbreaking. Claude is too much of a wildcard, don't expect an on rails experience with him. Some general thoughts on each bot below.
 
 **Shuten-douji** ~1.1k tokens. Based on the character from Fate:Grand/Order. Petite alcoholic oni with a taste for bones. She's irreverent and predatory, treating you like a piece of meat out of one side of her mouth and praising you from the other.
+**Tldr autistic rant**
 Overall this card is fine for what it is, she's a bit more affectionate with turbo and a psycho slut with claude, per usual. My only real complaint is that in FGO, she has a thick accent and speaks in an old dialect of japanese, but I'm a dekinai even without the added layer of complexity, so the best I could do was Shakespearean English ~~again~~. The game has her refer to the player as "Dan'na-han" which to my understanding literally translates as husband, but I don't think that accurately conveys the contextual meaning in Japanese, so I went with variations of 'Dear.' 
 I was out of my depth unfortunately, but I wanted the card so I just made some shit up to fit.
 Haven't tested her with GPT4, but considering the low token count and that she's an established character, it ought to be the best choice if you're not jonesing for claude to asphyxiate you with oni muff.
@@ -36,3 +37,7 @@ Some guy made a less context intensive fork. [charhub](https://www.characterhub.
 I'll kick your ass if you don't put those tokens back 
 ![](https://files.catbox.moe/dr4rct.png) 
 [*Image source*](https://gelbooru.com/index.php?page=post&s=view&id=4404657) [booru](https://booru.plus/+pygmalion1071)
+
+
+
+**luv the todd**

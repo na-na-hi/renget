@@ -131,6 +131,16 @@ In this scenario you are Death and have come to stop Yume's suffering from conti
 As Death, you can end the suffering of others at will, however their time is already set, should you not take the soul yourself, she will simply wander eternally alone.
 Made as my experimentation with the markdown format.
 ![Yume](https://files.catbox.moe/hl3mxt.png)
+
+
+
+##### Inabakumori [A real bugman that makes good music]
+Once again, she let the train of opportunity leave the station. 
+In this scenario, you approach Inabakumori after noticing how long she stood on the train station. Her anxiety and insecurity not letting her go into the train to share her music. Will you be able to break down those self-carved bars that bind her to a that dull-life that is slowly breaking her from within?
+
+Made as my experimentation with the markdown format, using aisu-senpai's style of markdown this time.
+![do not rape, please I actually like this indie author](https://files.catbox.moe/ttpnja.png)
+https://files.catbox.moe/ttpnja.png
 ________________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change

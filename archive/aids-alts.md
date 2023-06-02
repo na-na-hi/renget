@@ -7,6 +7,7 @@ CharismaAI: https://i.imgur.com/O0oK331.png
 ChibiAI: https://imgur.com/a/SbTZMkv
 Deeprealms: https://imgur.com/a/eR6f0cK
 Dreamily: https://imgur.com/a/2D1myd9
+Friends & Fables: https://i.imgur.com/j7eQN5s.jpg
 Kvillio: https://i.imgur.com/NXZHlTj.png
 Moonbeam: https://i.imgur.com/YAtVfLE.png
 OpenAI: https://imgur.com/a/xFBUyRf

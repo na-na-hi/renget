@@ -47,6 +47,8 @@ Pub: [31 May 2023 No.93773423](https://desuarchive.org/g/thread/93773321/#q93773
 Edit: -
 - 1683 words, 6 minutes read
 
+*"A short guide detailing the different kinds of creativity present in a bot and how to implement and improve them"*
+
 ***
 ##HochiTurboTips
 https://rentry.org/HochiTurboTips

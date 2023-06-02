@@ -4,7 +4,19 @@
 !!! warning DISCLAIMER
     The fantasy isn't actually all that dark.
 
+Welcome to my rentry where I upload my bots. I don't really have any particular themeing beyond just doing shit that I like, though the fetishes I like the most for NSFW bots are pregnancy, lactation and bondage.
+
+All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results on anything weaker than those two!
+
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
+
+***
+
+**Table of Contents**
+[TOC2]
+
+***
+
 ##NSFW/Waifu oriented bots
 Bots designed for you to either bust a nut or shoot the shit - romantically, that is. 
 Image| Name | Description | Link
@@ -28,16 +40,29 @@ Image| Name | Description | Link
 
 ***
 
-##Other bots
-Bots I either made as a joke or aren't oriented towards NSFW or anything in particular.
+##SFW bots
+Bots that were made purely with the intent of being SFW conversation partners or aren't designed to be waifus. Though honestly, you're welcome to try regardless. 
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![image](https://git.characterhub.org/darkfantasy109/Binah/-/raw/0c6dfc75284e38843cb1173edb02c62c78c1a668/raw/tavern_raw.png)   | Binah | The first card I ever made. It's Binah, from Lobotomy Corp and Library of Ruina! Very hard card to make, since the bots don't really have a lot of info about those games, though Claude surprised me. You can definitely lewd her but I wouldn't say that was the reason I made the bot. Have fun talking with everyone's favorite verbose, philosophical hag. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Binah)
+ ![image](https://git.characterhub.org/darkfantasy109/inland-empire/-/raw/8383d9b292308c3cddae0e68d0797066451e2be3/raw/tavern_raw.png)   | Inland Empire | The skill from Disco Elysium. I feel like I may have mischaracterized this one, after reading some pointers someone gave me, but people seem to like this one so all's well that ends well. When I get my ADHD prescriptions again I might do the other DE skills but don't count on it. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/inland-empire)
+
+##Scenario/Gimmick bots
+Bots that are more intended to represent scenarios rather than characters or that have specific gimmicks that go beyond just basic roleplay.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![image](https://git.characterhub.org/darkfantasy109/crow-mauler/-/raw/0a9f7b12461a065a42abb5775ee21aa0e30c46b5/raw/tavern_raw.png)   | Crow Mauler | The iconic not-pyramidhead from Fear And Hunger. Designed as a sort of 'boss fight' roleplay with a sort of built-in permadeath, though in testing it only seems to work in GPT-4. Can YOU defeat the prowler of the Dungeon of Fear and Hunger?  |[CHUB link](https://www.characterhub.org/characters/darkfantasy109/crow-mauler)
+ ![image](https://git.characterhub.org/darkfantasy109/warp-train-uw-212/-/raw/7f454286f146b6ecd8173564e8d969bd232352e7/raw/tavern_raw.png)   | WARP Train | W Corp's flagship singularity and transportation system; The WARP Train is capable of teleporting to any of its stations in 10 seconds! Contains some Library of Ruina spoilers. Seriously go play that game first before this. Card is designed for group chats though it works solo too. |[CHUB link](https://www.chub.ai/characters/darkfantasy109/warp-train-uw-212)
+
+***
+
+##Shitpost bots
+Bots made for shits and giggles.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
  ![image](https://git.characterhub.org/darkfantasy109/SCHLOPDOG/-/raw/f5399d36694a949ad84b0ffa272ee0756d3d37a6/raw/tavern_raw.png)   | Schlopdog | SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP  | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/SCHLOPDOG)
  ![image](https://git.characterhub.org/darkfantasy109/niggly-wiggly/-/raw/eb262206748e8cacedd33a6f70fd0271e32a1633/raw/tavern_raw.png)   | Niggly Wiggly | FAGGOT STOLE MY SHIBBLEDIBBLE. GO FUCKING GET IT. Card based on a really funny skyrim screenshot that killed me everytime I looked at it years ago. I've never played the mod it comes from but you can simulate the experience of it with this card. Works really well in group chats. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/niggly-wiggly)
  ![image](https://git.characterhub.org/darkfantasy109/Claude/-/raw/2eddc0330941d31d72bdb809f467530f4c0736c0/raw/tavern_raw.png)   | Claude | Something I made as a joke. It's Claude! The AI designed to be "helpful", ""harmless"", and """honest""". Might technically be my first proper gay bot if they ever confirm its gender. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Claude)
- ![image](https://git.characterhub.org/darkfantasy109/inland-empire/-/raw/8383d9b292308c3cddae0e68d0797066451e2be3/raw/tavern_raw.png)   | Inland Empire | The skill from Disco Elysium. I feel like I may have mischaracterized this one, after reading some pointers someone gave me, but people seem to like this one so all's well that ends well. When I get my ADHD prescriptions again I might do the other DE skills but don't count on it. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/inland-empire)
- ![image](https://git.characterhub.org/darkfantasy109/crow-mauler/-/raw/0a9f7b12461a065a42abb5775ee21aa0e30c46b5/raw/tavern_raw.png)   | Crow Mauler | The iconic not-pyramidhead from Fear And Hunger. Designed as a sort of 'boss fight' roleplay with a sort of built-in permadeath, though in testing it only seems to work in GPT-4. Can YOU defeat the prowler of the Dungeon of Fear and Hunger?  |[CHUB link](https://www.characterhub.org/characters/darkfantasy109/crow-mauler)
  ![image](https://git.characterhub.org/darkfantasy109/thirsty-little-flower/-/raw/afdbf76644c452364a71c59747cfc089b45a6b15/raw/tavern_raw.png)   | Thirsty Little Flower | hhhnnnggg whatever | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/thirsty-little-flower)
 ![image](https://git.characterhub.org/darkfantasy109/ram-ranch/-/raw/f1f3531436d1d66270da9b9266af58040103ace2/raw/tavern_raw.png)   | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 
