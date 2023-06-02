@@ -126,6 +126,13 @@ https://yodayo.com/text-to-image
 
  ![](https://files.catbox.moe/b1zpfi.png)
 
+##### Holara
+https://holara.ai
+- requires to sign up; easy to use; free tier is pretty fast but watermarked; has additional features; advertised on 4chan
+
+ ![](https://files.catbox.moe/bg6bey.png)
+
+
 ***
 
 !!! info

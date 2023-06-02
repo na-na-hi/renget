@@ -1,9 +1,9 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 
-##Crusch (1/6/2023)
-https://www.chub.ai/characters/pitanon/Crusch
-![](https://files.catbox.moe/sw0iqj.png)
+##Aya (2/6/2023)
+https://www.chub.ai/characters/pitanon/Aya
+![](https://files.catbox.moe/7fxtz7.png)
 
 # Re:Zero Adventure
 It's all separate cards now. Add and remove them from a group chat when necessary.
@@ -52,6 +52,10 @@ https://www.chub.ai/characters/pitanon/Ram
 ## Emilia/w Puck (25/5/2023)
 https://www.chub.ai/characters/pitanon/Emilia
 ![](https://files.catbox.moe/se1cu1.png)
+
+##Crusch (1/6/2023)
+https://www.chub.ai/characters/pitanon/Crusch
+![](https://files.catbox.moe/sw0iqj.png)
 
 ## Echidna (25/5/2023)
 https://www.chub.ai/characters/pitanon/Echidna

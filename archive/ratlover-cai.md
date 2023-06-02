@@ -357,3 +357,5 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Filchers](https://imgur.com/T82fBly.png)
 ###Robyn
 ![Robyn](https://imgur.com/0wnjDtW.png)
+###Kate
+![Kate](https://imgur.com/stqc0EF.png)

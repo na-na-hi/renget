@@ -1,7 +1,7 @@
 /vrfg/ Guides
 
 >Avatars 3.0, including toggles
-https://youtu.be/dTlZXDJueks
+https://youtube.com/playlist?list=PLt8qiEFqNHFkPqpKLnVRx-G78mGvjPbFt
 >Physbones tutorial - give yourself jiggling titties, floppy cock, whatever
 https://www.youtube.com/watch?v=PTTnWUkswkU
 >("I'm Just Curious") Overview: Blender in under 10 minutes How to model an Avatar from scratch | VTuber VRchat .etc

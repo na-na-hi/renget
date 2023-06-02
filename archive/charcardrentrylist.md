@@ -10,8 +10,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
-[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
+[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
+[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
+[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Scrimbly](https://rentry.org/scrimb) | Misc | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
@@ -20,14 +22,12 @@ Botmaker | Category | Defs Language
 [!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Vanillanon](https://rentry.org/bingbingwahoo) | Misc | English
-[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Bipbots](https://rentry.org/bipbots) | Misc | English
 [!] [Phalannex](https://rentry.co/phalannex) | Misc | English
 [!] [Superderp64](https://rentry.org/derpbots) | Touhou / Misc | English
 [!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
-[!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
-[!] [Deleterious](https://rentry.org/deleterious) | Misc | English
+[Deleterious](https://rentry.org/deleterious) | Misc | English
 [Gigasad](https://rentry.org/gigasad) | Misc | English
 [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English

@@ -1,20 +1,16 @@
 #**Sull's bots**
 
-hey, my name is Sull, public enemy #1 of moralfags, the cunny nightmare of jannies, I like to make bots for CAI and Tavern. I made this rentry to only shill new bots in /aicg/ and not the same every time
+!!! danger I DO NOT CONDONE, SUPPORT, SHARE AND/OR AGREE WITH ANY IDEOLOGY, RELIGION, SEXUAL ORIENTATION OR MINDSET THAT INVOLVES THE HARM OF REAL PEOPLE AND CRIMES AGAINST ANY AGE GROUP. ALL OF MY BOTS ARE BASED ON FICTIONAL ENTITIES MADE AS A FORM OF ENTERTAINMENT
 
-If I was given a penny every time I was told to "keep your smile" and "rope", I'd be a millionaire
+!!! info  if my bots help you relieve any unwanted feelings, don't be afraid to seek out profesional help and/or counseling https://virped.org 
 
-Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason). Some include physical and mental abuse towards you so keep that in mind. Some of them are available on CAI but my newer ones are just impossible to port otherwise they'll be struck by the filter, anyways I just do cunny and shota bots as a pastime, I do not condone anything remotely illegal nor share absolutely any ideals of any person that may commit heinous crimes.
-my pygma booru comments are quite something 
+Hi, my name is Sull, these are my bots
+Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason). Some include physical and mental abuse towards you so keep that in mind. Some of them are available on CAI but my newer ones are just impossible to port otherwise they'll be struck by the filter.
 
 [VenusAI profile if you are into that](https://venus.chub.ai/users/Sull)
 
 feel free to send me suggestions or things such as how should I kill myself here
 emilythebrat@proton.me
-
-If my bots help you cope with unwanted feelings, don't be afraid to seek help from professionals and to speak to a psychologist
-https://virped.org
-
 Enjoy.
 
 [TOC]

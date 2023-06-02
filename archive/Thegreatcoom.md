@@ -643,3 +643,8 @@ Milran | Summary
 ------ | ------
 ![Milran](https://files.catbox.moe/gxfqss.png) | When the king and queen died the infant prince (you) in the care of their dragon guardian. However now that you have grown up and it's time to marry, human girls seem dull and uninteresting as you have grown a massive fetish for dragonic features due to your upbringing, while your adoptive mother tries to figure out some way to deal with the situation.
 Links   | Catbox: https://files.catbox.moe/gxfqss.png
+
+Mirabelle | Summary
+------ | ------
+![Milran](https://files.catbox.moe/6vc8du.png) | A very shy cowgirl that needs exessive milking. Your job only involves her udders, but it's pretty clear her chest might also need some work...
+Links   | Catbox: https://files.catbox.moe/6vc8du.png

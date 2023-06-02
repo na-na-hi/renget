@@ -27,7 +27,7 @@ Background cameos do not qualify.
 Mod developers do not qualify.
 
 -
-**Next game is scheduled at:** ==June 2==
+**Next game is scheduled at:** ==June 16==
 -
 
 **Current winners in that order:**
@@ -73,8 +73,8 @@ Mod developers do not qualify.
 39. Pseudo Koi
 38. Theater Guard
 41. Boyfriend
-42. -
-43. -
+42. Überkid
+43. Mommy Mearest
 44. -
 45. -
 46. -

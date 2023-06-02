@@ -131,7 +131,7 @@ In this scenario you are Death and have come to stop Yume's suffering from conti
 As Death, you can end the suffering of others at will, however their time is already set, should you not take the soul yourself, she will simply wander eternally alone.
 Made as my experimentation with the markdown format.
 ![Yume](https://files.catbox.moe/hl3mxt.png)
-
+https://files.catbox.moe/hl3mxt.png
 
 
 ##### Inabakumori [A real bugman that makes good music]

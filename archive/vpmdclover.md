@@ -139,12 +139,15 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 59 | | | | | |
 60 | | | | | |
 
+[**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
+
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
+* [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
@@ -204,6 +207,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
+* Growlithe(s)
+	* [Liminal Crossroads (ft. Growlithe(s)](https://rentry.org/v9e4t) *Not on Table*
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -270,6 +275,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
+	* [Reunion (ft. Togetic)](https://rentry.org/72x5v) *Not on Table*
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -377,6 +383,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
 * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 * [Booker's Journal](https://rentry.org/RibombeeJournal)
+* [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t)
+* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)
