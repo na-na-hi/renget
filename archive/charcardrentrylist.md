@@ -10,10 +10,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
+[!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [Scrimbly](https://rentry.org/scrimb) | Misc | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
-[!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [!] [AIC Industries](https://rentry.org/aicin) | Maids | English
 [!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
@@ -21,7 +22,6 @@ Botmaker | Category | Defs Language
 [!] [Vanillanon](https://rentry.org/bingbingwahoo) | Misc | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Bipbots](https://rentry.org/bipbots) | Misc | English
-[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Phalannex](https://rentry.co/phalannex) | Misc | English
 [!] [Superderp64](https://rentry.org/derpbots) | Touhou / Misc | English
 [!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English

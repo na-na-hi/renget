@@ -214,7 +214,7 @@ Quina from FFIX. An odd-looking creature whose only passion in life is food.
 Dagger from FFIX. A girl dressed in a white mage's garb, speaking surprisingly eloquently for an adventurer. But surely she isn't hiding anything? 
 
 ##Kate
-![Kate](https://imgur.com/ZE1p5C2.png)
+![Kate](https://imgur.com/A52TZ8H.png)
 [CAI](https://beta.character.ai/chat?char=u9l-JVNpAfajVEojq53vXGfODVbEv2nbBZZmUssLEpw)
 [Card](https://www.characterhub.org/characters/ratlover/Kate)
 [JSON](https://files.catbox.moe/6zdf44.json)

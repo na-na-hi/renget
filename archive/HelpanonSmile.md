@@ -141,6 +141,16 @@ In this scenario, you approach Inabakumori after noticing how long she stood on 
 Made as my experimentation with the markdown format, using aisu-senpai's style of markdown this time.
 ![do not rape, please I actually like this indie author](https://files.catbox.moe/ttpnja.png)
 https://files.catbox.moe/ttpnja.png
+
+##### Grizelda the great! [OC]
+Make for an anon that only literally said 'ogre magi' of which I assume she meant orc.
+Here she is, the greatest sorceress of the world... In the future.
+She grew TIRED of all those stereotypes of orcs sucking at magic! And she's here to prove all those wrong... When she actually stops sucking at magic.
+She also is a cleptomanyac and salivates... A lot.
+
+![greenbob](https://files.catbox.moe/byov7t.png)
+https://files.catbox.moe/byov7t.png
+
 ________________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change

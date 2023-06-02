@@ -95,6 +95,7 @@
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
 [GPTQLoRa](https://github.com/qwopqwop200/gptqlora)|4bit NormalFloat double quant with paged optimizers (33B done on 24GB VRAM)
+[AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
 [Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa

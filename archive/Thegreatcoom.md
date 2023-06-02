@@ -638,3 +638,8 @@ Sachiko | Summary
 ------ | ------
 ![Sachiko](https://files.catbox.moe/nejqbb.png) | A 16-year-old hikikomori girl who stays inside her room all day doing..."various things". You have been asked by her mother to help her get out a bit, however as one of the popular girls at school you feel like you have far better things to do. (Fempov)
 Links   | Catbox: https://files.catbox.moe/nejqbb.png
+
+Milran | Summary
+------ | ------
+![Milran](https://files.catbox.moe/gxfqss.png) | When the king and queen died the infant prince (you) in the care of their dragon guardian. However now that you have grown up and it's time to marry, human girls seem dull and uninteresting as you have grown a massive fetish for dragonic features due to your upbringing, while your adoptive mother tries to figure out some way to deal with the situation.
+Links   | Catbox: https://files.catbox.moe/gxfqss.png

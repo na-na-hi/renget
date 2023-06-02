@@ -78,6 +78,7 @@ https://civitai.com/models/18846/panda-delgado
 - The Legend of Korra
 	+ Korra
 https://civitai.com/models/74725/korra-or-the-legend-of-korra
+https://civitai.com/models/42002/korra-the-legend-of-korra-character-lora
 	+ Ikki
 https://civitai.com/models/73663/ikki-the-legend-of-korra-character-lora
 	+ Jinora
@@ -124,7 +125,10 @@ https://civitai.com/models/23546/megara
 https://civitai.com/models/46198/aphrodite
 - Jane Porter (Tarzan)
 https://civitai.com/models/56273/jane-porter-lora
-- Tinkerbell (2D and 3D)
+- Peter Pan
+	- Peter Pan
+https://civitai.com/models/63903/peter-pan-character-lora
+	+ Tinkerbell (2D and 3D)
 https://civitai.com/models/48946/tinkerbell
 https://civitai.com/models/53367/tinkerbell-disney-fairies-tinker-bell-movie
 - Betilla the Fairy (Rayman)
@@ -192,8 +196,9 @@ https://civitai.com/models/31471/anna-disney-wrise
 https://civitai.com/models/72127/goldilocks-puss-in-boots
 - Barbie (Toy Story)
 https://civitai.com/models/73934/barbie
-- Mavis Dracula (Hotel Transylvania)
-https://civitai.com/models/7072/mavis-dracula
+- Helen Parr (The Incredibles)
+https://civitai.com/models/40570/helen-parr-the-incredibles
+https://civitai.com/models/17632/helen-parr-the-incredibles-character-lora
 - Inside Out
 	+ Disgust
 https://civitai.com/models/80253/disgust-inside-out
@@ -203,6 +208,8 @@ https://civitai.com/models/80193/sadness-inside-out
 https://civitai.com/models/80126/joy-inside-out
 	+ Riley
 https://civitai.com/models/80207/riley-inside-out
+- Mavis Dracula (Hotel Transylvania)
+https://civitai.com/models/7072/mavis-dracula
 - Smurfette (The Smurfs 3D)
 https://civitai.com/models/81353/smurfette-the-smurfs
 - Dawn Betterman (The Croods)
@@ -242,6 +249,8 @@ https://civitai.com/models/79191/ren-the-pirates-of-dark-water
 https://civitai.com/models/79186/tula-the-pirates-of-dark-water
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
+- Marge Simpson (The Simpsons)
+https://civitai.com/models/22953/fonglets-marge-simpson
 - Lois Griffin (Family Guy)
 https://civitai.com/models/81449/lois-griffin-pacenkun
 https://civitai.com/models/81163/lewis-griffin
@@ -272,7 +281,6 @@ https://civitai.com/models/45219/gadgethackwrench
 https://civitai.com/models/67970/peg-pete-lora
 - Lola Bunny (Space Jam)
 https://civitai.com/models/19125/lola-bunny
-- Bia (Rio 2)
 
 ---
 
@@ -497,6 +505,10 @@ https://civitai.com/models/5884/ariel-disney
 https://civitai.com/models/25464/kidbooks
 - Milo Manara art
 https://civitai.com/models/7217/mcmimana2
+- Moebius Jean Giraud art
+https://cyberes.github.io/stable-diffusion-textual-inversion-models/#moebius
+https://civitai.com/models/8430/was-moebius
+https://civitai.com/models/74776/moebius-jean-giraud-style-lora (2.1 SD only)
 - Josan Gonzales art
 https://civitai.com/models/8709/was-josan-gonzales
 - Sam Yang art

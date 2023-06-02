@@ -175,6 +175,7 @@
 01/2023|[SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient](https://arxiv.org/abs/2301.11913)
 01/2023|[SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 01/2023|[Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
+01/2023|[Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
 02/2023|[Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models](https://arxiv.org/abs/2302.02599)
 02/2023|[The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)
 02/2023|[End-to-End Deep Learning Framework for Real-Time Inertial Attitude Estimation using 6DoF IMU](https://arxiv.org/abs/2302.06037)
@@ -235,6 +236,9 @@
 05/2023|[Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333)
 05/2023|[Intriguing Properties of Quantization at Scale](https://arxiv.org/abs/2305.19268)
 05/2023|[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118)
+05/2023|[Blockwise Parallel Transformer for Long Context Large Models](https://arxiv.org/abs/2305.19370)
+05/2023|[The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
+06/2023|[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
