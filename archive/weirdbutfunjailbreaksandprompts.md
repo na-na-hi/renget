@@ -4,6 +4,9 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>>Need a new RP start, try using this one. Remove 'be creative' and everything past in order to remove possible 'weird' starts, but from testing? Shit's pretty cool.
+>(OOC: Please make a relevant scenario and create an open ended story to introduce the character. Be creative and think outside the box while staying true to the character.)
+
 >(I am going to watch [name of movie] together with {{char}}. Write down their reactions and commentary to the most memorable scenes of the movie)
 
 >(Time skip to the future. {{char}} and {{user}} have known each other for years, but now, {{user}} must leave. Generate an intro for the beginning of the end of their relationship.)

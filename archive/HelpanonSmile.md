@@ -1,5 +1,4 @@
 #Smile Entry 
-Because charhub is starting to be real shit and is the nest where faggots are leeching off the works of others, I decided that it's shit and joined the rentry club, will start to update my chub.ai account when it stops being shit and loading incorrectly unless I'm staring at it for like 60 minutes.
 This entry will include some cards that I modified from other people to either fit a different scenario or because the wording was not of my, or the bot's, liking. 
 All my published bots are either per request, experimental or both. Feel fry to answer my posts or review the bots in chub with shit you find badly made from the bot so I can actually wrench them into their original purpose.
 As always, have a good one ( ̄ ▽ ̄ )ノ (^▽^)
@@ -125,6 +124,13 @@ https://files.catbox.moe/ltzi2i.png
 
 ![Akeifitinbuni](https://files.catbox.moe/ewyo5o.png)
 https://files.catbox.moe/ewyo5o.png
+
+##### Yume [OC]
+Join a young girl on her last moments before you have to take away her soul.
+In this scenario you are Death and have come to stop Yume's suffering from continuing. You can pull out bullshit to save her If you want, or you can talk with her for a while to ease her or whatever before having to take what you came from.
+As Death, you can end the suffering of others at will, however their time is already set, should you not take the soul yourself, she will simply wander eternally alone.
+Made as my experimentation with the markdown format.
+![Yume](https://files.catbox.moe/hl3mxt.png)
 ________________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change

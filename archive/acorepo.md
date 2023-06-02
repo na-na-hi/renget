@@ -227,6 +227,10 @@ https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-
 https://civitai.com/models/20949/dexters-mom
 - Sedusa (Powerpuff Girls)
 https://civitai.com/models/21148/sedusa
+- Toot (Drawn Together)
+https://civitai.com/models/81681/toot-drawn-together
+- Suise (The Oblongs)
+https://civitai.com/models/81688/suise-the-oblongs
 - Wuya (Xiaolin Showdown)
 https://civitai.com/models/21663/wuya
 - Icy (Winx Club)
@@ -238,6 +242,9 @@ https://civitai.com/models/79191/ren-the-pirates-of-dark-water
 https://civitai.com/models/79186/tula-the-pirates-of-dark-water
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
+- Lois Griffin (Family Guy)
+https://civitai.com/models/81449/lois-griffin-pacenkun
+https://civitai.com/models/81163/lewis-griffin
 - Donna Tubbs (The Cleveland Show)
 https://civitai.com/models/74513/donna-tubbs-the-cleveland-show
 - Tina Belcher (Bob's Burgers)
@@ -265,11 +272,14 @@ https://civitai.com/models/45219/gadgethackwrench
 https://civitai.com/models/67970/peg-pete-lora
 - Lola Bunny (Space Jam)
 https://civitai.com/models/19125/lola-bunny
+- Bia (Rio 2)
 
 ---
 
 Game characters
 
+- Solar Flare (Plants vs. Zombies) fan art
+https://civitai.com/models/80821/solar-flare-plants-vs-zombies-character-lora
 - Life is Strange
 	- Max Caulfield
 https://civitai.com/models/6344/max-caulfield-or-life-is-strange-lora
@@ -366,6 +376,8 @@ https://civitai.com/models/18828/jabcomix
 https://civitai.com/models/5423/luisapshadbase-but-from-ohio
 - Valerian & Laureline
 https://civitai.com/models/13998/valerian-and-laureline-comic-style
+- Hanna–Barbera backgrounds
+https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI
 https://civitai.com/models/6020/zelda-cdi-style-lora
 - C64 Graphics
@@ -396,7 +408,7 @@ https://civitai.com/models/54833?modelVersionId=59209
 
 ## Deleted from civit.
 
-- Samurai Jack Landscapes
+- Samurai Jack backgrounds
 https://mega.nz/file/J74xzZjC#rfPMwv4qxLpwcVrj6AcGBWJU5zbwoyW1F-XXGPoMsCA
 - Broken Age (Double Fine Productions)
 https://mega.nz/file/VrJVUSKS#C57wFd_4wnIK-hbQif2_58SXXU37DB9j5-EekjQ_8AU

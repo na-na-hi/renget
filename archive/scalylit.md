@@ -178,7 +178,7 @@ Fantasy (kobolds)
 **ISBN-13** 978-1492335047
 
 **Wings of War** (2015-2020) by Bryce O'Connor
-Fantasy (lizard/dragonfolk)
+Fantasy (dragonborn)
 (Section pending review)
 **Child of the Daystar**
 **ISBN-10** 0998810614

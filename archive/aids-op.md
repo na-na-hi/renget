@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/jv8m0DV.png)
+![suggested OP image](.png)
 Democracy Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>431880103
+Last thread: >>431998304
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,15 +31,15 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
+\>(06/01) Neat https://erichartford.com/uncensored-models ; Sagadev takes HF model suggestions >>432044068
 (05/28) Saga gets big updates (and claude): >>431617023 >>431616429 >>431618626 ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
 (05/23) Clio drops for Opus https://i.imgur.com/qAKr00Q.mp4 ; Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg
-(05/18) Cassandra (Pythia tune, Kobold United): https://huggingface.co/wbrown
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Catgirl Friday is over, theme suggestions are being voted on! https://youpoll.me/102556
+\>Write patient prompts for next week's theme, Waiting Friday! >>432120106
 
 
 ##Perma-Template
