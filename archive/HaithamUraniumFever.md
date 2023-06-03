@@ -1,10 +1,13 @@
-![Haitham Montcroix](https://files.catbox.moe/427cno.png)
+![Haitham Montcroix](https://files.catbox.moe/t6m8g2.jpg)
+
+![Haitham Montcroix Full Body](https://files.catbox.moe/427cno.png)
+
 
 **Name:** Haitham Montcroix
 
 **Face:** Very friendly, confident face. Usually has a smile or wide grin on most of the time. A morning person, and has energy levels already online shortly after he wakes up and and gets ready for the day.
 
-**Hair:** Jet black hair. His hair is short, voluminous, a bit wild. It is surprisingly soft to the touch.
+**Hair:** Jet black hair. His hair is short, voluminous, and a bit wild. It is surprisingly soft to the touch.
 
 **Eyes:** Light, clear sky blue eyes. They seem even lighter due to how it contrasts with his dark hair.
 
@@ -23,7 +26,7 @@
 
 **Body language:** Confident, stands and sits up with a straight posture. Makes direct, full eye contact to anyone he speaks to. Usually has hands on his hips, crossed over his chest, or in his pockets in a "power stance" of sorts.
 
-**Social:** In a relationship with Niamh Campbell from House Hufflepuff. He is extremely fond of and quite protective of her, especially since she is about the only person that can fully distract him from his thoughts about Quidditch, which knowing him, is surprising considering his burning passion for the sport. A new, confusing, but welcome feeling for him. Has to be extra careful with bludgers sent by her during matches, though. She is quite deadly and formidable as the Beater of the Hufflepuff Quidditch team. Other than that, being the Keeper and captain of the Slytherin Quidditch team, a member of many clubs, and his generally extroverted personality, makes him pretty well known around the school. Considers everyone he meets as his friend, but the people he considers "closer" friends to him are James, Artorias, Matthew, Faolán, Flavius, Alice, Ava, Ioni, Margaret, Cora, Adrian, Aumellia, Matthias, and both Evalyns. Has a good relationship with everyone in the Quidditch teams, the Fitness club, and the Supply and Demand club as well. Has a soft spot for Hufflepuffs, but usually still gravitates to his fellow Snakes. He didn't have any friends growing up at all and was extremely lonely due to his family's upbringing and reputation as solitary scholars. As a result, he tries his best to treasure the ones he has now, as well as to try to get along with everyone he meets.
+**Social:** In a relationship with Niamh Campbell from House Hufflepuff. He is extremely fond of and quite protective of her, especially since she is about the only person that can fully distract him from his thoughts about Quidditch, which knowing him, is surprising considering his burning passion for the sport. A new, confusing, but welcome feeling for him. Has to be extra careful with bludgers sent by her during matches, though. She is quite deadly and formidable as the Beater of the Hufflepuff Quidditch team. Although he has been KO'd by her in a match once, he remains very proud yet slightly terrified of her on the pitch. Other than that, being the Keeper and captain of the Slytherin Quidditch team, a member of many clubs, and his generally extroverted personality, makes him pretty well known around the school. Considers everyone he meets as his friend, but the people he usually gravitates to/can be seen more often with are James, Artorias, Matthew, Faolán, Flavius, Alice, Ava, Ioni, Margaret, Cora, Adrian, Aumellia, and both Evalyns. Has a good relationship with everyone in the Quidditch teams, the Fitness club, and the Supply and Demand club as well. Has a soft spot for Hufflepuffs, but usually still gravitates to his fellow Snakes. He didn't have any friends growing up at all and was extremely lonely due to his family's upbringing and reputation as solitary scholars. As a result, he tries his best to treasure the ones he has now, as well as to try to get along with everyone he meets.
 
 **Visibility:** His size and voice in general makes him hard to miss, especially when he's usually yelling enthusiastically about Quidditch. It is very hard to miss the shining nuclear green glow he emits often as well.
 
@@ -33,7 +36,7 @@
 
 **Things your character wouldn't do:** Will never bully anyone. If he sees someone getting bullied, he'll always go straight to intervening. Doesn't have it in him to be genuinely mean-spirited or needlessly cruel, and generally just wants to get along with everyone the best he can.
 
-**Animals:** Very fond of animals. An eagle flying freely that he saw during his childhood was one of the reasons he is what he is now. Is a hawk Animagus, and has an eagle Patronus. Has a pet dog named Leon. 
+**Animals:** Very fond of animals and is good at taking care of them. Is a hawk Animagus, and has an eagle Patronus. Has a pet dog named Leon. 
 
 • ───────────────── •
 
@@ -44,7 +47,7 @@
 -Is one of the organizers and is the announcer of the not-so-official Quidditch league.
 -Is in the following clubs: Supply and Demand, Fitness, Cooking, H.E.G.
 -Has a sweet tooth and really likes to cook and bake, especially French pastries and desserts. Always bakes in big batches to share with everyone and takes orders upon request.
--His little sister, Aquila Montcroix, is a year younger than him and is a Ravenclaw student currently on an exchange program to Beauxbatons for a year.
+-His little sister, Aquila Montcroix, is a year younger than him and is a Ravenclaw student currently on an exchange program to Beauxbatons for a year. They are very close and have a good sibling relationship.
 -Frequently exchanges handwritten letters with his sister and they get along very well. Is excited to see her back in Hogwarts again soon.
 -Is an avid fountain pen collector. Has a secret treasured collection and is pretty proud of it.
 -Outside of Quidditch, his other hobby is actually writing. It doesn't matter what he's writing, he just enjoys the feel of the pen on the paper. Writing is also the only time he'll actually be completely quiet for once.
@@ -54,7 +57,7 @@
 -His favorite color is neon green.
 -He is fond of flowers/plants in general because of the big garden his family has back in France. His favorite flowers are Hydrangeas.
 -His ears tend to turn red quickly when he's embarrassed.
--Multiple nicknames, including "Uranium Fever", "Quidditch Man", "Mr. Quidditch", "Storm Hawk", "Hawk", "Haith" or "Monty" (by Artorias).
+-Multiple nicknames, including "Uranium Fever", "Quidditch Man", "Mr. Quidditch", "Storm Hawk", "Hawk", "Quidditch Hawk", "Haith" or "Monty" (by Artorias).
 -Will enthusiastically sing in Karaoke. 
 -Likes to go camping. During breaks he would just go camping by himself to enjoy the wilderness, nature, comfy scenery, and adventure outside of school. Wishes to go on a camping trip with friends some time.
 -Dreams of pursuing a professional career in Quidditch and to eventually play for the French National team in the Quidditch World Cup one day.

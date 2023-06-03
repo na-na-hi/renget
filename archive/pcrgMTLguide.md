@@ -35,10 +35,9 @@ This guide assumes that you still went through the steps from [PriconeTL](https:
 2. Extract it to the directory of your choice
 3. Grab the latest SugoiOfflineTranslator.dll [here](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint/releases/latest/) and put it in priconner\BepInEx\plugins\XUnity.AutoTranslator\Translators
 4. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
-5. Add he following at the bottom (change the install path to your own):
-		[SugoiOfflineTranslator]
-		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V4.0-Public\Code
-		EnableShortDelay=True
+5. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:
+		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V4.0-Public\Code (replace with your own)
+		EnableCuda=False
 6. Start PriCon from the DMM Player; you will see a python.exe window pop up, no worries, this is expected and not malware
 
 This is still an MTL translation so don't expect a flawless result, but it cuts down the latency and does a better job than DeepL. DeepL seems to cut out almost all the onomatopoeia, exclamations, honorifics and so on for example, and sometimes just throws a dictionary definition for individual words.

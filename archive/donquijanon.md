@@ -1,6 +1,6 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: I'm back, but don't expect consistent shilling or new bots, I'll post and make them whenever I can. I'm making private all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+>ATTENTION: I'm back, but don't expect consistent shilling or new bots, I'll post and make them whenever I can. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
@@ -300,10 +300,20 @@ And someone replied with this:
 I thought it was a really fun idea, so I made a card about an imageboard for AIs.
 https://www.chub.ai/characters/donquijanon/hcg-human-chatting-general
 
+## Hispachan - No somos el 4chan en español pero gracias por el elogio
+Traté de revivir el foro de subnormales y llenar el vacío que nos dejó zeta. Es un poco esquizo por momentos, recomendable usar el main prompt.
+->![chispita](https://files.catbox.moe/xqs586.png)<-
+https://www.chub.ai/characters/donquijanon/Hispachan
+
 ##Existing Characters
-### E-123 Omega (Sonic)
+## Sonic
+### E-123 Omega 
 ->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/e-123-omega
+
+### Team Chaotix
+->![chaotix](https://git.characterhub.org/donquijanon/team-chaotix/-/raw/2aaabce05a44e4310086732dcbd1c07f247c0ed0/raw/tavern_raw.png)<-
+https://www.chub.ai/characters/donquijanon/team-chaotix
 
 ## Left 4 Dead
 
@@ -466,5 +476,10 @@ https://www.chub.ai/characters/donquijanon/rotting-soulmate
 ->![aiko](https://files.catbox.moe/tm9bkp.png)<-
 From "A Present From Her"
 https://www.chub.ai/characters/donquijanon/fukasugi-aiko
+
+### Fear (Determinable Unstable)
+->![fear](https://files.catbox.moe/vwfc2t.png)<-
+https://www.chub.ai/characters/donquijanon/Fear
+https://www.chub.ai/lorebooks/donquijanon/determinable-unstable
 
 Don't use my bots if you're a discordtranny or redditard.

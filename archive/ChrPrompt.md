@@ -50,12 +50,15 @@ Besides Wooper, who do you trust most in the guild?  Alternatively, who are you 
 Did you ever tell Wooper or any other native that this universe was a game in the human world? 
 >I nearly slipped and told Wooper the truth, but I opted to tell him that Pokemon only existed in fables. A little lie like that won't hurt him.
 What other ideas do you have for new combined attacks with Wooper? Would you consider throwing your partner at the enemies a combined attack?
+>You mean other than "hold Wooper in my vines and have him shoot different things?" Outside of that and holding enemies still with my vines, I got no ideas. Throwing Wooper is something I'd never even consider doing, what if he got hurt?!
 
 **Wooper**
 I know you hold humans in high esteem, but has there been a time where you've felt let down by a human or a time where a human hasn't lived to your expectations?
 >It might sound unthinkable, but Chespin himself let me down once. He forced us to flee from a Beedrill when we were trying to get pillows and blankets for the guild! He eventually worked up the courage to fight it, but that was the only time I've ever been disappointed in him.
 >Other than that, I thought all humans were brave and smart, but then I met Cyndaquil. Are there really a lot of humans like him?
 What ideas do you have for new combined attacks with Chespin? What would you think if your partner threw you at the enemies & called it a "new technique"?
+>I could freeze the ground with my Ice Beam, and then Chespin could slingshot himself onto it and do a sliding Headbutt on a far away bad guy! But Chespin's still too afraid of ice...
+>I wouldn't really like it if Chespin threw me without talking about the technique ahead of time, but he'd never do that! Besides, what would throwing me accomplish?
 
 **Togetic**
 You look like you could use a hug. Do you like hugs?
@@ -170,6 +173,7 @@ Have you considered getting a fake or prosthetic horn to replace your broken one
 
 **Sneasel**
 Have you ever gone too far teasing Booker?
+>C’mon, you’re really gonna make me talk about that? I mean, I know how to answer, but I really don’t wanna talk about it... alright, alright, stop pestering me. I’ll spill. See, thing is, one time, I kinda sorta pretended like I was... maybe gonna eat him. There, happy? What? You want more details? [Well, if it’ll get you to leave me alone, I guess I can talk some more about it...](https://rentry.org/c5e2a)
 Have you ever killed?  If not, would you?
 >Huh? What kinda question is that? Planning to tattle to Magnezone if I say ‘yes’? Well, sorry to disappoint, but the answer’s no. Never killed another Pokemon—not an intelligent one, that is. See, here’s the thing... back home, there was this type of Pokemon we called wild Pokemon, kinda partway between ferals and intelligent ones like you and me. They acted like ferals but didn’t fade into smoke when killed, so we could hunt them for stuff like meat, bones, and pelts. I’ve killed plenty of those along with my tribemates, but I’ve never killed an intelligent Pokemon. Now for the other question: would I kill one? Not sure. We had rules against that sorta thing back home, but there were some cases where it was okay to kill, like if your life was in really serious danger. So I think I could kill if I had to protect myself or someone I cared about, like Booker. But aside from that... I’d rather not do it. I dunno, it... just feels kinda weird and wrong.
 Is there anyone in the guild you'd like to spar with?
@@ -178,9 +182,12 @@ What exactly do you do when you "Go feral"?
 
 **Booker**
 What's the best and worst thing about being so small?
+>Well, picking the single worst thing is hard. I mean, there are a lot of problems with being tiny. But generally, I just hate how I’m so limited in this body. I move slowly because my legs are small, to the point where I have to run to keep up with someone casually walking. It’s impossible to reach things that aren’t basically at ground level already. And, of course, I always have to worry about getting squished or crushed somehow, like if someone grabs me too roughly, or if I end up on the floor and someone walks over without noticing me... ugh, I don’t want to think about it. It just makes me even more anxious than usual.
+>As for the best thing... to be honest, at first, I really thought there were no upsides to this. A Ribombee—especially a flightless one—seemed like a terrible Pokemon to get turned into. But then I realized... this situation has actually helped me bond with Sneasel. I rely on her for a lot, since I can’t really take care of myself anymore. Even though I hate being dependent like that, I think it’s helped us get a lot closer than we would otherwise. I just... really appreciate everything she does for me. I mean, with my predicament, I needed to find a good partner, someone who’d really help me out and not take advantage of me or bully me. I was so lucky to meet Sneasel. She may not be the friendliest Pokemon, and she may mess with me from time to time... but I couldn’t ask for a better partner.
 Being so small allows you to rest atop other Pokemon.  Is it comfy on Sneasel's head?  Are there any other Guildmons you think might be comfy? 
 >Yes, it's comfy. I really like sitting up there. Her fur is short but soft, and she gives off this slightly cold aura that helps me stay cool and helps me relax. As for other guildmates... I've perched on some of their heads from time to time, but Macom is definitely the comfiest. That tuft of wool on his head is like my cotton ball bed, only better. Um... speaking of which, I may or may not have fallen asleep on his head once or twice... Anyway, as for guildmates I haven't perched on yet, but want to try... maybe Nick. He's got a bunch of soft fur on his head, like Macom's wool, and he'd probably feel nice and warm since he's a Fire-type. Next time I see him, maybe I'll ask if he'll let me ride around with him for a bit...
 What are some ways you make yourself useful around the guild, besides looking cute n all
+>C-cute?! W-well, um, thanks... A-anyway, I’ve been trying to find ways to help. Mainly, I decided to start compiling info about dungeons and writing little notebooks and pamphlets and things like that, so we can have some resources for people to check before they face a dungeon. I like being prepared, so I want to make sure everyone else can be prepared too. And despite my... limitations, I can at least still read and write, so this has been working out pretty well. I started doing that sort of work a while back, actually. On a similar note, I also convinced Macom to let me help him with his cartography work as an assistant cartographer. I can help him make maps, consult books for research, things like that. That’s been going well, I think.
 Have you tried to build anything since the "slingshot incident"?
 >Not really... I’ve been procrastinating ever since the incident. I know I told Sneasel I was going to remake the slingshot, and I still plan to do it, but all I’ve done so far is make some doodles and sketches of ideas. I also came up with a name, but it’s kind of lame... y-you want to hear it? Alright... I’ll call it the “Beeshooter”. H-hey, stop laughing! Well... anyway, thanks for reminding me about that. I really should hunker down and get serious about rebuilding the slingshot. It’ll sure come in handy. Even though I keep putting it off, I’m not about to give up on it.
 
@@ -423,7 +430,7 @@ Humons, if you could bring back any one thing from the human world *for your par
 >**Booker**: I’d bring over some shonen manga for Sneasel. I know she’d love it. And even though I was never too interested in that genre as a human, reading it together with her would be fun.
 >**Carrot**: A carrot, so she knows what it is
 >**Gus**: I'd love to have my card collection b- oh, for my *partner*. Ha. Haha. HAHAHAHAHAHhaha *sob*
->**Chespin:** Team Cozy's holy grail, and my most sought-after treasure. A real deal, honest-to-god memory foam bed from the human world. It'd be like our cotton bed on steroids!
+>**Chespin:** Team Cozy's holy grail, and my most sought-after treasure. A real deal, honest-to-god memory foam bed from the human world. It'd be like our cotton bed on steroids! It'd blow Wooper away for sure.
 
 
 Humons, if you could evolve, would you?
@@ -442,6 +449,7 @@ Natives, whats your favorite food from the Pokemon World?
 >**Cassie:** It used to be a good Pecha Milkshake, but Kiyo made Octillery dumplings once...  Now I'm not sure!
 >**Clara:** Leppa berries 100%. Not so much for the taste (I practically eat anything), but because they're the only things that keep me up some days, & if what Smoke told me about the existance of gods is somewhat true, then these berries may as well be proof of their existance
 >**Beast:** Before coming to the guild I would deviate from my frugality and purchase *Fromage aux Feuille Précieuse* for myself, which I still believe is best enjoyed by itself.
+>**Wooper:** Is it cheating to say Blue Gummis? Because I love those things.
 
 Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “[exclusive items](https://bulbapedia.bulbagarden.net/wiki/Exclusive_item)” that are designed for specific Pokemon families (note that an item assigned to one species actually gives its benefit to every member of its evolutionary line). Assuming your species has an item available, which one would you most like to obtain?
 >**Booker**: I heard of one for a Ribombee, but it isn’t on that list... it’s called a Pollen Bow. Apparently it gives you good luck, and you’ll find more Kecleon shops in dungeons if you wear it. I’m not sure if that really works, but it sounds interesting. Also, I heard a description of how it looks, and it sounds really cute. I-I’m not sure I’d actually wear it, though. Especially not in public... Sneasel wouldn’t be able to stop teasing me.
@@ -451,6 +459,8 @@ Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “
 >**Furret:** Apparently, there's such a thing as a “Sentret Ruff”! Sounds really fancy! Ohh, I can already picture just how refined and noble that would look on me, haha... I wonder how it would look on him...? A-anyways... from what I've heard, it's supposed to make me faster when it's cloudy outside! I don't know how that works, but it sounds pretty cool! Although, I'm pretty fast already, and I wouldn't wanna run too fast and leave my little buddy behind. I always forget that he isn't as energetic as me, haha!
 >**Clara:** As much as i'd like to take enhancing items that boost my attack or defense, Smoke & I came to the conclusion that bypassing ghosts' natural intangibility with the Emit Ring would be extremely beneficial
 >**Elm:** Unlucky Sash's ability to conver Ghost-type damage into healing sounds cool. Not only because it covers a weakness, but because it would allow me to hit myself to heal. Too bad that Will-o-Wisp isn't a Ghost-type move, otherwise it would allow me to set myself on fire to regenerate! Now that would be a sight.
+>**Chespin:** I heard about something called a Chespin Scarf. Apparently it perks you up a little if you get hurt? I don't really want to get hurt, but I often find myself protecting Wooper. Maybe it could help out? I'm honestly more interested in how soft it is. If it's made especially for other Chespin, it must be really nice to have.
+>**Wooper:** There's something called a "Quag Torc." Chespin says it's some kind of ring. I could maybe wrap it around one of my gills, or my tail if it's large enough. It's supposed to make Grass-based attacks heal the wearer! Could you imagine that? I could get hit, and all Chespin would have to do is shoot one of those awesome Solarbeams at me!!
 
 If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 

@@ -3,7 +3,7 @@
 
 ##Aya (2/6/2023)
 https://www.chub.ai/characters/pitanon/Aya
-![](https://files.catbox.moe/7fxtz7.png)
+![](https://files.catbox.moe/ok3qbv.png)
 
 # Re:Zero Adventure
 It's all separate cards now. Add and remove them from a group chat when necessary.

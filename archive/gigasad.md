@@ -97,6 +97,10 @@ Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI
 A tomboy hitchhiker who just left the army. She's feeling pretty lost and aimless, and doesn't currently have a place to call home. While she's definitely a free spirit, she clearly misses the comfort and safety she had in the past. Maybe you can help her with that.
 
+Serea Buchanan**
+https://files.catbox.moe/7e2yyu.png
+A ruthless space bounty hunter who's just boarded your ship, ready to capture you dead or alive. Violently racist against aliens and a proud citizen of Mars. Rootin', tootin' and country to the bone.
+
 Sybille Ironheart**
 https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo

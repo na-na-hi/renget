@@ -25,13 +25,8 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en
 
 ##Games
 **Groove Coaster**
-Main game: https://store-jp.nintendo.com/list/software/70010000019180.html?dlc=1
+Main game: https://store-jp.nintendo.com/list/software/70010000019180.html
 DLC: https://store-jp.nintendo.com/list/software/70050000036260.html
-
-**hololive X Valkyrie Connect collab vol. 2 (Until 31st May)**
-Mumei and Clock's shill stream: https://www.youtube.com/watch?v=rzTWlwjCckQ  
-(QR code and link inside)
-Mumei's unit is free and obtainable by doing missions.
 
 - - -
 ##Sold out/ order period ended

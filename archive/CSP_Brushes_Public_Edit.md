@@ -116,6 +116,7 @@
 **Meltea Brush**|[1722147]|[Store](https://assets.clip-studio.com/en-us/detail?id=1722147)|[DL](https://pixeldrain.com/u/VG5U6vpt)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/21/1722147/thumbnail?1673574773)
 **REAGANS2 PEN**|[1715553]|[Store](https://assets.clip-studio.com/en-us/detail?id=1715553)|[DL](https://pixeldrain.com/u/Sux9M2RQ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/55/1715553/thumbnail?1660507937)
 **Reagan-RG pen (Reagan-RG펜)**|[1964554]|[Store](https://assets.clip-studio.com/en-us/detail?id=1964554)|[DL](https://pixeldrain.com/u/AimS14gw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/45/1964554/thumbnail?1669199388)
+**JUJU Line【Addition】 (JUJU线【追加】)**|[2004742]|[Store](https://assets.clip-studio.com/en-us/detail?id=2004742)|[DL](https://pixeldrain.com/u/EAdQXktL)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/47/2004742/thumbnail?1685198475)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 

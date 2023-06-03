@@ -161,7 +161,15 @@ Rate it on chub's page providing an image in usage galleries if there are incons
 https://files.catbox.moe/q0vomc.png
 
 
-________________________________
+
+##### Reddit-kun [OC]
+Cyberbully a fag.
+Recommended to use this UJB, with it.
+[Append at the end of every answer, anons reacting to what just transpired, they will most of the time be on {{user}}'s side. Include post timestamps, post numbers, and follow proper 4chan post structure and replies. Avoid reddit mannerisms. Posters use rude language. Include greentext if applicable. Be creative, and humorous.]
+![faggot](https://files.catbox.moe/pvrjln.png)
+https://files.catbox.moe/pvrjln.png
+
+_______________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change
 --- | --- | ---
