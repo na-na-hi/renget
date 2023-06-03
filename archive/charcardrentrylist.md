@@ -10,6 +10,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
@@ -25,7 +26,6 @@ Botmaker | Category | Defs Language
 [!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Shoo](https://rentry.org/shoobots) | Adventure / Misc | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
-[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [KnickKnack](https://rentry.org/knickknackkered) | Misc | English
 [!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [!] [AIC Industries](https://rentry.org/aicin) | Maids | English

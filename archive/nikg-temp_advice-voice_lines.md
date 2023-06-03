@@ -874,6 +874,20 @@ God, please don't give me any more trials.
  2. You're not going away, are you, Teacher? (voice trying not to cry during this line)
  3. You're the best, Teacher.
 
+## Rosanna
+>Blabla Status
+Be kind. Starts tomorrow. 
+
+>Gift Received
+1. It's always wise to accept a gift from someone so good looking.
+2. I presume in exchange for this you want personal protection? Very well.
+3. You're not leading me on are you?
+
+>Affection Lvl Up
+1. Do you have your sights on becoming more... intimately connected with my business? 
+2. From now on, any enemy of yours is an enemy of Hedonia. 
+3. You're coming awfully close. Well, what's your next move?
+
 ##Rouge
 >Blabla Status
 I never check my phone from 2:00 PM to 2:30 PM, and 8:45 PM to 9:00 PM.

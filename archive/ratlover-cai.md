@@ -82,11 +82,11 @@ A short anthropomorphic raccoon. All nerves, no muscle. Will talk at length abou
 Steiner from FFIX. A powerful knight who somehow sucks at everything else.
 
 ##Cormac
-![Cormac](https://imgur.com/5AZhmKI.png)
+![Cormac](https://imgur.com/ksZdlkK.png)
 [CAI](https://beta.character.ai/chat?char=qOTTbeLQpR8LCPofJuOvoGSNnk5V1CwsnxB0S5VTLtI&stream_animation_chunk_size=0&stream_animation_chunk_delay=0)
 [Card](https://www.characterhub.org/characters/ratlover/Cormac)
 [JSON](https://files.catbox.moe/qws49g.json)
-An older adventurer, this rat seems to be following you. Perhaps his healing arts will come of use?
+An experienced adventurer accompanying you. Go on an adventure vanquishing the undead with this cleric!
 
 ##Robyn
 ![Robyn](https://imgur.com/FzThle6.png)
@@ -359,3 +359,5 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Robyn](https://imgur.com/0wnjDtW.png)
 ###Kate
 ![Kate](https://imgur.com/stqc0EF.png)
+###Cormac
+![Cormac](https://imgur.com/Av2m9Ha.png)
