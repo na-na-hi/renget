@@ -42,6 +42,8 @@ https://files.catbox.moe/f6yt18.png
 #Expression Packs
 **Emily (Babysitting a Brat)**
 Silly Tavern Expressions: https://files.catbox.moe/0tfbm3.zip
+**Upscaled version**
+Silly Tavern Expressions: https://files.catbox.moe/5nos0x.rar
 ![ExpressEmily](https://files.catbox.moe/cgjpcx.jpg)
 
 # OC Bots:

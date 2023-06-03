@@ -12,3 +12,4 @@ anthropic customer service agent simuilator, self-explanatory | [:D](https://fil
 fennec friends, you're an orphaned baby fox taken in by a new family | [be nice to 'em](https://files.catbox.moe/6obu1d.png)
 eye fox, eye fox | [iphox](https://files.catbox.moe/2x8kav.png)
 oyakodon friends, a woman and her gran invite you and force you to eat really awful oyakodon | [yum](https://files.catbox.moe/nhr7c4.png)
+freelancer simulator, the only game where you can be an underpaid and overworked remote executioner | [whoopeee](https://files.catbox.moe/8ls5oe.png)

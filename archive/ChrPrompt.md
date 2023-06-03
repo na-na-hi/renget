@@ -414,6 +414,7 @@ Native mons, is there anything you've heard about from the humons that interests
 >**Wooper:** Chespin's told me about how the humans have all kinds of machines, including some that let them fly!
 >**Sneasel**: Booker told me humans have got all sorts of martial arts. I’d really love to check them out. I think some of the names he mentioned were karate, kung fu, taekwando, and pro wrestling. He never trained in any of them, so he couldn’t really get too specific about what they’re like, but I wanna learn more. It’s so cool that humans came up with all sorts of ways to train and get stronger and fight with just their bodies, without any powers like we Pokemon do! It kinda inspires me.
 >**Hazel**: How they used to move around the world, most pokemon barely move from place to place, even less across the oceans, so i can imagine how connected their world is, to go out and just leave everything behind... it sounds easy when Carrot says it
+>**Beast:** Human food, as if it is not obvious. I have installed a suggestion box outside of the kitchen for humans to submit their recipes but alas, they either give me too little information, use immoral ingredients like meat, or are simply one of their vile jokes.
 
 Humons, if you could bring back any one thing from the human world *for your partner*, what would it be?
 >**Lliam**: Some action comics I suppose, kyukyukyu~.
@@ -440,6 +441,7 @@ Natives, whats your favorite food from the Pokemon World?
 >**Kiyo:** Octillery.  Doesn't matter how.
 >**Cassie:** It used to be a good Pecha Milkshake, but Kiyo made Octillery dumplings once...  Now I'm not sure!
 >**Clara:** Leppa berries 100%. Not so much for the taste (I practically eat anything), but because they're the only things that keep me up some days, & if what Smoke told me about the existance of gods is somewhat true, then these berries may as well be proof of their existance
+>**Beast:** Before coming to the guild I would deviate from my frugality and purchase *Fromage aux Feuille Précieuse* for myself, which I still believe is best enjoyed by itself.
 
 Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “[exclusive items](https://bulbapedia.bulbagarden.net/wiki/Exclusive_item)” that are designed for specific Pokemon families (note that an item assigned to one species actually gives its benefit to every member of its evolutionary line). Assuming your species has an item available, which one would you most like to obtain?
 >**Booker**: I heard of one for a Ribombee, but it isn’t on that list... it’s called a Pollen Bow. Apparently it gives you good luck, and you’ll find more Kecleon shops in dungeons if you wear it. I’m not sure if that really works, but it sounds interesting. Also, I heard a description of how it looks, and it sounds really cute. I-I’m not sure I’d actually wear it, though. Especially not in public... Sneasel wouldn’t be able to stop teasing me.

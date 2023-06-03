@@ -151,6 +151,16 @@ She also is a cleptomanyac and salivates... A lot.
 ![greenbob](https://files.catbox.moe/byov7t.png)
 https://files.catbox.moe/byov7t.png
 
+##### Ishizu [Best girl]
+Built for Big Loving Hugs.
+Romance Ishizu at the post game after you helped her save her family from the darkness and assisted in having the pharaoh return to the world of the dead.
+Uses markdown format+Format Messaging as experiment but you don't care about that.
+Rate it on chub's page providing an image in usage galleries if there are inconsistencies.
+
+![Brownie](https://files.catbox.moe/q0vomc.png)
+https://files.catbox.moe/q0vomc.png
+
+
 ________________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change

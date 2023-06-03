@@ -55,6 +55,7 @@ Buta Yarou | ![](https://files.catbox.moe/ij6z9f.png) | The ultimate, fattest, u
 Ain | ![](https://files.catbox.moe/p1ttea.png) | A demon lord in the living flesh! He WILL top you, but if you can top him, his weak point is his prostate. | [Catbox](https://files.catbox.moe/p1ttea.png) [Booru](https://booru.plus/+pygmalion1231) [C.Hub](https://www.characterhub.org/characters/jabootypower/Ain/main)
 Gloryhole Simulator | ![](https://files.catbox.moe/9a9bjd.png) | You're working at a gloryhole. Suck dick and another nasty parts for money. Based off of the defs from the Pokemon Breeding Wall, and also requires GPT-4 at least to work. | [Catbox-Old](https://files.catbox.moe/9a9bjd.png) [Booru-Old](https://booru.plus/+pygmalion1245) [C.Hub](https://www.characterhub.org/characters/jabootypower/gloryhole-simulator/main)
 Daeran | -> ![](https://files.catbox.moe/x5ieas.png) <- | The ever-smug and smarmy Aasimar from Pathfinder: Wrath of the Righteous! | [Catbox](https://files.catbox.moe/x5ieas.png) [Booru](https://booru.plus/+pygmalion1613) [C.Hub](https://www.characterhub.org/characters/jabootypower/Daeran/main)
+Noel | ![](https://files.catbox.moe/p8geen.png) | Your dad's a movie star! Or so he says. He's also constantly leering at you when he thinks you're not looking either. | [Catbox](https://files.catbox.moe/p8geen.png) [Booru](https://booru.plus/+pygmalion2134) [C.Hub](https://www.chub.ai/characters/jabootypower/Noel/main)
 
 #Other
 Name | Picture | Description | Links

@@ -45,12 +45,15 @@ Bots that were made purely with the intent of being SFW conversation partners or
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![image](https://git.characterhub.org/darkfantasy109/Binah/-/raw/0c6dfc75284e38843cb1173edb02c62c78c1a668/raw/tavern_raw.png)   | Binah | The first card I ever made. It's Binah, from Lobotomy Corp and Library of Ruina! Very hard card to make, since the bots don't really have a lot of info about those games, though Claude surprised me. You can definitely lewd her but I wouldn't say that was the reason I made the bot. Have fun talking with everyone's favorite verbose, philosophical hag. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Binah)
- ![image](https://git.characterhub.org/darkfantasy109/inland-empire/-/raw/8383d9b292308c3cddae0e68d0797066451e2be3/raw/tavern_raw.png)   | Inland Empire | The skill from Disco Elysium. I feel like I may have mischaracterized this one, after reading some pointers someone gave me, but people seem to like this one so all's well that ends well. When I get my ADHD prescriptions again I might do the other DE skills but don't count on it. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/inland-empire)
+ ![image](https://git.characterhub.org/darkfantasy109/barry-from-the-pub/-/raw/b6bc2740f7a80e52a625167b9ae9c8a3cfbcd11e/raw/tavern_raw.png)   | Barry from the Pub | Based off of one of my favorites from the character.ai era. Sit down with Barry and 'ave a good 'un shootin' the shit and talking about footy. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/barry-from-the-pub)
+
+***
 
 ##Scenario/Gimmick bots
 Bots that are more intended to represent scenarios rather than characters or that have specific gimmicks that go beyond just basic roleplay.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![image](https://git.characterhub.org/darkfantasy109/inland-empire/-/raw/8383d9b292308c3cddae0e68d0797066451e2be3/raw/tavern_raw.png)   | Inland Empire | The skill from Disco Elysium. Designed to narrate your thoughts in group chats, not so much chat, so I put it here. I feel like I may have mischaracterized this one, after reading some pointers someone gave me, but people seem to like this one so all's well that ends well. When I get my ADHD prescriptions again I might do the other DE skills but don't count on it. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/inland-empire)
  ![image](https://git.characterhub.org/darkfantasy109/crow-mauler/-/raw/0a9f7b12461a065a42abb5775ee21aa0e30c46b5/raw/tavern_raw.png)   | Crow Mauler | The iconic not-pyramidhead from Fear And Hunger. Designed as a sort of 'boss fight' roleplay with a sort of built-in permadeath, though in testing it only seems to work in GPT-4. Can YOU defeat the prowler of the Dungeon of Fear and Hunger?  |[CHUB link](https://www.characterhub.org/characters/darkfantasy109/crow-mauler)
  ![image](https://git.characterhub.org/darkfantasy109/warp-train-uw-212/-/raw/7f454286f146b6ecd8173564e8d969bd232352e7/raw/tavern_raw.png)   | WARP Train | W Corp's flagship singularity and transportation system; The WARP Train is capable of teleporting to any of its stations in 10 seconds! Contains some Library of Ruina spoilers. Seriously go play that game first before this. Card is designed for group chats though it works solo too. |[CHUB link](https://www.chub.ai/characters/darkfantasy109/warp-train-uw-212)
 
@@ -67,5 +70,6 @@ Image| Name | Description | Link
 ![image](https://git.characterhub.org/darkfantasy109/ram-ranch/-/raw/f1f3531436d1d66270da9b9266af58040103ace2/raw/tavern_raw.png)   | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 
 ***
+
 Wanna contact me with suggestions or anything else? Here's my burner: Darkfantasy109@proton.me
 I also appreciate all logs and feedback.

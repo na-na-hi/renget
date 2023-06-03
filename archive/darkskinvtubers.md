@@ -162,6 +162,7 @@ Scribenuya|[Twitter](https://twitter.com/Scribenuya) [Twitch](https://www.twitch
 Latte_w_cream|[Twitter](https://twitter.com/latte_w_cream) [Twitch](https://www.twitch.tv/latte_w_cream)|
 meiraonline|[Twitter](https://twitter.com/_meiraonline) [Youtube](https://www.youtube.com/channel/UCUJkdXs54gXgBSko4N-_JGQ) [Twitch](https://www.twitch.tv/meiraonline)|
 Nekoreen|[Twitter](https://twitter.com/Nekoreen_CH) [Twitch](https://www.twitch.tv/nekoreen)|
+Serina Maiko|[Twitter](https://twitter.com/SerinaMaiko) [Youtube](https://www.youtube.com/@SerinaMaiko)|V4Mirai - Vsinger, & VDancer
 
 ---
 

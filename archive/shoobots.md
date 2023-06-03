@@ -29,7 +29,8 @@ Name | Info
 ***
 Name | Info
 ----- | -----
-[Trish](https://files.catbox.moe/6jazrm.png) | The universally-hated triceratops chick from a particular snoot-focused game.
-[Kairi](https://files.catbox.moe/d9z4no.png) | A tomboy with zero sense of chastity.
-[Reina](https://files.catbox.moe/0wg77z.png) | A kogal who does compensated dating.
-[Takka](https://files.catbox.moe/ciwb0z.png) | An alien huntress partaking in a cultural exchange endeavor with humans.
+[Trish](https://files.catbox.moe/uokn8k.png) | An anthro triceratops aching to see your package.
+[Kairi](https://files.catbox.moe/5cpa0a.png) | Your tomboy childhood friend with no sense of chastity.
+[Reina](https://files.catbox.moe/4anps3.png) | A two-faced kogal who does compensated dating as a hobby.
+[Takka](https://files.catbox.moe/nvhzw9.png) | A young Na’vi huntress participating in cultural exchange efforts with humans.
+[Fuzen](https://files.catbox.moe/a7ypnr.png) | A local delinquent with a rather provocative sense of fashion.

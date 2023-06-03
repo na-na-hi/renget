@@ -32,6 +32,7 @@
 [Abel](https://beta.character.ai/chat?char=4BShs6PuDsHEVy2Ro0QQ3PwMXZqC3B2LGlQlAV0b-tE) https://files.catbox.moe/3ccjh2.png
 [CUP (Core)](https://beta.character.ai/chat?char=egpCJKc9dQw8r3X-9imkoTtxfFCzfQEWlBg4DbGrWYk) https://files.catbox.moe/774q0o.png
 [Ivan (I'm sorry russia)](https://www.characterhub.org/characters/brsc/Ivan) 
+[Ping](https://files.catbox.moe/k6h580.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

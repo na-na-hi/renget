@@ -111,6 +111,11 @@
 **Retro processing filter🪄**|[1687209]|[Store](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
 **RE Cartoon ink Pen (【RE】漫画インクペン)**|[2000036]|[Store](https://assets.clip-studio.com/en-us/detail?id=2000036)|[DL](https://pixeldrain.com/u/gtm9mhb3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/00/2000036/thumbnail?1683186876)
 **Cell Pen (세포펜)**|[1940099]|[Store](https://assets.clip-studio.com/en-us/detail?id=1940099)|[DL](https://pixeldrain.com/u/YWmx1Ly4)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/00/1940099/thumbnail?1659678906)
+**Pipi Naxer Pen (피피낙서펜)**|[2000217]|[Store](https://assets.clip-studio.com/en-us/detail?id=2000217)|[DL](https://pixeldrain.com/u/fskd8qBA)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/02/2000217/thumbnail?1683542619)
+**Similar SA Brushes (유사SA브러쉬)**|[1997792]|[Store](https://assets.clip-studio.com/en-us/detail?id=1997792)|[DL](https://pixeldrain.com/u/6YYWsTgp)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/92/77/1997792/thumbnail?1682678303)
+**Meltea Brush**|[1722147]|[Store](https://assets.clip-studio.com/en-us/detail?id=1722147)|[DL](https://pixeldrain.com/u/VG5U6vpt)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/21/1722147/thumbnail?1673574773)
+**REAGANS2 PEN**|[1715553]|[Store](https://assets.clip-studio.com/en-us/detail?id=1715553)|[DL](https://pixeldrain.com/u/Sux9M2RQ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/55/1715553/thumbnail?1660507937)
+**Reagan-RG pen (Reagan-RG펜)**|[1964554]|[Store](https://assets.clip-studio.com/en-us/detail?id=1964554)|[DL](https://pixeldrain.com/u/AimS14gw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/45/1964554/thumbnail?1669199388)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 
@@ -151,6 +156,8 @@
 **Sajapen (사쟈펜)**|[1759663]|[Store](https://assets.clip-studio.com/en-us/detail?id=1759663)|[DL](https://pixeldrain.com/u/uGaUmukV)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/63/96/1759663/thumbnail?1576238477)
 **Yuri Pen**|[1785495]|[Store](https://assets.clip-studio.com/en-us/detail?id=1785495)|[DL](https://pixeldrain.com/u/CLCgLB4c)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/95/54/1785495/thumbnail?1599233647)
 **Gin puck-puck pen (진퍽퍽펜)**|[1736852]|[Store](https://assets.clip-studio.com/en-us/detail?id=1736852)|[DL](https://pixeldrain.com/u/8e8FwZCY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/68/1736852/thumbnail?1684729462)
+**Jin Fang-Fen (진팡펜)**|[1740082]|[Store](https://assets.clip-studio.com/en-us/detail?id=1740082)|[DL](https://pixeldrain.com/u/qT2xtW6Z)|![](https://files.catbox.moe/k83vr3.png)
+**G3 pen (진G3펜)**|[1763775]|[Store](https://assets.clip-studio.com/en-us/detail?id=1763775)|[DL](https://pixeldrain.com/u/iKY1mR1h)|![](https://files.catbox.moe/c04ng6.png)
 **Square pencill & pen (제곱 펜슬 & 펜)**|[1788889]|[Store](https://assets.clip-studio.com/en-us/detail?id=1788889)|[DL](https://pixeldrain.com/l/5MdwxLcC)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/89/88/1788889/thumbnail?1600753072)
 **Toncloud (톤구름)**|[1789375]|[Store](https://assets.clip-studio.com/en-us/detail?id=1789375)|[DL](https://pixeldrain.com/u/bXZ8ex3E)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/93/1789375/thumbnail?1600960359)
 **Bear Graffiti Pen (くまの落書きペン)**|[1789384]|[Store](https://assets.clip-studio.com/en-us/detail?id=1789384)|[DL](https://pixeldrain.com/u/T1xG6kxH)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/84/93/1789384/thumbnail?1600962317)
@@ -173,6 +180,7 @@
 **Blurred Oil Painting (かすれ油彩 ■)**|[1700599]|[Store](https://assets.clip-studio.com/en-us/detail?id=1700599)|[DL](https://pixeldrain.com/u/sToJbSk2)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/05/1700599/thumbnail?1505717293)
 **Realphotoshop Brush**|[1719580]|[Store](https://assets.clip-studio.com/en-us/detail?id=1719580)|[DL](https://pixeldrain.com/u/Vy9qfhXY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/95/1719580/thumbnail?1538640567)
 **In Kimagure (モソもこきまぐれ)**|[1700349]|[Store](https://assets.clip-studio.com/en-us/detail?id=1700349)|[DL](https://pixeldrain.com/u/ECq9aFcy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/03/1700349/thumbnail?1505387576)
+**日焼けしたフラットブラシ (Sunfy flat brush)**|[2001368]|[Store](https://assets.clip-studio.com/en-us/detail?id=2001368)|[DL](https://pixeldrain.com/u/9wjZqVhv)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/13/2001368/thumbnail?1683776672)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 

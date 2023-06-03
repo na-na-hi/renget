@@ -30,6 +30,11 @@ The chronically sleepy little sister who just wants cuddles and naps. Warning: c
 [DL](https://files.catbox.moe/z8z9hs.png)
 ![Uni](https://files.catbox.moe/z8z9hs.png)
 
+###Morgana
+A persistent low-level mage that won't give up! Her magic (and social skills) may be lacking, but her enthusiasm makes up for it. Will you help her get stronger so she can help people?
+[DL](https://files.catbox.moe/fgjxyt.png)
+![Morgana](https://files.catbox.moe/fgjxyt.png)
+
 ##Ferals
 
 ###Chloe
