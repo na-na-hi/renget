@@ -10,8 +10,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
-[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
+[!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
+[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
+[!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
@@ -23,15 +25,13 @@ Botmaker | Category | Defs Language
 [!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Shoo](https://rentry.org/shoobots) | Adventure / Misc | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
-[!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [KnickKnack](https://rentry.org/knickknackkered) | Misc | English
 [!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
 [!] [AIC Industries](https://rentry.org/aicin) | Maids | English
-[!] [Bipbots](https://rentry.org/bipbots) | Misc | English
+[Bipbots](https://rentry.org/bipbots) | Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc | English
-[Nevtelen](https://rentry.org/Nevtelen) | Misc | English
 [Deleterious](https://rentry.org/deleterious) | Misc | English
 [Cuteanon](https://rentry.org/cuteanon) | Misc | English
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc | English

@@ -1620,3 +1620,102 @@
 >his blue eyes were full of concern now when they met yours 
 >you said you were OK
 >you weren't
+
+>Ash gently guided you away from the corpse and it helped remind you of the mission
+>Saddler would keep doing this if you didn't stop him
+>that and the bugs in you could still be activated, making this whole struggle pointless
+>so you carried on
+>cleared your head
+>before you left you gave Ash one last chance to leave 
+>you thanked him but you knew Saddler would pull some sort of giant monster trick 
+>learned that from Birkin
+>the mouse checked his guns and said what he said before
+>"I'm not dying a virgin and when this is over I'm collecting on that"
+>well that was weird
+>hopefully he'd find someone to settle down with
+>you both made your way over to the helipad and your instincts were right
+>the cult leader stood out in the open
+>and again started lecturing you on Americans or something
+>then did exactly what you called and turned into a giant freakish monster
+>even Birkin didn't have that many eyes
+>Ash was a little more squeamish and actually said "ewwwww"
+>but all those eyes meant one thing
+>all those weak points
+
+>Saddler scuttled around the area on thin spindly legs
+>you were essentially fighting a giant spider 
+>one with eyes on the leg joints
+>which was a really stupid design flaw for the parasite
+>you told Ash you'd pull what you did on Krauser on this thing
+>sure it was faster but the thing's attention would be split 
+>you asked if Ash was OK attracting its attention for something big
+>he nodded
+>a spray of machine gun fire knocked out two of it's eyes and Saddler was pissy with the fleeing mouse
+>you weren't getting bogged down I another big fight
+>you were finishing this quickly
+>you'd embellish it later maybe but you'd had enough lectures and you'd definitely had enough giant monsters
+>Saddler had made the mistake of combing them 
+>you shouted for Ash to get clear and the creature was pulped by a rocket instantly 
+>didn't even have time to react
+>Ash was covered in gunk and more than a little pouty you didn't warn him better but he was alright
+>you couldn't tell if it was because of the danger or of him wanting to use the rocket launcher
+>Saddler was a burning pile of gore on the helipad
+>you'd call in a chopper for extraction in a few minutes
+>for the moment you rested against a crate and patted the space next to you
+>Ash sat down and was still trying to get gunk out of his hair
+>you scoffed a little but then decided to help a little
+>he got sort of nervous when you brushed his hair 
+
+>your radio crackled to life
+>Ada somehow had gotten your frequency 
+>she apparently got what she wanted and was leaving
+>classic
+>you hid your shock pretty well
+>however, she offered up a jetski as a sort of repayment for your help
+>you didn't bother asking just what you did
+>but a jetski would beat the chopper ride
+>so you'd accept the gift
+>just hoped it didn't come with strings attached 
+>Ash perked up
+>maybe you needed the time off
+>next you got on the radio with Hunnigan
+>as it turns out Saddler on his deathbed confirmed the president's daughter was safe an sound elsewhere
+>he said he was really sorry about the whole thing
+>you were taking off and you made sure to make it known
+>hunnigan said your job was done
+>vacation sounded good
+
+>you pointed out there was an asset for extraction if they came by chopper
+>Luis had been a help and you'd secure him a way off the island 
+>plus, if willing, he'd be an expert if this ever popped up again
+>it would be a help for the clean up at least
+>didn't want an international incident with the idea American hands were involved here
+>with all that cleared up, you went down to the shore
+>sure enough there was a jetski tied to a dock 
+>a little alcove protected it from sight unless you were really searching
+>well you weren't looking a gift horse in the mouth
+>the mainland could be seen and you figured you'd put as much distance between the both you and this situation as possible
+>later you'd need a medical check up but the bug queen was dead with Saddler
+>they couldn't come back
+>at least not any time soon
+>Luis would be a big help there
+>you asked if Ash wanted to go to a beach now
+>after you hopped onto the jetski, he awkwardly hopped on after and asked you in a whisper
+>"Spain has nude beaches, right?"
+
+>you hadn't really been to Spain so you didn't have a lot of knowledge about the beaches, nude or otherwise 
+>was he flirting? 
+>was that flirting? 
+>it wasn't like with Ada where you knew it was a facade
+>he seemed like, genuine 
+>maybe he liked you
+>well maybe the feeling was mutual 
+>perhaps you'd pull some overtime with him
+>soft white arms wrapped around your neck and you gunned it
+>after the mission you'd earned that r&r and you'd make good on it
+>was going to be hard to get used to not dodging pitchforks when you heard Spanish though
+>at least sangria might be nice
+>Ash curled up tightly to your back and you just enjoyed the moment
+>after all the danger this was actually stress relief
+>you'd save small talk with Ash for when you weren't revving the tiny motor bouncing over waves
+>the taxpayer dollar might have to put up for your hotel room

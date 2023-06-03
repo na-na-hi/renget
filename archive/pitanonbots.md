@@ -1,23 +1,22 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
-
-##Aya (2/6/2023)
+ 
+####Aya (2/6/2023)
 https://www.chub.ai/characters/pitanon/Aya
 ![](https://files.catbox.moe/ok3qbv.png)
 
-# Re:Zero Adventure
-It's all separate cards now. Add and remove them from a group chat when necessary.
-Update: {} worked better than [] and the companion cards should (hopefully) stop continuing the story.
-## Narrator (1/6/2023)
+## Re:Zero Adventure Cards
+Add and remove cards from a group chat when necessary.
+###### Narrator (1/6/2023)
 https://www.chub.ai/characters/pitanon/rezero-adventure
 ![](https://files.catbox.moe/olmvob.png)
-## User's Stat Tracker (1/6/2023)
+### User's Stat Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/rezero-stat-tracker
 https://files.catbox.moe/yvfu4x.png
-##Threat Tracker (1/6/2023)
+######Threat Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/threat-tracker
 https://files.catbox.moe/5hhjcu.png
-## Party Tracker (1/6/2023)
+###### Party Tracker (1/6/2023)
 https://www.chub.ai/characters/pitanon/party-tracker
 https://files.catbox.moe/q9117o.png
 

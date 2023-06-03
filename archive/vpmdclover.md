@@ -31,7 +31,7 @@ N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https
 "Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrot)
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | Vulpix, Alolan | Sandshrew (Cassie, F) & Fletchling (Bean, M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
-Smith | M | Skourpi | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
+Smith | M | Skourpi | Furret (F) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
 Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*

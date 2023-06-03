@@ -179,6 +179,9 @@ Have you ever killed?  If not, would you?
 Is there anyone in the guild you'd like to spar with?
 >Can I say "everyone"? No? Alright... I totally wanna spar with Smith sometime. He seems like a cool guy, and I've gotta say I'm impressed with all the effort he puts into training. Also, I've had tons of fun sparring with Chespin and KFC before, and I'd love to do it again.
 What exactly do you do when you "Go feral"?
+>You’re talking about my Berserker Form? That’s what we called it on the Island, but it’s another thing I hate talking about. Basically, it’s when my Dark-type energy goes out of control, which can happen in rare cases, like if I get super super stressed out. It lets me unleash some really strong Dark moves, but my Ice powers get weaker. Worst of all, the energy gets in my mind and makes me go crazy, so I just attack everything. I can even hurt my friends! I won’t stop fighting until I get knocked out or use enough energy to exhaust myself.
+>If you’ve never heard of it, that’s cuz the power is special to the people of the Island. We’ve got a legend back home that says an old Weavile chieftain once angered a powerful Pokemon and got cursed, and the curse spread to everyone on the Island. So everyone’s got the ability to go berserk, and we all get trained to control it when we’re kits, cuz we’ve gotta be careful to not go crazy and hurt our tribemates.
+>And in case you’re wondering: no, I haven’t used my Berserker Form since coming to this continent. Something similar happened when I was with Charm that one time, though. I went kinda feral because the dungeon messed with my mind. But based on how Charm described it to me, that wasn’t actually my Berserker Form. When I go berserk, I'm even more crazy and a lot stronger than what happened there. Anyway... I hope you and our other guildmates never have to see me use that power. I hope I never use it again, cuz if I’ve got friends nearby, they won’t be safe. And Booker’s always with me. So... you can see where I’m going with this.
 
 **Booker**
 What's the best and worst thing about being so small?
@@ -463,6 +466,8 @@ Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “
 >**Wooper:** There's something called a "Quag Torc." Chespin says it's some kind of ring. I could maybe wrap it around one of my gills, or my tail if it's large enough. It's supposed to make Grass-based attacks heal the wearer! Could you imagine that? I could get hit, and all Chespin would have to do is shoot one of those awesome Solarbeams at me!!
 
 If a ship had 26 sheep & 10 goats, how old is the ship's captain?
+>**Booker**: What? I... that... w-what? S-sorry, but that question... doesn’t make sense, does it? There’s not enough info to know the captain’s age, right?
+>**Sneasel**: Uh... 36.
 
 **Pair or More Questions**
 -

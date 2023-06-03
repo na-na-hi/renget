@@ -114,17 +114,24 @@ https://civitai.com/models/55540/kuvira-the-legend-of-korra-lora
 	+ Opal 
 https://civitai.com/models/76595/opal-the-legend-of-korra-lora
 - Avatar: The Last Airbender
-	- Katara
-https://civitai.com/models/46153/katara-avatar-the-last-airbender-character-lora
-	+ Ty Lee
-https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
 	- Azula 
 https://civitai.com/models/48188/azula-avatar-the-last-airbender-character-lora
+	- Katara
+https://civitai.com/models/46153/katara-avatar-the-last-airbender-character-lora
+	- Mai
+https://civitai.com/models/48190/mai-avatar-the-last-airbender-character-lora
 	+ Princess Yue
 https://civitai.com/models/65846/princess-yue-avatar-the-last-airbender
-- Gwen Tennyson (Ben 10 Alien Force) & (Ben 10)
-https://civitai.com/models/54918/gwen-tennyson-ben-10-alien-force
+	- Suki
+https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
+	+ Ty Lee
+https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
+- Ben 10
+	+ Gwen Tennyson (& Ben 10 Alien Force)
 https://civitai.com/models/23594/gwendolyn-tennyson-ben-10-character
+https://civitai.com/models/54918/gwen-tennyson-ben-10-alien-force
+	+ Ben Tennyson
+https://civitai.com/models/49101/ben-tennyson-ben-10-2005-character-lora
 - Kim Possible
 	+ Kimberly
 https://civitai.com/models/24195/kimberly-ann-possible-kim-possible
@@ -148,7 +155,7 @@ https://civitai.com/models/66649/terra-teen-titans
 https://civitai.com/models/23886/pocahontas
 - Snow White
 https://civitai.com/models/45401/snow-white
-- Chel (El Dorado)
+- Chel (The Road to El Dorado)
 https://civitai.com/models/45917/chel-dorado
 https://civitai.com/models/18842/chel
 - Hercules
@@ -159,16 +166,16 @@ https://civitai.com/models/46198/aphrodite
 - Jane Porter (Tarzan)
 https://civitai.com/models/56273/jane-porter-lora
 - Peter Pan
-	- Peter Pan
-https://civitai.com/models/63903/peter-pan-character-lora
 	+ Tinkerbell (2D and 3D)
 https://civitai.com/models/48946/tinkerbell
 https://civitai.com/models/53367/tinkerbell-disney-fairies-tinker-bell-movie
+	- Peter Pan
+https://civitai.com/models/63903/peter-pan-character-lora
 - Betilla the Fairy (Rayman)
 https://civitai.com/models/71205/betilla-the-fairy-lora
 - Evangelyne (Wakfu: The Animated Series)
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
-- Bakara Jurgen (Dofus Book)
+- Bakara Jurgen (Dofus Book I: Julith)
 https://civitai.com/models/26980?modelVersionId=32294
 - Anissa (Invincible)
 https://civitai.com/models/74988/anissa-invincible-character-lora
@@ -301,13 +308,13 @@ https://civitai.com/models/32849/hekapoo
 https://civitai.com/models/48542?modelVersionId=53138
 - Lord Dominator (Wander Over Yonder)
 https://civitai.com/models/5791?modelVersionId=6747
+- Miko Kubota (Glitch Techs)
+https://civitai.com/models/19524/miko-kubota-from-glitch-techs
+https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Wammawink (Centaurworld)
 https://civitai.com/models/41022?modelVersionId=46077
 - Webby Vanderquack (Ducktales 2017)
 https://civitai.com/models/16051/webby-vanderquack
-- Miko Kubota (Glitch Techs)
-https://civitai.com/models/19524/miko-kubota-from-glitch-techs
-https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
 https://civitai.com/models/44410/jessica-rabbit
@@ -328,17 +335,20 @@ https://civitai.com/models/21663/wuya
 - Icy (Winx Club)
 https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
 - The Pirates of Dark Water
+ 	+ Tula 
+https://civitai.com/models/79186/tula-the-pirates-of-dark-water
 	+ Ren 
 https://civitai.com/models/79191/ren-the-pirates-of-dark-water
-	+ Tula 
-https://civitai.com/models/79186/tula-the-pirates-of-dark-water
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Marge Simpson (The Simpsons)
 https://civitai.com/models/22953/fonglets-marge-simpson
-- Lois Griffin (Family Guy)
+- Family Guy
+	+ Lois Griffin
 https://civitai.com/models/81449/lois-griffin-pacenkun
 https://civitai.com/models/81163/lewis-griffin
+	- Meg Griffin
+https://civitai.com/models/41006/meg-griffin
 - Donna Tubbs (The Cleveland Show)
 https://civitai.com/models/74513/donna-tubbs-the-cleveland-show
 - Tina Belcher (Bob's Burgers)
@@ -361,6 +371,27 @@ https://civitai.com/models/58891/ahsoka-tano-clone-wars-star-wars
 https://civitai.com/models/58904/bo-katan-clone-wars-star-wars
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
+- Homestuck fan art
+	- Aradia Megido
+https://civitai.com/models/44895/aradia-megido-homestuck
+	+ Feferi Peixes 
+https://civitai.com/models/69595/feferi-peixes-homestuck
+	- Jade Harley
+https://civitai.com/models/33511/jade-harley-homestuck-lora
+ 	+ Kanaya Mryam 
+https://civitai.com/models/69646/kanaya-maryam-homestuck
+https://civitai.com/models/32231/kanaya-maryam-homestuck-lora
+	- Nepeta Leijon
+https://civitai.com/models/62099/nepeta-leijon-homestuck
+	- Terezi Pyrope 
+https://civitai.com/models/34501/terezi-pyrope-homestuck
+https://civitai.com/models/34330/terezi-pyrope-homestuck-lora
+	- Vriska Serket
+https://civitai.com/models/20579/vriska-serket-homestuck
+	- Karkat Vantas
+https://civitai.com/models/38824/karkat-vantas-homestuck
+	- John Egbert
+https://civitai.com/models/76494/john-egbert-homestuck
 - Helltaker (Gloomhaven)
 https://civitai.com/models/8429?modelVersionId=9942
 - Claire (The Summoning)
@@ -379,7 +410,7 @@ https://civitai.com/models/6610?modelVersionId=9149
 
 ---
 
-Game characters
+## Game characters
 
 - Solar Flare (Plants vs. Zombies) fan art
 https://civitai.com/models/80821/solar-flare-plants-vs-zombies-character-lora
@@ -408,8 +439,9 @@ https://civitai.com/models/23452/yennefer-the-witcher-3-game
 	+ Triss
 https://civitai.com/models/73231/triss-merigold-witcher-3
 	- Ciri
+https://civitai.com/models/80712/ciri-witcher-3
 https://civitai.com/models/18615/wither3-ciri
-https://civitai.com/models/25330/ciri
+https://civitai.com/models/82941/cirilla-fiona
 https://civitai.com/models/21234/ciri-the-witcher-3-wrise
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
@@ -427,6 +459,8 @@ https://civitai.com/models/24894/mirana-dota-dragons-blood
 https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
+- Overwatch
+https://rentry.org/acorepo2
 - Apex Legends
 	+ Wattson
 https://civitai.com/models/38148/wattson-apex-legends
@@ -497,6 +531,10 @@ https://civitai.com/models/13998/valerian-and-laureline-comic-style
 https://civitai.com/models/17800?modelVersionId=21039
 - Modern American Comics style
 https://civitai.com/models/20606/modern-american-comics-style-1
+- Limited Blue palette style
+https://civitai.com/models/19525/limited-blue-style-lora
+- Banner Saga game style
+https://civitai.com/models/56031/banner-saga-style
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI
@@ -528,6 +566,8 @@ https://civitai.com/models/75266/mantis-or-guardians-of-the-galaxy-or-lycorisloc
 https://civitai.com/models/23884?modelVersionId=60963
 - One-image LoRAs
 https://civitai.com/models/54833?modelVersionId=59209
+- Rembrandt art
+https://civitai.com/models/76481/rembrandt-style
 
 ## Deleted from civit.
 
@@ -638,13 +678,3 @@ https://civitai.com/models/4692/nagel-style
 - Homestuck
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#homestuck-sprite
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#homestuck-troll
-- Mercy (Overwatch)
-https://civitai.com/models/4597/corneos-mercy-overwatch-embedding
-- Dva (Overwatch)
-https://civitai.com/models/4434/corneos-dva-overwatch-embedding
-- Widowmaker (Overwatch)
-https://civitai.com/models/4500/corneos-widowmaker-overwatch-embedding
-- Brigitte (Overwatch)
-https://civitai.com/models/4532/corneos-brigitte-overwatch-embedding
-- Tracer (Overwatch)
-https://civitai.com/models/5593/corneos-tracer-overwatch-ti-embedding

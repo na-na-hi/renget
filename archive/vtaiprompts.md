@@ -329,10 +329,11 @@ Negatives:
 ###EN:
 ####1st Gen:
 #####Gura
-	gawr gura, hololive, long hair, two side up, blue eyes, shark hair ornaments,
+	gawr gura, hololive, long hair, two side up, blue eyes, shark hair ornaments, shark tail, sharp teeth, 
 Negatives: twintails, one side up, pointy ears, colored inner hair,
 !!! note Notes:
 	* Her name has a strong effect on outfits, you may need to add any number of things to the negatives to fix the myriad of problems she can cause.
+	* You will need to remove "sharp teeth," if prompting her with her mouth closed. Consider leaving her tail out of your prompts on purpose to trigger the spaz.
 
 #####Ame
 	watson amelia, hololive, blonde hair, blue eyes, short hair,

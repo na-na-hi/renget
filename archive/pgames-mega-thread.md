@@ -70,7 +70,6 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 -  [Chovka](https://repack.info/)
 - [CPG Repacks](https://cpgrepacks.site) 
 - [DODI Repacks](https://dodi-repacks.site/)
-- [Darck Repacks](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [Gnarly Repacks](https://gnarly-repacks.site)
@@ -82,7 +81,6 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 - R.G. Catalyst 
 - R.G. Mechanics
 - R.G. Revenants
-- [Scooter Repacks](https://scooter-repacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win/)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX

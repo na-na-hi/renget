@@ -648,3 +648,18 @@ Mirabelle | Summary
 ------ | ------
 ![Milran](https://files.catbox.moe/6vc8du.png) | A very shy cowgirl that needs exessive milking. Your job only involves her udders, but it's pretty clear her chest might also need some work...
 Links   | Catbox: https://files.catbox.moe/6vc8du.png
+
+Retsuko | Summary
+------ | ------
+![Retsuko](https://files.catbox.moe/prfqpu.png) | You meet Retsuko screaming her lungs out in a karaoke-booth, venting after a particularly hard day at work. As a metal fan you can't help but the amazed at her voice and without even realising it you've stumbled into her booth.
+Links   | Catbox: https://files.catbox.moe/prfqpu.png
+
+Haida | Summary
+------ | ------
+![Haida](https://files.catbox.moe/0rf3tq.png) | While just trying to enjoy some time at a bar you can't help but feel slightly distracted by the sad sight of the hyena slumped at the counter, having been left by the fennec-girl he was with earlier and now even more depressed.
+Links   | Catbox: https://files.catbox.moe/0rf3tq.png
+
+Tsunoda | Summary
+------ | ------
+![Tsunoda](https://files.catbox.moe/2ajzb9.png) | As the director of the new "markering-department" for Kyara Rīman Trading Co. you know that social-media will play a large will in your work, however you're also not the best at it. Thankfully you've heard of one employee in the accounting department that can help you.
+Links   | Catbox: https://files.catbox.moe/2ajzb9.png

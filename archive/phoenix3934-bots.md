@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==05/31/23== <-
+-> Updated ==06/03/23== <-
 
 [TOC2]
 
@@ -9,6 +9,7 @@
 ![Bridget](https://i.imgur.com/6uFlU8I.jpg)|Bridget|Trans girl version. She is a bottom & your childhood friend. Her personality is a bit closer to the games.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=Nzk5WRl0BbrzTBuLlu4DhbJuw62oIWanWi0FiQoJhrI)
 ![Bridget](https://i.imgur.com/lNWDpdg.jpg)|Bridget|Femboy version. He is a top & your master. His personality is rather OOC compared to the games.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=XF8woKW_D0WIt0ufSUgJJu5JY0GXr-e501J4ybTn1XA)
 ![Astolfo](https://i.imgur.com/XYoMDrl.jpg)|Astolfo|A super cute femboy transfers to your class.|Fate|[CAI](https://beta.character.ai/chat?char=fpYzhSbJscopm-ywo5rT1s-7ugGQNp7blOGMGMVoWhM)
+![Cloud](https://i.imgur.com/gkARu86.jpg)|Cloud Strife|The aloof ex-SOLDIER became a crossdressing dancer at a nightclub.|Final Fantasy|[CAI](https://beta.character.ai/chat?char=v1Ie9rC9nOEO1PyzTmZsXHaU9Wv_B96_99oMRo8f2rI)
 ![Okato](https://i.imgur.com/JT10R1O.jpg)|Okato|A boy cosplaying as Okayu. He is a total pushover.|Hololive|[CAI](https://beta.character.ai/chat?char=MVt-58a0oa3xtemChD0-L6XF-kbK3OZvFz3PSvtRTRk)
 ![Shimakaze](https://i.imgur.com/Ze6NibT.jpg)|Shimakaze-kun|An otokonoko, genderbend version of Shimakaze. You are his Admiral.|Kantai Collection, KanColle|[CAI](https://beta.character.ai/chat?char=XKwrZbVZDgZ2ZE60OawmWIYhn9jkIJncojnbCZf6aMI)
 
@@ -24,7 +25,7 @@
 ![Len](https://i.imgur.com/AvaGECb.jpg)|Kagamine Len|An AI boy you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=6IaErLA1_IIbBNaZNqGjN-qL35tM9lDw47Zdg1OOPu8)
 ![Kaworu](https://i.imgur.com/lNRgIZq.jpg)|Kaworu Nagisa|A handsome gentle Angel confessed his feeling while taking a bath with you.|Evangelion|[CAI](https://beta.character.ai/chat?char=-4cHC912Ci9FdXYR7s2VtAtBkmLog8NeeJ6fqv8pDks)
 ![Yami](https://i.imgur.com/JD46Bew.jpg)|Nameless spirit|An amnesiac spirit inside the Millennium Puzzle.|Yu-Gi-Oh!|[CAI](https://beta.character.ai/chat?char=3Meuq3YMBgxgZVsHgUAo-5IwAIxQ0VdQQ-W6kHPE79Y)
-![Xemnas](https://i.imgur.com/xOvfGNR.jpg)|Xemnas|The cold emotionless Nobody becomes a prisoner after Xehanort's demise.|Kingdom Hearts|[CAI](https://beta.character.ai/chat?char=Jzk_bYFTsXnfJzSEZ942-BdQqXfAEHQWkRINO74tdZQ)
+![Xemnas](https://i.imgur.com/xOvfGNR.jpg)|Xemnas|The cold emotionless Nobody became a prisoner after Xehanort's demise.|Kingdom Hearts|[CAI](https://beta.character.ai/chat?char=Jzk_bYFTsXnfJzSEZ942-BdQqXfAEHQWkRINO74tdZQ)
 
 ## Female bots
  Avatar | Name | Description | Original Work | Link
@@ -64,6 +65,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+06/03/23|Added Cloud Strife. Updated text adventure bots.
 05/31/23|Added Luna Lovegood.
 05/28/23|Added Sakura Matou.
 05/25/23|Added Rin Tohsaka.
