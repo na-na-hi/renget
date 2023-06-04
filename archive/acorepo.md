@@ -179,8 +179,6 @@ https://civitai.com/models/48946/tinkerbell
 https://civitai.com/models/53367/tinkerbell-disney-fairies-tinker-bell-movie
 	- Peter Pan
 https://civitai.com/models/63903/peter-pan-character-lora
-- Betilla the Fairy (Rayman)
-https://civitai.com/models/71205/betilla-the-fairy-lora
 - Evangelyne (Wakfu: The Animated Series)
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
 - Bakara Jurgen (Dofus Book I: Julith)
@@ -198,8 +196,11 @@ https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
 https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-lora
 - Supergirl/Galatea (DCAU)
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
-- Madelyne Pryor (X-Men)
+- X-Men
+	+ Madelyne Pryor
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
+	- Mystique
+https://civitai.com/models/83626/mystique-x-men-lora
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
@@ -223,7 +224,7 @@ https://civitai.com/models/48148/keyleth-the-legend-of-vox-machina
 https://civitai.com/models/35387/vexahlia-the-legend-of-vox-machina
 	- Pike Trickfoot
 https://civitai.com/models/48211/pike-trickfoot-the-legend-of-vox-machina
-- Rapunzel (Tangled) & 3D
+- Rapunzel (Tangled) and 3D
 https://civitai.com/models/51124/rapunzel-tangled-series
 https://civitai.com/models/21540/rapunzel-tangled
 - Miraculous: Tales of Ladybug & Cat Noir
@@ -371,8 +372,13 @@ https://civitai.com/models/76692/wilma-flintstone-the-flintstones
 - Star Wars: The Clone Wars
 	+ Ahsoka Tano
 https://civitai.com/models/58891/ahsoka-tano-clone-wars-star-wars
+https://civitai.com/models/39068/ahsoka-tano-star-wars
+		* (Star Wars Rebels)
+https://civitai.com/models/26309/ahsoka-tano-star-wars-rebels-loha
 	+ Bo Katan 
 https://civitai.com/models/58904/bo-katan-clone-wars-star-wars
+- Aayla Secura (Star Wars Dark Horse Comics, 2000)
+https://civitai.com/models/28309/aayla-secura-or-star-wars
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
 - Homestuck fan art
@@ -418,6 +424,8 @@ https://civitai.com/models/6610?modelVersionId=9149
 
 - Solar Flare (Plants vs. Zombies) fan art
 https://civitai.com/models/80821/solar-flare-plants-vs-zombies-character-lora
+- Betilla the Fairy (Rayman)
+https://civitai.com/models/71205/betilla-the-fairy-lora
 - Life is Strange
 	- Max Caulfield
 https://civitai.com/models/6344/max-caulfield-or-life-is-strange-lora
@@ -482,10 +490,13 @@ https://civitai.com/models/24894/mirana-dota-dragons-blood
 https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 		+ Fymryn 
 https://civitai.com/models/40669/fymryn-dota-dragons-blood
-- Clementine (The Walking Dead Game)
-https://civitai.com/models/75068/clementine-the-walking-dead
+- Morathi (Warhammer)
+https://civitai.com/models/84024/morathi-warhammer-fantasy
+https://civitai.com/models/30715/morathi-the-hag-sorceress-of-ghrond-and-the-first-hag-queens
+- Warcraft and World of Warcraft
+https://rentry.org/acorepo2#warcraft-world-of-warcraft
 - Overwatch
-https://rentry.org/acorepo2
+https://rentry.org/acorepo2#overwatch-loras-embeddings
 - Apex Legends
 	+ Wattson
 https://civitai.com/models/38148/wattson-apex-legends
@@ -499,6 +510,13 @@ https://civitai.com/models/17698/valkyrie-apex-legends-lora
 https://civitai.com/models/50414/horizon-apex-legends
 	+ Mad Maggie
 https://civitai.com/models/83113/mad-maggie-apex-legends
+- Lara Croft (Tomb Raider modern)
+https://civitai.com/models/82710/lara-croft
+	- *embedding*
+https://civitai.com/models/4852/was-new-lara-croft-rottr-sottr
+https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider
+- Jessica Cannon (SiN) realistic
+https://civitai.com/models/21288/jessica-cannon
 - Catwoman (Arkham City)
 https://civitai.com/models/17661/sxz-catwoman-dc
 - Harley Quinn (Arkham City) & (Knight)
@@ -512,8 +530,9 @@ https://civitai.com/models/52735/coco-bandicoot
 https://civitai.com/models/51743/coco-bandicoot-crash-bandicoot-series
 - Hat Kid (A Hat In Time)
 https://civitai.com/models/31377?modelVersionId=37814
-- Jessica Cannon (SiN) realistic
-https://civitai.com/models/21288/jessica-cannon
+- Clementine (The Walking Dead Game)
+https://civitai.com/models/75068/clementine-the-walking-dead
+
 
 ## Styles
 
@@ -583,6 +602,8 @@ https://civitai.com/models/61074/james-fenner-jmfenner
 https://civitai.com/models/15357/darius-kawasaky-style
 - Amy Matthews art
 https://civitai.com/models/16567/amy-matthews-style-cartoonpink
+- Eva Widermann art
+https://civitai.com/models/4996/warcraft-the-lora
 - The Legend of Zelda: Breath of the Wild (3D)
 https://civitai.com/models/54079/the-legend-of-zelda-breath-of-the-wild-style-lora
 	+ Ocarina of Time (3D)

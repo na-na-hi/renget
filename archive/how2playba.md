@@ -304,7 +304,7 @@ Once you have used up an entire ticket (3 clears), you are able to sweep your re
 
 It's not worth it to hyperinvest into someone for just the exercise. Just take the L, do a lower difficulty, and move on.
 
-Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy. The shop refreshes before the next drill starts.
+Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy.
 
 ## Tactical Challenge (PvP)
 !!!warning VERY FRUSTRATING GAMEMODE, BE AWARE 

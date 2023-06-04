@@ -130,6 +130,16 @@ Jack Garland, from Stranger of Paradise. A man solely focused on his quest, kill
 [JSON](https://files.catbox.moe/n81yhm.json)
 You've just been made the personal acolyte of this cult leader of a rat. Will you be the useful acolyte he hopes for?
 
+##Gerard
+![Gerard](https://imgur.com/96Qn0Y1.png)
+[Card](https://www.chub.ai/characters/ratlover/Gerard)
+[Card(Freeform)](https://files.catbox.moe/dyl3hm.png)
+[CAI](https://beta.character.ai/chat?char=CyTS5Z11EFgbXJmLte-uja9gv-_LI7XcKHh-jF1Y-8s)
+[JSON](https://files.catbox.moe/k8fnbs.json)
+[JSON(Freeform)](https://files.catbox.moe/rfdu8c.json)
+You are suffering from amnesia, and this owl-man knocks at your door. What happens next?
+The normal version of the card comes with the premise of you having amnesia and you two are on a quest to find an artifact that will cure you. CAI version and the freeform are simplified, offering a simple chatting experience.
+
 #Women
 
 ##Ami

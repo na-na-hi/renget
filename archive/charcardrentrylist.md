@@ -10,11 +10,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
+[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [CptPants](https://rentry.org/CptPants) | Misc | English
-[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
-[!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English

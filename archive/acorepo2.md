@@ -12,7 +12,9 @@ https://civitai.com/models/29302/brigitte-overwatch-lora
 https://civitai.com/models/56446/brigitte-overwatch-wrise
 https://civitai.com/models/4532/corneos-brigitte-overwatch-embedding
 - Dva
+https://civitai.com/models/13799/dva-overwatch-lora
 https://civitai.com/models/51059/dva-overwatch-wrise
+https://civitai.com/models/11230/dva-overwatch
 https://civitai.com/models/4434/corneos-dva-overwatch-embedding
 + Junker Queen
 https://civitai.com/models/15559/sxz-junker-queen-overwatch
@@ -32,6 +34,7 @@ https://civitai.com/models/4597/corneos-mercy-overwatch-embedding
 https://civitai.com/models/19078/moira-overwatch-lora
 - Pharah
 https://civitai.com/models/11220/pharah-overwatch-lora
+https://civitai.com/models/54523/pharah-overwatch-wrise
 - Sombra
 https://civitai.com/models/9722/sombra-overwatch-lora
 https://civitai.com/models/60861/sombra-overwatch-wrise
@@ -54,7 +57,43 @@ https://civitai.com/models/59780/widowmaker-outfit-or-overwatch
 https://civitai.com/models/12868/mccreecassidy-overwatch-lora
 - Reaper
 https://civitai.com/models/24462/reaper-overwatch-lora
-- Renhardt
+- Reinhardt
 https://civitai.com/models/17864/reinhardt-overwatch-lora
 - Soldier 76
 https://civitai.com/models/61084/soldier-76-overwatch-lora
+
+# Warcraft & World of Warcraft
+
++ Night Elf (& embedding)
+https://civitai.com/models/25641/sxz-night-elves-warcraft
+https://civitai.com/models/4339/corneos-night-elf-world-of-warcraft-embedding
+- Nightborne
+https://civitai.com/models/37064/sxz-nightborne-warcraft
+- Death Knights
+https://civitai.com/models/34855/sxz-death-knights-warcraft
+- Draenei
+https://civitai.com/models/25104/sxz-draenei-warcraft
+- Goblins
+https://civitai.com/models/36057/sxz-goblins-warcraft
+- Orcs
+https://civitai.com/models/28323/sxz-orcs-warcraft
+- Trolls
+https://civitai.com/models/31183/sxz-trolls-warcraft
+- Illidari Demon Hunters
+https://civitai.com/models/33516/sxz-illidari-demon-hunters-warcraft
+- Jaina Proudmoore
+https://civitai.com/models/16733/warcrafts-jaina-proudmoore
+- Valeera Sanguinar
+https://civitai.com/models/24389/sxz-valeera-sanguinar-warcraft
+- Sylvanas Windrunner
+https://civitai.com/models/16530/warcrafts-sylvanas-windrunner
+https://civitai.com/models/16617/sxz-sylvanas-windrunner-warcraft
+- Alleria Windrunner
+https://civitai.com/models/57101/scworld-of-warcraftalleria-windrunner
+- Tyrande Whisperwind
+https://civitai.com/models/16809/warcrafts-tyrande-whisperwind
+https://civitai.com/models/47983/sxz-tyrande-whisperwind-warcraft
+- Vol'jin
+https://civitai.com/models/54714/scworld-of-warcraftvoljin
+- Thrall
+https://civitai.com/models/55438/scworld-of-warcraftthrall

@@ -10,14 +10,14 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: - at 2UTC ()**
-**SAT: - at 2UTC ()**
+**FRI: Mega Man The Sequel Wars Episode Red at 2UTC (Telemelt)**
+**SAT: Protodroid Delta at 2UTC (Parsec)** 
 **SUN: Minemelt at 17:30UTC ()**
 
 ##Cytubes
 
-**SAT: Rockman.exe at 16UTC** Episodes 48-56
-**SUN: Rockman.exe Stream at 16UTC** The movie
+**SAT: Rockman.exe Axess at 16UTC** Episodes 1-6+Stream movie
+**SUN: Rockman.exe Stream at 15UTC** Episodes 27-32
 >-
 nothing
 

@@ -9,6 +9,9 @@ The higher the favor the bigger the chance. Should also be possible for multiple
 Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal it, pedina.*
 ## Childcare Expansion
 To be determined.
+## Clothes Menu Expansion
+Self-explanatory.
+- *The clothing system can mostly stay the same since there are already many slots for clothing (found in Equip.csv). Strip poker can handle undressing on its own without having to meddle with the overall system. As a starter, the clothing menu can be expanded using SQN's clothing action as a reference just to unlock its full potential. All of this isn't a priority right now though.*
 ## Female MC Pregnancy
 To be determined.
 ## Furniture Recipe Mechanic

@@ -110,11 +110,13 @@ Under the Sauce tab, add the following line below `# Known filename formats:` (R
 ##For anons using old filename system
 To quickly convert all the old `_` system to `-`, I put together some quick code:
 
-Windows (PowerShell):
-```powershell
-Get-ChildItem * | Rename-Item -NewName { $_.Name -replace '_(\d{19})', '-$1' }
+!!!note Windows (CMD/Batch Script)
+	Can be saved as a `.bat` script. It works recursively so put it in the top-most directory and it will fix all the files including ones in folders within the folder it is ran. (Hacky way to do this...)
+```batch
+powershell -Command "& {Get-ChildItem -Recurse | Where-Object{$_.Name -match '@\w+_\d{19}'} | Foreach-Object {$oN = $_.FullName; $nN = $_.Name -Replace '_(\d{19})', '-$1'; Rename-Item -Path $oN -NewName $nN; Write-Output $('{0} -> {1}' -f $oN,$nN)}}"
 ```
-Linux:
+!!!note Linux
+	Can be saved as a `.sh` script. Not recursive, if someone wants to make it better and output changes, hmu.
 ```bash
 rename 's/_(\d{19})/-$1/' *
 ```

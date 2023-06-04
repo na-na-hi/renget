@@ -209,7 +209,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
 	* [An Overelming Week](https://rentry.org/overelming) *Not on Table, WIP*
 * Growlithe(s)
-	* [Liminal Crossroads (ft. Growlithe(s)](https://rentry.org/v9e4t) *Not on Table*
+	* [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t) *Not on Table*
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth

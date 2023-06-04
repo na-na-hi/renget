@@ -779,7 +779,7 @@ I covered my whole body with the blanket and closed my eyes, as if I was trying 
 
 *(…)*
 
-*(Should I give up on that goal…? I could open up a business in Capin, like a bank, and go for the quiet life route.)*
+*(Should I give up on that goal…? I could open up a business in Capim, like a bank, and go for the quiet life route.)*
 
 *Yawn*
 

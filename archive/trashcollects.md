@@ -527,6 +527,11 @@ Trained on Fluffyrock
 
 	https://mega.nz/file/XMYAFRBR#-PEJn6h1cGhwIGwPGM5PLmBZYL4LZnqP-BsM4g2fF98
 
+# Pup Mask
+>trigger word is pup_mask with the underscore
+
+	https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

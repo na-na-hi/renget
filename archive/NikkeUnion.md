@@ -38,7 +38,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **5** | NOPAN | ==**6698**== |PERMISSION | ACE |32/32 | Y 
 **5** | VGNIKKE3 | ==**9547**== |PERMISSION | ANON | 32/32 | N
 **5** | NIKKUNNY | ==**13395**== |PERMISSION | YOON|32/32 | Y
-**5** |PANTSUUU| ==**21859**== |PERMISSION | NOVA |30/32 | N
+**5** |PANTSUUU| ==**21859**== |PERMISSION | NOVA |32/32 | N
 **5** |LUSITANO| ==**10302**== |PERMISSION | ANGUSPT |32/32 | N
 **3** |CUNNYSSI | ==**25331 **== |PERMISSION | NEPBOI |29/32 | Y
 

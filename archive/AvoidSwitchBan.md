@@ -70,7 +70,7 @@ Why DNS MITM is better than 90DNS:
 * Gives you control over what gets blocked.
 * Protection is retained when switching networks.
 
-Stick to MITM DNS/Incognito/Exosphere, and do not use 90DNS!
+Stick to DNS MITM/Incognito/Exosphere, and do not use 90DNS!
 
 #####Is it possible to unban a Switch?
 ***
