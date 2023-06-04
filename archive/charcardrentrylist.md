@@ -10,12 +10,14 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | Defs Language
 ------ | ------ | ------
+[!] [CptPants](https://rentry.org/CptPants) | Misc | English
+[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
+[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Ratlover](https://rentry.org/ratlover-cai) | Furry | English
 [!] [Nevtelen](https://rentry.org/Nevtelen) | Misc | English
 [!] [Pitanon](https://rentry.org/pitanonbots) | Misc / Armpits... | English
 [!] [Thegreatcoom](https://rentry.org/Thegreatcoom)   | Misc | English
 [!] [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc | English
-[!] [Genoo](https://rentry.org/295se) | Sizeplay | English
 [!] [Gigasad](https://rentry.org/gigasad) | Misc | English
 [!] [Smile](https://rentry.org/HelpanonSmile) | Misc | English
 [!] [Donquijanon](https://rentry.org/donquijanon) | Misc | English (Some have Spanish versions)
@@ -23,12 +25,11 @@ Botmaker | Category | Defs Language
 [!] [Vanillanon](https://rentry.org/bingbingwahoo) | Misc | English
 [!] [Sull](https://rentry.org/p8kav)   | Mostly cunny | English
 [!] [Scrimbly](https://rentry.org/scrimb) | Misc | English
-[!] [Foxboats](https://rentry.org/foxboats) | Furry / Misc | English
 [!] [Shoo](https://rentry.org/shoobots) | Adventure / Misc | English
 [!] [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry / Misc | English
 [!] [KnickKnack](https://rentry.org/knickknackkered) | Misc | English
 [!] [Hitogami](https://rentry.org/imtookening/) | Misc | English
-[!] [AIC Industries](https://rentry.org/aicin) | Maids | English
+[AIC Industries](https://rentry.org/aicin) | Maids | English
 [Bipbots](https://rentry.org/bipbots) | Misc | English
 [Phalannex](https://rentry.co/phalannex) | Misc | English
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc | English
@@ -42,7 +43,6 @@ Botmaker | Category | Defs Language
 [Horcocks](https://rentry.org/horcocks) | Fantasy and Sci-fi | English
 [Horny221](https://rentry.org/hornythings) | Misc / Stink | English
 [Pedanon](https://rentry.org/Pedanon) | Cunny | English
-[CptPants](https://rentry.org/CptPants) | Misc | English
 [Dould](https://rentry.org/ox3iqa) | Misc | English
 [Maestro](https://rentry.org/MaestroBots) | Misc | English
 [Clutch](https://rentry.org/cominginclutch) | Misc | English

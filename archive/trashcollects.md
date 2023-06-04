@@ -522,6 +522,11 @@ Trained on Fluffyrock
 
 	https://drive.google.com/drive/folders/1yddB7y6NWBIKkCC2eSEwBaDlBRvs8r2f
 
+# Urethral
+> I tried including all possible urethral scenarios in the dataset (tentacles, rods, penis in penis, tongue, arm) but im afraid im gonna have to make one for each. The results are a lot more coherent then base fluffyrock, but still fucky.
+
+	https://mega.nz/file/XMYAFRBR#-PEJn6h1cGhwIGwPGM5PLmBZYL4LZnqP-BsM4g2fF98
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

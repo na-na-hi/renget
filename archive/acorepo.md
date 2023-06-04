@@ -97,6 +97,14 @@ https://civitai.com/models/71628/irma-langenstein-tmnt-1990s
 	+ April O'Neil
 https://civitai.com/models/51651/esthetic-april-oneil-1987-tmnt
 https://civitai.com/models/72423/april-april-oneil-1987-lora
+- She-Ra (Masters of the Universe)
+https://civitai.com/models/44792/she-ra-1985
+https://civitai.com/models/82029/she-ra-lycoris
+- Jessica Rabbit (Who Framed Roger Rabbit?)
+https://civitai.com/models/17318/jessica-rabbit
+https://civitai.com/models/44410/jessica-rabbit
+- Hello Nurse (Animaniacs)
+https://civitai.com/models/23001/hello-nurse
 - Panda Delgado (Body Bags)
 https://civitai.com/models/18846/panda-delgado
 - The Legend of Korra
@@ -315,11 +323,6 @@ https://civitai.com/models/25824/miko-kubota-glitch-techs
 https://civitai.com/models/41022?modelVersionId=46077
 - Webby Vanderquack (Ducktales 2017)
 https://civitai.com/models/16051/webby-vanderquack
-- Jessica Rabbit (Who Framed Roger Rabbit?)
-https://civitai.com/models/17318/jessica-rabbit
-https://civitai.com/models/44410/jessica-rabbit
-- Hello Nurse (Animaniacs)
-https://civitai.com/models/23001/hello-nurse
 - Frankie Foster (Foster's Home for Imaginary Friends)
 https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-character
 - Dexter's Mom (Dexter's Laboratory)
@@ -443,6 +446,14 @@ https://civitai.com/models/80712/ciri-witcher-3
 https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/82941/cirilla-fiona
 https://civitai.com/models/21234/ciri-the-witcher-3-wrise
+- Mass Effect
+	- Tali'Zhorah
+https://civitai.com/models/22827/talizorah-mass-effect
+https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
+	- Liara T'Soni
+https://civitai.com/models/19668/asari-diffusion
+https://civitai.com/models/20081/asari-diffusion-anime
+https://civitai.com/models/16091/liara-tsoni
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -451,14 +462,27 @@ https://civitai.com/models/53335/alyx-half-life-character-lora
 - Dota 2
 	- Enchantress
 https://civitai.com/models/43148/enchantress-dota-2
-	- Marci (Netflix series)
+	- Dawnbreaker
+https://civitai.com/models/43669/dawnbreaker-from-dota-2
+	- Vengeful Spirit
+https://civitai.com/models/43626/vengeful-spirit-dota-2
+	- Antimage
+https://civitai.com/models/46377/antimage-persona-wei-from-dota-2
+	- Netflix series
+		+ Lina 
+https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
+		+ Marci
 https://civitai.com/models/20678/marci-dota-2-lora-wip
 https://civitai.com/models/16219/marci-dota-dragons-blood
-	- Mirana (Netflix series)
+		+ Mirana
 https://civitai.com/models/24894/mirana-dota-dragons-blood
 https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
+		+ Fymryn 
+https://civitai.com/models/40669/fymryn-dota-dragons-blood
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
+	- Dark Willow
+https://civitai.com/models/18057/dark-willow-dota-2-lora-wip
 - Overwatch
 https://rentry.org/acorepo2
 - Apex Legends
@@ -472,6 +496,8 @@ https://civitai.com/models/21017/loba-apex-legends-lora
 https://civitai.com/models/17698/valkyrie-apex-legends-lora
 	- Horizon
 https://civitai.com/models/50414/horizon-apex-legends
+	+ Mad Maggie
+https://civitai.com/models/83113/mad-maggie-apex-legends
 - Catwoman (Arkham City)
 https://civitai.com/models/17661/sxz-catwoman-dc
 - Harley Quinn (Arkham City) & (Knight)
@@ -525,6 +551,8 @@ https://civitai.com/models/49968/invincible-style-lora
 https://civitai.com/models/18828/jabcomix
 - Shadman
 https://civitai.com/models/5423/luisapshadbase-but-from-ohio
+- Métal Hurlant
+https://civitai.com/models/83305/metal-hurlant-style-heavy-metal-french-comics
 - Valerian & Laureline
 https://civitai.com/models/13998/valerian-and-laureline-comic-style
 - Cartoon fan art style

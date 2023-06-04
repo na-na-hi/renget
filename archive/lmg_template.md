@@ -1,21 +1,22 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.17 | Helped Making Waifus Real Since 2023* <-
+->*V 1.18 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
+***
+!!! Note News Section Updated
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(06/03) Nous-Hermes-13b released
+\>(06/03) WizardLM-Uncensored-Falcon-40b released
 \>(05/27) FalconLM release Falcon-7B & 40B, new foundational models
 \>(05/26) BluemoonRP 30B 4K released
 \>(05/25) QLoRA and 4bit bitsandbytes released
 \>(05/23) exllama transformer rewrite offers around x2 t/s increases for GPU models
 \>(05/22) SuperHOT 13B prototype & WizardLM Uncensored 30B released
-\>(05/19) RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
-\>(05/19) PygmalionAI release 13B Pyg & Meth
-\>(05/18) VicunaUnlocked-30B released
 
 ►**FAQ & Wiki**
 \>Wiki
@@ -111,6 +112,10 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+05/22/2023 | SuperHOT 13B prototype & WizardLM Uncensored 30B released
+05/19/2023 | RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
+05/19/2023 | PygmalionAI release 13B Pyg & Meth
+05/18/2023 | VicunaUnlocked-30B released
 05/14/2023 | llama.cpp quantization change breaks current Q4 & Q5 models, must be quantized again
 05/13/2023 | llama.cpp GPU acceleration has been merged onto master >>93403996 >>93404319
 05/10/2023 | GPU-accelerated token generation >>93334002

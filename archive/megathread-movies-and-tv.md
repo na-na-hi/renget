@@ -161,6 +161,10 @@
 - Users may find a large range of new films and web series on the website, most of them are in high definition quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/himovies.to/)
 
+### ▶️ [Hurawatch](https://hurawatch.cc/)
+- One of the most popular and easily navigable websites, it provides free HD streaming of films and TV shows.
+- [URL Safety Results](https://www.urlvoid.com/scan/hurawatch.cc/)
+
 ### 🐐 [Justchill](https://www.justchill.tv/)
 - With blazing fast speeds, users may access many movies and web series, the majority of which are available in high definition.
 - [URL Safety Results](https://www.urlvoid.com/scan/justchill.tv/)
