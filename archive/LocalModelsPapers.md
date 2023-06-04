@@ -81,6 +81,7 @@
 05/2023|[Scaling Speech Technology to 1,000+ Languages](https://archive.ph/pRSo5)
 05/2023|[READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
 05/2023|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)
+06/2023|[Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://arxiv.org/abs/2306.00989)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
@@ -134,6 +135,7 @@
 05/2023|[ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172)
 05/2023|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
+05/2023|[MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training](https://arxiv.org/abs/2306.00107)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -180,6 +182,7 @@
 02/2023|[Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models](https://arxiv.org/abs/2302.02599)
 02/2023|[The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)
 02/2023|[End-to-End Deep Learning Framework for Real-Time Inertial Attitude Estimation using 6DoF IMU](https://arxiv.org/abs/2302.06037)
+02/2023|[The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation](https://arxiv.org/abs/2302.06784)
 03/2023|[COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/abs/2303.09752)
 03/2023|[High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
 03/2023|[Meet in the Middle: A New Pre-training Paradigm](https://arxiv.org/abs/2303.0729)
@@ -239,6 +242,7 @@
 05/2023|[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118)
 05/2023|[Blockwise Parallel Transformer for Long Context Large Models](https://arxiv.org/abs/2305.19370)
 05/2023|[The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
+05/2023|[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788)
 06/2023|[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 |
 |**Articles**

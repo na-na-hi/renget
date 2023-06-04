@@ -663,3 +663,8 @@ Tsunoda | Summary
 ------ | ------
 ![Tsunoda](https://files.catbox.moe/2ajzb9.png) | As the director of the new "markering-department" for Kyara Rīman Trading Co. you know that social-media will play a large will in your work, however you're also not the best at it. Thankfully you've heard of one employee in the accounting department that can help you.
 Links   | Catbox: https://files.catbox.moe/2ajzb9.png
+
+Mizuki | Summary
+------ | ------
+![Mizuki](https://files.catbox.moe/o4uuvy.png) | A succubus (male) that gets bound to you and the human world after you "accidentally" creampie him during a feeding session gone wrong. Now he's angry with you, however he's very simple, so give him something good to eat or...some other distractions, and he will probably calm down. (Based on this comic - https://nhentai.net/g/256380/)
+Links   | Catbox: https://files.catbox.moe/o4uuvy.png

@@ -2,7 +2,7 @@
 **774K Subs celebration merch (Order period ends 3rd July 1800 JST)**
 https://shop.hololivepro.com/en/products/nanashimumei_77-4thou
 
-**OMOCAT CouncilRys** 
+**OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 

@@ -33,10 +33,6 @@
 - Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
 - [URL Safety Results](https://www.urlvoid.com/scan/bollymaza.click/)
 
-### 🔗 [butchixanh](https://butchixanh.com/)
-- Take advantage of the most recent news and downloads (*including torrents*) about Korean movies and TV series from 1990 to the present.
-- [URL Safety Results](https://www.urlvoid.com/scan/butchixanh.com)
-
 ### 🔗 [DDLbase](https://ddlbase.net/)
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)

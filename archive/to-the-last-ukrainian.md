@@ -95,7 +95,7 @@
 [ [catbox](https://files.catbox.moe/440tqs.MP4) | [ipfs](https://ipfs.io/ipfs/QmV9vUfPvdEaUQRgA182crrJQoPXcMCkouPrpvyTKhp8NX) ] - Gang kidnap
 [ [catbox](https://files.catbox.moe/a1sr42.MP4) | [ipfs](https://ipfs.io/ipfs/QmVFNg3teediydFcsPERRQNKnfDWZWX1M9d9jSHTHsGfXh) ] - Sliding man
 [ [catbox](https://files.catbox.moe/84qy3w.MP4) | [ipfs](https://ipfs.io/ipfs/Qmf1i5VWTwLtd2WPigjChv75yrC5CFA1maQMCx5UDRUres) ] - Gang kidnap
-[ [catbox](https://files.catbox.moe/9of1u9.mp4) | [ipfs](https://ipfs.io/ipfs/QmTCfgYEYWbzRW1ctiJWgeC96mB6ZosUM4YGZKZbFUjFW9) ] - Fake ambulance with draft officers inside
+[ [catbox](https://files.catbox.moe/9of1u9.mp4) | [ipfs](https://ipfs.io/ipfs/QmTCfgYEYWbzRW1ctiJWgeC96mB6ZosUM4YGZKZbFUjFW9) ] - Fake ambulance with summoners inside
 [ [catbox](https://files.catbox.moe/erzt2t.mp4) | [ipfs](https://ipfs.io/ipfs/QmUKJDT9f5Huv1mmB6kgauJpndioTMuHvcyc9MV4XonfcC) ] - Gang kidnap
 [ [catbox](https://files.catbox.moe/4mkfsp.mp4) | [ipfs](https://ipfs.io/ipfs/QmeMHjLnwTLrPuxb2DP59jc4EzGN5Z1WNgktJQJERHZAKp) ] - Running away
 [ [catbox](https://files.catbox.moe/cbfz2u.mp4) | [ipfs](https://ipfs.io/ipfs/QmX7wcgw2oQrCqf2pXJHrEtmNWHBAJExoFUnXkQT5C1XhY) ] - Calling mama
@@ -103,7 +103,7 @@
 [ [catbox](https://files.catbox.moe/sbeqyt.mp4) | [ipfs](https://ipfs.io/ipfs/QmT1ZzBRakTVnhHSXkbsGR71SHiE3YF9AAVQWG9xBsUQ2e) ] - Dragging unconscious body
 [ [catbox](https://files.catbox.moe/qzzly9.mp4) | [ipfs](https://ipfs.io/ipfs/QmXC9vArrXMcnCNB1VfZs5bXMFKELzhFq5rdhpjDinD5xG) ] - Fresh draftees before departure
 [ [catbox](https://files.catbox.moe/t5qhgw.webm) | [ipfs](https://ipfs.io/ipfs/QmemNSrAeEmWzA5Y6eBFff5jK6Astew2n6JNEkfXfam4xv) ] - Shot dead for running away
-[ [catbox](https://files.catbox.moe/ap157i.webm) | [ipfs](https://ipfs.io/ipfs/QmdrHaCGA36vvR8PUyzukgzgJbpPxWwX15PHBWNG37wHtp) ] - The victim strikes back
+[ [catbox](https://files.catbox.moe/ap157i.webm) | [ipfs](https://ipfs.io/ipfs/QmdrHaCGA36vvR8PUyzukgzgJbpPxWwX15PHBWNG37wHtp) ] - The victim strikes back [REVENGE]
 [ [catbox](https://files.catbox.moe/zohsz0.mp4) | [ipfs](https://ipfs.io/ipfs/QmSY5K2sqnpqTnhDV7PM3rNfp42jPASVePgwczXJs1iQvq) ] - Sneak takedown
 [ [catbox](https://files.catbox.moe/z0tlmr.webm) | [ipfs](https://ipfs.io/ipfs/QmRpfUufoW8GUWzRfuPpkzwHPGLECMk6xakaS3JuWCbWLo) ] - Off the flea market
 [ [catbox](https://files.catbox.moe/wlk1gg.webm) | [ipfs](https://ipfs.io/ipfs/QmSeUffUFzAjiWNNvXo9stavhCtjk1psto3o6rq5XY2FBQ) ] - Right under "Urgent VISA" advertisement banner
@@ -111,6 +111,7 @@
 [ [catbox](https://files.catbox.moe/3kqa61.webm) | [ipfs](https://ipfs.io/ipfs/Qmc9wLgjyXoXoLw2f5M55K7FrAPAwfhiLP98Lgc2SkUwv1) ] - Mini-mobilizers
 [ [catbox](https://files.catbox.moe/joqv4b.webm) | [ipfs](https://ipfs.io/ipfs/QmSmnofGjFLBr9e595utNYwQrdqSzMDG6noSs3tVMcfYAD) ] - Apathetic police
 [ [catbox](https://files.catbox.moe/2boccd.webm) | [ipfs](https://ipfs.io/ipfs/QmXHERCNrfb29A5kGYuJ2bh9gUryYi8HHNcw85TmGPRX1D) ] - Near the entrance to kindergarten
+[ [catbox](https://files.catbox.moe/lndohj.webm) | [ipfs](https://ipfs.io/ipfs/QmbFEMVMxpg8hmCxaeitfoorL4TpKr3HPMTtKwmFqA5ppJ) ] - Gang beating up a summoner [REVENGE]
 
 !!! info
 	Help to contribute: chubconscription@cock.li

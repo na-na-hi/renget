@@ -201,6 +201,7 @@ https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 - Madelyne Pryor (X-Men)
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
+https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
 - Archer 
 	+ Lana Kane
@@ -468,6 +469,8 @@ https://civitai.com/models/43669/dawnbreaker-from-dota-2
 https://civitai.com/models/43626/vengeful-spirit-dota-2
 	- Antimage
 https://civitai.com/models/46377/antimage-persona-wei-from-dota-2
+	- Dark Willow
+https://civitai.com/models/18057/dark-willow-dota-2-lora-wip
 	- Netflix series
 		+ Lina 
 https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
@@ -481,8 +484,6 @@ https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 https://civitai.com/models/40669/fymryn-dota-dragons-blood
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
-	- Dark Willow
-https://civitai.com/models/18057/dark-willow-dota-2-lora-wip
 - Overwatch
 https://rentry.org/acorepo2
 - Apex Legends
@@ -688,6 +689,7 @@ https://civitai.com/models/5884/ariel-disney
 https://civitai.com/models/25464/kidbooks
 - Milo Manara art
 https://civitai.com/models/7217/mcmimana2
+https://civitai.com/models/6026/milomanara-768
 - Moebius Jean Giraud art
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#moebius
 https://civitai.com/models/8430/was-moebius
