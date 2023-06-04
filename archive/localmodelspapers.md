@@ -37,6 +37,7 @@
 05/2023|[Small Language Models Improve Giants by Rewriting Their Outputs](https://arxiv.org/abs/2305.13514)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
+07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
 01/2020|[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 05/2020|[Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)

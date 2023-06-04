@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Maryinka: Russian tanks advance through the ruins
+https://files.catbox.moe/vjmvd0.MP4
+>Another Lancet compilation from Seversky area
+https://files.catbox.moe/d02nvl.MP4
 >Ka-52 KINO
 https://files.catbox.moe/q2hpgd.mp4
 >Prigozhin spends birthday at Summer Camp Wagner

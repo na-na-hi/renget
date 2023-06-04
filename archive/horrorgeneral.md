@@ -1,4 +1,4 @@
--> Last update: 2023-05-26 ->
+-> Last update: 2023-06-04 ->
 
 # /horg/ - Horror Games General 
 
@@ -372,6 +372,14 @@ Zombie/horror spin-offs of popular series, like Red Dead Redemption: Undead Nigh
 ---
 
 ## Guides for PC best versions
+
+### Dino Crisis
+
+!!! note Download PC ports
+
+>[Dino Crisis 1](https://mega.nz/file/SkpjTK7b#umW80KxGYzGjt3m_EdI6JyVRFwvIIRwRjFRW3GZpwMQ) + [Patch](https://classicrebirth.com/index.php/dino-crisis-classic-rebirth/)
+
+Alternatively, emulating the PS1 version (via DuckStation) or Dreamcast port is easy. Dino Crisis 2 is best emulated.
 
 ### Resident Evil
 

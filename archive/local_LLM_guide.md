@@ -1,20 +1,20 @@
 ->![Newb's Guide to Running a local LLM model](https://i.imgur.com/IICKfUL.png)<-
 ->(on Windows **CPU** with 16GB **RAM** or more)<-
+->**Linux/OSX**, see [here](https://github.com/LostRuins/koboldcpp#osx-and-linux)<-
 
-**Note:** There are only 3 'steps': Download a model in GGML format, download KoboldCPP.exe, run KoboldCPP.exe with the model then go to its URL in your browser.  If you have **Linux/OSX**, see [here](https://github.com/LostRuins/koboldcpp#osx-and-linux).
+**Note:** There are only 3 'steps': 1. Download a model in GGML format, 2. download KoboldCPP.exe, 3. run KoboldCPP.exe with the model then go to its URL in your browser.
 
 **1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
 
 Relative proficiency at (**S/s**)tory or (**I/i**)nstruct modes:
 (**SI**) 13B (10GB RAM) [Vicuna-13b-Cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/tree/main)
 
+(**Si**) 7B (6GB RAM) [Wizard-Vicuna-7B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main) ([Q4_0](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/resolve/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_0.bin) is still good for quick n' dirty Story mode w/lower RAM usage)
+
 (**S**) 6B (8GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-GGML/tree/main)
 
-(**Si**) 7B (6GB RAM) [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/tree/main) (Q4_0 still good for quick n' dirty Story mode w/lower RAM usage)
 Older but still works- cannot use --gpulayers with:
 (**SI**) 13B (10GB RAM) [oasst-llama13b](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/resolve/main/qunt4_0.bin) 
-
-**TIP:** Want the fun of Story mode without sacrificing much RAM?  Try [WizardLM 7B uncensored Q4_0](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML/resolve/main/WizardLM-7B-uncensored.ggmlv3.q4_0.bin).  For bottom-of-the-barrel quality, it's surprisingly decent and *very* quick! 
 
 More recommended GGML models [HERE](https://github.com/LostRuins/koboldcpp/discussions/87)
 

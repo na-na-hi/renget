@@ -46,7 +46,7 @@ Batch Size|As high as you can go for your hardware. For example, 6 for a 3060 - 
 Epochs|Set it as high as you want. As an example, I have tested a 36 image, 3 character LoRA. This started to burn out at around 230 epochs at weight decay 0.4 totalling around 2400 steps at batch 6 - Once again, DAdapt needs more steps to achieve results as we're actively hampering the learning through decay
 DIM|32 (people have used 8 DIM/alpha to good effect, I have personally not tested this)
 Alpha|16 (match the DIM if set to 8 or lower)
-Warmups|Relatively untested, but I just set it to 0.1 to give it a bit of time to calibrate (?)
+Warmups|Relatively untested, but I just set it to 0.1 to give it a bit of time to calibrate (?) - set warmups to 0 if you're using the above .json and the "growth_rate=1.02\" argument
 How many training steps for my LoRA?|Final steps are divisible by your batch - for example, at batch 6, for a single character LoRA on DAdaptation I would probably expect anywhere from 600-1200 steps. Generally, training til overfitting and going back down the epochs will save needing to re-train the LoRA all over again with new settings
 
 Examples:

@@ -1,6 +1,6 @@
 ->![](https://cdn.discordapp.com/attachments/412451787820236803/1001366147452645407/ezgif-1-a24e3173eb.gif)<-
 ***
-->**liam** ![](https://watermelon.crd.co/assets/images/gallery01/84d170ef.gif?v=e0346574) [he/it+](https://pronouny.xyz/u/sodapack) 17<-
+->**liam** ![](https://watermelon.crd.co/assets/images/gallery01/84d170ef.gif?v=e0346574) [he/it+](https://pronouns.cc/@liamplecak) 17<-
 ->[nonhuman](https://en.wikipedia.org/wiki/Demon) white gay tme nby genderhoarder <-
 ->entp 7w6 neurodivergent + mi (unlisted)<-
 ->*masc/neu terms okay! fem terms ok if /j!*<-

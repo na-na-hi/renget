@@ -67,11 +67,12 @@ Appears to be more advanced with hooking into frames on pages like Holodex.
 https://greasyfork.org/en/scripts/459535-ytbetter
 
 #Improved Twitter Image Sharing
+(Updated: 2023-06-04)
 The intent is to standardize the saving of twitter image filenames so that when shared, they can easily have their source located. This is done by using a userscript with custom settings and the addition of a saucelink for 4chan-x to make it a one-click solution.
 
 ##Userscript and Custom Settings
 https://greasyfork.org/en/scripts/423001-twitter-media-downloader
-Change the default filename to: `@{user-id}_{status-id}`
+Change the default filename to: `@{user-id}-{status-id}`
 ![](https://files.catbox.moe/vx4k7l.png)
 
 !!!warning `Always show sensitive content` is bugged if you turn it on, make the below changes to the code to fix
@@ -95,16 +96,28 @@ if (btn_show.textContent == "Show") btn_show.click()
 
 ###Nitter Variant (Courtesy of Anon)
 !!!note For those who like using nitter instances for art, here's a tampermonkey script to save image with @username_statusnumber.Jpg format
-	Clicking on a image on nitter instances will propose to download it as : @username_statusnumber.jpg
+	Clicking on a image on nitter instances will propose to download it as : @username-statusnumber.jpg
 	now with [multiple pics in one tweet](https://nitter.it/aQwQhujuXCzdFPE/status/1662076023989739522) support
 	I should also mention the script only works when on a [searching page atm](https://nitter.it/search?f=tweets&q=(%23drawMEI+OR+%23drawingMei+OR+%23%E3%83%A0%E3%83%A1%E7%B5%B5)&e-nativeretweets=on&e-quote=on&since=&until=&near=)
-https://files.catbox.moe/6lmxqf.js
+https://files.catbox.moe/npv63s.js
 
 ##4chan-x Saucelink
 Under the Sauce tab, add the following line below `# Known filename formats:` (Refresh required)
-`https://twitter.com/%$1/status/%$2;regexp:/^@(\w+)_(\d{19})(-[0-3])?\.\w+$/`
+`javascript:void(open("https://twitter.com/"+%$1+(%$2?"/status/"+%$2:"")));regexp:/@(\w+)-?(\d{19})?(-[0-3])?\.\w+$/`
 ![](https://files.catbox.moe/id675y.png)
-![](https://files.catbox.moe/832o13.png)
+![](https://files.catbox.moe/drqzpb.png)
+
+##For anons using old filename system
+To quickly convert all the old `_` system to `-`, I put together some quick code:
+
+Windows (PowerShell):
+```powershell
+Get-ChildItem * | Rename-Item -NewName { $_.Name -replace '_(\d{19})', '-$1' }
+```
+Linux:
+```bash
+rename 's/_(\d{19})/-$1/' *
+```
 
 #4chan-x Edit: Better Page Info (Purge Position)
 ![](https://files.catbox.moe/3azond.png)

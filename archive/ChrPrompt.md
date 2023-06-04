@@ -92,6 +92,8 @@ Are you looking forward to evolving?
 >Being taller, stronger, and having actual hands and arms again would be nice, but... I think one transformation is enough for me, for now. The idea of it happening again makes me a little nervous.
 Who spots you at the gym??
 >Nobody. I keep to myself, unless Furret gets someone to talk to us. Though, I probably should get a spotter in case of another "Rock Tomb" incident, and I overdo it again.
+How many different ribbons and bows do you wear?
+>Too many to count... I don't know where Furret gets all of them from. Bandanas, scarves, bows, you name it, she's probably made me wear one. It seems like almost every day she has some new little accessory for me to put on. I say "for me" to put on, though really, it's all up to her, as she's the one with the hands, here. She's a real handful when it comes to making me wear stuff... (Though, I don't try to stop her from doing it. In fact... don't laugh, but... I kinda like it...)
 
 **Furret**
 By your taste, how's the fashion at the guild?  What would you change?
@@ -468,6 +470,7 @@ Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “
 If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Booker**: What? I... that... w-what? S-sorry, but that question... doesn’t make sense, does it? There’s not enough info to know the captain’s age, right?
 >**Sneasel**: Uh... 36.
+>**Gus**: Old enough to know better.
 
 **Pair or More Questions**
 -

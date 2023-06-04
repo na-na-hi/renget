@@ -207,6 +207,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
+	* [An Overelming Week](https://rentry.org/overelming) *Not on Table, WIP*
 * Growlithe(s)
 	* [Liminal Crossroads (ft. Growlithe(s)](https://rentry.org/v9e4t) *Not on Table*
 * Jimmy the Gimmighoul
@@ -385,6 +386,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Booker's Journal](https://rentry.org/RibombeeJournal)
 * [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t)
 * [Reunion (ft. Togetic)](https://rentry.org/72x5v)
+* [An Overelming Week](https://rentry.org/overelming)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

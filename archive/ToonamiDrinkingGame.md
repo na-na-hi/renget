@@ -24,14 +24,17 @@ Unicorn: Warriors Eternal
 -some English Bobbies show up just to get wrecked
 -finish your drink if there's a random tragic twist in the last 5 minutes, then go get the rest of your drinks and finish those if it still hurts
 
-Primal
--something starts bleeding that wasn't bleeding before
--A creature gets eaten
--Spear thinks bout his family
--Spear is tired of Fang's shit
--Fang has bedroom eyes
--Peace and calm is suddenly interrupted
--Someone or something roars
+Doctor Soap
+-they invent something new
+-senku explains something
+-senku is unrealistically smart
+-senku gets excited
+-taiju shouts for no reason
+-taiju unga bungas a problem
+-kohaku gets called a lion/gorilla/etc
+-someone mentions 10 billion
+-there's a flashback to someone's life
+-take 2 drinks whenever a character brews or imbibes alchohol
 
 Food Wars:
 -someone says "delicious", "umami", "gastronomy", or  "glutamic acid"
@@ -93,7 +96,6 @@ Naruto Shippuden:
 -A hokage is shown or referenced
 -A ninja walks on water, up a tree, or side of a mountain
 -Someone does/uses something overly impractical
-
 
 My Hero Academia S6
 -Deku cries
