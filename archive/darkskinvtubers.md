@@ -163,6 +163,7 @@ Latte_w_cream|[Twitter](https://twitter.com/latte_w_cream) [Twitch](https://www.
 meiraonline|[Twitter](https://twitter.com/_meiraonline) [Youtube](https://www.youtube.com/channel/UCUJkdXs54gXgBSko4N-_JGQ) [Twitch](https://www.twitch.tv/meiraonline)|
 Nekoreen|[Twitter](https://twitter.com/Nekoreen_CH) [Twitch](https://www.twitch.tv/nekoreen)|
 Serina Maiko|[Twitter](https://twitter.com/SerinaMaiko) [Youtube](https://www.youtube.com/@SerinaMaiko)|V4Mirai - Vsinger, & VDancer
+ffSade|[Twitter](https://twitter.com/ffSade) [Youtube](https://www.youtube.com/@ffSade) [Twitch](https://www.twitch.tv/ffsade)| Artist, Fighting games
 
 ---
 
@@ -202,6 +203,8 @@ Kuchiwo Tsugumi [JP]|[Twitter](https://twitter.com/GugenTV) [Youtube](https://ww
 sadlights [EN]|[Twitter](https://twitter.com/notsadlights) [Twitch](https://www.twitch.tv/sadlights)|
 AliothCh [EN]|[Twitter](https://twitter.com/AliothCh) [Youtube](https://www.youtube.com/@AliothCh) [Twitch](https://www.twitch.tv/aliothch)|
 Meltymoon_ [EN]|[Twitter](https://twitter.com/Meltymoon__) [Youtube](https://www.youtube.com/@Meltymoon) [Twitch](https://www.twitch.tv/meltymoon_)|
+JiBoVT[EN]|[Twitter](https://twitter.com/GREATBLACKOTAKU) [Youtube](https://www.youtube.com/@greatblackotaku) [Twitch](https://www.twitch.tv/greatblackotaku)|
+TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.tv/tetramh)|
 
 ---
 

@@ -107,8 +107,9 @@ Bot made by a pal from a pal. Sounds unlikely, no? You'll see when you read the 
 ![Papa!](https://files.catbox.moe/owaoct.png)
 
 ## WIPs or requests taken into account.
-- La+sy <--- working on her
+- Roboco <--- working on her
  
+La+sy
 Takanashi Kiara (Normal, Forma de wife)
 Hakos Baelz (Non-lewd one)
 Shiki Miyoshino (Zatsudan Project)

@@ -8,14 +8,16 @@
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
+![Jotaro Kujo](https://files.catbox.moe/fuj1a7.png) | Jotaro Kujo (JoJo) | https://www.chub.ai/characters/phalannex/Jotaro-Kujo | https://files.catbox.moe/fuj1a7.png
+![Tomoko Kuroki](https://files.catbox.moe/hzgceg.png) | Tomoko Kuroki (WataMote) | https://www.chub.ai/characters/phalannex/Tomoko-Kuroki | https://files.catbox.moe/hzgceg.png
 ![Ghiaccio](https://files.catbox.moe/5gqejr.png) | Ghiaccio (JoJo) | https://www.chub.ai/characters/phalannex/Ghiaccio | https://files.catbox.moe/5gqejr.png
-![Empress of Light](https://files.catbox.moe/tz2p1t.png) | Empress of Light (Terraria) `NSFW, loli/shotacon` | https://www.chub.ai/characters/phalannex/Empress-of-Light | https://files.catbox.moe/tz2p1t.png
 
 # Miscellaneous Characters
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
 ![Senator Armstrong](https://files.catbox.moe/a89sl1.png) | Senator Armstrong (Metal Gear Rising: Revengeance) | https://www.chub.ai/characters/phalannex/Steven-Armstrong | https://files.catbox.moe/a89sl1.png
+![Tomoko Kuroki](https://files.catbox.moe/hzgceg.png) | Tomoko Kuroki (WataMote) | https://www.chub.ai/characters/phalannex/Tomoko-Kuroki | https://files.catbox.moe/hzgceg.png
 ![Empress of Light](https://files.catbox.moe/tz2p1t.png) | Empress of Light (Terraria) `NSFW, loli/shotacon` | https://www.chub.ai/characters/phalannex/Empress-of-Light | https://files.catbox.moe/tz2p1t.png
 
 # Fire Emblem: Three Houses
@@ -44,6 +46,7 @@ Image | Name | CHub Link | Catbox Link
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
+![Jotaro Kujo](https://files.catbox.moe/fuj1a7.png) | Jotaro Kujo | https://www.chub.ai/characters/phalannex/Jotaro-Kujo | https://files.catbox.moe/fuj1a7.png
 ![Josuke Higashikata](https://files.catbox.moe/2tx8f1.png) | Josuke Higashikata | https://www.chub.ai/characters/phalannex/Josuke-Higashikata | https://files.catbox.moe/2tx8f1.png
 ![Ghiaccio](https://files.catbox.moe/5gqejr.png) | Ghiaccio | https://www.chub.ai/characters/phalannex/Ghiaccio | https://files.catbox.moe/5gqejr.png
 ![Risotto Nero](https://files.catbox.moe/zfqr1d.png) | Risotto Nero | https://www.chub.ai/characters/phalannex/Risotto-Nero | https://files.catbox.moe/zfqr1d.png

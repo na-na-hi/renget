@@ -1,5 +1,9 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
+
+####Nina (5/6/2023)
+https://www.chub.ai/characters/pitanon/Nina
+![](https://files.catbox.moe/hpqzqx.png)
  
 ####Aya (2/6/2023)
 https://www.chub.ai/characters/pitanon/Aya

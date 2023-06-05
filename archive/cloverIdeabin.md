@@ -10,6 +10,35 @@
 	4. Click Save
 
 ***
+https://youtu.be/e4_VOZwzSvU
+They say, that somewhere in the mountains to the east, there are two Mystery Dungeons that overlap. It is in this place, the chaotic land where they meet in the middle, where you'll find treasure beyond your wildest dreams, and dangers greater than you'll ever face in any normal dungeon.
+The Federation has the entrances to both Mystic Mountain and Cavernous Crystal closed down and guarded so that nobody goes in there and gets themselves killed, but there's whispers of another way in. You're told to talk to a cranky old man in the nearby village who's angry that that their economy took a hit now that they can't even go into Cavernous Crystal for valuable gems to sell. Buy him a drink, and promise not to tell the feds, and he'll show you an out-of-the-way tunnel that cuts into Floor 3 of Cavernous Crystal, and from there you can find your way into the point of intersection - the place known only as **The Between**.
+...
+*"The Between?  Oh, I can tell you all about it..."
+"It ain't like any dungeon I've ever seen before. It's like it can't even decide what type o' place it's tryin' to be. Weird trees growin outta the damn cave, like the ones up in Mystic, but partly made o' rock and crystal... far from the freakiest damn thing in there, though."
+**\>Enemies**
+"The ferals... it's like the dungeons were each tryin' ta make their own ferals in the same place at the same time, turning them into these melted-together freaks..."
+The old man shivers.
+"Still see their haunting faces in my damn nightmares. Even if their horrifying visages don't paralyze you in fear, they'll give you plenty more to be scared of in battle... It's like you're fighting two Pokémon at once, comin' at you with all sortsa crazy mixed-up moves, and they'll keep shamblin' at ya no matter HOW damaged they are, until they're totally down for the count. Don't get me started on the sounds they make..."
+**\>Terrain**
+"What's the dungeon like? It's like two kids were scribblin their own dungeons on the same paper on toppa each other. All these paths and rooms intersecting each other at weird angles, rooms cut in half and blocked off by the walls of other tunnels, traps half-embedded in walls... I dunno if a Warp Trap can even warp you into a wall, but with how screwed out the layout is I wouldn't risk it. The worst part is the kinda inexplainable weirdness you get in all dungeons being ramped way up. Like, like y'know... you can just look at the corner in a room there, but the angles don't match up, like it was drawn by a damn drunkard!"
+**\>Items**
+"...Alright, alright, I get it! Just shut yer trap already. Yeah, you types **always** come here for the treasure, right? Lotsa items in there... floor's littered with 'em. Gummis, Berries, Orbs, Seeds, whatever the hell you want is in there, and that ain't all. Some o' the damn stuff's all warped and broken, but on the other hand, sometimes it's like two items got all mixed up..."
+The man pulls out a Wonder Orb with a Plain Seed embedded in its core.
+**\>Useless**
+"Sure, but it's proof I'm not playin' with ya. Heh... couple'a months ago, young farmer went in there sayin' he's gonna come back with some special combo berries we can plant, and the mashed-up fruits it'll grow will put our village back on the map like it was before we stopped harvestin' crystals. ...He was a good 'mon. Usually played it safe. It's all the damn feds' fault we lost him..."
+**\>Child**
+The old man let out a deep sigh.
+"Ah, you musta heard the chatter in town... Yeah, a couple o' darn kids went in there day before yesterday, only one managed to find their way back out. Said his partner was still lost in there... hasn't been a single dry eye in the village since."
+"...I've seen that depressed, totally-defeated look on all kinds o' mons, but... I can't bear to see it on a child."
+**\>Rescue**
+"What? You want a description of the missin' one? Don't tell me you're actually thinkin' 'bout headin' in there."
+**\>Rescue**
+"Fine! Just do me a favor and tell me your names first... we got a memorial in the village for all the explorers who never make it out, figured I'll get a headstart on chiseling your team's epitaths into it. Bwahaha!"
+"...I'm serious. I see all sorts of starry-eyed fools pass through here on their way in, and I can count on my fingers the amount I saw again after that. Escape Orbs and Badges won't help you in there... the feds say it's because those are only meant to get you outta **one** dungeon, not two at once."
+**\>Drink**
+"...Guess yer not takin' no for an answer, huh? Heh... Fine then. I'll take a Gigaton Cheri. If I'm gonna lead you to your grave, least you can do is make sure I don't remember it in the morning."*
+***
 You wake up, feeling rested and eager to start a new day, but when you leave your dorm you realise something's horribly wrong. The rooms of the guild hall are twisted and distorted - familiar locations warped and askew, and to make matters worse you can see some of the other guildmates around, but something's not right about them. What's going on??
 
 Somehow the guildhall itself has turned into a mystery dungeon, and the feral pokemon populating it are copies of all the guildmates, twisted by everyone's perceptions of each other (ex: person A is intimidated by person B, so one of the copies of person B is physically more imposing than normal. or person C doesn't really know person D that well, so there's an obvious difference with the copy of person D like they're lacking a distinctive trait) Can you figure out what's going on and find out how to stop it? 
