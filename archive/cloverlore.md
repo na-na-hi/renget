@@ -12,13 +12,15 @@ A list of unique locations visited by guild members, or canon locations altered 
 #####Capim Town Locations
 ######The Clover Guildhall
 Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); (green) blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi).
-The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z). It also has a mirror, a substitute plushie with a sewn up butt, and a box with "Reviver Seeds : )" scribbled over the label.
+The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z). It also has a mirror, a substitute plushie with a sewn up butt, and a box with "Reviver Seeds : )" scribbled over the label (the contents are actual Reviver Seeds, despite the label).
 ######Guildhall Layout
 ![Guildhall by Kiyo and Booker](https://i.imgur.com/ABnbwza.png)
 ######Blue Claw Inn
 An inn/tavern in Capim Town. Notable for being the location where [Gathering](https://rentry.org/h3fdu) occurs and the guild is formed.
 ######Ariados the Tailor
 Tailor in Capim Town. The backroom of her store is for clothing storage, and is several floors tall and full of clothes from top to bottom. Uses her silk threads to climb up and down to fetch clothes. Ariados also uses her silk as improvised measuring tape and for weaving her own silk cloth. First appears in [Torchic Crosses the Alps](https://rentry.org/unesm)
+######Library
+A small library run by a Blipbug librarian. Used to be a meeting point for a group of Pokémon roleplaying as humans, but sometime after the events of [Torchic Crosses the Alps](https://rentry.org/unesm) human roleplaying was banned there. Has several extra rules for Fire Pokémon. Fist appears in Torchic Crosses the Alps, then returns in [An Overelming Week](https://rentry.org/overelming).
 #####Other Locations
 ######Hot Spring
 A hot spring on top of a mountain near Capim Town, guarded by a Charizard who battles anyone who tries to reach the summit. First visited by Chepin in [Mountain Hike](https://rentry.org/mk77t)

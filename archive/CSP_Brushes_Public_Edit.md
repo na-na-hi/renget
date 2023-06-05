@@ -117,6 +117,10 @@
 **REAGANS2 PEN**|[1715553]|[Store](https://assets.clip-studio.com/en-us/detail?id=1715553)|[DL](https://pixeldrain.com/u/Sux9M2RQ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/55/1715553/thumbnail?1660507937)
 **Reagan-RG pen (Reagan-RG펜)**|[1964554]|[Store](https://assets.clip-studio.com/en-us/detail?id=1964554)|[DL](https://pixeldrain.com/u/AimS14gw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/45/1964554/thumbnail?1669199388)
 **JUJU Line【Addition】 (JUJU线【追加】)**|[2004742]|[Store](https://assets.clip-studio.com/en-us/detail?id=2004742)|[DL](https://pixeldrain.com/u/EAdQXktL)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/47/2004742/thumbnail?1685198475)
+**Starting and ending thick brush (入り抜き厚塗りブラシ)**|[1787741]|[Store](https://assets.clip-studio.com/en-us/detail?id=1787741)|[DL](https://pixeldrain.com/u/prrzMaPd)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/77/1787741/thumbnail?1600254666)
+**Watercolor Brushes (水彩っぽブラシ)**|[1844080]|[Store](https://assets.clip-studio.com/en-us/detail?id=1844080)|[DL](https://pixeldrain.com/u/H16BfU3n)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/40/1844080/thumbnail?1622808344)
+**Paraphen (낙디펜)**|[1925636]|[Store](https://assets.clip-studio.com/en-us/detail?id=1925636)|[DL](https://pixeldrain.com/u/81iNFLba)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/56/1925636/thumbnail?1684398046)
+**105 flat brush, delicately painted and stretched (105平筆・繊細塗り伸ばし)**|[1742303]|[Store](https://assets.clip-studio.com/en-us/detail?id=1742303)|[DL](https://pixeldrain.com/u/1yCHL5XL)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/03/23/1742303/thumbnail?1561537924)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 
@@ -138,6 +142,7 @@
 **New Casa Pens**|[1915658]|[Store](https://assets.clip-studio.com/en-us/detail?id=1915658)|[DL](https://pixeldrain.com/u/JRJ3Yrje)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/56/1915658/thumbnail)
 **Water Pens**|[1693883]|[Store](https://assets.clip-studio.com/en-us/detail?id=1693883)|[DL](https://pixeldrain.com/u/xKD5YgZA)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/38/1693883/thumbnail)
 **Shark pencil**|[1732997]|[Store](https://assets.clip-studio.com/en-us/detail?id=1732997)|[DL](https://pixeldrain.com/u/qSbwtgtP)|![](https://web.archive.org/web/20190129071207im_/https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/29/1732997/thumbnail?1547313681)
+**Shark brush**|[1730077]|[Store](https://assets.clip-studio.com/en-us/detail?id=1730077)|[DL](https://pixeldrain.com/u/re2qUx1X)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/00/1730077/thumbnail?1544329111)
 **Magnolia Pen**|[1763144]|[Store](https://assets.clip-studio.com/en-us/detail?id=1763144)|[DL](https://pixeldrain.com/u/WjuZnYWt)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/44/31/1763144/thumbnail)
 **Natural Oil**|[1840810]|[Store](https://assets.clip-studio.com/en-us/detail?id=1840810)|[DL](https://pixeldrain.com/u/rtM3MSAq)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/10/08/1840810/thumbnail)
 **A Deli Pen (A델리펜)**|[1743246]|[Store](https://assets.clip-studio.com/en-us/detail?id=1743246)|[DL](https://pixeldrain.com/l/q4eNGjr2)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/46/32/1743246/thumbnail?1558254094)
@@ -182,6 +187,9 @@
 **Realphotoshop Brush**|[1719580]|[Store](https://assets.clip-studio.com/en-us/detail?id=1719580)|[DL](https://pixeldrain.com/u/Vy9qfhXY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/95/1719580/thumbnail?1538640567)
 **In Kimagure (モソもこきまぐれ)**|[1700349]|[Store](https://assets.clip-studio.com/en-us/detail?id=1700349)|[DL](https://pixeldrain.com/u/ECq9aFcy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/03/1700349/thumbnail?1505387576)
 **日焼けしたフラットブラシ (Sunfy flat brush)**|[2001368]|[Store](https://assets.clip-studio.com/en-us/detail?id=2001368)|[DL](https://pixeldrain.com/u/9wjZqVhv)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/13/2001368/thumbnail?1683776672)
+**[限時免費]FLAT OIL!!!**|[1867813]|[Store](https://assets.clip-studio.com/en-us/detail?id=1867813)|[DL](https://pixeldrain.com/u/VmXUfqWH)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/78/1867813/thumbnail?1632149227)
+**soyo oil**|[1796486]|[Store](https://assets.clip-studio.com/en-us/detail?id=1796486)|[DL](https://pixeldrain.com/u/dosCDeRg)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/64/1796486/thumbnail?1604158056)
+**soyo oil 2**|[1796487]|[Store](https://assets.clip-studio.com/en-us/detail?id=1796487)|[DL](https://pixeldrain.com/u/TKNDP6Pm)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/64/1796487/thumbnail?1604158095)
 ****|[]|[Store]()|[DL]()|![]()
 ****|[]|[Store]()|[DL]()|![]()
 

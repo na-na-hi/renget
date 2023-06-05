@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/QI7tpNl.png)
-Jacqui Edition
+![suggested OP image](https://i.4cdn.org/vg/1685914793044781.jpg)
+Oof Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>432161849
+Last thread: >>432345516
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -31,15 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-(06/01) Neat https://erichartford.com/uncensored-models ; Sagadev takes HF model suggestions >>432044068
-(05/28) Saga gets big updates (and claude): >>431617023 >>431616429 >>431618626 ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
+\>(06/04) Oof https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
+(06/01) Neat https://erichartford.com/uncensored-models
+(05/28) Saga gets updates & claude: >>431617023 >>431616429 >>431618626 >>432044068; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 (05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
 (05/23) Clio drops for Opus https://i.imgur.com/qAKr00Q.mp4 ; Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write patient prompts for next week's theme, Waiting Friday! >>432120106
+Write patient prompts for this week's theme, Waiting Friday!
 
 
 ##Perma-Template

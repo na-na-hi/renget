@@ -34,6 +34,7 @@ https://desuarchive.org/trash/thread/56600391 /pizzatrash/ 31
 https://desuarchive.org/trash/thread/56693955 /pizzatrash/ 32
 https://desuarchive.org/trash/thread/56785788 /pizzatrash/ 33
 https://desuarchive.org/trash/thread/56909370 /pizzatrash/ 34
+https://desuarchive.org/trash/thread/57010325 /pizzatrash/ 35
 
 #####Aggie
 
@@ -61,6 +62,7 @@ https://aggie.io/t1vvw3_o2s Weekend /pizzatrash/ Aggie
 https://aggie.io/ckgwzepkss Another /pizzatrash/ Aggie
 https://aggie.io/6g9zlxbk7g /pizzatrash/ -BIRTHDAY EDITION
 https://aggie.io/f0g2uso4rl /pizzatrash/ DAY AFTER BIRTHDAY EDITION
+https://aggie.io/74j5yvnxye Sunday Funday /pizzatrash/
 
 #####MEGA
 
@@ -74,6 +76,6 @@ https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
 
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/56909370
-Latest Aggie: https://aggie.io/f0g2uso4rl
+Latest thread: https://boards.4chan.org/trash/thread/57010325
+Latest Aggie: https://aggie.io/74j5yvnxye
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA

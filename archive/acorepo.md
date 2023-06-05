@@ -100,11 +100,17 @@ https://civitai.com/models/72423/april-april-oneil-1987-lora
 - She-Ra (Masters of the Universe)
 https://civitai.com/models/44792/she-ra-1985
 https://civitai.com/models/82029/she-ra-lycoris
+	- *[style](#styles)*
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
 https://civitai.com/models/44410/jessica-rabbit
 - Hello Nurse (Animaniacs)
 https://civitai.com/models/23001/hello-nurse
+- The Pirates of Dark Water
+ 	+ Tula 
+https://civitai.com/models/79186/tula-the-pirates-of-dark-water
+	+ Ren 
+https://civitai.com/models/79191/ren-the-pirates-of-dark-water
 - Panda Delgado (Body Bags)
 https://civitai.com/models/18846/panda-delgado
 - The Legend of Korra
@@ -140,6 +146,7 @@ https://civitai.com/models/23594/gwendolyn-tennyson-ben-10-character
 https://civitai.com/models/54918/gwen-tennyson-ben-10-alien-force
 	+ Ben Tennyson
 https://civitai.com/models/49101/ben-tennyson-ben-10-2005-character-lora
+	- *[style](styles)*
 - Kim Possible
 	+ Kimberly
 https://civitai.com/models/24195/kimberly-ann-possible-kim-possible
@@ -339,11 +346,6 @@ https://civitai.com/models/81688/suise-the-oblongs
 https://civitai.com/models/21663/wuya
 - Icy (Winx Club)
 https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
-- The Pirates of Dark Water
- 	+ Tula 
-https://civitai.com/models/79186/tula-the-pirates-of-dark-water
-	+ Ren 
-https://civitai.com/models/79191/ren-the-pirates-of-dark-water
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Marge Simpson (The Simpsons)
@@ -369,39 +371,20 @@ https://civitai.com/models/54925/daphne-blake-scooby-doo-2010
 https://civitai.com/models/76851/betty-rubble-the-flintstones
 	+ Wilma Flintstone
 https://civitai.com/models/76692/wilma-flintstone-the-flintstones
-- Star Wars: The Clone Wars
-	+ Ahsoka Tano
+- Star Wars
+	- Ahsoka Tano (Clone Wars)
 https://civitai.com/models/58891/ahsoka-tano-clone-wars-star-wars
 https://civitai.com/models/39068/ahsoka-tano-star-wars
-		* (Star Wars Rebels)
+		+ (Star Wars Rebels)
 https://civitai.com/models/26309/ahsoka-tano-star-wars-rebels-loha
-	+ Bo Katan 
+	* Bo Katan (Clone Wars)
 https://civitai.com/models/58904/bo-katan-clone-wars-star-wars
-- Aayla Secura (Star Wars Dark Horse Comics, 2000)
+	+ Aayla Secura
 https://civitai.com/models/28309/aayla-secura-or-star-wars
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
 - Homestuck fan art
-	- Aradia Megido
-https://civitai.com/models/44895/aradia-megido-homestuck
-	+ Feferi Peixes 
-https://civitai.com/models/69595/feferi-peixes-homestuck
-	- Jade Harley
-https://civitai.com/models/33511/jade-harley-homestuck-lora
- 	+ Kanaya Mryam 
-https://civitai.com/models/69646/kanaya-maryam-homestuck
-https://civitai.com/models/32231/kanaya-maryam-homestuck-lora
-	- Nepeta Leijon
-https://civitai.com/models/62099/nepeta-leijon-homestuck
-	- Terezi Pyrope 
-https://civitai.com/models/34501/terezi-pyrope-homestuck
-https://civitai.com/models/34330/terezi-pyrope-homestuck-lora
-	- Vriska Serket
-https://civitai.com/models/20579/vriska-serket-homestuck
-	- Karkat Vantas
-https://civitai.com/models/38824/karkat-vantas-homestuck
-	- John Egbert
-https://civitai.com/models/76494/john-egbert-homestuck
+https://rentry.org/acorepo2#homestuck-fan-art
 - Helltaker (Gloomhaven)
 https://civitai.com/models/8429?modelVersionId=9942
 - Claire (The Summoning)
@@ -556,9 +539,12 @@ https://civitai.com/models/8211/danmumford-style-lora
 https://civitai.com/models/78038/clay-mann-artstyle-loha
 - SleepyGimp art
 https://civitai.com/models/70420/sleepygimp-style-lora
+---
 - Masters of the Universe
 https://civitai.com/models/37797/filmation-motu-lora
 https://civitai.com/models/80675/he-man-and-masters-of-the-universe-style-lora
+- Ben 10
+https://civitai.com/models/84097/ben-10-style-lora
 - The Owl House
 https://civitai.com/models/20603/the-owl-characters
 - Totally Spies
@@ -567,6 +553,7 @@ https://civitai.com/models/24464/totally-spies-art-style-and-characters
 https://civitai.com/models/33635/total-drama-characters-lora
 - Invincible (TV series)
 https://civitai.com/models/49968/invincible-style-lora
+---
 - JabComix
 https://civitai.com/models/18828/jabcomix
 - Shadman

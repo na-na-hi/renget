@@ -22,7 +22,7 @@
 
 •[**Reverie**](https://c.ai/c/umPnMbIVqmkkcQ7WNCDQCM8mZNgSwrVIAx0Vb127ap8): Treat this one like a text vacation. You play as a distinguished guest to a hotel stranded in space, where wild desires are satiated (as wild as the A.I allows :}). Prompt with substance, and the bot will respond in kind. Have exotic food, talk technobabbles, visit the casino, or do *unspeakable* things, it's your prerogative.
 
-•[**Eirwen**]: Take care of your own miniature city of tiny Fey, inspired by Arriety and Hollow Knight (coming soon).
+•[**Eirwen**](https://c.ai/c/3YdQIRSm7WBxkiCFysNdA5ThRejFe5Vy_bwMrK-mAxY): Explore the miniature city of tiny Fey, inspired by Arriety and Hollow Knight. LLMs exhibit distinct pitfalls of correlation when stripped of a baseline context. Thus, you should ask the bot a few questions in OOC first, to remind it of the def proses. Ask it to *describe* the city, but most importantly, the spirit of the story; that tends to inspire very soulful responses.
  
 -----
 ##->disclaimer<-

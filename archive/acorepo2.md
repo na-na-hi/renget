@@ -73,6 +73,8 @@ https://civitai.com/models/37064/sxz-nightborne-warcraft
 https://civitai.com/models/34855/sxz-death-knights-warcraft
 - Draenei
 https://civitai.com/models/25104/sxz-draenei-warcraft
+- Succubus
+https://civitai.com/models/18711/succubus-lora-warcraftdota
 - Goblins
 https://civitai.com/models/36057/sxz-goblins-warcraft
 - Orcs
@@ -97,3 +99,26 @@ https://civitai.com/models/47983/sxz-tyrande-whisperwind-warcraft
 https://civitai.com/models/54714/scworld-of-warcraftvoljin
 - Thrall
 https://civitai.com/models/55438/scworld-of-warcraftthrall
+
+# Homestuck fan art
+
+- Aradia Megido
+https://civitai.com/models/44895/aradia-megido-homestuck
++ Feferi Peixes 
+https://civitai.com/models/69595/feferi-peixes-homestuck
+- Jade Harley
+https://civitai.com/models/33511/jade-harley-homestuck-lora
++ Kanaya Mryam 
+https://civitai.com/models/69646/kanaya-maryam-homestuck
+https://civitai.com/models/32231/kanaya-maryam-homestuck-lora
+- Nepeta Leijon
+https://civitai.com/models/62099/nepeta-leijon-homestuck
+- Terezi Pyrope 
+https://civitai.com/models/34501/terezi-pyrope-homestuck
+https://civitai.com/models/34330/terezi-pyrope-homestuck-lora
+- Vriska Serket
+https://civitai.com/models/20579/vriska-serket-homestuck
+- Karkat Vantas
+https://civitai.com/models/38824/karkat-vantas-homestuck
+- John Egbert
+https://civitai.com/models/76494/john-egbert-homestuck
