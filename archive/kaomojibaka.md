@@ -12,8 +12,10 @@ A general dedicated to the discussion and development of AI chatbots
 
 >>New
 gpt4 sometimes
-slack claude CANT.STOP.WONT.STOP
-khanons oai-rproxy now speaks claude
+slaude getting harder to proompt but still with us 
+card v2 rolling out, someone do the needful and add it to the editor https://github.com/ZoltanAI/character-editor
+card v2 info https://github.com/malfoyslastname/character-card-spec-v2
+claude proompting https://console.anthropic.com/docs/prompt-design especially xml tags got some hype
 
 https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]
 

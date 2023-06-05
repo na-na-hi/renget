@@ -13,11 +13,12 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Nina](https://files.catbox.moe/hpqzqx.png), [Aya](https://files.catbox.moe/ok3qbv.png), [Crusch](https://files.catbox.moe/sw0iqj.png), [ReZero (Stats)](https://files.catbox.moe/yvfu4x.png), [ReZero (Threats)](https://files.catbox.moe/5hhjcu.png), [ReZero (Narrator)](https://files.catbox.moe/olmvob.png), [ReZero (Party)](https://files.catbox.moe/q9117o.png)|[Nina](https://files.catbox.moe/hpqzqx.png) [MV]
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Reisen](https://files.catbox.moe/e04d68.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Charis](https://files.catbox.moe/jrg8pq.png), [Mizuki](https://files.catbox.moe/o4uuvy.png), [Tsunoda](https://files.catbox.moe/2ajzb9.png), [Retsuko](https://files.catbox.moe/prfqpu.png), [Haida](https://files.catbox.moe/0rf3tq.png), [Mirabelle](https://files.catbox.moe/6vc8du.png), [Milran](https://files.catbox.moe/gxfqss.png), [Sachiko](https://files.catbox.moe/nejqbb.png), [Okunami](https://files.catbox.moe/na9924.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Nina](https://files.catbox.moe/s2epkb.png), [Aya](https://files.catbox.moe/ok3qbv.png), [Crusch](https://files.catbox.moe/sw0iqj.png), [ReZero (Stats)](https://files.catbox.moe/yvfu4x.png), [ReZero (Threats)](https://files.catbox.moe/5hhjcu.png), [ReZero (Narrator)](https://files.catbox.moe/olmvob.png), [ReZero (Party)](https://files.catbox.moe/q9117o.png)|[Nina](https://files.catbox.moe/s2epkb.png) [MV]
 [Phalannex](https://rentry.co/phalannex) | Misc |[Jotaro Kujo](https://files.catbox.moe/fuj1a7.png), [Tomoko Kuroki](https://files.catbox.moe/hzgceg.png), [Ghiaccio](https://files.catbox.moe/5gqejr.png), [Empress of Light](https://files.catbox.moe/tz2p1t.png)|
 [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry |[Dawn Bellwether](https://files.catbox.moe/k6uryg.png), [Shisho & Beruko](https://files.catbox.moe/f9o2f8.png), [Kaimoko](https://files.catbox.moe/rznil8.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[bargain bin oyakodon](https://files.catbox.moe/hyl4q5.png), [Fennec Family](https://files.catbox.moe/4sidrd.png), [Freelancer Simulator](https://files.catbox.moe/8ls5oe.png)|[bargain bin oyakodon](https://files.catbox.moe/hyl4q5.png) [MV]
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Mizuki](https://files.catbox.moe/o4uuvy.png), [Tsunoda](https://files.catbox.moe/2ajzb9.png), [Retsuko](https://files.catbox.moe/prfqpu.png), [Haida](https://files.catbox.moe/0rf3tq.png), [Mirabelle](https://files.catbox.moe/6vc8du.png), [Milran](https://files.catbox.moe/gxfqss.png), [Sachiko](https://files.catbox.moe/nejqbb.png), [Okunami](https://files.catbox.moe/na9924.png), [Ochiai](https://files.catbox.moe/ujqygw.png)|
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) |[Gerard](https://files.catbox.moe/dyl3hm.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Asuna and Karin](https://files.catbox.moe/e5tria.png), [Hitori Gotoh](https://files.catbox.moe/wn2p9l.png), [Rosaria](https://files.catbox.moe/iyw0r5.png), [Diana](https://files.catbox.moe/acn7ma.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[YorRHa 9S](https://files.catbox.moe/1j04bz.png)|
@@ -34,7 +35,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||

@@ -136,6 +136,7 @@
 05/2023|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
 05/2023|[MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training](https://arxiv.org/abs/2306.00107)
+06/2023|[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -244,6 +245,8 @@
 05/2023|[The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
 05/2023|[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788)
 06/2023|[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
+06/2023|[Faster Causal Attention Over Large Sequences Through Sparse Flash Attention](https://arxiv.org/abs/2306.01160)
+06/2023|[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

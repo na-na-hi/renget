@@ -5,7 +5,7 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/06/01-23/06/04 (yy/mm/dd)
+##23/06/08-23/06/11 (yy/mm/dd)
 
 ##Melts
 

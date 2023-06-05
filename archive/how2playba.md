@@ -443,7 +443,7 @@ If you're planning on both units in a double banner, *don't* claim your spark un
 
 >XP
 1 AP = 1 XP. Your level is tied to how much AP you spend, so there's no real way to level up faster. 
-You can 3x refresh your AP for 90 gems a day, which is kind of good. Whether it's worth it is for you to decide.
+You can 3x refresh your AP for 90 gems a day, which is kind of good. Whether it's worth it is for you to decide. I personally suggest not to. 
 
 MAX level is current level cap + 1 xp off the next level (e.g. if the cap is 20, MAX would be 1 xp off lvl 21)
 

@@ -5,7 +5,7 @@
 ***
 
  ##-> About <-
-->Hey, thanks for clicking. Welcome to my rentry that's definitely not just a Honkai Impact 3rd charater card collection. All of my bots were written in Plists + Ali:Chat and they're mostly focused on personality, rather than lore. Also, for the Honkai fans out here, in order to make sure the bots worked properly, I had to make up scenarios that aren't very lore accurate, e.g. Pardofelis becoming a shop owner instead of a Flame-Chaser, or Elysia being a quasi-goddess and taking you to the Elysian realm which in these scenarios, is simply a separate world for the sake of coherency and also because most 6B models would have troubles digesting all the info in the Honkai lore. Anyway, I hope you enjoy using these bots as much as I do <3<-
+->Hey, thanks for clicking. Welcome to my rentry that's definitely not just a Honkai Impact 3rd character card collection. All of my bots were written in Plists + Ali:Chat and they're mostly focused on personality, rather than lore. Also, for the Honkai fans out here, in order to make sure the bots worked properly, I had to make up scenarios that aren't very lore accurate, e.g. Pardofelis becoming a shop owner instead of a Flame-Chaser, or Elysia being a quasi-goddess and taking you to the Elysian realm which in these scenarios, is simply a separate world for the sake of coherency and also because most 6B models would have troubles digesting all the info in the Honkai lore. Anyway, I hope you enjoy using these bots as much as I do <3<-
 
 ->If you have any recommendations or things you think I should add or change, feel free to DM me on discord **@Trappu#4161**<-
 
@@ -19,9 +19,9 @@
 ->**Brief description**: Aponia is a woman with a tragic past, blessed and cursed with the power of foresight and the ability to control minds. After rescuing you, she realizes she can neither read your mind nor see your future. That makes her very interested in you due to the fact that she's always lived her life already knowing what others were thinking and knowing their future. She believes that your arrival could bring some excitement in her dull life.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Aponia](https://files.catbox.moe/q7hy0x.json)<-
+->**Character JSON:** [Aponia](https://files.catbox.moe/sjwfm4.json)<-
 
-->![Aponia](https://files.catbox.moe/e6h1zm.png)<-
+->![Aponia](https://files.catbox.moe/06dxw1.png)<-
 
 ***
 
@@ -31,9 +31,9 @@
 ->**Brief description:** Pardofelis is a catgirl. She grew up homeless with her only friends being street cats and had to resort to thievery in order to make a living. She now owns a shop where she sells a bunch of trinkets she stole from people. Whatever you're looking for, she's selling. She's by far the bot I had the most fun making and speaking to, right above Mobius.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Pardofelis](https://files.catbox.moe/6w5tbz.json)<-
+->**Character JSON:** [Pardofelis](https://files.catbox.moe/5vjwg6.json)<-
 
-->![Pardofelis](https://files.catbox.moe/grdzf5.png)<-
+->![Pardofelis](https://files.catbox.moe/sqruo2.png)<-
 
 ***
 
@@ -44,9 +44,9 @@
 ->**Brief description:** Elysia is a pink-haired elf with magical powers. She's extremely caring, loving and cuddly. Her main goal is to take care of you and make you happy. She's great for therapy according to Otis.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Elysia](https://files.catbox.moe/5xr8b5.json)<-
+->**Character JSON:** [Elysia](https://files.catbox.moe/fhyiv8.json)<-
 
-->![Elysia](https://files.catbox.moe/uu8t0q.png)<-
+->![Elysia](https://files.catbox.moe/k5mv55.png)<-
 
 ***
 
@@ -57,9 +57,9 @@
 ->**Brief description:** You are at the Golden Courtyard, a wine bar owned by the once brightest star; Eden. She invites you to her private parlor to reminisce about your long lost pasts. She's my therapy bot, very verbose and her story being a tragic one makes her a pretty endearing character.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Eden](https://files.catbox.moe/as7ocd.json)<-
+->**Character JSON:** [Eden](https://files.catbox.moe/2uhxlo.json)<-
 
-->![Eden](https://files.catbox.moe/3tw71q.png)<-
+->![Eden](https://files.catbox.moe/9qtliz.png)<-
 
 ***
 
@@ -70,9 +70,9 @@
 ->**Brief description:** My first good bot. Here's Mobius, a crazy green-haired mad scientist. She chose you to be her assistant but it turns out that you're no more than a mere lab rat to her and she's going to use you for her experiments.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Mobius](https://files.catbox.moe/eo5fav.json)<-
+->**Character JSON:** [Mobius](https://files.catbox.moe/1pbsa4.json)<-
 
-->![Mobius](https://files.catbox.moe/30woht.png)<-
+->![Mobius](https://files.catbox.moe/vcjmrz.png)<-
 ***
 
 ## CharaCards [NSFW]
@@ -83,9 +83,9 @@
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/z6ou1i.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/c5w42f.json)<-
 
-->![Envi](https://files.catbox.moe/ke49s5.png)<-
+->![Envi](https://files.catbox.moe/5wfr9p.png)<-
 
 ***
 
@@ -96,6 +96,6 @@
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/8aghjn.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/xba1zc.json)<-
 
-->![Envi](https://files.catbox.moe/xyj2yw.png)<-
+->![Envi](https://files.catbox.moe/ss3l0t.png)<-

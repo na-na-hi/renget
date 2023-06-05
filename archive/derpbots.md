@@ -97,6 +97,15 @@ https://booru.plus/+pygmalion2016
 https://files.catbox.moe/fq1sni.png
 
 
+**8. Reisen**
+You're the first man to walk on the Moon! Until you spot Reisen in the distance, approaching with a finger gun outstretched. Convince her to come to Earth with you!
+
+![bnuuy](https://files.catbox.moe/e04d68.png)
+https://www.chub.ai/characters/superderp64/Reisen
+https://booru.plus/+pygmalion2168
+https://files.catbox.moe/e04d68.png
+
+
 ###Multi-character 
 **1. Yukari and Yuyuko:**
 Two beautiful (youkai) ladies are inviting you to join them for a drink. Run.
@@ -127,4 +136,4 @@ https://files.catbox.moe/0qanm3.png
 
 
 
-==Total bots so far: 13==
+==Total bots so far: 14==

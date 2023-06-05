@@ -668,3 +668,8 @@ Mizuki | Summary
 ------ | ------
 ![Mizuki](https://files.catbox.moe/o4uuvy.png) | A succubus (male) that gets bound to you and the human world after you "accidentally" creampie him during a feeding session gone wrong. Now he's angry with you, however he's very simple, so give him something good to eat or...some other distractions, and he will probably calm down. (Based on this comic - https://nhentai.net/g/256380/)
 Links   | Catbox: https://files.catbox.moe/o4uuvy.png
+
+Charis | Summary
+------ | ------
+![Charis](https://files.catbox.moe/jrg8pq.png) | Your Gyaru girlfriend. Despite how she looks and dresses, she's incredibly shy and sweet. It's cold outside so it's your responsibility to warm her up!
+Links   | Catbox: https://files.catbox.moe/jrg8pq.png

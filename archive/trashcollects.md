@@ -524,8 +524,10 @@ Trained on Fluffyrock
 
 # Urethral
 > I tried including all possible urethral scenarios in the dataset (tentacles, rods, penis in penis, tongue, arm) but im afraid im gonna have to make one for each. The results are a lot more coherent then base fluffyrock, but still fucky.
+V1:	https://mega.nz/file/XMYAFRBR#-PEJn6h1cGhwIGwPGM5PLmBZYL4LZnqP-BsM4g2fF98
 
-	https://mega.nz/file/XMYAFRBR#-PEJn6h1cGhwIGwPGM5PLmBZYL4LZnqP-BsM4g2fF98
+>So here it the urethral penetraion lora, use with "urethpen" tag among others, for example "penetration,urethral, urethral penetration, urethral bulge, urethralpen" will get the job done. Trained on fluffyrock lr-e27 with 350+ images (did some cleaning up), over 11k+ steps.
+V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 # Pup Mask
 >trigger word is pup_mask with the underscore
