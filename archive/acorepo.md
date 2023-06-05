@@ -22,8 +22,8 @@ https://files.catbox.moe/edb68f.safetensors
 	- Sasha Waybright
 https://civitai.com/models/16045?modelVersionId=18941
 - Adult Gwen Tennyson
-https://fiels.catbox.moe/snqlro.safetensors
-- Gwen Tennyson (textual inversion)
+https://files.catbox.moe/snqlro.safetensors
+	- *embedding*
 https://mega.nz/file/JE8QSZZC#KUjECstFWaJnd3Y_WFh30O66Rh4fz7uN7td4aB2y7DA
 - Teen Titans
 	+ Jinx
@@ -97,9 +97,14 @@ https://civitai.com/models/71628/irma-langenstein-tmnt-1990s
 	+ April O'Neil
 https://civitai.com/models/51651/esthetic-april-oneil-1987-tmnt
 https://civitai.com/models/72423/april-april-oneil-1987-lora
-- She-Ra (Masters of the Universe)
+	- Lotus Blossom
+https://civitai.com/models/82300/lotus-blossom-tmnt-1980s
+- Masters of the Universe
+	+ She-Ra
 https://civitai.com/models/44792/she-ra-1985
 https://civitai.com/models/82029/she-ra-lycoris
+	- Teela
+https://civitai.com/models/84478/teela-lycoris
 	- *[style](#styles)*
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
@@ -113,6 +118,8 @@ https://civitai.com/models/79186/tula-the-pirates-of-dark-water
 https://civitai.com/models/79191/ren-the-pirates-of-dark-water
 - Panda Delgado (Body Bags)
 https://civitai.com/models/18846/panda-delgado
+- Julie Winters (The Maxx)
+https://civitai.com/models/82274/julie-winters-the-maxx
 - The Legend of Korra
 	+ Korra
 https://civitai.com/models/74725/korra-or-the-legend-of-korra
@@ -127,6 +134,7 @@ https://civitai.com/models/63743/lin-beifong-the-legend-of-korra-lora
 https://civitai.com/models/55540/kuvira-the-legend-of-korra-lora
 	+ Opal 
 https://civitai.com/models/76595/opal-the-legend-of-korra-lora
+	- *[style](#styles)*
 - Avatar: The Last Airbender
 	- Azula 
 https://civitai.com/models/48188/azula-avatar-the-last-airbender-character-lora
@@ -140,13 +148,15 @@ https://civitai.com/models/65846/princess-yue-avatar-the-last-airbender
 https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
 	+ Ty Lee
 https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
+	- Zuko
+https://civitai.com/models/84092/zuko-or-avatar-the-last-airbender
 - Ben 10
-	+ Gwen Tennyson (& Ben 10 Alien Force)
+	+ Gwen Tennyson (& Ben 10: Alien Force)
 https://civitai.com/models/23594/gwendolyn-tennyson-ben-10-character
 https://civitai.com/models/54918/gwen-tennyson-ben-10-alien-force
 	+ Ben Tennyson
 https://civitai.com/models/49101/ben-tennyson-ben-10-2005-character-lora
-	- *[style](styles)*
+	- *[style](#styles)*
 - Kim Possible
 	+ Kimberly
 https://civitai.com/models/24195/kimberly-ann-possible-kim-possible
@@ -330,6 +340,8 @@ https://civitai.com/models/19524/miko-kubota-from-glitch-techs
 https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Wammawink (Centaurworld)
 https://civitai.com/models/41022?modelVersionId=46077
+- Penny Plasma (Mighty Magiswords)
+https://civitai.com/models/84101/penny-plasm-or-mighty-magiswords
 - Webby Vanderquack (Ducktales 2017)
 https://civitai.com/models/16051/webby-vanderquack
 - Frankie Foster (Foster's Home for Imaginary Friends)
@@ -396,6 +408,8 @@ https://civitai.com/models/45219/gadgethackwrench
 https://civitai.com/models/67970/peg-pete-lora
 - Lola Bunny (Space Jam)
 https://civitai.com/models/19125/lola-bunny
+- Nala (The Lion King 1994)
+https://civitai.com/models/83150/female-cartoon-lioness
 - Diane Foxington (The Bad Guys)
 https://civitai.com/models/10564?modelVersionId=35342
 - Loona (Helluva Boss)
@@ -437,7 +451,6 @@ https://civitai.com/models/73231/triss-merigold-witcher-3
 https://civitai.com/models/80712/ciri-witcher-3
 https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/82941/cirilla-fiona
-https://civitai.com/models/21234/ciri-the-witcher-3-wrise
 - Mass Effect
 	- Tali'Zhorah
 https://civitai.com/models/22827/talizorah-mass-effect
@@ -537,6 +550,8 @@ https://civitai.com/models/74592/mike-mignola-style-lora
 https://civitai.com/models/8211/danmumford-style-lora
 - Clay Mann art
 https://civitai.com/models/78038/clay-mann-artstyle-loha
+- Eva Widermann art (Warcraft)
+https://civitai.com/models/4996/warcraft-the-lora
 - SleepyGimp art
 https://civitai.com/models/70420/sleepygimp-style-lora
 ---
@@ -545,6 +560,8 @@ https://civitai.com/models/37797/filmation-motu-lora
 https://civitai.com/models/80675/he-man-and-masters-of-the-universe-style-lora
 - Ben 10
 https://civitai.com/models/84097/ben-10-style-lora
+	- Ben 10: Alien Force
+https://civitai.com/models/84372/ben-10-alien-force-style-lora
 - The Owl House
 https://civitai.com/models/20603/the-owl-characters
 - Totally Spies
@@ -553,6 +570,8 @@ https://civitai.com/models/24464/totally-spies-art-style-and-characters
 https://civitai.com/models/33635/total-drama-characters-lora
 - Invincible (TV series)
 https://civitai.com/models/49968/invincible-style-lora
+- The Legend of Korra
+https://civitai.com/models/84638/avatar-the-legend-of-korra-style-lora
 ---
 - JabComix
 https://civitai.com/models/18828/jabcomix
@@ -568,12 +587,16 @@ https://civitai.com/models/17800?modelVersionId=21039
 https://civitai.com/models/20606/modern-american-comics-style-1
 - Limited Blue palette style
 https://civitai.com/models/19525/limited-blue-style-lora
+- Grand Theft Auto game style
+https://civitai.com/models/66719/gta-style-or-lora
 - Banner Saga game style
 https://civitai.com/models/56031/banner-saga-style
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI
 https://civitai.com/models/6020/zelda-cdi-style-lora
+- N64 style
+https://civitai.com/models/81132/n64-style
 - C64 Graphics
 https://civitai.com/models/35886?modelVersionId=42085
 
@@ -589,11 +612,14 @@ https://civitai.com/models/61074/james-fenner-jmfenner
 https://civitai.com/models/15357/darius-kawasaky-style
 - Amy Matthews art
 https://civitai.com/models/16567/amy-matthews-style-cartoonpink
-- Eva Widermann art
-https://civitai.com/models/4996/warcraft-the-lora
-- The Legend of Zelda: Breath of the Wild (3D)
+- Antonella Fant art
+https://civitai.com/models/84305/antonella-fant-illustration
+- Teh-Dave art
+https://civitai.com/models/47276/style-tehdave
+---
+- The Legend of Zelda: Breath of the Wild game style (3D)
 https://civitai.com/models/54079/the-legend-of-zelda-breath-of-the-wild-style-lora
-	+ Ocarina of Time (3D)
+	+ Ocarina of Time game style (3D)
 https://civitai.com/models/19920/ocarina-of-time-style-low-poly
 - Everquest (3D)
 https://civitai.com/models/80269/everquest-lvl-1
@@ -601,6 +627,12 @@ https://civitai.com/models/80269/everquest-lvl-1
 https://civitai.com/models/75266/mantis-or-guardians-of-the-galaxy-or-lycorisloca
 - Corpse Bride and others
 https://civitai.com/models/23884?modelVersionId=60963
+- Vaporwave NSFW
+https://civitai.com/models/6501/vaporbabe-polywave
+	- *hypernetwork*
+https://civitai.com/models/4607/vaporwave-screenshot
+- "Lowpolybabe2k1"
+https://civitai.com/models/4000/lowpolybabe2k1
 - One-image LoRAs
 https://civitai.com/models/54833?modelVersionId=59209
 - Rembrandt art

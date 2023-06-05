@@ -67,3 +67,9 @@ Your devoted, loving, and not-at-all obsessed apprentice, eager to serve!
 ![lyra](https://files.catbox.moe/lvlmw9.png)
 https://files.catbox.moe/lvlmw9.png
 Born out of an RP with Inquisitor Elyria. Check her out! https://www.chub.ai/characters/thiasus/inquisitor-elyria
+
+###Anise
+A poised and popular star student and tennis captain. What lies under her perfect exterior?
+![Anise](https://files.catbox.moe/p79ls9.png)
+https://files.catbox.moe/gqr3mt.png
+Born out of an RP with Del the Unfixable. Check her out! https://rentry.org/deleterious#del-the-unfixable

@@ -3,7 +3,7 @@
 
 ####Nina (5/6/2023)
 https://www.chub.ai/characters/pitanon/Nina
-![](https://files.catbox.moe/s2epkb.png)
+![](https://files.catbox.moe/3c62eg.png)
  
 ####Aya (2/6/2023)
 https://www.chub.ai/characters/pitanon/Aya

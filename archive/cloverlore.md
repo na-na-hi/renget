@@ -79,10 +79,12 @@ Chespin builds a garden for the guild with the aid of Wooper and Booker.
 Phanpy helps the Guildmaster manage a group of human Pokemon in Treasure Town. After meeting a newly arrived Cyndaquil, Guildmaster Lliam puts Phanpy on an exploration team with three other misfits.
 ######[The First Day on the Job (Phanpy)](https://rentry.org/pn2fz)
 Phanpy's team goes out on their first job, and finish it by burning down Apple Woods. 
-######[Branching Out (Elm) (Intro)](https://rentry.org/branching)
-A human wakes up as a Duskull, goes through a dungeon, travels to Capim, then joins the guild and decides to name himself "Elm". The guild’s storeroom is described as being very messy and full of junk and unlabeled boxes, with no inventory.
 ######[Introducing Capim Town (Phanpy)](https://rentry.org/ry2ek)
 Phanpy's team and the rest of the Treasure Town members arrive in Capim Town.
+######[Branching Out (Elm) (Intro)](https://rentry.org/branching)
+A human wakes up as a Duskull, joins the guild and decides to name himself "Elm". The guild’s storeroom is described as being very messy and full of junk and unlabeled boxes, with no inventory.
+######[An Overelming Week (Elm)](https://rentry.org/overelming)
+In the storeroom Elm scribbles "Reviver Seeds :)" over the label of a box of Reviver Seeds with the intent of causing uncertainty to those who don't know how to differentiate Reviser Seeds from Reviver.
 
 ##### Undated
 Ordered by release date

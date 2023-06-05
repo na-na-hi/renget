@@ -33,12 +33,10 @@ This guide assumes that you still went through the steps from [PriconeTL](https:
 
 1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://drive.google.com/file/d/1XYkRUKfRNWxJMKYTAWAobEnzFau4FvEo/view)
 2. Extract it to the directory of your choice
-3. Grab the latest SugoiOfflineTranslator.dll [here](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint/releases/latest/) and put it in priconner\BepInEx\plugins\XUnity.AutoTranslator\Translators
-4. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
-5. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:
+3. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
+4. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:
 		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V4.0-Public\Code (replace with your own)
-		EnableCuda=False
-6. Start PriCon from the DMM Player; you will see a python.exe window pop up, no worries, this is expected and not malware
+5. Start PriCon from the DMM Player; you will see a python.exe window pop up, no worries, this is expected and not malware
 
 This is still an MTL translation so don't expect a flawless result, but it cuts down the latency and does a better job than DeepL. DeepL seems to cut out almost all the onomatopoeia, exclamations, honorifics and so on for example, and sometimes just throws a dictionary definition for individual words.
 If you are using an NVIDIA GPU, check the [Github](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint) again for how to enable CUDA.
@@ -60,7 +58,6 @@ Since nothing was actually installed, updating PriconeTL is as simple as replaci
 2. Make backups of the following files:
 	2.1 Preprocessor.txt under \priconner\BepInEx\Translation\en\Text
 	2.2 AutoTranslatorConfig.ini under \priconner\BepInEx\config
-	2.3 If you are using Sugoi, SugoiOfflineTranslator.dll under \priconner\BepInEx\plugins\XUnity.AutoTranslator\Translators
 3. Delete (or move, as a backup) the BepInEx folder from your \priconner\ directory
 4. Extract the new version into the \priconner\ directory
 5. Move your backups from 2. back into the corresponding directories
@@ -84,6 +81,7 @@ DMM seems to always put most of the data on drive C:, around 9GB on a fresh inst
 -> ![](https://i.imgur.com/FhNe1PB.png) <-
 
 *Changelog:*
-*Last Update 2023-05-25, Translator can no longer be changed on the fly with Alt+0
+*Last Update 2023-06-05, Cleaned up the info regarding Sugoi, now that some of it is included in the patch by default
+2023-05-25, Translator can no longer be changed on the fly with Alt+0
 2023-04-06, Added Update Section for PriconeTL
 2023-04-05, Initial Version*

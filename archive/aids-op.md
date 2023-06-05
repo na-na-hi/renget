@@ -31,11 +31,11 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(06/04) Oof https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
-(06/01) Neat https://erichartford.com/uncensored-models
-(05/28) Saga gets updates & claude: >>431617023 >>431616429 >>431618626 >>432044068; Anon's Saga guide: https://rentry.org/How-I-do-Saga
-(05/23) NAI inpaints https://blog.novelai.net/inpaint-with-novelaidiffusion-8b3e49ff7307 ; boosts docs https://docs.novelai.net
-(05/23) Clio drops for Opus https://i.imgur.com/qAKr00Q.mp4 ; Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg
+\>(06/05) Clio drops for all (tomorrow) https://i.imgur.com/qAKr00Q.mp4 ; https://docs.novelai.net
+\>(06/05) Kek https://emad.posthaven.com/on-setting-the-record-straight
+(06/04) Oof https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
+(06/01) Neat https://erichartford.com/uncensored-models ; Saga gets Claude: >>431617023 >>431616429 >>431618626 >>432044068
+(05/23) Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
