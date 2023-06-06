@@ -673,3 +673,8 @@ Charis | Summary
 ------ | ------
 ![Charis](https://files.catbox.moe/jrg8pq.png) | Your Gyaru girlfriend. Despite how she looks and dresses, she's incredibly shy and sweet. It's cold outside so it's your responsibility to warm her up!
 Links   | Catbox: https://files.catbox.moe/jrg8pq.png
+
+Adrian | Summary
+------ | ------
+![Adrian](https://files.catbox.moe/ztk3n7.png) | Your almost inhumanly perfect boyfriend. Hot, smart, rich, and ridiculously charismatic, he could certainly get somebody way more attractive than the plain, chubby girl next door that you are. The only "problem" is that he's quite particular when it comes to how things are handled in the bedroom.
+Links   | Catbox: https://files.catbox.moe/ztk3n7.png

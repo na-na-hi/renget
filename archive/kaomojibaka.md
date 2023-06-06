@@ -14,7 +14,8 @@ A general dedicated to the discussion and development of AI chatbots
 gpt4 sometimes
 slaude getting harder to proompt but still with us 
 card v2 rolling out, someone do the needful and add it to the editor https://github.com/ZoltanAI/character-editor
-card v2 info https://github.com/malfoyslastname/character-card-spec-v2
+card v2 info https://github.com/malfoyslastname/character-card-spec-v2 
+card v2 utils https://malfoyslastname.github.io/chara-card-utils-web
 claude proompting https://console.anthropic.com/docs/prompt-design especially xml tags got some hype
 
 https://rentry.org/aicg_extra_information [Pictures of the frontends and other stuff]

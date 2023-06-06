@@ -31,11 +31,11 @@ The basic translation for both the menus and the stories should now be set up. H
 DeepL does a good enough job that you can follow the story, but the translation is fairly rough and the latency can make waiting for the translation to be displayed a bit annoying. A local installation of [Sugoi](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint) improves both of those.
 This guide assumes that you still went through the steps from [PriconeTL](https://rentry.org/pcrgMTLguide#priconetl)
 
-1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://drive.google.com/file/d/1XYkRUKfRNWxJMKYTAWAobEnzFau4FvEo/view)
+1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://sugoitoolkit.com/)
 2. Extract it to the directory of your choice
 3. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
 4. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:
-		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V4.0-Public\Code (replace with your own)
+		InstallPath=C:\Program Files\Sugoi-Translator-Toolkit-V5.3-Public\Code (replace with your own)
 5. Start PriCon from the DMM Player; you will see a python.exe window pop up, no worries, this is expected and not malware
 
 This is still an MTL translation so don't expect a flawless result, but it cuts down the latency and does a better job than DeepL. DeepL seems to cut out almost all the onomatopoeia, exclamations, honorifics and so on for example, and sometimes just throws a dictionary definition for individual words.
@@ -81,7 +81,8 @@ DMM seems to always put most of the data on drive C:, around 9GB on a fresh inst
 -> ![](https://i.imgur.com/FhNe1PB.png) <-
 
 *Changelog:*
-*Last Update 2023-06-05, Cleaned up the info regarding Sugoi, now that some of it is included in the patch by default
+*Last Update 2023-06-06, Swapped out Links for a more recent version of Sugoi
+2023-06-05, Cleaned up the info regarding Sugoi, now that some of it is included in the patch by default
 2023-05-25, Translator can no longer be changed on the fly with Alt+0
 2023-04-06, Added Update Section for PriconeTL
 2023-04-05, Initial Version*

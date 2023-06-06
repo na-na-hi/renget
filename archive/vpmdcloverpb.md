@@ -233,8 +233,8 @@
 >His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
 >Prefers to take his time and check out the sights
 >Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
->Never drank alcohol before, but due to an occasion where he unknowingly drank several bottles of it, has lightened up. Gets heavily embarrassed when he sobers up and finds out he got drunk.
->His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper knows his old name so far.
+>Never drank alcohol before the change, but due to an occasion where he unknowingly drank several bottles of it, has lightened up. Gets heavily embarrassed when he sobers up and finds out he got drunk.
+>His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper and Toge know his old name so far.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
 >Cheerfulness and enthusiasm is what Wooper's all about. It'd take someone doing something very serious to make him mad.
@@ -243,7 +243,7 @@
 >While unusually skilled at fighting with moves like Earth Power and Hydro Pump, Wooper is reckless and frail. Even just one moderately hard hit will knock him out instantly.
 >Due to this, Chespin prioritizes protecting Wooper from harm in battle, even going so far as to use himself as a shield
 >Chespin can't shake the feeling that something seems a little off about him
->Despite that concern, the two are almost never seen apart.
+>Despite that concern, the two are practically never seen apart, to the point where Chespin may come off as clingy to observers
 >Should something happen to Wooper, Chespin will ignore everything else, even immense fears, to get him back.
 >Other guild members trick Wooper into repeating memes, with the promise that the phrases are "human detectors"
 >His true name is Woopy, a name Wooper really isn't a fan of.

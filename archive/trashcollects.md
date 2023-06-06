@@ -534,6 +534,11 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 	https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM
 
+# Monstermind (Style)
+>Use mmind and argon_vile in your prompt, on_back, high-angle_view, etc. Ghost_hands and disembodied_hand are hit or miss.
+
+	https://mega.nz/file/3AsRDJgZ#-owGxsdtLFYjFv43H6VysBMO88Vk3SKtLhF7mHdC03I
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

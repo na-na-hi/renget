@@ -164,6 +164,11 @@ meiraonline|[Twitter](https://twitter.com/_meiraonline) [Youtube](https://www.yo
 Nekoreen|[Twitter](https://twitter.com/Nekoreen_CH) [Twitch](https://www.twitch.tv/nekoreen)|
 Serina Maiko|[Twitter](https://twitter.com/SerinaMaiko) [Youtube](https://www.youtube.com/@SerinaMaiko)|V4Mirai - Vsinger, & VDancer
 ffSade|[Twitter](https://twitter.com/ffSade) [Youtube](https://www.youtube.com/@ffSade) [Twitch](https://www.twitch.tv/ffsade)| Artist, Fighting games
+KiraOmori|[Twitter](https://twitter.com/KiraOmori) [Youtube](https://www.youtube.com/@KiraOmori)|
+Sena Bonbon|[Twitter](https://twitter.com/Bonbon_Sena) [Youtube](https://www.youtube.com/@senabonbon)|
+NYANA SEXTYN9|[Twitter](https://twitter.com/NYANASEXTYN9) [Youtube](https://www.youtube.com/@NYANASEXTYN9)|FlaVR
+Mixie Mixin|[Twitter](https://twitter.com/MixinMixie/) [Youtube](https://www.youtube.com/@mixiemixin)|FlaVR - Rhythm gamer, likes counting
+Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch.tv/sakumintsu)|
 
 ---
 

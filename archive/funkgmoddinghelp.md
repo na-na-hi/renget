@@ -12,6 +12,8 @@ https://animatearchive.neocities.org/?home
 
 >Composing:
 
+FL Studio 21.0:
+https://files.catbox.moe/3imycz.torrent
 FL Studio 20.9:
 https://files.catbox.moe/634f2m.torrent
 Ableton Live 11:
