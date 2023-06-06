@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.4cdn.org/vg/1685914793044781.jpg)
-Oof Edition
+![suggested OP image](https://i.imgur.com/pPOHjMr.jpg)
+Worm Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>432345516
+Last thread: >>432496330
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 

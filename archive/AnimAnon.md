@@ -199,9 +199,9 @@ Link | Description
 [Multi-frame video editing](https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion?download) | Script for blending controlnet frames and loopback Improves coherancy but has some issues with colour correct.
 [Video Loopback](https://github.com/fishslot/video_loopback_for_webui) | Loopback script applied to videos
 [gif2gif](https://github.com/LonicaMewinsky/gif2gif) | batch img2img on .gif inputs. Supports InstructPix2Pix.
-[Fusion](https://github.com/ljleb/prompt-fusion-extension) | a combination of Prompt travel, Prompt blending, and Shift Attention scripts.
 [VToonify](https://github.com/williamyang1991/VToonify)   | VToonify: Controllable High-Resolution Portrait Video Style Transfer (HuggingFace demo available).
 [Latent Blending](https://github.com/lunarring/latentblending)   | enables video transitions with incredible smoothness between prompts, computed within seconds. 
+[Sad Talker](https://github.com/OpenTalker/SadTalker) | Generating talking head videos through a face image and a piece of speech audio
 [Loopback and Superimpose](https://github.com/DiceOwl/StableDiffusionStuff)  | Mixes output of img2img with original input image at strength alpha. The result is fed into img2img again (at loop>=2), and this procedure repeats. First image is result of img2img with no looping.
 [Stable-diffusion-studio](https://github.com/amotile/stable-diffusion-studio)   | An animation focused workflow frontend for Stable Diffusion webui. Requires back-end implementation found [here](https://github.com/amotile/stable-diffusion-backend/tree/master/src/process/implementations/automatic1111_scripts)
 [Prompt Travel](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)   | Prompt Travel through latent space
@@ -215,14 +215,14 @@ Link | Description
 [Reference Based SC CN Animation](https://github.com/volotat/Reference-based-SD-CN-Animation) | This script allows to automate video stylization task using StableDiffusion and ControlNet. There is also reference image trick implemented to make animation more stable.
 [Mega Portraits](https://samsunglabs.github.io/MegaPortraits/) | Animated portraits from one image.
 [txt2vid Extension for A1111](https://github.com/deforum-art/sd-webui-modelscope-text2video) | Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies. 8GB VRAM minimum required.
+[TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) | An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 
 
 -----
 
 
 ##Moving Forward
-
-ControlNet is the first thing to get written for rotoscope. I left some resources and external examples for now as I will be away this weekend. I have also been preoccupied with experimental animation models for massive improvement in pose-to-pose animation and consistency. I apologize the updates have been a little slow. When I finish I will be writing a guide how to train them.
+I'm going to have to separate animation concepts since the rentrys are getting kinda long. I've been messing around with different formats and I will be doing a refactor as soon as I'm happy with how everything is organized. Sorry for the dead air for the past two months! A lot of real life stuff had gotten in the way and it's going to be a real sprint  
 
 
 -----

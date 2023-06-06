@@ -1,3 +1,5 @@
+# TacticianMagician bots
+
 My meager collection of bots for your enjoyment.
  
 Downloads are in the images. You can direct feedback here: [Character Hub](https://www.chub.ai/users/tacticianmagician).

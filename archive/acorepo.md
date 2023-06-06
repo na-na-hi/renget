@@ -32,8 +32,11 @@ https://mega.nz/folder/A25XhSzZ#AFk_fQakAiVMfESY_OobvA
 https://files.catbox.moe/swnfr8.safetensors
 - Alex, Gwyn, Krapella, Mariner
 https://mega.nz/folder/vxkRQbJJ#hLCWjupwYoaPxeWDpShq2A 
-- Nani Pelekai (/h/)
+- Lilo & Stitch
+	+ Nani Pelekai (/h/)
 https://mega.nz/file/lv4G1Z7K#y8FuUc8f3tpZdy6hsNmfyC0yN57nwdqyxa6WuOXBMlY
+    - Lilo Pelekai
+https://civitai.com/models/84600/lilo-pelekai-lilo-and-stitch
 - XJ9
 ~~https://dropmefiles.com/1yg7F~~
 	+ `JennySuit`
@@ -383,6 +386,8 @@ https://civitai.com/models/54925/daphne-blake-scooby-doo-2010
 https://civitai.com/models/76851/betty-rubble-the-flintstones
 	+ Wilma Flintstone
 https://civitai.com/models/76692/wilma-flintstone-the-flintstones
+	- Pebbles Flintstone (Bam-Bam Show)
+https://civitai.com/models/84673/pebbles-flintstone
 - Star Wars
 	- Ahsoka Tano (Clone Wars)
 https://civitai.com/models/58891/ahsoka-tano-clone-wars-star-wars

@@ -177,7 +177,7 @@
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.
 - [URL Safety Results](https://www.urlvoid.com/scan/yugen.to/)
 
-### 🐐 [Zoro](https://zoro.to/)
+### 🐐 [Zoro](https://zoro.to/) / [2](https://zoro.moe/) / [3](https://zoro.pm) / [4](https://zoro.sx)
 - A free anime streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/zoro.to/)
 

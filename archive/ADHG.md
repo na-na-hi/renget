@@ -3,6 +3,8 @@
 
 ##--Story Directory--
 ###Alephkeller
+>Kintsugi
+https://archiveofourown.org/works/47141308/chapters/118773175
 >Risk Assessment
 https://archiveofourown.org/works/36084505/
 >Risk Compensation
@@ -47,6 +49,10 @@ Link: https://www.sofurry.com/view/1824733
 >Sam Greentext
 https://www.sofurry.com/view/1877937
 
+###BinomialHalo
+>Werewolf Warrior 
+https://archiveofourown.org/works/47180236/chapters/118873813
+
 ###Botanics
 >A little cup of love CH.1&2
 https://www.sofurry.com/view/1840034
@@ -67,8 +73,18 @@ https://archiveofourown.org/works/42110778?view_full_work=true
 ###Caux_Caux_Jambaux
 >Because That's What Friends Are For
 https://archiveofourown.org/works/46177690
+>Fun, Fun, Fun
+https://archiveofourown.org/works/47152444
+>Just The Pits
+https://archiveofourown.org/works/47231458
 >Kayla Kemper: Amateur Easter Bunny
 https://archiveofourown.org/works/46366651
+>Mother of Flesh
+https://archiveofourown.org/works/47384011
+>The One
+https://archiveofourown.org/works/47214046
+>Raunchy Renamon
+https://archiveofourown.org/works/47114140
 >Serving The Queen
 https://archiveofourown.org/works/43347355
 
@@ -161,6 +177,8 @@ https://archiveofourown.org/works/45819115/chapters/115310383
 https://archiveofourown.org/works/46156069
 >Beeg Problems
 https://archiveofourown.org/works/43793265
+>Emerald on the River 
+https://archiveofourown.org/works/47406985/chapters/119460148
 >Hedge Fund
 https://archiveofourown.org/works/41117763/chapters/103065318
 >Jagwife and BoatAnon's Beeg Beech Vaycay 
@@ -210,6 +228,10 @@ https://archiveofourown.org/works/45977575
 https://archiveofourown.org/works/30177060/chapters/74349258
 
 ###marumarun
+>Homesick
+https://archiveofourown.org/works/46984999?view_full_work=true
+>Deathmatch! The Pantheress General Noir X Vs. Leoranger Red 
+https://archiveofourown.org/works/47368708
 >There's No Way I Got Assigned To My Older Sister?! The Story Of How The Anthrostate Gave Me An Unthinkable Marriage 
 https://archiveofourown.org/works/46499158?view_full_work=true
 >Pilot In Command 
@@ -269,6 +291,9 @@ https://archiveofourown.org/works/43836307
 >Tusk After Dusk
 https://www.sofurry.com/view/1842822#774912803
 https://archiveofourown.org/works/38431741
+>The First Step Towards Rank Privileges 
+https://www.sofurry.com/view/1995090
+https://archiveofourown.org/works/47569057
 >The Full Treatment 2: Treat Harder
 https://www.sofurry.com/view/1807895
 https://archiveofourown.org/works/37488952
@@ -368,6 +393,8 @@ https://archiveofourown.org/works/39806322
 https://archiveofourown.org/works/40849056
 >Road Weirdos
 https://archiveofourown.org/works/40498779
+>Sergeant's New Chew-Toy
+https://archiveofourown.org/works/47120707
 >Shelby
 https://archiveofourown.org/works/36680239/chapters/95814313
 >Smash and Grab
@@ -388,18 +415,24 @@ https://archiveofourown.org/works/42260865
 https://archiveofourown.org/works/44891500
 >A Yiffmas Carol
 https://archiveofourown.org/works/43819449 
+>You Feel A Spark
+https://archiveofourown.org/works/47272258
 
 ###SomaticDream
 >Abandoned
 https://archiveofourown.org/works/41688777/chapters/104576295
 >Adopted
 https://archiveofourown.org/works/45980581
+>Fall From Grace
+https://archiveofourown.org/works/47311846/chapters/119214523
 >Rules of Nature
 https://archiveofourown.org/works/45692056
 
 ###TheSignalRemains
 >A day at the >D >M >V
 https://archiveofourown.org/works/38187553
+>Blood in the Dark
+https://archiveofourown.org/works/47282515
 >Black Powder
 https://archiveofourown.org/works/40448022
 >Signal's Greatest Hits Collection (coming soon to VHS)
@@ -408,6 +441,8 @@ https://archiveofourown.org/works/42434739/chapters/106569540
 https://archiveofourown.org/works/36365845
 
 ###Tigerkommando
+>Fun times and Warcrimes 
+https://archiveofourown.org/works/47339197?view_full_work=true
 >Of tires and trouble
 https://archiveofourown.org/works/45088000
 
@@ -439,6 +474,10 @@ https://archiveofourown.org/works/42475029
 https://archiveofourown.org/works/42957591
 >Something in the Bayou
 https://archiveofourown.org/works/46091158?view_adult=true
+
+###YolkedWithChrist
+>An Angel with Scales
+https://rentry.org/c7bfn5
 
 ###ZanderDander
 >Bright White Mischief

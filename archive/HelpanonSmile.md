@@ -169,6 +169,14 @@ Recommended to use this UJB, with it.
 ![faggot](https://files.catbox.moe/pvrjln.png)
 https://files.catbox.moe/pvrjln.png
 
+##### Midnight Moms [OC]
+XML tag experiment. Also, the last preggo card you'll probably need. Just request your preggo bartender and seduce her. This card existed as a character named "Aya" by preganon. And it was used as a base, along with Bitch Control App. However it still is my first non-character card so feedback is most appreciated. Using the UJB is necessary
+[Pay close attention to <{{char}}>. Always insert a character profile when a character that works at {{char}} is introduced, at the start of the response. Write with a limit of 3000 characters.]
+If you want the profile to be ever present use this one instead: vvv
+[Pay close attention to <{{char}}>. Always insert at the start of the response a character profile when a character is present. Write in exactly 3000 characters including profile.]
+![fPREGGO](https://files.catbox.moe/l05nuk.png)
+https://files.catbox.moe/l05nuk.png
+
 _______________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change
