@@ -11,4 +11,4 @@
 
 ***
 
-->[main](https://twitter.com/Iiamplecak) ┊ [spam](https://twitter.com/liamdni) ┊ [urls](/pilotredsun) <-
+->[main](https://twitter.com/Iiamplecak) ┊ [spam](https://twitter.com/liamdni) ┊ [urls](/pilotredsun) ┊ [send me questions](https://curiouscat.live/liamplecak)<-

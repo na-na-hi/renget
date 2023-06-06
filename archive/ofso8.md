@@ -1719,3 +1719,289 @@
 >after all the danger this was actually stress relief
 >you'd save small talk with Ash for when you weren't revving the tiny motor bouncing over waves
 >the taxpayer dollar might have to put up for your hotel room
+
+>you initially checked into a decent hotel
+>the staff didn't bat an eye at Ash
+>you didn't even bother asking
+>it had been a rough time and you didn't bother
+>what you needed was a shower and a nap
+>maybe an actual meal 
+>they didn't also seem to worry about the guns
+>that might be why they just accepted the money and left you alone
+>you'd have to have a long talk with polica down the road but given they were aware beforehand, that could wait
+>Ash perked up when you mentioned one room
+>"you don't want two?"
+>it was just more economical 
+>you offered to sleep on the couch to which he strongly asserted you get the bed
+>by now the mouse thing was old hat to you
+>a lithe mouse boy pulling you to your room with the glee of an excited kid at Disney world was at least a relief
+>before any shower you got on the horn to Hunnigan again
+>this called for a month vacation at least
+>she would wire the funds and she said the president's daughter was found safe after searching party spots
+>"so who did you rescue?"
+>that made you freeze up
+>you looked to Ash for some response and he was equally was stumped
+>you decided to slightly fib and say the cult mistakenly grabbed the wrong person
+>it wasn't wrong
+>but had to stop yourself from giving too many details
+>after the tense negotiation for your well earned cash and stay a shower sounded good
+>you offered Ash the shower first but he had an idea to save water
+>you opened the door of the balcony out to the ocean air
+>a warmth crept in and you decided to ask what he meant
+>"oh you know," he remarked while looking towards his feet
+>well paws
+>his meek side had resurfaced yet again and you grinned
+>maybe you knew what he was talking about
+>it was more fun to get him to fess up though
+>he was cute trying to work up the courage
+>he helped you fight off Saddler but here he was skittish here
+>so maybe you played a little dumb
+>he finally stuttered out his idea
+>"I-I want to shower with you"
+>that sounded like a reasonable request
+>you asked if that had to do with his earlier promise
+>his courage melted instantly once more 
+>fine you both would shower together 
+>you'd go buy a change of clothes later too
+>after all you'd both been through you appreciated Ash 
+>plus, he was looking cute 
+>you pulled him into a hug and the mouse boy reciprocated after a few seconds 
+>your hand slid down the small of his back and Ash trembled a little
+>you felt it 
+>well you also felt something else
+>you never really did figure out why he insisted on dressing like a girl
+>but the skirt made it obvious he was enjoying this
+>so after all the danger and stress maybe Ash was perfect
+>he leaned into the hug hard this time 
+>a quiet sanctuary after the Spanish speaking hell you both were tossed into 
+>the sea breeze bristled over his white fur and his blonde locks faintly moved
+>he'd look better if he grew the hair out
+>you didn't want to ruin the moment by breaking it up so Ash was the first to speak
+>"let's get cleaned up"
+>surprisingly, the mouse boy was more shy this time about exposing himself
+>he tried to hide his face when he slid the plaid skirt down 
+>why he thought having his ass to you was better you didn't know
+>was he wanting you to see his ass confined in cute panties?
+>the color complimented his white fur
+>maybe he was attractive
+>you had to admit that
+>his pink tail clutched tightly to his body and hung downwards
+>you realized he caught you staring after a few seconds then you went to strip yourself
+>at least he didn't seem to mind you watching
+>you had no idea why a guy covered up his chest like you'd see boobs though
+>if anything you liked it better with him flat
+>when you were both finally naked only then did you strike 
+>you picked him up and onto your shoulder
+>there was the usual "put me down" but you gave him a gentle smack on his bare ass and he groaned
+>you were actually looking forward to making sure he wasn't a virgin now
+>maybe he'd stick around
+>maybe he'd make you think about an early retirement
+>perhaps being with a guy was good
+>he was less a tease than Ada
+>the mouse thing was oddly charming too
+>his fur felt good against your skin
+>he didn't fight your grip as you went for the spacious hotel shower
+>there was a few feeble verbal protests but you noticed they were hushed when he saw your penis
+>you distinctly saw him glance over to it and then try not to glance at it
+>being upside down and crotch height didn't give him options
+>the manhood against your shoulder twitched a little
+>you decided before you set him down to test the boundaries a little
+>you gave his hip a quick peck with your lips and you would have thought you'd hit a button on him
+>his fidgeting and protests returned with newfound strength 
+>well that seemed to work
+>you set him down on his feet in the shower
+>he was easy enough to handle
+>when the water initially came on it was frigid, making Ash leap back into you with a squeak
+>then he quickly regained his composure with the water pouring down over you two
+>now you really decided to push your luck and try to actually maybe charm him
+>you tried to think about the stuff Ada did 
+>but that flirting probably wasn't genuine 
+>you wanted to be truthful here
+>that way he would appreciate it more
+>so you pulled him back against your chest, his massive ears almost blocking your vision over his head
+>you decided to ask why he wanted to go to a nude beach when he could be nude here
+>he got a little sullen from his body language but didn't fight you touching him
+>"you're not just saying this because you feel obligated to, right? I feel bad putting you on the spot in that cave"
+>the warm water ran off his coat of fur and it mesmerized you
+>your hand ventured over his bare chest and you could feel his heart racing
+>your other hand pulled him closer so you could make sure he could tell you were serious
+>by that you meant your penis
+>you felt his breath hitch as he processed it all
+>his mind was rushing
+>Ash was panicked 
+>this was actually happening 
+>he was actually getting you
+>it was like a dream come true and he couldn't believe his luck
+>there was an urge building up in his body
+>his pink nipples were growing stiff as his manhood
+>he couldn't suppress a groan at the attention 
+>something you noticed 
+>he got bashful and squirmy 
+>when your hand tightened against him he ended up melting into the embrace
+>meekly, Ash turned up to look you in the eyes
+>his blue eyes gazed into yours
+>"I have something to tell you…"
+>you looked down to him in anticipation 
+>"would you hold it against me if I told you Saddler wasn't the queen?"
+>his blue eyes flashed red and you realized he'd pushed your back against the shower
+>your heart dropped when you realized the danger you were in right now
+>then he smiled and cuddled against your chest
+>you had questions and you didn't know where to start
+>so he spoke up softly 
+>"you're not mad, right?"
+>he realized your hands had stopped feeling him up
+>the whole situation was like standing on a landmine
+>"sorry"
+>you felt a little pity over how defeated he sounded
+>his ears slouched slightly and that brought you back
+>the question though
+>was he still Ash?
+>you just decided to come out and ask that
+>you hit him with that treatment thing 
+>this shouldn't have happened
+>why didn't that work?
+>"well it did. you severed its link. I am still me. but it's weird."
+>he held out his hand and transformed into a clawed, armored facsimile of his arm
+>that gray carapace replacing white fur
+>then he waved his hand and the white fur drowned out the carapace and it looked normal again
+>"the procedure couldn't kill the queen plagas. it only neutered it. still all me in here."
+>your grip on him relaxed now
+>he wouldn't lie about you and if the parasite wanted to it could kill you or turn you into a thrall 
+>you asked what happened now?
+>"well if you'll have me, I remember not wanting to die a virgin."
+>the mouse boy sounded as timid as he ever did
+>you were still taken aback by his revelation 
+>but it still felt like Ash
+>so maybe this was still a little weird
+>you asked about the bugs in you
+>"they're dead. honest."
+>his fur was warm against your skin
+>"they probably hoped for me to make a big hive in the white house. but that procedure cut it off."
+>the mouse boy still affectionately cuddled back against you
+>you realized you were still hard
+>your dick had been oblivious to the danger
+>"I guess I get this thing riding co-pilot but it's not in control. I was scared to tell you. hell I was scared of what it meant."
+>you decided to put your faith in him
+>so you asked him something risky
+>a test
+>fully transform if he can and transform back
+>if he had full control then this was the best idea
+>if not you were dead
+>he was hesitant at first then agreed
+>you readied yourself for some disgusting sight to fill the shower
+>he groaned as he fully let go and you let your grip go slack as you prepared to jump out of the stall
+>what you got was Ash with one clawed carapace arm
+>carapace legs that ended in dainty organic high heels
+>they stopped right at his thighs like stockings
+>his proportions grew slightly, becoming well, thicker
+>his hair seemed to grow out a little too
+>it seemed to really accentuate the feminine features he already possessed
+>was his ass bigger?
+>granted it had been a queen bug
+>his shame returned when he realized he was standing nude in front of you
+>he went to cover his chest again and you nearly laughed
+>this was far from what you'd seen from the cult or Racoon City
+>Ash had put your fears to rest
+>you asked if that was all
+>he said it had been cut off there
+>his eyes were crimson but so filled with embarrassment you knew who was in control
+>so all the parasite could do now was give him a more ample rear
+>"I feel like a freak…"
+>you asked if that's it?
+>"that's it?"
+>he looked shocked 
+>you were surprised, sure
+>but he was still Ash
+>he looked like he wanted to say something
+>there was that worry
+>you decided to take charge 
+>the water pounded down, filling the lull in conversation 
+>he almost flinched when you grabbed him
+>you asked if he was serious about you taking his virginity
+>just what was that confession if the cave if he was stopping here?
+>maybe love was a bit strong here and now
+>but you had no other word
+>you'd both seen hell
+>he wasn't in a good state mentally now
+>so it was your turn to push him against the wall
+>he gasped but barely had time to inhale when you kissed his muzzle forcefully
+>that broke down the barriers
+>he writhed in your grip and you almost thought you'd made him cum just from a kiss 
+>you saw what caused his reaction instantly when you opened your eyes
+>thin tentacles had sprouted from his back
+>his breathing was ragged
+>"they…reacted to you"
+>you were a little shocked and it showed on your face
+>"oh God"
+>Ash covered his face with his hands and the tentacles mimicked the motion
+>you actually started laughing
+>he was still him
+>well since it was still him, you reasoned, you owed him a couple promises
+>you two had gotten through that ordeal 
+>the other promise you hadn't fulfilled
+>he peaked out of his clawed hand
+>"really? even like this?"
+>you pointed out you were both hard as rock
+>he'd been so nervous he didn't even notice
+>you told him he smelled nice
+>that seemed to be good flirting material 
+>judging by the way his manhood twitched against yours it worked
+>he whined and you could tell he was still hesitant 
+>so you went for the nuclear option
+>you gently held his clawed hand in your own, your fingers intertwining with carapace digits
+>he audibly gasped
+>he leaked precum against you and couldn't hide you were winning him over
+>the shower still poured over you two for a moment until he spoke again
+>"let's do it'
+>he broke the hand holding to wrap his arms around your neck and just cuddle against you again 
+>you had an idea 
+>the mouse boy squeaked when you started cleaning him
+>you'd been in the shower so long you had forgotten you wanted to clean up
+>it would give you both a good chance to explore 
+>when you offered to scrub his back he stammered
+>you said he could do you after you do him
+>his blush returned but he agreed
+>you used what shampoo you had on his fur
+>his coat was silky smooth and you allowed your hands to glide over his curves 
+>he was still embarrassed but you could tell he was liking the attention
+>you turned him back around like how you were originally cuddled up 
+>sure enough the five thin tentacles had sprouted out of his back
+>you took care not to be rough around them 
+>a couple of them reacted to your touch
+>at least once one of them wrapped around your wrist when you pulled back
+>you were scrubbing right around his thin tail
+>when he realized what happened he hid his face again
+>"I can't control them sometimes…"
+>you asked if maybe they were just doing what he wanted
+>then you rested your hand right on that spot and the mouse boy reacted
+>his body involuntarily pushed back against your hand
+>your palm over his generous rear, he seemed to be beside himself
+>the tentacles spoke for him though
+>a few had latched onto your hand and you didn't know whether he was doing it voluntarily or not
+>you pulled him close and the limbs released
+>instead they started searching your body
+>you asked if he was doing that and he was a mess again
+>so they have a mind of their own?
+>the smooth slick appendages seemed to have a boldness Ash couldn't bring himself to have
+>one finally found your dick and tried to pull you closer to the mouse boy
+>you had an inkling of where the tentacle was poking you into
+>you suggested lube though
+>shower first and then fun time
+>the tentacles did seem to slightly back off with that suggestion and Ash was fine with your hands on him
+>his coat had been a mess because of your adventure but now he was looking ivory white 
+>the mouse boy's coat looked like it could shine thanks to your work
+>washing his armored hand was strange
+>it had a tough hard plastic texture 
+>switching over to soap, he silently relished in feeling your hands move over his digits
+>did you just make him coo?
+>when you started washing lower he nearly jumped
+>his thighs were definitely plumper now
+>you could feel that
+>this was the most intimate you'd been with someone, usually the job came first
+>this was the first real oasis in your life and it was because of a cult's botched kidnapping
+>wet hair came off of Ash as you continued
+>he'd needed this cleaning for ages
+>chances were the cult didn't exactly have a spa
+>Ash now smelled of raspberries 
+>rubbing one of his big ears elicited a low groan and the tentacles seem to hug onto you 
+>so that was his sweet spot

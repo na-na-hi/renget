@@ -13,14 +13,15 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Koikoikoi](https://rentry.org/4amrn) | Misc |[Dulcinea](https://files.catbox.moe/b9hmvy.png)|
 [Hitogami](https://rentry.org/imtookening/) | Misc |[Kikutsugami](https://files.catbox.moe/bgze0s.png)|
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc |[Takka](https://files.catbox.moe/c8fj38.png), [Trish](https://files.catbox.moe/rxsne8.png), [Kairi](https://files.catbox.moe/1s3l9n.png), [Reina](https://files.catbox.moe/fjuorc.png), [Fuzen](https://files.catbox.moe/a7ypnr.png)|[Takka](https://files.catbox.moe/c8fj38.png) [MV], [Trish](https://files.catbox.moe/rxsne8.png) [MV], [Kairi](https://files.catbox.moe/1s3l9n.png) [MV], [Reina](https://files.catbox.moe/fjuorc.png) [MV]
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Reisen](https://files.catbox.moe/a48h0g.png)|[Reisen](https://files.catbox.moe/a48h0g.png) [MV]
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Adrian](https://files.catbox.moe/ztk3n7.png), [Charis](https://files.catbox.moe/jrg8pq.png), [Mizuki](https://files.catbox.moe/o4uuvy.png), [Tsunoda](https://files.catbox.moe/2ajzb9.png), [Retsuko](https://files.catbox.moe/prfqpu.png), [Haida](https://files.catbox.moe/0rf3tq.png), [Mirabelle](https://files.catbox.moe/6vc8du.png), [Milran](https://files.catbox.moe/gxfqss.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Rainey Street Gang](https://files.catbox.moe/sc9ivx.png), [Noel](https://files.catbox.moe/p8geen.png), [Sumireko Usami](https://files.catbox.moe/ssierc.png)|
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Reisen](https://files.catbox.moe/a48h0g.png)|[Reisen](https://files.catbox.moe/a48h0g.png) [MV]
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Rainey Street Gang](https://files.catbox.moe/sc9ivx.png), [Noel](https://files.catbox.moe/p8geen.png)|
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[Midnight Moms](https://files.catbox.moe/l05nuk.png), [Reddit-Kun](https://files.catbox.moe/pvrjln.png), [Ishizu Ishtar](https://files.catbox.moe/q0vomc.png), [Grizelda the Great](https://files.catbox.moe/byov7t.png), [ Inabakumori](https://files.catbox.moe/ttpnja.png), [Yume](https://files.catbox.moe/hl3mxt.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Anise](https://files.catbox.moe/gqr3mt.png), [Apprentice Lyra](https://files.catbox.moe/lvlmw9.png)|[Alec](https://files.catbox.moe/t4mo90.png), [Anise](https://files.catbox.moe/gqr3mt.png) [MV]
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Nina](https://files.catbox.moe/3c62eg.png), [Aya](https://files.catbox.moe/ok3qbv.png), [Crusch](https://files.catbox.moe/sw0iqj.png)|[Nina](https://files.catbox.moe/3c62eg.png) [MV]
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Nina](https://files.catbox.moe/3c62eg.png), [Aya](https://files.catbox.moe/ok3qbv.png)|[Nina](https://files.catbox.moe/3c62eg.png) [MV]
 [Phalannex](https://rentry.co/phalannex) | Misc |[Jotaro Kujo](https://files.catbox.moe/fuj1a7.png), [Tomoko Kuroki](https://files.catbox.moe/hzgceg.png)|
 [Norquinal](https://rentry.org/norqanon-bots/) | Mostly furry |[Dawn Bellwether](https://files.catbox.moe/k6uryg.png), [Shisho & Beruko](https://files.catbox.moe/f9o2f8.png), [Kaimoko](https://files.catbox.moe/rznil8.png)|
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) |[Gerard](https://files.catbox.moe/dyl3hm.png)|
@@ -31,29 +32,29 @@ Botmaker | Category | New Bots | Updated Bots
 [Gigasad](https://rentry.org/gigasad) | Misc |[Serea Buchanan](https://files.catbox.moe/7e2yyu.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Ping](https://files.catbox.moe/k6h580.png), [Schrodinger](https://files.catbox.moe/kmf27z.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Morgana](https://files.catbox.moe/fgjxyt.png)|
-[AIC Industries](https://rentry.org/aicin) | Maids |[Chipper-tan](https://files.catbox.moe/5b9svw.png)|
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
-[Deleterious](https://rentry.org/deleterious) | Misc ||
-[AIPiece](https://rentry.org/AIPiece) | One Piece ||
-[KCAnon](https://rentry.org/botelover_23d5492d) | Misc ||
-[Alpaca](https://rentry.org/AlpacaBots) | Misc ||
-[Frozenvan](https://rentry.org/frozenvan) | Misc ||
-[Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... ||
-[Hochimama](https://rentry.co/hochimamabots) | Misc ||
-[Clutch](https://rentry.org/cominginclutch) | Misc ||
-[Maestro](https://rentry.org/MaestroBots) | Misc ||
-[Dould](https://rentry.org/ox3iqa) | Misc ||
-[Pedanon](https://rentry.org/Pedanon) | Cunny ||
-[Horny221](https://rentry.org/hornythings) | Misc / Stink ||
-[Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
-[VinceLavali](https://rentry.org/vincelavali) | Cunny ||
-[123123232](https://rentry.org/g2u47) | Sizeplay ||
-[Koikoikoi](https://rentry.org/4amrn) | Misc ||
-[Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
-[Cuteanon](https://rentry.org/cuteanon) | Misc ||
-[Donquijanon](https://rentry.org/donquijanon) | Misc ||
-[Bipbots](https://rentry.org/bipbots) | Misc ||
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
+[Bipbots](https://rentry.org/bipbots) | Misc ||
+[Donquijanon](https://rentry.org/donquijanon) | Misc ||
+[Cuteanon](https://rentry.org/cuteanon) | Misc ||
+[Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
+[123123232](https://rentry.org/g2u47) | Sizeplay ||
+[VinceLavali](https://rentry.org/vincelavali) | Cunny ||
+[Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
+[Horny221](https://rentry.org/hornythings) | Misc / Stink ||
+[Pedanon](https://rentry.org/Pedanon) | Cunny ||
+[Dould](https://rentry.org/ox3iqa) | Misc ||
+[Maestro](https://rentry.org/MaestroBots) | Misc ||
+[Clutch](https://rentry.org/cominginclutch) | Misc ||
+[Hochimama](https://rentry.co/hochimamabots) | Misc ||
+[Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... ||
+[Frozenvan](https://rentry.org/frozenvan) | Misc ||
+[Alpaca](https://rentry.org/AlpacaBots) | Misc ||
+[KCAnon](https://rentry.org/botelover_23d5492d) | Misc ||
+[AIPiece](https://rentry.org/AIPiece) | One Piece ||
+[Deleterious](https://rentry.org/deleterious) | Misc ||
+[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
+[AIC Industries](https://rentry.org/aicin) | Maids ||
 
 ## Changelog
 2023-05-23T01:38:26Z - Initial list
@@ -89,3 +90,5 @@ Botmaker | Category | New Bots | Updated Bots
 2023-06-02T22:04:41Z - Added Knickknack
 
 2023-06-04T23:22:17Z - Version 2: Has new and updated bots on the table now
+
+2023-06-06T17:46:14Z - Added Lobsterchan

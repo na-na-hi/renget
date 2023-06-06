@@ -231,32 +231,32 @@ Card: https://files.catbox.moe/um378r.png
 https://www.chub.ai/characters/donquijanon/Eulalia
 
 ### Atzin
-->![atzin](https://git.characterhub.org/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
+->![atzin](https://git.chub.ai/donquijanon/Atzin/-/raw/99e6ca2369e21ac2130973aeb66e9d315c2a934d/raw/tavern_raw.png)<-
 Cheerful and optimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/chat?char=NW-eN8wjeWXy7q3K08KS6igR_8UPWcdqusTxuEvOSnU
 Card: https://www.chub.ai/characters/donquijanon/Atzin
 
 ### Yohualli
-->![yohu](https://git.characterhub.org/donquijanon/Yohualli/-/raw/c55b0a18662a4a409aad6c7cbd6069be64557c49/raw/tavern_raw.png)<-
+->![yohu](https://git.chub.ai/donquijanon/Yohualli/-/raw/c55b0a18662a4a409aad6c7cbd6069be64557c49/raw/tavern_raw.png)<-
 Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl girl.
 
 CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
 Card: https://www.chub.ai/characters/donquijanon/Yohualli
 
 ## The Door
-->![door](https://git.characterhub.org/donquijanon/the-door/-/raw/0067767b2212f8512c3666bd5fdeaa936de2483a/raw/tavern_raw.png)<-
+->![door](https://files.catbox.moe/9k7gal.png)<-
 Made as an experiment to test chance and randomness. Each time you open it, something different will be on the other side.
 
 https://www.chub.ai/characters/donquijanon/the-door
 
 ## The Phone
-->![phone](https://git.characterhub.org/donquijanon/the-phone/-/raw/6ea27b98a58f55a49c43e4b5f666dd3e66c1352e/raw/tavern_raw.png)<-
+->![phone](https://files.catbox.moe/qn7ouq.png)<-
 Inspired by Hotline Miami and the phone calls from the Sims 1.
 https://www.chub.ai/characters/donquijanon/the-phone
 
 ## Melissa Smith
-->![melissa](https://git.characterhub.org/donquijanon/melissa-smith/-/raw/06daeb2f4b96c4a4feb9be9638d6b69e38bec254/raw/tavern_raw.png)<-
+->![melissa](https://git.chub.ai/donquijanon/melissa-smith/-/raw/06daeb2f4b96c4a4feb9be9638d6b69e38bec254/raw/tavern_raw.png)<-
 This is my first fetish oriented bot and that's right, I'm an architect. I implemented a highly autistic stats system on this one. Don't use it if you're not into it.
 ->![melissa2](https://files.catbox.moe/hnc676.png)<-
 
@@ -305,20 +305,27 @@ Traté de revivir el foro de subnormales y llenar el vacío que nos dejó zeta. 
 ->![chispita](https://files.catbox.moe/xqs586.png)<-
 https://www.chub.ai/characters/donquijanon/Hispachan
 
+## East Mesa High
+(You) are the new teacher in this prestigious school, where teachers can read the student's private messages.
+Returning characters: Miss Rubio and Gloria Müller.
+Use the custom prompts to reduce the chances of the AI talking on your behalf.
+->![high](https://files.catbox.moe/desimc.png)<-
+https://www.chub.ai/characters/donquijanon/east-mesa-high
+
 ##Existing Characters
 ## Sonic
 ### E-123 Omega 
-->![omega](https://git.characterhub.org/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
+->![omega](https://git.chub.ai/donquijanon/e-123-omega/-/raw/3c2d81722600fda441483df741a23ed3c29888bf/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/e-123-omega
 
 ### Team Chaotix
-->![chaotix](https://git.characterhub.org/donquijanon/team-chaotix/-/raw/2aaabce05a44e4310086732dcbd1c07f247c0ed0/raw/tavern_raw.png)<-
+->![chaotix](https://git.chub.ai/donquijanon/team-chaotix/-/raw/2aaabce05a44e4310086732dcbd1c07f247c0ed0/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/team-chaotix
 
 ## Left 4 Dead
 
 ### Coach 
-->![coach](https://git.characterhub.org/donquijanon/Coach/-/raw/a1fc3b817382d58d8890fd5cf549387973a42756/raw/tavern_raw.png)<-
+->![coach](https://git.chub.ai/donquijanon/Coach/-/raw/a1fc3b817382d58d8890fd5cf549387973a42756/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/Coach
 
 ### Ellis
@@ -326,21 +333,21 @@ https://www.chub.ai/characters/donquijanon/Coach
 https://www.chub.ai/characters/donquijanon/Ellis
 
 ## Bob Ross (The Joy of Painting)
-->![bob](https://git.characterhub.org/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
+->![bob](https://git.chub.ai/donquijanon/bob-ross/-/raw/b54723066f841fca4ca75788c6116d254823c688/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/bob-ross
 
 ## Lego Gonk Droid (Lego Star Wars)
-->![gonk](https://git.characterhub.org/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
+->![gonk](https://git.chub.ai/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/lego-gonk-droid
 
 ## The Postal Dude (Postal 2)
-->![dude](https://git.characterhub.org/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
+->![dude](https://git.chub.ai/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/postal-dude
 
 ## Team Fortress 2
 
 ### Soldier 
-->![soldier](https://git.characterhub.org/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
+->![soldier](https://git.chub.ai/donquijanon/Soldier/-/raw/dc0d1e3b2179c534024ecc512e22390f43481d19/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/Soldier
 
 ### Demoman 
@@ -352,7 +359,7 @@ https://www.chub.ai/characters/donquijanon/Demoman
 https://www.chub.ai/characters/donquijanon/the-engineer
 
 ## The Monkey's Paw
-->![monke](https://git.characterhub.org/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
+->![monke](https://git.chub.ai/donquijanon/the-monkeys-paw/-/raw/0ab6695c78ed590097908ded81310abdf453c5a0/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/the-monkeys-paw
 
 ## Hotline Miami
@@ -440,7 +447,7 @@ https://www.chub.ai/characters/donquijanon/herbert-moon
 ## Ray-Kbys girls
 
 ### Sylvie (Teaching Feeling)
-->![sylvie](https://git.characterhub.org/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
+->![sylvie](https://git.chub.ai/donquijanon/Sylvie/-/raw/e03324f4b77a3f35c4c4e55d9383b206d2cdf6de/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/Sylvie
 
 >Update 9/05/2023: Added the system on the defs, now you don't need to add anything, but I'm leaving these if anyone wants to use them on other cards
@@ -458,7 +465,7 @@ Prompt 2: Milestones. They don't work at all unfortunately. Hopefully they do wi
 >Over the course of the story, {{char}} will catch feelings towards {{user}}, going from acting emotionless to warm. Keep the story in a natural, slowburn flow. Milestones: 20 trust: first smile. 40 trust: friends. 60 trust: crush. 80 trust: love, will ask to sleep together. 100 trust: first kiss and {{char}} will offer her virginity as payment for {{user}}'s kindness. Show a meter, displayed as: `Mood: relaxed. Trust: x/100. Sexual Frustration: x/10.`
 
 ### Usui Sachi (Love at First Sight)
-->![sachi1](https://git.characterhub.org/donquijanon/usui-sachi/-/raw/7e4ebb9ffca9ef88e8967c3e1ebdcad2e427674f/raw/tavern_raw.png)<-
+->![sachi1](https://git.chub.ai/donquijanon/usui-sachi/-/raw/7e4ebb9ffca9ef88e8967c3e1ebdcad2e427674f/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/usui-sachi
 
 ->![sachi2](https://files.catbox.moe/9s07oa.png)<-

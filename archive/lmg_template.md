@@ -4,12 +4,13 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
-!!! Note News Section Updated
+!!! Note News Section Updated (06/06/2023)
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(06/05) k-quantization released for llama.cpp
 \>(06/03) Nous-Hermes-13b released
 \>(06/03) WizardLM-Uncensored-Falcon-40b released
 \>(05/27) FalconLM release Falcon-7B & 40B, new foundational models

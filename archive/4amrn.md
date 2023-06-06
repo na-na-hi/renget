@@ -10,3 +10,7 @@ https://files.catbox.moe/jfxk9h.png
 ![Sam](https://files.catbox.moe/21tafa.png)
 *Sam, aloof detective, and your eternally lethargic and miserable regular patron.*
 https://files.catbox.moe/21tafa.png
+
+![Dulcinea](https://files.catbox.moe/b9hmvy.png)
+*¡Dulcinea! A whimsical girl with knightly fantasies who has taken you on an adventure!*
+https://files.catbox.moe/b9hmvy.png

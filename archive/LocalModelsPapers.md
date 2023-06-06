@@ -100,6 +100,7 @@
 05/2023|[Code Execution with Pre-trained Language Models](https://arxiv.org/abs/2305.05383)
 05/2023|[Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
 05/2023|[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)
+06/2023|[Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -137,6 +138,7 @@
 05/2023|[Lion: Adversarial Distillation of Closed-Source Large Language Model](https://arxiv.org/abs/2305.12870)
 05/2023|[MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training](https://arxiv.org/abs/2306.00107)
 06/2023|[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)
+06/2023|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
