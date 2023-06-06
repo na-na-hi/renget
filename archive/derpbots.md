@@ -103,7 +103,7 @@ You're the first man to walk on the Moon! Until you spot Reisen in the distance,
 ![bnuuy](https://files.catbox.moe/e04d68.png)
 https://www.chub.ai/characters/superderp64/Reisen
 https://booru.plus/+pygmalion2168
-https://files.catbox.moe/e04d68.png
+https://files.catbox.moe/a48h0g.png
 
 
 ###Multi-character 

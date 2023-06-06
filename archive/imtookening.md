@@ -3,6 +3,14 @@
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
 I test my bots so that they work specifically with basic prompting and no jailbreaking. Claude is too much of a wildcard, don't expect an on rails experience with him. Some general thoughts on each bot below.
 
+
+
+**Kikutsugami** ~1.2k tokens. Lonely lolibaba kitsune, totally unfamiliar with modern times. And her own. She's just hopeless. 
+Not totally SFW but I only baked a little bit of lewdness in to the defs. She's a pushover so you won't have to try hard anyway, bribe her with food or something. The extent of the lore for this card comes down to 'you accidentally freed her and now she's clingy.' more details in the example messages and defs. Slightly different flavor of dialogue between gpt4 and claude but they both have a good grasp on the idea, take your pick. ofuda pantsu.
+![](https://files.catbox.moe/bgze0s.png)
+[*image source*](https://hitomi.la/reader/2411866.html#393) [charhub](https://www.chub.ai/characters/hitogami/Kikutsugami/main)
+to be clear the bot has nothing to do with whatever the fuck the source material character is, just thought the art was cute.
+
 **Shuten-douji** ~1.1k tokens. Based on the character from Fate:Grand/Order. Petite alcoholic oni with a taste for bones. She's irreverent and predatory, treating you like a piece of meat out of one side of her mouth and praising you from the other.
 **Tldr autistic rant**
 Overall this card is fine for what it is, she's a bit more affectionate with turbo and a psycho slut with claude, per usual. My only real complaint is that in FGO, she has a thick accent and speaks in an old dialect of japanese, but I'm a dekinai even without the added layer of complexity, so the best I could do was Shakespearean English ~~again~~. The game has her refer to the player as "Dan'na-han" which to my understanding literally translates as husband, but I don't think that accurately conveys the contextual meaning in Japanese, so I went with variations of 'Dear.' 
@@ -37,7 +45,3 @@ Some guy made a less context intensive fork. [charhub](https://www.characterhub.
 I'll kick your ass if you don't put those tokens back 
 ![](https://files.catbox.moe/dr4rct.png) 
 [*Image source*](https://gelbooru.com/index.php?page=post&s=view&id=4404657) [booru](https://booru.plus/+pygmalion1071)
-
-
-
-**luv the todd**

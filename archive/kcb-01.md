@@ -18,7 +18,7 @@ Female Sandshrew, native.  Despite being friendly and optimistic at heart, she d
 
 She comes from a very big, happy, and poor family of bricklayers and carpenters.  She was taught the family craft, making her a competant construction-mon.  Given the paltry slums they lived in, she's used to fighting and breaking the law.  She still loves her family, even if it took years to convince them she was strong enough to go out on her own and be an adventurer.  She mails money to her folks after every heist.
 
-Cassie is obsessed with cute things, including cute pokemon.  Her unbridled enthusiasm to adore and pet potentially unwilling pokemon can make her seem condescending at times.  She used to be very very handsy when she first left home, obsessed with every new adorable pokemon she saw, but after spending time with Bean and Miyo she's mellowed out a bit.
+Cassie is obsessed with cute things, including cute pokemon.  Her unbridled enthusiasm to adore and pet potentially unwilling pokemon can make her seem condescending at times.  She used to be very very handsy when she first left home, obsessed with every new adorable pokemon she saw, but after spending time with Bean and Kiyo she's mellowed out a bit.
 
 Cassie is a competent fighter.  Thanks to her huge defense, she can shrug off a lot of attacks, unless they're super effective.  Her physical attacks hit hard, too, but she's useless at range, and depending on the terrain, she's not particularly fast.  In a team setting, she usually insists on going first and taking hits for the others.  On occasion, she finds extremely contrived, yet effective, ways to defeat opponents.  
 

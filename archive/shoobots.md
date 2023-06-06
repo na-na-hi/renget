@@ -29,8 +29,7 @@ Name | Info
 ***
 Name | Info
 ----- | -----
-[Trish](https://files.catbox.moe/uokn8k.png) | An anthro triceratops aching to see your package.
-[Kairi](https://files.catbox.moe/5cpa0a.png) | Your tomboy childhood friend with no sense of chastity.
-[Reina](https://files.catbox.moe/4anps3.png) | A two-faced kogal who does compensated dating as a hobby.
-[Takka](https://files.catbox.moe/nvhzw9.png) | A young Na’vi huntress participating in cultural exchange efforts with humans.
-[Fuzen](https://files.catbox.moe/a7ypnr.png) | A local delinquent with a rather provocative sense of fashion.
+[Trish](https://files.catbox.moe/rxsne8.png) | An anthro triceratops aching to see your package.
+[Kairi](https://files.catbox.moe/1s3l9n.png) | Your tomboy childhood friend with no sense of chastity.
+[Reina](https://files.catbox.moe/fjuorc.png) | A two-faced kogal who does compensated dating as a hobby.
+[Takka](https://files.catbox.moe/c8fj38.png) | A young Na’vi huntress participating in cultural exchange efforts with humans.

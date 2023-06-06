@@ -9,10 +9,9 @@ This is intended to be a simple and straightforward guide showcasing how you can
 
 ## Method 1: Script Editing
 1. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
-2. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
+2. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following line:
 ```python
-            let mesExmString = '';
-            let mesSendString = '';
+            let mesStr = "";
 ```
 3. Initialize a new `sys_note` variable underneath and set it to an empty string, like so:
 ```python
@@ -121,10 +120,9 @@ WizardLM-7B is a large language model that has been trained using [evolved instr
 	1. KoboldAI: Rename one of the .pt files to "4bit-128g", this lets KoboldAI know what load method to use and the groupsize. Click on the `AI` button at the top left, navigate to `Load a model from its directory`, then select your model and press `Load`.
 	2. CPU Version: Make sure WizardLM-7B-GGML is ran with the following parameters: `--threads [number of physical CPU cores] --stream`. The first parameter specifies how many CPU cores to use, otherwise KoboldCPP will guess how many it should use, the second parameter is needed to connect KoboldCPP to SillyTavern. Some optional but useful parameters include `--smartcontext --useclblast [GPU Device]`. The first reduces prompt processing frequency while the second uses your GPU to speed up prompt processing and takes a GPU Device as an argument like so: `--useclblast 0 0`. GPU0 is `0 0` while GPU1 is `1 0`, experiment if this isn't the case.
 4. Download and install [SillyTavern](https://github.com/Cohee1207/SillyTavern) if you haven't already.
-5. Choose one of the [previously elaborated methods](https://rentry.org/better-llama-roleplay#anons-guide-to-llama-roleplay) to improve your generations. All methods should work just fine; the rest of this guide will detail Method 1 only because it's my preferred method. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following lines:
+5. Choose one of the [previously elaborated methods](https://rentry.org/better-llama-roleplay#anons-guide-to-llama-roleplay) to improve your generations. All methods should work just fine; the rest of this guide will detail Method 1 only because it's my preferred method. Go to the 'public' folder of your SillyTavern folder. Open up script.js in your preferred text editor and scroll down to the following line:
 ```python
-            let mesExmString = '';
-            let mesSendString = '';
+            let mesStr = "";
 ```
 6. Initialize a new `sys_note` variable underneath and set it to an empty string, like so:
 ```python

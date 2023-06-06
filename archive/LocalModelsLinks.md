@@ -77,8 +77,8 @@
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [kaiokendev's xPos implementation](https://github.com/kaiokendev/cutoff-len-is-context-len)|Finetuning RoPE models on larger sequences than it was pre-trained can increase the context limit
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
+[SpQR](https://github.com/Vahe1994/SpQR)|3/4bit weight quantization with supposed superior results than GPTQ 
 [Landmark Attention](https://github.com/epfml/landmark-attention)|Uses landmark tokens in attention blocks to allow for pseudo extended context. Works as FT method
-[RPTQ for LLaMa](https://github.com/AlpinDale/RPTQ-for-LLaMA)|WIP implementation of weight+activation quantization
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 

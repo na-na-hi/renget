@@ -109,6 +109,8 @@ https://civitai.com/models/82029/she-ra-lycoris
 	- Teela
 https://civitai.com/models/84478/teela-lycoris
 	- *[style](#styles)*
+- Sheila (Dungeons and Dragons)
+https://civitai.com/models/85112/sheila-dungeons-and-dragons-lycoris
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
 https://civitai.com/models/44410/jessica-rabbit
@@ -273,9 +275,12 @@ https://civitai.com/models/31471/anna-disney-wrise
 https://civitai.com/models/72127/goldilocks-puss-in-boots
 - Barbie (Toy Story)
 https://civitai.com/models/73934/barbie
-- Helen Parr (The Incredibles)
+- The Incredibles
+	+ Helen Parr 
 https://civitai.com/models/40570/helen-parr-the-incredibles
 https://civitai.com/models/17632/helen-parr-the-incredibles-character-lora
+	- Violet Parr
+https://civitai.com/models/84938/violet-parr-the-incredibles
 - Merida (Brave)
 https://civitai.com/models/39097?modelVersionId=45024
 - Inside Out
@@ -304,10 +309,12 @@ https://civitai.com/models/16044/andrea-davenport
 	- Libby Stein
 https://civitai.com/models/16077?modelVersionId=18977
 - Adventure Time
-	+ BMO
-https://civitai.com/models/16439?modelVersionId=19403
+	- Fionna the Human (*hypernetwork*)
+https://civitai.com/models/6111/artraccoonee-fionna-the-human
 	- "Princess Pack"
 https://civitai.com/models/8779/adventure-time-princess-pack
+	+ BMO
+https://civitai.com/models/16439?modelVersionId=19403
 - Lapis Lazuli (Steven Universe)
 https://civitai.com/models/25729/lapis-lazuli
 https://civitai.com/models/24880/lapis-lazuli
@@ -516,6 +523,9 @@ https://civitai.com/models/82710/lara-croft
 	- *embedding*
 https://civitai.com/models/4852/was-new-lara-croft-rottr-sottr
 https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider
+- Ellie (The Last of Us)
+https://civitai.com/models/84764/ellie-tlou-part-1-clean-lora
+https://civitai.com/models/52671/ellie-tlo2
 - Jessica Cannon (SiN) realistic
 https://civitai.com/models/21288/jessica-cannon
 - Catwoman (Arkham City)
@@ -533,6 +543,8 @@ https://civitai.com/models/51743/coco-bandicoot-crash-bandicoot-series
 https://civitai.com/models/31377?modelVersionId=37814
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
+- Sheeva (Mortal Kombat)
+https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms
 
 
 ## Styles
@@ -596,6 +608,8 @@ https://civitai.com/models/19525/limited-blue-style-lora
 https://civitai.com/models/66719/gta-style-or-lora
 - Banner Saga game style
 https://civitai.com/models/56031/banner-saga-style
+- Signalis game style
+https://civitai.com/models/84686/signalis-style-lora
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI
