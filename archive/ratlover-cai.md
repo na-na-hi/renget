@@ -231,7 +231,7 @@ Dagger from FFIX. A girl dressed in a white mage's garb, speaking surprisingly e
 A squirrelgirl who's hellbent on making you exercise. You aren't going to disappoint her, are you?
 
 ##Nina
-![Nina](https://imgur.com/SyfmIUW.png)
+![Nina](https://imgur.com/aJKfW5D.png)
 [CAI](https://beta.character.ai/comms?char=1XwdXRsss4S_hjvBoMNlaVl4gdiez4w4y8xF9Eo-Fww)
 [Card](https://www.characterhub.org/characters/ratlover/Nina)
 [JSON](https://files.catbox.moe/ixeyf2.json)
@@ -371,3 +371,5 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Kate](https://imgur.com/stqc0EF.png)
 ###Cormac
 ![Cormac](https://imgur.com/Av2m9Ha.png)
+###Nina
+![Nina](https://imgur.com/3d0PNyv.png)

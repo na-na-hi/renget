@@ -55,6 +55,11 @@ https://files.catbox.moe/0h0o4y.zip
 Alternative Images (NSFW)
 ![06.06](https://files.catbox.moe/8cwe92.png)
 https://files.catbox.moe/0wqrsg.zip
+####Dulcinea
+Fanart
+https://rentry.org/4amrn
+![07.06](https://files.catbox.moe/2ceqdf.png)
+https://files.catbox.moe/2kg0sn.zip
 ####Ada
 Fanart
 https://www.chub.ai/characters/thiasus/Ada

@@ -3,6 +3,48 @@ Previous work: https://rentry.org/y9uqi
 #An Angel With Scales
 ##->Chapter 4 - REDACTED<-
 
+“Do you think negotiations are going smoothly?” 
+
+She was back in New York. They were riding to the church for another lesson.
+
+“I doubt it. They know that we can just take what we want from them, they’re just stalling for time at this point,” She replied. “They should surrender if they know what’s good for them.  Less people would die.”
+
+“I don’t think that they will surrender,” her squad mate mused.
+
+“I know, that’s what worries me.  It’s admirable in a way, I think, that humans are willing to fight so hard for their autonomy,” she mused.
+
+“Was that a compliment I heard?” the other Daxy chortled. “I would have never expected the lieutenant to have such a high opinion of humans, what with the way you debate Elder Jensen.”
+
+“Damn it. He’s been rubbing off on me, hasn’t he?” She only received a grin in response. “Ugh, I’m going soft, the next thing you know I’ll be citing scriptures and praying over dinner. The worst part is that it kind of makes sense in a way.  Stupid bitch behavior brings stupid bitch consequences.”
+
+“I’ve been reading the books they gave us, actually.  The words are different from normal English, but the stories are interesting.”
+
+“Yeah, I couldn’t get past the first few chapters, the whole ‘thee and thou’ terminology gets kind of confusing really quickly.  It’s easier to just have the Elders explain it,” she grumbled.
+
+“Yes, but the Elders aren’t always going to be around,” her squadmate chided.
+
+It got quiet for a moment before they spoke again.
+
+“What do you think will happen to them?”
+
+“When talks break down, you mean?” She raised an eyebrow at her subordinate.
+
+“Yes,” the special operative almost whispered.
+
+“They’ll be inducted, I suppose. And then assigned.” She stated.
+
+“The way they talk about marriage is beautiful,” the other Daxy sounded so melancholic “it would break their hearts, I think, to be denied it.”
+
+She didn’t have a response. She cursed herself for sympathizing.  A week or two ago and she would have blasphemed the Christian God to the Elders’ faces, but now it was starting to feel wrong insulting a being that was promised to love her.  She knew that the Empire would take care of the men, but, having heard them testify so passionately about their religion, she doubted it would be a painless transition. She was sure that they would be loved with the Daxy.  She steeled herself.
+
+“I’ll tell you what,” she laid out her plan, “I’ve put in a request for Jensen.  Once that’s approved I’ll push for you to get approved for White. Then we won’t have to wonder about them. We can show them the empire ourselves.”  
+
+Her subordinate stayed quiet, but nodded slowly, mulling the decision over.
+
+“Y’know, I think I’m going to blow the Elder’s mind today,” she changed the subject, “I’m going to tell that one sister that I’m sorry about what I said the first time I met her, and see how he reacts.”
+
+---
+
 “I can’t believe this is working,” Allen groused as he killed the engine for what felt like the hundredth time.  He was parked in a haphazard imitation of a t-bone collision with another car.  He slipped into the back of the van and got under the blanket with Kess. “This has been the longest three miles I’ve ever driven.”
 
 “Must we leave the windows open?” Kess asked, pulling him close again. At Allen’s behest, she wasn’t allowed to turn the electric blanket on.
@@ -27,7 +69,7 @@ This was the second close call since they started.  Allen surmised that they nee
 
 “We may never get another chance.  And I can’t just sit in silence with you and not speak my mind.”
 
-He didn’t know what to say.  He knew it was a bad idea to accept this assignment.  She was so earnest, and he knew the truth would break her heart.
+He didn’t know what to say.  He knew it was a bad idea to accept this assignment with her alone.  She was so earnest, and he knew the truth would break her heart.
 
 “Is it me? Am I pushing you away?”
 
@@ -163,7 +205,7 @@ But she already knew the consequences. She could wait. She *had* to wait. She wa
 
 “And they are still at large?”
 
-“That’s correct, Colonel,” Major Kessex relayed to the holo display.
+“That’s correct, Colonel,” the Major relayed to the holo display.
 
 “Why wasn’t I informed of this sooner, Major?” A simple, direct question. The Colonel wasn’t pleased.
 
@@ -185,7 +227,7 @@ But she already knew the consequences. She could wait. She *had* to wait. She wa
 
 “Yes, ma’am.”
 
-“I am assigning you priority to this task in my absence, Major.  If you succeed, you will have my recommendation for advancement.” She stated in an even tone, with the quiet threat of the contrary as well.  
+“I am assigning you priority to this task in my absence, Major.  If you succeed, you will have my recommendation for advancement.” She stated in an even tone, with the quiet threat of the contrary hanging in the air.  
 
 “Yes. Ma’am,” the Major said, solemnly.
 

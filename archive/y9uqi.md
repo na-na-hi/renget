@@ -9,7 +9,6 @@ Previous work: https://rentry.org/opv8d
 
 “Ugh, you’re no fun, Jensen,” his partner sighed.  After a while his eyes took a conspiratorial glean. “I heard that they're, like, super thicc.”
 
-
 “Elder White!” Allen started.
 
 “Hey! Hey! I’m just saying that if the pictures are anything to go off of, if they were human they’d be like a twelve,” Elder White put his hands up, trying to placate his red faced companion.
@@ -28,7 +27,7 @@ Allen prickled at the accusation. “No, I like girls, I just . . . try not to t
 
 Allen looked up to see the first set of doors to the building opening.  The entourage was here.  He quickly nudged his companion with an elbow to silence him.  A pair of sister Missionaries led a group of bulky figures into the foyer.  Sister Abrams looked forward, her expression stiff as she opened the glass door. Her companion, sister Williams, seemed more shaken, her face flushed and her fingers nervously gripping the shoulder strap of a side bag. Behind them, a large, scaly woman hunched through the doorway.
 
-It was his first time seeing a Daxy up close, let alone the five who had come.  They were in simple, formal uniform, composed mostly of blacks and blues, instead of clad in the armored power suits he had seen on television.  To say that they were larger than life was an understatement; they were huge in every way.  He averted his eyes from scanning their full curves. Women didn’t like being treated as objects of lust, after all.
+It was his first time seeing a Daxy up close, let alone the two who had come.  They were in simple, formal uniform, composed mostly of blacks and blues, instead of clad in the armored power suits he had seen on television.  To say that they were larger than life was an understatement; they were huge in every way.  He averted his eyes from scanning their full curves. Women didn’t like being treated as objects of lust, after all.
 
 “Finally, we get to see what we came for!” A gravelly voice burst from the foremost Daxy.  She ignored the sisters and stepped forward toward the Elders.  Sister Abrams set her jaw, righteous indignation burning from her 5’4” frame.  If faith and fury were all it took to win a fight, then the brazen lizard would have been a stain on the concrete outside.
 
@@ -38,37 +37,57 @@ The pixyish Sister nodded, her lips sealing back a string of scriptural cursings
 
 “Blessed are the peacemakers.”
 
-“See how she runs, with her tail between her legs,” the Daxy snickered, her teeth shining in a wicked smile. The other Saurian females seemed to regard the interaction with veiled interest.
+“See how she runs, with her tail between her legs,” the Daxy snickered, her teeth shining in a wicked smile. The other Saurian female seemed to regard the interaction with veiled interest.
 
-“Miss, I was assured by President Oliviera that our visitors would be on their best behavior.  If you can’t show respect within the house of the Lord, then perhaps you would prefer waiting outside.” Allen spoke with an even tone, practiced in dealing with belligerent gentiles.  
+“Miss Kessex, I was assured by President Oliviera that our visitors would be on their best behavior.  If you can’t show respect within the house of the Lord, then perhaps you would prefer waiting outside.” Allen spoke with an even tone, practiced in dealing with belligerent gentiles.  
 
 The Daxy stepped up to him, dwarfing him with her 8 foot stature, bending down to give him a view of her goods.  He looked for only a second.
 
-“And are *you* going to make me, little man?” She sneered.  She had a strange smell that tickled his nose and set his heartbeat higher than normal.  He stepped back, she stepped forward. “I only agreed to this little tour because I’m bored out of my mind at our ‘embassy’ while the general tries to convince your government to stop bombing the shit out of us.  You’d think we’d get a better reward for saving you sorry men from your even sorrier excuses for women.” 
+“And are *you* going to make me, little man?” She sneered.  She had a strange smell that tickled his nose and set his heartbeat higher than normal.  He stepped back, she stepped forward. “I only agreed to this little tour because I’m bored out of my mind at our ‘embassy’ while the general tries to convince your government to stop bombing the shit out of us.  You’d think we’d get a better reward for saving you sorry men from your even sorrier excuses for women. You should be grateful.” 
 
 She had him on the retreat, his back hitting the wooden door of the chapel.  Something about the oaken doors at his back steadied him; like he was the last defender of God’s Temple from Babylon. But, he knew he couldn’t repel this invader on his own.
 
 “Your heavenly father knows you,” He steeled himself, his eyes meeting hers, “He knows your hidden pains, your darkest desires, and your gravest sins.  And my purpose is to relay that He loves you, regardless. He invites you to come unto him and be saved and then further, to be exalted.”
 
-She stopped, her eyes narrowed down at him in a piercing glare.  He met her gaze, his expression steady, but his heart thundering in his ears.
+She stopped, her eyes narrowed down at him in a piercing glare.  He met her gaze, his expression steady, but his heart thundering in his ears. 
 
 “Um, Miss? You really shouldn’t be doing this,” the master of dialogue, Elder White, finally found his words. “If word got out that you attacked us on a diplomatic mission, then everything your superiors are working for goes out the window. I doubt you would get out of New York alive.”
 
 She continued the staring contest, before looking down at his nametag, committing his name to memory.
 
-“Whatever, Elder Jensen, you’ll see I’m right one day,” she growled before leaving the building.
+“Whatever, Elder Jensen, you’ll see things our way one day,” she growled before leaving the building. She made eye contact with the other Daxy as she passed them for just a second.  An unspoken message was passed between them.
 
-The rest of the tour went a bit more smoothly with the most vocal of the Daxy removed.  The remaining four were decently cordial, asking the occasional surface level question.  Some more probing questions about Zion’s stance on the war, or the technological level of the saints were asked, but two late adolescent young men didn’t have much useful intelligence in that regard.
+As Allen started to recompose himself, the other one stepped forward.
 
-As they were leaving, however, one of the remaining Daxy asked Allen a question.
+“I hope the Lieutenant didn’t upset you, human.  In our culture, shows of dominance are paramount to establishing oneself as a capable mate,” she said slowly, picking her words. “She meant no offense.”
 
-“Elder . . . Jensen.  Did you mean what you said back there, to the Liutenant? Do you really believe your God cares about us?”
+“We accept your apology and hope it doesn’t happen again.  With all due respect, if that’s how negotiations are being handled then I worry you won’t find humanity receptive,” Elder White replied while Allen caught his breath.
+
+“I will let her know. If it makes any difference, she was very excited to meet you two,” the Daxy replied, “the men of Zion are fabled to be excellent mates.  I can see now why she could not contain her interest.”
+
+The Daxy smiled as she looked his way. Allen narrowed his eyes in confusion. He wasn’t sure how to respond to that. Was she flirting with him?  
+
+“I don’t understand,” he said, uneasily. “I don’t think Elder White or I look particularly attractive.”
+
+“Ouch,” Elder White injected.
+
+“You have good legs and a strong back, those are excellent traits in a mate.”
+
+“Well, thank you for the compliment, I guess,” he shut down the conversation. “Interuptions aside, shall we proceed?”
+
+The rest of the tour went a bit more smoothly with the most vocal of the two removed.  The remaining one was decently cordial, asking the occasional surface level question.  Some more probing questions about Zion’s stance on the war, or the technological level of the saints were asked, but two late adolescent young men didn’t have much useful intelligence in that regard.
+
+As they were leaving, however, the Daxy asked Allen a question.
+
+“Elder . . . Jensen.  Did you mean what you said back there, to the Lieutenant? Do you really believe your God cares about us?”
 
 “If God created the universe, then I think he has a plan for your people just as he has one for ours.” He answered, taking a little time to find the right words.
 
 “What if your induction is part of his plan?”
 
-“Amos three, verse seven:  Surely the Lord God will do nothing, but he revealeth his secret unto his servants, the prophets.” He answered, meeting her gaze. She nodded slowly and turned to leave.
+“Amos three, verse seven:  Surely the Lord God will do nothing, but he revealeth his secret unto his servants, the prophets.” He answered, meeting her gaze. She nodded slowly.
+
+“We’ll come again.”
 
 After the transport drove away, Elder White loosened his red tie and fanned himself with the lapels of his blue suit coat.
 
@@ -80,7 +99,7 @@ Allen put his hand forward in a commanding gesture.
 
 ---
 
-He awoke from his dream, with a feeling of both nostalgia and euphoria in his chest. Kess was still holding him to herself, breathing deeply in slumber. Her tail was wrapped around his leg to pull more warmth from his body.  It was cool in the cement dugout, despite his body heat.  The chill of the October night leeching the warmth away into the ground.
+He awoke from his dream, with a feeling of both nostalgia and euphoria in his chest. Kess was still holding him to herself, breathing deeply in slumber. Her tail was wrapped around his leg to pull more warmth from his body.  It was cool in the cement dugout, despite his body heat.  The chill of the October night was leeching the warmth away into the ground.
 
 The sounds of the search party were more distant now, but present from more directions.  They were probably going through the city block by block in a grid search.  He thought back to their encounter just half a day past.  He was lucky that the first wave was sloppy.  The one didn’t even have her helmet on to protect her eyes from his can of lemon scented adhesive remover.  Kess called it a tender mercy, but he wasn’t counting on too many more of those.  Getting out of the valley would be more dangerous than any other run he had completed.
 
@@ -243,4 +262,5 @@ For a moment he forgot to breathe.
 “Yea, Verily.  It seems that God has saved you yet again from me,” she chuckled.
 
 ---
+
 Next Chapter: https://rentry.org/wss4t

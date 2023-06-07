@@ -1,12 +1,12 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
-Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp
+Native Pokemon unknowingly following their instincts.
+
+Clara fighting with one of the guildmembers
 
 Togetic standing in front of a coffee maker, half-asleep
 
 Togetic and Team Cozy playing in a river (From Togetic's "Reunion" story)
-
-Togetic flying over Capim Town at night
 
 Gus Pondmaxxing
 
@@ -21,8 +21,6 @@ Togetic as the EB Games guy
 Chespin pouring a Gummi drink into Wooper's mouth, like this picture. https://files.catbox.moe/dv0s1j.jpg
 
 Any three anonmons with pic related https://files.catbox.moe/w0snmp.jpg
-
- "Poker night at the inventory" with pokemons
 
 Lliam shipping Team Cozy
 
@@ -141,6 +139,13 @@ Togetic catching Wooper getting drunk and covering for him
 Carrot and Hazel arriving to the guild
 
 **Finished Requests (Some links pending gallery uploads)**
+
+Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp
+
+Togetic flying over Capim Town at night
+
+"Poker night at the inventory" with pokemons
+
 [A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)](http://cloverguild.org/post/359)
 
 [Sneasel or any other mon flying up a kite with booker being strapped onto said kite](http://cloverguild.org/post/366)

@@ -3,7 +3,7 @@ Previous work: https://rentry.org/2yfuu
 #An Angel With Scales
 ##->Chapter 6 - The Silence<-
 
-He looked up at her, eyes wide.  She towered above him, her fit body a spire for her face to watch him from. Her eyes held a fire veiled by discipline and protocol that he had never seen before.  She had always had a fiery temperament, but that seemed to have cooled with age.
+He looked up at her, eyes wide.  She towered above him, her fit body a spire for her face to watch him from. Her eyes held a fire veiled by discipline and protocol that he had never seen before.  She had always had a fiery temperament, but that seemed to have tempered with age.
 
 “Lieutenant Kessex,” he replied, trying to keep an even tone.
 
@@ -15,7 +15,7 @@ She held out a broken piece of the destroyed listening post.
 
 He looked at it for a moment. He felt relieved in a way. If she was asking, that meant they hadn’t found the others.
 
-“It’s a bit of christmas tree lights. I was feeling festive,” he said with a straight face.
+“It’s a bit of Christmas tree lights. I was feeling festive,” he said with a straight face.
 
 “Christmas isn’t for another two months,” she was not amused.
 
@@ -33,7 +33,7 @@ He looked at it for a moment. He felt relieved in a way. If she was asking, that
 
 “She’s your sister! Aren’t you worried about what will happen to her?” He asked, incredulous.
 
-“She stopped being my sister when she cucked me, and then spat in the face of everything our family stands for,” her composure flared for a moment, and then she shifted back into a relaxed posture.  “I was the older sister, she was supposed to stay celibate until I found a mate, as is our family tradition. You were mine by every right. Inducted and assigned.  It was *me* who saved you in New York, not her.”
+“She stopped being my sister when she cucked me, and then spat in the face of everything our family stands for,” her composure flared for a moment, and then she shifted back into a relaxed posture.  “I was the older sister, she was supposed to wait until I found a mate, as is our family tradition. You were mine by every right. Inducted and assigned.  It was *me* who saved you in New York, not her.”
 
 He felt his knee twinge as a reminder.
 
@@ -59,9 +59,9 @@ His heart rate shot up. He could barely breathe with her on top of him, gyrating
 
 “Let go of me!” he gasped. She pulled away, and for a moment he didn’t want her to.
 
-“You know, apart from being a *man*, I really do jive with this devil character you fear so much.  You said in your lessons that he didn’t want to give humanity a choice; knowing that they would use their freedom poorly; knowing that they would fail to be anything other than animals if left to their own devices,” she mocked him as he steadied himself.  “I think he was right. You humans are incapable of anything other than self destruction without a firm hand to keep you in line. The world you had before we came was just an argument to his point.”
+“You know, apart from being a *man*, I really do jive with this devil character your religion fears so much. Zion’s version has such an interesting twist. You said in your lessons that in the beginning he didn’t want to give humanity a choice; that they should be forced to be good. I think he was onto something. He knew that they would use their freedom poorly; that they would fail to be anything other than animals if left to their own devices,” she mocked him as he steadied himself.  “I think he was right. You humans are incapable of anything other than self destruction without a firm hand to keep you in line. The world you had before we came was just an argument to his point.”
 
-“You cannot grow if you cannot choose for yourself.  God has more in mind for us than just living in a paradise of someone else’s making, he’s trying to teach us how to make that ourselves,” he countered.
+“You cannot grow if you cannot choose for yourself.  God has more in mind for us than just living like robots in a paradise of someone else’s making, he’s trying to teach us how to make that ourselves,” he countered.
 
 “Why bother, when you can just live a good life without having to worry about any of that?” She held her hands wide as though offering the world.  “I can make you happy, Allen. Here and now, and then until the day you die.  Can your faith do that?”
 
@@ -262,5 +262,7 @@ He needed to focus.
 *Author's note: I'll be honest this chapter felt kind of mid near the end and I'm not sure what it's missing.  I may do some edits in the future, but I figured I'd post what I had*
 
 *Edit: I did some edits.  I'm still not sure how I like it, but it fits the direction I want to go better.*
+
+*Edit: I did some more edits.  Probably about done editing.
 
 Next chapter: https://rentry.org/sx9c5

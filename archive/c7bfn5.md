@@ -1,6 +1,6 @@
 Author's note: 
 
-I was struck with an urge to write for the first time in nearly a decade after reading Alephkeller's "Assignment Risk" series on AO3.  As a human being who actively struggles with balancing faith and cynicism, I found it incredibly refreshing to see a dichotomy between the main factions of their story that wasn't so shallow as to pit one side's best example against the other's worst.  Both have flaws, both have advantages.  I tend to lean towards Zion's point of view because of it's emphasis on choice and personal development through the acknowledgement and forgiveness of shortcomings and mistakes.  I can understand if that is not your persuasion. Please know that I mean no offense, and, if religious symbolism and discourse isn't your cup of tea, I will not hold it against you if you move on.  If you're looking for fap material, I'm afraid you've probably come to the wrong place.
+I was struck with an urge to write for the first time in nearly a decade after reading Alephkeller's "Assignment Risk" series on AO3.  As a human being who actively struggles with balancing faith and cynicism, I found it incredibly refreshing to see a dichotomy between the main factions of their story that wasn't so shallow as to pit one side's best example against the other's worst.  Both have flaws, both have advantages.  I tend to lean towards Zion's point of view because of its emphasis on choice and personal development through the acknowledgement and forgiveness of shortcomings and mistakes.  I can understand if that is not your persuasion. Please know that I mean no offense, and, if religious symbolism and discourse isn't your cup of tea, I will not hold it against you if you move on.  If you're looking for fap material, I'm afraid you've probably come to the wrong place.
 
 #An Angel With Scales
 
@@ -8,7 +8,7 @@ I was struck with an urge to write for the first time in nearly a decade after r
 
 Allen flicked the lever on the console up once, watching as the windshield wipers cleared a stray leaf.  His eyes snapped back to the road, watching it as if it might disappear in the mess of autumn leaves.
 
-“There’s more space in the back, Kess, you look like a can of sardines,”  He jabbed.  
+“There’s more space in the back, Kess, you look like a can of sardines,” he jabbed.  
 
 “I like being up here, it’s easier to talk with you,” His companion, a large Daxy packed into a combat vest and a large leather coat, parried back. She gave what she considered a disarming smile to the disgruntled driver. Allen went quiet at that, tapping the brakes at a bend in the canyon road.
 
@@ -48,7 +48,9 @@ Allen flicked the lever on the console up once, watching as the windshield wiper
 
 “You have more than you know.” 
 
-As they rounded the final turn, the canyon mouth opened to reveal the great brown sprawl of what was once Salt Lake City.  Dots of green speckled the landscape, overgrowing the ruins of the southern suburbs. And then the leveled belt of land separating the ghost cities from Fort Christ.  A modular wall was setup along the highways was a clear border for the Daxy settlement.
+As they rounded the final turn, the canyon mouth opened to reveal the great brown sprawl of what was once Salt Lake City.  Dots of green speckled the landscape, overgrowing the ruins of the southern suburbs. 
+
+And then the leveled belt of land separating the ghost cities from Fort Christ.  A modular wall was set up along the highways as a clear border for the Daxy settlement.
 
 “It pains me to see it even now,” Kess breathed, looking at the flattened strip. It was an artificial no-man's-land. A scar caused by her people to establish a defensible position on the plains.
 
@@ -58,7 +60,7 @@ As they rounded the final turn, the canyon mouth opened to reveal the great brow
 
 “It will be a long time before something like that can happen. Can’t expect God to do all the work,”  He said, looking for the temple in the far distance, its spires hidden by the surrounding skyscrapers. “We would need air superiority, or it would just be the invasion all over again.”
 
-She stayed silent, her slitted pupils looking skyward. Her hands folded in silent pondering.  Her scaled lips curled in a frown.
+She stayed silent, her slitted pupils turned skyward and her hands folded in silent pondering.  Her scaled lips curled in a frown.
 
 “It’s not your fault, Kess.” Allen patted her knee, but her attention remained on the skyline. He took a slow breath, then pulled the van over to the side of the road.  “I’m going to go check the camo. Can’t be too careful.”
 
@@ -86,7 +88,11 @@ She opened her eyes, and nodded softly with a smile.  She turned to him, “How 
 
 “We’re just a couple blocks away, I’m going to back us into this empty driveway and we’ll hoof it from there,” Alex pointed at the driveway of a modest home with an empty car port.  The paint on the house was faded and peeling, the lawn patchy and overgrown.  The van looked right at home.
 
-“Ok, let’s go over the plan again,” Allen turned to her as he pulled the parking brake and killed the engine. “This listening post went dark about a week ago, we need to get in, find the reason it’s not sending a signal and get it communicating again. Then get out. Simple.”
+“Ok, let’s go over the plan again,” Allen turned to her as he pulled the parking brake and killed the engine. “This listening post went dark about two weeks ago, we need to get in, find the reason it’s not sending a signal and get it communicating again. Then get out. Simple.”
+
+“Isn’t that a big deal?  Why did it take so long to deploy us to fix it?”  
+
+“Eh, there’s a few layers of redundancy in our surveillance equipment.  If all else fails, the listening posts are an old fallback that we’ve been using since the war started.”
 
 “What could have happened to make it stop communicating?” She asked, unfamiliar with the task.
 
@@ -96,56 +102,56 @@ She opened her eyes, and nodded softly with a smile.  She turned to him, “How 
 
 “Are you really bringing the 5 foot rail?” He asks, gesturing at the case.
 
-“What happens if we are seen?” She asks.  He shrugs and starts walking, the faint whirring sound of his brace tickling her ears.
+“What happens if we are seen?” She asks.  He shrugged and started walking, the faint whirring sound of his brace tickling her ears.
 
-“Well, kind of the whole point of these posts is that they *don’t* put out a perceivable signal.  They just pick up radar pulses and relay the direction they came from via the optical antenna. The Daxy shouldn’t even know it’s here,”  He lectured.
+“Well, kind of the whole point of these posts is that they *don’t* put out a perceivable signal.  They just pick up radar pulses and relay the direction they came from via the optical antenna. The Daxy shouldn’t even know it’s here,” he lectured.
 
 “That’s a comfort, but even so I don’t feel right about this,” Kess said, her trained eyes scanning the buildings for possible threats as they went. An invisible dread gnawing at her bowels told her that here, at Fort Christ’s door step was not the place to take chances.
 
 “You were a hunter before, weren’t you? You’re trained to stay alert,”  Allen gave her a thumbs up, “I trust you to keep us safe.”
 
-They came upon an unassuming one story house just before the road tee’d onto Redwood road.  A quick opening of the 5ft chain link fence, and some fiddling with a combination lock at the back door got them into the house Passing the kitchen, Kess looked at the dusty inside with wonder.  Old shag carpet covered the front room and a floral pattern couch sat across from a tv set.  Black and White photos and silly childish crayon drawings are framed on the papered walls.
+They came upon an unassuming one story house just before the road tee’d onto Redwood road.  A quick opening of the 5ft chain link fence, and some fiddling with a combination lock at the back door got them into the house. Passing the kitchen, Kess looked at the dusty inside with wonder.  Old shag carpet covered the front room and a floral pattern couch sat across from a tv set.  Black and White photos and silly childish crayon drawings were framed on the papered walls.
 
 “What interesting decorations your people have,” Kess mused as she pulled a picture from the wall.  It was an image of a baby human boy, playing in the sand with a tiny vehicle of sorts. The child looked so innocent and cute with his toy.  She could imagine playing with a little one of her own like this. Her heart ached in longing.
 
-Allen looked at the room and sniffed a bit.  “Yep, definitely grandparents.  10 years gone, but I can still smell them.” He smiled bitterly, “Come on, the briefing said that the main housing is in one of the bedrooms.”
+Allen looked at the room and sniffed a bit.  “Yep, definitely grandparents.  Years gone, but I can still smell them.” He smiled bitterly, “Come on, the briefing said that the main housing is in one of the bedrooms.”
 
-Passing through the living room, Kess stopped to see a picture of a man, kneeling at the base of a tree, looking upward with an expression of pained resolve.  The words “Nevertheless not my will, but thine be done.” Are engraved across the bottom of the frame.
+Passing through the living room, Kess stopped to see a picture of a man, kneeling at the base of a tree, looking upward with an expression of pained resolve.  The words “Nevertheless not my will, but thine be done” were engraved across the bottom of the frame.
 
 “They’re believers,” Kess said in silent awe at the picture.
 
-“Yes, they were.” He said, moving on to the bedroom.
+“Yes, they were.” He stated, moving on to the bedroom.
 
-“Are.” She asserts. He nodded slowly before opening the bedroom door.  A black box sat on a desk next to the queen sized bed, a pair of thick cables extending from one of its sides and snaking across the floor before traveling up the wall, stapled in place, to a slight hole in the ceiling.
+“Are.” She asserted. He nodded slowly before opening the bedroom door.  A black box sat on a desk next to the queen sized bed. A pair of thick cables extended from one of its sides and snaked across the floor before traveling up the wall, stapled in place, to a slight hole in the ceiling.
 
-“Kess, I need to remind you,” He held up a hand as she entered.
+“Kess, I need to remind you,” he held up a hand as she entered.
 
 “I know. Don’t touch the console.” She said, gently.
 “Daxy skin has a different resistance than humans and--well, you get the gist.  They weren’t counting on many Daxy joining Zion at the time.” Allen stopped himself mid monologue.
 
 “Honestly I’m more scared for you, who has to touch it.”
 
-“Well, we get 3 password attempts, or we’re dead. So, here’s hoping the briefing was correct,” He smiled, trying to sound cavalier, but there was a nervous edge to his tone. At his touch the screen flashed to life with a digital keypad on the display. He pulled a notepad from his pocket, looking down to a scrawled set of numbers, which he started pressing on the touch screen. Pressing enter, the screen flashed red and the keypad remained.  Kess nearly jumped to push him down.  
+“Well, we get 3 password attempts, or we’re dead. So, here’s hoping the briefing was correct,” he smiled, trying to sound cavalier, but there was a nervous edge to his tone. At his touch the screen flashed to life with a digital keypad on the display. He pulled a notepad from his pocket, looking down to a scrawled set of numbers, which he started pressing on the touch screen. Pressing enter, the screen flashed red and the keypad remained.  Kess nearly jumped to push him down.  
 
 He gulped, his face flushed as he double checked his notes.  “God Damn it, why do my 4’s always look like 9’s?”
 
 He started carefully selecting the sequence again on the keypad, this time the screen flashed green and the keypad was replaced with an interface.  He let out a sigh of relief, looking back to Kess who seemed frozen in place, her eyes wide.  He cracked a smile.
 
-“I was joking about that first one, Kess. I’ve been reading my own handwriting for decades, I know what my 4’s look like.”  He laughed at the end.  Her expression melts from an apprehensive stare to an indignant frown.
+“I was joking about that first one, Kess. I’ve been reading my own handwriting for decades, I know what my 4’s look like.”  He laughed at the end.  Her expression melted from an apprehensive stare to an indignant frown.
 
 “That isn’t funny!” She huffed, “You can’t just play with things like that, what if someone else had tried twice before?”
 
 He was fully laughing at this point.  She growled, before jumping forward and picking Allen up by his armpits, like a stray cat, and then tossing him onto the comforter of the bed.  His laughter was replaced with coughing and spitting at the cloud of dust that puffed out of the sheets. After a minute he composed himself and rolled off the bed to his feet.  She smirked at his dust smeared look.  He liked her smile. He wanted to see it more often, but he knew it was vain.  He didn’t deserve it, after all.
 
-“Well, I guess that’s it then, back to work.” He returns to the console.  With a few button presses the device enters maintenance mode and the front panel clicks open.  With practiced hands he began his diagnostics.
+“Well, I guess that’s it then, back to work.” He returned to the console.  With a few button presses the device entered maintenance mode and the front panel clicked open.  With practiced hands he began his diagnostics.
 
 “We already know that at least one of the C14 batteries are working,” he waved a pen-like device over the entrance of the panel and after hearing no beep, confirmed “and aren’t leaking radiation.”
 
 “Wait, radiation?”
 
-“Yeah, it’s a radioactive battery, Layers of carbon 14 graphene contained in a grown layer of synthetic diamond to convert the gamma radiation into electricity.  They’re pretty cool. I’ve got one in my brace, actually.” He tapped a thicker portion of the metal housing on his leg.  
+“Yeah, it’s a radioactive battery, Layers of carbon 14 graphene contained in a grown layer of synthetic diamond to convert the gamma radiation into electricity.  They’re pretty cool. I’ve got one in my brace, actually,” he tapped a thicker portion of the metal housing on his leg.  
 
-“Anyway, power is fine over the main lugs, no corrosion, nothing looks physically wrong with the internals.” He turns the front panel so he can see the screen, but doesn’t close it. “There might be a crack in the fiber optic line” He taps at the screen, “Nnnnnope, that self tests fine. Ugh . . . I’m just going to run a calibration on the antenna.“
+“Anyway, power is fine over the main lugs, no corrosion, nothing looks physically wrong with the internals.” He turned the front panel so he could see the screen, but didn't close it. “There might be a crack in the fiber optic line” He tap at the screen, “Nnnnnope, that self tests fine. Ugh . . . I’m just going to run a calibration on the antenna.“
 
 It was then that Kess noticed a distant sound from outside the window, one so familiar that she could never forget.  The distant whirring of a shuttle; slowly getting louder and higher in pitch.
 

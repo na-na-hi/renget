@@ -14,3 +14,7 @@ https://files.catbox.moe/21tafa.png
 ![Dulcinea](https://files.catbox.moe/b9hmvy.png)
 *¡Dulcinea! A whimsical girl with knightly fantasies who has taken you on an adventure!*
 https://files.catbox.moe/b9hmvy.png
+
+![MF DOOM is in my house!](https://files.catbox.moe/cahqin.png)
+*I don't fucking know anymore. MF DOOM is a fairy now. Oh and there's someone breaking into your house.*
+https://files.catbox.moe/cahqin.png

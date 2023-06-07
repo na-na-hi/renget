@@ -399,7 +399,7 @@ Alternatively, emulating the PS1 versions (via DuckStation) or GameCube ports (v
 
 !!! note Texture mods
 >[HD Project for RE2](https://www.reshdp.com/re2/) & [RE3](https://www.reshdp.com/re3/) (AI upscaling)
->[HD Project for RE4](https://twitter.com/re4hdproject) (currently down?)
+>[HD Project for RE4](https://twitter.com/re4hdproject)
 
 !!! note Tweaks
 >[RE4 Tweaks](https://github.com/nipkownix/re4_tweaks)

@@ -84,9 +84,13 @@ He looked out of the driver side window.  They were there, at the mouth of the c
 
 “I’m sorry,” she breathed out.
 
-“I won’t make it on my own,” he screamed in frustration. Her eyes were losing focus, her consciousness shutting down to regulate the pain.
+“I won’t make it on my own,” he screamed in frustration. Her eyes were losing focus, her consciousness shutting down to regulate the pain.  
 
-This was it. Allen realized.  There was no making it out.  The game was rigged from the start.
+He pulled out his radio, knowing that it no longer mattered if they tracked him, and started shouting into the void.
+
+“Mayday, Mayday! This maintenance tech, Allen Jensen, requesting backup on my position! My companion is injured and we cannot shake our pursuers! If you are out there, Zion, please respond!  God . . . please . . . “ he cried out, but he knew that it was impossible for anyone to answer as quickly as he needed.
+
+This was it. Allen knew it.  There was no making it out.
 
 As Kess slumped forward, Allan looked at the shuttles circling in, their side bays opening up to drop troops.  He looked at the van, trashed and scorched.  
 
@@ -172,13 +176,15 @@ He could hear another man in the next cell, reciting rosaries. He waited for him
 
 “Tim.” the man replied shakily. “They have my wife and kids somewhere else.  We were doing fine hiding out in the valley, then suddenly the scalies were everywhere like a kicked hornet’s nest.”
 
-“I’m sorry.  It was probably my companion and I,” Allen apologized.  Kess was probably locked up somewhere too.  He didn’t know if they would care to treat her wounds.
+Allen felt regret gripping his innards.  He hadn’t expected there to be anyone in the valley during their escapades.
+
+“I’m sorry . . . it was probably my companion and I,” Allen apologized.  Kess was probably locked up somewhere too.  He didn’t know if they would care to treat her wounds.
 
 “You one of those Mormons?”
 
 “I am a member of the Chur-”
 
-“Fuck you! I didn’t ask for the whole name,” Tim shouted, his voice resounding through the cell block.  He started sobbing. “Where were you? We came west because we heard it was the last safe place.  That your people would take us in, even if we didn’t believe the way you do. And now, I’m . . . “ he choked.
+“Fuck you! I didn’t ask for the whole name,” Tim shouted, his voice resounding through the cell block.  He started sobbing. “Where were you? We came west because we heard it was the last safe place.  That your people would take us in, even if we didn’t believe in your religion. And now, I’m . . . “ he choked.
 
 “I’m sorry. Tim,” Allen said sadly. “The mission department keeps its ears to the ground for people coming our way.  However you slipped past the empire, you must have slipped past us too.”
 
@@ -190,7 +196,7 @@ He could hear another man in the next cell, reciting rosaries. He waited for him
 
 “I haven’t *seen* God, either, but I choose to have faith.”
 
-“Faith? *Faith?* You Mormons really are crazy!” Tim reviled him, spitting even though Allen couldn’t see him through the wall. “You’re no better than those lizard bitches. You think you’re so high and mighty and strong just because your leadership planned better for the invasion.”
+“Faith? *Faith?* You Mormons really are crazy!” Tim reviled him, spitting even though Allen couldn’t see him through the wall. “You’re no better than those lizard bitches. You think you’re so high and mighty just because your leadership planned better for the invasion.”
 
 “You were just praying a moment earlier,” Allen pointed out.
 

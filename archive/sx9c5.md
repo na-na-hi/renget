@@ -203,7 +203,7 @@ Kess struggled with her bindings, but lost strength as the pain flared up.
 
 “Your heavenly father knows you,”
 
-“Stop with the platitudes.  Haven’t you figured it out? I don’t believe in anything I can’t touch or see.  Your God isn’t real, he’s just a *feeling*.”
+“Stop with the platitudes.  Haven’t you figured it out? I don’t believe in anything I can’t touch, taste, smell, or see.  Your God isn’t real, he’s just a *feeling*.”
 
 “By their fruits ye shall know them. Do men gather grapes of thorns, or figs of thistles? I have seen the fruit, Xellis.  I cannot deny the change that God has made in my life,” even chained, Kess’ spoke the words with such fervor that the Major sobered, realizing the conversation was over.
 
@@ -211,7 +211,7 @@ Kess struggled with her bindings, but lost strength as the pain flared up.
 
 “You may send me to God today, Xellis, but know this: I will be received by angels as a sister.  Can you say the same?”
 
-“Perhaps not. But whether you're received by angels or not, you’ll die in shame,” Major Kessex straightened her uniform and donned her composure.  She opened the door.  “Bring him in.”
+“Perhaps not. But angels or not, you’ll die in shame,” Major Kessex straightened her uniform and donned her composure.  She opened the door.  “Bring him in.”
 
 Allen was firmly led into the room, his hands cuffed by the guard who had grown tired of his struggling.  The major grabbed him by the cuffs.  He dug his heels in but was dragged towards her.  She pulled a syringe from her front pocket and uncapped the needle.  He threw his weight back as he saw what she was doing.  Kess growled and pulled against her restraints, the superalloy creaking with strain.
 
@@ -223,7 +223,7 @@ Allen was firmly led into the room, his hands cuffed by the guard who had grown 
 
 “At this point you’re a danger to yourself.  I think high command will forgive me for acting in your preservation.”
 
-The cuff’s snapped and Kess roared as she pushed from the grip of the guard, her pain overridden by desperation.  She was tackled to the floor by the second guard, and then the second piled on to hold her down. She let out a strangled cry as she watched in anguish as the Major put the syringe to Allen’s neck and pressed the plunger.
+The cuff’s snapped and Kess roared as she pushed from the grip of the guard, her pain overridden by desperation.  She was tackled to the floor by the second guard, and then the first piled on to hold her down. She let out a strangled cry as she watched in anguish as the Major put the syringe to Allen’s neck and pressed the plunger.
 
 ---
 
