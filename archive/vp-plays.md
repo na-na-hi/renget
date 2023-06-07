@@ -319,3 +319,10 @@ currently stuck on jeeve stobs (6th gym) because of level cap & coverage shenani
 https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
 https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
 https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
+
+##Rejuvenation - Madame Moto mod
+!!! info Status: Ongoing
+    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a difficulty hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release.
+    Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984.
+
+https://arch.b4k.co/vp/thread/53913991/ 1 it's beginning again

@@ -193,6 +193,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
+	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
+	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -382,6 +384,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
 * [Ross Sleeps...?](https://rentry.org/opi29)
 * [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
+* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
+* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu)
 * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 * [Booker's Journal](https://rentry.org/RibombeeJournal)
 * [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t)

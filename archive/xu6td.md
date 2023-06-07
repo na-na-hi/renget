@@ -75,7 +75,8 @@ https://greasyfork.org/en/scripts/423001-twitter-media-downloader
 Change the default filename to: `@{user-id}-{status-id}`
 ![](https://files.catbox.moe/vx4k7l.png)
 
-!!!warning `Always show sensitive content` is bugged if you turn it on, make the below changes to the code to fix
+!!!warning `Always show sensitive content` is bugged if you turn it on, make the below changes to the code to fix (partially)
+	Suggest just not checking that box, it breaks a lot of things.
 	For non-English language, replace `Show` with whatever it says for your language.
 ```diff
 @@ -71,7 +71,7 @@

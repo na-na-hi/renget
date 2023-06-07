@@ -47,6 +47,8 @@ https://drive.google.com/file/d/1Kd_VD66jXMnWzTN7MvZHhmKixz3Qnosu/view?usp=share
 https://mega.nz/folder/BmpxBYpL#1TVy5v8BJOABm9qkiO0Y3Q
 - Crysta
 https://mega.nz/folder/Fjpn3awS#dYenm0fD8SEZQL-l3_dYuQ
+- Maddie Kim (Pantheon)
+https://files.catbox.moe/evj8gm.7z
 
 ---
 
@@ -102,12 +104,19 @@ https://civitai.com/models/51651/esthetic-april-oneil-1987-tmnt
 https://civitai.com/models/72423/april-april-oneil-1987-lora
 	- Lotus Blossom
 https://civitai.com/models/82300/lotus-blossom-tmnt-1980s
+	- Jessica Jaclyn
+https://civitai.com/models/85186/jessica-jaclyn-or-rise-of-the-teenage-mutant-ninja-turtles
 - Masters of the Universe
 	+ She-Ra
 https://civitai.com/models/44792/she-ra-1985
 https://civitai.com/models/82029/she-ra-lycoris
 	- Teela
 https://civitai.com/models/84478/teela-lycoris
+https://civitai.com/models/70638/masters-of-the-universe-teela
+	+ Evil-Lyn
+https://civitai.com/models/71618/masters-of-the-universe-evil-lyn-80s-version
+	- Sorceress of Castle Grayskull
+https://civitai.com/models/70298/masters-of-the-universe-sorceress-of-grayskull
 	- *[style](#styles)*
 - Sheila (Dungeons and Dragons)
 https://civitai.com/models/85112/sheila-dungeons-and-dragons-lycoris
@@ -301,6 +310,8 @@ https://civitai.com/models/22997?modelVersionId=27465
 https://civitai.com/models/81353/smurfette-the-smurfs
 - Dawn Betterman (The Croods)
 https://civitai.com/models/72073/dawn-betterman-the-croods
+- Kaya (Dinocore)
+https://civitai.com/models/85214/dinocore-kaya
 - The Ghost and Molly McGee
 	- Molly McGee
 https://civitai.com/models/17513/molly-mcgee
@@ -405,6 +416,8 @@ https://civitai.com/models/26309/ahsoka-tano-star-wars-rebels-loha
 https://civitai.com/models/58904/bo-katan-clone-wars-star-wars
 	+ Aayla Secura
 https://civitai.com/models/28309/aayla-secura-or-star-wars
+- D'Vana Tendi (Star Trek: Lower Decks)
+https://civitai.com/models/12848/d-vana-tendi-star-trek-lower-decks
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
 - Homestuck fan art
@@ -424,8 +437,12 @@ https://civitai.com/models/19125/lola-bunny
 https://civitai.com/models/83150/female-cartoon-lioness
 - Diane Foxington (The Bad Guys)
 https://civitai.com/models/10564?modelVersionId=35342
-- Loona (Helluva Boss)
+- Helluva Boss
+	+ Millie
+https://civitai.com/models/85225/millie-or-helluva-boss
+	+ Loona 
 https://civitai.com/models/6610?modelVersionId=9149
+
 
 ---
 
@@ -471,6 +488,8 @@ https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
 https://civitai.com/models/19668/asari-diffusion
 https://civitai.com/models/20081/asari-diffusion-anime
 https://civitai.com/models/16091/liara-tsoni
+	- *N7 outfit*
+https://civitai.com/models/85205/n7-armor-mass-effect-lora
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -514,8 +533,6 @@ https://civitai.com/models/20376/sxz-loba-apex-legends
 https://civitai.com/models/21017/loba-apex-legends-lora
 	- Valkyrie
 https://civitai.com/models/17698/valkyrie-apex-legends-lora
-	- Horizon
-https://civitai.com/models/50414/horizon-apex-legends
 	+ Mad Maggie
 https://civitai.com/models/83113/mad-maggie-apex-legends
 - Lara Croft (Tomb Raider modern)
@@ -535,10 +552,11 @@ https://civitai.com/models/46189/harley-quinn-batman-arkham-city-lora
 https://civitai.com/models/46199/harley-quinn-batman-arkham-knight-lora
 - Poison Ivy (Arkham Knight)
 https://civitai.com/models/49951/poison-ivy-batman-arkham-lora
-- Tawna and Coco Bandicoot
+- Tawna, Coco, Crash Bandicoot
 https://civitai.com/models/74998/tawna-bandicoot-lora
 https://civitai.com/models/52735/coco-bandicoot
 https://civitai.com/models/51743/coco-bandicoot-crash-bandicoot-series
+https://civitai.com/models/77283/crash-bandicoot
 - Hat Kid (A Hat In Time)
 https://civitai.com/models/31377?modelVersionId=37814
 - Clementine (The Walking Dead Game)
@@ -585,10 +603,12 @@ https://civitai.com/models/20603/the-owl-characters
 https://civitai.com/models/24464/totally-spies-art-style-and-characters
 - Total Drama
 https://civitai.com/models/33635/total-drama-characters-lora
-- Invincible (TV series)
-https://civitai.com/models/49968/invincible-style-lora
 - The Legend of Korra
 https://civitai.com/models/84638/avatar-the-legend-of-korra-style-lora
+- Kim Possible
+https://civitai.com/models/85165/kim-possible-style-lora
+- Invincible (TV series)
+https://civitai.com/models/49968/invincible-style-lora
 ---
 - JabComix
 https://civitai.com/models/18828/jabcomix
@@ -615,7 +635,8 @@ https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI
 https://civitai.com/models/6020/zelda-cdi-style-lora
 - N64 style
-https://civitai.com/models/81132/n64-style
+https://civitai.com/models/81132/n64-styl
+https://civitai.com/models/85322/icbin64-i-cant-believe-its-not-64
 - C64 Graphics
 https://civitai.com/models/35886?modelVersionId=42085
 

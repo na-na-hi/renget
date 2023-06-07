@@ -10,14 +10,14 @@
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(06/06) RedPajama 7B released + Instruct&Chat
+\>(06/06) WizardLM 30B v1.0 released
 \>(06/05) k-quantization released for llama.cpp
 \>(06/03) Nous-Hermes-13b released
 \>(06/03) WizardLM-Uncensored-Falcon-40b released
 \>(05/27) FalconLM release Falcon-7B & 40B, new foundational models
 \>(05/26) BluemoonRP 30B 4K released
 \>(05/25) QLoRA and 4bit bitsandbytes released
-\>(05/23) exllama transformer rewrite offers around x2 t/s increases for GPU models
-\>(05/22) SuperHOT 13B prototype & WizardLM Uncensored 30B released
 
 ►**FAQ & Wiki**
 \>Wiki
@@ -113,6 +113,8 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+05/23/2023 | exllama transformer rewrite offers around x2 t/s increases for GPU models
+05/22/2023 | SuperHOT 13B prototype & WizardLM Uncensored 30B released
 05/22/2023 | SuperHOT 13B prototype & WizardLM Uncensored 30B released
 05/19/2023 | RTX 30 series 15% performance gains, quantization breaking changes again >>93536523
 05/19/2023 | PygmalionAI release 13B Pyg & Meth
