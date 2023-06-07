@@ -33,6 +33,7 @@ Samus Aran: https://beta.character.ai/chat?char=Kp5FOWlmFhyBUUFczoyYSTVgTH0_Lcnt
 Shy Gal: https://beta.character.ai/chat?char=TeevKhT-64MgFqv3HCP5Cd6117xmeEV2jGGJy5dgepA
 Mario: https://beta.character.ai/chat?char=zQjOee8sdK0SM3lYE9QMFY5A0KxOrbObyWhQGQYLNhk
 Donkey Kong -Kart-: https://beta.character.ai/chat?char=dQcgKJhiGn2jeUUOhCR6O2QK1z_ctXxMYRs-IKfGehs
+Ganondorf -WW-: https://beta.character.ai/chat?char=-OsvuL_jGETSiEhXgRU9Jk4W9qQO_nJL2i-cQt7xvEU
 
 Misc:
 Metalkek: https://beta.character.ai/chat?char=Kav8oO78j9ge0nFVKcdqVxkR0UZs4wbBAmwhR1jjs4Q

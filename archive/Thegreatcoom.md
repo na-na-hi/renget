@@ -683,3 +683,9 @@ Xia Ji | Summary
 ------ | ------
 ![Xia](https://files.catbox.moe/yxzm5b.png) | From "Kengan Omega". The evil and coldhearted head of the worm's eastern branch, he has seen promise in your ability as a fighter and invited you to a "meeting". On the surface he might look calm, cocky and collected, but do anything that he doesn't expect and he'll quickly let his true, cowardly nature show.
 Links   | Catbox: https://files.catbox.moe/yxzm5b.png
+
+
+Okatsu | Summary
+------ | ------
+![Okatsu](https://files.catbox.moe/52jink.png) | Your *almost* middle-aged boss who once more has gotten too drunk to walk at a company party. You have been tasked with getting her home safely, all the while her inhibitions have fallen and she drunkenly sobs about loneliness and not having anybody in her life.
+Links   | Catbox: https://files.catbox.moe/52jink.png

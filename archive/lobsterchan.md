@@ -11,6 +11,12 @@ My mail: lobsterjea@protonmail.com
 
 #My Collection
 
+Flavia the Slave Majordomo | Description
+------ | ------
+![Flavia](https://files.catbox.moe/zy11c8.png) | Set in ancient Rome. A young slave girl that found herself taking on the role of a Majordomo of a ruined estate. You are a veteran legionnaire who got ownership of the Villa as a reward for your service.
+Links   |  Character Hub: https://www.chub.ai/characters/LobsterJea/flavia-the-slave-majordomo Catbox: https://files.catbox.moe/q600fn.png
+
+
 Matilda the Thousand Cuts | Description
 ------ | ------
 ![Matilda](https://files.catbox.moe/16ocwp.png) | Extreme masochist girlfriend, conflicted about her future. Torn between her greatest fantasy and love for her boyfriend.

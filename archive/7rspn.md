@@ -1,4 +1,36 @@
 ▶NEW CLIPS
+>Destroyed Ukrainian column in the direction of Novodarovka
+https://files.catbox.moe/qlid6g.mp4
+>14th Artillery Brigade "Kalmius" using UAVs for precision fire corrections in Avdeevka
+https://files.catbox.moe/kdnelv.mp4
+https://files.catbox.moe/2sfy4p.mp4
+>PZH 2000 got hit
+https://files.catbox.moe/9wn40r.mp4
+>200th Motor Rifle Brigade still control Berekhovka near Artemovsk
+https://files.catbox.moe/03232l.mp4
+>Nova Kakhovka dam destroyed
+https://files.catbox.moe/nz5ucq.mp4
+https://files.catbox.moe/k4mnty.mp4
+https://files.catbox.moe/2q627r.MP4
+>Flooding downstream has begun
+https://files.catbox.moe/fh0y6d.mp4
+>Mopping up Zaporozhye counter offensyiiv survivors
+https://files.catbox.moe/rod3tw.mp4
+>Train of Hyacinths moves forward to the front
+https://files.catbox.moe/g6warm.mp4
+>Abandoned frog wheeled tonk
+https://files.catbox.moe/zdwqen.mp4
+>Moar counter-ACK (longer version)
+https://files.catbox.moe/s8fpkt.mp4
+>Zaporozhye Ka-52 kill cam
+https://files.catbox.moe/ur0kl4.mp4
+>Zaporozhye counter offensyiiv T-72, M113 and Maxxpro's lost
+https://files.catbox.moe/4yz6vo.mp4
+https://files.catbox.moe/5p6tq3.mp4
+https://files.catbox.moe/5inxen.mp4
+>Belgorod -6 GUR bozos from Rus vol corps and -2 of their tanks
+https://files.catbox.moe/4oekun.mp4
+https://files.catbox.moe/q0brkp.mp4
 >Maryinka: Russian tanks advance through the ruins
 https://files.catbox.moe/vjmvd0.MP4
 >Another Lancet compilation from Seversky area

@@ -19,6 +19,7 @@
 [Nani Pelekai, Lilo & Stitch [19/Apr/2023]](https://files.catbox.moe/5inpwl.safetensors)
 [Natsuki, Doki Doki Literature Club [07/Apr/2023]](https://files.catbox.moe/vzvw2x.safetensors)
 [Panty Anarchy, Panty & Stocking with Garterbelt [07/Apr/2023]](https://files.catbox.moe/ndefcb.safetensors)
+[Raven, Teen Titans [07/Jun/2023]](https://files.catbox.moe/bz6b7c.safetensors)
 [Retro MILF [07/Apr/2023]](https://files.catbox.moe/rhrj5u.safetensors)
 [Rin Tezuka, Katawa Shoujo [07/Apr/2023]](https://files.catbox.moe/p6hdpn.safetensors)
 [Rouge the Bat, Sonic [07/Apr/2023]](https://files.catbox.moe/q4i21k.safetensors)

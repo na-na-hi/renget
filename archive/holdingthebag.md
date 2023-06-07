@@ -1,5 +1,5 @@
 f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 3rd June. All dates dd/mm.
+Last updated: 7th June. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -92,7 +92,6 @@ Example Submission:
 Club ID | Club Name | Club Status
 --: | -- | ----
 6358 | ヒナまつり | Open as of 23/11
-13107 | アオダマ | Open as of 25/05
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -100,6 +99,7 @@ Club ID | Club Name | Club Status
 1793 | Horny | Full as of 22/10
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
+13107 | アオダマ | Full as of 06/06
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -138,7 +138,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-623 | Mesugaki | Open as of 29/04
 2115 | FunnyDorks | Open as of 11/05
 2267 | SpinHinaSpin | Open as of 24/05
 
@@ -147,6 +146,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
 477 | BunnyChasers | Full as of 26/04
+623 | Mesugaki | Full as of 07/06
 1631 | CHADS | Full as of 04/09
 2496 | AbydosCycling | Full as of 21/03
 4722 | JointRaid | Full as of 03/02

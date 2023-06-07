@@ -244,6 +244,13 @@ Atzin's older sister. Introverted and pesimistic genetically engineered Axolotl 
 CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv3fLR0
 Card: https://www.chub.ai/characters/donquijanon/Yohualli
 
+## Mexibots batch 4
+### Mictlan Cemetery
+->![catalina](https://git.chub.ai/donquijanon/mictlan-cemetery/-/raw/fd726bfbcc27d8cc2c84cc198ea31b629526c7cc/raw/tavern_raw.png)<-
+->![ex](https://files.catbox.moe/nknzbu.png)<-
+Example of a message, even if it got the OC wrong, it's still good.
+https://www.chub.ai/characters/donquijanon/mictlan-cemetery
+
 ## The Door
 ->![door](https://files.catbox.moe/9k7gal.png)<-
 Made as an experiment to test chance and randomness. Each time you open it, something different will be on the other side.

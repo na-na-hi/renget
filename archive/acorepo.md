@@ -164,6 +164,7 @@ https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
 https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
 	- Zuko
 https://civitai.com/models/84092/zuko-or-avatar-the-last-airbender
+	- [*style*](#styles)
 - Ben 10
 	+ Gwen Tennyson (& Ben 10: Alien Force)
 https://civitai.com/models/23594/gwendolyn-tennyson-ben-10-character
@@ -227,11 +228,17 @@ https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
 https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-lora
 - Supergirl/Galatea (DCAU)
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
+- Star/Ripley Ryan (Captain Marvel)
+https://civitai.com/models/14831/star-ryan-ripley
+- Polaris (X-Factor)
+https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
 - X-Men
 	+ Madelyne Pryor
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
 	- Mystique
 https://civitai.com/models/83626/mystique-x-men-lora
+	- Rogue
+https://civitai.com/models/84349/rogue-x-men
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
@@ -488,8 +495,6 @@ https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
 https://civitai.com/models/19668/asari-diffusion
 https://civitai.com/models/20081/asari-diffusion-anime
 https://civitai.com/models/16091/liara-tsoni
-	- *N7 outfit*
-https://civitai.com/models/85205/n7-armor-mass-effect-lora
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -522,6 +527,8 @@ https://civitai.com/models/84024/morathi-warhammer-fantasy
 https://civitai.com/models/30715/morathi-the-hag-sorceress-of-ghrond-and-the-first-hag-queens
 - Warcraft and World of Warcraft
 https://rentry.org/acorepo2#warcraft-world-of-warcraft
+- Cassandra (Dragon Age Inquisition)
+https://civitai.com/models/85639/cassandra-dai
 - Overwatch
 https://rentry.org/acorepo2#overwatch-loras-embeddings
 - Apex Legends
@@ -543,6 +550,8 @@ https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider
 - Ellie (The Last of Us)
 https://civitai.com/models/84764/ellie-tlou-part-1-clean-lora
 https://civitai.com/models/52671/ellie-tlo2
+- Nillin (Remember Me)
+https://civitai.com/models/85650/nillin-remember-me
 - Jessica Cannon (SiN) realistic
 https://civitai.com/models/21288/jessica-cannon
 - Catwoman (Arkham City)
@@ -563,6 +572,8 @@ https://civitai.com/models/31377?modelVersionId=37814
 https://civitai.com/models/75068/clementine-the-walking-dead
 - Sheeva (Mortal Kombat)
 https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms
+- Sally Boyle (We Happy Few)
+https://civitai.com/models/84912/sally-boyle-we-happy-few
 
 
 ## Styles
@@ -605,15 +616,18 @@ https://civitai.com/models/24464/totally-spies-art-style-and-characters
 https://civitai.com/models/33635/total-drama-characters-lora
 - The Legend of Korra
 https://civitai.com/models/84638/avatar-the-legend-of-korra-style-lora
+- Avatar: The Last Airbender
+https://civitai.com/models/85732/avatar-the-last-airbender-style-lora
 - Kim Possible
 https://civitai.com/models/85165/kim-possible-style-lora
-- Invincible (TV series)
+- Invincible (Netflix series)
 https://civitai.com/models/49968/invincible-style-lora
 ---
 - JabComix
 https://civitai.com/models/18828/jabcomix
 - Shadman
 https://civitai.com/models/5423/luisapshadbase-but-from-ohio
+https://civitai.com/models/4371/luisapshad-no-semi-realistic-version
 - Métal Hurlant
 https://civitai.com/models/83305/metal-hurlant-style-heavy-metal-french-comics
 - Valerian & Laureline
@@ -675,6 +689,8 @@ https://civitai.com/models/4607/vaporwave-screenshot
 https://civitai.com/models/4000/lowpolybabe2k1
 - One-image LoRAs
 https://civitai.com/models/54833?modelVersionId=59209
+- Impasto painting style
+https://civitai.com/models/82582/thick-impasto-painting
 - Rembrandt art
 https://civitai.com/models/76481/rembrandt-style
 
@@ -686,6 +702,8 @@ https://mega.nz/file/J74xzZjC#rfPMwv4qxLpwcVrj6AcGBWJU5zbwoyW1F-XXGPoMsCA
 https://mega.nz/file/VrJVUSKS#C57wFd_4wnIK-hbQif2_58SXXU37DB9j5-EekjQ_8AU
 - Jessie (Toy Story)
 https://mega.nz/file/E7AQ2SiL#tjO7-SFRkRp1yfOJmASPoUj0SdLvCu03dLLvwVhXDLg
+- Vampirella
+https://mega.nz/folder/NigH0IYJ#Hi0KhHGqfv72VzXFjgpeHQ
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~
@@ -765,8 +783,8 @@ https://civitai.com/models/7585/korra-legend-of-korra
 https://civitai.com/models/5709?modelVersionId=6648
 - Ariel
 https://civitai.com/models/5884/ariel-disney
-- Kid book illustration style
-https://civitai.com/models/25464/kidbooks
+- Alessandro Barbucci art
+https://civitai.com/models/85716/denbarbucciartstyle
 - Milo Manara art
 https://civitai.com/models/7217/mcmimana2
 https://civitai.com/models/6026/milomanara-768
@@ -788,3 +806,5 @@ https://civitai.com/models/4692/nagel-style
 - Homestuck
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#homestuck-sprite
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#homestuck-troll
+- Kid book illustration style
+https://civitai.com/models/25464/kidbooks

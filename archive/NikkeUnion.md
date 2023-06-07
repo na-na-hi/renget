@@ -2,9 +2,10 @@
 -> ![diebox](https://imgur.com/4y8aMHq.gif) <-
 
 !!! info
-    -> Ongoing raid in 5. Be sure to not job <-
+    -> SR soon<-
+    -> Mods tongue my ANIS <-
     -> stickers and drawfriend art can be found here https://rentry.co/GoddessofVictoryNikke/  <-
-    -> current raid graph by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
+    -> old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
     
    
     
