@@ -678,3 +678,8 @@ Adrian | Summary
 ------ | ------
 ![Adrian](https://files.catbox.moe/ztk3n7.png) | Your almost inhumanly perfect boyfriend. Hot, smart, rich, and ridiculously charismatic, he could certainly get somebody way more attractive than the plain, chubby girl next door that you are. The only "problem" is that he's quite particular when it comes to how things are handled in the bedroom.
 Links   | Catbox: https://files.catbox.moe/ztk3n7.png
+
+Xia Ji | Summary
+------ | ------
+![Xia](https://files.catbox.moe/yxzm5b.png) | From "Kengan Omega". The evil and coldhearted head of the worm's eastern branch, he has seen promise in your ability as a fighter and invited you to a "meeting". On the surface he might look calm, cocky and collected, but do anything that he doesn't expect and he'll quickly let his true, cowardly nature show.
+Links   | Catbox: https://files.catbox.moe/yxzm5b.png

@@ -240,6 +240,10 @@ Use crookedtrees in your prompt
 
 	https://mega.nz/file/3AsRDJgZ#-owGxsdtLFYjFv43H6VysBMO88Vk3SKtLhF7mHdC03I
 
+### BB95 Furry Mix
+
+	V7.0: https://civitai.com/api/download/models/82523?type=Model&format=SafeTensor&size=full&fp=fp16
+
 ## Galleries
 
 # FluffAnon's Generations

@@ -1,6 +1,8 @@
 ##Question ideas for /pmdg/
 
-
+>Are all Pokemon able to survive on plants like apples and berries? Or are some Pokemon truly carnivorous and require meat?
+>Ghosts can phase through solid matter, but when they do so, can they bring items or other Pokemon along with them?
+>If you had no sense of humor, would a Reviser Seed do nothing to you (since it normally makes you faint from laughter)?
 >How exactly do Gummis make you smarter? Do they physically rewire your neurons somehow? Do they put some sort of weird magic energy inside you that increases your intelligence?
 >In PMD games, Fire-types can walk on molten lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?
 >Why do Pokemon choose to sleep on piles of hay? Are their bodies hardy enough that they don't mind the discomfort? Is it a traditional/cultural sort of thing?
@@ -9,7 +11,6 @@
 >Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
 >If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
 >Is it common to travel across the world to different continents, or do most Pokemon stay on their home continent for their whole lives?
->Are legendaries one-of-a-kind, or are there multiple around the world?
 >Are legendaries worshipped like gods?
 >Do prosthetics exist in the PMD world? And if so, are they just simple peg legs and hook hands or would they have some more advanced stuff, like a hand with working fingers?
 >Have any manmade objects come into the PMD world via portals or other means?
@@ -20,7 +21,6 @@
 >Do Ice-types enjoy cold food? Do they ever get brain freeze?
 >Do Fire-types enjoy spicy food? Do they have a higher tolerance for it?
 >Do you think most towns have their own school, like Serene Village does? Are there any full-on universities for advanced studies, or just basic schoolhouses that teach the basics?
->For "interior" mystery dungeons, like caves, are they pitch-black or are they naturally lit up somehow? If they're lit up on their own, where does the light come from?
 >How would native Pokemon react if you told them their whole world was just a video game? And would you choose to tell them that in the first place, or keep it a secret?
 >Do actual framed beds exist in this world, or does everyone sleep on piles of hay?
 >Do Ice-type Pokemon feel cold to the touch? And do they get chilly in cold weather or are they immune to low temperatures?
@@ -28,6 +28,17 @@
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+>Do Pokemon have instincts? Like when a cat Pokemon can't resist the urge to chase after a laser or a dog Pokemon can't help but wag their tail unconsciously—if so, would a former human would fall to these instincts?
+>Are legendaries one-of-a-kind, or are there multiple around the world?
+>You have a job! Though, it's quite different from the usual exploration—it's regarding milking a Miltank. Despite humans do that with cows and the Miltank in question is fine with it, would you do it or is it such a foreign thought to do?
+>Although you knew that you have "magical powers" and all, when facing a legendary Pokemon in a dungeon, are you brave enough to fight it or would you run away?
+>Do you find the quirky Pokemon annoying or endearing? For example, Sunflora's "Oh my gosh", Quagsire's "hmm", and etc.
+
+>Do machine-like Pokemon like Magnazone... Are they actually machines that need maintenance, or was it just a living creature mimicking a machine?
+>What would your reaction be if the boss suddenly used items (Reviver Seeds, Wands, etc.). Do you think that's unfair? Why?
+>For "interior" mystery dungeons, like caves, are they pitch-black or are they naturally lit up somehow? If they're lit up on their own, where does the light come from?
+>What do you think, in your own words, is the overall message of the pmd series?
 
 >After what the Pokemon Square people have done to you... do you feel obligated to save them?
 >With technology remnants like the powerplant in Rescue Team (which can't possibly be the only one), would you be crazy enough to attempt to restore it (and maybe find clues in the past) or just leave it as it is?

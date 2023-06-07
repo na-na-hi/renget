@@ -22,7 +22,7 @@ Search Huggingface for new GGML models [HERE](https://huggingface.co/models?sort
 
 **2.Get latest KoboldCPP.exe here: https://github.com/LostRuins/koboldcpp/releases (ignore security complaints)**
 
-**3.Double click KoboldCPP.exe OR run "KoboldCPP.exe --help"** in CMD prompt to get command line arguments for more control. --threads (number of CPU cores), --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN! "--useclblast 0 0" probably maps to GPU0 and "1 0" to GPU1. If not, experiment. At start, exe will prompt you to select bin file you dl'ed in step 1. Be sure to free up enough ram for your model!
+**3.Double click KoboldCPP.exe OR run "KoboldCPP.exe --help"** in CMD prompt to get command line arguments for more control.  --launch, --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN "--useclblast" values can be determined from "Platform" & "Device" output in CMD and --gpulayers can offload model to VRAM. At start, exe will prompt you to select bin file you dl'ed in step 1. Close other RAM-hungry programs!
 
 **4. Go to URL listed in CMD window once model is loaded**
 
@@ -35,6 +35,6 @@ Story Generation:
 Example prompt: "As a private investigator, my most lurid and sensational case was " then hit 'Submit'.  When new text stops, hit 'Submit' again to continue. As in Stable Diffusion, renders can be hit or miss. Hit Abort during text generation and restart from Step 1 to re-initialize
 
 ChatGPT-style queries:
-Same as above except in Step 2 choose 'New Instruct' in popup window. In step 3, may wish to adjust Amount to Generate tokens for small ("What's the capital of Ohio?") or large ("Write 10 paragraphs comparing gas to oil") prompts
+Same as above but launch with "--unbantokens" and in Step 2 choose 'New Instruct' in popup window. In step 3, may wish to adjust Amount to Generate tokens for small ("What's the capital of Ohio?") or large ("Write 10 paragraphs comparing gas to oil") prompts
 
 **->CTRL-C in CMD window to stop**

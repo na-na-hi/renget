@@ -401,6 +401,11 @@ Music:
 
 ## O
 
+Name:  (The) Overlad
+Note:   Sworn destroyer in recompense for crimes against his very person, each village, town, city upon this continent shall burn to sate his wrath...
+Data: https://rentry.org/ok4ni (profile: https://desuarchive.org/trash/thread/56841820/#57073340 )
+Music:   
+
 ## P
 
 Name:	Patches

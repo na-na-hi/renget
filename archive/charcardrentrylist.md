@@ -20,7 +20,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Reisen](https://files.catbox.moe/a48h0g.png)|[Reisen](https://files.catbox.moe/a48h0g.png) [MV]
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Adrian](https://files.catbox.moe/ztk3n7.png), [Charis](https://files.catbox.moe/jrg8pq.png), [Mizuki](https://files.catbox.moe/o4uuvy.png), [Tsunoda](https://files.catbox.moe/2ajzb9.png), [Retsuko](https://files.catbox.moe/prfqpu.png), [Haida](https://files.catbox.moe/0rf3tq.png), [Mirabelle](https://files.catbox.moe/6vc8du.png), [Milran](https://files.catbox.moe/gxfqss.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Rainey Street Gang](https://files.catbox.moe/sc9ivx.png), [Noel](https://files.catbox.moe/p8geen.png)|
-[Smile](https://rentry.org/HelpanonSmile) | Misc |[Midnight Moms](https://files.catbox.moe/l05nuk.png), [Reddit-Kun](https://files.catbox.moe/pvrjln.png), [Ishizu Ishtar](https://files.catbox.moe/q0vomc.png), [Grizelda the Great](https://files.catbox.moe/byov7t.png), [ Inabakumori](https://files.catbox.moe/ttpnja.png)|
+[Smile](https://rentry.org/HelpanonSmile) | Misc |[Midnight Moms](https://files.catbox.moe/l05nuk.png), [Reddit-Kun](https://files.catbox.moe/pvrjln.png), [Ishizu Ishtar](https://files.catbox.moe/q0vomc.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Anise](https://files.catbox.moe/gqr3mt.png), [Apprentice Lyra](https://files.catbox.moe/lvlmw9.png)|[Alec](https://files.catbox.moe/t4mo90.png), [Anise](https://files.catbox.moe/gqr3mt.png) [MV]
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Nina](https://files.catbox.moe/3c62eg.png), [Aya](https://files.catbox.moe/ok3qbv.png)|[Nina](https://files.catbox.moe/3c62eg.png) [MV]
 [Phalannex](https://rentry.co/phalannex) | Misc |[Jotaro Kujo](https://files.catbox.moe/fuj1a7.png), [Tomoko Kuroki](https://files.catbox.moe/hzgceg.png)|
@@ -31,7 +31,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Fennec Family](https://files.catbox.moe/4sidrd.png), [Freelancer Simulator](https://files.catbox.moe/8ls5oe.png)|[bargain bin oyakodon](https://files.catbox.moe/hyl4q5.png)
 [Nevtelen](https://rentry.org/Nevtelen) | Misc |[Calypso](https://files.catbox.moe/lexqhz.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc |[Serea Buchanan](https://files.catbox.moe/7e2yyu.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Ping](https://files.catbox.moe/k6h580.png), [Schrodinger](https://files.catbox.moe/kmf27z.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Ping](https://files.catbox.moe/k6h580.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Morgana](https://files.catbox.moe/fgjxyt.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||

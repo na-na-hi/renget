@@ -1,4 +1,4 @@
--> Last update: 2023-06-04 ->
+-> Last update: 2023-06-07 ->
 
 # /horg/ - Horror Games General 
 
@@ -137,7 +137,7 @@ Official (and unofficial) places you can get these games.
 
 Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resources and inventory, etc.
 
-[Alone In The Dark 1, 2, 3 & 4: The New Nightmare](https://gog-games.to/search/Alone%20In%20The%20Dark) [▶️](https://www.youtube.com/results?search_query=Alone+In+The+Dark+gameplay)
+[Alone In The Dark 1, 2, 3 & 4: The New Nightmare](https://gog-games.to/search/Alone%20In%20The%20Dark) (1992-2001) [▶️](https://www.youtube.com/results?search_query=Alone+In+The+Dark+gameplay)
 [Blair Witch Trilogy](https://www.myabandonware.com/search/q/Blair%20Witch) [▶️](https://www.youtube.com/results?search_query=Blair Witch Trilogy+gameplay)
 [Blue Stinger](https://vimm.net/vault/16667) [▶️](https://www.youtube.com/results?search_query=Blue Stinger+gameplay)
 [Carrier](https://vimm.net/vault/16675) [▶️](https://www.youtube.com/results?search_query=Carrier dreamcast+gameplay)
@@ -146,8 +146,8 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 [Curse: The Eye of Isis](https://gog-games.to/game/curse_the_eye_of_isis) [▶️](https://www.youtube.com/results?search_query=Curse: The Eye of Isis+gameplay)
 [Deep Fear](https://vimm.net/vault/24404) [▶️](https://www.youtube.com/results?search_query=Deep Fear+gameplay)
 [Dino Crisis 1](https://vimm.net/vault/50840) & [2](https://vimm.net/vault/5974) [▶️](https://www.youtube.com/results?search_query=Dino Crisis+gameplay)
-[Doctor Hauzer](https://cdromance.com/3do-iso/doctor-hauzer-english-patched/) [▶️](https://www.youtube.com/results?search_query=Doctor Hauzer+gameplay)
-[Echo Night 1 & 2](https://vimm.net/vault/?p=list&q=Echo%20Night) [▶️](https://www.youtube.com/results?search_query=Echo Night+gameplay) `first person`
+[Doctor Hauzer](https://cdromance.com/3do-iso/doctor-hauzer-english-patched/) (1994) [▶️](https://www.youtube.com/results?search_query=Doctor Hauzer+gameplay)
+[Echo Night 1 & 2](https://vimm.net/vault/?p=list&q=Echo%20Night) [▶️](https://www.youtube.com/results?search_query=Echo Night+gameplay) + [Mouse support](https://github.com/garungorp/MouseInjectorDolphinDuck) `first person`
 [Ecstatica](https://www.myabandonware.com/search/q/Ecstatica) [▶️](https://www.youtube.com/results?search_query=Ecstatica+gameplay)
 [Eternal Darkness: Sanity's Requiem](https://vimm.net/vault/38126) [▶️](https://www.youtube.com/results?search_query=Eternal Darkness+gameplay)
 [Evil Dead: Hail to the King](https://vimm.net/vault/6466) [▶️](https://www.youtube.com/results?search_query=Evil Dead: Hail to the King+gameplay)
@@ -157,7 +157,7 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 [Forbidden Siren 1](https://vimm.net/vault/66617), [2](https://vimm.net/vault/66616) & [3](https://vimm.net/vault/85203) [▶️](https://www.youtube.com/results?search_query=Forbidden Siren+gameplay) `directed by Keiichiro Toyama, creator of Silent Hill`
 [Galerians](https://vimm.net/vault/6520) [▶️](https://www.youtube.com/results?search_query=Galerians+gameplay)
 [Haunting Ground](https://vimm.net/vault/8489) [▶️](https://www.youtube.com/results?search_query=Haunting Ground+gameplay)
-[Hellnight](https://vimm.net/vault/52526) [▶️](https://www.youtube.com/results?search_query=Hellnight+gameplay) `first person`
+[Hellnight](https://vimm.net/vault/52526) [▶️](https://www.youtube.com/results?search_query=Hellnight+gameplay) + [Mouse support](https://github.com/garungorp/MouseInjectorDolphinDuck) `first person`
 [Illbleed](https://vimm.net/vault/16768) [▶️](https://www.youtube.com/results?search_query=Illbleed+gameplay)
 [Kabus 22](https://www.myabandonware.com/game/kabus-22-c5d) [▶️](https://www.youtube.com/results?search_query=Kabus 22+gameplay)
 [Koudelka](https://vimm.net/vault/6630) [▶️](https://www.youtube.com/results?search_query=Koudelka+gameplay) `JRPG gameplay`
@@ -171,6 +171,7 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 [Resident Evil Classic Era: RE1](https://vimm.net/vault/50744) ([& RE1: DC](https://vimm.net/vault/17068)), [2](https://vimm.net/vault/50813), [3](https://vimm.net/vault/50736) + [0](https://vimm.net/vault/7682), [Code Veronica](https://vimm.net/vault/7686), [Outbreak 1](https://cdromance.com/ps2-iso/resident-evil-outbreak-usa/) & [2](https://cdromance.com/ps2-iso/resident-evil-outbreak-file-2/) + [RE1R](https://store.steampowered.com/app/304240/Resident_Evil/) [▶️](https://www.youtube.com/results?search_query=Resident Evil+gameplay)
 [Rule of Rose](https://vimm.net/vault/9164) [▶️](https://www.youtube.com/results?search_query=Rule of Rose+gameplay)
 [Silent Hill 1](https://vimm.net/vault/6039), [2](https://vimm.net/vault/66448), [3](https://vimm.net/vault/66558), [4](https://vimm.net/vault/66559) + [Origins](https://vimm.net/vault/9253), [Shattered Memories](https://vimm.net/vault/9254) [▶️](https://www.youtube.com/results?search_query=Silent Hill+gameplay)
+[The Note](https://vimm.net/vault/55041) [▶️](https://www.youtube.com/results?search_query=The Note PS1+gameplay) + [Mouse support](https://github.com/garungorp/MouseInjectorDolphinDuck) `first person`
 [The X-Files: Resist or Serve](https://vimm.net/vault/9843) [▶️](https://www.youtube.com/results?search_query=X-Files: Resist or Serve+gameplay)
 
 !!! info Worth mentioning: never translated/released in the West titles such as DevilMan, Enigma, etc. or games from that era with similar gameplay but different genres: Chaos Break, Chase the Express/Covert Ops: Nuclear Dawn, Deep Freeze, Hard Edge/T.R.A.G., Soul of the Samurai/Ronin Blade, Vampire Hunter D, etc. + [A YouTuber's 5 hours-long review of most RE clones](https://www.youtube.com/watch?v=7tEtCEVJt6o)
@@ -179,11 +180,12 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 
 -> ![Sweet Home](https://i.imgur.com/qLxTrI9.jpg) <-
 
-[Clock Tower 1](https://vimm.net/vault/1135) [▶️](https://www.youtube.com/results?search_query=Clock Tower+gameplay)
-[Project Firestart](https://www.myabandonware.com/game/project-firestart-5q6) [▶️](https://www.youtube.com/results?search_query=Project Firestart+gameplay)
-[Splatterhouse 1](https://www.myabandonware.com/search/q/Splatterhouse), [2](https://vimm.net/vault/2356) & [3](https://vimm.net/vault/2357) [▶️](https://www.youtube.com/results?search_query=Splatterhouse+gameplay)
-[Sweet Home](https://vimm.net/vault/844) [▶️](https://www.youtube.com/results?search_query=Sweet Home NES+gameplay)
-[War Of The Dead](https://cdromance.com/turbografx-16/shiryou-sensen-war-of-the-dead/) [▶️](https://www.youtube.com/results?search_query=War Of The Dead+gameplay)
+[Clock Tower 1](https://vimm.net/vault/6123) (1995) [▶️](https://www.youtube.com/results?search_query=Clock Tower+gameplay) `PS1 version has mouse support`
+[Laplace No Ma](https://cdromance.com/snes-rom/laplaces-demon-english-patched/) (1987-1995) [▶️](https://www.youtube.com/results?search_query=Laplace No Ma+gameplay)
+[Project Firestart](https://www.myabandonware.com/game/project-firestart-5q6) (1989) [▶️](https://www.youtube.com/results?search_query=Project Firestart+gameplay)
+[Splatterhouse 1](https://www.myabandonware.com/search/q/Splatterhouse), [2](https://vimm.net/vault/2356) & [3](https://vimm.net/vault/2357) (1988-1993) [▶️](https://www.youtube.com/results?search_query=Splatterhouse+gameplay)
+[Sweet Home](https://vimm.net/vault/844) (1989) [▶️](https://www.youtube.com/results?search_query=Sweet Home NES+gameplay)
+[War Of The Dead](https://cdromance.com/turbografx-16/shiryou-sensen-war-of-the-dead/) (1987) [▶️](https://www.youtube.com/results?search_query=War Of The Dead+gameplay)
 
 ### Survival horror - Indie homage/revival
 
@@ -209,6 +211,7 @@ Individual demos/vaporware developers to check out: Banned Memories, Becrowned, 
 
 Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by Outlast and Silent Hills P.T., etc. doesn't typically feature combat except in rare occasions. Worth mentioning that Bunker breaks the formula and features classic survival horror elements.
 
+[Alien Isolation](https://store.steampowered.com/app/214490/Alien_Isolation/) [▶️](https://www.youtube.com/results?search_query=Alien+Isolation+gameplay)
 [Amnesia: The Dark Descent](https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/), [Machine for Pigs](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/), [Rebirth](https://store.steampowered.com/app/999220/Amnesia_Rebirth/), [The Bunker](https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/) [▶️](https://www.youtube.com/results?search_query=Amnesia+gameplay)
 [Layers Of Fear](https://store.steampowered.com/app/391720/Layers_of_Fear_2016/) [▶️](https://www.youtube.com/results?search_query=Layers Of Fear+gameplay)
 [Outlast 1](https://store.steampowered.com/app/238320/Outlast/), [2](https://store.steampowered.com/app/414700/Outlast_2/) [▶️](https://www.youtube.com/results?search_query=Outlast+gameplay)
@@ -315,6 +318,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 -> ![Undying](https://i.imgur.com/Jh9E7rS.jpg) <-
 
 [American McGee's Alice 1](https://www.myabandonware.com/game/american-mcgee-s-alice-452) [▶️](https://www.youtube.com/results?search_query=American McGee's Alice+gameplay) & [Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) [▶️](https://www.youtube.com/results?search_query=alice madness returns+gameplay)
+[Alien Resurrection](https://vimm.net/vault/6088) [▶️](https://www.youtube.com/results?search_query=Aliens Resurrection+gameplay)  `native PS1 mouse support`
 [Aliens Versus Predator 2](https://www.myabandonware.com/game/aliens-versus-predator-2-bga) [▶️](https://www.youtube.com/results?search_query=Aliens Versus Predator 2+gameplay)
 [Blood](https://gog-games.to/game/blood_fresh_supply) [▶️](https://www.youtube.com/results?search_query=Blood+gameplay)
 [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/Call_of_Cthulhu_Dark_Corners_of_the_Earth/) [▶️](https://www.youtube.com/results?search_query=Call of Cthulhu: Dark Corners of the Earth+gameplay)
@@ -330,7 +334,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Realms of the Haunting](https://gog-games.to/game/realms_of_the_haunting) [▶️](https://www.youtube.com/results?search_query=Realms of the Haunting+gameplay)
 [Shadow Man](https://store.steampowered.com/app/1413870/Shadow_Man_Remastered/) [▶️](https://www.youtube.com/results?search_query=Shadow Man+gameplay)
 [Shadows of the Damned](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/Shadows%20of%20the%20Damned%20(USA,%20Europe).zip) [(via Xenia)](https://xenia.jp/download/) [▶️](https://www.youtube.com/results?search_query=Shadows of the Damned+gameplay) `co-produced by Shinji Mikami, director of RE1/4`
-[System Shock 1](https://gog-games.to/game/system_shock_enhanced) & [2](https://gog-games.to/game/system_shock_2) [▶️](https://www.youtube.com/results?search_query=System Shock+gameplay)
+[System Shock 1](https://gog-games.to/game/system_shock_enhanced), [1 Remake](https://store.steampowered.com/app/482400/System_Shock/) & [2](https://gog-games.to/game/system_shock_2) [▶️](https://www.youtube.com/results?search_query=System Shock+gameplay)
 [The Suffering 1](https://gog-games.to/game/the_suffering) & [2](https://gog-games.to/game/the_suffering_ties_that_bind) [▶️](https://www.youtube.com/results?search_query=The Suffering+gameplay)
 [The Thing](https://www.myabandonware.com/game/the-thing-bfm) [▶️](https://www.youtube.com/results?search_query=The Thing+gameplay)
 [Zombi](https://store.steampowered.com/app/339230/ZOMBI/) [▶️](https://www.youtube.com/results?search_query=Zombi+gameplay)
@@ -360,7 +364,6 @@ Zombie/horror spin-offs of popular series, like Red Dead Redemption: Undead Nigh
 [Half-Life 1: Afraid of Monsters DC](https://www.moddb.com/mods/afraid-of-monsters-dc) [▶️](https://www.youtube.com/results?search_query=Afraid of Monsters DC+gameplay) `requires a copy of Half-Life 1`
 [Half-Life 1: Cry of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/) [▶️](https://www.youtube.com/results?search_query=Cry of Fear+gameplay)
 [Half-Life 1: They Hunger](https://www.moddb.com/mods/they-hunger) [▶️](https://www.youtube.com/results?search_query=Half-Life: They Hunger+gameplay)
-[Half Life 2: Alchemilla (Silent Hill 2-inspired)](https://www.moddb.com/mods/alchemilla-mod) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Alchemilla+gameplay)
 [Half Life 2: Grey](https://www.moddb.com/mods/grey) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Grey mod+gameplay)
 [Half Life 2: Nightmare House 2](https://www.moddb.com/mods/nightmare-house-2) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Nightmare House 2+gameplay)
 [Half-Life 2: Underhell](https://www.moddb.com/mods/underhell) [▶️](https://www.youtube.com/results?search_query=Half-Life 2: Underhell+gameplay)
@@ -368,6 +371,7 @@ Zombie/horror spin-offs of popular series, like Red Dead Redemption: Undead Nigh
 [Penumbra: Necrologue](https://www.moddb.com/mods/penumbra-necrologue), [Twilight of The Archaic](https://www.moddb.com/mods/penumbra-twilight-of-the-archaic) [▶️](https://www.youtube.com/results?search_query=Penumbra: Necrologue+gameplay) `requires a copy of Amnesia TDD`
 [Resident Evil: Survivor Redux (Remake)](http://aydanwatkins.x10host.com/) [▶️](https://www.youtube.com/results?search_query=Resident Evil: Survivor Redux+gameplay) + [Containment](http://aydanwatkins.x10host.com/) [▶️](https://www.youtube.com/results?search_query=Resident Evil Containment mod+gameplay) ([T](https://twitter.com/ClassicREMods)) - [REVisited](https://www.moddb.com/mods/resident-evil-revisited) [▶️](https://www.youtube.com/results?search_query=Resident Evil revisited mod+gameplay) ([T](https://twitter.com/re_revisited)) - [RE1.5](http://re123.bplaced.net/board/viewforum.php?f=28) [▶️](https://www.youtube.com/results?search_query=Resident Evil: 1.5+gameplay)
 [SCP Containment Breach](https://www.scpcbgame.com) & [Mods](https://www.moddb.com/games/scp-containment-breach/mods) [▶️](https://www.youtube.com/results?search_query=SCP Containment Breach+gameplay)
+[Silent Hill: Alchemilla (SH2-inspired, using HL2's Source engine)](https://www.moddb.com/mods/alchemilla-mod) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Alchemilla+gameplay) & [Silent Hills: P.T. Demo Remake in Unreal Engine](https://lutris.net/games/unreal-pt/) [▶️](https://www.youtube.com/results?search_query=unreal silent hill PT remake+gameplay)
 
 ---
 

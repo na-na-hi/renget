@@ -84,6 +84,7 @@
 06/2023|[Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://arxiv.org/abs/2306.00989)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
+05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
 03/2022|[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/abs/2203.00555)
 12/2022|[A Length-Extrapolatable Transformer](https://arxiv.org/abs/2212.10554)

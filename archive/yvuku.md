@@ -43,7 +43,7 @@ https://www.youtube.com/channel/UCuVcdNat7S4hydNm0U5wuJQ
 https://twitter.com/awa7_cat
 >Minori Natsume
 Ryona AV idol married sheep. Loves guitars and watermelon
-https://www.youtube.com/channel/UCSn2V8SOK4f1tEnVT4Ft9pw
+https://www.youtube.com/@minori_72me
 https://twitter.com/minori_72me
 >Kaihou Rukuna
 Alternative punkish girl with ribbons sown into her skin
@@ -61,7 +61,7 @@ https://twitter.com/kyusai_nehan
 >Mitsuro
 Broken bratty Miyazaki-accented artist. Will bite you
 https://www.youtube.com/channel/UCQ3owMPmIjp3JELxlaJyz9g
-https://twitter.com/326thv
+https://twitter.com/326chaaaaan
 >Awayuki Milk
 Pastel guro liquid monster!
 https://www.youtube.com/c/AwayukiMilk/

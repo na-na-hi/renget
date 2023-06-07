@@ -11,7 +11,6 @@ Name|Links|Tags/Description
 ばーちゃる東和ちゃんねる|[Twitter](https://twitter.com/VIPi_towa) [Youtube](https://youtube.com/@VIPi_towa)|
 RIA|[Twitter](https://twitter.com/Ria_emoechi) [Youtube](https://www.youtube.com/@ria_emec)|
 千夜イチヤ|[Twitter](https://twitter.com/senya_1ya) [Youtube](https://www.youtube.com/@senya_1ya/streams)|
-Chloe Ch.猫小夜くろえ|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
 Levimaru ch|[Twitter](https://twitter.com/YatonoLevi) [Youtube](https://www.youtube.com/@levimaruch) [Twitch](https://www.twitch.tv/yatonolevi)|
 しゅがーぐらいだー|[Twitter](https://twitter.com/sugarrrglider) [Youtube](https://www.youtube.com/@LilySyu_PJblue)|One half of a vtuber duo
 Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charlotte_HNST) [Youtube](https://www.youtube.com/@Charlotte_Shimamura)|774inc.
@@ -24,7 +23,6 @@ Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charl
 ヴァリアナ・S・ティンガーネット|[Twitter](https://twitter.com/Valiana_s) [Youtube](https://www.youtube.com/@valiana_s)|スナックにり - Mahjong
 猫葉こば|[Twitter](https://twitter.com/Coba_Nekoba) [Twitch](https://www.twitch.tv/nekobacoba)|
 火神カナ|[Twitter](https://twitter.com/KagamiKana) [Youtube](https://www.youtube.com/@user-pe6he6do7r/streams)|
-咲田みりん Sakuta Mirin|[Twitter](https://twitter.com/Mirin_Sakuta) [Youtube](https://www.youtube.com/@Mirin_Sakuta/streams)|
 譜奏 棗 / Natsume Fukana|[Twitter](https://twitter.com/NatsumeFukana) [Youtube](https://www.youtube.com/@NatsumeFukana)|
 メルシュ -Malstrøm-|[Twitter](https://twitter.com/Malstrom_V) [Youtube](https://www.youtube.com/@malstrom/streams)|
 Jina Ch. 司波ジーナ|[Twitter](https://twitter.com/shibajina_vt) [Youtube](https://www.youtube.com/@jinach.0408/streams)|
@@ -210,6 +208,8 @@ AliothCh [EN]|[Twitter](https://twitter.com/AliothCh) [Youtube](https://www.yout
 Meltymoon_ [EN]|[Twitter](https://twitter.com/Meltymoon__) [Youtube](https://www.youtube.com/@Meltymoon) [Twitch](https://www.twitch.tv/meltymoon_)|
 JiBoVT[EN]|[Twitter](https://twitter.com/GREATBLACKOTAKU) [Youtube](https://www.youtube.com/@greatblackotaku) [Twitch](https://www.twitch.tv/greatblackotaku)|
 TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.tv/tetramh)|
+咲田みりん Sakuta Mirin [JP]|[Twitter](https://twitter.com/Mirin_Sakuta) [Youtube](https://www.youtube.com/@Mirin_Sakuta/streams)|
+Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
 
 ---
 
