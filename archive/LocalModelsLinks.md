@@ -91,6 +91,7 @@
 [Local LLM Agent with Guidance](https://github.com/QuangBK/localLLM_guidance)|Uses Guidance to create a react agent [Example](https://archive.is/nfRdN) 
 [ReLLM](https://github.com/r2d4/rellm)|Regular Expressions for Language Model Completions
 [CRITIC](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)|Self-correct with tool-interactive critique scripts (Question Answering and Program Synthesis) 
+[Honest LLaMa](https://github.com/likenneth/honest_llama)|Inference-Time Intervention shifting model activations during inference to increase accuracy
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits

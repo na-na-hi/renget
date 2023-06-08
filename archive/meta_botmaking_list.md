@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-05-31)==<-
+->==(Updated 2023-06-08)==<-
 ***
 [TOC2]
 ***
@@ -7,8 +7,8 @@
 https://rentry.org/botmaking_tips
 
 Pub: [10 Apr 2023 No.92685910](https://desuarchive.org/g/thread/92685495/#92685910)
-Edit: 26 Apr 2023 20:17 UTC
-- 564 words, 2 minutes read
+Edit: 31 May 2023 10:33 UTC
+- 510 words, 2 minutes read
 
 A very short guide explaining the basics of card fields for people who have no idea where to start. Valid for any OAI/Claude model.
 
@@ -35,8 +35,8 @@ Edit: 02 May 2023 15:26 UTC
 https://rentry.org/letsmakeabot
 
 Pub: [31 May 2023 No.93782077](https://desuarchive.org/g/thread/93781919/#93782077)
-Edit: 31 May 2023 09:59 UTC
-- 2829 words, 12 minutes read
+Edit: 01 Jun 2023 12:24 UTC
+- 2951 words, 12 minutes read
 
 *"A step-by-step process for beginners on how you could start making bots."*
 ***

@@ -193,11 +193,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
-	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
-	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu)
+	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4) *Not on Table*
+	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
+	* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) *Not on Table, Non-Canon*
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -391,6 +392,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t)
 * [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 * [An Overelming Week](https://rentry.org/overelming)
+* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

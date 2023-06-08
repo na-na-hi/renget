@@ -31,11 +31,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Genoo](https://rentry.org/295se) | Sizeplay |[Asuna and Karin](https://files.catbox.moe/e5tria.png), [Hitori Gotoh](https://files.catbox.moe/wn2p9l.png), [Rosaria](https://files.catbox.moe/iyw0r5.png)|[Raiden Shogun](https://files.catbox.moe/9fh867.png)
 [CptPants](https://rentry.org/CptPants) | Misc |[YorRHa 9S](https://files.catbox.moe/1j04bz.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Fennec Family](https://files.catbox.moe/4sidrd.png)|[bargain bin oyakodon](https://files.catbox.moe/hyl4q5.png)
-[Nevtelen](https://rentry.org/Nevtelen) | Misc |[Calypso](https://files.catbox.moe/lexqhz.png)|
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||[Takka](https://files.catbox.moe/c8fj38.png), [Trish](https://files.catbox.moe/rxsne8.png), [Kairi](https://files.catbox.moe/1s3l9n.png), [Reina](https://files.catbox.moe/fjuorc.png)
+[Nevtelen](https://rentry.org/Nevtelen) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||

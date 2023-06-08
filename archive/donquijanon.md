@@ -251,6 +251,11 @@ Card: https://www.chub.ai/characters/donquijanon/Yohualli
 Example of a message, even if it got the OC wrong, it's still good.
 https://www.chub.ai/characters/donquijanon/mictlan-cemetery
 
+### Carmen Domínguez Mendoza
+->![carmen](https://git.chub.ai/donquijanon/Carmen/-/raw/e9f077f79926739716b0e759a7ef3944fedd33d6/raw/tavern_raw.png)<-
+->![ex2](https://files.catbox.moe/z5xa7h.png)<-
+Tall, kind, and with thighs that can crush watermelons. 32 year old single P.E. teacher by day, famous Mexican wrestler 'La Tormenta' by night.
+
 ## The Door
 ->![door](https://files.catbox.moe/9k7gal.png)<-
 Made as an experiment to test chance and randomness. Each time you open it, something different will be on the other side.

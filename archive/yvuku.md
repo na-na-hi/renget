@@ -23,6 +23,10 @@ https://twitter.com/ryonaxlove
 Young boy wanting to be tested on
 https://www.youtube.com/channel/UCnI8I67HTiMUgkBLd9rDmwQ
 https://twitter.com/ryouna_ryona917
+>Azekura Chikage
+wip
+https://twitter.com/azkr_chikage
+https://www.youtube.com/@AzekuraChikage
 ***
 Hotcake Yakiagarimachi
 Indie circle. Visitors from a dark dimension established a confectionery to harvest negative emotions

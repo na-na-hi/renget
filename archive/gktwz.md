@@ -23,6 +23,7 @@
 [Retro MILF [07/Apr/2023]](https://files.catbox.moe/rhrj5u.safetensors)
 [Rin Tezuka, Katawa Shoujo [07/Apr/2023]](https://files.catbox.moe/p6hdpn.safetensors)
 [Rouge the Bat, Sonic [07/Apr/2023]](https://files.catbox.moe/q4i21k.safetensors)
+[Tatsumaki, One Punch Man [08/Jun/2023]](https://files.catbox.moe/lc33d9.safetensors)
 [Wolf Anthro Male [07/Apr/2023]](https://files.catbox.moe/o35d5p.safetensors)
 ##Concepts
 [Cunnilingus [28/Apr/2023]](https://files.catbox.moe/q7ngt0.safetensors)

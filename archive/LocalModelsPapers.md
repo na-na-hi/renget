@@ -158,6 +158,7 @@
 12/2019|[Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection](https://arxiv.org/abs/1912.11637)
 02/2020|[On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
 06/2020|[Memory Transformer](https://arxiv.org/abs/2006.11527)
+07/2020|[Mirostat: A Neural Text Decoding Algorithm that Directly Controls Perplexity](https://arxiv.org/abs/2007.14966)
 12/2020|[ERNIE-Doc: A Retrospective Long-Document Modeling Transformer](https://arxiv.org/abs/2012.15688)
 01/2021|[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
 03/2021|[The Low-Rank Simplicity Bias in Deep Networks](https://arxiv.org/abs/2103.10427)
@@ -252,6 +253,8 @@
 06/2023|[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)
 06/2023|[SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](https://arxiv.org/abs/2306.03078)
 06/2023|[Fine-Tuning Language Models with Advantage-Induced Policy Alignment](https://arxiv.org/abs/2306.02231)
+06/2023|[Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/abs/2306.04488)
+06/2023|[Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

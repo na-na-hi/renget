@@ -2,6 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+June 8th | Gloria & Marnie (Couple) [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 May 24th | Jessie (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher) \| Mallow (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
 May 20th | Wicke [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke) \| Hex Maniac Helena (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
 May 19th | Melony [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
@@ -26,6 +27,7 @@ Characters | URLs
 **Mallow** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
 **Wicke** | [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
 Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
+**Gloria** & **Marnie** (Couple) | [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
 **Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [Chub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 

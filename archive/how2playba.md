@@ -5,7 +5,7 @@ Scroll to the bottom for my last edit date.
 [TOC] 
 
 ##Top Tips 
-- Match colours
+- Match colours (e.g. red enemy = use red units) 
 - Read the story (it's fun) 
 - Rush through normal missions to unlock cafe upgrades and game modes 
 - Splurge ur AP. 1 AP = 1 XP, so get rid of it as fast as you can. 
