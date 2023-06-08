@@ -121,6 +121,10 @@ powershell -Command "& {Get-ChildItem -Recurse | Where-Object{$_.Name -match '@\
 ```bash
 rename 's/_(\d{19})/-$1/' *
 ```
+Untested recursive variant:
+```bash
+find . -type f -exec rename 's/_(\d{19})/-$1/' '{}' \;
+```
 
 #4chan-x Edit: Better Page Info (Purge Position)
 ![](https://files.catbox.moe/3azond.png)

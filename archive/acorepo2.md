@@ -100,6 +100,42 @@ https://civitai.com/models/54714/scworld-of-warcraftvoljin
 - Thrall
 https://civitai.com/models/55438/scworld-of-warcraftthrall
 
+# Dota 2
+
+- Enchantress
+https://civitai.com/models/43148/enchantress-dota-2
+- Crystal Maiden
+https://civitai.com/models/19220/crystal-maiden-dota-2
+- Lina
+https://civitai.com/models/42835/lina-dota-2
+- Dawnbreaker
+https://civitai.com/models/43669/dawnbreaker-from-dota-2
+- Vengeful Spirit
+https://civitai.com/models/43626/vengeful-spirit-dota-2
+- Dark Willow
+https://civitai.com/models/18057/dark-willow-dota-2-lora-wip
+- Antimage
+https://civitai.com/models/46377/antimage-persona-wei-from-dota-2
+- Windranger
+https://civitai.com/models/21912/windranger-arcana-dota-lora
+- Drow Ranger
+https://civitai.com/models/27705/traxex-the-drow-ranger-dota2-lora
+- Muerta
+https://civitai.com/models/41186/muerta-from-dota-2
+- Netflix series
+	+ Lina 
+https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
+	+ Marci
+https://civitai.com/models/20678/marci-dota-2-lora-wip
+https://civitai.com/models/16219/marci-dota-dragons-blood
+	+ Mirana
+https://civitai.com/models/24894/mirana-dota-dragons-blood
+https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
+	+ Fymryn 
+https://civitai.com/models/40669/fymryn-dota-dragons-blood
+	- Filomena
+https://civitai.com/models/48082/filomena-dota-dragons-blood
+
 # Homestuck fan art
 
 - Aradia Megido

@@ -12,7 +12,7 @@ Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
 Wide Hips (30/30)| Delicious child-bearing hips are what the world needs. | Casual | 1243 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio. Stay comfy, lads.
 つるぺったん (18/30) | A somewhat more serious clan. Coordination is done through  [matrix](https://matrix.org/). | Aiming for Top 300 | 1894 (A) |  -
-Ayumisters (29/30) | For homeless misters and armpit enthusiasts | Casual | 2858 (A) | -
+Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | 2858 (A) | -
 Fun Island (24/30) | Kokkoro is the cutest. | Casual | 5240 (BB) |  Just be yourself. + tag in profile
 LooBBlets (15/30) | Dreaming of comfy S pastures| Casual | 5416 (BB) |  Just have fun with the game. Not aiming for glory or ranks just yet.
 

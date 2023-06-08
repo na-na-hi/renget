@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+Togetic and Cyndaquil dressed as Greek philosophers arguing over if traps are gay
+
 Native Pokemon unknowingly following their instincts.
 
 Clara fighting with one of the guildmembers

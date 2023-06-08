@@ -55,7 +55,7 @@ A boy meets a dragon in a dream... then becomes one himself. Forced to hide from
 ‎
 **Dragons of Etra** (2021-2022) by Chester Young
 Fantasy (xenofiction)
-A Wings of Fire-esque novel in which most dragons have an element and those that don't are superstitiously seen as bad omens, usually murdered upon hatching, save for the main protagonist who is able to survive until adulthood. The first book hits all of the standard cliches of a typical rogue/assassin fantasy and the series as a whole seems to be attempting to achieve a world record of cramming as many dragon tropes as possible in the entirety of 2 books.
+A Wings of Fire-esque novel in which most dragons have an element and those that don't are superstitiously seen as bad omens, usually murdered upon hatching, save for the main protagonist who is able to survive until adulthood. The first book hits all of the standard cliches of a typical rogue/assassin fantasy and the series as a whole seems to be attempting to achieve a world record of cramming as many dragon tropes as possible in the entirety of 2 books. The author does has a passion for rider (bonding) and dragon pov stories, and even keeps his own list of dragon literature on his website.
 **Dragons of Etra Book 1: The Forgotten Element**
 *no ISBN, e-book only*
 > **DC 4.75/5**
@@ -63,7 +63,7 @@ A Wings of Fire-esque novel in which most dragons have an element and those that
 > **CA 5/5**
 > See above. Wyvern-riding and mental bonding exists in the second novel, however.
 > **PS 2/5**
-> Dragons have their own deities and such but at a certain point, you're going to think you're reading about humans in big scaly costumes dealing with human socioeconomic issues in a typical medieval monarchy (with thieves guilds). Its not like the author doesn't try, as the novel does briefly detail worldbuilding like weapon attachments on wings and in one instance, vertical city sprawl (also minor differences in linguistics and thought) but it sort of does run into the same pitfalls as Wings of Fire. Despite its flaws, the author does have a passion for rider (bonding) and dragon pov stories, and even keeps his own list of dragon literature on his website.
+> Sort of does run into the same pitfalls as Wings of Fire where dragons seem to have almost the same socioeconomic issues and societies as humans.
 ‎
 **Fire of the Phoenix** (2021) by Azariah Jade
 Fantasy (xenofiction)

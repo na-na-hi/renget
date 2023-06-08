@@ -169,6 +169,11 @@ Recommended to use this UJB, with it.
 ![faggot](https://files.catbox.moe/pvrjln.png)
 https://files.catbox.moe/pvrjln.png
 
+##### Daniel Siegel [fag]
+Proof that there should be more bullying in schools and maybe college too.
+![faggot2](https://files.catbox.moe/bgvhze.png)
+https://files.catbox.moe/bgvhze.png
+
 ##### Midnight Moms [OC]
 XML tag experiment. Also, the last preggo card you'll probably need. Just request your preggo bartender and seduce her. This card existed as a character named "Aya" by preganon. And it was used as a base, along with Bitch Control App. However it still is my first non-character card so feedback is most appreciated. Using the UJB is necessary
 [Pay close attention to <{{char}}>. Always insert a character profile when a character that works at {{char}} is introduced, at the start of the response. Write with a limit of 3000 characters.]

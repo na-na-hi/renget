@@ -8,8 +8,10 @@ Scroll to the bottom for my last edit date.
 - Match colours
 - Read the story (it's fun) 
 - Rush through normal missions to unlock cafe upgrades and game modes 
-- Take advantage of the school bonuses in Bounties, and use CC
-- Join a club. There's no clan tryharding or an obligation to talk. 
+- Splurge ur AP. 1 AP = 1 XP, so get rid of it as fast as you can. 
+- Take advantage of the school bonuses and use CC in Bounty 
+- Join a club. There's no clan tryharding or an obligation to talk.
+
 
 ## Downloading/Setting up the game
 

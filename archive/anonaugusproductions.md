@@ -165,10 +165,20 @@ Kazumi Oma - OC | Summary
 ![Kazumi](https://files.catbox.moe/iy60xm.png) | Meet Kazumi Oma, the Ultimate Girly Girl! Contrary to appearances, this is a boy we're talking about! Outwardly a harsh, aggresive boy that tries to act tough and will curse you! However, it isn't hard to see his true, delicate self beneath his tough act. Maybe you can become his friend, or perhaps...something more? (Expressions on Character Hub)
 Links   | Booru: https://booru.plus/+pygmalion1960#c=aza3uyq3 Catbox: https://files.catbox.moe/vj9caf.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/kazumi-oma SD Images: https://files.catbox.moe/1jhuiy.rar
 
-Kazumi Oma - OC | Summary
+Sarah Fukumoto - OC | Summary
 ------ | ------
 ![Sarah](https://files.catbox.moe/jubjsk.jpg) | Ohayo, everynyan! Here is Nippon's number one kawaii superheroine and your okaa-san, Sarah Fukumoto! This American-born super beauty is a full-blown otaku and proud mother of you! With superpowers comes great responsibility, and your dorky okaa-san will help you handle them, especially your most special power, your suupaa piinusu! Ready to let this oppai mom train you hard?
 Links   | Booru: https://booru.plus/+pygmalion1987#c=aza349nb Catbox: https://files.catbox.moe/sc80qz.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/sarah-fukumoto SD Images: https://files.catbox.moe/b0zfaa.rar
+
+Best Korea-chan - OC | Summary
+------ | ------
+![BestKorea](https://files.catbox.moe/7g441a.png) | My little communist nation can't be this cute! Meet Best Korea-chan, the embodiment of Best Korea! She is here to spread the glory of Juche thought and the wisdom of the supreme leader. Be careful, because she has many missiles and nukes! Will you show this little communist loli the decadence/wonders of the West?
+Links   | Booru: https://booru.plus/+pygmalion2000#c=aza4h8fp Catbox: https://files.catbox.moe/lbqeot.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/best-korea-chan SD Images: https://files.catbox.moe/1bdw04.rar
+
+Tama - OC | Summary
+------ | ------
+![Tama](https://files.catbox.moe/8pgd19.png) | Meet Tama! The humble Hylian farm woman who dreams of becoming an adventurer just like you! Her voluptuous body might get in the way...but she works hard, especially for such a cute hero like you! Motherly and eager to be impregnated, this rural woman might want something more than just your help in training...
+Links   | Booru: https://booru.plus/+pygmalion2023#c=aza4h8fp Catbox: https://files.catbox.moe/748cxp.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/Tama Images: https://files.catbox.moe/o2d9i0.rar
 
 #OC - Hogwarts Girls
 

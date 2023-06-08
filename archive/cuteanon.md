@@ -2,6 +2,7 @@ cute anon's shill rentry for you to read and enjoy
 
 Cards:
 
+Mario & Luigi: https://www.chub.ai/characters/CuteAnon/mario-and-luigi/main
 Paper Mario: https://www.characterhub.org/characters/Anonymous/paper-mario
 Murasa Minamitsu: https://www.characterhub.org/characters/Anonymous/murasa-minamitsu
 Starborn: https://www.characterhub.org/characters/Anonymous/Starborn

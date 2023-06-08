@@ -73,7 +73,7 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
-### 🐐 [rinzry](https://rinzry.stream/) • Site Maintenance
+### ⁉️ [rinzry](https://rinzry.stream/) • Site Maintenance
 - Great option for streaming or downloading high-quality movies and series, but has a Google API quota limit for each file every 24 hours.
 - [URL Safety Results](https://www.urlvoid.com/scan/rinzry.stream/)
 
@@ -160,10 +160,6 @@
 ### ▶️ [Hurawatch](https://hurawatch.cc/)
 - One of the most popular and easily navigable websites, it provides free HD streaming of films and TV shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/hurawatch.cc/)
-
-### 🐐 [Justchill](https://www.justchill.tv/)
-- With blazing fast speeds, users may access many movies and web series, the majority of which are available in high definition.
-- [URL Safety Results](https://www.urlvoid.com/scan/justchill.tv/)
 
 ### ▶️ [KimCartoon](https://kimcartoon.li/)
 - This service, which streams both classic and contemporary cartoons, is a real treat for everyone who enjoys cartoons.
