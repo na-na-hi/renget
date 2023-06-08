@@ -158,6 +158,7 @@
 12/2019|[Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection](https://arxiv.org/abs/1912.11637)
 02/2020|[On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
 06/2020|[Memory Transformer](https://arxiv.org/abs/2006.11527)
+07/2020|[Mirostat: A Neural Text Decoding Algorithm that Directly Controls Perplexity](https://arxiv.org/abs/2007.14966)
 12/2020|[ERNIE-Doc: A Retrospective Long-Document Modeling Transformer](https://arxiv.org/abs/2012.15688)
 01/2021|[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
 03/2021|[The Low-Rank Simplicity Bias in Deep Networks](https://arxiv.org/abs/2103.10427)

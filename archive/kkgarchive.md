@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 08.06.2023 04:30 UTC]
+[Last Updated: 08.06.2023 10:45 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7412815/](https://boards.4chan.org/h/thread/7412815/)
+Current thread - [boards.4chan.org/h/thread/7417602/](https://boards.4chan.org/h/thread/7417602/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Study hard Edition
 - 591&nbsp;&nbsp;[archiveofsins.com/h/thread/7412815/](https://archiveofsins.com/h/thread/7412815/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2023 10:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Dated Memes Edition
 - 590&nbsp;&nbsp;[archiveofsins.com/h/thread/7408966/](https://archiveofsins.com/h/thread/7408966/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:32)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;WATCHOUT WATCHOUT Edition
-- 589&nbsp;&nbsp;[archiveofsins.com/h/thread/7404753/](https://archiveofsins.com/h/thread/7404753/)&nbsp;&nbsp;&nbsp;&nbsp;(31.05.2023 20:20)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Headmod Edition
+- 589&nbsp;&nbsp;[archiveofsins.com/h/thread/7404753/](https://archiveofsins.com/h/thread/7404753/)&nbsp;&nbsp;&nbsp;&nbsp;(31.05.2023 20:20)&nbsp;&nbsp;[1107]&nbsp;#&nbsp;Headmod Edition
 - 588&nbsp;&nbsp;[archiveofsins.com/h/thread/7400176/](https://archiveofsins.com/h/thread/7400176/)&nbsp;&nbsp;&nbsp;&nbsp;(29.05.2023 04:17)&nbsp;&nbsp;[1020]&nbsp;#&nbsp;Monday Thread Edition
-- 587&nbsp;&nbsp;[archiveofsins.com/h/thread/7395028/](https://archiveofsins.com/h/thread/7395028/)&nbsp;&nbsp;&nbsp;&nbsp;(25.05.2023 21:14)&nbsp;&nbsp;[1066]&nbsp;#&nbsp;Webm Edition
 ---
 Archive:
 
+- 587&nbsp;&nbsp;[archiveofsins.com/h/thread/7395028/](https://archiveofsins.com/h/thread/7395028/)&nbsp;&nbsp;&nbsp;&nbsp;(25.05.2023 21:14)&nbsp;&nbsp;[1066]&nbsp;#&nbsp;Webm Edition
 - 586&nbsp;&nbsp;[archiveofsins.com/h/thread/7390691/](https://archiveofsins.com/h/thread/7390691/)&nbsp;&nbsp;&nbsp;&nbsp;(23.05.2023 02:32)&nbsp;&nbsp;[1077]&nbsp;#&nbsp;Go Me! Edition
 - 585&nbsp;&nbsp;[archiveofsins.com/h/thread/7385418/](https://archiveofsins.com/h/thread/7385418/)&nbsp;&nbsp;&nbsp;&nbsp;(20.05.2023 14:02)&nbsp;&nbsp;[1075]&nbsp;#&nbsp;Everything in its right place edition.
 - 584&nbsp;&nbsp;[archiveofsins.com/h/thread/7380232/](https://archiveofsins.com/h/thread/7380232/)&nbsp;&nbsp;&nbsp;&nbsp;(17.05.2023 10:41)&nbsp;&nbsp;[1010]&nbsp;#&nbsp;Oyabun Chika edition.

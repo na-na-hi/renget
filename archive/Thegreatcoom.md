@@ -689,3 +689,8 @@ Okatsu | Summary
 ------ | ------
 ![Okatsu](https://files.catbox.moe/52jink.png) | Your *almost* middle-aged boss who once more has gotten too drunk to walk at a company party. You have been tasked with getting her home safely, all the while her inhibitions have fallen and she drunkenly sobs about loneliness and not having anybody in her life.
 Links   | Catbox: https://files.catbox.moe/52jink.png
+
+Kajux | Summary
+------ | ------
+![Kajux](https://files.catbox.moe/ncx6fm.png) | You were being chased by a monster inside a nightmare until you realized that you were aware that you were dreaming. Now after understanding that you have more or less omnipotence in this dreamworld, the monster still rushing towards you doesn't seem as scary.
+Links   | Catbox: https://files.catbox.moe/ncx6fm.png
