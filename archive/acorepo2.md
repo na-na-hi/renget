@@ -9,13 +9,13 @@ https://civitai.com/models/44587/ashe-overwatch-lora
 https://civitai.com/models/6029/sxz-ashe-overwatch
 + Brigitte
 https://civitai.com/models/29302/brigitte-overwatch-lora
-https://civitai.com/models/56446/brigitte-overwatch-wrise
-https://civitai.com/models/4532/corneos-brigitte-overwatch-embedding
+https://civitai.com/models/28729/brigitte-overwatch
+https://civitai.com/models/4532/corneos-brigitte-overwatch-embedding (TI)
 - Dva
 https://civitai.com/models/13799/dva-overwatch-lora
 https://civitai.com/models/51059/dva-overwatch-wrise
 https://civitai.com/models/11230/dva-overwatch
-https://civitai.com/models/4434/corneos-dva-overwatch-embedding
+https://civitai.com/models/4434/corneos-dva-overwatch-embedding (TI)
 + Junker Queen
 https://civitai.com/models/15559/sxz-junker-queen-overwatch
 - Kiriko
@@ -25,11 +25,11 @@ https://civitai.com/models/1475/kiriko-overwatch-2
 - Mei
 https://civitai.com/models/14442/mei-overwatch-lora
 https://civitai.com/models/55679/mei-overwatch-wrise
-https://civitai.com/models/26367/overwatch-mei
+https://civitai.com/models/26367/overwatch-mei (TI)
 - Mercy 
 https://civitai.com/models/20465/mercy-overwatch-lora
 https://civitai.com/models/48479/mercy-overwatch-wrise
-https://civitai.com/models/4597/corneos-mercy-overwatch-embedding
+https://civitai.com/models/4597/corneos-mercy-overwatch-embedding (TI)
 - Moira
 https://civitai.com/models/19078/moira-overwatch-lora
 - Pharah
@@ -46,11 +46,12 @@ https://civitai.com/models/59758/symmetra-overwatch-wrise
 - Tracer
 https://civitai.com/models/22574/tracer-overwatch-lora
 https://civitai.com/models/46698/tracer-overwatch-wrise
-https://civitai.com/models/5593/corneos-tracer-overwatch-ti-embedding
+https://civitai.com/models/5593/corneos-tracer-overwatch-ti-embedding (TI)
 - Widowmaker
 https://civitai.com/models/11989/widowmaker-overwatch-lora
+https://civitai.com/models/13753/characterwidowmaker-overwatch-3-in-1
 https://civitai.com/models/53201/widowmaker-overwatch-wrise
-https://civitai.com/models/4500/corneos-widowmaker-overwatch-embedding
+https://civitai.com/models/4500/corneos-widowmaker-overwatch-embedding (TI)
 	+ *outfit*
 https://civitai.com/models/59780/widowmaker-outfit-or-overwatch
 - McCree
@@ -61,6 +62,10 @@ https://civitai.com/models/24462/reaper-overwatch-lora
 https://civitai.com/models/17864/reinhardt-overwatch-lora
 - Soldier 76
 https://civitai.com/models/61084/soldier-76-overwatch-lora
+
+
+---
+
 
 # Warcraft & World of Warcraft
 
@@ -100,6 +105,10 @@ https://civitai.com/models/54714/scworld-of-warcraftvoljin
 - Thrall
 https://civitai.com/models/55438/scworld-of-warcraftthrall
 
+
+---
+
+
 # Dota 2
 
 - Enchantress
@@ -135,6 +144,10 @@ https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 https://civitai.com/models/40669/fymryn-dota-dragons-blood
 	- Filomena
 https://civitai.com/models/48082/filomena-dota-dragons-blood
+
+
+---
+
 
 # Homestuck fan art
 

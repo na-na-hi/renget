@@ -3,7 +3,7 @@
 !!! danger
 ##Info
 - ↘️↘️↘️↘️
-	- This is a publicly editable version of this rentry, click `edit` at the bottom. The edit code is `4chan` You may also export this to create non CSP variants  using this layout.
+	- **This is a publicly editable version of this rentry, click `edit` at the bottom. The edit code is `4chan` You may also export this to create non CSP variants  using this layout.**
 - Textures can be exported by applying to default brushes and exporting but ==3D models as of yet have no convenient way of being shared.==
   - Probably a way by going into your appdata folder.
 - If there is no name then there is no links. It's a space holder. If the DL link goes nowhere then I haven't uploaded yet.
@@ -11,7 +11,6 @@
 [TOC]
 ***
 # Asset store
-!!! info Some brushes may be outdated. I can only update brushes that I have purchased myself. Will mark with (🪄)
 !!! Warning If you like a brush you may want to support by liking the brush in store and maybe purchasing if you have clippies to spare.
 ##Free Recommended
  Name | Store Link | Thumbnail
@@ -30,24 +29,24 @@
 - Personal top tier recommendations are the hatching ones from [苺あんこ](https://assets.clip-studio.com/en-us/search?user=%E8%8B%BA%E3%81%82%E3%82%93%E3%81%93%E3%81%93&order=new)
  Name | ID | Store Link | DL | Thumbnail
  ----: | :----: | :----: | :----: | :----:
-**Rain brush🪄**|[1744323]|[Store](https://assets.clip-studio.com/en-us/detail?id=1744323)|[DL](https://pixeldrain.com/u/GpEzg1ES)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/43/1744323/thumbnail)
-**Sweat brush🪄**|[1790153]|[Store](https://assets.clip-studio.com/en-us/detail?id=1790153)|[DL](https://pixeldrain.com/u/iUnTQe7u)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/01/1790153/thumbnail)
-**Scar brush🪄**|[1913968]|[Store](https://assets.clip-studio.com/en-us/detail?id=1913968)|[DL](https://pixeldrain.com/u/ujUzJAvu)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/39/1913968/thumbnail)
-**Cum brushes🪄**|[1812155]|[Store](https://assets.clip-studio.com/en-us/detail?id=1812155)|[DL](https://pixeldrain.com/u/mczU4QJP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/21/1812155/thumbnail)
-**Duotone pens🪄**|[1772325]|[Store](https://assets.clip-studio.com/en-us/detail?id=1772325)|[DL](https://pixeldrain.com/u/rzZciLUE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/23/1772325/thumbnail)
-**CHARCOAL Pack🪄**| [1895565]|[Store](https://assets.clip-studio.com/en-us/detail?id=1895565)|[DL](https://pixeldrain.com/u/FfVtR88X)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/55/1895565/thumbnail)
-**Depth hatching pen**🪄| [1773193]|[Store](https://assets.clip-studio.com/en-us/detail?id=1773193)|[DL](https://pixeldrain.com/u/4yP6wfs3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/93/31/1773193/thumbnail)
-**The terrible hatch pen🪄**| [1852751]|[Store](https://assets.clip-studio.com/en-us/detail?id=1852751)|[DL](https://pixeldrain.com/u/cCqLWkFc)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/27/1852751/thumbnail)
-**The terrible hatch pen==(GOLD)==🪄**|[1938898]|[Store]()|[DL](https://pixeldrain.com/u/T2h98S8K)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/27/1852751/thumbnail)
-**solid pen with a terrible🪄**| [1916194]|[Store](https://assets.clip-studio.com/en-us/detail?id=1916194)|[DL](https://pixeldrain.com/u/inHSFi1T)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/94/61/1916194/thumbnail)
-**solid pen with an impossible🪄**| [1922222]|[Store](https://assets.clip-studio.com/en-us/detail?id=1922222)|[DL](https://pixeldrain.com/u/Fy7zkyfE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/22/1922222/thumbnail)
-**Hoarse Betta eraser for Pandemonium🪄**| [1691265]|[Store](https://assets.clip-studio.com/en-us/detail?id=1691265)|[DL](https://pixeldrain.com/u/7G7FhdS9)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/12/1691265/thumbnail)
-**This is a very deep hatch pen.🪄**| [1798846]|[Store](https://assets.clip-studio.com/en-us/detail?id=1798846)|[DL](https://pixeldrain.com/u/YNMvLVyE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/46/88/1798846/thumbnail)
-**A hatch pen with a heavy weight🪄**| [1894699]|[Store](https://assets.clip-studio.com/en-us/detail?id=1894699)|[DL](https://pixeldrain.com/u/Xv1MZD82)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/46/1894699/thumbnail)
-**A hatch pen with a heavy weight==(GOLD)==🪄**|[1938902]|[Store](https://assets.clip-studio.com/en-us/detail?id=1938902)|[DL](https://pixeldrain.com/u/7bxHkZDv)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/46/1894699/thumbnail)
-**Gauze pen with impossible weight🪄**| [1875808]|[Store](https://assets.clip-studio.com/en-us/detail?id=1875808)|[DL](https://pixeldrain.com/u/yb4FN8Gm)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/58/1875808/thumbnail)
-**Gauze pen with a deep depth🪄**| [1872642]|[Store](https://assets.clip-studio.com/en-us/detail?id=1872642)|[DL](https://pixeldrain.com/u/Z1BFEPS1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/26/1872642/thumbnail)
-**All out for the pandemonium pen**🪄| [1820131]|[Store](https://assets.clip-studio.com/en-us/detail?id=1820131)|[DL](https://pixeldrain.com/u/ZVH5ETSb)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/01/1820131/thumbnail)
+**Rain brush**|[1744323]|[Store](https://assets.clip-studio.com/en-us/detail?id=1744323)|[DL](https://pixeldrain.com/u/GpEzg1ES)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/43/1744323/thumbnail)
+**Sweat brush**|[1790153]|[Store](https://assets.clip-studio.com/en-us/detail?id=1790153)|[DL](https://pixeldrain.com/u/iUnTQe7u)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/01/1790153/thumbnail)
+**Scar brush**|[1913968]|[Store](https://assets.clip-studio.com/en-us/detail?id=1913968)|[DL](https://pixeldrain.com/u/ujUzJAvu)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/39/1913968/thumbnail)
+**Cum brushes**|[1812155]|[Store](https://assets.clip-studio.com/en-us/detail?id=1812155)|[DL](https://pixeldrain.com/u/mczU4QJP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/21/1812155/thumbnail)
+**Duotone pens**|[1772325]|[Store](https://assets.clip-studio.com/en-us/detail?id=1772325)|[DL](https://pixeldrain.com/u/rzZciLUE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/23/1772325/thumbnail)
+**CHARCOAL Pack**| [1895565]|[Store](https://assets.clip-studio.com/en-us/detail?id=1895565)|[DL](https://pixeldrain.com/u/FfVtR88X)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/55/1895565/thumbnail)
+**Depth hatching pen**| [1773193]|[Store](https://assets.clip-studio.com/en-us/detail?id=1773193)|[DL](https://pixeldrain.com/u/4yP6wfs3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/93/31/1773193/thumbnail)
+**The terrible hatch pen**| [1852751]|[Store](https://assets.clip-studio.com/en-us/detail?id=1852751)|[DL](https://pixeldrain.com/u/cCqLWkFc)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/27/1852751/thumbnail)
+**The terrible hatch pen==(GOLD)==**|[1938898]|[Store]()|[DL](https://pixeldrain.com/u/T2h98S8K)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/27/1852751/thumbnail)
+**solid pen with a terrible**| [1916194]|[Store](https://assets.clip-studio.com/en-us/detail?id=1916194)|[DL](https://pixeldrain.com/u/inHSFi1T)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/94/61/1916194/thumbnail)
+**solid pen with an impossible**| [1922222]|[Store](https://assets.clip-studio.com/en-us/detail?id=1922222)|[DL](https://pixeldrain.com/u/Fy7zkyfE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/22/1922222/thumbnail)
+**Hoarse Betta eraser for Pandemonium**| [1691265]|[Store](https://assets.clip-studio.com/en-us/detail?id=1691265)|[DL](https://pixeldrain.com/u/7G7FhdS9)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/12/1691265/thumbnail)
+**This is a very deep hatch pen.**| [1798846]|[Store](https://assets.clip-studio.com/en-us/detail?id=1798846)|[DL](https://pixeldrain.com/u/YNMvLVyE)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/46/88/1798846/thumbnail)
+**A hatch pen with a heavy weight**| [1894699]|[Store](https://assets.clip-studio.com/en-us/detail?id=1894699)|[DL](https://pixeldrain.com/u/Xv1MZD82)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/46/1894699/thumbnail)
+**A hatch pen with a heavy weight==(GOLD)==**|[1938902]|[Store](https://assets.clip-studio.com/en-us/detail?id=1938902)|[DL](https://pixeldrain.com/u/7bxHkZDv)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/46/1894699/thumbnail)
+**Gauze pen with impossible weight**| [1875808]|[Store](https://assets.clip-studio.com/en-us/detail?id=1875808)|[DL](https://pixeldrain.com/u/yb4FN8Gm)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/58/1875808/thumbnail)
+**Gauze pen with a deep depth**| [1872642]|[Store](https://assets.clip-studio.com/en-us/detail?id=1872642)|[DL](https://pixeldrain.com/u/Z1BFEPS1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/26/1872642/thumbnail)
+**All out for the pandemonium pen**| [1820131]|[Store](https://assets.clip-studio.com/en-us/detail?id=1820131)|[DL](https://pixeldrain.com/u/ZVH5ETSb)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/01/1820131/thumbnail)
 **Crystal brush**|[1788949]|[Store](https://assets.clip-studio.com/en-us/detail?id=1788949)|[DL](https://pixeldrain.com/u/N1xZd7P1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/89/1788949/thumbnail)
 **MAGUPEN**|[1910059]|[Store](https://assets.clip-studio.com/en-us/detail?id=1910059)|[DL](https://pixeldrain.com/u/uFB8HieF)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/00/1910059/thumbnail)
 **Gel pen/color presets**|[1738505]|[Store](https://assets.clip-studio.com/en-us/detail?id=1738505)|[DL](https://pixeldrain.com/u/rAss34w4)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail)
@@ -68,12 +67,12 @@
 **10 kinds of frills laced ribbon brushes**|[1904047]|[Store](https://assets.clip-studio.com/en-us/detail?id=1904047)|[DL](http://files.catbox.moe/jurpgg.zip)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/40/1904047/thumbnail)
 **22 kinds of seam-like brush breaks**|[1945465]|[Store](https://assets.clip-studio.com/en-us/detail?id=1945465)|[DL](https://files.catbox.moe/wnyup0.zip)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/54/1945465/thumbnail)
 **Drew Kai**|[1895073]|[Store](https://assets.clip-studio.com/en-us/detail?id=1895073)|[DL](http://files.catbox.moe/jff21n.zip)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/50/1895073/thumbnail?1643278695)
-**Rain Line Brush Set🪄**|[1926651]|[Store](https://assets.clip-studio.com/en-us/detail?id=1926651)|[DL](https://pixeldrain.com/u/FJUudU4r)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/66/1926651/thumbnail)
-**pennnn🪄**|[1800628]|[Store](https://assets.clip-studio.com/en-us/detail?id=1800628)|[DL](https://pixeldrain.com/u/vTzYY5YY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/28/06/1800628/thumbnail?1633742425)
-**Line Marker🪄**|[1704554]|[Store](https://assets.clip-studio.com/en-us/detail?id=1704554)|[DL](https://pixeldrain.com/u/HbSwDWRF)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/45/1704554/thumbnail)
-**Coo Pen🪄**|[1788256]|[Store](https://assets.clip-studio.com/en-us/detail?id=1788256)|[DL](https://pixeldrain.com/u/Gk65i4FK)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/82/1788256/thumbnail?1622324463)
-**Crochet Border Pack 1.3🪄**|[1915252]|[Store](https://assets.clip-studio.com/en-us/detail?id=1915252)|[DL](https://pixeldrain.com/u/4QykDuF3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/63/28/1782863/thumbnail)
-**Lace Border Pack 1.1🪄**|[914806]|[Store](https://assets.clip-studio.com/en-us/detail?id=1914806)|[DL](https://pixeldrain.com/u/cWXpbsQG)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/50/83/1798350/thumbnail)
+**Rain Line Brush Set**|[1926651]|[Store](https://assets.clip-studio.com/en-us/detail?id=1926651)|[DL](https://pixeldrain.com/u/FJUudU4r)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/66/1926651/thumbnail)
+**pennnn**|[1800628]|[Store](https://assets.clip-studio.com/en-us/detail?id=1800628)|[DL](https://pixeldrain.com/u/vTzYY5YY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/28/06/1800628/thumbnail?1633742425)
+**Line Marker**|[1704554]|[Store](https://assets.clip-studio.com/en-us/detail?id=1704554)|[DL](https://pixeldrain.com/u/HbSwDWRF)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/45/1704554/thumbnail)
+**Coo Pen**|[1788256]|[Store](https://assets.clip-studio.com/en-us/detail?id=1788256)|[DL](https://pixeldrain.com/u/Gk65i4FK)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/82/1788256/thumbnail?1622324463)
+**Crochet Border Pack 1.3**|[1915252]|[Store](https://assets.clip-studio.com/en-us/detail?id=1915252)|[DL](https://pixeldrain.com/u/4QykDuF3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/63/28/1782863/thumbnail)
+**Lace Border Pack 1.1**|[914806]|[Store](https://assets.clip-studio.com/en-us/detail?id=1914806)|[DL](https://pixeldrain.com/u/cWXpbsQG)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/50/83/1798350/thumbnail)
 **HiBipencil**|[1764501]|[Store](https://assets.clip-studio.com/en-us/detail?id=1764501)|[DL](https://files.catbox.moe/obieas.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/45/1764501/thumbnail)
 **Turtle Graffiti Pen**|[1967291]|[Store](https://assets.clip-studio.com/en-us/detail?id=1967291)|[DL](http://files.catbox.moe/mhfk8i.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/91/72/1967291/thumbnail?1670326740)
 **Explosion Brush**|[1789216]|[Store](https://assets.clip-studio.com/en-us/detail?id=1789216)|[DL](http://files.catbox.moe/id8o38.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/16/92/1789216/thumbnail)
@@ -108,7 +107,7 @@
 **Reed Pencils**|[1796482]|[Store](https://assets.clip-studio.com/en-us/detail?id=1796482)|[DL](https://pixeldrain.com/u/DBeXeEQt)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/64/1796482/thumbnail)
 **Reed Pencil EX**|[1973305]|[Store](https://assets.clip-studio.com/en-us/detail?id=1973305)|[DL](https://pixeldrain.com/u/Vku8ey81)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/33/1973305/thumbnail?1672480245)
 **Reed Rough Pen**|[1973306]|[Store](https://assets.clip-studio.com/en-us/detail?id=1973306)|[DL](https://pixeldrain.com/u/yp5Z7TVz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/06/33/1973306/thumbnail?1672479431)
-**Retro processing filter🪄**|[1687209]|[Store](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
+**Retro processing filter**|[1687209]|[Store](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
 **RE Cartoon ink Pen (【RE】漫画インクペン)**|[2000036]|[Store](https://assets.clip-studio.com/en-us/detail?id=2000036)|[DL](https://pixeldrain.com/u/gtm9mhb3)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/00/2000036/thumbnail?1683186876)
 **Cell Pen (세포펜)**|[1940099]|[Store](https://assets.clip-studio.com/en-us/detail?id=1940099)|[DL](https://pixeldrain.com/u/YWmx1Ly4)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/00/1940099/thumbnail?1659678906)
 **Pipi Naxer Pen (피피낙서펜)**|[2000217]|[Store](https://assets.clip-studio.com/en-us/detail?id=2000217)|[DL](https://pixeldrain.com/u/fskd8qBA)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/02/2000217/thumbnail?1683542619)

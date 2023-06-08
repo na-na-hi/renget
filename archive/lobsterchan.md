@@ -11,6 +11,12 @@ My mail: lobsterjea@protonmail.com
 
 #My Collection
 
+Alicia the Dormant Storm | Description
+------ | ------
+![Alicia](https://files.catbox.moe/0go3ep.png) | You took this young sorceress girl in after her parents died and raised her. She has been your little sidekick ever since. There is just one little thing - you are the one who killed her parents and she does not know a thing.
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/alicia-the-dormant-storm)  [Tavern Card](https://files.catbox.moe/2e0uqn.png)
+
+
 Flavia the Slave Majordomo | Description
 ------ | ------
 ![Flavia](https://files.catbox.moe/zy11c8.png) | Set in ancient Rome. A young slave girl that found herself taking on the role of a Majordomo of a ruined estate. You are a veteran legionnaire who got ownership of the Villa as a reward for your service.

@@ -1,3 +1,4 @@
+Put 3 spare claude keys that aren't in the main proxy: https://huggingface.co/spaces/mysteryman63453121/whocars
+
 BTC: bc1qjhzcqp4kfrkg6nsnzu0xmn3gsv9q7g7nvn8c4r
 XMR: 49Y3zrgre3yLV5paArTaAp48avu5syRJucR5vZrBif6Pb67hYaH81WH9Sx4LoLKxg7TJpBjpCrdYDFQbviiAfVMDGzHmrFf
- ![ ](https://files.catbox.moe/us0717.png)

@@ -190,6 +190,8 @@ https://civitai.com/models/31444?modelVersionId=37879
 	- Shego
 https://civitai.com/models/42492/shego-kim-possible
 https://civitai.com/models/5315/shego
+- Britney Britney (The Fairly OddParents)
+https://civitai.com/models/86432/britney-britney-the-fairly-oddparents-character-lora
 - Teen Titans
 	- Jinx (2003)
 https://civitai.com/models/51779/jinx-teen-titans-2003-lora
@@ -244,12 +246,14 @@ https://civitai.com/models/14831/star-ryan-ripley
 - Polaris (X-Factor)
 https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
 - X-Men
+	- Rogue
+https://civitai.com/models/84349/rogue-x-men
+	+ Jean Grey
+https://civitai.com/models/86420/jean-grey-x-men-lora
 	+ Madelyne Pryor
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
 	- Mystique
 https://civitai.com/models/83626/mystique-x-men-lora
-	- Rogue
-https://civitai.com/models/84349/rogue-x-men
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
@@ -515,13 +519,14 @@ https://civitai.com/models/73507/lilith-borderlands-character-lora
 https://civitai.com/models/78888/yenneferthewitcher3
 https://civitai.com/models/84281/yennefer-witcher-3
 https://civitai.com/models/23452/yennefer-the-witcher-3-game
-
 	+ Triss
 https://civitai.com/models/73231/triss-merigold-witcher-3
 	- Ciri
 https://civitai.com/models/80712/ciri-witcher-3
 https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/82941/cirilla-fiona
+	- Anna Henrietta
+https://civitai.com/models/86049/anna-henrietta-witcher-3-lora
 - Mass Effect
 	- Tali'Zhorah
 https://civitai.com/models/22827/talizorah-mass-effect
@@ -534,7 +539,7 @@ https://civitai.com/models/16091/liara-tsoni
 https://civitai.com/models/85639/cassandra-dai
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
-https://civitai.com/models/16844/rayne-bloodrayne
+https://civitai.com/models/16844/rayne-bloodrayne.
 - Alyx (Half-Life 2)
 https://civitai.com/models/53335/alyx-half-life-character-lora
 - Dota 2
@@ -636,12 +641,14 @@ https://civitai.com/models/85732/avatar-the-last-airbender-style-lora
 https://civitai.com/models/85165/kim-possible-style-lora
 - Invincible (Netflix series)
 https://civitai.com/models/49968/invincible-style-lora
+- South Park
+https://civitai.com/models/86453/south-park-style-lora
 ---
 - JabComix
 https://civitai.com/models/18828/jabcomix
 - Shadman
 https://civitai.com/models/5423/luisapshadbase-but-from-ohio
-https://civitai.com/models/4371/luisapshad-no-semi-realistic-version
+https://civitai.com/models/4371/luisapshad-no-semi-realistic-version (*hypernetwork*)
 - Métal Hurlant
 https://civitai.com/models/83305/metal-hurlant-style-heavy-metal-french-comics
 - Valerian & Laureline
@@ -697,8 +704,7 @@ https://civitai.com/models/75266/mantis-or-guardians-of-the-galaxy-or-lycorisloc
 https://civitai.com/models/23884?modelVersionId=60963
 - Vaporwave NSFW
 https://civitai.com/models/6501/vaporbabe-polywave
-	- *hypernetwork*
-https://civitai.com/models/4607/vaporwave-screenshot
+https://civitai.com/models/4607/vaporwave-screenshot (*hypernetwork*)
 - "Lowpolybabe2k1"
 https://civitai.com/models/4000/lowpolybabe2k1
 - One-image LoRAs

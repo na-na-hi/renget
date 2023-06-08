@@ -77,22 +77,67 @@ https://cryptpad.fr/sheet/#/2/sheet/edit/JzqLNo3G+B+YXzPeBrkje-sU/
 Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
 Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.
 
-## What does model1+model2 (Fluffyrock+Crosskemono/70% FR + 30% CK) mean?
+## What does model1+model2 (Fluffusion+Crosskemono/70% FF + 30% CK) mean?
 Refers to merged models, see the "Checkpoint Merger" tab in the WebUI.
 
-Taken from https://desuarchive.org/trash/thread/56797439/#56805198:
+It is possible to take multiple checkpoints and average their weights. This way, you can have advantages of two models, and hopefully less disadvantages.
 
-	https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#checkpoint-merger
+[![Checkpoint Merge 01](https://files.catbox.moe/xyr76z.png)](https://files.catbox.moe/xyr76z.png)
 
-	Weighted Sum:
-	Multiplier at 1 fully replaces Model A with B, Multiplier at 0 doesn't change Model A at all (this was used in the past if you want to convert to safetensors deom .ckpt without making other changes to a model)
+The example above is how you would make the 70/30 merge between Fluffusion and Crosskemono.
 
-	Add Difference:
+Setting explanations:	
+
+Primary/Secondary/Tertiary model:
+	The models to be used in merging. If you want to make successive merges, AKA use a merge you just made in another merge, make sure to press the blue reload button to refresh the list.
+	Model C is only important if you use Add difference (see below)
+	
+Weighted Sum:
+	Multiplier at 1 fully replaces Model A with B, Multiplier at 0 doesn't change Model A at all (this was used in the past if you want to convert to safetensors from .ckpt without making other changes to a model).
+	Both for this method and Add difference, the tooltip above the model selection reminds you of how the calculation works.
+
+Add Difference:
 	Model C is substracted from Model B. The multiplier then determines how much of this substract is added to Model A; multiplier of 1 adds it in full, multiplier of 0 doesn't add anything, again 
 
-	Add Difference basically does the same thing as Weighted Sum, except it removes Model C from B first. Helps if both models A and B are merges of the same model, to prevent Model C becoming way too strong.
+Add Difference basically does the same thing as Weighted Sum, except it removes Model C from B first. Helps if both models A and B are merges of the same model, to prevent Model C becoming way too strong.
 
-	Like, if you were to merge Fluffyrock/Crosskemono with Fluffusion/Crosskemono (for some reason); you'd want to put Crosskemono as Model C to prevent it from being added twice. 
+If you were to merge Fluffyrock/Crosskemono with Fluffusion/Crosskemono (for some reason); you'd want to put Crosskemono as Model C to prevent it from being added twice. Another common example to be used for Add Difference would be SD 1.5, since that is in most models besides NovelAI and descendants.
+
+Checkpoint format:
+	Obvious. Leave at safetensors, no sense in making merges as ckpt
+
+Save as float16:
+	float16 models are smaller in size and can be loaded faster, they are however not fit for model training.
+	Some reports also state that fp16 models are less accurate than fp32 ones, but I cannot personally confirm this.
+
+Save metadata:
+	Saves metadata pertaining to the model merge
+
+Copy config from:
+	SD 2.x models need an accompanying .yaml file containing config data to work properly; using this setting takes the config from models used in the merge and renames them so the merged model has an accompanying .yaml file without needing to copy it by hand.
+	This setting does not matter for SD 1.x models, which are most of the models used. Leave at default.
+
+Bake in VAE:
+Bakes in a VAE, removing the need to set it manually. However, this also means that you might accidentally use two VAEs in tandem if switching from a model that needs manual VAEs, likely ruining outputs. I suggest leaving this at "None".
+
+Discard weights with matching name:
+	https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/8157
+
+## What is an "inpainting merge"?
+
+RunWayML, creators of the original Stable Diffusion, made a version of SD 1.5 specialised for inpainting that, compared to the normal one, takes the entirety of the image into account when using Inpaint.
+It is possible to make alternative inpainting versions of any SD 1.5 model you have by merging the inpainting model with your model of choice which improve inpainting results.
+
+[![Inpainting Merge 01](https://files.catbox.moe/56e4lh.png)](https://files.catbox.moe/56e4lh.png)
+
+As shown here, you will need to put sd-v1-5-inpainting.ckpt as model A, the model you want to make an inpainting version of as B, and base SD 1.5 as C.
+The custom name can be freely chosen, I usually just copy the name of the model I put for B.
+Add difference, Multiplier of 1, then hit merge.
+Once the merge is complete, you get a checkpoint with the file extension "inpainting.safetensors", which helps with differentiating it from "normal" models.
+
+Links to base SD 1.5 as well as the inpainting version:
+https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.safetensors
+https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt
 
 ## What does ()/[]/{} or (word:number) mean?
 

@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>[your character is now a young child. Write a scene imagining what they would be like as a child while keeping in mind their original personality. Be descriptive, creative and humorous.]
+
 >>Need a new RP start, try using this one. Remove 'be creative' and everything past in order to remove possible 'weird' starts, but from testing? Shit's pretty cool.
 >(OOC: Please make a relevant scenario and create an open ended story to introduce the character. Be creative and think outside the box while staying true to the character.)
 

@@ -122,4 +122,5 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/ra7d9d.png)
 Poor bot creators want a surrogate proxy, GPT4, to unleash their weird libidos and create bots.
 불쌍한 봇 제작자는 GPT4를 통해 이상성욕를 발산하고 봇을 만들기를 원합니다.
-zkflsqw@proton.me
+zkflsqw@proton.
+Good Luck.
