@@ -64,7 +64,7 @@ After a second, I hesitantly opened my eyes and stole a glance at my arm - it wa
 
 "He's fine, see? I'm not gonna seriously hurt him, don't worry. Plus, we've got berries in case I get carried away, Booker." said Sneasel, before she turned back to address me. "I thought this was a sparring match, but you've barely done anything. Show me what you can do!" she said, before beckoning me forward with her right claw.
 
-I started to protest, saying "But I don't what I can-" before a familiar feeling started to well up within me. I'd felt the same way when I encountered that ghost in the dungeon - I'd become blinded by rage and before I'd realised what was happening I'd beaten the thing to death with a stick.
+I started to protest, saying "But I don't know what I can-" before a familiar feeling started to well up within me. I'd felt the same way when I encountered that ghost in the dungeon - I'd become blinded by rage and before I'd realised what was happening I'd beaten the thing to death with a stick.
 
 I started to wonder if this was just a thing Pokemon could do to each other, before deciding that there's no way it would work a sec-
 

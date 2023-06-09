@@ -15,7 +15,6 @@ Unnamed Ghosts N Goblins pasta|Ghosts N Goblins|[(link)](https://arch.b4k.co/vg/
 *PokeParamon.net*|Pokémon|[(link)](https://rentry.org/pokeparamon)
 *street fighter: champion of fighters*|Street Fighter|[(link)](https://docs.google.com/document/d/117mDKk0rdETONdVOxxoDmDejhPmvLZND5GZc_NRYoeI/edit)
 Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/418715034/#418828296)
-*SUPER MARIO BROS. 3 - PC PROTOTYPE*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3pcid)
 *Wario Land 4: Fool's Demise*|Wario Land 4|[(link)](https://rentry.org/foolsdemise)
 *Weird 3DS Mario Mod*|Super Mario 3D Land|[(link)](https://rentry.org/weird3dsmario)
 *halflife3reimagined* (WIP)|Half-Life 2|[(link)](https://rentry.org/halflife3reimagined)
@@ -23,6 +22,7 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Super Mario Brothers 3: The Encore*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3encore)
 *Kirby's Anomaly* (WIP)|Kirby's Adventure|[(link)](https://rentry.org/KirbysAnomaly)
 *Mario Paint Time Capsule*|Mario Paint|[(link)](https://rentry.org/mptc)
+*Skinned State*|Super Mario 64|[(link)](https://rentry.org/skinnedstate)
 
 ##.exe pastas
 Title|Link
@@ -49,6 +49,7 @@ Unnamed EXE greentext #1|[(link)](https://arch.b4k.co/vg/thread/407644610/#40786
 *Bile*|[(link)](https://arch.b4k.co/vg/thread/417531060/#417642765)
 Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#418253426)
 *My Good Friend Sonic* (TooFast.exe)|[(link)](https://arch.b4k.co/vg/thread/419195395/#419433207)
+*SUPER MARIO BROS. 3 - PC PROTOTYPE* (Id)|[(link)](https://rentry.org/smb3pcid)
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
@@ -71,6 +72,7 @@ Title|Link
 *Abandoned Hotel Exploration*|[(link)](https://rentry.org/abandonedhotel)
 *The Ex-Zombie*|[(link)](https://rentry.org/exzombie)
 *Like Water*|[(link)](https://rentry.org/flowlikewater)
+*The Book Bag*|[(link)](https://rentry.org/thebookbag)
 
 ##Rewritten by /exeg/
 Title|Link

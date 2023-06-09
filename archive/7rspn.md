@@ -1,4 +1,26 @@
 ▶NEW CLIPS
+>METAL BAWXES burn
+https://files.catbox.moe/lh8f2o.mp4
+>Russian missile strike on ammo depot in Uman, Cherkassy Region:
+https://files.catbox.moe/01pdtd.MP4
+> 30 Tanks 11 IFV including Leopard 2A4 tanks lost near Novopokrovka, Zaporozhye
+https://files.catbox.moe/pqnjv6.MP4
+https://files.catbox.moe/yu8fql.MP4
+>AFU soldiers whinging about Counter Offensyiiv™
+https://files.catbox.moe/qaotju.mp4
+https://files.catbox.moe/mbcp9o.mp4
+>Counter Offensyiiv™ continues to get rekt
+https://files.catbox.moe/rv67d6.mp4
+https://files.catbox.moe/zcyhl2.mp4
+https://files.catbox.moe/zfxpxn.mp4
+>Kornet destroying tank in Zaporozhye
+https://files.catbox.moe/wtmucf.mp4
+>Hohol counter-offensyiiv south of Berkhovka
+https://files.catbox.moe/qg400i.mp4
+https://files.catbox.moe/l1868l.mp4
+https://files.catbox.moe/rw0qad.mp4
+>Lancet takes out IRIS-T SLM radar array
+https://files.catbox.moe/qll4p7.mp4
 >Destroyed Ukrainian column in the direction of Novodarovka
 https://files.catbox.moe/qlid6g.mp4
 >14th Artillery Brigade "Kalmius" using UAVs for precision fire corrections in Avdeevka

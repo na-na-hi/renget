@@ -1,3 +1,10 @@
+####June 2023 Update
+Jart admits to the theft
+>Good artists copy and great artists steal.
+https://archive.ph/DpiuB#36219666
+
+
+!!! note Original Post
 https://desuarchive.org/g/thread/92488977/#q92496247
 
 >QRD?

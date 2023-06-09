@@ -1,3 +1,6 @@
+###Out of town until Monday - take care of the bread for me <3~
+
+
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://i.imgur.com/pPOHjMr.jpg)
