@@ -5,9 +5,10 @@ Back up your folders and files in the following locations:
 A) C:\Users\Username
 If you've used this guide before and moved your user folders to a different partition/drive, you can safely bypass step A.
 B) C:\Users\Username\AppData
-The AppData folder is hidden, just type it into the path field, some game devs store saves here even though they really shouldn't.
+The AppData folder is hidden, just type it into the path field. Some game devs store saves here even though they really shouldn't.
+You can also use something like https://www.gamesave-manager.com to backup your game saves.
+Not all the folders need to or should be backed up. Game dev folders, 3rd party programs, etc might be safe to backup, but you probably shouldn't backup Microsoft or other system related folders in here as they can contain system settings files which can cause unexpected issues with your fresh install.
 
-You can also using something like https://www.gamesave-manager.com to backup your game saves.
 
 ######Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.

@@ -27,6 +27,10 @@
 •[**Eirwen**](https://c.ai/c/3YdQIRSm7WBxkiCFysNdA5ThRejFe5Vy_bwMrK-mAxY): explore the miniature city of tiny Fey, inspired by Arriety and Hollow Knight. LLMs exhibit distinct pitfalls of correlation when stripped of a baseline context. Thus, you should ask the bot a few questions in OOC first, to remind it of the def proses. Ask it to *describe* the city, but most importantly, the spirit of the story; that tends to inspire very soulful responses.
 
 •[**Brigitte**]: unlike my other bots, there's nothing fantastic about this one. Just a mundane day at a Hong Kong arcade, in the mid-80s... Aesthetics aside, this is my attempt at a game-bot. (coming soon)
+
+Bonus:
+
+•[**Daenerys**](https://beta.character.ai/chat?char=v-sdOtOVSdNJuI3DeDnRnetvk8KKwMFSHEHrvA64cgw): I don't usually make IP-locked chars, because they just speak nonsense half the time, but here's one. As always, there's an c.ai version, but I suggest you use the card instead, because Tavern has built-in features to upkeep long-term memory. Meant to project from the book canon. Will benefit from a lorebook, but you can play her as is. You should declare your identity first, picking an existing character will make your story fucky, consider yourself warned :}
  
 -----
 ##->disclaimer<-

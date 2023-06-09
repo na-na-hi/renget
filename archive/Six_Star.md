@@ -729,3 +729,17 @@ Bond story priority: High (Relevant units: L.Muimi, NY.Muimi)
 Max level Unit priority: Top
 New player Unit priority: High (Can be a main piece in clearing EX3/4+)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+
+
+## -> Yuki <- (JP Release Date: Year 6, June 6th)
+More CC, tankiness and an interesting way to let his charm land more consistently, sort of. A decent threat in arena, moreso than before.
+- UB+: Increases damage by roughly 400%, doubles his P.Def down. New additions are a 4s charm to any damage enemies and his UB converting to physical damage if a unit's P.def is lower than its magic defense. If not, it stays as magic damage.
+- CB: If ever, his near full TP restore S2 combined with his P.def down on UB+ could be somewhat useful in multi-target comps for physical teams. That's a fairly large IF, because his S1+ is completely worthless, since blinds don't work on bosses. 
+- Arena: His role has not change too much, but just does actual damage with his UB+. Can make tank fights tip in your favour, as his TP restoration, shred, charm and ability to hit on the weaker defense side means that he now does damage. 
+- PvE: Most likely has a place where Io would, since his Charm will allow you to cheese fights by not having enemies attack you. Could be useful in LT/Nodes players are having difficulty with. A borrowed Yuki could certainly help with backline targetting enemies, as his new tankiness will absorb blows.
+- Unless KMR has a hard on for Yuki, we probably won't see him in CB. He'll continue to be an Arena character as he always has been, but with more firepower overall. He's got 8 nodes to farm, so not a bad choice for arena players who are looking for a good 6*. If nothing else, his bond stories will be nice for Ooedo Yuki, who never truly dies.
+
+Bond story priority: High (Relevant units: O.Yuki)
+Max level Unit priority: High
+New player Unit priority: Med (Can help in clearing EX3/EX4+, but not a main piece. Helps cheese fights.)
+[Return to Top](https://rentry.org/Six_Star/edit#6-stars)

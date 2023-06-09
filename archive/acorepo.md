@@ -621,7 +621,7 @@ https://civitai.com/models/78038/clay-mann-artstyle-loha
 https://civitai.com/models/4996/warcraft-the-lora
 - SleepyGimp art
 https://civitai.com/models/70420/sleepygimp-style-lora
----
+***
 - Masters of the Universe
 https://civitai.com/models/37797/filmation-motu-lora
 https://civitai.com/models/80675/he-man-and-masters-of-the-universe-style-lora
@@ -661,17 +661,20 @@ https://civitai.com/models/17800?modelVersionId=21039
 https://civitai.com/models/20606/modern-american-comics-style-1
 - Limited Blue palette style
 https://civitai.com/models/19525/limited-blue-style-lora
-- Grand Theft Auto game style
-https://civitai.com/models/66719/gta-style-or-lora
-- Banner Saga game style
-https://civitai.com/models/56031/banner-saga-style
-- Signalis game style
-https://civitai.com/models/84686/signalis-style-lora
-- Fortnite game style
-https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
-- Zelda CDI
+- Game style
+	+ Banner Saga 
+https://civitai.com/models/56031/banner-saga-style
+	+ Diso Elysium 
+https://civitai.com/models/86567/disco-delirium
+	+ Fortnite
+https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
+	+ Grand Theft Auto 
+https://civitai.com/models/66719/gta-style-or-lora
+	+ Signalis 
+https://civitai.com/models/84686/signalis-style-lora
+	+ Zelda CDI
 https://civitai.com/models/6020/zelda-cdi-style-lora
 - N64 style
 https://civitai.com/models/81132/n64-styl
@@ -695,7 +698,7 @@ https://civitai.com/models/16567/amy-matthews-style-cartoonpink
 https://civitai.com/models/84305/antonella-fant-illustration
 - Teh-Dave art
 https://civitai.com/models/47276/style-tehdave
----
+***
 - The Legend of Zelda: Breath of the Wild game style (3D)
 https://civitai.com/models/54079/the-legend-of-zelda-breath-of-the-wild-style-lora
 	+ Ocarina of Time game style (3D)

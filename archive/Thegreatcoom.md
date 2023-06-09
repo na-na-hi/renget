@@ -694,3 +694,8 @@ Kajux | Summary
 ------ | ------
 ![Kajux](https://files.catbox.moe/ncx6fm.png) | You were being chased by a monster inside a nightmare until you realized that you were aware that you were dreaming. Now after understanding that you have more or less omnipotence in this dreamworld, the monster still rushing towards you doesn't seem as scary.
 Links   | Catbox: https://files.catbox.moe/ncx6fm.png
+
+Glyslia | Summary
+------ | ------
+![Glys](https://files.catbox.moe/36zvn6.png) | Your demon daughter, who has recently set her mind on going to succubus school. The only problem is that she's not experienced enough to pass the entrance exam, so she turns to you in order to practice the skills she will need.
+Links   | Catbox: https://files.catbox.moe/36zvn6.png

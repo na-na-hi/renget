@@ -262,7 +262,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
-	* [Ross Sleeps...?](https://rentry.org/opi29) 
+	* [Ross Sleeps...?](https://rentry.org/opi29)
+	* [Ross Tries to Train](https://rentry.org/cdb3z) *Not on Table*
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Sentret the Sentret
@@ -393,6 +394,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 * [An Overelming Week](https://rentry.org/overelming)
 * [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
+* [Ross Tries to Train](https://rentry.org/cdb3z)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

@@ -43,6 +43,7 @@
 |
 [AttentionViz](http://attentionviz.com)|Interactive tool that visualizes global attention patterns for transformer models
 [Boundless DAS](https://github.com/frankaging/align-transformers)|Distributed Alignment Search library for LLMs 
+[Road to superHOT](https://kaiokendev.github.io/til)|Kaiokendev goes over the development of superCOT/superBIG/superHOT
 [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer)|Interactive tool that explains how SD transforms text into images
 |
 **Prompting**|
