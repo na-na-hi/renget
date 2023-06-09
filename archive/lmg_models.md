@@ -1,5 +1,12 @@
 #->/lmg/ Model Links and Torrents <-
 
+!!! danger
+
+	This list is no longer being maintained. Until a replacement is added, you can use the following links :
+
+	For a general list of LLaMA models and finetunes, see https://rentry.org/lmg-resources#llama-models-guides-resources
+	If you're looking for an updated list of the best "creative" models to RP/ERP with, see https://rentry.org/ayumi_erp_rating
+
 [TOC2]
 
 ## Changelog (MDY)

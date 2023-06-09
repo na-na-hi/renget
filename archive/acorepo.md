@@ -190,6 +190,7 @@ https://civitai.com/models/31444?modelVersionId=37879
 	- Shego
 https://civitai.com/models/42492/shego-kim-possible
 https://civitai.com/models/5315/shego
+	- [*style*](#styles)
 - Britney Britney (The Fairly OddParents)
 https://civitai.com/models/86432/britney-britney-the-fairly-oddparents-character-lora
 - Teen Titans
@@ -243,6 +244,7 @@ https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-l
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 - Star/Ripley Ryan (Captain Marvel)
 https://civitai.com/models/14831/star-ryan-ripley
+https://civitai.com/models/86506/star-marvel-comics
 - Polaris (X-Factor)
 https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
 - X-Men
@@ -282,8 +284,8 @@ https://civitai.com/models/51124/rapunzel-tangled-series
 https://civitai.com/models/21540/rapunzel-tangled
 - Miraculous: Tales of Ladybug & Cat Noir
 	+ Marinette Dupain-Cheng
-https://civitai.com/models/54164/miraculous-ladybug
 https://civitai.com/models/63659/marinette-dupain-cheng-ladybug
+https://civitai.com/models/54164/miraculous-ladybug
 	+ Cat Noir
 https://civitai.com/models/58595/miraculous-cat-noir
 - Big Hero 6
@@ -539,7 +541,7 @@ https://civitai.com/models/16091/liara-tsoni
 https://civitai.com/models/85639/cassandra-dai
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
-https://civitai.com/models/16844/rayne-bloodrayne.
+https://civitai.com/models/16844/rayne-bloodrayne
 - Alyx (Half-Life 2)
 https://civitai.com/models/53335/alyx-half-life-character-lora
 - Dota 2
@@ -549,8 +551,8 @@ https://civitai.com/models/84024/morathi-warhammer-fantasy
 https://civitai.com/models/30715/morathi-the-hag-sorceress-of-ghrond-and-the-first-hag-queens
 - Warcraft and World of Warcraft
 https://rentry.org/acorepo2#warcraft-world-of-warcraft
-- Overwatch
-https://rentry.org/acorepo2#overwatch-loras-embeddings
+- Fortnite
+https://rentry.org/acorepo2#fortnite
 - Apex Legends
 	+ Wattson
 https://civitai.com/models/38148/wattson-apex-legends
@@ -643,7 +645,7 @@ https://civitai.com/models/85165/kim-possible-style-lora
 https://civitai.com/models/49968/invincible-style-lora
 - South Park
 https://civitai.com/models/86453/south-park-style-lora
----
+***
 - JabComix
 https://civitai.com/models/18828/jabcomix
 - Shadman
@@ -665,6 +667,8 @@ https://civitai.com/models/66719/gta-style-or-lora
 https://civitai.com/models/56031/banner-saga-style
 - Signalis game style
 https://civitai.com/models/84686/signalis-style-lora
+- Fortnite game style
+https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
 - Zelda CDI

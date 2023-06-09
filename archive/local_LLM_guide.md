@@ -7,11 +7,11 @@
 **1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
 
 Relative proficiency at (**S/s**)tory or (**I/i**)nstruct modes:
-(**SI**) 13B (10GB RAM) [Vicuna-13b-Cocktail](https://huggingface.co/reeducator/vicuna-13b-cocktail/tree/main)
+(**SI**) 13B (12GB RAM) [Wizard-Vicuna-13B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML/tree/main)
 
-(**Si**) 7B (6GB RAM) [Wizard-Vicuna-7B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main) ([Q4_0](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/resolve/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_0.bin) is still good for quick n' dirty Story mode w/lower RAM usage)
+(**Si**) 7B (8GB RAM) [Wizard-Vicuna-7B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main) ([Q4_0](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/resolve/main/Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_0.bin) is still good for quick n' dirty Story mode w/lower RAM usage)
 
-(**S**) 6B (8GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-GGML/tree/main)
+(**S**) 6B (6GB RAM) [GPT-J-Janeway-6B](https://huggingface.co/xzuyn/GPT-J-Janeway-6B-GGML/tree/main)
 
 Older but still works- cannot use --gpulayers with:
 (**SI**) 13B (10GB RAM) [oasst-llama13b](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/resolve/main/qunt4_0.bin) 

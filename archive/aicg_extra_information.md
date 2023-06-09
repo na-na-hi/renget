@@ -23,6 +23,7 @@ https://github.com/kwaroran/RisuAI-release
 ##### SillyTavern
 https://github.com/Cohee1207/SillyTavern
 https://rentry.org/aicg4retards
+https://docs.sillytavern.app
 - frontend for many AI services; local install; feature rich + extensions
 
 ![](https://files.catbox.moe/witert.png)
@@ -137,7 +138,17 @@ https://holara.ai
 
 !!! info
     #### Local models
-    *this section needs a rewrite [26.05.2023]*
+https://rentry.org/lmg_template
+- /𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕺𝕻 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 𝖜𝖎𝖙𝖍 𝖆𝖑𝖑 𝖙𝖍𝖊𝖎𝖗 𝖑𝖎𝖓𝖐𝖘
+
+https://rentry.org/ayumi_erp_rating
+- LLM Models ERP Ranking by /lmg/
+
+https://docs.alpindale.dev
+- official Pygmalion manual, very extensive and detailed
+
+
+*Following links are legacy, if you want to learn more about current local models use aforementioned links:*
 
 ##### Pygmalion-6B
 https://koboldai.org/cpp [CPU]
@@ -146,9 +157,6 @@ https://laika-ch.itch.io/laikas-litevn-ui-for-koboldai [Laika’s LiteVN]
 https://rentry.org/Pyggymancy [Guide]
 https://rentry.org/PygTips
 - Classic pyg links.
-
-https://docs.alpindale.dev
-- official manual, very extensive and detailed
 
 ##### LLaMa
 https://rentry.org/better-llama-roleplay [RP guide]
@@ -207,6 +215,10 @@ https://github.com/Project-Akiko/Project-Akiko-Web
 ##### TavernAI
 https://github.com/TavernAI/TavernAI
 - frontend for OAI and Kobold; local install
+
+##### ~Memories~
+https://mega.nz/folder/LXxV0ZqY#Ej35jnLHh2yYgqRxxOTSkQ
+- A collection of /vt/ chatbot logs from old days
 
 ***
 

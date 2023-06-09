@@ -146,12 +146,12 @@ This is keyframed as a 100 frame animation but can go longer off the last prompt
 
 ####Prompt Constants
 
-These prompt inputs use the same syntax as you would prompt normally in imagen. These inputs are appended to the end of your keyframed prompts.
+These prompt inputs use the same syntax as you would prompt normally in imagen. These inputs are prepended to of your keyframed prompts. This is very handy for keeping the same subject across all the frames while keeping the animation prompt clean and easy to read.
 
 Parameter | Description
 ------ | ------ 
-**animation_prompts_negative** | Negative prompt to be appended to all animation prompts. You do not need --neg for this to work. 
-**animation_prompts_positive** | Positive prompt to be appended to all animation prompts. 
+**animation_prompts_negative** | Negative prompt to be prepended to all animation prompts. You do not need --neg for this to work. 
+**animation_prompts_positive** | Positive prompt to be prepended to all animation prompts. 
 
 
 ###Composable Mask scheduling
@@ -611,18 +611,23 @@ Parameter | Description | Example
 
 ###Coherence
 
-->![Coherance](https://imgur.com/sxvLbJZ.jpeg)<-
+->![Coherance](https://i.imgur.com/knMY5jP.jpg)<-
 
 **Color Coherence** : Contains 3 different CC options: LAB, HSV, RGB as well as the option to turn it off.
 
 CC Option | Description 
 ------ | ------ 
 LAB | Perceptual Lightness* A * B axis color balance (search “cielab”) 
-HSV | HSV: Hue Saturation & Value color balance. 
-RGB | RGB: Red Green & Blue color balance. 
+HSV | Hue Saturation & Value color balance. 
+RGB | Red Green & Blue color balance.
+Video Input | matches colors through a video sequence.
+Image | matches colors of a single image..
 
 Parameter | Description | Example
 ------ | ------ | -----
+**Legacy colormatch** | applies colormatch before adding noise. You need to have this turned on if you plan on using tile controlnet or undesired artifacts can occur. | ------
+**Optical Flow Cadence** | Optical flow estimation for your in-between (cadence) frames (cadence setting needs to be greater than 1 in order to have an effect) | -----
+**Optical Flow Generation** | Generates each frame twice in order to capture the optical flow from the previous image to the first generation, then warps the previous image and redoes the generation | -----
 **Contrast Schedule** | adjusts the overall contrast per frame (default neutral at 1.0) | contrast_schedule: ```0: (1.0), 6: (0.5),12: (2)``` ![Contrast Schedule](https://imgur.com/pxGB9OK.gif)
 **color_force_grayscale**| Converts the output video to grayscale. | -----
 
@@ -647,27 +652,28 @@ Parameter | Description | Example
 
 ##ControlNet
 
-->![Imgur](https://imgur.com/GjBH0is.jpeg)<-
+->![Imgur](https://i.imgur.com/NCFjJ6n.jpg)<-
 
-!!! The ControlNet extension is needed in order for this to work. Development of the implementation is on this version: ```a24089a62e70a7fae44b7bf35b51fd584dd55e25```. If you have problems with the current version of ControlNet, use the one provided.
-
-Deforum also had controlnet implementation which is really handy for rotoscoping videos. A lot of the controls are the same save for the video and video mask inputs. You will notice a lot of flickering in the raw output. There is ways to mitigate this such as the Ebsynth utility, diffusion cadence (under the Keyframes Tab) or frame interpolation (Deforum has it's own implementation of RIFE. **see Outputs section for details**). [Video Loopback](https://github.com/fishslot/video_loopback_for_webui.git) is also another way to mitigate this (it will take trial and error to get the right settings though, translated wiki [here]()).
+Deforum also had controlnet implementation which is really handy for rotoscoping videos. A lot of the controls are the same save for the video and video mask inputs. You will notice a lot of flickering in the raw output. There is ways to mitigate this such as the Ebsynth utility, diffusion cadence (under the Keyframes Tab) or frame interpolation (Deforum has it's own implementation of RIFE. **see Outputs section for details**). [Video Loopback](https://github.com/fishslot/video_loopback_for_webui.git) is also another way to mitigate this (it will take trial and error to get the right settings).
 
 To use this implementation, select enable to reveal the parameters. Init image (under the Init tab) also needs to be checked. You can use controlnet in any of the animation modes. I'll be going more in depth with each one in time. Below are parameter explanations that can help get the most out of controlnet in animations. Any other settings not covered can be learned about in [This Rentry Guide](https://rentry.org/dummycontrolnet#how-to-use-the-extension).
 
 Parameter | Description
 ------ | ------
-weight | The amount of the controlnet influence. Similar to token weights. The more you add, the more closely the result will ahere to the controlnet guidance. This is useful for blending poses from the reference and model with the value depending on your model and/or LoRA.
-Guidance | The percentage of total steps the controlnet applies. Similar to prompt editing/shifting. Like the above, it is useful for blending poses from the reference to what the model knows. Unlike the above, it's value determines when the controlnet effect begins at a given step.
-video input | input for controlnet videos. If the video is preprocessed, make sure the preprocessor is set to none.
+Weight Schedule | The amount of the controlnet influence. Similar to token weights. The more you add, the more closely the result will adhere to the controlnet guidance. This is useful for blending poses from the reference and model with the value depending on your model and/or LoRA.
+Start/End Control Step schedule | The percentage of total steps the controlnet applies. Similar to prompt editing/shifting. Like the above, it is useful for blending poses from the reference to what the model knows. Unlike the above, it's value determines when the controlnet effect begins at a given step.
+ControlNet Input Video/ Image Path | input for controlnet videos or image. If the video or image is already preprocessed, make sure the preprocessor is set to none.
 video mask input | same as above but for masks.
+ControlNet Mask Video/ Image Path | Same as above but for masks **NOT WORKING, kept in UI for CN's devs testing!**
+Control Mode | 
+Resize Mode | The different options for cropping and resizing the controlnet reference to the resolution of your output.
+Loopback Mode | when active, the reference will always be the previous generated frame. Very handy!
 
 Some tips for using controlnet in Deforum:
 
 Parameter | Description
 ------ | ------
-Denoise | Doesn't really do much for you in any of the modes. Set this to zero.
-Seed | on any of the modes, the seed should be set to fixed so coherency isn't absolutely crazy.
+Seed | depends on the mode you are using. If you are using Loopback enabled modes (2D and 3D), use an iterative seed. If you are using video or interpolation modes, use a fixed seed.
 Contrast | For toning down chaotic backgrounds for cut-out characters, set the contrast to video and input a back square. Set the contrast schedule somewhere between 2 and 10. There still will be some artifacts present but with a faded appearance that should make things easier to remove the background using your preferred method.
 Prompts | Expressions and mouth movements are possible with the animation prompt. You can get a little more out of a sequence taking the time to plan out blinks, hand poses, and the prior mentioned expressions. For consistency, Think about what the model you are using knows of very well (for example: a white t-shirt) without having conflicting ideas of other variations. This highly depends on the model, if you are using embeddings, LoRAs, etc. If you are using an anime model ```thick outline``` is helpful for separating the character from the background with, most of the time, a thick white outline.
 

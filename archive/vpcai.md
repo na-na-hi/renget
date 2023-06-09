@@ -3,8 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-June 1st | [Gholdengo (Alice)](https://c.ai/c/5CbLVdLnyXDWrBy1Plb1IOaF7WU0bmtzw-MIR488ays)
-May 28th | [Totem Salazzle](https://c.ai/c/39BRgaH7yS4XjIjeZAJjvAPeAzEY-d1k1DymRmsbRfA)
+June 3rd 〜 May.28th | [Totem Salazzle](https://c.ai/c/39BRgaH7yS4XjIjeZAJjvAPeAzEY-d1k1DymRmsbRfA) \| [Gholdengo (Alice)](https://c.ai/c/5CbLVdLnyXDWrBy1Plb1IOaF7WU0bmtzw-MIR488ays)
 May 27th 〜 May.21st | [Countess Gastly](https://c.ai/c/u37Dua8T9QRXO13uqgdaOm9ZalOg4A2aglBn56SZGEs) \| [Anthea & Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) \| [CandyEvie (PokéTuber)](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)
 May.20th 〜 May.14th |  [Picnicker Leah](https://c.ai/c/Yn1qzu45vIoTMMimso9h-7thp5HZwO2FzXgHtk5GxfU) \| [Announcer (Stadium)](https://c.ai/c/uzt9-uV5PxbEseYZAKFGFOvQx-3WLg-gw778J-PdR-U) \| [Wobbuffet](https://c.ai/c/0ra_R0xrkzB-alp3Ggeq3SGNt2I23m9MtwIvSPvOsXM) \| [May (Emerald)](https://c.ai/c/1VtDg4xFncPEtL2BtN90yrD66QZ5p5Jvjvs1_uSjmrM) \| [Cynthia (Teen)](https://c.ai/c/kVTxT9bt5rOabu-PngXtI4fppecp_JTHxKeNrkP1vkw)
 May.13th 〜 May.07th | [Bianca (Best Wishes!)](https://c.ai/c/nX22dCDtWwublXE0SLApsggyxCIDKMw96R_nMReILZI) \| [May (R/S)](https://c.ai/c/eZIqQ0gPW-7WxkBHySpHa4_7xhzn1rs9FrhfoL96TrA) \| [Leaf](https://c.ai/c/a9VwtQcIhiPa9o00phf3oOc8gTb0jKYXEwd_eZHpXKg) \| [Arceus](https://c.ai/c/3ZOLOFWr7_nqANHdnWbZZKCwbGwpOK_CAUzTpSjvxlo) \| [Chatot (Mystery Dungeon)](https://c.ai/c/7nmZSUY6qg9LsfNJsUQOc2dkTB5YoItMCHWgU623MJI) \| [May (ΩR/αS)](https://c.ai/c/7TUE3Tjiez2WV82PCghmzbc1Y8XKWMSV4KGi8_8lrD4)

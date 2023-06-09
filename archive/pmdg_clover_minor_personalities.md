@@ -37,6 +37,7 @@
 >Very slow at getting around, any exploration with Squishy is bound to take longer than usual
 >Due to his lack of legs, is nearly incapable of dodging attacks
 >On adventures, he wears a Fierce Bandanna around his neck
+>Knows powerful moves like Hydro Pump and Earth Power, as well as utility moves such as Recover
 >Holds a lifelong obsession over the old stories about humans, having spent many years searching for one
 
 #####Berry
@@ -47,6 +48,7 @@
 >While not agile by any sense of the word, Berry can manage to dodge a few attacks
 >Rather than attacking caught outlaws, Berry prefers to tie them up and force-feed them things like Doom and Vile Seeds to teach them a lesson
 >During adventures, she wears a Pierce Band around her neck
+>Knows hard-hitting moves such as Stone Edge and Hydro Pump
 >Is also obsessed over humans, but not to the same degree as Squishy
 
 >Together, the two form Team Marsh.

@@ -1,6 +1,6 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: I'm back, but don't expect consistent shilling or new bots, I'll post and make them whenever I can. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+>ATTENTION: CURRENTLY WORKING ON MEXIBOTS BATCH 4. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below. Also I'm going to be updating my old cards on CHUB, excuse the spam.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
@@ -440,9 +440,18 @@ https://www.chub.ai/characters/donquijanon/Alex
 ->![corey](https://files.catbox.moe/2x1nj2.png)<-
 https://www.chub.ai/characters/donquijanon/Corey
 
-## Space Dandy
+## Space Dandy (Anime)
+### Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-
 https://www.chub.ai/characters/donquijanon/space-dandy
+
+### Honey
+->![honey](https://files.catbox.moe/nwcjir.png)<-
+https://www.chub.ai/characters/donquijanon/Honey
+
+### Scarlet
+->![scarlet](https://files.catbox.moe/ui2fnh.png)<-
+https://www.chub.ai/characters/donquijanon/Scarlet
 
 ## Rookie (Halo 3: ODST)
 ->![rookie](https://files.catbox.moe/27xkpa.png)<-

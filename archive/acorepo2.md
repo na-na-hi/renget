@@ -63,10 +63,6 @@ https://civitai.com/models/17864/reinhardt-overwatch-lora
 - Soldier 76
 https://civitai.com/models/61084/soldier-76-overwatch-lora
 
-
----
-
-
 # Warcraft & World of Warcraft
 
 + Night Elf (& embedding)
@@ -105,10 +101,6 @@ https://civitai.com/models/54714/scworld-of-warcraftvoljin
 - Thrall
 https://civitai.com/models/55438/scworld-of-warcraftthrall
 
-
----
-
-
 # Dota 2
 
 - Enchantress
@@ -145,9 +137,66 @@ https://civitai.com/models/40669/fymryn-dota-dragons-blood
 	- Filomena
 https://civitai.com/models/48082/filomena-dota-dragons-blood
 
+# Fortnite
 
----
-
+- Aline
+https://civitai.com/models/84150/aline-default-fortnite
+- Ariana Grande
+https://civitai.com/models/67865/ariana-grande-default-godess-skins-or-fortnite
+- Aura
+https://civitai.com/models/62530/aurafortnite
+- Charlotte
+https://civitai.com/models/85932/charlotte-fortnite
++ Crystal
+https://civitai.com/models/44660/crystal-fortnite
+- Dusty
+https://civitai.com/models/52419/dusty-fortnite
+- Fable
+https://civitai.com/models/80876/fable-fortnite
+- Haven
+https://civitai.com/models/53538/haven-fortnite
+- Haze and Surf Witch
+https://civitai.com/models/62399/haze-surf-witch-fortnite
+- Heidi
+https://civitai.com/models/57386/heidi-fortnite
+- Helsie
+https://civitai.com/models/29513/helsie-video-game-fortnite
+- Highwire
+https://civitai.com/models/50843/fortnite-highwire
+- Jules
+https://civitai.com/models/30560/jules-fortnite
+- Lynx
+https://civitai.com/models/58440/lynx-fortnite
+https://civitai.com/models/58790/fortnite-lynx-lora
+- Phaedra
+https://civitai.com/models/64947/phaedra-fortnite
+- Ramirez
+https://civitai.com/models/50792/ramirez-fortnite
+- Red-Nosed Raider
+https://civitai.com/models/39456/fortnite-red-nosed-raider
+- Remedy
+https://civitai.com/models/60903/remedy-fortnite
++ Ruby
+https://civitai.com/models/36026/ruby-fortnite
+- Skye
+https://civitai.com/models/29345/skye-fortnite
+- Sparkle Supreme
+https://civitai.com/models/73842/sparkle-supreme-fortnite
+- Sylvie
+https://civitai.com/models/61573/sylvie-fortnite
+- Zoey
+https://civitai.com/models/61405/zoey-fortnite
+- Dolph
+https://civitai.com/models/39447/fortnite-dolph
+- *outfits*
+https://civitai.com/models/74048/onesie-fortnite-default-skin
+https://civitai.com/models/70650/ark-fortnite
+- Meowskull
+https://civitai.com/models/53216/fortnite-meowskull-lora
+- Dolph
+https://civitai.com/models/39447/fortnite-dolph
+- Polar Patroller
+https://civitai.com/models/86250/polar-patroller-fortnite
 
 # Homestuck fan art
 
