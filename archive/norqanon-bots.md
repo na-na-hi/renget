@@ -116,7 +116,7 @@ Character Image | Character Description | Links
 ![Isabelle](https://files.catbox.moe/agfqhv.png) ->Isabelle<-  | She's on vacation, but she misses working...Port of Isabelle from CAI. | [Image](https://files.catbox.moe/ebi983.png),[JSON](https://files.catbox.moe/lk7tlt.json) 
 
 ### Suggestions
-I enjoyed making bots. I don't enjoy it as much as I used to, but if you have any ideas for a bot you think would be cool, or how I could improve a bot, or otherwise any comments or feedback, I'm always open to hearing them. I lurk the threads pretty regularly, so just mentioning by name is enough to get my attention. Maybe I should open a google form for suggestions as well? I don't know.
+I enjoyed making bots. I don't enjoy it as much as I used to, but if you have any ideas for a bot you think would be cool, or how I could improve a bot, or otherwise any comments or feedback, I'm always open to hearing them. You can send suggestions to [this jotform](https://form.jotform.com/231595952077062).
 
 ### Changelog
 6/4/2023 - Released Dangerous: The Double Batch (Paprika, Erika, Dawn Bellwether, Shinjyu Harumi, Lucifer, Mavis Dracula, Satina, Shisho & Beruko, Amneris, Kaimoko, LUM13R4, and Khoshka)

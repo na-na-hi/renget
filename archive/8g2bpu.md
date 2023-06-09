@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+Kaiji as this https://files.catbox.moe/u4wzp8.jpg
+
 Any two guildmon where one holds another like in the pic https://files.catbox.moe/68xgkz.jpg
 
 Chespin performing an Electric Wind God Fist from Tekken

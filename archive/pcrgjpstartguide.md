@@ -75,10 +75,10 @@ The following list is for new players to target, as some units are amazing - But
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
 **Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
 **Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
-**Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
 **Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
+**Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
 
 ### ->D tier - Not worth rolling for at this time<-
 **Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.
@@ -90,20 +90,20 @@ If you have a different option, discuss in the thread and it can be discussed.
 
 Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: 
-Christina | SS | C  | B | S | Yes | Yes
+Christina | SS | C  | A | SS | Yes | Yes
 Muimi | SS | C | SS | SS | Yes | Yes
 Neneka | SS | D | SS | SS | Yes | No
 P.Peco | C | A | C | B | Yes | No
 P.Kokkoro | B | C | A | A | No | No
 P.Yui | D | C | C | C | Yes | No
-Laby | SS | F | SS | S | Yes | No
+Laby | SS | F | SS | SS | Yes | No
 P.Hiyori | SS | F | A | B | Yes | No
-P.Kyaru | A | B | S | S | Yes | No
+P.Kyaru | A | A | S | S | Yes | No
 P.Rei | A | A | SS | A | Yes | No
 Hatsu/Shio | C | D | B | A | No | No
-Homare | S | F | SS | S | No | No
+Homare | S | F | S | S | No | No
 LL Trio | C | F | B | C | No | No
-Ranpha | B | F | A | A | No | No
+Ranpha | B | F | B | B | No | No
 Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
 GreAnne | SS | F | SS | SS | No | No
@@ -114,11 +114,13 @@ These units are only available during their specific banners, which are typicall
 
 ###CB
 **New Years Neneka** - #1 magic buffer in the game, only comes by every New Years. Please roll for her/save a spark in your initial clearing and rolling.
-**New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year.
-**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to use UBs very early, but better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount.
+**New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Good in Arena, too.
+**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to use UBs very early, but better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount. Amazing in CB.
+**Creditta** - Excellent debuffer/support physical multi-target ranged unit. She has heals, TP restoration, P.Def debuff and okay damage and generally finds her way into CB when Multi-target physical does well. 
 
 ### Arena
 **Swimsuit Saren** - Massive TP restoration to all teammates on 1st skill for instant UBs. Sees use in all game modes, but extremely useful in Arena. Grab her when possible.
+**Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. 
 
 ### PvE
 **New Years Kyaru** -  Relegated to specific SP Dungeon & SP Event comps, but still a must have in your arsenal for these scenarios.
@@ -133,6 +135,7 @@ While not re-roll targets, these units are always available to roll on any banne
 **Inori** - Top tier Arena unit, good roll for those who enjoy that mode. Is also farmable at Hard Node 44-3.
 **Magical Girl Kasumi** - Top tier Arena unit for offense and defense, farmable at Hard Node 38-3
 **Oedo Yuki** - Excellent buffer and debuffer for magic comps. Not farmable.
+**S.Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
 
 ##->Permanent Sub Player level 200 Campaign<-
 Starting December 16th JST on reset, various permanent Campaigns will be apply to all players below 200. See the full list below:
@@ -172,8 +175,7 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 
 ###->Great everywhere<-
 - Djeeta (2 Nodes)
-- Summer Kokkoro (3 Nodes in Side Story)
-- Monika (3 Nodes in Side Story)
+- Monika (3 Nodes in Side Story, but also through Arena shop)
 
 ###->CB Specialists<-
 - Ruka (1 Node)
@@ -184,6 +186,7 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Magical Monika (1 Node) 
 - Shefi (1 Node)
 - Tomo (1 Node, 5 Nodes in Side Story)
+- Cinderella Maho (1 Node)
 
 ###->Arena Specialists<-
 - Misaki (8 Nodes, 2 Nodes in Side Story)
@@ -202,8 +205,21 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Kyouka (1 Node, 2 in Side Story)
 - Kasumi (1 Node, 5 in side stories)
 
-##->Frequently Asked Questions<-
+##->Recommended Side Story Nodes <-
+These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to reset Side Story nodes. Aside from S.Kokkoro, the majority of these units are niche and may not appear in every CB. Anyone not on this list, is just a bond story stat stick.
 
+###->Great everywhere<-
+- Summer Kokkoro 
+
+###->CB Specialists<-
+- Christmas Yukari
+- Working Clothes Tamaki
+- Cinderella Rima
+
+###->Arena Specialists<-
+- New Years Muimi
+
+##->Frequently Asked Questions<-
 
 ### -> Gameplay Mechanics <-
 
@@ -314,7 +330,7 @@ A - A lot of Arena units happen to be farmable in Hard main quests.
 Q - **What units shards should I buy?**
 A- Depends on your goals, but here are some decent starting points:
 1. Dungeon: Maho, Yukari, Nozomi
-2. B.Arena: Monika, Tamaki, 
+2. B.Arena: Monika, Tamaki
 3. P.Arena: Kaori, Anna, Hatsune
 4. Clan Battle: X.Saren, Io
 
@@ -325,7 +341,7 @@ Q - **Which dungeons can I do as a new player?**
 A - You can crush the first 4 dungeons with Ames/Neneka and 3 other units that don't die. For EX1 & 2, you may want to join a clan and ask in your clan chat for a borrow of a stronger damage dealer like Ranpha or Misora. Remember that Dungeons still have a 30 level cap limit.
 
 Q - **How do I sim bosses?**
-A - 4 Days before CB begins, we get access to "Training Mode". This allows you to test/save comps in-game against all 5 tiers and all 5 bosses to prep your comps ahead of time. 
+A - 3 Days before CB begins, we get access to "Training Mode". This allows you to test/save comps in-game against all 5 tiers and all 5 bosses to prep your comps ahead of time. 
 
 Q -  **Can I test bosses after CB ends?**
 A - Yes, if you go to the menu and click on the training dummy icon, you will have access to Gargoyle training dummies that give rewards for 1st time clears, as mentioned in the tips section above. In addition, you can fight the previous month's bosses to test for fun.

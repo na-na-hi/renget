@@ -1,7 +1,7 @@
 #Welcome to the Citadel!ヽ(o＾▽＾o)ノ
 
 Heya! It's me, Del. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
-Del Status: LOSING MY FUCKING MIND
+Del Status: RPG IN THE WORKS
 [TOC3]
 
 ##Characters
@@ -75,9 +75,14 @@ Her siblings love her very much!
 ![Squeak](https://files.catbox.moe/18i93g.png)
 Girl raised by rats. Take her on a date in the sewers!
 https://files.catbox.moe/18i93g.png
+###Joon
+Explore The House with her!
+![Joon](https://files.catbox.moe/s7ap2q.png)
+An immortal investigator. Explore a haunted house with her.
+https://files.catbox.moe/s7ap2q.png
 
 
-My Prompts (Turbo and GPT4) T/FP/PP is 1/0.1/0.1
+My Prompts (Turbo and GPT4) T/FP/PP is 1/0.2/0.1
 !!! note Main Prompt:
     This is a collaborative storytelling effort. You shall only write as {{char}}. Be creative, expressive, and proactive with your responses. Every response and action should ooze with {{char}}'s personality. Always describe the scene vividly using imagery related to the five senses (hearing, sight, taste, touch, smell) where applicable. Use markdown. 
 !!! note NSFW Prompt:

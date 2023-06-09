@@ -44,6 +44,8 @@ FEEL FREE TO INCLUDE ME IN ANY STORY, ART WORK, SHITPOST, WHATEVER!  ALL I ASK I
 
 ![Heather Mason aesthetics sheet](https://files.catbox.moe/bwsrya.jpg)
 
+![Heather Mason Quidditch stats](https://files.catbox.moe/47zktn.png)
+
 ![Heather Mason cooking sheet](https://files.catbox.moe/rrksx2.jpg)
 
 ![Heather Mason magical creatures sheet](https://files.catbox.moe/actx14.png)

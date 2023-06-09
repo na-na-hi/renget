@@ -1,6 +1,10 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 
+####Suzume (9/6/2023)
+https://www.chub.ai/characters/pitanon/Suzume
+![](https://files.catbox.moe/jyc9z4.png)
+
 ####Nina (5/6/2023)
 https://www.chub.ai/characters/pitanon/Nina
 ![](https://files.catbox.moe/3c62eg.png)

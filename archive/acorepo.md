@@ -1,4 +1,5 @@
 [TOC]
+[Second civit list](https://rentry.org/acorepo2) (names are already listed below)
 
 # Characters
 
@@ -32,11 +33,6 @@ https://mega.nz/folder/A25XhSzZ#AFk_fQakAiVMfESY_OobvA
 https://files.catbox.moe/swnfr8.safetensors
 - Alex, Gwyn, Krapella, Mariner
 https://mega.nz/folder/vxkRQbJJ#hLCWjupwYoaPxeWDpShq2A 
-- Lilo & Stitch
-	+ Nani Pelekai (/h/)
-https://mega.nz/file/lv4G1Z7K#y8FuUc8f3tpZdy6hsNmfyC0yN57nwdqyxa6WuOXBMlY
-    - Lilo Pelekai
-https://civitai.com/models/84600/lilo-pelekai-lilo-and-stitch
 - XJ9
 ~~https://dropmefiles.com/1yg7F~~
 	+ `JennySuit`
@@ -49,6 +45,9 @@ https://mega.nz/folder/BmpxBYpL#1TVy5v8BJOABm9qkiO0Y3Q
 https://mega.nz/folder/Fjpn3awS#dYenm0fD8SEZQL-l3_dYuQ
 - Maddie Kim (Pantheon)
 https://files.catbox.moe/evj8gm.7z
+- Frankie Foster, Raven, Nani Pelekai, Lola Bunny 
+  AccelArt, BlushySpicy, Crimson Comics, Kairu, Nonamoth, Reiq, Squeezable, Suoiresnu, & more (/h/)
+https://rentry.org/gktwz
 
 ---
 
@@ -174,6 +173,8 @@ https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
 https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
 	- Zuko
 https://civitai.com/models/84092/zuko-or-avatar-the-last-airbender
+	- Tonraq
+https://civitai.com/models/87071/tonraq-the-legend-of-korra-lora
 	- [*style*](#styles)
 - Ben 10
 	+ Gwen Tennyson (& Ben 10: Alien Force)
@@ -208,18 +209,21 @@ https://civitai.com/models/66649/terra-teen-titans
 https://civitai.com/models/23886/pocahontas
 - Snow White
 https://civitai.com/models/45401/snow-white
-- Tiana (The Princess and the Frog)
-https://civitai.com/models/43727/tiana-the-princess-and-the-frog-disney-princess-by-yeiyeiart
+- Jasmine (Aladdin)
+https://civitai.com/models/48875/jasmine-aladdin-disney-princess-by-yeiyeiart
+https://civitai.com/models/5709?modelVersionId=6648 (TI)
+- Jane Porter (Tarzan)
+https://civitai.com/models/56273/jane-porter-lora
 - Chel (The Road to El Dorado)
 https://civitai.com/models/45917/chel-dorado
 https://civitai.com/models/18842/chel
+- Tiana (The Princess and the Frog)
+https://civitai.com/models/43727/tiana-the-princess-and-the-frog-disney-princess-by-yeiyeiart
 - Hercules
 	+ Megara 
 https://civitai.com/models/23546/megara
 	+ Aphrodite
 https://civitai.com/models/46198/aphrodite
-- Jane Porter (Tarzan)
-https://civitai.com/models/56273/jane-porter-lora
 - Peter Pan
 	+ Tinker Bell
 https://civitai.com/models/48946/tinkerbell
@@ -398,8 +402,11 @@ https://civitai.com/models/20949/dexters-mom
 https://civitai.com/models/21148/sedusa
 - Toot (Drawn Together)
 https://civitai.com/models/81681/toot-drawn-together
-- Suise (The Oblongs)
+- The Oblongs
+	+ Suise
 https://civitai.com/models/81688/suise-the-oblongs
+	- Pickles
+https://civitai.com/models/86907/pickles-the-oblongs
 - Wuya (Xiaolin Showdown)
 https://civitai.com/models/21663/wuya
 - Icy (Winx Club)
@@ -505,6 +512,7 @@ https://civitai.com/models/6344/max-caulfield-or-life-is-strange-lora
 https://civitai.com/models/6232/chloe-price-or-life-is-strange-lora
 	- Rachel Amber 
 https://civitai.com/models/6315/rachel-amber-or-life-is-strange-lora
+https://civitai.com/models/72628/rachel-amber-or-life-is-strange
 	- Alex Chen 
 https://civitai.com/models/6482/alex-chen-or-life-is-strange-lora
 - Borderlands
@@ -529,6 +537,8 @@ https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/82941/cirilla-fiona
 	- Anna Henrietta
 https://civitai.com/models/86049/anna-henrietta-witcher-3-lora
+	- Shani
+https://civitai.com/models/86731/shani-or-the-witcher-3-wild-hunt
 - Mass Effect
 	- Tali'Zhorah
 https://civitai.com/models/22827/talizorah-mass-effect
@@ -621,6 +631,10 @@ https://civitai.com/models/78038/clay-mann-artstyle-loha
 https://civitai.com/models/4996/warcraft-the-lora
 - SleepyGimp art
 https://civitai.com/models/70420/sleepygimp-style-lora
+- Antonella Fant art
+https://civitai.com/models/84305/antonella-fant-illustration
+- Dave Cheung art
+https://civitai.com/models/47276/style-tehdave
 ***
 - Masters of the Universe
 https://civitai.com/models/37797/filmation-motu-lora
@@ -666,7 +680,7 @@ https://civitai.com/models/67279?modelVersionId=75027
 - Game style
 	+ Banner Saga 
 https://civitai.com/models/56031/banner-saga-style
-	+ Diso Elysium 
+	+ Diso Elysium
 https://civitai.com/models/86567/disco-delirium
 	+ Fortnite
 https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
@@ -694,10 +708,6 @@ https://civitai.com/models/61074/james-fenner-jmfenner
 https://civitai.com/models/15357/darius-kawasaky-style
 - Amy Matthews art
 https://civitai.com/models/16567/amy-matthews-style-cartoonpink
-- Antonella Fant art
-https://civitai.com/models/84305/antonella-fant-illustration
-- Teh-Dave art
-https://civitai.com/models/47276/style-tehdave
 ***
 - The Legend of Zelda: Breath of the Wild game style (3D)
 https://civitai.com/models/54079/the-legend-of-zelda-breath-of-the-wild-style-lora
@@ -804,10 +814,6 @@ https://cyberes.github.io/stable-diffusion-textual-inversion-models/#thunderdome
 https://cyberes.github.io/stable-diffusion-textual-inversion-models/#warhammer-40k-drawing-style
 - Mars Attack
 https://civitai.com/models/30310/mars-attacks-embedding
-- Jasmine
-https://civitai.com/models/5709?modelVersionId=6648
-- Ariel
-https://civitai.com/models/5884/ariel-disney
 - Alessandro Barbucci art
 https://civitai.com/models/85716/denbarbucciartstyle
 - Milo Manara art

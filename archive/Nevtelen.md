@@ -42,10 +42,10 @@
 
 ->![](https://files.catbox.moe/ph3wb8.png)<-
 
-### ->[Calypso](https://files.catbox.moe/lexqhz.png)<-
+### ->[Calypso](https://files.catbox.moe/cxwus1.png)<-
 ->I am Calypso, and I thank you for playing Twisted Metal.<-
 
-->![](https://files.catbox.moe/lexqhz.png)<-
+->![](https://files.catbox.moe/cxwus1.png)<-
 
 - ->Thank you for coming to my page! I hope you have a wonderful and beautiful day!<-
 ->![](https://files.catbox.moe/h6g8z6.jpg)<-

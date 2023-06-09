@@ -19,7 +19,7 @@ This list currently only compiles published novels but I might create a seperate
 ‎
 **Avonoa Series** (2014-2021) by H. R. B. Collotzi 
 Fantasy (xenofiction)
-In this world, dragons maintain an ancient tradition of refusing to speak in front of humans to hide their true intelligence. Each dragon must pass the Krucible, a test of silence that acts as a sort of coming of age trial which indicates that a dragon has enough maturity to be allowed to venture beyond dragon territory. The story is told in a split POV, with 60% following Dak, who, having failed the Krucible many times, decides to sneak out after hearing that Tog, his friend, and Priya, a dragoness whom he has promised his heart to, has left with a group on a mission and the other 40% revolving around a reasonable prince, having inherited the throne, trying to deal with a "dragon problem" and the return of his long-lost sister. The first two books are relatively well-written, but by last book, the plot gets a bit convoluted and the author has to make some ass-pulls to give the story a conclusion. 
+In this world, dragons maintain an ancient tradition of refusing to speak in front of humans to hide their true intelligence. Each dragon must pass the Krucible, a test of silence that acts as a sort of coming of age trial which indicates that a dragon has enough maturity to be allowed to venture beyond dragon territory. The story is told in a split POV, with 60% following Dak, who, having failed the Krucible many times, decides to sneak out after hearing that Tog, his friend, and Priya, a dragoness whom he has promised his heart to, has left with a group on a mission and the other 40% revolving around a reasonable prince, having inherited the throne, trying to deal with a "dragon problem" and the return of his long-lost sister. For maximum enjoyment, only read the first two books.
 **The Secret of Avonoa**
 **ISBN-10** 1499758537
 **ISBN-13** 978-1499758535
@@ -53,28 +53,6 @@ A boy meets a dragon in a dream... then becomes one himself. Forced to hide from
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans. (also so far the only species that can wield magic).
 > **PS 4/5**
 ‎
-**Dragons of Etra** (2021-2022) by Chester Young
-Fantasy (xenofiction)
-A Wings of Fire-esque novel in which most dragons have an element and those that don't are superstitiously seen as bad omens, usually murdered upon hatching, save for the main protagonist who is able to survive until adulthood. The first book hits all of the standard cliches of a typical rogue/assassin fantasy and the series as a whole seems to be attempting to achieve a world record of cramming as many dragon tropes as possible in the entirety of 2 books. The author does has a passion for rider (bonding) and dragon pov stories, and even keeps his own list of dragon literature on his website.
-**Dragons of Etra Book 1: The Forgotten Element**
-*no ISBN, e-book only*
-> **DC 4.75/5**
-> ~~Humans are basically treated as mythological creatures that don't exist.~~ They do in the second book. 3.75/5
-> **CA 5/5**
-> See above. Wyvern-riding and mental bonding exists in the second novel, however.
-> **PS 2/5**
-> Sort of does run into the same pitfalls as Wings of Fire where dragons seem to have almost the same socioeconomic issues and societies as humans.
-‎
-**Fire of the Phoenix** (2021) by Azariah Jade
-Fantasy (xenofiction)
-A coming of age story that begins when a terrible calamity falls upon a hatchling's clan, forcing him into exile with the burden of a horrible curse. In terms of pacing, the latter half of the story is a bit rushed with a rather cliche ending.
-**ISBN-13** 979-8452680505
-> **DC 3.75/5**
-> This product may contain humans.
-> **CA 4/5**
-> **PS 3/5**
-> The "curse" and its source acts as the main antagonist of the story, with humans playing a relatively minor role. More focus is given to the different customs between dragon clans and their way of life.
-‎
 **Mating Flight: A Non-Romance of Dragons** (2015) by Bard Bloom
 Fantasy (xenofiction)
 Pretty strange book but quite fun to read. The author clearly had fun writing it too. Its a comedy about a set of misfit young dragons who go on a interdimensional trip to fight over who will marry who. Can be a bit of a difficult read at times, deliberately so. Had to refer to a dictionary several times. The dragons are presented as quite alien in their thinking in their thinking and society but in a pretty understandable way? Also unbelievably powerful. Some anons might not like how they are presented as not being wise paragons of virtue, but very amoral from a human standpoint and the flaws in their society are pretty clear to see. But if that doesn't bother you then then book is absurd, witty and explores some interesting themes. The book doesn't really have an ending its sequel is clearly meant to be read as one book.
@@ -102,7 +80,7 @@ In a setting heavily inspired by DND, a paladin meets a dragon and they go on a 
 ‎
 **Scaleshifter** (2019) by Shelby Hailstone Law
 Fantasy (TF)
-Following a war between two kingdoms involving artificial dragons, a child is drafted into the military and experimented on. After being turned into one, he escapes and comes under the tutelage of a real dragon who teaches him about their way of life. This novel is part of a 4-book series , with *The Black Dragon* (2020) about a female dragon in a similar situation.
+Following a war between two kingdoms involving artificial dragons, a child is drafted into the military and experimented on. After being turned into one, he escapes and comes under the tutelage of a real dragon who teaches him about their way of life. This novel is part of a 4-book series, with *The Black Dragon* (2020) about a female dragon in a similar situation.
 **ISBN-10** 169342889X
 **ISBN-13** 978-1693428890
 > **DC 4.5/5**
@@ -189,13 +167,20 @@ Yes, this is the same author who was part of the Erin Hunter team who wrote *War
 !!! info Info
 	There is no rating system.
 	This section is expanded upon anons' requests.
-
+‎
+**The Dinosaur Mafia Mysteries** (2000-2005) by Eric Garcia
+Detective Mystery
+In this offbeat detective novel series, there are dinosaurs living among us, disguised in human suits. Los Angeles part-time private investigator and full-time velociraptor, Vincent Rubio finds himself investigating what at first appears to be a simple insurance case but quickly finds himself in the middle of a full-on murder mystery complete with turgid affairs and mistaken identity. He only makes it through by the edge of his large talons.
+**Anonymous Rex**
+**ISBN-10** 0425178218
+**ISBN-13** 978-0425178218
+‎
 **Raptor Red** (1996) by Robert T. Bakker
 Historical Fiction? [late Cretaceous period] (xenofiction)
 The story of a young female Utahraptor by paleontologist Robert T. Bakker, who served as one of the fact-checkers for the film version of Jurassic Park. It was written as a sort of companion novel to his non-fiction book The Dinosaur Heresies, in which he exposed his then-revolutionary ideas about dinosaurs being a little more active and birdlike than the popular imagination's vision of them as big, stupid lizards. It's written as a kind of nature documentary that allows some insight into the animals' thoughts.
 **ISBN-10** 0553575619
 **ISBN-13** 978-0553575613
-
+‎
 ***
 #### Anthros
 !!! info Info
@@ -207,13 +192,13 @@ The story of a young female Utahraptor by paleontologist Robert T. Bakker, who s
 Fantasy (kobolds)
 (Section pending review)
 **ISBN-13** 979-8356838996
-
+‎
 **Ren of Atikala: Kobolds** (2013-2016) by David Adams 
 Fantasy (kobolds)
 (Section pending review)
 **ISBN-10** 1492335045
 **ISBN-13** 978-1492335047
-
+‎
 **Wings of War** (2015-2020) by Bryce O'Connor
 Fantasy (dragonborn)
 (Section pending review)

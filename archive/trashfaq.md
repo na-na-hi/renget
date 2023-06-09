@@ -73,6 +73,86 @@ Common examples:
 
 https://cryptpad.fr/sheet/#/2/sheet/edit/JzqLNo3G+B+YXzPeBrkje-sU/
 
+## How do I mix artists?
+Mixing artists means simply using multiple artists tags in conjunction, like "by Michelangelo, by Chrischan".
+There are no real rules to mixing artists, and there are as many methods for finding good-looking combos as there are SD users.
+
+Some methods you could use are:
+- Check out the cryptpad above, some anons have noted artists that have worked well or not so well. Feel free to add to it if you experiment so others have an easier time of it.
+- Check e621 for artists that look similar to what you want, then test them to see if your chosen checkpoint delivers the desired result.
+- In order to test if, and how much, an artist has an effect on your images, try testing the artist tag at various weights. X/Y/Z plot can help you immensely here. (see below)
+- Since SD 1.5 was trained on various non-furry artists, you can use them while prompting as well. Note that they may have less of an effect on Fluffyrock and Fluffusion compared to other models since the learned weights on base SD were being overwritten with each training epoch. As usual, experiment to see what works.
+	Ressources for base SD artists:
+	- https://www.urania.ai/top-sd-artists
+	- https://stablediffusion.fr/artists
+	- https://sdartists.app/#/
+- Begin slow, with one artist whose results you like. Then, add another one while testing the weights so they mesh well together. Once you have found your second artist, test to see if the first artist even has the desired result or not. Continue adding artists until you can't be bothered any longer.
+- If you can't think of any artists to add, you can use wildcards to try out random artists. 
+
+## How do I use the X/Y/Z plot script?
+A1111 Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#xyz-plot
+
+The script can be found at the bottom of both the t2i and i2i tabs.
+Using this, you can generate comparison plots similar to https://rentry.org/trashcollects#different-lora-sliders-what-do-they-mean.
+
+[![XYZ Plot Settings](https://files.catbox.moe/zcttam.png)](https://files.catbox.moe/zcttam.png)
+
+The "type" fields determine what parameter you want to compare along each axis (to clarify: X axis is left to right, Y axis top to bottom, and Z axis makes a seperate XY grid for each tested value).
+For parameters that use numbers, there are the following possible notations that all have the same results:
+- listing the exact values comma seperated
+	7, 9, 11
+- describe the range of values, and determine the size of each step
+	7-11 (+2)
+	This results in 3 rows, if the range were from 7-13 it would result in 4 rows
+- describe the range, and determine the number of rows/columns you want
+	7-11 `[3]`
+	This will calculate the value that is compared along the axis so you get the exact number of rows you put in square brackets.
+
+Prompt S/R allows you to replace parts of your prompt; first you enter the part of your prompt you want to replace, then comma, and then what you want to replace it with. Every new string you want to compare needs to be seperated with a comma too.
+
+Draw legend labels the grid axes. Include Sub Images and Grids displays not just the resulting grid, but also each image that was generated in the WebUI. Grid margins add empty space between each image in the grid.
+
+Resulting grid of the example shown in the screenshot above:
+[![XYZ Plot Results](https://files.catbox.moe/hoi6dh.jpg)](https://files.catbox.moe/hoi6dh.jpg)
+
+## What is SD Upscale?
+SD Upscale is a script that allows upscaling images even at lower VRAM counts.
+It seperates the image to be upscaled into smaller tiles, then proceeds to upscale each of these smaller tiles before putting them back together.
+I recommend installing Ultimate SD Upscale via the extension tab; unlike the base SD Upscale it is still being maintained and offers ControlNet Tile support. https://github.com/Coyote-A/ultimate-upscale-for-automatic1111/wiki/FAQ
+Both scripts can be found in the i2i tab's Script dropdown menu at the bottom of the page.
+
+[![Ultimate SD Upscale Settings](https://files.catbox.moe/who0x3.png)](https://files.catbox.moe/who0x3.png)
+Target size type lets you either determine the target resolution from the img2img settings above, or lets you determine the scale factor by which you want to upscale the base image.
+Upscaler lets you determine the Upscaler you wish to use; if you want to add more upscalers, you will need to put them in the appropriate folders in webui\models.
+Type can either be Linear or Chess. Chess is slower, but can be used to reduce visible seams between each tile.
+Tile width and height determine the size of each tile to be processed; the higher the resolution, the less tiles and the faster the redrawing is finished at the cost of needing to upscale larger images - which might defeat the whole point of using this script.
+Seams fixes are second passes over your upscale that can be used to reduce visible seams at the cost of at least twice the time cost.
+Mask blur and Padding should be left as-is.
+
+The most important setting to look out for is Denoising in the usual i2i settings. Make sure to not go too high, otherwise you will get a small version of your prompt for each tile, resulting in a collage.
+Denoise of .35 is usually the best to add details without going crazy; if the original is changed too much, try lowering to .25 or .2.
+
+Upscale results can be improved by using ControlNet Tile; among others, you can leave Denoising at a higher setting than usual, I sometimes can go as high as .75 without getting a collage.
+
+## What is Dynamic Prompts/What are wildcards?
+https://github.com/adieyal/sd-dynamic-prompts
+Dynamic Prompts is an extension that allows for more possible ways of varying and randomizing prompts. It has far too much to cover here, so check out the link above if you want to know more. I will only mention how to use wildcards in the following.
+
+Wildcards are simple text files that, if called in the prompt field, pick a random line of the file and replace the wildcard's name in the prompt with whatever is listed in the selected line. This allows for random changes of a prompt that vary from seed to seed. Wildcards need to be placed in stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards.
+One example could be a list of artists taken from the fluffyrock.csv, which you can use to randomly select artists for artist mixing.
+
+Installing Dynamic Prompts adds a Wildcards Manager tab to the WebUI. From here, you can download collections of wildcards from the GitHub repo to your local install. These collections contain various wildcards for artists, styles, and much more which can give you a solid base to work with.
+
+Wildcards are used by writing their name, surrounded by two underscores. A wildcard named "e621artists" containing three line-seperated artist names would be called by writing `__e621artists__` in the prompt field; one of the artists would be picked for each image you make.
+
+## What is ControlNet?
+ControlNet has its own set of models that can be used to further influence the composition of an image based on images you feed to it. A good guide for this is https://rentry.org/IcyIbis-Quick-ControlNet-Guide, I mostly want to focus on the Tile model that can be used to improve SD Upscale results, as well as give links to pruned fp16 models that work for me while not taking up as much disk space.
+ControlNet 1.1 pruned models: https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+These belong in stable-diffusion-webui\extensions\sd-webui-controlnet\models. Make sure to rename each .yaml file that comes with ControlNet so they are the same as the fp16 models (control_v11e_sd15_ip2p_fp16.safetensors belongs with control_v11e_sd15_ip2p_fp16.yaml, for example).
+
+Using ControlNet Tile with SD Upscale is simple: in the ControlNet panel, click on Control Type: Tile; the Preprocessor and Model fields should change to tile_resample and control_v11f1e_sd15_tile_fp16. I leave them as-is, as well as the rest of the settings.
+Make sure to Enable ControlNet, then use SD Upscale as usual. ControlNet Tile allows for higher denoising than normal, but it is not guaranteed to work. .75 can work, but may still result in wonky images. .5 should be normally safe, though.
+
 ## What is Offset Noise?
 Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
 Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.

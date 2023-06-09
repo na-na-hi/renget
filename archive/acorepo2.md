@@ -155,7 +155,7 @@ https://civitai.com/models/52419/dusty-fortnite
 https://civitai.com/models/80876/fable-fortnite
 - Haven
 https://civitai.com/models/53538/haven-fortnite
-- Haze and Surf Witch
+- Haze and Surf Wihch
 https://civitai.com/models/62399/haze-surf-witch-fortnite
 - Heidi
 https://civitai.com/models/57386/heidi-fortnite
@@ -165,6 +165,8 @@ https://civitai.com/models/29513/helsie-video-game-fortnite
 https://civitai.com/models/50843/fortnite-highwire
 - Jules
 https://civitai.com/models/30560/jules-fortnite
+- Loserfruit
+https://civitai.com/models/86708/loserfruit-fortnite
 - Lynx
 https://civitai.com/models/58440/lynx-fortnite
 https://civitai.com/models/58790/fortnite-lynx-lora

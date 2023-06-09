@@ -30,5 +30,8 @@ https://rentry.org/5xdhh
 >Futa bird story 
 https://rentry.org/4g92to
 
->Sphynx CYOA
-https://hardbin.com/ipfs/QmdpFDUX9xXYrsd2xtkBLLLBGgRVkv6yaqXMjSJdoDeNKM/#2hm3n3sCoy8VtoZL5YYCjm396zZTV3NhuQy9suTpc2UT-firstview
+>Giant riddles
+https://rentry.org/m2gvb
+
+>Me and Amy Rose
+https://rentry.org/m2uxi
