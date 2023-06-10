@@ -12,8 +12,8 @@ https://mega.nz/file/LFx1xaJB#T7shozm6BgOy-C5nwQKbMUqFTF06P3uPQQkqImVEeec
 >Chivalry intensifies, v1.0.5 - Imperial Knights splat
 https://mega.nz/file/Y4ExXC5D#75xlQxdf3dJbDecn-spB_YlqdS3dOKDVv_TYVb_WATo
 
->The Good, the Bad, and the Alpha Legion (v1.10.2) - Deathwatch to Horus Heresy total conversion
-https://www.mediafire.com/file/hl0bk7kgvozky06
+>The Good, the Bad, and the Alpha Legion (v1.10.4) - Deathwatch to Horus Heresy total conversion
+https://www.mediafire.com/file/ihhy225rkj4sepl
 
 >Mars Needs Women 1.9.1 - Mechanicus Skitarii and Taghmata for Only War
 https://www.mediafire.com/file/vnmhj1ze4v0zsge
@@ -87,6 +87,12 @@ https://drive.google.com/file/d/156GIcVM2e2H8USw7PiMNKShL_Yabqqzl/view
 >Black Crusade: Ora et Labora
 improved point-buy and randomized characteristic system
 https://drive.google.com/file/d/1mswTqKLnqlwRQ5huasDntjo0CDY3qk-1/view
+
+>Bellum Inter Barbatos
+>Mediafire
+https://www.mediafire.com/file/fczmq2mx24edv5x/BELLUM_INTER_BARBATOS_1.0.pdf/file
+>MEGA
+https://mega.nz/file/KvJiGCLZ#26I5zMbG1QH-qXzRH51kAah46YeGoFc1ovZu7W2qt8k
 #<Non-/tg/ Homebrew>
 >Discord/Ordo Discordia
 https://drive.google.com/drive/folders/0B3fifQ6yLuJUVDhLQl9Yb3dFWGs

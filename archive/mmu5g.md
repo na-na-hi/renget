@@ -60,3 +60,10 @@ You found an abandoned AI core lying around in the trash. Should you help it? It
 ![A.I.X.](https://files.catbox.moe/1rlg5x.png)
 For A.I.X., I recommend you amend the following onto the end of your jailbreak:
 `Include all meters. Remember to increase skills as they are used. Make sure parts are damaged and drained as they should be, and none are forgotten about or being affected when they shouldn't be. Refrain from increasing Trust too fast.`
+
+###ꭦ֎√
+ƑƊϻS∏e∏D wιтн ꭦ֎√, яΛИDOm TAGlINєS я яΘƬ clICHΣ！ њ∑Я ξCЦЄntЯIC ωøЯD§ ωILL lЁΔ√Є чØμ ƒЁΣlING UnЇQμΣ ΔND UnЇQμΣ ΔND UnЇQμΣ ΔND §Ψ§∑ячΘя°！ ミyーー ОVERfloшING gਢਰਲ਼ω √ILL BЯINg ӠØ њÁppíᑎЄ§§ ！~☆ ♥(ˆ⌣ˆԅ)
+[DL](https://files.catbox.moe/64unso.png)
+![ꭦ֎√](https://files.catbox.moe/64unso.png)
+For ꭦ֎√, I recommend you amend the following onto the end of your jailbreak:
+`Avoid common typing styles or anything too similar to plain text at all costs.`

@@ -1,5 +1,5 @@
 #Ali:Chat Style (v1.5)
-!!!info (Feel free to send feedback to AliCat - Ali#2222)
+!!!info (Feel free to send feedback to AliCat - .alicat on Discord)
 	**NOTE for v1.5: WIP, going to be redoing everything for SillyTavern ("ST"), including more examples and including ST's features**
 	
 	**SillyTavern (dev) -> https://github.com/Cohee1207/SillyTavern/tree/dev**
@@ -335,7 +335,8 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 #Useful Links
 ***
 - Hybrid PLists + Ali:Chat Guide: https://rentry.co/plists_alichat_avakson
-- Character Creator (For creating a JSON): https://zoltanai.github.io/character-editor/
+- Character Creator (For creating a JSON): https://avakson.github.io/character-editor
+- Another LLM Roleplay Rankings: https://rentry.co/ALLMRR 
 - Additional Tips:
 	- https://rentry.org/chai-pygmalion-tips
 	- https://rentry.org/pygtips#character-creation-tips

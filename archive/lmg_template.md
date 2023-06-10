@@ -4,12 +4,14 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
-!!! Note News Section Updated (06/06/2023)
+!!! Note News Section Updated (06/10/2023)
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(06/08) creepy miku won
+\>(06/07) chronos-33b released
 \>(06/06) RedPajama 7B released + Instruct&Chat
 \>(06/06) WizardLM 30B v1.0 released
 \>(06/05) k-quantization released for llama.cpp

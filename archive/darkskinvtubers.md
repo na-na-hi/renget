@@ -167,6 +167,7 @@ Sena Bonbon|[Twitter](https://twitter.com/Bonbon_Sena) [Youtube](https://www.you
 NYANA SEXTYN9|[Twitter](https://twitter.com/NYANASEXTYN9) [Youtube](https://www.youtube.com/@NYANASEXTYN9)|FlaVR
 Mixie Mixin|[Twitter](https://twitter.com/MixinMixie/) [Youtube](https://www.youtube.com/@mixiemixin)|FlaVR - Rhythm gamer, likes counting
 Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch.tv/sakumintsu)|
+ceelio|[Twitter](https://twitter.com/ceelio_ch) [Twitch](https://www.twitch.tv/ceelio)|
 
 ---
 
@@ -210,6 +211,8 @@ JiBoVT[EN]|[Twitter](https://twitter.com/GREATBLACKOTAKU) [Youtube](https://www.
 TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.tv/tetramh)|
 咲田みりん Sakuta Mirin [JP]|[Twitter](https://twitter.com/Mirin_Sakuta) [Youtube](https://www.youtube.com/@Mirin_Sakuta/streams)|
 Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
+eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https://www.twitch.tv/eveningstar_ch/)|
+
 
 ---
 

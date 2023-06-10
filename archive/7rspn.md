@@ -1,4 +1,31 @@
 ▶NEW CLIPS
+>Russians attack a AFU column
+https://files.catbox.moe/u1b7k9.mp4
+>Ukraine AD fail in Odessa
+https://files.catbox.moe/pw228a.mp4
+>Captured Ukrainian RPG gunner
+https://files.catbox.moe/80i1yj.mp4
+>POV: Hohol Bradley during Counter Offensyiiv™
+https://files.catbox.moe/chst1m.mp4
+>Russians dabbing on knocked out Bradleys and Leopard
+https://files.catbox.moe/boagnl.mp4
+>Lancet destroys command post of AFU
+https://files.catbox.moe/bd4zrb.mp4
+>FPV Drones take out an entire column
+https://files.catbox.moe/8wwq1d.webm
+>Scouts of the 71st Guards Motorized Rifle Regiment and 22nd Independent destroy five enemy vehicles:
+Two Leopard 2s
+https://files.catbox.moe/zhwt8v.mp4
+Two Bradleys
+https://files.catbox.moe/hkh7nk.mp4
+One unknown T-series tank
+https://files.catbox.moe/jitcgw.mp4
+> SIXTH (6th) Leotard Lost
+https://files.catbox.moe/ijm8ww.mp4
+>FIVE (5) was/were Leopards
+https://files.catbox.moe/smjk3r.mp4
+> 13 Bradleys and 2 Leopards get rekt
+https://files.catbox.moe/mqlb9a.MP4
 >METAL BAWXES burn
 https://files.catbox.moe/lh8f2o.mp4
 >Russian missile strike on ammo depot in Uman, Cherkassy Region:
