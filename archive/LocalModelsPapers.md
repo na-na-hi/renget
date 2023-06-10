@@ -82,6 +82,7 @@
 05/2023|[READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
 05/2023|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)
 06/2023|[Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://arxiv.org/abs/2306.00989)
+06/2023|[Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

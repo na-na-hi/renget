@@ -213,6 +213,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [An Overelming Week](https://rentry.org/overelming) *Not on Table, WIP*
 * Growlithe(s)
 	* [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t) *Not on Table*
+	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) *Not on Table*
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -395,6 +396,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [An Overelming Week](https://rentry.org/overelming)
 * [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
 * [Ross Tries to Train](https://rentry.org/cdb3z)
+* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

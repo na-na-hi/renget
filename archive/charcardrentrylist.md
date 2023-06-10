@@ -14,12 +14,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png), [Kajux](https://files.catbox.moe/ncx6fm.png), [Okatsu](https://files.catbox.moe/52jink.png), [Xia Ji](https://files.catbox.moe/yxzm5b.png), [Adrian](https://files.catbox.moe/ztk3n7.png), [Charis](https://files.catbox.moe/jrg8pq.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Suzume](https://files.catbox.moe/te9uhu.png)|[Suzume](https://files.catbox.moe/te9uhu.png) [MV], [Nina](https://files.catbox.moe/3c62eg.png) [MV]
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Suwako Moriya](https://files.catbox.moe/oqscau.png)|[Suwako Moriya](https://files.catbox.moe/oqscau.png) [MV], [Reisen](https://files.catbox.moe/a48h0g.png)
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Suzume](https://files.catbox.moe/nea6wl.png)|[Suzume](https://files.catbox.moe/nea6wl.png) [MV], [Nina](https://files.catbox.moe/3c62eg.png) [MV]
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png), [Kajux](https://files.catbox.moe/ncx6fm.png), [Okatsu](https://files.catbox.moe/52jink.png), [Xia Ji](https://files.catbox.moe/yxzm5b.png), [Adrian](https://files.catbox.moe/ztk3n7.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[ꭦ֎√](https://files.catbox.moe/64unso.png)|[ꭦ֎√](https://files.catbox.moe/64unso.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Hachirō](https://files.catbox.moe/va3spk.png)|[Hachirō](https://files.catbox.moe/va3spk.png) [MV]
 [Arkane](https://rentry.org/arkanebots) | Misc |[Allie](https://files.catbox.moe/8boe0h.png), [Mary](https://files.catbox.moe/o9aayt.png), [Muscle Girl Beach Resort](https://files.catbox.moe/zgm9wq.png), [Sandra](https://files.catbox.moe/7ltcub.png), [Tyler](https://files.catbox.moe/6v4268.png)|
-[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Ether](https://files.catbox.moe/62bwje.png), [Shirley](https://files.catbox.moe/6b262g.png), [Marika](https://files.catbox.moe/x91hjd.png), [Marisa](https://files.catbox.moe/nmuwu0.png), [Marie](https://files.catbox.moe/yibdzm.png)|[Avena](https://files.catbox.moe/dvedgn.png)
+[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Ether](https://files.catbox.moe/62bwje.png), [Shirley](https://files.catbox.moe/6b262g.png), [Marika](https://files.catbox.moe/x91hjd.png), [Marisa](https://files.catbox.moe/nmuwu0.png), [Marie](https://files.catbox.moe/yibdzm.png)|
 [Deleterious](https://rentry.org/deleterious) | Misc |[Joon](https://files.catbox.moe/s7ap2q.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Alicia](https://files.catbox.moe/2e0uqn.png), [Flavia](https://files.catbox.moe/q600fn.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Ranni the Slut Witch](https://files.catbox.moe/nb5k5d.png), [Misaki](https://files.catbox.moe/g07gmi.png), [The Rainey Street Gang](https://files.catbox.moe/sc9ivx.png)|
@@ -28,7 +29,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[Daniel Siegel](https://files.catbox.moe/bgvhze.png), [Midnight Moms](https://files.catbox.moe/l05nuk.png)|
 [Koikoikoi](https://rentry.org/4amrn) | Misc |[MF DOOM](https://files.catbox.moe/cahqin.png), [Dulcinea](https://files.catbox.moe/b9hmvy.png)|
 [Hitogami](https://rentry.org/imtookening/) | Misc |[Kikutsugami](https://files.catbox.moe/bgze0s.png)|
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Reisen](https://files.catbox.moe/a48h0g.png)|[Reisen](https://files.catbox.moe/a48h0g.png) [MV]
 [Genoo](https://rentry.org/295se) | Sizeplay |[Raiden Shogun](https://files.catbox.moe/9fh867.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Anise](https://files.catbox.moe/gqr3mt.png)|[Alec](https://files.catbox.moe/t4mo90.png), [Anise](https://files.catbox.moe/gqr3mt.png) [MV]
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||[Calypso](https://files.catbox.moe/cxwus1.png)

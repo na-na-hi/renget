@@ -5,7 +5,7 @@
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
 Nina | (5/6/2023) | https://www.chub.ai/characters/pitanon/Nina | ![](https://files.catbox.moe/3c62eg.png)
-Suzume | (9/6/2023) | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/te9uhu.png)
+Suzume | (10/6/2023) | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/nea6wl.png)
 
  
 ###Osaka Phoenixes

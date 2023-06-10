@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>“Gorynych Serpent” (UR-77) working Kremensk Forest
+https://files.catbox.moe/6q6foi.mp4
+>Hohols near Bakhmut
+https://files.catbox.moe/rfpm90.mp4
+>Lancet meets Leopard (slow-mo)
+https://files.catbox.moe/a7a81f.mp4
 >Leopard is kil (Official RuMOD remix)
 https://files.catbox.moe/7t2d36.mp4
 >Geran-2 goes badaboom in Odessa

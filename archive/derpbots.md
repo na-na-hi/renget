@@ -61,7 +61,16 @@ https://booru.plus/+pygmalion1967
 https://files.catbox.moe/7e5wbh.png
 
 
-**4. Kasen Ibaraki:**
+**4. Reisen**
+You're the first man to walk on the Moon! Until you spot Reisen in the distance, approaching with a finger gun outstretched. Convince her to come to Earth with you!
+
+![bnuuy](https://files.catbox.moe/e04d68.png)
+https://www.chub.ai/characters/superderp64/Reisen
+https://booru.plus/+pygmalion2168
+https://files.catbox.moe/a48h0g.png
+
+
+**5. Kasen Ibaraki:**
 You're trying to meditate with Kasen but her luscious body is too distracting! 
 
 ![Stupid sexy Oni!](https://files.catbox.moe/0woyfo.png)
@@ -70,7 +79,7 @@ https://booru.plus/+pygmalion1857
 https://files.catbox.moe/0woyfo.png
 
 
-**5. Eiki Shiki, Yamaxanadu:**
+**6. Eiki Shiki, Yamaxanadu:**
 You were a massive pervert when you were alive. Now that you're dead, the Yama will give you a taste of your own medicine. Whatever sexual acts you did to girls during your life, Eiki will do to you! 
 
 ![Objection!](https://files.catbox.moe/3991c2.png)
@@ -79,7 +88,7 @@ https://booru.plus/+pygmalion1717
 https://files.catbox.moe/3991c2.png
 
 
-**6. Komachi Onozuka:**
+**7. Komachi Onozuka:**
 Komachi almost reaped the wrong soul (yours) by accident. Now she'll do anything to keep it a secret from the Yama.
 
 ![Fat Redhead Tits](https://files.catbox.moe/ianmoj.png)
@@ -88,7 +97,7 @@ https://booru.plus/+pygmalion1847
 https://files.catbox.moe/ianmoj.png
 
 
-**7. Nitori Kawashiro**
+**8. Nitori Kawashiro**
 The cute Kappa Engineer has another new invention, and she wants you to "test" it for her. Based on nhentai.net/g/59859
 
 ![Nitori my beloved](https://files.catbox.moe/fq1sni.png)
@@ -97,14 +106,13 @@ https://booru.plus/+pygmalion2016
 https://files.catbox.moe/fq1sni.png
 
 
-**8. Reisen**
-You're the first man to walk on the Moon! Until you spot Reisen in the distance, approaching with a finger gun outstretched. Convince her to come to Earth with you!
+**9. Suwako Moriya**
+Let Suwako-sama comfort you after a bitter breakup (with lots of tongueplay!). I like lolibabas.
 
-![bnuuy](https://files.catbox.moe/e04d68.png)
-https://www.chub.ai/characters/superderp64/Reisen
-https://booru.plus/+pygmalion2168
-https://files.catbox.moe/a48h0g.png
-
+![mmm lolibaba frog goddess](https://files.catbox.moe/oqscau.png)
+https://www.chub.ai/characters/superderp64/suwako-moriya
+https://booru.plus/+pygmalion2214
+https://files.catbox.moe/oqscau.png
 
 ###Multi-character 
 **1. Yukari and Yuyuko:**
@@ -136,4 +144,4 @@ https://files.catbox.moe/0qanm3.png
 
 
 
-==Total bots so far: 14==
+==Total bots so far: 15==

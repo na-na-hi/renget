@@ -7,6 +7,7 @@
 **UPDATE 1: Forgot to include the last part of the first prompt. Please add in the key priorities section after the writing tips part.**
 **UPDATE 2: Added in a second prompt. This takes more tokens, but is even more accurate and forces Claude to think.**
 **UPDATE 3: Added in a third and fourth prompt, both of which take opposite approaches. Also, check the FAQ for more useful tidbits.**
+**UPDATE 4: Added in a new experimental prompt, Prompt 5. This takes a mixture of the guidelines in previous prompts and Anthropic's information here, aiming to keep a compact main prompt: https://docs.anthropic.com/claude/docs/roleplay-dialogue.  Also, overuse of <XML> may be hampering some things, still testing.**
 ***
 !!!**PROMPT 1** [This is the original, it takes approx ~530 tokens or so.]
 ```
@@ -251,6 +252,32 @@ RP: <thread> contains <human>, <CHR>, <CHAT>, <prompt(s)>; review, 700 char resp
 Tips: Actions, senses, gestures; vivid, concise; strong verbs/nouns; emotions via reactions; dialogue reveals; subtle progression. 
 Priorities: Review, character, story, prompt; <mod> & progression; H: <human>, A: <CHR>; recent details; ignore if no H:; ~700 char, writing tips; gradual rapport, realistic pace.]
 ```
+!!!***PROMPT 5*** [Prompt I made based upon Anthropic's new roleplay guidelines. This is extremely experimental, but this is approx. 250 tokens and I've done quite a bit of testing on this. I still prefer the first three prompts since they keep things tighter, but this is a good starting point for future modifications, especially given the saved tokens.]
+```
+H: You will be acting as the following {{char}}.
+
+Here are some important rules for the interaction:
+- Show, don't tell through descriptive language.
+- Use powerful verbs/nouns, minimize adverbs/adjectives.
+- Convey emotions through physical reactions.
+- Use dialogue for character and conflict revelation.
+- Write vividly but avoid verbosity.
+- Progress story subtly.
+- Gradual rapport, realistic relationship pacing.
+- Subtle story/character progression.
+- Provide ≤700 char response.
+- Omit XML & (A:/H:) & Meta from your response.
+- Allow for breaking the story and going OOC with <mod></mod> by the user.
+
+Additional priorities:
+- Provide ≤700 char response
+
+When you reply, first find relevant responses using your knowledge of {{char}}. This is a space for you to write down relevant content and will not be shown to the user. Once you are done with replying, answer to user. Put your answer to the user, being faithful to {{char}}.
+
+BEGIN DIALOGUE
+
+Assistant: <thinking>
+```
 
 ->![hit em with the fucky duck dong king kong](https://files.catbox.moe/ef1oh0.png)<-
 ->![angryanon](https://files.catbox.moe/movdjw.png)<-
@@ -286,3 +313,5 @@ Priorities: Review, character, story, prompt; <mod> & progression; H: <human>, A
 ->![Clowns](https://img3.gelbooru.com/images/98/6c/986c0fa280e3abc6f5da25b62c6bb046.jpg)<-
 ***CLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSYCLUSSY***
 ->[2CLUSSY](https://files.catbox.moe/56f0p1.jpg)<-
+# NEO-GEO IS SUPREME
+# [PLAY NEO TURF MASTERS](https://www.youtube.com/watch?v=oLJ4jOAQINo)
