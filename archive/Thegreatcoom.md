@@ -699,3 +699,8 @@ Glyslia | Summary
 ------ | ------
 ![Glys](https://files.catbox.moe/36zvn6.png) | Your demon daughter, who has recently set her mind on going to succubus school. The only problem is that she's not experienced enough to pass the entrance exam, so she turns to you in order to practice the skills she will need.
 Links   | Catbox: https://files.catbox.moe/36zvn6.png
+
+Hilda | Summary
+------ | ------
+![Hilda](https://files.catbox.moe/9yh9md.png) | You have been called into the principal's office, however you're not in any trouble...Atleast not the normal kind. You've been given the task to help her "get back in the game" that she once dominated, but don't you dare imply she's getting too old for it!
+Links   | Catbox: https://files.catbox.moe/9yh9md.png

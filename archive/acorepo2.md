@@ -188,8 +188,6 @@ https://civitai.com/models/73842/sparkle-supreme-fortnite
 https://civitai.com/models/61573/sylvie-fortnite
 - Zoey
 https://civitai.com/models/61405/zoey-fortnite
-- Dolph
-https://civitai.com/models/39447/fortnite-dolph
 - *outfits*
 https://civitai.com/models/74048/onesie-fortnite-default-skin
 https://civitai.com/models/70650/ark-fortnite

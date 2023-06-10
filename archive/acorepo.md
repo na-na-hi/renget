@@ -409,6 +409,7 @@ https://civitai.com/models/81688/suise-the-oblongs
 https://civitai.com/models/86907/pickles-the-oblongs
 - Wuya (Xiaolin Showdown)
 https://civitai.com/models/21663/wuya
+https://civitai.com/models/87335/wuya-xiaolin-showdown
 - Icy (Winx Club)
 https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
 - Dora the Explorer
@@ -495,9 +496,6 @@ https://civitai.com/models/16074?modelVersionId=18974
 https://civitai.com/models/84101/penny-plasm-or-mighty-magiswords
 - Webby Vanderquack (Ducktales 2017)
 https://civitai.com/models/16051/webby-vanderquack
-
-
----
 
 ## Game characters
 
@@ -609,31 +607,29 @@ https://civitai.com/models/84912/sally-boyle-we-happy-few
 
 ## Styles
 
-- Joe Mad art
+- Joe Mad 
 https://civitai.com/models/56650/joemad
-- Luis and Romulo Royo art
+- Luis and Romulo Royo 
 https://civitai.com/models/23845/luis-royo-and-woman
 https://civitai.com/models/23481/romulo-royo-and-woman
-- Enki Billal art
+- Enki Billal 
 https://civitai.com/models/17974/enki-billal
-- Jim Lee art
+- Jim Lee 
 https://civitai.com/models/8949/jim-lee-dc-comics-marvel-style-lora
-- Paolo Eleuteri Serpieri art
+- Paolo Eleuteri Serpieri 
 https://civitai.com/models/40179/pesdruuna-v100sd15
 https://civitai.com/models/79439/serpieri-style-lora
-- Mike Mignola art (2.1 SD only)
+- Mike Mignola (2.1 SD only)
 https://civitai.com/models/74592/mike-mignola-style-lora
-- Dan Mumford art
+- Dan Mumford 
 https://civitai.com/models/8211/danmumford-style-lora
-- Clay Mann art
+- Clay Mann 
 https://civitai.com/models/78038/clay-mann-artstyle-loha
-- Eva Widermann art (Warcraft)
+- Eva Widermann (Warcraft)
 https://civitai.com/models/4996/warcraft-the-lora
-- SleepyGimp art
+- SleepyGimp
 https://civitai.com/models/70420/sleepygimp-style-lora
-- Antonella Fant art
-https://civitai.com/models/84305/antonella-fant-illustration
-- Dave Cheung art
+- Dave Cheung
 https://civitai.com/models/47276/style-tehdave
 ***
 - Masters of the Universe
@@ -698,16 +694,26 @@ https://civitai.com/models/35886?modelVersionId=42085
 
 ## Miscellanea
 
-- Patrick Nagel art
+- Patrick Nagel 
 https://civitai.com/models/55943/patrick-nagel-pin-up-artist-series-nsfw
-- Ray Caesar art
+- Ray Caesar 
 https://civitai.com/models/23802/ray-caesar-style
-- James Fenner art
+- James Fenner 
 https://civitai.com/models/61074/james-fenner-jmfenner
-- Darius Kawasaky art
+- Darius Kawasaky 
 https://civitai.com/models/15357/darius-kawasaky-style
-- Amy Matthews art
-https://civitai.com/models/16567/amy-matthews-style-cartoonpink
+- Malika Favre 
+https://civitai.com/models/86718/malika-favre-flat-color
+- Jacqueline Bissett
+https://civitai.com/models/65466/fashion-watercolor
+- Marcel Marlier 
+https://civitai.com/models/85044/marcel-marlier
+- Lucy Fleming 
+https://civitai.com/models/64530/lucy-fleming-illustration
+- Antonella Fant 
+https://civitai.com/models/84305/antonella-fant-illustration
+- Jane Massey 
+https://civitai.com/models/86001/jane-massey-kid-illustration
 ***
 - The Legend of Zelda: Breath of the Wild game style (3D)
 https://civitai.com/models/54079/the-legend-of-zelda-breath-of-the-wild-style-lora

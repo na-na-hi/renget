@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Leopard is kil (Official RuMOD remix)
+https://files.catbox.moe/7t2d36.mp4
+>Geran-2 goes badaboom in Odessa
+https://files.catbox.moe/3fynuq.mp4
 >Russians attack a AFU column
 https://files.catbox.moe/u1b7k9.mp4
 >Ukraine AD fail in Odessa

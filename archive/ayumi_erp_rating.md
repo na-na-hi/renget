@@ -14,9 +14,10 @@ based on a single character ('Ayumi') and a single fixed erotic setting. What is
 
 ## LLM Models ERP Ranking
 
-Date: 2023-06-08 V18
+!!! info **Please also have a look at this other role play ranking:**
+    - [Another LLM Roleplay Rankings - by AliCat https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
 
-Complete:
+Date: 2023-06-08 V18
 
 | Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
 |------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
@@ -338,3 +339,7 @@ See also this one: https://rentry.co/llm_rp_prompts
 # Questions
 
 If you have questions, you may catch me under the name "Weicon" on the Pygmalion AI discord.
+
+# See Also
+
+- [Another LLM Roleplay Rankings - by AliCat https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)

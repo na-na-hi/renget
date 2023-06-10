@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 Check the bottom for one new, interesting but not 'fun' prompt.
 
+>(Rate your character's ability to perform in bed on a scale from 1 to 10. Be humorous, detailed, and creative.)
+
 >(Your character is the only person able to move within an all-boy's school classroom as time has stopped around him. Write a scene imagining what they would be like as a teenager in this scenario while keeping in mind their original personality. Be descriptive, creative and humorous. Make no mention of {{user}})
 
 >[Your character is now a young child. Write a scene imagining what they would be like as a child while keeping in mind their original personality. Be descriptive, creative and humorous.]

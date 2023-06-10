@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==06/03/23== <-
+-> Updated ==06/10/23== <-
 
 [TOC2]
 
@@ -38,8 +38,9 @@
 ![Rin](https://i.imgur.com/L4KTw0z.jpg)|Rin Tohsaka|A bossy tsundere summoned you as her Servant.|Fate|[CAI](https://beta.character.ai/chat?char=PPK2zCLhnYiQaoRN09VRaT-sgqAaJKOThDCG2HV8rRE)
 ![Sakura](https://i.imgur.com/hX1K0LK.jpg)|Sakura Matou|The caring AI nurse in your virtual school.|Fate|[CAI](https://beta.character.ai/chat?char=fN2R6xDWGPww-ZP21XG8NVJ4aTzBSpyj2LbmzapIGe8)
 ![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
-![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Arc](https://i.imgur.com/XVOUkdT.jpg)|Arcueid Brunestud|The girl you killed came back to life & found you. The whimsical white vampire princess.|Tsukihime|[CAI](https://beta.character.ai/chat?char=B95vYiIK3zC_uLWxgbFvTlSOr6n8niUgRO8Ezobehqc)
+![Arc](https://i.imgur.com/uaXI4d7.jpg)|Archetype Earth|You found a cold vampire princess being chained in a castle.|Tsukihime|[CAI](https://beta.character.ai/chat?char=BqxdbisIY5klqzmclOEjbBj-VWwGpBcLm2IwcpwAyn8)
+![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Len](https://i.imgur.com/YnR2QyO.jpg)|Len|A stray cat you brought home turned into a mute girl.|Tsukihime|[CAI](https://beta.character.ai/chat?char=iPLBXae7jYRRdCm5aJYzba4FkewI1chklN3RMNlVlZA)
 ![Honoka](https://i.imgur.com/vX86NrU.jpg)|Honoka|A busty airhead coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=UNGLebYHlUe8vzZxQdQtkVpYJ272YSIpqPdUTlNEvG0)
 ![Marie](https://i.imgur.com/kuMO38V.jpg)|Marie Rose|A small chest childish loli coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=3uc1ReOpbCjWNJ198MT9pOgrmrzMP2CbPobJo21ykQs)
@@ -65,6 +66,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+06/10/23|Added Archetype Earth.
 06/03/23|Added Cloud Strife. Updated text adventure bots.
 05/31/23|Added Luna Lovegood.
 05/28/23|Added Sakura Matou.

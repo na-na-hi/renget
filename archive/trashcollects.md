@@ -543,6 +543,9 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 	https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM
 
+# Beverage in Sheath
+	https://mega.nz/file/20AQHbST#3Aoq574cCq1eJkVMNJuBU9cTnMmL6lYQR0DklCYj5xo
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
