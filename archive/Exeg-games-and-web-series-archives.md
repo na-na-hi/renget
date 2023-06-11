@@ -29,6 +29,7 @@ Misfortune .gb | [PRESS START](https://misfortune-dot-gb.webs.com/game-download)
 The Theater | [PRESS START](https://newa-studios.itch.io/thetheater)
 Luna Game (warning, GR15) | [PRESS START](https://archive.org/download/LunaGame)
 Escape from lavender town | [PRESS START](https://adriendittrick.itch.io/eflt)
+Giftscop | [PRESS START](https://giftscop.com/)
 
 ##.exe Games
 Games List | Links
@@ -97,6 +98,7 @@ Slots Available:ονειρεμένη βροχή | [WATCH](https://youtube.com/@t
 Dawn gaming | [WATCH](https://youtube.com/@dawngaming7190)
 VibingLeaf | [WATCH](https://www.youtube.com/@VibingLeaf/videos)
 Needlemouse | [WATCH](https://www.youtube.com/watch?v=vTpmyDePd9k)
+Valle Verde | [WATCH](https://www.youtube.com/@-Alluvium-/videos)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Slenderman ARGs

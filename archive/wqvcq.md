@@ -1,8 +1,8 @@
 # /utg/ Recommended Fangames
 *A collection of Undertale and Deltarune fangames "recommended" by the anons of /utg/.*
 
-==Last edited: April 7th, 2023
-Latest Addition(s): **Deltarune Chapter Rewritten - Scampton The Great** (Fan Fights)==
+==Last edited: June 11th, 2023
+Latest Addition(s): **Papyrus' BELIEF** (Works in Progress)==
 !!! note [Original Pastebin Info](https://pastebin.com/ZHASpj9h) (Last edited: February 27th, 2016)
 
 ## Table of Contents ![Tra la la.](https://i.imgur.com/aI8L0PU.png)
@@ -93,6 +93,11 @@ https://rynogg.itch.io/deltatraveler
 A fanmade, unofficial mod for Undertale that completely reimagines it with new sprites and whatnot, including new characters, music, and backported content from Deltarune and the console versions of Undertale, to name a few.  Currently has most content through Hotland completed.  (Updated: January 9th 2023)
 
 https://gamejolt.com/games/UndertaleBnP/574044
+
+**Papyrus' BELIEF** - Kasssm et al.
+A reimagining of the Disbelief Papyrus AU that aims to be more in line with Papyrus' character.  Originally started off as an animation, it is now being developed into an actual playable fight! (No demo available. [Phase 1 Teaser available.](https://m.youtube.com/watch?v=-1OL_DH_7FI&feature=youtu.be))
+
+https://gamejolt.com/games/PapyrusBelief/695903
 ***
 # Fan Fights
 *Short and sweet fangames that get straight to the point. Remember the notice about Unitale.*

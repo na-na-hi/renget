@@ -217,7 +217,7 @@ Roughly in farming order; may vary depending on your account.
 
 ##### G3
 
-Roughly in priority; will vary depending on your account. Many G3 stigmatas listed here are farmed to transmute into their G4 counterpart. So if you have a lightning valkryie, you'll probably be farming Ishikawa Goemon to transmute to Handel
+Roughly in priority; will vary depending on your account. Many G3 stigmatas listed here are farmed to transmute into their G4 counterpart. So if you have a lightning Valkyrie, you'll probably be farming Ishikawa Goemon to transmute to Handel
 
 - | Why You Should Farm It | When to forge
 -- | -- | --
@@ -266,7 +266,7 @@ Here is a general farming order. Note that a beginner will easily have enough fu
 16. Others
 
 ### Income
-- 40 Time Swirl Pass from Elysian Shop per week. Cost: 64 Rusted Isignia
+- 40 Time Swirl Pass from Elysian Shop per week. Cost: 64 Rusted Insignia
 - 90 Time Swirl Pass from Mirage Store per week. Cost: 1 Asterite
 - 1000 Time Swirl Pass from Mirage Store per patch. Cost: 1000 time structures
 - 20 Time Swirl Pass from Mirage Store per week. Cost: 160 Ranger Creds
@@ -274,27 +274,103 @@ Here is a general farming order. Note that a beginner will easily have enough fu
 - 150 Time Swirl Pass from Starter Event missions per week
 - Some fairly large amount from events
 
+For new players, they can potentially get up to 472 time swirl passes per week (assuming a six week patch), excluding events. Since buying time swirl passes from the mirage store with ranger creds is extremely expensive, this number is more realistically 452 time swirl passes per week, again excluding events. Players who do not have access to the starter material shops will have this number dwindled down to 302, or 294 if they also choose to not get time swirl passes from the BP arsenal.
+
+As of patch 6.6, players have received 200 time swirl passes. Though 6.6 was a 5-week patch, it's realistic to assume about 200 time swirl passes given as rewards for completing time-limited events, so I'll put this as 34 time swirl passes per week.
+
 ### Time horizon - "How long does it take?"
 
-Until I get someone to crunch some actual numbers, here's a [SWAG](https://en.wikipedia.org/wiki/Scientific_wild-ass_guess) on how long it takes to farm a single stigmata piece
+Keep in mind that beginners will be able to farm stigmata pieces at a much faster rate, as they not only get the extra time swirl passes and ether fuel from the starter material shop, they also receive one-time bonuses from free mirage hoard rewards and from unlocking achievements.
+
+I will assume 6-week patches and that you no longer have access to the starter event and its material shop,  that you fully complete evens and redeem the event currency to buy time swirl passes from the corresponding event shop, that you buy swirl passes from the mirage store with ranger creds, and that you not buy them from the BP Arsenal with honor chips. That comes down to 294 + 20 + 34 = 348 time swirl passes per week. I will round this up to 350 to make it easier to perform calculations.
+
+Red and purple lens, SS imaginons, and Honkai Pieces are not included as this would further complicate calculations and time swirl passes, Ether Fuel, and Crystalyte are the more important bottlenecks (for the time it takes to farm one G3 stigmata piece, you can get half of the required red lens just from Elysian Realm alone)
+
 
 ##### G4 Stigmata
 
-Around 5 weeks each
+To Farm:
+- 140 G4 Crystalyte
+- 200 G3 Crystalyte
+- 2900 ether fuel (1800+1100)
+
+Approach:
+1. Clear stage 7 7 times to obtain 14 G4 and 49 ether fuel
+2. Clear stage 6 3 times. Use time swirl passes each time you clear stage 6, to get a total of 36 G3 and 138 ether fuel. You will have 50 time swirl passes left over. Since you can only obtain time swirl passes three times, this is dubbed the "odd" week
+3. For the next week, clear stage 7 6 times to obtain 12 G4 and 42 ether fuel
+4. Clear stage 6 4 times, each time using time swirl passes to claim mirage hoard rewards. This nets you 48 G3 and 184 ether fuel. Since you can only obtain time swirl passes four  times, this is dubbed the "even" week. You will have zero time swirl passes left over.
+5. Dubbing one odd week and one even week together as one cycle, each cycle should net us 413 ether fuel, 26 G4 Crystalyte, and 84 G3 Crystalyte
+6. Repeat this cycle 5 times, which will net you 2,065 ether fuel, 130 G4 Crystalyte, and 420 G3 Crystalyte. Recycle 220 G3 Crystalyte to get 660 ether fuel, which gives us 2,725 ether fuel, 130 G4 Crystalyte, and 200 G3 Crystalyte
+7. We only need 175 ether fuel and 10 G4 Crystalyte left. Clear stage 7 one time with time swirl passes one one without to get 10 G4 Crystalyte and 56 ether fuel. 119 ether fuel is left. Clear stage 6 two times and obtain the mirage hoard rewards. Recycle the G3 Crystalyte into ether fuel to get 164 ether fuel. You will have 45 surplus ether fuel
+
+Total time spent: 10 weeks plus 4 invites of mirage (so 10 1/2 weeks)
+
+Assuming you obtain ether fuel from events, tactical training, and from the Logistics Terminal, you can further reduce the time. 
+
+Total time to farm one G4 set: 31 weeks (aka 5 patches or 7 months)
+
 
 ##### G3 Stigmata
 
-Around 3 weeks each
+To Farm:
+- 200 G3 Crystalyte
+- 1800 ether fuel
+
+Approach:
+1. On the odd week, clear stage 6 3 times and use time swirl passes to obtain the mirage hoard rewards. The clear stage 6 7 times without obtaining the mirage hoard rewards. This nets you 138 ether fuel and 36 G3 Crystalyte from clearing with mirage hoard rewards, and 42 ether fuel and 21 G3 Crystalyte from clearing without mirage hoard rewards
+2. On the even week, clear stage 6 4 times and use time swirl passes to obtain the mirage hoard rewards. The clear stage 6 6 times without obtaining the mirage hoard rewards. This nets you 184 ether fuel and 48 G3 Crystalyte from clearing with mirage hoard rewards, and 36 ether fuel and 18 G3 Crystalyte from clearing without mirage hoard rewards
+3. For one cycle, you should get 322 ether fuel and 84 G3 Crystalyte
+4. Repeat this cycle 4 times to get 1288 ether fuel and 336 G3 Crystalyte. Recycle the 136 G3 Crystalyte to get 408 ether fuel. We now have 1,696 ether fuel and need 104 ether fuel left to complete farming one G3 stigmata piece
+5. On the ninth week, clear stage six one time with mirage hoard rewards and recycle the ether fuel to get 82 ether fuel. With 22 ether fuel left, clear stage 6 twice without claiming mirage hoard rewards. You will have a surplus of 8 ether fuel
+
+Total time spent: 8 weeks plus 3 invites of mirage (I will round this down to 8 weeks)
+
+Assuming you obtain ether fuel from events, tactical training, and from the Logistics Terminal, you can further reduce the time. 
+
+Total time to farm one G3 set: ~25 weeks (aka 4 patches or 5 1/2 months)
+
+!!! note On using time swirl passes for farming G2 and G1 stigmata/weapons
+    I don't really recommend using time swirl passes to claim mirage hoard rewards for G2 and G1 stigmata, as according to the efficiency chart above, you end up wasting time swirl passes in order save time. However, it is okay if you want to quickly farm important G2 and G1 stigmata/weapons such as Jin Shengtan TM and divine keys (Pledge of Sakura and Abyss).
 
 
 ##### G2 Stigmata
 
-Around 2 weeks each
+To Farm:
+- 200 G2 Crystalyte
+- 900 ether fuel
+
+Approach:
+1. Since redeeming mirage hoard rewards upon clearing stage 4 costs 80 time swirl passes, clearing stage 4 4 times in a week costs 320 time swirl passes  If you clear stage 4 4 times on the even week and 5 times on the odd week, each time claiming mirage hoard rewards, you will have spent 720 time swirl passes for one cycle (one odd week plus one even week). I will assume you can obtain 24 time swirl passes from somewhere (open world, achievement rewards, etc.)
+1. Clear stage 4 4 times and use time swirl passes to obtain the mirage hoard rewards. This nets you 148 ether fuel and 56 G2 Crystalyte. Then clear stage 4 6 times without using time swirl passes to get a total of 30 ether fuel and 24 G2 Crystalyte. For the even week, you get a total of 178 ether fuel and 80 G2 Crystalyte
+2. On the odd week, clear stage 4 5 times and use time swirl passes to obtain the mirage hoard rewards. This nets you 185 ether fuel and 70 G2 Crystalyte. Then clear stage 4 5 times without using time swirl passes to get a total of 25 ether fuel and 20 G2 Crystalyte. For the odd week, you get a total of 210 ether fuel and 90 G2 Crystalyte
+3. One cycle (one even week plus one odd week) will give you a total of 388 ether fuel and 170 G2 Crystalyte
+4. On the third week, you will need 512 ether fuel and 30 G2 Crystalyte left. Clear the fourth stage three times, two times with mirage hard rewards and the third time without. This will take care of the G2 Crystalyte shortage and give us 79 ether fuel. Recycle the two extra G2 Crystalyte into ether fuel to get 83 ether fuel total. You will now be short 429 ether fuel
+5. With approximately 200 time swirl passes left, clear stage 6 two times and use what little time swirl passes you have left to claim the mirage hoard rewards. That gives us 92 ether fuel and 24 G3 Crystalyte. Recycle the G3 Crystalyte to get 164 ether fuel in total, leaving us 265 ether fuel short. With five invites of mirage left for the week, clear stage 6 5 times normally without claiming mirage hoard rewards, giving us 30 ether fuel and 15 G3 Crystalyte. Recycle the G3 Crystalyte to get 75 ether fuel in total, leaving us with 190 ether fuel
+6. For the fourth week, clear stage 6 3 times and use your time swirl passes to claim the mirage hoard rewards. Since you get 350 time swirl passes per week, the 50 time swirl passes should be enough to cover any deficit that these calculations bring. This nets you 138 ether fuel and 36 G3 Crystalyte from clearing with mirage hoard rewards. Recycle the G3 Crystalyte to get 246 ether fuel. You will have 56 ether fuel left over
+
+Total time spent: 3 weeks plus 3 invites of mirage (I will round this down to 3 weeks)
+
+Assuming you obtain ether fuel from events, tactical training, and from the Logistics Terminal, you can further reduce the time. 
+
+Total time to farm one G2 set: ~10 weeks (aka 1 1/2 patches or 2 1/2 months)
 
 
 ##### G1 Stigmata
 
-Around a week and a half
+To Farm:
+- 190 G1 Crystalyte
+- 700 ether fuel
+
+1. Since redeeming mirage hoard rewards upon clearing stage 2 costs 60 time swirl passes, clearing stage 2 6 times in a week costs 360 time swirl passes. Since you only get 350 time swirl passes per week, we will have a deficit of 10 time swirl passes for just the first week.
+2. Clear stage 2 6 times and use time swirl passes to obtain the mirage hoard rewards. This nets you 168 ether fuel and 132 G1 Crystalyte. Then clear stage 6 4 times without using time swirl passes to get a total of 24 ether fuel and 12 G3 Crystalyte. Recycle the G3 Crystalyte, so you end up with 60 ether fuel from clearing stage 6 4 times. For the first week, you get a total of 228 ether fuel and 132 G2 Crystalyte. That leaves us with 472 ether fuel and 58 G1 Crystalyte to farm.
+3. For the second week, clear stage 6 3 times and use your time swirl passes to claim the mirage hoard rewards. Since you get 350 time swirl passes per week, the deficit of 10 time swirl passes subtracted from the extra 50 time swirl passes we have gives us a surplus of 40 time swirl passes. Clearing stage 6 3 times nets us 138 ether fuel and 36 G3 Crystalyte from clearing with mirage hoard rewards. Recycle the G3 Crystalyte to get 246 ether fuel. That leaves us with 226 ether fuel left to farm. Clear stage 4 7 times without claiming mirage hoard rewards for the remainder of the week, to get 35 ether fuel and 28 G1 Crystalyte. We now have 191 ether fuel and 30 G1 Crystalyte left to farm
+4. For the third week, clear the second stage twice, one without claiming the mirage hoard rewards and one with claiming the rewards. This fulfills the G1 Crystalyte quota and 159 ether fuel left to farm. Clear stage 6 2 times, each time claiming the mirage hoard rewards, netting you 92 ether fuel and 24 G3 Crystalyte from clearing with mirage hoard rewards. Recycle the G3 Crystalyte to get 164 ether fuel. We now have a net 5 ether fuel
+
+Total time spent: 3 weeks plus 4 invites of mirage (3 1/2 weeks)
+
+Assuming you obtain ether fuel from events, tactical training, and from the Logistics Terminal, you can further reduce the time. 
+
+Total time to farm one G2 set: ~10 weeks (aka 1 1/2 patches or 2 1/2 months)
 
 
 ##### Reroll Devices

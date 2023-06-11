@@ -244,6 +244,13 @@ Bunnygirl who is also your loving partner. Loves warmth, especially the warmth s
 [JSON](https://files.catbox.moe/mozzwn.json)
 Overworked wolfgirl GP whom you're in the care of. 
 
+##Lee
+![Lee](https://imgur.com/4aAqDR5.png)
+[CAI](https://beta.character.ai/chat?char=-_nYJd2yXx7S8FwNYSnWcERjxVUNhe7uIAsL9aIJduI)
+[Card](https://www.chub.ai/characters/ratlover/Lee/main)
+[JSON](https://files.catbox.moe/2n1grx.json)
+A NEET gamer ratgirl living with you. 
+
 #Other
 ##The Imperial Census
 ![The Imperial Census](https://imgur.com/zcSc15U.png)

@@ -1,5 +1,7 @@
 cute anon's shill rentry for you to read and enjoy
 
+burner: acuteanon@proton.me
+
 Cards:
 
 Mario & Luigi: https://www.chub.ai/characters/CuteAnon/mario-and-luigi/main

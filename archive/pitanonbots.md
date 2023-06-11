@@ -5,8 +5,8 @@
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
 Nina | (5/6/2023) | https://www.chub.ai/characters/pitanon/Nina | ![](https://files.catbox.moe/3c62eg.png)
-Suzume | (10/6/2023) | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/nea6wl.png)
-
+Suzume | (10/6/2023) Added alternative greeting | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/x86rgz.png)
+Suzume's chat | (10/6/2023 | https://www.chub.ai/characters/pitanon/suzumes-livestream-chat | https://files.catbox.moe/s4zwuj.png
  
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB  | Card |
@@ -55,3 +55,9 @@ Put this at the end of the character's description
 Perspiration: This is the current perspiration level of {{char}}. This statistic will provide a short description of any sweat on {{char}} body as well as their smell.
 
 ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
+
+###Card Art
+| Character | Images
+|---|---|
+Nina | https://files.catbox.moe/8i50m3.zip
+Suzume | https://files.catbox.moe/kyttbm.zip https://files.catbox.moe/7yb8ms.zip https://files.catbox.moe/apg4jf.zip

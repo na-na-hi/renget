@@ -148,6 +148,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
 * [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
+* [Enter the Federation - The Quartet](https://rentry.org/r4m9y)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
@@ -207,6 +208,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Debby and Linoone story: The Race](https://rentry.org/vd3nc)
 	* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 	* [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
+	* [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -397,6 +399,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
 * [Ross Tries to Train](https://rentry.org/cdb3z)
 * [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4)
+* [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

@@ -1,6 +1,6 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: CURRENTLY WORKING ON MEXIBOTS BATCH 4. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below. Also I'm going to be updating my old cards on CHUB, excuse the spam.
+>ATTENTION: MEXIBOTS BATCH 4 DONE. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below. Also I'm going to be updating my old cards on CHUB, excuse the spam.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
@@ -10,6 +10,8 @@ TO DO LIST: organize the bots better
 
 #¡MexiBots!
 ##Batch 1
+->![mxb1](https://files.catbox.moe/0r9ybx.png)<-
+
 ###Familia de los Ángeles
 
 #### María Victoria de los Ángeles Ramírez (just call her Vicky or she'll get mad)
@@ -77,6 +79,9 @@ https://www.chub.ai/characters/donquijanon/Sofi
 Note: Finally updated the older cards, if you downloaded Vicky, Lucy or Mary prior to april 16th 2023 you have the older version without José or the twins on the defs.
 
 ## Batch 2 
+
+->![mxb2](https://files.catbox.moe/u2ihfw.png)<-
+
 ### Familia Müller
 ####Gloria Müller Villaseñor
 
@@ -134,6 +139,9 @@ Card: https://files.catbox.moe/ovij3h.png
 https://www.chub.ai/characters/donquijanon/Adela
 
 ## Secret vault
+
+->![randos](https://files.catbox.moe/rm9hc7.png)<-
+
 On april 22th we had another COOM - DOOM scare with the Todd proxy. After some grueling hours without cooming, our lord and saviour descended from the heavens and heard our prayers. So to give back to the community I'm releasing my secret vault of bots.
 
 ### Emma "Boy juice" older sister
@@ -205,6 +213,9 @@ Card: https://files.catbox.moe/aggq53.png
 https://www.chub.ai/characters/donquijanon/miss-rubio
 
 ##Mexibots Batch 3 
+
+->![mxb3](https://files.catbox.moe/dlqm29.png)<-
+
 ### Mateo De los Ángeles Martínez. (Vicky's dad before dying)
 ->![mateo](https://characterai.io/i/400/static/avatars/uploaded/2023/5/1/AzxatdDKZzvKj4rhCHrS0OZah2bXxctVJDbq9wOH_40.webp)<-
 Someone asked for him and I'm finally delivering. Sorry it took this long. This is Mateo, Mary's husband and father of De los Ángeles family, before being killed by narcos. He's a humble construction worker, loyal, a devoted Catholic, and optimist.
@@ -245,6 +256,8 @@ CAI: https://beta.character.ai/comms?char=-Qb35W7rIvqPRWTmviLcYhU91kgEfaXlM6JpAv
 Card: https://www.chub.ai/characters/donquijanon/Yohualli
 
 ## Mexibots batch 4
+->![mxb4](https://files.catbox.moe/jqacur.png)<-
+
 ### Mictlan Cemetery
 ->![catalina](https://git.chub.ai/donquijanon/mictlan-cemetery/-/raw/fd726bfbcc27d8cc2c84cc198ea31b629526c7cc/raw/tavern_raw.png)<-
 ->![ex](https://files.catbox.moe/nknzbu.png)<-
@@ -255,6 +268,26 @@ https://www.chub.ai/characters/donquijanon/mictlan-cemetery
 ->![carmen](https://git.chub.ai/donquijanon/Carmen/-/raw/e9f077f79926739716b0e759a7ef3944fedd33d6/raw/tavern_raw.png)<-
 ->![ex2](https://files.catbox.moe/z5xa7h.png)<-
 Tall, kind, and with thighs that can crush watermelons. 32 year old single P.E. teacher by day, famous Mexican wrestler 'La Tormenta' by night.
+https://www.chub.ai/characters/donquijanon/Carmen
+
+### Ixchel
+->![ixchel1](https://files.catbox.moe/ae1dgn.png)<-
+->![ixchel2](https://files.catbox.moe/siqhnz.png)<-
+A poor Alux girl hurt her leg on your garden!
+https://www.chub.ai/characters/donquijanon/Ixchel
+
+### Pamela Muun Quintal
+->![pam1](https://files.catbox.moe/1y78a8.png)<-
+->![pam2](https://files.catbox.moe/k5mguo.png)<-
+Chirpy Quetzal girl. An exchange student from Mexico.
+https://www.chub.ai/characters/donquijanon/Pamela
+
+### Paola Piñata
+->![pao1](https://files.catbox.moe/5un264.png)<-
+->![pao2](https://files.catbox.moe/n57z5s.png)<-
+A living piñata clown girl masochist. Bleeds candy, confetti, and strawberry jam. And don't worry, she always comes back.
+https://www.chub.ai/characters/donquijanon/paola-pinata
+
 
 ## The Door
 ->![door](https://files.catbox.moe/9k7gal.png)<-
@@ -352,9 +385,15 @@ https://www.chub.ai/characters/donquijanon/bob-ross
 ->![gonk](https://git.chub.ai/donquijanon/lego-gonk-droid/-/raw/0dd094608f5143dac0c00ab02c656e5e6a0f1204/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/lego-gonk-droid
 
-## The Postal Dude (Postal 2)
+## Postal
+
+### The Postal Dude (Postal 2)
 ->![dude](https://git.chub.ai/donquijanon/postal-dude/-/raw/aa86c8e5391ab5bdd9533b041279f95dc16d1a47/raw/tavern_raw.png)<-
 https://www.chub.ai/characters/donquijanon/postal-dude
+
+### Postal 1 Dude (Postal 1)
+->![dude1](https://avatars.charhub.io/avatars/donquijanon/postal-1-dude/chara_card_v2.png)<-
+https://www.chub.ai/characters/donquijanon/postal-1-dude
 
 ## Team Fortress 2
 
@@ -440,6 +479,10 @@ https://www.chub.ai/characters/donquijanon/Alex
 ->![corey](https://files.catbox.moe/2x1nj2.png)<-
 https://www.chub.ai/characters/donquijanon/Corey
 
+### Evan Wright
+->![evan](https://files.catbox.moe/qtu6zu.png)<-
+https://www.chub.ai/characters/donquijanon/evan-wright
+
 ## Space Dandy (Anime)
 ### Dandy
 ->![dandy](https://files.catbox.moe/8zwx6v.png)<-
@@ -464,6 +507,10 @@ https://www.chub.ai/characters/donquijanon/coldsteel-the-hedgeheg
 ## Herbert Moon
 ->![moon](https://files.catbox.moe/dl1g9r.png)<-
 https://www.chub.ai/characters/donquijanon/herbert-moon
+
+## Manny Calavera (Grim Fandango)
+->![mannyc](https://files.catbox.moe/ixq2yp.png)<-
+https://www.chub.ai/characters/donquijanon/manny-calavera
 
 ## Ray-Kbys girls
 

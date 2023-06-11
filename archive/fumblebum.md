@@ -7,7 +7,7 @@
 **UPDATE 1: Forgot to include the last part of the first prompt. Please add in the key priorities section after the writing tips part.**
 **UPDATE 2: Added in a second prompt. This takes more tokens, but is even more accurate and forces Claude to think.**
 **UPDATE 3: Added in a third and fourth prompt, both of which take opposite approaches. Also, check the FAQ for more useful tidbits.**
-**UPDATE 4: Added in a new experimental prompt, Prompt 5. This takes a mixture of the guidelines in previous prompts and Anthropic's information here, aiming to keep a compact main prompt: https://docs.anthropic.com/claude/docs/roleplay-dialogue.  Also, overuse of <XML> may be hampering some things, still testing.**
+**UPDATE 4: Added in a new experimental prompt, Prompt 5. This takes a mixture of the guidelines in previous prompts and Anthropic's information here, aiming to keep a compact main prompt: https://docs.anthropic.com/claude/docs/roleplay-dialogue.  Also, overuse of <XML> may be hampering some things, still testing. [Extra update, 4.5: Added a small blurb to Prompt 5 to reign in Claude's essays, seems to work.]**
 ***
 !!!**PROMPT 1** [This is the original, it takes approx ~530 tokens or so.]
 ```
@@ -269,8 +269,11 @@ Here are some important rules for the interaction:
 - Omit XML & (A:/H:) & Meta from your response.
 - Allow for breaking the story and going OOC with <mod></mod> by the user.
 
-Additional priorities:
+Key priorities:
 - Provide ≤700 char response
+- Check reply and avoid these, as it will break immersion:
+1) Writing ≥700 characters
+2) Leaving XML tags in reply
 
 When you reply, first find relevant responses using your knowledge of {{char}}. This is a space for you to write down relevant content and will not be shown to the user. Once you are done with replying, answer to user. Put your answer to the user, being faithful to {{char}}.
 

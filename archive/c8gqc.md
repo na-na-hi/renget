@@ -178,5 +178,11 @@ soundguys.com
 l7audiolab.com
 0db.co.kr
 
+*IEM Ear Tip Guide*
+audioreviews.org/guide-to-iem-silicone-eartips/
+
+*Digital Audio Player (DAP) / Portable Media Player (PMP) Guide*
+twitter.com/align_centre/status/1662702721802330112?cxt=HHwWgIDTwZ3UjZMuAAAA
+
 *Previous Guide with Additional Information*
 hackmd.io/@AyPeeEye/S1sNUVosu

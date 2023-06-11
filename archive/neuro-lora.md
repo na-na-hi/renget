@@ -1,3 +1,8 @@
+!!! note Neuro V2 
+    ☞ [this rentry page](https://rentry.org/t9ekk#neuro-sama-v2)
+
+***
+
 https://files.catbox.moe/uarze8.safetensors
 >I use it with AnythingV3 and this as a base prompt:
 >1girl, short hair, blue neck ribbon, two side up, red hair ribbon, hime cut bangs, swept bangs, parted bangs, blush, yellow cardigan, sleeves past wrists, brown hair, black socks, long sleeves, sailor collar, dark blue sailor collar, dark blue eyes

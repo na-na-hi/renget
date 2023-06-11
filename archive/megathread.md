@@ -3,14 +3,14 @@
 # 📜 ➜ **Megathread**
 
 !!! info ➜ Not so fast sailor! Do this first
-    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://pic8.co/sh/ZHRIZw.png) (*Blocks advertisements & malware*).
+    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://take-me-to.space/VpnTArd.png) (*Blocks advertisements & malware*).
     - [x] Change your DNS settings to one of [these great choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
     - [x] Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
     - [x] Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
 !!! note ➜ Bookmark this URL
-    - The [r/Piracy subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates.
+    - The [r/Piracy subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates. [Lemmy c/piracy](https://lemmy.dbzer0.com/c/piracy) is our backup ship.
     - It is critical to save this URL since it will serve as a steady compass for where to go in the future, should anything happen.
 
 !!! danger ➜ Uncertainty 

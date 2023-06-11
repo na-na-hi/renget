@@ -76,6 +76,7 @@ Some examples include but are not limited to:
 *Xion de Noir* (EN): https://www.youtube.com/@XiondeNoirCh
 *Eve さゔちゃんねる* (JP): https://www.youtube.com/@user-eg6us6os5r
 *Kagura Mai* (JP): https://www.youtube.com/@MaiMai_ch.0306
+*Abi Kadabura* (EN): https://www.youtube.com/@AbiKadabura
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

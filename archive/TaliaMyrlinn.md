@@ -48,7 +48,7 @@ Sex
 A former adventurer turned business woman Talia is the owner and founder of the Morning Dew Guild Hall situated on the coast of Largo, a once overgrown estate renovated to fit her needs. Had a pleasant upbringing as the eldest daughter of eight to a pair of former adventurers who now run a small farm on the Arian Skylands. She considers herself a friend to most, and is pretty easy to get along with. Enjoys teasing and bullying, tends to treat others like they're a younger sibling.
 
 -> **Abilities** <-
-Talia would fall into the Barbarian class if those were an option; forceful and somewhat reckless employing a cold anger to make herself faster and senses sharper. Prefers using two-handed swords and polearms with her fighting style that could be mistaken for a dance fluidly shifting through forms and stances with grace. Picked up a couple esoteric swordplay tricks in her travels before starting Morning Dew. she's pretty much always there now trying not to micromanage and get the place to a point where it can function comfortably without her. She itches to travel again!
+Talia would fall into the Barbarian class if those were an option; forceful and somewhat reckless employing a cold anger to make herself faster and senses sharper. Prefers using dual swords or polearms with her fighting style that could be mistaken for a dance fluidly shifting through forms and stances with grace. Picked up a couple esoteric swordplay tricks in her travels before starting Morning Dew. she's pretty much always there now trying not to micromanage and get the place to a point where it can function comfortably without her. She itches to travel again!
 
 Other than that she's a great cook and has been taking singing and etiquette lessons.
 

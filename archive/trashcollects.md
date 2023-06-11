@@ -267,7 +267,10 @@ Use crookedtrees in your prompt
 	https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
 
 # Pokemon, Kikurage, Sindoll, Tsampikos and Hizake among many others (Professor Harkness)
-	https://mega.nz/folder/zr4AgC4Y##jIa0G6J5xDdRi2lZ2YNJ5w
+~~https://mega.nz/folder/zr4AgC4Y##jIa0G6J5xDdRi2lZ2YNJ5w~~ DEAD
+
+Reupload: https://pixeldrain.com/l/HY8deXMB
+I scraped together all the LoRAs I think are from him. If I missed any, or there are some missing, post in the thread so I can add them here - if not the LoRAs themselves, then as a list of which ones are still missing. Maybe some anons, or the Prof himself, are willing to share the missing ones.
 
 # Midna LORA from /h/
 	https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
@@ -546,6 +549,10 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 # Beverage in Sheath
 	https://mega.nz/file/20AQHbST#3Aoq574cCq1eJkVMNJuBU9cTnMmL6lYQR0DklCYj5xo
 
+# Artist o2o (Oekaki Kemono, slight pixelation)
+
+	https://files.catbox.moe/zpat2q.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -739,6 +746,10 @@ thebigslick/syuro/anchee/raiji/redrusker/burgerkiss/blushbrush Prompt Matrix com
 Vixen in Swimsuit artist examples (Model:  0.3(acidfur_v10) + 0.7(0.5(fluffyrock-576-704-832-960-1088-lion-low-lr-e22-offset-noise-e7) + 0.5(fluffusion_r1_e20_640x_50)) .safetensors) (DL link can be found above)
 
 	https://mega.nz/folder/kPEjUaDB#n-IIguEypQkfnfvig0EH4w
+
+Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 0.5 fluffusion)
+
+	https://mega.nz/folder/vAhT1CjQ#6jDFFA4VDWpZTnrgSeEevQ
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

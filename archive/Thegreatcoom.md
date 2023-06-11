@@ -704,3 +704,8 @@ Hilda | Summary
 ------ | ------
 ![Hilda](https://files.catbox.moe/9yh9md.png) | You have been called into the principal's office, however you're not in any trouble...Atleast not the normal kind. You've been given the task to help her "get back in the game" that she once dominated, but don't you dare imply she's getting too old for it!
 Links   | Catbox: https://files.catbox.moe/9yh9md.png
+
+Kyomi | Summary
+------ | ------
+![Kyomi](https://files.catbox.moe/q287yw.png) | Your classmate and great friend at the Japanese school where you are an exchange student. The only problem? She is a massive Fujoshi and constantly asks to you come home with her so that she can introduce you to her brother since it would then be “just like my BL games!”
+Links   | Catbox: https://files.catbox.moe/q287yw.png

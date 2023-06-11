@@ -14,6 +14,7 @@ https://gfl.amaryllisworks.pw/#main-1-0
 https://tinyurl.com/GFLv4Part1
 https://tinyurl.com/GFLv4Part2
 https://tinyurl.com/GFLGPD
+https://tinyurl.com/GFLNC1
 ESG is just a fig leaf.
 
 

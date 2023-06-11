@@ -29,6 +29,11 @@
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
 
+>Favorite "niche" item? I'm talking stuff that isn't the common old Pure Seeds or Petrify Orbs
+>Favorite and LEAST favorite songs from the series?
+>Is there a dungeon you especially like for one reason or another?
+>Besides the normal starter set, are there any Pokemon you actively seek out to make part of your team?
+
 >Do Pokemon have instincts? Like when a cat Pokemon can't resist the urge to chase after a laser or a dog Pokemon can't help but wag their tail unconsciously—if so, would a former human would fall to these instincts?
 >Are legendaries one-of-a-kind, or are there multiple around the world?
 >You have a job! Though, it's quite different from the usual exploration—it's regarding milking a Miltank. Despite humans do that with cows and the Miltank in question is fine with it, would you do it or is it such a foreign thought to do?

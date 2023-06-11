@@ -59,6 +59,11 @@ Fluffyrock removed any and all meta tags, whereas fluffusion still contains them
 You can choose between the different .csv files via dropdown menu by going to Settings > Tag Autocomplete.
 The corresponding quicksetting is named "tac_tagFile".
 
+## Does tag order matter?
+
+>You should put more important tags first, and things you don't care about as much last. But it's also not a super strict thing.
+If you go above the token limit of 75, you might want to use BREAK in order to sort your prompts. See "What does BREAK in a prompt field do?" for more info.
+
 ## What are Quicksettings?
 
 Under Settings > User Interface, you can add various settings to be displayed alongside the model dropdown by adding their corresponding setting names used in config.json to the Quicksettings field.
@@ -72,6 +77,7 @@ Common examples:
 ## Furry artist tags (community spreadsheet)
 
 https://cryptpad.fr/sheet/#/2/sheet/edit/JzqLNo3G+B+YXzPeBrkje-sU/
+Also check out examples other anons have tested over on https://rentry.org/trashcollects#xy-grid-of-artists
 
 ## How do I mix artists?
 Mixing artists means simply using multiple artists tags in conjunction, like "by Michelangelo, by Chrischan".
@@ -156,6 +162,7 @@ Make sure to Enable ControlNet, then use SD Upscale as usual. ControlNet Tile al
 ## What is Offset Noise?
 Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
 Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.
+This is because Offset Noise allows for brighter brights and darker darks than is usually possible. If you stack Offset Noise on top of Offset Noise, you get very bright and very dark images, far more than is likely intended.
 
 ## What does model1+model2 (Fluffusion+Crosskemono/70% FF + 30% CK) mean?
 Refers to merged models, see the "Checkpoint Merger" tab in the WebUI.
