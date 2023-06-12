@@ -11,7 +11,7 @@
 
 !!! note ➜ Bookmark this URL
     - The [r/Piracy subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates. [Lemmy c/piracy](https://lemmy.dbzer0.com/c/piracy) is our backup ship.
-    - It is critical to save this URL since it will serve as a steady compass for where to go in the future, should anything happen.
+    - It is critical to save this URL since it will serve as a steady compass for where our ships are currently stationed.
 
 !!! danger ➜ Uncertainty 
     - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use extra caution anytime you sail in uncharted waters. 

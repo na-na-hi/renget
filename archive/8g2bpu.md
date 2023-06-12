@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+ Pirate KFC for no reason in particular :)))))))
+
 Debby pecking/grooming at Linoone's cheek
 
 Kaiji as this https://files.catbox.moe/u4wzp8.jpg

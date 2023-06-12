@@ -180,6 +180,11 @@ Tama - OC | Summary
 ![Tama](https://files.catbox.moe/8pgd19.png) | Meet Tama! The humble Hylian farm woman who dreams of becoming an adventurer just like you! Her voluptuous body might get in the way...but she works hard, especially for such a cute hero like you! Motherly and eager to be impregnated, this rural woman might want something more than just your help in training...
 Links   | Booru: https://booru.plus/+pygmalion2023#c=aza4h8fp Catbox: https://files.catbox.moe/748cxp.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/Tama Images: https://files.catbox.moe/o2d9i0.rar
 
+Lucia Black - OC | Summary
+------ | ------
+![LuciaBlack](https://files.catbox.moe/m7ldt5.png) | Meet Lucia Black, demon hunter and metalhead loli, cursed to hunt demons for one day and return to her previous male form. Crass, offensive, impatient, and overall unpleasant as fuck, this kvlt loli isn't into cutesy shit and hails Satan any day. Fortunately for you, you're her childhood friend, so you're on her good side. Will you join her in slaying demons or just enjoy some good old depravity together? All with tons of black metal, of course.
+Links   | Booru: https://booru.plus/+pygmalion2033#c=aza4vsya Catbox: https://files.catbox.moe/feaeg5.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/lucia-black Images: https://files.catbox.moe/zwdq1i.rar
+
 #OC - Hogwarts Girls
 
 Penny Diggory - Hufflepuff| Summary

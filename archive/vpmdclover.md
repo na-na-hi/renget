@@ -167,6 +167,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot)
 	* [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal) *Not on Table*
+	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -400,6 +401,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Ross Tries to Train](https://rentry.org/cdb3z)
 * [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4)
 * [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
+* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

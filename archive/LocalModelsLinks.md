@@ -76,10 +76,9 @@
 |
 **Local Related Gits**|
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
-[kaiokendev's xPos implementation](https://github.com/kaiokendev/cutoff-len-is-context-len)|Finetuning RoPE models on larger sequences than it was pre-trained can increase the context limit
+[Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo with qlora, landmark attention, and kaiokendev's xPos LlaMa patch
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [SpQR](https://github.com/Vahe1994/SpQR)|3/4bit weight quantization with supposed superior results than GPTQ 
-[Landmark Attention](https://github.com/epfml/landmark-attention)|Uses landmark tokens in attention blocks to allow for pseudo extended context. Works as FT method
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc. 
@@ -96,7 +95,6 @@
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
-[GPTQLoRa](https://github.com/qwopqwop200/gptqlora)|4bit NormalFloat double quant with paged optimizers (33B done on 24GB VRAM)
 [AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models
 [LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [MixDA](https://github.com/Amano-Aki/Mixture-of-Domain-Adapters)|Mixture-of-Domain-Adapters tuning method with impressive reported results

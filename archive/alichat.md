@@ -329,12 +329,13 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 ->![Example 1](https://files.catbox.moe/qyxgq6.png)<-
 ->Example 1: Using keys to activate locations/scenarios using “[ ]”<-
 
-->![Example 2](https://files.catbox.moe/9f7xkw.png)<-
-->Example 2: Using dialogues, including actions and multiple topics for one subject<-
+->![Example 2](https://cdn.discordapp.com/attachments/1066323171516633150/1117617922991472700/image.png)<-
+->Example 2: Using Ali:Chat for lore<-
 
 #Useful Links
 ***
-- Hybrid PLists + Ali:Chat Guide: https://rentry.co/plists_alichat_avakson
+- Minimal Style - Kingbri's Guide:: https://rentry.co/kingbri-chara-guide
+- Hybrid PLists + Ali:Chat Guide - AVAK's Guide: https://rentry.co/plists_alichat_avakson
 - Character Creator (For creating a JSON): https://avakson.github.io/character-editor
 - Another LLM Roleplay Rankings: https://rentry.co/ALLMRR 
 - Additional Tips:

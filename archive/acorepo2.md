@@ -155,7 +155,7 @@ https://civitai.com/models/52419/dusty-fortnite
 https://civitai.com/models/80876/fable-fortnite
 - Haven
 https://civitai.com/models/53538/haven-fortnite
-- Haze and Surf Wihch
+- Haze and Surf Witch
 https://civitai.com/models/62399/haze-surf-witch-fortnite
 - Heidi
 https://civitai.com/models/57386/heidi-fortnite

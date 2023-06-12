@@ -97,7 +97,7 @@ The Let's Play Archive | [WATCH](https://youtube.com/@tlpa)
 Slots Available:ονειρεμένη βροχή | [WATCH](https://youtube.com/@theologicorpse)
 Dawn gaming | [WATCH](https://youtube.com/@dawngaming7190)
 VibingLeaf | [WATCH](https://www.youtube.com/@VibingLeaf/videos)
-Needlemouse | [WATCH](https://www.youtube.com/watch?v=vTpmyDePd9k)
+Needlemouse | [WATCH](https://www.youtube.com/watch?v=vTpmyDePd9k), [mirror](https://mega.nz/file/fPZCjRRS#N3BtVGEjw1bEuBjSQHu8R9UbuGYzcdONDqyGVVTihU8)
 Valle Verde | [WATCH](https://www.youtube.com/@-Alluvium-/videos)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------

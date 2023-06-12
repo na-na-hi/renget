@@ -21,8 +21,8 @@ Player Count: [10,000 People]
 Afterlife: [Mastema - Arbiter of Sanctuary]
 Afterlife Timer: [1 Year]
 Death Mods: [Reincarnation], [Convenient Backstory], [Remuneration], [Imōto Apocalypto], [Imōto Kataklizmo], [Aww Shit], [Here We Go Again]
-Banes: [Knife Ear], [Water To Wine], [Femininity], [Masculinity], [Chūni Deluxe]
-Boons: [HUD], [Hammerspace Inventory], [Status], [Tasty Prof], [Permanence], [Man Portions], [Nuru Nuru~], [Sensory Overdose], [Flavour Flay], [Lucky!], [Unbreakable Mind], [Hush Money], [The Apprentice x1]
+Banes: [Knife Ear], [Water To Wine], [Femininity], [Masculinity], [Chūni Deluxe], [Ahegao]
+Boons: [HUD], [Hammerspace Inventory], [Status], [Tasty Prof], [Permanence], [Man Portions], [Nuru Nuru~], [Sensory Overdose], [Flavour Flay], [Lucky!], [Unbreakable Mind], [Hush Money]
 Items: [Riftgate Licence], [Servant], [Soulbound], [Endless Polaroid], [A Home], [A Manor], [Regal Upgrade], [Service], [Tab Leet], [Solar Charger]
 
 ##Proficiencies
@@ -30,7 +30,7 @@ Items: [Riftgate Licence], [Servant], [Soulbound], [Endless Polaroid], [A Home],
 Strength 
 	★★★
 Agility
-	★★
+	★★★
 Endurance
 	★★
 Durability
@@ -67,7 +67,6 @@ Gained [Soulbound]
 Gained [Fuckable Nips]
 Gained [Nuru Nuru~]
 Lost [Doublethink]
-Lost [Ahegao]
 Various small adjustments accounting for separating two characters apart.
 
 Changelog (5/22)

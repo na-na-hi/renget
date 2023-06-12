@@ -2294,3 +2294,13 @@ Copy and past these to your 4chanx image MD5 filters (updated regularly):
 /Ww0mtbdy6yJAumqH179AuA==/
 
 /jd/4Ep+ajdup7JN6v6KP6A==/
+
+/y8ITpYdHcSTjww3VFUYRUw==/
+
+/Az/mB2yL4uAoR7PPiP48hQ==/
+
+/WUUAJaQPQYE9CHYiyc82ww==/
+
+/gryhZxpLYqnCFnq9HyOzAQ==/
+
+/DaoJR2H+HgIdlnIp6YdT2w==/

@@ -307,7 +307,6 @@ https://civitai.com/models/24476/elsa-disney-wrise
 https://civitai.com/models/42668/elsa-frozen-disney-princess-by-yeiyeiart
 	+ Anna
 https://civitai.com/models/42764/anna-from-frozen
-https://civitai.com/models/31471/anna-disney-wrise
 - Barbie (Toy Story)
 https://civitai.com/models/73934/barbie
 - The Incredibles
@@ -481,6 +480,7 @@ https://civitai.com/models/19125/lola-bunny
 https://civitai.com/models/67312/fawn-deer-bonkers
 - Nala (The Lion King 1994)
 https://civitai.com/models/83150/female-cartoon-lioness
+- Felina Feral (SWAT Kats: The Radical Squadron)
 - Diane Foxington (The Bad Guys)
 https://civitai.com/models/10564?modelVersionId=35342
 - Helluva Boss
@@ -544,7 +544,9 @@ https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
 	- Liara T'Soni
 https://civitai.com/models/19668/asari-diffusion
 https://civitai.com/models/20081/asari-diffusion-anime
-https://civitai.com/models/16091/liara-tsoni
+https://civitai.com/models/16091/liara-
+	- Samara
+https://civitai.com/models/88235/samara-mass-effect-lora
 - Cassandra (Dragon Age: Inquisition)
 https://civitai.com/models/85639/cassandra-dai
 - Rayne (BloodRayne)
@@ -554,9 +556,12 @@ https://civitai.com/models/16844/rayne-bloodrayne
 https://civitai.com/models/53335/alyx-half-life-character-lora
 - Dota 2
 https://rentry.org/acorepo2#dota-2
-- Morathi (Warhammer)
+- Warhammer
+	+ Morathi 
 https://civitai.com/models/84024/morathi-warhammer-fantasy
 https://civitai.com/models/30715/morathi-the-hag-sorceress-of-ghrond-and-the-first-hag-queens
+	- Alarielle 
+https://civitai.com/models/87558/alarielle-the-radiant-warhammer-fantasy-nsfw-sfw
 - Warcraft and World of Warcraft
 https://rentry.org/acorepo2#warcraft-world-of-warcraft
 - Fortnite

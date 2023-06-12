@@ -13,6 +13,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Anonaugus](https://rentry.org/anonaugusproductions) | Misc |[Lucia Black](https://files.catbox.moe/feaeg5.png), [Catharin's Temple](http://files.catbox.moe/2zjj3u.png), [Tama](https://files.catbox.moe/748cxp.png), [Best Korea-chan](https://files.catbox.moe/lbqeot.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Ixchel](https://files.catbox.moe/ae1dgn.png), [Postal 1 Dude](https://avatars.charhub.io/avatars/donquijanon/postal-1-dude/chara_card_v2.png), [Pamela](https://files.catbox.moe/1y78a8.png), [Paola Piñata](https://files.catbox.moe/5un264.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png), [Kajux](https://files.catbox.moe/ncx6fm.png), [Okatsu](https://files.catbox.moe/52jink.png), [Xia Ji](https://files.catbox.moe/yxzm5b.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[CHAT](https://files.catbox.moe/s4zwuj.png), [Suzume](https://files.catbox.moe/x86rgz.png)|[CHAT](https://files.catbox.moe/s4zwuj.png) [MV], [Suzume](https://files.catbox.moe/x86rgz.png) [MV]
@@ -26,7 +27,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Deleterious](https://rentry.org/deleterious) | Misc |[Joon](https://files.catbox.moe/s7ap2q.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Alicia](https://files.catbox.moe/2e0uqn.png), [Flavia](https://files.catbox.moe/q600fn.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Ranni the Slut Witch](https://files.catbox.moe/nb5k5d.png), [Misaki](https://files.catbox.moe/g07gmi.png)|
-[Anonaugus](https://rentry.org/anonaugusproductions) | Misc |[Catharin's Temple](http://files.catbox.moe/2zjj3u.png), [Tama](https://files.catbox.moe/748cxp.png), [Best Korea-chan](https://files.catbox.moe/lbqeot.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Drost](https://files.catbox.moe/dsiy4r.png)|
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[Daniel Siegel](https://files.catbox.moe/bgvhze.png)|
 [Koikoikoi](https://rentry.org/4amrn) | Misc |[MF DOOM](https://files.catbox.moe/cahqin.png)|

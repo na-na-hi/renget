@@ -1,5 +1,8 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
+[NEW!][Quaquaval] https://archiveofourown.org/works/47658094
+[Primarina] https://archiveofourown.org/works/44264137
+[Spinda] https://rentry.org/be48q
 [Espathra] https://arch.b4k.co/vp/thread/53747197/#53760925
 [Spinda] https://rentry.org/be48q
 [Hypno] https://archiveofourown.org/works/46530355
