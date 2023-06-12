@@ -235,8 +235,10 @@
 >Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
 >Never drank alcohol before the change, but due to an occasion where he unknowingly drank several bottles of it, has lightened up. Gets heavily embarrassed when he sobers up and finds out he got drunk.
 >His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper and Toge know his old name so far.
+>His biggest fear is losing Wooper somehow. If that somehow happened, Chespin would turn into an absolute wreck. Seems to be outright clingy with Wooper because of this.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
+>Acts childish, though his true age is vague at best.
 >Cheerfulness and enthusiasm is what Wooper's all about. It'd take someone doing something very serious to make him mad.
 >Wooper frequently pesters Chespin to go on missions and treasure hunts, is enthusiastic to the point of obsession
 >Wooper tends to be treated as a living gun by Chespin in battle, being carried by his vines

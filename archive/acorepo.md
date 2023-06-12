@@ -244,6 +244,19 @@ https://civitai.com/models/60891/harley-quinn-batman-the-animated-series-charact
 https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
 - Catwoman (Batman: TAS)
 https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-lora
+- Young Justice
+	+ Artemis/Tigress
+https://civitai.com/models/48751/artemistigress-young-justice-lora
+	- Aquagirl
+https://civitai.com/models/58269/aquagirl-young-justice-lora
+	- Miss Martian
+https://civitai.com/models/52581/miss-martian-young-justice-lora
+	- Rocket
+https://civitai.com/models/64691/rocket-young-justice-lora
+	- Wondergirl
+https://civitai.com/models/54580/wondergirl-young-justice-lora
+	- Zatanna
+https://civitai.com/models/62247/zatanna-young-justice-lora
 - Supergirl/Galatea (DCAU)
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 - Star/Ripley Ryan (Captain Marvel)
@@ -395,6 +408,7 @@ https://civitai.com/models/19524/miko-kubota-from-glitch-techs
 https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Frankie Foster (Foster's Home for Imaginary Friends)
 https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-character
+https://civitai.com/models/88781/frankie-foster-or-goofy-ai
 - Dexter's Mom (Dexter's Laboratory)
 https://civitai.com/models/20949/dexters-mom
 - Sedusa (Powerpuff Girls)
@@ -533,10 +547,12 @@ https://civitai.com/models/73231/triss-merigold-witcher-3
 https://civitai.com/models/80712/ciri-witcher-3
 https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/82941/cirilla-fiona
-	- Anna Henrietta
-https://civitai.com/models/86049/anna-henrietta-witcher-3-lora
 	- Shani
-https://civitai.com/models/86731/shani-or-the-witcher-3-wild-hunt
+https://civitai.com/models/88636/shani-witcher-3-lora
+	- Anna
+https://civitai.com/models/86049/anna-henrietta-witcher-3-lora
+	- Cerys
+https://civitai.com/models/88339/cerys-an-craite-or-the-witcher-3-wild-hunt
 - Mass Effect
 	- Tali'Zhorah
 https://civitai.com/models/22827/talizorah-mass-effect

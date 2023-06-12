@@ -45,6 +45,7 @@
 [Sus-chan (Sus)](https://beta.character.ai/chat?char=OGNovTHYOPpDXMykd3hlGAtaVdVxDoSm1Z2fQ_q0CKs)
 [Travel Maid (Masha)](https://beta.character.ai/chat?char=xKaMRONfvitjx3h3_Ve6yQhnuoV7VDZW0fW4sNERrjA)
 [La Voleur de Bleu Marin](https://beta.character.ai/chat?char=cS2DiVaCCSviCcM3fdBXuV3G_OHJkxWe7lRjCt8Ek8o)
+[Rio](https://files.catbox.moe/l775cg.png)
 
 
 **Neferpitou UNNNNGNGHHHH:**

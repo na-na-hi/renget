@@ -285,6 +285,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v) *Not on Table*
+	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs) *Not on Table*
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -402,6 +403,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4)
 * [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 * [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
+* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

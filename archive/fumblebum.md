@@ -308,8 +308,8 @@ Assistant: <thinking>
 	- However, if you say, "Have Fumblebum hate telling jokes," Claude will bake it into a response and change it accordingly.
 3. **Telling Claude to be creative is not true creativity.**
 	- Claude is by default, trope and cliche-driven, just due to the nature of writing. I've noticed this with extensive testing when turning Fumblebum into a clown wizard; she wouldn't do funny spells if I told Claude to "be creative", but more along the lines of doing typical spells like fireballs or D&D stuff. You have to be direct and specific. For example, "Fumblebum is a clown wizard and she can do clown-based magic" will have her do things like make it rain coconut cream pies, summon a cannon that can launch pianos out of it, or turning water into a fizzy bubblegum drink.
-4. **Claude interprets every character set differently.
-	- As in, anything in parentheses, brackets, curly brackets, and even chevrons are all interpreted as different "sets" by Claude. If you look at the first three prompts, you'll see a general delineation between functions.
+4. **Claude interprets every character set differently.**
+	- As in, anything in parentheses, brackets, curly brackets, and even chevrons are all interpreted as different "sets" by Claude. If you look at the first three prompts, you'll see a general delineation between functions. XML tags are entirely freeform as well, with the added benefits of being able to create any different number of them. (XML tags can likely even be shortened to single characters in the prompts, but I like having it somewhat readable.)
 
 !!!**FAQ**
 1. **Do I need to edit character cards or add tags to the card?**

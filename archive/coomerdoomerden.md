@@ -8,8 +8,8 @@
 #### OCs
 #####Ether
 Calm therapeutic counselor, mostly SFW.
-![Ether](https://files.catbox.moe/62bwje.png)
-https://files.catbox.moe/62bwje.png
+![Ether](https://files.catbox.moe/l9y9vw.png)
+https://files.catbox.moe/l9y9vw.png
 #####Shirley
 A shark mermaid with a peculiar way of giving you air underwater.
 ![Shirley](https://files.catbox.moe/6b262g.png)

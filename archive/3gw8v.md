@@ -1,5 +1,7 @@
 The /gif/ degeneracy filter
 
+Previous thread:
+
 Q: What is the purpose of the filter?
 A: It removes "gender confusion" and "race bait" threads. In recent years the amount of those threads has grown steadily and removed a lot of diversity from the first few pages. Today the filter removes often 50 threads or more.
 
@@ -13,40 +15,51 @@ Q: Why are there so many "gender confusion" and "race bait" threads in the first
 A: I can only speculate about the motivation. We know at least one group that coordinates on Discord to spam those threads. It's believed these are useful idiots working for someone else.
 
 Q: The filter removes more than that, isn't it?
-A: Yes, but you can just leave the last line, or remove what you want to see.
+A: Yes, but you can edit the filter to taste by removing stuff.
 
 Q: Why aren't Janitors fixing the problem?
 A: It's likely they are part of the problem, that they are gender confused themselves.
 
+Q: I have an update or a way to streamline the filter regex.
+A: Spam it in a degeneracy thread as an answer to OP, eventually i should see it.
+
+Q: Some crap is still coming through!
+A: It's spam and the nature of spammers is to undermine filters. It is what it is, sadly.
+
 How to install the filter:
+
 * Step 1: Install Firefox
+
 * Step 2: Install the Addon Violentmonkey
+
 * Step 3: Install the 4chanX userscript inside Violentmonkey
+
 * Step 4: Copy the filters to Settings => Filter => General: https://rentry.org/3gw8v
 
 
 # THE FILTER
 ```
-### /gif/ anti-degeneracy filter ###############################
-### version 007
+### /gif/ anti-degeneracy filter
+### version 012 | https://rentry.org/3gw8v
 
 # gender confusion
-/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|bussy|bo[ilyj]puss/i;type:subject;boards:gif;
+/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i;type:subject;boards:gif;
 
 # race bait
 /[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| peop[il]e| ass| pen)|mixed|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i;type:subject;boards:gif;
 
 # Race bait acronyms regex
 /([^a-zA-z]|^)[abliw][mtf][abliw][mtf]([^a-zA-z]|$)/i;type:subject;boards:gif;
+/b.{1}b.{1}c/si;op:only;boards:gif;
 
 # pol bait
 /b[il]den|trump|jew[il]sh|h[il]tler|borea|\/po[il]\//i;type:subject;boards:gif;
 
 # other weird stuff
-/creepshot|groped|shark[il]ng|cand[il]d|hypnos[il]s|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i;type:subject;boards:gif;
+/creepshot|groped|shark[il]ng|cand[il]d|hypnos[il]s|[il]ncel|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i;op:only;boards:gif;
 
 # animated and weeaboo shit
-/sfm|b[il]ender|2d|an[il]mat(ed|[il]on)|[hp]mv|overwatch|futa|hotg[il]ue|wa[il]fu/i;type:subject;boards:gif;
+/sfm|b[il]ender|2d|an[il]mat(ed|[il]on)|[hp]mv|overwatch|futa|hotg[il]ue|werewolf|wa[il]fu/i;type:subject;boards:gif;
 
 # degenerated acronyms as separate word
 /([^a-zA-z]|^)(sop|ts)([^a-zA-z]|$)/i;type:subject;boards:gif;

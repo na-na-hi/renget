@@ -1,0 +1,79 @@
+>###/cumg/ - Coom Utilities & More General 
+
+>Complete List @ Official /cumg/ Website
+* https://coom.tech/
+
+>###Downloaders
+>Youtube-dl but for galleries
+* https://github.com/mikf/gallery-dl
+
+>E(x)-Hentai
+* https://github.com/KurtBestor/Hitomi-Downloader
+* https://gitlab.com/squishydreams/pandaforever
+
+>Boorus
+* https://github.com/Bionus/imgbrd-grabber
+
+>-N-Hentai
+* https://github.com/RicterZ/nhentai
+
+>Pixiv
+* https://github.com/Nandaka/PixivUtil2
+
+>Anime
+* https://github.com/vn-ki/anime-downloader
+* https://github.com/Ajatt-Tools/manyame
+
+>Manga
+* https://github.com/manga-py/manga-py
+
+>Social Media
+* https://github.com/arc298/instagram-scraper
+
+>Miscellaneous
+* https://github.com/RipMeApp/ripme
+* https://github.com/ytdl-org/youtube-dl
+* https://jdownloader.org
+
+>###Viewers & Readers
+>Boorus
+* https://github.com/ahodesuka/ahoviewer
+* https://www.animebox.es/
+* https://github.com/NO-ob/LoliSnatcher_Droid
+
+>Manga
+* https://github.com/inorichi/tachiyomi
+* https://bitbucket.org/neelabo/neeview/downloads
+* https://flathub.org/apps/details/com.georgefb.mangareader
+* https://github.com/multiSnow/mcomix3
+* https://www.linuxlinks.com/qcomicbook
+* https://yacreader.com/downloads
+* https://paperback.moe/ (tachiyomi-like, iOS only manga reader, supports different repos for different websites)
+
+>E(x)-Hentai
+* https://gitlab.com/Liaozhaohe/EhViewer (Ex-Hentai Viewer)
+
+>Other
+* https://github.com/project-violet/violet
+
+>###Self-Hosted
+>Self-Hosted Boorus
+* https://github.com/danbooru/danbooru
+* https://github.com/loadletter/grabber-viewer
+* https://github.com/kinmersha/LocalBooru
+* https://github.com/Difegue/LANraragi (Manga/Comic Database)
+* https://git.coom.tech/eternal-coomer/LiMP (A GTK3 local booru)
+
+>###Management and Organization
+* https://github.com/hydrusnetwork/hydrus
+* https://stashapp.cc/ (Porn Manager and Organizer)
+* https://github.com/jvlflame/Javinizer (Like Stash but for JAV)
+
+>###Modification Utilities
+* https://github.com/deeppomf/DeepCreamPy (Decensor Hentai with ML)
+* https://github.com/nihui/waifu2x-ncnn-vulkan (Upscale Pictures)
+
+>###Miscellaneous Utilities
+* https://github.com/Mayriad/Mayriads-EH-Master-Script (E(x)-Hentai Features)
+* https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult (Jellyfin Porn/JAV)
+* https://github.com/Glagan/SyncDex (An extension to automatically update your lists as you read from MangaDex)
