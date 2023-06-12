@@ -265,6 +265,11 @@ Urban Fantasy
 **ISBN-10** 0152062521
 **ISBN-13** 978-0152062521
 
+**Kraamlok (Dragon Planet)** (2020) by Sharon Plumb
+Fantasy (xenofiction)
+**ISBN-10** 0991879228
+**ISBN-13** 978-0991879229
+
 **The Last Dragon Chronicles** (2001-2013) by Chris d'Lacey
 Urban Fantasy
 **The Fire Within**

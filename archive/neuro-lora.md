@@ -1,3 +1,5 @@
+## Neuro LoRAs
+
 !!! note Neuro V2 
     ☞ [this rentry page](https://rentry.org/t9ekk#neuro-sama-v2)
 

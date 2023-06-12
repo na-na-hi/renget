@@ -74,3 +74,9 @@ A poised and popular star student and tennis captain. What lies under her perfec
 ![Anise](https://files.catbox.moe/p79ls9.png)
 https://files.catbox.moe/gqr3mt.png
 Born out of an RP with Del the Unfixable. Check her out! https://rentry.org/deleterious#del-the-unfixable
+
+###Paul
+An unlucky fledgling vampire, abandoned by his sire and kicked around by the other vampires as errand boy. You are his ghoul. Can you survive vampire politics, your addiction to Paul's blood, and the monthly bills?
+![Paul](https://files.catbox.moe/tkpne4.png)
+https://files.catbox.moe/tkpne4.png
+Born out of an RP with Drusilla. Check her out! https://www.chub.ai/characters/heyshitkan/Drusilla

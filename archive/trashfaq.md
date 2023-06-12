@@ -92,6 +92,7 @@ Some methods you could use are:
 	- https://www.urania.ai/top-sd-artists
 	- https://stablediffusion.fr/artists
 	- https://sdartists.app/#/
+	- https://supagruen.github.io/StableDiffusion-CheatSheet/
 - Begin slow, with one artist whose results you like. Then, add another one while testing the weights so they mesh well together. Once you have found your second artist, test to see if the first artist even has the desired result or not. Continue adding artists until you can't be bothered any longer.
 - If you can't think of any artists to add, you can use wildcards to try out random artists. 
 

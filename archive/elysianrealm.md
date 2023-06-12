@@ -1,6 +1,6 @@
 #->Elysian Realm recommended builds 6.6<- 
-
-dm medbae#6969 on discord for any mistakes/feedback or typos in translation
+working on phase 2
+dm medbae on discord for any mistakes/feedback or typos in translation
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [**Old builds can be found here on HoYoLAB**](https://www.hoyolab.com/accountCenter/collectionList?id=7866431)

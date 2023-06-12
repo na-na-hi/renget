@@ -1,4 +1,4 @@
-#[/llst/ - Love Live Seiyuu Thread](https://twitter.com/teamonibe/status/1658109988244692992/)
+#[/llst/ - Love Live Seiyuu Thread](https://i.redd.it/r3d044fz1e5b1.jpg)
 -> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
 
 ##Changelog:

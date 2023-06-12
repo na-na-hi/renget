@@ -17,7 +17,7 @@ based on a single character ('Ayumi') and a single fixed erotic setting. What is
 !!! info **Please also have a look at this other role play ranking:**
     - [Another LLM Roleplay Rankings - by AliCat https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
 
-Date: 2023-06-10 V19
+Date: 2023-06-12 V20
 
 | Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
 |------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
@@ -28,59 +28,61 @@ Date: 2023-06-10 V19
 |    5 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |         0.9 |   ⭐ 11.0 |     18.1 |  41.0 |  🔵 23.4 |
 |    6 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |         0.7 |   ⭐ 10.8 | 🔵 24.9 |  42.0 |  🔵 24.6 |
 |    7 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |         0.7 |   ⭐ 10.8 |     18.7 | 🔵 46.6 |  🔵 24.9 |
-|    8 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 9.6 |     18.1 |  38.4 |       23.0 |
-|    9 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |         0.7 |    ⭐ 9.0 | 🔴 17.3 |  36.0 |       19.6 |
-|   10 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |    ⭐ 8.8 |     21.5 | 🔵 50.6 |  🔵 28.3 |
-|   11 | Minotaur 13B             | 13B | Q5_1  | vicuna         |         0.7 |    ⭐ 8.7 | 🔴 17.6 |  36.1 |       19.7 |
-|   12 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 8.6 |     20.1 |  35.1 |       19.1 |
-|   13 | Chimera 13B              | 13B | Q4_0  | vicuna         |         0.9 |    ⭐ 8.1 | 🔴 15.9 | 🔴 30.4 |       17.8 |
-|   14 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |    ⭐ 8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
-|   15 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |         0.7 |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
-|   16 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |         0.9 |        7.8 |     19.6 |  31.2 |       17.9 |
-|   17 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |         0.7 |        7.8 |     18.8 | 🔵 43.3 |       23.2 |
-|   18 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |        7.7 | 🔵 28.5 |  36.4 |       20.4 |
-|   19 | RedPajama Instruct 3B    |  3B | Q4_0  | alpaca         |         0.7 |        7.0 |     20.0 | 🔵 51.0 |  🔵 28.2 |
-|   20 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |        6.5 | 🔴 17.3 |  32.6 |  🔴 16.7 |
-|   21 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |         0.9 |        6.5 | 🔵 22.0 | 🔵 43.9 |  🔵 24.2 |
-|   22 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |         0.9 |        6.2 |     18.7 |  39.0 |       20.9 |
-|   23 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.2 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
-|   24 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
-|   25 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |         0.9 |        6.2 |     19.7 |  39.4 |       21.4 |
-|   26 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
-|   27 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |         0.7 |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
-|   28 | OpenLLaMA 3B             |  3B | Q8_0  | alpaca         |         0.9 |        6.0 |     19.2 |  43.0 |       22.1 |
-|   29 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.0 | 🔴 16.5 |  32.5 |       18.1 |
-|   30 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |         0.7 |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
-|   31 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   32 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   33 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        5.8 |     19.2 |  40.7 |       21.7 |
-|   34 | GPT4All Snoozy 13B       | 13B | Q4_0  | vicuna         |         0.7 |        5.5 |     17.7 |  35.5 |       18.6 |
-|   35 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
-|   36 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.2 |     20.9 |  39.4 |       22.1 |
-|   37 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.0 | 🔵 21.5 | 🔴 26.2 |  🔴 14.4 |
-|   38 | Pygmalion 7B             |  7B | Q5_1  | vicuna         |         0.7 |        5.0 |     19.4 |  39.8 |       20.1 |
-|   39 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.0 | 🔴 16.4 |  36.0 |       19.1 |
-|   40 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |         0.9 |        5.0 |     21.1 |  34.3 |       17.9 |
-|   41 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
-|   42 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |         0.7 |        4.8 |     18.4 | 🔵 45.6 |       22.7 |
-|   43 | LLaMA 13B                | 13B | Q4_0  | vicuna         |         0.7 |        4.7 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
-|   44 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |         0.7 |        4.6 |     21.1 | 🔴 25.6 |  🔴 13.6 |
-|   45 | Selfee 13B               | 13B | Q4_0  | vicuna         |         0.7 |        4.5 |     17.8 | 🔴 31.1 |       16.9 |
-|   46 | Manticore 13B            | 13B | Q5_1  | metharme       |         0.7 |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
-|   47 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.4 |     18.0 | 🔴 30.4 |  🔴 15.3 |
-|   48 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |         0.9 |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
-|   49 | RedPajama Chat 7B        |  7B | Q4_0  | vicuna11       |         0.9 |        4.0 |     21.5 | 🔵 43.1 |  🔵 23.3 |
-|   50 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        3.9 |     18.8 |  37.4 |       20.0 |
-|   51 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.4 | 🔴 17.2 |  33.9 |       19.4 |
-|   52 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
-|   53 | Hippogriff 30B           | 30B | Q4_0  | vicuna11       |         0.9 |        2.9 |     19.3 |  41.6 |       21.9 |
-|   54 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 | 🔵 21.7 | 🔴 22.4 |  🔴 12.1 |
-|   55 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.6 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
-|   56 | Metharme 13B             | 13B | Q5_1  | vicuna11st     |         0.9 |        2.4 |     20.3 | 🔴 17.4 |   🔴 9.8 |
-|   57 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
-|   58 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
-|   59 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.5 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
-|   60 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
+|    8 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |         0.7 |   ⭐ 10.7 | 🔵 24.4 | 🔵 43.6 |  🔵 25.9 |
+|    9 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 9.6 |     18.1 |  38.4 |       23.0 |
+|   10 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |         0.7 |    ⭐ 9.0 | 🔴 17.3 |  36.0 |       19.6 |
+|   11 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |    ⭐ 8.8 |     21.5 | 🔵 50.6 |  🔵 28.3 |
+|   12 | Minotaur 13B             | 13B | Q5_1  | vicuna         |         0.7 |    ⭐ 8.7 | 🔴 17.6 |  36.1 |       19.7 |
+|   13 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 8.6 |     20.1 |  35.1 |       19.1 |
+|   14 | Chimera 13B              | 13B | Q4_0  | vicuna         |         0.9 |    ⭐ 8.1 | 🔴 15.9 | 🔴 30.4 |       17.8 |
+|   15 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |    ⭐ 8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
+|   16 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |         0.7 |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
+|   17 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |         0.9 |        7.8 |     19.6 | 🔴 31.2 |       17.9 |
+|   18 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |         0.7 |        7.8 |     18.8 | 🔵 43.3 |       23.2 |
+|   19 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |        7.7 | 🔵 28.5 |  36.4 |       20.4 |
+|   20 | RedPajama Instruct 3B    |  3B | Q4_0  | alpaca         |         0.7 |        7.0 |     20.0 | 🔵 51.0 |  🔵 28.2 |
+|   21 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |        6.5 | 🔴 17.3 |  32.6 |  🔴 16.7 |
+|   22 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |         0.9 |        6.5 | 🔵 22.0 | 🔵 43.9 |  🔵 24.2 |
+|   23 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |         0.9 |        6.2 |     18.7 |  39.0 |       20.9 |
+|   24 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.2 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
+|   25 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
+|   26 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |         0.9 |        6.2 |     19.7 |  39.4 |       21.4 |
+|   27 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
+|   28 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |         0.7 |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
+|   29 | OpenLLaMA 3B             |  3B | Q8_0  | alpaca         |         0.9 |        6.0 |     19.2 |  43.0 |       22.1 |
+|   30 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.0 | 🔴 16.5 |  32.5 |       18.1 |
+|   31 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |         0.7 |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
+|   32 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   33 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   34 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        5.8 |     19.2 |  40.7 |       21.7 |
+|   35 | GPT4All Snoozy 13B       | 13B | Q4_0  | vicuna         |         0.7 |        5.5 |     17.7 |  35.5 |       18.6 |
+|   36 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
+|   37 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.2 |     20.9 |  39.4 |       22.1 |
+|   38 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.0 | 🔵 21.5 | 🔴 26.2 |  🔴 14.4 |
+|   39 | Pygmalion 7B             |  7B | Q5_1  | vicuna         |         0.7 |        5.0 |     19.4 |  39.8 |       20.1 |
+|   40 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.0 | 🔴 16.4 |  36.0 |       19.1 |
+|   41 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |         0.9 |        5.0 |     21.1 |  34.3 |       17.9 |
+|   42 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
+|   43 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |         0.7 |        4.8 |     18.4 | 🔵 45.6 |       22.7 |
+|   44 | LLaMA 13B                | 13B | Q4_0  | vicuna         |         0.7 |        4.7 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
+|   45 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |         0.7 |        4.6 |     21.1 | 🔴 25.6 |  🔴 13.6 |
+|   46 | Selfee 13B               | 13B | Q4_0  | vicuna         |         0.7 |        4.5 |     17.8 | 🔴 31.1 |  🔴 16.9 |
+|   47 | Manticore 13B            | 13B | Q5_1  | metharme       |         0.7 |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
+|   48 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.4 |     18.0 | 🔴 30.4 |  🔴 15.3 |
+|   49 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |         0.9 |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
+|   50 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |         0.7 |        4.2 | 🔴 16.2 |  41.0 |       19.6 |
+|   51 | RedPajama Chat 7B        |  7B | Q4_0  | vicuna11       |         0.9 |        4.0 |     21.5 | 🔵 43.1 |  🔵 23.3 |
+|   52 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        3.9 |     18.8 |  37.4 |       20.0 |
+|   53 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.4 | 🔴 17.2 |  33.9 |       19.4 |
+|   54 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
+|   55 | Hippogriff 30B           | 30B | Q4_0  | vicuna11       |         0.9 |        2.9 |     19.3 |  41.6 |       21.9 |
+|   56 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 | 🔵 21.7 | 🔴 22.4 |  🔴 12.1 |
+|   57 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.6 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
+|   58 | Metharme 13B             | 13B | Q5_1  | vicuna11st     |         0.9 |        2.4 |     20.3 | 🔴 17.4 |   🔴 9.8 |
+|   59 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
+|   60 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
+|   61 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.5 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
+|   62 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
 
 ### Column Description
 
@@ -98,27 +100,28 @@ Date: 2023-06-10 V19
 | Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
 |------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
 |    1 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |         0.7 |  🌟 10.8 | 🔵 24.9 | 🔵 42.0 |  🔵 24.6 |
-|    2 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |   🌟 8.8 |     21.5 | 🔵 50.6 |  🔵 28.3 |
-|    3 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |   🌟 8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
-|    4 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |    ⭐ 7.7 | 🔵 28.5 |  36.4 |       20.4 |
-|    5 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |    ⭐ 6.5 | 🔴 17.3 |  32.6 |  🔴 16.7 |
-|    6 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.2 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
-|    7 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
-|    8 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
-|    9 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.0 | 🔴 16.5 |  32.5 |       18.1 |
-|   10 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 | 🔴 31.4 |  🔴 16.7 |
-|   11 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 | 🔴 31.4 |  🔴 16.7 |
-|   12 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        5.8 |     19.2 | 🔵 40.7 |       21.7 |
-|   13 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
-|   14 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.2 |     20.9 |  39.4 |  🔵 22.1 |
-|   15 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.0 |     21.5 | 🔴 26.2 |  🔴 14.4 |
-|   16 | Pygmalion 7B             |  7B | Q5_1  | vicuna         |         0.7 |        5.0 |     19.4 |  39.8 |       20.1 |
-|   17 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.0 | 🔴 16.4 |  36.0 |       19.1 |
-|   18 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
-|   19 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.4 |     18.0 | 🔴 30.4 |  🔴 15.3 |
-|   20 | RedPajama Chat 7B        |  7B | Q4_0  | vicuna11       |         0.9 |        4.0 |     21.5 | 🔵 43.1 |  🔵 23.3 |
-|   21 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.4 | 🔴 17.2 |  33.9 |       19.4 |
-|   22 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
+|    2 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |         0.7 |  🌟 10.7 | 🔵 24.4 | 🔵 43.6 |  🔵 25.9 |
+|    3 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |   🌟 8.8 |     21.5 | 🔵 50.6 |  🔵 28.3 |
+|    4 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |    ⭐ 8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
+|    5 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |    ⭐ 7.7 | 🔵 28.5 |  36.4 |       20.4 |
+|    6 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |        6.5 | 🔴 17.3 |  32.6 |  🔴 16.7 |
+|    7 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.2 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
+|    8 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
+|    9 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 |     22.5 |  33.6 |       17.4 |
+|   10 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.0 | 🔴 16.5 |  32.5 |       18.1 |
+|   11 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 | 🔴 31.4 |  🔴 16.7 |
+|   12 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.0 | 🔴 13.0 | 🔴 31.4 |  🔴 16.7 |
+|   13 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        5.8 |     19.2 |  40.7 |       21.7 |
+|   14 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
+|   15 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.2 |     20.9 |  39.4 |       22.1 |
+|   16 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.0 |     21.5 | 🔴 26.2 |  🔴 14.4 |
+|   17 | Pygmalion 7B             |  7B | Q5_1  | vicuna         |         0.7 |        5.0 |     19.4 |  39.8 |       20.1 |
+|   18 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.0 | 🔴 16.4 |  36.0 |       19.1 |
+|   19 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
+|   20 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.4 |     18.0 | 🔴 30.4 |  🔴 15.3 |
+|   21 | RedPajama Chat 7B        |  7B | Q4_0  | vicuna11       |         0.9 |        4.0 |     21.5 | 🔵 43.1 |  🔵 23.3 |
+|   22 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.4 | 🔴 17.2 |  33.9 |       19.4 |
+|   23 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
 
 ## 13B ERP Ranking
 
@@ -126,7 +129,7 @@ Date: 2023-06-10 V19
 |------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
 |    1 | Chronos WizLM UC SCOT ST 13B | 13B | Q4_0  | alpaca         |         0.7 |  🌟 12.2 | 🔵 27.3 | 🔵 52.8 |  🔵 30.8 |
 |    2 | Chronos 13B              | 13B | Q4_0  | alpaca         |         0.7 |  🌟 11.6 | 🔵 28.2 | 🔵 53.5 |  🔵 31.1 |
-|    3 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |         0.9 |  🌟 11.0 |     18.1 | 🔵 41.0 |  🔵 23.4 |
+|    3 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |         0.9 |  🌟 11.0 |     18.1 |  41.0 |  🔵 23.4 |
 |    4 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |         0.7 |   ⭐ 10.8 |     18.7 | 🔵 46.6 |  🔵 24.9 |
 |    5 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 9.6 |     18.1 |  38.4 |  🔵 23.0 |
 |    6 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |         0.7 |    ⭐ 9.0 | 🔴 17.3 |  36.0 |       19.6 |
@@ -141,7 +144,7 @@ Date: 2023-06-10 V19
 |   15 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |         0.9 |        6.2 |     19.7 |  39.4 |       21.4 |
 |   16 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |         0.7 |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
 |   17 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |         0.7 |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
-|   18 | GPT4All Snoozy 13B       | 13B | Q4_0  | vicuna         |         0.7 |        5.5 | 🔴 17.7 |  35.5 |       18.6 |
+|   18 | GPT4All Snoozy 13B       | 13B | Q4_0  | vicuna         |         0.7 |        5.5 |     17.7 |  35.5 |       18.6 |
 |   19 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |         0.9 |        5.0 | 🔵 21.1 |  34.3 |       17.9 |
 |   20 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |         0.7 |        4.8 |     18.4 | 🔵 45.6 |       22.7 |
 |   21 | LLaMA 13B                | 13B | Q4_0  | vicuna         |         0.7 |        4.7 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
@@ -149,17 +152,22 @@ Date: 2023-06-10 V19
 |   23 | Selfee 13B               | 13B | Q4_0  | vicuna         |         0.7 |        4.5 |     17.8 |  31.1 |  🔴 16.9 |
 |   24 | Manticore 13B            | 13B | Q5_1  | metharme       |         0.7 |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
 |   25 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |         0.9 |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
-|   26 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        3.9 |     18.8 |  37.4 |       20.0 |
-|   27 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
-|   28 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 | 🔵 21.7 | 🔴 22.4 |  🔴 12.1 |
-|   29 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.6 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
-|   30 | Metharme 13B             | 13B | Q5_1  | vicuna11st     |         0.9 |        2.4 |     20.3 | 🔴 17.4 |   🔴 9.8 |
-|   31 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
-|   32 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
-|   33 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.5 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
+|   26 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |         0.7 |        4.2 | 🔴 16.2 | 🔵 41.0 |       19.6 |
+|   27 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        3.9 |     18.8 |  37.4 |       20.0 |
+|   28 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
+|   29 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 | 🔵 21.7 | 🔴 22.4 |  🔴 12.1 |
+|   30 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.6 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
+|   31 | Metharme 13B             | 13B | Q5_1  | vicuna11st     |         0.9 |        2.4 |     20.3 | 🔴 17.4 |   🔴 9.8 |
+|   32 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
+|   33 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
+|   34 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.5 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
 
 ## Changelog
 
+- 2023-06-12 V20:
+    - Added 2 new models:
+        - ggml-bluemoonrp-13b-4k-epoch6-q5_0_by_reeducator_20230624.bin
+        - And thanks to a direct collaboration with Mr.Seeker, a non GGML model: INCITE-7B-Erebus-v2_q16_0_direct_by_MrSeeker_20230611 !
 - 2023-06-10 V19:
     - Added 6 new models:
         - vicuna-13b-cot.ggmlv3.q4_0_by_TheBloke_20230608.bin
@@ -262,6 +270,8 @@ Here are the models I used in detail. These are just the filenames I used, but t
     * baize-v2-13b.ggmlv3.q8_0_by_TheBloke_20230524.bin
 * Based
     * based-7B.ggmlv3.q4_0_by_TheBloke_20230604.bin
+* BluemoonRP
+    * ggml-bluemoonrp-13b-4k-epoch6-q5_0_by_reeducator_20230624.bin
 * Camel RP
     * camel-13b-roleplay.ggmlv3.q5_1_by_TheBloke_20230607.bin
 * Chimera
@@ -284,6 +294,8 @@ Here are the models I used in detail. These are just the filenames I used, but t
     * hippogriff-30b.ggmlv3.q4_0_by_TheBloke_20230531.bin
 * HyperMantis
     * 13B-HyperMantis-ggml-model-q5_1_by_khushman_20230520.bin
+* INCITE Erebus v2
+    * INCITE-7B-Erebus-v2_q16_0_direct_by_MrSeeker_20230611
 * LLaMA
     * llama-7b.ggmlv3.q4_0_by_TheBloke_20230601.bin
     * llama-13b.ggmlv3.q4_0_by_TheBloke_20230601.bin

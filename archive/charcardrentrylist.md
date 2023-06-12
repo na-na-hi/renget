@@ -13,6 +13,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Paul](https://files.catbox.moe/tkpne4.png)|
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc |[Lucia Black](https://files.catbox.moe/feaeg5.png), [Catharin's Temple](http://files.catbox.moe/2zjj3u.png), [Tama](https://files.catbox.moe/748cxp.png), [Best Korea-chan](https://files.catbox.moe/lbqeot.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Ixchel](https://files.catbox.moe/ae1dgn.png), [Postal 1 Dude](https://avatars.charhub.io/avatars/donquijanon/postal-1-dude/chara_card_v2.png), [Pamela](https://files.catbox.moe/1y78a8.png), [Paola Piñata](https://files.catbox.moe/5un264.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png), [Kajux](https://files.catbox.moe/ncx6fm.png), [Okatsu](https://files.catbox.moe/52jink.png), [Xia Ji](https://files.catbox.moe/yxzm5b.png)|
@@ -37,7 +38,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Misc ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
-[KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||

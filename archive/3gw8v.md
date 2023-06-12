@@ -13,7 +13,7 @@ Q: Why are there so many "gender confusion" and "race bait" threads in the first
 A: I can only speculate about the motivation. We know at least one group that coordinates on Discord to spam those threads. It's believed these are useful idiots working for someone else.
 
 Q: The filter removes more than that, isn't it?
-A: Yes, but you can just leave the last line away if 
+A: Yes, but you can just leave the last line, or remove what you want to see.
 
 Q: Why aren't Janitors fixing the problem?
 A: It's likely they are part of the problem, that they are gender confused themselves.

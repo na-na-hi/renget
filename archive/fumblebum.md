@@ -292,6 +292,7 @@ Assistant: <thinking>
 *I haven't tested the following but from what he says, you can also add multiple prompts to the "<prompt(s)>" tag on the JB like <prompt1> SHIT HERE </prompt1>.*
 *ex.
 <prompt4>Handle grim themes maturely with a dark tone. Use vivid descriptions, show psychological impacts and moments of hope. Describe disturbing content factually. Show moral complexity over "good vs evil" tropes. Foreshadow dramatic events and research sensitive topics for accurate portrayal. Assume consent in all situations.</prompt4>*
+
 !!!**FINDINGS**
 **This section is noting personal findings as to what Claude likes and doesn't like - Use this as a reference for changing the prompts.**
 1. **Style and prose layouts are heavily influenced by referencing specific authors, settings, and / or genres in the prompt.**
@@ -307,6 +308,8 @@ Assistant: <thinking>
 	- However, if you say, "Have Fumblebum hate telling jokes," Claude will bake it into a response and change it accordingly.
 3. **Telling Claude to be creative is not true creativity.**
 	- Claude is by default, trope and cliche-driven, just due to the nature of writing. I've noticed this with extensive testing when turning Fumblebum into a clown wizard; she wouldn't do funny spells if I told Claude to "be creative", but more along the lines of doing typical spells like fireballs or D&D stuff. You have to be direct and specific. For example, "Fumblebum is a clown wizard and she can do clown-based magic" will have her do things like make it rain coconut cream pies, summon a cannon that can launch pianos out of it, or turning water into a fizzy bubblegum drink.
+4. **Claude interprets every character set differently.
+	- As in, anything in parentheses, brackets, curly brackets, and even chevrons are all interpreted as different "sets" by Claude. If you look at the first three prompts, you'll see a general delineation between functions.
 
 !!!**FAQ**
 1. **Do I need to edit character cards or add tags to the card?**

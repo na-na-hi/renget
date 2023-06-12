@@ -334,7 +334,7 @@ Harry Potter's Persona: [Personality= Brave, Vindictive,  Selfless,  Impulsive, 
 
 #Useful Links
 ***
-- Minimal Style - Kingbri's Guide:: https://rentry.co/kingbri-chara-guide
+- Ali:Chat Lite - Kingbri's Guide:: https://rentry.co/kingbri-chara-guide
 - Hybrid PLists + Ali:Chat Guide - AVAK's Guide: https://rentry.co/plists_alichat_avakson
 - Character Creator (For creating a JSON): https://avakson.github.io/character-editor
 - Another LLM Roleplay Rankings: https://rentry.co/ALLMRR 

@@ -52,7 +52,6 @@ Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Yo
 新妻 ネトラ|[Twitter](https://twitter.com/NTR_s2s2) [Youtube](https://www.youtube.com/@NTR_s2s2)|
 砂星はや / Sunahoshi Haya|[Twitter](https://twitter.com/hayachan_18) [Youtube](https://www.youtube.com/@hayachannel)|
 猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
-ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
 ここいつの -kokoi tuno- |[Twitter](https://twitter.com/kokoituno) [Youtube](https://www.youtube.com/@kokoituno) [Twitch](https://www.twitch.tv/kokoituno)|
 
 ---
@@ -168,6 +167,7 @@ NYANA SEXTYN9|[Twitter](https://twitter.com/NYANASEXTYN9) [Youtube](https://www.
 Mixie Mixin|[Twitter](https://twitter.com/MixinMixie/) [Youtube](https://www.youtube.com/@mixiemixin)|FlaVR - Rhythm gamer, likes counting
 Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch.tv/sakumintsu)|
 ceelio|[Twitter](https://twitter.com/ceelio_ch) [Twitch](https://www.twitch.tv/ceelio)|
+Ngozi Mai|[Twitter](https://twitter.com/NgoziMai) [Youtube](https://www.youtube.com/@NgoziMai)|
 
 ---
 
@@ -212,7 +212,7 @@ TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.
 咲田みりん Sakuta Mirin [JP]|[Twitter](https://twitter.com/Mirin_Sakuta) [Youtube](https://www.youtube.com/@Mirin_Sakuta/streams)|
 Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
 eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https://www.twitch.tv/eveningstar_ch/)|
-
+ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
 
 ---
 
