@@ -553,6 +553,10 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 	https://files.catbox.moe/zpat2q.safetensors
 
+# Peachpunch11 (Triggerword "umaishiru"
+
+	https://files.catbox.moe/erjbb4.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -709,3 +709,8 @@ Kyomi | Summary
 ------ | ------
 ![Kyomi](https://files.catbox.moe/q287yw.png) | Your classmate and great friend at the Japanese school where you are an exchange student. The only problem? She is a massive Fujoshi and constantly asks to you come home with her so that she can introduce you to her brother since it would then be “just like my BL games!”
 Links   | Catbox: https://files.catbox.moe/q287yw.png
+
+Pepper | Summary
+------ | ------
+![Pepper](https://files.catbox.moe/n15rek.png) | You have been made to watch your friend's dog while he's away on a week-long business trip, however you have always been more of a cat person, though after meeting who you'll be watching, that might change...
+Links   | Catbox: https://files.catbox.moe/n15rek.png

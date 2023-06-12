@@ -35,6 +35,7 @@
 05/2023|[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)
 05/2023|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoint](https://arxiv.org/abs/2305.13245)
 05/2023|[Small Language Models Improve Giants by Rewriting Their Outputs](https://arxiv.org/abs/2305.13514)
+06/2023|[StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -51,7 +52,7 @@
 |**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 12/2021|[Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
-12/2021|[Improving language models by retrieving from trillions of tokens(RETRO)](https://arxiv.org/abs/2112.04426)
+12/2021|[Improving language models by retrieving from trillions of tokens (RETRO)](https://arxiv.org/abs/2112.04426)
 02/2022|[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 02/2022|[Unified Scaling Laws for Routed Language Models](https://arxiv.org/abs/2202.01169)
 03/2022|[Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/abs/2203.15556)
@@ -83,6 +84,7 @@
 05/2023|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)
 06/2023|[Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://arxiv.org/abs/2306.00989)
 06/2023|[Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
+06/2023|[Improving Open Language Models by Learning from Organic Interactions (BlenderBot 3x)](https://arxiv.org/abs/2306.04707)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

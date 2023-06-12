@@ -68,6 +68,8 @@
 
 ![Report Card](https://files.catbox.moe/pxqv4b.jpg)
 
+![Aesthetic Sheet](https://files.catbox.moe/fdstx9.jpg)
+
 ![Food Sheet](https://files.catbox.moe/6uveqy.png)
 
 ![Magical Creatures Sheet](https://files.catbox.moe/06rxcr.png)

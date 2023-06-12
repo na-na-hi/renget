@@ -42,6 +42,9 @@ https://files.catbox.moe/ijm05r.json
 ***
 ###Backgrounds
 Sometimes I feel like creating SD Backgrounds for SillyTavern, I also take requests.
+####12.06.23
+![12.06](https://files.catbox.moe/24pyj1.png)
+https://files.catbox.moe/hhbypu.zip
 ####05.06.23-11.06.23 Full-Pack
 ![11.06](https://files.catbox.moe/jxq89c.png)
 https://files.catbox.moe/aybrkt.zip
