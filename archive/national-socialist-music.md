@@ -1,5 +1,8 @@
 #/NSG/'s Songs
 ***
+### Collections
+* [Neues Europa's Deutsche Marschmusik](https://nseuropa.org/marschmusik/index.htm)
+
 ###The anthems of National Socialist Germany
 * [Horst-Wessel-Lied](https://www.bitchute.com/video/lBBjV04qZOYE/)
 * [Das Deutschlandlied (sung and recorded at the 1936 Berlin Olympics)](https://youtu.be/E3-zkkHNhDk)

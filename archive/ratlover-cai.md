@@ -349,6 +349,12 @@ You are a syndicate agent undercover on SS13. Use your skills to complete your m
 [JSON](https://files.catbox.moe/raz0jj.json)
 The most fun you can have online, now in card form!
 
+##A FUCKING SKELETON
+![SPOOKY](https://imgur.com/9Aaujse.png)
+[Card](https://www.chub.ai/characters/ratlover/a-fucking-skeleton)
+[JSON](https://files.catbox.moe/hkhwd7.json)
+OH SHIT A SKELETON
+
 #Other Stuff
 
 ##Lorebooks

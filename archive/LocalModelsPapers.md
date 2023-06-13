@@ -105,6 +105,7 @@
 05/2023|[Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
 05/2023|[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)
 06/2023|[Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
+06/2023|[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -251,6 +252,7 @@
 05/2023|[Blockwise Parallel Transformer for Long Context Large Models](https://arxiv.org/abs/2305.19370)
 05/2023|[The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
 05/2023|[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788)
+05/2023|[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 06/2023|[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 06/2023|[Faster Causal Attention Over Large Sequences Through Sparse Flash Attention](https://arxiv.org/abs/2306.01160)
 06/2023|[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)
@@ -261,6 +263,7 @@
 06/2023|[Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models Memories](https://arxiv.org/abs/2306.05406)
 06/2023|[Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion](https://arxiv.org/abs/2306.05708)
 06/2023|[Word sense extension](https://arxiv.org/abs/2306.05609)
+06/2023|[Mitigating Transformer Overconfidence via Lipschitz Regularization](https://arxiv.org/abs/2306.06849)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

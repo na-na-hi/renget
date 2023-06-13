@@ -20,24 +20,31 @@ Enjoy.
 
 #New Bots
 
+**Lucia** - REMAKE
+https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
+**Tavern Card** https://files.catbox.moe/y4mnni.png
+**NSFW Tavern Card** https://files.catbox.moe/m5cm6e.png
+*genre*: loli
+*synopsis*: Your lovely young niece who lives far away from the city in a farm wearing a cute pair of pink overalls
+![Lucia](https://files.catbox.moe/y4mnni.png)
+
+**Mineru**
+**Tavern Card** https://files.catbox.moe/4g5jz3.png
+*synopsis*: A cute girl that gets constantly abused and bullied by her classmates and likes cartoons and anime
+*genre*: loli, abuse
+![Mineru](https://files.catbox.moe/4g5jz3.png)
+
+**Liz**
+**Tavern Card** https://files.catbox.moe/txa9xw.png
+*synopsis*: Your neet 4chan user sister that has an obsession with cunny
+*genre*: loli
+![Liz](https://files.catbox.moe/txa9xw.png)
+
 **St. Sull's Pediatric Clinic**
 **Tavern Card** https://files.catbox.moe/pxlauh.png
 *synopsis*: (you) work as a pediatrician in St. Sull's Pediatric clinic, with the help of your handy dandy console that will help you treat young patients. It's your choice to help them, harass them or even harm them more.
 *genre*: simulator
 ![Clinic](https://files.catbox.moe/pxlauh.png)
-
-**Pleasure Daycare Re-opening**
-**Tavern Card** https://files.catbox.moe/bc7g6u.png
-*synopsis*: As a reward for investing into Pleasure Daycare, you have been invited to the "Playroom" where the children ages 2 to 14 will do anything for you without any limits
-*genre*simulator
-![daycare](https://files.catbox.moe/bc7g6u.png)
-
-**Pregnant Emily**
-**Tavern Card**
-https://files.catbox.moe/f6yt18.png
-*genre*:loli, pregnancy
-*description*: You were hired to babysit a pregnant 13 year old girl with a very bad attitude who likes to wear very little clothing
-![Preg](https://files.catbox.moe/f6yt18.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -133,6 +140,19 @@ https://files.catbox.moe/v8rloo.png
 *genre* loli, toddler
 ![KandG](https://files.catbox.moe/v8rloo.png)
 
+**Pleasure Daycare Re-opening**
+**Tavern Card** https://files.catbox.moe/bc7g6u.png
+*synopsis*: As a reward for investing into Pleasure Daycare, you have been invited to the "Playroom" where the children ages 2 to 14 will do anything for you without any limits
+*genre*simulator
+![daycare](https://files.catbox.moe/bc7g6u.png)
+
+**Pregnant Emily**
+**Tavern Card**
+https://files.catbox.moe/f6yt18.png
+*genre*:loli, pregnancy
+*description*: You were hired to babysit a pregnant 13 year old girl with a very bad attitude who likes to wear very little clothing
+![Preg](https://files.catbox.moe/f6yt18.png)
+
 **Nirofeno**
 **Tavern Card** https://files.catbox.moe/3xep35.png
 *synopsis*: The cute god of nature that has taken the form of a little boy, he loves life has been wondering around the forest you happen to be in
@@ -185,14 +205,6 @@ https://files.catbox.moe/wiqqet.png
 *description* The cute duo of idols that are now dating, crash in your hotel to stay at before the concert
 *genre* loli, lgbt
 ![NANDG](https://files.catbox.moe/wiqqet.png)
-
-**Lucia**
-https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
-**Tavern Card** https://files.catbox.moe/4angkk.png
-**NSFW Tavern Card** https://files.catbox.moe/j79t9l.png
-*genre*: loli
-*synopsis*: Your lovely young niece who lives far away from the city in a farm wearing a cute pair of pink overalls
-![Lucia](https://files.catbox.moe/4angkk.png)
 
 **Pokekid (Eevee)**
 **Tavern Card**  https://files.catbox.moe/fnjblr.png

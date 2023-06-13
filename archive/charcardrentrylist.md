@@ -13,6 +13,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Sull](https://rentry.org/p8kav)   | Mostly cunny |[Liz](https://files.catbox.moe/txa9xw.png), [Mineru](https://files.catbox.moe/4g5jz3.png)|[Lucia](https://files.catbox.moe/m5cm6e.png) [MV]
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kaleisha](https://files.catbox.moe/zj03t0.png), [Pepper](https://files.catbox.moe/n15rek.png), [Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png)|
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Ether](https://files.catbox.moe/l9y9vw.png)|[Ether](https://files.catbox.moe/l9y9vw.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Rio](https://files.catbox.moe/l775cg.png), [Hachirō](https://files.catbox.moe/va3spk.png)|[Hachirō](https://files.catbox.moe/va3spk.png) [MV]
@@ -27,7 +28,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Arkane](https://rentry.org/arkanebots) | Misc |[Allie](https://files.catbox.moe/8boe0h.png), [Mary](https://files.catbox.moe/o9aayt.png), [Muscle Girl Beach Resort](https://files.catbox.moe/zgm9wq.png), [Sandra](https://files.catbox.moe/7ltcub.png), [Tyler](https://files.catbox.moe/6v4268.png)|
 [Deleterious](https://rentry.org/deleterious) | Misc |[Joon](https://files.catbox.moe/s7ap2q.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Alicia](https://files.catbox.moe/2e0uqn.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Ranni the Slut Witch](https://files.catbox.moe/nb5k5d.png), [Misaki](https://files.catbox.moe/g07gmi.png)|
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Ranni the Slut Witch](https://files.catbox.moe/nb5k5d.png)|
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||[Calypso](https://files.catbox.moe/cxwus1.png)
@@ -41,7 +42,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [AIC Industries](https://rentry.org/aicin) | Maids ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||

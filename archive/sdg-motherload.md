@@ -867,3 +867,40 @@ Prompt:
 !!! info Negative prompt: (worst quality, low quality:1.4), EasyNegative, multiple views, multiple panels, blurry, watermark, letterbox, text
 
 !!! info Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 3407373552, Size: 768x1152, Model hash: 2eb0c2a23a, Model: CamelliaMix_V2, Denoising strength: 0.32, Clip skip: 2, ENSD: 31337, Mask blur: 4, SD upscale overlap: 64, SD upscale upscaler: R-ESRGAN 4x+ Anime6B
+***
+
+
+##Girl Next Door
+
+Description:
+!!! note A 1girl anime model with an emphasis on cuteness.
+
+!!! note Recommended settings: Clip skip : 2, Sampler: DPM++ 2M Karras, Steps : 25, CFG: 5, VAE: Baked in, Adetailer: face_yolov8n
+
+!!! note If you want to recreate the same style of images as the previews, I recommend that you copy the prompts and switch out your desired traits.
+
+Download link: 
+https://pixeldrain.com/u/d9BqLvm5
+
+Gen examples:
+ ![1](https://files.catbox.moe/gah7bb.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), bioshockelizabeth, black choker, medium close up, curious, wondering, amazed, looking away, looking to the side, dynamic, action scene, movement, windy, extremely detailed, colorful, (highly detailed CG illustration), (looking at viewer), cinematic light, solo, half body, (character focus), outside, sunset, during golden hour <lora:bioshockelizabeth:.5>
+
+!!! info (worst quality, low quality:2), NSFW,monochrome, zombie,overexposure, watermark,text,bad anatomy,bad hand,((extra hands)),extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, oversized head,extra body,extra navel,easynegative,(hair between eyes),sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs ,(ng_deepnegative_v1_75t),((hands on head))
+
+!!! info  Size: 704x512, Seed: 2498232482, Model: GirlNextDoor_V1, Steps: 25, Sampler: DPM++ 2M Karras, CFG scale: 5, Clip skip: 2, Model hash: 3321e049d7, Hires steps: 16, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: R-ESRGAN 4x+ Anime6B, ADetailer model: face_yolov8n.pt, ADetailer version: 23.5.10, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.5, ADetailer mask blur: 4, ADetailer dilate/erode: 32, ADetailer inpaint full: True, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.4, ADetailer use separate CFG scale: False, ADetailer use inpaint width/height: False
+
+
+Gen examples:
+ ![2](https://files.catbox.moe/dkfmmq.jpeg)
+
+Prompt:
+
+!!! info (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), (naked:1.4), (nude), (brown:1.3) hair, (yellow eyes:1.3), (1mechanical girl:1.3), (mechanical limbs), extremely detailed, colorful, (highly detailed CG illustration), (looking at viewer), cinematic light, solo, half body, (character focus), outside
+
+!!! info (worst quality, low quality:2), NSFW,monochrome, zombie,overexposure, watermark,text,bad anatomy,bad hand,((extra hands)),extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, oversized head,extra body,extra navel,easynegative,(hair between eyes),sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs ,(ng_deepnegative_v1_75t),((hands on head))
+
+!!! info Size: 512x768, Seed: 2093026404, Model: GirlNextDoor_V1, Steps: 25, Sampler: DPM++ 2M Karras, CFG scale: 5, Clip skip: 2, Model hash: 3321e049d7, Hires steps: 16, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: R-ESRGAN 4x+ Anime6B, ADetailer model: face_yolov8n.pt, ADetailer version: 23.5.10, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.5, ADetailer mask blur: 4, ADetailer dilate/erode: 32, ADetailer inpaint full: True, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.4, ADetailer use separate CFG scale: False, ADetailer use inpaint width/height: False

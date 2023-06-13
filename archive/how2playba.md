@@ -56,9 +56,9 @@ Made by /bag/:
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 
 
-Or alternatively (not made by /bag/):
+Or alternatively:
 ![Reroll targets](https://i.imgur.com/GdmwgEY.png)
-Roll until you get 10 points (this is a JP reroll list)
+Roll until you get 10 points (taken from https://www.youtube.com/watch?v=oEvnl50-SCg)
 
 As the meta is constantly changing, the most optimal reroll targets can change as well.
 The [Future Content Timeline and Unit Ratings](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) and [Arona's projected banners](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) spreadsheets can help a lot in this regard.

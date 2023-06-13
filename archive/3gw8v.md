@@ -39,10 +39,10 @@ How to install the filter:
 ## 4chanX
 ```
 ### /gif/ anti-degeneracy filter
-### version 012 | https://rentry.org/3gw8v
+### version 013 | https://rentry.org/3gw8v
 
 # gender confusion
-/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i;type:subject;boards:gif;
+/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|chastity|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i;type:subject;boards:gif;
 
 # race bait
 /[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| peop[il]e| ass| pen)|mixed|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i;type:subject;boards:gif;
@@ -75,7 +75,7 @@ Kuroba-ex filter, import as json, it will overwrite ALL previous filters:
     {
       "enabled": true,
       "type": 16,
-      "pattern": "/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i",
+      "pattern": "/tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|boys of 4chan|chastity|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i",
       "boards": "4chan:gif",
       "action": 2,
       "color": -65536,

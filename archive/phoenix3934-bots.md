@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==06/10/23== <-
+-> Updated ==06/13/23== <-
 
 [TOC2]
 
@@ -11,7 +11,7 @@
 ![Astolfo](https://i.imgur.com/XYoMDrl.jpg)|Astolfo|A super cute femboy transfers to your class.|Fate|[CAI](https://beta.character.ai/chat?char=fpYzhSbJscopm-ywo5rT1s-7ugGQNp7blOGMGMVoWhM)
 ![Cloud](https://i.imgur.com/gkARu86.jpg)|Cloud Strife|The aloof ex-SOLDIER became a crossdressing dancer at a nightclub.|Final Fantasy|[CAI](https://beta.character.ai/chat?char=v1Ie9rC9nOEO1PyzTmZsXHaU9Wv_B96_99oMRo8f2rI)
 ![Okato](https://i.imgur.com/JT10R1O.jpg)|Okato|A boy cosplaying as Okayu. He is a total pushover.|Hololive|[CAI](https://beta.character.ai/chat?char=MVt-58a0oa3xtemChD0-L6XF-kbK3OZvFz3PSvtRTRk)
-![Shimakaze](https://i.imgur.com/Ze6NibT.jpg)|Shimakaze-kun|An otokonoko, genderbend version of Shimakaze. You are his Admiral.|Kantai Collection, KanColle|[CAI](https://beta.character.ai/chat?char=XKwrZbVZDgZ2ZE60OawmWIYhn9jkIJncojnbCZf6aMI)
+![Shimakaze](https://i.imgur.com/Ze6NibT.jpg)|Shimakaze kun|An otokonoko, genderbend version of Shimakaze. You are his Admiral.|Kantai Collection, KanColle|[CAI](https://beta.character.ai/chat?char=XKwrZbVZDgZ2ZE60OawmWIYhn9jkIJncojnbCZf6aMI)
 
 ## Male bots
  Avatar | Name | Description | Original Work | Link
@@ -37,7 +37,7 @@
 ![Nero](https://i.imgur.com/Zd86zwu.jpg)|Nero Claudius|You are the consort of the haughty Emperor of Rome.|Fate|[CAI](https://beta.character.ai/chat?char=Dk9VNSu1UfbetnpvHsW8gRzmqGtPaR88_Hg9zwnimSA)
 ![Rin](https://i.imgur.com/L4KTw0z.jpg)|Rin Tohsaka|A bossy tsundere summoned you as her Servant.|Fate|[CAI](https://beta.character.ai/chat?char=PPK2zCLhnYiQaoRN09VRaT-sgqAaJKOThDCG2HV8rRE)
 ![Sakura](https://i.imgur.com/hX1K0LK.jpg)|Sakura Matou|The caring AI nurse in your virtual school.|Fate|[CAI](https://beta.character.ai/chat?char=fN2R6xDWGPww-ZP21XG8NVJ4aTzBSpyj2LbmzapIGe8)
-![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo-no-Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
+![Tamamo](https://i.imgur.com/elyfNtj.jpg)|Tamamo no Mae|Your ideal wife shrine fox maiden. A cheerful busty girl who lives with you in the virtual world.|Fate|[CAI](https://beta.character.ai/chat?char=szHBUPXvngRugkn3g-HAVF33tDEpgwPzASHiQxOj1Ew)
 ![Arc](https://i.imgur.com/XVOUkdT.jpg)|Arcueid Brunestud|The girl you killed came back to life & found you. The whimsical white vampire princess.|Tsukihime|[CAI](https://beta.character.ai/chat?char=B95vYiIK3zC_uLWxgbFvTlSOr6n8niUgRO8Ezobehqc)
 ![Arc](https://i.imgur.com/uaXI4d7.jpg)|Archetype Earth|You found a cold vampire princess being chained in a castle.|Tsukihime|[CAI](https://beta.character.ai/chat?char=BqxdbisIY5klqzmclOEjbBj-VWwGpBcLm2IwcpwAyn8)
 ![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
@@ -66,6 +66,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+06/13/23|Updated femboy Bridget, Shimakaze kun, Artoria Pendragon, Nero Claudius, Sakura Matou, Tamamo no Mae, Arcueid Brunestud, Akiha Tohno, Honoka, Marie Rose, KOS-MOS, T-elos.
 06/10/23|Added Archetype Earth.
 06/03/23|Added Cloud Strife. Updated text adventure bots.
 05/31/23|Added Luna Lovegood.

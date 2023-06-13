@@ -557,6 +557,10 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 	https://files.catbox.moe/erjbb4.safetensors
 
+# Arceus LoRA
+
+	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -10,11 +10,12 @@ Grani and the Knights's Treasure (Grani) 15OP
 Heart of Surging Flame (Ceylon) 28OP
 >easy tier
 Under Tides 28OP
-Gavial the Great Chief Returns (Tomimi) 28OP
+Darknights's Memoir (Sideroca) 22OP
 Mansfield Break 27OP
 Code of Brawl (Bison) 29OP
+Gavial the Great Chief Returns (Tomimi) 28OP
 >medium tier
-Darknights's Memoir (Sideroca) 22OP
+Break the Ice 30OP
 Twilight of Wolumonde (Folinic) 32OP
 Who is Real 30OP
 Dossoles Holiday* 40OP 
@@ -26,7 +27,7 @@ Stultifera Navis 36OP
 
 Some recommendations:
 - You can unlock **permanently** one event per week and can store up to two such unlocks ("Event Crystals" as the game's tooltip calls it). You gain nothing by letting them overflow when Monday reset rolls around so if you're indecisive just unlock whatever. You'll have them all open soon enough.
-- Before focusing on side stories, clear 4-7 for the final keel. This will allow you to fully upgrade your command center, which extends the time your base operators can work. It is sorely recommended you also completely max out the rest of the base before focusing on side stories, so you can maximize your passive income. Unless you're really desperate for pulls and can't get the primes anywhere else. ~~Real doctors luckshit every banner and buy skins instead.~~ 
+- Before focusing on side stories, clear 4-7 for the final keel. This will allow you to fully upgrade your command center, which extends the time your base operators can work. It is sorely recommended you also completely max out at least the left side of your base before focusing on side stories, so you can maximize your passive income. Unless you're really desperate for pulls and can't get the primes anywhere else. ~~Real doctors luckshit every banner and buy skins instead.~~ 
 	- You might not want to completely build your base at first. Look into 243 or 252 setups first - those are out of the scope of this guide.
 - Save these for dead weeks, not only you'll have something to do then, you should complete current events while they're ongoing.
 - Some of these events, in particular the older ones, can be restored (known ingame as Record Restore). Restoring an event involves completing all of it's operations with 3 stars. As you do it, you fill a ladder with the stars you've gained, unlocking rewards like event furniture, icons, and most importantly, its welfare operator and potentials, which i've listed between parentheses above. As the game is updated, more and more old events become restorable. I will be adding their welfare ops to the list above as they do.
@@ -38,16 +39,16 @@ Some recommendations:
 - Heart of Surging Flame is infamous for its 0-sanity cost story stages, which can be used to fulfill dailies/weeklies/module missions with autos so it's a recommended unlock.
 - Under Tides was released before wandering medics existed and it was already easy then. If you bring one such as the free Honeyberry it's a complete joke. Several high impact operator modules have missions in here, and Gladiia is an absolute monster for a welfare unit which will become available as a record restore in the future, so it's highly recommended. 
 - Stultilfera Navis may have a lot of OP, but they notably overhauled the UI to hide the fact none of the story nodes actually award any. You're going to have to fight for every single one, and if you ask around you'll find it's a helluva fight. I recommend Wolumonde first if you really need primes.
-- Dossoles Holiday introduced stickers, which are buffs for your party and which counter some event specific mechanics (corrosion damage, high tide, etc). Because the EX and S stages are balanced around them, the difficulty is heavily backloaded and you might only be able to deal with the story stages at first, which is why I marked it. It also has a 0-sanity cost pseudo annihilatio which you might want to exploit for dailies/weeklies but good luck autoing that one (many oldstinkies still couldnt and settled for the bugged 400 clear)
+- Dossoles Holiday introduced stickers, which are buffs for your party and which counter some event specific mechanics (corrosion damage, high tide, etc). Because the EX and S stages are balanced around them, the difficulty is heavily backloaded and you might only be able to deal with the story stages at first, which is why I marked it. It also has a 0-sanity cost pseudo annihilatio which you might want to exploit for dailies/weeklies but good luck autoing that one (many oldstinkies still couldnt and settled for the bugged 400 clear). Tequila has long been sent permanently to the bench ever since Młynar's debut, but he's still worth E2 purely because of his base combo. 
 
 ## What about vignettes where doombear
 
 You might also want to know you can also restore vignette stories, but you'll have to pay with Information Fragments bought at the red cert store outside events.
-Besides *maybe* Absinthe ~~my beloved~~ from Children of Ursus the current welfares from these events are somehow even more questionable than side story/intermezzi welfares, and you get nothing else besides them and plaques/furniture for your trouble.
+Bena, restorable from Preluding Lights is the most interesting option for a new player because of her niche. Her talent allows her doll form to resist a lot of phys/arts damage, on top of her block lowering to 0 as per her subclass, making her very difficult to completely kill. Because of this, she makes excellent renewable bait and a crash course on the aggro system. 
+Other than that, besides *maybe* Absinthe ~~my beloved~~ from Children of Ursus the current welfares from these events are somehow even more questionable than side story/intermezzi welfares, and you get nothing else besides them and plaques/furniture for your trouble.
 You get to actually >read the stories in-game I guess but you already have https://akgcc.github.io/cc/story.html for that.
 All in all, farming red certs specifically for restoring vignettes is extremely poor bang for your sanity. If you're a completionist and really want them unlocked in your account, it's better to wait for a new vignette event and dump sanity then to buy Fragments in the event shop. 
 At face value, the unlimited Fragment shop in such events *looks* less efficient than the red cert store purely for Fragments. Red cert stages, however, do not have side drops. Vignette events are the perfect opportunity to farm the materials you actually need in the moment from most stages in the game while getting currency for Fragments on the side. Or even double-dip and farm red certs during Vignettes to purchase fragments in both places.
-Do look out for Bena when Preluding Lights becomes restorable since she has a very unique bait/dodgetank kit distinct from her dollkeeper coworkers ~~in only like a fucking year and change from now~~
 
 ## Integrated Strategies
 
