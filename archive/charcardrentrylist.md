@@ -13,7 +13,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Pepper](https://files.catbox.moe/n15rek.png), [Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png), [Kajux](https://files.catbox.moe/ncx6fm.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kaleisha](https://files.catbox.moe/zj03t0.png), [Pepper](https://files.catbox.moe/n15rek.png), [Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png)|
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Ether](https://files.catbox.moe/l9y9vw.png)|[Ether](https://files.catbox.moe/l9y9vw.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Rio](https://files.catbox.moe/l775cg.png), [Hachirō](https://files.catbox.moe/va3spk.png)|[Hachirō](https://files.catbox.moe/va3spk.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Paul](https://files.catbox.moe/tkpne4.png)|

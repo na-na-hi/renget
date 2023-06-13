@@ -3,28 +3,25 @@ The /gif/ degeneracy filter
 Previous thread:
 
 Q: What is the purpose of the filter?
-A: It removes "gender confusion" and "race bait" threads. In recent years the amount of those threads has grown steadily and removed a lot of diversity from the first few pages. Today the filter removes often 50 threads or more.
+A: It removes most, but not all "gender confusion" and "race bait" threads and some other stuff i personally would like to see less of. In recent years the amount of those threads has grown steadily and removed a lot of diversity from the first few pages.
 
 Q: But isn't the diversity higher with those threads?
-A: Not if they clog the first few pages. Try the filter, see if you like the new /gif/.
+A: Try the filter, decide what looks more diverse to you.
 
-Q: If you don't like porn, why go to /gif/, not /wsg/?
-A: I like porn, i just don't like 50 threads of gender confusion and race bait. For example, on every porn site the category "amateurs" and "bdsm" are the most popular. Why is that not the case on /gif/?
+Q: If you don't like porn, why don't you go to /wsg/?
+A: I like porn, i just don't like 40 threads or more of gender confusion and race bait.
 
 Q: Why are there so many "gender confusion" and "race bait" threads in the first place?
-A: I can only speculate about the motivation. We know at least one group that coordinates on Discord to spam those threads. It's believed these are useful idiots working for someone else.
-
-Q: The filter removes more than that, isn't it?
-A: Yes, but you can edit the filter to taste by removing stuff.
-
-Q: Why aren't Janitors fixing the problem?
-A: It's likely they are part of the problem, that they are gender confused themselves.
+A: I don't know, tell me in the thread. I wouldn't even bother with the filter if it where just those few.
 
 Q: I have an update or a way to streamline the filter regex.
-A: Spam it in a degeneracy thread as an answer to OP, eventually i should see it.
+A: Spam it in the thread as an answer to OP, eventually i should see it.
 
 Q: Some crap is still coming through!
-A: It's spam and the nature of spammers is to undermine filters. It is what it is, sadly.
+A: It is what it is, sadly.
+
+Q: OP comes from /pol/, is a chud, is homophobe, is closeted, is cursed, is posessed, is a sore looser, is a creep, is wrong!
+A: Yes.
 
 How to install the filter:
 

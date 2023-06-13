@@ -79,4 +79,33 @@ Perhaps thinking that jinxed me - as the next clearing I came up had what appear
 Still - I had a basic understanding of how these dungeons worked (if they worked the same as the games, that is). Manoeuvring myself closer to the incongruous masonry work, I got a much better look at them - perfectly made stone steps leading down, with the bottom shrouded in darkness. Looking at them, I knew that I wasn't getting out of here without an escape orb or reaching the bottom of this dungeon - and since I hadn't found any escape orbs on this level, the only way out of here was downward.
 
 ***
+
+For a Mystery Dungeon, it was surprisingly empty. I'd not seen a single Pokémon while I had been floating my way through the level to the next staircase. Weren't these places supposed to be swarming with mad beasties attempting to beat the snot out of you? Not that I was complaining - if I could see the day out without encountering the Pokémon equivalent of a homeless crackhead, I'd score that as a win.
+
+Figuring that this was one of the safer dungeons, I made the (perhaps questionable) decision to explore the floor a little more. After all, these places were usually full of loot, right? Getting out of here with some cash and items would be pretty nice if I ever made it to a town.
+
+Soon enough, while wandering around the level, I eventually found something. A small glass bottle filled with some sort of liquid, sitting on the ground. I moved over and went to grab it- ah. Hm. I had nothing to put it in. And for that matter, no hands or hand equivalents to pick it up with. I really should have seen that coming. It looked like I wasn't going to be able to ==GET== anything until I found someone with limbs to help me.
+```python
+Get item: Max_Elixir ?
+Y/N
+```
+More of that text floated in front of me - hovering next to the glass bottle.
+
+`UH. YES.`
+
+```python
+Beginning digitisation.
+Stand by. . .
+```
+I watched, utterly dumbfounded, as the bottle seemed to shrink and pixilate - before shooting straight towards me. I flinched in anicipation, squeezing my eyes tightly shut. There was a unpleasant feeling of pressure on my front, which quickly faded into nothing. Opening my eyes, I could see that the bottle had disappeared, replaced with more floating text under the first set.
+```python
+Digitisation complete.
+Max_Elixir was sent to C:\Porygon\ItemStorage !
+```
+As the text blipped out of existence, I fixed my gaze on the spot the bottle had been sitting. I experimentally waggled a block-foot-thing through where it had been - it was certainly gone.
+
+`WHAT WAS THAT. WHAT WAS ANY OF THAT. AUGH. WHAT IS MY LIFE.`
+
+
+***
 WIP

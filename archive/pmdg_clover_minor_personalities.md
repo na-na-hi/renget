@@ -60,6 +60,6 @@
 >The two still have some of their old supplies from their glory days
 >They live in a swamp deep within the forest south of Capim Town. Their house is partially built into the swampwater itself
 
-#####Dewott
+####Dewott
 >Dewott is Togetic's old partner from when they were both outlaws. He has a deep hatred of pokemon, and his one goal is return back to the human world with Togetic. He genuinely cares about Togetic, but does not care about the lives of anyone would stand in the way of his goal. In battle he's agile, powerful, cocky, and refuses to use pokemon moves or his scalchops until he feels like he absolutely needs to, preferring to use human-styled martial art attacks to deal with his foes. He also loves to shit-talk and taunt his foes, especially if he has the upper hand. 
 >Togetic's preparedness also rubbed off on him, and he almost always carries a bag with him full of useful supplies, and despite his crass way of speaking, he's clever enough to set up plans to ambush his targets. While his main goal is "rescuing" Togetic, he might attempt attacks on random Clover Guild members, as he's grown to have a grudge against the guild itself since he feels like they're keeping Togetic away from him.

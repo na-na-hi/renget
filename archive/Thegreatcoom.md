@@ -714,3 +714,8 @@ Pepper | Summary
 ------ | ------
 ![Pepper](https://files.catbox.moe/n15rek.png) | You have been made to watch your friend's dog while he's away on a week-long business trip, however you have always been more of a cat person, though after meeting who you'll be watching, that might change...
 Links   | Catbox: https://files.catbox.moe/n15rek.png
+
+Kaleisha | Summary
+------ | ------
+![Kaleisha](https://files.catbox.moe/zj03t0.png) | A Jamaican girl you meet while you're in a slump after a failed "low-budget vacation" in the country. She instantly sees something is up with you and calls you over, in her own language. (You might need a translator for this one.)
+Links   | Catbox: https://files.catbox.moe/zj03t0.png
