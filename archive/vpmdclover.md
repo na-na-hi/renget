@@ -260,6 +260,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw)
 * Pikachu
 	* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
+* Porygon
+	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) *Not on Table, WIP*
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -404,6 +406,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 * [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 * [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
+* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

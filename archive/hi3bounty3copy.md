@@ -80,7 +80,7 @@ These are the Stigmata forging costs, separated by type and grade.  For a more c
 -- | -- | -- | -- | -- | -- | --
 New mats cost | 190 G1 Crystalyte | 200 G2 Crystalyte | 125 G2 Crystalyte + G1 Stigma | 200 G3 Crystalyte | 140 G3 Crystalyte + G2 Stigma | 140 G4 Crystalyte + G3 Stigmata
 - | - | - | - | - | - | -
-Blue Crystalyte | Nohime | Robert Peary | Robert Peary | - | Ana Schariac | Willows (Li Qui)
+Blue Crystalyte | Nohime | Robert Peary | Robert Peary | Ana Schariac | Ana Schariac | Willows (Li Qui)
 Red Crystalyte | Higokumaru | Thales | Thales | - | Leeuwenhoek | -
 Purple Crystalyte | Nagamitsu | Monet | Monet | Ishikawa Goemon | Ishikawa Goemon | Handel
 Grey Crystalyte | Ekaterina | Michelangelo | Michelangelo | Dirac | Dirac | Elysia
@@ -161,8 +161,7 @@ Roughly in farming order; may vary depending on your account.
     Lier B has a requirement for its user to be at 100 percent hp or higher. This means that it has limited usage, only fit for game modes that do not take too long to complete, such as SS bosses in Memorial Arena. Use Atilla B (or Fu Hua Pride B) when facing mobs.
 
 !!! warning Which Stigmatas To Not Craft
-    Do not craft Scott, Roald Amundsen, Theresa: Origins, Tchaikovsky, Nikola Tesla, Ogier, Edison, Attila, Ryunosuke Akutagawa, Sakamoto Ryoma, Wang Zhoujin, Galileo, or Shigure Kira, as you can obtain these for free. Neither should you farm Picasso, as you can get it through completing the corresponding Chronicles challenges. These stigmatas should only be crafted if you are desperate, fulfilling the starter event mission of crafting something from the foundry (in which case Attila B is good), or converting them into normal crystal cores (which is only done by endgame players. If that's the case, why are you here?)
-
+    In general, you should not craft stigmatas until you have a need for doing so. Some stigmatas like Roald Amundsen, Wang Zhoujin, and Shigure Kira are common gacha offrates. They have a very high chance of dropping every time you pull on a gacha banner. Crafting common stigmata is usually done with the purpose of directly salvaging them to obtain normal crystal cores. Other stigmata such as Picasso, Elizabeth Bathory, and Marco Polo can be obtained through other avenues such as completing story chapters and redeeming from the starter training shop. By only crafting stigmatas on a need-to-use basis, you remove the risk of forging something you don't need, saving you time, ether fuel, and Crystalyte.
 
 
 - | Why You Should Farm It | When to forge | How many to forge | Cost
@@ -175,26 +174,27 @@ Roughly in farming order; may vary depending on your account.
 **Fu Hua: Pride B** | Can be used instead of Atilla B | Optional, choose when you need to | 0-1 | 30 SS Imaginon
 **Yodo Dono** | A very cheap fire dps build | Not really recommended, as Leeuwenhoek + Thales is a better option | 0-1 | 60 Honkai Pieces for each piece
 
-!!! danger DO NOT FARM DARWIN
-    DO NOT FARM DARWIN. DO NOT GET IT FROM THE TRAINING SHOP. EDISON IS MUCH BETTER. DO NOT ASK WHY. IT JUST IS.
+!!! danger Why getting Darwin Is Bad
+    Crafting Darwin or redeeming it from the training shop is a terrible idea. Edison is a far cheaper stigmata to craft and invest in for lightning valkyries and is comparable to Darwin. The effects from the Edison set can also be applied more consistently when compared to Darwin.
 
 ##### G1
 
 Roughly in farming order; may vary depending on your account.
 
-- | Why You Should Farm It | When to forge | Cost
+Stigmata | Why You Should Farm It | When to forge | Cost
 -- | -- | -- | --
 **Pledge of Sakura (PoS)** | While not a good weapon, can be used as tribute for the Salvation of Sakura PRI. Tuning PoS gives you access to a number of lightning and SP boosts in the divine keys screen | ASAP | 150 AE Imaginon + 300 fuel + Corresponding Spirit
 **Lier B** | Decent starter physical build with Marco Polo M and Lier B. Marco TM Attila B is an alternative. A bit too pricy to justify crafting it | Around level 40, for beginners | 190 Phantom Grey Crystalyte + 60 Honkai Pieces + 90 SS Imaginon + 700 Fuel
+**Dracula T** | Good physical stigmata when paired with Shui MB or Dirac MB for Susannah | When you have SS Susannah and need something for bleed weather | 190 Phantom Blue Crystalyte + 80 Honkai Pieces + 120 SS Imaginon + 700 Fuel
 **Siegfried Kaslana M** | When you need it and Origins M doesn't cut it |  Very low priority | 190 Phantom Purple Crystalyte + 80 Honkai Pieces + 90 SS Imaginon + 700 Fuel
 **Briareus EX** | Only the PRI version is useful, as it is an impair source and lets your valk stay on field, useful for when you want to [proc](https://www.reddit.com/r/NoStupidQuestions/comments/7eulti/what_does_proc_mean_in_gaming/) Snowy Sniper's passive or re-proc Newton B with Drive Kometa's Shield| Very low priority | 150 AE Imaginon + 300 Fuel + Briareus PRI Sprit to craft Briareus PRI, which is used as tribute for Briareus EX
 **MAG-Typhoon** | When you know exactly what you're doing | Very low priority | 150 AE Imaginon + 300 Fuel + MagStorm Sprit to craft MagStorm, which is used as tribute for MAG-Typhoon
-**Demonblade - Florid Sakura** | When you know exactly what you are doing | When you have SS FS and you can DPS with her (you can't) | --
-**Cleopatra B** | Huge total damage multiplier against paralyzed enemies | When you have SSS Knight Moonbeam (very late endgame). Can also be used on Herrscher of Thunder (please don't, just farm Handel) | 190 Phantom Grey Crystalyte + 48 Honkai Pieces + 120 SS Imaginon + 700 Fuel
-**Shennong T** | Used in conjunction with Shuijing MB for FT, provides huge physical damage boost | When you have SSS FT and you don't have Elysia TB, which is the superior option | 190 Phantom Grey Crystalyte + 80 Honkai Pieces + 90 SS Imaginon + 700 Fuel
+**Demonblade - Florid Sakura** | When you know exactly what you are doing | Using SSS FS as a DPS. Still very low priority | --
+**Cleopatra B** | Huge total damage multiplier against paralyzed enemies | When you have SSS Knight Moonbeam (very late endgame). Can also be used on Herrscher of Thunder, though Handel is far better. Very low priority. | 190 Phantom Grey Crystalyte + 48 Honkai Pieces + 120 SS Imaginon + 700 Fuel
+**Shennong T** | Used in conjunction with Shuijing MB for FT, provides physical damage boost | When you have SSS FT and you don't have Elysia TB, which is the superior option | 190 Phantom Grey Crystalyte + 80 Honkai Pieces + 90 SS Imaginon + 700 Fuel
 **Fuxi B** | When you know exactly what you are doing | Very low priority | 190 Phantom Blue Crystalyte + 400 Ranger Creds + 125 SS Imaginon + 700 Ether Fuel
 **Fuxi M** | YWhen you know exactly what you are doing; mostly Paralyze-based mobbing strats and non-SSS KM | Very low priority | 190 Phantom Blue Crystalyte + 400 Ranger Creds + 125 SS Imaginon + 700 Ether Fuel
-**Fuxi T** | When you know exactly what you're doing (e.g. HT SN strat) | Very low priority| 190 Phantom Blue Crystalyte + 400 Ranger Creds + 125 SS Imaginon + 700 Ether Fuel
+**Fuxi T** | When you know exactly what you're doing (e.g. HT SN strat) | Very low priority | 190 Phantom Blue Crystalyte + 400 Ranger Creds + 125 SS Imaginon + 700 Ether Fuel
 
 Pledge of Sakura is a high priority. Lier B is low priority, and the rest should not be bothered with. They are remnants of a distant past, when honkai was in its infancy.
 
@@ -202,42 +202,45 @@ Pledge of Sakura is a high priority. Lier B is low priority, and the rest should
 
 Roughly in farming order; may vary depending on your account.
 
-- | Why You Should Farm It | When to forge
+Stigmata | Why You Should Farm It | When to forge
 -- | -- | --
 **Jin Shengtan TM** | Extremely useful support for any elemental team | When you can't afford getting the different gear for the elemental SP support valks
-**Thales M** | Works as a very good free to play fire dps set in conjunction with Leeuwenhoek TB | When you have a fire dps and not their gear
-**Thales TB** | For transmuting into Leeuwenhoek TB | When you have a fire dps and not their gear. By then direct crafting into Leeuwenhoek TB should be there, hopefully (a man can dream)
+**Thales M** | Works as a very good free to play fire dps set in conjunction with Leeuwenhoek TB | When you have a fire dps and not their gear or need a filler M piece for a fire valkyrie
+**Thales TB** | For transmuting into Leeuwenhoek TB | When you have a fire dps and not their gear
 **Monet T** | Can be used as a cheap lightning dps build with Ishikawa Goemon MB | When you need to
-**Beethoven MB** | Cheap set for physical and dps valks. Used in some builds with HoS and SnS (Carole) | When you need to
-**Tesla Band M** | Used as lightning support | When you need to
+**Beethoven MB** | Cheap set for physical and dps valks. Used in some builds with HoS and SnS (Carole), especially for trying to proc ult faster | When you need to
+**Tesla Band M** | Used as lightning support | When you need to. Good as a filler M piece for lightning support valkyries like Golden DIva
 **Tesla Band T** | Used as physical support | When you need to
-**Fenghuang Pinions** | Everybody should make eventually | When you get Fenghuang Down, as syncing it in the divine keys menu provides plus 10 attack to all Valkyries
-**Abyss** | Everybody should make eventually | When you get Abyss Flower, as syncing it in the divine keys menu provides plus 10 attack to all Valkyries
+**Fenghuang Pinions** | Everybody should make it eventually | When you get Fenghuang Down, as syncing it in the divine keys menu provides plus 10 attack to all Valkyries
+**Abyss** | Everybody should make it eventually | When you get Abyss Flower, as syncing it in the divine keys menu provides plus 10 attack to all Valkyries
 **Robert Peary TMB** | You shouldn't, you can get it for free from the starter event's training shop | You can get it for free from the starter event's training shop
 
 ##### G3
 
 Roughly in priority; will vary depending on your account. Many G3 stigmatas listed here are farmed to transmute into their G4 counterpart. So if you have a lightning Valkyrie, you'll probably be farming Ishikawa Goemon to transmute to Handel
 
-- | Why You Should Farm It | When to forge
+Stigmata | Why You Should Farm It | When to forge
 -- | -- | --
 **Ishikawa Goemon TMB** | MB for budget lightning build with Monet T, but more useful as transmute material for Handel | When you have a lightning valk
-**Dirac MB** | Very good physical dps set | When you have a physical dps valk and when Marco Polo TM Atilla/Pride/Lier B doesn't cut it
+**Dirac MB** | Very good physical dps set | When you have a physical dps valk and when Marco Polo TM Atilla/Pride/Lier B doesn't cut it. Used in conjunction with Dracula T for Susannah
 **Dirac TB** | Used to transmute to Elysia stigmata | When you have a physical dps valk and Marco Polo TM Atilla/Pride/Lier B doesn't cut it
-**Leeuwenhoek TB** | Extremely good f2p fire dps set, in conjunction with Thales M | When you have a fire dps valk and not their gea
+**Leeuwenhoek TB** | Extremely good f2p fire dps set, in conjunction with Thales M | When you have a fire dps valk and not their gear
 **Ana Schariac TMB** | Used with HoR and AKA, and for transmutation into Willows | When you need to for your ice dps valk
-**Fu Hua: Margrave (Marg) TMB** | An ok support stigmata set used on Azure Empyrea or Phoenix. Jin Shengtan is cheaper, and Life of Bronya is a much better gacha-based option | If you need it, and JST TM or FHM MB isn't cutting it
-**Irene Adler** | When you know exactly what you're doing and you have a ranked-up Fallen Rosemary | Low priority
+**Shuijing** | Can be used on some physical Valkyries such as SA and Susannah. Shui MB can be paired with Dracula T for Susannah  | Low priority
+**Fu Hua: Margrave (Marg) TMB** | An ok support stigmata set used on valkyries that have an ult cost of 125 sp. Jin Shengtan is cheaper, and Life of Bronya is a much better gacha-based option | If you need it, and JST TM or FHM MB isn't cutting it
+**Irene Adler** | Used on elemental Valkyries that can perform charged attacks such as Fallen Rosemary | Low priority
+**Gustav Klimt** | Has some rare usage in MA | Low priority
 **Kafka TM** | When you know exactly what you're doing. Can be used on PE as a cheap option | At least level 81+, maybe even later
-**Allan Poe TMB** | For Stygian Nymph | Endgame, or if you're a Seele simp (in which case be wary of her onee-chan)
+**Wilde T** | For Stygian Nymph, and when you know exactly what you're doing | Only recommended if you love Stygian Nymph and know how to use her
+**Caravaggio M** | When you know exactly what you're doing | Used in some meme runs
+**Allan Poe TMB** | For Stygian Nymph | Only recommended if you love Stygian Nymph and don't care if she does no damage
 **Dickens** | When you know exactly what you're doing. Overshadowed by Elysia TB | Very low priority
-**Shuijing** | When you know exactly what you're doing | Very low priority
 
 ##### G4
 
 Roughly in priority; will vary depending on your account
 
-- | Why You Should Farm It | When to forge
+Stigmata | Why You Should Farm It | When to forge
 -- | -- | --
 **Handel TMB** | Extremely good set for lightning valks | As soon as you get a lightning dps valk
 **Willows TMB** | Extremely good set for HoR and AKA | When you get HoR or AKA
@@ -252,9 +255,9 @@ Here is a general farming order. Note that a beginner will easily have enough fu
 2. Theresa: Gluttony T
 3. Pledge of Sakura
 4. Marco Polo TM/FHM MB
-5. Ishikawa Goemon
-6. Handel
-7. JST TM
+5. JST TM
+6. Ishikawa Goemon
+7. Handel
 8. Thales TB
 9. Leeuwenhoek TB/Thales M
 10. Ana Schariac/Dirac
@@ -386,13 +389,20 @@ Find Imy (ww#1234), on the Solstice armada [Discord server](https://discord.gg/U
 
 Find Memes on the official Honkai Impact 3 armada [Discord server](https://discord.gg/hi3). Though he'll be dead from exhaustion on updating this guide.
 
+###To-Do List:
+1. Fix spelling issues and word things better
+2. Fix preview when pasting this link in places such as Discord
+
 ###Update History
 
 v1.0: Imy, initial listing
 v2.0: Memes, slight overhaul, added G4, updated time swirl pass calculations
 v3.0: Memes, major overhaul, removed a lot of the old system calculations (including stuff on bounty marks and united tokens)
+v4.0: Memes, added detailed cost calculation for crafting stigmata, removed some memes, fixed some spelling errors, added some extra stigmata that found new usage, added to-do list, and added more reference images
 
-Last updated: 12/14/2022
+Last updated: 06/12/2023
+
+
 
 
 ![wuewuewue](https://media.tenor.com/gKsuuWGNr4AAAAAC/red-birb.gif)

@@ -122,8 +122,11 @@ https://civitai.com/models/70298/masters-of-the-universe-sorceress-of-grayskull
 https://civitai.com/models/84579/cheetara-lycoris
 	- Steelheart
 https://civitai.com/models/83512/steelheart-silverhawks-lycoris
-- Sheila (Dungeons and Dragons)
+- Dungeons and Dragons
+	+ Sheila 
 https://civitai.com/models/85112/sheila-dungeons-and-dragons-lycoris
+	+ Diana
+https://civitai.com/models/88837/diana-dungeons-and-dragons-cartoon
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
 https://civitai.com/models/44410/jessica-rabbit
@@ -214,6 +217,8 @@ https://civitai.com/models/48875/jasmine-aladdin-disney-princess-by-yeiyeiart
 https://civitai.com/models/5709?modelVersionId=6648 (TI)
 - Jane Porter (Tarzan)
 https://civitai.com/models/56273/jane-porter-lora
+- Madam Mim (The Sword in the Stone)
+https://civitai.com/models/89034/sexy-madam-mim
 - Chel (The Road to El Dorado)
 https://civitai.com/models/45917/chel-dorado
 https://civitai.com/models/18842/chel
@@ -620,8 +625,11 @@ https://civitai.com/models/77283/crash-bandicoot
 https://civitai.com/models/31377?modelVersionId=37814
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
-- Sheeva (Mortal Kombat)
+- Mortal Kombat
+	+ Sheeva 
 https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms
+	+ Skarlet
+https://civitai.com/models/88846/skarlet-mortal-kombat-mk9mk11
 - Sally Boyle (We Happy Few)
 https://civitai.com/models/84912/sally-boyle-we-happy-few
 

@@ -6,8 +6,8 @@ The essentials:
 3. Camera tracking
 
 More advanced techniques and knowledge:
-4. Countering meta builds
-5. PSM essentials
+4. PSM essentials
+5. Countering meta builds
 6. Gunnery
 7. Special Weapons and how to use them
 8. Stealth
@@ -84,7 +84,36 @@ There are many advantages to using it, namely
 >since the lock-on cone of every missile is larger than the screen, you'll be able to lock your missiles earlier than normal and at safer angles
 Do keep in mind that your general situational awareness is slightly reduced when you're using it, which is the price you pay for much better awareness on that single enemy; don't crash while trying to follow someone!
 
-4. Countering meta builds
+4. PSM essentials
+
+Post-stall manoeuvres (PSMs) allow your plane to ignore the concept of angle of attack, plus reposition as you'd like, allowing you to outturn otherwise more manoeuvrable opponents. They are powerful in a one-on-one engagement, but you are vulnerable while you're in the middle of the manoeuvre, so you'll need to always stay alert to avoid getting fucked up. PSM-capable planes are divided in two categories (which can be viewed in the datasheet ***(https://pastebin.com/6Uh45geR)*** : half-PSM (which can only pull off Cobra manoeuvres at most without chaining) and full-PSM (which allow you to PSM for longer). A good rule of thumb is that if the plane is PSM-capable but not fitted with thrust-vectoring nozzles, it's a half-PSM plane (Su-34, non-Top Gun F/A-18, ADFX-01).
+Before starting, set your controls to expert (as you always should) and your High-G Turn Settings to Type B. This will make them easier to initiate and pull off.
+With that done, this is how you initiate a PSM:
+>stay around 400 to 500 kph
+>hold the acceleration button (throttle up)
+>press brake + pitch up
+And congrats, you're in a PSM. When you want to stop the PSM ("cancel" it),
+>pitch down
+And you will return to normal flight, cancelling the PSM in whatever state it is.
+For reference, PSMing will be divided in phases depending on the plane's current behaviour. The phases are called ***Drift*** and ***Boost***. Drift is the initial part, when you're moving in a straight line (the same direction you were going towards before starting the PSM) but can turn the plane's nose to your liking except downwards (allowing you, for instance, to plan your next move or line up for guns), and lasts until you've turned more than 90 degrees. Boost follows immediately after, and is the phase where the plane will start to move towards the direction your nose is currently pointing at. When boosting, you'll be accelerating very fast while maintaining the enhanced mobility (thus "boosting"). Drifting is mostly a setup step (for either a shot or a following move), while Boosting is what allows you to really outturn someone. 
+You'll notice that while the plane's nose can turn extremely quickly, the aircraft itself is going straight until you've rotated more than 90 degrees, after which you'll start to move towards the direction you're pointing at. This is the main limitation of PSMs: while you can outturn anything else in a duel, you will be vulnerable to players outside said duel, who can shoot at you with impunity. This also means that if you PSM while the enemy is directly behind you, the only thing you'll get is a missile up your arse.
+>do not PSM if the enemy has a good angle on you, you'll be a sitting duck
+>never PSM if you've got someone close behind you
+>be careful if someone is packing HVAAs or multi-lock weapons
+A way to make PSMs even more powerful is ***Chaining***, which is basically making a combo out of PSMs. It works like this:
+>initiate a PSM normally
+>cancel once (this can be done at any point) or wait for the PSM to end naturally
+>quickly PSM again
+You can repeat this process as often as you want, as long as you're still below 500 kph to initiate the PSM again. ***REMEMBER***: your throttle still works while you're in the PSM, so you can manage your speed to your liking while in the manoeuvre!
+PSM chaining allows you to do things such as fly backwards (BKF), plus benefit from the effects of PSMing for longer. As such, by chaining, you can keep the advantages of a PSM for as long as you want. There is literally no disadvantage, beyond the usual ones that come from simply fighting at slow speeds - and even then, due to PSMing being weird, enemy missiles may become retarded and miss you anyway (still, don't count on it). 
+BKF is useful because it allows you to keep your nose pointed at the opponent while actually moving away from him, so you might get a shot off (gun or missile) while in a position of relative safety.
+To BKF:
+>PSM normally
+>turn until you're going backwards
+>cancel, then immediately initiate another PSM (after all, you're chaining)
+>keep chaining as long as you like
+
+5. Countering meta builds
 
 The unholy trinity of QAAM/EML/SASM are a pain in the ass, but even they can be beaten with some subterfuge and specific builds. They will still have the advantage, and a meta user will still give you a hard time if he's got half a thought going through his head, but goddamn if beating them doesn't feel good. The first two in particular will be your biggest problem.
 >EML
@@ -131,43 +160,22 @@ As always, awareness is the key to victory, and SASM users specifically target u
 >if he's approaching fast and you cannot assure you'll hit him, fire when he's as close as possible and at the edge of the lock-on cone: your missiles will pursue more persistently and he'll be forced to evade (and thus lose speed) or die
 Your missiles will pursue more persistently and thus force him to jink. This will cost him time, attention, and precious speed; exploit this opening to close the gap and go to town with him.
 >you can attempt head-on attacks and consistently win them, but expect to take at least some damage if you do
-SASMs track about as well as normal missiles, but their users tend to fire without any regard towards angles and probability of hitting, relying instead on the AoE to progressively damage you. This is doubly valid in head-on attacks, as you will pass closer to the enemy missiles and thus it's even more likely to trigger its proximity explosion. However, this can also work in your favour: given that they do not actively try to get in an advantageous angle, you can reach a favourable position in a head-on attack (as described earlier in the guide) and reliably kill them in a single pass.
-If you are close enough to get a lock but he keeps circling in an attempt to evade your missiles, making no attempt to shoot back at you, you have three options:
+SASMs track about as well as normal missiles, but their users tend to fire without any regard towards angles and probability of hitting, relying instead on the AoE to progressively damage you. This is doubly valid in head-on attacks, as you will pass closer to the enemy missiles and thus it's even more likely to trigger its proximity explosion. However, this can also work in your favour: given that most do not actively try to get in an advantageous angle, you can reach a favourable position in a head-on attack (as described earlier in the guide) and reliably kill them in a single pass.
+If you are close enough to get a lock but he keeps circling to evade your missiles, with no attempt to shoot back at you, you have three options:
 >gun him down
 Someone stuck in a turn presents a large, nice target to practice your deflection gunnery.
 >try to close as much as possible and fire your missiles from a lag pursuit position (near the edge of your screen)
 The same trick described multiple times in this guide works even in a close fight. Your missiles will track more persistently and give you a higher chance to hit. The closer you are to the target, the less you'll need to put him near the edge of the screen.
 >try to get a different angle and try again
 If you simply cannot hit the target, then use your current advantage to reposition yourself for an easier shot.
-
-5. PSM essentials
-
-Post-stall manoeuvres (PSMs) allow your plane to ignore the concept of angle of attack, plus reposition as you'd like, allowing you to outturn otherwise more manoeuvrable opponents. They are powerful in a one-on-one engagement, but you are vulnerable while you're in the middle of the manoeuvre, so you'll need to always stay alert to avoid getting fucked up. PSM-capable planes are divided in two categories (which can be viewed in the datasheet ***(https://pastebin.com/6Uh45geR)*** : half-PSM (which can only pull off Cobra manoeuvres at most without chaining) and full-PSM (which allow you to PSM for longer). A good rule of thumb is that if the plane is PSM-capable but not fitted with thrust-vectoring nozzles, it's a half-PSM plane (Su-34, non-Top Gun F/A-18, ADFX-01).
-Before starting, set your controls to expert (as you always should) and your High-G Turn Settings to Type B. This will make them easier to initiate and pull off.
-With that done, this is how you initiate a PSM:
->stay around 400 to 500 kph
->hold the acceleration button (throttle up)
->press brake + pitch up
-And congrats, you're in a PSM. When you want to stop the PSM ("cancel" it),
->pitch down
-And you will return to normal flight, cancelling the PSM in whatever state it is.
-For reference, PSMing will be divided in phases depending on the plane's current behaviour. The phases are called ***Drift*** and ***Boost***. Drift is the initial part, when you're moving in a straight line (the same direction you were going towards before starting the PSM) but can turn the plane's nose to your liking except downwards (allowing you, for instance, to plan your next move or line up for guns), and lasts until you've turned more than 90 degrees. Boost follows immediately after, and is the phase where the plane will start to move towards the direction your nose is currently pointing at. When boosting, you'll be accelerating very fast while maintaining the enhanced mobility (thus "boosting"). Drifting is mostly a setup step (for either a shot or a following move), while Boosting is what allows you to really outturn someone. 
-You'll notice that while the plane's nose can turn extremely quickly, the aircraft itself is going straight until you've rotated more than 90 degrees, after which you'll start to move towards the direction you're pointing at. This is the main limitation of PSMs: while you can outturn anything else in a duel, you will be vulnerable to players outside said duel, who can shoot at you with impunity. This also means that if you PSM while the enemy is directly behind you, the only thing you'll get is a missile up your arse.
->do not PSM if the enemy has a good angle on you, you'll be a sitting duck
->never PSM if you've got someone close behind you
->be careful if someone is packing HVAAs or multi-lock weapons
-A way to make PSMs even more powerful is ***Chaining***, which is basically making a combo out of PSMs. It works like this:
->initiate a PSM normally
->cancel once (this can be done at any point) or wait for the PSM to end naturally
->quickly PSM again
-You can repeat this process as often as you want, as long as you're still below 500 kph to initiate the PSM again. ***REMEMBER***: your throttle still works while you're in the PSM, so you can manage your speed to your liking while in the manoeuvre!
-PSM chaining allows you to do things such as fly backwards (BKF), plus benefit from the effects of PSMing for longer. As such, by chaining, you can keep the advantages of a PSM for as long as you want. There is literally no disadvantage, beyond the usual ones that come from simply fighting at slow speeds - and even then, due to PSMing being weird, enemy missiles may become retarded and miss you anyway (still, don't count on it). 
-BKF is useful because it allows you to keep your nose pointed at the opponent while actually moving away from him, so you might get a shot off (gun or missile) while in a position of relative safety.
-To BKF:
->PSM normally
->turn until you're going backwards
->cancel, then immediately initiate another PSM (after all, you're chaining)
->keep chaining as long as you like
+>Darkstar
+The Darkstar is the go-to choice of those who don't want to engage in a dogfight. It can simply outrun most missiles you throw at it, and it gets PLSL (both as guns and a separate Sp.W, so basically outgunning anything short of EML if he's packing these four PLSLs) and SASM (meaning that they can just fly like cowards and still rack points). We'll only count the case of a Darkstar that knows he should always keep his speed up: a Darkstar attempting to dogfight is usually a self-solving problem.
+>bring TLS or PLSL
+You can't outrun light (or Star Wars blasters), so as long as there aren't any clouds in the way, they're the surest remedy to the problem. TLS in particular is the best since it's actually hitscan, while PLSL still needs to lead the target a considerable amount. Look at which Sp.W he picked when the match starts, and if he's picked PLSL, be really fucking careful if he's coming towards you: you are NOT going to outgun four PLSLs on the merge, though you might get a mutual kill. It's best to shoot him as he's running away, right after predicting and avoiding his attack (and thus when he's still close enough) or when he's pointing at someone else in the furball and approaching.
+>bring HVAAs or LAAMs
+He can't outrun these either, though he can flare them. They are best used on the merge and when he's speeding away, and might not expect it the first time. Put New High-Energy Propellant on them to absolutely ensure they'll catch up.
+>don't point directly at him, but lead the target so that you'll be as close as possible when you fire your weapons
+All the weapons here will benefit from being used at shorter ranges, so you should optimise your flight path to intercept the Darkstar and fire at the shortest possible distance.
 
 6. Gunnery
 
@@ -260,6 +268,7 @@ So even if the scoreboard in TDM is:
 Then Alpha 3 will still have 2 stars, and Alpha 4 will have 1, despite all of Bravo outscoring them. However, low scoring players can still contribute by tying up enemies, evading their attacks and not giving out points, while their teammates hit those enemies while they're distracted.
 
 10. /aceg/-approved builds
+
 The buddies have come up with many builds and tactics to use them effectively, focusing on making them enjoyable to use without sacrificing strength in a fight. Included here are the main weapons used by the build, the buddies' remarks on how to employ these planes, and the reasoning behind their choice of parts. The builds listed here are sorted by increasing CST.
 **Remember: many of these builds can be applied to a good variety of aircraft!**
 
@@ -275,8 +284,7 @@ https://imgur.com/a/6sZdWR9
 
 >2400 Rafale M HCAA
 https://arch-img.b4k.co/vg/1675558829806.png
->Never stalls, always ready to fire. ECU Software Update is the important part. Lower Stall speed means you can maintain high-G with a tight radius turns longer than opponents. Vulnerable at high speed since ECU also reduces deceleration in high-G turns. Ideal for aggressive close-range fights at low speeds, exactly what the Rafale excels at. Especially useful in a 1v1 or prolonged
- turn-rate fights and against PSM users, all low-speed situations.
+>Never stalls, always ready to fire. ECU Software Update is the important part. Lower Stall speed means you can maintain high-G with a tight radius turns longer than opponents. Vulnerable at high speed since ECU also reduces deceleration in high-G turns. Ideal for aggressive close-range fights at low speeds, exactly what the Rafale excels at. Especially useful in a 1v1 or prolonged turn-rate fights and against PSM users, all low-speed situations.
 
 >2420 Typhoon HCAA (can also be applied to Rafales and F-15Js)
 https://arch-img.b4k.co/vg/1663685464459.jpg

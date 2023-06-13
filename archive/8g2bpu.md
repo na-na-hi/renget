@@ -1,5 +1,7 @@
 **Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
 
+A humon trying to teach a nativemon how to shitpost on 4chan
+
 Kris screaming (if you want to draw more, maybe after waking up from a dream)
 
 Lliam brushing his own fur or a guildmon helping him out by brushing his fur

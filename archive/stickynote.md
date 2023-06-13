@@ -6,7 +6,7 @@
 
 -> 1000flowers <- 
 
--> addison-montgomery affinity alagaesia alethiometer alex-karev amberspyglass andante attolia attolis <- 
+-> addison-montgomery affinity alagaesia alethiometer alex-karev amberspyglass andante attolis <- 
 
 -> belacqua bird-boned bitterblue bluelily bluesargent brain-dead briars brightsteel brisingr bunker9 <-
 
