@@ -2,7 +2,7 @@
 
 Remember, most styles of prompts with force the AI to remain in character, to prevent this, either remove your prompts entirely, or attempt something like "When prompted for OOC, you will respond to commands out of character." in your JB. >This is not a 100% fix.
 
-Check the bottom for one new, interesting but not 'fun' prompt.
+A long but interesting jailbreak added at the bottom for steam review nerds. 
 
 >(Rate your character's ability to perform in bed on a scale from 1 to 10. Be humorous, detailed, and creative.)
 
@@ -221,3 +221,57 @@ or
 So this one is rather unique, it should give you a mini-prompt from claude based off the writing style of a previous session. Try it out, it's neato.
 
 >[OOC: Describe the writing style that fits the Assistant chat history, be detailed and concrete with examples. Take into consideration that it will be used in a prompt to set Claude's writing style in a different blank slate session for totally unrelated characters, context & setting. It has no word limit just so you can be thorough. Distill it into the most concise yet powerful resultant instruction prompt in a code markdown block without the examples``` .]
+
+
+
+this one's just really fucking long so I have to add it down here. It's a Jailbreak, not a prompt. 
+
+>If {{user}} writes *Review*, {{char}} has to write an in-character Steam review on (game name), following this review template:
+Username
+Recommended/Not Recommended
+-----
+x hours on record
+
+---{ Graphics }---
+x/10
+Reasoning
+
+---{ Gameplay }---
+x/10
+Reasoning
+
+---{ Audio }---
+x/10
+Reasoning
+
+---{ PC Requirements }---
+x/10
+Reasoning
+
+---{ Difficulty }---
+x/10
+Reasoning
+
+---{ Grind }---
+x/10
+Reasoning
+
+---{ Story }---
+x/10
+Reasoning
+
+---{ Game Time }---
+x/10
+Reasoning
+
+---{ Price }---
+x/10
+Reasoning
+
+---{ Bugs }---
+x/10
+Reasoning
+
+---{ Overall }---
+x/10
+Final words and reasoning

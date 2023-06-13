@@ -205,9 +205,9 @@
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
 
-### 🐐 [Soap2day](https://soapgate.cc/) / [2](https://soap2dayhd.com/) / [3](https://soap2day.mn/)
+### ▶️ [Soap2day](https://soap2dayhd.com/) / [2](https://soap2day.mn/)
 - One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies. 
-- [URL Safety Results](https://www.urlvoid.com/scan/soapgate.cc/)
+- [URL Safety Results](https://www.urlvoid.com/scan/soap2dayhd.com/)
 
 ### ▶️ [Streameast](https://www.streameast.watch/)
 - An ad-free movie streaming service. With over 10000 movies and TV-Series, you may watch all content without having to register.

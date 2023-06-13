@@ -1,9 +1,9 @@
-# Optimized Character Creation
+# Ali:Chat Lite
 
 !!! info
     Need help? Ping `@kingbri` on a Discord server! My DMs are locked.
 
-Character creation can be difficult for first-time creators, especially since there are many formats to choose from. This guide aims to show a character format that helps optimize token counts for providing bots that both efficient and have a lot of context. This guide is going to be pretty short, since it doesn't require too much to learn.
+Character creation can be difficult for first-time creators, especially since there are many formats to choose from. Today, I want to explain a token-optimized character format (aptly named Ali:Chat lite since it works with Ali:Chat and PLists) that helps optimize token counts for providing bots that both efficient and have a lot of context. This guide is going to be pretty short, since it doesn't require too much to learn.
 
 Before I get started, I want to thank Alicat, AVAKSon, and Trappu for putting up with my questions as I learned these processes. These people are some of the nicest I've met during my journey to character creation!
 

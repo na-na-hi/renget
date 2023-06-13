@@ -124,7 +124,7 @@ https://civitai.com/models/84579/cheetara-lycoris
 https://civitai.com/models/83512/steelheart-silverhawks-lycoris
 - Dungeons and Dragons
 	+ Sheila 
-https://civitai.com/models/85112/sheila-dungeons-and-dragons-lycoris
+https://civitai.com/user/Montitto/models
 	+ Diana
 https://civitai.com/models/88837/diana-dungeons-and-dragons-cartoon
 - Jessica Rabbit (Who Framed Roger Rabbit?)

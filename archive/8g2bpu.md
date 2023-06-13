@@ -1,4 +1,18 @@
-**Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**
+==**Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**==
+
+[TOC]
+
+#Pending Requests
+
+Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
+
+Tired Lliam doing paperwork
+
+Ross being immune to sleep hypnosis 
+
+Someone brings Carrot and Bean to Beast after misunderstanding an ingredient request 
+
+"Which table you sittin' at?" Meme with the guild cafeteria
 
 A humon trying to teach a nativemon how to shitpost on 4chan
 
@@ -15,8 +29,6 @@ Kaiji as this https://files.catbox.moe/u4wzp8.jpg
 Any two guildmon where one holds another like in the pic https://files.catbox.moe/68xgkz.jpg
 
 Chespin performing an Electric Wind God Fist from Tekken
-
-Togetic and Cyndaquil dressed as Greek philosophers arguing over if traps are gay
 
 Native Pokemon unknowingly following their instincts.
 
@@ -156,7 +168,11 @@ Togetic catching Wooper getting drunk and covering for him
 
 Carrot and Hazel arriving to the guild
 
-**Finished Requests (Some links pending gallery uploads)**
+#**Finished Requests (Some links pending gallery uploads)**
+
+Someone tells Porygon "This statement is false"
+
+[Togetic and Cyndaquil dressed as Greek philosophers arguing over if traps are gay](http://cloverguild.org/post/428)
 
 Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp
 

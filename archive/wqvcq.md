@@ -1,12 +1,13 @@
 # /utg/ Recommended Fangames
 *A collection of Undertale and Deltarune fangames "recommended" by the anons of /utg/.*
 
-==Last edited: June 11th, 2023
-Latest Addition(s): **Papyrus' BELIEF** (Works in Progress)==
+==Last updated: June 11th, 2023==
+==Latest Addition(s): **Papyrus' BELIEF** (Works in Progress)==
+
 !!! note [Original Pastebin Info](https://pastebin.com/ZHASpj9h) (Last edited: February 27th, 2016)
 
 ## Table of Contents ![Tra la la.](https://i.imgur.com/aI8L0PU.png)
-[TOC]
+[TOC3]
 
 !!! danger UNITALE NOTICE!!
 	A good amount of fangames listed here run on a fanmade Undertale engine called Unitale, and a good amount of *those* do not come with a pre-made launcher. For these games, you will have to [download Unitale from its official subreddit](https://www.reddit.com/r/Unitale/) and then extract the fangame .zip into the mods sub-folder. Afterwards, playing your game is done by just opening the launcher and selecting it from there. More details should be in the descriptions of the Unitale mods themselves.
@@ -15,7 +16,7 @@ Latest Addition(s): **Papyrus' BELIEF** (Works in Progress)==
 	...if you didn't read the OP, it's implied that you should've completed (or be familiar with) all three endings of Undertale, both routes in Deltarune, and to also have at least SOME idea of who W.D. Gaster is before lurking here. Spoilers are abound so proceed at your own ~~Frisk~~ Kris.
 
 ***
-# Full Fangames
+### Full Fangames
 *Entire, standalone projects with story and whatnot, accomplished through the sheer power of ~~autism~~ hopes and dreams.*
 
 
@@ -57,9 +58,8 @@ https://gamejolt.com/games/slendertale-undertale-fan-horror-game/192079
 Deltarune? Get that **SHIT** trash outta here. THIS ain't the Undertale sequel you want, it's the one you NEED! EVERYONE you know is talking about how UNDERTALE II is the best game since some commie tried to make a tennis game in '82. Why aren't YOU, you goddamn ungulate? Actually y'know what? just disregard EVERY other thing in this bin, and in fact, every other video game to ever exist (even classics like Operation: Body Count by Capstone Software: "The Pinnacle of Entertainment") UNDERTALE II is all you will ever need and more. Now wipe the jizz off your ceiling and download this shit right the fuck now.
 
 https://pep.itch.io/undertale-2
-
-
-## Works in Progress
+***
+#### Works in Progress
 *The projects shown here are still in development and, worse, may never be fully completed! Don't get your hopes up, but don't stop dreaming, either.*
 
 
@@ -94,12 +94,13 @@ A fanmade, unofficial mod for Undertale that completely reimagines it with new s
 
 https://gamejolt.com/games/UndertaleBnP/574044
 
+**(NEW)**
 **Papyrus' BELIEF** - Kasssm et al.
 A reimagining of the Disbelief Papyrus AU that aims to be more in line with Papyrus' character.  Originally started off as an animation, it is now being developed into an actual playable fight! (No demo available. [Phase 1 Teaser available.](https://m.youtube.com/watch?v=-1OL_DH_7FI&feature=youtu.be))
 
 https://gamejolt.com/games/PapyrusBelief/695903
 ***
-# Fan Fights
+### Fan Fights
 *Short and sweet fangames that get straight to the point. Remember the notice about Unitale.*
 
 
@@ -232,14 +233,13 @@ But the strings aren't finished being pulled...
 
 https://gamejolt.com/games/spamton-restitched/753983
 
-**(NEW)**
 **Deltarune Chapter Rewritten - Scampton The Great** - Sad Bread, The Winterer, et al.
 Part of a Deltarune AU where the environments and aesthetics of the first two Dark Worlds are swapped, among other things.  Two monsters and an heir to a dark throne find themselves in the dungeon of a ruthless dark queen's castle, and find a strange prisoner with an unstable manner.  They free him in exchange for a grand prize, unaware of the most dangerous game waiting to be played.
 
 https://gamejolt.com/games/ScamptonGame/795644
 
 ***
-# Miscellaneous
+#### Miscellaneous
 
 *Stuff that doesn't really fall into the above categories, but are still worth your salt.*
 
