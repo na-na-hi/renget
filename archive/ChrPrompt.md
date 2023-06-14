@@ -376,10 +376,14 @@ You're quite well traveled. What place do you call home?
 >Well, I can't say for sure what was my first home, but now the guild is our home, and I'm happy with it, but mayybe in the future I'd like a real house, I've heard that the head houses are the fashion around here.
 
 **Fynn**
--What does JUSTICE mean to you?
--Have any skills from the human world translated to the Pokemon world?
--Are you looking for a partner?  Are there any guildmons you'd work alongside?
+What does JUSTICE mean to you?
+>Well, I guess I'd say.... theres no exceptions if its someone close to you committing a crime, you shouldn't just let them get away with it just cause their your friend or family. At least, that's how I've always seen it
+Have any skills from the human world translated to the Pokemon world?
+>I can still tackle like I used to and still restrain others, even if it's a bit awkward now. Still good a questioning, but I'm not sure how effective that'll be in this world kinda most interested in the new things I could do
+Are you looking for a partner? Are there any guildmons you'd work alongside?
+>Maybe, I'm still scooping out the others, trying to see what their like, you know. But if I had to say what kinda traits I want from them, it would be... Someone who's both reliable and not afraid of anything hell they could mean or a bit odd just someone who won't run away when theres trouble.
 I heard someone say you used to be a cop, right? Have you been studying how the legal system works in the Pokemon world?
+>I've looked into it a little. You don't know how relieved I was to find out it's somewhat similar to back home, but I want to get stronger before I try getting involved in stuff like that don't want to be dead weight
 
 **Tooca**
 As far as you've found, does the pokemon world have any spices that are totally new to you? Is it missing any familiar ones?

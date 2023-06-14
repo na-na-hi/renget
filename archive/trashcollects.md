@@ -738,6 +738,9 @@ https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
 
 # Feral on Female
 	https://mega.nz/folder/hbgTWYTa#4rngMt0MEhMAw6D02t-coQ
+
+# Valstrix's Gathering Hub (Monster Hunter and more)
+	https://drive.google.com/drive/folders/1N3QB9oAGJIv4dLNzEIvNQj7LkKrS6_y4
 	
 ## Assorted Random Stuff
 

@@ -73,10 +73,6 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
-### ⁉️ [rinzry](https://rinzry.stream/) • Site Maintenance
-- Great option for streaming or downloading high-quality movies and series, but has a Google API quota limit for each file every 24 hours.
-- [URL Safety Results](https://www.urlvoid.com/scan/rinzry.stream/)
-
 ### 🔗 [TvSeriesnMovies](https://www.tvseriesnmovies.com/)
 - List of TV series and movies with direct links and several mirror sites that allow you to download entire seasons.
 - [URL Safety Results](https://www.urlvoid.com/scan/tvseriesnmovies.com/)
@@ -205,9 +201,9 @@
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
 
-### ▶️ [Soap2day](https://soap2dayhd.com/) / [2](https://soap2day.mn/)
-- One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies. 
-- [URL Safety Results](https://www.urlvoid.com/scan/soap2dayhd.com/)
+### ▶️ [Soap2day](https://soap2day.rs/) / [2](https://soap2dayhd.com/) / [3](https://soap2day.mn/)
+- One of the finest streaming sites discovered by users, this remarkable service offers a tonne of free movies. 
+- [URL Safety Results](https://www.urlvoid.com/scan/soap2day.rs/)
 
 ### ▶️ [Streameast](https://www.streameast.watch/)
 - An ad-free movie streaming service. With over 10000 movies and TV-Series, you may watch all content without having to register.

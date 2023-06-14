@@ -53,6 +53,7 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
+*Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
 
 ##Non-vidya pastas
 Title|Link
@@ -73,6 +74,7 @@ Title|Link
 *The Ex-Zombie*|[(link)](https://rentry.org/exzombie)
 *Like Water*|[(link)](https://rentry.org/flowlikewater)
 *The Book Bag*|[(link)](https://rentry.org/thebookbag)
+*Forestland Clean-Up*|[(link)](https://rentry.org/forestlandcleanup)
 
 ##Rewritten by /exeg/
 Title|Link

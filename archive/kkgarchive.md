@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 14.06.2023 01:30 UTC]
+[Last Updated: 14.06.2023 07:30 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7426865/](https://boards.4chan.org/h/thread/7426865/)
 
@@ -9,7 +9,7 @@ Last five:
 - 595&nbsp;&nbsp;[archiveofsins.com/h/thread/7426865/](https://archiveofsins.com/h/thread/7426865/)&nbsp;&nbsp;&nbsp;&nbsp;(13.06.2023 16:34)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Whose theme is it anyways edition
 - 594&nbsp;&nbsp;[archiveofsins.com/h/thread/7422164/](https://archiveofsins.com/h/thread/7422164/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:47)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Got your nose Edition
 - 593&nbsp;&nbsp;[archiveofsins.com/h/thread/7422159/](https://archiveofsins.com/h/thread/7422159/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:44)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Got your nose Edition
-- 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Study hard Edition
+- 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[973]&nbsp;#&nbsp;Study hard Edition
 - 591&nbsp;&nbsp;[archiveofsins.com/h/thread/7412815/](https://archiveofsins.com/h/thread/7412815/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2023 10:39)&nbsp;&nbsp;[1167]&nbsp;#&nbsp;Dated Memes Edition
 ---
 Archive:

@@ -10,7 +10,7 @@
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
 !!! note ➜ Bookmark this URL
-    - The [r/Piracy subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates. [Lemmy c/piracy](https://lemmy.dbzer0.com/c/piracy) is our backup ship.
+    - The [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates. [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy) is our backup ship.
     - It is critical to save this URL since it will serve as a steady compass for where our ships are currently stationed.
 
 !!! danger ➜ Uncertainty 

@@ -4,6 +4,10 @@
 
 #Pending Requests
 
+Lliam dressed up something like this https://files.catbox.moe/c0i3e2.png (replace the keys and the thing she's holding with wands)
+
+Anonmon being grateful that the booru is back up 
+
 Anonmon getting pissed that the booru is down
 
 Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
@@ -22,7 +26,9 @@ Kris screaming (if you want to draw more, maybe after waking up from a dream)
 
 Lliam brushing his own fur or a guildmon helping him out by brushing his fur
 
- Pirate KFC for no reason in particular :)))))))
+Kiyo stretching like a fox
+
+Pirate KFC for no reason in particular :)))))))
 
 Debby pecking/grooming at Linoone's cheek
 
