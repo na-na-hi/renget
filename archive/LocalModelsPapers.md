@@ -69,6 +69,7 @@
 08/2021|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
 05/2022|[OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
 11/2022|[Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
+01/2023|[Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243)
 02/2023|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 02/2023|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 03/2023|[Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/abs/2303.14177)
@@ -119,11 +120,13 @@
 12/2022|[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
 02/2023|[Simple Hardware-Efficient Long Convolutions for Sequence Modeling](https://arxiv.org/abs/2302.06646)
 02/2023|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
+06/2023|[TART: A plug-and-play Transformer module for task-agnostic reasoning](https://arxiv.org/abs/2306.07536)
 |
 |**THUDM (Tsinghua University)** ->[Papers](http://keg.cs.tsinghua.edu.cn/jietang/publication_list.html) [Github](https://github.com/THUDM)<-
 10/2022|[GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414)
 03/2023|[CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X](https://arxiv.org/abs/2303.17568)
 04/2023|[DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097)
+06/2023|[WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/abs/2306.07906)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)
@@ -145,6 +148,7 @@
 06/2023|[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)
 06/2023|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
 06/2023|[High-Fidelity Audio Compression with Improved RVQGAN](https://arxiv.org/abs/2306.06546)
+06/2023|[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://arxiv.org/abs/2306.07691)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -266,9 +270,12 @@
 06/2023|[Word sense extension](https://arxiv.org/abs/2306.05609)
 06/2023|[Mitigating Transformer Overconfidence via Lipschitz Regularization](https://arxiv.org/abs/2306.06849)
 06/2023|[Recurrent Attention Networks for Long-text Modeling](https://arxiv.org/abs/2306.06843)
+06/2023|[One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning](https://arxiv.org/abs/2306.07967)
+06/2023|[SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
+06/2022|[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)

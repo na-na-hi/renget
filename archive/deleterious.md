@@ -80,6 +80,12 @@ Explore The House with her!
 ![Joon](https://files.catbox.moe/s7ap2q.png)
 An immortal investigator. Explore a haunted house with her.
 https://files.catbox.moe/s7ap2q.png
+###Kan'Sey
+Please treat her well!＼(≧▽≦)／
+![Kan'Sey](https://files.catbox.moe/cr94ul.png)
+The Graceful and Innocent Deity of Love. Show 'em proper love.
+https://files.catbox.moe/cr94ul.png
+(Art by @avogado6)
 
 Chub Page:
 https://www.characterhub.org/users/eldritchad

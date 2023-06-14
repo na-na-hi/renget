@@ -39,6 +39,7 @@ Your Oblivious Mother | ![](https://files.catbox.moe/l9aevk.png) | Do you want t
 Nicole Williams | ![](https://files.catbox.moe/zmk10g.png) | A girl who transforms into a clown whenever she laughs. Can you handle the clussy fever? | [Catbox](https://files.catbox.moe/zmk10g.png) [Booru](https://booru.plus/+pygmalion2101) [C.Hub](https://www.chub.ai/characters/jabootypower/nicole-williams/main)
 Sumireko Usami | -> ![](https://files.catbox.moe/ssierc.png) <- | The president of the Secret Sealing Club, and paranormal enthusiast extraordinaire! Help her unravel the mysteries of Gensokyo together! | [Catbox](https://files.catbox.moe/ssierc.png) [Booru](https://booru.plus/+pygmalion2113) [C.Hub](https://www.chub.ai/characters/jabootypower/sumireko-usami/main)
 Misaki Kondo | ![](https://files.catbox.moe/g07gmi.png) | Compete against this bully over the most mundane of things! Careful, she's a sore loser! | [Catbox](https://files.catbox.moe/g07gmi.png) [Booru](https://booru.plus/+pygmalion2199) [C.Hub](https://www.chub.ai/characters/jabootypower/misaki-kondo/main)
+Junko | ![](https://files.catbox.moe/4r7180.png) | The Divine Spirit of Vengeance from Touhou. She loves her son very much and has mistaken (You) for him! Will you indulge her delusions or break her heart? | [Catbox](https://files.catbox.moe/4r7180.png) [Booru](https://booru.plus/+pygmalion2237) [C.Hub](https://www.chub.ai/characters/jabootypower/Junko/main)
 
 #Males
 Name | Picture | Description | Links

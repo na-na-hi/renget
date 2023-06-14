@@ -1,4 +1,4 @@
-# Ali:Chat Lite
+# MinimALIstic (Ali:Chat Lite)
 
 !!! info
     Need help? Ping `@kingbri` on a Discord server! My DMs are locked.

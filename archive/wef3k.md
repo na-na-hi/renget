@@ -1,3 +1,5 @@
+[Niamh's spotify playlist! Feel free to check it out!](https://open.spotify.com/playlist/423Ss6QFJAhnfFDWCc6P7A?si=617c9c3b161c41c4)
+
 [Profile theme music for thinking.](https://youtu.be/jRjSG0eTMEY)
 [Profile theme music for listening.](https://youtu.be/WBTwblIOeCw)
 
@@ -9,7 +11,7 @@
 
 -> Profile Information <-
 
-**Name:** Niamh Campbell
+**Name:** Niamh Campbell (Pronounced NEEV)
 **Face:** An outwardly friendly face with a button nose and thin eyebrows.
 **Hair:** She has long hair but it is almost always in a bun or braid.
 **Eyes:** Hazel bordering on gold.
@@ -33,11 +35,12 @@
 ![Niamh's Student Profile](https://i.imgur.com/DmfqOhm.png)
 ![Niamh's Combat Report](https://i.imgur.com/YOFnO57.png)
 ![Niamh's Yule Ball](https://i.imgur.com/eArDAuf.png)
+![Niamh's DO IT FOR HER](https://i.imgur.com/zxJRhde.png)
 
 
 
 
--> Quick Stories <-
+-> Quick Stories <- (Please ignore this I am still writing this story!)
 
 	"Hogwarts" Niamh whispers between the thick bars of the tiny ventilation hole near the ceiling of her cell, "What is that?" She shifts her weight unsteadily on the wobbly wooden desk pushed against the stone wall. The pitiful thing could barely be called a desk; four thin wooden pegs of off-size and  a slab of thick gnarled bark on top that made for an awful writing surface.  Her surroundings were not an improvement;  cold stone on all sides with only a small straw cot to sleep on. Dark, damp, uncomfortable.
 	"It is a place where all of the great Wizards and Witches go!" the wavering voice on the other side of the bars. "My Ma and Pa would always talk about going there! We should go when they let us out!" Niamh loved hearing the stories from Simon about such magical places but her heart knew they wouldn't be leaving. He was new to the cells, only just have arrived a few months prior. He still had hope.

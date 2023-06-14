@@ -6,6 +6,11 @@
 !!!warning Work in Progress
     As of now, only the fine-tuning guide is almost complete. More will be added soon.
 
+The Table of Content on rentry is terrible, so I'll be linking to the different main sections here:
+
+1. [Native Fine-Tuning](https://rentry.org/llm-training#native-fine-tuning)
+2. LoRA
+
 ---
 
 [TOC2]
@@ -83,7 +88,7 @@ A 3x memory requirement reduction is still in the realm of unfeasible for the av
 
 This next sections of this rentry will focus on the fine-tuning and LoRA/QLoRA methods.
 ***
-## Fine-tuning
+## Native Fine-tuning
 
 As explained earlier, fine-tuning can be expensive, depending on the model size you choose. You typically want at least 6B/7B parameters. We'll go through some options for acquiring training compute.
 
@@ -370,6 +375,109 @@ accelerate launch \
 
 This is not the end, though. You will need to pay close attention to the loss curves to diagnose whether your model is, at any point, underfit, overfit or well-fit. And for why did we choose those specific numbers in the flags above. The next sections will discuss these in detail. If everything went smoothly, you'll have the latest checkpoint saved in your specified output directory. You can now upload your newly fine-tuned model to HuggingFace! Congrats.
 ***
+
+## Low-Rank Adaptation (LoRA)
+
+LoRA is a training method designed to expedite the training process of large language models, all while reducing memory consumption. By introducing pairs of rank-decomposition weight matrices, known as update matrices, to the existing weights, LoRA focuses solely on training these new added weights. This approach offers several advantages:
+
+1. Preservation of pretrained Weights: LoRA maintains the frozen state of previously trained weights, minimizing the risk of catastrophic forgetting. This ensures that the model retains its existing knowledge while adapting to new data.
+2. Portability of trained weights: The rank-decomposition matrices used in LoRA have significantly fewer parameters compared to the original model. This characteristic allows the trained LoRA weights to be easily transferred and utilized in other contexts, making them highly portable.
+3. Integration with Attention Layers: LoRA matrices are typically incorporated into the attention layers of the original model. Additionally, the adaptation scale parameter allows control over the extent to which the model adjusts to new training data.
+4. Memory efficiency: LoRA's improved memory efficiency opens up the possibily of running fine-tune tasks on less than 3x the required compute for a native fine-tune.
+
+### Overview
+The general flow of a LoRA fine-tune run is as follows:
+
+- Instantiate a base model.
+- Create a configuration (`LoraConfig`) where you define LoRA-specific parameters.
+- Wrap the base model with `get_peft_model()` to get a trainable `PeftModel`.
+- Train the `PeftModel` as you normally would train the base model.
+
+#### Loraconfig
+Allows you to control how LoRA is applied to the base model through the following parameters:
+- `r`: the rank of the update matrices, expressed in integers. Lower rank results in smaller update matrices with fewer trainable parameters.
+- `lora_target_modules`: The modules (for example, attention blocks) to apply to the LoRA update matrices.
+- `alpha`: LoRA scaling factor.
+- `bias`: Specifies if the `bias` parameters should be trained. Can be `none`, `all`, or `lora_only`. Not applicable to LLaMA models.
+- `modules_to_save`: List of modules apart from LoRA layers to be set as trainable and saved in the final checkpoint. These typically include model's custom head that is randomly initialized for the fine-tuning task.
+- `layers_to_transform`: List of layers to be transformed by LoRA. If not specified, all layers in `target_modules` are transformed.
+- `layers_pattern`: Pattern to match layer names in `target_modules`, if `layers_to_transform` is specified. By default `PeftModel` will look at common layer pattern (`layers, h, blocks,` etc.), use it for exotic and custom models.
+
+
+
+### The Dataset
+The dataset gathering process is very similar to [the process for a full fine-tune](https://rentry.org/llm-training#gathering-a-dataset). Unlike a fine-tune, you could get away with less training samples, of course. You can refer to the [native fine-tuning guide](https://rentry.org/llm-training#fine-tuning_1) for the full details on the various steps.
+
+### LoRA fine-tuning
+The LoRA training procedure is quite similar to the fine-tuning process that we went through in the previous section. The only differences being that you will need to specify a few more hyperparameters exclusive to LoRA.
+
+You can use the [PygmalionAI training code](https://github.com/PygmalionAI/training-code) for LoRA training. Assuming you have your dataset ready and have chosen a pretrained model to fine-tune, you can perform the following steps to set up an environment for training:
+#### Setting up the environment
+
+1. Install a python version manager. You can use either [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/). For the purpose of this guide, we'll do asdf.
+2. Install `asdf` by following [the official guide](https://asdf-vm.com/guide/getting-started.html).
+3. Add the python plugin by running `asdf plugin add python`, install the required version by running `asdf python install 3.10.8`, activate with `asdf global python 3.10.8`
+4. Create a virtual python environment: `python -m venv /custom/path/to/venv`.
+5. Activate the venv by running `source /custom/path/to/venv/bin/activate` (you can deactivate by simply running `deactivate`).
+6. Clone the repository: `git clone https://github.com/PygmalionAI/training-code && cd training-code`
+7. Install requirements `pip install -r requirements.txt`.
+8. Install additional requirements by running `pip install wandb xformers`.
+
+#### Starting the run
+
+Run the following example script, written for LLaMA models:
+
+```sh
+#!/usr/bin/env bash
+
+export OMP_NUM_THREADS=4
+export WANDB_PROJECT="project-name"
+
+OUTPUT_DIR="/path/to/output/$WANDB_PROJECT"
+
+MODEL_NAME='huggyllama/llama-7b'
+TRAIN_DATASET="/path/to/train.arrow"
+EVAL_DATASET="/path/to/eval.arrow"
+
+BSZ=8
+
+accelerate launch \
+    './training/hf_trainer.py' \
+    --model_name_or_path "$MODEL_NAME" \
+    --train_file "$TRAIN_DATASET" \
+    --eval_file "$EVAL_DATASET" \
+    --output_dir "$OUTPUT_DIR" \
+    --optim "adamw_torch_fused" \
+    --report_to "wandb" \
+    --ddp_find_unused_parameters false \
+    --bf16 true \
+    --do_train --do_eval \
+    --evaluation_strategy "steps" --eval_steps 80 \
+    --save_strategy "steps" --save_steps 80 \
+    --save_total_limit 2 \
+    --per_device_train_batch_size "$TRAIN_BSZ" --per_device_eval_batch_size "$EVAL_BSZ" \
+    --gradient_accumulation_steps 64 \
+    --learning_rate 5.0e-5 \
+    --lr_scheduler_type "constant_with_warmup" \
+    --warmup_steps 8 \
+    --num_train_epochs 1 \
+    --seed 42 --data_seed 42 \
+    --logging_first_step true \
+    --logging_steps 1 \
+    --dataloader_num_workers 1 \
+    --model_load_delay_per_rank 0 \
+    --use_lora --lora_rank 128 --lora_alpha 256 --lora_target_modules 'up_proj,down_proj,q_proj,v_proj,k_proj,o_proj,embed_tokens,lm_head' \
+    --gradient_checkpointing true \
+    --use_xformers \
+    $@
+```
+
+You might it's quite similar to the fine-tuning script, but with a few additions. Let's go through them.
+
+### LoRA hyperparameters
+
+!!!danger This section is being worked on right now.
+
 ## Training Hyperparameters
 Training hyperparameters play a crucial role in shaping the behaviour and performance of your models. These hparams are settings that guide the training process, determining how the model learns from the provided data. Selecting appropriate hparams can significantly impact the model's convergence, generalization, and overall effectiveness.
 

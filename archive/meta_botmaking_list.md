@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-06-08)==<-
+->==(Updated 2023-06-14)==<-
 ***
 [TOC2]
 ***
@@ -35,8 +35,8 @@ Edit: 02 May 2023 15:26 UTC
 https://rentry.org/letsmakeabot
 
 Pub: [31 May 2023 No.93782077](https://desuarchive.org/g/thread/93781919/#93782077)
-Edit: 01 Jun 2023 12:24 UTC
-- 2951 words, 12 minutes read
+Edit: 12 Jun 2023 05:24 UTC
+- 2799 words, 11 minutes read
 
 *"A step-by-step process for beginners on how you could start making bots."*
 ***
@@ -54,11 +54,20 @@ Edit: -
 https://rentry.org/HochiTurboTips
 
 Pub: [31 May 2023 No.93783480](https://desuarchive.org/g/thread/93781919/#93783480)
-Edit: 31 May 2023 10:20 UTC
-- 4527 words, 25 minutes read
+Edit: 14 Jun 2023 19:09 UTC
+- 4583 words, 25 minutes read
 
 *"Tips on Turbo settings and botmaking, made for anyone who uses OAI models but mainly for Turbo users"*
 
+***
+##SillyT_Lorebook
+https://rentry.org/SillyT_Lorebook
+
+Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
+Edit: 14 Jun 2023 11:51 UTC
+- 1369 words, 5 minutes read
+
+*"A how-to on Lorebooks. What they are, how to use them, with examples."*
 ***
 ## Some rentries containing tips, but not about botmaking overall
 
