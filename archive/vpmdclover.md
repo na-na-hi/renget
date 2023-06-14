@@ -228,6 +228,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
+	* [Blaziken Tribe Hierarchy](https://rentry.org/crd8a) *Not on Table, Lore Dump*
 * Kiyo the Keokeo
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Lliam the Guildmeowster Meowstic
@@ -407,6 +408,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 * [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
 * [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
+* [Blaziken Tribe Hierarchy](https://rentry.org/crd8a)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

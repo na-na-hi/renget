@@ -610,3 +610,29 @@ In the midst of the chaos, a thought occurred to me. If I could find a way to di
 As I pondered this, a resounding clash of swords drew my attention. Razina, her face a mask of determination, faced off against Rav himself. Their swords clashed in a fierce exchange, the power of their strikes sending sparks into the air. It was a battle of wills, a clash between two formidable warriors.
 
 I knew then that the outcome of this battle would shape the destiny of the hidden city and its people. The fate of the Sand people rested on the shoulders of those who fought with unwavering resolve, and I vowed to do everything within my power to aid them in their struggle.
+
+>029:  The Battle for the Hidden City (Part 3)
+
+The clash between Razina and Rav the Barbarian reached its climax, their swords locked in a battle of wills. Razina's movements were swift and elegant, her strikes precise and calculated. In contrast, Rav's attacks were brutal and unrelenting, his dodges displaying an uncanny agility.
+
+Sweat trickled down my forehead as I watched the duel unfold before me. The tension in the air was palpable, each swing of the sword resonating with the weight of the hidden city's fate. It was a clash between two formidable warriors, each determined to emerge victorious.
+
+Suddenly, with a thunderous crack, Rav's blade collided with Razina's, shattering her sword in a shower of splintered wood. A gasp escaped my lips as I witnessed the devastating blow. Time seemed to stand still as I saw the deep gash on Razina's stomach, blood staining her clothes and the sand beneath her.
+
+Fear gripped me, but there was no time for hesitation. I pushed through the crowd, desperate to reach Razina's side before Rav could deliver a fatal blow. As I approached, a mixture of pain and determination contorted her face. She fought to stay upright, her hands pressed against her wounded abdomen.
+
+Summoning every ounce of courage, I raised my voice and spoke in broken Kash'gonian, hoping to reach the heart of the Caracal Kash'gon leader. "Why are you doing this? What has driven you to attack the Sand people?" My words hung in the air, and for a moment, Rav's wild eyes met mine, surprise flickering across his face.
+
+He paused, seemingly taken aback by the presence of a human amidst the chaos. It was clear he had never encountered one before, and the element of surprise played in my favor. With a mixture of curiosity and caution, he lowered his blade slightly, giving me an opportunity to speak.
+
+Through halting words and gestures, I managed to convey that the Sand people were not responsible for his sister's disappearance. There had been a grave misunderstanding, a false belief that had led his bandit gang to attack the hidden city. My broken Kash'gonian and the earnestness in my eyes seemed to pierce through the anger and confusion clouding Rav's mind.
+
+His grip on the sword loosened, and a flicker of doubt crossed his face. A moment of hesitation hung in the air, as if Rav's hardened exterior cracked ever so slightly under the weight of uncertainty.
+
+I seized the opportunity, pointing to the compass hanging from my neck. With gestures and a pleading gaze, I conveyed that I could lead him and his bandits to the true direction, the path that would guide them to the answers they sought about his sister's whereabouts.
+
+Rav's eyes narrowed, contemplating the proposition. He glanced at his fellow bandits, their faces marked with confusion and fatigue. Then, with a decisive nod, he made his choice. The bandits followed suit, their trust placed in the unknown human who offered a glimmer of hope.
+
+Without wasting another moment, I turned and led the bandits northward, away from the hidden city. With each step, the desert sands swallowed their presence, engulfing them in an uncertain future. In that moment, I knew I had saved the Sand people and Razina from further harm, even if the true fate of Rav's sister remained a mystery.
+
+As we disappeared into the vast expanse of the unknown, the hidden city stood resilient, its people bruised but unbroken. The wounds inflicted upon Razina and her comrades would heal in time, and the spirit of the Sand people would endure, strengthened by the unity forged in the face of adversity.

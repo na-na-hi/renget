@@ -1,5 +1,7 @@
 -> ![xiverp albums](https://i.imgur.com/pQFWpc3.png) <-
 
+*Imgur links are down per the new policy, if you have albums saved please reupload them to mega, dropbox, etc.
+
 Alphinaud & Alisaie: https://www.dropbox.com/sh/rngdh0l7cgrt7oy/AADuhlFlELDTRlZ_0J3nEFaVa?dl=0
 Alisaie Expansion: https://imgur.com/a/7IY89om
 Ameliance: https://imgur.com/a/vTY9RTG

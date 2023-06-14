@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+Anonmon getting pissed that the booru is down
+
 Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
 
 Tired Lliam doing paperwork

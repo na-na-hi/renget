@@ -1,6 +1,9 @@
 #==Hochi's Turbo Tips==
 ->([Go to **main page** to see some other stuff](https://rentry.co/HochiMamaPlace))<-
 ***
+!!! danger Turbo has been updated along with GPT-4
+	Which means that my prompt set might not work anymore, depending on how much they've tightened the screws. I'm going to do some tests with good old ultraviolence, microwaving and tough love, expect the updated prompt set and UJB.
+
 !!! note Attention!
     This rentry is WIP and will be updated with new findings every now and then. I'll make sure to highlight the updated parts for convenience. Changelog can be found at the end of the page.
 [TOC3]

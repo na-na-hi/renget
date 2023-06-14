@@ -324,8 +324,10 @@ https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
 !!! info Status: Ongoing
     This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a difficulty hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release.
     Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984.
+    
 
 https://arch.b4k.co/vp/thread/53913991/ 1 it's beginning again
 https://arch.b4k.co/vp/thread/53921488/ 2 not filtered yet
 https://arch.b4k.co/vp/thread/53929481/ 3 it's over
-https://arch.b4k.co/vp/thread/53939424/ 4
+https://arch.b4k.co/vp/thread/53939424/ 4 procrastinating to summon another tripfag
+https://arch.b4k.co/vp/thread/53952218/ 5

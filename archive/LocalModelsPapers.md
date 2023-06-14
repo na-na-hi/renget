@@ -144,6 +144,7 @@
 05/2023|[MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training](https://arxiv.org/abs/2306.00107)
 06/2023|[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)
 06/2023|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
+06/2023|[High-Fidelity Audio Compression with Improved RVQGAN](https://arxiv.org/abs/2306.06546)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -264,6 +265,7 @@
 06/2023|[Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion](https://arxiv.org/abs/2306.05708)
 06/2023|[Word sense extension](https://arxiv.org/abs/2306.05609)
 06/2023|[Mitigating Transformer Overconfidence via Lipschitz Regularization](https://arxiv.org/abs/2306.06849)
+06/2023|[Recurrent Attention Networks for Long-text Modeling](https://arxiv.org/abs/2306.06843)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

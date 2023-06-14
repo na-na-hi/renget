@@ -27,7 +27,7 @@
 |
 **Info**|
 [Models Table](https://lifearchitect.ai/models-table)|Google Sheet of models/major AI labs/other LLM information by Alan Thompson
-[Which GPU(s) to Get for Deep Learning](https://archive.ph/SY2h6)|Tim Dettmer's continually updated blogpost
+[DL GPU Buying Guide](https://archive.ph/SY2h6)|Tim Dettmer's continually updated blogpost
 [ML Glossary](https://archive.ph/iPHWI)|From Google 
 [List of Frameworks](https://archive.ph/UkaHR)|Mostly for training Models from scratch. Maybe we'll get there someday 
 [Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|Former Tesla lead for AI (now at OpenAI). Builds models with explanation
@@ -35,8 +35,8 @@
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 |
 **Learn**|
-[Machine Learning Self Learning Rentry](https://rentry.org/machine-learning-roadmap)|Guide to learn ML from basic maths to python to ML concepts
-[The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)|Give it a read even if you aren't sufficient with your math so you can get a feel of what is happening
+[ML Self Learning Rentry](https://rentry.org/machine-learning-roadmap)|Guide to learn ML from basic math to python to ML concepts
+[Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)|Give it a read even if you aren't sufficient with your math so you can get a feel of what is happening
 [Pen and Paper Exercises in ML](https://arxiv.org/abs/2206.13446)|Do your homework 
 [Huggingface NLP Course](https://huggingface.co/course/chapter1/1)|Make sure to look at the other courses as well 
 [Google's ML Course](https://developers.google.com/machine-learning/foundational-courses)|Various courses related to ML 
@@ -77,6 +77,7 @@
 **Local Related Gits**|
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo with qlora, landmark attention, and kaiokendev's xPos LlaMa patch
+[GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [SpQR](https://github.com/Vahe1994/SpQR)|3/4bit weight quantization with supposed superior results than GPTQ 
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
@@ -111,6 +112,7 @@
 [Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone)|Text-to-audio transformer based model with CPU/GPU inference 
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Audiocraft Infinity](https://github.com/1aienthusiast/audiocraft-infinity-webui)|WebUI for MusicGen a SOTA text-to-music model from META
+[Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)
 [AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|Suite of various audio related foundational models for use with a LLM (use basaran for local) 
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 

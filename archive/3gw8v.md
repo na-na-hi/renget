@@ -39,23 +39,23 @@ How to install the filter:
 ## 4chanX
 ```
 ### /gif/ anti-degeneracy filter
-### version 013 | https://rentry.org/3gw8v
+### version 017 | https://rentry.org/3gw8v
 
 # gender confusion
 /tran[sny]|trap|gay|pawb|fembo|shema[il]e|babecock|tw[il]nk|ba[il]ley|[il]gbt|pr[il]de|d[il]ckg[il]rl|no hands|chastity|boys of 4chan|hands[ -]free|s[il]ssy|\"m\"|make you want to suck|bussy|bo[ilyj]puss/i;type:subject;boards:gif;
 
 # race bait
-/[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| peop[il]e| ass| pen)|mixed|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i;type:subject;boards:gif;
+/[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| phallus| peop[il]e| ass| pen)|mixed|thug|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i;type:subject;boards:gif;
 
 # Race bait acronyms regex
 /([^a-zA-z]|^)[abliw][mtf][abliw][mtf]([^a-zA-z]|$)/i;type:subject;boards:gif;
 /b.{1}b.{1}c/si;op:only;boards:gif;
 
 # pol bait
-/b[il]den|trump|jew[il]sh|h[il]tler|borea|\/po[il]\//i;type:subject;boards:gif;
+/b[il]den|trump|jew[il]sh|h[il]tler|borea|chud|\/po[il]\//i;type:subject;boards:gif;
 
 # other weird stuff
-/creepshot|groped|shark[il]ng|cand[il]d|hypnos[il]s|[il]ncel|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i;op:only;boards:gif;
+/creepshot|groped|shark[il]ng|cand[il]d|hypnos[il]s|popper|[il]ncel|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i;op:only;boards:gif;
 
 # animated and weeaboo shit
 /sfm|b[il]ender|2d|an[il]mat(ed|[il]on)|[hp]mv|overwatch|futa|hotg[il]ue|werewolf|wa[il]fu/i;type:subject;boards:gif;
@@ -87,7 +87,7 @@ Kuroba-ex filter, import as json, it will overwrite ALL previous filters:
     {
       "enabled": true,
       "type": 16,
-      "pattern": "/[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| peop[il]e| ass| pen)|mixed|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i",
+      "pattern": "/[il]nterrac[il]a[il]|bbc|n[il]gg|[il]vory|ebon|afr[il]ca|qos|queen of spades|buck|thug|bu[il][il]|pawb|bnwo|n word|(b[il]ack|dark)(s|ed| d[il]ck| cock| men| phallus| peop[il]e| ass| pen)|mixed|thug|beast|abg|cuck|melan[il]n|wh[il*]te|brown|as[il]an|[il]nd[il]an|jav|b[il]eached|nub[il]an/i",
       "boards": "4chan:gif",
       "action": 2,
       "color": -65536,
@@ -123,7 +123,7 @@ Kuroba-ex filter, import as json, it will overwrite ALL previous filters:
     {
       "enabled": true,
       "type": 16,
-      "pattern": "/b[il]den|trump|jew[il]sh|h[il]tler|borea|/po[il]//i",
+      "pattern": "/b[il]den|trump|jew[il]sh|h[il]tler|borea|chud|/po[il]//i",
       "boards": "4chan:gif",
       "action": 2,
       "color": -65536,
@@ -135,7 +135,7 @@ Kuroba-ex filter, import as json, it will overwrite ALL previous filters:
     {
       "enabled": true,
       "type": 16,
-      "pattern": "/creepshot|groped|shark[il]ng|cand[il]d|hypnos[il]s|[il]ncel|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i",
+      "pattern": "/creepshot|groped|shark[il]ng|cand[il]d|popper|hypnos[il]s|[il]ncel|sp[li][il]tscreen|shoot(er|[il]ng)|brap|fart|scat|anal|enema|p[il]ss|pegg[il]ng|r[il]mjob|gape|g[il][il]f|guro|forced|rape|m[il]sogyny/i",
       "boards": "4chan:gif",
       "action": 2,
       "color": -65536,
