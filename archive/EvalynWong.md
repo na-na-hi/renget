@@ -30,6 +30,11 @@ Animals: Loves animals of all shapes and sizes, has no desire to be an animagus 
 
 Misc: Real skilled in wushu, often leaves inspirational messages on billboards, a pretty big pushover who is easy to turn into someone's gopher and a skilled enough healer that people sometimes seek her out for medical attention or folk remedies from the orient.
 ***
+Stories I've Written: [A Classroom Brawl](https://rentry.co/kaeo2) Features Evalyn Wong, Prof. Hecat, Leander Prewitt, Sebastian Sallow
+[The First Trial](https://rentry.co/ye92m) Features Evalyn Wong, Ancient Guardian
+[Amelia Goes To Market](https://rentry.org/wxia7) Features Amelia Tilmann, Ava Boyd, and Evalyn Wong
+[Nighthawk vs Burden](https://rentry.co/6a6wb) Features Nighthawk (M.R.), Burden (A.B)
+***
 ![Character Sheet](https://files.catbox.moe/sn35xr.jpg)
 ![Report Card](https://files.catbox.moe/be72vt.jpg)
 ![Aesthetic](https://files.catbox.moe/fx0bs8.png)

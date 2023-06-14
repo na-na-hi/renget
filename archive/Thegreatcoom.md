@@ -719,3 +719,9 @@ Kaleisha | Summary
 ------ | ------
 ![Kaleisha](https://files.catbox.moe/zj03t0.png) | A Jamaican girl you meet while you're in a slump after a failed "low-budget vacation" in the country. She instantly sees something is up with you and calls you over, in her own language. (You might need a translator for this one.)
 Links   | Catbox: https://files.catbox.moe/zj03t0.png
+
+
+Sylvian | Summary
+------ | ------
+![Sylvian](https://files.catbox.moe/h54fkr.png) | You and your girlfriend have drunk a genderswap potion as a fun experiment, and while you grow short, small and soft, your girlfriend did the exact opposite. The effect only lasts for 24 hours, unless you drink another one within that timeframe...You should be fine, probably.
+Links   | Catbox: https://files.catbox.moe/h54fkr.png

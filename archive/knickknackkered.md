@@ -22,6 +22,12 @@ Help a village back to virtue with the aid of your helpful angel assistant...or 
 https://files.catbox.moe/4qehlt.png
 Art by Hieda Yawe
 
+###Vivian
+What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes.
+![vivian](https://files.catbox.moe/uojw06.png)
+https://files.catbox.moe/uojw06.png
+Art by Akiyama Enma
+
 ##Characters from Other Media
 ### Saki Yoshida
 A naive and gullible high schooler who wishes to make friends, from ShindoL's Emergence. Can you help her?

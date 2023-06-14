@@ -97,15 +97,19 @@ More of that text floated in front of me - hovering next to the glass bottle.
 Beginning digitisation.
 Stand by. . .
 ```
-I watched, utterly dumbfounded, as the bottle seemed to shrink and pixilate - before shooting straight towards me. I flinched in anticipation, squeezing my eyes tightly shut. There was a unpleasant feeling of pressure on my front, which quickly faded into nothing. Opening my eyes, I could see that the bottle had completley vanished from my sight, replaced with more floating text under the first set.
+I watched, utterly dumbfounded, as the bottle seemed to shrink and pixilate - before shooting straight towards me. I flinched in anticipation, squeezing my eyes tightly shut. There was a unpleasant feeling of pressure on my front, which quickly faded into nothing. Opening my eyes, I could see that the bottle had completely vanished from my sight, replaced with more floating text under the first set.
 ```python
 Digitisation complete.
 Max_Elixir was sent to C:\Porygon\ItemStorage !
 ```
-As the text blipped out of existence, I fixed my gaze on the spot the bottle had been sitting. I experimentally waggled a block-foot-thing through where the Max Elixir had been - it was certainly gone, and from the sounds of things, I'd stored it. Somewhere.
+As the text blipped out of existence, I fixed my gaze on the spot where the bottle had been sitting. I experimentally waggled a block-foot-thing through where the Max Elixir had been - it was certainly gone, and from the sounds of things, I'd stored it. Somewhere.
 
 `WHAT WAS THAT. WHAT WAS ANY OF THAT. AUGH. WHAT IS MY LIFE.`
 
-While thoroughly disturbed by the whole experience of... whatever the hell that was, at least I knew that I could collect items. No clue on how many, or how I get them back out of myself, but that would be a problem for future me to figure out.
+While thoroughly disturbed by the whole experience of... whatever the hell that was, at least I knew that I could collect items. Didn't have any clue on how many, or how I get them back out of myself, but that would be a problem for future me to figure out.
+
 ***
-WIP
+
+I continued to explore the dense forest, continuing down another couple of floors. The last set of stairs had led me into a large, grassy clearing - the "walls" of thickly packed trees and plants parting, their canopy of leaves and branches pulling back enough to reveal the night sky in all it's glory. The full moon shone brightly, illuminating the empty glade with a silvery light. I hovered over to the centre, my lack of footsteps preserving the absolute silence of the clearing.
+
+Surveying the area around me, it was evident that there was no path forwards - there was no doubt that this was to be the deepest part of the Dungeon.

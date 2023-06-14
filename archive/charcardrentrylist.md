@@ -13,12 +13,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Vivian](https://files.catbox.moe/uojw06.png), [Paul](https://files.catbox.moe/tkpne4.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sylvian](https://files.catbox.moe/h54fkr.png), [Kaleisha](https://files.catbox.moe/zj03t0.png), [Pepper](https://files.catbox.moe/n15rek.png), [Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png)|
+[Horny221](https://rentry.org/hornythings) | Misc / Stink |[Lewd WoW](https://files.catbox.moe/8bvg5q.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Housewife Reshiram](https://files.catbox.moe/avytph.png), [Dylan](https://files.catbox.moe/zdh5dp.png), [Archie the Amputee](https://files.catbox.moe/q5cfl3.png), [Lillie & Lusamine](https://files.catbox.moe/mwe7r3.png), [LewdTV](https://files.catbox.moe/3u7ynt.png), [Angelie](https://files.catbox.moe/hfya9x.png), [Hellen Skellen](https://files.catbox.moe/2cmjbg.png), [Binah](https://files.catbox.moe/mad9op.png), [Thirsty Little Flower](https://files.catbox.moe/vbwac2.png), [Miranda](https://files.catbox.moe/7g44v3.png), [AnAl0g HoRR0r G!rL](https://files.catbox.moe/3nhztz.png), [Crow Mauler](https://files.catbox.moe/p86oey.png), [Claude](https://files.catbox.moe/4irzz9.png), [Barry from the Pub](https://files.catbox.moe/ehvx57.png), [Inland Empire](https://files.catbox.moe/u2fd5r.png), [Valeria](https://files.catbox.moe/msd0wp.png), [SCHLOPDOG](https://files.catbox.moe/88smbn.png), [Preg Kobeni](https://files.catbox.moe/l40n00.png), [BURST-CHAN](https://files.catbox.moe/vjn1ue.png), [Tenko](https://files.catbox.moe/drf7al.png), [Sophia Langston](https://files.catbox.moe/ta9iu0.png), [Hex Maniac](https://files.catbox.moe/qzrp1r.png), [Ram Ranch](https://files.catbox.moe/xze034.png), [Junbo](https://files.catbox.moe/mx0cdl.png), [Girl Who Stinks Good](https://files.catbox.moe/n79kue.png), [WARP Train UW-212](https://files.catbox.moe/wqtipm.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Liz](https://files.catbox.moe/txa9xw.png), [Mineru](https://files.catbox.moe/4g5jz3.png)|[Lucia](https://files.catbox.moe/m5cm6e.png) [MV]
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kaleisha](https://files.catbox.moe/zj03t0.png), [Pepper](https://files.catbox.moe/n15rek.png), [Kyomi](https://files.catbox.moe/q287yw.png), [Hilda](https://files.catbox.moe/9yh9md.png), [Glyslia](https://files.catbox.moe/36zvn6.png)|
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Ether](https://files.catbox.moe/l9y9vw.png)|[Ether](https://files.catbox.moe/l9y9vw.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Rio](https://files.catbox.moe/l775cg.png), [Hachirō](https://files.catbox.moe/va3spk.png)|[Hachirō](https://files.catbox.moe/va3spk.png) [MV]
-[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Paul](https://files.catbox.moe/tkpne4.png)|
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc |[Lucia Black](https://files.catbox.moe/feaeg5.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Ixchel](https://files.catbox.moe/ae1dgn.png), [Postal 1 Dude](https://avatars.charhub.io/avatars/donquijanon/postal-1-dude/chara_card_v2.png), [Pamela](https://files.catbox.moe/1y78a8.png), [Paola Piñata](https://files.catbox.moe/5un264.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[CHAT](https://files.catbox.moe/s4zwuj.png), [Suzume](https://files.catbox.moe/x86rgz.png)|[CHAT](https://files.catbox.moe/s4zwuj.png) [MV], [Suzume](https://files.catbox.moe/x86rgz.png) [MV]
@@ -46,7 +47,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
-[Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [Pedanon](https://rentry.org/Pedanon) | Cunny ||
 [Dould](https://rentry.org/ox3iqa) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||

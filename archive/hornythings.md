@@ -27,3 +27,9 @@ For those who can't decide between armpits, feet, asses, or other gloriously sti
 Erotic Restraint Penitentiary
 https://files.catbox.moe/dn5464.png
 Where (You) belong.
+
+Lewd WoW Adventures
+A lorebook containing entries for lewd, fetish fueled adventures in the world of Azeroth.
+https://files.catbox.moe/dm7bjf.json
+Accompanied with a card with a CYOA style scenario selector. Recommended token allowance: 800 - 1500 for 'companion creation', 300-600 for the rest of the roleplay.
+https://files.catbox.moe/8bvg5q.png

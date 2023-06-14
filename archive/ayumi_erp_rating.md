@@ -391,3 +391,10 @@ If you have questions, you may catch me under the name "Weicon" on the Pygmalion
 # See Also
 
 - [Another LLM Roleplay Rankings - by AliCat https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
+
+## Character guides & Tutorials
+
+- [Ali:Chat Lite - https://rentry.co/kingbri-chara-guide](https://rentry.co/kingbri-chara-guide)
+- [Ali:Chat Style - https://rentry.co/alichat](https://rentry.co/alichat)
+- [How to write in PList (Python list) + Ali:Chat - https://rentry.co/plists_alichat_avakson](https://rentry.co/plists_alichat_avakson)
+- [Avakson's Character Editor - https://avakson.github.io/character-editor/](https://avakson.github.io/character-editor/)

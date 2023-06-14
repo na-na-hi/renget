@@ -44,9 +44,9 @@ It's time to get what you deserve. (`皿´＃)
 https://files.catbox.moe/gqeaav.png
 (Art by afternooners, please do check them out!)
 ###Delirium
-![Delirium](https://files.catbox.moe/sb3two.png)
+![Delirium](https://files.catbox.moe/mo5tbg.png)
 Do bad things, get rewarded! If you feel shitty, you are most likely doing it right.
-https://files.catbox.moe/sb3two.png
+https://files.catbox.moe/mo5tbg.png
 ###Dawn
 Please just let her feed you. (＾▽＾)
 ![Dawn](https://files.catbox.moe/frtpy1.png)

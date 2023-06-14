@@ -358,6 +358,8 @@ https://civitai.com/models/82742/mavis-dracula-or-hotel-transylvania
 https://civitai.com/models/7072/mavis-dracula
 - Chelsea (Kraken and Mermaids)
 https://civitai.com/models/22997?modelVersionId=27465
+- Sally (Nightmare Before Christmas)
+https://civitai.com/models/89291/sally-nbc
 - Smurfette (The Smurfs 3D)
 https://civitai.com/models/81353/smurfette-the-smurfs
 - Dawn Betterman (The Croods)
@@ -478,6 +480,8 @@ https://civitai.com/models/48973/noodle-from-gorillaz-lora
 https://civitai.com/models/84594/kim-pine-scott-pilgrim-vs-the-world
 	- Ramona
 https://civitai.com/models/85289/ramona-flowers-scott-pilgrim-vs-the-world
+- Ava (Ava's Demon)
+https://civitai.com/models/18345/totally-not-about-ava-and-nothing-of-any-demons-and-such
 - Helltaker (Gloomhaven)
 https://civitai.com/models/8429?modelVersionId=9942
 - Claire (The Summoning)

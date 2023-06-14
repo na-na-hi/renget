@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 2UTC ()**
 **FRI: MMBN2 rando at 2UTC (Telemelt)**
-**SAT: Protodroid Delta at 2UTC (Parsec)**  possibly
+**SAT: - at 2UTC ()**  April 15th officially over
 **SUN: Minemelt at 17:30UTC ()**
 
 ##Cytubes
