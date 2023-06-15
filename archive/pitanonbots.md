@@ -4,7 +4,7 @@
 ### Indiana Koi
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
-Suzume | (10/6/2023) Added alternative greeting | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/x86rgz.png)
+Suzume | (10/6/2023) | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/6/2023 | https://www.chub.ai/characters/pitanon/suzumes-livestream-chat | https://files.catbox.moe/s4zwuj.png
 Nina | (5/6/2023) | https://www.chub.ai/characters/pitanon/Nina | ![](https://files.catbox.moe/3c62eg.png)
  

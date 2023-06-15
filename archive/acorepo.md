@@ -504,6 +504,7 @@ https://civitai.com/models/67312/fawn-deer-bonkers
 - Nala (The Lion King 1994)
 https://civitai.com/models/83150/female-cartoon-lioness
 - Felina Feral (SWAT Kats: The Radical Squadron)
+https://civitai.com/models/87648/felina-feral
 - Diane Foxington (The Bad Guys)
 https://civitai.com/models/10564?modelVersionId=35342
 - Helluva Boss
@@ -720,7 +721,7 @@ https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
 https://civitai.com/models/66719/gta-style-or-lora
 	+ Signalis 
 https://civitai.com/models/84686/signalis-style-lora
-	+ Zelda CDI
+	+ Zelda CD-i
 https://civitai.com/models/6020/zelda-cdi-style-lora
 - N64 style
 https://civitai.com/models/81132/n64-styl

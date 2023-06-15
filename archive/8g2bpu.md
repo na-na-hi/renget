@@ -14,9 +14,7 @@ Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have 
 
 Tired Lliam doing paperwork
 
-Ross being immune to sleep hypnosis 
-
-Someone brings Carrot and Bean to Beast after misunderstanding an ingredient request 
+Ross being immune to sleep hypnosis  
 
 "Which table you sittin' at?" Meme with the guild cafeteria
 
@@ -178,15 +176,17 @@ Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
 
+[Someone brings Carrot and Bean to Beast after misunderstanding an ingredient request](http://cloverguild.org/post/457)
+
 Someone tells Porygon "This statement is false"
 
 [Togetic and Cyndaquil dressed as Greek philosophers arguing over if traps are gay](http://cloverguild.org/post/428)
 
-Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp
+[Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp](http://cloverguild.org/post/432)
 
-Togetic flying over Capim Town at night
+[Togetic flying over Capim Town at night](http://cloverguild.org/post/386)
 
-"Poker night at the inventory" with pokemons
+["Poker night at the inventory" with pokemons](http://cloverguild.org/post/373)
 
 [A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)](http://cloverguild.org/post/359)
 

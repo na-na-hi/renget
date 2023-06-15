@@ -6,7 +6,7 @@
 [TOC2]
 
 ***
-### Overture: On the tale of a valiant wolf, and a mischievous cat so far
+### Overture 1: On the tale of a valiant wolf, and a mischievous cat so far
 “It’s as beautiful as always, don’t you think?” the Lycanroc affirms with a bark
 “Sure, for you! You were not drowning just down there in the ocean” The Liepard replies slightly annoyed with a hiss, “But yeah, sunsets will always make me happy, it’s an omen that the night is finally arriving”
 The Liepard keeps watching the sun being swallowed by the darkness of the ocean close to the edge of the ravine, where they first met, the golden orange sky, the same tones of the Lycanroc, being taken over by the purple hue of the incoming night, the same color as hers
@@ -88,6 +88,46 @@ The Lycanroc and the Liepard keep walking through the forest, maybe for the last
 “As you say, Carrot”
 “… STOP CALLING ME CARROT FOR ARCE-“
 The barking and hissing continues for a while, walking far away from the place they call home, ready for their new adventures
+
+
+###Overture 1.1: On the subject of food gathering and poor planning of meals
+Deep in the forest, the orange wolf/dog and the purple cat keep on walking, dissapointed and with their stomach empty
+"Maybe eating all the food in one go wasn't a good idea..." Carrot whimpers
+"Don't think about it, we coulnd't expect that no one is taking new recluits in..." Hazel purrs hungrily
+Overconfident, they thought that they could get a place in any guild they wanted, but most guilds were not accepting new 'mons or veterans, and although they directed the duo to a relatively new guild (It was not even registered yet), it would still take some days for them to get there
+"Well, we have no other option, we have to forage for something, anything" Carrot stops, ready to hunt
+"Like... berries? I saw a Chesto bush while we were walking" Hazel points
+"Perfect, i have some Pechas, and surely we can find some Rawsts close" Carrot barks
+Decided, the duo start foraging, it's not long until they find the bush Hazel mentioned, taking all the berries they can take (And planting two), they're now only missing one for Hazel's signature dish
+"I still wonder why i still remember how to make berry salad, maybe Arceus really wanted me to keep that memory?" Hazel ponders, still hunting for the missing berry
+"Or you really liked it and it's ingrained deep in your mind, in any way it's incredible" Carrot barks closely, sniffing for any traces of the berries
+"I don't think we're finding any here" Carrot whimpers, defeated
+"Eeh, we can still make it without the Rawsts, it's not that important"
+"If you say so..." Carrot gets ready for the cutting
+Hazel lines half the berries on a piece of bark with a rock on Carrot's side and half on hers, ready for the game
+"Ready?" Hazel asks
+"Always ready"
+"Well..."
+.
+.
+. 
+The dog/wolf and the cat keep a keen eye on the other, waiting for the slighte-
+"Fetch!" Hazel jumps on the improvised catapult, throwing a berry at high speed directly to Carrot
+"Who-" Splash, the berry explodes on Carrot's muzzle, dripping in berry juice
+"Heh! You're slowing do-" Hazel can't finish the tauting before a berry hits her in the faze, covering her in berry juice
+"Said something?" Carrot is proud of his almost perfect throw
+"... good hit, maybe we shouldn't be wasting our food" Hazel huffs
+"Correct, last one!" Another berry is thrown at great speed directed to Hazel, but she was expecting it, cutting it perfectly with sharp claws
+Now with the game over, the duo cut the rest of the berries and mash them together, before serving a portion on each's wood bark
+*Crunch Crunch Crunch Crunch*
+After a relatively fast meal, the duo is ready to keep on advancing... if it wasn't too late, the sun showering them with radiant (And hot) beams
+"... maybe we should nap" Carrot mentions, pointing at the convenient tree that almost perfectly covers the sun beams
+"Absolutely" Hazel accepts
+Both curl up side to side, cowering from the radiant sun
+"Have a nice sleep, Carrot" Hazel yawns
+"*Yawn*, you too Hazel"
+It's not long before both are deep asleep
+
 
 ***
 ### Misc. Overviews

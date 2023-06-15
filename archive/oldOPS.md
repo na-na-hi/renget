@@ -249,3 +249,65 @@ https://rentry.org/aicg_op_overflow#other [CAI, Kobold, NAI, Miku, waifutext...]
 
 Previous: --Last thread here--
 ```
+
+######Sturdy
+######Sturdy
+```
+A general dedicated to discussion & development of AI Chatbots
+
+>--Edition here--
+
+▶Recent
+--News Here--
+try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
+
+▶Frontends
+▶agnai and tavern guide
+https://rentry.org/Aicg4Retards
+▶Silly
+silly tavern: https://github.com/SillyLossy/TavernAI
+mobile extras: https://rentry.org/sillytermux
+▶Agnai
+https://agnai.chat/
+guides: https://rentry.org/agnai_guides
+▶Miku
+https://docs.miku.gg/
+https://rentry.org/mikugg
+▶RisuAI
+http://risu.pages.dev/
+https://github.com/kwaroran/RisuAI-release/releases
+
+▶Slaude
+ruski claude: https://github.com/AmmoniaM/Spermack
+slaude: https://github.com/PandarusAnon/slaude
+more slaude: https://github.com/bfs15/slaude
+jailbreaks https://rentry.org/ClaudeJB
+
+▶Bots
+https://www.characterhub.org
+https://booru.plus/+pygmalion
+bots and resources on cai: https://rentry.org/cai-list
+outsider bots: https://rentry.org/meta_bot_list
+https://zoltanai.github.io/character-editor/
+
+▶Botmaking
+https://rentry.org/meta_botmaking_list
+
+▶Local models (Pygmalion, LLaMa)
+>>>/g/lmg/ [up-to-date documentation and discussion]
+
+▶Meta
+OP templates: https://rentry.org/aicgOP or https://rentry.org/kaomojibaka
+services assessment: https://rentry.org/aicg_meta
+key verifier: https://github.com/Buhankoanon/OAI_API_Checker
+proxy checker: https://navigatethecoom.github.io/navigate
+extra topics: https://rentry.org/aicg_extra_information
+meta-rentry: https://rentry.org/charcardrentrylist
+
+▶Rules
+1. No Matrix/Discordniggery
+2. Keep politics in /pol/
+3. Meta discussion goes here: >>485530
+
+Previous: old
+```

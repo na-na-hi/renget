@@ -159,6 +159,7 @@
 /(?=.\*(blacked|bbc))(?=.\*(edit(|s)|hmofa|waifur(|s)))/ims;boards:trash;op:no
 /b(|lacked)fur/i;boards:trash;op:no/ims;boards:trash
 /(white|cuck)boi/i;boards:trash;op:no
+/\d\nhere's your white(| human) male/i;boards:trash;op:no
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
 

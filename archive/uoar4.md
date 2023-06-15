@@ -37,6 +37,7 @@ _______
 | Duet cover of Queen with Bae | [![](https://files.catbox.moe/r82ev2.jpg)](https://www.youtube.com/watch?v=lbnr0ReWfVQ) |
 | Love! Snow! Really Magic / 好き！雪！本気マジック | [![](https://files.catbox.moe/szfrur.jpg)](https://www.youtube.com/watch?v=bbJqGGRQ32k) |
 | Duet cover of Ghost Rule / ゴーストルール  with Kiara (Part of the holo\*27 project) [Streaming options outside of Youtube](https://lnk.to/holo27_Covers_Vol1)| [![](https://files.catbox.moe/gmwu9m.jpg)](https://www.youtube.com/watch?v=WHOsFw-00l4) |
+|  Connect the World (HoloEN original 3D MV)  | [![](https://files.catbox.moe/zneu5e.jpg)](https://www.youtube.com/watch?v=bitH6NZ_e2Q)|
 
 ###### Cameos only
 | Song | Link |

@@ -775,6 +775,7 @@ Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 
 
 ###What about samplers?
 ![Sampler Examples](https://files.catbox.moe/j5nzfc.png)![Samplers v2](https://files.catbox.moe/3ytb24.png)
+![Sampler Examplesv3](https://files.catbox.moe/1xj5bo.png)
 
     SDE is normally used at lower steps than other samplers.
     12 steps in SDE have around the same effect as 20 steps in other samplers.
