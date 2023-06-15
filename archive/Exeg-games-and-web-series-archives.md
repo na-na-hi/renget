@@ -27,6 +27,7 @@ The Shepherd's Game (Prologue) | [PRESS START](https://www.dropbox.com/s/6sic8iv
 Alternate Watch | [PRESS START](https://tesseron.itch.io/alternate-watch)
 Lethal Omen | [PRESS START](https://alpine-arts.itch.io/lethal-omen)
 Cave Crawler | [PRESS START](https://store.steampowered.com/app/2282480/Cave_Crawler/)
+Mario and the music box | [PRESS START](https://ari-games.com/downloads.html)
 Misfortune .gb | [PRESS START](https://misfortune-dot-gb.webs.com/game-download)
 The Theater | [PRESS START](https://newa-studios.itch.io/thetheater)
 Luna Game (warning, GR15) | [PRESS START](https://archive.org/download/LunaGame)
@@ -66,6 +67,7 @@ I HATE YOU! | [PRESS START](https://www.smwcentral.net/?p=section&a=details&id=1
 An Ordinary Sonic ROM Hack | [PRESS START](https://shc-dist.lostsig.co/downloads/compo2013/[SHC2013]%20[compo2013]%201%20-%20An%20Ordinary%20Sonic%20ROM%20Hack%20-%20By%20Cinossu.bin)
 Sonic.exe Generations, Part 1 | [PRESS START](https://gamebanana.com/mods/363428)
 Sonic.exe Mania: Abyss | [PRESS START](https://gamebanana.com/mods/47966)
+Call of Cthulhu | [PRESS START](http://smwdb.me/db/a/a0a9d007669c8b674162dad58e02b12e1720b528/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Web Series/ARGs

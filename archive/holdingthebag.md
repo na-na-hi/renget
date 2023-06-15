@@ -1,5 +1,5 @@
 f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 12th June. All dates dd/mm.
+Last updated: 14th June. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -110,6 +110,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 26/05
 6665 | F2Poor | Open as of 12/06
+8192 | Mesugaki | Open as of 13/05
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -127,7 +128,6 @@ Club ID | Club Name | Club Status
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
 6786 | Enuji | Full as of 30/09
-8192 | Mesugaki | Full as of 26/05
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 11162 | Rats | Full as of 02/06
@@ -157,7 +157,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 09/06
 6208 | Cūnnysseurs | Open as of 19/04
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
@@ -165,6 +164,7 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Full as of 14/06
 1559 | Remedial_Club | Full as of 21/04
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

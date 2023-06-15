@@ -24,15 +24,15 @@ Art by Hieda Yawe
 
 ###Vivian
 What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes.
-![vivian](https://files.catbox.moe/uojw06.png)
-https://files.catbox.moe/uojw06.png
+![vivian](https://files.catbox.moe/yro0lu.png)
+https://files.catbox.moe/yro0lu.png
 Art by Akiyama Enma
 
 ##Characters from Other Media
 ### Saki Yoshida
 A naive and gullible high schooler who wishes to make friends, from ShindoL's Emergence. Can you help her?
-![Saki Yoshida](https://files.catbox.moe/bi663m.png)
-https://files.catbox.moe/bi663m.png
+![Saki Yoshida](https://files.catbox.moe/rzwxnd.png)
+https://files.catbox.moe/rzwxnd.png
 Art by ShindoL
 
 ### Emergence Simulator

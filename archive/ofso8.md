@@ -2005,3 +2005,432 @@
 >Ash now smelled of raspberries 
 >rubbing one of his big ears elicited a low groan and the tentacles seem to hug onto you 
 >so that was his sweet spot
+
+>your hand on his chest supported him
+>maybe it was love
+>you sure did enjoy his company
+>you decided to kiss his head between his ears and he lost his footing
+>his furry hand held onto you and you had remained steadfast
+>you asked him to help you wash up
+>he paused before whipping around and pinning your back to the shower
+>he was deceptively strong now
+>he took his time smelling you 
+>his eyes were red but he wasn't nervous 
+>perhaps he was pushed to the edge by your request
+>you were a little frightened but his smelling was followed by licking and kissing
+>it felt right to ask if he was OK
+>he relaxed his grip and looked apologetic
+>"sorry, I think this whole thing is playing havoc with my libido"
+>would explain the mood swing
+>you'd have to take care of that
+>the mouse boy licking and smelling at your skin was already doing a number on you
+>you throbbed and he noticed
+>his tentacles casually roamed over you as he went lower
+>"this thing is making it harder for me to think about anything but…"
+>he was on his knees nuzzling his face to your manhood
+>"I've spent damn near this whole hell trip wanting this dick"
+>he opened his mouth and bottomed out in one smooth motion 
+>the muzzle meant it was easy for him to bury his face in your pubes
+>something odd was happening to your penis
+>his tongue was there
+>the muscle working over the underside
+>more than that though
+>it felt like something was swallowing your manhood
+>like a sheath sliding over it 
+>eventually the tongue was fully replaced by the sleeve
+>the red eyes faded and it was the familiar blue
+>he looked up to you for approval and you couldn't help but buck your hips
+>you decided to rub his ear again
+>he liked that and the moan reverberated over your dick
+>whatever was around your dick started milking it 
+>Ash just closed his eyes and buried his face as much as possible against your crotch
+>occasionally he'd sniff at your pubes and groan
+>you were overwhelmed at the moment 
+>blowjobs felt amazing
+>you had to endorse them now
+>you were glad Ash got your first one
+>whatever he was doing in his mouth he didn't even need to break away to breath
+>he just kept milking you with his eyes closed 
+>tentacles roamed to your free hand and slipped around it
+>the texture was still alien but you were fine with the small display of affection
+>his armored hand rested on your hip as his normal hand played with your nuts
+>if Ash was a virgin, he was gifted
+>his work was rewarded when you growled his name and busted a fat nut down his throat
+>he didn't even flinch
+>just kept draining as hard as he could
+>when we was sure he had every last drop, only then did he pull off
+>"this wasn't exactly how I dreamed it would happen…"
+>he looked a little down again as he looked at his hand
+>you gave the tentacles a squeeze in your hand and picked up his chin
+>he was still Ash
+>you were both safe
+>and honestly, if he'd have you, you wanted to make this an actual thing
+>not a fling
+>not fuck buddies
+>he'd saved your life
+>so you wanted to be in his
+>"but… look at me."
+>you didn't speak, but you let your cock stiffen in front of his face in response
+>you had no regrets meeting Ash
+>as long as he was him and in no danger you were happy
+>he wasn't a monster
+>besides, you told him you were fine with him being a giant mouse 
+>"I guess I'm fine with you being a giant monkey too"
+>his laughter after was a good sign
+>then he had an epiphany 
+>"oh shit, the shower!"
+>he had come to his senses after the attention he gave you 
+>the session must have helped him clear his head
+>his eyes were back to that sparkling blue but were filled with a frantic energy
+>your best guess was he realized you'd both been in the shower for almost an hour
+>good thing water wasn't included on the bill 
+>the shower was now tepid against your skin but it was no worse than the Atlantic earlier
+>he frantically grabbed the soap, having it slip multiple times from his grasp
+>his nervousness had returned and you asked yourself how he made due with a firearm earlier
+>you'd definitely need to take him practice shooting
+>your hand went for the base of his ear and he cooed and instantly loosened up
+>that was win button
+>you told him to take a deep breath and he looked over to you apologetic
+>"I just feel bad if I waste your time off."
+>if he considered earlier a waste of time, well you wanted to waste more time
+>after all you had been through that orgasm was the best way to start off your vacation
+>however, you pointed out, he would just have to blow you faster next time if he worried about that
+>his body language told you he was blushing like a schoolgirl again
+>"I just kind of lost it. couldn't help myself"
+>his hands went to work softly scrubbing your bare skin
+>he was sightseeing 
+>you asked if he really wanted all that with the sex or was the bug thing goading him on
+>"the first. I really want you. it's just this whole host thing…"
+>you raised your arms to let him scrub and you caught him faintly smelling you while he worked
+>the nose twitch was an easy tell
+>"it's like guys who'd do things while drunk they wouldn't do sober. best way to put it."
+>so it just made him bolder?
+>"yeah…"
+>so there were changes
+>you were tempted to ask around but a thought had occurred 
+>what would they do to Ash?
+>the nightmare of him on an operating table made your dick limp even with the mouse's soft paw on your chest
+>maybe for now this would be a secret between you two
+>as long as he wasn't hurting
+>you did ask him though, in a soft tone
+>to please tell you if anything at all changed
+>you'd do whatever you could to help
+>your hug interrupted his quest back down your body
+>but he accepted it quickly
+>while you were entangled like this you decided to ask 
+>would he want to go steady?
+>you heard a sniffle from him in response and he buried himself tighter to your chest
+>"thank you. I'd love that"
+>it was quiet but you heard it
+>afterwards he pushed back gently
+>then apologized again for using the hot water
+>which you scoffed at
+>his scrubbing continued and when he came back up you were amused by how much he seemed to like your face
+>both clawed and regular hand ran over it
+>he was trying to get a good look with his fingers and you let him
+>maybe because you were novel to him as he was to you
+>finally he softly washed your hair, the clawed hand almost like a brush through it
+>finally, you both stepped out clean
+>you both pretended not to watch each other dry off
+>Ash had you help him with the blow dryer, the warmth making him sigh as it ran over his fur
+>you had a feeling you might not be married to the job any more if Ash was this distracting
+>it's funny
+>for all his deception he was still the most genuine relationship you'd had
+>maybe because he really had just had one real bad day
+>you were that way stepping into Raccoon City
+>despite the whole package in front you definitely not being related to the president, a girl, or remotely human
+>he was just as scared then as you were
+>you just had had better training
+>after drying yourselves you asked Ash if he could transform back and the mouse boy tried
+>tried because all he really succeeded in was having hair grow over the armored parts now
+>it was sort of thin and you bet it was easily shed
+>however it covered the carapace about as well as it could
+>he looked confused 
+>the tentacles had receded but his ass and thighs were still plumper
+>it wasn't an on off switch like before
+>he was a little panicked but you had an idea
+>maybe that sexual encounter sealed the deal so to speak
+>you were flying blind and that was the best solution you could come up with
+>the parasites seemed to worry about concealment to a certain point then said fuck it
+>that and he said it was sort of botched by the procedure 
+>better than having it control him
+>though a remark about him needing bigger panties had him flustered
+>his old boots fit and sort of covered the armor
+>you joked about an armored codpiece and he'd be set to go outside and he stammered
+>you were repeatedly reminded "it doesn't work like that"
+>some of his outfit was salvageable 
+>you gave him your old jacket to cover up the tattered sweater and you'd think you handed him a bar of gold
+>he didn't have to smell it but he did
+>he seemed really hung up on smell for some reason 
+>was the shower not enough?
+>maybe you smelled bad and he was just weird about it
+>you'd invest in some different deodorant later
+>for now you'd settle on clothes that weren't shredded 
+>you both settled on a small store in town 
+>thankfully you had enough currency on hand from the adventure for a few outfits
+>Ash felt guilty about you paying but you brought up how's this different than when you bought guns for him
+>well, her
+>you were very aware the giant mouse bug thing was complex to outsiders 
+>no reason to add the crossdressing to it
+>never did get an answer for that straight from the mouse's mouth
+>the store owners didn't seem phased by the whole thing
+>just two weird Americans 
+>you instantly got a few cheap outfits but Ash was a little harder
+>once you encouraged him to indulge he did 
+>with gusto
+>the mouse busied himself between racks
+>managed to somehow get a pink everything
+>a new sweater
+>a couple of skirts, one of which had a slit that barely covered the thigh
+>you asked why he wanted sunglasses when they wouldn't fit his head and he seemed distressed he couldn't accessorize 
+>but a new top made up for it
+>you asked about a new jacket but he said he was keeping yours
+>he told you he had one thing he'd found you weren't allowed to see until tonight
+>all together it was a bundle, but not the end of the world for your wallet
+>next food
+>you had no idea what Spanish cuisine was like but when in Rome
+>or wherever this is
+>you had enough gold to buy a hundred meals from the sleepy little restaurant 
+>again, no one batted an eye at the two weird Americans 
+>unsurprisingly, they had seafood
+>so seafood it was
+>Ash was worried by the sticker shock of the place but you reminded him it was a vacation
+>tough times were over
+>you were a little surprised when Ash ordered the largest steak possible
+>not the price or anything
+>just
+>he was a mouse
+>you expected like dainty or something
+>especially with the whole girlish figure 
+>a steak almost the size of your head was rolled out
+>as was your scallop garlic dish
+>you breathed a sigh of relief as you finally got to cut loose after that cultist shit
+>you barely even flinched at Spanish now
+>this really did feel like a vacation now
+>Ash wolfed down his steak with a zeal you'd only seen in lions on nature specials 
+>though he was careful not to dirty his new top
+>you brought up what his surprise was
+>he said it was supposed to be a surprise 
+>so no reveal until he was ready
+>well, you could be patient 
+>the food was good, definitely better than when you were foraging 
+>you'd have to hit a market eventually just so you weren't eating out all the time
+>"you meant what you said earlier. all the stuff about going steady? like, with me?"
+>you almost made a joke about who else you could refer to, the mouse in his pocket?
+>but you felt like the first cheese pun had already pushed it
+>you said yes and placed your hand over his
+>you could feel the armor under his light fur 
+>he was no doubt still self conscious about that
+>but he was worth it
+>maybe you were weird for falling like this
+>you'd never had much luck earlier with romance
+>he seemed just as hapless
+>good luck you were both on equal footing
+>you nearly bolted out of your chair when you felt something slip up your pants leg
+>all the while, Ash innocently ate his steak next to you
+>you tried to get his attention without causing a scene 
+>there were two other patrons at other tables
+>you finally gently nudged him and when he realized the issue he became embarrassed 
+>the tentacle retreated back to its master
+>that was close
+>the thing had been slipping around your dick 
+>after the meal you headed to the market
+>they had supplies for a while and you grabbed essentials the hotel didn't have 
+>Ash did in fact light up when you handed him a half wheel of local cheese
+>they didn't exactly have a whole lot in the way of protection
+>you felt slightly nervous buying condoms but they would have to do
+>you got some deodorant and he looked confused
+>you remarked on him smelling you and he nearly fell over 
+>his voice was a whisper as he replied
+>"I was doing that because I like your smell"
+>that was a weird thing to like
+>he smelled nice but you'd never considered yourself to smell good
+>well as long as he liked it
+>then he saw the condoms and tried not to get antsy
+>you got them because they were lubed
+>the place didn't have any sort of weird kinky shit so you'd have to just use those
+>he knew full well what you had planned 
+>he had the same plans though
+>carrying a bunch of bags to your room was easy
+>Ash even helped with some of it
+>you apparently weren't allowed to even gaze at one of the bags
+>must be the surprise
+>you put the stuff away and took your shoes off
+>time to relax a little
+>your head hit the pillow and a mattress never felt better
+>your thoughts were interrupted when Ash saw you on the bed
+>it must have induced something in him because his disguise immediately vanished
+>the red eyes returned
+>just lying on the bed? 
+>was he that affected?
+>judging by the tent in his new skirt and how quickly he crossed the room, he was
+>the mouse boy straddled your lap immediately and his tentacles came out to play again
+>there were more now
+>you counted eight
+>you asked if he was really OK 
+>that seemed to calm him
+>his eyes returned to blue
+>"yeah, sorry. I just saw you here and my mind just… wandered?"
+>a tentacle had slipped into your pants and began playing with your dick
+>"you. do you mind if we? you know?"
+>a single sharp claw drew a little heart outline over your chest as the weird little tentacles desperately fought against their master's reins 
+>his eyes were like the ocean and pleaded with you
+>his bare ass straddled your lap as his skirt was toyed with by the naughty limbs
+>"please?"
+>you even got a view of his throbbing manhood, dripping pre onto your new shirt
+>he was the strange combination of a delicate flower and untamed beast
+>you slightly hesitated at letting Ash off his leash, so to speak
+>you saw him let go earlier in the shower
+>you worried for him
+>the tentacle in your pants was really putting up a convincing debate
+>so you comprised 
+>you wanted to make sure, really sure, he was still Ash and it would stay that way
+>he was probably annoyed with you asking about his identity as frequently as you have
+>but you just didn't want to lose him to this
+>you asked him to promise he'd tell you if he had any more changes
+>he didn't notice the other tentacles until you pointed it out
+>makes sense
+>you don't pay mind to your arms all the time
+>he looked back to you after surveying the new additions
+>"I get it."
+>he rubbed down on your lap and groaned
+>"but…"
+>his eyes locked with yours as he stopped his hips from moving
+>"I wouldn't let this thing hurt you."
+>you replied you were more worried about him
+>"I count breaking your heart as hurting you…"
+>the mouse boy used his furred hand to slick his hair back as he fought to keep himself together
+>"please keep your promise though, please?"
+>the tentacles shoved his top up and undid his skirt
+>you had a 110 pound tiger in your lap and he needed to hear you utter the word go
+>maybe that was a good sign he was still him
+>"it's like there there's this burning in me"
+>you were still a little hesitant 
+>tentacles roamed towards the the nightstand and grabbed the condom box
+>they gently placed the box on your chest
+>"pretty please~"
+>the mouse pleaded to you
+>his eyes, even with the red, really were his
+>the armored palm rested on your abdomen 
+>the mouse had you were he wanted you
+>to his credit he really seemed to hold himself back
+>the twink mouse was a coiled spring
+>Ash's tail seemed raised in anticipation 
+>maybe he knew you'd say yes
+>tempted didn't begin to cover how you felt
+>he was gorgeous right now
+>so you finally agreed
+>but only on the condition he be careful with his condition
+>he promised then quickly snatched a condom from the package
+>Ash decided to impress you by handing off the condom off to himself 
+>his new appendages undid your pants, slid them down, and deftly slid the condom onto your manhood
+>all without looking over his shoulder
+>ok, you were impressed
+>you didn't have time to caution him before he impaled himself without a single doubt
+>just slammed all his weight down onto it
+>holy shit
+>he was like a vice
+>he screamed your name as the sensation washed over you both
+>he wasted no time recovering 
+>you were shocked how quickly he decided to jackhammer down on your dick
+>your hands went for his hips in some attempt to control him 
+>his hips rolled with every slam
+>there was a frantic energy burning though him
+>he moaned and softly cooed your name
+>begged you with every slam
+>his muzzle brushed over your neck as he leaned in
+>he wanted to kiss
+>all the while his legs refused to keep working
+>he might just be the most dangerous challenge you'd ever faced
+>you didn't expect this sudden rough treatment
+>not from the same guy that got jittery with having his shirt off 
+>his tongue snuck past your lips
+>you were here for the ride and he was hard to control
+>your playmate decided to ride you harder and harder
+>his enthusiasm was overwhelming 
+>your first time with Ash was rough and violent
+>within minutes of his start he broke the kiss to cry out
+>his cum splattered in thick ropes, shooting as far as your neck
+>his body shuddered as he rode the high of his first prostate orgasm
+>only after did he relax
+>you let him breath 
+>his voice was soft in your ear
+>"I needed that"
+>however 
+>you had the condom preventing you from the hair trigger of the mouse boy
+>not for lack of trying
+>his ass was still clenching at you
+>so you asked if he was OK to keep going
+>he faintly nodded and kissed at your neck
+>your grip on his hips tightened and you set the pace this time
+>he groaned and moaned the whole time
+>tentacles gently rolled over you, gripping you
+>"one small request," he managed to get out
+>you asked just what he wanted
+>"no more condoms" 
+>given how good he felt now, you were inclined to agree
+>"like right now"
+>he pulled himself off your dick and tentacles deftly tore the rubber off and slunk it into a nearby trash can
+>he was getting better at controlling them now
+>he didn't hesitate in driving himself back down on your dick
+>his clawed hand awkwardly balanced him, lightly clasped around your throat
+>if he was a danger, well
+>he could probably kill you
+>instead he was rolling his his with your thrusts 
+>moaning your name alongside sweet long drawn out expletives 
+>pretty sure this was the most you'd heard the mouse boy swear
+>wasn't even this much of a potty mouth when you fought those giants
+>with the condom lube still there you still had some ease of pistoning into him
+>without the condom though
+>holy shit was it intense 
+>the thin rubber had shielded you from the best of it
+>in regards to his current condition maybe protected sex was better 
+>but it sure didn't feel as good as this 
+>you lost track of how long it took to flood his insides with cum
+>he instantly shivered and clung tighter to you
+>your climax had induced another smaller one in him
+>only then did your dick soften and unceremoniously slip out of his clutch 
+>you both were ragged
+>his smile couldn't be hidden and you saw a return to his blue eyes
+>your arms curled around him and he buried his face against your neck
+>those tentacles continued to gently attempt to embrace you like his arms now did
+>you hoped he liked his first time
+>after all you'd been through, you both passed out in a messy heap
+>after all that, all the hell, this felt like heaven
+>you'd never felt this content before
+>it was like all the danger and stress vanished
+>you dreamed and slept
+>the warmth of the boy laying on you served as a blanket
+>he had let go after all of the same hell you went through
+>this moment was a culmination and a release valve for you both
+>you didn't remember when you woke up
+>it was dark out
+>you saw from the balcony window
+>you needed that rest
+>he had buried his face against your chest
+>his warm cheek up against your bicep
+>when he finally awoke, he gently stirred 
+>his claws were like little needles as he flexed
+>you noticed the tentacles stirred with him too
+>he went to roll off you and yelped
+>you jumped and asked what was wrong
+>he flopped face first on the bed and rubbed his ass
+>well that explained that
+>bit off more than he could chew
+>he groaned but you figured he'd be ok
+>a subconscious reflex had his tentacles grasp out for you
+>you made sure he was OK, kissing him on the head
+>you broke the embrace to clean up a little in the bathroom
+>you checked the freezer and there was an ice pack
+>wrapping it in a towel, you had Ash sit on it
+>you told him he'd have to be gentler next time
+>"next time?" 
+>he had a wry smile as he placed his ass on the towel
+>you grabbed a cheese wheel and a knife 
+>dinner was served
+>you wanted a next time and he knew he had you right where he wanted
+>you sat down next to him on the bed and you shared the cheese in a warm quiet
+>he leaned on your shoulder
+>his big ears brushed against your face as he relaxed 
+>he looked down at his body and quietly remarked to himself
+>"if this got me you, it was worth it."

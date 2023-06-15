@@ -3,13 +3,14 @@
 
 ->**Written by [Alpin](https://github.com/AlpinDale)**<-
 ->**Inspired by [/hdg/'s LoRA train rentry](https://rentry.org/lora_train)**<-
-!!!warning Work in Progress
-    As of now, only the fine-tuning guide is almost complete. More will be added soon.
 
 The Table of Content on rentry is terrible, so I'll be linking to the different main sections here:
 
-1. [Native Fine-Tuning](https://rentry.org/llm-training#native-fine-tuning)
-2. LoRA
+- [Native Fine-Tuning](https://rentry.org/llm-training#native-fine-tuning)
+- [LoRA](https://rentry.org/llm-training#low-rank-adaptation-lora_1)
+- [QLoRA](https://rentry.org/llm-training#qlora)
+- [Training Hyperparameters](https://rentry.org/llm-training#training-hyperparameters)
+- [Interpreting the Learning Curves](https://rentry.org/llm-training#interpreting-the-learning-curves)
 
 ---
 
@@ -373,7 +374,7 @@ accelerate launch \
 - `--num_train_epochs`: how many times should the train run cycle through the data. 1 would mean once, and 2 would mean go through the entire dataset twice.
 
 
-This is not the end, though. You will need to pay close attention to the loss curves to diagnose whether your model is, at any point, underfit, overfit or well-fit. And for why did we choose those specific numbers in the flags above. The next sections will discuss these in detail. If everything went smoothly, you'll have the latest checkpoint saved in your specified output directory. You can now upload your newly fine-tuned model to HuggingFace! Congrats.
+This is not the end, though. You will need to pay close attention to the loss curves to diagnose whether your model is, at any point, underfit, overfit or well-fit. And for why did we choose those specific numbers in the flags above. Future sections will discuss these in detail, you can use the Table of Contents to navigate. If everything went smoothly, you'll have the latest checkpoint saved in your specified output directory. You can now upload your newly fine-tuned model to HuggingFace! Congrats.
 ***
 
 ## Low-Rank Adaptation (LoRA)
@@ -472,11 +473,153 @@ accelerate launch \
     $@
 ```
 
-You might it's quite similar to the fine-tuning script, but with a few additions. Let's go through them.
+You might notice it's quite similar to the fine-tuning script, but with a few additions. Let's go through them.
 
 ### LoRA hyperparameters
 
-!!!danger This section is being worked on right now.
+#### LoRA Rank
+This determines the number of rank decomposition matrices. Rank decomposition is applied to weight matrices in order to reduce memory consumption and computational requirements. The original [LoRA paper](https://arxiv.org/pdf/2106.09685.pdf) recommends a rank of 8 (`r = 8`) as the minimum amount. Keep in mind that higher ranks lead to better results and higher compute requirements. The more complex your dataset, the higher your rank will need to be. 
+
+To match a full fine-tune, you can set the rank to equal to the model's hidden size. This is, however, not recommended because it's a massive waste of resources. You can find out the model's hidden size by reading through the `config.json` or by loading the model with [Transformers](https://github.com/huggingface/transformers)'s `AutoModel` and using the `model.config.hidden_size` function:
+```python
+from transformers import AutoModelForCausalLM
+model_name = "huggyllama/llama-7b"		# can also be a local directory
+model = AutoModelForCausalLM.from_pretrained(model_name)
+hidden_size = model.config.hidden_size
+print(hidden_size)
+```
+
+#### LoRA Alpha
+!!!warning I'm not 100% sure about this :D
+This is the scaling factor for the LoRA, which determines the extent to which the model is adapted towards new training data. The alpha value adjusts the contribution of the update matrices during the train process. Lower values give more weight to the original data and maintain the model's existing knowledge to a greater extent than higher values.
+
+#### LoRA Target Modules
+Here you can determine which specific weights and matrices are to be trained. The most basic ones to train are the Query Vectors (e.g. `q_proj`) and Value Vectors (e.g. `v_proj`) projection matrices. The names of these matrices will differ from model to model. You can find out the exact names by running the following script:
+
+```python
+from transformers import AutoModelForCausalLM
+model_name = "huggyllama/llama-7b"		# can also be a local directory
+model = AutoModelForCausalLM.from_pretrained(model_name)
+layer_names = model.state_dict().keys()
+
+for name in layer_names:
+    print(name)
+```
+This will give you an output like this:
+```python
+model.embed_tokens.weight
+model.layers.0.self_attn.q_proj.weight
+model.layers.0.self_attn.k_proj.weight
+model.layers.0.self_attn.v_proj.weight
+model.layers.0.self_attn.o_proj.weight
+model.layers.0.self_attn.rotary_emb.inv_freq
+model.layers.0.mlp.gate_proj.weight
+model.layers.0.mlp.down_proj.weight
+model.layers.0.mlp.up_proj.weight
+model.layers.0.input_layernorm.weight
+model.layers.0.post_attention_layernorm.weight
+
+...
+
+model.norm.weight
+lm_head.weight
+```
+The naming convention is essentially: `{identifier}.{layer}.{layer_number}.{component}.{module}.{parameter}`.  Here's a basic explanation for each module (keep in mind that these names are different for each model architecture):
+- `up_proj`: The projection matrix used in the upward (decoder to encoder) attention pass. It projects the decoder's hidden states to the same dimension as the encoder's hidden states for compatibility during attention calculations.
+- `down_proj`: The projection matrix used in the downward (encoder to decoder) attention pass. It projects the encoder's hidden states to the dimension expected by thr decoder for attention calculations.
+- `q_proj`: The projection matrix applied to the query vectors in the attention mechanism. Transforms the input hidden states to the desired dimension for effective query representations.
+- `v_proj`: The projection matrix applied to the value vectors in the attention mechanism. Transforms the input hidden states to the desired dimension for effective value representations.
+- `k_proj`: The projection matrix applied to the key vectors blah blah.
+- `o_proj`: The projection matrix applied to the output of the attention mechanism. Transforms the combined attention output to the desired dimension before further processing.
+
+There are, however, three (or 4, if your model has biases) outliers. They do not follow the naming convention specified above, foregoing the layer name and number. These are:
+
+- **Embedding Token Weights** `embed_tokens`: Represents the params associated with the embedding layer of the model, usually placed at the beginning of the model as it serves to map input tokens or words to their corresponding dense vector representations. **Important to target if your dataset has custom syntax.**
+- **Normalization Weights** `norm`: The normalization layer within the model. Layer or batch normalizations are often used to improve the stability and converge of deep neural networks. These are typically placed within or after certain layers in the model's architecture to mitigate issues like vanishing or exploding gradients and to aid in faster training and better generalization. Generally not targeted for LoRA.
+- **Output Layer** `lm_head`: The output layer of a language modeling LLM. It's responsible for generating predictions or scores for the next token based on the learned representations from the *preceding* layers. Placed at the bottom. **Important to target if your dataset has custom syntax.**
+
+## QLoRA
+QLoRA (Quantized Low Rank Adapters) is an efficient finetuning approach that reduces memory usage while maintaining high performance for large language models. It enables the finetuning of a 65B parameter model on a single 48GB GPU, while preserving full 16-bit finetuning task performance.
+
+The key innovations of QLoRA include:
+
+- Backpropagation of gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA).
+- Use of a new data type called 4-bit NormalFloat (NF4), which optimally handles normally distributed weights.
+- Double quantization to reduce the average memory footprint by quantizing the quantization constants.
+- Paged optimizers to effectively manage memory spikes during the finetuning process.
+
+The best-performing model family resulting from QLoRA, called [Guanaco](https://huggingface.co/timdettmers/guanaco-33b-merged), outperforms most models. It achieves 99.3% of the performance level of ChatGPT while requiring only 24 hours of finetuning on a single GPU.
+
+QLoRA enables the finetuning of more than 1,000 models, allowing for a detailed analysis of instruction following and chatbot performance across various datasets, model types (LLaMA, T5), and model scales. The approach consistently achieves state-of-the-art results, even with smaller models than previous state-of-the-art methods.
+
+The research team also provides a detailed analysis of chatbot performance using both human and GPT-4 evaluations. GPT-4 evaluations prove to be a cost-effective alternative to human evaluation. Additionally, the study highlights the limitations of current chatbot benchmarks in accurately evaluating chatbot performance. For more details, [read the paper](https://arxiv.org/abs/2305.14314).
+
+### Dataset structure
+The training procedure for QLoRA will be mostly similar to LoRA with some small changes. Namely, you don't need to pre-process your dataset. You will, however, need to have your dataset in, ideally, jsonlines format. It's recommended to create a jsonlines file with `input-output` objects. Here's an example:
+
+```json
+{"input": "<|system|>Assistant, engage instruction following and question answering mode. You are bound to generating text, and cannot perform any other actions.<|user|>What is the main component of hydrogen peroxide, and can you provide a detailed explanation of its molecular structure and chemical properties while also considering the impact of environmental factors on its stability and reactivity?<|model|>", "output": "The main component of hydrogen peroxide is H2O2, which is a simple molecule consisting of two hydrogen atoms and two oxygen atoms. The molecular structure of hydrogen peroxide is characterized by a single bond between the two oxygen atoms, and each oxygen atom is also bonded to a hydrogen atom. The molecule has a bent structure due to the lone pairs of electrons on the oxygen atoms.\nHydrogen peroxide is a powerful oxidizing agent and can react with a wide range of substances, including metals, organic compounds, and inorganic compounds. When hydrogen peroxide reacts with another substance, it typically loses one of its oxygen atoms, forming water and an oxygen molecule. This reaction is exothermic and can release a significant amount of energy.\nThe stability and reactivity of hydrogen peroxide can be affected by environmental factors such as temperature, pH, and the presence of other substances. At higher temperatures, hydrogen peroxide can decompose more rapidly, which can be dangerous. Acidic or basic conditions can also affect the stability of hydrogen peroxide, and it can react with other substances such as metals or organic compounds to form potentially hazardous products.\nIn summary, hydrogen peroxide is a powerful oxidizing agent with a simple molecular structure consisting of two hydrogen atoms and two oxygen atoms. Its reactivity and stability can be influenced by environmental factors such as temperature, pH, and the presence of other substances."}
+```
+Once you have your dataset, generate a train-eval split. You can use the script provided [here](https://rentry.org/llm-training#generating-train-and-validation-splits). Once you have your dataset, place them in a directory you can easily remember. 
+
+### QLoRA fine-tuning
+#### Setting up the environment
+
+You can follow the LoRA guide's environment setup guide up until step 6. Clone this repo instead:
+- `git clone https://github.com/artidoro/qlora && cd qlora`
+- `pip install -r requirements.txt`
+
+#### Add support for custom dataset
+The official QLoRA code has built-in support for multiple open-source datasets, but you can easily use a custom dataset, assuming you've formatted the data in the `input-output` object pair format. Otherwise, you'll need to manually add support (which isn't very hard).
+
+### Start the train run
+
+You can start your run with this example script:
+
+```sh
+export WANDB_PROJECT="qlora-33b"
+export HF_DATASETS_CACHE="/path/to/cache/directory"
+python qlora.py \
+    --model_name_or_path huggyllamma/llama-33b \
+    --output_dir ./metharme-33b \
+    --dataset /path/to/dataset/directory \
+    --dataset-format input-output \
+    --train_on_source True \
+    --learning_rate 0.000075 \
+    --warmup_steps 0 \
+    --num_train_epochs 1 \
+    --do_train True \
+    --do_eval True \
+    --do_mmlu_eval False \
+    --bf16 True \
+    --bits 16 \
+    --source_max_len 2500 \
+    --target_max_len 2500 \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 1 \
+    --logging_first_step true --logging_steps 1 \
+    --save_steps 100 \
+    --eval_steps 10 \
+    --save_strategy steps \
+    --save_total_limit 2 \
+    --data_seed 41 \
+    --per_device_eval_batch_size 1 \
+    --fp16_full_eval \
+    --evaluation_strategy steps \
+    --max_memory_MB 48000 \
+    --optim paged_adamw_32bit \
+    --report_to "wandb" \
+```
+You might be seeing a couple of new hparams. Let's quickly go through them:
+
+- `--train_on_source`: Whether to train on the `input` field of your dataset as well as the `output`. This is set to false by default as a design choice, but we generally want to train on the input as well.
+- `--bits`: The datatype used for the linear layer computations. Options are `16`, `8`, and `4`. Higher values results in more memory requirement but better results.
+- `--source_max_length`: The maximum number of tokens to be taken into account in the `input` field; sequences that exceed this value will be truncated.
+- `--target_max_len`: The maximum number of tokens to be taken into account in the `output` field; sequences that exceed this value will be truncated.
+- `--max_memory_MB`: The maximum amount of memory to use per GPU. Use this if you're running on multi-GPU setups to prevent overloading a single GPU.
+- `--optim paged_adamw_32bit`: Performs automatic page-to-page transfers between the CPU and GPU for error-free GPU processing in the scenario where the GPU occasionally runs out-of-memory. Saves memory.
+
+Read the following sections for an explanation of other relevant hyperparameters, as well as guides for interpreting the learning curves,
 
 ## Training Hyperparameters
 Training hyperparameters play a crucial role in shaping the behaviour and performance of your models. These hparams are settings that guide the training process, determining how the model learns from the provided data. Selecting appropriate hparams can significantly impact the model's convergence, generalization, and overall effectiveness.

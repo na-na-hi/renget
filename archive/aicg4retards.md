@@ -262,7 +262,7 @@ Now that you know what the different prompt do and are best for. Let's go over a
 ### Generation Settings
 ->Generations<- |
 - |
-Whether you're using TavernAI, one of its forks, or Agnai, each front-end has access to generation settings. These settings are used to control how the AI generates text, unlike the prompt, which controls what the AI generates. These settings are easy to misunderstand, and slight changes can either make the text incomprehensible or improve it. I will briefly explain the settings, but you can always leave them at default if you don't want to adjust them. Note that certain services, such as Scale, do not allow front-ends to change settings, so changing them will have no effect. However, for OpenAI keys, changing the settings will work. |
+Whether you're using TavernAI, one of its forks, or Agnai, each front-end has access to generation settings. These settings are used to control how the AI generates text, unlike the prompt, which controls what the AI generates. These settings are easy to misunderstand, and slight changes can either make the text incomprehensible or improve it. I will briefly explain the settings, but you can always leave them at default if you don't want to adjust them. Note that these settings will only work if you're connected to a AI service with API Keys. Using something like Slack or Slaude will not be affected by these settings.|
 
 OpenAI Context Size |
  - |
@@ -288,10 +288,10 @@ Temperature | Frequence Penalty | Presence Penalty
 ## Git Installation
 ‎ |->Installing Git<- | ‎ 
 - | :- | -
-| ->Git is a tool that lets you to download, update, and temporarily store code from a repository. Repositories like SillyTavern and Agnai. Obviously this tool has more use than that, but a Retard only needs to know the immediate purpose a tool serves him. Nothing more. I'm assuming you retards are using Windows.<-
+| Git is a tool that lets you to download, update, and temporarily store code from a repository. Repositories like SillyTavern and Agnai. Obviously this tool has more use than that, but a Retard only needs to know the immediate purpose a tool serves him. Nothing more. I'm assuming you retards are using Windows.
 1 | Go to https://git-scm.com/downloads and download Git for **![Windows](https://i.imgur.com/YQl0wqH.png) Windows.** Then select **64-bit Git for Windows Setup**, if you're using a potato, then 32-bit is an option. Both are fine, you'll get warning about life expectancy w/ 32 bit.
 2 | Now run and install **Git-2.40.1-64-bit.exe**; During installation, you'll be presented with many options. For this use case, I recommend you disable **[Windows Explorer Intregration](https://i.imgur.com/RazjlzS.gif)**, as this will add git bash and git to your context menu. Unnecessary. And for the rest of the installation just click **Next** until installation is finished.
- | ->Now you have git installed! And can use commands to quickly download, update and automate Installations! How do you use it? With a console! Open up your start menu and opem Command Prompt (*cmd*), then you can use `git` command to perform variety of things, for now though, just type `git --version` to have console tell you which version you're running. You can close the console and now follow git install instructions for ![Agnai](https://rentry.org/Aicg4Retards#Installing-Agnai) or [SillyTavern](https://rentry.org/Aicg4Retards#quick-install-sillytavern).<-
+3 | Now you have git installed! And can use commands to quickly download, update and automate Installations! How do you use it? With a console! Open up your start menu and open Command Prompt (*cmd*), then you can use `git` command to perform variety of things, for now though, just type `git --version` to have console tell you which version you're running. You can close the console and now follow git install instructions for [Agnai](https://rentry.org/aicg4retards#installing-agnai) or [SillyTavern](https://rentry.org/Aicg4Retards#quick-install-sillytavern).
 
 ‎  | [Visual Video Aid](https://streamable.com/yk1lpg) | ‎ 
 :-: | :-: | :-:

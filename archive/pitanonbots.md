@@ -4,13 +4,14 @@
 ### Indiana Koi
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
-Nina | (5/6/2023) | https://www.chub.ai/characters/pitanon/Nina | ![](https://files.catbox.moe/3c62eg.png)
 Suzume | (10/6/2023) Added alternative greeting | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/6/2023 | https://www.chub.ai/characters/pitanon/suzumes-livestream-chat | https://files.catbox.moe/s4zwuj.png
+Nina | (5/6/2023) | https://www.chub.ai/characters/pitanon/Nina | ![](https://files.catbox.moe/3c62eg.png)
  
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
+Mimi | (14/6/2023) | https://www.chub.ai/characters/pitanon/Mimi | ![](https://files.catbox.moe/fjg5vq.png)
 Aya | (2/6/2023) | https://www.chub.ai/characters/pitanon/Aya | ![](https://files.catbox.moe/ok3qbv.png)
 
 ### Re:Zero Adventure Cards
@@ -61,3 +62,4 @@ ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
 |---|---|
 Nina | https://files.catbox.moe/8i50m3.zip
 Suzume | https://files.catbox.moe/kyttbm.zip https://files.catbox.moe/7yb8ms.zip https://files.catbox.moe/apg4jf.zip
+Mimi | https://files.catbox.moe/wrkp64.zip https://files.catbox.moe/u4st5i.zip

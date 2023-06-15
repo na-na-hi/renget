@@ -701,7 +701,7 @@ As the darkness began to take over the sky, a group of fire Pokémon mobilized t
 
 *(Oh, there's a Pangoro! Looks fluffy.)*
 
-*(A Delibird! Always liked that one. Uh... why are they looking at the Pelippers' post office a pair of binoculars?)*
+*(A Delibird! Always liked that one. Uh... why are they looking at the Pelippers' post office with a pair of binoculars?)*
 
 *(Man, Garbodor looks even uglier IRL.)*
 

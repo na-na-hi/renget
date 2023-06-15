@@ -6,6 +6,7 @@ Cards:
 
 Mario & Luigi: https://www.chub.ai/characters/CuteAnon/mario-and-luigi/main
 Paper Mario: https://www.characterhub.org/characters/Anonymous/paper-mario
+Fox McCloud: https://www.chub.ai/characters/CuteAnon/fox-mccloud
 Murasa Minamitsu: https://www.characterhub.org/characters/Anonymous/murasa-minamitsu
 Starborn: https://www.characterhub.org/characters/Anonymous/Starborn
 

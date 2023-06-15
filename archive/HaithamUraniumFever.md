@@ -70,7 +70,7 @@
 
 ![Haitham Montcroix CMC Sheet](https://files.catbox.moe/6i544n.png)
 
-![Haitham Montcroix Aesthetic Sheet](https://files.catbox.moe/u0rvfz.png)
+![Haitham Montcroix Aesthetic Sheet](https://files.catbox.moe/61y41j.png)
 
 ![Haitham Montcroix Combat Sheet](https://files.catbox.moe/9ejf4w.jpg)
 

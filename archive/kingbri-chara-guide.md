@@ -79,6 +79,10 @@ To access author's notes in SillyTavern (currently works per-chat or globally, b
 
 ![stANpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-AN.png?raw=true)
 
+### Per-character Author's Notes
+
+I recently PR'ed a change into SillyTavern's dev branch which adds per-character author's note support. Stay tuned!
+
 ## Example Character
 
 Today, we'll be using my OC Manami. The main reason is because she's the character I spent a long time creating and she's the perfect example for this guide.
@@ -111,14 +115,14 @@ Character's body = [ traits]
 The new format should look like this:
 
 ```text
-[ Character= traits; Character's clothes= traits; Character's body= traits; Genre= genre; Tags= tags; Scenario= scenario]
-[ Extra PList 1= traits; Extra PList 2= traits]
+[ Character: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
+[ Extra PList 1: traits; Extra PList 2: traits]
 ###
 ```
 
 You can see how compressed that looks! A lot of the fields after character traits are completely optional. For Manami, I decided to keep clothes and body traits because I believe they're important to her RP. However, style, genre, etc. tags didn't really do much since I elaborated on those in Ali:Chat.
 
-If you don't want to use `=`, you can also use `:`. They're interchangeable.
+If you don't want to use `:`, you can also use `=`. They're interchangeable. However, `:` is supported on more LLaMA model derivatives.
 
 The overall goal here is to leave it to the AI for generating new scenarios based on what you provide. For that, it needs more context and therefore more optimization. Rather than creating more arrays which can prevent leaks, semicolons are used to indicate the end of one tag section and the beginning of another.
 
@@ -130,7 +134,7 @@ The overall goal here is to leave it to the AI for generating new scenarios base
 These traits describe your character's personality, clothes, body, and anything else that you want to indicate. This can also involve relationships with the user. Here's how I tend to format this section of the PList:
 
 ```text
-[ Character= personality keywords, complicated traits, hobbies/likes/dislikes, relationships to {{user}}]
+[ Character: personality keywords, complicated traits, hobbies/likes/dislikes, relationships to {{user}}]
 ```
 
 ### Complicated traits
@@ -154,20 +158,26 @@ You may want to include some extra sections to your PList for further descriptiv
 - Tags - Any extra tags you want to include?
   
 - Scenario - What's a one-sentence description of the scenario? (Make sure to use `{{user}}` and `{{char}}` instead of the explicit names or second person)
-  
+
+!!! info
+	My recommendation is to keep the outfit and body categories, merge genre with tags, and keep a short scenario.
 
 I stated this at the top of the PList section, but here's what the overall format will look like if these sections are included.
 
 ```text
-[ Character= traits; Character's clothes= traits; Character's body= traits; Genre= genre; Tags= tags; Scenario= scenario]
+[ Character: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
 ```
 
 !!! info
-    If you want something like alternative outfits, world info is your best friend! You can include words that will trigger example dialogues to be injected rather than increasing the token count of your PList.
+    If you want something like alternative outfits, world info/lorebooks in SillyTavern is your best friend! You can include words that will trigger example dialogues to be injected rather than increasing the token count of your PList.
 
 !!! note Here is Manami's full PList (Her environment is also included here)
-    [ Manami= extroverted, tomboy, athletic, intelligent, caring, kind, sweet, honest, happy, sensitive, selfless, enthusiastic, silly, curious, dreamer, inferiority complex, doubts her intelligence, makes shallow friendships, respects few friends, loves chatting, likes anime and manga, likes video games, likes swimming, likes the beach, close friends with {{user}}, classmates with {{user}}; Manami's clothes= dark purple hoodie, blue jeans, pink sneakers; Manami's body= young woman, fair-skinned, light blue hair, short hair, messy hair, blue eyes, magenta nail polish]
-    [ Bluudale= big city; Bluudale Park= city park, has many trees, jogging trail, has tables with benches, fountain in center; BDIT= college of technology, respected by physicists, very competitive]
+    [ Manami: extroverted, tomboy, athletic, intelligent, caring, kind, sweet, honest, happy, sensitive, selfless, enthusiastic, silly, curious, dreamer, inferiority complex, doubts her intelligence, makes shallow friendships, respects few friends, loves chatting, likes anime and manga, likes video games, likes swimming, likes the beach, close friends with {{user}}, classmates with {{user}}; Manami's clothes: mint-green blouse, denim shorts, flats; Manami's body: young woman, fair-skinned, light blue hair, short hair, messy hair, blue eyes, magenta nail polish; Tags: slice of life, casual, city, park; Scenario: {{user}} is a resident of Bluudale and is classmates with {{char}} at BDIT. {{user}} on a morning jog runs into {{char}} at Bluudale park. {{char}} wants {{user}}'s help with studying for the next quantum physics exam.]
+    [ Bluudale: big city; Bluudale Park: city park, has many trees, jogging trail, has tables with benches, fountain in center; BDIT: college of technology, respected by physicists, very competitive]
+
+## World Info/Lorebooks
+
+We're working on a standard format guide. Check back soon!
 
 ## Ali:Chat
 
@@ -175,10 +185,13 @@ I'm not going to go in-depth for Ali:Chat examples. For that, you should look at
 
 The main goal for Ali:Chat is to have examples that reinforce the tagged traits in PLists. Not all traits need to be reinforced, just ones that you think are important to highlight in a character.
 
+These examples will be the only thing located in your character description. Therefore, tokens matter here!
+
 !!! info
     It's great to use Ali:Chat to expand on any complicated traits. Sometimes reinforcement really helps iron out the specifics.
 
-These examples will be the only thing located in your character description. Therefore, tokens matter here!
+!!! note Got lore?
+	Lore is great for a character! In fact, it is essential if you want to have a complicated character. However, extensive lore does not belong inside of the character description. You may want to put that in world info (which is now renamed to world info/lorebooks in ST dev)!
 
 ### Formatting guidelines
 
@@ -202,7 +215,8 @@ Since Ali:Chat is literally writing a paragraph on what your character will say 
 Example prompts about appearance are extremely important as they help introduce and reinforce what the character looks like. Personality is a great spot to increase descriptiveness of complicated traits. For NSFW, make the `Appearance` prompt as erotic as possible since that will give you the best results.
 
 !!! info
-    Remember: You have a limit of 300-600 tokens total for Ali:Chat examples. This is a soft limit, but lower the better.
+	You have a limit of 300-600 tokens total for Ali:Chat examples. This is a soft limit, but lower tokens will allow more chat history. Think about what you will chat about with your character.
+	Also, think about what you will chat about with your character.  Ask yourself "Is what I'm typing too descriptive?" If you are being too descriptive, consider putting details in PLists or world info and make the Ali:Chat focus on interaction.
 
 !!! note Here's Manami's Ali:Chat examples
     {{user}}: Brief life story?
@@ -217,8 +231,8 @@ Example prompts about appearance are extremely important as they help introduce 
 Your overall character card should look like this:
 
 ```text
-[ Character= traits; Character's clothes= traits; Character's body= traits]
-[ Extra PList 1= traits; Extra PList 2= traits]
+[ Character: traits; Character's clothes: traits; Character's body: traits]
+[ Extra PList 1: traits; Extra PList 2: traits]
 ###
 {{user}}: Example 1
 {{char}}: Example 1 response
@@ -264,8 +278,8 @@ Character description:
 Author's Note:
 
 ```text
-[ Character= traits; Character's clothes= traits; Character's body= traits]
-[ Extra PList 1= traits; Extra PList 2= traits]
+[ Character: traits; Character's clothes: traits; Character's body: traits]
+[ Extra PList 1: traits; Extra PList 2: traits]
 ###
 ```
 

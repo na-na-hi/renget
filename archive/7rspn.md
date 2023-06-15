@@ -1,4 +1,27 @@
 ▶NEW CLIPS
+>AFU T-72 hit by drone, crushes MaxxPro
+https://files.catbox.moe/l8zij5.mp4
+>360 no scope headshot with arty
+https://files.catbox.moe/jrmp3p.mp4
+>Ka-52 vs MRAP
+https://files.catbox.moe/bph9m5.mp4
+>POV Killing hohols
+https://files.catbox.moe/uphw30.mp4
+>Russians storming trench
+https://files.catbox.moe/p5d7ul.mp4
+>Attack Helo KINO
+https://files.catbox.moe/153euv.mp4
+>Russian Tankers 1385 meter Bradley target practice
+https://files.catbox.moe/pyl0ne.mp4
+>Counter Offensyiiv™ body count (not comfy)
+https://files.catbox.moe/pa8y7i.MP4
+>Russians capturing Leo and Bradley's (translated)
+https://files.catbox.moe/om6fgw.webm
+>Another lost Leopard
+https://files.catbox.moe/520nve.MP4
+>Mudway of Death, lost Leopards and Mineweepers
+https://files.catbox.moe/rbodmr.mp4
+https://files.catbox.moe/q17g1n.mp4
 >“Gorynych Serpent” (UR-77) working Kremensk Forest
 https://files.catbox.moe/6q6foi.mp4
 >Hohols near Bakhmut

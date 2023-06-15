@@ -1,4 +1,4 @@
--> Last update: 2023-05-26 ->
+-> Last update: 2023-06-14 ->
 # /&Tactical/ 
 ---
 
@@ -1302,7 +1302,7 @@ Silent Storm Gold edition includes the Silent Storm: Sentinels expansion.
 
 >Download [original X-COM files required to run OpenXcom via /&tg/ repo](https://pixeldrain.com/l/bk982HLa)
 
->Download [OpenXcom Advanced](https://openxcom.org/forum/index.php/topic,5258.0.html) [(enhanced fork, more info here)](https://openxcom.org/forum/index.php/topic,5251.0.html)
+>Download [OpenXcom Enhanced](https://openxcom.org/forum/index.php/topic,5258.0.html) [(enhanced fork, more info here)](https://openxcom.org/forum/index.php/topic,5251.0.html)
 >Alternatively, download [OpenXcom installer via project website](https://openxcom.org/git-builds/) (base version of the project, might be outdated)
 
 More information about OpenXcom on [OpenXcom wiki](https://www.ufopaedia.org/index.php/OpenXcom)
@@ -1318,7 +1318,7 @@ Various OpenXcom Extended mods suggested:
 * Reach: The Fall (Halo XCOM)...
 
 !!! note 3. Beginners resources:
-Consult [pic-related](https://i.imgur.com/F54Yu9h.jpg) for tactical UI. Go through options menus to customize your game. Commonly recommended ones are changing the scale to something you like, turning on Path preview for battlescape with time units, Custom initial base, and Alternate movement methods. Start a new game on Beginner, have fun.
+Consult [pic-related](https://i.imgur.com/F54Yu9h.jpg) for tactical UI. Go through options menus to customize your game. Commonly recommended ones are changing the scale to something you like, turning on Path preview for battlescape with time units, Custom initial base. Start on Beginner, have fun.
 
 ---
 

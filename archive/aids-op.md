@@ -1,12 +1,9 @@
-###Out of town until Monday - take care of the bread for me <3~
-
-
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/pPOHjMr.jpg)
-Worm Edition
+![suggested OP image](https://imgur.com/EZYp1L9.jpg)
+Saturn Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>432496330
+Last thread: >>433681208
  
 \>READ FIRST: https://i.imgur.com/yQjnzN3.png
 
@@ -34,16 +31,16 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶https://rentry.org/aids-op
  
 ▶News
-\>(06/05) Clio drops for all (tomorrow) https://i.imgur.com/qAKr00Q.mp4 ; https://docs.novelai.net
-\>(06/05) Kek https://emad.posthaven.com/on-setting-the-record-straight
-(06/04) Oof https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
-(06/01) Neat https://erichartford.com/uncensored-models ; Saga gets Claude: >>431617023 >>431616429 >>431618626 >>432044068
-(05/23) Phoenix a wrap https://i.imgur.com/0O3ZPIZ.jpg ; Anon's Saga guide: https://rentry.org/How-I-do-Saga
+\>(06/14) Saga gets STABLE LM! >>433695017 >>433696130
+(06/13) Turbo gets 16k Context but tightens smut filters https://openai.com/blog/function-calling-and-other-api-updates
+(06/11) Hidden Door announced at PC Gaming Show; corpo art galore https://www.hiddendoor.co/
+(06/06) Clio drops for all tiers; poorfags try Clio trial, unalive themselves.
+(06/05) Kek https://emad.posthaven.com/on-setting-the-record-straight ; https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write patient prompts for this week's theme, Waiting Friday!
+\>Theme suggestions for next week are being voted on! https://youpoll.me/103131
 
 
 ##Perma-Template

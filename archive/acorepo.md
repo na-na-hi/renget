@@ -572,8 +572,11 @@ https://civitai.com/models/20081/asari-diffusion-anime
 https://civitai.com/models/16091/liara-
 	- Samara
 https://civitai.com/models/88235/samara-mass-effect-lora
-- Cassandra (Dragon Age: Inquisition)
+- Dragon Age
+	+ Cassandra (Inquisition)
 https://civitai.com/models/85639/cassandra-dai
+	- Desire Demon
+https://civitai.com/models/90217?modelVersionId=96075
 - Rayne (BloodRayne)
 https://civitai.com/models/41867/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -735,6 +738,8 @@ https://civitai.com/models/23802/ray-caesar-style
 https://civitai.com/models/61074/james-fenner-jmfenner
 - Darius Kawasaky 
 https://civitai.com/models/15357/darius-kawasaky-style
+- Edouard Benedictus
+https://civitai.com/models/90227/benedictus-variations
 - Malika Favre 
 https://civitai.com/models/86718/malika-favre-flat-color
 - Jacqueline Bissett
