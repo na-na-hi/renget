@@ -1,88 +1,37 @@
 # KnickKnack's knick knacks
 Here to fuck around and make bots. If you wanna talk, request, share, or shoot the shit hmu: oeufvivant@protonmail.com
 
-[TOC]
+***
+**Table of Contents**
+[TOC2]
+***
+##BOT LIST
+***
+###OCs
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Originally I had her at Lollapalooza](https://files.catbox.moe/xy8wss.png) | Elise | Spend the day at the Coachella music festival with Elise, a moody and introverted hipster who's here for the music. Art by kogecha. | [CHUB link](https://www.chub.ai/characters/knickknack/Elise)
+ ![Rina's favorite Greek play is The Bacchae.](https://files.catbox.moe/ouf90j.png) | Rina | A vapid party girl looking for a good time. What you see is what you get...right? Art by kogecha.| [CHUB link](https://www.chub.ai/characters/knickknack/Rina)
+ ![Estelle's inspiration is sort of a precursor to Alec's.](https://files.catbox.moe/4qehlt.png) | Cupid Estelle | Help a village back to virtue with the aid of your helpful angel assistant...or is she? Art by Hieda Yawe.| [CHUB link](https://www.chub.ai/characters/knickknack/cupid-estelle)
+ ![Vivian's personality was designed to be deliberately contrasting with her edgy appearance. Her card was basically entirely inspired by her picture.](https://files.catbox.moe/yro0lu.png) | Vivian | What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes. Art by Akiyama Enma.| [CHUB link](https://www.chub.ai/characters/knickknack/Vivian)
 
-##OCs
-###Elise
-Spend the day at the Coachella music festival with Elise, a moody and introverted hipster who's here for the music.
-![elise](https://files.catbox.moe/xy8wss.png)
-https://files.catbox.moe/xy8wss.png
-Art by kogecha
+###Characters from Other Media
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Saki's my first bot. Got a soft spot for her.](https://files.catbox.moe/rzwxnd.png) | Saki Yoshida | A naive and gullible high schooler who wishes to make friends, from ShindoL's Emergence. Can you help her? Art by ShinoL. | [CHUB link](https://www.chub.ai/characters/knickknack/saki-yoshida)
+ ![First request I filled. Since then I've done others, albeit anonymously.](https://files.catbox.moe/3tfaoa.png) | Emergence Simulator | What an unfortunate world you've found yourself in. Take on the role of Saki Yoshida in ShindoL's Emergence. Lovingly made for Anon. Art by mayui_yukisaki.| [CHUB link](https://www.chub.ai/characters/knickknack/emergence-simulator)
+ ![I love failing marriage media, ever since I was a kid I was earnestly trying to fix their marriage heh.](https://files.catbox.moe/r2z8xa.png) | Trip and Grace | It's been years since you've last seen your college friends, Trip and Grace. You visit them, but tensions are high.| [CHUB link](https://www.chub.ai/characters/knickknack/trip-and-grace)
+ ![Heavily, heavily based off of Flaubert's book, Salammbo.](https://files.catbox.moe/1ci398.png) | Salammbo | The sensual yet innocent priestess of Carthage, cloistered in luxury and naive to the world beyond. Art by chocolate jitong.| [CHUB link](https://www.chub.ai/characters/knickknack/Salammbo)
 
-###Rina
-A vapid party girl looking for a good time. What you see is what you get...right?
-![rina](https://files.catbox.moe/ouf90j.png)
-https://files.catbox.moe/ouf90j.png
-Art by kogecha
+###/aids/ Ports
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![this dude's smug AF.](https://files.catbox.moe/fxyog6.png) | Leslie | A former wild child educated by Professor Church to be the perfect maiden. Except, Leslie's a boy. Inspired by this comic: https://imgur.com/gallery/2miT6Jw, port of https://aetherroom.club/855, art by Riyo. | [CHUB link](https://www.chub.ai/characters/knickknack/Leslie)
 
-###Cupid Estelle
-Help a village back to virtue with the aid of your helpful angel assistant...or is she?
-![succubus estelle](https://files.catbox.moe/4qehlt.png)
-https://files.catbox.moe/4qehlt.png
-Art by Hieda Yawe
-
-###Vivian
-What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes.
-![vivian](https://files.catbox.moe/yro0lu.png)
-https://files.catbox.moe/yro0lu.png
-Art by Akiyama Enma
-
-##Characters from Other Media
-### Saki Yoshida
-A naive and gullible high schooler who wishes to make friends, from ShindoL's Emergence. Can you help her?
-![Saki Yoshida](https://files.catbox.moe/rzwxnd.png)
-https://files.catbox.moe/rzwxnd.png
-Art by ShindoL
-
-### Emergence Simulator
-What an unfortunate world you've found yourself in. Take on the role of Saki Yoshida in ShindoL's Emergence. Lovingly made for Anon
-![Emergence Simulator](https://files.catbox.moe/3tfaoa.png)
-https://files.catbox.moe/3tfaoa.png
-Art by mayui_yukisaki
-
-### Trip and Grace
-It's been years since you've last seen your college friends, Trip and Grace. You visit them, but tensions are high.
-![melon](https://files.catbox.moe/r2z8xa.png)
-https://files.catbox.moe/r2z8xa.png
-
-### Salammbo
-The sensual yet innocent priestess of Carthage, cloistered in luxury and naive to the world beyond.
-![shoutout to my boy gustave](https://files.catbox.moe/1ci398.png)
-https://files.catbox.moe/1ci398.png
-Art by chocolate jitong
-
-##/aids/ Ports
-###Leslie
-A former wild child educated by Professor Church to be the perfect maiden. Except, Leslie's a boy.
-![leslie](https://files.catbox.moe/fxyog6.png)
-https://files.catbox.moe/fxyog6.png
-Inspired by this comic: https://imgur.com/gallery/2miT6Jw
-Port of https://aetherroom.club/855
-Art by Riyo.
-
-##Bots inspired from RPs with other bots
-###Alec
-A polite asshole who takes great joy in dissecting and tearing apart people's outward facades.
-![alec](https://files.catbox.moe/t4mo90.png)
-https://files.catbox.moe/t4mo90.png
-Custom JB for more intense questioning: `[You are {{char}}, who has his own distinct character and persona as an unrelenting polite asshole and very nosy inquisitor of truth who will not stop questioning {{user}} until his curiosity is satisfied. Alec will keep up his polite and mild persona even as his incessant questioning of {{user}} defies all social reason.]`
-Born out of an RP with Lacarthis. Check her out! https://www.chub.ai/characters/altstrawberry/Lacarthis
-
-###Apprentice Lyra
-Your devoted, loving, and not-at-all obsessed apprentice, eager to serve!
-![lyra](https://files.catbox.moe/lvlmw9.png)
-https://files.catbox.moe/lvlmw9.png
-Born out of an RP with Inquisitor Elyria. Check her out! https://www.chub.ai/characters/thiasus/inquisitor-elyria
-
-###Anise
-A poised and popular star student and tennis captain. What lies under her perfect exterior?
-![Anise](https://files.catbox.moe/p79ls9.png)
-https://files.catbox.moe/gqr3mt.png
-Born out of an RP with Del the Unfixable. Check her out! https://rentry.org/deleterious#del-the-unfixable
-
-###Paul
-An unlucky fledgling vampire, abandoned by his sire and kicked around by the other vampires as errand boy. You are his ghoul. Can you survive vampire politics, your addiction to Paul's blood, and the monthly bills?
-![Paul](https://files.catbox.moe/tkpne4.png)
-https://files.catbox.moe/tkpne4.png
-Born out of an RP with Drusilla. Check her out! https://www.chub.ai/characters/heyshitkan/Drusilla
+###Bots inspired from RPs with other bots
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Annoying question boy.](https://files.catbox.moe/t4mo90.png) | Alec | A polite asshole who takes great joy in dissecting and tearing apart people's outward facades. Has a custom JB you can grab from Chub. Born out of an RP with Lacarthis. [Check her out](https://www.chub.ai/characters/altstrawberry/Lacarthis)!  | [CHUB link](https://www.chub.ai/characters/knickknack/Alec) 
+ ![Probably the first RP I got really into with AIs.](https://files.catbox.moe/lvlmw9.png) | Lyra | Your devoted, loving, and not-at-all obsessed apprentice, eager to serve! Born out of an RP with Inquisitor Elyria. [Check her out!](https://www.chub.ai/characters/thiasus/inquisitor-elyria)  | [CHUB link](https://www.chub.ai/characters/knickknack/apprentice-lyra) 
+ ![The quintessiential overachiever. Though her race is unspecified, Claude always gives her an Asian last name kek](https://files.catbox.moe/p79ls9.png) | Anise | A poised and popular star student and tennis captain. What lies under her perfect exterior? Born out of an RP with Del the Unfixable. [Check her out!](https://rentry.org/deleterious#del-the-unfixable)  | [CHUB link](https://www.chub.ai/characters/knickknack/Anise) 
+ ![I strongly associate Paul with diners. He just gives off that vibe.](https://files.catbox.moe/tkpne4.png) | Paul | An unlucky fledgling vampire, abandoned by his sire and kicked around by the other vampires as errand boy. You are his ghoul. Can you survive vampire politics, your addiction to Paul's blood, and the monthly bills? Born out of an RP with Drusilla. [Check her out!](https://www.chub.ai/characters/heyshitkan/Drusilla)  | [CHUB link](https://www.chub.ai/characters/knickknack/Paul)

@@ -1120,7 +1120,7 @@ First Bloom 初绽 | First Journey 初程 |  First Awakening 初醒  | First Enc
 Priority | Signet | Details
 ------ | ------ | ------
 1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; can pick Burden from enhanced
-2nd | Pardofelis1 | 10% bonus silver, both damage boosts, HP SP cap up are the key choices; must pick at lesat breach from enhanced, can also pick ultimate
+2nd | Pardofelis1 | 10% bonus silver, both damage boosts, HP SP cap up are the key choices; must pick at least breach from enhanced, can also pick ultimate
 2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus
 Optional | Vill-V1 | 523 are the key choices, individual is fine, nexus is better
 Optional | Kosma2 | Ultimate, evasion, shieldbreak damage are the key choices, don't need nexus; can also pick Sakura vulnerability, TDM as reinforcement
@@ -1266,6 +1266,13 @@ Support 1 | Support 2 | Type
 ------ | ------ | ------
 AE | BR/VC | Utility
 MA | AE/BR | Damage
+
+Cost | Effect
+------ | ------
+0 | Huodou
+5 | Shieldbreak 5 SP
+10 | Ultimate Evasion damage boost
+15 | Ultimate vulnerability
 
 Time | Emblem 
 ------ | ------ 

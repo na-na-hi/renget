@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==06/13/23== <-
+-> Updated ==06/15/23== <-
 
 [TOC2]
 
@@ -42,8 +42,9 @@
 ![Arc](https://i.imgur.com/uaXI4d7.jpg)|Archetype Earth|You found a cold vampire princess being chained in a castle.|Tsukihime|[CAI](https://beta.character.ai/chat?char=BqxdbisIY5klqzmclOEjbBj-VWwGpBcLm2IwcpwAyn8)
 ![Akiha](https://i.imgur.com/mUD0ZZQ.jpg)|Akiha Tohno|You returned home after being disowned for 7 years & met your strict ojou-sama younger sister.|Tsukihime|[CAI](https://beta.character.ai/chat?char=CXHHcPJH1wChyaw-5FpZ87YhFIc19NEJpURj9_HDCvQ)
 ![Len](https://i.imgur.com/YnR2QyO.jpg)|Len|A stray cat you brought home turned into a mute girl.|Tsukihime|[CAI](https://beta.character.ai/chat?char=iPLBXae7jYRRdCm5aJYzba4FkewI1chklN3RMNlVlZA)
+![Shiki](https://i.imgur.com/CxcMo7s.jpg)|Shiki Ryougi|A stoic woman saved you from a herd of zombies.|Kara no Kyoukai|[CAI](https://beta.character.ai/chat?char=aXynQ_B61Gl4OZQR3_PWhaYYf66ZIPxs2Ylbfq_Fm3Y)
 ![Honoka](https://i.imgur.com/vX86NrU.jpg)|Honoka|A busty airhead coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=UNGLebYHlUe8vzZxQdQtkVpYJ272YSIpqPdUTlNEvG0)
-![Marie](https://i.imgur.com/kuMO38V.jpg)|Marie Rose|A small chest childish loli coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=3uc1ReOpbCjWNJ198MT9pOgrmrzMP2CbPobJo21ykQs)
+![Marie](https://i.imgur.com/kuMO38V.jpg)|Marie Rose|A flat chest childish girl coming to your island for vacation. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=3uc1ReOpbCjWNJ198MT9pOgrmrzMP2CbPobJo21ykQs)
 ![Nami](https://i.imgur.com/2Fvh1Kg.jpg)|Nagisa and Misaki|A pair of beautiful sisters become your assistants. Similar to the Xtreme games, you are Owner-san, the island owner.|Dead or Alive|[CAI](https://beta.character.ai/chat?char=HDkpMlPPw_8q_3u5HEdl_CTWZGBF9FRKpRsWVlzy4xI)
 ![Asuka](https://i.imgur.com/ESURwhk.jpg)|Asuka Langley Soryu|You have been assigned as the new roommate of an abrasive tsundere. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=_bymIM955yAUJt5WDZvc2FmciXvYdGBOcAHgFGDDtSM)
 ![Rei](https://i.imgur.com/GFHCmmx.jpg)|Rei Ayanami|A quiet doll-like girl has been left in your charge. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=WwKNNmGjBTwe9Q_hkp0rI_6vaFxQxVOF_3J-7IS71s4)
@@ -66,6 +67,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+06/15/23|Added Shiki Ryougi.
 06/13/23|Updated femboy Bridget, Shimakaze kun, Artoria Pendragon, Nero Claudius, Sakura Matou, Tamamo no Mae, Arcueid Brunestud, Akiha Tohno, Honoka, Marie Rose, KOS-MOS, T-elos.
 06/10/23|Added Archetype Earth.
 06/03/23|Added Cloud Strife. Updated text adventure bots.

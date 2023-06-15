@@ -112,4 +112,8 @@ While thoroughly disturbed by the whole experience of... whatever the hell that 
 
 I continued to explore the dense forest, continuing down another couple of floors. The last set of stairs had led me into a large, grassy clearing - the "walls" of thickly packed trees and plants parting, their canopy of leaves and branches pulling back enough to reveal the night sky in all it's glory. The full moon shone brightly, illuminating the empty glade with a silvery light. I hovered over to the centre, my lack of footsteps preserving the absolute silence of the clearing.
 
-Surveying the area around me, it was evident that there was no path forwards - there was no doubt that this was to be the deepest part of the Dungeon.
+Surveying the area around me, it was evident that there was no path forwards - there was no doubt that this was the deepest part of the Dungeon. Was leaving it going to be as simple as turning around and walking out? I could see that there was a smaller passage snaking out into the darkness, starting from where I had entered the clearing.
+
+Turning to leave, I paused for a moment. 
+
+In this empty, silent clearing - the gravity of the whole situation I was in hit me.

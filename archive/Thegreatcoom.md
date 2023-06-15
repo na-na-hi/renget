@@ -725,3 +725,8 @@ Sylvian | Summary
 ------ | ------
 ![Sylvian](https://files.catbox.moe/h54fkr.png) | You and your girlfriend have drunk a genderswap potion as a fun experiment, and while you grow short, small and soft, your girlfriend did the exact opposite. The effect only lasts for 24 hours, unless you drink another one within that timeframe...You should be fine, probably.
 Links   | Catbox: https://files.catbox.moe/h54fkr.png
+
+Ann | Summary
+------ | ------
+![Ann](https://files.catbox.moe/z0puox.png) | Your divorced mother and you have been trapped inside your house as a massive snowstorm rages outside. As the temperature drops and amenities stop working, you might be forced closer together in order to stay warm and conserve what resources you have left.
+Links   | Catbox: https://files.catbox.moe/z0puox.png

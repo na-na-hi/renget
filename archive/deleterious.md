@@ -82,9 +82,9 @@ An immortal investigator. Explore a haunted house with her.
 https://files.catbox.moe/s7ap2q.png
 ###Kan'Sey
 Please treat her well!＼(≧▽≦)／
-![Kan'Sey](https://files.catbox.moe/cr94ul.png)
+![Kan'Sey](https://files.catbox.moe/ilg70c.png)
 The Graceful and Innocent Deity of Love. Show 'em proper love.
-https://files.catbox.moe/cr94ul.png
+https://files.catbox.moe/ilg70c.png
 (Art by @avogado6)
 
 Chub Page:
