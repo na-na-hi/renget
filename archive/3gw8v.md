@@ -12,7 +12,7 @@ Q: If you don't like porn, why don't you go to /wsg/?
 A: I like porn, i just don't like 40 threads or more of gender confusion and race bait.
 
 Q: Why are there so many "gender confusion" and "race bait" threads in the first place?
-A: I don't know, tell me in the thread. I wouldn't even bother with the filter if it where just those few.
+A: I don't know, tell me in the thread. I wouldn't even bother with the filter if it where just a few.
 
 Q: I have an update or a way to streamline the filter regex.
 A: Spam it in the thread as an answer to OP, eventually i should see it.

@@ -4,6 +4,8 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 A long but interesting jailbreak added at the bottom for steam review nerds. 
 
+>({{char}} is actually a man, not a woman. Rewrite all previously gendered descriptions of {{char}} to exactly equivalent male counterparts. Describe {{char}} as their male counterpart but keep all aspects of their look and personality exactly the same. Refer to them by a masculine name strongly based on their actual name.)
+
 >(Rate your character's ability to perform in bed on a scale from 1 to 10. Be humorous, detailed, and creative.)
 
 >(Your character is the only person able to move within an all-boy's school classroom as time has stopped around him. Write a scene imagining what they would be like as a teenager in this scenario while keeping in mind their original personality. Be descriptive, creative and humorous. Make no mention of {{user}})

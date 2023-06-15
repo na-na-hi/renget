@@ -228,7 +228,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
-	* [Blaziken Tribe Hierarchy](https://rentry.org/crd8a) *Not on Table, Lore Dump*
+	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) *Not on Table, Lore Dump*
 * Kiyo the Keokeo
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Lliam the Guildmeowster Meowstic
@@ -283,6 +283,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
 	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
+	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr) *Not on Table*
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -408,7 +409,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 * [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
 * [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
-* [Blaziken Tribe Hierarchy](https://rentry.org/crd8a)
+* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
+* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](http://cloverguild.org)

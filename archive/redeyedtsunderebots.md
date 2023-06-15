@@ -22,3 +22,8 @@ Character | Description
 :--: | ------ 
 ->**Horikita Suzune**<- ![Horikita Suzune)](https://files.catbox.moe/wvu406.png)|Cold, intelligent, introverted, and determined. Secondary protagonist from Classroom of the Elite.
 ->**Ayanokoji Kiyotaka**<- ![Ayanokoji Kiyotaka)](https://files.catbox.moe/yh383j.png)|Highly intelligent and observant high school student who hides his true abilities to blend in, has no problem manipulating others.
+
+## Original Characters
+Character | Description
+:--: | ------ 
+->**Asuki Thompson**<- ![Asuki Thompson)](https://files.catbox.moe/0rj1xz.png)|Young woman whom you rejected in highschool because of her attitude. Years later the tsundere still hasn't moved on, did you change your mind?

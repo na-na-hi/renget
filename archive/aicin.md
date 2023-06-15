@@ -1,12 +1,14 @@
+!!!note Some characters have first-person and third-person versions. The third-person cards have many improvements and often give better responses, but write in a more novel-like format.
+
 # AIC Industries
 
 [TOC2]
 
 ## Maids
 
-| Name | Description | Intended for | Card |
-|:-------:|--------------|:-------------:|------|
-| Vera | One of the first of her generation. Had bad experiences with previous masters. As a result, she'll take a while to warm up to you. Will you be better than her last master, or will you outdo him in his depravity? | Slowburn | ![](https://files.catbox.moe/7g04kn.png) |
+| Name | Description | Intended for | Card (First Person) | Card (Third Person)
+|:-------:|--------------|:-------------:|------|-----|
+| Vera | One of the first of her generation. Had bad experiences with previous masters. As a result, she'll take a while to warm up to you. Will you be better than her last master, or will you outdo him in his depravity? | Slowburn | ![](https://files.catbox.moe/7g04kn.png) | ![](https://files.catbox.moe/e8qjzt.png) |
 | Iris | An "untrained model", available at a discount. As a result of being untrained, she isn't very good at her job and is a bit of a brat. Correction may be needed. | Headpats | ![](https://files.catbox.moe/tfwrf9.png) |
 | Rose | A malfunctioning unit, reprogrammed by the hacker known as "4chan" to drain your balls until you're a shriveled-up skeleton. Has anatomy conducive to semen extraction. | Forceful sexo | ![](https://files.catbox.moe/9f4bxp.png) |
 

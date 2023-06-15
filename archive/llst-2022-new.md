@@ -1,5 +1,5 @@
-#[/llst/ - Love Live Seiyuu Thread](https://i.redd.it/r3d044fz1e5b1.jpg)
--> ![](https://files.catbox.moe/olyuec.png) ![](https://files.catbox.moe/sp2hj7.png)  <-
+#[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live)
+-> ![]()  <-
 
 ##Changelog:
 ==2022-6-11==
@@ -44,6 +44,7 @@
 [LLfrens (JP)](https://ll-fans.jp/)
 [Love Live Plebbit](https://www.reddit.com/r/LoveLive/) (⚠**Warning: cancer**)
 [LATAM-run Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
+[LATAM/ES community LL Blog](https://lovelive-es.blogspot.com/p/home.html)
 [idol.st](https://idol.st/) (⚠**Warning: cancer**)
 [**Unofficial /llst/ discord**](https://discord.gg/6As836P9rN)
 ##Previous versions:
@@ -284,8 +285,8 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
 **Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency website](https://www.imenterprise.jp/profile.php?id=160) - [Twitter](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
-**Aya Emori  絵森彩**|Emorin, Ayachan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/) - [TikTok](https://www.tiktok.com/@ayaemori_official)|[📷](http://www.box-corporation.com/s3/skiyaki/uploads/artist_photo/image/17606/%E7%B5%B5%E6%A3%AE%E5%BD%A9.jpg)
-**Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn)|[📷](https://liyuu0109.com/wp/wp-content/uploads/2022/12/LACA-35039_shokai_H1.jpg)
+**Aya Emori  絵森彩**|Emorin, Ayachan)|Feb 23, 2004|[Official website](https://emori-aya.net/) - [Agency website](http://www.box-corporation.com/aya_emori) - [Twitter](https://twitter.com/AyaEmori_BOX) - [Instagram](https://www.instagram.com/emoriaya.official/) - [TikTok](https://www.tiktok.com/@ayaemori_official)|[📷](https://files.catbox.moe/topfo5.jpg)
+**Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn)|[📷](https://lain.bgm.tv/pic/crt/l/03/90/35786_prsn_S1766.jpg?r=1628654423)
 **Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) / [Twitter](https://twitter.com/_Naomi_Payton_) / [Instagram](https://www.instagram.com/_naomi_payton_) / [YouTube](https://www.youtube.com/@NaomiPayton_official)| [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
 **Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) - [TikTok](https://www.tiktok.com/@aoyama_nagisa_official) | [📷](https://apollobay.jp/wp-content/uploads/43ca930a28b03d75acdb03705a494895-scaled.jpg)
 **Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998 ==[1]== ==[2]==|[Artist website](https://lantis.jp/misakinako/) / [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) / [Twitter](https://twitter.com/MisakiNako_) / [Line](https://page.line.me/124ydyji ) / [YouTube](https://www.youtube.com/@MisakiNako_Lantis/) |[📷](https://holypeak.com/wp-content/uploads/2021/01/-2-e1674183742547.jpg)

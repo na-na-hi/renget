@@ -4,15 +4,16 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
-!!! Note News Section Updated (06/11/2023)
+!!! Note News Section Updated (06/15/2023)
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
-\>(06/10) First Landmark Attention models released >>93993800 (Cross-thread)
+\>(06/14) WizardCoder 15B Released
+\>(06/10) First Landmark Attention models released >>93993800
 \>(06/08) Openllama 3B and 7B released
-\>(06/07) StarCorderPlus / StarChat-β released
+\>(06/07) StarCoderPlus / StarChat-β released
 \>(06/07) chronos-33b released
 \>(06/06) RedPajama 7B released + Instruct&Chat
 \>(06/06) WizardLM 30B v1.0 released
@@ -20,7 +21,6 @@
 \>(06/03) Nous-Hermes-13b released
 \>(06/03) WizardLM-Uncensored-Falcon-40b released
 \>(05/27) FalconLM release Falcon-7B & 40B, new foundational models
-\>(05/26) BluemoonRP 30B 4K released
 
 ►**FAQ & Wiki**
 \>Wiki
@@ -116,6 +116,7 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+05/26/2023 | BluemoonRP 30B 4K released
 05/25/2023 | QLoRA and 4bit bitsandbytes released
 05/23/2023 | exllama transformer rewrite offers around x2 t/s increases for GPU models
 05/22/2023 | SuperHOT 13B prototype & WizardLM Uncensored 30B released

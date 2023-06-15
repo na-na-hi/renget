@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 15.06.2023 14:00 UTC]
+[Last Updated: 15.06.2023 20:15 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7426865/](https://boards.4chan.org/h/thread/7426865/)
+Current thread - [boards.4chan.org/h/thread/7430471/](https://boards.4chan.org/h/thread/7430471/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 596&nbsp;&nbsp;[archiveofsins.com/h/thread/7430471/](https://archiveofsins.com/h/thread/7430471/)&nbsp;&nbsp;&nbsp;&nbsp;(15.06.2023 19:06)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SMOOTH CRIMINAL edition
 - 595&nbsp;&nbsp;[archiveofsins.com/h/thread/7426865/](https://archiveofsins.com/h/thread/7426865/)&nbsp;&nbsp;&nbsp;&nbsp;(13.06.2023 16:34)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Whose theme is it anyways edition
 - 594&nbsp;&nbsp;[archiveofsins.com/h/thread/7422164/](https://archiveofsins.com/h/thread/7422164/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:47)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Got your nose Edition
 - 593&nbsp;&nbsp;[archiveofsins.com/h/thread/7422159/](https://archiveofsins.com/h/thread/7422159/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:44)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Got your nose Edition
 - 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[973]&nbsp;#&nbsp;Study hard Edition
-- 591&nbsp;&nbsp;[archiveofsins.com/h/thread/7412815/](https://archiveofsins.com/h/thread/7412815/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2023 10:39)&nbsp;&nbsp;[1167]&nbsp;#&nbsp;Dated Memes Edition
 ---
 Archive:
 
+- 591&nbsp;&nbsp;[archiveofsins.com/h/thread/7412815/](https://archiveofsins.com/h/thread/7412815/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2023 10:39)&nbsp;&nbsp;[1167]&nbsp;#&nbsp;Dated Memes Edition
 - 590&nbsp;&nbsp;[archiveofsins.com/h/thread/7408966/](https://archiveofsins.com/h/thread/7408966/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:32)&nbsp;&nbsp;[873]&nbsp;#&nbsp;WATCHOUT WATCHOUT Edition
 - 589&nbsp;&nbsp;[archiveofsins.com/h/thread/7404753/](https://archiveofsins.com/h/thread/7404753/)&nbsp;&nbsp;&nbsp;&nbsp;(31.05.2023 20:20)&nbsp;&nbsp;[1107]&nbsp;#&nbsp;Headmod Edition
 - 588&nbsp;&nbsp;[archiveofsins.com/h/thread/7400176/](https://archiveofsins.com/h/thread/7400176/)&nbsp;&nbsp;&nbsp;&nbsp;(29.05.2023 04:17)&nbsp;&nbsp;[1020]&nbsp;#&nbsp;Monday Thread Edition

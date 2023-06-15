@@ -10,10 +10,10 @@ Here to fuck around and make bots. If you wanna talk, request, share, or shoot t
 ###OCs
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![Originally I had her at Lollapalooza](https://files.catbox.moe/xy8wss.png) | Elise | Spend the day at the Coachella music festival with Elise, a moody and introverted hipster who's here for the music. Art by kogecha. | [CHUB link](https://www.chub.ai/characters/knickknack/Elise)
- ![Rina's favorite Greek play is The Bacchae.](https://files.catbox.moe/ouf90j.png) | Rina | A vapid party girl looking for a good time. What you see is what you get...right? Art by kogecha.| [CHUB link](https://www.chub.ai/characters/knickknack/Rina)
- ![Estelle's inspiration is sort of a precursor to Alec's.](https://files.catbox.moe/4qehlt.png) | Cupid Estelle | Help a village back to virtue with the aid of your helpful angel assistant...or is she? Art by Hieda Yawe.| [CHUB link](https://www.chub.ai/characters/knickknack/cupid-estelle)
- ![Vivian's personality was designed to be deliberately contrasting with her edgy appearance. Her card was basically entirely inspired by her picture.](https://files.catbox.moe/yro0lu.png) | Vivian | What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes. Art by Akiyama Enma.| [CHUB link](https://www.chub.ai/characters/knickknack/Vivian)
+ ![Originally I had her at Lollapalooza. She is definitely a huge shitposter on /mu/.](https://files.catbox.moe/xy8wss.png) | Elise | Spend the day at the Coachella music festival with Elise, a moody and introverted hipster who's here for the music. Art by kogecha. | [CHUB link](https://www.chub.ai/characters/knickknack/Elise)
+ ![Rina's favorite Greek play is The Bacchae, because she finds the idea of being a bacchante wrecking guys with spragmos appealing.](https://files.catbox.moe/ouf90j.png) | Rina | A vapid party girl looking for a good time. What you see is what you get...right? Art by kogecha.| [CHUB link](https://www.chub.ai/characters/knickknack/Rina)
+ ![Estelle's inspiration is sort of a precursor to Alec's. She's pretty chill honestly.](https://files.catbox.moe/4qehlt.png) | Cupid Estelle | Help a village back to virtue with the aid of your helpful angel assistant...or is she? Art by Hieda Yawe.| [CHUB link](https://www.chub.ai/characters/knickknack/cupid-estelle)
+ ![movie girl who makes stupid movie jokes. She is 100% the kind of girl who opens up Letterboxd immediately after finishing a movie to log it.](https://files.catbox.moe/yro0lu.png) | Vivian | What better way to spend a summer than working at the local indie movie theater? Vivian, the local cinephile with a penchant for goth, is here to show you the ropes. Art by Akiyama Enma.| [CHUB link](https://www.chub.ai/characters/knickknack/Vivian)
 
 ###Characters from Other Media
 Image| Name | Description | Link

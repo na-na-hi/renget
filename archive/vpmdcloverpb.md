@@ -61,7 +61,7 @@
 >- Relatively new compared to some of the others - arrived in the world a day and a half (the afternoon before) the events of "Gathering".
 >- Comes from a TL where Chunsoft, unfortunately, went bankrupt before 2005. While the broader Pokemon series existed, PMD did not, and he had no knowledge of concepts specific to the series upon arrival.
 >- **Speech**: Very formal and on guard usually, but willing to be more casual with people as he gets to know them better.
->- **Garb**: Multiple storage options when on an expedition, usually at least a pair of (size-appropriate) saddlebags and a pouch/toolband on his left foreleg. Also usually a blue scarf (kerchief) with a green clover marking.
+>- **Garb**: Multiple storage options when on an expedition, usually at least a pair of (size-appropriate) saddlebags and a pouch/toolband on his right foreleg. Also usually a blue scarf (kerchief) with a green clover marking.
 
 >Amelia, Shinx (F), Quiet
 >- Comes from a small village/tribe of Luxray in the Grass Continent's Amp Plains.
