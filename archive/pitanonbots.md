@@ -4,7 +4,7 @@
 ### Indiana Koi
 | Bot's name | Updated | CHUB  | Card |
 |---|---|---|---|
-Kaori | (01/7/2023) | https://www.chub.ai/characters/pitanon/Kaori | ![](https://files.catbox.moe/1j9bp3.png)
+Kaori | (01/7/2023) | https://www.chub.ai/characters/pitanon/Kaori | ![](https://files.catbox.moe/rzgzdt.png)
 Maki | (21/6/2023) | https://www.chub.ai/characters/pitanon/Maki | ![](https://files.catbox.moe/l4cyqi.png)
 Suzume | (10/6/2023) | https://www.chub.ai/characters/pitanon/Suzume | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/6/2023 | https://www.chub.ai/characters/pitanon/suzumes-livestream-chat | https://files.catbox.moe/s4zwuj.png

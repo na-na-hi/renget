@@ -1,10 +1,11 @@
 !!! danger
-    !!! danger
+    #Wishlist
 !!! danger
-# Public CSP Wishlist
--> **This is a publicly editable rentry, click [edit](https://rentry.org/Brush_Wishlist#bottom) at the bottom. The edit code is `4chan`** <-
-- When Filling a request you can just copy the info from here and move it over to [The public edit CSP Rentry](https://rentry.org/CSP_Brushes_Public_Edit) Or any derivative 
-- Remove entry when it is filled
+-> **This is a publicly editable rentry. The edit code is `4chan`. **
+[**[edit this rentry here]**](https://rentry.org/Brush_Wishlist/edit)<-
+!!! info
+	- When Filling a request you can just copy the info from here and move it over to [The public edit CSP Rentry](https://rentry.org/CSP_Brushes_Public_Edit) Or any derivative 
+	- Remove entry when it is uploaded
 [TOC2]
 ***
 
@@ -135,7 +136,7 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **A Little dress brush (ちょっとした服飾ブラシ) **|[1742090](https://assets.clip-studio.com/en-us/detail?id=1742090)| 700 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/20/1742090/thumbnail?1556778172)
-** **|[]()|  |![]()
+**Forjjol brush **|[1712744](https://assets.clip-studio.com/ja-jp/detail?id=1712744)| 800 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/44/27/1712744/thumbnail)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

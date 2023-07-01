@@ -244,6 +244,54 @@ Use crookedtrees in your prompt
 ### BB95 Furry Mix
 
 	V7.0: https://civitai.com/api/download/models/82523?type=Model&format=SafeTensor&size=full&fp=fp16
+	V9.0: https://civitai.com/api/download/models/105881?type=Model&format=SafeTensor&size=full&fp=fp32
+
+V9.0 RELEASED This version fix some mistakes v8 made, can generates at higher resolution than v8. I think this is the best version I made. More realistic, better fur, better clothes, better NSFW !
+
+This version doesn't use VAE and doesn't need one.
+
+Please consider supporting me so I can continue to make more models --> https://www.patreon.com/BB95FurryMix
+
+Don't forget to join the Furry Diffusion discord server --> https://discord.gg/furrydiffusion
+
+Since v3, this model uses e621 tags.
+
+This model is a mix of various furry models.
+
+It's doing well on generating photorealistic male and female anthro, SFW and NSFW.
+
+I HIGHLY recommend to use Hires Fix to have better results
+
+Below is an example prompt for the v7/v6/v5/v4/v3/v2.
+
+Positive:
+
+anthro (white wolf), male, adult, muscular, veiny muscles, shorts, tail, (realistic fur, detailed fur texture:1.2), detailed background, outside background, photorealistic, hyperrealistic, ultradetailed,
+
+Negative:
+
+I recommend to use boring_e621, you can add bad-hands-v5 if you want
+
+Settings :
+
+Steps: 30-150
+
+Sampler: DDIM or UniPC or Euler A
+
+CFG scale: 7-14
+
+Size: from 512x512 to 750x750 (only v4/v5/v6/v7)
+
+Denoising strength: 0.6
+
+Clip skip: 1
+
+Hires upscale: 2
+
+Hires steps: 30-150
+
+Hires upscaler: Latent (nearest)
+
 
 ### Furtastic V2.0
 

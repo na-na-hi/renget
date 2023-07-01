@@ -12,12 +12,12 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 **THU: - at 2UTC ()**
 **FRI: MMBN2 rando at 2UTC (Telemelt)** 
 **SAT: that rozencrusty megaman hack at 2UTC (Telemelt)**
-**SUN: Minemelt at 17:30UTC* (Minecraft)** * some minutes after cytube ends
+**SUN: Minemelt at 18UTC* (Minecraft)** * some minutes after cytube ends
 
 ##Cytubes
 
 **SAT: Rockman.exe Axess at 16UTC** Episodes 24-30 + Stream Episode 45
-**SUN: Rockman.exe Stream at 15UTC** Episodes 46-51 (end)
+**SUN: Rockman.exe Stream at 15UTC** Episodes 46-51 (end) + Stream Episode 44 (beach ep)
 >-
 nothing
 

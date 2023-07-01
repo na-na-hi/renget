@@ -77,7 +77,7 @@ As the meta is constantly changing, the most optimal reroll targets can change a
 The [Future Content Timeline and Unit Ratings](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) and [Arona's projected banners](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) spreadsheets can help a lot in this regard.
 Both of these links have a banner guide, for the first one just ctrl + f 'banner' on the first sheet.
 
-You can always ask /bag/ for advice. 
+You can always ask /bag/ for advice.
 
 >What about good units who are only blue or gold (1 or 2 star)?
 ![Good 1/2 Star Students](https://i.imgur.com/GKg29v0.png)
@@ -127,6 +127,8 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/
 Read the yellow highlighted text. 
 
+>What should I roll for in the future?
+The most recent bannerlist from /bag/ (I found) is [this bannerlist](https://i.imgur.com/W8Jbt4E.jpeg) 
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.
@@ -424,7 +426,9 @@ You unlock the welfare/free unit by doing the story missions (the very 1st one).
 - Buy out the high priority stuff from the shop first (Artifacts > BDs > Technotes > whatever > Furniture)
 - Buy from T4 -> T1.
 
-What you're supposed to do is a case by case scenario though, since some events are pretty shit to farm, some artifacts and schools are worse than others, or you might be close to getting a cafe upgrade. You can always ask in the thread 
+Always try to go for a cafe upgrade if you can.
+
+What you're supposed to do is a case by case scenario though, since some events are pretty shit to farm, or some artifacts and schools are worse than others. You can always ask in the thread 
 
 You're pretty fucked regardless, so gl bro
 

@@ -1,3 +1,5 @@
+#OUTDATED AS OF JULY 2023 - CHECK https://rentry.co/ProdiAgy
+
 #DAdaptation Guide for LoRa/LoHa/LoCon - April 2023 
 #written by a nerd who likes to optimize
 

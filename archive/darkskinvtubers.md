@@ -217,7 +217,7 @@ TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.
 Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
 eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https://www.twitch.tv/eveningstar_ch/)|
 ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
-Fuwacoco[EN]|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco)|
+TheAnglerCh[EN]|[Twitter](https://twitter.com/TheAnglerCh) [Twitch](https://twitch.tv/theanglerch)|Luchador
 
 ---
 

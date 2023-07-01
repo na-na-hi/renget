@@ -20,6 +20,8 @@ Bot | Creator | Desc | Demo
 ## Bots v2
 Currently none, but at least 2 were promised.
 To make bots use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
+
+>To everyone's surprise [anon](https://desuarchive.org/g/thread/94394525#94395684) is alive
 ***
 ***
 ***

@@ -17,6 +17,8 @@ Lockley Aimes (Settlement Survivor): https://archive.4plebs.org/tg/post/89389161
 Specialist Marcus Cassius Allen (Last Action Hero): https://archive.4plebs.org/tg/post/89389858
 THE ANT KING (Settlement Survivor): https://archive.4plebs.org/tg/post/89394761 (more information at https://rentry.org/wu5p8)
 Phi (Robot): https://archive.4plebs.org/tg/post/89415344
+Victor (Robot): https://archive.4plebs.org/tg/post/89422772
+David "Profit" Wiles (Settlement Survivor): https://archive.4plebs.org/tg/post/89423767
 #### Nuclear Winter
 Magnus Wang (Neo-Barbarian): https://archive.4plebs.org/tg/post/89404903
 #### Mutant Jungle
@@ -26,6 +28,8 @@ Amu (Robot): https://archive.4plebs.org/tg/post/89383565
 Samson (Mutant): https://archive.4plebs.org/tg/post/89384851 (more information at https://controlc.com/5c3d6500)
 Isha, Princess of the Verzon Tribe (Neo-Barbarian): https://archive.4plebs.org/tg/post/89390690 (more information at https://rentry.org/3hcex)
 Hannah Ossus (Neo-Barbarian): https://archive.4plebs.org/tg/post/89395588
+#### High Seas
+Tuma (Mutant): https://archive.4plebs.org/tg/post/89422176
 #### City Ruins
 Nikto (Settlement Survivor): https://archive.4plebs.org/tg/post/89384124
 H0P3 (Robot): https://archive.4plebs.org/tg/post/89379967
@@ -35,6 +39,7 @@ Dr. Remilia Rochefort (Bunker-Baby): https://archive.4plebs.org/tg/post/89385830
 Quinn Chase (Bunker-Baby): https://archive.4plebs.org/tg/post/89386021
 Alexander S. Luthor (Bunker-Baby): https://archive.4plebs.org/tg/post/89406647
 Chloe (Settlement Survivor): https://archive.4plebs.org/tg/post/89414221
+Billy Kido (High Plains Drifter): https://archive.4plebs.org/tg/post/89421393 (more information at https://rentry.org/ru3fr)
 #### Unclear
 Ultra Magnus (Settlement Survivor): https://archive.4plebs.org/tg/post/89400766 (more information at https://rentry.org/gvigd)
 Heli Matharom (Settlement Survivor): https://rentry.org/HeliMatharom
@@ -54,15 +59,20 @@ H0P3: https://pastebin.com/ZUmq4kBM
 Kara Ramirez: https://rentry.org/mrxqd
 The Crew of the Argo: https://rentry.org/wfk77
 Ultra Magnus: https://rentry.org/yhobdn
+Heli Matharom: https://rentry.org/HOTW-HeliChart
+Dr. Remilia Rochefort: https://controlc.com/997e2437
 ### Tierlists:
 Tiermaker: https://tiermaker.com/create/hero-of-the-wastes-15890179
 CR and Chastity Rankings: https://rentry.org/RanksHOTW (edit code: RanksHOTW)
 Classes: https://archive.4plebs.org/tg/post/89399286
 NTR: https://archive.4plebs.org/tg/post/89399878
+Water: https://archive.4plebs.org/tg/post/89422342
+Hippocratic Oath Shitpost: https://archive.4plebs.org/tg/post/89422525
 ### Artfags
 ANT KING: https://archive.4plebs.org/tg/post/89395657
+Kara Ramirez: https://archive.4plebs.org/tg/post/89418140
 ### Writefags
-Piss Break (The Nymphs): https://rentry.org/4cfx3
+Piss Break (Nymphs): https://rentry.org/4cfx3
 The Midwife (Georgia Dolittle & Bob): https://rentry.org/nn577
 Rumors of the Wasteland! (Lance): https://rentry.org/6nzas
 Lockley Aimes (Lockley Aimes): https://controlc.com/e4e1f53b
@@ -70,3 +80,5 @@ When Adventure Comes Crawling (Yuki): https://rentry.org/adventureryuki
 Very Short Writefag about Magnus running in the desert (Ultra Magnus): https://rentry.org/mwy5f
 Karnak Radio (Karnak): https://rentry.org/KarnakRadio
 lame ahh backstory (Maya Liang): https://controlc.com/83abc1f6
+HFWT: Death Race (Heli, Kara): https://rentry.org/HOTW-DeathRace
+Memories (Nymphs, Samson): https://rentry.org/q2m7d

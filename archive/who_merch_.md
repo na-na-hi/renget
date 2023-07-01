@@ -24,7 +24,7 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en
 
 >**HoloSummer**
 - - -
-Splash Party Online Concert 
+Splash Party Online Concert (26 & 27th August, 2000 JST)
 **Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
 https://www.zan-live.com/en/live/detail/10292
 **Merch**

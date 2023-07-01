@@ -643,9 +643,17 @@ https://rentry.org/HeliMatharom
 >Lin
 >>89407136
 >Chloe
->>89414221
+>>89423627
 >Phi
 >>89415344
+>Billy Kido
+>>89421393
+>Tuma
+>>89422176
+>Victor
+>>89422772
+>David "Profit" Wiles
+>>89423767
 
 Relationship Charts:
 Dr. Crane

@@ -70,6 +70,11 @@
 [Streaming Twitch](https://www.twitch.tv/glitterstar666)
 [Twitter](https://twitter.com/GlitterStar669)<-
 
+->**Hana Yakuta**
+![Hana Yakuta](https://warosu.org/data/vt/img/0524/58/1688226695367391.png)
+[Streaming Twitch](https://www.twitch.tv/hanavyakuta)
+[Twitter](https://twitter.com/HanavYakuta)<-
+
 ->**Haru Mizuki**
 ![Haru Mizuki](https://warosu.org/data/vt/img/0521/72/1687912748570423.png)
 [Streaming Twitch](https://www.twitch.tv/harumizukich)

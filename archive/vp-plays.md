@@ -10,7 +10,7 @@ goals for this were:
 >add table of contents to allow quick access to recent content
 >give each LP a proper summary, including the following: game name, status, description, and notable events
 >revise thread subtitles because some are less funny than others
-I think I've accomplished all 3 of those goals with this complete redoing. 28k characters (as of initially posting this archive) and I'm pretty sure half are subtitles/LP summaries/whatever
+I think I've accomplished all 3 of those goals with this complete rewriting. 28k characters (as of initially posting this archive) and I'm pretty sure half are subtitles/LP summaries/whatever
 
 If anything seems out of order, then sorry about that, it's just that sometimes I go back to a game in the middle of a LP for some reason or another, or I put a run on hiatus to do something else. If you come across a link to a thread that isn't in the archive, then there's a few possible explanations for that:
 1: The thread in question got raided by underageb&s, schizos, something I'm not mentioning as to not tempt fate, or any combination of those.
@@ -341,3 +341,4 @@ https://arch.b4k.co/vp/thread/53995502/ 9 an OP image that isn't cropped r34 thi
 https://arch.b4k.co/vp/thread/53999433/ 10 nevermind it wasn't cracked
 https://arch.b4k.co/vp/thread/54008063/ 11 time to cuddle with some redheads
 https://arch.b4k.co/vp/thread/54014436/ 12 WITNESSED
+https://arch.b4k.co/vp/thread/54026283/ 13 we're back

@@ -3,7 +3,7 @@
 Yo, I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
 All bots are only tested with Slaude(**RIP my sweet prince**) + Silly Tavern.
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
-==**ON HIATUS**==, but I doubt anyone will even see this.
+==**ON HIATUS?**==, but I doubt anyone will even see this.
 # Get some standards
 
 
