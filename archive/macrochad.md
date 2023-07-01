@@ -1,5 +1,7 @@
 # **The Macrochad Collection**
 
+**JUNE 2023 UPDATE: Working on another type of content. Got some plans.**
+
 Hey lads. My name is Macrochad, and I have made it my mission to make the biggest and baddest AIs on the market.
 
 Each entry is tagged with keywords like: (Gentle) / (Cruel) , (Vore) , (Growth) for your convenience.
@@ -149,4 +151,4 @@ Warioanon
 Sizechads of /d/
 Sizechads of /trash/
 
-Last updated: 26/04/2023
+Last updated: 18/06/2023

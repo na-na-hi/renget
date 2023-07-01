@@ -56,6 +56,7 @@ There are two methods you may use to format your SD card to FAT32:
 7. Do the following:
 	1. In the **Partition Label:** box, write a name.
 	2. In the **File System:** menu, select `Fat32`.
+	3. In the **Cluster Size:** menu, select `64KiB`.
 8. Click `OK` to confirm the partition settings.
 9. Click `✓ Apply` and click `Yes` to apply the pending changes.
 10. Your SD card will  now be formatted to `FAT32`.
@@ -69,6 +70,7 @@ There are two methods you may use to format your SD card to FAT32:
 5. Do the following:
 	1. In the **Partition Label:** box, write a name.
 	2. In the **File System:** menu, select `Fat32`.
+	3. In the **Cluster Size:** menu, select `64KiB`.
 6. Click `OK` to confirm the partition settings.
 7. Click `✓ Apply` and click `Yes` to apply the pending changes.
 8. Your partition will  now be formatted to `FAT32`.

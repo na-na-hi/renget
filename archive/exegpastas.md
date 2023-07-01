@@ -23,6 +23,8 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Kirby's Anomaly* (WIP)|Kirby's Adventure|[(link)](https://rentry.org/KirbysAnomaly)
 *Mario Paint Time Capsule*|Mario Paint|[(link)](https://rentry.org/mptc)
 *Skinned State*|Super Mario 64|[(link)](https://rentry.org/skinnedstate)
+*Goosebumps: The Masked Mutant's Devastation*|Goosebumps: Attack of the Mutant|[(link)](https://rentry.org/maskedmutant)
+*Walking Specimen*|Elden Ring|[(link)](https://rentry.org/walkingspecimen)
 
 ##.exe pastas
 Title|Link
@@ -54,6 +56,7 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
+*Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
 
 ##Non-vidya pastas
 Title|Link
@@ -75,6 +78,8 @@ Title|Link
 *Like Water*|[(link)](https://rentry.org/flowlikewater)
 *The Book Bag*|[(link)](https://rentry.org/thebookbag)
 *Forestland Clean-Up*|[(link)](https://rentry.org/forestlandcleanup)
+*Beyond the Sky*|[(link)](https://rentry.org/beyondsky)
+*Follow the White Rabbit*|[(link)](https://rentry.org/followthewhiterabbit)
 
 ##Rewritten by /exeg/
 Title|Link

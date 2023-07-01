@@ -55,6 +55,10 @@
 - Not to be confused with [GameDrive](https://gamedrive.org/) above ↑
 - [URL Safety Results](https://www.urlvoid.com/scan/gamesdrive.net/)
 
+### 🔗 [GamesPCFull](https://gamepcfull.com/)
+- Several options for modern games from some of the releasers and crackers, like Tenoke, Goldberg, ElAmigos, etc.
+- [URL Safety Results](https://www.urlvoid.com/scan/gamepcfull.com/)
+
 ### 🔗 [GLOAD](https://gload.to/) • German UI
 - Scene release site provides a plethora of free user-friendly hosters that are easily accessible. Eat, sleep, game, and repeat.
 - [URL Safety Results](https://www.urlvoid.com/scan/gload.to/)

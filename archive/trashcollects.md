@@ -223,6 +223,7 @@ https://archive.org/details/tism-prism-AI
 ### Fluffyrock
 Artist comparison: `https://files.catbox.moe/rmyw4d.jpg`
 Repository (GO HERE FOR DOWNLOADS): `https://huggingface.co/lodestones/furryrock-model-safetensors`
+CivitAI page: `https://civitai.com/models/92450`
 Artist study: `https://pixeldrain.com/l/caqStmwR`
 Tag Autocomplete CSV: `https://cdn.discordapp.com/attachments/1086767639763898458/1092754564656136192/fluffyrock.csv`
 
@@ -243,6 +244,16 @@ Use crookedtrees in your prompt
 ### BB95 Furry Mix
 
 	V7.0: https://civitai.com/api/download/models/82523?type=Model&format=SafeTensor&size=full&fp=fp16
+
+### Furtastic V2.0
+
+Description: https://files.catbox.moe/cr137n.png
+
+	Checkpoint: https://civitai.com/api/download/models/84134?type=Model&format=SafeTensor&size=pruned&fp=fp16
+	negative embeddings: https://civitai.com/api/download/models/84134?type=Training%20Data
+
+Put embeddings in \stable-diffusion-webui\embeddings, and use the filenames as a tag in the negative prompt.
+
 
 ## Galleries
 
@@ -399,8 +410,9 @@ I scraped together all the LoRAs I think are from him. If I missed any, or there
 # Horror
 	https://files.catbox.moe/tzmb9k.safetensors
 
-# Captain Amelia (Treasure Planet)
-	https://mega.nz/folder/8f4WzJ6T##6bsCz2bi4C0SxV10Hy-bvw
+# Captain Amelia (Treasure Planet), Krogan (Mass Effect) InCase (Artist), canvassolaris (Artist)
+
+	https://mega.nz/folder/AfJxXSJB#0hFD5Qt850iee907MNnzrQ
 
 # No-Swift, Miles-DF, Ruaidri
 	I uploaded my Ruaidri and Miles-DF LoRAs alongside my No-Swift LoRA. All are trained on top of Gay621 and untested elsewhere. No-Swift and Ruaidri are activated with "by no-swift" and "by ruaidri" respectively (in line with Gay621's conventions).
@@ -560,6 +572,68 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 # Arceus LoRA
 
 	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
+
+# suitonb
+
+	 https://anonfiles.com/A6jfr1x4z0/suitonb_safetensors
+
+# Feraligatr
+
+	https://files.catbox.moe/g76s3b.safetensors
+>"feraligatr" and "blue body, tan belly, yellow eyes, 5 fingers, claws, sharp teeth, thick tail, spines" seems to help it stay on target.
+
+# Silvally (Pokémon)
+
+	https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
+>  I included two iterations of it cause I got decent results on both of them, but I mainly use the 000018 version. Keyword is just 'silvally'.
+
+# KX' LoRAs
+
+Yzmuya (Artist)
+
+	https://anonfiles.com/e1g8I3x1z1/yzmuya_v1_12_safetensors
+> Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "yzmstyle" (I couldn't use the artist's name since it's already in fluffyrock and it provides awful results) 
+
+	https://anonfiles.com/38Z4n7z5z3/yzmuya_v1_16_safetensors
+> I increased the threshold for the image tagger and added/replaced a small part of the dataset with generated images - the improvement is minimal, but it's there. It mainly works better when used with lower weights, compared to the previous versions. Activation token is still "yzmstyle"
+
+Viosgit (Artist)
+
+	https://anonfiles.com/M4k9S9x6za/viosgit_v1_2_safetensors
+>Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3 at 768x768 resolution, clip skip 2. The activation token is "viosgitstyle".
+>It's slightly undertrained compared to my yzmuya lora but I can't really do much about it - 90% of the image dataset has text all over it and mouths and details start to get fucked up. There's also quite a bit of jpeg artifacts generation, but that gets mostly fixed during upscaling. Also no nudes in the training because the artist just doesn't do them afaik
+
+maro no oheya (Artist) 
+
+	https://anonfiles.com/4441beyezc/maro_v1_4_safetensors
+> Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution
+>The activation word is "maro"
+
+evil_jia / neutral_jia / jianeutral (Artist)
+
+	https://anonfiles.com/j2c8o8y0z3/evil_jia_v1_4_safetensors
+>Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution.
+>Activation token is "jiastyle"
+
+Kaminosaki Shiten (Artist)
+
+	https://anonfiles.com/Y3j0t7zbz5/kaminosaki_v1_1_safetensors
+>Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "kaminosakistyle" (I couldn't just use the artist's name in this one either).
+>The dataset comes mostly from their two furry focused doujins. I will definitely go back to this one after sifting through the artist's twitter/pixiv pics
+
+# Xenomorphs
+
+	https://pixeldrain.com/u/3zaypdh5
+> Trained on Fluffyrock e53 offset noise e38 for 15 epochs at 10 repeats with clip skip 1.
+>Activation token is "xenomorph", other tokens like "black body, sharp teeth, long tail" make it more accurate. I also like "glistening body, wet, saliva". I use 0.7-1.0 weight.
+
+# Captain Gantu (Lilo and Stitch)
+
+https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
+
+# Minerva Campbell (Adventure Time)
+
+https://files.catbox.moe/l4fnta.safetensors
 
 ## LORAs from the Discord
 
@@ -741,6 +815,11 @@ https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
 
 # Valstrix's Gathering Hub (Monster Hunter and more)
 	https://drive.google.com/drive/folders/1N3QB9oAGJIv4dLNzEIvNQj7LkKrS6_y4
+
+# Slugcats (RainWorld)
+
+From: https://civitai.com/models/94795/slugcats-rainworld-wip
+https://civitai.com/api/download/models/101116?type=Model&format=SafeTensor
 	
 ## Assorted Random Stuff
 
@@ -823,6 +902,7 @@ https://imgbox.com/g/tdpJerkXh6
 	Convnext V2: https://pixeldrain.com/u/iNMyyi2w
 	Patched WD1.4: https://cdn.discordapp.com/attachments/1065785788698218526/1067966541699743845/stable-diffusion-webui-wd14-tagger.zip
 
+	If you encounter problems while using the convnext model, try unchecking "Sort alphabetically" in the extension
 	Older Deepdanbooru Model: https://pixeldrain.com/u/XTcj5GHz
 ![Older Deepdanbooru model](https://files.catbox.moe/wenphe.png)
 
@@ -856,3 +936,11 @@ Follow the instructions in the GitHub to install the userscript.
 Script: files.catbox.moe/tqjl6o.json
 Gallery: imgur.com/a/pIsYk1i
 www.sdcompendium.com
+
+### Script for building a prompt from a lora's metadata tags
+Place into your WebUI base folder. Run with the following command:
+python .\loratags.py .\model\lora\<YOURLORA>.safetensors
+https://pastebin.com/S7XYxZT1
+
+### Example workflow
+![Example Workflow](https://files.catbox.moe/ylnaby.jpg)

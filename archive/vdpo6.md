@@ -468,7 +468,7 @@
 >his ears slicked back as if he was embarrassed 
 >he wasn't angry like before
 >maybe 
->"just because i have a lot of fun playing one"
+>"just because I have a lot of fun playing one"
 >he kissed the sweat off your shoulder and neck
 >"it doesn't mean I'm supposed to be one"
 >good lord he was in denial
@@ -523,7 +523,7 @@
 >your other hand found his chest and you teased his nipple
 >"fuck!"
 >his hips bucked and he clawed the sheets under him
->you weren't going to push him he liked men just yet
+>you weren't going to push him to admit he liked men just yet
 >but he seemed pretty gay from where you stood
 >pinned to the bed and making whorish noises
 >really hard to deny he was gay like this
@@ -555,7 +555,7 @@
 >his body like a tense spring and he ground his ass against your face
 >he couldn't even finish his insults any more
 >he was just babbling
->his thighs gripped your head as his loomed over you
+>his thighs gripped your head as he loomed over you
 >his paw gripped your hair as he gave himself over to riding your face
 >the purring came back
 >as much as he denied it himself his body told the truth
@@ -564,8 +564,8 @@
 >his thighs felt like a vice
 >for all his talk he immediately loved this
 >your hands held his hips in a deathgrip
->tongue fucking him made him make highest pitched cries to no one in particular 
->he desperately grinded back against your face
+>tongue fucking him made him make high pitched cries to no one in particular 
+>he desperately rode against your face
 >"not fair"
 >that was the first complete words he got out
 >well of course you were going to fight dirty

@@ -4,6 +4,8 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 310 - Street Fighters and Street Walkers Edition: https://desuarchive.org/trash/thread/57652550/
+Thread 309 - Pokebim's Elites Edition: https://desuarchive.org/trash/thread/57486807/
 Thread 308 - Mother Dragon Edition: https://desuarchive.org/trash/thread/57138960/
 Thread 307 - Wet Dream Dragon Edition: https://desuarchive.org/trash/thread/56968806/
 Thread 306 - Lesbian Cosplay Edition: https://desuarchive.org/trash/thread/56620030/

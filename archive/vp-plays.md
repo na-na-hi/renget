@@ -10,7 +10,7 @@ goals for this were:
 >add table of contents to allow quick access to recent content
 >give each LP a proper summary, including the following: game name, status, description, and notable events
 >revise thread subtitles because some are less funny than others
-I think I've accomplished all 3 of those goals with this complete redoing. 28k characters and I'm pretty sure half are subtitles/LP summaries/whatever
+I think I've accomplished all 3 of those goals with this complete redoing. 28k characters (as of initially posting this archive) and I'm pretty sure half are subtitles/LP summaries/whatever
 
 If anything seems out of order, then sorry about that, it's just that sometimes I go back to a game in the middle of a LP for some reason or another, or I put a run on hiatus to do something else. If you come across a link to a thread that isn't in the archive, then there's a few possible explanations for that:
 1: The thread in question got raided by underageb&s, schizos, something I'm not mentioning as to not tempt fate, or any combination of those.
@@ -320,14 +320,24 @@ https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
 https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
 https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
 
-##Rejuvenation - Madame Moto mod
+##Rejuvenation: Kaizoshit Edition
 !!! info Status: Ongoing
-    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a difficulty hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release.
-    Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984.
+    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a kaizo hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release. Currently being done by Wagiedos.
+    Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984, alongside a vast assortment of other bullshit like adding pulse3 for certain opposing pokemon only (gives them all their abilities at once), blatantly illegal EVs, cancerous lack of item availability while opponents freely get high tier items, etc. while freely giving high tier pokemon, pseudo-legendaries, legendaries, mythicals, etc. to opposing teams, while sabotaging player access to items or actually usable pokemon.
+!!! danger DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
+    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
+    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
+    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
     
-
 https://arch.b4k.co/vp/thread/53913991/ 1 it's beginning again
 https://arch.b4k.co/vp/thread/53921488/ 2 not filtered yet
 https://arch.b4k.co/vp/thread/53929481/ 3 it's over
 https://arch.b4k.co/vp/thread/53939424/ 4 procrastinating to summon another tripfag
-https://arch.b4k.co/vp/thread/53952218/ 5 subsequently sneed's
+https://arch.b4k.co/vp/thread/53952218/ 5 another cursed thread
+https://arch.b4k.co/vp/thread/53965022/ 6 oops, all whiteouts
+https://arch.b4k.co/vp/thread/53973907/ 7 WTF: the thread
+https://arch.b4k.co/vp/thread/53986393/ 8 lol filtered
+https://arch.b4k.co/vp/thread/53995502/ 9 an OP image that isn't cropped r34 this time, i think wagie's tripcode was cracked again
+https://arch.b4k.co/vp/thread/53999433/ 10 nevermind it wasn't cracked
+https://arch.b4k.co/vp/thread/54008063/ 11 time to cuddle with some redheads
+https://arch.b4k.co/vp/thread/54014436/ 12 WITNESSED

@@ -36,6 +36,7 @@
 05/2023|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoint](https://arxiv.org/abs/2305.13245)
 05/2023|[Small Language Models Improve Giants by Rewriting Their Outputs](https://arxiv.org/abs/2305.13514)
 06/2023|[StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984)
+06/2023|[AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -61,6 +62,8 @@
 07/2022|[Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
 02/2023|[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318)
 05/2023|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+05/2023|[Block-State Transformer](https://arxiv.org/abs/2306.09539)
+05/2023|[Randomized Positional Encodings Boost Length Generalization of Transformers](https://arxiv.org/abs/2305.16843)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -86,6 +89,8 @@
 06/2023|[Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://arxiv.org/abs/2306.00989)
 06/2023|[Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
 06/2023|[Improving Open Language Models by Learning from Organic Interactions (BlenderBot 3x)](https://arxiv.org/abs/2306.04707)
+06/2023|[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
+06/2023|[Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -107,6 +112,8 @@
 05/2023|[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)
 06/2023|[Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
 06/2023|[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
+06/2023|[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)
+06/2023|[Textbooks Are All You Need (phi-1)](https://arxiv.org/abs/2306.11644)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -149,6 +156,12 @@
 06/2023|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
 06/2023|[High-Fidelity Audio Compression with Improved RVQGAN](https://arxiv.org/abs/2306.06546)
 06/2023|[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://arxiv.org/abs/2306.07691)
+06/2023|[Anticipatory Music Transformer](https://arxiv.org/abs/2306.08620)
+06/2023|[RepoFusion: Training Code Models to Understand Your Repository](https://arxiv.org/abs/2306.10998)
+06/2023|[MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
+06/2023|[Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity](https://arxiv.org/abs/2306.12689)
+06/2023|[ViNT: A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846)
+06/2023|[How Long Can Open-Source LLMs Truly Promise on Context Length? (LongChat)](https://archive.ph/NfIj2)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -272,6 +285,16 @@
 06/2023|[Recurrent Attention Networks for Long-text Modeling](https://arxiv.org/abs/2306.06843)
 06/2023|[One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning](https://arxiv.org/abs/2306.07967)
 06/2023|[SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629)
+06/2023|[Tune As You Scale: Hyperparameter Optimization For Compute Efficient Training](https://arxiv.org/abs/2306.08055)
+06/2023|[Propagating Knowledge Updates to LMs Through Distillation](https://arxiv.org/abs/2306.09306)
+06/2023|[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
+06/2023|[A Simple and Effective Pruning Approach for Large Language Models](https://arxiv.org/abs/2306.11695)
+06/2023|[InRank: Incremental Low-Rank Learning](https://arxiv.org/abs/2306.11250)
+06/2023|[Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://arxiv.org/abs/2306.11270)
+06/2023|[Learning to Generate Better Than Your LLM (RLGF)](https://arxiv.org/abs/2306.11816)
+06/2023|[Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing](https://arxiv.org/abs/2306.12929)
+06/2023|[H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Model](https://arxiv.org/abs/2306.14048)
+06/2023|[FLuRKA: Fast fused Low-Rank & Kernel Attention](https://arxiv.org/abs/2306.15799)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
@@ -282,3 +305,6 @@
 04/2023|[Yohei Nakajima - AsymmeTrix: Asymmetric Vector Embeddings for Directional Similarity Search](https://archive.ph/nbMXN)
 05/2023|[OpenAI - Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 05/2023|[Alex Turner - Steering GPT-2-XL by adding an activation vector](https://archive.is/E7ehv)
+06/2023|[YyWang - Do We Really Need the KVCache for All Large Language Models](https://archive.ph/quOu2)
+06/2023|[kaiokendev - Extending Context is Hard…but not Impossible](https://archive.ph/vJC44)
+06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.ph/Rsoai)

@@ -32,7 +32,11 @@ Sharkskin
 https://rentry.org/emeqm
 Three Sheets to the Wind (finished)
 https://rentry.org/ba628
-Ballistics
+Ballistics (finished)
 https://rentry.org/ofso8
+Rabbit God
+https://rentry.org/9n9wr
+Pokémon master
+https://rentry.org/8s45n
 One shots
 https://rentry.org/kwmnz

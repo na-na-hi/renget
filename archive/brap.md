@@ -1,3 +1,4 @@
+# (THIS GUIDE IS OLD, OUTDATED AND DOESN'T FACTOR IN RECENT AI DEVELOPMENTS SUCH AS LORA, ETC. I MAY OR MAY NOT UPDATE THIS GUIDE IN THE FUTURE.)
 # Rough Guide on how to make brap art with zero art skill using Stable Diffusion.
 
 [TOC]

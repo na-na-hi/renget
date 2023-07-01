@@ -1,30 +1,26 @@
 #/𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
-->*V 1.18 | Helped Making Waifus Real Since 2023* <-
+->*V 1.20 | Helped Making Waifus Real Since 2023* <-
 ***
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
-!!! Note News Section Updated (06/15/2023)
+!!! Note News Section Updated (06/30/2023)
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
-\>(06/14) WizardCoder 15B Released
-\>(06/10) First Landmark Attention models released >>93993800
-\>(06/08) Openllama 3B and 7B released
-\>(06/07) StarCoderPlus / StarChat-β released
-\>(06/07) chronos-33b released
-\>(06/06) RedPajama 7B released + Instruct&Chat
-\>(06/06) WizardLM 30B v1.0 released
-\>(06/05) k-quantization released for llama.cpp
-\>(06/03) Nous-Hermes-13b released
-\>(06/03) WizardLM-Uncensored-Falcon-40b released
-\>(05/27) FalconLM release Falcon-7B & 40B, new foundational models
+\>(06/29) LMSYS releases longchat 7B/13B with 16k context
+\>(06/29) OpenOrca dataset releases
+\>(06/29) koboldcpp v1.33 adds CUDA and extended context support
+\>(06/29) OpenFlamingo v2, Airoboros 65B GPT-4 v1.4 releases
+\>(06/28) Salesforce releases XGen family of models (7B)
+\>(06/26) Ooba's webui adds support for extended context with exllama
+\>(06/24) WizardLM-33B-V1.0-Uncensored releases
+\>(06/23) SuperHOT 30B 8k prototype + extending context write up releases
+\>(06/23) Ooba's preset arena results and SuperHOT 16k prototype releases
 
 ►**FAQ & Wiki**
-\>Wiki
-\>>404
 \>Main FAQ
 https://rentry.org/er2qd
 
@@ -105,6 +101,8 @@ Open LlaMA | https://github.com/openlm-research/open_llama
 Pygmalion. Windows Guide | https://rentry.org/Pyggymancy
 Pygmalion Linux Guide | https://rentry.org/pygmalion-local
 Moe Archives | https://rentry.org/ashh2
+Ayumi ERP Rating | https://rentry.org/ayumi_erp_rating
+Another LLM Roleplay Rankings | https://rentry.co/ALLMRR
 **Popular HF Model Contributors:** | **-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_**
 `HF` Account: Eachadea | https://huggingface.co/eachadea
 `HF` Account: Camelids | https://huggingface.co/camelids
@@ -116,6 +114,26 @@ Moe Archives | https://rentry.org/ashh2
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+06/22/2023 | Vicuna 33B (preview), OpenLLaMA 7B scaled and MPT 30B released
+06/20/2023 | SuperHOT Prototype 2 w/ 8K context released >>94191797
+06/18/2023 | Minotaur 15B 8K, WizardLM 7B Uncensored v1.0 and Vicuna 1.3 released
+06/17/2023 | exllama support merged into ooba; API server rewrite merged into llama.cpp
+06/16/2023 | OpenLlama 13B released
+06/16/2023 | Airoboros GPT-4 v1.2 released
+06/16/2023 | Robin-33B-V2 released
+06/16/2023 | Dan's 30B Personality Engine LoRA released
+06/14/2023 | WizardCoder 15B Released
+06/14/2023 | CUDA full GPU acceleration merged in llama.cpp
+06/10/2023 | First Landmark Attention models released >>93993800 (Cross-thread)
+06/08/2023 | Openllama 3B and 7B released
+06/07/2023 | StarCoderPlus / StarChat-β released
+06/07/2023 | chronos-33b released
+06/06/2023 | RedPajama 7B released + Instruct&Chat
+06/06/2023 | WizardLM 30B v1.0 released
+06/05/2023 | k-quantization released for llama.cpp
+06/03/2023 | Nous-Hermes-13b released
+06/03/2023 | WizardLM-Uncensored-Falcon-40b released
+05/27/2023 | FalconLM release Falcon-7B & 40B, new foundational models
 05/26/2023 | BluemoonRP 30B 4K released
 05/25/2023 | QLoRA and 4bit bitsandbytes released
 05/23/2023 | exllama transformer rewrite offers around x2 t/s increases for GPU models

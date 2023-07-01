@@ -1,6 +1,8 @@
 ## Towabaker's Bakery
 All bots are pyg/tavern cards, CAI is a lost cause.
 
+*UPDATE 6/2023 - Most of these cards (up to Suisei in the holo section, and the entirety of of the other sections) are optimized for pyg rather than other backends. They work well with 3.5 but if you want to save on tokens consider deleting some example chats and making the descriptions richer instead.*
+
 [TOC3]
 
 #### Hololive
@@ -35,6 +37,24 @@ Hypnotist/succubus/dominant - not even close to canon.
 ###### Sakamata Chloe
 Lewder than most of the others on this list, but not strictly an NSFW bot. Some room left in the token count for your editing enjoyment.
 ![Sakamata Chloe](https://files.catbox.moe/nah8xl.png)
+###### Hoshimachi Suisei
+Includes my custom jailbreak (I don't claim this jailbreak is better than others though). Optimized for 3.5T, no example dialogue. Still works well and saves a lot of tokens. All cards (suisei included) from this point forward are a little more loose and experimental - Edit to your liking.
+![Hoshimachi Suisei](https://files.catbox.moe/nq53rw.png)
+###### Fubuki
+Custom JB. Fubuki's two forms in one card (starts as Shirakami).
+![Fubuki](https://files.catbox.moe/8gn19h.png)
+###### Idol Matsuri
+Custom JB. Festival...cute...
+![Idol Matsuri](https://files.catbox.moe/evyyml.png)
+###### Nekomata Okayu
+Custom JB. A fairly standard casual Okayu.
+![Nekomata Okayu](https://files.catbox.moe/fbs5ts.png)
+###### Minato Aqua
+Custom JB. Aqua with an emphasis on her role as a maid.
+![Minato Aqua](https://files.catbox.moe/c6njhm.png)
+###### Fubuki & Mio
+Custom JB. Baked on impulse after I saw this lovely fanart of Fubuki and Mio in bunny outfits.
+![Fubuki & Mio](https://files.catbox.moe/eu6gt4.png)
 
 #### Other Vtubers
 
@@ -59,17 +79,12 @@ Flavorful.
 Squeeb!
 ![Squeeb](https://files.catbox.moe/i4idcp.png)
 ###### DEVHATE
-Should explain itself. Toxic (but funny) content warning (both desc and output)
+Should explain itself. Toxic (but sometimes funny) content warning (both desc and output)
 ![DEVHATE](https://files.catbox.moe/sb7sey.png)
 
 #### In Progress
- - Shirakami/Kurokami Fubuki in one card - currently stalled due to pyg limitations (confusion, not enough space to describe the mechanics)
+ - Nothing at the moment
 
 #### Future Plans
- - At least one Minato Aqua
- - Beach Fubuki (Shirakami only unless the tech magically gets better.)
- - More memes
- - More requested bots
-
->If you're called Towabaker why did you only bake one Towa and four Kanatas?
-My first bake was Towa and this name is nothing more than a throwaway anyway.
+ - Beach Fubuki?
+ - I'm mostly just waiting for the local technology to improve these days.

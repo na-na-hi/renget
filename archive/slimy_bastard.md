@@ -6,7 +6,7 @@ SlimyMix is the first model I released. It has an anime and a slightly less anim
 
 **Some helpful resources that I use:**
 
-Guide for face and hair - https://rentry.org/faces-faces-faces **Edit:** the images on this page are broken. If anyone can contact the author, please do.
+My Krita and upscale guide - https://rentry.org/fixing-ai-images-with-krita
 Tags that SD should recognize - https://danbooru.donmai.us/wiki_pages/tag_groups
 Tags for composition - https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition
 List of artists for SD - https://www.urania.ai/top-sd-artists
@@ -30,8 +30,8 @@ hat, cat ears, nipples, halo, hair bun, hood, cleavage, portrait, selfie, 2girls
 `Steps: 36, Sampler: DPM++ 2M Karras, CFG scale: 10, Seed: 2344255172, Size: 768x512, Model hash: 82eae75456, Denoising strength: 0.4, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B`
 
 **My webui-user.bat arguments:**
---xformers --api --medvram --opt-split-attention
+--medvram --opt-split-attention --xformers
 
 **Contact Links**
-https://www.deviantart.com/slimybastard
 https://www.pixiv.net/en/users/89676943
+Discord: slimy_bastard

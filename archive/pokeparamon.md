@@ -499,6 +499,35 @@
 >I panicked.
 >I ran away, leaving that thing to die alone.
 >Jesus, I should've comforted him.
+
+![Moltres from Generation I](https://files.catbox.moe/z9nvar.png)
+##A: Never accept a trade for a legendary Pokémon.
+
+>Hi there.
+>I'm going to talk about a trade I did with my best friend.
+>He was once a big time champion for Kanto, not world-wide famous but he loved the attention.
+>I'm not going to name names, he doesn't need any more bad faith.
+>Anyways, I was having a birthday party a few days ago to which he was a part of.
+>It wasn't special at first, it was just a pretty average party held on my parents front lawn.
+>But when it was time for presents, he decided to give me a gift that I never would've expected.
+>It was Moltres, one of the legendary three Pokémon that was exclusive to this region.
+>I could barely believe what was happening, seeing this near-mythical creature being just handed to me like candy, to a beginner like myself who never got a gym badge before.
+>He had stolen the party from me by making it about his generosity but I didn't care.
+>I actually had a Moltres.
+>He soon got me out of my hype by challenging me to a Pokémon battle right then and there, to see how his skill would fare against the raw fiery power Moltres had.
+>He even said I didn't need to bother setting up a full team, I would just need to use Moltres.
+>And so the fight began with me summoning my new Pokémon while he brought out a Ekans.
+>As soon as Moltres got out, I could hear the grass beneath his feet start to singe.
+>The wild flames from his back made it hard to see anything else but himself and the fire.
+>Ekans started the fight with a quick Poison Sting.
+>I couldn't control what happened next.
+>I wanted to use Gust but Moltres did something else.
+>In what must've been an act of rage, it opened its mouth and shot out a long burst of flames.
+>It ran through Ekans and my best friend who was right behind it.
+>I felt my shoes melting to my feet as I fell behind this thing killing my friend.
+>It only flew away when the screaming stopped.
+>The one thing I remember seeing before I fainted was my friend's face.
+>There was nothing but charcoal.
 ***
 -> Fan-Submissions: Posts Made by Other People! <-
 ![Spoink from Generation III](https://files.catbox.moe/vwjfar.png)

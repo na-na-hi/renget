@@ -198,6 +198,47 @@ https://civitai.com/models/39447/fortnite-dolph
 - Polar Patroller
 https://civitai.com/models/86250/polar-patroller-fortnite
 
+# Witcher
+
++ Yennefer
+https://civitai.com/models/78888/yenneferthewitcher3
+https://civitai.com/models/84281/yennefer-witcher-3
+https://civitai.com/models/23452/yennefer-the-witcher-3-game
++ Triss
+https://civitai.com/models/73231/triss-merigold-witcher-3
+https://civitai.com/models/100099/triss-merigold-or-the-witcher-3-wild-hunt
+- Ciri
+https://civitai.com/models/18615/wither3-ciri
+https://civitai.com/models/80712/ciri-witcher-3
+https://civitai.com/models/82941/cirilla-fiona
+- Shani
+https://civitai.com/models/88636/shani-witcher-3-lora
+- Anna
+https://civitai.com/models/86049/anna-henrietta-witcher-3-lora
+- Iris
+https://civitai.com/models/85661/iris-von-everec-or-the-witcher-3-wild-hunt
+- Cerys
+https://civitai.com/models/88339/cerys-an-craite-or-the-witcher-3-wild-hunt
+https://civitai.com/models/100077/stripperella-stan-lees-stripperella-character-lora
+- Keira
+https://civitai.com/models/90521/keira-metz-witcher-3-lora
+- Priscilla
+https://civitai.com/models/88932/priscilla-or-the-witcher-3-wild-hunt
+- Queen Meve
+https://civitai.com/models/87103/queen-meve-or-thronebreaker-the-witcher-tales-witcher-universe
+- Geralt
+https://civitai.com/models/81880/geralt-of-rivia-or-the-witcher-3-wild-hunt
+- Letho
+https://civitai.com/models/91613/letho-or-the-witcher-2-assassins-of-kings
+- Eskel
+https://civitai.com/models/95724/lambert-or-the-witcher-3-wild-hunt
+- Lambert
+https://civitai.com/models/95724/lambert-or-the-witcher-3-wild-hunt
+- Regis
+https://civitai.com/models/85451/regis-or-the-witcher-3-wild-hunt
+- Roche
+https://civitai.com/models/87604/vernon-roche-or-the-witcher-3-wild-hunt
+
 # Homestuck fan art
 
 - Aradia Megido

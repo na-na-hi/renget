@@ -32,6 +32,15 @@ While doing Adventure mode, you may notice that you're collecting these golden t
 #### -> Events <-
 Once units return from adventure, they may trigger an event that you can interact with on the Adventure map. These are just small scenes where a unit will retrieve an equip for you. Some events that have pink-ish text can trigger a gamble event, where you choose between two options. These usually involve gambling on getting a higher amount of the resource vs getting a very low amount (Ex. 40% chance for 3 CB EX equips vs 60% for 1 CB EX equip). 
 This is based on individual adventures, not just the full bulk sent ones. Please note that you won't receive any sort of notification for when an event is triggered. The red Diamond appears when a team fully completes their assigned adventure(s). So if you send them out for 60 hours, you won't get a notification icon until the entire thing is done.
+Events with Blue text will trigger a conversation and will give [certain rewards.](https://priconne-redive.jp/news/update/22874/)
+- 100 Gold EXP Pots
+- 20 Hearts
+- 50 Cakes
+- 1 single pull gacha ticket
+- 100 Gold equipment upgrade shards
+- Rupees 10000 
+- Mana
+- Divine Stones
 
 ### ->Memory events <-
 Your party may bring you back a picture, which is a nice piece of art for the guilds in the game. Currently, there are 14 existing memory art pieces. You can get duplicates, so results may vary on how quickly you can gather them all. These also give equipment when they're brought back, so even a dupe image can help you out in that regard. Unfortunately, you cannot use the Memory event art pieces on your home screen.

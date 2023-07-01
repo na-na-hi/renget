@@ -789,7 +789,16 @@ Set list (stream starts at 0:55):
 
 [warosu](https://warosu.org/vt/thread/S49359520#p49363521)
 
+#### June 2023
+
+##### Petz Horses 2 karaoke
+[2023-06-22](https://youtu.be/D7YOG4HpAC8)
+[magnet](magnet:?xt=urn:btih:81f250be8b3ee650cb73546de79da2c7e9a3241c&dn=%5B20230622%5D%20Unarchived%20Horse%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[audio mega](https://mega.nz/file/ogA23a7Q#EIq7Th0j7vR1__t5VcrsmB8XVOl4Q2nhdPICozzI6Qw)
+
+[mega mirror](https://mega.nz/folder/HJoh1BiZ#pPVvh1FqBp-_RB36vf3Xfg)
+
+[warosu](warosu.org/vt/thread/51940336#p51941180)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-suggestions? issues? no seeds? contact here: ILRTYVW@proton.me

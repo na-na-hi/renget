@@ -15,11 +15,24 @@ Starting out, I suggest giving A1111's Features page a read; it contains informa
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
 
 ## What is the best model?
+WHEN STARTING OUT AND YOU'RE UNSURE, GET THIS ONE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares/fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors
+
+Put models in ``\stable-diffusion-webui\models\Stable-diffusion``
+
 After a long drought, we now have two whole models trained on furry stuff on e621: Fluffyrock and Fluffusion. 
 Current thread favorites are merges between Fluffyrock, Fluffusion and Crosskemono.
 
 Links to all three can be found in https://rentry.org/trashcollects. Latest epochs are generally the best.
+
 For Fluffyrock, as of now https://huggingface.co/lodestones/furryrock-model-safetensors/tree/main/fluffyrock-1088-megares and https://huggingface.co/lodestones/furryrock-model-safetensors/tree/main/fluffyrock-1088-megares-offset-noise are the ones being updated the most often.
+
+DIRECT DL WITHOUT OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares/fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors
+WITH OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares-offset-noise/fluffyrock-576-704-832-960-1088-lion-low-lr-e27-offset-noise-e12.safetensors
+
+## What is Offset Noise?
+Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
+Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.
+This is because Offset Noise allows for brighter brights and darker darks than is usually possible. If you stack Offset Noise on top of Offset Noise, you get very bright and very dark images, far more than is likely intended.
 
 ## What does Catbox mean?
 catbox.moe is an image and filesharing site.
@@ -63,6 +76,20 @@ The corresponding quicksetting is named "tac_tagFile".
 
 >You should put more important tags first, and things you don't care about as much last. But it's also not a super strict thing.
 If you go above the token limit of 75, you might want to use BREAK in order to sort your prompts. See "What does BREAK in a prompt field do?" for more info.
+
+## What is Clip Skip?
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5674#discussioncomment-4384445
+
+>CLIP model (The text embedding present in 1.x models) has a structure that is composed of layers. Each layer is more specific than the last. Example if layer 1 is "Person" then layer 2 could be: "male" and "female"; then if you go down the path of "male" layer 3 could be: Man, boy, lad, father, grandpa... etc. Note this is not exactly how the CLIP model is structured, but for the sake of example.
+>The 1.5 model is for example 12 ranks deep. Where in 12th layer is the last layer of text embedding. Each layer matrix of some size, and each layer is has additional matrixes. So 4x4 first layer has 4 4x4 under it... SO and so forth. So the text space is dimensionally fucking huge.
+>Now why would you want to stop earlier in the Clip layers? Well if you want picture of "a cow" you might not care about the sub categories of "cow" the text model might have. Especially since these can have varying degrees of quality. So if you want "a cow" you might not want "a abederdeen angus bull".
+>You can imagine CLIP skip to basically be a setting for "how accurate you want the text model to be". You can test it out, wtih XY script for example. You can see that each clip stage has more definition in the description sense. So if you have a detailed prompt about a young man standing in a field, with lower clip stages you'd get picture of "a man standing", then deeper "young man standing", "Young man standing in a forest"... etc.
+>CLIP skip really becomes good when you use models that are structured in a special way. Like Booru models. Where "1girl" tag can break down to many sub tags that connect to that one major tag. Whether you get use of from clip skip is really just trial and error.
+>Now keep in mind that CLIP skip only works in models that use CLIP and or are based on models that use CLIP. As in 1.x models and it's derivates. 2.0 models and it's derivates do not interact with CLIP because they use OpenCLIP.
+
+Change clip skip in Settings > Stable Diffusion. Adding it to Quicksettings is recommended, see the next section.
+Most models are Skip 1, except Fluffusion or merges containing NovelAI Anime - those are Skip 2. When merging models containing different skips, experimentation is recommended to find out which one works better in your case.
 
 ## What are Quicksettings?
 
@@ -152,6 +179,9 @@ Installing Dynamic Prompts adds a Wildcards Manager tab to the WebUI. From here,
 
 Wildcards are used by writing their name, surrounded by two underscores. A wildcard named "e621artists" containing three line-seperated artist names would be called by writing `__e621artists__` in the prompt field; one of the artists would be picked for each image you make.
 
+In addition to the ones provided by Dynamic Prompts, you can also find many others maintained here:
+https://rentry.org/NAIwildcards
+
 ## What is ControlNet?
 ControlNet has its own set of models that can be used to further influence the composition of an image based on images you feed to it. A good guide for this is https://rentry.org/IcyIbis-Quick-ControlNet-Guide, I mostly want to focus on the Tile model that can be used to improve SD Upscale results, as well as give links to pruned fp16 models that work for me while not taking up as much disk space.
 ControlNet 1.1 pruned models: https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
@@ -160,11 +190,6 @@ These belong in stable-diffusion-webui\extensions\sd-webui-controlnet\models. Ma
 Using ControlNet Tile with SD Upscale is simple: in the ControlNet panel, click on Control Type: Tile; the Preprocessor and Model fields should change to tile_resample and control_v11f1e_sd15_tile_fp16. I leave them as-is, as well as the rest of the settings.
 Make sure to Enable ControlNet, then use SD Upscale as usual. ControlNet Tile allows for higher denoising than normal, but it is not guaranteed to work. .75 can work, but may still result in wonky images. .5 should be normally safe, though.
 
-## What is Offset Noise?
-Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
-Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.
-This is because Offset Noise allows for brighter brights and darker darks than is usually possible. If you stack Offset Noise on top of Offset Noise, you get very bright and very dark images, far more than is likely intended.
-
 ## What does model1+model2 (Fluffusion+Crosskemono/70% FF + 30% CK) mean?
 Refers to merged models, see the "Checkpoint Merger" tab in the WebUI.
 
@@ -172,7 +197,7 @@ It is possible to take multiple checkpoints and average their weights. This way,
 
 [![Checkpoint Merge 01](https://files.catbox.moe/xyr76z.png)](https://files.catbox.moe/xyr76z.png)
 
-The example above is how you would make the 70/30 merge between Fluffusion and Crosskemono.
+The example above is how you would make a 70/30 merge between Fluffusion and Crosskemono.
 
 Setting explanations:	
 
@@ -234,7 +259,7 @@ https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-in
 (word:1.21) == ((word))
 (word:0.91) == [word]
 To use literal ()/[] in your prompt, escape them with \
-See https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features for full details and additional features.
+See https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#attentionemphasis for full details and additional features.
 
 {word} is for NovelAI's official service only. It is similar to (word) but the emphasis is only increased by a factor of 1.05.
 

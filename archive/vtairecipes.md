@@ -42,6 +42,9 @@
 [Author post](https://warosu.org/vt/thread/S41575080#p41576437)
 [Download link](https://pixeldrain.com/u/xmE4rdHX) / [Huggingface mirror](https://huggingface.co/grugger/chubas/resolve/main/models/mirrors/hll3vtubers-last-pruned.safetensors)
 
+####hll3.1-lora
+[Download Link](https://huggingface.co/CluelessC/hll-test/resolve/main/lora/hll3.1-lora.safetensors)
+
 ###hll4-p1 (aka HLL4, ""beta"" version)
 >Trained on all vtubers with >15 images, hololive mamas/papas and some additional artists. Uses gelbooru + WD tagger tags.
 >Merge it as usual: ![preview image](https://files.catbox.moe/of71or.jpg)
@@ -80,6 +83,20 @@
 -> ![preview image](https://i.postimg.cc/MKYX6Y0t/xyz-grid-1403-709235711-best-quality-detailed-1girl-hll-holo-outdoors.jpg) <-
 [Author post](https://archive.palanq.win/vt/thread/46567390/#46569017)
 [Download link](https://huggingface.co/CluelessC/hll-test/resolve/main/hll4-p3-ep8.safetensors)
+
+###hll-s [_hll-s-ep8_]
+[Download](https://huggingface.co/CluelessC/hll-test/resolve/main/hll-s-ep8.safetensors)
+
+####hll-S-2
+[Download](https://huggingface.co/CluelessC/hll-test/resolve/main/hll-S-2.safetensors)
+
+###hll-5
+
+####hll-5b
+[Download](https://huggingface.co/CluelessC/hll-test/resolve/main/hll-5b.safetensors)
+
+####hll-5-merged-lora
+[Download](https://huggingface.co/CluelessC/hll-test/resolve/main/lora/hll-5-merged-lora.safetensors)
 
 ##How to mix the Vtuber models?
 [Read this for the basics](https://rentry.org/hdgrecipes#model-merging-crash-course)

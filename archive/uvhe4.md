@@ -1,5 +1,8 @@
 /hifi/ FAQ
 
+Links:
+What is the best amplifier to buy? https://docs.google.com/spreadsheets/d/1ZlTOYxmPs938gqHjtDABkWS-MApu7uJjzIGnJ2Elm6Y/htmlview#
+
 Q001: What is an amplifier?
 * An amp takes the low level signal from a source (for example CD player) and amplifies it so much, that it's able to move the speakers diaphragmm, thus generating audible sounds. Some amps are stereo, sources connected to it have two channels and there are two power amplification stages to drive speakers. Some amps are for AV (audio video) equipment, there we find often 5, 7 or more channels coming from the source (which is TV, Bluray or DVD for example).
 

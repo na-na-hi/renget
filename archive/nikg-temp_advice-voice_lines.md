@@ -371,18 +371,20 @@ Looking for partners to finish quest together.
 2. I hate offline meetups, but if it's you, noob, I suppose I can make an exception.
 3. The top ranked players has ice in her veins, but is far from icy with you.
 
-##Folkwang
+## Folkwang
 >Blabla Status
+Hot! So hot! Too hot to bear! 
 
 >Gift Received
-1.
-2.
-3.
+1. Since... you've given me a gift... how about a hug?
+2. Oh great. I sweat even when i'm overjoyed.
+3. Ugh! Uhh! Let me wipe the sweat off my hands first! Thanks.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. *gasp* Can you hug me tighter?
+2. *sigh* I wish I could hold you all the time! Not... just when I need to cool down.
+3. I like you so much! Really! Not even supplements can match you! I... think?
+
 
 ##Frima
 >Blabla Status
@@ -593,6 +595,19 @@ Please get yourself vaccinated! ^^
 2. Can you lay down on the bed? I have a shot I prepared especially. For. You.
 3. I feel that we're getting closer and closer. I'm so happy!
 
+## Mary (Bay Goddess)
+>Blabla Status
+Who wants a physical exam by the seaside?
+>Gift Received
+1. Ah, thank you. This might come in handy during your next physical... *giggle*
+2. I'll take good care of this.
+3. You're so kind, Commander.
+
+>Affection Lvl Up
+1. I'm a bit concerned *giggle* because I can't stop thinking about you.
+2. It seems kind of hot in here. Maybe that's just because it's summer?
+3. In theory I should treat every patient the exact same, but I do show you some special treatment from time to time.
+
 ##Maxwell
 >Blabla Status
 Testers wanted. 300k Credits per hour.
@@ -678,19 +693,33 @@ I love you so much!
 2. I like you, Commander. I really do.
 3. Whenever i'm around you I feel warm inside.
 
-##Neon
+#Neon (Blue Ocean)
 >Blabla Status
-I'm a girl who loves firepower with all her heart.
+Haha! Now I'm practically a Waterpower powerhouse! 
 
 >Gift Received
-1. There's nothing I won't do for greater firepower!
-2. Thanks, Master!
-3. Wow! For me?
+1. Is this a special gift because i'm part of The Counters? I'll take it!
+2. Thanks, Master! You're, like, totally the coolest!
+3. Wow! Is this for me?
 
 >Affection Lvl Up
-1. I would give up my finest ammo for you.
-2. You've taught me well, Master! I'll repay you by putting my firepower to good use.
-3. I'm starting to feel the sparks between us.
+1. I'm so happy to be here with you, Master.
+2. Lets you and I walk forward, hand in hand! Towards that great beyond! 
+3. It doesn't matter if you're dry or soaking wet. I'll admire you all the same.
+
+#Neon (Blue Ocean)
+>Blabla Status
+Haha! Now I'm paractically a Waterpower powerhouse! 
+
+>Gift Received
+1. Is this a special gift because i'm part of The Counters? I'll take it!
+2. Thanks, Master! You're, like, totally the coolest!
+3. Wow! Is this for me?
+
+>Affection Lvl Up
+1. I'm so happy to be here with you, Master.
+2. Lets you and I walk forward, hand in hand! Towards that great beyond! 
+3. It doesn't matter if you're dry or soaking wet. I'll admire you all the same.
 
 ##Neve
 >Blabla Status

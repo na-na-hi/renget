@@ -79,11 +79,11 @@ If Ultimate is used from off field switch, when Ultimate ends, Shigure Kira will
 
 **ULTIMATE 2**
 ~~V2: When Ultimate’s final shot hit an enemy, all team member’s Total DMG +15%, Ice DMG ~~+20%~~ +10%, last for 15s, can be refreshed.~~
-**V3: Within 15s after Ultimate final shot hits an enemy, if a team member with ice tag on the field deals hp loss effect, the enemies take 16% more Total DMG for ~~4s~~ 5s, can be refreshed.**
+**V3: Within 15s after Ultimate final shot hits an enemy, if a team member with ice tag on the field deals hp loss effect, the enemies take 16% more Ice DMG for ~~4s~~ 5s, can be refreshed.**
 
 **ULTIMATE 3**
 For every Ultimate shots that hits an enemy, whole team gain ~~8~~ 7 SP. 
-Each shot that hits an enemy reduces Kira's ult cd by 1s (does not take effect in coop), minimum cd 12s.
+Each shot that hits an enemy reduces ult cd of all team members on the field by 1s (does not take effect in coop), minimum cd 12s.
 ---
 
 **CHARGED ATK**

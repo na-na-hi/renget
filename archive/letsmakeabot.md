@@ -7,10 +7,7 @@ Sections:
 
 Firstly, hi! This is just how I approach the creative process of making a bot. The best part of botmaking is that you get to see the characters that you write come to life! Isn't that just grand? In this guide, I'll be creating a character with you, so you can follow along!
 
-I use the presets that a kind anon lays out here, I really recommend 'em!
-https://rentry.org/geppetto4guide
-
-I also recommend reading [MothAnon's guide](https://rentry.org/MothsBotMakingStuff) and [How OpenAI interprets card](https://rentry.org/oaicards)
+I also recommend reading [MothAnon's guide](https://rentry.org/MothsBotMakingStuff) and [How OpenAI interprets card](https://rentry.org/oaicards), as they have more knowledge than me, I'm sure.
 
 With that out of the way, here is my process:
 

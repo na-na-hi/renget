@@ -378,11 +378,6 @@
 ![Gopnik Pokémon Style](https://i.imgur.com/9Sbjkcl.png)
 #####Present by Linoone and Debby
 ![Present by Linoone and Debby](https://i.imgur.com/eyKV3th.png)
-####Lliam's Grid
-#####Guildmaster and His Namesake
-![Guildmaster and His Namesake](https://i.imgur.com/sPb9rot.jpg)
-#####Guildmaster and Botony
-![Guildmaster and Botony](https://i.imgur.com/8BkNs4Q.jpg)
 ####Lycanroc's Library
 #####Team Notoriety
 ![Team Notoriety](https://i.imgur.com/7QNfPUO.png)

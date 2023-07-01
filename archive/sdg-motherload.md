@@ -7,6 +7,23 @@ I  take model/LoRA backup requests too. So if you need something saved, tell  me
 
 **LoRA Motherload: https://rentry.org/sdg-lora-motherload**
 
+**In addition to the models below you can find a mirror of civitai at these links (10k files per directory):**
+https://huggingface.co/HugeOcean/MotherloadMirror/tree/main
+https://huggingface.co/HugeOcean/MotherloadMirror2/tree/main
+https://huggingface.co/HugeOcean/MotherloadMirror3/tree/main
+
+Until repo search is implemented, you can find model names, file names, descriptions and other info about each model here with ctrl + f (I scraped civitai on 6/25/2023, so the info is relevant up to then):
+https://anonfiles.com/mfs8G5y1z1/civitai_models_jsonl
+
+Filenames in the repo are identical to filenames in the jsonl file, so you could just append the filename to the directory name like so to find a specific model:
+
+https://huggingface.co/HugeOcean/MotherloadMirror/blob/main/0001softrealistic_v10P.safetensors
+https://huggingface.co/HugeOcean/MotherloadMirror2/blob/main/Nice%20forest.safetensors
+etc
+
+The files in these directories aren't sorted in any logical order, models, LoRA's, wildcards, embeds, etc are all bunched up in one pile. 
+
+
 #Models
 **Table of contents**
 [TOC2]

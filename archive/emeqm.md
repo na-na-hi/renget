@@ -29,7 +29,7 @@
 >he was a loner after a few misguided attempts at making friends
 >big "eats lunch by himself" energy 
 >you were the new guy so you tried to make friends 
->I couldn't hurt
+>it couldn't hurt
 >it helped you were into the whole skinny vaguely Asian brunette thing
 >probably shouldn't think of a coworker like that but you wondered what he looked like cleaned up
 >the guy looked like he lived in his office

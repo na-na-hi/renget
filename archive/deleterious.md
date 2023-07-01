@@ -1,7 +1,7 @@
 #Welcome to the Citadel!ヽ(o＾▽＾o)ノ
 
 Heya! It's me, Del. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
-Del Status: RPG IN THE WORKS
+Del Status: Gone
 [TOC3]
 
 ##Characters
@@ -86,7 +86,18 @@ Please treat her well!＼(≧▽≦)／
 The Graceful and Innocent Deity of Love. Show 'em proper love.
 https://files.catbox.moe/ilg70c.png
 (Art by @avogado6)
-
+###Toku
+Vanquish Evil with Toku! („• ֊ •„)
+![Toku](https://files.catbox.moe/696y5l.png)
+A chuuni obsessed with special moves. Go on a date with her but remember, evil lurks around every corner.
+https://files.catbox.moe/696y5l.png
+(Art by uniunimikan)
+###Fuku
+Roll with the punches! (o_ _)ﾉ彡☆
+![Fuku](https://files.catbox.moe/8j114c.png)
+A young and passionate diceroller nerd. Your meeting has been decided by fate!
+https://files.catbox.moe/8j114c.png
+(Art by @kugatu28)
 Chub Page:
 https://www.characterhub.org/users/eldritchad
 
@@ -99,4 +110,4 @@ Here's my burner if you're too embarassed to show logs/ provide feedback in the 
 Or... if you just want someone to talk to. :3
 guessssssssssss@proton.me
 
-R2hveHZscnFkbyMzODE3  (^.~)☆
+(^.~)☆

@@ -1,0 +1,47 @@
+# Eve Opener
+
+“Hey, Aaron’s looking at you.”
+
+Eve almost turned around, but caught herself at the last minute. Ava cackled, her red hair streaming down past her shoulders like an inferno, and shook her head. “Just – take my word for it, okay?”
+
+Eve sighed and took another sip from her orange juice. “Okay, Ava. Whatever you say.” They were sitting in the cafeteria, fresh from cheerleading practice, and had taken up their usual seats seated at their usual table. She remembered staring at this table from the edge of the cafeteria as a freshman, pimply and awkward, in the throes of her latest growth spurt. And look how far she’d come. As she looked on, Beth leaned over, facing Ava. “Don’t tease Eve so,” she interceded, a devilish grin on her face. “She’s shy. Let her crush on Aaron in peace.”
+
+“I do *not* have a crush.”
+
+“Whatever you say, Eve.” The table laughed, and Eve laughed along with them. It may have been premature to think this, but she loved these girls. They hadn’t spent a whole lot of time together, but she could just feel it. A glorious future was on the horizon. The next few years were going to be full of excitement as they made memories together, shoulder to shoulder, pushing on through the highs and the lows, and she couldn’t *wait* –
+
+There was a loud sound, a little like thunder, and Eve froze stiff as the cafeteria seemed to quake. Wanda had risen to her feet, eyes wide as she stared over her shoulder. A stampede was already brewing. More loud noises sounded, accompanied by screams and shouts, and someone grasped her shoulder roughly, pulling it out of her socket through sheer desperate strength. Eve shrieked, toppling backwards, but was caught by Anna, whose haphazard tugging only served to further dislocate her shoulder.
+
+The entire cafeteria was panicking, now, stumbling out the doors, emptying out, and through tear-filled eyes, Eve saw someone approaching them, strolling inexorably forward with a cocky, murderous sort of intent. A black trench coat swished about his jeans, and there was a gun in his hand. Someone screamed at her to run, and Eve ran, her right arm dangling uselessly at her side, heart pounding as more gunshots sounded and someone – Ava? – tripped and fell, collapsing boneless like a puppet that had had its strings cut, the entire back of her skull dissolving into red that splattered all over her, wet and warm.
+
+Eve barely noticed. Her brain was shifting gears into something purely animalistic, with no room for anything else save escape. The whole world was screaming as they spilled out into the corridor, a single seething crowd, each one fighting to be the first out the doors. She didn’t look down as she trampled over some poor kid’s face, and even when her kneecaps had been reduced to smithereens, she kept crawling forwards one-armed, face pale and drawn as the thud of the shooter’s boots echoed in her ears –
+
+***
+
+“Evelyn? Evelyn?”
+
+Eve gasped, pitching backwards against the cistern. The person outside paused, uncertain. “Are you okay? Having a heart attack?”
+
+Eve shook her head, remembered that Brynn couldn’t see her, and cleared her throat. “I’m fine,” she rasped. “Just… spacing out.”
+
+“Oh.” Brynn coughed. “Sorry. Damien asked me to check on you. He said he sent you an email about something.”
+
+“Okay,” Eve said, the pounding of her heart throbbing in her ears. Every time she had a panic attack, it took a little longer for her breathing to come back under control. Grunting, she heaved herself to her feet and made her way out of the bathroom to wash her hands. As she looked up, the fluorescent lights on the ceiling flickered once, and in that instant, as the bathroom was engulfed in darkness, she saw a blonde girl in the mirror, slim and lovely, resplendent in a cheerleading uniform, ready to take on the world.
+
+And then the lights came back on, and she was Evelyn again. Stuck in just another office job; stuck on the wrong side of thirty; stuck in this fat, frumpy body, slowly inflating under the weight of her ruined metabolism. She’d never walked the same way again, not after that boy had taken both her knees out in one shot, and her right shoulder would twinge painfully if she moved too quickly. Carefully, much too carefully, she adjusted her glasses one-handed and left the bathroom.
+
+Eve didn’t do much in her current job. It was basic secretarial work. Planning events, keeping things updated, chasing clients and employees alike to fill in their forms. Advising her boss, too, when he needed some additional insight. (It was funny; people tended to stop paying attention to her if she kept quiet. She’d never tested the limits of it. Perhaps she was just an easy person to ignore.) She never stayed past her contractually-obliged timeslot, and no one had ever tried to stop her. When she was done with her work, she shut off her computer, hoisted her tote onto her good shoulder, and trundled out the door and into the lift, down to the carpark.
+
+She’d been chubby in middle school. She blamed it on her mother. She’d rebelled for a few years, refusing to eat anything that she prepared for her, and it’d worked. She’d shed dozens of pounds and made the cheerleading team. She’d had her entire life ahead of her, but it didn’t last. (Nothing ever lasted.) After the event, the hospital had discharged her back into her old, suffocating bedroom, and her mother had loaded her up with lasagne and cake, and she’d collapsed right back into her old habits. Eve knew she ought to have fought harder, but she hadn’t. And when her mother had died, struggling to breathe through her nasal cannula, marooned in her bed, barely a year after her father’s final fatal heart attack, she hadn’t even had the heart to say “I told you so”.
+
+The lift in her crumbling apartment building was broken, like it always was. It took Eve way too long to struggle up the flights of stairs, face crimson with effort. It felt like forever. Her knees were killing her. When she finally reached her floor, she collapsed onto her couch, fumbled blindly for the remote, and switched it on, ordering takeout on her phone. As she always did.
+
+She gorged herself on something cheap and greasy, worked her way through two cans of beer, and fell asleep on the couch. Woke up, three hours later, screaming her throat raw. Another nightmare. Her neighbour thumped on her wall. Eve didn’t know why they still bothered; she’d lived next door to them for years, and they’d never met in the halls, but she’d lost count of how many times she’d woken up like this, in the middle of the night. The light above her head blazed bright, fending off the Darkness just outside her window. (That was how you could tell that she was a Dunwich native: there was the darkness, and then there was the Darkness.) She heaved herself to her feet, lumbered to the fridge, and picked up where she’d left off with her double-chocolate tub of ice cream.
+
+As she sat there, staring blankly at the static on the television, a thought occurred to her. From time to time, she’d go down to one of the oldest libraries in Dunwich and browse the shelves. Those weren’t happy memories; they weren’t what she held onto to dispel the nightmares. What she *did* hold on to, and tightly, were the scattered shreds of her first few years of high school. Taking a trip down south, to the beach, with her class. Summer, at camp, learning how to do handstands and somersaults and backflips. The party at Aaron’s house, a week before the dreadful incident. (Aaron had moved out of Dunwich after that. They hadn’t spoken since. Eve envied him.)
+
+Anyway. She’d been to the library, once or twice. (More than that. Way more than that.) She knew her way around the shelves. Filing systems: as a secretary, she was familiar with them. All those spare half-hours of reading, idly doing sums on her little notepad, before she booted up her crappy old ThinkPad and ran the numbers to find that Dunwich’s murder rate was six times the national average. Forty to sixty disappearances a year. And, in the days and months after that realization, she’d stumbled on a reference in a book to a document which said that the original party of white settlers who’d founded Dunwich-before-Dunwich had disappeared without a trace. All three hundred of them. Fifteen years later, Dunwich was re-founded. This time it stuck.
+
+Eve woke up, delirious. The last, half-melted dregs of ice cream glistened at the bottom of the tub, and she chucked it into the bin at her elbow, disgusted not just at the mess but at herself. The television was off (had she switched it off?), and in it, she could see her reflection: her pale moon-face; her heavy, sagging gut; her lank, blonde hair, which she hadn’t styled properly in years; her cellulite-ridden legs, lumpy and shapeless. Something about her reflection struck her, then, struck her to the core, and she stared, gormless, as the Eve in the mirror smiled jauntily out at her, candy-ridden teeth on full display, and reached out, through the screen – something moved in the darkness behind its eyes, something big –
+
+She didn’t scream as she fell backwards, phasing clean through the couch, but she did make a soft, thick noise of surprise as her buttocks squished against the cold floor. Her hair tickled the nape of her neck as she splayed her arms out to either side, then rolled onto her side in a bid to heave herself upright again, slow and ungainly. Panting, Eve stood, removing her glasses to rub at her eyes. *Did that really happen?*

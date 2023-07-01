@@ -1,11 +1,5 @@
 #Fluffusion
 ##NEWS:
-###Fluffusion Revision 1 Training Completed!
-https://pixeldrain.com/u/6mYzw6AT
-
-A prompting speedrun will be made to make adjusting over from Yiffy and or FluffyRock to make life easy.
-
-The others are listed here as historical and may move to another Rentry.
 
 ##Fluffusion Release:
 
@@ -14,6 +8,7 @@ Fluffusion is a 640 base resolution model with aspect ratio buckets, Clip Skip 2
 ###r1:
 * csv https://cdn.discordapp.com/attachments/315121916199305218/1093975936577319044/fluffusion_r1_tags.csv
 
+* e21 Mysterious Gamma SNR + Pertubated Noise final epoch?
 * e20 https://pixeldrain.com/u/6mYzw6AT
 * e19 https://pixeldrain.com/u/v4RY6SC1
 * e18 https://pixeldrain.com/u/dH1eiuxr
@@ -37,14 +32,6 @@ Fluffusion is a 640 base resolution model with aspect ratio buckets, Clip Skip 2
 
 All known artists in the e6 dataset have been given a prepending of `by` - so that means that for specific cases like `pig (artist)` or `hoodie (artist)` where it'd generate a pig or a hoodie, it will instead actually see them as an artist. So the changes would be more like this `by pig (artist)` and `by hoodie (artist)` respectively.
 
-####r1 test lowLR:
-Note: This is an experimental test epoch containing 920k images with their associated tags.
-* https://pixeldrain.com/u/iijEfUhM
-
-####r1 test highLR:
-Note: This is another experimental test epoch containing 920k images with their associated tags.
-* https://pixeldrain.com/u/zH9NXsZA
-
 # Troubleshooting:
 * My generations look crusty or blurry.
 Your generation resolution is below 640 on the horizontal or vertical axis.
@@ -54,6 +41,20 @@ Enable Clip Skip 2 in your preferred software settings.
 
 * My prompts from other models, or merged models don't work properly, what's going wrong?
 NovelAI based prompting like `masterpiece, best quality` have zero effect on Fluffusion, and Fluff Proto models. For e6 adjacent tags, `hi res` and `absurd res` are similar tags.
+
+# Experiments:
+
+####proto r11_e1:
+Note: This is a test epoch of a minified dataset trained against R1E20 containing Gamma SNR and perturbed noise training on a new seed. Things may be hilariously broken.
+* https://pixeldrain.com/u/zHpduGq8
+
+####r1 test lowLR:
+Note: This is an experimental test epoch containing 920k images with their associated tags.
+* https://pixeldrain.com/u/iijEfUhM
+
+####r1 test highLR:
+Note: This is another experimental test epoch containing 920k images with their associated tags.
+* https://pixeldrain.com/u/zH9NXsZA
 
 # Historical Models:
 ##fluff_proto:

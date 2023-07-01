@@ -486,8 +486,307 @@ Elm gives me a weird look, then shrugs. "Well, see you around." Elm gives me a w
 
 *(I will create a world where the coziness that we know today lasts forever.)*
 
-## Encounter with Mew (Coming soon)™
+## Pancake Pandemonium
 
-## Sorry, Guildmaster! (Coming soon)™
+*(What should I do today...)*
 
-## Reunion (Coming soon)™
+I stretch as I walk up the stairs from the storeroom to the guild lobby. It's just past midday, and most guildmembers are off on missions or wandering around the town. I'm about to make my way back to my room when I notice Debby the Delibird by the entrance of the guild carrying some packages.
+
+*(Ah, I should go help her deliver some of those.)* I fly down over to her and she gives me a smile.
+
+"Hello there, hon!" Chirps Debby as she takes a package out of her bag. "Ya' mind takin' this here package to Beast? I'm a busy gal with a lot of packages to deliver today!" 
+
+"S-Sure, m-maam..." I pick up the package, which is a wooden crate. I nearly fall over as I lift it up, as it's heavier than I expected. "Wh-What's in th-this?"
+
+"Sorry dear, client confidentiality!" She says with a chuckle. "Y'all got some strong arms an' wings hon, ever thought about makin' some cash on the side workin' for me?"
+
+I blush at the offer. "U-Uh... I-I'll c-consider i-it..."
+
+"Hoot! Hope y'all do, hon!" She says a little extra cheerfully, obviously glad she made me blush. "Well, I hafta get back to deliverin', thanks for being such a sweetie, Toge!" 
+
+"Y-You t-t-too..."
+
+She grins as she lifts her bag over her shoulder and flies out of the guild. I adjust my grip on the crate and start waddling over to the kitchen, as the crate is too heavy of a load for me to carry while flying. *(Wait, how did she know my nickname? I don't think I've ever introduced myself to her... Well, she does deliver packages here a lot, she must've just overheard it from another guildmember. That or she just guessed it since "Toge" isn't the most original nickname...)* 
+
+The crate's so tall that I can barely see in front of me as I walk into the mess hall. *(Getting some deja vu here, I should probably tilt myself to the side so I can see where I'm go-)* Suddenly, something bashes into the other side of the crate, making the crate fall out of my hands and making me fall over! "O-Ow... Wh-Wha-"
+
+I'm interrupted by a Pikachu running up to me. "OMIGOSH, I'M SOOOOOO SORRY! L-Let me help you!" Says the creature nervously, with tears in her eyes. "You aren't hurt, are you!?" 
+
+She puts out her hand, and I grab it, only to feel a shock course through my entire body that makes all of my fur stand on end! "O-OW!"
+
+The Pikachu gasps and retracts her hand, looking horrified at what she just did. "I-I'M SOSORRYOMIGODIDIDN'TMEANTO... WAAAAAAAHHHHHHHHH!!!" Without warning, she breaks down and starts crying. 
+
+*(... What.)* I shake my body to get my fur to go back down. As I stand back up, I get a good look at the Pikachu, and notice she's wearing a cute pink bow on one of her ears that has a Clover Guild badge on it. *(Oh, she must be a new guildmember.)* "U-Uhm... I-I'm f-fine... A-Are you... O-Okay?"
+
+She rubs her eyes and seems to calm down a tiny bit. "Yeah... *sniff*... Sorry for running into you... And *sniff* shocking you by accident..." 
+
+"I-It's o-okay... I'm T-Togetic... B-But the o-other guildm-m-members call m-me T-Toge..." 
+
+The Pikachu stops crying and cracks a small smile. "I'm Pikachu, nice to meetcha!" She puts out her hand for a handshake, but then quickly pulls it back. "Oh, right, eheheh..." She says as she scratches the back of her head bashfully. "I still haven't gotten full control of my electric powers yet..."
+
+*(So, then she's probably another human.)* "... W-Well, n-nice meeting y-you..." I turn away from her and start picking up the crate again.
+
+"Wait, let me help you! Where are you carrying it?" Pikachu says as she walks to the other side of the crate.
+
+"J-Just to the k-kitchen o-o-over there..." I point to the kitchen's doorway which is just past some of the mess hall's tables. 
+
+Pikachu nods. "Alright, let's GOOOOO!" She grunts as she lifts up her side of the crate, and I lift up my end as well. The weight of the crate is much more manageable now. 
+
+"Th-This way." We walk sideways as we slowly bring the crate to the kitchen. Once we're at the kitchen's doorway, I look inside to see an irritated looking Beast staring at a piece of paper. Both me and Pikachu move to the center of the room and slowly put down the crate, which makes a thumping sound that alerts Beast.
+
+"Oh, that must be some of the new equipment I ordered." Beast says with a deadpan tone. "Just in time too..."
+
+"I-Is th-there something w-wrong, C-Chef W-Winchester?" I ask, while floating closer to look at the paper he's holding.
+
+He sighs. "Well Togetic, there happens to be a cooking competition today out in town, and the winner gets some of the finest and most high-quality frying pans in the world, straight from the Sand Continent! But alas, that *coffee maker* Spinda came by earlier just to gloat about how *she* will win the competition."
+
+"Wh-Why d-don't you j-just join the c-competition a-and b-beat her th-then? S-Surely your c-cooking prowess w-would e-easily let y-you win..."
+
+"The problem is that the competition starts in a few hours... And well, just take a look for yourself." Beast hands over the paper he's holding to me, and I read it over. The paper is a poster that's mostly pink and white, and includes a drawing of a Slurpuff wearing a chef's hat.
+
+>Chef Slurpuff's Powerful Pancake Competition!
+>Participate to win the best frying pans in the world from the Sand Continent!
+>Participation is free, but entrants must supply their own ingredients. (Cooking stoves and other cooking utensils will be supplied by us.)
+>Once the competition starts, participants will have twenty minutes to make their pancakes.
+>Each group will make a stack of three pancakes that will be rated under these three criteria:
+>Deliciousness!
+>Uniqueness!
+>Cuteness!
+>All pancakes will be judged and taste-tested by Chef Slurpuff.
+>Making syrup will not be required, Chef Slurpuff with use syrup of his own choosing. 
+
+*(... Uniqueness? Cuteness?)* "... S-Some i-interesting choices f-for w-what's j-judged... B-But I-I st-still don't s-see the pr-problem..."
+
+"The ingredients. If I had known about this in advance, I could have ordered some specialty eggs and milk for the perfect pancake mix, but if I were to join now, I would have to make do with the supplies here, which are less than adequate for a contest meant to show off the peak of culinary expertise. The stock here is meant only for making mass-producible slop to keep up with the guild's appetite." Beast says while looking around at the various supplies within in his kitchen. "... And while I can understand how one would make a dish "unique", I am afraid I have absolutely no idea how to make a dish... "Cute"."
+
+Pikachu perks her head up at the mention of the word "cute", and walks over to me to peek at the poster. "This seems like it could be fun! Even if you don't win, it would give you the chance to get creative and just have some fun!" Her face lights up as she talks, and her cheeks start to flash with static. "I could even help you with making some cute designs, Mister...?"
+
+Beast gives the Pikachu a disapproving stare. "... Winchester. Beast Winchester. I do not remember inviting you into my kitchen."
+
+"... T-To be f-fair, y-you never i-invited m-me either..." I say while staring at the floor.
+
+"You stay out of my way and keep my kitchen well-stocked and organized." Beast quickly retorts. "Anyway, even if I DID decide to accept your help, we would not have enough time to come up with a suitable design that fits all of the criteria."
+
+*(Beast will probably yell at me for even thinking to suggest this, but...)* "... W-Why don't-t a-all th-three of u-us t-try making d-different t-types of p-pancakes? Th-That w-way we could t-taste test d-different ingredient i-ideas faster..."
+
+Beast opens his mouth, about to instantly rebuke the idea, but then closes it and brings his hand to his chin. "... That is not the worst idea I have ever heard. I can trust that both of you know how to flip pancakes?"
+
+I nod. "U-Used to m-make s-some b-back home..."
+
+Beast turns to Pikachu. "And you?"
+
+"Uh... I enjoy making cute faces in them!" Responds Pikachu, tugging on her bow nervously.
+
+Beast lets out another sigh. "Well, I doubt you two will be able to botch making simple pancakes. I'll go start making some mixes, then. Togetic, get some pans out and start the stoves, please. " Beast starts heading to the kitchen cabinets and getting the supplies he'll need for his pancake mixes. I head over to the cabinets with pans and start placing them on the stoves.
+
+***
+
+"E-Everything sh-should be all-l s-set, C-Chef W-Winchester..." I say as I finish lighting the last stove.
+
+"Good work, Togetic." Beast says as he grabs some spatulas from the crate me and Pikachu brought in earlier. "Here. It took a lot of convincing to get the Guildmaster to order these, do NOT break them." Beast hands two spatulas to both me and Pikachu, and then picks up two large jugs of pancake mix. "Here is what we are going to do: Me and Togetic will test out different mixes, while you attempt to make some "cute" designs, got that, er...?"
+
+"Just Pikachu is fine." Responds Pikachu as she takes a jug from Beast and starts pouring some pancake mix into her pan. "Now I wonder what cute things I could make? Oh! What about the faces of some cute pokemon?! And having them stacked on top of each other... Cute pokemon...  S-Sandwiched between two other cute pokemon... Kyute..." Completely ignoring us, Pikachu starts poking at her pancake mix, trying to shape it into something while drool starts to drip from the corner of her mouth.
+
+Beast stares at her. "... She seems passionate, at least." Beast turns back to the stove and starts pouring some pancake mix into our pans from two different jugs. "Now, we cook."
+
+![Too many cooks...](https://files.catbox.moe/fojg0l.png)
+
+I nod, and we both grab our pans with our spatulas ready in our other hands. Beast slightly tilts his pan around to spread the mix as equally as he can across the pan, and I attempt to imitate him. However, my touch isn't as delicate as his, and my pancake just ends up looking more and more misshapen. I sigh at my incompetence, while Beast takes a look at my pan and cracks a smile.
+
+"Practice will make perfect, Togetic. You should not worry about the shape right now anyway, what matters is how the mix tastes." Beast turns his attention back to his pan, and in one fluid motion, he slides his spatula under the pancake and flips it over, revealing a perfectly golden-brown side of the pancake. 
+
+Turning back to my own pan, I try and copy Beast's movements, but I fumble and end up making only half of the pancake flip, making it flip onto itself and tear. *(Damn it...)*
+
+Beast looks over again, this time looking more irritated. "You have to make sure the entire spatula is under the pancake before flipping. Do not just try and copy me without thinking, I thought something like that would be obvious enough."
+
+"S-Sorry..." I slide my spatula over the pancake to un-flip half of it, and then do as Beast instructed. This time I successfully flip the entire pancake without issue, and the fried side is a nice shade of brown, and it already looks appetizing despite the tear right through the middle of it.
+
+Beast's face softens. "Good. Now, you-"
+
+"**AAAAAAAAAAAAAAAAAAAAHHH!**" 
+
+We hear a blood-curdling yell from Pikachu, and turn around to see that she's somehow flipped her pancake onto her face. Now it's that of a Wooper's in pancake form, and I have to stop myself from giggling as I see her try and rip the cheerfully smiling Wooper pancake off of herself.
+
+![:)](https://files.catbox.moe/orbyfb.png)
+
+Beast isn't as amused, and just facepalms with a sigh. "This is a KITCHEN, not a masquerade party."
+
+***
+
+Following Pikachu's little disaster, she was barred from using the stove and was instead given a pencil and paper to design her perfect pancake on. Meanwhile, me and Beast finished our pancakes, and we moved them onto plates. Beast brought the plates over to the table Pikachu was drawing at, and starts cutting himself a piece from the pancake he made. He takes a bite and chews with a focused look on his face.
+
+"Hmmm... Milk in this mix might have been too rich." He then cuts a piece from my misshapen pancake and eats it. The moment he chomps down his face lights up. "Mmm... Not perfect, but I like this mix. I will go make some more mixes to test out, feel free to eat the rest." Beast heads off back towards his supplies as me and Pikachu pick up some knives and forks to try out the pancakes ourselves. Just like with Beast, the moment Pikachu tastes my pancake her face also lights up, and her cheeks let out a *ZAP*.
+
+"Mmm... It is really good!" She goes for another bite, while I decide to try Beast's pancake first. It tastes great, just like all of Beast's dishes. It's cooked just the right amount and has a sweet, savory flavor, and the fluffiness of the pancake makes it melt in my mouth. 
+
+*(... My pancake is somehow better than this? Guess I should try it and see for myself.)* I cut myself a small piece from my now half-eaten pancake and put it into my mouth. *(... Huh. This just tastes like Beast's but worse. Why do those two prefer mine? Maybe I just don't have enough of a refined palette or something.)*
+
+Beast comes back with some more jugs of pancake mixes, and the two of us start baking some more pancakes. This time I get the mix to spread out more evenly through the pan, and I don't mess up when flipping the pancake this time. Beast gives me an approving nod when he sees me successfully flip the pancake. Before long we have two more completed pancakes, and Beast gives each a taste. Once again, his face beams as he takes a bite of my pancake, but this time the look is followed by a look of confusion.
+
+"Huh... I gave you a different mix and it does taste different, but..." Beast looks completely befuddled. Pikachu uses this chance to cut a bite from my pancake and her face also sparks with joy again. I try a bite of my own as well, but it just tastes like a normal pancake to me.
+
+*(... What's got him so confused? Tastes average to me.)* "S-Something w-wrong, C-Chef?" 
+
+"... Nothing. I have decided on the mix we are going to use, but now I want to try mixing in some berries." Beast deftly moves over to his berry cabinet and skillfully starts chopping up some Pecha Berries. He scoops up the chunks into a bowl, then moves over to the stoves. He pours the pancake mix into the pans, then carefully sprinkles the expertly-chopped Pecha Berry chunks onto the mix. He then takes out his spatula and motions for me to come over. I take my spot at my pan, and see Beast push the chunks deeper into the mix by gently pushing down on top of the pancake. I copy him, careful not to push too hard with my spatula. From there we bake the pancakes just as we did before, and soon we have two more delicious-looking pancakes, this time with little pink spots scattered over them.
+
+"These ones look and smell AMAZING!" Pikachu says as she looks up from her drawings, licking her lips. I sneak a peek at her pancake drawings, only to see that she hasn't been drawing pancakes at all. Instead, I see a bunch of different cute-looking pokemon all in... *interesting* situations.
+
+*(What the...? "B-But Raichu-sama... W-We're both boys!!! W-What if people see us?!"... "I won't let anyone stop our fated love, Clefairy-kun...")* I blink rapidly, trying to process the bizarre drawings before me. *(It's all... Yaoi... But... It's so cliché! Come on, the relationship dynamics here are barely-)*
+
+Pikachu notices my staring and quickly flips the paper over, revealing the pancake designs she was working on earlier. Her face turns red and her cheeks flicker with static. Beast doesn't seem to notice Pikachu's embarrassment as he places the pancakes onto the table. As usual, he takes a bite from his pancake, and then a bite from mine. The familiar happy look hits his face again for a second after he tries my pancake, but now it's followed by a look of frustration.
+
+"HOW?! It was the same mix and you copied me near perfectly! These SHOULD **NOT** taste different, but they do! And it is not just the taste, something about your pancake just feels... I can not describe it, it just makes me feel pleased! Togetic, have you been adding anything to your pancakes?!"
+
+Beast's sudden outburst startles me, and I feel my eyes begin to water as I struggle to stutter out a response. "U-Uh... I-I w-w-was... E-Erm... J-Just c-copying wh-what you d-d-did... I-I'm s-sorry..."
+
+Realizing his yelling almost made me break down, Beast takes a deep breath to calm himself. "No need to be sorry my good man, my frustration should be with my own skills, not yours. That said, do you truly have no idea why your pancakes taste better?"
+
+I wipe my eyes and shake my head. "N-No. B-But to be h-honest... I-I t-tried a-all of the p-pancakes, and f-for every one I-I think yours t-tasted better than m-mine..."
+
+Pikachu chimes in. "You don't need to be modest! I thought yours tasted better too, Toge!"
+
+"B-But... I-I'm t-telling the t-truth. I-I d-don't taste w-whatever it is y-you two a-are tasting w-when you t-try my p-pancakes..."
+
+Beast crosses his arms and examines all of the pancakes on the table. "... Hang on..." He leans in close to one of the pancakes I made and stares at it intensely. He raises his finger and then drags it over the surface of the pancake, then brings that finger right in front of his eyes. "Joy Dust, I should have known!" Beast gets up and walks over to me, pointing his finger at me. I look closer to see that there's some small specks of white dust on the tip of his finger.
+
+*(Oh right, I forgot Togetics produce this stuff! I guess that's why it didn't affect me.)* "S-So... I-I must've g-gotten this d-dust on the p-pancakes w-when c-cooking them..."
+
+Beast nods as he shakes the dust off of his hand. "Precisely. I have heard of Joy Dust being used as a condiment before, but it was usually too expensive to buy or import for even the most high-quality establishments, so I have not had any experience with it at the places I used to work." Beast takes a second to look over me, and a smirk begins to form on his face. "Togetic, I think you just got us our ticket to winning this competition!"
+
+"I-I have?" Beast jaunts over to me, and starts rubbing the fur on my chest with his hands, making me shiver from the sudden contact. As he rubs, the same type of white dust begins floating out. Beast moves in close to get a good sniff of it, but then quickly backs off with a grimace.
+
+"Togetic... When was the last time you bathed?" Beast says with a deadly serious tone that raises the tension in the room.
+
+"E-Er... I-I think W-Wooper washed m-me off w-when I w-was f-first b-brought t-to the guild... I-I've b-been busy i-in the storeroom m-most of t-the time, s-so..."
+
+"... And you were first brought to the guild HOW long ago?"
+
+*(... Oh no.)* "A-A few weeks a-ago...?"
+
+Beast brings up the palm of his hand to wordlessly tell me to stop talking, and then he walks over to one of the kitchen sinks. He leans over the sink, and my ears are graced with the sound of Beast retching as he vomits up everything he ate earlier. 
+
+"Eww..." I hear Pikachu say behind me as she clutches her stomach. My face flushes with embarrassment as Beast finishes puking and walks back over to us.
+
+"Stay here. I will be back." Beast says before he walks out of the kitchen, leaving me alone with Pikachu. I do my best to restrain myself from ranting about Pikachu's "art" as we wait for Beast to come back. Pikachu beckons me over, and the two of us start discussing which of her pancake designs is the cutest.
+
+***
+
+Our discussion eventually gets interrupted by Beast barging back into the room, carrying a large wooden tub with one arm and a bucket of water in the other. He places the tub on the floor and points at me as he takes out a scrubbing brush. "Clothes off, now."
+
+I hear a mini-thundercrack and a "Hau...!" next to me as Pikachu nearly falls out of her chair. Her eyes are completely glazed over and drool starts dripping from her mouth again. I even see her noise bleed a little as well.
+
+Feeling even more flustered, I take off my blue scarf and badge as I sit down in the tub. Beast wastes no time and dumps the bucket of water onto me, making me sputter as I try and wipe the cold water out of my eyes. I'm then met by the feeling of something rubbing my fur as Beast begins brushing me down. The chilliness of the water makes me shiver as beast cleans me with his scrubber, which also makes Joy Dust fill the air around me. Beast tries to hide his smile as he accidentally inhales some of the dust, but does a poor job of it.
+
+After a few minutes of brushing me down, Beast re-fills the bucket and dumps it over me again. "A-Are w-we done y-yet?" I say as I wipe the water out of my eyes. 
+
+"Almost." Beast grabs a towel and starts drying me off with it. Once I'm dry, I step out of the tub and Beast grabs an empty condiment bottle. He opens it up and starts rubbing the bottle against my fur, and Joy Dust slowly starts filling it up. Once it's about halfway full, Beast steps back and puts the lid back on the bottle. "There. Our key to victory!" Beast says as he puts the bottle in one of his apron pockets. "Please try and keep yourself clean, especially if you plan on handling kitchen supplies in the future."
+
+"R-Right, s-sorry..." I shake my whole body to get the last bits of water off of me, and then put my scarf and badge back on. I look over at Pikachu, who still looks a little dizzy from her earlier outburst.
+
+*(Reminds me of what I get like when I think of Team Cozy, though I think her thoughts a little less innocent...)*
+
+Noticing my staring, she snaps herself back to reality and goes back to working on her design. Both me and Beast walk over to her and take a look at what she's drawing. "What do you guys think of this idea?" Pikachu says.
+
+The paper shows three different designs, which are supposed to be stacked on top of each other. The bottom design shows what looks like a flat square, while the middle is a smiling Wooper, and the top design is what's supposed to be a blanket. "S-So it's s-supposed t-to b-be a W-Wooper tucked i-into bed?"
+
+Pikachu nods gleefully. "Yep! It's gonna look totally cute! What do you think, Mister Winchester?"
+
+Beast looks unamused, but doesn't seem to disapprove of the design. "It should be easy enough for me to replicate faithfully. I have no objections, though I still do not fathom why someone would want to make what they eat look cute."
+
+Pikachu's eyes seem to sparkle as she hears that Beast will make her design a reality. "Everything's better when it's cute, even food! Oh, isn't the competition going to start soon?" 
+
+Beast looks out the window. "You are right, can the two of you help me carry some supplies?"
+
+Both me and Pikachu nod, and Beast leads us to the supplies, which mostly include the ingredients for his pancake mix. Once we have everything, we make our way out of the kitchen, and exit the guild into Capim proper. 
+
+***
+
+The competition is being held in the middle of Capim town, and lines of portable stoves have been set up for all of the participants. A crowd of pokemon has formed around the venue, and the three of us push through and take a spot at one of the unclaimed stoves. Much to Beast's dismay, this spot happens to be right next to Spinda's as well, and she spots us as Beast starts setting up his supplies.
+
+"Oh, Beastie boy~! I thought you weren't going to join the competition, heheh~" Giggles Spinda as she stumbles over to us. "And you got some friends! Mymymy, training up some more rookies? Maybe with them you could upgrade from a cafeteria worker to a food stand chef~!"
+
+Beast ignores her taunting and continues setting up his equipment. Before Spinda can begin another round of insults, she's cut off by Chef Slurpuff clapping his hands loudly and walking up onto a makeshift wooden stage.
+
+"**HELLLLLLLOOOOOOOOOO LADIES AND CHEFS!**" Slurpuff opens his arms up wide as his voice booms across the venue. "I'm delighted to see such a large turnout! Now, I hope all of you know the rules! Your pancakes will be judged on their deliciousness, their uniqueness, and lastly and perhaps most importantly, their **cute**ness! Now, I would give you some more time to prepare, but..."
+
+A loud rumbling sound can be heard coming from the stage, and I feel the entire area around me shake. "... I'm absolutely famished! Let's not waste anymore time, shall we? Start your ovens... **NOW!**" Chef Slurpuff takes a party popper and pops it to signal the start of the competition, spreading a small amount of confetti in the air. All of the various participants start rushing to light their ovens, and before long the sounds and smells of sizzling pancakes can be felt throughout the square. 
+
+My own stomach starts to rumble as I watch Beast begin his work. Not wanting to disturb him, I decide to take a look at what Spinda is making. She's somehow molded her pancake into the shape of her own face, and used a different, darker type of mix in large spots on the pancake in order to emulate the spots all over her body. It looks like she's also sprinkled berry chunks into a spiral to be the pancake's "eyes". 
+
+*(That's pretty inventive... But Pikachu's design is way cuter.)* The noise of the cooking pancakes, clattering kitchen supplies, and chatter from the participants and the audience starts to make me feel stressed out, so I decide to just take a seat near Beast and Pikachu and try to tune out all of the noise. *(I've never liked big crowds like this... Hopefully this is over soon...)* 
+
+"You okay?" Pikachu says as she sits next to me, looking concerned. 
+
+"... Y-Yeah. J-Just n-not f-fond of n-noisy c-crowds..." I say with a sigh.
+
+"We can try and find a quieter spot, if you want." 
+
+"I-I'm f-fine... B-But thanks." I give her a bit of a forced smile, and she smiles back. "I-It sh-shouldn't be t-too long u-until this is o-over, a-anyway..."
+
+"Right, just don't force yourself if you're really uncomfortable, alright?" Pikachu moves to give me a pat on the back, but stops herself halfway. "A-Ah, nearly forgot again, heheh..." 
+
+*(... She's really nice and more observant than I thought she was initially. I thought she was just kind of a stupid ditz at first, glad to know that head of hers isn't only thinking of degenerate thoughts about male pokemon. Even if that's what she's probably thinking about most of the time.)*
+
+Both of us watch Beast finish up cooking his pancakes, and just as he finishes the third and final one, Chef Slurpuff steps onto the stage again and claps his hands. "Annnnnnd **TIME!** Get your stacks ready and form a line in front of the stage. Stay orderly now, and no cutting!" As Chef Slurpuff says this, some Machokes come up and place a chair and table next to him, and he takes a seat as all of the participants start forming a line.
+
+"Come on, you two." Beast says as he grabs the plate of pancakes and starts heading toward the line. Both me and Pikachu use the chance to get a look at the pancakes. They came out perfectly and have a delicious-looking shade of golden-brown that has a bunch of small bits of Pecha Berries mixed in, and the shape of the pancakes is also perfect, with it looking like a smiling, sleeping Wooper tucked into bed. Looking closely, I can also see that tiny specks of Joy Dust cover the pancakes.
+
+"Wooooow..." Pikachu is awe-struck. "It looks exactly like my design! You did amazing, you truly are a top chef!"
+
+Beast can't hide his smile. "Eh, it's no big deal. Pancakes are not exactly hard to make."
+
+All three of us make our way to the line, but right before we join it, Spinda slides in front of us, holding her stack of pancakes with one hand. "Whoops~! Guess I'm faster than you~!" Spinda taunts as she stumbles around in front of us. "Don't know why you're even bothering, I had all of my ingredients specially prepared from the best suppliers in advance~! You stand no cha-" Spinda's cheery expression completely disappears as she notices me standing next to Beast. "... You didn't."
+
+Beast's smile grows even wider. "Something wrong? I thought you were confident in your *specialty*, *high-quality* imported ingredients? You should have no problem winning against our lower-quality ones." 
+
+Spinda stares at me for a few seconds, before suddenly changing back to her previous expression, though now it doesn't look genuine. "H-Ha... R-Right you are, Beastie~! I'm glad you're already admitting defeat, will you be sending your resume to one of my cafes after your inevitable defeat~?"
+
+Beast opens his mouth to respond, but is interrupted by some pokemon clearing their throat behind us. We've been accidentally holding up the line, and all four of us quickly rush to catch up with the line before the pokemon behind us get even more irritated. It isn't long until we reach Chef Slurpuff, and Spinda places her pancakes on a table in front of him.
+
+"Oooh, Spinda! I should've known you would've joined the competition!" Says Chef Slurpuff as he licks his lips. "And I must say, these pancakes do look pretty cute, just like you!" 
+
+"Dawww~, thanks chef!" Spinda says while happily teetering from side to side. "I put only the best ingredients into them, I hope you love it~!"
+
+"I'm sure I will! Just needs some syrup first..." The chef takes out a large bottle of syrup, and begins pouring it onto the pancakes. And then keeps pouring it. And keeps pouring it. And pours even more onto it...
+
+All four of us stare in stunned silence. *(.... You can't even see the pancake anymore... It's just a glob of syrup...)* 
+
+Once the jar is empty, Chef Slurpuff just throws the bottle behind him, and one of his Machoke assistants grabs it before it hits the ground. Then he grabs the plate, and flings the mass of pancakes and syrup right into his mouth, and he devours it in one bite! "Mmmmm**MMMMmmm**... Delicious! The best pancakes so far!"
+
+Shaking the bewilderment from her face, Spinda quickly returns to her overconfident self. "Hear that, Beastie? Looks like I'm gonna win~"
+
+Beast pushes her out of the way as he places our pancakes on the table. "Here you go, Chef." Beast says with a bow.
+
+"Ohohohoho! You must be Chef Winchester! I've heard many rumors about you, I hope these pancakes can live up to your reputation!"
+
+*(... I wonder how much of that reputation is good?)*
+
+"While these pancakes are not made with the most expensive ingredients, me and my... Friends put a lot of effort and care into them. The Pikachu here is the one who made the design, and Togetic helped with some finishing touches." Beast says with an unusually proud tone. 
+
+"Oho! A team effort between friends! How sweet! You did a great job with the design, young lady! These pancakes are so adorable I almost don't want to eat them! Almost." 
+
+"T-Thank you!" Pikachu says as she gives a deep bow, which ends up making her ears slam into the table by accident. "Ooops, s-sorry!"
+
+Chef Slurpuff lets out a hearty laugh. "Ah, the vigor of youth! Now, time to dig in!" He once again douses the entire pancake until it's completely covered in syrup, and gobbles the entire thing in one gulp. The moment he swallows, his face lights up with the expression I've seen on Beast and Pikachu's faces earlier today. "T-This flavor... This feeling... It's perfect! Despite the average ingredients, something about it just... Makes me feel so much joy! What's your secret, Chef Winchester?" Asks Chef Slurpuff as he nearly jumps out of his seat. 
+
+"I already told you, it was... Pffft... The power of friendship." Beast says as he struggles to stifle laughter while looking at Spinda's shocked face.
+
+Chef Slurpuff lets out another hearty chuckle. "Ah well, a good chef always keeps some ingredients secret, I suppose. Maybe I'll have to visit the Clover Guild sometime if all of the food you serve there is like this!"
+
+*(If Beast starts washing me down every day for Joy Dust because of this I'm going to drown him in his own pancake mix.)*
+
+"I would much prefer if you would invite me to some of your high-quality kitchens, Chef. I am afraid the guild's kitchen might not be up to your refined standards." Beast's response helps quell my sudden mon-icidal thoughts. 
+
+"A wonderful idea! Maybe you could invite your friends here, or some of the other guildmembers? Anyway, your pancakes are by far the best ones I've had all day! I doubt any others today will compare, but we still have to be fair to all entrants, so I'm afraid our nice little chat has to come to an end for now-"
+
+"Impossible..." Spinda mutters under her breath.
+
+"Did you say something, Spinda?" Asks Chef Slurpuff.
+
+"Impossible... Impossible, IMPOSSIBLE!!" Spinda gets up into Beast's face, anger clearing overtaking her. "I PUT OFF CAFE RENOVATIONS SO I COULD AFFORD THOSE INGREDIENTS! HOW COULD A MEASLY CAFETERIA WORKER LIKE YOU BEAT ME WTH SUCH INFERIOR INGREDIENTS?! THIS IS CHICANERY! I WON'T STAND FOR IT!"
+
+"I think you already know how." Beast retorts smugly as he takes out his small bottle of Joy Dust. "I just had a little help from some friends." Beast wiggles the bottle in front of Spinda, and she makes a grab for it, but Beast quickly slides it back into his pocket. "If you had focused on making friends instead of making profit, you might have won." Beast says sarcastically as he [wags his finger in front of Spinda's face....](https://rentry.org/cdw89)
+
+## ??? (Coming soon)™
+
+## ??? (Coming soon)™

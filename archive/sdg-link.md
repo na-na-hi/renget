@@ -6,8 +6,14 @@
 
 ##Local Install
 ###Nvidia GPU
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
 https://rentry.org/voldy
 https://github.com/AbdBarho/stable-diffusion-webui-docker
+###Node-based UI
+https://rentry.org/comfyui
+###Automatic1111 forks
+https://github.com/anapnoe/stable-diffusion-webui-ux
+https://github.com/vladmandic/automatic
 ###AMD GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 https://github.com/nod-ai/SHARK/blob/main/shark/examples/shark_inference/stable_diffusion/stable_diffusion_amd.md
@@ -22,10 +28,8 @@ https://medium.com/intel-analytics-software/stable-diffusion-with-intel-arc-gpus
 ###CPU
 http://rentry.org/cputard
 https://rentry.org/webui-cpu
-##Apple CPU
+###Apple CPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
-###Node-based UI
-https://rentry.org/comfyui
 
 ##Run Cloud Hosted Instance
 ###Colab
@@ -54,6 +58,8 @@ https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting
 https://inpainter.vercel.app/paint
 ###DeepFloyd
 https://huggingface.co/spaces/DeepFloyd/IF
+###SDXL
+https://clipdrop.co/stable-diffusion
 
 ##Models, Textual Inversion & Embeddings
 https://civitai.com
@@ -77,6 +83,8 @@ https://rentry.org/BlockMergeExplained
 ###Clip Fix
 https://rentry.org/clipfix
 ###LoRA
+https://rentry.org/6172384
+https://rentry.org/LazyDAdaptationGuide
 https://rentry.org/ezlora
 https://rentry.org/2chAI_LoRA_Dreambooth_guide_english
 https://rentry.org/59xed3
@@ -188,4 +196,4 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - May17th - https://pastebin.com/EMejiLCG
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - June 23rd - https://pastebin.com/3AqgJWgZ

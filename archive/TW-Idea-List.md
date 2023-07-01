@@ -14,6 +14,9 @@ Self-explanatory.
 - *The clothing system can mostly stay the same since there are already many slots for clothing (found in Equip.csv). Strip poker can handle undressing on its own without having to meddle with the overall system. As a starter, the clothing menu can be expanded using SQN's clothing action as a reference just to unlock its full potential. All of this isn't a priority right now though.*
 ## Female MC Pregnancy
 To be determined.
+## Free Use Content
+Self-explanatory; a feature to allow the player to have have free use sex with 2hus, whether via hypnosis or other means. Example:
+- Having sex with Eiki while she judges the deceased.
 ## Furniture Recipe Mechanic
 To be determined.
 ## Hypnosis Expansion
@@ -28,6 +31,22 @@ An expansion of which characters have events for when they are in heat.
 To be determined.
 ## Map for Makai
 Self-explanatory; in the past, requests were made to relocate Makai citizens to their home dimension to create room for homeless characters.
+## Money Sink Options
+Self-explanatory; it is too easy to amass wealth in TW, therefore options to splurge on would be neat to have.
+- Entrepreneurship of a Touhou-style business
+- Funding for Junko’s Wacky Revenge Schemes
+- Gensokyo Diorama for Shinmyoumaru
+- Harvest Moon-style upgrades for your home
+- Investment options for public works at each location; for example:
+	- Building a Kappa Dam
+	- Building Yoshika a Mausoleum
+	- Building an intricate canal system for Waggy
+	- Donating to the Hakurei and Moriya Shrines
+	- Expanding the Hot Spring in the Underground
+	- Fireproofing the Moriya Shrine
+	- Renovating Eientei
+	- Renovating Mystia's Izakaya
+	- Renovating the Ministry of Right and Wrong
 ## Play a Game Expansion
 An expansion to the Play a Game custom command.
 - Blindfolded Breast Grab

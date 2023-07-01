@@ -1,6 +1,8 @@
 #/hpgg/ Autism Sheets
 
-->[Character Sheet](https://files.catbox.moe/h9g2ou.png)<-
+->[Hogwarts Legacy Character Sheet](https://files.catbox.moe/h9g2ou.png)<-
+
+->[Magic Awakened Character Sheet](https://files.catbox.moe/at764i.png)<-
 
 ->[Writing Reference Page (scroll down)](https://rentry.org/hpggwriting)<-
 

@@ -63,7 +63,7 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/e209ik.png)
 감정이미지:https://mega.nz/file/wNVk1AaJ#Iuzv023tp24JhhVUa-ININyHVJiPCHv1wYQ0tn53hqE
 제작 업로드:2023-05-05 11:05:01
-
+.
 ##원신 [Genshin Impact]
 ####호두 [Hu Tao]
 ![](https://files.catbox.moe/yin65p.png)
@@ -77,6 +77,16 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/1kjrur.png)
 감정이미지:https://mega.nz/file/tcFy0AyJ#bDHoFALS9S6wDqqjgI6JydZD22k036J7-XIgvidE154
 제작 업로드:2023-05-14 06:30:54
+####모나 [Mona]
+![](https://files.catbox.moe/3dufgu.png)
+감정이미지:https://mega.nz/file/dEUwGbxJ#f0lV0gxCNirdb3pP-O21F2WWs7cafewxVF-bgHla4_8
+제작 업로드:2023-06-10 07:32:38
+
+##페그오 [Fate grand order]
+####아스톨포 [Astolfo]
+![](https://files.catbox.moe/1gad27.png)
+감정이미지:https://oo.pe/https://mega.nz/file/YFEUzIja#jDFEoPQISSeklQAUP-hnlnl3LzasSRrQ3WG3N4GfgNY
+제작 업로드:2023-06-17 16:58:44
 
 ##오리지날 및 애니메이션 [Original and animated]
 ####네리 (Your Best Friend Femboy Neri) 
@@ -112,6 +122,10 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/uogqxs.jpg)
 ![](https://files.catbox.moe/tbnqv2.jpg)
 ![](https://files.catbox.moe/1xf624.jpg)
+![](https://files.catbox.moe/tatv5p.jpg)
+
+##페그오 [Fate grand order]
+![](https://files.catbox.moe/gz4c3y.jpg)
 
 ##오리지날 및 애니메이션 [Original and animated]
 ![](https://files.catbox.moe/glx0e9.png)

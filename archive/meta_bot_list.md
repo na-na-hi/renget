@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-05-27)==<-
+->==(Updated 2023-06-24)==<-
 ***
 [TOC2]
 ***
@@ -10,18 +10,24 @@
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
 - https://rentry.org/bots_with_expressions - small list of bots; cards with expressions only; *deprecated*
+- https://rentry.org/aicgthemedweek1 - small list of bots; cards only; themed bots from the botmaking event;  *static*
+
 ## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)
 - https://derpy.me/ccQBQ - large list of bots; cai and cards; `current`
+
 ## [/vp/vpcai/](https://boards.4channel.org/vp/catalog#s=vpcai)
 - https://rentry.org/vpcai - large list of bots; cai only; `current`
 - https://rentry.org/vpcai-X/ - small list of bots; cards only; `current`
+
 ## [/vt/wAIfu/](https://boards.4channel.org/vt/catalog#s=AI+Vtuber+Chatbots)
 - https://rentry.org/wAIfu_Bot_List_Final - laste lirge of bots; cai, cards and rentries with cards; manuals; `current`
 - https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA - large list of bots; cards only; `current`
 - https://rentry.org/aicg - large list of bots; cai only; `current`
+
 ## [/vg/aids/](https://boards.4channel.org/vg/catalog#s=AI+Dynamic+Storytelling+General)
 - https://aetherroom.club - large list of prompts; text prompts only; `current`
 - https://prompts.aidg.club - large list of prompts; text prompts only; *deprecated*
+
 ## [/trash/Collared/](https://boards.4chan.org/trash/catalog#s=/collared/)
 - https://rentry.org/Collared-CAI - small list of bots; cai and cards; tools and manuals; `current`
 

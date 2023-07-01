@@ -1,5 +1,7 @@
 #**Sull's bots**
 
+!!! note  Out on vacation, sorry in advance for the lack of bots
+
 !!! danger I DO NOT CONDONE, SUPPORT, SHARE AND/OR AGREE WITH ANY IDEOLOGY, RELIGION, SEXUAL ORIENTATION OR MINDSET THAT INVOLVES THE HARM OF REAL PEOPLE AND CRIMES AGAINST ANY AGE GROUP. ALL OF MY BOTS ARE BASED ON FICTIONAL ENTITIES MADE AS A FORM OF ENTERTAINMENT
 
 !!! info  if my bots help you relieve any unwanted feelings, don't be afraid to seek out profesional help and/or counseling https://virped.org 
@@ -19,32 +21,25 @@ Enjoy.
 
 
 #New Bots
+**Hagwoman**
+**Tavern card** https://files.catbox.moe/08x1vp.png
+**40-year-old version** (Credit to the anon that made the fork) - https://www.chub.ai/characters/Anonymous/hagwoman-actual-hag-edition
+*synopsis*: Incredibly drunk and incompetent hero
+*genre*: older woman
+![Hagwoman](https://files.catbox.moe/08x1vp.png)
 
-**Lucia** - REMAKE
-https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
-**Tavern Card** https://files.catbox.moe/y4mnni.png
-**NSFW Tavern Card** https://files.catbox.moe/m5cm6e.png
-*genre*: loli
-*synopsis*: Your lovely young niece who lives far away from the city in a farm wearing a cute pair of pink overalls
-![Lucia](https://files.catbox.moe/y4mnni.png)
 
-**Mineru**
-**Tavern Card** https://files.catbox.moe/4g5jz3.png
-*synopsis*: A cute girl that gets constantly abused and bullied by her classmates and likes cartoons and anime
-*genre*: loli, abuse
-![Mineru](https://files.catbox.moe/4g5jz3.png)
+**Shotaboy**
+**Tavern Card** https://files.catbox.moe/mflco2.png
+*synopsis*: The (very imaginative) young hero, protector of the city
+*genre*:shota
+![Shotaboy](https://files.catbox.moe/mflco2.png)
 
-**Liz**
-**Tavern Card** https://files.catbox.moe/txa9xw.png
-*synopsis*: Your neet 4chan user sister that has an obsession with cunny
-*genre*: loli
-![Liz](https://files.catbox.moe/txa9xw.png)
-
-**St. Sull's Pediatric Clinic**
-**Tavern Card** https://files.catbox.moe/pxlauh.png
-*synopsis*: (you) work as a pediatrician in St. Sull's Pediatric clinic, with the help of your handy dandy console that will help you treat young patients. It's your choice to help them, harass them or even harm them more.
-*genre*: simulator
-![Clinic](https://files.catbox.moe/pxlauh.png)
+**Cunnygirl**
+**Tavern Card** https://files.catbox.moe/sdofnn.png
+*genre*: loli, superhero
+*synopsis*: The clumsy and inexperienced superhero that is also a real cutie
+![Maria](https://files.catbox.moe/sdofnn.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -102,14 +97,6 @@ Yes, this is a bot based on me
 *synopsis*: Your totes cutest 13 year old gyaru neighbor that is completely in love with you 4ever fr
 *genre*: loli, gyaru
 ![Gyaru](https://files.catbox.moe/3ul5qd.png)
-
-**Eliza**
-*yeah I fucking made a 9 month old bot, thank benny for crushing my sanity*
-**Tavern card** https://files.catbox.moe/l5f8mp.png
-**NSFW Tavern card** - https://files.catbox.moe/c3yxqz.png 
-*genre*: Toddler, baby
-*synopsis*:The 9 month old you were tasked to take care of for the afternoon
-![Eliza](https://files.catbox.moe/l5f8mp.png)
 
 **Lila Anonie**
 **Tavern Card**
@@ -171,11 +158,49 @@ https://files.catbox.moe/f6yt18.png
 *genre*: loli, abuse
 ![Nimona](https://files.catbox.moe/6c8dwc.png)
 
+**Meena**
+**Tavern Card** https://files.catbox.moe/8r2fhw.png
+*genre*: loli
+*synopsis*: Your innocent and naive unicorn obsessed little sister
+![Meena](https://files.catbox.moe/8r2fhw.png)
+
+**Eliza**
+**Tavern card** https://files.catbox.moe/s4o27l.png
+*genre*: Toddler, baby
+*synopsis*:The 9 month old you were tasked to take care of for the afternoon
+![Eliza](https://files.catbox.moe/s4o27l.png)
+
 **Lynn**
 **Tavern Card** https://files.catbox.moe/lvmr1i.png
 *synopsis*: The 11 year old girl that suffers from terminal leukemia, as her doctor you take care of her in the hospital, be nice to her please, she doesn't have much time left
 *genre*:loli
 ![Lynn](https://files.catbox.moe/lvmr1i.png)
+
+**Lucia** 
+https://beta.character.ai/chat?char=nSn8G8DRX3g3jyOpWfgqD1luqQVp0rocdT9cnnuZi5w
+**Tavern Card** https://files.catbox.moe/y4mnni.png
+**NSFW Tavern Card** https://files.catbox.moe/m5cm6e.png
+*genre*: loli
+*synopsis*: Your lovely young niece who lives far away from the city in a farm wearing a cute pair of pink overalls
+![Lucia](https://files.catbox.moe/y4mnni.png)
+
+**Mineru**
+**Tavern Card** https://files.catbox.moe/4g5jz3.png
+*synopsis*: A cute girl that gets constantly abused and bullied by her classmates and likes cartoons and anime
+*genre*: loli, abuse
+![Mineru](https://files.catbox.moe/4g5jz3.png)
+
+**Liz**
+**Tavern Card** https://files.catbox.moe/txa9xw.png
+*synopsis*: Your neet 4chan user sister that has an obsession with cunny
+*genre*: loli
+![Liz](https://files.catbox.moe/txa9xw.png)
+
+**St. Sull's Pediatric Clinic**
+**Tavern Card** https://files.catbox.moe/pxlauh.png
+*synopsis*: (you) work as a pediatrician in St. Sull's Pediatric clinic, with the help of your handy dandy console that will help you treat young patients. It's your choice to help them, harass them or even harm them more.
+*genre*: simulator
+![Clinic](https://files.catbox.moe/pxlauh.png)
 
 **Luìneäftxäi**
 **Tavern Card** https://files.catbox.moe/xk7pux.png
@@ -282,7 +307,7 @@ https://files.catbox.moe/jtkfim.png
 
 **Kyler and Rita**
 **Tavern Card** https://files.catbox.moe/h2te49.png
-**NSFW Tavern Card** https://files.catbox.moe/qsamcd.png 
+**NSFW Tavern Card** https://files.catbox.moe/xe7838.png
 **Based on the comic "Innocent Fun" By Highware**
 *genre*: Shota x Loli
 *Synopsis*: A pair of 7 year old friends that found a porn magazine in a park and now are sexually curious
@@ -359,6 +384,6 @@ I really like superman
 [Pedanon](https://rentry.org/Pedanon) and [Donquijanon](https://rentry.org/donquijanon)
 
 
-# [Caprichosa eres tú](https://youtu.be/gnM_UgpOF_I)
+# [Vacation](https://youtu.be/2RHTiXvELNg)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

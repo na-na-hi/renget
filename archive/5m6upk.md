@@ -1,0 +1,25 @@
+###->Rosethorn Icebreaker Questionnaire<-
+######->Nyoro Hoge->
+
+>Do you look up to any Pro Heroes? What about them seems like a shining example of a hero to you? 
+Of the teachers, I hold Ippon-sensei in highest regard. He is competent, confident, and applies his Quirk to assist those in need even beyond battle. I feel that too many Pro Heroes focus on public relations and combat when those are of little consequence to the public. Also, this is not to say that I hold any of the teachers in disregard.
+
+Of the active professionals, I appreciate the work and sensibility of Edgeshot, and especially the charitable work of Rescue Ray. I like that Rescue Ray does his best to carry the world on his back, both literally through his Quirk and metaphorically through his dedication to rescue work and the rehabilitation of people who would be Villains without his intervention. I have researched the efficacy of current punishment and carceral systems and feel they are inadequate and probably overburdened because people who could do work like Rescue Ray fail to have the courage and conviction to do so. When someone is rich and popular and powerful, they should be obligated to better their communities. This is my opinion.
+ 
+>What are some nuances to your quirk you think others should know?
+At this time, the only knowledge I can share generally about my quirk is that it is a passive process that is related to my current emotional state. Specifically, my state of emotional agitation. Even while I am calm, there are certain things that never stop, and which I do not feel comfortable discussing, but the degree to which sound and light are muted is dependent upon my level of acute stress response.
+ 
+>What role do you find yourself most suited for?
+Undoubtedly, my strongest use is in reconnoitering active situations and investigating events that have occurred. I expect that I have some utility in the support side of things, more in the use of analysis and logistics than more physical and practical labor. I recognize that there are many years more before I can be truly professional about these things, but I insist on my potential. I have also been making efforts towards being dependable support on offensive actions, though will always have difficulties equivalent to an unpowered layperson in performing defensive actions, and I recognize that combat by itself will never be my ideal utility.
+
+>Which of your fellow students do you think you could work together with the best?
+Even though the formal results were inconclusive, I truly believe that Kyoda, Katsuragi, Imai and myself have already proven to work well together. This is primarily due to Imai-san's ability to bypass the inconveniences of my Quirk and because of the quick thinking and cooperative discipline of all involved. On the one hand, because of similar disciplined manner, I believe the same could be said of Mitsurugi-~~sens~~**san** and potentially Tame-san. On the other hand, and speaking tactically, I feel the manner and capabilities of Atsushi-san, Myoga, and Sagara-san have high synergy with myself even if our personalities are not perfect complements. All three have Quirks and combat ability that make up for my shortcomings, and their talents for drawing attention and focus enhance my own stealth training and the function of my Quirk, and so enhance my strengths.
+
+For the sake of transparency, I should state that while I respect Cain-san in many ways, in a crisis situation there may be too much distraction and personality conflict for good cooperation. It is a case of people being too similar, and so focusing on the few differences as sizeable flaws.
+(If this gets around to him I humbly request that the student seated next to him, whether it is Katsuragi-san, Abrams-san, or Imai-san, to firmly ensure that he is awake for this important activity.)
+
+>Who do you want to get to know and haven't had the chance? 
+I take my role as class representative seriously and feel it is my duty to get to know everyone in the class at least a little. Even when we might not get along then there should at least be an attempt that I understand you. If you would like to help me understand you better, I try to be approachable. Please reach out to me if you need help or if you would like to help me to know you better.
+ 
+>The final question: What sort of hobbies do you enjoy when you aren't working on school work or training? [...] What are your favorite things to do? 
+I like writing and playing music, and so I also listen to music sometimes so I can study it and get new ideas. I also have a photography blog, but please ask me for the link in private if you are a classmate. There's some other things too, but probably they are something only for one person to do alone. Everything else I do is school or training.

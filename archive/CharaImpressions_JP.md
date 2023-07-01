@@ -330,7 +330,7 @@ Cons:
 ### ->Christmas Yori<-
 For a freebie unit, X.Yori actually has a lot going for her at a first glance. Unfortunately, magic teams are very consistent and replacing any of Ames/Neneka/NY.Neneka/Homare/NY.Homare/Pyaru/A.Yori/O.Yuki/Grea & Anne requires some sort of ridiculous standout skill like TP drain + something else. X.Yori does not possess anything like that. She's a good unit to have farmed in anticipation of her UE, but it'd take a lot to break through that magic team exclusive club. 
 
--> ![X.Yori](https://redive.estertion.win/card/full/124130.webp) <-
+-> ![X.Yori](https://redive.estertion.win/card/full/124131.webp) <-
 
 
 Pros:
@@ -789,3 +789,41 @@ Cons:
 - Bats spawn in front of NY.Neneka, potentially tanking autos and dying when not desired
 - Bats cannot be replaced from UB if alive, only spawn if dead 
 - Awkward to use with other AS buffers like O.Yuki, X.Yori, Monika, etc... (AS Buffs do not stack)
+
+
+### ->Ceremonial Yuki<-
+**TL;DR - Good M.Atk buffer with limited range on buffs, is reliant on buffs to self so he gets to his full potential ASAP. A nice to have in the box, but not a must have perma at all costs unless you must have every unit for flexibility.**
+A perma Damage/Support hybrid unit that can contribute some damage with UB, his skills are mostly focused around getting marks and increasing the potency of his M.Atk buff and TP restoration up to their cap. Only casting S2 once to apply permanent buffs (M.Def, Barrier) and kick off his mark system is similar to X.Akino. Each mark increases the strength of the buffs from his S1 (M.Atk, TP restoration), up to a cap of 60 marks. He only receives 1 mark per buff received to self, so this means he'll take a little bit to actually get going. 
+The M.Def perma buff could allow for units that were previously unable to be a 1st position unit, to tank magic damage against things like Madame Electra or an entire party to not get stunned by Griffon. This combined with his UB's lowering of M.Atk is a powerful combo in speciifc situations, just as was seen with Halloween Rin in May 2023 CB vs Boss 3. If a boss does not deal magic damage, this obviously doesn't matter - Which can be a good thing, because it means more consistency and less damage autism from reduced damage dealt. 
+More of a specific use case when mid mages are good, so with stuff like Warlock Djeeta, Ceremonial Ilya, Christmas Akari and Yori being strong units, he does have targets to buff. He seems moreso designed to snuff out magic damage dealing bosses, but don't be surprised to see him pop up elsewhere with the new mage comps running around. His banner lasts until the 23rd, with training mode releasing on the 22nd - So you can always wait until then before rolling.
+
+
+-> ![Ceremonial Yuki](https://redive.estertion.win/card/full/126331.webp) <-
+
+Pros:
+- UB deals decent damage that is amplified by # of marks (marks also amplify M.Atk debuff and M.Atk increase) 
+- Consistent TP Restoration & M.Atk from S1
+- Increases strength of buffs with Marks
+- Good barrier on S2, which is permanent
+- Good skill loop (S2 is one time usage, so loop is S1 > AA >AA > S1 > AA)
+
+Cons:
+- Low crit chance
+- Requires buffs from other sources to hit 60 Marks
+- Ramp up time with buffs, leading to highly backloaded damage comps
+- No M.Def debuffs
+- No M.Atk Crit chance increase
+- Barrier is only applied once
+- Short range, not reaching further than Neneka in the backline
+
+
+### ->クローチェ<-
+Coming soon
+
+-> ![クローチェ]() <-
+
+Pros:
+- Coming soon
+
+Cons:
+- Coming soon

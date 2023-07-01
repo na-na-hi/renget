@@ -48,9 +48,9 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 [[Booth]](https://hinoichi-studio.booth.pm/items/2180191) : Original - Byakuya
 ***
 -> **Homyu** <-
--> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
+-> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Gumroad]](https://homyu.gumroad.com/) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
 
-[[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
+[[Gumroad]](https://homyu.gumroad.com/l/aw) [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
@@ -97,8 +97,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **Kynokoru (キノコル)** <-
 -> [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44045.html) [[Iwara]](https://ecchi.iwara.tv/users/kynokoru) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99014900) [[Pixiv]](https://www.pixiv.net/en/users/542190) [[Twitter]](https://twitter.com/kynokoru) <-
-
-[[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko & Nikadou Peiko
 ***
 -> **MDJSN** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/50789229) [[Booth]](https://mdjsn.booth.pm/) [[DeviantArt]](https://www.deviantart.com/mdjsn) [[Iwara]](https://ecchi.iwara.tv/users/mdjsn) [[Twitter]](https://twitter.com/MDJSN810) <-
@@ -111,6 +109,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Montecore (小萌★スタジオ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/12255896) [[Booth]](https://erowi.booth.pm) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04275.html) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99000290) [[Pixiv]](https://www.pixiv.net/en/users/205834) [[Twitter]](https://twitter.com/erowi) <-
 
+[[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko & Nikadou Peiko
 [[Booth]](https://erowi.booth.pm/items/4348476) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ437939.html) : Original - NAIsya
 ***
 -> **Pigeooooon** <-
@@ -206,19 +205,18 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Zy0n7** <-
 -> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
 
-[[Gumroad]](https://zy0n7.gumroad.com/l/bjsmqq) : Cyberpunk - Rebecca
-[[Gumroad]](https://zy0n7.gumroad.com/l/vqnyl) : Dragon Maid - Elma
-[[Gumroad]](https://zy0n7.gumroad.com/l/mpbme) : Made in Abyss - Faputa
-[[Gumroad]](https://zy0n7.gumroad.com/l/uojut) : Dragon Maid - Lucoa (+PMX)
-[[Gumroad]](https://zy0n7.gumroad.com/l/mpzoq) : My Hero Academia - Sousaki Shino -Mandalay-
-[[Gumroad]](https://zy0n7.gumroad.com/l/gxdrlq) : Pokemon - Braixen
-[[Gumroad]](https://zy0n7.gumroad.com/l/vypnof) : Bakemonogatari - Shinobu (+PMX)
-[[Gumroad]](https://zy0n7.gumroad.com/l/zbnve) : Original by Zankuro - Seri (+PMX)
+[[Gumroad]](https://zy0n7.gumroad.com/l/bjsmqq) : Cyberpunk - Rebecca (+VCR / SFM)
+[[Gumroad]](https://zy0n7.gumroad.com/l/vqnyl) : Dragon Maid - Elma (+VRC / SFM / Blend)
+[[Gumroad]](https://zy0n7.gumroad.com/l/uojut) : Dragon Maid - Lucoa (+PMX / VRC / SFM / Blend)
+[[Gumroad]](https://zy0n7.gumroad.com/l/mpzoq) : My Hero Academia - Sousaki Shino -Mandalay- (+VRC / SFM)
+[[Gumroad]](https://zy0n7.gumroad.com/l/gxdrlq) : Pokemon - Braixen (+VRC / Blend)
+[[Gumroad]](https://zy0n7.gumroad.com/l/vypnof) : Bakemonogatari - Shinobu (+PMX / VRC / SFM / Blend)
+[[Gumroad]](https://zy0n7.gumroad.com/l/zbnve) : Original by Zankuro - Seri (+PMX / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/kwOgu) : Dohna Dohna - Antenna (+PMX)
 [[Gumroad]](https://zy0n7.gumroad.com/l/RuFgN) : My Hero Academia - Yaoyorozu (+PMX)
 [[Gumroad]](https://zy0n7.gumroad.com/l/stocking) : Panty & Stocking - Anarchy Stocking (+PMX)
 [[Gumroad]](https://zy0n7.gumroad.com/l/etOys) : Disgaea - Raspberyl
-[[Gumroad]](https://zy0n7.gumroad.com/l/HGvuw) : Shantae - Rottytops
+[[Gumroad]](https://zy0n7.gumroad.com/l/HGvuw) : Shantae - Rottytops (+PMX / SFM / Blend)
 [[Gumroad]](https://zy0n7.gumroad.com/l/qwyog) : Cardcaptor Sakura - Kinomoto Sakura
 [[Gumroad]](https://zy0n7.gumroad.com/l/PoPRK) : Disgaea - Etna
 ***
@@ -235,6 +233,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Booth]](https://ucup.booth.pm/items/4821734) [[Gumroad]](https://ucup.gumroad.com/l/qodmvj) : Kantai Collection - Shimakaze
 [[Booth]](https://ucup.booth.pm/items/4737264) [[Gumroad]](https://ucup.gumroad.com/l/nluiac) : Blue Archive - Hanekawa Hasumi
 [[Gumroad]](https://ucup.gumroad.com/l/qsmhr) : Taimanin Yukikaze - Mizuki Yukikaze
 [[Booth]](https://ucup.booth.pm/items/4584912) [[Gumroad]](https://ucup.gumroad.com/l/hgcbf) : Virtual YouTuber - Houshou Marine 2

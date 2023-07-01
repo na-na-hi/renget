@@ -1,5 +1,8 @@
 #/tesg/ Rosters
 
+-> ![Ellie](https://i.postimg.cc/mk8nx05y/Ellie.jpg)
+Ellie <-
+
 -> ![Lizzer Tizzer](https://i.postimg.cc/rF7XZccV/Lizzer-Tizzer.png)
 Lizzer Tizzer <-
 

@@ -1,0 +1,25 @@
+The sound of bike horns pierces the silence of a dimly lit studio apartment. Followed soon after it is the extremely annoyed and groggy groan of a freshly awoken woman nursing a hangover. Her hand lashes outward to shut the abominable alarm off, only for it to go wrong immediately. The hurried movements born from her frustrations only makes her slide off the couch she was sleeping on and hit the floor with a thud. Beer cans topple and rattle as her body knocks over the stack she had formed last night.
+
+Her eyes open blearily, thankful that she remembered to turn off the lights before passing out. The only light in the room now was the tv, still paused from last night's pro wrestling binge session. It might be fake fighting, but the acting and grandstanding was a great source of inspiration. Not to mention, she was pretty invested in the current storyline between Mambo Mamba and Captain Saicin. They just got done with a dumpster diving match to find the belt and the Captain shoved ghost peppers into Mambo's eyes and... we're getting off topic.
+
+That doesn't matter now. Right now we're in the middle of a war. A battle that's been happening too many times as of recent. On one side you have the Clown Hero: Popsy. Alcohol's greatest soldier. A true Japanese role model. Next to her was her only ally, the single can in the apartment that still had some beer in it. A true friend who never let her down.
+
+On the other side, there are the sinners working against her. First, there's that damned alarm currently drilling a hole in her brain with its racket. Secondly, her coffee table. Usually a neutral party, but today they've allied with the enemy after it dropped an ash tray onto Popsy's face when she fell. Finally, her arch rival, gravity. Always keeping her down on the ground when she should be on her comfortable spot on the couch. This was going to be a battle for the ages.
+
+---
+
+This was one of the few moments Akagi was grateful she lived alone. That took an embarrassing amount of time to actually get up and turn off her alarm. The biggest tell of that being the words on her phone currently staring back at her.
+
+"Missed Alarm"
+
+You know, the thing that comes up when you don't interact with your alarm for like ten minutes. It took her over ten minutes to stand up from the floor and lean over to the outlet where she left her phone. God, if anyone saw that display, she'd probably melt enough to slide down the drain.
+
+It didn't always used to be like this. She used to *be* somebody. Somebody people looked up to! Then that accident happened where she destroyed some rich kid's car during her fight with Blaze Burner. How is it her fault that the car was parked in an emergency area!? That's illegal, dammit! And yet, because of how these stupid laws work, she needed to pay for it. Not like Blaze Burner was putting any cash towards it.
+
+Now, Popsy was once a popular hero, but she was never rich, so paying for the damages to a supercar like that was a huge dent in her funds. So, of course, she did the one thing any hero would do in a position like that: She sold out. Took on sponsors to be able to keep herself afloat until she started making bigger bucks. It was supposed to be a safe avenue of cash, even if she needed to sell her soul a little to get it done. Of course, as you might have guessed, that was not how it went down. Turns out the president of the company sponsoring her was a cannibal!? Like, a literal cannibal who **eats** people! That's not a good image! There are photos of her shaking hands with that guy! She had noticed some weird looks from the guy, but she assumed it was because of her costume rather than him checking out her body in the worst way possible!
+
+And it's not like she could cut ties with them either. They had a contract. So unless she wanted to be out enough money that she'd have to sell her kidneys (which now only made her think that it would be going to someone's dinner table), she still had to back the brand. If she knew where she'd be now, she'd have taken one of her kidneys out right then and there. From that point, it was like the whole world was against her. It was one bad decision after the other. An interview gone wrong, words taken out of context, and every little flaw of hers blown out of proportion. Once the paparazzi knew she was weak, they were like vultures ready to tear her apart in any way they could.
+
+And boy did they succeed. Look at her now, hungover on a Tuesday. Living alone in a shitty studio apartment that's littered with trash, smelled of alcohol and cigarette smoke, and with a barely functioning quirk. The fact her quirk only worked when she thought it would result in something funny was a serious debilitating factor when it was hard to find anything about her situation funny right now. Now, she was no longer the funny clown hero people were happy to see arrive on the scene. She was the creepy woman that parents made their kids look away from when they passed by her.
+
+Okay, now she was just getting herself depressed again thinking about all of this. What time was it, now? Noon? Time for a beer run.

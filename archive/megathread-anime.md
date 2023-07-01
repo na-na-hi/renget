@@ -173,9 +173,9 @@
 - You can watch anime online for free on this streaming service, and sure to find more shows and movies here.
 - [URL Safety Results](https://www.urlvoid.com/scan/nanime.one/)
 
-### ▶️ [YugenAnime](https://yugen.to/)
+### ▶️ [YugenAnime](https://yugenanime.tv/)
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.
-- [URL Safety Results](https://www.urlvoid.com/scan/yugen.to/)
+- [URL Safety Results](https://www.urlvoid.com/scan/yugenanime.tv/)
 
 ### 🐐 [Zoro](https://zoro.to/) / [2](https://zoro.moe/) / [3](https://zoro.pm) / [4](https://zoro.sx)
 - A free anime streaming website where you can also download subtitled or dubbed anime in super HD quality.

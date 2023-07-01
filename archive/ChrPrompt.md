@@ -103,6 +103,7 @@ By your taste, how's the fashion at the guild?  What would you change?
 How's the dungeon diving been going? Do you wish you could be doing more administrative work instead?
 >It's going...great... Besides that business with Apple Woods, nothing but smooth sailing! Our rift mission went off without a hitch, besides getting a little lost in the desert! It's nice to get out every once in a while, but I'm much better suited for desk work. 
 How do you relax?
+>I usually read in the library. Booze isn't allowed on the premises, and there aren't any porn magazines in this world, so it's usually pretty quiet.
 Are the rumors about your plump rear true?
 >Why do people keep asking me this? It's hard to get a good look at myself without mirrors, so you'd probably know better than me. All I can say is that I've never felt any pain from sitting on hard surfaces after coming here.
 
@@ -110,19 +111,23 @@ Are the rumors about your plump rear true?
 Do you peek at pokemon in the shower, even though they're just as naked as always?
 >Don't tell Phanpy, but yes! It's all about context. You're getting a glimpse of something personal, something special. The native members don't usually care, since they're used to being naked all of the time, but you gotta be careful with the former humans.
 Have you written any smut yourself, or do you get it commissioned?
+>I've spent plenty of time fantasizing, and I've tried writing down some notes to make my own smut, but between the post nut-clarity and the many distractions in the guild, I've never written a finished smut story. I tried to find someone I could commission, but none of the other guild members took up my offer.
 Let's hear it from an expert. Are traps gay?
 >An age old question. One of the questions philosophers will be debating until the end of time, like: 'Do we have free will?', 'Is man naturally good?', and 'What doth life?' I'm not foolish enough to pretend to have the definitive answer, despite my many hours of research on the subject. Instead, I'll impart to you these words of wisdom: as long as he's cute, it doesn't matter. They may call you gay, but know you walk the path of righteousness. Follow your heart. Follow your dick.
 when is your official SEXOOOOOOOO tier list coming out?
->There's been a lot of demand for this, and I'm happy to announce the release of the first official Cyndaquil SEXO tierlist [right here, right now](https://files.catbox.moe/biiyuo.png)
+>There's been a lot of demand for this, and I'm happy to announce the release of the first official Cyndaquil SEXO tierlist [right here, right now](https://cloverguild.com/booru/post/529)
 I know you're very uhh, passionate about your craft, but is there anything that even you wouldn't try hit on?
 >As much as I would love to say no, I am but a mortal man. If I ever encountered a real Legendary Pokemon, I would have to seriously consider the possibility of being vaporized before I could win them over. Still might try, if they're hot enough.
 Do you like vore?
+>I never really got into anything that I couldn't actually do, besides Pokemon, when I was a human. I guess it's possible now considering my new stature, but I'd like to live to coom another day, thank you very much.
 
 **Torchic**
 Are there any upsides to being a torchic?
 >The fire breathing is nice. A Torchic body is also much more resiliant than a human body. If any of us were human, we'd probably be dead several times over. 
 How do you feel about Wooper, a fellow armless guildmate?
+>It's strange, seeing someone used to not having any arms. I've tried asking him for help with using my new body, but everything just comes naturally to him. He's aggressively cheery too, which I find a little off-putting.
 I know you've struggled with your new body, but has there been a time where it's come in handy?
+>It's useful all of the time in dungeons, considering the other fire type on our team refuses to fight. 
 
 **Totodile**
 Do you regret getting banned from the Blue Claw Inn? Where do you get your drinks now?
@@ -130,6 +135,7 @@ Do you regret getting banned from the Blue Claw Inn? Where do you get your drink
 Do you have a preference for what alcohol you drink, or do you just drink what's available?
 >I like to bring stronger stuff on missions, since I can carry more drinks worth of alcohol that way. I also really liked that fancy wine Beast uses in the kitchen. I still sneak some of that stuff out at night. 
 You are given the choice to take two guildmons, that aren't part of Team OnlyPhans, out for a few drinks. Who do you take and why?
+>Gus and Toge. Both of them seem like they like to spend their time alone, but with a little bit of social lubricant, I'm sure we'd all become great friends!
 
 **Elm**
 Have any of your pranks backfired or blown up in your face?
@@ -147,12 +153,20 @@ Now that you're a ghost, is there anything you fear?
 >Oh, right. I once thought about the horrifying possibility of me involuntarily activating my intangibility in my sleep and falling through the ground until I reached the magma in the planet’s core and got burned to death. I decided to not think about that again in order to preserve my sanity.
 **Amelia**
 Besides thinking water will kill him, what's the funniest misconception Nick has had about this world?
+>{Pending - need to think of something funny enough.}
 You're a bit bigger than the average Shinx, by the look of it--2'00" instead of 1'08". Because of that, did other Shinx treat you differently when you lived back home?
+>{Pending - working on this one.}
 
 **Nick**
 *\[If Amelia's first question was answered\]* Amelia's sharing embarassing stories about you! Are you going to take this sitting down? What's an embarrassing/silly mistake *she's* made?
+>{Pending - on writing this one.}
 Do you get along with the other Vuplix at the guild? You probably share some things in common, right?
+>{Pending - can't actually answer this one yet, as it requires information I don't currently have access to.}
 So you never heard of the PMD series before meeting the other humons, huh? What did you think when you leanred about that game series?
+>It's ontologically confusing. What came first? Did someone make a video game about a world, or are we in a world created from the ideas of a video game? Are they even connected at all?
+>I find it weird that the series even exists. And it's not like I was just living under a rock this whole time: I feel like I would've known if the spinoff existed in the first place. Besides, Chunsoft...didn't those guys go bankrupt in the early 2000s? Well...I suppose it's not entirely surprising that some of these guys apparently come from different worlds. No more than any of the other surprises I've had to deal with in the past few months.
+>What I do know, though, is that this world is no less real than any other. There's absolutely no doubt about that.
+
 
 **Kaiji**
 [Kaiji, your business seems to have the momentum of a runaway freight train. Why are you so popular?](https://youtu.be/tLFnlOO7l6A)
@@ -354,7 +368,9 @@ Have you ever considered letting yourself be shorn to bring in some extra money 
 -Do you have a partner?  If not, do you wish you had one?
 >No, I don't have any partners. Besides the Kernel, I haven't had the time or nerve to make friends with the others. But if I had to pick a partner, I would like it to be the Kernel.
 -How is it being a girl? Have you gotten used to it yet?
+>It's. . . different- I try not to think about it. Most of it is I feel wild mood swings. At first I thought it was just my abrupt arrival, but now I think it might be part of this new body.
 -Is the scarf thing just fur? or is there a layer of skin under it?
+>There's skin there. No nerves and I'm thankful for that.
 
 **Kina**
 -Who are the most common return patients at the clinic?
@@ -449,6 +465,9 @@ Humons, if you could evolve, would you?
 >**Booker**: Depends. I was lucky enough to be turned into an evolved Pokemon from the beginning (hard to believe I’m fully evolved when I’m this small though). But hypothetically, if I woke up as an unevolved Pokemon, and I preferred that species’ evolved form more than the base form, I would try to evolve. It would feel weird to transform for a second time, sure, but being able to “upgrade” to a better body would be worth it.
 >**Carrot**: ... i- kinda did already, but sure, i would evolve again in a hearbeat
 >**Gus**: It depends. Dewott is a straight upgrade from Oshawott - taller, TWO SCALCHOPS, etc. Plus I'd love to know what evolving feels like, I bet it's weird. But what if evolving "locks you in" here and prevents you from being able to go home at all? I don't know if I should risk it.
+>**Phanpy**: I don't see the point. The giant tusks also look like they'd get in the way. There'd also be the endless comments from Cyndaquil and my ass getting bigger...
+>**Torchic**: In a heartbeat. I wouldn't quite have hands, but three claws and arms are better than the wings I'm stuck with currently.
+>**Cyndaquil**: I don't know. I could see the benefits in having a larger tool to work with, but sometimes I wonder if the only reason I get away with all of my flirting is because some Pokemon aren't sure how old I am.
 
 Natives, whats your favorite food from the Pokemon World?
 >**Sneasel**: Tropical fruit! I can’t get enough of that stuff... even though I’m a meat-eater. See, we didn’t have anything tropical back home on the Island, obviously, cuz it was all cold and frozen there. So it’s new and exciting, y’know? That’s why I like it.
@@ -475,6 +494,9 @@ If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Booker**: What? I... that... w-what? S-sorry, but that question... doesn’t make sense, does it? There’s not enough info to know the captain’s age, right?
 >**Sneasel**: Uh... 36.
 >**Gus**: Old enough to know better.
+>**Nick**: Well, that depends. I'd think they would be pretty old, to not only own a ship, but also so much livestock. But then again, they could just be hired by the owner of the ship, or could be transporting the livestock for other people, or just have gotten suddenly wealthy somehow, which would all push them towards the younger ages. They could've also gotten to this point through nepotism... Hm.
+>**Amelia**: What's a sheep?
+>**Cyndaquil**: For a man to need that many animals to satisfy his urges, he must be at the peak of his sexual appetite. I'll go with 20.
 
 **Pair or More Questions**
 -

@@ -220,9 +220,9 @@ Negatives:
 
 #Planned LoRAs for release later
 
-##Onigiri
-##IdolEN1 
-##IdolEN2
+
+
+
 
 
 

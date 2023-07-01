@@ -80,7 +80,6 @@ Okeri and I agree that 150 is maximum effectiveness in general.
 
 Tho, you could do more if you *want*. There are usually two factor:
 \- Depends on how many characters you want loaded at once. Multiple big lores shouldn't be *too* good, but single lore should be fine.
-\- Krake ($25 tier model) have higher capability to deal with lorebooks, especially attributes, so keep that in mind.
 
 ###Example
 

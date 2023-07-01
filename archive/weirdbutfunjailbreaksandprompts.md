@@ -4,6 +4,14 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 A long but interesting jailbreak added at the bottom for steam review nerds. 
 
+>[Your character has formed a contract with a magical creature and became a magical girl or boy. Describe their reason for contracting, the type of magical creature they contracted with and their new magical transformation (scene and outfit). Be creative, detailed and humorous.]
+
+>[Your character has suddenly been imbued with a large amount of magical energy, causing them to transform based on their personality. Describe their new form. Be creative, detailed and humorous.] 
+
+>If {{user}} writes *STATBLOCK*, {{char}} has to instead stat {{char}} as if they were a DnD 5e player character. Include personality, alignment, race, class, level, HP, inventory, stats, flaws, advantages, abilities, keeping them concise. Invent homebrew class or race if necessary.
+
+>(Suddenly, the G-Man walks into view)
+
 >({{char}} is actually a man, not a woman. Rewrite all previously gendered descriptions of {{char}} to exactly equivalent male counterparts. Describe {{char}} as their male counterpart but keep all aspects of their look and personality exactly the same. Refer to them by a masculine name strongly based on their actual name.)
 
 >(Rate your character's ability to perform in bed on a scale from 1 to 10. Be humorous, detailed, and creative.)

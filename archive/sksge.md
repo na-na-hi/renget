@@ -4,7 +4,7 @@
 #######Word filter: https://rentry.co/fsdnd
 #######To add this filter, copy everything below and paste it in the Image MD5 page. 4ChanX Settings > Filters > Image MD5.
 #######To update, use copy&paste to replace the entire filter with the updated one. For convenience, use ctrl+a in this provided link: https://rentry.co/iyysq/raw
-#######Last word filter update: */hmofa/ thread #2560 | Last image filter update: /hmofa/ thread #2550
+#######Last word filter update: */hmofa/ thread #2560 | Last image filter update: /hmofa/ thread #2578
 
 /ciDP2ni6M8eoN0Z9ALwdCw==/;boards:trash
 
@@ -1556,3 +1556,5 @@
 /EEmUIJVztAudL+cu3Edq/w==/;boards:trash
 
 /tFt+Ba0sH4UASA0d+HQAIw==/;boards:trash
+
+/gEy05NLUDXhcztS7CgEFPg==/;boards:trash

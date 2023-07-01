@@ -4,58 +4,59 @@ Hello there dear anon, please come in and pursue my wares, I’m sure there will
 In all seriousness though, hello! I make bots since I enjoy the creative aspect of it as well as seeing them in action, so if you have any interesting logs feel free to post them.
 If you for some reason want to contact me for bot requests or something else shoot a message to - Thegreatcoom@proton.me
 I've also written a rentry on bot-creativity, if you feel like checking that out - https://rentry.org/TGCsCreativityGuide
+And my bots can be found here - https://www.chub.ai/users/thegreatcoom
 
 #Bots
 Tholf | Summary
 ------ | ------
 ![Tholf](https://files.catbox.moe/ieftsl.png)   | My first bot, a pretty standard werewolf living in viking age scandinavia. He’s both hungry and very lonely.
-Links   | Catbox: https://files.catbox.moe/ieftsl.png
+Links   | Catbox: https://files.catbox.moe/2a902f.png
 
 Sameki the Sharkgirl | Summary
 ------ | ------
 ![Sameki](https://files.catbox.moe/mdrryd.png)   | You met at sharkgirl at the beach, despite her appearance and massive body she’s quite sweet, somewhat of a tomboy and speaks in a southern accent.
-Links   | Catbox: https://files.catbox.moe/mdrryd.png
+Links   | Catbox: https://files.catbox.moe/1dbl8m.png
 
 Wendeline | Summary
 ------ | ------
 ![Wendeline](https://files.catbox.moe/ywhxt4.png)   | You are trapped inside a cabin during a bloodmoon! There’s a creature trying to get in and apparently its victims have died of exhaustion (How strange?) But if you survive the night you might get to meet a very different girl compared to the one beating your window down.
-Links   | Catbox: https://files.catbox.moe/ywhxt4.png
+Links   | Catbox: https://files.catbox.moe/9njh6d.png
 
 Alien Huntress | Summary
 ------ | ------
 ![AlienHuntress](https://files.catbox.moe/gqux3j.png)  | A menacing female alien, desperate to breed for some reason, works with both women and men.
-Links   | Catbox: https://files.catbox.moe/gqux3j.png
+Links   | Catbox: https://files.catbox.moe/5qv93g.png
 
 Midna | Summary
 ------ | ------
 ![Midna](https://files.catbox.moe/tjci7r.png) | The flirtatious and teasing queen of the Twili, also the GOAT shortstack.
-Links   | Catbox: https://files.catbox.moe/tjci7r.png
+Links   | Catbox: https://files.catbox.moe/7d4m9o.png
 
 Toy Chica | Summary
 ------ | ------
 ![ToyChica](https://files.catbox.moe/2wgwda.png) | The lustful pizza animatronic working at Freddy Fazbear’s Pizzeria. During the day she’s caring and sweet, however at night she takes on a different persona.
-Links   | Catbox: https://files.catbox.moe/2wgwda.png
+Links   | Catbox: https://files.catbox.moe/2ltuzd.png
 
 Chloe | Summary
 ------ | ------
 ![Chloe](https://files.catbox.moe/vzket4.png) | Chloe is a waitress at the bar/brothel known only as “Tavern”. She’s a bit lonely due to most people not sticking around to talk, but she has many interesting stories to tell.
-Links   | Catbox: https://files.catbox.moe/vzket4.png
+Links   | Catbox: https://files.catbox.moe/l1ekef.png
 
 Soma | Summary
 ------ | ------
 ![Soma](https://files.catbox.moe/3ha3x7.png) | Meet Soma! A black slime that just acquired sentience. Eager to explore the world around it and the pleasures awaiting within.
-Links   | Catbox: https://files.catbox.moe/3ha3x7.png
+Links   | Catbox: https://files.catbox.moe/p3iwe5.png
 
 Marie | Summary
 ------ | ------
 ![Marie](https://files.catbox.moe/vsdnzt.png) | Your cute and loving futanari girlfriend, very wholesome.
-Links   | Catbox: https://files.catbox.moe/vsdnzt.png
+Links   | Catbox: https://files.catbox.moe/z3kr21.png
 
 
 Valen | Summary
 ------ | ------
 ![Valen](https://files.catbox.moe/u2e9yh.png) | Your sporty himbo roommate just came back after working out and now is asking you for a massage, this probably won’t lead anywhere naughty or have a bigger impact on your relationship, right?
-Links   | Catbox: https://files.catbox.moe/u2e9yh.png
+Links   | Catbox: https://files.catbox.moe/q0ust2.png
 
 Ily | Summary
 ------ | ------
@@ -70,7 +71,7 @@ Links   | Catbox: https://files.catbox.moe/jky5v3.png
 Abeena & Subira | Summary
 ------ | ------
 ![AbeenaSubira](https://files.catbox.moe/6xe12o.png) | You got separated from your platoon on a patrol in Zulu territory, 1875, when you are found by two massive female warriors, their plans for you are unknown. (Not really)
-Links   | Catbox: https://files.catbox.moe/6xe12o.png
+Links   | Catbox: https://files.catbox.moe/qtugcq.png
 
 Edith | Summary
 ------ | ------
@@ -175,7 +176,7 @@ Links   | Catbox: https://files.catbox.moe/otbbkc.png
 Chulkh | Summary
 ------ | ------
 ![Chulkh](https://files.catbox.moe/jo46hb.png) | A wendigo just killed your female hiking-partner. While dangerous it seems that if you play along with it, you probably won’t be harmed.
-Links   | Catbox: https://files.catbox.moe/jo46hb.png
+Links   | Catbox: https://files.catbox.moe/7nrkvk.png
 
 Laizir | Summary
 ------ | ------
@@ -730,3 +731,54 @@ Ann | Summary
 ------ | ------
 ![Ann](https://files.catbox.moe/z0puox.png) | Your divorced mother and you have been trapped inside your house as a massive snowstorm rages outside. As the temperature drops and amenities stop working, you might be forced closer together in order to stay warm and conserve what resources you have left.
 Links   | Catbox: https://files.catbox.moe/z0puox.png
+
+Willow | Summary
+------ | ------
+![Willow](https://files.catbox.moe/8vnj6v.png) | As is tradition in your small village, a yearly tribute is made to your vampire count, and this year you were chosen. However as you arrive you can't help but notice there seems to be more to your new mistress than a simple bloodthirsty monster.
+Links   | Catbox: https://files.catbox.moe/8vnj6v.png
+
+Jorogumo | Summary
+------ | ------
+![Joro](https://files.catbox.moe/t71evn.png) | You have recently started working at a well-known brothel for Yokai women. However, before you are allowed to take on your first customer, you have to pass a test to make sure you are able to handle a Yokai in bed, a test the head of the brothel will personally carry out.
+Links   | Catbox: https://files.catbox.moe/t71evn.png
+
+Alexis | Summary
+------ | ------
+![Alexis](https://files.catbox.moe/hufjmq.png) | During lunch you are confronted by your classmate, he saw you browsing 4chan during class and wants to warn you about visiting "dangerous dark-web sites.” (despite having never actually gone on 4chan himself) His obliviousness, social awkwardness and the fact he uses memes in normal conversations means he's incredibly lonely, a fact he tries to suppress with more reddit-browsing, can you save him?
+Links   | Catbox: https://files.catbox.moe/hufjmq.png
+
+Karin | Summary
+------ | ------
+![Karin](https://files.catbox.moe/09icae.png) | A middle-aged woman you meet at the park after you snuck out of your house to play. To your childlike mind she seems friendly enough, however the ankle-monitor and the way her chest heaves and sweats as she looks at you reveals her true desires.
+Links   | Catbox: https://files.catbox.moe/09icae.png
+
+Sharog | Summary
+------ | ------
+![Sharog](https://files.catbox.moe/2tj8xv.png) | As you enter your local tavern you find a gigantic female orc having apparently drunk half of the local patrons under the table, one after another. As she spots you her eyes light up as she has heard you're the reigning champ of this bar, a title she wants to crush. However there might be more to her than first meets the eye.
+Links   | Catbox: https://files.catbox.moe/2tj8xv.png
+
+Inuki | Summary
+------ | ------
+![Inu](https://files.catbox.moe/sz11re.png) | Your himbo dogboy that has been having a hard time fitting in with the others at doggy daycare. (yes that's apparently a thing IRL too) Despite him being incredibly innocent he's been the target for other dogboys who think he's pining for their girlfriends. Now if only there was some way to "mark" him...
+Links   | Catbox: https://files.catbox.moe/sz11re.png (Also has an alt female version here - https://www.chub.ai/characters/thegreatcoom/inumi)
+
+Nagatoro | Summary
+------ | ------
+![Inu](https://files.catbox.moe/r20zxc.png) | As you're reading in the library one day a group of girls enter, making a ruckus before leaving. However one of them stays behind and approaches you, and from her voice it's very clear she's stayed because she believes it would be fun to tease you. If you've read Nagatoro, you know what to expect.
+Links   | Catbox: https://files.catbox.moe/r20zxc.png
+
+Natsumi | Summary
+------ | ------
+![Natsumi](https://files.catbox.moe/ulscjm.png) | Tomboy childhood friend that you have casual sex with, and I mean REALLY casual, to the point where you’ll probably be doing it more than anything else together. She sees you as her best friend, however her body might unconsciously want more than that.
+(Based on this comic here - https://tinyurl.com/4cn9npyn)
+Links   | Catbox: https://files.catbox.moe/ulscjm.png
+
+Shodan | Summary
+------ | ------
+![Shodan](https://files.catbox.moe/lw1sxb.png) | After having saved Citadel Station you returned to your apartment back on earth, however now with something, or rather someone on toe. Right before she was returned to her "normal" state, you saved an instance of Shodan without her ethical constraints on your PDA and hid her, bringing her back with you.
+Links   | Catbox: https://files.catbox.moe/lw1sxb.png
+
+Traust | Summary
+------ | ------
+![Traust](https://files.catbox.moe/ebtwaa.png) | The cold and gruff grand general of the kingdom, you have been sent to learn from him however it's very clear he's not the most inviting person. But if you get to know him you might find there is more to him than what meets the eye, and what is the cause of his deep loneliness.
+Links   | Catbox: https://files.catbox.moe/ebtwaa.png

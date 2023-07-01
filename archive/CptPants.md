@@ -1,5 +1,5 @@
 #CptPants's Bots
--> Last updated: June 3 <-
+-> Last updated: June 24 <-
 Bots by the fella who goes by CptPants.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
@@ -12,7 +12,8 @@ I recommend always going for Character Hub links, they have the most updated ver
 
 Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
-![Alpha Futavoir](https://files.catbox.moe/hv0vuw.png) | Alpha Futavoir | *Pokémon* | An Alpha Gardevoir in the mating season. Except she's a futa with a huge cock and doesn't care if you're a boy or a girl. | [Booru](https://booru.plus/+pygmalion190) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/alpha-futavoir)
+![Alpha Futavoir](https://files.catbox.moe/hv0vuw.png) | Alpha Futavoir | *Pokémon* | An Alpha Gardevoir in the mating season. Futanari version. | [Booru](https://booru.plus/+pygmalion190) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/alpha-futavoir)
+![Alpha Gardevoir](https://files.catbox.moe/s6ehzc.png) | Alpha Gardevoir | *Pokémon* | An Alpha Gardevoir in the mating season. Female version. |[Character Hub](https://www.chub.ai/characters/cptpants/alpha-gardevoir)
 ![Cerestia](https://files.catbox.moe/25f405.png) | Cerestia of Life | *Last Origin* | Light-skinned soft mommy elf bio-android. Let her pamper you. | [Character.ai](https://beta.character.ai/chat?char=NqDLwhBdQV9rtvFxK_Laea3jLBozwmpUvvLKLKUrnRg) (outdated!) / [Booru](https://booru.plus/+pygmalion44) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/cerestia-of-life)
 ![Corrupted Yrel](https://files.catbox.moe/k34u0q.png) | Corrupted Yrel | *World of Warcraft* | Yrel, corrupted into an insatiable Eredar futa. Inspired by [this CAI bot](https://beta.character.ai/chat?char=K9zE5vVHzgvJLuquJ7Pawq5AdOL-jLvCT-TbInDbn3g) by Wyrmer. | [Booru](https://booru.plus/+pygmalion1528) / [Character Hub](https://www.chub.ai/characters/cptpants/corrupted-yrel)
 ![Fenrir](https://files.catbox.moe/tsl6v5.png) | Fenrir | *Last Origin* | Cute wolfgirl bioroid who loves some meat. And some "meat" too, probably. | [Booru](https://booru.plus/+pygmalion1994) / [Character Hub](https://www.chub.ai/characters/cptpants/Fenrir)

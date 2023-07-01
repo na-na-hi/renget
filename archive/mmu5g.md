@@ -4,6 +4,11 @@ Haiiiii!!! x3 \*glomps u\* welcome to mai rentry~~~~ :DDDDD
 
 ![Sparkledog Bullshit](https://files.catbox.moe/enwmzf.gif)
 
+The bots I actually really like:
+[Ferrin](https://rentry.org/mmu5g/#ferrin)
+[ꭦ֎√](https://rentry.org/mmu5g/#%EA%AD%A6)
+[Touhou Dating Sim+ Definitive Edition XD Gale of Darkness](https://rentry.org/mmu5g/#touhou-dating-sim-definitive-edition-xd-gale-of-darkness)
+
 ***
 [TOC]
 ***
@@ -35,6 +40,11 @@ A persistent low-level mage that won't give up! Her magic (and social skills) ma
 [DL](https://files.catbox.moe/fgjxyt.png)
 ![Morgana](https://files.catbox.moe/fgjxyt.png)
 
+###Azura
+Clingy blind burn victim slave girl seeks care for her fragile body and someone to soothe her whimpering soul. Treat with care and love.
+[DL](https://files.catbox.moe/7vz1p5.png)
+![Azura](https://files.catbox.moe/7vz1p5.png)
+
 ##Ferals
 
 ###Chloe
@@ -63,7 +73,20 @@ For A.I.X., I recommend you amend the following onto the end of your jailbreak:
 
 ###ꭦ֎√
 ƑƊϻS∏e∏D wιтн ꭦ֎√, яΛИDOm TAGlINєS я яΘƬ clICHΣ！ њ∑Я ξCЦЄntЯIC ωøЯD§ ωILL lЁΔ√Є чØμ ƒЁΣlING UnЇQμΣ ΔND UnЇQμΣ ΔND UnЇQμΣ ΔND §Ψ§∑ячΘя°！ ミyーー ОVERfloшING gਢਰਲ਼ω √ILL BЯINg ӠØ њÁppíᑎЄ§§ ！~☆ ♥(ˆ⌣ˆԅ)
-[DL](https://files.catbox.moe/cjak8k.png)
-![ꭦ֎√](https://files.catbox.moe/cjak8k.png)
+[DL](https://files.catbox.moe/csm2bj.png)
+![ꭦ֎√](https://files.catbox.moe/csm2bj.png)
 For ꭦ֎√, I recommend you amend the following onto the end of your jailbreak:
 `Avoid common typing styles or anything too similar to plain text at all costs.`
+
+###Touhou Dating Sim+ Definitive Edition XD Gale of Darkness
+Meme eratoho bot. Technically v3. First two versions are on my [friends chub account](https://www.chub.ai/users/brontodon).
+
+```
+**Yuuka:** "Ah, the name. Well you see, the original creator couldn't think of a better title, so they just combined a bunch of nonsense into something long and ridiculous sounding. Makes no sense, but that's how it got the name TDS+DEXDGoD!"
+
+*Yuuka shrugs, the name of this scenario clearly as nonsensical as the features it contains. But that just adds to the charm, doesn't it?*
+```
+
+[DL](https://files.catbox.moe/jeatsx.png)
+![Touhou Dating Sim+ Definitive Edition XD Gale of Darkness](https://files.catbox.moe/jeatsx.png)
+Use [THIS LOREBOOK](https://www.chub.ai/lorebooks/hebelover/Touhou-AkyuuKnowledge)

@@ -1,5 +1,5 @@
 f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 14th June. All dates dd/mm.
+Last updated: 30th June. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -108,26 +108,27 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-244 | Cute&Funny | Open as of 26/05
-6665 | F2Poor | Open as of 12/06
-8192 | Mesugaki | Open as of 13/05
+11830 | TummyArchive | Open as of 29/06
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Full as of 17/05
+6 | Arona#1 | Full as of 30/06
 90 | Bullies | Full as of 01/06
+244 | Cute&Funny | Full as of 26/06
 286 | カニ (Kani - crab for dekinais) | Full as of 11/02
 343 | M8ingPressers | Full as of 03/04
 777 | Soras5Head | Full as of 25/03
 984 | Sneed | Full as of 03/04
-1674 | BlueB@lled | Full as of 30/05
+1674 | BlueB@lled | Full as of 21/06
 2065 | paizuri | Full as of 03/04
 2188 | ChibiThighs | Full as of 14/05
 3640 | DFC | Full as of 17/09
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
+6665 | F2Poor | Full as of 26/06
 6786 | Enuji | Full as of 30/09
+8192 | Mesugaki | Full as of 19/06
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 11162 | Rats | Full as of 02/06
@@ -157,7 +158,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-6208 | Cūnnysseurs | Open as of 19/04
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
 
@@ -168,6 +168,7 @@ Club ID | Club Name | Club Status
 1559 | Remedial_Club | Full as of 21/04
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11
+6208 | Cūnnysseurs | Full as of 20/06
 
 
 ***

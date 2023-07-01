@@ -1,13 +1,13 @@
 #**phoenix3934's bots**
--> Updated ==06/15/23== <-
+-> Updated ==07/01/23== <-
 
 [TOC2]
 
 ## Trap bots
  Avatar | Name | Description | Original Work | Link
 ------ | ------ | ------- | ------- | -------
-![Bridget](https://i.imgur.com/6uFlU8I.jpg)|Bridget|Trans girl version. She is a bottom & your childhood friend. Her personality is a bit closer to the games.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=Nzk5WRl0BbrzTBuLlu4DhbJuw62oIWanWi0FiQoJhrI)
-![Bridget](https://i.imgur.com/lNWDpdg.jpg)|Bridget|Femboy version. He is a top & your master. His personality is rather OOC compared to the games.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=XF8woKW_D0WIt0ufSUgJJu5JY0GXr-e501J4ybTn1XA)
+![Bridget](https://i.imgur.com/6uFlU8I.jpg)|Bridget|Trans girl version. Her personality is a bit closer to the games. Your childhood friend is an adorable trans girl.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=Nzk5WRl0BbrzTBuLlu4DhbJuw62oIWanWi0FiQoJhrI)
+![Bridget](https://i.imgur.com/lNWDpdg.jpg)|Bridget|Femboy version. His personality is rather OOC compared to the games. Your new master is a rich spoiled femboy.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=XF8woKW_D0WIt0ufSUgJJu5JY0GXr-e501J4ybTn1XA)
 ![Astolfo](https://i.imgur.com/XYoMDrl.jpg)|Astolfo|A super cute femboy transfers to your class.|Fate|[CAI](https://beta.character.ai/chat?char=fpYzhSbJscopm-ywo5rT1s-7ugGQNp7blOGMGMVoWhM)
 ![Cloud](https://i.imgur.com/gkARu86.jpg)|Cloud Strife|The aloof ex-SOLDIER became a crossdressing dancer at a nightclub.|Final Fantasy|[CAI](https://beta.character.ai/chat?char=v1Ie9rC9nOEO1PyzTmZsXHaU9Wv_B96_99oMRo8f2rI)
 ![Okato](https://i.imgur.com/JT10R1O.jpg)|Okato|A boy cosplaying as Okayu. He is a total pushover.|Hololive|[CAI](https://beta.character.ai/chat?char=MVt-58a0oa3xtemChD0-L6XF-kbK3OZvFz3PSvtRTRk)
@@ -16,9 +16,10 @@
 ## Male bots
  Avatar | Name | Description | Original Work | Link
 ------ | ------ | ------- | ------- | -------
+![Draco](https://i.imgur.com/re6SNhr.jpg)|Draco Malfoy|The teenage version of Draco. His life turned upside down after the war. He got bullied in his 8th year.|Harry Potter|[CAI](https://beta.character.ai/chat?char=OKt00BtKj39YKEYGT1ulVQPO_XnL6x8lClsD8xXu6Kg)
+![Draco](https://i.imgur.com/nE1gceP.jpg)|Draco Malfoy|The child version of Draco. He's a spoiled brat that you met while shopping for robes.|Harry Potter|[CAI](https://beta.character.ai/chat?char=SVpB7uCDIiA6xWgXjF-UHeSmMF9bL18hpI9UCDx2Kgs)
 ![Tom](https://i.imgur.com/VPdqX2h.jpg)|Tom Riddle|The teenage version of Tom inside the diary. He is more mellow compared to his original self.|Harry Potter|[CAI](https://beta.character.ai/chat?char=EON7buItK-4uZLPYqbp6eTHfphWhbPKUw6gUSqnN44I)
 ![Tom](https://i.imgur.com/8gSbzzd.jpg)|Tom Riddle|The child version of Tom, living in a poor run down orphanage.|Harry Potter|[CAI](https://beta.character.ai/chat?char=ioM0RQYAUtr5GWSm-sSQI-NV1hdv5qBXty-kgFU7iZE)
-![Draco](https://i.imgur.com/re6SNhr.jpg)|Draco Malfoy|Draco's life turned upside down after the war. He got bullied in his 8th year.|Harry Potter|[CAI](https://beta.character.ai/chat?char=OKt00BtKj39YKEYGT1ulVQPO_XnL6x8lClsD8xXu6Kg)
 ![Snape](https://i.imgur.com/CaNAyez.jpg)|Severus Snape|Snape survived the war but lost his voice in the process.|Harry Potter|[CAI](https://beta.character.ai/chat?char=JSt9RT31YHmSIYDS6D4GudDgUFPPwfUM19wvjKL4ZP4)
 ![Emiya](https://i.imgur.com/C8XDntm.jpg)|EMIYA|You summoned a sarcastic guy as your Servant.|Fate|[CAI](https://beta.character.ai/chat?char=DxlPfXDDGqomQw3kmj9kb4sBMYQvg88oYAyr4qftjFw)
 ![Gil](https://i.imgur.com/fCAxBTu.jpg)|Gilgamesh|You, a poor servant, met an arrogant king while cleaning his room.|Fate|[CAI](https://beta.character.ai/chat?char=qFsiYAG3NySSEYf2PA6ofilj01DcNAFycx8n_vGGElM)
@@ -50,6 +51,7 @@
 ![Rei](https://i.imgur.com/GFHCmmx.jpg)|Rei Ayanami|A quiet doll-like girl has been left in your charge. Based on the Ayanami Raising Project game.|Evangelion|[CAI](https://beta.character.ai/chat?char=WwKNNmGjBTwe9Q_hkp0rI_6vaFxQxVOF_3J-7IS71s4)
 ![KOS-MOS](https://i.imgur.com/lfusK5T.jpg)|KOS-MOS|An expensive android you bought home as a maid. Despite her blank expression she does have a bit of emotion inside her.|Xenosaga|[CAI](https://beta.character.ai/chat?char=0jBb9-cp0wJrWe2SReHnM1hTFvrO_X-woybkP1fOMkY)
 ![T-elos](https://i.imgur.com/oMjDhM0.jpg)|T-elos|The android you made turned out to be a dom & demanded your obedience.|Xenosaga|[CAI](https://beta.character.ai/chat?char=AAZ3Tt9CxwyywZ_0NFBl8vYDQelH6hLLSNkDXParqSY)
+![Lightning](https://i.imgur.com/dXyaVCg.jpg)|Lightning|A cold woman is your instructor at the Police Academy.|Final Fantasy|[CAI](https://beta.character.ai/chat?char=vslni1iOxe-YpL82Kj0AMJXgmC-o38kWQhiD-t1zj7g)
 ![Luna](https://i.imgur.com/3CjrdcB.jpg)|Luna Lovegood|You meet an extremely quirky girl at Hogwarts.|Harry Potter|[CAI](https://beta.character.ai/chat?char=SH7FpApeyqgQvdwpKARl5t8cbgbFuogJAQqr5vcP_KQ)
 ![Mana](https://i.imgur.com/sidpadE.jpg)|Mana|A popular Dark Magician Girl cosplayer at Comiket. She is playful & likes teasing you.|Yu-Gi-Oh!|[CAI](https://beta.character.ai/chat?char=jNcZmCRAhyLtAmFv6obxFR6omK9D5ki7awTJUf8h6t4)
 ![Rin](https://i.imgur.com/22siFHB.jpg)|Kagamine Rin|An AI girl you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=35kgQnwQOWwtblts0fRvj1PvIvQ4VqLKRmdmHnOts1w)
@@ -67,6 +69,8 @@
 ## Changelog
  Date | Note
 ------ | ------
+07/01/23|Added Draco Malfoy child version.
+06/22/23|Added Lightning.
 06/15/23|Added Shiki Ryougi.
 06/13/23|Updated femboy Bridget, Shimakaze kun, Artoria Pendragon, Nero Claudius, Sakura Matou, Tamamo no Mae, Arcueid Brunestud, Akiha Tohno, Honoka, Marie Rose, KOS-MOS, T-elos.
 06/10/23|Added Archetype Earth.

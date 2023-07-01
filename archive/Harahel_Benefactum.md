@@ -169,7 +169,7 @@ Dozens of pumpkin seeds acquired from a pumpkin patch tainted by Onoskelis' lewd
 
 #### Base Appearance
 **Head**
-Instead of hair, numerous fine, spaghetti strands of scaled serpents erupt from the lamia's scalp, each with the very same hue as the rest of her reptilian features, and reaching down to just below the shoulders—save the gravity-defying cowlick that often sways to whims of its owner's emotions.
+The Lamia's hair is a turquoise much the same as her scales, but houses numerous fine, spaghetti-like strands of scaled serpents, which erupt from her scalp, each with the very same pitch-black hue as the bands that gird her tail's length, and reaching down to just below the shoulders—save the gravity-defying cowlick that often sways to the whims of its owner's emotions.
 Two smooth, front-swept, ivory horns adorn the gorgon's head at an angle resembling a wreath crown. The pointed ends jut out a good three inches (7.62 cm) beyond her forehead and taper abruptly.
 Benefactum's girlish face is smooth to the touch, including the fine, teal flakes of scales beneath her eyes and those in greater frequency towards her ears.
 Her ears are finned, retractable, and of a darker tone than the majority of her body, while being reminiscent of some mermaids. They have a tendency to shift about or even flap, depending on the krait's emotions, calling to mind a trait of elves.
@@ -183,7 +183,7 @@ Although they are wings by technicality—flapping and gliding is viable—their
 **Arms**
 This naga has four muscle-laden arms, each with scales spanning from her shoulders-down. The pattern present is a simple one and mirrors her tail's, but only in greater frequency. Each five-fingered hand is equipped with keen, retractable claws.
 **Tail**
-Benefactum's tail would be a solid turquoise throughout, if not for the dark-black, banding pattern spaced equidistantly, where said pattern strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow.
+Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow.
 **Miscellaneous**
 Her skin is smooth and silky, while her scales feel soft and pliable.
 

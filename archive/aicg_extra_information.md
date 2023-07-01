@@ -4,6 +4,7 @@
 ***
 !!! info
     #### Current frontends
+    This is what most anons currently use to chat with bots.
 
 #####Agnaistic
 (https://github.com/luminai-companion/agn-ai) https://github.com/agnaistic/agnai
@@ -30,7 +31,7 @@ https://docs.sillytavern.app
 
 ##### Chub Venus
 https://venus.chub.ai
-- british frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
+- british frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging; offers paid access to own llm
 
 ![](https://files.catbox.moe/8y0ox3.png)
 
@@ -38,6 +39,7 @@ https://venus.chub.ai
 
 !!! info
     #### Bots
+    This is where anons get bots.
 
 ##### Booruplus
 https://booru.plus/+pygmalion
@@ -53,13 +55,6 @@ https://booru.plus/+pygmalion
 
 ***
 ##### Other
-**BotPrompts**
-https://botprompts.net
-- This site was updated regularly with new "bots". They're only jsons so you'll have to assemble the cards yourself. The bots are decent enough.
-- now it looks dead
-
-![](https://files.catbox.moe/d71zj4.png)
-
 **Pygmalion**
 https://mega.nz/folder/FWgxyaLA#1Dxz2IYVibPBSMnM1Rut7Q
 https://drive.google.com/drive/folders/16K7HGgySBNLLlsWJDSJOElpor0_Hq7rj
@@ -90,6 +85,7 @@ https://avakson.github.io/character-editor
 
 !!! info
     #### Online avatar generators
+    This is what anons use to create a picture for the bot.
 
 ##### Nemu's Waifu Generator
 https://waifus.nemusona.com
@@ -138,11 +134,13 @@ https://holara.ai
 
 !!! info
     #### Local models
+    This is what anons use to gain independence from corpos.
+
 https://rentry.org/lmg_template
 - /𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕺𝕻 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 𝖜𝖎𝖙𝖍 𝖆𝖑𝖑 𝖙𝖍𝖊𝖎𝖗 𝖑𝖎𝖓𝖐𝖘
 
 https://rentry.org/ayumi_erp_rating
-- LLM Models ERP Ranking by /lmg/
+- a list of LLMs with ERP ranking, by /lmg/
 
 https://docs.alpindale.dev
 - official Pygmalion manual, very extensive and detailed
@@ -150,7 +148,7 @@ https://docs.alpindale.dev
 
 *Following links are legacy, if you want to learn more about current local models use aforementioned links:*
 
-##### Pygmalion-6B
+**Pygmalion-6B**
 https://koboldai.org/cpp [CPU]
 https://pastebin.com/Ah5ZUcGE [Node.js install guide (Win7)]
 https://laika-ch.itch.io/laikas-litevn-ui-for-koboldai [Laika’s LiteVN]
@@ -158,7 +156,7 @@ https://rentry.org/Pyggymancy [Guide]
 https://rentry.org/PygTips
 - Classic pyg links.
 
-##### LLaMa
+**LLaMa**
 https://rentry.org/better-llama-roleplay [RP guide]
 https://rentry.org/nur779 [Models]
 https://github.com/ggerganov/llama.cpp [CPU]
@@ -168,6 +166,7 @@ https://github.com/ggerganov/llama.cpp [CPU]
 
 !!! info
     #### Other
+    Various things that don't fit into previous sections.
 
 https://rentry.org/waifutext
 - receive texts from your waifu as notifications on Android and more; uses OpenAI
@@ -218,17 +217,27 @@ https://github.com/TavernAI/TavernAI
 
 ##### ~Memories~
 https://mega.nz/folder/LXxV0ZqY#Ej35jnLHh2yYgqRxxOTSkQ
-- A collection of /vt/ chatbot logs from old days
+- collection of /vt/ chatbot logs from old days
+
+##### ~Fun~
+https://rentry.org/weirdbutfunjailbreaksandprompts
+- collection of one-use prompts to take a funny screenshot with a new bot
 
 ***
 
 !!! info
     #### Cemetery
+    Dead projects that used to be mentioned above.
 
 **VenusAI**
 https://venusai.chat
 vietnamese frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging
 https://files.catbox.moe/iworgx.png ; https://files.catbox.moe/68939b.png
+
+**BotPrompts**
+https://botprompts.net
+This site was updated regularly with new "bots". They're only jsons so you had to assemble the cards yourself. The bots were decent enough. Now it looks dead.
+https://files.catbox.moe/d71zj4.png
 
 ***
 ***

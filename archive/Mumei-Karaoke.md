@@ -14,8 +14,8 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Chapters== - 05/29 - Added [#45](https://rentry.org/Mumei-Karaoke#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k)
-	>==Karaoke Clips== - 05/29 - Added Timestamps for [#45](https://rentry.org/Mumei-Karaoke#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k_1) 
+	>==Chapters== - 06/26 - Added [#46](https://rentry.org/Mumei-Karaoke/#2023-06-24-%E6%AD%8C%E6%9E%A0-karaokeits-been-3-whole-months-rr_-re2tv8m)
+	>==Karaoke Clips== - 06/26 - Added [#46](https://rentry.org/Mumei-Karaoke/#2023-06-24-%E6%AD%8C%E6%9E%A0-karaokeits-been-3-whole-months-rr_-re2tv8m_1) 
 	>==Mumei Radio== - 03/25 - Updated- https://rentry.org/Mumei-Radio
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== - 05/20 - Added some videos at the bottom - [Here](https://rentry.org/Mumei-Karaoke/#mumei-mumei)
@@ -2586,6 +2586,87 @@ CHAPTER10=01:09:42.000
 CHAPTER10NAME=09. A New Start - Nanashi Mumei (Acoustic)
 
 ```
+***
+######『2023-06-24』 - 【歌枠 KARAOKE】It's Been 3 Whole Months !!! [Rr_-RE2TV8M]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:42.801
+CHAPTER01NAME=Start
+CHAPTER02=00:03:27.000
+CHAPTER02NAME=01. Move Along - The All-American Rejects
+CHAPTER03=00:12:36.000
+CHAPTER03NAME=02. Check Yes, Juliet - We The Kings
+CHAPTER04=00:22:32.000
+CHAPTER04NAME=Cupid (Twin Version) (Finding Key & Practice)
+CHAPTER05=00:25:42.440
+CHAPTER05NAME=03. Cupid (Twin Version) - FIFTY FIFTY
+CHAPTER06=00:33:39.000
+CHAPTER06NAME=Iris - Goo Goo Dolls
+CHAPTER07=00:37:07.000
+CHAPTER07NAME=04. Total Eclipse of the Heart - Bonnie Tyler
+CHAPTER08=00:44:40.000
+CHAPTER08NAME=05. Airplanes - B.o.B
+CHAPTER09=00:49:50.000
+CHAPTER09NAME=06. Sleepwalking - Bring Me the Horizon
+CHAPTER10=00:56:49.000
+CHAPTER10NAME=07. The Best Day Ever - SpongeBob SquarePants
+CHAPTER11=01:00:41.742
+CHAPTER11NAME=08. Popular - Wicked
+CHAPTER12=01:06:37.000
+CHAPTER12NAME=Idol - Yoasobi (Accapella)
+CHAPTER13=01:11:21.000
+CHAPTER13NAME=Ghost Rule - deco*27 (Accapella)
+CHAPTER14=01:16:46.000
+CHAPTER14NAME=Idol meeting - Wonder Wall
+CHAPTER15=01:19:14.899
+CHAPTER15NAME=Back - Wonder Wall
+CHAPTER16=01:21:57.000
+CHAPTER16NAME=09. Sign - Flow
+CHAPTER17=01:26:01.000
+CHAPTER17NAME=10. Karate - BABYMETAL
+CHAPTER18=01:33:53.478
+CHAPTER18NAME=11. On My Own - Les Miserables (JP Ver.)
+CHAPTER19=01:44:00.349
+CHAPTER19NAME=12. Uso - SID
+CHAPTER20=01:55:38.000
+CHAPTER20NAME=13. Sugar, We're Goin Down - Fall Out Boy
+CHAPTER21=02:00:52.000
+CHAPTER21NAME=14. Poker Face - Lady Gaga
+CHAPTER22=02:05:08.000
+CHAPTER22NAME=15. Yeah! - Usher
+CHAPTER23=02:14:32.000
+CHAPTER23NAME=16. Daylily - Movements
+CHAPTER24=02:18:35.487
+CHAPTER24NAME=Maybe - Annie
+CHAPTER25=02:21:20.000
+CHAPTER25NAME=17. The Star-Spangled Banner
+CHAPTER26=02:23:28.000
+CHAPTER26NAME=18. O Canada
+CHAPTER27=02:25:50.000
+CHAPTER27NAME=19. America (My Country, 'Tis of Thee) & God Save the King
+CHAPTER28=02:29:24.000
+CHAPTER28NAME=Behind These Hazel Eyes - Kelly Clarkson
+CHAPTER29=02:31:56.000
+CHAPTER29NAME=Time in a Bottle - Jim Croce
+CHAPTER30=02:35:39.000
+CHAPTER30NAME=20. Numb - Linkin Park
+CHAPTER31=02:39:37.000
+CHAPTER31NAME=Stellar Stellar - Suisei (Acapella)
+CHAPTER32=02:41:59.000
+CHAPTER32NAME=21. Palette - Tokoyami Towa (Acapella)
+CHAPTER33=02:45:57.504
+CHAPTER33NAME=Asu no Yozora Shoukaihan - Afterglow (Acapella)
+CHAPTER34=02:46:57.000
+CHAPTER34NAME=Astrogirl - Tsukumo Sana (Acapella)
+CHAPTER35=02:48:42.000
+CHAPTER35NAME=The Forgotten Song (Accapella)
+CHAPTER36=02:49:36.000
+CHAPTER36NAME=Dilemma - DECO*27 (Accapella)
+
+```
+***
 
 ***
 [Back to TOC](https://rentry.org/Mumei-Karaoke)
@@ -3084,7 +3165,7 @@ The Rainbow Connection - Jim Henson     |  https://files.catbox.moe/x8tppn.mp4  
 A Home on the Range     |   https://files.catbox.moe/xtqvw4.mp4     |      https://cldup.com/Tapmje6xLq.mp4
 All I Want - A Day to Remember     |  https://files.catbox.moe/jwi1e7.mp4        |      https://cldup.com/WjeT8j2l5I.mp4 
 Numb - Linkin Park     |   https://files.catbox.moe/v5g4cr.mp4        |         https://cldup.com/QlIoBhGxpr.mp4
-On My Own (JP Ver.) - Les Miserables   |    https://files.catbox.moe/6k4rrs.mp4  |    https://cldup.com/Qw-eCbWe0g.mp4
+On My Own - Les Miserables (JP Ver.)   |    https://files.catbox.moe/6k4rrs.mp4  |    https://cldup.com/Qw-eCbWe0g.mp4
 3AM - Matchbox Twenty     |  https://files.catbox.moe/4lev6d.mp4         |       https://cldup.com/zzCC-N7ut6.mp4
 Set Fire To The Rain - Adele     |   https://files.catbox.moe/dpol62.mp4       |         https://cldup.com/xUevQsZCGB.mp4
 I'll Be - Edwin McCain     | https://files.catbox.moe/kkug8c.mp4          |       https://cldup.com/YiYRQBmHCj.mp4 
@@ -3576,10 +3657,39 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 08. [Idol - Yoasobi](https://youtu.be/RzgBF2XsT8k?t=3848)
 09. [A New Start - Nanashi Mumei (Acoustic)](https://youtu.be/RzgBF2XsT8k?t=4182)
 
+***
+
+
+######『2023-06-24』 - 【歌枠 KARAOKE】It's Been 3 Whole Months !!! [Rr_-RE2TV8M]
+[Go back to the TOC](https://rentry.org/Mumei-Karaoke)
+Song | Catbox | Cloudup
+------ | ------ | ------
+Move Along - The All-American Rejects  |  https://files.catbox.moe/1y62fh.mp4    |   https://cldup.com/L1npBT1MBl.mp4
+Check Yes, Juliet - We The Kings  |  https://files.catbox.moe/uht1c5.mp4    |   https://cldup.com/r11SV8CE_U.mp4
+Cupid (Twin Version) - FIFTY FIFTY  |  https://files.catbox.moe/38vkxa.mp4    |   https://cldup.com/LddfxhPyAE.mp4
+Total Eclipse of the Heart - Bonnie Tyler  |   https://files.catbox.moe/umvexb.mp4   |  https://cldup.com/v5lfhaPkIv.mp4 
+Airplanes - B.o.B  |    https://files.catbox.moe/u3yj4q.mp4  |   https://cldup.com/1Vuit1s_hi.mp4
+Sleepwalking - Bring Me the Horizon  |   https://files.catbox.moe/s5c92b.mp4   |   https://cldup.com/-uadVdaNO5.mp4
+The Best Day Ever - SpongeBob SquarePants  |   https://files.catbox.moe/zyna8k.mp4   |   https://cldup.com/ehyoJzORUP.mp4
+Popular - Wicked  |  https://files.catbox.moe/3m4i69.mp4    |   https://cldup.com/9TeP4XIEUo.mp4
+Sign - Flow  |    https://files.catbox.moe/zt4z56.mp4  |   https://cldup.com/XoNrlZku-O.mp4
+Karate - BABYMETAL  |  https://files.catbox.moe/hmqi6x.mp4    |   https://cldup.com/AtZXTdGcqI.mp4
+On My Own - Les Miserables (JP Ver.)  |   https://files.catbox.moe/7fb4p8.mp4   |   https://cldup.com/EEBHLRd9sY.mp4
+Uso - SID  |   https://files.catbox.moe/971s3q.mp4   |   https://cldup.com/dCEIEhjmV3.mp4
+Sugar, We're Goin Down - Fall Out Boy  |   https://files.catbox.moe/iqtm9u.mp4   |   https://cldup.com/ivI-d6WmMB.mp4
+Poker Face - Lady Gaga  |  https://files.catbox.moe/87nnd6.mp4    |   https://cldup.com/37gEEn8emA.mp4
+Yeah! - Usher  | https://files.catbox.moe/c8jh9h.mp4 |    https://cldup.com/dMYpiJJaYW.mp4 
+Daylily - Movements  |  https://files.catbox.moe/hxbpuq.mp4    |   https://cldup.com/vsvxrOJTU7.mp4
+The Star-Spangled Banner  | https://files.catbox.moe/h7nbjg.mp4 |     https://cldup.com/VwMq8HBdCA.mp4
+O Canada  |   https://files.catbox.moe/20cqv4.mp4   |   https://cldup.com/LQoptlbQoH.mp4
+America (My Country, 'Tis of Thee) & God Save the King  |   https://files.catbox.moe/p2lcw7.mp4   |   https://cldup.com/uycGIAAo6B.mp4
+Numb - Linkin Park  |    https://files.catbox.moe/el3p07.mp4  |   https://cldup.com/EA5uATzPTY.mp4
+Palette - Tokoyami Towa (Acapella)  |   https://files.catbox.moe/waamzw.mp4     |  https://cldup.com/UPtIoKvCey.mp4
+
 
 
 ***
-
+***
 !!! note
 	###->Mumei Radio<-
     ->https://rentry.org/Mumei-Radio<- 

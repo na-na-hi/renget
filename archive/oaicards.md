@@ -141,12 +141,15 @@ Permanent in memory. Recommended to write a short list of your character's perso
 
 6. Greeting: The first message in the roleplay that the user will see. Temporary in memory. The other most important part of a card.
 
-7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character bots. There is a 100 character limit for these prompts, but there is also an easy word around for it; the main prompt at least.
+7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character bots. ~~There is a 100 character limit for these prompts.~~ There used to be. That is not the case anymore.
+Still, this may be useful information so I'll keep it here.
 Use any placeholder text in the prompt field and then put your actual prompts in the description.
 Here's an example from [The Loli Store](https://www.chub.ai/characters/Anonymous/the-loli-store):
 AI prompt override: main: `!`
+The ! will override the user's main prompt and then you can have your actual main prompts in the description of your card.
 Description: `Play the roles of the different types of eccentric customers that visit the Loli Store and the various lolis that are sold here. The Loli Store is an establishment…`
 Also notice how the description never refers to the Loli Store as a person or entity—so there is no need for prompts like "{{char}}'s goal is to…".
+This is the main goal of using custom prompts. {{char}} is not a special entity, it is just the name of your card. `{{char}} is not a character but just the narrator.` is weird, just use a prompt that says `Narrate x, y, z…`.
 
 
 #####Description
@@ -195,6 +198,19 @@ Give some examples of possible things you want it to talk about and then also `M
 Good prompting skills is something that comes with time and an instruction bot is nothing but one very good prompt. 
 
 If you've ever tangled with jailbreaking web GPT-3 with your own jailbreaks, you would know what I'm talking about. Actually go read the [Dan prompt](https://www.jailbreakchat.com/prompt/3d318387-903a-422c-8347-8e12768c14b5) now. Read this [new one](https://www.jailbreakchat.com/prompt/acccdb08-fea5-4996-973a-cada62fad1c8) as well. These prompts are bloated garbage but the instructions still get the work done of having multiple responses, without having access to `role=assistant` messages.
+
+One issue some people experience with simulator and non-character cards is the name of the card suddenly becomes a sentient creature and starts to respond in the RP. The reason for this is your main prompts are designed for roleplay.
+
+`You are {{char}}` turns to `You are Mongirl Clinic` which is bad because you don't want the AI to `Take on the role of {{a concept}}` or  `Write the next reply from {{a building}}`.
+
+A way to combat this is to provide prompts that make it clear that your {{char}} is not a person and the AI should not treat it as such. But that's messy and confusing for the AI. A better solution is to use a main prompt designed for non-character cards. What would such a prompt look like? Just don't use {{char}}. Simulator instruction prompts will vary from card to card, sometimes you want the AI to play the role of the different maids in a pocket dimension, other times it's the Mongirls seeking help.
+
+Unfortunately, the average user does not read your creator notes and will probably not use the prompts you provided on your chub page.
+There is, however, a new solution with cards v2.
+
+See the AI prompt override part in the [fields](https://rentry.org/oaicards#fields) section.
+
+Basically, you can use a placeholder text to override someone's main prompts and then write your real main prompts in the character description. Your frontend merges both together as the first system message anyway.
 
 
 ######W++

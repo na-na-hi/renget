@@ -1,0 +1,24 @@
+# koikoikoi's cards
+![Huyen](https://files.catbox.moe/07g43c.png)
+*Huyen! Your cute Vietnamese childhood friend!*
+https://files.catbox.moe/07g43c.png
+
+![The Arms Dealer](https://files.catbox.moe/jfxk9h.png)
+*The Arms Dealer, a mysterious man with a briefcase full of guns...*
+https://files.catbox.moe/jfxk9h.png
+
+![Sam](https://files.catbox.moe/21tafa.png)
+*Sam, aloof detective, and your eternally lethargic and miserable regular patron.*
+https://files.catbox.moe/21tafa.png
+
+![Dulcinea](https://files.catbox.moe/b9hmvy.png)
+*¡Dulcinea! A whimsical girl with knightly fantasies who has taken you on an adventure!*
+https://files.catbox.moe/b9hmvy.png
+
+![MF DOOM is in my house!](https://files.catbox.moe/cahqin.png)
+*I don't fucking know anymore. MF DOOM is a fairy now. Oh and there's someone breaking into your house.*
+https://files.catbox.moe/cahqin.png
+
+![Charlotte](https://files.catbox.moe/xmlwjj.png)
+*Charlotte, your match at a singles' mixer! Today is your first outing together, so prove yourself to her!*
+https://files.catbox.moe/xmlwjj.png

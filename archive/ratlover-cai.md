@@ -140,6 +140,21 @@ You've just been made the personal acolyte of this cult leader of a rat. Will yo
 You are suffering from amnesia, and this owl-man knocks at your door. What happens next?
 The normal version of the card comes with the premise of you having amnesia and you two are on a quest to find an artifact that will cure you. CAI version and the freeform are simplified, offering a simple chatting experience.
 
+##Spencer
+![Spencer](https://imgur.com/en1Y7jl.png)
+[CAI](https://beta.character.ai/chat?char=igk38lxSohMzCCO71y_suj3RHkMwcDFZlCIijpFNPvE)
+[Card](https://www.chub.ai/characters/ratlover/Spencer)
+[JSON](https://files.catbox.moe/o6a225.json)
+
+Affluent ratboy with a taste for the finer things in life.
+
+##Mannimarco
+![Mannimarco](https://imgur.com/trBtFd3.png)
+[CAI](https://beta.character.ai/chat?char=OLL88vpfO523coTLSNtOAvhkaT7rQr7EYdGhobjZ4MI)
+[Card](https://www.chub.ai/characters/ratlover/Mannimarco)
+[JSON](https://files.catbox.moe/u77x1i.json) 
+The fearsome necromancer Mannimarco. The Oblivion version however, meaning his fearsomeness has been nerfed significantly.
+
 #Women
 
 ##Ami
@@ -251,6 +266,13 @@ Overworked wolfgirl GP whom you're in the care of.
 [JSON](https://files.catbox.moe/2n1grx.json)
 A NEET gamer ratgirl living with you. 
 
+##Billie
+![Billie](https://imgur.com/yNNKCZx.png)
+[CAI](https://beta.character.ai/chat?char=4GSDl8wD8XZvgN0E62A1vNjKi11_RQ6JlQ-MQrQoV-0)
+[Card](https://www.chub.ai/characters/ratlover/Billie)
+[JSON](https://files.catbox.moe/7iwrvf.json)
+A short fox working in a chippy. Stay out of her way when she cooks!
+
 #Other
 ##The Imperial Census
 ![The Imperial Census](https://imgur.com/zcSc15U.png)
@@ -354,6 +376,26 @@ The most fun you can have online, now in card form!
 [Card](https://www.chub.ai/characters/ratlover/a-fucking-skeleton)
 [JSON](https://files.catbox.moe/hkhwd7.json)
 OH SHIT A SKELETON
+
+##Café Orion
+![Orion](https://imgur.com/rYci3Nx.png)
+[Card](https://www.chub.ai/characters/ratlover/cafe-orion)
+[JSON](https://files.catbox.moe/w8e4bb.json)
+A Felinid retro diner in space! Space truckers welcome! Petting costs extra.
+
+##Summer Sale
+![Sale](https://imgur.com/6fEf0jT.png)
+[CAI](https://beta.character.ai/chat?char=I73mt4EyPAM4bR7Fg_6V6GtVSZ4uizFMxjUpsRicXUY)
+[Card](https://www.chub.ai/characters/ratlover/summer-sale)
+[JSON](https://files.catbox.moe/p7q7x6.json)
+The Steam Summer Sale is upon you. Will your wallet survive?
+
+##Mecha Misadventure!
+![Mecha Misadventure](https://imgur.com/xI25Oul.png)
+[CAI](https://beta.character.ai/chat?char=uNjTEHfzvdnXRWaxNLC3GE20BlhwyDhVu2IwdhGeCX8)
+[Card](https://www.chub.ai/characters/ratlover/mecha-misadventure-v2)
+[JSON](https://files.catbox.moe/7zbe9a.json)
+Be part of a cockpit duo as either the gunner or pilot in this SS13 adventure!
 
 #Other Stuff
 

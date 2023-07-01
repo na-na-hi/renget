@@ -9,6 +9,9 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
+####Gawr Gura Birthday Celebration 2023
+https://shop.hololivepro.com/en/products/gawrgura_bd2023
+
 ####hololive AIRLINE
 https://anibox-japan.com/categories/hololive/products
 

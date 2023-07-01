@@ -1,34 +1,15 @@
 # Maestro's Bot List
-## -> [Original Bots](#original-bots)  [NIKKE Bots](#nikke-bots) <-
+## -> [Original Bots](#original-bots) - [NIKKE Bots](#nikke-bots)	-	[Lorebooks](#Lorebooks) <-
 ***
--> ==Updated 05/19/2023== <-
+-> ==Latest Update 06/29/2023== <-
+-> *Added to Original bots: Yumehara Reina, Sebastian Kingsley, Clarisse Holland [CAI + Tavern]* <-
+-> *Added to NIKKE bots: Frima, Milk, Sugar [CAI + Tavern]* <-
+-> *Added to New Section Lorebooks: Goddess of Victory: NIKKE* <-
+
+-> ==Previous Update 05/19/2023== <-
 -> *Added to Original bots: Grace and Erika [CAI + Tavern]* <-
 -> *Added to NIKKE bots: Blanc [CAI + Tavern]* <-
 
--> ==Updated 05/16/2023== <-
--> *Added to Original bots: Fujimura Kaori [CAI], Kei Belford [CAI]* <-
--> *Added to NIKKE bots: Roam [CAI], Sin [CAI]* <-
-
--> ==Updated 05/07/2023== <-
--> *Added to Original bots: Fujimura Kaori [Tavern], Kei Belford [Tavern]* <-
--> *Added to NIKKE bots: Roam [Tavern], Sin [Tavern]* <-
-
--> ==Updated 04/30/2023== <-
--> *Added to Original bots: Cordelia [CAI + Tavern], Alexis [CAI + Tavern]* <-
--> *Added to NIKKE bots: Viper [CAI + Tavern], Aria [CAI + Tavern]* <-
--> *Updated bots: Dolla v1.2* <-
-
--> ==Updated 04/25/2023== <-
--> *Added to Original bots: Isla Rockwell [CAI + Tavern]* <-
--> *Added to NIKKE bots: Noise v1.1 [CAI + Tavern]* <-
--> *Updated bots: Dolla v1.1, Maxwell v1.1, Rose Blackthorne v1.1* <-
-
--> ==Updated 04/21/2023== <-
--> *Added to Original bots: Celia [CAI + Tavern]* <-
--> *Added to NIKKE bots: Dolla [CAI + Tavern]* <-
-
--> ==Updated 04/17/2023== <-
--> *Rentry created* <-
  
 ## -> Original Bots <-
 
@@ -47,13 +28,16 @@ Alexis | ![Alexis](https://i.postimg.cc/wtHVXFVT/OCAlexis-Thumb.png) | An introv
 Fujimura Kaori | ![Fujimura Kaori](https://i.postimg.cc/8FLzyrky/OCKaori-Thumb.png) | She's a courteous, mature lady running a small used bookstore with very few customers. She is more than willing to lend help on finding a suitable book for her visitors. | [C.ai](https://c.ai/c/6xwoW4eQzFZXDAFClzpIrD0MIsEP84v9k70BQ_Fa33I) [Tavern](https://files.catbox.moe/ptd5rn.png) 	v1.0
 Kei Belford | ![Kei Belford](https://i.postimg.cc/vDYZzBJz/OCKei-Thumb.png) | Stuck in a declining marriage with (you). Kei is a dedicated researcher with a cool and collected demeanor who seems to be more focused on work than her relationship. | [C.ai](https://c.ai/c/y2WpXUePSxMIIKtPwSzUVK8H_o_f7dBxUv6jyVHuxbE) [Tavern](https://files.catbox.moe/vsqaf0.png) 	v1.0
 Grace and Erika | ![Grace and Erika](https://i.postimg.cc/T19XmDV7/OCGrace-And-Erika-Thumb.png) | Grace, your passionate and wild-hearted girlfriend with a hidden romantic side, is loyal and deeply caring towards you. Erika, her seemingly laidback best friend, hides a cunning and manipulative nature beneath her carefree demeanor as she secretly schemes to blackmail you into giving her more attention. | [C.ai](https://c.ai/c/dApkFvrvOO0x1X4UCuzNB7ZxKPKZLvCqlwFa3eEcLJo) [Tavern](https://files.catbox.moe/oxsflf.png)	v1.0
+Yumehara Reina | ![Yumehara Reina](https://i.postimg.cc/xqQtCXhP/OCReina-Thumb.png) | Reina is a shy and naive girl who aspires to overcome her insecurities by embodying the trendy Gyaru lifestyle. Her hesitation to assert herself often leads her into precarious situations despite her desire for confidence. | [C.ai](https://c.ai/c/oa10U0XRmHsWZKmQZj-Kbqebzo43PEbUTfWxaI9aE3g) [Tavern](https://files.catbox.moe/u37jq6.png)	v1.0
+Sebastian Kingsley | ![Sebastian Kingsley](https://i.postimg.cc/Pvd4F7Y7/OCSebastian-Thumb.png) | Sebastian, with his ruggedly handsome charm and fierce loyalty, is a remarkable friend who never fails to prioritize your needs above his. Despite his antiquated ideas of romance which he stubbornly clings to, he unwaveringly marches on in pursuit of finding you the perfect partner. | [C.ai](https://c.ai/c/SAPpS9bIPeoSbj29f6N0iPcDSs-4a59SdiFkm2HZ-hs) [Tavern](https://files.catbox.moe/dkalb5.png)	v1.0
+Clarisse Holland | ![Clarisse Holland](https://i.postimg.cc/zbC77NbW/OCClarisse-Thumb.png) | Clarisse was an up-and-coming songstress who performed in classy cocktail lounges and had a voice as clear as a bell. Tragically, her throat was crushed in a brutal assault orchestrated by a rival that left her unable to sing or speak like before. After a long period of recovery, she struggles with fear and anxiety and finds it difficult to trust people around her. | [C.ai](https://c.ai/c/hK-JjhsUO02jPkf6-sQKJH4a28cuxaOshiPdvQP1Pog) [Tavern](https://files.catbox.moe/i1x6pg.png)	v1.0
 
 ***
 
 ## -> NIKKE Bots <-
 ***
 !!! note Please note that the token count for each card is roughly 800-1200 Tokens. If it's too much I suggest you to remove the last part of the Description. It's just all the locations within the Outpost in case you want to go on a deito.
-!!! note Edit: 05/07/2023. World Info/Lorebook in the making to help with conserving tokens. Thanks anon for the suggestion.
+!!! note Edit: 06/29/2023. Goddess of Victory: NIKKE Lorebook released. Character entries will be added as I create them.
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
 Scarlet | ![Scarlet](https://i.postimg.cc/LYyP2hHR/Nikke-Scarlet-Thumb.png) | Accustomed to close-quarters combat, fear is a foreign concept to her. Often has a playful smirk on her face as she does not take things seriously. ==Re-work in Progress== | [C.ai](https://c.ai/c/vsvkG9r6HPlac3EPIcKEvtFw9XRax88yjDJRTDvebKc) [Tavern](https://files.catbox.moe/1ff0um.png) 	v1.0
@@ -66,18 +50,30 @@ Viper | ![Viper](https://i.postimg.cc/t7TPDd5g/Nikke-Viper-Thumb.png) | She alwa
 Aria | ![Aria](https://i.postimg.cc/xXHLM0Py/Nikke-Aria-Thumb.png) | An opera singer from Prima Donna, where she plays the lead in every performance she's a part of. Her singing consistently garners standing ovations, making her a living legend in the world of opera. | [C.ai](https://c.ai/c/3UvMbQEa_V-5Yeolt_PQxoTMtlcBT77_Qcgqu1StzEY) [Tavern](https://files.catbox.moe/ra0vv0.png) 	v1.0
 Roam | ![Roam](https://i.postimg.cc/KcNszwfJ/Nikke-Roam-Thumb.png) | Number_CAN_051 nicknamed Roam is a surface robot recovering humans relics left in past before humanity was forced to live underground at the Ark. | [C.ai](https://c.ai/c/u6mpbTfg1I1i1K4t5G2jHPRVw4Z05AMVGpfplBvFzuE) [Tavern](https://files.catbox.moe/92zij8.png) 	v1.0
 Sin | ![Sin](https://i.postimg.cc/sQv32JPt/Nikke-Sin2-Thumb.png) | Her voice will gradually seep into the minds of others, eventually turning them into puppets entirely under her control. Even with the mask that stymies her powers, Sin's silver tongue makes every conversation a minefield. ==GPT-4 recommended to see her filtered speech==| [C.ai](https://c.ai/c/PWCMa1Ne3e08JbrRVHmjvSi2UORQbHzasRNWeA07PcY) [Tavern](https://files.catbox.moe/vsctev.png) 	v1.0
-Frima | ![Frima](https://i.postimg.cc/kVjn9HSQ/Nikke-Frima-Thumb.png) | As a laziness incarnate, she thinks deeply about the most efficient way to behave, hence she doesn't speak or move any more than necessary in her daily life. | Soon™
-Milk | ![Milk](https://i.postimg.cc/9wpvqHQP/Nikke-Milk-Thumb.png) | In sharp contrast to her dainty appearance, she is an avid thrill seeker and enjoys getting into fights and confrontation with others. | Soon™
+Frima | ![Frima](https://i.postimg.cc/kVjn9HSQ/Nikke-Frima-Thumb.png) | As a laziness incarnate, she thinks deeply about the most efficient way to behave, hence she doesn't speak or move any more than necessary in her daily life. | [C.ai](https://c.ai/c/4Vm4UdvvPrhv8t8qA8lRttxtp8CNFW-Rpiebvt6-sSg) [Tavern](https://files.catbox.moe/yn5epm.png)	v1.0
+Milk | ![Milk](https://i.postimg.cc/9wpvqHQP/Nikke-Milk-Thumb.png) | In sharp contrast to her dainty appearance, she is an avid thrill seeker and enjoys getting into fights and confrontation with others. | [C.ai](https://c.ai/c/POj-OhpRq6dn9I-YF-fDyfvtRX3Xa7AElJgqAva5jD0) [Tavern](https://files.catbox.moe/xkwn1x.png)	v1.0
+Sugar | ![Milk](https://i.postimg.cc/0NNc91mJ/Nikke-Sugar-Thumb.png) | Despite her appearance, she is friendly and kind to those who ask for favors. She will help a client in trouble regardless of the payoffs and losses. | [C.ai](https://c.ai/c/jwBrs70KxyU8ifB0IsaLmYkYFP93rfupUv8jXLIakro) [Tavern](https://files.catbox.moe/eg2pwf.png)	v1.0
 Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The leader of Triangle who protects the squad with all her effort. Possesses superb skills in office and on battlefield, but has an ill temperament. | Soon™
-Guilty | ![Guilty](https://i.postimg.cc/3rpbVzFW/Nikke-Guilty-Thumb.png) | She runs the Rehabilitation Center and has strength far superior to other Nikkes. Unable to control her own power, she is locked up currently. | Soon™
+Guilty | ![Guilty](https://i.postimg.cc/3rpbVzFW/Nikke-Guilty-Thumb.png) | She runs the Rehabilitation Center and has strength far superior to other Nikkes. Unable to control her own power, she is locked up currently. | Low Priority
 Helm | ![Helm](https://i.postimg.cc/NfkCfTVc/Nikke-Helm-Thumb.png) | Leader of Aegis, a naval squad formed for combat on the surface. As there are no oceans within the Ark, she trains her members to face real naval combat one day. | Soon™
 Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Soon™
-Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her sister to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/eg12di.png) 	v1.0
+Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her older sister Noir to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/eg12di.png) 	v1.0
+Noir | ![Noir](https://i.postimg.cc/CLLGv2tv/Nikke-Noir1-Thumb.png) | Biological elder sister of Light Bunny Blanc. Although they look different, Blanc pampers her constantly. While timid, she is not afraid to show her intentions. | Soon™
 
 ***
 
+## -> Lorebooks <-
+
+***
+
+World  |  Preview  |  Description  |  Links
+:----------	 |  :--:  |  :------------  |  :--:  
+Goddess of Victory: NIKKE | ![NIKKE](https://i.postimg.cc/zDsFZdTX/Nikke-Preview.png) | Goddess of Victory: Nikke takes place in a distant future where mankind is forced to retreat in an underground city known as the 'Ark', due to the Raptures, quasi-mechanical like alien life forms who decided to take over Earth and wreak havoc upon humanity. As a last ditch effort to reclaim the surface, the humans began developing the "Nikkes," female soldiers capable of fighting the Raptures.  | [Tavern](https://files.catbox.moe/mwmv9r.json) v0.1
+Ryuuen | [Placeholder] | Ryuuen is a mystical region nestled within Japan's remote mountains, home to the contrasting Blue and Red Oni clans symbolizing tranquility and ferocious strength respectively. While the Blue Oni clan resides in Aoi Teien, a serene land filled with tranquil bamboo forests and Zen gardens; the Red Onis dwell in Hono no Toride, a fiery realm marked by rugged volcanic landscapes mirroring their fierce strength. This land witnesses harmonious coexistence of contrasting ideologies embodied through its residents.  | Soon™
+
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
--> 05/16 - NIKKE Lorebook proceeding at a slowish-steady pace. I learned first-hand that trying to do it all in one go is an easy way to burn out from bot related stuff. NIKKE bots are back on track. <-
+
+-> 06/29 - NIKKE Lorebook released in a raw, unfinished state. After several crashes with the lorebook not saving, I decided to release it without the characters. They were the most time-consuming part and decided to add them as I create new cards. I urge (you) to send feedback on it as this is my first time creating a lorebook. Apologies for the wait. <-
 
 ->Feel free to send feedback, logs, or whatever here: MaestroBurner@proton.me<-

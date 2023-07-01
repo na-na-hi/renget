@@ -8,7 +8,7 @@ Scroll to the bottom for my last edit date.
 - Match colours (e.g. red enemy = use red units) 
 - Read the story (it's fun) 
 - Rush through normal missions to unlock cafe upgrades and game modes 
-- Splurge ur AP. 1 AP = 1 XP, so get rid of it as fast as you can. 
+- Splurge ur AP. 1 AP = 1 account XP, so get rid of it as fast as you can. 
 - Take advantage of the school bonuses and use CC in Bounty 
 - Join a club. There's no clan tryharding or an obligation to talk.
 
@@ -30,6 +30,11 @@ For comparison:
 
 As an aside, payment options can be dodgy on JP if you want to be a whale depending on your region/your payment account's region. These situations are more complicated. Ask about them in the thread.
 
+>I saw that the game has a 'censored' version. Am I using it?
+The censored version is exclusive to Korea. 
+There is also a tell on the app icon which one is the censored one.
+![Look for the T](https://i.imgur.com/h3Mqh2Z.png)
+
 ### Game crashes and fixes 
 This will mostly cover emulator only problems. 
 
@@ -41,9 +46,17 @@ If you experience crashes while playing the game, you should fiddle around in th
 Disclaimer: I use Bluestacks 5. See [this for common fixes for Bluestacks](https://support.bluestacks.com/hc/en-us/articles/4413392952461-Recommended-settings-for-Blue-Archive-on-BlueStacks-5).
 You can always switch emulators if nothing works.
 
+>I'm getting "Server failed to process request. Returning to title screen.", what do I do?
+Certain countries are blocked from playing Blue Archive, hop on a VPN if you are in one.
+Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
+
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
 I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
+
+**BA has sparks, not pity.** 
+**Sparks do not carry over between banners.**
+See 'Is there pity? What's a spark' for more 
 
 Your very first roll guarantees a single (3\*) student from a pool of *only* [the release roster](https://bluearchive.wiki/wiki/Characters) (students released on 2021/02/04).
 Rolling in 10s guarantees at least one (2\*) student, unlike with singles, so it's better to roll in multis.
@@ -383,10 +396,14 @@ There has never been a 2x event on the crafting chamber, so there's no point in 
 
 >Material Synthesis (the normal one)
 Radiant (highest tier mats) >= BDs > Weapon Parts > Furniture (if not capped yet in cafe) > Gifts >= Shiny (high tier mats) > Rest
-If you want to go to node 2: use t1-2 mats you don't care about.
 
-You can trade T3+ mats for a 3rd node, which also has a chance to give you character elephs, t4 gifts, secret tech note fragments, and MONEY (!). 
-The rewards are p good, but only use them if you have an abundance in useless mats. 
+**Do not go past the first node if you don't have mats in abundance. If you need to ask if you have enough, you don't.**
+
+If you want to go to node 2: use t1-2 mats you don't care about. Not crafting mats.
+If you go to node 2 you always go to node 3, as they have a chance to give you character elephs, t4 gifts, secret tech note fragments, and MONEY (!). It's too good to pass on. 
+
+For the T3 node: Elephs > Credits > Gifts > Radiant > tech notes > rest
+Radiant is slightly worse here because you get a lot of t3 furniture, which kind of suck. 
 
 >Material Fusion (the new one)
 Trading your garbage away for the freshest sneaks
@@ -547,9 +564,10 @@ It's the 4th equipment.
 See [this link](https://docs.google.com/document/d/1Ui0FRgG8h8RB1-cA639F3ETDrVM7q9FKftg4vBKBAAQ). 
 
 >How do servers work? What server am I in.
-There are 2 game versions right now: JP and Global. 
+There are 3 game versions right now: JP, Global, and CN. 
 JP is Japan, which is ~5 month ahead of Global. 
 Global is divided in 5 different regions: Global (= EU), NA, Asia, Taiwan, and Korea.
+CN is the Chinese server, which is behind JP and Global by 2 years.
 You can only join clubs or add friends from the same region. 
 
 ![how to find out your server](https://i.imgur.com/J0Mt5pr.png)

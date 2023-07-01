@@ -3,7 +3,7 @@
  
 Friday and Saturday  2200 Berlin Time
  
-Mission Modlist					: www.emeraldclover.net/preset/Modlist0306.rar
+Mission Modlist					: www.emeraldclover.net/preset/Modlist3006.rar
 Game Server IP				: emeraldclover.net:2302
 Game Password				: gamermania
 Teamspeak server IP			: emeraldclover.net

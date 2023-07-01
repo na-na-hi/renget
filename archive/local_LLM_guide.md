@@ -4,7 +4,7 @@
 
 **Note:** There are only 3 'steps': 1. Download a model in GGML format, 2. download KoboldCPP.exe, 3. run KoboldCPP.exe with the model then go to its URL in your browser.
 
-**1. DL at least one of these GGML model .bin files.  If multiple models are present, downloading those labelled with 'Q5_1' or at least 'Q5_0' is preferable:**
+**1. DL at least one of these GGML model .bin files.  If multiple versions are present, best to fastest are labeled as 'Q5_K_M','Q5_K_S','Q4_K_M':**
 
 Relative proficiency at (**S/s**)tory or (**I/i**)nstruct modes:
 (**SI**) 13B (12GB RAM) [Wizard-Vicuna-13B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML/tree/main)
@@ -15,8 +15,6 @@ Relative proficiency at (**S/s**)tory or (**I/i**)nstruct modes:
 
 Older but still works- cannot use --gpulayers with:
 (**SI**) 13B (10GB RAM) [oasst-llama13b](https://huggingface.co/Black-Engineer/oasst-llama13b-ggml-q4/resolve/main/qunt4_0.bin) 
-
-More recommended GGML models [HERE](https://github.com/LostRuins/koboldcpp/discussions/87)
 
 Search Huggingface for new GGML models [HERE](https://huggingface.co/models?sort=modified&search=ggml)
 

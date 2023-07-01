@@ -2,8 +2,7 @@
 -> ![diebox](https://imgur.com/4y8aMHq.gif) <-
 
 !!! info
-    -> SR soon<-
-    -> Mods tongue my ANIS <-
+    -> I will never be the divegrass manager you should ask THAT person instead <-
     -> stickers and drawfriend art can be found here https://rentry.co/GoddessofVictoryNikke/  <-
     -> old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
     
@@ -38,7 +37,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **5** | PREFECT | ==**6554**== |PERMISSION | THIL | 32/32 | N 
 **5** | NOPAN | ==**6698**== |PERMISSION | ACE |32/32 | Y 
 **5** | VGNIKKE3 | ==**9547**== |PERMISSION | ANON | 32/32 | N
-**5** | NIKKUNNY | ==**13395**== |PERMISSION | YOON|32/32 | Y
+**5** | NIKKUNNY | ==**13395**== |PERMISSION | YOON|31/32 | Y
 **5** |PANTSUUU| ==**21859**== |PERMISSION | NOVA |32/32 | N
 **5** |LUSITANO| ==**10302**== |PERMISSION | ANGUSPT |32/32 | N
 **3** |CUNNYSSI | ==**25331 **== |PERMISSION | NEPBOI |29/32 | Y
@@ -69,6 +68,3 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 Union name / Anon Name | Crime | Used to be called | ID | Region
 :----: | ------ | ------ | ------ | ------ 
 MELLOW | Leader sold the union to the Chinese | IRONTITS | 2921 | NA
-
--> ![soon](https://imgur.com/jw45Mzy.png) <-
-!!! info -> In case I missed you on the thread cause the /vg/ mod is a faggot and you want to UPDATE your union info. You can drop by here https://discord.gg/Bv6n5s4Z <-

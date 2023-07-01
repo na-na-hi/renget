@@ -20,7 +20,6 @@ And you have your first image.
 
 ## Linux + AMD
 
-Make sure your python is version 3.10
 
 ```
 git clone https://github.com/comfyanonymous/ComfyUI

@@ -41,6 +41,7 @@ HFS | HoF† or FK | Herrscher of Flamescion | | PSY | S
 HH | HoHE | Herrscher of Human: Ego | | PSY | S
 HO | HoO | Herrscher of Origin || IMG | S
 HR | HoR | Herrscher of Reason | Tronya | MECH | S
+HRB | HoRB or TLM | Herrscher of Rebirth | Deer | PSY | S
 HS | HoS | Herrscher of Sentiance | | BIO | S
 HT | HoT | Herrscher of Thunder | | PSY | S
 HTr | HoTr | Herrscher of Truth | Gundam | IMG | S
@@ -67,14 +68,14 @@ SD | | Shadow Dash | | MECH | A
 SK | | Shadow Knight | | MECH | S
 SW | | Silver Wing: N-EX  | Boingnya | BIO | S
 6S | | Sixth Serenade | | PSY | S
-SS | | Snowy Sniper | SSnowy(SS+ Rank) | BIO | A
-SX | SCN or SN2† | Starchasm Nyx | Nyx | QUA | S
+SPA | | Spina Astera | | MECH | S
+SX | SCN | Starchasm Nyx | Nyx | QUA | S
 SA | | Starlit Astrologos | Zhuge Kongming | BIO | A | **SP** Valkyrie
 SI | | Starry Impression | Griseo | PSY | A | **SP** Valkyrie
 SN | | Stygian Nymph | | QUA | S
-SJ | | Sündenjäger | Sin Hunter | MECH | A
+SJ | | Sündenjäger | Sin Hunter | MECH | 
+SSB | SuSt | Sugery Starburst | Kira | MECH | **SP** Valkyrie 
 SP | | Swallowtail Phantasm | | QUA | A
-SPA | | Spina Astera | | MECH | S
 SNS | SG | Sweet 'n' Spicy | Carole | MECH | A | **SP** Valkyrie
 TA | | Terminal Aide | Prometheus | IMG | A | **SP** Valkyrie
 TP | | Twilight Paladin | | MECH | S | Augment of **VE**

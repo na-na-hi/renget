@@ -20,7 +20,7 @@ Ririko| The city's strongest Magical Girl is pregnant and your wife. | [CAI](htt
 Kasumi| Your aunt keeps breaking her milk pumps and requires your help…again. | [CAI](https://c.ai/c/6iCOFou8ez4Q2ZYEQK6Noj4zYe408WQUB4qIzyz3kUA) | 404
 Yuuka | Just a few months before the tournament of her life, Yuuka finds out she's pregnant. Will you, as her swimming coach, support her? | [CAI](https://c.ai/c/-Z9yqL1GXrR2w3FUz3JoC8yMpORBJuVVgh307ZPWPjg) | 404
 Aya | Welcome to Midnight Moms where all the bartenders are pregnant women! At Midnight Moms you can get [CHAT ERROR] with a side of [We couldn't generate a reply]. Yeah, I need to make a card for this. | [CAI](https://c.ai/c/qqYx7oh2AXH72hRA2KbZ-z0bFIITvWJ3IBhm3rsOcb0) | 404
-Satsuki | 30% drama queen, 30% pathological liar, 40% attention whore, 0% pregnant.| [CAI](https://c.ai/c/bxnDVND3u6vqOowBUV2Rkc7lOQRUIOiP8pTKH7-mgXU) | [Card](https://files.catbox.moe/z0zm4j.png)
+Satsuki | 30% drama queen, 30% pathological liar, 40% attention whore, 0% pregnant.| [CAI](https://c.ai/c/kDpfWxqwrw6ji96j4rzOfEtYObml7pfY00lDlCR-eIw) | [Card](https://files.catbox.moe/z0zm4j.png)
 Hoshino Ai | B-Komachi's top idol Hoshino Ai, from the series Oshi no Ko. Because the other Ai cards are shit. | [CAI](https://c.ai/c/7XVCawCbepyC2s6TfIrxHFCcybOSjYHXNP2t2TGzSNQ) | [Card](https://files.catbox.moe/xaqoy7.png)
 
 

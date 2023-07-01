@@ -667,5 +667,10 @@ His teammates nodded, then watched Team Buckler’s reaction. The foreigners sai
 
 Finally, Booker the Torchic stood up. His face was stern and stoic. Casting his gaze over each member of Team Misfits, he told them, “I’ll give it a chance. Take us to the Clover Guild. I want to know if your guildmates really can be trusted.”
 
+---
 
--> *To be continued...* <-
+
+-> *Next part: https://rentry.org/RibombeeBuckler2* <-
+
+
+---

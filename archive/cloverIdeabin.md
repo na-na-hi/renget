@@ -8,7 +8,10 @@
 	2. Add your idea to the top of the list so it's seen before older ideas
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
-
+***
+Smeargle outlaw uses it's body swap sketch to try to pass as Ross & get back at the guild
+***
+Native mon taking humon(s) stargazing & explaining foreign constellations.
 ***
 https://youtu.be/e4_VOZwzSvU
 They say, that somewhere in the mountains to the east, there are two Mystery Dungeons that overlap. It is in this place, the chaotic land where they meet in the middle, where you'll find treasure beyond your wildest dreams, and dangers greater than you'll ever face in any normal dungeon.

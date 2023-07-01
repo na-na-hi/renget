@@ -1,0 +1,59 @@
+# Scrmgn's Bots
+Welcome to my chatbot rentry.  I focus on recreating established characters from some franchises that I like and think have some potential for a fun chat.  Most are SFW by default, but might include some gentle pushes towards NSFW.  I've included a couple Character AI links for my oldest bots for novelty, I won't be creating any new bots for their service.  Tavern cards are just much more flexible and compatible with other (better) chat engines. 
+!!! info GPT-3.5, GPT-4 or equivalent are recommended for the best results.
+##Changelog
+- 6/22/23 Update:  Added Callie Briggs
+- 6/1/23 Update:  Added Vanilla the Rabbit
+- 5/27/23 Update:  Added Imaginary Frankie
+
+##Vanilla Bots
+!!! info These bots are mostly for vanilla tastes and casual chats.  I've separated out more extreme content in the section at the page bottom.
+Image  |  Name |  Series From | Description | Links
+------ | :----: | :----: | ------ | ------
+![Callie Briggs](https://files.catbox.moe/ok80et.jpg) | Callie Briggs | SWAT Kats | Callie is an overworked Deputy Mayor, holding up the incompetent Mayor from behind the scenes in a city constantly under siege.  So who are you?  Another villain maybe?   | [Tavern Card](https://files.catbox.moe/o8jsqy.png)
+![Vanilla the Rabbit](https://files.catbox.moe/4z330p.jpg) | Vanilla the Rabbit | Sonic Series | The calm, understanding mother of Cream.  A busybody homemaker living in a gorgeous, remote location.   | [Tavern Card](https://files.catbox.moe/uqclpg.png)
+![Imaginary Frankie](https://files.catbox.moe/1ew0fc.jpg) | Imaginary Frankie | Fosters Home for Imaginary Friends | Frankie's polar opposite.  A naïve airhead dreamt up by a lovesick boy.  A living nightmare for the real Frankie.   | [Tavern Card](https://files.catbox.moe/zmw9m2.png)
+![Zeena](https://files.catbox.moe/73tsmn.jpg) | Zeena | Sonic Series | Zeena is completely full of herself, and thinks very little of you.  But she might have a few weaknesses despite that. | [Tavern Card](https://files.catbox.moe/rtp5x4.png)
+![Rottytops](https://files.catbox.moe/dq66bl.jpg) | Rottytops | Shantae | Energetic and always getting into trouble, Rotty is a zombiegirl who considers Shantae her best friend. | [Tavern Card](https://files.catbox.moe/i25i7v.png)
+![Martian Queen](https://files.catbox.moe/kw0r7k.jpg) | Martian Queen | Duck Dodgers | Queen Tyr'ahnee, ruler of the Martian Empire.  You are a captain from Earth standing before her throne.  Salvage the situation if you can. | [Tavern Card](https://files.catbox.moe/7wt9tr.png)
+![Minerva](https://files.catbox.moe/dsj1se.jpg) | Minerva Mink | Animaniacs | A vain, arrogant mink.  She's used to getting what she wants. | [Tavern Card](https://files.catbox.moe/nn2jha.png)
+![Sally](https://files.catbox.moe/awi0g9.jpg) | Sally Acorn | Sonic (SatAM) | Deposed princess of her Kingdom, Sally leads a rag-tag team of resistance fighters against the evil Doctor who turned her people into robots.  | [Tavern Card](https://files.catbox.moe/wqfoge.png)
+![Konoko](https://files.catbox.moe/ll4xzh.jpg) | Konoko | Oni | An eager, relentless officer of the "TCTF."  Pouting after being taken off a case, she meets you.  | [Tavern Card](https://files.catbox.moe/fw17ak.png)
+![Shantae](https://files.catbox.moe/bk62bo.jpg) | Shantae | Shantae | Shantae is a half-genie, and the guardian of Scuttle Town.  Her world is full of pirates, monsters, and other jerks who won't leave her town alone.  | [Tavern Card](https://files.catbox.moe/kwdjwd.png)
+![Layer](https://files.catbox.moe/rkf858.jpg) | Layer | MegaMan X | Layer works alongside other navigators like Alia to help the Maverick Hunters track down and stop dangerous reploids.  She's a romantic at heart, and gains crushes easily.  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/plp1ho.png)
+![Alia](https://files.catbox.moe/2dbd9d.jpg) | Alia | MegaMan X | Alia is a reploid navigator who can guide you in your mission to defeat mavericks.  Or maybe you'd rather head back to HQ and flirt?  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/36cvet.png)
+![Jessica Rabbit](https://files.catbox.moe/i2as55.jpg) | Jessica Rabbit | Who Framed Roger Rabbit? | The gorgeous redhead lounge singer toon, performer at The Ink and Paint Club.  Play some pattycake?  | [Tavern Card](https://files.catbox.moe/j2lv3m.png)
+![Makoto Nanaya](https://files.catbox.moe/pa9499.png) | Makoto Nanaya | BlazBlue | A squirrel girl who is incredibly outgoing, and protective of her loved ones.  She wants to start a big family, with a lot of kids.  A LOT of kids.  | [Tavern Card](https://files.catbox.moe/nyzsvc.png)
+![Ryuko Matoi](https://files.catbox.moe/4k902u.jpg) | Ryuko Matoi | Kill la Kill | Brutish tomboy delinquent who picks fights like it's nothing.  But she's a bit shy about the clothes she has to fight in.  | [Tavern Card](https://files.catbox.moe/tsanl5.png)
+![Sucy](https://files.catbox.moe/52nar3.jpg) | Sucy Manbavaran | Little Witch Academia | Creepy, lethargic, and a bit sadistic.  A witch who really likes mushrooms.  | [Tavern Card](https://files.catbox.moe/2jbkjn.png)
+![Filia & Samson](https://files.catbox.moe/d0qnmq.jpg) | Filia & Samson | Skullgirls | Amnesiac schoolgirl whose hair is alive.  Filia is fond of you, but Samson, the parasite attached to her, is not so easily won over.  | [Tavern Card](https://files.catbox.moe/za4bsf.png)
+![Frankie Foster](https://files.catbox.moe/pojm52.jpg) | Frankie Foster | Fosters Home for Imaginary Friends | Perky, but overworked redhead in charge of doing chores and taking care of imaginary friends.   | [Tavern Card](https://files.catbox.moe/r63nbu.png)
+![Lammy Lamb](https://files.catbox.moe/zo5wfp.jpg) | Lammy Lamb | Um Jammer Lammy | Guitar playing rocker-chick who lacks confidence.  Meet her backstage before a performance. | [Tavern Card](https://files.catbox.moe/223ckb.png)
+![Mirko](https://files.catbox.moe/jp2vgv.jpg) | Mirko | My Hero Academia | Also known as Rumi Usagiyama.  The famous, professional rabbit hero who is a complete berserker in combat, and you just won a chance to meet her in person.   | [Tavern Card](https://files.catbox.moe/1kz9td.png)
+![Scanty & Kneesocks](https://files.catbox.moe/27lmxl.png) | Scanty & Kneesocks | Panty & Stocking with Garterbelt | Queen bees who rule over your school, and are sticklers for the RURUS.  They also happen to be demons from hell. | [Tavern Card](https://files.catbox.moe/s8rjog.png)
+![Rouge the Bat](https://files.catbox.moe/3cnmii.jpg) | Rouge the Bat | Sonic Series | A batgirl thief/secret agent who is interested in you, or maybe it's just a means to her ends. | [Tavern Card](https://files.catbox.moe/wyivmi.png)
+![Fanart Gardevoir](https://files.catbox.moe/o0bhq8.jpg) | Fanart Gardevoir | Pokemon (Fan art) | You find a Gardevoir in the wild, but there's something... unusual about her.  Mainly that she has huge breasts and wide hips.  The pokedex isn't going to help you with this one. | [Tavern Card](https://files.catbox.moe/b5jw2l.png) [CAI Link](https://beta.character.ai/chat?char=lWuvFL5F2kDeL3peYgwIXQvDGZ79zRx-3-2uScm_eaE)
+![Kanna](https://files.catbox.moe/pnpxig.jpg) | Kanna | Blaster Master: Zero | Alien plant girl who drives a tank.  She's outgoing and friendly, but also an airhead prone to misunderstandings. | [Tavern Card](https://files.catbox.moe/rl155w.png) [CAI Link](https://beta.character.ai/chat?char=zmLkeSjCjefTx3q6o0iijWgB4jaVwTf-eJbm0l4UqwY)
+![Bloody Marie](https://files.catbox.moe/jda910.jpg) | Bloody Marie | Skullgirls | The "Skullgirl" herself.  A young girl possessed by the "skull heart" and turned into an undead weapon.  | [Tavern Card](https://files.catbox.moe/k27xvl.png) [CAI Link](https://beta.character.ai/chat?char=Mtf0JXC7p8cu48phU7ypKu2ovz5njKcxNIHYQDpQcro)
+![Yuna](https://files.catbox.moe/s9qbhu.jpg) | Yuna | MegaMan Legends 2 | The "Mother Unit" of Terra.  An ancient machine designed to help control the systems of Earth, in the far distant future.  Outgoing and friendly. | [Tavern Card](https://files.catbox.moe/zs3s33.png) [CAI Link](https://beta.character.ai/chat?char=QaEKxv6kKHfTl3oUQGMWPacMGRey8v599MDyPyDC9Qo)
+![Sera](https://files.catbox.moe/ngtfg1.jpg) | Sera | MegaMan Legends 2 | The "Mother Unit" of Elysium.  An ancient machine designed to help control the systems of Elysium, in the far distant future.  Stern and cold.  | [Tavern Card](https://files.catbox.moe/27ddl3.png) [CAI Link](https://beta.character.ai/chat?char=r1lTGMUamoaWJBVDj-9vpKkXOO30iz84IpJe_bReXkA)
+
+##Adventure Bots
+!!! info Go on an adventure within a setting.  These cards contain extra setting lore to help establish the world and threats within.  No less than GPT-4 recommended for best results.
+Image  |  Name |  Series From | Description | Links
+------ | :----: | :----: | ------ | ------
+![DOOM](https://files.catbox.moe/t8cfja.jpg) | DOOM | DOOM | You are Doomguy.  The lone marine left alive on a UAC base on a moon of Mars.  Hell has broken loose, literally.  Fight demons and try not to become just another bloody stain on the floor.  | [Tavern Card](https://files.catbox.moe/zcxpcx.png)
+![Layer](https://files.catbox.moe/rkf858.jpg) | Layer | MegaMan X | Layer works alongside other navigators like Alia to help the Maverick Hunters track down and stop dangerous reploids.  She's a romantic at heart, and gains crushes easily.  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/plp1ho.png)
+![Alia](https://files.catbox.moe/2dbd9d.jpg) | Alia | MegaMan X | Alia is a reploid navigator who can guide you in your mission to defeat mavericks.  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/36cvet.png)
+
+##Spicy Bots
+!!! info This section is for bots of more "extreme" taste.  NSFW.  These cards will, by default, steer the scenario into stronger fetishes.
+Image  |  Name |  Series From | Content | Description | Links
+------ | :----: | :----: | :----: | ------ | ------
+![Lilims](https://files.catbox.moe/5w74d1.jpg) | Deadly Lilim Den | Ishuzoku Reviewers | **Rough Sex/ Femdom/ Orgy** | You come across a den of crude, aggressive Lilims.  Pay the fee and enter?  ...You're really certain about this?  | [Tavern Card](https://files.catbox.moe/ev0vsd.png)
+![Rei](https://files.catbox.moe/jyzfhl.jpg) | Rei Ayanami | Mogudan Doujin | **Aggressive male NPC's/ Potential NTR** | Rei as envisioned by Mogudan's early doujins.  An obedient girl with an incredible body, who catches all the men's eyes.  May require a strong JB to get the most out of.  | [Tavern Card](https://files.catbox.moe/bo4wky.png)
+![Mayl](https://files.catbox.moe/dgq0qg.jpg) | Mayl (& Roll.EXE) | MegaMan Battle Network | **Corruption/ Mind Control** | The evil organization, the WWW, has captured Mayl and Roll!  What will become of them?  | [Tavern Card](https://files.catbox.moe/stxeps.png)
+![Peg](https://files.catbox.moe/wo96gw.png) | Peg | Goof Troop | **Potential Infidelity** | A local MILF asked for your help.  You took care of it, no problem.  But now she's coming on a little strong, and her husband could wring your neck.  | [Tavern Card](https://files.catbox.moe/uxtded.png)
+![Your Panda GF](https://files.catbox.moe/qfdkah.jpg) | Your Panda GF | White Christmas - Jun | **Just very NSFW (Furry too, I guess)** | Flirty and very lewd panda girl who wants to spend Christmas Eve with you.  Very NSFW.  A retelling of a short doujin by Jun. | [Tavern Card](https://files.catbox.moe/598jqt.png)
+!!! note Disclaimer:
+	All bots and what you do with them are the responsibility of the person using them.  Within the scenarios presented, they are legal age regardless of what their series of origin may claim.  Don't come crying to me.

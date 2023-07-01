@@ -19,7 +19,7 @@ Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charl
 葉山舞鈴 / Ohayama Ch.|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
 轟京子/kyoko todoroki|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
 神成きゅぴ / Kaminari Qpi|[Twitter](https://twitter.com/xprprQchanx) [Youtube](https://youtube.com/@KaminariQpi)|VSPO - FPS Gyaru
-烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams)|
+烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams)|0
 ヴァリアナ・S・ティンガーネット|[Twitter](https://twitter.com/Valiana_s) [Youtube](https://www.youtube.com/@valiana_s)|スナックにり - Mahjong
 猫葉こば|[Twitter](https://twitter.com/Coba_Nekoba) [Twitch](https://www.twitch.tv/nekobacoba)|
 火神カナ|[Twitter](https://twitter.com/KagamiKana) [Youtube](https://www.youtube.com/@user-pe6he6do7r/streams)|
@@ -53,6 +53,7 @@ Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Yo
 砂星はや / Sunahoshi Haya|[Twitter](https://twitter.com/hayachan_18) [Youtube](https://www.youtube.com/@hayachannel)|
 猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
 ここいつの -kokoi tuno- |[Twitter](https://twitter.com/kokoituno) [Youtube](https://www.youtube.com/@kokoituno) [Twitch](https://www.twitch.tv/kokoituno)|
+昆布わかめ|[Twitter](https://twitter.com/aconbwakame) [Youtube](https://www.youtube.com/@aconbwakame)|
 
 ---
 
@@ -79,7 +80,7 @@ Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.
 Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
 KokoNuts|[Twitter](https://twitter.com/KokoNutsVT) [Twitch](https://www.twitch.tv/kokonuts)|
 KittyfluteVT|[Twitter](https://twitter.com/Kittyflutexbl) [Twitch](https://www.twitch.tv/kittyflutevt)|
-Mairu|[Twitter](https://twitter.com/mairwu) [Youtube](https://www.youtube.com/@Mairwu) [Twitch](https://www.twitch.tv/mairwu)|Goth rat girl - FPS gamer, knows Spanish
+Yuiidere|[Twitter](https://twitter.com/yuiidere) [Youtube](https://www.youtube.com/@yuiidere) [Twitch](https://www.twitch.tv/yuiidere)|
 KayukoVT|[Twitter](https://twitter.com/kayukoVT) [Twitch](https://www.twitch.tv/tentxclee)|
 Pema|[Twitter](https://twitter.com/PemaMysterious) [Twitch](https://www.twitch.tv/pema)|
 AurabunVT|[Twitter](https://twitter.com/AurabunVT) [Twitch](https://www.twitch.tv/aurabun)|
@@ -168,6 +169,9 @@ Mixie Mixin|[Twitter](https://twitter.com/MixinMixie/) [Youtube](https://www.you
 Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch.tv/sakumintsu)|
 ceelio|[Twitter](https://twitter.com/ceelio_ch) [Twitch](https://www.twitch.tv/ceelio)|
 Ngozi Mai|[Twitter](https://twitter.com/NgoziMai) [Youtube](https://www.youtube.com/@NgoziMai)|
+sunset_radiance|[Twitter](https://twitter.com/SunsetVTuber) [Twitch](https://www.twitch.tv/sunset_radiance)|Fighting games
+Fuwacoco|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco )|
+
 
 ---
 
@@ -213,6 +217,7 @@ TetraMH[EN]|[Twitter](https://twitter.com/mh_tetra) [Twitch](https://www.twitch.
 Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Youtube](https://www.youtube.com/@Nekoyo_Chloe/streams)| ASMR
 eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https://www.twitch.tv/eveningstar_ch/)|
 ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
+Fuwacoco[EN]|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco)|
 
 ---
 

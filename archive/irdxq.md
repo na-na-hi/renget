@@ -22,7 +22,7 @@
 Dates are based on EST
 ***
 !!!info Updates
-	>==Chapters== - 05/29 - [Added #45](https://rentry.org/irdxq/#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k) 
+	>==Chapters== - 06/26 - [Added #46](https://rentry.org/irdxq/#2023-06-24-%E6%AD%8C%E6%9E%A0-karaokeits-been-3-whole-months-rr_-re2tv8m) 
 !!! Info Incomplete - https://rentry.org/nzpe9
 !!! warning # of times she has sung each song so far
      https://rentry.org/37gbg
@@ -2565,9 +2565,87 @@ CHAPTER10=01:09:42.000
 CHAPTER10NAME=09. A New Start - Nanashi Mumei (Acoustic)
 
 ```
-
 ***
+######『2023-06-24』 - 【歌枠 KARAOKE】It's Been 3 Whole Months !!! [Rr_-RE2TV8M]
+[Go back to the TOC](https://rentry.org/irdxq)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:42.801
+CHAPTER01NAME=Start
+CHAPTER02=00:03:27.000
+CHAPTER02NAME=01. Move Along - The All-American Rejects
+CHAPTER03=00:12:36.000
+CHAPTER03NAME=02. Check Yes, Juliet - We The Kings
+CHAPTER04=00:22:32.000
+CHAPTER04NAME=Cupid (Twin Version) (Finding Key & Practice)
+CHAPTER05=00:25:42.440
+CHAPTER05NAME=03. Cupid (Twin Version) - FIFTY FIFTY
+CHAPTER06=00:33:39.000
+CHAPTER06NAME=Iris - Goo Goo Dolls
+CHAPTER07=00:37:07.000
+CHAPTER07NAME=04. Total Eclipse of the Heart - Bonnie Tyler
+CHAPTER08=00:44:40.000
+CHAPTER08NAME=05. Airplanes - B.o.B
+CHAPTER09=00:49:50.000
+CHAPTER09NAME=06. Sleepwalking - Bring Me the Horizon
+CHAPTER10=00:56:49.000
+CHAPTER10NAME=07. The Best Day Ever - SpongeBob SquarePants
+CHAPTER11=01:00:41.742
+CHAPTER11NAME=08. Popular - Wicked
+CHAPTER12=01:06:37.000
+CHAPTER12NAME=Idol - Yoasobi (Accapella)
+CHAPTER13=01:11:21.000
+CHAPTER13NAME=Ghost Rule - deco*27 (Accapella)
+CHAPTER14=01:16:46.000
+CHAPTER14NAME=Idol meeting - Wonder Wall
+CHAPTER15=01:19:14.899
+CHAPTER15NAME=Back - Wonder Wall
+CHAPTER16=01:21:57.000
+CHAPTER16NAME=09. Sign - Flow
+CHAPTER17=01:26:01.000
+CHAPTER17NAME=10. Karate - BABYMETAL
+CHAPTER18=01:33:53.478
+CHAPTER18NAME=11. On My Own - Les Miserables (JP Ver.)
+CHAPTER19=01:44:00.349
+CHAPTER19NAME=12. Uso - SID
+CHAPTER20=01:55:38.000
+CHAPTER20NAME=13. Sugar, We're Goin Down - Fall Out Boy
+CHAPTER21=02:00:52.000
+CHAPTER21NAME=14. Poker Face - Lady Gaga
+CHAPTER22=02:05:08.000
+CHAPTER22NAME=15. Yeah! - Usher
+CHAPTER23=02:14:32.000
+CHAPTER23NAME=16. Daylily - Movements
+CHAPTER24=02:18:35.487
+CHAPTER24NAME=Maybe - Annie
+CHAPTER25=02:21:20.000
+CHAPTER25NAME=17. The Star-Spangled Banner
+CHAPTER26=02:23:28.000
+CHAPTER26NAME=18. O Canada
+CHAPTER27=02:25:50.000
+CHAPTER27NAME=19. America (My Country, 'Tis of Thee) & God Save the King
+CHAPTER28=02:29:24.000
+CHAPTER28NAME=Behind These Hazel Eyes - Kelly Clarkson
+CHAPTER29=02:31:56.000
+CHAPTER29NAME=Time in a Bottle - Jim Croce
+CHAPTER30=02:35:39.000
+CHAPTER30NAME=20. Numb - Linkin Park
+CHAPTER31=02:39:37.000
+CHAPTER31NAME=Stellar Stellar - Suisei (Acapella)
+CHAPTER32=02:41:59.000
+CHAPTER32NAME=21. Palette - Tokoyami Towa (Acapella)
+CHAPTER33=02:45:57.504
+CHAPTER33NAME=Asu no Yozora Shoukaihan - Afterglow (Acapella)
+CHAPTER34=02:46:57.000
+CHAPTER34NAME=Astrogirl - Tsukumo Sana (Acapella)
+CHAPTER35=02:48:42.000
+CHAPTER35NAME=The Forgotten Song (Accapella)
+CHAPTER36=02:49:36.000
+CHAPTER36NAME=Dilemma - DECO*27 (Accapella)
 
+```
+***
 ***
 ***
 !!! danger 

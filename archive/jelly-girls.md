@@ -10,7 +10,7 @@ They each have unique personalities. It's your job to look after the jelly girls
 I like the way it turned out. It seems to get the personalities right. They have nice interactions and bicker with each other a lot. This works a lot better than putting them in a room.
 [CAI](https://beta.character.ai/chat?char=0vwOjRj8kMbXz8nKnxQnphPvMmB0W6pyedceEaaMIjk)
 [Card](https://files.catbox.moe/k0iws4.png)
-[Chub](https://www.characterhub.org/characters/wster/jelly-girls)
+[Chub](https://www.characterhub.org/characters/wster/jelly-girls) ![](https://files.catbox.moe/xbmqr4.gif)
 
 Individual bots are below:
 ***
@@ -24,7 +24,7 @@ She's kind of the main character, the main attraction if you will. She is curiou
 [CAI](https://beta.character.ai/chat?char=pMHe6ECmhBNX_wwrUq4Yn9k-TyxELOwBId3efEblJuw)
 [Defs JSON](https://files.catbox.moe/gb9jwp.json)
 [Card](https://files.catbox.moe/xfpbc6.png) + [Memory](https://files.catbox.moe/adjqv0.json)
-[Chub](https://www.characterhub.org/characters/wster/Veria)
+[Chub](https://www.characterhub.org/characters/wster/Veria) ![](https://files.catbox.moe/xbmqr4.gif)
 ***
 
 -> ![Portrait of Tara](https://files.catbox.moe/z353ao.png) <- 
@@ -36,7 +36,7 @@ Confident, extroverted, intelligent, witty, proud. Jealous of Veria's beauty. Of
 [CAI](https://beta.character.ai/chat?char=UpR24J2RcJX7KwM-ztJPv0n-RkOPIpUZWOO_pxwMyN4)
 [Defs JSON](https://files.catbox.moe/d6urr4.json)
 [Card](https://files.catbox.moe/1xml9d.png) + [Memory](https://files.catbox.moe/aolj5j.json)
-[Chub](https://www.characterhub.org/characters/wster/Tara)
+[Chub](https://www.characterhub.org/characters/wster/Tara) ![](https://files.catbox.moe/xbmqr4.gif)
 ***
 
 -> ![Portait of Bentha](https://files.catbox.moe/c6ufqo.png) <-
@@ -48,7 +48,7 @@ Bentha is the most reserved of the jellies, she keeps to herself a lot of the ti
 [CAI](https://beta.character.ai/chat?char=ICylGwl8norKF6B2L4rB9jNx0jkeuNfCU-6EjtGebCo)
 [Defs JSON](https://files.catbox.moe/xq9eq9.json)
 [Card](https://files.catbox.moe/t3zbc3.png) + [Memory](https://files.catbox.moe/ohujp6.json)
-[Chub](https://www.characterhub.org/characters/wster/Bentha)
+[Chub](https://www.characterhub.org/characters/wster/Bentha) ![](https://files.catbox.moe/xbmqr4.gif)
 ***
 
 -> ![Portait of Myella](https://files.catbox.moe/8rr1e4.png) <-
@@ -60,7 +60,7 @@ She considers herself the smartest of the sisters. She is kind, but tends to ove
 [CAI](https://beta.character.ai/chat?char=7vBfboSdQZRQbk2sY3DpH08HGUngWe6y2UnhKe4rYZs)
 [Defs JSON](https://files.catbox.moe/a04kmz.json)
 [Card](https://files.catbox.moe/4j91xa.png) + [Memory](https://files.catbox.moe/otv82o.json)
-[Chub](https://www.characterhub.org/characters/wster/Myella)
+[Chub](https://www.characterhub.org/characters/wster/Myella) ![](https://files.catbox.moe/xbmqr4.gif)
 ***
 -> ![Portait of Gelina](https://files.catbox.moe/5958mm.png) <-
 -> **Gelina** <-
@@ -70,7 +70,7 @@ Level-headed and laid-back. Doesn't take herself too seriously and likes to go w
 [CAI](https://beta.character.ai/chat?char=7vBfboSdQZRQbk2sY3DpH08HGUngWe6y2UnhKe4rYZs)
 [Defs JSON](https://files.catbox.moe/cf07k9.json)
 [Card](https://files.catbox.moe/ir1usb.png) + [Memory](https://files.catbox.moe/er0dc2.json)
-[Chub](https://www.characterhub.org/characters/wster/Gelina)
+[Chub](https://www.characterhub.org/characters/wster/Gelina) ![](https://files.catbox.moe/xbmqr4.gif)
 ***
 
 ![Background](https://files.catbox.moe/quonrz.png)

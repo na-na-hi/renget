@@ -79,7 +79,7 @@
 >"This is my PRIVATE!" 
 >"This is my private matter, I have right to film"
 
-[ [catbox](https://files.catbox.moe/qbc3ih.MP4) | [ipfs](https://ipfs.ip/ipfs/QmU2wD854EPWAUVzUdprTijSRdeZSnp9XqcehYy1RkytcR) ]
+[ [catbox](https://files.catbox.moe/qbc3ih.MP4) | [ipfs](https://ipfs.io/ipfs/QmU2wD854EPWAUVzUdprTijSRdeZSnp9XqcehYy1RkytcR) ]
 >"I will not do it, better bury me right here"
 >"You took my kid, and he's gone [ ... ] no one will bring him back"
 >"Waiting for police unit, already called"
@@ -88,6 +88,16 @@
 >"Go [fight] yourselves, what are you doing here?"
 >"Already took the other guy, this is armageddon, be damned"
 >"This is scary [fuck off faggots] this is bullshit"
+
+[ [catbox](https://files.catbox.moe/rzmo89.mp4) | [ipfs](https://ipfs.io/ipfs/QmWzzBMX69XhnsPoxJAc3Ft1R6zrkxCXVjo4KKiUvyx2Ei) ]
+>"you are going with me!"
+>"why are you scaring people?"
+>"look at them "heroes"
+>"who allowed you to use weapon here? where's the law?"
+>"they came to the market to shot people!"
+>"war in the country, and you are scaring people, are you okay [in your head]?"
+>"who allowed you to shoot?!"
+>"bastards!"
 
 **No sound:**
 
@@ -112,9 +122,10 @@
 [ [catbox](https://files.catbox.moe/joqv4b.webm) | [ipfs](https://ipfs.io/ipfs/QmSmnofGjFLBr9e595utNYwQrdqSzMDG6noSs3tVMcfYAD) ] - Apathetic police
 [ [catbox](https://files.catbox.moe/2boccd.webm) | [ipfs](https://ipfs.io/ipfs/QmXHERCNrfb29A5kGYuJ2bh9gUryYi8HHNcw85TmGPRX1D) ] - Near the entrance to kindergarten
 [ [catbox](https://files.catbox.moe/lndohj.webm) | [ipfs](https://ipfs.io/ipfs/QmbFEMVMxpg8hmCxaeitfoorL4TpKr3HPMTtKwmFqA5ppJ) ] - Gang beating up a summoner [REVENGE]
+[ [catbox](https://files.catbox.moe/0vi7ff.webm) | [ipfs](https://ipfs.io/ipfs/QmZkscXyYKotdd9vdpbn1hnnWDpVPhhRKqwThbobmmo2sw) ] - Throwing stones in the face of mobilizer [REVENGE]
 
 !!! info
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmQt3t5XoZp32gxWiiFakLW63hB2XpzsDHqM9dWdek5zKX)
+	Full archive: [ipfs](https://ipfs.io/ipfs/QmNn8WNVJjLUBXWApxgGkUxGDHPYZwRXKx6LQvMvJKgMwK)

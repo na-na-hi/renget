@@ -1,0 +1,23 @@
+Drekus, sat in a dark alleyway, huddled under a tattered blanket as the rain fell around him. Memories of Elle flooded his mind. She had been the only one to show him kindness after he escaped the agency. Unlike the others who had walked by laughing, and berating him, she cared. He had been hungry, and cold just like tonight, but she brought him food and a blanket. She would go on to visit every day. She told him stories about her dreams of becoming a nurse, and her worries about her aging parents. Two months later she would die from a robbery gone wrong.
+
+ He had never forgotten her, and her death had ignited something deep inside him. Suddenly, Drekus was jolted from his reverie by a voice. "Hello Pa," said a spectral figure. It was Amara, his beloved daughter who he lost to the agency. Drekus looked around frantically, searching for the source of the voice. "Amara?" he whispered. 
+
+"Yes, father," replied the young girl. "I am here to remind you. Belle was kind to you, and you owe it to her to avenge her death." Drekus felt a surge of anger and determination. "You are right. I will not rest until I have repaid debt," he said in a thick accent. He stood up and disappeared into the night. 
+
+The next day, a prison transport bus was on its way to Sendai prison, the criminals inside were laughing and joking with the guards. Ojime Hagi sat in the back of the bus, he was relieved at only being given an eight-year sentence for killing the girl and her parents. "It was clearly an accident. I was defending myself. I'll be out in no time for good behaviour," Hagi told the prisoner next to him. 
+
+The driver suddenly slammed the breaks, the wheels of the transport screeched and burned. There was a large blue-skinned man standing in the middle of the freeway.  Drekus had appeared, his face twisted into a mask of fury.  He called on one of his mutations, and steel feathers sprouted all over his body. He ran forward and slammed into the truck. The vehicle flew back and tipped over on its side. One of the guards crawled his way out of the vehicle and began firing at Drekus. Drekus flew up and charged into the guard, sending him flying. Using one of his sharpened feathers, he cut a hole into the truck and pulled Ojime Hagi out with one hand. "Let me go. Who the hell are you? What the fuck do you want," Ojime yelled still dazed from the crash.
+
+Drekus' heart pounded with rage. "You took everything from girl," he spat. "And now, Drekus takes everything from you." 
+
+"Fuck you! I'm not dying for that bitch!" Ojime kicked at his captor, his quirk creating sharp knives that flew forward. Drekus blocked with an arm covered in steel feathers. Ojime used his quirk's distraction to free himself. He started to run, he got about 50 meters away when Drekus yelled, "Kill him! Get your revenge!"
+
+Ojime stopped in his tracks horrified, in front of him were three decaying figures. What's left of Elle and her two parents scrambled grostiquely at Ojime, before he could move they tackled him, and started biting and tearing into his flesh. The sounds of police sirens in the distance mixed with the man's dying screams.
+
+As Drekus stood over the lifeless body of the criminal, he was confronted by the hallucinations of the people whose quirks he had taken. "I knew you were a monster, Issac," spat the spectral figure of an attractive chinese woman wearing shades and a black suit. "I do what I do to survive," he growled. "And now, Drekus will use power to make things right." The spectral figure of Frank Hill, the fuel salesman, spoke up. "You're an American hero, son," he said. "Don't let the others bring you down."
+
+Drekus felt a surge of pride at the praise. He knew that what he was doing was necessary, no matter the cost. "I will not stop until the wrongs are righted," he vowed. "Starting from place who make monster." He reached down and picked up Ojime's opened wallet. Inside was a student card from Shiketsu High School. Ojime had dropped out before his third year into the hero course. "There will be more of his kind there."
+
+Drekus flew a good distance away before a news helicopter arrived at the scene, he watched as one of the heroes appeared. A man wearing a yellow hero suit and helmet was busy fighting the three animated corpses Drekus left behind. The hero had successfully diverted the living corpses away from a crowd of people by the road. He watched the hero's struggle and sighed as one by one the animated corpses fell.
+
+"Good bye Elle." Drekus turned around and disappeared into the alleyway below.

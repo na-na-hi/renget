@@ -10,12 +10,13 @@
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
 !!! note ➜ Bookmark this URL
-    - The [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/) is where our major vessel of online pirates congregates. [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy) is our backup ship.
+    - The [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/) and [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy) is where our major vessels of online pirates congregate.
     - It is critical to save this URL since it will serve as a steady compass for where our ships are currently stationed.
+    - ✅ **This Megathread is updated often. There are no quality control checks on any copies that are mirroring this one.**
 
 !!! danger ➜ Uncertainty 
     - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use extra caution anytime you sail in uncharted waters. 
-    - That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution and if you notice problems with any of the sites in our Megathread, please [contact the moderators](https://www.reddit.com/message/compose?to=/r/Piracy). 
+    - That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution and if you notice problems with any of the sites in our Megathread, please contact the moderators on [r/Piracy Subreddit](https://www.reddit.com/message/compose?to=/r/Piracy) or [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy).
 
 &nbsp;
 
@@ -38,7 +39,7 @@
 ### 🧭 [All Purpose](https://rentry.co/megathread-all-purpose)
 - All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as much public content as possible.
 
-### ⭐ [Anime](https://rentry.co/megathread-anime)
+### ⭐ [Anime](https://rentry.co/megathread-anime) 
 - Anime is a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
 ### 📚 [Books](https://rentry.co/megathread-books)
@@ -64,7 +65,7 @@
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 - [Old version backup](https://rentry.co/ko7zq).
 
-### ⚙️ [Software](https://rentry.co/megathread-software)
+### ⚙️ [Software](https://rentry.org/megathread-software)
 - Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
 - [Old version backup](https://rentry.co/pzfwe).
 
@@ -89,3 +90,4 @@
 ### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Piratezparty](https://github.com/SpamVerse/Piratezparty)
 ### 📁 [Ripped](https://ripped.guide/)
+### 📁 [Wotaku](https://wotaku.pages.dev/)

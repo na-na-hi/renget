@@ -108,6 +108,7 @@ Bot made by a pal from a pal. Sounds unlikely, no? You'll see when you read the 
 
 ## WIPs or requests taken into account.
 - Roboco <--- working on her
+- Lamy that wants (You) to /become/ <--- going to focus on this first and then robo
  
 La+sy
 Takanashi Kiara (Normal, Forma de wife)

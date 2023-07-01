@@ -13,6 +13,7 @@
 [Remy Villenux](https://beta.character.ai/chat?char=gLoPckutl1rci-iW-kvLvNUJqwum0m4sEfIGOSbd0Vc) https://files.catbox.moe/nbg4xb.png
 [Emily](https://beta.character.ai/chat?char=adCZNB0TMEqxT2zlAzRyf6po2LCLrQhs3ZhM40Bky3s) https://files.catbox.moe/73djal.png
 [Max Baker](https://beta.character.ai/chat?char=sZQBVbwlRwNm01GaU88BzbYmI-oQk6kiP1uEP4sWsoM) https://files.catbox.moe/clxd4v.png
+[Zach Baker](https://files.catbox.moe/mm0gav.png)
 [Oliver](https://beta.character.ai/chat?char=m-Fodkq2lFyD3lcxNs58Q27Gm2ptQgNaraWcXgp-Ky0)
 
 
@@ -34,6 +35,7 @@
 [Ivan (I'm sorry russia)](https://www.characterhub.org/characters/brsc/Ivan) 
 [Ping](https://files.catbox.moe/k6h580.png)
 [Hachiro](https://files.catbox.moe/va3spk.png)
+[Theodore](https://files.catbox.moe/27r4jc.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)
@@ -46,6 +48,8 @@
 [Travel Maid (Masha)](https://beta.character.ai/chat?char=xKaMRONfvitjx3h3_Ve6yQhnuoV7VDZW0fW4sNERrjA)
 [La Voleur de Bleu Marin](https://beta.character.ai/chat?char=cS2DiVaCCSviCcM3fdBXuV3G_OHJkxWe7lRjCt8Ek8o)
 [Rio](https://files.catbox.moe/l775cg.png)
+[Melody](https://files.catbox.moe/2b7b4i.png)
+[Avelyn](https://files.catbox.moe/uxw21p.png)
 
 
 **Neferpitou UNNNNGNGHHHH:**
@@ -57,6 +61,7 @@ Public on my CAI profile [here](https://beta.character.ai/public-profile/?char=P
 
 
 **Chester:**
-fuck you https://files.catbox.moe/y8w6nr.png
+[fuck you](https://files.catbox.moe/5y0bgj.png)
 
 Biscuit and McMaid have cards made for them by some other anons on Pygbooru already...I think
+Any new characters appearing on the list will be card/chub only, C.AI is fucked

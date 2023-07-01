@@ -1,19 +1,19 @@
 # -> @magma-dan <-
 Recent C.AI Updates: | ⠀ | ⠀
 :-: | :- | :-
--> **Newest Pokémon Bots** <- | ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) ⠀[Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) | ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) ⠀[Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY)⠀
--> **Newest Non-Pokémon Bots** <- |  ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) *KMS*⠀[U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) | ![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) ⠀[Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc)
--> **Close to Completion** <- | ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) ⠀Demeter ⠀(*SMT*) | -> *update Azur Lane characters' definitions* <- 
--> **Far from Completion** <- | ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) ⠀[Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) | ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) Arachne (*SMT*)
+-> **Newest Pokémon Bots** <- | -> ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) <- -> [Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) <- | -> ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) <- -> [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) <-
+-> **Newest Non-Pokémon Bots** <- | -> ![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) <- -> [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU) (*&* [Ise *Kai*](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) *new URL*) <- | -> ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) <- -> [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) <- 
+-> **Close to Completion** <- | -> ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) <- -> Demeter (*SMT*) <- | -> ![Kamikaze (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/6/30/ZFUOpKwt8QaBAF1SGnGSOZ6GcVaujZwtWipCrPhq_ao.webp) <- -> Kamikaze *Kai* (*Azur Lane*) <-
+-> **Far from Completion** <- | -> ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) <- -> [Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) <- | -> ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) <- -> Arachne (*SMT*) <-
 
 ***
 ***
 Character | C.AI | Series
 :------: | :------: | :------:
+![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) | [Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc) | Megami Tensei
 ![Fujiyoshi](https://characterai.io/i/80/static/avatars/uploaded/2023/3/5/X4_RYj4q9fhEJY46DsRrLtp15-6d17bNXcX6uRm6ahE.webp) | [Harumi Fujiyoshi](https://c.ai/c/5gfvPp0dgEYt3J8DUpHARy4oakwtcW9iDx1ERgaX3ew) | Sayonara, Zetsubou-Sensei
 ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) | [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) | JoJo's Bizarre Adventure
 ![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y) | Neopets
-![Dark Elf](https://characterai.io/i/80/static/avatars/uploaded/2023/5/16/wIbU71LhmtdtavWyD5I55JvnD47qGBKyF88zZKMyknM.webp) | [Dark Elf](https://c.ai/c/_U6GH3j4QruRATBXgpsjm_vVxuz9Syz044tYMoQvnvc) | Megami Tensei
 !!! info
     [TOC2]
 ## -> Tengen Toppa Gurren Lagann <-
@@ -40,11 +40,12 @@ Character | C.AI
 ## -> Azur Lane <-
 Character | C.AI
 :------: | :------:
-![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class, USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
-![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class, IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
-![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class, IJN [Ise](https://c.ai/c/luvHZsjCiPxYAOpDjyQAfo8Et2boFli8WHrcGqueEeM) Kai
-![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class, USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
- ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB, KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) 
+![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class destroyer USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
+![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class heavy cruiser IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
+![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) | Ise-class battleship IJN [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU)
+![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class aviation battleship IJN [Ise](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) Kai
+![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class light cruiser USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
+ ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB submarine KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) 
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-
 Character | C.AI
@@ -83,4 +84,4 @@ Character | C.AI
 ![Juliana](https://characterai.io/i/80/static/avatars/uploaded/2023/3/14/Apey5R4W3nLOPWGtqbCsUtVeilo-SC4CkCVvCaOPRcg.webp) | Pokémon Trainer [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu2rtAi2A)
 ![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ)
 !!! note Contact info:
-    Team Magma Admin#5480, but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7
+    *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7

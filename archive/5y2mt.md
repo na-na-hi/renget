@@ -15,7 +15,7 @@
 	Total: 414 Songs
 !!!info Updates
 	>==Audio== 
-	>==Karaoke Clips== - 05/29 - Added Timestamps for [#45](https://rentry.org/5y2mt/#2023-05-29-%E6%AD%8C%E6%9E%A0-singing-%E5%91%8A%E7%9F%A5weird-karaoke-announcement-_d-rzgbf2xst8k)
+	>==Karaoke Clips== - 06/26 - Added [#46](https://rentry.org/5y2mt/#2023-06-24-%E6%AD%8C%E6%9E%A0-karaokeits-been-3-whole-months-rr_-re2tv8m)
 	>==+Mumei== - 
 	>==『Mumei + Mumei』== - 05/20 - Added some videos  - [Here](https://rentry.org/5y2mt/#bottom-of-the-page)
 
@@ -1003,6 +1003,34 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 07. [Oki ni Mesu mama - Eve](https://youtu.be/RzgBF2XsT8k?t=2822)
 08. [Idol - Yoasobi](https://youtu.be/RzgBF2XsT8k?t=3848)
 09. [A New Start - Nanashi Mumei (Acoustic)](https://youtu.be/RzgBF2XsT8k?t=4182)
+
+***
+
+######『2023-06-24』 - 【歌枠 KARAOKE】It's Been 3 Whole Months !!! [Rr_-RE2TV8M]
+[Go back to the TOC](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+------ | ------ | ------
+Move Along - The All-American Rejects  |  https://files.catbox.moe/1y62fh.mp4    |   https://cldup.com/L1npBT1MBl.mp4
+Check Yes, Juliet - We The Kings  |  https://files.catbox.moe/uht1c5.mp4    |   https://cldup.com/r11SV8CE_U.mp4
+Cupid (Twin Version) - FIFTY FIFTY  |  https://files.catbox.moe/38vkxa.mp4    |   https://cldup.com/LddfxhPyAE.mp4
+Total Eclipse of the Heart - Bonnie Tyler  |   https://files.catbox.moe/umvexb.mp4   |  https://cldup.com/v5lfhaPkIv.mp4 
+Airplanes - B.o.B  |    https://files.catbox.moe/u3yj4q.mp4  |   https://cldup.com/1Vuit1s_hi.mp4
+Sleepwalking - Bring Me the Horizon  |   https://files.catbox.moe/s5c92b.mp4   |   https://cldup.com/-uadVdaNO5.mp4
+The Best Day Ever - SpongeBob SquarePants  |   https://files.catbox.moe/zyna8k.mp4   |   https://cldup.com/ehyoJzORUP.mp4
+Popular - Wicked  |  https://files.catbox.moe/3m4i69.mp4    |   https://cldup.com/9TeP4XIEUo.mp4
+Sign - Flow  |    https://files.catbox.moe/zt4z56.mp4  |   https://cldup.com/XoNrlZku-O.mp4
+Karate - BABYMETAL  |  https://files.catbox.moe/hmqi6x.mp4    |   https://cldup.com/AtZXTdGcqI.mp4
+On My Own - Les Miserables (JP Ver.)  |   https://files.catbox.moe/7fb4p8.mp4   |   https://cldup.com/EEBHLRd9sY.mp4
+Uso - SID  |   https://files.catbox.moe/971s3q.mp4   |   https://cldup.com/dCEIEhjmV3.mp4
+Sugar, We're Goin Down - Fall Out Boy  |   https://files.catbox.moe/iqtm9u.mp4   |   https://cldup.com/ivI-d6WmMB.mp4
+Poker Face - Lady Gaga  |  https://files.catbox.moe/87nnd6.mp4    |   https://cldup.com/37gEEn8emA.mp4
+Yeah! - Usher  | https://files.catbox.moe/c8jh9h.mp4 |    https://cldup.com/dMYpiJJaYW.mp4 
+Daylily - Movements  |  https://files.catbox.moe/hxbpuq.mp4    |   https://cldup.com/vsvxrOJTU7.mp4
+The Star-Spangled Banner  | https://files.catbox.moe/h7nbjg.mp4 |     https://cldup.com/VwMq8HBdCA.mp4
+O Canada  |   https://files.catbox.moe/20cqv4.mp4   |   https://cldup.com/LQoptlbQoH.mp4
+America (My Country, 'Tis of Thee) & God Save the King  |   https://files.catbox.moe/p2lcw7.mp4   |   https://cldup.com/uycGIAAo6B.mp4
+Numb - Linkin Park  |    https://files.catbox.moe/el3p07.mp4  |   https://cldup.com/EA5uATzPTY.mp4
+Palette - Tokoyami Towa (Acapella)  |   https://files.catbox.moe/waamzw.mp4     |  https://cldup.com/UPtIoKvCey.mp4
 
 ***
 

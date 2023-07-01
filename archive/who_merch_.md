@@ -7,22 +7,34 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
-
 >**HoloEN Connect the World Concert (July 2nd, PDT)**
 - - -
 **Streaming ticket**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
 
-**Merch** (Order period ends 29th May 0200 PDT)
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_madetoorder
+**Merch** (Resale started, Order period ends 10th July 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_2nd
 **Sponsor merch**
 Keyboard keycap set & desk pad
 https://hyte.com/store/hololive-connect-the-world-keycap-bundle?v=151
 OMOCAT Hoodie & bag
 https://www.omocat-shop.com/collections/omocat-x-hololive-en
 
-- - -
+\* * *
 
+>**HoloSummer**
+- - -
+Splash Party Online Concert 
+**Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
+https://www.zan-live.com/en/live/detail/10292
+**Merch**
+Acrylic Stands 
+https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
+Keychains and assorted goods
+https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1- - -
+
+\* * *
+- - -
 ##Games
 **Groove Coaster**
 Main game: https://store-jp.nintendo.com/list/software/70010000019180.html

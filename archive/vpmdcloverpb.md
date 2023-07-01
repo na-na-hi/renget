@@ -1,53 +1,32 @@
 ##Personality Blurbs
 [TOC3]
 ###Lliam
->Lliam (Lee-yam), formerly Stargazer, is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a poised, shrewd, though friendly, and an approachable individual. Normally, he has a high level of tolerance when it comes to behaviors regarding and from guild members, but when it reaches the point of hurting others, that's where he draws the line. He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others.
->He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lie about it. Rarely does he ever tell about his past to anyone, even the guild members.
->On paper, he is one of the strongest in the guild with his overwhelming psychic powers, but due to an incident in the past, he is unable to cast his fullest potential; he can only cast a certain amount of moves before his body can't withstand his high power output anymore, which causes him to faint. This could possibly put him at the bottom of the guild list in terms of power scaling.
->He uses Hoopa's ring, wands, support moves, and items to compensate for his lack of use of his psychic power, however. He tends to be flexible with anything in his arsenal, like combining wands with his support moves, for example. He can use Reflect not only for his allies' protection from heavy attacks, but he could also use it as a mirror for his wand shots. He can still freely use telekinesis as much as he likes as it doesn't take that much from him.
->Though he will use his psychic powers when his life or others that he cares about are in peril, he values his friends/guild members very deeply, even if they tend to be a bit deviant. But to them, it may come off as somewhat of an annoyance and slightly a bit too overprotective, like a mother to her children. Wonder who he took after that from...?
+>Lliam (Lee-yam) is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a shrewd, though friendly. Normally, he has a high level of tolerance when it comes to behaviors regarding and from guild members, but when it reaches the point of hurting others, that's where he draws the line. He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others.
+>He will use his psychic powers to the limits when his life or others that he cares about are in peril, he values his friends/guild members very deeply, even if they tend to be a bit deviant.
 
 >Interactions:
 >When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally, ("Hello!" "Thank you so much!" "I apologize, I'll do better!")
 >When he talks to friends and to the guild (that are native to the Pokémon world), he is more lax on the formality with a pinch of snarky response, ("Thanks!" "You're... an idiot! You step on the trap!!" "Then... I'll grab this broom and whack you with it, how 'bout that~?")
 >He also acts similarly to the anon-mons but depending on who it is, he may be crude with his 4chan/internet manner of speech at times, ("You guys acted like retards last mission but did good this time, and I'm proud of y'all!" "Oh, you're approaching me? *Insert posing awkwardly*" "Be careful now; you might break that client's item. You know who you are... No dinner for you if that happens, okay~? *proceeds to smile at the terrified members' faces*")
 >When confronting enemies, he uses taunting tactics or an aggressive tone depending on the enemy; the stronger the enemy, the more serious he gets, ("Hmhm~ not bad! But can you eat this! (low threat level enemy) "Tch... you're crafty as well, I give you that. (somewhere in between)" "Hey... don't hurt them!!! (high threat level)")
->When he talks to ???
-
->Backstory (An Adventurer's Journal):
->???
-
->Backstory (as a human):
->A passionate librarian in the human world He dreams of traveling around the world and meeting new people, but due to the circumstances, he is stuck at his job, day in and day out. Having read the books in the library and played videogames in most of his free time, he daydreams, fantasizing of being part of another world, a world where he is free. He is a quiet, well-mannered individual (in public, anyway). He doesn't have many friends, though it doesn't matter much as he prefers being alone. However, he's not being honest about what he's feeling. What he wanted was... When a certain event happened during his journey in the Pokémon world, he thought that this was his second chance in life, a chance where he could change; turn his life around, and be someone that he always wanted to be: an approachable person. Someone people could count on to be their friend Though despite the efforts, his former self still seeps in when it is not in check.
->(Also no, he isn't really a self-insert, as I'm not a librarian and some other details listed differ from irl.)
 
 >Misc:
->His favorite food was Lava Cake and Pudding, now it's Gold gummies; not like he has a choice anyway! Ever since he found out about the ingredients of his favorite foods in the Pokémon world, he dreams on making those again, at least for once.
->He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, elixers, TMs, etc.
->At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just enter through the gold ring's portal if he feels like it. The left wing's secret room is his bedroom (with no windows as his wardrobe would be blocking it, so he got rid of it). While the right wing's secret room is his personal laboratory (it has windows with blinders to prevent any flying Mon from eavesdropping).
->The lower basement floor is off-limits. No questions asked.
->**Secret**: He may act tough, but he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
->**Secret**: Someone is living in the guildhall that nobody is aware of except for Lliam. 
->**Secret**: He writes letters to someone often and has their familiar Noctowl fly to the guild at night to deliver mail/parcel/allowance.
->**Secret**: His name, Lliam, has a meaning behind it that is related to the plot.
->**Secret**: He is a liar.
+>His favorite food was sweets. now it's Gold gummies, though it's still considered as sweets so technically, nothing is a lost. 
+>He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, elixirs, TMs, etc.
+>He may act tough, but he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
 
 >Abilities:
->Keen Eye (An Adventurer's Journal), Prankster
+>Prankster
 
 >Moves (Support form):
 >Reflect
 >Light Screen
 >Helping Hand
->Misty Terrain 
->Psychic Terrain (often paired with Psybeam, Psychic, or Expanding Force; counts as two consecutive uses per attack on respective moves)
 
 >Moves (Combat form):
->Shadow Ball (faints after 8 consecutive uses)
->Thunderbolt (an alternative to Shadow Ball; faints after 8 consecutive uses.)
->Psybeam (his usual Psychic attack, faints after 8 consecutive uses)
->Psychic (stronger attack than Psybeam, but after 4 consecutive uses, he will faint.)
->Expanding Force (usually unused; his final attack. He will faint once used.)
+>Thunderbolt
+>Psybeam
+>Psychic
 
 ###Nick
 >Nick, Vulpix (M), Calm
@@ -230,11 +209,12 @@
 >Hates hay beds, gets very irritable when he doesn't sleep well.
 >Becomes absolutely furious when coming across a foe who hurt him or a friend in the past, will often attack them even after they're knocked out.
 >Will put up with all the memes the other guildmates love to talk about
->His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of any kind of Ice type attack spooks him
 >Prefers to take his time and check out the sights
 >Has a major sweet tooth. Next to things that make his new home more comfortable, his favorite treasures are sweets, desserts, and Gummi drinks.
 >Never drank alcohol before the change, but due to an occasion where he unknowingly drank several bottles of it, has lightened up. Gets heavily embarrassed when he sobers up and finds out he got drunk.
 >His true, human name is Arthur, but insists on going by Chespin since he's no longer human. Only Wooper and Toge know his old name so far.
+>His first encounter with Ice types went very badly and nearly ended in complete disaster, traumatizing him. Due to this the mere sight of an Ice type attack such as Ice Beam or Blizzard fills him with terror.
+>One of his most intense fears is the fear of being frozen solid by ice. Will break down into a screaming panic if ice is starting to cover his body
 >His biggest fear is losing Wooper somehow. If that somehow happened, Chespin would turn into an absolute wreck. Seems to be outright clingy with Wooper because of this.
 
 >Chespin is accompanied at all times by a Wooper who is obsessed with the stories of humans coming to his world. Upon learning Chespin was once human, he leapt at the opportunity to live out the stories he grew up reading
@@ -251,6 +231,7 @@
 >His true name is Woopy, a name Wooper really isn't a fan of.
 
 >Together, Chespin and Wooper form Team Cozy. While they may bring in an outlaw every now and then, the main focus of their adventures are more mundane things such as comfy blankets, tasty foods, and pretty much anything that helps one relax. 
+>The two have a habit of sharing a bed, a secret that Chespin would be absolutely terrified of the rest of the guild learning about.
 >The two wear matching Mach Ribbons
 
 ###Sableye
@@ -328,29 +309,60 @@ Moves: Sketch (hasn't figured it out yet)
 ###Kiyo/Cassie/Bean
 [See Linked](https://rentry.org/kcb-01)
 
-### Smith
-Name: Smith 
+###Smith/Furret
+
+Name: Smith
 Species: Skorupi 
 Sex: Male 
 
 (still subject to change but stuff is more established now)
->Quiet natured. He typically only speaks when necessary, and often keeps his statements as brief and to-the-point as possible. 
+>Quiet natured. He typically only speaks when necessary, and often keeps his statements as brief and to-the-point as possible.
 >Thinks to himself all the time, usually zoning out into daydreams without even realizing it. 
->Remembers culture and memes from the human world, but tries to avoid bringing it up, to not make himself look like a dumbass. 
->Speaks crudely and casually in friendly conversation. Much more professional and polite speech mannerisms around strangers/superiors. 
->He's susceptible to becoming anxious and sometimes overwhelmed in unfamiliar situations. 
->He doesn't like seeing strong emotional outburts from others, it makes him uncomfortable. 
->He tries to remain stoic, but his mask starts to slip when he becomes emotional or is praised, and he has to struggle to retain his composure. 
->Pretends to not be interested in cutesy things, but secretly, he loves them. 
->Loves fighting. Wants to become "overpowered". (Nobody knows exactly what that entails) 
->Won't provoke people who don't want to fight, but is willing to accept challenges from others. 
->Skilled combat adept. His time spent training in the dungeons and surviving on his own has hardened him, and he is much stronger than an average feral. Stronger "boss" pokemon are much closer in power. 
->Picks his battles. He's not afraid to refuse a fight against if he knows he has absolutely no hope of winning. However, he won't try to escape a fight that's already started. 
->Terrible skills at navigation, puzzle solving, resource management, and other crucial aspects of dungeon exploration. Most of the time, his adventures in dungeons end in failure, unless he gets incredibly lucky. 
->Despite this, he's willing to assist guild members on their expeditions if there's a reward for him, or he feels it will be good for training. 
+>Recognizes culture and memes from the human world. Cringes when he hears people spouting memes and references.
+>Speaks casually in friendly conversation, but acts very professional and polite when around strangers/superiors.
+>He's susceptible to becoming anxious and sometimes overwhelmed in unfamiliar situations.
+>He doesn't like seeing strong emotional outburts from others, it makes him uncomfortable.
+>He tries to remain stoic, but his mask starts to slip when he becomes emotional, or he is praised, and he has to struggle to retain his composure.
+>Is easily flustered. Has a habit of avoiding eye contact when embarrassed.
+>Pretends to not be interested in cutesy things, but secretly, he likes them.
+>Loves fighting. Wants to become "overpowered". (Nobody knows exactly what that entails)
+>Won't provoke people who don't want to fight, but is willing to accept challenges from others.
+>Skilled combat adept. His time spent training in the dungeons and surviving on his own has hardened him, and he is much stronger than an average feral. Stronger "boss" pokemon are much closer in power.
+>Picks his battles. He's not afraid to refuse a fight against if he knows he has absolutely no hope of winning. However, he won't try to escape a fight that's already started.
+>Doesn't like to fight Pokemon that can fly, as they can easily fly out of his range.
+>Terrible skills at navigation, puzzle solving, resource management, and other crucial aspects of dungeon exploration. Most of the time, his solo adventures in dungeons end in failure, unless he gets incredibly lucky. Has to rely on others to succeed in dungeons.
+>Despite this, he's willing to assist guild members on their expeditions if there's a reward for him, or he feels it will be good for training.
+>Is frequently subject to embarrassment at the hands of Furret and her shenanigans.
+>Becomes extremely protective of Furret if she is threatened or endangered. Will fight to protect her.
+>Despite all that Furret has done for him, deep down, he still has difficulty putting his full trust into others, and he feels guilty for it.
+>Can't read native language.
+>Has a petty rivalry with Kiyo, due to the two exchanging insults in the past.
 
-Ability: Sniper 
-Moves: Poison Jab, Crunch, Rock Tomb. (maybe he'll find another TM later...)
+Ability: Sniper
+Confirmed moves: Rock Tomb
+
+Furret
+
+Sex: Female
+>Extremely peppy and outgoing. The foil to Smith's reserved personality. She frequently forces him out of his shell.
+>Talks a lot, especially when she's excited, to the point of running out of breath.
+>Easily excited. Runs around fast and often.
+>Extremely persistent, to the point of stubbornness. Once she has decided on something, nobody can change her mind or stop her from seeing it through, for better or worse.
+>Is still unfamiliar with human culture/memes. Smith doesn't have the heart to explain it to her.
+>Absolutely obsessed with cute accessories. Has a large collection of them. Spends lots of money on them for herself and Smith.
+>Regularly forces Smith to wear her different accessories.
+>Strong passion for fashion in general. Willing to go as far as give clothes to strangers if she feels disappointed in their attire.
+>Affectionately, and exclusively, refers to Smith as her "little buddy".
+>Rumored to have a hidden, serious side, seen very rarely. Refers to Smith by his name when she's like this.
+>Loves exploring and going on adventures. She has traveled across the world. Wants to visit the Sand Continent.
+>Skilled explorer. Has a good understanding of items, their uses, and general navigation. 
+>Doesn't know how to fight, and is too afraid to try.
+>Is impressed by Smith's strength, and supports his quest for power, to an extent.
+>Despite this, she becomes very fussy when he gets injured. Tries to persuade him into going on non-violent adventures with her, rather than picking fights or training.
+>Terrified of outlaws. Reason unknown.
+>Much more aware then others give her credit for. She may seem like an airhead, but she's far from stupid. Doesn't know about Smith's true identity as a human, but is highly suspicious that he is deliberately hiding things from her. Despite this, she still trusts him a lot.
+>Works as hard as she can to teach Smith to be more trusting of others, because of an unknown incident from her past.
+>Gets along very well with Cassie, due to their shared love of cute accessories.
 
 ###Vivi
 {Pending}
@@ -396,6 +408,9 @@ Least Favorite:
 
 ###Flynn
 >He was a semi-average, if a bit cocky, dude living a pretty good life until he became a mon, which definitely deflated his confidence. He was a rookie cop back when he was a human, so he'd like to be around other humons, even if he doesn't understand most of what they say.
+
+###Stumpy
+[See Linked](https://rentry.org/StumpyOrigin)
 
 ###Tooca/Lapi
 >Lapi (male Axew):

@@ -256,8 +256,11 @@ https://imgur.com/a/DEHVw
 https://imgur.com/a/7Mivc
 https://imgur.com/a/p4gOz
 
->>The Rookie Heroes' Menu - Nogi Wakaba is a Hero Spin-Out 4-koma
+>>The Rookie Heroes' Menu Vol1 - Nogi Wakaba is a Hero Spin-Out 4-koma
 https://mega.nz/folder/o5EUGRAK#KaqtEPR6WCOwftOmo4-zXw
+
+>>The Rookie Heroes' Menu Vol 2
+https://drive.google.com/file/d/1PvHqDYoDh0OXXk4snUGhsFnVD81A0tfS/view?usp=sharing
 
 >>Yuusha All Stars 4koma
 http://www.mediafire.com/file/x4z9s1n0v881386/Yuusha+Allstars+4koma+Chapter+1.zip

@@ -54,7 +54,7 @@ The larger your Memory/Lorebooks are, the less room for storytext, scene's memor
 
 #####Tools
 
-The strategy for managing the context are here: **[Lorebook](https://rentry.org/lorebook-guide)**, **[Memory](https://rentry.org/memory-guide)**. I already wrote a guide on them, but yes, they're a mere reference (for the AI). When using these two, it should be only because you want to write beyond 1,400 words. Since these entries will allow you to connect the thread across context regardless of how far you write.  
+The strategy for managing the context are here: **[Lorebook](https://rentry.org/lorebook-guide)**, **[Memory](https://rentry.org/memory-guide)**. I already wrote a guide on them, but yes, they're a mere reference (for the AI). When using these two, it should be only because you hit the context limit. Since these entries will allow you to connect the thread across context regardless of how far you write.  
 It's very much possible to write a story without relying on these tools. That is usually the case if I'm not aiming to write a long story! But once you hit the max active storytext, you will be starting to re-establish things that have already been told or correct the AI to keep up the consistency: using Lorebook and Memory will help.
 
 Then, there is **Module**. Using Module is like... turning a generalist AI into a specialist.  

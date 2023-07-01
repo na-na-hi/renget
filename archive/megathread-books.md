@@ -87,6 +87,11 @@
 - Free PDF and interactive e-magazines on a variety of subjects, including travel, cuisine, gardening, and photography.
 - [URL Safety Results](https://www.urlvoid.com/scan/magazinelib.com/)
 
+### 🔗 [Musopen](https://musopen.org/)
+- Distribution of music scores, publications, and recordings without copyright limitations.
+- While downloading recordings requires an account, sheet music does not.
+- [URL Safety Results](https://www.urlvoid.com/scan/musopen.org/)
+
 ### 🔗 [OceanofPDF](https://oceanofpdf.com/)
 - Right here, you may get knowledge and information that are freely accessible to everyone.
 - [URL Safety Results](https://www.urlvoid.com/scan/oceanofpdf.com/)

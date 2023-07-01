@@ -7,28 +7,31 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Mario Golf Super Rush out currently
-「!」 WarioWare Get It Together out currently
-「!」 Mario Party Superstars out currently
-「!」 Mario Kart 8 Deluxe - Booster Course Pass first, second & third wave out currently
-「!」 Mario Strikers Battle League out currently
-「!」 Mario + Rabbids: Sparks of Hope out currently
+「!」 Mario Kart 8 Deluxe - Booster Course Pass Wave 1, 2, 3 & 4 out currently
 「!」 SUPER NINTENDO WORLD has officially opened in Hollywood
 「!」 Super Mario Brothers movie has officially released
 
 Future Release Dates:
-「!」 Mario Kart 8 Deluxe - Booster Course Pass 5 & 6 releases in 2023.
+「!」 Mario Kart 8 Deluxe - Booster Course Pass 5 & 6 releases in 2023
+「!」 Super Mario Bros WONDER releases on October 20th, 2023
+「!」 WarioWare Move It releases on November 3rd, 2023
+「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
-「!」First Look at RAYMAN in Mario + Rabbids Sparks of Hope!
-https://www.youtube.com/watch?v=fFoLPAUaL5Q
-「!」Mario + Rabbids: Sparks of Hope 2nd DLC "The Last Spark Hunter" Teaser Trailer 
-https://twitter.com/MarioRabbids/status/1661039474443186178
-「!」LEGO Donkey Kong, Cranky Kong, Diddy Kong, Dixie Kong, & Funky Kong Sets
-https://twitter.com/LEGO_Group/status/1651949484564201473
-「!」MARIO MOVIE IS OUT IN THEATERS, along with impressions, Reviews and legit spoilers
-「!」Super Mario Bros Movie Posters/Trailers FINAL Recap
-https://rentry.org/3sgat
+「!」New 2D Mario - Super Mario Bros WONDER Revealed
+https://www.youtube.com/watch?v=JStAYvbeSHc
+「!」WarioWare Move It! Revealed
+https://www.youtube.com/watch?v=z4kkqicAeG0
+「!」Petey Piranha, Wiggler & Kamek are coming to Mario Kart 8 Deluxe
+https://www.youtube.com/watch?v=1Qo6afYUo_w
+「!」Mario + Rabbids: Sparks of Hope: The Last Spark Hunter DLC Trailer 
+https://www.youtube.com/watch?v=pt6x7TwvqOk
+「!」Luigi's Mansion Dark Moon for Switch Revealed
+https://www.youtube.com/watch?v=wRhmJD8oRV0
+「!」A New Princess Peach Game Revealed
+https://www.youtube.com/watch?v=PexAdb7oCLc
+「!」Super Mario RPG Remake Revealed
+https://www.youtube.com/watch?v=0r5PJx7rlds
 
 ----
 

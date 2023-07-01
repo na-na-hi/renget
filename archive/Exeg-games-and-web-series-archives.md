@@ -13,6 +13,7 @@ SCP: Fragmented mind | [PRESS START](https://store.steampowered.com/app/1184790/
 SCP: Secret Laboratory | [PRESS START](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
 SCP-432 | [PRESS START](https://archive.org/details/scp-432-skymidnight)
 SCP-087-B | [PRESS START](https://www.scpcbgame.com/scp-087-b.html)
+SCP Observer | [PRESS START](https://store.steampowered.com/app/1738710/SCP_Observer/)
 Slender: The Eight Pages | [PRESS START](https://slendergames.wordpress.com/2014/04/27/mf-link-slender-the-eight-pages-all-version/)
 Slender's Shadow | [PRESS START](https://marcsteene.itch.io/slendermans-shadow)
 Stop It Slender (GMOD Required) | [PRESS START](https://steamcommunity.com/sharedfiles/filedetails/?id=171728689)
@@ -20,9 +21,10 @@ Slender: The Arrival | [PRESS START](https://www.slenderarrival.com)
 Slendytubbies | [Classic,](https://files.catbox.moe/yx2ew1.rar) [#2,](http://zeoworks.com/games/Slendytubbies2.html) [#2D,](http://zeoworks.com/games/Slendytubbies2D.html) [#3,](http://zeoworks.com/games/Slendytubbies3.html) [#3DLC,](http://zeoworks.com/games/Slendytubbies3C4.html) [Worlds](https://zeoworks.com/games/SlendytubbiesWorlds.html)
 Pokémon: Cursed Black | [PRESS START](https://www.mediafire.com/file/lld8vxtjdhi3z07/Pok%25C3%25A9mon_Cursed_Black_Release_1.0.zip/file)
 Re:Lost Silver | [PRESS START](https://www.mediafire.com/file/6eaygo0wqet0af5/ReLostSilver_1.3.3.zip/file) [(Dev blog)](https://tohjofalls.net/)
+Pokemon Lost silver v1 | [PRESS START](https://archive.org/details/pokemon-lost-silver-v-1)
 Q* Bert Arcade | [PRESS START](https://gamejolt.com/games/hilbert/770953)
 LEFT BEHIND: Mario Creepypasta Game | [PRESS START](https://gamejolt.com/games/LEFT-BEHIND/684380)
-Treasure Island | [#1,](https://gamejolt.com/games/treasureislandofficial/222994) [#2,](https://gamejolt.com/games/crucis_mortem/769410) [#BDAY,](https://gamejolt.com/games/fnatianniversary/510774) [Old Builds](https://gamejolt.com/games/old-fnati/507403)
+Treasure Island | [#1,](https://gamejolt.com/games/treasureislandofficial/222994) [#2,](https://gamejolt.com/games/OblitusCasa/356260) [#BDAY,](https://gamejolt.com/games/fnatianniversary/510774) [Old Builds](https://gamejolt.com/games/old-fnati/507403)
 The Shepherd's Game (Prologue) | [PRESS START](https://www.dropbox.com/s/6sic8iv1uxna4xq/The_Shepherd_Game%20(Windows).zip?dl=0)
 Alternate Watch | [PRESS START](https://tesseron.itch.io/alternate-watch)
 Lethal Omen | [PRESS START](https://alpine-arts.itch.io/lethal-omen)
@@ -30,20 +32,27 @@ Cave Crawler | [PRESS START](https://store.steampowered.com/app/2282480/Cave_Cra
 Mario and the music box | [PRESS START](https://ari-games.com/downloads.html)
 Misfortune .gb | [PRESS START](https://misfortune-dot-gb.webs.com/game-download)
 The Theater | [PRESS START](https://newa-studios.itch.io/thetheater)
+The midnight game | [PRESS START](https://www.indiedb.com/games/the-midnight-game)
 Luna Game (warning, GR15) | [PRESS START](https://archive.org/download/LunaGame)
 Escape from lavender town | [PRESS START](https://adriendittrick.itch.io/eflt)
 Giftscop | [PRESS START](https://giftscop.com/)
+The uncle who works for nintendo | [PRESS START](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
+creepypasta land | [PRESS START](https://gamejolt.com/games/creepypasta-land/40233)
+POLYBIUS | [PRESS START](https://store.steampowered.com/app/906120/POLYBIUS/)
 
 ##.exe Games
 Games List | Links
 ------ | ------
 Sonic.exe (MY5TCrimson) | [PRESS START](https://gamejolt.com/games/sonic-exe-the-game/16239)
+Sunky.MPEG | [PRESS START](https://gamejolt.com/games/sunky-mpeg/78243) 
 Sally.exe (MY5TCrimson) | [PRESS START](https://gamejolt.com/games/sally-exe-the-game/20920)
+Silly.TIFF | [PRESS START](https://gamejolt.com/games/silly-tiff/78244)
 Rouge.exe | [PRESS START](https://gamejolt.com/games/rouge-exe/164505)
 DigDug.exe | [PRESS START](https://gamejolt.com/games/DigDugexe/712475)
 Sonic.exe: Nightmare Series | [NB,](https://gamejolt.com/games/sonic-exe-nightmare-beginning/229832) [EOT,](https://gamejolt.com/games/SallyTitle_QuickLS_/258884) [FN,](https://gamejolt.com/games/UIM_JKP_3_O/562651) [NB-Remake](https://gamejolt.com/games/NBR_UIM/516580)
 Sonic.exe: The Spirits of Hell | [R1,](https://gamejolt.com/games/SonicExeTSOH/306847) [R2](https://gamejolt.com/games/SonicExeTSOH2/376138)
-Sonic PC | [Original,](https://www.mediafire.com/file/x4d0cssi6k256nx/sonic-pcport-patch.exe/file) [Remake](https://gamejolt.com/games/PCPORTREMAKE/527553)
+Sonic PC port | [Original,](https://www.mediafire.com/file/x4d0cssi6k256nx/sonic-pcport-patch.exe/file) [Remake](https://gamejolt.com/games/PCPORTREMAKE/527553)
+Sunky the PC PORT | [PRESS START](https://gamejolt.com/games/sunky-the-pc-port/680198)
 Sonic2.exe | [#1,](https://gamejolt.com/games/sonic2-exe-the-game/21631) [#2,](https://gamejolt.com/games/sunshine-exe-sonic2-exe-part-ii-the-game/22071) [#3](https://gamejolt.com/games/insanity-exe-sonic2-exe-part-iii-the-game-full-version/23138)
 Mario '85 | [PRESS START](https://gamejolt.com/games/lucas/667036)
 Sonic Editable Rom | [PRESS START](https://gamejolt.com/games/soniceditablerom/670220)
@@ -54,6 +63,9 @@ MILES.eps | [PRESS START](https://gamejolt.com/games/miles_eps/769114)
 The Metal Sonic Apparation | [PRESS START](https://gamejolt.com/games/MetalSonicApparation/642830)
 Crucis Mortem | [PRESS START](https://gamejolt.com/games/crucis_mortem/769410)
 SONIC 2011 | [PRESS START](https://gamejolt.com/games/sonic/783884)
+Nintendo.exe | [PRESS START](https://gamejolt.com/games/nintendoexe/245013)
+kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
+SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
 
 ##Mods/ROM Hacks/Wads
 Mods List | Links
@@ -68,6 +80,7 @@ An Ordinary Sonic ROM Hack | [PRESS START](https://shc-dist.lostsig.co/downloads
 Sonic.exe Generations, Part 1 | [PRESS START](https://gamebanana.com/mods/363428)
 Sonic.exe Mania: Abyss | [PRESS START](https://gamebanana.com/mods/47966)
 Call of Cthulhu | [PRESS START](http://smwdb.me/db/a/a0a9d007669c8b674162dad58e02b12e1720b528/)
+Pokemon Black | [PRESS START](https://www.romhacking.net/hacks/4577)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Web Series/ARGs
@@ -130,7 +143,7 @@ Future Refused 2 Change | [WATCH](https://www.youtube.com/@FutureRefused2Change/
 Coyote is Awesome | [WATCH](https://www.youtube.com/@CoyoteIsAwesome)
 Paranormal Investigation | [WATCH](https://www.youtube.com/@smartsy1)
 Sword and Legend | [WATCH](https://www.deviantart.com/ladymasquerade/gallery/37300110/swordandlegend)
-
+Slenderman files | [READ](https://web.archive.org/web/20221130104717/http://www.slendermanfiles.org/home/)
 
 
 

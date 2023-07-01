@@ -1,11 +1,11 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/EZYp1L9.jpg)
-Saturn Edition
+![suggested OP image](https://files.catbox.moe/96pa4k.jpg)
+Harvest Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>433681208
+Last thread: >>435336087
  
-\>READ FIRST: https://i.imgur.com/yQjnzN3.png
+\>READ FIRST: https://i.imgur.com/epzXM2T.png
 
 ▶Ways to Write
 NovelAI — Paid; remote SaaS: https://novelai.net
@@ -15,12 +15,6 @@ Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runp
 LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
 Saga  — Free; remote (use J2) https://app.sagarpg.io
 
-▶Tools & Resources
-Wiki: https://aids.miraheze.org/wiki/Main_Page
-Booru: https://booru.plus/+aids
-NAI Cardmaker: https://grotar00.itch.io/nai-card-editor
-Prompts: https://aetherroom.club
-
 ▶Other AI
 Abandon AI Dungeon! https://rentry.org/remember-what-they-took-from-you
 Chatshit: https://rentry.org/chataids
@@ -29,21 +23,27 @@ Avoid: CharacterAI, Dreamily, OpenAI, Paperspace, Pirr, Sudowrite
 For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 
 ▶https://rentry.org/aids-op
- 
-▶News
-\>(06/14) Saga gets STABLE LM! >>433695017 >>433696130
-(06/13) Turbo gets 16k Context but tightens smut filters https://openai.com/blog/function-calling-and-other-api-updates
-(06/11) Hidden Door announced at PC Gaming Show; corpo art galore https://www.hiddendoor.co/
-(06/06) Clio drops for all tiers; poorfags try Clio trial, unalive themselves.
-(06/05) Kek https://emad.posthaven.com/on-setting-the-record-straight ; https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration
 
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Theme suggestions for next week are being voted on! https://youpoll.me/103131
+Post-Apocalypse Friday is over; enjoy the wastewild anchors! >>434846938 >>434876770
+ 
+▶News
+(06/20) Saga takes testers for GPT-4 and Turbo 16k (?)
+(06/19) Venus/Chub launches a 40b Falcon finetune subscription https://venus.chub.ai/mars
+(06/18) UPDATE: Miraheze might not die? https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down
+(06/16) Scale Endpoint Moderation disabled, standard OAI rules apply.
+(06/13) Turbo gets 16k context, tightens smut filters https://openai.com/blog/function-calling-and-other-api-updates
+
+▶Tools & Resources
+Wiki: https://aids.miraheze.org/wiki/Main_Page
+Booru: https://booru.plus/+aids
+NAI Cardmaker: https://grotar00.itch.io/nai-card-editor
+Prompts: https://aetherroom.club
 
 
-##Perma-Template
+#Perma-Template
 
 [X] Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
@@ -82,10 +82,12 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Theme Events: https://aidsrentfree.github.io/fridaids
-`[Y] Friday is over. Weekly theme suggestions are being taken! Last anchor: >>X`
+`[Y] Friday is over. Weekly theme suggestions are being taken! >>X last_suggestion_anchor`
 OR
 `Write prompts about next/this week's theme, [Y] Friday!`
 OR
-`Today is [Y] Friday! Reply to the anchorpost with your prompts: >>X.`
+`Today is [Y] Friday! Reply to the anchorpost with your *meme* prompts: >>X.`
+OR
+`[Y] Friday is over; enjoy the *meme* anchors! >>X >>X >>X`
 OR
 `[Y] Friday is over. Voting for the next theme has begun! (link to poll here)`

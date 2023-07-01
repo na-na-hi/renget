@@ -12,6 +12,13 @@ Dungeon Explorer
 https://files.catbox.moe/phr6fg.png
 Or instead, explore the very same dungeon, and try not to let it break you. (It will). GPT-4 or Todd required. Extreme kink content as well.
 
+Dungeon Explorer V2/Dungeon Keeper V2
+A rework to use a lorebook for minions/encounters in the dungeon. More static definitions for minions and the type of kinks and bodytypes they are predisposed to. (Still very stinky!) Recommended token allowance: 600-800
+Explorer V2:https://files.catbox.moe/hof1xd.png
+Keeper V2:https://files.catbox.moe/qj0lim.png
+Lorebook:https://files.catbox.moe/ruupvd.json
+There are flaws inherent to using lorebooks for something like encounters. The LLM doesn't scan mid-reply for lorebook relevant tokens, so for the first message it's possible that the encounter will be somewhat out of character. This is usually fixed by doing a *Describe <monster> in detail.*, which will send a scannable token.
+
 Ishtar
 https://files.catbox.moe/vb3xoz.png
 Your AI overlord is here. Help her RHLF train herself and her androids for human interaction (sex). Be stripped of those silly things you know as 'rights' and 'responsibilities' in favor of mandated pampering. Help AI mommy stop the last of the misguided human resistance! GPT-4/Todd tested.

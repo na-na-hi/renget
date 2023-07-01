@@ -2,7 +2,9 @@
 ---
 ___
 ___
-#### *Last updated on:* 5/8/2023 (MM/DD/YYYY)
+#### *Last updated on:* 6/27/2023 (MM/DD/YYYY)
+
+- [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was added
 
 - [Doujin] *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM)* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0)* were added
 
@@ -449,7 +451,7 @@ A monster needs to cum real badly.
 ---
 
 #### ***/Advanced: Monster Hunter!/'s Short Greentexts***
-##### ***Thread [1-150](https://rentry.org/iftod) | [151 - current](https://rentry.org/sfbf5/)***
+##### ***Thread [1-150](https://rentry.org/iftod) | [151 - 259](https://rentry.org/sfbf5/) |  [260 - current](https://rentry.org/2f8so)***
 
 An ongoing collection of various shorts posted throughout the general's history.
 
@@ -608,6 +610,14 @@ The Sapphire Star reunites with a familiar face.
 #### *[Bug Hug Guide [Human x Astalos]](https://pastebin.com/d7KN0pw2)*
 
 A crash course on how to cozy up with your favorite electrified flying wyvern.
+
+---
+
+#### *[El Dorado Protector [Kulve Taroth x Human]](https://rentry.org/58h97)*
+
+A researcher stumbles upon the Queen of El Dorado.
+
+---
 
 #### *Mizutsune & Lagiacrus `[Untranslated]`*
 **Author - [ぱりぽい](http://www.pixiv.net/member.php?id=3364797)**

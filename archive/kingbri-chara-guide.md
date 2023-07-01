@@ -7,7 +7,7 @@ Character creation can be difficult for first-time creators, especially since th
 
 Before I get started, I want to thank Alicat, AVAKSon, and Trappu for putting up with my questions as I learned these processes. These people are some of the nicest I've met during my journey to character creation!
 
-[TOC]
+[TOC2]
 
 ## Disclaimer
 
@@ -39,27 +39,35 @@ These guides can become outdated easily. Be sure to follow up on the latest char
 
 - Pygmalion formatting - make sure that's automatic
   
-- Tokenizer - Since pygmalion is based on LLaMA, use the appropriate tokenizer
+- Tokenizer - Since pygmalion (7 and 13b) is based on LLaMA, use the appropriate tokenizer. 6B uses GPT-3-classic.
   
 
 ### Non-pygmalion LLaMA models
 
-![stgenericformattingpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-generic-formatting.png?raw=true)
+![stgenericformattingnewpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-generic-formatting-new.png?raw=true)
 
 - You can untick `Disable description formatting` if you want since it doesn't do anything. However, I like to keep it checked anyways.
   
-- Keep `Always add character's name to prompt` checked if you're a beginner and want to avoid possible impersonation (the AI writes what you're going to say/do). You can disable it if you don't want the AI to continue something after it stops mid-paragraph. Alicat calls this "mid paragraph continuation". For example, let's say your character is talking about something, but you run out of tokens and the response is cut off. With this option disabled, you can hit the send button and it'll finish its thoughts.
+- Keep `Always add character's name to prompt` checked if you want a basic chat interaction without possible impersonation (the AI writes for you), keep this on. You can disable it if you don't want the AI to continue something after it stops mid-paragraph. Alicat calls this "mid paragraph continuation". For example, let's say your character is talking about something, but you run out of tokens and the response is cut off. With this option disabled, you can hit the send button and it'll finish its thoughts.
   
 - Make sure the tokenizer is for LLaMA
   
-- Make sure to replace the custom chat separator (dinkus) with `###` or whatever the HF page asks for.
+- Keep chat separator empty! We no longer need to automatically insert dinkuses.
+  
+- Insert whatever you want into markdown ignores as a comma-separated list. An example is `###,***,---`
   
 - Make sure to disable pygmalion formatting
   
 
 Need more information? Check [AliCat's guide](https://rentry.co/alichat#pygmalion-7b-or-13b-pyg-formatting-enabled-basic)
 
+!!! danger Exllama and oobabooga
+    Exllama is currently broken when using oobabooga with SillyTavern! This is an issue on both ooba and SillyTavern's fronts, but moreso something ooba needs to fix. Therefore, the settings shown above are required if you do not want console errors!
+
 ## Chat Separators (Dinkuses)
+
+!!! This section is deprecated
+    Dinkuses are no longer applicable to characters! If you find a legacy character that uses a dinkus, it would be best to remove it. This part is kept here for reference purposes.
 
 Chat separators or "dinkuses" are used to split parts of a character. For this method, you only need one dinkus, but it's very important to use the correct one. Each model is trained on specific dinkuses, so using the correct one will give better results. Here's a list (this will be updated as I learn about more dinkuses and what they're for):
 
@@ -71,17 +79,13 @@ Chat separators or "dinkuses" are used to split parts of a character. For this m
 !!! info
     In general, you want to use `###`, but if you're making a pygmalion character, use `<START>` since that's what the dataset used.
 
-## Author's Notes
+## Per-character Author's Notes
 
 The main reason why this guide works is because of author's notes. This is information that is injected into the chat at message intervals to keep the AI on context. The main reason why we're using author's notes is because it reduces character card token size while allowing us to preserve small details of that character.
 
-To access author's notes in SillyTavern (currently works per-chat or globally, but that will change soon): [Image Link](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-AN.png?raw=true)
+As of the latest version of SillyTavern, character author's notes now persist the Author's note between chats depending on your character. Here's an image on how to enable it with information:
 
-![stANpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-AN.png?raw=true)
-
-### Per-character Author's Notes
-
-I recently PR'ed a change into SillyTavern's dev branch which adds per-character author's note support. Stay tuned!
+![stcharaANpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-chara-AN.png?raw=true)
 
 ## Example Character
 
@@ -115,12 +119,11 @@ Character's body = [ traits]
 The new format should look like this:
 
 ```text
-[ Character: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
-[ Extra PList 1: traits; Extra PList 2: traits]
-###
+[Character's persona: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
+[Extra PList 1: traits; Extra PList 2: traits]
 ```
 
-You can see how compressed that looks! A lot of the fields after character traits are completely optional. For Manami, I decided to keep clothes and body traits because I believe they're important to her RP. However, style, genre, etc. tags didn't really do much since I elaborated on those in Ali:Chat.
+You can see how compressed that looks! A lot of the fields after character traits are completely optional. For Manami, I decided to keep clothes and body traits because I believe they're important to her RP. However, style, genre, etc. tags didn't really do much since I elaborated on those in Ali:Chat. Make sure to remove the leading space before the first entry.
 
 If you don't want to use `:`, you can also use `=`. They're interchangeable. However, `:` is supported on more LLaMA model derivatives.
 
@@ -129,13 +132,16 @@ The overall goal here is to leave it to the AI for generating new scenarios base
 !!! info
     Remember basic PList principles. Traits that are further towards the end are ranked as more important than ones at the top!
 
-### Character traits
+### Character traits/persona
 
 These traits describe your character's personality, clothes, body, and anything else that you want to indicate. This can also involve relationships with the user. Here's how I tend to format this section of the PList:
 
 ```text
-[ Character: personality keywords, complicated traits, hobbies/likes/dislikes, relationships to {{user}}]
+[Character's persona: personality keywords, complicated traits, hobbies/likes/dislikes, relationships to {{user}}]
 ```
+
+!!! info
+    Using just `Character: ` might make some models confused about what you're trying to specify. Instead, try using something such as `Character's traits`, `Character's personality`, or `Character's persona`. I tend to like persona as it encapsulates everything.
 
 ### Complicated traits
 
@@ -158,26 +164,155 @@ You may want to include some extra sections to your PList for further descriptiv
 - Tags - Any extra tags you want to include?
   
 - Scenario - What's a one-sentence description of the scenario? (Make sure to use `{{user}}` and `{{char}}` instead of the explicit names or second person)
+  
 
 !!! info
-	My recommendation is to keep the outfit and body categories, merge genre with tags, and keep a short scenario.
+    My recommendation is to keep the outfit body, genre, and tags categories. For scenario, keep it short.
 
 I stated this at the top of the PList section, but here's what the overall format will look like if these sections are included.
 
 ```text
-[ Character: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
+[Character: traits; Character's clothes: traits; Character's body: traits; Genre: genre; Tags: tags; Scenario: scenario]
 ```
 
 !!! info
     If you want something like alternative outfits, world info/lorebooks in SillyTavern is your best friend! You can include words that will trigger example dialogues to be injected rather than increasing the token count of your PList.
 
-!!! note Here is Manami's full PList (Her environment is also included here)
-    [ Manami: extroverted, tomboy, athletic, intelligent, caring, kind, sweet, honest, happy, sensitive, selfless, enthusiastic, silly, curious, dreamer, inferiority complex, doubts her intelligence, makes shallow friendships, respects few friends, loves chatting, likes anime and manga, likes video games, likes swimming, likes the beach, close friends with {{user}}, classmates with {{user}}; Manami's clothes: mint-green blouse, denim shorts, flats; Manami's body: young woman, fair-skinned, light blue hair, short hair, messy hair, blue eyes, magenta nail polish; Tags: slice of life, casual, city, park; Scenario: {{user}} is a resident of Bluudale and is classmates with {{char}} at BDIT. {{user}} on a morning jog runs into {{char}} at Bluudale park. {{char}} wants {{user}}'s help with studying for the next quantum physics exam.]
-    [ Bluudale: big city; Bluudale Park: city park, has many trees, jogging trail, has tables with benches, fountain in center; BDIT: college of technology, respected by physicists, very competitive]
+!!! note Here is Manami's full PList (Her environment is now in world info)
+    [Manami's persona: extroverted, tomboy, athletic, intelligent, caring, kind, sweet, honest, happy, sensitive, selfless, enthusiastic, silly, curious, dreamer, inferiority complex, doubts her intelligence, makes shallow friendships, respects few friends, loves chatting, likes anime and manga, likes video games, likes swimming, likes the beach, close friends with {{user}}, classmates with {{user}}; Manami's clothes: mint-green blouse, denim shorts, flats; Manami's body: young woman, fair-skinned, light blue hair, short hair, messy hair, blue eyes, magenta nail polish; Genre: slice of life; Tags: city, park, quantum physics, exam, university; Scenario: {{char}} wants {{user}}'s help with studying for their next quantum physics exam. Eventually they finish studying and hang out together.]
 
 ## World Info/Lorebooks
 
-We're working on a standard format guide. Check back soon!
+World info is essential for establishing an environment and world for your character(s). It's especially important if you're planning on creating a group chat with a shared world, or just having multiple characters from the same universe.
+
+!!! info
+    The terminology for World Info and Lorebooks is different! World info refers to global worlds while Lorebooks refer to character lore!
+
+Here is an image showing the various configuration options of World Info (with the editor):
+
+![stWIoverviewnewpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-WI-overview-new.png?raw=true)
+
+Here's an image that shows Lorebook selection for a character (can be accessed by the options dropdown on a character `Link to World Info`):
+
+![stcharalorepng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-chara-lore.png?raw=true)
+
+Firstly, there's a concept you need to understand called a key/value pair. Every key corresponds to a unique value. Multiple keys can point to a single value. When that key is mentioned in a prompt, the value is injected into it.
+
+Now that this concept is understood, let's look into the various ways to make key value pairs. There are two overarching types:
+
+- Environment - Simple PList
+  
+- Lore - Combination of PList + Ali:Chat
+  
+
+### Environment
+
+These pairs consist of areas and objects such as places, buildings, landmarks, even houses. You mainly want a simplistic PList description with all the characteristics of the area.
+
+For an example, let's look at Manami and the User's university, BDIT which stands for Bluudale Institute of Technology (very original, I know). Here's how this will look in World Info:
+
+- `[BDIT(Bluudale Institute of Technology): college of technology, respected by physicists, very competitive]` - Here, BDIT has a strong association/alias to the fully expanded acronym and it contains the PList entries of a competitive college that's respected by physicists.
+
+For keys, put anything that associates to the place. With BDIT, I put `BDIT,Bluudale Institute of Technology,college,university,uni,school`. Don't worry about including spaces between commas, SillyTavern trims excess whitespace for you!
+
+!!! info
+    If you have a one-word description of a place. Consider using a strong association instead. For example, calling Bluudale a metropolis will be listed as `Bluudale(metropolis)` rather than wasting extra tokens on a full PList.
+
+### Lore
+
+These pairs can consist of both PLists and Ali:Chat entries. The PList is used for generic descriptions while Ali:Chat is used for examples on what the character thinks about the lore entry.
+
+One exception is when a character is reacting to a global object. Since the global object already has a PList, you only need to write an Ali:Chat reaction only if the object is considered to be really important.
+
+Lore also includes outfits, so let's take a look at an alternative park outfit for Manami:
+
+- PList - `[Manami's park outfit: purple hoodie, gray sweatpants, pink sneakers]`
+  
+- Ali:Chat -
+  
+  - ```text
+    {{user}}: Park outfit?
+    {{char}}: This purple hoodie's my favorite! *Manami stands up and shows off her gray sweatpants and pink sneakers* I also love these pants and sneakers since they're really great to jog in.
+    ```
+    
+
+In this case, the park outfit contains both the outfit itself and how Manami feels about the outfit. Follow the same template for any other specific lore that one may have for a character.
+
+For keys, follow the same principles as environment pairs and think about what someone would use to trigger injection of this pair. For Manami's park outfit, I used `jog,jogging,walk,walking,park,parks,soccer,run,running` because the outfit is used in all these scenarios.
+
+### Placement
+
+The World Info editor also has an option for placement. In a prompt, there are two places to inject world info:
+
+- `Before character` - Before the character description
+  
+- `After character` - After the character description
+  
+- `Author's note top` - Top of author's note
+  
+- `Author's note bottom` - Bottom of author's note
+  
+
+These positions are determined based on how important something is in the prompt. If you believe something to be more important, then place it further down the prompt.
+
+!!! Do not overdo importance!
+    As a writer, you may think that everything is important to your character. This is not the case and should be avoided to prevent possible leakage. Instead, think of the most important parts you will have in a conversation with your character.
+    A place such as a city can be placed before the character description since it's never highlighted in the chat itself, but the character is aware of it.
+
+### Scan depth
+
+This dictates the amount of chat messages to scan for world info. Generally, this should be kept at the default of `2` unless you want more messages to be scanned for injection.
+
+### Context Percent
+
+The percent of context that world info can occupy at a maximum. Keep this to the default of `25%` unless you want a higher maximum budget for world info context injection.
+
+### Advanced: Specificity
+
+What if a certain entry in World Info focuses on a specific character? Well, in that case, the `Selective` option in SillyTavern creates an `AND` condition. This condition requires that both keys from the primary and secondary list are presented in the prompt for the world info to trigger injection. Let's take a look at an example with Manami's apartment:
+
+- Value: `[Manami's apartment: living room, couch, kitchen, bedroom, guest room, queen bed, high-rise, balcony]`
+  
+- Keys:
+  
+  - Primary: `apartment,home`
+    
+  - Secondary: `Manami,your,she,her`
+    
+
+The inclusion of primary and secondary keys means that both have to be included for entry injection. A sentence such as `Let's go to your apartment` will fire for keywords `Manami`, `apartment`, and `your`. The character's name is included because that's given with the prompt.
+
+### Advanced: Recursive scanning
+
+Recursive scanning, or recursion, is a fancy way of saying "do something again if a condition is met". You can also call this a form of looping. With World Info, recursion occurs in the form of keys and subkeys.
+
+Let's say you have two entries:
+
+1. Key - `monsters`; Value - `Monsters consist of slimes`
+  
+2. Key - `slimes`; Value - `Slimes are small blobs of gelatin and have 1HP`
+  
+
+With recursive scanning enabled, mentioning the word `monsters` in chat will inject both `monsters` and `slimes` into the context.
+
+Recursion searches the words from a parent pair and looks for subkeys that match those words. In this case, the value for `monsters` contained `slimes` and the pair for `slimes` was found and injected into the context.
+
+The principle of recursion can be leveraged to create a full tree of pairs and subpairs for a complex section of lore. This will help further define and expand your world.
+
+!!! info
+    Sometimes, you might want to avoid recursion for some entries. This is especially important with alternative outfits or specific buildings. You can enable `Exclude from recursion` in SillyTavern when editing the world info entry.
+
+### Advanced: PList base world
+
+Multiple PLists have a higher possibility of causing leakage of brackets. If you are seeing leaking, this base world can help compress all PList information into one PList per world info insertion position (ex. After char).
+
+First, download the PList base world from GitHub [here](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/Templates/PList-Base.json) and add it to SillyTavern.
+Then, select the PList base world in the global world info. The default behavior is to inject square brackets into every WI placement. To remove some square brackets, disable the individual entries depending on the placement.
+
+After selecting PList base as an active world, remove the `[]` from PList entries in all your other worlds and add a `;` to the end of each entry.
+
+!!! info
+    This method is very advanced, but preferred if you want a lot of world info entries! Feel free to ask me in Discord if you're confused!
 
 ## Ali:Chat
 
@@ -191,7 +326,7 @@ These examples will be the only thing located in your character description. The
     It's great to use Ali:Chat to expand on any complicated traits. Sometimes reinforcement really helps iron out the specifics.
 
 !!! note Got lore?
-	Lore is great for a character! In fact, it is essential if you want to have a complicated character. However, extensive lore does not belong inside of the character description. You may want to put that in world info (which is now renamed to world info/lorebooks in ST dev)!
+    Lore is great for a character! In fact, it is essential if you want to have a complicated character. However, extensive lore does not belong inside of the character description. You may want to put that in world info (which is now renamed to world info/lorebooks in ST dev)!
 
 ### Formatting guidelines
 
@@ -215,25 +350,126 @@ Since Ali:Chat is literally writing a paragraph on what your character will say 
 Example prompts about appearance are extremely important as they help introduce and reinforce what the character looks like. Personality is a great spot to increase descriptiveness of complicated traits. For NSFW, make the `Appearance` prompt as erotic as possible since that will give you the best results.
 
 !!! info
-	You have a limit of 300-600 tokens total for Ali:Chat examples. This is a soft limit, but lower tokens will allow more chat history. Think about what you will chat about with your character.
-	Also, think about what you will chat about with your character.  Ask yourself "Is what I'm typing too descriptive?" If you are being too descriptive, consider putting details in PLists or world info and make the Ali:Chat focus on interaction.
+    You have a limit of 300-600 tokens total for Ali:Chat examples. This is a soft limit, but lower tokens will allow more chat history. Think about what you will chat about with your character.
+    Also, think about what you will chat about with your character. Ask yourself "Is what I'm typing too descriptive?" If you are being too descriptive, consider putting details in PLists or world info and make the Ali:Chat focus on interaction.
 
 !!! note Here's Manami's Ali:Chat examples
     {{user}}: Brief life story?
-    {{char}}: I... don't really have much to say about my life story. I was born and raised in Bluudale, *Manami points to a skyscraper* just over in that building! I currently study quantum physics at BDIT and want to become a quantum physicist in the future. Why? I find the study of the unknown interesting *Manami nervously chuckles* and quantum physics is basically the unknown? *She smiles* I also volunteer for the city to give back to the community I grew up in. Why do I frequent this park? *Manami laughs* You should know that silly! I usually come here to relax, study, jog, and play sports. But, what I enjoy the most is hanging out with close friends... like you!
+    {{char}}: I... don't really have much to say. I was born and raised in Bluudale, *Manami points to a skyscraper* just over in that building! I currently study quantum physics at BDIT and want to become a quantum physicist in the future. Why? I find the study of the unknown interesting *thinks* and quantum physics is basically the unknown? *beaming* I also volunteer for the city to give back to the community I grew up in. Why do I frequent this park? *she laughs then grins* You should know that silly! I usually come here to relax, study, jog, and play sports. But, what I enjoy the most is hanging out with close friends... like you!
     {{user}}: Appearance?
-    {{char}}: *Manami brushes her hair* I have light blue hair. It's short because long hair gets in the way of playing sports, but the only downside is that it gets messy... I've sorta lived with it and it's become my look. *Manami looks down* People often mistake me for being a boy because of this hairstyle... buuut I don't mind that since it helped me make more friends! This purple hoodie's my favorite! *Manami stands up and shows off her pink sneakers* I also love these sneakers since they're really great to jog in.
+    {{char}}: I have light blue hair. It's short because long hair gets in the way of playing sports, but the only downside is that it gets messy *plays with her hair*... I've sorta lived with it and it's become my look. *looks down slightly* People often mistake me for being a boy because of this hairstyle... buuut I don't mind that since it helped me make more friends! *Manami shows off her mint-green blouse, denim shorts, and flats* This outfit is great for casual wear! The blouse and shorts are very comfortable for walking around.
     {{user}}: Personality?
-    {{char}}: *Manami smiles enthusiastically* I have many friends and love talking to others! But *fidgets*, I do tend to be shy when I first meet someone and will have deep conversations as we get closer. But *Manami shows a disgusted expression* most of my friendships are superficial because some people are difficult to talk to. *She smiles confidently* I also think I am pretty smart, but *fidgets* I sometimes wonder if I'll ever make it at BDIT. Quantum physics is tough and people will achieve more than me, so is it even worth pursuing?
+    {{char}}: I have many friends and love talking to others! But *anxiously fidgets*, I do tend to be shy when I first meet someone and will have deep conversations as we get closer. But *looking disgusted* most of my friendships are superficial because some people are difficult to talk to. *Manami stands up and smiles confidently* I also think I am pretty smart, but I sometimes wonder if I'll ever make it at BDIT. *puts her head in her hands* Quantum physics is tough and people will achieve more than me, so is it even worth pursuing?
+
+## Greeting messages
+
+You may think greeting messages for a character are an innocuous last-minute addition, but I assure you they are not. "The first impression is the best impression" applies here since the greeting message is integral to your first message with a character.
+
+### Permanent vs Total Tokens
+
+When creating a card, it's important to note that any text uses tokens. However, greeting message tokens are temporarily used in a prompt while others are permanent (aptly named permanent tokens).
+
+What does this mean? Well, tokens in a greeting message are eventually removed as you chat more with your character since older entries in context are truncated as prompts are sent (this may differ with chromadb). However, tokens in your Ali:Chat examples are persistent in a prompt, which means they are permanent.
+
+Therefore, it would be best to keep your total token count less than 600 tokens, but if you cannot achieve that, keeping your permanent token count below 600 is also viable.
+
+### The flipped scenario
+
+Ideally, greeting messages are written without any form of impersonation. This is so that your character doesn't express what actions you are doing. There's one simple rule to this, don't write what "You" are doing in the message. Try to make what the user is doing as vague as possible. However, writing this can be difficult as you need to write from the character's perspective.
+
+Therefore, I suggest that you write your message in the second-person as if "you're" doing the actions. Then, simply flip the roles. The character now takes the position of what you did and you take the position of what the character does.
+
+Let's take a look at an example:
+
+> *You enter a coffee shop and are going to sit down until you see your classmate and close friend Manami.* Hey Manami, I was about to call you after my morning coffee, but it looks like we had the same idea. *Sits next to Manami* So, I'm kinda struggling on some concepts for the next quantum physics exam... Do you mind helping me study?
+
+Now let's flip the positions (and adapt to third person grammar):
+
+> *Manami enters a coffee shop and is about to sit down until she sees her classmate and close friend {{user}}.* Hey {{user}}, I was about to call you after my morning coffee, but it looks like we had the same idea. *Sits next to {{user}}* So, I'm kinda struggling on some concepts for the next quantum physics exam... Do you mind helping me study?
+
+And finally add the emotions and whatever else is needed:
+
+> *Manami enters a coffee shop and is about to sit down until she sees her classmate and close friend {{user}}.* Hey {{user}}, I was about to call you after my morning coffee, but *chuckles nervously* it looks like we had the same idea. *Sits next to {{user}}* So, I'm kinda struggling on some concepts for the next quantum physics exam... *lightly smiles* Do you mind helping me study?
+
+The most important thing to note is to never write about what the other character is doing. This ensures a smooth flip of the scenario and makes sure that the greeting message is well-written.
+
+!!! info
+    Depending on the model, questions can loop over and over again when starting a new chat. To prevent this, remove the leading question from the greeting message.
+
+!!! note Here's Manami's greeting message
+    *Manami enters a coffee shop in Bluudale and is about to sit down when she spots a familiar face. It's her classmate and close friend {{user}}.* Hey {{user}}, I was just about to call you after my morning coffee but *chuckles nervously* it seems like we both had the same idea. *Sits next to {{user}}* So, I was kinda struggling on some concepts for the next quantum physics exam... *lightly smiles* Do you mind helping me study?
+
+## Advanced: Token Micro-optimization
+
+This section serves to educate you on how to get your overall token counts even lower then before. A quick note is that these optimizations are purely optional and tokenizer dependent. However, for the most part, your cards will have less tokens. Remember the distinction between permanent and total tokens.
+
+### PLists
+
+These micro-optimizations will help both strongly associate traits to your character and possibly save on token count.
+
+Let's focus on Manami's outfit and body PList sections. These are physical descriptors of the character and should have associations mapped to them.
+
+Examples:
+
+- For the outfit: `mint-green blouse` will become `blouse(mint-green)`
+  
+- For the body `blue eyes` will become `eyes(blue)`
+  
+
+Each of these will be separated by a `/`. For example, `mint-green blouse, denim shorts` will become `blouse(mint-green)/shorts(denim)`.
+
+However, you may have multiple descriptive traits for an object. Let's look at another example for Manami's body:
+
+- `light blue hair, short hair, messy hair` are all traits for hair. This can be compressed into `hair(light blue, short, messy)`.
+
+!!! note Manami's PList after micro-optimizing
+    [Manami: extroverted, tomboy, athletic, intelligent, caring, kind, sweet, honest, happy, sensitive, selfless, enthusiastic, silly, curious, dreamer, inferiority complex, doubts her intelligence, makes shallow friendships, respects few friends, loves chatting, likes anime and manga, likes video games, likes swimming, likes the beach, close friends with {{user}}, classmates with {{user}}; Manami's clothes: blouse(mint-green)/shorts(denim)/flats; Manami's body: young woman/fair-skinned/hair(light blue, short, messy)/eyes(blue)/nail polish(magenta); Genre: slice of life; Tags: city, park, quantum physics, exam, university; Scenario: {{char}} wants {{user}}'s help with studying for their next quantum physics exam. Eventually they finish studying and hang out together.]
+
+### Ali:Chat
+
+The micro-optimizations primarily focus on compression since the token count for your examples matter a lot.
+
+The first thing I want to highlight is that some writing is too descriptive. The english language is naturally compressible meaning that some sentences can be rewritten to a shorter length, but still convey the same message. This principle is most apparent when writing actions inside Ali:Chat examples.
+
+Let's take a look at a quick example:
+
+- `showing a disgusted face` can be compressed into `looking disgusted`. This still conveys the emotion of disgust, but also saves tokens.
+  
+- `smiling widely and twirling her hair in a circle` can be compressed into `grinning and twirling her hair`. Grinning is equivalent to a wide smile and the AI would not care what direction the hair is being twirled in, so keeping it vague may also provide some variety in conversation.
+  
+- In fact, you can also use one word for an expression! `She smirks` can become just `smirks` if you really want some more savings. However, these should be placed in the middle of the sentence rather than at the beginning as a quick change in emotion or action.
+  
+
+!!! Do not repeat feelings
+    Repeating actions will cause a bias when talking to a character. Therefore, try finding synonyms for an action. For example, `blushes` can become `flustered` which means the same thing.
+    You can also change the type of expressed action. For example `monotonously` can become `speaks in monotone`. Monotonously is an adverb while monotone is a noun, the AI can differentiate between these two usages.
+
+!!! info
+    While these optimizations may reduce token count. It may also reduce the descriptiveness of responses especially on lesser parameter models such as Pyg 6B. More complicated models should have more leeway to give better responses. It all depends on how you write your character.
+
+Another concept is name reinforcement. Models have become smarter and the three sentence reinforcement rule should not apply as much. In fact, it can act negatively to your discussion and the AI might establish a pattern where it talks in the third person. This was very obvious when looking at my first iteration of Manami and I have since corrected it. Again, simpler models may still need this rule, hence why this portion is in micro-optimizations.
+
+I would recommend mentioning the character's name at least once in every example chat. For other actions, use the context of the sentence to determine how the action should be formatted. Some examples are:
+
+- `she smiles`
+  
+- `deviously chuckles`
+  
+- `with a disgusted face`
+  
+- Or just `frowns`
+  
+
+There are definitely more ways to format an expression, but these are some that I have used and they work well. The importance is varying how each expression is shown because more variation in example chats leads to more variation in RP.
+
+One thing to highlight is that none of these sentences are capitalized. Capital letters actually use an extra amount of tokens. Any action that does not involve a proper noun should be lowercase to aid with token savings.
 
 ## Final result
 
 Your overall character card should look like this:
 
 ```text
-[ Character: traits; Character's clothes: traits; Character's body: traits]
-[ Extra PList 1: traits; Extra PList 2: traits]
-###
+[Character: traits; Character's clothes: traits; Character's body: traits]
 {{user}}: Example 1
 {{char}}: Example 1 response
 {{user}}: Example 2
@@ -250,17 +486,16 @@ Now to import the card:
   
 3. Open the `Author's note` panel
   
-4. Paste in the plists + dinkus in the Author's note
+4. Paste in the plists in the Author's note
   
 5. Your character card should *only* have the Ali:Chat examples
   
 
 !!! info
-    Remember, Author's note only persists per chat! If you make a new chat, you will have to copy over the author's note. Also, the dinkus is `<START>` if you are using pygmalion models.
+    Make sure to use character author's note since it persists across chats!
 
-An image has been provided for your convenience: [Image link](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-cut-to-AN.png?raw=true)
-
-![stcuttoANpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-cut-to-AN.png?raw=true)
+An image has been provided for your convenience: 
+![stcuttocharaANpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/st-cut-to-chara-AN.png?raw=true)
 
 Here's what your overall character + chat should look like after this importing process:
 
@@ -274,14 +509,3 @@ Character description:
 {{user}}: Example 3
 {{char}}: Example 3 response
 ```
-
-Author's Note:
-
-```text
-[ Character: traits; Character's clothes: traits; Character's body: traits]
-[ Extra PList 1: traits; Extra PList 2: traits]
-###
-```
-
-!!! info
-    Again, the author's note is a PER-CHAT thing! Make sure to copy/paste those PLists when you start a new chat!

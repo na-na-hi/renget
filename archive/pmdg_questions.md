@@ -8,7 +8,6 @@
 >Why do Pokemon choose to sleep on piles of hay? Are their bodies hardy enough that they don't mind the discomfort? Is it a traditional/cultural sort of thing?
 >How would you react if you encountered a feral member of your own species in a dungeon?
 >Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
->Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
 >If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
 >Is it common to travel across the world to different continents, or do most Pokemon stay on their home continent for their whole lives?
 >Are legendaries worshipped like gods?
@@ -24,10 +23,31 @@
 >How would native Pokemon react if you told them their whole world was just a video game? And would you choose to tell them that in the first place, or keep it a secret?
 >Do actual framed beds exist in this world, or does everyone sleep on piles of hay?
 >Do Ice-type Pokemon feel cold to the touch? And do they get chilly in cold weather or are they immune to low temperatures?
->Are Bug-type Pokemon super-strong, like how ants can lift many times their own weight? Or do they lack that sort of super strength, since they're not as small as IRL bugs?
+
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+
+>Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
+>At some mystery dungeons, there is money and treasure. Once they are claimed, do treasures "respawn" or "restock"? If not, where did it all come from in the first place, or were the items just warped from somewhere else?
+>Are Bug-type Pokemon super-strong, like how ants can lift many times their own weight? Or do they lack that sort of super strength, since they're not as small as IRL bugs?
+>What hobbies do Pokemon have that aren't dungeon exploring?
+
+>Ever considered recruiting 'em all?
+>Just how many Reviver Seeds do you burn through?
+>Favorite thing about your least favorite PMD?
+>Least favorite thing about your favorite PMD?
+
+>Ever attempt a level 1 dungeon?
+>Worst way you've ever died in a dungeon?
+>Favorite VANILLA starter duo?
+>Favorite CUSTOM starter duo?
+
+>Thoughts on Super Mystery Dungeon's Emeras? Good idea that adds an extra element of strategy, or bad idea that relies too much on luck?
+>Just how much do you spam Reviver Seeds?
+>What dungeons in the series have given you the most trouble? It could be simply difficult, or it could be a painful experience with recruitment.
+>Be honest, what did you think of the clover guild stuff when you first saw it? I'm not here to judge.
 
 >Favorite "niche" item? I'm talking stuff that isn't the common old Pure Seeds or Petrify Orbs
 >Favorite and LEAST favorite songs from the series?

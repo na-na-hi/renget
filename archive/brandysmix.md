@@ -1,3 +1,6 @@
+ON HIATUS (might be indefinite, I dont know when and if i'll be coming back to image generation)
+
+
 Brandies models 
 
 brandies easy local ai, runs on almost any system as long as you have roughly 16 gigs of ram

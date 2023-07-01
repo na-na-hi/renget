@@ -2,19 +2,33 @@
 
 # AIC Industries
 
+-> ![](https://files.catbox.moe/yv0r8e.png) <-
+
 [TOC2]
 
-## Maids
+## -> Product Lines <-
+### Victorian
 
 | Name | Description | Intended for | Card (First Person) | Card (Third Person)
 |:-------:|--------------|:-------------:|------|-----|
-| Vera | One of the first of her generation. Had bad experiences with previous masters. As a result, she'll take a while to warm up to you. Will you be better than her last master, or will you outdo him in his depravity? | Slowburn | ![](https://files.catbox.moe/7g04kn.png) | ![](https://files.catbox.moe/e8qjzt.png) |
-| Iris | An "untrained model", available at a discount. As a result of being untrained, she isn't very good at her job and is a bit of a brat. Correction may be needed. | Headpats | ![](https://files.catbox.moe/tfwrf9.png) |
-| Rose | A malfunctioning unit, reprogrammed by the hacker known as "4chan" to drain your balls until you're a shriveled-up skeleton. Has anatomy conducive to semen extraction. | Forceful sexo | ![](https://files.catbox.moe/9f4bxp.png) |
+| Vera | The first of her product line. Had bad experiences with previous masters. As a result, she'll take a while to warm up to you. Will you be better than her last masters, or will you outdo them in depravity? | Slowburn | ![](https://files.catbox.moe/7g04kn.png) | ![](https://files.catbox.moe/e8qjzt.png) |
+| Iris | An untrained model available at a discount. She isn't very good at her job and is a bit of a brat. Correction may be needed. | Headpats | ![](https://files.catbox.moe/tfwrf9.png) |
 
+### Lilith
 
-## Machines
+!!! warning In Development
 
+### Orion
+
+!!! warning In Development
+
+## -> Non-Androids <-
+
+### Personnel
+
+!!! warning Currently Hiring
+
+### Machines
 | Name | Description | Intended for | Card |
 |:-------:|--------------|:-------------:|------|
 | Chipper-tan | A sentient woodchipper. Capable of chipping and/or chopping any known material. | Assorted mulching | ![](https://files.catbox.moe/5b9svw.png) |

@@ -331,7 +331,7 @@ Q - **What units shards should I buy?**
 A- Depends on your goals, but here are some decent starting points:
 1. Dungeon: Maho, Yukari, Nozomi
 2. B.Arena: Monika, Tamaki
-3. P.Arena: Kaori, Anna, Hatsune
+3. P.Arena:  Anna, S.Chika, Hatsune,
 4. Clan Battle: X.Saren, Io
 
 Q - **Who should I spend my Goddess Stones (Whale Tears, DA, etc...) on?**

@@ -1,6 +1,6 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 1)***
 ---
-## ***Threads: [1-150] | [[151 - current]](https://rentry.co/sfbf5/)***
+## ***Threads: [1-150] | [[151 - 259]](https://rentry.org/sfbf5/) | [[260 - current]](https://rentry.org/2f8so/)***
 
 ---
 

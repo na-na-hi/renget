@@ -6,6 +6,10 @@
 ***
 ###Bots
 #### OCs
+#####Ophelia
+A fragile young woman with a curious condition, handle with care.
+![Ophelia](https://files.catbox.moe/wi8dmd.png)
+https://files.catbox.moe/wi8dmd.png
 #####Ether
 Calm therapeutic counselor, mostly SFW.
 ![Ether](https://files.catbox.moe/l9y9vw.png)
@@ -42,18 +46,20 @@ https://files.catbox.moe/ijm05r.json
 ***
 ###Backgrounds
 Sometimes I feel like creating SD Backgrounds for SillyTavern, I also take requests.
-####13.06.23
-![13.06](https://files.catbox.moe/51c291.png)
-https://files.catbox.moe/5qr00k.zip
-####12.06.23
-![12.06](https://files.catbox.moe/24pyj1.png)
-https://files.catbox.moe/hhbypu.zip
-####05.06.23-11.06.23 Full-Pack
-![11.06](https://files.catbox.moe/jxq89c.png)
-https://files.catbox.moe/aybrkt.zip
+####June 2023 Full-Pack
+The full set of all of my 92 personal SillyTavern Backgrounds in 1920x1080
+![28.06](https://files.catbox.moe/jasg89.png)
+https://files.catbox.moe/2s03hi.zip
 ***
 ###Alternative Images/Fanart
-Sometimes I create alternative image/smutt packs of my favorite cards as well as fan art of other botmakers.
+Sometimes I like to create alternative image/smutt packs of my favorite cards as well as fan art of other botmakers.
+####Ophelia
+Non-cracked
+![28.06](https://files.catbox.moe/nqm0r3.png)
+https://files.catbox.moe/qz4fna.png
+Alternative Images (NSFW/PIT)
+![28.06](https://files.catbox.moe/a1u4e3.png)
+https://files.catbox.moe/px467h.zip
 ####Avena
 Alternative Images
 ![05.06](https://files.catbox.moe/bfcasl.png)
@@ -62,6 +68,11 @@ https://files.catbox.moe/0h0o4y.zip
 Alternative Images (NSFW)
 ![06.06](https://files.catbox.moe/8cwe92.png)
 https://files.catbox.moe/0wqrsg.zip
+####Barbara
+Fanart
+https://www.chub.ai/characters/bipbop/Barbara
+![29.06](https://files.catbox.moe/6gib12.png)
+https://files.catbox.moe/za647k.zip
 ####Dulcinea
 Fanart
 https://rentry.org/4amrn

@@ -1,7 +1,7 @@
 # Hitogami Cards
 
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
-I test my bots so that they work specifically with basic prompting and no jailbreaking. Claude is too much of a wildcard, don't expect an on rails experience with him. Some general thoughts on each bot below.
+Some general thoughts on each bot below.
 
 
 

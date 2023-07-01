@@ -36,8 +36,8 @@ _______
 | Duet cover of Animal / アニマル with Bae | [![](https://images4.imagebam.com/d8/76/0e/MEDA1RI_o.jpg)](https://www.youtube.com/watch?v=G4upepd3jAU) |
 | Duet cover of Queen with Bae | [![](https://files.catbox.moe/r82ev2.jpg)](https://www.youtube.com/watch?v=lbnr0ReWfVQ) |
 | Love! Snow! Really Magic / 好き！雪！本気マジック | [![](https://files.catbox.moe/szfrur.jpg)](https://www.youtube.com/watch?v=bbJqGGRQ32k) |
-| Duet cover of Ghost Rule / ゴーストルール  with Kiara (Part of the holo\*27 project) [Streaming options outside of Youtube](https://lnk.to/holo27_Covers_Vol1)| [![](https://files.catbox.moe/gmwu9m.jpg)](https://www.youtube.com/watch?v=WHOsFw-00l4) |
-|  Connect the World (HoloEN original 3D MV)  | [![](https://files.catbox.moe/zneu5e.jpg)](https://www.youtube.com/watch?v=bitH6NZ_e2Q)|
+| Duet cover of Ghost Rule / ゴーストルール  with Kiara (Part of the holo\*27 project) \| [Streaming options outside of Youtube](https://lnk.to/holo27_Covers_Vol1)| [![](https://files.catbox.moe/gmwu9m.jpg)](https://www.youtube.com/watch?v=WHOsFw-00l4) |
+|  Connect the World (HoloEN original 3D MV) \| [Streaming options outside of Youtube](https://cover.lnk.to/ConnecttheWorld) \| [MV with non-shit bitrate](https://files.catbox.moe/n4j7ug.mp4)  | [![](https://files.catbox.moe/zneu5e.jpg)](https://www.youtube.com/watch?v=bitH6NZ_e2Q)|
 
 ###### Cameos only
 | Song | Link |
@@ -106,8 +106,16 @@ _______
 | 【UNARCHIVED KARAOKE  歌枠】Emo Songs 『2023-02-07』 | [![](https://files.catbox.moe/k5dlz9.jpg)]( magnet:?xt=urn:btih:b920ee8c303d8336be839e779fa31560e7191c79&dn=%5B20230208%5D%20Unarchived%20Emo%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/m8whnw.txt|
 |【UNARCHIVED KARAOKE  歌枠】It's Valentines Day !! 『2023-02-14』| [![](https://files.catbox.moe/jqcni3.jpg)](magnet:?xt=urn:btih:37e7c67cb75659d52de872140654ca661e727d8b&dn=%5B20230215%5D%20Unarchived%20Valentine%27s%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) | https://files.catbox.moe/hdys83.txt|
 | 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! :D 『2023-05-29』 |[![](https://files.catbox.moe/fwufvx.jpg)](https://www.youtube.com/watch?v=RzgBF2XsT8k) | - |
+| 【歌枠 KARAOKE】It's Been 3 Whole Months !!! 『2023-06-23』| [![](https://files.catbox.moe/8zmjwq.jpg)](magnet:?xt=urn:btih:cff33e587f41005ecffcc705df82b37a650f5940&dn=%5B20230624%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/e7p4t4.txt|
+| sleepy moomin 『2023-06-28』| [![](https://files.catbox.moe/kuc717.jpg)](magnet:?xt=urn:btih:e2c9742f61d8ad0b0e79b57db84fd8c2b0db671c&dn=%5B20230629%5D%20unarchived%20sleepy%20moom%20karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/94gw3b.txt |
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
+
+##### Karaoke Count 
+(Only those hosted by Mumei)
+|Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
+|------|-----|-----|-----|
+|#5 |#38 | #7 |50 |
 
 ####HoloFes & Concerts
 See the [4th Fes rentry](https://rentry.org/who_4thfes)

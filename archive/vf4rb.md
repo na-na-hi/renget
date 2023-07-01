@@ -11,11 +11,11 @@ https://rentry.org/uwuqc 	Day 4: DADA (Includes: Hannah, My, Roman )
 https://rentry.org/ohmbo   Day 5: Hogsmeade 
 https://rentry.org/iha5df    Day 6: Astrolonomy (Includes: My, Fitness Club)
 https://rentry.org/8odhg    Day 7: Transfiguration (Includes: My)
-https://rentry.org/6nsom   Day 8: Charms (Includes  Elizabeth)
+https://rentry.org/6nsom   Day 8: Charms (Includes: Elizabeth)
 https://rentry.org/3445a    Day 9: Herbology (Includes: My, Rout)
 https://rentry.org/nuasvt   Day 10: The Lecture (Includes: Fitness Club, Alice)
 https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
-
+https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
 ##Extra Stories
 
 https://rentry.org/bzfno   Extra: Amortentia 

@@ -6,7 +6,7 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam | M | Meowstic | Zorua (Larkspur, M) & Delphox (Marigold, F) | Clover Guildmaster/Explorer/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
+Lliam | M | Meowstic | N/A | Clover Guildmaster| [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
 Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmsmokey)
 Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#booker)
@@ -31,7 +31,7 @@ N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https
 "Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrot)
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | Vulpix, Alolan | Sandshrew (Cassie, F) & Fletchling (Bean, M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
-Smith | M | Skourpi | Furret (F) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smith)
+Smith | M | Skourpi | Furret (F) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
 Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
 Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
@@ -39,6 +39,8 @@ N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentr
 ??? | ? | Psyduck | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#psyduck)
 "Sentret" | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
 Flynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#flynn)
+N/A | ? | Porygon | N/A | Clover Guild Member? | *Pending*
+"Stumpy" | M | Shroomish | N/A | Clover Guild (Native?) Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
@@ -79,65 +81,80 @@ Clara | F | Lucario | Smoke (Human, M, shares body with Clara)||[Docile](https:/
 Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | Origin Stories | Lore Dump (i.e. World Building) | Non-Canon | W.I.P
 :-: | :-: | :-: | :-: | :-: | :-: | :-: 
 1 | [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)| [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755) | [The Snivy and the Mysterious Rock Path](https://rentry.org/eurf8) |[A Detailed Guide to Aura](https://rentry.org/PMD_Aura) | [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992) | [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517) 
-2 | [Map (ft. Booker)](https://rentry.org/e9e5p) | [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874) | [A 'Mon, Gus](https://rentry.org/7ytz9) | [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h) | [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) | [KFC's Path to Aura Chapter Titles & Ending Only](https://rentry.org/KFC_Path_to_Aura)
+2 | [Map (ft. Booker)](https://rentry.org/e9e5p) | [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874) | [A 'Mon, Gus](https://rentry.org/7ytz9) | [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h) | [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) | [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
 3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdue) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
-4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW) | [The Wayfinder (wip)](https://rentry.org/TheWayFinder)
-5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) |  [Anchorage Logs (WIP)](https://rentry.org/vkvdpm) | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7) |  [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
-6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
-7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | | [May or may not write idk](https://rentry.org/SumRandoDraft)
-8 | [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT) | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | | [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
-9 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | | [Anchorage (Rough Draft)](https://rentry.org/RibombeeAnchorage)
-10 | [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | |
-11 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | |
-12 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | |
-13 | [A Message Board (ft. Lliam)](https://rentry.org/cq4k5) | | [Ross's Origin](https://rentry.org/qag5t) | | |
-14 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [Jimmy Your Ghoul](https://rentry.org/7cwwk) | | |
-15 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Percival's Grand Entrance](https://rentry.org/5ne4g) | | |
-16 | [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c) | | [Three Strangers Blow Into Town](https://rentry.org/kcb-0)  | | |
-17 | [Go to Bed: Part 2 (ft. Chespin)](https://rentry.org/2dvef) | | [Wanderer (ft. Smith)](https://rentry.org/cxhk8) | | |
-18 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
-19 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz)| | [A New World](https://rentry.org/sm6dx) | | |
-20 | [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
-21 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)| | |
-22 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq)| | | | |
-23 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | | | | |
-24 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)| | | | |
-25 | [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)| | | | |
-26 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | | | |
-27 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | | | |
-28 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | | | |
-29 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | | | |
-30 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | | | |
-31 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | | | |
-32 | [Ross Goes Shopping](https://rentry.org/ytxap) | | | | |
-33 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
-34 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
-35 | [Branching Out](https://rentry.org/branching) | | | | |
-36 | [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7) | | | | |
-37 | [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i) | | | | |
-38 | [Tales of the Grind (ft. Smith)](https://rentry.org/34ww5) | | | | |
-39 | [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88) | | | | |
-40 | [Percival's Extended Introduction](https://rentry.org/uosgo9) | | | | |
-41 | [Torchic Crosses the Alps](https://rentry.org/unesm) | | | | |
-42 | [Encounter (ft. Not Ross)](https://rentry.org/226i97) | | | | |
-43 | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) | | | | |
-44 | [Foraging Run (ft. Smith)](https://rentry.org/5ivrh) | | | | |
-45 | [Stronger (ft. Chespin)](https://rentry.org/grmup) | | | | |
-46 | [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g) | | | | |
-47 | [Ross Tries to Sleep](https://rentry.org/7kn8v) | | | | |
-48 | [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4) | | | | |
-49 | [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw) | | | | |
-50 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
-51 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
-52 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
-53 | [Ross Sleeps...?](https://rentry.org/opi29) | | | | |
-54 | [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) | | | | |
-55 | [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3) | | | | |
-56 | | | | | |
-57 | | | | | |
-58 | | | | | |
-59 | | | | | |
-60 | | | | | |
+4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)  | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
+5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) |  [Anchorage Logs (WIP)](https://rentry.org/vkvdpm) | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
+6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) | [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) | [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
+7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) | [Anchorage (Rough Draft)](https://rentry.org/RibombeeAnchorage)
+8 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) 
+9 | [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy) | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | | [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
+10 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | | [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
+11 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | |
+12 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | |
+13 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Ross's Origin](https://rentry.org/qag5t) | | |
+14 | [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c) | | [Jimmy Your Ghoul](https://rentry.org/7cwwk) | | |
+15 | [Go to Bed: Part 2 (ft. Chespin)](https://rentry.org/2dvef) | | [Percival's Grand Entrance](https://rentry.org/5ne4g) | | |
+16 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Three Strangers Blow Into Town](https://rentry.org/kcb-0)  | | |
+17 | [Swimming (ft. Nick)](https://rentry.org/x5g6fz) | | [Wanderer (ft. Smith)](https://rentry.org/cxhk8) | | |
+18 | [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton) | | [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q) | | |
+19 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq) | | [A New World](https://rentry.org/sm6dx) | | |
+20 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
+21 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696) | | [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)| | |
+22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | | | |
+23 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | | | |
+24 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | | | |
+25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | | | |
+26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | | | |
+27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | | | |
+28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | | | |
+29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
+30 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
+31 | [Branching Out](https://rentry.org/branching) | | | | |
+32 | [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7) | | | | |
+33 | [The Outlaw's Services (ft. Not Chespin)](https://rentry.org/py58i) | | | | |
+34 | [Tales of the Grind (ft. Smith)](https://rentry.org/34ww5) | | | | |
+35 | [Tales of the Grind pt. 2: Smile (ft. Smith)](https://rentry.org/kor88) | | | | |
+36 | [Percival's Extended Introduction](https://rentry.org/uosgo9) | | | | |
+37 | [Torchic Crosses the Alps](https://rentry.org/unesm) | | | | |
+38 | [Encounter (ft. Not Ross)](https://rentry.org/226i97) | | | | |
+39 | [Foraging Run (ft. Smith)](https://rentry.org/5ivrh) | | | | |
+40 | [Stronger (ft. Chespin)](https://rentry.org/grmup) | | | | |
+41 | [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g) | | | | |
+42 | [Ross Tries to Sleep](https://rentry.org/7kn8v) | | | | |
+43 | [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4) | | | | |
+44 | [A Freelance Request (ft. Phanphy)](https://rentry.org/qx7hw) | | | | |
+45 | [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei) | | | | |
+46 | [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h) | | | | |
+47 | [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9) | | | | |
+48 | [Ross Sleeps...?](https://rentry.org/opi29) | | | | |
+49 | [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67) | | | | |
+50 | [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4) | | | | |
+51 | [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) | | | | |
+52 | [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3) | | | | |
+53 | [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t) | | | | |
+54 | [Reunion (ft. Togetic)](https://rentry.org/72x5v) | | | | |
+55 | [An Overelming Week](https://rentry.org/overelming) | | | | |
+56 | [Ross Tries to Train](https://rentry.org/cdb3z) | | | | |
+57 | [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) | | | | |
+58 | [Smoke Break (ft. Debby)](https://rentry.org/d5qbc) | | | | |
+59 | [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1) | | | | |
+60 | [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs) | | | | |
+61 | [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr) | | | | |
+62 | [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3) | | | | |
+63 | [Chespin and the Chillers pt.1](https://rentry.org/ytbot) | | | | |
+64 | | | | | |
+65 | | | | | |
+66 | | | | | |
+67 | | | | | |
+68 | | | | | |
+69 | | | | | |
+70 | | | | | |
+71 | | | | | |
+72 | | | | | |
+73 | | | | | |
+74 | | | | | |
+75 | | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 
@@ -149,6 +166,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
 * [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
 * [Enter the Federation - The Quartet](https://rentry.org/r4m9y)
+* [ETF - Ending Commentary: Docs File](https://docs.google.com/document/d/1amKRSwuymZoPKZzXw5ugS6P-urz84V3ufR7uyn7J9p8/edit)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
@@ -166,8 +184,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Dock of the Bay](https://rentry.org/RibombeeDock)
 	* [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot)
 	* [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
-	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal) *Not on Table*
-	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1) *Not on Table*
+	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
+	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
+	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -195,12 +214,14 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Stronger (ft. Chespin)](https://rentry.org/grmup)
 	* [Wooper's Family (ft. Chespin)](https://rentry.org/mqzv9)
 	* [The Teams Team Up pt.1 (ft. Chespin)](https://rentry.org/bvu67)
-	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4) *Not on Table*
-	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) *Not on Table*
+	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
+	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) 
+	* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
+	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
-	* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) *Not on Table, Non-Canon*
+	* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -210,13 +231,16 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 	* [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 	* [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
+	* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2) *Not on Table*
+	* [Debby's Diary](https://rentry.org/DebbysDiary) *Not on Table*
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
-	* [An Overelming Week](https://rentry.org/overelming) *Not on Table, WIP*
+	* [An Overelming Week](https://rentry.org/overelming)
 * Growlithe(s)
-	* [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t) *Not on Table*
-	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) *Not on Table*
+	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t) 
+	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) 
+	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -224,20 +248,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Currently Unnamed McNumel Story (ft. Kaiji)](https://rentry.org/7pagq)
 	* [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 * KFC the Combusken
-	* [KFC's Path to Aura Chapter Titles & Ending Only](https://rentry.org/KFC_Path_to_Aura)
+	* [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
 	* [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
-	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) *Not on Table, Lore Dump*
+	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
 * Kiyo the Keokeo
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
-* Lliam the Guildmeowster Meowstic
-	* [The Misadventures of Totodile (ft. Lliam & Solid Linoone)](https://rentry.org/TMoT)
-	* [A Message Board (ft. Lliam)](https://rentry.org/cq4k5) 
-	* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
-    * [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
-    * [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
-    * [May or may not write idk](https://rentry.org/SumRandoDraft)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -262,7 +279,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Pikachu
 	* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * Porygon
-	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) *Not on Table, WIP*
+	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -270,7 +287,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Encounter (ft. Not Ross)](https://rentry.org/226i97)
 	* [Ross Tries to Sleep](https://rentry.org/7kn8v)
 	* [Ross Sleeps...?](https://rentry.org/opi29)
-	* [Ross Tries to Train](https://rentry.org/cdb3z) *Not on Table*
+	* [Ross Tries to Train](https://rentry.org/cdb3z)
+	* [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
 * Sableye
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Sentret the Sentret
@@ -283,13 +301,17 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Foraging Run (ft. Smith)](https://rentry.org/5ivrh)
 	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
-	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr) *Not on Table*
+	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
+* Stumpy the Shroomish
+	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1) *Not on Table*
+	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) *Not on Table*
+	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) *Not on Table*
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
-	* [Reunion (ft. Togetic)](https://rentry.org/72x5v) *Not on Table*
-	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs) *Not on Table*
+	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
+	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -303,7 +325,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Map (ft. Booker)](https://rentry.org/e9e5p)
 * [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517)
 * [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
-* [KFC's Path to Aura Chapter Titles & Ending Only](https://rentry.org/KFC_Path_to_Aura)
+* [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
 * [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 * [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo)
 * [Chespin's Introduction](https://rentry.org/v7sc4)
@@ -318,7 +340,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [A Ribombee's Arrival](https://rentry.org/RibombeeArrival)
 * [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 * [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) 
-* [The Misadventures of Totodile (ft. Lliam and Solid Linoone)](https://rentry.org/TMoT)
 * [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq)
 * [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx) 
 * [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -326,7 +347,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
 * [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho)
 * [Go to Bed (ft. Chespin)](https://rentry.org/mo6os)
-* [A Message Board (ft. Lliam)](https://rentry.org/cq4k5)
 * [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
 * [Frism Schism (ft. Chespin)](https://rentry.org/tay4x)
 * [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c)
@@ -338,15 +358,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [The First Sip (ft. Chespin)](https://rentry.org/yiccz)
 * [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
 * [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
-* [Clash in the Mind (ft. Lliam & Macom)](https://rentry.org/CitM) 
 * [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton)
 * [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
 * [Currently Unnamed McNumel Story (ft. Kaiji)](https://rentry.org/7pagq)
 * [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t)
 * [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696)
-* [A Guildmaster's Antics (ft. Lliam & Gus)](https://rentry.org/GuildmasterAntics)
 * [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg)
-* [When the Petals Wither (ft. Dahlia)](https://rentry.org/WtPW)
 * [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek)
 * [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775)
 * [Mysteriosity Study](https://rentry.org/Mysteriosity)
@@ -398,8 +415,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
 * [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu)
 * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
-* [Booker's Journal](https://rentry.org/RibombeeJournal)
-* [Liminal Crossroads (ft. Growlithe(s))](https://rentry.org/v9e4t)
+* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
+* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t)
 * [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 * [An Overelming Week](https://rentry.org/overelming)
 * [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
@@ -411,9 +428,19 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
 * [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
 * [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
+* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
+* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
+* [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
+* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2) 
+* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
+* [Debby's Diary](https://rentry.org/DebbysDiary)
+* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2)
+* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
+* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3)
+* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
-###[Clover Guild Art Booru](http://cloverguild.org)
+###[Clover Guild Art Booru](https://cloverguild.com/booru)
 [Clover Drawboard Request List](https://rentry.org/8g2bpu)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)

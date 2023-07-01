@@ -51,8 +51,16 @@ https://www.characterhub.org/characters/superderp64/aya-shameimaru/main
 https://booru.plus/+pygmalion1451
 https://files.catbox.moe/in2eps.png
 
+**3. Yukari Yakumo**
+Help your thousand-year-old tech-illiterate youkai mistress fix her virus-ridden PC! (and then sex her or something)
 
-**3. Yuugi Hoshiguma:**
+![hag](https://files.catbox.moe/edkf7n.png)
+https://www.chub.ai/characters/superderp64/yukari-yakumo/main
+https://booru.plus/+pygmalion2255
+https://files.catbox.moe/edkf7n.png
+
+
+**4. Yuugi Hoshiguma:**
 Buff Oni that wants to drink with you, her drinking buddy! Guaranteed to end up with a broken pelvis!
 
 ![Sake-flavored kiss](https://files.catbox.moe/7e5wbh.png)
@@ -61,7 +69,7 @@ https://booru.plus/+pygmalion1967
 https://files.catbox.moe/7e5wbh.png
 
 
-**4. Reisen**
+**5. Reisen**
 You're the first man to walk on the Moon! Until you spot Reisen in the distance, approaching with a finger gun outstretched. Convince her to come to Earth with you!
 
 ![bnuuy](https://files.catbox.moe/e04d68.png)
@@ -70,7 +78,16 @@ https://booru.plus/+pygmalion2168
 https://files.catbox.moe/a48h0g.png
 
 
-**5. Kasen Ibaraki:**
+**6. Suwako Moriya**
+Let Suwako-sama comfort you after a bitter breakup (with lots of tongueplay!). I like lolibabas.
+
+![mmm lolibaba frog goddess](https://files.catbox.moe/oqscau.png)
+https://www.chub.ai/characters/superderp64/suwako-moriya
+https://booru.plus/+pygmalion2214
+https://files.catbox.moe/oqscau.png
+
+
+**7. Kasen Ibaraki:**
 You're trying to meditate with Kasen but her luscious body is too distracting! 
 
 ![Stupid sexy Oni!](https://files.catbox.moe/0woyfo.png)
@@ -79,7 +96,7 @@ https://booru.plus/+pygmalion1857
 https://files.catbox.moe/0woyfo.png
 
 
-**6. Eiki Shiki, Yamaxanadu:**
+**8. Eiki Shiki, Yamaxanadu:**
 You were a massive pervert when you were alive. Now that you're dead, the Yama will give you a taste of your own medicine. Whatever sexual acts you did to girls during your life, Eiki will do to you! 
 
 ![Objection!](https://files.catbox.moe/3991c2.png)
@@ -88,7 +105,7 @@ https://booru.plus/+pygmalion1717
 https://files.catbox.moe/3991c2.png
 
 
-**7. Komachi Onozuka:**
+**9. Komachi Onozuka:**
 Komachi almost reaped the wrong soul (yours) by accident. Now she'll do anything to keep it a secret from the Yama.
 
 ![Fat Redhead Tits](https://files.catbox.moe/ianmoj.png)
@@ -97,7 +114,7 @@ https://booru.plus/+pygmalion1847
 https://files.catbox.moe/ianmoj.png
 
 
-**8. Nitori Kawashiro**
+**10. Nitori Kawashiro**
 The cute Kappa Engineer has another new invention, and she wants you to "test" it for her. Based on nhentai.net/g/59859
 
 ![Nitori my beloved](https://files.catbox.moe/fq1sni.png)
@@ -106,13 +123,13 @@ https://booru.plus/+pygmalion2016
 https://files.catbox.moe/fq1sni.png
 
 
-**9. Suwako Moriya**
-Let Suwako-sama comfort you after a bitter breakup (with lots of tongueplay!). I like lolibabas.
+**11. Marisa Kirisame**
+You caught the ordinary magician stealing from your shop! Now punish her with your hypnosis app!
 
-![mmm lolibaba frog goddess](https://files.catbox.moe/oqscau.png)
-https://www.chub.ai/characters/superderp64/suwako-moriya
-https://booru.plus/+pygmalion2214
-https://files.catbox.moe/oqscau.png
+![da ze](https://files.catbox.moe/b7je06.png)
+https://www.chub.ai/characters/superderp64/marisa-kirisame/main
+https://files.catbox.moe/b7je06.png
+JB required: Add "Always display the phone's interface" to your UJB
 
 ###Multi-character 
 **1. Yukari and Yuyuko:**
@@ -144,4 +161,4 @@ https://files.catbox.moe/0qanm3.png
 
 
 
-==Total bots so far: 15==
+==Total bots so far: 17==

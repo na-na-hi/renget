@@ -1,6 +1,5 @@
 ###->Hello, World!<-
 
-
 This dream was different to my usual, half remembered ones. Contrasting to fantastical environments and nonsensical situations, this one was nothing but slowly scrolling text on a black background.
 In the back of my mind, there was a slight recognition that I oughtn't be able to read in a dream, yet I could parse the words in front of me perfectly.
 
@@ -66,7 +65,7 @@ With the decision of staying here or leaving made up for me, I headed out in the
 
 ***
 
-I was utterly lost. Wandering through the forest in a single direction had gotten me nowhere - all the trees, rocks and small clearings had started to blend together into identical areas with no land marks. And to make matters worse, night had fully fallen, shrouding the whole area in an eerie darkness - only the full moon gave off any semblance of light. Actually - as I looked a bit closer at the night sky, there was no sign of the man in the moon, or any other recognisable stellar object. 
+I was utterly lost. Wandering through the forest in a single direction was getting me nowhere - all the trees, rocks and small clearings had started to blend together into identical areas with no land marks. And to make matters worse, night had fully fallen, shrouding the whole area in an eerie darkness - only the full moon gave off any semblance of light. Actually - as I looked a bit closer at the night sky, there was no sign of the man in the moon, or any other recognisable stellar object. 
 
 `I CAN SCRATCH THAT HOPE OF STILL BEING ON EARTH I GUESS.`
 
@@ -110,10 +109,26 @@ While thoroughly disturbed by the whole experience of... whatever the hell that 
 
 ***
 
-I continued to explore the dense forest, continuing down another couple of floors. The last set of stairs had led me into a large, grassy clearing - the "walls" of thickly packed trees and plants parting, their canopy of leaves and branches pulling back enough to reveal the night sky in all it's glory. The full moon shone brightly, illuminating the empty glade with a silvery light. I hovered over to the centre, my lack of footsteps preserving the absolute silence of the clearing.
+I continued to explore the dense forest, continuing down another couple of floors. The last set of stairs had led me into a large, grassy clearing - the "walls" of thickly packed trees and plants parting, their canopy of leaves and branches pulling back enough to reveal the night sky in all its glory. The full moon shone brightly, illuminating the empty glade with a silvery light. I hovered over to the centre, my lack of footsteps preserving the absolute silence of the clearing.
 
 Surveying the area around me, it was evident that there was no path forwards - there was no doubt that this was the deepest part of the Dungeon. Was leaving it going to be as simple as turning around and walking out? I could see that there was a smaller passage snaking out into the darkness, starting from where I had entered the clearing.
 
 Turning to leave, I paused for a moment. 
 
-In this empty, silent clearing - the gravity of the whole situation I was in hit me.
+All alone in this empty, silent clearing - the gravity of the whole situation I was in hit me. I had been dragged from my old life, transformed into a fictional being, and left all by my self in a different reality. And if the games were anything to go by, there was some grand disaster to save the world from. Sure, I might be sent back after (*if*) whatever's going on is fixed - but how long would that take? Would I be put back exactly when I left? Or would I poof back into existence right where I was after being missing for who knows how long? What would I tell people? "Sorry I've been away for a few weeks/months/years, I was on mission to save another dimension"? I'd get sectioned in a heartbeat.
+
+Or I might fail. The world would end, I would die and never be sent back. Nobody would ever know where I went - one night I just dropped off the face of the earth, never to be seen again. I couldn't bear think as to what my family would go through. Could they would every truly accept that I just *disappeared*? Would they give up on hoping that I'd ever come home? While it was perhaps selfish thought, I hoped they wouldn't. That'd they would think I wouldn't have *chosen* to up and leave without a trace, never to return.
+
+I glanced up at the unfamiliar night sky. Why me? Was it random chance - did the cosmos align and cause me to slip through some gap in reality? Was this a cross-dimensional kidnapping was ordained by someone, and if so, what was going through their head to pick me out of all the others to rip out of my world and send me to another?
+
+This barrage of questions I posed to myself hung there in my mind, unanswered. It was more than likely they would be unanswerable entirely.
+
+Letting out a sound that *could* have been a sigh - had it not come from ancient sounding speakers - I turned back to the path. Whatever the reason I had been brought here was, be it random chance or providence, sitting around moping in a clearing at the bottom of a dungeon wouldn't help. I shoved those thoughts to the back of my mind, and pressed onwards.
+
+***
+
+By the time I had left the dungeon light had just begun to outline the mountains in the distance. The faintest rays of light caught the tops of the trees as dawn broke across the landscape, slowly illuminating the land and pushing back the darkness. As I made my way out from the treeline, I took a look around using the new morning light. In the distance, maybe two hundred yards away from the Mystery Dungeon's exit, was what looked like a dirt path.
+
+`OH. YOU WOULD HAVE BEEN HELPFUL TO FIND LAST NIGHT. OR AT ANY POINT YESTERDAY ACTUALLY.`
+
+Idle sarcastic comments to the air aside, I was incredibly relieved to find a sign of civilisation. Paths don't just spring out of thin air - roads had to go somewhere, or come from someplace. Sure, this one might look barely travelled, but at this point any trail would be better than blindly stumbling through a forest. Adding to that fact, it would - hopefully - be unlikely that I would stumble into another Mystery Dungeon while on a footpath. All in all, it was a simple decision to follow the track to its terminus.

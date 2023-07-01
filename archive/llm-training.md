@@ -6,6 +6,7 @@
 
 The Table of Content on rentry is terrible, so I'll be linking to the different main sections here:
 
+- [Training from Scratch](https://rentry.org/llm-training#training-from-scratch)
 - [Native Fine-Tuning](https://rentry.org/llm-training#native-fine-tuning)
 - [LoRA](https://rentry.org/llm-training#low-rank-adaptation-lora_1)
 - [QLoRA](https://rentry.org/llm-training#qlora)
@@ -89,6 +90,11 @@ A 3x memory requirement reduction is still in the realm of unfeasible for the av
 
 This next sections of this rentry will focus on the fine-tuning and LoRA/QLoRA methods.
 ***
+
+## Training from Scratch
+
+[Weights and Biases](https://wandb.ai) very recently released a whitepaper guide for training LLMs from scratch. You can read it [here](https://files.catbox.moe/6x8ct9.pdf).
+
 ## Native Fine-tuning
 
 As explained earlier, fine-tuning can be expensive, depending on the model size you choose. You typically want at least 6B/7B parameters. We'll go through some options for acquiring training compute.

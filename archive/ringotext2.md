@@ -299,3 +299,55 @@ I'd bet there's a ton of girls out there who would stink so much worse than Chlo
 Uhuumunughhhhh!!! Hairy Sui-chan pusspuss Imagine the fragrant odor of her delicious pubic hair as she takes off her panties at the end of the day. It looks fine textured but full, ideal for wicking up remnants of Suipiss after her idol meetings. She’s built like an Erlenmeyer flask too, so the sweat from her thighs should also accumulate, resulting in a clean but musky odor, the odor of a mature, confident comet. And let’s not forget that drip and blush! Sui-chan is turned the hell on, did she get that way from smelling her own stuffy crotch smell? I bet her Sui-juice will gush and make her garden more fragrant as she plays with herself, unable to resist the erotic enticement of her own body and smell. Imagine how she loses herself to autoerotic ecstasy as she fills the room with the scent of self pleasure, rubbing her fingers through her full, well maintained pubic hair as she rushes in the final sprint towards a convulsive orgasm that sprays her delectable drink upon the clean sheets. Ah~! To drink of the font of Sui-chan! To be enclosed in her thighs as the aroma overwhelms you like a sweet dream!
 
 -> * * * <-
+
+## >>10657347
+
+Cover has hired you as a human toilet for their girls and they're letting you decide the branch and gen you will be assigned to. Which do you choose and why? (In the case of graduated members, your choice whether to include them in this.)
+
+Pick carefully. This is a solo position and you won't have any backup. You must work as well as a real toilet would, which means being available 24/7 and letting all of them piss and shit as often and as much as they feel like, without complaining and especially without interrupting them or making them wait in any way. If you just choked down Nene's lunch and feel like you can't possibly hold any more, but Botan still has a huge load on the way, then her needs come first and you'll just have to deal with that.
+
+You might think holoID would be the safest bet since you only have to handle 3 girls instead of 5, but their musk and their shit are probably both absolutely lethal. Either holoEN gen would be almost impossible as all those American-size portions usually have them filling you up and then some before they even eat dinner, so think about whether the chance to work with your oshi is worth the risk.
+
+>>10658145
+
+IRyS really could use a human toilet. She could just mute for a bit and empty herself instead of having to interrupt the stream during an emergency. I would be happy to provide that service.
+
+>>10658258
+
+Since you don't have any other girls to attend to, she'll want much more "personal" service from you. She probably ties you to her chair and leaves you there all day so that using you is less work for her. On hot days you'll have to lick all the sweat out of her asscrack so she doesn't get too itchy. You can also expect to be responsible for sucking down her farts so she doesn't have to hold those or worry about whether she's going to shart. (Probably just a coincidence she's eating so much more dairy now...) If she's really gassy she's not going to want to bother giving you a heads-up every time so you'll just have to keep your mouth continuously glued to her asshole. Hope the undiluted stench of her ass doesn't keep you from being able to breathe through your nose.
+
+>>10659733
+
+ID1 could work but handling Moona’s 103cm hips would be a problem. Also she tends to enjoy a lot of high-calorie greasy food.
+
+JP1 seems doable as long as Haachama hasn’t eaten anything to upset her stomach.
+
+JP3 is just asking to be suffocated. Noel and Marine would give you very little air under all that ass fat while they’re unloading in your mouth.
+
+Myth is a death sentence. Ame and Mori by themselves would force you into an early retirement. Ina and Gura’s sweaty unwashed bodies wouldn’t help either.
+
+Council might be safe. Fauna’s rancid vegan farts would permanently stain your sinuses, but the volume from the other girls wouldn’t be that bad. Unless Sana stops by to use the bathroom.
+
+>>10662139
+
+Sana's limiter makes her body externally smaller but we don't know that it does anything at all for her digestive system, very possible that her dumps are full-size all the time. Of course that's obscenely massive at a human scale, we're talking monstrous greasy turds that are wider around than an entire person and weigh more than one too. No plumbing system on Earth is capable of handling her but Cover probably re-purposes an empty swimming pool or something like that so she can still sit down and take a dignified shit without having to restrict her diet. They hire as many of you as it takes to eat it all up before she has to go again because that's way easier than any alternative method of picking up after her. It's very important to stay on top of this, because if the main toilet fills up and she's still not done, she has zero problems turning some poor sucker's office into a Superfund site and then that's your responsibility to clean. Her genmates think it would be very funny, but she's too nice to actually knowingly shit on you, although you're pretty sure a few of your coworkers have suffocated in her loads anyway.
+
+>>10664643
+
+>sign up for JP4
+>most of your days are spent on your knees in their communal bathroom
+>first couple of weeks are manageable
+>their basic hygiene is lackluster and Kanata pisses more than you expected
+>cleaning out Towa’s and Watame’s hairy assholes is the trickiest part
+>one morning you hear an unmistakable voice from the entryway
+>Kanata sounds very excited to see her
+>their conversation is muffled but you can make out the word “toilet”
+>floor creaks as heavy footsteps get closer to you
+>bathroom door slams open
+>stacked dragon bitch towering above you, looks sweaty and desperate
+>her horns scrape the top of the doorway on the way in
+>her face is blocked by her enormous heavy tits but you can sense her confident smirk
+>Coco turns around and flips up her pleated microskirt, revealing the fattest ass you've ever seen and no panties
+>she turns on the bathroom fan and warns the other girls to let this room air out for at least an hour after she's done
+
+-> * * * <-

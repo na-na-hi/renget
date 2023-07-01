@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10616554 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10674144 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Assurance Correction](https://rentry.org/a5mi2)* | Shion, Ayame, Aqua | sweat |
 | *[The Clubroom](https://rentry.org/aou7kp)* | IRyS, Calli, Bae | sweat, smell, ringo |
 | *[The Wettest Ink](https://docs.google.com/document/d/e/2PACX-1vQDHfs0GhmvlJvfTkmZXbGdDROs6qC4AcjiKw4IuaLyw_UbbpxPQVWoYn8LFJrAosMcs2wPUEUhgPv9/pub)* | Ina | sweat, smell |
 | *[Barnyard Shift](https://archiveofourown.org/works/46081033)* | Calli | ringo, brap, choco |
@@ -226,7 +227,7 @@
 | [>>>/d/10633846](https://rentry.org/ringotext2#10633846) | Calli | choco |
 | [>>>/d/10636370](https://rentry.org/ringotext2#10636370) | Chloe, Marine | sweat, smell |
 | [>>50377010](https://rentry.org/ringotext2#50377010) | Suisei | sweat, smell, ringo |
-
+| [>>>/d/10657347](https://rentry.org/ringotext2#10657347) | Various | brap, sweat, ringo, choco |
 
 ## >>249165
 

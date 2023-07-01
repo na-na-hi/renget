@@ -30,11 +30,6 @@
 [Streaming Twitch](twitch.tv/calebhorusvt)
 [Twitter](https://twitter.com/CalebHorus)<-
 
-->**Chapipi Iekushi**
-![Chapipi Iekushi](https://i.warosu.org/data/vt/img/0425/69/1675805924510444.png)
-[Streaming Twitch](https://www.twitch.tv/iekushichapipi)
-[Twitter](https://twitter.com/IekushiChapipi)<-
-
 ->**Charlotte**
 ![Charlotte](https://i.warosu.org/data/vt/img/0426/94/1675993930472475.png)
 [Streaming Twitch](https://www.twitch.tv/charlottexbear)
@@ -74,6 +69,11 @@
 ![Glitterstar666](https://i.warosu.org/data/vt/img/0495/38/1684273514949937.png)
 [Streaming Twitch](https://www.twitch.tv/glitterstar666)
 [Twitter](https://twitter.com/GlitterStar669)<-
+
+->**Haru Mizuki**
+![Haru Mizuki](https://warosu.org/data/vt/img/0521/72/1687912748570423.png)
+[Streaming Twitch](https://www.twitch.tv/harumizukich)
+[Twitter](https://twitter.com/harumizukich)<-
 
 ->**Jinx Madoh**
 ![Jinx Madoh](https://i.warosu.org/data/vt/img/0349/94/1665696776414235.png)
@@ -139,11 +139,6 @@
 ![Mint Castella](https://i.warosu.org/data/vt/img/0273/30/1656834828160.png)
 [Streaming Twitch](https://www.twitch.tv/mintcastella)
 [Twitter](https://twitter.com/mintcastelladog)<-
-
-->**Mizuchi**
-![Mizuchi](https://i.warosu.org/data/vt/img/0367/07/1667854074973839.png)
-[Streaming Twitch](https://www.twitch.tv/mizuchivt)
-[Twitter](https://twitter.com/MizuchiVT)<-
 
 ->**Moccachan**
 ![Moccachan](https://i.warosu.org/data/vt/img/0273/30/1656880174518.png)
@@ -262,6 +257,16 @@
 [Twitter](https://twitter.com/woozle_ch)<-
 
 # Graduated/Indefinite Hiatus
+
+->**Chapipi Iekushi**
+![Chapipi Iekushi](https://i.warosu.org/data/vt/img/0425/69/1675805924510444.png)
+[Streaming Twitch](https://www.twitch.tv/iekushichapipi)
+[Twitter](https://twitter.com/IekushiChapipi)<-
+
+->**Mizuchi**
+![Mizuchi](https://i.warosu.org/data/vt/img/0367/07/1667854074973839.png)
+[Streaming Twitch](https://www.twitch.tv/mizuchivt)
+[Twitter](https://twitter.com/MizuchiVT)<-
 
 ->**Orla Gan Ceann**
 ![Orla Gan Ceann](https://i.warosu.org/data/vt/img/0273/30/1656841554206.png)

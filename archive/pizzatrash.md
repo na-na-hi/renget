@@ -35,6 +35,9 @@ https://desuarchive.org/trash/thread/56693955 /pizzatrash/ 32
 https://desuarchive.org/trash/thread/56785788 /pizzatrash/ 33
 https://desuarchive.org/trash/thread/56909370 /pizzatrash/ 34
 https://desuarchive.org/trash/thread/57010325 /pizzatrash/ 35
+https://desuarchive.org/trash/thread/57090219 /pizzatrash/ 36
+https://desuarchive.org/trash/thread/57211603 /pizzatrash/ 37
+https://desuarchive.org/trash/thread/57377909 /pizzatrash/ 38
 
 #####Aggie
 
@@ -63,6 +66,11 @@ https://aggie.io/ckgwzepkss Another /pizzatrash/ Aggie
 https://aggie.io/6g9zlxbk7g /pizzatrash/ -BIRTHDAY EDITION
 https://aggie.io/f0g2uso4rl /pizzatrash/ DAY AFTER BIRTHDAY EDITION
 https://aggie.io/74j5yvnxye Sunday Funday /pizzatrash/
+https://aggie.io/dmghg518eb /pizzatrash/ Aggie: Happy Hour Edition
+https://aggie.io/h1tk6eg6hk /pizzatrash/ Aggie: SUNDAY SUNDAY SUNDAY Edition
+https://aggie.io/fo8w9mduzw /pizzatrash/ SUPERFUCK WEEKEND
+https://aggie.io/5pdx2jzdvu /pizzatrash/ Aggie: Daddy Day Edition
+https://aggie.io/ugr8fbu79z /pizzatrash/ Aggie: oh god not again Edition
 
 #####MEGA
 
@@ -76,6 +84,6 @@ https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
 
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/57010325
-Latest Aggie: https://aggie.io/74j5yvnxye
+Latest thread: https://boards.4chan.org/trash/thread/57377909
+Latest Aggie: https://aggie.io/ugr8fbu79z
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA

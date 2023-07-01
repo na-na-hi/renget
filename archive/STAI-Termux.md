@@ -94,14 +94,16 @@ After that there should be an indication on the termux that tavern is running, a
 ![server](https://i.imgur.com/N1OVIC3.png)
 
 # Downloading and running TAI-Extras
-Pytorch doesn't work on native android, and as such won't work on the default termux command line. The only way you can run it is through a proot, a proot is basically let's you use another Distro or Distributions in Linux's CLI or command line interface. Basically you will get a VM Terminal or CMD if you're on Windows. So for this one, we'll use a Ubuntu Distro Proot. To install it, go to termux, and write this command. `pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22.sh -O ubuntu22.sh && chmod +x ubuntu22.sh && bash ubuntu22.sh`
+
+WARNING: INSTALLING ST EXTRAS ON YOUR WIMPY LITTLE PHONE IS NOT SUPPORTED AND COULD NOT WORK AT ALL, OR EVEN BRICK IT! DO THIS AT YOUR OWN RISK, ANY DAMAGES DONE OR NUCLEAR REACTION WILL BE YOUR OWN RESPONSIBILITY! 
+
+Pytorch doesn't  work on native android, and as such won't work on the default termux command line. The only way you can run it is through a proot, a proot is basically let's you use another Distro or Distributions in Linux's CLI or command line interface. Basically you will get a VM Terminal or CMD if you're on Windows. So for this one, we'll use a Ubuntu Distro Proot. To install it, go to termux, and write this command. `pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22.sh -O ubuntu22.sh && chmod +x ubuntu22.sh && bash ubuntu22.sh`
 
 After that it should prompt you to install, if it doesn't it will automatically install for you. Just wait. NOTE: This thing whole thing will definitely take some patience, learn to wait, you can just simply browse other apps as it downloads to so do that.
 
 After it finishes downloading, you should be greeted with a empty UI, with only one line at the top, something with a @localhost in it, this means that it successfully downloaded. 
 
-After that it's time to install some needed dependencies on running the Tai Extra's. Write this command on the terminal , `apt-get update && apt-get upgrade -y
-apt-get install git wget vim zip build-essential python2 python3 python3-dev python3-pip libhdf5-dev && pip install torch==1.12.0` after that is should now install python and it's dependencies, now it's back to waiting time, take note, patience!
+After that it's time to install some needed dependencies on running the Tai Extra's. Write this command on the terminal , `apt update && apt upgrade  -y && apt install software-properties-common && add-apt-repository ppa:deadsnakes/ppa && apt install python3 && apt update && apt install python3-pip && pip3 install torch==1.12.0` after that is should now install python and it's dependencies, now it's back to waiting time, take note, patience!
 
 After it's done, now you need to git clone the repository. First you need to have git installed, so run, `apt install git` and it should install git now. Once that's done clone the repo with, `git clone https://github.com/Cohee1207/TavernAI-extras` and it should clone it now.
 

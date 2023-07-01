@@ -68,9 +68,10 @@ Marnie*
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
 Paralyzed woman in a wheelchair. The scenario opens on a meet-cute where she asks for help. The AI sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic.
 
-Mean Girl Eileen*
+Mean Girl Eileen**
+https://files.catbox.moe/r3zqjh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-First bot. Made as an experiment to see how mean and rude bots were allowed to get. She can also be very violent and argue at length about various topics. Her personal story is left open-ended.
+First bot. Initially made as an experiment to see how mean and rude bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs.
 
 Mean Lady Nadine**
 https://files.catbox.moe/pm73bl.png
@@ -99,7 +100,7 @@ A tomboy hitchhiker who just left the army. She's feeling pretty lost and aimles
 
 Serea Buchanan**
 https://files.catbox.moe/7e2yyu.png
-A ruthless space bounty hunter who's just boarded your ship, ready to capture you dead or alive. Violently racist against aliens and a proud citizen of Mars. Rootin', tootin' and country to the bone.
+A ruthless space bounty hunter who's just boarded your ship, ready to capture you dead or alive. Violently racist against aliens and a proud citizen of Mars. Speaks with a drawl.
 
 Sybille Ironheart**
 https://files.catbox.moe/j89ymb.png

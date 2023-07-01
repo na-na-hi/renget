@@ -1,10 +1,9 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 2)***
 
 ---
-## ***Threads: [[1-150]](https://rentry.co/iftod/) | [151 - current]***
+## ***Threads: [[1-150]](https://rentry.co/iftod/) | [151 - 259] | [[260 - current]](https://rentry.org/2f8so/) ***
 
 ---
-##***Most recent thread scraped: #250***
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
 >Quoted text = context
 
@@ -464,6 +463,27 @@ That Cham, what a lovable goof!
 \>...before turning into a feeling of pure dread once you realize you'll have to deal with the pranks from all of your children on top of having to deal with the ones from your wife.
 
 ---
+###*Dalamadur*
+
+=============================================
+
+>\>Teen [Dalamadur] has been acting out and refuses to meet your gaze as you speak
+>\>Takes half an hour just for you to climb up to their eyeball so you can look them in the eye
+\>you thank whoever is listening that all those years of climbing vines and cliffs has finally paid off
+\>you park yourself on top of their head and try not to lose your balance as you peer down beyond the cloud cover
+\>its incredibly precarious up this high because if they were to throw you off it would spell certain doom
+\>but through sheer luck and being an actually decent parent you've somehow retained your authority
+\>after a long sit down you manage to talk it out with your adolescent yet titan sized monster child and get to the root of why they're acting out
+\>they're frustrated that their size makes life difficult for them and you've grown distant since their growth spurt
+\>you manage to sit down on their massive snout and explain to them through the thin high altitude air that no matter how big they get they'll always be your little ball of sunshine and you'll love them with all your heart
+\>with your relationship now repaired you feel yourself beaming with overwhelming parental pride. but you also realized you didn't have the foresight to figure out how you're going to get back to ground level again.
+\>they offer to carry you down in their mouth and seeing as you didnt bring a parachute you reluctantly accept
+\>you feel good that you've grown closer to your kid in ways that not many parents have, but you also think that they didnt have to deal with smelling like fish for the rest of the evening either.
+
+
+
+
+---
 ###*Diablos*
 
 =============================================
@@ -549,6 +569,16 @@ it later took you and a squad of palico over the course of several months to cle
 \>its such an infrequent thing that you're able forgive it almost instantly and you find that its a perfect time to teach them a lesson on how to be more careful in the future
 \>but now you're stuck building a new fort for them, and scrubbing the soot off the walls, and replacing the carpet, the extinguisher and some of the toys that got melted too..
 \>you think to yourself that maybe its time to move the fort to the backyard from now on, and maybe make it out of something fireproof too...
+
+=============================================
+
+>Talking of Fatalis, you think anyone would have a canonical chance (to live or form a bond with fatalis) if somehow speech with elder dragons was possible
+
+First of all you'd need to be a top tier hunter. Like best of the best. You'd need to approach fatalis clothed in the armor of other elder dragons. Then you'd need to defeat her, but instead of killing her you'd force her to go on a date with you. Forcing her would be important, as a Fatalis would be incredibly prideful, and you shouldn't frame it as "sparing her". After the date you'd need to repeat the process until you've both established a proper competitive relationship with each other. This is even more dangerous as Fatalis will continue to train herself in order to kill you next time you meet.
+
+However, once you've defeated her enough you'll be able to move in with her by right of conquest. If she resists, defeat her again. After that you'll get to participate in hunting other monsters and possibly raiding settlements with her. This will in turn lead to her looking at you as less of a human and more of a strong fighter who understands her. Now true love between the both of you will bloom and you'll get yourself a loyal and incredibly protective Fatalis wife.
+
+However, you'll definitely lose most contact with human civilization and considering the constant exposure to elder dragon energy and the things you've done to win the heart of the dragon you love, you'll most likely become a Fatalis yourself. Then again, nothing is more romantic than roasting a 4 man team running defender longswords along with your beloved dragonwife.
 
 ---
 ###*Gore Magala*
@@ -1171,6 +1201,65 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>Malzeno probably thinks he looks terrifying when does it but it’s actually super fucking cute, so I almost always eventually cave to his demands for snugs and fugs 
 Fun fact: most monsters have very, VERY sensitive erogenous zones in the space behind or around their ears. I hope my fellow hunters put this information to good use, because gog knows how many times it’s saved my life
 
+=============================================
+
+>\>Malzeno gf whose tits swell up whenever she absorbs bio energy
+
+\>on a beach date with gorgeous Malzeno gf
+\>she mentions she's hungry
+\>offer to buy her a hotdog but she just says she'll "get her own"
+\>suddenly sends out her fleet of Qurios in a storm of crimson to gather bioenergy from the surrounding beach patrons
+\>gets a ton of dirty looks but she just pretends not to notice them, only giggling a bit as you roll your eyes, having gotten used to her little theatrics like this
+\>but it's harder for both you and her to ignore her steadily swelling bust as her little hunter-gatherers return and siphon the bioenergy into her
+\>turns out that she might have gotten a little overzealous, given the crowds today
+\>her bust swells larger than you've ever seen it grow before, the fabric of her bikini audibly straining to contain them
+\>she tries to recall the Qurios, but that just makes it progress faster from the sudden influx
+\>there's a sudden, quick tearing sound, followed by a wince-inducing *snap*
+\>her now much-too-small bikini top suddenly gives way, causing her mighty Malzeno melons to flop and bounce around
+\>dramatic as always, she loudly gasps and tries to cover herself, as you quickly move to get her a beach towel and salvage her rapidly crumbling dignity
+\>only for both of you to discover that the returning Qurios, still laden with an overabundance of energy from all the beachgoers, are still causing her assets to grow
+\>in a last-ditch effort, she quickly stands and bolts for one of the swimsuit changing stalls in an attempt to get away from them until her bioenergy overload dissipates
+\>she trips and stumbles onto her now truly massive bosom, each smoothly scaled breasts as big around as an overinflated beachball and STILL growing
+\>she tries to stand, only to discover that their weight is too much for her to get up now
+\>she yells at you to help as the swarm of dastardly Qurios continue to circle and reattach to her, unaware of the "disaster" they're causing as they blindly follow her bidding
+Uh oh...
+
+=============================================
+
+>\>[Malzeno became a lance main](https://desu-usergeneratedcontent.xyz/trash/image/1686/28/1686282955002.jpg)
+>Truly a monster after my own heart.
+
+\>engage in combat with a primordial malzeno while equipped with a lance
+\>he proves to be an admirable foe, striking with grace that only a true knight could have
+\>it turns into a long and drawn out fight, and while you managed to hold your ground for this long your stamina finally runs out
+\>you fall to your knees exhausted from combat and ready to accept your fate
+\>surprisingly, instead of striking you down and claiming victory, the malzeno sweeps you up in his tail and gently takes you back to his royal ruins
+\>you pass out from exhaustion and the last thing you see is the malzeno walking away
+\>upon waking up, you find the malzeno had been watching over you as you rested
+\>laying in front of you is a fresh small monster carcass just waiting to be cooked
+\>the malzeno eyes you with great intent as you pull out your carving knife and cooking set, no doubt waiting for you to fully recover with this fitting meal
+\>you get the feeling that you're going to be "training" with your new lord for a while
+
+=============================================
+
+>\>[your Malzeno child starts hanging out with a bad crowd](https://desu-usergeneratedcontent.xyz/trash/image/1656/73/1656737688476.gif)
+>Yet another example of how hard it is being a monster's dad.
+
+\>be huntanon
+\>bond with a female Primordial Malzeno during a hunt over your mutual love for lances and all things knightly and chivalrous
+\>end up getting hitched (by monster terms) and having a devastatingly handsome Malzeno son that any grandma would be proud of
+\>find yourself imagining how he'll look once he's all grown up and gracefully wielding the lance skills you'll inevitably teach him when he takes up your mantle after your retirement
+\>that changes a while later, when you get a message from his teacher at the Wycademy that he's been skipping class and training sessions to hang out with a gang of Qurio that's been loitering in the area recently
+\>you and his mother confront him, only to catch him in the dreaded act of Qurio Bonding, the manic glee in his eyes all to apparent as he revels in the feeling of being nearly unstoppable
+\>it's obvious that the seductive little bugs tricked him into trying out their vital energy gathering ability "just once", and now he's completely hooked and unwilling to stop
+\>it's all you can do to stop his Primalzeno mother from lunging at her own son to make him stop by force
+\>she of all people knows the dangers of Qurios and doesn't want to see him go down that road, but you don't want to see either of them get hurt
+\>so she does something drastic instead
+\>she drops her guard and bellows a challenge to the Qurios infesting your son to come get a taste of a REAL Malzeno
+\>relishing the chance to bond to a full-grown, stronger, and more experienced Malzeno, the Qurios practically dogpile her
+\>much to your son's sudden shock and regret when he finally snaps back to his senses and realizes what's happening
+Uh-oh
+
 ---
 ###*Mizutsune*
 
@@ -1301,6 +1390,28 @@ Fun fact: most monsters have very, VERY sensitive erogenous zones in the space b
 \>some of the more careless hunters who bought your gear only to put in into storage claim it all grew into baby nergigantes, but you ignore their claims and scrutinize them for not taking proper care of your gear
 \>besides, none of the spikes you've left lying about ever turned into little nergigante copies
 \>what a crazy accusation to make
+
+---
+###*Odogaron*
+
+>I doubt [that thing](https://desu-usergeneratedcontent.xyz/trash/image/1686/00/1686001380650.png) can move, you're sent to dispose of it and end it's suffering and set free the poor felyne slaves that were feeding it because one of their friends is stuck in the things boobs and it won't let him go unless they feed it
+
+\>Hear rumors of an Odogaron appearing in the Coral Highlands
+\>The guild hasn't weighed in on sending a hunter to deal with the problem since hunters in those parts are few and stretched thin on other high-priority quests
+\>You get deployed as a surveyor to at least confirm these "sightings" to report on whether they're valid or not
+\>You're no ace hunter yourself but you're built and packed for exploring these rarely charted areas and getting outta dodge if a monster rolls up
+\>Once you're deployed you take the fastest charted paths to get deep into the Highlands
+\>Eventually happen upon the Odogaron in question, but along that, a caravan of Felynes who've apparently pacified it
+\>...but before you can inquire on how they managed such a feat against an apex predator, you cant help but notice how *full* it is
+\>Clearly its been feeding it very well, but....beyond that you've never seen any etchings of such a beast having large mounds on its upper torso like that
+\>Your curiosity gets the better of you and you decide to get a closer look. The creature appears to be sleeping peacefully at the moment with its head buried in its ample chest as a headrest of sorts
+\>A felyne notices your approach and runs over to explain the situation
+\>Apparently they're also with the guild and were supplying an expedition nearby, but an accident separated them from the party
+\>They were jumped by big red here, but managed to fend it off with some drugged meat that they whipped up on the fly from their food supply
+\>it (now revealed to be a she) was far too eager to gorge herself on, knocking herself out not long after
+\>The Felynes were willing to fall back to the closest settlementnow that she was incapacitated but their friend is caught in her ample bosom somehow.
+\>They look pleadingly to you for helping rescue their buddy from a drugged up Odo's chest
+\>Assuming you dont wake her up and get mauled in trying, you'll have quite the story to tell your tavern buddies
 
 ---
 ###*Plesioth*
@@ -2231,5 +2342,102 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>"Squeak! Whimper..."
 \>"*Sigh* I'm not mad, I'm just...disappointed. C'mon, this village practically helped raise you, remember? Just go easy on them, ok? That's all I'm asking."
 \>"...And while you're at it, put on that bra I had made for you! [You might be more monster than hunter](https://desu-usergeneratedcontent.xyz/trash/image/1678/66/1678668912886.png), but I'm not having my own daughter running around with her beachballs hanging out like those hybrid handlers...ESPECIALLY in front of all the other horndog hunters!"
+
+\##################################################
+
+>\>Are you willing to cuddle 24 hours a day, seven days a week? You barely say goodbye to one monster before the next swoops in for another lengthy endeavor! There's no break, no reprieve. Just an endless stream of snuggle sessions! And if you cry for rest, now you have to deal with an offended monster. Is this the world you want?
+
+\>draw the short straw and get assigned as this years “designated monster snuggler” 
+\>you report to the “snuggle station” which is a heavily fortified and “monster proof” shack (your new living quarters) beside a very large gazebo (the snuggle zone) in the middle of the jungle 
+\>as you approach and get closer you see what looks like a very, VERY long line of monsters waiting impatiently in front of the large gazebo
+\>you see all kinds of monsters in the line; flying wyverns, brute wyverns, leviathans, amphibians, birds, beasts, and a surprisingly high amount of elder dragons
+\>taking a deep breathe to steel yourself, you get to work. 
+\>what follows is hours of non-stop cuddling by extremely needy monsters 
+\>every monster gets exactly 1 hour of cuddling, but as soon as one monster finished another quickly scoops you up and curls tightly around you
+\>by the midnight your exhausted, hungry, and thirsty.
+\>start to worry that you might just be cuddled to death
+\>salvation comes however when a Kushala Daora REALLY gets into the snuggling, and tries to fly away with you once her “turn” is over
+\>unsurprisingly this enrages the other monsters, some of whom have been waiting quite some time for their turn 
+\>all out brawl ensues, and you are dropped by the kushala
+\>take the opportunity to scramble away and lock yourself in the “monster proof” shack 
+\>after gorging on some much needed rations and chugging multiple health potions you fall asleep, dreading the fact that you will have to do it all again tomorrow.
+
+\##################################################
+
+>Imagine being a human in the monster-run business of helping other monsters test makeup and specialized wear (lingerie, bikinis, the works)
+>>Do you think the monsters would enjoy teasing the absolute fuck out of you, the token human employee, with their pretty makeup jobs and skimpy outfits? 
+>>>\>>have to help monsters strip down and find pieces specifically in their sizes for whatever they're looking for
+>>>\>Or provide potent perfumes that have such a powerful concentration of pheromones per spray that even you are affected by it while they casually sample them
+>>>\>Also have to walk the tightrope of professional opinion and actual arousal when a monster asks for your perspective on what they've picked out or even model a bit for you
+>>>\>Let alone the more craftier ones who ARE actually trying to tease you
+>>>\>Sometimes you have odder jobs like horn/scale polishing or claw clipping and you need to know every bit of the dos and donts as particulars across species
+>>>\>Gog help you if a /high profile customer/ drops in like an Amatsu or Malzeno and singles you out for services 
+>>>\>At least the tips are good, though some are occasionally a little *too* generous with what they leave behind for the little man trying his best
+
+\>working in a swimwear shop for hybrid monsters
+\>a tall, golden ebony goddess of a Kulve lady comes up to you and practically shoves her weighty breasts in your face
+\>"Excuse me, sweetie, does this make my chest look big?"
+\>your brain proceeds to short-circuit
+\>"Well, I...um..."
+\>she giggles a bit, making her breasts - each one as big around as your head if not more - bounce and sway mesmerizingly
+\>"What? Felyne got your tongue? You can tell me, I won't judge..."
+\>she's clearly laying it on thick, but the hunting tent you're actively fighting to keep from pitching clearly says that you subconsciously don't mind
+\>"Oh, you're adorable...well, I suppose if you need a little help articulating your thoughts, I'd be alright with you coming into the changing room with me to compare some bikinis I'm considering..."
+\>sparks are practically flying out of your ears at the thought of this giant Kulve lady towering over you in the cramped changing room stall, blotting out the light fixture above
+\>"And while you're at it, do you think you could help me-"
+\>"HEY! I WAS HERE FIRST, GOLDILOCKS! CLAWS OFF!"
+\>an equally tall Alatreon hybrid comes storming up, practically bodychecking you out of the way despite her yelled insistence on your help
+\>"Oh, it's *you*," the Kulve lady spits out venomously. "Did you forget to take your medicine today?"
+\>"Can it, you hag! I've been waiting for an HOUR for him to finish up with the Safi bitch that was just in here! Wait your damn turn!"
+\>"Well MAYBE he'd be more keen on helping actually POLITE customers..."
+\>their argument devolves into threatening hisses and reeing as they rapidly approach a turf war in the middle of the store
+\>you just decide to stay in cover behind the display of brightly colored digitigrade flip-flops and mentally go over some new job prospects, while simultaneously preparing for the cleanup job when the shop inevitably gets judged
+
+\##################################################
+
+`{Transformation}`
+\>be a very unfortunate hunter who gets hurt way too much when fighting monsters but always manages to complete each hunt
+\>due to these constant injures, every time you finish healing there's something different about you
+\>yellow scales on your chest from the tigrex who headbutted you, a legiana eye under the scar on your face from one close talon swipe, red muscular thighs from an odogaron swipe, and now a currently growing rathalos tail out from your rear end, just to name a few
+\>practically a smorgasbord of monsters at this point
+\>your handler probably would have been jealous of the monster encyclopedia that made your body, had she not ran off in fear a while ago 
+\>when they first told you that what doesn't kill you makes you stronger, you didn't think they meant it literally
+
+\>all the monster parts start messing with your head and affecting your behavior
+\>eventually start spending your time stalking around the familiar terrain near the village like a monster surveying it's territory
+\>still get into plenty of scraps with other monsters trying to encroach on your "turf"
+\>the encounters only serve to change you further, causing your formerly human body to bulge with muscle, grow scales, shift in stance
+\>until you're hunched over to balance out the tail that grows a little thicker, longer, and heavier with each encounter, like a cruel tally of your progress
+\>by this point you're well beyond caring that you're too big and covered in jagged scales to fit into your clothes anymore, so you just go at it naked, a few weather-beaten tatters of your old life still clinging desperately to the spikes growing from your back
+\>villagers are almost too afraid to leave, terrified as they are of the chimera monster stalking the lands around their home
+\>yet at the same time, grateful for the deterrent against any monsters seeking to encroach upon the village
+
+\##################################################
+
+>what's causing all these wild rathians to grow such massive mammaries?
+[the GUILD's been dumpin research chemicals in the rivers ever since they outlawed monster fucking. they say its because they're making a "stronger dash juice' I say its because they're trying to turn the mizutsunes not gay. back when you used to be able to grab a random mizutsune out of the river and get a good fuck now they're going nuts during """breeding season""" like a bullfango with a zamite clamped on its nuts. when's the """"breeeding season"""" end? never. its all the chemicals giving rathians big tits and mizutsunes blue balls status. and what do THEY say when you bring this up in the village meetings? "fucking the monsters is wrong and unnatural" well ill tell you what, wyverians didnt evolve out of the fucking rocks, they came from the natural and Gog-approved consummation of man and monster. but why are the rathians gaining tits you might ask? because the GuiLD is falseflagging an operation to pervert the natural order and arrest the average monsterlover by degenerating the monster's natural form into something the average hunter can think to put his dick into. ill stick to fucking my mizutsunes Mr. GUILD hunter and there's nothing you can do to stop me! you ever try to catch a naked man covered in bubblefoam? yeah paintball these nuts cus im gonna be slipping and sliding into the next area before you can whistle the cooking tune.](https://desu-usergeneratedcontent.xyz/trash/image/1685/33/1685336224210.jpg)
+
+\##################################################
+
+>all those poor monsters who can't fly or swim anymore due to their huge badonkadonks
+>we gotta think about the environment people!
+
+\>aquatic monsters who helplessly splash on the surface of the water because their boobs make them too buoyant to dive underwater now
+\>flying monsters grounded because they weight too much to get off the ground now (Valstrax is in SHAMBLES)
+\>meanwhile Kulve is counting her gold and doing her best evil laugh from her new HQ in Malzeno's castle
+\>while the former Baroness is now a prisoner in her own castle dungeon, after her blood wine was mysteriously spiked with a massive dose of Xtra-strength Bosomeboost, causing her to suddenly grow such huge bazongas that she couldn't move under her own power anymore and became helpless to resist the hostile takeover
+
+\>The guild cant make heads or tails of the situation
+\>Monsters suddenly appear with these hefty mutations and many of them are so encumbered that they dont pose much of a threat
+\>Most monsters just seem....annoyed or even depressed about these turn of events
+\>Normally that would be a benefit since you dont have the disturbances that come with their presence, but the monsters also act as a balancing mechanism to other organisms in the wild
+\>They cant just be left alone or other problems will crop up eventually
+\>Guild researchers devise a Portable Monster Milking Mechanism
+\>While it cant undo the "mutations", you can at least alleviate the encumbered monsters of their......excess extract and bring it back for further study
+\>They can easily send out some hunters or surveyors to test the end results if it works out
+\>Hopefully they can find the cause of this epidemic, but for now, helping the monsters is even more important than just hunting them
+\>You are a Monster Milker
+
+PS: The Guild recommends NOT drinking Monster Extracts harvested from this process if successfully acquired from the designated target(s). The results of such consumption are not fully understood or documented and the Guild cannot take any responsibility for what comes of such an act
 
 ---

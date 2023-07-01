@@ -1,19 +1,26 @@
 ## /kkg/ Thread Archive
-[Last Updated: 15.06.2023 20:15 UTC]
+[Last Updated: 01.07.2023 14:30 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7430471/](https://boards.4chan.org/h/thread/7430471/)
+Current thread - [boards.4chan.org/h/thread/7454982/](https://boards.4chan.org/h/thread/7454982/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
-- 596&nbsp;&nbsp;[archiveofsins.com/h/thread/7430471/](https://archiveofsins.com/h/thread/7430471/)&nbsp;&nbsp;&nbsp;&nbsp;(15.06.2023 19:06)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SMOOTH CRIMINAL edition
-- 595&nbsp;&nbsp;[archiveofsins.com/h/thread/7426865/](https://archiveofsins.com/h/thread/7426865/)&nbsp;&nbsp;&nbsp;&nbsp;(13.06.2023 16:34)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Whose theme is it anyways edition
-- 594&nbsp;&nbsp;[archiveofsins.com/h/thread/7422164/](https://archiveofsins.com/h/thread/7422164/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:47)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Got your nose Edition
-- 593&nbsp;&nbsp;[archiveofsins.com/h/thread/7422159/](https://archiveofsins.com/h/thread/7422159/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:44)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Got your nose Edition
-- 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[973]&nbsp;#&nbsp;Study hard Edition
+- 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;
+- 602&nbsp;&nbsp;[archiveofsins.com/h/thread/7454980/](https://archiveofsins.com/h/thread/7454980/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Chikaverse edition
+- 601&nbsp;&nbsp;[archiveofsins.com/h/thread/7452002/](https://archiveofsins.com/h/thread/7452002/)&nbsp;&nbsp;&nbsp;&nbsp;(28.06.2023 17:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Gateway Edition
+- 600&nbsp;&nbsp;[archiveofsins.com/h/thread/7448856/](https://archiveofsins.com/h/thread/7448856/)&nbsp;&nbsp;&nbsp;&nbsp;(27.06.2023 03:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Just let it all end edition
+- 599&nbsp;&nbsp;[archiveofsins.com/h/thread/7444649/](https://archiveofsins.com/h/thread/7444649/)&nbsp;&nbsp;&nbsp;&nbsp;(24.06.2023 08:42)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Comfy Summer Edition
 ---
 Archive:
 
+- 598&nbsp;&nbsp;[archiveofsins.com/h/thread/7435442/](https://archiveofsins.com/h/thread/7435442/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 13:20)&nbsp;&nbsp;[1111]&nbsp;#&nbsp;One and Only Bulb Edition
+- 597&nbsp;&nbsp;[archiveofsins.com/h/thread/7435252/](https://archiveofsins.com/h/thread/7435252/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 09:07)&nbsp;&nbsp;[1091]&nbsp;#&nbsp;Chikarin Farm edition
+- 596&nbsp;&nbsp;[archiveofsins.com/h/thread/7430471/](https://archiveofsins.com/h/thread/7430471/)&nbsp;&nbsp;&nbsp;&nbsp;(15.06.2023 19:06)&nbsp;&nbsp;[1295]&nbsp;#&nbsp;SMOOTH CRIMINAL edition
+- 595&nbsp;&nbsp;[archiveofsins.com/h/thread/7426865/](https://archiveofsins.com/h/thread/7426865/)&nbsp;&nbsp;&nbsp;&nbsp;(13.06.2023 16:34)&nbsp;&nbsp;[918]&nbsp;#&nbsp;Whose theme is it anyways edition
+- 594&nbsp;&nbsp;[archiveofsins.com/h/thread/7422164/](https://archiveofsins.com/h/thread/7422164/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:47)&nbsp;&nbsp;[1192]&nbsp;#&nbsp;Got your nose Edition
+- 593&nbsp;&nbsp;[archiveofsins.com/h/thread/7422159/](https://archiveofsins.com/h/thread/7422159/)&nbsp;&nbsp;&nbsp;&nbsp;(10.06.2023 22:44)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Got your nose Edition
+- 592&nbsp;&nbsp;[archiveofsins.com/h/thread/7417602/](https://archiveofsins.com/h/thread/7417602/)&nbsp;&nbsp;&nbsp;&nbsp;(08.06.2023 07:16)&nbsp;&nbsp;[973]&nbsp;#&nbsp;Study hard Edition
 - 591&nbsp;&nbsp;[archiveofsins.com/h/thread/7412815/](https://archiveofsins.com/h/thread/7412815/)&nbsp;&nbsp;&nbsp;&nbsp;(05.06.2023 10:39)&nbsp;&nbsp;[1167]&nbsp;#&nbsp;Dated Memes Edition
 - 590&nbsp;&nbsp;[archiveofsins.com/h/thread/7408966/](https://archiveofsins.com/h/thread/7408966/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:32)&nbsp;&nbsp;[873]&nbsp;#&nbsp;WATCHOUT WATCHOUT Edition
 - 589&nbsp;&nbsp;[archiveofsins.com/h/thread/7404753/](https://archiveofsins.com/h/thread/7404753/)&nbsp;&nbsp;&nbsp;&nbsp;(31.05.2023 20:20)&nbsp;&nbsp;[1107]&nbsp;#&nbsp;Headmod Edition
