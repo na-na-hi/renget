@@ -162,6 +162,7 @@
 /\d\nhere's your white(| human) male/i;boards:trash;op:no
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
+/(?=.\*\>\w)(?=.\*\nwat do\?$)/ims;boards:trash;op:no
 
 /hypersmegma/i;boards:trash;op:no
 /(c\\wck|purity)f\\wg/i;boards:trash;op:no

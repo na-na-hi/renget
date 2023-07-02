@@ -33,7 +33,7 @@ Heli's backcountry twang cuts into Kara's thoughts. "Howdy, Lĕk. Good t'see you
 
 Heli's face doesn't lose the smile, but it does turn from a jovial grin to a more professional, close-lipped expression. "Sure. Anythin' fer my favrite customer, Kara." She turns halfway towards the group with a thoughtful look. After a few moments of silent cogitation, she slaps the bar with her rag then turns back to address Kara again. "Half price, and we have to take your ride. Y'caught me mid-tinker and it would take too long to finish up, so I'll tell Lilly how to patch it and they'll meet me'n Oh-too later wherever you drop us off. Half the group, so half the price. Fair?"
 
-Kara leans forward to look passed Heli's waist and look at the other three. The buggy is a two-seater, so if it's just her driving, then she'd rather take just the one person. As if reading her mind, Heli adds, "He doesn't need a seat. It'll be fine!"
+Kara leans forward to look past Heli's waist and look at the other three. The buggy is a two-seater, so if it's just her driving, then she'd rather take just the one person. As if reading her mind, Heli adds, "He doesn't need a seat. It'll be fine!"
 
 Kara looks up at Heli's face and searches it for a lie or a trick. Heli smiles back, full of good-natured innocence and a self-assured twinkle in her eyes. Kara sighs. "Alright. Get ready and get in."
 
@@ -108,7 +108,7 @@ Suddenly, the sound of wheels launching from the earth roars in her ears. In a m
 
 Kara's going to crash into it from behind. She slams the buggy into a hard right.
 
-"¡Mierdaaa!" Kara's voice cracks as she screams, her eyes wrenched tightly closed. The buggy whips in a tight circle. A dragster clips a rear wheel and completes the turn as it races passed, pointing the buggy ahead again. Kara feels Heli's warm hand on her thigh. Heli forces down her knee. The accelerator maxes out again. The buggy screams.
+"¡Mierdaaa!" Kara's voice cracks as she screams, her eyes wrenched tightly closed. The buggy whips in a tight circle. A dragster clips a rear wheel and completes the turn as it races past, pointing the buggy ahead again. Kara feels Heli's warm hand on her thigh. Heli forces down her knee. The accelerator maxes out again. The buggy screams.
 
 "Keep us alive, Lĕk!" The comment and the acceleration both serve to snap Kara's eyes open again.
 "¡Vete al carajo si no vas a usar mi nombre! ¿Cómo se volvió tan loco?" Kara is whining and rambling as her emotions overflow. Vehicles are ahead of her. Vehicles are behind. Guns and other weapons surround the group and huge bullets buzz past. That no one has gotten shot yet is pure chance, all miracle.
@@ -127,7 +127,7 @@ The controlling biker kicks the door of the bandit buggy, making the bike list t
 
 Stupid choice. Oh-too sizzles laser shots into her back and the wounds pop like boils. The man on the back makes a leap for the buggy, as forceful boarding was something he was planning on anyway. The dead woman falls off the motorcycle and it falls into the dirt. The helmeted man goes to grab for Kara and Heli spears his hand with the gnarly blade fastened to the end of Embertusk. Kara can feel blood on her neck and she screams sharply in surprise.
 
-To save time, Heli drops Embertusk right there in the buggy, between the seats. She lunges for the invader. He goes to headbutt her, but she ducks her head the side.
+To save time, Heli drops Embertusk right there in the buggy, between the seats. She lunges for the invader. He goes to headbutt her, but she ducks her head to the side.
 
 Then she clenches the bridge of his nose between her teeth like an animal. Everyone in the buggy can hear the crunching of bone and the tearing of flesh. He screams mindlessly and bats his arms around as hard as he can, beating and shoving Heli off of him and pinning her against the back of the seat she was just in. He goes to strangle her in pain and rage. She brings her knee up hard - not against his steel-cupped groin, but against the soft, bare, hairy spot right over his bladder. He yowls again and his dirty jeans become muddy. Heli shoves him back with both feet planted against his hips and he stumbles backwards, slips on a slick patch under his boot, and tumbles off the buggy to be caught under the wheel. It kicks only briefly over the lump.
 
@@ -137,7 +137,7 @@ Ahead of Kara, the other buggy is trying to pass the lead driver and his strange
 
 Heli goes off raw instinct. She pitches another block of explosive ahead with one hand and reaches onto her combat webbing with the other. Her thumb finds the remote detonator at just the right moment. A signal goes out. The block, tumbling beneath the rolling scrap of flaming death, ignites and explodes.
 
-A plume of black smoke and dark soil blinds Kara entirely. A great mass of screaming steel tumbles over their heads. The ex-buggy, launched by the explosive, barely misses them. Oh-too idly watches it go passed. It enjoys watching the lump of twisted and slagged metal dig another divot into the road. Oh-too looks down to check the ammo readout on its gun. It's low, but that's fine.
+A plume of black smoke and dark soil blinds Kara entirely. A great mass of screaming steel tumbles over their heads. The ex-buggy, launched by the explosive, barely misses them. Oh-too idly watches it go past. It enjoys watching the lump of twisted and slagged metal dig another divot into the road. Oh-too looks down to check the ammo readout on its gun. It's low, but that's fine.
 
 Kara's face is blackened by soot, except where the mostly dry and definitely caked bandana is covering her face. Her eyes are red from not blinking enough and from all the irritations stinging them. She's feeling wild. Dreamlike. It's almost over! She's almost won the....
 

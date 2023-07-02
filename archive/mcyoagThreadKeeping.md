@@ -41,17 +41,8 @@ https://rentry.org/MHACharacterCards
 
 >New Stuff:
 New Writefag:
->A Mother's Worries (Orochi's mother, Yamata, Mirror Devil Cameo):
-https://rentry.org/epoic
->I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
-https://rentry.org/o8si2
-
-Jugo Artfag:
-https://img.4plebs.org/boards/tg/image/1688/07/1688071740438711.png
-Yui Arfag:
-https://img.4plebs.org/boards/tg/image/1688/07/1688075830861614.png
-Sandatsu Artfag:
-https://img.4plebs.org/boards/tg/image/1688/07/1688078797735805.png
+>At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
+https://rentry.org/z2sqy
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89382566#89382849
@@ -561,7 +552,16 @@ https://rentry.org/dcvxso
 https://rentry.org/epoic
 >I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
 https://rentry.org/o8si2
+>A Mother's Worries (Orochi's mother, Yamata, Mirror Devil Cameo):
+https://rentry.org/epoic
+>I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
+https://rentry.org/o8si2
+```
 
+***
+Page 10
+***
+```
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
@@ -654,7 +654,14 @@ https://rentry.org/HeliMatharom
 >>89422772
 >David "Profit" Wiles
 >>89423767
+>Dimir Leksirei
+>>89425473
+```
 
+***
+Page 2
+***
+```
 Relationship Charts:
 Dr. Crane
 https://rentry.org/DrCraneInteractions
@@ -668,6 +675,10 @@ The Crew of the Argo
 https://rentry.org/wfk77
 Ultra Magnus
 https://rentry.org/yhobdn
+Heli Matharom
+https://rentry.org/HOTW-HeliChart
+Dr. Remilia Rochefort
+https://controlc.com/997e2437
 
 Writefags:
 >Piss Break (Nymphs)
@@ -686,10 +697,18 @@ https://rentry.org/mwy5f
 https://rentry.org/KarnakRadio
 >lame ahh backstory (Maya Liang)
 https://controlc.com/83abc1f6
+>HFWT: Death Race (Kara, Heli)
+https://rentry.org/HOTW-DeathRace
+>Memories (The Nymphs)
+https://rentry.org/q2m7d
+>Mike's Ride (Mike the Driver, Dr. Charles Crane)
+https://docs.google.com/document/d/1aby3ds_zyGUqID1hBipgQfh4n5Q8U6m4MywyEPCbWbE/edit?usp=sharing
 
 Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
+>Kara angry
+https://img.4plebs.org/boards/tg/image/1688/20/1688203845380353.png
 ```
 #The City (Reboot)
 

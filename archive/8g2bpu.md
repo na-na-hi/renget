@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. [This](https://files.catbox.moe/v82nhp.jpg) with Kaiji
 1. A bunch of Macom jumping over a fence
 1. Toge and Dewott as [this](https://files.catbox.moe/07tvv0.png)
 1. Toge doing the Travis Touchdown "Moe~" moment but saying "Cozy~" and with a poster of Team Cozy instead

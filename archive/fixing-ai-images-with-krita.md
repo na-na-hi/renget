@@ -49,5 +49,6 @@ This process introduced a few errors, but they are much easier to deal with, so 
 There are a few minor errors still, so I will fix them manually. 
 This is the final result ![PJ on a hiking trip](https://files.catbox.moe/062ju4.jpg)
 
+Contact:
 https://www.pixiv.net/en/users/89676943
 Discord: slimy_bastard

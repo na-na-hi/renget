@@ -49,11 +49,12 @@
 |39|Yuki|78|
 |40|Kara|59|
 |41|Richard Major|56|
-|42|Lance|51|
-|43|Remilia|49|
-|44|Alexander S. Luthor|48|
-|45|Harrison Teaford|22|
-|46|H0P3|0|
+|42|Dimir|53|
+|43|Lance|51|
+|44|Remilia|49|
+|45|Alexander S. Luthor|48|
+|46|Harrison Teaford|22|
+|47|H0P3|0|
 
 >No Vehicles CR
 |Rank|Name|Vehicleless CR|
@@ -96,15 +97,16 @@
 |35|Ant King|66|
 |36|Tuma|65|
 |37|Richard Major|56|
-|38|Alexander S. Luthor|48|
-|39|Yuki|41|
-|40|Kara|28|
-|41|Harrison Teaford|22|
-|42|Mike|19|
-|43|James Nauer|12|
-|44|Amu|10|
-|45|Lance|4|
-|46|H0P3|0|
+|38|Dimir|49|
+|39|Alexander S. Luthor|48|
+|40|Yuki|41|
+|41|Kara|28|
+|42|Harrison Teaford|22|
+|43|Mike|19|
+|44|James Nauer|12|
+|45|Amu|10|
+|46|Lance|4|
+|47|H0P3|0|
 
 
 >No items CR
@@ -126,35 +128,36 @@
 |14|Glimmer|51|
 |14|Magnus Wang|51|
 |16|Bliss|50|
-|17|Sprite|47|
-|18|Maya Liang|45|
-|19|Ant King|43|
-|20|Hannah|40|
-|21|Isha|38|
-|22|Tuma|33|
-|23|David|31|
-|24|Bob|30|
-|25|Ultra Magnus|29|
-|26|Billy Kido|28|
-|27|Heli|26|
-|28|Calliope|25|
-|29|Harrison Teaford|22|
-|30|Yuki|21|
-|30|Remilia|21|
-|32|Charles Crane|20|
-|32|Jonathan Stampe|20|
-|34|Thomas Hammerer|17|
-|35|Alexander S. Luthor|14|
-|36|James Nauer|12|
-|36|Richard Major|12|
-|38|Amu|10|
-|39|Kara|9|
-|40|Mike|8|
-|41|Lance|4|
-|42|Chloe|0|
-|42|Sage|0|
-|42|Georgia|0|
-|42|H0P3|0|
+|17|Dimir|48|
+|18|Sprite|47|
+|19|Maya Liang|45|
+|20|Ant King|43|
+|21|Hannah|40|
+|22|Isha|38|
+|23|Tuma|33|
+|24|David|31|
+|25|Bob|30|
+|26|Ultra Magnus|29|
+|27|Billy Kido|28|
+|28|Heli|26|
+|29|Calliope|25|
+|30|Harrison Teaford|22|
+|31|Yuki|21|
+|31|Remilia|21|
+|33|Charles Crane|20|
+|33|Jonathan Stampe|20|
+|35|Thomas Hammerer|17|
+|36|Alexander S. Luthor|14|
+|37|James Nauer|12|
+|37|Richard Major|12|
+|39|Amu|10|
+|40|Kara|9|
+|41|Mike|8|
+|42|Lance|4|
+|43|Chloe|0|
+|43|Sage|0|
+|43|Georgia|0|
+|43|H0P3|0|
 
 
 >CR Rank of Ranks
@@ -166,45 +169,46 @@
 |3|Lin|6.67|4|11|
 |3|Phi|6.67|5|8|
 |5|Victor|7.33|2|10|
-|6|Hannah|8.67|3|20|
-|7|Nikto|9.00|4|12|
-|8|Ultra Magnus|11.33|4|25|
+|6|Hannah|9.00|3|21|
+|6|Nikto|9.00|4|12|
+|8|Ultra Magnus|11.67|4|26|
 |9|Karnak|12.33|3|19|
-|10|Chloe|14.67|1|42|
-|11|Thomas Hammerer|15.67|6|34|
-|12|Isha|16.33|13|21|
-|13|Calliope|17.67|11|28|
-|14|Sage|18.33|4|42|
+|10|Chloe|15.00|1|43|
+|11|Thomas Hammerer|16.00|6|35|
+|12|Isha|16.67|13|22|
+|13|Calliope|18.00|11|29|
+|14|Sage|18.67|4|43|
 |15|Ramses|19.67|6|30|
-|16|Maya Liang|20.33|18|25|
-|17|Bob|21.33|18|24|
+|16|Maya Liang|20.67|18|25|
 |17|Quinn|21.33|7|32|
-|19|Charles Crane|21.67|16|32|
+|18|Bob|21.67|18|25|
+|19|Charles Crane|22.00|16|33|
 |20|Kitty |22.33|12|31|
 |20|Nick|22.33|8|33|
-|22|Billy Kido|23.67|19|26|
-|23|Heli|24.67|20|27|
-|24|Doe|25.00|13|35|
+|22|Billy Kido|24.00|19|27|
+|23|Heli|25.00|20|28|
+|23|Doe|25.00|13|35|
 |25|Magnus Wang|25.33|14|33|
-|25|David|25.33|23|30|
+|26|David|25.67|23|30|
 |27|Glimmer|26.00|14|36|
-|28|Georgia|26.67|17|42|
-|29|Ant King|27.33|19|35|
+|28|Georgia|27.00|17|43|
 |29|Bliss|27.33|16|37|
-|31|Jonathan Stampe|28.00|20|32|
-|32|Sprite|28.33|17|38|
-|33|Tuma|30.67|22|36|
-|34|Mike|31.67|13|42|
-|35|James Nauer|33.33|21|43|
-|36|Amu|35.33|24|44|
-|37|Remilia|35.67|30|43|
-|38|Yuki|36.00|30|39|
-|39|Richard Major|38.00|36|41|
-|40|Harrison Teaford|38.33|29|45|
-|41|Alexander S. Luthor|39.00|35|44|
-|42|Kara|39.67|39|40|
-|43|Lance|42.67|41|45|
-|44|H0P3|44.67|42|46|
+|30|Ant King|27.67|20|35|
+|31|Jonathan Stampe|28.33|20|33|
+|32|Sprite|28.67|18|38|
+|33|Tuma|31.00|23|36|
+|34|Mike|32.33|13|43|
+|34|Dimir|32.33|17|42|
+|36|James Nauer|34.00|21|44|
+|37|Amu|36.00|24|45|
+|38|Remilia|36.33|31|44|
+|39|Yuki|36.67|31|40|
+|40|Richard Major|38.33|37|41|
+|41|Harrison Teaford|39.33|30|46|
+|42|Alexander S. Luthor|40.00|36|45|
+|43|Kara|40.33|40|41|
+|44|Lance|43.67|42|46|
+|45|H0P3|45.67|43|47|
 
 ---
 
@@ -234,22 +238,23 @@
 |5|Karnak|5|
 |5|Chloe|5|
 |5|Georgia|5|
-|20|Nikto|4|
-|20|Yuki|4|
-|20|Lance|4|
-|20|Hannah|4|
-|20|Sunny|4|
-|20|Maya Liang|4|
-|26|Kara|3|
-|26|Mike|3|
-|26|Marcus|3|
-|26|Isha|3|
-|26|Ant King|3|
-|26|Phi|3|
-|26|David|3|
-|33|Sage|2|
-|33|Remilia|2|
-|33|Ricky|2|
+|5|Dimir|5|
+|21|Nikto|4|
+|21|Yuki|4|
+|21|Lance|4|
+|21|Hannah|4|
+|21|Sunny|4|
+|21|Maya Liang|4|
+|27|Kara|3|
+|27|Mike|3|
+|27|Marcus|3|
+|27|Isha|3|
+|27|Ant King|3|
+|27|Phi|3|
+|27|David|3|
+|34|Sage|2|
+|34|Remilia|2|
+|34|Ricky|2|
 
 >Sex difficulty
 |Rank|Name|Sex difficulty|
@@ -276,21 +281,22 @@
 |12|Sunny|5|
 |12|Phi|5|
 |12|Georgia|5|
-|20|Sasha|4|
-|20|Maya Liang|4|
-|22|Ultra Magnus|3|
-|22|Hannah|3|
-|22|Alexander S. Luthor|3|
-|25|Nick|2|
-|25|Mike|2|
-|25|Yuki|2|
-|25|Marcus|2|
-|25|Isha|2|
-|25|Calliope|2|
-|31|Quinn|1|
-|31|Ricky|1|
-|31|Karnak|1|
-|31|David|1|
+|12|Dimir|5|
+|21|Sasha|4|
+|21|Maya Liang|4|
+|23|Ultra Magnus|3|
+|23|Hannah|3|
+|23|Alexander S. Luthor|3|
+|26|Nick|2|
+|26|Mike|2|
+|26|Yuki|2|
+|26|Marcus|2|
+|26|Isha|2|
+|26|Calliope|2|
+|32|Quinn|1|
+|32|Ricky|1|
+|32|Karnak|1|
+|32|David|1|
 
 >Chastity Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
@@ -309,26 +315,27 @@
 |6|Chloe|3.50|2|5|
 |12|Lockley|8.50|5|12|
 |12|Georgia|8.50|5|12|
-|14|Ultra Magnus|11.50|1|22|
-|15|Sasha|12.50|5|20|
-|16|Alexander S. Luthor|13.50|5|22|
-|16|Ant King|13.50|1|26|
-|18|Kara|14.00|2|26|
-|19|Calliope|15.00|5|25|
-|19|Nick|15.00|5|25|
-|21|Lance|16.00|12|20|
-|21|Nikto|16.00|12|20|
-|21|Sunny|16.00|12|20|
-|24|Quinn|18.00|5|31|
-|24|Karnak|18.00|5|31|
-|26|Phi|19.00|12|26|
-|27|Maya Liang|20.00|20|20|
-|28|Hannah|21.00|20|22|
-|29|Remilia|22.50|12|33|
-|29|Sage|22.50|12|33|
-|29|Yuki|22.50|20|25|
-|32|Isha|25.50|25|26|
-|32|Marcus|25.50|25|26|
-|32|Mike|25.50|25|26|
-|35|David|28.50|26|31|
-|36|Ricky|32.00|31|33|
+|12|Dimir|8.50|5|12|
+|15|Ultra Magnus|12.00|1|23|
+|16|Sasha|13.00|5|21|
+|17|Alexander S. Luthor|14.00|5|23|
+|17|Ant King|14.00|1|27|
+|19|Kara|14.50|2|27|
+|20|Calliope|15.50|5|26|
+|20|Nick|15.50|5|26|
+|22|Lance|16.50|12|21|
+|22|Nikto|16.50|12|21|
+|22|Sunny|16.50|12|21|
+|25|Quinn|18.50|5|32|
+|25|Karnak|18.50|5|32|
+|27|Phi|19.50|12|27|
+|28|Maya Liang|21.00|21|21|
+|29|Hannah|22.00|21|23|
+|30|Remilia|23.00|12|34|
+|30|Sage|23.00|12|34|
+|32|Yuki|23.50|21|26|
+|33|Isha|26.50|26|27|
+|33|Marcus|26.50|26|27|
+|33|Mike|26.50|26|27|
+|36|David|29.50|27|32|
+|37|Ricky|33.00|32|34|

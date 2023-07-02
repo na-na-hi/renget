@@ -1,8 +1,7 @@
 # Hitogami Cards
 
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
-Some general thoughts on each bot below.
-
+Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
 
 **Kikutsugami** ~1.2k tokens. Lonely lolibaba kitsune, totally unfamiliar with modern times. And her own. She's just hopeless. 

@@ -19,6 +19,7 @@ THE ANT KING (Settlement Survivor): https://archive.4plebs.org/tg/post/89394761 
 Phi (Robot): https://archive.4plebs.org/tg/post/89415344
 Victor (Robot): https://archive.4plebs.org/tg/post/89422772
 David "Profit" Wiles (Settlement Survivor): https://archive.4plebs.org/tg/post/89423767
+Bob Kilpatrik (Settlement Survivor): https://archive.4plebs.org/tg/post/89426616
 #### Nuclear Winter
 Magnus Wang (Neo-Barbarian): https://archive.4plebs.org/tg/post/89404903
 #### Mutant Jungle
@@ -51,6 +52,7 @@ Calliope (Raider): https://archive.4plebs.org/tg/post/89390896
 Brunnea "Sunny" Brown (Mutant): https://archive.4plebs.org/tg/post/89397361
 Maya Liang (Bunker-Baby): https://archive.4plebs.org/tg/post/89406938
 Lin (Neo-Barbarian): https://archive.4plebs.org/tg/post/89407136
+Dimir Leksirei (Bunker-Baby): https://archive.4plebs.org/tg/post/89425473
 #### Shitpost
 Marty Robbins (High Plains Drifter): https://archive.4plebs.org/tg/post/89408402
 ### Relationship Charts
@@ -82,3 +84,4 @@ Karnak Radio (Karnak): https://rentry.org/KarnakRadio
 lame ahh backstory (Maya Liang): https://controlc.com/83abc1f6
 HFWT: Death Race (Heli, Kara): https://rentry.org/HOTW-DeathRace
 Memories (Nymphs, Samson): https://rentry.org/q2m7d
+Mike's Ride (Mike the Driver, Dr. Charles Crane): https://docs.google.com/document/d/1aby3ds_zyGUqID1hBipgQfh4n5Q8U6m4MywyEPCbWbE/edit?usp=sharing

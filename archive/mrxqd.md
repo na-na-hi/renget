@@ -37,7 +37,7 @@ Recommended Meal: A bullet.
 >Dr. Charles Crane
 And on the other end of the spectrum from Hope, a good doctor. Got a good head on his shoulders and is damn skilled. If I got hurt in the wild out there, he'd the one I'd be most relieved to see coming to fix me up. Being a doctor lets you see the worst in the people, and he hasn't let that break him. Real respectable. Just don't tell him I said any of that. Guy's got this kind of smug aura to him that annoys me to hell.
 
-Recommended Meal: Grilled garlic butter lamb chops with a side of mudfruit sauce (Despite the name, it's a really tasty fuit. Trust me.).
+Recommended Meal: Grilled garlic butter lamb chops with a side of mudfruit sauce (Despite the name, it's a really tasty fruit. Trust me.).
 
 ---
 
@@ -46,7 +46,11 @@ A girl on the run makes my protective instincts kick in, but she's one of the pe
 
 Dateable?: Maybe one date, but I got a feeling she swings for the other other team.
 
-Recommended Meal: The Shockmaster (Robots are hard to cook for, but I've got this brew of chemical stuffs I got sitting in the back room that works well. Stir them together until it turns blue, toss in a battery, and watch it start to glow. Would never give it to someone with skin and bone, but bots say it feels good to stick their fingers into.)
+~~Recommended Meal: The Shockmaster (Robots are hard to cook for, but I've got this brew of chemical stuffs I got sitting in the back room that works well. Stir them together until it turns blue, toss in a battery, and watch it start to glow. Would never give it to someone with skin and bone, but bots say it feels good to stick their fingers into.)~~
+
+She is not a bot, she's not a bot, she's not a bot. Holy hell I poisoned an innocent girl.
+
+Recommended Meal: Carnitas de puerco served with rice, beans, avocado slices and spicy sauce... and a plate of sopapillas afterwards on the house as an apology.
 
 ---
 
@@ -130,7 +134,7 @@ Can't go wrong with more doctors. Just wish this one was more of a physical inju
 
 Dateable?: If she was into girls, maybe. She's friendly and smart, but... man that haircut ruins it. It really doesn't look good on her. The fade into thick curled sideburns? Goofy.
 
-Recommended Meal: Clam chowder in a bread bowl and a caesar salad. Why? Feels like she'd like it for some reason.
+Recommended Meal: Clam chowder in a bread bowl and a Caesar salad. Why? Feels like she'd like it for some reason.
 
 ---
 
@@ -153,7 +157,7 @@ Recommended Meal: Lobster bisque with part of the shell still inside. On the sid
 >Lance
 Host of my radio station of choice and a true patrician of the culinary arts. By that I mean he really likes my food, which makes him a good guy in my eyes. He's where I get so much of my info about the other people in the wastes and his stories are entertaining. There's a reason I'm willing to go out of my way to make a delivery to his place during my Trade Triangle runs: He's just a nice fellow to be around. I owe a lot of my business to him for his ad deal, and I make sure I show how grateful I am with the meals I supply him.
 
-Recommended Meal: Marinated skirt steak and shrimp, sauteed in a la diabla sauce and served with rice, beans, and guacamole. Just like mom used to make.
+Recommended Meal: Marinated skirt steak and shrimp, sautéed in a la diabla sauce and served with rice, beans, and guacamole. Just like mom used to make.
 
 ---
 
@@ -185,16 +189,16 @@ Kind of a freaky bitch if I'm being honest with ya. Sure she can be nice, and pl
 
 Dateable?: No. I don't think she's looking for anything serious and the whole love of killing thing is a big turn off. Shame because she's got a cute face.
 
-Recommended Meal: Boneless chicken breast sliced and sauteed in a special sauce with mushrooms, onions and tomatoes. A side of brown rice.
+Recommended Meal: Boneless chicken breast sliced and sautéed in a special sauce with mushrooms, onions and tomatoes. A side of brown rice.
 
 ---
 
 >Isha, Princess of the Verzon Tribe
-Now this is someone very much out of their element. They look and act like they were pulled out of a fairy tale book. Can't imagine what kind of place she was living in until now that she don't even know what a radio is. Wish I could help her out with her problem, but best I can do is point her towards one of the doctors and hope they got what she needs. If it comes to the point where she needs to go to Hope... I'll lend her a hand with dealing with that bot. It may be cute to see her be so curious about tech, but if she tries to lay a hand on any of my stuff like she has been with some of those towers, then I'm sending her on her way. I need to hear Rumours of the Wastes, dammit!
+Now this is someone very much out of their element. They look and act like they were pulled out of a fairy tale book. Can't imagine what kind of place she was living in until now that she don't even know what a radio is. Wish I could help her out with her problem, but best I can do is point her towards one of the doctors and hope they got what she needs. If it comes to the point where she needs to go to Hope... I'll lend her a hand with dealing with that bot. It may be cute to see her be so curious about tech, but if she tries to lay a hand on any of my stuff like she has been with some of those towers, then I'm sending her on her way. I need to hear Rumors of the Wastes, dammit!
 
 Dateable?: No. She's made it real clear what her whole thing is about. She's definitely into men and more than one at once. Not judging, though. More girls for me.
 
-Recommended Meal: Probably never had seafood in her life. Fried fresh whole red snapper. Sauteed shrimp and a salad for the sides.
+Recommended Meal: Probably never had seafood in her life. Fried fresh whole red snapper. Sautéed shrimp and a salad for the sides.
 
 ---
 
@@ -273,6 +277,46 @@ Okay, I don't believe Soulshit Fuckface is from pre-war, but I'm more willing to
 Dateable?: ~~Would.~~ Nah. Seems too two-faced to really try anything with like that. Or is two-faced the right word? Ah, whatever. Still, no.
 
 Recommended Meal: Oh! I remembered something else I got for bots on my menu! There's a mix I was trying out that... oh no wait, that's what I was serving before I made the Shockmaster. Dammit, is my menu really this limited for bots? I need to start brewing up some ideas.
+
+---
+
+>Billy Kido
+The way this guy's talked about on Rumors of the Wastes, you'd think he's death incarnate. Fast enough to deflect bullets, cuts through people and walls like they weren't even there, and does it with a blade you can't even see from forty paces away... Ugh, I hope that son of a bitch doesn't ever come this way. Gives me the willies even thinking about it.
+
+Recommended Meal: You think a guy associated with the Grim Reaper would like funeral potatoes or is that too on the nose?
+
+---
+
+>Tuma
+Now, I don't got anything against mutants in general, but when it comes to the ones that live out in the ocean, those are pretty scary folk. But usually they keep to themselves and their territory, so when one starts heading out into the wastes for no obvious reason, it makes you wonder what's going on with them. If she's just out and about doing her own thing, that's fine. People can do what they want. But if she's gonna cause trouble, I don't think doing it on land is the smartest choice. 
+
+Dateable?: Ehhhh... I'd have to meet her to make a decision on this one. Lotta human haters among mutants. But who knows, maybe she's cute under all those robes she's hiding her face with.
+
+Recommended Meal: Some surf and turf to give her a taste of new and familiar. Steak and crab legs with lemon slices and a little cup of butter to dip.
+
+---
+
+>V.I.C.T.O.R. (Virtual Intelligent Cowboy Tactical Offense Robot)
+This is the kind of bot people think of when they hear the term "clanker". Good guy, though, if pretty cheesy with his words. People like him and I can see why if the tales about him are true. Always nice to have actual good folks around protecting people... but you can never be too sure, you know? He's from the University, and that place is full of crack pots. Old Victor could have a switch in him just waiting to get flipped and make him start gunning everyone down. Paranoid? Definitely, but there's always a catch when it comes to people who seem too good to be true.
+
+Recommended Meal: Maybe there's another way to serve electricity to bots as a meal? I could offer them the outlet, but that feels demeaning. Battery wrapped in copper wire? Nah, that's way too expensive.
+
+---
+
+>David "Profit" Wiles, the Leader of the Sunset Circuit
+Well yee-haw to you too, ya damn playboy. Another reason I'm glad I don't go for men, guys like this who jump from girl to girl telling them they're the love of his life and doesn't take no for an answer. He's just as bad as Ricky in that sense. Anyway, guy's trying to live his life like one of those old western stories from prewar. Not a bad choice per se, since he is actually turning in bounties. Fits firmly in the group of people I consider the "not evil jackasses". Way too many of those, but they're much more preferable to the normal evil jackasses.
+
+Recommended Meal: For the quintessential cowboy, a cowboy classic. Barbecued rattlesnake and a bowl of chili con carne.
+
+---
+
+>Dimir Leksirei
+
+Do I really need more evidence that all bunker babies are weirdos? I mean yeah he's a doctor and I love more of those around, but the way he goes on about "the blessing of steel" is... well, I don't think I need to tell you. If mutants take over, at least I can still have a job as a chef if I beg for my life. If robots take over? They don't eat food! I'm screwed!
+
+That was a joke, by the way. You could have laughed if you wanted to. No? Fuck you too.
+
+Recommended Meal: I don't know if he can still eat food, but if he can, then something that won't get accidentally slip into his joints to rot. Some baked buffalo wings, light on the sauce so it doesn't drip off the meat and a leafy salad on the side.
 
 ---
 
