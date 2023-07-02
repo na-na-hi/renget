@@ -3,7 +3,7 @@
 ***
 **NOTICE:** ==i am critical of all of my interests. *italics is current hyperfixation.*== ![](https://cdn.discordapp.com/attachments/956409871547400192/1077814971347517520/45b914a2.gif)
 
-**INTERESTS:** *object shows* (bfdi/bfdia/idfb/bfb/tpot, *hfjone*, *dan vs*, inanimate insanity, the nightly manor, obsolete battle show, s\*n), *shovelware studios (shovelware's brain game)*, *ren and stimpy*, vinesauce (joel, vinny), the binding of isaac, typology, minecraft, pokemon, writing, drawing, eddsworld, psychology + psychiatry, terraria, roblox, deltarune/undertale, jerma985, chess, xqc, murder drones, hoarding (specifically graphics/urls/genders and the like)
+**INTERESTS:** **object shows** (bfdi/bfdia/idfb/bfb/tpot, *hfjone*, inanimate insanity, the nightly manor, obsolete battle show, s\*n), *dan vs*, *clone high*, shovelware studios (shovelware's brain game), ren and stimpy, vinesauce (joel, vinny), the binding of isaac, typology, minecraft, pokemon, writing, drawing, eddsworld, psychology + psychiatry, terraria, roblox, deltarune/undertale, jerma985, chess, xqc, murder drones, hoarding (specifically graphics/urls/genders and the like)
 
 
 **MUSIC:** interpol, pilotredsun, vacations, roar, tame impala, graham kartna, oliver buckland, *they might be giants*, ghost and pals, jack stauber, mitski, wallows, radiohead, neutral milk hotel, glass animals, four tet, pavement, the paper chase, cheesy hfj, mac demarco, rebzyyx, lemon demon, the dredsen dolls, idkhow, machine girl, red vox, death cab for cutie

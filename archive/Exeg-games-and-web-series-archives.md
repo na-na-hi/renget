@@ -17,7 +17,7 @@ SCP Observer | [PRESS START](https://store.steampowered.com/app/1738710/SCP_Obse
 Slender: The Eight Pages | [PRESS START](https://slendergames.wordpress.com/2014/04/27/mf-link-slender-the-eight-pages-all-version/)
 Slender's Shadow | [PRESS START](https://marcsteene.itch.io/slendermans-shadow)
 Stop It Slender (GMOD Required) | [PRESS START](https://steamcommunity.com/sharedfiles/filedetails/?id=171728689)
-Slender: The Arrival | [PRESS START](https://www.slenderarrival.com)
+Slender: The Arrival | [PRESS START,](https://store.steampowered.com/app/252330/Slender_The_Arrival) [Website](https://www.slenderarrival.com)
 Slendytubbies | [Classic,](https://files.catbox.moe/yx2ew1.rar) [#2,](http://zeoworks.com/games/Slendytubbies2.html) [#2D,](http://zeoworks.com/games/Slendytubbies2D.html) [#3,](http://zeoworks.com/games/Slendytubbies3.html) [#3DLC,](http://zeoworks.com/games/Slendytubbies3C4.html) [Worlds](https://zeoworks.com/games/SlendytubbiesWorlds.html)
 Pokémon: Cursed Black | [PRESS START](https://www.mediafire.com/file/lld8vxtjdhi3z07/Pok%25C3%25A9mon_Cursed_Black_Release_1.0.zip/file)
 Re:Lost Silver | [PRESS START](https://www.mediafire.com/file/6eaygo0wqet0af5/ReLostSilver_1.3.3.zip/file) [(Dev blog)](https://tohjofalls.net/)

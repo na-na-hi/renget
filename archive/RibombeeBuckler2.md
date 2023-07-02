@@ -763,7 +763,7 @@ Cooper and Testa jumped. They scrambled to their feet and stood close together, 
 
 “Settle down,” the unknown Pokemon replied. “Didn’t mean to scare you. I’m over here.”
 
-Team Buckler tracked the voice to a darker patch of the forest, shaded under a dense part of the canopy. A shadowy figure about a foot taller than Testa or Booker emerged from behind a tree. It seemed to be a Pokemon wearing a black hooded cloak. It moved closer and removed its hood as it stepped into a sunny spot, revealing its identity: a Dewott.
+Team Buckler tracked the voice to a darker patch of the forest, shaded under a dense part of the canopy. A shadowy figure about a foot taller than Testa or Cooper emerged from behind a tree. It seemed to be a Pokemon wearing a black hooded cloak. It moved closer and removed its hood as it stepped into a sunny spot, revealing its identity: a Dewott.
 
 “Hope I ain’t interruptin’ anything,” he said. “But like I said, I think I can help you. And at the same time, I bet you two can help me. Let’s talk.”
 

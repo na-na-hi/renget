@@ -53,7 +53,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 [[Gumroad]](https://homyu.gumroad.com/l/aw) [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
-->[[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
+->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
 [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01032944.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1859938) : Kantai Collection - Luigi Torelli (UIT-25 / I-504)
 [[DLSite]](https://www.dlsite.com/home/work/=/product_id/RJ01015129.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1816379) : Kantai Collection - USS B45 Colorado
@@ -83,8 +83,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **Jsn** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/25175) [[Fantia]](https://fantia.jp/fanclubs/50141) [[Iwara]](https://ecchi.iwara.tv/users/jsn) [[Twitter]](https://twitter.com/JsnUoroku) <-
-
-[[Fantia]](https://fantia.jp/products/431517) : Virtual YouTuber - Yorumi Rena -Bunny Girl-
 ***
 -> **Kafuji (VRキャラクター製作所)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/188920) [[Booth]](https://kafuji.booth.pm) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40057.html) [[Fantia]](https://fantia.jp/fanclubs/3967) [[Gumroad]](https://kafuji.gumroad.com/) [[Patreon]](https://www.patreon.com/kafuji) [[Twitter]](https://twitter.com/Kafuji) <-

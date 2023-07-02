@@ -818,12 +818,45 @@ Cons:
 
 
 ### ->クローチェ<-
-Coming soon
+**TL;DR - Hard to suggest with more summer units looming. She's still strong, but I expect a Prifes for 5.5 Anniversary on August 31st. If you can afford to roll for the +200 shards to lessen the burden on your whale tears, then it's a good idea.**
+A pure physical mutli-target DPS that a stack of 7 batteries after her UB. With her UB giving her a ton of strong buffs for the duration of the fight, it's important to get it up early. Every subsequent UB recharges her batteries back to 7, but doesn't give her additional buffs. The only way for her to lose the perma buffs, if she runs out of batteries. On the 7th action, she'll use her SP3 (Overheat) - Silencing herself for 3s and wiping any status up buffs. In short, the goal for maximum efficiency is to always be in her "Full Charge" mode. When she has 1 battery or right as the text bubble pops up for Overheat, you can UB and cancel it to continue in UB form. Once she starts Overheat, you lose the ability to UB and she will be stripped of the buffs gained from her UB form. Ideally, you simply never want to see this skill happen.
+As for her skills, they're mostly just damage with guaranteed crit and x3 damage on crit. She can certainly do a lot of damage, but has some competition against units like P.Rei or Muimi, maybe even S.Mimi with her UE on the horizon. Even if she dominates July & August CB, grabbing her during another prifes is a good option if you're thinking long term. If we continue to see two MT bosses every few months, she'll definitely see usage - But Multi-target attackers are somewhat niche to begin with.
 
--> ![クローチェ]() <-
+-> ![クローチェ](https://redive.estertion.win/card/full/126431.webp) <-
 
 Pros:
-- Coming soon
+- UB does good damage and provides massive buffs to self (XL P.Atk buff, 300% Action speed buf)
+- UB's AS buff is stackable with other AS buffs
+- UB form skill loop spams SP1 -> SP2
+- S1 Increase damage taken by enemy hit by 8%
+- S2 buff P.Atk & Crit rate
+- SP1 is just S1 with guaranteed crit damage and x3 on crit
+- SP2 is just S2, does damage has guaranteed crit and x3 on crit 
+- Large range on all skills
 
 Cons:
-- Coming soon
+- Requires team to be built around her, similar to Muimi or P.Rei
+- No debuffs
+- Very little team utility (increased crit damage taken from enemies)
+- Needs TP support in order to not lose her buffs
+- While SP3 deals a high amount of damage, it silences her and strips her of her "Full Charge" buff 
+- HP EX skill is susceptible to high tier comp autism with defensive buffs (Normally HP stats don't count, until defensive buffs are involved)
+
+
+### ->Swimsuit Akino<-
+Farm her up to 5* if you want a useful Arena/P.Arena unit that can help you fend off those pesky NY.Homare/Natsune comps that explode your team on 1st action, as her 1st action (S2) applies before their skills land. Her identity is that if there is a magic damage dealing enemy, her P.Atk, M.def buffs and damage have their potency increased. This does mean she could have a potential niche in this new CB meta, where defensive buffs are becoming more valuable. Unfortunately, she lacks any sort of debuff, which would probably solidify her niche as a P.Attacker that keeps buffs going and beefs up your team vs magic damage. The specific requirement of a unit needing to be classified as magic does hurt her a bit on the CB side, considering things like Griffon and Crab are considered physical, but do have magic attacks.
+If nothing else, should be very helpful to new players who haven't farmed up S.Chika yet. **Since she's a welfare unit, box 5 of the event contains  her free character specific growsphere.**
+
+-> ![S.Akino](https://redive.estertion.win/card/full/126731.webp) <-
+
+Pros:
+- S2 P.Atk & M.Def buff applied on 1st action is very quick (Faster than NY.Homare/Natsune 1st action damage applies)
+- Deals decent damage when fighting against a magic enemy in party
+- Buffs self on UB and S1
+
+Cons:
+- Can get stunned out of her 1st action
+- UB & S1 buffs only applies to self (Need to confirm which units stun her, will replace once I get her Growsphere.)
+- Massive potential loss against physical enemies
+- No CC
+- No other form of team utility (TP Boost, TP Restore, HP regen, HP Restore, Barriers, etc...)

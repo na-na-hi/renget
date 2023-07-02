@@ -128,6 +128,14 @@ I truly appreciate all types of robot girls, especially the ones who'll murder m
 
 [CHUB link](https://www.chub.ai/characters/nicenshady/Ash)
 
+Webber | quip
+------ | ------ 
+ ![monster meat joke](https://files.catbox.moe/xn8yei.png) | The fluffiest and cutest spider boys of them all, he loves making friends!
+
+Best boy from dont starve.
+hes a kid guys so no sex!!!! sex is bad!!!
+[CHUB link](https://www.chub.ai/characters/nicenshady/Webber)
+
 ***
 ###Feral/animal
 I won't judge you, im a FAR worse person.

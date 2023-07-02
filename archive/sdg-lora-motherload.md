@@ -23,6 +23,15 @@ etc
 
 The files in these directories aren't sorted in any logical order, models, LoRA's, wildcards, embeds, etc are all bunched up in one pile. 
 
+**And here you can find a backup of  images uploaded by model uploaders on civitai (300k+ images in total:**
+https://mega.nz/folder/dK1DDDYT#Pvn8W_vApL87_w8we3oqNg
+https://mega.nz/folder/kPcV3ATT#I9fjLQlHhheiRZCSQqUasA
+
+Zip file with all images can be downloaded here in case mega deletes it:
+https://huggingface.co/HugeOcean/ImageMirror/blob/main/Image_Motherload.zip
+
+Most of these should contain metadata.
+
 #LoRA's
 **Table of contents**
 [TOC2]

@@ -743,3 +743,17 @@ Bond story priority: High (Relevant units: O.Yuki)
 Max level Unit priority: High
 New player Unit priority: Med (Can help in clearing EX3/EX4+, but not a main piece. Helps cheese fights.)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+
+
+## -> Tsumugi <- (JP Release Date: Year 6, July 7th)
+
+- UB+: 
+- CB: 
+- Arena: 
+- PvE: 
+- 
+
+Bond story priority: High (Relevant units: None)
+Max level Unit priority: 
+New player Unit priority:  ()
+[Return to Top](https://rentry.org/Six_Star/edit#6-stars)

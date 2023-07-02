@@ -70,9 +70,9 @@ Inigo stopped backpedalling, instead following along down the alley.
 
 The meeting place wasn’t too far from here, but it was slightly out of the way. The area they were in was run down, with abandoned houses and buildings every now and then, and these alleyways were far from well-kept.
 
-Despite that, the two of them walked with a surprising lack of apprehension. Maybe it was their recklessness and easy-going nature, respectively. More likely, it was the fact that they had each been through far worse than what a dark alleyway might threaten in all but the most dire of circumstances.
+Despite that, the two of them walked with a surprising lack of apprehension. Maybe it was their respective reckless and easy-going natures. More likely, it was the fact that they had each been through far worse than what a dark alleyway might threaten in all but the most dire of circumstances.
 
-As they reached the end of the alleyway, Junichi stopped, and looked around. They were near the river, now. He cast his gaze around deliberately, contrasting with Inigo, who was looking around curiously and somewhat aimlessly with one hand shading his eyes from nothing in particular.
+As they reached the end of the alley, Junichi stopped, and looked around. They were near the river, now. He cast his gaze around deliberately, contrasting with Inigo, who was looking around curiously and somewhat aimlessly with one hand shading his eyes from nothing in particular.
 
 “This way.” Junichi said, jerking his head upwards to gesture with his chin.
 
@@ -82,7 +82,7 @@ Inigo followed along, falling into step to his left. “You never told me where 
 
 “Yeah, but you’re usually way more straightforward.”
 
-Junichi growled, “We’ve known each other for a few months.”
+Junichi growled, “We’ve only known each other for a few months.”
 
 “I’m a good judge of character!” Inigo grinned back.
 
@@ -113,7 +113,7 @@ Junichi glanced back at Inigo, his expression unreadable. Whether it was concern
 	Quirk: Rampage Hornet Mode
 	The ability to transform into a hybridized body, a mix of man and Japan’s most deadly creature!
 
-The man called Hornet finally stood up, with an annoyed grin on his face. “I told you last time, call me aniki. I’m not that old. Same old job as ever. Feels good to be back on track!”
+The man called Hornet finally stood up, with an annoyed grin on his face. “I told you last time, call me *aniki*. I’m not that old. Same old job as ever. Feels good to be back on track!”
 
 “Mm.” Junichi nodded in agreement, but his tone was still flat and awkwardly matched with the enthusiasm Hornet showed. 
 
@@ -154,13 +154,13 @@ Junichi thought for a few moments, silently, until Hornet prompted him.
 
 Junichi nodded with a short huff of a sigh. “Yeah. Let’s go in.”
 
-He turned and gestured with one hand at Inigo, and followed Psycho Slash’s path around the corner.
+He turned, gesturing with one hand at Inigo, and followed Psycho Slash’s path around the corner.
 
 There were a few steps leading up to a door, which Psycho Slash was impatiently standing by, occasionally glancing around. As Junichi and Inigo approached the steps, Psycho Slash opened the door. His jaw was clenched, and his gaze was sharp and almost hostile. He said nothing as the two passed by him to enter the building, but his gaze was worth more than any words could be.
 
 The inside of the building was mostly empty, save for a few crates dotted around and the other people, numbering up to twenty or thirty. The main feature of this obviously-abandoned small warehouse was the stage constructed at the far side of the open area. A simple raised platform, with a single step up to bridge the thigh-high distance.
 
-“Jeez, I hope that guy isn’t going to stare at us the whole time.” Inigo muttered as they found a place to settle in next to a crate along the wall opposite the stage.
+“Jeez, I hope that guy isn’t going to stare at us the whole time.” Inigo muttered as they found a place next to a crate along the wall opposite the stage.
 
 “He won’t start trouble.” Junichi murmured back.
 
@@ -201,7 +201,7 @@ He let his gaze linger for a moment, noting the sword at the person’s hip, the
 
 “Comrades! Brothers- and Sisters-in-arms, welcome. It’s been some time since we met like this. After the last raid, we needed to lay low, regroup, and recover. But that time is behind us now.”
 
-Nebulous Storm spoke with a resolute confidence, but not with the power or projection one would expect of a traditional speaker on a stage such as this. No, her voice was almost soft, having a certain melodic gentle quality to it, at complete odds to her persona in combat.
+Nebulous Storm spoke with a resolute confidence, but not with the power or projection one would expect of a traditional speaker on a stage such as this. No, her voice was almost soft, having a certain melodic, gentle quality to it, at complete odds to her persona in combat.
 
 *‘I remember how I almost left when I attended my first meeting…’* Junichi mused as the speech continued.
 
@@ -211,7 +211,7 @@ Nebulous Storm spoke with a resolute confidence, but not with the power or proje
 
 The crowd roared in approval, a cheer rising up to the roof and beyond, before they went silent with an authoritative flick of a sheathed sword from Nebulous Storm.
 
-“To do this, we have several objectives. We need to keep the so-called **‘Heroes’** of this city on their feet. We will lead several harrying strikes and skirmishes on choice agencies to keep them busy and on the back foot. Additionally, we have a few other targets. The Enforcers have a large presence here, and we will need to deal with them. Not only are they going to be attempting to disrupt our actions and kill or capture all of us, they’re bringing an important ally to Kyoto to imprison them where they think we cannot reach. So, to begin with, Hornet…”
+“To do this, we have several objectives. We need to keep the so-called **‘Heroes’** of this city on their feet. We will lead several harrying strikes and skirmishes on choice agencies to keep them busy and on the back foot. Additionally, we have a few other targets. The Enforcers have a large presence here, and we will need to deal with them. Not only are they going to be attempting to disrupt our actions and kill or capture all of us, they’re bringing one of our important allies to Kyoto to imprison them where they think we cannot reach. So, to begin with, Hornet…”
 
 Junichi zoned out, letting his attention move away from Nebulous Storm. This was the part where he didn’t need to pay attention. The big boss would dish out the imperatives, the important and strongest members would be assigned activities, then they’d in turn take their pick from the mooks to accompany him - this is where he’d come in. As he figured, he’d get recruited by Hornet to join up with a harassment team, just like last time.
 
@@ -248,13 +248,13 @@ Junichi looked over, his neck wooden, motions slow. That voice belonged to one o
 	Quirk: Deathless
 	Simply put, he’s a regenerator. I don’t know the specifics, but he’s hard to put down.
 
-“I’ve made my decision. Unless Marrow wants to decline his assignment?” Nebulous Storm turned her head, and looked at Junichi. Her fiery red eye burned through him, even as her regular eye calmly watched for his response. Soon after, he felt more eyes looking in his direction, until what felt like the entire warehouse was staring at him.
+“I’ve made my decision. Unless Marrow wants to decline his assignment?” Nebulous Storm turned her head, and stared at Junichi. Her fiery red eye burned through him, even as her regular eye calmly watched for his response. Soon after, he felt more eyes looking in his direction, until what felt like the entire warehouse was staring at him.
 
 Hell, maybe they were.
 
 “Fuck no.” He said, defiance burning through the icy cold in his chest. His first thought was naturally to accept that out, but being outright questioned like that? By him, nonetheless?
 
-Junichi stepped forward, away from the wall. “I’ll do it.”
+Junichi stepped forward, away from the wall and into the center of the gathering. “I’ll do it.”
 
 He glared at Deathless, who stared back, looking down his nose, his heavy brow shadowing his eyes.
 
@@ -270,11 +270,11 @@ Junichi let out the sigh he didn’t realise he was holding, allowing his should
 
 “Why are you questioning one of Legion’s pillars? Nebulous Storm has her reasons for whatever she does, that’s why she’s one of the leaders of this organization.”
 
-“I’m voicing my opinion. Our goal is freedom, that should apply to words, no?” Deathless replied in his rumbling voice, walking forward to meet Hornet in the middle.
+“I’m voicing my opinion. Our goal is freedom, that should apply to words, no?” Deathless replied in his rumbling voice, walking forward to meet Hornet in the middle as the people in the crowd started backing away.
 
 “It should. But what you’ve done is just a blatant power-play. It’s this kind of squabbling and control we’re trying to destroy.”
 
-The two men faced each other down, Deathless towering over Hornet’s more compact form. Such clashes were surprisingly common. In an organization like Legion, strength mattered the most, ironically. Moments passed.
+The two men faced each other down, Deathless towering over Hornet’s more compact form. Such clashes were surprisingly common. In an organization like Legion, strength mattered the most, ironically. Moments passed, tension mounting.
 
 “Fine,” Deathless finally said with a sigh, “I’ll just prove my point instead of making a ‘power-play’ like you accused.”
 
@@ -298,15 +298,15 @@ Often, in a hero vs villain scenario, fights could drag on, as each side assesse
 
 Junichi stopped his backwards momentum, and charged, picking one opponent. Because they had fanned out, he had just a single moment to take care of this one before the other could engage. He took the simple option; intimidation.
 
-He thrust his left hand forward, and activated his quirk as he met the charge of his chosen opponent, aiming for the face as a spike of bone explosively shot forward. The underling’s eyes immediately widened, and he flinched backwards, hard. Bending almost ninety degrees backwards, he started to fall, scrambling to retain his balance, but Junichi was already turning, shifting his feet and hips as he transitioned into a side-kick, catching the second underling square in the stomach.
+He thrust his left hand forward, and activated his quirk as he met the charge of his chosen opponent, aiming for the face as a spike of bone explosively shot forward. The underling’s eyes immediately widened, and he flinched backwards, hard. Bending almost ninety degrees backwards, he started to fall, scrambling to retain his balance, but Junichi was already turning to the other opponent, shifting his feet and hips as he transitioned into a side-kick, catching the second underling square in the stomach.
 
 All he needed was one more moment, and he got it. Bringing his foot back down to the ground, he continued with his momentum, and swung his arm towards the guy who’d fallen, even as a scythe- or pick-like blade formed out of the side of the bone spike. He slammed it into the ground next to the fallen underling’s head.
 
 Deathless merely watched impassively. 
 
-“Is this level of strength really sufficient?” he asked, seemingly to thin air, but the question hung. He let it sit there, for a moment, before shrugging. “My boys lost. I certainly hope they don’t get assigned anything important before I can train them to be stronger.”
+“Is this level of strength really sufficient?” he asked, seemingly to thin air, but the question hung. He let it sit there, for a moment, before shrugging. “My boys lost. I *certainly* hope they don’t get assigned anything important before I can train them to be stronger.”
 
-Junichi watched as he turned, and strode to the exit. He felt his breathing quicken with anger, wanted to shout out, call that old bastard back, demand he fuck off and die, or-
+Junichi watched as Deathless turned and strode to the exit. He felt his breathing quicken with anger, wanting to shout out, call that old bastard back, demand he fuck off and die, or-
 
 But he couldn’t. Not here, not now.
 

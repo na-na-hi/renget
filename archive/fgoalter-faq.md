@@ -34,12 +34,15 @@
 >How to run FGO on a phone and an emulator at the same time without using a transfer code:
 1. Find this folder on your usual FGO instance:
 	- [NA] `Storage/Android/data/com.aniplex.fategrandorder.en/files/data`
-2. Copy these 4 files and put it at the same location in your target device or emulator. They start with:
+2. Locate these 4 files and copy them over to your target device or emulator. They start with:
 	- `54cc`
 	- `969b`
 	- `644b`
 	- `e1a9`
-3. Open up the target instance and it should show your FC at the bottom if done correctly.
+3. Install FGO. Open it and update the game data. Then close out of FGO.
+4. Copy the above four files into the new FGO instance folder of the same name:
+	- [NA] `Storage/Android/data/com.aniplex.fategrandorder.en/files/data`
+5. Reopen up the target instance, click the "ID: Tap here to display" at the bottom and it should show your FC if done correctly.
 
 > 3T Looping Teams for Future Lottos:
 - [Grand Nerofest 1st Term](https://arch.b4k.co/vg/search/text/Nerofest%201st%20term%2090%2B%20node/)

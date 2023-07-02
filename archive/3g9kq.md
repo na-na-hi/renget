@@ -72,9 +72,10 @@ ___________________________________
 | Nature | Link |
 |------|-----|
 | Mumei's drawings (Passpartout, Gartic Phone and public drawing streams) | https://cloudup.com/ctaqUrQexrw & https://cloudup.com/cWpw38c4Ejw |
-| Chat Emotes | https://cloudup.com/cyk89Mgm67K |
+| Chat Emotes | https://catbox.moe/c/2joben |
 | Korean stamps | https://files.catbox.moe/a5gvs0.zip |
-| Hololive Super Expo 2022 |https://cloudup.com/ctMesZAxZFF |
+| Hololive Super Expo 2022 |https://catbox.moe/c/2joben |
+|Hololive Super Expo 2023 |https://catbox.moe/c/wk5ybi |
 
 #####Hopium Edit Templates (old and new)
 ######Original Hopium Template

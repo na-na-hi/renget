@@ -78,7 +78,7 @@ We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
 That is literally all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
 
-##Comparisons: LoHa, LoKr and iA3
+##Comparisons: LoKr, LoHa and iA3
 ![](https://i.postimg.cc/fW16XZkJ/tmp3pei5e7y.png)
 ![](https://i.postimg.cc/QdhYkMDx/tmp70ocql-w.png)
 ![](https://i.postimg.cc/c1vpr6xp/tmp87dfwxif.png)

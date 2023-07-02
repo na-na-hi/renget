@@ -3,6 +3,10 @@
 [TOC]
 
 #Pending Requests
+1. Bill and Gill dressed as Mario and Luigi
+1. Nick, Macom, and Booker studying Porygon 
+1. Smith and Sneasel sparring 
+1. Clara relaxing with other guildmons 
 1. [This](https://files.catbox.moe/v82nhp.jpg) with Kaiji
 1. A bunch of Macom jumping over a fence
 1. Toge and Dewott as [this](https://files.catbox.moe/07tvv0.png)

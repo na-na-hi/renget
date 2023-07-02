@@ -54,4 +54,4 @@ version 0.0.2.5
 >After thirty seconds of what seems like stunned silence, you go to speak again.
 >"Unidentified Vessel, do you re-"
 >Suddenly, you are interrupted by your interlocutor, her (at this point you're confident in that) voice can be described as almost a squee.
->"You can understand me?!
+>"You can understand me?! I have so many questions! What are you? 'ahn-awnn' doesn't sound like a Putori name. To think that I, a lowly biology student, would wind up making-" she stops to catch her breath.
