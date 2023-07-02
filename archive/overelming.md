@@ -36,7 +36,7 @@ I placed my headband and badge on my head, then left my room.
 
 *(This is it, my first day as a member of this guild. What should I do today? I guess the first step would be having breakfast.)*
 
-As I floated through the hallways, I tried to recall the guildhall’s layout from when I was walking with the Guildmaster last night.
+As I floated through the hallways, I tried to recall the guildhall’s layout from when I was walking with the Guildmaster in the previous night.
 
 *(Ah, that’s right. Last night I heard shouts telling someone to leave the kitchen. I think it came from the first floor…)*
 
@@ -387,7 +387,7 @@ I rushed back into the storeroom and searched for the box labeled “Blast Seeds
 
 *(Maybe there are more in some unlabeled box? Wouldn’t be a surprise in this mess of a storeroom.)*
 
-I rummaged through some unlabeled boxes to no success. I also looked inside some of the labeled boxes just in case one of them were mislabeled and contained Blast Seeds, but all I found was that it wasn’t just the Blast Seeds box that was empty. It seemed like either the refilling process was slow, or people were lazy to warn the management when the stock ran out. Considering the state of the storeroom I imagined it was the later.
+I rummaged through some unlabeled boxes to no success. I also looked inside some of the labeled boxes just in case one of them was mislabeled and contained Blast Seeds, but all I found was that it wasn’t just the Blast Seeds box that was empty. It seemed like either the refilling process was slow, or people were lazy to warn the management when the stock ran out. Considering the state of the storeroom I imagined it was the later.
 
 I left the storeroom pondering what options I had left. *(Hmm… What if I ask someone in the guild to come with me? That sounds like a good idea. But I don’t know anyone aside from Sneasel, Booker and-)*
 

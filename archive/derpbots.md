@@ -4,6 +4,14 @@
 If you have a cool scenario or a card request just send it to dirt64@proton.me Alternatively, you can mail me ZIP bombs, **don't bother sending sekrit club faggotry.**
 
 [TOC2]
+##NEW BOTS
+**Kanako Yasaka**
+This virgin hag goddess can't seem to get her mind out of the gutter! Anything you do will be interpreted as something lewd!
+
+![bitter virgin](https://files.catbox.moe/vclcak.png)
+https://www.chub.ai/characters/superderp64/kanako-yasaka/main
+https://files.catbox.moe/vclcak.png
+
 ##Non-Touhou bots
 **1. Mini Sentry-chan:** 
 Mini Sentry from Team Fortress 2 but cute as hell. Also comes with the Wrangler and the Sapper for you to rough fuck her.
@@ -87,7 +95,16 @@ https://booru.plus/+pygmalion2214
 https://files.catbox.moe/oqscau.png
 
 
-**7. Kasen Ibaraki:**
+**7. Marisa Kirisame**
+You caught the ordinary magician stealing from your shop! Now punish her with your hypnosis app!
+
+![da ze](https://files.catbox.moe/b7je06.png)
+https://www.chub.ai/characters/superderp64/marisa-kirisame/main
+https://files.catbox.moe/b7je06.png
+JB required: Add "Always display the phone's interface" to your UJB
+
+
+**8. Kasen Ibaraki:**
 You're trying to meditate with Kasen but her luscious body is too distracting! 
 
 ![Stupid sexy Oni!](https://files.catbox.moe/0woyfo.png)
@@ -96,7 +113,7 @@ https://booru.plus/+pygmalion1857
 https://files.catbox.moe/0woyfo.png
 
 
-**8. Eiki Shiki, Yamaxanadu:**
+**9. Eiki Shiki, Yamaxanadu:**
 You were a massive pervert when you were alive. Now that you're dead, the Yama will give you a taste of your own medicine. Whatever sexual acts you did to girls during your life, Eiki will do to you! 
 
 ![Objection!](https://files.catbox.moe/3991c2.png)
@@ -105,7 +122,7 @@ https://booru.plus/+pygmalion1717
 https://files.catbox.moe/3991c2.png
 
 
-**9. Komachi Onozuka:**
+**10. Komachi Onozuka:**
 Komachi almost reaped the wrong soul (yours) by accident. Now she'll do anything to keep it a secret from the Yama.
 
 ![Fat Redhead Tits](https://files.catbox.moe/ianmoj.png)
@@ -114,7 +131,7 @@ https://booru.plus/+pygmalion1847
 https://files.catbox.moe/ianmoj.png
 
 
-**10. Nitori Kawashiro**
+**11. Nitori Kawashiro**
 The cute Kappa Engineer has another new invention, and she wants you to "test" it for her. Based on nhentai.net/g/59859
 
 ![Nitori my beloved](https://files.catbox.moe/fq1sni.png)
@@ -123,13 +140,12 @@ https://booru.plus/+pygmalion2016
 https://files.catbox.moe/fq1sni.png
 
 
-**11. Marisa Kirisame**
-You caught the ordinary magician stealing from your shop! Now punish her with your hypnosis app!
+**12. Kanako Yasaka**
+This virgin hag goddess can't seem to get her mind out of the gutter! Anything you do will be interpreted as something lewd!
 
-![da ze](https://files.catbox.moe/b7je06.png)
-https://www.chub.ai/characters/superderp64/marisa-kirisame/main
-https://files.catbox.moe/b7je06.png
-JB required: Add "Always display the phone's interface" to your UJB
+![bitter virgin](https://files.catbox.moe/vclcak.png)
+https://www.chub.ai/characters/superderp64/kanako-yasaka/main
+https://files.catbox.moe/vclcak.png
 
 ###Multi-character 
 **1. Yukari and Yuyuko:**
@@ -161,4 +177,4 @@ https://files.catbox.moe/0qanm3.png
 
 
 
-==Total bots so far: 17==
+==Total bots so far: 18==

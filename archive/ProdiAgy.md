@@ -12,33 +12,79 @@ Both function well for characters and styles given their size.
 ##Recommendations:
 iA3 for creativity/versatility at a great quality, only 200kb.
 LoKr for fast LoHa quality at a 2.5mb size.
-LoHa for likely placebo perfect character reproduction at a bigger size. (iA3 and LoKr can likely do similarly by just prompting better. Skill issue.)
+LoHa for likely placebo perfect reproduction at a bigger size. (iA3 and LoKr can likely do similarly by just prompting better. Skill issue.)
 LoCon and LoRa if you're simple and want to waste space, at that point just try out DyLora.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
 ##Training time?
 With anti-overtraining tricks/dampening it took me anywhere inbetween 1200-3200 steps on a 30 image dataset. (assuming batch size 1 and gradient accumulation steps 1)
-These are already included in the base .json but you can just remove them yourself.
 
 Without dampening/fighting overtraining it will likely take half that amount and it is likely that the results will be much more accurate.
 
 ##Base iA3 Prodigy .json:
-!!!First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions.
+!!!First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
 !!!Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
   "adaptive_noise_scale": 0.005,
-  "caption_dropout_rate": 0.5,
+  "caption_dropout_rate": 0,
+  "conv_alpha": 0.1,
+  "conv_dim": 1,
   "epoch": 3000,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
-  "lr_scheduler": "cosine",
+  "lr_scheduler": "constant",
   "lr_warmup": 0,
   "max_train_epochs": "3000",
   "min_snr_gamma": 5,
+  "multires_noise_discount": 0.1,
+  "multires_noise_iterations": 8,
+  "network_alpha": 0.1,
+  "network_dim": 1,
+  "network_dropout": 0,
+  "noise_offset": 0.05,
+  "noise_offset_type": "Multires",
+  "optimizer": "Prodigy",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "sample_every_n_epochs": 10,
+  "sample_every_n_steps": 0,
+  "save_every_n_epochs": 10,
+  "save_every_n_steps": 0,
+  "save_last_n_steps": 0,
+  "save_model_as": "safetensors",
+  "scale_weight_norms": 0,
+  "seed": "31337",
+  "shuffle_caption": true,
+  "text_encoder_lr": 1.0,
+  "train_batch_size": 1,
+  "train\_on\_input": true,
+  "training_comment": "rentry.co/ProdiAgy",
+  "unet_lr": 1.0,
+}
+```
+
+##Base LoKr Prodigy .json:
+!!!First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
+!!!Everything else that you do not see in the .json is up to your taste and/or hardware.
+```
+{
+  "LoRA_type": "LyCORIS/LoKr",
+  "adaptive_noise_scale": 0.005,
+  "caption_dropout_rate": 0,
+  "conv_alpha": 512,
+  "conv_dim": 512,
+  "epoch": 3000,
+  "gradient_accumulation_steps": 1,
+  "gradient_checkpointing": true,
+  "keep_tokens": 1,
+  "learning_rate": 1.0,
+  "lr_scheduler": "constant",
+  "lr_warmup": 0,
+  "max_train_epochs": "3000",
+  "min_snr_gamma": 10,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 8,
   "network_alpha": 1024,
@@ -47,26 +93,20 @@ Without dampening/fighting overtraining it will likely take half that amount and
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.01\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
   "save_every_n_steps": 0,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
-  "scale_weight_norms": 1,
+  "scale_weight_norms": 0,
   "seed": "31337",
   "shuffle_caption": true,
   "text_encoder_lr": 1.0,
   "train_batch_size": 1,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
-}
-```
-
-##Base LoKr Prodigy .json:
-```
-same as iA3 json, switch to it then just max out the network dim, alpha and the conv dim, alpha
 ```
 
 ##Usage instructions:

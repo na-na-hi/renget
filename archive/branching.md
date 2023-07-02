@@ -1114,8 +1114,8 @@ Unfortunately for him, that night he had a nightmare about being chased by a gia
 
 ***
 
-##-> (Temporary?) Extras (Character Summary, Lore Bin Quick Reference) <-
-**Character Summary:**
+##-> (Extra) Character Summary <-
+
 During his life as a human, Elm was very afraid of taking risks and trying new things. This caused him to miss many opportunities in life, and he carried many regrets because of that. After being turned into a Duskull he promised to himself that in this life he would be someone more adventurous, who seeks new experiences and unique days.
 Elm has a bad tendency to overthink and expect the worst possible outcomes, as unlikely as they might be, and it might even lead to anxiety attacks. This can cause him to hesitate when facing the unknown, but he always remembers his promise and tries his best to put fear aside and push forward.
 He has a hard time socializing with people he doesn’t know and can come across as being serious and formal. But with friends he takes a lax and informal tone and is always willing to help. He joined the Clover guild mainly because he enjoys the antics of all its members and believes that he will not have boring and mundane days with them around.
@@ -1123,9 +1123,8 @@ Becoming a Duskull has caused some quirks in his behavior. Sometimes he feels li
 Doesn’t like to be near Pelippers due to personal reasons.
 Abilities: Shadow Sneak; Astonish; Will-o-Wisp (in a future story); can go through walls and floor. Must create visualizations in order to use moves, so he needs more time than usual to perform them, but they also pack a bigger punch.
 
-**Lore Bin Quick Reference:**
-A human wakes up as a Duskull, goes through a dungeon, travels to Capim, then joins the guild and decides to name himself "Elm". The guild’s storeroom is described as being very messy and full of junk and unlabeled boxes, with no inventory.
-
 ##-> ??? <-
 
 -> ![To be continued](https://i.imgur.com/dwJdWSc.png) <-
+
+!!! info Continued in [A Overelming Week](https://rentry.org/overelming)

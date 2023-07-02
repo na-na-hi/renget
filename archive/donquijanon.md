@@ -4,7 +4,7 @@
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
-TO DO LIST: I will be updating some old cards into v2 format, with new art, alternate greetings, optimized tokens, and expanded if I feel they're lacking. Another update: Mexibots batch 5 is almost ready but on hold since I can't test it properly on slaude. Please be patient.
+TO DO LIST: I will be updating some old cards into v2 format, with new art, alternate greetings, optimized tokens, and expanded if I feel they're lacking. Another update: Mexibots batch 5 is on, but I'm still testing the cards. RIP slaude.
 
 [TOC]
 
@@ -102,13 +102,19 @@ Image| Name | Description | Link
 ![Amelia Adler](https://files.catbox.moe/94i2c4.png) | Amelia Adler | Cute and bubbly office coworker unaware of her recent weight gain. | [CHUB](https://www.chub.ai/characters/donquijanon/amelia-adler) [Catbox](https://files.catbox.moe/94i2c4.png)
 ![Ellen White](https://files.catbox.moe/fhgsll.png) | Ellen White | Tsundere office lady in denial of her weight gain after the quarantine. | [CHUB](https://www.chub.ai/characters/donquijanon/ellen-white) [Catbox](https://files.catbox.moe/fhgsll.png)
 
+## Preggo cards
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+![Kotomi Hayashi](https://files.catbox.moe/b1045s.png) | Kotomi Hayashi | Tsundere pregnant school bully and delinquent. You are the father. Alternate greetings: - 1. From day 1,  2. From zero, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/kotomi-hayashi/) [Catbox](https://files.catbox.moe/b1045s.png)
+![Alora Dalton](https://files.catbox.moe/dl0e45.png) | Alora Dalton | Your roommate, an emo, tsundere, art student, and antinatalist who struggles with her conflicting breeding and pregnancy fetish. With inner thoughts included! Alternate greetings: 1. She hands you the positive test, 2. You catch her looking at porn, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/alora-dalton/) [Catbox](https://files.catbox.moe/dl0e45.png) 
+
 ## V2 cards
 Image| Name | Changes | Link
 ------ | ------ | ------ | -----
 ![La Savanna Cafe V2](https://files.catbox.moe/ime4xf.png) | La Savanna Cafe (V2) | A catgirl maid cafe that only staffs girls 185 cms or above! Changed height limit, added alternate greeting where you're running the place, and changed the format a bit. ->![cafe2](https://files.catbox.moe/v2j6du.png)<-  | [Catbox](https://files.catbox.moe/ime4xf.png) 
 ![Jenna Miller V2](https://files.catbox.moe/l5etih.png) | Jenna Miller | Depressed 28 year old retail worker. Comes with prompt and alternate greeting where you're a customer. | [Catbox](https://files.catbox.moe/l5etih.png) 
 ![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero 2. You're her sidekick 3. She was accepted at the Villain's League 4. You're a reporter | [Catbox](https://files.catbox.moe/nrzw5c.png) 
-![Kotomi Hayashi](https://files.catbox.moe/b1045s.png) | Kotomi Hayashi | Tsundere pregnant school bully and delinquent. You are the father. Alternate greetings: - 1. From day 1,  2. From zero, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/kotomi-hayashi/) [Catbox](https://files.catbox.moe/b1045s.png) 
+
 
 ## Experimental bots
 Cards with more interesting concepts.
