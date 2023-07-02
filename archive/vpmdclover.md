@@ -302,6 +302,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
+	* [Descent (Part 1: Rumination)](https://rentry.org/gfm47) *Not on Table*
 * Stumpy the Shroomish
 	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1) *Not on Table*
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) *Not on Table*
@@ -438,6 +439,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
 * [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3)
 * [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
+* [Descent (Part 1: Rumination)](https://rentry.org/gfm47)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. Gus eating toast. Angrily.
 1. Bill and Gill dressed as Mario and Luigi
 1. Nick, Macom, and Booker studying Porygon 
 1. Smith and Sneasel sparring 

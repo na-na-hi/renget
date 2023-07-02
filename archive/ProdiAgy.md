@@ -1,11 +1,11 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
 #old april guide @ rentry.co/dadaptguide
 #written by a nerd who likes to optimize
-!!!Still figuring out some settings, will change this once I know what is better.
+!!! info Still testing some things, might make changes to this again.
 
 ##What is it?
 Prodigy is DAdaptation on steroids.
-iA3 is LoRa done quick at a very small size, about 200kb.
+iA3 is LoRa done at a very small size, about 200kb.
 LoKr is about 1-3mb and is very very similar to LoHa, possibly the new best thing for characters.
 Both function well for characters and styles given their size.
 
@@ -17,19 +17,18 @@ LoCon and LoRa if you're simple and want to waste space, at that point just try 
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
 ##Training time?
-With anti-overtraining tricks/dampening it took me anywhere inbetween 1200-3200 steps on a 30 image dataset. (assuming batch size 1 and gradient accumulation steps 1)
-
-Without dampening/fighting overtraining it will likely take half that amount and it is likely that the results will be much more accurate.
+With anti-overtraining tricks/dampening it should take anywhere inbetween 1000-4800 steps on a 30 image dataset. (assuming batch size 1 and gradient accumulation steps 1)
 
 ##Base iA3 Prodigy .json:
-!!!First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
-!!!Everything else that you do not see in the .json is up to your taste and/or hardware.
+!!! danger train_batch_size should remain set on 1 when using iA3 as it seems to work best that way, instead rely on gradient_accumulation_steps.
+!!! note First change the gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
+!!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
   "adaptive_noise_scale": 0.005,
   "caption_dropout_rate": 0,
-  "conv_alpha": 0.1,
+  "conv_alpha": 1,
   "conv_dim": 1,
   "epoch": 3000,
   "gradient_accumulation_steps": 1,
@@ -42,13 +41,13 @@ Without dampening/fighting overtraining it will likely take half that amount and
   "min_snr_gamma": 5,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 8,
-  "network_alpha": 0.1,
+  "network_alpha": 1,
   "network_dim": 1,
   "network_dropout": 0,
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
@@ -67,8 +66,8 @@ Without dampening/fighting overtraining it will likely take half that amount and
 ```
 
 ##Base LoKr Prodigy .json:
-!!!First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
-!!!Everything else that you do not see in the .json is up to your taste and/or hardware.
+!!! note First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
+!!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
   "LoRA_type": "LyCORIS/LoKr",
@@ -84,7 +83,7 @@ Without dampening/fighting overtraining it will likely take half that amount and
   "lr_scheduler": "constant",
   "lr_warmup": 0,
   "max_train_epochs": "3000",
-  "min_snr_gamma": 10,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 8,
   "network_alpha": 1024,
@@ -107,6 +106,7 @@ Without dampening/fighting overtraining it will likely take half that amount and
   "train_batch_size": 1,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
+}
 ```
 
 ##Usage instructions:
@@ -118,10 +118,12 @@ We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
 That is literally all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
 
-##Comparisons: LoKr, LoHa and iA3
-![](https://i.postimg.cc/fW16XZkJ/tmp3pei5e7y.png)
-![](https://i.postimg.cc/QdhYkMDx/tmp70ocql-w.png)
-![](https://i.postimg.cc/c1vpr6xp/tmp87dfwxif.png)
-![](https://i.postimg.cc/7YgQ22pW/tmpezm7yqoz.png)
-![](https://i.postimg.cc/nLV5ZhSw/tmpk73gonk6.png)
-![](https://i.postimg.cc/DwPDtX6X/tmplwxt9z1v.png)
+##[Comparisons: LoHa (15 Batch * 2  Gradients) vs LoKr (15 Batch * 2 Gradients) vs iA3 (1 Batch * Gradients)](https://civitai.com/models/101693/cheetara-thundercats-200kb-ia3)
+!!! info Dataset of 30 images, exact same settings on all generations, only the Gradient Accumulation Steps (GAS) differs on iA3 for the purpose of testing its impact.
+![Gradient Accumulation Steps 1](https://imagizer.imageshack.com/img922/5594/IlpBvQ.png)
+![Gradient Accumulation Steps 10](https://imagizer.imageshack.com/img924/9492/DFTobR.png)
+![Gradient Accumulation Steps 30](https://imagizer.imageshack.com/img924/9403/uWfc1I.png)
+!!! info As previously stated, it seems that iA3 is quite creative while still maintaining about 60-80% accuracy at only 200kb.
+!!! danger This is only on anything that is not the base model you've trained on, on the base model iA3 is equivalent to LoHa.
+
+Credits: bmaltais for github and  reddit posts that inspired me to look into iA3 and LoKr myself and check out which settings would be best.

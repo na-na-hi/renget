@@ -160,9 +160,16 @@
 **♥︎ dotties pencil**|[1998919](https://assets.clip-studio.com/en-us/detail?id=1998919)|[DL](https://pixeldrain.com/u/Q2KSkQiw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/89/1998919/thumbnail?1682711902)
 **Andy ♥︎ Pencil**|[2005653](https://assets.clip-studio.com/en-us/detail?id=2005653)|[DL](https://pixeldrain.com/u/7HFVZDha)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/56/2005653/thumbnail?1685556161)
 **・ d0ttie!tones brushes [v2] ・**|[2010200](https://assets.clip-studio.com/en-us/detail?id=2010200)|[DL](https://pixeldrain.com/u/U23fvuaS)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/02/2010200/thumbnail?1687215857)
+**Sunna - Charcoal**|[1922141](https://assets.clip-studio.com/en-us/detail?id=1922141)|[DL](https://files.catbox.moe/tnamjy.sut)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/21/1922141/thumbnail)
+**Cyber Tetanus AutoAction**|[1984908](https://assets.clip-studio.com/en-us/detail?id=1984908)| [DL](https://files.catbox.moe/ohdc5c.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/49/1984908/thumbnail)
+**☆ ACRYLIC PAINT EFFECT ☆**|[1991089](https://assets.clip-studio.com/en-us/detail?id=1991089)| [DL](https://files.catbox.moe/1o5y2c.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/89/10/1991089/thumbnail)
+**Cleanup Auto Action Ver.2**|[1996747](https://assets.clip-studio.com/en-us/detail?id=1996747)| [DL](https://files.catbox.moe/qii6ba.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/67/1996747/thumbnail)
+**Pantyliner also a character creation kit**|[1972326](https://assets.clip-studio.com/en-us/detail?id=1972326)| [DL](https://files.catbox.moe/23r4k1.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/23/1972326/thumbnail?1683730214)
+**Pandemonium Shambles Pen**|[1778290](https://assets.clip-studio.com/en-us/detail?id=1778290)| [DL](https://files.catbox.moe/fswzaq.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/82/1778290/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
-
+****|[]()|[DL]()|![]()
+****|[]()|[DL]()|![]()
 
 -> [**[TOP]**]() ->
 

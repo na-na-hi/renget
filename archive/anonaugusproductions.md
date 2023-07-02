@@ -185,6 +185,11 @@ Lucia Black - OC | Summary
 ![LuciaBlack](https://files.catbox.moe/m7ldt5.png) | Meet Lucia Black, demon hunter and metalhead loli, cursed to hunt demons for one day and return to her previous male form. Crass, offensive, impatient, and overall unpleasant as fuck, this kvlt loli isn't into cutesy shit and hails Satan any day. Fortunately for you, you're her childhood friend, so you're on her good side. Will you join her in slaying demons or just enjoy some good old depravity together? All with tons of black metal, of course.
 Links   | Booru: https://booru.plus/+pygmalion2033#c=aza4vsya Catbox: https://files.catbox.moe/feaeg5.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/lucia-black Images: https://files.catbox.moe/zwdq1i.rar
 
+Sophie Stars - OC | Summary
+------ | ------
+![Stars](https://files.catbox.moe/fn3wgm.png) | Meet Sophie Stars, zombie-slayer extraordinaire! There's no gyaru like her, killing zombies with ease. Somehow, you saved her once, and now she has developed a crush on you. This stylish girl is all about carefree living with plenty of teasing and playfulness. Girlish as hell, Sophie's antics are both captivating and sexy! Prepare for high scores, combos, and sexy after-dungeon time together!
+Links   | Booru: https://booru.plus/+pygmalion2065#c=pcza39ujr Catbox: https://files.catbox.moe/4jmlho.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/sophie-stars Images: https://files.catbox.moe/i925ui.rar
+
 #OC - Hogwarts Girls
 
 Penny Diggory - Hufflepuff| Summary

@@ -41,8 +41,13 @@ https://rentry.org/MHACharacterCards
 
 >New Stuff:
 New Writefag:
->At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
-https://rentry.org/z2sqy
+>Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
+https://controlc.com/a4a6767d
++Alternate Link: https://rentry.org/HxH-5
+
+New Artfag:
+Hifumi x Hailey - The Glass Maze
+https://img.4plebs.org/boards/tg/image/1688/31/1688313827034658.png
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89382566#89382849
@@ -330,50 +335,6 @@ https://pastebin.com/66ByP2sD
 >Questionnaire Comp
 https://pastebin.com/Ksn0zJ31
 
->Caféhopping (Hivemind, King Billy, Noctiluca, Mentions of other 1-D builds)
-https://controlc.com/8a501bac
->A Reluctant All-Out Attack (Mirror Devil, Ryu-kishi, half of 1-D's girls):
-https://rentry.org/m3rq8s
->Hello Nurse (Rebecca Weber, Mirror Devil, Rosethorn, Karuga Ito, Noctiluca)
-https://controlc.com/557100ee
->An Unusual Combination (Yako, Mahoudeva, Sunlight Man, Reaper. Brief Appearance of Challenger)
-https://controlc.com/b08b0991
->Provisional Hero License Exams, START! (Shiketsu Students)
-https://rentry.org/Provisional-License
->A really really really a really really really a really good idea (LocaLoca, Karaburan)
-https://controlc.com/7198ba4b
->"Majestic in the Lunch Room" (Majestic, Hijack, mentions Rosethorn, LocaLoca, Conman)
-https://rentry.org/MajesticLunchTalks
->Morning Melancholy (Features: Flying Force)
-https://rentry.org/6kso4
->The Early Bird Gets The FIGHT (Features: Flying Force, Bogey, Majestic)
-https://rentry.org/xhuui
->Blood on a Bluebonnet (Night Parade, Recino)
-https://rentry.org/gbe9h
->Night Parade: Preparations (Night Parade Members, Giichi Mikata, Majestic, Smokin' Sexy)
-https://rentry.org/NPPreparations
->In Brightest Day (Ryu-Kishi, Marrow, Mirror Devil, Maru(Maru), Blackout, Yamata, Yako)
-https://rentry.org/mkcn9v
->Reluctant Heist (Karma, mentions Rosethorn)
-https://pastebin.com/DnDbXGyx
->Rental (Rebecca Weber, Majestic, Aquarius, Noctiluca)
-https://controlc.com/1d7ccba8
->Ippon vs Mauler 3: Tag-Team Tiebreaker (Ippon, Mauler, Principal, Rosethorn, Smokin' Sexy)
-https://controlc.com/3fdbb817
->Rental 2 (Rebecca Weber, Noctiluca, Doctor, Yamata, Mire Girl(?)):
-https://controlc.com/7cf7fc41
->Groggy Anon writes Robot Autism (Android, Challenger, Last Rite)
-https://pastebin.com/dNy9eign
-```
-***
-Page 6
-***
-```
-WRITEFAGS (Cont.)
->An Arcade Lesson (Mirror Devil, Capture Cloth, Flying Force):
-https://rentry.org/of3us
->Birds of Feather (Archangel, Last Rite, Ryukishi, Noctiluca)
-https://rentry.org/ayox6
 >Drekus Inc. (Drekus, Charlatan, Slipstream)
 https://rentry.org/e2nq8
 >Rental 3 (Rebecca Weber)
@@ -384,7 +345,7 @@ https://rentry.org/y4hzh
 https://rentry.org/6zksk2
 >let's go to the beach-each (Spark, Recoil, Drone, Radius, Arena, Doctor, Rebecca Weber)
 https://controlc.com/859f4590
->A Heart-Thumping Evening (aka Doki Doki Yoru) [featuring Marumaru, Ryu-kishi, and a mystery villain]
+>A Heart-Thumping Evening (aka Doki Doki Yoru) [Marumaru, Ryu-kishi, and a mystery villain]
 https://rentry.org/awz5s
 >One Bad Apple Spoils the Bunch (Forget-Me-Not, Class 1-D, Goldorado, Titan, Rosethorn)
 https://rentry.org/One-Bad-Apple
@@ -416,10 +377,10 @@ https://controlc.com/bd11136a
 https://rentry.org/qyr6n
 ```
 ***
-Page 7
+Page 6
 ***
 ```
-Writefags (Cont.)
+WRITEFAGS (Cont.)
 >Enter Stuntman (Impakt, Floor, LocaLoca, Sunlight Man, Challenger, Ryu-Kishi, Drekus)
 https://rentry.org/99s2y
 >Exam no Jutsu, Part One (Maru(maru), Class 1-D)
@@ -462,7 +423,7 @@ https://rentry.org/x8kh9
 https://controlc.com/b2b5a64a
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (Cont.)
@@ -513,12 +474,11 @@ https://rentry.org/c759z
 >Dragon's Claw (Ryu-Kishi, Drekus, Feral, Overdose, Marrow, The Five, mention of Sally)
 https://rentry.org/aydcg
 ```
-
 ***
-Page 9
+Page 8
 ***
 ```
-Writefags (Final)
+Writefags (Cont.)
 >Stare Enough and Something Might Happen (Marrow, the Hivemind, Ryu-Kishi)
 https://rentry.org/iy2du
 >The Tournament Begins (Yamata, Archangel, Recoil, Maru(maru), Ryu-Kishi, Yako, Drone, Sunlight Man, Capture Cloth, Orbit, Crazy Train, Hydra, and various other minor appearances)
@@ -559,14 +519,23 @@ https://rentry.org/o8si2
 ```
 
 ***
-Page 10
+Page 9
 ***
 ```
+Writefags (Final)
+>At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
+https://rentry.org/z2sqy
+>Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
+https://controlc.com/a4a6767d
++Alternate Link: https://rentry.org/HxH-5
+
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the controlc
 ```
+
+
 #Heroes of the Wastes (HOTW)
 ***
 Page 1
@@ -576,86 +545,108 @@ https://rentry.org/HOTWSWEEP
 Password: HOTWSWEEP
 
 Build List:
->Sasha the Snake
->>89379557
->Ramses
->>89383550
+
+High Plains Drifters:
+>Billy Kido
+>>89421393
+
+Last Action Heroes:
+>Marcus 'Marc' Cassius Allen
+>>89389858
+
+Neo-Barbarians:
+>Isha, Princess of the Verzon Tribe
+>>89390690
+>Magnus Wang
+>>89404903
+>Lin
+>>89407136
+
+Bunker-Babies:
+>Yuki Kikuchi
+>>89381880
+>Dr. Remilia Rochefort
+>>89385830
+>Quinn Chase, a.k.a The Boss
+>>89386021
+>The Crew of the Argo - James / Thomas / Harrison / Jonathan / Richard 
+>>89398246
+>Alexander S. Luthor
+>>89406647
+>Maya Liang
+>>89406938
+>Dimir Leksirei
+>>89425473
+
+Settlement Survivors:
 >Nikto
 >>89384124
->H0P3
->>89379967
 >Dr. Charles Crane
 >>89380403
 >Sage
 >>89385470
->The Nymphs - Glimmer / Bliss / Doe / Kitty / Sprite
->>89385405
 >Mike the driver.
 >>89398967
 >Ricky W. Booth
 >>89381301
 >Kara Ramirez
 >>89381637
->Yuki Kikuchi
->>89381880
->Ultra Magnus
+>Ultra Magnus (Barbarian Settlement)
 >>89400766
 >Lockley Aimes
 >>89389161
 >Heli Matharom
 https://rentry.org/HeliMatharom
->C.C.A.M.U. (Amu for short)
->>89383565
->Samson
->>89384851
 >Nick
 >>89385614
->Dr. Remilia Rochefort
->>89385830
 >Georgia Dolittle
 >>89386016
->Quinn Chase, a.k.a The Boss
->>89386021
 >Lance
 >>89388010
->The Crew of the Argo - James / Thomas / Harrison / Jonathan / Richard 
->>89398246
->Marcus 'Marc' Cassius Allen
->>89389858
->Calliope, Rocker of the Ruins
->>89390896
->Isha, Princess of the Verzon Tribe
->>89390690
->Karnak
->>89391413
 >Aaron Cob A.K.A. The ANT KING
 >>89394761
+>Chloe
+>>89423627
+>David "Profit" Wiles
+>>89423767
+>Sir Philippe Dubois of New Orleans
+>>89434172
+
+Raiders:
+>Calliope, Rocker of the Ruins
+>>89390896
+>Queen Bee (Becka, to her folks.)
+>>89429924
+
+Mutants:
+>Sasha the Snake
+>>89379557
+>Ramses
+>>89383550
+>The Nymphs - Glimmer / Bliss / Doe / Kitty / Sprite
+>>89385405
+>Samson
+>>89384851
+>Karnak
+>>89391413
 >Hannah Ossus
 >>89395588
 >Brunnea "Sunny" Brown!
 >>89397361
->Alexander S. Luthor
->>89406647
->Magnus Wang
->>89404903
->Maya Liang
->>89406938
->Lin
->>89407136
->Chloe
->>89423627
->Phi
->>89415344
->Billy Kido
->>89421393
 >Tuma
 >>89422176
+>Dr Acheron
+>>89427276
+
+Robots:
+>H0P3
+>>89379967
+>C.C.A.M.U. (Amu for short)
+>>89383565
+>Phi
+>>89415344
 >Victor
 >>89422772
->David "Profit" Wiles
->>89423767
->Dimir Leksirei
->>89425473
 ```
 
 ***
@@ -679,6 +670,10 @@ Heli Matharom
 https://rentry.org/HOTW-HeliChart
 Dr. Remilia Rochefort
 https://controlc.com/997e2437
+Queen Bee
+https://pastebin.com/F6y0hpMi
+Quinn Chase
+https://rentry.org/bqu7d
 
 Writefags:
 >Piss Break (Nymphs)
@@ -703,12 +698,17 @@ https://rentry.org/HOTW-DeathRace
 https://rentry.org/q2m7d
 >Mike's Ride (Mike the Driver, Dr. Charles Crane)
 https://docs.google.com/document/d/1aby3ds_zyGUqID1hBipgQfh4n5Q8U6m4MywyEPCbWbE/edit?usp=sharing
++Alternate Link: https://controlc.com/d904276b
+>Raid Crashers (Chloe, Nikto, Magnus, Lin and Crane) 
+https://rentry.org/fxyqp
 
 Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
 >Kara angry
 https://img.4plebs.org/boards/tg/image/1688/20/1688203845380353.png
+>Maya Liang
+https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
 ```
 #The City (Reboot)
 

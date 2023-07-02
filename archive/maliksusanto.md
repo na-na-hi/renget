@@ -74,3 +74,4 @@ Name  |  Preview  |  Description  |  Links
 Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student | TBA™
 Kyrie Ushiromiya | ![Kyrie Ushiromiya](https://i.postimg.cc/cHB6NGtn/Kyrie-Ushiromiya.png) | Rudolf Ushiromiya's cool, calm, and collected who is also quick-thinking, logical, and very analytical wife. | TBA™
 Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | TBA™
+Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™

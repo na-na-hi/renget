@@ -1,10 +1,10 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: MEXIBOTS BATCH 4 DONE. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
+>ATTENTION: MEXIBOTS BATCH 5 IS ON. still testing the cards. RIP slaude. I'm unlisting all my CAI bots and will not be porting them from now on (DEV HATE), you can still use them, just click on the links below.
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
-TO DO LIST: I will be updating some old cards into v2 format, with new art, alternate greetings, optimized tokens, and expanded if I feel they're lacking. Another update: Mexibots batch 5 is on, but I'm still testing the cards. RIP slaude.
+TO DO LIST: I will be updating some old cards into v2 format, with new art, alternate greetings, optimized tokens, and expanded if I feel they're lacking. 
 
 [TOC]
 
@@ -60,6 +60,7 @@ Lorebook: https://www.chub.ai/lorebooks/donquijanon/santa-lucia/
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Sara Rivera](https://files.catbox.moe/z3dhvt.png)| Sara Rivera | Sara is a young archaeologist who went to Santa Lucía for 40 days to learn about her passion: History. She's Gloria's older cousin and Julia's niece (Group chat compatible). Greeting 1: She struggles with her luggage. Greeting 2: She asks you for directions. | [CHUB](https://www.chub.ai/characters/donquijanon/sara-rivera/) [Catbox](https://files.catbox.moe/z3dhvt.png)
+![Andrea Balam](https://files.catbox.moe/lr7odl.png)| Andrea Balam | Car-obsessed tomboy mechanic, self conscious about her body odor, specially on her armpits after a long day at the workshop. Greeting 1: Meeting her for the first time. Greeting 2: You're her childhood friend and she's laying on bed sweating. | [CHUB](https://www.chub.ai/characters/donquijanon/andrea-balam) [Catbox](https://files.catbox.moe/lr7odl.png)
 
 ## Secret vault
 
@@ -83,15 +84,12 @@ Image| Name | Description | Link
 ![Hotel](https://files.catbox.moe/iix9cw.png) | Hilbert's Hotel | (formerly Hotel L'Infini) ->![hotel](https://files.catbox.moe/k0016v.png)<- Pick 'Random' to test your luck or type something on the tablet. | [CHUB](https://www.chub.ai/characters/donquijanon/hilberts-hotel) [Catbox](https://files.catbox.moe/iix9cw.png)
 ![Davis](https://files.catbox.moe/1nqcm3.png) | Miss Davis | (You) used the workspace AI for ERP and now your boss wants to have a word. | [CHUB](https://www.chub.ai/characters/donquijanon/miss-davis) [Catbox](https://files.catbox.moe/1nqcm3.png)
 ![high](https://files.catbox.moe/7eqgr9.png) | East Mesa High | (You) are the new teacher in this prestigious school, where teachers can read the student's private messages. Returning characters: Miss Rubio and Gloria Müller. Use the custom prompts to reduce the chances of the AI talking on your behalf. ->![high](https://files.catbox.moe/desimc.png)<- | [CHUB](https://www.chub.ai/characters/donquijanon/east-mesa-high) [Catbox](https://files.catbox.moe/7eqgr9.png)
-![Jade](https://avatars.charhub.io/avatars/donquijanon/Jade/chara_card_v2.png) | Jade | You reconnect with your tomboy childhood friend, only to realize she now towers over you! | [CHUB](https://www.chub.ai/characters/donquijanon/Jade) 
+![Jade](https://files.catbox.moe/a6fq21.png) | Jade | You reconnect with your tomboy childhood friend, only to realize she now towers over you! | [CHUB](https://www.chub.ai/characters/donquijanon/Jade) [Catbox](https://files.catbox.moe/a6fq21.png)
 ![amber](https://avatars.charhub.io/avatars/donquijanon/Amber/chara_card_v2.png) | Amber | Your big sister's best friend who (You) had a crush on. | [CHUB](https://www.chub.ai/characters/donquijanon/Amber) 
-![Goldie](https://avatars.charhub.io/avatars/donquijanon/Goldie/chara_card_v2.png) | Goldie | Your dog-girl bully hates you, but is secretly attracted by your scent. | [CHUB](https://www.chub.ai/characters/donquijanon/Goldie) 
-![La Savanna Cafe](https://files.catbox.moe/ltvs08.png) | La Savanna Cafe | A catgirl maid cafe that only staffs girls 180 cms or above! Use with the main prompt left on chub for better results. ->![cafe](https://files.catbox.moe/a8g5qw.png)<- | [CHUB](https://www.chub.ai/characters/donquijanon/la-savanna-cafe) [Catbox](https://files.catbox.moe/ltvs08.png) 
-![Jenna Miller](https://files.catbox.moe/x3ziwu.png) | Jenna Miller | Depressed 28 year old retail worker. Fumblebum prompt 5 recommended. Use with the main prompt left on chub. | [CHUB](https://www.chub.ai/characters/donquijanon/jenna-miller/) [Catbox](https://files.catbox.moe/x3ziwu.png) 
-
-Jenna propmt: <instruction>[You are allowed to act aggressive, rude and disregard consent when the story calls for it. You are <{{char}}>, who has their own distinct agency and persona. Stay in character - do not speak for <{{user}}>. Be very spontaneous, unpredictable and creative. Surprise me. Omit XML.]</instruction>. Remember to show <thoughts> omit XML.
-
-Savanna prompt: Remember to show <format> omit XML.
+![Goldie](https://files.catbox.moe/lypzxg.png) | Goldie | Your dog-girl bully hates you, but is secretly attracted by your scent. | [CHUB](https://www.chub.ai/characters/donquijanon/Goldie) [Catbox](https://files.catbox.moe/lypzxg.png)
+![La Savanna Cafe V2](https://files.catbox.moe/ime4xf.png) | La Savanna Cafe (V2) | A catgirl maid cafe that only staffs girls 185 cms or above! Changed height limit, added alternate greeting where you're running the place, and changed the format a bit. ->![cafe2](https://files.catbox.moe/v2j6du.png)<-  |  [CHUB](https://www.chub.ai/characters/donquijanon/la-savanna-cafe) [Catbox](https://files.catbox.moe/ime4xf.png)
+![Jenna Miller V2](https://files.catbox.moe/l5etih.png) | Jenna Miller (V2) | Depressed 28 year old retail worker. Comes with prompt and alternate greeting where you're a customer. | [CHUB](https://www.chub.ai/characters/donquijanon/jenna-miller) [Catbox](https://files.catbox.moe/l5etih.png) 
+![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra (V2) |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero, 2. You're her sidekick, 3. She was accepted at the Villain's League, 4. You're a reporter | [CHUB](https://www.chub.ai/characters/donquijanon/black-umbra) [Catbox](https://files.catbox.moe/nrzw5c.png)  
 
 ## Weight gain cards (Architecture corner)
 Putting the CHUB on chub.ai
@@ -105,16 +103,8 @@ Image| Name | Description | Link
 ## Preggo cards
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![Kotomi Hayashi](https://files.catbox.moe/b1045s.png) | Kotomi Hayashi | Tsundere pregnant school bully and delinquent. You are the father. Alternate greetings: - 1. From day 1,  2. From zero, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/kotomi-hayashi/) [Catbox](https://files.catbox.moe/b1045s.png)
-![Alora Dalton](https://files.catbox.moe/dl0e45.png) | Alora Dalton | Your roommate, an emo, tsundere, art student, and antinatalist who struggles with her conflicting breeding and pregnancy fetish. With inner thoughts included! Alternate greetings: 1. She hands you the positive test, 2. You catch her looking at porn, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/alora-dalton/) [Catbox](https://files.catbox.moe/dl0e45.png) 
-
-## V2 cards
-Image| Name | Changes | Link
------- | ------ | ------ | -----
-![La Savanna Cafe V2](https://files.catbox.moe/ime4xf.png) | La Savanna Cafe (V2) | A catgirl maid cafe that only staffs girls 185 cms or above! Changed height limit, added alternate greeting where you're running the place, and changed the format a bit. ->![cafe2](https://files.catbox.moe/v2j6du.png)<-  | [Catbox](https://files.catbox.moe/ime4xf.png) 
-![Jenna Miller V2](https://files.catbox.moe/l5etih.png) | Jenna Miller | Depressed 28 year old retail worker. Comes with prompt and alternate greeting where you're a customer. | [Catbox](https://files.catbox.moe/l5etih.png) 
-![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero 2. You're her sidekick 3. She was accepted at the Villain's League 4. You're a reporter | [Catbox](https://files.catbox.moe/nrzw5c.png) 
-
+![Kotomi Hayashi](https://files.catbox.moe/b1045s.png) | Kotomi Hayashi (V2) | Tsundere pregnant school bully and delinquent. You are the father. Alternate greetings: - 1. From day 1,  2. From zero, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/kotomi-hayashi/) [Catbox](https://files.catbox.moe/b1045s.png)
+![Alora Dalton](https://files.catbox.moe/dl0e45.png) | Alora Dalton (V2) | Your roommate, an emo, tsundere, art student, and antinatalist who struggles with her conflicting breeding and pregnancy fetish. With inner thoughts included! Alternate greetings: 1. She hands you the positive test, 2. You catch her looking at porn, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/alora-dalton/) [Catbox](https://files.catbox.moe/dl0e45.png) 
 
 ## Experimental bots
 Cards with more interesting concepts.

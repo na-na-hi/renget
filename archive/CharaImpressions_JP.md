@@ -753,7 +753,7 @@ Cons:
 - Extremely squishy, cannot take hits well
 - Low damage (UB is the only damage skill)
 - Skills require field to be active, otherwise they are weakened significantly (50 TP restore vs 100, no TP boost increase)
-- Positioned behind Christina
+- Positioned in front of Christina
 - No P.Def debuff
 - No Action Speed buff
 - Not SET/Auto friendly

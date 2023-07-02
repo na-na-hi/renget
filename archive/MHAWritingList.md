@@ -149,3 +149,44 @@ https://rentry.org/TheNoctiAndBillyPowerHour
 >Hoge Tries To Get Better (Marumaru, Yako)
 https://rentry.org/ndixv
 -----------------------------------------------------------------------------------------------------------------------------
+Page 3
+----------------------------------------------------------------------------------------------------------------------------
+>Caféhopping (Hivemind, King Billy, Noctiluca, Mentions of other 1-D builds)
+https://controlc.com/8a501bac
+>A Reluctant All-Out Attack (Mirror Devil, Ryu-kishi, half of 1-D's girls):
+https://rentry.org/m3rq8s
+>Hello Nurse (Rebecca Weber, Mirror Devil, Rosethorn, Karuga Ito, Noctiluca)
+https://controlc.com/557100ee
+>An Unusual Combination (Yako, Mahoudeva, Sunlight Man, Reaper. Brief Appearance of Challenger)
+https://controlc.com/b08b0991
+>Provisional Hero License Exams, START! (Shiketsu Students)
+https://rentry.org/Provisional-License
+>A really really really a really really really a really good idea (LocaLoca, Karaburan)
+https://controlc.com/7198ba4b
+>"Majestic in the Lunch Room" (Majestic, Hijack, mentions Rosethorn, LocaLoca, Conman)
+https://rentry.org/MajesticLunchTalks
+>Morning Melancholy (Features: Flying Force)
+https://rentry.org/6kso4
+>The Early Bird Gets The FIGHT (Features: Flying Force, Bogey, Majestic)
+https://rentry.org/xhuui
+>Blood on a Bluebonnet (Night Parade, Recino)
+https://rentry.org/gbe9h
+>Night Parade: Preparations (Night Parade Members, Giichi Mikata, Majestic, Smokin' Sexy)
+https://rentry.org/NPPreparations
+>In Brightest Day (Ryu-Kishi, Marrow, Mirror Devil, Maru(Maru), Blackout, Yamata, Yako)
+https://rentry.org/mkcn9v
+>Reluctant Heist (Karma, mentions Rosethorn)
+https://pastebin.com/DnDbXGyx
+>Rental (Rebecca Weber, Majestic, Aquarius, Noctiluca)
+https://controlc.com/1d7ccba8
+>Ippon vs Mauler 3: Tag-Team Tiebreaker (Ippon, Mauler, Principal, Rosethorn, Smokin' Sexy)
+https://controlc.com/3fdbb817
+>Rental 2 (Rebecca Weber, Noctiluca, Doctor, Yamata, Mire Girl(?)):
+https://controlc.com/7cf7fc41
+>Groggy Anon writes Robot Autism (Android, Challenger, Last Rite)
+https://pastebin.com/dNy9eign
+>An Arcade Lesson (Mirror Devil, Capture Cloth, Flying Force):
+https://rentry.org/of3us
+>Birds of Feather (Archangel, Last Rite, Ryukishi, Noctiluca)
+https://rentry.org/ayox6
+----------------------------------------------------------------------------------------------------------------------------

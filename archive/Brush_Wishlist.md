@@ -69,7 +69,6 @@
 **Blending skin shading brush** |[1825597](https://assets.clip-studio.com/en-us/detail?id=1825597)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/55/1825597/thumbnail)
 **2-in-1 Line and Paint pen** |[1831377](https://assets.clip-studio.com/en-us/detail?id=1831377)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/13/1831377/thumbnail)
 **Fade Pen** |[1883068](https://assets.clip-studio.com/en-us/detail?id=1883068)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/30/1883068/thumbnail)
-**Y2paint built-in blur** |[1975156](https://assets.clip-studio.com/en-us/detail?id=1975156)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/51/1975156/thumbnail)
 **Ower - Soft Brush** |[1939868](https://assets.clip-studio.com/en-us/detail?id=1939868)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/98/1939868/thumbnail)
 **A Blockaded Chalk Brush** |[1806807](https://assets.clip-studio.com/en-us/detail?id=1806807)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/68/1806807/thumbnail)
 **pynk** |[1953432](https://assets.clip-studio.com/en-us/detail?id=1953432)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/32/34/1953432/thumbnail)
@@ -103,9 +102,6 @@
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Pantyliner also a character creation kit (ふわもこ文字作成キット) **|[1972326](https://assets.clip-studio.com/en-us/detail?id=1972326)| 50 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/23/1972326/thumbnail?1683730214)
-**Gloss Pen for Pandemonium (修羅場用ツヤ出しペン) **|[1803183](https://assets.clip-studio.com/en-us/detail?id=1803183)| 60 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/31/1803183/thumbnail?1618511391)
-
 
 
 -> [**[TOP]**]() ->
@@ -159,7 +155,28 @@
 ### ==100~500 gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-** **|[]()|  |![]()
+**Basketball with an impossible depth **|[1959276](https://assets.clip-studio.com/en-us/detail?id=1959276)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/92/1959276/thumbnail)
+**Black piece pen with impossible terrible **|[1981738](https://assets.clip-studio.com/en-us/detail?id=1981738)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/17/1981738/thumbnail)
+**A Cacegrade with an improbable terrible **|[1993726](https://assets.clip-studio.com/en-us/detail?id=1993726)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/37/1993726/thumbnail)
+**The Sandy eye pen with the depth **|[1929439](https://assets.clip-studio.com/en-us/detail?id=1929439)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/39/94/1929439/thumbnail)
+**Sandy eyes with gradation weight **|[1910357](https://assets.clip-studio.com/en-us/detail?id=1910357)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/57/03/1910357/thumbnail)
+**Sandy eyes with a gradation depth **|[1910356](https://assets.clip-studio.com/en-us/detail?id=1910356)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/03/1910356/thumbnail)
+**White piece pen with a deep depth **|[1860127](https://assets.clip-studio.com/en-us/detail?id=1860127)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/01/1860127/thumbnail)
+**White piece pen with a heavy weigh **|[1902339](https://assets.clip-studio.com/en-us/detail?id=1902339)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/39/23/1902339/thumbnail)
+**A Cacegrade with impossible weight **|[1834153](https://assets.clip-studio.com/en-us/detail?id=1834153)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/41/1834153/thumbnail)
+**A Cacegrade with an impossible depth **|[1815303](https://assets.clip-studio.com/en-us/detail?id=1815303)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/03/53/1815303/thumbnail)
+**Sandy eyes with an improbable depth **|[1910373](https://assets.clip-studio.com/en-us/detail?id=1910373)|300|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/03/1910373/thumbnail)
+**A parallel line with an impossible depth  **|[1885587](https://assets.clip-studio.com/en-us/detail?id=1885587)|300|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/55/1885587/thumbnail)
+**A parallel line with an impossible depth  **|[1896200](https://assets.clip-studio.com/en-us/detail?id=1896200)|300|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/62/1896200/thumbnail)
+**Background for Pandemonium **|[2005529](https://assets.clip-studio.com/en-us/detail?id=2005529)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/55/2005529/thumbnail)
+**Umetate Pen for Pandemonium **|[2005528](https://assets.clip-studio.com/en-us/detail?id=2005528)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/28/55/2005528/thumbnail)
+**A single piece of pen with a heavy weight **|[1999118](https://assets.clip-studio.com/en-us/detail?id=1999118)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/91/1999118/thumbnail)
+**A piece of deep pen **|[1999117](https://assets.clip-studio.com/en-us/detail?id=1999117)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/91/1999117/thumbnail)
+**Dot Gradepen for the carnage **|[1972786](https://assets.clip-studio.com/en-us/detail?id=1972786)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/27/1972786/thumbnail)
+**Parallel-poi pen for Pandemonium **|[1843897](https://assets.clip-studio.com/en-us/detail?id=1843897)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/38/1843897/thumbnail)
+**Deception cross-hatching Line **|[1841029](https://assets.clip-studio.com/en-us/detail?id=1841029)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/10/1841029/thumbnail)
+**Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
+**Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

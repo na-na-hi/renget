@@ -14,7 +14,12 @@ Faust | Info
 Ramsha Leingold | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/thumbs/t_yyilf3.png)   | An incubus that adores humans and prefers taking one to love on forever instead of feeding off multiple humans. Also 40 feet tall, don't expect normal sex.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold),  [Catbox](https://files.catbox.moe/dk2r7o.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold),  [Catbox](https://files.catbox.moe/oi225c.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
+
+Sariel Leingold | Info
+:----:  | :----: 
+![](https://files.catbox.moe/fag033.png)   | I wanted to try messing around with the loose concepts I used to make Ramsha a little more. The result is his brother and the tsundere to his yandere, Sariel. Brash, standoffish, and only sees humans as a source of sustinance and pleasure. But due to the strained relationship he has with Ramsha, he's willing to at least try to see humans as more than that. Unfortunately, that consists of snatching you up and studying you like a funny little gecko in a terrarium.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sariel-leingold),  [Catbox](https://files.catbox.moe/0z9a7t.png)
 
 Zeke | Info
 :----:  | :----: 

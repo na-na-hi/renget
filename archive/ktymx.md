@@ -1,5 +1,5 @@
 Untitled Green That Got Out of Hand | By Anonymer_Beobachter
-version 0.0.2.5
+version 0.0.2.8
 (Working Title)
 
 !!! info This is a work in progress. Text in curly braces is placeholder.
@@ -54,4 +54,16 @@ version 0.0.2.5
 >After thirty seconds of what seems like stunned silence, you go to speak again.
 >"Unidentified Vessel, do you re-"
 >Suddenly, you are interrupted by your interlocutor, her (at this point you're confident in that) voice can be described as almost a squee.
->"You can understand me?! I have so many questions! What are you? 'ahn-awnn' doesn't sound like a Putori name. To think that I, a lowly biology student, would wind up making-" she stops to catch her breath.
+>"You can understand me?! I have so many questions! What are you? 'ahn-awnn' doesn't sound like a Putori name. To think that I, a lowly -" she stops to catch her breath.
+>"I'm getting ahead of myself," she continues. "There will be plenty of time for questions later. I read you 'Ahnonn'. This is {Łucja Määttä} of the {uh... I never named this thing}. I'm almost at your position."
+>The ship approaching yours was now clearly visible. 
+>It certainly wasn't a human starship. It was too small to possibly mount a conventional FTL drive, with it being a bit larger than your testbed ship. 
+>And the system you were in had no planets, so it had to have traveled here at FTL speeds.
+>So clearly these 'Putori' aliens either used a different means of FTL travel, or they had more advanced jump drive technology.
+>Like the kind that you were testing before you wound up here.
+>It looked like a craft for hauling a few passengers, or a little bit of cargo. Interestingly, it also seemed to be equipped for planetary landings without a spaceport.
+{Add additional description}
+>After spending a brief moment considering the alien ship, Łucja informed you that she was as close as she could get, so you made preparations to abandon your ship. 
+>You informed her that you would be leaving your ship here, and requested permission to transfer to hers. 
+>Which was enthusiastically granted.
+>You set the ship's fabricator to make an earpiece  and speaker for translation as well as an AR eyepiece for translating alien text, and other essential information. Then you prepared the ship's computer for separation -you were taking it with you so thankfully it was portable, and then went to prepare your space suit and MMU.

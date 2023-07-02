@@ -75,6 +75,11 @@
 [Streaming Twitch](https://www.twitch.tv/hanavyakuta)
 [Twitter](https://twitter.com/HanavYakuta)<-
 
+->**Hespera**
+![Hespera](https://warosu.org/data/vt/img/0525/51/1688331769569156.png)
+[Streaming Twitch](https://www.twitch.tv/hesperavt)
+[Twitter](https://twitter.com/HesperaVT)<-
+
 ->**Haru Mizuki**
 ![Haru Mizuki](https://warosu.org/data/vt/img/0521/72/1687912748570423.png)
 [Streaming Twitch](https://www.twitch.tv/harumizukich)
@@ -100,8 +105,8 @@
 [Streaming Twitch](https://www.twitch.tv/karin_ch)
 [Twitter](https://twitter.com/karinrin_ch)<-
 
-->**Kiki Pyon-pyon**
-![Kiki Pyon-pyon](https://i.warosu.org/data/vt/img/0273/30/1656899170371.png)
+->**Kiki Pyon-Pyon**
+![Kiki Pyon-Pyon](https://i.warosu.org/data/vt/img/0273/30/1656899170371.png)
 [Streaming Youtube](https://www.youtube.com/c/KikiCh-)
 [Twitter](https://twitter.com/bunnyonvt)<-
 

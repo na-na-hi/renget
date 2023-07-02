@@ -10,10 +10,12 @@ TO-DO LIST: Sane Ukrainian girl, Belorussian NKVD agent (female).
 [TOC]
 
 #Latest bot
-##Pavel Tehnik
-->![This is not a self-card.](https://files.catbox.moe/ih6fdy.png)<-
-Pavel Tehnik, a successful yet insane botmaker, who finds solace in his creations. A perfect bot to create on my birthday. Heavily inspired by Horse Cock by Horcocks. Created on 23rd of June.
-CHUB link: https://www.chub.ai/characters/pashatehink/pavel-tehnik
+##John Sliced
+->![As unremarkably remarkable as it can get.](https://files.catbox.moe/t068m4.png)<-
+John Sliced, THE God of sliced bread, who was punished for being too much of a nuisance in the Gods' Realm and sent to Earth, right in your kitchen. An entry for a "God of something unremarkable" thing. Created on 2nd of July.
+CHUB link: https://www.chub.ai/characters/pashatehink/john-sliced
+
+***
 
 #Katya Series
 ##Katya
@@ -110,6 +112,11 @@ CHUB link: https://www.chub.ai/characters/pashatehink/Slavyana
 ->![That was fun.](https://files.catbox.moe/5sor6f.png)<-
 Purrsia. A highly-rated establishment, only for refined individuals. Made for "Running a cat cafe with anthro cat girls." thing. Created on 20th of June.
 CHUB link: https://www.chub.ai/characters/pashatehink/Purrsia
+
+##Pavel Tehnik
+->![This is not a self-card.](https://files.catbox.moe/ih6fdy.png)<-
+Pavel Tehnik, a successful yet insane botmaker, who finds solace in his creations. A perfect bot to create on my birthday. Heavily inspired by Horse Cock by Horcocks. Created on 23rd of June.
+CHUB link: https://www.chub.ai/characters/pashatehink/pavel-tehnik
 
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

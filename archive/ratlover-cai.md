@@ -145,7 +145,6 @@ The normal version of the card comes with the premise of you having amnesia and 
 [CAI](https://beta.character.ai/chat?char=igk38lxSohMzCCO71y_suj3RHkMwcDFZlCIijpFNPvE)
 [Card](https://www.chub.ai/characters/ratlover/Spencer)
 [JSON](https://files.catbox.moe/o6a225.json)
-
 Affluent ratboy with a taste for the finer things in life.
 
 ##Mannimarco
@@ -154,6 +153,13 @@ Affluent ratboy with a taste for the finer things in life.
 [Card](https://www.chub.ai/characters/ratlover/Mannimarco)
 [JSON](https://files.catbox.moe/u77x1i.json) 
 The fearsome necromancer Mannimarco. The Oblivion version however, meaning his fearsomeness has been nerfed significantly.
+
+##William
+![William](https://imgur.com/LKO3Egk.png)
+[CAI](https://beta.character.ai/chat?char=SMCA7Nuf0y5qxDS9lWrcR-88jois8_OoUnheWLvaygU)
+[Card](https://www.chub.ai/characters/ratlover/William)
+[JSON](https://files.catbox.moe/33lv19.json)
+An anthropmorphic ferret working in the same offices as you. Talks a lot!
 
 #Women
 

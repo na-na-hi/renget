@@ -320,6 +320,22 @@ Recommended Meal: I don't know if he can still eat food, but if he can, then som
 
 ---
 
+>Dr. Acheron
+Another one of Ramses' cronies. Only heard about him vaguely in Karnak's ramblings, but he sounds like the tech man for the mutant side. Karnak's always going off about "purifying the world" and all that by knocking humans off their perch, but I wonder what the guy's gotta say about bots? Not like they're the top dogs either, but I really can't see them wanting to work together. The fact they got a tech guy at all is something I wouldn't-a expected. Anyway, since he's working with Ramses, there's a high likelihood he's in the "really should avoid meeting this guy if I want to stay alive" section of people in the wastes.
+
+Recommended Meal: Don't say octopus, don't say octopus, don't say octopus... Fettuccine alfredo and some crispy roasted mini potatoes.
+
+---
+
+>Queen Bee
+If there was a competition on who's had the most sex in the wasteland, QB here would be... I'll say top ten just because she ain't that old. If you got a pulse and don't look like a pile of manure she's ready to jump your bones. We even had a drink together once and... I'm glad I know how to stick to my guns and that even as a raider she knows how to take no for an answer because that was way too close for comfort. Even besides her reputation for her hanky panky record, she ain't a girl you want to mess with. I don't even know where she hides all those knives but I've seen her put more holes in a man than an old piece of Swiss cheese before he could even pull his gun out.
+
+Dateable?: That outfit's just cheating... No, I can't. QB ain't looking for anything serious and I want a girl who'll settle down and stay with me through thick and thin. Not saying she's unreliable, but... she's ain't one to stick around when she gets bored.
+
+Recommended Meal: Honey baked ham with some grilled slices of pineapple and a bread roll.
+
+---
+
 >Kara Ramirez
 Just another girl trying to survive in this wasteland and stay out of the way. Makes a decent meal and that's about all she's got to say about herself. Is a bitch to people for no reason because that's how she was brought up. Puts up a tough front that probably doesn't convince anyone.
 
