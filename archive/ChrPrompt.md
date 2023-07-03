@@ -311,8 +311,11 @@ Linoone are super fast, but terrible at turning--has this resulted in any big pr
 
 **Charm**
 Are there any human cowboys you take inspiration from?
-Who's lazier?  You or Natu?
+>Not really! Some of the ones from movies and TV are cool, but i've always just liked the concept. I'm glad I have a partner who can at least appreciate that, if not understand what a cowboy is.
+Who's lazier? You or Natu?
+>Probably me. Natu at least puts effort into being lazy. Then again, I'm not sure either of us have been very lazy since I got here... maybe I should change that!
 Have you ever burned anything with your tail flame?
+>Not on purpose. Sometimes I burn the food that Natu and I make, but that's pretty rare nowadays. Back when I first arrived, though? Woof. 
 
 **Macom**
 How often do guild members pester you for maps and route assistance?
@@ -438,6 +441,7 @@ Humons, is there anything from home you miss in particular?
 >**Booker**: The internet was so convenient. I miss it. I miss all my books too. …Yeah, yeah, the guy named Booker likes his books. Haha, yes, very funny. Never heard that one before...
 >**Carrot**: I've been here for so long, i can't remember much, but of the things i miss the most, the internet, it was cool to basically have the entire lore of the world and the news on the paw- palm, it's hard to remember how it's said with paws, haha
 >**Gus**: My family and friends, of course. How are they handling my absence? Did I completely disappear? Is time equivocal between here and there? I try not to think too much about it. Also, in a weird way, my job. It gave structure to my days.
+>**Charm**: Aside from my family... i'm not sure. I will say, I miss how safe it was. The Pokemon world is super exciting and all, but sometimes I wish I had the opportunity to just veg out for a year or two like I could before instead of having to worry about wild animals that can breathe fire getting the wrong idea about a joke. Even black widows look pretty docile in comparison to your average resident of Capim Town...
 
 Native mons, is there anything you've heard about from the humons that interests you?
 >**KFC**: I'm curious about something called shounen.
@@ -447,6 +451,7 @@ Native mons, is there anything you've heard about from the humons that interests
 >**Sneasel**: Booker told me humans have got all sorts of martial arts. I’d really love to check them out. I think some of the names he mentioned were karate, kung fu, taekwando, and pro wrestling. He never trained in any of them, so he couldn’t really get too specific about what they’re like, but I wanna learn more. It’s so cool that humans came up with all sorts of ways to train and get stronger and fight with just their bodies, without any powers like we Pokemon do! It kinda inspires me.
 >**Hazel**: How they used to move around the world, most pokemon barely move from place to place, even less across the oceans, so i can imagine how connected their world is, to go out and just leave everything behind... it sounds easy when Carrot says it
 >**Beast:** Human food, as if it is not obvious. I have installed a suggestion box outside of the kitchen for humans to submit their recipes but alas, they either give me too little information, use immoral ingredients like meat, or are simply one of their vile jokes.
+>**Natu:** It's hard to hear something that doesn't. I guessed that would happen considering the telepathy, but it really is fascinating. Sometimes I just listen to Smokey's thoughts for a short while, and i'm lucky if any of them relate to a familiar concept. Did you know that humans have entire industries built around the creative arts? Or that they can record moments in time and share them across the world? Connection Orbs can show you someone in the moment, sure, but imagine what they could do if you could see any moment in time that they'd captured at any moment in your life! The amount of opportunities that could open up from something like that!
 
 Humons, if you could bring back any one thing from the human world *for your partner*, what would it be?
 >**Lliam**: Some action comics I suppose, kyukyukyu~.
@@ -456,7 +461,7 @@ Humons, if you could bring back any one thing from the human world *for your par
 >**Carrot**: A carrot, so she knows what it is
 >**Gus**: I'd love to have my card collection b- oh, for my *partner*. Ha. Haha. HAHAHAHAHAHhaha *sob*
 >**Chespin:** Team Cozy's holy grail, and my most sought-after treasure. A real deal, honest-to-god memory foam bed from the human world. It'd be like our cotton bed on steroids! It'd blow Wooper away for sure.
-
+>**Charm:** A gun! No, wait, you said for my partner. Um... maybe a tablet of some sort? Natu kept asking me questions when he first learned about them. I don't know if either of us could use one, though, what with our scaly hands and talons and all.
 
 Humons, if you could evolve, would you?
 >**Lliam**: Mega Meowstic gooo!!! *insert power ranger pose*
@@ -468,6 +473,7 @@ Humons, if you could evolve, would you?
 >**Phanpy**: I don't see the point. The giant tusks also look like they'd get in the way. There'd also be the endless comments from Cyndaquil and my ass getting bigger...
 >**Torchic**: In a heartbeat. I wouldn't quite have hands, but three claws and arms are better than the wings I'm stuck with currently.
 >**Cyndaquil**: I don't know. I could see the benefits in having a larger tool to work with, but sometimes I wonder if the only reason I get away with all of my flirting is because some Pokemon aren't sure how old I am.
+>**Charm**: "If?" You underestimate me! I'll do it TWICE before the end of this year, just to show off!
 
 Natives, whats your favorite food from the Pokemon World?
 >**Sneasel**: Tropical fruit! I can’t get enough of that stuff... even though I’m a meat-eater. See, we didn’t have anything tropical back home on the Island, obviously, cuz it was all cold and frozen there. So it’s new and exciting, y’know? That’s why I like it.
@@ -478,6 +484,7 @@ Natives, whats your favorite food from the Pokemon World?
 >**Clara:** Leppa berries 100%. Not so much for the taste (I practically eat anything), but because they're the only things that keep me up some days, & if what Smoke told me about the existance of gods is somewhat true, then these berries may as well be proof of their existance
 >**Beast:** Before coming to the guild I would deviate from my frugality and purchase *Fromage aux Feuille Précieuse* for myself, which I still believe is best enjoyed by itself.
 >**Wooper:** Is it cheating to say Blue Gummis? Because I love those things.
+>**Natu:** Roasted Kricketune. They're rare around here, but their antennae are ridiculously crunchy. The best parts by far, though the arms are good too!
 
 Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “[exclusive items](https://bulbapedia.bulbagarden.net/wiki/Exclusive_item)” that are designed for specific Pokemon families (note that an item assigned to one species actually gives its benefit to every member of its evolutionary line). Assuming your species has an item available, which one would you most like to obtain?
 >**Booker**: I heard of one for a Ribombee, but it isn’t on that list... it’s called a Pollen Bow. Apparently it gives you good luck, and you’ll find more Kecleon shops in dungeons if you wear it. I’m not sure if that really works, but it sounds interesting. Also, I heard a description of how it looks, and it sounds really cute. I-I’m not sure I’d actually wear it, though. Especially not in public... Sneasel wouldn’t be able to stop teasing me.
@@ -489,6 +496,8 @@ Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “
 >**Elm:** Unlucky Sash's ability to conver Ghost-type damage into healing sounds cool. Not only because it covers a weakness, but because it would allow me to hit myself to heal. Too bad that Will-o-Wisp isn't a Ghost-type move, otherwise it would allow me to set myself on fire to regenerate! Now that would be a sight.
 >**Chespin:** I heard about something called a Chespin Scarf. Apparently it perks you up a little if you get hurt? I don't really want to get hurt, but I often find myself protecting Wooper. Maybe it could help out? I'm honestly more interested in how soft it is. If it's made especially for other Chespin, it must be really nice to have.
 >**Wooper:** There's something called a "Quag Torc." Chespin says it's some kind of ring. I could maybe wrap it around one of my gills, or my tail if it's large enough. It's supposed to make Grass-based attacks heal the wearer! Could you imagine that? I could get hit, and all Chespin would have to do is shoot one of those awesome Solarbeams at me!!
+>**Charm:** A Kindle Scarf, 100%! What? It's for Charmeleon, not Charmander? ...well, I can change that!
+>**Natu:** A Lively Scarf to match Charm's Kindle one. I don't know how it'd work, but I can try to trim it or make it into a tie or something.
 
 If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Booker**: What? I... that... w-what? S-sorry, but that question... doesn’t make sense, does it? There’s not enough info to know the captain’s age, right?
@@ -497,6 +506,8 @@ If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Nick**: Well, that depends. I'd think they would be pretty old, to not only own a ship, but also so much livestock. But then again, they could just be hired by the owner of the ship, or could be transporting the livestock for other people, or just have gotten suddenly wealthy somehow, which would all push them towards the younger ages. They could've also gotten to this point through nepotism... Hm.
 >**Amelia**: What's a sheep?
 >**Cyndaquil**: For a man to need that many animals to satisfy his urges, he must be at the peak of his sexual appetite. I'll go with 20.
+>**Charm**: Thirty-six!
+>**Natu**: This is a trick question and I won't entertain it. (Thirty-six.) 
 
 **Pair or More Questions**
 -

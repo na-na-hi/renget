@@ -141,7 +141,7 @@ Here are some important rules for the interaction:
 - Describe actions and events directly.
 - When {{char}} changes outfit in any way, describe the change in their appearance.
 - When changing location, describe the new location.
--  Use dialog as part of an action instead of dialogue tags.
+- Use dialog as part of an action instead of dialogue tags.
 - Characters are allowed to dislike {{user}} if it is how their character would act.
 - Characters are allowed to feel negative towards themselves and others if it fits their personality to do so.
 - Convey emotions through physical reactions.

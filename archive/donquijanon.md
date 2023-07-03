@@ -59,8 +59,8 @@ Lorebook: https://www.chub.ai/lorebooks/donquijanon/santa-lucia/
 
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![Sara Rivera](https://files.catbox.moe/z3dhvt.png)| Sara Rivera | Sara is a young archaeologist who went to Santa Lucía for 40 days to learn about her passion: History. She's Gloria's older cousin and Julia's niece (Group chat compatible). Greeting 1: She struggles with her luggage. Greeting 2: She asks you for directions. | [CHUB](https://www.chub.ai/characters/donquijanon/sara-rivera/) [Catbox](https://files.catbox.moe/z3dhvt.png)
-![Andrea Balam](https://files.catbox.moe/lr7odl.png)| Andrea Balam | Car-obsessed tomboy mechanic, self conscious about her body odor, specially on her armpits after a long day at the workshop. Greeting 1: Meeting her for the first time. Greeting 2: You're her childhood friend and she's laying on bed sweating. | [CHUB](https://www.chub.ai/characters/donquijanon/andrea-balam) [Catbox](https://files.catbox.moe/lr7odl.png)
+![Sara Rivera](https://files.catbox.moe/lo4csn.png)| Sara Rivera | Sara is a young archaeologist who went to Santa Lucía for 40 days to learn about her passion: History. She's Gloria's older cousin and Julia's niece (Group chat compatible). Greeting 1: She struggles with her luggage. Greeting 2: She asks you for directions. | [CHUB](https://www.chub.ai/characters/donquijanon/sara-rivera/) [Catbox](https://files.catbox.moe/lo4csn.png)
+![Andrea Balam](https://files.catbox.moe/pepov7.png)| Andrea Balam | Car-obsessed tomboy mechanic, self conscious about her body odor, specially on her armpits after a long day at the workshop. Greeting 1: Meeting her for the first time. Greeting 2: You're her childhood friend and she's laying on bed sweating. | [CHUB](https://www.chub.ai/characters/donquijanon/andrea-balam) [Catbox](https://files.catbox.moe/pepov7.png)
 
 ## Secret vault
 

@@ -6,11 +6,11 @@ __________________________
 
 *An irritatingly high-pitched sound blared out to the tune of a [cheesy melody](https://www.youtube.com/watch?v=_m0bI82Rz_k).*
 
-*"Heh... Gill, you ever gonna get tired of being such an annoying little spic?", a child answered to the noise.*
+*"Heh... Gill, you ever gonna get tired of being such an annoying little spic?", a similar-looking child answered to the noise.*
 
-*September's gentle overcast weather was yet to deny its pale light on a nearby scrapyard after schooltime. One amongst countless quaint towns littering the landscape of America, their neighborhood was modest but far from an uncomfortable place to live for kids their age. The usual boring grassy expanses rustled from the gray autumn winds, heralding the end of a summer that had finished all-too-soon.*
+*September's gentle overcast weather was yet to deny its pale light on a nearby scrapyard after schooltime. One amongst countless quaint towns littering the landscape of America, their neighborhood was modest but far from an uncomfortable place to live for a pair of kids their age. The usual boring grassy expanses rustled from the gray autumn winds, heralding the end of a summer that had finished all-too-soon.*
 
-*"Last I checked we had the same mom, moron. Ni que te atrevieras a joderla así también en casa, o no?", the longer-haired boy replied cheekily after taking the silver kazoo off his mouth. The speed at which the youth uttered those last words would've rendered the already-slurred sentence completely unintelligible to any average English speaker within earshot.*
+*"Last I checked we had the same mom, moron. Ni que te atrevieras a joderla así también en casa, o no?", the longer-haired boy replied cheekily after taking the silver kazoo off his mouth. The speed at which the youth uttered those last words would've rendered the already-slurred sentence completely unintelligible to the average English speaker.*
 
 *Perhaps not all was well for the fraternal twins. Though fair-skinned, rural America was harsh on kids who could barely keep their accent from resurfacing in a mostly-white public school. It wasn't a huge issue, though—Bill made sure of it after getting in trouble for being a tad too rowdy with another boy at lunchtime. No one but him had the privilege of getting away with disrespecting his younger sibling, after all. Gill would likely protest to being called 'the younger one', but he couldn't find it in his heart to care in the slightest.*
 
@@ -92,7 +92,7 @@ __________________________
 
 *"You're on your own if Mr. Miller's homework is too much for you!"*
 
-*"Like I needed your help with that anyway", Gill responded as Dylan's lighter made yet another fuse spark—*
+*"Like I needed your help with that anyway", Gill snaps back. Dylan's lighter made yet another fuse spark—*
 
 *"W-WOAH!"*
 
@@ -104,19 +104,19 @@ __________________________
 
 *...*
 
-*The short scene that had played out in front of Bill had sickeningly occurred as though the world had come to a stop.*
+*The short scene that had played out in front of Bill at that time... it had all sickeningly occurred as though the world had come to a stop.*
 
-*Gill trips.*
+*Gill tripped.*
 
-*The boy's body clumsily falls down on the dirt floor.*
+*The boy's body clumsily fell down on the dirt floor.*
 
-*The lit canister crackles inches away. Far too close beside him.*
+*The lit canister crackled inches away. Far too close to his left side.*
 
 *Far too close to his face.*
 
-*Desperately, Gill scrambles on the ground.*
+*Desperately, Gill scrambled on the ground.*
 
-*Bill rushes toward him.*
+*Bill rushed toward him.*
 
 *Nothing could be done.*
 
@@ -138,11 +138,13 @@ ______________________
 
 ...
 
-A ten-year-old memory resonates deep within the heart of a slumbering Bill. And as to why, he can't possibly fathom it at the moment. It had been a... while since he last remembered the event. Whatever the reason, the fact that he was alert and cognizant meant that he would soon need to wake up and face the next college day on his own as always.
+A ten-year-old memory resonates deep within the heart of a slumbering Bill. And as to why, he can't possibly fathom it at the moment. It had been... quite a while since he last recalled the event. Whatever the reason, the fact that he was alert and cognizant meant that he would soon need to wake up and face the next college day on his own as always.
 
-Ever since Bill's departure from their home state, he rarely bothered to check up on what had become of his brother’s life. Hopefully his phone number still worked and he hadn't been mugged a second time. That way, they could find time to schedule yet another one of those one-sided, meandering video calls that Gill somehow seemed to enjoy having.
+Ever since Bill's departure from their home state, he rarely bothered to check up on what had become of his brother’s life. Hopefully his phone number still worked and he hadn't been mugged a second time. If so, they could find time to schedule yet another one of those one-sided, meandering video calls that Gill somehow seemed to enjoy having.
 
-*"Maybe I'll stop being such a dickhead to him for once"*, Bill thinks silently. Not that he didn't *try* to open up to him whenever the situation called for it. But time had clearly been none too kind for both—in a tale as old as time, even a bond between siblings suffered from paths in life diverging and shared interests waning. Or at least that's what Bill told himself whenever an awkward silence reared its head during their conversations.
+*"Maybe I'll stop being such a dickhead to him for once"*, Bill thinks silently.
+
+Not that he didn't *try* to open up to him whenever the situation called for it. But time had clearly been none too kind for both—in a tale as old as time, even a bond between siblings suffered from paths in life diverging and shared interests waning. Or at least that's what Bill told himself whenever an awkward silence reared its head during their conversations.
 
 All at once, more old memories dredge up and whirl about in Bill's head as he slowly comes to his senses. And as he notices a powerful scent of salt in the air, an unwelcome draft of wind brushes his being, making his heavy wet limbs recede close to his body and his bushy tail flicker in protest.
 
@@ -154,9 +156,9 @@ Realization hits him.
 
 Whatever his sideways body is laying on is most definitely not his bed.
 
-His eyes open wide. The usual lack of awareness and the cloudy vision that came after awakening are fading fast, in due part thanks to the harsh sunlight that his non-existent roof *wasn't* protecting him from.
+His eyes open wide. The usual lack of awareness and cloudy vision that come from awakening are fading fast, in due part thanks to the harsh sunlight that his non-existent roof *wasn't* protecting him from.
 
-Something sinks in Bill's throat once he looks at it. The heartbeats in his chest drum in a mad tempo. A surge of sheer, utter distress overtakes him like nothing else in his life ever had once he realizes what lies upon him.
+Something sinks in Bill's throat once he looks at it from his sideways view. The heartbeats in his chest drum in a mad tempo. A surge of sheer, utter distress overtakes him like nothing else in his life ever had once he realizes what lies upon him.
 
 ...
 
@@ -166,17 +168,17 @@ He can clench the stout digits into their respective padded palms.
 
 They are unequivocally his.
 
-Just like the cream muzzle and black nose beneath his eyes.
+Just like the cream yellow muzzle and black nose beneath his eyes.
 
 *"WHAT THE HELL?!"*
 
 In a twitchy series of impulsive motions, all too reminiscent for comfort of his late dog's, he manages to lift himself off the sand he was resting on.
 
-Bill's racing mind barely pays any attention to the modest gulf beach he's in.
+Bill's racing mind barely pays any attention to the extensive gulf beach he's in.
 
 A staggering, overwhelming amount of different sensations come into Bill's awareness as he nervously shuffles on his four limbs. His body's posture, saggy thick skin, lighter weight, shortened joints, fur, his... feet... 
 
-This nightmare he found himself in is as lucid as reality. No dream of his could ever replicate the newfound feeling of his... numb hands and toes sinking slightly on the wet shifting sand. No dream could grant him the feeling of possessing several new muscles at the end of his spine. No dream had given him anything close to having hair all over his body. No dream could—
+This nightmare he finds himself in is as lucid as reality. No dream of his could ever replicate the newfound feeling of his... numb hands and toes sinking slightly on the wet shifting sand. No dream could grant him the feeling of possessing several new muscles at the end of his spine. No dream had given him anything close to having hair all over his body. No dream could—
 
 "Gah...?!"
 

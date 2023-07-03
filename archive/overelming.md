@@ -787,9 +787,651 @@ I covered my whole body with the blanket and closed my eyes, as if I was trying 
 
 That day ended in a way I hoped I would never experience again. It ended with me feeling sorry for myself until I was freed from it by the sweet embrace of slumber.
 
-##-> Day 4 <-
+##-> Day 4 - Sweet Respite <-
 
-##-> Day 5 <-
+*”I have to prove to myself that I am not useless!”*
+
+*That was the thought that led me to accept Sneasel and Booker’s invitation to help them with a mission to capture an outlaw in Somnus Cave. We embarked on our journey and managed to reach the deepest parts of the dungeon, where we got ambushed by three opponents who surrounded us.*
+
+*All three opponents looked the same, but I couldn’t identify them. They had tall humanoid shapes, and their limbs and face were enveloped by a black smoke that obscured any notable features. I assumed they were one of the newer generation Pokémon I wasn’t familiar with.*
+
+*Sneasel shouted, “Elm! Take care of the guy in front of us, me and Booker will deal with the two behind us!”*
+
+*“Got it!” I moved to intercept the approaching shrouded opponent, preparing a Shadow Sneak while the sounds of claws clashing echoed behind me.*
+
+*I sent my shadow lurching forward, but before I could perform the rising punch motion my opponent sidestepped it and his movement suddenly sped up. He crossed the distance between us so fast that I only had time to mutter a “Huh?!” before I got kicked on the side of my head and was sent flying towards a wall.*
+
+*The impact from the kick was so intense that my vision went blurry, and it left me dazed with my face on the dirt floor. The sounds of Sneasel and Booker screaming were what snapped me out of the stupor, prompting me to push myself off the floor and look at what happened to them.*
+
+*What I saw was a harrowing scene. Both Sneasel and Booker were lying face-down on the ground, motionless. Only a single smoke opponent remained, and he was standing beside them with his left foot stepping over Sneasel’s head.*
+
+*”No… SNEASEL! BOOKER!”*
+
+*He turned his head towards me and let out a sinister laughter that sent shivers down my body. “What a pity. These two managed to defeat their opponents, but you failed to stop me and gave me the chance to strike their backs and take them out.”*
+
+*“You bastard!” I tried to get up to attack him, but he reached me in a second and grabbed me with his right hand. Before I could try to free myself he slammed me against a wall and pinned me there, then he also pinned my right arm with his free hand.*
+
+*“Weeeeak! You’re never gonna hit me like this. You say you’ve changed yourself? Bullshit. You’re still that pathetic human and all you did was put on a mask!”*
+
+*His words struck a nerve and made me struggle harder to try freeing myself from his grasp. “You asshole! Who the hell are you?!”*
+
+*“Oh, you know very well who I am!” At that moment the smoke surrounding his body began to dissipate. He got his face close to mine before the smoke cleared from it, letting me see his identity.*
+
+*It was me. Or rather, my old human self.*
+
+*”That’s right. I am **you**! Did you really think you could just get rid of me with a little speech in front of a mirror? Pathetic! **You** and your incompetence killed those two guildmates! They trusted **you** to watch their backs, but **you** failed them!”*
+
+*Faced with that horrifying scene playing before my eyes, there was only one thing I could say.*
+
+*”S… So…”*
+
+*”…So this is all just a nightmare. Phew, I’m so relieved!”*
+
+*“What?!”*
+
+*”You had me good until that face reveal haha!”*
+
+*As soon as I said that, the distorted version of me dissipated into black smoke and was gone. Free from his grasp, I let out another sigh of relief before hearing Sneasel and Booker’s voices calling out my name. I looked at the direction of their voices to check on their condition.*
+
+*”Are you two o-“*
+
+-> ![Neco Sneasel & Buff Booker](https://i.imgur.com/rzakcJp.png) <-
+
+*”-kay…?”*
+
+*Sneasel began shouting at me. “Elm! What the hell are you trying to accomplish by feeling sorry for yourself?”*
+
+*”Boo booker book!”*
+
+*”Booker is right. Elm, didn’t you tell me you would train hard to overcome your problem?! Were you lying to me?!“*
+
+*”No! It’s just…”*
+
+*”It’s just what?! You barely started your life here. The hell are yo already acting like a pussy ass bitch for?!”*
+
+*”Booker boo boo book, boo bo boooker boo. Boooo book, booker bo booker!”*
+
+*”You tell him, Booker!”*
+
+*Their words were harsh, but they were something I had to hear. “I… You’re right, Booker! I didn’t even **try** doing any serious training yet! Why am I already thinking about giving up?!”*
+
+*“Now get yo bitch ass in the god damn training dojo before I beat yo motha fucking ass! Booker, do it!”*
+
+*Smiling, Booker approached me and put a hand on top of my head. “Booker? What are you do-AAAAAAAAAAAAAAH!!!”*
+
+*Still grabbing me, he jumped high up and turned me upside down before performing a piledriver. My vision went white the moment my head crashed into the floor.*
+
+…
+
+*Yawn*
+
+I rubbed my eyes and took off the blanket covering my body. Small rays of light were escaping through a gap in the curtains and illuminating my room, letting me know that it was already morning. I pushed myself off my bed to assume a sitting position and began recalling the *peculiar* dream I had.
+
+“… What the heck was in yesterday’s spaghetti sauce?!”
+
+…
+
+Sitting by myself at one of the mess hall’s tables, I reflected on the dream while having breakfast.
+
+*(It’s amazing how a good night of sleep can help you organize your mind. I don’t know why I was being so gloomy when I haven’t even done a training session yet. Sneasel and Booker were right, I better get my ass on the training dojo today.)*
+
+*(…Or rather, Dream-Sneasel and Dream-Booker. Because they sure were different from the real ones. God, I just want to wipe away the memories of those fucked up dream versions.)*
+
+*(But on the other hand, they did help me get my shit together, so I guess I should be thankful to them. Thank you Dream-Sneasel! Thank you Dream-Booker!)*
+
+Having finished my three pancakes, I left the mess hall and went towards the training dojo in order to begin my training. My plans were interrupted when I saw a familiar trail of fresh green “paint” coming out of the bathrooms and going up the stairs to the second floor.
+
+*(Oh geez. This must be the work of that Ross I heard about. He must have forgotten to lift his tail just like in my first night.)*
+
+“…”
+
+*(Let’s follow the trail. Someone has to warn him about the mess he’s leaving behind, and I’m totally not doing this to procrastinate on training!)*
+
+I went to the second floor and spotted the culprit walking towards the library.
+
+“Hey Ross. Your tail is dragging on the floor.”
+
+He didn’t answer me and continued his march. I assumed that he didn’t hear me, so I got in front of him to call his attention. That was when I noticed his eyes were closed.
+
+*(Is this guy… sleeping?!)*
+
+He kept walking towards me, but suddenly turned around to walk in another direction as if he knew I was in his path. I was dumbfounded watching him while wondering how a case of sleepwalking could get this bad.
+
+“Never seen Ross doin’ that before?”
+
+I turned to see who said that. It was… a grey Meowth?
+
+“No, I joined the guild a couple of days ago, so this is my first time seeing him. Is that something normal around here?”
+
+“It’s not common, but it already happened a couple of times.”
+
+“Shouldn’t we wake him up? That looks dangerous.”
+
+The grey Meowth looked at the sleepwalking Smeargle with a hint of pity on his face. “Nope, just leave him. Poor guy has severe insomnia and doesn’t get many chances to sleep.”
+
+At that moment I noticed Ross was heading straight to the stairs down. I began rushing towards him while shouting “Watch o-“, but the Meowth stopped me by grabbing my arm.
+
+“It’ll be fine. Just watch.”
+
+I apprehensively watched Ross approach the steps, but to my surprise he went down them just fine. I couldn’t help but be amazed at how he could sense his surroundings while sleeping. “Wow…”
+
+“See? He’ll be fine.”
+
+A Vulpix and a Shinx passed by Ross on the stairs but didn’t give him more than a passing glance. It seemed like the guild members were used to the sight of the sleepwalking Smeargle.
+
+“What if he walks out of the guildhall?”
+
+“Hasn’t happened yet.”
+
+“Huh, if you say so…”
+
+“I’m Kaiji, by the way. You can seek me out if you need anything business related.” He said while extending a hand.
+
+I did a handshake and introduced myself. “Nice to meet you Kaiji. I’m Elm.”
+
+For a moment I considered the idea of going after Ross and using his tail brush to draw something funny on his back, but I had already procrastinated enough on training, so I decided to leave that idea for another day. 
+
+*(Now that the “mystery of the green trail” is solved, I better get my ass on the training dojo or else Dream-Sneasel might pay me a visit again. But first…)*
+
+“Hey Kaiji, does this guild have any Ghost-types besides me? I’m looking for someone who can give me some pointers on using Ghost moves.”
+
+Kaiji spent a few seconds thinking before giving me an answer. “We have a human who became a Sableye, but I doubt she can help you as she’s not a fighter and I have yet to see her come out of her lab. We also have a Gimmighoul, but he must be on a mission since it’s been a while since I last saw him around.”
+
+*(Gimmi…Go? Bummer. Guess I’m on my own then.)*
+
+I was about to thank Kaiji and head to the dojo, but I remembered something important.
+
+“Hey Kaiji, do you know where I can get an official guild badge?”
+
+…
+
+No longer parading around with a bootleg badge, I headed to the dojo. It was spacious and more well-kept than the other public spaces in the guild, with a good amount of training dummies and boards with targets painted on them. It also had several weights lined up and a marked space dedicated to sparring. I imagined around ten people could comfortably train at the same time there.
+
+For a moment I thought about how dangerous it was to train Fire moves in a guildhall that was essentially a giant tree trunk, but I assumed that the construction of the room accounted for that as the walls had a texture that was different from the ones in the other rooms. There was also a box filled with Rainy Orbs near the entrance to act as emergency fire extinguishers.
+
+The only people inside were: Sneasel, who was doing some target practice while firing ice shards; a Phanpy watching a Torchic spitting fireballs; and Booker, who seemed to be receiving some instructions from a Combusken wearing an eyepatch on his left eye and a long red and white striped scarf. Not wanting to interrupt their training, I greeted the people there with a simple hand wave.
+
+*(Alright, let’s get down to training. I think I’ll focus on Shadow Sneak first since it is my main attack.)*
+
+*(Hmm… The main problem with it is that, between the straight punch sending my shadow forward and the rising punch making the actual attack happen, there is ample time for the opponent to sidestep and dodge the attack. I should focus on trying to make it faster.)*
+
+I used Shadow Sneak while paying attention to how much time the attack needed to hit the target. With that time in mind, the first thing I did was use the attack over and over to try forming the mental images faster, followed by a short break.
+
+The second thing I tried was to throw a second Shadow Sneak while my shadow was still stretched forward, which would be very useful for when the first one missed.  I made several attempts, but unfortunately it didn’t work. I concluded that after a Shadow Sneak was fired, I had to wait for my shadow to come back to me before firing another one.
+
+The third thing I tried was throwing punches in a 45-degree angle instead of straight ahead to see if the shadow would also lurch forward while rising in a 45-degree angle, eliminating the need for the rising punch. After several attempts I noticed the shadow did rise a bit, but it was still too low to the point where it would only hit opponents who moved by crawling. For regular opponents it would at best trip them. After this I took a break to eat an apple.
+
+The last thing I tried was punch with both of my arms at the same time to see if I could fire two Shadow Sneaks at once. Many attempts later, I did manage to make my shadow stretch out in two different directions at once. It seemed good at first, but the speed the shadows moved at was cut in half, so the attack would be even easier to dodge. Therefore, that ended up being yet another scrapped idea.
+
+Around the time I was executing that last idea I started feeling a bit lightheaded. I didn’t think much of it at first, so I sat on a nearby bench for a couple of minutes and then resumed my training. But later I also started feeling dizzy to the point where I had to lie down on the spot. The Combusken noticed me and helped me get on a nearby stone bench while saying something. I was too dizzy to pay full attention to what he was saying, but I from what I managed to hear it seemed like my body wasn’t used to performing moves so many times in a single day, and that I should refrain from training any more for the rest of the day.
+
+*(Uuurgh, everything is spinning, and I feel like crap. Almost feels like those times when I had low blood pressure. Is this what being out of PP feels like?)*
+
+While resting on the bench I thought about how much progress I had made for the day. All the ideas I had to improve Shadow Sneak were a bust, but I felt like I had managed to shave off a fraction of a second from the time I needed to execute the move. It was hard to tell for sure without a stopwatch, though.
+
+*(I barely made any progress today… I know it’s unrealistic to expect big results from a single training session, but it’s hard to not feel at least a bit disappointed. Still, I’m not giving up just yet.)*
+
+I rested on that bench until I felt I could move around normally. Not wanting to push my luck, I decided to do as the Combusken told me and end my training for the day, leaving the dojo. It was still early in the afternoon, so I spent some time thinking about how I would spend the rest of the day.
+
+*(Maybe I should have a walk around Capim to explore the town… Oh, that’s right! I have the money I got from the mission with Gus. I doubt it is much money since it was from a low rank mission and split with Gus, but it might be enough to buy one thing or two.)*
+
+After going back to my room to fetch my purse, I went for a stroll around Capim. I had a look at the wares in every store I could find in order to have an idea of the money value of items, food and other goods in this world. As I suspected there wasn’t much that I could afford with the money I had, but window-shopping was an activity I always enjoyed. In particular, I spent quite some time looking at trinkets and stuff that could be used to decorate my very empty room.
+
+*(I wonder what I should buy. Well, it’s not like I HAVE to buy something today. I could always- Hmm?)*
+
+While glancing over at a row of shops, a single word on a sign immediately caught my attention and prompted me to rush to the shop’s interior to double-check if I had read the sign right. A big smile formed on my face when I confirmed that it was indeed the kind of shop I expected, and that I had enough money to afford some of their product.
+
+Excited, I made my purchase, which cost almost all the money I had, and waited on a table outside while the Alcremie running the shop picked up my order and brought it over to me on a plate.
+
+It was a big slice of cake.
+
+Yes, I blew pretty much all my money on cake.
+
+No, I did not regret it.
+
+Yes, I have one hell of a sweet tooth.
+
+The cake was fairly simple, consisting of two layers of sponge sandwiching a layer of cream with chopped berries mixed in. All with a generous amount of frosting on the outside and a single Cheri Berry on top of the slice. I picked up a spoon and tried out a small piece of the cake.
+
+*(So yummy!)*
+
+It wasn’t among the best cakes I ever had, but it was delicious in its own right with a good amount of sweetness balanced by the natural sourness of the berries. And the fact that the flavors of this world’s ingredients were still new to me further enhanced the experience.
+
+I savored my treat slowly while watching the hustle and bustle of Capim’s center and the approaching sunset. Relaxing while eating something delicious after spending time leisurely window-shopping was truly one of my simpler pleasures in life. The moment was so enjoyable that I didn’t even bother thinking about the origin of the eggs, milk, and cream that went into the cake.
+
+With me being caked with satisfaction and having almost no money left, I decided to end my Capim exploration and head back to the guild before it got dark. It was still too early for dinner, so I had a quick shower and flew to the guildhall’s rooftops while doing my best to not look down during the ascension. Once there, I spent about an hour just sitting and appreciating the view of Capim as the darkness of the night covered the town and was fought back by the warm lights of several lanterns. It was my first time seeing the view, and at that moment I knew I would be coming back there for that sight many more times.
+
+…
+
+Having killed enough time, I went back to the first floor and faced the busy dinner hours by picking up my food and sitting on the first free seat I could find. That night’s dinner consisted of some kind of porridge with roasted vegetables on the side.  
+
+*(I’m only realizing this now, but every meal I had so far was vegetarian. That makes sense, after all where would the meat even come from if it was a normal part of this world’s cuisine? That would be pretty morbid.)*
+
+*(Although… I would be lying if I said I wasn’t missing a nice steak or some crispy karaage at least a little bit.)*
+
+*(What would I do if I came here for dinner one night and saw that Tauros steak was on the menu? Would I eat it?)*
+
+*(…)*
+
+*(No no no. I might not be human anymore, but that doesn’t mean I’ve lost my humanity. So no, I wouldn’t eat it.)*
+ 
+*(...)*
+
+*(But I would be curious about the taste, so I would at least have one bite. Just one bite, for science!)*
+
+*(…)*
+
+*(But having only one bite of the steak would be a waste of food, so I would eat the whole dish. I’d only have it once, though!)*
+
+*(…)*
+
+*(But if it turned out to be delicious, I’d maybe have it on some rare occasions. Maybe during celebrations. Only sometimes, though!)*
+ 
+*(…Okay, FINE! Maybe I have become an undead monster of darkness who would feast on the flesh of innocent sentient beings. In any case, it’s not like there’ll be meat here, so let’s just not think about that matter again. Thankfully the food here is tasty enough to satisfy me, and as long as can get my share of pancakes, cakes, and whatever other delicious sweets this world has to offer it’ll be enough for me.)*
+
+*(I wonder if this world has chocolate.)*
+
+…
+
+Having finished my dinner, I thought about how I probably had recovered enough energy to do some light training before calling it a day, so I went to the training dojo. My plan was aborted when I peeked inside and saw that the Combusken who had helped me earlier was inside.
+
+*(He told me to not use more moves for the day, so I might get reprimanded if he sees me sneaking in some extra training. Welp, I guess that’ll be all for today.)*
+
+…
+
+I spent the rest of my night in the map room studying the geography of the continent, focusing on landmarks and the location of the known mystery dungeons. When I started feeling sleepy, I picked up a copy of the continent’s map for myself and headed back to my room.
+
+While lying on my bed waiting for sleep to come, I thought about what my plans for the following day would be.
+
+*(Hmm… I think I’ll try doing a low rank request by myself tomorrow, and I’ll make sure to pick a mission in a dungeon that has no normies this time! It’ll be good as training… and I could always use more money for cake.)*
+
+*Yawn*
+
+Fortunately, Dream-Sneasel and Dream-Booker did not visit me again.
+
+
+##-> Day 5 - The Wanderer, the Devil, and the Fast Food<-
+
+I got up from bed, ready to face another day and determined to take on a request. I put on my headband and arm pouch, grabbed my bag, and left my room to head to the mess hall.
+
+On my way there I crossed paths with a feminine-looking Absol who had a broken horn. I greeted him with a simple “Good morning” and kept going on my way, but suddenly I heard a voice from behind me.
+
+**“You!”**
+
+Startled, I turned back and saw that the one who said that was the Absol I had just passed by. I asked him, “Yes…?”
+
+He slowly approached me with an intense glare that felt menacing. My mind was in turmoil as I kept wondering what the hell he wanted with me, until he began speaking in a serious tone.
+
+*“The Devil will set his sights on you! With sweet words he will lower your guard, and then he will fiercely strike you down to coerce and corrupt your very being! When that time comes you must wield the spear of deceit and strike true at the heart of the evil!”*
+
+As soon as he finished saying that, a familiar grey Meowth entered the room saying, “There you are Kris! Come on, we have work to do. Hi Elm, sorry if he bothered you.”
+
+Just as quickly as Kaiji entered the room, he left it while pushing the Absol, who protested. “Wait! He's in danger!”
+
+“The only danger here is you scaring the newcomer… And all the Mystery Box sales we’ll miss if we are late to opening business!”
+
+I was left standing there dumbfounded.
+
+“…Oookay then? What the heck was that about?”
+
+At first, I dismissed it as the Absol trying to mess with me by saying random nonsense, but then I remembered something while going down the stairs. *(Wait, isn’t Absol a Pokémon known for predicting disasters? Oh shit, I guess I should keep those words in mind and be on the lookout for this “Devil”.)*
+
+With that mental note made I resumed my trip to the mess hall to get breakfast. While having my four pancakes I overheard a conversation between three people on a table behind me.
+
+“Today I’ll throw some Grimy Food at a Pelipper.”
+“Based.”
+“Based.”
+
+“And today I’ll help Delibird Deliveries with a *special* delivery for a Pelipper.”
+“Based.”
+“Based.”
+
+“And I’ll graffiti ‘TPD’ on their post office.”
+“Based.”
+“Basado.”
+
+Upon hearing that exchange I let out a small chuckle and whispered, “Based.”
+ 
+…
+
+Having finished my breakfast, I went to the job board to find a suitable mission. While looking at the jobs available I heard a familiar peppy voice beside me.
+
+“Hey, it’s you!”
+
+I looked at the source of the voice and saw a blue creature who had caused a mental breakdown on me during my first day here. A Wooper.
+
+“Oh… H-Hi there.” I was still a bit on the edge from remembering that shameful display I did in front of him.
+
+“Yay, you ended up joining our guild! What’s your name? You can call me Wooper! Have you gone on any missions yet? How are you liking the gui-“
+
+“Wooper! You’re overwhelming the poor guy.”
+
+The person who stopped the Wooper’s barrage of questions was a Chespin. “Hi, sorry if my partner bothered you. I heard about what happened during your first meeting with him.”
+
+“Uh, it’s fine. That *encounter* did end up pushing me towards joining this guild, and I’m glad for that.”
+
+“Good to hear! I’m Chespin, and this is Wooper. Together we are Team Cozy!”
+
+“Nice to meet you, Team Cozy. I’m Elm.”
+
+*(Oh right, since they are here…)*
+
+“Hey Chespin, do you know if any of the lowest rank missions on the board are in a dungeon with no Normal-types?”
+
+Chespin looked at the several job papers pinned on the board, then extended a vine from his arm to grab one. “Here, the dungeon in this one didn’t have any Normal-types when we went there.”
+
+I took the paper from his vine and had a quick look. It was a simple mission to pick up some “pretty stones” from a forest dungeon. “Yes, this one is perfect. Thank you Chespin.”
+
+Wooper asked, “Why do you want a dungeon with no Normal-types?”
+
+“Uh… It’s kinda embarrassing, but I only know Ghost moves for now, so I can’t hurt them.”
+
+He replied, “You could just use the ancient human battle technique of smashing a bo-“
+
+“A big rock on their heads!” Interjected the Chespin.
+
+“Oh… That… certainly would work.” *(Dammit! Why didn’t I think of that before?!)*
+
+“Well, we’re heading out now. Good luck with your mission Elm!”
+ 
+I thanked Team Cozy again for picking up a mission for me and we parted ways. After checking the location of the dungeon on a map I stocked up on food at the pantry and picked up some items at the storeroom.
+
+I double-checked my supplies, checked out the location of the dungeon on my map, and set off for my destination. I hoped that this second mission would go better than the first one.
+
+…
+
+There wasn’t much to be said about the dungeon exploration. It went smoothly with the dungeon being a big forest containing a bunch of Oddish, Tangelas, and Bulbassaurs. The Oddish and Tangelas were easy to hit and were dispatched with a single Shadow Sneak each, while the Bulbassaurs provided more challenge by dodging my attacks and forcing me to lure them into tight areas in order to be able to hit them reliably.
+
+The real challenge in the dungeon was when I encountered a Noibat who stayed airborne for the entire fight, making it difficult for me to hit them with Shadow Sneak as it is an attack that comes out of the floor. They periodically swooped down to hit me with their wings or with strong gusts of wind, all while dodging my attacks with ease. 
+
+*(Damn, this isn’t working. Should I just use a Wonder Orb…?)*
+
+*(No, I should think of this as training and avoid relying on items unless it gets dangerous. I can still fight for a while.)*
+
+I tried firing another Shadow Sneak, but the Noibat dodged it and took the opening to hit me with a Wing Attack. After that I started focusing on dodging while thinking about what else I could try.
+
+*(Hmm… Let’s try that “ancient human battle technique”.)*
+
+I waited for the Noibat to create a gust that lifted dirt into the air, blocking his vision of me. I took the opportunity to pick up a rock and hold it behind me with one hand to hide it. I waited for my opponent to swoop down at me for a Wing Attack and then…
+
+*WHACK*
+
+I slammed the rock onto them, missing the head but managing to hit the side of the torso. It wasn’t enough to defeat my opponent, but it did cause them to crash on the ground and be an easy target. I ended the fight with a Shadow Sneak while they were still down.
+
+*(Well, that was neat! Although I don’t think it’s something I should rely on.)*
+
+With the battle finished I took a moment to eat an Oran Berry and heal my wounds. That was when I noticed the Noibat had left something on the floor after their body dissipated. It was an item I was familiar with from playing the games and studying at the library, but it was my first time seeing it in person.
+
+-> ![Wand GET](https://i.imgur.com/zqscBMh.png) <-
+
+*(A wand! Lucky! Based on its appearance this is a Switcher Wand. I can’t see myself using the effect much, but it is still a nice find. Now let’s try that thing that was written on the book…)*
+
+I held the wand firmly and focused on the sensations in my hand in order to determine how much energy it had. The explanation in the library book was convoluted and confusing as hell, but it made sense to me when I held the wand. If I were to explain the sensation, I would say that is similar to when you pick up a non-transparent bottle. You can’t see the bottle’s interior, but based on factors like the weight and the movements inside the bottle you can have a rough estimate of how much liquid there is inside.
+
+*(Hmm… I don’t know how many shots this one can fire, but I can tell that it has very little energy in it. I would be surprised if it can fire more than 3 shots. Oh well, that’s disappointing, but I guess I can at least use this as a decoration for my very empty room.)*
+
+I put the wand inside my bag and resumed the exploration. Throughout the dungeon I found the requested stones, which were just brown oval stones with a smooth surface and no edges. Once I had collected the requested amount I considered continuing through the dungeon until I reached the end, but I already had what I needed and concluded that there was no merit in going further in and risk getting knocked out and losing the stones, so I used an Escape Orb.
+
+…
+
+With the stones delivered and the reward money in my purse, I went back to the guild and dropped my stuff in my room. Taking the Switcher Wand out of the bag and leaning it against the wall on the side of a big chest.
+
+*(Maybe I can look for some nails and rope later and hang the wand on the wall.)* 
+
+I left my room and thought about what I would do next. The dungeon was close to Capim and I didn’t fully explore it, so I finished the mission early and it wasn’t dinner time yet.
+
+I decided to go to the dojo for a short training session. The only person there was the Combusken who helped me the last time. He was sitting with his eye closed, seemingly focusing on something, so I opted to not bother him with a greeting and started thinking about how I would train.
+
+*(Let’s try to work on Will-o-Wisp today. Maybe I’ll have better luck with it.)*
+
+I imagined my right hand as the tip of a match and swiped it against my left arm, making a small purple flame appear on the tip of my hand. I stared at the puny flame while thinking about how I could improve it.
+
+*(Hmm… I guess the first step would be trying to make it bigger. How does one make a fire bigger…?)*
+
+*(By adding more fuel?)*
+
+I imagined some gasoline being sprayed on my match-hand. The flame got bigger for a second and then returned to its original size.
+
+*(Maybe if I add a lot of “fuel” at once?)*
+
+I imagined a cup of gasoline on my left hand and poured the imaginary liquid on top of the flame.
+
+That was a mistake.
+
+What happens when you pour a whole cup of liquid on your hand at once? It splashes and covers your hand and then, depending on the angle your arm is at, the liquid slides to it. That’s common sense and I knew that, so when I imagined myself pouring gasoline on my hand, I also unintentionally imagined it sliding to my arm. The result of that was my entire arm being engulfed by the purple flame.
+
+I took me a whole second for me to register what had just happened and how much I had screwed up. I dashed towards the box of Rainy Orbs while flailing my arms around. I was about to scream something like **“I’M ON FIREEEEEEEEE!!!”**, but I noticed that the fire wasn’t actually hurting me and I calmed down. The flame went out on its own a second after that.
+
+*(Thank God I noticed this before going around screaming like a madman. I guess that it not hurting me makes sense when you consider how moves like Fire Punch and Thunder Punch don’t hurt the user’s hand and-)*
+
+I noticed that the Combusken was staring at me with a worried expression, having probably seen my shameful display. My body was okay, but my mind got damaged by the embarrassment.
+
+“I-I’m okay!” I said. 
+
+Having recomposed myself, I resumed my training. *(Maybe the problem is that I’m imagining my hand as a match. Matches only produce small flames after all. Let’s see, what object produces a bigger flame…?)*
+
+While thinking, I had a look around the room in case anything there helped me come up with any ideas, which happened when I looked at a lantern on the wall.
+
+*(A lantern? Nah, the fire isn’t that much bigger than the one from a match. But maybe a torch?)*
+
+I lit up a flame on my left hand, then with my right hand I formed the closest thing I could to a closed fist and imagined my right arm as a torch. With that visualization in mind, I gently moved my left hand’s flame until it touched the tip of the imaginary arm-torch.
+
+It worked… somewhat. A bigger flame appeared on my imaginary arm-torch, but it was unstable, constantly flickering and looking like it could go out at any moment.
+
+*(Damn, it’s still progress, but I thought this would work for sure. Could the problem be that imagining this floppy Duskull arm as a torch is awkward? The match visualization is somewhat awkward too, but it is simpler and there’s the swiping motion to help.)*
+
+Disappointed, I put out the fire. *(I thought Will-o-Wisp would be easier to improve, but so far it is not going well, and I even managed to set myself on fire by accident. Could it be that it’s because Will-o-Wisp is a Fire-type move rather than a Ghost-type, so there’s an extra layer of difficulty to perform it? Ugh, I might have to ask someone for tips on this.)* 
+
+*(Let’s see, have I met any Fire-types in the guild…?)*
+
+After a couple of seconds of thinking, I realized something and did a mental facepalm. *(Holy crap, I’m a dumbass! Why am I thinking about that when there’s a fire chicken in the same room as me?!)*
+
+I approached the Combusken while having a good look at the potential teacher. No matter how I looked at him he exuded an air of “badass veteran warrior”, which was further emphasized by the eyepatch and ragged scarf he was wearing. It made me think, *(Oh wow, this guy must have decades of experience.)*
+
+He noticed my approach and turned to face me, so I greeted him. “Hi, do you have a moment?”
+
+“Sure. Do you need something?”
+
+“Uh… Thanks for the help yesterday. I was too zoned out to properly thank you back then.”
+
+“It was no problem. Just remember to take it easy since you still don’t know the limits of your new body.”
+
+*(Huh, how does he know I’m a human? Lucky guess? Just assuming?)* “Haha, yeah. This is only my fifth day as a Pokémon, so I’m still learning. My name is Elm, nice to meet you.”
+
+"Nice to meet you too, Elm. I'm KFC."
+
+My cheeks puffed from the laugh I barely managed to hold in my mouth. *(Interesting nickname! This guy is a former human for sure.)*
+
+“So, KFC. As you might have seen from my *display* earlier, I’m trying to use Will-o-Wisp but it’s not going well. It is a Fire move, so I’m wondering if you have any tips on what you do or think about when you use Fire moves.”
+
+For a second his face changed into a conflicted expression, with his eye narrowing and darting to the side. Was it sadness? Anger? I couldn’t tell. After an awkward pause he replied, “I’m sorry, but I am incapable of using Fire moves, so I won’t be able to give you any specific advice.”
+
+“O-Oh… Sorry, I had no idea.” *(I’m only a few seconds into the conversation and I already managed to make it awkward. Good fucking job, Elm!)*
+
+“It’s fine. I might not be able to help you with Fire moves specifically, but you can seek me if you need help with anything related to Aura.”
+
+“Aura? That Lucario thing?”
+
+Immediately after I said “Lucario” there was a subtle twitch in KFC’s hands, which was followed by him looking downwards and closing his eye. He remained like that for a couple of seconds, leaving me confused.
+
+*(Oh crap, was it something I said? Did I screw up yet again?!)*
+
+I was about to ask KFC what was wrong, but he suddenly said, “Sorry, I was reminiscing about my late master.” KFC put his right hand over his scarf before continuing. “He was a Lucario, and the person who originally taught me about aura... About a lot of things actually...”
+
+Before I could apologize for bringing up the touchy subject, he resumed his explanation. Not wanting to make things even more awkward, I went along with it.
+
+“Lucarios are prominent users of Aura, but it is far from being exclusive to them. To put it simply, Aura is a form of spiritual energy that is the essence of every living thing. We all have Aura, but it takes intense training to manipulate that energy.”
+
+“Every living thing… Does that include Ghost-types?” *(I **am** alive, r-right?)*
+
+“Yes, Ghost-types are still living beings and emit aura.”
+
+*(Oh, good to know. I gotta say, this guy seems passionate about Aura.)*
+
+“Interesting, so Aura is kinda like Chi?”
+
+He seemed intrigued by my question. “Chi? What’s that?”
+
+“You know, that Chinese martial arts energy stuff.”
+
+His face contorted into an even more puzzled look. “Chinese?”
+
+With that reply I was the one who got confused. “Wait… Are you not a former human?”
+
+“No, I was born a Torchic.”
+
+“Oh… Sorry, I assumed wrong!” *(Jesus effing Christ, that was the third strike! Just how much more am I going to screw up in this conversation?!)*
+
+“It’s fine. In any case, are you interested in hearing more about Aura?”
+
+*(Hmm… I am somewhat interested, and maybe learning a bit about it will help me in the future. Plus, I get the feeling he likes talking about that.)*
+
+“Sure! What sort of thing can be done with Aura?”
+
+“The first step in Aura training is usually Aura sensing, which allows someone to sense aura in others and in the environment. The next step is to then learn Aura Expression, which allows someone to channel it into a projectile for offensive use.”
+
+*(I’m assuming Aura Expression includes something like Aura Sphere. Wait, “channel it into a projectile”… Isn’t that similar to what I’m trying to do with Will-o-Wisp?)*
+
+“Hey KFC, could you please do a demonstration of Aura Expression for me? I think seeing it might help me figure things out.”
+
+He nodded and changed his stance, placing his left arm on his right side with his palm facing up. Then, he put his right palm facing down over his left palm with about eight inches of space separating them. Suddenly a small blue orb started to form in the center of that space, it grew bigger and bigger until it filled the empty space completely.
+
+He quickly shifted his stance by moving left leg forward and his right leg back, and thrust both arms forward until they were outstretched in front of his chest with both palms two inches apart facing away from his body. The aura ball launched out of his palms, striking a nearby hay training dummy with so much power that the upper half of the poor thing was ripped out and torn to shreds.
+
+“Whoa… That was amazing!” *(I sure hope I never get hit by something like that.)*
+
+"This is the most basic form of Aura Expression. However, in your case you'll also need to convert that aura into fire energy."
+
+I thought about all the movements KFC did to perform the Aura Sphere and began planning how I could adapt them for my body and Will-o-Wisp. Aura Sphere and Will-o-Wisp are completely different moves, but anything was worth trying at that point. I swiped my left hand against my right arm to produce a small purple flame, then mimicked the pose KFC did with my arms positioned on the right side of my body and the flame hovering above my left hand and below my right hand.
+
+“Uh… What should I think about while trying to channel Aura?” 
+
+“Try to relax your mind and focus your energy. Imagine the energy in your core, then force it outward using your muscles, and finally imagine that energy building heat in your hands.”
+
+I closed my eyes and tried to relax, *trying* to think about this vague source of energy inside me. I imagined a heart, pumping energy through my veins and blood.
+
+ *(Hold on, do Ghost-types have veins and blood…? Ugh, forget about that for now and just focus!)*
+
+I imagined this heart pumping energy through my *metaphorical* veins and pushing it all the way to my hands, and that was when I applied the adaptations I came up with. Instead of focusing this energy into a ball, I imagined it as fuel feeding the flame between my hands. I still had my eyes closed and couldn’t see what was happening with the flame, so I just imagined it growing bigger and hotter. I kept focusing on that mental image for about five seconds, then I opened my eyes and did the same movement as KFC by thrusting my arms forward and imagining my hands pushing the flame outward.
+
+*Poof*
+
+A pathetic plume of purple fire shot out of my hands, about as big and powerful as a fart on a lighter and lasting only a fraction of a second before disappearing.
+
+I sighed. (Ugh, yet another failure…)*
+
+Sensing my frustration, KFC said, “Not bad for a first attempt. If it's any consolation, you control fire better than I can. Try it again.”
+
+*(Right… I can’t expect to do it perfectly on a first attempt.)* I complied, lighting up my hand again and repeating the position. For the next attempt I decided to try focusing the energy for a longer amount of time, and so I stood there while thinking about the metaphorical heart and veins channeling energy… until I was distracted by a stray thought.
+
+*(Hold on… Isn’t this position the same one used for a H\*douken? Oh man, I have some fond memories of playing that game as a kid and- Ugh, I’m getting distracted!)*
+
+*(Although… I did think of something similar when I learned how to use Shadow Sneak. Oh what the hell, it’s worth a shot!)*  
+
+I regained my focus and repeated the process of imagining my internal energy being channeled into my hands and fed to the fire. Once I judged I had done that enough I opened my eyes and once again thrust my arms forward to push the energy outward, but for this attempt I mentally shouted, *(H\*DOUKEN!)*
+
+*Fwoosh*
+
+A plume of purple fire shot out of my hands, still small but bigger than the one from the previous attempt. Its size and reach reminded me of a flame produced by lighting up a jet of hairspray.
+
+*(I can’t believe that improved it! It’s still far from being viable as an attack, but it’s progress.)*
+
+“Looks like you tried something different. That attempt showed great improvement,” commented KFC.
+
+“Oh, yeah. I just focused more this time haha.” *(No way I’m telling him what I did different.)*
+
+I kept trying for a couple more times, with KFC sometimes intervening to correct my posture, but I was unable to improve it further and soon enough I got a familiar feeling of being lightheaded.
+
+*(Already? I haven’t been training for that lo- Ah, right, I already used plenty of moves in that dungeon today. Guess this is the end of today’s training.)*
+
+“Hey KFC, I’ve hit my limit on move usage for today, so I’m calling it a day.”
+
+He nodded. “I see that you’ve learned the current limits of your body. From my point of view, you had good progress for today, so don’t feel discouraged.”
+
+*(That’s true. I shouldn’t expect much from a short training session…)*
+
+“Thanks KFC, you really helped me out today! I hope I didn’t take too much of your time.”
+
+“It was no trouble, after all, I believe it is important to help others try to better themselves. In fact, you are not the first guild member I’ve helped in training.”
+
+I was about to leave the dojo, but then KFC said, “Hey Elm, next time we meet can you tell me more about this ‘chi’ you mentioned earlier?”
+
+I couldn’t help but chuckle at his request. “Sure! I’m no expert on it, but I’ll be sure to tell you everything I know next time.”
+
+…
+
+After leaving the dojo, I was greeted by the familiar sight of several guild members entering the mess hall, letting me know that dinner was already being served. I was feeling very hungry due to the exertion from the mission and the training session, so I opted to face the peak dinner hours rather than waiting.
+
+That night’s dinner was salad and some kind of pie filled with minced savory berries. While eating it, I overheard some people on another table refer to the food as “goyslop”. Sure, the food here wasn’t super amazing (aside from the pancakes), but it was tasty enough. Their expectations were too high for free meals in a guild that doesn’t tax you to hell! 
+
+Having finished my meal, I went to the bathroom for a quick shower. After that I was about to go up the stairs to the second floor, but I was stopped by a voice coming from behind me.
+
+“Oh baby, looks like we have a fresh soul in the guild!”
+
+I turned around and saw that the voice belonged to a Cyndaquil. Confused, I asked him, “Uh… Are you talking about me?” 
+
+He smirked and replied, “Sure am. You’re the only cute ghost here!”
+
+“Are you flirting with me? You know I am a guy, right?”
+
+“Gender doesn’t matter. There are no barriers in love! Even love between the living and the dead is possible!”
+
+“…”
+
+The Cyndaquil was seriously creeping me out, making me grimace. On the other hand, I also felt somewhat flattered since it was the first time someone had complimented my appearance in this new body. I also couldn’t remember the last time my appearance was complimented when I was a human.
+
+Seeing my lack of answers, the Cyndaquil continued. “By the way, there’s something I’ve been wondering, and the last guy I asked this question didn’t give me an answer: How do ghosts reproduce? Like, do you have a Duskussy?”
+
+Aaaaand just like that, all traces of my feelings of flattery were obliterated and replaced by a mountain of disgust. I couldn’t see my own facial expression at that moment, but I’m pretty sure that it would have scored at least top 3 in my “best faces of disgust” list.
+
+*(Oh well, I’ve been meaning to test something, and this guy is a perfect test subject for that.)*
+
+While feigning interest, I tried to go with a “sensual” tone and said, “Oh my, you sure are forward about it. I like bold people~.”
+
+The Cyndaquil seemed surprised by my (fake) positive reply. “O-Oh, that’s r-right. I am a very bold and *spirited* man!”
+
+“How cool! But you see, before we go any further, there’s a little secret I need to share with you~.”
+
+“Oooh, I l-love secrets. Especially the k-kinky ones.”
+
+I slowly approached the Cyndaquil while placing my open left hand on the left of my mouth to make a whispering pose. I got close to him while gazing into his eyes, until I was only about four inches away from his face. He was trembling and his eyes were darting from side to side while avoiding my gaze, I could also sense a faint smell of spaghetti in the air.
+
+With my preparations complete, I whispered, “I looooove donuts~.”
+
+A single “W-What?” was all the oblivious Cyndaquil managed to say before I thrust my right arm right into his chest.
+
+-> ![Cyndaquil gets donuted](https://i.imgur.com/F62Ivi0.png) <-
+
+My arm went through his body and came out of his back. He gasped in surprise before I pulled my arm back, causing him to collapse on the floor.
+
+He laid there while twitching, and said, “T-That was awesome! I got chills all over my body. This is way better than rubbing ice cubes!”
+
+I ignored his atrocious comment and checked my hand. *(It’s just how I expected. I can phase through other types of Pokémon besides Normal-types, and seems like when I phase through someone, they feel chills and don’t get hurt. Good to know!)*
+
+I glanced at the Cyndaquil and said, “Never try to flirt with me again.”
+
+I resumed my walk towards my room, hearing him say “Worth it” before I went up the stairs.
+
+…
+
+Back in my room, I let out a yawn.
+
+*(Looks like the dungeon trip and the training session got me tired. Guess I’m going to bed early tonight.)*
+
+While lying on me bed waiting for sleep to come, I thought about the events of the day.
+
+*(The dungeon mission went better than I expected. I didn’t have much progress on improving my moves today, but KFC’s help was nice and maybe what he taught me will be useful later. I also got to meet several guildmates and they all seemed to be nice and fun people. Well, maybe not so much that Cyndaquil, but I guess at least he should be fun to watch.)*
+
+*(Oh, I completely forgot about that Absol’s weird prediction. What was it again…? Something about a corrupting devil who I had to deceive and strike at the heart?)*
+
+“…”
+
+“You’ve got to be kidding me. The prediction was about that weirdo Cyndaquil?!”
+
+And so, that eventful day filled with meetings came to an end. Hopefully with many other similar days to come.
+
+
+
 
 ##-> Day 6 <-
 

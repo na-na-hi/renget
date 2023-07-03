@@ -853,10 +853,24 @@ Pros:
 - S2 P.Atk & M.Def buff applied on 1st action is very quick (Faster than NY.Homare/Natsune 1st action damage applies)
 - Deals decent damage when fighting against a magic enemy in party
 - Buffs self on UB and S1
+- S2 buff applies faster than Inori & Mifuyu Pos 1 stun
+- S2 buff applies faster than S.Misogi's stun if S.Misogi is Pos 2
 
 Cons:
-- Can get stunned out of her 1st action
-- UB & S1 buffs only applies to self (Need to confirm which units stun her, will replace once I get her Growsphere.)
+- Can get stunned out of her 1st action by S.Misogi 1st pos (Or Pos 2 with NY.Muimi/Rima)
+- UB & S1 buffs only applies to self
 - Massive potential loss against physical enemies
 - No CC
 - No other form of team utility (TP Boost, TP Restore, HP regen, HP Restore, Barriers, etc...)
+
+
+### ->Swimsuit Neneka<-
+TBD
+
+-> ![S.Neneka]() <-
+
+Pros:
+- Coming soon
+
+Cons:
+- Coming soon
