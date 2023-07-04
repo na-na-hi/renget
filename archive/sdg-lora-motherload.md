@@ -1,4 +1,4 @@
-#The Motherload - LoRA Edition (NSFW, WIP)
+#The Motherload - LoRA Edition (NSFW)
 
 A curated list of LoRAs from civitai, huggingface, 4chan, 2ch.hk/ai/ and so on, and a back up in the event they get deleted. 
 
@@ -11,9 +11,10 @@ I  take model/LoRA backup requests too. So if you need something saved, tell  me
 https://huggingface.co/HugeOcean/MotherloadMirror/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror2/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror3/tree/main
+https://huggingface.co/HugeOcean/MotherloadMirror4/tree/main
 
 Until repo search is implemented, you can find model names, file names, descriptions and other info about each model here with ctrl + f (I scraped civitai on 6/25/2023, so the info is relevant up to then):
-https://anonfiles.com/mfs8G5y1z1/civitai_models_jsonl
+https://huggingface.co/HugeOcean/ModelInfo/blob/main/civitai_models_6_25_2023.jsonl
 
 Filenames in the repo are identical to filenames in the jsonl file, so you could just append the filename to the directory name like so to find a specific model:
 
@@ -23,14 +24,14 @@ etc
 
 The files in these directories aren't sorted in any logical order, models, LoRA's, wildcards, embeds, etc are all bunched up in one pile. 
 
-**And here you can find a backup of  images uploaded by model uploaders on civitai (300k+ images in total:**
+**And here you can find a backup of images uploaded by model uploaders to civitai (300k+ images in total):**
 https://mega.nz/folder/dK1DDDYT#Pvn8W_vApL87_w8we3oqNg
 https://mega.nz/folder/kPcV3ATT#I9fjLQlHhheiRZCSQqUasA
 
 Zip file with all images can be downloaded here in case mega deletes it:
 https://huggingface.co/HugeOcean/ImageMirror/blob/main/Image_Motherload.zip
 
-Most of these should contain metadata.
+The filenames are identical to the ones in the jsonl file and most should contain metadata.
 
 #LoRA's
 **Table of contents**

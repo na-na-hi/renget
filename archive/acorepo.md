@@ -11,7 +11,6 @@ https://files.catbox.moe/y1c7tb.safetensors
 - The Owl House
 	- Luz Noceda 
 https://files.catbox.moe/jf93v6.safetensors
-https://civitai.com/models/94728/luz-noceda	
 	+ Edalyn Clawthorne
 https://files.catbox.moe/53pxyk.safetensors
 	- [*style*](#Styles)
@@ -33,15 +32,6 @@ https://mega.nz/folder/A25XhSzZ#AFk_fQakAiVMfESY_OobvA
 https://files.catbox.moe/swnfr8.safetensors
 - Alex, Gwyn, Krapella, Mariner
 https://mega.nz/folder/vxkRQbJJ#hLCWjupwYoaPxeWDpShq2A 
-- XJ9
-~~https://dropmefiles.com/1yg7F~~
-	+ `JennySuit`
-https://drive.google.com/file/d/1tYDgIa5dUyqvAR0mbeIL8qMCU-kBd1Ew/view?usp=share_link
-- Tiff and Britt Crust
-https://drive.google.com/file/d/1OopSsOQJWZ0QIeaHZlg4rneQADLAHyj2/view?usp=sharing
-https://civitai.com/models/95328/britt-crust-laatr
-- Luan Loud (`LuanLoudV2`)
-https://drive.google.com/file/d/1Kd_VD66jXMnWzTN7MvZHhmKixz3Qnosu/view?usp=share_link
 - Maria, Emilia, Kim
 https://mega.nz/folder/BmpxBYpL#1TVy5v8BJOABm9qkiO0Y3Q
 - Crysta
@@ -132,6 +122,8 @@ https://civitai.com/models/98925/cheetara-thundercats-80s-version
 https://civitai.com/models/93496/mandora-thundercats-80s-version
 	- Steelheart
 https://civitai.com/models/83512/steelheart-silverhawks-lycoris
+	- Willa
+https://civitai.com/models/100911/willa-thundercats-80s-version
 	- WilyKit 
 https://civitai.com/models/97486/wilikit-thundercats
 - Dungeons and Dragons
@@ -243,13 +235,19 @@ https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
 https://civitai.com/models/94318/tootie-fop
 	- Britney Britney
 https://civitai.com/models/86432/britney-britney-the-fairly-oddparents-character-lora
+- Olga Pataki (Hey Arnold!)
+https://civitai.com/models/101240/olga-pataki
 - The Loud House
+	- Lana
+https://civitai.com/models/64594/lana-loud-the-loud-house
+	+ Leni 
+https://civitai.com/models/101312/leni-loud-the-loud-house
+	- Luan
+https://civitai.com/models/101225/luan-loud
 	- Lucy
 https://civitai.com/models/60648/lucy-loud-loud-house
 	- Lynn
 https://civitai.com/models/60760/lynn-loud-loud-house
-	- Lana
-https://civitai.com/models/64594/lana-loud-the-loud-house
 	- Ronnie
 https://civitai.com/models/51832/ronnie-anne-the-loud-house
 - Frida Suarez (El Tigre: The Adventures of Manny Rivera)
@@ -419,8 +417,19 @@ https://civitai.com/models/48542?modelVersionId=53138
 	- Amity Blight
 https://civitai.com/models/97921/amity-blight-the-owl-house-season-1-redux
 https://civitai.com/models/97303/amity-blight-the-owl-house-season-2
+	- Luz Noceda
+https://civitai.com/models/94728/luz-noceda	
 - Lord Dominator (Wander Over Yonder)
 https://civitai.com/models/5791?modelVersionId=6747
+- My Life as a Teenage Robot
+	+ XJ9
+https://civitai.com/models/101216/jenny-wakeman-xj9
+		- Human
+https://civitai.com/models/101219/jenny-wakemanhuman-skin
+	- Britt Crust
+https://civitai.com/models/95328/britt-crust-laatr
+	- Tiff Crust
+https://civitai.com/models/101208/tiff-crust
 - Miko Kubota (Glitch Techs)
 https://civitai.com/models/19524/miko-kubota-from-glitch-techs
 https://civitai.com/models/25824/miko-kubota-glitch-techs
@@ -504,13 +513,15 @@ https://civitai.com/models/28309/aayla-secura-or-star-wars
 https://civitai.com/models/12848/d-vana-tendi-star-trek-lower-decks
 - Noodle (Gorillaz)
 https://civitai.com/models/48973/noodle-from-gorillaz-lora
+- Zone-tan (Zone Toons)
+https://civitai.com/models/95782/zone-tan-character-lora
 - Scott Pilgrim
 	+ Kim
 https://civitai.com/models/84594/kim-pine-scott-pilgrim-vs-the-world
 	- Ramona
 https://civitai.com/models/85289/ramona-flowers-scott-pilgrim-vs-the-world
-- Zone-tan (Zone Toons)
-https://civitai.com/models/95782/zone-tan-character-lora
+- Creepy Susie 
+https://civitai.com/models/101228/creepy-susie
 - Ava (Ava's Demon)
 https://civitai.com/models/18345/totally-not-about-ava-and-nothing-of-any-demons-and-such
 - Helltaker (Gloomhaven)
@@ -649,7 +660,6 @@ https://civitai.com/models/92614/queen-barb-trolls
 https://civitai.com/models/85214/dinocore-kaya
 
 
-
 ## Game characters
 
 - Solar Flare (Plants vs. Zombies) fan art
@@ -732,6 +742,8 @@ https://rentry.org/acorepo2#warcraft-world-of-warcraft
 https://civitai.com/models/97151/sorceress-or-diablo-2
 	- Lilith
 https://civitai.com/models/99714/diablo-iv-lilith-nsfw
+- Shelob (Lord of the Rings/Shadow of War)
+https://civitai.com/models/100194/shelob-shadow-of-war
 - Fortnite
 https://rentry.org/acorepo2#fortnite
 - Apex Legends

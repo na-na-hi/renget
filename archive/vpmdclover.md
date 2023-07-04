@@ -13,7 +13,7 @@ Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assi
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
 Augustus 'Gus' | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina) *Pending*
-KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc)
+KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc-the-combusken)
 Kaiji  | M | Meowth, Alolan | Absol (Kris, M) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaiji)
 N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdcloverpb#skiddo) *Pending*
 Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdcloverpb#beast)

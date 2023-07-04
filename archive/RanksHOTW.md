@@ -15,7 +15,7 @@
 |5|Sage|358|
 |6|Ultra Magnus|321|
 |6|Lin|321|
-|8|Sir Philippe|271|
+|8|Sir Philippe|278|
 |9|Thomas Hammerer|270|
 |10|Phi|258|
 |11|Sasha|248|
@@ -70,7 +70,7 @@
 |4|Hannah|404|
 |5|Ultra Magnus|321|
 |5|Lin|321|
-|7|Sir Philippe|271|
+|7|Sir Philippe|278|
 |8|Thomas Hammerer|270|
 |9|Phi|258|
 |10|Sasha|248|
@@ -139,11 +139,11 @@
 |17|Bliss|50|
 |18|Dimir|48|
 |19|Sprite|47|
-|20|Maya Liang|45|
-|21|Ant King|43|
-|21|Becka|43|
-|23|Hannah|40|
-|24|Sir Philippe|39|
+|19|Sir Philippe|47|
+|21|Maya Liang|45|
+|22|Ant King|43|
+|22|Becka|43|
+|24|Hannah|40|
 |25|Isha|38|
 |26|Tuma|33|
 |26|Bob Kilpatrik|33|
@@ -177,24 +177,24 @@
 |---|---|---|---|---|
 |0|Big Iron|3.00|0|9|
 |1|Samson|5.00|3|9|
-|2|Sasha|7.33|1|11|
 |2|Lin|7.33|5|11|
+|2|Sasha|7.33|1|11|
 |4|Phi|8.00|5|10|
-|5|Becka|8.33|2|21|
-|6|Victor|8.67|2|12|
+|5|Becka|8.67|2|22|
+|5|Victor|8.67|2|12|
 |7|Nikto|10.33|4|14|
-|7|Hannah|10.33|4|23|
-|9|Sir Philippe|13.00|7|24|
-|10|Ultra Magnus|13.67|5|30|
+|8|Hannah|10.67|4|24|
+|9|Sir Philippe|11.33|7|19|
 |10|Karnak|13.67|3|21|
+|10|Ultra Magnus|13.67|5|30|
 |12|Chloe|16.33|1|47|
 |13|Thomas Hammerer|18.67|8|39|
 |14|Isha|19.00|15|25|
 |15|Calliope|20.67|13|33|
-|16|Sage|21.00|5|47|
 |16|Ramses|21.00|6|32|
-|18|Maya Liang|22.33|20|27|
-|19|Quinn|22.67|7|34|
+|16|Sage|21.00|5|47|
+|18|Maya Liang|22.67|20|27|
+|18|Quinn|22.67|7|34|
 |20|Kitty |23.67|12|33|
 |20|Nick|23.67|8|35|
 |22|Bob|24.33|20|29|
@@ -206,8 +206,8 @@
 |28|Heli|27.67|22|32|
 |29|David|28.33|25|32|
 |30|Bliss|29.00|17|39|
-|31|Ant King|29.33|21|37|
-|32|Georgia|29.67|19|47|
+|31|Ant King|29.67|22|37|
+|31|Georgia|29.67|19|47|
 |33|Sprite|30.33|19|40|
 |34|Jonathan Stampe|31.00|22|37|
 |35|Tuma|33.33|26|38|

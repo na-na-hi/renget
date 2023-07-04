@@ -40,6 +40,7 @@
 1. Ross gets a job
 1. Sneasel raging 
 1. Anonmon being grateful that the booru is back up 
+1. Kiyo and Kris in maid outfits
 1. Anonmon getting pissed that the booru is down
 1. Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
 1. Tired Lliam doing paperwork
@@ -50,6 +51,7 @@
 1. Kiyo stretching like a fox
 1. Pirate KFC for no reason in particular :)))))))
 1. Debby pecking/grooming at Linoone's cheek
+1. Cyndaquil using x-day specs to look at Kiyo's ass through his tails
 1. Kaiji as this https://files.catbox.moe/u4wzp8.jpg
 1. Chespin performing an Electric Wind God Fist from Tekken
 1. Native Pokemon unknowingly following their instincts.

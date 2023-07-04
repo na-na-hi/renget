@@ -1,5 +1,5 @@
 Untitled Green That Got Out of Hand | By Anonymer_Beobachter
-version 0.0.2.8
+version 0.0.3
 (Working Title)
 
 !!! info This is a work in progress. Text in curly braces is placeholder.
@@ -63,7 +63,42 @@ version 0.0.2.8
 >Like the kind that you were testing before you wound up here.
 >It looked like a craft for hauling a few passengers, or a little bit of cargo. Interestingly, it also seemed to be equipped for planetary landings without a spaceport.
 {Add additional description}
->After spending a brief moment considering the alien ship, Łucja informed you that she was as close as she could get, so you made preparations to abandon your ship. 
->You informed her that you would be leaving your ship here, and requested permission to transfer to hers. 
+>After spending a brief moment considering the alien ship, {Łucja} informed you that she was as close as she could get, so you made preparations to abandon your ship. 
+>You informed her that you would be leaving your ship here, and requested permission to transfer to hers via a spacewalk. 
 >Which was enthusiastically granted.
 >You set the ship's fabricator to make an earpiece  and speaker for translation as well as an AR eyepiece for translating alien text, and other essential information. Then you prepared the ship's computer for separation -you were taking it with you so thankfully it was portable, and then went to prepare your space suit and MMU.
+>After making sure that the space suit and manuvering unit were functional, you went and gathered up everything that you were taking with you and went to the airlock.
+>You always hated spacewalks. Putting on the bulky space suit, leaving the artificial gravity, having to keep a tight grip on things to avoid them drifting away.
+>Thankfully this would be brief.
+>Switching to your space suit's communicator, you inform {Łucja} that you are about to exit your ship, and request guidance to enter her ship. 
+{Write EVA scene}
+>It was a bit cramped in this alien ship. You could stand upright, but just so. If you were any taller your helmet would be scraping the ceiling.
+>Once everything was in the airlock you told {Łucja} to cycle the airlock.
+>To your surprise, the airlock pulls double duty as a decontamination room.
+>When the other door opens, {Łucja} is standing in the doorway.
+>She's wearing some kind of protective suit. Nothing as thick as your EVA suit, but enough to obscure her figure apart from a few details.
+>You notice that her helmet is not round, but instead has a forward pointing almost conical section.
+>Much more noticable is her tail sticking out behind her.
+>Then the gravity of the situation really hits you.
+>When you were talking on the radio, nothing felt real, but now that the two of you are looking at each other, the realization that you've made first contact hits you like a ton of bricks.
+>After about a minute of stunned silence -she must have been experiencing something similar- {Łucja} begins to speak.
+>"W-wow you r-really are an alien," your earpeice translates. 
+>"I was about to say the same," you reply.
+----
+
+!!! info The dialogue in this section might get rewritten later. Please give feedback.
+
+>{Łucja} asks you to take off your space suit so that she can run a scan for potential pathogens.
+>She must be rather clever, because you wouldn't have thought of that had the positions been reversed.
+>After exiting your space suit, {Łucja} comes up to you with some sort of device in her hand.
+>You expected a bunch of questions from her, but
+>She presses a button on the device and waves it over your body.
+>After a brief wait, the device beeps and {Łucja} sighs in relief.
+>"Thankfully you aren't carrying anything. I would have hated keeping this thing on." says {Łucja}.
+>With that, she starts taking off her quarantine suit.
+>You reflexively look away, trying to be respectful.
+>When you finally look back and finally get a good look at the first intelligent alien to ever be encountered by humans, you are a bit shocked.
+>For an alien, she looks rather similar to an Earth species. 
+>Specifically, like some kind of humanoid European Polecat.{You had seen a documentary on those some years ago.}
+>Although normally they had a dark coloring, not a reddish one.
+>Maybe she was erythristic?

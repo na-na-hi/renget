@@ -10,14 +10,12 @@
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
 !!! note ➜ Bookmark this URL
-    - The [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/) and [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy) is where our major vessels of online pirates congregate.
-    - It is critical to save this URL since it will serve as a steady compass for where our ships are currently stationed.
+	- The version on Megathread is a replica of the one on our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
     - ✅ **This Megathread is updated often. There are no quality control checks on any copies that are mirroring this one.**
 
 !!! danger ➜ Uncertainty 
     - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use extra caution anytime you sail in uncharted waters. 
-    - That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution and if you notice problems with any of the sites in our Megathread, please contact the moderators on [r/Piracy Subreddit](https://www.reddit.com/message/compose?to=/r/Piracy) or [c/Piracy Lemmy](https://lemmy.dbzer0.com/c/piracy).
-
+    - That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution.
 &nbsp;
 
 ---

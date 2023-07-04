@@ -187,6 +187,8 @@ Recommended Meal: I don't really have a whole lot to offer bots. Would it be laz
 >Calliope, Rocker of the Ruins
 Kind of a freaky bitch if I'm being honest with ya. Sure she can be nice, and plays some good tunes, but the obsession with gore and killing is pretty much the biggest red flag I can think of. Yeah, I can "rock out" sometimes if the mood is right, but there's a line, you know? I like her style, though. Clothing-wise. I don't want to wear it, but I like looking at it.
 
+I swear to God if that girl comes in with another story about how she hooked up with another raider again, she's shoot on sight. I'm running a family restaurant! I don't need that kind of shit in here! Save it for your raider buddies! ...Dammit, now I'm gonna be thinking about that shit all night.
+
 Dateable?: No. I don't think she's looking for anything serious and the whole love of killing thing is a big turn off. Shame because she's got a cute face.
 
 Recommended Meal: Boneless chicken breast sliced and sautéed in a special sauce with mushrooms, onions and tomatoes. A side of brown rice.
@@ -195,6 +197,8 @@ Recommended Meal: Boneless chicken breast sliced and sautéed in a special sauce
 
 >Isha, Princess of the Verzon Tribe
 Now this is someone very much out of their element. They look and act like they were pulled out of a fairy tale book. Can't imagine what kind of place she was living in until now that she don't even know what a radio is. Wish I could help her out with her problem, but best I can do is point her towards one of the doctors and hope they got what she needs. If it comes to the point where she needs to go to Hope... I'll lend her a hand with dealing with that bot. It may be cute to see her be so curious about tech, but if she tries to lay a hand on any of my stuff like she has been with some of those towers, then I'm sending her on her way. I need to hear Rumors of the Wastes, dammit!
+
+Man, why am I such a sucker for sad tales? Now I'm babysitting an overgrown child and going through the worst parts of the jungle. At least we're making good time, but I never want to see a Blackheart again. That pipe bomb damn near shredded through my cargo.
 
 Dateable?: No. She's made it real clear what her whole thing is about. She's definitely into men and more than one at once. Not judging, though. More girls for me.
 
@@ -333,6 +337,13 @@ If there was a competition on who's had the most sex in the wasteland, QB here w
 Dateable?: That outfit's just cheating... No, I can't. QB ain't looking for anything serious and I want a girl who'll settle down and stay with me through thick and thin. Not saying she's unreliable, but... she's ain't one to stick around when she gets bored.
 
 Recommended Meal: Honey baked ham with some grilled slices of pineapple and a bread roll.
+
+---
+
+>Sir Philippe Dubois of New Orleans
+I've heard New Orleans is doing real well as of late, partly in thanks to this fellow here. Now that's great and all, and I do wish we could get that kind of safety going on in these parts, but this ain't New Orleans. The wasteland over here? It chews up and spits out people who come here expecting to become a local legend just because they're a big fish in a small pond where they're from. This is the big leagues. Until I start seeing results? Well, I won't be surprised to see a rusted set of armor being picked apart for scraps on the side of the road.
+
+Recommended Meal: With a name like that, he's gotta have some French in his blood, right? Would be a good opportunity to test out some of them French meals in my old cookbooks to see if it stacks up. I'll go with beef bourguignon and a tuna niçoise salad.
 
 ---
 
