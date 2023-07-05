@@ -11,6 +11,39 @@ HoRB Gears: https://rentry.co/horbgear
 Bunny ELF: https://rentry.co/bunnyelf
 ER: https://rentry.co/er68
 
+
+###v3D
+
+TLDR: Fixed physical buff not affecting bleed dmg (susannah), some fix on buffs from one form lingering after you switch to another form, and the new boss transition phase enemy changed from typeless to mech type
+
+HORB
+- Adjusted overall skill description, and optimized some skill icons.
+- Passive subskill 2: Added trigger condition: When initial form is Support Form > When initial form is Support Form, **and HoRB is in Support form**
+- Passive subskill 3: Regarding 'Max HP +1200'. Previously, it increases with level. Now the value is constant on every skill upgrade.
+- Evasion subskill 3: Updated description. Support Form: When evasion skill is triggered, press ATK button to connect to Basic ATK 3. **Within 6s,** each time it hits, Seele gain 8 [S0] / 12 [S2] sp, can trigger max 3 times.
+- Fixed an issue where horb support form Basic ATK SEQ 3 might not deal damage
+- Fixed an issue where horb support form might not trigger evasion skill after evading
+- Fixed an issue where the skill [In DPS form: When Joint Combo ATK hits an enemy, Joint Weapon ATK gain Total DMG +20%[S0] / 30% [S2] for 15s.] buff does not disappear after switching to support form. 
+- Fixed an issue where [Birth of the Deep Sea] buff does not disappear after switching to support form.
+- Fixed an isuee where Withering Gap debuff applied from DPS form does not disappear after switching to support form.
+- Fixed an issue where HorB's 'Physical DMG buff and Physical DMG taken by the enemy' effect does not affect Bleed DMG in some cases.
+
+HORB STIGMA
+- Optimized text description of horb stigma
+
+EX ABYSS 
+Dominance weather Crusing Judgement:
+- Adjusted background music for Cruising Judgement stage
+- Adjusted stats of Cruising Judgement boss
+- Adjusted the core enemy during transition phase from Typeless to MECH
+
+ELYSIAN REALM
+- Lowered HP of enemies in Shallow Sequence for Horb
+- Adjusted description and a bunch of stats for HoRB signets
+
+
+---
+
 ###v3C
 
 - HoRB stigma Bottom: Added can be refreshed text.

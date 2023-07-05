@@ -2,6 +2,7 @@
 #old april guide @ rentry.co/dadaptguide
 #written by a nerd who likes to optimize
 !!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
+!!! danger Still figuring out some settings. It's been a couple of days but it's getting good.
 
 ##What is it?
 Prodigy is DAdaptation on steroids.
@@ -18,12 +19,11 @@ LoCon and LoRa if you're simple and want to waste space, at that point just try 
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
 ##DATASET, BATCH, GRADIENT, STEPS, EPOCHS, TIME?
-Below 28? 1 Batch Size, Gradient Accumulation Steps = Dataset, 1 rep and use epochs.
-Equal or above 28? Can use Batch Sizes and/or Gradient Accumulation Steps, 1 rep and use epochs.
+Below 28?  Gradient Checkpointing Off, 1 Batch Size, Gradient Accumulation Steps = Dataset Size, 1 rep and use epochs.
+Equal or above 28? Gradient Checkpointing Off or On depending on if you want more Batch Size or if you want to be able to use Gradient Accumulation at all, 1 rep and use epochs.
 Training time should be very fast compared to other methods.
 
 ##Base iA3 Prodigy .json:
-!!! danger train_batch_size may affect training negatively and since the whole idea of using iA3 is to go lightweight then it makes more sense to just use gradient_accumulation_steps.
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
 !!! note First change the train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.

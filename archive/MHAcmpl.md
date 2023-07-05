@@ -746,6 +746,9 @@ At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako): 
 Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp): https://controlc.com/a4a6767d / https://rentry.org/HxH-5
 The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow): https://rentry.org/bnu9t
 Faith Kang in: SummerFest Aside (Drone, Spark, Recoil, Radius, Arena): https://rentry.org/8rzuy
+The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi): https://rentry.org/akrst
+Misadventures at the Dojo Part 2: Wildfire (Yako, Maru(maru), Yamata, Last Rite, Drekus, and other minor appearances): https://rentry.org/DojoMisadventure2
+Fourth of July in Japan (Class 1-D, Rosethorn): https://rentry.org/wvogc
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

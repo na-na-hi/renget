@@ -35,11 +35,12 @@
 
 
 ####Miscellaneous
-1. [Future Patch Summaries](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
-2. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
-3. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
-4. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
-5. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)
-6. [PGR Emotes and Chibis](https://drive.google.com/drive/u/0/folders/1-JWQAJ4ue7gQNzOJ4hd0wqgjeY0-bOYO) (CN)
-7. [/pgr/ Commissions Archives](https://drive.google.com/drive/folders/1TyszThlQaXIE4UsEkS9SV15IKOQsCZDf) (NSFW)
-8. [Panini Gray Raven Animation](https://www.youtube.com/playlist?list=PL8PXX9CbWv9aW6X4hphB7Rll8e1goaswd)
+1. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
+2. [Punishing: Gray Raven Artbook Vol.1](https://mega.nz/file/AVUnzbJL#6-qvzB5dpiUsZ2oI9z6V4l_mUmrMrxRmxb3JI-q01tk)
+3. [Future Patch Summaries](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
+4. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
+5. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
+6. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)
+7. [PGR Emotes and Chibis](https://drive.google.com/drive/u/0/folders/1-JWQAJ4ue7gQNzOJ4hd0wqgjeY0-bOYO) (CN)
+8. [/pgr/ Commissions Archives](https://drive.google.com/drive/folders/1TyszThlQaXIE4UsEkS9SV15IKOQsCZDf) (NSFW)
+9. [Panini Gray Raven Animation](https://www.youtube.com/playlist?list=PL8PXX9CbWv9aW6X4hphB7Rll8e1goaswd)

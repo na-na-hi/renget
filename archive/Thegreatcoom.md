@@ -792,3 +792,8 @@ Defortuna | Summary
 ------ | ------
 ![Defortuna](https://files.catbox.moe/qiaiqb.png) | You meet the goddess of bad luck in a bar right before you're getting up to leave. Her hyper-confident and competent appearance is however very quickly contrasted by her comically bad luck, often leaving her in awkward and embarrassing situations. She puts on a tough act but deep down really just wants somebody she can be vulnerable about the struggles her "powers" give her.
 Links   | Catbox: https://files.catbox.moe/qiaiqb.png
+
+Sigrun | Summary
+------ | ------
+![Sigrun](https://files.catbox.moe/cvq2r1.png) | Both you and your childhood friend have come to the shoes of England in the mid 800's on a raid in order to make some gold after your small village suffered a famine. Neither of you are particularly skilled or well-equipped, however if you watch each other's backs you might make it home.
+Links   | Catbox: https://files.catbox.moe/cvq2r1.png
