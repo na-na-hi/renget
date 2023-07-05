@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 05.07.2023 13:30 UTC]
+[Last Updated: 05.07.2023 19:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7463110/](https://boards.4chan.org/h/thread/7463110/)
 
@@ -14,7 +14,7 @@ Last five:
 ---
 Archive:
 
-- 599&nbsp;&nbsp;[archiveofsins.com/h/thread/7444649/](https://archiveofsins.com/h/thread/7444649/)&nbsp;&nbsp;&nbsp;&nbsp;(24.06.2023 08:42)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Comfy Summer Edition
+- 599&nbsp;&nbsp;[archiveofsins.com/h/thread/7444649/](https://archiveofsins.com/h/thread/7444649/)&nbsp;&nbsp;&nbsp;&nbsp;(24.06.2023 08:42)&nbsp;&nbsp;[1224]&nbsp;#&nbsp;Comfy Summer Edition
 - 598&nbsp;&nbsp;[archiveofsins.com/h/thread/7435442/](https://archiveofsins.com/h/thread/7435442/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 13:20)&nbsp;&nbsp;[1111]&nbsp;#&nbsp;One and Only Bulb Edition
 - 597&nbsp;&nbsp;[archiveofsins.com/h/thread/7435252/](https://archiveofsins.com/h/thread/7435252/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 09:07)&nbsp;&nbsp;[1091]&nbsp;#&nbsp;Chikarin Farm edition
 - 596&nbsp;&nbsp;[archiveofsins.com/h/thread/7430471/](https://archiveofsins.com/h/thread/7430471/)&nbsp;&nbsp;&nbsp;&nbsp;(15.06.2023 19:06)&nbsp;&nbsp;[1295]&nbsp;#&nbsp;SMOOTH CRIMINAL edition

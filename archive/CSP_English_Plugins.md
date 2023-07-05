@@ -3,7 +3,8 @@
     Anecdotally plugins work on my copy of CSP but may not work for everyone as they are not **officially** supported outside of the Japanese version.
     You should place the .dlls directly in `AppData\Roaming\CELSYSUserData\CELSYS\CLIPStudioPlugIn\PAINT`
     If it worked as expected you should see the files under `Filter`
-    ==Might only work on global versions instead of official English but this needs testing==
+==Might only work on global versions instead of official English but this needs testing==
+
 These plugins are old and I have no way to access the Japanese store to obtain updates or new plugins.
 [Original Language Plugin List and Usages](https://www.clip-studio.com/clip_site/download/clipstudiopaint/cspplugin)
 [Plugin SDK](https://www.clipstudio.net/ja/dl/cspsdk_term)

@@ -44,4 +44,4 @@ Host Crit Rate +15%.
 Herrscher of Rebirth equip bonus: In Soul Crafting form, after hitting enemies with any Joint ATK, 
 ~~v1: all team member’s Ultimate will deal additional 200% ATK of Physical DMG (CD: 10s)~~
 v2: all team member’s Ultimate will deal additional 200% ATK of Physical DMG against enemies with Withering Gap (CD: 17s)
-(all team members share this CD duration), last for **16s(v2) > 18s(v3)**.
+(all team members share this CD duration), last for **16s(v2) > 18s(v3). This damage will only trigger once during this duration.**

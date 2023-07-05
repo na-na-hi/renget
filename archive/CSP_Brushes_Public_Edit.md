@@ -4,8 +4,7 @@
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
 [**[edit this rentry here]**](https://rentry.org/CSP_Brushes_Public_Edit/edit)<-
 !!! info
-    - Textures can be exported by applying to default brushes and exporting but ==3D models as of yet have no convenient way of being shared.==
- 		 - Probably a way by going into your appdata folder.
+    - Textures can be exported by applying to default brushes and exporting
     - Brushes are searchable by ID
     - [Wishlist Rentry](https://rentry.org/Brush_Wishlist) For listing brushes people want
     - [Translated Plugin Rentry](https://rentry.org/CSP_English_Plugins)
@@ -166,10 +165,26 @@
 **Cleanup Auto Action Ver.2**|[1996747](https://assets.clip-studio.com/en-us/detail?id=1996747)| [DL](https://files.catbox.moe/qii6ba.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/67/1996747/thumbnail)
 **Pantyliner also a character creation kit**|[1972326](https://assets.clip-studio.com/en-us/detail?id=1972326)| [DL](https://files.catbox.moe/23r4k1.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/23/1972326/thumbnail?1683730214)
 **Pandemonium Shambles Pen**|[1778290](https://assets.clip-studio.com/en-us/detail?id=1778290)| [DL](https://files.catbox.moe/fswzaq.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/82/1778290/thumbnail)
+**R Sketch (+Rスケッチ)** |[1742653](https://assets.clip-studio.com/en-us/detail?id=1742653)| [DL](https://files.catbox.moe/t0fgdj.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/26/1742653/thumbnail)
+**tae's painting set** |[1933206](https://assets.clip-studio.com/en-us/detail?id=1933206)| [DL](https://files.catbox.moe/1o0ni8.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/06/32/1933206/thumbnail)
+**Leaf Brush Set (葉っぱブラシセット)** |[1773819](https://assets.clip-studio.com/en-us/detail?id=1773819)| [DL](https://files.catbox.moe/uuf3s9.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/38/1773819/thumbnail)
+**A Little dress brush (ちょっとした服飾ブラシ) **|[1742090](https://assets.clip-studio.com/en-us/detail?id=1742090)| [DL](https://files.catbox.moe/5z5vpi.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/20/1742090/thumbnail?1556778172)
+**Forjjol brush **|[1712744](https://assets.clip-studio.com/ja-jp/detail?id=1712744)| [DL](https://files.catbox.moe/i2idxm.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/44/27/1712744/thumbnail)
+**Melting Cloud Brushes (溶ける雲ブラシ)** | [1748465](https://assets.clip-studio.com/en-us/detail?id=1748465) | [DL](https://files.catbox.moe/or1hnc.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/84/1748465/thumbnail)
+**Bushes Groundwork Brushes (茂みの下地ブラシ)** | [1756648](https://assets.clip-studio.com/en-us/detail?id=1756648) | [DL](https://files.catbox.moe/jhlhaf.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/66/1756648/thumbnail)
+**Nature Brush Pack** | [1874837](https://assets.clip-studio.com/en-us/detail?id=1874837) | [DL](https://files.catbox.moe/lifx49.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/48/1874837/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
+
+##3D Assets
+- create a canvas 1000x1000, put the 3d model there, save, ez
+ Name | Store Link | DL | Thumbnail
+ ----: | :----: | :----: | :----:
+****|[]()|[DL]()|![]()
+****|[]()|[DL]()|![]()
+
 
 -> [**[TOP]**]() ->
 
@@ -241,7 +256,9 @@
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 
+
 -> [**[TOP]**]() ->
+
 ##Dead DL Link
  Name | Store Link | DL | Thumbnail
  ----: | :----: | :----: | :----:

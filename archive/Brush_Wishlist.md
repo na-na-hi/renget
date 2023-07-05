@@ -83,7 +83,6 @@
 **Lemon pencil** |[1832533](https://assets.clip-studio.com/en-us/detail?id=1832533)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/33/25/1832533/thumbnail)
 **UwU Brush Pack** |[1942534](https://assets.clip-studio.com/en-us/detail?id=1942534)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/34/25/1942534/thumbnail)
 **Night Watcher Pencil Set** |[1878948](https://assets.clip-studio.com/en-us/detail?id=1878948)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/89/1878948/thumbnail)
-**Nardo! Pencil** |[1983282](https://assets.clip-studio.com/en-us/detail?id=1983282)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/32/1983282/thumbnail)
 **Soft brushes (ソフトブラシ)** |[1843464](https://assets.clip-studio.com/en-us/detail?id=1843464)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/64/34/1843464/thumbnail)
 **Brush with a cactus 2 (カクのbrush 2)** |[1821594](https://assets.clip-studio.com/en-us/detail?id=1821594)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/94/15/1821594/thumbnail)
 **A brush that adds an emo look to color (色にエモみを足すブラシ)** |[1847997](https://assets.clip-studio.com/en-us/detail?id=1847997)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/79/1847997/thumbnail)
@@ -117,13 +116,10 @@
 **Hair Light Brush (머리광 브러시)** | [1943978](https://assets.clip-studio.com/en-us/detail?id=1943978) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/39/1943978/thumbnail)
 **More Highlights (きらハイライト)** | [1941724](https://assets.clip-studio.com/en-us/detail?id=1941724) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/17/1941724/thumbnail)
 **Even pencil (もこ鉛筆)** | [1803056](https://assets.clip-studio.com/en-us/detail?id=1803056) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/30/1803056/thumbnail)
-**Nature Brush Pack** | [1874837](https://assets.clip-studio.com/en-us/detail?id=1874837) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/48/1874837/thumbnail)
 **Leaves and Grasses** | [1829085](https://assets.clip-studio.com/en-us/detail?id=1829085) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/90/1829085/thumbnail)
-**Melting Cloud Brushes (溶ける雲ブラシ)** | [1748465](https://assets.clip-studio.com/en-us/detail?id=1748465) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/84/1748465/thumbnail)
-**Bushes Groundwork Brushes (茂みの下地ブラシ)** | [1756648](https://assets.clip-studio.com/en-us/detail?id=1756648) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/66/1756648/thumbnail)
-**R Sketch (+Rスケッチ)** |[1742653](https://assets.clip-studio.com/en-us/detail?id=1742653)| 200 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/26/1742653/thumbnail)
-**tae's painting set** |[1933206](https://assets.clip-studio.com/en-us/detail?id=1933206)| 200 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/06/32/1933206/thumbnail)
-**Leaf Brush Set (葉っぱブラシセット)** |[1773819](https://assets.clip-studio.com/en-us/detail?id=1773819)| 200 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/38/1773819/thumbnail)
+
+
+
 
 
 -> [**[TOP]**]() ->
@@ -131,8 +127,6 @@
 ### Over 500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**A Little dress brush (ちょっとした服飾ブラシ) **|[1742090](https://assets.clip-studio.com/en-us/detail?id=1742090)| 700 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/20/1742090/thumbnail?1556778172)
-**Forjjol brush **|[1712744](https://assets.clip-studio.com/ja-jp/detail?id=1712744)| 800 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/44/27/1712744/thumbnail)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -143,7 +137,6 @@
 ### ==Under 100 Gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**A Little dress brush (ちょっとした服飾ブラシ) **|[1742090](https://assets.clip-studio.com/en-us/detail?id=1742090)| 80 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/20/1742090/thumbnail?1556778172)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

@@ -11,6 +11,9 @@ HoRB Gears: https://rentry.co/horbgear
 Bunny ELF: https://rentry.co/bunnyelf
 ER: https://rentry.co/er68
 
+###v3D+
+6.8 V3D Plus
+- Dominance weather Cruising Judgement: Reduced HP of the core enemy during transition phase
 
 ###v3D
 

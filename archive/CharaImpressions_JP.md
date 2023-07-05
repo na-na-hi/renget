@@ -879,7 +879,7 @@ Pros:
 - S2 gives M.Atk, M.Crit Dmg, P.Def & gives Phys barrier to all units within 200 range of the highest M.Atk unit (Lasts 12s)
 - EX+ gives M.Crit chance & M.Atk (Requires 5 star)
 - Excellent position (Catches nearly all important M.Atk units in back/mid line)
-- Very good skill loop(AA -> S1 -> S2 -> AA)
+- Very good skill loop(AA > S1 > S2 > AA)
 
 Cons:
 - Lack of M.Def debuff to enemies

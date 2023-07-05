@@ -71,7 +71,7 @@ Paralyzed woman in a wheelchair. The scenario opens on a meet-cute where she ask
 Mean Girl Eileen**
 https://files.catbox.moe/r3zqjh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-First bot. Initially made as an experiment to see how mean and rude bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs.
+First bot. Initially made as an experiment to see how mean and rude bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine, someone reused Eileen's greeting and concept to make their own reinterpretation. The CAI link here is the original character.
 
 Mean Lady Nadine**
 https://files.catbox.moe/pm73bl.png

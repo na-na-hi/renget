@@ -2,6 +2,7 @@
 #old april guide @ rentry.co/dadaptguide
 #written by a nerd who likes to optimize
 !!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
+!!! danger bmaltais/kohya_ss at the time of this guide being updated has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! danger Still figuring out some settings. It's been a couple of days but it's getting good.
 
 ##What is it?
@@ -12,15 +13,16 @@ Both function well for characters and styles given their size.
 
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
-!!! info iA3 might work better without captions which is a big plus for it. Captioning is only required if you train a character with some alien artstyle in which case you do want captions to separate the character from the style characteristics.
+!!! info iA3 might work better without captions which is a big plus for it.
 LoKr for fast LoHa quality at a 2.5mb size.
 LoHa for likely placebo perfect reproduction at a bigger size. (iA3 and LoKr can likely do similarly by just prompting better. Skill issue.)
 LoCon and LoRa if you're simple and want to waste space, at that point just try out DyLora.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
-##DATASET, BATCH, GRADIENT, STEPS, EPOCHS, TIME?
-Below 28?  Gradient Checkpointing Off, 1 Batch Size, Gradient Accumulation Steps = Dataset Size, 1 rep and use epochs.
-Equal or above 28? Gradient Checkpointing Off or On depending on if you want more Batch Size or if you want to be able to use Gradient Accumulation at all, 1 rep and use epochs.
+##DATASET, STEPS, EPOCHS, TIME?
+Below 14? 10 rep * 12-24 epochs.
+Below 28? maybe use reps and use epochs.
+Equal or above 28? 1 rep and use epochs.
 Training time should be very fast compared to other methods.
 
 ##Base iA3 Prodigy .json:
@@ -114,11 +116,10 @@ Training time should be very fast compared to other methods.
 We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
 !!! warning AS WROTE IN DADAPT GUIDE BEFORE AND I REPEAT AGAIN NOW: FIRST AND FOREMOST. NO DUPLICATE DATASET. MANUAL AND LOGICAL CAPTIONING IF YOU WANT CAPTIONING AT ALL. DATASET WILL ALWAYS REMAIN IMPORTANT. 
-!!! info If training only with epochs does not work well with your dataset due to size or something else then start using repeats.
 - Toy with snr_gamma and noise_offset/adaptive_noise_scale only if you want to experiment and see what results you may like. Unset the seed if you want variations.
-- Toy with ``d_coef (0.5 to 2.0)`` which is the main way to scale your d*lr and ```weight_decay``` if you are overtraining too quickly, safeguard_warmup if you are using warmup for whatever reason, bias_correction depending on your dataset.
+- Toy with ``d_coef (0.5 to 2.0)`` which is the main way to scale your d*lr, ```weight_decay``` if you are overtraining too quickly, safeguard_warmup if you are using warmup, bias_correction depending on your dataset.
 
-That is literally all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
+That is all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
 
 ##[Comparisons: LoHa (15 Batch * 2  Gradients) vs LoKr (15 Batch * 2 Gradients) vs iA3 (15 Batch * 2 Gradients)](https://civitai.com/models/101693/cheetara-thundercats-200kb-ia3-25mb-lokr)
 ![](https://imagizer.imageshack.com/img923/8572/5MRiq6.png)

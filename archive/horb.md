@@ -1,4 +1,4 @@
-##HERRSCHER OF REBIRTH V3
+##HERRSCHER OF REBIRTH V3D
 Translation by Aki and Mori
 
 Patch Note: https://rentry.co/68log
@@ -44,7 +44,7 @@ When Spiritual Deer and Demon Flora are present on the field, Total DMG taken ~~
 **v3: other team members recover 15 SP and 500 HP, CD: 16s. Added effect: When HoRB triggers time fracture for the first time, she will recover additional 15 [S] / 30 [S2] / 60 [SSS] sp.**
 
 **PASSIVE 2**
-(TOGGLE) Herrscher of Rebirth's initial form is switched to Soul Crafting Form. When initial form is Soul Crafting Form, when team members attack enemies with Withering Gap, gain [Crit Rate to Crit DMG conversion mode], however the max limit for the conversion of exceeding Crit Rate to Crit DMG is changed to 20%.
+(TOGGLE) Herrscher of Rebirth's initial form is switched to Soul Crafting Form. When initial form is Soul Crafting Form, **and HoRB is in Soul Crafting form (v3d),** when team members attack enemies with Withering Gap, gain [Crit Rate to Crit DMG conversion mode], however the max limit for the conversion of exceeding Crit Rate to Crit DMG is changed to 20%.
 
 Spiritual Deer increases Herrscher of Rebirth's max SP limit by ~~175(v1) >~~ 125(v2) points. When Herrscher of Rebirth triggers Global Time Fracture, if her SP is below ~~120(v1) >~~ 100(v2), it is then increased to ~~120(v1) >~~ 100(v2) SP, CD: 25s. ~~can only be triggered 3 times throughout the entire battle.~~
 
@@ -73,7 +73,7 @@ During Soul Crafting Form, can trigger Ultimate Evasion on demand.
 When team members attack enemies that are affected by Herrscher of Rebirth's impair effect, deals 1 extra point of DMG towards fixed DMG shields, if enemies have Withering Gap, deal additional 2 points of DMG, CD: 0.25s.
 
 **EVASION 3**
-Soul Crafting Form: When evasion skill is triggered, press ATK button to connect to Basic ATK 3. Each time it hits, Seele gain ~~5.2 [S0] / 10 [S2] (v1) >~~ **12.2 [S0] / 17 [S2] (v2) > 8 [S0] / 12 [S2] (v3)** sp, can trigger max 3 times.
+Soul Crafting Form: When evasion skill is triggered, press ATK button to connect to Basic ATK 3. **Within 6s,** each time it hits, Seele gain ~~5.2 [S0] / 10 [S2] (v1) >~~ **12.2 [S0] / 17 [S2] (v2) > 8 [S0] / 12 [S2] (v3)** sp, can trigger max 3 times.
 
 **~~Life Ending Form: Restore 50 Herrscher energy and 500 HP, pressing ATK button will directly link to Basic ATK SEQ 4.~~ **
 

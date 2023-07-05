@@ -10,6 +10,7 @@ I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
 (7/4/2023) Added new card: "Welcome to the Neighborhood Monster Girl!"
+
 -------------------------------
 ##Table of contents
 [TOC]
@@ -44,6 +45,6 @@ Fiona -Fantasy Boating Adventure- | Info
 
 Welcome to the Neighborhood Monster Girl! | Info
 :----:  | :----: 
-![Welcome to the Neighborhood Monster Girl!](https://i.imgur.com/FZKhwVy.jpg)   |  this card your family is hosting a neighborhood party 1 of 2 monster girls of your choice will appear. Will you befriend them? How will your parents get along? What about the other neighborhood children? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/neighborhood-party-with-monster-girls/main),  [png](https://www.chub.ai/3ed49d80-61b2-4abf-a4b8-d5d3fce51c60)
+![Welcome to the Neighborhood Monster Girl!](https://i.imgur.com/FZKhwVy.jpg)   |  this card your family is hosting a neighborhood party 1 of 2 monster girls of your choice will appear. Will you befriend them? How will your parents get along? What about the other neighborhood children? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/neighborhood-party-with-monster-girls/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/neighborhood-party-with-monster-girls/chara_card_v2.png?nocache=0.25998328224677814)
 
 !!! info: Thank you https://rentry.org/planewalker for your inspirational layout.

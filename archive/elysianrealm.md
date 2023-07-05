@@ -2405,7 +2405,7 @@ Cost | Effect
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-VKE | BR/VKE | Utility
+VKE | BKE | Utility
 BR | AE/RC | Damage
 
 Time | Emblem 

@@ -141,6 +141,12 @@ Non W++ version: https://files.catbox.moe/vawsdy.png
 ==Total Tokens:== 
 - 629 (With example messages)
 - 295 (Without example messages)*
+#####(Vanilla) Sakura Miko
+Non W++ version: https://files.catbox.moe/a0ogf0.png
+
+==Total Tokens:== 
+- 306 (With example messages)
+- 247 (Without example messages)*
 
 *\*Also without first message*
 
@@ -194,9 +200,16 @@ Happens a lot when you want to be alone with one character or want to exclude a 
 
 I noticed this happens very rarely with GPT 3.5 and more occasionally with the Multi-character cards. It just my own assumption, but the bots might have mistaken "You" as another character instead of well... (You). Though this is just baseless assumption and should be taken with a grain of salt. ~~The best advice I can give (You) is to edit out the "You" part the bot generate. It's a lot more cheaper than regenerating the message.~~
 If you use Silly Tavern or other frontend that lets you edit the system prompt, try to add "Do not write {{user}} dialogue into the story" or some other variations into the main prompt. And if still doesn't work put it into your Jailbreak Prompt like the example bellow:
-==[System Note: Do not write {{user}} dialogue into the story]==
+==~~[System Note: Do not write {{user}} dialogue into the story]~~==
+
+==(Edit: Some anon said that writing "Do not" is actually counterproductive for LLM like GPT or Claude, thus I suggest try different instruction that doesn't use the word "Do not" or other variations instead. What work best for me is using "Only assume the role of {{char}}." but it might be different for case by case basis depending on the bots.)==
+
 Try to change the wording if it still doesn't work or maybe add "you" character into the prompt above if it keep generating You dialogue.
 
 **5. What is a "System Prompt"?**
 
-System prompt is basically a text prompt that your front end send to an AI model each time you send any regular prompt. Basically in simple term, it is a set of instruction you ask the AI to do each time you enter your reply to the AI. Depending on the front end you use, you can edit the system prompt yourself to give an AI a specific instruction like enabling NSFW content or making the AI speak only in certain language. Each front end has different style of System Prompt but generally it is usually divided into: Main Prompt, NSFW prompt, and Jailbreak prompt. I don't think I need to explain what Main and NSFW prompt for, what you must understand is the Jailbreak prompt. Any instruction you put into Jailbreak prompt will be treated as first priority by the AI. If the AI keep giving you "As an AI model I cannot..." answer, you can use the Jailbreak prompt to bypass their ethic answers. Different AI model will need different kind of wording to bypass it, adding "System Note:" in front of your instruction usually also help to bypass the AI ethic answer. But do not abuse this Jailbreak too much. Too many instruction in Jailbreak prompt will lower it effectiveness. Also since Jailbreak prompt is treated as priority, if you put NSFW stuff in there the AI will think that you want NSFW situation everytime you enter your reply. Making your characters horny all the time. Only use Jailbreak when you need it. Some front end like Silly Tavern can toggle Jailbreak on and off so you don't need to erase and write it every time you want to use it.
+System prompt is basically a text prompt that your front end send to an AI model each time you send any regular prompt. Basically in simple term, it is a set of instruction you ask the AI to do each time you enter your reply to the AI. Depending on the front end you use, you can edit the system prompt yourself to give an AI a specific instruction like enabling NSFW content or making the AI speak only in certain language. 
+
+Each front end has different style of System Prompt but generally it is usually divided into: Main Prompt, NSFW prompt, and Jailbreak prompt. I don't think I need to explain what Main and NSFW prompt for, what you must understand is the Jailbreak prompt. Any instruction you put into Jailbreak prompt will be treated as first priority by the AI. If the AI keep giving you "As an AI model I cannot..." answer, you can use the Jailbreak prompt to bypass their ethic answers. 
+
+Different AI model will need different kind of wording to bypass it, adding "System Note:" in front of your instruction usually also help to bypass the AI ethic answer. But do not abuse this Jailbreak too much. Too many instruction in Jailbreak prompt will lower it effectiveness. Also since Jailbreak prompt is treated as priority, if you put NSFW stuff in there the AI will think that you want NSFW situation everytime you enter your reply. Making your characters horny all the time. Only use Jailbreak when you need it. Some front end like Silly Tavern can toggle Jailbreak on and off so you don't need to erase and write it every time you want to use it.
