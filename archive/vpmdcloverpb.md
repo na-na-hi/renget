@@ -68,7 +68,7 @@
 >(The following is subject to change, but probably won't change very much)
 
 >Male Ribombee. Timid/Quiet/Modest. Mostly Lawful Good.
->Image: https://arch-img.b4k.co/vp/1678844081456.png
+>Image: https://cloverguild.com/booru/post/58
 >- A typical introvert, he likes to keep to himself, avoids confrontation, and hates being the center of attention.
 >- He often freezes up when pressured or scared.
 >- If he manages to make a friend, he will grow comfortable around them and gradually open up to them. In particular, he becomes more confident when he's with his partner, Sneasel. Away from her, he reverts to a more withdrawn and docile persona.
@@ -88,7 +88,7 @@
 
 >**Booker's partner**
 >Female Sneasel. Hasty/Adamant/Sassy. Mostly Chaotic Neutral.
->Image: https://arch-img.b4k.co/vp/1679270885032.png
+>Image: https://cloverguild.com/booru/post/59
 >- She is the opposite of Booker in many ways. Booker acts as a voice of reason to temper her hasty/aggressive tendencies.
 >- She is headstrong and overconfident.
 >- She loves to fight and train, and often goes out of her way to fight feral Pokemon. However, she won't pick fights with civilized Pokemon for no reason.
@@ -105,7 +105,7 @@
 >- She knows the moves Ice Shard (her main attack), Scratch, Taunt, and Quick Attack.
 >- Originally a tribal Pokemon living on a wild island north of the Mist Continent, she warped to the Grass Continent by accident a few months ago. She's overcome the culture shock by now, but still hasn't mastered the local written language, and can act uncivilized due to her upbringing.
 
->Team image: https://i.imgur.com/QeG0Ohw.png
+>Team image: https://cloverguild.com/booru/post/67
 
 ###Macom
 >Macom keeps his human history close to his chest and refuses to talk about it. The Guildmaster's attempts to get into his mind have always been met with him playing a card game in his head and when asked he says he learned it from a video game he played once or twice. While more reserved than quiet he speaks only if he needs to, indicating some sort of older wisdom. Outside of his research he can be gruff, but it just shows that he cares in his own way. He tends to build electricity when stressed or angered, but it is a rare sight to see either.
@@ -130,22 +130,25 @@
 {Pending}
 
 ###KFC the Combusken
->KFC the Combusken Portrait courtesy of Linoone-anon:
->[KFC by Linoone](https://i.imgur.com/qGQXGjt.png)
-
+>KFC the Combusken (Pre-ETF) Portrait courtesy of Linoone-anon:
+>[KFC by Linoone](https://cloverguild.com/booru/post/168)
+>KFC the Combusken (Post-ETF) Portrait:
+>[KFC the Combusken](https://cloverguild.com/booru/post/430)
 >Origin Story (WIP): 
->https://rentry.org/KFC_Path_to_Aura
+>https://rentry.org/Path_to_Aura
 
 >Personality: 
 >KFC was born to a large and vicious tribe of Blaziken on the water continent, where anyone who stepped out of line was met with harsh punishment. As such he usually keep his honest opinion to himself. While he will generally act cordial, he will usually have a sarcastic retort or two in the back of his head. Additionally he is easily excitable and quick to emotion, so his true colors will show if you rile him up. Even when his true personality shows, he isn't evil, or anything, just a little ruder than he seems normally. He has a bit of a hard time with opening up to others. 
 
 >Actions: 
->KFC does want to help others, which is why he became an explorer, but he sees it as a means to gain power rather than doing it entirely out of the goodness of his heart. KFC will often go on solo missions as a means to train but if some Pokemon is in the area and needs assistance he will go out of his way to help. 
+>KFC does want to help others, which is why he became an explorer, but he sees it as a means to keep a promise rather than doing it entirely out of the goodness of his heart. KFC will often go on solo missions as a means to train but if some Pokemon is in the area and needs assistance he will go out of his way to help. 
 
 >Skills: 
 >It maybe because of genetic abnormality or something else entirely, but KFC cannot use any fire type moves, which is ironic since the tribe he was born to are infamous across the world for their strong fire.  However, KFC is the most profiecient in hand-to-hand combat out of everyone in the guild, as he is the only one in the guild who had professional training. And it was with someone who was once ranked an Aura Master. KFC is always ready for a fair fight and will avoid using items during battle as he sees it as cheating. Even without items, he tries, and sometimes fails, to think strategically.  However he has quick reflexes that improve as a fight continues (Speed Boost). Wears the Iron-Zinc Scarf which slightly boosts Def. and Sp. Def.
+
 >Ability: Speed Boost
->Moves: Swords Dance, Sky Uppercut, Aerial Ace, [Aura Techniques](https://rentry.org/2qupq)
+>Moves (Pre-Training Intensifies): Swords Dance, Sky Uppercut, Aerial Ace, [Aura Techniques](https://rentry.org/2qupq)
+>Moves (Post-Training Intensifies):  [Aura Techniques](https://rentry.org/2qupq), Double Team, Shadow Claw, Strength
 
 >Goals: 
 >A big part of KFC's training focuses on Aura Mastery. Think of it as pursuing the path to fighting power as opposed to fire power. His aura sensing abilities have reached an intermediate level, while his aura expression is at the most basic level. His true goal is to be officially ranked as an Aura Master. Currently, there are only 4 in the world, alive, who are ranked as Aura Masters and all of them work as Aura Guardians.

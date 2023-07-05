@@ -123,7 +123,7 @@ These units are only available during their specific banners, which are typicall
 **Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. 
 
 ### PvE
-**New Years Kyaru** -  Relegated to specific SP Dungeon & SP Event comps, but still a must have in your arsenal for these scenarios.
+Nothing that is specific to PvE here.
 
 
 ##->Permanent Targets<-

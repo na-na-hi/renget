@@ -82,6 +82,11 @@ Note:	A cold-blooded lamia who found two loves to warm her up on lonely nights. 
 Data:	https://rentry.co/Harahel_Benefactum
 Music:	https://youtu.be/qRnzCSCJpmo
 
+Name: Blob, The
+Note: Particularly ravenous specimen of slime, unknown depths of appetite.
+Data: https://rentry.org/yckdvw
+Music:
+
 ## C
 
 

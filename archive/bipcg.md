@@ -1,5 +1,23 @@
 ▶NEW CLIPS
-
+>Ka-52 hit on a Strela-10 AA system
+https://files.catbox.moe/il7s49.mp4
+>Multiple vehicles hit by Ka-52 helicopter
+https://files.catbox.moe/zdtjim.mp4
+>Russian sniper duo hits an Ukrainian soldier
+https://files.catbox.moe/qzwb5n.mp4
+>The real meat cube
+https://files.catbox.moe/foo0jo.mp4
+>TOTAL HOHOL DRAFT (indoor edition)
+https://files.catbox.moe/3x5r8r.mp4
+>4 minutes of Alligators (110 vehicles)
+https://files.catbox.moe/r7j3ge.mp4
+>POV Counter Offensyiiv
+https://files.catbox.moe/psi8uk.mp4
+https://files.catbox.moe/1druub.mp4
+>Max Blumenthal dropping bombs on UN Security Council
+https://files.catbox.moe/air9mh.mp4
+>Counteroffensyiiv near Bakhmut
+https://files.catbox.moe/u8dl7h.mp4
 >Lancet compilation
 https://files.catbox.moe/64g34h.MP4
 >Dead pigger collection team is kil

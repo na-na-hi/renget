@@ -2,7 +2,7 @@
 Welcome to my chatbot rentry.  I focus on recreating established characters from some franchises that I like and think have some potential for a fun chat.  Most are SFW by default, but might include some gentle pushes towards NSFW.  I've included a couple Character AI links for my oldest bots for novelty, I won't be creating any new bots for their service.  Tavern cards are just much more flexible and compatible with other (better) chat engines. 
 !!! info GPT-3.5, GPT-4 or equivalent are recommended for the best results.
 ##Changelog
-- 7/3/23 Update:  V2 update for Jessica Rabbit (extra intros)
+- 7/3/23 Update:  Added Hex Maniac, V2 update for Jessica Rabbit (extra intros)
 - 6/22/23 Update:  Added Callie Briggs
 - 6/1/23 Update:  Added Vanilla the Rabbit
 - 5/27/23 Update:  Added Imaginary Frankie
@@ -11,6 +11,7 @@ Welcome to my chatbot rentry.  I focus on recreating established characters from
 !!! info These bots are mostly for vanilla tastes and casual chats.  I've separated out more extreme content in the section at the page bottom.
 Image  |  Name |  Series From | Description | Links
 ------ | :----: | :----: | ------ | ------
+![Hex Maniac](https://files.catbox.moe/tzojzb.jpg) | Hex Maniac | Pokémon | Hex Maniac is an astoundingly awkward girl desperate for friends, but with her looks, is she attracting the right kind?  V2 compatible.   | [Tavern Card](https://files.catbox.moe/ai3p22.png)
 ![Callie Briggs](https://files.catbox.moe/ok80et.jpg) | Callie Briggs | SWAT Kats | Callie is an overworked Deputy Mayor, holding up the incompetent Mayor from behind the scenes in a city constantly under siege.  So who are you?  Another villain maybe?   | [Tavern Card](https://files.catbox.moe/o8jsqy.png)
 ![Vanilla the Rabbit](https://files.catbox.moe/4z330p.jpg) | Vanilla the Rabbit | Sonic Series | The calm, understanding mother of Cream.  A busybody homemaker living in a gorgeous, remote location.   | [Tavern Card](https://files.catbox.moe/uqclpg.png)
 ![Imaginary Frankie](https://files.catbox.moe/1ew0fc.jpg) | Imaginary Frankie | Fosters Home for Imaginary Friends | Frankie's polar opposite.  A naïve airhead dreamt up by a lovesick boy.  A living nightmare for the real Frankie.   | [Tavern Card](https://files.catbox.moe/zmw9m2.png)
@@ -23,7 +24,7 @@ Image  |  Name |  Series From | Description | Links
 ![Shantae](https://files.catbox.moe/bk62bo.jpg) | Shantae | Shantae | Shantae is a half-genie, and the guardian of Scuttle Town.  Her world is full of pirates, monsters, and other jerks who won't leave her town alone.  | [Tavern Card](https://files.catbox.moe/kwdjwd.png)
 ![Layer](https://files.catbox.moe/rkf858.jpg) | Layer | MegaMan X | Layer works alongside other navigators like Alia to help the Maverick Hunters track down and stop dangerous reploids.  She's a romantic at heart, and gains crushes easily.  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/plp1ho.png)
 ![Alia](https://files.catbox.moe/2dbd9d.jpg) | Alia | MegaMan X | Alia is a reploid navigator who can guide you in your mission to defeat mavericks.  Or maybe you'd rather head back to HQ and flirt?  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/36cvet.png)
-![Jessica Rabbit](https://files.catbox.moe/i2as55.jpg) | Jessica Rabbit | Who Framed Roger Rabbit? | The gorgeous redhead lounge singer toon, performer at The Ink and Paint Club.  Play some pattycake?  | [Tavern Card](https://files.catbox.moe/0ab2t6.png)
+![Jessica Rabbit](https://files.catbox.moe/i2as55.jpg) | Jessica Rabbit | Who Framed Roger Rabbit? | The gorgeous redhead lounge singer toon, performer at The Ink and Paint Club.  Play some patty-cake?  V2 compatible.  | [Tavern Card](https://files.catbox.moe/0ab2t6.png)
 ![Makoto Nanaya](https://files.catbox.moe/pa9499.png) | Makoto Nanaya | BlazBlue | A squirrel girl who is incredibly outgoing, and protective of her loved ones.  She wants to start a big family, with a lot of kids.  A LOT of kids.  | [Tavern Card](https://files.catbox.moe/nyzsvc.png)
 ![Ryuko Matoi](https://files.catbox.moe/4k902u.jpg) | Ryuko Matoi | Kill la Kill | Brutish tomboy delinquent who picks fights like it's nothing.  But she's a bit shy about the clothes she has to fight in.  | [Tavern Card](https://files.catbox.moe/tsanl5.png)
 ![Sucy](https://files.catbox.moe/52nar3.jpg) | Sucy Manbavaran | Little Witch Academia | Creepy, lethargic, and a bit sadistic.  A witch who really likes mushrooms.  | [Tavern Card](https://files.catbox.moe/2jbkjn.png)

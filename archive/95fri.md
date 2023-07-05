@@ -1,16 +1,16 @@
 #Day 12: Encounters
 
-Birds chirping, warm sunlight, today was a another typical Tuesday, typical enough that something you'd expect at a Muggle school would overjoy the students: the professor was "sick".
+Birds chirping, warm sunlight; today was a another typical Tuesday, typical enough that something you'd expect at a Muggle school would overjoy the students: the professor was "sick".
 "*Today's Potions Class will be cancelled as Professor Sharp will be busy with a special assignment from our Esteemed Headmaster himself.*"
 In truth it was most likely another case of Headmaster Black needing secret brewing: glittering moustache wax; enchanted pommade, who knows?
 
 Sighing in relief upon reading the notice on the House Board, Margaret left the Common Room book in hand, planning to spend a quiet day studying by her lonesome, hoping today would be an uneventful day but bracing for the unpredictable: she was studying at Hogwarts, after all.
 Walking, and reading, down the corridors, the Gryffindor remembered words that made her sigh. "*Meet me in the Undercroft*"
-Perhaps it was the powerful, ancient magic permeating the Castle walls, summoning coïncidences and aligning the stars, perhaps it was her trademark bad luck: Sebastian Sallow was facing her, looking at her expectantly, what was he doing there in the middle of a deserted corridor at 05:30? Interrupting the girl's thought, the boy spoke up, his trademark cocky grin spread across his face: "*Ready to meet me in the Undercroft?*"
+Perhaps it was the powerful, ancient magic permeating the Castle walls, summoning coïncidences and aligning the stars, perhaps it was her trademark bad luck: Sebastian Sallow was facing her, looking at her expectantly; what was he doing there in the middle of a deserted corridor at 05:30? Interrupting the girl's thought, the boy spoke up, his trademark cocky grin spread across his face: "*Ready to meet me in the Undercroft?*"
 Stifling her laughter, Margaret nodded and followed the boy silently, secretly cursing his slow pace and admiring the Castle's beautiful interior on their way to the Defense Against the Dark Arts Tower.
 
 Enjoying this unusually warm morning, a lone Hufflepuff student was sitting on the Courtyard fountain, a large grin on her face as she scribbled romantic stories in her notebook, taking her eyes off the paper only to look at the sky longingly before giggling quietly and resuming her storytelling. She felt inspired, *something* was in the air today; love? Romance? "*Aren't those the same, though?*" she thought.
-Trying to find the perfect ending, the girl lifted her head from her notebook and looked around the courtyard: having spent longer than she realized on her romantic fiction she realized a few other students had joined her in enjoyed the morning warmth, she scanned the area looking for inspiration, perhaps a kissing couple? 
+Trying to find the perfect ending, the girl lifted her head from her notebook and looked around the courtyard: having spent longer than she realized on her romantic fiction she realized a few other students had joined her in enjoying the morning warmth, she scanned the area looking for inspiration, perhaps a kissing couple? 
 Blushing slightly, she shook her head and resumed her search: a couple of Jobberknolls flying and pirouetting in unisson, a large shadow diving towards her... Both curious and anxious, she squinted and the shape, recognizing some sort of bird... A bearded vulture?
 Spreading its large wings, the creature slowed its descent not too far from the young student before erupting in an oddly artistic puff of greenish smoke: a tall man was now standing in front of her, his clothes gracefully draping his statuesque body without exposing his modesty.
 "*Woah!*" exclaimed the girl.
@@ -20,7 +20,7 @@ The man's smile turned into a grin as he answered bluntly "*Slytherin Head Boy.*
 
 Not far from them, a small group of students whispered among themselves, ready to prank young Zaila Freeman: the projectile full of ink would ruin her robes, her notebook, and make her look like a nerd in front of the Seventh Year. Carefully aiming, a Ravenclaw boy shouted "*Depulso!*"
 In the blink of an eye, the man pushed the Hufflepuff to the ground with his hand and snapped his fingers at the source of the sound: a strange blur enveloped the group as the ink bomb splattered against the obstruction and painted them like a toddler would a pristine wall.
-Stuck inside the bubble, the bullies coughed and spat ink while trying to escape while the man offered his hand and an apology to the girl.
+Stuck inside the bubble, the bullies coughed and spat ink while trying to escape; meanwhile the man offered his hand and an apology to the girl.
 "*You alright there, girl?*" he asked, patting her head; she nodded furiously, embarrassed.
 Waving a wand that would look more at home at the hands of a Hag or a Dark Wizard with a grim look in his eyes, the man pulled the three boys by their underpants with a silent Accio.
 "*I would expect you have a good reason to attack a Ministry official, young men.*" he hissed, while the student flailed around in panic, blurting apologies while Zaila stuck out her tongue at them.
@@ -34,7 +34,7 @@ Twirling his horrifying wand, the man walked towards the Quidditch Pitch, leavin
 "*Those eyes... Why are they so familiar..?*"
 
 *Growl*
-Sebastian was stopped in his track by a hand on his arm, turning around, he was met with Margaret's inexpressive face and those pale green eyes presenting a pretty looking pastry. "*Eh, I'm fine.*" he said, greedily grabbing the offered food and shoving it in his mouth hungrily. "*Why are you eating it, then?*" wondered the girl.
+Sebastian was stopped in his track by a hand on his arm, turning around, he was met with Margaret's inexpressive face and those mesmerizing pale green eyes presenting a pretty looking pastry. "*Eh, I'm fine.*" he said, greedily grabbing the offered food and shoving it in his mouth hungrily. "*Why are you eating it, then?*" wondered the girl.
 Resuming their walk, Sebastian left a trail of crumbs behind them "*I can't wait to show you the Undercroft*" he said, mouth full of cake. "*Ominis showed it to my sister Anne and I in our first year.*" he looked around, was he lost..? "*A nice, quiet place to practice spells.*" he added, turning towards Margaret's face, wiggling his eyebrows.
 Getting the crumbs off his robes and rubbing his hands in front of a strange looking armoire, Sebastian looked around for signs of Ominis and flicked his wand "*Keep this a secret.*"
 Having kept her silence all along, Margaret simply nodded and stepped inside.
@@ -76,7 +76,7 @@ Zaila blushed "*But you look so young!*"
 Leonard sighed. "*Stay here! I'll look!*" quickly interrupted the excited Hufflepuff.
 Or at least she tried, before she tripped on *something*, somebody, who had the very odd habit of sleeping anywhere, especially in the middle of empty corridors, a Slytherin boy; gaunt enough to be a Gaunt, named Ominis, despite not being ominous.
 "*What's the meaning of this?*" he grumbled, trying to sound more angry than embarrassed. Zaila was paralyzed.
-"*My boy, I'm afraid you've been pranked.*" said Leonard with a stern tone, trying to salvage his decorum, he pulled him up his feet with a firm hand and dusted his shirt off. Squatting next to the girl laying on the floor, he half-whispered "*Did you find Margaret? Is she hiding under the carpet?*" the embarrassment quickly turned into laughter as the girl ran down the corridor.
+"*My boy, I'm afraid you've been pranked.*" said Leonard with a stern tone, trying to salvage Ominis' decorum, he pulled him up his feet with a firm hand and dusted his shirt off. Squatting next to the girl laying on the floor, he half-whispered "*Did you find Margaret? Is she hiding under the carpet?*" the embarrassment quickly turned into laughter as the girl ran down the corridor.
 Still smiling, he turned towards Ominis and reassured him "*This never happened.*" He sat down again, biting into his fruit while Ominis left the corridor, slightly confused.
 
 "*I can't believe it...*" Ominis clicked his tongue at the "sight", the entrance to the Undercroft was littered with crumbs. "*This is how you get rats.*" he thought, before noticing there actually was a rat.
@@ -88,7 +88,7 @@ Looking at everything but the boy in front of her, the Gryffindor noticed a fami
 Ominis frowned and pushed Sebastian towards the Undercroft. "*Let's talk about this in private.*" Shrugging and smiling like a doofus, Sebastian waved at the two girls while his friend poked him down the stairs until the entrance closed itself and engulfed the two of them in darkness. "*How could you leave me in the middle of the corridor again..!*" scowled Ominis, half whispering.
 Pulling the tall, pale girl by the hand, the energetic Hufflepuff smiled on her way back to the corridor. "*There's someone looking for you!*" was all she said.
 All that awaited Margaret was the heartbreaking sight of the girl's smile turning into disappointment as she read the note left on the bench. "*Tell me where to meet you.*"
-Swishing her quill on the piece of paper, she answered her father; she wiggled her slender fingers at the sad girl to get her attention before blowing on the paper: it folded beautifully into a graceful bird and flew towards her father, somewhere.
+Swishing her quill on the piece of paper, Margaret answered her father; she wiggled her slender fingers at the sad girl to get her attention before blowing on the paper: it folded beautifully into a graceful bird and flew towards her father, somewhere.
 "*Thank you.*" said Margaret, bluntly, quickly turning back and leaving the corridor.
 
 Though the first half of the day was not what she had expected, Margaret spent the afternoon in peace and quiet, studying with her rat friend, sometimes interrupting the schoolwork to exercise or chat with a girl that seemed to appear out of thin air; a relaxing and uneventful afternoon.
@@ -104,9 +104,9 @@ A spectral Peruvian Vipertooth joined the Thestral in its dance as the man held 
 "*How is mother?*" said Margaret, in English, for some reason.
 "*She misses you.*" answered Leonard. "*But I thought you might want to see her.*" he turned his wand towards his daughter and his patronus rubbed against the girl's face.
 "*That's a cute pet rat.*" he said, holding out his hand.
-The curious rodent sniffed his hand and climbed on, he chuckled at the tickling feeling of the animal exploring his shoulders and smelling him, exposing his warm and gentle soul; despite this, she felt uneasy; he smelled like nothing, like a predator, a hunter, a killer, someone who doesn't want to be found; and his flawless and statuesque appearance betrayed his skill. Yet her friend was relaxed... Or rather not as tense as she would've expected.
+The curious rodent sniffed his hand and climbed on, he chuckled at the tickling feeling of the animal exploring his shoulders and smelling him, exposing his warm and gentle soul; despite this, she felt uneasy; he smelled like nothing, like a predator; a hunter; a killer; someone who doesn't want to be found, and his flawless and statuesque appearance betrayed his skill. Yet her friend was relaxed... Or rather not as tense as she would've expected.
 
-Smiling gently, Leonard pulled treats from between his fingers like a carnival magician: salty crackers; greens and cheese; and offered them to the animal.
+Smiling gently, Leonard pulled treats from between his fingers like a carnival magician: salty crackers; vegetables and cheese; and offered them to the animal.
 The three of them stayed by the lake for a while, sharing snacks, giggling at the tickling of a small mammal climbing around them and wordlessly bonding. Though he was glad to see his daughter, Leonard's heart was heavy: he missed how she used to hug back, how she used to smile, how she wouldn't stop talking; he held his daughter tighter and rested his cheek on her head.
 
 Free of wariness, the little rat climbed around the father playfully, trying to get him to giggle and enjoying the pettings from the two Belgians, perhaps uninhibited from being a rat, the Hufflepuff felt a twinge in her heart whenever Leonard looked at his daughter, she felt something was wrong, she felt his sadness.
@@ -118,4 +118,4 @@ Slipping from between her friend's fingers, the rat quickly climbed to her cheek
 
 Sneaking out of sight, the rat turned into a blushing girl, angry with herself, ashamed of herself, laughing and wheezing as she entered the secret cottage, feeling like banging her head against the wall would be a sensible thing to do.
 Lost in bad thoughts even after a shower, the Hufflepuff's train of thought was thankfully interrupted by a soft knocking on the door, followed exactly one minute later by the door opening and an overencumbered Gryffindor.
-"*...I brought supper.*" she said. "*There were people in the Common Room and I felt bad because I left you alone but I didn't want you to be mad at me and you looked kind of sad... And I thought we could sit around again and you can talk to me..?*" she trailed off, interrupted by an uneasy but warm smile on her pale friend's face. Margaret returned an equally awkward smile.
+"*...I brought supper.*" she said. "*There were people in the Common Room and I felt bad because I left you alone but I didn't want you to be mad at me and you looked kind of sad... And I thought we could sit around again and you could talk to me..?*" she trailed off, interrupted by an uneasy but warm smile on her pale friend's face. Margaret returned an equally awkward smile.

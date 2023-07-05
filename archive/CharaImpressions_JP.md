@@ -855,6 +855,7 @@ Pros:
 - Buffs self on UB and S1
 - S2 buff applies faster than Inori & Mifuyu Pos 1 stun
 - S2 buff applies faster than S.Misogi's stun if S.Misogi is Pos 2
+- EX gives 
 
 Cons:
 - Can get stunned out of her 1st action by S.Misogi 1st pos (Or Pos 2 with NY.Muimi/Rima)
@@ -865,12 +866,23 @@ Cons:
 
 
 ### ->Swimsuit Neneka<-
-TBD
+**TL;DR - Worth a spark from initial impressions** 
+This Neneka has pretty much everything you'd want from a unit, aside from a M.def debuff to enemies. Writing about this would be too long, but all of her skills have large impact. They're basically UBs on their own, it's pretty ridiculous. A lack of M.Def debuff could mean she doesn't become omnipotent as her previous counterparts, but she doesn't even have a UE yet and is still considered a strong unit that will see CB usage. A UE may just toss her into the Neneka/NY.Neneka pantheon of units.
 
--> ![S.Neneka]() <-
+-> ![S.Neneka](https://redive.estertion.win/card/full/126631.webp) <-
 
 Pros:
-- Coming soon
+- UB has two damage calculations (Circumventing damage cap )
+- UB increases M.Atk of all units within 200 range of the highest M.Atk (18s) unit in party and copies their M.Atk 
+- S1 gives +5 TP boost & M.Atk buff to all units within 200 range of the highest M.Atk unit in party
+- S1 also creates a 315 radius field around that same target, which gives HP Regen & TP Regen to all units within the field for 12s
+- S2 gives M.Atk, M.Crit Dmg, P.Def & gives Phys barrier to all units within 200 range of the highest M.Atk unit (Lasts 12s)
+- EX+ gives M.Crit chance & M.Atk (Requires 5 star)
+- Excellent position (Catches nearly all important M.Atk units in back/mid line)
+- Very good skill loop(AA -> S1 -> S2 -> AA)
 
 Cons:
-- Coming soon
+- Lack of M.Def debuff to enemies
+- P.def increase can lead to potential skill autism
+- Low-ish base M.Crit Chance
+- Low-ish base M.Atk

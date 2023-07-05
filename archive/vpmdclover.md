@@ -6,7 +6,7 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam | M | Meowstic | N/A | Clover Guildmaster| [Modest](https://rentry.org/vpmdcloverpb#lliam)
+"Lliam" | M | Meowstic | N/A | Clover Guildmaster| [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
 Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmsmokey)
 Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#booker)
@@ -90,7 +90,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 8 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) 
 9 | [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy) | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | | [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
 10 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | | [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
-11 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | |
+11 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | | [Debby's Diary](https://rentry.org/DebbysDiary)
 12 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | |
 13 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Ross's Origin](https://rentry.org/qag5t) | | |
 14 | [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c) | | [Jimmy Your Ghoul](https://rentry.org/7cwwk) | | |
@@ -132,24 +132,24 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 50 | [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4) | | | | |
 51 | [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) | | | | |
 52 | [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3) | | | | |
-53 | [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t) | | | | |
+53 | [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) | | | | |
 54 | [Reunion (ft. Togetic)](https://rentry.org/72x5v) | | | | |
 55 | [An Overelming Week](https://rentry.org/overelming) | | | | |
 56 | [Ross Tries to Train](https://rentry.org/cdb3z) | | | | |
-57 | [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) | | | | |
+57 | [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) | | | | |
 58 | [Smoke Break (ft. Debby)](https://rentry.org/d5qbc) | | | | |
 59 | [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1) | | | | |
 60 | [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs) | | | | |
 61 | [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr) | | | | |
 62 | [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3) | | | | |
 63 | [Chespin and the Chillers pt.1](https://rentry.org/ytbot) | | | | |
-64 | | | | | |
-65 | | | | | |
-66 | | | | | |
-67 | | | | | |
-68 | | | | | |
-69 | | | | | |
-70 | | | | | |
+64 | [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2) | | | | |
+65 | [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1) | | | | |
+66 | [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) | | | | |
+67 | [Chespin and the Chillers pt.2](https://rentry.org/6ht5i) | | | | |
+68 | [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) | | | | |
+69 | [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2) | | | | |
+70 | [Descent (Part 1: Rumination)](https://rentry.org/gfm47) | | | | |
 71 | | | | | |
 72 | | | | | |
 73 | | | | | |
@@ -186,7 +186,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
 	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
-	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2) *Not on Table*
+	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -217,7 +217,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Teams Team Up pt.2 (ft. Chespin)](https://rentry.org/zw7p4)
 	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) 
 	* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
-	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i) *Not on Table*
+	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -231,15 +231,16 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Anonymous Package and The Next Day (ft. Debby)](https://rentry.org/quy2g)
 	* [Strawberry Jam and Mochi (ft. Debby)](https://rentry.org/6eoei)
 	* [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
-	* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2) *Not on Table*
-	* [Debby's Diary](https://rentry.org/DebbysDiary) *Not on Table*
+	* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2)
+	* [Debby's Diary](https://rentry.org/DebbysDiary)
+	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi) *Not on Table*
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
 	* [An Overelming Week](https://rentry.org/overelming)
 * Growlithe(s)
-	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t) 
-	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4) 
+	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
+	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
@@ -302,11 +303,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Faces of Capim Town (ft. Smith)](https://rentry.org/c6n7h)
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
-	* [Descent (Part 1: Rumination)](https://rentry.org/gfm47) *Not on Table*
+	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
+* {Sterling//Species Unknown}
+	* [Sterling's Purpose ch.1](https://rentry.org/4uw36) *Not on Table*
 * Stumpy the Shroomish
-	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1) *Not on Table*
-	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) *Not on Table*
-	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) *Not on Table*
+	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
+	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
+	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) 
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -417,12 +420,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu)
 * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 * [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
-* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/v9e4t)
+* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1)
 * [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 * [An Overelming Week](https://rentry.org/overelming)
 * [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
 * [Ross Tries to Train](https://rentry.org/cdb3z)
-* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/4fvp4)
+* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2)
 * [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 * [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 * [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
@@ -439,7 +442,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
 * [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3)
 * [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
-* [Descent (Part 1: Rumination)](https://rentry.org/gfm47)
+* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
+* [Sterling's Purpose ch.1](https://rentry.org/4uw36)
+* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
@@ -450,3 +455,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[Clover Guild Tier List Maker](https://tiermaker.com/create/pmdg-members-15736308)
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
+
+Notes/List to do
+-Sort out the character list; inactive members go to bottom and active members go to top. Possible purge on members that only made one or two posts? (need discussion, maybe). In that note, also include personality blurb for sorting. Inactivve goes to a different table
+-Remake the General Info (and maybe put it at the top of character list?)
+-If the one responsible has time, conduct a survey on Guild affinity chart, Story timeline, and Minor characters (notable at least) that appears on the stories to everyone (in thread) and update based on the results and do it periodically maybe once a month or every 2 months?  (PS. Is the Aura Bow Personalities necessary to be put there?)
+-Possibly remake the whole writing section table as some fields are more used than others. 
+-Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (?)
+-This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (requires discussion).
+-Lore Quick Reference needs some update.
+-Rentry page archive needs update.

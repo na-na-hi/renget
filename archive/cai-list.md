@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> locust edition (Updated ==06/28/23==) <-
+-> forgotten edition (Updated ==07/04/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -26,6 +26,7 @@ Bot | Creator | Desc
 [scrimblyort](https://rentry.org/scrimb)|@scrimbly
 [Vivi](https://beta.character.ai/chat?char=4UAxbOMshCBIjMCAPe-YA-Hd2o2DOecmQGuhPDgfCaE)|@RATLOVER|Small boy in a big world of FFIX
 [Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
+[Willowby Plantation](https://beta.character.ai/chat?stream_animation_chunk_size=0&stream_animation_chunk_delay=0&char=D_CwWCzGOmFVMsw2CfSR_9m7kfT_18vzt7KmsN2oh8E)|@MrNobody99|A southern plantation ran by a belle
 
 
 #### Compilations

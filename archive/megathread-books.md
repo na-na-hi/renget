@@ -1,4 +1,4 @@
--> ![](https://a.thumbs.redditmedia.com/ZIVWQwoy0jEfAh41tijqRtmCWhHRuDVLY0DrppoC-O4.png) <-
+-> ![](https://take-me-to.space/ysI61ij.png) <-
 
 # 📚 ➜ [Megathread](https://rentry.co/megathread) / **Books**
  

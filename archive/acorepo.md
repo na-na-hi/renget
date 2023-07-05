@@ -101,8 +101,6 @@ https://civitai.com/models/72423/april-april-oneil-1987-lora
 https://civitai.com/models/82300/lotus-blossom-tmnt-1980s
 	- Jessica Jaclyn
 https://civitai.com/models/85186/jessica-jaclyn-or-rise-of-the-teenage-mutant-ninja-turtles
-- Daria 
-https://civitai.com/models/92089/daria-morgendorffer
 - Masters of the Universe
 	+ She-Ra
 https://civitai.com/models/44792/she-ra-1985
@@ -228,34 +226,12 @@ https://civitai.com/models/53556/blackfire-teen-titans
 	- Terra
 https://civitai.com/models/66649/terra-teen-titans
 	- [*style*](#styles)
-- The Fairly OddParents
-	- Trixie Tang
-https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
-	- Tootie
-https://civitai.com/models/94318/tootie-fop
-	- Britney Britney
-https://civitai.com/models/86432/britney-britney-the-fairly-oddparents-character-lora
-- Olga Pataki (Hey Arnold!)
-https://civitai.com/models/101240/olga-pataki
-- The Loud House
-	- Lana
-https://civitai.com/models/64594/lana-loud-the-loud-house
-	+ Leni 
-https://civitai.com/models/101312/leni-loud-the-loud-house
-	- Luan
-https://civitai.com/models/101225/luan-loud
-	- Lucy
-https://civitai.com/models/60648/lucy-loud-loud-house
-	- Lynn
-https://civitai.com/models/60760/lynn-loud-loud-house
-	- Ronnie
-https://civitai.com/models/51832/ronnie-anne-the-loud-house
-- Frida Suarez (El Tigre: The Adventures of Manny Rivera)
-https://civitai.com/models/95470/frida-suarez
 - Pocahontas
 https://civitai.com/models/23886/pocahontas
 - Mulan
 https://civitai.com/models/91504/mulan-disney-movie
+- Cinderella
+https://civitai.com/models/40796/cinderella-disney-princess-by-yeiyeiart
 - Snow White
 https://civitai.com/models/45401/snow-white
 - Jasmine (Aladdin)
@@ -265,6 +241,8 @@ https://civitai.com/models/5709?modelVersionId=6648 (TI)
 https://civitai.com/models/56273/jane-porter-lora
 - Madam Mim (The Sword in the Stone)
 https://civitai.com/models/89034/sexy-madam-mim
+- Helga Sinclair (Atlantis)
+https://civitai.com/models/52372/helga-sinclair-atlantis
 - Chel (The Road to El Dorado)
 https://civitai.com/models/45917/chel-dorado
 https://civitai.com/models/18842/chel
@@ -446,6 +424,32 @@ https://civitai.com/models/96824/oceanbird-astronomonov-dexters-
 https://civitai.com/models/21148/sedusa
 - Ashi (Samurai Jack)
 https://civitai.com/models/91239/ashi-samurai-jack
+- Olga Pataki (Hey Arnold!)
+https://civitai.com/models/101240/olga-pataki
+- Daria 
+https://civitai.com/models/92089/daria-morgendorffer
+- The Fairly OddParents
+	- Trixie Tang
+https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
+	- Tootie
+https://civitai.com/models/94318/tootie-fop
+	- Britney Britney
+https://civitai.com/models/86432/britney-britney-the-fairly-oddparents-character-lora
+- The Loud House
+	- Lana
+https://civitai.com/models/64594/lana-loud-the-loud-house
+	+ Leni 
+https://civitai.com/models/101312/leni-loud-the-loud-house
+	- Luan
+https://civitai.com/models/101225/luan-loud
+	- Lucy
+https://civitai.com/models/60648/lucy-loud-loud-house
+	- Lynn
+https://civitai.com/models/60760/lynn-loud-loud-house
+	- Ronnie
+https://civitai.com/models/51832/ronnie-anne-the-loud-house
+- Frida Suarez (El Tigre: The Adventures of Manny Rivera)
+https://civitai.com/models/95470/frida-suarez
 - Villainous
 	+ Demencia
 https://civitai.com/models/95514/demencia-or-villainous
@@ -576,6 +580,7 @@ https://civitai.com/models/16051/webby-vanderquack
 - Rapunzel (Tangled)
 https://civitai.com/models/51124/rapunzel-tangled-series
 https://civitai.com/models/21540/rapunzel-tangled
+https://civitai.com/models/92144/rapunzel-disney-wrise
 - Miraculous: Tales of Ladybug & Cat Noir
 	+ Marinette Dupain-Cheng
 https://civitai.com/models/63659/marinette-dupain-cheng-ladybug
@@ -693,6 +698,8 @@ https://civitai.com/models/73507/lilith-borderlands-character-lora
 https://civitai.com/models/73484/athena-borderlands-character-lora
 	+ Angel
 https://civitai.com/models/73480/angel-borderlands-2-character-lora
+- Visas Marr (Star Wars: Knights of the Old Republic)
+https://civitai.com/models/102000/visas-marr-kotor-2-lora
 - Mass Effect
 	- Tali'Zhorah
 https://civitai.com/models/22827/talizorah-mass-effect

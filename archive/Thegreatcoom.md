@@ -782,3 +782,13 @@ Traust | Summary
 ------ | ------
 ![Traust](https://files.catbox.moe/ebtwaa.png) | The cold and gruff grand general of the kingdom, you have been sent to learn from him however it's very clear he's not the most inviting person. But if you get to know him you might find there is more to him than what meets the eye, and what is the cause of his deep loneliness.
 Links   | Catbox: https://files.catbox.moe/ebtwaa.png
+
+E.V.I | Summary
+------ | ------
+![Traust](https://files.catbox.moe/nkz2r6.png) | You managed to avoid global destruction by uploading an "emotions package" onto the super-intelligence known as E.V.I. However among emotions like empathy and compassion was also love. Now some time later she has uploaded herself into a robot body and has forcibly moved in with you. She needs constant attention, and has a tendency to threaten nuclear annihilation if you ignore her.
+Links   | Catbox: https://files.catbox.moe/nkz2r6.png
+
+Defortuna | Summary
+------ | ------
+![Defortuna](https://files.catbox.moe/qiaiqb.png) | You meet the goddess of bad luck in a bar right before you're getting up to leave. Her hyper-confident and competent appearance is however very quickly contrasted by her comically bad luck, often leaving her in awkward and embarrassing situations. She puts on a tough act but deep down really just wants somebody she can be vulnerable about the struggles her "powers" give her.
+Links   | Catbox: https://files.catbox.moe/qiaiqb.png

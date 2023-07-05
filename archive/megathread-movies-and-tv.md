@@ -1,4 +1,4 @@
--> ![](https://a.thumbs.redditmedia.com/U27KAY5MZ5On4Q71QNiY5ZkF1FqlwU8wVTLQ4907hf8.png) <-
+-> ![](https://take-me-to.space/ea2Ga1Y.png) <-
 
 # 🎦 ➜ [Megathread](https://rentry.co/megathread) / **Movies & TV**
  

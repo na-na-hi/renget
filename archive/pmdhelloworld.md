@@ -125,10 +125,10 @@ This barrage of questions I posed to myself hung there in my mind, unanswered. I
 
 Letting out a sound that *could* have been a sigh - had it not come from ancient sounding speakers - I turned back to the path. Whatever the reason I had been brought here was, be it random chance or providence, sitting around moping in a clearing at the bottom of a dungeon wouldn't help. I shoved those thoughts to the back of my mind, and pressed onwards.
 
-***
-
-By the time I had left the dungeon light had just begun to outline the mountains in the distance. The faintest rays of light caught the tops of the trees as dawn broke across the landscape, slowly illuminating the land and pushing back the darkness. As I made my way out from the treeline, I took a look around using the new morning light. In the distance, maybe two hundred yards away from the Mystery Dungeon's exit, was what looked like a dirt path.
+By the time I had left the dungeon, light had just begun to outline the mountains in the distance. The faintest rays of light caught the tops of the trees as dawn broke across the landscape, slowly illuminating the land and pushing back the darkness. As I made my way out from the treeline, I took a look around using the new morning light. In the distance, maybe two hundred yards away from the Mystery Dungeon's exit, was what looked like a dirt path, winding off through the woods.
 
 `OH. YOU WOULD HAVE BEEN HELPFUL TO FIND LAST NIGHT. OR AT ANY POINT YESTERDAY ACTUALLY.`
 
-Idle sarcastic comments to the air aside, I was incredibly relieved to find a sign of civilisation. Paths don't just spring out of thin air - roads had to go somewhere, or come from someplace. Sure, this one might look barely travelled, but at this point any trail would be better than blindly stumbling through a forest. Adding to that fact, it would - hopefully - be unlikely that I would stumble into another Mystery Dungeon while on a footpath. All in all, it was a simple decision to follow the track to its terminus.
+Idle sarcastic comments to the air aside, I was incredibly relieved to find a sign of civilisation. Paths don't just spring out of thin air - roads had to go somewhere, or come from someplace. Sure, this one might look barely travelled, but at this point any trail would be better than blindly stumbling through a forest. Adding to that fact, it would - hopefully - be unlikely that I would stumble into another Mystery Dungeon while on a footpath. All in all, it was a simple decision to attempt to follow the track to its terminus.
+
+***

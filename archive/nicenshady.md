@@ -13,6 +13,14 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ***
 ###humanoid I guess
 yuck
+Reverie | quip
+------ | ------ 
+ ![All mine, Captain...](https://files.catbox.moe/rqu1xl.png) | You're the captain of a colonizer ship, awoken to complete the final preparations for contact. Thank God your AI assistant is here to help... But something is off?
+
+based off a bot here that was also a ship AI (im insanely turned on by both)
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/Reverie)
+
 Legion | quip
 ------ | ------ 
  ![There was a hole.](https://files.catbox.moe/0jl87u.png) | Legion got some new upgrades, and you're gonna help him come to concensus.

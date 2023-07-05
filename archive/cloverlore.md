@@ -21,6 +21,8 @@ An inn/tavern in Capim Town. Notable for being the location where [Gathering](ht
 Tailor in Capim Town. The backroom of her store is for clothing storage, and is several floors tall and full of clothes from top to bottom. Uses her silk threads to climb up and down to fetch clothes. Ariados also uses her silk as improvised measuring tape and for weaving her own silk cloth. First appears in [Torchic Crosses the Alps](https://rentry.org/unesm)
 ######Library
 A small library run by a Blipbug librarian. Used to be a meeting point for a group of Pokémon roleplaying as humans, but sometime after the events of [Torchic Crosses the Alps](https://rentry.org/unesm) human roleplaying was banned there. Has several extra rules for Fire Pokémon. Fist appears in Torchic Crosses the Alps, then returns in [An Overelming Week](https://rentry.org/overelming).
+######Cake Shop
+A nondescript cake shop run by an Alcremie. Appears in [An Overelming Week](https://rentry.org/overelming).
 #####Other Locations
 ######Hot Spring
 A hot spring on top of a mountain near Capim Town, guarded by a Charizard who battles anyone who tries to reach the summit. First visited by Chepin in [Mountain Hike](https://rentry.org/mk77t)
@@ -67,8 +69,6 @@ At the behest of the Federation in charge of exploration teams, KFC seals myster
 Ross enters the stage and joins the guild
 ######[Mountain Hike (Chespin)](https://rentry.org/mk77t)
 Chespin's team climb a mountain and discover a hot spring
-######[The Misadventures of Totodile (Lliam)](https://rentry.org/TMoT)
-Solid Linoone finds a Totodile and teaches him about the many conspiracies of the world.
 ######[An Unexpected Find (Chespin)](https://rentry.org/m2kdg)
 Chespin finds a Mew that used to be human and takes her back to the guild. Mew is still getting used to her new body.
 ######[Currently Unnamed McNumel Story (Kaiji)](https://rentry.org/7pagq)

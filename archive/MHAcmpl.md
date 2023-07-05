@@ -516,7 +516,7 @@ Ryu-kishi and unknown girl in hot spring: https://archive.4plebs.org/tg/post/892
 Hoge Helps You: https://archive.4plebs.org/tg/post/89285337
 Hoge Helps You (Empty): https://archive.4plebs.org/tg/post/89285360
 InigoxHoge - 1st Semester: https://archive.4plebs.org/tg/post/89344819
-
+Recoil and Challenger in the Glass Maze https://archive.4plebs.org/tg/post/89432242
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
 Mio Ball: https://archive.4plebs.org/tg/post/88821971
@@ -562,6 +562,11 @@ Yamata: https://archive.4plebs.org/tg/post/89219485
 Challenger: https://archive.4plebs.org/tg/post/89234193
 Recoil: https://archive.4plebs.org/tg/post/89247424
 Overdose: https://archive.4plebs.org/tg/post/89255642
+Ryu-kishi: https://archive.4plebs.org/tg/post/89296627 
+Sunlight Man: https://archive.4plebs.org/tg/post/89300955
+Yako: https://archive.4plebs.org/tg/post/89324798  
+Aspara: https://archive.4plebs.org/tg/post/89401642 
+Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
 
 ***
 
@@ -735,6 +740,12 @@ Mirror's Visit (Yamata, Mirror Devil): https://rentry.org/wzxtzs
 Inigo and Hoge Literally Just Talking About Nothing - (Ryu-kishi, Maru(maru)): https://rentry.org/JustTalking
 A Dance with the Devil in the Pale Moonlight(Last Rite, Android, Yamata, Desolator): https://rentry.org/4gvka
 Serpentine Fire Overture (Seiryu, Honoken, Magnum Shrimp, Flamingal): https://rentry.org/dcvxso
+A Mother's Worries (Yamata): https://rentry.org/epoic
+I feel like I'm dissolving (Reaper, Big Hat): https://rentry.org/o8si2
+At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako): https://rentry.org/z2sqy
+Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp): https://controlc.com/a4a6767d / https://rentry.org/HxH-5
+The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow): https://rentry.org/bnu9t
+Faith Kang in: SummerFest Aside (Drone, Spark, Recoil, Radius, Arena): https://rentry.org/8rzuy
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

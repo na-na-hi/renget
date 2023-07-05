@@ -1318,7 +1318,7 @@ I imagined this heart pumping energy through my *metaphorical* veins and pushing
 
 A pathetic plume of purple fire shot out of my hands, about as big and powerful as a fart on a lighter and lasting only a fraction of a second before disappearing.
 
-I sighed. (Ugh, yet another failure…)*
+I sighed. *(Ugh, yet another failure…)*
 
 Sensing my frustration, KFC said, “Not bad for a first attempt. If it's any consolation, you control fire better than I can. Try it again.”
 

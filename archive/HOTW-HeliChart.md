@@ -16,9 +16,13 @@
 **Ricky W. Booth**
 "He's a kinda radio celebrity, I reckon. Chatterbox on the airwaves. He never did get back to me about that old tech he scrounged... must've found a proper buyer. Shame."
 **Hannah Ossus**
-"Heheh, oh, well, you know how it is."
+"Heheh, oh, well, you know how it is. I'd like to know her better. A lot better."
 **Karnak**
-"Another radio fella. I like the tunes but I have to pretend the talky bits are fiction to take it. Surprisin' that they're tryin' to start a war in public and no one's doin' anythin' about it. Well, I guess I'm not either. Could it be everyone just thinks it ain't their fight and waits until the next song?"
+"Another radio fella. I like the tunes but I have to pretend the talky bits are fiction to take it. Surprisin' that they're tryin' t' start a war in public and no one's doin' anythin' about it. Well, I guess I'm not either. Could it be everyone just thinks it ain't their fight and waits until the next song?"
+**Queen Bee**
+"I recognize the description but not the name. If it's the same woman, then my advice is don't smoke what she hands you and don't believe what she tells you. ...Heartbreaker and stone cold killer. An' if anyone asks, y'didn' hear none a'this from me." ˢʰᵉ ᵗᵃˢᵗᵉˢ ˡᶦᵏᵉ ᵃ ᵇᵃᵗᵗᵉʳʸ
+**Victor**
+"Oh, sure, I've seen him rollin' around. Always seems to have some kinda silly project or other. One time I saw him goin' th'other way with some dirty body, barely breathin', head wound leakin' mud. The body, not Victor. Bet you couldn't plug a hole in that boy with anythin' less than'a Ay Em Rifle and you'd still catch a rocket for yer trouble. Hey, between you 'n me? Oh-too don't like him. Says he's got *new world* comin' off him. Jus' keep it in mind."
 _____
 
 **Sasha the Snake**
@@ -52,11 +56,11 @@ _____
 **The Crew of the Argo - James / Thomas / Harrison / Jonathan / Richard**
 "Sound like scum t'me. Change the subject. Now."
 **Marcus 'Marc' Cassius Allen**
-"Who's that?"
+"I ain't tanglin' with no Soulshitter if I don't have to. Either his name is well earned or he's a kid with too much to prove and that's a bad scene either way."
 **Isha, Princess of the Verzon Tribe**
 "Dunno. Why, did you meet them?"
 **Aaron Cob A.K.A. The ANT KING**
-"I don't know them."
+"Why're you yellin'? I don't know them."
 **Brunnea "Sunny" Brown!**
 "Never seen them before."
 **Alexander S. Luthor**
@@ -71,3 +75,15 @@ _____
 "Ask somebody who's met them before."
 **Phi**
 "I don't know them."
+**Billy Kido**
+"Jus' rumors to me."
+**Dimir Leksirei**
+"Sounds like campfire tales to me."
+**David "Profit" Wiles**
+"You sayin' he's a competitor? Fine by me. Lots of things need fixin'."
+**Sir Philippe Dubois of New Orleans**
+"We ain't met but he sounds like a psycho that found a more popular excuse."
+**Tuma**
+"Fish? I'm no angler. Heard you can dynamite'em out th'water, have you tried that?"
+**Phi**
+"Yeah right. Pull th'other one, 's got bells on."

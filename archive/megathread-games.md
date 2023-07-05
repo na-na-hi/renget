@@ -1,4 +1,4 @@
--> ![](https://b.thumbs.redditmedia.com/4VFKKXEUfEF0UtUlmEjkICWDTj7wNKlza1PBLGxfiVk.png) <-
+-> ![](https://take-me-to.space/DYuwpxG.png) <-
 
 # 🎮 ➜ [Megathread](https://rentry.co/megathread) / **Games**
 

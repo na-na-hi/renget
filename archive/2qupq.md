@@ -26,5 +26,6 @@ Lv 4 | Aura Burst | ------ | Destabilizes Aura Sphere, in the palm of the hand, 
 ####Aura Mastery:
 Level | Technique | Progenitor | Effect
 :----: | :----: | :----: | :----:
+Lv 0 | Linage Connection | Bonds | Reconnect
 Lv 0 | Life Reabsorption | Force | Suicide
 Lv 1 | Frequency Attenuation | Resolve | Reduces damage and effects from attacks and items that use frequencies

@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 311 - Thick Beats Edition: https://desuarchive.org/trash/thread/57732115/
 Thread 310 - Street Fighters and Street Walkers Edition: https://desuarchive.org/trash/thread/57652550/
 Thread 309 - Pokebim's Elites Edition: https://desuarchive.org/trash/thread/57486807/
 Thread 308 - Mother Dragon Edition: https://desuarchive.org/trash/thread/57138960/

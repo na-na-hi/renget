@@ -56,11 +56,15 @@ Image| Name | Description | Link
 ### Batch 5 - Santa Lucía
 I made a lorebook with locations and a date system for these characters. Santa Lucía is a small town in Mexico. Near the beach, with a lot of history, traditions, and a tight-knit community, Santa Lucía is the perfect spot for a summer break. Points of interest include: The Costa Esmeralda Beach, the ghost town of Ek Kantún and it's abandoned hacienda, the jungle, and the adjacent city of San Alberto.
 Lorebook: https://www.chub.ai/lorebooks/donquijanon/santa-lucia/
+Also a playlist: https://www.youtube.com/playlist?list=PLZDbnO28vBNdX-q8o94b24iwnH-JxpcPo
 
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Sara Rivera](https://files.catbox.moe/lo4csn.png)| Sara Rivera | Sara is a young archaeologist who went to Santa Lucía for 40 days to learn about her passion: History. She's Gloria's older cousin and Julia's niece (Group chat compatible). Greeting 1: She struggles with her luggage. Greeting 2: She asks you for directions. | [CHUB](https://www.chub.ai/characters/donquijanon/sara-rivera/) [Catbox](https://files.catbox.moe/lo4csn.png)
 ![Andrea Balam](https://files.catbox.moe/pepov7.png)| Andrea Balam | Car-obsessed tomboy mechanic, self conscious about her body odor, specially on her armpits after a long day at the workshop. Greeting 1: Meeting her for the first time. Greeting 2: You're her childhood friend and she's laying on bed sweating. | [CHUB](https://www.chub.ai/characters/donquijanon/andrea-balam) [Catbox](https://files.catbox.moe/pepov7.png)
+![Ximena Nicté](https://files.catbox.moe/3un49f.png)| Ximena Nicté | The radio host of El Rincón Lunar. She also works at a music store. Her introverted nature made her quit her DJ career and return to her hometown. | [CHUB](https://www.chub.ai/characters/donquijanon/ximena-nicte) [Catbox](https://files.catbox.moe/3un49f.png)
+![Jessica Barrera](https://files.catbox.moe/am10nu.png)| Jessica Barrera | Spoiled rich girl and actress wannabe. Sent to her dad's hometown for 50 days to learn some manners. | [CHUB](https://www.chub.ai/characters/donquijanon/jessica-barrera/) [Catbox](https://files.catbox.moe/am10nu.png)
+
 
 ## Secret vault
 
@@ -90,6 +94,9 @@ Image| Name | Description | Link
 ![La Savanna Cafe V2](https://files.catbox.moe/ime4xf.png) | La Savanna Cafe (V2) | A catgirl maid cafe that only staffs girls 185 cms or above! Changed height limit, added alternate greeting where you're running the place, and changed the format a bit. ->![cafe2](https://files.catbox.moe/v2j6du.png)<-  |  [CHUB](https://www.chub.ai/characters/donquijanon/la-savanna-cafe) [Catbox](https://files.catbox.moe/ime4xf.png)
 ![Jenna Miller V2](https://files.catbox.moe/l5etih.png) | Jenna Miller (V2) | Depressed 28 year old retail worker. Comes with prompt and alternate greeting where you're a customer. | [CHUB](https://www.chub.ai/characters/donquijanon/jenna-miller) [Catbox](https://files.catbox.moe/l5etih.png) 
 ![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra (V2) |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero, 2. You're her sidekick, 3. She was accepted at the Villain's League, 4. You're a reporter | [CHUB](https://www.chub.ai/characters/donquijanon/black-umbra) [Catbox](https://files.catbox.moe/nrzw5c.png)  
+![Mirai and Vera](https://files.catbox.moe/rqu5y0.png) | Mirai and Vera | Mirai, the Goddess of Procrastination is sleeping when a voice over the intercom calls all Gods into the lobby. Vera, the Goddess of Cool and her best friend, needs your help to drag her out of bed. | [CHUB](https://www.chub.ai/characters/donquijanon/mirai-and-vera) [Catbox](https://files.catbox.moe/rqu5y0.png)  
+![Chlora the Kaiju](https://files.catbox.moe/kdz0e9.png) | Chlora the Kaiju | Giant Kaiju monster girl, who emerges every spring due to her heat cycle. Greeting 1: You're the hero, and you must take care of her needs. Greeting 2: You find her while hiking on the woods. | [CHUB](https://www.chub.ai/characters/donquijanon/chlora-the-kaiju) [Catbox](https://files.catbox.moe/kdz0e9.png)
+![Titan Tatiana](https://files.catbox.moe/wm1hdn.png) | Titan Tatiana |  120 m tall giantess superheroine. Greeting 1: She was called to an emergency. Greeting 2: She's going for a walk in the city. Put her in a group chat with Chlora for some fun interactions. (sex) | [CHUB](https://www.chub.ai/characters/donquijanon/titan-tatiana) [Catbox](https://files.catbox.moe/wm1hdn.png)  
 
 ## Weight gain cards (Architecture corner)
 Putting the CHUB on chub.ai

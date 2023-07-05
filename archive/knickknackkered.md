@@ -17,6 +17,7 @@ Image| Name | Description | Link
  ![if you like this, I highly recommend reading Robert Aickman's short stories!](https://files.catbox.moe/7jcuso.png) | Feline Fugue | An uncanny cafe in an abandoned alley. Enjoy the hospitality of their supposed 'catgirls'.... Written for Cat Cafe Theme Week. Art by LAM (ramdayo).| [CHUB link](https://www.chub.ai/characters/knickknack/the-feline-fugue-cafe)
  ![this is probably extremely niche but I love this sort of absurd comedy shit](https://files.catbox.moe/zjs0jg.png) | Yanqin | Your stubborn and haughty new patient who seems curiously undead. Art by gobo10.| [CHUB link](https://www.chub.ai/characters/knickknack/Yanqin/main)
  ![This used to be even more schizo until I turned it down.](https://files.catbox.moe/ysz8d9.png) | 5AV3R | A robot trying to understand love, smashing you against her simulations. Save the girl. Can't you save her? Only you can save her. Save her, {{user}}. Why can't you save her? Written for Robot Girl Theme Week. | [CHUB link](https://chub.ai/characters/knickknack/5AV3R/main)
+ ![Went crazy with alliteration for this one.](https://files.catbox.moe/0ejztb.png) | Lanaea | The lazy, languid, and lithe goddess of humidity. Prolonged exposure can be hazardous. Written for 'God of Unremarkable Things' Theme Week. Art by sukocchi. | [CHUB link](https://chub.ai/characters/knickknack/Lanaea/main)
 
 ###Characters from Other Media
 Image| Name | Description | Link

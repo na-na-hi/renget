@@ -32,10 +32,18 @@
     **- (6/28/2023):** Created Anne!
     **- (6/29/2023):** Claude is fun! Adjusted the FAQ just a little bit.
     **- (6/30/2023):** Planning to update all of my bots one by one. These includes: Fixing typos, updating first/example messages, trying out V2 stuff, etc.
+    **- (7/3/2023):** Updated Momoi from Blue Archive. I also added the Kivotos lorebook in the Blue Archive section. Credit goes to maliksusanto!
+    **- (7/3/2023):** Updated Midori from Blue Archive
+    **- (7/3/2023):** Updated Koharu from Blue Archive
+    **- (7/3/2023):** Updated Mutsuki from Blue Archive
+    **- (7/4/2023):** Happy Independance Day to all of the Americans! I had to reupdate my updated bots due to SillyTavern's new features in version 1.8.0
 
 [TOC3]
 
 ####Blue Archive
+
+Kivotos Lorebook: https://www.chub.ai/lorebooks/maliksusanto/kivotos-city
+
 #####**Arisu**
 ![image description](https://files.catbox.moe/a4akog.png)
 PNG: https://files.catbox.moe/a4akog.png
@@ -67,9 +75,9 @@ PNG: https://files.catbox.moe/l0erxl.png
 JSON: https://files.catbox.moe/l3rmd7.json
 
 #####**Koharu**
-![image description](https://files.catbox.moe/dmzqxq.png)
-PNG: https://files.catbox.moe/dmzqxq.png
-JSON: https://files.catbox.moe/8gpmj3.json
+![image description](https://files.catbox.moe/ndexas.png)
+PNG: https://files.catbox.moe/ndexas.png
+JSON: https://files.catbox.moe/q4sohq.json
 
 #####**Mari**
 ![image description](https://files.catbox.moe/3fifwu.png)
@@ -77,9 +85,9 @@ PNG: https://files.catbox.moe/3fifwu.png
 JSON: https://files.catbox.moe/zdzuy0.json
 
 #####**Midori**
-![image description](https://files.catbox.moe/8hb84c.png)
-PNG: https://files.catbox.moe/8hb84c.png
-JSON: https://files.catbox.moe/siknb4.json
+![image description](https://files.catbox.moe/oxtpoe.png)
+PNG: https://files.catbox.moe/oxtpoe.png
+JSON: https://files.catbox.moe/0xyav8.json
 
 #####**Miyu**
 ![image description](https://files.catbox.moe/5w0lco.png)
@@ -87,14 +95,14 @@ PNG: https://files.catbox.moe/5w0lco.png
 JSON: https://files.catbox.moe/7av5p1.json
 
 #####**Momoi**
-![image description](https://files.catbox.moe/tiid8o.png)
-PNG: https://files.catbox.moe/tiid8o.png
-JSON: https://files.catbox.moe/w68gkf.json
+![image description](https://files.catbox.moe/k0lzs1.png)
+PNG: https://files.catbox.moe/k0lzs1.png
+JSON: https://files.catbox.moe/mstoq8.json
 
 #####**Mutsuki**
-![image description](https://files.catbox.moe/xzgpvb.png)
-PNG: https://files.catbox.moe/xzgpvb.png
-JSON: https://files.catbox.moe/02v1s0.json
+![image description](https://files.catbox.moe/wxizld.png)
+PNG: https://files.catbox.moe/wxizld.png
+JSON: https://files.catbox.moe/nrrc3d.json
 
 #####**Natsu**
 ![image description](https://files.catbox.moe/cngeoh.png)

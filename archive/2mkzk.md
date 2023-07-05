@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/06/29-23/07/02 (yy/mm/dd)
+##23/07/06-23/07/09 (yy/mm/dd)
 
 ##Melts
 
-**THU: - at 2UTC ()**
+**THU: - at 2UTC ()** possibly parsec test with DoS rando
 **FRI: MMBN2 rando at 2UTC (Telemelt)** 
-**SAT: that rozencrusty megaman hack at 2UTC (Telemelt)**
-**SUN: Minemelt at 18UTC* (Minecraft)** * some minutes after cytube ends
+**SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
+**SUN: Boktai at 18UTC* (Telemelt*)** possibly bug/parsec if telemelt sync issues remain
 
 ##Cytubes
 
-**SAT: Rockman.exe Axess at 16UTC** Episodes 24-30 + Stream Episode 45
-**SUN: Rockman.exe Stream at 15UTC** Episodes 46-51 (end) + Stream Episode 44 (beach ep)
+**SAT: Rockman.exe Axess at 16UTC** Episodes 31-37
+**SUN: - at 15UTC**
 >-
 nothing
 

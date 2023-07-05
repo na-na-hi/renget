@@ -153,10 +153,17 @@ Make sure the `python3-venv` package is installed, delete the venv folder if it 
 
 ### Assertion failed 'Torch is not able to use GPU' or 'hipErrorNoBinaryForGpu: Unable to find code object for all current devices!'
 
-If you get a traceback with nonsense about failing an assert for CUDA, users of older video cards may have to run `export ROCM_ENABLE_PRE_VEGA=1` and retry the command. Users of newer video cards may have to run `export HSA_OVERRIDE_GFX_VERSION=10.3.0` and retry the command. Do not mix and match these environment variables. If neither work you have to install system pytorch by either downloading it from arch4edu (preferred) or compiling it yourself.
+If you get a traceback with nonsense about failing an assert for CUDA, users of older video cards may have to run `export ROCM_ENABLE_PRE_VEGA=1` and retry the command. Users of newer video cards may have to run `export HSA_OVERRIDE_GFX_VERSION=10.3.0` (6000 series) or `HSA_OVERRIDE_GFX_VERSION=11.0.0` (7000 series) and retry the command. Do not mix and match these environment variables. If neither work you have to install system pytorch by either downloading it from arch4edu (preferred) or compiling it yourself.
 
 !!!info
     To keep environment variables across sessions, you can add them to your /etc/environment and reboot.
+
+### Using two different generation AMD video cards
+
+You can't do both at the same time if you're using a HSA override. You have to select which one to use like this
+`$ CUDA_VISIBLE_DEVICES=0 HSA_OVERRIDE_GFX_VERSION=11.0.0 python3`
+`$ CUDA_VISIBLE_DEVICES=1 HSA_OVERRIDE_GFX_VERSION=10.3.0 python3`
+Here device 0 is a 7900xt and device 1 is a 6900xt. i.e. GFX 10.3.0 for gfx1031 and GFX 11.0.0 for gfx1100.
 
 ### Exception: GFPGAN model not found in paths
 

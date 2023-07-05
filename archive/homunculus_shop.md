@@ -38,10 +38,10 @@
 
 ***
 
-### Latest Boy: Dipper Pines
-"Pinetree..." ==Safe==
-Card: [Dipper Pines](https://cdn.discordapp.com/attachments/975298937563000852/1121708718292221962/Dipper_Pines.card.png)
-JSON: [Dipper Pines](https://files.catbox.moe/7mlyw9.json)
+### Latest Boy: Asher
+"A young boy who also happens to be a "deadly" vampire. He isn't one to trust others easily but can be convinced with enough effort." ==Safe==
+Card: [Asher](https://cdn.discordapp.com/attachments/975298937563000852/1125745181824655424/Asher.card.png)
+JSON: [Asher](https://files.catbox.moe/3xp5f8.json)
 
 Or download his card/JSON file below!
 
@@ -74,6 +74,7 @@ Card | JSON Link | Description | Rating
 ![Damian Crann](https://cdn.discordapp.com/attachments/975298937563000852/1119391887363690597/Damian_Crann.card.png)   | [Damian Crann](https://files.catbox.moe/8oabm1.json)   | "A gloomy student at Boysenberry Middle School."   | ==Safe==
 ![Beau](https://cdn.discordapp.com/attachments/975298937563000852/1121343804797096036/Beau.card.png)   | [Beau](https://files.catbox.moe/f9yu5a.json)   | "A young boy living his best life alone. Also, boat."   | ==Safe==
 ![Dipper Pines](https://cdn.discordapp.com/attachments/975298937563000852/1121708718292221962/Dipper_Pines.card.png)   | [Dipper Pines](https://files.catbox.moe/7mlyw9.json)   | "Pinetree..."   | ==Safe==
+![Asher](https://cdn.discordapp.com/attachments/975298937563000852/1125745181824655424/Asher.card.png)   | [Asher](https://files.catbox.moe/3xp5f8.json)   | "A young boy who also happens to be a "deadly" vampire. He isn't one to trust others easily but can be convinced with enough effort."   | ==Safe==
 
 ***
 ###Suggest Stuff!

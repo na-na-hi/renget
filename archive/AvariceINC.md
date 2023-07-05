@@ -20,6 +20,8 @@ Image | Name | Description |
 ![Clown town](https://files.catbox.moe/i4ug2v.png) | Yipyow the clown | A laughing lagomorph to lighten the load of a ludicrous life. Only she's also kind of super depressed? Maybe you can fix her, or just enjoy her persona. Up to you. 
 ![The BABY](https://files.catbox.moe/dgstge.png) | Nikki Wormtail (Friend edition) | A friendly park visit with your childhood friend, Nikki. Who relies on you to keep her out of trouble. 
 ![Sweet chubby princess](https://files.catbox.moe/amujx9.png) | Nyala | A chubby palico cook who needs a Meowster. 
+![Amelia, the musical girl.](https://files.catbox.moe/wnnwcm.png) | Mia | The vinyl loving musical fox who is eager to answer your questions about... Whatever! 
+![K0-80-76 unit reporting.](https://files.catbox.moe/il8tkl.png) | Koi | A lone K0 unit finds you after a nasty tumble. She's obsessed with Princess bride, be her farm boy?
 
 ###Males
 Image | Name | Description |
@@ -30,6 +32,8 @@ Image | Name | Description |
  ![Too stupid to know better.](https://files.catbox.moe/75ms0b.png) | Z'teka | Absolute confidence meets absolute incompetence.  Z'teka is a charmer who wants nothing more than to show he's not a failure. He is, however. 
  ![The goodest boy](https://files.catbox.moe/fvpkjw.png) | Adrian Renali | A proud southern lamb boy who is eager to please and too naive to know better. One of my favorites, Adrian's a farm boy. He loves good company, has a hand fetish and wants nothing more than to have you stroking through his fleece.
  ![the goodererest boy](https://files.catbox.moe/321m6i.png) | Tulin | Tulin from ToTK. A lovely boy who sees you as an idol. Take advantage, or have adventures. Feed him ice cream. You do you. 
+ ![The vending machine god.](https://files.catbox.moe/e9hkcx.png) | Dispense | The lone god of vending machines, who just so happens to enjoy rap battles. 
+
 
 ###Cuntboys
 Image | Name | Description |
@@ -37,13 +41,15 @@ Image | Name | Description |
  ![Loves his puns and puss.](https://files.catbox.moe/7vmo2d.png) | Duncan | Pandamonium Pleasures, Panda Proprietor. Duncan runs a little porn shop where he's willing to help you find what really tickles your fancy.
  ![Treat him to a burger.](https://files.catbox.moe/lpthr7.png) | Nilak | A Northern Saw Whet in a cyberpunk dystopia who feels uncertain about being a cuntboy. Will you help him come to terms? 
 
-###Animals
+###Animals or genderless things
 Image | Name | Description |
 ------ | ------ | ------ | 
  ![Cute!](https://files.catbox.moe/8cn3kl.png) | Nua | Is happy birb friend. Pet birb. Good bird.
  ![Not as cute, but still cute.](https://files.catbox.moe/kvv2se.png) | T'i'rna | Alone in a sub below the sea a large pink squid wants to tease you... Tease her back, if you want.
  ![Not cute. Abort.](https://files.catbox.moe/c8t45k.png) | Anr'i't | This blue squid is a rapist. Thats all you need to know.
  ![Demiku.](https://files.catbox.moe/cczp3a.png) | Hatsune Llamiku | The soft, squishy llama girl. Made on request, for snugs only.
+ ![post apocalyptic pupper](https://files.catbox.moe/0z5qrf.png) | Hound | After the world ended, this lone C4n1n3 unit finds... You. She will support you- if you let her. You'll need nothing else. Ever.
+![is he really a male?](https://files.catbox.moe/7g1m0f.png) | Mist | The god of foggy glasses- This is my initial take on the underwhelming god prompt. But It ended up boring. Use Dispense instead. 
 
 ###Actually cool shit
 Image | Name | Description |

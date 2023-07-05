@@ -4,20 +4,20 @@ burner: acuteanon@proton.me
 
 Cards:
 
-Mario & Luigi: https://www.chub.ai/characters/CuteAnon/mario-and-luigi/main
-Paper Mario: https://www.characterhub.org/characters/Anonymous/paper-mario
-Fox McCloud: https://www.chub.ai/characters/CuteAnon/fox-mccloud
-Black Mage: https://www.chub.ai/characters/CuteAnon/black-mage/main
-Murasa Minamitsu: https://www.characterhub.org/characters/Anonymous/murasa-minamitsu
-Starborn: https://www.characterhub.org/characters/Anonymous/Starborn
+Mario & Luigi: https://files.catbox.moe/4f6hxr.png
+Paper Mario: https://files.catbox.moe/mhp6ed.png
+Fox McCloud: https://files.catbox.moe/550puu.png
+Black Mage: https://files.catbox.moe/ngx5gr.png
+Murasa Minamitsu: https://files.catbox.moe/rbw7gx.png
+Starborn: https://files.catbox.moe/povy24.png
 
 Direct C.AI ports:
 
-Super Mario: https://www.characterhub.org/characters/Anonymous/super-mario
-Donkey Kong -kart-: https://www.characterhub.org/characters/Anonymous/donkey-kong-kart
-Shy Gal: https://www.characterhub.org/characters/Anonymous/shy-gal
-Doremy Sweet: https://www.characterhub.org/characters/Anonymous/doremy-sweet
-Punished Reisen: https://www.characterhub.org/characters/Anonymous/punished-reisen
+Super Mario: https://files.catbox.moe/c68m8x.png
+Donkey Kong -kart-: https://files.catbox.moe/ct2dtw.png
+Shy Gal: https://files.catbox.moe/m7am48.png
+Doremy Sweet: https://files.catbox.moe/j34s8n.png
+Punished Reisen: https://files.catbox.moe/mbuhku.png
 
 
 Old character.ai links:

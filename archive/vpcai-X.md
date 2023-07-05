@@ -2,6 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+July 03rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 June 8th | Gloria & Marnie (Couple) [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 May 24th | Jessie (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher) \| Mallow (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
 May 20th | Wicke [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke) \| Hex Maniac Helena (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
@@ -20,8 +21,10 @@ Characters | URLs
 **Shelly** (RSE)| [Catbox](https://files.catbox.moe/vtppmt.json) Pygmalion .json
 **Gardevoir** | [Booruplus](https://booru.plus/+pygmalion984) & [Chub](https://www.characterhub.org/characters/LizakJaye/Gardevoir/main)
 **Dawn** | [Booruplus](https://booru.plus/+pygmalion1716) & [Chub](https://www.characterhub.org/characters/LizakJaye/Dawn/main)
-**Cynthia** | [Booruplus](https://booru.plus/+pygmalion970) & [Chub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
+**Cynthia** ① | [Booruplus](https://booru.plus/+pygmalion970) & [Chub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
+**Cynthia** ② | [Chub](https://www.chub.ai/characters/winkyd/Shirona) 
 **Hilda** | [Booruplus](https://booru.plus/+pygmalion1028) & [Chub](https://www.characterhub.org/characters/LizakJaye/Hilda)
+**Elesa** (e-Bully) | [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 **Rosa** | [Chub](https://www.characterhub.org/characters/Freeter/Rosa)
 **Lisia** | [Chub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 **Mallow** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card

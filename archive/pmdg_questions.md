@@ -8,7 +8,6 @@
 >Why do Pokemon choose to sleep on piles of hay? Are their bodies hardy enough that they don't mind the discomfort? Is it a traditional/cultural sort of thing?
 >How would you react if you encountered a feral member of your own species in a dungeon?
 >Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
->If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
 >Is it common to travel across the world to different continents, or do most Pokemon stay on their home continent for their whole lives?
 >Are legendaries worshipped like gods?
 >Do prosthetics exist in the PMD world? And if so, are they just simple peg legs and hook hands or would they have some more advanced stuff, like a hand with working fingers?
@@ -17,7 +16,6 @@
 >What meat-related foods would you miss the most if you became an herbivorous Pokemon?
 >What plant-related foods would you miss the most if you became a carnivorous Pokemon?
 >Pokemon come in many sizes. What scale do they use for buildings and other structures? Do they scale the buildings to smaller Pokemon (which are more common), with the downside being that big Pokemon can't fit? Or do they make oversized buildings to try and accommodate all Pokemon?
->Do Ice-types enjoy cold food? Do they ever get brain freeze?
 >Do Fire-types enjoy spicy food? Do they have a higher tolerance for it?
 >Do you think most towns have their own school, like Serene Village does? Are there any full-on universities for advanced studies, or just basic schoolhouses that teach the basics?
 >How would native Pokemon react if you told them their whole world was just a video game? And would you choose to tell them that in the first place, or keep it a secret?
@@ -28,6 +26,10 @@
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
 
+>If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
+>If your partner ends up being your least favorite Pokemon, how would you deal in that situation?
+>Do Ice-types enjoy cold food? Do they ever get brain freeze?
+>Do you savescum if you lose?
 
 >Are Pokemon pigeonholed or typecast into careers based on their species? For example, are all Hitmonchan expected to become martial artists?
 >At some mystery dungeons, there is money and treasure. Once they are claimed, do treasures "respawn" or "restock"? If not, where did it all come from in the first place, or were the items just warped from somewhere else?

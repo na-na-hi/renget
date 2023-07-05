@@ -87,6 +87,13 @@ Meme eratoho bot. Technically v3. First two versions are on my [friends chub acc
 *Yuuka shrugs, the name of this scenario clearly as nonsensical as the features it contains. But that just adds to the charm, doesn't it?*
 ```
 
-[DL](https://files.catbox.moe/jeatsx.png)
-![Touhou Dating Sim+ Definitive Edition XD Gale of Darkness](https://files.catbox.moe/jeatsx.png)
+[DL](https://files.catbox.moe/9yl7oh.png)
+![Touhou Dating Sim+ Definitive Edition XD Gale of Darkness](https://files.catbox.moe/9yl7oh.png)
 Use [THIS LOREBOOK](https://www.chub.ai/lorebooks/hebelover/Touhou-AkyuuKnowledge)
+(I'd recommend you remove the maps, love hotels, and tutorial from the description. Then remove all the maps and tutorials in example messages. Just to save some tokens.)
+
+###Sanctify
+Test RPG bot. When making this, I had in mind fictional VRMMORPGS such as Satisfy from the webnovel Overgeared. Came out better than expected.
+
+[DL](https://files.catbox.moe/m2m0qj.png)
+![Sanctify](https://files.catbox.moe/m2m0qj.png)

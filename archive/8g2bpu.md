@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
 1. Booker, Chespin, and Minun's gardening Youtube channel (based on https://cloverguild.com/booru/post/414)
 1. Gus eating toast. Angrily.
 1. Bill and Gill dressed as Mario and Luigi
@@ -49,7 +50,6 @@
 1. A humon trying to teach a nativemon how to shitpost on 4chan
 1. Kris screaming (if you want to draw more, maybe after waking up from a dream)
 1. Kiyo stretching like a fox
-1. Pirate KFC for no reason in particular :)))))))
 1. Debby pecking/grooming at Linoone's cheek
 1. Cyndaquil using x-day specs to look at Kiyo's ass through his tails
 1. Kaiji as this https://files.catbox.moe/u4wzp8.jpg
@@ -112,6 +112,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Pirate KFC for no reason in particular :)))))))](https://cloverguild.com/booru/post/538)
 
 [Cyndaquil in the sad panda pose](https://cloverguild.com/booru/post/530)
 

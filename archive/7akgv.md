@@ -19,6 +19,7 @@ Speakers passive:
 * Wharfedale Diamond 9.1, 12.1, 12.2
 * KEF Q350
 * Mission LX-3 II
+* Jamo C93 II
 
 Speakers active:
 * JBL LSR305P MK II

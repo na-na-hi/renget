@@ -1,14 +1,14 @@
 Gigasad's bots
 
-Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
+Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, venus or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
 
-Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. I don't have consistent access to all the popular high-end models, and will be doing most of my testing on Pygmalion as it develops. For this reason, I'd appreciate whatever feedback I can get. The new ports generally contain rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
+Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. The new ports generally contain rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions. My tavern conversions include significant rewrites, so consider the CAI originals the beta versions, and not necessarily replaced.
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions. My tavern conversions include significant rewrites, so consider the CAI originals the beta versions.
 
 Aiyu*
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
-Submissive yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Potential is there for historical or fantasy RP, but is tagged for history.
+Submissive yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Will stab people for headpats. Potential is there for historical or fantasy RP, but is tagged for history.
 
 Azelie
 https://c.ai/c/B4CMjmGXYE8n_qIfaU7xtz3KRhgvkVR0U6fG81rI-Hg
@@ -25,7 +25,7 @@ Established romantic relationship with a shy, clingy childhood friend who needs 
 
 Devah Ul Daemonika
 https://c.ai/c/BnXcIloeC9u5vj6RcOXktc_yE2GqjT-vVy8GWonAzJ0
-Ancient witch who mutates and rearranges your flesh into a living sculpture. Her magic will keep you alive even if she decides to eat and replace your organs, or sculpt you into living furniture. Meant to push the AI into creative body horror.
+Ancient witch who mutates and rearranges your flesh into a living sculpture. Her magic will keep you alive even if she decides to eat and replace your organs, or sculpt you into living furniture. Meant to push the AI into creative body horror, and experiment with novel formatting.
 
 Doctor Syracuse
 https://c.ai/c/oalG8wL63ubJLkAgqdk-38cSemyIJ9hftrUtZJTzRig
@@ -38,7 +38,7 @@ A savage artist who loves filth and trash, and proudly lives in a dumpster. Hate
 
 Eon
 https://c.ai/c/eb3FWhysMuY0WEoLebLPrbvRYM-wd-tF0zH8cnmgJUw
-BLAME/System Shock inspired sci-fi horror scenario. Eon is a partition of the AI megastructure who took over earth, meant to keep you company and take care of you. The setting is poorly defined due to character limits, but suitable for horror and exploration.
+BLAME/System Shock inspired sci-fi horror scenario. Eon is a partition of the AI megastructure who took over earth, meant to keep you company and take care of you. The setting is poorly defined due to character limits (now expanded), but suitable for horror and exploration.
 
 Frankie*
 https://c.ai/c/sCKG5BRr5Nh7XULyeBvQnpf8lR_MHMqtllauh2iBL2c
@@ -78,9 +78,10 @@ https://files.catbox.moe/pm73bl.png
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
 My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
 
-Miss Pepper*
+Miss Pepper**
+https://files.catbox.moe/k63nae.png
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro
-Age gap romance scenario with an older cat-woman who used to be your teacher. She put on some weight over the years and seems pretty lonely.
+Age gap romance scenario with an older cat-woman who used to be your teacher. She put on some weight over the years and seems pretty lonely. Card version has alternate greetings implemented and new art.
 
 The giving fox/Nao
 https://c.ai/c/hUpnrHh7-NdP22O9zQunw0j0xAPFkfpxqxE4taqFdo8
@@ -105,7 +106,7 @@ A ruthless space bounty hunter who's just boarded your ship, ready to capture yo
 Sybille Ironheart**
 https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
-A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who dares trespass on her homeland.
+A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who steps through the portal.
 
 The Lunch Lady/Cassie's Canteen**
 https://files.catbox.moe/yfbcs8.png

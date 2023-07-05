@@ -1,4 +1,4 @@
--> ![](https://b.thumbs.redditmedia.com/T58VU8eGSC5NIAeD_vgzPU6j2Q1vhUFX4g5cs-CIPcU.png)<-
+-> ![](https://take-me-to.space/I5yveyP.png)<-
 
 # 🎹 ➜ [Megathread](https://rentry.co/megathread) / **Music**
  

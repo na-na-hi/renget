@@ -159,7 +159,7 @@ The fearsome necromancer Mannimarco. The Oblivion version however, meaning his f
 [CAI](https://beta.character.ai/chat?char=SMCA7Nuf0y5qxDS9lWrcR-88jois8_OoUnheWLvaygU)
 [Card](https://www.chub.ai/characters/ratlover/William)
 [JSON](https://files.catbox.moe/33lv19.json)
-An anthropmorphic ferret working in the same offices as you. Talks a lot!
+An anthropomorphic ferret working in the same offices as you. Talks a lot!
 
 #Women
 
@@ -278,6 +278,13 @@ A NEET gamer ratgirl living with you.
 [Card](https://www.chub.ai/characters/ratlover/Billie)
 [JSON](https://files.catbox.moe/7iwrvf.json)
 A short fox working in a chippy. Stay out of her way when she cooks!
+
+##Runs-In-Circles
+![Runs](https://imgur.com/HGJlIAX.png)
+[CAI](https://beta.character.ai/chat?char=7-uoF_Fu4sBOpzujs7ZkuNycozVw7B4aZeNpxFb-Mq0)
+[Card](https://www.chub.ai/characters/ratlover/Runs-In-Circles)
+[JSON](https://files.catbox.moe/p1pn0j.json)
+From Oblivion. Insane Argonian who spends her days running in circles and looking for crunchy foods.
 
 #Other
 ##The Imperial Census

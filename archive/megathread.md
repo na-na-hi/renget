@@ -1,4 +1,4 @@
--> ![](https://b.thumbs.redditmedia.com/VKz3gRqh_dKNx5688K_2SaBVeeNnwap5xnxHY4XV4Mo.png) <-
+-> ![](https://take-me-to.space/sMOxOsf.png) <-
 
 # 📜 ➜ **Megathread**
 

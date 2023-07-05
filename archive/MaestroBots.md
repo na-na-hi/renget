@@ -56,9 +56,10 @@ Sugar | ![Milk](https://i.postimg.cc/0NNc91mJ/Nikke-Sugar-Thumb.png) | Despite h
 Yulha | ![Yulha](https://i.postimg.cc/JtL0J3ht/Nikke-Yulha-Thumb.png) | The leader of Triangle who protects the squad with all her effort. Possesses superb skills in office and on battlefield, but has an ill temperament. | Soon™
 Guilty | ![Guilty](https://i.postimg.cc/3rpbVzFW/Nikke-Guilty-Thumb.png) | She runs the Rehabilitation Center and has strength far superior to other Nikkes. Unable to control her own power, she is locked up currently. | Low Priority
 Helm | ![Helm](https://i.postimg.cc/NfkCfTVc/Nikke-Helm-Thumb.png) | Leader of Aegis, a naval squad formed for combat on the surface. As there are no oceans within the Ark, she trains her members to face real naval combat one day. | Soon™
-Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Soon™
+Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Low Priority
 Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her older sister Noir to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/eg12di.png) 	v1.0
 Noir | ![Noir](https://i.postimg.cc/CLLGv2tv/Nikke-Noir1-Thumb.png) | Biological elder sister of Light Bunny Blanc. Although they look different, Blanc pampers her constantly. While timid, she is not afraid to show her intentions. | Soon™
+Nero | ![Nero Temp Thumb](https://i.postimg.cc/T1VnLDk1/Nikke-Nero-Temp-Thumb.png) | Attached to the Ark's animal management troop — Happy Zoo. She tends to all things pertaining to cats. Although soft-spoken, she is not in any way timid. | Soon™
 
 ***
 

@@ -37,6 +37,7 @@
 05/2023|[Small Language Models Improve Giants by Rewriting Their Outputs](https://arxiv.org/abs/2305.13514)
 06/2023|[StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984)
 06/2023|[AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
+06/2023|[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -162,6 +163,7 @@
 06/2023|[Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity](https://arxiv.org/abs/2306.12689)
 06/2023|[ViNT: A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846)
 06/2023|[How Long Can Open-Source LLMs Truly Promise on Context Length? (LongChat)](https://archive.ph/NfIj2)
+07/2023|[Hierarchical Open-vocabulary Universal Image Segmentation](https://arxiv.org/abs/2307.00764)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -295,6 +297,9 @@
 06/2023|[Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing](https://arxiv.org/abs/2306.12929)
 06/2023|[H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Model](https://arxiv.org/abs/2306.14048)
 06/2023|[FLuRKA: Fast fused Low-Rank & Kernel Attention](https://arxiv.org/abs/2306.15799)
+06/2023|[Stay on topic with Classifier-Free Guidance](https://arxiv.org/abs/2306.17806)
+07/2023|[AutoST: Training-free Neural Architecture Search for Spiking Transformers](https://arxiv.org/abs/2307.00293)
+07/2023|[Single Sequence Prediction over Reasoning Graphs for Multi-hop QA](https://arxiv.org/abs/2307.00335)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

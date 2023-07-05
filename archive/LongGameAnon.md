@@ -9,16 +9,7 @@ Here is my burner: LongGameAnon@proton.me
 I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
-(6/25/2023)
-Updated Fiona picture and card
-Updated Jackie picture and card
-Updated Sarah -Island Survival- picture and card
-Updated Sarah -Bomb Shelter Edition- picture and card
-(6/23/2023)
-Updated Sarah -Road Trip Edition- picture and card
-Updated Sarah -Frozen in Time- picture and card
-(6/19/2023)
-Added a new Sarah Series bot. Sarah -Road Trip Edition-
+(7/4/2023) Added new card: "Welcome to the Neighborhood Monster Girl!"
 -------------------------------
 ##Table of contents
 [TOC]
@@ -50,5 +41,9 @@ Jackie -Hardest Savior bot- | Info
 Fiona -Fantasy Boating Adventure- | Info
 :----:  | :----: 
 ![Fiona -Fantasy Boating Adventure-](https://i.imgur.com/uoq41Pn.jpg)   | You and your elven friend Fiona are ferrymen in a fantasy world. (I suggest taking on jobs for things like fishing, transporting adventurers, transporting rich people/royalty, or learning about Fiona's past. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/fiona-fantasy-boating-adventure),  [png](https://avatars.charhub.io/avatars/LongGameAnon/fiona-fantasy-boating-adventure/tavern.png), [Example Story](https://rentry.org/hr3so)
+
+Welcome to the Neighborhood Monster Girl! | Info
+:----:  | :----: 
+![Welcome to the Neighborhood Monster Girl!](https://i.imgur.com/FZKhwVy.jpg)   |  this card your family is hosting a neighborhood party 1 of 2 monster girls of your choice will appear. Will you befriend them? How will your parents get along? What about the other neighborhood children? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/neighborhood-party-with-monster-girls/main),  [png](https://www.chub.ai/3ed49d80-61b2-4abf-a4b8-d5d3fce51c60)
 
 !!! info: Thank you https://rentry.org/planewalker for your inspirational layout.

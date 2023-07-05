@@ -25,6 +25,8 @@ So, without further ado... I present this work-in-progress anthology of short st
 
 ####Sorbet
 
+(Published 5-28-23)
+
 -> https://www.youtube.com/watch?v=C-84hnlrbys ->
 -> (BGM: The Sun Can Bend an Orange Sky) ->
 
@@ -97,6 +99,137 @@ I chuckled and scooped up another chunk of the dessert. “Yeah, yeah, I was kid
 
 -> * * * <-
 
+
+
+####Flowers
+
+(Published 7-4-23)
+
+-> https://www.youtube.com/watch?v=y816GnoUKJY ->
+-> (BGM: Splash of Color) ->
+
+I hadn’t planned to sleep in the garden, but I must have dozed off, because I was suddenly woken up by the creaking of a gate. I sat upright on my large cluster of blue hydrangeas—my impromptu bed—and looked around to get my bearings as my drowsiness wore off.
+
+The afternoon sun still shined brightly up above, so I could tell I hadn’t drifted off for long. The guildhall loomed not too far away, and my partner Sneasel sat by the pond nearby, practicing using her elemental powers to form ice shards in different shapes. The garden around us was filled with planter boxes and flowerbeds that hosted a wide variety of foliage, mainly flowers of many species and colors, alongside an array of berry bushes. A complex mix of pleasant floral scents filled the air, making my antennae flick and wave about on their own. Cobblestone paths weaved through it all, and wooden poles stood at attention in various spots, each bearing an unlit lantern.
+
+The unexpected sound of the gate was the only thing that broke the tranquility. Having slipped fully out of my slumber, I looked in the gate’s direction. Sneasel was doing the same, absentmindedly clawing at a chunk of ice while looking over her shoulder. From where I sat, I couldn’t see the gate itself, but I vaguely sensed two unfamiliar Auras approaching. I wondered who was coming. The anxious part of me believed they were intruders or troublemakers, but I tried to ignore that fear.
+
+I got my answer soon enough, and it was not as bad as I had thought: a Minun and Raichu came walking down the path, each carrying a metal watering can and wearing a Clover Guild badge. Sneasel and I had seen these Pokemon once or twice before, but never talked with them. They were new recruits to the guild, so nobody was too familiar with them yet. Minun wore a white lace collar and had a white pansy tucked behind her ear, while Raichu wore a simple blue bandanna around his neck, almost the same shade as Sneasel’s bandanna or the waist cape hanging from the back of my belt.
+
+As they came into view, Sneasel turned around fully and waved. “Sup?” she said. “You’re the new guys, huh?”
+
+“Oh, yeah, we are,” Minun said. “I don’t think we’ve met. You can just call me Minun, and this is my partner Raichu.”
+
+“Call me Sneasel.” Pointing over at me, Sneasel added, “And that there’s my buddy, Booker. We’re partners too.”
+
+The Electric-type duo looked to where Sneasel was pointing. “Huh?” Minun asked. “I don’t see...”
+
+She gasped as she finally noticed me, the tiny Ribombee sitting among the flowers. She scurried over with a gleam in her eye and a huge grin on her face. On my perch, I was about eye level with her. I gulped and shied away as her excited (and big) face filled most of my view.
+
+“Oh, hi!” she said. “I didn’t see you there! Oh my gosh, you’re so cute! You’re a Ribombee, right?”
+
+“Um, I... y-yes,” I stammered. “N-nice to m-meet you.”
+
+“Settle down, Minun,” Raichu said, coming to his partner’s side. He looked down at me, completely unaffected by my admittedly adorable appearance. “You’re scaring the guy.”
+
+“Sorry, I just can’t help it,” she said to her partner. “But you’ve gotta admit he’s cute, right?”
+
+“Sure,” he said flatly, “but I won’t freak out over it. C’mon, we’ve got work to do. Talk to you later, Booker.”
+
+Taking his can, he went to the pond, scooped up water, and began watering the various bushes scattered around.
+
+Minun sighed and looked back at me. She took a step back to give me more space, saying, “Sorry if I made you nervous.”
+
+“I-it’s okay,” I said. “It’s n-not your fault. I’m just... shy. Never liked hav-having attention on me.”
+
+“I understand,” said Minun. Like her partner, she hurried to the pond and filled her can, then came back to my hydrangea bush. She carefully watered it, examining the flowers and continuing to talk with me. “I’ve only visited this garden one time before this, but I loved it. It convinced me and Raichu to sign up as gardeners. So that’s why we’re out here.”
+
+“Th-that’s nice,” I said. I looked down at the globe of blue flowers under me and gave it a pat. “The garden could always use more c-caretakers. You know, I... I helped Team Cozy put this together. Well... i-it was mostly them. I couldn’t really do much, because I’m, uh... so small.”
+
+“Oh, don’t say that,” Minun said. “Every little bit counts, right?”
+
+“I g-guess so...”
+
+Minun smiled. “Exactly. Chin up! Thanks for helping make the garden, Booker. You three did a great job. Hey, Team Cozy is the Chespin and Wooper, right? I bumped into them before, but I didn’t know they made the garden. I should go thank them later.”
+
+“Yeah, th-they’re Team Cozy. Like I said, they did most of the work, but I’m happy I could help out. I’m... I’m glad we made this garden. It’s a nice place, and the berries we grow here are useful in dungeons.”
+
+“And in cooking, I bet,” said Minun.
+
+“True. I prefer the flowers, though. They’re... really pretty. I never used to care for flowers, but now I can’t get enough of them. In fact, this garden is my favorite spot. I like coming here to relax. After the big Federation quest a while back, I spent a whole day just lying here and unwinding. It’s soothing to be around so much beautiful nature.”
+
+“Now you’re speaking my language,” Minun said with a grin. She had moved to the right of my bush, where a multicolored group of lilies were growing. She was examining the white ones intently. “Ooh, these are so elegant. White lilies are some of my favorite flowers. Tiger lilies are great too. They remind me of Raichu. But he prefers more the common, simple flowers like daisies. How about you, Booker?”
+
+“I like them all, honestly,” I replied. “I can’t pick a favorite. Probably because I’m a bug—it’s just instinct, I guess.”
+
+“I heard some bugs can eat flower nectar and pollen, right? Do you do that?”
+
+“Yeah, I do. I can eat other foods, but pollen and nectar are my natural diet, so I have to be careful about straying too far from it, or else I’ll get sick.”
+
+Minun’s ears drooped slightly. “Oh... so you have a really limited diet, huh? That’s too bad.”
+
+“Actually, it’s okay. Every flower has a unique flavor, and it’s fun to try lots of different ones. Especially if they’re rare or foreign.”
+
+“Rare flowers are cool,” Minun said. “Well, then... for both our sakes, I hope we can get many more flowers in our garden! It’ll be lovely for everyone to look at, and you’ll get some tasty treats too.”
+
+I nodded. As I did, I realized with a start that I was smiling. How long had I been doing that? I wasn’t sure, but it was clear that this casual chat was improving my mood. I usually had great trouble talking to new people, always worried I’d say the wrong thing or make a fool of myself. But now, I felt so relaxed. Was it simply because Minun was being friendly? Or because the topic was something I cared about? Either way, it was a welcome change of pace, and it made me smile even more.
+
+Minun had now moved to the next patch of flowers, looking them over as she watered them. After a bit, she asked, “Booker, do you mind if I take a few flowers for my herbarium?”
+
+“Herbarium?” I repeated. “That’s a book where you dry and press flowers, right? You have one of those?”
+
+“Yeah, and it’s coming along well. I haven’t added any flowers from the guild’s garden yet, though. I wanted to ask permission first. And since you helped make the garden, I guess you have authority, right?”
+
+“I’m not sure about that, but... I don’t think anyone would mind if you took some flowers here and there. This is everyone’s garden, after all.”
+
+“Thanks! I’ll search for some pretty ones later.”
+
+“Good luck. Oh, and about your herbarium... do you think you could show it to me sometime? I’d love to see what you have in there!” I caught myself getting a bit excited, and cleared my throat. “Um... if it’s okay with you, of course.”
+
+Minun giggled, saying, “Definitely! It’s in my dorm. Maybe you can swing by later today, if you’ve got time.”
+
+“I think I can do that. Sneasel and I already did a mission today, so we have the rest of the day off. Thanks, Minun.”
+
+“Anything for a fellow flower lover! Anyway, I’ve gotta water the rest of these plants. Raichu’s probably done five times as much as me—he works fast.”
+
+“Please don’t rush,” I said. “Enjoy your time in the garden.”
+
+“I will,” said Minun. Giving me a wink, she said cheerily, “See you, Booker!”
+
+I waved goodbye, and off she went, continuing her work. Once she was out of sight, Sneasel came over and crouched in front of me.
+
+“Made a new friend, huh?” my partner asked.
+
+“Yeah,” I replied. “She seems friendly. And it’s nice having someone else who appreciates flowers.”
+
+Sneasel gave a slight frown. “When you put it like that... do you mean you’re upset that I don’t like flowers?”
+
+“No, definitely not!” I said quickly. “That’s totally fine. To each their own. I actually think it’s cool that we have such different interests, and we still manage to be such great partners.”
+
+“Yeah, you’re right. Good way of looking at it.”
+
+The two of us went quiet and spent a little while basking in the peaceful garden, so full of beautiful flowers. Some distance away, we could see Raichu’s long tail waving around above a berry bush. The faint sounds of him and his partner chatting drifted over to us.
+
+“Y’know, I noticed you acting different with Minun,” said Sneasel. “You were talking a lot more... casually. And you didn’t stutter much either. You weren’t nervous like you usually are with new people.”
+
+I nodded. “Yeah. I noticed that too.”
+
+“Good for you. I’m proud of you.”
+
+I glanced away sheepishly and murmured my thanks. “I think... I think it was because we were chatting about something we both enjoy. It felt... good.”
+
+Sneasel started to say something, but then paused and began avoiding eye contact for some reason. “Um... y’know, anytime you wanna chat about flowers, and Minun ain’t around... feel free to talk with me. I may not be a big fan of flowers like you and her, but I’ll lend an ear anyway. I mean, I... I do enjoy chatting with you.”
+
+“Oh, thanks,” I said. “I like talking with you too. I’ll take you up on your offer sometime.”
+
+“Cool. B-but don’t tell anyone about it, alright? If they heard I was talking about something lame and cutesy like flowers, I’d never live it down.”
+
+I chuckled and nodded. With that, Sneasel went back to the pond to resume her ice practice. I sighed and flopped onto my back, lying on the soft blue hydrangeas and staring up at the clear blue sky. Another smile crossed my face.
+
+“I’m so, so glad we made this garden.”
+
+
+-> * * * <-
 
 
 ####Author’s Note

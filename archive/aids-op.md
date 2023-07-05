@@ -3,7 +3,7 @@
 ![suggested OP image](https://files.catbox.moe/96pa4k.jpg)
 Harvest Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>435336087
+Last thread: >>436348751
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -24,23 +24,23 @@ For AI Roguelite, voice, full avoid list & more: https://rentry.org/aids-alts
 
 ▶https://rentry.org/aids-op
 
-▶/aids/ Events
-https://aidsrentfree.github.io/decks
-Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Post-Apocalypse Friday is over; enjoy the wastewild anchors! >>434846938 >>434876770
- 
-▶News
-(06/20) Saga takes testers for GPT-4 and Turbo 16k (?)
-(06/19) Venus/Chub launches a 40b Falcon finetune subscription https://venus.chub.ai/mars
-(06/18) UPDATE: Miraheze might not die? https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down
-(06/16) Scale Endpoint Moderation disabled, standard OAI rules apply.
-(06/13) Turbo gets 16k context, tightens smut filters https://openai.com/blog/function-calling-and-other-api-updates
-
 ▶Tools & Resources
 Wiki: https://aids.miraheze.org/wiki/Main_Page
 Booru: https://booru.plus/+aids
 NAI Cardmaker: https://grotar00.itch.io/nai-card-editor
 Prompts: https://aetherroom.club
+
+▶/aids/ Events
+https://aidsrentfree.github.io/decks
+Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
+\> The winner of the Theme Friday poll is Text Adventure/Infinite Zork! It is pitch black. You are likely to be eaten by a grue. >>435772539
+ 
+▶News
+(06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind... >>436140401 >>436140937 >>436141853
+(06/23-25?) Local got high context, Laptops need not apply.
+(06/20) Saga takes testers for GPT-4 and Turbo 16k (?)
+(06/19) Venus/Chub launches a 40b Falcon finetune subscription https://venus.chub.ai/mars
+(06/18) UPDATE: Miraheze might not die? https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down
 
 
 #Perma-Template

@@ -118,6 +118,7 @@ _______
 |#5 |#38 | #7 |50 |
 
 ####HoloFes & Concerts
-See the [4th Fes rentry](https://rentry.org/who_4thfes)
+- [4th Fes rentry](https://rentry.org/who_4thfes)
+- [Connect the World & HoloSummer Splash Party](https://rentry.org/who_summer23)
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->

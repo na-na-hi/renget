@@ -40,17 +40,14 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACharacterCards
 
 >New Stuff:
-New Writefag:
->Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
-https://controlc.com/a4a6767d
-+Alternate Link: https://rentry.org/HxH-5
-
-New Artfag:
-Hifumi x Hailey - The Glass Maze
-https://img.4plebs.org/boards/tg/image/1688/31/1688313827034658.png
+New Writefags:
+>Faith Kang in: SummerFest Aside (Drone, The hivemind)
+https://rentry.org/8rzuy
+>The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
+https://rentry.org/akrst
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
-archive.4plebs.org/tg/thread/89382566#89382849
+archive.4plebs.org/tg/thread/89435070#89435335
 
 >CHARACTER PROMPTS (Feel free to answer these or don’t idk)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp
@@ -512,10 +509,11 @@ https://rentry.org/dcvxso
 https://rentry.org/epoic
 >I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
 https://rentry.org/o8si2
->A Mother's Worries (Orochi's mother, Yamata, Mirror Devil Cameo):
-https://rentry.org/epoic
->I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
-https://rentry.org/o8si2
+>At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
+https://rentry.org/z2sqy
+>Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
+https://controlc.com/a4a6767d
++Alternate Link: https://rentry.org/HxH-5
 ```
 
 ***
@@ -523,11 +521,12 @@ Page 9
 ***
 ```
 Writefags (Final)
->At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
-https://rentry.org/z2sqy
->Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
-https://controlc.com/a4a6767d
-+Alternate Link: https://rentry.org/HxH-5
+>The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow):
+https://rentry.org/bnu9t
+>Faith Kang in: SummerFest Aside (Drone, The hivemind)
+https://rentry.org/8rzuy
+>The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
+https://rentry.org/akrst
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -555,6 +554,8 @@ Last Action Heroes:
 >>89389858
 
 Neo-Barbarians:
+>Hannah Ossus (Notably Mutated)
+>>89395588
 >Isha, Princess of the Verzon Tribe
 >>89390690
 >Magnus Wang
@@ -610,7 +611,7 @@ https://rentry.org/HeliMatharom
 >David "Profit" Wiles
 >>89423767
 >Sir Philippe Dubois of New Orleans
->>89434172
+>>89440740
 
 Raiders:
 >Calliope, Rocker of the Ruins
@@ -629,15 +630,19 @@ Mutants:
 >>89384851
 >Karnak
 >>89391413
->Hannah Ossus
->>89395588
 >Brunnea "Sunny" Brown!
 >>89397361
 >Tuma
 >>89422176
 >Dr Acheron
 >>89427276
+```
 
+***
+Page 2
+***
+```
+Build List (Cont).
 Robots:
 >H0P3
 >>89379967
@@ -647,12 +652,7 @@ Robots:
 >>89415344
 >Victor
 >>89422772
-```
 
-***
-Page 2
-***
-```
 Relationship Charts:
 Dr. Crane
 https://rentry.org/DrCraneInteractions
@@ -674,7 +674,16 @@ Queen Bee
 https://pastebin.com/F6y0hpMi
 Quinn Chase
 https://rentry.org/bqu7d
-
+Isha
+https://rentry.org/nbvhi
+Mike the Driver
+https://docs.google.com/document/d/1u0sIJpOhlFv86qQoWhAurTSq5JzNB0Jpcy8ZWB2b0To/edit?usp=sharing
++ Alternate Link: https://rentry.org/886q7
+```
+****
+Page 3
+****
+```
 Writefags:
 >Piss Break (Nymphs)
 https://rentry.org/4cfx3
@@ -701,6 +710,10 @@ https://docs.google.com/document/d/1aby3ds_zyGUqID1hBipgQfh4n5Q8U6m4MywyEPCbWbE/
 +Alternate Link: https://controlc.com/d904276b
 >Raid Crashers (Chloe, Nikto, Magnus, Lin and Crane) 
 https://rentry.org/fxyqp
+>Closer (Calliope, Queen Bee, Kara)
+https://rentry.org/2xzif
+>Ride Along (Isha, Kara)
+https://rentry.org/ztf4s
 
 Artfags:
 >ANT KING and ants
@@ -709,6 +722,10 @@ https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
 https://img.4plebs.org/boards/tg/image/1688/20/1688203845380353.png
 >Maya Liang
 https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
+>Nikto's ronin drip
+https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
+>Isha's wary cry
+https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 ```
 #The City (Reboot)
 

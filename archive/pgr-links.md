@@ -5,7 +5,7 @@
 1. [Google Play Store](https://play.google.com/store/apps/details?id=com.kurogame.gplay.punishing.grayraven.en)
 2. [Apple App Store](https://apps.apple.com/us/app/punishing-gray-raven/id1571685286)
 3. [Windows PC Client](https://pgr.kurogame.net/#Home)
-4. [Taptap Store](https://www.taptap.io/app/214081)
+
 
 ####Wikipedia and Official Links
 1. [EN Wikipedia](https://grayravens.com)

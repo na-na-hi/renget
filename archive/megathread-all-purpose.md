@@ -1,4 +1,4 @@
--> ![](https://b.thumbs.redditmedia.com/t-6rg37jMAq8IS_mm-geTzHCUbC7K0nJT8-XqPnwnLs.png) <-
+-> ![](https://take-me-to.space/0HbAcEB.png) <-
 
 # 🧭 ➜ [Megathread](https://rentry.co/megathread) / **All Purpose**
  
@@ -97,6 +97,10 @@
 ### 🧲 [MagnetDL](https://www.magnetdl.com/)
 - Software, movies, games, ebooks, TV shows, and music are all distributed through magnet links by this torrent aggregator.
 - [URL Safety Results](https://www.urlvoid.com/scan/magnetdl.com/)
+
+### 🧲 [RARBG DUMP INDEX](https://rarbg.best/)
+- As an index directory, the fallen RARBG is preserved, with all old and new public trackers added.
+- [URL Safety Results](https://www.urlvoid.com/scan/rarbg.best/)
 
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Russian UI
 - Prominent warez forum with news, discussions about many media genres, torrents, and magnet links is also available for downloading.

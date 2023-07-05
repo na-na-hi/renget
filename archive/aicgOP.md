@@ -35,7 +35,7 @@ https://avakson.github.io/character-editor/
 
 >Guides + JBs
 https://rentry.org/Aicg4Retards
-claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum
+claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 https://rentry.org/agnai_guides
 https://rentry.org/sillytermux [Mobile Extras]
@@ -156,7 +156,7 @@ https://github.com/kwaroran/RisuAI-release/releases
 ▶Slaude
 ruski claude: https://github.com/AmmoniaM/Spermack
 slaude: https://github.com/PandarusAnon/slaude and https://github.com/bfs15/slaude
-jailbreaks https://rentry.org/ClaudeJB and https://rentry.org/fumblebum
+jailbreaks https://rentry.org/ClaudeJB and https://rentry.org/fumblebum + https://rentry.org/pitanonbots#claude-rp-prompts
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 ▶Bots

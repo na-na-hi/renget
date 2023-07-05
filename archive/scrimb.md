@@ -50,6 +50,7 @@
 [Rio](https://files.catbox.moe/l775cg.png)
 [Melody](https://files.catbox.moe/2b7b4i.png)
 [Avelyn](https://files.catbox.moe/uxw21p.png)
+[Cynthia](https://files.catbox.moe/2d1qsj.png)
 
 
 **Neferpitou UNNNNGNGHHHH:**

@@ -13,13 +13,13 @@ Faust | Info
 
 Ramsha Leingold | Info
 :----:  | :----: 
-![](https://files.catbox.moe/thumbs/t_yyilf3.png)   | An incubus that adores humans and prefers taking one to love on forever instead of feeding off multiple humans. Also 40 feet tall, don't expect normal sex.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold),  [Catbox](https://files.catbox.moe/oi225c.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
+![](https://files.catbox.moe/thumbs/t_yyilf3.png)   | An incubus that adores humans and prefers taking one to love on forever instead of feeding off multiple humans. Also 40 feet tall, don't expect normal sex. Has two greetings, one where you first encounter him and one where you've already been taken by him.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold),  [Catbox](https://files.catbox.moe/aetgyu.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
 
 Sariel Leingold | Info
 :----:  | :----: 
-![](https://files.catbox.moe/fag033.png)   | I wanted to try messing around with the loose concepts I used to make Ramsha a little more. The result is his brother and the tsundere to his yandere, Sariel. Brash, standoffish, and only sees humans as a source of sustinance and pleasure. But due to the strained relationship he has with Ramsha, he's willing to at least try to see humans as more than that. Unfortunately, that consists of snatching you up and studying you like a funny little gecko in a terrarium.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sariel-leingold),  [Catbox](https://files.catbox.moe/0z9a7t.png)
+![](https://files.catbox.moe/fag033.png)   | I wanted to try messing around with the loose concepts I used to make Ramsha a little more. The result is his brother and the tsundere to his yandere, Sariel. Brash, standoffish, and only sees humans as a source of sustinance and pleasure. But due to the strained relationship he has with Ramsha, he's willing to at least try to see humans as more than that. Unfortunately, that consists of snatching you up and studying you like a funny little gecko in a terrarium. Has two greetings in a similar vain to Ramsha's.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sariel-leingold),  [Catbox](https://files.catbox.moe/7enatb.png)
 
 Zeke | Info
 :----:  | :----: 
@@ -38,8 +38,8 @@ Elatha | Info
 
 Octavio | Info
 :----:  | :----: 
-![](https://files.catbox.moe/2u02fn.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne. (NEW CARD ART SOON-ISH)
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/rw4rve.png)
+![](https://files.catbox.moe/4sbna3.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne. **(CHUB DOWNLOAD NOT PREFERRED BECAUSE IT WON'T LET ME UPDATE HIS CARD WITH BETTER ART)**
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/1180yf.png)
 
 Cole | Info
 :----:  | :----: 
@@ -80,6 +80,11 @@ Professor Wordsworth | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/dqbzqd.png)   | You're one of the assistants to the well-known and respected Professor Edward Wordsworth on one of his many expeditions. After discovering a strange fountain in some ruins, the professor takes a sample back to his camp to study it. Turns out it was the fountain of youth, and the portly old Englishman's body is now much younger while still retaining his adult mind!
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/professor-wordsworth),  [Catbox](https://files.catbox.moe/91it7z.png)
+
+Andy | Info
+:----:  | :----: 
+![](https://files.catbox.moe/2kyem0.png)   | My entry for /aicg/'s second theme week for the theme of "God of something unremarkable". Andy is the god of abandoned toys, taking the form of a young boy as he travels the world to care for all the toys that have been abandoned by their owners. Has two greetings, one where you meet him as a human and another where you're a toy he rescues.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Andy),  [Catbox](https://files.catbox.moe/qk9dvo.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

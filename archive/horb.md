@@ -51,7 +51,7 @@ Spiritual Deer increases Herrscher of Rebirth's max SP limit by ~~175(v1) >~~ 12
 **PASSIVE 3**
 If initial form is Life Ending Form, gain Total DMG +20% against MECH enemies, max HP +1040 [S0] / 1200 [SS2], when max HP exceeds 3000, for every 10 exceeding HP , enemies on the field take+1% more Total DMG from Herrscher of Rebirth, ~~max 31% [S0] > 35% [SS2] (v1)~~ **max 36% [S0] > 40% [SS2] (v2) > 41% [S0] / 45% [SS2] (v3)**
 
-When HoRB kills an enemy with a non-Ultimate attack, gain [Birth of the Deep Sea] state for 16s, can be refreshed. In this state, ult cd will be reset immediately, and the sp cost of next ult attack becomes ZERO, but the damage is halved. Ult cd changes to 8s. When Seele exits, this state ends.
+When HoRB kills an enemy with a non-Ultimate attack, gain [Birth of the Deep Sea] state for 16s, can be refreshed. In this state, ult cd will be reset immediately, and the sp cost of next ult attack becomes ZERO, ~~but the damage is halved.~~ Ult cd changes to 8s. When Seele exits, this state ends.
 
 When you defeat an enemy with Withering Gap, ~~gain 15 SP,~~  leave behind a flower bud that will bloom after 2s, dealing 200% ATK of Physical DMG and will inflict Withering Gap on enemies that are hit.
 ~~For every enemy with Withering Gap that Herrscher of Rebirth defeats, reduce Ultimate CD by 8s (CD: 20s).~~
@@ -61,9 +61,9 @@ When you defeat an enemy with Withering Gap, ~~gain 15 SP,~~  leave behind a flo
 Evasion Skill: Triggers 3s Global Time Fracture, **recover 500 HP for yourself (v3),** CD: 15s
 
 Added description in v3: 
-** Soul Crafting Form: Ultimate Evasion restore 20 Herrscher energy.
+Soul Crafting Form: Ultimate Evasion restore 20 Herrscher energy.
 
-Life Ending Form: Ultimate Evasion restore 50 Herrscher energy and 500 HP, pressing ATK button will directly link to Basic ATK SEQ 4**
+Life Ending Form: Ultimate Evasion restore 50 Herrscher energy and 500 HP, pressing ATK button will directly link to Basic ATK SEQ 4
 
 
 **EVASION 1**
@@ -155,7 +155,7 @@ Flies over the enemy and attack with spirit flower, up to 4s, deal a total of 46
 
 ---
 **COMBO ATK 1**
-Soul Crafting Form: When Joint Combo ATK hits an enemy or when you use weapon active, team Total DMG ~~+5% [S0] / 15% [S2] (v1) >~~ +7% [S] / 17% [S2] (v2)** for 16s, duration is refreshed when the next valkyrie switches in, each activation can only be refreshed once.
+Soul Crafting Form: When Joint Combo ATK hits an enemy or when you use weapon active, team Total DMG ~~+5% [S0] / 15% [S2] (v1) >~~ **+7% [S] / 17% [S2] (v2)** for 16s, duration is refreshed when the next valkyrie switches in, each activation can only be refreshed once.
 
 Life Ending Form: When Joint Combo ATK hits an enemy, restore 15 sp, CD 12s, and Joint Weapon ATK gain Total DMG +20%[S0] / 30% [S2] for 15s.
 

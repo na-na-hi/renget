@@ -1,4 +1,4 @@
--> ![](https://b.thumbs.redditmedia.com/f8lnG_vXKzfadDcO5jqrMwyrk2_3IHWgkHo0TKzF3oU.png) <-
+-> ![](https://take-me-to.space/8RyXohy.png) <-
 
 # ⭐ ➜ [Megathread](https://rentry.co/megathread) / **Anime**
  
@@ -133,6 +133,10 @@
 - Fast streaming servers and that allow you to watch your favorite anime, material is updated everyday.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesuge.to/)
 
+### 🐐 [AniWatch](https://aniwatch.to/)
+- A rebranded Zoro.to anime streaming website where you can also download subtitled or dubbed anime in super HD quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
+
 ### ▶️ [AnimeXin](https://animexin.vip/) • Donghua
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
 - [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
@@ -176,10 +180,6 @@
 ### ▶️ [YugenAnime](https://yugenanime.tv/)
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.
 - [URL Safety Results](https://www.urlvoid.com/scan/yugenanime.tv/)
-
-### 🐐 [Zoro](https://zoro.to/) / [2](https://zoro.moe/) / [3](https://zoro.pm) / [4](https://zoro.sx)
-- A free anime streaming website where you can also download subtitled or dubbed anime in super HD quality.
-- [URL Safety Results](https://www.urlvoid.com/scan/zoro.to/)
 
 &nbsp;
 

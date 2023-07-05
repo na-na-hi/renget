@@ -1,4 +1,4 @@
-##HERRSCHER OF REBIRTH EQUIPMENT V3B
+##HERRSCHER OF REBIRTH EQUIPMENT V3C
 Translation by Aki
 
 Patch Note: https://rentry.co/68log
@@ -17,14 +17,16 @@ MID: Physical DMG +20%. When a summoned entity is present on the field, host gai
 BOT: Host Total DMG ~~+20%(v1)~~ +10%(v2). When a summoned entity is present on field, 
 ~~v2: upon hitting an enemy or triggering Ultimate Evasion,~~
 **v3b: when host triggers time fracture**
-all team members gain [Life] mode, Crit DMG +30% (cannot stack), last for 16s. When host enters the field or applies [Life] mode, all other team members will gain an enhancement, upon entering field, consume the enhancement to refresh the duration of  [Life] mode. 
+all team members gain [Life] mode, Crit DMG +30% (cannot stack), last for 16s, **can be refreshed (v3c)**. When host enters the field or applies [Life] mode, all other team members will gain an enhancement, upon entering field, consume the enhancement to refresh the duration of  [Life] mode. 
 
 2 Set: Crit DMG ~~+20%(v1) >~~ +10%(v2). During [Life] mode, Team Crit Rate +20% (cannot stack). HoRB equip bonus: All team members in Life mode gain additional  Crit Rate +10% and Crit DMG **+15%(v2) > 17%(v3)**
 ~~v1: Team Physical DMG +20% (cannot stack)~~
 
 3 Set: 
+
+If any team members is in Herrscher form, during [Life] mode, ~~all team members >~~ **all valks on the field gain (v3c)** Total DMG **+18%(v2) > 15%(v3)**, Ultimate and Burst Mode ATK gain additional Total DMG +18% (cannot stack). If a summoned entity is present on field, all enemies on field take+5% more Physical DMG (cannot stack)
+
 ~~v1: Physical DMG +20%, if any team members is in Herrscher mode, during [Life] mode, all enemies on field receive +10% more Total DMG (cannot stack), if host’s summoned entity is present on field, effect increases by +5%. (cannot stack)~~
-v2: If any team members is in Herrscher form, during [Life] mode, Team Total DMG **+18%(v2) > 15%(v3)**, Ultimate and Burst Mode ATK gain additional Total DMG +18% (cannot stack). If a summoned entity is present on field, all enemies on field take+5% more Physical DMG (cannot stack)
 
 ---
 

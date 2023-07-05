@@ -11,6 +11,17 @@ HoRB Gears: https://rentry.co/horbgear
 Bunny ELF: https://rentry.co/bunnyelf
 ER: https://rentry.co/er68
 
+###v3C
+
+- HoRB stigma Bottom: Added can be refreshed text.
+- HoRB stigma 3pc: Adjusted 'for the entire team' to 'all valks on the field'
+- EX Abyss: Optimized Cruising Judgement boss
+- ER: Adjusted a bunch of HoRB signets
+- ER: Second half up signets changed from 'Star and Gold +2' to 'Decimation and Gold +2'
+- ER: F4 enemy changed from Mech Puppet to Aesir Baldur
+
+---
+
 ###v3B
 
 - Adjusted HoRB support form Ultimate: When you use Ultimate, if weapon is not in cooldown, it will enter cooldown on your next action, and at this time, you can tap weapon active to directly activate Joint Weapon ATK. Added effect: Trigger 1s Time Fracture

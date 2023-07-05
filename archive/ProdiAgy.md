@@ -1,6 +1,7 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
 #old april guide @ rentry.co/dadaptguide
 #written by a nerd who likes to optimize
+!!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
 
 ##What is it?
 Prodigy is DAdaptation on steroids.
@@ -10,61 +11,63 @@ Both function well for characters and styles given their size.
 
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
+!!! info iA3 might work better without captions which is a big plus for it. Captioning is only required if you train a character with some alien artstyle in which case you do want captions to separate the character from the style characteristics.
 LoKr for fast LoHa quality at a 2.5mb size.
 LoHa for likely placebo perfect reproduction at a bigger size. (iA3 and LoKr can likely do similarly by just prompting better. Skill issue.)
 LoCon and LoRa if you're simple and want to waste space, at that point just try out DyLora.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
-##Training time?
-With anti-overtraining tricks/dampening it should take anywhere inbetween 1000-4800 steps on a 30 image dataset. (assuming batch size 1 and gradient accumulation steps 1)
+##DATASET, BATCH, GRADIENT, STEPS, EPOCHS, TIME?
+Below 28? 1 Batch Size, Gradient Accumulation Steps = Dataset, 1 rep and use epochs.
+Equal or above 28? Can use Batch Sizes and/or Gradient Accumulation Steps, 1 rep and use epochs.
+Training time should be very fast compared to other methods.
 
 ##Base iA3 Prodigy .json:
-!!! note First change the train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions. Leave epochs as is and just close early or change to your desired total steps.
+!!! danger train_batch_size may affect training negatively and since the whole idea of using iA3 is to go lightweight then it makes more sense to just use gradient_accumulation_steps.
+!!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
+!!! note First change the train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
   "adaptive_noise_scale": 0.005,
   "caption_dropout_rate": 0,
-  "conv_alpha": 1,
-  "conv_dim": 1,
-  "epoch": 3000,
+  "epoch": 200,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
-  "lr_scheduler": "constant",
+  "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "max_train_epochs": "3000",
+  "max_train_epochs": "200",
   "min_snr_gamma": 3,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 6,
-  "network_alpha": 1,
-  "network_dim": 1,
-  "network_dropout": 0,
+  "network_dropout": 0.3,
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.050\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
   "save_every_n_steps": 0,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
-  "scale_weight_norms": 0,
+  "scale_weight_norms": 1,
   "seed": "31337",
   "shuffle_caption": true,
   "text_encoder_lr": 1.0,
   "train_batch_size": 1,
-  "train\_on\_input": true,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
 }
 ```
 
 ##Base LoKr Prodigy .json:
-!!! note First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Change min_snr_gamma depending on how long you plan to train. Leave epochs as is and just close early or change to your desired total steps. 
+!!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard, set it lower for low datasets/slower and smoother learning. If your dataset is about 30 and more then you can increase.
+!!! note First change the train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions. Change min_snr_gamma depending on how long you plan to train.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
@@ -73,15 +76,15 @@ With anti-overtraining tricks/dampening it should take anywhere inbetween 1000-4
   "caption_dropout_rate": 0,
   "conv_alpha": 512,
   "conv_dim": 512,
-  "epoch": 3000,
+  "epoch": 200,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
-  "lr_scheduler": "constant",
+  "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "max_train_epochs": "3000",
-  "min_snr_gamma": 5,
+  "max_train_epochs": "200",
+  "min_snr_gamma": 3,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 6,
   "network_alpha": 1024,
@@ -90,14 +93,14 @@ With anti-overtraining tricks/dampening it should take anywhere inbetween 1000-4
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.050\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
   "save_every_n_steps": 0,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
-  "scale_weight_norms": 0,
+  "scale_weight_norms": 1,
   "seed": "31337",
   "shuffle_caption": true,
   "text_encoder_lr": 1.0,
@@ -110,10 +113,10 @@ With anti-overtraining tricks/dampening it should take anywhere inbetween 1000-4
 ##Usage instructions:
 We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
-- Just set the epochs to the total amount of steps you want, keep repeats at 1, calculate according to your batch size and gradient accumulation.
+!!! warning AS WROTE IN DADAPT GUIDE BEFORE AND I REPEAT AGAIN NOW: FIRST AND FOREMOST. NO DUPLICATE DATASET. MANUAL AND LOGICAL CAPTIONING IF YOU WANT CAPTIONING AT ALL. DATASET WILL ALWAYS REMAIN IMPORTANT. 
 !!! info If training only with epochs does not work well with your dataset due to size or something else then start using repeats.
 - Toy with snr_gamma and noise_offset/adaptive_noise_scale only if you want to experiment and see what results you may like. Unset the seed if you want variations.
-- Toy with d_coef to tune the optimizer, safeguard_warmup if you are using warmup for whatever reason, bias_correction depending on your dataset and weight_decay.
+- Toy with ``d_coef (0.5 to 2.0)`` which is the main way to scale your d*lr and ```weight_decay``` if you are overtraining too quickly, safeguard_warmup if you are using warmup for whatever reason, bias_correction depending on your dataset.
 
 That is literally all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
 
@@ -121,4 +124,9 @@ That is literally all, it is a massive upgrade from every single past method, no
 ![](https://imagizer.imageshack.com/img923/8572/5MRiq6.png)
 ![](https://imagizer.imageshack.com/img922/4106/qstHmL.png)
 
-Credits: bmaltais for github and  reddit posts that inspired me to look into iA3 and LoKr myself and check out which settings would be best.
+Credits: 
+bmaltais for github and  reddit posts that inspired me to look into iA3 and LoKr myself and check out which settings would be best.
+AI Casanova for once again clarifying some things.
+
+##More resources at www.sdcompendium.com
+though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances

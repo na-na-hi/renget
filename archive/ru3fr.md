@@ -4,6 +4,8 @@ Name: Billy Kido
 >Location
 City Ruins
 
+A wandering bounty hunter with inherited debts to the IRS after his father's passing. 
+
 >Archetype
 High Plains Drifter ["Snake-like Reflexes" and "One shot, one kill" Free]
 >Abilities

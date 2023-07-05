@@ -48,3 +48,61 @@ Hotel room
 >and he made sure to show them off
 >it was then he blew you a kiss and winked
 >you were being mocked by a scrawny blue hedgehog with his hog out
+
+>you knew he was trying to get a rise out of you
+>some weird Bugs Bunny routine
+>he couldn't be serious
+>you asked how he even knew about that stuff
+>"traveled all over and you don't think I'd know what sex was?"
+>he saw your dick twitch at that 
+>it was weird to think of this guy like that
+>he wasn't even from your dimension
+>wasn't even human
+>plus the whole guy thing bit that was the least of it
+>he had a realization flash across his face
+>he snapped his fingers and vanished
+>oh no
+>from your brief experience you knew leaving him out of your sight was a bad idea
+>he came back through the door in a gust of wind
+>he threw something at you and you caught it out of muscle memory
+>a bottle of lube
+>christ he really did know
+>"you need a written invitation? c'mon, slowpoke"
+>he casually hopped onto the bed and thrust his ass up in the air
+>he wiggled it towards you as a taunt
+>his white gloved hand smacked his ass
+>this was everything slamming at you like a freight train
+>"we don't gotta be alone on a Friday night"
+>you took it in
+>his blue fur covered thick thighs and very defined glutes
+>he had amazing legs and knew it
+>a pink hole in the center of his ass winked at you
+>this was really happening
+>he had fur over his nuts but a pink leaky cock peeked from his sheath
+>he looked up over his shoulder
+>clearly he was impatient 
+>his foot slid up and he gently ran over your cock you left exposed 
+>you'd realized you'd been hard this whole time
+>"I bet it'll be fun. if you're up for it"
+>again with the taunts 
+>he was trying to get under your skin
+>you saw the flick of his tiny pointed tail
+>his foot brushed over your dick
+>"you don't feel unsure back there."
+>you really only had one idea running through your mind
+>it looked inviting
+>he wanted it
+>could it be so bad
+>it was weighing on your mind
+>his foot moving over your dick made you buck and that got a laugh out of him
+>he spread on cheek with his hand
+>"you can bet this feels even better"
+>tempting 
+>he was breaking through your willpower
+>it was like a gate getting battered down
+>he was definitely winning
+>dammit
+>he was a total brat but he knew 
+>you opened the bottle and he actually fist pumped 
+>he'd gotten victory but you were going to make sure he'd pay dearly
+>after all, if he was going to be a pain in the ass you could play that game too

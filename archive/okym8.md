@@ -79,6 +79,7 @@
 ### Jul.
 [ATK] Bluebonnet (Tatarimokke, Recino, Karma, Greenfinger, Midas, Maw:): https://rentry.org/gbe9h
 [ATK] Night Parade: Preparations (Midas, Tomi, Bogey, Karma, Maw, Yaju, Giichi Mikata, Majestic, Smokin' Sexy, Tatarimokke): https://rentry.org/NPPreparations
+[USA] Fourth of July in Japan(1-D, Rosethorn): https://rentry.org/wvogc
 [FIV] New Routines, Old Faces (Mirror Devil, Flying Force, Desolator): https://rentry.org/itz9r
 [ILQ] School Days (Ryu-kishi, Marrow, Overdose, Localoca, Recoil, Hydra, Sunlight Man, Orbit, Mirror Devil, Flying Force, Crazy Train, Capture Cloth, Challenger, Maru): https://rentry.org/6zksk2
 [HXH] Hifumi x Hailey: Chapter 4 - Reaching Out (Challenger, Recoil, Capture Cloth): https://controlc.com/c5aed87a
@@ -116,6 +117,7 @@
 [RIP] Cusp of Breakthrough (Reaper, Forget-Me-Not, Feral, PsyKing): https://rentry.org/o9qt9
 [DMA] Battle Against a (Fake) Dragon (Feral, Yamata, Flying Force, Capture Cloth, Mirror Devil):
 https://rentry.org/8ap4m
+[USA] A Dance with the Devil in the Pale Moonlight(Last Rite, Android, Yamata, Desolator): https://rentry.org/4gvka
 
 ### Oct.
 ***

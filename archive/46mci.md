@@ -29,6 +29,7 @@ https://mooms.neocities.org/
 #####[Various pieces of media (Azure Streams, Twitterspaces, HolofightZ, Illustrations & other stuff)](https://rentry.org/3g9kq)
 #####[Weekly Owls & Hooters](https://rentry.org/kpbge)
 #####[Hololive 4th Fes](https://rentry.org/who_4thfes)
+#####[Summer 2023 (Connect & HoloSummer)](https://rentry.org/who_summer23)
 
 !!! info
      -> 🪶  **Tools**  🪶 <-
