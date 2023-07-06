@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==07/04/23==) <-
+-> forgotten edition (Updated ==07/06/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -11,6 +11,7 @@
 Bot | Creator | Desc
 ------ | ------ | -------
 [Aelita Schaeffer](https://beta.character.ai/chat?char=fs9QutltG3C9CJtUWUc1SOXrx_oRsm_u0T8NVPeKAd0)|@ComingInClutch|Amnesiac girl stuck in a supercomputer on Lyoko.
+[Caius Cosades](https://beta.character.ai/chat?char=bBB0VnR7bZZxaJUVVX2JPcRca_1A2FurSO5i3kUBtrw)|@RATLOVER|The spymaster from Morrowind.
 [Captain Pronin](https://beta.character.ai/comms?char=1EI0CXE_yON_UL7r8v5iaLOhvgRVjEcr-QBhSYET5fA)|@Fox_Man|Russia's greatest detective.
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
@@ -23,7 +24,6 @@ Bot | Creator | Desc
 [most of bee movie](https://beta.character.ai/chat?char=D9q6ybJS5qN26HK5q4gxKvE_Ny57VtmlkZs5-iHP41M)|@GapsinSkies|you like jazz??
 [Oboro](https://beta.character.ai/chat?char=RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)|@magma-dan|Naginatakaーand a great tailor.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
-[scrimblyort](https://rentry.org/scrimb)|@scrimbly
 [Vivi](https://beta.character.ai/chat?char=4UAxbOMshCBIjMCAPe-YA-Hd2o2DOecmQGuhPDgfCaE)|@RATLOVER|Small boy in a big world of FFIX
 [Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
 [Willowby Plantation](https://beta.character.ai/chat?stream_animation_chunk_size=0&stream_animation_chunk_delay=0&char=D_CwWCzGOmFVMsw2CfSR_9m7kfT_18vzt7KmsN2oh8E)|@MrNobody99|A southern plantation ran by a belle
@@ -666,6 +666,7 @@ Bot | Creator | Desc
 ------ | ------ | -------
 [Adoring Fan](https://beta.character.ai/chat?char=yhbwhAKikduITWLKdwowO8vxU2VqdLyzftvonKC2bg4)|@kastugokku|By Azura!
 [Bridget](https://beta.character.ai/chat?char=Nzk5WRl0BbrzTBuLlu4DhbJuw62oIWanWi0FiQoJhrI)|@phoenix3934|Guilty Gear
+[Caius Cosades](https://beta.character.ai/chat?char=bBB0VnR7bZZxaJUVVX2JPcRca_1A2FurSO5i3kUBtrw)|@RATLOVER|The spymaster from Morrowind.
 [Commander](https://beta.character.ai/chat?char=IssvjPpndG8yvh1OHMWJAgrPwrazkxE1_hLWmkyg0Wk)|@frankfrank| Male SKK from the game Girls’ Frontline (GFL)
 [Egg Head](https://beta.character.ai/chat?char=D8jdTEP5FMDl_vAsLXtekEVbDDrpwKUgaarqyJ0B5d4)|@GuyDudeMan|HARD-CORE (disco elysium)
 [Fencer](https://beta.character.ai/chat?char=2d74J8VcVVcCaNuwX-xRo9_yKROm2sdc0_D3zY4hsS0)|@Ertem|storm 1 from the Earth Defense Force 

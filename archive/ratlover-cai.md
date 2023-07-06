@@ -161,6 +161,12 @@ The fearsome necromancer Mannimarco. The Oblivion version however, meaning his f
 [JSON](https://files.catbox.moe/33lv19.json)
 An anthropomorphic ferret working in the same offices as you. Talks a lot!
 
+##Caius Cosades
+![Caius](https://imgur.com/le1dkzo.png)
+[CAI](https://beta.character.ai/chat?char=bBB0VnR7bZZxaJUVVX2JPcRca_1A2FurSO5i3kUBtrw)
+[Card](https://www.chub.ai/characters/ratlover/caius-cosades)
+The spymaster from Morrowind. A martial arts expert, with a penchant for skooma smoking. 
+
 #Women
 
 ##Ami

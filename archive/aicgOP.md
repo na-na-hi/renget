@@ -15,6 +15,12 @@
 	Remember to be calm and reasonable
 [TOC]
 
+## Proxy checker
+```
+https://navigatethecoom.github.io/navigate/
+```
+Proxy checker link if you wanna include it
+
 ##Trimmed OPs
 
 ######OP0

@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 06.07.2023 14:00 UTC]
+[Last Updated: 06.07.2023 20:00 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7463110/](https://boards.4chan.org/h/thread/7463110/)
 
@@ -10,7 +10,7 @@ Last five:
 - 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;
 - 602&nbsp;&nbsp;[archiveofsins.com/h/thread/7454980/](https://archiveofsins.com/h/thread/7454980/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1082]&nbsp;#&nbsp;Chikaverse edition
 - 601&nbsp;&nbsp;[archiveofsins.com/h/thread/7452002/](https://archiveofsins.com/h/thread/7452002/)&nbsp;&nbsp;&nbsp;&nbsp;(28.06.2023 17:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Gateway Edition
-- 600&nbsp;&nbsp;[archiveofsins.com/h/thread/7448856/](https://archiveofsins.com/h/thread/7448856/)&nbsp;&nbsp;&nbsp;&nbsp;(27.06.2023 03:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Just let it all end edition
+- 600&nbsp;&nbsp;[archiveofsins.com/h/thread/7448856/](https://archiveofsins.com/h/thread/7448856/)&nbsp;&nbsp;&nbsp;&nbsp;(27.06.2023 03:03)&nbsp;&nbsp;[1265]&nbsp;#&nbsp;Just let it all end edition
 ---
 Archive:
 

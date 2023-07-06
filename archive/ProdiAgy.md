@@ -10,13 +10,15 @@
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
 ##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR INCREASE D*LR UNTIL IT DOES NOT.  I CUT IT OFF AT 130 IN THAT EXAMPLE. 
-How? Do your normal steps and if it spikes redo training and cut it at that point, remember to set t_max to your new max.
-Alternatively expand using d_coef so that it does not spike.
 ![](https://imagizer.imageshack.com/img924/8109/K5kHtl.png)
 ##PINK = D_COEF 1 | CYAN = D_COEF 2 | THANOS = D_COEF 3
 
-##USE WEIGHT_DECAY IF OUTPUT BECOMES OVERPOWERING TOO QUICK.
-##USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES.
+####USE D_COEF TO SCALE LR (SHOULD ONLY BE DONE UNTIL YOU FIND A GOOD STARTING LR FOR YOUR DATASET AND OTHER SETTINGS)
+####USE WEIGHT_DECAY IF OUTPUT BECOMES OVERPOWERING TOO SOON AND YOU DONT WANT TO LOWER STEPS.
+####USE MIN_SNR_GAMMA: LOWER = TEXTURE OVER STRUCTURE; HIGHER = STRUCTURE OVER TEXTURE.
+####USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES TOO SOON AND YOU DONT WANT TO INCREASE STEPS.
+####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH BATCH SIZE AND GRADIENT ACCUMULATION
+####PRODIGY IS ```DETERMINISTIC```.
 
 
 ##EXAMPLE OF RESULTS? 
@@ -24,20 +26,19 @@ Alternatively expand using d_coef so that it does not spike.
 ##WARNING: NSFW
 
 ![](https://imagizer.imageshack.com/img923/7739/b4v5QY.png)
-##UNCAPTIONED 10 IMAGE DATASET. DONE IN 1000 STEPS. 200KB SIZE.
+##UNCAPTIONED 10 IMAGE DATASET. DONE IN 1000 STEPS. 200KB SIZE IA3.
 
 ##What is it?
-Prodigy is DAdaptation on steroids.
-iA3 is LoRa done at a very small size, about 200kb.
-LoKr is about 1-3mb and is very very similar to LoHa, possibly the new best thing for characters.
+Prodigy is DAdaptation on steroids, lighter, faster, more controllable.
+iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style but requires an open mind, you likely won't get it right in one try as it is a slightly different methodology from making loras. ```I aim to use iA3 only from now on even if it may be harder at the start.```
+LoKr is about 1-3mb and is basically a LoHa, possibly the new best thing for characters and style.
 Both function well for characters and styles given their size.
 
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
+!!! info iA3 requires you to treat it like a condensed LoRa: care less about many steps and care more about how well it learns during that faster training, 400-1200 steps.
 !!! info iA3 may not need captions if you don't want them.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
-LoKr for fast LoHa quality at a 2.5mb size.
-LoHa for likely placebo perfect reproduction at a bigger size. (iA3 and LoKr can likely do similarly by just prompting better. Skill issue.)
 LoCon and LoRa if you're simple and want to waste space, at that point just try out DyLora.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
@@ -48,24 +49,24 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=60\" \"eta_min=0.005\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.005,
   "caption_dropout_rate": 0,
-  "epoch": 200,
+  "epoch": 60,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "max_train_epochs": "200",
-  "min_snr_gamma": 3,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 6,
   "network_dropout": 0.3,
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=200\" \"eta_min=0.005\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
@@ -91,19 +92,18 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 {
   "LoRA_type": "LyCORIS/LoKr",
   "adaptive_noise_scale": 0.005,
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=200\" \"eta_min=0.005\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=160\" \"eta_min=0.005\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "caption_dropout_rate": 0,
   "conv_alpha": 512,
   "conv_dim": 512,
-  "epoch": 200,
+  "epoch": 160,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "max_train_epochs": "200",
-  "min_snr_gamma": 3,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.1,
   "multires_noise_iterations": 6,
   "network_alpha": 1024,
@@ -112,7 +112,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.05,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.050\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
@@ -129,11 +129,12 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 }
 ```
 
-##Usage instructions:
+##Experimenting instructions:
 We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
 !!! warning AS WROTE IN DADAPT GUIDE BEFORE AND I REPEAT AGAIN NOW: FIRST AND FOREMOST. NO DUPLICATE DATASET. MANUAL AND LOGICAL CAPTIONING IF YOU WANT CAPTIONING AT ALL. DATASET WILL ALWAYS REMAIN IMPORTANT. 
-- Toy with snr_gamma and noise_offset/adaptive_noise_scale only if you want to experiment and see what results you may like. Unset the seed if you want variations.
+- train_batch_size and gradient_accumulation_steps both can have a negative impact on training on datasets below 30 images ```if you're not using repetitions.``` therefore try 10 reps for 10 images, 5 reps for 20 images, 1 rep for 30 images and above.
+- Toy with noise_offset/adaptive_noise_scale/multires_noise_discount/multires_noise_iterations only. Unset the seed if you want variations.
 
 That is all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
 
@@ -142,7 +143,7 @@ bmaltais for github and  reddit posts that inspired me to look into iA3 and LoKr
 AI Casanova for once again clarifying some things.
 
 ##More resources at www.sdcompendium.com
-though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances
+######though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances
 
 #### -> fk you 32mb+ lora makers and a moment of silence for your wasted gpus and time <-
 #### -> now you should know how to do it properly <-

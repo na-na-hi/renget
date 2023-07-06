@@ -19,11 +19,11 @@ Image| Name | Description | Link
  ![T](https://files.catbox.moe/t6g2sq.png) | Len | Real saviorfags don't discriminate. | [Catbox](https://files.catbox.moe/t6g2sq.png)
 
 ###Coombots
-All have baked-in jailbreaks.
+All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjoy.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hand-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
- ![T](https://litter.catbox.moe/w3pvol.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://litter.catbox.moe/w3pvol.png)
+ ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
+ ![T](https://files.catbox.moe/cakaz2.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/cakaz2.png)
 
 ###Narrator bots
 Add them to your group chats for fun. You can also rip their descriptions and put in your jailbreak, but this gives you more control.

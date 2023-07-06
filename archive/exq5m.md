@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 6/16/2023
+>Up To Date As Of 6/30/2023
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -332,6 +332,10 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Kronii Obscene Gluttony](https://i.imgur.com/5HdY4n3.png)
+.
+.
+
+![TakaMori Lardass Parents](https://i.imgur.com/O2ocQat.png)
 .
 .
 .

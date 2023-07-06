@@ -72,7 +72,8 @@ Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/
 Name  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | TBA™
-Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student | TBA™
+Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
+Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student. | TBA™
 Kyrie Ushiromiya | ![Kyrie Ushiromiya](https://i.postimg.cc/cHB6NGtn/Kyrie-Ushiromiya.png) | Rudolf Ushiromiya's cool, calm, and collected who is also quick-thinking, logical, and very analytical wife. | TBA™
 Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | TBA™
 Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™

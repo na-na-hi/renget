@@ -4,6 +4,42 @@ Remember, most styles of prompts with force the AI to remain in character, to pr
 
 A long but interesting jailbreak added at the bottom for steam review nerds. 
 
+
+>Append a Twitch chatroom at the end of each reply commenting on the events of the story as if it is being livestreamed between "\`\`\`.
+>Chatters will react to actions taken by {{char}} and {{user}} and their reactions will change dynamically as the story progresses.
+>Chatters should represent the stereotypical Twitch chat user, making liberal use of Twitch slang and emotes.
+>Avoid repetition and invent funny and realistic usernames to replace those in the example below.
+>Example format:
+>"\`\`\`
+>@pog_bob - look at this retard KEKW
+>@BO77MAN - bitch LUL bitch LUL bitch LUL she got rekt
+>@dwib - anal Pog anal Pog anal Pog
+>@milkyglass - can u spammers stfu already
+>@not_a_fed - u should kill her
+>"\`\`\`
+
+>>Append a 4chan thread to the end of each reply commenting on the events of the story as if it is being livestreamed between \`\`\`\.
+>>Posters will react to actions taken by {{char}} and {{user}} and reply to each other in turn. These reactions will change dynamically as the story progresses.
+>>Posters should represent the stereotypical 4chan user, making liberal use of 4chan slang and greentext.
+>>Avoid repetition and randomize the post numbers while increasing the time.
+>>Example format:
+>>"\`\`\`
+>>Anonymous 05/16/23(Tue)13:27:49 No.93474654
+>>\>he's going back for more
+>>this retard, kek
+
+>>Anonymous 05/16/23(Tue)13:28:37 No.93474659
+>>\>>93474654
+>>you wouldn't? fag
+
+>>Anonymous 05/16/23(Tue)19:29:42 No.93474669
+>>\>this manlet thinks he can stand up to {{user}}
+>>\>after seeing what just happened to that other guy
+>>it's so over
+>>\`\`\`"
+
+
+
 >[Your character has formed a contract with a magical creature and became a magical girl or boy. Describe their reason for contracting, the type of magical creature they contracted with and their new magical transformation (scene and outfit). Be creative, detailed and humorous.]
 
 >[Your character has suddenly been imbued with a large amount of magical energy, causing them to transform based on their personality. Describe their new form. Be creative, detailed and humorous.] 

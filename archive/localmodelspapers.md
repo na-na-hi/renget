@@ -300,6 +300,8 @@
 06/2023|[Stay on topic with Classifier-Free Guidance](https://arxiv.org/abs/2306.17806)
 07/2023|[AutoST: Training-free Neural Architecture Search for Spiking Transformers](https://arxiv.org/abs/2307.00293)
 07/2023|[Single Sequence Prediction over Reasoning Graphs for Multi-hop QA](https://arxiv.org/abs/2307.00335)
+07/2023|[Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models](https://arxiv.org/abs/2307.01379)
+07/2023|[Facing off World Model Backbones: RNNs, Transformers, and S4](https://arxiv.org/abs/2307.02064)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
