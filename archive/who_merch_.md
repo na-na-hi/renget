@@ -1,6 +1,4 @@
 # Nanashi Mumei merchandise
-**774K Subs celebration merch (Order period ends 3rd July 1800 JST)**
-https://shop.hololivepro.com/en/products/nanashimumei_77-4thou
 
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
@@ -76,5 +74,10 @@ https://shop.hololivepro.com/en/products/hololive_superexpo2023_chibi_acrylickey
 **Acrylic stand**
 https://shop.hololivepro.com/en/products/hololive_3dacrylicstand_bright?variant=43818744348892
 
+\* * *
+
 **2023 Casual outfit merch(Keychain)** (Order period ends 15th May 1800 JST)
 https://shop.hololivepro.com/en/products/nanashimumei_nc2023
+
+**774K Subs celebration merch (Order period ends 3rd July 1800 JST)**
+https://shop.hololivepro.com/en/products/nanashimumei_77-4thou

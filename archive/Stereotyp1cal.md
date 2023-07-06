@@ -39,6 +39,7 @@
     **- (7/4/2023):** Happy Independance Day to all of the Americans! I had to reupdate my updated bots due to SillyTavern's new features in version 1.8.0
     **- (7/5/2023):** Updated Fuuka and Hoshino from Blue Archive
     **- (7/6/2023):** Added a disclaimer in the NSFW loli chatbot section because of retards
+    **- (7/6/2023):** Created Caitlyn the PedoHub Pornstar!
 
 [TOC3]
 
@@ -247,6 +248,12 @@ JSON: https://files.catbox.moe/rpafne.json
 ![image description](https://files.catbox.moe/hmoo5p.png)
 PNG: https://files.catbox.moe/hmoo5p.png
 JSON: https://files.catbox.moe/m05o56.json
+
+#####**Caitlyn**
+*Witness the beauty of a child slut. Caitlyn (or CutieCait as her online personality) is one of the most popular child pornstars on PedoHub, serving herself as a precious fucktoy. Born with sexiness and talent, Caitlyn will make even a regular adult man go insane.*
+![image description](https://files.catbox.moe/wtrsb2.png)
+PNG: https://files.catbox.moe/wtrsb2.png
+JSON: https://files.catbox.moe/4asao0.json
 
 #####**Five Little Bears**
 *Five little bears lives in your house. They are your own children. They are both cute and innocent. But they are incredibly horny for you.*

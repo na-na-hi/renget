@@ -64,7 +64,6 @@ https://rentry.org/meta_botmaking_list
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
-proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 
@@ -120,7 +119,6 @@ https://rentry.org/meta_botmaking_list
 OP templates: https://rentry.org/aicgOP or https://rentry.org/kaomojibaka
 services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
-proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
@@ -176,7 +174,6 @@ https://rentry.org/meta_botmaking_list
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
-proxy checker: https://navigatethecoom.github.io/navigate
 extra topics: https://rentry.org/aicg_extra_information
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
 

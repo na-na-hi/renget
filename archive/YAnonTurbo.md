@@ -1,6 +1,6 @@
 -> `...` ->
--> `¯\_(ツ)_/¯` ->
-![████████████](https://files.catbox.moe/wb1s1o.png)
+-> `aHR0cHM6Ly9wYXN0ZS5lZS9wL2Zac2RR` ->
+![https://files.catbox.moe/83r1uj.gif](https://files.catbox.moe/wb1s1o.png)
 `縺ｾ縺ｩ繧庚e縺輔ｓ...`
 ---
 !!! Note OpenAI Model
@@ -42,4 +42,4 @@ user: → Human: / H:
 ```
 ---
 `████k@uХ@cftwVfeK`
--> [?](https://files.catbox.moe/rpmo23.mp4) ![█████████████](https://files.catbox.moe/h15t30.png) ->
+-> [?](https://files.catbox.moe/rpmo23.mp4) ![https://files.catbox.moe/ncftp8.7z](https://files.catbox.moe/h15t30.png) ->

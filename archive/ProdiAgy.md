@@ -1,6 +1,7 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
-#old april guide @ rentry.co/dadaptguide
-#written by a nerd who likes to optimize
+#### -> old april guide @ rentry.co/dadaptguide <-
+#### -> written by a nerd who likes to optimize <-
+
 !!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
@@ -14,8 +15,8 @@ Alternatively expand using d_coef so that it does not spike.
 ![](https://imagizer.imageshack.com/img924/8109/K5kHtl.png)
 ##PINK = D_COEF 1 | CYAN = D_COEF 2 | THANOS = D_COEF 3
 
-##USE WEIGHT_DECAY IF IT BECOMES OVERPOWERING
-##USE ETA_MIN IF IT GOES DOWN TOO QUICK.
+##USE WEIGHT_DECAY IF OUTPUT BECOMES OVERPOWERING TOO QUICK.
+##USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES.
 
 
 ##EXAMPLE OF RESULTS? 
@@ -142,3 +143,7 @@ AI Casanova for once again clarifying some things.
 
 ##More resources at www.sdcompendium.com
 though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances
+
+#### -> fk you 32mb+ lora makers and a moment of silence for your wasted gpus and time <-
+#### -> now you should know how to do it properly <-
+#### -> also fk you civitai, fk you 4chan <-

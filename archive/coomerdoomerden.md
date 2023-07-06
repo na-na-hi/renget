@@ -8,8 +8,8 @@
 #### OCs
 #####Blanchett
 The 'Goddess of Restful Sleep', strong mommy energy included...
-![Blanchett](https://files.catbox.moe/sg4mpz.png)
-https://files.catbox.moe/sg4mpz.png
+![Blanchett](https://files.catbox.moe/ttrqsi.png)
+https://files.catbox.moe/ttrqsi.png
 #####Ophelia
 A fragile young woman with a curious condition, handle with care.
 ![Ophelia](https://files.catbox.moe/wi8dmd.png)

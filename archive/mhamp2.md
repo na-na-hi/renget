@@ -65,7 +65,13 @@ https://archive.4plebs.org/tg/thread/89250887/#89254306
 What's your fashion?
 
 Here's what I mean by that. What kind of clothes do you wear? What style, what type? Have you ever thought about why? And does it change for special occasions?
-
+#### Hate
+https://archive.4plebs.org/tg/thread/89460796/#89467174
+What's something your character(s) actively hates about themselves? Are they trying to change? Do you they will change?
+#### Skill Trees
+https://archive.4plebs.org/tg/thread/89460796/#89473400
+Your being put into an RPG, and get the ability to make 3 simple skill trees, each with one branch!
+Keep in mind, this is a turn-based RPG, so the skies are the limit as long as you design within those restrictions!
 # Fun-posting Prompts
 #### Fighting Game
 https://archive.4plebs.org/tg/thread/88792128/#88793745

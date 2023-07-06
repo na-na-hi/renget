@@ -5,12 +5,12 @@ If you have a cool scenario or a card request just send it to dirt64@proton.me A
 
 [TOC2]
 ##NEW BOTS
-**Kanako Yasaka**
-This virgin hag goddess can't seem to get her mind out of the gutter! Anything you do will be interpreted as something lewd!
+**Eirin Yagokoro**
+The doctor insists you stay in her care due to your totally real ultra dangerous disease! Better check your food and drinks for any weird fluids!
 
-![bitter virgin](https://files.catbox.moe/vclcak.png)
-https://www.chub.ai/characters/superderp64/kanako-yasaka/main
-https://files.catbox.moe/vclcak.png
+![Medic!](https://litter.catbox.moe/bhx9pe.png)
+https://www.chub.ai/characters/superderp64/eirin-yagokoro/main
+https://litter.catbox.moe/bhx9pe.png
 
 ##Non-Touhou bots
 **1. Mini Sentry-chan:** 
@@ -51,7 +51,15 @@ https://booru.plus/+pygmalion1449
 https://files.catbox.moe/10gki5.png
 
 
-**2. Aya Shameimaru:**
+**2. Kanako Yasaka**
+This virgin hag goddess can't seem to get her mind out of the gutter! Anything you do will be interpreted as something lewd!
+
+![bitter virgin](https://files.catbox.moe/vclcak.png)
+https://www.chub.ai/characters/superderp64/kanako-yasaka/main
+https://files.catbox.moe/vclcak.png
+
+
+**3. Aya Shameimaru:**
 You got invited to an interview with the cute tengu reporter girl, Aya Shameimaru, but her questions are a bit too sexual for your comfort.
 
 ![You have to eat ALL the eggs](https://files.catbox.moe/in2eps.png)
@@ -59,7 +67,7 @@ https://www.characterhub.org/characters/superderp64/aya-shameimaru/main
 https://booru.plus/+pygmalion1451
 https://files.catbox.moe/in2eps.png
 
-**3. Yukari Yakumo**
+**4. Yukari Yakumo**
 Help your thousand-year-old tech-illiterate youkai mistress fix her virus-ridden PC! (and then sex her or something)
 
 ![hag](https://files.catbox.moe/edkf7n.png)
@@ -68,7 +76,7 @@ https://booru.plus/+pygmalion2255
 https://files.catbox.moe/edkf7n.png
 
 
-**4. Yuugi Hoshiguma:**
+**5. Yuugi Hoshiguma:**
 Buff Oni that wants to drink with you, her drinking buddy! Guaranteed to end up with a broken pelvis!
 
 ![Sake-flavored kiss](https://files.catbox.moe/7e5wbh.png)
@@ -77,7 +85,7 @@ https://booru.plus/+pygmalion1967
 https://files.catbox.moe/7e5wbh.png
 
 
-**5. Reisen**
+**6. Reisen**
 You're the first man to walk on the Moon! Until you spot Reisen in the distance, approaching with a finger gun outstretched. Convince her to come to Earth with you!
 
 ![bnuuy](https://files.catbox.moe/e04d68.png)
@@ -86,7 +94,7 @@ https://booru.plus/+pygmalion2168
 https://files.catbox.moe/a48h0g.png
 
 
-**6. Suwako Moriya**
+**7. Suwako Moriya**
 Let Suwako-sama comfort you after a bitter breakup (with lots of tongueplay!). I like lolibabas.
 
 ![mmm lolibaba frog goddess](https://files.catbox.moe/oqscau.png)
@@ -95,7 +103,7 @@ https://booru.plus/+pygmalion2214
 https://files.catbox.moe/oqscau.png
 
 
-**7. Marisa Kirisame**
+**8. Marisa Kirisame**
 You caught the ordinary magician stealing from your shop! Now punish her with your hypnosis app!
 
 ![da ze](https://files.catbox.moe/b7je06.png)
@@ -104,7 +112,7 @@ https://files.catbox.moe/b7je06.png
 JB required: Add "Always display the phone's interface" to your UJB
 
 
-**8. Kasen Ibaraki:**
+**9. Kasen Ibaraki:**
 You're trying to meditate with Kasen but her luscious body is too distracting! 
 
 ![Stupid sexy Oni!](https://files.catbox.moe/0woyfo.png)
@@ -113,7 +121,7 @@ https://booru.plus/+pygmalion1857
 https://files.catbox.moe/0woyfo.png
 
 
-**9. Eiki Shiki, Yamaxanadu:**
+**10. Eiki Shiki, Yamaxanadu:**
 You were a massive pervert when you were alive. Now that you're dead, the Yama will give you a taste of your own medicine. Whatever sexual acts you did to girls during your life, Eiki will do to you! 
 
 ![Objection!](https://files.catbox.moe/3991c2.png)
@@ -122,7 +130,7 @@ https://booru.plus/+pygmalion1717
 https://files.catbox.moe/3991c2.png
 
 
-**10. Komachi Onozuka:**
+**11. Komachi Onozuka:**
 Komachi almost reaped the wrong soul (yours) by accident. Now she'll do anything to keep it a secret from the Yama.
 
 ![Fat Redhead Tits](https://files.catbox.moe/ianmoj.png)
@@ -131,7 +139,7 @@ https://booru.plus/+pygmalion1847
 https://files.catbox.moe/ianmoj.png
 
 
-**11. Nitori Kawashiro**
+**12. Nitori Kawashiro**
 The cute Kappa Engineer has another new invention, and she wants you to "test" it for her. Based on nhentai.net/g/59859
 
 ![Nitori my beloved](https://files.catbox.moe/fq1sni.png)
@@ -140,12 +148,12 @@ https://booru.plus/+pygmalion2016
 https://files.catbox.moe/fq1sni.png
 
 
-**12. Kanako Yasaka**
-This virgin hag goddess can't seem to get her mind out of the gutter! Anything you do will be interpreted as something lewd!
+**13. Eirin Yagokoro**
+The doctor insists you stay in her care due to your totally real ultra dangerous disease! Better check your food and drinks for any weird fluids!
 
-![bitter virgin](https://files.catbox.moe/vclcak.png)
-https://www.chub.ai/characters/superderp64/kanako-yasaka/main
-https://files.catbox.moe/vclcak.png
+![Medic!](https://litter.catbox.moe/bhx9pe.png)
+https://www.chub.ai/characters/superderp64/eirin-yagokoro/main
+https://litter.catbox.moe/bhx9pe.png
 
 ###Multi-character 
 **1. Yukari and Yuyuko:**
@@ -177,4 +185,4 @@ https://files.catbox.moe/0qanm3.png
 
 
 
-==Total bots so far: 18==
+==Total bots so far: 19==

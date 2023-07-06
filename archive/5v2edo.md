@@ -28,6 +28,9 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Mid-Fight Masses Rechart](https://drive.google.com/file/d/1UkvIneib2G3G5c5snyFZAmHpcyDr_Isq/view)
 ## NEO 3.0 Modified
 [NEO 3.0 Modified Download](https://www.mediafire.com/file/mxe2qozau8ydeya/NEO_patch.zip/file)
+## One Shot Mania
+[Build Download](https://files.catbox.moe/rvmool.zip)
+[FLAs and Scrapped Content](https://files.catbox.moe/br9xoz.rar)
 ## Ourple Guy
 [Guy FLP](https://files.catbox.moe/bycwkj.zip)
 [Lore V1 FLP](https://files.catbox.moe/33dae6.zip)
