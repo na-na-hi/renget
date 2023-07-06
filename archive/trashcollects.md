@@ -677,11 +677,15 @@ Kaminosaki Shiten (Artist)
 
 # Captain Gantu (Lilo and Stitch)
 
-https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
+	https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
 
 # Minerva Campbell (Adventure Time)
 
-https://files.catbox.moe/l4fnta.safetensors
+	https://files.catbox.moe/l4fnta.safetensors
+
+# Noivern (Pokemon)
+
+	https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
 
 ## LORAs from the Discord
 

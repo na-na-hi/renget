@@ -18,9 +18,6 @@ if a bots name is bolded, it means it was requested from /aicg/
 ###Autumnflower group chat 
 i have BIG plans for this, lest to say this isnt completely polished- i want there to be fully fledged RPGmaker-esque fights with other characters in the group chat. this group chat is HEAVILY dialogue focused.
 
-theme:
-[playlist](https://www.youtube.com/watch_videos?video_ids=nLgM1QJ3S_I,0Th4s0edbbs,ckZ2k3-qEIU,raQGZjp-98A,jOyf35vYXYg,ts_zwTFXZgE,e9HzTaIDgyk,OXQLDCAApPg)
-
 Image | Name | Description
 ------ | ------ | ------
 ![Princess](https://files.catbox.moe/kq3vly.png) | Mercia | Princess of Autumnflower, shares her body with a demon named Sixty. 18 year old riddled with hormones and bad decision making

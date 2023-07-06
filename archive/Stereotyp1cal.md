@@ -37,6 +37,8 @@
     **- (7/3/2023):** Updated Koharu from Blue Archive
     **- (7/3/2023):** Updated Mutsuki from Blue Archive
     **- (7/4/2023):** Happy Independance Day to all of the Americans! I had to reupdate my updated bots due to SillyTavern's new features in version 1.8.0
+    **- (7/5/2023):** Updated Fuuka and Hoshino from Blue Archive
+    **- (7/6/2023):** Added a disclaimer in the NSFW loli chatbot section because of retards
 
 [TOC3]
 
@@ -55,9 +57,9 @@ PNG: https://files.catbox.moe/1jidfz.png
 JSON: https://files.catbox.moe/w6m7s0.json
 
 #####**Fuuka**
-![image description](https://files.catbox.moe/1po1oh.png)
-PNG: https://files.catbox.moe/1po1oh.png
-JSON: https://files.catbox.moe/vefr43.json
+![image description](https://files.catbox.moe/5o4e8v.png)
+PNG: https://files.catbox.moe/5o4e8v.png
+JSON: https://files.catbox.moe/smm6mz.json
 
 #####**Hina**
 ![image description](https://files.catbox.moe/2749gh.png)
@@ -65,9 +67,9 @@ PNG: https://files.catbox.moe/2749gh.png
 JSON: https://files.catbox.moe/rmulpd.json
 
 #####**Hoshino**
-![image description](https://files.catbox.moe/vz1l7w.png)
-PNG: https://files.catbox.moe/vz1l7w.png
-JSON: https://files.catbox.moe/7y9a9z.json
+![image description](https://files.catbox.moe/aq3chf.png)
+PNG: https://files.catbox.moe/aq3chf.png
+JSON: https://files.catbox.moe/07nyum.json
 
 #####**Kayoko**
 ![image description](https://files.catbox.moe/l0erxl.png)
@@ -225,6 +227,9 @@ PNG: https://files.catbox.moe/j1508d.png
 JSON: https://files.catbox.moe/nofcx5.json
 
 ####NSFW loli chatbots
+
+!!! danger DISCLAIMER: I do not support pedophilia or real sexual exploitation of children. These chatbots are purely fictional, being made for fantasizing purposes. If you do not like these chatbots, then it is recommended to not use them whatsoever. Thank you!
+
 #####**Anne**
 *As a highly sought after drug requires sexual fluids of prepubescents girls, Anne was unfortunately kidnapped and forced upon illegal activities. You are a scientist of an illegal business who is in charge of extracting her pussy juice as much as physically possible with the use of drugs and tools.*
 ![image description](https://files.catbox.moe/wq92se.png)

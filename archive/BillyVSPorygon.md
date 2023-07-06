@@ -84,7 +84,7 @@ The Link Box's surface spiderwebs with a crack.
 
 “*No… I CAN’T CAVE IN! I NEED TO SURVIVE!”*
 
-From within, the pained growlithe’s body rises up the temperature to an unbearable degree. He can even feel his four paws letting out excess energy and heating the ground below. His spent, burnt muzzle starts to concentrate every ounce of his inner fountain of power. The tongue in his mouth almost sizzles…
+From within, the pained growlithe’s body rises its temperature up to an unbearable degree. He can even feel his four paws letting out excess energy and heating the ground below. His spent, burnt muzzle starts to concentrate every ounce of his inner fountain of power. The tongue in his mouth almost sizzles…
 
 Porygon’s ethereal cannon glows brightly and resoundingly.
 

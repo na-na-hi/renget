@@ -85,6 +85,11 @@
 [Streaming Twitch](https://www.twitch.tv/harumizukich)
 [Twitter](https://twitter.com/harumizukich)<-
 
+->**Jean Faymas**
+![Jean Faymas](https://warosu.org/data/vt/img/0527/91/1688615480627343.png)
+[Streaming Twitch](https://www.twitch.tv/jeanfaymas)
+[Twitter](https://twitter.com/jeanfaymas)<-
+
 ->**Jinx Madoh**
 ![Jinx Madoh](https://i.warosu.org/data/vt/img/0349/94/1665696776414235.png)
 [Streaming Twitch](https://www.twitch.tv/madoh_jinx)

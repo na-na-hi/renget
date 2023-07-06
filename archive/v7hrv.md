@@ -1,0 +1,18 @@
+##Confirmed Babel Locations:
+- **/wg/**
+- **/2434/** (Japanese style)
+- **/vrt/** (Shared with Bucko Scholars)
+- **/nijien/** (Nekobini, Holy Kingdom, Miklagardr, Yamini, Gothic style: Pomerania)
+- **/lazulight/** (Gothic style: Eliria, Syrenia)
+- **/haha/** (Gothic style: Selenium)
+- **/nasfaqg/** (Most major cities)
+- **/meat/**
+- **/morig/**
+- **/who/** (Limited to academic publishing)
+- **/inf/**
+- **/pcg/** (Antiocheia)
+- **/kr/** (Penel, vnug; Korean style: Hanseong, Mujigae; Japanese style: Myeongyang, Tsushima)
+- **/mep/** (Baroque style: Pavolia)
+- **/kfp/**
+- **/wah/**
+- **/hag/**
