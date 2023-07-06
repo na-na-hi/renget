@@ -347,6 +347,15 @@ Recommended Meal: With a name like that, he's gotta have some French in his bloo
 
 ---
 
+>Squire Marie Lonelle
+Right, the knight's little buddy. Not nearly as talked about, but I can respect the people who support the big names from behind. Don't know much about her, but she's from down south too. Sure hope they know what they're doing heading over to Hill People territory. Those fuckers don't take well to people from outside their narrow view of home, and the Frenchie definitely fits into their definition of foreigner. Hey, if the rumors about these two end up being true, more power to them. May they wipe out all those hill freaks and make my job so much easier and less stressful.
+
+Dateable?: I think so. Like I said, don't know much about her, but she can't be real bad folk if she's a companion with a knight wannabe. Plus, if she speaks French... well, it's the language of love for a reason, right?
+
+Recommended Meal: Beef galantine, a croissant, and... well, one of the Glamourzons traded over some giant frogs recently, so I can try out some frog leg meat as an appetizer.
+
+---
+
 >Kara Ramirez
 Just another girl trying to survive in this wasteland and stay out of the way. Makes a decent meal and that's about all she's got to say about herself. Is a bitch to people for no reason because that's how she was brought up. Puts up a tough front that probably doesn't convince anyone.
 

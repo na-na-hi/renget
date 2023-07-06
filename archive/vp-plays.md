@@ -345,3 +345,4 @@ https://arch.b4k.co/vp/thread/54026283/ 13 we're back
 https://arch.b4k.co/vp/thread/54034165/ 14 i love time travel i love making an already convoluted story even harder to follow
 https://arch.b4k.co/vp/thread/54040141/ 15 sidequest hell
 https://arch.b4k.co/vp/thread/54045319/ 16 lol filtered again
+https://arch.b4k.co/vp/thread/54049796/ 17

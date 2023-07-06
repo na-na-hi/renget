@@ -855,7 +855,6 @@ Pros:
 - Buffs self on UB and S1
 - S2 buff applies faster than Inori & Mifuyu Pos 1 stun
 - S2 buff applies faster than S.Misogi's stun if S.Misogi is Pos 2
-- EX gives 
 
 Cons:
 - Can get stunned out of her 1st action by S.Misogi 1st pos (Or Pos 2 with NY.Muimi/Rima)

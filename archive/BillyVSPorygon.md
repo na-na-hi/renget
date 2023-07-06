@@ -62,9 +62,11 @@ Electricity *crackles* from the renewed body. Sinister whooshing sounds are acco
 
 The foreboding noises reach a fever pitch. The meshes are reminiscent of a cannon poised to annihilate.
 
-[A loud monotone command is issued from Porygon's mouthless being](https://files.catbox.moe/b73nxl.mp3):
+[Two loud monotone commands are issued from Porygon's mouthless being](https://files.catbox.moe/b73nxl.mp3):
 
-`RUN var(lock-on, hyper-beam)!!!`
+`ml.use(lock-on)!!`
+
+`ml.use(hyper-beam)!!`
 
 Among the aghast spectators, Bill's brother stands up in abject horror:
 
@@ -84,7 +86,7 @@ The Link Box's surface spiderwebs with a crack.
 
 From within, the pained growlithe’s body rises up the temperature to an unbearable degree. He can even feel his four paws letting out excess energy and heating the ground below. His spent, burnt muzzle starts to concentrate every ounce of his inner fountain of power. The tongue in his mouth almost sizzles…
 
-Porygon’s etheral cannon glows brightly and resoundingly.
+Porygon’s ethereal cannon glows brightly and resoundingly.
 
 A flare glimmers at its core.
 
@@ -116,7 +118,9 @@ Light engulfs Bill.
 
 ...
 
-Porygon's cannon unravels. As its ghostly components vanish, the 3D duck model falls down to the ground like a lifeless puppet once again. Bill's smoking body lies several feet away. Even from this distance, anyone can tell that he's not conscious anymore.
+Porygon's cannon unravels. As its ghostly components vanish, the 3D duck model falls down to the ground like a lifeless puppet once again.
+
+Bill's smoking body lies several feet away. Even from this distance, anyone can tell that he's not conscious anymore.
 
 No one is there to help pick up everyone's jaws from the ground.
 

@@ -66,3 +66,4 @@ Public on my CAI profile [here](https://beta.character.ai/public-profile/?char=P
 
 Biscuit and McMaid have cards made for them by some other anons on Pygbooru already...I think
 Any new characters appearing on the list will be card/chub only, C.AI is fucked
+Chub user is brsc

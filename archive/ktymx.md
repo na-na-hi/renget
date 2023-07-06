@@ -90,15 +90,13 @@ version 0.0.3
 
 >{Łucja} asks you to take off your space suit so that she can run a scan for potential pathogens.
 >She must be rather clever, because you wouldn't have thought of that had the positions been reversed.
+>As you removed your EVA suit, you noticed that {Łucja} fidgeted about and look around as if she was nervous.
 >After exiting your space suit, {Łucja} comes up to you with some sort of device in her hand.
->You expected a bunch of questions from her, but
+>You expected a bunch of questions from her, but apperently she was too focused on the task at hand right now.
 >She presses a button on the device and waves it over your body.
 >After a brief wait, the device beeps and {Łucja} sighs in relief.
 >"Thankfully you aren't carrying anything. I would have hated keeping this thing on." says {Łucja}.
 >With that, she starts taking off her quarantine suit.
 >You reflexively look away, trying to be respectful.
 >When you finally look back and finally get a good look at the first intelligent alien to ever be encountered by humans, you are a bit shocked.
->For an alien, she looks rather similar to an Earth species. 
->Specifically, like some kind of humanoid European Polecat.{You had seen a documentary on those some years ago.}
->Although normally they had a dark coloring, not a reddish one.
->Maybe she was erythristic?
+>She had two short pointed ears on the top of her head; brown, forward facing eyes like an earth predator would have; a muzzle with a dark brown nose. She was entirely covered in reddish fur of varying lightness except for around the tip of her muzzle, which was a pale cream. Her body was was somewhat slender. She was wearing a black bra covering up decently sized breasts, along with matching undergarmets. Her hands and feet had short claws, with the claws on the fingers being slightly longer than the ones on the toes. Finally, she had a tail that was about one third of the length of her body.

@@ -82,6 +82,10 @@ https://huggingface.co/quackquack22/Cartoon_Character_LoRa_Files/tree/main
 https://civitai.com/models/30122/ariel-the-little-mermaid
 - Melusine
 https://civitai.com/models/18983/melusine
+- Will (W.I.T.C.H)
+https://civitai.com/models/103208/will-witch
+- Lanfeust of Troy
+https://rentry.org/acorepo2/#lanfeust-of-troy
 - Emmy the Robot
 https://civitai.com/models/77535?modelVersionId=82313
 - Aeon Flux (Liquid Television)
@@ -96,6 +100,7 @@ https://civitai.com/models/76386/kylie-griffin-ghostbusters
 https://civitai.com/models/71628/irma-langenstein-tmnt-1990s
 	+ April O'Neil
 https://civitai.com/models/51651/esthetic-april-oneil-1987-tmnt
+https://civitai.com/models/103467/april-oneil-tmnt-80s-version
 https://civitai.com/models/72423/april-april-oneil-1987-lora
 	- Lotus Blossom
 https://civitai.com/models/82300/lotus-blossom-tmnt-1980s
@@ -123,7 +128,8 @@ https://civitai.com/models/83512/steelheart-silverhawks-lycoris
 	- Willa
 https://civitai.com/models/100911/willa-thundercats-80s-version
 	- WilyKit 
-https://civitai.com/models/97486/wilikit-thundercats
+https://civitai.com/models/102888/wilykit-thundercats-80s-version
+https://civitai.com/models/41156/wilykit-thundercats-2011
 - Dungeons and Dragons
 	+ Sheila 
 https://civitai.com/user/Montitto/models
@@ -379,16 +385,12 @@ https://civitai.com/models/27689?modelVersionId=33150
 - Gretel Grant-Gomez (Hamster & Gretel)
 https://civitai.com/models/23752?modelVersionId=28377
 - Star vs. the Forces of Evil
-	+ Eclipsa Butterfly 
-https://civitai.com/models/32864/eclipsa-butterfly
 	+ Mariposa Diaz 
 https://civitai.com/models/77569/mariposa-diaz-or-star-vs-the-forces-of-evil
 	+ Star Butterfly
 https://civitai.com/models/47886/star-butterfly-with-outfits
 	- Jackie Lynn Thomas
 https://civitai.com/models/48778?modelVersionId=53488
-	- Hekapoo
-https://civitai.com/models/32849/hekapoo
 	- Angie Diaz Mom
 https://civitai.com/models/48542?modelVersionId=53138
 - The Owl House
@@ -720,7 +722,7 @@ https://civitai.com/models/92471/sera-dai
 	- Desire Demon
 https://civitai.com/models/90217?modelVersionId=96075
 - The Witcher
-https://rentry.org/acorepo2#witcher
+https://rentry.org/acorepo2#the-witcher
 - Rayne (BloodRayne)
 https://civitai.com/models/94577/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -751,6 +753,13 @@ https://civitai.com/models/97151/sorceress-or-diablo-2
 https://civitai.com/models/99714/diablo-iv-lilith-nsfw
 - Shelob (Lord of the Rings/Shadow of War)
 https://civitai.com/models/100194/shelob-shadow-of-war
+- God of War Ragnarök
+	+ Freya
+https://civitai.com/models/102534/freya-god-of-war-ragnarok
+	- Sif
+https://civitai.com/models/101890/sif-god-of-war-ragnarok
+	- Thrud
+https://civitai.com/models/102219/thrud-god-of-war-ragnarok
 - Fortnite
 https://rentry.org/acorepo2#fortnite
 - Apex Legends
@@ -867,6 +876,8 @@ https://civitai.com/models/85165/kim-possible-style-lora
 https://civitai.com/models/49968/invincible-style-lora
 - South Park
 https://civitai.com/models/86453/south-park-style-lora
+- Beavis and Butthead
+https://civitai.com/models/103326/beavis-and-butthead
 ***
 - JabComix
 https://civitai.com/models/18828/jabcomix
@@ -925,8 +936,8 @@ https://civitai.com/models/90227/benedictus-variations
 https://civitai.com/models/86718/malika-favre-flat-color
 - Jacqueline Bissett
 https://civitai.com/models/65466/fashion-watercolor
-- Marcel Marlier 
-https://civitai.com/models/85044/marcel-marlier
+- Anky Moore
+https://civitai.com/models/83582/ankymoore-illustration
 - Lucy Fleming 
 https://civitai.com/models/64530/lucy-fleming-illustration
 - Antonella Fant 
@@ -954,6 +965,8 @@ https://civitai.com/models/54833?modelVersionId=59209
 https://civitai.com/models/82582/thick-impasto-painting
 - Tamara de Lempicka
 https://civitai.com/models/17411?modelVersionId=20582
+- Van Gogh
+https://civitai.com/models/100873/van-gogh-style
 - Rembrandt
 https://civitai.com/models/76481/rembrandt-style
 https://civitai.com/models/88888/art-by-rembrandt-harmenszoon-van-rijn
@@ -972,11 +985,16 @@ https://mega.nz/folder/NigH0IYJ#Hi0KhHGqfv72VzXFjgpeHQ
 - Patrick Nagel 
 https://files.catbox.moe/bmipuq.safetensors
 ~~https://civitai.com/models/55943/patrick-nagel-pin-up-artist-series-nsfw~~
++ Eclipsa Butterfly 
+https://files.catbox.moe/6eo75y.safetensors
+~~https://civitai.com/models/32864/eclipsa-butterfly~~
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~
 
 ---
+- Hekapoo
+~~https://civitai.com/models/32849/hekapoo~~
 - Psylocke (X-Men)
 ~~https://civitai.com/models/77450/psylocke-x-men-lora~~
 - Kitty Pryde (X-Men)

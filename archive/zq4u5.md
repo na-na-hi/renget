@@ -41,3 +41,6 @@ https://rentry.org/u9hce
 
 >Pandaren cookie
 https://rentry.org/ozfzb
+
+>Chise's experiments
+https://rentry.org/z7p93

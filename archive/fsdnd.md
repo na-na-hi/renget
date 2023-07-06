@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2586* | Last image filter update: */hmofa/ thread #2585*
+#######Last word filter update: */hmofa/ thread #2588* | Last image filter update: */hmofa/ thread #2585*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -175,7 +175,9 @@
 /\d\nhere's your white(| human) male/i;boards:trash;op:no 
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
-/(?=.\*\>\w)(?=.\*\nwat do\?$)/ims;boards:trash;op:no
+/skitzy/i;boards:trash;op:no
+/she fucks shotas/i;boards:trash;op:no
+/(?=.\*\>\w)(?=.\*\nwat do\?$)/ims;boards:trash;file:yes;op:no
 
 /hypersmegma/i;boards:trash;op:no
 /(c\\wck|purity)f\\wg/i;boards:trash;op:no

@@ -10,6 +10,7 @@ Brunnea "Sunny" Brown (Mutant): archive.4plebs.org/tg/post/89397361
 Dr. Acheron (Mutant): archive.4plebs.org/tg/post/89427276
 #### Hillfolk Country
 Sir Philippe Dubois of New Orleans (Settlement Survivor): https://archive.4plebs.org/tg/post/89440740
+Squire Marie Lonelle (Settlement Survivor): https://archive.4plebs.org/tg/post/89470571 
 #### Southern Wastes (Highway Patrol + Trailer Park)
 Dr. Charles Crane (Settlement Survivor): https://archive.4plebs.org/tg/post/89380403
 Mike the Driver (Settlement Survivor): https://archive.4plebs.org/tg/post/89398967
@@ -24,7 +25,7 @@ Phi (Robot): https://archive.4plebs.org/tg/post/89415344 (more information at ht
 Victor (Robot): https://archive.4plebs.org/tg/post/89422772
 David "Profit" Wiles (Settlement Survivor): https://archive.4plebs.org/tg/post/89423767
 Bob Kilpatrik (Settlement Survivor): https://archive.4plebs.org/tg/post/89426616
-Becka "Queen Bea" (Raider): https://archive.4plebs.org/tg/post/89429924
+Becka "Queen Bee" (Raider): https://archive.4plebs.org/tg/post/89429924
 #### Nymph-Infested Swamps
 The Nymphs - Glimmer, Bliss, Doe, Kitty, Sprite (Mutants): https://archive.4plebs.org/tg/post/89385405
 Amu (Robot): https://archive.4plebs.org/tg/post/89383565
@@ -80,6 +81,7 @@ NTR: https://archive.4plebs.org/tg/post/89399878
 Water: https://archive.4plebs.org/tg/post/89422342
 Hippocratic Oath Shitpost: https://archive.4plebs.org/tg/post/89422525
 Isha's Husband Rankings: https://archive.4plebs.org/tg/post/89439575
+Kara's Would/Wouldn't Rankings (Yuri): https://archive.4plebs.org/tg/post/89462253
 ### Artfags
 ANT KING: https://archive.4plebs.org/tg/post/89395657
 Kara Ramirez: https://archive.4plebs.org/tg/post/89418140

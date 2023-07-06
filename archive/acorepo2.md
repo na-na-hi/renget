@@ -198,7 +198,7 @@ https://civitai.com/models/39447/fortnite-dolph
 - Polar Patroller
 https://civitai.com/models/86250/polar-patroller-fortnite
 
-# Witcher
+# The Witcher
 
 + Yennefer
 https://civitai.com/models/78888/yenneferthewitcher3
@@ -261,3 +261,22 @@ https://civitai.com/models/20579/vriska-serket-homestuck
 https://civitai.com/models/38824/karkat-vantas-homestuck
 - John Egbert
 https://civitai.com/models/76494/john-egbert-homestuck
+
+# Lanfeust of Troy
+
+- C'ian
+https://civitai.com/models/95149/cian-lanfeust-of-troy
+- Cixi
+https://civitai.com/models/92965/cixi-lanfeust-of-troy
+- Falordelle
+https://civitai.com/models/95400/falordelle-lanfeust-of-troy
+- Glace
+https://civitai.com/models/95402/glace-lanfeust-of-the-stars
+- Quam
+https://civitai.com/models/95407/quam-lanfeust-of-the-stars
+- Lanfuest of Glinin
+https://civitai.com/models/97933/lanfeust-of-glinin
+- Thanos
+https://civitai.com/models/97926/thanos-lanfeust-of-troy
+- Hebus
+https://civitai.com/models/97708/hebus-lanfeust-of-troy

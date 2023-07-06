@@ -36,7 +36,7 @@ The easiest way to use our models is to use the **Agnaistic** client, which can 
 	- 6B/7B: 16 GB
 	- 13B: 32 GB
 
-Further instructions for running Pygmalion locally can be found at our **[docs page](https://docs.alpindale.dev/)**. The docs page in general is a great source of resources, so we recommend checking it out regardless of whether you're running Pygmalion locally or not.
+Further instructions for running Pygmalion locally can be found at our **[docs page](https://docs.pygmalion.chat)**. The docs page in general is a great source of resources, so we recommend checking it out regardless of whether you're running Pygmalion locally or not.
 ___
 ## [FAQ](https://www.youtube.com/watch?v=F1vggBwTJPk)
 

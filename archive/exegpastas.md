@@ -25,6 +25,7 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Skinned State*|Super Mario 64|[(link)](https://rentry.org/skinnedstate)
 *Goosebumps: The Masked Mutant's Devastation*|Goosebumps: Attack of the Mutant|[(link)](https://rentry.org/maskedmutant)
 *Walking Specimen*|Elden Ring|[(link)](https://rentry.org/walkingspecimen)
+Unnamed Item Monitor pasta (WIP)|Sonic the Hedgehog 2, various others|[(link)](https://rentry.org/ewq95)
 
 ##.exe pastas
 Title|Link

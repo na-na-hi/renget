@@ -41,10 +41,6 @@
 - Excellent directory containing tons of high-quality movies and TV shows, as well as a good number of ebooks.
 - [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
 
-### 🔗 [FooGle](https://foogle.shivamhw.me/)
-- Super-fast downloads without requiring registration, either through the website or Google Drive, but often has limits.
-- [URL Safety Results](https://www.urlvoid.com/scan/foogle.shivamhw.me/)
-
 ### 🔗 [Medeberiya](https://medeberiyaa.com/)
 - An entertainment website that provides the most recent direct download links to your favorite TV series, movies, and other types of content.
 - [URL Safety Results](https://www.urlvoid.com/scan/medeberiyaa.com/)

@@ -57,7 +57,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![sorta self-cardy](https://files.catbox.moe/sdnh19.png) | Almond | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
+![sorta self-cardy](https://files.catbox.moe/cw2b76.png) | Almond | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
 ![virginity is sacred anon!](https://files.catbox.moe/hymrye.png) | **Kalia** | furry golden retriever girl that protects your virginity from other anthros that go feral on you | [CHUB link](https://www.chub.ai/characters/onaholesama/Kalia)
 ![HAAAAAAAAAAAAATS](https://files.catbox.moe/1u8tui.png) | **Missy** | cryptid monstergirl that is exceptionally lazy and a leech. likes watching old timey movies and wearing cute t shirts | [CHUB link](https://www.chub.ai/characters/onaholesama/Missy)
 ![tomboy](https://files.catbox.moe/26pnpp.png) | **Talia** | smelly, musky tomboy doggirl that accidentally bumps into you after you finish class. tomboy. | [CHUB link](https://www.chub.ai/characters/onaholesama/Talia)
