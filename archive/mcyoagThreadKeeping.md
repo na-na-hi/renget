@@ -527,6 +527,14 @@ https://rentry.org/bnu9t
 https://rentry.org/8rzuy
 >The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
 https://rentry.org/akrst
+>Misadventures at the Dojo Part 2: Wildfire (Yako, Maru(maru), Yamata, Last Rite, Drekus, and other minor appearances)
+https://rentry.org/DojoMisadventure2
+>Fourth of July in Japan(1-D, Rosethorn)
+https://rentry.org/wvogc
+>Maxine Nguyen in: Smoke Break (Radius, Marrow, others)
+https://rentry.org/7vudv
+>Attack of Titans (Flying Force, Maddox)
+https://rentry.org/fwfpv
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

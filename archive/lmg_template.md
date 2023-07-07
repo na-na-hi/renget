@@ -4,12 +4,13 @@
 ->![Artist: keenH | Source: https://www.pixiv.net/en/artworks/76986607](https://files.catbox.moe/50uhrb.png)<-
 -> `Artist: keenH` | [HK416-C](https://www.pixiv.net/en/artworks/76986607) ->
 ***
-!!! Note News Section Updated (06/30/2023)
+!!! Note News Section Updated (07/07/2023)
 ***
 ##->Main Body for OP Template:<-
 ►**Previous Threads >>9xxxxxxx & >>9xxxxxxx**
 
 ►**News**
+\>(07/01) OpenChat and OpenCoderPlus models released
 \>(06/29) LMSYS releases longchat 7B/13B with 16k context
 \>(06/29) OpenOrca dataset releases
 \>(06/29) koboldcpp v1.33 adds CUDA and extended context support
@@ -18,7 +19,6 @@
 \>(06/26) Ooba's webui adds support for extended context with exllama
 \>(06/24) WizardLM-33B-V1.0-Uncensored releases
 \>(06/23) SuperHOT 30B 8k prototype + extending context write up releases
-\>(06/23) Ooba's preset arena results and SuperHOT 16k prototype releases
 
 ►**FAQ & Wiki**
 \>Main FAQ
@@ -114,6 +114,7 @@ Another LLM Roleplay Rankings | https://rentry.co/ALLMRR
 ##->Archived News:<-
 Date: (MM/DD/YYYY) | Description:
 ------ | ------
+06/23/2023 | Ooba's preset arena results and SuperHOT 16k prototype releases
 06/22/2023 | Vicuna 33B (preview), OpenLLaMA 7B scaled and MPT 30B released
 06/20/2023 | SuperHOT Prototype 2 w/ 8K context released >>94191797
 06/18/2023 | Minotaur 15B 8K, WizardLM 7B Uncensored v1.0 and Vicuna 1.3 released

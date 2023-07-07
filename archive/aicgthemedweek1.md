@@ -1,8 +1,8 @@
-# /AICG/ THEMED WEEK
+# /AICG/ THEMED WEEK #1
 ***
 !!! info
-	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [poll](https://strawpoll.com/polls/eJnvvop39nv/results), the winner of which became the prompt for botmakers to test their skills at <-
-#### -> Here is the collection of cards submitted for the themed bot challenge, listed in no particular order <-
+	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [POLL](https://strawpoll.com/polls/eJnvvop39nv/results), the winner of which became the prompt for botmakers to test their skills at <-
+#### -> Here is the collection of cards submitted for the first themed bot challenge, listed in no particular order <-
 ***
 -> ![](https://files.catbox.moe/iqykod.jpg) <-
 ### -> Running a cat cafe with anthro cat girls <-

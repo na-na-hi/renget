@@ -5,11 +5,12 @@
 !!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
-!!! note Testing d0 changes. Will update again if needed.
+!!! note Guide is done, everything has been tested. If your results are unsatisfactory even now then you have a skill issue in which I case recommend you to keep making wasteful networks.
 
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
-##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR ADJUST SETTINGS.
+##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR ADJUST SETTINGS SO IT GOES DOWN SMOOTHER.
+####SPIKES CAN BE GOOD, DEPENDS ON YOUR DATASET SIZE AND QUALITY.
 ![](https://imagizer.imageshack.com/img924/8109/K5kHtl.png)
 ##PINK = D_COEF 1 | CYAN = D_COEF 2 | THANOS = D_COEF 3
 
@@ -46,13 +47,14 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
 !!! note Change the train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
+!!! note train_on_input means training inwards (good for characters), disabling it means training outwards (good for style).
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=60\" \"eta_min=0.100\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=120\" \"eta_min=0.200\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.000,
   "caption_dropout_rate": 0,
-  "epoch": 60,
+  "epoch": 120,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
@@ -66,7 +68,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,

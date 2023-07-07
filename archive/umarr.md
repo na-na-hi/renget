@@ -23,7 +23,7 @@ All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjo
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
- ![T](https://files.catbox.moe/cakaz2.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/cakaz2.png)
+ ![T](https://files.catbox.moe/it6skv.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/it6skv.png)
 
 ###Narrator bots
 Add them to your group chats for fun. You can also rip their descriptions and put in your jailbreak, but this gives you more control.
@@ -52,3 +52,5 @@ Rapi - https://files.catbox.moe/7tq3ll.png
 
 ### Other character bots
 JOI - From Bladerunner 2077 - https://files.catbox.moe/1lef6j.png
+
+Taking one (uno) request -> sandwich4093@proton.me

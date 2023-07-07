@@ -192,3 +192,17 @@ Fish joke
 seriously tho THEYRE SO HOT?LIKE I DIDN’T EXPECT THIS TO WORK AT ALL
 
 [CHUB link](https://www.chub.ai/characters/nicenshady/feeding-the-fish)
+***
+
+###😭😭😭
+erotic.
+Sarah and Harper | quip
+------ | ------ 
+ ![lana is actually so fucking mid like oh my god](https://files.catbox.moe/mjwjf9.png) | Your girlfriend Lana said they're "quite the handful". You thought she was exaggerating (she wasn't).
+
+Cute? Maybe. 
+Funny? Yeah.
+I've seen like 20 "aged up" lana cards so this is my hail mary.
+
+[Uncensored card](https://files.catbox.moe/mjwjf9.png)
+[CHUB link](https://www.chub.ai/characters/nicenshady/sarah-and-harper)

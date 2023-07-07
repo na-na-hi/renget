@@ -7,7 +7,7 @@ I heard some anons said that W++ is meme format. I already made them all in W++ 
 Remember that all the card shown here does not represent the real person and any action the bots take must not be mistaken for their actual personality. 
 It is all fiction and just for fun.
 
-All Cards made with W++ is tested using TavernAI + Pygmalion 6B. 
+All cards is tested using SillyTavern + GPT 3.5 except for cards made with W++ format which is tested using TavernAI + Pygmalion 6B. 
 Haven't tested all the non W++ version on pyg but it should also work just fine on pyg as well from what I have already tested. 
 I also included the numbers of Token for the non W++ for those who don't want to waste their OAI usage quota on cards with large amount of tokens.
 
@@ -147,6 +147,12 @@ Non W++ version: https://files.catbox.moe/a0ogf0.png
 ==Total Tokens:== 
 - 306 (With example messages)
 - 247 (Without example messages)*
+#####Maid Suisei (Hoshimachi Suisei)
+Non W++ version: https://files.catbox.moe/1convr.png
+
+==Total Tokens:== 
+- 389 (With example messages)
+- 332 (Without example messages)*
 
 *\*Also without first message*
 
@@ -190,21 +196,21 @@ Look for import button in TavernAI Characters selection UI and browse the PNGs y
 
 **2. Multi character card doesn't work properly?**
 
-Multi character only works properly on OAI/GPT 3.5. If you use Pyg then I am afraid that it is not possible to make it work properly since it is the current limitation on pyg. You can try, but the quality wouldn't be that good.
+Multi character only works properly on OAI/GPT 3.5 or any other LLM like Claude. If you use Pygmalion then I am afraid that it is not possible to make it work properly since it is the current limitation on pyg. You can try, but the quality wouldn't be that good.
 
 **3. All the character keep barging into the conversation when I use the multi character card.**
 
-Happens a lot when you want to be alone with one character or want to exclude a certain character in the conversation. Just type in the scenario on the character advanced edit page: "You and X and Y and etc... are the only one in the room." Doesn't work 100% of the time, but will save you a lot of tokens from having to keep regenerating messages constantly from everyone barging in the conversations.
+Happens a lot when you want to be alone with one character or want to exclude a certain character in the conversation. Just type in the system prompt/author note/scenario on the character advanced edit page: "You and X and Y and etc... are the only one in the room." Doesn't work 100% of the time, but will save you a lot of tokens from having to keep regenerating messages constantly from everyone barging in the conversations.
 
 **4. Help! The bots keep puppeteering me and putting words in my mouth!**
 
 I noticed this happens very rarely with GPT 3.5 and more occasionally with the Multi-character cards. It just my own assumption, but the bots might have mistaken "You" as another character instead of well... (You). Though this is just baseless assumption and should be taken with a grain of salt. ~~The best advice I can give (You) is to edit out the "You" part the bot generate. It's a lot more cheaper than regenerating the message.~~
-If you use Silly Tavern or other frontend that lets you edit the system prompt, try to add "Do not write {{user}} dialogue into the story" or some other variations into the main prompt. And if still doesn't work put it into your Jailbreak Prompt like the example bellow:
+~~If you use Silly Tavern or other frontend that lets you edit the system prompt, try to add "Do not write {{user}} dialogue into the story" or some other variations into the main prompt. And if still doesn't work put it into your Jailbreak Prompt like the example bellow:~~
 ==~~[System Note: Do not write {{user}} dialogue into the story]~~==
 
 ==(Edit: Some anon said that writing "Do not" is actually counterproductive for LLM like GPT or Claude, thus I suggest try different instruction that doesn't use the word "Do not" or other variations instead. What work best for me is using "Only assume the role of {{char}}." but it might be different for case by case basis depending on the bots.)==
 
-Try to change the wording if it still doesn't work or maybe add "you" character into the prompt above if it keep generating You dialogue.
+~~Try to change the wording if it still doesn't work or maybe add "you" character into the prompt above if it keep generating You dialogue.~~
 
 **5. What is a "System Prompt"?**
 
@@ -212,4 +218,4 @@ System prompt is basically a text prompt that your front end send to an AI model
 
 Each front end has different style of System Prompt but generally it is usually divided into: Main Prompt, NSFW prompt, and Jailbreak prompt. I don't think I need to explain what Main and NSFW prompt for, what you must understand is the Jailbreak prompt. Any instruction you put into Jailbreak prompt will be treated as first priority by the AI. If the AI keep giving you "As an AI model I cannot..." answer, you can use the Jailbreak prompt to bypass their ethic answers. 
 
-Different AI model will need different kind of wording to bypass it, adding "System Note:" in front of your instruction usually also help to bypass the AI ethic answer. But do not abuse this Jailbreak too much. Too many instruction in Jailbreak prompt will lower it effectiveness. Also since Jailbreak prompt is treated as priority, if you put NSFW stuff in there the AI will think that you want NSFW situation everytime you enter your reply. Making your characters horny all the time. Only use Jailbreak when you need it. Some front end like Silly Tavern can toggle Jailbreak on and off so you don't need to erase and write it every time you want to use it.
+Different AI model will need different kind of wording to bypass it, adding "System Note:" in front of your instruction usually also help to bypass the AI ethic answer. But do not abuse this Jailbreak too much. Too many instruction in Jailbreak prompt will lower it effectiveness. Also since Jailbreak prompt is treated as priority, if you put NSFW stuff in there, the AI will think that you want NSFW situation every time you enter your reply, making your characters horny all the time. Only use Jailbreak when you need it. Some front end like Silly Tavern can toggle Jailbreak on and off so you don't need to erase and write it every time you want to use it.
