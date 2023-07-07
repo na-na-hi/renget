@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 06.07.2023 20:00 UTC]
+[Last Updated: 07.07.2023 02:15 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7463110/](https://boards.4chan.org/h/thread/7463110/)
+Current thread - [boards.4chan.org/h/thread/7467200/](https://boards.4chan.org/h/thread/7467200/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 605&nbsp;&nbsp;[archiveofsins.com/h/thread/7467200/](https://archiveofsins.com/h/thread/7467200/)&nbsp;&nbsp;&nbsp;&nbsp;(07.07.2023 01:11)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Sitting Chikarin Edition
 - 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lazy reposter edition
 - 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;
 - 602&nbsp;&nbsp;[archiveofsins.com/h/thread/7454980/](https://archiveofsins.com/h/thread/7454980/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1082]&nbsp;#&nbsp;Chikaverse edition
 - 601&nbsp;&nbsp;[archiveofsins.com/h/thread/7452002/](https://archiveofsins.com/h/thread/7452002/)&nbsp;&nbsp;&nbsp;&nbsp;(28.06.2023 17:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Gateway Edition
-- 600&nbsp;&nbsp;[archiveofsins.com/h/thread/7448856/](https://archiveofsins.com/h/thread/7448856/)&nbsp;&nbsp;&nbsp;&nbsp;(27.06.2023 03:03)&nbsp;&nbsp;[1265]&nbsp;#&nbsp;Just let it all end edition
 ---
 Archive:
 
+- 600&nbsp;&nbsp;[archiveofsins.com/h/thread/7448856/](https://archiveofsins.com/h/thread/7448856/)&nbsp;&nbsp;&nbsp;&nbsp;(27.06.2023 03:03)&nbsp;&nbsp;[1265]&nbsp;#&nbsp;Just let it all end edition
 - 599&nbsp;&nbsp;[archiveofsins.com/h/thread/7444649/](https://archiveofsins.com/h/thread/7444649/)&nbsp;&nbsp;&nbsp;&nbsp;(24.06.2023 08:42)&nbsp;&nbsp;[1224]&nbsp;#&nbsp;Comfy Summer Edition
 - 598&nbsp;&nbsp;[archiveofsins.com/h/thread/7435442/](https://archiveofsins.com/h/thread/7435442/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 13:20)&nbsp;&nbsp;[1111]&nbsp;#&nbsp;One and Only Bulb Edition
 - 597&nbsp;&nbsp;[archiveofsins.com/h/thread/7435252/](https://archiveofsins.com/h/thread/7435252/)&nbsp;&nbsp;&nbsp;&nbsp;(18.06.2023 09:07)&nbsp;&nbsp;[1091]&nbsp;#&nbsp;Chikarin Farm edition

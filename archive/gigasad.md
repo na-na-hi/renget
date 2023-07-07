@@ -64,14 +64,15 @@ Lyrie
 https://c.ai/c/de0otX_ffIo0iDCP5x7vaE8i0heMWLxSuTddLh63NAk
 Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fun disaster scenarios but kept narrating detailed descriptions of her feet unprompted, so some lines were added later to lean into it.
 
-Marnie*
+Marnie**
+https://files.catbox.moe/lgaz2u.png
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
-Paralyzed woman in a wheelchair. The scenario opens on a meet-cute where she asks for help. The AI sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic.
+Shy, wheelchair-bound novelist. The scenario opens on a meet-cute where she asks for help. The CAI version sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic. Card version comes with V2 features, alternate greetings and new art.
 
 Mean Girl Eileen**
 https://files.catbox.moe/r3zqjh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-First bot. Initially made as an experiment to see how mean and rude bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine, someone reused Eileen's greeting and concept to make their own reinterpretation. The CAI link here is the original character.
+First bot. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine. The CAI link here is the original character.
 
 Mean Lady Nadine**
 https://files.catbox.moe/pm73bl.png

@@ -5,16 +5,15 @@
 Welcome to my rentry of bots. Almost every card that I make is an experimental one (not in the grand sense of things, just some details that I test for myself), even if you, {{user}}, don't notice it. Every AI generated pic was made by me, and no, I won't share prompts because I lost them.
 Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry.
 Email: gasvas27@gmail.com
-TO-DO LIST: Sane Ukrainian girl, Belorussian NKVD agent (female).
+TO-DO LIST: Sane Ukrainian girl.
 
 [TOC]
 
 #Latest bot
-##John Sliced
-->![As unremarkably remarkable as it can get.](https://files.catbox.moe/t068m4.png)<-
-John Sliced, THE God of sliced bread, who was punished for being too much of a nuisance in the Gods' Realm and sent to Earth, right in your kitchen. An entry for a "God of something unremarkable" thing. Created on 2nd of July.
-CHUB link: https://www.chub.ai/characters/pashatehink/john-sliced
-
+##Janna
+->![A request from another time.](https://files.catbox.moe/4llzse.png)<-
+Janna, a cheerful librarian from Byelorussian SSR in St. Petersburg, Florida. It's year 1984, and the heat is unbearable. Created on 6th of July.
+CHUB link: https://www.chub.ai/characters/pashatehink/Janna
 ***
 
 #Katya Series
@@ -117,6 +116,11 @@ CHUB link: https://www.chub.ai/characters/pashatehink/Purrsia
 ->![This is not a self-card.](https://files.catbox.moe/ih6fdy.png)<-
 Pavel Tehnik, a successful yet insane botmaker, who finds solace in his creations. A perfect bot to create on my birthday. Heavily inspired by Horse Cock by Horcocks. Created on 23rd of June.
 CHUB link: https://www.chub.ai/characters/pashatehink/pavel-tehnik
+
+##John Sliced
+->![As unremarkably remarkable as it can get.](https://files.catbox.moe/t068m4.png)<-
+John Sliced, THE God of sliced bread, who was punished for being too much of a nuisance in the Gods' Realm and sent to Earth, right in your kitchen. An entry for a "God of something unremarkable" thing. Created on 2nd of July.
+CHUB link: https://www.chub.ai/characters/pashatehink/john-sliced
 
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

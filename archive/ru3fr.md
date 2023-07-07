@@ -1,4 +1,4 @@
-![Billy Kido](https://img.4plebs.org/boards/tg/image/1688/22/1688226665122659.jpg)
+![Billy Kido](https://desu-usergeneratedcontent.xyz/tg/image/1688/22/1688226665122.jpg)
 
 Name: Billy Kido
 >Location
@@ -35,7 +35,7 @@ Plasma Sword - An old and experimental variant of the plasma gun. Instead of the
 (-22) Praise the Lord and Pass the Ammunition [+10 CR]
 (-14) Concealment Mechanism [+7 CR] - The plasma generator has been modified to fit into a plain black gun case, along with the hose, scabbard, and sword. While being a gun case can raise some suspicion, it's still far better than the backpack being out in the open. When engaged in combat, there are straps on one side so that Billy can comfortably carry the case on his back, and the sword and scabbard is ejected through a hole at the bottom, where he can put the scabbard to his waist.
 
-![Poorly Drawn Gun Case](https://img.4plebs.org/boards/tg/image/1688/22/1688226768845951.png)
+![Poorly Drawn Gun Case](https://desu-usergeneratedcontent.xyz/tg/image/1688/22/1688226768845.png)
 
 "This costed me a fortune and it still gets me odd looks now and then... not as bad as hauling around that bulky, metal backpack at least."
 

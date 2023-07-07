@@ -6,6 +6,7 @@
 !!! info
 	- When Filling a request you can just copy the info from here and move it over to [The public edit CSP Rentry](https://rentry.org/CSP_Brushes_Public_Edit) Or any derivative 
 	- Remove entry when it is uploaded
+	- [Markdown extraction button](https://rentry.org/CSP_markdown_script) userscript that extracts all the necessary info already formatted and ready to past on any given asset store link.
 [TOC2]
 ***
 
@@ -14,6 +15,8 @@
 ### 10 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Stroke long hand drawn diagonal set (ストローク長め手描き斜線セット)** | [1819421](https://assets.clip-studio.com/en-us/detail?id=1819421) | **10 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/94/1819421/thumbnail?1612683340)
+**MZ Pink Corrected (MZ 핑크 보정(updated))** | [1895113](https://assets.clip-studio.com/en-us/detail?id=1895113) | **10 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
  **INK + MARKER + OIL sketch brush**|[1973976](https://assets.clip-studio.com/en-us/detail?id=1973976)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/39/1973976/thumbnail)
 **BigBrushSet![Limited time 10CP]**|[2004452](https://assets.clip-studio.com/en-us/detail?id=2004452)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/44/2004452/thumbnail)
 **softBrush♦B8pencil♦DryInk**|[1944219](https://assets.clip-studio.com/en-us/detail?id=1944219)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/42/1944219/thumbnail)
@@ -102,6 +105,9 @@
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
+**Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
+
 
 
 -> [**[TOP]**]() ->
@@ -118,6 +124,9 @@
 **More Highlights (きらハイライト)** | [1941724](https://assets.clip-studio.com/en-us/detail?id=1941724) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/17/1941724/thumbnail)
 **Even pencil (もこ鉛筆)** | [1803056](https://assets.clip-studio.com/en-us/detail?id=1803056) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/30/1803056/thumbnail)
 **Leaves and Grasses** | [1829085](https://assets.clip-studio.com/en-us/detail?id=1829085) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/90/1829085/thumbnail)
+**Hand-painted knit tone + brush Set (手描きニットトーン＋ブラシセット)** | [1731171](https://assets.clip-studio.com/en-us/detail?id=1731171) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/11/1731171/thumbnail?1545473885)
+**Ruffle Brush 2 (フリルブラシ２)** | [1821376](https://assets.clip-studio.com/en-us/detail?id=1821376) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/13/1821376/thumbnail?1617762856)
+**Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
 
 
 
@@ -128,6 +137,7 @@
 ### Over 500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Gel Ink Ballpoint pen Style ver. 3 (ｹﾞﾙｲﾝｸﾎﾞｰﾙﾍﾟﾝ風のペンver.3)** | [1738505](https://assets.clip-studio.com/en-us/detail?id=1738505) | **150 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail?1552461510)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -138,6 +148,8 @@
 ### ==Under 100 Gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**3D Beach Set (3Dビーチセット)** | [1935755](https://assets.clip-studio.com/en-us/detail?id=1935755) | **80 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/57/1935755/thumbnail?1658416538)
+**Hair Brush Set (一発髪の毛ブラシセット)** | [1816272](https://assets.clip-studio.com/en-us/detail?id=1816272) | **100 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/62/1816272/thumbnail?1642740902)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -146,7 +158,7 @@
 
 -> [**[TOP]**]() ->
 
-### ==100~500 gold==
+### ==Over 100 gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Basketball with an impossible depth **|[1959276](https://assets.clip-studio.com/en-us/detail?id=1959276)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/92/1959276/thumbnail)
@@ -171,6 +183,20 @@
 **Deception cross-hatching Line **|[1841029](https://assets.clip-studio.com/en-us/detail?id=1841029)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/10/1841029/thumbnail)
 **Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
 **Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
+**3D Office Desk (3Dオフィスデスク)** | [1930566](https://assets.clip-studio.com/en-us/detail?id=1930566) | **100 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/66/05/1930566/thumbnail?1656775396)
+**3D executive aircraft (3D執務机)** | [1902580](https://assets.clip-studio.com/en-us/detail?id=1902580) | **100 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/25/1902580/thumbnail?1673914783)
+**3D groundwater path (3D地下水路)** | [1869964](https://assets.clip-studio.com/en-us/detail?id=1869964) | **350 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/64/99/1869964/thumbnail?1656315700)
+**3D Gazebo (3Dガゼボ)** | [1927977](https://assets.clip-studio.com/en-us/detail?id=1927977) | **350 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/79/1927977/thumbnail?1656314595)
+**3D Spiral Phase 03 (3D螺旋階段03)** | [1848896](https://assets.clip-studio.com/en-us/detail?id=1848896) | **150 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/88/1848896/thumbnail?1656315515)
+**3D Food Cart (3Dフードカート)** | [1876196](https://assets.clip-studio.com/en-us/detail?id=1876196) | **150 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/61/1876196/thumbnail?1640779043)
+**3D Register (3Dレジスター)** | [1877274](https://assets.clip-studio.com/en-us/detail?id=1877274) | **150 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/72/1877274/thumbnail?1656315800)
+**3D bathroom (3Dバスルーム)** | [1893625](https://assets.clip-studio.com/en-us/detail?id=1893625) | **280 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/36/1893625/thumbnail?1656314841)
+**3D House (3Dハウス)** | [1878475](https://assets.clip-studio.com/en-us/detail?id=1878475) | **300 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/84/1878475/thumbnail?1644791571)
+**3D Western Mansion (3D洋館)** | [1887882](https://assets.clip-studio.com/en-us/detail?id=1887882) | **300 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/78/1887882/thumbnail?1640823709)
+**3D Train (3D電車)** | [1901552](https://assets.clip-studio.com/en-us/detail?id=1901552) | **520 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/15/1901552/thumbnail?1656314585)
+**3D Cool Studio Room (3Dクールなワンルーム)** | [1890120](https://assets.clip-studio.com/en-us/detail?id=1890120) | **650 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/01/1890120/thumbnail?1656314765)
+**3D Cute one room (3Dキュートなワンルーム)** | [1889768](https://assets.clip-studio.com/en-us/detail?id=1889768) | **650 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/97/1889768/thumbnail?1656314774)
+**3D Western Class (3D洋風教室)** | [1897970](https://assets.clip-studio.com/en-us/detail?id=1897970) | **680 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/79/1897970/thumbnail?1673914836)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -187,38 +213,6 @@
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
-
-
-## Way to auto format markdown using ChatGPT prompt
-```
-I would like your assistance adding the links to the markdown format I have.
-Markdown Format:
-** **|[]()|  |![]()
-
-1. If there is a cost mentioned, include it in the table.
-2. The title of the brush should be enclosed between double asterisks (**title**).
-3. The link ID should be placed in the first set of brackets ([]).
-4. The thumbnail format should be: `https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/(last two digits of the ID=)/(the two digits before the previous number)/(full ID)/thumbnail`.
-
-if I send:
-cost is 60
-Gloss Pen for Pandemonium https://assets.clip-studio.com/en-us/detail?id=1803183
-cost is 50
-Pantyliner also a character creation kit https://assets.clip-studio.com/en-us/detail?id=1972326
-
-What I should get is:
-**Gloss Pen for Pandemonium**|[1803183](https://assets.clip-studio.com/en-us/detail?id=1803183)| 60 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/31/1803183/thumbnail)
-**Pantyliner also a character creation kit**|[1972326](https://assets.clip-studio.com/en-us/detail?id=1972326)| 50 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/23/1972326/thumbnail?1683730214)
-
-To show me you know what I am asking of you please show me how you would format the following link:
-cost 10:
-TA Watercolor Crayon https://assets.clip-studio.com/en-us/detail?id=2005354
-YN Painting Brush Set  https://assets.clip-studio.com/en-us/detail?id=1943027
-
-cost 60:
-Gloss Pen for Pandemonium https://assets.clip-studio.com/en-us/detail?id=1803183
-```
-
 
 -> [**[TOP]**]() ->
 

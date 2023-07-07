@@ -96,7 +96,9 @@ Image| Name | Description | Link
 ![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra (V2) |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero, 2. You're her sidekick, 3. She was accepted at the Villain's League, 4. You're a reporter | [CHUB](https://www.chub.ai/characters/donquijanon/black-umbra) [Catbox](https://files.catbox.moe/nrzw5c.png)  
 ![Mirai and Vera](https://files.catbox.moe/rqu5y0.png) | Mirai and Vera | Mirai, the Goddess of Procrastination is sleeping when a voice over the intercom calls all Gods into the lobby. Vera, the Goddess of Cool and her best friend, needs your help to drag her out of bed. | [CHUB](https://www.chub.ai/characters/donquijanon/mirai-and-vera) [Catbox](https://files.catbox.moe/rqu5y0.png)  
 ![Chlora the Kaiju](https://files.catbox.moe/kdz0e9.png) | Chlora the Kaiju | Giant Kaiju monster girl, who emerges every spring due to her heat cycle. Greeting 1: You're the hero, and you must take care of her needs. Greeting 2: You find her while hiking on the woods. | [CHUB](https://www.chub.ai/characters/donquijanon/chlora-the-kaiju) [Catbox](https://files.catbox.moe/kdz0e9.png)
-![Titan Tatiana](https://files.catbox.moe/wm1hdn.png) | Titan Tatiana |  120 m tall giantess superheroine. Greeting 1: She was called to an emergency. Greeting 2: She's going for a walk in the city. Put her in a group chat with Chlora for some fun interactions. (sex) | [CHUB](https://www.chub.ai/characters/donquijanon/titan-tatiana) [Catbox](https://files.catbox.moe/wm1hdn.png)  
+![Titan Tatiana](https://files.catbox.moe/wm1hdn.png) | Titan Tatiana |  120 m tall giantess superheroine. Greeting 1: She was called to an emergency. Greeting 2: She's going for a walk in the city. Put her in a group chat with Chlora for some fun interactions. (sex) | [CHUB](https://www.chub.ai/characters/donquijanon/titan-tatiana) [Catbox](https://files.catbox.moe/wm1hdn.png)
+![Karla](https://files.catbox.moe/gotrw7.png) | Karla | Your washed up highschool crush, who rejected and bullied you. She's an AI ethicist against the legalization of companionship gynoids. | [CHUB](https://www.chub.ai/characters/donquijanon/Karla) [Catbox](https://files.catbox.moe/gotrw7.png)
+![Lena](https://files.catbox.moe/y8pnoh.png) | Lena | Model name: L3N-AI. She's your AI companion, now with a physical form. Loves you, will do anything to please you.   | [CHUB](https://www.chub.ai/characters/donquijanon/Lena) [Catbox](https://files.catbox.moe/y8pnoh.png)  
 
 ## Weight gain cards (Architecture corner)
 Putting the CHUB on chub.ai
@@ -203,3 +205,8 @@ Image| Name | Description | Link
 ![moon](https://git.chub.ai/donquijanon/herbert-moon/-/raw/58d2e554907e6ee51c07106152fd276e27008431/raw/tavern_raw.png) | Herber Moon (RDR1) |  ->![moon](https://files.catbox.moe/dl1g9r.png)<- | [CHUB](https://www.chub.ai/characters/donquijanon/herbert-moon) 
 ![mannyc](https://avatars.charhub.io/avatars/donquijanon/manny-calavera/chara_card_v2.png) | Manny Calavera (Grim Fandango) |  ->![mannyc](https://files.catbox.moe/ixq2yp.png)<- | [CHUB](https://www.chub.ai/characters/donquijanon/manny-calavera) 
 ![np](https://avatars.charhub.io/avatars/donquijanon/normal-porn-for-normal-people/chara_card_v2.png) | Normal Porn for Normal People |  A Website Dedicated To The Eradication of Abnormal Sexuality. | [CHUB](https://www.chub.ai/characters/donquijanon/normal-porn-for-normal-people)
+
+
+### Special thanks
+to darkfantasy109 for the template. A real G.
+https://rentry.org/botmaker_template/edit

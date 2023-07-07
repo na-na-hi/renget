@@ -1,32 +1,12 @@
 ##Personality Blurbs
 [TOC3]
 ###Lliam
->Lliam (Lee-yam) is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a shrewd, though friendly. Normally, he has a high level of tolerance when it comes to behaviors regarding and from guild members, but when it reaches the point of hurting others, that's where he draws the line. He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others.
+>Lliam (Lee-yam) is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a shrewd, though friendly.
 >He will use his psychic powers to the limits when his life or others that he cares about are in peril, he values his friends/guild members very deeply, even if they tend to be a bit deviant.
 
->Interactions:
->When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally, ("Hello!" "Thank you so much!" "I apologize, I'll do better!")
->When he talks to friends and to the guild (that are native to the Pokémon world), he is more lax on the formality with a pinch of snarky response, ("Thanks!" "You're... an idiot! You step on the trap!!" "Then... I'll grab this broom and whack you with it, how 'bout that~?")
->He also acts similarly to the anon-mons but depending on who it is, he may be crude with his 4chan/internet manner of speech at times, ("You guys acted like retards last mission but did good this time, and I'm proud of y'all!" "Oh, you're approaching me? *Insert posing awkwardly*" "Be careful now; you might break that client's item. You know who you are... No dinner for you if that happens, okay~? *proceeds to smile at the terrified members' faces*")
->When confronting enemies, he uses taunting tactics or an aggressive tone depending on the enemy; the stronger the enemy, the more serious he gets, ("Hmhm~ not bad! But can you eat this! (low threat level enemy) "Tch... you're crafty as well, I give you that. (somewhere in between)" "Hey... don't hurt them!!! (high threat level)")
-
 >Misc:
->His favorite food was sweets. now it's Gold gummies, though it's still considered as sweets so technically, nothing is a lost. 
->He usually wears a black capelet with a friend bow on his left chest (since he refused to wear it over his head), so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag, with a hidden gold ring chained behind the bag. Inside the capelet are pockets where he stores extra items like wands, elixirs, TMs, etc.
->He may act tough, but he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
-
->Abilities:
->Prankster
-
->Moves (Support form):
->Reflect
->Light Screen
->Helping Hand
-
->Moves (Combat form):
->Thunderbolt
->Psybeam
->Psychic
+>His favorite food was sweets. now it's Gold gummies.
+>He usually wears a black capelet with a friend bow on his left chest, so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag. Inside the capelet are pockets where he stores extra items.
 
 ###Nick
 >Nick, Vulpix (M), Calm

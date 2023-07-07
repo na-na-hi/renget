@@ -156,6 +156,7 @@ Name/Link | Review | Author
 
 ***
 ##->Brief tips on Botmaking<-
+->![Sometimes it's hard.](https://media.tenor.com/MDv1DdjjTFoAAAAd/patrick-carpenter.gif)<-
 Am I a "good" enough botmaker to offer a guide on how to make cards? I don't think so, honestly. Nor do I really think there is really such a thing as a good botmaker, when ultimately the quality of your RP hinges on the model you are using 10 times more than the card's quality. That said, here are some pointers based on how **I** write cards. Don't take this as the ideal, but if you enjoy my cards, or if they work well for you, then I'm putting these tips here.
 
 ```

@@ -6,8 +6,10 @@
 !!! info
     - Textures can be exported by applying to default brushes and exporting
     - Brushes are searchable by ID
+	- Thumbnails consistently follow this format `/xx/yy/---yyxx/thumbnail` and exist even when the item is deleted
     - [Wishlist Rentry](https://rentry.org/Brush_Wishlist) For listing brushes people want
     - [Translated Plugin Rentry](https://rentry.org/CSP_English_Plugins)
+	- [Markdown extraction button](https://rentry.org/CSP_markdown_script) userscript that extracts all the necessary info already formatted and ready to past on any given asset store link.
 ***
 [TOC2]
 ***
@@ -135,7 +137,7 @@
 **【PRO version】Easy Manga Background**|[2004145](https://assets.clip-studio.com/en-us/detail?id=2004145)|[DL](https://pixeldrain.com/u/pZKXonte)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/41/2004145/thumbnail?1685210062)
 **Extract Line**|[2005447](https://assets.clip-studio.com/en-us/detail?id=2005447)|[DL](https://pixeldrain.com/u/Tnrb3HDx)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/54/2005447/thumbnail?1687177585)
 **Better Glow Effect**|[2007587](https://assets.clip-studio.com/en-us/detail?id=2007587)|[DL](https://pixeldrain.com/u/a4EBtjqL)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/75/2007587/thumbnail?1687119254)
-**Grain & Vignetting**|[2009918](https://assets.clip-studio.com/en-us/detail?id=2009918)|[DL](https://pixeldrain.com/u/qJcLK53Q)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/99/2009918/thumbnail?1687350154)
+**Grain & Vignetting**|[2014436](https://assets.clip-studio.com/en-us/detail?id=2014436)|[DL](https://pixeldrain.com/u/k8dEAfVY)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/44/2014436/thumbnail?1688636186)
 **Lines Thinner**|[2010099](https://assets.clip-studio.com/en-us/detail?id=2010099)|[DL](https://pixeldrain.com/u/Mu6NPhYh)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/00/2010099/thumbnail?1687319110)
 **Reverse Fill**|[2009905](https://assets.clip-studio.com/en-us/detail?id=2009905)|[DL](https://pixeldrain.com/u/hKuGCgXP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/99/2009905/thumbnail?1687320083)
 **add color on the terminator**|[2011252](https://assets.clip-studio.com/en-us/detail?id=2011252)|[DL](https://pixeldrain.com/u/as9MJaEC)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/12/2011252/thumbnail?1687634088)
@@ -173,16 +175,83 @@
 **Melting Cloud Brushes (溶ける雲ブラシ)** | [1748465](https://assets.clip-studio.com/en-us/detail?id=1748465) | [DL](https://files.catbox.moe/or1hnc.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/84/1748465/thumbnail)
 **Bushes Groundwork Brushes (茂みの下地ブラシ)** | [1756648](https://assets.clip-studio.com/en-us/detail?id=1756648) | [DL](https://files.catbox.moe/jhlhaf.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/66/1756648/thumbnail)
 **Nature Brush Pack** | [1874837](https://assets.clip-studio.com/en-us/detail?id=1874837) | [DL](https://files.catbox.moe/lifx49.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/48/1874837/thumbnail)
+**Glitch Brushes 3**|[1892357](https://assets.clip-studio.com/en-us/detail?id=1892357)|[DL](https://files.catbox.moe/cecurw.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/57/23/1892357/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 
 ##3D Assets
-- create a canvas 1000x1000, put the 3d model there, save, ez
+- create a canvas 2000x2000, put the 3d model there, save, ez
  Name | Store Link | DL | Thumbnail
  ----: | :----: | :----: | :----:
-****|[]()|[DL]()|![]()
+3D Indoor Pool (3D屋内プール)|[2013467](https://assets.clip-studio.com/en-us/detail?id=2013467)|[DL](https://files.catbox.moe/jgng19.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/34/2013467/thumbnail?1688569940)
+3D Chair 01 (3Dチェア01)|[1882609](https://assets.clip-studio.com/en-us/detail?id=1882609)|[DL](https://files.catbox.moe/w21d3x.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/26/1882609/thumbnail?1638280135)
+3D Table 01 (3Dテーブル01)|[1882610](https://assets.clip-studio.com/en-us/detail?id=1882610)|[DL](https://files.catbox.moe/47whyt.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/10/26/1882610/thumbnail?1638280247)
+3D Office (3Dオフィス)|[1938658](https://assets.clip-studio.com/en-us/detail?id=1938658)|[DL](https://files.catbox.moe/fa1cq1.clip)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/86/1938658/thumbnail?1660008538)
+3D Kitchen (3Dキッチン)|[1942717](https://assets.clip-studio.com/en-us/detail?id=1942717)|[DL](https://files.catbox.moe/jhmodw.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/27/1942717/thumbnail?1660927152)
+3D Live Stage (3Dライブステージ)|[1945010](https://assets.clip-studio.com/en-us/detail?id=1945010)|[DL](https://files.catbox.moe/0i2czx.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/10/50/1945010/thumbnail?1661700504)
+3D Nursing Room (3D療養室)|[1946642](https://assets.clip-studio.com/en-us/detail?id=1946642)|[DL](https://files.catbox.moe/3ucx7b.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/66/1946642/thumbnail?1662248857)
+3D Western Corridor 01 (3D洋風廊下01)|[1947560](https://assets.clip-studio.com/en-us/detail?id=1947560)|[DL](https://files.catbox.moe/vhoqys.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/60/75/1947560/thumbnail?1686928933)
+3D Quill Pen (3D羽根ペン)|[1948338](https://assets.clip-studio.com/en-us/detail?id=1948338)|[DL](https://files.catbox.moe/s3np0y.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/83/1948338/thumbnail?1673914290)
+3D Chandelier 03 (3Dシャンデリア03)|[1949563](https://assets.clip-studio.com/en-us/detail?id=1949563)|[DL](https://files.catbox.moe/3yfete.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/63/95/1949563/thumbnail?1666134871)
+3D Cafe Table Set 01 (3Dカフェテーブルセット01)|[1950018](https://assets.clip-studio.com/en-us/detail?id=1950018)|[DL](https://files.catbox.moe/e1gn53.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/00/1950018/thumbnail?1673914240)
+3D Hotel Exterior (3Dホテル外観)|[1950479](https://assets.clip-studio.com/en-us/detail?id=1950479)|[DL](https://files.catbox.moe/ru90y8.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/79/04/1950479/thumbnail?1663687375)
+3D sweetening Tea House (3D甘味茶屋)|[1951396](https://assets.clip-studio.com/en-us/detail?id=1951396)|[DL](https://files.catbox.moe/fshw3w.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/13/1951396/thumbnail?1664064091)
+3D Cafe Appearance 01 (3Dカフェ外観01)|[1951783](https://assets.clip-studio.com/en-us/detail?id=1951783)|[DL](https://files.catbox.moe/1kc321.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/17/1951783/thumbnail?1664205161)
+3D Candle Stand (3Dキャンドルスタンド)|[1952475](https://assets.clip-studio.com/en-us/detail?id=1952475)|[DL](https://files.catbox.moe/d8i0hh.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/24/1952475/thumbnail?1666134792)
+3D fireplace (3D暖炉)|[1952704](https://assets.clip-studio.com/en-us/detail?id=1952704)|[DL](https://files.catbox.moe/ibrgxz.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/04/27/1952704/thumbnail?1673914157)
+3D bus (3D客車)|[1953039](https://assets.clip-studio.com/en-us/detail?id=1953039)|[DL](https://files.catbox.moe/ynoiix.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/39/30/1953039/thumbnail?1673914207)
+3D birdcage (3D鳥籠)|[1953839](https://assets.clip-studio.com/en-us/detail?id=1953839)|[DL](https://files.catbox.moe/fi2mei.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/39/38/1953839/thumbnail?1666134722)
+3D Laptop (3Dノートパソコン)|[1954425](https://assets.clip-studio.com/en-us/detail?id=1954425)|[DL](https://files.catbox.moe/b0mdfz.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/44/1954425/thumbnail?1665242377)
+3D Mansion 02 (3D洋館02)|[1956204](https://assets.clip-studio.com/en-us/detail?id=1956204)|[DL](https://files.catbox.moe/ppkvsc.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/04/62/1956204/thumbnail?1666019773)
+3D Chandelier 04 (3Dシャンデリア04)|[1957341](https://assets.clip-studio.com/en-us/detail?id=1957341)|[DL](https://files.catbox.moe/c5rura.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/73/1957341/thumbnail?1666278909)
+3D Cafe Table Set 02 (3Dカフェテーブルセット02)|[1957525](https://assets.clip-studio.com/en-us/detail?id=1957525)|[DL](https://files.catbox.moe/cqhxl4.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/75/1957525/thumbnail?1666364765)
+3D Hole Clock (3Dホールクロック)|[1957949](https://assets.clip-studio.com/en-us/detail?id=1957949)|[DL](https://files.catbox.moe/0xve10.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/79/1957949/thumbnail?1673914102)
+3D Western Castle (3D西洋の城)|[1959096](https://assets.clip-studio.com/en-us/detail?id=1959096)|[DL](https://files.catbox.moe/35unp5.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/90/1959096/thumbnail?1667142487)
+3D smartphones (3Dスマートフォン)|[1959427](https://assets.clip-studio.com/en-us/detail?id=1959427)|[DL](https://files.catbox.moe/66q5o9.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/94/1959427/thumbnail?1667346922)
+3D Study (3D書斎)|[1960092](https://assets.clip-studio.com/en-us/detail?id=1960092)|[DL](https://files.catbox.moe/k310vl.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/92/00/1960092/thumbnail?1686928897)
+3D Showcase (3Dショーケース)|[1960495](https://assets.clip-studio.com/en-us/detail?id=1960495)|[DL](https://files.catbox.moe/k310vl.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/95/04/1960495/thumbnail?1667747509)
+3D Sofa Set 01 (3Dソファセット01)|[1961422](https://assets.clip-studio.com/en-us/detail?id=1961422)|[DL](https://files.catbox.moe/x7zwn1.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/14/1961422/thumbnail?1673913971)
+3D Western Corridor 02 (3D洋風廊下02)|[1962080](https://assets.clip-studio.com/en-us/detail?id=1962080)|[DL](https://files.catbox.moe/3ijvat.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/20/1962080/thumbnail?1673913938)
+3D Bookshelf (3D本棚)|[1962815](https://assets.clip-studio.com/en-us/detail?id=1962815)|[DL](https://files.catbox.moe/crr66c.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/15/28/1962815/thumbnail?1673913908)
+3D Hotel Corridor (3Dホテルの廊下)|[1963788](https://assets.clip-studio.com/en-us/detail?id=1963788)|[DL](https://files.catbox.moe/igg00t.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/37/1963788/thumbnail?1669131039)
+3D Cafe Exterior 02 (3Dカフェ外観02)|[1964573](https://assets.clip-studio.com/en-us/detail?id=1964573)|[DL](https://files.catbox.moe/darkjp.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/45/1964573/thumbnail?1669389682)
+3D Sofa Set 02 (3Dソファセット02)|[1965124](https://assets.clip-studio.com/en-us/detail?id=1965124)|[DL](https://files.catbox.moe/tb2ye8.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/51/1965124/thumbnail?1673913874)
+3D Canopy Bed (3D天蓋ベッド)|[1965959](https://assets.clip-studio.com/en-us/detail?id=1965959)|[DL](https://files.catbox.moe/s0s8sp.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/59/1965959/thumbnail?1673913840)
+3D Cloister 01 (3D回廊01)|[1966456](https://assets.clip-studio.com/en-us/detail?id=1966456)|[DL](https://files.catbox.moe/1gts40.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/64/1966456/thumbnail?1670166479)
+3D Dining Table Set 01 (3Dダイニングテーブルセット01)|[1967370](https://assets.clip-studio.com/en-us/detail?id=1967370)|[DL](https://files.catbox.moe/bkraf3.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/73/1967370/thumbnail?1673913790)
+3D Chair 03 (3Dチェア03)|[1967845](https://assets.clip-studio.com/en-us/detail?id=1967845)|[DL](https://files.catbox.moe/c5pcx6.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/78/1967845/thumbnail?1673913752)
+3D Cross-lined graveyard (3D十字架並ぶ墓場)|[1968548](https://assets.clip-studio.com/en-us/detail?id=1968548)|[DL](https://files.catbox.moe/k72ip3.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/85/1968548/thumbnail?1670857753)
+3D Sofa Set 03 (3Dソファセット03)|[1969236](https://assets.clip-studio.com/en-us/detail?id=1969236)|[DL](https://files.catbox.moe/tzuyqy.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/92/1969236/thumbnail?1671289480)
+3D Storage Bed (3D収納ベッド)|[1969894](https://assets.clip-studio.com/en-us/detail?id=1969894)|[DL](https://files.catbox.moe/rlhdzv.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/94/98/1969894/thumbnail?1671549068)
+3D Cafe Counter Seats (3Dカフェカウンター席)|[1971540](https://assets.clip-studio.com/en-us/detail?id=1971540)|[DL](https://files.catbox.moe/43lrph.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/40/15/1971540/thumbnail?1672067484)
+3D Chair 04 (3Dチェア04)|[1972949](https://assets.clip-studio.com/en-us/detail?id=1972949)|[DL](https://files.catbox.moe/f27l62.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/29/1972949/thumbnail?1673913722)
+3D Dining Room (3Dダイニングルーム)|[1974420](https://assets.clip-studio.com/en-us/detail?id=1974420)|[DL](https://files.catbox.moe/1hqxte.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/44/1974420/thumbnail?1686929031)
+3D Antique Phone (3Dアンティーク電話機)|[1977226](https://assets.clip-studio.com/en-us/detail?id=1977226)|[DL](https://files.catbox.moe/vlvrde.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/72/1977226/thumbnail?1674313655)
+3D Outdoor Bath (3D露天風呂)|[1978716](https://assets.clip-studio.com/en-us/detail?id=1978716)|[DL](https://files.catbox.moe/t9vn0a.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/16/87/1978716/thumbnail?1675211569)
+3D Counter Chair (3Dカウンターチェア)|[1982302](https://assets.clip-studio.com/en-us/detail?id=1982302)|[DL](https://files.catbox.moe/4l901r.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/02/23/1982302/thumbnail?1676420219)
+3D Dresser (3Dドレッサー)|[1983050](https://assets.clip-studio.com/en-us/detail?id=1983050)|[DL](https://files.catbox.moe/pbwbrr.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/50/30/1983050/thumbnail?1676646977)
+3D Chandelier 06 (3Dシャンデリア06)|[1983857](https://assets.clip-studio.com/en-us/detail?id=1983857)|[DL](https://files.catbox.moe/9lny4x.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/57/38/1983857/thumbnail?1677023520)
+3D Candle Light (3Dキャンドルライト)|[1984474](https://assets.clip-studio.com/en-us/detail?id=1984474)|[DL](https://files.catbox.moe/jnkpf1.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/44/1984474/thumbnail?1677284620)
+3D Bar Appearance (3Dバー外観)|[2003883](https://assets.clip-studio.com/en-us/detail?id=2003883)|[DL](https://files.catbox.moe/f8iuz4.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/38/2003883/thumbnail?1685286733)
+3D Umbrella Set (3D傘セット)|[2005163](https://assets.clip-studio.com/en-us/detail?id=2005163)|[DL](https://files.catbox.moe/lke2jk.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/63/51/2005163/thumbnail?1685718621)
+3D Pagoda Umbrella (3Dパゴダ傘)|[2005169](https://assets.clip-studio.com/en-us/detail?id=2005169)|[DL](https://files.catbox.moe/tal6hj.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/69/51/2005169/thumbnail?1685718670)
+3D Umbrella (3D和傘)|[2005171](https://assets.clip-studio.com/en-us/detail?id=2005171)|[DL](https://files.catbox.moe/90b0fd.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/51/2005171/thumbnail?1685664717)
+3D Tee Set (3Dティーセット)|[2005418](https://assets.clip-studio.com/en-us/detail?id=2005418)|[DL](https://files.catbox.moe/a8th7y.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/54/2005418/thumbnail?1685805457)
+3D Bar Introspection (3Dバー内観)|[2009064](https://assets.clip-studio.com/en-us/detail?id=2009064)|[DL](https://files.catbox.moe/9kqsuh.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/64/90/2009064/thumbnail?1687220788)
+3D Chandelier 02 (3Dシャンデリア02)|[2012002](https://assets.clip-studio.com/en-us/detail?id=2012002)|[DL](https://files.catbox.moe/kbkrbu.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/02/20/2012002/thumbnail?1688051158)
+3D Piece-Open door set (3D片開きドアセット)|[2012215](https://assets.clip-studio.com/en-us/detail?id=2012215)|[DL](https://files.catbox.moe/sq2rmg.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/15/22/2012215/thumbnail?1688223950)
+3D Cigarette Set (3D煙草セット)|[2012451](https://assets.clip-studio.com/en-us/detail?id=2012451)|[DL](https://files.catbox.moe/w0daey.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/24/2012451/thumbnail?1688310366)
+3D Mug & coffee cup set (3Dマグ＆コーヒーカップセット)|[2012709](https://assets.clip-studio.com/en-us/detail?id=2012709)|[DL](https://files.catbox.moe/ugcdu2.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/27/2012709/thumbnail?1688310415)
+3D balcony (3Dバルコニー)|[2012820](https://assets.clip-studio.com/en-us/detail?id=2012820)|[DL](https://files.catbox.moe/zhsmle.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/28/2012820/thumbnail?1688396814)
+3D Drink Cups (3Dドリンクカップ)|[2012838](https://assets.clip-studio.com/en-us/detail?id=2012838)|[DL](https://files.catbox.moe/84iggg.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/28/2012838/thumbnail?1688396860)
+3D spiral stage 01 (3D螺旋階段01)|[2012875](https://assets.clip-studio.com/en-us/detail?id=2012875)|[DL](https://files.catbox.moe/sr6jyg.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/28/2012875/thumbnail?1688483594)
+3D Elevator (3Dエレベーター)|[2013211](https://assets.clip-studio.com/en-us/detail?id=2013211)|[DL](https://files.catbox.moe/9i804u.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/11/32/2013211/thumbnail?1688569838)
+3D Hotel Room (3Dホテルルーム)|[2013986](https://assets.clip-studio.com/en-us/detail?id=2013986)|[DL](https://files.catbox.moe/fa7q4d.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/39/2013986/thumbnail?1688482376)
+3D Sofa 03 (3Dソファ03)|[2014221](https://assets.clip-studio.com/en-us/detail?id=2014221)|[DL](https://files.catbox.moe/oq14xf.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/42/2014221/thumbnail?1688568783)
+3D spiral stage 02 (3D螺旋階段02)|[2014522](https://assets.clip-studio.com/en-us/detail?id=2014522)|[DL](https://files.catbox.moe/c1n7n4.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/45/2014522/thumbnail?1688653570)
+:)|||
 ****|[]()|[DL]()|![]()
 
 
@@ -245,15 +314,14 @@
 **[限時免費]FLAT OIL!!!**|[1867813](https://assets.clip-studio.com/en-us/detail?id=1867813)|[DL](https://pixeldrain.com/u/VmXUfqWH)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/78/1867813/thumbnail?1632149227)
 **soyo oil**|[1796486](https://assets.clip-studio.com/en-us/detail?id=1796486)|[DL](https://pixeldrain.com/u/dosCDeRg)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/64/1796486/thumbnail?1604158056)
 **soyo oil 2**|[1796487](https://assets.clip-studio.com/en-us/detail?id=1796487)|[DL](https://pixeldrain.com/u/TKNDP6Pm)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/64/1796487/thumbnail?1604158095)
-**Johnnie's Puddle Brush**|[1926103](https://assets.clip-studio.com/en-us/detail?id=1926103)|[DL](https://pixeldrain.com/u/gqwr8PYT)|![](https://files.catbox.moe/uctjb9.png)
-**[JOHNNIE] EN-G-TINTA PEN**|[1877969](https://assets.clip-studio.com/en-us/detail?id=1877969)|[DL](https://pixeldrain.com/u/d8JUc4rt)|![](https://files.catbox.moe/5ffqec.png)
-**Softie Digi-Marker☆**|[1926103](https://assets.clip-studio.com/en-us/detail?id=1926103)|[DL](https://pixeldrain.com/u/N82m67Wq)|![](https://files.catbox.moe/p6tvy1.png)
-**ENJIE♥DigiBrush**|[1914425](https://assets.clip-studio.com/en-us/detail?id=1914425)|[DL](https://pixeldrain.com/u/VALJrWCa)|![](https://files.catbox.moe/piba4k.png)
-**Prickly♥︎Pen**|[1902626](https://assets.clip-studio.com/en-us/detail?id=1902626)|[DL](https://pixeldrain.com/u/YmdX2qQg)|![](https://files.catbox.moe/q8rih2.png)
-**My - concept - Sketcher**|[1888534](https://assets.clip-studio.com/en-us/detail?id=1888534)|[DL](https://pixeldrain.com/u/1veM8wfo)|![](https://files.catbox.moe/80ejr2.png)
-**[JOHNNIE] Nini Pencil**|[1870056](https://assets.clip-studio.com/en-us/detail?id=1870056)|[DL](https://pixeldrain.com/u/HBLDjyec)|![](https://files.catbox.moe/lqqei4.png)
-**slippery ink**|[1978681](https://assets.clip-studio.com/en-us/detail?id=1978681)|[DL](https://pixeldrain.com/u/L1yT1kDy)|![](https://files.catbox.moe/3lzovp.png)
-****|[]()|[DL]()|![]()
+**Johnnie's Puddle Brush**|[1966621](https://assets.clip-studio.com/en-us/detail?id=1966621)|[DL](https://pixeldrain.com/u/gqwr8PYT)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/66/1966621/thumbnail)
+**[JOHNNIE] EN-G-TINTA PEN**|[1877969](https://assets.clip-studio.com/en-us/detail?id=1877969)|[DL](https://pixeldrain.com/u/d8JUc4rt)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/69/79/1877969/thumbnail)
+**Softie Digi-Marker☆**|[1926103](https://assets.clip-studio.com/en-us/detail?id=1926103)|[DL](https://pixeldrain.com/u/N82m67Wq)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/03/61/1926103/thumbnail)
+**ENJIE♥DigiBrush**|[1914425](https://assets.clip-studio.com/en-us/detail?id=1914425)|[DL](https://pixeldrain.com/u/VALJrWCa)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/44/1914425/thumbnail)
+**Prickly♥︎Pen**|[1902626](https://assets.clip-studio.com/en-us/detail?id=1902626)|[DL](https://pixeldrain.com/u/YmdX2qQg)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/26/1902626/thumbnail)
+**My - concept - Sketcher**|[1888534](https://assets.clip-studio.com/en-us/detail?id=1888534)|[DL](https://pixeldrain.com/u/1veM8wfo)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/34/85/1888534/thumbnail)
+**[JOHNNIE] Nini Pencil**|[1870056](https://assets.clip-studio.com/en-us/detail?id=1870056)|[DL](https://pixeldrain.com/u/HBLDjyec)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/00/1870056/thumbnail)
+**slippery ink**|[1978681](https://assets.clip-studio.com/en-us/detail?id=1978681)|[DL](https://pixeldrain.com/u/L1yT1kDy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/86/1978681/thumbnail)
 ****|[]()|[DL]()|![]()
 
 
@@ -262,7 +330,6 @@
 ##Dead DL Link
  Name | Store Link | DL | Thumbnail
  ----: | :----: | :----: | :----:
-****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 
 -> [**[TOP]**]() ->
