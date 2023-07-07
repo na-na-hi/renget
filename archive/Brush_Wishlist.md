@@ -137,7 +137,7 @@
 ### Over 500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Gel Ink Ballpoint pen Style ver. 3 (ｹﾞﾙｲﾝｸﾎﾞｰﾙﾍﾟﾝ風のペンver.3)** | [1738505](https://assets.clip-studio.com/en-us/detail?id=1738505) | **150 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail?1552461510)
+**Gel Ink Ballpoint pen Style ver. 3 (ｹﾞﾙｲﾝｸﾎﾞｰﾙﾍﾟﾝ風のペンver.3)** | [1738505](https://assets.clip-studio.com/en-us/detail?id=1738505) | **==150 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail?1552461510)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

@@ -12,6 +12,7 @@ NSFW画像があるので閲覧注意。
 
 ## 学習について
 特に記載がない限り、AdamW,512x512,NAI Full,キャプションシャッフル,トークン保持1、正則化無しで学習している。
+LyCORISは使うメリットを見いだせないので一切使用しない。
 
 ## キャプションについて
 WD14Tagger(convnext-v2)を用いてDanbooruタグ方式で作成。
@@ -62,10 +63,15 @@ AdamWは3000から、DAdaptLionは2000から再現できている。
 
 DAdaptLionにしたら少し再現度が上がる。ただしCPUボトルネックがかなり出やすいのか、CPUの1スレッド使い切ってGPU消費電力がフラフラする。
 
-### DAdaption系の注意
+### DAdaptLion vs Prodigy
+v12がDAdaptLionでv12pがProdigy
+![Image](https://files.catbox.moe/viqgqt.jpg)
+んー？
+
+### DAdaptation系の注意
 - LRは1を強く推奨。
-- 一部のDAdaption系OptimizerはUNetとTEのLRを個別に設定できない。
-- 一部のDAdaption系Optimizerは層別学習率で0と1以外は設定できない。
+- 一部のDAdaptation系OptimizerはUNetとTEのLRを個別に設定できない。
+- 一部のDAdaptation系Optimizerは層別学習率で0と1以外は設定できない。
 
 ### その他
 ノノミを画像23枚、Dim64Alpha32で学習したらHighres時に崩れやすかったり衣装が不自然だったりしたのでAlpha16で学習したら改善した。
@@ -272,8 +278,6 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 ### 構図・シチュエーション
 Additional Tagsで先頭に構図・シチュエーション名を追加する。Keep tokenは1。
 #### 消すべきタグ
-- ほぼすべての画像につくタグ(1girl,soloなど)
-	そのままにしておくと既存のデータと混ざって精度が低下するかも。※**効果は不明**。消さなくてもいい
 - 抽象的なタグ(例:virtual youtuber,highres)
 	どの画像につくかわからないタグはどうせ覚えないから不要。
 - キャラ名
@@ -286,7 +290,7 @@ Additional Tagsで先頭に構図・シチュエーション名を追加する�
 上の画像には次のタグがつけられた。
 `paizuri, 1girl, breasts, nonomi (blue archive), 1boy, nipples, hetero, penis, censored, nude, green eyes, blush, long hair, bar censor, completely nude, large breasts, open mouth, looking at viewer, smile, dark-skinned male, halo, solo focus, ass, bangs, male pubic hair, indoors, collarbone, pubic hair, grey hair, dark skin, window, :d, hair bun, huge breasts`
 この画像から、次のタグを削除する。
-`1girl,solo,1boy,nonomi_(blue_archive),hetero,huge_breasts`
+`1boy,nonomi_(blue_archive),hetero,huge_breasts`
 この場合、penisは残しておく。タグを消すと画像内のチンポをチンポとして覚えず、モデル側のものが別で出現して台無しになる。
 huge_breastsは残してもいいかも。
 
@@ -298,8 +302,6 @@ huge_breastsは残してもいいかも。
 
 ### オブジェクト(持ち物)
 #### 消すべきタグ
-- ほぼすべての画像につくタグ(1girl,soloなど)
-	これは消さなくてもいいかも。
 - 意味が矛盾、重複するタグ(gun,weapon,assault rifle)
 	そのままにしておくと複数の概念が混ざり、持ち方を変えるといったことができなくなる。
 - 抽象的なタグ(例:virtual youtuber,highres)

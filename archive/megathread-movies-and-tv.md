@@ -161,7 +161,7 @@
 - Discover well-known dramas and films from Asia, including those from China, Taiwan, South Korea, and Japan.
 - [URL Safety Results](https://www.urlvoid.com/scan/kissasian.li/)
 
-### ▶️ [LookMovie](https://lookmovie2.to/)
+### ▶️ [LookMovie](https://lookmovie2.to/) / [More Domains](https://proxymirrorlookmovie.github.io/)
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - [URL Safety Results](https://www.urlvoid.com/scan/lookmovie2.to/)
 

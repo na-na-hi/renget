@@ -2,7 +2,6 @@
 -> ![diebox](https://imgur.com/4y8aMHq.gif) <-
 
 !!! info
-    -> I will never be the divegrass manager you should ask THAT person instead <-
     -> stickers and drawfriend art can be found here https://rentry.co/GoddessofVictoryNikke/  <-
     -> old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
     

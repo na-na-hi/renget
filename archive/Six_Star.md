@@ -719,7 +719,7 @@ New player Unit priority: Low (Can help in Arena with proper support but not as 
 
 ## -> Muimi<- (JP Release Date: Year 6, May 8th)
 More damage with damage cap circumvent, a CC immunity and 6 Star stats means Muimi might make a return to her former glory..
-- UB+: Gives Muimi a mark, giving her a complete immunity to most forms of CC [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057) (Not including Charm). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
+- UB+: Gives Muimi a mark, giving her a complete immunity to stuns [as displayed in the Cygames demo](https://twitter.com/priconne_redive/status/1655407423233069057). The UB damage is now to all front enemies, instead of just the first one. She also receives an additional damage calculation on her SP1+ & SP2 if she has a mark, meaning these skills will be able to circumvent the damage cap.
 - CB: While the demonstration was shit, Muimi's niche of tanking as 1st position, keeping her UB up and spamming her SP1+ > SP2 > SP1+  loop in UB form may return with an Ames and increased 6* stats behind her. Her biggest concern will always be to stay in UB form and not exploding while pumping out damage. Lots of bosses have ways to drain TP or don't give TP on their UBs, so that's something to keep in mind.
 - Arena: Could see some P.Arena usage or niche Arena solutions like Chris, but most likely won't be a common unit. Being immune to CC certainly helps, but she does not dodge things like curse from Misaki and will still take damage.
 - PvE: Absolutely destroys dungeons and stages where she can survive. Will most likely see usage in new content like SP dungeons and whatnot.
@@ -746,14 +746,14 @@ New player Unit priority: Med (Can help in clearing EX3/EX4+, but not a main pie
 
 
 ## -> Tsumugi <- (JP Release Date: Year 6, July 7th)
+More damage and increased CC on UB+, but nothing else. Potentially some defense usage initially, but underwhelming.
+- UB+: Increased damage and increased bind effect from 2.5s to 4s. New addition is that the damage gets an 0.5 x # of targets modifier.
+- CB: Just don't, this is an Arena unit. 
+- Arena: With an increased bind time and more damage, Tsumugi could be an asset on teams that need to eat some damage and bite back with a hit. Usually against the Natsune/NY.Homare explosion teams. The ability to pull backline units forward to make AOE land when it normally wouldn't is a nice edition, but that 1st action is slower than the majority of all 1st position CC teams (Ex. Kasumi, S.Misogi, Inori, Mifuyu, Monika). Probably helps out in P.Arena defenses for the most part, where an ill-prepared team will eat binds constantly and shuffle positions of units with UB+.
+- PvE: Might be of some use to tank and bind for your squishier teammates, but certainly not the most effective strategy. We have seen summer Tsumugi yank the further target back in things like Luna Tower or Super Luna Tower, so 6 Star Tsumugi could pop up there. Extremely niche usage at best.
+- They didn't add much aside from some more damage, the extra 1.5s of bind time is nice for stalling out enemies. Not a meta breaker, but could be a nice add. Until people start figuring out how to deal with her, then she may fall off a cliff. Arena meta always shakes and turns, so she may find a good spot if her damage is enough to break barriers and consistently land her bind.
 
-- UB+: 
-- CB: 
-- Arena: 
-- PvE: 
-- 
-
-Bond story priority: High (Relevant units: None)
-Max level Unit priority: 
-New player Unit priority:  ()
+Bond story priority: Luxury (Relevant units: None)
+Max level Unit priority: Med
+New player Unit priority:  (Low)
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

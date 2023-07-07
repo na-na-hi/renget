@@ -127,6 +127,10 @@ https://files.catbox.moe/cnc4zs.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
 Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM.
 
+Zeke
+https://c.ai/c/oQ681-ldOqc-iIskuJg-6Wjgx28sMnFUplSaLCM-zEA
+Pokemon-themed shitpost bot I made very early on, when first learning how to use CAI. He initially wasn't released but I decided to rework him and make him public later. Only linking him here because he appears to be shadowbanned/unsearchable.
+
 Ziel**
 https://files.catbox.moe/6sb7xb.png
 https://c.ai/c/74dUn_U-7I20VxGzcVN0pXokFqSf_gv7cyufLaWQg70

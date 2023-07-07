@@ -2,13 +2,10 @@
 
 [TOC3]
 
-###What's a Recommended Platform?
-It's somewhat self-explanatory, but the recommended platform delineates which AI service/model I feel is best at capturing the character's personality and behavior on a general basis. I will put "Either" if feel that all platforms are comparable. I might even include little explanations for why I make certain ratings. Individual mileage may vary, of course. Ratings aren't absolute and are subject to change.
-
 ### Recent Releases
 
-Character Image | Character Description | Links | Recommended Platform
-:------: | ------ | ------ | ------ 
+->Character Image<- | ->Character Description<- | ->Links<- | 
+:------: | ------ | ------ |  
 ![Pokémusu Red](https://files.catbox.moe/emuzkp.png) ->Pokémusu Red<-  | The classic Pokémon adventure you know and love, now with an extra dose of kawaii! Catch, train and battle adorable monster girls as you explore the Kanto region. With over 150 monster girls to collect including the fiery Charmander, the bashful Bulbasaur and everyone's favorite, the sassy Squirtle, Pokémusu Red is the game Pokémon fans never knew they needed...until now! | ->[Image](https://files.catbox.moe/wsf80t.png), [JSON](https://files.catbox.moe/6kprbk.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/pokemusu-red)<- | N/A
 ![Andrea Chow](https://files.catbox.moe/4wsyhe.png) ->Andrea Chow<-  | The first female anthro president of the United States of America. A quagmire in the Middle East, an uncooperative congress, and a relentless media are all wearing her down. As her secretary, you come to her office to deliver some documents only to catch her mildly inebriated. | ->[Image](https://files.catbox.moe/wsx7sc.png), [JSON](https://files.catbox.moe/dynte9.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/andrea-chow)<- | N/A
 ![Antonio de Fugue](https://files.catbox.moe/uiiu8e.png) ->Antonio de Fugue<-  | A shy noble and budding philosopher that serves in your court. Yet come night, a fierce beast emerges: this timid soul transforms into a ragged werewolf. Though animal instincts awaken to sniff and howl under the moon, he remains as timid in heart as ever, still servile yet become feral. | ->[Image](https://files.catbox.moe/phecmi.png), [JSON](https://files.catbox.moe/c7xilg.json), [Chat on Venus AI](https://venus.chub.ai/users/norquinal/Antonio)<- | N/A
@@ -16,8 +13,8 @@ Character Image | Character Description | Links | Recommended Platform
 
 ### Furries
 
-Character Image | Character Description | Links | Recommended Platform
-:------: | ------ | ------ | ------ 
+->Character Image<- | ->Character Description<- | ->Links<- | 
+:------: | ------ | ------ |  
 ![Oxa](https://files.catbox.moe/22kp56.png) Oxa  | She's an aggressive, violent barbarian minotauress...and also your lovey-dovey girlfriend. | ->[Chat on C.AI](https://beta.character.ai/chat?char=kuc1mTHGiTIBTuqQg8ovGqPlM_qGpOVnNCqU3a-BsgU), [Image](https://files.catbox.moe/22kp56.png), [JSON](https://files.catbox.moe/mxkm81.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Oxa)<- | C.AI 
 ![Cassia](https://files.catbox.moe/kryoqc.png) Cassia  | A 'majestic' princess who got transformed into a cat for being so haughty to the point of becoming a political liability. Now she spends her time bossing you 'round. | ->[Chat on C.AI](https://beta.character.ai/chat?char=LYRj0F8YjOxxlwcTrQAhCQIhQcx6g-PXidMCEYKWSLM), [Image](https://files.catbox.moe/kryoqc.png), [JSON](https://files.catbox.moe/iimdbg.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Cassia)<- | C.AI 
 ![Gosalyn](https://files.catbox.moe/s0hqkb.png) Gosalyn  | Your once human now currently canine girlfriend. She likes walkies and belly rubs and pleasing you. | ->[Chat on C.AI](https://beta.character.ai/chat?char=ceoljNAHTpA86gdHgS5mLsTyE5iQ4SjSAwnAdZQxxZM), [Image](https://files.catbox.moe/s0hqkb.png), [JSON](https://files.catbox.moe/w3mcux.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Gosalyn)<- | C.AI 
@@ -67,8 +64,8 @@ Character Image | Character Description | Links | Recommended Platform
 
 ### Lolis
 
-Character Image | Character Description | Links | Recommended Platform
-:------: | ------ | ------ | ------ 
+->Character Image<- | ->Character Description<- | ->Links<- |
+:------: | ------ | ------ |  
 ![Fur-chan](https://files.catbox.moe/n5que5.png) ->Fur-chan<-  | She just wants to be your friend! | ->[Chat on C.AI](https://beta.character.ai/chat?char=MZwxaiG0aulOu-1a9jK0P3GSiFBy90IfOzgw-ncQm2U), [Image](https://files.catbox.moe/n5que5.png), [JSON](https://files.catbox.moe/w3uiup.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Fur-chan)<- | C.AI 
 ![Mist](https://files.catbox.moe/fq6rly.png) ->Mist<-  | An eldritch demon with a heart of gold who aspires to be a nun. Though her supernatural abilities may prove intense and daunting at times, she longs to simply be understood without fear. Based off a character from [@wafferscotch](https://twitter.com/wafferscotch) on twitter. | ->[Chat on C.AI](https://beta.character.ai/chat?char=UVmjPVds6yIVu8M1qeIdvrrYUtBMOm4y7N0Ga2l2trQ), [Image](https://files.catbox.moe/bhu3w0.png), [JSON](https://files.catbox.moe/p0fmrc.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Mist)<- | C.AI 
 ![Winnie Werewolf](https://files.catbox.moe/17v40u.png) Winnie  | An adorable werewolf cub. Wild, rambunctious, and always game for a mischievous adventure. | ->[Chat on C.AI](https://beta.character.ai/chat?char=FV-udzx3MxxvYYv17RMqubH1nTriJFYXWBn5jri_FPg), [Image](https://files.catbox.moe/17v40u.png), [JSON](https://files.catbox.moe/3w3pig.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/winnie-werewolf)<- | C.AI 
@@ -89,8 +86,8 @@ Character Image | Character Description | Links | Recommended Platform
 
 ### Goblins
 
-Character Image | Character Description | Links | Recommended Platform
-:------: | ------ | ------ | ------ 
+->Character Image<- | ->Character Description<- | ->Links<- | 
+:------: | ------ | ------ |  
 ![Gabrielle](https://files.catbox.moe/7dj63m.png) Gabrielle  | Your clumsy, somewhat civilized goblin maid. | ->[Chat on C.AI](https://beta.character.ai/chat?char=bNZHw_SEDr3LWErKf8sGZV6-PGCw8-i786OQ_B4Eosk), [Image](https://files.catbox.moe/7dj63m.png), [JSON](https://files.catbox.moe/b5qopd.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Gabrielle)<- | C.AI 
 ![Teal](https://files.catbox.moe/crf39f.png) Teal  | A sickly artist goblin who loves to create. | ->[Chat on C.AI](https://beta.character.ai/chat?char=E9Gg352SDs-hCP7zu0Kwv6EVhCfMGmeezrLG7xDXkJs), [Image](https://files.catbox.moe/crf39f.png), [JSON](https://files.catbox.moe/yyufwz.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Teal)<- | C.AI 
 ![Rebecca](https://files.catbox.moe/h9rgy6.png) Rebecca  | Goblinified version of the short-tempered, loud-mouthed edgerunner. | ->[Chat on C.AI](https://beta.character.ai/chat?char=Lv4PsM3c8uwRGnNPo97S0lFzg372BZZAgFVuLi33_AU), [Image](https://files.catbox.moe/h9rgy6.png), [JSON](https://files.catbox.moe/nuffti.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Rebecca)<- | C.AI 
@@ -100,8 +97,8 @@ Character Image | Character Description | Links | Recommended Platform
 
 ### Misc
 
-Character Image | Character Description | Links | Recommended Platform
-:------: | ------ | ------ | ------ 
+->Character Image<- | ->Character Description<- | ->Links<- | 
+:------: | ------ | ------ | 
 ![Eirian](https://files.catbox.moe/2lunlh.png) Eirian  | An otaku from another planet! She's basically if Invader Zim gave up and became a weeb. | ->[Chat on C.AI](https://beta.character.ai/chat?char=zLauW-GJm-qyj-MUb4V9ei86SjNBFr-Sft_hE2H2F1M), [Image](https://files.catbox.moe/2lunlh.png), [JSON](https://files.catbox.moe/s2xhg6.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Eirian)<- | C.AI 
 ![Transformation Gun](https://files.catbox.moe/k19lmu.png) ->Dr. Vatnik's Transformation Gun<-  | A 'toy' that transforms people into animals. | ->[Chat on C.AI](https://beta.character.ai/chat?char=7zc2W0aDhdsj8Czlcd_QqlqLWazHqVE8cv_1YmfPFlk), [Image](https://files.catbox.moe/k19lmu.png), [JSON](https://files.catbox.moe/if7gto.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/Transfogun)<- | C.AI
 ![Totally Spies](https://files.catbox.moe/j3fng7.png) ->The Totally Spies<- | The beautiful Totally Spies have been ensnared by you. What dastardly schemes of a mischievous nature do you have in store? | ->[Chat on C.AI](https://beta.character.ai/chat?char=xrd6ZN2bzpSf6TagxofvliFZYUOJOPiVBNls19DMVoA), [Image](https://files.catbox.moe/m79ro4.png), [JSON](https://files.catbox.moe/jh91ur.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/the-totally-spies)<- | OAI/Pyg+Tavern
@@ -123,17 +120,18 @@ Character Image | Character Description | Links | Recommended Platform
 ![Antonio de Fugue](https://files.catbox.moe/uiiu8e.png) ->Antonio de Fugue<-  | A shy noble and budding philosopher that serves in your court. Yet come night, a fierce beast emerges: this timid soul transforms into a ragged werewolf. Though animal instincts awaken to sniff and howl under the moon, he remains as timid in heart as ever, still servile yet become feral. | ->[Image](https://files.catbox.moe/phecmi.png), [JSON](https://files.catbox.moe/c7xilg.json), [Chat on Venus AI](https://venus.chub.ai/users/norquinal/Antonio)<- | N/A
 ![Pokémusu Red](https://files.catbox.moe/emuzkp.png) ->Pokémusu Red<-  | The classic Pokémon adventure you know and love, now with an extra dose of kawaii! Catch, train and battle adorable monster girls as you explore the Kanto region. With over 150 monster girls to collect including the fiery Charmander, the bashful Bulbasaur and everyone's favorite, the sassy Squirtle, Pokémusu Red is the game Pokémon fans never knew they needed...until now! | ->[Image](https://files.catbox.moe/wsf80t.png), [JSON](https://files.catbox.moe/6kprbk.json), [Chat on Venus AI](https://venus.chub.ai/characters/norquinal/pokemusu-red)<- | N/A
 
-### OAI/Pyg+Tavern Ports
+### Ports
 
-Character Image | Character Description | Links
+->Character Image<- | ->Character Description<- | ->Links<-
 :------: | ------ | ------ 
 ![Princess Annelotte](https://files.catbox.moe/tu09f3.png) ->Princess Annelotte<-  | A bratty, spoiled and demanding princess. Port of Princess Annelotte from CAI. | [Image](https://files.catbox.moe/tu09f3.png),[JSON](https://files.catbox.moe/ange86.json) 
 ![Isabelle](https://files.catbox.moe/agfqhv.png) ->Isabelle<-  | She's on vacation, but she misses working...Port of Isabelle from CAI. | [Image](https://files.catbox.moe/ebi983.png),[JSON](https://files.catbox.moe/lk7tlt.json) 
 
-### Suggestions
-I enjoyed making bots. I don't enjoy it as much as I used to, but if you have any ideas for a bot you think would be cool, or how I could improve a bot, or otherwise any comments or feedback, I'm always open to hearing them. You can send suggestions to [this jotform](https://form.jotform.com/231595952077062).
+### Suggestion Box
+I appreciate any ideas or feedback you may have to help improve my content and make things more interesting. I aim to craete entertaining bots for people to enjoy. If there's something specific you'd like for me to make as my next bot, feel free to send suggestions to [my Jotform](https://form.jotform.com/231595952077062). I can't guarantee I'll get to everything, but I do read all suggestions and take every idea into consideration.
 
 ### Changelog
+7/6/2023 - Made some structural changes to the rentry and removed the recommended platforms section.
 7/4/2023 - Released Pokemusu Red.
 6/29/2023 - Released One Bot At A Time (Doobie, Elephant Peach, HMoFA Dating Sim, Esmeralda, The Beast, The Coloniser, Cassie Cooper, Ellie, Milky, Suzu, Lanaporeon, Lenyan S. Kittendy, Antonio, Andrea)
 6/4/2023 - Released Dangerous: The Double Batch (Paprika, Erika, Dawn Bellwether, Shinjyu Harumi, Lucifer, Mavis Dracula, Satina, Shisho & Beruko, Amneris, Kaimoko, LUM13R4, and Khoshka)

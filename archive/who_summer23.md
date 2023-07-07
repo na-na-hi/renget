@@ -62,6 +62,7 @@ _______________________________
 
 ###Summer Shorts
 Part of HoloSummer's events. Daily shorts are uploaded to each holomem's channels. Mumei is on day 7 (JST), same day as the Tanabata festival. It is a pun on her name since 七夕(Tanabata) means Evening of the Seventh, the Seventh day of the Seventh month. And Mumei's Surname in JP is 七詩(*lit.* Seven Poems).
+->[![](https://files.catbox.moe/vg2gvp.jpg)](https://www.youtube.com/watch?v=r0P892jEXPw)<-
 
 ###HoloSummer related streams
 | Date | Title | Link | Nature |

@@ -102,3 +102,5 @@ Mike's Ride (Mike the Driver, Dr. Charles Crane): https://docs.google.com/docume
 Raid Crashers (Chloe, Nikto, Magnus, Lin, Dr. Charles Crane): https://rentry.org/fxyqp
 Closer (Calliope, Queen Bee, Kara): https://rentry.org/2xzif 
 Ride Along (Isha, Kara): https://rentry.org/ztf4s
+### Mission Logs
+Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions

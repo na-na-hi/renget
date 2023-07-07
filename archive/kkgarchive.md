@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 07.07.2023 02:15 UTC]
+[Last Updated: 07.07.2023 08:15 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7467200/](https://boards.4chan.org/h/thread/7467200/)
 
@@ -10,7 +10,7 @@ Last five:
 - 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lazy reposter edition
 - 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;
 - 602&nbsp;&nbsp;[archiveofsins.com/h/thread/7454980/](https://archiveofsins.com/h/thread/7454980/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1082]&nbsp;#&nbsp;Chikaverse edition
-- 601&nbsp;&nbsp;[archiveofsins.com/h/thread/7452002/](https://archiveofsins.com/h/thread/7452002/)&nbsp;&nbsp;&nbsp;&nbsp;(28.06.2023 17:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Gateway Edition
+- 601&nbsp;&nbsp;[archiveofsins.com/h/thread/7452002/](https://archiveofsins.com/h/thread/7452002/)&nbsp;&nbsp;&nbsp;&nbsp;(28.06.2023 17:27)&nbsp;&nbsp;[1107]&nbsp;#&nbsp;Gateway Edition
 ---
 Archive:
 
