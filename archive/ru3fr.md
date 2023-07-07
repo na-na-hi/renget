@@ -13,7 +13,8 @@ High Plains Drifter ["Snake-like Reflexes" and "One shot, one kill" Free]
 (-20) Brute Strength [+8 CR]
 (-12) Be Nimble, Be Quick [+5 CR]
 (-14) Fast Hands [+5 CR]
-(-46) [+28 CR]
+(-15) Pretty Face
+(-61) [+35 CR]
 >Skills
 (Free) One Shot, One Kill [x2 CR from ranged weapons with single-shot]
 (-20) Hack and Slash + Slice and Dice [x2 CR to Melee weapons, x5 CR to Two-Handed Melee Weapon]
@@ -31,7 +32,7 @@ Plasma Sword - An old and experimental variant of the plasma gun. Instead of the
 "Apparently my old man found it when he went prospecting in a prewar research facility. I thought it was cool then, so I trained to use it. Really wish I listened to him and got into accounting instead, at least I wouldn't have to deal with so many people pestering me to duel or see me cut a cinder block ten meters away."
 
 >Equipment
-(Free) Cool Outfit - Suit
+(-5) Cool Outfit x2 - Suit x2
 (-22) Praise the Lord and Pass the Ammunition [+10 CR]
 (-14) Concealment Mechanism [+7 CR] - The plasma generator has been modified to fit into a plain black gun case, along with the hose, scabbard, and sword. While being a gun case can raise some suspicion, it's still far better than the backpack being out in the open. When engaged in combat, there are straps on one side so that Billy can comfortably carry the case on his back, and the sword and scabbard is ejected through a hole at the bottom, where he can put the scabbard to his waist.
 
@@ -39,7 +40,7 @@ Plasma Sword - An old and experimental variant of the plasma gun. Instead of the
 
 "This costed me a fortune and it still gets me odd looks now and then... not as bad as hauling around that bulky, metal backpack at least."
 
-(21 leftover)
+(3 leftover)
 Total CR: [110 CR]
 No Items CR: [28 CR]
 

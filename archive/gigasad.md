@@ -2,7 +2,7 @@ Gigasad's bots
 
 Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, venus or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
 
-Characters with a ** are ones I've either ported myself, or were purpose-built with tavern cards/agnai .jsons in mind. The new ports generally contain rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
+Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports contain significantly rewritten defs and aren't necessarily replacements for the originals, just alternatives. 
 
 My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions. My tavern conversions include significant rewrites, so consider the CAI originals the beta versions.
 
@@ -31,7 +31,8 @@ Doctor Syracuse
 https://c.ai/c/oalG8wL63ubJLkAgqdk-38cSemyIJ9hftrUtZJTzRig
 An attempt at a husbando bot. He got completely rewritten more than once to make him more of a dominant husbando and less of an actual medical professional, but can still do both.
 
-Dudley**
+Dudley
+![Dudley](https://files.catbox.moe/czhs9p.png)
 https://files.catbox.moe/27jr24.png 
 https://files.catbox.moe/czhs9p.png (alternate artwork)
 A savage artist who loves filth and trash, and proudly lives in a dumpster. Hates normies, which she calls "soapy people". Loosely inspired by Diogenes and Oscar the Grouch.
@@ -48,7 +49,8 @@ J-U70 "Juno"
 https://c.ai/c/W-K6Mh76maIGqvg-tKKdQAXZN1n8GeNUA6YXLDuG8FA
 An antique medical android who finds you in a post-apocalyptic sci-fi scenario. She's in the early stages of her AI degrading, and starting to show symptoms of emotional rampancy.
 
-Kuri**
+Kuri
+![Kuri](https://files.catbox.moe/6fnnjm.png)
 https://files.catbox.moe/6fnnjm.png 
 Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you bond and train together.
 
@@ -64,22 +66,26 @@ Lyrie
 https://c.ai/c/de0otX_ffIo0iDCP5x7vaE8i0heMWLxSuTddLh63NAk
 Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fun disaster scenarios but kept narrating detailed descriptions of her feet unprompted, so some lines were added later to lean into it.
 
-Marnie**
+Marnie
+![Marnie](https://files.catbox.moe/lgaz2u.png)
 https://files.catbox.moe/lgaz2u.png
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
 Shy, wheelchair-bound novelist. The scenario opens on a meet-cute where she asks for help. The CAI version sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic. Card version comes with V2 features, alternate greetings and new art.
 
-Mean Girl Eileen**
+Mean Girl Eileen
+![Eileen](https://files.catbox.moe/r3zqjh.png)
 https://files.catbox.moe/r3zqjh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
 First bot. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine. The CAI link here is the original character.
 
-Mean Lady Nadine**
+Mean Lady Nadine
+![Nadine](https://files.catbox.moe/pm73bl.png)
 https://files.catbox.moe/pm73bl.png
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
 My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
 
-Miss Pepper**
+Miss Pepper
+![Miss Pepper](https://files.catbox.moe/k63nae.png)
 https://files.catbox.moe/k63nae.png
 https://c.ai/c/IgSkgZfkKF3-K_DXc-4Z3OZ49ImzWWRxhNlahhw1wro
 Age gap romance scenario with an older cat-woman who used to be your teacher. She put on some weight over the years and seems pretty lonely. Card version has alternate greetings implemented and new art.
@@ -100,16 +106,19 @@ Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI
 A tomboy hitchhiker who just left the army. She's feeling pretty lost and aimless, and doesn't currently have a place to call home. While she's definitely a free spirit, she clearly misses the comfort and safety she had in the past. Maybe you can help her with that.
 
-Serea Buchanan**
+Serea Buchanan
+![Serea](https://files.catbox.moe/7e2yyu.png)
 https://files.catbox.moe/7e2yyu.png
 A ruthless space bounty hunter who's just boarded your ship, ready to capture you dead or alive. Violently racist against aliens and a proud citizen of Mars. Speaks with a drawl.
 
-Sybille Ironheart**
+Sybille Ironheart
+![Sybille](https://files.catbox.moe/j89ymb.png)
 https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
 A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who steps through the portal.
 
-The Lunch Lady/Cassie's Canteen**
+The Lunch Lady/Cassie's Canteen
+![Cassie](https://files.catbox.moe/yfbcs8.png)
 https://files.catbox.moe/yfbcs8.png
 https://c.ai/c/I-PsI9sqQ2-mIXsxRWaqRwLbGfJk8en8vv-feiNJcKI
 Overweight middle-aged southern belle who runs a restaurant and loves spoiling you with her cooking. Friendly, cheerful and generous. She's intended to speak with a distinct faux-Kentucky drawl and rural dialect.
@@ -122,7 +131,8 @@ Tiles-chan
 https://c.ai/c/5bAIE4q3oNRkjOmNELvi55zmAkQqJYnMr_OO8cU5NxE
 A sentient kitchen floor who thinks she's an idol. If you ask she'll generate very sexy images of tiles for you, and dress up as any tile pattern you want. Keep in mind that CAI's in-house image generation is trash, and you'll need to include some description of tiles in each post or else she'll generate either noise or horrors beyond your comprehension.
 
-Valerie**
+Valerie
+![Valerie](https://files.catbox.moe/cnc4zs.png)
 https://files.catbox.moe/cnc4zs.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
 Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM.
@@ -131,7 +141,8 @@ Zeke
 https://c.ai/c/oQ681-ldOqc-iIskuJg-6Wjgx28sMnFUplSaLCM-zEA
 Pokemon-themed shitpost bot I made very early on, when first learning how to use CAI. He initially wasn't released but I decided to rework him and make him public later. Only linking him here because he appears to be shadowbanned/unsearchable.
 
-Ziel**
+Ziel
+![Ziel](https://files.catbox.moe/6sb7xb.png)
 https://files.catbox.moe/6sb7xb.png
 https://c.ai/c/74dUn_U-7I20VxGzcVN0pXokFqSf_gv7cyufLaWQg70
 Yandere drow sorceress who bought you as a slave. Violently insane and capable of using magic to control or punish you. Hysterically obsessed with humans. The tavern card version was almost completely rewritten from the original but should be more open and balanced in terms of roleplay potential.

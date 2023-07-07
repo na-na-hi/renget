@@ -310,6 +310,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Sterling the Clampearl !!
 	* [Sterling's Purpose ch.1](https://rentry.org/4uw36) *Not on Table*
 	* [Sterling's Purpose ch.2](https://rentry.org/fau75) *Not on Table*
+	* [Sterling's Purpose ch.3](https://rentry.org/kcqy3) *Not on Table*
 * Stumpy the Shroomish
 	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
@@ -454,6 +455,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Billy vs Porygon](https://rentry.org/BillyVSPorygon) *Non-Canon*
 * {||} [Sterling's Purpose ch.2](https://rentry.org/fau75)
 * {||} [Grandma's Cookies](https://rentry.org/o4cme)
+* {||} [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

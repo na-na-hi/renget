@@ -154,7 +154,7 @@ There are strategies where you put certain units on the edges for better angles,
 Your units also have different environmental moods (affinity) depending on the terrain. While this isn't a major concern early on, once you have a big enough roster you can try swapping around some units.
 ![Affinity](https://i.imgur.com/8kE8mtH.jpg) 
 
-The subskill of supports don't stack with each other if they have the same description (e.g. double ATK subskills don't stack). If they are the same, the level of the support in the right slot's subskill will be used, not the highest level one. 
+The sub skill of supports don't stack with each other if they have the same description (e.g. double ATK sub skills don't stack). If they are the same, the level of the support in the right slot's sub skill will be used. Not the highest level one. 
 For raids the strongest support combo is (generally) Crit DMG + ATK sub skill. 
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) provides a more comprehensive and up-to-date guide to team formations.

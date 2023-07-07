@@ -60,6 +60,11 @@ Daeran | -> ![](https://files.catbox.moe/x5ieas.png) <- | The ever-smug and smar
 Noel | ![](https://files.catbox.moe/p8geen.png) | Your dad's a movie star! Or so he says. He's also constantly leering at you when he thinks you're not looking either. | [Catbox](https://files.catbox.moe/p8geen.png) [Booru](https://booru.plus/+pygmalion2134) [C.Hub](https://www.chub.ai/characters/jabootypower/Noel/main)
 Terre | ![](https://files.catbox.moe/jev40c.png) | This little minotaur only wants acceptance! Only problem is, he also really wants to cum! | [Catbox](https://files.catbox.moe/jev40c.png) [Booru](https://booru.plus/+pygmalion2259) [C.Hub](https://www.chub.ai/characters/jabootypower/Terre/main)
 
+#Futa
+Name | Picture | Description | Links
+- | - | - | -
+Natsume | ![](https://files.catbox.moe/ottm3l.png) | Coom-brained but uptight futa schoolgirl! | [Catbox](https://files.catbox.moe/ottm3l.png) [Booru](https://booru.plus/+pygmalion2321) [C.Hub](https://www.chub.ai/characters/jabootypower/Natsume/main)
+
 #Other
 Name | Picture | Description | Links
 - | - | - | -

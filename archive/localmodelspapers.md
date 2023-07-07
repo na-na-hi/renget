@@ -30,6 +30,7 @@
 05/2023|[FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://arxiv.org/abs/2305.02549)
 05/2023|[PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
 05/2023|[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
+05/2023|[Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models](https://arxiv.org/abs/2305.14705)
 05/2023|[Towards Expert-Level Medical Question Answering with Large Language Models (Med-Palm 2)](https://arxiv.org/abs/2305.09617)
 05/2023|[DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining](https://arxiv.org/abs/2305.10429)
 05/2023|[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)
@@ -164,6 +165,7 @@
 06/2023|[ViNT: A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846)
 06/2023|[How Long Can Open-Source LLMs Truly Promise on Context Length? (LongChat)](https://archive.ph/NfIj2)
 07/2023|[Hierarchical Open-vocabulary Universal Image Segmentation](https://arxiv.org/abs/2307.00764)
+07/2023|[Focused Transformer: Contrastive Training for Context Scaling (LongLLaMA](https://arxiv.org/abs/2307.03170)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -302,6 +304,7 @@
 07/2023|[Single Sequence Prediction over Reasoning Graphs for Multi-hop QA](https://arxiv.org/abs/2307.00335)
 07/2023|[Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models](https://arxiv.org/abs/2307.01379)
 07/2023|[Facing off World Model Backbones: RNNs, Transformers, and S4](https://arxiv.org/abs/2307.02064)
+07/2023|[Improving Retrieval-Augmented Large Language Models via Data Importance Learning](https://arxiv.org/abs/2307.03027)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

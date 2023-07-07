@@ -21,6 +21,9 @@
 ####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH REPETITIONS, EPOCHS, BATCH SIZE AND GRADIENT ACCUMULATION.
 ####PRODIGY IS ```DETERMINISTIC```.
 
+####EXAMPLE OF LOSS AND LEARNING RATE RELATION:
+![](https://imagizer.imageshack.com/img924/949/QNMtd4.png)
+####YOU CAN SEE CLEARLY THAT IT FOLLOWS THE LR.  THIS IS WHAT YOU AIM FOR, EITHER NO SPIKE OR SMOOTH AND EVEN SPIKES IN WHICH LOSS FOLLOWS.
 
 ##EXAMPLE OF RESULTS? 
 
@@ -68,7 +71,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,
@@ -114,7 +117,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 10,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 10,

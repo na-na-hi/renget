@@ -82,6 +82,7 @@ Water: https://archive.4plebs.org/tg/post/89422342
 Hippocratic Oath Shitpost: https://archive.4plebs.org/tg/post/89422525
 Isha's Husband Rankings: https://archive.4plebs.org/tg/post/89439575
 Kara's Would/Wouldn't Rankings (Yuri): https://archive.4plebs.org/tg/post/89462253
+Objective Fuckability Tierlist: https://archive.4plebs.org/tg/thread/89450236/#89456879
 ### Artfags
 ANT KING: https://archive.4plebs.org/tg/post/89395657
 Kara Ramirez: https://archive.4plebs.org/tg/post/89418140

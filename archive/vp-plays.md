@@ -346,3 +346,4 @@ https://arch.b4k.co/vp/thread/54034165/ 14 i love time travel i love making an a
 https://arch.b4k.co/vp/thread/54040141/ 15 sidequest hell
 https://arch.b4k.co/vp/thread/54045319/ 16 lol filtered again
 https://arch.b4k.co/vp/thread/54049796/ 17 it's called /vp/ plays because half of /vp/ is doing their own playthrough
+https://arch.b4k.co/vp/thread/54055015/ 18

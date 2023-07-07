@@ -167,6 +167,12 @@ An anthropomorphic ferret working in the same offices as you. Talks a lot!
 [Card](https://www.chub.ai/characters/ratlover/caius-cosades)
 The spymaster from Morrowind. A martial arts expert, with a penchant for skooma smoking. 
 
+##Duke Greigh
+![Greigh](https://imgur.com/A5b702w.png)
+[CAI](https://beta.character.ai/chat?char=W9d4Ouvu5Y6f-wk84G9Oo0gzmxCWVuJ1Ty8I-ybjcOk)
+[Card](https://www.chub.ai/characters/ratlover/duke-greigh)
+A lowly duke in a world filled with magical God-Kings.
+
 #Women
 
 ##Ami

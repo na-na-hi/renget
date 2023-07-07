@@ -3,6 +3,7 @@
 Yo, I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
 All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude on Silly Tavern
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
+If you want to contact me for a reason or another, here is my e-mail: playalundra@proton.me
 # Get some standards
 
 

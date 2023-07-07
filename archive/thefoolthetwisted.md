@@ -83,7 +83,7 @@ For the record, Leper did not kill any of the original owners. He just picked th
 > A double-sided mining pick used by T Corp's golden collectors. The second user, a lucky Rat, didn't take good care of it so the blades have cracks and chips on them. However, its ability to store energy with each hit is still intact. With enough energy, the pick can create a burst that shocks its victims. 
 (-70) Quality II Weapon: Leech Drone
 > Canister-shaped drone that can attach to Leper's helmet. Its main forte lies in its life-draining abilities, latching onto an enemy to drain their energy before bestowing it to its user. The drone usually deactivates upon the death of its first user, he doesn't know how this one is still active.
-(-100) Quality III Weapon:  Modified Flesh Glaive
+(-100) Quality III Weapon:  Modified Flesh Glaive (Pinky)
 > A favorite among Paracelsus Atelier's customers, its telescopic handle allows it to be easily carried. Before his death in X Corp's Backstreets, the owner of this particular glaive requested a modification for his copy. This came in the form of a second blade, which, combined with the original, can move like a buzzsaw to cut through flesh and metal easily.
 
 > Misc (50+20)

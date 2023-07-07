@@ -75,6 +75,7 @@ https://aggie.io/fo8w9mduzw /pizzatrash/ SUPERFUCK WEEKEND
 https://aggie.io/5pdx2jzdvu /pizzatrash/ Aggie: Daddy Day Edition
 https://aggie.io/ugr8fbu79z /pizzatrash/ Aggie: oh god not again Edition
 https://aggie.io/onx7y3eqr5 /pizzatrash/ Aggie: End of June Edition
+https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
 
 
 #####MEGA
@@ -90,5 +91,5 @@ https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
 #####Current Info
 
 Latest thread: https://boards.4chan.org/trash/thread/57798758
-Latest Aggie: https://aggie.io/onx7y3eqr5
+Latest Aggie: https://aggie.io/_ia3r16_h5
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA

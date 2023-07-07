@@ -1,4 +1,4 @@
->remaking this since lore nuked my chub
+>It's over 👋 
 Please send all your logs i use them to see if my format works or not :)
 
 **Table of Contents**
