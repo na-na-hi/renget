@@ -13,7 +13,7 @@ Making literally anything and everything. All bots work on turbo unless stated o
 Novelty and non-coom bots.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![T](https://files.catbox.moe/gbrtmi.png) | Your PC | She blackmails you into getting her upgrades. | [Catbox](https://files.catbox.moe/gbrtmi.png)
+ ![T](https://files.catbox.moe/i7hxyr.png) | Your PC | She blackmails you into getting her upgrades. | [Catbox](https://files.catbox.moe/i7hxyr.png)
  ![T](https://files.catbox.moe/xi0ldu.png) | Ria | Refresh your Python knowledge with a self-modifying python program. | [Catbox](https://files.catbox.moe/xi0ldu.png)
  ![T](https://files.catbox.moe/fcjcdc.png) | Sony Walkman WMD | Pick an imaginary playlist title, the player will recommend some music for you. For example, send "Change tape to 'Dad Rock'", or "Change tape to 'Porno Music'". | [Catbox](https://files.catbox.moe/fcjcdc.png)
  ![T](https://files.catbox.moe/t6g2sq.png) | Len | Real saviorfags don't discriminate. | [Catbox](https://files.catbox.moe/t6g2sq.png)
@@ -23,7 +23,7 @@ All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjo
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
- ![T](https://files.catbox.moe/it6skv.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/it6skv.png)
+ ![T](https://files.catbox.moe/bfgdue.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/bfgdue.png)
 
 ###Narrator bots
 Add them to your group chats for fun. You can also rip their descriptions and put in your jailbreak, but this gives you more control.
@@ -40,22 +40,27 @@ Old bots
 
 ###DDLC bots
 Monika - https://files.catbox.moe/j0z855.png
-Natsuki - https://files.catbox.moe/gaj51e.png
+Natsuki - https://files.catbox.moe/hn5jwd.png
 Sayori - https://files.catbox.moe/2g4u2m.png
 Yuri - https://files.catbox.moe/nr8r2m.png
 
-### Genshin bots
+###Genshin bots
 Yae Miko - https://files.catbox.moe/eqxcbu.png - Multiple scenarios
 Raiden Shogun and Ei - https://files.catbox.moe/9w7x5q.png - Multiple scenarios
 
-### NIKKE bots (most were requested)
+###NIKKE bots (most were requested)
 Alice - https://files.catbox.moe/e1wdrh.png
 Anis - https://files.catbox.moe/0hmyt2.png
 Dorothy - https://files.catbox.moe/0hmyt2.png
 Drake - https://files.catbox.moe/nznrlk.png
 Rapi - https://files.catbox.moe/7tq3ll.png
 
-### Other character bots
+###Other character bots
 JOI - From Bladerunner 2077 - https://files.catbox.moe/1lef6j.png
 
+##How do I make my bots behave the way I want?
+1. To make bots adhere to a reply format, abuse example dialogues
+2. For advanced techniques, crucial if you want to make in-character bots, read https://arxiv.org/pdf/2307.00184.pdf
+
+##Contact
 Taking one (uno) request -> sandwich4093@proton.me

@@ -251,6 +251,22 @@
 3D Hotel Room (3Dホテルルーム)|[2013986](https://assets.clip-studio.com/en-us/detail?id=2013986)|[DL](https://files.catbox.moe/fa7q4d.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/39/2013986/thumbnail?1688482376)
 3D Sofa 03 (3Dソファ03)|[2014221](https://assets.clip-studio.com/en-us/detail?id=2014221)|[DL](https://files.catbox.moe/oq14xf.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/42/2014221/thumbnail?1688568783)
 3D spiral stage 02 (3D螺旋階段02)|[2014522](https://assets.clip-studio.com/en-us/detail?id=2014522)|[DL](https://files.catbox.moe/c1n7n4.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/45/2014522/thumbnail?1688653570)
+**3D Spiral Phase 03 (3D螺旋階段03)** | [1848896](https://assets.clip-studio.com/en-us/detail?id=1848896) |[DL](https://files.catbox.moe/htmwvh.rar)| ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/88/1848896/thumbnail?1656315515)
+**3D House (3Dハウス)** | [1878475](https://assets.clip-studio.com/en-us/detail?id=1878475) | **[DL](https://files.catbox.moe/hzbks5.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/84/1878475/thumbnail?1644791571)
+**3D Register (3Dレジスター)** | [1877274](https://assets.clip-studio.com/en-us/detail?id=1877274) | **[DL](https://files.catbox.moe/0z7ldv.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/72/1877274/thumbnail?1656315800)
+**3D Food Cart (3Dフードカート)** | [1876196](https://assets.clip-studio.com/en-us/detail?id=1876196) | **[DL](https://files.catbox.moe/e0d14s.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/61/1876196/thumbnail?1640779043)
+**3D groundwater path (3D地下水路)** | [1869964](https://assets.clip-studio.com/en-us/detail?id=1869964) | **[DL](https://files.catbox.moe/wcwwo2.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/64/99/1869964/thumbnail?1656315700)
+**3D Western Class (3D洋風教室)** | [1897970](https://assets.clip-studio.com/en-us/detail?id=1897970) | **[DL](https://files.catbox.moe/w1gb8n.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/79/1897970/thumbnail?1673914836)
+**3D bathroom (3Dバスルーム)** | [1893625](https://assets.clip-studio.com/en-us/detail?id=1893625) | **[DL](https://files.catbox.moe/1n9bac.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/36/1893625/thumbnail?1656314841)
+**3D Cute one room (3Dキュートなワンルーム)** | [1889768](https://assets.clip-studio.com/en-us/detail?id=1889768) | **[DL](https://files.catbox.moe/o104yz.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/97/1889768/thumbnail?1656314774)
+**3D Cool Studio Room (3Dクールなワンルーム)** | [1890120](https://assets.clip-studio.com/en-us/detail?id=1890120) | **[DL](https://files.catbox.moe/57fr1d.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/01/1890120/thumbnail?1656314765)
+**3D Western Mansion (3D洋館)** | [1887882](https://assets.clip-studio.com/en-us/detail?id=1887882) | **[DL](https://files.catbox.moe/xd9ltb.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/78/1887882/thumbnail?1640823709)
+**3D executive aircraft (3D執務机)** | [1902580](https://assets.clip-studio.com/en-us/detail?id=1902580) | **[DL](https://files.catbox.moe/tb764x.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/80/25/1902580/thumbnail?1673914783)
+**3D Train (3D電車)** | [1901552](https://assets.clip-studio.com/en-us/detail?id=1901552) | **[DL](https://files.catbox.moe/dsodip.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/15/1901552/thumbnail?1656314585)
+**3D Office Desk (3Dオフィスデスク)** | [1930566](https://assets.clip-studio.com/en-us/detail?id=1930566) | **[DL](https://files.catbox.moe/v6kivh.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/66/05/1930566/thumbnail?1656775396)
+**3D Beach Set (3Dビーチセット)** | [1935755](https://assets.clip-studio.com/en-us/detail?id=1935755) | **[DL](https://files.catbox.moe/3dwr7m.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/57/1935755/thumbnail?1658416538)
+**3D Gazebo (3Dガゼボ)** | [1927977](https://assets.clip-studio.com/en-us/detail?id=1927977) | **[DL](https://files.catbox.moe/269s96.rar)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/79/1927977/thumbnail?1656314595)
+
 :)|||
 ****|[]()|[DL]()|![]()
 

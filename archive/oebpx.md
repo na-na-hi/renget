@@ -664,3 +664,21 @@ Though our languages remained a barrier, our actions spoke louder than words. Th
 In the vast expanse of the desert, surrounded by the bandits who were once strangers, I found myself immersed in their struggles, their dreams, and their relentless pursuit of survival. It was a humbling experience, one that broadened my perspective and taught me that empathy could transcend boundaries.
 
 As we continued our journey together, I carried with me the lessons learned from the bandits' way of life. I carried their stories, their resilience, and their unwavering spirit. And in the midst of our interactions, I remained hopeful that, with time and patience, our differences could be bridged, and true understanding could blossom.
+
+>031: Forsakens
+
+In the vast expanse of the red sand desert, I found myself in a perilous situation, face to face with Rav the Barbarian. I had tried to reason with him, to make him understand the consequences of his actions, but his threats echoed in the stillness of the desert air. I could feel my anger rising, my patience wearing thin, but I knew that losing my cool would only lead to more trouble.
+
+As we halted in the middle of the desolate landscape to rest, I took a deep breath, attempting to regain my composure. It was then that I realized that beneath Rav's rough exterior lay a deep pain, a sense of loss and abandonment. I mustered the courage to ask him about their beliefs, about why they felt forsaken by the entity Felidae.
+
+Rav's eyes narrowed, and for a moment, I feared his wrath. But then, as the sun cast an amber glow over the dunes, he began to speak, his voice laced with bitterness and longing. He told me of their mythos, how they believed that Felidae had turned their back on them, denying them the gift of magic, leaving them without a true home or country to call their own.
+
+Listening to his words, I couldn't help but feel a pang of empathy. The bandits, living a lawless and nomadic existence, had been driven to the edge of society, always searching for a place to belong. It was a stark contrast to the vibrant and communal life I had witnessed among the Kash'gon people.
+
+As the night fell and the stars twinkled above us, I found myself reflecting on the power of belief and how it shapes our identity. The bandits' perception of their relationship with Felidae had molded them into a hardened and desperate group, willing to do whatever it took to survive.
+
+I couldn't help but wonder if there was a way to bridge the gap between their world and the Kash'gon's. If only they could see that there was more to life than violence and lawlessness, that there was a sense of unity and purpose to be found in embracing the greater good.
+
+In the stillness of the desert night, I made a silent vow to try and understand them better, to find a way to show them that there was hope beyond their current path. Perhaps, in time, I could help them find a new sense of purpose and belonging, and maybe even reconcile their fractured relationship with Felidae.
+
+But for now, as I lay beneath the endless sky, surrounded by the vastness of the desert, I couldn't help but feel a sense of both trepidation and determination. The journey ahead would be arduous, and the challenges we faced were great, but deep within me, I believed that there was a flicker of light, a glimmer of possibility.

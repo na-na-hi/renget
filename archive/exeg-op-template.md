@@ -2,11 +2,15 @@ Welcome to the Vidya Creepypasta General. Feel free to discuss video game-based 
 
 ROOM #??? - ??? Edition
 
+>Slender the Arrival remake Countdown
+https://www.slenderarrival.com/
+
 >Video Game Creepypastas & Gaming Urban Legends
 https://rentry.org/creepypasta-centered-wiki
 
 >Official 4chan-Approved Creepypasta List
 https://rentry.org/eqmd8u
+https://rentry.org/xpastas
 
 >Creepypasta Games, Web Series/ARGs, SlenderARGs and Fearvlogs
 https://rentry.org/Exeg-games-and-web-series-archives

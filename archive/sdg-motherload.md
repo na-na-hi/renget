@@ -12,6 +12,7 @@ https://huggingface.co/HugeOcean/MotherloadMirror/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror2/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror3/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror4/tree/main
+https://huggingface.co/HugeOcean/MotherloadMirror5/tree/main
 
 Until repo search is implemented, you can find model names, file names, descriptions and other info about each model here with ctrl + f (I scraped civitai on 6/25/2023, so the info is relevant up to then):
 https://huggingface.co/HugeOcean/ModelInfo/blob/main/civitai_models_6_25_2023.jsonl

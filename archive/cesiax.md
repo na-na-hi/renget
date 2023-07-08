@@ -33,8 +33,11 @@ Luna Station, lead by sex extraordinaire Stetikekiak, bands together to attempt 
 #####Anonymous Report
 Your name is Anon, and you finally landed a job! Two problems: firstly, it's a job on the Shoal, the crime-infested home "planet" of the Vox, made of rusting derelicts and smashed space stations. Secondly, you get lost. Very, very lost.
 
-**Into the Shoal:** Coming when I remember to edit it
+**Into the Shoal:** https://rentry.co/wk3xp
 Anon falls deep, deep, deep down. There's no way to backtrack, and the first Vox he finds- gas-masked 'law enforcers'- have no intention of helping him escape the mazelike darkness below.
+
+**Ghosts:** Coming eventually
+Anon comes along with his captors on a hunting trip, and finds a baggie of something *pink* amidst the loot. Anon is not thinking straight. Anon is going to make some mistakes.
 
 #####Shorts
 Anything else I've written that doesn't fit into a collection of stories. These will tend to be shorter, clunkier, and kinkier on average!

@@ -315,6 +315,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
 	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) 
+	* [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4) *Not on Table*
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -453,6 +454,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sterling's Purpose ch.1](https://rentry.org/4uw36)
 * {||} [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
 * {||} [Billy vs Porygon](https://rentry.org/BillyVSPorygon) *Non-Canon*
+* {||} [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4)
 * {||} [Sterling's Purpose ch.2](https://rentry.org/fau75)
 * {||} [Grandma's Cookies](https://rentry.org/o4cme)
 * {||} [Sterling's Purpose ch.3](https://rentry.org/kcqy3)

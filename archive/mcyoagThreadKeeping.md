@@ -97,7 +97,7 @@ Page 2
 >Victor Sigurd HN Hydra
 >>88209661
 >Inigo Myoga HN Dragon Hero: Ryu-kishi
->>88211122
+>>88414797
 >Christopher Cain HN Mirror Devil
 >>88217649
 >Son Jugo HN Aspara

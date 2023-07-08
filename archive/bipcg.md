@@ -1,4 +1,19 @@
 ▶NEW CLIPS
+>UKRAINE SURRENDER
+https://files.catbox.moe/pgmejg.MP4
+>RUSSIAN HUNTER PHONK
+https://files.catbox.moe/otsseq.MP4
+>HOOLIGAN
+https://files.catbox.moe/ugkzzp.MP4
+>BAKHMUT OFFENSIVE
+https://files.catbox.moe/pi2uzp.MP4
+>BEST JOB IN THE WORLD
+https://files.catbox.moe/yi3kod.mp4
+>Trained to NATO standards
+https://files.catbox.moe/4u3sjj.MP4
+https://files.catbox.moe/7phbgs.mp4
+>Russian Kamikaze BTR... again
+https://files.catbox.moe/9gieog.mp4
 >Trophy GoPro footage (with cameraman dying)
 https://files.catbox.moe/7u6q8s.mp4
 >"Mosquito" charge of AFU unit into a Russian explosive trench trap

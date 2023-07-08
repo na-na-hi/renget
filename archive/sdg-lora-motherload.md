@@ -12,6 +12,7 @@ https://huggingface.co/HugeOcean/MotherloadMirror/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror2/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror3/tree/main
 https://huggingface.co/HugeOcean/MotherloadMirror4/tree/main
+https://huggingface.co/HugeOcean/MotherloadMirror5/tree/main
 
 Until repo search is implemented, you can find model names, file names, descriptions and other info about each model here with ctrl + f (I scraped civitai on 6/25/2023, so the info is relevant up to then):
 https://huggingface.co/HugeOcean/ModelInfo/blob/main/civitai_models_6_25_2023.jsonl
@@ -105,40 +106,6 @@ Prompt:
 !!! info Negative prompt: sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, (monochrome:1.21), (grayscale:1.21), skin spots, acnes, skin blemishes, bad anatomy, deepnegative, (fat:1.2), facing away, looking away, tilted head, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worstquality, jpegartifacts, signature, watermark, username, blurry, bad feet, poorly drawn hands, poorly drawn face, mutation, deformed, jpeg artifacts, extra fingers, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar lowres, bad body, bad proportions, gross proportions, missing arms, missing legs, extra leg, extra foot,teeth,
 
 !!! info Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 1581266507, Size: 424x536, Model hash: bb6e6362d8, Model: chikmix_V1, Denoising strength: 0.46, Clip skip: 2, Hires upscale: 2, Hires steps: 20, Hires upscaler: Latent
-***
-
-##Waifu-SS
-
-Description:
-!!! note Stylish LoRA that makes waifus rocking Hugo Boss. Really good at "totalitarian" fashion in general.
-
-Triggerwords:
-!!! note black military uniform, black military hat, swastika armband
-
-Download links:
-https://pixeldrain.com/u/M6aKMCcc
-https://files.catbox.moe/va0s3h.safetensors
-
-Gen examples:
- ![1](https://files.catbox.moe/fuqlrp.png) 
-
-Prompt:
-
-!!! info (masterpiece), best quality, (chibi girl:1.2), messy hair, (very short undercut blonde hair), tomboy, choker, (lace stockings), (black military uniform), (black military hat), small breasts, [swastika armband], in a flight hangar, (UFO:1.3), platform boots, by Shigenori Soejima
-
-!!! info Negative prompt: 3d, thick strokes, ((disfigured)), ((bad art)), ((deformed)), ((poorly drawn)), ((extra limbs)), ((close up)), ((b&w)), weird colors, blurry, watermark, signature, xmas, x-mas, christmas
-
-!!! info Steps: 24, Sampler: DPM++ 2S a Karras, CFG scale: 9, Seed: 2910569539, Size: 448x640, Model hash: 23af285c91, Denoising strength: 0.55, Clip skip: 2, ENSD: 31337, AddNet Enabled: True, AddNet Module 1: LoRA, AddNet Model 1: Waifu-SS_v1(d03a9a36), AddNet Weight 1: 1, AddNet Module 2: LoRA, AddNet Model 2: s_soejima_shigenori(5b61979a), AddNet Weight 2: 0.6, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B
-
- ![2](https://files.catbox.moe/kbt3rq.png) 
-
-Prompt:
-
-!!! info (extremely detailed 4k wallpaper:1.1), masterpiece, high quality, european, deep blue eyes, pale skin, black hair, large breasts, black military uniform, black military hat, [swastika armband]
-
-!!! info Negative prompt: EasyNegative, (low quality, worst quality:2), bad_prompt_version2, extra fingers, extra limbs, text, watermark
-
-!!! info Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 12, Seed: 2589480012, Size: 512x512, Model hash: 230102ba0f, Model: umiAIMythologyAndBabes_olympusLandscapesV10, Denoising strength: 0.6, Hires upscale: 2, Hires upscaler: Latent (nearest-exact), Dynamic thresholding enabled: True, Mimic scale: 7, Threshold percentile: 95, Mimic mode: Half Cosine Up, Mimic scale minimum: 3, CFG mode: Half Cosine Up, CFG scale minimum: 3
 ***
 
 ##Pepe

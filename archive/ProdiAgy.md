@@ -5,8 +5,6 @@
 !!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
-!!! note Guide is done, everything has been tested. If your results are unsatisfactory even now then you have a skill issue in which case I recommend you to keep making wasteful networks.
-!!! warning I archived and redid the obsolete stuff I had on CivitAI as uncaptioned iA3 which is better. Currently CivitAI is being its usual dumpster fire of a website and does not allow me to upload them. I will link my CivitAI here once that is done and remove this old example image. EDIT: CivitAI works now, will be uploading these later when I got time.
 
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
@@ -27,24 +25,19 @@
 ![](https://imagizer.imageshack.com/img924/949/QNMtd4.png)
 ####YOU CAN SEE CLEARLY THAT IT FOLLOWS THE LR.  THIS IS WHAT YOU AIM FOR, EITHER NO SPIKE OR SMOOTH AND EVEN SPIKES IN WHICH LOSS FOLLOWS.
 
-##EXAMPLE OF RESULTS? 
-
-##WARNING: NSFW
-
-![](https://imagizer.imageshack.com/img923/7739/b4v5QY.png)
-##UNCAPTIONED 10 IMAGE DATASET. DONE IN 1000 STEPS. 200KB SIZE IA3.
+# -> [PREVIEWS WITH THE RESULTS HERE](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
 Prodigy is DAdaptation on steroids, lighter, faster, more controllable.
 iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. ```I only use iA3 now.```
-LoKr is about 1-3mb and is basically a LoHa, possibly the new best thing for characters and style.
+LoKr is about 1-3mb and is basically a LoHa, possibly the best thing for characters and style for a newbie like (You).
 Both function well for characters and styles given their size.
 
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
 !!! info iA3 doesn't need captions if you don't want them.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
-LoCon and LoRa if you're simple and want to waste space, at that point just try out DyLora.
+DyLora as a last resort if you are somehow brain damaged.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
 ##Base iA3 Prodigy .json:

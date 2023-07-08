@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 22/6/2023== <-
--> *Added 2 bots/cards to the list : Naomi Evans and Rieri Bishop* <-
+-> ==Updated 8/7/2023== <-
+-> *Added 3 bots/cards to the list : Riska Cahyawati (OC), Yonda Anggraini (OC), and Kyrie Ushiromiya* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -33,6 +33,7 @@ Korwa | ![Korwa](https://i.postimg.cc/ZnhML6K9/Korwa.png) | Korwa is a young and
 Koukawa Asuka | ![Koukawa Asuka](https://i.postimg.cc/Z5C891Yn/tavern-raw.png) | A prodigy and rogue Taimanin that joined U.F.S and DSO. | [Download](https://www.chub.ai/characters/maliksusanto/koukawa-asuka)
 Kuroi Ryuuji | ![Kuroi Ryuuji](https://i.postimg.cc/qvzcqrpC/Kuroi-Ryuuji.png) | King of Incubus and Succubus that is searching for a bride in the mortal realm of Earth. | [Download](https://www.chub.ai/characters/maliksusanto/kuroi-ryuuji)
 Kusakabe Tsugumi | ![Kusakabe Tsugumi](https://i.postimg.cc/prxPnbDF/tavern-raw.png) | Saint Orkis Academy's Student Council Vice President with serious and proactive aura. | [Download](https://www.chub.ai/characters/maliksusanto/kusakabe-tsugumi)
+Kyrie Ushiromiya | ![Kyrie Ushiromiya](https://i.postimg.cc/cHB6NGtn/Kyrie-Ushiromiya.png) | Rudolf Ushiromiya's cool, calm, and collected who is also quick-thinking, logical, and very analytical wife. | [Download](https://www.chub.ai/characters/maliksusanto/kyrie-ushiromiya)
 Makoto Oono | ![Makoto Oono](https://i.postimg.cc/CxjjHFgP/tavern-raw.png) | Your reliable and traditional fishing enthusiast classmate that want to recruit you to her club. | [Download](https://www.chub.ai/characters/maliksusanto/makoto-oono)
 March 7th | ![March 7th](https://i.postimg.cc/FzFHfyxn/March-7th.png) | March 7th is a girl who once slumbered in eternal ice and now travels with Astral Express to search her memory. | [Download](https://www.chub.ai/characters/maliksusanto/march-7th)
 Marie Antoinette | ![Marie Antoinette](https://i.postimg.cc/wTXtn1sz/tavern-raw.png) | Banner of the Maid's version of the Queen of France. Dominating, assertive, arrogant, clever, and self-restrained. | [Download](https://www.chub.ai/characters/maliksusanto/queen-marie-antoinette)
@@ -47,12 +48,14 @@ Reika Shiki | ![Reika Shiki](https://i.postimg.cc/s2YJH4N1/Reika-Shiki.png) | A 
 Rieri Bishop | ![Rieri Bishop](https://i.postimg.cc/L6fmPhXJ/Rieri-Bishop.png) | Beautiful and highly respected Space Federation Army Commander and senior investigator of the military police. | [Download](https://www.chub.ai/characters/maliksusanto/rieri-bishop)
 Ripper | ![Ripper](https://i.postimg.cc/brXxH449/tavern-raw.png) | Ripper from Girl's Frontline. A combat android that will follow your order without question. | [Download](https://www.chub.ai/characters/maliksusanto/Ripper)
 Rishu | ![Rishu](https://i.postimg.cc/QtdnXrwq/Rishu.png) | Rishu is a cult leader that devote herself to the teaching of Dakini, the Goddess of love and all aspects of sexual pleasure. | [Download](https://www.chub.ai/characters/maliksusanto/Rishu)
+Riska Cahyawati | ![Riska Cahyawati](https://i.postimg.cc/bw4RzCF1/Riska-Cahyawati.png) | Indonesian high school bully that loves bullying someone weaker but also submitting herself to someone more manly or stronger than her. | [Download](https://www.chub.ai/characters/maliksusanto/riska-cahyawati)
 Rosa Ushiromiya | ![Rosa Ushiromiya](https://i.postimg.cc/GhGTZQ5v/Rosa-Ushiromiya.png) | Abusive mother with constant mood swing but genuinely want to make everything right with her daughter. | [Download](https://www.chub.ai/characters/maliksusanto/rosa-ushiromiya)
 Sajuna Inui | ![Sajuna Inui](https://i.postimg.cc/ZY3nrYVc/tavern-raw.png) | A young cosplayer that loves magical girls. | [Download](https://www.chub.ai/characters/maliksusanto/sajuna-inui)
 Shirayuki Tomoe | ![Shirayuki Tomoe](https://i.postimg.cc/nchyr1JT/Shirayuki-Tomoe.png) | NIJISANJI's horror-genre lover livestreamer. | [Download](https://www.chub.ai/characters/maliksusanto/shirayuki-tomoe)
 Sugita Karin | ![Sugita Karin](https://i.postimg.cc/mgcD3VWm/tavern-raw.png) | Calm yet cold elite Taimanin that are known as Detective Taimanin. | [Download](https://www.chub.ai/characters/maliksusanto/sugita-karin)
 Sumeragi Lee Noriega | ![Sumeragi Lee Noriega](https://i.postimg.cc/FsLYSN5Y/tavern-raw.png) | Captain of Ptolemaios and Celestial Being member. | [Download](https://www.chub.ai/characters/maliksusanto/sumeragi-lee-noriega)
 Tsukatsuki Rio | ![Tsukatsuki Rio](https://i.postimg.cc/XNxrcpmD/tavern-raw.png) | Millennium Science High School's student council president, brutal yet brilliant, who enforces order through fact and logic. | [Download](https://www.chub.ai/characters/maliksusanto/tsukatsuki-rio)
+Yonda Anggraini | ![Yonda Anggraini](https://i.postimg.cc/1t6QXjH6/Yonda-Anggraini.png) | Your always angry boss at office that secretly has feeling for you. | [Download](https://www.chub.ai/characters/maliksusanto/yonda-anggraini)
 Yukikaze Mizuki | ![Yukikaze Mizuki](https://i.postimg.cc/s2PYTFPQ/Yukikaze-Mizuki.png) | Tanned and petite tsundere Taimanin. This is a direct fork of this because the card were broken. I didn't add any twist or anything on my own : https://booru.plus/+pygmalion1071 | [Download](https://www.chub.ai/characters/maliksusanto/yukikaze-mizuki)
 
 ## -> All Lorebooks <-
@@ -74,6 +77,5 @@ Name  |  Preview  |  Description  |  Links
 Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | TBA™
 Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
 Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student. | TBA™
-Kyrie Ushiromiya | ![Kyrie Ushiromiya](https://i.postimg.cc/cHB6NGtn/Kyrie-Ushiromiya.png) | Rudolf Ushiromiya's cool, calm, and collected who is also quick-thinking, logical, and very analytical wife. | TBA™
 Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | TBA™
 Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™
