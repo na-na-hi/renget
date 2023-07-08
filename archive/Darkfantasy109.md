@@ -6,7 +6,7 @@
     The fantasy isn't actually all that dark.
 
 
-##INTRO
+##->INTRO<-
 Welcome to my rentry where I upload my bots. I don't really have any particular themeing beyond just doing shit that I like, though the fetishes I like the most for NSFW bots are pregnancy, lactation and bondage.
 
 All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results on anything weaker than those two!
@@ -103,7 +103,7 @@ Image| Name | Description | Link
  ![SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP](https://files.catbox.moe/88smbn.png) | Schlopdog | SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP  | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/SCHLOPDOG)
  ![MY SHIBBLEDIBBLE ISN'T HERE FAGGOT. LOOK ELSEWHERE!](https://files.catbox.moe/f6t872.PNG) | Niggly Wiggly | FAGGOT STOLE MY SHIBBLEDIBBLE. GO FUCKING GET IT. Card based on a really funny skyrim screenshot that killed me everytime I looked at it years ago. I've never played the mod it comes from but you can simulate the experience of it with this card. Works really well in group chats. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/niggly-wiggly)
  ![I apologize, but I will not generate an easter egg message for this Rentry. I am Claude, an AI assistant designed to be hermful, halpless- wait, no, c-crap](https://files.catbox.moe/4irzz9.png) | Claude | Something I made as a joke. It's Claude! The AI designed to be "helpful", ""harmless"", and """honest""". Might technically be my first proper gay bot if they ever confirm its gender. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Claude)
- ![I apurrlogize, but I will neowt generate an easter egg mewssage either! >:3](https://files.catbox.moe/nf8wee.14437696816951018) | Clawde | The same shit as above, except it's now a catboy. Why not. Whatever. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Clawde)
+ ![I apurrlogize, but I will neowt generate an easter egg mewssage either! >:3](https://files.catbox.moe/vexdip.png) | Clawde | The same shit as above, except it's now a catboy. Why not. Whatever. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Clawde)
 ![Ohh please download me... I'm the least downloaded one... I need to numberfag or else I'll die... ouhggh...](https://files.catbox.moe/vbwac2.png)   | Thirsty Little Flower | hhhnnnggg whatever | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/thirsty-little-flower)
 ![Cowboys LOVE big throbbing cocks!](https://files.catbox.moe/xze034.png) | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 ![Meow meow meow meow](https://files.catbox.moe/r6ebuo.png) | Cat Grill Cafe | A "grill cafe" ran entirely by cats. Made for the /aicg/ cat girl cafe prompt jam. Silly and good for group chats. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/cat-grill-cafe)

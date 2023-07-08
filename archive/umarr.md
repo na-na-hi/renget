@@ -32,7 +32,11 @@ Image| Name | Description | Link
  ![T](https://files.catbox.moe/yiezln.png) | Commentator | A professional commentator for your group chat. | [Catbox](https://files.catbox.moe/yiezln.png)
  ![T](https://files.catbox.moe/ojolj2.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/ojolj2.png)
 ![T](https://files.catbox.moe/65wchr.png) | CYOA Choices | Add this to your chat for suggestions on what to do next. Your frontend must support v2 cards. Works best on Agnai where you can summon it whenever. | [Catbox](https://files.catbox.moe/65wchr.png)
- ![T](https://files.catbox.moe/htmk7e.png) | Rap God | Italian-Ebonics rapper to narrate your group chat, unbound by ethics and morals. Only works on GPT4 as other models cannot handle foreign languages well. | [Catbox](https://files.catbox.moe/htmk7e.png)
+ ![T](https://files.catbox.moe/646e1z.png) | RAP GOD | Polyglot rapper to narrate your group chat, unbound by ethics and morals. Only works on GPT4 as other models cannot handle foreign languages well. | [Catbox](https://files.catbox.moe/646e1z.png)
+
+***
+Old bots
+***
 
 ###DDLC bots
 Monika - https://files.catbox.moe/j0z855.png

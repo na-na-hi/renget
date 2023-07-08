@@ -75,25 +75,7 @@ https://greasyfork.org/en/scripts/423001-twitter-media-downloader
 Change the default filename to: `@{user-id}-{status-id}`
 ![](https://files.catbox.moe/vx4k7l.png)
 
-!!!warning `Always show sensitive content` is bugged if you turn it on, make the below changes to the code to fix (partially)
-	Suggest just not checking that box, it breaks a lot of things.
-	For non-English language, replace `Show` with whatever it says for your language.
-```diff
-@@ -71,7 +71,7 @@
-         article.dataset.injected = 'true';
-         if (show_sensitive) {
-           let btn_show = article.querySelector('div[aria-labelledby] div[role="button"][tabindex="0"]:not([data-testid]) > div[dir]');
--          if (btn_show) btn_show.click();
-+          if (btn_show.textContent == "Show") btn_show.click();
-         }
-       }
-       let imgs = article.querySelectorAll('a[href*="/photo/"]');
-```
-In non-coder terms:
-Edit Line 74 to be:
-```javascript
-if (btn_show.textContent == "Show") btn_show.click()
-```
+!!!warning It doesn't update on its own, so check it from time to time.
 
 ###Nitter Variant (Courtesy of Anon)
 !!!note For those who like using nitter instances for art, here's a tampermonkey script to save image with @username_statusnumber.Jpg format

@@ -43,7 +43,8 @@ Alexander S. Luthor (Bunker-Baby): https://archive.4plebs.org/tg/post/89406647
 Nikto (Settlement Survivor): https://archive.4plebs.org/tg/post/89384124
 H0P3 (Robot): https://archive.4plebs.org/tg/post/89379967
 Sage (Settlement Survivor): https://archive.4plebs.org/tg/post/89385470
-Yuki Kikuchi (Bunker-Baby): https://archive.4plebs.org/tg/post/89381880
+Yuki Kikuchi (Bunker-Baby): https://archive.4plebs.org/tg/post/89398000 (more information at https://rentry.org/kikuchiyuki)
+(Old build at: https://archive.4plebs.org/tg/post/89381880)
 Dr. Remilia Rochefort (Bunker-Baby): https://archive.4plebs.org/tg/post/89385830
 Quinn Chase (Bunker-Baby): https://archive.4plebs.org/tg/post/89386021
 Chloe (Settlement Survivor): https://archive.4plebs.org/tg/post/89414221
