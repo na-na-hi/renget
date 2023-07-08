@@ -46,3 +46,5 @@ Frayed Ends [WIP]
 https://archiveofourown.org/works/47005849/chapters/118417234
 Shroomers
 https://archiveofourown.org/works/47292694
+Even More Unprofessional Conduct with an Insectile Coworker
+https://archiveofourown.org/works/48184114

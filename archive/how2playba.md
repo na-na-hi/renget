@@ -448,8 +448,8 @@ This is assuming the event starts after the Monday reset. Add 14 hours for story
 Bounties: **if and only if (I.F.F) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 2 tickets you lose out on. 
 
 ## Whaling for dummies
-New player package (3 per account) > monthlies (the ones that give bounty tickets) > anniversary exclusive packages > biggest package with bonus 
-
+![pakeji value](https://i.imgur.com/pkCLK6g.png)
+Buy out the new player gems first, those are the best value.
 The 1 dollar Serika is nice, but pretty unneeded. It's incredibly worth if you're planning on maxing her out and spending big, as it saves a lot of AP farming the nodes. 
 
 I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two. 

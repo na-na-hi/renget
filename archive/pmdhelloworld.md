@@ -29,6 +29,7 @@ My eyes flew open, and I beheld the scene that met me. Sunlight broke through th
 It looked very much like I was in the body of a Porygon. It seemed that despite our long relationship, reality had given up and left - leaving me in a forest as a Pokémon.
 
 `THIS MUST BE A DREAM.`
+
 The sound of my voice shocked me. Staccato, scratchy and monotone, as if a bad recording was being played through 30 year old speakers, barely recognizable as my own. Still, my voice sounding strange was the least of my worries. If this *wasn't* a dream, I could think of a few options for things that could have happened.
 1. I'm still in the real world, but a Pokémon.
 2. I'm in the world of the main Pokémon games, as a Pokémon.
@@ -132,3 +133,19 @@ By the time I had left the dungeon, light had just begun to outline the mountain
 Idle sarcastic comments to the air aside, I was incredibly relieved to find a sign of civilisation. Paths don't just spring out of thin air - roads had to go somewhere, or come from someplace. Sure, this one might look barely travelled, but at this point any trail would be better than blindly stumbling through a forest. Adding to that fact, it would - hopefully - be unlikely that I would stumble into another Mystery Dungeon while on a footpath. All in all, it was a simple decision to attempt to follow the track to its terminus.
 
 ***
+
+Travelling along the road was safe and quiet, if a little tedious. It had wound its way out of the forest a while ago, and I was now hovering through scenic countryside. Grassy rolling hills to my left and right soaked up the midday sun as I silently bobbed my way onwards - I was rather glad that my method of movement was... unconventional. I was never the most athletic person before, and the prospect of hiking across the countryside would have been met with much contention. Now, with only the worry of making sure I had set the destination to the end of the visible path, travelling was a breeze, allowing my focus to drift and my thoughts to wander.
+
+In this case, my thoughts centred on my biology. Or, rather, my lack of it. By my best guess, it had been near enough two days now since I awoke in the forest. I'd been on the go since then, and not felt the slightest pang of hunger nor the call of sleep. It was concerning realisation - while it made my travelling much easier (and would no doubt save a bundle on provisions in the future), it hammered home just how much I had changed. I'd unwillingly made the leap from a biological body to a digital one, with all the philosophical quandaries that came with it.
+
+Was I alive?
+
+Or was my mind just a collection of wires and code that had been deluded into thinking? Was that any different than being a flesh-and-blood being, driven by electrical pulses through a brain? What did it mean to be *alive*?
+
+In the back of my mind, some words sparked into existence.
+
+*Cogito, ergo sum*. 
+
+I think, therefore I am. The fact I was able to question if I was alive proved that I was. This was fairly basic philosophy, but even the fact that I had remembered it helped quell a little of my existential fears nonetheless. At least, it was enough for me to put a pin my ennui for the time being, and shift my focus back to the road.
+
+I wasn't sure just how long I had been stuck in a funk, but it seemed that it had been long enough that I was approaching civilisation. A town seemed to rise out of the ground, buildings carved out of the trunks of massive trees, rope bridges crossing the gaps between them on the upper levels. Honestly, the place seemed a nightmare to navigate.

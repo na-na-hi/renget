@@ -1,4 +1,14 @@
 ▶NEW CLIPS
+>Trophy GoPro footage (with cameraman dying)
+https://files.catbox.moe/7u6q8s.mp4
+>"Mosquito" charge of AFU unit into a Russian explosive trench trap
+https://files.catbox.moe/i55gf0.webm
+>POV: kicking ass and taking trophies
+https://files.catbox.moe/o1020j.mp4
+>VDV cleaning mykola trench in Kremennaya
+https://files.catbox.moe/x5pcte.mp4
+https://files.catbox.moe/hesb8t.mp4
+https://files.catbox.moe/focy7s.mp4
 >Russian SU-35 UNPROFESSIONALLY harassing an American drone over Syria
 https://files.catbox.moe/2ljcxq.webm
 >Little Dark Age

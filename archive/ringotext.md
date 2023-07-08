@@ -8,6 +8,8 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Shiina's Fetish](https://docs.google.com/document/d/e/2PACX-1vQzk177QcpJZmBScuIFQYCqYhezFu8nsUeRmvN9IKdO-ojrhkexOET9Hy4QE8LWQ1kPHcvGVH7YR0S6/pub)* | Shiina, Airi | sweat, smell |
+| *[Picking Up KFP's Graveyard Shi(f)t](https://archiveofourown.org/works/48267115)* | Calli, Kiara | ringo, brap, choco, milk |
 | *[Assurance Correction](https://rentry.org/a5mi2)* | Shion, Ayame, Aqua | sweat |
 | *[The Clubroom](https://rentry.org/aou7kp)* | IRyS, Calli, Bae | sweat, smell, ringo |
 | *[The Wettest Ink](https://docs.google.com/document/d/e/2PACX-1vQDHfs0GhmvlJvfTkmZXbGdDROs6qC4AcjiKw4IuaLyw_UbbpxPQVWoYn8LFJrAosMcs2wPUEUhgPv9/pub)* | Ina | sweat, smell |

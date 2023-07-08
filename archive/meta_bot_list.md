@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-06-24)==<-
+->==(Updated 2023-07-08)==<-
 ***
 [TOC2]
 ***
@@ -10,7 +10,7 @@
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
 - https://rentry.org/bots_with_expressions - small list of bots; cards with expressions only; *deprecated*
-- https://rentry.org/aicgthemedweek1 - small list of bots; cards only; themed bots from the botmaking event;  *static*
+- https://rentry.org/aicgthemedweek - small list of bots; cards only; themed bots from the botmaking events;  *static*
 
 ## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)
 - https://derpy.me/ccQBQ - large list of bots; cai and cards; `current`

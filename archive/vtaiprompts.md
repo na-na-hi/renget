@@ -742,8 +742,8 @@ Negatives: purple hair, pointy ears, pink hair,
 	I know "pink hair," in negatives seems counter productive but it is necessary, her hair still shows up correctly this way.
 
 #####Moruru
-	yamiyono moruru, nijisanji, black hair, (pink colored inner hair:1.1), horns, ahoge, purple eyes, gradient eyes, long hair, messy hair, pointy ears, 
-Negatives: purple hair, pointy ears, pink hair, 
+	yamiyono moruru, nijisanji, black hair, (pink colored inner hair:1.3), horns, ahoge, purple eyes, gradient eyes, long hair, messy hair, pointy ears, 
+Negatives: purple hair, 
 !!! note Note:
 	We have Moruru at home.
 
