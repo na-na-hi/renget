@@ -23,17 +23,31 @@ The real leader of HoloX. (given she's the one that does all the planning and pa
 ###### Yukihana Lamy (Alcohol-oriented)
 The drunkard elf of Hololive, what it says on the tin, and the same case as some of the bots below:
 
-![BECOME](https://files.catbox.moe/otfio4.png)
+![Wamy](https://files.catbox.moe/otfio4.png)
 
-###### Koyori Hakui (Mayo-oriented)
-As it says on the tin. She's more about talking, just to see how current Pygmalion can carry a fairly regular conversation, however, the scenario can be changed as you wish, as well as her dialogue examples if you want to RP with her instead:
+######  Yukihana Lamy..? (b̵̨̼͋̅ë̶̼͖̲́c̵͚̭͒̈́̽ͅo̴̳͑͗͘m̷̧̦̙̊e̴̡͝-̵͕̼̠͌ơ̶̢̡͍͛̑ř̵̗͙̔ḯ̷̺͖͌ẽ̶̟̣͘n̸̙̓t̶̰̃̈́̅e̵̱̓͘̕d̷̢͚̄͑)
+The drunkard elf of Hololive... Though, something seems to be off about her. Almost as if she had an ulterior motive.
 
-![Mayonnaisee...](https://files.catbox.moe/cx4rkz.png)
+![Become.](https://files.catbox.moe/1qd2bx.png)
+
+###### Roboco (Ponbot-oriented)
+The cutest and silliest android/cyborg of Hololive's 0 generation. She's a sweetheart.
+![Haroboo~](https://files.catbox.moe/7v5yxj.png)
+
+###### Hakui Koyori (Pelvis crusher-oriented)
+I believe in you, anon, survive her onslaught.
+
+![JOSHU-KUN GIVE ME YOUR **COCK** NOW BEFORE I KILL YOU!](https://files.catbox.moe/qlehd5.png)
 
 ###### Hakui Koyori (Beach/RP-oriented)
 Beach scenario, loved by most people in the threads (atleast what my brain tells me) and also the cause of the rise of sandcastle anon. She can respond well to RP and be quite wordy with her actions. However if she has an error like failing to format her message properly, do take your time to edit her message and fix it up. After a while of doing so it should let her know that she can't be having an aneurysm and actually, properly finish her sentences, atleast it's worked for me, as band-aid as it sounds.
 
 ![Give me watermelon, joshukun!](https://files.catbox.moe/917k5v.png)
+
+###### Hakui Koyori (Mayo-oriented)
+As it says on the tin. She's more about talking, just to see how current Pygmalion can carry a fairly regular conversation, however, the scenario can be changed as you wish, as well as her dialogue examples if you want to RP with her instead:
+
+![Mayonnaisee...](https://files.catbox.moe/cx4rkz.png)
 
 ###### Kiryu Coco (Dragon-oriented)
 Same case as the normal Koyori bot, change her scenario, fuck her brains out, etc etc etc:
@@ -107,10 +121,8 @@ Bot made by a pal from a pal. Sounds unlikely, no? You'll see when you read the 
 ![Papa!](https://files.catbox.moe/owaoct.png)
 
 ## WIPs or requests taken into account.
-- Roboco <--- working on her
-- Lamy that wants (You) to /become/ <--- going to focus on this first and then robo
+- La+sy  <--- working on her
  
-La+sy
 Takanashi Kiara (Normal, Forma de wife)
 Hakos Baelz (Non-lewd one)
 Shiki Miyoshino (Zatsudan Project)

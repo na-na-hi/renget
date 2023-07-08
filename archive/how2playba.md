@@ -381,7 +381,7 @@ The secret tech note. I personally think its kind of whatever, but that's my opi
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
 Credits > Limited Elephs (that you need) > Pins > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.
-You can't unlock/redeem limited students through this shop, so don't buy them if you don't have them (or plan to). I personally (opinion) would say that they're the worst item in the shop too, so I only get the ones of girls that I like. 
+You can't unlock/redeem limited students through this shop, so don't buy them if you don't have them (or plan to).
 The gear blueprints are a godsend though. Everything about this shop is honestly. Thank you, John Nexon. 
 
 >Bounty shop
@@ -553,6 +553,9 @@ I wish they did too.
 
 >I can't beat X what do I do? 
 Go on youtube and look at a video. You'll find that is the answer to a lot of problems in life. 
+
+>WTF I'm stuck in the story help! 
+[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. 
 
 >What is UE / EW? 
 Unique Equipment, or Exclusive Weapon in Global. 

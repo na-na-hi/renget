@@ -3,8 +3,8 @@
 !!! info
 	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [POLL](https://strawpoll.com/polls/eJnvvop39nv/results), the winner of which became the prompt for botmakers to test their skills at <-
 !!! warning
-	-> Due to voting complications, the initially chosen theme has been switched. However, some managed to finish their bots before the change <-
-#### -> Here is the collection of cards submitted for the (discarded) second bot challenge, listed in no particular order <-
+	-> Due to voting complications, the initially chosen theme has been switched to the one that took second place. However, some managed to finish their bots before the change, which need to be highlighted as well <-
+#### -> Here is the collection of cards submitted for the (discarded) second themed bot challenge, listed in no particular order <-
 ***
 -> ![](https://files.catbox.moe/usga0l.jpg) <-
 ### -> Jealous robogirl attempts to imitate humans <-
@@ -23,3 +23,4 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/y6epue.png) | [Breakfast with Alexa](https://www.chub.ai/characters/horcocks/breakfast-with-alexa) | **horcocks** | Your home automation system just asked you out. This is new. |
 
 ***
+#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-

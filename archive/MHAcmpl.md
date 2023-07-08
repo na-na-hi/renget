@@ -198,6 +198,7 @@ Aspara: https://controlc.com/905a656c
 Mirror Devil: https://rentry.org/ivm3c
 Drekus: https://rentry.org/7sx5c
 Last Rite: https://archive.4plebs.org/tg/post/88818615
+Challenger: https://rentry.org/HifumiRC
 
 ***
 
