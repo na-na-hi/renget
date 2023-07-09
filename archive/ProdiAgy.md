@@ -43,7 +43,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
 !!! danger Everything has been set conservatively out of consideration for you. The max you can go is d_coef 2.0 with eta_min 0.5 which I've tested and it works great. I personally use that.
-!!! note t_max is your cosine steps, set it to your total steps.
+!!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note train_on_input means training inwards (good for characters), disabling it means training outwards (good for style).
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
@@ -87,7 +87,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 
 ##Base LoKr Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! note t_max is your cosine steps, set it to your total steps.
+!!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want.
 !!! note Set train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```

@@ -10,7 +10,7 @@ Scroll to the bottom for my last edit date.
 - Rush through normal missions to unlock cafe upgrades and game modes 
 - Splurge ur AP. 1 AP = 1 account XP, so get rid of it as fast as you can. 
 - Take advantage of the school bonuses and use CC in Bounty 
-- Join a club. There's no clan tryharding or an obligation to talk.
+- [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk.
 
 
 ## Downloading/Setting up the game

@@ -109,6 +109,7 @@ https://civitai.com/models/85186/jessica-jaclyn-or-rise-of-the-teenage-mutant-ni
 - Masters of the Universe
 	+ She-Ra
 https://civitai.com/models/44792/she-ra-1985
+https://civitai.com/models/104170/she-ra-lora
 https://civitai.com/models/82029/she-ra-lycoris
 	- Teela
 https://civitai.com/models/84478/teela-lycoris
@@ -264,8 +265,11 @@ https://civitai.com/models/46198/aphrodite
 https://civitai.com/models/48946/tinkerbell
 	- Peter Pan
 https://civitai.com/models/63903/peter-pan-character-lora
-- Evangelyne (Wakfu: The Animated Series)
+Wakfu: The Animated Series
+	+ Evangelyne 
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
+	- Amalia Sheran
+https://civitai.com/models/104052/amalia-sheran-sharm-wakfu-s1
 - Bakara Jurgen (Dofus Book I: Julith)
 https://civitai.com/models/26980?modelVersionId=32294
 - Anissa (Invincible)
@@ -275,6 +279,8 @@ https://civitai.com/models/74988/anissa-invincible-character-lora
 https://civitai.com/models/77425/harley-quinn-2019-serie
 		- (Batman: TAS)
 https://civitai.com/models/60891/harley-quinn-batman-the-animated-series-character-lora
+		- (Rebirth)
+https://civitai.com/models/102504/harley-quinn-rebirth-character-lora
 	+ Poison Ivy
 https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
 - Catwoman (Batman: TAS)
@@ -315,7 +321,7 @@ https://civitai.com/models/83626/mystique-x-men-lora
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
-	- TSSM
+	- (TSSM)
 https://civitai.com/models/93223/gwen-stacy-the-spectacular-spider-man
 - Mary Jane (The Spectacular Spider-Man)
 https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
@@ -332,6 +338,10 @@ https://civitai.com/models/36123/lana-kane-archer
 https://civitai.com/models/48381/katya-kazanova-archer
 - Dr. Girlfriend (The Venture Bros.)
 https://civitai.com/models/93597/dr-girlfriend-the-venture-bros
+- Daria 
+https://civitai.com/models/92089/daria-morgendorffer
+- Dallas Grimes (Beavis and Butt-Head Do America)
+https://civitai.com/models/105744/dallas-grimes
 - Honey Bee (Black Dynamite)
 https://civitai.com/models/67075/honey-bee-black-dynamite-character-lora
 - Entrapta (She-Ra)
@@ -424,12 +434,12 @@ https://civitai.com/models/18498/dexters-mom-from-dexters-laboratory-character-l
 https://civitai.com/models/96824/oceanbird-astronomonov-dexters-
 - Sedusa (Powerpuff Girls)
 https://civitai.com/models/21148/sedusa
+- Deb Turnbull (Robotboy)
+https://civitai.com/models/104156/deb-turnbull-character-lora
 - Ashi (Samurai Jack)
 https://civitai.com/models/91239/ashi-samurai-jack
 - Olga Pataki (Hey Arnold!)
 https://civitai.com/models/101240/olga-pataki
-- Daria 
-https://civitai.com/models/92089/daria-morgendorffer
 - The Fairly OddParents
 	- Trixie Tang
 https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
@@ -551,6 +561,8 @@ https://civitai.com/models/19125/lola-bunny
 https://civitai.com/models/67312/fawn-deer-bonkers
 - Nala (The Lion King 1994)
 https://civitai.com/models/83150/female-cartoon-lioness
+- Kiara & Kovu (The Lion King 2)
+https://civitai.com/models/104770/kiara-and-kovu-from-disney-the-lion-king-2
 - Felina Feral (SWAT Kats: The Radical Squadron)
 https://civitai.com/models/87648/felina-feral
 - Rebecca Cunningham (TaleSpin)
@@ -653,6 +665,8 @@ https://civitai.com/models/22997?modelVersionId=27465
 https://civitai.com/models/90582/lucy-wilde-despicable-me
 - Sally (Nightmare Before Christmas)
 https://civitai.com/models/89291/sally-nbc
+- Emily (Corpse Bride)
+https://civitai.com/models/104602/emily-the-corpse-bride
 - Smurfette (The Smurfs 3D)
 https://civitai.com/models/81353/smurfette-the-smurfs
 - Katie Michelle (The Michells vs. the Machines)
@@ -685,6 +699,8 @@ https://civitai.com/models/6232/chloe-price-or-life-is-strange-lora
 	- Rachel Amber 
 https://civitai.com/models/6315/rachel-amber-or-life-is-strange-lora
 https://civitai.com/models/72628/rachel-amber-or-life-is-strange
+	- Stephanie Gingrich
+https://civitai.com/models/105782/steph-gingrich-or-life-is-strange
 	- Alex Chen 
 https://civitai.com/models/6482/alex-chen-or-life-is-strange-lora
 - Borderlands
@@ -721,7 +737,7 @@ https://civitai.com/models/85639/cassandra-dai
 https://civitai.com/models/92471/sera-dai
 	- Desire Demon
 https://civitai.com/models/90217?modelVersionId=96075
-- The Witcher
+- The Witcher 3
 https://rentry.org/acorepo2#the-witcher
 - Rayne (BloodRayne)
 https://civitai.com/models/94577/bloodrayne
@@ -848,10 +864,14 @@ https://civitai.com/models/78038/clay-mann-artstyle-loha
 https://civitai.com/models/91742/kilian-eng-lora-style
 - Eva Widermann (Warcraft)
 https://civitai.com/models/4996/warcraft-the-lora
-- SleepyGimp
-https://civitai.com/models/70420/sleepygimp-style-lora
 - Dave Cheung
 https://civitai.com/models/47276/style-tehdave
+- Alessandro Barbucci (TI)
+https://civitai.com/models/85716/denbarbucciartstyle
+- SleepyGimp
+https://civitai.com/models/70420/sleepygimp-style-lora
+- The Pit
+https://civitai.com/models/105350/thepit-locon
 ***
 - Masters of the Universe
 https://civitai.com/models/37797/filmation-motu-lora
@@ -876,7 +896,7 @@ https://civitai.com/models/85165/kim-possible-style-lora
 https://civitai.com/models/49968/invincible-style-lora
 - South Park
 https://civitai.com/models/86453/south-park-style-lora
-- Beavis and Butthead
+- Beavis and Butt-Head
 https://civitai.com/models/103326/beavis-and-butthead
 ***
 - JabComix
@@ -910,6 +930,8 @@ https://civitai.com/models/66719/gta-style-or-lora
 https://civitai.com/models/84686/signalis-style-lora
 	+ Zelda CD-i
 https://civitai.com/models/6020/zelda-cdi-style-lora
+- Stipple Weave/Pixel Art
+https://civitai.com/models/103747/stipple-weave (*hypernetwork*)
 - N64 style
 https://civitai.com/models/81132/n64-styl
 https://civitai.com/models/85322/icbin64-i-cant-believe-its-not-64
@@ -965,6 +987,8 @@ https://civitai.com/models/54833?modelVersionId=59209
 https://civitai.com/models/82582/thick-impasto-painting
 - Tamara de Lempicka
 https://civitai.com/models/17411?modelVersionId=20582
+- Gustav Klimt
+https://civitai.com/models/104314/gustav-klimt-painting-style
 - Van Gogh
 https://civitai.com/models/100873/van-gogh-style
 - Rembrandt
@@ -988,13 +1012,14 @@ https://files.catbox.moe/bmipuq.safetensors
 + Eclipsa Butterfly 
 https://files.catbox.moe/6eo75y.safetensors
 ~~https://civitai.com/models/32864/eclipsa-butterfly~~
+- Hekapoo
+https://mega.nz/folder/l3dD3QbT#dVbYSpGNUn61QTdI0gt-dw
+~~https://civitai.com/models/32849/hekapoo~~
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~
 
 ---
-- Hekapoo
-~~https://civitai.com/models/32849/hekapoo~~
 - Psylocke (X-Men)
 ~~https://civitai.com/models/77450/psylocke-x-men-lora~~
 - Kitty Pryde (X-Men)

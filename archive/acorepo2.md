@@ -165,6 +165,8 @@ https://civitai.com/models/29513/helsie-video-game-fortnite
 https://civitai.com/models/50843/fortnite-highwire
 - Jules
 https://civitai.com/models/30560/jules-fortnite
+- Kimiko
+https://civitai.com/models/104699/kimiko-five-tails-fortnite
 - Loserfruit
 https://civitai.com/models/86708/loserfruit-fortnite
 - Lynx
@@ -198,15 +200,17 @@ https://civitai.com/models/39447/fortnite-dolph
 - Polar Patroller
 https://civitai.com/models/86250/polar-patroller-fortnite
 
-# The Witcher
+# The Witcher 3
 
 + Yennefer
 https://civitai.com/models/78888/yenneferthewitcher3
 https://civitai.com/models/84281/yennefer-witcher-3
 https://civitai.com/models/23452/yennefer-the-witcher-3-game
+https://civitai.com/models/104709/yennefer-of-vengerberg-witcher-3-lora
 + Triss
 https://civitai.com/models/73231/triss-merigold-witcher-3
 https://civitai.com/models/100099/triss-merigold-or-the-witcher-3-wild-hunt
+https://civitai.com/models/104899/triss-merigold-witcher-3-lora
 - Ciri
 https://civitai.com/models/18615/wither3-ciri
 https://civitai.com/models/80712/ciri-witcher-3
@@ -228,6 +232,8 @@ https://civitai.com/models/88932/priscilla-or-the-witcher-3-wild-hunt
 https://civitai.com/models/87103/queen-meve-or-thronebreaker-the-witcher-tales-witcher-universe
 - Geralt
 https://civitai.com/models/81880/geralt-of-rivia-or-the-witcher-3-wild-hunt
+- Dandelion
+https://civitai.com/models/105665/dandelion-or-the-witcher-3-wild-hunt
 - Letho
 https://civitai.com/models/91613/letho-or-the-witcher-2-assassins-of-kings
 - Eskel

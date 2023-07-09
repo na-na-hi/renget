@@ -11,6 +11,11 @@ If you send a nice bot idea I will make it for you. (probably)
 ##Cunny
 The cute and funny ones
 ***
+###Chloe
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Chloe](https://avatars.charhub.io/avatars/kirbish34/Chloe/chara_card_v2.png?nocache=0.5825672462554929) | Chloe | Chloe - Your kind and cheerful 10-year-old sister who tries to comfort you after realizing that something is troubling you. | [CHUB link](https://www.chub.ai/characters/kirbish34/Chloe/main) [Catbox link](https://files.catbox.moe/g6c41e.png)
+
 ###Lily
 Image| Name | Description | Link
 ------ | ------ | ------ | -----

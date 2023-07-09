@@ -1,5 +1,5 @@
 Untitled Green That Got Out of Hand | By Anonymer_Beobachter
-version 0.0.3
+version 0.0.4
 (Working Title)
 
 !!! info This is a work in progress. Text in curly braces is placeholder.
@@ -119,4 +119,4 @@ version 0.0.3
 >She lets loose a few tears of joy as she nuzzles into your neck.
 >You can't help but feel fuzzy seeing her like this, and her fur feels rather pleasant against your neck. 
 >You wiggle your arms free to be able to hug back, allowing yourself to show a little bit of affection, but being careful not to swoon.
->After she had calmed down sufficiently, you suggest "Łucja, before you get caught up doing any more research, could we leave the airlock?"
+>After she had calmed down sufficiently, you suggest "Łucja, before you get carried away doing any more research, could we leave the airlock?"

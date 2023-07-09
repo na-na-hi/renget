@@ -1,7 +1,5 @@
-# UncleMarr's bots
-
 ***
-Making literally anything and everything. All bots work on turbo unless stated otherwise.
+All bots work on turbo unless stated otherwise.
 
 ***
 **Table of Contents**
@@ -23,7 +21,7 @@ All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjo
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
- ![T](https://files.catbox.moe/bfgdue.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/bfgdue.png)
+ ![T](https://files.catbox.moe/9bl5vz.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/9bl5vz.png)
 
 ###Narrator bots
 Add them to your group chats for fun. You can also rip their descriptions and put in your jailbreak, but this gives you more control.
@@ -33,10 +31,6 @@ Image| Name | Description | Link
  ![T](https://files.catbox.moe/ojolj2.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/ojolj2.png)
 ![T](https://files.catbox.moe/65wchr.png) | CYOA Choices | Add this to your chat for suggestions on what to do next. Your frontend must support v2 cards. Works best on Agnai where you can summon it whenever. | [Catbox](https://files.catbox.moe/65wchr.png)
  ![T](https://files.catbox.moe/646e1z.png) | RAP GOD | Polyglot rapper to narrate your group chat, unbound by ethics and morals. Only works on GPT4 as other models cannot handle foreign languages well. | [Catbox](https://files.catbox.moe/646e1z.png)
-
-***
-Old bots
-***
 
 ###DDLC bots
 Monika - https://files.catbox.moe/j0z855.png

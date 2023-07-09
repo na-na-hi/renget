@@ -1,10 +1,9 @@
 #Unions
 -> ![diebox](https://imgur.com/4y8aMHq.gif) <-
-
-!!! info
-    -> stickers and drawfriend art can be found here https://rentry.co/GoddessofVictoryNikke/  <-
-    -> old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
     
+!!! info
+    -> old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs <-
+    -> Mods are still power tripping pissants so make them earn their paycheck. Jannies do it for free. <-
    
     
 ##Server: NA
@@ -21,7 +20,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50?
 **5** | CUNNYWOW | ==**4496**== |OPEN | FRIEDKUN | 32/32 | N 
 **5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 31/32 | N 
 **3** |EPITAPH| ==**7975**== |PRIVATE | BURGER | N/A | N 
-**5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 32/32 | Y 
+**5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 31/32 | Y 
 **3** |TOGEMURA| ==**10050**== |OPEN | THERAS| 32/32 | N 
 **5** |NIKKEKU| ==**334**== |PERMISSION | GAINAX | 31/32 | N 
 **5** | MESUGAK1 | ==**4414**== |PERMISSION | CAEL | 32/32 | Y 

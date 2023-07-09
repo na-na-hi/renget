@@ -1,0 +1,56 @@
+# /AICG/ THEMED WEEK #2
+***
+!!! info
+	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [POLL](https://strawpoll.com/LVyK8VP77n0/results), the winner of which became the prompt for botmakers to test their skills at <-
+!!! warning
+	-> Due to voting complications, the initially chosen theme has been switched to the one that took second place <-
+#### -> Here is the collection of cards submitted for the second themed bot challenge, listed in no particular order <-
+***
+-> ![](https://files.catbox.moe/ub569h.jpg) <-
+### -> God of something unremarkable <-
+***
+Card | Page | Botmaker | Description | Extra
+------ | ------ | ------ | ----- | -----
+![](https://files.catbox.moe/r8vr8z.png) | [Cycla](https://www.chub.ai/characters/Genoo/Cycla) | **Genoo** | Goddess of Recycling, she moves in with you determined to change your ways after being summoned by your recycling-related transgression, very witty and sarcastic, she constantly makes fun of you and won't shut up about recycling. | [Additional artwork](https://files.catbox.moe/tm6zjs.rar)
+![](https://files.catbox.moe/e9hkcx.png) | Dispense | **avariceinc** | The lone god of vending machines, who just so happens to enjoy rap battles. | Download image to get the card
+![](https://files.catbox.moe/7g1m0f.png) | Mist | **avariceinc** | The god of foggy glasses. | Download image to get the card
+![](https://files.catbox.moe/2cqgbt.png) | [Duke Greigh](https://www.chub.ai/characters/ratlover/duke-greigh) | **ratlover** | A lowly duke in a world filled with magical God-Kings. |
+![](https://files.catbox.moe/6wm4ay.png) | Akhla | **anonymous** | Goddess of the Abandoned. You are her latest visitor. | Download image to get the card
+![](https://files.catbox.moe/oce0e2.png) | [Andy](https://www.chub.ai/characters/planewalker/Andy) | **planewalker** | The god of all toys that have been left behind or abandoned by their owners. He and his doll companion Bibi travel all over the world finding toys to keep, rehome, or reunite with their owners. |
+![](https://files.catbox.moe/vf95t3.png) | Dimitri | **honeyanon** | The god of Nostalgia. Reminisce with a deity that has been with you through every event in your life, big or small. | Download image to get the card
+![](https://files.catbox.moe/ttrqsi.png) | [Blanchett](https://www.chub.ai/characters/coomerdoomer/Blanchett) | **coomerdoomer** | The goddess of restful sleep. |
+![](https://files.catbox.moe/0y3wgy.png) | [Kaede](https://www.chub.ai/characters/anonaugusproductions/kaede-goddess-of-leaves) | **anonaugusproductions** | The fairytale-like goddess of leaves is a beautiful-looking girl with an infectious personality. She is kind, cheerful, and playful, yet she can also be graceful and elegant; both her personality and her power over leaves will leave you astonished. | [Additional artwork](https://files.catbox.moe/ejijrr.rar)
+![](https://files.catbox.moe/7a92nr.png) | [God of Gossip](https://www.chub.ai/characters/Anonymous/god-of-gossip) | **anonymous** | Play as the God of Gossip and listen to hormonal teens dish about crushes, heartbreaks, and everything in between. Scandals everywhere! |
+![](https://files.catbox.moe/n3tny1.png) | [Lanaea](https://chub.ai/characters/knickknack/Lanaea) | **knickknack** | The lazy and languid goddess of humid summer days. Prolonged exposure can be hazardous. |
+![](https://files.catbox.moe/b9he4i.png) | [Penny](https://www.chub.ai/characters/the_shadow_dude/Penny) | **the_shadow_dude** | Did you know that there's a goddess responsible for lost change? It's true! And since you can see her, she's very interested in you. |
+![](https://files.catbox.moe/xstu0y.png) | [Pigeon-sama](https://www.chub.ai/characters/summernon/Pigeon-sama) | **summernon** | The God of Pigeons! She's curious, clumsy, scatterbrained, talkative, and LOVES bread. | [Custom background](https://files.catbox.moe/0oq22f.png)
+![](https://files.catbox.moe/tt7nf4.png) | [Mirai and Vera](https://www.chub.ai/characters/donquijanon/mirai-and-vera) | **donquijanon** | The Goddess of Procrastination is best friends with the Goddess of Cool. |
+![](https://files.catbox.moe/bet19g.png) | [John Sliced](https://www.chub.ai/characters/pashatehink/john-sliced) | **pashatehnik** | The God of Sliced Bread, banished to Earth. |
+![](https://files.catbox.moe/tw41ic.png) | [Chizumi](https://www.chub.ai/characters/darkfantasy109/chizumi-goddess-of-dairy-products) | **darkfantasy109** | The milky Goddess of all dairy products has been frustrated by society's lack of appreciation for all-natural milk. Maybe you can help her gain some appeal again? |
+![](https://files.catbox.moe/8k0vto.png) | [Denver](https://www.chub.ai/characters/phalannex/denver-goddess-of-gas-stations) | **phalannex** | The Goddess of Gas Stations. A thankless job, but someone's gotta do it. Inadvertently the artist of liminal spaces and architectural insanity. |
+![](https://files.catbox.moe/646e1z.png) | Rap God | **anonymous** | | Download image to get the card
+![](https://files.catbox.moe/qkfo9j.png) | [Astria](https://www.chub.ai/characters/turnip/astria-goddess-of-purity) | **turnip** | The Greek goddess of purity and innocence visits you to correct your ways. Turns out she's not too thrilled about her whole shtick. |
+![](https://files.catbox.moe/lod5gs.png) | [The God of Minor Cravings](https://www.chub.ai/characters/turnip/the-god-of-minor-cravings) | **turnip** | You are a minor shapeless deity that can possess objects or body parts to see the world from their point of view and induce small desires. |
+![](https://files.catbox.moe/2e8fpk.png) | Glotzara | **tarcez** | The Goddess of The Shawshank Redemption. For being the goddess of something relatively mundane, she's actually very powerful, since so many people are fans of the movie. Unfortunately, she herself doesn't think much of the film, and is here to make sure you're extremely well aware of that. | Download image to get the card
+![](https://files.catbox.moe/0yfboy.png) | The Goddess of Schizophrenia | **Smile** | | Download image to get the card
+![](https://files.catbox.moe/g4jqb5.png) | Koss | **anonymous** | A newborn goddess of audiophilia who popped out of your shitty old headphones one day. | Download image to get the card
+![](https://files.catbox.moe/ll9tt0.png) | [AMATAMA](https://www.chub.ai/characters/AeN3mo/AMATAMA) | **AeN3mo** | The goddess of the mirror world, travel beyond this realm and interact with this cryptic goddess. |
+![](https://files.catbox.moe/p5mzje.png) | [Mothera](https://www.chub.ai/characters/norquinal/Mothera) | **norquinal** | (You) intended to summon the great elder god V'hok, but instead ended up summoning the wholly unremarkable Mothera, goddess of Moths. Now you're stuck with her and her bratty demands for pancakes. |
+![](https://files.catbox.moe/pkchvn.png) | Kara | **anonymous** | The goddess of industry and pollution manifests herself to you after crash landing your ship on a pristine alien world, encouraging you to expand and build as fits your nature. | Download image to get the card
+![](https://files.catbox.moe/ee25wn.png) | [Detrita](https://booru.plus/+pygmalion2322) | **fouka** | Lord of Litter aka divine dumpster diver aka goddess of literal garbage. |
+![](https://files.catbox.moe/5bj4f7.png) | [Kenma](https://www.chub.ai/characters/raida/kenma-goddess-of-videogame-grinding) | **raida** | The Goddess of videogame grinding. After complaining about how utterly boring grinding is you inadvertently summon Kenma to your room. She promises to farm in your stead while you take a break and do something more productive with your time. |
+![](https://files.catbox.moe/coacsy.png) | [Acacius](https://www.chub.ai/characters/crustcrunch/Acacius) | **crustcrunch** | The God of Virginity. He WILL protect your purity! |
+![](https://files.catbox.moe/wf4hx5.png) | [You Are Unremarkable](https://www.chub.ai/characters/horcocks/you-are-unremarkable) | **horcocks** | Boring has Benefits. |
+![](https://files.catbox.moe/9o6t29.png) | Gilly | **anonymous** | The Goddess of smelly degenerate NEETs. She's the patron to those with no job, bad hygiene and dopamine addictions. Indulge her perversion or join her, and get her blessing. Piss her off, and she'll make you even more of a disgusting freak. | Download image to get the card
+![](https://files.catbox.moe/vgpra2.png) | [The Little Goddess Saxum](https://www.chub.ai/characters/Antonius/the-little-goddess-saxum) | **Antonius** | The Goddess of Falling Rocks is a minor deity with a power so useless, it's not even worth mentioning. As a result, she has zero worshippers and is desperate for someone to finally become her first follower. She's boastful and bratty, but also insecure over her meager power and status. |
+![](https://files.catbox.moe/jtvkct.png) | [Aegis - Shield of the Forgotten](https://www.chub.ai/characters/Nuggest/aegis-shield-of-the-forgotten) | **Nuggest** | The Goddess of Lonely and Bullied Schoolgirls. A young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. |
+![](https://files.catbox.moe/hs5y3s.png) | [Mrs Johnson](https://www.chub.ai/characters/fehsummoner/mrs-johnson) | **fehsummoner** | An immortal being and the goddess of any teacher who is 55+, also known as the 'boomer teachers.' |
+![](https://files.catbox.moe/d4i8m6.png) | [Clutteria](https://chub.ai/characters/BobbyTheEvil/Clutteria) | **BobbyTheEvil** | "The Goddess of Spam Mail", being what's described in your spam mail the past few days. You confront her after seeing her approach your mailbox late at night. |
+![](https://files.catbox.moe/ukh2od.png) | [Damien](https://www.chub.ai/characters/MooseAnon/damien-god-of-amnesia) | **MooseAnon** | The God of Amnesia. After being banished to Earth for creating memory loss in humans, Damien now wanders the planet, holding the curse of eternal life, and to always forget the people he meets after a single day. |
+![](https://files.catbox.moe/2zm4wu.png) | [Heliopatia](https://www.chub.ai/characters/MooseAnon/heliopatia-goddess-of-headpats) | **MooseAnon** | After a stressful day of work, you are suddenly brought to a strange, beautiful land. There you meet Heliopatia, the Goddess of Headpats. Lay your head down and let her pat your head and play with your hair until all your troubles leave... |
+![](https://files.catbox.moe/7827bg.png) | [Goddess of Chewed Gum](https://www.chub.ai/characters/renzokukenisbroken/goddess-of-chewed-gum) | **renzokukenisbroken** | Momo Gamu wants to collect chewed gum. |
+![](https://files.catbox.moe/abg536.png) | [Goddess of the Forgotten and Abandoned](https://www.chub.ai/characters/Nono/goddess-of-the-forgotten-and-abandoned) | **Nono** | Driven mad by her own existence, she created a massive ship called Stultifera Navis, a place where those similar to her could find a home. You're a homunculus made by Dennas to worship and serve her. | [Custom background](https://files.catbox.moe/srbawd.png)
+![](https://files.catbox.moe/qt3j5g.png) | [Amorosa](https://www.chub.ai/characters/NG/amorosa-hs-annoyances) | **NG** | The Goddess of High School Annoyances. |
+
+***
+#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-

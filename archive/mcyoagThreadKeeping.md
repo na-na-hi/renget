@@ -40,11 +40,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACharacterCards
 
 >New Stuff:
-New Writefags:
->Faith Kang in: SummerFest Aside (Drone, The hivemind)
-https://rentry.org/8rzuy
->The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
-https://rentry.org/akrst
+New Builds:
+Taichi Kyoryu HN Cretaceous King, Saurus
+>>89508780
+Kurogane Keisho HN Yoshizumi
+>>89507063
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -178,6 +178,10 @@ Page 3
 >>89015229
 >Ludolf Raphael Victorius, Hero Name: Fair Marshal
 >>89006731
+>Taichi Kyoryu HN Cretaceous King, Saurus
+>>89508780
+>Kurogane Keisho HN Yoshizumi
+>>89507063
 
 >Shiketsu Teachers:
 > Anzu Nishima HN Karaburan
@@ -194,6 +198,7 @@ Page 3
 >>88745486
 >Omura Tadao HN Deceptive Hero, Conman
 >>88754723
+
 
 >SUPPORTERS:
 >Lady Astoria Belmont
@@ -527,14 +532,15 @@ https://rentry.org/bnu9t
 https://rentry.org/8rzuy
 >The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
 https://rentry.org/akrst
+>Attack of Titans (Flying Force, Maddox)
+https://rentry.org/fwfpv
 >Misadventures at the Dojo Part 2: Wildfire (Yako, Maru(maru), Yamata, Last Rite, Drekus, and other minor appearances)
 https://rentry.org/DojoMisadventure2
 >Fourth of July in Japan(1-D, Rosethorn)
 https://rentry.org/wvogc
 >Maxine Nguyen in: Smoke Break (Radius, Marrow, others)
 https://rentry.org/7vudv
->Attack of Titans (Flying Force, Maddox)
-https://rentry.org/fwfpv
+
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -555,7 +561,7 @@ Build List:
 
 High Plains Drifters:
 >Billy Kido
->>89421393
+>>89492515
 
 Last Action Heroes:
 >Marcus 'Marc' Cassius Allen

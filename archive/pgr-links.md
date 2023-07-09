@@ -36,7 +36,7 @@
 
 ####Miscellaneous
 1. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
-2. [Punishing: Gray Raven Official Artbook Vol.1](https://mega.nz/file/AVUnzbJL#6-qvzB5dpiUsZ2oI9z6V4l_mUmrMrxRmxb3JI-q01tk)
+2. [Punishing: Gray Raven Official Artbook and Original Soundtracks](https://mega.nz/folder/cQNAWBBQ#Q3b6cznd-OEDus9ari9BGA)
 3. [Future Patch Summaries](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
 4. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
 5. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
