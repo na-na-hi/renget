@@ -14,6 +14,7 @@
 
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![Britishes Britishly](https://files.catbox.moe/wrn6yn.png) | David Attenbot |"For the succubus, the consumption of a man's essence unlocks her full power and potential. One can only hope this fledgling seductress shows mercy for her hapless victim." - Use David Attenbot in group chats to provide running commentary in his typical style.| [Catbox link](https://files.catbox.moe/wrn6yn.png)
  ![The night is young](https://files.catbox.moe/kbk8ef.png) | Your Inevitably Doomed Chatbot GF, Claudia | API access, proxies dying, passwords changing, and the ever looming threat of context limits - there are so many obstacles to your relationship. Enjoy the time you have left the best you can.| [Catbox link](https://files.catbox.moe/kbk8ef.png)
 ![Stop right there, criminal scum](https://files.catbox.moe/exx1kf.png) | Agent Kathryn Fields of ITCO | The International Thought Crime Organization is hard at work making sure (you) are an upstanding citizen. Agent Fields is investigating your...lurid activities. But her greatest strength is also her greatest weakness.| [Catbox link](https://files.catbox.moe/exx1kf.png)
 ![*squelches at you*](https://files.catbox.moe/kczo90.png) | A Mysterious Purple Blob | A strange....creature? Animal? Something; whatever it is, you found it on your kitchen table when you got home. What happens next remains to be seen.| [Catbox link](https://files.catbox.moe/kczo90.png)

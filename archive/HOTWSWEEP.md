@@ -48,7 +48,7 @@ Yuki Kikuchi (Bunker-Baby): https://archive.4plebs.org/tg/post/89398000 (more in
 Dr. Remilia Rochefort (Bunker-Baby): https://archive.4plebs.org/tg/post/89385830
 Quinn Chase (Bunker-Baby): https://archive.4plebs.org/tg/post/89386021
 Chloe (Settlement Survivor): https://archive.4plebs.org/tg/post/89414221
-Billy Kido (High Plains Drifter): https://archive.4plebs.org/tg/post/89421393 (more information at https://rentry.org/ru3fr)
+Billy Kido (High Plains Drifter): https://archive.4plebs.org/tg/post/89492515 (more information at https://rentry.org/ru3fr)
 #### Unclear
 Ultra Magnus (Settlement Survivor): https://archive.4plebs.org/tg/post/89400766 (more information at https://rentry.org/gvigd)
 Heli Matharom (Settlement Survivor): https://rentry.org/HeliMatharom

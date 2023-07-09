@@ -158,6 +158,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 09/07
 6208 | Cūnnysseurs | Open as of 05/07
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
@@ -165,7 +166,6 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Full as of 14/06
 1559 | Remedial_Club | Full as of 21/04
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

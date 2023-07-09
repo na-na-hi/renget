@@ -15,7 +15,7 @@ Order: ==Latest to Oldest==
 ###[# Worldbuilder](https://files.catbox.moe/uiort9.png)
 Image| Name | Description | URL
 ------ | ------ | ------ | ------
- ![Worldbuilder](https://files.catbox.moe/uiort9.png) | Worldbuilder | This card is just a worldbuilding tool to question a model about a certain subject you supply it. | https://files.catbox.moe/uiort9.png
+ ![Worldbuilder](https://files.catbox.moe/uiort9.png) | Worldbuilder | This card is just a worldbuilding tool to question a model about a certain subject you supply it. | https://files.catbox.moe/uiort9.png/
 
 ## Credits
 based on [this template](https://rentry.org/botmaker_template/edit) made by [Darkfantasy](https://rentry.org/Darkfantasy109)

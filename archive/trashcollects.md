@@ -687,6 +687,25 @@ Kaminosaki Shiten (Artist)
 
 	https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
 
+# Fizz (League of Legends)
+
+	https://files.catbox.moe/c45f9c.zip
+
+# Tulin (Zelda Tears of the Kingdom)
+
+	https://mega.nz/folder/AiEQ0CJT#oVffy-tL9HzrtfRzY-TlrQ
+
+# Klonoa
+
+	https://huggingface.co/nadanainone/tondelora/tree/main
+
+# cryptid-creations (Artist)
+
+Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+Activation token is "cryptid".
+
+	https://anonfiles.com/R1i8p210z1/cryptid1024d1024c2834rf_safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

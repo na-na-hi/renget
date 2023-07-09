@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 8/7/2023== <-
--> *Added 3 bots/cards to the list : Riska Cahyawati (OC), Yonda Anggraini (OC), and Kyrie Ushiromiya* <-
+-> ==Updated 10/7/2023== <-
+-> *Kivotos City Lorebook updated to v1.5 'Abydos Edition'* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -65,7 +65,7 @@ Yukikaze Mizuki | ![Yukikaze Mizuki](https://i.postimg.cc/s2PYTFPQ/Yukikaze-Mizu
 
 Lorebook |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
-Kivotos City | ![Kivotos City](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/kivotos-city/avatar.webp?size=0.4953452677033401) | Blue Archive's Lorebook for locations, terms, and other essentials. | [Download](https://www.chub.ai/lorebooks/maliksusanto/kivotos-city) v1.4
+Kivotos City | ![Kivotos City](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/kivotos-city/avatar.webp?size=0.4953452677033401) | Blue Archive's Lorebook for locations, terms, and other essentials. | [Download](https://www.chub.ai/lorebooks/maliksusanto/kivotos-city) v1.5
 Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/sex-club-multiverse/avatar.webp?size=0.7658696659949682) | A club located in pocket dimension that offers to satisfy your desire. The Multiverse is just name added to justify usage of copyrighted character, i don't really elaborate on the L O R E for that. | [Download](https://www.chub.ai/lorebooks/maliksusanto/sex-club-multiverse) v1.7
 
 ## -> Work-in-Progress <-
@@ -78,4 +78,5 @@ Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png
 Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
 Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student. | TBA™
 Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | TBA™
+Nagami Kiyora | ![Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png) | Daughter of Nagami Misuzu. She has been chosen as the bride candidate in the upcoming Hanasaki Festival. | TBA™
 Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™

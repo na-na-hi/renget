@@ -395,12 +395,18 @@ https://civitai.com/models/27689?modelVersionId=33150
 - Gretel Grant-Gomez (Hamster & Gretel)
 https://civitai.com/models/23752?modelVersionId=28377
 - Star vs. the Forces of Evil
-	+ Mariposa Diaz 
+	- Eclipsa Butterfly
+https://files.catbox.moe/6eo75y.safetensors
+~~https://civitai.com/models/32864/eclipsa-butterfly~~
+	- Mariposa Diaz 
 https://civitai.com/models/77569/mariposa-diaz-or-star-vs-the-forces-of-evil
-	+ Star Butterfly
+	- Star Butterfly
 https://civitai.com/models/47886/star-butterfly-with-outfits
 	- Jackie Lynn Thomas
 https://civitai.com/models/48778?modelVersionId=53488
+	- Hekapoo
+https://mega.nz/folder/l3dD3QbT#dVbYSpGNUn61QTdI0gt-dw/folder/czsxAJqT
+~~https://civitai.com/models/32849/hekapoo~~
 	- Angie Diaz Mom
 https://civitai.com/models/48542?modelVersionId=53138
 - The Owl House
@@ -1009,12 +1015,6 @@ https://mega.nz/folder/NigH0IYJ#Hi0KhHGqfv72VzXFjgpeHQ
 - Patrick Nagel 
 https://files.catbox.moe/bmipuq.safetensors
 ~~https://civitai.com/models/55943/patrick-nagel-pin-up-artist-series-nsfw~~
-+ Eclipsa Butterfly 
-https://files.catbox.moe/6eo75y.safetensors
-~~https://civitai.com/models/32864/eclipsa-butterfly~~
-- Hekapoo
-https://mega.nz/folder/l3dD3QbT#dVbYSpGNUn61QTdI0gt-dw
-~~https://civitai.com/models/32849/hekapoo~~
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~

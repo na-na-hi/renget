@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 09.07.2023 15:00 UTC]
+[Last Updated: 09.07.2023 21:15 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7471353/](https://boards.4chan.org/h/thread/7471353/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 606&nbsp;&nbsp;[archiveofsins.com/h/thread/7471353/](https://archiveofsins.com/h/thread/7471353/)&nbsp;&nbsp;&nbsp;&nbsp;(09.07.2023 11:59)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Before disaster Edition
 - 605&nbsp;&nbsp;[archiveofsins.com/h/thread/7467200/](https://archiveofsins.com/h/thread/7467200/)&nbsp;&nbsp;&nbsp;&nbsp;(07.07.2023 01:11)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Sitting Chikarin Edition
-- 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lazy reposter edition
+- 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[1277]&nbsp;#&nbsp;Lazy reposter edition
 - 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1145]&nbsp;#&nbsp;
 - 602&nbsp;&nbsp;[archiveofsins.com/h/thread/7454980/](https://archiveofsins.com/h/thread/7454980/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1082]&nbsp;#&nbsp;Chikaverse edition
 ---

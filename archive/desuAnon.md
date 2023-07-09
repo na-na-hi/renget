@@ -30,4 +30,4 @@ https://rentry.org/SpecialTokens
 
 ---
 
-![img_0](https://files.catbox.moe/jkzn8c.png)
+![desu](https://files.catbox.moe/7ofhvn.jpg)
