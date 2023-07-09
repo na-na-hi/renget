@@ -66,8 +66,8 @@ version 0.0.3
 >After spending a brief moment considering the alien ship, {Łucja} informed you that she was as close as she could get, so you made preparations to abandon your ship. 
 >You informed her that you would be leaving your ship here, and requested permission to transfer to hers via a spacewalk. 
 >Which was enthusiastically granted.
->You set the ship's fabricator to make an earpiece  and speaker for translation as well as an AR eyepiece for translating alien text, and other essential information. Then you prepared the ship's computer for separation -you were taking it with you so thankfully it was portable, and then went to prepare your space suit and MMU.
->After making sure that the space suit and manuvering unit were functional, you went and gathered up everything that you were taking with you and went to the airlock.
+>You set the ship's fabricator to make an earpiece  and speaker for translation as well as an AR eyepiece for translating alien text, and a few sets of spare clothes in case it would be a while. Then you prepared the ship's computer for separation -you were taking it with you so thankfully it was portable, and then went to prepare your space suit and MMU.
+>After making sure that the space suit and manuvering unit were functional, you went and gathered up everything that you were taking with you in a hard case and went to the airlock.
 >You always hated spacewalks. Putting on the bulky space suit, leaving the artificial gravity, having to keep a tight grip on things to avoid them drifting away.
 >Thankfully this would be brief.
 >Switching to your space suit's communicator, you inform {Łucja} that you are about to exit your ship, and request guidance to enter her ship. 
@@ -99,4 +99,24 @@ version 0.0.3
 >With that, she starts taking off her quarantine suit.
 >You reflexively look away, trying to be respectful.
 >When you finally look back and finally get a good look at the first intelligent alien to ever be encountered by humans, you are a bit shocked.
->She had two short pointed ears on the top of her head; brown, forward facing eyes like an earth predator would have; a muzzle with a dark brown nose. She was entirely covered in reddish fur of varying lightness except for around the tip of her muzzle, which was a pale cream. Her body was was somewhat slender. She was wearing a black bra covering up decently sized breasts, along with matching undergarmets. Her hands and feet had short claws, with the claws on the fingers being slightly longer than the ones on the toes. Finally, she had a tail that was about one third of the length of her body.
+>She had two short pointed ears on the top of her head; brown, forward facing eyes like an earth predator would have; a muzzle with a dark brown nose. She was entirely covered in reddish fur of varying lightness except for around the tip of her muzzle, which was a pale cream. Her body was was somewhat slender. She was wearing a relatively tight fitting jumpsuit, leaving little to the imagination Her hands and feet had short claws, with the claws on the fingers being slightly longer than the ones on the toes. Finally, she had a tail that was about one third of the length of her body.
+>You thought that she was strangely beautiful, for an alien.
+>Before you could take that line of thinking any further, you realised that you were staring, and looked away, ashamed of yourself. 
+>You didn't want to possibly offend your host by staring lecherously. How disasterous would it be if the first species of sapient aliens viewed humanity as a bunch of perverts?! Wha a catastrophic start to interspecies relations! No, that simply wouldn't do. Despite how oddly alluring she was, you'd have to stife those feelings for now lest you give humanity a bad reputation. You took a deep breath and tried to work up as much decorum as you could 
+>Feeling something like a paw brush against the side of your face, you snap out of your deep thought and back to attention.
+>She had crept up almost on top of you, and was muttering under her breath while observing you intently.
+>"...hmm, sudden red discoloration. vasodilation? But it's not warm in here, and without fur it should be even colder...."
+>Shit, you were blushing. 
+>You turn your head and lock eyes with {Łucja}, your faces mere inches apart, and ask "{Łucja}, what are you doing?"
+>This seems to snap her out of her deep concentration.
+> Her ears tilted backwards a little and made an embarrassed smile as she took a deep breath and a few steps back. 
+>"Oh dear, I got ahead of myself and wound up being awkward," she sighs. "It would help clarify if I explained my job. I'm a xenobiologist, and you're the first intelligent life my species has ever discovered. Hopfully you can understand why I got carried away making observations."
+>"It's okay {Łucja}," you reply, "I'm just a test pilot, but I've spent enough time around scientists and engineers to understand why you're so excited. You walked right into the most significant discovery possible in your field. It's only natural that you do your job." 
+>Łucja's eyes light up and the fur on her tail puffs out.
+>"Really? You do? Well then, If it's okay with you, can I write a research paper on you and your species? Please?"
+>"It would be the least I could do," you reply.
+>Before you could get another word out you're cut off by a stream of "Thank you"s and Łucja does a little happy dance consisting of jumping back and forth and side to side before finally concluding by jumping into and hugging you.
+>She lets loose a few tears of joy as she nuzzles into your neck.
+>You can't help but feel fuzzy seeing her like this, and her fur feels rather pleasant against your neck. 
+>You wiggle your arms free to be able to hug back, allowing yourself to show a little bit of affection, but being careful not to swoon.
+>After she had calmed down sufficiently, you suggest "Łucja, before you get caught up doing any more research, could we leave the airlock?"

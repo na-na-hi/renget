@@ -294,15 +294,15 @@ Alternatively look up some clears or guides on YouTube.
 Up to HC you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
 Don't try EX without a mock battle if ur below the recommended level.
 
-If you're a pro raid gamer, it's good practice to either (mentally) make a note of what time you started the raid or what time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over. In JP a timer is available in the pause screen, so look forward to that.
+If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over.
 
-If you need something in the middle of ur raid battle, you can close the app/quit the game and start Blue Archive again. This way you won't lose ur ticket, your attempt will stay active, AND you get to change ur team/positioning/starting EX skills. 
+If you need to change formation in the middle of ur raid battle, you can close the app/quit the game and start Blue Archive again. This way you won't lose ur ticket, your attempt will stay active, AND you get to change ur team/positioning/starting EX skills. 
 This works in mock battles and actual runs. 
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 
 >I forgot if I started a mock battle or a real run, help! 
-In battle, at the top left of your screen it shows if it's a mock battle. If there isn't notice, it's a real run. 
+In battle, at the top left of your screen it shows if it's a mock battle. If there isn't a notice, it's a real run. 
 
 >Should I save my raid coins? 
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
@@ -320,6 +320,8 @@ The tickets for Joint Firing Drill work differently than the ones for raids. Unl
 Once you have used up an entire ticket (3 clears), you are able to sweep your remaining tickets.
 
 It's not worth it to hyperinvest into someone for just the exercise. Just take the L, do a lower difficulty, and move on.
+
+If you're feeling lazy you can auto stage 2/3. 
 
 Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy.
 
@@ -361,20 +363,27 @@ Don't buy the reports or credits, they really really suck. You can buy the drink
 In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT with pyros. This way you get to buy out the pvp drinks 4x
 ![How to refresh the shop](https://i.imgur.com/T9Wf7p5.png)
 
->Joint Firing Drill/Joint Exercise shop 
-Prioritise whatever you value in this shop. You can make an argument for anything and it'd be decent. This section will be a lot of less authoritative/prescriptive (you need to do this) as I go over every item. Choose for yourself.
+>Joint Firing Drill/Joint Exercise shop
+**Elephs > whatever > artifacts**
 
-I personally wouldn't recommend buying out the artifacts. Even though you can't get these artifacts through bounty, there are a lot of events (e.g.  Decagrammaton) where you can farm them. You also get an okayish chunk through raids.
-Check out [the event page in the wiki](https://bluearchive.wiki/wiki/Events) to see if any of the artifacts drop soon. 
+I'll go over every item, just know that this shop is a lot more nuanced. You can pick anything and it'd be decent. 
 
-Reports are your safest bet if you don't know what to pick. They're purple, they're FREE, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
+- Artifacts
+I don't recommend buying out the artifacts. Even though you can't get these artifacts through bounty, there are a lot of events where you can farm them. You also get an okayish chunk through raids.
 
-The shards are decent. Eimi is a solid tank, and Sumire and Tsurugi are both yellow aoe dps frontliners. Unfortunately, there are better alternatives to Eimi, and the only place Sumire and Tsurugi shine in is in (indoors) Chesed as a 2nd or 3rd option. I personally prioritise buying them out since elephs are hard to obtain, the shards are nice to have, and because I don't have much need for the other options. 
+- Reports
+ The safest option if don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
 
+- Shards
+Eimi is a solid tank, and Sumire and Tsurugi are both yellow aoe dps frontliners. Unfortunately, there are better alternatives to Eimi, and the only place Sumire and Tsurugi shine in is in (indoors) Chesed as a 2nd or 3rd option. I personally prioritise buying them out since elephs are hard to obtain, the shards are nice to have, and because I don't have much need for the other options.
+If you buy them out, eventually you'll no longer need to buy them too. Eventually. 
+
+- Fusion stones 
 With the fusion stones you can convert a surplus of a certain type of mat into a different mat in the crafting chamber (the 2nd one). It really helps bridging the gaps in your stash at a decent price.
 I'm personally using the gold ones to convert gifts into the ones I need, but most of the time you won't need these things. They're very handy when you need them, so having a decent stack of them can come in handy (don't buy the grey ones though) 
 
-The secret tech note. I personally think its kind of whatever, but that's my opinion. My clubbros have bought them and occasionally I have too, so if you want it the option is there. Definitely one of the lower priority items though. 
+- Secret tech note 
+They're okay. If you need them they're handy, and I buy them occasionally too. Definitely one of the lower priority items though. 
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert) 

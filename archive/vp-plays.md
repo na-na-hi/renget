@@ -348,3 +348,4 @@ https://arch.b4k.co/vp/thread/54045319/ 16 lol filtered again
 https://arch.b4k.co/vp/thread/54049796/ 17 it's called /vp/ plays because half of /vp/ is doing their own playthrough
 https://arch.b4k.co/vp/thread/54055015/ 18 suffer hours
 https://arch.b4k.co/vp/thread/54059516/ 19 kaizoshit, splinter playthroughs, and more
+https://arch.b4k.co/vp/thread/54062801/ 20

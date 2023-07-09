@@ -9,6 +9,10 @@
 	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 ***
+[Genre: Adventure, Hurt/Comfort, Romance; or Found Family if Romance isn’t your thing]
+Standard PMD fare at first; an Anon is isekai’d to the Pokemon world with amnesia and is befriended by a female Pokemon. The two become fast friends, with the native telling Anon about her own past as they both try to learn more about Anon’s. Anon is about as laid-back as a standard protagonist, but is still somewhat curious about his past and enjoys spending time with his newfound friend, even possibly developing feelings for her. Eventually the two meet Uxie, who reads their hidden memories and confirms their suspicions that Anon used to be a human, and why he was brought to the Pokemon world.
+**The twist?** Uxie reveals that the girl _also_ used to be human. Her memories were not only removed, but entirely replaced with false memories of a life that never actually happened and a family she never really had. Anon accepts his own revelation quickly, but now has to comfort his friend as the two complete the task they were destined for, growing closer along the way.
+***
 Smeargle outlaw uses it's body swap sketch to try to pass as Ross & get back at the guild
 ***
 Native mon taking humon(s) stargazing & explaining foreign constellations.

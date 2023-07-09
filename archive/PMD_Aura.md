@@ -85,6 +85,10 @@ Color of Aura:
 	* An individual cannot have the highest % value equal to another % value. This means that an individual could have 25% blue, 25% brown, 50% silver, but not 20% blue, 40% brown, 40% silver.
 	* When Aura is concentrated (into a sphere or bow) it will "default" to the literal color that makes up most of the individuals aura. For example, an individual with an aura make up of 25% blue, 20% brown, 55% silver, will create Silver Aura Spheres.
 
+Aura to Move Pathway:
+Aura will autonomically convert to Type Energy then when a Pokemon calls a Move that type energy will convert into the chosen move, if the move used is the same type as the Pokemon. Otherwise, the type energy will be converted into a different type as soon as the pokemon calls a Move. This is why when, for example, a fire type using a fire type move will be stronger than a fire type using a ground type move.
+
+
 [WIP]
 
 Aura Q&A:

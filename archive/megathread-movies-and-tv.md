@@ -33,9 +33,17 @@
 - Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
 - [URL Safety Results](https://www.urlvoid.com/scan/bollymaza.click/)
 
+### 🔗 [Cinema of the World](https://worldscinema.org/)
+- Extensive collection of arthouse. International cult, classic, experimental, and rare film releases.
+- [URL Safety Results](https://www.urlvoid.com/scan/worldscinema.org/)
+
 ### 🔗 [DDLbase](https://ddlbase.net/)
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
+
+### 🔗 [Dramaday](https://dramaday.me/)
+- Concentrate on downloading the newest Korean dramas as is original soundtracks.
+- [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
 
 ### 🔗 [Edytjedhgmdhm](https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
 - Excellent directory containing tons of high-quality movies and TV shows, as well as a good number of ebooks.
@@ -52,10 +60,6 @@
 ### 🔗 [NollyVerse](https://www.nollyverse.com/)
 - Intended to cover every movie genre, from Hollywood to Bollywood, Chinese, and Korean films, as well other kind of dramas
 - [URL Safety Results](https://www.urlvoid.com/scan/nollyverse.com/)
-
-### 🔗 [OnlyKDrama](https://www.onlykdrama.com/)
-- Concentrate on downloading the newest Korean dramas along with Hindi and English-dubbed titles that are available, as is streaming.
-- [URL Safety Results](https://www.urlvoid.com/scan/onlykdrama.com/)
 
 ### 🔗 [Pahe](https://pahe.li/)
 - Really good selection of the newest, best-of-breed television shows and motion pictures that also includes anime all for direct downloads.
@@ -125,9 +129,13 @@
 - Massive content catalogue is available to view in HD resolution with numerous subtitles for free, with no subscription.
 - [URL Safety Results](https://www.urlvoid.com/scan/f2movies.to/)
 
-### ▶️ [FMovies](https://fmovies.name/)
+### 🐐 [FMovies](https://fmovies.name/)
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
 - [URL Safety Results](https://www.urlvoid.com/scan/fmovies.name/)
+
+### 🐐 [FlixHQ](https://flixhq.click/)
+- Safest free movie site in 2023 to instantly view movies and television shows online.
+- [URL Safety Results](https://www.urlvoid.com/scan/flixhq.click/)
 
 ### ▶️ [GOKU](https://goku.sx/)
 - Awesome place for free HD streaming without registration at all, including subtitles in several languages with a single click as well.
@@ -189,16 +197,24 @@
 - With even more wonderful features, you can watch a big variety of full HD movies and TV shows online for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/putlocker.pe/)
 
+### 🐐 [Seez](https://seez.su/)
+- Keep track of, explore, and stream all of your movies and TV shows.
+- [URL Safety Results](https://www.urlvoid.com/scan/seez.su/)
+
 ### ▶️ [SeriesOnline](https://seriesonline.gg/)
 - Users may watch movies and TV episodes in great quality on this ad-free platform and is even superior to paid websites.
 - [URL Safety Results](https://www.urlvoid.com/scan/seriesonline.gg/)
 
-### ▶️ [SFlix](https://sflix.to/)
+### 🐐 [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
 
+### 🐐 [Smashystream](https://embed.smashystream.com/)
+- Watch any movies or TV series you want, whenever you want, thanks to the power of the internet!
+- [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)
+
 ### ▶️ [Soap2day](https://soap2day.rs/) / [2](https://soap2dayhd.com/) / [3](https://soap2day.mn/)
-- One of the finest streaming sites discovered by users, this remarkable service offers a tonne of free movies. 
+- Great alternatives since the fall of the original soapgate.cc. Offering a tonne of free movies. 
 - [URL Safety Results](https://www.urlvoid.com/scan/soap2day.rs/)
 
 ### ▶️ [Streameast](https://www.streameast.watch/)

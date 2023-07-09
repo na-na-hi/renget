@@ -99,6 +99,14 @@
 >"who allowed you to shoot?!"
 >"bastards!"
 
+[ [catbox](https://files.catbox.moe/a6uwbp.MOV) | [ipfs](https://ipfs.io/ipfs/QmaftWiwHTo1Uh4VbmPuVsrVF5RpCLjwtXhAEmQBmgPCSC) ]
+>"[they] took Denya"
+>"...horror... my god..."
+>"I have no slightest idea where is David now"
+>"are you sure, mom?"
+>"...in any case? I just too afraid to leave the car even, I don't know what will happen"
+>"mom, you most importantly don't lose yourself now... I will now.. [incoherent] ...car"
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign
@@ -128,4 +136,4 @@
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmNn8WNVJjLUBXWApxgGkUxGDHPYZwRXKx6LQvMvJKgMwK)
+	Full archive: [ipfs](https://ipfs.io/ipfs/QmVuqBWr6BExHtmyFF2DQaRJrpTrfzeryLpFUcsvyA9xX9)

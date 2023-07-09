@@ -404,7 +404,7 @@ The littler Vox groans and moans, guttural. He's only held upright by the leash,
 
 Clearly, you've abandoned all pretense. You're full-on into this. You're into all of this.
 
-Just as Blinky slides into afterglow, and his slit is tighter and wetter than ever, Blinky loses himself. Amidst his laughing and grunting, you can see his eyes roll back in his head, and he leans forth, gas-mask pressing into Inky's as he climaxes. He's pumping his slit with spooge before he's even done pounding, and finally the earth-shattering pleasure of orgasm causes him to loosen his grip on the poor bird's leash, finally allowing *both* of them to breathe. He moans and stumbles forth into the desk, and the both of them topple onto the desk, with Inky held down by Blinky's sheer weight, getting his over-excited dick splattered with cum.
+Just as Inky slides into afterglow, and his slit is tighter and wetter than ever, Blinky loses himself. Amidst his laughing and grunting, you can see his eyes roll back in his head, and he leans forth, gas-mask pressing into Inky's as he climaxes. He's pumping his slit with spooge before he's even done pounding, and finally the earth-shattering pleasure of orgasm causes him to loosen his grip on the poor bird's leash, finally allowing *both* of them to breathe. He moans and stumbles forth into the desk, and the both of them topple onto the desk, with Inky held down by Blinky's sheer weight, getting his over-excited dick splattered with cum.
 
 Blinky can't support his own weight. He relies on the littler bird as a rest, and collapses onto him. They embrace suddenly and feverishly, taking every breath like it's their last. They needed that *so* goddamn badly.
 

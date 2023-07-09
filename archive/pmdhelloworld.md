@@ -148,4 +148,6 @@ In the back of my mind, some words sparked into existence.
 
 I think, therefore I am. The fact I was able to question if I was alive proved that I was. This was fairly basic philosophy, but even the fact that I had remembered it helped quell a little of my existential fears nonetheless. At least, it was enough for me to put a pin my ennui for the time being, and shift my focus back to the road.
 
-I wasn't sure just how long I had been stuck in a funk, but it seemed that it had been long enough that I was approaching civilisation. A town seemed to rise out of the ground, buildings carved out of the trunks of massive trees, rope bridges crossing the gaps between them on the upper levels. Honestly, the place seemed a nightmare to navigate.
+I wasn't sure just how long I had been stuck in a funk, but it seemed that it had been long enough that I was approaching civilisation. A town seemed to rise out of the ground, the buildings carved out of the trunks of massive trees, rope bridges crossing the gaps between them on the upper levels. Honestly, the place seemed like it would be an absolute nightmare to navigate.
+
+Considering that all I had seen from the last two days here was the empty wilderness, however, it looked like paradise.

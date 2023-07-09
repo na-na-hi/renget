@@ -182,6 +182,12 @@ If you want the profile to be ever present use this one instead: vvv
 ![fPREGGO](https://files.catbox.moe/l05nuk.png)
 https://files.catbox.moe/l05nuk.png
 
+##### The Goddess Of Schizophrenia [AICG 2nd theme]
+Not much to add. over the title, it's best to experience it.
+It doesn't reffer to Schizophrenia the illness, but more than anything aludes at Claude's schizo answers sometimes. She will filter herself and then continue talking, talk OOC a lot, narrate herself and yourself and your UJBS. Might post your IP...
+![Cutiepie](https://files.catbox.moe/0yfboy.png)
+https://files.catbox.moe/0yfboy.png
+
 _______________________________
 #### Bots from other creators that I modified per request, eye bleeding or as an experiment.
 Bot's name | PNG for pygmalion shit | Change

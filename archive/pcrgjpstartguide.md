@@ -1,7 +1,7 @@
 # JP New player guide/recommendations
 
+- If you want something updated in this rentry, just quote the OP.
 [TOC2]
-
 
 ##->How do I start on JP?<-
 
@@ -48,7 +48,7 @@ This will delete the account stored on the computer without deleting the game it
 
 
 ##->Who do I reroll for, as a new/returning player? <-
-Updated: March 31st, 2023
+Updated: July 8th, 2023
 
 **TL;DR - If you don't get Neneka & Ames in the first spark, consider re-rolling if you have the patience. Free 3* from Tutorial is not relevant, just a nice cherry on top.**
 Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 of the 16 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies and returning players have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
@@ -75,6 +75,7 @@ The following list is for new players to target, as some units are amazing - But
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
 **Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
 **Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
+**クローチェ (Croce)** -  Good specialist in mutl-target physical damage, but does have a huge drawback if she runs out of her battery resource. Needs team support and is a pure damage dealer. No Unique Equip yet.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
 **Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
@@ -108,6 +109,7 @@ Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
 GreAnne | SS | F | SS | SS | No | No
 Misora | A | F | SS | S | No | No
+Croce | ?? | B | S | A | No | No
 
 ##->Limited targets<-
 These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
@@ -115,12 +117,14 @@ These units are only available during their specific banners, which are typicall
 ###CB
 **New Years Neneka** - #1 magic buffer in the game, only comes by every New Years. Please roll for her/save a spark in your initial clearing and rolling.
 **New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Good in Arena, too.
-**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to use UBs very early, but better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount. Amazing in CB.
+**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to physical units only, so they can use UBs very early. For physical, better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount. Amazing in CB. 
 **Creditta** - Excellent debuffer/support physical multi-target ranged unit. She has heals, TP restoration, P.Def debuff and okay damage and generally finds her way into CB when Multi-target physical does well. 
+**Warlock Djeeta** - Proven to be a useful magic team unit since her April release, her TP restore/debuff and buffs.A colab unit as well, so may not repeat once a year.
+**Christmas Christina** - This is only because she gives regular Christina +3 TP Boost from bond stories, the unit herself is useless until she receives a 6 star. Not having the +3 TP Boost has varying degrees of impact on CB comps. This can range from no impact, to losing out on a decent chunk of damage, to being completely unable to run a particular timeline at all.
 
 ### Arena
 **Swimsuit Saren** - Massive TP restoration to all teammates on 1st skill for instant UBs. Sees use in all game modes, but extremely useful in Arena. Grab her when possible.
-**Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. 
+**Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. Not necessary to hit 1st, but a strong unit.
 
 ### PvE
 Nothing that is specific to PvE here.
@@ -135,7 +139,10 @@ While not re-roll targets, these units are always available to roll on any banne
 **Inori** - Top tier Arena unit, good roll for those who enjoy that mode. Is also farmable at Hard Node 44-3.
 **Magical Girl Kasumi** - Top tier Arena unit for offense and defense, farmable at Hard Node 38-3
 **Oedo Yuki** - Excellent buffer and debuffer for magic comps. Not farmable.
-**S.Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
+**Swimsuit Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
+**Christmas Jun** - Excellent tank that provides a ton of utility and can sustain herself.
+**Kasumi** - Excellent Arena unit in the 1st position that can snare a large group of enemies and provides a massive m.def debuff for magic units to shred enemies.
+
 
 ##->Permanent Sub Player level 200 Campaign<-
 Starting December 16th JST on reset, various permanent Campaigns will be apply to all players below 200. See the full list below:
@@ -159,13 +166,13 @@ https://priconne-redive.jp/news/update/20375/
 - Always keep Ames and Neneka leveled
 - Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7. This will allow you to level her UE at no cost, until it reaches level 240.
 - Complete the easy versions of the training dummy gargoyles for easy 100 gems and 1 large heart per. There are 5 in total, but do the first 3.
-- If you have P.Yui, you can get her to Rank 7 and unlock her UE. She'll carry you through early level PvP by blowing up the enemy team. You should have the 3 large hearts for the initial craft thanks the the hearts from the above tip
-- Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on
-- After hitting level 200, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible. 
+- If you have P.Yui, you can get her to Rank 7 and unlock her UE. She'll carry you through early level PvP by blowing up the enemy team. You should have the 3 large hearts for the initial craft thanks the the hearts from the above tip.
+- Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on.
+- After hitting level 200, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible.
 - Be patient when it comes to progression. CB is generally designed for late game/end game players, so don't kick yourself for not being able to contribute immediately. You'll get there.
-- You can borrow a max level Chris or Djeeta to 1p bosses in T1/T2 to still contribute as a new player. There's no level restrictions on CB borrows, so having a max level player in your clan to provide these for you can make a huge difference.
-- Request equips as often as possible
-- If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50.
+- You can borrow a max level Princess Kyaru or Christina to 1p bosses in T1/T2 to still contribute as a new player. There's no level restrictions on CB borrows, so having a max level player in your clan to provide these for you can make a huge difference.
+- Request equips as often as possible.
+- If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50. The trade-off here is staying lower-level and not getting to clear content due to that. This is just preference.
 - To fund the early Dungeon 6 Stars, you'll want to clear the worlds up to 57-14 in order to get EX6 unlocked. The nodes scale to your level, but the rewards are based on the dungeon. This means you'll have access to a large amount of dungeon coins
 - For some easy growspheres, you can clear the Endless Summer, SOS Inori & Nakayoshi-Bu side stories.
 
@@ -356,7 +363,7 @@ Q -  **When is the next Prifes?**
 A - Who the fuck knows. We usually get one at the end of the month in Feb (Anniversary) and August (Half Anniversary) guaranteed. Other than that, could be any time.
 
 Q - **I got Neneka & Ames before needing to spark, is it worth it to finish the spark? Who would I pick?**
-A - There are currently a total of 18 Prifes units, so yes. The only wrong answer is anyone in C tier, but I would advise picking P.Rei or P.Yui for early game arena shit stomping, GreAnne or Christina for future proofing in other high level game modes. Ranpha also helps with early PvE stuff, because her summon is pretty strong.
+A - There are currently a total of 19 Prifes units, so yes. The only wrong answer is anyone in C tier, but I would advise picking P.Rei or P.Yui for early game arena shit stomping, GreAnne, Laby or Christina for future proofing in other high level game modes like CB and Luna Tower.
 
 Q - **Princess Connect is crashing on Launch on my Bluestacks Emulator, what do I do?**
 A - This is due to the Unity Engine update on April 12th, forced on April 15th. You'll need to create a new instance and make sure that you have it running on Android 11 (Beta)
@@ -364,6 +371,14 @@ A - This is due to the Unity Engine update on April 12th, forced on April 15th. 
 Q - **I did the above and now I'm seeing pink textures everywhere, is there a fix?**
 A - Go into your setting and change your Graphics Rendered & Interface Renderer to "Direct X". It might be set to "OpenGL" by default.
 
+Q - **How do I get a ton of gems quickly as a new player?**
+A - Add a Max level player from the thread with a max Christina to borrow and clear the following content:
+1. Main Story - Normal nodes
+2. Main Story - Hard nodes
+3. Side Stories - Normal nodes (No borrows allowed)
+4. Side Stories - Hard nodes (No borrows allowed)
+5. 12k from skipping Arcs 1 & 2 story after hitting level 50
+6. Battle Arena early rewards 
 
 
 ##->Helpful Links<-
