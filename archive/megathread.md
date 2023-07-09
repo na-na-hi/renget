@@ -13,9 +13,10 @@
 	- We have a complete replica of the Megathread over at our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
     - ✅ **This Megathread is updated often. There are no quality control checks on any copies that are mirroring this one.**
 
-!!! danger ➜ Uncertainty 
-    - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use extra caution anytime you sail in uncharted waters. 
-    - That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution.
+!!! danger ➜ Disclaimer
+	- Any links **not included in the entire Megathread** were either not approved, or were deleted at some point.
+	- Use caution whenever you sail in uncharted waters, as the seasons change, so do the currents. What was once thought to be a secure route to great treasures may soon be a shadow of its former self, infested with the black plague. Proceed with care.
+
 &nbsp;
 
 ---

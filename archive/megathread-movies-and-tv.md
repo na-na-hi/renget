@@ -247,36 +247,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Torrents
-
-### 🧲 [TorrentCue](https://torrent-cue.co/)
-- The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrent-cue.co/)
-
-### 🧲 [Torrentking](https://torrentkingnow.co/)
-- Download movie torrents with a good selection ranging from English to Hindi. Latest catalogue available and updated frequently.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrentkingnow.co/)
-
-### 🧲 [WatchSoMuch](https://watchsomuch.to/)
-- A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.
-- [URL Safety Results](https://www.urlvoid.com/scan/watchsomuch.to/)
-
-### 🧲 [YIFY Movies](https://yifymovies.xyz/)
-- Exclusive focus is on offering HD movies in the highest quality and in the lowest possible sizes.
-- [URL Safety Results](https://www.urlvoid.com/scan/yifymovies.xyz/)
-
-### 🧲 [YTS](https://yts.mx/)
-- Browse and download movies in multiple resolutions up to 4K, and all with the smallest file size possible.
-- [URL Safety Results](https://www.urlvoid.com/scan/yts.mx/)
-
-&nbsp;
-
----
-
-&nbsp;
-
-
-# 📑 4 ➜ Subtitles
+# 📑 3 ➜ Subtitles
 
 ### 🖊️ [Addic7ed](https://www.addic7ed.com/)
 - A subtitle database for movies and TV shows with collaborative online translations by the user base into 18 different languages.

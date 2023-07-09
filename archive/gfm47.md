@@ -1,5 +1,9 @@
-####->Descent (Part 1: Rumination)<-
+#->Descent<-
 by Skorupi-anon
+
+[TOC3]
+
+###->Chapter 1 - Rumination<-
 
 There's a lot on my mind today.
 

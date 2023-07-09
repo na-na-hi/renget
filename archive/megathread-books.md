@@ -25,10 +25,6 @@
 
 # 📑 1 ➜ Direct Downloads
 
-### 🔗 [Course Club](https://courseclub.me/)
-- Free online courses from CBTNuggets, Lynda, Phlearn, and other providers.
-- [URL Safety Results](https://www.urlvoid.com/scan/courseclub.me/)
-
 ### 🔗 [Course Drive](https://coursedrive.org)
 - Video lessons from Udemy, Lynda, Packetpub, Pluralsight + more are available for free download. 
 - [URL Safety Results](https://www.urlvoid.com/scan/coursedrive.org/)
@@ -293,7 +289,7 @@
 - Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
 - [URL Safety Results](https://www.urlvoid.com/scan/academictorrents.com/)
 
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Sign Up
+### 🐐 [AudioBook Bay](https://audiobookbay.li/) • Sign Up
 - Superb collection for audiobooks and shares a lot of content with MyAnonamouse.
 - To download without an account, copy the info hash and paste it into your torrent client. Example: `magnet:?xt=urn:btih:INFOHASH`
 - [URL Safety Results](https://www.urlvoid.com/scan/audiobookbay.li/)

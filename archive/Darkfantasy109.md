@@ -97,7 +97,7 @@ Image| Name | Description | Link
 ***
 
 ###Shitpost bots
-Bots made for shits and giggles.
+Bots [I](https://bit.ly/44bAMUe)'ve made for shits and giggles.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP](https://files.catbox.moe/88smbn.png) | Schlopdog | SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP SCHLOP  | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/SCHLOPDOG)

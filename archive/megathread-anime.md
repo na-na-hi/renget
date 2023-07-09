@@ -125,10 +125,6 @@
 - Effortlessly access thousands of anime. Reliable stream with minimal data use, and updates from the greatest torrent releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/animepahe.ru/)
 
-### ▶️ [AnimeShow](https://www2.animeshow.tv/)
-- Here you can watch high definition episodes of every major anime series that are updated hourly with the greatest English subtitles.
-- [URL Safety Results](https://www.urlvoid.com/scan/animeshow.tv)
-
 ### ▶️ [AnimeSuge](https://animesuge.to/)
 - Fast streaming servers and that allow you to watch your favorite anime, material is updated everyday.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesuge.to/)
@@ -145,7 +141,7 @@
 - A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
 - [URL Safety Results](https://www.urlvoid.com/scan/enime.moe/)
 
-### ▶️ [Gogoanime](https://gogoanime.gr/) / [#2](https://gogoanime.llc/)
+### ▶️ [Gogoanime](https://gogoanime.gr/)
 - Because it is so simple, all you have to do is choose an episode and begin viewing.
 - [URL Safety Results](https://www.urlvoid.com/scan/gogoanime.gr/)
 
@@ -153,9 +149,9 @@
 - You've come to the right place if you're searching for something fresh and intriguing.
 - [URL Safety Results](https://www.urlvoid.com/scan/gogohd.net/)
 
-### ▶️ [Kaguya](https://kaguya.app/)
-- Presenting the most recent and popular anime series, with new episodes released on a regular basis.
-- [URL Safety Results](https://www.urlvoid.com/scan/kaguya.app/)
+### ▶️ [Kaido](https://kaido.to/)
+- Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.
+- [URL Safety Results](https://www.urlvoid.com/scan/kaido.to/)
 
 ### ▶️ [KickAssAnime](https://kaas.am/)
 - Dependable for new releases with excellent quality, but not the greatest selection for older anime.
@@ -176,6 +172,10 @@
 ### ▶️ [Nanime](https://www.nanime.one/)
 - You can watch anime online for free on this streaming service, and sure to find more shows and movies here.
 - [URL Safety Results](https://www.urlvoid.com/scan/nanime.one/)
+
+### ▶️ [Otakuz](https://otakuz.live/)
+- Presenting the most recent and popular anime series, with new episodes released on a regular basis.
+- [URL Safety Results](https://www.urlvoid.com/scan/otakuz.live/)
 
 ### ▶️ [YugenAnime](https://yugenanime.tv/)
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.

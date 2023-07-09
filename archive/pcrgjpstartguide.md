@@ -47,7 +47,7 @@ This will delete the account stored on the computer without deleting the game it
 !!! note Consider using a phone or Bluestacks before going through DMM, if you aim to re-roll. The first account you log in to a particular DMM account with, will be bound to that account. Might as well make it one you actually want.
 
 
-##->Who do I reroll for, as a new/returning player? <-
+##->What Prifes units do I reroll for, as a new/returning player? <-
 Updated: July 8th, 2023
 
 **TL;DR - If you don't get Neneka & Ames in the first spark, consider re-rolling if you have the patience. Free 3* from Tutorial is not relevant, just a nice cherry on top.**
@@ -119,7 +119,7 @@ These units are only available during their specific banners, which are typicall
 **New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Good in Arena, too.
 **Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to physical units only, so they can use UBs very early. For physical, better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount. Amazing in CB. 
 **Creditta** - Excellent debuffer/support physical multi-target ranged unit. She has heals, TP restoration, P.Def debuff and okay damage and generally finds her way into CB when Multi-target physical does well. 
-**Warlock Djeeta** - Proven to be a useful magic team unit since her April release, her TP restore/debuff and buffs.A colab unit as well, so may not repeat once a year.
+**Warlock Djeeta** - Proven to be a useful magic team unit since her April release, her TP restore/debuff and buffs. A colab unit as well, so may not repeat once a year like Im@s - But no confirmation on that.
 **Christmas Christina** - This is only because she gives regular Christina +3 TP Boost from bond stories, the unit herself is useless until she receives a 6 star. Not having the +3 TP Boost has varying degrees of impact on CB comps. This can range from no impact, to losing out on a decent chunk of damage, to being completely unable to run a particular timeline at all.
 
 ### Arena
@@ -175,6 +175,7 @@ https://priconne-redive.jp/news/update/20375/
 - If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50. The trade-off here is staying lower-level and not getting to clear content due to that. This is just preference.
 - To fund the early Dungeon 6 Stars, you'll want to clear the worlds up to 57-14 in order to get EX6 unlocked. The nodes scale to your level, but the rewards are based on the dungeon. This means you'll have access to a large amount of dungeon coins
 - For some easy growspheres, you can clear the Endless Summer, SOS Inori & Nakayoshi-Bu side stories.
+- If you're running low on guild house furniture coins, consider only upgrading the stamina furniture and liking as many guild houses until you hit the cap for daily coins. You can collect up to 50 per day (10 likes).
 
 
 ##->Recommended Hard nodes to farm<-
@@ -371,7 +372,7 @@ A - This is due to the Unity Engine update on April 12th, forced on April 15th. 
 Q - **I did the above and now I'm seeing pink textures everywhere, is there a fix?**
 A - Go into your setting and change your Graphics Rendered & Interface Renderer to "Direct X". It might be set to "OpenGL" by default.
 
-Q - **How do I get a ton of gems quickly as a new player?**
+Q - **How do I get a ton of gems quickly as a new player, to spark?**
 A - Add a Max level player from the thread with a max Christina to borrow and clear the following content:
 1. Main Story - Normal nodes
 2. Main Story - Hard nodes
