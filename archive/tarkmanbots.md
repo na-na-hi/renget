@@ -31,7 +31,7 @@ Spirit deeply in love with you but she can only possess dead bodies so undead gf
 
 ![](https://files.catbox.moe/xd28hh.png)
 
-###Susie High
+###Susie
 A little more low effort compared to what I do normally but I find it very charming
 Pilot long presumed dead hear her talk about planes and shit
 

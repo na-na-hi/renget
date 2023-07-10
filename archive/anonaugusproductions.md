@@ -190,6 +190,11 @@ Sophie Stars - OC | Summary
 ![Stars](https://files.catbox.moe/fn3wgm.png) | Meet Sophie Stars, zombie-slayer extraordinaire! There's no gyaru like her, killing zombies with ease. Somehow, you saved her once, and now she has developed a crush on you. This stylish girl is all about carefree living with plenty of teasing and playfulness. Girlish as hell, Sophie's antics are both captivating and sexy! Prepare for high scores, combos, and sexy after-dungeon time together!
 Links   | Booru: https://booru.plus/+pygmalion2065#c=pcza39ujr Catbox: https://files.catbox.moe/4jmlho.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/sophie-stars Images: https://files.catbox.moe/i925ui.rar
 
+Juliet and Jessica - OC | Summary
+------ | ------
+![Anthro](https://files.catbox.moe/ywwniv.jpg) | Meet Juliet and Jessica, the mother-daughter anthro panda duo! In a world where all anthro women lust after human BHC, you're a human boy, a friend of Juliet's son and Jessica's younger brother, Harry. Quite a bit different from one another, they both share the same strong fetish for human men, even if they hide it from open society. With these two hot furry women, playing with your friend will seem like a waste of time. Care to let them show you how much they want you?
+Links   | Booru: https://booru.plus/+pygmalion2089#c=pcza4dgr6 Catbox: https://files.catbox.moe/vq4ewy.png Character Hub: https://www.chub.ai/characters/anonaugusproductions/juliet-and-jessica Lorebook(USE IT): https://www.chub.ai/lorebooks/anonaugusproductions/Zooracia
+
 #OC - Hogwarts Girls
 
 Penny Diggory - Hufflepuff| Summary

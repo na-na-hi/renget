@@ -119,11 +119,12 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *SM64DS 09.11.03* (C-N64)|[(link)](https://rentry.org/091103)
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
 
-##Restored/archived by /exeg/
+##Restored/archived/translated by /exeg/
 Title|Link
 ------|------
 *NES Godzilla Prototype*|[(link)](https://rentry.org/ngp)
 *The Sonic R Horror* (Dot Lisall, among others)|[(link)](https://web.archive.org/web/20051018073343/quackerandbowen.com/sonicr.htm)
+*U53RDV*|[(link)](https://rentry.org/7m246)
 
 ##Shitpastas
 Title|Link

@@ -49,17 +49,17 @@
 - Excellent directory containing tons of high-quality movies and TV shows, as well as a good number of ebooks.
 - [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
 
+### 🔗 [GojoMovies](https://gojomovies.lol/)
+- Website that offers the most recent direct download links for your preferred TV shows, films, and other media.
+- [URL Safety Results](https://www.urlvoid.com/scan/gojomovies.lol/)
+
 ### 🔗 [Medeberiya](https://medeberiyaa.com/)
-- An entertainment website that provides the most recent direct download links to your favorite TV series, movies, and other types of content.
+- A website for entertainment that offers the most recent direct download links for your preferred TV shows, films, and other media.
 - [URL Safety Results](https://www.urlvoid.com/scan/medeberiyaa.com/)
 
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)
-
-### 🔗 [NollyVerse](https://www.nollyverse.com/)
-- Intended to cover every movie genre, from Hollywood to Bollywood, Chinese, and Korean films, as well other kind of dramas
-- [URL Safety Results](https://www.urlvoid.com/scan/nollyverse.com/)
 
 ### 🔗 [Pahe](https://pahe.li/)
 - Really good selection of the newest, best-of-breed television shows and motion pictures that also includes anime all for direct downloads.
@@ -247,7 +247,24 @@
 
 &nbsp;
 
-# 📑 3 ➜ Subtitles
+# 📑 3 ➜ Torrents
+
+### 🧲 [TorrentCue](https://torrent-cue.co/)
+- The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
+- [URL Safety Results](https://www.urlvoid.com/scan/torrent-cue.co/)
+
+### 🧲 [WatchSoMuch](https://watchsomuch.to/)
+- A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.
+- [URL Safety Results](https://www.urlvoid.com/scan/watchsomuch.to/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+
+# 📑 4 ➜ Subtitles
 
 ### 🖊️ [Addic7ed](https://www.addic7ed.com/)
 - A subtitle database for movies and TV shows with collaborative online translations by the user base into 18 different languages.
@@ -268,6 +285,16 @@
 ### 🖊️ [Subscene](https://subscene.com/)
 - Users meticulously edited and curated subtitles in multiple languages. Anyone may post and share their own subtitles with others. 
 - [URL Safety Results](https://www.urlvoid.com/scan/subscene.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+-> ![](https://take-me-to.space/FYQpFtp.png) <-
+
+# ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 
 &nbsp;
 

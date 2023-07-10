@@ -231,5 +231,15 @@
 
 &nbsp;
 
+-> ![](https://take-me-to.space/FYQpFtp.png) <-
+
+# ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
+
+&nbsp;
+
+---
+
+&nbsp;
+
 📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
 ---

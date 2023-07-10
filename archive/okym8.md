@@ -109,6 +109,7 @@
 [ILQ] A Summer Stroll (Maru, Ryu-kishi, Mirror Devil, Yamata): https://rentry.org/yuggr
 [ILQ] Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru),  Flying Force, Mirror Devil, The Boys, Class-1D): https://rentry.org/v74ss
 [SOL] Out of Place, Just in Time(Last Rite, Archangel, Ryu-kishi, Desolator): https://rentry.org/sdtpu
+[SOL] A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D): https://rentry.org/y4fad
 
 ### Sep.
 [SOL] Rosethorn gives another boring generic school thing (Rosethorn, Class 1-D): https://pastebin.com/Ksn0zJ31
