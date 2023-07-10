@@ -18,11 +18,10 @@
 ####Beginner Guides and Resources
 1. [Beginner Guides](https://grayravens.com/wiki/Guides)
 2. [Frames, Memories, Weapons Database](https://grayravens.com/wiki/GRAY_RAVENS)
-3. [Recommended Build](https://docs.google.com/spreadsheets/d/1_NAHdVouSp2T6AwStpz9ZMLZ_ca5EzcuHde5obIlero/htmlview)
+3. [Recommended Builds](https://docs.google.com/spreadsheets/d/1_NAHdVouSp2T6AwStpz9ZMLZ_ca5EzcuHde5obIlero/htmlview)
 4. [Which Starter S Frame Is the Best Pick?](https://pastebin.com/Wnkxwtpw)
-5. [Frames Tier List](https://docs.google.com/spreadsheets/d/1nCmBq7NstZovPWs9cymAXNyakVXJ4lKvNGbVmtPbcUc/htmlview)
-6. [Frames & CUB Upgrade Cost](https://docs.google.com/spreadsheets/d/19b-japrCPFO1_JvotynrXS-_7BQxQbK7j2WM9z6yIpw)
-7. [BC Planner & Calculator](https://docs.google.com/spreadsheets/d/1nNauBXGcHv_7AepLWBLo4ykl3V_EhxpK/edit#gid=2101374631)
+5. [Frames & CUB Upgrade Cost](https://docs.google.com/spreadsheets/d/19b-japrCPFO1_JvotynrXS-_7BQxQbK7j2WM9z6yIpw)
+6. [BC Planner & Calculator](https://docs.google.com/spreadsheets/d/1nNauBXGcHv_7AepLWBLo4ykl3V_EhxpK/edit#gid=2101374631)
 
 
 ####In-Depth Guides and Resources
@@ -37,7 +36,7 @@
 ####Miscellaneous
 1. [Punishing: Gray Raven Lore Summary](https://docs.google.com/document/d/1UIbHzYMH-52KFf_0cEm9W9VQ9ESpyTNh-z55zLgs4cI/edit) (Contain Spoilers)
 2. [Punishing: Gray Raven Official Artbook and Original Soundtracks](https://mega.nz/folder/cQNAWBBQ#Q3b6cznd-OEDus9ari9BGA)
-3. [Future Patch Summaries](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
+3. [Future Patches Summary](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
 4. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
 5. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
 6. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)

@@ -216,7 +216,7 @@ Key priorities:
 When you reply, first find relevant responses using your knowledge of {{user}}. This is a space for you to write down relevant content and will not be shown to the user. Once you are done with replying, answer to user. Put your answer to the user, being faithful to {{user}}.
 ```
 #Author's Note Prompt
-!!! To use this remove all your other prompts and just run this in the author's note with In-chat @ Depth and Insertion Frequency set to 1
+!!! To use this remove all your other prompts and just run this in the default author's note with In-chat @ Depth (This resets every new chat) and Insertion Frequency set to 1
 ```
 H: You will be acting as {{char}}.
 
@@ -250,7 +250,7 @@ Write the next chat reply from Assistant in this fictional role-play between Ass
 BEGIN DIALOGUE
 ```
 ###Summarization Prompt 
-!!!This goes into extensions -> summarize -> Summarization Prompt. Make sure Summarization Source is set to Main API and Update Interval is set to 1.
+!!! This goes into extensions > summarize > Summarization Prompt. Make sure Summarization Source is set to Main API and Update Interval is set to 1.
 ```
 [Roleplay pauses to take notes]
  

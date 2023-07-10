@@ -338,6 +338,8 @@
 **My - concept - Sketcher**|[1888534](https://assets.clip-studio.com/en-us/detail?id=1888534)|[DL](https://pixeldrain.com/u/1veM8wfo)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/34/85/1888534/thumbnail)
 **[JOHNNIE] Nini Pencil**|[1870056](https://assets.clip-studio.com/en-us/detail?id=1870056)|[DL](https://pixeldrain.com/u/HBLDjyec)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/00/1870056/thumbnail)
 **slippery ink**|[1978681](https://assets.clip-studio.com/en-us/detail?id=1978681)|[DL](https://pixeldrain.com/u/L1yT1kDy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/86/1978681/thumbnail)
+**Bleeding milli pen (にじみミリペン)**|[1552563](https://assets.clip-studio.com/ja-jp/detail?id=1552563)|[DL](https://pixeldrain.com/u/VBQc9dSX)|![](https://files.catbox.moe/xh8o7s.png)
+****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 
 

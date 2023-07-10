@@ -75,7 +75,7 @@
 |
 **Local Related Gits**|
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
-[Dynamic NTK Scaled RoPE](https://github.com/jquesnelle/scaled-rope)|Further improvements in kaioken's context window extension
+[Scaled RoPE](https://github.com/jquesnelle/scaled-rope)|Linear, dynamic, and NTK embeddings of scaled RoPe for LLaMa and GPTNeoX
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo for various foundational models
 [GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements
 [SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM)|3/4bit weight quantization SOTA results dense and sparse outlier handling

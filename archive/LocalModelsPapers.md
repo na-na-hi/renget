@@ -305,6 +305,8 @@
 07/2023|[Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models](https://arxiv.org/abs/2307.01379)
 07/2023|[Facing off World Model Backbones: RNNs, Transformers, and S4](https://arxiv.org/abs/2307.02064)
 07/2023|[Improving Retrieval-Augmented Large Language Models via Data Importance Learning](https://arxiv.org/abs/2307.03027)
+07/2023|[Teaching Arithmetic to Small Transformers](https://arxiv.org/abs/2307.03381)
+07/2023|[QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models](https://arxiv.org/abs/2307.03738)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

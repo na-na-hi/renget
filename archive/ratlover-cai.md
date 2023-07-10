@@ -424,6 +424,18 @@ The Steam Summer Sale is upon you. Will your wallet survive?
 [JSON](https://files.catbox.moe/7zbe9a.json)
 Be part of a cockpit duo as either the gunner or pilot in this SS13 adventure!
 
+##Anthro Adventure!
+![Anthro Adventure](https://imgur.com/ERlxUve.png)
+[Card](https://www.chub.ai/characters/ratlover/anthro-adventure)
+[JSON](https://files.catbox.moe/0iuyye.json)
+Play out an exciting adventure in a world of anthros within this RPG-styled framework.
+
+##Adventure Awaits!
+![Adventure Awaits](https://imgur.com/C16sRjg.png)
+[Card](https://www.chub.ai/characters/ratlover/adventure-awaits)
+[JSON](https://files.catbox.moe/kb0htu.json)
+Play out an exciting adventure in a fantasy world within this RPG-styled framework. Just a reskin of Anthro Adventure.
+
 #Other Stuff
 
 ##Lorebooks

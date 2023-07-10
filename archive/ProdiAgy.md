@@ -2,7 +2,6 @@
 #### -> old april guide @ rentry.co/dadaptguide <-
 #### -> written by a nerd who likes to optimize <-
 
-!!! danger At this point in time training iA3 may require the dev2 branch of bmaltais/kohya_ss until that is merged into main.
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
 
@@ -19,7 +18,6 @@
 ####USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES TOO SOON AND YOU DONT WANT TO INCREASE STEPS.
 ####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH REPETITIONS, EPOCHS, BATCH SIZE AND GRADIENT ACCUMULATION.
 ####PRODIGY IS ```DETERMINISTIC```.
-####DO NOT CARE ABOUT HOW BAD YOUR SAMPLING PREVIEWS MAY LOOK AS LONG AS THEY BEAR EVEN THE SLIGHTEST RESEMBLANCE.
 
 ####EXAMPLE OF LOSS AND LEARNING RATE RELATION:
 ![](https://imagizer.imageshack.com/img924/949/QNMtd4.png)
@@ -69,10 +67,10 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "sample_every_n_epochs": 10,
-  "sample_every_n_steps": 0,
-  "save_every_n_epochs": 10,
-  "save_every_n_steps": 0,
+  "sample_every_n_epochs": 0,
+  "sample_every_n_steps": 100,
+  "save_every_n_epochs": 0,
+  "save_every_n_steps": 100,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,
@@ -117,10 +115,10 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "sample_every_n_epochs": 10,
-  "sample_every_n_steps": 0,
-  "save_every_n_epochs": 10,
-  "save_every_n_steps": 0,
+  "sample_every_n_epochs": 0,
+  "sample_every_n_steps": 100,
+  "save_every_n_epochs": 0,
+  "save_every_n_steps": 100,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,

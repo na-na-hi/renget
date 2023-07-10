@@ -18,18 +18,19 @@
     - Loli
     - Adult
     - Furry
-    - OCs
+    - OCs (Even If I Haven't Seen The Source Material :D)
     - Copyrighted Characters
     - Dubious Consent
+    - Any POV (Shota User, Loli User, Adult Male/Female User, Etc)
 - #####"I might do it."
     - Watersports
-    - Vore
-    - Light Gore
+    - Vore (No Digestion)
+    - Light Gore (Self Harm, Somewhat Serious Injuries, Etc)
     - Rape
     - Toddlercon
 - #####"I'm not doing it..."
     - Scat
-    - Gore/Heavy Gore
+    - Gore/Heavy Gore (Fatal Injuries, Necrophilia, Etc)
     - Two Characters, One Card
 
 ***
