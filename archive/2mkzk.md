@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: MMBN2 rando postgame at 2UTC (Telemelt)**
-**FRI: Castlevania Dracula XX at 2UTC (Telemelt)** maybe 3:30 UTC
+**FRI: Castlevania Dracula XX at 2UTC (Telemelt)**
 **SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
 **SUN: Minemelt at 17UTC* (Minecraft)**
 

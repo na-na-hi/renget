@@ -92,8 +92,8 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Unreleased Cards
 |  |  | 
 | ------ | ------ |
-| **Mirabel** | https://files.catbox.moe/0e22jm.png |
-| ![Mirabel](https://files.catbox.moe/0e22jm.png) | ==Alpha== **Reverse scenario of my Helene card. You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today a bunch of thuggish guards accused Mirabel of a made up crime, intending to have their "fun" with her. But you have finally returned, just in time...** [v0.3, Claude, 30.06.23] |
+| **Mirabel** | https://files.catbox.moe/9p4lhm.png |
+| ![Mirabel](https://files.catbox.moe/9p4lhm.png) | ==Beta== **Reverse scenario of my Helene card. You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today a bunch of thuggish guards accused Mirabel of a made up crime, intending to have their "fun" with her. But you have finally returned, just in time...** [v0.3, Claude, 30.06.23] |
 | **Josie** | https://files.catbox.moe/wcla37.png |
 | ![Josie](https://files.catbox.moe/wcla37.png) | ==Prototype card== **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my mind for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
 | **Mabel** | https://files.catbox.moe/fnxd6n.png |

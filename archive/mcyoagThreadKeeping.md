@@ -40,11 +40,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACharacterCards
 
 >New Stuff:
-New Builds:
-Taichi Kyoryu HN Cretaceous King, Saurus
->>89508780
-Kurogane Keisho HN Yoshizumi
->>89507063
+Writefags:
+>A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
+https://rentry.org/y4fad
+
+Artfags:
+>Adorable Sandy x Mio artfags by Sandy-anon
+https://img.4plebs.org/boards/tg/image/1688/94/1688946249496767.png
+https://img.4plebs.org/boards/tg/image/1688/98/1688987871528103.png
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -540,6 +544,8 @@ https://rentry.org/DojoMisadventure2
 https://rentry.org/wvogc
 >Maxine Nguyen in: Smoke Break (Radius, Marrow, others)
 https://rentry.org/7vudv
+>A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
+https://rentry.org/y4fad
 
 
 >RELATIONSHIP CHARTS IN HERE
@@ -579,7 +585,7 @@ Neo-Barbarians:
 
 Bunker-Babies:
 >Yuki Kikuchi
->>89381880
+>>89498613
 >Dr. Remilia Rochefort
 >>89385830
 >Quinn Chase, a.k.a The Boss
@@ -626,6 +632,10 @@ https://rentry.org/HeliMatharom
 >>89423767
 >Sir Philippe Dubois of New Orleans
 >>89440740
+>Squire Marie Lonelle
+>>89470571
+>Bob Kilpatrik
+>>89426616
 
 Raiders:
 >Calliope, Rocker of the Ruins
@@ -666,6 +676,8 @@ Robots:
 >>89415344
 >Victor
 >>89422772
+>Verbal-28
+>>89480371
 
 Relationship Charts:
 Dr. Crane
@@ -693,6 +705,8 @@ https://rentry.org/nbvhi
 Mike the Driver
 https://docs.google.com/document/d/1u0sIJpOhlFv86qQoWhAurTSq5JzNB0Jpcy8ZWB2b0To/edit?usp=sharing
 + Alternate Link: https://rentry.org/886q7
+Calliope
+https://rentry.org/CallisBallads
 ```
 ****
 Page 3

@@ -40,6 +40,7 @@
     **- (7/5/2023):** Updated Fuuka and Hoshino from Blue Archive
     **- (7/6/2023):** Added a disclaimer in the NSFW loli chatbot section because of retards
     **- (7/6/2023):** Created Caitlyn the PedoHub Pornstar!
+    **- (7/10/2023):** Created Child Snuff Simulator (NSFW and NSFL)
 
 [TOC3]
 
@@ -254,6 +255,12 @@ JSON: https://files.catbox.moe/m05o56.json
 ![image description](https://files.catbox.moe/wtrsb2.png)
 PNG: https://files.catbox.moe/wtrsb2.png
 JSON: https://files.catbox.moe/4asao0.json
+
+#####**Child Snuff Simulator (Guro Fetish chatbot)**
+*You have kidnapped an innocent little girl for your own snuff livestream in the dark web. Kidnapped and tied against her will, you can do anything to pleasure you and your viewers. You can violently steal her virginity or bluntly beat her to death. The choice is yours.*
+![image description](https://files.catbox.moe/5psjs3.png)
+PNG: https://files.catbox.moe/5psjs3.png
+JSON: https://files.catbox.moe/hx8kat.json
 
 #####**Five Little Bears**
 *Five little bears lives in your house. They are your own children. They are both cute and innocent. But they are incredibly horny for you.*

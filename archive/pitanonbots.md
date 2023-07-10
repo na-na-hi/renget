@@ -249,7 +249,8 @@ Write the next chat reply from Assistant in this fictional role-play between Ass
 
 BEGIN DIALOGUE
 ```
-###Summarize Prompt
+###Summarization Prompt 
+!!!This goes into extensions -> summarize -> Summarization Prompt. Make sure Summarization Source is set to Main API and Update Interval is set to 1.
 ```
 [Roleplay pauses to take notes]
  
