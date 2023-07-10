@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/07/06-23/07/09 (yy/mm/dd)
+##23/07/13-23/07/16 (yy/mm/dd)
 
 ##Melts
 
-**THU: - at 2UTC ()** possibly parsec test with DoS rando
-**FRI: MMBN2 rando at 2UTC (Telemelt)** 
+**THU: MMBN2 rando postgame at 2UTC (Telemelt)**
+**FRI: Castlevania Dracula XX at 2UTC (Telemelt)** maybe 3:30 UTC
 **SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
-**SUN: Boktai at 18UTC* (Telemelt*)** possibly bug/parsec if telemelt sync issues remain
+**SUN: Minemelt at 17UTC* (Minecraft)**
 
 ##Cytubes
 

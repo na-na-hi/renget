@@ -9,7 +9,7 @@ version 0.0.4
 >The ship’s calendar reads {July 15th, 2438}.
 >you’re lost in space in a stranded single occupant spacecraft.
 >you were testing a new miniaturized FTL drive when something went wrong, either the jump controller hadn't been properly calibrated, the energy banks for the drive had been overcharged, or the FTL navigation system had been misconfigured. 
->There would be plenty of time to figure out the exact cause of the malfunction later. You're just happy to still be alive.
+>There will be plenty of time to figure out the exact cause of the malfunction later. You're just happy to still be alive.
 >Normally, when something goes wrong with an FTL drive there are no survivors.
 >From what you could guess, you had jumped far further than intended.
 >The view out of the cockpit looks totally unfamiliar, and the computer says that you are almost a thousand light years outside of charted space.

@@ -29,6 +29,23 @@ For Fluffyrock, as of now https://huggingface.co/lodestones/furryrock-model-safe
 DIRECT DL WITHOUT OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares/fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors
 WITH OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares-offset-noise/fluffyrock-576-704-832-960-1088-lion-low-lr-e27-offset-noise-e12.safetensors
 
+## How do I use vpred models?
+
+Vpred models, like Fluffyrock Terminal SNR vpred, require a few things to work properly.
+
+One thing is a .yaml file that needs to be put next to safetensors in webui\models. You can make them yourself easily enough:
+Go to webui\configs, edit the v1-inference.yaml file so it contains the line
+parameterization: "v"
+in the uppermost params section, then rename the file so it is the same as the model you want to use it with. Then move it into your models folder so it is next to the model.
+
+Or download this one and rename it, same thing. https://files.catbox.moe/6flwva.yaml
+
+Besides the .yaml, you also need to add CFG rescale, which turns down the saturation of images. Without it enabled, images tend to be super bright.
+
+Go to the extensions tab, go to Load from, and use the following URL to install: https://github.com/Seshelle/CFG_Rescale_webui. Restart the UI, and the CFG Rescale slider should appear below your usual image gen settings.
+
+Experiment with various settings for the rescale, I found that setting it to 0.7 is usually good enough.
+
 ## What is Offset Noise?
 Without going into technical details, models (and LoRAs) with Offset Noise allow for generating images with darker darks and brighter brights as compared to non-offset noise models.
 Using such models in conjunction with other offset noise LoRAs, however, tends to cause problems while generating due to "double-dipping", so handle with care.

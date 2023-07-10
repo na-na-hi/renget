@@ -461,3 +461,11 @@ Least Favorite:
 >Interactions: Relatively commonly comes to town to purchase "luxury" foods as treats for the MANY kids he feels responsible for and post time-consuming but low-difficulty jobs, near-always with one of the kids and still visibly bloodstained. Gets currency from "drastically undervaluing" items sold to Kecleon, due to prioritizing cashflow and "mail orders" over profits
 
 >Misc: Despite nickname, fucks very few of the females lured away from less-cringe but less-capable males, as it's all about not wanting to see children meet a PAINFULLY early end. Did not train to teach, does not know anywhere near enough to uplift-wank, but the paltry scraps he can recall through being a midwit, initial trauma, and isolation alongside hard-learned personal experience is still a big improvement
+
+###Porygon
+```python
+Generating biography. Please Wait.
+Generating. . .
+Biography generated!
+```
+[porygon.txt](https://rentry.org/pmdporygonbio)

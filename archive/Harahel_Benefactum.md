@@ -42,7 +42,7 @@ Fitness: [Ripped]
 #### F.M.S.U. *(Fuck My Shit Up)*
 [Everhard]+[Everwet]
 [Milky]+[Buckets Of Cum]+[Fluid Druid]
-[Arka Tanks x2]+[Arka Fountains]
+[Arka Tanks x5]+[Arka Fountains]
 [Semen Demon]
 [Hyper Fertility]+[Breeding Season]
 [Indestructible Ahoge]
@@ -64,7 +64,7 @@ Fitness: [Ripped]
 [Changeling]
 [Aqua Affinity]+[Mermania]
 [Doublethink]
-[Horns]+[Tentacles]+[Arms]+[Wings]
+[Horns]+[Tentacles]+[Arms]+[Wings]+[Seraph]
 [Mushi]+[Sleigh Beggy]
 [Auxiliary Systems]+[Bio-Immortal]
 [Demon Core]
@@ -110,7 +110,6 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Darkvision]
 [HUD]+[Status]
 [Hammerspace Inventory]
-[Dr. Frankenstein]
 [Torpor]
 [Aesthetic]
 [Permanence]+[Man Portions]
@@ -120,7 +119,6 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Wisdom Incarnate]+[Great Sage]
 [Ooga Booga]
 [Sensory Overdose]+[Flavour Flay]
-[Super Seducer]
 [Unbreakable Mind]+[Unbreakable Will]
 [Relative Realism]
 [Talk To Me]
@@ -130,9 +128,12 @@ Death Mods: [Chosen], [Afterlife Tourist], [Dual Citizen], [Reincarnation], [Orp
 [Servant]
 [Senketsu]
 [Squire]
-[A Home]+[A Manor]
+[A Home]+[A Manor]+[Regal Upgrade]
 [Knowledge x3]
+[Runman]
+[Portable Arka Core]
 [Survival Guide]
+[Spectacles]
 [Concentrated Blood Vial]
 
 #### Proficiencies
@@ -143,7 +144,7 @@ Agility | 3
 Endurance | 3
 Durability | 3
 Combat | 4
-Bardism | 2
+Bardism | 3
 Strategy | 4
 Arcane | 5
 Spatial | 3
@@ -183,7 +184,7 @@ Although they are wings by technicality—flapping and gliding is viable—their
 **Arms**
 This naga has four muscle-laden arms, each with scales spanning from her shoulders-down. The pattern present is a simple one and mirrors her tail's, but only in greater frequency. Each five-fingered hand is equipped with keen, retractable claws.
 **Tail**
-Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow.
+Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow. Around halfway down the tail is another pair of wings, just like the one at the ophidian's hips.
 **Miscellaneous**
 Her skin is smooth and silky, while her scales feel soft and pliable.
 

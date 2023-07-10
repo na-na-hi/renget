@@ -39,7 +39,7 @@ N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentr
 ??? | ? | Psyduck | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#psyduck)
 "Sentret" | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
 Flynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#flynn)
-N/A | ? | Porygon | N/A | Clover Guild Member? | *Pending*
+N/A | ? | Porygon | N/A | Clover Guild Member? | [???](https://rentry.org/vpmdcloverpb#porygon)
 "Stumpy" | M | Shroomish | N/A | Clover Guild (Native?) Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
 Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
@@ -465,7 +465,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)
 ###[Clover Lore Quick Reference](https://rentry.org/cloverlore)
-###[Clover Guild Tier List Maker](https://tiermaker.com/create/pmdg-members-15736308)
+###[Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264)
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
