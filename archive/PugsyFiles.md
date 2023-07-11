@@ -1,6 +1,6 @@
-###->==The Pugsy Experiment, or How I tried to find out if public training matters==<-
-->([Go to **main page** to see some other stuff](https://rentry.org/HochiMamaPlace))<-
-***
+!!! danger
+	###->The Pugsy Experiment, or How I tried to find out if public training matters<-
+	->([ɢᴏ ᴛᴏ ᴍᴀɪɴ ᴘᴀɢᴇ ᴛᴏ ꜱᴇᴇ ꜱᴏᴍᴇ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰ](https://rentry.co/HochiMamaPlace))<-
 
 [TOC4]
 

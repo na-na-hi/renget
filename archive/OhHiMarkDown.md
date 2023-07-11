@@ -1,6 +1,7 @@
-#==CAI markdown guide and other tricks==
-->revisited for 1.2<-
-->[(Go to **main page** to see some other stuff)](https://rentry.org/HochiMamaPlace)<-
+!!! danger
+	#CAI markdown guide and other tricks
+	->revisited for 1.2<-
+	->([ɢᴏ ᴛᴏ ᴍᴀɪɴ ᴘᴀɢᴇ ᴛᴏ ꜱᴇᴇ ꜱᴏᴍᴇ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰ](https://rentry.co/HochiMamaPlace))<-
 ***
 [TOC2]
 ##Italics

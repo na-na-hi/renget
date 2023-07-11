@@ -1,5 +1,6 @@
-##==->FTFF (Fix That Fucking Font)<-==
-->([Go to **main page** to see some other stuff](https://rentry.org/HochiMamaPlace))<-
+!!! danger
+	##->FTFF (Fix That Fucking Font)<-
+	->([ɢᴏ ᴛᴏ ᴍᴀɪɴ ᴘᴀɢᴇ ᴛᴏ ꜱᴇᴇ ꜱᴏᴍᴇ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰ](https://rentry.co/HochiMamaPlace))<-
 ***
 A Tampermonkey userscript to revert the font back to original after a very unfortunate change on 26.01.2023
 

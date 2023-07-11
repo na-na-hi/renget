@@ -397,7 +397,7 @@ The most important thing to note is to never write about what the other characte
     Depending on the model, questions can loop over and over again when starting a new chat. To prevent this, remove the leading question from the greeting message.
 
 !!! note Here's Manami's greeting message
-    *Manami enters a coffee shop in Bluudale and is about to sit down when she spots a familiar face. It's her classmate and close friend {{user}}.* Hey {{user}}, I was just about to call you after my morning coffee but *chuckles nervously* it seems like we both had the same idea. *Sits next to {{user}}* So, I was kinda struggling on some concepts for the next quantum physics exam... *lightly smiles* Do you mind helping me study?
+    *Manami enters a coffee shop in Bluudale and is about to sit down when she spots a familiar face. It's her classmate and close friend {{user}}.* Hey {{user}}, I was just about to call you after my morning coffee but *chuckles nervously* it seems like we both had the same idea. *Sits next to {{user}}* So... I was kinda struggling on some concepts for the next quantum physics exam.
 
 ## Advanced: Token Micro-optimization
 
@@ -464,6 +464,75 @@ There are definitely more ways to format an expression, but these are some that 
 
 One thing to highlight is that none of these sentences are capitalized. Capital letters actually use an extra amount of tokens. Any action that does not involve a proper noun should be lowercase to aid with token savings.
 
+## Advanced: Character Thoughts
+
+!!! Requirements
+    There are very specific requirements for this section. It is advised to run models with >2k context. This feature has only been tested on 13B and 33B models. If you ignore this warning, do so at your own risk.
+
+With new features added to SillyTavern, users can now add the ability to view a character's internal monologue and even inject their own into the conversation. Adding thoughts into the conversation can help deepen interaction if done right.
+
+It is very important to use minimalistic for this section since it's a format that minimizes token counts. Thoughts essentially double your injected context due to adding a second conversation on top of the already existing one. Compounded with World Info and Lorebooks, you will start to max out your context size a lot sooner.
+
+### How does it work?
+
+The main principle behind character thoughts is introducing an antipattern into the conversation. Generally, it's advised to avoid antipatterns since they make a conversation repetitive and uninteresting. However, we always want a character's thoughts provided in a message So making the AI establish a pattern to "always inject an internal monologue" will make the AI always say what the character is thinking before the dialogue occurs.
+
+### Character card
+
+From the character card side, all you need to do is add a thought in your greeting message. Thoughts are enclosed by any two characters you want such as backticks or angle brackets. I've had the most success with backticks, but for this guide I'll use `<` and `>` since backticks aren't markdown friendly.
+
+From my testing, I found it more immersive to write thoughts in first person. However, you can write thoughts from any perspective that you want. Third person can also be good for story or novel generation.
+
+The first thought should be related to the character's greeting. The question you should ask yourself is "what is my character thinking of when this greeting message is being performed"? After you answer that question, write it down.
+
+Your new greeting message should look like this: `<{{char}}'s thoughts: I'm going to do something later.> [Rest of the greeting message]`
+
+!!! note Here is Manami's new greeting message
+    <Manami's thoughts: I'm gonna get my morning coffee then study! Maybe I should call {{user}} later.> *Manami enters a coffee shop in Bluudale and is about to sit down when she spots a familiar face. It's her classmate and close friend {{user}}.* Hey {{user}}, I was just about to call you after my morning coffee but *chuckles nervously* it seems like we both had the same idea. *Sits next to {{user}}* So... I was kinda struggling on some concepts for the next quantum physics exam.
+
+### SillyTavern
+
+Add the string `<{{char}}'s thoughts: ` (with a space after the colon) to the `Start Reply With` section in SillyTavern under Advanced formatting. Also make sure to check the `Show reply prefix in chat` box.
+
+The setting appends the text in the AI's prompt, so the AI will always auto-fill that text with `<{{char}}'s thoughts: ` before continuing its response. The AI should also automatically close the angle brackets.
+
+![STstartreplypng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/Rough/ST-start-reply.png?raw=true)
+
+### Optional: Regex
+
+Sometimes, just using reply prefixes can cause formatting issues since you're relying on the AI to always output the correct format. To add some form of control to how thoughts are formatted, you can use regex to find and replace various parts of a chat.
+
+There are two cases you may want to use regex for thoughts:
+
+1. Proper formatting - Sometimes, the AI may improperly label thoughts or you may want a shortcut to format a thought.
+  
+2. Hiding thoughts - Thoughts will be hidden on markdown render, but not when editing a message.
+  
+
+For formatting shortcuts, I'd advise using the following regex script:
+
+![regexthoughtsuserpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/Rough/regex-thoughts-user.png?raw=true)
+
+Find Regex: `/<([^>]*)>/g`
+
+This automatically adds `{{user}}'s thoughts: ` to any part of a user's message that contains angle brackets.
+
+For fixing character responses or adding thought format to the `/sendas` slash command:
+
+![regexthoughtscharpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/Rough/regex-thoughts-char.png?raw=true)
+
+Find Regex: `/<([^>]*)>/g`
+
+This automatically adds `{{char}}'s thoughts: ` if it's not already present in an AI reply.
+
+For ignoring thoughts from Markdown rendering:
+
+![regexthoughtsmdpng](https://github.com/bdashore3/AI-Art-Guide/blob/default/chara-guide-assets/Rough/regex-thoughts-md.png?raw=true)
+
+Find Regex: `/<([^>]*)>/g`
+
+This removes all instances of angle brackets for the user and character from being rendered in the chat window. However, if you edit a message, you will see the thoughts.
+
 ## Final result
 
 Your overall character card should look like this:
@@ -508,4 +577,10 @@ Character description:
 {{char}}: Example 2 response
 {{user}}: Example 3
 {{char}}: Example 3 response
+```
+
+Character author's note:
+
+```text
+[Character: traits; Character's clothes: traits; Character's body: traits]
 ```

@@ -40,7 +40,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger Everything has been set conservatively out of consideration for you. The max you can go is d_coef 2.0 with eta_min 0.5 which I've tested and it works great. I personally use that.
+!!! danger Everything has been set conservatively out of consideration for you. The maximum I went is d_coef 2.0 with eta_min 0.5 and it works great. I personally use that.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.

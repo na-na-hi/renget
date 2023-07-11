@@ -350,3 +350,4 @@ https://arch.b4k.co/vp/thread/54055015/ 18 suffer hours
 https://arch.b4k.co/vp/thread/54059516/ 19 kaizoshit, splinter playthroughs, and more
 https://arch.b4k.co/vp/thread/54062801/ 20 sidequest hell 2
 https://arch.b4k.co/vp/thread/54067307/ 21 sidequest hell 3
+https://arch.b4k.co/vp/thread/54072949/ 22 fucking commies

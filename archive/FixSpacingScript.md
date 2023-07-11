@@ -1,7 +1,8 @@
-##==->FixSpacing (plus FixFontAndSpacing)<-==
-->([Go to **main page** to see some other stuff](https://rentry.org/HochiMamaPlace))<-
+!!! danger
+	##->FixSpacing (plus FixFontAndSpacing)<-
+	->([ɢᴏ ᴛᴏ ᴍᴀɪɴ ᴘᴀɢᴇ ᴛᴏ ꜱᴇᴇ ꜱᴏᴍᴇ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰ](https://rentry.co/HochiMamaPlace))<-
 ***
-####**How about you go to the fucking [greasyfork](https://greasyfork.org/en/scripts/462592-fixspacing2) and get it from there?**
+####**How about you go to [greasyfork](https://greasyfork.org/en/scripts/462592-fixspacing2) and get it from there?**
 
 
 Tampermonkey userscripts to make text spacing in the chats reasonable again, instead whatever the hell devs did on 16.02.2023.
