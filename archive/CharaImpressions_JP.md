@@ -866,7 +866,7 @@ Cons:
 
 ### ->Swimsuit Neneka<-
 **TL;DR - Worth a spark from initial impressions** 
-This Neneka has pretty much everything you'd want from a unit, aside from a M.def debuff to enemies. Writing about this would be too long, but all of her skills have large impact. They're basically UBs on their own, it's pretty ridiculous. A lack of M.Def debuff could mean she doesn't become omnipotent as her previous counterparts, but she doesn't even have a UE yet and is still considered a strong unit that will see CB usage. A UE may just toss her into the Neneka/NY.Neneka pantheon of units.
+This Neneka has pretty much everything you'd want from a unit, aside from a M.def debuff to enemies. Writing about this would be too long, but all of her skills have large impact. They're basically UBs on their own, it's pretty ridiculous. A lack of M.Def debuff could mean she doesn't become omnipresent as her previous counterparts, but she doesn't even have a UE yet and is still considered a strong unit that will see CB usage. A UE may just toss her into the Neneka/NY.Neneka pantheon of units.
 
 -> ![S.Neneka](https://redive.estertion.win/card/full/126631.webp) <-
 

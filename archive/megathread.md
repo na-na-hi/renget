@@ -11,7 +11,7 @@
 
 !!! note ➜ Bookmark this URL
 	- We have a complete replica of the Megathread over at our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
-    - ✅ **This Megathread is updated often. There are no quality control checks on any copies that are mirroring this one.**
+    - ✅ **This Megathread is updated often. There are no quality control checks on other copies that are mirroring this one.**
 
 !!! danger ➜ Disclaimer
 	- Any links **not included in the entire Megathread** were either not approved, or were deleted at some point.

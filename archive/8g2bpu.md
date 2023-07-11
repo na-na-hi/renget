@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. Porygon being called out by Bill ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head
 1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
 1. Booker, Chespin, and Minun's gardening Youtube channel (based on https://cloverguild.com/booru/post/414)
@@ -31,7 +32,6 @@
 1. Native mons making humansonas based on humon depictions of mankind 
 1. Percival giving Team Misfits a ride 
 1. Gill singing in Capim Town square 
-1. Porygon error 404
 1. Debby "legalize nuclear bombs"
 1. Totodile and Cyndaquil getting kicked out of a bar
 1. Phanpy throwing Torchic (rope tied) off the roof 
@@ -45,7 +45,6 @@
 1. Kiyo and Kris in maid outfits
 1. Anonmon getting pissed that the booru is down
 1. Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
-1. Tired Lliam doing paperwork
 1. Ross being immune to sleep hypnosis  
 1. "Which table you sittin' at?" Meme with the guild cafeteria
 1. A humon trying to teach a nativemon how to shitpost on 4chan
@@ -113,6 +112,10 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Porygon error 404](https://cloverguild.com/booru/post/579)
+
+[Tired Lliam doing paperwork](https://cloverguild.com/booru/post/578)
 
 [This](https://files.catbox.moe/twhhb3.png) with [the Gardevoir from "Togetic's Mind-Bending Adventure" and Toge](https://cloverguild.com/booru/post/573)
 

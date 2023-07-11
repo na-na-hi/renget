@@ -25,7 +25,7 @@ Botmaker | Category | New Bots | Updated Bots
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Volaria the witch](https://files.catbox.moe/td75ut.png)|
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Misuzu Gundou](https://files.catbox.moe/15id7x.png), [Lissa](https://files.catbox.moe/yjr9oa.png), [Tomo Aizawa](https://files.catbox.moe/4qg0ev.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Mal](https://files.catbox.moe/7bvfvv.png), [Galvantula](https://files.catbox.moe/mvulo2.png), [Maktari](https://files.catbox.moe/h1dt50.png)|
-[Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Child Snuff Simulator](https://files.catbox.moe/5psjs3.png), [Caitlyn](https://files.catbox.moe/wtrsb2.png)|
+[Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Child Snuff Simulator](https://files.catbox.moe/5psjs3.png)|
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc |[Juliet and Jessica](https://files.catbox.moe/vq4ewy.png)|
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry |[Amily](https://files.catbox.moe/0difts.png)|
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc |[David Attenbot](https://files.catbox.moe/wrn6yn.png), [Sachiko](https://files.catbox.moe/zbn1c0.png), [Amiko](https://files.catbox.moe/ynpclo.png), [Clarity](https://files.catbox.moe/rle74f.png), [The Blob](https://files.catbox.moe/kczo90.png), [Kathryn Fields](https://files.catbox.moe/exx1kf.png)|
@@ -46,7 +46,6 @@ Botmaker | Category | New Bots | Updated Bots
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc |[Naoko Yuuki](https://files.catbox.moe/uonj5k.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Karla](https://files.catbox.moe/ibt8xy.png), [Lena](https://files.catbox.moe/y8pnoh.png)|[Karla](https://files.catbox.moe/ibt8xy.png) [MV]
 [Gigasad](https://rentry.org/gigasad) | Misc |[Marnie](https://files.catbox.moe/lgaz2u.png)|
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Eirin Yagokoro](https://files.catbox.moe/x5q2y0.png)|[Eirin Yagokoro](https://files.catbox.moe/x5q2y0.png) [MV]
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Janna](https://files.catbox.moe/4llzse.png)|[Janna](https://files.catbox.moe/4llzse.png) [MV]
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Yukina](https://files.catbox.moe/mygjfp.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
@@ -56,8 +55,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Lanaea](https://files.catbox.moe/c7emz0.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||[Eirin Yagokoro](https://files.catbox.moe/x5q2y0.png)
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
-[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||[Blanchett](https://files.catbox.moe/ttrqsi.png)
+[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
