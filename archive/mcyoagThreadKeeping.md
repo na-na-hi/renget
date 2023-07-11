@@ -719,7 +719,7 @@ https://rentry.org/4cfx3
 https://rentry.org/nn577
 >Rumors of the Wasteland! (Lance)
 https://rentry.org/6nzas
->Lockley Aimes (Lockley)
+>Lockley Intro (Lockley, Ricky)
 https://controlc.com/e4e1f53b
 >When Adventure Comes Crawling (Yuki)
 https://rentry.org/adventureryuki
@@ -742,6 +742,9 @@ https://rentry.org/fxyqp
 https://rentry.org/2xzif
 >Ride Along (Isha, Kara)
 https://rentry.org/ztf4s
+>Hunting Trogs in a World Where the Ground is Lava (Lockley Aimes)
+ https://rentry.org/oobecr
+
 
 Artfags:
 >ANT KING and ants

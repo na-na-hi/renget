@@ -58,6 +58,7 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
 *Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
+*Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
 
 ##Non-vidya pastas
 Title|Link

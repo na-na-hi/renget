@@ -35,6 +35,7 @@ A general dedicated to discussion & development of AI Chatbots
 >Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chatbots.neocities.org/
 https://rentry.org/cai-list [CAI]
 https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
 https://avakson.github.io/character-editor/
@@ -72,6 +73,7 @@ services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 extra topics: https://rentry.org/aicg_extra_information
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
+aicg themed weeks -> https://rentry.org/aicgthemedweeks
 
 Previous: --Last thread here--
 ```
@@ -88,6 +90,7 @@ A general dedicated to discussion & development of AI Chatbots
 >Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chatbots.neocities.org/
 https://rentry.org/cai-list [CAI]
 https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
 https://avakson.github.io/character-editor/
@@ -128,8 +131,9 @@ key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 extra topics: https://rentry.org/aicg_extra_information
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
+https://rentry.org/aicgthemedweeks -> aicg themed weeks
 
-Previous Solider of Doom-Slain :>>94345319 (Cross-thread)
+Last: 
 ```
 
 ######OP2
@@ -166,6 +170,7 @@ aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 ▶Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chatbots.neocities.org/
 bots and resources on cai: https://rentry.org/cai-list
 meta-rentries: https://rentry.org/charcardrentrylist and https://rentry.org/meta_bot_list
 https://avakson.github.io/character-editor/
@@ -182,6 +187,7 @@ services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 extra topics: https://rentry.org/aicg_extra_information
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
+aicg themed weeks -> https://rentry.org/aicgthemedweeks
 
 Old: --Previous Thread--
 ```

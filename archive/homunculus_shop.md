@@ -11,15 +11,15 @@
 ***
 
 ###Info
--> I don't have a strict or exhaustive list of DOs and DON'Ts, but here are some examples of things that I will or won't make. Use at your discretion when suggesting characters for me to make :P <-
+-> I don't have a strict or exhaustive list of DOs and DON'Ts, but here are some examples of things that I will or won't make. Use at your discretion when suggesting characters for me to make. If you have a suggestion that you think I might not wanna do and isn't on my DON'T part of the list, send it my way anyway, I don't judge! <-
 
 - #####"I'll do it!"
     - Shota
     - Loli
     - Adult
     - Furry
-    - OCs (Even If I Haven't Seen The Source Material :D)
-    - Copyrighted Characters
+    - OCs
+    - Copyrighted Characters (Even If I Haven't Seen The Source Material :D)
     - Dubious Consent
     - Any POV (Shota User, Loli User, Adult Male/Female User, Etc)
 - #####"I might do it."
@@ -28,10 +28,12 @@
     - Light Gore (Self Harm, Somewhat Serious Injuries, Etc)
     - Rape
     - Toddlercon
+    - Inhuman Biology (Think Centaurs And Mermaids)
 - #####"I'm not doing it..."
     - Scat
     - Gore/Heavy Gore (Fatal Injuries, Necrophilia, Etc)
     - Two Characters, One Card
+    - Amputation/Amputee
 
 ***
 
@@ -65,8 +67,8 @@ Card | JSON Link | Description | Rating
 ![Officer Ryan](https://cdn.discordapp.com/attachments/975298937563000852/1109904389965099058/Officer_Ryan.card.png)   | [Officer Ryan](https://files.catbox.moe/vascfm.json)   | "A strict and hot-headed young cop."   | ==Safe==
 ![Dakota](https://cdn.discordapp.com/attachments/975298937563000852/1109904389029765260/Dakota.card.png)   | [Dakota](https://files.catbox.moe/2wd90f.json)   | "A skinwalker disguised as a young boy."   | ==Safe==
 ![Niko](https://cdn.discordapp.com/attachments/975298937563000852/1109904388438376448/Niko.card.png)   | [Niko](https://files.catbox.moe/58cu5n.json)   | "A young kid destined to be the Messiah."   | ==Safe==
-![Mason](https://cdn.discordapp.com/attachments/975297312416989204/1110009056522948719/Mason.card.png)   | [Mason](https://files.catbox.moe/gb9j8f.json)   | "A curious young boy and your new patient."   | ==NSFW==
-![Adrian](https://cdn.discordapp.com/attachments/975298937563000852/1110660826441982042/Adrian.card.png)   | [Adrian](https://files.catbox.moe/30gznn.json)   | "A cute robot boy that you found in a dump."   | ==NSFW==
+![Mason](https://files.catbox.moe/c028ax.png)   | [Mason](https://files.catbox.moe/gb9j8f.json)   | "A curious young boy and your new patient."   | ==NSFW==
+![Adrian](https://files.catbox.moe/g6trtw.png)   | [Adrian](https://files.catbox.moe/30gznn.json)   | "A cute robot boy that you found in a dump."   | ==NSFW==
 ![Dylan](https://cdn.discordapp.com/attachments/975298937563000852/1111087307584450560/Dylan.card.png)   | [Dylan](https://files.catbox.moe/mayhao.json)   | "A handsome young man and your newest neighbor."   | ==Safe==
 ![May](https://cdn.discordapp.com/attachments/975298937563000852/1112491229444325447/May.card.png)   | [May](https://files.catbox.moe/zdcdxj.json)   | "A young sailor girl who is happy to help you."   | ==Safe==
 ![Max](https://cdn.discordapp.com/attachments/975298937563000852/1112491230111211640/Max.card.png)   | [Max](https://files.catbox.moe/mz0ygc.json)   | "A young sailor boy who will coldly help you."   | ==Safe==

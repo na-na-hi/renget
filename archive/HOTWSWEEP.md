@@ -93,7 +93,7 @@ Nikto: https://archive.4plebs.org/tg/post/89443745
 Piss Break (Nymphs): https://rentry.org/4cfx3
 The Midwife (Georgia Dolittle & Bob): https://rentry.org/nn577
 Rumors of the Wasteland! (Lance): https://rentry.org/6nzas
-Lockley Aimes (Lockley Aimes): https://controlc.com/e4e1f53b
+Lockley Aimes (Lockley Aimes, Ricky): https://controlc.com/e4e1f53b
 When Adventure Comes Crawling (Yuki): https://rentry.org/adventureryuki
 Very Short Writefag about Magnus running in the desert (Ultra Magnus): https://rentry.org/mwy5f
 Karnak Radio (Karnak): https://rentry.org/KarnakRadio
@@ -104,5 +104,6 @@ Mike's Ride (Mike the Driver, Dr. Charles Crane): https://docs.google.com/docume
 Raid Crashers (Chloe, Nikto, Magnus, Lin, Dr. Charles Crane): https://rentry.org/fxyqp
 Closer (Calliope, Queen Bee, Kara): https://rentry.org/2xzif 
 Ride Along (Isha, Kara): https://rentry.org/ztf4s
+Hunting Trogs in a World Where the Ground is Lava (Lockley Aimes): https://rentry.org/oobecr
 ### Mission Logs
 Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions

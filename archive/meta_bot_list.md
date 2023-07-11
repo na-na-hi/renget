@@ -14,7 +14,8 @@
 - https://rentry.org/bots_with_expressions - small list of bots; cards with expressions only; *deprecated*
 
 ## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)
-- https://derpy.me/ccQBQ - large list of bots; cai and cards; `current`
+- https://derpy.me/0j0pw - large list of bots; cai and cards; lorebooks and manuals; `current`
+- https://derpy.me/ccQBQ - large list of bots; cai and cards; *deprecated*
 
 ## [/vp/vpcai/](https://boards.4channel.org/vp/catalog#s=vpcai)
 - https://rentry.org/vpcai - large list of bots; cai only; `current`

@@ -37,6 +37,7 @@
 [Hachiro](https://files.catbox.moe/va3spk.png)
 [Theodore](https://files.catbox.moe/27r4jc.png)
 [Ferris (not the catboy)](https://files.catbox.moe/91uqoq.png)
+[Jack](https://files.catbox.moe/myii7p.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)
