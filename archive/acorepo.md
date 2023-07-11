@@ -129,8 +129,8 @@ https://civitai.com/models/83512/steelheart-silverhawks-lycoris
 	- Willa
 https://civitai.com/models/100911/willa-thundercats-80s-version
 	- WilyKit 
+https://civitai.com/models/106700/wilykat-thundercats-80s-version
 https://civitai.com/models/102888/wilykit-thundercats-80s-version
-https://civitai.com/models/41156/wilykit-thundercats-2011
 - Dungeons and Dragons
 	+ Sheila 
 https://civitai.com/user/Montitto/models
@@ -285,6 +285,10 @@ https://civitai.com/models/102504/harley-quinn-rebirth-character-lora
 https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
 - Catwoman (Batman: TAS)
 https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-lora
+- Lois Lane (My Adventure with Superman)
+https://civitai.com/models/106235/lois-lane-my-adventures-with-superman
+	- (Superman: TAS)
+https://civitai.com/models/106283/lois-lane-the-best-version
 - Young Justice
 	+ Artemis/Tigress
 https://civitai.com/models/48751/artemistigress-young-justice-lora
@@ -307,6 +311,8 @@ https://civitai.com/models/92381?modelVersionId=98491
 - Star/Ripley Ryan (Captain Marvel)
 https://civitai.com/models/14831/star-ryan-ripley
 https://civitai.com/models/86506/star-marvel-comics
+- Kamala Khan (Ms. Marvel)
+https://civitai.com/models/107092/khamala-khan-marvel
 - Polaris (X-Factor)
 https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
 - X-Men
@@ -325,6 +331,8 @@ https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
 https://civitai.com/models/93223/gwen-stacy-the-spectacular-spider-man
 - Mary Jane (The Spectacular Spider-Man)
 https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
+	- (Spider-Man: TAS)
+https://civitai.com/models/105877/mary-jane-watson-spider-man-the-animated-series
 - Jessica Drew (Spider-Woman)
 https://civitai.com/models/95933/spider-woman-jessica-drew-lora
 - Spider-Woman 2099
@@ -638,6 +646,8 @@ https://civitai.com/models/84938/violet-parr-the-incredibles
 https://civitai.com/models/94071/voyd-the-incredibles
 	- Evelyn
 https://civitai.com/models/94292/evelyn-the-incredibles
+	+ Mirage
+https://civitai.com/models/106800/mirage-the-incredibles-disney
 - Merida (Brave)
 https://civitai.com/models/39097?modelVersionId=45024
 - Inside Out
@@ -677,6 +687,9 @@ https://civitai.com/models/104602/emily-the-corpse-bride
 https://civitai.com/models/81353/smurfette-the-smurfs
 - Katie Michelle (The Michells vs. the Machines)
 https://civitai.com/models/94146/katie-mitchell-the-mitchells-vs-the-machines
+- Fiona (Shrek)
+https://civitai.com/models/105555/princess-fiona-human-sherk-dreamworks-by-yeiyeiart-comissions-open
+https://civitai.com/models/106178/princess-fiona-ogre-sherk-by-yeiyeiart-comissions-open
 - Dawn Betterman (The Croods)
 https://civitai.com/models/72073/dawn-betterman-the-croods
 - Goldilocks (Puss in Boots)
@@ -685,7 +698,9 @@ https://civitai.com/models/72127/goldilocks-puss-in-boots
 https://civitai.com/models/92614/queen-barb-trolls
 - Kaya (Dinocore)
 https://civitai.com/models/85214/dinocore-kaya
-
+- Nimona
+https://civitai.com/models/107100/nimona-netflix-film
+https://civitai.com/models/106778/nimona-lora
 
 ## Game characters
 
@@ -806,6 +821,8 @@ https://civitai.com/models/84764/ellie-tlou-part-1-clean-lora
 https://civitai.com/models/52671/ellie-tlo2
 - Nillin (Remember Me)
 https://civitai.com/models/85650/nillin-remember-me
+- Yelena Fedorova (Deus Ex: Human Revolution)
+https://civitai.com/models/106416/yelena-fedorova-or-deus-ex-human-revolution
 - Nariko (Heavenly Sword)
 https://civitai.com/models/94099/nariko-heavenly-sword
 - Jessica Cannon (SiN) realistic
@@ -862,6 +879,8 @@ https://civitai.com/models/79439/serpieri-style-lora
 https://civitai.com/models/95373/sergio-toppi-artstyle
 - Mike Mignola (2.1 SD only)
 https://civitai.com/models/74592/mike-mignola-style-lora
+- Marc Silvestri (2.1 SD only)
+https://civitai.com/models/106029/marc-silvestri-style-lycoris
 - Dan Mumford 
 https://civitai.com/models/8211/danmumford-style-lora
 - Clay Mann 
@@ -872,8 +891,8 @@ https://civitai.com/models/91742/kilian-eng-lora-style
 https://civitai.com/models/4996/warcraft-the-lora
 - Dave Cheung
 https://civitai.com/models/47276/style-tehdave
-- Alessandro Barbucci (TI)
-https://civitai.com/models/85716/denbarbucciartstyle
+- Alessandro Barbucci 
+https://civitai.com/models/85716/denbarbucciartstyle (TI)
 - SleepyGimp
 https://civitai.com/models/70420/sleepygimp-style-lora
 - The Pit
@@ -936,7 +955,7 @@ https://civitai.com/models/66719/gta-style-or-lora
 https://civitai.com/models/84686/signalis-style-lora
 	+ Zelda CD-i
 https://civitai.com/models/6020/zelda-cdi-style-lora
-- Stipple Weave/Pixel Art
+- Stipple weave/pixel art
 https://civitai.com/models/103747/stipple-weave (*hypernetwork*)
 - N64 style
 https://civitai.com/models/81132/n64-styl
@@ -1002,7 +1021,7 @@ https://civitai.com/models/76481/rembrandt-style
 https://civitai.com/models/88888/art-by-rembrandt-harmenszoon-van-rijn
 https://civitai.com/models/96211/rembrandt-portraits-artstyle
 
-## Deleted from civit.
+## Deleted from civit
 
 - Samurai Jack backgrounds
 https://mega.nz/file/J74xzZjC#rfPMwv4qxLpwcVrj6AcGBWJU5zbwoyW1F-XXGPoMsCA

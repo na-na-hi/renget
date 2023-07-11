@@ -9,4 +9,5 @@ Welcome! I'm Hochi, and I like wasting my precious time with chatbots. If I happ
 - [A userscript to revert the new ugly font back to normal](https://rentry.org/FixThatFont)
 - [Userscript to revert the new ugly spacing (added on 16.02.23) back to normal. Not mine, hosted here with author's permission.](https://rentry.org/FixSpacingScript)
 - [CAI Markdown Guide](https://rentry.org/OhHiMarkDown)
-- [A guide on Turbo settings and botmaking](https://rentry.org/HochiTurboTips)
+- [A guide on Turbo settings, plus prompt sets for nuTurbo](https://rentry.org/HochiTurboTips)
+- [Tips on writing cards for OAI and Claude](https://rentry.org/OnWritingCards)

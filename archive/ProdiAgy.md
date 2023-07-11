@@ -4,7 +4,7 @@
 
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
-
+!!! danger iA3 UPDATE 11 JULY 2023: CLIP SKIP MAY AFFECT TRAINING HEAVILY! IM CURRENTLY TESTING IT, WAS USING CLIP SKIP 2 ON NAI UP UNTIL NOW WHICH GAVE SOME WONKY RESULTS ON CLIP SKIP 1 WHILE PROMPTING BUT CLIP SKIP 2 LOOKED FINE, ILL TEST TRAINING ON CLIP SKIP 1
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
 ##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR ADJUST SETTINGS SO IT GOES DOWN SMOOTHER.
@@ -34,6 +34,7 @@ Both function well for characters and styles given their size.
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
 !!! info iA3 doesn't need captions if you don't want them.
+!!! info iA3 is heavily affected by Clip Skip during training, if you train on Clip Skip 2 then it's best to only prompt on Clip Skip 2 and below.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
 DyLora as a last resort if you are somehow brain damaged.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
@@ -41,6 +42,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
 !!! danger Everything has been set conservatively out of consideration for you. The maximum I went is d_coef 2.0 with eta_min 0.5 and it works great. I personally use that.
+!!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
@@ -49,10 +51,9 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1200\" \"eta_min=0.250\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.250\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.000,
-  "caption_dropout_rate": 0,
-  "epoch": 120,
+  "epoch": 160,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
   "keep_tokens": 1,
@@ -60,13 +61,12 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "min_snr_gamma": 0,
-  "multires_noise_discount": 0.2,
-  "multires_noise_iterations": 8,
-  "network_dropout": 0.3,
+  "multires_noise_discount": 0.0,
+  "multires_noise_iterations": 0,
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -96,8 +96,8 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "adaptive_noise_scale": 0.000,
   "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.000\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "caption_dropout_rate": 0,
-  "conv_alpha": 512,
-  "conv_dim": 512,
+  "conv_alpha": 64,
+  "conv_dim": 64,
   "epoch": 160,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": true,
@@ -106,11 +106,11 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "min_snr_gamma": 0,
-  "multires_noise_discount": 0.2,
-  "multires_noise_iterations": 8,
-  "network_alpha": 1024,
-  "network_dim": 1024,
-  "network_dropout": 0.3,
+  "multires_noise_discount": 0.0,
+  "multires_noise_iterations": 0,
+  "network_alpha": 64,
+  "network_dim": 64,
+  "network_dropout": 0.1,
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",

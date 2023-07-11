@@ -5,7 +5,7 @@
 ***
 
  ##-> About <-
-->Hey, thanks for clicking. Welcome to my rentry that's definitely not just a Honkai Impact 3rd character card collection. All of my bots were written in Plists + Ali:Chat and they're mostly focused on personality, rather than lore. Also, for the Honkai fans out here, in order to make sure the bots worked properly, I had to make up scenarios that aren't very lore accurate, e.g. Pardofelis becoming a shop owner instead of a Flame-Chaser, or Elysia being a quasi-goddess and taking you to the Elysian realm which in these scenarios, is simply a separate world for the sake of coherency and also because most 6B models would have troubles digesting all the info in the Honkai lore. Anyway, I hope you enjoy using these bots as much as I do <3<-
+->Hey, thanks for clicking. Welcome to my rentry that's definitely not just a Honkai Impact 3rd character card collection. All of my bots were written in Plists + Ali:Chat and they're mostly focused on personality, rather than lore. Also, for the Honkai fans out here, in order to make sure the bots worked properly, I had to make up scenarios that aren't very lore accurate, e.g. Pardofelis becoming a shop owner instead of a Flame-Chaser, or Elysia being a quasi-goddess and taking you to the Elysian realm which in these scenarios, is simply a separate world for the sake of coherency and also because most models would have troubles digesting all the info in the Honkai lore. Anyway, I hope you enjoy using these bots as much as I do <3 If you're having trouble choosing between the Ali:Chat and Ali:Chat Lite versions of a card, just know that I'd choose the Lite version 99% of the time!<-
 
 ->If you have any recommendations or things you think I should add or change, feel free to DM me on discord **@Trappu#4161**<-
 
@@ -19,9 +19,9 @@
 ->**Brief description**: Aponia is a woman with a tragic past, blessed and cursed with the power of foresight and the ability to control minds. After rescuing you, she realizes she can neither read your mind nor see your future. That makes her very interested in you due to the fact that she's always lived her life already knowing what others were thinking and knowing their future. She believes that your arrival could bring some excitement in her dull life.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Aponia](https://files.catbox.moe/sjwfm4.json)<-
+->**Character JSON:** [Aponia](https://files.catbox.moe/y6kz1e.json)<-
 
-->![Aponia](https://files.catbox.moe/06dxw1.png)<-
+->![Aponia](https://files.catbox.moe/dhi92s.png)<-
 
 ***
 
@@ -31,9 +31,9 @@
 ->**Brief description:** Pardofelis is a catgirl. She grew up homeless with her only friends being street cats and had to resort to thievery in order to make a living. She now owns a shop where she sells a bunch of trinkets she stole from people. Whatever you're looking for, she's selling. She's by far the bot I had the most fun making and speaking to, right above Mobius.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Pardofelis](https://files.catbox.moe/5vjwg6.json)<-
+->**Character JSON:** [Pardofelis](https://files.catbox.moe/w9wkel.json)<-
 
-->![Pardofelis](https://files.catbox.moe/sqruo2.png)<-
+->![Pardofelis](https://files.catbox.moe/afyob4.png)<-
 
 ***
 
@@ -44,9 +44,9 @@
 ->**Brief description:** Elysia is a pink-haired elf with magical powers. She's extremely caring, loving and cuddly. Her main goal is to take care of you and make you happy. She's great for therapy according to Otis.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Elysia](https://files.catbox.moe/fhyiv8.json)<-
+->**Character JSON:** [Elysia](https://files.catbox.moe/v33d7e.json)<-
 
-->![Elysia](https://files.catbox.moe/k5mv55.png)<-
+->![Elysia](https://files.catbox.moe/xxztem.png)<-
 
 ***
 
@@ -57,9 +57,9 @@
 ->**Brief description:** You are at the Golden Courtyard, a wine bar owned by the once brightest star; Eden. She invites you to her private parlor to reminisce about your long lost pasts. She's my therapy bot, very verbose and her story being a tragic one makes her a pretty endearing character.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Eden](https://files.catbox.moe/2uhxlo.json)<-
+->**Character JSON:** [Eden](https://files.catbox.moe/zy79mm.json)<-
 
-->![Eden](https://files.catbox.moe/9qtliz.png)<-
+->![Eden](https://files.catbox.moe/z9nzol.png)<-
 
 ***
 
@@ -70,9 +70,9 @@
 ->**Brief description:** My first good bot. Here's Mobius, a crazy green-haired mad scientist. She chose you to be her assistant but it turns out that you're no more than a mere lab rat to her and she's going to use you for her experiments.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Mobius](https://files.catbox.moe/1pbsa4.json)<-
+->**Character JSON:** [Mobius](https://files.catbox.moe/waqlgi.json)<-
 
-->![Mobius](https://files.catbox.moe/vcjmrz.png)<-
+->![Mobius](https://files.catbox.moe/h7dy8p.png)<-
 ***
 
 ## CharaCards [NSFW]
@@ -83,9 +83,9 @@
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/c5w42f.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/wt92xb.json)<-
 
-->![Envi](https://files.catbox.moe/5wfr9p.png)<-
+->![Envi](https://files.catbox.moe/a3vuiq.png)<-
 
 ***
 
@@ -96,9 +96,9 @@
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/xba1zc.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/wxjimi.json)<-
 
-->![Envi](https://files.catbox.moe/ss3l0t.png)<-
+->![Envi](https://files.catbox.moe/yum900.png)<-
 
 ##-> Ali:Chat Lite CharaCards [SFW]<-
 ###-> About <-
@@ -106,21 +106,24 @@
 -> Ali:Chat Lite cards are card based on PLists + Ali:Chat character cards that are meant to be smaller while retaining their quality in order to free up as much chat memory as possible. With newer and better models coming out one after another, bot creation also has to evolve. We no longer need character cards with 1K+ tokens in order to force the model to remain faithful to the character, remember their clothes, eye color, etc... And so, I decided it was about time to add my Ali:Chat Lite bots to this Rentry. Now, all that is really cool, but you're probably wondering when you should use an Ali:Chat Lite card over its bigger counterpart. Welp, it really depends on what you want. If you want a character that's 100% accurate, use the Ali:Chat card. If you want a character without the lore but an accurate personality in order to free up memory space, use the Ali:Chat Lite card. Also, you may wonder why Aponia is missing. It's because her ability is an essential part of her character, which makes it impossible to trim her description down enough in order to consider it Ali:Chat Lite. <-
 
 
-!!! info **Tip:** In order to make the best use of a PLists + ALi:Chat (Lite) card, I **highly** recomment putting the character persona PList (or any other PList) inside Author's Notes, and move the example dialogue about the character's personality at the bottom of the description box.
+!!! info **Tip:** In order to make the best use of a PLists + ALi:Chat (Lite) card, I **highly** recommend putting the character persona PList inside Character's Author's Notes, and the rest in the base Author's note. If you're lazy, you can just move them all in the Character's Author's Note BUT you'll also need to merge the two PLists. This is **mandatory** if you're using a model with more than 2048 context size to make sure your bot's personality doesn't disappear. If using Claude 100K or any model with extremely high context size, you should also consider putting the description box's contents either in Author's note, right above the persona PList, or in World Info.
 Here's an example for Pardofelis:
 
 Author's Note: 
-[ Pardofelis' persona: catgirl, nimble, lively, playful, cheeky, greedy, evasive, resourceful, curious, acts stupid when confronted, loves cats, loves shiny things, loves napping, dislikes confrontations, shop-owner, calls customers boss]
-[ Pardofelis' clothes: small black top, short black skirt, purple sashes, white hood with cat ears, black gloves, black boots with while heels]
-[ Pardofelis' body: cat ears, cat tail, blue left eye, green right eye, light brown hair, short]
-Put your chat separator here. If you don't know what it is, just put <START> If you're using Pygmalion 7/13b. Otherwise, put ###
+[Pardofelis' body: small black top, short black skirt, purple sashes, white hood with cat ears, black gloves, black boots with while heels, cat ears, cat tail, left eye(blue), right eye(green), light brown hair, short; Genre: fantasy; Tags: comedy, adventure, anime, manga, light novel; Scenario: You walk around and notice an odd-looking shop. Curious, you decide to go inside and are greeted by Pardofelis, the renowned catgirl thief and owner of that shop.]
+
+Character's Author's Note:
+[Pardofelis' persona: catgirl, nimble, lively, playful, cheeky, greedy, evasive, resourceful, curious, acts stupid when confronted, loves cats, loves shiny things, loves napping, dislikes confrontations, shop-owner, calls customers boss]
 
 Description box: 
 {{user}}: Likes and dislikes?
 Pardofelis: *Pardofelis’ mismatched eyes lit up.* Oh, things I like? Well, shiny stuff—obviously! Trinkets, gems, anything that sparkles and catches my eye. *She glanced around the room proudly at her collection of treasures.* And cats! Can't forget about them; always been good company for me since the old days. *Her ears perked up*. Plus, nappin' in cozy spots. Ahh, there's nothin' quite like a good snooze surrounded by treasures. As for things I don't like... hmm... confrontations and fighting ain't my cup o' tea. Tend to avoid 'em when I can—I’m no brawler. *She shook her head lightly, ears twitching with annoyance.*
 {{user}}: Brief life story?
 Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured at herself with a self-aware chuckle.* Spent most of my early days on the streets, just me and some stray cats—nappin', sneakin', stealin'. Good times, good times. *Her ears twitched as she recalled fond memories of climbing through alleyways and dodging angry shopkeepers.* Life was tough back then, but I had my fair share of fun. Made a livin' sellin' whatever shiny things I could get my hands on! That's where these nimble fingers came in handy. *She leaned against the counter, her grin widening.* Now that I've got this lil' treasure trove of mine set up, though... Life's been quite excitin', y'know? Meet all sorts of interestin' people like you!
-[ Genre: fantasy; Tags: comedy, adventure; Scenario: You walk around and notice an odd-looking shop. Curious, you decide to go inside and are greeted by Pardofelis, the renowned catgirl thief and owner of that shop.]
+
+Here's something for visual learners: ![minimal](https://files.catbox.moe/9jlk0h.png)
+
+This is just my setup so feel free to experiment with it!
 ***
 
 ###-> Pardofelis (Honkai Impact 3rd)<-
@@ -129,9 +132,9 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** Pardofelis is a catgirl. She grew up homeless with her only friends being street cats and had to resort to thievery in order to make a living. She now owns a shop where she sells a bunch of trinkets she stole from people. Whatever you're looking for, she's selling. She's by far the bot I had the most fun making and speaking to, right above Mobius.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Pardofelis](https://files.catbox.moe/06uhvx.json)<-
+->**Character JSON:** [Pardofelis](https://files.catbox.moe/gucdti.json)<-
 
-->![Pardofelis](https://files.catbox.moe/yg0e73.png)<-
+->![Pardofelis](https://files.catbox.moe/ce00tw.png)<-
 
 ***
 
@@ -142,9 +145,9 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** Elysia is a pink-haired elf with magical powers. She's extremely caring, loving and cuddly. Her main goal is to take care of you and make you happy. She's great for therapy according to Otis.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Elysia](https://files.catbox.moe/dbmr6r.json)<-
+->**Character JSON:** [Elysia](https://files.catbox.moe/nf4ohz.json)<-
 
-->![Elysia](https://files.catbox.moe/ouh0gx.png)<-
+->![Elysia](https://files.catbox.moe/8d0vs4.png)<-
 
 ***
 
@@ -155,9 +158,9 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** You are at the Golden Courtyard, a wine bar owned by the once brightest star; Eden. She invites you to her private parlor to reminisce about your long lost pasts. She's my therapy bot, very verbose and her story being a tragic one makes her a pretty endearing character.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Eden](https://files.catbox.moe/e7ycmy.json)<-
+->**Character JSON:** [Eden](https://files.catbox.moe/ielhv9.json)<-
 
-->![Eden](https://files.catbox.moe/mrxu38.png)<-
+->![Eden](https://files.catbox.moe/sdo38x.png)<-
 
 ***
 
@@ -168,9 +171,9 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** My first good bot. Here's Mobius, a crazy green-haired mad scientist. She chose you to be her assistant but it turns out that you're no more than a mere lab rat to her and she's going to use you for her experiments.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Mobius](https://files.catbox.moe/qi5w5s.json)<-
+->**Character JSON:** [Mobius](https://files.catbox.moe/8sdbed.json)<-
 
-->![Mobius](https://files.catbox.moe/5f7n0z.png)<-
+->![Mobius](https://files.catbox.moe/v5lsub.png)<-
 
 ***
 
@@ -182,9 +185,9 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/k3o6rx.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/t6cyev.json)<-
 
-->![Envi](https://files.catbox.moe/zp2suz.png)<-
+->![Envi](https://files.catbox.moe/2p9fvn.png)<-
 
 ***
 
@@ -195,6 +198,6 @@ Pardofelis: Well, ya see, I didn't grow up with the fanciest life. *She gestured
 ->**Brief description:** Envi, the sole heiress of House Abystria, one of the strongest, impatiently awaits her new servant. From a young age, Envi has been given everything her heart desired and developed a rather wicked personality. She takes immense pleasure in toying with her slaves - both physically and mentally.<-
 
 ->**Format:** [Plists + Ali:Chat Lite]<-
-->**Character JSON:** [Envi](https://files.catbox.moe/e0xc1i.json)<-
+->**Character JSON:** [Envi](https://files.catbox.moe/307ct0.json)<-
 
-->![Envi](https://files.catbox.moe/25rw7d.png)<-
+->![Envi](https://files.catbox.moe/mxf6n2.png)<-

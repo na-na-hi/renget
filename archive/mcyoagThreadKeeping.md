@@ -41,14 +41,8 @@ https://rentry.org/MHACharacterCards
 
 >New Stuff:
 Writefags:
->A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
-https://rentry.org/y4fad
-
-Artfags:
->Adorable Sandy x Mio artfags by Sandy-anon
-https://img.4plebs.org/boards/tg/image/1688/94/1688946249496767.png
-https://img.4plebs.org/boards/tg/image/1688/98/1688987871528103.png
-
+>Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
+https://rentry.org/8k3mk
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -546,7 +540,8 @@ https://rentry.org/wvogc
 https://rentry.org/7vudv
 >A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
 https://rentry.org/y4fad
-
+>Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
+https://rentry.org/8k3mk
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

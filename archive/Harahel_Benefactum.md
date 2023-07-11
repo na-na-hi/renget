@@ -173,20 +173,20 @@ Dozens of pumpkin seeds acquired from a pumpkin patch tainted by Onoskelis' lewd
 The Lamia's hair is a turquoise much the same as her scales, but houses numerous fine, spaghetti-like strands of scaled serpents, which erupt from her scalp, each with the very same pitch-black hue as the bands that gird her tail's length, and reaching down to just below the shoulders—save the gravity-defying cowlick that often sways to the whims of its owner's emotions.
 Two smooth, front-swept, ivory horns adorn the gorgon's head at an angle resembling a wreath crown. The pointed ends jut out a good three inches (7.62 cm) beyond her forehead and taper abruptly.
 Benefactum's girlish face is smooth to the touch, including the fine, teal flakes of scales beneath her eyes and those in greater frequency towards her ears.
-Her ears are finned, retractable, and of a darker tone than the majority of her body, while being reminiscent of some mermaids. They have a tendency to shift about or even flap, depending on the krait's emotions, calling to mind a trait of elves.
-Her eyes are rather unremarkable, spare their reptilian pupils and iris' beautiful, rosy-pink hue.
-Within this selachian's maw, lies a lengthy tongue typical of her kind, yet her teeth—fangs, in this case—are enlongated, due to partial Vampiric heritage. These dentures, however, are not of the same length as a full vampire, though manage to retain the same associated sharpness.
+Her ears are finned, retractable, and of a darker tone of turqoise than the majority of her body, while being reminiscent of some mermaids in structure. They have a relatively high freedom of motion and tend to wiggle or even flap when the ohphidian's emotions get the better of her.
+Her eyes are rather unremarkable, spare their reptilian pupils and iris' captivating, rosy-pink hue.
+Within melusine's maw, lies a lengthy tongue typical of her kind, yet her teeth—fangs, specifically—are enlongated, due to partial Vampiric heritage. These dentures, however, are not of a length to be expected from a full Vampire, despite being a Lamia.
 **Chest**
 Light and sparse scale freckling patterns Benefactum's chest, while her large breasts remain unblemished, their size belying the musculature that lies beneath.
 **Back**
 The melusine's wings, rather than being higher on her back, are situated more towards the lower back—reasonably above her hips, yet are still classified as hip wings. The retractable appendages themselves are a shade of aqua, albeit a much darker variant. The coloration may, in part, be due to mixed ancestry.
 Although they are wings by technicality—flapping and gliding is viable—their primary function serves to assist in swimming.
 **Arms**
-This naga has four muscle-laden arms, each with scales spanning from her shoulders-down. The pattern present is a simple one and mirrors her tail's, but only in greater frequency. Each five-fingered hand is equipped with keen, retractable claws.
+This naga has four muscle-laden arms, each with scales spanning from her shoulders-down. The pattern present is a simple one, mirroring her tail's. Each five-fingered hand is equipped with keen, extendable claws.
 **Tail**
-Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow. Around halfway down the tail is another pair of wings, just like the one at the ophidian's hips.
+Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow. Around halfway down the tail is another pair of wings, just like the one at the ophidian's hips. From the posterior of her torso to the tail's tip, the length totals to 20' (6.1 m).
 **Miscellaneous**
-Her skin is smooth and silky, while her scales feel soft and pliable.
+Her skin is smooth and somewhat silk-like, while her scales feel soft and pliable, unlike what one would expect from a snake's scales.
 
 #### Changeling Appearance
 **Head**

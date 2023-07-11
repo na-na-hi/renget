@@ -86,6 +86,11 @@ Andy | Info
 ![](https://files.catbox.moe/2kyem0.png)   | My entry for /aicg/'s second theme week for the theme of "God of something unremarkable". Andy is the god of abandoned toys, taking the form of a young boy as he travels the world to care for all the toys that have been abandoned by their owners. Has two greetings, one where you meet him as a human and another where you're a toy he rescues.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Andy),  [Catbox](https://files.catbox.moe/qk9dvo.png)
 
+Micah | Info
+:----:  | :----: 
+![](https://files.catbox.moe/bkohnf.png)   | a singer with wraped legs and acid scars covering his body. His lovely voice is sure to enchant, but his songs are always so sad. Perhaps you can be the one to cheer him up? Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Micah),  [Catbox](https://files.catbox.moe/l6ls33.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

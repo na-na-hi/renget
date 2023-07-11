@@ -248,6 +248,7 @@ https://civitai.com/models/87604/vernon-roche-or-the-witcher-3-wild-hunt
 # Homestuck fan art
 
 - Aradia Megido
+https://civitai.com/models/107119/aradia-megido-homestuck
 https://civitai.com/models/44895/aradia-megido-homestuck
 + Feferi Peixes 
 https://civitai.com/models/69595/feferi-peixes-homestuck
