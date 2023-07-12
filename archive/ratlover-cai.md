@@ -175,6 +175,13 @@ The spymaster from Morrowind. A martial arts expert, with a penchant for skooma 
 [JSON](https://files.catbox.moe/a7qhtk.json)
 A lowly duke in a world filled with magical God-Kings.
 
+##Huig Nooteboom
+![Huigh](https://imgur.com/FOXAbAC.png)
+[CAI](https://beta.character.ai/chat?char=Wtvzx_jJz-bUZ3GZcyNiiD8D-x3wU3jguQq6-TL1qAw)
+[Card](https://www.chub.ai/characters/ratlover/huig-nooteboom)
+[JSON](https://files.catbox.moe/x2an2x.json)
+A Dutch privateer working in the East Indies. Speaks in broken English, so be prepared for something completely incomprehensible.
+
 #Women
 
 ##Ami

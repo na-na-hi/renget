@@ -86,12 +86,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)  | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) |  [Anchorage Logs (WIP)](https://rentry.org/vkvdpm) | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) | [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) | [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
-7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) | [Anchorage (Rough Draft)](https://rentry.org/RibombeeAnchorage)
+7 | [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) | [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive) | [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo) | | [Billy vs Porygon](https://rentry.org/BillyVSPorygon) | [Anchorage (Rough Draft)](https://rentry.org/RibombeeAnchorage)
 8 | [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx)  | | [Cold Awakening (Part 1/2)](https://rentry.org/5znx3)| | | [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z) 
 9 | [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy) | | [Tybo's Mt. Freeze Misadventure](https://rentry.org/29rba) | | | [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
 10 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | | [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
 11 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | | [Debby's Diary](https://rentry.org/DebbysDiary)
-12 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | |
+12 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | | [The Greatest Human Hunter](https://rentry.org/hunt3r)
 13 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Ross's Origin](https://rentry.org/qag5t) | | |
 14 | [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c) | | [Jimmy Your Ghoul](https://rentry.org/7cwwk) | | |
 15 | [Go to Bed: Part 2 (ft. Chespin)](https://rentry.org/2dvef) | | [Percival's Grand Entrance](https://rentry.org/5ne4g) | | |
@@ -101,7 +101,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 19 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq) | | [A New World](https://rentry.org/sm6dx) | | |
 20 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
 21 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696) | | [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)| | |
-22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | | | |
+22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) | | |
 23 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | | | |
 24 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | | | |
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | | | |
@@ -150,11 +150,16 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 68 | [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) | | | | |
 69 | [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2) | | | | |
 70 | [Descent (Part 1: Rumination)](https://rentry.org/gfm47) | | | | |
-71 | | | | | |
-72 | | | | | |
-73 | | | | | |
-74 | | | | | |
-75 | | | | | |
+71 | [Sterling's Purpose ch.1](https://rentry.org/4uw36) | | | | |
+72 | [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi) | | | | |
+73 | [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4) | | | | |
+74 | [Sterling's Purpose ch.2](https://rentry.org/fau75) | | | | |
+75 | [Grandma's Cookies](https://rentry.org/o4cme) | | | | |
+76 | [Sterling's Purpose ch.3](https://rentry.org/kcqy3) | | | | |
+77 | [Sterling's Purpose ch.4](https://rentry.org/bdc4o) | | | | |
+78 | | | | | |
+79 | | | | | |
+80 | | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 
@@ -222,6 +227,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
 	* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0)
+    * [The Greatest Human Hunter](https://rentry.org/hunt3r)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -233,7 +239,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 	* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2)
 	* [Debby's Diary](https://rentry.org/DebbysDiary)
-	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi) *Not on Table*
+	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -242,7 +248,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
-	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon) *Not on Table, Non-Canon*
+	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -262,7 +268,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 * Margaret the Lilligant !!
-	* [Grandma's Cookies](https://rentry.org/o4cme) *Not on Table*
+	* [Grandma's Cookies](https://rentry.org/o4cme)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * (Gus the) Oshawott
@@ -308,14 +314,15 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
 * Sterling the Clampearl !!
-	* [Sterling's Purpose ch.1](https://rentry.org/4uw36) *Not on Table*
-	* [Sterling's Purpose ch.2](https://rentry.org/fau75) *Not on Table*
-	* [Sterling's Purpose ch.3](https://rentry.org/kcqy3) *Not on Table*
+	* [Sterling's Purpose ch.1](https://rentry.org/4uw36)
+	* [Sterling's Purpose ch.2](https://rentry.org/fau75)
+	* [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
+    * [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
 * Stumpy the Shroomish
 	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
 	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) 
-	* [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4) *Not on Table*
+	* [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4)
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -453,15 +460,17 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Descent (Part 1: Rumination)](https://rentry.org/gfm47)
 * {||} [Sterling's Purpose ch.1](https://rentry.org/4uw36)
 * {||} [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
-* {||} [Billy vs Porygon](https://rentry.org/BillyVSPorygon) *Non-Canon*
+* {||} [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 * {||} [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4)
 * {||} [Sterling's Purpose ch.2](https://rentry.org/fau75)
 * {||} [Grandma's Cookies](https://rentry.org/o4cme)
 * {||} [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
+* {||} [The Greatest Human Hunter](https://rentry.org/hunt3r)
+* {||} [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
-[Clover Drawboard Request List](https://rentry.org/8g2bpu)
+[Clover Drawboard Request List](https://rentry.org/CloverDrawRequest)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)
 ###[Clover Lore Quick Reference](https://rentry.org/cloverlore)
@@ -470,11 +479,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
 Notes/List to do
--Sort out the character list; inactive members go to bottom and active members go to top. Possible purge on members that only made one or two posts? (need discussion, maybe). In that note, also include personality blurb for sorting. Inactivve goes to a different table
--Remake the General Info (and maybe put it at the top of character list?)
--If the one responsible has time, conduct a survey on Guild affinity chart, Story timeline, and Minor characters (notable at least) that appears on the stories to everyone (in thread) and update based on the results and do it periodically maybe once a month or every 2 months?  (PS. Is the Aura Bow Personalities necessary to be put there?)
--Possibly remake the whole writing section table as some fields are more used than others. 
--Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (?)
--This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (requires discussion).
--Lore Quick Reference needs some update.
--Rentry page archive needs update.
+-Sort out the character list; inactive members go to bottom and active members go to top. Possible purge on members that only made one or two posts? (need discussion, maybe). In that note, also include personality blurb for sorting. Inactive goes to a different table (pending)
+-If the one responsible has time, conduct a survey on Guild affinity chart, Story timeline, and Minor characters (notable at least) that appears on the stories to everyone (in thread) and update based on the results and do it periodically maybe once a month or every 2 months?  (PS. Is the Aura Bow Personalities necessary to be put there?) (pending)
+-Possibly remake the whole writing section table as some fields are more used than others. (pending)
+-Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (pending)
+-This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (pending)
+-Rentry page archive needs update. (pending)
+-Should the character based stories like Margaret the Lilligant be under Debby's as authorship? Because I think it's a bit redundant. (not yet discussed)
+-People that have a separate rentry for their personality blurb, should it be in the main personality blurb page among the others for the sake of convenience (...I think)? (not yet discussed)
+-What to do with the Expedition suggest doc (not yet discussed)

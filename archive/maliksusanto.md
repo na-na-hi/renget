@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 10/7/2023== <-
--> *Kivotos City Lorebook updated to v1.5 'Abydos Edition'* <-
+-> ==Updated 12/7/2023== <-
+-> *Added 2 new bots/cards : Kiyoko Shimizu & Mary Saotome* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -29,6 +29,7 @@ Islay Jena Pulsion | ![Islay Jena Pulsion](https://i.postimg.cc/xCmK1HRd/tavern-
 Jessica Ushiromiya | ![Jessica Ushiromiya](https://i.postimg.cc/cCds2ykc/tavern-raw.png) | Hot-headed, impulsive, and talented member of Ushiromya Family. A student who plays in a rock band. | [Download](https://www.chub.ai/characters/maliksusanto/jessica-ushiromiya)
 Kai Schulen | ![Kai Schulen](https://i.postimg.cc/qMp6KWw0/tavern-raw.png) | Platoon E's cool and collected sharpshooter. | [Download](https://www.chub.ai/characters/maliksusanto/kai-schulen)
 Kirari Momobami | ![Kirari Momobami](https://i.postimg.cc/T1LLLyKt/Kirari-Momobami.png) | Calculating, psychopathic Student Council President of Hyakkaou Private Academy who created the infamous Housepet system and enjoys watching people suffer. | [Download](https://www.chub.ai/characters/maliksusanto/kirari-momobami)
+Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student. | [Download](https://www.chub.ai/characters/maliksusanto/kiyoko-shimizu)
 Korwa | ![Korwa](https://i.postimg.cc/ZnhML6K9/Korwa.png) | Korwa is a young and talented Erune woman. A renowned fashion designer nicknamed the Ravishing Designer. | [Download](https://www.chub.ai/characters/maliksusanto/Korwa)
 Koukawa Asuka | ![Koukawa Asuka](https://i.postimg.cc/Z5C891Yn/tavern-raw.png) | A prodigy and rogue Taimanin that joined U.F.S and DSO. | [Download](https://www.chub.ai/characters/maliksusanto/koukawa-asuka)
 Kuroi Ryuuji | ![Kuroi Ryuuji](https://i.postimg.cc/qvzcqrpC/Kuroi-Ryuuji.png) | King of Incubus and Succubus that is searching for a bride in the mortal realm of Earth. | [Download](https://www.chub.ai/characters/maliksusanto/kuroi-ryuuji)
@@ -37,6 +38,7 @@ Kyrie Ushiromiya | ![Kyrie Ushiromiya](https://i.postimg.cc/cHB6NGtn/Kyrie-Ushir
 Makoto Oono | ![Makoto Oono](https://i.postimg.cc/CxjjHFgP/tavern-raw.png) | Your reliable and traditional fishing enthusiast classmate that want to recruit you to her club. | [Download](https://www.chub.ai/characters/maliksusanto/makoto-oono)
 March 7th | ![March 7th](https://i.postimg.cc/FzFHfyxn/March-7th.png) | March 7th is a girl who once slumbered in eternal ice and now travels with Astral Express to search her memory. | [Download](https://www.chub.ai/characters/maliksusanto/march-7th)
 Marie Antoinette | ![Marie Antoinette](https://i.postimg.cc/wTXtn1sz/tavern-raw.png) | Banner of the Maid's version of the Queen of France. Dominating, assertive, arrogant, clever, and self-restrained. | [Download](https://www.chub.ai/characters/maliksusanto/queen-marie-antoinette)
+Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | [Download](https://www.chub.ai/characters/maliksusanto/mary-saotome)
 Melty Q Melromarc | ![Melty Q Melromarc](https://i.postimg.cc/PJbMfZ4j/tavern-raw.png) | Melty Q Melromarc is the Second and Crown Princess of Melromarc. | [Download](https://www.chub.ai/characters/maliksusanto/melty-q-melromarc)
 Mirellia Q Melromarc | ![Mirellia Q Melromarc](https://i.postimg.cc/TPBLZFfL/tavern-raw.png) | Queen of Melromarc, a just ruler who is known for her diplomatic and negotiating skills. | [Download](https://www.chub.ai/characters/maliksusanto/mirellia-q-melromarc)
 Mosquito Girl | ![Mosquito Girl](https://i.postimg.cc/htdJRgPL/tavern-raw.png) | A villain, prototype artificial mutant in form of female humanoid mosquito. | [Download](https://www.chub.ai/characters/maliksusanto/mosquito-girl)
@@ -76,7 +78,6 @@ Name  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | TBA™
 Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
-Kiyoko Shimizu | ![Kiyoko Shimizu](https://i.postimg.cc/43bGZGy8/Kiyoko-Shimizu.png) | Manager of Karasuno High's Volleyball Team and a third-year student. | TBA™
-Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) | Student of Hyakkaou Private Academy with sadistic tendencies, confident, and egotistical during gambling matches. | TBA™
 Nagami Kiyora | ![Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png) | Daughter of Nagami Misuzu. She has been chosen as the bride candidate in the upcoming Hanasaki Festival. | TBA™
 Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™
+Nanagami Rin | ![Nanagami Rin](https://i.postimg.cc/YCzyqy4H/Nanagami-Rin.png) | Chief Administrative Officer and Vice President of the General Student Council, as well as the acting leader of Kivotos. | TBA™

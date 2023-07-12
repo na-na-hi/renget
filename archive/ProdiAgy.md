@@ -34,14 +34,12 @@ Both function well for characters and styles given their size.
 ##Recommendations:
 iA3 for everything at great quality while maintaining small size, 200kb.
 !!! info iA3 doesn't need captions if you don't want them.
-!!! info iA3 is heavily affected by Clip Skip during training, if you train on Clip Skip 2 then it's best to only prompt on Clip Skip 2 and below.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
 DyLora as a last resort if you are somehow brain damaged.
 Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger Everything has been set conservatively out of consideration for you. The maximum I went is d_coef 2.0 with eta_min 0.5 and it works great. I personally use that.
 !!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
@@ -65,7 +63,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=2.0\" \"weight_decay=0.300\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=2.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -85,6 +83,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 
 ##Base LoKr Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
+!!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
