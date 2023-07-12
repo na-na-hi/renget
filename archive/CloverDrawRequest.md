@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
 1. Porygon being called out by Bill ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head
 1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.

@@ -22,6 +22,8 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
  ![T](https://files.catbox.moe/9bl5vz.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/9bl5vz.png)
+ ![T](https://files.catbox.moe/hjj7qe.png) | Tyrande and Ash'alon | Fempov double-team furry rape, Warcraft. | [Catbox](https://files.catbox.moe/hjj7qe.png)
+
 
 ###Narrator bots
 Add them to your group chats for fun. You can also rip their descriptions and put in your jailbreak, but this gives you more control.

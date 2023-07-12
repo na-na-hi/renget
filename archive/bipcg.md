@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>AFU having a blast
+https://files.catbox.moe/zszf5r.mp4
+>Irish merc runs away
+https://files.catbox.moe/w26wyk.mp4
+>Bradley looked disgusting, engine running. Very very disrespectful.
+https://files.catbox.moe/ooky47.mp4
+>M1114 gets banged by lancet-chan
+https://files.catbox.moe/av9l9h.mp4
 >UKRAINE SURRENDER
 https://files.catbox.moe/pgmejg.MP4
 >RUSSIAN HUNTER PHONK

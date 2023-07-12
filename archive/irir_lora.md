@@ -72,6 +72,7 @@ v12がDAdaptLionでv12pがProdigy
 dlがDAdaptLionでpdがProdigy
 ![Image](https://files.catbox.moe/lv81o9.jpg)
 えーっと、何が変わったのか、分かりません
+ProdigyはDyLoRAを使わないならあまり意味はなさそう。
 
 ### DAdaptation系の注意
 - LRは1を強く推奨。
@@ -383,7 +384,7 @@ white capeletと衣装を指定したらすべていい感じに再現した。
 ## その他
 ### LyCORISはやめとけ
 LyCORISのメリット:
-- 専用のアルゴリズム(loha,lokr,ia3)が使用できる。低Dimでの品質低下を抑えられる
+- 専用のアルゴリズム(loha,lokr,ia3)が使用できる。実質的なdim数がdim^2になる。
 
 デメリット:
 - loha系は重い(学習時間増加)
@@ -391,4 +392,4 @@ LyCORISのメリット:
 - loha系にしても品質向上なし
 - LoCon(C3Lier)での学習は標準のnetworks.loraでもできる
 
-このデメリットでファイルサイズを減らす価値を見いだせないし、LoConが標準で使えるからいらない子やね
+このデメリットでDim削ってファイルサイズを減らす価値を見いだせないし、LoConが標準で使えるからいらない子やね

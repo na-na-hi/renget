@@ -41,12 +41,8 @@ https://rentry.org/MHACharacterCards
 
 >New Stuff:
 Artfags:
->Chad Drekus
-https://i.4pcdn.org/tg/1689111458994290.png
->Breakdancing Kampai
-https://i.4pcdn.org/tg/1689111520015699.png
->Smug Gun Nun
-https://i.4pcdn.org/tg/1689121386544602.png
+>Alzheimers Girl
+https://i.4pcdn.org/tg/1689183997634516.png
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -754,7 +750,7 @@ https://img.4plebs.org/boards/tg/image/1688/20/1688203845380353.png
 https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
 >Nikto's ronin drip
 https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
->Isha's wary cry
+>Isha's war cry
 https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 ```
 #The City (Reboot)

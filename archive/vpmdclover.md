@@ -6,59 +6,60 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-"Lliam" | M | Meowstic | N/A | Clover Guildmaster| [Modest](https://rentry.org/vpmdcloverpb#lliam)
-Nick | M | Vulpix | Shinx (Amelia, F, Quiet) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nick)
-Charm/Smokey | F | Charmander | Natu (M) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmsmokey)
-Booker | M | Ribombee | Sneasel (F, Hasty) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#booker)
+"Lliam" | M | Meowstic | N/A | Clover Guildmaster | [Modest](https://rentry.org/vpmdcloverpb#lliam)
+Nick | M | Vulpix | Shinx (Amelia, F, Quiet, Native) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nickamelia)
+Booker | M | Ribombee | Sneasel (F, Hasty, Native) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#bookersneasel)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
-Augustus 'Gus' | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
-Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina) *Pending*
-KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc-the-combusken)
-Kaiji  | M | Meowth, Alolan | Absol (Kris, M) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaiji)
-N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdcloverpb#skiddo) *Pending*
-Beast | M | Munchlax | N/A | Clover Guild Native Chef |  [???](https://rentry.org/vpmdcloverpb#beast)
-N/A | M | Phanpy | Cyndaquil (M) & Torchic (F) & Totodile (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
-N/A | M | Chespin | Wooper (M) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#chespinwooper)
-N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye) *Pending*
-Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
-Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
-Acrab | M | Krabby | N/A | Clover Guild Member | Hasty
+Augustus "Gus" | M | Oshawott | N/A | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#augustus)
+KFC | M | Combusken | N/A | Clover Guild Native Member | [Hardy](https://rentry.org/vpmdcloverpb#kfc)
+Kaiji | M | A-Meowth | Absol (Kris, M, Native) | Clover Guild Conmon/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#kaijikris)
+Beast | M | Munchlax | N/A | Clover Guild Native Chef | [Serious](https://rentry.org/vpmdcloverpb#beast)
+N/A | M | Phanpy | Cyndaquil (M, Human), Torchic (F, Human) & Totodile (M, Human) | Clover Guild Member | [Serious](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
+N/A | M | Chespin | Wooper (M, Native) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#chespinwooper)
 Ross | M | Smeargle | N/A | Clover Guild Member | [Insomniac](https://rentry.org/vpmdcloverpb#ross)
+N/A | M | Togetic | Dewott (M, Human, Former Partner) | Clover Guild "Secret" Quartermaster | [Timid](https://rentry.org/vpmdcloverpb#togetic)
+Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
+Kiyo | M | A-Vulpix | Sandshrew (Cassie, F, Native) & Fletchling (Bean, M, Human) | Clover Guild Native Member/Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
+Smith | M | Skourpi | Furret (F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
+Gill | M | H-Growlithe | Growlithe (Bill, M, Human) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#gillbill)
+N/A | F | Pikachu | Ampharos (M, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
+Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Member |[Docile](https://rentry.org/vpmdcloverpb#clarasmoke)
+Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fynn)
+N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#porygon)
+Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
+Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
+Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
+Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
+Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
+N/A | F | Minun | Raichu (M, Native) | Clover Guild Gardener/Bounty Hunter | [Jolly](https://rentry.org/vpmdcloverpb#minunraichu)
+Charm/Smokey | F | Charmander | Natu (M, Native) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmnatu)
+Tooca | F | Snivy | Axew (Lapi, M, Gentle, Native) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
+N/A | M | Skiddo | N/A | Clover Guild Transport | [???](https://rentry.org/vpmdcloverpb#skiddo)
+Bullet | M | Noivern | Indeedee (Mimi, F, Careful, Native) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bulletmimi)
+Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina)
+N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye)
+Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
+Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
+Acrab | M | Krabby | N/A | Clover Guild Member | [Hasty](https://rentry.org/vpmdcloverpb#acrab)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)
 Percival | M | Corviknight | N/A | Clover Guild Explorer/Transport | [Naïve](https://rentry.org/vpmdcloverpb#percival)
-N/A | F | Minun | Raichu (M) | Clover Guild Gardener/Bounty Hunter | Jolly
-N/A | M | Togetic | Dewott | Clover Guild "Secret" Quartermaster | [Timid](https://rentry.org/vpmdcloverpb#togetic)
-"Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrot)
-Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
-Kiyo | M | Vulpix, Alolan | Sandshrew (Cassie, F) & Fletchling (Bean, M, hum) | Clover Guild Member/Native Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
-Smith | M | Skourpi | Furret (F) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
-Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#vivi) *Pending*
-Avalon "Ava" | F | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
-??? | M | Growlithe, Hisuian | N/A | Clover Guild Member | *Pending*
-N/A | F | Pikachu | Ampharos (?) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
-??? | ? | Psyduck | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#psyduck)
-"Sentret" | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
-Flynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#flynn)
-N/A | ? | Porygon | N/A | Clover Guild Member? | [???](https://rentry.org/vpmdcloverpb#porygon)
-"Stumpy" | M | Shroomish | N/A | Clover Guild (Native?) Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
-Tooca | F | Snivy | Axew (Lapi, M, Gentle) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
-Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#solid-linoone)
-Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
-Bullet | M | Noivern | Indeedee (Mimi, F, Careful) | Rescue Team/Clover Guild Affiliated | [Lax](https://rentry.org/vpmdcloverpb#bullet)
-Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
+"Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F, Native) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrothazel)
+Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+Vivi | F | Sylveon | Pikachu (CC, F) & Absol (Deedee, F) | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#viviccdeedee)
+Sentret | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
 Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | [Quiet](https://rentry.org/vpmdcloverpb#concord)
-Adelaid | F | Voltorb | Drowzee (Dahpi, M)| Rescue Team | 
-Sotto | M | Mawile | | Clover Guild Native Member/Veteran Explorer | Careful
-Nigel | M | Absol | | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#Nigel)
-Skull | M | Cubone | | Clover Guild Member | Quiet
-| | Shelgon | Jangmo-o | Clover Guild Member |
-| | Pansage | | Clover Guild Gourmet Connoisseur |
-| | Zangoose | | Clover Guild Member |
- | | Cyndaquil | | Clover Guild Member |
- | M | Vibrava | | Outsider | Quiet
- | M | Quilava | | Outsider | Jew-mon
- | M | Mudkip | | Outsider | MEME CLOWN
-Clara | F | Lucario | Smoke (Human, M, shares body with Clara)||[Docile](https://rentry.org/imwuw)
+Adelaid | F | Voltorb | Drowzee (Dahpi, M, Native)| Rescue Team | [???](https://rentry.org/vpmdcloverpb#adelaiddahpi)
+Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Careful](https://rentry.org/vpmdcloverpb#sotto)
+Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#nigel)
+Skull | M | Cubone | ??? | Clover Guild Member | [Quiet](https://rentry.org/vpmdcloverpb#skull)
+??? | ? | Shelgon | Jangmo-o | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#shelgonjangmo-o)
+??? | ? | Pansage | ??? | Clover Guild Gourmet Connoisseur | [???](https://rentry.org/vpmdcloverpb#pansage)
+??? | ? | Zangoose | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#zangoose)
+??? | ? | Cyndaquil | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#cyndaquil)
+??? | M | Vibrava | ??? | Outsider | [Quiet](https://rentry.org/vpmdcloverpb#vibrava)
+??? | M | Quilava | ??? | Outsider | [Jew-mon](https://rentry.org/vpmdcloverpb#quilava)
+??? | M | Mudkip | ??? | Outsider | [MEME CLOWN](https://rentry.org/vpmdcloverpb#mudkip)
+??? | ? | Psyduck | ??? | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#psyduck)
 
 ####[Minor Characters Table](https://rentry.org/pmdg_clover_minor)
 [Minor Characters Personaility List](https://rentry.org/pmdg_clover_minor_personalities)
@@ -479,12 +480,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
 Notes/List to do
--Sort out the character list; inactive members go to bottom and active members go to top. Possible purge on members that only made one or two posts? (need discussion, maybe). In that note, also include personality blurb for sorting. Inactive goes to a different table (pending)
 -If the one responsible has time, conduct a survey on Guild affinity chart, Story timeline, and Minor characters (notable at least) that appears on the stories to everyone (in thread) and update based on the results and do it periodically maybe once a month or every 2 months?  (PS. Is the Aura Bow Personalities necessary to be put there?) (pending)
 -Possibly remake the whole writing section table as some fields are more used than others. (pending)
 -Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (pending)
 -This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (pending)
 -Rentry page archive needs update. (pending)
 -Should the character based stories like Margaret the Lilligant be under Debby's as authorship? Because I think it's a bit redundant. (not yet discussed)
--People that have a separate rentry for their personality blurb, should it be in the main personality blurb page among the others for the sake of convenience (...I think)? (not yet discussed)
 -What to do with the Expedition suggest doc (not yet discussed)
