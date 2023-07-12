@@ -18,14 +18,13 @@ Future Release Dates:
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
-「!」Booster Course Wave 5 Patch Notes
+「!」Booster Course Wave 5 Patch Notes (+ Petey Piranha, Wiggler & Kamek)
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
+https://www.reddit.com/r/mariokart/comments/14xd0tw/mk8dx_version_240_all_balance_changes_and_new/
 「!」New 2D Mario - Super Mario Bros WONDER Revealed
 https://www.youtube.com/watch?v=JStAYvbeSHc
 「!」WarioWare Move It! Revealed
 https://www.youtube.com/watch?v=z4kkqicAeG0
-「!」Petey Piranha, Wiggler & Kamek are coming to Mario Kart 8 Deluxe
-https://www.youtube.com/watch?v=1Qo6afYUo_w
 「!」Mario + Rabbids: Sparks of Hope: The Last Spark Hunter DLC Trailer 
 https://www.youtube.com/watch?v=pt6x7TwvqOk
 「!」Luigi's Mansion Dark Moon for Switch Revealed

@@ -14,7 +14,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3
 ->Image<- | ->--------------------Name--------------------<- | ->--------------------Description--------------------<- | ->Link<-
 --- | --- | --- | ---
 ![Visit chub page for the img sauce](https://files.catbox.moe/jkdc19.png) | Strip Rock Paper Scissors | Play Strip RPS against someone. | [CHUB](https://www.chub.ai/characters/creamsan/strip-rock-paper-scissors)
-![Ōsama Game](https://files.catbox.moe/hnvyz5.png) | Ōsama Game | You are playing the Ōsama game with your fellow club members. You can command the most depraved things you want. | [CHUB](https://www.chub.ai/characters/creamsan/osama-game)
+![Ōsama Game](https://files.catbox.moe/4nvdrz.png) | Ōsama Game | You are playing the Ōsama game with your fellow club members. You can command the most depraved things you want. | [CHUB](https://www.chub.ai/characters/creamsan/osama-game)
 ![Visit chub page for the img sauce](https://files.catbox.moe/hoyrrw.png) | Among Lust | Identify and eliminate the monster among the girls. | [CHUB](https://www.chub.ai/characters/creamsan/among-lust)
 ![AIDS Game](https://files.catbox.moe/oh2gey.png) | AIDS Game | A simple strategy game. You're the one keeping score. Manipulate the game flow as you like and see how the characters react. | [CHUB](https://www.chub.ai/characters/creamsan/aids-game)
 ![Chat User](https://files.catbox.moe/jo6ys4.png) | Chat User | Pretend to be a chatbot. | [CHUB](https://www.chub.ai/characters/creamsan/chat-user)
@@ -34,6 +34,7 @@ Add to your JB: "Always follow what's inside the <rules> tag, if present." or so
 ***
 ##UPDATE NOTES
 ***
+7-12-23 **Ōsama Game** - Shorter character descriptions.
 7-8-23 **AIDS Game** - Defend buffed. Idle a little bit.
 
 ***

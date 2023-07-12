@@ -34,7 +34,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Malik](https://rentry.co/maliksusanto) | Misc |[Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png), [Yonda Anggraini](https://i.postimg.cc/1t6QXjH6/Yonda-Anggraini.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png), [Pupa Emily Godwin](https://files.catbox.moe/07042p.png)|[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png) [MV], [Pupa Emily Godwin](https://files.catbox.moe/07042p.png) [MV]
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Chloe](https://files.catbox.moe/g6c41e.png), [Illya, Kuro and Miyu](https://files.catbox.moe/j8em7j.png), [Cristina](https://files.catbox.moe/16qc4r.png), [Emilia](https://files.catbox.moe/sy25py.png), [Amy and Amelia](https://files.catbox.moe/2t6w1e.png), [Sadie](https://files.catbox.moe/5s5b4q.png), [Amy](https://files.catbox.moe/9td7z5.png), [Lucia](https://files.catbox.moe/eqk0yr.png), [Elizabeth](https://files.catbox.moe/jax8pk.png), [Amelia](https://files.catbox.moe/irkl5y.png), [Lily](https://files.catbox.moe/8vk084.png)|
-[Creamsan](https://rentry.org/oqhyw) | Misc |[Eshal](https://files.catbox.moe/v9mh8q.png)|[AIDS Game](https://files.catbox.moe/oh2gey.png)
+[Creamsan](https://rentry.org/oqhyw) | Misc |[Eshal](https://files.catbox.moe/v9mh8q.png)|[Ōsama Game](https://files.catbox.moe/4nvdrz.png), [AIDS Game](https://files.catbox.moe/oh2gey.png)
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[The Goddess of Schizophrenia](https://files.catbox.moe/0yfboy.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Lexi LustyPixie Summers](https://files.catbox.moe/rhp4ko.png)|[Lexi LustyPixie Summers](https://files.catbox.moe/rhp4ko.png) [MV], [Ryuko](https://files.catbox.moe/rh0fbq.png)
 [UncleMarr](https://rentry.org/umarr) | Misc |[Your PC](https://files.catbox.moe/i7hxyr.png), [Rap God](https://files.catbox.moe/646e1z.png)|[Voyeurphoto Club](https://files.catbox.moe/9bl5vz.png) [MV], [Natsuki](https://files.catbox.moe/hn5jwd.png), [Rap God](https://files.catbox.moe/646e1z.png) [MV]
@@ -45,7 +45,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Natsume](https://files.catbox.moe/ottm3l.png)|
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) |[Maid Suisei](https://files.catbox.moe/1convr.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Sarah and Harper](https://files.catbox.moe/mjwjf9.png)|
-[SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc |[Naoko Yuuki](https://files.catbox.moe/uonj5k.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
@@ -54,6 +53,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Lanaea](https://files.catbox.moe/c7emz0.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
+[SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||

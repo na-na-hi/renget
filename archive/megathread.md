@@ -64,7 +64,7 @@
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 - [Old version backup](https://rentry.co/ko7zq).
 
-### ⚙️ [Software](https://rentry.org/megathread-software)
+### ⚙️ [Software](https://rentry.co/megathread-software)
 - Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
 - [Old version backup](https://rentry.co/pzfwe).
 

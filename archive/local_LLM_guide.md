@@ -8,9 +8,9 @@
 
 **2. Get latest KoboldCPP.exe [here](https://github.com/LostRuins/koboldcpp/releases) (ignore security complaints from Windows)**
 
-**3. Double click KoboldCPP.exe OR run "KoboldCPP.exe --help"** in CMD prompt to get command line arguments for more control.  --launch, --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN "--useclblast" values can be determined from "Platform" & "Device" output in CMD and --gpulayers can offload model to VRAM. At start, exe will prompt you to select bin file you dl'ed in step 1. Close other RAM-hungry programs!
+**3. Double click KoboldCPP.exe and select model OR run "KoboldCPP.exe --help"** in CMD prompt to get command line arguments for more control.  --launch, --stream, --smartcontext, and --host (internal network IP) are useful. --host allows use from local network or VPN "--useclblast" values can be determined from "Platform" & "Device" output in CMD and --gpulayers can offload model to VRAM. At start, exe will prompt you to select bin file you dl'ed in step 1. Close other RAM-hungry programs!
 
-**4. Go to URL listed in CMD window once model is loaded**
+**4. If Launch flag is set, browser will open to web interface when model is loaded.  URL can be found in CMD window once model is loaded.**
 
 **WORKFLOWS:**
 Story Generation:

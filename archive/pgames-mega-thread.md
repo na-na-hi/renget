@@ -1,1 +1,3 @@
-👑 Empress is Queen
+👑 **Empress is Queen**
+
+r/PiratedGames mods are cucks

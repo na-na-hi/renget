@@ -12,7 +12,8 @@ https://agnai.chat
 https://rentry.org/agnai_guides
 - australian frontend for many AI services; local install and online version; feature rich and user-friendly
 
-![](https://files.catbox.moe/6iu0kt.png)
+![](https://files.catbox.moe/9gtjm8.png)
+[](https://files.catbox.moe/6iu0kt.png haha, not deleting the original screenshot!)
 
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
@@ -66,20 +67,28 @@ https://arca.live/w/characterai/bots
 
 **Venus\.AI**
 https://drive.google.com/drive/folders/1saDTGz_N-jcXTZ3Tz7rdEQV8GnZGPJez
+[](https://gofile.io/d/R54T5L from oficial discord, contents unverified) [](https://anonfiles.com/V88ci5u4ze/ai_characters_archive_zip from oficial discord, contents unverified) [](https://pixeldrain.com/u/Cuu3jefi from oficial discord, contents unverified)
 - dump of venusai\.chat up to 27.05.2023
+
+**CharacterHub**
+https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw
+- dump of chub\.ai up to 05.07.2023
 
 **4chan meta list**
 - check out the link at the bottom of this rentry
 
 **Tools**
-https://nolialsea.github.io/Wpp/
-- ancient W++ formatting helper
+https://agnai.chat/editor
+- up to date character editor; full support of cards v2 spec
 
 https://zoltanai.github.io/character-editor
-- old reliable character editor; still works but is not maintained and has some non-breaking issues
+- old reliable character editor; still works but is not maintained and has some non-breaking issues *(cards v2 unsupported)*
 
 https://avakson.github.io/character-editor
-- fork of Zoltan's character editor; more recent and has small new features, but the issues currently still persist
+- fork of Zoltan's character editor; more recent and has small new features, but the issues currently still persist *(cards v2 unsupported)*
+
+https://nolialsea.github.io/Wpp/
+- ancient W++ formatting helper
 
 ***
 
@@ -244,7 +253,7 @@ https://files.catbox.moe/d71zj4.png
 ***
 
 Sister rentries:
-- https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
+- https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
 - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
 

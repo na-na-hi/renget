@@ -40,9 +40,13 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACharacterCards
 
 >New Stuff:
-Writefags:
->Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
-https://rentry.org/8k3mk
+Artfags:
+>Chad Drekus
+https://i.4pcdn.org/tg/1689111458994290.png
+>Breakdancing Kampai
+https://i.4pcdn.org/tg/1689111520015699.png
+>Smug Gun Nun
+https://i.4pcdn.org/tg/1689121386544602.png
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
