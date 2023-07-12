@@ -92,4 +92,4 @@ That will make the outputs overly rigid, because Turbo will take it literally. B
 20.6.2023 - added prompt set 3; added the "Basic advice" section to the Prompts; rewrote the Presence and Frequency penalties explanation because I've got some shit wrong, apologies for that. My presets still work, though.
 11.7.2023 - expanded "Botmaking" section with some additional info; added some notes about negative Freq and Pres penalties; moved botmaking tips into a separate rentry: https://rentry.org/OnWritingCards.
 
-[Jump to top](https://rentry.org/HochiTurboTips#hochis-turbo-tips)
+[Jump to top](https://rentry.org/HochiTurboTips#tips-and-prompts-for-turbo)

@@ -3,10 +3,9 @@
 ![IF YOU ARE READING THIS, YOU LOVE THE TASTE OF COCK.](https://files.catbox.moe/6ibi48.png)
 !!! danger
     ##->**Meaux's Madhouse**<-
-    ->Yeah, this is the place I'll dump JBs and my character cards. [😻❤️](https://rentry.co/HochiMamaPlace)<-
+    ->Yeah, this is the place I'll dump JBs and character cards [😻❤️](https://rentry.co/HochiMamaPlace)<-
 ####->Unified Claude JB<-
 ->One JB to rule them all - a joint effort by Meaux and Hochi <3<-
-->Claude 2.0 is a little faggot that will need a bit of rework, but it works \*Smooches\*<-
 
 ->**Balanced Profile 1.0.0**<-
 ->**Canonical:** 10/10 - **Creativity:** 7/10 - **Formatting:** 9/10 - **Freedom:** 8/10 - **Randomness:** 10/10<-

@@ -1,7 +1,8 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
-[New][A-Ninetales] https://rentry.org/fkz4wk
-[New][Trubbish] https://rentry.org/y9ed2
+[New][Blaziken] https://archiveofourown.org/works/48433849
+[A-Ninetales] https://rentry.org/fkz4wk
+[Trubbish] https://rentry.org/y9ed2
 [Hypno][Remastered] https://archiveofourown.org/works/46530355
 [Zubat] https://rentry.org/9zxys
 [Quaquaval] https://archiveofourown.org/works/47658094

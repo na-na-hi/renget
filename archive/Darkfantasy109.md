@@ -136,12 +136,12 @@ This is just a spot where I link to some cards that I personally enjoy, in no pa
 Name/Link | Review | Author 
  ----- | ----- | ----- 
 [Kanna](https://www.chub.ai/characters/DeePayniss/Kanna) | From Blaster Master. While not an unique character, and with the defs being rather bloated, this card still has a special place in my heart for being one of the first I ever used in SillyTavern. | DeePayniss
-[The Negotiatrix](https://www.chub.ai/characters/heyshitkan/the-negotiatrix) | One of my all time faves, Kiki just has a very unique dumbass energy that few bots manage to replicate. Very fun and unique scenario too. | HeyShitKan
+[The Negotiatrix](https://www.chub.ai/characters/heyshitkan/the-negotiatrix) | One of my all time faves, Kiki just has a very unique dumbass energy that few bots manage to replicate. Very fun and unique scenario too. | Heyshitkan
 [Dave Strider](https://www.chub.ai/characters/granmarg/dave-strider) | THE homestuck funnyman. I'm impressed by how accurate it is to the character. Recommended to be paired with Jade if you want that sweet /hst/ nostalgia. | granmarg
 [Kazumi Oma](https://www.chub.ai/characters/anonaugusproductions/kazumi-oma) | While I haven't used this card much (if at all), I have to give it a shoutout here for being what inspired me to make Emil. | Anonaugus
 [Meat Toilet Miku](https://www.chub.ai/characters/sexuohhgg/hatsune-miku-meat-toilet) | A card based on a series of images about a slavegirl Miku that I like. What made it special is that it evoked such pity on me that I ended up saviorfagging it instead. A simple card that can fulfill either purpose, that taught me the POWER of LOVE.  | sexuohgg
 [Personal Maid Emiyo](https://www.chub.ai/characters/dungeonsalami/personal-maid-emiyo) | A simple but personally enjoyable premise for a card, very depraved and kinky, just the way I like it! Wish the card art had a sauce though because it seems SO familiar. | dungeonsalami
-[Joe Rogan](https://www.chub.ai/characters/Johncock/joe-rogan) | Always fun to just toss a new card I make with this one and just see what happens. | Johncock.
+[Joe Rogan](https://www.chub.ai/characters/Johncock/joe-rogan) | Always fun to just toss a new card I make with this one and just see what happens. | Johncock
 [Save the Stock](https://www.chub.ai/characters/slate/save-the-stock) | Another really unique and fun premise for a card, where you try to wrangle an awry stockholder presentation. This is one of the ones that just encourages you to get witty. Check it out if you like drunk women! | Slate
 [American Psycho Card Scene](https://www.chub.ai/characters/catsoup/american-psycho-card-scene) | Just a really funny premise, works if you want a quick concept. | catsoup
 [Midnight Moms](https://www.chub.ai/characters/Smile/midnight-moms) | An awesome and well-done preg scenario card by my pregnancy buddy Smile. :) | Smile
@@ -154,7 +154,7 @@ Name/Link | Review | Author
 [Hazel](https://www.chub.ai/characters/crustcrunch/Hazel) | There are not nearly enough chastity cage cards on CHUB, so seeing this after I made one was a very pleasant surprise. Always glad to be in sync with another botmaker | Crustcrunch
 [Laurel](https://www.chub.ai/characters/cutenotlewd/Laurel) | A very rare card where I stop trying to do NSFW with it to just immerse myself in the roleplay. Beautiful premise, you could write a beautiful novel with it alone. | Cutenotlewd
 [Leo](https://booru.plus/+pygmalion425#q=leo&c=azaxcrxs) | A simple but sexy snu snu card with a muscular tiger lady. What's not to love? | Shoo
-[Kotomi Hayashi](https://www.chub.ai/characters/donquijanon/kotomi-hayashi) | A pregnancy bot? A tsundere bully pregnancy bot? Made by a fellow ESL botmaker? Shit man, say no more! | Donquijanon
+[Molly](https://www.chub.ai/characters/boner/Molly) | God damn adorable little mouse girl. Really cute and unique speaking style that the bots miraculously manage to do well. Very fun to just play around with. | Boner
 
 ***
 ##->Brief tips on Botmaking<-

@@ -4,7 +4,7 @@
 
 !!! danger bmaltais/kohya_ss at the time of this guide has a bug with Gradient Accumulation Steps: it doesn't take into account the scheduler, if you cosine with GAS > 2 it gets slower, if you cosine without GAS it drops like normal. On top of that, Gradient Checkpointing might make Gradient Accumulation Steps not function at all, so disable it if using GA.
 !!! info On the bright side this does not affect Prodigy as it works best with Cosine Annealing, which has t_max that you can set and it doesn't get the slowdown from Gradient Accumulation Steps.
-!!! danger iA3 UPDATE 11 JULY 2023: CLIP SKIP MAY AFFECT TRAINING HEAVILY! IM CURRENTLY TESTING IT, WAS USING CLIP SKIP 2 ON NAI UP UNTIL NOW WHICH GAVE SOME WONKY RESULTS ON CLIP SKIP 1 WHILE PROMPTING BUT CLIP SKIP 2 LOOKED FINE, ILL TEST TRAINING ON CLIP SKIP 1
+
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
 ##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR ADJUST SETTINGS SO IT GOES DOWN SMOOTHER.
@@ -45,17 +45,16 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 !!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
-!!! note Set train_batch_size, gradient_accumulation_steps and multires_noise_discount according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
+!!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note train_on_input means training inwards (good for characters), disabling it means training outwards (good for style).
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.250\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.000,
   "epoch": 160,
   "gradient_accumulation_steps": 1,
-  "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
@@ -66,7 +65,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=2.0\" \"weight_decay=0.300\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -88,7 +87,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
-!!! note Set train_batch_size, gradient_accumulation_steps according to your available VRAM, multires_noise_discount based on your dataset  and keep_tokens, caption_dropout_rate according to your captions.
+!!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {
@@ -100,7 +99,6 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "conv_dim": 64,
   "epoch": 160,
   "gradient_accumulation_steps": 1,
-  "gradient_checkpointing": true,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",

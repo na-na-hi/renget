@@ -7,17 +7,19 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Mario Kart 8 Deluxe - Booster Course Pass Wave 1, 2, 3 & 4 out currently
+「!」 Mario Kart 8 Deluxe - Booster Course Pass Wave 1, 2, 3, 4 & 5 out currently
 「!」 SUPER NINTENDO WORLD has officially opened in Hollywood
 「!」 Super Mario Brothers movie has officially released
 
 Future Release Dates:
-「!」 Mario Kart 8 Deluxe - Booster Course Pass 5 & 6 releases in 2023
+「!」 Mario Kart 8 Deluxe - Booster Course Pass 6 releases in late 2023
 「!」 Super Mario Bros WONDER releases on October 20th, 2023
 「!」 WarioWare Move It releases on November 3rd, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
+「!」Booster Course Wave 5 Patch Notes
+https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 「!」New 2D Mario - Super Mario Bros WONDER Revealed
 https://www.youtube.com/watch?v=JStAYvbeSHc
 「!」WarioWare Move It! Revealed

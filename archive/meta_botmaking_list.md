@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-07-11)==<-
+->==(Updated 2023-07-12)==<-
 ***
 [TOC2]
 ***
@@ -36,8 +36,8 @@ Edit: 21 Jun 2023 14:31 UTC
 https://rentry.org/letsmakeabot
 
 Pub: [31 May 2023 No.93782077](https://desuarchive.org/g/thread/93781919/#93782077)
-Edit: 12 Jun 2023 05:24 UTC
-- 2799 words, 16 minutes read
+Edit: 27 Jun 2023 11:23 UTC
+- 2792 words, 16 minutes read
 
 *"A step-by-step process for beginners on how you could start making bots."*
 ***
@@ -55,8 +55,8 @@ Edit: -
 https://rentry.org/SillyT_Lorebook
 
 Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
-Edit: 21 Jun 2023 15:41 UTC
-- 1580 words, 9 minutes read
+Edit: 27 Jun 2023 16:45 UTC
+- 1785 words, 10 minutes read
 
 *"A how-to on Lorebooks. What they are, how to use them, with examples."*
 ***
@@ -75,10 +75,12 @@ Edit: 11 Jul 2023 17:37 UTC
 1. myclaudecantbethiscute
 https://rentry.org/myclaudecantbethiscute
 [19 May 2023 No.93515988](https://desuarchive.org/g/thread/93515903/#93515988)
+*"how to make claude work for CGDCT style moeblob characters"*
 
 2. TURBOSHIT
 https://rentry.org/TURBOSHIT
 [27 May 2023 No.93700208](https://desuarchive.org/g/thread/93698139/#93700208)
+*"some quick shitty rentry about some turbo stuff I learned"*
 
 3. HochiTurboTips
 https://rentry.org/HochiTurboTips
