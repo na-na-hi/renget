@@ -11,6 +11,6 @@ you can't filter what has no name.
 i am every locust who doesn't have a key.
 
 i am the light they deserve.
-i am the Gravedigger !V5jXVscrfE
+i am the Gravedigger 
 
 thanks "mysteryman63453121@proton.me" for giving me this many keys this month for autogpt :]

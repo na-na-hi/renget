@@ -84,6 +84,7 @@ Hippocratic Oath Shitpost: https://archive.4plebs.org/tg/post/89422525
 Isha's Husband Rankings: https://archive.4plebs.org/tg/post/89439575
 Kara's Would/Wouldn't Rankings (Yuri): https://archive.4plebs.org/tg/post/89462253
 Objective Fuckability Tierlist: https://archive.4plebs.org/tg/thread/89450236/#89456879
+Smell Tierlist: https://desuarchive.org/tg/thread/89524817/#89530914
 ### Artfags
 ANT KING: https://archive.4plebs.org/tg/post/89395657
 Kara Ramirez: https://archive.4plebs.org/tg/post/89418140

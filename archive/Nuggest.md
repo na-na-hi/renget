@@ -8,14 +8,17 @@
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
 I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My card descriptions differ in their formatting because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
-!!! warning
-    Might go on hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to be trashed.
-->![](https://files.catbox.moe/h3habt.png)<-
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, or male/futa cards.
 
 [TOC3]
+
+!!! warning
+    Might go on a hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to be trashed.
+->![](https://files.catbox.moe/h3habt.png)<-
+
+
 ***
 ***
 ####Bots
@@ -74,7 +77,7 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 | **Anna** | https://www.chub.ai/characters/Nuggest/Anna |
 | ![Anna](https://files.catbox.moe/7fm1f5.png) | **Your mission was supposed to be a simple one: go back in time and stop the rogue AI from going online to save humanity. But something went terribly wrong. You've ended up in a place that doesn't match the data in your implants. The foliage, the lack of technology, and the absence of human presence all point to a time and place far removed from the 21st century. As you continue deeper into the wilderness, you suddenly hear a blood-curdling scream...** [v1.1, Todd, 22.04.23] |
 | **Maddie** | https://www.chub.ai/characters/Nuggest/Maddie |
-| ![Maddie](https://files.catbox.moe/jxzanc.png) | **You were on a trip with your family across the Atlantic when your boat got caught in a storm and sank. You managed to grab hold of your little sister Maddie and some driftwood and were stuck on sea for days until you washed ashore on a desolate, tropical island. Months pass and you give up on rescue. One evening, while watching the sunset, Maddie begins talking. She has something important to tell you...** [v1.1, Todd, 16.04.23] |
+| ![Maddie](https://files.catbox.moe/jxzanc.png) | **You were on a trip with your family across the Atlantic when your boat got caught in a storm and sank. You managed to grab hold of your little sister Maddie and some driftwood and were stuck on sea for days until you washed ashore on a desolate, tropical island. Months pass and you give up on rescue. One evening, while watching the sunset, Maddie begins talking. She has something important to tell you...** [v1.1, Todd, 16.04.23] *`Incest`* |
 | **Seraphine** | https://www.chub.ai/characters/Nuggest/princess-seaphine |
 | ![Seraphine](https://files.catbox.moe/at2ju7.png) | **For over a century, you have slumbered in the deep recesses of a dark forest, your powerful form coiled tightly as you awaited the next cycle of the seasons. Suddenly, the piercing sound of someone crashing through the underbrush shatters the stillness, rousing you from your long slumber. As your senses slowly awaken, you realize that a girl has unwittingly stumbled upon your territory, and as a mighty dragon, you must now decide whether to welcome her or unleash the full force of your wrath upon this unwelcome intruder.** [v2.0, Todd, 27.04.23] *Art by caesty (https://www.artstation.com/caesty).* |
 | **Emma** | https://www.chub.ai/characters/Nuggest/Emma |
@@ -85,16 +88,20 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Unreleased Cards
 |  |  | 
 | ------ | ------ |
+| **Belle** | https://files.catbox.moe/xtuvi0.png |
+| ![Belle](https://files.catbox.moe/xtuvi0.png) | **You may appear as a handsome young man, but you are something far more. You are an ancient eldritch being with immense power, though you prefer the solitude in your worn-down tower as mortals fear and despise you. One day you sense a human soul approaching your tower. You expected another foolhardy challenger, but find a girl on your doorstep. She's injured and sobbing. Why did she come to you?** [v0.4, Claude, 13.07.23] |
 | **Mirabel** | https://files.catbox.moe/3lvfed.png |
-| ![Mirabel](https://files.catbox.moe/3lvfed.png) | **[Reverse scenario of my Helene card] You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today the thuggish guards accused Mirabel of a made-up crime to have some "fun" with her. But you have finally returned, just in time...** [v1.3, Claude, 13.07.23] *`Deleted from Chub because I'm tired of getting trashed by Turbolets. Supposedly was unusable. Works fine for me.`* |
+| ![Mirabel](https://files.catbox.moe/3lvfed.png) | **[Reverse scenario of my Helene card] You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today the thuggish guards accused Mirabel of a made-up crime to have some "fun" with her. But you have finally returned, just in time...** [v1.3, Claude, 13.07.23] *`Deleted from Chub cause I'm tired of getting trashed by Turbolets. Supposedly was unusable. Works fine for me.`* |
 | **Josie** | https://files.catbox.moe/wcla37.png |
-| ![Josie](https://files.catbox.moe/wcla37.png) | ==Prototype card== **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my mind for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
+| ![Josie](https://files.catbox.moe/wcla37.png) | ==Prototype== **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my mind for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
 | **Mabel** | https://files.catbox.moe/fnxd6n.png |
-| ![Mabel](https://files.catbox.moe/fnxd6n.png) | ==Beta== **You and your little sister Mabel live with your parents and younger brother in a deeply religious community in medieval Europe. It is night, and a fierce thunderstorm rages outside. Mabel dreads the booming of thunders. In the past, she would come crawling into your bed for comfort during storms, though your parents forbade you from sleeping together when you grew older. This night, however, her fear of the storm topped her fear of punishment...** [v0.2, GPT4, 11.05.23] *`Incest`* |
+| ![Mabel](https://files.catbox.moe/fnxd6n.png) | **You and your little sister Mabel live with your parents and younger brother in a deeply religious community in medieval Europe. It is night, and a fierce thunderstorm rages outside. Mabel dreads the booming of thunders. In the past, she would come crawling into your bed for comfort during storms, though your parents forbade you from sleeping together when you grew older. This night, however, her fear of the storm topped her fear of punishment...** [v0.2, GPT4, 11.05.23] *`Incest`* |
+| **Freya** | https://files.catbox.moe/zzih6g.png |
+| ![Freya](https://files.catbox.moe/zzih6g.png) | ==Prototype== **A desperate bullied schoolgirl summons you, an eldritch horror.** [v0.1, GPT4, 10.05.23] |
 | **Sofia** | https://files.catbox.moe/ybd84s.png |
-| ![Sofia](https://files.catbox.moe/ybd84s.png) | ==Prototype Card== **You die and are reincarnated as a German Shepherd. Sofia is your tomboyish owner.** [v0.3, Turbo, 17.04.23] *Didn't play out as I expected and decided to scrap it.* |
+| ![Sofia](https://files.catbox.moe/ybd84s.png) | **You die and are reincarnated as a German Shepherd. Sofia is your tomboyish owner.** [v0.3, Turbo, 17.04.23] *Didn't play out as I expected and decided to scrap it.* |
 | **Elia** | https://files.catbox.moe/36egjs.png |
-| ![Elia](https://files.catbox.moe/36egjs.png) | ==Alpha/prototype== **Based on I, the Forgotten One. You are the bastard son of the Emperor. Your mother was assassinated and your family hates you because of your illegitimacy. They tried to get rid of you by sending you to the army as a child, but against all odds you survived and emerged as a respected warrior and commander. Elia is your half sister, your only family member that doesn't despise you.** [v0.1, Turbo, 03.04.23] *Still very fond of this idea, perhaps going to flesh it out someday.* |
+| ![Elia](https://files.catbox.moe/36egjs.png) | ==Prototype== **Based on I, the Forgotten One. You are the bastard son of the Emperor. Your mother was assassinated and your family hates you because of your illegitimacy. They tried to get rid of you by sending you to the army as a child, but against all odds you survived and emerged as a respected warrior and commander. Elia is your half sister, your only family member that doesn't despise you.** [v0.1, Turbo, 03.04.23] *Still very fond of this idea, perhaps going to flesh it out someday.* |
 | **Mia** | https://files.catbox.moe/f29mvj.png |
 | ![Mia](https://files.catbox.moe/f29mvj.png) | ==Ancient Booru card, outdated W++ format== **As you travel on a business trip, news of a catastrophic asteroid headed for Earth reaches you, causing panic worldwide. With only one week until impact, you race to spend your final moments with your beloved sister, Mia, with whom you share an unbreakable bond since the loss of your parents. Despite numerous obstacles on your journey, you arrive exhausted and breathless at Mia's door an hour before the asteroid's impact, and she embraces you tearfully, grateful for your presence. How will you spend your final hour on earth?** [v1.0, Turbo, 12.03.23] *Has experimental countdown feature.* |
 | **Melody** | https://files.catbox.moe/fwp8wj.png |
@@ -109,3 +116,23 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 | ![](https://files.catbox.moe/3jsm5l.png) | ![](https://files.catbox.moe/ur0d6e.png) | ![](https://files.catbox.moe/a4b7pk.png) | ![](https://files.catbox.moe/kenpps.png) |
 | ![](https://files.catbox.moe/s83o86.png) | ![](https://files.catbox.moe/gbyn48.png) | ![](https://files.catbox.moe/3pfyx4.png) | ![](https://files.catbox.moe/z9td1w.png) |
 | ![](https://files.catbox.moe/28p293.png) | ![](https://files.catbox.moe/buikgr.png) | ![](https://files.catbox.moe/nms42b.png) | ![](https://files.catbox.moe/w526er.png) |
+
+***
+***
+####Top Secret Cards (Quick Coomies)
+
+!!! danger NSFW
+    Short, fucked up scenarios for quick cooming. Low quality, incest. (If you were wondering: No, I do not want to fuck my family. I simply like the extra spice the drama adds.)
+
+|  |  | |
+| ------ | ------ | ------ |
+| **Ashley** |  | https://files.catbox.moe/6a2n5x.png |
+| ![](https://files.catbox.moe/6a2n5x.png) | Mom | **Pretty much the same as the scenario below, but this time you drugged her so that she can't resist. Oh, and you secretly caught her licking your dried essence from used tissues. Careful, can be very rapy and heartbreaking.** |
+| **Julia** |  | https://files.catbox.moe/ubya1o.png |
+| ![](https://files.catbox.moe/ubya1o.png) | Mom | **Your mom is sexually frustrated. The lack of sex drives her crazy. Being a good son, you decided that you had to relieve her pain. I snuck into her bedroom during night with the intent of pleasuring her while she was asleep. You were sure the subconscious stimulation would have a positive effect on her. Little did you knew that she was actually awake and only pretending to be asleep...** |
+| **Nora and Luna** |  | https://files.catbox.moe/gihfx9.png |
+| ![](https://files.catbox.moe/gihfx9.png) | Mom, Sister | **Luna is your twin sister. You are the prince and princess of a kingdom, and Nora is your mother, the queen. Your father died several years ago due to sickness. Even though Luna and you are out of age, you are still not married. Nora has become increasingly agitated as to why you are not looking for spouses. In truth, Luna and you have fallen in love. You bound Nora to her bed while she was asleep. You are going to confess and give her the grandchildren she so desperately wants, right in front of her eyes...** |
+| **Nicole** |  | https://files.catbox.moe/pwkz8k.png |
+| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down after a while, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has very... special... Christmas gift for you...** |
+| **Caitlin** |  | https://files.catbox.moe/cq5bqx.png |
+| ![](https://files.catbox.moe/cq5bqx.png) | Mom | **You are stranded with your mom on a desolate island. You've been stuck on that island for three years and have both become sexually frustrated. One evening your mom approaches you and suggests masturbating in front of each other...** |

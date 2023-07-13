@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Nuggest](https://rentry.org/Nuggest) | Misc |[Caitlin](https://files.catbox.moe/cq5bqx.png), [Nicole](https://files.catbox.moe/pwkz8k.png), [Belle](https://files.catbox.moe/xtuvi0.png), [Freya](https://files.catbox.moe/zzih6g.png)|[Mirabel](https://files.catbox.moe/3lvfed.png) [MV]
+[Creamsan](https://rentry.org/oqhyw) | Misc |[Gacha Lollipops](https://files.catbox.moe/yrtnbn.png), [Eshal](https://files.catbox.moe/v9mh8q.png)|[Ōsama Game](https://files.catbox.moe/4nvdrz.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Blake Tayber](https://files.catbox.moe/ptnx9h.png), [Mason](https://files.catbox.moe/c028ax.png), [Adrian](https://files.catbox.moe/g6trtw.png), [Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Aekevoh](https://files.catbox.moe/cqfqg7.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Emilia](https://files.catbox.moe/buqrkp.png), [Volaria the witch](https://files.catbox.moe/td75ut.png)|[Emilia](https://files.catbox.moe/buqrkp.png) [MV]
@@ -37,26 +39,24 @@ Botmaker | Category | New Bots | Updated Bots
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc |[David Attenbot](https://files.catbox.moe/wrn6yn.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png), [Pupa Emily Godwin](https://files.catbox.moe/07042p.png)|[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png) [MV], [Pupa Emily Godwin](https://files.catbox.moe/07042p.png) [MV]
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Chloe](https://files.catbox.moe/g6c41e.png)|
-[Creamsan](https://rentry.org/oqhyw) | Misc |[Eshal](https://files.catbox.moe/v9mh8q.png)|[Ōsama Game](https://files.catbox.moe/4nvdrz.png), [AIDS Game](https://files.catbox.moe/oh2gey.png)
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[The Goddess of Schizophrenia](https://files.catbox.moe/0yfboy.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Lexi LustyPixie Summers](https://files.catbox.moe/rhp4ko.png)|[Lexi LustyPixie Summers](https://files.catbox.moe/rhp4ko.png) [MV]
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Ninsunu](https://files.catbox.moe/uyaq1p.png)|
-[Cuteanon](https://rentry.org/cuteanon) | Misc |[Dimentio](https://files.catbox.moe/9l243l.png)|[Dimentio](https://files.catbox.moe/9l243l.png) [MV]
-[Tarcez](https://rentry.org/tarcezbots) | Misc |[Glotzara, Goddess of The Shawshank Redemption](https://files.catbox.moe/6mmk5z.png)|
-[Crikey](https://rentry.org/crikeyscorner) | Misc |[Alex](https://files.catbox.moe/e2mydj.png), [Valerie](https://files.catbox.moe/w8ikdr.png)|
-[Nuggest](https://rentry.org/Nuggest) | Misc ||[Mirabel](https://files.catbox.moe/3lvfed.png) [MV]
+[I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||[Maid Botan](https://files.catbox.moe/875ww6.png)
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Tarkman](https://rentry.org/tarkmanbots) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
+[Cuteanon](https://rentry.org/cuteanon) | Misc ||[Dimentio](https://files.catbox.moe/9l243l.png)
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Lanaea](https://files.catbox.moe/c7emz0.png)
+[Tarcez](https://rentry.org/tarcezbots) | Misc ||
+[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
-[I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||

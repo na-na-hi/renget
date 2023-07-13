@@ -17,6 +17,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3
 ![Ōsama Game](https://files.catbox.moe/4nvdrz.png) | Ōsama Game | You are playing the Ōsama game with your fellow club members. You can command the most depraved things you want. | [CHUB](https://www.chub.ai/characters/creamsan/osama-game)
 ![Visit chub page for the img sauce](https://files.catbox.moe/hoyrrw.png) | Among Lust | Identify and eliminate the monster among the girls. | [CHUB](https://www.chub.ai/characters/creamsan/among-lust)
 ![AIDS Game](https://files.catbox.moe/oh2gey.png) | AIDS Game | A simple strategy game. You're the one keeping score. Manipulate the game flow as you like and see how the characters react. | [CHUB](https://www.chub.ai/characters/creamsan/aids-game)
+![AIDS Game](https://files.catbox.moe/yrtnbn.png) | Gacha Lollipops | A gachapon machine filled with magical lollipops. | [CHUB](https://www.chub.ai/characters/creamsan/gacha-lollipops)
 ![Chat User](https://files.catbox.moe/jo6ys4.png) | Chat User | Pretend to be a chatbot. | [CHUB](https://www.chub.ai/characters/creamsan/chat-user)
 ![Kaori](https://files.catbox.moe/vjestc.png) | Kaori | Watch over a sex doll. | [CHUB](https://www.chub.ai/characters/creamsan/Kaori)
 ![Eshal](https://files.catbox.moe/v9mh8q.png) | Eshal | You and your muslim friend are going to go jinn hunting in a haunted mansion. | [CHUB](https://chub.ai/characters/creamsan/Eshal)

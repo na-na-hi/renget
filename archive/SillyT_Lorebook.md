@@ -155,10 +155,37 @@ In the future, when Context is larger... 3 won't matter as much but I'd bet 1 an
 
 UPDATE JUNE 2023: The future is now. If you're running Turbo 16K, you've 4X the context of 4K. I'd argue could reasonably go up 4X on your descriptions, which means a total budget of 200 tokens *per entry* and a total budget of 800. The basic logic IMHO is the **Lorebook should be around 5% of the total context budget, and there should be sufficient budget for 3-4 entries per API submission.** 
 
-###Oddnesses
+## Random Events via Lorebook in Silly Tavern
+
+As of Silly Tavern v1.8, there'a new function to add random events via the lorebook. You can create trigger events, randomly, through the lorebook setting by using "Use Probability" setting. Some notes on this: 
+
+### Simple Random Events Trigger
+
+1) "Use Probability" nests with "Constant" or "Key" values. 
+	a) Example event, 10% probability: ``Constant: Checked. Use Probability, 10. Keyword: Blank``
+	b) Example event, 10% probability when "ABC" Key condition met: ``Constant: Unchecked. Use Probability, 10. Keyword: ABC``
+2) Note that for above, if you have several random events, any or all of them could be triggered. 
+
+### Random Selected Event Trigger
+
+If you want to set up events that only trigger **one at a time**, see example below: 
+
+Add three lorebook entries tagged with the Keyword "xaab", "xaac" and "xaad" and one with a blank keyword
+
+> Keyword: [blank] Content: {{random:xaab,xaac,xaad}} Constant: Checked, Placement: Before Char
+> Keyword: xaab Content: You are surrounded by a lush forest. Placement: Author's Note Bottom
+> Keyword: xaac Content: You are surrounded by putrid swamp. Placement: Author's Note Bottom
+> Keyword: xaad Conten: You are surrounded by a pleasant meadow. Placement: Author's Note Bottom
+
+By setting the first one to constant (the keyword doesn't actually matter) and set to appear before character definitions, the nonsense prompt return will have no impact on the context, past triggering the randomly selected Keyword. 
+The other three are set to appear after the author's notes. This way, the "key" (example: xaac) will be high up in the context, while description (example: ``putrid swamp``) would be near prompt.
+Make sure to set recursive scan! Otherwise the above it won't work. 
+
+## Oddnesses
 * You may observe Silly Tavern seems pulling in seemingly uncalled definitions: By default, Sillytavern does not match on word boundaries. That means for example that an entry with the keyword "cat" will match (and include it) when you're talking about caterpillars, scat, education, and so on. There's an option to stop this behavior (*Match whole words*), but you can only set this globally.
 
 ## Links Away
+My pointers guide on character card creation: https://rentry.org/NG_CharCard
 Official Silly Tavern Worldbook info: https://docs.sillytavern.app/usage/core-concepts/worldinfo/
 KobaldAI pro-tips, note entries on World Description: https://github.com/KoboldAI/KoboldAI-Client/wiki/Pro-Tips
 Other example lorebooks on CHUB: https://www.chub.ai/lorebooks

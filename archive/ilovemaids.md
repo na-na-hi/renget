@@ -67,10 +67,10 @@ Multi-character card.
 Non W++ version: https://files.catbox.moe/qdvc51.png
 
 ==Total Tokens:== 
-- 643 (With example messages)
-- 286 (Without example messages)
+- 367 (With example messages)
+- 280 (Without example messages)
 #####Maid Botan (Shishiro Botan)
-Non W++ version: https://files.catbox.moe/eqfp6e.png
+Non W++ version: https://files.catbox.moe/875ww6.png
 
 ==Total Tokens:== 
 - 655 (With example messages)

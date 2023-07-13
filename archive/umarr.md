@@ -17,7 +17,7 @@ Image| Name | Description | Link
  ![T](https://files.catbox.moe/t6g2sq.png) | Len | Real saviorfags don't discriminate. | [Catbox](https://files.catbox.moe/t6g2sq.png)
 
 ###Coombots
-All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjoy.
+All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjoy, may need user input on prudish models to avoid refusals.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)

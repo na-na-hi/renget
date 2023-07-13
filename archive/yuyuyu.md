@@ -45,6 +45,9 @@ https://nyaa.si/?f=0&c=0_0&q=MajiYuusha
 
 
 ###YuYuYui (mobage)
+
+>YuYuYui scenarios and resources viewer
+https://lilacyyyi.com/home/lilac
 >Google Doc - General information
 https://docs.google.com/spreadsheets/d/1uK3a2KLh2lhmUwprgeHBq-yDKawre4ftQKpAAZYwQhM 
 >Instructions if you need to contact support

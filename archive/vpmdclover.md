@@ -71,9 +71,9 @@ Skull | M | Cubone | ??? | Clover Guild Member | [Quiet](https://rentry.org/vpmd
 
 !!!Note General Info
      Surrounding the titular "Clover Guild", made up of /pmdg/ anons isekaied to a PMD world and their native partners.
-     Established by Guildmaster Meowstic, who has incredible psychic powers that can hunt down humons due to differences in aura (probably?).
-     Guild is generally established "in a forest near a lake", on the Grass Continent in Capim Town. Guild building is inside a tree. There's a map of it! This info blurb is woefully outdated!
-	Everyone has pillows and blankets (that aren't made of hay) standard-issue thanks to the efforts of Chespin and Wooper. Due to being made from leaves, they're dark green in coloration.
+     Established by Guildmaster Meowstic, who has incredible psychic powers that can hunt down humons due to differences in aura.
+     Guild is generally established in a forest near a lake on the Grass Continent in Capim Town. Guild building is inside a tree. There's a map of it!
+	 Everyone has pillows and blankets (that aren't made of hay) standard-issue thanks to the efforts of Chespin and Wooper. Due to being made from leaves, they're dark green in coloration.
 
 ###Writing
 ####Story Timeline
@@ -241,11 +241,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Smoke Break 2 (ft. Debby)](https://rentry.org/SmokeBreak2)
 	* [Debby's Diary](https://rentry.org/DebbysDiary)
 	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
+    * [Grandma's Cookies (ft. Margaret the Lilligant)](https://rentry.org/o4cme)
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
 	* [An Overelming Week](https://rentry.org/overelming)
-* Growlithe(s)
+* Gill the Hisuian Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
@@ -262,23 +263,21 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
 	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
-* Kiyo the Keokeo
+* Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
-* Margaret the Lilligant !!
-	* [Grandma's Cookies](https://rentry.org/o4cme)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
-* (Gus the) Oshawott
+* Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
 	* [Percival's Extended Introduction](https://rentry.org/uosgo9)
-* Phanpy-anon
+* Phanpy
 	* [Phanpy-anon and /pmdg/ in Treasure Town](https://rentry.org/9t9oo)
 	* [The First Day on the Job (ft. Phanphy)](https://rentry.org/pn2fz) 
 	* [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c)
@@ -314,7 +313,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
-* Sterling the Clampearl !!
+* Sterling the Clampearl
 	* [Sterling's Purpose ch.1](https://rentry.org/4uw36)
 	* [Sterling's Purpose ch.2](https://rentry.org/fau75)
 	* [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
@@ -485,5 +484,3 @@ Notes/List to do
 -Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (pending)
 -This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (pending)
 -Rentry page archive needs update. (pending)
--Should the character based stories like Margaret the Lilligant be under Debby's as authorship? Because I think it's a bit redundant. (not yet discussed)
--What to do with the Expedition suggest doc (not yet discussed)

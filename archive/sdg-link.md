@@ -223,4 +223,4 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 13th - https://pastebin.com/M18MgKNM
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 13th - https://pastebin.com/m9DRudGx

@@ -50,9 +50,9 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1000\" \"eta_min=0.500\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.000,
-  "epoch": 160,
+  "epoch": 100,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
