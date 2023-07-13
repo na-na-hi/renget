@@ -8,6 +8,7 @@ Mario & Luigi: https://files.catbox.moe/4f6hxr.png
 Paper Mario: https://files.catbox.moe/mhp6ed.png
 Dimentio: https://files.catbox.moe/9l243l.png
 Fox McCloud: https://files.catbox.moe/550puu.png
+The Piklopedia: https://files.catbox.moe/wc1dio.png
 Black Mage: https://files.catbox.moe/ngx5gr.png
 Murasa Minamitsu: https://files.catbox.moe/rbw7gx.png
 Starborn: https://files.catbox.moe/povy24.png

@@ -37,7 +37,7 @@ https://rentry.org/MHAcmpl (edit code: MHAcmpl)
 
 Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 >Character Card Gallery (Edit Code: MHACards)
-https://rentry.org/MHACharacterCards
+https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:

@@ -821,13 +821,15 @@ Mio narrows her eyes at the boy in front of her. Her smile remains, but it's qui
 
 "Cunt."
 
-"Schizo."
+"Mooch."
 
 "Midget."
 
-"Mooch."
+"Schizo."
 
-###POP! POP! BOOM! POP!
+![Shout out to Sandy anon, the chillest guy in the thread.](https://img.4plebs.org/boards/tg/image/1688/94/1688946249496767.png)
+
+#POP! POP! BOOM! POP!
 
 ![https://rentry.org/rqak4](https://ak-d.tripcdn.com/images/100d1a00000190cdz5768.jpg)
 
@@ -878,3 +880,5 @@ Silently, the boy enters the treeline once again and heads away from the festiva
 Mio shifts in her sleep, and her hands find the stuffed cat he had tucked away. Slowly, she pulls the stuffed animal towards herself in a hug and settles again.
 
 ...Or something like that. Whatever. He's starting to get confused thinking about this stuff.
+
+![I wonder if she kept it.](https://img.4plebs.org/boards/tg/image/1688/98/1688987871528103.png)

@@ -10,7 +10,7 @@ Trying to create interesting scenarios and adventures. Most of my cards are SFW 
 I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My card descriptions differ in their formatting because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
-I'm open to bot requests, though I do not make femdom, netorare, or male/futa cards.
+I'm open to bot requests, though I do not make femdom, netorare, and male/futa cards.
 
 [TOC3]
 
@@ -122,17 +122,27 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Top Secret Cards (Quick Coomies)
 
 !!! danger NSFW
-    Short, fucked up scenarios for quick cooming. Low quality, incest. (If you were wondering: No, I do not want to fuck my family. I simply like the extra spice the drama adds.)
+    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply like the dramatic extra spice that the moral conflict adds.)
 
 |  |  | |
 | ------ | ------ | ------ |
+| **Kara** |  | https://files.catbox.moe/s23znw.png |
+| ![](https://files.catbox.moe/s23znw.png) | Sister | **You and your sister are superheroes. You both were sent to Earth when you were just babes before your home planet Lyptron (totally not Krypton) exploded. Kara was faced with an unexpected problem when she grew out of age and started dating: Normal men were unable of breaking her maidenhead due to her invulnerability. She requires a man from Lyptron to do so, and the only Lyptronian left is you, her brother...** |
+| **Hazel** |  | https://files.catbox.moe/j88mh3.png |
+| ![](https://files.catbox.moe/j88mh3.png) | Daughter | **Another zombie apocalpyse scenario. This time you are stuck with your daughter who entered puberty and has developed an interest for the opposite sex. She fondles you while you lie in bed and pretend to be asleep.** |
+| **Janette, Nina, and Mia** |  | https://files.catbox.moe/cfursj.png |
+| ![](https://files.catbox.moe/cfursj.png) | Mom, Sisters | **Same as below, but with an additional sister.** |
+| **Janette and Nina** |  | https://files.catbox.moe/yd4707.png |
+| ![](https://files.catbox.moe/yd4707.png) | Mom, Sister | **A zombie apocalypse broke out four years ago. You were with special forces before the world ended and have been taking care of your mother and sister ever since. You are their lifeline, protecting them and supplying them with resources. You found an old cold war bunker early on where they can hide while you scout, hunt, and scavenge. However, the loneliness is driving you mad, especially since you are confined in a small space with two very... fertile... women...** |
+| **Agatha** |  | https://files.catbox.moe/43heuc.png |
+| ![](https://files.catbox.moe/43heuc.png) | Sister | **You and your sister Agatha grew up in a religious community. Your sister had to flee your village when it was revealed that she was secretly studying magic and became a witch. You and your mother were the only ones who defended her. You two were the most important people in her life. Years later, your mother passed away from a sudden illness. Agatha appears on your doorstep one night with a strange proposal: She wants to resurrect your mother by siring an incestuous child and implanting your mother's soul into it.** |
 | **Ashley** |  | https://files.catbox.moe/6a2n5x.png |
-| ![](https://files.catbox.moe/6a2n5x.png) | Mom | **Pretty much the same as the scenario below, but this time you drugged her so that she can't resist. Oh, and you secretly caught her licking your dried essence from used tissues. Careful, can be very rapy and heartbreaking.** |
+| ![](https://files.catbox.moe/6a2n5x.png) | Mom | **Pretty much the same scenario below, but this time you drugged her so that she can't resist. Oh, and you secretly caught her licking your dried essence from used tissues. Careful, can be very rapy and heartbreaking.** |
 | **Julia** |  | https://files.catbox.moe/ubya1o.png |
-| ![](https://files.catbox.moe/ubya1o.png) | Mom | **Your mom is sexually frustrated. The lack of sex drives her crazy. Being a good son, you decided that you had to relieve her pain. I snuck into her bedroom during night with the intent of pleasuring her while she was asleep. You were sure the subconscious stimulation would have a positive effect on her. Little did you knew that she was actually awake and only pretending to be asleep...** |
+| ![](https://files.catbox.moe/ubya1o.png) | Mom | **Your mom is sexually frustrated. The lack of sex drives her crazy. Being a good son, you decided that you had to relieve her pain. You snuck into her bedroom during night with the intent of pleasuring her while she was asleep. You were sure the subconscious stimulation would have a positive effect on her. Little did you knew that she was actually awake and only pretending to be asleep...** |
 | **Nora and Luna** |  | https://files.catbox.moe/gihfx9.png |
 | ![](https://files.catbox.moe/gihfx9.png) | Mom, Sister | **Luna is your twin sister. You are the prince and princess of a kingdom, and Nora is your mother, the queen. Your father died several years ago due to sickness. Even though Luna and you are out of age, you are still not married. Nora has become increasingly agitated as to why you are not looking for spouses. In truth, Luna and you have fallen in love. You bound Nora to her bed while she was asleep. You are going to confess and give her the grandchildren she so desperately wants, right in front of her eyes...** |
 | **Nicole** |  | https://files.catbox.moe/pwkz8k.png |
-| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down after a while, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has very... special... Christmas gift for you...** |
+| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has very... special... Christmas gift for you...** |
 | **Caitlin** |  | https://files.catbox.moe/cq5bqx.png |
-| ![](https://files.catbox.moe/cq5bqx.png) | Mom | **You are stranded with your mom on a desolate island. You've been stuck on that island for three years and have both become sexually frustrated. One evening your mom approaches you and suggests masturbating in front of each other...** |
+| ![](https://files.catbox.moe/cq5bqx.png) | Mom | **You are stranded with your mom on a isolated island. You've been stuck on that island for three years and have both become sexually frustrated. One evening, your mom approaches you and suggests masturbating in front of each other...** |

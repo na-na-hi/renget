@@ -754,6 +754,7 @@ Attack of Titans (Flying Force, Maddox): https://rentry.org/fwfpv
 Maxine Nguyen in: Smoke Break (Radius, Marrow, Spark, Recoil, Drone, Arena): https://rentry.org/7vudv
 A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D): https://rentry.org/y4fad
 Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/8k3mk (secret: https://rentry.org/p7tyx)
+Gossip 7 (Spark, Recoil, Drone, Radius, Arena): https://rentry.org/3ihws
 Dragon's Visit - (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata): https://rentry.org/4457t
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

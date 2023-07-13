@@ -95,6 +95,7 @@
 [CRITIC](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)|Self-correct with tool-interactive critique scripts (Question Answering and Program Synthesis) 
 [Honest LLaMa](https://github.com/likenneth/honest_llama)|Inference-Time Intervention shifting model activations during inference to increase accuracy
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
+[floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
 [AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models

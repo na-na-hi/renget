@@ -23,6 +23,10 @@ To make bots use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
 
 >To everyone's surprise [anon](https://desuarchive.org/g/thread/94394525#94395684) is alive
 ***
+I don't even know anymore. No one makes any bots to share at /aicg/.
+>The new bot format has been released, all card are now .png and compatible with spec_v2.
+and the official bot hosting is now live so go there, I guess: https://bots.miku.gg
+***
 ***
 ***
 Email for new submissions:

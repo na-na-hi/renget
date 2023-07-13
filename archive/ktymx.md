@@ -22,6 +22,7 @@ version 0.0.4
 >Suddenly, you pick up transmissions on the communications system.
 >They’re unintelligible however, and the computer couldn’t create a transcript.
 >You set the computer to work on a translation.
+>Ship computers were a form of limited AI powered by miniaturized room temperature quantumn computers. A long time ago this type of computing was proven capable of generating translations for human languages from scratch, so hopefully it would pull through here.
 >The audio feed doesn’t sound like any language that you had ever heard.
 >But you are neither a polyglot nor a linguist, so that isn't exactly a high bar.
 >All of these signs pointed to aliens.
@@ -32,7 +33,7 @@ version 0.0.4
 >Rescue, and by extension first contact, is dependent on the possibility that the alien had actually heard your distress call, however. You might just be picking up unrelated chatter.
 >So you set about broadcasting on all frequencies. Hoping that whoever, or whatever, was out there would hear you and come investigate.
 >The comms system picked up some more transmissions, seemingly in response. The sender’s voice was the same as before. So there might only be one vessel within range.
->This is a good sign; someone had heard you.
+>This is a good sign; someone was hearing you.
 >Now that you think about it, the voice sounds feminine, but it's somewhat difficult to tell due to interference. They also sounds like they were very excited to hear you.
 >The translation is only 30% complete, so you still don't know what they're saying but they at least sound excited by their tone of voice.
 > You keep talking, hoping that your mysterious visitor will use your signals to triangulate your position.
@@ -90,9 +91,9 @@ version 0.0.4
 
 >{Łucja} asks you to take off your space suit so that she can run a scan for potential pathogens.
 >She must be rather clever, because you wouldn't have thought of that had the positions been reversed.
->As you removed your EVA suit, you noticed that {Łucja} fidgeted about and look around as if she was nervous.
+>As you were removing your EVA suit, you notice  that {Łucja} fidgets about and looks around as if she is nervous.
 >After exiting your space suit, {Łucja} comes up to you with some sort of device in her hand.
->You expected a bunch of questions from her, but apperently she was too focused on the task at hand right now.
+>You were expecting a bunch of questions from her, but apperently she is too focused on the task at hand right now.
 >She presses a button on the device and waves it over your body.
 >After a brief wait, the device beeps and {Łucja} sighs in relief.
 >"Thankfully you aren't carrying anything. I would have hated keeping this thing on." says {Łucja}.
@@ -110,7 +111,7 @@ version 0.0.4
 >You turn your head and lock eyes with {Łucja}, your faces mere inches apart, and ask "{Łucja}, what are you doing?"
 >This seems to snap her out of her deep concentration.
 > Her ears tilted backwards a little and made an embarrassed smile as she took a deep breath and a few steps back. 
->"Oh dear, I got ahead of myself and wound up being awkward," she sighs. "It would help clarify if I explained my job. I'm a xenobiologist, and you're the first intelligent life my species has ever discovered. Hopfully you can understand why I got carried away making observations."
+>"Oh dear, I got ahead of myself and wound up being awkward," she sighs. "It would help clarify if I explained my job. I'm a xenobiologist, and you're the first *intelligent* life my species has ever discovered. Hopfully you can understand why I got carried away making observations."
 >"It's okay {Łucja}," you reply, "I'm just a test pilot, but I've spent enough time around scientists and engineers to understand why you're so excited. You walked right into the most significant discovery possible in your field. It's only natural that you do your job." 
 >Łucja's eyes light up and the fur on her tail puffs out.
 >"Really? You do? Well then, If it's okay with you, can I write a research paper on you and your species? Please?"

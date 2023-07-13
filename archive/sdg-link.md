@@ -88,8 +88,9 @@ https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
 ###Try SDXL online for free
 https://clipdrop.co/stable-diffusion
 
-###Recommended SDXL workflow for ComfyUI
+###Recommended SDXL workflows for ComfyUI
 https://github.com/SytanSD/Sytan-SDXL-ComfyUI
+https://github.com/SeargeDP/SeargeSDXL
 
 Alternate workflow
 https://user-images.githubusercontent.com/48502124/250187845-ba7f710f-e365-4dc0-8be8-a364e47d92f3.png

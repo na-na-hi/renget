@@ -351,4 +351,5 @@ https://arch.b4k.co/vp/thread/54059516/ 19 kaizoshit, splinter playthroughs, and
 https://arch.b4k.co/vp/thread/54062801/ 20 sidequest hell 2
 https://arch.b4k.co/vp/thread/54067307/ 21 sidequest hell 3
 https://arch.b4k.co/vp/thread/54072949/ 22 fucking commies
-https://arch.b4k.co/vp/thread/54081237/ 23
+https://arch.b4k.co/vp/thread/54081237/ 23 well, that was anticlimactic
+https://arch.b4k.co/vp/thread/54083079/ 24 aw shit here we go again
