@@ -40,9 +40,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACharacterCards
 
 >New Stuff:
-Artfags:
->Alzheimers Girl
-https://i.4pcdn.org/tg/1689183997634516.png
+Writefags:
+>Gossip 7 (Hivemind)
+https://rentry.org/3ihws
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -542,6 +542,8 @@ https://rentry.org/7vudv
 https://rentry.org/y4fad
 >Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
 https://rentry.org/8k3mk
+>Gossip 7 (Hivemind)
+https://rentry.org/3ihws
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

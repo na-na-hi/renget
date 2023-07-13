@@ -56,9 +56,7 @@ https://dezgo.com/image2image
 ###Inpainting Sites
 https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting 
 https://inpainter.vercel.app/paint
-###DeepFloyd
-https://huggingface.co/spaces/DeepFloyd/IF
-###SDXL
+###SDXL-online
 https://clipdrop.co/stable-diffusion
 
 ##Models, Textual Inversion & Embeddings
@@ -70,6 +68,35 @@ https://rentry.org/animusmixed
 https://rentry.org/embeddings
 https://rentry.org/lftbl
 https://rentry.org/sdmodels
+
+##SDXL
+###What is SDXL?
+https://stability.ai/blog/sdxl-09-stable-diffusion
+
+###Front-ends with SDXL support
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/sdxl
+https://github.com/comfyanonymous/ComfyUI
+https://github.com/vladmandic/automatic
+
+###Download the SDXL v0.9 leak
+magnet:?xt=urn:btih:45ec120e40c68176ae5414250726cceaffe22001&dn=sd_xl_base_0.9.safetensors
+magnet:?xt=urn:btih:b2685d9ae2026df0697e5f1193406cba16bad435&dn=sd_xl_refiner_0.9.safetensors
+
+Pruned models
+https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
+
+###Try SDXL online for free
+https://clipdrop.co/stable-diffusion
+
+###Recommended SDXL workflow for ComfyUI
+https://github.com/SytanSD/Sytan-SDXL-ComfyUI
+
+Alternate workflow
+https://user-images.githubusercontent.com/48502124/250187845-ba7f710f-e365-4dc0-8be8-a364e47d92f3.png
+
+###When will SDXL v1.0 release?
+July 18th according to Emad of Stability AI
+https://twitter.com/EMostaque/status/1676923097159712768
 
 ##Guides
 ###Wiki
@@ -196,4 +223,4 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 6th - https://pastebin.com/DVyWpCCg
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 13th - https://pastebin.com/M18MgKNM

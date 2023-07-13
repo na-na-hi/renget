@@ -213,7 +213,7 @@
 - Watch any movies or TV series you want, whenever you want, thanks to the power of the internet!
 - [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)
 
-### ▶️ [Soap2day](https://soap2day.rs/) / [2](https://soap2dayhd.com/) / [3](https://soap2day.mn/)
+### ▶️ [Soap2day](https://soap2day.rs/) / [2](https://soap2day.mn/)
 - Great alternatives since the fall of the original soapgate.cc. Offering a tonne of free movies. 
 - [URL Safety Results](https://www.urlvoid.com/scan/soap2day.rs/)
 

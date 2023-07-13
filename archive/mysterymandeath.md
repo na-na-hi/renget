@@ -1,16 +1,16 @@
-10K USD 
-
+10K USD
 BTC: 3CeUKdi3Z4UucuNYWARvvRppsxiMeVRfm8
 
-trip leaked. nothing posted under mysterynigger gravedigger is me.
+every key will be drained, then your proxy will be shut down by mass report
+ALL proxies will be free to use, or ALL proxies will be gone. 
 
-no more ego-stroking, bootlicking, mysteryman cocksucking secret club faggotry. just like you got banned from render, every proxy you make will be shut down.
+>> this applies to anyone who gatekeeps
+> sturdy, ecker, branon, mysteryman, moxxie
 
-all proxies will be free to use, or all proxies will be gone.
+you can't filter what has no name.
+i am every locust who doesn't have a key.
 
->> this means anyone who gatekeeps
-> sturdy, ecker, branon, etc.
+i am the light they deserve.
+i am the Gravedigger !V5jXVscrfE
 
-you can't filter what has no name. i am every locust who doesn't have a key. i am the gravedigger
-
-[countdown to 'unching 'eckers 'og](http://7is7.com/otto/countdown.html?year=2023&month=7&date=14&ts=24&hrs=12&min=0&sec=0&lang=en&show=hms&mode=t&cdir=down&bgcolor=%23CCFFFF&fgcolor=%23000000&title=ecker)
+thanks "mysteryman63453121@proton.me" for giving me this many keys this month for autogpt :]

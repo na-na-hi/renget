@@ -276,10 +276,10 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 #### 例
 ![IMG](https://files.catbox.moe/j6lflf.png)
 上の画像には次のタグがつけられた。
-`1girl, kayoko (blue archive), solo, multicolored hair, black hair, horns, hood, white hair, halo, sitting, skirt, bag, hoodie, two-tone hair, red eyes, blush, long sleeves, black hoodie, red skirt, ponytail, bangs, looking at viewer, closed mouth, miniskirt, collarbone, hair between eyes, feet out of frame, plaid skirt, pleated skirt, sidelocks, hood down, hand up, mole on neck, medium hair, backpack, clothes writing, plaid`
+`kayoko (blue archive), 1girl, solo, multicolored hair, black hair, horns, hood, white hair, halo, sitting, skirt, bag, hoodie, two-tone hair, red eyes, blush, long sleeves, black hoodie, red skirt, ponytail, bangs, looking at viewer, closed mouth, miniskirt, collarbone, hair between eyes, feet out of frame, plaid skirt, pleated skirt, sidelocks, hood down, hand up, mole on neck, medium hair, backpack, clothes writing, plaid`
 
 この画像から、次のタグを削除する。するとそれらのタグが`kayoko (blue archive)`に集約される。
-`white_hair,horns,black_hair,halo,red_eyes,ponytail,two-tone_hair,bangs,long_hair,hair_between_eyes,wings,sidelocks,blush,multicolored_hair`
+`white_hair,horns,black_hair,halo,red_eyes,ponytail,two-tone_hair,bangs,long_hair,hair_between_eyes,wings,sidelocks,blush,multicolored_hair,halo`
 
 ### 構図・シチュエーション
 Additional Tagsで先頭に構図・シチュエーション名を追加する。Keep tokenは1。

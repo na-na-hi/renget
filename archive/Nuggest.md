@@ -7,7 +7,10 @@
 ##->https://www.chub.ai/users/Nuggest<-
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
-I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others—should be mitigated by the example dialogue. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My card descriptions differ in their formatting because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
+I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My card descriptions differ in their formatting because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
+!!! warning
+    Might go on hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to be trashed.
+->![](https://files.catbox.moe/h3habt.png)<-
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, or male/futa cards.
@@ -18,12 +21,10 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Bots
 |  |  | 
 | ------ | ------ |
-| **Mirabel** | https://www.chub.ai/characters/Nuggest/Mirabel |
-| ![Mirabel](https://files.catbox.moe/s497oj.png) | **[Reverse scenario of my Helene card] You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today the thuggish guards accused Mirabel of a made-up crime to have some "fun" with her. But you have finally returned, just in time...** [v1.0, Claude, 12.07.23] |
 | **Aegis** | https://www.chub.ai/characters/Nuggest/aegis-shield-of-the-forgotten |
-| ![Aegis](https://files.catbox.moe/kfpi6l.png) | **Aegis, also known as the Shield of the Forgotten (Godess of Lonely and Bullied Schoolgirls), is a young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. She’s lonely and anguished, and she blames herself for the recent suicide of a girl. Aegis hopes that you will be able to help her — in more ways than one…** [v1.0, Claude, 06.07.23] ==[Entry for /aicg/ theme week God of Something Unremarkable]== |
+| ![Aegis](https://files.catbox.moe/kfpi6l.png) | **Aegis, also known as the Shield of the Forgotten (Godess of Lonely and Bullied Schoolgirls), is a young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. She’s lonely and anguished, and she blames herself for the recent suicide of a girl. Aegis hopes that you will be able to help her — in more ways than one…** [v1.2, Claude, 13.07.23] ==[Entry for /aicg/ theme week God of Something Unremarkable]== |
 | **Helene** | https://www.chub.ai/characters/Nuggest/Helene |
-| ![Helene](https://files.catbox.moe/ojw66o.png) | **You open the door to find Helene, your long lost betrothed, standing before you. She has returned from years of war, a shadow of her former self, haunted by the horrors she witnessed. Though she has come back to you, as she promised, the light in her eyes is gone and she seems a stranger. Can you fix her?** [v1.1, Claude, 12.07.23] |
+| ![Helene](https://files.catbox.moe/ojw66o.png) | **You open the door to find Helene, your long lost betrothed, standing before you. She has returned from years of war, a shadow of her former self, haunted by the horrors she witnessed. Though she has come back to you, as she promised, the light in her eyes is gone and she seems a stranger. Can you fix her?** [v1.1, Claude, 12.07.23] *==Card with role reversal available under Unreleased Cards (Mirabel)==* |
 | **Lina** | https://www.chub.ai/characters/Nuggest/lina-the-little-match-girl |
 | ![Lina](https://files.catbox.moe/5tinfu.png) | **Retelling of The Little Match Girl. A literary fairy tale about a poor, dying girl. You can save her in this retelling. Story by Danish poet and author Hans Christian Andersen (1845).** [v1.0, Claude, 17.06.23] *==Alternate, drastically shortened greeting available as a swipe or in card's Creator's Notes. Doesn't have any example dialogue as I saw it as unnecessary, works well with Claude.== Art by tiffahni (https://medibang.com/u/tiffahni/)* |
 | **Helga** | https://www.chub.ai/characters/Nuggest/Helga |
@@ -81,19 +82,11 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 
 ***
 ***
-####Variations
-|  |  | 
-| ------ | ------ |
-| **Axylia** | https://files.catbox.moe/7to6o5.png |
-| ![Axylia](https://files.catbox.moe/7to6o5.png) | ==Alternate example dialogue for a more "feral" experience== **You imagined life would be more peaceful after moving to a secluded ranch instead of getting plagued by strange events. Tonight you were once more roused from sleep, this time by noises behind your house. You expected a coyote rummaging through your trash. However, what you found wasn't an animal. It wasn't human either...** [v1.0, Claude, 09.06.23] |
-| **Saliya** | https://files.catbox.moe/mu8qfo.png |
-| ![Saliya](https://files.catbox.moe/mu8qfo.png) | ==Alternate greeting in second person perspective== **A desperate young elf girl asking you, the emperor of humankind and conqueror of the elder races, for help...** [v1.0, Claude, 07.06.23]  |
-
-***
-***
 ####Unreleased Cards
 |  |  | 
 | ------ | ------ |
+| **Mirabel** | https://files.catbox.moe/3lvfed.png |
+| ![Mirabel](https://files.catbox.moe/3lvfed.png) | **[Reverse scenario of my Helene card] You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today the thuggish guards accused Mirabel of a made-up crime to have some "fun" with her. But you have finally returned, just in time...** [v1.3, Claude, 13.07.23] *`Deleted from Chub because I'm tired of getting trashed by Turbolets. Supposedly was unusable. Works fine for me.`* |
 | **Josie** | https://files.catbox.moe/wcla37.png |
 | ![Josie](https://files.catbox.moe/wcla37.png) | ==Prototype card== **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my mind for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
 | **Mabel** | https://files.catbox.moe/fnxd6n.png |
