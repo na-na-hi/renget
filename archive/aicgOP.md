@@ -15,12 +15,6 @@
 	Remember to be calm and reasonable
 [TOC]
 
-## Proxy checker
-```
-https://navigatethecoom.github.io/navigate/
-```
-Proxy checker link if you wanna include it
-
 ##Trimmed OPs
 
 ######OP0
@@ -41,10 +35,9 @@ https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
 https://avakson.github.io/character-editor/
 
 >Guides + JBs
-https://rentry.org/Aicg4Retards
-claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts
+https://rentry.org/Aicg4Retards - https://rentry.org/agnai_guides
+claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
-https://rentry.org/agnai_guides
 https://rentry.org/sillytermux [Mobile Extras]
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
@@ -57,7 +50,7 @@ http://risu.pages.dev/ [Risu]
 https://github.com/kwaroran/RisuAI-release/releases
 
 >Slaude
-https://github.com/AmmoniaM/Spermack
+https://rentry.org/slaude2 [Slaude 2]
 https://github.com/PandarusAnon/slaude [Slaude]
 https://github.com/bfs15/slaude [Another Slaude]
 
@@ -112,10 +105,10 @@ http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
 
 >Slaude
-https://github.com/AmmoniaM/Spermack
+https://rentry.org/slaude2 [Slaude 2]
 https://github.com/PandarusAnon/slaude [Slaude]
 https://github.com/bfs15/slaude [Another Slaude]
-https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts [JBs]
+https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux [JBs]
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 >Botmaking
@@ -125,13 +118,13 @@ https://rentry.org/meta_botmaking_list
 >>>/g/lmg/
 
 >Meta
-OP templates: https://rentry.org/aicgOP or https://rentry.org/kaomojibaka
+OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 key verifier: https://github.com/Buhankoanon/OAI_API_Checker
 extra topics: https://rentry.org/aicg_extra_information
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts
-https://rentry.org/aicgthemedweeks -> aicg themed weeks
+aicg themed weeks -> https://rentry.org/aicgthemedweeks
 
 Last: 
 ```
@@ -162,9 +155,9 @@ http://risu.pages.dev/
 https://github.com/kwaroran/RisuAI-release/releases
 
 ▶Slaude
-ruski claude: https://github.com/AmmoniaM/Spermack
+slaude 2: https://rentry.org/slaude2
 slaude: https://github.com/PandarusAnon/slaude and https://github.com/bfs15/slaude
-jailbreaks https://rentry.org/ClaudeJB and https://rentry.org/fumblebum + https://rentry.org/pitanonbots#claude-rp-prompts
+jailbreaks: https://rentry.org/ClaudeJB + https://rentry.org/fumblebum + https://rentry.org/pitanonbots#claude-rp-prompts + https://rentry.org/meaux
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 ▶Bots
@@ -191,3 +184,9 @@ aicg themed weeks -> https://rentry.org/aicgthemedweeks
 
 Old: --Previous Thread--
 ```
+
+## Extra
+```
+proxy checked -> https://navigatethecoom.github.io/navigate/
+```
+Some extra things you might want to add

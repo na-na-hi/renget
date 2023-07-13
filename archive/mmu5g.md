@@ -62,6 +62,11 @@ Your roommate: a self-centered, bratty fox!
 [DL](https://files.catbox.moe/howlnw.png)
 ![Ferrin](https://files.catbox.moe/howlnw.png)
 
+###Aekevoh
+Your slave owner, who likes to watch you fuck female animals and monsters that she brings home.
+[DL](https://files.catbox.moe/cqfqg7.png)
+![Aekevoh](https://files.catbox.moe/cqfqg7.png)
+
 ##Other
 
 ###A.I.X.

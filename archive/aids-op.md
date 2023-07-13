@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/96pa4k.jpg)
-Harvest Edition
+![suggested OP image](https://imgur.com/dwMrECv.jpg)
+Our Archive, Comrades Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>436348751
+Last thread: >>437421517
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -13,7 +13,7 @@ KoboldAI — Free; local or remote colab: https://koboldai.org / https://kobolda
 KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
 Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
 LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
-Saga  — Free; remote (use J2) https://app.sagarpg.io
+Saga  — Paid, remote multi-model https://app.sagarpg.io
 
 ▶Other AI
 Abandon AI Dungeon! https://rentry.org/remember-what-they-took-from-you
@@ -33,14 +33,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\> The winner of the Theme Friday poll is Text Adventure/Infinite Zork! It is pitch black. You are likely to be eaten by a grue. >>435772539
+\>Text Adventure/Infinite Zork Friday is over; theme suggestions for next week are being voted on!
  
 ▶News
-(06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind... >>436140401 >>436140937 >>436141853
+(07/09)Pretraining on the next NAI model is complete, no ETA yet.
+(07/06) Sama-chama goes Global https://openai.com/blog/gpt-4-api-general-availability
+(07/06) Continuing the Stability tradition, SDXL gets leaked https://pastebin.com/b8kXrkAF
+(06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind… >>436140401 >>436140937 >>436141853
 (06/23-25?) Local got high context, Laptops need not apply.
-(06/20) Saga takes testers for GPT-4 and Turbo 16k (?)
-(06/19) Venus/Chub launches a 40b Falcon finetune subscription https://venus.chub.ai/mars
-(06/18) UPDATE: Miraheze might not die? https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down
 
 
 #Perma-Template

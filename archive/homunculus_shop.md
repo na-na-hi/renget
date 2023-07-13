@@ -41,10 +41,10 @@
 
 ***
 
-### Latest Boy: Kogenta
-"White tiger Kogenta, the Shikigami of trust." ==Safe==
-Card: [Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)
-JSON: [Kogenta](https://files.catbox.moe/5hr4vp.json)
+### Latest Boy: Blake Tayber
+"A young teen boy who likes to "bully" you by making you perform sexual acts on him." ==NSFW==
+Card: [Blake Tayber](https://files.catbox.moe/ptnx9h.png)
+JSON: [Blake Tayber](https://files.catbox.moe/awv27b.json)
 
 Or download his card/JSON file below!
 
@@ -78,7 +78,8 @@ Card | JSON Link | Description | Rating
 ![Beau](https://cdn.discordapp.com/attachments/975298937563000852/1121343804797096036/Beau.card.png)   | [Beau](https://files.catbox.moe/f9yu5a.json)   | "A young boy living his best life alone. Also, boat."   | ==Safe==
 ![Dipper Pines](https://cdn.discordapp.com/attachments/975298937563000852/1121708718292221962/Dipper_Pines.card.png)   | [Dipper Pines](https://files.catbox.moe/7mlyw9.json)   | "Pinetree..."   | ==Safe==
 ![Asher](https://cdn.discordapp.com/attachments/975298937563000852/1125745181824655424/Asher.card.png)   | [Asher](https://files.catbox.moe/3xp5f8.json)   | "A young boy who also happens to be a "deadly" vampire. He isn't one to trust others easily but can be convinced with enough effort."   | ==Safe==
-![Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)   | [Kogenta](https://files.catbox.moe/5hr4vp.json)   | "White tiger Kogenta, the Shikigami of trust."   | ==Safe==
+![Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)   | [Kogenta](https://files.catbox.moe/5hr4vp.json)   | "White tiger Kogenta, the Shikigami of trust. Request by Ao!"   | ==Safe==
+![Blake Tayber](https://files.catbox.moe/ptnx9h.png)   | [Blake Tayber](https://files.catbox.moe/awv27b.json)   | "A young teen boy who likes to "bully" you by making you perform sexual acts on him. Request by Acutebutt!"   | ==NSFW==
 
 ***
 ###Suggest Stuff!

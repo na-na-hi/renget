@@ -3,6 +3,8 @@
 [TOC]
 
 #Pending Requests
+1. Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!"
+1. Beast pouring [two shots of vodka](https://www.youtube.com/watch?v=PRoFh5YhcPo)
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
 1. Porygon being called out by Bill ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head

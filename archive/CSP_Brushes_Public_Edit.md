@@ -176,6 +176,7 @@
 **Bushes Groundwork Brushes (茂みの下地ブラシ)** | [1756648](https://assets.clip-studio.com/en-us/detail?id=1756648) | [DL](https://files.catbox.moe/jhlhaf.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/66/1756648/thumbnail)
 **Nature Brush Pack** | [1874837](https://assets.clip-studio.com/en-us/detail?id=1874837) | [DL](https://files.catbox.moe/lifx49.7z) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/48/1874837/thumbnail)
 **Glitch Brushes 3**|[1892357](https://assets.clip-studio.com/en-us/detail?id=1892357)|[DL](https://files.catbox.moe/cecurw.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/57/23/1892357/thumbnail)
+**YN Painting Brush Set** | [1943027](https://assets.clip-studio.com/en-us/detail?id=1943027) | [DL](https://files.catbox.moe/qlp6x4.rar) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/30/1943027/thumbnail?1682267327)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()

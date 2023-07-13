@@ -11,6 +11,6 @@ all proxies will be free to use, or all proxies will be gone.
 >> this means anyone who gatekeeps
 > sturdy, ecker, branon, etc.
 
-you can't filter what has no name. i am every locust who doesn't have a key. i am light. i am vengeance
+you can't filter what has no name. i am every locust who doesn't have a key. i am the gravedigger
 
-[countdown to digging eckers grave](http://7is7.com/otto/countdown.html?year=2023&month=7&date=14&ts=24&hrs=12&min=0&sec=0&lang=en&show=hms&mode=t&cdir=down&bgcolor=%23CCFFFF&fgcolor=%23000000&title=ecker)
+[countdown to 'unching 'eckers 'og](http://7is7.com/otto/countdown.html?year=2023&month=7&date=14&ts=24&hrs=12&min=0&sec=0&lang=en&show=hms&mode=t&cdir=down&bgcolor=%23CCFFFF&fgcolor=%23000000&title=ecker)

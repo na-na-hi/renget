@@ -1,5 +1,7 @@
 # Norquinal's Bots
 
+->![I'm going on hiatus for at least a month, if not more.](https://files.catbox.moe/vse2lh.png)<-
+
 [TOC3]
 
 ### Recent Releases

@@ -10,7 +10,7 @@
 ```
 // ==UserScript==
 // @name         CSP Markdown conversion
-// @version      1.1
+// @version      1.2
 // @description  Formats Clip Studio link with title, thumbnail, and price in markdown format
 // @match        https://assets.clip-studio.com/*/detail?id=*
 // @grant        GM_addStyle
@@ -34,43 +34,47 @@
     // Add a click event listener to the button
     button.addEventListener('click', function() {
         // Get the necessary information from the page
-        var titleElement = document.querySelector('.materialHeaderTitle');
-        var title = titleElement.querySelector('span[data-translated-text]').textContent.trim() || titleElement.querySelector('span[data-original-text]').textContent.trim();
-        var url = window.location.href;
-        var priceElements = document.querySelectorAll('.price__price');
-        var unitElements = document.querySelectorAll('.price__unit');
-        var thumbnail = document.querySelector('.materialHeaderThumbnail--pc img').getAttribute('src');
+        var titleElement = document.querySelector('.materialHeaderTitle span');
+        if (titleElement) {
+            var title = titleElement.textContent.trim();
+            var url = window.location.href;
+            var priceElements = document.querySelectorAll('.price__price');
+            var unitElements = document.querySelectorAll('.price__unit');
+            var thumbnail = document.querySelector('.materialHeaderThumbnail--pc img').getAttribute('src');
 
-        // Extract the ID from the URL
-        var id = url.match(/id=(\d+)/)[1];
+            // Extract the ID from the URL
+            var id = url.match(/id=(\d+)/)[1];
 
-        // Format the information in markdown
-        var markdown = '**' + title + '** | [' + id + '](' + url + ') | ';
+            // Format the information in markdown
+            var markdown = '**' + title + '** | [' + id + '](' + url + ') | ';
 
-        for (var i = 0; i < priceElements.length; i++) {
-            var price = priceElements[i].textContent.trim();
-            var unit = unitElements[i].textContent.trim();
+            for (var i = 0; i < priceElements.length; i++) {
+                var price = priceElements[i].textContent.trim();
+                var unit = unitElements[i].textContent.trim();
 
-            // Format the price and unit based on the type
-            var formattedPrice = price + ' ' + unit;
-            if (unit === 'GOLD') {
-                formattedPrice = '==' + formattedPrice + '==';
+                // Format the price and unit based on the type
+                var formattedPrice = price + ' ' + unit;
+                if (unit === 'GOLD') {
+                    formattedPrice = '==' + formattedPrice + '==';
+                }
+
+                markdown += '**' + formattedPrice + '**';
+                if (i !== priceElements.length - 1) {
+                    markdown += ', ';
+                }
             }
 
-            markdown += '**' + formattedPrice + '**';
-            if (i !== priceElements.length - 1) {
-                markdown += ', ';
-            }
+            markdown += ' | ![](' + thumbnail + ')';
+
+            // Copy the formatted markdown to the clipboard
+            copyToClipboard(markdown);
+
+            // Replace the button with a checkmark
+            button.innerText = '✅';
+            button.disabled = true;
+        } else {
+            console.error('Failed to find title element.');
         }
-
-        markdown += ' | ![](' + thumbnail + ')';
-
-        // Copy the formatted markdown to the clipboard
-        copyToClipboard(markdown);
-
-        // Replace the button with a checkmark
-        button.innerText = '✅';
-        button.disabled = true;
     });
 
     // Function to copy text to the clipboard
@@ -83,6 +87,7 @@
         document.body.removeChild(textarea);
     }
 })();
+
 
 ```
 

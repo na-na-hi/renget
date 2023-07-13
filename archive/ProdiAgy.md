@@ -44,6 +44,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
+!!! danger Personally I don't recommend any kind of noise (Multires/Original).
 !!! note train_on_input means training inwards (good for characters), disabling it means training outwards (good for style).
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
@@ -63,7 +64,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-3\" \"d_coef=2.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=5e-3\" \"d_coef=2.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -87,6 +88,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
+!!! danger Personally I don't recommend any kind of noise (Multires/Original).
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ```
 {

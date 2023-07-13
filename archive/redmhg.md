@@ -2,19 +2,15 @@
 ---
 ___
 ___
-#### *Last updated on:* 6/27/2023 (MM/DD/YYYY)
+#### *Last updated on:* 7/12/2023 (MM/DD/YYYY)
 
 - [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was added
 
 - [Doujin] *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM)* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0)* were added
 
-- [Story] *[Two](https://www.sofurry.com/view/1879358) [stories](https://www.sofurry.com/view/1958908/)* by Mahlzeit were added
-
 #### *Previously:*
 
-- [Doujin] *[The Time When the Wings of Rebellion Cross](https://mega.nz/file/HoIBRCLZ#wU1PElaQVviTm9lsTuP8bscXMbwgSbYsYqs3mUi1P3A)* was added
-
-- [Story] *[Welcome to the Jungle](https://www.furaffinity.net/view/49258700/)* `[TF]`was added
+- [Story] *[Two](https://www.sofurry.com/view/1879358) [stories](https://www.sofurry.com/view/1958908/)* by Mahlzeit were added
 
 - [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 2)](https://rentry.org/sfbf5)* was updated
 
