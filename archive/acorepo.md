@@ -136,6 +136,8 @@ https://civitai.com/models/102888/wilykit-thundercats-80s-version
 https://civitai.com/user/Montitto/models
 	+ Diana
 https://civitai.com/models/88837/diana-dungeons-and-dragons-cartoon
+- Hannah Dundee (Cadillacs and Dinosaurs)
+https://civitai.com/models/107550/hannah-dundee-cartoon-style
 - Jessica Rabbit (Who Framed Roger Rabbit?)
 https://civitai.com/models/17318/jessica-rabbit
 https://civitai.com/models/44410/jessica-rabbit
@@ -277,18 +279,21 @@ https://civitai.com/models/74988/anissa-invincible-character-lora
 - Harley Quinn 2019 Series
 	+ Harley Quinn 
 https://civitai.com/models/77425/harley-quinn-2019-serie
-		- (Batman: TAS)
+		- (Batman: The Animated Series)
 https://civitai.com/models/60891/harley-quinn-batman-the-animated-series-character-lora
 		- (Rebirth)
 https://civitai.com/models/102504/harley-quinn-rebirth-character-lora
 	+ Poison Ivy
 https://civitai.com/models/80257/poison-ivy-harley-quinn-serie-2019
-- Catwoman (Batman: TAS)
+- Catwoman (Batman: The Animated Series)
 https://civitai.com/models/76054/catwoman-batman-the-animated-series-character-lora
-- Lois Lane (My Adventure with Superman)
-https://civitai.com/models/106235/lois-lane-my-adventures-with-superman
-	- (Superman: TAS)
+- Superman: The Animated Series
+	- Lois Lane
 https://civitai.com/models/106283/lois-lane-the-best-version
+		- (My Adventure with Superman)
+https://civitai.com/models/106235/lois-lane-my-adventures-with-superman
+	- Mercy Graves
+https://civitai.com/models/107932/mercy-graves-character-lora
 - Young Justice
 	+ Artemis/Tigress
 https://civitai.com/models/48751/artemistigress-young-justice-lora
@@ -296,6 +301,7 @@ https://civitai.com/models/48751/artemistigress-young-justice-lora
 https://civitai.com/models/58269/aquagirl-young-justice-lora
 	- Cheshire
 https://civitai.com/models/99415/cheshire-young-justice-lora
+https://civitai.com/models/107928/cheshire-character-lora
 	- Miss Martian
 https://civitai.com/models/52581/miss-martian-young-justice-lora
 	- Rocket
@@ -360,10 +366,13 @@ https://civitai.com/models/77325/pidge-voltron
 https://civitai.com/models/32051/reagan-ridley
 - The Legend of Vox Machina
 	+ Keyleth
-https://civitai.com/models/48148/keyleth-the-legend-of-vox-machina
+https://civitai.com/models/93518/keyleth-or-vox-machina
+https://civitai.com/models/103972?modelVersionId=111480
 	+ Vex'ahlia
+https://civitai.com/models/103768?modelVersionId=111196
 https://civitai.com/models/35387/vexahlia-the-legend-of-vox-machina
 	- Pike Trickfoot
+https://civitai.com/models/106918?modelVersionId=114895
 https://civitai.com/models/48211/pike-trickfoot-the-legend-of-vox-machina
 - The Ghost and Molly McGee
 	- Molly McGee
@@ -387,6 +396,8 @@ https://civitai.com/models/16439?modelVersionId=19403
 https://civitai.com/models/25729/lapis-lazuli
 https://civitai.com/models/24880/lapis-lazuli
 https://civitai.com/models/26397/lapis-lazuli-steven-universe
+	- Blue Diamond
+https://civitai.com/models/108240/blue-diamond-steven-universe
 	+ Peridot
 https://civitai.com/models/61438/peridot-steven-universe-character-lora
 	- Connie
@@ -423,6 +434,8 @@ https://civitai.com/models/97921/amity-blight-the-owl-house-season-1-redux
 https://civitai.com/models/97303/amity-blight-the-owl-house-season-2
 	- Luz Noceda
 https://civitai.com/models/94728/luz-noceda	
+	- Camila Noceda
+https://civitai.com/models/107491/camila-noceda-the-owl-house
 - Lord Dominator (Wander Over Yonder)
 https://civitai.com/models/5791?modelVersionId=6747
 - My Life as a Teenage Robot
@@ -454,6 +467,8 @@ https://civitai.com/models/104156/deb-turnbull-character-lora
 https://civitai.com/models/91239/ashi-samurai-jack
 - Olga Pataki (Hey Arnold!)
 https://civitai.com/models/101240/olga-pataki
+- Susan Long (American Dragon: Jake Long)
+https://civitai.com/models/107346/susan-long-character-lora
 - The Fairly OddParents
 	- Trixie Tang
 https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
@@ -694,13 +709,21 @@ https://civitai.com/models/106178/princess-fiona-ogre-sherk-by-yeiyeiart-comissi
 https://civitai.com/models/72073/dawn-betterman-the-croods
 - Goldilocks (Puss in Boots)
 https://civitai.com/models/72127/goldilocks-puss-in-boots
-- Queen Barb (Trolls)
+https://civitai.com/models/107441/goldilocks-puss-in-boots-dreamworks-by-yeiyeiart-comissions-open
+- Trolls
+	+ Delta Dawn
+https://civitai.com/models/107023/delta-dawn-trolls
+	+ Queen Barb
 https://civitai.com/models/92614/queen-barb-trolls
+	+ Queen Poppy
+https://civitai.com/models/106998/queen-poppy-trolls
 - Kaya (Dinocore)
 https://civitai.com/models/85214/dinocore-kaya
 - Nimona
 https://civitai.com/models/107100/nimona-netflix-film
 https://civitai.com/models/106778/nimona-lora
+- AndrAIa (ReBoot)
+https://civitai.com/models/107184/andraia-or-reboot
 
 ## Game characters
 
@@ -813,6 +836,7 @@ https://civitai.com/models/17698/valkyrie-apex-legends-lora
 https://civitai.com/models/38148/wattson-apex-legends
 https://civitai.com/models/14314/wattson-apex-legends-lora
 - Lara Croft (Tomb Raider modern)
+https://civitai.com/models/108369/lara-croft-tomb-raider-series
 https://civitai.com/models/82710/lara-croft
 https://civitai.com/models/4852/was-new-lara-croft-rottr-sottr (TI)
 https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider (TI)
@@ -843,8 +867,11 @@ https://civitai.com/models/51743/coco-bandicoot-crash-bandicoot-series
 https://civitai.com/models/77283/crash-bandicoot
 - Hat Kid (A Hat In Time)
 https://civitai.com/models/31377?modelVersionId=37814
-- Toy Chica (Five Nights at Freddy's)
+Five Nights at Freddy's
+	+ Toy Chica 
 https://civitai.com/models/58722/toy-chica-character-lora-or-fnaf-five-nights-at-freddys-or
+	+ Circus Baby
+https://civitai.com/models/107084/circus-baby-fnaf
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
 - Mortal Kombat

@@ -21,7 +21,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[The Piklopedia](https://files.catbox.moe/wc1dio.png)|[The Piklopedia](https://files.catbox.moe/wc1dio.png) [MV]
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Hazel](https://files.catbox.moe/j88mh3.png), [Janette and Nina](https://files.catbox.moe/yd4707.png), [Agatha](https://files.catbox.moe/43heuc.png), [Janette, Nina, and Mia](https://files.catbox.moe/cfursj.png), [Kara](https://files.catbox.moe/s23znw.png), [Ashley](https://files.catbox.moe/6a2n5x.png), [Julia](https://files.catbox.moe/ubya1o.png), [Nora and Luna](https://files.catbox.moe/gihfx9.png), [Caitlin](https://files.catbox.moe/cq5bqx.png), [Nicole](https://files.catbox.moe/pwkz8k.png), [Belle](https://files.catbox.moe/xtuvi0.png), [Freya](https://files.catbox.moe/zzih6g.png)|[Mirabel](https://files.catbox.moe/3lvfed.png) [MV]
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Gacha Lollipops](https://files.catbox.moe/yrtnbn.png), [Eshal](https://files.catbox.moe/v9mh8q.png)|[Ōsama Game](https://files.catbox.moe/4nvdrz.png)
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Blake Tayber](https://files.catbox.moe/ptnx9h.png), [Mason](https://files.catbox.moe/c028ax.png), [Adrian](https://files.catbox.moe/g6trtw.png), [Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)|
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Blake Tayber](https://files.catbox.moe/ptnx9h.png), [Mason](https://files.catbox.moe/c028ax.png), [Adrian](https://files.catbox.moe/g6trtw.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Aekevoh](https://files.catbox.moe/cqfqg7.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Emilia](https://files.catbox.moe/buqrkp.png), [Volaria the witch](https://files.catbox.moe/td75ut.png)|[Emilia](https://files.catbox.moe/buqrkp.png) [MV]
 [UncleMarr](https://rentry.org/umarr) | Misc |[Tyrande and Ash'alon](https://files.catbox.moe/hjj7qe.png)|[Voyeurphoto Club](https://files.catbox.moe/9bl5vz.png)
@@ -40,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc |[David Attenbot](https://files.catbox.moe/wrn6yn.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png)|[Goddess of MS Paint doodles](https://files.catbox.moe/3b2usz.png) [MV]
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Chloe](https://files.catbox.moe/g6c41e.png)|
-[Smile](https://rentry.org/HelpanonSmile) | Misc |[The Goddess of Schizophrenia](https://files.catbox.moe/0yfboy.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||[Maid Botan](https://files.catbox.moe/875ww6.png)
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
@@ -49,6 +48,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Tarkman](https://rentry.org/tarkmanbots) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
+[Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||

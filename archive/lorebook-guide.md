@@ -331,7 +331,7 @@ You know how the lorebooks work right? If a keyword gets detected, its content w
 
 To have precise control, easily activate lorebooks on and off at will. We can use Author's Note to do that! - But wait, isn't a/n its own inserting function and all? Well... We can actually turn that off and turn it into something else.
 
-1. Advanced Tab -\> Edit context Settings \-> Set Author Note's **Token Budget** to `0`
+1. Advanced Tab -\> Edit context Settings \-> Set Author Note's **Token Budget** to `0` & **Reserved Token** to `0`
 2. Lorebook -\> Create a new **Category** -\> Enable **Default Entry Settings** -\> Enable **Cascading Activation**
 
 Lorebook Exmaple:

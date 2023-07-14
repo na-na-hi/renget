@@ -18,7 +18,7 @@
 ![](https://img.4plebs.org/boards/tg/image/1680/94/1680940569479970.png)
 ###Nyoro Hoge HN MaruMaruMaru(maru)
 ![](https://img.4plebs.org/boards/tg/image/1680/32/1680322437426750.jpg)
-###Sandatsu Owari
+###Sandatsu Owari HN Peeper
 ![](https://img.4plebs.org/boards/tg/image/1680/21/1680210817654613.png)
 ###Sally McCathy HN Last Bite
 ![](https://img.4plebs.org/boards/tg/image/1685/05/1685055758068647.png)

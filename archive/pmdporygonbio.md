@@ -1,7 +1,7 @@
 ###Porygon
 
 A human that woke up in the woods one day as one of Silph Co.'s premier products. 
-Luckily for him, he has a basic understanding of the Pokémon games, including the Mystery Dungeon series.
+Luckily for him, he has a basic understanding of the Pokémon games, including the Mystery Dungeon series - although he has only played Red Rescue Team, so his knowledge is a little out of date.
 
 He does struggle to wrap his mind around his new digital form and the changes it brings. His current method of dealing with the existential dread is a combination of burying it down deep inside himself, alongside making sarcastic comments to anybody who will listen (and sometimes to the air, if there's nobody around). It helps him destress just a tiny bit.
 

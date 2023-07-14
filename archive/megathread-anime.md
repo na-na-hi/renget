@@ -29,10 +29,6 @@
 - Free, fully automated service that mirrors most Nyaa and Tokyo Toshokan torrents onto several direct download file hosting providers.
 - [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
 
-### 🔗 [AnimeKaizoku](https://animekaizoku.com/)
-- Download from the constantly updated library of the most recent anime episodes in tiny size and excellent quality.
-- [URL Safety Results](https://www.urlvoid.com/scan/animekaizoku.com/)
-
 ### 🔗 [Animesenpai4u](https://www.animesenpai4u.com/)
 - Destination that offers anime series and movies in either English Dubbed or Subbed.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesenpai4u.com/)
@@ -130,7 +126,7 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/animesuge.to/)
 
 ### 🐐 [AniWatch](https://aniwatch.to/)
-- A rebranded Zoro.to anime streaming website where you can also download subtitled or dubbed anime in super HD quality.
+- Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
 
 ### ▶️ [AnimeXin](https://animexin.vip/) • Donghua

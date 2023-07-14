@@ -166,6 +166,7 @@
 06/2023|[How Long Can Open-Source LLMs Truly Promise on Context Length? (LongChat)](https://archive.ph/NfIj2)
 07/2023|[Hierarchical Open-vocabulary Universal Image Segmentation](https://arxiv.org/abs/2307.00764)
 07/2023|[Focused Transformer: Contrastive Training for Context Scaling (LongLLaMA](https://arxiv.org/abs/2307.03170)
+07/2023|[Rhythm Modeling for Voice Conversion (Urhythmic)](https://arxiv.org/abs/2307.06040)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

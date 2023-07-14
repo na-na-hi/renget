@@ -43,6 +43,18 @@ https://rentry.org/MHACards
 Writefags:
 >Gossip 7 (Hivemind)
 https://rentry.org/3ihws
+>Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
+https://rentry.org/4457t
+
+Artfags:
+Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru)
+>>89556641
+BEAT THE ROT (Kampai)
+>>89565271
+
+Cards:
+Christopher Character Card:
+https://i.4pcdn.org/tg/1689274753402180.png
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -544,6 +556,8 @@ https://rentry.org/y4fad
 https://rentry.org/8k3mk
 >Gossip 7 (Hivemind)
 https://rentry.org/3ihws
+>Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
+https://rentry.org/4457t
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

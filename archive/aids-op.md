@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/dwMrECv.jpg)
-Our Archive, Comrades Edition
+![suggested OP image](https://i.4cdn.org/vg/1689294187559745.jpg)
+ Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>437421517
+Last thread: 
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -33,10 +33,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Text Adventure/Infinite Zork Friday is over; theme suggestions for next week are being voted on!
+\>Write sunny prompts for next week's theme: Summer Friday! >>437684421
  
 ▶News
-(07/09)Pretraining on the next NAI model is complete, no ETA yet.
+(07/09) Pretraining on the next NAI model is complete, no ETA yet.
 (07/06) Sama-chama goes Global https://openai.com/blog/gpt-4-api-general-availability
 (07/06) Continuing the Stability tradition, SDXL gets leaked https://pastebin.com/b8kXrkAF
 (06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind… >>436140401 >>436140937 >>436141853

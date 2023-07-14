@@ -136,6 +136,8 @@ https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 https://civitai.com/models/40669/fymryn-dota-dragons-blood
 	- Filomena
 https://civitai.com/models/48082/filomena-dota-dragons-blood
+- Juggernaut
+https://civitai.com/models/107642/dota2-jugg
 
 # Fortnite
 
