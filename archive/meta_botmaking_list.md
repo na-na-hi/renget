@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-07-12)==<-
+->==(Updated 2023-07-14)==<-
 ***
 [TOC2]
 ***
@@ -69,6 +69,16 @@ Edit: 11 Jul 2023 17:37 UTC
 - 3131 words, 17 minutes read
 
 *"Personal method of writing bots, focused on list and plaintext formats."*
+
+***
+##NG_CharCard
+https://rentry.org/NG_CharCard
+
+Pub: [12 Jul 2023 No.94641345](https://desuarchive.org/g/thread/94640653/#94641345)
+Edit: 13 Jul 2023 13:31 UTC
+- 2844 words, 16 minutes read
+
+*"..."*
 ***
 ## Some rentries containing tips, but not about botmaking overall
 

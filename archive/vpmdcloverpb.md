@@ -116,7 +116,7 @@
 
 >Ability: Speed Boost
 >Moves (Pre-Training Intensifies): Swords Dance, Sky Uppercut, Aerial Ace, [Aura Techniques](https://rentry.org/2qupq)
->Moves (Post-Training Intensifies):  [Aura Techniques](https://rentry.org/2qupq), Double Team, Shadow Claw, Strength
+>Moves (Post-Training Intensifies [A week after ETF]):  [Aura Techniques](https://rentry.org/2qupq), Double Team, Shadow Claw, Aerial Ace
 
 >Goals: 
 >A big part of KFC's training focuses on Aura Mastery. Think of it as pursuing the path to fighting power as opposed to fire power. His aura sensing abilities have reached an intermediate level, while his aura expression is at the most basic level. His true goal is to be officially ranked as an Aura Master. Currently, there are only 4 in the world, alive, who are ranked as Aura Masters and all of them work as Aura Guardians.

@@ -5,20 +5,8 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
->**HoloEN Connect the World Concert (July 2nd, PDT)**
-- - -
-**Streaming ticket**
-https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
-
-**Merch** (Resale started, Order period ends 10th July 1800 JST)
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_2nd
-**Sponsor merch**
-Keyboard keycap set & desk pad
-https://hyte.com/store/hololive-connect-the-world-keycap-bundle?v=151
-OMOCAT Hoodie & bag
-https://www.omocat-shop.com/collections/omocat-x-hololive-en
-
-\* * *
+**CouncilRyS Beegsmols plushies** (Order period ended 14th August 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 
 >**HoloSummer**
 - - -
@@ -81,3 +69,18 @@ https://shop.hololivepro.com/en/products/nanashimumei_nc2023
 
 **774K Subs celebration merch (Order period ends 3rd July 1800 JST)**
 https://shop.hololivepro.com/en/products/nanashimumei_77-4thou
+
+>**HoloEN Connect the World Concert (July 2nd, PDT)**
+- - -
+**Streaming ticket**
+https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
+
+**Merch** (Resale started, Order period ends 10th July 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_2nd
+**Sponsor merch**
+Keyboard keycap set & desk pad
+https://hyte.com/store/hololive-connect-the-world-keycap-bundle?v=151
+OMOCAT Hoodie & bag
+https://www.omocat-shop.com/collections/omocat-x-hololive-en
+
+\* * *

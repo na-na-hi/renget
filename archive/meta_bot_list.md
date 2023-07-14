@@ -6,7 +6,7 @@
 ## [/g/aicg/](https://boards.4channel.org/g/catalog#s=aicg)
 - https://rentry.org/cai-list - large list of bots and botmakers; cai and rentries with cards; tools and manuals; `current`
 - https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
-- https://rentry.org/aicgthemedweek - small list of bots; cards only; themed bots from the botmaking events; `current`
+- https://rentry.org/aicgthemedweeks - small list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; `current`
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*

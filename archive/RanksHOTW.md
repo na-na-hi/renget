@@ -51,15 +51,16 @@
 |41|Sprite|79|
 |42|Yuki|78|
 |43|Kara|59|
-|44|Richard Major|56|
-|45|Bob Kilpatrik|54|
-|46|Dimir|53|
-|47|Lance|51|
-|47|Dr Acheron|51|
-|49|Remilia|49|
-|50|Alexander S. Luthor|48|
-|51|Harrison Teaford|22|
-|52|H0P3|0|
+|44|Tinker Gacy|58|
+|45|Richard Major|56|
+|46|Bob Kilpatrik|54|
+|47|Dimir|53|
+|48|Lance|51|
+|48|Dr Acheron|51|
+|50|Remilia|49|
+|51|Alexander S. Luthor|48|
+|52|Harrison Teaford|22|
+|53|H0P3|0|
 
 >No Vehicles CR
 |Rank|Name|Vehicleless CR|
@@ -110,13 +111,14 @@
 |43|Dimir|49|
 |44|Alexander S. Luthor|48|
 |45|Yuki|41|
-|46|Kara|28|
-|47|Harrison Teaford|22|
-|48|Mike|19|
-|49|James Nauer|12|
-|50|Amu|10|
-|51|Lance|4|
-|52|H0P3|0|
+|45|Tinker Gacy|41|
+|47|Kara|28|
+|48|Harrison Teaford|22|
+|49|Mike|19|
+|50|James Nauer|12|
+|51|Amu|10|
+|52|Lance|4|
+|53|H0P3|0|
 
 
 >No items CR
@@ -156,23 +158,24 @@
 |32|Billy Kido|28|
 |33|Heli|26|
 |34|Calliope|25|
-|35|Harrison Teaford|22|
-|36|Yuki|21|
-|36|Remilia|21|
-|38|Charles Crane|20|
-|38|Jonathan Stampe|20|
-|40|Thomas Hammerer|17|
-|41|Alexander S. Luthor|14|
-|42|James Nauer|12|
-|42|Richard Major|12|
-|44|Amu|10|
-|45|Kara|9|
-|46|Mike|8|
-|47|Lance|4|
-|48|Chloe|0|
-|48|Sage|0|
-|48|Georgia|0|
-|48|H0P3|0|
+|35|Tinker Gacy|24|
+|36|Harrison Teaford|22|
+|37|Yuki|21|
+|37|Remilia|21|
+|39|Charles Crane|20|
+|39|Jonathan Stampe|20|
+|41|Thomas Hammerer|17|
+|42|Alexander S. Luthor|14|
+|43|James Nauer|12|
+|43|Richard Major|12|
+|45|Amu|10|
+|46|Kara|9|
+|47|Mike|8|
+|48|Lance|4|
+|49|Chloe|0|
+|49|Sage|0|
+|49|Georgia|0|
+|49|H0P3|0|
 
 
 >CR Rank of Ranks
@@ -190,19 +193,19 @@
 |9|Sir Philippe|11.33|7|19|
 |10|Ultra Magnus|14.00|5|31|
 |11|Karnak|14.33|3|22|
-|12|Chloe|16.67|1|48|
-|13|Thomas Hammerer|19.00|8|40|
+|12|Chloe|17.00|1|49|
 |13|Isha|19.00|15|25|
+|14|Thomas Hammerer|19.33|8|41|
 |15|Calliope|21.00|13|34|
 |15|Squire Marie Lonelle|21.00|17|26|
-|17|Sage|21.33|5|48|
-|18|Ramses|21.67|6|33|
+|17|Sage|21.67|5|49|
+|17|Ramses|21.67|6|33|
 |19|Maya Liang|23.33|21|28|
 |19|Quinn|23.33|7|35|
 |21|Kitty |24.33|12|34|
 |21|Nick|24.33|8|36|
 |23|Bob|25.00|20|30|
-|24|Charles Crane|25.33|18|38|
+|24|Charles Crane|25.67|18|39|
 |25|Doe|27.00|13|38|
 |26|Magnus Wang|27.33|14|36|
 |27|Billy Kido|27.67|22|32|
@@ -211,24 +214,25 @@
 |30|David|29.33|26|33|
 |31|Bliss|29.67|17|40|
 |32|Ant King|30.33|22|38|
-|32|Georgia|30.33|19|48|
+|33|Georgia|30.67|19|49|
 |34|Sprite|31.00|19|41|
-|35|Jonathan Stampe|32.00|23|38|
+|35|Jonathan Stampe|32.33|23|39|
 |36|Tuma|34.33|27|39|
-|36|Dr Acheron|34.33|14|47|
-|38|Dimir|35.67|18|46|
-|39|Mike|36.33|15|48|
-|40|Bob Kilpatrik|37.67|27|45|
-|41|James Nauer|38.33|24|49|
-|42|Amu|40.33|27|50|
-|43|Remilia|40.67|36|49|
-|44|Yuki|41.00|36|45|
-|45|Richard Major|42.00|40|44|
-|46|Harrison Teaford|44.33|35|51|
-|47|Kara|44.67|43|46|
-|48|Alexander S. Luthor|45.00|41|50|
-|49|Lance|48.33|47|51|
-|50|H0P3|50.67|48|52|
+|37|Dr Acheron|34.67|14|48|
+|38|Dimir|36.00|18|47|
+|39|Mike|37.00|15|49|
+|40|Bob Kilpatrik|38.00|27|46|
+|41|James Nauer|39.00|24|50|
+|42|Amu|41.00|27|51|
+|43|Remilia|41.33|37|50|
+|43|Yuki|41.33|37|45|
+|43|Tinker Gacy|41.33|35|45|
+|46|Richard Major|42.67|40|45|
+|47|Harrison Teaford|45.33|36|52|
+|47|Kara|45.33|43|47|
+|49|Alexander S. Luthor|45.67|42|51|
+|50|Lance|49.33|48|52|
+|51|H0P3|51.67|49|53|
 
 ---
 
@@ -279,6 +283,7 @@
 |37|Sage|2|
 |37|Remilia|2|
 |37|Ricky|2|
+|37|Tinker Gacy|2|
 
 >Sex difficulty
 |Rank|Name|Sex difficulty|
@@ -325,6 +330,7 @@
 |33|Karnak|1|
 |33|David|1|
 |33|Becka|1|
+|33|Tinker Gacy|1|
 
 >Chastity Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
@@ -371,3 +377,4 @@
 |37|Mike|28.50|27|30|
 |40|David|31.50|30|33|
 |41|Ricky|35.00|33|37|
+|41|Tinker Gacy|35.00|33|37|
