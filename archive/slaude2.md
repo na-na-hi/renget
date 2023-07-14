@@ -2,6 +2,12 @@
 
 ->![](https://files.catbox.moe/zdcg3h.jpg)<-
 
+***
+!!! note clewd
+	another anon did a rewrite here https://gitgud.io/ahsk/clewd - give it a try - works for me™
+	anon decided to make a cute logo instead of using express to give us streaming - 8/10 autism stars
+***
+
 - register at - https://claude.ai - you will need a US or UK IP to register
 
 - download and install Node.JS (LTS) - https://nodejs.org/en

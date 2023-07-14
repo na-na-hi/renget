@@ -20,7 +20,7 @@ Image| Name | Description | Link
 All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjoy, may need user input on prudish models to avoid refusals.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. You can simply press generate for hands-free cooming, or interject to drive the scenario in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
+ ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. Edit card description or use author's note to store info about yourself. Interject to drive the story in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
  ![T](https://files.catbox.moe/9bl5vz.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/9bl5vz.png)
  ![T](https://files.catbox.moe/hjj7qe.png) | Tyrande and Ash'alon | Fempov double-team furry rape, Warcraft. | [Catbox](https://files.catbox.moe/hjj7qe.png)
 

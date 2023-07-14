@@ -43,7 +43,7 @@ Non W++ version: https://files.catbox.moe/97xrlm.png
 - 227 (Without example messages)
 #####Maid Roboco (Roboco)
 W++ version: https://files.catbox.moe/1rakul.png
-Non W++ version: https://files.catbox.moe/gtu9wv.png
+Non W++ version: https://files.catbox.moe/khljqm.png
 ~~Doesn't work well on pyg for some reason.~~
 It actually works fine. I am just a retard and forgot to crank up the temperature slider when testing it.
 
@@ -76,7 +76,7 @@ Non W++ version: https://files.catbox.moe/875ww6.png
 - 655 (With example messages)
 - 267 (Without example messages)
 #####Maid Nene (Momosuzu Nene)
-Non W++ version: https://files.catbox.moe/eohnoo.png
+Non W++ version: https://files.catbox.moe/aknbu7.png
 
 ==Total Tokens:== 
 - 518 (With example messages)

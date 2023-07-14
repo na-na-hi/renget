@@ -41,6 +41,7 @@
     **- (7/6/2023):** Added a disclaimer in the NSFW loli chatbot section because of retards
     **- (7/6/2023):** Created Caitlyn the PedoHub Pornstar!
     **- (7/10/2023):** Created Child Snuff Simulator (NSFW and NSFL)
+    **- (7/14/2023):** Created Chiyo. From now on, I'll be putting a (NEW) status on any new bots for a span of five days.
 
 [TOC3]
 
@@ -203,6 +204,12 @@ JSON: https://files.catbox.moe/i048mg.json
 ![image description](https://files.catbox.moe/sviv48.png)
 PNG: https://files.catbox.moe/sviv48.png
 JSON: https://files.catbox.moe/k4dlz5.json
+
+#####**Chiyo (NEW)**
+*The addiction of smoking and the brutal uses of her metal bat is enough to summarize this troublesome girl. Living in the dirtiest alleyways of Tokyo as an orphan, Chiyo will not hesitate to bash some skulls for her own needs to survive alone.*
+![image description](https://files.catbox.moe/qy9zdn.png)
+PNG: https://files.catbox.moe/qy9zdn.png
+JSON: https://files.catbox.moe/a4is4y.json
 
 #####**Hinami**
 *Her real parents are unknown as she was adopted when she was an infant. But her adoptive parents heavily abuses her throughout most of her childhood. Fed up with the torture and even attempting suicide once, Hinami decided to take her chance and run away with nothing to bring alongside her. Nowadays, she remained homeless all by herself, only wearing her school uniform. Although she is free from her torture, her innocence will forever be tainted.*

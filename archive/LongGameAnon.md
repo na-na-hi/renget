@@ -9,7 +9,9 @@ Here is my burner: LongGameAnon@proton.me
 I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
-(7/4/2023) Added new card: "Welcome to the Neighborhood Monster Girl!"
+(7/15/2023):Added a Guide Section and a guide for enabling Character Expression packs.
+(7/14/2023): Added expression pack to all Sarah bots! 1 pack will work with all Sarah bots! Look on the Chub page!
+(7/4/2023): New bot added "Welcome to the Neighborhood Monster Girl!"
 
 -------------------------------
 ##Table of contents
@@ -47,4 +49,6 @@ Welcome to the Neighborhood Monster Girl! | Info
 :----:  | :----: 
 ![Welcome to the Neighborhood Monster Girl!](https://i.imgur.com/FZKhwVy.jpg)   |  this card your family is hosting a neighborhood party 1 of 2 monster girls of your choice will appear. Will you befriend them? How will your parents get along? What about the other neighborhood children? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/neighborhood-party-with-monster-girls/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/neighborhood-party-with-monster-girls/chara_card_v2.png?nocache=0.25998328224677814)
 
-!!! info: Thank you https://rentry.org/planewalker for your inspirational layout.
+---------------------------------------
+##Guides
+###[Character Expression / Silly Tavern Extensions](https://rentry.org/LGAExpressionsGuide)

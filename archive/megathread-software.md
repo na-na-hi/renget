@@ -185,6 +185,10 @@
 - You may download several stunning and well-known fonts for free for design needs from including lovely scripts, sans serifs, and more.
 - [URL Safety Results](https://www.urlvoid.com/scan/textfonts.net/)
 
+### 🔗 [TypeRip](https://badnoise.net/TypeRip/)
+- A web utility that takes a URL from an Adobe Font library and pulls the font from the database.
+- [URL Safety Results](https://www.urlvoid.com/scan/badnoise.net/)
+
 &nbsp;
 
 ---

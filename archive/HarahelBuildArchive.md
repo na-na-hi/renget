@@ -105,6 +105,11 @@ Note: CRUSADER AGAINST THE UNNATURAL AND DEVIANT PRACTICES OF THE WORLD, A BEACO
 Data: https://rentry.co/Christina_Build
 Music: 
 
+Name: Cristina
+Note: A (naive) witch somewhat prone to landing herself in tight spots, but capable in the arcane arts. 
+Data: https://sharetext.me/upwns4ilaw
+Music:
+
 ##D
 
 Name: Darcy Mabbit
