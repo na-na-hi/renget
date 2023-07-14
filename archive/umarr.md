@@ -57,6 +57,3 @@ JOI - From Bladerunner 2077 - https://files.catbox.moe/1lef6j.png
 ##How do I make my bots behave the way I want?
 1. To make bots adhere to a reply format, abuse example dialogues
 2. For advanced techniques, crucial if you want to make in-character bots, read https://arxiv.org/pdf/2307.00184.pdf
-
-##Contact
-Taking one (uno) request -> sandwich4093@proton.me

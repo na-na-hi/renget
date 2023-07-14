@@ -1,9 +1,9 @@
 #[LongGameAnon's Homepage](https://rentry.org/LongGameAnon)
 # LongGameAnon's Retard Guide to use Expression/Emotion packs
-##Disclaimer
+#Disclaimer
 !!! danger | This guide was made with using Windows+Nvidia in mind.
 
-##Table of contents
+#Table of contents
 [TOC]
 
 ##Step 1: Get a Bot and an Emotion pack

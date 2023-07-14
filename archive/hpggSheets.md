@@ -44,3 +44,5 @@
 ->[Deity Sheet](https://rentry.org/6x6dbb)<-
 
 ->[Pokémon Sheet](https://files.catbox.moe/f5esux.png)<-
+
+->[Magic Awakened Card Templates](https://rentry.org/wq3s8)<-
