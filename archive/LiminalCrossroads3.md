@@ -235,7 +235,7 @@ A large but slender badger-like creature wearing a blue hat slips right past the
 
 It’s as if Gill had set out to produce the most inscrutable and impenetrable Spanish he could muster. Not only was he speaking at lightning speed while slurring every single word, but even his accent and dialect changed on a whim constantly and chaotically. It was hard for even *Bill* to keep up with every bit of the linguistic trainwreck his brother had created on the spot.
 
-“Sure, sure!”, Linoone replies immediately. “That road over there leads straight to Capim’s outskirts, you can’t miss their base once you get there. You’re, uh, humans too, I take it?”
+“Sure!”, Linoone replies immediately. “That road over there leads straight to Capim’s outskirts, you can’t miss their base once you get there. You’re, uh, humans too, I take it?”
 
 …
 

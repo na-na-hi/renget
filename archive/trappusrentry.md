@@ -1,4 +1,4 @@
-# Trappu's ~~Honkai~~ rentry
+# Trappu's Rentry
 
 [TOC2]
 

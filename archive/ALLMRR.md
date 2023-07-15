@@ -50,3 +50,4 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 #### Other Links
 - The 'Ayumi' Inofficial LLM ERP Model Rating: https://rentry.co/ayumi_erp_rating
 - My character creation guide for RP chat bots: https://rentry.co/alichat
+- Trappu's Rentry for up to date PList + Ali:Chat bots: https://rentry.org/TrappusRentry

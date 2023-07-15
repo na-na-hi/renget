@@ -74,7 +74,7 @@ SA | | Starlit Astrologos | Zhuge Kongming | BIO | A | **SP** Valkyrie
 SI | | Starry Impression | Griseo | PSY | A | **SP** Valkyrie
 SN | | Stygian Nymph | | QUA | S
 SJ | | Sündenjäger | Sin Hunter | MECH | 
-SSB | SuSt | Sugery Starburst | Kira | MECH | **SP** Valkyrie 
+SB | SSB | Sugery Starburst | Kira | MECH | **SP** Valkyrie 
 SP | | Swallowtail Phantasm | | QUA | A
 SNS | SG | Sweet 'n' Spicy | Carole | MECH | A | **SP** Valkyrie
 TA | | Terminal Aide | Prometheus | IMG | A | **SP** Valkyrie

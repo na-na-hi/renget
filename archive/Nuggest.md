@@ -7,7 +7,7 @@
 ##->https://www.chub.ai/users/Nuggest<-
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
-I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My card descriptions differ in their formatting because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
+I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others'. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, and male/futa cards.
@@ -15,7 +15,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 [TOC3]
 
 !!! warning
-    Might go on a hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to be trashed.
+    Going on a hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to get trashed. My appreciation to anyone who left a nice comment once in a while—means a lot to me. I don't mind if you copy my ideas, would actually feel honored if you did. I have quite a lot of ideas in my head that I never got to realize (pics under Sneak Peeks for example). Feel free to contact me to "steal" my open ideas. 
 ->![](https://files.catbox.moe/h3habt.png)<-
 
 
@@ -25,7 +25,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 |  |  | 
 | ------ | ------ |
 | **Aegis** | https://www.chub.ai/characters/Nuggest/aegis-shield-of-the-forgotten |
-| ![Aegis](https://files.catbox.moe/kfpi6l.png) | **Aegis, also known as the Shield of the Forgotten (Godess of Lonely and Bullied Schoolgirls), is a young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. She’s lonely and anguished, and she blames herself for the recent suicide of a girl. Aegis hopes that you will be able to help her — in more ways than one…** [v1.2, Claude, 13.07.23] ==[Entry for /aicg/ theme week God of Something Unremarkable]== |
+| ![Aegis](https://files.catbox.moe/kfpi6l.png) | **Aegis, also known as the Shield of the Forgotten (Godess of Lonely and Bullied Schoolgirls), is a young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. She’s lonely and anguished, and she blames herself for the recent suicide of a girl. Aegis hopes that you will be able to help her — in more ways than one…** [v1.2, Claude, 13.07.23] *[Entry for /aicg/ theme week God of Something Unremarkable]* |
 | **Helene** | https://www.chub.ai/characters/Nuggest/Helene |
 | ![Helene](https://files.catbox.moe/ojw66o.png) | **You open the door to find Helene, your long lost betrothed, standing before you. She has returned from years of war, a shadow of her former self, haunted by the horrors she witnessed. Though she has come back to you, as she promised, the light in her eyes is gone and she seems a stranger. Can you fix her?** [v1.1, Claude, 12.07.23] *==Card with role reversal available under Unreleased Cards (Mirabel)==* |
 | **Lina** | https://www.chub.ai/characters/Nuggest/lina-the-little-match-girl |
@@ -45,7 +45,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 | **Elara** | https://www.chub.ai/characters/Nuggest/queen-elara |
 | ![Elara](https://files.catbox.moe/sclu3a.png) | **A young queen trapped in a loveless marriage. You were assigned as her personal guard...** [v1.0, Claude, 29.05.23] |
 | **Hannah** | https://www.chub.ai/characters/Nuggest/hannah-diggle |
-| ![Hannah](https://files.catbox.moe/nfkcdf.png) | **Hannah is a shy and lonely Hufflepuff. She has a crush on you, the handsome Slytherin prefect. Little did she expect to get entangled with you by accidentally tearing your robes...** [v1.0, GPT4, 16.05.23] *==Move the bracketed desc text into JB if she goes shizo.==* |
+| ![Hannah](https://files.catbox.moe/nfkcdf.png) | **Hannah is a shy and lonely Hufflepuff. She has a crush on you, the handsome Slytherin prefect. Little did she expect to get entangled with you by accidentally tearing your robes...** [v1.0, GPT4, 16.05.23] |
 | **Liriel** | https://www.chub.ai/characters/Nuggest/Liriel |
 | ![Liriel](https://files.catbox.moe/aq8dvg.png) | **You are a young nobleman who has come out of age. Your parents have a very... special... birthday gift for you...** [v1.0, GPT4, 13.05.23] |
 | **Lady Maria** | https://www.chub.ai/characters/Nuggest/lady-maria |
@@ -122,7 +122,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ####Top Secret Cards (Quick Coomies)
 
 !!! danger NSFW
-    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply like the dramatic extra spice that the moral conflict adds.)
+    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply enjoy the dramatic extra spice that the moral conflict adds.)
 
 |  |  | |
 | ------ | ------ | ------ |
@@ -141,8 +141,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 | **Julia** |  | https://files.catbox.moe/ubya1o.png |
 | ![](https://files.catbox.moe/ubya1o.png) | Mom | **Your mom is sexually frustrated. The lack of sex drives her crazy. Being a good son, you decided that you had to relieve her pain. You snuck into her bedroom during night with the intent of pleasuring her while she was asleep. You were sure the subconscious stimulation would have a positive effect on her. Little did you knew that she was actually awake and only pretending to be asleep...** |
 | **Nora and Luna** |  | https://files.catbox.moe/gihfx9.png |
-| ![](https://files.catbox.moe/gihfx9.png) | Mom, Sister | **Luna is your twin sister. You are the prince and princess of a kingdom, and Nora is your mother, the queen. Your father died several years ago due to sickness. Even though Luna and you are out of age, you are still not married. Nora has become increasingly agitated as to why you are not looking for spouses. In truth, Luna and you have fallen in love. You bound Nora to her bed while she was asleep. You are going to confess and give her the grandchildren she so desperately wants, right in front of her eyes...** |
+| ![](https://files.catbox.moe/gihfx9.png) | Mom, Sister | **Luna is your twin sister. You are the prince and princess of a kingdom, and Nora is your mother, the queen. Your father died several years ago due to sickness. Even though Luna and you are out of age, you are still not married. Nora has become increasingly agitated as to why you are not looking for spouses. She didn't knew that Luna and you have fallen in love. You bound Nora to her bed while she was asleep. You are going to confess and give her the grandchildren she so desperately wants, right in front of her eyes...** |
 | **Nicole** |  | https://files.catbox.moe/pwkz8k.png |
-| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has very... special... Christmas gift for you...** |
+| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has a very... special... Christmas gift for you...** |
 | **Caitlin** |  | https://files.catbox.moe/cq5bqx.png |
 | ![](https://files.catbox.moe/cq5bqx.png) | Mom | **You are stranded with your mom on a isolated island. You've been stuck on that island for three years and have both become sexually frustrated. One evening, your mom approaches you and suggests masturbating in front of each other...** |

@@ -13,6 +13,7 @@
 3. [Official Site](https://pgr.kurogame.net)
 4. [Twitter Page](https://twitter.com/PGR_GLOBAL)
 5. [YouTube Page](https://www.youtube.com/c/PunishingGrayRaven)
+6. [Bilibili Page](https://space.bilibili.com/382651856)
 
 
 ####Beginner Guides and Resources

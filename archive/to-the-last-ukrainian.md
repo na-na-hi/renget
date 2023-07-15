@@ -131,6 +131,8 @@
 [ [catbox](https://files.catbox.moe/2boccd.webm) | [ipfs](https://ipfs.io/ipfs/QmXHERCNrfb29A5kGYuJ2bh9gUryYi8HHNcw85TmGPRX1D) ] - Near the entrance to kindergarten
 [ [catbox](https://files.catbox.moe/lndohj.webm) | [ipfs](https://ipfs.io/ipfs/QmbFEMVMxpg8hmCxaeitfoorL4TpKr3HPMTtKwmFqA5ppJ) ] - Gang beating up a summoner [REVENGE]
 [ [catbox](https://files.catbox.moe/0vi7ff.webm) | [ipfs](https://ipfs.io/ipfs/QmZkscXyYKotdd9vdpbn1hnnWDpVPhhRKqwThbobmmo2sw) ] - Throwing stones in the face of mobilizer [REVENGE]
+[ [catbox](https://files.catbox.moe/5t5fja.MP4) | [ipfs](https://ipfs.io/ipfs/QmNQroGXWQpzbU1DodQknuFHm8VtZbhS2s1wj6sFX2ULKw) ] - 6 vs 1
+[ [catbox](https://files.catbox.moe/wxlean.mp4) | [ipfs](https://ipfs.io/ipfs/QmNn5dU8YHLvpw2kbCxSLpLKnh9FJ5sQBaMcN2rGUdqxFv) ] - Polite invitation
 
 !!! info
 	Help to contribute: chubconscription@cock.li

@@ -41,15 +41,9 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
-Still cooking, be patient.
+>Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
+https://rentry.org/wyny7
 
-Artfags:
-Magical Girls of Shiketsu!
->>89567731
-Nene-chan!
->>89573486
-It's Reaping time!
->>895741151
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -553,10 +547,12 @@ https://rentry.org/8k3mk
 https://rentry.org/3ihws
 >Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
 https://rentry.org/4457t
->Gossip 7 (Hivemind)
-https://rentry.org/3ihws
->Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
-https://rentry.org/4457t
+>The Doctor Is In (Emilia, Rebecca, Hifumi, Mio, Chihiro)
+https://pastebin.com/kKsXgLwW
+>Do Unto Others (Last Rite, Android)
+https://rentry.org/5ud7y
+>Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
+https://rentry.org/wyny7
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -759,6 +755,8 @@ https://rentry.org/ztf4s
 >Mike Gets an Apprentice (Mike the Driver, Tinker Gacy)
 https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/edit?usp=sharing
 +Alt Link: https://controlc.com/96cfeb35
+>The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus)
+https://pastebin.com/58dq47ZA
 
 
 Artfags:
