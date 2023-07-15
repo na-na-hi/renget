@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 14.07.2023 23:00 UTC]
+[Last Updated: 15.07.2023 05:15 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7479699/](https://boards.4chan.org/h/thread/7479699/)
 Trash - [boards.4chan.org/trash/thread/58017693/](https://boards.4chan.org/trash/thread/58017693/)
@@ -9,7 +9,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 608&nbsp;&nbsp;[archiveofsins.com/h/thread/7479699/](https://archiveofsins.com/h/thread/7479699/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 18:37)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;You're gonna carry that weight Edition
 - 607&nbsp;&nbsp;[archiveofsins.com/h/thread/7475613/](https://archiveofsins.com/h/thread/7475613/)&nbsp;&nbsp;&nbsp;&nbsp;(12.07.2023 01:42)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Le Fishe Edition
-- 606&nbsp;&nbsp;[archiveofsins.com/h/thread/7471353/](https://archiveofsins.com/h/thread/7471353/)&nbsp;&nbsp;&nbsp;&nbsp;(09.07.2023 11:59)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Before disaster Edition
+- 606&nbsp;&nbsp;[archiveofsins.com/h/thread/7471353/](https://archiveofsins.com/h/thread/7471353/)&nbsp;&nbsp;&nbsp;&nbsp;(09.07.2023 11:59)&nbsp;&nbsp;[1241]&nbsp;#&nbsp;Before disaster Edition
 - 605&nbsp;&nbsp;[archiveofsins.com/h/thread/7467200/](https://archiveofsins.com/h/thread/7467200/)&nbsp;&nbsp;&nbsp;&nbsp;(07.07.2023 01:11)&nbsp;&nbsp;[1200]&nbsp;#&nbsp;Sitting Chikarin Edition
 - 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[1277]&nbsp;#&nbsp;Lazy reposter edition
 ---
@@ -78,7 +78,7 @@ Archive:
 ---
 Trash:
 
-- 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[3]
+- 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[56]
 - 013&nbsp;&nbsp;[desuarchive.org/trash/thread/56983608/](https://desuarchive.org/trash/thread/56983608/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:39)&nbsp;&nbsp;[309]
 - 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[301]
 - 011&nbsp;&nbsp;[desuarchive.org/trash/thread/56176356/](https://desuarchive.org/trash/thread/56176356/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 17:56)&nbsp;&nbsp;[314]

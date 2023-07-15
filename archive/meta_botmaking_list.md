@@ -78,7 +78,7 @@ Pub: [12 Jul 2023 No.94641345](https://desuarchive.org/g/thread/94640653/#946413
 Edit: 13 Jul 2023 13:31 UTC
 - 2844 words, 16 minutes read
 
-*"..."*
+*"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***
 ## Some rentries containing tips, but not about botmaking overall
 

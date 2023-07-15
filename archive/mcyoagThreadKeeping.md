@@ -652,7 +652,13 @@ Raiders:
 >>89485256
 >Queen Bee (Becka, to her folks.)
 >>89429924
+```
 
+***
+Page 2
+***
+```
+Build List (Cont).
 Mutants:
 >Sasha the Snake
 >>89379557
@@ -672,13 +678,7 @@ Mutants:
 >>89427276
 >Tinker Gacy
 >>89567493
-```
 
-***
-Page 2
-***
-```
-Build List (Cont).
 Robots:
 >H0P3
 >>89379967

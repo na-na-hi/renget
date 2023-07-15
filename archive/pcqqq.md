@@ -106,3 +106,119 @@ Hotel room
 >you opened the bottle and he actually fist pumped 
 >he'd gotten victory but you were going to make sure he'd pay dearly
 >after all, if he was going to be a pain in the ass you could play that game too
+
+>you didn't spare any time 
+>after all that teasing he'd gotten you worked up
+>so he was in for a shock when you lined up and shoved it in without pause
+>"fuck," he groaned out into the mattress
+>well he wanted it he got it
+>his blue fur felt smooth to the touch
+>and his ass practically swallowed your length despite his groans and curses
+>well he wanted you to fuck him
+>the cocky attitude had melted away almost instantly 
+>it was definitely nowhere to be seen when your hips made contact with his toned ass
+>his own cock dribbled a constant stream of precum onto the sheets
+>should you have worn a condom?
+>the things you only think of when too late
+>you were trying to pull out when his legs looped back around yours
+>"don't… don't you dare"
+>the attitude in his voice was slightly marred by the fact he practically whimpered that
+>well maybe it was safe to fuck the interdimensional blue talking furry
+>he did milk at you pretty good, even if he didn't mean to
+>with his ass up in the air you could thrust down pretty hard 
+>it didn't take long for him to grab a pillow and scream into it
+>his orgasm making a mess on the bed spread
+>you replied he really was the fastest thing you'd ever seen
+>the pillow got tossed over his shoulder into your face
+>the glare was worth it
+>especially when you started right back up into pounding him and his hands clawed at the blankets
+>he took to getting fucked easily
+>you had to ask
+>if he had experience like this
+>in between the whimpers and moans he said he just fingered himself sometimes
+>so you were slamming it into virgin territory?
+>"yes, yes, oh fuck yes"
+>a second oragasm made his body quiver
+>but you weren't finished
+>you picked him up and put him in a full nelson 
+>the quills on his head scratched over your skin
+>but you paid it no mind
+>you growled into his ear as you thrust up into him
+>if this was the time waster he imagined it would be
+>he arched and shot a couple ropes over the bed
+>his arms and legs were locked in and he was trapped
+>man, if you knew it was this easy to catch him you'd have done this a while ago
+>he didn't even touch his dick and he was cumming a fourth time
+>even if he was a quick shot he seemed to have limitless stamina
+>he recovered quickly and thrust back into you
+>"c'mon," he said between gasps, "I know you can go faster"
+>oh that's how he wanted it?
+>you turned your back towards the bed and fell onto it
+>you disregarded the mess on your back and released the full nelson 
+>he was confused and almost protested when you grabbed his narrow waist and started impaling him on your manhood with all the energy and speed you could muster
+>while the hedgehog had looked alien to you when you first saw him, you had a newfound appreciation for him
+>his hole gripping onto your dick might be clouding your judgement 
+>that blue coat was like velvet to the touch
+>the peach color fur of his stomach marking complimented it
+>his face had a soft roundness to it
+>not that you could see it now for the quills that made up his head of "hair"
+>gave him sort of punk look
+>no way he could match the attitude that style exuded though
+>not while he was moaning like a girl on your lap
+>"you… you can… go harder, right?"
+>oh he was a brat
+>every thrust down your shaft was met by your hips halfway
+>you weren't giving him time to pause now
+>his arms scrambled as his hands tried to find anything to grab
+>another orgasm
+>this time you could only tell from his noises and his hole
+>you'd managed to wring him out like a sponge
+>that didn't mean you were stopping though
+>his prostate was getting jackhammered so much he was seeing stars
+>you felt it was time for another position change 
+>he didn't have time to react before you mating pressed him into the bed
+>this time you were face to face 
+>his hands went for your shoulders and his legs locked around your back
+>"don't pull out, you hea-"
+>he was cut off as you redoubled your efforts
+>the sentence turned into a drawn out whorish noise
+>you were so close and you bet he had one or two more in him
+>without hesitation you crushed your lips to his mouth
+>his tongue explored your mouth eagerly 
+>when you were right at the edge you hammered in one final thrust that had him writhe in your grip
+>his body convulsed as you poured that load deep into him
+>so that was it
+>that was how you were going to get interdimensional clap or whatever
+>well hopefully that got that out of his system 
+>he looked you square in the eyes
+>his green eyes immediately filled with that gleam of mischief that his smile couldn't muster
+>through ragged breath he finally spoke
+>"were you that eager to shut me up at the end with that kiss?"
+>he rolled his hips against yours, like he was trying get that very last drop out of you 
+>"told you that was going to be fun. going to be running funny tomorrow though."
+>this had to be a one time thing
+>you had to put your foot down
+>you tried to break it gently
+>he was practically a stranger
+>and you just fucked him into near coma
+>it wasn't the smartest thing to just do the closest thing to a Craigslist hookup with a furry
+>there was a trace of disappointment on his face
+>"was it not good?"
+>oh dammit 
+>was he playing the puppy dog eyes?
+>all the while occasionally rolling his hips against yours
+>it wasn't bad
+>you couldn't stand the puppy dog eyes
+>you just worried
+>"about? I'm pretty sure you can't get me pregnant"
+>not that
+>it was just the whole situation was alien
+>"we had fun. I mean if you want me to stay put I can't really hop off that cock"
+>grin and a shrug
+>he used his locked legs to drive your hardening cock deep 
+>he heaved his chest into yours as he arched his back 
+>you were trying your hardest not to concentrate on… everything
+>"I snagged that cowboy hat from the western bar and you're not even going to let me try that 'cowgirl position'"
+>very difficult 
+>"if I do 'reverse cowgirl' does that mean I have to make beeping noises during?"
+>you kissed him

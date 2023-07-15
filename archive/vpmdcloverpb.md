@@ -313,18 +313,20 @@ Biography generated!
 [See Linked](https://rentry.org/StumpyOrigin)
 
 ###Kaz/Solid Linoone
+Blurb here : https://rentry.org/vnrgo
+TL;DR greentext below
+>silly little guy
 >claims to be the fastest on-foot mailmon in Grass Continent
 >worked for pelipper mail, now works for Delibird deliveries
+>Suspiciously good chemistry with his boss, Debby
 >always seems to be in a good mood, overall a happy pokemon
 >laid back, likes imageboard memes
 >especially likes to hang out with anon-mons to goof around after work
->likes to hear stories from guild explorers
 >his nickname "Solid Linoone" is a reference to how he sometimes acts as a spy for the guild
 >At work, his ultra secret nickname is Kaczynski. "But don't call me that..."
 >dislikes combat, avoids fighting if he can
 >dislikes cock and ball torture
->silly little guy
->suspiciously never spends his Poké, lives in a shithole in a poor part of town
+>suspiciously never spends his Poké, lives in a shack in the outskirts of Capim Town
 >kind pokemon, doesn't want to hurt anyone, prefers to watch people laugh instead
 >bad habit of teaching native pokemon memes from the human world
 

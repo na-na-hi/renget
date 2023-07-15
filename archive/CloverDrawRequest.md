@@ -5,7 +5,6 @@
 #Pending Requests
 1. Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!"
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
-1. Porygon being called out by Bill ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head
 1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
 1. Booker, Chespin, and Minun's gardening Youtube channel (based on https://cloverguild.com/booru/post/414)
@@ -114,6 +113,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Porygon being called out by Bill](https://cloverguild.com/booru/post/587) ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 
 [Beast pouring two shots of vodka](https://cloverguild.com/booru/post/586)
 

@@ -39,6 +39,7 @@
 06/2023|[StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984)
 06/2023|[AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
 06/2023|[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)
+07/2023|[HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models](https://arxiv.org/abs/2307.06949)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -93,6 +94,7 @@
 06/2023|[Improving Open Language Models by Learning from Organic Interactions (BlenderBot 3x)](https://arxiv.org/abs/2306.04707)
 06/2023|[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 06/2023|[Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
+07/2023|[Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3leon)](https://archive.ph/pGJls)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -116,6 +118,7 @@
 06/2023|[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
 06/2023|[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)
 06/2023|[Textbooks Are All You Need (phi-1)](https://arxiv.org/abs/2306.11644)
+07/2023|[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -316,9 +319,9 @@
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)
-04/2023|[Yohei Nakajima - AsymmeTrix: Asymmetric Vector Embeddings for Directional Similarity Search](https://archive.ph/nbMXN)
 05/2023|[OpenAI - Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 05/2023|[Alex Turner - Steering GPT-2-XL by adding an activation vector](https://archive.is/E7ehv)
 06/2023|[YyWang - Do We Really Need the KVCache for All Large Language Models](https://archive.ph/quOu2)
 06/2023|[kaiokendev - Extending Context is Hard…but not Impossible](https://archive.ph/vJC44)
 06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.ph/Rsoai)
+07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities)

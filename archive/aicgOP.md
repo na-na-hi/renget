@@ -10,7 +10,7 @@
 	Sturdy           | Fuck you adwhore
 	Kaomoji OP		| https://rentry.org/kaomojibaka
 	**
-	My mail -> therrealrael@proton.me
+	My mail -> petergabriel@cock.li
 
 	Remember to be calm and reasonable
 [TOC]

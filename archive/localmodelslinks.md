@@ -89,8 +89,7 @@
 [LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
 [LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
-[Guidance Fork](https://github.com/Maximilian-Winter/guidance)|Fork of a prompting tool by Microsoft with llama-cpp-python support
-[Local LLM Agent with Guidance](https://github.com/QuangBK/localLLM_guidance)|Uses Guidance to create a react agent [Example](https://archive.is/nfRdN) 
+[Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
 [ReLLM](https://github.com/r2d4/rellm)|Regular Expressions for Language Model Completions
 [CRITIC](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)|Self-correct with tool-interactive critique scripts (Question Answering and Program Synthesis) 
 [Honest LLaMa](https://github.com/likenneth/honest_llama)|Inference-Time Intervention shifting model activations during inference to increase accuracy
@@ -111,7 +110,6 @@
 [Massively Multilingual Speech](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)|Meta's STT and TTS models half word error rate of whisper covers 1000+ languages
 [HIPIE](https://github.com/berkeley-hipie/HIPIE)|HIerarchical, oPen-vocabulary and unIvErsal image segmentation and detection model using SAM
 [TART](https://github.com/HazyResearch/TART)|Task-agnostic reasoning modules to improve in-context learning performance for classification tasks
-[Rank Response from Human Feedback](https://github.com/GanjinZero/RRHF)|Easier alignment tuning method 
 [Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 
 [Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
 [Talk](https://github.com/yacineMTB/talk)|Node based conversational engine (whisper, LLaMa, TTS) 
