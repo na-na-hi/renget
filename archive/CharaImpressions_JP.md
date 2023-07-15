@@ -878,10 +878,36 @@ Pros:
 - S2 gives M.Atk, M.Crit Dmg, P.Def & gives Phys barrier to all units within 200 range of the highest M.Atk unit (Lasts 12s)
 - EX+ gives M.Crit chance & M.Atk (Requires 5 star)
 - Excellent position (Catches nearly all important M.Atk units in back/mid line)
-- Very good skill loop(AA > S1 > S2 > AA)
+- Very good skill loop (AA > S1 > S2 > AA)
 
 Cons:
 - Lack of M.Def debuff to enemies
 - P.def increase can lead to potential skill autism
 - Low-ish base M.Crit Chance
 - Low-ish base M.Atk
+
+
+### ->Swimsuit Yukari<-
+**TL;DR - Physical damage dealer/magic tank focused on buffs and reducing magic damage. As a perma, seems decent but not must have for long-term.**
+S.Yukari's niche appears to be a tank that helps your team survive magic damage by eating it herself. Her TP and HP restoration is only to her, so she needs to be the one eating up damage. An example of where she might shine, is against Madame Prism - Where she can eat up UBs, buff her M.Def and dish out a healthy amount of UBs due to soaking up damage. Most likely in competition with X.Jun in terms of a tank spot, who has been showing up nearly every CB since her December 2022 release. With S.Yukari not having a debuff, probably won't see her outside of niche usage.
+
+
+-> ![S.Yukari](https://redive.estertion.win/card/full/126831.webp) <-
+
+Pros:
+- High HP value (1k less than N.Kuuka)
+- Good P.Atk buffs in 350 range on S1
+- Restore TP to self
+- Stands in front of Muimi, behind Ruka (Can be a bad thing if meta changes)
+- M.Def buffs while tanking on S1 (Can be a bad thing if meta changes)
+- Magic barrier to assist squishier units to survive on UB
+
+Cons:
+- TP restore only to self
+- UB only buffs self
+- Healing is more focused on self
+- Deals good damage as a 1st position unit
+- HP restore is only to self
+- No P.def debuff
+- No M.Atk debuff
+- M.Def & P.Atk buffs reaches up to P.Kokkoro

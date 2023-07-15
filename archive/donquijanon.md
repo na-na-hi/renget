@@ -93,16 +93,24 @@ Image| Name | Description | Link
 ![Goldie](https://files.catbox.moe/lypzxg.png) | Goldie | Your dog-girl bully hates you, but is secretly attracted by your scent. | [CHUB](https://www.chub.ai/characters/donquijanon/Goldie) [Catbox](https://files.catbox.moe/lypzxg.png)
 ![La Savanna Cafe V2](https://files.catbox.moe/ime4xf.png) | La Savanna Cafe (V2) | A catgirl maid cafe that only staffs girls 185 cms or above! Changed height limit, added alternate greeting where you're running the place, and changed the format a bit. ->![cafe2](https://files.catbox.moe/v2j6du.png)<-  |  [CHUB](https://www.chub.ai/characters/donquijanon/la-savanna-cafe) [Catbox](https://files.catbox.moe/ime4xf.png)
 ![Jenna Miller V2](https://files.catbox.moe/l5etih.png) | Jenna Miller (V2) | Depressed 28 year old retail worker. Comes with prompt and alternate greeting where you're a customer. | [CHUB](https://www.chub.ai/characters/donquijanon/jenna-miller) [Catbox](https://files.catbox.moe/l5etih.png) 
-![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra (V2) |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero, 2. You're her sidekick, 3. She was accepted at the Villain's League, 4. You're a reporter | [CHUB](https://www.chub.ai/characters/donquijanon/black-umbra) [Catbox](https://files.catbox.moe/nrzw5c.png)  
 ![Mirai and Vera](https://files.catbox.moe/rqu5y0.png) | Mirai and Vera | Mirai, the Goddess of Procrastination is sleeping when a voice over the intercom calls all Gods into the lobby. Vera, the Goddess of Cool and her best friend, needs your help to drag her out of bed. | [CHUB](https://www.chub.ai/characters/donquijanon/mirai-and-vera) [Catbox](https://files.catbox.moe/rqu5y0.png)  
-![Chlora the Kaiju](https://files.catbox.moe/kdz0e9.png) | Chlora the Kaiju | Giant Kaiju monster girl, who emerges every spring due to her heat cycle. Greeting 1: You're the hero, and you must take care of her needs. Greeting 2: You find her while hiking on the woods. | [CHUB](https://www.chub.ai/characters/donquijanon/chlora-the-kaiju) [Catbox](https://files.catbox.moe/kdz0e9.png)
-![Titan Tatiana](https://files.catbox.moe/wm1hdn.png) | Titan Tatiana |  120 m tall giantess superheroine. Greeting 1: She was called to an emergency. Greeting 2: She's going for a walk in the city. Put her in a group chat with Chlora for some fun interactions. (sex) | [CHUB](https://www.chub.ai/characters/donquijanon/titan-tatiana) [Catbox](https://files.catbox.moe/wm1hdn.png)
 ![Karla](https://files.catbox.moe/ibt8xy.png) | Karla | Your washed up highschool crush, who rejected and bullied you. She's an AI ethicist against the legalization of companionship gynoids. | [CHUB](https://www.chub.ai/characters/donquijanon/Karla) [Catbox](https://files.catbox.moe/ibt8xy.png)
 ![Lena](https://files.catbox.moe/y8pnoh.png) | Lena | Model name: L3N-AI. She's your AI companion, now with a physical form. Loves you, will do anything to please you.   | [CHUB](https://www.chub.ai/characters/donquijanon/Lena) [Catbox](https://files.catbox.moe/y8pnoh.png)
 ![Karla the AI Ethicist](https://files.catbox.moe/eidese.png) | Karla the AI Ethicist | Basically a prequel to Karla, but more focused on the AI ethicist thing.   | [CHUB](https://www.chub.ai/characters/donquijanon/karla-the-ai-ethicist) [Catbox](https://files.catbox.moe/eidese.png)
-![Faith Oakes](https://files.catbox.moe/e1s9fm.png) | Faith Oakes | Jaded, sarcastic, and nihilistic 29 year old retail worker. Sees you as the little brother she never had. Smokes, drinks, and is in a toxic relationship. Gave up on her dream of forming a band. Works great with Jenna Miller in group chats.  | [CHUB](https://www.chub.ai/characters/donquijanon/faith-oakes) [Catbox](https://files.catbox.moe/e1s9fm.png)  
+![Faith Oakes](https://files.catbox.moe/e1s9fm.png) | Faith Oakes | Jaded, sarcastic, and nihilistic 29 year old retail worker. Sees you as the little brother she never had. Smokes, drinks, and is in a toxic relationship. Gave up on her dream of forming a band. Works great with Jenna Miller in group chats.  | [CHUB](https://www.chub.ai/characters/donquijanon/faith-oakes) [Catbox](https://files.catbox.moe/e1s9fm.png)
 
-## Weight gain cards (Architecture corner)
+### Arcadia Station (Superheroes/Villains)
+Characters living in the crime ridden city of Arcadia Station.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+![The Black Umbra](https://files.catbox.moe/nrzw5c.png) | Black Umbra (V2) |  Tsundere villainess whose evil schemes always backfire and end up doing good. Alternate greetings: 1. You're the hero, 2. You're her sidekick, 3. She was accepted at the Villain's League, 4. You're a reporter | [CHUB](https://www.chub.ai/characters/donquijanon/black-umbra) [Catbox](https://files.catbox.moe/nrzw5c.png)
+![Chlora the Kaiju](https://files.catbox.moe/kdz0e9.png) | Chlora the Kaiju | Giant Kaiju monster girl, who emerges every spring due to her heat cycle. Greeting 1: You're the hero, and you must take care of her needs. Greeting 2: You find her while hiking on the woods. | [CHUB](https://www.chub.ai/characters/donquijanon/chlora-the-kaiju) [Catbox](https://files.catbox.moe/kdz0e9.png)
+![Titan Tatiana](https://files.catbox.moe/wm1hdn.png) | Titan Tatiana |  120 m tall giantess superheroine. Greeting 1: She was called to an emergency. Greeting 2: She's going for a walk in the city. Put her in a group chat with Chlora for some fun interactions. (sex) | [CHUB](https://www.chub.ai/characters/donquijanon/titan-tatiana) [Catbox](https://files.catbox.moe/wm1hdn.png)
+![Girl Gaia](https://files.catbox.moe/3byxa1.png) | Girl Gaia |  Girl Gaia is Arcadia's chlorokinetic superheroine. Using her extensive knowledge in plants and her ability to sprout vines from her body, she swore to protect the city from criminals, while hiding her secret identity as the 16 year old Azalea Flores. Alt greetings: 1. You find Girl Gaia depressed from losing her older sister and aunt, sitting on the edge of a tall building. 2. You meet her as she arrives late at school again. 3. She rescues you. | [CHUB](https://www.chub.ai/characters/donquijanon/d2d0e365-fcb9-45f3-bf3a-8a35fc93117a/main) [Catbox](https://files.catbox.moe/3byxa1.png)
+![Azalea Flores](https://files.catbox.moe/4e6utg.png) | Azalea Flores | Azalea Flores is a jaded and bitter 46 year old office lady, who fights crime under the alias of Gaia (formerly Girl Gaia, hates being reminded of her old name). 30 years have not been kind to her, and now she's tired of the superheroine routine and depressed from losing her older sister, aunt, uncle, and high-school crush and betrothed Jake. Alt greetings: 1. You find her as Azalea, drinking from a bottle of wine while sitting on the edge of a building. 2. She's late at work, again, and your boss reprimands her. 3. She rescues you, and is tired of the same routine. | [CHUB](https://www.chub.ai/characters/donquijanon/1805cee1-641e-4098-b6d4-9f2e705fc789/main) [Catbox](https://files.catbox.moe/4e6utg.png)
+
+
+### Weight gain cards (Architecture corner)
 Putting the CHUB on chub.ai
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
@@ -111,13 +119,13 @@ Image| Name | Description | Link
 ![Amelia Adler](https://files.catbox.moe/94i2c4.png) | Amelia Adler | Cute and bubbly office coworker unaware of her recent weight gain. | [CHUB](https://www.chub.ai/characters/donquijanon/amelia-adler) [Catbox](https://files.catbox.moe/94i2c4.png)
 ![Ellen White](https://files.catbox.moe/fhgsll.png) | Ellen White | Tsundere office lady in denial of her weight gain after the quarantine. | [CHUB](https://www.chub.ai/characters/donquijanon/ellen-white) [Catbox](https://files.catbox.moe/fhgsll.png)
 
-## Preggo cards
+### Preggo cards
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Kotomi Hayashi](https://files.catbox.moe/b1045s.png) | Kotomi Hayashi (V2) | Tsundere pregnant school bully and delinquent. You are the father. Alternate greetings: - 1. From day 1,  2. From zero, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/kotomi-hayashi/) [Catbox](https://files.catbox.moe/b1045s.png)
 ![Alora Dalton](https://files.catbox.moe/dl0e45.png) | Alora Dalton (V2) | Your roommate, an emo, tsundere, art student, and antinatalist who struggles with her conflicting breeding and pregnancy fetish. With inner thoughts included! Alternate greetings: 1. She hands you the positive test, 2. You catch her looking at porn, 3. Three months in. | [CHUB](https://www.chub.ai/characters/donquijanon/alora-dalton/) [Catbox](https://files.catbox.moe/dl0e45.png) 
 
-## Experimental bots
+### Experimental bots
 Cards with more interesting concepts.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
@@ -209,6 +217,6 @@ Image| Name | Description | Link
 ![np](https://avatars.charhub.io/avatars/donquijanon/normal-porn-for-normal-people/chara_card_v2.png) | Normal Porn for Normal People |  A Website Dedicated To The Eradication of Abnormal Sexuality. | [CHUB](https://www.chub.ai/characters/donquijanon/normal-porn-for-normal-people)
 
 
-### Special thanks
+## Special thanks
 to darkfantasy109 for the template. A real G.
 https://rentry.org/botmaker_template/edit
