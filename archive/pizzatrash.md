@@ -1,3 +1,20 @@
+#####Current Info
+
+Latest thread: https://boards.4chan.org/trash/thread/57922677
+Latest Aggie: https://aggie.io/aodbu7wnsb
+/pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
+
+
+#####MEGA
+
+https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I Deservioli 🍕
+https://mega.nz/file/7mYASSQI#gD6UxAkxIPMylLAxJmZGSoMekkHCvXHF_SVgV1_zoOQ Pizza.Tower.v1.0.3.rar
+https://mega.nz/file/bFhQ0LLa#ga3tVIL1c07uXWmzZD9QbWYFsulLIirjKL_sdINmcxU PizzaTower_GM2CLEANSED.yyz
+https://mega.nz/file/vRQDkCaC#BdDHebvKasQaBiaHhniN8S4uVkm8q71p27-AIrgi73A i am jerking off.nsp
+https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
+https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
+https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
+
 #####Threads
 
 https://desuarchive.org/trash/thread/54666468 /PizzaTrash/
@@ -41,6 +58,7 @@ https://desuarchive.org/trash/thread/57377909 /pizzatrash/ 38
 https://desuarchive.org/trash/thread/57544301 /pizzatrash/ 39
 https://desuarchive.org/trash/thread/57689808 /pizzatrash/ 40
 https://desuarchive.org/trash/thread/57798758 /pizzatrash/ 41
+https://desuarchive.org/trash/thread/57922677 /pizzatrash/ 42
 
 #####Aggie
 
@@ -76,20 +94,4 @@ https://aggie.io/5pdx2jzdvu /pizzatrash/ Aggie: Daddy Day Edition
 https://aggie.io/ugr8fbu79z /pizzatrash/ Aggie: oh god not again Edition
 https://aggie.io/onx7y3eqr5 /pizzatrash/ Aggie: End of June Edition
 https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
-
-
-#####MEGA
-
-https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I Deservioli 🍕
-https://mega.nz/file/7mYASSQI#gD6UxAkxIPMylLAxJmZGSoMekkHCvXHF_SVgV1_zoOQ Pizza.Tower.v1.0.3.rar
-https://mega.nz/file/bFhQ0LLa#ga3tVIL1c07uXWmzZD9QbWYFsulLIirjKL_sdINmcxU PizzaTower_GM2CLEANSED.yyz
-https://mega.nz/file/vRQDkCaC#BdDHebvKasQaBiaHhniN8S4uVkm8q71p27-AIrgi73A i am jerking off.nsp
-https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
-https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
-https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
-
-#####Current Info
-
-Latest thread: https://boards.4chan.org/trash/thread/57798758
-Latest Aggie: https://aggie.io/_ia3r16_h5
-/pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
+https://aggie.io/aodbu7wnsb The Weekly /pizzatrash/ Aggie - now with /ptg/!

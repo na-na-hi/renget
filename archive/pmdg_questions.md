@@ -1,7 +1,9 @@
 ##Question ideas for /pmdg/
 
+>Are there laws that regulate psychic Pokemon's powers and outlaw things like mind reading or mind control? 
+>Do artificial explosives like gunpowder exist in the PMD world, or does everyone just use Blast Seeds for all their explosive needs?
+>Is there a stigma against carnivorous Pokemon? If so, does the stigma persist even if they only eat nonlethal meat sources (like Slowpoke tails, which grow back)?
 >Are all Pokemon able to survive on plants like apples and berries? Or are some Pokemon truly carnivorous and require meat?
->Ghosts can phase through solid matter, but when they do so, can they bring items or other Pokemon along with them?
 >If you had no sense of humor, would a Reviser Seed do nothing to you (since it normally makes you faint from laughter)?
 >How exactly do Gummis make you smarter? Do they physically rewire your neurons somehow? Do they put some sort of weird magic energy inside you that increases your intelligence?
 >In PMD games, Fire-types can walk on molten lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?
@@ -9,7 +11,6 @@
 >How would you react if you encountered a feral member of your own species in a dungeon?
 >Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
 >Is it common to travel across the world to different continents, or do most Pokemon stay on their home continent for their whole lives?
->Are legendaries worshipped like gods?
 >Do prosthetics exist in the PMD world? And if so, are they just simple peg legs and hook hands or would they have some more advanced stuff, like a hand with working fingers?
 >Have any manmade objects come into the PMD world via portals or other means?
 >Do you think Pokemon in the PMD world use weapons like swords or bows, or just rely on their moves and items?
@@ -17,7 +18,7 @@
 >What plant-related foods would you miss the most if you became a carnivorous Pokemon?
 >Pokemon come in many sizes. What scale do they use for buildings and other structures? Do they scale the buildings to smaller Pokemon (which are more common), with the downside being that big Pokemon can't fit? Or do they make oversized buildings to try and accommodate all Pokemon?
 >Do Fire-types enjoy spicy food? Do they have a higher tolerance for it?
->Do you think most towns have their own school, like Serene Village does? Are there any full-on universities for advanced studies, or just basic schoolhouses that teach the basics?
+>Do you think most towns have their own school, like Serene Village does? Are there any full-on universities for advanced studies, or just simple schoolhouses that teach the basics?
 >How would native Pokemon react if you told them their whole world was just a video game? And would you choose to tell them that in the first place, or keep it a secret?
 >Do actual framed beds exist in this world, or does everyone sleep on piles of hay?
 >Do Ice-type Pokemon feel cold to the touch? And do they get chilly in cold weather or are they immune to low temperatures?
@@ -25,6 +26,11 @@
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+>Ghosts can phase through solid matter, but when they do so, can they bring items or other Pokemon along with them?
+>What's your favorite accessory design among the list and why? (https://bulbapedia.bulbagarden.net/wiki/Scarf_(Mystery_Dungeon))
+>Are legendaries worshipped like gods?
+>Your partner has been revealed to be a wanted outlaw, would you still stand by their side? Why?
 
 >If you became a Pokemon and could use moves, would you go full anime and do poses and call out your attack names, or be more subtle and "normal" about it?
 >If your partner ends up being your least favorite Pokemon, how would you deal in that situation?
