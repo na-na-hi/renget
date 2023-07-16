@@ -56,6 +56,8 @@ https://videogamemods.com/xenoverse/mods/conton-tournament-anytime/
 https://videogamemods.com/xenoverse/mods/bikini-censorship-b-gone/
 * Gives you access to full character customization (height/weight/face options) at the stylist guy next to clothes shop
 https://videogamemods.com/xenoverse/mods/unlocked-stylist/
+* Skip intro
+https://videogamemods.com/xenoverse/mods/skip-animated-intro/
 
 ###Skills and movesets
 * A mix of cinematic ults and more balanced supers that work well for combos

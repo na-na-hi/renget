@@ -353,6 +353,13 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * That one western macross or robotech comic?
  * The one with fairies/elves/etc. living in slums in sewers under city
  * Cassie Lang comics | [1](https://comicvine.gamespot.com/stature/4005-40516/)
+ * Kamala Khan comics | [1](https://comicvine.gamespot.com/kamala-khan/4005-94118/)
+ * Wasp comics | [1](https://comicvine.gamespot.com/wasp/4005-1502/)
+ * Elasti-girl comics | [1](https://comicvine.gamespot.com/elasti-girl/4005-4088/)
+ * Giganta comics | [1](https://comicvine.gamespot.com/giganta/4005-10882/)
+ * Ant Man (Lang) comics | [1](https://comicvine.gamespot.com/ant-man-lang/4005-20577/)
+ * Ray Palmer comics | [1](https://comicvine.gamespot.com/ray-palmer/4005-34685/)
+ * Hank Pym comics | [1](https://comicvine.gamespot.com/hank-pym/4005-2247/)
  * Alice in Wonderland (Rod Espinosa)
  * Avengers Fairy Tales #3
  * Betty & Veronica: Friends Forever: Return to Storybook Land
@@ -541,11 +548,87 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Invader Zim?
  * The Adventures of Gulliver(1968) | [Cover](https://thumbs2.imgbox.com/d0/69/Qm6k9u9L_t.jpg) | The adventures of Gary Gulliver and his search for his missing father.
  * Ben & Holly's Little Kingdom
+ * A Mouse Called Julian
+ * La Petite Géante
+ * A Kind of Magic | ? no episodes listed
+ * Adventure Time | Canyon
+ * Alice's Wonderland Bakery - s01e01a
+ * American Dad! | ? no episodes listed
+ * Amphibia | generally miniGTS, but special s02e02a, s02e16b
+ * Animaniacs | Katie Kaboom is metamorphosed giantess. This series has 8 segments with GTS scenes.
+ * Archie's Weird Mysteries | ? no episodes listed
+ * Arthur | GTS scenes occur only in the imagination of the characters. There are 7 episodes with giantess scenes.
+ * Atomic Betty: "Power Arrangers" | A medusa-like villain named Nuclea becomes a mini-giantess when she absorbs power from the galaxy.
+ * Barbie: Life in the Dreamhouse - The Shrinkerator
+ * Batman: The Brave and the Bold | ? no episodes listed, maybe giganta content?
+ * Beetlejuice s04e49
+ * Ben 10, Ben 10 (2016) | grey matter episodes
+ * Big City Greens
+ * Bluey - s3e21 | arguable?
+ * Bobby’s World |  ? no episodes listed
+ * Braceface - s01e08
+ * Brandy and Mr. Whiskers - s01e20
+ * Captain Planet and the Planeteers | ? no episodes listed
+ * Care Bears: Adventures in Care-a-lot - s01e07a
+ * Catscratch - s01e05b
+ * ChalkZone - s03e10a
+ * Chuck's Choice - s01-e12b
+ * Class of 3000 |  ? no episodes listed
+ * Clone High s01e09, s02e04
+ * Courage, the Cowardly Dog |  ? no episodes listed, maybe animal/miniGTS
+ * Cubix: Robots For Everyone! s02e04
+ * Curious George - s07e04b
+ * Cyberchase | ? no episodes listed
+ * Dan Vs. - s03e03
+ * Danny Phantom | ? no episodes listed
+ * Darkwing Duck - s01e04
+ * Dawn of the Croods - s04e02a
+ * DC Super Hero Girls | bumblebee scenes
+ * Dennis the Menace - s02e01b
+ * Denver, the Last Dinosaur - s02e19
+ * Dexter's Laboratory | It has 11 episodes with relative giantess theme.
+ * Dinosaucers - s01e09
+ * Disenchantment | ? no episodes listed
+ * Disney's House of Mouse - s03e10
+ * Dora and Friends: Into the City - s01e04
+ * Dorothy and the Wizard of Oz | Features several episodes with macro themes.
+ * Dragon Tales | ? no episodes listed
+ * DuckTales (1987) - s03e16
+ * Ed, Edd n Eddy | ? no episodes listed
+ * Eek! The Cat - s05e13
+ * Elena of Avalor - s01e24
+ * Ever After High - s04e05
+ * Evil Con Carne - s02e02b
+ * Fairy Tale Police Department - e18, e24
+ * Family Guy | s02e21, s12e18, s17e04, s19e03
+ * Fanboy & Chum Chum - s01e13b
+ * Fangbone! - e05a
+ * Fangface - s01e06
+ * Fantastic Max - s01e08
+ * Festival of Family Classics - e14
+ * Fly Tales - The Sand Castle | animal
+ * Futurama | It has 8 epsiodes with relative giantess theme (including a film).
+ * Garfield and Friends - s07e15
+ * Glitch Techs - e03
+ * Goldie and Bear - s01e1b, s01e09a, s02e22a
+ * Goof Troop - s01e52
+ * Gravity Falls - s01e11, s02e13
+ * Grojband - e17a
+ * Grossology - s02e10
+ * Happily Ever After: Fairy Tales for Every Child - s01e01
+ * Harley Quinn - s01e03, s01e06, s01e12
+ * Harvey Street Kids - e08a
+ * Hoppity Hooper - s02e19, s02e20
+ * Hotel Transylvania: The Series - e05a
+ * Hoze Houndz - s01e11b
 
 #### Lost
  * Gigantic | cancelled
 
 ### Web Animation
+Cover    | Name | Description | Tags | Relevance | Mirrors
+--- | --- | --- | --- | --- | ---
+
 #### TODO
  * 2 Ants 1 President
 

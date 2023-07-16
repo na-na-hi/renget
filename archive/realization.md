@@ -1,0 +1,1 @@
+![a stretched out stick figure with its eyes wide open and the text *realization\*](https://media.discordapp.net/attachments/796666895268577293/989465186710745108/emoji.png)

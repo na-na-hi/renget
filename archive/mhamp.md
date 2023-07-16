@@ -1153,12 +1153,6 @@ The Korean clubs budget has suspiciously expanded alot since they enrolled
 22.
 Mainly crash at Haileys house
 Else they hop around upscale places about town like expensive restaurants or to their own respective apartments 
-23.
-If it comes in ticket form she'll put it on bobby's desk if not she'll find a way to dump all of it on him anonymously and then spend the next few months glancing over her shoulder in the hope that he realizes its her
-"I-its not like i need it, its practically pocket change, you can probably come up with a better way to use it babo-kun"
-Blow it on upgrades to her workshop
-YOLO it on the stock market
-Do what junichi anon said
 24.
 Faith speaks to her parents once in a while i would say affectionate but not close is a good descriptor
 Maxs parents are deeply involved in the viet hero industry which is why shes a fount of knowledge about hero stuff but still not close
@@ -1170,12 +1164,6 @@ Hailey tantrum after the nanny was fired which resulted in her entire suite of r
 Faith was playing with one of her fathers weird metal office decor toys as a toddler and produced a bunch of tiny figurines which marched across the carpet to entertain herself
 Max was left on her own for too long and fell from a great height probably would have been seriously injured if not for emergency quirk assist
 Edies cousin ran after her with a scary mask when she was six all of a sudden and she teleported him into her dimension instinctively so ended up traumatizing him worse than he traumatized her 
-26.
-Hailey fears loneliness and expects everyone to leave her at some point. The other four girls in the clique are the only people she knows who have stayed. If they were to leave she'd probably act out violently but not try to win them back. Instead she'd likely make use of her wealth to self-destruct colorfully in a variety of expensive ways.
-Edie is scared of cramped spaces and will have a panic attack if shoved into an enclosed area.
-When Minnie was very young she was suddenly kicked out of her friend group which then turned on her for seemingly no reason. (Her next friend group was the clique.) This incident left her with a deep rooted fear of the same thing happening again which is why she usually goes with the flow within the clique. But on the flip side she has very stringent criteria for who she interacts with because she doesn't want to befriend someone and then suddenly find something about them that she dislikes. She'd rather have four close friends than a wide circle of acquaintances. Anyway if the clique suddenly turned on her she'd probably self-destruct.
-Faith is scared of heights and will freeze up if ever in such a situation. While she's usually a squealer she will fall completely silent and remain rigid until her muscles cramp.
-Max is scared of pain in general and will probably tear up if pinched with the intention to hurt. 
 28.
 Minnie hates people who insult her family but she doesnt retaliate, thats what the rest of the clique is for
 She also hates two faced people
@@ -1268,17 +1256,6 @@ Hailey will go back to work for her familys corp and seethe about it for the res
 Faith will be very sad abt it for a while but shell adjust and prob go to uni to be a white collar worker or engineer
 Max will lapse into denial and prob get herself killed thoughtlessly performing a random stunt that wouldnt be possible without her quirk
 Edie will go work as a supporter for one of her family members and develop extreme intimacy issues to compensate for no longer having the option to put anyone in timeout whenever
-48.
->Minnie
-There is no problem that cannot be solved with sufficient electricity
->Hailey
-Expect disappointment and you'll never be disappointed
->Faith
-Don't worry be happy
->Max
-Always go for the most dramatic exit (climbing up a wall instead of walking out the door like a normal person)
->Edie
-When in doubt put everything and everyone around you in timeout
 50.
 Clique would be dead in days they can prob find food but the crux is knowledge of what can and cannot be eaten + surviving the elements + food prep
 >Minnie
@@ -1319,8 +1296,14 @@ Phone
 Minnie watches incredibly sappy romance movies which has led to a somewhat distorted view of relationships in general, in other words she is down bad
 21. 
 Minnie is in tennis but only sometimes shows, she mainly helps out with Shiketsu's International Connections association which is like an overarching body that manages exchange students
+23.
+If it comes in ticket form she'll put it on bobby's desk if not she'll find a way to dump all of it on him anonymously and then spend the next few months glancing over her shoulder in the hope that he realizes its her
+26.
+When Minnie was very young she was suddenly kicked out of her friend group which then turned on her for seemingly no reason. (Her next friend group was the clique.) This incident left her with a deep rooted fear of the same thing happening again which is why she usually goes with the flow within the clique. But on the flip side she has very stringent criteria for who she interacts with because she doesn't want to befriend someone and then suddenly find something about them that she dislikes. She'd rather have four close friends than a wide circle of acquaintances. Anyway if the clique suddenly turned on her she'd probably self-destruct.
 35. 
 Bobby but onesided cos shes trying to get him to notice her
+48.
+There is no problem that cannot be solved with sufficient electricity
 > Your Top Songs 20XX
 Lost In Japan - Shawn Mendes
 serotonin highs - Arden Jones, Allen Haley
@@ -1365,8 +1348,14 @@ Nothing, I'm flawless
 Hailey is actually a decent conversationalist from years of coaching and is a fount of general knowledge + current events
 21. 
 Hailey is technically on the broadcasting club because she never stops talking so they sometimes ask her to hang out on the airwaves when they need conversation topics but mysteriously stopped asking after the first few tries because shes insufferable
+23.
+"I-its not like i need it, its practically pocket change, you can probably come up with a better way to use it babo-kun"
+26.
+Hailey fears loneliness and expects everyone to leave her at some point. The other four girls in the clique are the only people she knows who have stayed. If they were to leave she'd probably act out violently but not try to win them back. Instead she'd likely make use of her wealth to self-destruct colorfully in a variety of expensive ways.
 35. 
 Kaylee since her anon did all the legwork my thanks for that
+48.
+Expect disappointment and you'll never be disappointed
 > Your Top Songs 20XX
 needy - Ariana Grande
 IF I DON'T TEXT YOU FIRST - Tiffany Day
@@ -1401,8 +1390,14 @@ Faith may have a ditzier vibe but is technologically very inclined and probably 
 See Minnie
 21. 
 Faith is a cheerleader (prob played a major role in getting Inigo kicked out) and is technically a member of the swimming club but rarely goes in the water
+23.
+Blow it on upgrades to her workshop
+26.
+Faith is scared of heights and will freeze up if ever in such a situation. While she's usually a squealer she will fall completely silent and remain rigid until her muscles cramp.
 35. 
 Hiro or goldorado or any other STEM academic weapon
+48.
+Don't worry be happy
 > Your Top Songs 20XX
 Satellite - Lelia Broussard
 Calling - Ukiyo, Your Girl Pho
@@ -1427,8 +1422,14 @@ Max plays the ukulele
 Shitposting about quirks on a Mongolian basket-weaving forum
 21. 
 Max is a member of an informal dance crew
+23.
+YOLO it on the stock market
+26.
+Max is scared of pain in general and will probably tear up if pinched with the intention to hurt. 
 35. 
 Imai for fight club
+48.
+Always go for the most dramatic exit (climbing up a wall instead of walking out the door like a normal person)
 > Your Top Songs 20XX
 Say So - Doja Cat
 Nevermind - Phoneboy, Justin Magnaye
@@ -1448,8 +1449,14 @@ I'll get back to you on that. (Never gets back)
 Edie is very observant and can peg brands in an instant (she's better at recognizing Hailey's clothes than Hailey herself) 
 21. 
 Edie is in photog (prob played a major role in getting Inigo kicked out) and occasionally drops in on soccer
+23.
+Do what junichi anon said
+26.
+Edie is scared of cramped spaces and will have a panic attack if shoved into an enclosed area.
 35. 
 no idea maybe Chris since they were on opposing sides in fight club and he was the opposing team's MVP
+48.
+When in doubt put everything and everyone around you in timeout
 > Your Top Songs 20XX
 Maple Syrup - The Backseat Lovers
 Pleaser - Wallows
@@ -1457,7 +1464,6 @@ Pleaser - Wallows
 Run the World!!! - Dayglow
 Love Affair - UMI
 シンデレラ - Cidergirl 
-
 ###Hifumi Takeda HN "Warp Blade Hero: Challenger"
 1.
 >Does your MHA have a social media presence?

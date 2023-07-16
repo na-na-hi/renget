@@ -1,5 +1,15 @@
 ▶NEW CLIPS
->AFU having a blast
+>Hohols ambush and kill 2 civilians
+https://files.catbox.moe/enamp3.mp4
+>Hohol gets 'new' helmet
+https://files.catbox.moe/bqoimi.mp4
+>Robytne BBQ
+https://files.catbox.moe/f4a9r7.mp4
+>Hohols successfully demine another field
+https://files.catbox.moe/33tuz2.mp4
+>Attack on hohol trench: Fireball, fireball. Fireball, fireball.
+https://files.catbox.moe/aajkyh.mp4
+>AFU having a blast (not comfy)
 https://files.catbox.moe/zszf5r.mp4
 >Irish merc runs away
 https://files.catbox.moe/w26wyk.mp4

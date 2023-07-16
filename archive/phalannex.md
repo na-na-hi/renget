@@ -4,16 +4,17 @@
 
 IMO I recommend downloading off CHub as I update there and don't bother updating files.catbox.moe contents. (Also number go up)
 
+Apparently some CHub links are case-sensitive??? (Inconsistently happens with random links, not sure why) https://www.chub.ai/characters/phalannex/docudubery <- leads to 404 for me
 [TOC]
 
 # Phalannex's new stuff
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
-![Denver, Goddess of Gas Stations](https://files.catbox.moe/scs43u.png) | Denver, Goddess of Gas Stations (Original Character) | https://www.chub.ai/characters/phalannex/denver-goddess-of-gas-stations | https://files.catbox.moe/phdp4c.png
-![Byleth Eisner](https://files.catbox.moe/iqlxnh.png) | Byleth Eisner (Fire Emblem) | https://www.chub.ai/characters/phalannex/byleth-eisner | https://files.catbox.moe/iqlxnh.png
-![Shez](https://files.catbox.moe/lbxnou.png) | Shez (Fire Emblem) | https://www.chub.ai/characters/phalannex/shez | https://files.catbox.moe/lbxnou.png
-![Nahida](https://files.catbox.moe/cuajts.png) | Nahida (Genshin Impact) | https://www.chub.ai/characters/phalannex/nahida | https://files.catbox.moe/cuajts.png
+![DocuDubery](https://files.catbox.moe/86fxqb.png) | DocuDubery | https://www.chub.ai/characters/phalannex/DocuDubery | https://files.catbox.moe/86fxqb.png
+![Gaggle of British Colonizers](https://files.catbox.moe/xj0vlg.png) | Gaggle of British Colonizers | https://www.chub.ai/characters/phalannex/gaggle-of-british-colonizers | https://files.catbox.moe/xj0vlg.png
+![Raiden Shogun and Ei](https://files.catbox.moe/9n8vwe.png) | Raiden Shogun and Ei (Genshin Impact) | https://www.chub.ai/characters/phalannex/raiden-shogun-and-ei | https://files.catbox.moe/9n8vwe.png
+![Zhongli](https://files.catbox.moe/ta5lht.png) | Zhongli (Genshin Impact) | https://www.chub.ai/characters/phalannex/Zhongli | https://files.catbox.moe/ta5lht.png
 
 # Miscellaneous IP Characters
 Image | Name | CHub Link | Catbox Link
@@ -39,7 +40,7 @@ Image | Name | CHub Link | Catbox Link
 ![Shamir and Catherine](https://files.catbox.moe/hv1uly.png) | Shamir and Catherine | https://www.chub.ai/characters/phalannex/shamir-and-catherine | https://files.catbox.moe/hv1uly.png
 ![Byleth Eisner](https://files.catbox.moe/iqlxnh.png) | Byleth Eisner | https://www.chub.ai/characters/phalannex/byleth-eisner | https://files.catbox.moe/iqlxnh.png
 ![Shez](https://files.catbox.moe/lbxnou.png) | Shez | https://www.chub.ai/characters/phalannex/shez | https://files.catbox.moe/lbxnou.png
-![Byleth Eisner x 2](https://files.catbox.moe/fcua0y.png) | M!Byleth and F!Byleth `NSFW, do not expect character accuracy since low token count.` | https://www.chub.ai/characters/phalannex/byleth-eisner-x-2 | https://files.catbox.moe/fcua0y.png
+![Byleth Eisner x 2](https://files.catbox.moe/fcua0y.png) | M!Byleth and F!Byleth `NSFW coom card.` | https://www.chub.ai/characters/phalannex/byleth-eisner-x-2 | https://files.catbox.moe/fcua0y.png
 
 # Genshin Impact
 Image | Name | CHub Link | Catbox Link
@@ -48,6 +49,8 @@ Image | Name | CHub Link | Catbox Link
 ![Keqing](https://files.catbox.moe/8nsd6k.png) | Keqing | https://www.chub.ai/characters/phalannex/keqing | https://files.catbox.moe/8nsd6k.png
 ![Arlecchino](https://files.catbox.moe/5dl4r8.png) | Arlecchino | https://www.chub.ai/characters/phalannex/arlecchino | https://files.catbox.moe/5dl4r8.png
 ![Alhaitham](https://files.catbox.moe/phdp4c.png) | Alhaitham | https://www.chub.ai/characters/phalannex/alhaitham | https://files.catbox.moe/phdp4c.png
+![Raiden Shogun and Ei](https://files.catbox.moe/9n8vwe.png) | Raiden Shogun and Ei | https://www.chub.ai/characters/phalannex/raiden-shogun-and-ei | https://files.catbox.moe/9n8vwe.png
+![Zhongli](https://files.catbox.moe/ta5lht.png) | Zhongli | https://www.chub.ai/characters/phalannex/zhongli | https://files.catbox.moe/ta5lht.png
 ![Nahida](https://files.catbox.moe/cuajts.png) | Nahida | https://www.chub.ai/characters/phalannex/nahida | https://files.catbox.moe/cuajts.png
 
 # JoJo's Bizarre Adventure
@@ -63,12 +66,14 @@ Image | Name | CHub Link | Catbox Link
 ![Risotto Nero](https://files.catbox.moe/zfqr1d.png) | Risotto Nero | https://www.chub.ai/characters/phalannex/risotto-nero | https://files.catbox.moe/zfqr1d.png
 ![Rosetta Nero](https://files.catbox.moe/4te0sk.png) | Rosetta Nero | https://www.chub.ai/characters/phalannex/rosetta-nero | https://files.catbox.moe/4te0sk.png
 
-# Nation Girls
+# History Stuff
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
 ![Führer Deutsch-Chan](https://files.catbox.moe/tf6nb5.png) | Führer Deutsch-Chan | https://www.chub.ai/characters/phalannex/fuhrer-deutsch-chan | https://files.catbox.moe/tf6nb5.png
 ![Italia-Chan](https://files.catbox.moe/q4poon.png) | Italia-Chan | https://www.chub.ai/characters/phalannex/italia-chan | https://files.catbox.moe/q4poon.png
+![DocuDubery](https://files.catbox.moe/86fxqb.png) | DocuDubery | https://www.chub.ai/characters/phalannex/docudubery | https://files.catbox.moe/86fxqb.png
+![Gaggle of British Colonizers](https://files.catbox.moe/xj0vlg.png) | Gaggle of British Colonizers | https://www.chub.ai/characters/phalannex/gaggle-of-british-colonizers | https://files.catbox.moe/xj0vlg.png
 
 # Original Characters
 Image | Name | CHub Link | Catbox Link

@@ -83,7 +83,8 @@ Like imagine, Seija getting tips from Shinmyoumaru on how to take your massive d
 It should help with the technique grind. It's not like it's usually a problem to get the girl to agree to sex at the point when she loves you, but it's kinda sucky to have a harem newcomer who's pretty much unable to have sex and please you the first couple of times. I guess you could also adapt it to nonlewd requests, like learning to cook with a team of chefs behind the newcomer.*
 ## Yanderes
 Yandere content (I personally support its inclusion as long as it does not detract from the overall user experience; the more lighthearted variants of what characterizes a yandere, in my opinion, could fit the setting of TW without too much difficulty) has been an often discussed suggestion in the thread:
-https://i.4cdn.org/jp/1688004396067120.png
+https://warosu.org/data/jp/img/0438/46/1688004396067120.png
+https://warosu.org/jp/thread/43846482#p43868628
 # Suggestions From the Old Git
 ## 2hus Stealing Food From You Expansion
 https://gitgud.io/Pedy/pedy-tw/-/issues/4

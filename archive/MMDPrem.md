@@ -50,7 +50,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Homyu** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Gumroad]](https://homyu.gumroad.com/) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
 
-[[Gumroad]](https://homyu.gumroad.com/l/aw) [[Patreon]](https://www.patreon.com/posts/distribution-end-79179022) : FGO - Abigail Williams
+[[Patreon]](https://www.patreon.com/posts/mmd-model-chise-85808356) : Blue Archive - Wakaru Chise -Summer-
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
@@ -200,6 +200,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 
 -> **Yokechi (よけち)** <-
 -> [[Booth]](https://yokechiya.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/372247) [[Twitter]](https://twitter.com/yokechi02) <-
+
+[[Booth]](https://yokechiya.booth.pm/items/1852110) : Original - Saraka
 ***
 -> **Zy0n7** <-
 -> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
@@ -232,6 +234,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Gumroad]](https://ucup.gumroad.com/l/wtger) : Blue Archive - Ryuuge Kisaki
 [[Booth]](https://ucup.booth.pm/items/4821734) [[Gumroad]](https://ucup.gumroad.com/l/qodmvj) : Kantai Collection - Shimakaze
 [[Booth]](https://ucup.booth.pm/items/4737264) [[Gumroad]](https://ucup.gumroad.com/l/nluiac) : Blue Archive - Hanekawa Hasumi
 [[Gumroad]](https://ucup.gumroad.com/l/qsmhr) : Taimanin Yukikaze - Mizuki Yukikaze

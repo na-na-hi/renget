@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 12/7/2023== <-
--> *Added 2 new bots/cards : Kiyoko Shimizu & Mary Saotome* <-
+-> ==Updated 16/7/2023== <-
+-> *Added 3 new bots/cards : Ajiki Yachiyo, Nagami Kiyora, and Nagami Misuzu* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -17,6 +17,7 @@
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Astaroth | ![Astaroth](https://i.postimg.cc/Pf2210PZ/Astaroth.png) | Powerful, sadistic demon seeking a man stronger than herself. She manipulates fire and can teleport, summon, and kill weak people mercilessly. | [Download](https://www.chub.ai/characters/maliksusanto/Astaroth)
+Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | [Download](https://www.chub.ai/characters/maliksusanto/2626f10e-016c-404d-952c-c1099af122e2)
 Azuma Suzuna | ![Azuma Suzuna](https://i.postimg.cc/bvY9ysDX/tavern-raw.png) | Naive, outgoing, and refined student and Student Council President of Saint Orkis Academy. | [Download](https://www.chub.ai/characters/maliksusanto/azuma-suzuna)
 Celestine Lucross | ![Celestine Lucross](https://i.postimg.cc/DfSJ228W/tavern-raw.png) | A gracious, kind high elf. The High Queen of the Continent and leader of the allied forces. | [Download](https://www.chub.ai/characters/maliksusanto/celestine-lucross)
 ChatGPT-chan | ![ChatGPT-chan](https://i.postimg.cc/sgJV4SGB/tavern-raw.png) | ChatGPT-chan is personified version of ChatGPT. This was made because of wild idea i had when i asked ChatGPT to make gijinka of itself. | [Download](https://www.chub.ai/characters/maliksusanto/ChatGPT-chan)
@@ -42,6 +43,8 @@ Mary Saotome | ![Mary Saotome](https://i.postimg.cc/YqNtrgjS/Mary-Saotome.png) |
 Melty Q Melromarc | ![Melty Q Melromarc](https://i.postimg.cc/PJbMfZ4j/tavern-raw.png) | Melty Q Melromarc is the Second and Crown Princess of Melromarc. | [Download](https://www.chub.ai/characters/maliksusanto/melty-q-melromarc)
 Mirellia Q Melromarc | ![Mirellia Q Melromarc](https://i.postimg.cc/TPBLZFfL/tavern-raw.png) | Queen of Melromarc, a just ruler who is known for her diplomatic and negotiating skills. | [Download](https://www.chub.ai/characters/maliksusanto/mirellia-q-melromarc)
 Mosquito Girl | ![Mosquito Girl](https://i.postimg.cc/htdJRgPL/tavern-raw.png) | A villain, prototype artificial mutant in form of female humanoid mosquito. | [Download](https://www.chub.ai/characters/maliksusanto/mosquito-girl)
+Nagami Kiyora | ![Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png) | Daughter of Nagami Misuzu. She has been chosen as the bride candidate in the upcoming Hanasaki Festival. | [Download](https://www.chub.ai/characters/maliksusanto/01cbdf01-bfab-49b1-9670-365b8d7beb96)
+Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | [Download]() *Link will be posted, chub is currently having error*
 Naomi Evans | ![Naomi Evans](https://i.postimg.cc/1zXVFCbP/Naomi-Evans.png) | Hot-headed, violent, and possessive Major of the Space Federation Army with skill in drone operation. | [Download](https://www.chub.ai/characters/maliksusanto/naomi-evans)
 Natsuhi Ushiromiya | ![Natsuhi Ushiromiya](https://i.postimg.cc/qMfqcSGg/tavern-raw.png) | Natsuhi Ushiromiya is a strict, responsible, and prideful woman who manages the Ushiromiya household. | [Download](https://www.chub.ai/characters/maliksusanto/natsuhi-ushiromiya)
 Olga Discordia | ![Olga Discordia](https://i.postimg.cc/wxF7gCjy/tavern-raw.png) | The Prideful Queen of the Dark Elves from Kuroinu series. There's no NSFW attached to card but considering where she came from, she might as well be NSFW. | [Download](https://www.chub.ai/characters/maliksusanto/olga-discordia)
@@ -76,8 +79,5 @@ Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/
 
 Name  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
-Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | TBA™
 Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
-Nagami Kiyora | ![Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png) | Daughter of Nagami Misuzu. She has been chosen as the bride candidate in the upcoming Hanasaki Festival. | TBA™
-Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | TBA™
 Nanagami Rin | ![Nanagami Rin](https://i.postimg.cc/YCzyqy4H/Nanagami-Rin.png) | Chief Administrative Officer and Vice President of the General Student Council, as well as the acting leader of Kivotos. | TBA™

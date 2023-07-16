@@ -1,6 +1,7 @@
 #The greatest*[citation needed] human hunter
  
- "So... why humans?"
+ "So... why humans?" 
+
 
  The question catches me offguard, breaking me off of my own thoughts. I turn my head around slightly, & look at him, wordlessly asking him to repeat himself.
 

@@ -54,6 +54,7 @@ _______________________________
 |IRyS|【HOLOLIVE CONNECT THE WORLD】The IRyStocrat Summit |[Palette](https://youtu.be/ZFaPwQkjKb8?t=1818) - [Rise](https://youtu.be/ZFaPwQkjKb8?t=4305) - [Mumei raid & rant about SSS](https://youtu.be/ZFaPwQkjKb8?t=5003) - [Capes are cool](https://youtu.be/ZFaPwQkjKb8?t=6685)   | More indepth talk on how Mumei and other girls sang. Great compliments.|
 |Gurame| 【CHAT】OTSUKARE SUMMER! 💦⭐  |[Link](https://youtu.be/4Y0GCDcmSQg&t=3932)|Gura teared up when Mumei sang Palette. |
 |Moona & Ollie| 【Watchalong】hololive English 1st Concert -Connect the World- Watchalong! |[Palette start](https://youtu.be/Qqp2ozEqCXU?t=3018) - [Rise start](https://youtu.be/Qqp2ozEqCXU?t=6022) - [SNOT MC](https://youtu.be/Qqp2ozEqCXU?t=4712) |Watchalong. |
+|A-chan|  【WATCHALONG】hololive English 1st Concert -Connect the World-【A-chan】 | [Timestamp](https://www.youtube.com/watch?v=7P60r500nvo&t=2396s)|Watchalong on the official EN channel.|
 
 _______________________________
 ##HoloSummer

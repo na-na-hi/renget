@@ -50,6 +50,10 @@ You can always switch emulators if nothing works.
 Certain countries are blocked from playing Blue Archive, hop on a VPN if you are in one.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
+## Latest /bag/ Banner Guide
+[Click here (this is not a virus)](https://i.imgur.com/2zvFJKv.jpeg)
+16/07/23
+
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
 I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
@@ -201,7 +205,10 @@ From 3* to UE50 it costs 2400 elephs.
 No. At most you brick yourself by levelling the worse characters.
 
 ## Normal and Hard missions
-Puzzle gaming. Look at youtube videos if you don't know how to solve a puzzle lol (or [use the wiki](https://bluearchive.wiki/wiki/Missions), most missions have a strategy guide) 
+Puzzle gaming. Look at youtube videos or [use the wiki](https://bluearchive.wiki/wiki/Missions) if you don't know how to solve a puzzle.
+
+Recommended levels are a meme, ignore them. You can clear missions 10-20 levels underneath the recommended levels. 
+
 You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
 If you have trouble with the boss you can charge ur EX bar to 10 the battle before.
 

@@ -1,6 +1,8 @@
 #SAM HYDE TORRENT ARCHIVE
 [TOC2]
 
+#Still no PGL 58.
+
 ##Sam Hyde GUMROAD (2022 APRIL)
 Includes the following:
 EOC 1-3

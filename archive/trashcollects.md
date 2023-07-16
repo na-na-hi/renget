@@ -706,6 +706,10 @@ Activation token is "cryptid".
 
 	https://anonfiles.com/R1i8p210z1/cryptid1024d1024c2834rf_safetensors
 
+# Catti (Deltarune)
+
+	https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

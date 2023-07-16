@@ -49,6 +49,7 @@ Dr. Remilia Rochefort (Bunker-Baby): https://archive.4plebs.org/tg/post/89385830
 Quinn Chase (Bunker-Baby): https://archive.4plebs.org/tg/post/89386021
 Chloe (Settlement Survivor): https://archive.4plebs.org/tg/post/89414221
 Billy Kido (High Plains Drifter): https://archive.4plebs.org/tg/post/89492515 (more information at https://rentry.org/ru3fr)
+Tinker West-Gacy (Mutant): https://archive.4plebs.org/tg/thread/89565846/#q89567493
 #### Unclear
 Ultra Magnus (Settlement Survivor): https://archive.4plebs.org/tg/post/89400766 (more information at https://rentry.org/gvigd)
 Heli Matharom (Settlement Survivor): https://rentry.org/HeliMatharom
@@ -106,5 +107,7 @@ Raid Crashers (Chloe, Nikto, Magnus, Lin, Dr. Charles Crane): https://rentry.org
 Closer (Calliope, Queen Bee, Kara): https://rentry.org/2xzif 
 Ride Along (Isha, Kara): https://rentry.org/ztf4s
 Hunting Trogs in a World Where the Ground is Lava (Lockley Aimes): https://rentry.org/oobecr
+Mike Gets an Apprentice (Mike the Driver, Tinker Gacy): https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/edit?usp=sharing
+The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus): https://pastebin.com/58dq47ZA
 ### Mission Logs
 Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions
