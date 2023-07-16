@@ -250,7 +250,13 @@ It's more efficient waiting for a spook (non banner girl appearing through the g
 If you think she's cute it's also cool to redeem. 
 
 ## Bounties
-Your daily mats farm. Remember how you need to match the colours before? Well, now you need to match the attack type (red) AND the school AND the environment mood. If you lack options you can run blue units too, as long as you max out the school buff. 
+Your daily mats farm. 
+
+School > Damage type (red) > Environment mood 
+The bonuses are team-wide, so make sure to bring an actual good (ST) DPS for the rangers. E.g. Aru and Azusa. 
+Blue units work too. 
+The black ranger's special skill makes the target receive extra damage, so you could try to cleanse it with someone like Mari. 
+
 With a well timed CC you can cancel the rangers' special ability, so if you start to get melted make sure to use ur CC abilities to cancel their skills!
 ![CC in BA](https://i.imgur.com/dRYPRoE.png)
 

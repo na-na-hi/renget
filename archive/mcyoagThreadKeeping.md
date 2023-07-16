@@ -44,6 +44,14 @@ Writefags:
 >Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
 https://rentry.org/wyny7
 
+Artfags:
+>mmmmm milk
+>>89589591
+
+Cards:
+>Hailey Character Card
+>>89592600
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335

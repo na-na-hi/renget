@@ -28,7 +28,6 @@ Singtel Mobile||Indosat||celcom||coins·ph|AIS
 Codashop is an **official topup** method for **SEA captains** for Honkai Impact 3. It allows players to top up directly to any account on the SEA server using the UID system. Valid SEA UIDs are 8 digits long, starting with a 1. Ex. 19999999. Topping up with Codashop will not grant first time topup bonuses. 
 ***
 Please send me any additional info to add to this page.
-Does Codashop Topup count towards overall topup? I assume so, but let me know.
 Are the VISA/Paypal options easy to use for captains who don't live in SEA? hit me up if that's you.
 ***
 *Created and maintained by TencentDimepiece (SinsOfSeven#3164)*

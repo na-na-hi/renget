@@ -36,13 +36,13 @@ Botmaker | Category | New Bots | Updated Bots
 [UncleMarr](https://rentry.org/umarr) | Misc |[Tyrande and Ash'alon](https://files.catbox.moe/hjj7qe.png)|
 [Malik](https://rentry.co/maliksusanto) | Misc |[Nanagami Rin](https://i.postimg.cc/YCzyqy4H/Nanagami-Rin.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Jack](https://files.catbox.moe/myii7p.png)|
-[Hochimama](https://rentry.co/hochimamabots) | Misc |[Amai](https://files.catbox.moe/wnub90.png), [Nicoletta](https://files.catbox.moe/qxxemn.png), [Deimi](https://files.catbox.moe/nvdv6d.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||[Maid Nene](https://files.catbox.moe/aknbu7.png), [Maid Roboco](https://files.catbox.moe/khljqm.png), [Maid Botan](https://files.catbox.moe/875ww6.png)
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||

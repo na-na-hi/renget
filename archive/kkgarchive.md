@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 15.07.2023 23:30 UTC]
+[Last Updated: 16.07.2023 05:30 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7479699/](https://boards.4chan.org/h/thread/7479699/)
 Trash - [boards.4chan.org/trash/thread/58017693/](https://boards.4chan.org/trash/thread/58017693/)
@@ -78,7 +78,7 @@ Archive:
 ---
 Trash:
 
-- 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[101]
+- 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[120]
 - 013&nbsp;&nbsp;[desuarchive.org/trash/thread/56983608/](https://desuarchive.org/trash/thread/56983608/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:39)&nbsp;&nbsp;[309]
 - 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[301]
 - 011&nbsp;&nbsp;[desuarchive.org/trash/thread/56176356/](https://desuarchive.org/trash/thread/56176356/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 17:56)&nbsp;&nbsp;[314]

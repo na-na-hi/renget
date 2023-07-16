@@ -45,10 +45,6 @@
 - Concentrate on downloading the newest Korean dramas as is original soundtracks.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
 
-### 🔗 [Edytjedhgmdhm](https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
-- Excellent directory containing tons of high-quality movies and TV shows, as well as a good number of ebooks.
-- [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
-
 ### 🔗 [GojoMovies](https://gojomovies.lol/)
 - Website that offers the most recent direct download links for your preferred TV shows, films, and other media.
 - [URL Safety Results](https://www.urlvoid.com/scan/gojomovies.lol/)
@@ -248,6 +244,10 @@
 &nbsp;
 
 # 📑 3 ➜ Torrents
+
+### 🧲 [EZTV](https://eztv.re/)
+- Here you may find and watch new episodes of your favorite TV shows every day.
+- [URL Safety Results](https://www.urlvoid.com/scan/eztv.re/)
 
 ### 🧲 [TorrentCue](https://torrent-cue.co/)
 - The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.

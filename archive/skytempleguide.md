@@ -1,7 +1,7 @@
 ##SkyTemple Guide
 [TOC3]
 
-Heavily WIP currently, so don’t be surprised if this gives you incorrect or incomplete information. I plan on adding to this as I get more familiar with SkyTemple. The goal is to provide straightforward, easy to reference information on using SkyTemple. The creation of this is partly for my own reference and partly out of spite for aggressive Discord shilling. I’ll include links to the videos I’m using as reference material with appropriate timestamps, if you prefer video tutorials. Edit code is **clover** if you want to help fill out the guide!
+Heavily WIP currently, so don’t be surprised if this gives you incorrect or incomplete information. I plan on adding to this as I get more familiar with SkyTemple. The goal is to provide straightforward, easy to reference information on using SkyTemple. The creation of this is partly for my own reference and partly out of spite for aggressive Discord shilling. I’ll include links to the videos I’m using as reference material with appropriate timestamps, if you prefer video tutorials.
 
 ###Useful Links
 [ExplorerScript Language Specification](https://explorerscript.readthedocs.io/en/latest/language_spec.html)
@@ -18,6 +18,10 @@ Animation ID is the number in the sprites XML file that can be downloaded from t
 [Youtube Video of all sound effects](https://youtu.be/mXy0FJiNkR0)
 [Google Doc listing what scenes a bunch of scripts correspond to](https://docs.google.com/document/d/1d0GKU60TXsnXa-I2xn7siSpF1ipL1QOv5ro9q37wRZQ/edit)
 
+###Video Tutorials
+[SkyTemple Super Beginner's Guide](https://www.youtube.com/playlist?list=PLvG4czvyoR7KjYnfCaYeQK0J8CdcoV3E6)
+[SkyTemple Scripting Tutorials](https://www.youtube.com/playlist?list=PLeoQCzDApD5Kmp0eRA947oPelXunAtqWv)
+[SkyTemple: A Comprehensive Tutorial](https://www.youtube.com/watch?v=liyKneUd-mU)
 
 ###Basic Scripting Syntax
 No idea how much should be included here, but intended for people with 0 programming knowledge. 

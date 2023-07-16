@@ -81,6 +81,10 @@
 - A previewable magnet search engine that enables quick starts to downloads in almost every genre of media for free use.
 - [URL Safety Results](https://www.urlvoid.com/scan/btmet.com/)
 
+### 🧲 [ExtraTorrents](https://extratorrents.it/home)
+- Find games, applications, movies, TV series, and more on one of the biggest torrent sites in the world.
+- [URL Safety Results](https://www.urlvoid.com/scan/extratorrents.it/)
+
 ### 🧲 [FileListing](https://filelisting.com/)
 - Powerful search engine with bots that constantly scan, index, and categorise all types of files from the whole web.
 - [URL Safety Results](https://www.urlvoid.com/scan/filelisting.com/)
@@ -114,6 +118,10 @@
 - This torrent aggregator distributes software, movies, games, ebooks, TV programmes, and music via other torrent search engines.
 - [URL Safety Results](https://www.urlvoid.com/scan/snowfl.com/)
 
+### 🧲 [Torrent Downloads](https://www.torrentdownloads.pro/)
+- Sizable torrent database with an extensive catalog featuring a diverse range of media and well-seeded.
+- [URL Safety Results](https://www.urlvoid.com/scan/torrentdownloads.pro/)
+
 ### 🧲 [TorrentGalaxy](https://torrentgalaxy.to/)
 - The emerging star of the p2p world, with a youthful, fresh, and open community where you can discover almost anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentgalaxy.to/)
@@ -121,6 +129,10 @@
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) • Sign Up
 - Invites are frequently given to users of this coveted private tracker site, offering torrents in all categories at unmatched speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentleech.org/)
+
+### 🧲 [Torrentz2](https://torrentz2.nz/)
+- Great search engine for the present day that indexes all different kinds of files from the web.
+- [URL Safety Results](https://www.urlvoid.com/scan/torrentz2.nz/)
 
 &nbsp;
 

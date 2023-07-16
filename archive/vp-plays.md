@@ -354,4 +354,5 @@ https://arch.b4k.co/vp/thread/54072949/ 22 fucking commies
 https://arch.b4k.co/vp/thread/54081237/ 23 well, that was anticlimactic
 https://arch.b4k.co/vp/thread/54083079/ 24 aw shit here we go again
 https://arch.b4k.co/vp/thread/54086575/ 25 what the fuck
-https://arch.b4k.co/vp/thread/54092082/ 26
+https://arch.b4k.co/vp/thread/54092082/ 26 convoluted bullshit
+https://arch.b4k.co/vp/thread/54096243/ 27
