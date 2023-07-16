@@ -5,7 +5,7 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
-**CouncilRyS Beegsmols plushies** (Order period ended 14th August 1800 JST)
+**CouncilRyS Beegsmols plushies** (Order period ends 14th August 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 
 >**HoloSummer**

@@ -111,6 +111,7 @@ Image| Name | Description | Link
 ![Ohh please download me... I'm the least downloaded one... I need to numberfag or else I'll die... ouhggh...](https://files.catbox.moe/vbwac2.png)   | Thirsty Little Flower | hhhnnnggg whatever | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/thirsty-little-flower)
 ![Cowboys LOVE big throbbing cocks!](https://files.catbox.moe/xze034.png) | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 ![Meow meow meow meow](https://files.catbox.moe/r6ebuo.png) | Cat Grill Cafe | A "grill cafe" ran entirely by cats. Made for the /aicg/ cat girl cafe prompt jam. Silly and good for group chats. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/cat-grill-cafe)
+![No more proxies... owari da.](https://files.catbox.moe/2avosg.png) | /aicg/-tan | No description necessary. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/a45b9752-e21a-417b-ae03-38ef4b25b44a)
 
 ***
 ##->PROMPTS<-

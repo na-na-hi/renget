@@ -115,6 +115,8 @@
 ### 100~500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)** | [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317) | **==150 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
+**Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)
 **Oil painting Brush Set (油絵ブラシセット)** | [1791623](https://assets.clip-studio.com/en-us/detail?id=1791623) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/16/1791623/thumbnail)
@@ -148,6 +150,7 @@
 ### ==Under 100 Gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **3D Beach Set (3Dビーチセット)** | [1935755](https://assets.clip-studio.com/en-us/detail?id=1935755) | **80 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/57/1935755/thumbnail?1658416538)
 **Hair Brush Set (一発髪の毛ブラシセット)** | [1816272](https://assets.clip-studio.com/en-us/detail?id=1816272) | **100 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/62/1816272/thumbnail?1642740902)
 ** **|[]()|  |![]()
@@ -161,6 +164,7 @@
 ### ==Over 100 gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)** | [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317) | **==150 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
 **Basketball with an impossible depth **|[1959276](https://assets.clip-studio.com/en-us/detail?id=1959276)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/92/1959276/thumbnail)
 **Black piece pen with impossible terrible **|[1981738](https://assets.clip-studio.com/en-us/detail?id=1981738)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/17/1981738/thumbnail)
 **A Cacegrade with an improbable terrible **|[1993726](https://assets.clip-studio.com/en-us/detail?id=1993726)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/37/1993726/thumbnail)
