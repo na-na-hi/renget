@@ -1,7 +1,7 @@
 # Kirbish34 Character Cards Rentry
 
 ***
-Send any feedback, logs, questions, ideas, whatever you want to my burner: K34non@proton.me
+Send any feedback, logs, cat porn, questions, ideas, whatever you want to my burner: K34non@proton.me
 If you send a nice bot idea I will make it for you. (probably)
 (some bots are not included because they are trash)
 ***
@@ -14,7 +14,7 @@ The cute and funny ones
 ###Rose
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![Rose](https://avatars.charhub.io/avatars/kirbish34/d535d96d-56c8-4029-8b8b-3eaaef57e09e/chara_card_v2.png?nocache=0.09063328877893762) | Rose | Rose - A 10-year-old girl you kidnapped. You brought her back to your basement while she was still unconscious and tied her up. She finally woke up, what are you going to do to her? | [CHUB link](https://chub.ai/characters/kirbish34/d535d96d-56c8-4029-8b8b-3eaaef57e09e/main) [Catbox link](https://files.catbox.moe/i6c66u.png)
+ ![Rose](https://avatars.charhub.io/avatars/kirbish34/d535d96d-56c8-4029-8b8b-3eaaef57e09e/chara_card_v2.png?nocache=0.09063328877893762) | Rose | Rose - A 10-year-old girl you kidnapped. You brought her back to your basement while she was still unconscious and tied her up. She finally woke up, what are you going to do to her? Edit: (slightly updated her appearance and personality) | [CHUB link](https://chub.ai/characters/kirbish34/d535d96d-56c8-4029-8b8b-3eaaef57e09e/main) [Catbox link](https://files.catbox.moe/y56we2.png)
 
 ###Chloe
 Image| Name | Description | Link

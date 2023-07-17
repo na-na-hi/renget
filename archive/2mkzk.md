@@ -5,18 +5,18 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/07/13-23/07/16 (yy/mm/dd)
+##23/07/20-23/07/23 (yy/mm/dd)
 
 ##Melts
 
 **THU: MMBN2 rando postgame at 2UTC (Telemelt)**
-**FRI: Castlevania Dracula XX at 2UTC (Telemelt)**
+**FRI: RKSF C75 version at 2UTC (Parsec)**
 **SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
-**SUN: Minemelt at 17:30UTC* (Minecraft)**
+**SUN: Boktai at 18:00UTC* (Telemelt)**
 
 ##Cytubes
 
-**SAT: Rockman.exe Axess at 19UTC** Episodes 31-34/35
+**SAT: Rockman.exe Axess at 16UTC** Episodes 36-43
 **SUN: - at 15UTC**
 >-
 nothing

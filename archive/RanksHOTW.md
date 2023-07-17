@@ -13,54 +13,55 @@
 |3|Samson|428|
 |4|Hannah|421|
 |5|Sage|358|
-|6|Ultra Magnus|321|
-|6|Lin|321|
-|8|Sir Philippe|278|
-|9|Thomas Hammerer|270|
-|10|Phi|258|
-|11|Sasha|248|
-|12|Victor|222|
-|13|Calliope|212|
-|14|Nikto|211|
-|15|Mike|206|
-|16|Marcus|203|
-|17|Isha|190|
-|18|Charles Crane|172|
-|19|Georgia|171|
-|20|Bob|142|
-|20|Squire Marie Lonelle|142|
-|22|Karnak|131|
-|23|Jonathan Stampe|128|
-|24|James Nauer|126|
-|25|Sunny|123|
-|26|David|119|
-|27|Amu|118|
-|28|Maya Liang|113|
-|29|Billy Kido|110|
-|30|Heli|107|
-|31|Ant King|99|
-|32|Magnus Wang|95|
-|33|Ramses|91|
-|34|Kitty |89|
-|35|Quinn|88|
-|36|Nick|87|
-|37|Tuma|85|
-|38|Doe|84|
-|39|Glimmer|83|
-|40|Bliss|82|
-|41|Sprite|79|
-|42|Yuki|78|
-|43|Kara|59|
-|44|Tinker Gacy|58|
-|45|Richard Major|56|
-|46|Bob Kilpatrik|54|
-|47|Dimir|53|
-|48|Lance|51|
-|48|Dr Acheron|51|
-|50|Remilia|49|
-|51|Alexander S. Luthor|48|
-|52|Harrison Teaford|22|
-|53|H0P3|0|
+|6|Taissa|348|
+|7|Ultra Magnus|321|
+|7|Lin|321|
+|9|Sir Philippe|278|
+|10|Thomas Hammerer|270|
+|11|Mike|266|
+|12|Phi|258|
+|13|Sasha|248|
+|14|Victor|222|
+|15|Calliope|212|
+|16|Nikto|211|
+|17|Marcus|203|
+|18|Isha|190|
+|19|Charles Crane|172|
+|20|Georgia|171|
+|21|Bob|142|
+|21|Squire Marie Lonelle|142|
+|23|Karnak|131|
+|24|Jonathan Stampe|128|
+|25|James Nauer|126|
+|26|Sunny|123|
+|27|David|119|
+|28|Amu|118|
+|29|Maya Liang|113|
+|30|Billy Kido|110|
+|31|Heli|107|
+|32|Ant King|99|
+|33|Magnus Wang|95|
+|34|Ramses|91|
+|35|Kitty |89|
+|36|Quinn|88|
+|37|Nick|87|
+|38|Tuma|85|
+|39|Doe|84|
+|40|Glimmer|83|
+|41|Bliss|82|
+|42|Sprite|79|
+|43|Yuki|78|
+|44|Kara|59|
+|45|Tinker Gacy|58|
+|46|Richard Major|56|
+|47|Bob Kilpatrik|54|
+|48|Dimir|53|
+|49|Lance|51|
+|49|Dr Acheron|51|
+|51|Remilia|49|
+|52|Alexander S. Luthor|48|
+|53|Harrison Teaford|22|
+|54|H0P3|0|
 
 >No Vehicles CR
 |Rank|Name|Vehicleless CR|
@@ -70,55 +71,56 @@
 |2|Becka|644|
 |3|Samson|428|
 |4|Hannah|404|
-|5|Ultra Magnus|321|
-|5|Lin|321|
-|7|Sir Philippe|278|
-|8|Thomas Hammerer|270|
-|9|Phi|258|
-|10|Sasha|248|
-|11|Sage|240|
-|12|Victor|222|
-|13|Nikto|211|
-|14|Marcus|203|
-|15|Isha|190|
-|16|Calliope|167|
-|17|Squire Marie Lonelle|142|
-|18|Karnak|131|
-|19|Sunny|123|
-|20|Charles Crane|120|
-|21|Maya Liang|113|
-|22|Billy Kido|110|
-|23|Heli|107|
-|24|Georgia|102|
-|25|Bob|94|
-|26|Ramses|91|
-|27|Kitty |89|
-|28|Quinn|88|
-|29|Nick|87|
-|30|Doe|84|
-|31|Glimmer|83|
-|32|Bliss|82|
-|33|Sprite|79|
-|33|David|79|
-|35|Jonathan Stampe|76|
-|36|Magnus Wang|72|
-|37|Remilia|67|
-|38|Ant King|66|
-|39|Tuma|65|
-|40|Richard Major|56|
-|41|Bob Kilpatrik|54|
-|42|Dr Acheron|51|
-|43|Dimir|49|
-|44|Alexander S. Luthor|48|
-|45|Yuki|41|
-|45|Tinker Gacy|41|
-|47|Kara|28|
-|48|Harrison Teaford|22|
-|49|Mike|19|
-|50|James Nauer|12|
-|51|Amu|10|
-|52|Lance|4|
-|53|H0P3|0|
+|5|Taissa|348|
+|6|Ultra Magnus|321|
+|6|Lin|321|
+|8|Sir Philippe|278|
+|9|Thomas Hammerer|270|
+|10|Phi|258|
+|11|Sasha|248|
+|12|Sage|240|
+|13|Victor|222|
+|14|Nikto|211|
+|15|Marcus|203|
+|16|Isha|190|
+|17|Calliope|167|
+|18|Squire Marie Lonelle|142|
+|19|Karnak|131|
+|20|Sunny|123|
+|21|Charles Crane|120|
+|22|Maya Liang|113|
+|23|Billy Kido|110|
+|24|Heli|107|
+|25|Georgia|102|
+|26|Bob|94|
+|27|Ramses|91|
+|28|Kitty |89|
+|29|Quinn|88|
+|30|Nick|87|
+|31|Doe|84|
+|32|Glimmer|83|
+|33|Bliss|82|
+|34|Sprite|79|
+|34|David|79|
+|36|Jonathan Stampe|76|
+|37|Magnus Wang|72|
+|38|Remilia|67|
+|39|Ant King|66|
+|40|Tuma|65|
+|41|Richard Major|56|
+|42|Bob Kilpatrik|54|
+|43|Dr Acheron|51|
+|44|Dimir|49|
+|45|Alexander S. Luthor|48|
+|46|Yuki|41|
+|46|Tinker Gacy|41|
+|48|Kara|28|
+|49|Harrison Teaford|22|
+|50|Mike|19|
+|51|James Nauer|12|
+|52|Amu|10|
+|53|Lance|4|
+|54|H0P3|0|
 
 
 >No items CR
@@ -132,107 +134,109 @@
 |6|Ramses|91|
 |7|Quinn|88|
 |8|Nick|85|
-|9|Samson|68|
-|9|Big Iron|68|
-|11|Lin|61|
-|12|Kitty |57|
-|13|Doe|52|
-|14|Glimmer|51|
-|14|Magnus Wang|51|
-|14|Dr Acheron|51|
-|17|Bliss|50|
-|18|Dimir|48|
-|19|Sprite|47|
-|19|Sir Philippe|47|
-|21|Maya Liang|45|
-|22|Ant King|43|
-|22|Becka|43|
-|24|Hannah|40|
-|25|Isha|38|
-|26|Squire Marie Lonelle|34|
-|27|Tuma|33|
-|27|Bob Kilpatrik|33|
-|29|David|31|
-|30|Bob|30|
-|31|Ultra Magnus|29|
-|32|Billy Kido|28|
-|33|Heli|26|
-|34|Calliope|25|
-|35|Tinker Gacy|24|
-|36|Harrison Teaford|22|
-|37|Yuki|21|
-|37|Remilia|21|
-|39|Charles Crane|20|
-|39|Jonathan Stampe|20|
-|41|Thomas Hammerer|17|
-|42|Alexander S. Luthor|14|
-|43|James Nauer|12|
-|43|Richard Major|12|
-|45|Amu|10|
-|46|Kara|9|
-|47|Mike|8|
-|48|Lance|4|
-|49|Chloe|0|
-|49|Sage|0|
-|49|Georgia|0|
-|49|H0P3|0|
+|9|Taissa|78|
+|10|Samson|68|
+|10|Big Iron|68|
+|12|Lin|61|
+|13|Kitty |57|
+|14|Doe|52|
+|15|Glimmer|51|
+|15|Magnus Wang|51|
+|15|Dr Acheron|51|
+|18|Bliss|50|
+|19|Dimir|48|
+|20|Sprite|47|
+|20|Sir Philippe|47|
+|22|Maya Liang|45|
+|23|Ant King|43|
+|23|Becka|43|
+|25|Hannah|40|
+|26|Isha|38|
+|27|Squire Marie Lonelle|34|
+|28|Tuma|33|
+|28|Bob Kilpatrik|33|
+|30|David|31|
+|31|Bob|30|
+|32|Ultra Magnus|29|
+|33|Billy Kido|28|
+|34|Heli|26|
+|35|Calliope|25|
+|36|Tinker Gacy|24|
+|37|Harrison Teaford|22|
+|38|Yuki|21|
+|38|Remilia|21|
+|40|Charles Crane|20|
+|40|Jonathan Stampe|20|
+|42|Thomas Hammerer|17|
+|43|Alexander S. Luthor|14|
+|44|James Nauer|12|
+|44|Richard Major|12|
+|46|Amu|10|
+|47|Kara|9|
+|48|Mike|8|
+|49|Lance|4|
+|50|Chloe|0|
+|50|Sage|0|
+|50|Georgia|0|
+|50|H0P3|0|
 
 
 >CR Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
 |---|---|---|---|---|
-|0|Big Iron|3.00|0|9|
-|1|Samson|5.00|3|9|
-|2|Lin|7.33|5|11|
-|2|Sasha|7.33|1|11|
-|4|Phi|8.00|5|10|
-|5|Becka|8.67|2|22|
-|5|Victor|8.67|2|12|
-|7|Nikto|10.33|4|14|
-|8|Hannah|10.67|4|24|
-|9|Sir Philippe|11.33|7|19|
-|10|Ultra Magnus|14.00|5|31|
-|11|Karnak|14.33|3|22|
-|12|Chloe|17.00|1|49|
-|13|Isha|19.00|15|25|
-|14|Thomas Hammerer|19.33|8|41|
-|15|Calliope|21.00|13|34|
-|15|Squire Marie Lonelle|21.00|17|26|
-|17|Sage|21.67|5|49|
-|17|Ramses|21.67|6|33|
-|19|Maya Liang|23.33|21|28|
-|19|Quinn|23.33|7|35|
-|21|Kitty |24.33|12|34|
-|21|Nick|24.33|8|36|
-|23|Bob|25.00|20|30|
-|24|Charles Crane|25.67|18|39|
-|25|Doe|27.00|13|38|
-|26|Magnus Wang|27.33|14|36|
-|27|Billy Kido|27.67|22|32|
-|28|Glimmer|28.00|14|39|
-|29|Heli|28.67|23|33|
-|30|David|29.33|26|33|
-|31|Bliss|29.67|17|40|
-|32|Ant King|30.33|22|38|
-|33|Georgia|30.67|19|49|
-|34|Sprite|31.00|19|41|
-|35|Jonathan Stampe|32.33|23|39|
-|36|Tuma|34.33|27|39|
-|37|Dr Acheron|34.67|14|48|
-|38|Dimir|36.00|18|47|
-|39|Mike|37.00|15|49|
-|40|Bob Kilpatrik|38.00|27|46|
-|41|James Nauer|39.00|24|50|
-|42|Amu|41.00|27|51|
-|43|Remilia|41.33|37|50|
-|43|Yuki|41.33|37|45|
-|43|Tinker Gacy|41.33|35|45|
-|46|Richard Major|42.67|40|45|
-|47|Harrison Teaford|45.33|36|52|
-|47|Kara|45.33|43|47|
-|49|Alexander S. Luthor|45.67|42|51|
-|50|Lance|49.33|48|52|
-|51|H0P3|51.67|49|53|
+|0|Big Iron|3.33|0|10|
+|1|Samson|5.33|3|10|
+|2|Taissa|6.67|5|9|
+|3|Sasha|8.33|1|13|
+|3|Lin|8.33|6|12|
+|5|Phi|9.00|5|12|
+|5|Becka|9.00|2|23|
+|7|Victor|9.67|2|14|
+|8|Hannah|11.00|4|25|
+|9|Nikto|11.33|4|16|
+|10|Sir Philippe|12.33|8|20|
+|11|Ultra Magnus|15.00|6|32|
+|11|Karnak|15.00|3|23|
+|13|Chloe|17.33|1|50|
+|14|Isha|20.00|16|26|
+|15|Thomas Hammerer|20.33|9|42|
+|16|Squire Marie Lonelle|22.00|18|27|
+|17|Calliope|22.33|15|35|
+|17|Sage|22.33|5|50|
+|17|Ramses|22.33|6|34|
+|20|Quinn|24.00|7|36|
+|21|Maya Liang|24.33|22|29|
+|22|Nick|25.00|8|37|
+|23|Kitty |25.33|13|35|
+|24|Bob|26.00|21|31|
+|25|Charles Crane|26.67|19|40|
+|26|Doe|28.00|14|39|
+|27|Magnus Wang|28.33|15|37|
+|28|Billy Kido|28.67|23|33|
+|29|Glimmer|29.00|15|40|
+|30|Heli|29.67|24|34|
+|31|David|30.33|27|34|
+|32|Bliss|30.67|18|41|
+|33|Ant King|31.33|23|39|
+|34|Georgia|31.67|20|50|
+|35|Sprite|32.00|20|42|
+|36|Jonathan Stampe|33.33|24|40|
+|37|Tuma|35.33|28|40|
+|38|Dr Acheron|35.67|15|49|
+|39|Mike|36.33|11|50|
+|40|Dimir|37.00|19|48|
+|41|Bob Kilpatrik|39.00|28|47|
+|42|James Nauer|40.00|25|51|
+|43|Amu|42.00|28|52|
+|44|Remilia|42.33|38|51|
+|44|Yuki|42.33|38|46|
+|44|Tinker Gacy|42.33|36|46|
+|47|Richard Major|43.67|41|46|
+|48|Harrison Teaford|46.33|37|53|
+|48|Kara|46.33|44|48|
+|50|Alexander S. Luthor|46.67|43|52|
+|51|Lance|50.33|49|53|
+|52|H0P3|52.67|50|54|
 
 ---
 
@@ -266,24 +270,25 @@
 |6|Georgia|5|
 |6|Dimir|5|
 |6|Squire Marie Lonelle|5|
-|23|Nikto|4|
-|23|Yuki|4|
-|23|Lance|4|
-|23|Hannah|4|
-|23|Sunny|4|
-|23|Maya Liang|4|
-|23|Sir Philippe|4|
-|30|Kara|3|
-|30|Mike|3|
-|30|Marcus|3|
-|30|Isha|3|
-|30|Ant King|3|
-|30|Phi|3|
-|30|David|3|
-|37|Sage|2|
-|37|Remilia|2|
-|37|Ricky|2|
-|37|Tinker Gacy|2|
+|6|Taissa|5|
+|24|Nikto|4|
+|24|Yuki|4|
+|24|Lance|4|
+|24|Hannah|4|
+|24|Sunny|4|
+|24|Maya Liang|4|
+|24|Sir Philippe|4|
+|31|Kara|3|
+|31|Mike|3|
+|31|Marcus|3|
+|31|Isha|3|
+|31|Ant King|3|
+|31|Phi|3|
+|31|David|3|
+|38|Sage|2|
+|38|Remilia|2|
+|38|Ricky|2|
+|38|Tinker Gacy|2|
 
 >Sex difficulty
 |Rank|Name|Sex difficulty|
@@ -312,25 +317,26 @@
 |11|Phi|5|
 |11|Georgia|5|
 |11|Dimir|5|
-|20|Sasha|4|
-|20|Maya Liang|4|
-|20|Squire Marie Lonelle|4|
-|23|Ultra Magnus|3|
-|23|Hannah|3|
-|23|Alexander S. Luthor|3|
-|23|Sir Philippe|3|
-|27|Nick|2|
-|27|Mike|2|
-|27|Yuki|2|
-|27|Marcus|2|
-|27|Isha|2|
-|27|Calliope|2|
-|33|Quinn|1|
-|33|Ricky|1|
-|33|Karnak|1|
-|33|David|1|
-|33|Becka|1|
-|33|Tinker Gacy|1|
+|11|Taissa|5|
+|21|Sasha|4|
+|21|Maya Liang|4|
+|21|Squire Marie Lonelle|4|
+|24|Ultra Magnus|3|
+|24|Hannah|3|
+|24|Alexander S. Luthor|3|
+|24|Sir Philippe|3|
+|28|Nick|2|
+|28|Mike|2|
+|28|Yuki|2|
+|28|Marcus|2|
+|28|Isha|2|
+|28|Calliope|2|
+|34|Quinn|1|
+|34|Ricky|1|
+|34|Karnak|1|
+|34|David|1|
+|34|Becka|1|
+|34|Tinker Gacy|1|
 
 >Chastity Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
@@ -351,30 +357,31 @@
 |13|Dimir|8.50|6|11|
 |13|Georgia|8.50|6|11|
 |13|Lockley|8.50|6|11|
-|16|Ultra Magnus|12.00|1|23|
-|17|Sasha|13.00|6|20|
-|17|Squire Marie Lonelle|13.00|6|20|
-|19|Alexander S. Luthor|14.50|6|23|
-|20|Kara|15.00|0|30|
-|21|Ant King|15.50|1|30|
-|22|Calliope|16.50|6|27|
-|22|Nick|16.50|6|27|
-|24|Becka|17.00|1|33|
-|24|Lance|17.00|11|23|
-|24|Nikto|17.00|11|23|
-|24|Sunny|17.00|11|23|
-|28|Karnak|19.50|6|33|
-|28|Quinn|19.50|6|33|
-|30|Phi|20.50|11|30|
-|31|Maya Liang|21.50|20|23|
-|32|Hannah|23.00|23|23|
-|32|Sir Philippe|23.00|23|23|
-|34|Remilia|24.00|11|37|
-|34|Sage|24.00|11|37|
-|36|Yuki|25.00|23|27|
-|37|Isha|28.50|27|30|
-|37|Marcus|28.50|27|30|
-|37|Mike|28.50|27|30|
-|40|David|31.50|30|33|
-|41|Ricky|35.00|33|37|
-|41|Tinker Gacy|35.00|33|37|
+|13|Taissa|8.50|6|11|
+|17|Ultra Magnus|12.50|1|24|
+|18|Sasha|13.50|6|21|
+|18|Squire Marie Lonelle|13.50|6|21|
+|20|Alexander S. Luthor|15.00|6|24|
+|21|Kara|15.50|0|31|
+|22|Ant King|16.00|1|31|
+|23|Calliope|17.00|6|28|
+|23|Nick|17.00|6|28|
+|25|Becka|17.50|1|34|
+|25|Lance|17.50|11|24|
+|25|Nikto|17.50|11|24|
+|25|Sunny|17.50|11|24|
+|29|Karnak|20.00|6|34|
+|29|Quinn|20.00|6|34|
+|31|Phi|21.00|11|31|
+|32|Maya Liang|22.50|21|24|
+|33|Hannah|24.00|24|24|
+|33|Sir Philippe|24.00|24|24|
+|35|Remilia|24.50|11|38|
+|35|Sage|24.50|11|38|
+|37|Yuki|26.00|24|28|
+|38|Isha|29.50|28|31|
+|38|Marcus|29.50|28|31|
+|38|Mike|29.50|28|31|
+|41|David|32.50|31|34|
+|42|Ricky|36.00|34|38|
+|42|Tinker Gacy|36.00|34|38|

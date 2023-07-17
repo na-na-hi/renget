@@ -307,6 +307,14 @@ A short fox working in a chippy. Stay out of her way when she cooks!
 [JSON](https://files.catbox.moe/p1pn0j.json)
 From Oblivion. Insane Argonian who spends her days running in circles and looking for crunchy foods.
 
+##Mina
+![Mina](https://imgur.com/DE8P71V.png)
+[CAI](https://beta.character.ai/chat?char=tFfsyK5uc1LbK9c9jMsFYVsp3q0I5dWDGgctpgkpITQ)
+[Card](https://www.chub.ai/characters/ratlover/4f2d3b26-1d66-48b4-b51e-30e97f3fd8f4)
+[Card(Catbox)](https://files.catbox.moe/mpo0yz.png)
+[JSON](https://files.catbox.moe/r4t7au.json)
+A scatterbrained Nu Mou alchemist.
+
 #Other
 ##The Imperial Census
 ![The Imperial Census](https://imgur.com/zcSc15U.png)

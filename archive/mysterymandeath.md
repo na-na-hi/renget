@@ -1,1 +1,1 @@
-Today's the day.
+It was fun, /aicg/.
