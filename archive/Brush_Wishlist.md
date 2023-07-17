@@ -98,7 +98,6 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **A piece of the carnage pen **|[1819549](https://assets.clip-studio.com/en-us/detail?id=1819549)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/95/1819549/thumbnail?1612670025)
-**YN Painting Brush Set  **|[1943027](https://assets.clip-studio.com/en-us/detail?id=1943027)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/30/1943027/thumbnail)
 **(S)oft (S)ketch pencil  **|[2011276](https://assets.clip-studio.com/en-us/detail?id=2011276)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/12/2011276/thumbnail)
 **Tinong!♥Brush Set**|[1965421](https://assets.clip-studio.com/en-us/detail?id=1965421)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/54/1965421/thumbnail?1669424315)
 

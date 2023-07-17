@@ -360,6 +360,8 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Ant Man (Lang) comics | [1](https://comicvine.gamespot.com/ant-man-lang/4005-20577/)
  * Ray Palmer comics | [1](https://comicvine.gamespot.com/ray-palmer/4005-34685/)
  * Hank Pym comics | [1](https://comicvine.gamespot.com/hank-pym/4005-2247/)
+ * microverse Fantastic Four comics | [Psycho-Man](https://comicvine.gamespot.com/psycho-man/4005-7112/), [Micronauts](https://comicvine.gamespot.com/micronauts/4060-10980/)
+ * Stumbo the Giant comics | [1](https://comicvine.gamespot.com/stumbo-the-giant/4005-7444/)
  * Alice in Wonderland (Rod Espinosa)
  * Avengers Fairy Tales #3
  * Betty & Veronica: Friends Forever: Return to Storybook Land
@@ -380,6 +382,12 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The New Adventures of Tinkerbell | "The Little Giant". Tinkerbell ends up on a planet where she's a giantess compared to everyone else. 
  * The Spectacular Spider-Man Annual #10
  * The Unexpected
+ * Rock Toons | p97 minor? [Archive](https://archive.org/details/rock_toons)
+ * Mary Jane And Sniffles
+ * Micronauts | ? wasn't this /a/ ?
+ * Fantastic Four #248
+ * Space 1999 #5 | [1](https://comicvine.gamespot.com/space-1999-5/4000-16460/)
+ * Star Trek #53
 
 #### Minor
  * Gargoyles #7 Cover
@@ -465,6 +473,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Pibgorn
  * The one with the fairy in the cage and the guy gets shot
  * Anrisive | [ComicFury](https://anrisive.thecomicseries.com/)
+ * The Little Unknown
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -550,6 +559,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Ben & Holly's Little Kingdom
  * A Mouse Called Julian
  * La Petite Géante
+ * RWBY V09
  * A Kind of Magic | ? no episodes listed
  * Adventure Time | Canyon
  * Alice's Wonderland Bakery - s01e01a

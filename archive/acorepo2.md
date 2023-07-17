@@ -109,6 +109,7 @@ https://civitai.com/models/43148/enchantress-dota-2
 https://civitai.com/models/19220/crystal-maiden-dota-2
 - Lina
 https://civitai.com/models/42835/lina-dota-2
+https://civitai.com/models/108873/dota2-lina
 - Dawnbreaker
 https://civitai.com/models/43669/dawnbreaker-from-dota-2
 - Vengeful Spirit

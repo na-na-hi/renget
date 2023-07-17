@@ -170,8 +170,9 @@ Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch
 ceelio|[Twitter](https://twitter.com/ceelio_ch) [Twitch](https://www.twitch.tv/ceelio)|
 Ngozi Mai|[Twitter](https://twitter.com/NgoziMai) [Youtube](https://www.youtube.com/@NgoziMai)|
 sunset_radiance|[Twitter](https://twitter.com/SunsetVTuber) [Twitch](https://www.twitch.tv/sunset_radiance)|Fighting games
-Fuwacoco|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco )|
-
+Fuwacoco|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco)|
+Honeychama|[Twitter](https://twitter.com/Honeychamavt) [Twitch](https://www.twitch.tv/honeychama)|
+winryepona|[Twitter](https://twitter.com/winryepwna) [Twitch](https://twitch.tv/winryepona)|
 
 ---
 
@@ -218,6 +219,7 @@ Chloe Ch.猫小夜くろえ [JP]|[Twitter](https://twitter.com/Nekoyo_Chloe) [Yo
 eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https://www.twitch.tv/eveningstar_ch/)|
 ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
 TheAnglerCh[EN]|[Twitter](https://twitter.com/TheAnglerCh) [Twitch](https://twitch.tv/theanglerch)|Luchador
+Rusty_FC[EN]|[Twitter](https://twitter.com/Rusty_FC_) [Twitch](https://www.twitch.tv/rusty_fc)|
 
 ---
 

@@ -50,6 +50,7 @@ https://rentry.org/gktwz
 Styles
 
 - InCase
+https://files.catbox.moe/lbcw53.safetensors
 https://files.catbox.moe/pr9gyg.safetensors
 - Dandonfuga
 https://pixeldrain.com/u/nAtx6UnU
@@ -119,7 +120,7 @@ https://civitai.com/models/71618/masters-of-the-universe-evil-lyn-80s-version
 	- Sorceress of Castle Grayskull
 https://civitai.com/models/70298/masters-of-the-universe-sorceress-of-grayskull
 	- *[style](#styles)*
-- Thundercats
+- ThunderCats
 	+ Cheetara
 https://civitai.com/models/98925/cheetara-thundercats-80s-version
 	- Mandora
@@ -131,6 +132,8 @@ https://civitai.com/models/100911/willa-thundercats-80s-version
 	- WilyKit 
 https://civitai.com/models/106700/wilykat-thundercats-80s-version
 https://civitai.com/models/102888/wilykit-thundercats-80s-version
+	- Lion-o
+https://civitai.com/models/109415/lion-o-lora
 - Dungeons and Dragons
 	+ Sheila 
 https://civitai.com/user/Montitto/models
@@ -168,6 +171,7 @@ https://civitai.com/models/51783/jinora-the-legend-of-korra-lora
 	+ Lin Beifong
 https://civitai.com/models/63743/lin-beifong-the-legend-of-korra-lora
 	+ Kuvira
+https://civitai.com/models/107128/kuvira-from-the-legend-of-korra
 https://civitai.com/models/55540/kuvira-the-legend-of-korra-lora
 	+ Opal 
 https://civitai.com/models/76595/opal-the-legend-of-korra-lora
@@ -175,14 +179,18 @@ https://civitai.com/models/76595/opal-the-legend-of-korra-lora
 - Avatar: The Last Airbender
 	- Azula 
 https://civitai.com/models/48188/azula-avatar-the-last-airbender-character-lora
+https://civitai.com/models/109296/azula-avatar-the-last-airbender
 	- Katara
+https://civitai.com/models/109513/katara-avatar-the-last-airbender-1
 https://civitai.com/models/46153/katara-avatar-the-last-airbender-character-lora
+https://civitai.com/models/109514/katara-avatar-the-last-airbender-2
 	- Mai
 https://civitai.com/models/48190/mai-avatar-the-last-airbender-character-lora
 	+ Princess Yue
 https://civitai.com/models/65846/princess-yue-avatar-the-last-airbender
 	- Suki
 https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
+https://civitai.com/models/109525/suki-avatar-the-last-airbender-2
 	- Toph Beifong
 https://civitai.com/models/52157/toph-beifong-avatar-the-last-airbender
 https://civitai.com/models/46396/avatar-toph
@@ -190,6 +198,10 @@ https://civitai.com/models/5619/toph (TI)
 	+ Ty Lee
 https://civitai.com/models/48192/ty-lee-avatar-the-last-airbender-character-lora
 https://civitai.com/models/98550/ty-lee-avatar-the-last-airbender
+	- June
+https://civitai.com/models/109478/june-avatar-the-last-airbender
+	- Jin
+https://civitai.com/models/109467/jin-avatar-the-last-airbender
 	- Smellerbee
 https://civitai.com/models/97544/smellerbee-f-avatar-the-last-airbender
 	- Zuko
@@ -217,6 +229,8 @@ https://civitai.com/models/31444?modelVersionId=37879
 	- Shego
 https://civitai.com/models/42492/shego-kim-possible
 https://civitai.com/models/5315/shego
+	- Monique
+https://civitai.com/models/109260/monique-kim-possible-lycoris
 - Samantha (Totally Spies)
 https://civitai.com/models/95201/samantha-sam-simpson-totally-spies
 - Gwen (Total Drama)
@@ -267,6 +281,8 @@ https://civitai.com/models/46198/aphrodite
 https://civitai.com/models/48946/tinkerbell
 	- Peter Pan
 https://civitai.com/models/63903/peter-pan-character-lora
+- Shanti (The Jungle Book)
+https://civitai.com/models/109721/shanti-the-jungle-book
 Wakfu: The Animated Series
 	+ Evangelyne 
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
@@ -330,6 +346,7 @@ https://civitai.com/models/86420/jean-grey-x-men-lora
 https://civitai.com/models/39313/madelyne-pryor-goblin-queen
 	- Mystique
 https://civitai.com/models/83626/mystique-x-men-lora
+https://civitai.com/models/109196/mystique-x-men-character-lora
 - Gwen Stacy (Spider-Man: Into the Spider-Verse)
 https://civitai.com/models/83816/spider-gwen-commission-or-goofy-ai
 https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
@@ -339,6 +356,8 @@ https://civitai.com/models/93223/gwen-stacy-the-spectacular-spider-man
 https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
 	- (Spider-Man: TAS)
 https://civitai.com/models/105877/mary-jane-watson-spider-man-the-animated-series
+- Felicia Hardy (Spider-man: TAS)
+https://civitai.com/models/107823/felicia-hardy-spider-man-the-animated-series
 - Jessica Drew (Spider-Woman)
 https://civitai.com/models/95933/spider-woman-jessica-drew-lora
 - Spider-Woman 2099
@@ -372,8 +391,7 @@ https://civitai.com/models/103972?modelVersionId=111480
 https://civitai.com/models/103768?modelVersionId=111196
 https://civitai.com/models/35387/vexahlia-the-legend-of-vox-machina
 	- Pike Trickfoot
-https://civitai.com/models/106918?modelVersionId=114895
-https://civitai.com/models/48211/pike-trickfoot-the-legend-of-vox-machina
+https://civitai.com/models/106918/pike-trickfoot-the-legend-of-vox-machina-2-different-styles
 - The Ghost and Molly McGee
 	- Molly McGee
 https://civitai.com/models/17513/molly-mcgee
@@ -413,6 +431,11 @@ https://civitai.com/models/45282/mouse-droners
 https://civitai.com/models/27689?modelVersionId=33150
 - Gretel Grant-Gomez (Hamster & Gretel)
 https://civitai.com/models/23752?modelVersionId=28377
+- Phineas and Ferb
+	+ Linda Flynn-Fletcher
+https://duckduckgo.com/?t=ffab&q=Linda+Flynn&ia=web
+	+ Charlene Doofenshmirtz
+https://civitai.com/models/109197/charlene-doofenshmirtz-character-lora
 - Star vs. the Forces of Evil
 	- Eclipsa Butterfly
 https://files.catbox.moe/6eo75y.safetensors
@@ -434,8 +457,11 @@ https://civitai.com/models/97921/amity-blight-the-owl-house-season-1-redux
 https://civitai.com/models/97303/amity-blight-the-owl-house-season-2
 	- Luz Noceda
 https://civitai.com/models/94728/luz-noceda	
+https://civitai.com/models/110069/luz-noceda-timeskip-or-the-owl-house
 	- Camila Noceda
 https://civitai.com/models/107491/camila-noceda-the-owl-house
+	- Willow Park
+https://civitai.com/models/110073/willow-park-timeskip-or-the-owl-house
 - Lord Dominator (Wander Over Yonder)
 https://civitai.com/models/5791?modelVersionId=6747
 - My Life as a Teenage Robot
@@ -453,6 +479,8 @@ https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Frankie Foster (Foster's Home for Imaginary Friends)
 https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-character
 https://civitai.com/models/88781/frankie-foster-or-goofy-ai
+- Kanker Sisters (Ed, Edd n Eddy)
+https://civitai.com/models/109428/kanker-sisters-ed-edd-n-eddy-leemariemay
 - Dexter's Laboratory
 	- Dexter's Mom
 https://civitai.com/models/20949/dexters-mom
@@ -469,6 +497,8 @@ https://civitai.com/models/91239/ashi-samurai-jack
 https://civitai.com/models/101240/olga-pataki
 - Susan Long (American Dragon: Jake Long)
 https://civitai.com/models/107346/susan-long-character-lora
+- Jade (Jackie Chan Adventures)
+https://civitai.com/models/102846/jade-jackie-chan-adventures
 - The Fairly OddParents
 	- Trixie Tang
 https://civitai.com/models/91251/trixie-tang-the-fairly-oddparents
@@ -651,6 +681,9 @@ https://civitai.com/models/42668/elsa-frozen-disney-princess-by-yeiyeiart
 https://civitai.com/models/42764/anna-from-frozen
 - Barbie (Toy Story)
 https://civitai.com/models/73934/barbie
+- Sunny Miami (Knick Knack)
+https://civitai.com/models/108917/concept-sunny-miami-transformation
+https://civitai.com/models/30803/sunny-miami
 - The Incredibles
 	+ Helen Parr 
 https://civitai.com/models/40570/helen-parr-the-incredibles
@@ -705,6 +738,8 @@ https://civitai.com/models/94146/katie-mitchell-the-mitchells-vs-the-machines
 - Fiona (Shrek)
 https://civitai.com/models/105555/princess-fiona-human-sherk-dreamworks-by-yeiyeiart-comissions-open
 https://civitai.com/models/106178/princess-fiona-ogre-sherk-by-yeiyeiart-comissions-open
+- Astrid Hofferson (How To Train Your Dragon)
+https://civitai.com/models/64580/astrid-hofferson-or-how-to-train-your-dragon
 - Dawn Betterman (The Croods)
 https://civitai.com/models/72073/dawn-betterman-the-croods
 - Goldilocks (Puss in Boots)
@@ -752,9 +787,11 @@ https://civitai.com/models/6482/alex-chen-or-life-is-strange-lora
 https://civitai.com/models/73515/mad-moxxi-borderlands-character-lora
 	- Gaige
 https://civitai.com/models/68043/gaige-borderlands-2-character-lora
-	- Maya
+	- 
+https://civitai.com/models/25479/maya-borderlands-2-character-lora
 https://civitai.com/models/25479/maya-borderlands-2-lora
-	- Lilith
+	- 
+https://civitai.com/models/73507/lilith-borderlands-character-lora
 https://civitai.com/models/73507/lilith-borderlands-character-lora
 	- Athena
 https://civitai.com/models/73484/athena-borderlands-character-lora
@@ -836,7 +873,7 @@ https://civitai.com/models/17698/valkyrie-apex-legends-lora
 https://civitai.com/models/38148/wattson-apex-legends
 https://civitai.com/models/14314/wattson-apex-legends-lora
 - Lara Croft (Tomb Raider modern)
-https://civitai.com/models/108369/lara-croft-tomb-raider-series
+https://civitai.com/models/108369/lara-croft-tomb-raider-series-multiple-versions
 https://civitai.com/models/82710/lara-croft
 https://civitai.com/models/4852/was-new-lara-croft-rottr-sottr (TI)
 https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider (TI)
@@ -849,6 +886,8 @@ https://civitai.com/models/85650/nillin-remember-me
 https://civitai.com/models/106416/yelena-fedorova-or-deus-ex-human-revolution
 - Nariko (Heavenly Sword)
 https://civitai.com/models/94099/nariko-heavenly-sword
+- Faith Connors (Mirror's Edge)
+https://civitai.com/models/109062/faith-connors-mirrors-edge-catalyst
 - Jessica Cannon (SiN) realistic
 https://civitai.com/models/21288/jessica-cannon
 - Catwoman (Arkham City)
@@ -887,6 +926,10 @@ https://civitai.com/models/84912/sally-boyle-we-happy-few
 https://civitai.com/models/97573/morgan-yu-f-prey-game
 - Vestal (Darkest Dungeon)
 https://civitai.com/models/100100/vestal-darkest-dungeon
+- Clara Lille (Watch Dogs)
+https://civitai.com/models/107402/clara-lille-watch-dogs-character-lora
+- May (It Takes Two)
+https://civitai.com/models/109305/may-it-takes-two
 
 ## Styles
 
@@ -994,6 +1037,7 @@ https://civitai.com/models/35886?modelVersionId=42085
 
 - Ray Caesar 
 https://civitai.com/models/23802/ray-caesar-style
+https://civitai.com/models/106506/ray-caesar-style-lycoris (2.1 SD only)
 - James Fenner 
 https://civitai.com/models/61074/james-fenner-jmfenner
 - Darius Kawasaky 
@@ -1037,6 +1081,8 @@ https://civitai.com/models/4000/lowpolybabe2k1
 https://civitai.com/models/54833?modelVersionId=59209
 - Impasto painting style
 https://civitai.com/models/82582/thick-impasto-painting
+- Randolph Caldecott (2.1 SD only)
+https://civitai.com/models/106499/randolph-caldecott-style-lycoris
 - Tamara de Lempicka
 https://civitai.com/models/17411?modelVersionId=20582
 - Gustav Klimt

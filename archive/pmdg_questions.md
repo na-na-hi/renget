@@ -3,10 +3,8 @@
 >Are there laws that regulate psychic Pokemon's powers and outlaw things like mind reading or mind control? 
 >Do artificial explosives like gunpowder exist in the PMD world, or does everyone just use Blast Seeds for all their explosive needs?
 >Is there a stigma against carnivorous Pokemon? If so, does the stigma persist even if they only eat nonlethal meat sources (like Slowpoke tails, which grow back)?
->Are all Pokemon able to survive on plants like apples and berries? Or are some Pokemon truly carnivorous and require meat?
 >If you had no sense of humor, would a Reviser Seed do nothing to you (since it normally makes you faint from laughter)?
 >How exactly do Gummis make you smarter? Do they physically rewire your neurons somehow? Do they put some sort of weird magic energy inside you that increases your intelligence?
->In PMD games, Fire-types can walk on molten lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?
 >Why do Pokemon choose to sleep on piles of hay? Are their bodies hardy enough that they don't mind the discomfort? Is it a traditional/cultural sort of thing?
 >How would you react if you encountered a feral member of your own species in a dungeon?
 >Does actual medicine exist, or does everyone just rely on things like Oran Berries and Pecha Berries?
@@ -26,6 +24,11 @@
 
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
+
+>Are all Pokemon able to survive with only fruits, vegetables and gummies? Or are some Pokemon truly carnivorous and require protein?
+>Has the move accuracy ever screwed you over so hard that it results to your death?
+>In the games, Fire-types can walk on lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?
+>A random pokemon is found to be in distress during your outing—would you help them despite having plans beforehand?
 
 >Ghosts can phase through solid matter, but when they do so, can they bring items or other Pokemon along with them?
 >What's your favorite accessory design among the list and why? (https://bulbapedia.bulbagarden.net/wiki/Scarf_(Mystery_Dungeon))

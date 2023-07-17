@@ -135,7 +135,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 We take what we learnt from rentry.co/dadaptguide with a couple differences:
 
 !!! warning AS WROTE IN DADAPT GUIDE BEFORE AND I REPEAT AGAIN NOW: FIRST AND FOREMOST. NO DUPLICATE DATASET. MANUAL AND LOGICAL CAPTIONING IF YOU WANT CAPTIONING AT ALL. DATASET WILL ALWAYS REMAIN IMPORTANT. 
-- train_batch_size and gradient_accumulation_steps both can have a negative impact on training on datasets below 30 images. Use repetitions and fewer epochs, I'd use about 30 repetitions for 10 images for example.
+- train_batch_size and gradient_accumulation_steps both can have a negative impact on training on datasets below 30 images.
 - Toy with noise_offset/adaptive_noise_scale/multires_noise_discount/multires_noise_iterations only. Unset the seed if you want variations.
 
 That is all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.

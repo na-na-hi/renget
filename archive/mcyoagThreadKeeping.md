@@ -43,8 +43,14 @@ https://rentry.org/MHACards
 Writefags:
 >Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
 https://rentry.org/wyny7
+>Official Hive Video Channel List (The Clique)
+https://rentry.org/7s2qg
+>Kraftwerk Hero Agency - Internship Application
+https://rentry.org/z5ho9
 
 Artfags:
+>Nene Feline Good
+>>89586712
 >mmmmm milk
 >>89589591
 
@@ -561,6 +567,8 @@ https://pastebin.com/kKsXgLwW
 https://rentry.org/5ud7y
 >Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
 https://rentry.org/wyny7
+>Official Hive Video Channel List (The Clique)
+https://rentry.org/7s2qg
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

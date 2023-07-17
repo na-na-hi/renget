@@ -768,4 +768,10 @@ Team Buckler tracked the voice to a darker patch of the forest, shaded under a d
 “Hope I ain’t interruptin’ anything,” he said. “But like I said, I think I can help you. And at the same time, I bet you two can help me. Let’s talk.”
 
 
--> *To be continued...* <-
+---
+
+
+-> *Next part: https://rentry.org/RibombeeBuckler3* <-
+
+
+---

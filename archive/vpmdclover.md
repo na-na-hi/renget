@@ -193,6 +193,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Booker's Journal; or, My Time at Capim](https://rentry.org/RibombeeJournal)
 	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
+	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -467,6 +468,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
 * {||} [The Greatest Human Hunter](https://rentry.org/hunt3r)
 * {||} [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
+* {||} [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
