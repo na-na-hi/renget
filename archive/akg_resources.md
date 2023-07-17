@@ -142,6 +142,13 @@ __Story Reader__
 * [akgcc Story Reader](https://akgcc.github.io/cc/story.html)
 * [Arknights Story Text Reader](https://050644zf.github.io/ArknightsStoryTextReader/index2.html#/en_US/menu)
 
+__CG Viewer__
+
+* [ArkWaifu CG Viewer](https://arkwaifu.cc/)
+
+__Extras__
+![bear love](https://i.imgur.io/kXp09iX.webp)
+Children of Ursus Drama CD: [Download](https://files.catbox.moe/j05kbn.rar), [MTL subtitle](https://files.catbox.moe/0ojnlz.zip)
 ***
 
 ## Music and OST
@@ -181,6 +188,7 @@ __Japan__
 
 resource | link
 ---------|-----
+Alternative AK download Link | [32 Bit](https://arknights.moe/download-32), [64 Bit](https://arknights.moe/download-64)
 /akg/ Drawpile pastebin | https://pastebin.com/unS1Uga0
 /akg/ Drawpile archive | [new archive](https://imgbox.com/g/97eTBbkUbq), [old archive](https://imgbox.com/g/u7HiPPkUpb)
 /akg/ Divegrass Page | https://implyingrigged.info/wiki//akg/

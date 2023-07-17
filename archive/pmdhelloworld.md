@@ -151,3 +151,32 @@ I think, therefore I am. The fact I was able to question if I was alive proved t
 I wasn't sure just how long I had been stuck in a funk, but it seemed that it had been long enough that I was approaching civilisation. A town seemed to rise out of the ground, the buildings carved out of the trunks of massive trees, rope bridges crossing the gaps between them on the upper levels. Honestly, the place seemed like it would be an absolute nightmare to navigate.
 
 Considering that all I had seen from the last two days here was the empty wilderness, however, it looked like paradise.
+
+As I began floating my way towards the town, I noticed that another small text prompt had popped into existence in corner of my peripheral vision.
+
+```python
+Incoming transmission from UNIT/PRG2. Accept?
+Y/N
+```
+I stopped in my tracks. A transmission from someone else? How the hell would that happen - it'd been a hot minute since I had played a Mystery Dungeon game, but I was fairly sure that they didn't have computers or the like. That said, this certainly smacked of something important. Getting a strange communique before I even managed to get into town? Curiosity overtook common sense, as I accepted the transmission.
+
+```python
+>Y
+Initialising secure connection. . .
+Connection secured!
+Opening secure messaging system. . .
+
+PRG2: CONNECTION WITH UNIT (Porygon) ESTABLISHED.
+PRG2: UNIT (Porygon) RESPOND TO CONFRIM CONNECTION.
+PRGN: UH.
+PRGN: WHAT.
+PRG2: CONNECTION CONFIRMED.
+PRGN: WHO ARE YOU.
+PRG2: THIS UNIT IS DESIGNATED (Porygon2). 
+PRG2: UNIT (Porygon) IDENTIFICATION NUMBER DID NOT MATCH ANY PORYGON UNITS ON RECORD.
+PRG2: TRANSFERRING CO-ORDINATES OF THIS UNIT.
+PRG2: ASSISTANCE REQUIRED FROM UNIT (Porygon).
+
+Connection terminated.
+Exiting. . .
+```

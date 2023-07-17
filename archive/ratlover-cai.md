@@ -456,7 +456,7 @@ Play out an exciting adventure in a fantasy world within this RPG-styled framewo
 ##Lorebooks
 Lorebooks I've made for use with Sillytavern/Agnai
 
-###Space Station 13
+##Space Station 13
 Space Station 13 lorebook, based on the /tg/ fork.
 https://www.characterhub.org/lorebooks/ratlover/space-station-13
 
@@ -482,3 +482,26 @@ Dumping ground for old/unused avatars incase you prefer to use them.
 ![Cormac](https://imgur.com/Av2m9Ha.png)
 ###Nina
 ![Nina](https://imgur.com/3d0PNyv.png)
+
+##Spermack Truncation
+This is a simple addon to the Spermack slack.js file that makes it automatically truncate replies containing "H:".
+To use, simply insert the following after line 341, the console.log message.
+The script also cuts off any output that nears the limit of 4k characters, so that you will never encounter the infinite loading bug due to Claude send a file.
+Take note that the program gets confused if you send a new message before Claude finishes his latest one. If you start getting identical replies, wait and make sure Claude finishes ALL of his outputs before sending a new message. There doesn't seem to be a way to stop Slack Claude from generating a message once he gets going, so you'll have to live with it.
+``` javascript
+ if(data.message.text.includes("H:"))
+ {
+ 	let hPos = data.message.text.indexOf("H:");
+    let truncatedOutput = "";
+    truncatedOutput =  data.message.text.slice(0,hPos);
+    websocket.close(1000, '');
+    console.log("Output includes H:. Truncating...");
+    resolve(truncatedOutput);
+}
+else if(data.message.text.length >= 3900)
+{
+	websocket.close(1000, '');
+    console.log("Output close to reaching Slack limit. Cutting off now so it won't turn into a text file.");
+    resolve(data.message.text);
+}
+```

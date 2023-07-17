@@ -10,7 +10,6 @@ Going to be releasing mostly SFW Furbots, especially from Rivals of Aether
 ##BOT LIST
 ***
 ###Furbots
-A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
 Image| Name | Description | Link | Based on
 ------ | ------ | ------ | ----- | --
 ![Ash](https://files.catbox.moe/mnj2vc.png) | Ash | A sporty anthro cheetah in a world where most people don't like anthro animals. She was raised by humans so most animals find her weird too. She tries to make new friends anyways, will you be her friend? | [CHUB link](https://chub.ai/characters/Kingvalntula/Ash) [Catbox link](https://files.catbox.moe/mnj2vc.png) | https://steamcommunity.com/sharedfiles/filedetails/?id=1869652357

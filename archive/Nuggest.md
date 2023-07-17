@@ -15,7 +15,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 [TOC3]
 
 !!! warning
-    Going on a hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to get trashed. My appreciation to anyone who left a nice comment once in a while—means a lot to me. I don't mind if you copy my ideas, would actually feel honored if you did. I have quite a lot of ideas in my head that I never got to realize (pics under Sneak Peeks for example). Feel free to contact me to "steal" my open ideas. 
+    Thinking about going on a hiatus. Feeling like my cards only garner negative receptions these days. Not putting in the extra effort just to get trashed. My appreciation to anyone who left a nice comment once in a while—means a lot to me. I don't mind if you copy my ideas, would actually feel honored if you did. I have quite a lot of ideas in my head that I never got to realize (pics under Sneak Peeks for example). Feel free to contact me to "steal" my open ideas. 
 ->![](https://files.catbox.moe/h3habt.png)<-
 
 

@@ -169,6 +169,10 @@
 - Obtain fonts to create headlines, quotations, paragraphs, lists, and other text components for your design projects.
 - [URL Safety Results](https://www.urlvoid.com/scan/fontshub.pro/)
 
+### 🔗 [FontSpace](https://www.fontspace.com/)
+- Free access to typefaces with valid licenses that are ideal for your design needs.
+- [URL Safety Results](https://www.urlvoid.com/scan/fontspace.com/)
+
 ### 🔗 [Free Chinese Font](https://www.freechinesefont.com/)
 - Discover free Chinese & English combination fonts that you may download in both simplified or traditional character formats.
 - [URL Safety Results](https://www.urlvoid.com/scan/freechinesefont.com)
@@ -188,6 +192,10 @@
 ### 🔗 [Google Fonts](https://fonts.google.com/)
 - With great typography making the web more beautiful, it offers font families that are free and open source.
 - [URL Safety Results](https://www.urlvoid.com/scan/fonts.google.com/)
+
+### 🔗 [iFonts](https://ifonts.xyz/)
+- Excellent location to find and download thousands of free fonts for design use.
+- [URL Safety Results](https://www.urlvoid.com/scan/ifonts.xyz/)
 
 ### 🔗 [Textfonts](https://textfonts.net/)
 - You may download several stunning and well-known fonts for free for design needs from including lovely scripts, sans serifs, and more.

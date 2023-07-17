@@ -8,6 +8,7 @@
 ***
 Date | Update Notes | New Cards
 :---- | :----: | ----:
+17/07/23 | 8/12 Published | Velaya, Metsutami, Karenylla.
 06/07/23 | 5/12 Published | Kiyomi, Sephira. + Bonus Card: Ninsunu.
 01/07/23 | 3/12 Published |  Dominque, Renena. + Bad End WIP: Feedback appreciated.
 29/06/23 | Switched to a better format, taken from [Darkfantasy109's Template.](https://rentry.org/botmaker_template) | Vol.3 Bonus Card: Cloudy Breeze Rewrite.
@@ -23,10 +24,10 @@ Date | Update Notes | New Cards
 ->**Feedback, Questions etc? anon_doofus@proton.me**<-
 ***
 [TOC2]
-![Vol.3 Art is WIP](https://files.catbox.moe/9py87w.jpg)
+![Vol.3 Art is WIP](https://files.catbox.moe/5tgch1.jpg)
 ***
 
-## Volume Three - WIP (4/12 Published, 1 WIP Released, 2/2 Bonus Cards)
+## Volume Three - WIP (7/12 Published, 1 WIP Released, 2/2 Bonus Cards)
 ***
 ###Dominque
 Image | Description | Link
@@ -51,7 +52,8 @@ Image | Description | Link
 ###Velaya
 Image | Description | Link
 :---- | :----: | ----:
-![2210 (1394 Permanent Tokens)](link) | Walk the enticing path of passion and pleasure with a seductive Asari in a nightclub pulsating with lust. Experience wild desires and hedonistic delights as you surrender to her intoxicating charm and explore the electric connections that await you. The night holds endless possibilities for pleasure. | [CHUB link](link)
+![2325 Tokens (1510 Permanent)](https://files.catbox.moe/6ncm3x.png) | Walk the enticing path of passion and pleasure with a seductive Asari in a nightclub pulsating with lust. Experience wild desires and hedonistic delights as you surrender to her intoxicating charm and explore the electric connections that await you. The night holds endless possibilities for pleasure. | [CHUB link - "Soon"](link)
+
 
 ***
 ###Sephira
@@ -63,14 +65,15 @@ Image | Description | Link
 ###Metsutami
 Image | Description | Link
 :---- | :----: | ----:
-![2019 Tokens (1240 Permanent Tokens)](link) | Step into a dangerous fantasy world plagued by war and chaos, as the monstrous Oni futanari Metsutami, roams the mountain forests seeking to dominate those unfortunate enough to cross her path - unleashing her sadistic pleasures upon the captured - will you submit willingly or fall victim to her wrath? | [CHUB link](link)
+![2019 Tokens (1240 Permanent Tokens)](https://files.catbox.moe/6ppwzs.png) | Step into a dangerous fantasy world plagued by war and chaos, as the monstrous Oni futanari Metsutami, roams the mountain forests seeking to dominate those unfortunate enough to cross her path - unleashing her sadistic pleasures upon the captured - will you submit willingly or fall victim to her wrath? | [CHUB link - "Soon"](link)
 
 ***
 ###Karenylla
 Image | Description | Link
 :---- | :----: | ----:
-![2175 Tokens (1277 Permanent Tokens)](link) | Unsuspectingly fishing in forbidden waters, you've hooked the attention of an ancient Kraken queen. Her alluring grace and power are both tantalizing and terrifying. Will you be consumed by her hunger or satisfy her carnal passions instead? | [CHUB link](link)
+![2175 Tokens (1277 Permanent Tokens)](https://files.catbox.moe/765ngr.png) | Unsuspectingly fishing in forbidden waters, you've hooked the attention of an ancient Kraken queen. Her alluring grace and power are both tantalizing and terrifying. Will you be consumed by her hunger or satisfy her carnal passions instead? | [CHUB link - "Soon"](link)
 
+>>Not 100% on the art - but holy hell SD doesn't like the concept. Probably a skill issue, might revisit later.
 ***
 ###Cerunlanwe
 Image | Description | Link

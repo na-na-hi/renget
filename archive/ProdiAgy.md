@@ -51,9 +51,9 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=600\" \"eta_min=0.500\" --min_bucket_reso 256 --max_bucket_reso 1024",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\" --min_bucket_reso 256 --max_bucket_reso 1024",
   "adaptive_noise_scale": 0.000,
-  "epoch": 60,
+  "epoch": 80,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
@@ -65,7 +65,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,

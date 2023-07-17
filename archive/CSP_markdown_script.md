@@ -10,7 +10,7 @@
 ```
 // ==UserScript==
 // @name         CSP Markdown conversion
-// @version      1.2
+// @version      1.3
 // @description  Formats Clip Studio link with title, thumbnail, and price in markdown format
 // @match        https://assets.clip-studio.com/*/detail?id=*
 // @grant        GM_addStyle
@@ -25,10 +25,18 @@
     button.className = 'btn btn-default operationButton starButton';
     button.style.marginRight = '10px';
 
-    // Find the target area to insert the button
+    // Create a text box for link input
+    var textBox = document.createElement('input');
+    textBox.type = 'text';
+    textBox.placeholder = 'dl link...';
+    textBox.style.marginRight = '10px';
+    textBox.style.width= '100px';
+
+    // Find the target area to insert the button and text box
     var targetArea = document.querySelector('.clearfix.favoriteInfo ul.favoriteButtons');
     var listElement = document.createElement('li');
     listElement.appendChild(button);
+    listElement.appendChild(textBox);
     targetArea.appendChild(listElement);
 
     // Add a click event listener to the button
@@ -41,6 +49,7 @@
             var priceElements = document.querySelectorAll('.price__price');
             var unitElements = document.querySelectorAll('.price__unit');
             var thumbnail = document.querySelector('.materialHeaderThumbnail--pc img').getAttribute('src');
+            var link = textBox.value.trim();
 
             // Extract the ID from the URL
             var id = url.match(/id=(\d+)/)[1];
@@ -48,23 +57,28 @@
             // Format the information in markdown
             var markdown = '**' + title + '** | [' + id + '](' + url + ') | ';
 
-            for (var i = 0; i < priceElements.length; i++) {
-                var price = priceElements[i].textContent.trim();
-                var unit = unitElements[i].textContent.trim();
+            if (link) {
+                markdown += '[DL](' + link + ') | ';
+            } else {
+                for (var i = 0; i < priceElements.length; i++) {
+                    var price = priceElements[i].textContent.trim();
+                    var unit = unitElements[i].textContent.trim();
 
-                // Format the price and unit based on the type
-                var formattedPrice = price + ' ' + unit;
-                if (unit === 'GOLD') {
-                    formattedPrice = '==' + formattedPrice + '==';
-                }
+                    // Format the price and unit based on the type
+                    var formattedPrice = price + ' ' + unit;
+                    if (unit === 'GOLD') {
+                        formattedPrice = '==' + formattedPrice + '==';
+                    }
 
-                markdown += '**' + formattedPrice + '**';
-                if (i !== priceElements.length - 1) {
-                    markdown += ', ';
+                    markdown += '**' + formattedPrice + '**';
+                    if (i !== priceElements.length - 1) {
+                        markdown += ', ';
+                    }
                 }
+                markdown += ' | ';
             }
 
-            markdown += ' | ![](' + thumbnail + ')';
+            markdown += '![](' + thumbnail + ')';
 
             // Copy the formatted markdown to the clipboard
             copyToClipboard(markdown);
@@ -87,7 +101,6 @@
         document.body.removeChild(textarea);
     }
 })();
-
 
 ```
 

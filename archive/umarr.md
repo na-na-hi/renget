@@ -11,7 +11,7 @@ All bots work on turbo unless stated otherwise.
 Novelty and non-coom bots.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![T](https://files.catbox.moe/i7hxyr.png) | Your PC | She blackmails you into getting her upgrades. | [Catbox](https://files.catbox.moe/i7hxyr.png)
+ ![T](https://files.catbox.moe/i7hxyr.png) | Your PC | ![](https://files.catbox.moe/j6vxjg.png) | [Catbox](https://files.catbox.moe/i7hxyr.png)
  ![T](https://files.catbox.moe/xi0ldu.png) | Ria | Refresh your Python knowledge with a self-modifying python program. | [Catbox](https://files.catbox.moe/xi0ldu.png)
  ![T](https://files.catbox.moe/fcjcdc.png) | Sony Walkman WMD | Pick an imaginary playlist title, the player will recommend some music for you. For example, send "Change tape to 'Dad Rock'", or "Change tape to 'Porno Music'". | [Catbox](https://files.catbox.moe/fcjcdc.png)
  ![T](https://files.catbox.moe/t6g2sq.png) | Len | Real saviorfags don't discriminate. | [Catbox](https://files.catbox.moe/t6g2sq.png)

@@ -321,7 +321,8 @@ Forget-Me-Not: https://img.4plebs.org/boards/tg/image/1686/96/1686961526089993.p
 Last Rite: https://img.4plebs.org/boards/tg/image/1685/05/1685055758068647.png
 Karma: https://img.4plebs.org/boards/tg/image/1680/20/1680203731093076.png
 Android: https://img.4plebs.org/boards/tg/image/1686/45/1686456023719910.png
-
+Recoil: https://desu-usergeneratedcontent.xyz/tg/image/1689/48/1689482245393.png
+Mirror Devil: https://desu-usergeneratedcontent.xyz/tg/image/1689/47/1689477510416.png
 ***
 
 ## CARD GAME
@@ -519,6 +520,14 @@ Hoge Helps You: https://archive.4plebs.org/tg/post/89285337
 Hoge Helps You (Empty): https://archive.4plebs.org/tg/post/89285360
 InigoxHoge - 1st Semester: https://archive.4plebs.org/tg/post/89344819
 Recoil and Challenger in the Glass Maze https://archive.4plebs.org/tg/post/89432242
+Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru): https://desu-usergeneratedcontent.xyz/tg/image/1689/23/1689236926343.png
+BEAT THE ROT (Kampai): https://desu-usergeneratedcontent.xyz/tg/image/1689/29/1689295861935.png
+Magical Girls of Shiketsu!: https://desu-usergeneratedcontent.xyz/tg/image/1689/31/1689313651024.png
+It's Reaping time!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689364134053.png
+Nene-chan!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689360712168.png
+Nene Feline Good: https://desu-usergeneratedcontent.xyz/tg/image/1689/44/1689449038097.png
+mmmmm milk: https://desu-usergeneratedcontent.xyz/tg/image/1689/46/1689463010962.png
+
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
 Mio Ball: https://archive.4plebs.org/tg/post/88821971
@@ -745,7 +754,6 @@ Serpentine Fire Overture (Seiryu, Honoken, Magnum Shrimp, Flamingal): https://re
 A Mother's Worries (Yamata): https://rentry.org/epoic
 I feel like I'm dissolving (Reaper, Big Hat): https://rentry.org/o8si2
 At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako): https://rentry.org/z2sqy
-Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp): https://controlc.com/a4a6767d / https://rentry.org/HxH-5
 The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow): https://rentry.org/bnu9t
 Faith Kang in: SummerFest Aside (Drone, Spark, Recoil, Radius, Arena): https://rentry.org/8rzuy
 The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi): https://rentry.org/akrst
@@ -794,6 +802,7 @@ A Trip to Nagoya (Last Rite, Class 1-D): https://rentry.org/6qgyr
 Exam no Jutsu (Part Two): Key Player (Maru): https://rentry.org/a3mki
 Hold my Cap, it's License Time! Part 1 (Ryu-kishi, Arena, Forget-Me-Not, Ryusei, Rescue Ray, Karaburan, Class 1-D): https://rentry.org/xn8hc
 Exam no Jutsu (Part 3) - Shūban (Maru, Last Rite, Impakt): https://rentry.org/axzx6
+Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp): https://controlc.com/a4a6767d / https://rentry.org/HxH-5
 ### Night Parade
 Karma Khameleon Kaper (Karma): https://pastebin.com/3vDhZhxj
 Manifesto Manifestation, and Premeeting Plans (Tatarimokke, Recino, Greenfinger, Karma, Midas): https://controlc.com/ea305213

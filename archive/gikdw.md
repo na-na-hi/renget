@@ -5,6 +5,7 @@
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
 ->**[Volume Four, v1 Cards, Ultra WIP.](https://rentry.org/z8m2r)**<-
 ***
+->**17/07/23: 7/12 Uploaded. Not dead; had my internet die, then a hard drive die, then data corruption on the drive I use for AI shenanigans; all fine now. Rest of this batch "soon" hopefully.**<-
 ->**07/07/23: 4/12 Uploaded.**<-
 ->**01/07/23: 2/12 Uploaded, 1 WIP Uploaded, 1 Bonus Card Uploaded.**<-
 ***
@@ -18,7 +19,7 @@
 ->**Feedback? anon_doofus@proton.me**<-
 ***
 [TOC]
-![Art is WIP](https://files.catbox.moe/1w1l25.jpg)
+![Art is WIP](https://files.catbox.moe/167c15.jpg)
 ***
 
 ###### Dominque 
@@ -53,7 +54,7 @@ Futa Asasi - Slutty nightclub lover.
 >Simple smutbot with a quirk.
 >>Turbo doesn't like the quirk. I've never gotten cockblocked so hard without ye olde "As an AI model..." kicking in.
 
-![](TODO)
+![](https://files.catbox.moe/yudcu7.png)
 2210 (1394 Permanent Tokens)
 
 ***
@@ -70,14 +71,14 @@ Futa Anthro Bunny -  Angry.
 ###### Metsutami
 Futa Oni - Local demon kidnaps and chokes (You).
 
-![](TODO)
+![](https://files.catbox.moe/l2ppao.png)
 2019 Tokens (1240 Permanent Tokens)
 
 ***
 ###### Karenylla 
 Female Kraken Monster Girl - Get shouted at by a Kraken, maybe get pussy. Or stuffed with eggs.
 
-![](TODO)
+![](https://files.catbox.moe/9lxoau.png)
 2175 Tokens (1277 Permanent Tokens)
 
 ***
@@ -147,40 +148,45 @@ Dominque
 - [x] SD Art Gen.
 - [x] Optimize
 - [X] Test & Update
+- [ ] Redo Test/Update/Optimize
 
 Renena
 - [x] Char. Defs
 - [x] SD Art Gen.
 - [x] Optimize
 - [X] Test & Update
+- [ ] Redo Test/Update/Optimize
 
 Kiyomi
 - [x] Char. Defs
 - [X] SD Art Gen.
 - [x] Optimize
 - [X] Test & Update
+- [ ] Redo Test/Update/Optimize
 
 Velaya
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [x] Optimize
-- [ ] Test & Update
+- [X] Test & Update
+- [ ] Redo Test/Update/Optimize
 
 Sephira
 - [x] Char. Defs
 - [X] SD Art Gen.
 - [x] Optimize
 - [X] Test & Update
+- [ ] Redo Test/Update/Optimize
 
 Metsutami
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [x] Optimize
 - [ ] Test & Update
 
 Karenylla
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [x] Optimize
 - [ ] Test & Update
 
@@ -209,8 +215,9 @@ Chimera
 - [ ] Test & Update
 ***
 Bad End CYOA
-- [x] Char. Defs (Drafted)
-- [ ] SD Art Gen.
+- [x] Char. Defs
+- [X] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update
+- [ ] Redo Test/Update/Optimize
 ***

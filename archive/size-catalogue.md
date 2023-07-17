@@ -311,6 +311,8 @@ Cover    | Name | Description | Tags | Relevance | Links
  * YAT Anshin! Uchū Ryokō (1996) | [1](https://www.youtube.com/watch?v=ydTClZNmVHU)
  * Handyman Saitou
  * Sugar Apple Fairy Tale
+ * Little Nemo: Adventures in Slumberland
+ * SSSS.Gridman | Anosillus the 2nd
 
 #### Minor
  * Kaguya-sama: Love Is War (s3e05) | [YouTube Clip](https://www.youtube.com/watch?v=r42WdZgwfag)
@@ -388,6 +390,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Fantastic Four #248
  * Space 1999 #5 | [1](https://comicvine.gamespot.com/space-1999-5/4000-16460/)
  * Star Trek #53
+ * Mysteries of Unexplored Worlds | quite a few here!
 
 #### Minor
  * Gargoyles #7 Cover
@@ -560,6 +563,17 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * A Mouse Called Julian
  * La Petite Géante
  * RWBY V09
+ * The New Adventures Of Nanoboy
+ * Archer s06e12-13 
+ * Tommy And Oscar s02e03
+ * Wallykazam Gina Giant episodes | [1](https://wallykazam.fandom.com/wiki/Gina_Giant)
+ * hoodwinked 2
+ * Epic (2013)
+ * dragon tales s01e31a
+ * courage the cowardly dog | courage, Tulip episodes
+ * miraculous ladybug | s02e06, s04e07
+ * Craig of the creek | little blue episodes?
+ * Jackie Chan Adventures | s02e37
  * A Kind of Magic | ? no episodes listed
  * Adventure Time | Canyon
  * Alice's Wonderland Bakery - s01e01a
