@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://i.4cdn.org/vg/1689294187559745.jpg)
- Edition
+Warming Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: 
+Last thread: >>437956405
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -33,7 +33,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Write sunny prompts for next week's theme: Summer Friday! >>437684421
+Write sunny prompts for this week's theme: Summer Friday! >>437684421
  
 ▶News
 (07/09) Pretraining on the next NAI model is complete, no ETA yet.

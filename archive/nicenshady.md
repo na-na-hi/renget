@@ -13,6 +13,14 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ***
 ###humanoid I guess
 yuck
+Fiddlesticks | quip
+------ | ------ 
+ ![ALL YOUR FAULT! ALL YOUR FAULT!](https://files.catbox.moe/5mss7h.png) | A ageless, ragged horror who's drawn to helpless virgins.. How will you escape?
+
+CHUB has been going down alot as of late so I'll try to find newer sites to conglomerate my stuff.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/2e0842ba-65af-4548-91f9-49f75135ac96)
+
 Reverie | quip
 ------ | ------ 
  ![All mine, Captain...](https://files.catbox.moe/rqu1xl.png) | You're the captain of a colonizer ship, awoken to complete the final preparations for contact. Thank God your AI assistant is here to help... But something is off?

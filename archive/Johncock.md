@@ -1,6 +1,7 @@
 # Johncock Bots Collection
-->![](https://files.catbox.moe/ecdefv.gif)<-
+->![jc1](https://files.catbox.moe/7d3iaf.gif)<-
 [TOC2]
+->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
 ####->Ryme<-
 Bot name / download | Link to Chub | Description
@@ -149,3 +150,5 @@ Bot name / download | Link to Chub | Description
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 
 **Death by Snu Snu** ![](https://files.catbox.moe/xzfvcg.png)  | https://www.chub.ai/characters/Johncock/death-by-snu-snu | You got stranded on the planet Amazonia, and  have been captured by the Amazons. Now you are sentenced to death by Snu Snu.
+
+->![jc1](https://files.catbox.moe/wrcv6d.gif)->

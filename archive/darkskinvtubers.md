@@ -173,6 +173,7 @@ sunset_radiance|[Twitter](https://twitter.com/SunsetVTuber) [Twitch](https://www
 Fuwacoco|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco)|
 Honeychama|[Twitter](https://twitter.com/Honeychamavt) [Twitch](https://www.twitch.tv/honeychama)|
 winryepona|[Twitter](https://twitter.com/winryepwna) [Twitch](https://twitch.tv/winryepona)|
+Sawa|[Twitter](https://twitter.com/SourGrapeVA) [Youtube](https://www.youtube.com/@SourGrapeVA)|
 
 ---
 

@@ -70,9 +70,10 @@ https://drive.google.com/drive/folders/1saDTGz_N-jcXTZ3Tz7rdEQV8GnZGPJez
 [](https://gofile.io/d/R54T5L from oficial discord, contents unverified) [](https://anonfiles.com/V88ci5u4ze/ai_characters_archive_zip from oficial discord, contents unverified) [](https://pixeldrain.com/u/Cuu3jefi from oficial discord, contents unverified)
 - dump of venusai\.chat up to 27.05.2023
 
-**CharacterHub**
-https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw
-- dump of chub\.ai up to 05.07.2023
+**CharacterHub archive**
+https://chub-archive.evulid.cc
+[](https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw static dump up to 05.07.2023, got deleted)
+- unofficial mirror of chub\.ai 
 
 **4chan meta list**
 - check out the link at the bottom of this rentry
@@ -88,7 +89,7 @@ https://avakson.github.io/character-editor
 - fork of Zoltan's character editor; more recent and has small new features, but the issues currently still persist *(cards v2 unsupported)*
 
 https://nolialsea.github.io/Wpp/
-- ancient W++ formatting helper
+- ancient obsolete W++ formatting helper
 
 ***
 

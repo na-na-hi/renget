@@ -319,6 +319,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Sterling's Purpose ch.2](https://rentry.org/fau75)
 	* [Sterling's Purpose ch.3](https://rentry.org/kcqy3)
     * [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
+	* [Sterling's Purpose ch.5](https://rentry.org/m36g2z) *Not on Table*
 * Stumpy the Shroomish
 	* [The New Celeb of Sahara Town ch.1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
@@ -469,6 +470,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Greatest Human Hunter](https://rentry.org/hunt3r)
 * {||} [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
 * {||} [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
+* {||} [Sterling's Purpose ch.5](https://rentry.org/m36g2z)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

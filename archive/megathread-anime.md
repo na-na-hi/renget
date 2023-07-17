@@ -29,6 +29,10 @@
 - Free, fully automated service that mirrors most Nyaa and Tokyo Toshokan torrents onto several direct download file hosting providers.
 - [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
 
+### 🔗 [AnimeOut](https://www.animeout.xyz/)
+- Search from thousands of encoded anime titles that are offered in 720p and 1080p.
+- [URL Safety Results](https://www.urlvoid.com/scan/animeout.xyz/)
+
 ### 🔗 [Animesenpai4u](https://www.animesenpai4u.com/)
 - Destination that offers anime series and movies in either English Dubbed or Subbed.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesenpai4u.com/)

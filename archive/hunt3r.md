@@ -2,12 +2,11 @@
  
  "So... why humans?" 
 
+ The question catches me off guard, breaking the silence that I had started to get used to. I turn my head around slightly, & look at him, wordlessly asking him to repeat himself.
 
- The question catches me offguard, breaking me off of my own thoughts. I turn my head around slightly, & look at him, wordlessly asking him to repeat himself.
+ He notices the doubt on my gaze & becomes nervous, turning his eyes to the side, it takes him a bit of time before he asks again "Why do you hunt them? What's so special about them?" he murmurs. If he wasn't so close behind my back I probably wouldn't have been able to hear it. 
 
- Our eyes meet, & he becomes nervous, turning his eyes to the side "Why do you hunt them? What's so special about them?" he murmurs, unsure of himself. If he were not so close behind my back I would probably have not heard it.
-
- Normally, I would've been annoyed by a question like that, or best case scenario have ignored it altogether. How could he ask such a question? Back when I saved his life he promised to do anything I asked as a thanks, how dare he doubt me so much as to question the motive of my quest?! I should've shunned him for it, or showed him where his place is!
+ Normally, I would've been annoyed by a question like that, or in the best case scenario I would've ignored it altogether. How could he ask such a question? Back when I saved his life he promised to do anything I asked as a thanks, how dare he doubt me so much as to question the motive of my quest?! I should've shunned him for it, or showed him where his place is!
 
  But... He's been so kind to me thus far, even if he's a coward he's been there for me every single time I needed him, got me out of dungeons when I fainted, given me berries when I was hungry, bailed me out of though spots multiple times, he even knows how to treat & sew a wound without even a little bit of pain.
 
@@ -17,7 +16,7 @@
 
  "...Do you know where I come from?"
 
- He glances at me for the tiniest of moments, but catches himself & breaks eye contact again, he slouches even more than before. I take his silence as a no & decide to lower my voice a little bit before continuing.
+ He looks at me for the tiniest of moments, but catches himself & breaks eye contact right away, and slouches even more than before. I take his silence as a no & decide to lower my voice a little bit before continuing.
 
  "Up in the north, far away from here, between 2 icy mountains, there lived a pack of sneasels & weaviles. The strongests of the continent, taller & bulkier than others, we were numerous too, dozens upon dozens of the best hunters of this side of the world." Should I tell him? I look at him again, & notice how his ears are turned towards me, even if his eyes refuse to leave the ground they attached themselves to. "...I was the chief's only daughter."
 
@@ -27,12 +26,14 @@
 
  "What happened?"
 
- "Huh?"
+ "Mhh?"
 
  "What happened with... them?"
 
  "Oh, nothing, just... *(Please don't make fun of me)* I was born as the smallest sneasel of the whole pack, even the smallest of my brothers passed me by a head & more to spare, even when I evolved I kept being the smallest of my peers."
+ From what I had gathered in my time away from home, I was actually closer to having an average stature in my species, apparently my family was an outlier to this. Even then, it doesn't make me feel better, why was I the only one in my family that was born *"average"*?
  "My mom always kept the others in check, when she was around nobody dared to look down on me, *physically or methaphorically.*"
+ My mom, she always looked over me, even if she tried to hide her favouritism. Sometimes she could be a little overbearing, wether it be for
  "But I knew how they talked about me, I could hear what they said behind my back..."
  "I had enough one day, & decided to go out alone & bring something big to the pack to prove myself, something like a mamoswine or an abomasnow, heh, *how foolish I was.*"
  I still remember it, my blind enthusiasm when I left, my oblivious excitement when I found that alolan-ninetales, the sudden realization once the first moonblast hit, *& the pain of it's fangs sinking into my neck.*

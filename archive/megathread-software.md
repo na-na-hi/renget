@@ -33,6 +33,10 @@
 - Hundreds of brand-new, After Effects and Premiere Pro templates, including sound effects are available.
 - [URL Safety Results](https://www.urlvoid.com/scan/aedownload.com/)
 
+### 🔗 [ALLPCWorld](https://allpcworld.com/)
+- Download the newest software with only one click and quick installation.
+- [URL Safety Results](https://www.urlvoid.com/scan/allpcworld.com/)
+
 ### 🔗 [AppNee](https://appnee.com/)
 - Focuses on free, indie, portable programmes, and is dedicated to constantly providing users with helpful software.
 - [URL Safety Results](https://www.urlvoid.com/scan/appnee.com/)
@@ -96,6 +100,10 @@
 ### 🔗 [motka](https://motka.net/)
 - Designed to provide high-quality, cost-free tools for designers, including LUTs, sound engines, Adobe software and plugins.
 - [URL Safety Results](https://www.urlvoid.com/scan/motka.net/)
+
+### 🔗 [Mutaz](https://www.mutaz.pro/)
+- Provides software downloads for Windows, Mac, and Android devices and does not require registration.
+- [URL Safety Results](https://www.urlvoid.com/scan/mutaz.pro/)
 
 ### 🔗 [NMac](https://nmac.to/hub/) • MacOS
 - Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get your download started, very easy.

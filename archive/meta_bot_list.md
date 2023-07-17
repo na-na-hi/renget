@@ -41,7 +41,7 @@ Too old, for historical purposes only:
 ***
 ***
 Sister rentries:
-- https://rentry.org/kaomojibaka - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
+- https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/aicg_extra_information - /aicg/ OP overflow, additional info missing from the OP
 - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
 

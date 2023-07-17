@@ -1,12 +1,9 @@
 !!! danger
     !!! danger
 !!! danger
-##Info
-- [Public edit copy](https://rentry.org/CSP_Brushes_Public_Edit) is available for anyone to edit
-- Textures can be exported by applying to default brushes and exporting but ==3D models as of yet have no convenient way of being shared.==
-  - Probably a way by going into your appdata folder.
-- If there is no name then there is no links. It's a space holder. If the DL link goes nowhere then I haven't uploaded yet.
-- You can cross confirm if something is already on the list by taking the last numbers from the Assets store URL and Ctrl+F.
+
+ ##  This is now an archive copy please use [CSP MATERIALS HUB](https://rentry.org/CSP_materials)
+
 [TOC]
 ***
 !!! Warning If you like a brush you may want to support by liking the brush in store and maybe purchasing if you have clippies to spare.

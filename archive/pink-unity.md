@@ -77,6 +77,8 @@ Some examples include but are not limited to:
 *Eve さゔちゃんねる* (JP): https://www.youtube.com/@user-eg6us6os5r
 *Kagura Mai* (JP): https://www.youtube.com/@MaiMai_ch.0306
 *Abi Kadabura* (EN): https://www.youtube.com/@AbiKadabura
+*Sirahosi Awawa* (JP): https://www.youtube.com/@SirahosiAwawa
+*Kai Saikota* (EN): https://www.youtube.com/channel/UCC4hjJp_MttwfZcuWc0OpVQ
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -103,6 +105,7 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Kotoka Torahime* (EN): https://www.youtube.com/@KotokaTorahime
 *Ame Doll* (EN): https://www.twitch.tv/amedoll
 *Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
+*Punkalopi* (EN): https://www.youtube.com/@Punkalopi
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

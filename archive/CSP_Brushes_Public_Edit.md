@@ -3,13 +3,8 @@
 !!! danger
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
 [**[edit this rentry here]**](https://rentry.org/CSP_Brushes_Public_Edit/edit)<-
-!!! info
-    - Textures can be exported by applying to default brushes and exporting
-    - Brushes are searchable by ID
-	- Thumbnails consistently follow this format `/xx/yy/---yyxx/thumbnail` and exist even when the item is deleted
-    - [Wishlist Rentry](https://rentry.org/Brush_Wishlist) For listing brushes people want
-    - [Translated Plugin Rentry](https://rentry.org/CSP_English_Plugins)
-	- [Markdown extraction button](https://rentry.org/CSP_markdown_script) userscript that extracts all the necessary info already formatted and ready to past on any given asset store link.
+
+ ##  This is now an archive copy please use [CSP MATERIALS HUB](https://rentry.org/CSP_materials)
 ***
 [TOC2]
 ***

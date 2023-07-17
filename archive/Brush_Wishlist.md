@@ -118,7 +118,6 @@
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)
-**Oil painting Brush Set (油絵ブラシセット)** | [1791623](https://assets.clip-studio.com/en-us/detail?id=1791623) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/16/1791623/thumbnail)
 **Tae's Pencil** | [1933221](https://assets.clip-studio.com/en-us/detail?id=1933221) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/32/1933221/thumbnail)
 **Self-made multi-flat brushes (自作マルチ平筆)** | [1741193](https://assets.clip-studio.com/en-us/detail?id=1741193) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/93/11/1741193/thumbnail)
 **Hair Light Brush (머리광 브러시)** | [1943978](https://assets.clip-studio.com/en-us/detail?id=1943978) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/39/1943978/thumbnail)

@@ -109,7 +109,43 @@
 
 &nbsp;
 
-# 📑 2 ➜ Search Engines
+# 📑 2 ➜ Browser Games
+
+### 🌐 [Addicting Games](https://www.addictinggames.com/)
+- One of the most popular gaming websites ever reaching more than ten million different users each month.
+- [URL Safety Results](https://www.urlvoid.com/scan/addictinggames.com/)
+
+### 🌐 [Arkadium Games](https://www.arkadium.com/)
+- A place where you may play free online games like cards, puzzles, crosswords, and a lot more.
+- [URL Safety Results](https://www.urlvoid.com/scan/arkadium.com/)
+
+### 🌐 [Cool Math Games](https://www.coolmathgames.com/)
+- Logic, reasoning, and math are combined with fun on this brain-training website for everyone.
+- [URL Safety Results](https://www.urlvoid.com/scan/coolmathgames.com/)
+
+### 🌐 [CrazyGames](https://www.crazygames.com/)
+- Best site to play top-notch browser games for free. Each day, new games are uploaded!
+- [URL Safety Results](https://www.urlvoid.com/scan/crazygames.com/)
+
+### 🌐 [Free Games Max](https://www.freegamesmax.com/)
+- Play the finest HTML5 games on your PC and smart device without having to download anything.
+- [URL Safety Results](https://www.urlvoid.com/scan/freegamesmax.com/)
+
+### 🌐 [io Games](https://iogames.space/)
+- Enjoy playing some of the best games from a vast collection that is updated every day.
+- [URL Safety Results](https://www.urlvoid.com/scan/iogames.space/)
+
+### 🌐 [Play Retro Games Online](https://www.playretrogames.com/)
+- Online gaming of your favorite retro classics from SNES, NES, SEGA, GBA, GBX, and plenty others.
+- [URL Safety Results](https://www.urlvoid.com/scan/playretrogames.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 3 ➜ Search Engines
 
 ### 🔍 [Programmable Search Engine](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 - Powered by a quick and effective custom Google search engine that searches several reliable sources.
@@ -129,7 +165,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Torrents
+# 📑 4 ➜ Torrents
 
 ### 🐐 [DODI Repacks](https://dodi-repacks.site/)
 - Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector.
@@ -154,7 +190,6 @@
 ### 🧲 [Xatab](https://byxatab.com/) • Russian UI
 - This repacker is widely regarded as one of the best in the pirated video game scene, earning the trust of gamers everywhere.
 - [URL Safety Results](https://www.urlvoid.com/scan/byxatab.com/)
-
 
 &nbsp;
 
