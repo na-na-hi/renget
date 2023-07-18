@@ -485,3 +485,7 @@ https://mega.nz/file/Go5mlaRT#Frc0SBCuOSM0kChenI8HW7Dv7bDVq3bBIAbaewJg-
 Recent as of 19-04-2023
 The Indigo Dreamer
 https://www.sofurry.com/view/1976936
+
+Recent as of 17-07-2023
+Dragon Marine & Xenomorphs Story (Gory/Bad Ending)
+https://rentry.org/z643mo

@@ -41,23 +41,12 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
-https://rentry.org/wyny7
->Official Hive Video Channel List (The Clique)
-https://rentry.org/7s2qg
->Kraftwerk Hero Agency - Internship Application
-https://rentry.org/z5ho9
+>Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
+https://rentry.org/bga3m
 
-Artfags:
->Nene Feline Good
->>89586712
->mmmmm milk
->>89589591
-
-Cards:
->Hailey Character Card
->>89592600
-
+New Build / Enforcer Senpai
+>Kagami Reina
+>>89605669
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/89435070#89435335
@@ -81,109 +70,112 @@ Page 2
 >STUDENTS:
 
 >Class 1-D
->Chihiro Mitsurugi HN Ascetic Sword Hero: Yako
+>Chihiro Mitsurugi HN Asscetic Sword Hero: Yako
 >>88189202
->Soujyuuro Imai HN Wise Eye Hero: Mahoudeva
+>Soujyuuro Imai HN Wise Ass Hero: Mahoudeva
 >>88194077
->Bobby Samson HN Sunlight Man
+>Bobby Samson HN Sunlight Trans
 >>88190591
->Sora Tanaka HN Area Denial Hero: Orbit
+>Sora Tanaka HN Area Denial Hero: Hobbit
 >>88191735
->Kaylee Suzuki HN Flying Force
+>Kaylee Suzuki HN Flying Force Fuck
 >>88438219
 >Shinkan Sen HN Crazy Train
 >>88194200
->Hifumi Takeda HN Warp Blade Hero: Challenger
+>Hifumi Takeda HN Warp Blade Hero: Challenged
 >>88196397
->Minerva Kim HN Spark
+>Minerva Kim HN Bondage
 >>88826766
->Hailey Chang HN Recoil
+>Hailey Chang HN Femdom
 >>88826770
->Faith Kang HN Drone
+>Faith Kang HN Pet Play
 >>88826774
->Maxine Nguyen HN Radius
+>Maxine Nguyen HN Rape
 >>88826778
->Edith Lee HN Arena
+>Edith Lee HN Huge Insertion
 >>88826782
->Noah Abrams HN Archangel
+>Noah Abrams HN Archanal
 >>88205041
 >Victor Sigurd HN Hydra
 >>88209661
->Inigo Myoga HN Dragon Hero: Ryu-kishi
+>Inigo Myoga HN Dragon Hero: Ryu-kyuishi
 >>88414797
->Christopher Cain HN Mirror Devil
+>Christopher Cain HN Minor Deflowerer
 >>88217649
->Son Jugo HN Aspara
+>Son Jugo HN Asspara
 >>88239137
->Genma Go HN Goldorado
+>Genma Go HN Goldooradoo
 >>88353862
->Ashleigh Katsuragi HN Blackout
+>Ashleigh Katsuragi HN Blacked
 >>88268251
 >Atsushi Orochi HN Hard to Destroy Lizard Hero: Yamata
 >>88273479
->Nyoro Hoge HN Maru(maru)
+>Nyoro Hoge HN MaruMaru(maru)
 >>88273837 + >>88758766
->Yui Sagara HN Binding Hero: Capture Cloth (Held Back)
+>Yui Sagara HN Blinding Hero: Capture Cloth (Retard)
 >>88383012
->Kyoda Hiro HN Overdose (Held Back)
+>Kyoda Hiro HN Overdose (Retard)
 >>88193619
 >Sandatsu Owari
 >>88192177
->Sally McCathy HN Last Rite
+>Sally McCathy HN Last Rice
 >>88810810
 >Takara Tame HN Android
 >>89199766
 
 >Class 2-D
->Mochi Uranus HN Smelly Hero: Stink Rat
+>Mochi Uranus HN Smelly Hero: Stinky Feet
 >>88196664
 >Kevin Rool
 >>88222618
->Suzuki Nene HN Ghostly Cat Hero: Bakeneneko
+>Suzuki Nene HN Ghostly Cat Hero: Bakekenekoneko
 >>88707393
->Hiroki Asai HN Champion of Negativity: Zetsuboy
+>Hiroki Asai HN Champion of Negativity: Zetsuboi
 >>88755823
 
 >Class 1-E https://rentry.org/p6dwm
 
 >Class 3-D https://rentry.org/vx255
->William Dustice HN King Billy
+>William Dustice HN King Bill
 >>88192360
->Johanna Hilt HN Gauntlet Hero: Weiss Schwarz
+>Johanna Hilt HN Gauntlet Hero: Weiss
 >>88195437
->Mio Katsuragi HN Forget-Me-Not
+>Mio Katsuragi HN Forget-Me
 >>89250569
 >Ganto Kanzaki HN The Clone Hero, Commander (NPC)
 >>89284218
+>Kagami Reina
+>>89605669
+
 ```
 ***
 Page 3
 ***
 ```
 >PRO HEROES (Hero Name):
->Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
+>Kenji Shako HN Strongest Shrimp Hero: Magnum Condom (and Water Fowl Fucktoy: Flamingal)
 >>88425908
->Yuusei Atsushi HN Spring Dragon Hero: Seiryu
+>Yuusei Atsushi HN Spring Slut Hero: Seiryu
 >>88194386
 >Kalianne Sato HN "Flame Strike Hero: Honoken"
 >>88568039
 >Ryuji Inoue HN Transport Hero: Rescue Ray (Principal - Sunray Troubled Youth Center)
 >>88195499
->Akagi Sanpatchi HN "Popsy"
+>Akagi Sanpatchi HN "Fleshlight"
 >>88204632
 >??? HN Birdy
 >>88225549
->Edmund Connor HN The Tall Man
+>Edmund Connor HN The Tall Guy
 >>88286518
->Ryusei Sugiyama HN Smokin' Sexy
+>Ryusei Sugiyama HN Smokin' Sexy 
 >>88301887
->Kevin Thompson HN The Purple Man
+>Kevin Thompson HN The Purple Guy
 >>88357698
->Yuichi Ishida HN Slipstream
+>Yuichi Ishida HN Spitstream
 >>88389419
 >Roland Walker HN PsyKing (Sandatsu'd)
 >>88616703
->Ernst Hennig HN Impakt
+>Ernst Hennig HN Limpakt
 >>88616848
 >Junpei Ozu HN: The Standstill Hero, "Floor"
 >>88820563
@@ -569,6 +561,8 @@ https://rentry.org/5ud7y
 https://rentry.org/wyny7
 >Official Hive Video Channel List (The Clique)
 https://rentry.org/7s2qg
+>Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
+https://rentry.org/bga3m
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -690,6 +684,8 @@ Mutants:
 >>89427276
 >Tinker Gacy
 >>89567493
+>Taissa
+>>89604815
 
 Robots:
 >H0P3

@@ -3,7 +3,7 @@
 ![suggested OP image](https://i.4cdn.org/vg/1689294187559745.jpg)
 Warming Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>437956405
+Last thread: >>438126529
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -11,8 +11,8 @@ Last thread: >>437956405
 NovelAI — Paid; remote SaaS: https://novelai.net
 KoboldAI — Free; local or remote colab: https://koboldai.org / https://koboldai.org/colab
 KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
-Kobold AI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
-LLaMA & Alpaca — Free; local, or remote colab: https://rentry.org/llamaaids
+KoboldAI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
+\>KoboldAI on CPU — Free; local https://koboldai.org/cpp
 Saga  — Paid, remote multi-model https://app.sagarpg.io
 
 ▶Other AI

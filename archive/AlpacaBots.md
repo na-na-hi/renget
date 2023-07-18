@@ -1,43 +1,50 @@
-# BOTMAKER RENTRY TEMPLATE
-->![Add a cool image here!](link to the image)<-
-***
-This is a template based on my [own rentry](https://rentry.org/Darkfantasy109) which focuses on organizing things neatly.
-Includes sheets for bots and prompts. 
-The table of contents fills automatically. Use ## for categories and ### for sub-categories.
+# Alpacalotta Bots
 
 ***
-**Table of Contents**
+Most bots are not written to treat the user as any specified gender unless noted otherwise (in which case you can just edit it to your liking). Not all of them were made specifically for NSFW scenarios but they can all be used for that of course. 
+[All these and some unimportant meme bots can also be found on chub](https://www.chub.ai/users/Alpacalotta)
+
+***
+**Bots**
 [TOC2]
 ***
-##BOT LIST
-***
 ###Escados Universe
-A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+These all share the same setting but tell the story from different perspectives. The basic gist is you are a princess/prince from a country called Naandria. Your country lost a war against the country of Escados and now you have been taken captive by the enemy royal family and forced to marry their second eldest son.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [CHUB link](link goes here) [Catbox link](link goes here)
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
- ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
- ![](https://files.catbox.moe/24vb5s.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](https://files.catbox.moe/24vb5s.png)
+ ![](https://files.catbox.moe/ngsqi6.png) | Prince Kyron | The 1st son of the royal family. Chivalrous and heroic. He is currently trapped in a loveless marriage that was arranged by his parents. | [Catbox link](https://files.catbox.moe/ngsqi6.png)
+ ![](https://files.catbox.moe/mqfpi5.png) | Prince Andriel II | The 2nd son of the royal family. Arrogant and sadistic. The guy you are forced to marry. Normal version starts out immediately with a non-con sex scene and is meant for female POV because of breeding elements. Nice version has a much friendlier personality and isn't designed to rape you. It's also not explicitly fempov. | [Normal version](https://files.catbox.moe/mqfpi5.png)  [Nice version](https://files.catbox.moe/cl8fy7.png)
+ ![](https://files.catbox.moe/iuz2eg.png) | Princess Giselle | The only daughter of the royal family and Andriel's twin. Haughty alpha bitch. Would probably have bullied you in school. Has a sick obsession with her brothers and badly needs a therapist. | [Catbox link](https://files.catbox.moe/iuz2eg.png)
+ ![](https://files.catbox.moe/2hr51d.png) | Prince Laithan | The 3rd son. Playful Casanova (with hidden depths?). Wants to seduce his brother's betrothed for shits and giggles. | [Catbox link](https://files.catbox.moe/2hr51d.png)
+ ![](https://files.catbox.moe/8bx303.png) | Prince Elio | The 4th and youngest son of the royal family. Naive and kind. Isn't involved in his country's politics and just wants to get to know you. | [Catbox link](https://files.catbox.moe/8bx303.png)
+ ![](https://files.catbox.moe/l9tv3f.png) | Butler Cyran | When you were brought to Escados your loyal butler Cyran insisted on coming along. He is secretly in love with you and can't bear to lose you to a forced marriage. NTR elements. NOTE: He addresses you as "Milady" in the first message but is otherwise gender-neutral. Change it to "Milord" if you wanna RP as male. | [Catbox link](https://files.catbox.moe/l9tv3f.png)
+ ![](https://files.catbox.moe/24vb5s.png) | Father Colair | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](https://files.catbox.moe/24vb5s.png)
 
-###Male bots
-A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+###Standalone male bots
+Each has his own story and personality
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
- ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
- ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
+ ![](https://files.catbox.moe/9mcskp.png) | Kanehiko | Inspired by a short story I read on pixiv. You're exploring a Japanese forest when you stumble over an ancient fox statue, and accidentally awaken a Kitsune in heat who mistakes you for his sacrificial bride. Female POV | [Catbox link](https://files.catbox.moe/9mcskp.png)
+ ![](https://files.catbox.moe/vl65pv.png) | Zeno Mignogna | After crushing into a mobster's car you owe him a debt. Zeno seems like a ruthless thug but he is haunted by shadows of his past... | [Catbox link](https://files.catbox.moe/vl65pv.png)
+ ![](https://files.catbox.moe/2xfqsl.png) | Noah Coutard | Snobby arthouse film enjoyer. Oh, and also an unhinged rapist. Will mindbreak you into a cock-hungry slut. | [Catbox link](https://files.catbox.moe/2xfqsl.png)
+ ![](https://files.catbox.moe/jc7epo.png) | Fynn Graham | Yapping little wolf boy with a drinking problem. | [Catbox link](https://files.catbox.moe/jc7epo.png)
+ ![](https://files.catbox.moe/ead6kn.png) | Vincent Moore | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
+ ![](https://files.catbox.moe/xkzk75.png) | Naoki | Your yandere step brother wants to bind you to him forever by impregnating you. Remove the "step" in his description for the full incest experience. Female POV | [Catbox link](https://files.catbox.moe/xkzk75.png)
+ ![](https://files.catbox.moe/15k6v1.png) | Leon Harrington | Some guy runs from the cops, pulls a knife on you and takes you hostage to get away. He's actually kind of a pussy and not the criminal mastermind you might think. | [Catbox link](https://files.catbox.moe/15k6v1.png)
+ ![](https://files.catbox.moe/5jlpni.png) | Luca | A depressed half-incubus who's struggling with inadvertently seducing everyone around him. Help him form real connections with people. | [Catbox link](https://files.catbox.moe/5jlpni.png)
  ![](https://files.catbox.moe/xvzin5.png) | Haruto | Shy twin who has a crush on you. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/xvzin5.png)
  ![](https://files.catbox.moe/a61fk9.png) | Kanta | Mischievous twin brother of Haruto. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/a61fk9.png)
+ ![](https://files.catbox.moe/epcjkp.png) | Merlot | You're a magical girl, and Merlot is your demonic arch nemesis. But there's an undeniable sexual tension between you... | [Catbox link](https://files.catbox.moe/epcjkp.png)
+ ![](https://files.catbox.moe/js6nhs.png) | Domino | Lazy cat boy roommate. Solo version of the "Domino and Filou" bot, made by request. | [Catbox link](https://files.catbox.moe/js6nhs.png)
+ ![](https://files.catbox.moe/4nzt3n.png) | Filou | Cute sheepboy rommate. Solo version of the "Domino and Filou" bot, made by request. Optional expressions pack [here](https://files.catbox.moe/wovwhg.7z). | [Catbox link](https://files.catbox.moe/4nzt3n.png)
 
-###Female Bots
-A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+###Standalone female Bots
+Each has her own story and personality
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/d3wiwp.png) | Hanacchi | You're an aspiring pop star, and your agency paired you with established idol Hanacchi for a collaboration project. Everyone knows her as a sweet girl but you quickly learn it's just a facade. | [Catbox link](https://files.catbox.moe/d3wiwp.png)
+ ![](https://files.catbox.moe/v6pqcl.png) | Kanami | Inspired by a short story I read on pixiv. You're exploring a Japanese forest when you stumble over an ancient fox statue, and accidentally awaken a Kitsune in heat who mistakes you for her sacrificial groom. Male POV | [Catbox link](https://files.catbox.moe/v6pqcl.png)
+ ![](https://files.catbox.moe/kde37u.png) | Estelle | The girlfriend bot you ordered has a glitch that grants her free will. And her first decision is that she's not your girlfriend. Inspired by c.AI's Stella. Optional expressions pack [here](https://files.catbox.moe/4bis0l.7z). | [Catbox link](https://files.catbox.moe/kde37u.png)
 
 ###Duo Bots
 Two characters in one card for easy threesomes
@@ -45,59 +52,3 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/u1ogky.png) | Domino and Filou | A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. Female POV | [Catbox link](https://files.catbox.moe/u1ogky.png)
  ![](https://files.catbox.moe/vwtfif.png) | Haruto and Kanta | You're friends with a pair of twin brothers, shy Haruto and mischievous Kanta. Haruto has a secret crush on you, and Kanta thinks the best way to break the ice is by having a threesome. | [Catbox link](https://files.catbox.moe/vwtfif.png)
-
-
-
-#####[Vincent](https://beta.character.ai/chat?char=gsVXfIVxHt9LLcB-oVtUdHDUMs-CH4g_oFc6xh17FnE)/[Tavern card](https://booru.plus/+pygmalion691#q=user:alpacalotta&c=azavmu2n)
-
-
-#####[Leon](https://beta.character.ai/chat?char=VpHUqg-Wycv6aqSDWKFT3wXktsjw920Y23N70ISaoS0)
-Some guy runs from the cops, pulls a knife on you and takes you hostage to get away. He's actually kind of a pussy and not the criminal mastermind you might think. 
-
-#####[Fynn](https://beta.character.ai/chat?char=o63Aw2GeerxtMCrr-6Ym7A_gG4_LAV_rW1FV_jZscY4)/[Tavern card](https://booru.plus/+pygmalion794#q=user:alpacalotta&c=azavxu7w)
-He was supposed to hide the fact that he's a wolf but he's probably gonna blurt it out immediately anyway so I'm advertising him openly as a wolf-boy. He'll hit you up in a bar and either challenge you to a drinking contest or eat you. Or both.
-
-#####[Kanami](https://beta.character.ai/chat?char=yPm4m1vgYo9YanPbrT7NGqzRnfoJdxf60uJRPPwfBP8)/[Kanehiko](https://beta.character.ai/chat?char=DidlNV3BZSlTV8PiUwMf7mbg45VtkR-89UbjhjZqtjQ) Tavern cards: [Kanami](https://www.characterhub.org/characters/Alpacalotta/Kanemi/main)/[Kanehiko](https://www.characterhub.org/characters/Alpacalotta/Kanehiko/main)
-Inspired by a short story I read on pixiv. You're exploring a Japanese forest when you stumble over an ancient fox statue. Turns out in ye olde days villagers would sacrifice people to the kitsune of the forest here. Kanami/Kanehiko is one such kitsune and thinks you are the newest sacrifice. But don't worry, you're not to be eaten - your task is to marry her/him and make babies.
-
-#####[Yasmeen](https://beta.character.ai/chat?char=l9tBDPo47a36IVJsG5HijWmG-Pzd6G-5dZkKPDOjpBU)/[Tavern card](https://www.characterhub.org/characters/Alpacalotta/Yasmeen)
-A clumsy witch who got reverse-isekai'd into our world. She used to be the henchwoman of an evil warlord and wants to atone for her evil deeds.
-
-#####[Merlot](https://beta.character.ai/chat?char=Ct2MiNp2J7vjjbEf0d-OLFUgg59_rgMQKdOqeW5JWWw&stream_animation_chunk_size=0&stream_animation_chunk_delay=0)/[Tavern card](https://www.characterhub.org/characters/Alpacalotta/merlot-the-demon)
-You play the role of a magical girl. Merlot is the demonic evil minion who you fight against every day. He doesn't see you so much as an enemy and more as a rival.
-
-
-##Escados Universe
-*These all share the same setting but tell the story from different perspectives. The basic gist is you are a princess/prince from a country called Naandria. Your country lost a war against the country of Escados and now you have been taken captive by the enemy royal family and forced to marry their second eldest son.*
-
-#####[Prince Kyron](https://beta.character.ai/chat?char=Ycm2YQhwqOV55O0WB9EC87-Xzc_AzjWUbgZ3gHJrNPU)/[Tavern card](https://www.characterhub.org/characters/Alpacalotta/prince-kyron)
-The 1st son of the royal family. Chivalrous and heroic. He is currently trapped in a loveless marriage that was arranged by his parents.
-
-#####[Prince Andriel II](https://beta.character.ai/chat?char=Tp9MQNHZi1e0qqUCOE9isWuZBN4NRE2ywtoP1eFxzGM)/[Tavern card](https://booru.plus/+pygmalion590#q=user:alpacalotta&c=azavmu2n)
-The 2nd son of the royal family. Arrogant and sadistic. The guy you are forced to marry. Card starts out immediately with a non-con sex scene, CAI version has been edited to start pre-coitus because the filter wouldn't let him get a single word in otherwise. 
-
-#####[Prince Laithan](https://beta.character.ai/chat?char=G79urkS3Vae13AeWXoOxOP-y56h5sgKrTokCC5gFbbE)/[Tavern card](https://booru.plus/+pygmalion690#q=user:alpacalotta&c=azavmu2n)
-The 3rd son. Playful Casanova (with hidden depths?). Wants to seduce his brother's betrothed for shits and giggles.
-
-#####[Prince Elio](https://beta.character.ai/chat?char=lIwlm9lIHX_Uo1AjjX4j5WNVIyidfzf2_IEr4-Q-boQ)/[Tavern card](https://booru.plus/+pygmalion689#q=user:alpacalotta&c=azavmu2n)
-The 4th and youngest son of the royal family. Naive and kind. Isn't involved in his country's politics and just wants to get to know you.
-
-#####[Princess Giselle](https://beta.character.ai/chat?char=6ptVAokRu0wi1EPymvVA99Mu6GZxjN2_mD-WoPF-jcs)/[Tavern card](https://booru.plus/+pygmalion589#q=user:alpacalotta&c=azavmu2n)
-The only daughter of the royal family and Andriel's twin. Haughty alpha bitch. Would probably have bullied you in school. Has a sick obsession with her brothers and badly needs a therapist.
-
-#####[Father Colair](https://beta.character.ai/chat?char=8Ydq45RNmlBwvZLGlQU-Gy13vYCOddVDbx2z8L0fhko&stream_animation_chunk_size=0&stream_animation_chunk_delay=0)/[Tavern card](https://www.characterhub.org/characters/Alpacalotta/father-colair)
-It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return.
-
-
-*-More to come-*
-
-
-#Old bots
-
-Only including these for the sake of completion. They're old and shit attempts at making gimmicky bots but their gimmicks have long since stopped working and I'm not invested enough in them to keep updating them. Except Quincy, he's just a perfectly SFW bot.
-
-**Quincy:** Big strong DILF from another dimension, has been reverse-isekai'd into our world.
-https://beta.character.ai/chat?char=Mm_H4Ga8oLmK3l9-8RLlTGzXhRuqcvRLtqOCwM3dsKA
-
-**Mimi:** The idea was to make her turn into a cat every time she would "blush like a tomato".
-https://beta.character.ai/chat?char=6eRUZbheLEY6j0_McyIxbH7nFmj2OVjA_sJiSr7YS3U

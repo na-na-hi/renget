@@ -315,4 +315,3 @@ Updates:
 04/10: Added Termux guide for android users, added TL;DR Section for Windows and Termux install, explained swipes and cleaned up some typos and enlarged some images.
 04/09: First finished version.
 ***
-->*If you have any suggestions for things to improve - BigTrasher@proton.me - I may or may not reply. Also, I am not your tech support. Don't ask for help*<-

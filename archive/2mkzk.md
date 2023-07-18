@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: MMBN2 rando postgame at 2UTC (Telemelt)**
-**FRI: RKSF C75 version at 2UTC (Parsec)**
+**FRI: Rockman X7 (PS2) at 2UTC (Parsec)**
 **SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
 **SUN: Boktai at 18:00UTC (Telemelt)**
 

@@ -176,8 +176,14 @@ PRG2: THIS UNIT IS DESIGNATED (Porygon2).
 PRG2: IDENTIFICATION NUMBER OF UNIT (Porygon) DOES NOT MATCH ANY PORYGON UNITS ON RECORD.
 PRG2: TRANSFERRING CO-ORDINATES OF THIS UNIT.
 PRG2: ASSISTANCE REQUIRED FROM UNIT (Porygon).
+PRGN: WAIT.
 
 Connection terminated.
 Exiting. . .
 ```
-The words faded from my sight, leaving me hovering in place, confused. The strange conversation with my evolved from certainly smacked of something important - they'd plainly told me that they needed help.
+The words faded from my sight, leaving me hovering in place. The strange conversation with my evolved form certainly smacked of something important - they'd plainly told me that they needed help. Unfortunately, they neglected to explain what the issue was, and I couldn't find a way to give them a call back to get more information out of them.
+
+Though they had forwarded their location to me. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid the landscape in the distance. It looked like it was a little ways out of the other side of the town. At least I could get a lay of the land while on my way to wherever this Porygon2 was.
+
+***
+wip

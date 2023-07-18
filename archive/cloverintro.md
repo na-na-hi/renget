@@ -20,9 +20,11 @@ You can go [here](https://rentry.org/vpmdclover) to read some of the stories wri
 ##There are so many stories! Where do I even start?
 
 It's recommended to start with [Gathering](https://rentry.org/h3fdu) as it is the "origin story" of the Clover Guild and the point where several of the characters meet each other.
-After that there are two good options:
-- Read them in the chronological order shown in the [story timeline](https://rentry.org/vpmdclover#story-timeline).
-- Got to the [list of stories sorted by author](https://rentry.org/vpmdclover#list-of-stories-sorted-by-author), pick an author, read their stories, then move to another author.
+After that there are some good options:
+- Read them in the [order they were published](https://rentry.org/vpmdclover#list-of-stories-sorted-by-time-published).
+- Read them in the chronological order shown in the [story timeline](https://rentry.org/vpmdclover#story-timeline). But keep in mind that some stories aren't there yet.
+- Go to the [list of stories sorted by author](https://rentry.org/vpmdclover#list-of-stories-sorted-by-author), pick an author, read their stories, then move to another author.
+
 
 ***
  
