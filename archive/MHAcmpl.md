@@ -69,10 +69,12 @@ Hiroki Asai HN "Champion of Negativity, Zetsuboy": https://archive.4plebs.org/tg
 William "Billy" Dustice HN "King Billy": https://archive.4plebs.org/tg/post/88192360
 Johanna Hilt HN "The Gauntlet Hero, Weiss Schwarz": https://archive.4plebs.org/tg/post/88195437
 Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
+Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
 The Rest: https://rentry.org/vx255
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
+
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -111,6 +113,8 @@ Jack Dunn HN "Three-Sixty": https://archive.4plebs.org/tg/post/88931192
 Ludolf Raphael Victorius HN "Fair Marshal": https://archive.4plebs.org/tg/post/89006731 (further information at https://rentry.org/9wc67)
 --SIDEKICK Fransk Brunhilde: https://archive.4plebs.org/tg/post/89014208
 Rodion Popo HN "Overman": https://archive.4plebs.org/tg/post/89015229
+Taichi Kyoryu HN Cretaceous King, Saurus: https://desuarchive.org/tg/thread/89500858/#89508780
+Kurogane Keisho HN Yoshizumi: https://desuarchive.org/tg/thread/89500858/#89507063
 
 ### Villains
 >Night Parade
@@ -520,13 +524,19 @@ Hoge Helps You: https://archive.4plebs.org/tg/post/89285337
 Hoge Helps You (Empty): https://archive.4plebs.org/tg/post/89285360
 InigoxHoge - 1st Semester: https://archive.4plebs.org/tg/post/89344819
 Recoil and Challenger in the Glass Maze https://archive.4plebs.org/tg/post/89432242
-Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru): https://desu-usergeneratedcontent.xyz/tg/image/1689/23/1689236926343.png
-BEAT THE ROT (Kampai): https://desu-usergeneratedcontent.xyz/tg/image/1689/29/1689295861935.png
-Magical Girls of Shiketsu!: https://desu-usergeneratedcontent.xyz/tg/image/1689/31/1689313651024.png
+Adorable Sandy x Mio artfags by Sandy-anon(Sandy, Mio): https://desuarchive.org/tg/thread/89511268/#89518566
+https://desuarchive.org/tg/thread/89511268/#89523160
+Chad Drekus(Dreku): https://desuarchive.org/tg/thread/89537858/#89540922
+Breakdancing Kampai(Kampai): https://desuarchive.org/tg/thread/89537858/#89540936
+Smug Gun Nun(Sandatsu): https://desu-usergeneratedcontent.xyz/tg/image/1689/11/1689115069881.png
+Alzheimers Girl(Ashleigh): https://desuarchive.org/tg/thread/89545448/#89549935
+Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru): https://desuarchive.org/tg/thread/89553776/#89556641
+BEAT THE ROT (Kampai): https://desuarchive.org/tg/thread/89553776/#89565271
+Magical Girls of Shiketsu!: https://desuarchive.org/tg/thread/89565846/#89567731
 It's Reaping time!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689364134053.png
-Nene-chan!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689360712168.png
-Nene Feline Good: https://desu-usergeneratedcontent.xyz/tg/image/1689/44/1689449038097.png
-mmmmm milk: https://desu-usergeneratedcontent.xyz/tg/image/1689/46/1689463010962.png
+Nene-chan!: https://desuarchive.org/tg/thread/89565846/#89573486
+Nene Feline Good: https://desuarchive.org/tg/thread/89586376/#q89586712
+mmmmm milk: https://desuarchive.org/tg/thread/89586376/#89589591
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -765,6 +775,11 @@ A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameo
 Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/8k3mk (secret: https://rentry.org/p7tyx)
 Gossip 7 (Spark, Recoil, Drone, Radius, Arena): https://rentry.org/3ihws
 Dragon's Visit - (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata): https://rentry.org/4457t
+The Doctor Is In (Emilia, Rebecca, Hifumi, Mio, Chihiro): https://pastebin.com/kKsXgLwW
+Do Unto Others (Last Rite, Android): https://rentry.org/5ud7y
+Purrfect Day (Bakeneneko, Capture Cloth, The Boys™): https://rentry.org/wyny7
+Official Hive Video Channel List (The Clique): https://rentry.org/7s2qg
+Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi): https://rentry.org/bga3m
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

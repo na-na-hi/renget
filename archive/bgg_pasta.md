@@ -26,6 +26,6 @@ https://www.nexusmods.com/baldursgate3/
 \>Race: https://strawpoll.com/kjn18WPzeyQ
 \>Class: https://strawpoll.com/eNg69DKKjnA
 
-latest OP pasta (will be updated): https://rentry.org/bgg_pasta
+Latest OP pasta (will be updated): https://rentry.org/bgg_pasta
 
 Previous thread: **XXX**

@@ -1,5 +1,12 @@
 ▶NEW CLIPS
-
+>Odessa gets Kalibrated
+https://files.catbox.moe/oqtq1w.webm
+https://files.catbox.moe/38394g.mp4
+>Crimea bridge partially reopened to traffic
+https://files.catbox.moe/16t59r.mp4
+https://files.catbox.moe/2u7jcg.MP4
+https://files.catbox.moe/fohinq.MP4
+https://files.catbox.moe/yamfvf.mp4
 >Hohol ev-ACK
 https://files.catbox.moe/ym9r50.webm
 >Another column of NATO junk shelled to death

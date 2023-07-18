@@ -10,12 +10,12 @@
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
 !!! note ➜ Bookmark this URL
-	- We have a complete replica of the Megathread over at our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
-    - ✅ **This Megathread is updated often. There are no quality control checks on other copies that are mirroring this one.**
+	- ✅ This **Megathread is often updated** and subject to rigorous quality control checks.
+    - We have a complete replica of the Megathread over at our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
 
 !!! danger ➜ Disclaimer
-	- Any links **not included in the entire Megathread** were either not approved, or were deleted at some point.
-	- Use caution whenever you sail in uncharted waters, as the seasons change, so do the currents. What was once thought to be a secure route to great treasures may soon be a shadow of its former self, infested with the black plague. Proceed with care.
+	- In the Megathread, trustworthy links that were formerly safe may occasionally turn hazardous.
+	- The moderators and contributors do their best to maintain it, but always use care while sailing on the seas.
 
 &nbsp;
 

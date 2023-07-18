@@ -66,6 +66,8 @@ AdamWは3000から、DAdaptLionは2000から再現できている。
 DAdaptLionにしたら少し再現度が上がる。ただしCPUボトルネックがかなり出やすいのか、CPUの1スレッド使い切ってGPU消費電力がフラフラする。
 
 ### DAdaptLion vs Prodigy
+DAdaptLionとProdigyの設定: `learning_rate 1 --optimizer_args "betas=0.9,0.999" "weight_decay=0" "d0=1e-06"`
+
 v12がDAdaptLionでv12pがProdigy
 ![Image](https://files.catbox.moe/viqgqt.jpg)
 ん？
@@ -262,8 +264,8 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 #### タグを消す理由
 キャラを召喚するのに`blonde hair, bangs, blue eyes....`みたいにいちいち特徴の単語を入力するのは面倒くさい。
 そこで、特徴の単語を1つにまとめることで1単語で召喚できるようにする。
-なお、残したタグは個別に覚えるので脱がせたり部分的にアレンジしたりするといったことができる(はず)。
-1girlは消さないほうがいいかも？1girlと指定しても2girlsになったりする場合あり。
+なお、残したタグは個別に覚えるので脱がせたり部分的にアレンジしたりするといったことができるはず。
+1girlは消さないほうがいいかも？消すと生成時に1girlと指定しても2girlsになったりする場合あり。
 
 #### 消すべきタグ
 - 身体的特徴のタグ
@@ -296,9 +298,7 @@ Additional Tagsで先頭に構図・シチュエーション名を追加する�
 上の画像には次のタグがつけられた。
 `paizuri, 1girl, breasts, nonomi (blue archive), 1boy, nipples, hetero, penis, censored, nude, green eyes, blush, long hair, bar censor, completely nude, large breasts, open mouth, looking at viewer, smile, dark-skinned male, halo, solo focus, ass, bangs, male pubic hair, indoors, collarbone, pubic hair, grey hair, dark skin, window, :d, hair bun, huge breasts`
 この画像から、次のタグを削除する。
-`1boy,nonomi_(blue_archive),hetero,huge_breasts`
-この場合、penisは残しておく。タグを消すと画像内のチンポをチンポとして覚えず、モデル側のものが別で出現して台無しになる。
-huge_breastsは残してもいいかも。
+`nonomi_(blue_archive)`
 
 ### 画風
 キャラなどを覚えるわけではないのでkeep tokenは0。なおShuffle captionは有効。
@@ -335,8 +335,6 @@ huge_breastsは残してもいいかも。
 
 ### 比較
 noregが正則化無し、booru64がbooruサイトの画像64枚、nai64がNAI64枚、trans64が透明64枚。
-
-
 
 Prompt: `<lora:mika_noreg:1>1girl, mika \(blue archive\), white capelet`
 Negative Prompt(共通): `lowres, bad anatomy, signature`
@@ -384,12 +382,13 @@ white capeletと衣装を指定したらすべていい感じに再現した。
 ## その他
 ### LyCORISはやめとけ
 LyCORISのメリット:
-- 専用のアルゴリズム(loha,lokr,ia3)が使用できる。実質的なdim数がdim^2になる。
+- 専用のアルゴリズム(loha,lokr,ia3)が使用できる。実質的なdim数がdim^2になる。その分dimを下げてファイルサイズを減らせる。
 
 デメリット:
 - loha系は重い(学習時間増加)
-- **生成にExtension必要**
+- **生成にExtension必要**※今後1111標準で対応？
 - loha系にしても品質向上なし
+	dim下げたときの品質低下がやや少ない程度
 - LoCon(C3Lier)での学習は標準のnetworks.loraでもできる
 
 このデメリットでDim削ってファイルサイズを減らす価値を見いだせないし、LoConが標準で使えるからいらない子やね

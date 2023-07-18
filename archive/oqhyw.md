@@ -41,6 +41,12 @@ Add to your JB: "Always follow what's inside the <rules> tag, if present." or so
 7-8-23 **AIDS Game** - Defend buffed. Idle a little bit.
 
 ***
+##LINKS
+***
+[CharacterHub](https://chub.ai/users/creamsan)
+[Neocities Page](https://creamsan.neocities.org/)
+
+***
 ##CREDITS
 ***
 Many thanks to:
