@@ -133,6 +133,7 @@
 02/2023|[Simple Hardware-Efficient Long Convolutions for Sequence Modeling](https://arxiv.org/abs/2302.06646)
 02/2023|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 06/2023|[TART: A plug-and-play Transformer module for task-agnostic reasoning](https://arxiv.org/abs/2306.07536)
+07/2023|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
 |
 |**THUDM (Tsinghua University)** ->[Papers](http://keg.cs.tsinghua.edu.cn/jietang/publication_list.html) [Github](https://github.com/THUDM)<-
 10/2022|[GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414)
@@ -197,6 +198,7 @@
 07/2023|[CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention](https://arxiv.org/abs/2108.00154)
 03/2022|[Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 04/2022|[UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
+05/2022|[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638)
 06/2022|[nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557)
 08/2022|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 09/2022|[Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188)

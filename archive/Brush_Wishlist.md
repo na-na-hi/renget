@@ -3,8 +3,8 @@
 !!! danger
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
 [**[edit this rentry here]**](https://rentry.org/Brush_Wishlist/edit)<-
+[Back to hub](https://rentry.org/CSP_materials)
 !!! info
-	- When Filling a request you can just copy the info from here and move it over to [The public edit CSP Rentry](https://rentry.org/CSP_Brushes_Public_Edit) Or any derivative 
 	- Remove entry when it is uploaded
 	- [Markdown extraction button](https://rentry.org/CSP_markdown_script) userscript that extracts all the necessary info already formatted and ready to past on any given asset store link.
 [TOC2]
@@ -15,8 +15,8 @@
 ### 10 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Stroke long hand drawn diagonal set (ストローク長め手描き斜線セット)** | [1819421](https://assets.clip-studio.com/en-us/detail?id=1819421) | **10 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/94/1819421/thumbnail?1612683340)
-**MZ Pink Corrected (MZ 핑크 보정(updated))** | [1895113](https://assets.clip-studio.com/en-us/detail?id=1895113) | **10 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
+**Stroke long hand drawn diagonal set (ストローク長め手描き斜線セット)** | [1819421](https://assets.clip-studio.com/en-us/detail?id=1819421) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/94/1819421/thumbnail?1612683340)
+**MZ Pink Corrected (MZ 핑크 보정(updated))** | [1895113](https://assets.clip-studio.com/en-us/detail?id=1895113) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
  **INK + MARKER + OIL sketch brush**|[1973976](https://assets.clip-studio.com/en-us/detail?id=1973976)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/39/1973976/thumbnail)
 **BigBrushSet![Limited time 10CP]**|[2004452](https://assets.clip-studio.com/en-us/detail?id=2004452)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/44/2004452/thumbnail)
 **softBrush♦B8pencil♦DryInk**|[1944219](https://assets.clip-studio.com/en-us/detail?id=1944219)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/42/1944219/thumbnail)
@@ -27,7 +27,6 @@
 **P-ROUGH**|[1879575](https://assets.clip-studio.com/en-us/detail?id=1879575)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/95/1879575/thumbnail)
 **SAMAT BrushSet**|[1923417](https://assets.clip-studio.com/en-us/detail?id=1923417)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/34/1923417/thumbnail)
 **Slanted Brush**|[1986944](https://assets.clip-studio.com/en-us/detail?id=1986944)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/44/69/1986944/thumbnail)
-**SOE PEN (SOE PEN)**|[1859241](https://assets.clip-studio.com/en-us/detail?id=1859241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/92/1859241/thumbnail)
 **MLFL**|[1799664](https://assets.clip-studio.com/en-us/detail?id=1799664)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/64/96/1799664/thumbnail)
 **히스펜 2 (Historic pen 2) **|[1983458](https://assets.clip-studio.com/en-us/detail?id=1983458)|10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/34/1983458/thumbnail)
 **Aaron Crisis (아롱사태)**|[1956878](https://assets.clip-studio.com/en-us/detail?id=1956878)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/68/1956878/thumbnail)
@@ -39,15 +38,12 @@
 **The brush when I paint anime (アニメ塗りする時のブラシ)**|[1759031](https://assets.clip-studio.com/en-us/detail?id=1759031)|10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/90/1759031/thumbnail)
 **Headache pen (두통펜)**|[1977241](https://assets.clip-studio.com/en-us/detail?id=1977241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/72/1977241/thumbnail)
 **Pencil-in-pencil (연필인척하는연필)**|[1895220](https://assets.clip-studio.com/en-us/detail?id=1895220)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/52/1895220/thumbnail)
-**soft blend.**|[1977417](https://assets.clip-studio.com/en-us/detail?id=1977417)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/74/1977417/thumbnail)
 **Vant_Line pen (Vant_Line pen)**|[1947718](https://assets.clip-studio.com/en-us/detail?id=1947718)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/77/1947718/thumbnail)
 **G Brush (g브러쉬)**|[1966401](https://assets.clip-studio.com/en-us/detail?id=1966401)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/64/1966401/thumbnail)
 **It is a watercolor brush though it is not watercolor. (水彩じゃないけど水彩ブラシです)**|[1956074](https://assets.clip-studio.com/en-us/detail?id=1956074)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/60/1956074/thumbnail)
 **csp No.19 (csp No.19)**|[1958073](https://assets.clip-studio.com/en-us/detail?id=1958073)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/80/1958073/thumbnail)
 **Amiette Flat Paint**|[1811187](https://assets.clip-studio.com/en-us/detail?id=1811187)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/11/1811187/thumbnail)
 **Honey Pen (みつこまペン)**|[1840719](https://assets.clip-studio.com/en-us/detail?id=1840719)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/07/1840719/thumbnail)
-**YOTTI PEN2 Yottipen2 (YOTTI PEN2 욧띠펜2)**|[1809923](https://assets.clip-studio.com/en-us/detail?id=1809923)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/99/1809923/thumbnail)
-**YOTTI GPEN G-Pen (YOTTI GPEN 욧띠G펜)** |[1758388](https://assets.clip-studio.com/en-us/detail?id=1758388)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/83/1758388/thumbnail)
 **S-I pencil-like pen (S●I鉛筆風ペン)** |[1771305](https://assets.clip-studio.com/en-us/detail?id=1771305)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/13/1771305/thumbnail)
 **Oil Brush** |[1875289](https://assets.clip-studio.com/en-us/detail?id=1875289)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/89/52/1875289/thumbnail)
 **JS pen (JS펜)** |[1982241](https://assets.clip-studio.com/en-us/detail?id=1982241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/22/1982241/thumbnail)
@@ -68,8 +64,6 @@
 **Crunchy pen set (바삭 펜 세트)** |[1865278](https://assets.clip-studio.com/en-us/detail?id=1865278)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/52/1865278/thumbnail)
 **All in one brush (オールインワンブラシ)** |[2000807](https://assets.clip-studio.com/en-us/detail?id=2000807)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/08/2000807/thumbnail)
 **A slightly fuzz thick brush (やや毛羽立ちのある厚塗りブラシ)** |[1974469](https://assets.clip-studio.com/en-us/detail?id=1974469)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/69/44/1974469/thumbnail)
-**Pressure brush set for weak people (re) (筆圧弱い人の厚塗りブラシセット(再))** |[1973299](https://assets.clip-studio.com/en-us/detail?id=1973299)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/32/1973299/thumbnail)
-**Blending skin shading brush** |[1825597](https://assets.clip-studio.com/en-us/detail?id=1825597)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/55/1825597/thumbnail)
 **2-in-1 Line and Paint pen** |[1831377](https://assets.clip-studio.com/en-us/detail?id=1831377)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/13/1831377/thumbnail)
 **Fade Pen** |[1883068](https://assets.clip-studio.com/en-us/detail?id=1883068)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/30/1883068/thumbnail)
 **Ower - Soft Brush** |[1939868](https://assets.clip-studio.com/en-us/detail?id=1939868)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/98/1939868/thumbnail)
@@ -79,7 +73,6 @@
 **Flat Paint and Blend Brush :D** |[1934024](https://assets.clip-studio.com/en-us/detail?id=1934024)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/40/1934024/thumbnail)
 **Worn Watercolor Set** |[1932019](https://assets.clip-studio.com/en-us/detail?id=1932019)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/20/1932019/thumbnail)
 **Jet Pen (제트펜)** |[1811236](https://assets.clip-studio.com/en-us/detail?id=1811236)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/36/12/1811236/thumbnail)
-**241PEN** |[1933558](https://assets.clip-studio.com/en-us/detail?id=1933558)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/35/1933558/thumbnail)
 **NACHOJO PEN** |[1786271](https://assets.clip-studio.com/en-us/detail?id=1786271)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/62/1786271/thumbnail)
 **NANANAPEN** |[1826873](https://assets.clip-studio.com/en-us/detail?id=1826873)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/68/1826873/thumbnail)
 **Bonita** |[1860247](https://assets.clip-studio.com/en-us/detail?id=1860247)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/02/1860247/thumbnail)
@@ -114,7 +107,6 @@
 ### 100~500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)** | [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317) | **==150 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)
@@ -137,7 +129,6 @@
 ### Over 500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Gel Ink Ballpoint pen Style ver. 3 (ｹﾞﾙｲﾝｸﾎﾞｰﾙﾍﾟﾝ風のペンver.3)** | [1738505](https://assets.clip-studio.com/en-us/detail?id=1738505) | **==150 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail?1552461510)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -162,7 +153,6 @@
 ### ==Over 100 gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)** | [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317) | **==150 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
 **Basketball with an impossible depth **|[1959276](https://assets.clip-studio.com/en-us/detail?id=1959276)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/92/1959276/thumbnail)
 **Black piece pen with impossible terrible **|[1981738](https://assets.clip-studio.com/en-us/detail?id=1981738)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/17/1981738/thumbnail)
 **A Cacegrade with an improbable terrible **|[1993726](https://assets.clip-studio.com/en-us/detail?id=1993726)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/37/1993726/thumbnail)
@@ -196,7 +186,7 @@
 ## Deleted Brushes
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-** **|[]()|  |![]()
+**Mandarin Crayon & Pencil**|[1781568](https://assets.clip-studio.com/en-us/detail?id=1781568)|  |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/15/1781568/thumbnail)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

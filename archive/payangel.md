@@ -1,8 +1,6 @@
 #SAM HYDE TORRENT ARCHIVE
 [TOC2]
 
-#Still no PGL 58.
-
 ##Sam Hyde GUMROAD (2022 APRIL)
 Includes the following:
 EOC 1-3
@@ -328,5 +326,8 @@ PGL_0056_RickMortyCustomerService (CRF25).mp4
 
 PGL_0057_ArtSchoolQuarterback (CRF 25).mp4
 ```magnet:?xt=urn:btih:a6cbf15c3c9deb959cb6ed78ede0229f6a3e2bc0&dn=PGL_0057_ArtSchoolQuarterback%20(CRF%2025).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
+PGL_0058_FuckingMachineBicycle (CRF 25).mp4
+```magnet:?xt=urn:btih:4d5c6e7d9086c01fd8102f27545891b54633aa56&dn=PGL_0058_FuckingMachineBicycle%20(CRF%2025).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
 
 ###jump to latest PGL

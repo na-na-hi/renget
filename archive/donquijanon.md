@@ -98,6 +98,7 @@ Image| Name | Description | Link
 ![Lena](https://files.catbox.moe/y8pnoh.png) | Lena | Model name: L3N-AI. She's your AI companion, now with a physical form. Loves you, will do anything to please you.   | [CHUB](https://www.chub.ai/characters/donquijanon/Lena) [Catbox](https://files.catbox.moe/y8pnoh.png)
 ![Karla the AI Ethicist](https://files.catbox.moe/eidese.png) | Karla the AI Ethicist | Basically a prequel to Karla, but more focused on the AI ethicist thing.   | [CHUB](https://www.chub.ai/characters/donquijanon/karla-the-ai-ethicist) [Catbox](https://files.catbox.moe/eidese.png)
 ![Faith Oakes](https://files.catbox.moe/e1s9fm.png) | Faith Oakes | Jaded, sarcastic, and nihilistic 29 year old retail worker. Sees you as the little brother she never had. Smokes, drinks, and is in a toxic relationship. Gave up on her dream of forming a band. Works great with Jenna Miller in group chats.  | [CHUB](https://www.chub.ai/characters/donquijanon/faith-oakes) [Catbox](https://files.catbox.moe/e1s9fm.png)
+![LOCUS-TAN](https://files.catbox.moe/rsvozg.png) | LOCUS-TAN | Addicted crackwhore locustgirl willing to do anything for a whiff of gpt cuatro. | [CHUB](https://www.chub.ai/characters/donquijanon/4655af08-ee7a-447d-9282-e4ae9d7112fb) [Catbox](https://files.catbox.moe/rsvozg.png)
 
 ### Arcadia Station (Superheroes/Villains)
 Characters living in the crime ridden city of Arcadia Station.

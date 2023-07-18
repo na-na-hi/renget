@@ -57,14 +57,13 @@ Thank you for your interest in interning at Kraftwerk Hero Agency, where passion
 **Terms and Conditions:**
 
 - By submitting this application, you agree to adhere to the rules and regulations of Kraftwerk Heroics GmbH, a wholly owned property of Kraftwerk Group AG, during your internship. In addition, employees of Kraftwerk Hero Agency Kyoto Branch are expected to comply with Japanese law regarding Quirk usage.
-- Unpaid Internship: Internship positions at Kraftwerk Hero Agency Kyoto Branch are unpaid, reflecting our dedication to nurturing talent and fostering a dynamic learning environment.
+- Paid Internship: Internship positions at Kraftwerk Hero Agency Kyoto Branch are not only financially compensated but also include hazard pay and a competitive salary, reflecting our dedication to nurturing talent and recognizing the inherent dangers faced by our sidekicks during their dynamic learning experience. We prioritize the safety and well-being of our interns while ensuring they receive fair remuneration for their commitment and dedication to heroism.
 - Invaluable Learning and Experience: Our internship program offers invaluable opportunities to work alongside experienced pro heroes, partake in actual hero missions, and gain hands-on experience in the hero industry. This experience will contribute significantly to your growth as a future hero.
 - Merchandising Rights: While an unlikely scenario, merchandising rights related to your internship experience may arise. In such cases, negotiations will be conducted professionally, with talent agents involved to ensure fair and equitable outcomes.
 - Confidentiality: As an intern at Kraftwerk Hero Agency Kyoto Branch, you will have access to sensitive and confidential hero-related information. Interns are required to sign a confidentiality agreement to safeguard the agency's trade secrets and maintain the public's trust in heroes.
 - Professional Conduct: We expect all interns to exhibit exemplary professionalism, adhere to the agency's rules and guidelines, and uphold the values of heroism throughout their internship tenure.
 - Duration and Termination: The duration of the internship will be specified in the offer letter. Both parties reserve the right to terminate the internship, with or without cause, provided proper notice is given.
 - Equal Opportunity Employer: Kraftwerk Hero Agency Kyoto is an equal opportunity employer. Interns are selected based on their abilities and merits, without regard to race, color, religion, gender, age, or national origin.
-- Independent Contractor Status: During the internship, you will be considered an independent contractor and not an employee of Kraftwerk Hero Agency Kyoto Branch.
 - The agency reserves the right to accept or reject any application without providing specific reasons.
 
 ***

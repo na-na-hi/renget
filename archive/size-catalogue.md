@@ -213,10 +213,11 @@ Cover    | Name | Description | Tags | Relevance | Links
  * 8 mm | [Baka-Updates](https://www.mangaupdates.com/series.html?id=675)
  * The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (manga), chapter 72, shrunken gf
  * Girls und Panzer der Film Heartful Tank Anthology Vol. 2 (manga) - "Published by Kadokawa, this comic anthology is based on the Girls und Panzer der Film and has 152 pages in Japanese with several talented authors conveying compelling scenarios!" - includes one size chapter
-* Ookiku Natchaukei Joshi no Chiisana Tatakai | [Baka-Updates](https://www.mangaupdates.com/series/a28xip6)
-* Roro-chan wa Kahogo na Kyodai Musume | [Baka-Updates](https://www.mangaupdates.com/series/d16yjir)
-* Hazure Zokusei Tsuchi Mahou no Sei de Henkyou ni Tsuihousareta no de, Gangan Ryouchi Kaitakushimasu!  | miniGTS, minor | [Baka-Updates](https://www.mangaupdates.com/series/a3lq0jc)
-* Youseijirushi no Kusuriya-san
+ * Ookiku Natchaukei Joshi no Chiisana Tatakai | [Baka-Updates](https://www.mangaupdates.com/series/a28xip6)
+ * Roro-chan wa Kahogo na Kyodai Musume | [Baka-Updates](https://www.mangaupdates.com/series/d16yjir)
+ * Hazure Zokusei Tsuchi Mahou no Sei de Henkyou ni Tsuihousareta no de, Gangan Ryouchi Kaitakushimasu!  | miniGTS, minor | [Baka-Updates](https://www.mangaupdates.com/series/a3lq0jc)
+ * Youseijirushi no Kusuriya-san
+ * Gantz
 
 #### Minor
  * Babylon Made wa Nan-kounen? | c01
@@ -333,6 +334,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 #### TODO
  * Hatim (2004) e40 |  [1](https://www.dailymotion.com/video/x7usndd)
  * Shin Ultraman (2022)
+ * Gantz, maybe.
 
 ## Western
 
@@ -364,6 +366,10 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Hank Pym comics | [1](https://comicvine.gamespot.com/hank-pym/4005-2247/)
  * microverse Fantastic Four comics | [Psycho-Man](https://comicvine.gamespot.com/psycho-man/4005-7112/), [Micronauts](https://comicvine.gamespot.com/micronauts/4060-10980/)
  * Stumbo the Giant comics | [1](https://comicvine.gamespot.com/stumbo-the-giant/4005-7444/)
+ * City of Kandor and the Superman Emergency Squad comics | [1](https://comicvine.gamespot.com/kandor/4020-41290/), [2](https://comicvine.gamespot.com/superman-emergency-squad/4060-47462/)
+ * Doll Man | [40s incarnation](https://comicvine.gamespot.com/doll-man/4005-23313/), [modern incarnation](https://comicvine.gamespot.com/doll-man/4005-37895/), [doll girl](https://comicvine.gamespot.com/doll-girl/4005-52970/)
+ * Scintilla | [1](https://comicvine.gamespot.com/scintilla/4005-41010/), 
+ * Colossal Boy comics | [1](https://comicvine.gamespot.com/colossal-boy/4005-1271/)
  * Alice in Wonderland (Rod Espinosa)
  * Avengers Fairy Tales #3
  * Betty & Veronica: Friends Forever: Return to Storybook Land
@@ -391,6 +397,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Space 1999 #5 | [1](https://comicvine.gamespot.com/space-1999-5/4000-16460/)
  * Star Trek #53
  * Mysteries of Unexplored Worlds | quite a few here!
+ * Conan | [1](https://desuarchive.org/co/thread/138314812/#138328076)
 
 #### Minor
  * Gargoyles #7 Cover
@@ -477,6 +484,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The one with the fairy in the cage and the guy gets shot
  * Anrisive | [ComicFury](https://anrisive.thecomicseries.com/)
  * The Little Unknown
+ * modest medusa 
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -574,6 +582,10 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * miraculous ladybug | s02e06, s04e07
  * Craig of the creek | little blue episodes?
  * Jackie Chan Adventures | s02e37
+ * Futurama | s03e02
+ * Boonie Bears: The Big Shrink
+ * The Dreamstone | e01e07
+ * Speed Buggy | s01e12
  * A Kind of Magic | ? no episodes listed
  * Adventure Time | Canyon
  * Alice's Wonderland Bakery - s01e01a
@@ -586,7 +598,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Barbie: Life in the Dreamhouse - The Shrinkerator
  * Batman: The Brave and the Bold | ? no episodes listed, maybe giganta content?
  * Beetlejuice s04e49
- * Ben 10, Ben 10 (2016) | grey matter episodes
+ * Ben 10, Ben 10 (2016) | grey matter episodes, Way Big/To'kustar and mutant To'Kustar, gwen anodite form
  * Big City Greens
  * Bluey - s3e21 | arguable?
  * Bobby’s World |  ? no episodes listed
@@ -705,6 +717,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The Warped Forest | [1](https://www.youtube.com/watch?v=_FG9ymHII4M)
  * Karate-Robo Zaborgar (2011) | [1](https://www.youtube.com/watch?v=tKtWxB-a1Wg)
  * Help, I Shrunk My Friends (2021) | [Cover](https://thumbs2.imgbox.com/4b/08/sN46VF4x_t.jpg) | To protect his magic objects Otto Leonhard has taught Felix the secret art of shrinking. When Felix's friends almost mess up his date with Melanie, he shrinks them spontaneously to a tenth of their size.
+ * Help, I Shrunk My Parents (2018)
  * Großer Mann ganz klein! (2013) | [Cover](https://thumbs2.imgbox.com/d5/88/7Ygx0cWy_t.jpg) | Ina Hofmann works in a toy factory. To welcome her egocentric new boss, she gift him a live fish, unaware that a mysterious man had cursed it. Her boss becomes small as a toy.
  * Gulliver az óriások országában (1980) | [Cover](https://thumbs2.imgbox.com/59/08/Rfxb0E5O_t.jpg) | Based on Jonathan Swift's 'Gulliver's Travels', this Hungarian tv-movie is the adaptation of Part Two (Gulliver in Brobdingnag).
  * Willy Wonka & The Chocolate Factory (1971)
@@ -731,6 +744,11 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * I'm a Virgo | M&??, miniGTS
  * Grandpa in My Pocket
  * Small Soldiers
+ * Doctor Who, Carnival Of Monsters
+ * War Of The Colossal Beast
+ * The Amazing Colossal Man
+ * Suddenly Susan | title sequence
+ * Dollman (1991)
 
 #### Minor
  * Attack of the 50 Foot Hooker | short rampage at the end

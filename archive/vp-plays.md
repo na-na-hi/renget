@@ -14,9 +14,9 @@ I think I've accomplished all 3 of those goals with this complete rewriting. 28k
 
 If anything seems out of order, then sorry about that, it's just that sometimes I go back to a game in the middle of a LP for some reason or another, or I put a run on hiatus to do something else. If you come across a link to a thread that isn't in the archive, then there's a few possible explanations for that:
 1: The thread in question got raided by underageb&s, schizos, something I'm not mentioning as to not tempt fate, or any combination of those.
-2: The link was to a thread for a LP that was dropped quickly due to the game being bland and not interesting enough or it was unplayably broken
+2: The link was to a thread for a LP that was dropped quickly due to the game either being bland and not interesting enough, or it was unplayably broken.
 3: The link was to a LP that got purged from the pastebin (but not arch.b4k.co) during that DELETE FUCKING EVERYTHING spree after the desolation shitfest. Might overlap with threads removed due to reason 2, if it's not detergent/desolation.
-4: The thread didn't really have any notable content in it. Usually threads that were mostly stalling for writefag, or threads that didn't get bumped for long enough for me to continue. cough trailer season cough
+4: The thread didn't really have any notable content in it. Usually threads that were mostly stalling for writefag, or threads that didn't get bumped for long enough for me to continue. cough trailer/leak season cough
 Likewise, if a thread doesn't have a "new thread" link at the bottom, then it likely died because it wasn't bumped in time for me to make a new thread.
 
 LP summaries are color coded - green for completed, blue for ongoing, yellow for on hiatus, and red for softlocked/dropped.
@@ -110,7 +110,7 @@ https://arch.b4k.co/vp/thread/51056753/ 67 missed sidequests part 2: fishing, fi
 https://arch.b4k.co/vp/thread/51133440/ post-series discussion thread 2: IRL vacation edition
 
 ##Pokemon Wack
-!!! danger Status: Softlocked (tripped anticheat)
+!!! danger Status: Softlocked (tripped anticheat, oops)
     The second fangame played in my history of /vp/ lets plays, and also the one with the most content.
 	Or at least, content I'd get to experience if it wasn't for several factors, one of them being that this first playthrough was a blind one (excluding the wiki's pokedex), leading me to miss a bunch of things. Another problem lied from the format I was doing with viewer participation - with such a huge fakemon dex, listing every one every time I wanted to make a new team made asking for a new party a chore, on top of it taking an annoyingly long time because lurkers can't make up their mind. 
     As it turns out, maybe having a ridiculous amount of new pokemon being accessible each progression milestone is probably not the greatest thing for an imageboard LP - a problem that would kill the second Wack LP.
@@ -313,7 +313,7 @@ currently stuck on jeeve stobs (6th gym) because of level cap & coverage shenani
 
 ##Pokemon Ocandia
 !!! danger Status: Dropped (got bored and ran out of spite to bother continuing)
-    Basically a hijacked shill thread for You Just Know: the fangame, that ended up becoming a proper LP, where I play a shitty shilled fangame to prove that it's nowhere near as good as the shill claims it is, so you guys don't have to.
+    Basically a hijacked shill thread for You Just Know: the fangame, that ended up becoming what could count as a proper LP, where I played a shitty shilled fangame to prove that it's nowhere near as good as the shill claims it is, so you guys don't have to.
     Not a LP of one of its sequels, "Pokemon Ocandia: Blood on the Ice", which is a very shittily made visual novel with about fuck-all to do with Pokemon.
 
 https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
@@ -321,7 +321,7 @@ https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line betwee
 https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
 
 ##Rejuvenation: Kaizoshit Edition
-!!! info Status: Ongoing
+!!! note Status: Completed (thank fucking god this is over)
     This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a kaizo hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release. Currently being done by Wagiedos.
     Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984, alongside a vast assortment of other bullshit like adding pulse3 for certain opposing pokemon only (gives them all their abilities at once), blatantly illegal EVs, cancerous lack of item availability while opponents freely get high tier items, etc. while freely giving high tier pokemon, pseudo-legendaries, legendaries, mythicals, etc. to opposing teams, while sabotaging player access to items or actually usable pokemon.
 !!! danger DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
@@ -355,4 +355,4 @@ https://arch.b4k.co/vp/thread/54081237/ 23 well, that was anticlimactic
 https://arch.b4k.co/vp/thread/54083079/ 24 aw shit here we go again
 https://arch.b4k.co/vp/thread/54086575/ 25 what the fuck
 https://arch.b4k.co/vp/thread/54092082/ 26 convoluted bullshit
-https://arch.b4k.co/vp/thread/54096243/ 27
+https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over

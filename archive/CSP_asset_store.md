@@ -12,8 +12,6 @@
 ##Assets
  Name | Store Link | DL | Thumbnail
  ----: | :----: | :----: | :----:
-**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)** | [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317) | **[DL](https://pixeldrain.com/l/UshWLnVw)** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
-**drawing set (お絵かきセット)** | [2016926](https://assets.clip-studio.com/en-us/detail?id=2016926) | [DL](https://pixeldrain.com/u/Dr1LVWWQ) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/69/2016926/thumbnail?1689519863)
 **Rain brush**|[1744323](https://assets.clip-studio.com/en-us/detail?id=1744323)|[DL](https://pixeldrain.com/u/GpEzg1ES)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/43/1744323/thumbnail)
 **Sweat brush**|[1790153](https://assets.clip-studio.com/en-us/detail?id=1790153)|[DL](https://pixeldrain.com/u/iUnTQe7u)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/01/1790153/thumbnail)
 **Scar brush**|[1913968](https://assets.clip-studio.com/en-us/detail?id=1913968)|[DL](https://pixeldrain.com/u/ujUzJAvu)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/39/1913968/thumbnail)
@@ -22,7 +20,7 @@
 **CHARCOAL Pack**| [1895565](https://assets.clip-studio.com/en-us/detail?id=1895565)|[DL](https://pixeldrain.com/u/FfVtR88X)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/55/1895565/thumbnail)
 **Crystal brush**|[1788949](https://assets.clip-studio.com/en-us/detail?id=1788949)|[DL](https://pixeldrain.com/u/N1xZd7P1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/89/1788949/thumbnail)
 **MAGUPEN**|[1910059](https://assets.clip-studio.com/en-us/detail?id=1910059)|[DL](https://pixeldrain.com/u/uFB8HieF)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/00/1910059/thumbnail)
-**Gel pen/color presets**|[1738505](https://assets.clip-studio.com/en-us/detail?id=1738505)|[DL](https://pixeldrain.com/u/rAss34w4)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail)
+**Gel Ink Ballpoint pen Style ver. 3 (ｹﾞﾙｲﾝｸﾎﾞｰﾙﾍﾟﾝ風のペンver.3)**|[1738505](https://assets.clip-studio.com/en-us/detail?id=1738505)|[DL](https://pixeldrain.com/u/rAss34w4)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/85/1738505/thumbnail)
 **Write Brush 3set**|[1907024](https://assets.clip-studio.com/en-us/detail?id=1907024)|[DL](https://pixeldrain.com/u/bveLPyyc)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/70/1907024/thumbnail)
 **LeafPens(old ver)**|[1765961](https://assets.clip-studio.com/en-us/detail?id=1765961)|[DL](https://pixeldrain.com/u/WDFjuBii)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/61/59/1765961/thumbnail)
 **LeafPens (new ver)**|[1911861](https://assets.clip-studio.com/en-us/detail?id=1911861)|[DL](https://pixeldrain.com/u/sw7YKHpA)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/61/18/1911861/thumbnail)
@@ -119,8 +117,18 @@
 **Hororo 2 Color pen [set] (ほろろ2色ペン[セット])**|[1909570](https://assets.clip-studio.com/en-us/detail?id=1909570)|[DL](https://pixeldrain.com/u/gVcMnX9b)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/95/1909570/thumbnail?1649437469)
 **Water balloon pattern brush [set] (水風船の柄ブラシ[セット])**|[1935334](https://assets.clip-studio.com/en-us/detail?id=1935334)|[DL](https://pixeldrain.com/u/HZLj72QZ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/34/53/1935334/thumbnail?1659701954)
 **Wave brush to the beach [set] (浜辺に寄せる波ブラシ[セット])**|[1949108](https://assets.clip-studio.com/en-us/detail?id=1949108)|[DL](https://pixeldrain.com/u/iqh6TaPy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/91/1949108/thumbnail?1662993863)
+**drawing set (お絵かきセット)**| [2016926](https://assets.clip-studio.com/en-us/detail?id=2016926)|[DL](https://pixeldrain.com/u/Dr1LVWWQ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/69/2016926/thumbnail?1689519863)
+**New Stretch atmosphere Brush set (Ｎｅｗのばし雰囲気ブラシセット)**| [1803317](https://assets.clip-studio.com/en-us/detail?id=1803317)|[DL](https://pixeldrain.com/l/UshWLnVw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/33/1803317/thumbnail?1607217905)
+**SOE PEN**|[1859241](https://assets.clip-studio.com/en-us/detail?id=1859241)|[DL](https://pixeldrain.com/u/LU2CEfBi)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/92/1859241/thumbnail)
+**YOTTI PEN2 Yottipen2 (YOTTI PEN2 욧띠펜2)**|[1809923](https://assets.clip-studio.com/en-us/detail?id=1809923)|[DL](https://pixeldrain.com/u/SezgEJSD)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/23/99/1809923/thumbnail)
+**YOTTI GPEN G-Pen (YOTTI GPEN 욧띠G펜)** |[1758388](https://assets.clip-studio.com/en-us/detail?id=1758388)|[DL](https://pixeldrain.com/u/DdYsMoWW)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/83/1758388/thumbnail)
+**241PEN** |[1933558](https://assets.clip-studio.com/en-us/detail?id=1933558)|[DL](https://pixeldrain.com/u/8wqnpaDQ)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/58/35/1933558/thumbnail)
+**soft blend.**|[1977417](https://assets.clip-studio.com/en-us/detail?id=1977417)|[DL](https://pixeldrain.com/u/A3oUW9Rn)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/74/1977417/thumbnail)
+**Blending skin shading brush** |[1825597](https://assets.clip-studio.com/en-us/detail?id=1825597)|[DL](https://pixeldrain.com/u/k7chnvWT)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/55/1825597/thumbnail)
+**leaves and grasses**|[1829085](https://assets.clip-studio.com/en-us/detail?id=1829085)|[DL](https://pixeldrain.com/u/ps1gS8yq)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/90/1829085/thumbnail?1664129320)
 ****|[]()|[DL]()|![]()
-****|[]()|[DL]()|![]()
+|||
+
 
 -> [**[TOP]**]() ->
 
@@ -146,6 +154,7 @@
 **add color on the terminator**|[2011252](https://assets.clip-studio.com/en-us/detail?id=2011252)|[DL](https://pixeldrain.com/u/as9MJaEC)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/12/2011252/thumbnail?1687634088)
 **Better Pattern Blending**|[2011445](https://assets.clip-studio.com/en-us/detail?id=2011445)|[DL](https://pixeldrain.com/u/ueq2wjaz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/14/2011445/thumbnail?1687774147)
 **add color on the shadow edge**|[2011527](https://assets.clip-studio.com/en-us/detail?id=2011527)|[DL](https://pixeldrain.com/u/rfDid19y)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/15/2011527/thumbnail?1687827530)
+****|[]()|[DL]()|![]()
 
 -> [**[TOP]**]() ->
 
@@ -166,6 +175,7 @@
 **Gauze pen with a deep depth**| [1872642](https://assets.clip-studio.com/en-us/detail?id=1872642)|[DL](https://pixeldrain.com/u/Z1BFEPS1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/26/1872642/thumbnail)
 **Pandemonium Shambles Pen**|[1778290](https://assets.clip-studio.com/en-us/detail?id=1778290)| [DL](https://files.catbox.moe/fswzaq.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/82/1778290/thumbnail)
 **All out for the pandemonium pen**| [1820131](https://assets.clip-studio.com/en-us/detail?id=1820131)|[DL](https://pixeldrain.com/u/ZVH5ETSb)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/01/1820131/thumbnail)
+****|[]()|[DL]()|![]()
 
 ### [crunchylemonades](https://assets.clip-studio.com/en-us/search?user=crunchylemonades)
  Name | Store Link | DL | Thumbnail
@@ -182,6 +192,7 @@
 **♥︎ dotties pencil**|[1998919](https://assets.clip-studio.com/en-us/detail?id=1998919)|[DL](https://pixeldrain.com/u/Q2KSkQiw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/89/1998919/thumbnail?1682711902)
 **Andy ♥︎ Pencil**|[2005653](https://assets.clip-studio.com/en-us/detail?id=2005653)|[DL](https://pixeldrain.com/u/7HFVZDha)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/56/2005653/thumbnail?1685556161)
 **・ d0ttie!tones brushes [v2] ・**|[2010200](https://assets.clip-studio.com/en-us/detail?id=2010200)|[DL](https://pixeldrain.com/u/U23fvuaS)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/02/2010200/thumbnail?1687215857)
+****|[]()|[DL]()|![]()
 
 
 -> [**[TOP]**]() ->

@@ -6,8 +6,6 @@
 ->*What is thine Intereste?*<-
 
 
-привет анону с двача, почта mavenpacifist@proton.me
-
 Anybody reads this stuff? Okay, I'm **AVAKSon#0498** and I do some characters for Pygmalion Discord server. I think I do an amazing job, so check stuff I did below. Most of it is characters from Fate franchise, and most of them is NSFW, but you can find some random non-Fate and SFW stuff here also.
 
 Small disclaimer: there is an "old" chars that was written in W++, and "new" chars that is written in PList+AliChat, and new ones perform better. Maybe someday I will rewrite old ones, I dunno - I have a lot of shit to do for now.

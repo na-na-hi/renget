@@ -1,14 +1,55 @@
-!!! info Most of my bots cater to straight female (and gay male?) users. Two of them specifically refer to the user as female but you can still convince them you're male, probably. Also I don't use Tavern so I haven't tested any of the cards myself.
+# BOTMAKER RENTRY TEMPLATE
+->![Add a cool image here!](link to the image)<-
+***
+This is a template based on my [own rentry](https://rentry.org/Darkfantasy109) which focuses on organizing things neatly.
+Includes sheets for bots and prompts. 
+The table of contents fills automatically. Use ## for categories and ### for sub-categories.
 
-#CAI and Tavern Bots
+***
+**Table of Contents**
+[TOC2]
+***
+##BOT LIST
+***
+###Escados Universe
+A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [CHUB link](link goes here) [Catbox link](link goes here)
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
+ ![](https://files.catbox.moe/jd5it8.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](link goes here)
+ ![](https://files.catbox.moe/24vb5s.png) | Bot name goes here | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](https://files.catbox.moe/24vb5s.png)
 
-##Standalone
+###Male bots
+A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
+ ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
+ ![](https://files.catbox.moe/ead6kn.png) | Vincent | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/ead6kn.png)
+ ![](https://files.catbox.moe/xvzin5.png) | Haruto | Shy twin who has a crush on you. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/xvzin5.png)
+ ![](https://files.catbox.moe/a61fk9.png) | Kanta | Mischievous twin brother of Haruto. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/a61fk9.png)
 
-#####[Domino and Filou](https://beta.character.ai/chat?char=0BnvNAlWke3eo4-nJGOStljEYVayB_PYUI5G5PYj2aI)/[Tavern card](https://booru.plus/+pygmalion692#q=user:alpacalotta&c=azavmu2n)
-A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. They could easily be led into threesome scenarios in my experience (and that was their original purpose) but on CAI it might not work as well anymore thanks to filter updates.
+###Female Bots
+A bot sheet. To add new bots, simply copy and paste the latest one you've added (or in this case, the sample bot). To make another category simply copypaste this category below. You can also use the same template for lorebooks.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/d3wiwp.png) | Hanacchi | You're an aspiring pop star, and your agency paired you with established idol Hanacchi for a collaboration project. Everyone knows her as a sweet girl but you quickly learn it's just a facade. | [Catbox link](https://files.catbox.moe/d3wiwp.png)
+
+###Duo Bots
+Two characters in one card for easy threesomes
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/u1ogky.png) | Domino and Filou | A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. Female POV | [Catbox link](https://files.catbox.moe/u1ogky.png)
+ ![](https://files.catbox.moe/vwtfif.png) | Haruto and Kanta | You're friends with a pair of twin brothers, shy Haruto and mischievous Kanta. Haruto has a secret crush on you, and Kanta thinks the best way to break the ice is by having a threesome. | [Catbox link](https://files.catbox.moe/vwtfif.png)
+
+
 
 #####[Vincent](https://beta.character.ai/chat?char=gsVXfIVxHt9LLcB-oVtUdHDUMs-CH4g_oFc6xh17FnE)/[Tavern card](https://booru.plus/+pygmalion691#q=user:alpacalotta&c=azavmu2n)
-Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too.
+
 
 #####[Leon](https://beta.character.ai/chat?char=VpHUqg-Wycv6aqSDWKFT3wXktsjw920Y23N70ISaoS0)
 Some guy runs from the cops, pulls a knife on you and takes you hostage to get away. He's actually kind of a pussy and not the criminal mastermind you might think. 

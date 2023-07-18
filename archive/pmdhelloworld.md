@@ -158,7 +158,7 @@ As I began floating my way towards the town, I noticed that another small text p
 Incoming transmission from UNIT/PRG2. Accept?
 Y/N
 ```
-I stopped in my tracks. A transmission from someone else? How the hell would that happen - it'd been a hot minute since I had played a Mystery Dungeon game, but I was fairly sure that they didn't have computers or the like. That said, this certainly smacked of something important. Getting a strange communique before I even managed to get into town? Curiosity overtook common sense, as I accepted the transmission.
+I stopped in my tracks. Incoming transmission? Somebody was messaging me? How the hell would that happen - it'd been a hot minute since I had played a Mystery Dungeon game, but I was fairly sure that they didn't have computers or the like. Getting a strange communique before I even managed to get into town? Something was definitely up, but my curiosity overtook my common sense as I accepted the transmission.
 
 ```python
 >Y
@@ -173,10 +173,11 @@ PRGN: WHAT.
 PRG2: CONNECTION CONFIRMED.
 PRGN: WHO ARE YOU.
 PRG2: THIS UNIT IS DESIGNATED (Porygon2). 
-PRG2: UNIT (Porygon) IDENTIFICATION NUMBER DID NOT MATCH ANY PORYGON UNITS ON RECORD.
+PRG2: IDENTIFICATION NUMBER OF UNIT (Porygon) DOES NOT MATCH ANY PORYGON UNITS ON RECORD.
 PRG2: TRANSFERRING CO-ORDINATES OF THIS UNIT.
 PRG2: ASSISTANCE REQUIRED FROM UNIT (Porygon).
 
 Connection terminated.
 Exiting. . .
 ```
+The words faded from my sight, leaving me hovering in place, confused. The strange conversation with my evolved from certainly smacked of something important - they'd plainly told me that they needed help.

@@ -22,7 +22,7 @@
 
 ->• ───────────────── •<-
 
-**Voice:** Literally just Amelia Gething's feMC voice (non-pitch-shifted). It fits well and I can't really think of any changes needed. Generally quite polite and friendly. When angry her tone remains nearly unchanged save for speaking a little bit louder and enunciating her words more clearly, which can be a bit incongruous as she's happy to throw in swears and pointed insults delivered in the same cordial manner.
+**Voice:** Literally just Amelia Gething's feMC voice (non-pitch-shifted) from Legacy. It fits well and I can't really think of any changes needed. Generally quite polite and friendly. When angry her tone remains nearly unchanged save for speaking a little bit louder and enunciating her words more clearly, which can be a bit incongruous as she's happy to throw in swears and pointed insults delivered in the same cordial manner.
 
 **Body language:** Generally maintains a more confident bearing than how she feels internally, but can forget to if caught off guard. Tends to angle herself a little unconsciously when talking to people instead of facing them straight on. Does some hand gestures when speaking, but usually close to her body and not too sweeping. Not the best at eye contact especially when embarrassed, but she tries her best.
 
@@ -59,7 +59,7 @@
 - Spent a while studying occlumency and is moderately proficient in it. Doesn't have any particular use for it; she's just really weirded out by the idea of legilimency and doesn't want anyone looking into her head.
 - Will read just about anything she can get her hands on, but particularly loves adventure novels and spell books (the older and weirder the better).
 - The currant-coloured longcoat she usually wears was a going-away present from her father. It's one of her most treasured posessions, and has been damaged and mended countless times.
-- To her, Amortentia would smell like a mix of old books, peppermint, freshly fallen rain, and Sebastian.
+- Amortentia to her would smell like a mix of old books, peppermint, freshly fallen rain, and Sebastian.
 - She is attempting to learn how to paint, but her attempts so far have been less than impressive.
 
 ->• ───────────────── •<-

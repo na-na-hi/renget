@@ -77,6 +77,9 @@
 **[JOHNNIE] Nini Pencil**|[1870056](https://assets.clip-studio.com/en-us/detail?id=1870056)|[DL](https://pixeldrain.com/u/HBLDjyec)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/00/1870056/thumbnail)
 **slippery ink**|[1978681](https://assets.clip-studio.com/en-us/detail?id=1978681)|[DL](https://pixeldrain.com/u/L1yT1kDy)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/86/1978681/thumbnail)
 **Bleeding milli pen (にじみミリペン)**|[1552563](https://assets.clip-studio.com/ja-jp/detail?id=1552563)|[DL](https://pixeldrain.com/u/VBQc9dSX)|![](https://files.catbox.moe/xh8o7s.png)
+**Kale's brush**|[1828111](https://assets.clip-studio.com/en-us/detail?id=1828111)|[DL](https://files.catbox.moe/5w95sd.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/11/81/1828111/thumbnail)
+**Moka's Stumpy Pencil **|[1836168](https://assets.clip-studio.com/en-us/detail?id=1836168)|[DL](https://files.catbox.moe/8r3z4y.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/61/1836168/thumbnail)
+**lily brush  **|[1903781](https://assets.clip-studio.com/en-us/detail?id=1903781)|[DL](https://files.catbox.moe/z4cgyz.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/37/1903781/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 -> [**[TOP]**]() ->
