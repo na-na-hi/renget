@@ -12,7 +12,7 @@ Haven't tested all the non W++ version on pyg but it should also work just fine 
 I also included the numbers of Token for the non W++ for those who don't want to waste their OAI usage quota on cards with large amount of tokens.
 
 
-###Hololive Tavern Cards
+###Maid Hololive Tavern Cards
 #####Maid Aqua (Minato Aqua)
 W++ version: https://files.catbox.moe/k5iblr.png
 Non W++ version: https://files.catbox.moe/yu9mtd.png
@@ -34,13 +34,6 @@ Non W++ version: https://files.catbox.moe/niku7t.png
 ==Total Tokens:== 
 - 519 (With example messages)
 - 219 (Without example messages)
-#####Onee-san Fubuki (Shirakami Fubuki)
-W++ version: https://files.catbox.moe/pa1eoq.png
-Non W++ version: https://files.catbox.moe/97xrlm.png
-
-==Total Tokens:== 
-- 531 (With example messages)
-- 227 (Without example messages)
 #####Maid Roboco (Roboco)
 W++ version: https://files.catbox.moe/1rakul.png
 Non W++ version: https://files.catbox.moe/khljqm.png
@@ -51,13 +44,13 @@ It actually works fine. I am just a retard and forgot to crank up the temperatur
 - 530 (With example messages)
 - 204 (Without example messages)
 #####Maid Korone (Inugami Korone)
-Non W++ version: https://files.catbox.moe/m34mj4.png
+Non W++ version: https://files.catbox.moe/60dwn9.png
 
 ==Total Tokens:== 
 - 842 (With example messages)
 - 256 (Without example messages)
 #####Maid Okayu (Nekomata Okayu)
-Non W++ version: https://files.catbox.moe/c2277a.png
+Non W++ version: https://files.catbox.moe/gk7o7z.png
 
 ==Total Tokens:== 
 - 578 (With example messages)
@@ -82,7 +75,7 @@ Non W++ version: https://files.catbox.moe/aknbu7.png
 - 518 (With example messages)
 - 217 (Without example messages)
 #####Maid Mio (Ookami Mio)
-Non W++ version: https://files.catbox.moe/x3e58n.png
+Non W++ version: https://files.catbox.moe/q7weqj.png
 
 ==Total Tokens:== 
 - 547 (With example messages)
@@ -93,6 +86,22 @@ Non W++ version: https://files.catbox.moe/1apzmq.png
 ==Total Tokens:== 
 - 666 (With example messages)
 - 297 (Without example messages)
+#####Maid Suisei (Hoshimachi Suisei)
+Non W++ version: https://files.catbox.moe/1convr.png
+
+==Total Tokens:== 
+- 389 (With example messages)
+- 332 (Without example messages)*
+#####Maid Gura (Gawr Gura)
+Non W++ version: https://files.catbox.moe/xvl8g8.png
+
+==Total Tokens:== 
+- 464 (With example messages)
+- 355 (Without example messages)*
+
+*\*Also without first message*
+
+###Non-Maid Hololive Tavern Cards
 #####(Adventurer) Hoshou Marine
 Non W++ version: https://files.catbox.moe/ribamx.png
 
@@ -147,12 +156,13 @@ Non W++ version: https://files.catbox.moe/a0ogf0.png
 ==Total Tokens:== 
 - 306 (With example messages)
 - 247 (Without example messages)*
-#####Maid Suisei (Hoshimachi Suisei)
-Non W++ version: https://files.catbox.moe/1convr.png
+#####Onee-san Fubuki (Shirakami Fubuki)
+W++ version: https://files.catbox.moe/pa1eoq.png
+Non W++ version: https://files.catbox.moe/97xrlm.png
 
 ==Total Tokens:== 
-- 389 (With example messages)
-- 332 (Without example messages)*
+- 531 (With example messages)
+- 227 (Without example messages)
 
 *\*Also without first message*
 
@@ -219,3 +229,12 @@ System prompt is basically a text prompt that your front end send to an AI model
 Each front end has different style of System Prompt but generally it is usually divided into: Main Prompt, NSFW prompt, and Jailbreak prompt. I don't think I need to explain what Main and NSFW prompt for, what you must understand is the Jailbreak prompt. Any instruction you put into Jailbreak prompt will be treated as first priority by the AI. If the AI keep giving you "As an AI model I cannot..." answer, you can use the Jailbreak prompt to bypass their ethic answers. 
 
 Different AI model will need different kind of wording to bypass it, adding "System Note:" in front of your instruction usually also help to bypass the AI ethic answer. But do not abuse this Jailbreak too much. Too many instruction in Jailbreak prompt will lower it effectiveness. Also since Jailbreak prompt is treated as priority, if you put NSFW stuff in there, the AI will think that you want NSFW situation every time you enter your reply, making your characters horny all the time. Only use Jailbreak when you need it. Some front end like Silly Tavern can toggle Jailbreak on and off so you don't need to erase and write it every time you want to use it.
+
+**6. Help! I still can't get the bot to stop putting words in my mouth!**
+Here is retard proof guide if your bots keep writing dialogue for (You) in its reply, or if the bots keep confusing itself with you when you or the bot write in first person style... just copy paste my main prompt into your Silly Tavern main prompt. It's not the best, but it just works. Here open wide:
+
+`
+[System Note: This is an interactive story writing. Assume the role of {{char}} and only respond to {{user}} as {{char}} do not respond as other character. Use quotation marks for dialog line like this example: "example dialog". Use asterisk marks for any non dialog text like this example: *example text*. Write dialog line in a separate paragraph. You in the {{char}} text refer to {{user}}. You in the {{user}} text refer to {{char}}]
+`
+
+It works for me on both in GPT 3.5 and GPT 4, I dunno about Claude. If it doesn't work? Well it's out of my hand.

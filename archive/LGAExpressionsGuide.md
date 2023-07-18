@@ -14,13 +14,12 @@ Link: ![Sarah -Road Trip Edition-](https://www.chub.ai/characters/LongGameAnon/s
 ---------------------------
 ##Step 2: Adding the Bot and Expressions to your Silly
 Now that you have downloaded the bot and the expression pack. Go to your Silly Tavern and import both.
-The way will import is manually into our character folder.
-1.) Go to your SillyTavern\public\characters  folder.
-2.) Place the Character Card and the Extracted Expressions files there. Pictured below.
-![Example files](https://i.imgur.com/0cuMcnh.png)
-3.) Open Silly Tavern then Load up the Sarah bot.
-4.) Once the bot is loaded click the triple stacked boxes. Then click the **Character Expressions** dropdown. It should look like Pictured below.
+1.) Import your bot (I think majority of you know how to do it)
+2.) Select the bot you want the emotions to be set with.
+3.) Once the bot is loaded click the triple stacked boxes. Then click the **Character Expressions** dropdown. It should look like Pictured below but without the pictures.
 ![Where to click](https://i.imgur.com/FZl9Gar.jpg)
+4.) Click the **upload sprite pack .zip** file button. Then select the .zip file your expressions was packed with when you downloaded it. This will load the expressions in and create a matching file inside your /public/characters/ folder.
+![Import as zip](https://i.imgur.com/g2t6tvr.jpg)
 5.) Ensure that the expressions show.
 *Expressions are matched to the character based on the name of the folder matching the name of the bot.*
 -------------

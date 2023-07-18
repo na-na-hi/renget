@@ -4,7 +4,7 @@
 !!! info
     -> No fun allowed! <-
     -> Old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs. <-
-    -> Mods are still power tripping pissants so make them earn their paycheck. Jannies do it for free. <-
+    
    
     
 ##Server: NA

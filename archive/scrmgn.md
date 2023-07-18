@@ -1,6 +1,6 @@
 # Scrmgn's Bots
 Welcome to my chatbot rentry.  I focus on recreating established characters from some franchises that I like and think have some potential for a fun chat.  Most are SFW by default, but might include some gentle pushes towards NSFW.  I've included a couple Character AI links for my oldest bots for novelty, I won't be creating any new bots for their service.  Tavern cards are just much more flexible and compatible with other (better) chat engines. 
-!!! info GPT-3.5, GPT-4 or equivalent are recommended for the best results.
+!!! info Claude or GPT-4 or equivalent are recommended for the best results.
 ##Changelog
 - 7/3/23 Update:  Added Hex Maniac, V2 update for Jessica Rabbit (extra intros)
 - 6/22/23 Update:  Added Callie Briggs

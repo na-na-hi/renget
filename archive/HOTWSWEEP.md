@@ -37,6 +37,7 @@ Isha, Princess of the Verzon Tribe (Neo-Barbarian): https://archive.4plebs.org/t
 Hannah Ossus (Neo-Barbarian): https://archive.4plebs.org/tg/post/89452789 
 #### High Seas
 Tuma (Mutant): https://archive.4plebs.org/tg/post/89422176
+Taissa(Mutant): https://desuarchive.org/tg/thread/89599363/#89604815
 #### Green Zone
 Alexander S. Luthor (Bunker-Baby): https://archive.4plebs.org/tg/post/89406647
 #### City Ruins

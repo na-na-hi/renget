@@ -225,6 +225,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Teams Team Up pt.3 (ft. Chespin)](https://rentry.org/qt5wu) 
 	* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
 	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
+	* [Chespin's Week](https://rentry.org/chespinsweek) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -471,6 +472,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sterling's Purpose ch.4](https://rentry.org/bdc4o)
 * {||} [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 * {||} [Sterling's Purpose ch.5](https://rentry.org/m36g2z)
+* {||} [Chespin's Week](https://rentry.org/chespinsweek)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

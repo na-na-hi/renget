@@ -40,6 +40,7 @@ Giftscop | [PRESS START](https://giftscop.com/)
 The uncle who works for nintendo | [PRESS START](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
 creepypasta land | [PRESS START](https://gamejolt.com/games/creepypasta-land/40233)
 POLYBIUS | [PRESS START](https://store.steampowered.com/app/906120/POLYBIUS/)
+Pacm̬̦̩̹̌͢a̪͓̮̼͍̗͑̿ͫn̛̥͈ͅ | [PRESS START](https://berickcook.itch.io/pacman)
 
 ##.exe Games
 Games List | Links

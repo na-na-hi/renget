@@ -2,6 +2,6 @@
 
 plan on maybe maybe doing/ shilling/idk more stuff. 
 !!!info
-    ->cooking SDs for anons in my spare time.<-->burner for you: proxie3541@proton.me<-
+    ->cooking SDs for anons in my spare time.<-->burner for you: proxie3541@proton.me<-->do reach out ;)<-
 
 oppai loli shill: https://rentry.org/OppaiLolli
