@@ -3,6 +3,8 @@
 [TOC]
 
 #Pending Requests
+1. Smith eating grimy food (he loves it)
+1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)
 1. Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!"
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head

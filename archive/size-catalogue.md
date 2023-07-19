@@ -341,10 +341,12 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 ### Comics
 Cover    | Name | Description | Tags | Relevance | Mirrors
 --- | --- | --- | --- | --- | ---
+![]() | Archie's Madhouse #42 | | SFW, F&m, inherent, inhuman | Topic |
 ![](https://thumbs2.imgbox.com/2e/55/d9oyxjNv_t.jpg) | Beautiful Darkness | In the story, people the size of fruit flies are expelled from their home and thrust outside into the woods. The novel tells the tale of Aurora, a sweet girl who finds herself taking a leadership role in the community of tiny people. | SFW*, mf, inherent | Topic |
 ![](https://thumbs2.imgbox.com/53/c2/sJvIb30I_t.jpg) | Big Girls | When men become giant monsters hellbent on destroying the world, only girls can stop them—BIG GIRLS. Meet Ember—she writes poetry, loves to read, and she’s a 300-foot-tall full-time monster killer! She and the other big girls are all that stand in the way of our world’s complete annihilation! | SFW, FM&fm, growth | Topic |
 ![](https://thumbs2.imgbox.com/08/1d/1Qh5P9tr_t.jpeg) | Big 'Uns | This book was created to satisfy the snowballing fascination with giant-sized women, and we've got 'em wall-to-wall with 5- COUNT 'EM-5 super-economy sized females-each one bigger and more beautiful than the one before!! | SFW, F&m, growth, inherent | Topic |
 ![](https://thumbs2.imgbox.com/f8/1c/4M7UYdOf_t.jpg) | Gargantarama | | SFW*, F&m, inherent, growth | Topic |
+![]() | Mysteries of Unexplored Worlds | | SFW, (M&m, shrinking, growth, #1), (m, inherent, inhuman, #2), (F&m, inherent #3), (F&m, M&m, inherent, #8), (m, inherent?, #9), (M&m, inherent, #10), (M&m, inherent, inhuman, #15), (M&m, inherent, inhuman, #19), (FM&m, inherent, #23) | Topic (issues #1, #2, #3), Antagonist (issues #23), Supporting (issues #8, #10, #19), Coverart (issues #9), ? (issues #15) |
 ![](https://thumbs2.imgbox.com/13/72/AuQCa5Jt_t.jpeg) | Femzine (1981) | Prelude to FEM FORCE “First historic issue of this long-running independant comics smash hit from the creative genius of Bill Black. Initial offering of the only successful ongoing series ever to feature a team of super-powered women. | SFW*, F&m, growth | Protagonist (issues #2, #3) |
 ![](https://thumbs2.imgbox.com/f0/82/yTTy9oNc_t.jpg) | Femforce | Femforce is a comic book published by AC Comics that began publication in 1985, detailing the adventures of the titular team: the "Federal Emergency Missions Force" or "Femforce", some of them original creations, while others originated in the 1940s and 50s, lapsing into public domain by the time Femforce was published. The team are, as their name implies, all female superheroes, and are the first and the longest running all-women 'super-team'. | SFW, FM&fm, inherent, shrinking, growth, miniGTS | Topic, Protagonist, Supporting, (issues #1, #2, #29, #30, #32, #35, #36, #43, #47, #49, #50, #52, #58, #63, #64, #66, #71, #73, #75, #77, #83, #88, #100, #101, #102, #105, #106, #111, #114, #116, #117, #118, #129, #158, #162) |
 
@@ -382,7 +384,6 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Justice League Quarterly Volume 3
  * Legionnaires | Features the superhero Shrinking Violet
  * Life With Archie #35
- * Archie's Madhouse #42
  * Mystery in Space #49
  * Teenage Mutant Ninja Turtles Saturday Morning Adventures #04
  * Richie Rich Vaults of Mystery #42
@@ -401,7 +402,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Fantastic Four | #236, #248
  * Space 1999 #5 | [1](https://comicvine.gamespot.com/space-1999-5/4000-16460/)
  * Star Trek #53
- * Mysteries of Unexplored Worlds | quite a few here!
+ * Mysteries of Unexplored Worlds | quite a few here! TODO: >#26
  * Conan | [1](https://desuarchive.org/co/thread/138314812/#138328076)
  * The Ogre Gods
  * Green Lantern Quarterly.#5
@@ -598,6 +599,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The Herculoids | s01e07b
  * Space Ghost | s01e04a
  * Space Stars | space ghost segments 1 and 13
+ * Gawayn 
  * A Kind of Magic | ? no episodes listed
  * Adventure Time | Canyon
  * Alice's Wonderland Bakery - s01e01a
@@ -763,6 +765,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Dollman (1991)
  * The Indian In The Cupboard
  * The Secret Kingdom (1998) | minor 
+ * Welcome to Marwen
 
 #### Minor
  * Attack of the 50 Foot Hooker | short rampage at the end

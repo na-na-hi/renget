@@ -1,6 +1,7 @@
 #SisyphusJanus's Bots
 ***
 Beginner botmaker, request bots or send feedback on how shit my bots are at SisyphusJanus@proton.me
+Got banned from /g/ for troll posts(?) for a couple days, not sure as to why. Will be back soon
 ***
 [TOC2]
 ***

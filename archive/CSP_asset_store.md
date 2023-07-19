@@ -126,6 +126,7 @@
 **soft blend.**|[1977417](https://assets.clip-studio.com/en-us/detail?id=1977417)|[DL](https://pixeldrain.com/u/A3oUW9Rn)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/17/74/1977417/thumbnail)
 **Blending skin shading brush** |[1825597](https://assets.clip-studio.com/en-us/detail?id=1825597)|[DL](https://pixeldrain.com/u/k7chnvWT)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/55/1825597/thumbnail)
 **leaves and grasses**|[1829085](https://assets.clip-studio.com/en-us/detail?id=1829085)|[DL](https://pixeldrain.com/u/ps1gS8yq)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/90/1829085/thumbnail?1664129320)
+**Knipen custom **|[1853448](https://assets.clip-studio.com/en-us/detail?id=1853448)|[DL](https://files.catbox.moe/hqojny.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/34/1853448/thumbnail)
 ****|[]()|[DL]()|![]()
 |||
 

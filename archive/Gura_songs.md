@@ -3,7 +3,8 @@
 ### Songs
 ->Members<- | ->Date<- | ->Youtube<-
 ---- | ---- | ----
-->🐻🌽🐔🔱⚓️🔮☄️💫🎨-> | ->2023-07-01<- | [![cover](https://files.catbox.moe/zcdejm.jpg)  青春アーカイブ](https://www.youtube.com/watch?v=YzQCNmk3YYA)
+->🔱🍙-> | ->2023-07-06<- | [![cover](https://files.catbox.moe/v38in0.jpg)  真生活](https://www.youtube.com/watch?v=beFiVQcwVY8)
+->🐻🌽🐔🔱⚓️🔮☄️💫🎨-> | ->2023-07-01<- | [![cover](https://files.catbox.moe/ek2962.jpg)  青春アーカイブ](https://www.youtube.com/watch?v=YzQCNmk3YYA)
 ->💀🐔🐙🔱🔎💎🌿⏳🪶🎲-> | ->2023-06-15<- | [![cover](https://files.catbox.moe/drcjdg.jpg)  Connect the World](https://www.youtube.com/watch?v=bitH6NZ_e2Q)
 ->🎲🔱 ->| ->2023-02-16<- | [![cover](https://files.catbox.moe/h17ga3.jpg)  Sweet Appetite](https://www.youtube.com/watch?v=8dzJS6r2qzU)
 ->🐔🔱🔎💎 ->| ->2022-12-21<- | [![original](https://files.catbox.moe/z334k8.jpg)  Snow halation](https://www.youtube.com/watch?v=FPzV-3vLRd8)

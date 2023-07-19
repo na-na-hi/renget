@@ -44,3 +44,16 @@ https://rentry.org/ozfzb
 
 >Chise's experiments
 https://rentry.org/z7p93
+
+>Political compass macro's
+authright bun: https://rentry.org/8zsip
+libright wolf: https://rentry.org/essvm
+libleft poss: https://rentry.org/vfxx9
+authleft fox: https://rentry.org/z4brm
+centrist labrador: https://rentry.org/7kams
+
+>A date with foxanon
+https://rentry.org/ds8xw
+
+>Shrunk at the convention
+https://rentry.org/26926

@@ -356,3 +356,10 @@ https://arch.b4k.co/vp/thread/54083079/ 24 aw shit here we go again
 https://arch.b4k.co/vp/thread/54086575/ 25 what the fuck
 https://arch.b4k.co/vp/thread/54092082/ 26 convoluted bullshit
 https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
+
+##Wagiedos's Desolation Nuzlocke
+!!! info Status: Ongoing
+    It's a nuzlocke of Desolation ran by the other main tripfag, Wagiedos. Hopefully this attempt won't cause Wagie to ragequit due to padding and shitty mapping.
+    There's pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause will apply instead.
+
+https://arch.b4k.co/vp/thread/54113040/ 1 it's beginning
