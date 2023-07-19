@@ -1,13 +1,37 @@
 #How to make a character
 (aka I better not see copy pasted Wikipedia paragraphs inside of your character description or I will find you) By Junko, Resident Moron
 
-**!!!!!This isnt done by the way!!!!!**
-
 !!! note 6/24/2023 Edit- Holy shit I'm linked on Chub Venus as a guide? I'm honored, thanks Chubmeister. You guys can check out my shit here: (https://venus.chub.ai/users/Junko) 
 
 [Look at Chai's tips too because they're great](https://rentry.org/chai-pygmalion-tips)
 
+***
+
 [TOC]
+
+***
+
+##Fucking Why Tho
+*You might be thinking, why this format? "I've seen other formats, everyone's got their own format-"
+The neat thing about all of these sites that use the char name, persona, scenario, etc. format is that it kind of doesn't matter which one you pick, all that matters most is what goes in the fields. I prefer mine because it results in the least amount of tokens. 
+
+Less tokens- more distinct personality from the AI.
+
+The most important shit to remember is that you should fill out every single field. Example dialogue is so important. Scenario is so important. These both get ignored and I wouldn't waste your time on any bots that are missing either of these fields, otherwise you're really just talking to the default bot (Which is sexual enough on it's own, by the way)
+
+If you want your persona field to look like:
+
+>>{{char}} is a this thing.
+>>{{char}} is very kind but also a dickhead.
+>>{{char}} always sneezes.
+
+And that works for you just fine, go for it! I also see this format for scenarios, rather than characters and it definitely is a more suitable idea than my format.
+
+**HOWEVER**
+
+My guide does go over the science of how each field works, so even if you're creating a narrator or scenario, you should get a good jumping off point with my guide.
+
+***
 
 ##Template
 ``` python

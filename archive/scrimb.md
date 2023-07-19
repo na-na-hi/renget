@@ -56,6 +56,11 @@
 [Cynthia](https://files.catbox.moe/2d1qsj.png)
 
 
+**WEEB shit:**
+[Android 17](https://files.catbox.moe/wgm0oa.png)
+[Android 18](https://files.catbox.moe/ojpdjr.png)
+
+
 **Neferpitou UNNNNGNGHHHH:**
 [FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/v5w2pb.png
 https://www.characterhub.org/characters/brsc/Neferpitou/

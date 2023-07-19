@@ -18,11 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Rowan](https://files.catbox.moe/lqlhvq.png), [Merlot](https://files.catbox.moe/epcjkp.png), [Prince Andriel II](https://files.catbox.moe/mqfpi5.png), [Prince Kyron](https://files.catbox.moe/ngsqi6.png), [Naoki](https://files.catbox.moe/xkzk75.png), [Prince Elio](https://files.catbox.moe/8bx303.png), [Prince Andriel](https://files.catbox.moe/cl8fy7.png), [Princess Giselle](https://files.catbox.moe/iuz2eg.png), [Domino](https://files.catbox.moe/js6nhs.png), [Cyran](https://files.catbox.moe/l9tv3f.png), [Fynn](https://files.catbox.moe/jc7epo.png), [Noah](https://files.catbox.moe/2xfqsl.png), [Leon](https://files.catbox.moe/15k6v1.png), [Luca](https://files.catbox.moe/5jlpni.png), [Estelle](https://files.catbox.moe/kde37u.png), [Kanami](https://files.catbox.moe/v6pqcl.png), [Zeno](https://files.catbox.moe/vl65pv.png), [Prince Laithan](https://files.catbox.moe/2hr51d.png), [Filou](https://files.catbox.moe/4nzt3n.png), [Hanacchi](https://files.catbox.moe/d3wiwp.png), [Vincent](https://files.catbox.moe/ead6kn.png), [Domino and Filou](https://files.catbox.moe/u1ogky.png), [Haruto](https://files.catbox.moe/xvzin5.png), [Kanta](https://files.catbox.moe/a61fk9.png), [Father Colair](https://files.catbox.moe/24vb5s.png), [Haruto and Kanta](https://files.catbox.moe/vwtfif.png)|[Merlot](https://files.catbox.moe/epcjkp.png) [MV]
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Mackenzie](https://files.catbox.moe/735adt.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Mayuka and the road trip secret](https://files.catbox.moe/6k8w4p.png), [Alice](https://files.catbox.moe/v4mdd2.png)|
 [UncleMarr](https://rentry.org/umarr) | Misc |[Helm's fundraiser](https://files.catbox.moe/lkilxh.png)|
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) |[Maid Gura](https://files.catbox.moe/xvl8g8.png)|[Maid Korone](https://files.catbox.moe/60dwn9.png), [Maid Okayu](https://files.catbox.moe/gk7o7z.png), [Maid Mio](https://files.catbox.moe/q7weqj.png), [Maid Nene](https://files.catbox.moe/aknbu7.png), [Maid Roboco](https://files.catbox.moe/khljqm.png)
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Merlot](https://files.catbox.moe/epcjkp.png), [Prince Andriel II](https://files.catbox.moe/mqfpi5.png), [Prince Kyron](https://files.catbox.moe/ngsqi6.png), [Naoki](https://files.catbox.moe/xkzk75.png), [Prince Elio](https://files.catbox.moe/8bx303.png), [Prince Andriel](https://files.catbox.moe/cl8fy7.png), [Princess Giselle](https://files.catbox.moe/iuz2eg.png), [Domino](https://files.catbox.moe/js6nhs.png), [Cyran](https://files.catbox.moe/l9tv3f.png), [Fynn](https://files.catbox.moe/jc7epo.png), [Noah](https://files.catbox.moe/2xfqsl.png), [Leon](https://files.catbox.moe/15k6v1.png), [Luca](https://files.catbox.moe/5jlpni.png), [Estelle](https://files.catbox.moe/kde37u.png), [Kanami](https://files.catbox.moe/v6pqcl.png), [Zeno](https://files.catbox.moe/vl65pv.png), [Prince Laithan](https://files.catbox.moe/2hr51d.png), [Filou](https://files.catbox.moe/4nzt3n.png), [Hanacchi](https://files.catbox.moe/d3wiwp.png), [Vincent](https://files.catbox.moe/ead6kn.png), [Domino and Filou](https://files.catbox.moe/u1ogky.png), [Haruto](https://files.catbox.moe/xvzin5.png), [Kanta](https://files.catbox.moe/a61fk9.png), [Father Colair](https://files.catbox.moe/24vb5s.png), [Haruto and Kanta](https://files.catbox.moe/vwtfif.png)|[Merlot](https://files.catbox.moe/epcjkp.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[BunGir109](https://files.catbox.moe/xnbq60.png), [aicg-tan](https://files.catbox.moe/2avosg.png), [Kayoko & Lucy](https://files.catbox.moe/u8gk1y.png), [Melie](https://files.catbox.moe/ilq6aa.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[LOCUS-TAN](https://files.catbox.moe/rsvozg.png), [Azalea Flores](https://files.catbox.moe/4e6utg.png), [Girl Gaia](https://files.catbox.moe/3byxa1.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Petey](https://files.catbox.moe/ukmbxk.png)|[Petey](https://files.catbox.moe/ukmbxk.png) [MV]
@@ -37,13 +37,14 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Bailey Rosworth](https://files.catbox.moe/m6xi16.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kaspian](https://files.catbox.moe/06fcox.png)|
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Chiyo](https://files.catbox.moe/qy9zdn.png)|
+[Nuggest](https://rentry.org/Nuggest) | Misc ||
+[Pashatehink](https://rentry.org/pashatehink) | Misc ||
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||[Outercourse Paradise](https://files.catbox.moe/21l9ht.png), [AIDS Game](https://files.catbox.moe/mkd4k5.png), [Among Lust](https://files.catbox.moe/0gxmhe.png), [Strip Rock Paper Scissors](https://files.catbox.moe/t1ksnr.png), [Ōsama Game](https://files.catbox.moe/go66ex.png), [Gacha Lollipops](https://files.catbox.moe/wpbsqb.png), [Eshal](https://files.catbox.moe/krzh25.png), [Stillwater Asylum](https://files.catbox.moe/wi1h6m.png)
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
-[Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
-[Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
@@ -60,7 +61,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||

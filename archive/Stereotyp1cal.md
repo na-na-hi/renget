@@ -205,7 +205,7 @@ JSON: https://files.catbox.moe/i048mg.json
 PNG: https://files.catbox.moe/sviv48.png
 JSON: https://files.catbox.moe/k4dlz5.json
 
-#####**Chiyo (NEW)**
+#####**Chiyo**
 *The addiction of smoking and the brutal uses of her metal bat is enough to summarize this troublesome girl. Living in the dirtiest alleyways of Tokyo as an orphan, Chiyo will not hesitate to bash some skulls for her own needs to survive alone.*
 ![image description](https://files.catbox.moe/qy9zdn.png)
 PNG: https://files.catbox.moe/qy9zdn.png

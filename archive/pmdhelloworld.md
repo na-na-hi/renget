@@ -183,7 +183,8 @@ Exiting. . .
 ```
 The words faded from my sight, leaving me alone - hovering in place by the side of the road. The strange conversation with my evolved form certainly smacked of something important - they'd plainly told me that they needed help. Unfortunately, they neglected to explain what the issue was, and as far as I could tell, there was no way to give them a call back to get more information out of them.
 
-However, they *had* forwarded me a set of co-ordinates. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid the landscape in the distance, a little ways out of the other side of the town. At least I could get a lay of the land while on my way to wherever this Porygon2 was. Or claimed to be, at the very least. 
+However, they *had* forwarded me a set of co-ordinates. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid on the landscape in the distance, a little ways out of the other side of the town. At the very least I could get a lay of the land while on my way to wherever this Porygon2 was. Or claimed to be, at the very least.
 
 ***
-wip, please ignore
+
+Perhaps a little surprisingly, making my way through the town was uneventful. While my strange and unfamiliar form gathered quite a few stares from the other Pokémon that I passed, nothing much seemed to come of it outside of some whispers and occasional pointing. Which, honestly, was a bit of a relief, I had half expected to be run out of town with pitchforks and torches.

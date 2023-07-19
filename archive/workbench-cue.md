@@ -1,4 +1,5 @@
 **Workbench.CUE:**
+https://files.catbox.moe/691tl1.png
 Copies of *Sonic CD* with oddities related to the Round *"Wacky Workbench."*
 
 The existence of this copy was first reported in July 2007 on a forum, with video footage alongside it.

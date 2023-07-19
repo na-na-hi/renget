@@ -5,8 +5,6 @@
 Welcome to my rentry of bots. Almost every card that I make is an experimental one (not in the grand sense of things, just some details that I test for myself), even if you, {{user}}, don't notice it. Every AI generated pic was made by me, and no, I won't share prompts because I lost them.
 Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry.
 
-!!! danger Taking a prolonged hiatus. Contact me via Email, if you need me, because I am not in the threads as long as this message is up.
-
 Email: gasvas27@gmail.com
 TO-DO LIST: Sane Ukrainian girl.
 

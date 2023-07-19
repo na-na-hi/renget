@@ -17,6 +17,8 @@ Animation ID is the number in the sprites XML file that can be downloaded from t
 [Google Sheet of sound effects](https://docs.google.com/spreadsheets/d/1NdHttKEFSY2XPrX_ArGDk3vBj6nOGIpkTe7k2jEUld0/edit#gid=1536948022)
 [Youtube Video of all sound effects](https://youtu.be/mXy0FJiNkR0)
 [Google Doc listing what scenes a bunch of scripts correspond to](https://docs.google.com/document/d/1d0GKU60TXsnXa-I2xn7siSpF1ipL1QOv5ro9q37wRZQ/edit)
+[Google Doc listing Object Sprites](https://docs.google.com/document/d/1s_UkgNH5Sl_iTuRnAgIri4qfD-O3_b_RTjm7xaPd2Fw/edit)
+[Google Doc on How to use GFXCrunch (creating object sprites)](https://docs.google.com/document/d/1530m69wMie4HVa1uDHgGEgYKAEkqHkB7cw2yKPtyoss/edit)
 
 ###Video Tutorials
 [SkyTemple Super Beginner's Guide](https://www.youtube.com/playlist?list=PLvG4czvyoR7KjYnfCaYeQK0J8CdcoV3E6)

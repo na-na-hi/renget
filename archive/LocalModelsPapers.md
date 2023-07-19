@@ -120,6 +120,7 @@
 06/2023|[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)
 06/2023|[Textbooks Are All You Need (phi-1)](https://arxiv.org/abs/2306.11644)
 07/2023|[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945)
+07/2023|[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -315,6 +316,7 @@
 07/2023|[Teaching Arithmetic to Small Transformers](https://arxiv.org/abs/2307.03381)
 07/2023|[QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models](https://arxiv.org/abs/2307.03738)
 07/2023|[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)
+07/2023|[Copy Is All You Need (CoG)](https://arxiv.org/abs/2307.06962)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

@@ -5,7 +5,7 @@
 ##Class 1-D
 
 ###Chihiro Mitsurugi HN Acidic Sword Hero: Yako
-![](https://img.4plebs.org/boards/tg/image/1680/20/1680208629480105.png)
+![](https://i.4pcdn.org/tg/1689731384958002.png)
 ###Soujyuuro Imai HN Wide Eye Hero: Mahoudeva
 ![](https://img.4plebs.org/boards/tg/image/1680/30/1680300870931079.png)
 ###Bobby Samson HN Sunlight Ma'am 

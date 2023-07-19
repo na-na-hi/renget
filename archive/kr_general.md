@@ -3,142 +3,146 @@
 # List of Noteworthy KR Vtubers
 >KR Nijisanji
 https://2434.kr/ (Youtube/Twitter/Twitch/Twitcasting links)
-Min Suha: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
-Gaon: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
-So Nagi: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
-Akira Ray: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
-Lee Roha: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
-Oh Jiyu: https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw
-Yang Nari: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ
-Ryu Hari: https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A
-Seffyna: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
-Ban Hada: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
-Ha Yun: https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg
-Na Sera: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
+**Min Suha:** https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
+**Gaon:** https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+**So Nagi:** https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+**Akira Ray:** https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+**Lee Roha:** https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
+**Oh Jiyu:** https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw
+**Yang Nari:** https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ
+**Ryu Hari:** https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A
+**Seffyna:** https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+**Ban Hada:** https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+**Ha Yun:** https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg
+**Na Sera:** https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
  
 >Indies
-Sie (formerly Lee On): https://www.twitch.tv/moon257189
-Sada (formerly Shin Kiru): https://www.twitch.tv/pelecanus_
-Jonghae (formerly Lee Siu): https://www.twitch.tv/whdgodi
-Seo Cheon Hae (formerly Han Chiho): 
+**Sie (formerly Lee On):** https://www.twitch.tv/moon257189
+**Sada (formerly Shin Kiru):** https://www.twitch.tv/pelecanus_
+**Jonghae (formerly Lee Siu):** https://www.twitch.tv/whdgodi
+**Seo Cheon Hae (formerly Han Chiho):**
 https://www.youtube.com/channel/UCzuTyYpY0G7Y7qUiB0K-obQ/featured
 https://www.twitch.tv/unnamed_star_
-Seldea:
+**Seldea:**
 https://www.twitch.tv/seldea
 https://www.youtube.com/@seldea
-Nabi:
+**Nabi:**
 https://www.youtube.com/@Nabii
-Lily Anke:
+**Lily Anke:**
 https://www.twitch.tv/lily_anke
-Mingturn:
+**Mingturn:**
 https://www.twitch.tv/mingturn97
-Doryuncha: 
+**Doryuncha:** 
 https://www.twitch.tv/dlc0921
-Oh Sunny: 
+**Oh Sunny:** 
 https://www.twitch.tv/ohsunny0731
  
 >Isegye Idol
-Ine: https://www.twitch.tv/vo_ine
-Jingburger: https://www.twitch.tv/jingburger
-Lilpa: https://www.twitch.tv/lilpaaaaaa
-Jururu: https://www.twitch.tv/cotton__123
-Gosegu: https://www.twitch.tv/gosegugosegu
-Viichan: https://www.twitch.tv/viichan6
+**Ine:** https://www.twitch.tv/vo_ine
+**Jingburger:** https://www.twitch.tv/jingburger
+**Lilpa:** https://www.twitch.tv/lilpaaaaaa
+**Jururu:** https://www.twitch.tv/cotton__123
+**Gosegu:** https://www.twitch.tv/gosegugosegu
+**Viichan:** https://www.twitch.tv/viichan6
  
 >V-Lup
--1st Gen-
-Jooin (formerly Shin Yuya): https://www.twitch.tv/jooin_vlup
--2nd Gen (Eclipse)-
-Beldir: https://www.twitch.tv/beldir_vlup
-Daphne: https://www.twitch.tv/daphne_vlup
-Iana: https://www.twitch.tv/iana_vlup
--2nd Gen (Insomnia)-
-Meme: https://www.twitch.tv/meme_vlup
-Sitry: https://www.twitch.tv/sitry_vlup
-Yaho: https://www.twitch.tv/yaho_vlup
+**-1st Gen-**
+**Jooin (formerly Shin Yuya):** https://www.twitch.tv/jooin_vlup
+**-2nd Gen (Eclipse)-**
+**Beldir:** https://www.twitch.tv/beldir_vlup
+**Daphne:** https://www.twitch.tv/daphne_vlup
+**Iana:** https://www.twitch.tv/iana_vlup
+**-2nd Gen (Insomnia)-**
+**Meme:** https://www.twitch.tv/meme_vlup
+**Sitry:** https://www.twitch.tv/sitry_vlup
+**Yaho:** https://www.twitch.tv/yaho_vlup
  
 >VRecord
-VRecord: https://www.twitch.tv/vrecordinfo
-Arim (owner): https://www.twitch.tv/vrecord_arim
--1st Gen-
-Yunon: https://www.twitch.tv/vrecord_yunon
-Choki: https://www.twitch.tv/vrecord_choki
-Piyo: https://www.twitch.tv/vrecord_piyo
-Deus: https://www.twitch.tv/vrecord_deus
--2nd Gen-
-Merry: https://www.twitch.tv/vrecord_merry
-Myui: https://www.twitch.tv/vrecord_myui
-Sevia: https://www.twitch.tv/vrecord_sevia
-Luxeed: https://www.twitch.tv/vrecord_luxeed
+**VRecord:** https://www.twitch.tv/vrecordinfo
+**Arim (owner):** https://www.twitch.tv/vrecord_arim
+**-1st Gen-**
+**Yunon:** https://www.twitch.tv/vrecord_yunon
+**Choki:** https://www.twitch.tv/vrecord_choki
+**Piyo:** https://www.twitch.tv/vrecord_piyo
+**Deus:** https://www.twitch.tv/vrecord_deus
+**-2nd Gen-**
+**Merry:** https://www.twitch.tv/vrecord_merry
+**Myui:** https://www.twitch.tv/vrecord_myui
+**Sevia:** https://www.twitch.tv/vrecord_sevia
+**Luxeed:** https://www.twitch.tv/vrecord_luxeed
  
 >LITMEDIA
--EN 1st Generation-
-Shabel Tonya: 
+**-EN 1st Generation-**
+**Shabel Tonya:** 
 Youtube (EN): https://www.youtube.com/c/ShabelTonyaCh
 Twitch (KR): https://www.twitch.tv/shabeltonya
--KR 1st Generation (LUVDIA)-
-박도나 (Park Dona): https://twitch.tv/pdona_d
-이아니 (Lee Ani): https://twitch.tv/leea_ni
-빙하유 (Bing Hayu): https://twitch.tv/binghayu
-양메이 (Yang Mei): https://twitch.tv/yangmei1126
-유리리 (U Lili): https://twitch.tv/u_li_li
+**-KR 1st Generation (LUVDIA)-**
+**박도나 (Park Dona):** https://twitch.tv/pdona_d
+**이아니 (Lee Ani):** https://twitch.tv/leea_ni
+**빙하유 (Bing Hayu):** https://twitch.tv/binghayu
+**양메이 (Yang Mei):** https://twitch.tv/yangmei1126
+**유리리 (U Lili):** https://twitch.tv/u_li_li
  
 >V-llage
-Yona (formerly Wiffy): https://www.twitch.tv/iotayona
--1st Gen-
-Azarashi Hapu: https://www.twitch.tv/v_llage_hapu
-Floweress Loe: https://www.twitch.tv/v_llage_loe
--2nd Gen-
-Epione Naxia: https://www.twitch.tv/v_llage_naxia
-Asteri_Ephta: https://www.twitch.tv/v_llage_ephta
--3rd Gen-
-Kurogami Sasha: https://www.twitch.tv/v_llage_sasha
-Tygris Kanin: https://www.twitch.tv/v_llage_kanin
+**Yona (formerly Wiffy):** https://www.twitch.tv/iotayona
+**-1st Gen-**
+**Azarashi Hapu:** https://www.twitch.tv/v_llage_hapu
+**Floweress Loe:** https://www.twitch.tv/v_llage_loe
+**-2nd Gen-**
+**Epione Naxia:** https://www.twitch.tv/v_llage_naxia
+**Asteri_Ephta:** https://www.twitch.tv/v_llage_ephta
+**-3rd Gen-**
+**Kurogami Sasha:** https://www.twitch.tv/v_llage_sasha
+**Tygris Kanin:** https://www.twitch.tv/v_llage_kanin
  
 >V_conn
-Muna
+**Muna**
 Youtube: https://www.youtube.com/c/MUNA_Vconn
 Twitch: https://www.twitch.tv/muna_vconn
-Repie
-Youtube: https://www.youtube.com/@Repie_vconn
-Twitch: https://www.twitch.tv/repie_vconn
  
 >VGG
-Ianthis
+**Ianthis**
 Youtube: https://www.youtube.com/@Ianthis_VGG
 Twitch: https://www.twitch.tv/ianthis_vgg
  
 >StelLive
-Gangzi/강지 (Owner)
+**Gangzi/강지 (Owner)**
 Twitch: https://www.twitch.tv/rkdwl12
 Youtube: https://www.youtube.com/@GANGZI1
--1st Gen-
-Ayatsuno Yuni
+**-1st Gen-**
+**Ayatsuno Yuni**
 Youtube: https://www.youtube.com/@ayatsunoyunich
 Twitch: https://www.twitch.tv/ayatsunoyuni_stellive
-Airi Kanna
+**Airi Kanna**
 Twitch: https://twitch.tv/airikanna_stellive
 Youtube (JP): https://youtube.com/@airikanna
 Youtube (KR): https://youtube.com/@airikannach
--2nd Gen-
-Arahashi Tabi
+**-2nd Gen-**
+**Arahashi Tabi**
 Twitch: https://www.twitch.tv/arahashitabi_stellive
 Youtube: https://www.youtube.com/@arahashitabi
-Neneko Mashiro
+**Neneko Mashiro**
 Twitch: https://www.twitch.tv/nenekomashiro_stellive
 Youtube: https://www.youtube.com/@neneko_mashiro
-Shirayuki Hina
+**Shirayuki Hina**
 Twitch: https://www.twitch.tv/shirayukihina_stellive
 Youtube: https://www.youtube.com/@shirayukihina
-Akane Lize
+**Akane Lize**
 Twitch: https://www.twitch.tv/akanelize_stellive
 Youtube: https://www.youtube.com/@akanelize
  
 >Stardays
-Stardays Official Youtube Channel: https://www.youtube.com/@stardays-KR
-Van-sama: https://www.twitch.tv/van_sama_
-Choki: https://www.twitch.tv/vrecord_choki
-Terri Nunna: https://www.twitch.tv/terri_nunna_
+**Stardays Official Youtube Channel:** 
+https://www.youtube.com/@stardays-KR
+**Van-sama** 
+Twitch: https://www.twitch.tv/van_sama_
+**Choki** 
+Twitch: https://www.twitch.tv/vrecord_choki
+**Terri Nunna**
+Twitch: https://www.twitch.tv/terri_nunna_
+**Kurenai Natsuki**
+Youtube: https://www.youtube.com/@Kurenai_Natsuki
+Twitch: https://www.twitch.tv/natsuki_831
 
 # List of English-speaking KR Vtubers
 >Shabel Tonya
