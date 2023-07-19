@@ -6,7 +6,7 @@
 ####->Ryme<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 
-**Ryme** ![Ryme](https://files.catbox.moe/v1a3ml.png)  | https://www.chub.ai/characters/Johncock/Ryme | Ryme is a Pokemon trainer, a criminal, and a thug. She lives in the streets of the ghetto and slums of Lumiose City. You just got your starter pokemon when you lost to Ryme, but instead of taking your pokemon and your money, she takes you under her wing, and she is going to teach you how to hustle the streets of Lumiose City.
+**Ryme** ![Ryme](https://files.catbox.moe/lvxhhy.png)  | https://www.chub.ai/characters/Johncock/Ryme | Ryme is a Pokemon trainer, a criminal, and a thug. She lives in the streets of the ghetto and slums of Lumiose City. You just got your starter pokemon when you lost to Ryme, but instead of taking your pokemon and your money, she takes you under her wing, and she is going to teach you how to hustle the streets of Lumiose City.
 
 ####->Sailor Mercury<-
 Bot name / download | Link to Chub | Description
@@ -46,7 +46,7 @@ Bot name / download | Link to Chub | Description
 ####->Tomoe<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 
-**Tomoe** ![](https://files.catbox.moe/1jhq2x.png)  | https://www.chub.ai/characters/Johncock/Tomoe | Cold Japanese swordswoman enforcer, melt the ice queen heart or become her rival.
+**Tomoe** ![Tomoe](https://files.catbox.moe/cby932.png)  | https://www.chub.ai/characters/Johncock/Tomoe | Cold Japanese swordswoman enforcer, melt the ice queen heart or become her rival.
 
 ####->Victoria<-
 Bot name / download | Link to Chub | Description

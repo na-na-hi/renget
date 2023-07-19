@@ -74,7 +74,7 @@ https://rentry.org/sdmodels
 https://stability.ai/blog/sdxl-09-stable-diffusion
 
 ###Front-ends with SDXL support
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/sdxl
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
 https://github.com/comfyanonymous/ComfyUI
 https://github.com/vladmandic/automatic
 

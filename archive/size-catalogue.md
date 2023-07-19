@@ -370,6 +370,9 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Doll Man | [40s incarnation](https://comicvine.gamespot.com/doll-man/4005-23313/), [modern incarnation](https://comicvine.gamespot.com/doll-man/4005-37895/), [doll girl](https://comicvine.gamespot.com/doll-girl/4005-52970/)
  * Scintilla | [1](https://comicvine.gamespot.com/scintilla/4005-41010/), 
  * Colossal Boy comics | [1](https://comicvine.gamespot.com/colossal-boy/4005-1271/)
+ * Titan comics | [1](https://marvel.fandom.com/wiki/Titan_(Earth-616))
+ * Spectre comics, sometimes | [1](https://comicvine.gamespot.com/spectre/4005-2361/)
+ * Reducto from Birdman /And The Galaxy Trio comics
  * Alice in Wonderland (Rod Espinosa)
  * Avengers Fairy Tales #3
  * Betty & Veronica: Friends Forever: Return to Storybook Land
@@ -379,6 +382,8 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Justice League Quarterly Volume 3
  * Legionnaires | Features the superhero Shrinking Violet
  * Life With Archie #35
+ * Archie's Madhouse #42
+ * Mystery in Space #49
  * Teenage Mutant Ninja Turtles Saturday Morning Adventures #04
  * Richie Rich Vaults of Mystery #42
  * Savage Dragon #79
@@ -393,11 +398,14 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Rock Toons | p97 minor? [Archive](https://archive.org/details/rock_toons)
  * Mary Jane And Sniffles
  * Micronauts | ? wasn't this /a/ ?
- * Fantastic Four #248
+ * Fantastic Four | #236, #248
  * Space 1999 #5 | [1](https://comicvine.gamespot.com/space-1999-5/4000-16460/)
  * Star Trek #53
  * Mysteries of Unexplored Worlds | quite a few here!
  * Conan | [1](https://desuarchive.org/co/thread/138314812/#138328076)
+ * The Ogre Gods
+ * Green Lantern Quarterly.#5
+ * Legion Of The Night #2
 
 #### Minor
  * Gargoyles #7 Cover
@@ -580,12 +588,16 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * dragon tales s01e31a
  * courage the cowardly dog | courage, Tulip episodes
  * miraculous ladybug | s02e06, s04e07
- * Craig of the creek | little blue episodes?
+ * Craig of the creek | big red in s04e13 episodes?
  * Jackie Chan Adventures | s02e37
  * Futurama | s03e02
  * Boonie Bears: The Big Shrink
  * The Dreamstone | e01e07
  * Speed Buggy | s01e12
+ * The Littles
+ * The Herculoids | s01e07b
+ * Space Ghost | s01e04a
+ * Space Stars | space ghost segments 1 and 13
  * A Kind of Magic | ? no episodes listed
  * Adventure Time | Canyon
  * Alice's Wonderland Bakery - s01e01a
@@ -749,6 +761,8 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The Amazing Colossal Man
  * Suddenly Susan | title sequence
  * Dollman (1991)
+ * The Indian In The Cupboard
+ * The Secret Kingdom (1998) | minor 
 
 #### Minor
  * Attack of the 50 Foot Hooker | short rampage at the end

@@ -26,6 +26,7 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Goosebumps: The Masked Mutant's Devastation*|Goosebumps: Attack of the Mutant|[(link)](https://rentry.org/maskedmutant)
 *Walking Specimen*|Elden Ring|[(link)](https://rentry.org/walkingspecimen)
 Unnamed Item Monitor pasta (WIP)|Sonic the Hedgehog 2, various others|[(part 1)](https://rentry.org/ewq95), [(part 2)](https://rentry.org/7v3xn)
+*Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
 
 ##.exe pastas
 Title|Link
@@ -82,6 +83,9 @@ Title|Link
 *Forestland Clean-Up*|[(link)](https://rentry.org/forestlandcleanup)
 *Beyond the Sky*|[(link)](https://rentry.org/beyondsky)
 *Follow the White Rabbit*|[(link)](https://rentry.org/followthewhiterabbit)
+/creepyg/ OC Roll Chart Creepypasta List|[(link)](https://rentry.org/creepygrollpastas)
+Unnamed journal pasta|[(link)](https://files.catbox.moe/x3mgau.png)
+*Kudzu*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35329455)
 
 ##Rewritten by /exeg/
 Title|Link

@@ -40,10 +40,6 @@ https://mega.nz/folder/Fjpn3awS#dYenm0fD8SEZQL-l3_dYuQ
 https://files.catbox.moe/evj8gm.7z
 - Maddie Fenton
 https://drive.google.com/file/d/1T4HpMyJlGGHQPnkKAu1q1lQfef0PV9dn/view?usp=share_link
-- Frankie Foster, Raven, Nani Pelekai, Lola Bunny 
-  AccelArt, BlushySpicy, Crimson Comics, Kairu, Nonamoth, Reiq, Squeezable, Suoiresnu, & more (/h/)
-https://rentry.org/gktwz
-
 
 ---
 
@@ -94,6 +90,8 @@ https://civitai.com/models/60719/aeon-flux
 - Taarna (Heavy Metal)
 https://civitai.com/models/57263/taarna-heavy-metal-1981
 https://civitai.com/models/71188/taarna-character-lora
+- Vampirella 
+https://civitai.com/models/111383/vampirella-embedding (TI)
 - Kylie Griffin (Ghostbusters)
 https://civitai.com/models/76386/kylie-griffin-ghostbusters
 - Teenage Mutant Ninja Turtles
@@ -103,6 +101,7 @@ https://civitai.com/models/71628/irma-langenstein-tmnt-1990s
 https://civitai.com/models/51651/esthetic-april-oneil-1987-tmnt
 https://civitai.com/models/103467/april-oneil-tmnt-80s-version
 https://civitai.com/models/72423/april-april-oneil-1987-lora
+https://civitai.com/models/111563/april-oneil-2012 (2012 TV series)
 	- Lotus Blossom
 https://civitai.com/models/82300/lotus-blossom-tmnt-1980s
 	- Jessica Jaclyn
@@ -192,6 +191,7 @@ https://civitai.com/models/65846/princess-yue-avatar-the-last-airbender
 https://civitai.com/models/64833/suki-kyoshi-warrior-avatar-the-last-airbender
 https://civitai.com/models/109525/suki-avatar-the-last-airbender-2
 	- Toph Beifong
+https://civitai.com/models/85181/toph-beifong-or-avatar-the-last-airbender
 https://civitai.com/models/52157/toph-beifong-avatar-the-last-airbender
 https://civitai.com/models/46396/avatar-toph
 https://civitai.com/models/5619/toph (TI)
@@ -479,8 +479,13 @@ https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Frankie Foster (Foster's Home for Imaginary Friends)
 https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-character
 https://civitai.com/models/88781/frankie-foster-or-goofy-ai
-- Kanker Sisters (Ed, Edd n Eddy)
+- Ed, Edd n Eddy fan art
+	+ Kanker Sisters (Ed, Edd n Eddy)
 https://civitai.com/models/109428/kanker-sisters-ed-edd-n-eddy-leemariemay
+	- Sarah
+https://civitai.com/models/110653/sarah-ed-edd-n-eddy
+	- Nazz
+https://civitai.com/models/110663/nazz-ed-edd-n-eddy
 - Dexter's Laboratory
 	- Dexter's Mom
 https://civitai.com/models/20949/dexters-mom
@@ -539,16 +544,28 @@ https://civitai.com/models/86907/pickles-the-oblongs
 - Wuya (Xiaolin Showdown)
 https://civitai.com/models/21663/wuya
 https://civitai.com/models/87335/wuya-xiaolin-showdown
-- Icy (Winx Club)
+- Winx Club
+	+ Icy 
 https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
+	+ Stella
+https://civitai.com/models/111697/stella-winx-club-s1
+	+ Bloom
+https://civitai.com/models/111102/bloom-winx-club-s1
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Atomic Betty
 https://civitai.com/models/62771/atomic-betty-atomic-betty
 - Marge Simpson (The Simpsons)
 https://civitai.com/models/22953/fonglets-marge-simpson
+- Turanga Leela (Futurama)
+https://civitai.com/models/49933/turanga-leela-from-futurama-lora
 - Queen Bean (Disenchantment)
 https://civitai.com/models/93221/queen-bean-disenchantment
+- Rick and Morty
+	+ Tricia Lang 
+https://civitai.com/models/111480/tricia-lang-from-rick-and-morty-lora
+	+ Jessica
+https://civitai.com/models/110692/jessica-from-rick-and-morty-lora
 - Family Guy
 	+ Lois Griffin
 https://civitai.com/models/81449/lois-griffin-pacenkun
@@ -667,6 +684,15 @@ https://civitai.com/models/63858/honey-lemon-big-hero-6-character-lora
 https://civitai.com/models/43271/honey-lemon-from-big-hero-6-animation-series
 	- Gogo Tomago
 https://civitai.com/models/24805/gogo-tomago
+- Wreck It Ralph
+	+ Ariel
+https://civitai.com/models/110163/ariel-ralph-breaks-the-internet
+	+ Aurora 
+https://civitai.com/models/111975/aurora-ralph-breaks-the-internet
+	- Belle
+https://civitai.com/models/110463/belle-ralph-breaks-the-internet
+	- Cinderella
+https://civitai.com/models/110938/cinderella-ralph-breaks-the-internet
 - Moana
 https://civitai.com/models/37052/moana-character-lora
 https://civitai.com/models/43084/vaiana-moana
@@ -787,10 +813,10 @@ https://civitai.com/models/6482/alex-chen-or-life-is-strange-lora
 https://civitai.com/models/73515/mad-moxxi-borderlands-character-lora
 	- Gaige
 https://civitai.com/models/68043/gaige-borderlands-2-character-lora
-	- 
+	- Maya
 https://civitai.com/models/25479/maya-borderlands-2-character-lora
 https://civitai.com/models/25479/maya-borderlands-2-lora
-	- 
+	- Lilith
 https://civitai.com/models/73507/lilith-borderlands-character-lora
 https://civitai.com/models/73507/lilith-borderlands-character-lora
 	- Athena
@@ -880,13 +906,15 @@ https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider (TI)
 - Ellie (The Last of Us)
 https://civitai.com/models/84764/ellie-tlou-part-1-clean-lora
 https://civitai.com/models/52671/ellie-tlo2
+- Chloe Frazer (Uncharted)
+https://civitai.com/models/111460/chloe-frazer-uncharted-the-lost-legacy
 - Nillin (Remember Me)
 https://civitai.com/models/85650/nillin-remember-me
 - Yelena Fedorova (Deus Ex: Human Revolution)
 https://civitai.com/models/106416/yelena-fedorova-or-deus-ex-human-revolution
 - Nariko (Heavenly Sword)
 https://civitai.com/models/94099/nariko-heavenly-sword
-- Faith Connors (Mirror's Edge)
+- Faith Connors (Mirror's Edge Catalyst)
 https://civitai.com/models/109062/faith-connors-mirrors-edge-catalyst
 - Jessica Cannon (SiN) realistic
 https://civitai.com/models/21288/jessica-cannon
@@ -914,6 +942,10 @@ https://civitai.com/models/107084/circus-baby-fnaf
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
 - Mortal Kombat
+	+ D'Vorah
+https://civitai.com/models/111823/dvorah-mortal-kombat
+	- Mileena
+https://civitai.com/models/111851/mileena-mortal-kombat-mk10-3d-era
 	- Kitana
 https://civitai.com/models/93307?modelVersionId=99482
 	- Sheeva 
@@ -967,6 +999,8 @@ https://civitai.com/models/85716/denbarbucciartstyle (TI)
 https://civitai.com/models/70420/sleepygimp-style-lora
 - The Pit
 https://civitai.com/models/105350/thepit-locon
+- SunsetRiders7
+https://civitai.com/models/19497/sunsetrider
 ***
 - Masters of the Universe
 https://civitai.com/models/37797/filmation-motu-lora
@@ -1012,6 +1046,8 @@ https://civitai.com/models/20606/modern-american-comics-style-1
 https://civitai.com/models/19525/limited-blue-style-lora
 - Hanna–Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
+- "Disney Renaissance"
+https://civitai.com/models/73690?modelVersionId=79823
 - Game style
 	+ Banner Saga 
 https://civitai.com/models/56031/banner-saga-style
@@ -1021,6 +1057,8 @@ https://civitai.com/models/86567/disco-delirium
 https://civitai.com/models/72270/fortnite-style-or-fort-sketcher-or-lora
 	+ Grand Theft Auto 
 https://civitai.com/models/66719/gta-style-or-lora
+	- Red Dead Redemption
+https://civitai.com/models/89532/red-dead-redemption-artstyle
 	+ Signalis 
 https://civitai.com/models/84686/signalis-style-lora
 	+ Zelda CD-i

@@ -7,7 +7,13 @@
  ##-> About <-
 ->Hey, thanks for clicking. Welcome to my rentry that's definitely not just a Honkai Impact 3rd character card collection. All of my bots were written in Plists + Ali:Chat and they're mostly focused on personality, rather than lore. Also, for the Honkai fans out here, in order to make sure the bots worked properly, I had to make up scenarios that aren't very lore accurate, e.g. Pardofelis becoming a shop owner instead of a Flame-Chaser, or Elysia being a quasi-goddess and taking you to the Elysian realm which in these scenarios, is simply a separate world for the sake of coherency and also because most models would have troubles digesting all the info in the Honkai lore. Anyway, I hope you enjoy using these bots as much as I do <3 If you're having trouble choosing between the Ali:Chat and Ali:Chat Lite versions of a card, just know that I'd choose the Lite version 99% of the time!<-
 
-->If you have any recommendations or things you think I should add or change, feel free to DM me on discord **@Trappu#4161**<-
+->If you have any recommendations or things you think I should add or change, feel free to DM me on discord **.trappu**<-
+ 
+##-> See also <-
+Wondering which models to use my bots on? AliCat and I are currently working on an [LLM Roleplay Ranking](https://rentry.co/ALLMRR) so feel free to check it out! It gets updated pretty regularly.
+
+AliCat's Ali:Chat guide (contains very valuable info even if you're not using Ali:Chat): https://rentry.co/alichat
+AVAKSon's PList + Ali:Chat guide (slightly outdated but still good to learn the basics): https://rentry.co/plists_alichat_avakson
 
 !!! danger I super duper recommend reading [the section about Ali:Chat Lite!](https://rentry.org/trappusrentry#what-are-alichat-lite-cards) It contains a few tips that will be useful no matter what kind of card you use, whether it is PList, Ali:Chat, W++ or even plain text!
 !!! danger I reaaaaaaaaally insist you read that part or I'll be very mad!
