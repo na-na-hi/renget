@@ -35,8 +35,9 @@ https://cytu dot be/r/sexeg
 >Pastas read by /exeg/
 https://files.catbox.moe/61ew8a.txt
 
->Pastas written by /exeg/
+>Homemade/found pastas
 https://rentry.org/exegpastas
+https://rentry.org/4chanpastas
 
 >Sonic Hedgehog 11 Fan Page
 https://sh11fanpage.neocities.org/

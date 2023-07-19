@@ -16,7 +16,7 @@ I love hearing feedback, seeing logs and hearing what you liked.
 
 -------------------------------
 ##Table of contents
-[TOC]
+[TOC2]
 
 ##Sarah Series Bots
 Sarah -Island Survival Edition- | Info
@@ -57,3 +57,4 @@ Séamus Thorne | Info
 ---------------------------------------
 ##Guides
 ###[Character Expression / Silly Tavern Extensions](https://rentry.org/LGAExpressionsGuide)
+###[Guide to using a llama with SillyTavern](https://rentry.org/LGALlamaGuide)

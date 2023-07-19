@@ -17,6 +17,12 @@ Title|Link
 *Abandoned Hotel Exploration*|[(link)](https://rentry.org/abandonedhotel)
 *The Ex-Zombie*|[(link)](https://rentry.org/exzombie)
 *Like Water*|[(link)](https://rentry.org/flowlikewater)
+*WARDEN*|[(link)](https://pastebin.com/4wHuEa2G)
+*Roll Chart (Cemeteries)*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35264574)
+*Miraid (Roll Chart: Drugs)*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35267192)
+*Roll Chart: Bathrooms*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35273696)
+*Roll Chart: Scissors*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35282897)
+*Roll Chart: Corruption*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35285761) 
 
 ##Restored/Archived
 Title|Link
@@ -130,3 +136,8 @@ Title|Link
 *Plumbers don't get Pussy*|[(link)](https://files.catbox.moe/16yk84.txt)
 *LETS GO HUNTING FOR SHADOWS*|[(link)](https://rentry.org/9g4vr)
 *Nostalgia Critic Shitpasta*|[(link)](https://arch.b4k.co/vg/thread/430926869/#431001036)
+*Chester Cheeta N64 Trollpasta*|[(link)](https://archive.4plebs.org/x/thread/35215590/#q35215846)
+
+I have the edit codes hi!
+
+![It's a me, a mario](https://files.catbox.moe/6vckrs.png)

@@ -95,6 +95,7 @@
 06/2023|[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 06/2023|[Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
 07/2023|[Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3leon)](https://archive.ph/pGJls)
+07/2023|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://archive.ph/nHQ15)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

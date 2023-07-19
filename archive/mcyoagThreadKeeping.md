@@ -41,15 +41,19 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
-https://rentry.org/bga3m
+>DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
+https://rentry.org/f5xpe
 
-New Build / Enforcer Senpai
->Kagami Reina
->>89605669
+Artfags:
+>Mystery & Detective Stories for Kids
+>>89621560
+
+>Noah the Saint
+>>89625515
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
-archive.4plebs.org/tg/thread/89435070#89435335
+https://archive.4plebs.org/tg/thread/89615875/#89616043
 
 >CHARACTER PROMPTS (Feel free to answer these or don’t idk)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp
@@ -563,6 +567,8 @@ https://rentry.org/wyny7
 https://rentry.org/7s2qg
 >Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
 https://rentry.org/bga3m
+>DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
+https://rentry.org/f5xpe
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

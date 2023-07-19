@@ -36,11 +36,11 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Write sunny prompts for this week's theme: Summer Friday! >>437684421
  
 ▶News
+\>(07/18) LLaMA 2 released: https://ai.meta.com/llama >>438307469
 (07/09) Pretraining on the next NAI model is complete, no ETA yet.
 (07/06) Sama-chama goes Global https://openai.com/blog/gpt-4-api-general-availability
 (07/06) Continuing the Stability tradition, SDXL gets leaked https://pastebin.com/b8kXrkAF
 (06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind… >>436140401 >>436140937 >>436141853
-(06/23-25?) Local got high context, Laptops need not apply.
 
 
 #Perma-Template
