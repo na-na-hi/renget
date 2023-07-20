@@ -41,7 +41,8 @@ __Enemy reference__
 
 ### Base (BETA)
 
-* [Base combo sheet](https://docs.google.com/spreadsheets/d/1zYc2JU46X0XWmV7s1503bN4feRdOMa1eehrTQ2jGaiE/edit)
+* [Base combo sheet 1](https://docs.google.com/spreadsheets/d/1zYc2JU46X0XWmV7s1503bN4feRdOMa1eehrTQ2jGaiE/edit)
+* [Base combo sheet 2](https://docs.google.com/spreadsheets/d/1xr4JR5DV3JFO5VBl1qfLxJwTXg7-945JMsjWE3gR9gg/edit) 
 * [PeterYR YouTube channel](https://youtube.com/@PeterYR)
 
 ### Farming and Mats

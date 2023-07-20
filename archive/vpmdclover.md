@@ -27,6 +27,8 @@ Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Mem
 Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fynn)
 N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#porygon)
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
+??? | M | Tropius | N/A | Clover Guild Member | [???]
+??? | F | Nidorina | ??? | Clover Guild Member | [???]
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)

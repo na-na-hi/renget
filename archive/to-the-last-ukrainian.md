@@ -143,4 +143,4 @@
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmVuqBWr6BExHtmyFF2DQaRJrpTrfzeryLpFUcsvyA9xX9)
+	Full archive: [ipfs](https://ipfs.io/ipfs/QmXa6ozB98UmZD7vRJDR4tcbF4WHvqrJQ5Fiz6XGUnnLfP)

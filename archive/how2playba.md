@@ -364,8 +364,7 @@ Don't use ur elephs for farmable characters if you can, they're quite literally 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. 
 
 >Raid shop
-![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/V5QosY2.png)
-You should limit yourself to buying out 2 characters per raid and coin type, but this isn't a hard rule. 
+![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/C1XDx1Z.png)
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 
@@ -498,7 +497,7 @@ Any AP that crosses the max limit (999) gets sent to your bank. It expires in 7 
 >Lessons
 For the Schale areas: at rank 10 you unlock receiving choice tickets on top of the regular drops when you're doing your lessons. Pretty neat
 The max rank for an area is 12.
-Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. As there are only 7 areas (9 in JP), and 80/7 = 11 + 3/7, I'd suggest maxing out every area. 
+Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. As there are only 8 areas (9 in JP), and 80/7 = 11 + 3/7, I'd suggest maxing out every area. 
  
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.

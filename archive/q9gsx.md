@@ -1,6 +1,3 @@
->It's over 👋 
-Please send all your logs i use them to see if my format works or not :)
-
 **Table of Contents**
 [TOC2]
 ***
@@ -20,7 +17,7 @@ Picture | Name | Description | Changelog/Updates
 ###Experimental/Tests
 Picture | Name | Description | Changelog/Updates
 - | - | - | -
-
+![This is a little easter egg message if you hover in!](https://files.catbox.moe/6yo9kp.png) | Luna | Bait |  | 
 
 ***
 ##Contact

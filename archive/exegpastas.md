@@ -36,7 +36,7 @@ Title|Link
 *WannaRide*|[(part 1)](https://rentry.org/WannaRide), [(part 2)](https://rentry.org/WannaRideToo), [(part 0)](https://rentry.org/WannaRideAlpha)
 *Superbyte*|[(link)](https://rentry.org/3szou)
 *Sabotage*|[(link)](https://rentry.org/kysva)
-*Clown.exe*|[(lore)](https://rentry.org/cgnq9), [(part 1)](https://rentry.org/clown1), [(part 2)](https://rentry.org/clown2)
+*Clown.exe* (abandoned, see *Fun Times*)|[(lore)](https://rentry.org/cgnq9), [(part 1)](https://rentry.org/clown1), [(part 2)](https://rentry.org/clown2)
 *Carnival Night Zone: Pirated Edition* (Clown.exe)|[(link)](https://rentry.org/carnivalnight)
 *Sonic-1-Beta-Log-Archive* (Feels) (WIP)|[(link)](https://rentry.org/imvni)
 *Ancient1*|[(part 1)](https://rentry.org/Ancient1), [(part 2)](https://rentry.org/Ancient1part2), [(part 3)](https://rentry.org/Ancient1Part3), [(part 4)](https://rentry.org/Ancient1FinalPart)
@@ -60,6 +60,7 @@ Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
 *Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
 *Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
+*Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
 
 ##Non-vidya pastas
 Title|Link

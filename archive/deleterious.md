@@ -1,7 +1,7 @@
 #Welcome to the Citadel!ヽ(o＾▽＾o)ノ
 
-Heya! It's me, Del. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
-Del Status: Gone
+Heya! It's me. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
+Status: Yeah.
 [TOC3]
 
 ##Characters
@@ -98,8 +98,6 @@ Roll with the punches! (o_ _)ﾉ彡☆
 A young and passionate diceroller nerd. Your meeting has been decided by fate!
 https://files.catbox.moe/8j114c.png
 (Art by @kugatu28)
-Chub Page:
-https://www.characterhub.org/users/eldritchad
 
 If you have any feedback or logs, do tell! As always, treat them well and have fun! (￣^￣)ゞ
 
@@ -107,7 +105,5 @@ Oh, here's Del, random masochist I found on the street.
 ![Del](https://files.catbox.moe/53wh10.png)
 
 Here's my burner if you're too embarassed to show logs/ provide feedback in the general, I understand. (^ω~)
-Or... if you just want someone to talk to. :3
+Or... if you just want someone to talk to.
 guessssssssssss@proton.me
-
-(^.~)☆
