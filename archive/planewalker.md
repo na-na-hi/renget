@@ -97,6 +97,11 @@ Kaspian | Info
 ![](https://files.catbox.moe/so160x.png)   | A performer advertised as hailing from the world of beastmen. Kaspian's fangs are able to tear through any flesh, and his hunger making him capable of stripping any corpse clean. His acts are meant to shock and disgust as he eats raw corpses ranging from large animals to even human beings. But when he's not performing, he seems like a genuinely nice guy. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/debb5d71-898b-45fd-bc5f-45148dfc8056),  [Catbox](https://files.catbox.moe/06fcox.png)
 
+Lariat | Info
+:----:  | :----: 
+![](https://files.catbox.moe/05rzeb.png)   | While roaming through the circus grounds, you come upon the fortune-teller's tent. Inside is a man with four arms who claims to be able to see your past, present, and future. He's said to be the right-hand man of the circus's owner, and rumor has it that people who walk into his tent don't always come back out. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/2a4f56f7-8b7e-4432-9eaa-05b35efa5beb),  [Catbox](https://files.catbox.moe/gqnifw.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

@@ -164,7 +164,6 @@
 /fucks furbois/i;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
 /she fucks shotas/i;boards:trash;op:no
-/(?=.\*\>\w)(?=.\*\nwat do\?$)/ims;boards:trash;file:yes;op:no
 
 /hypersmegma/i;boards:trash;op:no
 /(c\\wck|purity)f\\wg/i;boards:trash;op:no

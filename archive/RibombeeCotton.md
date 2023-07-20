@@ -3,6 +3,9 @@
 -> By Ribombee-anon <-
 
 
+-> *Note: A slightly updated version of this story can be found here: https://rentry.org/RibombeeJournal#cotton* ->
+
+
 The Clover Guildhall had a storeroom, and it was a mess. My partner Sneasel and I examined the chaos of random items strewn about and piled everywhere, sometimes reaching even higher than where I sat on Sneasel’s head. Neither of us had the slightest idea how it got so bad after only a few days of having a guildhall. We were equal parts impressed and annoyed.
 
 “Um... should we try to clean it?” I asked timidly.

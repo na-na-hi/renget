@@ -42,6 +42,7 @@
     **- (7/6/2023):** Created Caitlyn the PedoHub Pornstar!
     **- (7/10/2023):** Created Child Snuff Simulator (NSFW and NSFL)
     **- (7/14/2023):** Created Chiyo. From now on, I'll be putting a (NEW) status on any new bots for a span of five days.
+    **- (7/19/2023):** Created Yuzu from Blue Archive
 
 [TOC3]
 
@@ -113,6 +114,11 @@ JSON: https://files.catbox.moe/nrrc3d.json
 ![image description](https://files.catbox.moe/cngeoh.png)
 PNG: https://files.catbox.moe/cngeoh.png
 JSON: https://files.catbox.moe/2j0p9d.json
+
+#####**Yuzu (NEW)**
+![image description](https://files.catbox.moe/xulojd.png)
+PNG: https://files.catbox.moe/xulojd.png
+JSON: https://files.catbox.moe/rne7rs.json
 
 ####Little Witch Nobeta
 #####**Monica**

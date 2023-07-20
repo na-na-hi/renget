@@ -1242,7 +1242,7 @@ Uh oh...
 
 =============================================
 
->\>[your Malzeno child starts hanging out with a bad crowd](https://desu-usergeneratedcontent.xyz/trash/image/1656/73/1656737688476.gif)
+>\>[your Malzeno child starts hanging out with a bad crowd](https://desu-usergeneratedcontent.xyz/trash/image/1686/43/1686436862690.png)
 >Yet another example of how hard it is being a monster's dad.
 
 \>be huntanon

@@ -615,6 +615,11 @@ If you have questions, you may catch me under the name "Weicon" on the Pygmalion
 - [How to make a character - https://rentry.org/create-a-character-for-fucking-idiots](https://rentry.org/create-a-character-for-fucking-idiots)
 - [Avakson's Character Editor - https://avakson.github.io/character-editor/](https://avakson.github.io/character-editor/)
 
+Here are a few sources of character cards:
+- [Chub (AKA CharHub, CharacterHub, Character Hub)](https://chub.ai/)
+- [Booru +pygmalion](https://booru.plus/+pygmalion)
+- [Trappu's Character Cards](https://rentry.org/TrappusRentry)
+
 ## Other resources & links
 
 - [The Novice's LLM Training Guide by Alpin - https://rentry.org/llm-training](https://rentry.org/llm-training)

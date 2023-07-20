@@ -2,6 +2,10 @@ Map
 A Clover Guild Story
 By Ribombee-anon
 
+
+-> *Note: A slightly updated version of this story can be found here: https://rentry.org/RibombeeJournal#map* ->
+
+
 There I stood, staring up at my giant enemy. In its clutches, high above my reach, it held the treasure I sought: a map. I couldn’t negotiate with this colossus. I couldn’t defeat it in a fight. But somehow, I had to claim my prize from it.
 
 “Are you okay, Booker?”

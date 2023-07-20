@@ -18,15 +18,18 @@ If you're curious about a service, the OP should have the information you need.
 | Claude (API)   | 🏆   | 🏆  | 🥈     | 🏆         | 🥈           | FREE   | 🥈        |
 | Claude (Slack) | 🥈   | 🏆  | 🌱     | 🏆         | 🥈           | FREE   | 🌱        |
 | Davinci-3      | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |
+| NovelAI (Clio) | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |
 | Turbo          | 🥈   | 🥈  | 🥈     | 🥈         | 🌱           | LOW    | 🥈        |
 | CAI            | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
 | Claude (Poe)   | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
 | Pyg (LLaMA)    | 🥈   | 🥈  | 🌱     | 🌱         | 🌱           | FREE   | 🌱        |
 | NovelAI        | 🌱   | 🌱  | 🌱     | 🌱         | 🌱           | MEDIUM | 🥈        |
 | Pyg 6B         | 🌱   | ⛔  | 🌱     | 🌱         | 🌱           | FREE   | 🥈        |
+| Claude (Slaude2) | ?   | ?  | ?     | ?         | ?           | FREE   | 🌱        |
 
 Notes:
-- I'm removing LLaMA from this chart because there are tons of variants, including some that are very good in everything (other than the 2k memory), but it's very difficult to present accurate and comprehensive information for all the tunes. Seek out /lmg/ for the time being.
+- Someone needs to do this for the recent local models, seriously.
+- Currently, best results on Clio when using another model for the first few messages, or bots with long example messages. Expect short answers otherwise.
 
 Quick notes on how to access each:
 - GPT-4: Join the [official waitlist](https://openai.com/waitlist/gpt-4-api) (make a convincing application), or use a reverse proxy that has it ([proxy links](https://alwaysfindtheway.github.io) / [agnai video guides](https://rentry.org/agnai_guides) / [tavern guide](https://rentry.org/Tavern4Retards))
@@ -38,17 +41,17 @@ Quick notes on how to access each:
 
 ## Frontend (service support)
 
-Only two frontends are currently recommended, Silly and the newer option Agnai. Both have a lot of different features and are improving fast.
+Three frontends are currently recommended, Silly, Agnai, and Risu. All have a lot of different features and are improving fast.
+
+Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 
 [Miku](https://docs.miku.gg) is noteworthy, but difficult to compare. It uses sentiment classification to show different sprites for each message, and text-to-speech, supporting OAI, Kobold, Whisper, AzureTTS, ElevenLabs, and NovelAITTS.
 
-[RisuAI](https://risu.pages.dev) is noteworthy but I'm not knowledgeable about its features yet.
-
-
 |       | OAI | NAI | Kobold | Scale | Poe | Claude API | Claude (Slack) |
 |-------|-----|-----|--------|-------|-----|------------|----------------|
-| Silly | ✅  | ✅  | ✅     | 🚫    | ✅  | 🚫         | ✅ (fork)      |
-| Agnai | ✅  | ✅  | ✅     | ✅    | 🚫  | ✅         | ⚠️  (slaude locally?) |
+| Silly | ✅  | ✅  | ✅     | 🚫    | ✅  | ✅         | ✅ (fork)      |
+| Agnai | ✅  | ✅  | ✅     | ✅    | 🚫  | ✅         | ✅ (locally)   |
+| Risu  | ?  | ?  | ?     | ?    | ?  | ?         | ?   |
 
 ## Frontend (features)
 
@@ -59,10 +62,10 @@ Supported by all:
 - control over the prompt
 - phone access
 
-|         |UJB | WEB OPTN  | MULTI CHARA | TREES | IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS (11labs)| EMOTION PACKS |
-|---------|--- |-----------|-------------|-------|-------------|---------|---------|------------|------------|-------------|---------------|
-| Silly   |✅ | ✅ (Colab) | ✅          | ⚠️     | ✅ (ext)    | ✅ (ext)| ✅ (ext)|  🚫        | 🚫         |✅           |✅ (ext)       |
-| Agnai   |✅ | ✅         | ✅          | ⚠️     | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅           |🚫             |
+|         |UJB | WEB OPTN  | MULTI CHARA |  IMG CAPTION | IMG GEN | SUMMARY | MULTI-USER | SCREENSHOT | TTS (11labs)| EMOTION PACKS | EMBEDDINGS |
+|---------|--- |-----------|-------------|-------------|---------|---------|------------|------------|-------------|---------------|------------|
+| Silly   |✅ | ✅ (Colab) | ✅          | ✅ (ext)    | ✅ (ext)| ✅ (ext)|  🚫        | 🚫         |✅           |✅ (ext)       |✅          |
+| Agnai   |✅ | ✅         | ✅          | 🚫          | ✅      | 🚫      |  ✅        | ✅         |✅           |🚫             |✅          |
+| Risu   |? | ?         | ?          |  ?          | ?      | ?      |  ?        | ?         | ?           | ?             | ?          |
 
 - (ext) means you have to install [the Silly extras](https://github.com/Cohee1207/SillyTavern-extras#modules). They can be a little complicated to setup for non-technical users.
-- **Trees**: Very partial support. Agnai can swipe latest messages. Silly preserves old swipes, but requires you to delete any message following them to access them.

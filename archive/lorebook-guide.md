@@ -425,6 +425,16 @@ The effect is even stronger wtih attribute method:
 	The AI did make use of some details from the past tho. But as I said, I chose the most important ones that can shape their characters. Like, an orphan will face more hardships that lead to them being more pragmatic.
 - *Question:* **I have a character i am very fond of that lost her left arm in an accident, how should i go about trying to get the AI to recognize that or put them into my story?**
 	- *Answer:* You need to give the AI examples. [This guide uses this principle](https://naidb.miraheze.org/wiki/Narrative_Example_Tutorial). Generally, stuff that goes against the norm (kinda), like non-talking animals and some lost body functions (deaf/mute/etc.) need examples and steering to work well. 
+- *Question:* **How do I force the AI to reference current story?**
+	- *Answer:* Simply type these in your ongoing story, and let the AI generate. Then, cut and paste it into actual entry.
+For Attributes, you only need: `----`
+`Naomi`
+`Type: female spy`
+For Snippets, you need: `----`
+`[ Knowledge: Naomi; Type: female spy ]`
+`Naomi:`
+For Prose, just use: `----`
+`[ Knowledge: Naomi; Type: female spy ]`
 
 ##Special keys
 Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain, [see this to learn more](https://naidb.miraheze.org/wiki/Using_Regex) - But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
