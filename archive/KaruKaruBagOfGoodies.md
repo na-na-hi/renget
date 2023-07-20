@@ -2,6 +2,7 @@
 
 -> **KaruKaru's Bag of Goodies** <-
 -> *Newest update: minor modificationt to gaslighting prompt to strengthen the effects. Added more explanation of the XML tag usage.*<-
+-> Currently working on: Finding a better tag for ban, messing around with JB because Claude's filter got strengthen... Again. <-
 
 ***
 -> Hello, I am KaruKaru~ I've been messing around with JBs for 2 to 3 days I managed to make an universal jailbreak for gpt and claude (API model and claude.ai/clewd included)! <-

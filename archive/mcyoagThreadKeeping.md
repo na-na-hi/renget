@@ -41,15 +41,18 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
-https://rentry.org/f5xpe
+>Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
+https://rentry.org/svwyy
 
 Artfags:
->Mystery & Detective Stories for Kids
->>89621560
+>Sally Getting Drilled from Behind (In Color)
+>>89628318
 
->Noah the Saint
->>89625515
+Character Cards:
+>Yako
+>>89626950
+>Capture Cloth
+>>89628968
 
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
@@ -569,6 +572,8 @@ https://rentry.org/7s2qg
 https://rentry.org/bga3m
 >DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
 https://rentry.org/f5xpe
+>Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
+https://rentry.org/svwyy
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

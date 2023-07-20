@@ -26,6 +26,7 @@ https://www.nexusmods.com/baldursgate3/
 \>Race: https://strawpoll.com/kjn18WPzeyQ
 \>Class: https://strawpoll.com/eNg69DKKjnA
 \>Alignment: https://strawpoll.com/PKgl3d87anp
+\>Companions: https://strawpoll.com/bVg8o8l3VnY
 
 Latest OP pasta (will be updated): https://rentry.org/bgg_pasta
 

@@ -17,7 +17,7 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
 **Katrina** | **657 Tokens (320 Permanent)**
-![Your python code makes mommy smirk](https://files.catbox.moe/nydzk7.png) | Autism-tier milf who wants a cocktail, you are convinient shield from possible guys hitting on her. I heard she can be fun to chat with in general. Made for [Silver Surfer](https://rentry.org/SilverSurfer) legend, who also provided the card art once again. Love ya dood.  | [Card](https://files.catbox.moe/nl4u0b.png) [JSON](https://files.catbox.moe/mv204s.json) [CHUB](https://www.chub.ai/characters/playalundra/f96b5d1e-01e0-40de-8081-2d394b11d2ad)
+![Your python code makes mommy smirk](https://files.catbox.moe/nydzk7.png) | Autism-tier milf who wants a cocktail, you are convinient shield from possible guys hitting on her. I heard she can be fun to chat with in general. Made for [Silver Surfer](https://rentry.org/SilverSurfer) legend, who also provided the card art once again. Love ya dood. Katrina can be sometimes a bit... Forward, so warning about that is in order. |  [Card](https://files.catbox.moe/nl4u0b.png) [JSON](https://files.catbox.moe/mv204s.json) [CHUB](https://www.chub.ai/characters/playalundra/f96b5d1e-01e0-40de-8081-2d394b11d2ad)
 
 ## Oppai Lolis
 

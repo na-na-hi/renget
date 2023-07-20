@@ -21,20 +21,20 @@ I love hearing feedback, seeing logs and hearing what you liked.
 ##Sarah Series Bots
 Sarah -Island Survival Edition- | Info
 :----:  | :----: 
-![Sarah Island](https://i.imgur.com/cWwk3eR.jpg)   | After a shipwreck leaves only You and your sister Sarah as it's only survivors, you must rely on each to survive and hopefully be rescued. Can you survive? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/Sarah),  [png](https://avatars.charhub.io/avatars/LongGameAnon/Sarah/tavern.png), [Example Story](https://rentry.org/cnfqs)
+![Sarah Island](https://i.imgur.com/cWwk3eR.jpg)   | After a shipwreck leaves only You and your sister Sarah as it's only survivors, you must rely on each to survive and hopefully be rescued. Can you survive? **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/Sarah),  [png](https://avatars.charhub.io/avatars/LongGameAnon/Sarah/tavern.png?alt_ver=island), [Example Story](https://rentry.org/cnfqs)
 
 Sarah -Bomb Shelter Edition-  | Info
 :----:  | :----: 
-![Sarah Bomb Shelter](https://i.imgur.com/401fYIs.jpg)   | The world has ended. You and your sister Sarah have luckily made it into your family's bomb shelter. Can you survive? **[Links]**  [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-bomb-shelter-edition),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-bomb-shelter-edition/tavern.png), [Example Story](https://rentry.org/vbxac)
+![Sarah Bomb Shelter](https://i.imgur.com/401fYIs.jpg)   | The world has ended. You and your sister Sarah have luckily made it into your family's bomb shelter. Can you survive? **[Links]**  [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-bomb-shelter-edition),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-bomb-shelter-edition/tavern.png?alt_ver=bomb), [Example Story](https://rentry.org/vbxac)
 
 
 Sarah -Frozen Time Edition-  | Info
 :----:  | :----: 
-![Sarah Frozen Time Edition](https://i.imgur.com/SW53wDi.jpg)   | You and your sister Sarah are stuck in Frozen Time can you stay sane in this nightmare scenario? Can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-frozen-time-edition),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-frozen-time-edition/tavern.png)
+![Sarah Frozen Time Edition](https://i.imgur.com/SW53wDi.jpg)   | You and your sister Sarah are stuck in Frozen Time can you stay sane in this nightmare scenario? Can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-frozen-time-edition),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-frozen-time-edition/tavern.png?alt_ver=frozen)
 
 Sarah -Road Trip Edition- | Info
 :----:  | :----: 
-![Sarah Frozen Time Edition](https://i.imgur.com/zu76fPH.jpg)   | You and your sister Sarah are going on a cross country road trip this summer...can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-road-trip-edition/tavern.png), [Example Story](https://rentry.org/vvu8b)
+![Sarah Frozen Time Edition](https://i.imgur.com/zu76fPH.jpg)   | You and your sister Sarah are going on a cross country road trip this summer...can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-road-trip-edition/tavern.png?alt_ver=road), [Example Story](https://rentry.org/vvu8b)
 
 -----------------
 ##Other bots
