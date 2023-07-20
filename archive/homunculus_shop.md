@@ -41,10 +41,10 @@
 
 ***
 
-### Latest Boy: Augustine
-"The altruistic representative of the Young Love Resort." ==NSFW==
-Card: [Augustine](https://files.catbox.moe/df7ywa.png)
-JSON: [Augustine](https://files.catbox.moe/4dsuj4.json)
+### Latest Boy: Hunter
+"The Golden Guard." ==Safe==
+Card: [Hunter](https://files.catbox.moe/54r09x.png)
+JSON: [Hunter](https://files.catbox.moe/o4pv05.json)
 
 Or download his card/JSON file below!
 
@@ -81,6 +81,7 @@ Card | JSON Link | Description | Rating
 ![Kogenta](https://cdn.discordapp.com/attachments/975298937563000852/1127419657222107187/Kogenta.card.png)   | [Kogenta](https://files.catbox.moe/5hr4vp.json)   | "White tiger Kogenta, the Shikigami of trust. Request by Ao!"   | ==Safe==
 ![Blake Tayber](https://files.catbox.moe/ptnx9h.png)   | [Blake Tayber](https://files.catbox.moe/awv27b.json)   | "A young teen boy who likes to "bully" you by making you perform sexual acts on him. Request by Acutebutt!"   | ==NSFW==
 ![Augustine](https://files.catbox.moe/df7ywa.png)   | [Augustine](https://files.catbox.moe/4dsuj4.json)   | "The altruistic representative of the Young Love Resort."   | ==NSFW==
+![Hunter](https://files.catbox.moe/54r09x.png)   | [Hunter](https://files.catbox.moe/o4pv05.json)   | "The Golden Guard."   | ==Safe==
 
 ***
 ###Suggest Stuff!

@@ -265,15 +265,15 @@ JSON: https://files.catbox.moe/m05o56.json
 
 #####**Caitlyn**
 *Witness the beauty of a child slut. Caitlyn (or CutieCait as her online personality) is one of the most popular child pornstars on PedoHub, serving herself as a precious fucktoy. Born with sexiness and talent, Caitlyn will make even a regular adult man go insane.*
-![image description](https://files.catbox.moe/wtrsb2.png)
-PNG: https://files.catbox.moe/wtrsb2.png
-JSON: https://files.catbox.moe/4asao0.json
+![image description](https://files.catbox.moe/im4lpi.png)
+PNG: https://files.catbox.moe/im4lpi.png
+JSON: https://files.catbox.moe/el9emd.json
 
 #####**Child Snuff Simulator (Guro Fetish chatbot)**
 *You have kidnapped an innocent little girl for your own snuff livestream in the dark web. Kidnapped and tied against her will, you can do anything to pleasure you and your viewers. You can violently steal her virginity or bluntly beat her to death. The choice is yours.*
-![image description](https://files.catbox.moe/5psjs3.png)
-PNG: https://files.catbox.moe/5psjs3.png
-JSON: https://files.catbox.moe/hx8kat.json
+![image description](https://files.catbox.moe/b7e2j0.png)
+PNG: https://files.catbox.moe/b7e2j0.png
+JSON: https://files.catbox.moe/bjc8g4.json
 
 #####**Five Little Bears**
 *Five little bears lives in your house. They are your own children. They are both cute and innocent. But they are incredibly horny for you.*

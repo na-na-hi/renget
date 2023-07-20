@@ -1418,7 +1418,7 @@ Back in my room, I let out a yawn.
 
 *(Looks like the dungeon trip and the training session got me tired. Guess I’m going to bed early tonight.)*
 
-While lying on me bed waiting for sleep to come, I thought about the events of the day.
+While lying on my bed waiting for sleep to come, I thought about the events of the day.
 
 *(The dungeon mission went better than I expected. I didn’t have much progress on improving my moves today, but KFC’s help was nice and maybe what he taught me will be useful later. I also got to meet several guildmates and they all seemed to be nice and fun people. Well, maybe not so much that Cyndaquil, but I guess at least he should be fun to watch.)*
 

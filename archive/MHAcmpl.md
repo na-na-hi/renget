@@ -327,6 +327,8 @@ Karma: https://img.4plebs.org/boards/tg/image/1680/20/1680203731093076.png
 Android: https://img.4plebs.org/boards/tg/image/1686/45/1686456023719910.png
 Recoil: https://desu-usergeneratedcontent.xyz/tg/image/1689/48/1689482245393.png
 Mirror Devil: https://desu-usergeneratedcontent.xyz/tg/image/1689/47/1689477510416.png
+Yako: https://desuarchive.org/tg/thread/89625880/#89626950
+Capture Cloth: https://desuarchive.org/tg/thread/89625880/#89628968
 ***
 
 ## CARD GAME
@@ -537,6 +539,9 @@ It's Reaping time!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/16893
 Nene-chan!: https://desuarchive.org/tg/thread/89565846/#89573486
 Nene Feline Good: https://desuarchive.org/tg/thread/89586376/#q89586712
 mmmmm milk: https://desuarchive.org/tg/thread/89586376/#89589591
+Mystery & Detective Stories for Kids: https://desuarchive.org/tg/thread/89615875/#89621560
+Noah the Saint: https://desuarchive.org/tg/thread/89615875/#89625515
+Sally Getting Drilled from Behind (In Color): https://desuarchive.org/tg/thread/89625880/#89628318
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -780,6 +785,8 @@ Do Unto Others (Last Rite, Android): https://rentry.org/5ud7y
 Purrfect Day (Bakeneneko, Capture Cloth, The Boys™): https://rentry.org/wyny7
 Official Hive Video Channel List (The Clique): https://rentry.org/7s2qg
 Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi): https://rentry.org/bga3m
+DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako): https://rentry.org/f5xpe
+Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy): https://rentry.org/svwyy
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

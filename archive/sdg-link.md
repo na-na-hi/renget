@@ -2,8 +2,8 @@
 !!! note 
 	This page contains all the links (and even more that couldn't fit) in the opening posts for /sdg/ threads on https://boards.4channel.org/g/
 [TOC2]
-
-
+!!! info
+	---------------------------
 ##Local Install
 ###Nvidia GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
@@ -30,7 +30,8 @@ http://rentry.org/cputard
 https://rentry.org/webui-cpu
 ###Apple CPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
-
+!!! info
+	---------------------------
 ##Run Cloud Hosted Instance
 ###Colab
 https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb
@@ -43,7 +44,8 @@ https://rentry.org/865dy
 ###Kaggle
 https://www.kaggle.com/code/miolovers1/stable-diffusion-automatic1111
 https://www.kaggle.com/code/klaytrop/sdg4u
-
+!!! info
+	---------------------------
 ##Try online without registration
 ###txt2img
 https://huggingface.co/spaces/stabilityai/stable-diffusion
@@ -58,7 +60,8 @@ https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting
 https://inpainter.vercel.app/paint
 ###SDXL-online
 https://clipdrop.co/stable-diffusion
-
+!!! info
+	---------------------------
 ##Models, Textual Inversion & Embeddings
 https://civitai.com
 https://huggingface.co
@@ -68,7 +71,8 @@ https://rentry.org/animusmixed
 https://rentry.org/embeddings
 https://rentry.org/lftbl
 https://rentry.org/sdmodels
-
+!!! info
+	---------------------------
 ##SDXL
 ###What is SDXL?
 https://stability.ai/blog/sdxl-09-stable-diffusion
@@ -102,18 +106,27 @@ https://old.reddit.com/r/StableDiffusion/comments/153907z/sdxl_will_be_out_in_a_
 
 ~~July 18th according to Emad of Stability AI
 https://twitter.com/EMostaque/status/1676923097159712768~~
-
+!!! info
+	---------------------------
 ##Guides
 ###Wiki
 https://www.sdcompendium.com
+###Animation
+https://rentry.org/AnimAnon
+###Deforum
+https://rentry.org/AnimAnon-Deforum
+###Loopback Wave
+https://rentry.org/AnimAnon-LoopbackWave
+https://rentry.org/sd-loopback-wave
 ###ControlNet
 https://rentry.org/dummycontrolnet
 ###VAE usage
 https://rentry.org/sdvae
-###Block Merging
-https://rentry.org/BlockMergeExplained
-###Clip Fix
-https://rentry.org/clipfix
+###Inpainting/Outpainting
+https://rentry.org/inpainting-guide-SD
+https://rentry.org/drfar
+###Upscaling images
+https://rentry.org/sdupscale
 ###LoRA
 https://rentry.org/6172384
 https://rentry.org/LazyDAdaptationGuide
@@ -129,13 +142,12 @@ https://gitgud.io/gayshit/makesomefuckingporn#lora-list
 https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb
 https://rentry.org/lora-training-science
-###Animation
-https://rentry.org/AnimAnon
-###Deforum
-https://rentry.org/AnimAnon-Deforum
-###Loopback Wave
-https://rentry.org/AnimAnon-LoopbackWave
-https://rentry.org/sd-loopback-wave
+###AI Porn Guide
+https://gitgud.io/gayshit/makesomefuckingporn
+###Block Merging
+https://rentry.org/BlockMergeExplained
+###Clip Fix
+https://rentry.org/clipfix
 ###Hires Fix Jan 2023
 https://rentry.org/hiresfixjan23
 ###SD2
@@ -144,14 +156,9 @@ https://rentry.org/dummySD2
 https://rentry.org/sdg_FAQ
 ###Prompting Tips
 https://rentry.org/hdgpromptassist
-###Inpainting/Outpainting
-https://rentry.org/inpainting-guide-SD
-https://rentry.org/drfar
 ###Dreambooth
 https://github.com/smy20011/dreambooth-gui
 https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreamboothhttps://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb
-###Upscaling images
-https://rentry.org/sdupscale
 ###Textual inversion
 https://rentry.org/textard
 ###Training
@@ -160,8 +167,9 @@ https://rentry.org/informal-training-guide
 https://rentry.org/hypernetwork4dumdums
 ###Safetensors
 https://rentry.org/safetensorsguide
-
-##Tools & Resource
+!!! info
+	---------------------------
+##Tools & Resources
 ###Benchmarking
 https://vladmandic.github.io/sd-extension-system-info/pages/benchmark.html
 https://docs.getgrist.com/3mjouqRSdkBY/sdperformance
@@ -177,11 +185,12 @@ https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7
 https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d
 https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit#gid=1533595411
 ###Prompt sharing
-https://lexica.art/
-https://krea.ai/
-https://pixai.art/
+https://tensor.art/posts
+https://lexica.art
+https://krea.ai
+https://pixai.art
 https://seek.art/explore
-https://publicprompts.art/
+https://publicprompts.art
 https://prompthero.com/stable-diffusion-prompts
 https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
 https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
@@ -198,9 +207,8 @@ https://rom1504.github.io/clip-retrieval/
 https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 ###/sdg/ prompts
 https://rentry.org/54d9o
-###Wiki
-https://wiki.installgentoo.com/wiki/Stable_Diffusion
-
+!!! info
+	---------------------------
 ##SD plugins
 ###Krita
 https://www.flyingdog.de/sd/en
@@ -214,7 +222,8 @@ https://github.com/carson-katri/dream-textures
 https://github.com/benrugg/AI-Render
 ###GIMP
 https://github.com/blueturtleai/gimp-stable-diffusion
-
+!!! info
+	---------------------------
 ##Related Boards
 https://boards.4chan.org/h/#s=hdg
 https://boards.4chan.org/e/#s=sdg
@@ -223,9 +232,11 @@ https://boards.4chan.org/b/#s=degen
 https://boards.4channel.org/vt/#s=vtai
 https://boards.4chan.org/aco/#s=asdg
 https://boards.4chan.org/trash/#s=sdg
-
+!!! info
+	---------------------------
 ##Official Discord
 discord.gg/stablediffusion
-
+!!! info
+	---------------------------
 ##Bakery
 Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 18th - https://pastebin.com/h7WRB644

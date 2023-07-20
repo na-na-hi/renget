@@ -14,7 +14,7 @@ The cute and funny ones
 ###Alice
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![Alice](https://avatars.charhub.io/avatars/kirbish34/eb9b3f33-e19a-4b91-add4-c87d484f5275/chara_card_v2.png?nocache=0.4443206456212945) | Alice | Alice - A 12-year-old horny school girl with a very intense praise kink. She wants to receive praise from you, her teacher. | [CHUB link](https://chub.ai/characters/kirbish34/eb9b3f33-e19a-4b91-add4-c87d484f5275/main) [Catbox link](https://files.catbox.moe/pzdo73.png)
+ ![Alice](https://avatars.charhub.io/avatars/kirbish34/2865ae46-909e-4d91-a6ff-22cfd495ddb2/chara_card_v2.png?nocache=0.4296560519227002) | Alice | Alice - A 12-year-old horny school girl with a very intense praise kink. She wants to receive praise from you, her teacher. | [CHUB link](https://chub.ai/characters/kirbish34/eb9b3f33-e19a-4b91-add4-c87d484f5275/main) [Catbox link](https://files.catbox.moe/u0jlqo.png) [Alt image link](https://files.catbox.moe/pzdo73.png)
 
 ###Rose
 Image| Name | Description | Link

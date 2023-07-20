@@ -11,7 +11,7 @@ Those with this aura color are hot-headed and passionate. They are quick to ange
 ####Pink
 Those with this aura color are friendly and cheerful. They live to help others and love when everyone in the room is as happy as them. However, they also tend to be gullible and easily tricked.
 ####Orange
-Those with this aura color are bold and self-assured. They are the center of attention and the life of the party. However, they also tend to be arrogant and may be hostile to those who don't show them the respect they are accustomed to. 
+Those with this aura color are valiant and self-assured. They are the center of attention and the life of the party. However, they also tend to be arrogant and may be hostile to those who don't show them the respect they are accustomed to. 
 ####Yellow
 Those with this aura color are outgoing and energetic. They love to be around others and always want to be up and about. They get things done as fast as possible. However, they are also hyperactive and tend to lose focus easily, so don't expect them to complete any long projects.
 ####Lime

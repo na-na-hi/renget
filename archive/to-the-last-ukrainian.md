@@ -107,6 +107,11 @@
 >"...in any case? I just too afraid to leave the car even, I don't know what will happen"
 >"mom, you most importantly don't lose yourself now... I will now.. [incoherent] ...car"
 
+[ [catbox](https://files.catbox.moe/ilug7b.mp4) | [ipfs](https://ipfs.io/ipfs/QmRnNifvoShp8oYiGpcTobVtsrc7cDYVTTLvyWNdTJbzox) ]
+>"what right do they have to do that to people?"
+>"this is Hlyboka [town]"
+>"yes let's film, because you don't do it like that"
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign
