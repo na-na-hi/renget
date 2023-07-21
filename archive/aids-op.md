@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.4cdn.org/vg/1689294187559745.jpg)
-Warming Edition
+![suggested OP image](https://i.imgur.com/gt2S7Sq.jpg)
+CFG Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>438126529
+Last thread: >>438561097
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -12,7 +12,7 @@ NovelAI — Paid; remote SaaS: https://novelai.net
 KoboldAI — Free; local or remote colab: https://koboldai.org / https://koboldai.org/colab
 KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
 KoboldAI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
-\>KoboldAI on CPU — Free; local https://koboldai.org/cpp
+KoboldAI on CPU — Free; local https://koboldai.org/cpp
 Saga  — Paid, remote multi-model https://app.sagarpg.io
 
 ▶Other AI
@@ -33,14 +33,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write sunny prompts for this week's theme: Summer Friday! >>437684421
+\>Today is Summer Friday! Reply to the anchorpost with your sunny prompts! Last: >>438623258
  
 ▶News
-\>(07/18) LLaMA 2 released: https://ai.meta.com/llama >>438307469
+\>(07/20) NAI drops https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
+(07/18) LLaMA 2 released: https://ai.meta.com/llama >>438307469
 (07/09) Pretraining on the next NAI model is complete, no ETA yet.
 (07/06) Sama-chama goes Global https://openai.com/blog/gpt-4-api-general-availability
 (07/06) Continuing the Stability tradition, SDXL gets leaked https://pastebin.com/b8kXrkAF
-(06/29 Huge Saga Update: Turbo works again, GPT-4, Tailwind… >>436140401 >>436140937 >>436141853
 
 
 #Perma-Template

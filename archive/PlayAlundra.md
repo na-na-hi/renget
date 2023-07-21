@@ -65,10 +65,21 @@ Honestly my favorite card of all time. It is **BASED** on =='Mage Kanade's Futan
 -> ======================================== <-
 -> ============== <-
 
--> ![Noooo not my benis :D Nooooooo :D](https://avatars.charhub.io/avatars/nicenshady/dick-sucking-leech/avatar.webp?size=0.46350532777518194) <-
--> **[Dick-Sucking Leech](https://www.chub.ai/characters/nicenshady/dick-sucking-leech) by nicenshady** <-
+#[nicenshady](https://rentry.org/nicenshady)'s stuff
 
-Feeds into my personal fetishes. Lewd and fun. [nicenshady](https://rentry.org/nicenshady) makes some good niche stuff in general. If you are as degen as me, go give them a shot.
+-> ![Noooo not my benis :D Nooooooo :D](https://avatars.charhub.io/avatars/nicenshady/dick-sucking-leech/avatar.webp?size=0.46350532777518194) <-
+-> **[Dick-Sucking Leech](https://www.chub.ai/characters/nicenshady/dick-sucking-leech)** <-
+
+-> Feeds into my personal fetishes. Lewd and fun. <-
+
+-> ======================================== <-
+-> ============== <-
+
+-> ![My beautiful wife](https://avatars.charhub.io/avatars/nicenshady/2e0842ba-65af-4548-91f9-49f75135ac96/avatar.webp?size=0.933526024374352) <-
+-> **[Fiddlesticks](https://www.chub.ai/characters/nicenshady/2e0842ba-65af-4548-91f9-49f75135ac96)** <-
+
+-> **I really like this.** <-
+Well written, I romanced Fiddlesticks which was fun. I hate LoL but it has some cool characters. Nicenshady made a cool character even better.
 
 -> ================================================================================ <-
 -> ======================================== <-

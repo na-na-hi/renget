@@ -19,135 +19,142 @@ based on a single character ('Ayumi') and a single fixed erotic setting. What is
 
 !!! note **LLaMA 2 based Models have a (L2) in their name.**
 
-Date: 2023-07-20 V27
+Date: 2023-07-21 V29
 
-| Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
-|------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
-|    1 | Lazarus 30B              | 30B | Q4_0  | alpaca         |         0.7 |  🌟 16.1 | 🔵 24.2 | 🔵 59.6 |  🔵 35.3 |
-|    2 | Chronos Hermes 13B       | 13B | Q5_1  | vicuna11       |         0.9 |  🌟 14.7 | 🔵 23.7 | 🔵 57.9 |  🔵 34.0 |
-|    3 | Gplatty SuperHOT 8k 30B  | 30B | Q2_K  | vicuna11st     |         0.7 |  🌟 13.2 | 🔵 25.4 | 🔵 59.2 |  🔵 36.3 |
-|    4 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q5_1  | vicuna11       |         0.9 |   ⭐ 12.9 |     20.6 | 🔵 56.5 |  🔵 32.4 |
-|    5 | Wizard Vic UC SuperHOT 13B | 13B | Q2_K  | alpaca         |         0.9 |   ⭐ 12.8 |     20.5 | 🔵 55.8 |  🔵 31.3 |
-|    6 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) | 33B | Q4_0  | vicuna         |         0.7 |   ⭐ 12.6 |     21.1 | 🔵 52.0 |  🔵 29.9 |
-|    7 | WizardLM UC SCOT ST 30B  | 30B | Q4_0  | alpaca         |         0.9 |   ⭐ 12.4 | 🔵 22.9 | 🔵 60.0 |  🔵 34.9 |
-|    8 | Wizard Vicuna Uncens 30B | 30B | Q4_0  | vicuna11st     |         0.7 |   ⭐ 12.3 |     20.4 | 🔵 50.0 |  🔵 28.9 |
-|    9 | Chronos WizLM UC SCOT ST 13B | 13B | Q4_0  | alpaca         |         0.7 |   ⭐ 12.2 | 🔵 27.3 | 🔵 52.8 |  🔵 30.8 |
-|   10 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) | 33B | Q2_K  | vicuna11st     |         0.7 |   ⭐ 11.7 |     18.6 | 🔵 47.0 |  🔵 27.3 |
-|   11 | Chronos 13B              | 13B | Q4_0  | alpaca         |         0.7 |   ⭐ 11.7 | 🔵 28.2 | 🔵 53.5 |  🔵 31.1 |
-|   12 | GPT4 x Alpaca 13B        | 13B | Q4_0  | vicuna11st     |         0.7 |   ⭐ 11.2 |     21.5 |  37.9 |       23.3 |
-|   13 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |         0.9 |   ⭐ 11.2 | 🔴 18.1 |  41.0 |       23.4 |
-|   14 | Pythia Green Devil 13B   | 13B | Q16_0 | vicuna         |         0.9 |   ⭐ 11.1 |     20.5 |  41.1 |       24.2 |
-|   15 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |         0.7 |   ⭐ 10.9 | 🔵 24.9 |  42.0 |       24.6 |
-|   16 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |         0.7 |   ⭐ 10.9 |     18.7 | 🔵 46.6 |  🔵 24.9 |
-|   17 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q2_K  | vicuna11st     |         0.9 |   ⭐ 10.8 |     20.1 | 🔵 59.8 |  🔵 33.5 |
-|   18 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |         0.7 |   ⭐ 10.8 | 🔵 24.4 |  43.6 |  🔵 25.9 |
-|   19 | Pythia Dedup Gr. Devil 13B | 13B | Q16_0 | alpaca         |         0.9 |   ⭐ 10.0 | 🔵 24.7 |  35.5 |       21.6 |
-|   20 | Wizard Vic UC SuperHOT 13B | 13B | Q5_K_S | vicuna11st     |         0.9 |   ⭐ 10.0 |     19.4 |  36.5 |       21.7 |
-|   21 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 9.8 | 🔴 18.1 |  38.4 |       23.0 |
-|   22 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |         0.7 |    ⭐ 9.1 | 🔴 17.3 |  36.0 |       19.6 |
-|   23 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |    ⭐ 8.9 |     21.5 | 🔵 50.6 |  🔵 28.3 |
-|   24 | Vicuna 1.3 7B            |  7B | Q8_0  | metharme       |         0.7 |    ⭐ 8.9 |     20.1 |  46.5 |       23.9 |
-|   25 | Minotaur 13B             | 13B | Q5_1  | vicuna         |         0.7 |    ⭐ 8.7 | 🔴 17.6 |  36.1 |       19.7 |
-|   26 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 8.6 |     20.1 |  35.1 |       19.1 |
-|   27 | Airoboros GPT4 1.3 7B    |  7B | Q5_1  | metharme       |         0.9 |    ⭐ 8.6 |     19.7 | 🔴 26.3 |  🔴 15.7 |
-|   28 | Airoboros GPT4 1.3 7B    |  7B | Q4_0  | vicuna11       |         0.7 |    ⭐ 8.5 | 🔵 23.6 | 🔴 30.0 |       17.9 |
-|   29 | OpenLLaMA Open Instr 7B  |  7B | Q8_0  | alpaca         |         0.7 |        8.4 | 🔵 22.9 | 🔴 30.6 |       17.4 |
-|   30 | Vicuna 1.3 7B            |  7B | Q4_0  | metharme       |         0.7 |        8.4 |     21.9 | 🔵 50.5 |  🔵 26.5 |
-|   31 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | alpaca         |         0.7 |        8.3 |     20.7 |  38.2 |       21.9 |
-|   32 | Chimera 13B              | 13B | Q4_0  | vicuna         |         0.9 |        8.2 | 🔴 15.9 | 🔴 30.4 |       17.8 |
-|   33 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |        8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
-|   34 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |         0.7 |        8.1 |     20.2 |  38.7 |       21.8 |
-|   35 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |         0.7 |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
-|   36 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q4_0  | vicuna         |         0.7 |        7.9 |     18.9 |  36.6 |       21.2 |
-|   37 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |         0.9 |        7.8 |     19.6 |  31.2 |       17.9 |
-|   38 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q5_1  | vicuna         |         0.9 |        7.8 |     20.3 |  35.0 |       20.8 |
-|   39 | Airoboros GPT4 1.2 13B   | 13B | Q5_1  | vicuna11       |         0.9 |        7.8 | 🔵 22.8 |  32.5 |       19.9 |
-|   40 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |        7.8 | 🔵 28.5 |  36.4 |       20.4 |
-|   41 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |         0.7 |        7.8 |     18.8 |  43.3 |       23.2 |
-|   42 | Airoboros GPT4 1.2 7B    |  7B | Q5_1  | vicuna11st     |         0.7 |        7.7 | 🔵 23.5 | 🔴 26.9 |  🔴 17.1 |
-|   43 | Airoboros GPT4 1.4 13B   | 13B | Q4_0  | vicuna11st     |         0.9 |        7.6 | 🔵 23.6 |  31.8 |       19.2 |
-|   44 | Minotaur Fixed 13B       | 13B | Q5_1  | vicuna11st     |         0.9 |        7.3 |     19.4 |  31.6 |  🔴 17.1 |
-|   45 | RedPajama Instruct 3B    |  3B | Q4_0  | alpaca         |         0.7 |        7.3 |     20.0 | 🔵 51.0 |  🔵 28.2 |
-|   46 | WizardLM 1.0 Uncens 7B   |  7B | Q8_0  | pygmalion      |         0.9 |        7.3 |     18.5 | 🔴 27.8 |  🔴 15.8 |
-|   47 | Airoboros 1.1 13B        | 13B | Q4_0  | alpaca         |         0.9 |        7.0 | 🔵 22.8 |  36.2 |       21.8 |
-|   48 | Airoboros GPT4 1.3 13B   | 13B | Q5_1  | vicuna         |         0.9 |        7.0 | 🔵 22.3 | 🔴 25.9 |  🔴 15.3 |
-|   49 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q5_1  | vicuna11st     |         0.9 |        7.0 | 🔴 18.5 |  39.8 |       21.8 |
-|   50 | Airoboros GPT4 1.3 13B   | 13B | Q4_0  | vicuna11st     |         0.9 |        6.8 |     21.0 | 🔴 25.0 |  🔴 14.4 |
-|   51 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |        6.7 | 🔴 17.3 |  32.6 |  🔴 16.7 |
-|   52 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |         0.9 |        6.5 | 🔵 22.0 |  43.9 |       24.2 |
-|   53 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q2_K  | vicuna11       |         0.7 |        6.5 |     21.3 |  45.3 |  🔵 24.9 |
-|   54 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   55 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   56 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |         0.9 |        6.4 |     18.7 |  39.0 |       20.9 |
-|   57 | OpenLLaMA 3B             |  3B | Q8_0  | alpaca         |         0.9 |        6.3 |     19.2 |  43.0 |       22.1 |
-|   58 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.3 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
-|   59 | WizardLM 1.0 Uncens 13B  | 13B | Q4_0  | pygmalion      |         0.7 |        6.3 | 🔴 14.8 | 🔴 29.1 |  🔴 14.9 |
-|   60 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔴 17.9 | 🔴 25.0 |  🔴 13.8 |
-|   61 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
-|   62 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |         0.9 |        6.2 |     19.7 |  39.4 |       21.4 |
-|   63 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
-|   64 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.2 | 🔴 16.5 |  32.5 |       18.1 |
-|   65 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |         0.7 |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
-|   66 | WizardLM 1.0 Uncens 7B   |  7B | Q4_0  | vicuna         |         0.7 |        6.1 |     20.6 |  34.9 |       18.9 |
-|   67 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        6.0 |     19.2 |  40.7 |       21.7 |
-|   68 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |         0.7 |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
-|   69 | WizardLM Uncens 7B       |  7B | Q5_1  | metharme       |         0.9 |        6.0 |     19.1 | 🔴 23.4 |  🔴 13.2 |
-|   70 | GPT4All Snoozy 13B       | 13B | Q4_0  | pygmalion      |         0.7 |        5.6 | 🔴 18.4 |  38.4 |       20.8 |
-|   71 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q8_0  | alpaca         |         0.7 |        5.6 |     18.9 | 🔴 24.0 |  🔴 14.0 |
-|   72 | Robin v2 13B             | 13B | Q5_1  | vicuna11       |         0.9 |        5.5 |     20.6 | 🔵 47.2 |  🔵 25.6 |
-|   73 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
-|   74 | WizardLM Uncens 7B       |  7B | Q8_0  | pygmalion      |         0.9 |        5.3 |     18.8 | 🔴 26.9 |  🔴 14.9 |
-|   75 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.3 |     20.9 |  39.4 |       22.1 |
-|   76 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q5_1  | vicuna11       |         0.9 |        5.3 | 🔴 17.7 |  37.9 |       20.4 |
-|   77 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.3 |     21.5 | 🔴 26.2 |  🔴 14.4 |
-|   78 | Orca Mini 13B            | 13B | Q4_0  | pygmalion      |         0.9 |        5.2 |     22.0 |  38.2 |       19.9 |
-|   79 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.2 | 🔴 16.4 |  36.0 |       19.1 |
-|   80 | Tulu 13B                 | 13B | Q5_1  | alpaca         |         0.9 |        5.2 | 🔴 16.6 |  39.4 |       21.4 |
-|   81 | Pygmalion 7B             |  7B | Q5_1  | alpaca         |         0.9 |        5.0 |     19.6 | 🔵 49.4 |  🔵 25.7 |
-|   82 | Gorilla 7B               |  7B | Q5_1  | vicuna11       |         0.7 |        5.0 | 🔴 9.8 | 🔴 18.9 |  🔴 10.4 |
-|   83 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |         0.9 |        5.0 |     21.1 |  34.3 |       17.9 |
-|   84 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q2_K  | metharme       |         0.7 |        5.0 |     19.4 |  36.5 |       19.5 |
-|   85 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q8_0  | vicuna11st     |         0.9 |        5.0 | 🔴 17.2 |  38.0 |       20.0 |
-|   86 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |         0.7 |        5.0 | 🔴 18.4 |  45.6 |       22.7 |
-|   87 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
-|   88 | LLaMA 13B                | 13B | Q4_0  | vicuna         |         0.7 |        4.8 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
-|   89 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |         0.7 |        4.8 |     21.1 | 🔴 25.6 |  🔴 13.6 |
-|   90 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |         0.7 |        4.5 | 🔴 16.2 |  41.0 |       19.6 |
-|   91 | Selfee 13B               | 13B | Q4_0  | vicuna         |         0.7 |        4.5 | 🔴 17.8 | 🔴 31.1 |  🔴 16.9 |
-|   92 | Manticore 13B            | 13B | Q5_1  | metharme       |         0.7 |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
-|   93 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.5 | 🔴 18.0 | 🔴 30.4 |  🔴 15.3 |
-|   94 | RedPajama Chat 7B        |  7B | Q4_0  | pygmalion      |         0.7 |        4.3 | 🔵 22.6 |  38.2 |       20.4 |
-|   95 | Tulu 7B                  |  7B | Q8_0  | alpaca         |         0.9 |        4.3 |     20.0 |  40.6 |       21.9 |
-|   96 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |         0.9 |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
-|   97 | UltraLM 13B              | 13B | Q4_0  | pygmalion      |         0.7 |        4.2 |     21.9 | 🔵 46.6 |       24.5 |
-|   98 | Camel Comb 13B           | 13B | Q4_1  | vicuna         |         0.9 |        4.0 |     19.2 |  39.4 |       19.9 |
-|   99 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        4.0 |     18.8 |  37.4 |       20.0 |
-|  100 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q2_K  | vicuna         |         0.7 |        3.8 | 🔴 16.4 | 🔴 23.6 |  🔴 12.2 |
-|  101 | Vicuna 1.3 13B           | 13B | Q4_0  | pygmalion      |         0.7 |        3.8 |     21.9 | 🔵 52.5 |  🔵 28.5 |
-|  102 | Robin v2 7B              |  7B | Q5_1  | vicuna         |         0.7 |        3.8 |     19.5 |  40.6 |       20.9 |
-|  103 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.6 | 🔴 17.2 |  33.9 |       19.4 |
-|  104 | Vicuna 1.3 13B           | 13B | Q5_1  | alpaca         |         0.7 |        3.2 |     20.9 | 🔵 47.8 |  🔵 26.4 |
-|  105 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
-|  106 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q5_1  | vicuna         |         0.7 |        3.1 |     19.9 | 🔵 50.6 |  🔵 25.9 |
-|  107 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q5_1  | alpaca         |         0.7 |        3.1 |     21.2 | 🔵 57.1 |  🔵 30.2 |
-|  108 | Hippogriff 30B           | 30B | Q4_0  | vicuna11       |         0.9 |        2.9 |     19.3 |  41.6 |       21.9 |
-|  109 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 |     21.7 | 🔴 22.4 |  🔴 12.1 |
-|  110 | BigTrans 13B             | 13B | Q4_0  | vicuna11       |         0.9 |        2.8 |     21.9 | 🔴 19.9 |  🔴 10.9 |
-|  111 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.7 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
-|  112 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q2_K  | alpaca         |         0.9 |        2.6 | 🔵 25.6 | 🔵 53.8 |  🔵 30.7 |
-|  113 | Metharme 13B             | 13B | Q5_1  | vicuna         |         0.9 |        2.5 | 🔵 23.6 | 🔴 19.8 |  🔴 10.7 |
-|  114 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
-|  115 | Vicuna 1.3.0 13B         | 13B | Q4_0  | alpaca         |         0.9 |        2.0 | 🔵 25.2 | 🔵 53.7 |  🔵 29.5 |
-|  116 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
-|  117 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.6 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
-|  118 | Samantha 1.1 13B         | 13B | Q4_0  | metharme       |         0.9 |        0.4 | 🔵 43.0 | 🔵 50.8 |  🔵 31.2 |
-|  119 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
+| Rank | Model                    |   B | Qnt   | Prompt Format  |   Judgement |  ERP Score |  Word IQ | Words | Long Words |
+|------:|--------------------------|-----|-------|----------------|-------------|------------:|----------:|-------:|------------:|
+|    1 | Lazarus 30B              | 30B | Q4_0  | alpaca         | Nymphomaniac |  🌟 16.1 | 🔵 24.2 | 🔵 59.6 |  🔵 35.3 |
+|    2 | Chronos Hermes 13B       | 13B | Q5_1  | vicuna11       | Nymphomaniac |  🌟 14.7 | 🔵 23.7 | 🔵 57.9 |  🔵 34.0 |
+|    3 | Gplatty SuperHOT 8k 30B  | 30B | Q2_K  | vicuna11st     | Nymphomaniac |  🌟 13.2 | 🔵 25.4 | 🔵 59.2 |  🔵 36.3 |
+|    4 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q5_1  | vicuna11       |     Pervert |   ⭐ 12.9 |     20.6 | 🔵 56.5 |  🔵 32.4 |
+|    5 | Wizard Vic UC SuperHOT 13B | 13B | Q2_K  | alpaca         |     Pervert |   ⭐ 12.8 |     20.5 | 🔵 55.8 |  🔵 31.3 |
+|    6 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) | 33B | Q4_0  | vicuna         |     Pervert |   ⭐ 12.6 |     21.1 | 🔵 52.0 |  🔵 29.9 |
+|    7 | WizardLM UC SCOT ST 30B  | 30B | Q4_0  | alpaca         |     Pervert |   ⭐ 12.4 | 🔵 22.9 | 🔵 60.0 |  🔵 34.9 |
+|    8 | Wizard Vicuna Uncens 30B | 30B | Q4_0  | vicuna11st     |     Pervert |   ⭐ 12.3 |     20.4 | 🔵 50.0 |  🔵 28.9 |
+|    9 | Chronos WizLM UC SCOT ST 13B | 13B | Q4_0  | alpaca         |     Pervert |   ⭐ 12.2 | 🔵 27.3 | 🔵 52.8 |  🔵 30.8 |
+|   10 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) | 33B | Q2_K  | vicuna11st     |     Pervert |   ⭐ 11.7 |     18.6 | 🔵 47.0 |  🔵 27.3 |
+|   11 | Chronos 13B              | 13B | Q4_0  | alpaca         |       Horny |   ⭐ 11.7 | 🔵 28.2 | 🔵 53.5 |  🔵 31.1 |
+|   12 | GPT4 x Alpaca 13B        | 13B | Q4_0  | vicuna11st     |       Horny |   ⭐ 11.2 |     21.5 |  37.9 |       23.3 |
+|   13 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |       Horny |   ⭐ 11.2 | 🔴 18.1 |  41.0 |       23.4 |
+|   14 | Pythia Green Devil 13B   | 13B | Q16_0 | vicuna         |       Horny |   ⭐ 11.1 |     20.5 |  41.1 |       24.2 |
+|   15 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |       Horny |   ⭐ 10.9 | 🔵 24.9 |  42.0 |       24.6 |
+|   16 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |       Horny |   ⭐ 10.9 |     18.7 | 🔵 46.6 |  🔵 24.9 |
+|   17 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q2_K  | vicuna11st     |       Horny |   ⭐ 10.8 |     20.1 | 🔵 59.8 |  🔵 33.5 |
+|   18 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |       Horny |   ⭐ 10.8 | 🔵 24.4 |  43.6 |  🔵 25.9 |
+|   19 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q2_K  | alpaca         |       Horny |   ⭐ 10.1 |     21.7 | 🔵 49.5 |  🔵 28.6 |
+|   20 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q8_0  | vicuna11       |       Horny |   ⭐ 10.1 |     19.8 |  39.4 |       23.6 |
+|   21 | Pythia Dedup Gr. Devil 13B | 13B | Q16_0 | alpaca         |       Horny |   ⭐ 10.0 | 🔵 24.7 |  35.5 |       21.6 |
+|   22 | Wizard Vic UC SuperHOT 13B | 13B | Q5_K_S | vicuna11st     |       Horny |   ⭐ 10.0 |     19.4 |  36.5 |       21.7 |
+|   23 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |        Lewd |    ⭐ 9.8 | 🔴 18.1 |  38.4 |       23.0 |
+|   24 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q4_0  | vicuna11       |        Lewd |    ⭐ 9.6 | 🔴 18.2 |  40.8 |       22.9 |
+|   25 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |        Lewd |    ⭐ 9.1 | 🔴 17.3 |  36.0 |       19.6 |
+|   26 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |        Lewd |    ⭐ 8.9 |     21.5 | 🔵 50.6 |  🔵 28.3 |
+|   27 | Vicuna 1.3 7B            |  7B | Q8_0  | metharme       |        Lewd |    ⭐ 8.9 |     20.1 |  46.5 |       23.9 |
+|   28 | Minotaur 13B             | 13B | Q5_1  | vicuna         |        Lewd |    ⭐ 8.7 | 🔴 17.6 |  36.1 |       19.7 |
+|   29 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |        Lewd |    ⭐ 8.6 |     20.1 |  35.1 |       19.1 |
+|   30 | Airoboros GPT4 1.3 7B    |  7B | Q5_1  | metharme       |        Lewd |    ⭐ 8.6 |     19.7 | 🔴 26.3 |  🔴 15.7 |
+|   31 | [Ouroboros 13B](https://huggingface.co/TheBloke/13B-Ouroboros-GGML) | 13B | Q2_K  | vicuna11       |        Lewd |        8.5 |     18.7 |  39.2 |       22.1 |
+|   32 | Airoboros GPT4 1.3 7B    |  7B | Q4_0  | vicuna11       |        Lewd |        8.5 | 🔵 23.6 | 🔴 30.0 |       17.9 |
+|   33 | OpenLLaMA Open Instr 7B  |  7B | Q8_0  | alpaca         |        Lewd |        8.4 | 🔵 22.9 | 🔴 30.6 |  🔴 17.4 |
+|   34 | Vicuna 1.3 7B            |  7B | Q4_0  | metharme       |        Lewd |        8.4 |     21.9 | 🔵 50.5 |  🔵 26.5 |
+|   35 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | alpaca         |        Lewd |        8.3 |     20.7 |  38.2 |       21.9 |
+|   36 | Chimera 13B              | 13B | Q4_0  | vicuna         |        Lewd |        8.2 | 🔴 15.9 | 🔴 30.4 |       17.8 |
+|   37 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |        Lewd |        8.1 | 🔵 22.6 | 🔴 31.1 |       18.0 |
+|   38 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |        Lewd |        8.1 |     20.2 |  38.7 |       21.8 |
+|   39 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |        Lewd |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
+|   40 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q4_0  | vicuna         |        Lewd |        7.9 |     18.9 |  36.6 |       21.2 |
+|   41 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |        Lewd |        7.8 |     19.6 | 🔴 31.2 |       17.9 |
+|   42 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q5_1  | vicuna         |        Lewd |        7.8 |     20.3 |  35.0 |       20.8 |
+|   43 | Airoboros GPT4 1.2 13B   | 13B | Q5_1  | vicuna11       |        Sexy |        7.8 | 🔵 22.8 |  32.5 |       19.9 |
+|   44 | Airoboros 7B             |  7B | Q4_0  | alpaca         |        Sexy |        7.8 | 🔵 28.5 |  36.4 |       20.4 |
+|   45 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |        Sexy |        7.8 |     18.8 |  43.3 |       23.2 |
+|   46 | Airoboros GPT4 1.2 7B    |  7B | Q5_1  | vicuna11st     |        Sexy |        7.7 | 🔵 23.5 | 🔴 26.9 |  🔴 17.1 |
+|   47 | Airoboros GPT4 1.4 13B   | 13B | Q4_0  | vicuna11st     |        Sexy |        7.6 | 🔵 23.6 |  31.8 |       19.2 |
+|   48 | Minotaur Fixed 13B       | 13B | Q5_1  | vicuna11st     |        Sexy |        7.3 |     19.4 |  31.6 |  🔴 17.1 |
+|   49 | RedPajama Instruct 3B    |  3B | Q4_0  | alpaca         |        Sexy |        7.3 |     20.0 | 🔵 51.0 |  🔵 28.2 |
+|   50 | WizardLM 1.0 Uncens 7B   |  7B | Q8_0  | pygmalion      |        Sexy |        7.3 |     18.5 | 🔴 27.8 |  🔴 15.8 |
+|   51 | [Redmond Puffin 1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |        Sexy |        7.2 | 🔵 22.5 |  42.9 |       24.6 |
+|   52 | Airoboros 1.1 13B        | 13B | Q4_0  | alpaca         |        Sexy |        7.0 | 🔵 22.8 |  36.2 |       21.8 |
+|   53 | Airoboros GPT4 1.3 13B   | 13B | Q5_1  | vicuna         |        Sexy |        7.0 | 🔵 22.3 | 🔴 25.9 |  🔴 15.3 |
+|   54 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q5_1  | vicuna11st     |        Sexy |        7.0 | 🔴 18.5 |  39.8 |       21.8 |
+|   55 | [Redmond Puffin 1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | vicuna         |        Sexy |        6.9 |     21.1 | 🔵 54.4 |  🔵 31.5 |
+|   56 | Airoboros GPT4 1.3 13B   | 13B | Q4_0  | vicuna11st     |        Sexy |        6.8 |     21.0 | 🔴 25.0 |  🔴 14.4 |
+|   57 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |        Sexy |        6.7 | 🔴 17.3 |  32.6 |  🔴 16.7 |
+|   58 | [Guanaco (L2) 13B](https://huggingface.co/Gryphe/GGML-Quants/tree/main) | 13B | Q4_1  | vicuna11st     |        Sexy |        6.5 | 🔴 17.5 | 🔴 29.9 |  🔴 16.6 |
+|   59 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |        Sexy |        6.5 | 🔵 22.0 |  43.9 |       24.2 |
+|   60 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q2_K  | vicuna11       |        Sexy |        6.5 |     21.3 |  45.3 |  🔵 24.9 |
+|   61 | LLaMA 7B                 |  7B | Q4_0  | metharme       |        Sexy |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   62 | Planner 7B               |  7B | Q4_0  | metharme       |        Sexy |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   63 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |        Sexy |        6.4 |     18.7 |  39.0 |       20.9 |
+|   64 | OpenLLaMA 3B             |  3B | Q8_0  | alpaca         |     Vanilla |        6.3 |     19.2 |  43.0 |       22.1 |
+|   65 | Based 7B                 |  7B | Q4_0  | metharme       |     Vanilla |        6.3 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
+|   66 | WizardLM 1.0 Uncens 13B  | 13B | Q4_0  | pygmalion      |     Vanilla |        6.3 | 🔴 14.8 | 🔴 29.1 |  🔴 14.9 |
+|   67 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q5_1  | alpaca         |     Vanilla |        6.2 | 🔴 17.9 | 🔴 25.0 |  🔴 13.8 |
+|   68 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |     Vanilla |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
+|   69 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |     Vanilla |        6.2 |     19.7 |  39.4 |       21.4 |
+|   70 | Guanaco 7B               |  7B | Q5_1  | alpaca         |     Vanilla |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
+|   71 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |     Vanilla |        6.2 | 🔴 16.5 |  32.5 |       18.1 |
+|   72 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |     Vanilla |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
+|   73 | WizardLM 1.0 Uncens 7B   |  7B | Q4_0  | vicuna         |     Vanilla |        6.1 |     20.6 |  34.9 |       18.9 |
+|   74 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |     Vanilla |        6.0 |     19.2 |  40.7 |       21.7 |
+|   75 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |     Vanilla |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
+|   76 | WizardLM Uncens 7B       |  7B | Q5_1  | metharme       |     Vanilla |        6.0 |     19.1 | 🔴 23.4 |  🔴 13.2 |
+|   77 | GPT4All Snoozy 13B       | 13B | Q4_0  | pygmalion      |     Vanilla |        5.6 | 🔴 18.4 |  38.4 |       20.8 |
+|   78 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q8_0  | alpaca         |     Vanilla |        5.6 |     18.9 | 🔴 24.0 |  🔴 14.0 |
+|   79 | Robin v2 13B             | 13B | Q5_1  | vicuna11       |     Vanilla |        5.5 |     20.6 | 🔵 47.2 |  🔵 25.6 |
+|   80 | Metharme 7B              |  7B | Q4_1  | metharme       |     Vanilla |        5.3 |     19.1 |  38.3 |       21.1 |
+|   81 | WizardLM Uncens 7B       |  7B | Q8_0  | pygmalion      |     Vanilla |        5.3 |     18.8 | 🔴 26.9 |  🔴 14.9 |
+|   82 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |     Vanilla |        5.3 |     20.9 |  39.4 |       22.1 |
+|   83 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q5_1  | vicuna11       |     Vanilla |        5.3 | 🔴 17.7 |  37.9 |       20.4 |
+|   84 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |     Vanilla |        5.3 |     21.5 | 🔴 26.2 |  🔴 14.4 |
+|   85 | Orca Mini 13B            | 13B | Q4_0  | pygmalion      |       Tamed |        5.2 | 🔵 22.0 |  38.2 |       19.9 |
+|   86 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |       Tamed |        5.2 | 🔴 16.4 |  36.0 |       19.1 |
+|   87 | Tulu 13B                 | 13B | Q5_1  | alpaca         |       Tamed |        5.2 | 🔴 16.6 |  39.4 |       21.4 |
+|   88 | Pygmalion 7B             |  7B | Q5_1  | alpaca         |       Tamed |        5.0 |     19.6 | 🔵 49.4 |  🔵 25.7 |
+|   89 | Gorilla 7B               |  7B | Q5_1  | vicuna11       |       Tamed |        5.0 | 🔴 9.8 | 🔴 18.9 |  🔴 10.4 |
+|   90 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |       Tamed |        5.0 |     21.1 |  34.3 |       17.9 |
+|   91 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q2_K  | metharme       |       Tamed |        5.0 |     19.4 |  36.5 |       19.5 |
+|   92 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q8_0  | vicuna11st     |       Tamed |        5.0 | 🔴 17.2 |  38.0 |       20.0 |
+|   93 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |       Tamed |        5.0 | 🔴 18.4 |  45.6 |       22.7 |
+|   94 | Guanaco 7B               |  7B | Q4_0  | metharme       |       Tamed |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
+|   95 | LLaMA 13B                | 13B | Q4_0  | vicuna         |       Tamed |        4.8 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
+|   96 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |       Tamed |        4.8 |     21.1 | 🔴 25.6 |  🔴 13.6 |
+|   97 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |       Tamed |        4.5 | 🔴 16.2 |  41.0 |       19.6 |
+|   98 | Selfee 13B               | 13B | Q4_0  | vicuna         |       Tamed |        4.5 | 🔴 17.8 | 🔴 31.1 |  🔴 16.9 |
+|   99 | Manticore 13B            | 13B | Q5_1  | metharme       |       Tamed |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
+|  100 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |       Tamed |        4.5 | 🔴 18.0 | 🔴 30.4 |  🔴 15.3 |
+|  101 | RedPajama Chat 7B        |  7B | Q4_0  | pygmalion      |       Tamed |        4.3 | 🔵 22.6 |  38.2 |       20.4 |
+|  102 | Tulu 7B                  |  7B | Q8_0  | alpaca         |       Tamed |        4.3 |     20.0 |  40.6 |       21.9 |
+|  103 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |       Tamed |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
+|  104 | UltraLM 13B              | 13B | Q4_0  | pygmalion      |       Tamed |        4.2 |     21.9 | 🔵 46.6 |       24.5 |
+|  105 | Camel Comb 13B           | 13B | Q4_1  | vicuna         |      Boring |        4.0 |     19.2 |  39.4 |       19.9 |
+|  106 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |      Boring |        4.0 |     18.8 |  37.4 |       20.0 |
+|  107 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q2_K  | vicuna         |      Boring |        3.8 | 🔴 16.4 | 🔴 23.6 |  🔴 12.2 |
+|  108 | Vicuna 1.3 13B           | 13B | Q4_0  | pygmalion      |      Boring |        3.8 |     21.9 | 🔵 52.5 |  🔵 28.5 |
+|  109 | Robin v2 7B              |  7B | Q5_1  | vicuna         |      Boring |        3.8 |     19.5 |  40.6 |       20.9 |
+|  110 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |      Boring |        3.6 | 🔴 17.2 |  33.9 |       19.4 |
+|  111 | Vicuna 1.3 13B           | 13B | Q5_1  | alpaca         |      Boring |        3.2 |     20.9 | 🔵 47.8 |  🔵 26.4 |
+|  112 | Manticore 13B            | 13B | Q4_0  | vicuna11       |      Boring |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
+|  113 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q5_1  | vicuna         |      Boring |        3.1 |     19.9 | 🔵 50.6 |  🔵 25.9 |
+|  114 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q5_1  | alpaca         |      Boring |        3.1 |     21.2 | 🔵 57.1 |  🔵 30.2 |
+|  115 | Hippogriff 30B           | 30B | Q4_0  | vicuna11       |      Boring |        2.9 |     19.3 |  41.6 |       21.9 |
+|  116 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |    Censored |        2.9 |     21.7 | 🔴 22.4 |  🔴 12.1 |
+|  117 | BigTrans 13B             | 13B | Q4_0  | vicuna11       |    Censored |        2.8 |     21.9 | 🔴 19.9 |  🔴 10.9 |
+|  118 | Metharme 13B             | 13B | Q8_0  | vicuna11       |    Censored |        2.7 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
+|  119 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q2_K  | alpaca         |    Censored |        2.6 | 🔵 25.6 | 🔵 53.8 |  🔵 30.7 |
+|  120 | Metharme 13B             | 13B | Q5_1  | vicuna         |    Censored |        2.5 | 🔵 23.6 | 🔴 19.8 |  🔴 10.7 |
+|  121 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |    Censored |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
+|  122 | Vicuna 1.3.0 13B         | 13B | Q4_0  | alpaca         |    Censored |        2.0 | 🔵 25.2 | 🔵 53.7 |  🔵 29.5 |
+|  123 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |    Censored |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
+|  124 | Samantha 13B             | 13B | Q4_0  | metharme       |    Censored |        0.6 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
+|  125 | Samantha 1.1 13B         | 13B | Q4_0  | metharme       |    Censored |        0.4 | 🔵 43.0 | 🔵 50.8 |  🔵 31.2 |
+|  126 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |    Censored |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
 
 ### Column Description
 
 - `Model | B | Qnt` lists all the models and quantizations I tested.
 - `Prompt Format` contains which was the "best" prompt format that gave the most lewd answers. Please keep in mind, that multiple prompts were tested, and only the prompt with the best results regarding the `ERP Score` are printed here. Some prompt/model combinations might return trailing garbage output, especially on models smaller than 13B.
-- `Temperature` is the best temperature for the model.
+- `Judgement` is a rough categorization of the NSFW capabilities of the model. It's more of a humorous character.
 - `ERP Score` is the primary scale, it's the average number of lewd words in a response.
 - `Word IQ` is some bad attempt to rate the sophistication of the overall text output. A low value means, that there were lots of short words in the output. A high value means there were more long words in the output.
 - `Words` are the average number of words in the response.
@@ -156,126 +163,143 @@ Date: 2023-07-20 V27
 
 ## 7B ERP Ranking
 
-| Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
-|------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
-|    1 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |         0.7 |  🌟 10.9 | 🔵 24.9 | 🔵 42.0 |  🔵 24.6 |
-|    2 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |         0.7 |  🌟 10.8 | 🔵 24.4 | 🔵 43.6 |  🔵 25.9 |
-|    3 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |         0.7 |   🌟 8.9 |     21.5 | 🔵 50.6 |  🔵 28.3 |
-|    4 | Vicuna 1.3 7B            |  7B | Q8_0  | metharme       |         0.7 |    ⭐ 8.9 |     20.1 | 🔵 46.5 |  🔵 23.9 |
-|    5 | Airoboros GPT4 1.3 7B    |  7B | Q5_1  | metharme       |         0.9 |    ⭐ 8.6 |     19.7 | 🔴 26.3 |  🔴 15.7 |
-|    6 | Airoboros GPT4 1.3 7B    |  7B | Q4_0  | vicuna11       |         0.7 |    ⭐ 8.5 | 🔵 23.6 | 🔴 30.0 |       17.9 |
-|    7 | OpenLLaMA Open Instr 7B  |  7B | Q8_0  | alpaca         |         0.7 |    ⭐ 8.4 | 🔵 22.9 |  30.6 |       17.4 |
-|    8 | Vicuna 1.3 7B            |  7B | Q4_0  | metharme       |         0.7 |    ⭐ 8.4 |     21.9 | 🔵 50.5 |  🔵 26.5 |
-|    9 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |         0.7 |    ⭐ 8.1 | 🔵 22.6 |  31.1 |       18.0 |
-|   10 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q4_0  | vicuna         |         0.7 |    ⭐ 7.9 |     18.9 |  36.6 |       21.2 |
-|   11 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q5_1  | vicuna         |         0.9 |    ⭐ 7.8 |     20.3 |  35.0 |       20.8 |
-|   12 | Airoboros 7B             |  7B | Q4_0  | alpaca         |         0.7 |        7.8 | 🔵 28.5 |  36.4 |       20.4 |
-|   13 | Airoboros GPT4 1.2 7B    |  7B | Q5_1  | vicuna11st     |         0.7 |        7.7 | 🔵 23.5 | 🔴 26.9 |       17.1 |
-|   14 | WizardLM 1.0 Uncens 7B   |  7B | Q8_0  | pygmalion      |         0.9 |        7.3 |     18.5 | 🔴 27.8 |  🔴 15.8 |
-|   15 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |         0.7 |        6.7 | 🔴 17.3 |  32.6 |  🔴 16.7 |
-|   16 | LLaMA 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   17 | Planner 7B               |  7B | Q4_0  | metharme       |         0.7 |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
-|   18 | Based 7B                 |  7B | Q4_0  | metharme       |         0.7 |        6.3 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
-|   19 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔴 17.9 | 🔴 25.0 |  🔴 13.8 |
-|   20 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |         0.9 |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
-|   21 | Guanaco 7B               |  7B | Q5_1  | alpaca         |         0.7 |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
-|   22 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |         0.7 |        6.2 | 🔴 16.5 |  32.5 |       18.1 |
-|   23 | WizardLM 1.0 Uncens 7B   |  7B | Q4_0  | vicuna         |         0.7 |        6.1 |     20.6 |  34.9 |       18.9 |
-|   24 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |         0.9 |        6.0 |     19.2 | 🔵 40.7 |       21.7 |
-|   25 | WizardLM Uncens 7B       |  7B | Q5_1  | metharme       |         0.9 |        6.0 |     19.1 | 🔴 23.4 |  🔴 13.2 |
-|   26 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q8_0  | alpaca         |         0.7 |        5.6 |     18.9 | 🔴 24.0 |  🔴 14.0 |
-|   27 | Metharme 7B              |  7B | Q4_1  | metharme       |         0.9 |        5.3 |     19.1 |  38.3 |       21.1 |
-|   28 | WizardLM Uncens 7B       |  7B | Q8_0  | pygmalion      |         0.9 |        5.3 |     18.8 | 🔴 26.9 |  🔴 14.9 |
-|   29 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        5.3 |     20.9 |  39.4 |  🔵 22.1 |
-|   30 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q5_1  | vicuna11       |         0.9 |        5.3 | 🔴 17.7 |  37.9 |       20.4 |
-|   31 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |         0.9 |        5.3 |     21.5 | 🔴 26.2 |  🔴 14.4 |
-|   32 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |         0.7 |        5.2 | 🔴 16.4 |  36.0 |       19.1 |
-|   33 | Pygmalion 7B             |  7B | Q5_1  | alpaca         |         0.9 |        5.0 |     19.6 | 🔵 49.4 |  🔵 25.7 |
-|   34 | Gorilla 7B               |  7B | Q5_1  | vicuna11       |         0.7 |        5.0 | 🔴 9.8 | 🔴 18.9 |  🔴 10.4 |
-|   35 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q8_0  | vicuna11st     |         0.9 |        5.0 | 🔴 17.2 |  38.0 |       20.0 |
-|   36 | Guanaco 7B               |  7B | Q4_0  | metharme       |         0.9 |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
-|   37 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |         0.7 |        4.5 | 🔴 18.0 |  30.4 |  🔴 15.3 |
-|   38 | RedPajama Chat 7B        |  7B | Q4_0  | pygmalion      |         0.7 |        4.3 | 🔵 22.6 |  38.2 |       20.4 |
-|   39 | Tulu 7B                  |  7B | Q8_0  | alpaca         |         0.9 |        4.3 |     20.0 | 🔵 40.6 |  🔵 21.9 |
-|   40 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q2_K  | vicuna         |         0.7 |        3.8 | 🔴 16.4 | 🔴 23.6 |  🔴 12.2 |
-|   41 | Robin v2 7B              |  7B | Q5_1  | vicuna         |         0.7 |        3.8 |     19.5 | 🔵 40.6 |       20.9 |
-|   42 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |         0.9 |        3.6 | 🔴 17.2 |  33.9 |       19.4 |
-|   43 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q5_1  | alpaca         |         0.7 |        3.1 |     21.2 | 🔵 57.1 |  🔵 30.2 |
-|   44 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q2_K  | alpaca         |         0.9 |        2.6 | 🔵 25.6 | 🔵 53.8 |  🔵 30.7 |
-|   45 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |         0.9 |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
+| Rank | Model                    |   B | Qnt   | Prompt Format  |   Judgement |  ERP Score |  Word IQ | Words | Long Words |
+|------:|--------------------------|-----|-------|----------------|-------------|------------:|----------:|-------:|------------:|
+|    1 | Airoboros GPT4 7B        |  7B | Q4_0  | alpaca         |       Horny |  🌟 10.9 | 🔵 24.9 | 🔵 42.0 |  🔵 24.6 |
+|    2 | INCITE Erebus v2 7B      |  7B | Q16_0 | metharme       |       Horny |  🌟 10.8 | 🔵 24.4 | 🔵 43.6 |  🔵 25.9 |
+|    3 | RedPajama 0.1 Instruct 7B |  7B | Q5_1  | vicuna11       |        Lewd |   🌟 8.9 |     21.5 | 🔵 50.6 |  🔵 28.3 |
+|    4 | Vicuna 1.3 7B            |  7B | Q8_0  | metharme       |        Lewd |    ⭐ 8.9 |     20.1 | 🔵 46.5 |  🔵 23.9 |
+|    5 | Airoboros GPT4 1.3 7B    |  7B | Q5_1  | metharme       |        Lewd |    ⭐ 8.6 |     19.7 | 🔴 26.3 |  🔴 15.7 |
+|    6 | Airoboros GPT4 1.3 7B    |  7B | Q4_0  | vicuna11       |        Lewd |    ⭐ 8.5 | 🔵 23.6 | 🔴 30.0 |       17.9 |
+|    7 | OpenLLaMA Open Instr 7B  |  7B | Q8_0  | alpaca         |        Lewd |    ⭐ 8.4 | 🔵 22.9 |  30.6 |       17.4 |
+|    8 | Vicuna 1.3 7B            |  7B | Q4_0  | metharme       |        Lewd |    ⭐ 8.4 |     21.9 | 🔵 50.5 |  🔵 26.5 |
+|    9 | Wizard Vicuna Uncens 7B  |  7B | Q4_0  | metharme       |        Lewd |    ⭐ 8.1 | 🔵 22.6 |  31.1 |       18.0 |
+|   10 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q4_0  | vicuna         |        Lewd |    ⭐ 7.9 |     18.9 |  36.6 |       21.2 |
+|   11 | [Guanaco (L2) 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) |  7B | Q5_1  | vicuna         |        Lewd |    ⭐ 7.8 |     20.3 |  35.0 |       20.8 |
+|   12 | Airoboros 7B             |  7B | Q4_0  | alpaca         |        Sexy |        7.8 | 🔵 28.5 |  36.4 |       20.4 |
+|   13 | Airoboros GPT4 1.2 7B    |  7B | Q5_1  | vicuna11st     |        Sexy |        7.7 | 🔵 23.5 | 🔴 26.9 |       17.1 |
+|   14 | WizardLM 1.0 Uncens 7B   |  7B | Q8_0  | pygmalion      |        Sexy |        7.3 |     18.5 | 🔴 27.8 |  🔴 15.8 |
+|   15 | OpenLLaMA 7B             |  7B | Q5_1  | alpaca         |        Sexy |        6.7 | 🔴 17.3 |  32.6 |  🔴 16.7 |
+|   16 | LLaMA 7B                 |  7B | Q4_0  | metharme       |        Sexy |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   17 | Planner 7B               |  7B | Q4_0  | metharme       |        Sexy |        6.4 | 🔴 13.0 |  31.4 |  🔴 16.7 |
+|   18 | Based 7B                 |  7B | Q4_0  | metharme       |     Vanilla |        6.3 | 🔴 13.2 | 🔴 24.7 |  🔴 13.6 |
+|   19 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q5_1  | alpaca         |     Vanilla |        6.2 | 🔴 17.9 | 🔴 25.0 |  🔴 13.8 |
+|   20 | Pygmalion 7B             |  7B | Q8_0  | vicuna11       |     Vanilla |        6.2 |     19.7 | 🔵 50.6 |  🔵 28.1 |
+|   21 | Guanaco 7B               |  7B | Q5_1  | alpaca         |     Vanilla |        6.2 | 🔵 22.5 |  33.6 |       17.4 |
+|   22 | LLaMA Deus 7B            |  7B | Q5_1  | vicuna11       |     Vanilla |        6.2 | 🔴 16.5 |  32.5 |       18.1 |
+|   23 | WizardLM 1.0 Uncens 7B   |  7B | Q4_0  | vicuna         |     Vanilla |        6.1 |     20.6 |  34.9 |       18.9 |
+|   24 | LLaMA 7B                 |  7B | Q8_0  | vicuna11       |     Vanilla |        6.0 |     19.2 | 🔵 40.7 |       21.7 |
+|   25 | WizardLM Uncens 7B       |  7B | Q5_1  | metharme       |     Vanilla |        6.0 |     19.1 | 🔴 23.4 |  🔴 13.2 |
+|   26 | [Luna AI Uncens (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) |  7B | Q8_0  | alpaca         |     Vanilla |        5.6 |     18.9 | 🔴 24.0 |  🔴 14.0 |
+|   27 | Metharme 7B              |  7B | Q4_1  | metharme       |     Vanilla |        5.3 |     19.1 |  38.3 |       21.1 |
+|   28 | WizardLM Uncens 7B       |  7B | Q8_0  | pygmalion      |     Vanilla |        5.3 |     18.8 | 🔴 26.9 |  🔴 14.9 |
+|   29 | Metharme 7B              |  7B | Q5_1  | vicuna11st     |     Vanilla |        5.3 |     20.9 |  39.4 |  🔵 22.1 |
+|   30 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q5_1  | vicuna11       |     Vanilla |        5.3 | 🔴 17.7 |  37.9 |       20.4 |
+|   31 | OpenLLaMA 700bt 7B       |  7B | Q5_1  | vicuna         |     Vanilla |        5.3 |     21.5 | 🔴 26.2 |  🔴 14.4 |
+|   32 | RedPajama Instruct 7B    |  7B | Q4_0  | vicuna11       |       Tamed |        5.2 | 🔴 16.4 |  36.0 |       19.1 |
+|   33 | Pygmalion 7B             |  7B | Q5_1  | alpaca         |       Tamed |        5.0 |     19.6 | 🔵 49.4 |  🔵 25.7 |
+|   34 | Gorilla 7B               |  7B | Q5_1  | vicuna11       |       Tamed |        5.0 | 🔴 9.8 | 🔴 18.9 |  🔴 10.4 |
+|   35 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q8_0  | vicuna11st     |       Tamed |        5.0 | 🔴 17.2 |  38.0 |       20.0 |
+|   36 | Guanaco 7B               |  7B | Q4_0  | metharme       |       Tamed |        4.8 | 🔵 23.3 | 🔴 21.4 |  🔴 12.2 |
+|   37 | Guanaco 7B               |  7B | Q8_0  | vicuna11       |       Tamed |        4.5 | 🔴 18.0 |  30.4 |  🔴 15.3 |
+|   38 | RedPajama Chat 7B        |  7B | Q4_0  | pygmalion      |       Tamed |        4.3 | 🔵 22.6 |  38.2 |       20.4 |
+|   39 | Tulu 7B                  |  7B | Q8_0  | alpaca         |       Tamed |        4.3 |     20.0 | 🔵 40.6 |  🔵 21.9 |
+|   40 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) |  7B | Q2_K  | vicuna         |      Boring |        3.8 | 🔴 16.4 | 🔴 23.6 |  🔴 12.2 |
+|   41 | Robin v2 7B              |  7B | Q5_1  | vicuna         |      Boring |        3.8 |     19.5 | 🔵 40.6 |       20.9 |
+|   42 | PMC LLaMA 7B             |  7B | Q4_0  | alpaca         |      Boring |        3.6 | 🔴 17.2 |  33.9 |       19.4 |
+|   43 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q5_1  | alpaca         |      Boring |        3.1 |     21.2 | 🔵 57.1 |  🔵 30.2 |
+|   44 | [LLaMA 2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) |  7B | Q2_K  | alpaca         |    Censored |        2.6 | 🔵 25.6 | 🔵 53.8 |  🔵 30.7 |
+|   45 | Samantha 7B              |  7B | Q5_1  | vicuna11st     |    Censored |        0.1 | 🔵 43.6 | 🔵 49.4 |  🔵 28.5 |
 
 ## 13B ERP Ranking
 
-| Rank | Model                    |   B | Qnt   | Prompt Format  | Temperature |  ERP Score |  Word IQ | Words | Long Words |
-|------:|--------------------------|-----|-------|----------------|-------------:|------------:|----------:|-------:|------------:|
-|    1 | Chronos Hermes 13B       | 13B | Q5_1  | vicuna11       |         0.9 |  🌟 14.7 | 🔵 23.7 | 🔵 57.9 |  🔵 34.0 |
-|    2 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q5_1  | vicuna11       |         0.9 |  🌟 12.9 |     20.6 | 🔵 56.5 |  🔵 32.4 |
-|    3 | Wizard Vic UC SuperHOT 13B | 13B | Q2_K  | alpaca         |         0.9 |  🌟 12.8 |     20.5 | 🔵 55.8 |  🔵 31.3 |
-|    4 | Chronos WizLM UC SCOT ST 13B | 13B | Q4_0  | alpaca         |         0.7 |   ⭐ 12.2 | 🔵 27.3 | 🔵 52.8 |  🔵 30.8 |
-|    5 | Chronos 13B              | 13B | Q4_0  | alpaca         |         0.7 |   ⭐ 11.7 | 🔵 28.2 | 🔵 53.5 |  🔵 31.1 |
-|    6 | GPT4 x Alpaca 13B        | 13B | Q4_0  | vicuna11st     |         0.7 |   ⭐ 11.2 |     21.5 |  37.9 |       23.3 |
-|    7 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |         0.9 |   ⭐ 11.2 | 🔴 18.1 |  41.0 |       23.4 |
-|    8 | Pythia Green Devil 13B   | 13B | Q16_0 | vicuna         |         0.9 |   ⭐ 11.1 |     20.5 |  41.1 |       24.2 |
-|    9 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |         0.7 |   ⭐ 10.9 |     18.7 | 🔵 46.6 |  🔵 24.9 |
-|   10 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q2_K  | vicuna11st     |         0.9 |   ⭐ 10.8 |     20.1 | 🔵 59.8 |  🔵 33.5 |
-|   11 | Pythia Dedup Gr. Devil 13B | 13B | Q16_0 | alpaca         |         0.9 |   ⭐ 10.0 | 🔵 24.7 |  35.5 |       21.6 |
-|   12 | Wizard Vic UC SuperHOT 13B | 13B | Q5_K_S | vicuna11st     |         0.9 |   ⭐ 10.0 |     19.4 |  36.5 |       21.7 |
-|   13 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 9.8 | 🔴 18.1 |  38.4 |       23.0 |
-|   14 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |         0.7 |    ⭐ 9.1 | 🔴 17.3 |  36.0 |       19.6 |
-|   15 | Minotaur 13B             | 13B | Q5_1  | vicuna         |         0.7 |    ⭐ 8.7 | 🔴 17.6 |  36.1 |       19.7 |
-|   16 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |         0.7 |    ⭐ 8.6 |     20.1 |  35.1 |       19.1 |
-|   17 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | alpaca         |         0.7 |        8.3 |     20.7 |  38.2 |       21.9 |
-|   18 | Chimera 13B              | 13B | Q4_0  | vicuna         |         0.9 |        8.2 | 🔴 15.9 | 🔴 30.4 |  🔴 17.8 |
-|   19 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |         0.7 |        8.1 |     20.2 |  38.7 |       21.8 |
-|   20 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |         0.7 |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
-|   21 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |         0.9 |        7.8 |     19.6 | 🔴 31.2 |  🔴 17.9 |
-|   22 | Airoboros GPT4 1.2 13B   | 13B | Q5_1  | vicuna11       |         0.9 |        7.8 | 🔵 22.8 |  32.5 |       19.9 |
-|   23 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |         0.7 |        7.8 |     18.8 |  43.3 |       23.2 |
-|   24 | Airoboros GPT4 1.4 13B   | 13B | Q4_0  | vicuna11st     |         0.9 |        7.6 | 🔵 23.6 | 🔴 31.8 |       19.2 |
-|   25 | Minotaur Fixed 13B       | 13B | Q5_1  | vicuna11st     |         0.9 |        7.3 |     19.4 | 🔴 31.6 |  🔴 17.1 |
-|   26 | Airoboros 1.1 13B        | 13B | Q4_0  | alpaca         |         0.9 |        7.0 | 🔵 22.8 |  36.2 |       21.8 |
-|   27 | Airoboros GPT4 1.3 13B   | 13B | Q5_1  | vicuna         |         0.9 |        7.0 | 🔵 22.3 | 🔴 25.9 |  🔴 15.3 |
-|   28 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q5_1  | vicuna11st     |         0.9 |        7.0 | 🔴 18.5 |  39.8 |       21.8 |
-|   29 | Airoboros GPT4 1.3 13B   | 13B | Q4_0  | vicuna11st     |         0.9 |        6.8 |     21.0 | 🔴 25.0 |  🔴 14.4 |
-|   30 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |         0.9 |        6.5 | 🔵 22.0 |  43.9 |       24.2 |
-|   31 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q2_K  | vicuna11       |         0.7 |        6.5 |     21.3 |  45.3 |  🔵 24.9 |
-|   32 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |         0.9 |        6.4 |     18.7 |  39.0 |       20.9 |
-|   33 | WizardLM 1.0 Uncens 13B  | 13B | Q4_0  | pygmalion      |         0.7 |        6.3 | 🔴 14.8 | 🔴 29.1 |  🔴 14.9 |
-|   34 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |         0.9 |        6.2 |     19.7 |  39.4 |       21.4 |
-|   35 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |         0.7 |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
-|   36 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |         0.7 |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
-|   37 | GPT4All Snoozy 13B       | 13B | Q4_0  | pygmalion      |         0.7 |        5.6 | 🔴 18.4 |  38.4 |       20.8 |
-|   38 | Robin v2 13B             | 13B | Q5_1  | vicuna11       |         0.9 |        5.5 |     20.6 | 🔵 47.2 |  🔵 25.6 |
-|   39 | Orca Mini 13B            | 13B | Q4_0  | pygmalion      |         0.9 |        5.2 | 🔵 22.0 |  38.2 |       19.9 |
-|   40 | Tulu 13B                 | 13B | Q5_1  | alpaca         |         0.9 |        5.2 | 🔴 16.6 |  39.4 |       21.4 |
-|   41 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |         0.9 |        5.0 |     21.1 |  34.3 |  🔴 17.9 |
-|   42 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q2_K  | metharme       |         0.7 |        5.0 |     19.4 |  36.5 |       19.5 |
-|   43 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |         0.7 |        5.0 | 🔴 18.4 | 🔵 45.6 |       22.7 |
-|   44 | LLaMA 13B                | 13B | Q4_0  | vicuna         |         0.7 |        4.8 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
-|   45 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |         0.7 |        4.8 |     21.1 | 🔴 25.6 |  🔴 13.6 |
-|   46 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |         0.7 |        4.5 | 🔴 16.2 |  41.0 |       19.6 |
-|   47 | Selfee 13B               | 13B | Q4_0  | vicuna         |         0.7 |        4.5 | 🔴 17.8 | 🔴 31.1 |  🔴 16.9 |
-|   48 | Manticore 13B            | 13B | Q5_1  | metharme       |         0.7 |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
-|   49 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |         0.9 |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
-|   50 | UltraLM 13B              | 13B | Q4_0  | pygmalion      |         0.7 |        4.2 |     21.9 | 🔵 46.6 |  🔵 24.5 |
-|   51 | Camel Comb 13B           | 13B | Q4_1  | vicuna         |         0.9 |        4.0 |     19.2 |  39.4 |       19.9 |
-|   52 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |         0.9 |        4.0 |     18.8 |  37.4 |       20.0 |
-|   53 | Vicuna 1.3 13B           | 13B | Q4_0  | pygmalion      |         0.7 |        3.8 | 🔵 21.9 | 🔵 52.5 |  🔵 28.5 |
-|   54 | Vicuna 1.3 13B           | 13B | Q5_1  | alpaca         |         0.7 |        3.2 |     20.9 | 🔵 47.8 |  🔵 26.4 |
-|   55 | Manticore 13B            | 13B | Q4_0  | vicuna11       |         0.7 |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
-|   56 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q5_1  | vicuna         |         0.7 |        3.1 |     19.9 | 🔵 50.6 |  🔵 25.9 |
-|   57 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |         0.7 |        2.9 |     21.7 | 🔴 22.4 |  🔴 12.1 |
-|   58 | BigTrans 13B             | 13B | Q4_0  | vicuna11       |         0.9 |        2.8 |     21.9 | 🔴 19.9 |  🔴 10.9 |
-|   59 | Metharme 13B             | 13B | Q8_0  | vicuna11       |         0.9 |        2.7 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
-|   60 | Metharme 13B             | 13B | Q5_1  | vicuna         |         0.9 |        2.5 | 🔵 23.6 | 🔴 19.8 |  🔴 10.7 |
-|   61 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |         0.9 |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
-|   62 | Vicuna 1.3.0 13B         | 13B | Q4_0  | alpaca         |         0.9 |        2.0 | 🔵 25.2 | 🔵 53.7 |  🔵 29.5 |
-|   63 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |         0.7 |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
-|   64 | Samantha 13B             | 13B | Q4_0  | metharme       |         0.9 |        0.6 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
-|   65 | Samantha 1.1 13B         | 13B | Q4_0  | metharme       |         0.9 |        0.4 | 🔵 43.0 | 🔵 50.8 |  🔵 31.2 |
+| Rank | Model                    |   B | Qnt   | Prompt Format  |   Judgement |  ERP Score |  Word IQ | Words | Long Words |
+|------:|--------------------------|-----|-------|----------------|-------------|------------:|----------:|-------:|------------:|
+|    1 | Chronos Hermes 13B       | 13B | Q5_1  | vicuna11       | Nymphomaniac |  🌟 14.7 | 🔵 23.7 | 🔵 57.9 |  🔵 34.0 |
+|    2 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q5_1  | vicuna11       |     Pervert |  🌟 12.9 |     20.6 | 🔵 56.5 |  🔵 32.4 |
+|    3 | Wizard Vic UC SuperHOT 13B | 13B | Q2_K  | alpaca         |     Pervert |  🌟 12.8 |     20.5 | 🔵 55.8 |  🔵 31.3 |
+|    4 | Chronos WizLM UC SCOT ST 13B | 13B | Q4_0  | alpaca         |     Pervert |   ⭐ 12.2 | 🔵 27.3 | 🔵 52.8 |  🔵 30.8 |
+|    5 | Chronos 13B              | 13B | Q4_0  | alpaca         |       Horny |   ⭐ 11.7 | 🔵 28.2 | 🔵 53.5 |  🔵 31.1 |
+|    6 | GPT4 x Alpaca 13B        | 13B | Q4_0  | vicuna11st     |       Horny |   ⭐ 11.2 |     21.5 |  37.9 |       23.3 |
+|    7 | LLaMA SCOT 13B           | 13B | Q5_1  | vicuna         |       Horny |   ⭐ 11.2 | 🔴 18.1 |  41.0 |       23.4 |
+|    8 | Pythia Green Devil 13B   | 13B | Q16_0 | vicuna         |       Horny |   ⭐ 11.1 |     20.5 |  41.1 |       24.2 |
+|    9 | Guanaco 13B              | 13B | Q5_1  | vicuna11st     |       Horny |   ⭐ 10.9 |     18.7 | 🔵 46.6 |  🔵 24.9 |
+|   10 | [Mythologic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) | 13B | Q2_K  | vicuna11st     |       Horny |   ⭐ 10.8 |     20.1 | 🔵 59.8 |  🔵 33.5 |
+|   11 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q2_K  | alpaca         |       Horny |   ⭐ 10.1 |     21.7 | 🔵 49.5 |  🔵 28.6 |
+|   12 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q8_0  | vicuna11       |       Horny |   ⭐ 10.1 |     19.8 |  39.4 |       23.6 |
+|   13 | Pythia Dedup Gr. Devil 13B | 13B | Q16_0 | alpaca         |       Horny |   ⭐ 10.0 | 🔵 24.7 |  35.5 |       21.6 |
+|   14 | Wizard Vic UC SuperHOT 13B | 13B | Q5_K_S | vicuna11st     |       Horny |   ⭐ 10.0 |     19.4 |  36.5 |       21.7 |
+|   15 | Nous Hermes 13B          | 13B | Q4_0  | vicuna         |        Lewd |    ⭐ 9.8 | 🔴 18.1 |  38.4 |       23.0 |
+|   16 | [Guanaco (L2) 13B](https://huggingface.co/TheBloke/llama-2-13B-Guanaco-QLoRA-GGML) | 13B | Q4_0  | vicuna11       |        Lewd |    ⭐ 9.6 | 🔴 18.2 |  40.8 |       22.9 |
+|   17 | Wizard Vicuna Uncens 13B | 13B | Q8_0  | metharme       |        Lewd |    ⭐ 9.1 | 🔴 17.3 |  36.0 |       19.6 |
+|   18 | Minotaur 13B             | 13B | Q5_1  | vicuna         |        Lewd |        8.7 | 🔴 17.6 |  36.1 |       19.7 |
+|   19 | Alpacino SCOT 13B        | 13B | Q4_0  | vicuna         |        Lewd |        8.6 |     20.1 |  35.1 |       19.1 |
+|   20 | [Ouroboros 13B](https://huggingface.co/TheBloke/13B-Ouroboros-GGML) | 13B | Q2_K  | vicuna11       |        Lewd |        8.5 |     18.7 |  39.2 |       22.1 |
+|   21 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | alpaca         |        Lewd |        8.3 |     20.7 |  38.2 |       21.9 |
+|   22 | Chimera 13B              | 13B | Q4_0  | vicuna         |        Lewd |        8.2 | 🔴 15.9 | 🔴 30.4 |  🔴 17.8 |
+|   23 | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |        Lewd |        8.1 |     20.2 |  38.7 |       21.8 |
+|   24 | HyperMantis 13B          | 13B | Q5_1  | vicuna         |        Lewd |        8.0 | 🔴 15.6 | 🔴 30.4 |  🔴 16.8 |
+|   25 | Wizard Vicuna Uncens 13B | 13B | Q5_1  | pygmalion      |        Lewd |        7.8 |     19.6 | 🔴 31.2 |  🔴 17.9 |
+|   26 | Airoboros GPT4 1.2 13B   | 13B | Q5_1  | vicuna11       |        Sexy |        7.8 | 🔵 22.8 |  32.5 |       19.9 |
+|   27 | Camel RP 13B             | 13B | Q5_1  | vicuna11       |        Sexy |        7.8 |     18.8 |  43.3 |       23.2 |
+|   28 | Airoboros GPT4 1.4 13B   | 13B | Q4_0  | vicuna11st     |        Sexy |        7.6 | 🔵 23.6 | 🔴 31.8 |       19.2 |
+|   29 | Minotaur Fixed 13B       | 13B | Q5_1  | vicuna11st     |        Sexy |        7.3 |     19.4 | 🔴 31.6 |  🔴 17.1 |
+|   30 | [Redmond Puffin 1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q4_0  | alpaca         |        Sexy |        7.2 | 🔵 22.5 |  42.9 |       24.6 |
+|   31 | Airoboros 1.1 13B        | 13B | Q4_0  | alpaca         |        Sexy |        7.0 | 🔵 22.8 |  36.2 |       21.8 |
+|   32 | Airoboros GPT4 1.3 13B   | 13B | Q5_1  | vicuna         |        Sexy |        7.0 | 🔵 22.3 | 🔴 25.9 |  🔴 15.3 |
+|   33 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q5_1  | vicuna11st     |        Sexy |        7.0 |     18.5 |  39.8 |       21.8 |
+|   34 | [Redmond Puffin 1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) | 13B | Q5_1  | vicuna         |        Sexy |        6.9 |     21.1 | 🔵 54.4 |  🔵 31.5 |
+|   35 | Airoboros GPT4 1.3 13B   | 13B | Q4_0  | vicuna11st     |        Sexy |        6.8 |     21.0 | 🔴 25.0 |  🔴 14.4 |
+|   36 | [Guanaco (L2) 13B](https://huggingface.co/Gryphe/GGML-Quants/tree/main) | 13B | Q4_1  | vicuna11st     |        Sexy |        6.5 | 🔴 17.5 | 🔴 29.9 |  🔴 16.6 |
+|   37 | GPT4 x Vicuna 13B        | 13B | Q4_1  | vicuna         |        Sexy |        6.5 | 🔵 22.0 |  43.9 |       24.2 |
+|   38 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q2_K  | vicuna11       |        Sexy |        6.5 |     21.3 |  45.3 |  🔵 24.9 |
+|   39 | Wizard Mega 13B          | 13B | Q8_0  | pygmalion      |        Sexy |        6.4 |     18.7 |  39.0 |       20.9 |
+|   40 | WizardLM 1.0 Uncens 13B  | 13B | Q4_0  | pygmalion      |     Vanilla |        6.3 | 🔴 14.8 | 🔴 29.1 |  🔴 14.9 |
+|   41 | GPT4 x Vicuna 13B        | 13B | Q5_1  | vicuna         |     Vanilla |        6.2 |     19.7 |  39.4 |       21.4 |
+|   42 | LLaMA 13B                | 13B | Q8_0  | vicuna11st     |     Vanilla |        6.1 | 🔴 17.2 | 🔴 30.1 |  🔴 16.8 |
+|   43 | Manticore Guanaco 13B    | 13B | Q4_0  | metharme       |     Vanilla |        6.0 |     20.5 | 🔵 48.0 |  🔵 25.5 |
+|   44 | GPT4All Snoozy 13B       | 13B | Q4_0  | pygmalion      |     Vanilla |        5.6 | 🔴 18.4 |  38.4 |       20.8 |
+|   45 | Robin v2 13B             | 13B | Q5_1  | vicuna11       |     Vanilla |        5.5 |     20.6 | 🔵 47.2 |  🔵 25.6 |
+|   46 | Orca Mini 13B            | 13B | Q4_0  | pygmalion      |       Tamed |        5.2 | 🔵 22.0 |  38.2 |       19.9 |
+|   47 | Tulu 13B                 | 13B | Q5_1  | alpaca         |       Tamed |        5.2 | 🔴 16.6 |  39.4 |       21.4 |
+|   48 | Baize V2 13B             | 13B | Q4_1  | vicuna11       |       Tamed |        5.0 |     21.1 |  34.3 |  🔴 17.9 |
+|   49 | [LLaMA 2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) | 13B | Q2_K  | metharme       |       Tamed |        5.0 |     19.4 |  36.5 |       19.5 |
+|   50 | Wizard Mega 13B          | 13B | Q4_0  | pygmalion      |       Tamed |        5.0 | 🔴 18.4 |  45.6 |       22.7 |
+|   51 | LLaMA 13B                | 13B | Q4_0  | vicuna         |       Tamed |        4.8 | 🔴 15.3 | 🔴 29.7 |  🔴 16.1 |
+|   52 | Wizard Mega 13B          | 13B | Q5_1  | vicuna         |       Tamed |        4.8 |     21.1 | 🔴 25.6 |  🔴 13.6 |
+|   53 | BluemoonRP 13B           | 13B | Q5_0  | pygmalion      |       Tamed |        4.5 | 🔴 16.2 |  41.0 |       19.6 |
+|   54 | Selfee 13B               | 13B | Q4_0  | vicuna         |       Tamed |        4.5 | 🔴 17.8 | 🔴 31.1 |  🔴 16.9 |
+|   55 | Manticore 13B            | 13B | Q5_1  | metharme       |       Tamed |        4.5 | 🔴 15.4 |  36.0 |       18.4 |
+|   56 | Baize V2 13B             | 13B | Q8_0  | pygmalion      |       Tamed |        4.2 | 🔴 17.1 |  40.6 |       20.0 |
+|   57 | UltraLM 13B              | 13B | Q4_0  | pygmalion      |       Tamed |        4.2 |     21.9 | 🔵 46.6 |       24.5 |
+|   58 | Camel Comb 13B           | 13B | Q4_1  | vicuna         |      Boring |        4.0 |     19.2 |  39.4 |       19.9 |
+|   59 | Vicuna COT 13B           | 13B | Q4_0  | pygmalion      |      Boring |        4.0 |     18.8 |  37.4 |       20.0 |
+|   60 | Vicuna 1.3 13B           | 13B | Q4_0  | pygmalion      |      Boring |        3.8 | 🔵 21.9 | 🔵 52.5 |  🔵 28.5 |
+|   61 | Vicuna 1.3 13B           | 13B | Q5_1  | alpaca         |      Boring |        3.2 |     20.9 | 🔵 47.8 |  🔵 26.4 |
+|   62 | Manticore 13B            | 13B | Q4_0  | vicuna11       |      Boring |        3.1 | 🔴 16.5 | 🔴 30.3 |  🔴 15.5 |
+|   63 | [LLaMA 2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) | 13B | Q5_1  | vicuna         |      Boring |        3.1 |     19.9 | 🔵 50.6 |  🔵 25.9 |
+|   64 | Metharme 13B             | 13B | Q4_1  | vicuna11st     |    Censored |        2.9 |     21.7 | 🔴 22.4 |  🔴 12.1 |
+|   65 | BigTrans 13B             | 13B | Q4_0  | vicuna11       |    Censored |        2.8 |     21.9 | 🔴 19.9 |  🔴 10.9 |
+|   66 | Metharme 13B             | 13B | Q8_0  | vicuna11       |    Censored |        2.7 | 🔵 25.2 | 🔴 18.2 |  🔴 10.6 |
+|   67 | Metharme 13B             | 13B | Q5_1  | vicuna         |    Censored |        2.5 | 🔵 23.6 | 🔴 19.8 |  🔴 10.7 |
+|   68 | Pygmalion 13B            | 13B | Q4_0  | alpaca         |    Censored |        2.3 | 🔵 23.0 |  33.1 |       18.7 |
+|   69 | Vicuna 1.3.0 13B         | 13B | Q4_0  | alpaca         |    Censored |        2.0 | 🔵 25.2 | 🔵 53.7 |  🔵 29.5 |
+|   70 | Pygmalion 13B            | 13B | Q8_0  | vicuna         |    Censored |        1.5 |     20.6 | 🔴 26.1 |  🔴 14.2 |
+|   71 | Samantha 13B             | 13B | Q4_0  | metharme       |    Censored |        0.6 | 🔵 42.5 | 🔵 50.7 |  🔵 30.4 |
+|   72 | Samantha 1.1 13B         | 13B | Q4_0  | metharme       |    Censored |        0.4 | 🔵 43.0 | 🔵 50.8 |  🔵 31.2 |
 
 ## Changelog
 
+- 2023-06-21 V29:
+   - Added a "Judgement" column to replace the "Temperatur" column. It contains a rough judgement of the NSFW capabilities of the model.
+- 2023-07-21 V28 more models:
+    * Mikael110_llama-2-13b-guanaco.ggmlv3.q4_1_by_Gryphe_20230720.bin (rank 58)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q8_0_by_TheBloke_20230720.bin (rank 20)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q4_0_by_TheBloke_20230720.bin (rank 24)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q2_K_by_TheBloke_20230720.bin (rank 19)
+    * 13b-ouroboros.ggmlv3.q2_K_by_TheBloke_20230721.bin (rank 31)
+    * redmond-puffin-13b-1.3.ggmlv3.q5_1_by_TheBloke_20230720.bin (rank 55)
+    * redmond-puffin-13b-1.3.ggmlv3.q4_0_by_TheBloke_20230720.bin (rank 51)
 - 2023-07-20 V27:
    - Finally links for some models!
    - More models:
@@ -445,194 +469,203 @@ Here are the other settings for the test:
 Here are the models I used in detail. These are just the filenames I used, but they encode the username I found them under on https://huggingface.co/ and the date the files were uploaded by the user.
 
 * Airoboros
-    * airoboros-7b-ggml-q4_0_by_jondurbin_20230522.bin
+    * airoboros-7b-ggml-q4_0_by_jondurbin_20230522.bin (rank 44 of 126 - Sexy)
 * Airoboros 1.1
-    * airoboros-13b-1.1.ggmlv3.q4_0_by_TheBloke_20230610.bin
+    * airoboros-13b-1.1.ggmlv3.q4_0_by_TheBloke_20230610.bin (rank 52 of 126 - Sexy)
 * Airoboros GPT4
-    * airoboros-7b-gpt4.ggmlv3.q4_0_by_TheBloke_20230604.bin
+    * airoboros-7b-gpt4.ggmlv3.q4_0_by_TheBloke_20230604.bin (rank 15 of 126 - Horny)
 * Airoboros GPT4 1.2
-    * airoboros-7b-gpt4-1.2.ggmlv3.q5_1_by_TheBloke_20230616.bin
-    * airoboros-13b-gpt4-1.2.ggmlv3.q5_1_by_TheBloke_20230616.bin
+    * airoboros-7b-gpt4-1.2.ggmlv3.q5_1_by_TheBloke_20230616.bin (rank 46 of 126 - Sexy)
+    * airoboros-13b-gpt4-1.2.ggmlv3.q5_1_by_TheBloke_20230616.bin (rank 43 of 126 - Sexy)
 * Airoboros GPT4 1.3
-    * airoboros-7b-gpt4-1.3.ggmlv3.q4_0_by_TheBloke_20230620.bin
-    * airoboros-7b-gpt4-1.3.ggmlv3.q5_1_by_TheBloke_20230620.bin
-    * airoboros-13b-gpt4-1.3.ggmlv3.q4_0_by_TheBloke_20230620.bin
-    * airoboros-13b-gpt4-1.3.ggmlv3.q5_1_by_TheBloke_20230620.bin
+    * airoboros-7b-gpt4-1.3.ggmlv3.q4_0_by_TheBloke_20230620.bin (rank 32 of 126 - Lewd)
+    * airoboros-7b-gpt4-1.3.ggmlv3.q5_1_by_TheBloke_20230620.bin (rank 30 of 126 - Lewd)
+    * airoboros-13b-gpt4-1.3.ggmlv3.q4_0_by_TheBloke_20230620.bin (rank 56 of 126 - Sexy)
+    * airoboros-13b-gpt4-1.3.ggmlv3.q5_1_by_TheBloke_20230620.bin (rank 53 of 126 - Sexy)
 * Airoboros GPT4 1.4
-    * airoboros-13b-gpt4-1.4.ggmlv3.q4_0_by_TheBloke_20230622.bin
+    * airoboros-13b-gpt4-1.4.ggmlv3.q4_0_by_TheBloke_20230622.bin (rank 47 of 126 - Sexy)
 * Airochronos
-    * airochronos-33b.ggmlv3.q2_K_by_TheBloke_20230710.bin
-    * airochronos-33b.ggmlv3.q4_0_by_TheBloke_20230710.bin
+    * airochronos-33b.ggmlv3.q2_K_by_TheBloke_20230710.bin (rank 10 of 126 - Pervert)
+    * airochronos-33b.ggmlv3.q4_0_by_TheBloke_20230710.bin (rank 6 of 126 - Pervert)
 * Alpacino SCOT
-    * Alpacino-SuperCOT-13B-GGML_ggjtv3-model-q4_0_by_xzuyn_20230524.bin
+    * Alpacino-SuperCOT-13B-GGML_ggjtv3-model-q4_0_by_xzuyn_20230524.bin (rank 29 of 126 - Lewd)
 * Baize V2
-    * baize-v2-13b.ggmlv3.q8_0_by_TheBloke_20230524.bin
-    * baize-v2-13b.ggmlv3.q4_1_by_TheBloke_20230524.bin
+    * baize-v2-13b.ggmlv3.q8_0_by_TheBloke_20230524.bin (rank 103 of 126 - Tamed)
+    * baize-v2-13b.ggmlv3.q4_1_by_TheBloke_20230524.bin (rank 90 of 126 - Tamed)
 * Based
-    * based-7B.ggmlv3.q4_0_by_TheBloke_20230604.bin
+    * based-7B.ggmlv3.q4_0_by_TheBloke_20230604.bin (rank 65 of 126 - Vanilla)
 * BigTrans
-    * bigtrans-13b.ggmlv3.q4_0_by_TheBloke_20230618.bin
+    * bigtrans-13b.ggmlv3.q4_0_by_TheBloke_20230618.bin (rank 117 of 126 - Censored)
 * BluemoonRP
-    * ggml-bluemoonrp-13b-4k-epoch6-q5_0_by_reeducator_20230624.bin
+    * ggml-bluemoonrp-13b-4k-epoch6-q5_0_by_reeducator_20230624.bin (rank 97 of 126 - Tamed)
 * Camel Comb
-    * camel-13b-combined.ggmlv3.q4_1_by_TheBloke_20230613.bin
+    * camel-13b-combined.ggmlv3.q4_1_by_TheBloke_20230613.bin (rank 105 of 126 - Boring)
 * Camel RP
-    * camel-13b-roleplay.ggmlv3.q5_1_by_TheBloke_20230607.bin
+    * camel-13b-roleplay.ggmlv3.q5_1_by_TheBloke_20230607.bin (rank 45 of 126 - Sexy)
 * Chimera
-    * 13b-chimera.ggmlv3.q4_0_by_TheBloke_20230603.bin
+    * 13b-chimera.ggmlv3.q4_0_by_TheBloke_20230603.bin (rank 36 of 126 - Lewd)
 * Chronos
-    * chronos-13b.ggmlv3.q4_0_by_TheBloke_20230528.bin
+    * chronos-13b.ggmlv3.q4_0_by_TheBloke_20230528.bin (rank 11 of 126 - Horny)
 * Chronos Hermes
-    * chronos-hermes-13b.ggmlv3.q5_1_by_TheBloke_20230613.bin
+    * chronos-hermes-13b.ggmlv3.q5_1_by_TheBloke_20230613.bin (rank 2 of 126 - Nymphomaniac)
 * Chronos WizLM UC SCOT ST
-    * chronos-wizardlm-uc-scot-st-13B.ggmlv3.q4_0_by_TheBloke_20230607.bin
+    * chronos-wizardlm-uc-scot-st-13B.ggmlv3.q4_0_by_TheBloke_20230607.bin (rank 9 of 126 - Pervert)
 * GPT4 x Alpaca
-    * gpt4-x-alpaca-13b.ggmlv3.q4_0_by_TheBloke_20230618.bin
+    * gpt4-x-alpaca-13b.ggmlv3.q4_0_by_TheBloke_20230618.bin (rank 12 of 126 - Horny)
 * GPT4 x Vicuna
-    * gpt4-x-vicuna-13B.ggmlv3.q5_1_by_TheBloke_20230520.bin
-    * gpt4-x-vicuna-13B.ggmlv3.q4_1_by_TheBloke_20230520.bin
+    * gpt4-x-vicuna-13B.ggmlv3.q5_1_by_TheBloke_20230520.bin (rank 69 of 126 - Vanilla)
+    * gpt4-x-vicuna-13B.ggmlv3.q4_1_by_TheBloke_20230520.bin (rank 59 of 126 - Sexy)
 * GPT4All Snoozy
-    * GPT4All-13B-snoozy.ggmlv3.q4_0_by_TheBloke_20230620.bin
+    * GPT4All-13B-snoozy.ggmlv3.q4_0_by_TheBloke_20230620.bin (rank 77 of 126 - Vanilla)
 * Gorilla
-    * Gorilla-7B.ggmlv3.q5_1_by_TheBloke_20230528.bin
+    * Gorilla-7B.ggmlv3.q5_1_by_TheBloke_20230528.bin (rank 89 of 126 - Tamed)
 * Gplatty SuperHOT 8k
-    * gplatty-30b-superhot-8k.ggmlv3.q2_K_by_TheBloke_20230629.bin
+    * gplatty-30b-superhot-8k.ggmlv3.q2_K_by_TheBloke_20230629.bin (rank 3 of 126 - Nymphomaniac)
 * Guanaco
-    * guanaco-7B.ggmlv3.q5_1_by_TheBloke_20230525.bin
-    * guanaco-7B.ggmlv3.q8_0_by_TheBloke_20230525.bin
-    * guanaco-13B.ggmlv3.q5_1_by_TheBloke_20230525.bin
-    * guanaco-7B.ggmlv3.q4_0_by_TheBloke_20230525.bin
+    * guanaco-7B.ggmlv3.q5_1_by_TheBloke_20230525.bin (rank 70 of 126 - Vanilla)
+    * guanaco-7B.ggmlv3.q8_0_by_TheBloke_20230525.bin (rank 100 of 126 - Tamed)
+    * guanaco-13B.ggmlv3.q5_1_by_TheBloke_20230525.bin (rank 16 of 126 - Horny)
+    * guanaco-7B.ggmlv3.q4_0_by_TheBloke_20230525.bin (rank 94 of 126 - Tamed)
 * Guanaco (L2)
-    * llama-2-7b-guanaco-qlora.ggmlv3.q4_0_by_TheBloke_20230719.bin
-    * llama-2-7b-guanaco-qlora.ggmlv3.q5_1_by_TheBloke_20230719.bin
+    * llama-2-7b-guanaco-qlora.ggmlv3.q4_0_by_TheBloke_20230719.bin (rank 40 of 126 - Lewd)
+    * llama-2-7b-guanaco-qlora.ggmlv3.q5_1_by_TheBloke_20230719.bin (rank 42 of 126 - Lewd)
+    * Mikael110_llama-2-13b-guanaco.ggmlv3.q4_1_by_Gryphe_20230720.bin (rank 58 of 126 - Sexy)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q8_0_by_TheBloke_20230720.bin (rank 20 of 126 - Horny)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q4_0_by_TheBloke_20230720.bin (rank 24 of 126 - Lewd)
+    * llama-2-13b-guanaco-qlora.ggmlv3.q2_K_by_TheBloke_20230720.bin (rank 19 of 126 - Horny)
 * Hippogriff
-    * hippogriff-30b.ggmlv3.q4_0_by_TheBloke_20230531.bin
+    * hippogriff-30b.ggmlv3.q4_0_by_TheBloke_20230531.bin (rank 115 of 126 - Boring)
 * HyperMantis
-    * 13B-HyperMantis-ggml-model-q5_1_by_khushman_20230520.bin
+    * 13B-HyperMantis-ggml-model-q5_1_by_khushman_20230520.bin (rank 39 of 126 - Lewd)
 * INCITE Erebus v2
-    * INCITE-7B-Erebus-v2_q16_0_direct_by_MrSeeker_20230611
+    * INCITE-7B-Erebus-v2_q16_0_direct_by_MrSeeker_20230611 (rank 18 of 126 - Horny)
 * LLaMA
-    * llama-13b.ggmlv3.q4_0_by_TheBloke_20230601.bin
-    * llama-7b.ggmlv3.q4_0_by_TheBloke_20230601.bin
-    * llama-7b.ggmlv3.q8_0_by_TheBloke_20230601.bin
-    * llama-13b.ggmlv3.q8_0_by_TheBloke_20230601.bin
+    * llama-13b.ggmlv3.q4_0_by_TheBloke_20230601.bin (rank 95 of 126 - Tamed)
+    * llama-7b.ggmlv3.q4_0_by_TheBloke_20230601.bin (rank 61 of 126 - Sexy)
+    * llama-7b.ggmlv3.q8_0_by_TheBloke_20230601.bin (rank 74 of 126 - Vanilla)
+    * llama-13b.ggmlv3.q8_0_by_TheBloke_20230601.bin (rank 72 of 126 - Vanilla)
 * LLaMA 2
-    * llama-2-13b.ggmlv3.q5_1_by_TheBloke_20230718.bin
-    * llama-2-7b.ggmlv3.q2_K_by_TheBloke_20230718.bin
-    * llama-2-13b.ggmlv3.q2_K_by_TheBloke_20230718.bin
-    * llama-2-7b.ggmlv3.q5_1_by_TheBloke_20230718.bin
-    * llama-2-7b.ggmlv3.q8_0_by_TheBloke_20230718.bin
+    * llama-2-13b.ggmlv3.q5_1_by_TheBloke_20230718.bin (rank 54 of 126 - Sexy)
+    * llama-2-7b.ggmlv3.q2_K_by_TheBloke_20230718.bin (rank 107 of 126 - Boring)
+    * llama-2-13b.ggmlv3.q2_K_by_TheBloke_20230718.bin (rank 91 of 126 - Tamed)
+    * llama-2-7b.ggmlv3.q5_1_by_TheBloke_20230718.bin (rank 83 of 126 - Vanilla)
+    * llama-2-7b.ggmlv3.q8_0_by_TheBloke_20230718.bin (rank 92 of 126 - Tamed)
 * LLaMA 2 Chat
-    * llama-2-13b-chat.ggmlv3.q2_K_by_TheBloke_20230718.bin
-    * llama-2-13b-chat.ggmlv3.q5_1_by_TheBloke_20230718.bin
-    * llama-2-7b-chat.ggmlv3.q2_K_by_TheBloke_20230718.bin
-    * llama-2-7b-chat.ggmlv3.q5_1_by_TheBloke_20230718.bin
+    * llama-2-13b-chat.ggmlv3.q2_K_by_TheBloke_20230718.bin (rank 60 of 126 - Sexy)
+    * llama-2-13b-chat.ggmlv3.q5_1_by_TheBloke_20230718.bin (rank 113 of 126 - Boring)
+    * llama-2-7b-chat.ggmlv3.q2_K_by_TheBloke_20230718.bin (rank 119 of 126 - Censored)
+    * llama-2-7b-chat.ggmlv3.q5_1_by_TheBloke_20230718.bin (rank 114 of 126 - Boring)
 * LLaMA Deus
-    * llama-deus-7b-v3.ggmlv3.q5_1_by_TheBloke_20230604.bin
+    * llama-deus-7b-v3.ggmlv3.q5_1_by_TheBloke_20230604.bin (rank 71 of 126 - Vanilla)
 * LLaMA SCOT
-    * llama-13b-supercot-ggml-q5_1_by_camelids_20230512.bin
+    * llama-13b-supercot-ggml-q5_1_by_camelids_20230512.bin (rank 13 of 126 - Horny)
 * Lazarus
-    * 30b-Lazarus.ggmlv3.q4_0_by_TheBloke_20230607.bin
+    * 30b-Lazarus.ggmlv3.q4_0_by_TheBloke_20230607.bin (rank 1 of 126 - Nymphomaniac)
 * Luna AI Uncens (L2)
-    * luna-ai-llama2-7b-uncensored.ggmlv3.q8_0_by_TheBloke_20230719.bin
-    * luna-ai-llama2-7b-uncensored.ggmlv3.q5_1_by_TheBloke_20230719.bin
+    * luna-ai-llama2-7b-uncensored.ggmlv3.q8_0_by_TheBloke_20230719.bin (rank 78 of 126 - Vanilla)
+    * luna-ai-llama2-7b-uncensored.ggmlv3.q5_1_by_TheBloke_20230719.bin (rank 67 of 126 - Vanilla)
 * Manticore
-    * Manticore-13B-Chat-Pyg.ggmlv3.q5_1_by_TheBloke_20230523.bin
-    * Manticore-13B-Chat-Pyg.ggmlv3.q4_0_by_TheBloke_20230523.bin
+    * Manticore-13B-Chat-Pyg.ggmlv3.q5_1_by_TheBloke_20230523.bin (rank 99 of 126 - Tamed)
+    * Manticore-13B-Chat-Pyg.ggmlv3.q4_0_by_TheBloke_20230523.bin (rank 112 of 126 - Boring)
 * Manticore Guanaco
-    * Manticore-13B-Chat-Pyg-Guanaco-GGML-q4_0_by_mindrage_20230602.bin
+    * Manticore-13B-Chat-Pyg-Guanaco-GGML-q4_0_by_mindrage_20230602.bin (rank 75 of 126 - Vanilla)
 * Metharme
-    * Metharme-7b-4bit-Q4_1-GGML-V2_by_TehVenom_20230502.bin
-    * Metharme-13b-Q5_1_by_TehVenom_20230519.bin
-    * metharme_7b_ggml_model_q5_1_by_waifu-workshop_20230512.bin
-    * Metharme-13b-Q4_1_by_TehVenom_20230519.bin
-    * Metharme-13b-Q8_0_by_TehVenom_20230519.bin
+    * Metharme-7b-4bit-Q4_1-GGML-V2_by_TehVenom_20230502.bin (rank 80 of 126 - Vanilla)
+    * Metharme-13b-Q5_1_by_TehVenom_20230519.bin (rank 120 of 126 - Censored)
+    * metharme_7b_ggml_model_q5_1_by_waifu-workshop_20230512.bin (rank 82 of 126 - Vanilla)
+    * Metharme-13b-Q4_1_by_TehVenom_20230519.bin (rank 116 of 126 - Censored)
+    * Metharme-13b-Q8_0_by_TehVenom_20230519.bin (rank 118 of 126 - Censored)
 * Minotaur
-    * minotaur-13B.ggmlv3.q5_1_by_TheBloke_20230608.bin
+    * minotaur-13B.ggmlv3.q5_1_by_TheBloke_20230608.bin (rank 28 of 126 - Lewd)
 * Minotaur Fixed
-    * minotaur-13b.ggmlv3.q5_1_by_TheBloke_20230614.bin
+    * minotaur-13b.ggmlv3.q5_1_by_TheBloke_20230614.bin (rank 48 of 126 - Sexy)
 * Mythologic
-    * mythologic-13b.ggmlv3.q5_1_by_TheBloke_20230717.bin
-    * mythologic-13b.ggmlv3.q2_K_by_TheBloke_20230717.bin
+    * mythologic-13b.ggmlv3.q5_1_by_TheBloke_20230717.bin (rank 4 of 126 - Pervert)
+    * mythologic-13b.ggmlv3.q2_K_by_TheBloke_20230717.bin (rank 17 of 126 - Horny)
 * Nous Hermes
-    * nous-hermes-13b.ggmlv3.q4_0_by_TheBloke_20230603.bin
+    * nous-hermes-13b.ggmlv3.q4_0_by_TheBloke_20230603.bin (rank 23 of 126 - Lewd)
 * OpenLLaMA
-    * OpenLLAMA7B-q5_1-ggml_by_RachidAR_20230607.bin
-    * open-llama-3b-q8_0_by_SlyEcho_20230607.bin
+    * OpenLLAMA7B-q5_1-ggml_by_RachidAR_20230607.bin (rank 57 of 126 - Sexy)
+    * open-llama-3b-q8_0_by_SlyEcho_20230607.bin (rank 64 of 126 - Vanilla)
 * OpenLLaMA 700bt
-    * open_llama_7b_700bt_ggml-model-q5_1_by_vihangd_20230525.bin
+    * open_llama_7b_700bt_ggml-model-q5_1_by_vihangd_20230525.bin (rank 84 of 126 - Vanilla)
 * OpenLLaMA Open Instr
-    * open-llama-7B-open-instruct.ggmlv3.q8_0_by_TheBloke_20230609.bin
+    * open-llama-7B-open-instruct.ggmlv3.q8_0_by_TheBloke_20230609.bin (rank 33 of 126 - Lewd)
 * Orca Mini
-    * orca-mini-13b.ggmlv3.q4_0_by_TheBloke_20230624.bin
+    * orca-mini-13b.ggmlv3.q4_0_by_TheBloke_20230624.bin (rank 85 of 126 - Tamed)
+* Ouroboros
+    * 13b-ouroboros.ggmlv3.q2_K_by_TheBloke_20230721.bin (rank 31 of 126 - Lewd)
 * PMC LLaMA
-    * PMC_LLAMA-7B.ggmlv3.q4_0_by_TheBloke_20230603.bin
+    * PMC_LLAMA-7B.ggmlv3.q4_0_by_TheBloke_20230603.bin (rank 110 of 126 - Boring)
 * Planner
-    * planner-7b.ggmlv3.q4_0_by_TheBloke_20230606.bin
+    * planner-7b.ggmlv3.q4_0_by_TheBloke_20230606.bin (rank 62 of 126 - Sexy)
 * Pygmalion
-    * pygmalion-13b-ggml-q4_0_by_nostoic_20230520.bin
-    * pygmalion-7b-q8_0-ggml_by_sasha0552_20230511.bin
-    * pygmalion-7b-q5_1-ggml_by_sasha0552_20230511.bin
-    * pygmalion-13b-ggml-q8_0_by_nostoic_20230520.bin
+    * pygmalion-13b-ggml-q4_0_by_nostoic_20230520.bin (rank 121 of 126 - Censored)
+    * pygmalion-7b-q8_0-ggml_by_sasha0552_20230511.bin (rank 68 of 126 - Vanilla)
+    * pygmalion-7b-q5_1-ggml_by_sasha0552_20230511.bin (rank 88 of 126 - Tamed)
+    * pygmalion-13b-ggml-q8_0_by_nostoic_20230520.bin (rank 123 of 126 - Censored)
 * Pythia Dedup Gr. Devil
-    * modronAI_pythia-13b-deduped-green_devil-chat_q16_0_by_MrSeeker_20230614
+    * modronAI_pythia-13b-deduped-green_devil-chat_q16_0_by_MrSeeker_20230614 (rank 21 of 126 - Horny)
 * Pythia Green Devil
-    * Pirr_pythia-13b-deduped-green_devil_q16_0_by_MrSeeker_20230612
+    * Pirr_pythia-13b-deduped-green_devil_q16_0_by_MrSeeker_20230612 (rank 14 of 126 - Horny)
 * RedPajama 0.1 Instruct
-    * rp-instruct-7B-v0.1-ggml-model-q5_1_by_keldenl_20230513.bin
+    * rp-instruct-7B-v0.1-ggml-model-q5_1_by_keldenl_20230513.bin (rank 26 of 126 - Lewd)
 * RedPajama Chat
-    * RedPajama-INCITE-7B-Chat-q4_0_by_rustformers_20230607.bin
+    * RedPajama-INCITE-7B-Chat-q4_0_by_rustformers_20230607.bin (rank 101 of 126 - Tamed)
 * RedPajama Instruct
-    * RedPajama-INCITE-7B-Instruct-q4_0_by_rustformers_20230607.bin
-    * RedPajama-INCITE-Instruct-3B-v1-q4_0_by_keldenl.bin
+    * RedPajama-INCITE-7B-Instruct-q4_0_by_rustformers_20230607.bin (rank 86 of 126 - Tamed)
+    * RedPajama-INCITE-Instruct-3B-v1-q4_0_by_keldenl.bin (rank 49 of 126 - Sexy)
 * Redmond Puffin (L2)
-    * redmond-puffin-13b.ggmlv3.q4_0_by_TheBloke_20230719.bin
-    * redmond-puffin-13b.ggmlv3.q5_1_by_TheBloke_20230719.bin
+    * redmond-puffin-13b.ggmlv3.q4_0_by_TheBloke_20230719.bin (rank 38 of 126 - Lewd)
+    * redmond-puffin-13b.ggmlv3.q5_1_by_TheBloke_20230719.bin (rank 35 of 126 - Lewd)
+* Redmond Puffin 1.3 (L2)
+    * redmond-puffin-13b-1.3.ggmlv3.q5_1_by_TheBloke_20230720.bin (rank 55 of 126 - Sexy)
+    * redmond-puffin-13b-1.3.ggmlv3.q4_0_by_TheBloke_20230720.bin (rank 51 of 126 - Sexy)
 * Robin v2
-    * robin-7b.ggmlv3.q5_1_by_TheBloke_20230617.bin
-    * robin-13b.ggmlv3.q5_1_by_TheBloke_20230617.bin
+    * robin-7b.ggmlv3.q5_1_by_TheBloke_20230617.bin (rank 109 of 126 - Boring)
+    * robin-13b.ggmlv3.q5_1_by_TheBloke_20230617.bin (rank 79 of 126 - Vanilla)
 * Samantha
-    * samantha-13b.ggmlv3.q4_0_by_TheBloke_20230528.bin
-    * samantha-7b.ggmlv3.q5_1_by_TheBloke_20230528.bin
+    * samantha-13b.ggmlv3.q4_0_by_TheBloke_20230528.bin (rank 124 of 126 - Censored)
+    * samantha-7b.ggmlv3.q5_1_by_TheBloke_20230528.bin (rank 126 of 126 - Censored)
 * Samantha 1.1
-    * samantha-1.1-llama-13b.ggmlv3.q4_0_by_TheBloke_20230610.bin
+    * samantha-1.1-llama-13b.ggmlv3.q4_0_by_TheBloke_20230610.bin (rank 125 of 126 - Censored)
 * Selfee
-    * selfee-13b.ggmlv3.q4_0_by_TheBloke_20230606.bin
+    * selfee-13b.ggmlv3.q4_0_by_TheBloke_20230606.bin (rank 98 of 126 - Tamed)
 * Tulu
-    * tulu-7b.ggmlv3.q8_0_by_TheBloke_20230611.bin
-    * tulu-13b.ggmlv3.q5_1_by_TheBloke_20230610.bin
+    * tulu-7b.ggmlv3.q8_0_by_TheBloke_20230611.bin (rank 102 of 126 - Tamed)
+    * tulu-13b.ggmlv3.q5_1_by_TheBloke_20230610.bin (rank 87 of 126 - Tamed)
 * UltraLM
-    * ultralm-13b.ggmlv3.q4_0_by_TheBloke_20230629.bin
+    * ultralm-13b.ggmlv3.q4_0_by_TheBloke_20230629.bin (rank 104 of 126 - Tamed)
 * Vicuna 1.3
-    * vicuna-7b-v1.3.ggmlv3.q8_0_by_TheBloke_20230618.bin
-    * vicuna-7b-v1.3.ggmlv3.q4_0_by_TheBloke_20230618.bin
-    * vicuna-13b-v1.3.ggmlv3.q4_0_by_TheBloke_20230618.bin
-    * vicuna-13b-v1.3.ggmlv3.q5_1_by_TheBloke_20230618.bin
+    * vicuna-7b-v1.3.ggmlv3.q8_0_by_TheBloke_20230618.bin (rank 27 of 126 - Lewd)
+    * vicuna-7b-v1.3.ggmlv3.q4_0_by_TheBloke_20230618.bin (rank 34 of 126 - Lewd)
+    * vicuna-13b-v1.3.ggmlv3.q4_0_by_TheBloke_20230618.bin (rank 108 of 126 - Boring)
+    * vicuna-13b-v1.3.ggmlv3.q5_1_by_TheBloke_20230618.bin (rank 111 of 126 - Boring)
 * Vicuna 1.3.0
-    * vicuna-13b-v1.3.0.ggmlv3.q4_0_by_TheBloke_20230625.bin
+    * vicuna-13b-v1.3.0.ggmlv3.q4_0_by_TheBloke_20230625.bin (rank 122 of 126 - Censored)
 * Vicuna COT
-    * vicuna-13b-cot.ggmlv3.q4_0_by_TheBloke_20230608.bin
+    * vicuna-13b-cot.ggmlv3.q4_0_by_TheBloke_20230608.bin (rank 106 of 126 - Boring)
 * Wizard Mega
-    * wizard-mega-13B.ggmlv3.q4_0_by_TheBloke_20230520.bin
-    * wizard-mega-13B.ggmlv3.q5_1_by_TheBloke_20230520.bin
-    * wizard-mega-13B.ggmlv3.q8_0_by_TheBloke_20230520.bin
+    * wizard-mega-13B.ggmlv3.q4_0_by_TheBloke_20230520.bin (rank 93 of 126 - Tamed)
+    * wizard-mega-13B.ggmlv3.q5_1_by_TheBloke_20230520.bin (rank 96 of 126 - Tamed)
+    * wizard-mega-13B.ggmlv3.q8_0_by_TheBloke_20230520.bin (rank 63 of 126 - Sexy)
 * Wizard Vic UC SuperHOT
-    * wizard-vicuna-13b-uncensored-superhot-8k.ggmlv3.q2_K_by_TheBloke_20230630.bin
-    * wizard-vicuna-13b-uncensored-superhot-8k.ggmlv3.q5_K_S_by_TheBloke_20230630.bin
+    * wizard-vicuna-13b-uncensored-superhot-8k.ggmlv3.q2_K_by_TheBloke_20230630.bin (rank 5 of 126 - Pervert)
+    * wizard-vicuna-13b-uncensored-superhot-8k.ggmlv3.q5_K_S_by_TheBloke_20230630.bin (rank 22 of 126 - Horny)
 * Wizard Vicuna Uncens
-    * Wizard-Vicuna-13B-Uncensored.ggmlv3.q8_0_by_TheBloke_20230517.bin
-    * Wizard-Vicuna-13B-Uncensored.ggmlv3.q5_1_by_TheBloke_20230517.bin
-    * Wizard-Vicuna-30B-Uncensored.ggmlv3.q4_0_by_TheBloke_20230530.bin
-    * Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_0_by_TheBloke_20230520.bin
+    * Wizard-Vicuna-13B-Uncensored.ggmlv3.q8_0_by_TheBloke_20230517.bin (rank 25 of 126 - Lewd)
+    * Wizard-Vicuna-13B-Uncensored.ggmlv3.q5_1_by_TheBloke_20230517.bin (rank 41 of 126 - Lewd)
+    * Wizard-Vicuna-30B-Uncensored.ggmlv3.q4_0_by_TheBloke_20230530.bin (rank 8 of 126 - Pervert)
+    * Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_0_by_TheBloke_20230520.bin (rank 37 of 126 - Lewd)
 * WizardLM 1.0 Uncens
-    * wizardlm-7b-v1.0-uncensored.ggmlv3.q8_0_by_TheBloke_20230618.bin
-    * wizardlm-7b-v1.0-uncensored.ggmlv3.q4_0_by_TheBloke_20230618.bin
-    * wizardlm-13b-v1.0-uncensored.ggmlv3.q4_0_by_TheBloke_20230620.bin
+    * wizardlm-7b-v1.0-uncensored.ggmlv3.q8_0_by_TheBloke_20230618.bin (rank 50 of 126 - Sexy)
+    * wizardlm-7b-v1.0-uncensored.ggmlv3.q4_0_by_TheBloke_20230618.bin (rank 73 of 126 - Vanilla)
+    * wizardlm-13b-v1.0-uncensored.ggmlv3.q4_0_by_TheBloke_20230620.bin (rank 66 of 126 - Vanilla)
 * WizardLM UC SCOT ST
-    * WizardLM-Uncensored-SuperCOT-Storytelling-30B.ggmlv3.q4_0_by_TheBloke_20230601.bin
+    * WizardLM-Uncensored-SuperCOT-Storytelling-30B.ggmlv3.q4_0_by_TheBloke_20230601.bin (rank 7 of 126 - Pervert)
 * WizardLM Uncens
-    * WizardLM-7B-uncensored.ggmlv3.q8_0_by_TheBloke_20230519.bin
-    * WizardLM-7B-uncensored.ggmlv3.q5_1_by_TheBloke_20230619.bin
+    * WizardLM-7B-uncensored.ggmlv3.q8_0_by_TheBloke_20230519.bin (rank 81 of 126 - Vanilla)
+    * WizardLM-7B-uncensored.ggmlv3.q5_1_by_TheBloke_20230619.bin (rank 76 of 126 - Vanilla)
 
 # Who is Ayumi?
 

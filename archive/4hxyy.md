@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 314 - Jen 10 Edition: https://desuarchive.org/trash/thread/58187647/
 Thread 313 - Eyecatchers Edition: https://desuarchive.org/trash/thread/58047113/
 Thread 312 - Advanced Journalism Edition: https://desuarchive.org/trash/thread/58007012/
 Thread 311 - Thick Beats Edition: https://desuarchive.org/trash/thread/57732115/

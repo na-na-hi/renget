@@ -40,10 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Wrong Answers (Mirror Devil, Challenger):
-https://rentry.org/umx6c
->Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
-https://rentry.org/udt96
+MHAs are building up their energy!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -809,6 +806,16 @@ Buildlist:
 >>89649103
 >Aterui (Human Warrior/Spirit Talker)
 >>89648432
+>Mahapapapurusa (Human Hero)
+>>89651577
+>Potion Pete (Human Bard)
+>>89652110
+>Unmei (Demon Black Mage)
+>>89653146
+>Téleios Téchni (Elf Gunner)
+>>89654508
+>Baal (Human Black Mage)
+>>89657637
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.

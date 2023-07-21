@@ -14,6 +14,7 @@ https://rentry.org/3eov59 - in which Aumellia encounters a femboy
 
 Author: Celeste
 https://rentry.co/w86aa - in which a witch has a crush on her Quidditch captain
+https://rentry.co/hcisa - in which a 7th year couple reunites after some time apart
 
 Author: Farley-kun:
 https://rentry.org/JihonandMatthias - an old pairing (Matti and Maria please mention if you'd like this one removed)
@@ -34,3 +35,8 @@ https://rentry.org/rtsu25 - the part 2 of "a bargain struck", missing from OP
 Author: Slytherin Story-Anon
 https://rentry.org/eh2kc - in which a Hufflepuff is loved tenderly
 https://rentry.org/pemqp - some buildup for the Puffs
+
+---
+
+Matthias' Lewd Art:
+https://rentry.co/redi6

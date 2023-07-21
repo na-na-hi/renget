@@ -15,6 +15,7 @@ TO-DO LIST: Sane Ukrainian girl.
 ->![A request from another time.](https://files.catbox.moe/4llzse.png)<-
 Janna, a cheerful librarian from Byelorussian SSR in St. Petersburg, Florida. It's year 1984, and the heat is unbearable. Created on 6th of July.
 CHUB link: https://www.chub.ai/characters/pashatehink/Janna
+Expressions: https://files.catbox.moe/quqbvt.zip
 ***
 
 #Katya Series

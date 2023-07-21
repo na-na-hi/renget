@@ -75,7 +75,7 @@ Clown still tried to make it work but she responded less and less to him. She mi
 
 It was sometime before the sun began to rise in the late night. My daughter was asleep, which would help with removal. I didn't want her to be upset just in case Clown made an impact on her. I had only just started removing the plug from the outlet when I heard him speak. 
 
--> LET GO OFF THAT PLUG.  <-
+-> LET GO OF THAT PLUG.  <-
 -> I'M NOT DONE HELPING HER. <-
 
 I was in such a state of shock that I did what he asked of me. I wasn't aware that he knew about being shut down. The plug had gone out partly, which affected the TV screen. It was hard to see his face through the glitch but I could still see him smile. I moved away from the wall and just stood in awe.

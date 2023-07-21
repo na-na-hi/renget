@@ -1,5 +1,5 @@
 ->[Character Hub Page](https://www.chub.ai/users/ritsubestgirl)<- 
-**Last edited 7/10/23 (Check the Chub page, I forget to update this)**
+**Last edited 7/20/23 (Check the Chub page, I forget to update this)**
 *Pictures should be the card downloads as well....*
 
 ## Ai: The Somnium Files
