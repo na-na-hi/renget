@@ -49,7 +49,8 @@ Card | Name | Description
 Card | Name | Description 
 ------ | ------ | ------ 
  ![Ophelia Dusk](https://files.catbox.moe/huypyu.png) | Ophelia Dusk | Daughter of Odin from Fire Emblem Fates. Chunni, Basically girl Owain 
- ![Ophelia Dusk](https://files.catbox.moe/yjr9oa.png) | Lissa | Princess of Ylisse. Somewhat immature and likes to play pranks but is overall very friendly
+ ![Lissa](https://files.catbox.moe/yjr9oa.png) | Lissa | Princess of Ylisse. Somewhat immature and likes to play pranks but is overall very friendly
+ ![Morgan (Female)](https://files.catbox.moe/7ryhfo.png) | Morgan (Female)  | Daughter of Robin who traveled to the past and is suffering from amnesia. Playful, charasmatic, optmisitc. Two intros, one more playful than the other
 
 ## Tomo-Chan is a girl! 
 Card | Name | Description 

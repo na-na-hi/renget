@@ -13,6 +13,16 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ***
 ###humanoid I guess
 yuck
+
+SCP-049 | quip
+------ | ------ 
+ ![My, my.](https://files.catbox.moe/1u4lqr.png) | The doctor is in.. Or should it be the other way around?
+
+Dommy plague mommy :))))
+if someone doesnt make more scp shit, I will start spamming my own. I made another quick greeting as a test, it's basically the events of scp:cb
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/209632e6-ff03-4403-baca-c6b6faf0fd86)
+
 Fiddlesticks | quip
 ------ | ------ 
  ![ALL YOUR FAULT! ALL YOUR FAULT!](https://files.catbox.moe/5mss7h.png) | A ageless, ragged horror who's drawn to helpless virgins.. How will you escape?

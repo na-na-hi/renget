@@ -4,6 +4,7 @@
 Heavily WIP currently, so don’t be surprised if this gives you incorrect or incomplete information. I plan on adding to this as I get more familiar with SkyTemple. The goal is to provide straightforward, easy to reference information on using SkyTemple. The creation of this is partly for my own reference and partly out of spite for aggressive Discord shilling. I’ll include links to the videos I’m using as reference material with appropriate timestamps, if you prefer video tutorials.
 
 ###Useful Links
+[SkyTemple FAQ Google Doc (Updated 07/19/2023)](https://docs.google.com/document/d/1VdSQu-mBtbnEMEkYkXa9kEX41bzGtqtHm3bjUk7oxzE/edit)
 [ExplorerScript Language Specification](https://explorerscript.readthedocs.io/en/latest/language_spec.html)
 [Webtool to make sure your text fits in the dialogue box](http://textbox.skytemple.org/?ws)
 [Community made spritesheets](https://sprites.pmdcollab.org/)
@@ -605,7 +606,7 @@ end;
 ```
 
 ####Calling our Scene
-Now that we have a scene made, we need to get the game to play it. There are multiple ways to do this, but the one that seems the most organized is to use a macro. On the left hand side of the Script Editor there should be a script browser. At the top of the list there will be a folder labeled ‘Macros.’ Right click on it, add a script, and give it a name (I went with ‘hack’). This is where we’ll organize our hack and call cutscenes. In the macro script we’ll use ‘macro’ to start instead of ‘def.’ To call our cutscene we’ll use the function **supervision_ExecuteActingSub()**. It takes the level the cutscene takes place in, the name of the scene (no file extension!), and the number 0.
+Now that we have a scene made, we need to get the game to play it. There are multiple ways to do this, but the one that seems the most organized is to use a macro. On the left hand side of the Script Editor there should be a script browser. At the top of the list there will be a folder labeled ‘Macros.’ Right click on it, add a script, and give it a name (I went with ‘hack’). This is where we’ll organize our hack and call cutscenes. In the macro script we’ll use ‘macro’ to start instead of ‘def.’ To call our cutscene we’ll use the function **supervision_ExecuteActingSub()**. It takes the level the cutscene takes place in, the name of the scene (no file extension!), and the number 0. The 0 refers to the sector you want to load.
 ```
 macro Start() {
 	supervision_ExecuteActingSub(LEVEL_G01P06A, “tutorial”, 0);

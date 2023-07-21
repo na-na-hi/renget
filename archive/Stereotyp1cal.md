@@ -43,6 +43,7 @@
     **- (7/10/2023):** Created Child Snuff Simulator (NSFW and NSFL)
     **- (7/14/2023):** Created Chiyo. From now on, I'll be putting a (NEW) status on any new bots for a span of five days.
     **- (7/19/2023):** Created Yuzu from Blue Archive
+    **- (7/20/2023):** Updated Arisu from Blue Archive
 
 [TOC3]
 
@@ -51,9 +52,9 @@
 Kivotos Lorebook: https://www.chub.ai/lorebooks/maliksusanto/kivotos-city
 
 #####**Arisu**
-![image description](https://files.catbox.moe/a4akog.png)
-PNG: https://files.catbox.moe/a4akog.png
-JSON: https://files.catbox.moe/o2fzdy.json
+![image description](https://files.catbox.moe/m8pvs7.png)
+PNG: https://files.catbox.moe/m8pvs7.png
+JSON: https://files.catbox.moe/f0usvh.json
 
 #####**Chise (Swimsuit)**
 ![image description](https://files.catbox.moe/1jidfz.png)

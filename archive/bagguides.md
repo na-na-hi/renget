@@ -9,7 +9,6 @@ New Player FAQ | https://bluearchive.wiki/wiki/FAQ
 Japanese Wiki | https://bluearchive.wikiru.jp
 English Database | https://lonqie.github.io/SchaleDB/
 English Planner | https://justin163.com/planner/
-Equipment Farming Calculator | https://sensei.help/en
 Chibi Extraction and Posing Guide | https://rentry.org/qewdu
 Pyroxene Planner | [Google Document](https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/edit#gid=1291199777)
 Future Content Timeline and Unit Ratings | [Google Document](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271)

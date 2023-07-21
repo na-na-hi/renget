@@ -3,7 +3,8 @@
 [TOC]
 
 #Pending Requests
-1. Smith eating grimy food (he loves it)
+
+1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
 1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)
 1. Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!"
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
@@ -104,7 +105,6 @@
 1. Chespin using his vines to hold Wooper like a gun
 1. Lliam and Macom doing their mental card game
 1. Charm and Natu fighting Lowe the Venipede
-1. Nick and Amelia swimming
 1. Gus meeting Booker and Sneasel
 1. Sneasel sleeping in her new cotton bed
 1. Meloetta and Politoed performing on stage
@@ -115,6 +115,10 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Nick and Amelia swimming](https://cloverguild.com/booru/post/574)
+
+[Smith eating grimy food (he loves it)](https://cloverguild.com/booru/post/599)
 
 [Porygon being called out by Bill](https://cloverguild.com/booru/post/587) ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
 

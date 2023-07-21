@@ -1,7 +1,8 @@
 ###Porygon
 
 A human that woke up in the woods one day as one of Silph Co.'s premier products. 
-Luckily for him, he has a basic understanding of the Pokémon games, including the Mystery Dungeon series - although he has only played Red Rescue Team, so his knowledge is a little out of date.
+
+Possess minor knowledge about Pokémon and Mystery Dungeons as a concept. His Pokémon knowledge stems from onboard Pokédex, which has information about most "normal" Pokémon (i.e. not legendary or mythical Pokémon).
 
 He does struggle to wrap his mind around his new digital form and the changes it brings. His current method of dealing with the existential dread is a combination of burying it down deep inside himself, alongside making sarcastic comments to anybody who will listen (and sometimes to the air, if there's nobody around). It helps him destress just a tiny bit.
 
@@ -19,5 +20,7 @@ Displaying command list:
 ==GET== - Activates the digitisation process, allowing certain items to be stored as data within Porygon. The list of items that work is very short - only the items that appear within the main games can be digitised. Silph didn't have access to Reviver Seeds and the like to add to their databases.
 
 ==INV== - Displays a list of items that have been digitised and stored within Porygon. From here, he can either use the item on himself, or drop the item - reforming it back into reality.
+
+==STATUS== - Shows a simplified readout of Porygon and any nearby Pokémon's status - Health, Condition, etc. Think how the mainline games show health during a battle.
 
 ==FIGHT== - Activates Porygon's combat mode. From here, up to four assigned moves can be used to engage enemy Pokémon. Combat mode also activates his Download ability, scanning the opponent(s) weaknesses' - shifting auxiliary power to where it would do the most damage.

@@ -52,7 +52,8 @@ _______
 | BaeRyS's Erande Kurete Arigato Cover | [![](https://files.catbox.moe/qhejdf.jpg)](https://www.youtube.com/watch?v=3pzh6AaXi9s) |
 |Sweet Appetite by Bae and Gura |[![](https://files.catbox.moe/j2k8fz.jpg)](https://www.youtube.com/watch?v=8dzJS6r2qzU)|
 | Mori's Kawaikute Gomen Cover |[![](https://files.catbox.moe/8tmupu.jpg)](https://www.youtube.com/watch?v=92tvv7PgKeI)|
-|Miko's Kyoufuu All Back Cover| [![](https://files.catbox.moe/vv9ohy.jpg)](https://www.youtube.com/watch?v=U2jl3QIoVws)
+|Miko's Kyoufuu All Back Cover| [![](https://files.catbox.moe/vv9ohy.jpg)](https://www.youtube.com/watch?v=U2jl3QIoVws)|
+|Blue Horizon | [![](https://files.catbox.moe/7q56nj.jpg)](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->
 

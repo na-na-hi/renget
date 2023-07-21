@@ -8,7 +8,6 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 
 >Mario News and Releases<
 「!」 Mario Kart 8 Deluxe - Booster Course Pass Wave 1, 2, 3, 4 & 5 out currently
-「!」 SUPER NINTENDO WORLD has officially opened in Hollywood
 「!」 Super Mario Brothers movie has officially released
 
 Future Release Dates:
@@ -18,7 +17,7 @@ Future Release Dates:
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
-「!」Wave 5 Patch Notes (+ Petey Piranha, Wiggler & Kamek)
+「!」Wave 5 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 https://www.reddit.com/r/mariokart/comments/14xd0tw/mk8dx_version_240_all_balance_changes_and_new/
 「!」New 2D Mario - Super Mario Bros WONDER Revealed

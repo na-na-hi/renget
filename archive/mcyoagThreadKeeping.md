@@ -40,20 +40,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Writefags:
->Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
-https://rentry.org/svwyy
-
-Artfags:
->Sally Getting Drilled from Behind (In Color)
->>89628318
-
-Character Cards:
->Yako
->>89626950
->Capture Cloth
->>89628968
-
+>Wrong Answers (Mirror Devil, Challenger):
+https://rentry.org/umx6c
+>Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
+https://rentry.org/udt96
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -574,6 +564,10 @@ https://rentry.org/bga3m
 https://rentry.org/f5xpe
 >Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
 https://rentry.org/svwyy
+>Wrong Answers (Mirror Devil, Challenger):
+https://rentry.org/umx6c
+>Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
+https://rentry.org/udt96
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -793,6 +787,31 @@ https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
 https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
 >Isha's war cry
 https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
+```
+#JRPG (Reboot)
+
+Buildlist:
+```
+>Ella Adikia (Half-Elf Warrior)
+>>89641508
+>Carmen (Elf Bard)
+>>89641642
+>Bastion (Demihuman Monk)
+>>89642939
+>Caligula (Beastman Rogue)
+>>89644497
+>Kin’ike Uesugi (Beastman Magic Knight)
+>>89645681
+>Slaine (Elf Black Mage)
+>>89645870
+>Isaac "Blackblade" (Human Rogue)
+>>89646061
+>Rinh Kura (Half-Beast Black Mage)
+>>89648805
+>Kalnar (Demon Rogue)
+>>89649103
+>Aterui (Human Warrior/Spirit Talker)
+>>89648432
 ```
 #The City (Reboot)
 

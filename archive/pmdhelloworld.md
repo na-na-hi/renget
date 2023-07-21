@@ -12,11 +12,12 @@ SYSTEM AUTHENTICATED
 
 Beginning system boot-up . . .
 
-OS . . .					OK
-Hardware . . . 				OK
-Body integrity . . . 		OK
+OS . . .							OK
+	Refreshing system cache. . . 	OK
+Hardware . . . 						OK
+	Checking Body integrity . . . 	OK
 
-SYSTEM STATUS . . . 		GREEN
+SYSTEM STATUS . . . 				GREEN
 
 Boot-up complete.
 Hello, World!
@@ -26,22 +27,17 @@ A cool breeze swept across my body, pulling me from my unconscious state and pus
 
 My eyes flew open, and I beheld the scene that met me. Sunlight broke through the loose leaf cover of the canopy above me, making small pools of light on the dirt and leaf strewn floor. I attempted to push myself off the floor, to no avail. Looking down - instead of the human body I was expecting,  a bright pink and blue mess of geometric angles greeted me - a surprise to say the least.
 
-It looked very much like I was in the body of a Porygon. It seemed that despite our long relationship, reality had given up and left - leaving me in a forest as a Pokémon.
+In the back of my mind, a spark of recollection fired off. It looked very much like I was in the body of a Porygon. It seemed that despite our long relationship, reality had given up and left - leaving me in a forest as a Pokémon.
 
 `THIS MUST BE A DREAM.`
 
-The sound of my voice shocked me. Staccato, scratchy and monotone, as if a bad recording was being played through 30 year old speakers, barely recognizable as my own. Still, my voice sounding strange was the least of my worries. If this *wasn't* a dream, I could think of a few options for things that could have happened.
-1. I'm still in the real world, but a Pokémon.
-2. I'm in the world of the main Pokémon games, as a Pokémon.
-3. This is a Mystery Dungeon world and shit's going down somewhere.
+The sound of my voice shocked me. Staccato, scratchy and monotone, as if a bad recording was being played through 30 year old speakers, barely recognizable as my own. Still, my voice sounding strange was the least of my worries. I'd woken up in an unfamiliar place, and I was quite literally a sitting polygonal duck, splayed out across the cold, hard ground.
 
-None of those ideas seemed particularly reassuring. Either I'm going to be experimented on, caught and battled with, or expected to save the world from something.
-
-Lying around on the ground seemed like a bad idea no matter which one of the three it was. No point in sitting here waiting for anyone to come by and gawk at and/or try to capture me - I pushed my doubts about reality aside and postponed my impending existential crisis - instead redoubling my efforts to try and move my new body.
+Lying around seemed like a bad idea no matter where I was. I pushed my doubts about reality aside and postponed my impending existential crisis - instead redoubling my efforts to try and move my new body.
 
 ***
 
-A little while later, attempting to move my body seemed a futile endeavour. All I could seem to do was waggle the blocks that could be generously called feet, which was getting me nowhere fast. I wracked my brain. How did Porygon move? As best as I could recall, they just sorta floated about the place. How was I meant to get that to work?
+A little while later, attempting to move my body seemed a futile endeavour. All I could seem to do was waggle the blocks that could be generously called feet, which was getting me nowhere fast. I wracked my brain. How did this body move? As best as I could recall about Porygons, they just sorta floated about the place. How was I meant to get that to work?
 
 I glared at a nearby tree I had set myself the task of getting to. This was insane - whatever or whoever turned me into a Pokémon couldn't be bothered to let me to know how to move? It wasn't even that hard of a thing to want to do! I just wanted to ==MOVE== to that tree!
 ```python
@@ -52,35 +48,35 @@ Route found; moving.
 I saw the words pop up in the corner of my vision. A faint green line seemed to extend from my centre, the other end inside the tree.
 My body picked itself up from the ground, and floated towards the tree. As I reached the point I had been looking at, I began to hover in place.
 
-`OH WHAT FRESH HELL IS THIS. I HAVE TO PLAY A FUCKING POINT-AND-CLICK ADVENTURE GAME TO MOVE AROUND.`
+`OH WHAT FRESH HELL IS THIS. I DON'T EVEN HAVE DIRECT CONTROL OVER MY OWN MOVEMENTS.`
 
-Idly floating next to a tree, I looked towards a different tree a little ways away, and concentrated on ==MOVING== there.
+Idly floating next to a tree, I looked towards a different tree a little ways away, and concentrated on moving there.
 My body complied, hovering over to the other tree, automatically moving around the rocks and trees along the path.
 Well, it seemed like I had figured out moving around at the very least. I wasn't going to be a sitting duck if somebody picked a fight with me - although it wouldn't be too difficult to catch up with my leisurely pace, and I had no doubts about being unable to defend myself from attacks.
 
-I kept at it for a little while, moving between trees and rocks, experimenting with how my movement worked. Thankfully, it looked like the 'commands' - for lack of a better word - were fully interruptible. I won't have to worry about hovering off in a direction I didn't mean to go in. After making sure I had a little more experience with moving around, the sky had begun to turn dark. Being alone in the woods after the sun had gone down seemed like a bad idea - I had no idea what the natural predator of the Porygon is, and I had very little desire to find out.
+I kept at it for a little while, moving between trees and rocks, experimenting with how my movement worked. Thankfully, it looked like the 'commands' - for lack of a better word - were fully interruptible. I won't have to worry about hovering off in a direction I didn't mean to go in. A while later - after making sure I had a little more experience with moving around - the sky had begun to turn dark. Being alone in the woods after the sun had gone down seemed like a bad idea - I had no idea what the natural predator of the Porygon is, and I had very little desire to find out.
 
-Trouble was, I had no clue whatsoever where I was. I could be anywhere in the world (whichever world that it was) - and Porygons didn't seem to come with a GPS system built-in, sadly. Still, any where's probably better than a random clearing in the forest at night. While I was weighing up the chances of finding the nearest village/town/city and ending up in a Pokéball or a government test site, my thoughts were interrupted by a loud roar echoing throughout the forest.
-
-With the decision of staying here or leaving made up for me, I headed out in the opposite direction to the roar - hoping that whatever I stumbled across would have some resemblance of civilisation.
+Trouble was, I had no clue whatsoever where I was. I could be anywhere - I didn't seem to come with any sort of map system built-in, sadly. Still, anywhere would probably be better than a random clearing in the forest at night. There was no sign of any path leading in any direction - so I did the next best thing. Choosing a random direction, I struck out, hoping that I would stumble across any sign of civilisation.
 
 ***
 
-I was utterly lost. Wandering through the forest in a single direction was getting me nowhere - all the trees, rocks and small clearings had started to blend together into identical areas with no land marks. And to make matters worse, night had fully fallen, shrouding the whole area in an eerie darkness - only the full moon gave off any semblance of light. Actually - as I looked a bit closer at the night sky, there was no sign of the man in the moon, or any other recognisable stellar object. 
+I was utterly lost. Wandering through the forest in a single direction was getting me nowhere - all the trees, rocks and small clearings had started to blend together into identical areas with no land marks. And to make matters worse, night had fully fallen, shrouding the whole area in an eerie darkness - only the full moon gave off any semblance of light. Actually - as I looked a bit closer at the night sky, I was struck with the uneasy feeling of something being wrong. Of the stellar objects that I could see, I recognised none of them.
 
-`I CAN SCRATCH THAT HOPE OF STILL BEING ON EARTH I GUESS.`
+`I CAN SCRATCH OUT THAT HOPE OF STILL BEING HOME. I GUESS.`
 
-At least I'd managed to not stumbled into anyone in the darkness. I had the feeling that if anyone with even a single working eye was nearby, I would've been spotted instantly - I stood out like a sore thumb in the woodland environment; pink and blue were never the best colours for camouflage, unless you were hiding in an eraser factory.
+At least I'd managed to not stumbled into anyone in the darkness. I had the feeling that if anyone with even a single working eye was nearby, I would've been spotted instantly - I stood out like a sore thumb in the woodland environment; pink and blue were never the best colours for camouflage.
 
 I hovered silently over the forest floor, listening out for any noises that could be another creature. Thankfully, it seemed that none of whatever denizens lurked here were nocturnal, as the only sound I could hear was the wind rustling through leaves and the soft creak of branches swaying. I figured that I'd lucked out - however long this journey took, at least it was so far uneventful.
 
-Perhaps thinking that jinxed me - as the next clearing I came up had what appeared to be a set of stairs slap bang in the centre. This cemented it. Either I was living out a creepypasta, or I've been shuffled off into a Mystery Dungeon game. Hopefully this was one of those games where it turns out the partner was the chosen one and not me. No way I'd be able to do anything like what happened in those games, considering it'd taken me this long to learn how to move. 
+Perhaps thinking that jinxed me - as the next clearing I came up had what appeared to be a set of stairs slap bang in the centre. Another memory flickered into the back of my mind. Mystery Dungeons. Areas of the world that had been affected by an odd phenomena, causing strange effects within an localised area - with the only way out being to get to the end. 
 
-Still - I had a basic understanding of how these dungeons worked (if they worked the same as the games, that is). Manoeuvring myself closer to the incongruous masonry work, I got a much better look at them - perfectly made stone steps leading down, with the bottom shrouded in darkness. Looking at them, I knew that I wasn't getting out of here without an escape orb or reaching the bottom of this dungeon - and since I hadn't found any escape orbs on this level, the only way out of here was downward.
+Pausing, I shook my head to clear my thoughts. Where had that come from?
+
+Still - I had a basic understanding of how these dungeons worked (*How* did you know that? a quiet voice in my mind asked). Manoeuvring myself closer to the incongruous masonry work, I got a much better look at them - perfectly made stone steps leading down, with the bottom shrouded in darkness. Looking at them, I knew that I wasn't getting out of here without reaching the deepest part of this forest.
 
 ***
 
-For a Mystery Dungeon, it was surprisingly empty. I'd not seen a single Pokémon while I had been floating my way through the level to the next staircase. Weren't these places supposed to be swarming with mad beasties attempting to beat the snot out of you? Not that I was complaining - if I could see the day out without encountering the Pokémon equivalent of a homeless crackhead, I'd score that as a win.
+For a Mystery Dungeon, it was surprisingly empty. I'd not seen a single Pokémon while I had been floating my way through the level to the next staircase. Weren't these places supposed to be swarming with feral beasties attempting to beat the snot out of you? Not that I was complaining - if I could see the day out without encountering a Pokémon trying to kill me, I'd score that as a win.
 
 Figuring that this was one of the safer dungeons, I made the (perhaps questionable) decision to explore the floor a little more. After all, these places were usually full of loot, right? Getting out of here with some cash and items would be pretty nice if I ever made it to a town.
 
@@ -106,7 +102,7 @@ As the text blipped out of existence, I fixed my gaze on the spot where the bott
 
 `WHAT WAS THAT. WHAT WAS ANY OF THAT. AUGH. WHAT IS MY LIFE.`
 
-While thoroughly disturbed by the whole experience of... whatever the hell that was, at least I knew that I could collect items. Didn't have any clue on how many, or how I get them back out of myself, but that would be a problem for future me to figure out.
+While thoroughly disturbed by the whole experience of... whatever the hell that was, at least I knew that I could collect items. Didn't have any clue on how many, or how I get them back out of myself, but that would be a problem that I would have to figure out in the future.
 
 ***
 
@@ -116,9 +112,9 @@ Surveying the area around me, it was evident that there was no path forwards - t
 
 Turning to leave, I paused for a moment. 
 
-All alone in this empty, silent clearing - the gravity of the whole situation I was in hit me. I had been dragged from my old life, transformed into a fictional being, and left all by my self in a different reality. And if the games were anything to go by, there was some grand disaster to save the world from. Sure, I might be sent back after (*if*) whatever's going on is fixed - but how long would that take? Would I be put back exactly when I left? Or would I poof back into existence right where I was after being missing for who knows how long? What would I tell people? "Sorry I've been away for a few weeks/months/years, I was on mission to save another dimension"? I'd get sectioned in a heartbeat.
+All alone in this empty, silent clearing - the gravity of the whole situation I was in hit me. I had been dragged from my old life, transformed into a fictional being, and left all by my self in a different reality. In the back of my mind, a nagging feeling told me that this must have all been for a purpose. Would I be sent back after (*if*) whatever my purpose is was fulfilled - and if so, how long would that take? Would I be put back exactly when I left? Or would I poof back into existence right where I was after being missing for who knows how long? What would I tell people? "Sorry I've been away for a few weeks/months/years, I'd been transported to another dimension"? I had the sinking feel that such an excuse would not go down well.
 
-Or I might fail. The world would end, I would die and never be sent back. Nobody would ever know where I went - one night I just dropped off the face of the earth, never to be seen again. I couldn't bear think as to what my family would go through. Could they would every truly accept that I just *disappeared*? Would they give up on hoping that I'd ever come home? While it was perhaps selfish thought, I hoped they wouldn't. That'd they would think I wouldn't have *chosen* to up and leave without a trace, never to return.
+Or I might fail whatever it was I was brought here to do. I'd never get sent back. Nobody would ever know where I went - one night I just dropped off the face of the earth, never to be seen again. I couldn't bear think as to what my family would go through. Could they would every truly accept that I just *disappeared*? Would they give up on hoping that I'd ever come home? While it was perhaps selfish thought, I hoped they wouldn't. That'd they would think I wouldn't have *chosen* to up and leave without a trace, never to return.
 
 I glanced up at the unfamiliar night sky. Why me? Was it random chance - did the cosmos align and cause me to slip through some gap in reality? Was this a cross-dimensional kidnapping was ordained by someone, and if so, what was going through their head to pick me out of all the others to rip out of my world and send me to another?
 
@@ -134,7 +130,7 @@ Idle sarcastic comments to the air aside, I was incredibly relieved to find a si
 
 ***
 
-Travelling along the road was safe and quiet, if a little tedious. It had wound its way out of the forest a while ago, and I was now hovering through scenic countryside. Grassy rolling hills to my left and right soaked up the midday sun as I silently bobbed my way onwards - I was rather glad that my method of movement was... unconventional. I was never the most athletic person before, and the prospect of hiking across the countryside would have been met with much contention. Now, with only the worry of making sure I had set the destination to the end of the visible path, travelling was a breeze, allowing my focus to drift and my thoughts to wander.
+Travelling along the road was safe and quiet, if a little tedious. It had wound its way out of the forest a while ago, and I was now hovering through scenic countryside. Grassy rolling hills to my left and right soaked up the midday sun as I silently bobbed my way onwards - I was rather glad that my method of movement was... unconventional. The prospect of hiking across the countryside for a couple of days on end - without supplies - would have been challenge. Now, with only the worry of making sure I had set the destination to the end of the visible path, travelling was a breeze, allowing my focus to drift and my thoughts to wander.
 
 In this case, my thoughts centred on my biology. Or, rather, my lack of it. By my best guess, it had been near enough two days now since I awoke in the forest. I'd been on the go since then, and not felt the slightest pang of hunger nor the call of sleep. It was concerning realisation - while it made my travelling much easier (and would no doubt save a bundle on provisions in the future), it hammered home just how much I had changed. I'd unwillingly made the leap from a biological body to a digital one, with all the philosophical quandaries that came with it.
 
@@ -158,7 +154,7 @@ As I began floating my way towards the town, I noticed that another small text p
 Incoming transmission from UNIT/PRG2. Accept?
 Y/N
 ```
-I stopped in my tracks. Incoming transmission? How the hell would somebody be able to message me? It'd been a hot minute since I had played a Mystery Dungeon game, but I was fairly sure that they didn't have computers or the like. Getting a strange communique before I even managed to get into town? Something was definitely up, but my curiosity overtook my common sense as I accepted the transmission.
+I stopped in my tracks. Incoming transmission? The fact I was getting a strange communique before I even managed to get into town felt off. Something was definitely up, but my curiosity overtook my common sense as I accepted the transmission.
 
 ```python
 >Y
@@ -181,7 +177,7 @@ PRGN: WAIT.
 Connection terminated.
 Exiting. . .
 ```
-The words faded from my sight, leaving me alone - hovering in place by the side of the road. The strange conversation with my evolved form certainly smacked of something important - they'd plainly told me that they needed help. Unfortunately, they neglected to explain what the issue was, and as far as I could tell, there was no way to give them a call back to get more information out of them.
+The words faded from my sight, leaving me alone - hovering in place by the side of the road. The strange conversation with what I knew to be my evolved form certainly smacked of something important - they'd plainly told me that they needed help. Unfortunately, they neglected to explain what the issue was, and as far as I could tell, there was no way to give them a call back to get more information out of them.
 
 However, they *had* forwarded me a set of co-ordinates. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid on the landscape in the distance, a little ways out of the other side of the town. At the very least I could get a lay of the land while on my way to wherever this Porygon2 was - or where they claimed to be.
 

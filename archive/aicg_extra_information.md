@@ -18,6 +18,7 @@ https://rentry.org/agnai_guides
 ##### RisuAI
 https://github.com/kwaroran/RisuAI-release
 (https://risu.pages.dev) https://risuai.xyz
+https://github.com/kwaroran/RisuAI/wiki
 - korean frontend for many AI services; local install and online version; feature rich + plugins
 
 ![](https://files.catbox.moe/h5qx2o.png)
@@ -190,7 +191,8 @@ https://rentry.org/cai-list [CAI knowledge base]
 https://rentry.org/newcaitools [CAI tools]
 - **The** C\.AI filtered to hell right now but still fun to play around
 
-![](https://files.catbox.moe/l2f7ba.png)
+![](https://files.catbox.moe/xtdvxo.png)
+[](https://files.catbox.moe/l2f7ba.png from 1 minute to 1 hour)
 
 ##### KoboldAI
 https://koboldai.org / https://koboldai.org/colab

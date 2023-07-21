@@ -249,7 +249,7 @@ Emo ratgirl whom you happen to be a friend of. What kind of trouble will you two
 [CAI](https://beta.character.ai/chat?char=k2Pot5LRHD8PEx7GvEy-veuLIgE6xpmqVaEvAMnTZ3Y)
 [Card](https://www.characterhub.org/characters/ratlover/Lavinia)
 [JSON](https://files.catbox.moe/mhmewm.json)
-You've been sentenced to community service. Your job? To take bat this bat in for a while and ensure she does not suck people's blood.
+You've been sentenced to community service. Your job? To take this bat in for a while and ensure she does not suck people's blood.
 
 ##Quina
 ![Quina](https://imgur.com/QAx5QPQ.png)

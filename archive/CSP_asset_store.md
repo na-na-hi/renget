@@ -127,6 +127,19 @@
 **Blending skin shading brush** |[1825597](https://assets.clip-studio.com/en-us/detail?id=1825597)|[DL](https://pixeldrain.com/u/k7chnvWT)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/55/1825597/thumbnail)
 **leaves and grasses**|[1829085](https://assets.clip-studio.com/en-us/detail?id=1829085)|[DL](https://pixeldrain.com/u/ps1gS8yq)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/90/1829085/thumbnail?1664129320)
 **Knipen custom **|[1853448](https://assets.clip-studio.com/en-us/detail?id=1853448)|[DL](https://files.catbox.moe/hqojny.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/34/1853448/thumbnail)
+**Faded Calligraphy pen ver. 2 (かすれるカリグラフィーペンver.2)**|[1700330](https://assets.clip-studio.com/en-us/detail?id=1700330)|[DL](https://files.catbox.moe/rd3fdc.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/30/03/1700330/thumbnail)
+**Solid brush with no line protrude (線をはみ出さないベタ塗りブラシ)**|[1819725](https://assets.clip-studio.com/en-us/detail?id=1819725)|[DL](https://files.catbox.moe/u9r3qx.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/97/1819725/thumbnail)
+**Color Blood Stains Brush Set (カラー血痕ブラシセット)**|[1720952](https://assets.clip-studio.com/en-us/detail?id=1720952)|[DL](https://files.catbox.moe/n5atbo.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/09/1720952/thumbnail)
+**My Nuance Brush (マイニュアンスブラシ)**|[1879681](https://assets.clip-studio.com/en-us/detail?id=1879681)|[DL](https://files.catbox.moe/qjkcc2.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/96/1879681/thumbnail)
+**15 types of hatch-like brushes (ハッチング風ブラシ15種)**|[1892996](https://assets.clip-studio.com/en-us/detail?id=1892996)|[DL](https://files.catbox.moe/55xnxo.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/29/1892996/thumbnail)
+**Real pencil Full Set + α (リアル鉛筆フルセット＋α)**|[1486469](https://assets.clip-studio.com/en-us/detail?id=1486469)|[DL](https://files.catbox.moe/tc0vrz.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/69/64/1486469/thumbnail)
+**Stroke long hand drawn diagonal set (ストローク長め手描き斜線セット)**|[1819421](https://assets.clip-studio.com/en-us/detail?id=1819421)|[DL](https://files.catbox.moe/noza9g.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/94/1819421/thumbnail)
+**Amiette Flat Paint**|[1811187](https://assets.clip-studio.com/en-us/detail?id=1811187)|[DL](https://files.catbox.moe/ijiswp.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/11/1811187/thumbnail)
+**A brush that adds an emo look to color (色にエモみを足すブラシ) **|[1847997](https://assets.clip-studio.com/en-us/detail?id=1847997)|[DL](https://files.catbox.moe/o7137d.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/97/79/1847997/thumbnail)
+**Oil Brush**|[1875289](https://assets.clip-studio.com/en-us/detail?id=1875289)|[DL](https://files.catbox.moe/5st9hg.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/89/52/1875289/thumbnail)
+**Crunchy pen set (바삭 펜 세트) **|[1865278](https://assets.clip-studio.com/en-us/detail?id=1865278)|[DL](https://files.catbox.moe/63il9w.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/52/1865278/thumbnail)
+**Flat Paint and Blend Brush :D**|[1934024](https://assets.clip-studio.com/en-us/detail?id=1934024)|[DL](https://files.catbox.moe/yuq6gq.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/40/1934024/thumbnail)
+
 ****|[]()|[DL]()|![]()
 |||
 
@@ -176,6 +189,8 @@
 **Gauze pen with a deep depth**| [1872642](https://assets.clip-studio.com/en-us/detail?id=1872642)|[DL](https://pixeldrain.com/u/Z1BFEPS1)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/42/26/1872642/thumbnail)
 **Pandemonium Shambles Pen**|[1778290](https://assets.clip-studio.com/en-us/detail?id=1778290)| [DL](https://files.catbox.moe/fswzaq.7z) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/90/82/1778290/thumbnail)
 **All out for the pandemonium pen**| [1820131](https://assets.clip-studio.com/en-us/detail?id=1820131)|[DL](https://pixeldrain.com/u/ZVH5ETSb)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/01/1820131/thumbnail)
+**A parallel line with an impossible depth==(GOLD)==**|[1885587](https://assets.clip-studio.com/en-us/detail?id=1885587)|[DL](https://files.catbox.moe/ubwj2v.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/87/55/1885587/thumbnail)
+**A noisy, deep noise==(GOLD)==**|[1781825](https://assets.clip-studio.com/en-us/detail?id=1781825)|[DL](https://files.catbox.moe/gsuej9.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/25/18/1781825/thumbnail)
 ****|[]()|[DL]()|![]()
 
 ### [crunchylemonades](https://assets.clip-studio.com/en-us/search?user=crunchylemonades)

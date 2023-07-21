@@ -19,6 +19,8 @@ JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.Blu
 
 Global - [Play Store](https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en_US&gl=US) | [App Store](https://apps.apple.com/us/app/blue-archive/id1571873795) | [QooApp](https://apps.qoo-app.com/en/app/12252)
 
+CN - lol
+
 Global may require a VPN to play, as it is region-locked. JP is region-locked as well, so if you wish to play it use a VPN. The only server to avoid would be Korea's server as raids are much, much, MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
 
 You can play the game through emulators such as [Nox](https://www.bignox.com/), [Bluestacks](https://www.bluestacks.com/bluestacks-5.html), [Memu](https://www.memuplay.com/) or [LDPlayer](https://www.ldplayer.net/). Make sure to crank up the memory allocation as well. 
