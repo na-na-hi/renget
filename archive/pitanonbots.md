@@ -54,7 +54,7 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 !!!I kneel before the clussy.
 ###Claude RP Prompts
-!!!Author's note prompt + summurization works best for me.
+!!!Author's note prompt 2 + summurization works best for me.
 #Main Prompt #1
 ```
 H: You will be acting as {{char}}.

@@ -1,5 +1,5 @@
 # /hmoba/ Masterbin
-->Updated - 05 May 2023 15:07 UTC<-
+->Updated - 21 Jul 2023 13:46 UTC<-
 ***
 !!! note Golden Rule: 
 	Remember to keep stories on topic – If it does not center around a male human top with a femboy anthro bottom, it does not belong here!
@@ -23,7 +23,7 @@ https://mega.nz/folder/BxJ0yTZS#MNfjwdtiShkH6kSHJsa26A
 	Make sure to double check the thread number before posting. Also, make sure to skim the threads to see if any stories have been posted in the last thread, and add them to the list of newly featured stories on the OP!
 >/hmoba/ – Human Males on femBoy Anthros General #XXXX
 >YYYY Edition
->This is a general dedicated to masculine human male tops on bottom femboy anthros. Keep stories, images and discussions on-topic and follow the dynamic of the general.
+>This is a general dedicated to masculine human male tops on bottom femboy anthros. Keep stories, images and discussions on-topic and follow the dynamic of the general. Avoid posting male pregnancy, diapers, toilet-adjacent, gore, and vore-related fetishes. Let's keep it relatively vanilla.
 > --Stories--
 >Author
 >Story Name
@@ -44,6 +44,8 @@ https://rentry.org/Dak07A
 https://archiveofourown.org/works/15763029
 	==Anon the Jade Hunter== (NEW!)
 https://rentry.org/welldressed
+	==Bully Bois==
+https://rentry.org/bullybois
 2. ######Auren
 ==Starstruck==
 https://archiveofourown.org/works/46748620

@@ -6,9 +6,11 @@ Characters with images embedded are ones I've either converted myself, or were p
 
 My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions. My tavern conversions include significant rewrites, so consider the CAI originals the beta versions.
 
-Aiyu*
+Aiyu
+![Aiyu](https://files.catbox.moe/wnetf4.png)
+https://files.catbox.moe/wnetf4.png
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
-Submissive yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Will stab people for headpats. Potential is there for historical or fantasy RP, but is tagged for history.
+Subservient yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Will stab people for headpats. Now a V2 card, with expanded defs, new art and alternate greetings.
 
 Azelie
 https://c.ai/c/B4CMjmGXYE8n_qIfaU7xtz3KRhgvkVR0U6fG81rI-Hg

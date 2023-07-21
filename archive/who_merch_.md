@@ -8,6 +8,9 @@ Some articles are already sold-out for certain sizes for the OMOCAT merch.
 **CouncilRyS Beegsmols plushies** (Order period ends 14th August 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 
+**Hololive Starting Voices**
+https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
+
 >**HoloSummer**
 - - -
 Splash Party Online Concert (26 & 27th August, 2000 JST)

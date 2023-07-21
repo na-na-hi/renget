@@ -803,8 +803,6 @@ Buildlist:
 >>89645681
 >Slaine (Elf Black Mage)
 >>89645870
->Isaac "Blackblade" (Human Rogue)
->>89646061
 >Rinh Kura (Half-Beast Black Mage)
 >>89648805
 >Kalnar (Demon Rogue)
@@ -812,6 +810,11 @@ Buildlist:
 >Aterui (Human Warrior/Spirit Talker)
 >>89648432
 ```
+
+Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
+>Isaac "Blackblade" (Human Rogue)
+>>89646061
+
 #The City (Reboot)
 
 ***

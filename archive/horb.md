@@ -155,7 +155,7 @@ Flies over the enemy and attack with spirit flower, up to 4s, deal a total of 46
 
 ---
 **COMBO ATK 1**
-Soul Crafting Form: When Joint Combo ATK hits an enemy or when you use weapon active, team Total DMG ~~+5% [S0] / 15% [S2] (v1) >~~ **+7% [S] / 17% [S2] (v2)** for 16s, duration is refreshed when the next valkyrie switches in, each activation can only be refreshed once.
+Soul Crafting Form: When Joint Combo skill hits an enemy or when you use Joint Weapon skill, team Total DMG ~~+5% [S0] / 15% [S2] (v1) >~~ **+7% [S] / 17% [S2] (v2)** for 16s, duration is refreshed when the next valkyrie switches in, each activation can only be refreshed once.
 
 Life Ending Form: When Joint Combo ATK hits an enemy, restore 15 sp, CD 12s, and Joint Weapon ATK gain Total DMG +20%[S0] / 30% [S2] for 15s.
 

@@ -62,7 +62,7 @@ https://inpainter.vercel.app/paint
 https://clipdrop.co/stable-diffusion
 !!! info
 	---------------------------
-##Models, Textual Inversion & Embeddings
+##Models, LoRAs & Embeddings
 https://civitai.com
 https://huggingface.co
 https://rentry.org/hdgrecipes

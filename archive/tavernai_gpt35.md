@@ -1,6 +1,6 @@
 # TavernAI ChatGPT (GPT3.5 Turbo) mod
 
-**I've stopped the development of this mod, please use [AgnAIstic](https://agnai.chat/) instead - [GitHub repo](https://github.com/luminai-companion/agn-ai).**
+**I've stopped the development of this mod, please use [SillyTavern](https://docs.sillytavern.app/) instead - [GitHub repo](https://github.com/SillyTavern/SillyTavern/).**
 
 ->**Version 0.3.6**<-
 [TOC2]

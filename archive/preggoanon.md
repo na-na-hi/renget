@@ -2,8 +2,6 @@
 
 **DEV HATE!**
 
-I swear I'm just very busy with life.
-
 [TOC4]
 
 #####Preggers

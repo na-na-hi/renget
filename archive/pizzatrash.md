@@ -96,3 +96,4 @@ https://aggie.io/ugr8fbu79z /pizzatrash/ Aggie: oh god not again Edition
 https://aggie.io/onx7y3eqr5 /pizzatrash/ Aggie: End of June Edition
 https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
 https://aggie.io/aodbu7wnsb The Weekly /pizzatrash/ Aggie - now with /ptg/!
+https://aggie.io/0_0q_j_7ak /pizzatrash/ aggie NUMA #24 !!
