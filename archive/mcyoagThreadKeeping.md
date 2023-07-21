@@ -66,78 +66,77 @@ Page 2
 ```
 >STUDENTS:
 
->Class 1-D
->Chihiro Mitsurugi HN Asscetic Sword Hero: Yako
+>Chihiro Mitsurugi HN Ascetic Sword Hero: Yako
 >>88189202
->Soujyuuro Imai HN Wise Ass Hero: Mahoudeva
+>Soujyuuro Imai HN Wise Eye Hero: Mahoudeva
 >>88194077
->Bobby Samson HN Sunlight Trans
+>Bobby Samson HN Sunlight Man
 >>88190591
->Sora Tanaka HN Area Denial Hero: Hobbit
+>Sora Tanaka HN Area Denial Hero: Orbit
 >>88191735
->Kaylee Suzuki HN Flying Force Fuck
+>Kaylee Suzuki HN Flying Force
 >>88438219
 >Shinkan Sen HN Crazy Train
 >>88194200
->Hifumi Takeda HN Warp Blade Hero: Challenged
+>Hifumi Takeda HN Warp Blade Hero: Challenger
 >>88196397
->Minerva Kim HN Bondage
+>Minerva Kim HN Spark
 >>88826766
->Hailey Chang HN Femdom
+>Hailey Chang HN Recoil
 >>88826770
->Faith Kang HN Pet Play
+>Faith Kang HN Drone
 >>88826774
->Maxine Nguyen HN Rape
+>Maxine Nguyen HN Radius
 >>88826778
->Edith Lee HN Huge Insertion
+>Edith Lee HN Arena
 >>88826782
->Noah Abrams HN Archanal
+>Noah Abrams HN Archangel
 >>88205041
 >Victor Sigurd HN Hydra
 >>88209661
->Inigo Myoga HN Dragon Hero: Ryu-kyuishi
+>Inigo Myoga HN Dragon Hero: Ryu-kishi
 >>88414797
->Christopher Cain HN Minor Deflowerer
+>Christopher Cain HN Mirror Devil
 >>88217649
->Son Jugo HN Asspara
+>Son Jugo HN Aspara
 >>88239137
->Genma Go HN Goldooradoo
+>Genma Go HN Goldorado
 >>88353862
->Ashleigh Katsuragi HN Blacked
+>Ashleigh Katsuragi HN Blackout
 >>88268251
 >Atsushi Orochi HN Hard to Destroy Lizard Hero: Yamata
 >>88273479
->Nyoro Hoge HN MaruMaru(maru)
+>Nyoro Hoge HN Maru(maru)
 >>88273837 + >>88758766
->Yui Sagara HN Blinding Hero: Capture Cloth (Retard)
+>Yui Sagara HN Binding Hero: Capture Cloth (Held Back)
 >>88383012
->Kyoda Hiro HN Overdose (Retard)
+>Kyoda Hiro HN Overdose (Held Back)
 >>88193619
 >Sandatsu Owari
 >>88192177
->Sally McCathy HN Last Rice
+>Sally McCathy HN Last Rite
 >>88810810
 >Takara Tame HN Android
 >>89199766
 
 >Class 2-D
->Mochi Uranus HN Smelly Hero: Stinky Feet
+>Mochi Uranus HN Smelly Hero: Stink Rat
 >>88196664
 >Kevin Rool
 >>88222618
->Suzuki Nene HN Ghostly Cat Hero: Bakekenekoneko
+>Suzuki Nene HN Ghostly Cat Hero: Bakeneneko
 >>88707393
->Hiroki Asai HN Champion of Negativity: Zetsuboi
+>Hiroki Asai HN Champion of Negativity: Zetsuboy
 >>88755823
 
 >Class 1-E https://rentry.org/p6dwm
 
 >Class 3-D https://rentry.org/vx255
->William Dustice HN King Bill
+>William Dustice HN King Billy
 >>88192360
->Johanna Hilt HN Gauntlet Hero: Weiss
+>Johanna Hilt HN Gauntlet Hero: Weiss Schwarz
 >>88195437
->Mio Katsuragi HN Forget-Me
+>Mio Katsuragi HN Forget-Me-Not
 >>89250569
 >Ganto Kanzaki HN The Clone Hero, Commander (NPC)
 >>89284218
@@ -150,29 +149,29 @@ Page 3
 ***
 ```
 >PRO HEROES (Hero Name):
->Kenji Shako HN Strongest Shrimp Hero: Magnum Condom (and Water Fowl Fucktoy: Flamingal)
+>Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
 >>88425908
->Yuusei Atsushi HN Spring Slut Hero: Seiryu
+>Yuusei Atsushi HN Spring Dragon Hero: Seiryu
 >>88194386
 >Kalianne Sato HN "Flame Strike Hero: Honoken"
 >>88568039
 >Ryuji Inoue HN Transport Hero: Rescue Ray (Principal - Sunray Troubled Youth Center)
 >>88195499
->Akagi Sanpatchi HN "Fleshlight"
+>Akagi Sanpatchi HN "Popsy"
 >>88204632
 >??? HN Birdy
 >>88225549
->Edmund Connor HN The Tall Guy
+>Edmund Connor HN The Tall Man
 >>88286518
->Ryusei Sugiyama HN Smokin' Sexy 
+>Ryusei Sugiyama HN Smokin' Sexy
 >>88301887
->Kevin Thompson HN The Purple Guy
+>Kevin Thompson HN The Purple Man
 >>88357698
->Yuichi Ishida HN Spitstream
+>Yuichi Ishida HN Slipstream
 >>88389419
 >Roland Walker HN PsyKing (Sandatsu'd)
 >>88616703
->Ernst Hennig HN Limpakt
+>Ernst Hennig HN Impakt
 >>88616848
 >Junpei Ozu HN: The Standstill Hero, "Floor"
 >>88820563
@@ -794,7 +793,7 @@ Buildlist:
 ```
 >Ella Adikia (Half-Elf Warrior)
 >>89641508
->Carmen (Elf Bard)
+>Carmen (Elf Bard) (NPC)
 >>89641642
 >Bastion (Demihuman Monk)
 >>89642939

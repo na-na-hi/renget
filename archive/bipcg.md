@@ -7,17 +7,17 @@ https://files.catbox.moe/svbgw2.mp4
 >Hohol instructs how to make improvise mine with F-1 grenade
 https://files.catbox.moe/qz5r5a.mp4
 >If at first you dont succeed, try again and again and again and...
-https://files.catbox.moe/1nh8wm.mp4
+https://files.catbox.moe/0dqexl.webm
 >Ka-52 disables tank, uses it as bait for rescue party
-https://files.catbox.moe/aiyoyz.mp4
+https://files.catbox.moe/b2ilpt.webm
 >Russian tank duel
-https://files.catbox.moe/yf1ym9.mp4
+https://files.catbox.moe/4fyzpi.webm
 >Video from Odessa kindergarten hit by missile
 https://files.catbox.moe/rdghf1.mp4
 >Odessa chad who posted Kalibr KINO arrested
 https://files.catbox.moe/3linsy.mp4
 >Hohols are testing Russian 6B46 (Level 5) plate with AP rounds
-https://files.catbox.moe/a1ecsd.mp4
+https://files.catbox.moe/qby3at.webm
 >CNN report from Odessa
 https://files.catbox.moe/c9r9o0.mp4
 >Odessa Night 3

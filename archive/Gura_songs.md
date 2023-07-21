@@ -3,6 +3,7 @@
 ### Songs
 ->Members<- | ->Date<- | ->Youtube<-
 ---- | ---- | ----
+->🔱-> | ->2023-07-20<- | [![cover](https://files.catbox.moe/7s2pg6.jpg)  blue horizon!!](https://www.youtube.com/watch?v=W7q8cHY91Ew)
 ->🔱🍙-> | ->2023-07-06<- | [![cover](https://files.catbox.moe/v38in0.jpg)  真生活](https://www.youtube.com/watch?v=beFiVQcwVY8)
 ->🐻🌽🐔🔱⚓️🔮☄️💫🎨-> | ->2023-07-01<- | [![cover](https://files.catbox.moe/ek2962.jpg)  青春アーカイブ](https://www.youtube.com/watch?v=YzQCNmk3YYA)
 ->💀🐔🐙🔱🔎💎🌿⏳🪶🎲-> | ->2023-06-15<- | [![cover](https://files.catbox.moe/drcjdg.jpg)  Connect the World](https://www.youtube.com/watch?v=bitH6NZ_e2Q)

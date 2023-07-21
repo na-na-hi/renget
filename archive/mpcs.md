@@ -23,8 +23,7 @@ For ease of upload/search, my NSFW characters will be in alphabetical order.
 ##New Releases! 
 
 !!! info
- 	Journey (NSFW) [6/19/23]
-	Geier (NSFW-ish) [6/20/23]
+ 	MInerva (NSFW) [7/21/23]
 ***
 
 ## Charater Cards [SFW]
@@ -299,6 +298,19 @@ Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/gv6xjv.json)
 ![Tavern Card](https://files.catbox.moe/mpuom7.png)
 [Link to @Casinius Conjunct Earth World Book](https://discord.com/channels/1066323170866495609/1120472919160664084/1120472919160664084)
+
+### Minerva [OC] [Female] [Angel]
+
+>**Minerva** is your Guardian Angel! She's supposed to act as your moral guide and conscience, but she loves binging on sweets, riding cowgirl, and watching you masturbate. If anything, she's making the path to a pure soul that much more difficult!
+
+>Minerva was a lighthearted ?request/suggestion? I threw her together relatively quickly.
+
+
+Formatted with: Scrip+Boostyle
+
+[json](https://files.catbox.moe/pyusmf.json)
+[SpicyChat Link](https://spicychat.ai/chat/7521615a-30a9-40de-a2da-f83fe6a416cd)
+![Tavern Card](https://files.catbox.moe/djrg2q.png)
 
 ### Moira [OC] [Female] [Slave]
 

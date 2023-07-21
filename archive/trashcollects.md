@@ -669,6 +669,11 @@ Kaminosaki Shiten (Artist)
 >Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "kaminosakistyle" (I couldn't just use the artist's name in this one either).
 >The dataset comes mostly from their two furry focused doujins. I will definitely go back to this one after sifting through the artist's twitter/pixiv pics
 
+Mauzy (Artist)
+
+	https://anonfiles.com/q9d3m235zd/mauzy_v1_4_safetensors
+>Trained on fluffyrock lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is still mauzystyle
+
 # Xenomorphs
 
 	https://pixeldrain.com/u/3zaypdh5
@@ -709,6 +714,11 @@ Activation token is "cryptid".
 # Catti (Deltarune)
 
 	https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
+
+# Terriermon (Digimon)
+Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+
+	https://anonfiles.com/Rezer63cze/terriermon_rar
 
 ## LORAs from the Discord
 

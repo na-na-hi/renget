@@ -53,7 +53,7 @@
 1. "Which table you sittin' at?" Meme with the guild cafeteria
 1. A humon trying to teach a nativemon how to shitpost on 4chan
 1. Kris screaming (if you want to draw more, maybe after waking up from a dream)
-1. Kiyo stretching like a fox
+1. Kiyo stretching like a fox [Active WIP?]
 1. Debby pecking/grooming at Linoone's cheek
 1. Cyndaquil using x-day specs to look at Kiyo's ass through his tails
 1. Kaiji as this https://files.catbox.moe/u4wzp8.jpg

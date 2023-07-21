@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Scrimbly](https://rentry.org/scrimb) | Misc |[The Skinnerman](https://files.catbox.moe/j2fjce.png), [Android 17](https://files.catbox.moe/wgm0oa.png), [Android 18](https://files.catbox.moe/ojpdjr.png), [Petey](https://files.catbox.moe/ukmbxk.png)|[Petey](https://files.catbox.moe/ukmbxk.png) [MV]
+[Muricanpie](https://rentry.co/mpcs) | Misc |[Minerva](https://files.catbox.moe/djrg2q.png)|
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Morgan (F)](https://files.catbox.moe/7ryhfo.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[SCP-049](https://files.catbox.moe/1u4lqr.png), [Fiddlesticks](https://files.catbox.moe/5mss7h.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids |[Luna](https://files.catbox.moe/6yo9kp.png)|
@@ -30,7 +32,6 @@ Botmaker | Category | New Bots | Updated Bots
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Scathach-Skadi](https://files.catbox.moe/5901hh.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Katrina](https://files.catbox.moe/nydzk7.png)|[Katrina](https://files.catbox.moe/nydzk7.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Amanda Kimura](https://files.catbox.moe/mcshcc.png), [LOCUS-TAN](https://files.catbox.moe/rsvozg.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Android 17](https://files.catbox.moe/wgm0oa.png), [Android 18](https://files.catbox.moe/ojpdjr.png), [Petey](https://files.catbox.moe/ukmbxk.png)|[Petey](https://files.catbox.moe/ukmbxk.png) [MV]
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Liriae](https://files.catbox.moe/ce6qlr.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Mackenzie](https://files.catbox.moe/735adt.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Mayuka and the road trip secret](https://files.catbox.moe/6k8w4p.png), [Alice](https://files.catbox.moe/v4mdd2.png)|
@@ -79,7 +80,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Avarice Inc](https://rentry.org/AvariceINC) | Furry ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
-[Muricanpie](https://rentry.co/mpcs) | Misc ||
 [AIC Industries](https://rentry.org/aicin) | Maids ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||
 [CptPants](https://rentry.org/CptPants) | Misc ||

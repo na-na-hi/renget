@@ -26,6 +26,10 @@ Animation ID is the number in the sprites XML file that can be downloaded from t
 [SkyTemple Scripting Tutorials](https://www.youtube.com/playlist?list=PLeoQCzDApD5Kmp0eRA947oPelXunAtqWv)
 [SkyTemple: A Comprehensive Tutorial](https://www.youtube.com/watch?v=liyKneUd-mU)
 
+###Changing Starter Pokemon
+Navigate to Lists -> Starters. Double click on the name of the starter Pokemon you want to change, then type in the name of the new Pokemon. There's a male and female option for all gendered pokemon and picking Male/Female in game will give you different starters, so make sure you replace a male or female starter as desired.
+
+
 ###Basic Scripting Syntax
 No idea how much should be included here, but intended for people with 0 programming knowledge. 
 Open scripting by clicking on the spider? thing in the upper right corner of the main window

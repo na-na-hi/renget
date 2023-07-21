@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2606* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2607* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -176,6 +176,7 @@
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
+/((?:>>\d(?:(?!>>\d)[^])\*){4})(?=.\*^\\>$)/ims;boards:trash;op:no;file:yes
 /she fucks shotas/i;boards:trash;op:no
 
 /hypersmegma/i;boards:trash;op:no
