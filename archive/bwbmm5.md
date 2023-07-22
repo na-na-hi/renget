@@ -162,6 +162,7 @@
 /\d\nhere's your white(| human) male/i;boards:trash;op:no
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
+/(?=.\*artists)(?=.\*not your friend)/ims;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
 /she fucks shotas/i;boards:trash;op:no
 

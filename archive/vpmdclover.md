@@ -27,8 +27,8 @@ Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Mem
 Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fynn)
 N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#porygon)
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
-??? | M | Tropius | N/A | Clover Guild Member | [???]
-??? | F | Nidorina | ??? | Clover Guild Member | [???]
+??? | M | Tropius | N/A | Clover Guild Member | [???] *Pending*
+Nida | F | Nidorina | Poochyena (Poochi, M, Native) | Clover Guild (Native?) Member | [???] *Pending*
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -275,6 +275,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
+* Nida the Nidorina
+	* [Team Moxie Introduction](https://rentry.org/fehwy) *Not on Table*
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -475,6 +477,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 * {||} [Sterling's Purpose ch.5](https://rentry.org/m36g2z)
 * {||} [Chespin's Week](https://rentry.org/chespinsweek)
+* {||} [Team Moxie Introduction](https://rentry.org/fehwy)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

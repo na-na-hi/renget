@@ -76,6 +76,7 @@ Becka: https://pastebin.com/F6y0hpMi
 Quinn Chase: https://rentry.org/bqu7d
 Isha: https://rentry.org/nbvhi
 Mike the Driver: https://docs.google.com/document/d/1u0sIJpOhlFv86qQoWhAurTSq5JzNB0Jpcy8ZWB2b0To/edit?usp=sharing
+Calliope: https://rentry.org/CallisBallads
 ### Tierlists:
 Tiermaker: https://tiermaker.com/create/hero-of-the-wastes-15890179
 CR and Chastity Rankings: https://rentry.org/RanksHOTW (edit code: RanksHOTW)

@@ -25,6 +25,11 @@
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
 
+>Instead of the usual amnesia human-turned-to-pokemon, what would you do to change up the formula?
+>Because of what happened at the story, the name you've given to your partner, does it became more dear to you or nothing changed at all?
+>Imagine you're a mythical Pokemon and have free reign to use your powers to your heart's content. No consequences (maybe). What will you do with your powers? 
+>If you were given one wish, what would you wish for?
+
 >Are all Pokemon able to survive with only fruits, vegetables and gummies? Or are some Pokemon truly carnivorous and require protein?
 >Has the move accuracy ever screwed you over so hard that it results to your death?
 >In the games, Fire-types can walk on lava and take no damage. Do you think this means Fire-types are totally immune to heat, or is the ability to walk on lava just a game mechanic and not a real "in-universe" thing?

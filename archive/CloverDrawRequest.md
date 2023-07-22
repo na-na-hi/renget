@@ -6,7 +6,6 @@
 
 1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
 1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)
-1. Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!"
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head
 1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
@@ -115,6 +114,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!" -- 2 versions [by Porygon-anon](https://cloverguild.com/booru/post/602) and [by Ribombee-anon](https://cloverguild.com/booru/post/603)
 
 [Nick and Amelia swimming](https://cloverguild.com/booru/post/574)
 

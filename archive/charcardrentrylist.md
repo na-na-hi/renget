@@ -23,7 +23,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[The Skinnerman](https://files.catbox.moe/ehqlrd.png), [Android 17](https://files.catbox.moe/wgm0oa.png), [Android 18](https://files.catbox.moe/ojpdjr.png), [Petey](https://files.catbox.moe/ukmbxk.png)|[The Skinnerman](https://files.catbox.moe/ehqlrd.png) [MV], [Petey](https://files.catbox.moe/ukmbxk.png) [MV]
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Minerva](https://files.catbox.moe/djrg2q.png)|
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Morgan (F)](https://files.catbox.moe/7ryhfo.png)|
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[SCP-049](https://files.catbox.moe/1u4lqr.png), [Fiddlesticks](https://files.catbox.moe/5mss7h.png)|
+[Nicenshady](https://rentry.org/nicenshady) | Misc |[SCP-049](https://files.catbox.moe/1u4lqr.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids |[Luna](https://files.catbox.moe/6yo9kp.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Hunter](https://files.catbox.moe/54r09x.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Alice](https://files.catbox.moe/u0jlqo.png)|[Alice](https://files.catbox.moe/u0jlqo.png) [MV], [Rose](https://files.catbox.moe/y56we2.png)

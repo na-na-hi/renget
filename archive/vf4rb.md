@@ -16,6 +16,7 @@ https://rentry.org/3445a    Day 9: Herbology (Includes: My, Rout)
 https://rentry.org/nuasvt   Day 10: The Lecture (Includes: Fitness Club, Alice)
 https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
 https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
+https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
 ##Extra Stories
 
 https://rentry.org/bzfno   Extra: Amortentia 
