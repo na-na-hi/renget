@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Su-34 aircraft combat sortie at extremely low altitude
+https://files.catbox.moe/yxznnu.mp4
+>Massive July 19th cluster munitions depot explosion near Chudnov, Zhitomir after Geran hit (geolocated to 50.029034304885855, 28.1201243419847)
+https://files.catbox.moe/vwm6dd.mp4
 >Strelkov in court
 https://files.catbox.moe/a2odt1.MP4
 >No commentary needed

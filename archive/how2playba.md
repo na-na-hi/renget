@@ -402,7 +402,7 @@ They're okay. If you need them they're handy, and I buy them occasionally too. D
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert) 
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
-Credits > Limited Elephs (that you need) > Pins > Eligma > Reports
+Credits > Limited Elephs (that you need) > Pins (if you need) > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.
 You can't unlock/redeem limited students through this shop, so don't buy them if you don't have them (or plan to).
 The gear blueprints are a godsend though. Everything about this shop is honestly. Thank you, John Nexon. 

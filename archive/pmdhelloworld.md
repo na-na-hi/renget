@@ -112,7 +112,7 @@ Surveying the area around me, it was evident that there was no path forwards - t
 
 Turning to leave, I paused for a moment. 
 
-All alone in this empty, silent clearing - the gravity of the whole situation I was in hit me. I had been dragged from my old life, transformed into a fictional being, and left all by my self in a different reality. In the back of my mind, a nagging feeling told me that this must have all been for a purpose. Would I be sent back after (*if*) whatever my purpose is was fulfilled - and if so, how long would that take? Would I be put back exactly when I left? Or would I poof back into existence right where I was after being missing for who knows how long? What would I tell people? "Sorry I've been away for a few weeks/months/years, I'd been transported to another dimension"? I had the sinking feel that such an excuse would not go down well.
+All alone in this empty, silent clearing - the gravity of the whole situation I was in hit me. I had been dragged from my old life, transformed into another being, and left all by my self in a strange place. In the back of my mind, a nagging feeling told me that this must have all been for a purpose. Would I be sent back after (*if*) whatever my purpose is was fulfilled - and if so, how long would that take? Would I be put back exactly when I left? Or would I poof back into existence right where I was after being missing for who knows how long? What would I tell people? "Sorry I've been away for a few weeks/months/years, I'd been transported to another dimension"? I had the sinking feel that such an excuse would not go down well.
 
 Or I might fail whatever it was I was brought here to do. I'd never get sent back. Nobody would ever know where I went - one night I just dropped off the face of the earth, never to be seen again. I couldn't bear think as to what my family would go through. Could they would every truly accept that I just *disappeared*? Would they give up on hoping that I'd ever come home? While it was perhaps selfish thought, I hoped they wouldn't. That'd they would think I wouldn't have *chosen* to up and leave without a trace, never to return.
 
@@ -138,7 +138,7 @@ Was I alive?
 
 Or was my mind just a collection of wires and code that had been deluded into thinking? Was that any different than being a flesh-and-blood being, driven by electrical pulses through a brain? What did it mean to be *alive*?
 
-In the back of my mind, some words sparked into existence.
+In the back of my mind, a phrase pushed itself into the forefront of my mind.
 
 *Cogito, ergo sum*. 
 

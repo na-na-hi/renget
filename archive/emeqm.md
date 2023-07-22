@@ -449,3 +449,181 @@
 >you weren't leaving Alex behind
 >you couldn't predict that he'd find you first
 >or how
+
+>at first you didn't recognize him
+>how could you
+>last you saw Alex he looked… human
+>standing in front of you was a bipedal 6 and half foot tall shark twink
+>shredded clothes, his lab coat barely holding together
+>a few wounds on his skin
+>you nearly bolted back
+>then the shark tried readjusting his glasses just like Alex
+>that made you pause
+>then he spoke
+>"I can explain"
+>he was now a weird man shark hybrid and he's just treating it like you sat down for crab rangoon
+>first
+>why the shooting?
+>what's happening?
+>"Gensyn had a disagreement with the direction of my work"
+>wait what was he doing
+>you thought this was a genetics lab
+>what happened to the medical benefits of sharks?
+>"that was my goal. Gensyn wanted a weapon. so I decided to meet halfway."
+>this was strange and you heard a few more sparing gunshots
+>then… nothing
+>"that should be that. I hope they did not go too far."
+>they?
+>he walked back towards the labs and you decided to follow
+>you kept pestering him about questions but he was focused ahead
+>the emergency had begun an hour or so before and all this seemingly happened that quickly
+>"by now we should have most of the confidential parts of the facility. I am hesitant to push further but I feel security may force me."
+>is that why he was wounded?
+>"I was shot"
+>he just says that so casually
+>he straightened the tattered lab coat 
+>"soon I can go back to my work."
+>what was he going to accomplish now that Gensyn was hostile?
+>"they do not own the building any more"
+>he was so frank you had no idea how to read that
+>yet you followed regardless
+>probably not your wisest idea
+>"Gensyn made me find a new application for my work"
+>he gestured a hand out in a sweeping motion
+>you noticed claws
+>granted, the sleek blue and white skin was more glaring along with the shark snout and tail
+>his eyes still retained human pupils
+>the black shark eyes you'd seen on Discovery would have fucked with you
+>teeth
+>every single time he talked
+>white knives clashing and fitting together
+>the only real trace of his human half was his long unkempt hair
+>trying to hold up glasses with no outside ears seemed to trouble him to no end
+>gills along his neck gently moved when he inhaled
+>this was surreal 
+>yet when he got deeper in the labs you realized it was even crazier
+>half beasts everywhere
+>every sort of creature you could imagine
+>Alex noticed your visible confusion 
+>"I worked on was a DNA scrambler. when Gensyn finally went for it I just overloaded it with every piece of sampled genetic material I could get. think of it as a small bomb that does this."
+>would explain why only a portion of the building was affected
+>but what happened with security?
+>"a few of the staff agreed with me. they did not want this used as a weapon. so we took a reasonable risk."
+>this was a lot
+>a gene scrambling bomb
+>Alex was a shark man
+>Gensyn was possibly evil
+>the guy whose dick you sucked had a group of furry beastmen 
+>you just wanted to make sure he wasn't hurt and you ended up tripping and stumbling into a conspiracy 
+>what the hell was going on?
+>how did he build a bomb that scrambled DNA? 
+>"Gensyn wanted a weapon. I took the safeties off. this gave it a shotgun effect on everything and anything human."
+>his pupil looked towards you and you still weren't used to this
+>"I may decide to use it again if Gensyn forces the issue again"
+>he readjusted his glasses
+>"you will be safe. do not worry."
+>he went about with fiddling over a device
+>no doubt that gene bomb thing
+>"after I get it operational again, do you wish to see if we can still have sex?"
+>WHAT?
+>"I am curious what has changed? is that a no?"
+>he quietly tinkered and you had to mull over the last few minutes
+>"I assume Gensyn will want their facility back. I do not intend to use this further but I will."
+>after an hour of deep thought and him fiddling around he turned back to you
+>it was definitely strange to see him like this
+>he was still slender
+>the face though
+>completely strange
+>a blend of human and shark meant he could still express emotion
+>not that Alex did that a lot
+>you noticed he had to keep holding his glasses 
+>"I guess you are overwhelmed. perhaps my offer was presumptuous?"
+>this was strange but you felt it best to talk about this privately
+>he'd been talking about this in a crowded room of his peers and tied up security 
+>good lord you just realized that
+>well cat was out of the bag now
+>if they didn't know you two were screwing before they knew now
+>not the most important matter now anyways
+>he agreed to take this elsewhere and you ushered to a janitor's closet 
+>you had to wonder what Gensyn was doing but that wasn't important at the moment
+>you had to ask again if he was OK
+>you embraced him and he slowly reciprocated 
+>you'd thought the worst when you'd heard about an incident 
+>"I did not realize I might worry you. I am sorry."
+>well it was the company's fault
+>was this love?
+>you hadn't been committed to anyone really, ever, and Alex was definitely not a fling
+>when you heard about Alex you ran in regardless of danger
+>maybe this was something more complex than sucking each other's dicks
+>everything you'd known was tossed aside within minutes
+>but Alex was still here, even if this was new
+>it was hard to push into a kiss with his snout but you weren't quitting 
+>you were very mindful of all the teeth
+>right now you needed to clear your head and Alex had volunteered 
+>sharkman or not you wanted him
+>you felt his skin out of curiosity 
+>despite it looking smooth from a distance, it was like sandpaper
+>you weren't too rough but you could imagine the friction would hurt if you tested it
+>so you'd have to feel him up slowly
+>you pulled his jacket off and his shirt was quick to follow
+>no nipples?
+>well that was disappointing
+>a couple times you'd managed to get an actual reaction out of him with those
+>wait
+>you looked closer and realized they were inverted now
+>just blending in with his new skin
+>he bucked against you when you touched one
+>maybe it was optimized for swimming 
+>you asked him what shark DNA he used 
+>from his little lessons you guessed something like the blue shark 
+>"it was a few but mostly blue shark, I believe."
+>his waist and stomach were still stick thin
+>you placed your hands gently on his waist and he watched you with interest
+>you decided it might change things up if you framed this as research 
+>when you started asking biology questions he lit up once more
+>he started explaining differences 
+>how he could "see" you with his eyes closed now
+>how his sense of smell was heightened to the point he could smell your arousal building
+>that was odd but he was cute when he got like this
+>he explained that things may have changed
+>you didn't understand until you pulled his ragged pants down
+>this was getting out of hand
+>now there were two of them
+>he actually looked away from your gaze as you looked back up to meet his
+>two pointed cocks leaking precum
+>well this was definitely new
+>you could roll with it though
+>in fact, you had an idea
+>your pants followed his on the floor
+>you held him up by his legs and shoved your cock between his
+>they at least felt slick against your own manhood
+>when you asked him to wrap his hand around the trio he complied instantly 
+>his new thick tail flopped a bit on the floor, a gesture you assumed signaled excitement 
+>you asked him about any new findings and he remarked about finding this new sensation pleasant 
+>between groans
+>maybe twice the dicks meant twice the sensation 
+>they'd wrapped around your own cock easily
+>you had no comparison for this sensation 
+>his fist pumped you both together
+>he'd since dropped his glasses and you were seeing him become just a little more passionate 
+>you'd touched cocks, exchanged blowjobs
+>all fun
+>a fact Alex had given you an idea
+>he was initially confused but groaned when you bit into his shoulder
+>just barely marking his tough new hide
+>"sharks… bite their female while mating. you remembered"
+>you fucked into his hand harder
+>"you want me as your female. is that it?"
+>your efforts increased as he groaned, forgetting his question
+>of course you wanted to fuck him
+>he was a wannabe super villain and a fish now but he was still Alex
+>less wrinkles, and he tasted different 
+>but it was still the same goofy guy you'd sat next to at lunch
+>he'd never had a connection
+>now you really wanted to seal the deal
+>claim him
+>this whole scenario had gone batshit and you were done thinking
+>his long slender legs dangled in the air as you frotted his twin cocks, the impromptu fleshlight making for a perfect hole
+>you wondered how his ass was
+>the urge to just up a switch was there but you both cumming put a halt on that 
+>you wearily enjoyed the afterglow, his gills working slightly against your cheek as he trembled in your arms

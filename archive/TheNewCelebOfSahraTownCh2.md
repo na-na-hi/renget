@@ -62,7 +62,7 @@ The Palafin and Finizen backed away to safety, and Nidoqueen got those words lou
 
 "CHEERS, LADS AN' LASSES. LI'LE ANDREW'S FOR THE LOT OF YOU WHO WANT A ROIGHT PROPA BEVVY!"
 
-It was shocking how many of them stayed. Not a single one swam off of the nine who gave them a helping hand. Stumpy and Nidoqueen looked at each other in surprise. They opened the cargo bay and revealed their c0ntents: 30 large crates of Little Andrew's, the finest mushroom beer in the whole wide world!
+It was shocking how many of them stayed. Not a single one swam off of the nine who gave them a helping hand. Stumpy and Nidoqueen looked at each other in surprise. They opened the cargo bay and revealed their contents: 30 large crates of Little Andrew's, the finest mushroom beer in the whole wide world!
 
 The dolphin Pokémon looked excited to have something special to drink, and once Nidoqueen unloaded the first crate and unboarded the pints of brew, she laid them out for them all to take, a pint for each of the lot. They seemed extremely happy for some reason, too. Stumpy wondered why.
 
@@ -70,11 +70,11 @@ The dolphin Pokémon looked excited to have something special to drink, and once
 
 A Palafin swam forward, his fin out stretched. Stumpy nudged the fin with his petal crown as if he were trying to give a handshake. The Palafin smiled, beaming in the sunlight. 
 
-"Nooo…thank YOU, Little Andrew! Your Huge Mushroom beer is incredible! It was the talk of the town two months ago at Bazaar's, and we've been DYING to know when you or whoever else from Capim Town would come back with more!"
+"Nooo…thank YOU, Little Andrew! Your Huge Mushroom beer is incredible! It was the talk of the town two months ago at Saloon, and we've been DYING to know when you or whoever else from Capim Town would come back with more!"
 
 There it was again. Someone called him Andrew with no idea what it meant to him, but the news of just how popular his creation had completely floored Stumpy! This was no time to be annoyed or cheesed off. In fact, it was a time to be jubilant!
 
-"Wuh!? But yeh, tha's me on tha' laebel. Andrew's me true name…oi just...don't loike it when others coll me tha'. Fo' future saeke, please, coll me Stumpy, Paulafin."
+"Wuh!? But yeh, tha's me on th' laebel. Andrew's me true name…oi just...don't loike it when others coll me tha'. Fo' future saeke, please, coll me Stumpy, Paulafin."
 
 "Will do, Stumpy! The word of your arrival specifically has been on everyone's tongue!"
 

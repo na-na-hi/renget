@@ -33,7 +33,7 @@ Botmaker | Category | New Bots | Updated Bots
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Scathach-Skadi](https://files.catbox.moe/5901hh.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Katrina](https://files.catbox.moe/nydzk7.png)|[Katrina](https://files.catbox.moe/nydzk7.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Amanda Kimura](https://files.catbox.moe/mcshcc.png), [LOCUS-TAN](https://files.catbox.moe/rsvozg.png)|
-[Tipzanon](https://rentry.co/tipzanon) | Misc |[Liriae](https://files.catbox.moe/ce6qlr.png)|
+[Tipzanon](https://rentry.co/tipzanon) | Misc |[Liriae](https://files.catbox.moe/ce6qlr.png)|[Jocelyn](https://files.catbox.moe/h08mkc.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Mackenzie](https://files.catbox.moe/735adt.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Mayuka and the road trip secret](https://files.catbox.moe/6k8w4p.png)|
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) |[Maid Gura](https://files.catbox.moe/xvl8g8.png)|[Maid Korone](https://files.catbox.moe/60dwn9.png), [Maid Okayu](https://files.catbox.moe/gk7o7z.png), [Maid Mio](https://files.catbox.moe/q7weqj.png)
@@ -51,7 +51,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||[Outercourse Paradise](https://files.catbox.moe/21l9ht.png), [AIDS Game](https://files.catbox.moe/mkd4k5.png), [Among Lust](https://files.catbox.moe/0gxmhe.png), [Strip Rock Paper Scissors](https://files.catbox.moe/t1ksnr.png), [Ōsama Game](https://files.catbox.moe/go66ex.png)
-[Genoo](https://rentry.org/295se) | Sizeplay ||[Diana](https://files.catbox.moe/1a652q.png)
+[Genoo](https://rentry.org/295se) | Sizeplay ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||

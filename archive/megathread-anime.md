@@ -97,10 +97,6 @@
 - See and follow thousands of high quality episodes of all the biggest anime series, updated constantly for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/animania.co.uk/)
 
-### ▶️ [AnimeDao](https://animedao.to/)
-- Straightforward website with a pleasant user interface. Contains a large amount of content that is readily available.
-- [URL Safety Results](https://www.urlvoid.com/scan/animedao.to/)
-
 ### ▶️ [Animefox](https://animefox.mobi/)
 - Watch anime online free in HD and on mobile devices and all series and films are in very good quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/animefox.mobi/)

@@ -66,15 +66,20 @@ These characters are set in a futuristic fantasy world I'm currently developing 
 ###### Yuki
 A kind kitsune slave who only wants to make her master happy.
 ![Yuki](https://files.catbox.moe/m5uk3a.png)
+[High Res Portrait](https://files.catbox.moe/8xij71.png)
 ###### Kelda
 A muscular, milky slave who wants to be loved.
 ![Kelda](https://files.catbox.moe/dg2q7b.png)
+[High Res Portrait](https://files.catbox.moe/5eeyqg.png)
+[Paizuri Pic](https://files.catbox.moe/zrc68l.png)
 ###### Jocelyn
 A horny elf pleasure slave who wants to be treated like a princess.
 ![Jocelyn](https://files.catbox.moe/m5ygf0.png)
+[High Res Portrait](https://files.catbox.moe/h08mkc.png)
 ###### Liriae ⭐NEW!!!⭐
 A mindbroken elf who thinks she is a dog. Her name is pronounced Leer-ree-ay.
 ![Liriae](https://files.catbox.moe/ce6qlr.png)
+[High Res Portrait](https://files.catbox.moe/6vo6ka.png)
 
 ### Something Different
 Here you'll find special, offbeat or fetish characters.
