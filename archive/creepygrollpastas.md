@@ -18,6 +18,7 @@ The Basement|[(link)](https://archive.4plebs.org/x/thread/35215590/#35324776)
 Food/Robot revolution|[(link)](https://archive.4plebs.org/x/thread/35215590/#35327260)
 ALIUMS/Assimilation|[(link)](https://archive.4plebs.org/x/thread/35333372/#35333638)
 Mysterious matter|[(link)](https://archive.4plebs.org/x/thread/35333372/#35343006)
+Skinwalkers|[(link)](https://archive.4plebs.org/x/thread/35358927/#35369837)
 
 ![](https://files.catbox.moe/9lssp4.png)
 

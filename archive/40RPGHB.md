@@ -15,17 +15,20 @@ https://mega.nz/file/Y4ExXC5D#75xlQxdf3dJbDecn-spB_YlqdS3dOKDVv_TYVb_WATo
 >The Good, the Bad, and the Alpha Legion (v1.10.4) - Deathwatch to Horus Heresy total conversion
 https://www.mediafire.com/file/ihhy225rkj4sepl
 
->Mars Needs Women 1.9.1 - Mechanicus Skitarii and Taghmata for Only War
-https://www.mediafire.com/file/vnmhj1ze4v0zsge
+>Mars Needs Women (v1.9.3) - Mechanicus Skitarii and Taghmata for Only War
+https://www.mediafire.com/file/ijuhfvyoxcuv9fj
 
->Fear and Loathing in the Eastern Fringe (v1.7.23) - additional playable Xenos for Rogue Trader
-https://www.mediafire.com/file/642so6zhbjf95vb
+>Fear and Loathing in the Eastern Fringe (v1.7.48) - More playable Xenos for Rogue Trader
+https://www.mediafire.com/file/n9p56aycv9gopco
 
 >The Fringe is Yours! v 1.11.0 - even more xenos, Knights, and Horus Heresy gear for Rogue Trader
 https://www.mediafire.com/file/nk2pgslp3awxvvp
 
 >The Gold Experience Requiem (v1.5.5) - Custodes, Primaris, SoS, Solar Auxilia conversions
 https://www.mediafire.com/file/9ikgdvh6cj9wbfz
+
+>Manual for Manlets (v1.1.1) - "Magical Beasts" in 40k
+https://www.mediafire.com/file/mxwvu6vqu2zvck3
 
 >Advanced Crafting and Resource Management
 https://www.mediafire.com/file/zbd24pyqk1mnqpo/Advanced_Crafting_and_Resource_Management.pdf/file

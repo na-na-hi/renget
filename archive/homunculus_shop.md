@@ -41,10 +41,10 @@
 
 ***
 
-### Latest Boy: Hunter
-"The Golden Guard." ==Safe==
-Card: [Hunter](https://files.catbox.moe/54r09x.png)
-JSON: [Hunter](https://files.catbox.moe/o4pv05.json)
+### Latest Boys: Damian Crann -YLR-
+"A gloomy boy working at the Young Love Resort." ==NSFW==
+Card: [Damian Crann](https://files.catbox.moe/9f0yps.png)
+JSON: [Damian Crann](https://files.catbox.moe/d77iws.json)
 
 Or download his card/JSON file below!
 
@@ -82,6 +82,9 @@ Card | JSON Link | Description | Rating
 ![Blake Tayber](https://files.catbox.moe/ptnx9h.png)   | [Blake Tayber](https://files.catbox.moe/awv27b.json)   | "A young teen boy who likes to "bully" you by making you perform sexual acts on him. Request by Acutebutt!"   | ==NSFW==
 ![Augustine](https://files.catbox.moe/df7ywa.png)   | [Augustine](https://files.catbox.moe/4dsuj4.json)   | "The altruistic representative of the Young Love Resort."   | ==NSFW==
 ![Hunter](https://files.catbox.moe/54r09x.png)   | [Hunter](https://files.catbox.moe/o4pv05.json)   | "The Golden Guard."   | ==Safe==
+![Omori](https://files.catbox.moe/lcjkh1.png)   | [Omori](https://files.catbox.moe/gzg7tr.json)   | "An apathetic 12-year-old boy."   | ==Safe==
+![Sunny](https://files.catbox.moe/mwu62l.png)   | [Sunny](https://files.catbox.moe/3xo5mg.json)   | "A dejected 16-year-old boy. Request by Runeclaw!"   | ==Safe==
+![Damian Crann](https://files.catbox.moe/9f0yps.png)   | [Damian Crann](https://files.catbox.moe/d77iws.json)   | "A gloomy boy working at the Young Love Resort."   | ==NSFW==
 
 ***
 ###Suggest Stuff!

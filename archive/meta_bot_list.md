@@ -21,11 +21,6 @@
 - https://rentry.org/vpcai - large list of bots; cai only; `current`
 - https://rentry.org/vpcai-X/ - small list of bots; cards only; `current`
 
-## [/vt/wAIfu/](https://boards.4channel.org/vt/catalog#s=AI+Vtuber+Chatbots)
-- https://rentry.org/wAIfu_Bot_List_Final - laste lirge of bots; cai, cards and rentries with cards; manuals; `current`
-- https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA - large list of bots; cards only; `current`
-- https://rentry.org/aicg - large list of bots; cai only; `current`
-
 ## [/vg/aids/](https://boards.4channel.org/vg/catalog#s=AI+Dynamic+Storytelling+General)
 - https://aetherroom.club - large list of prompts; text prompts only; `current`; *adventure/story-focused prose prompts only - DON'T UPLOAD BOTS*
 - https://prompts.aidg.club - large list of prompts; text prompts only; *deprecated*
@@ -47,3 +42,8 @@ Sister rentries:
 
 Email for feedback and suggestions:
 - aicg2023@proton.me
+
+[](## [/vt/wAIfu/](https://boards.4channel.org/vt/catalog#s=AI+Vtuber+Chatbots))
+[](- https://rentry.org/wAIfu_Bot_List_Final - laste lirge of bots; cai, cards and rentries with cards; manuals; `current`)
+[](- https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA - large list of bots; cards only; `current`)
+[](- https://rentry.org/aicg - large list of bots; cai only; `current`)

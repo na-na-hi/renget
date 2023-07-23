@@ -57,3 +57,6 @@ https://rentry.org/ds8xw
 
 >Shrunk at the convention
 https://rentry.org/26926
+
+>Can't Have Sh*t in Detroit
+https://rentry.org/avkuo

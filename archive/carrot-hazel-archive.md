@@ -6,7 +6,7 @@
 [TOC2]
 
 ***
-### Overture 1: On the tale of a valiant wolf, and a mischievous cat so far
+### Prelude 1: On the tale of a valiant wolf, and a mischievous cat so far
 “It’s as beautiful as always, don’t you think?” the Lycanroc affirms with a bark
 “Sure, for you! You were not drowning just down there in the ocean” The Liepard replies slightly annoyed with a hiss, “But yeah, sunsets will always make me happy, it’s an omen that the night is finally arriving”
 The Liepard keeps watching the sun being swallowed by the darkness of the ocean close to the edge of the ravine, where they first met, the golden orange sky, the same tones of the Lycanroc, being taken over by the purple hue of the incoming night, the same color as hers
@@ -90,7 +90,7 @@ The Lycanroc and the Liepard keep walking through the forest, maybe for the last
 The barking and hissing continues for a while, walking far away from the place they call home, ready for their new adventures
 
 
-###Overture 1.1: On the subject of food gathering and poor planning of meals
+###Prelude 1.1: On the subject of food gathering and poor planning of meals
 Deep in the forest, the orange wolf/dog and the purple cat keep on walking, dissapointed and with their stomach empty
 "Maybe eating all the food in one go wasn't a good idea..." Carrot whimpers
 "Don't think about it, we coulnd't expect that no one is taking new recluits in..." Hazel purrs hungrily
@@ -128,6 +128,27 @@ Both curl up side to side, cowering from the radiant sun
 "*Yawn*, you too Hazel"
 It's not long before both are deep asleep
 
+###Prelude 1.3: Combat and spar
+The orange wolf and the purple cat stand vigilant, ready for a fight to (not) death.
+"You first; I started last time," Carrot barks.
+"You know that hitting first is not my thing, carrot." Hazel purrs, almost an invitation for those unaware of her tactics.
+"If that's the case, Surprise sand!" Carrot kicks a small but dense cloud of sand straight at Hazel, who masterfully dodges the low blow.
+"You should open in another way; you always start with a sand attack, and I can simply" copycat Carrot's sand kick, this time hitting Carrot dead on.
+"Heh, you too should start changing tactics." Carrot barks, keeping a keen eye on Hazel, although the sandy feeling is not as horrible as you think.
+Carrot stomps the ground hardly, making some stealth rocks grow on Hazel's side.
+"Stealth rock? That's new; when did you learn it?" Hazel asks
+"Some days ago, in that dojo, I remember not learning it at first, but maybe entrapping works well."
+"In that case, let's see how you play now." Hazel uses torture! Her deep eye burns through Carrot's soul, making him incapable of doing the same move more than once!
+"The eyes again? I know what you're going to do, so let's get going!" Carrot bunnyhops, accelerating before finally crashing into Hazel with his signature Accelerock! Hazel is launched backwards but, as always, is able to land perfectly.
+"Blaw! I forgot that you can run, Wolfie, but can you outrun this darkness?" Hazel uses Dark Pulse! A series of dark pulses emitted from her, affecting Carrot!
+"That still feels weird, but I can do that again!" Carrot howls to the moon, smiling upon him in the sky! His howl revigorates him!
+"Checkmate!" Hazel jumps forward on the pointy rocks, hurting her a bit before rolling just below Carrot before...
+Throat Chop! She kicks him straight in the throat, sending him back! Ouch
+**KO!**
+Carrot wheezes and coughs a lot for a few seconds before trying to stand up. Still weak, Hazel is already on his side.
+"Tie?" Hazel asks mischievously:
+"*Cough cough*... tie" His voice is raspy.
+With that, Hazel gets another win.
 
 ***
 ### Misc. Overviews
@@ -141,8 +162,8 @@ It's not long before both are deep asleep
  
 >>Misc.
 >He wears a purple scarf on his neck, and for a time, some broken sunglasses he found in a mystery dungeon, he keeps his badge on either the scarf or a bag he wears for quick access to his objects
->He has an irregular white patch of fur on his side due to a powerful ice move damaging that area
->His ‘Sigil’ is of a chariot as told by a Xatu, he will not stop until the job is done, or he considers it to be done
+>He has an irregular white patch of fur on his side due to a powerful ice move that he tanked, burning the nerves and causing the fur pigmentation of that patch
+>His ‘Sigil’ is of the chariot as told by a Xatu, he will not stop until the job is done, or he considers it to be done
 >Secret: He still misses the flavor of meat and cold cuts like Salami, and has wondered how different pokemon would taste, but those are just intrusive thoughts and he will never even try it
 ***
 #### Hazel

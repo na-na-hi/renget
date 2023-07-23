@@ -9,7 +9,7 @@ _______________________________
 	|**EN** | [Year 1](https://rentry.org/MES_EN_Year_1_)
  	|**JP & ID** | [Year 1](https://rentry.org/JPID_MES_Year1_)
 	|**Megacollabs** | [Year 1](https://rentry.org/Megacollabs_MES_Year1_)
-	|**Annexes** | [HoloCure](https://rentry.org/qb6sm) - [RUST](https://rentry.org/2vybpa) - [Japan off-collabs](https://rentry.org/nydbm) - [Minecraft New Server](https://rentry.org/3rcmh)
+	|**Annexes** | [HoloCure](https://rentry.org/qb6sm) - [RUST](https://rentry.org/2vybpa) - [Japan Arc 1](https://rentry.org/nydbm) - [Japan Arc 2](https://rentry.org/d9gc2) - [Minecraft New Server](https://rentry.org/3rcmh)
 
 !!!warning ->  Megacollabs M.E.S. - Year 1 (August 22nd 2021- August 23rd 2022)<-
     [TOC]

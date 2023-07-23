@@ -15,6 +15,7 @@ _______
 | 2022-02-28 | Out of Internet for a few days | https://cloudup.com/cE9fmlz1g7r | Recorded voice message she left on twitter before deleting it0|
 | 2022-06-29 | Twitterspace #2 - #MumeiIsCoookin | [Space](https://cloudup.com/ilHSjuhiUxV) + [Transcript](https://files.catbox.moe/vpyw58.txt)  | Second Twitter Space|
 |2023-01-25| Twitterspace #3 - #MumeiChoppin | [Space](https://cloudup.com/iNgsQVHprPc) | Third Twitter Space|
+|2023-07-22| Twitterspace #4 - おはよう I’m in Japan doing a Twitter space !! | [Space](https://cloudup.com/irpj4j3Qx47) + [Transcript](https://files.catbox.moe/xi1gow.txt) | Fourth Twitter space. Done in place of a (JST) morning stream she promised due to tech stuff.|
 
 ___________________________________
 

@@ -111,9 +111,12 @@ You heard tales about mysterious woman who lives at the north, on lone island of
 
 **Written in PList+Ali:Chat**
 
-[JSON:](https://files.catbox.moe/c87r9o.json)
+**Put the PList from the personality box in Author's Note!**
+
+[JSON:](https://files.catbox.moe/e6sazf.json)
+[Sprites](https://files.catbox.moe/djil7v.rar)
 Tavern card:
-![Image description](https://files.catbox.moe/11j2ss.png)
+![Image description](https://files.catbox.moe/9ttty6.png)
 ***
 
 ###Blaze Fielding [Streets of Rage]
@@ -402,10 +405,12 @@ You spent many months training under the guidance of Scathach. She molded you in
 
 **Written in PLists+Ali:Chat**
 
-[JSON](https://files.catbox.moe/9uefn1.json)
+**Put the PList from the personality box in Author's Note!**
+
+[JSON](https://files.catbox.moe/6b4kpn.json)
 [Sprites](https://files.catbox.moe/djil7v.rar)
 Tavern card:
-![Image description](https://files.catbox.moe/68k0kr.png)
+![Image description](https://files.catbox.moe/9tgmz5.png)
 ***
 
 ###Astolfo (Rider) [Fate/Grand Order]

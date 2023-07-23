@@ -38,7 +38,7 @@ Elatha | Info
 
 Octavio | Info
 :----:  | :----: 
-![](https://files.catbox.moe/4sbna3.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne. **(CHUB DOWNLOAD NOT PREFERRED BECAUSE IT WON'T LET ME UPDATE HIS CARD WITH BETTER ART)**
+![](https://files.catbox.moe/4sbna3.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/1180yf.png)
 
 Cole | Info
@@ -101,6 +101,12 @@ Lariat | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/05rzeb.png)   | While roaming through the circus grounds, you come upon the fortune-teller's tent. Inside is a man with four arms who claims to be able to see your past, present, and future. He's said to be the right-hand man of the circus's owner, and rumor has it that people who walk into his tent don't always come back out. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/2a4f56f7-8b7e-4432-9eaa-05b35efa5beb),  [Catbox](https://files.catbox.moe/gqnifw.png)
+
+Castor and Pollux | Info
+:----:  | :----: 
+![](https://files.catbox.moe/nfrb24.png)   | My first attempt at a multi-character card. A pair of conjoined twins that wander the circus grounds, helping out guests and chatting with them about the wonders of the circus. Pollux is stern and cynical, while his brother Castor is almost manic in his giddyness despite the grotesque horrors of the circus around them. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/4cfb4574-f1ef-41c6-88dc-a5eab004a027),  [Catbox](https://files.catbox.moe/9nmlqy.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

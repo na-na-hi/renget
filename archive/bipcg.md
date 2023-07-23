@@ -1,4 +1,27 @@
 ▶NEW CLIPS
+>Wagernites want to visit Poland
+https://files.catbox.moe/0s228p.mp4
+>Party caraVan
+https://files.catbox.moe/e17v70.mp4
+>Odessa AD hits Orthodox Cathedral https://archive.fo/RSi7d
+https://files.catbox.moe/y89vmg.MP4
+https://files.catbox.moe/et9bvh.MP4
+https://files.catbox.moe/7p5r2s.mp4
+https://files.catbox.moe/e7sr3b.MP4
+https://files.catbox.moe/vphxc7.MP4
+>More Onyx missiles for Odessa
+https://files.catbox.moe/xuhqg2.mp4
+https://files.catbox.moe/3qky62.mp4
+>Another destroyed Leopard in Zaporozhye
+https://files.catbox.moe/4atyat.MP4
+>Kleshcheevka meat grinder
+https://files.catbox.moe/6l444h.mp4
+>Counter-Offensyiiv northwest of Artemovsk
+https://files.catbox.moe/5uk9or.mp4
+>Drone corrected arty fire deletes Bradley and crew
+https://files.catbox.moe/sipghg.mp4
+>Lend Lease Bradley Graveyard
+https://files.catbox.moe/8hq7f8.mp4
 >Su-34 aircraft combat sortie at extremely low altitude
 https://files.catbox.moe/yxznnu.mp4
 >Massive July 19th cluster munitions depot explosion near Chudnov, Zhitomir after Geran hit (geolocated to 50.029034304885855, 28.1201243419847)
@@ -49,6 +72,7 @@ https://files.catbox.moe/0gd66p.mp4
 https://files.catbox.moe/mta6ai.mp4
 https://files.catbox.moe/78zgwh.mp4
 >Second night of Odessa strikes
+https://files.catbox.moe/z0tq4t.mp4 (translated)
 https://files.catbox.moe/8b5r7r.mp4
 https://files.catbox.moe/a3ehum.mp4
 https://files.catbox.moe/3zjto1.mp4

@@ -64,8 +64,9 @@ I'd also advice to do the same even if you don't reroll, just so you have someth
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
 
-Your very first roll guarantees a single (3\*) student from a pool of *only* [the release roster](https://bluearchive.wiki/wiki/Characters) (students released on 2021/02/04).
-Rolling in 10s guarantees at least one (2\*) student, unlike with singles, so it's better to roll in multis.
+Your very first roll guarantees a single (3\*) student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll.
+![no, you can't get Ako on your 10th roll.](https://i.imgur.com/0nMJLHD.png)
+Rolling in 10s guarantees at least one (2\*) student so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
 
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
@@ -241,12 +242,11 @@ There is no benefit to manually doing them.
 ##Farmable units 
 For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
 
-Currently available units that you can farm
-![currently available farmable units](https://arch-img.b4k.co/vg/1679180130356.png) 
+[Currently available units that you can farm](https://arch-img.b4k.co/vg/1679180130356.png) 
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/ebMCX79.png)
+![hard nodes to farm](https://i.imgur.com/omOJkMe.png)
 Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/htmlview#), check it out for a more detailed explanation on farmable units.
 
 >Should I farm a unit I don't own?
@@ -280,7 +280,7 @@ If you need to ask, distribute ur tickets evenly.
 See [the shop section](https://rentry.org/how2playba#shop). 
 
 ## Commissions
-Ignore this until you can clear the Base Defense H (recommended level 65, but doable way below that), thank you.
+Ignore this until you can clear commission H (recommended level 65, but doable way below that), thank you.
 Only farm commissions during rate up events if you did the above. 
 
 Commissions is comprised of two modes: Base Defense and Item Retrieval.

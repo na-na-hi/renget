@@ -720,6 +720,10 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://anonfiles.com/Rezer63cze/terriermon_rar
 
+# Zorak (Space Ghost)
+
+	https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

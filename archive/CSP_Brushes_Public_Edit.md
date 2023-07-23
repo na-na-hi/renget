@@ -1,13 +1,18 @@
 !!! danger
 	# Asset store
 !!! danger
--> **This is a publicly editable rentry. The edit code is `4chan`. **
-[**[edit this rentry here]**](https://rentry.org/CSP_Brushes_Public_Edit/edit)<-
+
 
  ##  This is now an archive copy please use [CSP MATERIALS HUB](https://rentry.org/CSP_materials)
 ***
 [TOC2]
 ***
+
+
+
+
+
+
 !!! Warning If you like a brush you may want to support by liking the brush in store and maybe purchasing if you have clippies to spare.
 ##Free Recommended
  Name | Store Link | Thumbnail

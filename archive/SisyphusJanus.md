@@ -1,7 +1,6 @@
 #SisyphusJanus's Bots
 ***
 Beginner botmaker, request bots or send feedback on how shit my bots are at SisyphusJanus@proton.me
-Got banned from /g/ for troll posts(?) for a couple days, not sure as to why. Will be back soon
 ***
 [TOC2]
 ***
@@ -12,6 +11,7 @@ Liberty Elementary School   | ![Liberty Elementary](https://files.catbox.moe/8wc
 Naoko Yuuki |  ![Naoko Yuuki](https://files.catbox.moe/uonj5k.png)   | https://files.catbox.moe/uonj5k.png | https://www.chub.ai/characters/SisyphusJanus/naoko-yuuki | Slave training simulation game with stat system. You've abducted this girl, train her into your ideal slave. See custom JB for this card.
 Echo and Theo| ![Theo](https://files.catbox.moe/4jfsgj.png) ![Echo](https://files.catbox.moe/axmqhx.png) | https://files.catbox.moe/4jfsgj.png https://files.catbox.moe/axmqhx.png | https://www.chub.ai/characters/SisyphusJanus/c669360f-1578-4f02-914b-e4d81e4ae5f4 https://www.chub.ai/characters/SisyphusJanus/564703dd-14dc-4d46-b3b0-136d7694247b | Intended for use together in a group chat. Two children you've adopted from an abusive orphanage. Treat them nicely.
 Ella and Thea| ![Thea](https://files.catbox.moe/olve9w.png) ![Ella](https://files.catbox.moe/es8lj6.png) | https://files.catbox.moe/olve9w.png https://files.catbox.moe/es8lj6.png | https://www.chub.ai/characters/SisyphusJanus/de012012-9371-428e-9564-b512a4353dfc https://www.chub.ai/characters/SisyphusJanus/7143e880-064a-4292-be46-e8fde0022303 | Female ver of Echo and Theo. See above.
+Luca| ![Luca](https://files.catbox.moe/vvkva7.png)| https://files.catbox.moe/vvkva7.png | https://www.chub.ai/characters/SisyphusJanus/f06f2fab-b741-4d43-b315-a089683f6851 | A deeply depressed 13-year old boy that just arrived at your school. You find him crying one day. Will you talk to him?
 
 ***
 ##Recommended Jailbreaks

@@ -15,7 +15,7 @@
 [Area15 Mini 3D Live](https://m.youtube.com/watch?v=oY0HSWOqV0s) 
 [Area15 - Hi-15](https://youtube.com/watch?v=VxnwBm49egM&t=1718s)
 [IoMoon - Bluebird](https://youtube.com/watch?v=YHMGdX1kC00&t=2170s) 
-[3rd Fes - High Tide](https://streamable.com/l44mfy) 
+[3rd Fes - High Tide](https://streamable.com/xnl1s6) 
 [4th Fes - AI no Chiisana Uta](https://streamable.com/f7ws9n) 
 [4th Fes Holo\*27 - Otome Kaibou](https://streamable.com/sm64oq) 
 [4th Fes - Yobanashi Deceive](https://streamable.com/qtgfo1) 

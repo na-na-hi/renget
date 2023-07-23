@@ -190,3 +190,49 @@ https://rentry.org/of3us
 >Birds of Feather (Archangel, Last Rite, Ryukishi, Noctiluca)
 https://rentry.org/ayox6
 ----------------------------------------------------------------------------------------------------------------------------
+Page 3
+----------------------------------------------------------------------------------------------------------------------------
+>Drekus Inc. (Drekus, Charlatan, Slipstream)
+https://rentry.org/e2nq8
+>Rental 3 (Rebecca Weber)
+https://controlc.com/ca271d47
+>The Beach Episode: Part 1 (Last Rite, Archangel, Class 1-D)
+https://rentry.org/y4hzh
+>School Days (Ryu-kishi, Marrow, Overdose, Localoca, Recoil, Hydra, Sunlight Man, Orbit, Mirror Devil, Flying Force, Crazy Train, Capture Cloth, Challenger, Maru)
+https://rentry.org/6zksk2
+>let's go to the beach-each (Spark, Recoil, Drone, Radius, Arena, Doctor, Rebecca Weber)
+https://controlc.com/859f4590
+>A Heart-Thumping Evening (aka Doki Doki Yoru) [Marumaru, Ryu-kishi, and a mystery villain]
+https://rentry.org/awz5s
+>One Bad Apple Spoils the Bunch (Forget-Me-Not, Class 1-D, Goldorado, Titan, Rosethorn)
+https://rentry.org/One-Bad-Apple
+>New Routines, Old Faces (Mirror Devil, Flying Force, Desolator)
+https://rentry.org/itz9r
+>Taxiing (Turncoat Heroes)
+https://controlc.com/0ed7463e
+>73 Questions (Turncoat Heroes)
+https://controlc.com/1c89ff22
+>FIGHT DUB CLUB, Match 3 (Class 1-D, Majestic)
+https://rentry.org/gztz2
+>Drekus Visits You (Drekus, 1-D, Impakt, Floor, others)
+https://rentry.org/urxei
+>Beach Episode Part 2 (1-D, Popsy, Impakt, Floor, Majestic)
+https://rentry.org/xdof7a
+>Shopping (Hivemind, Challenger)
+https://controlc.com/3f221a0e
+>Spring Cleaning (Desolator, Tether):
+https://rentry.org/n6q4u
+>Friends 2 (Capture Cloth, Blackout)
+https://rentry.org/vxzemt
+>Hifumi x Hailey: Chapter 4 - Reaching Out (Hifumi, Hailey, Yui)
+https://controlc.com/c5aed87a
+>Prison Break Osaka (Pax, Mercy, Nightmare, Turncoat Heroes, Mauler)
+https://controlc.com/3ed166d2
+>Flight of the Sahugins (The Five, Ryu-kishi, Marrow)
+https://controlc.com/bd11136a
+>Doki Doki Mystery Team (Ryukishi, Maru(maru), Marrow, Class-1D, Majestic)
+https://rentry.org/qyr6n
+>Enter Stuntman (Impakt, Floor, LocaLoca, Sunlight Man, Challenger, Ryu-Kishi, Drekus)
+https://rentry.org/99s2y
+>Exam no Jutsu, Part One (Maru(maru), Class 1-D)
+https://rentry.org/EnJ-p1

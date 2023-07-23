@@ -15,5 +15,6 @@
 ## -> [Running a cat cafe with anthro cat girls](https://rentry.org/aicgthemedweek1) <-
 ## -> [Jealous robogirl attempts to imitate humans](https://rentry.org/discardedthemedweek) <-
 ## -> [God of something unremarkable](https://rentry.co/aicgthemedweek2) <-
-## -> 22.07.2023 [POLL](https://strawpoll.com/kogjkB34EZ6) <-
+## -> 23.07.2023 Randomness and probability <-
+## -> (*Utilize the SillyTavern {{random}} and/or {{roll}} variables. [Read up on them here](https://docs.sillytavern.app/usage/core-concepts/characterdesign/#replacement-tags-macros)) <-
 ***

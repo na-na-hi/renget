@@ -29,7 +29,7 @@ Becka "Queen Bee" (Raider): https://archive.4plebs.org/tg/post/89429924
 #### Nymph-Infested Swamps
 The Nymphs - Glimmer, Bliss, Doe, Kitty, Sprite (Mutants): https://archive.4plebs.org/tg/post/89385405
 Amu (Robot): https://archive.4plebs.org/tg/post/89383565
-Samson (Mutant): https://archive.4plebs.org/tg/post/89384851 (more information at https://controlc.com/5c3d6500)
+Samson (Mutant): https://archive.4plebs.org/tg/post/89675689 (more information at https://rentry.org/hotwSamson)
 #### Goldacres
 Kara Ramirez (Settlement Survivor): https://archive.4plebs.org/tg/post/89381637
 #### Other Mutant Jungle

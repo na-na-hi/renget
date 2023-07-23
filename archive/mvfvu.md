@@ -38,7 +38,8 @@ Rabbit God
 https://rentry.org/9n9wr
 Pokémon master
 https://rentry.org/8s45n
-Sonic says
+Sonic says shorts
 https://rentry.org/pcqqq
+https://rentry.org/gxv8e
 One shots
 https://rentry.org/kwmnz

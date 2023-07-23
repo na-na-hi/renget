@@ -122,6 +122,12 @@
 ### Over 500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Parallel line 12 species set (平行線12種セット)** | [1702691](https://assets.clip-studio.com/en-us/detail?id=1702691) | **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/91/26/1702691/thumbnail?1610601718)
+**Rain Brush (雨ブラシ)** | [1702272](https://assets.clip-studio.com/en-us/detail?id=1702272) | **==120 GOLD==**, **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/22/1702272/thumbnail?1509002720)
+**Rust brushes (錆ブラシ)** | [1701296](https://assets.clip-studio.com/en-us/detail?id=1701296) | **==150 GOLD==**, **750 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/12/1701296/thumbnail?1507487586)
+**Dirty Piece Wire Set (汚しカケ線セット)** | [1731899](https://assets.clip-studio.com/en-us/detail?id=1731899) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
+**Smoke Flow Set (煙流れセット)** | [1718809](https://assets.clip-studio.com/en-us/detail?id=1718809) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/88/1718809/thumbnail?1562117923)
+**Sea Brush Set (海ブラシセット)** | [1717978](https://assets.clip-studio.com/en-us/detail?id=1717978) | **2,500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/79/1717978/thumbnail?1531902708)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -167,6 +173,7 @@
 **Deception cross-hatching Line **|[1841029](https://assets.clip-studio.com/en-us/detail?id=1841029)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/10/1841029/thumbnail)
 **Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
 **Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
+**Dirty and Shadow lines! Building description Material Set (汚しや影線！建物描写素材セット)** | [1731713](https://assets.clip-studio.com/en-us/detail?id=1731713) | 280 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/17/1731713/thumbnail?1547225066)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

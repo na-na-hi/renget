@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 22.07.2023 14:00 UTC]
+[Last Updated: 23.07.2023 21:15 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7484692/](https://boards.4chan.org/h/thread/7484692/)
+Current thread - [boards.4chan.org/h/thread/7494516/](https://boards.4chan.org/h/thread/7494516/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
-- 610&nbsp;&nbsp;[archiveofsins.com/h/thread/7484692/](https://archiveofsins.com/h/thread/7484692/)&nbsp;&nbsp;&nbsp;&nbsp;(17.07.2023 10:45)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Rest in pieces Edition
+- 611&nbsp;&nbsp;[archiveofsins.com/h/thread/7494516/](https://archiveofsins.com/h/thread/7494516/)&nbsp;&nbsp;&nbsp;&nbsp;(23.07.2023 11:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Flustered Bulb Edition
+- 610&nbsp;&nbsp;[archiveofsins.com/h/thread/7484692/](https://archiveofsins.com/h/thread/7484692/)&nbsp;&nbsp;&nbsp;&nbsp;(17.07.2023 10:45)&nbsp;&nbsp;[1245]&nbsp;#&nbsp;Rest in pieces Edition
 - 609&nbsp;&nbsp;[archiveofsins.com/h/thread/7490923/](https://archiveofsins.com/h/thread/7490923/)&nbsp;&nbsp;&nbsp;&nbsp;(21.07.2023 01:45)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;BEHOLD a Chika Edition
 - 608&nbsp;&nbsp;[archiveofsins.com/h/thread/7479699/](https://archiveofsins.com/h/thread/7479699/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 18:37)&nbsp;&nbsp;[1223]&nbsp;#&nbsp;You're gonna carry that weight Edition
 - 607&nbsp;&nbsp;[archiveofsins.com/h/thread/7475613/](https://archiveofsins.com/h/thread/7475613/)&nbsp;&nbsp;&nbsp;&nbsp;(12.07.2023 01:42)&nbsp;&nbsp;[1305]&nbsp;#&nbsp;Le Fishe Edition
-- 606&nbsp;&nbsp;[archiveofsins.com/h/thread/7471353/](https://archiveofsins.com/h/thread/7471353/)&nbsp;&nbsp;&nbsp;&nbsp;(09.07.2023 11:59)&nbsp;&nbsp;[1241]&nbsp;#&nbsp;Before disaster Edition
 ---
 Archive:
 
+- 606&nbsp;&nbsp;[archiveofsins.com/h/thread/7471353/](https://archiveofsins.com/h/thread/7471353/)&nbsp;&nbsp;&nbsp;&nbsp;(09.07.2023 11:59)&nbsp;&nbsp;[1241]&nbsp;#&nbsp;Before disaster Edition
 - 605&nbsp;&nbsp;[archiveofsins.com/h/thread/7467200/](https://archiveofsins.com/h/thread/7467200/)&nbsp;&nbsp;&nbsp;&nbsp;(07.07.2023 01:11)&nbsp;&nbsp;[1200]&nbsp;#&nbsp;Sitting Chikarin Edition
 - 604&nbsp;&nbsp;[archiveofsins.com/h/thread/7463110/](https://archiveofsins.com/h/thread/7463110/)&nbsp;&nbsp;&nbsp;&nbsp;(04.07.2023 06:43)&nbsp;&nbsp;[1277]&nbsp;#&nbsp;Lazy reposter edition
 - 603&nbsp;&nbsp;[archiveofsins.com/h/thread/7454982/](https://archiveofsins.com/h/thread/7454982/)&nbsp;&nbsp;&nbsp;&nbsp;(30.06.2023 02:19)&nbsp;&nbsp;[1145]&nbsp;#&nbsp;

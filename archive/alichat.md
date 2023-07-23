@@ -2,7 +2,7 @@
 !!!info (Feel free to send feedback to AliCat - .alicat on Discord)
 	**NOTE for v1.5: WIP, going to be redoing everything for SillyTavern ("ST"), including more examples and including ST's features**
 	
-	**SillyTavern (dev) -> https://github.com/SillyTavern/SillyTavern/tree/dev**
+	**SillyTavern (staging) -> https://github.com/SillyTavern/SillyTavern/tree/staging**
 
 	**Ali:Chat Lite (in collaboration with Kingbri. This has the most up to date techniques included in it, and this style is how I personally format all my cards in): https://rentry.co/kingbri-chara-guide**
 

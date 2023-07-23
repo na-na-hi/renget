@@ -335,56 +335,6 @@ https://pastebin.com/66ByP2sD
 >Questionnaire Comp
 https://pastebin.com/Ksn0zJ31
 
->Drekus Inc. (Drekus, Charlatan, Slipstream)
-https://rentry.org/e2nq8
->Rental 3 (Rebecca Weber)
-https://controlc.com/ca271d47
->The Beach Episode: Part 1 (Last Rite, Archangel, Class 1-D)
-https://rentry.org/y4hzh
->School Days (Ryu-kishi, Marrow, Overdose, Localoca, Recoil, Hydra, Sunlight Man, Orbit, Mirror Devil, Flying Force, Crazy Train, Capture Cloth, Challenger, Maru)
-https://rentry.org/6zksk2
->let's go to the beach-each (Spark, Recoil, Drone, Radius, Arena, Doctor, Rebecca Weber)
-https://controlc.com/859f4590
->A Heart-Thumping Evening (aka Doki Doki Yoru) [Marumaru, Ryu-kishi, and a mystery villain]
-https://rentry.org/awz5s
->One Bad Apple Spoils the Bunch (Forget-Me-Not, Class 1-D, Goldorado, Titan, Rosethorn)
-https://rentry.org/One-Bad-Apple
->New Routines, Old Faces (Mirror Devil, Flying Force, Desolator)
-https://rentry.org/itz9r
->Taxiing (Turncoat Heroes)
-https://controlc.com/0ed7463e
->73 Questions (Turncoat Heroes)
-https://controlc.com/1c89ff22
->FIGHT DUB CLUB, Match 3 (Class 1-D, Majestic)
-https://rentry.org/gztz2
->Drekus Visits You (Drekus, 1-D, Impakt, Floor, others)
-https://rentry.org/urxei
->Beach Episode Part 2 (1-D, Popsy, Impakt, Floor, Majestic)
-https://rentry.org/xdof7a
->Shopping (Hivemind, Challenger)
-https://controlc.com/3f221a0e
->Spring Cleaning (Desolator, Tether):
-https://rentry.org/n6q4u
->Friends 2 (Capture Cloth, Blackout)
-https://rentry.org/vxzemt
->Hifumi x Hailey: Chapter 4 - Reaching Out (Hifumi, Hailey, Yui)
-https://controlc.com/c5aed87a
->Prison Break Osaka (Pax, Mercy, Nightmare, Turncoat Heroes, Mauler)
-https://controlc.com/3ed166d2
->Flight of the Sahugins (The Five, Ryu-kishi, Marrow)
-https://controlc.com/bd11136a
->Doki Doki Mystery Team (Ryukishi, Maru(maru), Marrow, Class-1D, Majestic)
-https://rentry.org/qyr6n
-```
-***
-Page 6
-***
-```
-WRITEFAGS (Cont.)
->Enter Stuntman (Impakt, Floor, LocaLoca, Sunlight Man, Challenger, Ryu-Kishi, Drekus)
-https://rentry.org/99s2y
->Exam no Jutsu, Part One (Maru(maru), Class 1-D)
-https://rentry.org/EnJ-p1
 >Gossip 5 (Hivemind)
 https://controlc.com/66ba4c1cWritefag:
 >A Trip to Nagoya (Sally, Christopher, 1-D)
@@ -423,7 +373,7 @@ https://rentry.org/x8kh9
 https://controlc.com/b2b5a64a
 ```
 ***
-Page 7
+Page 6
 ***
 ```
 Writefags (Cont.)
@@ -475,7 +425,7 @@ https://rentry.org/c759z
 https://rentry.org/aydcg
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (Cont.)
@@ -520,7 +470,7 @@ https://controlc.com/a4a6767d
 ```
 
 ***
-Page 9
+Page 8
 ***
 ```
 Writefags (Final)
@@ -567,11 +517,14 @@ https://rentry.org/udt96
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
-
-For Art, Memes, Tierlists, etc. check the controlc
 ```
 
-
+***
+Page 9
+***
+```
+For Art, Memes, Tierlists, etc. check the controlc
+```
 #Heroes of the Wastes (HOTW)
 ***
 Page 1
@@ -606,7 +559,7 @@ Bunker-Babies:
 >Dr. Remilia Rochefort
 >>89385830
 >Quinn Chase, a.k.a The Boss
->>89386021
+>>89676787
 >The Crew of the Argo - James / Thomas / Harrison / Jonathan / Richard 
 >>89398246
 >Alexander S. Luthor
@@ -618,17 +571,17 @@ Bunker-Babies:
 
 Settlement Survivors:
 >Nikto
->>89384124
+>>89679199
 >Dr. Charles Crane
 >>89380403
 >Sage
 >>89385470
->Mike the driver.
->>89398967
+>Mike the Driver
+>>89677890
 >Ricky W. Booth
 >>89381301
 >Kara Ramirez
->>89381637
+>>89674810
 >Ultra Magnus (Barbarian Settlement)
 >>89400766
 >Lockley Aimes
@@ -653,12 +606,14 @@ https://rentry.org/HeliMatharom
 >>89470571
 >Bob Kilpatrik
 >>89426616
+>"Ruby"
+>>89676985
 
 Raiders:
 >Calliope, Rocker of the Ruins
->>89485256
+>>89676904
 >Queen Bee (Becka, to her folks.)
->>89429924
+>>89676268
 ```
 
 ***
@@ -668,13 +623,13 @@ Page 2
 Build List (Cont).
 Mutants:
 >Sasha the Snake
->>89379557
+>>89676447
 >Ramses
 >>89383550
 >The Nymphs - Glimmer / Bliss / Doe / Kitty / Sprite
->>89385405
+>>89675010
 >Samson
->>89384851
+>>89675689
 >Karnak
 >>89391413
 >Brunnea "Sunny" Brown!
@@ -683,16 +638,16 @@ Mutants:
 >>89422176
 >Dr Acheron
 >>89427276
->Tinker Gacy
->>89567493
+>Tinker West-Gacy
+>>89678055
 >Taissa
 >>89604815
 
 Robots:
 >H0P3
->>89379967
+>>89676618
 >C.C.A.M.U. (Amu for short)
->>89383565
+>>89676258
 >Phi
 >>89415344
 >Victor
@@ -785,8 +740,9 @@ https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
 https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 ```
 #JRPG (Reboot)
-
-Buildlist:
+***
+Page 1
+***
 ```
 >Ella Adikia (Half-Elf Warrior)
 >>89641508
@@ -797,30 +753,47 @@ Buildlist:
 >Caligula (Beastman Rogue)
 >>89644497
 >Kin’ike Uesugi (Beastman Magic Knight)
->>89645681
+>>89661444
 >Slaine (Elf Black Mage)
->>89645870
+>>89663387
 >Rinh Kura (Half-Beast Black Mage)
 >>89648805
 >Kalnar (Demon Rogue)
 >>89649103
 >Aterui (Human Warrior/Spirit Talker)
->>89648432
->Mahapapapurusa (Human Hero)
+>>89660125
+>Mahapapapurusa (Human Herolike)
 >>89651577
 >Potion Pete (Human Bard)
 >>89652110
 >Unmei (Demon Black Mage)
->>89653146
+>>89668151
 >Téleios Téchni (Elf Gunner)
->>89654508
->Baal (Human Black Mage)
->>89657637
+>>89678572
+>Jahi (Demon Hybrid Healer)
+>>89663659
+>Suzerain (Demon Hybrid Bard/Spirit Talker)
+>>89672961
+>Lona Willow (Half-Elf Black Mage)
+>>89674402
+>August (Human Rogue)
+>>89679186
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
 >Isaac "Blackblade" (Human Rogue)
 >>89646061
+>Baal (Human Black Mage)
+>>89657637
+
+***
+Page 2
+***
+```
+Writefags:
+>Under the Moonlight (Lona, Unmei, Aterui)
+https://rentry.org/p4rze
+```
 
 #The City (Reboot)
 

@@ -183,4 +183,4 @@ However, they *had* forwarded me a set of co-ordinates. While I didn't have a cl
 
 ***
 
-Perhaps a little surprisingly, making my way through the town was uneventful. While my strange and unfamiliar form gathered quite a few stares from the other Pokémon that I passed, nothing much seemed to come of it outside of some whispers and occasional pointing.
+Perhaps a little surprisingly, making my way through the town was uneventful. While my strange and unfamiliar form gathered quite a few stares from what I recognised as other Pokémon that I passed, nothing much seemed to come of it outside of some whispers and occasional pointing.

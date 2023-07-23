@@ -1,0 +1,8 @@
+- No stat rolling
+- Multiclassing opens up all dialogue options for the selected classes
+- DM mode not coming/planned
+- No Dodge/Ready actions
+- Shadowheart can be corrupted
+- Swen doesn't recommend picking Durge for your first playthrough
+- Noober is back in
+- Boo may or may not have a voice

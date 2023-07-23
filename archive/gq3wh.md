@@ -31,3 +31,6 @@ Previous:
 ### 1st Post
 - Application news if applicable at thread creation
 - Link to a few post from the previous thread if they are of note
+
+
+### Possible op image assets here

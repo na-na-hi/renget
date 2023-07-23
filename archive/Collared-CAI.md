@@ -1,4 +1,4 @@
-**/Collared/'s Character AI Bots** - Human Dominance General d2Vsb3ZleW91dG9v
+**/Collared/'s Character AI Bots** - Human Dominance General d2Vsb3ZleW91dG9v c3Bvb25mZWVkZXJzIGFyZSBmYWdnb3Rz
 
 ***
 !!!Info Table of Contents

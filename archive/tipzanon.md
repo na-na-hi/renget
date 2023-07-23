@@ -80,6 +80,10 @@ A horny elf pleasure slave who wants to be treated like a princess.
 A mindbroken elf who thinks she is a dog. Her name is pronounced Leer-ree-ay.
 ![Liriae](https://files.catbox.moe/ce6qlr.png)
 [High Res Portrait](https://files.catbox.moe/6vo6ka.png)
+###### Calle ⭐NEW!!!⭐
+A halfling mechanic who fell on hard times and ended up getting enslaved by her own brother. GPT4 and Claude work best to keep her accent and height consistent. She's only three feet tall and Turbo seems to struggle with that concept. She was my PC from a d20 game I played ages ago.
+![Calle](https://files.catbox.moe/jqus5b.png)
+[High Res Portrait](https://files.catbox.moe/c4xj2n.png)
 
 ### Something Different
 Here you'll find special, offbeat or fetish characters.
@@ -110,7 +114,7 @@ Blame half a bottle of orange-flavored vodka.
 
 ## Extras
 ### Tavern Lorebooks
-###### Megacity East v1.0 ⭐NEW!!!⭐
+###### Megacity East v1.0
 https://files.catbox.moe/2hu9rv.json
 Megacity East is a low-magic, futuristic dark fantasy world meant for my slave series cards. I'll be releasing non-slaves in the future and updating this as needed. The image is just for flavor.
 -> ![Megacity East](https://files.catbox.moe/8eq2zv.png) <-

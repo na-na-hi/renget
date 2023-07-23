@@ -494,6 +494,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Anrisive | [ComicFury](https://anrisive.thecomicseries.com/)
  * The Little Unknown
  * modest medusa 
+ * Forever After
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -802,7 +803,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
    * [vggts](https://www.vggts.gdn/) and [acgts](https://www.acgts.gdn/)
    * [G-ZONE](https://g-zone.come-up.to/E)
    * [Giantess Wiki](https://giantess.miraheze.org/)
-   * [Giant And Tiny Wiki](https://giant-and-tiny.fandom.com/)
+   * [Giant And Tiny Wiki](https://giant-and-tiny.fandom.com/), [All Pages](https://giant-and-tiny.fandom.com/wiki/Special:AllPages)
  * Some very helpful anons! Thank you.
 
 ## Contact

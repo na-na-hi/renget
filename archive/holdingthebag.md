@@ -1,5 +1,5 @@
-f!!! info Blue Archive General Clubs/Circles/Friend Database
-Last updated: 22nd July. All dates dd/mm.
+!!! Info Blue Archive General Clubs/Circles/Friend Database
+!!! Note Last updated: 23rd July. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -9,8 +9,6 @@ Servers/clubs are region specific.
 [TOC]
 
 #### Friend Code Database
-
-!!! Warning Please note that this is a trial run of the Friend Database, assuming its useful and functioning it'll stay.
 
 ##### Friend Code Database Links
 
