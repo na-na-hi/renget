@@ -37,6 +37,6 @@
 **200 Yabs Across The Sea**: https://rentry.org/85epf
 
 ## Regional lore
-**Schizo Northwest:** https://rentry.org/SchizoNorthwest
+**Schizo Northwest:** https://rentry.org/SchizoNorthwest *(New section: **Intertempora**)*
 ___
-*Last updated: 06/06/23*
+*Last updated: 07/24/23*

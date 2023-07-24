@@ -142,7 +142,18 @@
 **Texture blur brush Set (質感ぼかしブラシセット)**|[1770104](https://assets.clip-studio.com/en-us/detail?id=1770104)|[DL](https://pixeldrain.com/u/U4FmWdaM)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/04/01/1770104/thumbnail?1586657933)
 **Touro (うろなみ) **|[2017770](https://assets.clip-studio.com/en-us/detail?id=2017770)|[DL](https://pixeldrain.com/u/Giy135Av)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/77/2017770/thumbnail?1689854856)
 **MOMOPEN (MOMOPEN) **|[2016851](https://assets.clip-studio.com/en-us/detail?id=2016851)|[DL](https://pixeldrain.com/u/Zh7CsGTz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/68/2016851/thumbnail?1689499437)
+**Dirty Piece Wire Set (汚しカケ線セット)**|[1731899](https://assets.clip-studio.com/en-us/detail?id=1731899)|[DL](https://pixeldrain.com/u/eCAVAvJd)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
+**Sex Appeal pen Set (お色気ペンセット)**|[1763831](https://assets.clip-studio.com/en-us/detail?id=1763831)|[DL](https://pixeldrain.com/u/zhaMs6nP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
+**Sea Brush Set (海ブラシセット)**|[1717978](https://assets.clip-studio.com/en-us/detail?id=1717978)|[DL](https://pixeldrain.com/u/7mUJX8Na)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/79/1717978/thumbnail?1531902708)
+**S-I pencil-like pen (S●I鉛筆風ペン)**|[1771305](https://assets.clip-studio.com/en-us/detail?id=1771305)|[DL](https://pixeldrain.com/u/FhF2Hz8j)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/13/1771305/thumbnail?1587860367)
+**G Brush (g브러쉬)**|[1966401](https://assets.clip-studio.com/en-us/detail?id=1966401)|[DL](https://pixeldrain.com/u/mmxQGb6C)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/64/1966401/thumbnail?1669813260)
+**Graffiti Pen Set**|[1778102](https://assets.clip-studio.com/en-us/detail?id=1778102)|[DL](https://pixeldrain.com/u/7FSbnKja)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/02/81/1778102/thumbnail?1672531858)
+**Drawing Pen Set 2**|[1742998](https://assets.clip-studio.com/en-us/detail?id=1742998)|[DL](https://pixeldrain.com/u/XvCwesz6)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/98/29/1742998/thumbnail?1672531519)
+**Wave, sand brush [10 types] (【期間限定30CP】波、砂ブラシ【10種類】)** | [2017799](https://assets.clip-studio.com/en-us/detail?id=2017799) | [DL](https://files.catbox.moe/nru3by.rar) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/77/2017799/thumbnail?1690072655)
 ****|[]()|[DL]()|![]()
+****|[]()|[DL]()|![]()
+****|[]()|[DL]()|![]()
+
 |||
 
 
@@ -159,17 +170,8 @@
 **Wool-ify**|[1987583](https://assets.clip-studio.com/en-us/detail?id=1987583)| [DL](https://files.catbox.moe/obontc.zip) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/83/75/1987583/thumbnail)
 **Add handwriting-style thickness (auto action)**|[2002256](https://assets.clip-studio.com/en-us/detail?id=2002256)| [DL](https://files.catbox.moe/0eu4g9.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/22/2002256/thumbnail)
 **Retro processing filter**|[1687209](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
-**Better Sharpen**|[1999216](https://assets.clip-studio.com/en-us/detail?id=1999216)|[DL](https://pixeldrain.com/u/igAppJNn)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/16/92/1999216/thumbnail?1683209195)
-**Better Line Color**|[2014174](https://assets.clip-studio.com/en-us/detail?id=2014174)|[DL](https://pixeldrain.com/u/GPcHU9tB)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/41/2014174/thumbnail?1688551065)
 **【PRO version】Easy Manga Background**|[2004145](https://assets.clip-studio.com/en-us/detail?id=2004145)|[DL](https://pixeldrain.com/u/pZKXonte)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/41/2004145/thumbnail?1685210062)
-**Extract Line**|[2005447](https://assets.clip-studio.com/en-us/detail?id=2005447)|[DL](https://pixeldrain.com/u/Tnrb3HDx)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/54/2005447/thumbnail?1687177585)
-**Better Glow Effect**|[2015672](https://assets.clip-studio.com/en-us/detail?id=2015672)|[DL](https://pixeldrain.com/u/n9CcbHES)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/56/2015672/thumbnail?1689087890)
-**Grain & Vignetting**|[2015276](https://assets.clip-studio.com/en-us/detail?id=2015276)|[DL](https://pixeldrain.com/u/h6zyZnxM)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/52/2015276/thumbnail?1688939091)
-**Lines Thinner**|[2010099](https://assets.clip-studio.com/en-us/detail?id=2010099)|[DL](https://pixeldrain.com/u/Mu6NPhYh)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/00/2010099/thumbnail?1687319110)
-**Reverse Fill**|[2009905](https://assets.clip-studio.com/en-us/detail?id=2009905)|[DL](https://pixeldrain.com/u/hKuGCgXP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/99/2009905/thumbnail?1687320083)
-**add color on the terminator**|[2011252](https://assets.clip-studio.com/en-us/detail?id=2011252)|[DL](https://pixeldrain.com/u/as9MJaEC)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/12/2011252/thumbnail?1687634088)
-**Better Pattern Blending**|[2011445](https://assets.clip-studio.com/en-us/detail?id=2011445)|[DL](https://pixeldrain.com/u/ueq2wjaz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/14/2011445/thumbnail?1687774147)
-**add color on the shadow edge**|[2011527](https://assets.clip-studio.com/en-us/detail?id=2011527)|[DL](https://pixeldrain.com/u/rfDid19y)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/15/2011527/thumbnail?1687827530)
+**MZ Pink Corrected (MZ 핑크 보정(updated))**|[1895113](https://assets.clip-studio.com/en-us/detail?id=1895113)|[DL](https://pixeldrain.com/u/bqGuAMXd)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
 ****|[]()|[DL]()|![]()
 
 -> [**[TOP]**]() ->
@@ -210,6 +212,24 @@
 **♥︎ dotties pencil**|[1998919](https://assets.clip-studio.com/en-us/detail?id=1998919)|[DL](https://pixeldrain.com/u/Q2KSkQiw)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/89/1998919/thumbnail?1682711902)
 **Andy ♥︎ Pencil**|[2005653](https://assets.clip-studio.com/en-us/detail?id=2005653)|[DL](https://pixeldrain.com/u/7HFVZDha)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/56/2005653/thumbnail?1685556161)
 **・ d0ttie!tones brushes [v2] ・**|[2010200](https://assets.clip-studio.com/en-us/detail?id=2010200)|[DL](https://pixeldrain.com/u/U23fvuaS)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/02/2010200/thumbnail?1687215857)
+****|[]()|[DL]()|![]()
+
+### [Maturu000](https://assets.clip-studio.com/en-us/search?user=Maturu000)
+ Name | Store Link | DL | Thumbnail
+ ----: | :----: | :----: | :----:
+**Extract Line**|[2005447](https://assets.clip-studio.com/en-us/detail?id=2005447)|[DL](https://pixeldrain.com/u/Tnrb3HDx)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/54/2005447/thumbnail?1687177585)
+**Better Glow Effect**|[2015672](https://assets.clip-studio.com/en-us/detail?id=2015672)|[DL](https://pixeldrain.com/u/n9CcbHES)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/56/2015672/thumbnail?1689087890)
+**Grain & Vignetting**|[2015276](https://assets.clip-studio.com/en-us/detail?id=2015276)|[DL](https://pixeldrain.com/u/h6zyZnxM)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/52/2015276/thumbnail?1688939091)
+**Lines Thinner**|[2010099](https://assets.clip-studio.com/en-us/detail?id=2010099)|[DL](https://pixeldrain.com/u/Mu6NPhYh)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/00/2010099/thumbnail?1687319110)
+**Reverse Fill**|[2009905](https://assets.clip-studio.com/en-us/detail?id=2009905)|[DL](https://pixeldrain.com/u/hKuGCgXP)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/99/2009905/thumbnail?1687320083)
+**add color on the terminator**|[2011252](https://assets.clip-studio.com/en-us/detail?id=2011252)|[DL](https://pixeldrain.com/u/as9MJaEC)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/12/2011252/thumbnail?1687634088)
+**Better Pattern Blending**|[2011445](https://assets.clip-studio.com/en-us/detail?id=2011445)|[DL](https://pixeldrain.com/u/ueq2wjaz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/45/14/2011445/thumbnail?1687774147)
+**add color on the shadow edge**|[2011527](https://assets.clip-studio.com/en-us/detail?id=2011527)|[DL](https://pixeldrain.com/u/rfDid19y)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/15/2011527/thumbnail?1687827530)
+**Easy Holographic Color** | [2015274](https://assets.clip-studio.com/en-us/detail?id=2015274) | [DL](https://files.catbox.moe/p2xi97.laf) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/52/2015274/thumbnail?1689254020)
+**Better Sharpen**|[1999216](https://assets.clip-studio.com/en-us/detail?id=1999216)|[DL](https://pixeldrain.com/u/igAppJNn)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/16/92/1999216/thumbnail?1683209195)
+**Better Line Color**|[2014174](https://assets.clip-studio.com/en-us/detail?id=2014174)|[DL](https://pixeldrain.com/u/GPcHU9tB)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/41/2014174/thumbnail?1688551065)
+**Shorter and Dark border color (時短明暗境界線色)** | [1980682](https://assets.clip-studio.com/en-us/detail?id=1980682) | [DL](https://files.catbox.moe/amyph7.sut) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/06/1980682/thumbnail?1688026391)
+**Easy Color Fill** | [2015538](https://assets.clip-studio.com/en-us/detail?id=2015538) | [DL](https://files.catbox.moe/1y9mo2.rar) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/55/2015538/thumbnail?1689254087)
 ****|[]()|[DL]()|![]()
 
 

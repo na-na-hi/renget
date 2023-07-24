@@ -37,7 +37,7 @@ Lying around seemed like a bad idea no matter where I was. I pushed my doubts ab
 
 ***
 
-A little while later, attempting to move my body seemed a futile endeavour. All I could seem to do was waggle the blocks that could be generously called feet, which was getting me nowhere fast. I wracked my brain. How did this body move? As best as I could recall about Porygons, they just sorta floated about the place. How was I meant to get that to work?
+A little while later, attempting to move my body seemed a futile endeavour. All I could seem to do was waggle the blocks that could be generously called feet, which was getting me nowhere fast. I wracked my brain. How did this body move? As best as I could recall about Porygon, they just sorta floated about the place. How was I meant to get that to work?
 
 I glared at a nearby tree I had set myself the task of getting to. This was insane - whatever or whoever turned me into a Pokémon couldn't be bothered to let me to know how to move? It wasn't even that hard of a thing to want to do! I just wanted to ==MOVE== to that tree!
 ```python
@@ -177,10 +177,17 @@ PRGN: WAIT.
 Connection terminated.
 Exiting. . .
 ```
-The words faded from my sight, leaving me alone - hovering in place by the side of the road. The strange conversation with what I knew to be my evolved form certainly smacked of something important - they'd plainly told me that they needed help. Unfortunately, they neglected to explain what the issue was, and as far as I could tell, there was no way to give them a call back to get more information out of them.
+The words faded from my sight, leaving me alone - hovering in place by the side of the road. The strange conversation with what I knew to be my evolved form certainly smacked of something important - in fact, they'd plainly told me that they needed my help. Unfortunately, they neglected to let me ask them to explain what the issue was- and as far as I could tell- there was no way to give them a call back to get more information out of them.
 
 However, they *had* forwarded me a set of co-ordinates. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid on the landscape in the distance, a little ways out of the other side of the town. At the very least I could get a lay of the land while on my way to wherever this Porygon2 was - or where they claimed to be.
 
 ***
+>(wip needs editing)
 
-Perhaps a little surprisingly, making my way through the town was uneventful. While my strange and unfamiliar form gathered quite a few stares from what I recognised as other Pokémon that I passed, nothing much seemed to come of it outside of some whispers and occasional pointing.
+Making my way through the trunks and across the bridges, I made notes of anyplace that might have been of importance in the town. A shop here, what looked to be an Inn of sorts there - it turned out that this was quite the bustling place. While I drew quite a few stares making my way across town, the Pokémon here thankfully didn't seem the type to confront a strange newcomer heading through town. 
+
+Porygon2's co-ordinates led me to one stumps that were dotted around the outside of the town itself. This one was one of the larger ones - if the windows that dotted the outside were any indication, this place was at the very least three stories tall. Looking up at it, it seemed fairly imposing. Still, this was probably my best bet to get any answers.
+
+Skirting around the strange hole in the ground that lay outside the front door - while it was covered up by a grate of sorts, I didn't fancy testing how my hovering would work with a surface with big holes in - I moved up to the curtain that covered the front door. Pushing my way through, I was met with the sight of what appeared to be a relatively large lobby. Two large boards hanging off a wall seemed to dominated the room, presented as the most important thing there.
+
+While this room was vacant, I could hear quite the commotion coming from one of the rooms shooting off from the lobby. Arguing and eating, from the sounds of it. I must have dropped in during the lunch break. Looking around, I could see the marker I had been set was pointing up stairs. After waiting a second or two to see if anyone would come out and meet me in the lobby, I made for the stairs in the centre of the room - heading up to meet Porygon2.

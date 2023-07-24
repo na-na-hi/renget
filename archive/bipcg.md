@@ -1,4 +1,17 @@
 ▶NEW CLIPS
+>Leopard 2a6 added to endangered species list
+https://files.catbox.moe/c0qly9.mp4
+https://files.catbox.moe/shfv47.mp4
+https://files.catbox.moe/bulv2w.mp4
+https://files.catbox.moe/ruliyu.mp4
+>Ukrainian Grain Deal resumes
+https://files.catbox.moe/3rbb34.webm
+>Port of Reni, Odessa region is hit by Geran-2 drones
+https://files.catbox.moe/g23o5u.mp4
+https://files.catbox.moe/2svl3k.mp4
+>Romanians watch as the port of Reni, Odessa region is hit by Geran-2 drones
+https://files.catbox.moe/70biwx.mp4
+https://files.catbox.moe/gm451y.mp4
 >Wagernites want to visit Poland
 https://files.catbox.moe/0s228p.mp4
 >Party caraVan

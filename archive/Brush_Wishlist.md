@@ -15,7 +15,6 @@
 ### 10 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**MZ Pink Corrected (MZ 핑크 보정(updated))** | [1895113](https://assets.clip-studio.com/en-us/detail?id=1895113) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
  **INK + MARKER + OIL sketch brush**|[1973976](https://assets.clip-studio.com/en-us/detail?id=1973976)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/39/1973976/thumbnail)
 **BigBrushSet![Limited time 10CP]**|[2004452](https://assets.clip-studio.com/en-us/detail?id=2004452)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/44/2004452/thumbnail)
 **softBrush♦B8pencil♦DryInk**|[1944219](https://assets.clip-studio.com/en-us/detail?id=1944219)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/42/1944219/thumbnail)
@@ -38,11 +37,9 @@
 **Headache pen (두통펜)**|[1977241](https://assets.clip-studio.com/en-us/detail?id=1977241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/72/1977241/thumbnail)
 **Pencil-in-pencil (연필인척하는연필)**|[1895220](https://assets.clip-studio.com/en-us/detail?id=1895220)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/52/1895220/thumbnail)
 **Vant_Line pen (Vant_Line pen)**|[1947718](https://assets.clip-studio.com/en-us/detail?id=1947718)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/18/77/1947718/thumbnail)
-**G Brush (g브러쉬)**|[1966401](https://assets.clip-studio.com/en-us/detail?id=1966401)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/64/1966401/thumbnail)
 **It is a watercolor brush though it is not watercolor. (水彩じゃないけど水彩ブラシです)**|[1956074](https://assets.clip-studio.com/en-us/detail?id=1956074)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/60/1956074/thumbnail)
 **csp No.19 (csp No.19)**|[1958073](https://assets.clip-studio.com/en-us/detail?id=1958073)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/80/1958073/thumbnail)
 **Honey Pen (みつこまペン)**|[1840719](https://assets.clip-studio.com/en-us/detail?id=1840719)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/07/1840719/thumbnail)
-**S-I pencil-like pen (S●I鉛筆風ペン)** |[1771305](https://assets.clip-studio.com/en-us/detail?id=1771305)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/13/1771305/thumbnail)
 **JS pen (JS펜)** |[1982241](https://assets.clip-studio.com/en-us/detail?id=1982241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/22/1982241/thumbnail)
 **Hair Highlight Patterns (ヘアハイライトパターン)** |[1891207](https://assets.clip-studio.com/en-us/detail?id=1891207)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/12/1891207/thumbnail)
 **My Cartoons textured pen (自分用漫画ざらつきペン)** |[2003228](https://assets.clip-studio.com/en-us/detail?id=2003228)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/28/32/2003228/thumbnail)
@@ -91,8 +88,6 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **[72h] CRT/LED Effects - Default Edition** | [2018285](https://assets.clip-studio.com/en-us/detail?id=2018285) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/82/2018285/thumbnail?1690049173)
-**[Limited time 30CP] Wave, sand brush [10 types] (【期間限定30CP】波、砂ブラシ【10種類】)** | [2017799](https://assets.clip-studio.com/en-us/detail?id=2017799) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/77/2017799/thumbnail?1690072655)
-**Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
 
 
@@ -129,9 +124,7 @@
 **Parallel line 12 species set (平行線12種セット)** | [1702691](https://assets.clip-studio.com/en-us/detail?id=1702691) | **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/91/26/1702691/thumbnail?1610601718)
 **Rain Brush (雨ブラシ)** | [1702272](https://assets.clip-studio.com/en-us/detail?id=1702272) | **==120 GOLD==**, **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/22/1702272/thumbnail?1509002720)
 **Rust brushes (錆ブラシ)** | [1701296](https://assets.clip-studio.com/en-us/detail?id=1701296) | **==150 GOLD==**, **750 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/12/1701296/thumbnail?1507487586)
-**Dirty Piece Wire Set (汚しカケ線セット)** | [1731899](https://assets.clip-studio.com/en-us/detail?id=1731899) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
 **Smoke Flow Set (煙流れセット)** | [1718809](https://assets.clip-studio.com/en-us/detail?id=1718809) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/88/1718809/thumbnail?1562117923)
-**Sea Brush Set (海ブラシセット)** | [1717978](https://assets.clip-studio.com/en-us/detail?id=1717978) | **2,500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/79/1717978/thumbnail?1531902708)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

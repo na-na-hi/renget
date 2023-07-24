@@ -107,6 +107,10 @@ Castor and Pollux | Info
 ![](https://files.catbox.moe/nfrb24.png)   | My first attempt at a multi-character card. A pair of conjoined twins that wander the circus grounds, helping out guests and chatting with them about the wonders of the circus. Pollux is stern and cynical, while his brother Castor is almost manic in his giddyness despite the grotesque horrors of the circus around them. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/4cfb4574-f1ef-41c6-88dc-a5eab004a027),  [Catbox](https://files.catbox.moe/9nmlqy.png)
 
+The Duke of Dusk | Info
+:----:  | :----: 
+![](https://files.catbox.moe/0a0ofn.png)   | The owner, the ringmaster, the orchestrator of all this suffering. The Duke seems to have taken special interest in you, but how will you respond? Will you fight back, or join this twisted world he's built for himself? Comes with a built-in lorebook, an alternate greeting where you're a fellow performer, and a special greeting if you wanna just skip straight to the body horror. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/114adef3-25d3-48f3-a919-a9f264770cde),  [Catbox](https://files.catbox.moe/1x5edj.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 
