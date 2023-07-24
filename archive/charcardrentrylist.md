@@ -35,7 +35,6 @@ Botmaker | Category | New Bots | Updated Bots
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Morgan (F)](https://files.catbox.moe/7ryhfo.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[SCP-049](https://files.catbox.moe/1u4lqr.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids |[Luna](https://files.catbox.moe/6yo9kp.png)|
-[Kirbish34](https://rentry.org/kirbish34) | Misc |[Alice](https://files.catbox.moe/u0jlqo.png)|[Alice](https://files.catbox.moe/u0jlqo.png) [MV]
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Yuzu](https://files.catbox.moe/xulojd.png)|[Arisu](https://files.catbox.moe/m8pvs7.png), [Child Snuff Simulator](https://files.catbox.moe/b7e2j0.png), [Caitlyn](https://files.catbox.moe/im4lpi.png)
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Scathach-Skadi](https://files.catbox.moe/5901hh.png)|[Scathach](https://files.catbox.moe/9ttty6.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Katrina](https://files.catbox.moe/nydzk7.png)|[Katrina](https://files.catbox.moe/nydzk7.png) [MV]
@@ -46,9 +45,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
+[Kirbish34](https://rentry.org/kirbish34) | Misc ||[Alice](https://files.catbox.moe/u0jlqo.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||[Prince Andriel II](https://files.catbox.moe/l3h4bf.png)
-[Johncock](https://rentry.org/Johncock) | Misc ||[Ryme](https://files.catbox.moe/lvxhhy.png), [Tomoe](https://files.catbox.moe/cby932.png)
+[Johncock](https://rentry.org/Johncock) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||

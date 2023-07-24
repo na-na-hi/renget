@@ -100,12 +100,10 @@ Alternate workflow
 https://user-images.githubusercontent.com/48502124/250187845-ba7f710f-e365-4dc0-8be8-a364e47d92f3.png
 
 ###When will SDXL v1.0 release?
-Currently pushed back to around July 25th or beyond, click below to see Emad's announcement...
+Currently confirmed for July 26th at 11am PDT / 2pm EDT / 7pm BST / 8pm CEST
 
-https://old.reddit.com/r/StableDiffusion/comments/153907z/sdxl_will_be_out_in_a_week_or_so_phew/
+https://reddit.com/r/StableDiffusion/comments/157ybqf
 
-~~July 18th according to Emad of Stability AI
-https://twitter.com/EMostaque/status/1676923097159712768~~
 !!! info
 	---------------------------
 ##Guides
@@ -239,4 +237,4 @@ discord.gg/stablediffusion
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 18th - https://pastebin.com/h7WRB644
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 24th - https://pastebin.com/8ceqX1e0

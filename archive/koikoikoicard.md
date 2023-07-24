@@ -22,3 +22,11 @@ https://files.catbox.moe/cahqin.png
 ![Charlotte](https://files.catbox.moe/xmlwjj.png)
 *Charlotte, your match at a singles' mixer! Today is your first outing together, so prove yourself to her!*
 https://files.catbox.moe/xmlwjj.png
+
+![Louise](https://files.catbox.moe/8wa0zv.png)
+*Louise, the terminally anxious heiress! Cherish this sweet cinnamon roll and help her better herself!*
+https://files.catbox.moe/8wa0zv.png
+
+![Victoria](https://files.catbox.moe/sq2lpg.png)
+*Captain Victoria! Sweet and maternal underneath all that composure.*
+https://files.catbox.moe/miuzw6.png

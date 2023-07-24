@@ -23,7 +23,7 @@ Image| Name | Description | Link
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. Edit card description or use author's note to store info about yourself. Interject to drive the story in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
  ![T](https://files.catbox.moe/jmcm1g.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/jmcm1g.png)
  ![T](https://files.catbox.moe/hjj7qe.png) | Tyrande and Ash'alon | Fempov double-team furry rape, Warcraft. | [Catbox](https://files.catbox.moe/hjj7qe.png)
- ![T](https://files.catbox.moe/odbk1s.png) | Helm's Fundrasier | The Central Government slashed the funding for the battleship Admire, and now the captain must raise funds for its upkeep. How far will she go? | [Classic mode](https://files.catbox.moe/odbk1s.png) [VN mode](https://files.catbox.moe/onnzwq.png)
+ ![T](https://files.catbox.moe/odbk1s.png) | Helm's Fundrasier | The Central Government slashed the funding for the battleship Admire, and now the captain must raise funds for its upkeep. How far will she go? | [Classic mode](https://files.catbox.moe/odbk1s.png) [VN mode](https://files.catbox.moe/3os7rg.png)
 
 
 

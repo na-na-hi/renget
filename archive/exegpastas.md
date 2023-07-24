@@ -87,6 +87,7 @@ Title|Link
 /creepyg/ OC Roll Chart Creepypasta List|[(link)](https://rentry.org/creepygrollpastas)
 Unnamed journal pasta|[(link)](https://files.catbox.moe/x3mgau.png)
 *Kudzu*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35329455)
+*Child from the Unknown*|[(link)](https://rentry.org/ChildfromtheUnknown)
 
 ##Rewritten by /exeg/
 Title|Link

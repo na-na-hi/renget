@@ -20,8 +20,13 @@ Promised stream in the morning but [setting up took too much time.](https://twit
 Did [Twitter space](https://twitter.com/i/spaces/1RDGlaayYzzJL) instead.
 [Brown hair gang don't care!](https://twitter.com/anyamelfissa/status/1683041975585611776)
 
-
 **Day 6 - 2023-07-24**
+Got bridal carried [by Ollie](https://twitter.com/nanashimumei_en/status/1683450914504589312) and [pampered by Bae](https://twitter.com/nanashimumei_en/status/1683375043479470080), her new [sub-manager](https://twitter.com/nanashimumei_en/status/1683349947071221770).
+
+**Day 7 - 2023-07-25**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|Mumei, Bae|  ≪OFF COLLAB≫ Mermaids: The Body Found Watchalong w/ Mumei | [Link](https://www.youtube.com/watch?v=i1_RAqeB9yg)|First off-collab watchalong. Same mockumentary mentioned in the [Megalodon stream](https://www.youtube.com/watch?v=C4Zv0kyLaFA). |
 
 **Day 8 - 2023-07-26**
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
