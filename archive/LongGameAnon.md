@@ -9,6 +9,8 @@ Here is my burner: LongGameAnon@proton.me
 I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
+(7/23/2023): Added a 2 guides for Local Models
+(7/23/2023): Added **new character** Gaymer Dad
 (7/15/2023): Added **new character** Séamus Thorne
 (7/15/2023):Added a Guide Section and a guide for enabling Character Expression packs.
 (7/14/2023): Added expression pack to all Sarah bots! 1 pack will work with all Sarah bots! Look on the Chub page!
@@ -54,7 +56,12 @@ Séamus Thorne | Info
 :----:  | :----: 
 ![Séamus Thorne](https://i.imgur.com/PzOIxF7.jpg)   |  Séamus Thorne is a secret Wizard and your neighbor. You invite him to a cafe to discuss a magical event you saw late last night. He will gaslight you, misdirect, and shift the conversation to keep his secret hidden. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/5b0d9258-ddd7-4ad9-b0dd-16a33486de06),  [png](https://avatars.charhub.io/avatars/LongGameAnon/5b0d9258-ddd7-4ad9-b0dd-16a33486de06/chara_card_v2.png?nocache=0.4659055004515973)
 
+Gaymer Dad | Info
+:----:  | :----: 
+![Séamus Thorne](https://i.imgur.com/LDRK6ci.png)  |  Séamus Thorne is a secret Wizard and your neighbor. You invite him to a cafe to discuss a magical event you saw late last night. He will gaslight you, misdirect, and shift the conversation to keep his secret hidden. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3),  [png](https://avatars.charhub.io/avatars/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3/chara_card_v2.png?nocache=0.27464471850287353)
+
 ---------------------------------------
 ##Guides
 ###[Character Expression / Silly Tavern Extensions](https://rentry.org/LGAExpressionsGuide)
-###[Guide to using a llama with SillyTavern](https://rentry.org/LGALlamaGuide)
+###[Guide to using a llama and Kobloid with SillyTavern](https://rentry.org/LGALlamaGuide)
+###[Guide to using a llama2 and Oobabooga with SillyTavern](https://rentry.org/LGAOoba)

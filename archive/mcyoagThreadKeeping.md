@@ -40,7 +40,13 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHAs are building up their energy!
+Writefags:
+>I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
+https://rentry.org/uzu56
+
+Artfags:
+>Katsuragi Enjoyers
+>>89683133
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -577,7 +583,7 @@ Settlement Survivors:
 >Sage
 >>89385470
 >Mike the Driver
->>89677890
+>>89680555
 >Ricky W. Booth
 >>89381301
 >Kara Ramirez
@@ -642,6 +648,8 @@ Mutants:
 >>89678055
 >Taissa
 >>89604815
+>Subject 2285-J
+>>89681858
 
 Robots:
 >H0P3
@@ -744,6 +752,10 @@ https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 Page 1
 ***
 ```
+>Rules
+15 Basic/15 Advanced, follow the colors.
+You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (any type/color).
+
 >Ella Adikia (Half-Elf Warrior)
 >>89641508
 >Carmen (Elf Bard) (NPC)
@@ -778,6 +790,10 @@ Page 1
 >>89674402
 >August (Human Rogue)
 >>89679186
+>Caniara (Demon Herolike)
+>>89681500
+>Ugoki Ayagi (Demi-Human Magic Knight)
+>>89682887
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
@@ -793,6 +809,10 @@ Page 2
 Writefags:
 >Under the Moonlight (Lona, Unmei, Aterui)
 https://rentry.org/p4rze
+>Opening Shades (Caniara)
+https://rentry.org/ce6zz
+>Portents (Ugoki)
+https://rentry.org/kh5sk
 ```
 
 #The City (Reboot)

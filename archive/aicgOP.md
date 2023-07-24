@@ -2,6 +2,7 @@
 ->Check out the old OPs for some memories https://rentry.org/oldOPS <-
 
 !!!note IMPORTANT INFO
+	I'm a fucking moron and wrote my mail wrong it's not petergabriel@cock.li it's PeterGabriel@cock.li
     **
 	OPs status
 	OP | Status
@@ -10,7 +11,7 @@
 	Sturdy           | Fuck you adwhore
 	Kaomoji OP		| https://rentry.org/kaomojibaka
 	**
-	My mail -> petergabriel@cock.li
+	My mail -> PeterGabriel@cock.li
 
 	Remember to be calm and reasonable
 [TOC]
@@ -29,6 +30,7 @@ A general dedicated to discussion & development of AI Chatbots
 >Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chub-archive.evulid.cc/#/
 https://chatbots.neocities.org/
 https://rentry.org/cai-list [CAI]
 https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
@@ -36,7 +38,7 @@ https://avakson.github.io/character-editor/
 
 >Guides + JBs
 https://rentry.org/Aicg4Retards - https://rentry.org/agnai_guides
-claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux
+claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux - https://rentry.org/KaruKaruBagOfGoodies
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 https://rentry.org/sillytermux [Mobile Extras]
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
@@ -83,6 +85,7 @@ A general dedicated to discussion & development of AI Chatbots
 >Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chub-archive.evulid.cc/#/
 https://chatbots.neocities.org/
 https://rentry.org/cai-list [CAI]
 https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
@@ -108,7 +111,7 @@ https://github.com/kwaroran/RisuAI-release/releases
 https://rentry.org/slaude2 [Slaude 2]
 https://github.com/PandarusAnon/slaude [Slaude]
 https://github.com/bfs15/slaude [Another Slaude]
-https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux [JBs]
+https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux - https://rentry.org/KaruKaruBagOfGoodies [JBs]
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 >Botmaking
@@ -157,12 +160,13 @@ https://github.com/kwaroran/RisuAI-release/releases
 ▶Slaude
 slaude 2: https://rentry.org/slaude2
 slaude: https://github.com/PandarusAnon/slaude and https://github.com/bfs15/slaude
-jailbreaks: https://rentry.org/ClaudeJB + https://rentry.org/fumblebum + https://rentry.org/pitanonbots#claude-rp-prompts + https://rentry.org/meaux
+jailbreaks: https://rentry.org/ClaudeJB + https://rentry.org/fumblebum + https://rentry.org/pitanonbots#claude-rp-prompts + https://rentry.org/meaux + https://rentry.org/KaruKaruBagOfGoodies
 aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
 
 ▶Bots
 https://www.characterhub.org
 https://booru.plus/+pygmalion
+https://chub-archive.evulid.cc/#/
 https://chatbots.neocities.org/
 bots and resources on cai: https://rentry.org/cai-list
 meta-rentries: https://rentry.org/charcardrentrylist and https://rentry.org/meta_bot_list

@@ -40,6 +40,15 @@ Image | Name | Description | Link
 ![Reverse Knight Harem Spinoff](https://files.catbox.moe/1038ns.png) | The Venian Knights | (**FEMPOV**) A spin-off of the original [Reverse Knight Harem](https://www.chub.ai/characters/crustcrunch/reverse-knight-harem/main) by crustcrunch based on my own experiences with the bots and characters. Baked in lorebook and JB.  An adventure reverse harembot where you end the curse that causes men to outnumber women 4 to 1.  Alternate portraits + lorebook if catbox shits itself (no metadata): https://files.catbox.moe/kn18me.zip | [catbox](https://files.catbox.moe/1038ns.png)
 
 ***
+##CANON BOT LIST
+***
+###YANDERE HEAVEN
+Bots from Yandere Heaven Vol. 3
+Image | Name | Description | Link
+------ | ------ | ------ | -----
+![Yandere stepfather](https://files.catbox.moe/lflink.png) | Hajime | (**NSFW**) A bot from my favorite of the YH series: Haijme, your stepfather who is desperate for you to see (and love him) as a man.  Absolutely hates your twin brother, Naohiro.  If you can find the original audio drama and can understand basic Japanese, I highly recommend a listen.  And for you to link it to me so I can refresh my memory. | [catbox](https://files.catbox.moe/lflink.png)
+
+***
 ##OTHER
 ***
 thank you darkfantasy109 for the [template](https://rentry.org/botmaker_template/)

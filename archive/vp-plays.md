@@ -364,4 +364,5 @@ https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
 
 https://arch.b4k.co/vp/thread/54113040/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54115313/ 2 obligatory ghost area
-https://arch.b4k.co/vp/thread/54125304/ 3
+https://arch.b4k.co/vp/thread/54125304/ 3 oh god
+https://arch.b4k.co/vp/thread/54135049/ 4 sadistic mapping time

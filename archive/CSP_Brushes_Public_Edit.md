@@ -1,20 +1,27 @@
 !!! danger
-	# Asset store
+	.
 !!! danger
 
 
- ##  This is now an archive copy please use [CSP MATERIALS HUB](https://rentry.org/CSP_materials)
-***
-[TOC2]
-***
+#  This is now an archive copy please use [CSP MATERIALS HUB](https://rentry.org/CSP_materials)
 
 
 
 
 
 
-!!! Warning If you like a brush you may want to support by liking the brush in store and maybe purchasing if you have clippies to spare.
-##Free Recommended
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
  Name | Store Link | Thumbnail
  ----: | :----: | :----: 
 **Eye Strain barrier** | [1745733](https://assets.clip-studio.com/en-us/detail?id=1745733)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/33/57/1745733/thumbnail)

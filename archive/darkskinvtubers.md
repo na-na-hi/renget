@@ -80,7 +80,7 @@ Tommysonline|[Twitter](https://twitter.com/tommysonlineVT) [Twitch](https://www.
 Bombiwombi|[Twitter](https://twitter.com/BombiWombi) [Twitch](https://www.twitch.tv/bombiwombi)|
 KokoNuts|[Twitter](https://twitter.com/KokoNutsVT) [Twitch](https://www.twitch.tv/kokonuts)|
 KittyfluteVT|[Twitter](https://twitter.com/Kittyflutexbl) [Twitch](https://www.twitch.tv/kittyflutevt)|
-Yuiidere|[Twitter](https://twitter.com/yuiidere) [Youtube](https://www.youtube.com/@yuiidere) [Twitch](https://www.twitch.tv/yuiidere)|
+Yuiidere|[Twitter](https://twitter.com/yuiidere) [Youtube](https://www.youtube.com/@yuiidere) [Twitch](https://www.twitch.tv/yuiidere)|Bunny vtuber, Art / game streams
 KayukoVT|[Twitter](https://twitter.com/kayukoVT) [Twitch](https://www.twitch.tv/tentxclee)|
 Pema|[Twitter](https://twitter.com/PemaMysterious) [Twitch](https://www.twitch.tv/pema)|
 AurabunVT|[Twitter](https://twitter.com/AurabunVT) [Twitch](https://www.twitch.tv/aurabun)|
@@ -131,12 +131,12 @@ Chocojax|[Twitter](https://twitter.com/chocojax) [Twitch](https://www.twitch.tv/
 Poyobuny|[Twitter](https://twitter.com/poyobuny) [Twitch](https://www.twitch.tv/poyobuny)|
 Bbyruthless|[Twitter](https://twitter.com/bbyruthless) [Twitch](https://www.twitch.tv/bbyruthless)|
 Ichigolemonade_|[Twitter](https://twitter.com/IchigoLemonade_) [Twitch](https://www.twitch.tv/ichigolemonade_)|Moth Gyaru - Gunpla, TCG, Handcam
-Garou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting games
+Gyarugarou|[Twitter](https://www.twitter.com/Garougyaru) [Twitch](https://www.twitch.tv/gyarugarou)|Fighting games
 Dolce|[Twitter](https://www.twitter.com/DolceVtuber) [Twitch](https://www.twitch.tv/dolcevt)|
 Maika Mallow Ch.|[Twitter](https://twitter.com/MaikaMallow) [Youtube](https://www.youtube.com/@MaikaMallow)|
 AuteruTori|[Twitter](https://twitter.com/AuteruTori) [Youtube](https://www.youtube.com/@AuteruTori) [Twitch](https://www.twitch.tv/Auteru)|Variety and art, knows Arabic.
 SuperJinxy|[Twitter](https://twitter.com/super_jinxy) [Twitch](https://www.twitch.tv/super_jinxy/)|
-BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|Peruvian dark elf
+BusujimaBibi|[Twitter](https://twitter.com/busujimabibi) [Twitch](https://www.twitch.tv/busujimabibi/)|Dark elf
 WaffleInaToaster|[Twitter](https://twitter.com/SoggysWaffles) [Twitch](https://www.twitch.tv/waffleinatoaster/)|
 LucyPyre|[Twitter](https://twitter.com/LucyPyre_)  [Twitch](https://www.twitch.tv/lucypyre)|
 Virtualtaffy|[Twitter](https://twitter.com/virtualtaffy) [Twitch](https://www.twitch.tv/virtualtaffy)|
@@ -173,7 +173,8 @@ sunset_radiance|[Twitter](https://twitter.com/SunsetVTuber) [Twitch](https://www
 Fuwacoco|[Twitter](https://twitter.com/FuwacocoCh) [Twitch](https://www.twitch.tv/fuwacoco)|
 Honeychama|[Twitter](https://twitter.com/Honeychamavt) [Twitch](https://www.twitch.tv/honeychama)|
 winryepona|[Twitter](https://twitter.com/winryepwna) [Twitch](https://twitch.tv/winryepona)|
-Sawa|[Twitter](https://twitter.com/SourGrapeVA) [Youtube](https://www.youtube.com/@SourGrapeVA)|
+SawaGrapeSama|[Twitter](https://twitter.com/SourGrapeVA) [Youtube](https://www.youtube.com/@SourGrapeVA)|Voice actor, does silly voices
+ChiwawaCafe|[Twitter](https://twitter.com/chiwawacafe) [Youtube](https://www.youtube.com/@Chiwawacafe)|
 
 ---
 
