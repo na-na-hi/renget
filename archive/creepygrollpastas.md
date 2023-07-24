@@ -19,6 +19,7 @@ Food/Robot revolution|[(link)](https://archive.4plebs.org/x/thread/35215590/#353
 ALIUMS/Assimilation|[(link)](https://archive.4plebs.org/x/thread/35333372/#35333638)
 Mysterious matter|[(link)](https://archive.4plebs.org/x/thread/35333372/#35343006)
 Skinwalkers|[(link)](https://archive.4plebs.org/x/thread/35358927/#35369837)
+Narrator is the killer|[(link)](https://archive.4plebs.org/x/thread/35358927/#35374819)
 
 ![](https://files.catbox.moe/9lssp4.png)
 

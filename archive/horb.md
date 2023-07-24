@@ -160,7 +160,7 @@ Soul Crafting Form: When Joint Combo skill hits an enemy or when you use Joint W
 Life Ending Form: When Joint Combo ATK hits an enemy, restore 15 sp, CD 12s, and Joint Weapon ATK gain Total DMG +20%[S0] / 30% [S2] for 15s.
 
 **COMBO ATK 2**
-[SS] After using Joint Combo ATK, for every 0.5s of continuous attack, final hit deal additional 40% ATK Physical DMG
+[SS] After using Joint Weapon ATK, for every 0.5s of continuous attack, final hit deal additional 40% ATK Physical DMG
 
 **COMBO ATK 3**
 Soul Crafting Form: When Joint Combo ATK hits an enemy, or when you use Joint Weapon ATK, enemy will be impaired, DEF -50%. If Ultimate Domain Expansion is in effect, enemies with Withering Gap have their DEF reduction increased to 75% for 16s, can be refreshed when another character enters the field, this effect can only refresh at most one time.

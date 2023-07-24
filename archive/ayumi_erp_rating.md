@@ -1,6 +1,6 @@
-# The 'Ayumi' Inofficial LLM ERP Model Rating
+# The 'Ayumi' Inofficial LLM ERP (NSFW) Model Rating
 
-This rating table contains a rating of different LLMs that tries to determine which model is most suitable for erotic role playing (ERP).
+This rating table contains a rating of different LLMs that tries to determine which model is most suitable for erotic role playing (ERP) or generating lewd NSFW content.
 
 ***
 [TOC]

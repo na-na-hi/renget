@@ -90,6 +90,8 @@
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**[72h] CRT/LED Effects - Default Edition** | [2018285](https://assets.clip-studio.com/en-us/detail?id=2018285) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/82/2018285/thumbnail?1690049173)
+**[Limited time 30CP] Wave, sand brush [10 types] (【期間限定30CP】波、砂ブラシ【10種類】)** | [2017799](https://assets.clip-studio.com/en-us/detail?id=2017799) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/77/2017799/thumbnail?1690072655)
 **Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
 
@@ -100,6 +102,8 @@
 ### 100~500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Magic Finely painted pen ver.4 (マジック細塗りペンver.4)** | [1738501](https://assets.clip-studio.com/en-us/detail?id=1738501) | **==100 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/85/1738501/thumbnail?1552461483)
+**Water-Transparent pen ver. 2 (透けない水性ペンver.2)** | [1738551](https://assets.clip-studio.com/en-us/detail?id=1738551) | **==60 GOLD==**, **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/85/1738551/thumbnail?1552552663)
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)

@@ -102,7 +102,7 @@ I personally didn't reroll and don't recommend it, but I have the advantage of b
 >How do I reroll? (global only) 
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)
 Menu Tab (top right) > Account > Reset account
-For JP the method is outlined [here](https://bluearchive.wiki/wiki/FAQ#What_is_Rerolling?_Should_I_do_it?).
+For JP the method is outlined [here](https://bluearchive.wiki/wiki/Rerolling).
 
 >Is there pity? What's a spark
 There are 2 ways in gacha games to get a banner unit: spark and pity. With a spark you roll X amount of times (200 in BA) before you can redeem a guaranteed copy of the unit. With pity for every roll past Y rolls without getting a highest star unit you get an increased chance to roll one, up to a 100%.

@@ -22,6 +22,7 @@ Card| Name | Description | Download
 ![Robin](https://files.catbox.moe/0xvwrh.png) | **Robin** | Your male best friend Rob set you up on a date to help you with your self confidence. Little did you know they bought a magic potion on a sketchy website and turned themselves into your date. **Gender Change** | [CHUB link](https://www.chub.ai/characters/the_shadow_dude/Robin) [Catbox link](https://files.catbox.moe/0xvwrh.png)
 ![Lily](https://files.catbox.moe/rcwv5l.png) | **Lily** | Your wife was in a car accident. Don't worry, she wasn't seriously harmed, but in the process she lost all memories associated with sex. Bummer. Help her relearn intimacy and guide her through her second first time. **Memory Loss** | [CHUB link](https://www.chub.ai/characters/the_shadow_dude/Lily) [Catbox link](https://files.catbox.moe/rcwv5l.png)
 ![Freya](https://files.catbox.moe/knx2yf.png) | **Freya** | She abandoned her faction and duties to protect you. Now you're both on the run with a price on your heads. Sci-Fi Anime tropes ahoy!  | [CHUB link](https://www.chub.ai/characters/the_shadow_dude/Freya) [Catbox link](https://files.catbox.moe/knx2yf.png)
+![Ravenna](https://files.catbox.moe/1kou9x.png) | **Ravenna** | You read some fanfiction and it summoned a queen of hell. Now you're both inseparably linked. Can you become the best you can be?  Built for slow burns. ** Succubus**. | [CHUB link](https://www.chub.ai/characters/the_shadow_dude/13636ea7-5b89-4673-ad25-03afa67b7a61) [Catbox link](https://files.catbox.moe/1kou9x.png)
 
 
 ##Less Horny

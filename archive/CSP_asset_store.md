@@ -139,7 +139,9 @@
 **Oil Brush**|[1875289](https://assets.clip-studio.com/en-us/detail?id=1875289)|[DL](https://files.catbox.moe/5st9hg.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/89/52/1875289/thumbnail)
 **Crunchy pen set (바삭 펜 세트) **|[1865278](https://assets.clip-studio.com/en-us/detail?id=1865278)|[DL](https://files.catbox.moe/63il9w.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/52/1865278/thumbnail)
 **Flat Paint and Blend Brush :D**|[1934024](https://assets.clip-studio.com/en-us/detail?id=1934024)|[DL](https://files.catbox.moe/yuq6gq.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/24/40/1934024/thumbnail)
-
+**Texture blur brush Set (質感ぼかしブラシセット)**|[1770104](https://assets.clip-studio.com/en-us/detail?id=1770104)|[DL](https://pixeldrain.com/u/U4FmWdaM)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/04/01/1770104/thumbnail?1586657933)
+**Touro (うろなみ) **|[2017770](https://assets.clip-studio.com/en-us/detail?id=2017770)|[DL](https://pixeldrain.com/u/Giy135Av)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/70/77/2017770/thumbnail?1689854856)
+**MOMOPEN (MOMOPEN) **|[2016851](https://assets.clip-studio.com/en-us/detail?id=2016851)|[DL](https://pixeldrain.com/u/Zh7CsGTz)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/68/2016851/thumbnail?1689499437)
 ****|[]()|[DL]()|![]()
 |||
 

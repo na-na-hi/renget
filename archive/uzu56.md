@@ -26,13 +26,13 @@ The line of reasoning was clear; she could hear Hoge saying it: 'If a Top 10 Her
 
 "One hell of a winning personality..." Sally mutters as she gets up and looks outside. It was 3:00 PM and still pouring rain outside, just as hard as it was this morning.
 
-She grabs her thick leather purse and stuffs some essentials inside, putting the license plate drawing in a plastic bag before shoving it inside the shoulder-strapped handbag and slipping some flats on. She was planning on going out for food, groceries, or some other excuse to not stare at moon runes for the rest of the day anyway. She takes a deep breath to clear her mind as she heads toward the hospital that Chris and Rosethorn were at.
+She grabs her thick leather purse and stuffs some essentials inside, putting the license plate drawing in a plastic bag before shoving it inside the shoulder-strapped handbag and slipping some flats on. She was planning on going out for food, groceries, a quick lay, or some other excuse to not stare at moon runes for the rest of the day anyway. She takes a deep breath to clear her mind as she heads toward the hospital that Chris and Rosethorn were at.
 
 A part of her knew she had time to stop this, to throw the drawing down a drain or rip it up, and just forget about this whole thing. Maybe it was the pride she had in her honed quirk that gave her an inkling she had a chance against the old man named Desolator; maybe it was her bullet deflection that convinced her she had any kind of business risking her entire rehabilitation on this. She'd been lucky before: Both at the beach and at the festival, she was exonerated of vigilantism due to the fact she was acting in self-defense and for the defense of those who couldn't defend themselves. Rosethorn and the principal made things pretty clear: Be a good girl and play by the rules, or go back to America as a proven danger to society.
 
 As she rode the train over, a sharp eye was given to any man getting close to her as the knot in her stomach grew. One that said Noah can help her get over this, to turn the other cheek, to be righteous in her refusal to be brought down to the level that Desolator wants her to reach. She takes her phone out of her purse, her shaking fingers hovering over his contact info. One call, and she can be cleansed of this demon plaguing her mind and insisting she do something stupid.
 
-The train makes an abrupt stop as she is about to call her angel boyfriend, causing her phone to clatter on the floor. She bends over to pick it up, her short skirt exposing her panties to anyone watching, and she tries to put the thought out of any man staring at her out of her mind. The conductor announces an emergency stop due to some blockage on the tracks and tells everyone to wait. Sally peeks out the window and sees a section of twisted, burned, and blackened track. Lightning had struck it; the wrath of God made physical.
+The train makes an abrupt stop as she is about to call her angel boyfriend, causing her phone to clatter on the floor. She bends over to pick it up, ignoring the wandering hands of the other passengers giving her tight ass a squeeze. The conductor announces an emergency stop due to some blockage on the tracks and tells everyone to wait. Sally peeks out the window and sees a section of twisted, burned, and blackened track. Lightning had struck it; the wrath of God made physical.
 
 She doesn't stay put, forcing the door of her car open and slipping through as she makes the rest of the journey to the hospital on foot. God had sent her a message. She conscripts the demon in her mind as she puts her phone away to chat with the Mirror Devil himself.
 
@@ -50,7 +50,7 @@ Aiko (Hero name: Rosethorn) sits about in the recreation area of the hospital wi
 
 "If you can manage it, I'd love to hear a speech from Popsy~" Aiko says with a wink, shaking her nervousness off for a moment despite the dour mood and placing a hand on Akagi's inner thigh.
 
-"Right, right, let me jump on the table and start my song and dance like the good old days," Akagi says sarcastically as she looks away, seeing a familiar foreigner. An American in a long skirt and a tight knit sweater which pressed up against well developed breasts, her long brown hair wet as it seems she just got done wringing her skirt out in a bathroom. She asks a nurse in her barely functional Japanese where Christopher Cain's room is and is told to wait while the nurse makes sure he's awake and she's on the visitors list. She sits down, seeming to try and avoid the hero teacher and her unreliable conversation partner.
+"Right, right, let me jump on the table and start my song and dance like the good old days," Akagi says sarcastically as she starts to unbutton her shirt before she looks away when sees a familiar foreigner. An American in a long skirt and a tight knit sweater which pressed up against well developed breasts, her long brown hair wet as it seems she just got done wringing her skirt out in a bathroom. She asks a nurse in her barely functional Japanese where Christopher Cain's room is and is told to wait while the nurse makes sure he's awake and she's on the visitors list. She sits down, seeming to try and avoid the hero teacher and her unreliable conversation partner.
 
 "McCathy! Hello!" Rosethorn says as she puts on a mask of happiness, something Akagi can see through. The tired clown hero can see concern as she wheels over to one of her problem students.
 
@@ -96,13 +96,13 @@ Sally considers her words carefully, trying to think in Japanese and clearly str
 "Impakt," Chris quickly corrects.
 
 "I knew it from your notebooks; I just needed time to remember it!" She snaps a bit before taking a deep breath.
-"...Anyways, some guy with a .50 cal and .45 shot at me and tested my tactical reflexes. Knew all about me too. Called himselfDesolator. I saw him at the festival too... was seconds away from... from..." Sally struggles with her Japanese.
+"...Anyways, some guy with a .50 cal and .45 shot at me and tested my tactical reflexes. Knew all about me too. Called himself Desolator. I saw him at the festival too... was seconds away from... from..." Sally struggles with her Japanese.
 
 Chris waits for the girl to finish, already grabbing a notepad at the mere mention of Desolator.
 
 "{I was going to blow his fucking head off. He wants me to be his student, some kind of assassin for hire,}" she says in English, gritting her teeth in anger.
 
-"...Go on," Chris says quietly, praying that Popsy was keeping Rosethorn occupied enough to not listen to them.
+"...Go on," Chris says quietly, praying that Popsy was keeping Rosethorn occupied enough to not listen to them. And judging by the moans coming from Rosethorn's room, she was.
 
 "Yeah. After I visited Orochi, I saw him at Kawaramachi Church. He got a briefcase from someone and left in a car."
 
@@ -118,7 +118,7 @@ Chris cocks his head at the cagey American's words, daring to ask despite having
 Sally can feel rounds forming in her arm. Naked ones designed for killing, as a defensive response, one she has to fight to not get kicked out of the hospital for firing off her quirk: "{...I'm not here cause I'm some talented genius here to get a leg-up. I... I fucked up really bad. God's grace was being able to prove myself capable of being a hero... whatever the hell that means.}"
 
 Chris tries to look at the girl with welcoming eyes, but the investigator in him says to push her while the tough, trigger-happy part of her is out for lunch. A more compassionate part of him knows even talking about this hurts her and reminds her of trauma she wants to leave buried.
-"{...What'd you do?}" he asks in a slightly stilted way, both parts of him mixing the sentance into a slurry of both approaches.
+"{...What'd you do?}" he asks in a slightly stilted way, both parts of him mixing the sentence into a slurry of both approaches.
 
 The Gun Nun looks toward the Mirror Devil with an expression that's clinging to any hint of kindness she can find. "{I... I killed two people walking home one night, from a prayer vigil. They were robbers... but... I shot first, and I didn't have a license... W-Wounded the third...}" she says, the scene coming back to her, real as her worst dreams.
 "{Windrider... said he knew someone... in Shiketsu... got me in... The town protested for a commuted sentence... We settled with the judge to send me over here to learn to control... my quirk.}"

@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+1. Princess Wooper
+1. Chespin doing the "No Way Fag" Expression
 1. Someone asking Chespin "You call breaking a glass bottle over an enemy's head a combat art?" with Chespin saying "Hey, as long as it works."
 1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
 1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)

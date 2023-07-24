@@ -24,3 +24,12 @@ The girl quietly nodded, her face red like blood.
 'Wonderful! What about this weekend? I'll make it worth for you, I promise.'
 
 **End of Part 1**
+
+The weekend fast approached, much to the young Hufflepuff's distress. She knew herself, she has no social skills and she can't even form a coherent sentence around men. She is not even attending classes, she just hides in the hallways in her animagus form occasionally running away from kneazles and cats. Luckily for her, the boy picked a place nice and quiet; The Library. Most first second, and third years were too immature to appreciate books, and most fourth, fifth, sixth, and seventh years preferred other quiet places. Places where they can give in their suppressed hungry urges and where they can let their hormones guide them. At first she planned on hiding in a corner behind a bookshelf until the mysterious Slytherin gets bored and leaves, but things didn't go as planned. She barely even got close to the bookshelf she was eyeing with when she heard the voice that made her freeze.
+'It's you, glad you could make it.'
+It was the blonde wizard from before, although he wasn't as rugged as the day they met. The awkward witch tried her best to form a coherent answer, with questionable results;
+'I- I am! Mice to neet you!' And then she realized what she said. 'Dice to beet you!' Now she started to panic. The words froze in her throat, she tried to speak but she felt like she can't breathe.
+'Nice to meet you too.' he said warmly. 
+Whether the fact that he didn't judge her rambling, or the warm smile, something made her relax —enough to finally breathe again that is.
+
+**Author's note: This was a quick update to show that I didn't abandon this story. Soon there is more to come.**

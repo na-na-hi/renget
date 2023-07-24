@@ -38,7 +38,7 @@ https://civitai.com/models/54523/pharah-overwatch-wrise
 - Sombra
 https://civitai.com/models/9722/sombra-overwatch-lora
 https://civitai.com/models/60861/sombra-overwatch-wrise
-+ Sojourn
+- Sojourn
 https://civitai.com/models/73186/sojourn-or-overwatch
 - Symmetra
 https://civitai.com/models/15817/symmetra-overwatch-lora
@@ -124,6 +124,10 @@ https://civitai.com/models/21912/windranger-arcana-dota-lora
 https://civitai.com/models/27705/traxex-the-drow-ranger-dota2-lora
 - Muerta
 https://civitai.com/models/41186/muerta-from-dota-2
+	+ Juggernaut
+https://civitai.com/models/107642/dota2-jugg
+	- Void
+https://civitai.com/models/112454/darkterror-faceless-void-dota
 - Netflix series
 	+ Lina 
 https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
@@ -137,8 +141,6 @@ https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
 https://civitai.com/models/40669/fymryn-dota-dragons-blood
 	- Filomena
 https://civitai.com/models/48082/filomena-dota-dragons-blood
-- Juggernaut
-https://civitai.com/models/107642/dota2-jugg
 
 # Fortnite
 
@@ -253,13 +255,13 @@ https://civitai.com/models/87604/vernon-roche-or-the-witcher-3-wild-hunt
 - Aradia Megido
 https://civitai.com/models/107119/aradia-megido-homestuck
 https://civitai.com/models/44895/aradia-megido-homestuck
-+ Feferi Peixes 
+- Feferi Peixes 
 https://civitai.com/models/69595/feferi-peixes-homestuck
 - Jade Harley
 https://civitai.com/models/33511/jade-harley-homestuck-lora
-+ Kanaya Mryam 
+- Kanaya Mryam 
 https://civitai.com/models/69646/kanaya-maryam-homestuck
-https://civitai.com/models/32231/kanaya-maryam-homestuck-lora
+https://civitai.com/models/111117/kanaya-maryam-homestuck-character-lora
 - Nepeta Leijon
 https://civitai.com/models/62099/nepeta-leijon-homestuck
 - Terezi Pyrope 

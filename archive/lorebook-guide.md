@@ -73,11 +73,6 @@ There is an exception as some field work with prose, but it's mostly list like a
 	Now your attributes lorebooks will have separator between them! Which are quite critical.
     (The setting won't apply to already existing lore, make sure you click Update All Entries, (scroll down in Category page.))
 
-~50 Tokens are compact and effective. *(Really good!)*
-~100 Tokens are extended and well-informed. *(Okay...)*
-~200+ Tokens are a lot, really, but it depends. *(Um.... Are you sure?)*
-Okeri and I agree that 150 is maximum effectiveness in general.
-
 Tho, you could do more if you *want*. There are usually two factor:
 \- Depends on how many characters you want loaded at once. Multiple big lores shouldn't be *too* good, but single lore should be fine.
 
@@ -234,7 +229,6 @@ Think of this method as 'minimalism' approach, yet strikingly effective. It work
 
 > **Cole Thereven**: Director of the Department of Anomalous Communications and Relations, researcher at Site-63. Involved in some ethically questionable research projects. Far more important to the Foundation than he initially seems.
 
-The average length is about 15-70 tokens per entry; but the hard limit is 100 tokens, consider condensing your information, or else there's too much info and it's not as effective.
 There is some setup, but it's pretty simple:
 1. Create a new **Category** -\> Switch to **Subcontext tab**-\> Enable **Create Subcontext**
 2. Put `----\nCharacters:\n` into **Prefix** field & Set **Insertion Order** to `500`.
@@ -348,16 +342,6 @@ This technique is perfect for a director or someone who is picky about what goes
 With this, you can even make multiple versions of the same lore! Like rotating between entries of the same character or Memory.
 
 ---
-##⋈ Shared traits
-
-Bonus method!
-Or an indie way of doing lorebooks. It's not mainstream like others - but it exists. So, I want to at least put this on the guide. Feel free to try it, but be mindful; [Download Shared traits demo here.](https://cdn.discordapp.com/attachments/356304198398115841/1034045314233024532/Full_Traits_Demo.lorebook) It would take too much space just to explain the technical settings behind the method, it's easier to just give you the file.
-
-There are two parts to it:
-1) Traits: This is-sort-of instruction to the AI, and well as defining a word. You could make a specific personality behavior here, and you could assign it to any of your characters.
-2) Profile: This is where you associate your character's name with traits. Its position is very intrusive in context, so try to keep it under 20 tokens.
-
----
 ##★ Storytext / Lore separator
 This is what default context looks like:
 > Lore: lore
@@ -409,7 +393,7 @@ Tada! Everything is much more coherent to the AI now, (I can say that, as this i
 	- *Answer:* You should look into Custom modules first; Find a module that works for you, or make one yourself; Especially if it’s novelized, or you could search up fanfictions of that setting. There is a difference between being told what the rule is, versus letting the language model understand it - I told you this just so that you won’t spend hours copy-pasting information from the fandom wikis over and over.
 	But yeah, After looking into modules. You can write Lorebooks as needed.
 - *Question:*  **What is the optimal number of tokens for a lorebook entry?**
-	- *Answer:* The fewer words you can use to convey the same meaning - the better. For standard-topic-entires, try to keep it under 150 tokens.
+	- *Answer:* The fewer words you can use to convey the same meaning - the better.
 `Sir Thomas Makayley is the aged senior of the knights in King Charles' service. He's a gruff man with broad shoulders and stout legs.`
 Might not be as effective as:
 `Sir Makayley is the king's most venerable knight. He is gruff, stout, and broad shouldered.`
