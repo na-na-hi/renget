@@ -1,7 +1,7 @@
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
 [**[edit this rentry here]**](https://rentry.org/gq3wh/edit)<-
 ### OP
-`\xxx\ title here`
+`/dbag/ - Digital Brushes and Assets General`
 ```
 >"How do I make/edit my own brushes?"
 CSP: https://www.youtube.com/watch?v=M55J0dpZddA
@@ -13,16 +13,21 @@ Photoshop: https://astropad.com/how-to-create-custom-brushes/
 2.)Search brush posts on their Pixiv Fanboxes/Booth/Patreon. Then try to see if it's on kemono or archives.
 3.)If none of the searches work, then ask here.
 
->"My CSP is cracked how do I get this brush?"
-As long as you log in it works even on cracked copies.
-
 >CSP 
 Official Store: https://assets.clip-studio.com/en-us/
 Shared Asset Hub: https://rentry.org/csp_materials
 
->Procreate & Photoshop
-Gumroad and Deviantart for free and paid brushes and assets
-(possible other rentrys can be linked here)
+>"My CSP is cracked how do I get this brush?"
+As long as you log in it works even on cracked copies.
+
+>Procreate
+Free: https://folio.procreate.com/discussions/10
+Recommendations: https://folio.procreate.com/discussions/10/28/25109 
+
+>Krita
+Free: https://krita-artists.org/c/resources/brushes-and-bundles/32
+
+Deviantart and gumroad are also good places to check for assets!
 
 
 Previous: 

@@ -12,9 +12,7 @@
 *2023-04-10* Thanks to an Anon, resolved a definitions issue, everything's been re-uploaded.
 
 ### TODO:
-> Swire
-> Projekt Red
-> Skadi
+> Fix up ALL the old cards (La Pluma and before, I think.)
 
 ## Characters
 ### Arknights
@@ -25,7 +23,7 @@ Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----:
 https://booru.plus/+pygmalion1029 (OLD) | https://files.catbox.moe/nahtt2.png | https://files.catbox.moe/zt2yjj.json
 
-#### Reed 
+#### Reed (Legacy)
 Reed! Best girl from AK. Meek, introverted, quiet, whatever you wanna say about her, she's cute as hell. 
 ![Reed](https://files.catbox.moe/mxnxon.png)
 Tavern (Booru) | Tavern (Catbox) | JSON
@@ -105,6 +103,27 @@ Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----:
 NA | https://files.catbox.moe/icha9h.png | https://files.catbox.moe/kek106.json
 
+### Projekt Red
+Everyone's favourite autistic Lupo. Thanks to 'R' and 'O' for helping test this a bunch. 
+![Projekt Red](https://files.catbox.moe/dtepk9.png)
+Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----:
+NA | https://files.catbox.moe/dtepk9.png | https://files.catbox.moe/84ffzr.json
+
+### Skadi
+Lonely, cold, sarcastic Seaborn supersoldier. You find yourself outside of her room, curious.
+![Skadi](https://files.catbox.moe/crwsvv.png)
+Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----:
+NA | https://files.catbox.moe/crwsvv.png | https://files.catbox.moe/wwfe70.json
+
+### Reed (V2)
+Reed! Best girl from AK. Meek, introverted, quiet, whatever you wanna say about her, she's cute as hell. Modified significantly from the legacy version above, with partial credit to [Riku](https://www.chub.ai/characters/debiSixth/8d7f38d0-f230-4449-a185-7a32b0e147e9)'s creator for scenario.
+![Reed](https://files.catbox.moe/ae0vko.png)
+Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----:
+NA | https://files.catbox.moe/ae0vko.png | https://files.catbox.moe/phdvj3.json
+
 ### OCs
 #### Yui
 You are (reluctantly) friends with Yui, a highschool model gyaru who pokes and teases you just like every highschool gyaru manga you've ever read. You're working out alone in the gymnasium, when Yui walks in, and does her thing.
@@ -112,6 +131,13 @@ You are (reluctantly) friends with Yui, a highschool model gyaru who pokes and t
 Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----:
 NA | https://files.catbox.moe/ph9qa2.png | https://files.catbox.moe/hgvdns.json
+
+#### Lyrissa
+Cute blonde elf. Erogenous ears. Based upon [one of my favourite /aids/ prompts](https://aetherroom.club/220)
+![Lyrissa](https://files.catbox.moe/eepqid.png)
+Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----:
+NA | https://files.catbox.moe/eepqid.png | https://files.catbox.moe/8op6w2.json
 
 ### Other
 

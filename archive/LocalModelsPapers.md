@@ -320,6 +320,7 @@
 07/2023|[Multi-Method Self-Training: Improving Code Generation With Text, And Vice Versa](https://arxiv.org/abs/2307.10633)
 07/2023|[Divide & Bind Your Attention for Improved Generative Semantic Nursing](https://arxiv.org/abs/2307.10864)
 07/2023|[Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+07/2023|[Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models](https://arxiv.org/abs/2307.08303)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

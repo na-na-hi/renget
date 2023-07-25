@@ -3,12 +3,12 @@
 *Imgur links are down per the new policy, if you have albums saved please reupload them to mega, dropbox, etc.
 
 Alphinaud & Alisaie: https://www.dropbox.com/sh/rngdh0l7cgrt7oy/AADuhlFlELDTRlZ_0J3nEFaVa?dl=0
-Alisaie Expansion: https://imgur.com/a/7IY89om
-Ameliance: https://imgur.com/a/vTY9RTG
+Alisaie Expansion: https://imgur.com/a/7IY89om 
+Ameliance: https://imgur.com/a/vTY9RTG 
 
 BDSM Buns (MxM): https://imgur.com/a/qnrCH6Y
 
-Bun-middie (MxF): https://imgur.com/a/obDqb3r
+Bun-middie (MxF): https://mega.nz/folder/Jy9SGKyQ#Km_LFMFIqWbOf0DJruXjXQ
 
 Bunny Boy Sidequest (MxF): https://imgur.com/a/dnVZ7D7
 

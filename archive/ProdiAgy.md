@@ -29,6 +29,7 @@ LoKr is about 1-3mb and is basically a LoHa, possibly the best thing for charact
 Both function well for characters and styles given their size.
 
 ##Recommendations:
+!!! info It is recommended to always use regularization for subjects and specific body part styles (ex: faces).
 iA3 for everything at great quality while maintaining small size, 200kb.
 !!! info iA3 doesn't need captions if you don't want them.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
@@ -48,9 +49,9 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1000\" \"eta_min=0.500\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\"",
   "adaptive_noise_scale": 0.000,
-  "epoch": 100,
+  "epoch": 160,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
@@ -63,6 +64,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "prior_loss_weight": 0.3,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -96,7 +98,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "caption_dropout_rate": 0,
   "conv_alpha": 64,
   "conv_dim": 64,
-  "epoch": 160,
+  "epoch": 120,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
@@ -112,6 +114,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "prior_loss_weight": 0.3,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,

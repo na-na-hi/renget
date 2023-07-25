@@ -19,8 +19,6 @@ JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.Blu
 
 Global - [Play Store](https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en_US&gl=US) | [App Store](https://apps.apple.com/us/app/blue-archive/id1571873795) | [QooApp](https://apps.qoo-app.com/en/app/12252)
 
-CN - lol
-
 Global may require a VPN to play, as it is region-locked. JP is region-locked as well, so if you wish to play it use a VPN. The only server to avoid would be Korea's server as raids are much, much, MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
 
 You can play the game through emulators such as [Nox](https://www.bignox.com/), [Bluestacks](https://www.bluestacks.com/bluestacks-5.html), [Memu](https://www.memuplay.com/) or [LDPlayer](https://www.ldplayer.net/). Make sure to crank up the memory allocation as well. 
@@ -58,7 +56,8 @@ Alternatively you need to reset your network, see [this video on how to do that]
 
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
-I'd also advice to do the same even if you don't reroll, just so you have something to work with. 
+I'd also advice to do the same even if you don't reroll, just so you have something to work with.
+Make sure to claim stuff from missions and your mailbox too. 
 
 **BA has sparks, not pity.** 
 **Sparks do not carry over between banners.**
@@ -183,10 +182,12 @@ A good start to every account is upgrading ur Serina to 2\*, as she's your best 
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
-[Use this one for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this one for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
+[Use this for skill priority](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
+[this for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
 The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
 
 ![how to use excel](https://i.imgur.com/QHrepqU.png)
+(for the 2nd guide) 
 Make sure to read the extra notes on the right as well. 
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
