@@ -373,6 +373,10 @@ https://www.instagram.com/y0u6n0a9y/
 ***
 
 ##CONCERTS, SHOWS & VODS LINKS 
+!!! warning Warning
+    This section is under heavy WIP
+	Some links might be dead / unseeded
+
 **Love Live! Official YouTube Channel**
 https://www.youtube.com/c/lovelive_series/ 
 
@@ -581,9 +585,9 @@ RAW - https://nyaa.si/view/1170341
 ####EVENTS/PERFORMANCES/MISC
 **2023 Fanmeet**
 ==NEW== Nijigasaki Tokimeki Fan Meeting Tour
-D1&D2 Hiroshima - https://nyaa.si/view/1664169 / https://nyaa.si/view/1664737 alt: https://nyaa.si/view/1672987
-D1&D2 Tokyo - https://nyaa.si/view/1672987
-D1&D2 Aichi - https://nyaa.si/view/1672987
+D1&D2 Hiroshima - https://nyaa.si/view/1664169 / https://nyaa.si/view/1664737 ==(/llst/ exclusive)== alt: https://nyaa.si/view/1672987
+D1&D2 Tokyo - https://nyaa.si/view/1672987 
+D1&D2 Aichi - https://nyaa.si/view/1672987 
  
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657

@@ -231,6 +231,7 @@
 | [>>>/d/10636370](https://rentry.org/ringotext2#10636370) | Chloe, Marine | sweat, smell |
 | [>>50377010](https://rentry.org/ringotext2#50377010) | Suisei | sweat, smell, ringo |
 | [>>>/d/10657347](https://rentry.org/ringotext2#10657347) | Various | brap, sweat, ringo, choco |
+| [>>>/d/10694833](https://rentry.org/ringotext2#10694833) | Haato | brap |
 
 ## >>249165
 

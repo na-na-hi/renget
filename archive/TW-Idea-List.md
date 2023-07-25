@@ -64,6 +64,12 @@ A mechanic where you could cheat at a game, where your success would be dependen
 - Skill + Trait Integration
 
 A mechanic for participant success in games to be affected by traits and skills alongside fortune.
+## Prayer Event Rework
+A rework of the player-unfriendly prayer event.
+*I'd like for it to not knock you out in the first place, since it's a random chance and you have to dedicate time and money to them, but that's just my opinion. Simple, you should get an image or a description of a big boobed goddess or a flat titted one that clues you in what aspects those gods watch over. Maybe make it dependant on having at least C in knowledge or your overall wisdom regarding fondling/sucking boobs to get a clearer picture with more details. So you can guess the flat one might be looking for people who like small boobs.
+The questionnaire should be removed or reworked into giving proper rewards, like oh, maybe the materials that you can mix up into the boob medicine. Or actually working as the best option that can both decrease and increase the size as desired. Or enabling/disabling lactation. Right now it's completely useless and a complete waste of a roll.
+And finally, the event should be 100% forced to trigger within a week of praying for it, with more frequent prayers actually affecting the chance. Pray for boobs for the entire day and you will be guaranteed to get it that night.
+And all of that (except lactation) of course should apply to butts too.*
 ## Research System
 A feature to allow the player to research recipes.
 - Mixing would be a method to achieve quick results, whereas research would take more time but produce more consistent results; i.e. expediency at the expense of time vs. consistency at the expense of time.

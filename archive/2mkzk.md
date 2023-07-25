@@ -11,12 +11,12 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: MMBN2 rando postgame at 2UTC (Telemelt)**
 **FRI: Rockman X7 (PS2) at 2UTC (Parsec)**
-**SAT: Misadventures of Tron Bonne at 2UTC (Parsec)**
-**SUN: Boktai at 18:00UTC (Telemelt)**
+**SAT: - at 2UTC ()**
+**SUN: Golden SUN at 18:00UTC (Telemelt)** probably
 
 ##Cytubes
 
-**SAT: Rockman.exe Axess at 16UTC** Episodes 36-43
+**SAT: Rockman.exe Axess at 16UTC** Episodes 44-51
 **SUN: - at 15UTC**
 >-
 nothing

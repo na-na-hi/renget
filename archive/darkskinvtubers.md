@@ -175,6 +175,7 @@ Honeychama|[Twitter](https://twitter.com/Honeychamavt) [Twitch](https://www.twit
 winryepona|[Twitter](https://twitter.com/winryepwna) [Twitch](https://twitch.tv/winryepona)|
 SawaGrapeSama|[Twitter](https://twitter.com/SourGrapeVA) [Youtube](https://www.youtube.com/@SourGrapeVA)|Voice actor, does silly voices
 ChiwawaCafe|[Twitter](https://twitter.com/chiwawacafe) [Youtube](https://www.youtube.com/@Chiwawacafe)|
+Nihm_CELS|[Twitter](https://twitter.com/CelsNihm) [Twitch](https://www.twitch.tv/nihm_cels)|
 
 ---
 

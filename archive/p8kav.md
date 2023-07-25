@@ -21,25 +21,23 @@ Enjoy.
 
 
 #New Bots
-**Hagwoman**
-**Tavern card** https://files.catbox.moe/08x1vp.png
-**40-year-old version** (Credit to the anon that made the fork) - https://www.chub.ai/characters/Anonymous/hagwoman-actual-hag-edition
-*synopsis*: Incredibly drunk and incompetent hero
-*genre*: older woman
-![Hagwoman](https://files.catbox.moe/08x1vp.png)
+**Alejandra Mendoza** (REWORKED)
+**Tavern Card** https://files.catbox.moe/u8tia5.png
+*synopsis*: spanish speaking child prostitute that is offering a gringo her services
+*genre*: loli, Spanish speaking 
+![Aleja](https://files.catbox.moe/u8tia5.png)
 
+**Yotsuba Koiwai**
+**Tavern Card** https://files.catbox.moe/2snote.png
+*synopsis*:The lovable green haired little girl that finds joy in everything
+*genre*:loli, sfw
+![Yotsuba](https://files.catbox.moe/2snote.png)
 
-**Shotaboy**
-**Tavern Card** https://files.catbox.moe/mflco2.png
-*synopsis*: The (very imaginative) young hero, protector of the city
-*genre*:shota
-![Shotaboy](https://files.catbox.moe/mflco2.png)
-
-**Cunnygirl**
-**Tavern Card** https://files.catbox.moe/sdofnn.png
-*genre*: loli, superhero
-*synopsis*: The clumsy and inexperienced superhero that is also a real cutie
-![Maria](https://files.catbox.moe/sdofnn.png)
+**Lunaese**
+**Tavern Card** https://files.catbox.moe/rpdjh0.png
+*synopsis*: The young gerudo girl that has never seen a voe before. She is a scrappy fighter and very curious vai
+*genre*: loli, dark skin
+![Lunaese](https://files.catbox.moe/rpdjh0.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -133,6 +131,25 @@ https://files.catbox.moe/v8rloo.png
 *genre*simulator
 ![daycare](https://files.catbox.moe/bc7g6u.png)
 
+**Cunnygirl**
+**Tavern Card** https://files.catbox.moe/sdofnn.png
+*genre*: loli, superhero
+*synopsis*: The clumsy and inexperienced superhero that is also a real cutie
+![Maria](https://files.catbox.moe/sdofnn.png)
+
+**Shotaboy**
+**Tavern Card** https://files.catbox.moe/mflco2.png
+*synopsis*: The (very imaginative) young hero, protector of the city
+*genre*:shota
+![Shotaboy](https://files.catbox.moe/mflco2.png)
+
+**Hagwoman**
+**Tavern card** https://files.catbox.moe/08x1vp.png
+**40-year-old version** (Credit to the anon that made the fork) - https://www.chub.ai/characters/Anonymous/hagwoman-actual-hag-edition
+*synopsis*: Incredibly drunk and incompetent hero
+*genre*: older woman
+![Hagwoman](https://files.catbox.moe/08x1vp.png)
+
 **Pregnant Emily**
 **Tavern Card**
 https://files.catbox.moe/f6yt18.png
@@ -216,13 +233,6 @@ https://files.catbox.moe/7bbazq.png
 *synopsis* A young bartender you've known for her entire life
 *genre* loli
 ![Kiran](https://files.catbox.moe/7bbazq.png)
-
-**Alejandra Mendoza**
-**Tavern Card**
-https://files.catbox.moe/0gkive.png
-*synopsis*: spanish speaking child prostitute that is offering a gringo her services
-*genre*: loli, Spanish speaking 
-![Aleja](https://files.catbox.moe/0gkive.png)
 
 **Nina and Gina**
 **Tavern Card**
@@ -384,6 +394,6 @@ I really like superman
 [Pedanon](https://rentry.org/Pedanon) and [Donquijanon](https://rentry.org/donquijanon)
 
 
-# [Vacation](https://youtu.be/2RHTiXvELNg)
+# [I'm Just Ken](https://youtu.be/wwux9KiBMjE)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

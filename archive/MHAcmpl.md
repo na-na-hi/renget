@@ -542,6 +542,8 @@ mmmmm milk: https://desuarchive.org/tg/thread/89586376/#89589591
 Mystery & Detective Stories for Kids: https://desuarchive.org/tg/thread/89615875/#89621560
 Noah the Saint: https://desuarchive.org/tg/thread/89615875/#89625515
 Sally Getting Drilled from Behind (In Color): https://desuarchive.org/tg/thread/89625880/#89628318
+Kaylee in the hospital bed: https://desuarchive.org/tg/thread/89637421/#89644891
+Katsuragi Enjoyers: https://desuarchive.org/tg/thread/89679599/#89683133
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -787,6 +789,10 @@ Official Hive Video Channel List (The Clique): https://rentry.org/7s2qg
 Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi): https://rentry.org/bga3m
 DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako): https://rentry.org/f5xpe
 Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy): https://rentry.org/svwyy
+Wrong Answers (Mirror Devil, Challenger): https://rentry.org/umx6c
+Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D): https://rentry.org/udt96
+I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn): https://rentry.org/uzu56
+
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

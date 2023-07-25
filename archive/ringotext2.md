@@ -351,3 +351,43 @@ Sana's limiter makes her body externally smaller but we don't know that it does 
 >she turns on the bathroom fan and warns the other girls to let this room air out for at least an hour after she's done
 
 -> * * * <-
+
+## >>10694833
+
+>Haachama announces her return to streaming after nearly half a year
+>First scheduled stream is a zatsudan to ease back into it
+>Unprecedented levels of hype from fans happy to welcome her
+>Record number of viewers in pre-chat
+>Supas flooding in of all colors and currencies
+>A nervous Haachama goes live
+>…straight into the live 2D chatting scene
+>Forgot the intro loading movie
+>Fumbles with OBS trying to switch it on
+>No BGM yet either
+>Awkwardness approaching "Korone debut stream" status
+>Eventually gets the loading movie and BGM turned on
+>Movie finishes looping and transitions into a timid "H-haa-chaama-chama~!"
+>Haachama starts to get sniffly as she speaks
+>"I… I wasn't sure if anyone would still want to see me…"
+>Flood of "Okaeri" and support messages in chat
+>Sniffles turn to light giggles as Haachama wipes the tears from her eyes
+>"I'm so glad you're all here."
+>She begins to tell chat stories of her adventures during the time off
+>Some embellished
+>Some honest
+>Most elicit a wall of 草
+>As she continues talking, Haachama relaxes a bit more compared to the anxious opening
+>She feels the butterflies in her stomach start to flutter away
+>Rather, her slackened gut liberates a pocket of gas into her lower intestine
+>Her nerves have been cooking a monstrous brew all day
+>Now she senses it ballooning against her butthole on the chair
+>"Shit, which button do I use to mute again?"
+>Haachama strains her memory trying to remember in time
+>But her expanding asshole won't give her a chance to test
+>In a frantic last-ditch attempt she clicks one of the OBS audio settings
+>She closes her eyes, crosses her fingers, and loosens her anus
+>A rush of hot wind blows out the back of her skirt and wetly sputters to a stop
+>If she were still looking, Haachama could have seen the brap peak the microphone loudness meter
+>Because instead of the mic, she muted the BGM and gave tens of thousands of viewers a welcome home present
+
+-> * * * <-

@@ -540,8 +540,8 @@ The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*.
 If you want to splurge ur gifts on 1 specific girl:
 - Buy all mats from events
 - Use extra mats from event to keep crafting gifts nodes
-- buy out yellow/advanced tailor stones from the JFD shop when available 
-- craft gift selectors using yellow tailor stones
+- Buy out yellow/advanced tailor stones from the JFD shop when available 
+- Craft gift selectors using yellow tailor stones
 It's more efficient to reroll normal gifts into a girl's favourite ones. 
 Don't use liked gifts for gift selectors. 
 

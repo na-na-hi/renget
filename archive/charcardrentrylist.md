@@ -18,10 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Sull](https://rentry.org/p8kav)   | Mostly cunny |[Lunaese](https://files.catbox.moe/rpdjh0.png), [Yotsuba](https://files.catbox.moe/2snote.png)|[Alejandra Mendoza](https://files.catbox.moe/u8tia5.png)
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Wikipe-tan](https://files.catbox.moe/q05bvi.png), [HighTierMan](https://files.catbox.moe/2gmyw8.png), [Sex Education with Yui](https://files.catbox.moe/vf5xax.png)|[Koharu](https://files.catbox.moe/jzw2t0.png), [Arisu](https://files.catbox.moe/m8pvs7.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[SCP-9261](https://files.catbox.moe/yomq42.png), [Zara and Thalia](https://files.catbox.moe/q5sa2w.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Amira Wagner](https://files.catbox.moe/xo87y3.png), [Cementina](https://files.catbox.moe/m5oej1.png), [Tatsuo Yamauchi](https://files.catbox.moe/ohcmhw.png)|[Aiko](https://files.catbox.moe/mcfhzf.png), [Tatsuo Yamauchi](https://files.catbox.moe/ohcmhw.png) [MV]
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Aspen](https://files.catbox.moe/h73avs.png), [Sunny](https://files.catbox.moe/mwu62l.png), [Omori](https://files.catbox.moe/lcjkh1.png), [Hunter](https://files.catbox.moe/54r09x.png)|[Damian Crann](https://files.catbox.moe/9f0yps.png)
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Aspen](https://files.catbox.moe/h73avs.png), [Sunny](https://files.catbox.moe/mwu62l.png), [Omori](https://files.catbox.moe/lcjkh1.png)|[Damian Crann](https://files.catbox.moe/9f0yps.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Mr. Chedda](https://files.catbox.moe/z8zt56.png)|
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Russian Roulette](https://files.catbox.moe/m5pw95.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[The Duke of Dusk](https://files.catbox.moe/1x5edj.png), [Castor and Pollux](https://files.catbox.moe/9nmlqy.png)|
@@ -61,7 +62,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Laathix](https://rentry.co/LaathixsStuffs) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||

@@ -25,7 +25,9 @@ Phi (Robot): https://archive.4plebs.org/tg/post/89415344 (more information at ht
 Victor (Robot): https://archive.4plebs.org/tg/post/89422772
 David "Profit" Wiles (Settlement Survivor): https://archive.4plebs.org/tg/post/89423767
 Bob Kilpatrik (Settlement Survivor): https://archive.4plebs.org/tg/post/89426616
+"Ruby" (Settlement Survivor): https://desuarchive.org/tg/thread/89670819/#89676985
 Becka "Queen Bee" (Raider): https://archive.4plebs.org/tg/post/89429924
+Subject 2285-J (Mutant): https://desuarchive.org/tg/thread/89679599/#89681858
 #### Nymph-Infested Swamps
 The Nymphs - Glimmer, Bliss, Doe, Kitty, Sprite (Mutants): https://archive.4plebs.org/tg/post/89385405
 Amu (Robot): https://archive.4plebs.org/tg/post/89383565
@@ -50,6 +52,7 @@ Dr. Remilia Rochefort (Bunker-Baby): https://archive.4plebs.org/tg/post/89385830
 Quinn Chase (Bunker-Baby): https://archive.4plebs.org/tg/post/89386021
 Chloe (Settlement Survivor): https://archive.4plebs.org/tg/post/89414221
 Billy Kido (High Plains Drifter): https://archive.4plebs.org/tg/post/89492515 (more information at https://rentry.org/ru3fr)
+Verbal-28 (Robot) https://desuarchive.org/tg/thread/89475864/#89480371
 Tinker West-Gacy (Mutant): https://archive.4plebs.org/tg/thread/89565846/#q89567493
 #### Unclear
 Ultra Magnus (Settlement Survivor): https://archive.4plebs.org/tg/post/89400766 (more information at https://rentry.org/gvigd)
@@ -111,5 +114,9 @@ Ride Along (Isha, Kara): https://rentry.org/ztf4s
 Hunting Trogs in a World Where the Ground is Lava (Lockley Aimes): https://rentry.org/oobecr
 Mike Gets an Apprentice (Mike the Driver, Tinker Gacy): https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/edit?usp=sharing
 The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus): https://pastebin.com/58dq47ZA
+Mutant Pilgrimage Part 1 (Ramses, Karnak, Dr. Acheron, Sasha): https://rentry.org/MutantPilgrimage
 ### Mission Logs
 Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions
+
+### Prompts
+Post your characters skill tree as if they were an RPG character: https://desuarchive.org/tg/thread/89475864/#89477020
