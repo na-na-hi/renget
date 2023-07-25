@@ -17,15 +17,17 @@ Promised stream in the morning but [setting up took too much time.](https://twit
 
 **Day 5 - 2023-07-23**
 [Stream postponed again.](https://twitter.com/nanashimumei_en/status/1682937300014239744)
-Did [Twitter space](https://twitter.com/i/spaces/1RDGlaayYzzJL) instead.
-[Brown hair gang don't care!](https://twitter.com/anyamelfissa/status/1683041975585611776)
+So did [Twitter space](https://twitter.com/i/spaces/1RDGlaayYzzJL) instead.
+[Voice tweet with anya](https://twitter.com/anyamelfissa/status/1683041975585611776)
 
 **Day 6 - 2023-07-24**
 Got bridal carried [by Ollie](https://twitter.com/nanashimumei_en/status/1683450914504589312) and [pampered by Bae](https://twitter.com/nanashimumei_en/status/1683375043479470080), her new [sub-manager](https://twitter.com/nanashimumei_en/status/1683349947071221770).
 
 **Day 7 - 2023-07-25**
+Had to [wake Bae up](https://twitter.com/nanashimumei_en/status/1683638208339513344) at where's she's staying for her call-in with Mori.
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
+| Mumei, Bae, Mori|  【MORI24】24 HOUR STREAM - PART 4 | [Timestamp](https://www.youtube.com/watch?v=X87xP_Suo-w&t=20193s)|Impromptu call-in with Bae during Mori's 24 hr stream.|
 |Mumei, Bae|  ≪OFF COLLAB≫ Mermaids: The Body Found Watchalong w/ Mumei | [Link](https://www.youtube.com/watch?v=i1_RAqeB9yg)|First off-collab watchalong. Same mockumentary mentioned in the [Megalodon stream](https://www.youtube.com/watch?v=C4Zv0kyLaFA). |
 
 **Day 8 - 2023-07-26**

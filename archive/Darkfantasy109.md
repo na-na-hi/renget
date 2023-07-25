@@ -171,6 +171,7 @@ Name/Link | Review | Author
 [Laurel](https://www.chub.ai/characters/cutenotlewd/Laurel) | A very rare card where I stop trying to do NSFW with it to just immerse myself in the roleplay. Beautiful premise, you could write a beautiful novel with it alone. | Cutenotlewd
 [Leo](https://booru.plus/+pygmalion425#q=leo&c=azaxcrxs) | A simple but sexy snu snu card with a muscular tiger lady. What's not to love? | Shoo
 [Molly](https://www.chub.ai/characters/boner/Molly) | God damn adorable little mouse girl. Really cute and unique speaking style that the bots miraculously manage to do well. Very fun to just play around with. | Boner
+[Haumea](https://www.chub.ai/characters/bipbop/44105618-e6d5-4a01-a978-623451a43125) | Comfy pregnancy card of a cute tropical princess, with a very unique world. Roleplayed pretending I was Ishmael from Moby Dick.  | BipBop
 
 ***
 ##->Brief tips on Botmaking<-

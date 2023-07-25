@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. Tropius's bananas falling off, followed by various guildmons rushing to grab some, much to Tropius's displeasure
 1. Princess Wooper
 1. Chespin doing the "No Way Fag" Expression
 1. Someone asking Chespin "You call breaking a glass bottle over an enemy's head a combat art?" with Chespin saying "Hey, as long as it works."

@@ -1,5 +1,5 @@
 # /bag/ Newfag guide
-How to play the game for the completely retarded. Releasing small updates from time to time. 
+How to play the game for the completely retarded. Not just a reroll guide. 
 Scroll to the bottom for my last edit date.
 
 [TOC] 
@@ -416,26 +416,29 @@ READ NIGGA READ
 ![how2read (not to be confused with how to read)](https://i.imgur.com/LCmON51.png)
 
 ## Crafting Chamber
-Feel free to use the speedup tickets, you'll have a billion of them lying around. 
-There has never been a 2x event on the crafting chamber, so there's no point in saving your crafting materials up. 
 
 >Material Synthesis (the normal one)
-Radiant (highest tier mats) >= BDs > Weapon Parts > Furniture (if not capped yet in cafe) > Gifts >= Shiny (high tier mats) > Rest
+**Radiant (highest tier mats) >= BDs > Furniture (if not capped yet in cafe) > Gifts >= Shiny (high tier mats) > Rest**
 
-**Do not go past the first node if you don't have mats in abundance. If you need to ask if you have enough, you don't.**
+**Do not go past the first node if you don't have mats in abundance.** If you need to ask if you have enough: you don't.
 
 If you want to go to node 2: use t1-2 mats you don't care about. Not crafting mats.
-If you go to node 2 you always go to node 3, as they have a chance to give you character elephs, t4 gifts, secret tech note fragments, and MONEY (!). It's too good to pass on. 
 
-For the T3 node: Elephs > Credits > Gifts > Radiant > tech notes > rest
-Radiant is slightly worse here because you get a lot of t3 furniture, which kind of suck. 
+For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Abundance (credits) > Shiny > Radiant > Mystic (elephs) > The Rest**
+The only reason to farm t3 nodes at this point is for the gifts, you'll have enough of everything else to spend it on getting here. 
+You can spin the wheel with the Radiant and Mystic option for more entertaining results. 
+
 
 >Material Fusion (the new one)
 Trading your garbage away for the freshest sneaks
 **Do not get the raffle ticket**, the choice ticket is the one you want. Raffle tickets are just another gacha, if you prefer to get them seek help. 
 
-You can dump the mats from useless schools (like Red Winter, Shanghai, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
-You can trade your useless furnitures away for a better one, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
+You can dump mats from useless schools (like Red Winter, Shanghai, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
+You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
+
+>Misc. info
+Feel free to use the speedup tickets, you'll have a billion of them lying around. 
+There has never been a 2x event on the crafting chamber, so there's no point in saving your crafting materials up. 
 
 ## Events
 (the story ones, not 2x ones) 

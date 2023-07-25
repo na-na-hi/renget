@@ -4,6 +4,7 @@
 -> [**[edit this rentry here]**](https://rentry.org/CSP_materials/edit)<-
 !!! info
 	- All Pages can be edited with edit code `4chan`
+	- You can export each page at the bottom in any format you want if you are worried about vandalism
 	- Deeply consider if you want a brush before downloading it or you will have 5000 with no easy way to delete
 	- If you like a brush you may want to support by liking the brush in store
 	- Also consider purchasing if you have clippies to spare so you never have to ask for a re-upload if it gets an update.

@@ -44,6 +44,7 @@
     **- (7/14/2023):** Created Chiyo. From now on, I'll be putting a (NEW) status on any new bots for a span of five days.
     **- (7/19/2023):** Created Yuzu from Blue Archive
     **- (7/20/2023):** Updated Arisu from Blue Archive
+    **- (7/24/2023):** Updated Koharu from Blue Archive. Adjusted her personality.
 
 [TOC3]
 
@@ -82,9 +83,9 @@ PNG: https://files.catbox.moe/l0erxl.png
 JSON: https://files.catbox.moe/l3rmd7.json
 
 #####**Koharu**
-![image description](https://files.catbox.moe/ndexas.png)
-PNG: https://files.catbox.moe/ndexas.png
-JSON: https://files.catbox.moe/q4sohq.json
+![image description](https://files.catbox.moe/jzw2t0.png)
+PNG: https://files.catbox.moe/jzw2t0.png
+JSON: https://files.catbox.moe/x14c5b.json
 
 #####**Mari**
 ![image description](https://files.catbox.moe/3fifwu.png)

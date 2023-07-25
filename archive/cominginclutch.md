@@ -3,9 +3,9 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: June 21st | Current Status: Continued hiatus
-	If anyone happens to come across this, I have not forgotten about /aicg/. I have not been around due to priorities which have continued consuming all of my time this summer.  When the next semester of uni rolls around, I would like to continue botmaking, but for now I've fallen out of it due to more important matters in my life. I still want to complete Batch 4 and finish it eventually, but this may be the last significant batch I create if don't find the drive to continue afterwards.
-	Much of my time for botmaking will be put towards researching the upcoming characters. See more in the Release Information section below.
+    Last Status Update: July 24th | Current Status: Continued hiatus, returning soon.
+	I intend to return to /aicg/ next sometime next month once I've returned to and settled into my next semester at uni. I may not begin sharing new bots straight away as I already know there will be new things I will need to learn upon my return.
+	Everything under the Release Information and Character Requests sections should now be considered outdated and invalid until the next rentry update, as I already know there are some characters which I no longer intend to work on and others which I will hold off on to prioritize others.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	Make sure to tag my anchored posts to make sure I see it.

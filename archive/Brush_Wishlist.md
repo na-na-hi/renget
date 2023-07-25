@@ -111,6 +111,8 @@
 **Hand-painted knit tone + brush Set (手描きニットトーン＋ブラシセット)** | [1731171](https://assets.clip-studio.com/en-us/detail?id=1731171) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/11/1731171/thumbnail?1545473885)
 **Ruffle Brush 2 (フリルブラシ２)** | [1821376](https://assets.clip-studio.com/en-us/detail?id=1821376) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/13/1821376/thumbnail?1617762856)
 **Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
+**Draw lines (描き込みラインズ)** | [1746622](https://assets.clip-studio.com/en-us/detail?id=1746622) | **==50 GOLD==**, **250 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/66/1746622/thumbnail?1562135012)
+**大気セット （ブラシとテクスチャ）** | [1924408](https://assets.clip-studio.com/en-us/detail?id=1924408) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/44/1924408/thumbnail?1655702632)
 
 
 

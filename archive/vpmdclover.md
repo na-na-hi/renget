@@ -28,7 +28,7 @@ Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcl
 N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#porygon)
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 ??? | M | Tropius | N/A | Clover Guild Member | [???] *Pending*
-Nida | F | Nidorina | Poochyena (Poochi, M, Native) | Clover Guild (Native?) Member | [???] *Pending*
+Nida | F | Nidorina | Poochyena (Pochi, M, Native, Naive/Relaxed) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
