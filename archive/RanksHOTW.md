@@ -41,9 +41,9 @@
 |31|Maya Liang|113|
 |32|Billy Kido|110|
 |33|Heli|107|
-|34|Ant King|99|
-|35|Magnus Wang|95|
-|36|Ramses|91|
+|34|Ramses|103|
+|35|Ant King|99|
+|36|Magnus Wang|95|
 |37|Kitty |89|
 |38|Quinn|88|
 |39|Nick|87|
@@ -95,9 +95,9 @@
 |24|Maya Liang|113|
 |25|Billy Kido|110|
 |26|Heli|107|
-|27|Georgia|102|
-|28|Bob|94|
-|29|Ramses|91|
+|27|Ramses|103|
+|28|Georgia|102|
+|29|Bob|94|
 |30|Kitty |89|
 |31|Quinn|88|
 |32|Nick|87|
@@ -135,9 +135,9 @@
 |3|Subject 2285-J|174|
 |4|Karnak|131|
 |5|Nikto|110|
-|6|Phi|100|
-|7|Samson|98|
-|8|Ramses|91|
+|6|Ramses|103|
+|7|Phi|100|
+|8|Samson|98|
 |9|Quinn|88|
 |10|Nick|85|
 |11|Taissa|78|
@@ -191,13 +191,13 @@
 |Rank|Name|Average rank|Best rank|Worst rank|
 |---|---|---|---|---|
 |0|Big Iron|4.00|0|12|
-|1|Samson|4.33|3|7|
+|1|Samson|4.67|3|8|
 |2|Taissa|7.33|5|11|
 |3|Lin|8.67|6|13|
 |3|Sasha|8.67|1|13|
 |5|Becka|9.33|2|24|
-|6|Phi|9.67|6|12|
-|7|Victor|10.00|2|14|
+|6|Phi|10.00|7|12|
+|6|Victor|10.00|2|14|
 |8|Hannah|11.33|4|26|
 |9|Nikto|13.00|5|18|
 |9|Subject 2285-J|13.00|3|19|
@@ -208,25 +208,25 @@
 |15|Katie 230|18.33|8|38|
 |16|Isha|21.67|18|27|
 |16|Thomas Hammerer|21.67|10|44|
-|18|Sage|23.00|5|51|
-|19|Squire Marie Lonelle|23.67|20|28|
-|19|Calliope|23.67|16|36|
-|21|Ramses|24.33|8|36|
+|18|Ramses|22.33|6|34|
+|19|Sage|23.00|5|51|
+|20|Squire Marie Lonelle|23.67|20|28|
+|20|Calliope|23.67|16|36|
 |22|Quinn|26.00|9|38|
 |22|Maya Liang|26.00|23|31|
 |24|Nick|27.00|10|39|
 |24|Kitty |27.00|14|37|
-|26|Bob|27.67|23|32|
+|26|Bob|28.00|23|32|
 |27|Charles Crane|28.67|21|42|
 |28|Doe|29.67|15|41|
-|29|Magnus Wang|30.00|16|39|
-|30|Billy Kido|30.33|25|34|
+|29|Magnus Wang|30.33|16|39|
+|29|Billy Kido|30.33|25|34|
 |31|Glimmer|30.67|16|42|
 |32|Heli|31.33|26|35|
 |33|David|32.33|30|36|
 |33|Bliss|32.33|19|43|
-|35|Ant King|33.00|24|41|
-|36|Georgia|33.33|22|51|
+|35|Ant King|33.33|24|41|
+|36|Georgia|33.67|22|51|
 |37|Sprite|34.00|21|45|
 |38|Jonathan Stampe|35.67|27|42|
 |39|Tuma|37.00|29|42|

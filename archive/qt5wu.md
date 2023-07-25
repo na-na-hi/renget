@@ -168,6 +168,8 @@ It isn't long before the Lilligant brings us a few bottles of Spinda's special d
 I look at the food set before me. It is a bunch of golden-brown, tube-shaped...somethings, with a strange red sauce on the side. Whatever it is, it looks...fried? They can fry things in this world?! Now that I think about it, even the smell seems a little familiar. Could it be...? Curious, I grab one, breaking it in half. My eyes go wide as I see what the insides are made of.
 *Cheese.*
 
+![the holy grail](https://files.catbox.moe/0nba5z.gif)
+
 I gasp loudly, my heart racing as the realization slams into me. “Th-these exist here?!”
 Squishy lets out a laugh at my reactions. “Cheese sticks! You won't find a better place to eat them then right here. Best recipe on the continent!”
 Berry lets out a small chuckle as well. “Is this something the humans have, hmm?”

@@ -245,10 +245,11 @@ Use crookedtrees in your prompt
 
 	V7.0: https://civitai.com/api/download/models/82523?type=Model&format=SafeTensor&size=full&fp=fp16
 	V9.0: https://civitai.com/api/download/models/105881?type=Model&format=SafeTensor&size=full&fp=fp32
+	V10.0: https://civitai.com/api/download/models/119411?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
-V9.0 RELEASED This version fix some mistakes v8 made, can generates at higher resolution than v8. I think this is the best version I made. More realistic, better fur, better clothes, better NSFW !
+V10.0 RELEASED This version can generates at higher resolution than v9 with a less mistakes. More realistic, better fur, better clothes, better NSFW !
 
-This version doesn't use VAE and doesn't need one.
+This version has a baked in VAE.
 
 Please consider supporting me so I can continue to make more models --> https://www.patreon.com/BB95FurryMix
 

@@ -40,13 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Writefags:
->I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
-https://rentry.org/uzu56
-
-Artfags:
->Katsuragi Enjoyers
->>89683133
+MHA is building up power!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -479,7 +473,7 @@ https://controlc.com/a4a6767d
 Page 8
 ***
 ```
-Writefags (Final)
+Writefags (Cont.)
 >The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow):
 https://rentry.org/bnu9t
 >Faith Kang in: SummerFest Aside (Drone, The hivemind)
@@ -520,15 +514,19 @@ https://rentry.org/svwyy
 https://rentry.org/umx6c
 >Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
 https://rentry.org/udt96
-
->RELATIONSHIP CHARTS IN HERE
-https://pastebin.com/rsnEph0b
 ```
 
 ***
 Page 9
 ***
 ```
+Writefags (Final)
+>I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
+https://rentry.org/uzu56
+
+>RELATIONSHIP CHARTS IN HERE
+https://pastebin.com/rsnEph0b
+
 For Art, Memes, Tierlists, etc. check the controlc
 ```
 #Heroes of the Wastes (HOTW)
@@ -631,7 +629,7 @@ Mutants:
 >Sasha the Snake
 >>89676447
 >Ramses
->>89383550
+>>89696221
 >The Nymphs - Glimmer / Bliss / Doe / Kitty / Sprite
 >>89675010
 >Samson
@@ -765,7 +763,7 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >Caligula (Beastman Rogue)
 >>89644497
 >Kin’ike Uesugi (Beastman Magic Knight)
->>89661444
+>>89694824
 >Slaine (Elf Black Mage)
 >>89663387
 >Rinh Kura (Half-Beast Black Mage)
@@ -775,7 +773,7 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >Aterui (Human Warrior/Spirit Talker)
 >>89660125
 >Mahapapapurusa (Human Herolike)
->>89651577
+>>89695966
 >Potion Pete (Human Bard)
 >>89652110
 >Unmei (Demon Black Mage)
@@ -785,15 +783,20 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >Jahi (Demon Hybrid Healer)
 >>89663659
 >Suzerain (Demon Hybrid Bard/Spirit Talker)
->>89672961
+>>89693977
 >Lona Willow (Half-Elf Black Mage)
->>89674402
+>>89695513
 >August (Human Rogue)
 >>89679186
 >Caniara (Demon Herolike)
 >>89681500
 >Ugoki Ayagi (Demi-Human Magic Knight)
->>89682887
+>>89695858
+>Vajar (Elf Black Mage)
+>>89693400
+>Amara Sarya (Elf Black Mage)
+>>89697952
+
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.

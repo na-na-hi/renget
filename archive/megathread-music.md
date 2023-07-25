@@ -89,6 +89,10 @@
 - This web app project was built for downloading SoundCloud tracks and playlists. Paste your link and enjoy your music!
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadsound.cloud/)
 
+### 🌐 [Spotify Downloader](https://spotify-downloader.com/)
+- Straightforward web application that enables downloading music on a track, album, or playlists.
+- [URL Safety Results](https://www.urlvoid.com/scan/spotify-downloader.com/)
+
 ### 🌐 [SpotifyMate](https://spotifymate.com/)
 - Just paste your link into this fast free online tool to download Spotify songs, playlists, and albums in mp3 format.
 - [URL Safety Results](https://www.urlvoid.com/scan/spotifymate.com/)

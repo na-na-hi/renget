@@ -41,10 +41,10 @@
 
 ***
 
-### Latest Boys: Damian Crann -YLR-
-"A gloomy boy working at the Young Love Resort." ==NSFW==
-Card: [Damian Crann](https://files.catbox.moe/9f0yps.png)
-JSON: [Damian Crann](https://files.catbox.moe/d77iws.json)
+### Latest Boys: Aspen
+"Your loving son and future chef." ==Safe==
+Card: [Aspen](https://files.catbox.moe/h73avs.png)
+JSON: [Aspen](https://files.catbox.moe/kr9q26.json)
 
 Or download his card/JSON file below!
 
@@ -85,6 +85,7 @@ Card | JSON Link | Description | Rating
 ![Omori](https://files.catbox.moe/lcjkh1.png)   | [Omori](https://files.catbox.moe/gzg7tr.json)   | "An apathetic 12-year-old boy."   | ==Safe==
 ![Sunny](https://files.catbox.moe/mwu62l.png)   | [Sunny](https://files.catbox.moe/3xo5mg.json)   | "A dejected 16-year-old boy. Request by Runeclaw!"   | ==Safe==
 ![Damian Crann](https://files.catbox.moe/9f0yps.png)   | [Damian Crann](https://files.catbox.moe/d77iws.json)   | "A gloomy boy working at the Young Love Resort."   | ==NSFW==
+![Aspen](https://files.catbox.moe/h73avs.png)   | [Aspen](https://files.catbox.moe/kr9q26.json)   | "Your loving son and future chef."   | ==Safe==
 
 ***
 ###Suggest Stuff!

@@ -56,7 +56,6 @@
 **dolphin brush** |[1901953](https://assets.clip-studio.com/en-us/detail?id=1901953)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/19/1901953/thumbnail)
 **All in one brush (オールインワンブラシ)** |[2000807](https://assets.clip-studio.com/en-us/detail?id=2000807)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/08/2000807/thumbnail)
 **A slightly fuzz thick brush (やや毛羽立ちのある厚塗りブラシ)** |[1974469](https://assets.clip-studio.com/en-us/detail?id=1974469)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/69/44/1974469/thumbnail)
-**2-in-1 Line and Paint pen** |[1831377](https://assets.clip-studio.com/en-us/detail?id=1831377)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/77/13/1831377/thumbnail)
 **Fade Pen** |[1883068](https://assets.clip-studio.com/en-us/detail?id=1883068)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/30/1883068/thumbnail)
 **Ower - Soft Brush** |[1939868](https://assets.clip-studio.com/en-us/detail?id=1939868)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/98/1939868/thumbnail)
 **A Blockaded Chalk Brush** |[1806807](https://assets.clip-studio.com/en-us/detail?id=1806807)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/68/1806807/thumbnail)
@@ -80,16 +79,18 @@
 ### 20 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**A piece of the carnage pen **|[1819549](https://assets.clip-studio.com/en-us/detail?id=1819549)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/95/1819549/thumbnail?1612670025)
-**(S)oft (S)ketch pencil  **|[2011276](https://assets.clip-studio.com/en-us/detail?id=2011276)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/12/2011276/thumbnail)
+**A piece of the carnage pen**|[1819549](https://assets.clip-studio.com/en-us/detail?id=1819549)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/95/1819549/thumbnail?1612670025)
+**(S)oft (S)ketch pencil **|[2011276](https://assets.clip-studio.com/en-us/detail?id=2011276)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/12/2011276/thumbnail)
 **Tinong!♥Brush Set**|[1965421](https://assets.clip-studio.com/en-us/detail?id=1965421)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/54/1965421/thumbnail?1669424315)
+**Background brush**|[2002554](https://assets.clip-studio.com/en-us/detail?id=2002554)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/25/2002554/thumbnail?1684457213)
 
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **[72h] CRT/LED Effects - Default Edition** | [2018285](https://assets.clip-studio.com/en-us/detail?id=2018285) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/82/2018285/thumbnail?1690049173)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
-
+**Peripheral dimming Tools (周辺減光ツール)** | [1757427](https://assets.clip-studio.com/en-us/detail?id=1757427) | **==10 GOLD==**, **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/74/1757427/thumbnail?1596097236)
+** **|[]()|  |![]()
 
 
 -> [**[TOP]**]() ->
@@ -113,7 +114,9 @@
 **Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
 **Draw lines (描き込みラインズ)** | [1746622](https://assets.clip-studio.com/en-us/detail?id=1746622) | **==50 GOLD==**, **250 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/66/1746622/thumbnail?1562135012)
 **大気セット （ブラシとテクスチャ）** | [1924408](https://assets.clip-studio.com/en-us/detail?id=1924408) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/44/1924408/thumbnail?1655702632)
-
+**Distributed Brushes 2 (分散ブラシ2)** | [1877147](https://assets.clip-studio.com/en-us/detail?id=1877147) | **==80 GOLD==**, **160 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/71/1877147/thumbnail?1636076296)
+**Fly Black and white pen (白で飛ばせる白黒ペン)** | [1751020](https://assets.clip-studio.com/en-us/detail?id=1751020) | **==10 GOLD==**, **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/10/1751020/thumbnail?1566807106)
+** **|[]()|  |![]()
 
 
 

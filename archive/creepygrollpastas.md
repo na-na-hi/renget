@@ -20,6 +20,9 @@ ALIUMS/Assimilation|[(link)](https://archive.4plebs.org/x/thread/35333372/#35333
 Mysterious matter|[(link)](https://archive.4plebs.org/x/thread/35333372/#35343006)
 Skinwalkers|[(link)](https://archive.4plebs.org/x/thread/35358927/#35369837)
 Narrator is the killer|[(link)](https://archive.4plebs.org/x/thread/35358927/#35374819)
+Darkness|[(link)](https://archive.4plebs.org/x/thread/35358927/#35379519)
+Automatic writing|[(link)](https://archive.4plebs.org/x/thread/35358927/#35379389)
+The government/Suddenly, bears!|[(link)](https://archive.4plebs.org/x/thread/35385346/#35387487!)
 
 ![](https://files.catbox.moe/9lssp4.png)
 
