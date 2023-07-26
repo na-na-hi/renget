@@ -133,7 +133,7 @@ Tavern (Booru) | Tavern (Catbox) | JSON
 NA | https://files.catbox.moe/ph9qa2.png | https://files.catbox.moe/hgvdns.json
 
 #### Lyrissa
-Cute blonde elf. Erogenous ears. Based upon [one of my favourite /aids/ prompts](https://aetherroom.club/220)
+Cute blonde elf. Erogenous ears. Based upon [one of my favourite /aids/ prompts.](https://aetherroom.club/220)
 ![Lyrissa](https://files.catbox.moe/eepqid.png)
 Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----:

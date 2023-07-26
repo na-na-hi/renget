@@ -33,7 +33,7 @@
     - Scat
     - Gore/Heavy Gore (Fatal Injuries, Necrophilia, Etc)
     - Two Characters, One Card
-    - Amputation/Amputee
+    - Amputation/Amputee (At Least Sexually. Feel Free To Send Me Amputee Character Suggestions, I Just Won't Sexualize Their Amputation)
 
 ***
 
@@ -41,12 +41,16 @@
 
 ***
 
-### Latest Boys: Aspen
-"Your loving son and future chef." ==Safe==
-Card: [Aspen](https://files.catbox.moe/h73avs.png)
-JSON: [Aspen](https://files.catbox.moe/kr9q26.json)
+### Latest Boys: Headspace Basil / Normal Basil
+"A sheepish 12-year-old boy." ==Safe==
+Card: [Headspace Basil](https://files.catbox.moe/v28s6m.png)
+JSON: [Headspace Basil](https://files.catbox.moe/f0u814.json)
 
-Or download his card/JSON file below!
+"A vulnerable 16-year-old boy." ==Safe==
+Card: [Basil](https://files.catbox.moe/i42y02.png)
+JSON: [Basil]()
+
+Or download their cards/JSON files below!
 
 ***
 
@@ -86,6 +90,8 @@ Card | JSON Link | Description | Rating
 ![Sunny](https://files.catbox.moe/mwu62l.png)   | [Sunny](https://files.catbox.moe/3xo5mg.json)   | "A dejected 16-year-old boy. Request by Runeclaw!"   | ==Safe==
 ![Damian Crann](https://files.catbox.moe/9f0yps.png)   | [Damian Crann](https://files.catbox.moe/d77iws.json)   | "A gloomy boy working at the Young Love Resort."   | ==NSFW==
 ![Aspen](https://files.catbox.moe/h73avs.png)   | [Aspen](https://files.catbox.moe/kr9q26.json)   | "Your loving son and future chef."   | ==Safe==
+![Headspace Basil](https://files.catbox.moe/v28s6m.png)   | [Headspace Basil](https://files.catbox.moe/f0u814.json)   | "A sheepish 12-year-old boy."   | ==Safe==
+![Basil](https://files.catbox.moe/i42y02.png)   | [Basil](https://files.catbox.moe/kcijrd.json)   | "A vulnerable 16-year-old boy. Request by Runeclaw!"   | ==Safe==
 
 ***
 ###Suggest Stuff!

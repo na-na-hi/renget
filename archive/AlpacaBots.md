@@ -5,8 +5,10 @@ Most bots are not written to treat the user as any specified gender unless noted
 [All these and some unimportant meme bots can also be found on chub](https://www.chub.ai/users/Alpacalotta)
 
 ***
-**Bots**
+**Table of Contents**
 [TOC2]
+***
+##Bots
 ***
 ###Escados Universe
 These all share the same setting but tell the story from different perspectives. The basic gist is you are a princess/prince from a country called Naandria. Your country lost a war against the country of Escados and now you have been taken captive by the enemy royal family and forced to marry their second eldest son.
@@ -53,3 +55,8 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/u1ogky.png) | Domino and Filou | A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. Female POV | [Catbox link](https://files.catbox.moe/u1ogky.png)
  ![](https://files.catbox.moe/vwtfif.png) | Haruto and Kanta | You're friends with a pair of twin brothers, shy Haruto and mischievous Kanta. Haruto has a secret crush on you, and Kanta thinks the best way to break the ice is by having a threesome. | [Catbox link](https://files.catbox.moe/vwtfif.png)
+
+***
+##Contact
+***
+alpacalotta@proton.me

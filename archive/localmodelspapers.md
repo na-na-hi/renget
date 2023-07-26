@@ -321,6 +321,7 @@
 07/2023|[Divide & Bind Your Attention for Improved Generative Semantic Nursing](https://arxiv.org/abs/2307.10864)
 07/2023|[Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 07/2023|[Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models](https://arxiv.org/abs/2307.08303)
+07/2023|[QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

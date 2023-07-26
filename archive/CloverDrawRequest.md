@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. Sad, disappointed Smith looking at his plate of food, which holds normal, clean, non-grimy food.
 1. Tropius's bananas falling off, followed by various guildmons rushing to grab some, much to Tropius's displeasure
 1. Princess Wooper
 1. Chespin doing the "No Way Fag" Expression

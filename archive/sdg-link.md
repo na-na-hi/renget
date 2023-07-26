@@ -75,34 +75,33 @@ https://rentry.org/sdmodels
 	---------------------------
 ##SDXL
 ###What is SDXL?
-https://stability.ai/blog/sdxl-09-stable-diffusion
+https://stability.ai/blog/stable-diffusion-sdxl-1-announcement
 
 ###Front-ends with SDXL support
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
 https://github.com/comfyanonymous/ComfyUI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
 https://github.com/vladmandic/automatic
 
-###Download the SDXL v0.9 leak
-magnet:?xt=urn:btih:45ec120e40c68176ae5414250726cceaffe22001&dn=sd_xl_base_0.9.safetensors
-magnet:?xt=urn:btih:b2685d9ae2026df0697e5f1193406cba16bad435&dn=sd_xl_refiner_0.9.safetensors
+###Download SDXL v1.0
+https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
 
-Pruned models
-https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
-
-###Try SDXL online for free
+###Try SDXL v1.0 online for free
 https://clipdrop.co/stable-diffusion
 
 ###Recommended SDXL workflows for ComfyUI
+https://comfyanonymous.github.io/ComfyUI_examples/sdxl
 https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 https://github.com/SeargeDP/SeargeSDXL
 
-Alternate workflow
-https://user-images.githubusercontent.com/48502124/250187845-ba7f710f-e365-4dc0-8be8-a364e47d92f3.png
+###Download the SDXL v0.9 leak
+These models are now outdated with the release of v1.0 above.
 
-###When will SDXL v1.0 release?
-Currently confirmed for July 26th at 11am PDT / 2pm EDT / 7pm BST / 8pm CEST
+magnet:?xt=urn:btih:45ec120e40c68176ae5414250726cceaffe22001&dn=sd_xl_base_0.9.safetensors
+magnet:?xt=urn:btih:b2685d9ae2026df0697e5f1193406cba16bad435&dn=sd_xl_refiner_0.9.safetensors
 
-https://reddit.com/r/StableDiffusion/comments/157ybqf
+Pruned v0.9 models
+https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
 
 !!! info
 	---------------------------
@@ -237,4 +236,4 @@ discord.gg/stablediffusion
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 24th - https://pastebin.com/8ceqX1e0
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 26th - https://pastebin.com/YJMrmTSt

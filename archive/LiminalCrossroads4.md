@@ -167,7 +167,7 @@ All in all, they look like a strange bunch.
 
 His courteous tone is not inviting, but also not quite distant. “We’re Clover Guild’s Team Misfits. Phanpy, Torchic, Totodile, Cyndaquil.”, he lists off, pointing each of them with a small trunk. Torchic lightly hops onto his back as he does so. “Do you have any business here?”
 
-The Hisuian growlithe takes the lead this time around: “Hey there, sir. My brother and I—we’re both stranded. We heard that this exploration guild has some ‘human-lore enthusiasts’ that actually *are* human and so we came here since we’re… well, human. Just woke up this morning like this...”
+The Hisuian growlithe takes the lead this time around: “Hey there, sir. My brother Bill and I—we’re both stranded. We heard that this exploration guild has some ‘human-lore enthusiasts’ that actually *are* human and so we came here since we’re… well, human. Just woke up this morning like this...”
 
 “Oh!”, Phanpy reacts at the tale, his expression immediately laced with understanding. “You both arrived here *that* recently? Oh dear, I’ll arrange a meeting with the guildmaster right away, you have nothing to worry about.”
 
@@ -221,7 +221,7 @@ The younger brother's paw touches his shoulder.
 
 Bill looks aside.
 
-"...If you couldn't find a way out before, then what makes me any different?"
+"...If you couldn't find a way out before, then what makes us any different?"
 
 "Well, what makes you the same?"
 
@@ -251,7 +251,7 @@ He runs in vain. Nothing matters anymore. It's too late.
 
 "...'Gee-yeh'?", Totodile asks to no one.
 
-"AHHH!!", the desperate quadruped rippling the surface screams. "HELP! HELP, I'TS COLD, I'M FIRE, I'M GOING TO SINK!!"
+"AHHH!!", the desperate quadruped rippling the surface screams. "HELP! HELP, I'TS COLD, I'M FIRE AND ROCK AND I'M GONNA SINK!!"
 
 "GUILLE! CALM DOWN, I-I'LL SAVE YOU! PLEASE!"
 
@@ -271,7 +271,7 @@ Ah!
 
 Ah."
 
-Gill notices he's laying on his side. on the grass beside the pond. Other than his wet red fur making him look quite a bit different, the twins don't notice anything out of the ordinary. Both look at Gill's unperturbed savior.
+Gill notices he's laying on his side on the grass beside the pond. Other than his wet red fur making him look quite a bit different, the twins don't notice anything out of the ordinary. Both look at Gill's unperturbed savior.
 
 The six-tailed animal chuckles:
 

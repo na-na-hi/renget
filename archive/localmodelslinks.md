@@ -78,6 +78,7 @@
 [Scaled RoPE](https://github.com/jquesnelle/scaled-rope)|Linear, dynamic, and NTK embeddings of scaled RoPe for LLaMa and GPTNeoX
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo for various foundational models
 [GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements
+[QuIP](https://arxiv.org/abs/2307.13304)|2bit via incoherent weight and Hessian matrices optimization (OPT code only currently)
 [SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM)|3/4bit weight quantization SOTA results dense and sparse outlier handling
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
 [SpQR](https://github.com/Vahe1994/SpQR)|3/4bit weight quantization with supposed superior results than GPTQ 
