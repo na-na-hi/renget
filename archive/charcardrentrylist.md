@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Creamsan](https://rentry.org/oqhyw) | Misc |[The Town of Chance](https://files.catbox.moe/2x6umr.png), [Russian Roulette](https://files.catbox.moe/m5pw95.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Shiori](https://files.catbox.moe/99wdxp.png)|[Shiori](https://files.catbox.moe/99wdxp.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png), [Philo](https://files.catbox.moe/txqgbt.png)|
 [OAnon](https://rentry.org/OAnon-AK) | Arknights |[Skadi](https://files.catbox.moe/crwsvv.png), [Projekt Red](https://files.catbox.moe/dtepk9.png)|
@@ -27,18 +28,15 @@ Botmaker | Category | New Bots | Updated Bots
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Amira Wagner](https://files.catbox.moe/xo87y3.png), [Cementina](https://files.catbox.moe/m5oej1.png), [Tatsuo Yamauchi](https://files.catbox.moe/ohcmhw.png)|[Aiko](https://files.catbox.moe/mcfhzf.png), [Tatsuo Yamauchi](https://files.catbox.moe/ohcmhw.png) [MV]
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Aspen](https://files.catbox.moe/h73avs.png), [Sunny](https://files.catbox.moe/mwu62l.png), [Omori](https://files.catbox.moe/lcjkh1.png)|[Damian Crann](https://files.catbox.moe/9f0yps.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Mr. Chedda](https://files.catbox.moe/z8zt56.png)|
-[Creamsan](https://rentry.org/oqhyw) | Misc |[Russian Roulette](https://files.catbox.moe/m5pw95.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[The Duke of Dusk](https://files.catbox.moe/1x5edj.png), [Castor and Pollux](https://files.catbox.moe/9nmlqy.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Louise](https://files.catbox.moe/8wa0zv.png), [Victoria](https://files.catbox.moe/miuzw6.png)|
 [UncleMarr](https://rentry.org/umarr) | Misc |[Helm's fundraiser (VN)](https://files.catbox.moe/3os7rg.png)|[Helm's fundraiser (VN)](https://files.catbox.moe/3os7rg.png) [MV], [Voyeurphoto Club](https://files.catbox.moe/jmcm1g.png), [Helm's fundraiser](https://files.catbox.moe/smu5if.png) [MV]
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc |[Ravenna](https://files.catbox.moe/1kou9x.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Chara](https://files.catbox.moe/0ngbg9.png), [Sixx](https://files.catbox.moe/zh90en.png), [The Skinnerman](https://files.catbox.moe/ehqlrd.png)|[The Skinnerman](https://files.catbox.moe/ehqlrd.png) [MV]
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Chara](https://files.catbox.moe/0ngbg9.png), [Sixx](https://files.catbox.moe/zh90en.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Hajime](https://files.catbox.moe/lflink.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Calle](https://files.catbox.moe/jqus5b.png)|[Marin](https://files.catbox.moe/mgv46p.png), [Jocelyn](https://files.catbox.moe/h08mkc.png)
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc |[Luca](https://files.catbox.moe/vvkva7.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Lupa](https://files.catbox.moe/ni1mv5.png)|
-[Gigasad](https://rentry.org/gigasad) | Misc |[Aiyu](https://files.catbox.moe/wnetf4.png)|
-[Muricanpie](https://rentry.co/mpcs) | Misc |[Minerva](https://files.catbox.moe/djrg2q.png)|
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
@@ -49,6 +47,8 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
+[Gigasad](https://rentry.org/gigasad) | Misc ||
+[Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||

@@ -27,6 +27,7 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Walking Specimen*|Elden Ring|[(link)](https://rentry.org/walkingspecimen)
 Unnamed Item Monitor pasta (WIP)|Sonic the Hedgehog 2, various others|[(part 1)](https://rentry.org/ewq95), [(part 2)](https://rentry.org/7v3xn)
 *Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
+*New Record*|Mario Kart 64|[(link)](https://rentry.org/qg9ky)
 
 ##.exe pastas
 Title|Link

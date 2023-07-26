@@ -33,4 +33,4 @@ Had to [wake Bae up](https://twitter.com/nanashimumei_en/status/1683638208339513
 **Day 8 - 2023-07-26**
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
-|:D|  Oh Hi ... Oh ! I'm In Japan !!  |[Link](https://www.youtube.com/watch?v=-6e7m8CQbow) |First stream in a while.|
+|Mumei, Bae|  【OFF COLLAB】Manager Bae and Manager Mumei   |[Link](https://www.youtube.com/watch?v=lt-SM0UiUxc) |First stream on her channel in a while. Planned zatsu changed to this stream.|

@@ -255,6 +255,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
 	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
+	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) *Not on Table*
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -478,6 +479,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sterling's Purpose ch.5](https://rentry.org/m36g2z)
 * {||} [Chespin's Week](https://rentry.org/chespinsweek)
 * {||} [Team Moxie Introduction](https://rentry.org/fehwy)
+* {||} [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) 
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

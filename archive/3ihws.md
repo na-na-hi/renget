@@ -21,7 +21,7 @@
 ==**YOU ARE NOW ON A SECURE NETWORK.**==
 ==**DESIGNATE: ~ Made by Drone! <3 ~**==
 >**fides1104**: so uh
->**fides1104**: is any1 planning 2 visit cain
+>**fides1104**: is any1 seriously planning 2 visit cain
 >**spookyscaryskeletons**: u dn our permission to visit him lol
 >**fides1104**: I WAS JUST ASKING
 >**not_ur_power_bank**: bobby wants to drop by
