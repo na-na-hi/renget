@@ -504,6 +504,66 @@ I chuckled and nodded. With that, Sneasel went back to the pond to resume her ic
 -> * * * <-
 
 
+####In the Dead of Night
+
+
+(Published 7-25-23)
+
+
+In the dead of night, sounds of distress pulled me out of my sleep. As I sat up and rubbed my eyes, I tracked the source of the noise to my partner Sneasel, who was asleep in her own bed. Unlike the desktop bowl of cotton balls I slept in, she used a large pile of Whimsicott cotton on the floor by a wall. Right now, she was sprawled out in another one of her typical inelegant sleeping poses, lying on her back with her arms and legs thrown in various angles. But this time, she was twitching, and various moans and groans escaped from her. Her face kept scrunching up, and she frequently snarled and showed her fangs.
+
+This wasn’t an unfamiliar sight, though thankfully, it didn’t happen too often. There had been several occasions where I woke up in the middle of the night and saw her acting this way, and I could always assume she was having nightmares. Most of the time, they didn’t last long, and we both went back to sleep without issue. This night was different. She was more active, and didn’t seem to be settling down anytime soon. Not only that, among her indistinct and faint noises of distress, I clearly heard something that I hadn’t during any prior episode: my name.
+
+As soon as I noticed that, I clambered out of bed, hopped off the desk, and jogged across the floor towards her. I made sure to give a wide berth to her arm—compared to a Ribombee like me, it was like a particularly thick tree trunk, and I didn’t want to be in its path if it suddenly lashed out as she twitched around. Soon enough, I stood by the right side of her towering head and listened closely to her sleep-talking, trying to deduce what her nightmare was about and how it involved me. I got my answer before long. I heard her mumbling my name again, along with other scattered snippets of phrases, each with a fearful and frightened tone that I’d never heard from Sneasel while she was awake.
+
+“No... Don’t go...”
+
+“Don’t take him...”
+
+“Don’t... leave me... Booker...”
+
+I froze up, and a knot instantly formed in the pit of my stomach. The content of her nightmares was as plain as day now, and it made my heart sink. Pity and anxiety swirled in my mind as I tried to decide how to help my friend.
+
+I considered waking her, but I remembered hearing that it could be risky to disturb someone having a nightmare. I heard that if they slept through it, they may forget it in the morning, whereas they would be more likely to remember if woken up during the dream. Also, they could have trouble getting back to sleep since the nightmare would be fresh in their mind. I wasn’t sure if all that was true, but it made me nervous enough to avoid rushing things and waking her up right away.
+
+Instead, I decided to try soothing her first. Maybe feeling a tender touch or hearing my familiar voice would allow her to easily drift back into a more peaceful slumber. Of course, there was a risk I would accidentally wake her up by doing so, but I thought this was unlikely. She slept lightly in dangerous places, like when we spent the night out in the wilds or the roadside, but she tended to be a heavy sleeper whenever she slept in a safe location, like here in our dorm. And since I was so small, I thought my touch would be light enough, and my voice quiet enough, to avoid disturbing her.
+
+With that in mind, I gently placed my right hand on her fuzzy cheek, which was soft and cool to the touch, and prepared to whisper to her. I didn’t get a chance to say anything. As soon as Sneasel felt something touch her face, she instinctively swatted at it. I had no time to react as her hand flew to her cheek and smacked me—hard. Fortunately, the claws missed me, but the strike knocked the wind out of me, and I barely managed to avoid yelling in pain. Her palm pinned me against her cheek for a few moments, then her arm went limp and her hand flopped to the floor a short distance behind me.
+
+I staggered but stayed upright. My breathing quickened and my heart raced as sharp pain shot through my back and wings. Fear rose up in my mind, telling me to give up and slink back to my bed, letting Sneasel get over this nightmare on her own. But my legs refused to obey. As I watched my partner groaning and shuddering, and listened to her breath hitching, I knew it would be cruel to leave her like this. Even if it put me at risk, I had to help her.
+
+After composing myself, I whispered in her ear, “Sne-Sneasel? Can you hear me? It’s okay. I’m here. Booker’s here.”
+
+Sneasel mumbled my name again. This time, she didn’t sound worried or frightened like she did before. If anything, she seemed surprised. Maybe the sound of my voice was beating back her nightmare.
+
+As gingerly as possible, I moved the hand that was resting on her cheek, gently rubbing it through her fur in the hopes it would calm her down more. To my surprise, it seemed to work. Her breathing became more regular, she twitched less, and her body’s tension seemed to loosen up overall. Growing more confident, I picked up the pace a little, and even reached out with my left arm, trying to stroke the top of her head as best I could with my minuscule reach.
+
+At the same time, I continued whispering to her. “It’s okay. It’s just a bad dream. I’m not leaving you—and nobody’s taking me from you. But I understand why you’d be afraid of that. We’re partners, after all.”
+
+The only response I got was a quiet grunt. But it sounded calm and relaxed, unlike the shaky and shuddery sounds she had been making before. I got another idea, and moved my left hand, attempting to scratch behind her ear. I did this occasionally when she was awake and I was perched on her head, and she always liked it. Even now, despite being asleep, she still seemed notice and enjoy it. She gave another contented grunt, making me smile and keep it up.
+
+“You know,” I continued, “I... I worry about you too. Ever since we met about... four months ago—gosh, has it really been four months already?—we’ve been through so much. We’ve challenged lots of dangerous dungeons, taken so many tough jobs, and even had some near-death experiences... especially in the Thunder Dome a few days ago. I’m always concerned about you getting hurt, and I know you worry about me too. But, honestly... you’re the strongest, bravest girl I know. And I’m doing my best to get stronger too. So, I know we can stand up to anything. And we’ll do it together, because... the two of us are such a great team. Y-you’re the best partner I could ask for. I always enjoy being with you, because you... you make me feel... safe, and... h-happy...”
+
+I cut myself off before I could say anything else. My mind had begun to race. Now that I’d poured my heart out and put my thoughts into words for the first time, I started to realize my feelings towards Sneasel were stronger and deeper than I thought. And why wouldn’t they be? We were together almost all the time, and we’d grown so close. We always understood and supported each other. She would mess with me sometimes, but it was always in good fun, and I knew I could always count on her when I needed her.
+
+I cared about her more than any other friend. I was happier with her than with anyone else. She was starting to feel like more than a friend, more than a partner. Maybe she was even...
+
+...
+
+...I’d never had these thoughts about anyone before. They felt like a slap in the face, and I had no idea how to deal with them. Still, my body reacted automatically, and I felt my heart flutter and heat rush to my face. My insect body couldn’t blush, but I was certainly blushing on the inside.
+
+After taking a few slow, quiet breaths to try and relax, I decided there was no point in stressing over this new development right now. I suddenly had a lot on my mind, and organizing my thoughts and feelings would take a while, but I didn’t have to work on it here in the dead of the night. For now, it would be wisest to get back to bed—and do my best to sleep despite the metaphorical butterflies in my stomach.
+
+Before leaving Sneasel, I observed her again, checking if she was doing better now. She seemed to be completely relaxed. Her body was motionless, aside from her chest slowly moving up and down as she breathed. She made no more noises. All traces of her nightmare were gone, and she had slipped back into a serene sleep.
+
+With a satisfied smile on my face, I finally made my way back to the desk. Once I climbed back up and prepared to get in bed again, I looked at Sneasel one last time. From this higher vantage point, I had a better look at her face, and I could see she was now smiling. The sight put my flustered mind at ease. I smiled back at her.
+
+“Goodnight, Sneasel.”
+
+
+-> * * * <-
+
+
 ####Author’s Note
 
 This page will act as a place to compile my small, short, slice-of-life stories featuring Booker. I wanted to set up one spot to hold them instead of scattering them over a large number of pages. I plan to gradually add more and more short stories to this page over time, while larger stories will get their own pages.

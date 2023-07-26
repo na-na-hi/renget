@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Shiori](https://files.catbox.moe/99wdxp.png)|[Shiori](https://files.catbox.moe/99wdxp.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png), [Philo](https://files.catbox.moe/txqgbt.png)|
 [OAnon](https://rentry.org/OAnon-AK) | Arknights |[Skadi](https://files.catbox.moe/crwsvv.png), [Projekt Red](https://files.catbox.moe/dtepk9.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Lunaese](https://files.catbox.moe/rpdjh0.png), [Yotsuba](https://files.catbox.moe/2snote.png)|[Alejandra Mendoza](https://files.catbox.moe/u8tia5.png)
@@ -38,8 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Lupa](https://files.catbox.moe/ni1mv5.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc |[Aiyu](https://files.catbox.moe/wnetf4.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Minerva](https://files.catbox.moe/djrg2q.png)|
-[RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Morgan (F)](https://files.catbox.moe/7ryhfo.png)|
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[SCP-049](https://files.catbox.moe/1u4lqr.png)|
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
@@ -48,7 +47,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
+[RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
+[Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
@@ -72,7 +73,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Smile](https://rentry.org/HelpanonSmile) | Misc ||
-[KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||

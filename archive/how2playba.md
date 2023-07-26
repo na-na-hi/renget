@@ -50,9 +50,11 @@ You can always switch emulators if nothing works.
 Certain countries are blocked from playing Blue Archive, hop on a VPN if you are in one.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
-## Latest /bag/ Banner Guide
-[Click here (this is not a virus)](https://i.imgur.com/n4teYue.jpeg)
-16/07/23
+## Banner Guide 
+[/bag/ guide](https://i.imgur.com/n4teYue.jpeg)
+Last update: 16/07/23
+
+[Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) 
 
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
@@ -78,10 +80,6 @@ Being farmable means you can unlock the student by farming her node(s) for a lon
 Or alternatively:
 ![Reroll targets](https://i.imgur.com/IdQnlKt.png)
 Roll until you get 10 points (taken from https://www.youtube.com/watch?v=45dwbZz7kzg)
-
-As the meta is constantly changing, the most optimal reroll targets can change as well.
-The [Future Content Timeline and Unit Ratings](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) and [Arona's projected banners](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) spreadsheets can help a lot in this regard.
-Both of these links have a banner guide, for the first one just ctrl + f 'banner' on the first sheet.
 
 You can always ask /bag/ for advice.
 
@@ -132,9 +130,6 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 >Is there a good planner for banners?
 https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/
 Read the yellow highlighted text. 
-
->What should I roll for in the future?
-The most recent bannerlist from /bag/ (I found) is [this bannerlist](https://i.imgur.com/W8Jbt4E.jpeg) 
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.

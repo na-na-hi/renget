@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2608* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2614* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -40,6 +40,7 @@
 /(?=.\*wojakposting)(?=.\*(chimp|vermin|adolescent|fag|underage|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
 /(?=.\*(chimp|\\bape|maggot|worm|cretin|insect|scum|teenage|underage|adolescent|phoneposting|twerp))(?=.\*adhg)/ims;boards:trash;op:no
 /(?=.\*maruta)(?=.\*log)/ims;boards:trash;op:no
+/material for experiments/i;boards:trash;op:no
 /(?=.\*answer)(?=.\*(the|my|this) question)(?=.\*how old are you)/ims;boards:trash;op:no
 /(?=.\*(^|\d\n|\, |\\. )(go|fuck off) back to your)(?=.\*general)/ims;boards:trash;op:no
 /(?=.\*((go|fuck off) back to|stay in) your containment (imageboard|general|board))(?=.\*(chimp|vermin|adolescent|phoneposting|fag|underage|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
@@ -392,6 +393,8 @@
 /matrix of atmosphere/i;boards:trash
 /no stranger to an obstacle/i;boards:trash
 /we are all travelling backwards/i;boards:trash;op:no
+/spread its touch/i;boards:trash;op:no
+/make them rot/i;boards:trash;op:no
 
 /w6QDKXL302E/i;boards:trash;op:no
 /VR1SpWupXAQ/i;boards:trash;op:no
@@ -425,6 +428,7 @@
 /kill the thread\? I want to preserve it\\./i;boards:trash;op:no
 /(?=.\*when hmofa was)(?=.\*comfy)/ims;boards:trash;op:no
 /201[78] hmofa/i;boards:trash;op:no
+/(?=.\*hmofa)(?=.\*died)(?=.\*2019)/ims;boards:trash;op:no
 /(?=.\*I miss)(?=.\*early)(?=.\*hmofa)(?=.\*so much)/ims;boards:trash;op:no
 
 /t(|w)eenagers should not be allowed in hmofa/i;boards:trash;op:no

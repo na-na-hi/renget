@@ -38,7 +38,6 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
@@ -64,7 +63,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.3,
+  "prior_loss_weight": 0.400,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,
@@ -114,7 +113,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.3,
+  "prior_loss_weight": 0.400,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 100,
   "save_every_n_epochs": 0,

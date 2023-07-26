@@ -725,6 +725,15 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
 
+# Swampert (Pokémon)
+
+	https://anonfiles.com/E5v3r64az9/swampert_rar
+
+# Kicks (Animal Crossing)
+
+	https://anonfiles.com/e2u8p644zf/kicks_rar
+	https://anonfiles.com/V3u2q74fz0/kicks2_rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

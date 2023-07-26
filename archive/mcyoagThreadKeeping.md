@@ -40,7 +40,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is building up power!
+Writefags:
+>Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
+https://rentry.org/4i5gm
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -523,6 +525,8 @@ Page 9
 Writefags (Final)
 >I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
 https://rentry.org/uzu56
+>Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
+https://rentry.org/4i5gm
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -570,6 +574,8 @@ Bunker-Babies:
 >>89406647
 >Maya Liang
 >>89406938
+>Dr Acheron
+>>89701410
 >Dimir Leksirei
 >>89425473
 
@@ -595,7 +601,7 @@ https://rentry.org/HeliMatharom
 >Nick
 >>89385614
 >Georgia Dolittle
->>89386016
+>>89701522
 >Lance
 >>89388010
 >Aaron Cob A.K.A. The ANT KING
@@ -640,8 +646,6 @@ Mutants:
 >>89397361
 >Tuma
 >>89422176
->Dr Acheron
->>89427276
 >Tinker West-Gacy
 >>89678055
 >Taissa
@@ -731,6 +735,8 @@ https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/
 +Alt Link: https://controlc.com/96cfeb35
 >The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus)
 https://pastebin.com/58dq47ZA
+>Mutant Pilgrimage Part 1 (Ramses, Karnak, Dr. Acheron, Sasha)
+https://rentry.org/MutantPilgrimage
 
 
 Artfags:
@@ -796,7 +802,10 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89693400
 >Amara Sarya (Elf Black Mage)
 >>89697952
-
+>Cormelia (Elf Spirit Talker)
+>>89700452
+>Professor Khuldor the Transmuter (Human Green Mage)
+>>89705236
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
@@ -816,6 +825,10 @@ https://rentry.org/p4rze
 https://rentry.org/ce6zz
 >Portents (Ugoki)
 https://rentry.org/kh5sk
+>Potion Pete's Big Day (Potion Pete)
+https://rentry.org/go5q8
+>Prelude (Vajar, Carmen, Kin'ike, Ugoki, Amara, Lona, mentions of Caligula, Mahapapapurusa, Unmei, Jahi, Potion Pete and Caniara)
+https://rentry.org/vajar
 ```
 
 #The City (Reboot)

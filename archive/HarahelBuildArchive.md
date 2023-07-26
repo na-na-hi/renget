@@ -33,6 +33,11 @@ Note:	Pixie explorer of everything, be it nature, civilization, senses or just a
 Data:	https://textbin.net/raw/q5l97ahhjq
 Music:	
 
+Name: Amelie
+Note: An elf that seems to have embraced their nature rather fully — exception here being an attunement less to the... traditional taming techniques of her forebears and more to 'polite' society.
+Data: https://rentry.co/wep3o
+Music: 
+
 
 Name:	Amity "Magicat" Ricard
 Note:	Small cat does her best to be the support her friends need. Prefers damage prevention over healing.
