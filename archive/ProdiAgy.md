@@ -1,6 +1,8 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
 #### -> old april guide @ rentry.co/dadaptguide <-
 #### -> written by a nerd who likes to optimize <-
+!!! info Last update to the guide: Readded prior_loss_weight, use regularization along with weight_decay, the values I've put in .json are already good and shouldn't need to be changed in most cases. I will update all the models on CivitAI once again to account for the use of regularization images. Due to using these it now takes 7 minutes on 1600 steps (BS1/GAS1).
+!!! info With the above changes iA3 training times are now longer and more closely align with LoRa and its variants. Expect 1000-2000 steps.
 
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
@@ -10,7 +12,7 @@
 ##PINK = D_COEF 1 | CYAN = D_COEF 2 | THANOS = D_COEF 3
 
 ####USE D_COEF TO SCALE LR (SHOULD ONLY BE DONE UNTIL YOU FIND A GOOD STARTING LR FOR YOUR DATASET AND OTHER SETTINGS)
-####USE WEIGHT_DECAY IF OUTPUT BECOMES OVERPOWERING TOO SOON AND YOU DONT WANT TO LOWER STEPS.
+####USE WEIGHT_DECAY AND REGULARIZATION/PRIOR_WEIGHT_LOSS IF OUTPUT BECOMES OVERPOWERING TOO SOON AND YOU DONT WANT TO LOWER STEPS.
 ####USE MIN_SNR_GAMMA: LOWER = TEXTURE OVER STRUCTURE; HIGHER = STRUCTURE OVER TEXTURE; 0 = DISABLED.
 ####USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES TOO SOON AND YOU DONT WANT TO INCREASE STEPS.
 ####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH REPETITIONS, EPOCHS, BATCH SIZE AND GRADIENT ACCUMULATION.
@@ -20,7 +22,7 @@
 ![](https://imagizer.imageshack.com/img924/949/QNMtd4.png)
 ####YOU CAN SEE CLEARLY THAT IT FOLLOWS THE LR.  THIS IS WHAT YOU AIM FOR, EITHER NO SPIKE OR SMOOTH AND EVEN SPIKES IN WHICH LOSS FOLLOWS.
 
-# -> [PREVIEWS WITH THE RESULTS HERE](https://civitai.com/user/ia3forchads/models) <-
+# -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED SOON)](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
 Prodigy is DAdaptation on steroids, lighter, faster, more controllable.
@@ -29,12 +31,12 @@ LoKr is about 1-3mb and is basically a LoHa, possibly the best thing for charact
 Both function well for characters and styles given their size.
 
 ##Recommendations:
-!!! info It is recommended to always use regularization for subjects and specific body part styles (ex: faces).
+!!! info It is recommended to always use regularization for subjects (ex: robot, monster, alien, furry, anthro, 1girl/woman, 1boy/man, etc.) and specific area styles (ex: face, breasts, hair, outline, color style, etc.).
 iA3 for everything at great quality while maintaining small size, 200kb.
 !!! info iA3 doesn't need captions if you don't want them.
 !!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
 DyLora as a last resort if you are somehow brain damaged.
-Prodigy is the best optimizer (currently, likely ancient within 5 months) fight me on this.
+Prodigy is the best optimizer (currently, likely ancient within 5 months), you can go ahead and fight me on this.
 
 ##Base iA3 Prodigy .json:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
@@ -56,18 +58,18 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 3,
+  "min_snr_gamma": 10,
   "multires_noise_discount": 0.0,
   "multires_noise_iterations": 0,
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.400,
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.030\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "prior_loss_weight": 0.100,
   "sample_every_n_epochs": 0,
-  "sample_every_n_steps": 100,
+  "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 100,
+  "save_every_n_steps": 200,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,
@@ -103,7 +105,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 3,
+  "min_snr_gamma": 10,
   "multires_noise_discount": 0.0,
   "multires_noise_iterations": 0,
   "network_alpha": 64,
@@ -113,11 +115,11 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months) fight 
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.400,
+  "prior_loss_weight": 0.100,
   "sample_every_n_epochs": 0,
-  "sample_every_n_steps": 100,
+  "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 100,
+  "save_every_n_steps": 200,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,

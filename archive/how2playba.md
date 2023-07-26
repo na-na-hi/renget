@@ -1,4 +1,6 @@
 # /bag/ Newfag guide
+
+![stop asking](https://i.imgur.com/NVzqzgP.png)
 How to play the game for the completely retarded. Not just a reroll guide. 
 Scroll to the bottom for my last edit date.
 
