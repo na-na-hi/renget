@@ -1,0 +1,7 @@
+###Spoilers for Team Buckler
+
+*The following reveals some secrets about Team Buckler. If you don't want to be spoiled, read their story "Buckle Up" first. You can find out more about the team here: https://rentry.org/pmdg_clover_minor_personalities#team-buckler*
+
+In reality, being caught in a dungeon shift did not just warp Team Buckler to another continent. Instead, they were sent to another universe entirely. In their original world, they lived through the events of the Rescue Team games, which involved fighting many Legendaries and saving the world from an asteroid impact. The same basic events occurred in the Clover Guild’s world, except the roles of the heroes were taken by a human-turned-Pikachu and a native Totodile.
+
+In addition, Cooper is actually a counterpart of Booker from a parallel human universe. His true name is Booker as well, and all the details of their lives are identical (up until Cooper came to the PMD world 2 years before “Buckle Up”—Booker remained in the human world longer, coming to the PMD world 1.5 years after Cooper). They have the same Aura, share all the same interests, and get all the same references and jokes. They originally had the same personality as well, though Cooper’s traumatizing experiences have changed him and made him more jaded than Booker. Therefore, they do not always behave the same way, but they truly are the same person at the core, and there are notable similarities between them.

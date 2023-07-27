@@ -217,28 +217,7 @@ Negatives:
 
 
 ----------------------------------------------------------------------------
-
-#Planned LoRAs for release later
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------
-
-#Additional Troubleshooting and Comments
-
-##Coming soon
-
-----------------------------------------------------------------------------
-
 #Closing
 
-You can follow me on twitter for LoRA updates along with AI image gens.  
-DM any issues that come up as I want to troubleshoot together and make LoRAs that are more consistent and learn from mistakes, thank you!
+INACTIVE. No planned updates or releases
 !!! note [Daniel Webb @Bittrekt](https://twitter.com/Bittrekt)

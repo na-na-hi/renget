@@ -74,7 +74,7 @@ https://drive.google.com/drive/folders/1saDTGz_N-jcXTZ3Tz7rdEQV8GnZGPJez
 **CharacterHub archive**
 https://chub-archive.evulid.cc
 [](https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw static dump up to 05.07.2023, got deleted)
-- unofficial mirror of chub\.ai 
+- unofficial mirror of chub\.ai; also includes cards from various rentries and the archives linked above
 
 **4chan meta list**
 - check out the link at the bottom of this rentry
@@ -140,6 +140,9 @@ https://holara.ai
 
  ![](https://files.catbox.moe/bg6bey.png)
 
+##### Other
+https://tao.studio
+- filtered, free, zero control via ui but possibly some via devtools; listed for reference; tested [2023-07-27]
 
 ***
 
@@ -217,12 +220,6 @@ https://rentry.org/mikugg
 
 ![](https://files.catbox.moe/uwxk54.png)
 
-##### Project Akiko
-https://github.com/Project-Akiko/Project-Akiko-Web
-- independent alternative to SillyTavern (?)
-
-![](https://files.catbox.moe/y2s0ix.png)
-
 ##### TavernAI
 https://github.com/TavernAI/TavernAI
 - frontend for OAI and Kobold; local install
@@ -234,6 +231,9 @@ https://mega.nz/folder/LXxV0ZqY#Ej35jnLHh2yYgqRxxOTSkQ
 ##### ~Fun~
 https://rentry.org/weirdbutfunjailbreaksandprompts
 - collection of one-use prompts to take a funny screenshot with a new bot
+
+https://rentry.org/jinxbreaks
+- collection of jailbreaks to set the tone of a roleplay
 
 ***
 
@@ -250,6 +250,11 @@ https://files.catbox.moe/iworgx.png ; https://files.catbox.moe/68939b.png
 https://botprompts.net
 This site was updated regularly with new "bots". They're only jsons so you had to assemble the cards yourself. The bots were decent enough. Now it looks dead.
 https://files.catbox.moe/d71zj4.png
+
+**Project Akiko**
+https://github.com/Project-Akiko/Project-Akiko-Web
+This looked like an independent alternative to SillyTavern; disappeared for unknown reason.
+https://files.catbox.moe/y2s0ix.png
 
 ***
 ***

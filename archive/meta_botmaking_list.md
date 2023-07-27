@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-07-14)==<-
+->==(Updated 2023-07-27)==<-
 ***
 [TOC2]
 ***
@@ -55,22 +55,13 @@ Edit: -
 https://rentry.org/SillyT_Lorebook
 
 Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
-Edit: 27 Jun 2023 16:45 UTC
-- 1785 words, 10 minutes read
+Edit: 13 Jul 2023 13:31 UTC
+- 2078 words, 12 minutes read
 
 *"A how-to on Lorebooks. What they are, how to use them, with examples."*
 ***
+[](##OnWritingCards https://rentry.org/OnWritingCards Pub: [11 Jul 2023 No.94619531](https://desuarchive.org/g/thread/94618843/#94619531) Edit: 11 Jul 2023 17:37 UTC - 3131 words, 17 minutes read *"Personal method of writing bots, focused on list and plaintext formats."*)
 
-##OnWritingCards
-https://rentry.org/OnWritingCards
-
-Pub: [11 Jul 2023 No.94619531](https://desuarchive.org/g/thread/94618843/#94619531)
-Edit: 11 Jul 2023 17:37 UTC
-- 3131 words, 17 minutes read
-
-*"Personal method of writing bots, focused on list and plaintext formats."*
-
-***
 ##NG_CharCard
 https://rentry.org/NG_CharCard
 
@@ -91,11 +82,7 @@ https://rentry.org/myclaudecantbethiscute
 https://rentry.org/TURBOSHIT
 [27 May 2023 No.93700208](https://desuarchive.org/g/thread/93698139/#93700208)
 *"some quick shitty rentry about some turbo stuff I learned"*
-
-3. HochiTurboTips
-https://rentry.org/HochiTurboTips
-[31 May 2023 No.93783480](https://desuarchive.org/g/thread/93781919/#93783480)
-*"Tips on OAI settings, plus a few prompt sets for old and new Turbo models"*
+[](3. HochiTurboTips https://rentry.org/HochiTurboTips [31 May 2023 No.93783480](https://desuarchive.org/g/thread/93781919/#93783480) *"Tips on OAI settings, plus a few prompt sets for old and new Turbo models"*)
 
 ***
 ***

@@ -136,33 +136,6 @@ https://arch.b4k.co/vp/thread/51360830/ 12 lollercaust + confusing extreme lag f
 https://arch.b4k.co/vp/thread/52254402/ [14] magic gym, and dragon pulse spamming
 https://arch.b4k.co/vp/thread/52259578/ 15 victory road broke
 
-##Pokemon Empire
-!!! note Status: Completed
-    The third major LP done in 2022, and the first one to star a second tripfag, after the tauros incident. I'll save some time and just let the game's developers describe it themselves.
-    ![still shorter than some cutscenes](https://arch-img.b4k.co/vp/1661962005672.png)
-    It's basically a reborn clone, but with some of the edge being replaced with pretentiousness, and a lot of it, even at the expense of gameplay.
-    >we're neither woke nor do we bow to the mob
-    and yet we're still not allowed to have onscreen handholding with the player character's childhood friend. literally 1984
-    Also includes the cutscene that combined the writer's barely disguised fetish, extreme cutscene stupidity, and shitty rewards for completing a terribly executed slog - the three things I hate the most in fangames - to cause me to ragequit, which caused an incident that lead to an anon taking up a tripcode and continuing after I burned out. It's technically a dragon monotype if you include pangolins, kaijus, and assorted reptiles as "dragons".
-   
-    Like the Wack threads, this playthrough also had some overlap with other LPs; in this case, the latter 2 threads overlapped with Pokemon Opal, albiet the short scrapped playthrough I did before I burnt out because the game didn't get good until like 12 hours in or whatever.
-    If wagiedos doesn't return by the time I hear about the next Empire update I'll probably redo this playthrough and experience the clusterfuck myself.
-
-https://arch.b4k.co/vp/thread/51366462/ 1 emergency landing
-https://arch.b4k.co/vp/thread/51368760/ 2 writefag pls
-https://arch.b4k.co/vp/thread/51375385/ 3 the more things change the more they stay the same
-https://arch.b4k.co/vp/thread/51381408/ 4 case in point
-https://arch.b4k.co/vp/thread/51387895/ 5 tempting fate
-https://arch.b4k.co/vp/thread/51389528/ 6 wild west handholding, now with forced memes
-https://arch.b4k.co/vp/thread/51409430/ 7 the 9/11 special
-https://arch.b4k.co/vp/thread/51434427/ 8 tonight's episode: the writer's barely disguised fetish
-https://arch.b4k.co/vp/thread/51443507/ 9 new tripfag, pressing F, and self-cockblocking
-https://arch.b4k.co/vp/thread/51453058/ 10 more self-cockblocking and oh god north is back
-https://arch.b4k.co/vp/thread/51471484/ 11 drawfag didn't arrive
-https://arch.b4k.co/vp/thread/51489300/ 12 my replacement fukced up the original post
-https://arch.b4k.co/vp/thread/51868978/ [13] now entering afghaniraq
-https://arch.b4k.co/vp/thread/51871975/ [14] i don't even know what subtitle to give
-
 ##Pokemon Wack (doubles mode mono-steel)
 !!! danger Status: shit doesn't work
     This was a thing that happened. After about 2 threads of fucking around with random games the thread sent me to see if they'd last more than 2 threads or if they'd just get thrown into the reject pile due to any combination of being really boring (solar light & lunar dark, infinity), being so broken it wouldn't launch twice (soulstones), or just being frustrating due to a lack of quicksave (infinity), I decided to go back to Pokemon Wack to try again in a new playthrough. There would be two gimmicks.
@@ -202,28 +175,6 @@ https://arch.b4k.co/vp/thread/51730733/ 9 generic jungle area time
 https://arch.b4k.co/vp/thread/51750632/ 10 the boring part
 https://arch.b4k.co/vp/thread/51760079/ 11 approaching the end
 https://arch.b4k.co/vp/thread/51810074/ 12 luke, i am your overused plot device (also softlocked)
-
-##Pokemon Opal
-!!! note Status: Completed
-    The fifth major LP, notable for bird spam instead of dragon spam. For the sake of completeness, the first few threads before I burnt out from boredom are included, but for all intents and purposes, this playthrough was done by Wagiedos after he finished empire chapter who the fuck knows who the fuck cares, who then disappeared after this LP.
-also, looking through the archive, it seems like the lurkers and tripfags were considerably hornier than usual.
-
-https://arch.b4k.co/vp/thread/51868978/ -2 all the official starters suck
-https://arch.b4k.co/vp/thread/51871975/ -1 rule 5 compliant
-https://arch.b4k.co/vp/thread/51882385/ 0 burnout
-https://arch.b4k.co/vp/thread/51905683/ 1 new champ
-https://arch.b4k.co/vp/thread/51961356/ 2 cockblocking, schizos, normies, and a ban
-https://arch.b4k.co/vp/thread/52102017/ 3 BOOBA 
-https://arch.b4k.co/vp/thread/52123785/ 4 conspiracies, schedule slippage, handholding, infodumps, & more
-https://arch.b4k.co/vp/thread/52153246/ 5 the combination inevitable tournament arc/pokemon league
-https://arch.b4k.co/vp/thread/52232415/ 6 hey guys, remember reborn?
-https://arch.b4k.co/vp/thread/52254402/ 7 flashbacks, spooky ghost stuff, and incels
-https://arch.b4k.co/vp/thread/52297850/ 8 cursed thread
-https://arch.b4k.co/vp/thread/52321282/ 9 niggas gonna nig
-https://arch.b4k.co/vp/thread/52393565/ 10 oh hey writefag is back
-https://arch.b4k.co/vp/thread/52429062/ 11 oh shit the world is ending now
-https://arch.b4k.co/vp/thread/52482468/ 12 the very definitely final dungeon
-https://arch.b4k.co/vp/thread/52514761/ discussion thread
 
 ##Pokemon Violet
 !!! warning Status: missing namefag
@@ -319,50 +270,3 @@ currently stuck on jeeve stobs (6th gym) because of level cap & coverage shenani
 https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
 https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
 https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
-
-##Rejuvenation: Kaizoshit Edition
-!!! note Status: Completed (thank fucking god this is over)
-    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a kaizo hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release. Currently being done by Wagiedos.
-    Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984, alongside a vast assortment of other bullshit like adding pulse3 for certain opposing pokemon only (gives them all their abilities at once), blatantly illegal EVs, cancerous lack of item availability while opponents freely get high tier items, etc. while freely giving high tier pokemon, pseudo-legendaries, legendaries, mythicals, etc. to opposing teams, while sabotaging player access to items or actually usable pokemon.
-!!! danger DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
-    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
-    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
-    DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
-    
-https://arch.b4k.co/vp/thread/53913991/ 1 it's beginning again
-https://arch.b4k.co/vp/thread/53921488/ 2 not filtered yet
-https://arch.b4k.co/vp/thread/53929481/ 3 it's over
-https://arch.b4k.co/vp/thread/53939424/ 4 procrastinating to summon another tripfag
-https://arch.b4k.co/vp/thread/53952218/ 5 another cursed thread
-https://arch.b4k.co/vp/thread/53965022/ 6 oops, all whiteouts
-https://arch.b4k.co/vp/thread/53973907/ 7 WTF: the thread
-https://arch.b4k.co/vp/thread/53986393/ 8 lol filtered
-https://arch.b4k.co/vp/thread/53995502/ 9 an OP image that isn't cropped r34 this time, i think wagie's tripcode was cracked again
-https://arch.b4k.co/vp/thread/53999433/ 10 nevermind it wasn't cracked
-https://arch.b4k.co/vp/thread/54008063/ 11 time to cuddle with some redheads
-https://arch.b4k.co/vp/thread/54014436/ 12 WITNESSED
-https://arch.b4k.co/vp/thread/54026283/ 13 we're back
-https://arch.b4k.co/vp/thread/54034165/ 14 i love time travel i love making an already convoluted story even harder to follow
-https://arch.b4k.co/vp/thread/54040141/ 15 sidequest hell
-https://arch.b4k.co/vp/thread/54045319/ 16 lol filtered again
-https://arch.b4k.co/vp/thread/54049796/ 17 it's called /vp/ plays because half of /vp/ is doing their own playthrough
-https://arch.b4k.co/vp/thread/54055015/ 18 suffer hours
-https://arch.b4k.co/vp/thread/54059516/ 19 kaizoshit, splinter playthroughs, and more
-https://arch.b4k.co/vp/thread/54062801/ 20 sidequest hell 2
-https://arch.b4k.co/vp/thread/54067307/ 21 sidequest hell 3
-https://arch.b4k.co/vp/thread/54072949/ 22 fucking commies
-https://arch.b4k.co/vp/thread/54081237/ 23 well, that was anticlimactic
-https://arch.b4k.co/vp/thread/54083079/ 24 aw shit here we go again
-https://arch.b4k.co/vp/thread/54086575/ 25 what the fuck
-https://arch.b4k.co/vp/thread/54092082/ 26 convoluted bullshit
-https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
-
-##Wagiedos's Desolation Nuzlocke
-!!! info Status: Ongoing
-    It's a nuzlocke of Desolation ran by the other main tripfag, Wagiedos. Hopefully this attempt won't cause Wagie to ragequit due to padding and shitty mapping.
-    There's pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause will apply instead.
-
-https://arch.b4k.co/vp/thread/54113040/ 1 it's beginning
-https://arch.b4k.co/vp/thread/54115313/ 2 obligatory ghost area
-https://arch.b4k.co/vp/thread/54125304/ 3 oh god
-https://arch.b4k.co/vp/thread/54135049/ 4 sadistic mapping time

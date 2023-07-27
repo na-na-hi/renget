@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. The "You look lonely" scene from Bladerunner, but with Booker as Ryan Gosling and Sneasel as the hologram girl, captioned something like ">literally bee"/"omg he's literally bee"
 1. Sad, disappointed Smith looking at his plate of food, which holds normal, clean, non-grimy food.
 1. Tropius's bananas falling off, followed by various guildmons rushing to grab some, much to Tropius's displeasure
 1. Princess Wooper

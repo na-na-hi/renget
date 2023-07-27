@@ -87,7 +87,6 @@
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**[72h] CRT/LED Effects - Default Edition** | [2018285](https://assets.clip-studio.com/en-us/detail?id=2018285) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/82/2018285/thumbnail?1690049173)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
 **Peripheral dimming Tools (周辺減光ツール)** | [1757427](https://assets.clip-studio.com/en-us/detail?id=1757427) | **==10 GOLD==**, **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/74/1757427/thumbnail?1596097236)
 ** **|[]()|  |![]()

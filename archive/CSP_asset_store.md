@@ -187,6 +187,7 @@
 **Add handwriting-style thickness (auto action)**|[2002256](https://assets.clip-studio.com/en-us/detail?id=2002256)| [DL](https://files.catbox.moe/0eu4g9.laf) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/56/22/2002256/thumbnail)
 **Retro processing filter**|[1687209](https://assets.clip-studio.com/en-us/detail?id=1687209)|[DL](https://pixeldrain.com/u/PGwjVkjs)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/72/1687209/thumbnail)
 **MZ Pink Corrected (MZ 핑크 보정(updated))**|[1895113](https://assets.clip-studio.com/en-us/detail?id=1895113)|[DL](https://pixeldrain.com/u/bqGuAMXd)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
+**CRT / LED Effects - Default Edition** | [2018285](https://assets.clip-studio.com/en-us/detail?id=2018285) | [DL](https://files.catbox.moe/zvqh67.laf) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/85/82/2018285/thumbnail?1690357502)
 ****|[]()|[DL]()|![]()
 
 -> [**[TOP]**]() ->

@@ -79,6 +79,8 @@ Some examples include but are not limited to:
 *Abi Kadabura* (EN): https://www.youtube.com/@AbiKadabura
 *Sirahosi Awawa* (JP): https://www.youtube.com/@SirahosiAwawa
 *Kai Saikota* (EN): https://www.youtube.com/channel/UCC4hjJp_MttwfZcuWc0OpVQ
+*Nebi Nebu* (EN): https://www.youtube.com/@NebiNebu
+*Lottie Shinju* (EN): https://www.youtube.com/@LottieShinju
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

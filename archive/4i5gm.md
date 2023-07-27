@@ -20,7 +20,7 @@ Inigo frowned and slipped his phone back into his pocket. None of his texts were
 
 -> ![Image description](https://i.imgur.com/Xp5UeLK.jpg) <-
 
-The dark-haired newscaster spoke out, changing her stance so she was in the line of the shot. "This is the one and only Reporter Akari Honda from the WK Network, coming from you live from the Shiketsu Battle Tournament! And today, we have one of the winning competitors of the first rounds, fresh from his intense match! Please tell our lovely audience who you are!" She held up the mic towards him.
+The dark-haired newscaster spoke out, changing her stance so she was in the line of the shot. "This is the one and only Reporter Akari Honda from the WK Network, coming to you live from the Shiketsu Battle Tournament! And today, we have one of the winning competitors of the first round, fresh from his intense match! Please tell our lovely audience who you are!" She held up the mic towards him.
 
 Inigo was taken aback for a moment by the sudden ambush. He was in a hurry, but maybe this was a good thing. Gigan landed on Inigo's shoulder and gave the woman a suspicious look. Inigo tightened his red tie for a moment, before striking a confident pose and putting on his trademark grin. 
 
@@ -98,7 +98,7 @@ Nope, not there. He ran to the next room.
 
 Damn, he must've impressed Sally's parents today. He wondered if Hoge's parents just watched him beat their perfect daughter. That can't be good. He groaned before running into another room.
 
-"Majestic-sempai? Sir, I didn't know we had cheerleaders."
+"Majestic-sensei? Sir, I didn't know we had cheerleaders."
 
 <MYOGA! I'm just checking their credentials. HAHAHA!>
 
@@ -122,7 +122,7 @@ Inigo ran up the stairs only to come to a skidding halt. Two burly security guar
 
 The stadium sign cracked loudly as Inigo careened into it face-first. He slid down the smooth surface, landing in a dazed heap on the sunbaked pavement below. Blinking slowly, Inigo stumbled to his feet. The cheerful din of the festival drifted hazily back into focus.
 
-"Ow. Guess we just gotta hang out here a bit until the heat dies down." Inigo felt around his blazer. "Crap, did I leave my wallet at my locker?"
+"Ow. Guess we just gotta hang out here a bit until the heat dies down." Inigo felt around his blazer. "Crap, did I leave my wallet in my locker?"
 
 Gigan mewed worriedly, nudging his cheek. Inigo sighed, "Yeah, I know. No money for snacks or merch."
 
@@ -179,7 +179,7 @@ The two kept on walking passed a series of game stalls such as the Majestic Lase
 
 "Must be cool getting secret Legion missions," Inigo mused as they looked around. "You got the final part of that package, right? What was in it?"
 
-Junichi shrugged, "I'm not sure. The key opened the pack and I found this." He held out a black syringe with a red liquid inside. "No labels or anything. I heard some higher up from Tokyo's been sending them to random low members. I just happened to be lucky enough. Some kind of experimental drug. All it said was to use it in case of an emergency."
+Junichi shrugged, "I'm not sure. The key opened the pack and I found this." He held out a black syringe with a red liquid inside. "No labels or anything. I heard some higher up from Tokyo's been sending them to random low members. I just happened to be lucky enough. Some kind of experimental drug. All it said was to use it in case of an emergency. The label says "TR-D2C"."
 
 Inigo frowned, "I got a bad feeling. Take it from someone born in that crowd. I've seen drugs that just blow up your jaw, or turn your blood into jelly. It's messed up. I'd just throw it away."
 
@@ -244,7 +244,7 @@ Inigo hesitated for a moment, then knocked softly on the suite's door. "Hoge? Ar
 
 Hoge had hurried away from the lockers, unable to face Inigo or any of her classmates after her loss. She knew she had little chance of beating Inigo, but some small, foolish part of her had hoped for a miracle. Now she just felt sick and ridiculous.
 
-Blindly, she made her way up to one of the vacant VIP balconies with wide glass windows that overlooked the arena below. She needed to be alone. Somehow the loud crowd under her drowned out the words in her head. As she sank into a plush chair, the full weight of her failure crashed down on her. Hot, angry tears spilled down her cheeks. She was letting everyone down - her friends, her teachers, herself. Most of all, she hated that a small, resentful part of her had wanted Inigo to lose. What was wrong with her?
+Blindly, she made her way up to one of the vacant VIP balconies with wide glass windows that overlooked the arena below. She needed to be alone. The loud crowd under her drowned out the words in her head. As she sank into a plush chair, the full weight of her failure crashed down on her. Hot, angry tears spilled down her cheeks. She was letting everyone down - her friends, her teachers, herself. Most of all, she hated that a small, resentful part of her had wanted Inigo to lose. What was wrong with her?
 
 A soft knock interrupted her miserable thoughts.  She didn't want him to see her like this. She half-shouted her words so he could hear her through her quirk. "Please, just go," she choked out. "I don't want to talk."
 
@@ -264,13 +264,13 @@ At that, Hoge slowly opened the door. Inigo stood up and folded her into his arm
 
 His unwavering faith brought fresh tears to her eyes. She clung to him, letting the steady beat of his heart soothe away her doubts, even if just for this moment. She was too conflicted to confess the truth, but here in his arms, she could pretend that she did belong. Afterward, she would work hard to prove to herself that she deserved to be here, but that was later. 
 
-Outside the suite's one-way windows, camera flashes lit up the arena grounds and the crowd roared. But inside, in their own private world, Hoge and Inigo held each other close.
+Outside the suite's one-way windows, camera flashes lit up the arena grounds and the crowd roared. But inside, in their own private balcony, Hoge and Inigo held each other close.
 
--> ![Image description](https://i.imgur.com/0JwxZ0C.jpg) <-
+-> ![I can forfeit the rest of the tourney and stay here with you right?](https://i.imgur.com/0JwxZ0C.jpg) <-
 ***
 ***
 ***
-####VI. Bonus Scene
+####VII. Bonus Scene
 
 Kaga sank into a deep lunge, feeling the burn in his thighs as he held the position. 10...11...12... He counted off in his head, embracing the fatigue flooding his muscles. A few more reps and he'd be ready. He threw several punches into the air. Gotta be faster! Stronger! 
 

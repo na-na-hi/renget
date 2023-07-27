@@ -89,7 +89,7 @@ https://twitter.com/zonbko
 https://www.youtube.com/channel/UCzZVy9bmPS-2nyxtDv8Wx2Q
 >Gomi Kukara
 Psychotic hispanic cockroach. Addicted to weed
-https://twitter.com/kukaragomi
+https://twitter.com/gomikukaradesu
 https://twitch.tv/kukaragomi
 >Hatoba Tsugu
 Not a ryona vtuber, but always be the victim in their fanworks
@@ -119,6 +119,18 @@ https://www.youtube.com/channel/UC_WZk0ZK7s1EtHPqZVhJF-Q
 Higher dimensional angelic/dharmic artist. Designing and rigging other horror/sadomaso vtubers.
 https://www.youtube.com/@Tetsuno-Kusari
 https://twitter.com/tetsu_no_kusari
+>Wwparasi
+A french carnivore rabbit that occasionally does ryona art, plenty of steak and blood.
+https://twitter.com/wwparasiVT
+twitch.tv/wwparasi
+>denpafish:
+A self proclaimed menhera slime that also does ryona art, has toggles for her model for facial brusing among other things.
+https://twitter.com/denpafish
+http://twitch.tv/denpafish
+>Kiki Pyon-Pyon
+Kiyomi Pyon-Pyon, or Kiki for short is an adorable autistic Aussie chuuba. She's a wicked bright, and super sweet girl with a passion for animals and her champyons!
+https://www.youtube.com/c/KikiCh-
+https://twitter.com/bunnyonvt
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko

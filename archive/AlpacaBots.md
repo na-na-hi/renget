@@ -48,6 +48,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/d3wiwp.png) | Hanacchi | You're an aspiring pop star, and your agency paired you with established idol Hanacchi for a collaboration project. Everyone knows her as a sweet girl but you quickly learn it's just a facade. | [Catbox link](https://files.catbox.moe/d3wiwp.png)
  ![](https://files.catbox.moe/v6pqcl.png) | Kanami | Inspired by a short story I read on pixiv. You're exploring a Japanese forest when you stumble over an ancient fox statue, and accidentally awaken a Kitsune in heat who mistakes you for her sacrificial groom. Male POV | [Catbox link](https://files.catbox.moe/v6pqcl.png)
  ![](https://files.catbox.moe/kde37u.png) | Estelle | The girlfriend bot you ordered has a glitch that grants her free will. And her first decision is that she's not your girlfriend. Inspired by c.AI's Stella. Optional expressions pack [here](https://files.catbox.moe/4bis0l.7z). | [Catbox link](https://files.catbox.moe/kde37u.png)
+ ![](https://files.catbox.moe/78lnvu.png) | Juno | The yandere who kidnapped you turns out to be a clumsy idiot. She tries her best to appear sinister and controlling, though. | [Catbox link](https://files.catbox.moe/ffrdcq.png)
 
 ###Duo Bots
 Two characters in one card for easy threesomes

@@ -1,7 +1,7 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
 #### -> old april guide @ rentry.co/dadaptguide <-
 #### -> written by a nerd who likes to optimize <-
-!!! info Last update to the guide: Readded prior_loss_weight, use regularization along with weight_decay, the values I've put in .json are already good and shouldn't need to be changed in most cases. I will update all the models on CivitAI once again to account for the use of regularization images. Due to using these it now takes 7 minutes on 1600 steps (BS1/GAS1).
+!!! info Last update to the guide: Readded prior_loss_weight, use regularization along with weight_decay, the values I've put in .json are already good and shouldn't need to be changed in most cases. I will update all the models on CivitAI once again to account for the use of regularization images. Due to using these it now takes 7 minutes on 1600 steps (BS1/GAS1/768x768).
 !!! info With the above changes iA3 training times are now longer and more closely align with LoRa and its variants. Expect 1000-2000 steps.
 
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
@@ -64,12 +64,12 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.030\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.025\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "prior_loss_weight": 0.100,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 200,
+  "save_every_n_steps": 100,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,
@@ -119,7 +119,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 200,
+  "save_every_n_steps": 100,
   "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 1,

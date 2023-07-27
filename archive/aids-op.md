@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/gt2S7Sq.jpg)
-CFG Edition
+![suggested OP image](https://i.imgur.com/i5AVXC2.jpg)
+Overdosing on Copium Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>438561097
+Last thread: >>439390335
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -33,14 +33,15 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is Summer Friday! Reply to the anchorpost with your sunny prompts! Last: >>438623258
+\>Summer Friday is over, weekly theme suggestions are being voted on! https://youpoll.me/105337
  
 ▶News
-\>(07/20) NAI drops https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
-(07/18) LLaMA 2 released: https://ai.meta.com/llama >>438307469
-(07/09) Pretraining on the next NAI model is complete, no ETA yet.
-(07/06) Sama-chama goes Global https://openai.com/blog/gpt-4-api-general-availability
-(07/06) Continuing the Stability tradition, SDXL gets leaked https://pastebin.com/b8kXrkAF
+(07/24) The Retnet source code is out; this means... something. https://github.com/microsoft/torchscale/commit/bf65397b26469ac9c24d83a9b779b285c1ec640b
+(07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100. Imagine the seethe.
+(07/23) CarperAI/Stability drops new 70b finetune to LLamA2
+(07/20) NAI drops https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
+(07/18) LLaMA 2 released: https://ai.meta.com/llama
+
 
 
 #Perma-Template

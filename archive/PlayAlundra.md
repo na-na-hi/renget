@@ -1,6 +1,6 @@
 # PlayAlundra's beepy boopys
 
-->![Alundra](https://files.catbox.moe/8xtfya.jpg)<-
+->![Please play Alundra it is a cool 2D "Zelda-like" even when that term does Alundra disservice. It focuses more on puzzles and story than Zelda but not in PS4-PS5 way. You can jump in it as well! It's a cool adventure! Do give it a shot on emulator with a legal .iso file you got from making back-ups from your own disc you bought from a retailer back when PS1 games were sold. Or buy it on some Playstation I dunno. Or just Yarr Harr or something.](https://files.catbox.moe/8xtfya.jpg)<-
 
 ->Yo<-
 I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
@@ -16,6 +16,8 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**BT-42 Team** | **1170 Tokens (872 Permanent)**
+![Benis :D](https://files.catbox.moe/wt7id1.png) | Mika, Aki, and Mikko doing tank stuff. Three starters. 1. You are their cook and make(please make) good food for them. 2. You are exchange student, yes I know a trope but please don't judge me. It's hard. 3. You are a reporter doing an interview. None of those make any sense for lore, maybe 3rd one to some extent but I am very tired right now. I hope you have fun with Finngolia represents. Please fix and fork it in chub or something if possible. Or send me e-mail with your proper version.| [Card](https://files.catbox.moe/5n8xpz.png) [JSON](https://files.catbox.moe/a25ncp.json) [CHUB](https://www.chub.ai/characters/playalundra/2a9d602b-b02a-4156-b652-ced28065635f/)
 **Katrina** | **657 Tokens (320 Permanent)**
 ![Your python code makes mommy smirk](https://files.catbox.moe/nydzk7.png) | Autism-tier milf who wants a cocktail, you are convinient shield from possible guys hitting on her. I heard she can be fun to chat with in general. Made for [Silver Surfer](https://rentry.org/SilverSurfer) legend, who also provided the card art once again. Love ya dood. Katrina can be sometimes a bit... Forward, so warning about that is in order. |  [Card](https://files.catbox.moe/nl4u0b.png) [JSON](https://files.catbox.moe/mv204s.json) [CHUB](https://www.chub.ai/characters/playalundra/f96b5d1e-01e0-40de-8081-2d394b11d2ad)
 

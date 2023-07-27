@@ -85,3 +85,39 @@ Sex: Male
 >While he doesn't classify himself as an explorer anymore, he still occasionally takes on tasks that he finds during his travels simply out of the goodness in his heart. On one occasion, this was how he found Pikachu by saving her from an Outlaw. Following this, she begs to be his student - and while he denies her, he still visits Capim Town and the Guild every so often to help train her in the art of exploring and controlling her own electric attacks.
 >Pikachu reminds him of his dead partner.
 >Generally a mysterious guy who's hiding a whole bunch of things.
+
+####Team Buckler
+
+>A skilled and experienced Platinum Rank rescue team from Pokemon Square on the Air Continent. They arrived on the Grass Continent via a dungeon shift, and decided to join the Clover Guild until finding a way home. Cooper and Testa are devoted to their work, and primarily take rescue jobs, but will perform other duties as well. They are very close and care deeply for each other, and they cooperate well and cover each other’s weaknesses in battle. The team slogan is “the shield that saves those in need”, which Testa invented. Cooper isn’t a fan of it.
+
+>One of their most treasured possessions is the Teleport Gem, which can warp the user to a specific location if they hold the item and imagine that place. During the events of “Buckle Up”, it was calibrated to the Clover Guildhall lobby.
+
+>They were introduced in “Buckle Up”:
+> - https://rentry.org/RibombeeBuckler1
+> - https://rentry.org/RibombeeBuckler2
+> - https://rentry.org/RibombeeBuckler3
+
+> The team has some secrets, which were revealed in “Buckle Up”. The information can be found in the following link, but if you want to avoid spoilers, be sure to read “Buckle Up” beforehand.
+> - https://rentry.org/azt5k
+
+#####Cooper
+> Male Torchic. Serious/Lonely/Modest. Mostly Neutral Good.
+
+> A human-turned-Pokemon who arrived on the Air Continent two years ago and teamed up with Testa to found a rescue team. At one point, they were betrayed and falsely accused of a crime, which caused a lynch mob to chase him and Testa through many hazardous places across the land. This traumatized Cooper and gave him crippling trust issues, but with Testa’s help, he’s been trying to overcome this. He mostly trusts the Clover Guild now, and is happy to have some new allies, though he remains wary and cagey at times.
+
+> He has difficulty trusting new people, and can be blunt and aloof towards strangers, but he is kindhearted and always tries to do the right thing. He acts polite in professional settings or towards his friends. He tries to take things seriously and doesn’t joke around much. He used to be rather timid and shy before coming to the PMD world, but has mostly overcome this—though he can relapse on occasion, stuttering or acting flustered if caught by surprise.
+
+> In battle, he takes the role of a glass cannon, using his light weight and agility to his advantage. He darts around and evades enemies while attacking from many angles with strong attacks, including Flamethrower, Aerial Ace, Low Kick, and Shadow Claw. Additionally, due to training with Moltres, he learned a variant of Flamethrower that is highly concentrated and takes the form of a white laser beam. This special move is nicknamed Breath of the Firebird. It has a long charging time, requires Cooper to stay still as it powers up, and can leave him exhausted. However, it is very powerful and has improved range, and Testa can move him around in order to evade attacks if needed.
+
+> He mostly looks like an ordinary Torchic, though his eyes are purple. He typically wears a green headband tied around the base of his crest.
+
+#####Testa
+> Female Squirtle. Jolly/Brave/Quirky. Mostly Neutral Good.
+
+> A friendly and playful native Pokemon who lived on the Air Continent and teamed up with Cooper to found a rescue team. She recovered from the pain and shock of their betrayal much quicker than Cooper, and has been trying to help him recover as well.
+
+> She has a strong sense of justice and tries to help those in need. She is extroverted, enjoys meeting new people, and gets along with just about everyone. She is optimistic, always looks at the bright side, and often tries to cheer people up when they’re down. She likes to mess with Pokemon from time to time, including Cooper. However, she usually acts very gentle and supportive towards him, especially when he has trouble talking or is feeling nervous around new people.
+
+> In battle, she takes the role of a tank, using her sturdy shell to her advantage. She acts as a mobile shield for Cooper, attacking enemies when she has an opening, and protecting him with her body when he needs cover. Her moves are Scald, Ice Beam, Brick Break, and Bite. However, she can adjust the temperature of her water, so Scald can also be used as a typical Water Gun.
+
+> She wears a red bandanna, on which her Clover Guild badge and old Platinum Badge are pinned together. She carries a leather shoulder bag slung across her body, and she pins Cooper’s two badges on it. The bag always contains at least one Confuse Wand, along with various other useful items.
