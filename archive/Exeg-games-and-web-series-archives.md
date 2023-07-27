@@ -19,6 +19,7 @@ Slender: The Eight Pages | [PRESS START](https://slendergames.wordpress.com/2014
 Slender's Shadow | [PRESS START](https://marcsteene.itch.io/slendermans-shadow)
 Stop It Slender (GMOD Required) | [PRESS START](https://steamcommunity.com/sharedfiles/filedetails/?id=171728689)
 Slender: The Arrival | [PRESS START,](https://store.steampowered.com/app/252330/Slender_The_Arrival) [Website](https://www.slenderarrival.com)
+S: Lost Chapters | [PRESS START](https://store.steampowered.com/app/2506890/S_Lost_Chapters/)
 Slendytubbies | [Classic,](https://files.catbox.moe/yx2ew1.rar) [#2,](http://zeoworks.com/games/Slendytubbies2.html) [#2D,](http://zeoworks.com/games/Slendytubbies2D.html) [#3,](http://zeoworks.com/games/Slendytubbies3.html) [#3DLC,](http://zeoworks.com/games/Slendytubbies3C4.html) [Worlds](https://zeoworks.com/games/SlendytubbiesWorlds.html)
 Spectator | [PRESS START](https://store.steampowered.com/app/2132450/Spectator/)
 Pokémon: Cursed Black | [PRESS START](https://www.mediafire.com/file/lld8vxtjdhi3z07/Pok%25C3%25A9mon_Cursed_Black_Release_1.0.zip/file)

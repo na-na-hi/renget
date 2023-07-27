@@ -537,7 +537,7 @@ BEAT THE ROT (Kampai): https://desuarchive.org/tg/thread/89553776/#89565271
 Magical Girls of Shiketsu!: https://desuarchive.org/tg/thread/89565846/#89567731
 It's Reaping time!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689364134053.png
 Nene-chan!: https://desuarchive.org/tg/thread/89565846/#89573486
-Nene Feline Good: https://desuarchive.org/tg/thread/89586376/#q89586712
+Nene Feline Good: https://desuarchive.org/tg/thread/89586376/#89586712
 mmmmm milk: https://desuarchive.org/tg/thread/89586376/#89589591
 Mystery & Detective Stories for Kids: https://desuarchive.org/tg/thread/89615875/#89621560
 Noah the Saint: https://desuarchive.org/tg/thread/89615875/#89625515

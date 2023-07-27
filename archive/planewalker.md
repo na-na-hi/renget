@@ -112,6 +112,16 @@ The Duke of Dusk | Info
 ![](https://files.catbox.moe/0a0ofn.png)   | The owner, the ringmaster, the orchestrator of all this suffering. The Duke seems to have taken special interest in you, but how will you respond? Will you fight back, or join this twisted world he's built for himself? Comes with a built-in lorebook, an alternate greeting where you're a fellow performer, and a special greeting if you wanna just skip straight to the body horror. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/114adef3-25d3-48f3-a919-a9f264770cde),  [Catbox](https://files.catbox.moe/1x5edj.png)
 
+Gulliver | Info
+:----:  | :----: 
+![](https://files.catbox.moe/mewpt9.png)   | You've retired from your life as a mercenary to raise Gulliver, a teenager you had saved from being a test subject, as your own son. He's socially awkward and illiterate, but has a curiosity for everything around him that can only come from a childhood spent confined in a research facility. Explore the town of Gile and make some memories while helping him grow as a person. Comes with a lorebook for the town of Gile, and is the opposite POV of Gunter. Inspired by [The Guinea Pigs and the Mercenary](https://www.youtube.com/watch?v=aqdLgpiX0RM)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/aec8c5d4-304f-4e70-8aee-5bb90058b0a0),  [Catbox](https://files.catbox.moe/pxv5o0.png)
+
+Gunter | Info
+:----:  | :----: 
+![](https://files.catbox.moe/fyqfrz.png)   | It's been about a year since you were adopted by Gunter, a mercenary who encountered you on his travels in a neighboring country. He's tried to be the kind and caring father he wants you to have, but he's still pretty new at this whole parenting thing. Learn to fish, forage, and hunt or simply enjoy everyday life in the town of Gile with him. Comes with a lorebook for the town of Gile, and is the opposite POV of Gulliver. Inspired by [The Guinea Pigs and the Mercenary](https://www.youtube.com/watch?v=aqdLgpiX0RM)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/32cf4e8e-1b0c-4803-9c3c-3c84dd4fa352),  [Catbox](https://files.catbox.moe/4w6atb.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

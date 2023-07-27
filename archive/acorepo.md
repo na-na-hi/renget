@@ -26,6 +26,8 @@ https://files.catbox.moe/snqlro.safetensors
 - Gwen Tennyson embedding
 https://mega.nz/file/JE8QSZZC#KUjECstFWaJnd3Y_WFh30O66Rh4fz7uN7td4aB2y7DA
 - Teen Titans
+	+ Raven
+https://files.catbox.moe/bz6b7c.safetensors
 	+ Jinx
 https://mega.nz/folder/A25XhSzZ#AFk_fQakAiVMfESY_OobvA
 	- Blackfire
@@ -40,6 +42,11 @@ https://mega.nz/folder/Fjpn3awS#dYenm0fD8SEZQL-l3_dYuQ
 https://files.catbox.moe/evj8gm.7z
 - Maddie Fenton
 https://drive.google.com/file/d/1T4HpMyJlGGHQPnkKAu1q1lQfef0PV9dn/view?usp=share_link
+- Nani Pelekai
+https://files.catbox.moe/5inpwl.safetensors
+- Frankie Foster
+https://files.catbox.moe/ekwjfi.safetensors
+
 
 ---
 
@@ -146,8 +153,11 @@ https://civitai.com/models/44410/jessica-rabbit
 - Holli Would (Cool World)
 https://civitai.com/models/91952/holli-would-cool-world
 https://civitai.com/models/114227/holli-would
-- Hello Nurse (Animaniacs)
+- Animaniacs
+	+ Hello Nurse 
 https://civitai.com/models/23001/hello-nurse
+	+ Minerva Minks
+https://civitai.com/models/114505/minerva-mink-animaniacs
 - The Pirates of Dark Water
  	+ Tula
 https://civitai.com/models/79186/tula-the-pirates-of-dark-water
@@ -293,8 +303,11 @@ https://civitai.com/models/31757/evangelyne-wakfu-character-lora
 https://civitai.com/models/104052/amalia-sheran-sharm-wakfu-s1
 - Bakara Jurgen (Dofus Book I: Julith)
 https://civitai.com/models/26980?modelVersionId=32294
-- Anissa (Invincible)
+- Invincible
+	+ Anissa
 https://civitai.com/models/74988/anissa-invincible-character-lora
+	- Atom Eve
+https://civitai.com/models/115034/atom-eve-invincible
 - Harley Quinn 2019 Series
 	+ Harley Quinn
 https://civitai.com/models/77425/harley-quinn-2019-serie
@@ -329,19 +342,25 @@ https://civitai.com/models/64691/rocket-young-justice-lora
 https://civitai.com/models/54580/wondergirl-young-justice-lora
 	- Zatanna
 https://civitai.com/models/62247/zatanna-young-justice-lora
-- Supergirl/Galatea (DCAU)
+- Supergirl/Galatea (DC Animated Universe)
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
-- Huntress (DC Comics)
+- DC Comics
+	+ Huntress
 https://civitai.com/models/114812/huntress-dc-comics
-- Livewire (Superman Adventures)
+	+ Livewire 
 https://civitai.com/models/92381?modelVersionId=98491
-- Star/Ripley Ryan (Captain Marvel)
+- Marvel Comics
+	+ Star/Ripley Ryan
 https://civitai.com/models/14831/star-ryan-ripley
 https://civitai.com/models/86506/star-marvel-comics
-- Kamala Khan (Ms. Marvel)
+	- Vixen
+https://civitai.com/models/115768/vixen-dc-comics
+	+ Kamala Khan
 https://civitai.com/models/107092/khamala-khan-marvel
-- Polaris (X-Factor)
+	+ Polaris (X-Factor)
 https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
+	- Lady Hellbender
+https://civitai.com/models/115776/lady-hellbender-marvel
 - X-Men
 	- Rogue
 https://civitai.com/models/84349/rogue-x-men
@@ -363,9 +382,12 @@ https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
 https://civitai.com/models/105877/mary-jane-watson-spider-man-the-animated-series
 - Felicia Hardy (Spider-man: TAS)
 https://civitai.com/models/107823/felicia-hardy-spider-man-the-animated-series
-- Jessica Drew (Spider-Woman)
+- Spider-man/woman comics
+	+ Black Cat
+https://civitai.com/models/115407/black-cat-spider-man
+	+ Jessica Drew
 https://civitai.com/models/95933/spider-woman-jessica-drew-lora
-- Spider-Woman 2099
+	+ Spider-Woman 2099
 https://civitai.com/models/97816/spider-woman-2099-spider-verse
 - Stripperella
 https://civitai.com/models/100077/stripperella-stan-lees-stripperella-character-lora
@@ -415,21 +437,25 @@ https://civitai.com/models/8779/adventure-time-princess-pack
 	+ BMO
 https://civitai.com/models/16439?modelVersionId=19403
 - Steven Universe
-	+ Lapis Lazuli
+	- Lapis Lazuli
 https://civitai.com/models/25729/lapis-lazuli
 https://civitai.com/models/24880/lapis-lazuli
 https://civitai.com/models/26397/lapis-lazuli-steven-universe
-	- Blue Diamond
+	+ Blue Diamond
 https://civitai.com/models/108240/blue-diamond-steven-universe
 	+ Peridot
 https://civitai.com/models/61438/peridot-steven-universe-character-lora
-	- Connie
+	+ Connie
 https://civitai.com/models/94222/connie-maheswaran-steven-universe
-	- Sadie Miller
+	+ Sadie Miller
 https://civitai.com/models/93411/sadie-miller-steven-universe
-	- Spinel
+	+ Spinel
 https://civitai.com/models/114281/spinel-or-steven-universe
-- Droners
+	+ Amethyst
+https://civitai.com/models/89598/amethyst-steven-universe
+	+ Garnet
+https://civitai.com/models/88907/garnet-steven-universe-
+-Droners
 	+ Corto Heilani
 https://civitai.com/models/42392?modelVersionId=47066
 	- Mouse
@@ -572,7 +598,10 @@ https://civitai.com/models/44473/dora-the-explorer
 https://civitai.com/models/62771/atomic-betty-atomic-betty
 - Marge Simpson (The Simpsons)
 https://civitai.com/models/22953/fonglets-marge-simpson
-- Turanga Leela (Futurama)
+- Futurama
+	+ Amy Wong
+https://civitai.com/models/115489/amy-wong-futurama
+	+ Turanga Leela
 https://civitai.com/models/49933/turanga-leela-from-futurama-lora
 - Queen Bean (Disenchantment)
 https://civitai.com/models/93221/queen-bean-disenchantment
@@ -644,6 +673,8 @@ https://civitai.com/models/23333/gadget-hackwrench-by-unstablenick
 https://civitai.com/models/45219/gadgethackwrench
 - Peg Pete (Goof Troop)
 https://civitai.com/models/67970/peg-pete-lora
+- Sylvia Marpole (An Extremely Goofy Movie)
+https://civitai.com/models/115136/sylvia-marpole-goofy-movie
 - Lola Bunny (Space Jam)
 https://civitai.com/models/19125/lola-bunny
 https://civitai.com/models/114434/lola-bunny-looney-tunes
@@ -687,6 +718,8 @@ https://civitai.com/models/6610?modelVersionId=9149
 https://civitai.com/models/48806/thegoetia-helluva-boss-nsfw-fluffusion
 	- Imps
 https://civitai.com/models/114330/imps-helluva-boss
+- Dr. Hutchison (Rocko's Modern Life)
+https://civitai.com/models/115887/dr-hutchison-rockos-modern-life
 - Sandy (Spongebob)
 https://civitai.com/models/111961/sandy-spongebob-squarepants-nsfw
 - Wammawink (Centaurworld)
@@ -697,6 +730,7 @@ https://civitai.com/models/16074?modelVersionId=18974
 https://civitai.com/models/84101/penny-plasm-or-mighty-magiswords
 - Webby Vanderquack (Ducktales 2017)
 https://civitai.com/models/16051/webby-vanderquack
+
 
 ## 3D characters
 
@@ -728,6 +762,8 @@ https://civitai.com/models/110463/belle-ralph-breaks-the-internet
 https://civitai.com/models/110938/cinderella-ralph-breaks-the-internet
 	- Mulan
 https://civitai.com/models/113832/mulan-ralph-breaks-the-internet
+	- Pocahontas
+https://civitai.com/models/115541/pocahontas-ralph-breaks-the-internet
 - Moana
 https://civitai.com/models/37052/moana-character-lora
 https://civitai.com/models/43084/vaiana-moana
@@ -935,6 +971,8 @@ https://civitai.com/models/113334/vantage-apex-legends
 	+ Wattson
 https://civitai.com/models/38148/wattson-apex-legends
 https://civitai.com/models/14314/wattson-apex-legends-lora
+	- Rampart
+https://civitai.com/models/91695/rampart-apex-legends
 - Lara Croft (Tomb Raider modern)
 https://civitai.com/models/108369/lara-croft-tomb-raider-series-multiple-versions
 https://civitai.com/models/82710/lara-croft
@@ -951,6 +989,8 @@ https://civitai.com/models/111460/chloe-frazer-uncharted-the-lost-legacy
 https://civitai.com/models/113401/elena-fisher-uncharted-4-a-thiefs-end
 - Nillin (Remember Me)
 https://civitai.com/models/85650/nillin-remember-me
+- Jade (Beyond Good and Evil)
+https://civitai.com/models/115868/jade-beyond-good-and-evil
 - Yelena Fedorova (Deus Ex: Human Revolution)
 https://civitai.com/models/106416/yelena-fedorova-or-deus-ex-human-revolution
 - Nariko (Heavenly Sword)
@@ -977,12 +1017,17 @@ https://civitai.com/models/111851/mileena-mortal-kombat-mk10-3d-era
 https://civitai.com/models/93307?modelVersionId=99482
 	- Sheeva
 https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms
+	- Sindel 
+https://civitai.com/models/115232/sindel-mortal-kombat-embedding (TI)
 	- Skarlet
 https://civitai.com/models/88846/skarlet-mortal-kombat-mk9mk11
 - Sally Boyle (We Happy Few)
 https://civitai.com/models/84912/sally-boyle-we-happy-few
 - Morgan Yu (Prey)
 https://civitai.com/models/97573/morgan-yu-f-prey-game
+- Guardian's of the Galaxy
+	+ Gamora
+https://civitai.com/models/115694/gamora-gotg-video-game-marvel
 - Vestal (Darkest Dungeon)
 https://civitai.com/models/100100/vestal-darkest-dungeon
 - Clara Lille (Watch Dogs)
@@ -994,6 +1039,8 @@ https://civitai.com/models/109305/may-it-takes-two
 https://civitai.com/models/82831/tess-jak-2
 	- Kiera
 https://civitai.com/models/85627/kiera-jak-and-daxter
+	- Ashelin
+https://civitai.com/models/81268/ashelin-jak-2
 - Clementine (The Walking Dead Game)
 https://civitai.com/models/75068/clementine-the-walking-dead
 - Hat Kid (A Hat In Time)
@@ -1104,8 +1151,8 @@ https://civitai.com/models/17800?modelVersionId=21039
 https://civitai.com/models/20606/modern-american-comics-style-1
 - Limited Blue palette style
 https://civitai.com/models/19525/limited-blue-style-lora
-- Doodles
-https://civitai.com/models/90558/child-type-doodles
+- Vector style
+https://civitai.com/models/25020/dreamy-vector-style
 - Hanna-Barbera backgrounds
 https://civitai.com/models/67279?modelVersionId=75027
 - "Disney Renaissance"
@@ -1177,6 +1224,8 @@ https://civitai.com/models/4607/vaporwave-screenshot (*hypernetwork*)
 https://civitai.com/models/4000/lowpolybabe2k1
 - One-image LoRAs
 https://civitai.com/models/54833?modelVersionId=59209
+- Doodles
+https://civitai.com/models/90558/child-type-doodles
 - Impasto painting style
 https://civitai.com/models/82582/thick-impasto-painting
 - Randolph Caldecott (2.1 SD only)

@@ -142,7 +142,7 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 **Resist** does 50% damage.
 
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
-For healers and buffers you can ignore the environment mood and attack type. 
+For healers, buffers, and tanks you can ignore the environment mood and attack type. 
 Always run full teams (6 students). 
 Supports =/= DPS. They SUPPORT you by bringing CC. They do not deal damage. 
 
@@ -173,9 +173,11 @@ That's it.
 This is the bonsai part. 
 **Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. You use each team for **all content related to their colour**.
 For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten and Hieronymus).
-Once you have more resources you can branch out to a wider roster. 
+Once you have more resources you can branch out to a wider roster.
 
-A good start to every account is upgrading ur Serina to 2\*, as she's your best friend early on.
+**You only need 2 healers and tanks at the start**. Because you need to use at most 2 teams in the missions, limit urself to just 2. Because their attack types don't matter you only need to swap around the DPS 
+
+A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet (or click on the imgur). 
 

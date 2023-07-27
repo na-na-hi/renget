@@ -2,8 +2,6 @@ Welcome to the Vidya Creepypasta General. Feel free to discuss video game-based 
 
 ROOM #??? - ??? Edition
 
->Slender the Arrival remake Countdown
-https://www.slenderarrival.com/
 
 >Video Game Creepypastas & Gaming Urban Legends
 https://rentry.org/creepypasta-centered-wiki
