@@ -36,6 +36,8 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-App
 ###Colab
 https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb
 https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb
+https://github.com/NUROISEA/anime-webui-colab
+https://colab.research.google.com/drive/1TC4SSLncPWytSPvquR6Y4-U7wZRfAXrV
 https://colab.research.google.com/github/ddPn08/stable-diffusion-webui-colab/blob/main/automatic1111.ipynb
 https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl
 https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb
@@ -79,8 +81,10 @@ https://stability.ai/blog/stable-diffusion-sdxl-1-announcement
 
 ###Front-ends with SDXL support
 https://github.com/comfyanonymous/ComfyUI
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
+https://github.com/Stability-AI/StableSwarmUI
+https://github.com/invoke-ai/InvokeAI
 https://github.com/vladmandic/automatic
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
 
 ###Download SDXL v1.0
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0

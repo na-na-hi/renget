@@ -41,6 +41,7 @@
 [Jack](https://files.catbox.moe/myii7p.png)
 [Petey](https://files.catbox.moe/ukmbxk.png)
 [Sixx](https://files.catbox.moe/zh90en.png)
+[Tobias](https://files.catbox.moe/jsr3yo.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

@@ -1,8 +1,8 @@
 #Prodigy Guide for iA3/LoKr - July 2023 
 #### -> old april guide @ rentry.co/dadaptguide <-
 #### -> written by a nerd who likes to optimize <-
-!!! info Last update to the guide: Readded prior_loss_weight, use regularization along with weight_decay, the values I've put in .json are already good and shouldn't need to be changed in most cases. I will update all the models on CivitAI once again to account for the use of regularization images. Due to using these it now takes 7 minutes on 1600 steps (BS1/GAS1/768x768).
-!!! info With the above changes iA3 training times are now longer and more closely align with LoRa and its variants. Expect 1000-2000 steps.
+!!! info Last update to the guide: Readded prior_loss_weight, use regularization along with weight_decay, the values I've put in .json are already good and shouldn't need to be changed in most cases. I will update all the models on CivitAI once again to account for the use of regularization images. Due to using these it now takes 7 minutes on 1600 total steps (BS1/GAS1/768x768).
+!!! info With the above changes iA3 training times are now longer and more closely align with LoRa and its variants. Expect 400-1600 total steps.
 
 ##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
 ![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
@@ -13,7 +13,7 @@
 
 ####USE D_COEF TO SCALE LR (SHOULD ONLY BE DONE UNTIL YOU FIND A GOOD STARTING LR FOR YOUR DATASET AND OTHER SETTINGS)
 ####USE WEIGHT_DECAY AND REGULARIZATION/PRIOR_WEIGHT_LOSS IF OUTPUT BECOMES OVERPOWERING TOO SOON AND YOU DONT WANT TO LOWER STEPS.
-####USE MIN_SNR_GAMMA: LOWER = TEXTURE OVER STRUCTURE; HIGHER = STRUCTURE OVER TEXTURE; 0 = DISABLED.
+####USE MIN_SNR_GAMMA: 1 - LOWEST = TEXTURE OVER STRUCTURE; 20 HIGHEST = STRUCTURE OVER TEXTURE; 0 = DISABLED > 20 = STRUCTURE OVER TEXTURE.
 ####USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES TOO SOON AND YOU DONT WANT TO INCREASE STEPS.
 ####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH REPETITIONS, EPOCHS, BATCH SIZE AND GRADIENT ACCUMULATION.
 ####PRODIGY IS ```DETERMINISTIC```.
@@ -38,8 +38,10 @@ iA3 for everything at great quality while maintaining small size, 200kb.
 DyLora as a last resort if you are somehow brain damaged.
 Prodigy is the best optimizer (currently, likely ancient within 5 months), you can go ahead and fight me on this.
 
-##Base iA3 Prodigy .json:
+##Base iA3 Prodigy .json - Characters/Objects:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
+!!! danger I recommend to always train on Clip Skip 1, even if you are using models trained on other CS.
+!!! danger Use min_snr_gamma, prior_weight_loss (regularization) and weight_decay to control texture bleed and composition. These settings provide great control over the two. The default values I've set are good so I only recommend adjusting min_snr_gamma if you either don't get the character you want or if textures from the dataset bleed through too much. (example: yellow character, uncaptioned dataset = yellow tint bleeds through to everything)
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
@@ -52,20 +54,20 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "LoRA_type": "LyCORIS/iA3",
   "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\"",
   "adaptive_noise_scale": 0.000,
-  "epoch": 160,
+  "epoch": 80,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 10,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.0,
   "multires_noise_iterations": 0,
   "noise_offset": 0.00,
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-2\" \"d_coef=2.0\" \"weight_decay=0.025\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.100,
+  "prior_loss_weight": 0.1,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -83,9 +85,10 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
 }
 ```
 
-##Base LoKr Prodigy .json:
+##Base LoKr Prodigy .json - Characters/Objects:
 !!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger Set Clip Skip according to the maximum Clip Skip you want to use while prompting.
+!!! danger I recommend to always train on Clip Skip 1, even if you are using models trained on other CS.
+!!! danger Use min_snr_gamma, prior_weight_loss (regularization) and weight_decay to control texture bleed and composition. These settings provide great control over the two. The default values I've set are good so I only recommend adjusting min_snr_gamma if you either don't get the character you want or if textures from the dataset bleed through too much. (example: yellow character, uncaptioned dataset = yellow tint bleeds through to everything)
 !!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
 !!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
 !!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
@@ -99,13 +102,13 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "caption_dropout_rate": 0,
   "conv_alpha": 64,
   "conv_dim": 64,
-  "epoch": 120,
+  "epoch": 60,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 1,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 10,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.0,
   "multires_noise_iterations": 0,
   "network_alpha": 64,
@@ -115,7 +118,7 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "noise_offset_type": "Multires",
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.100,
+  "prior_loss_weight": 0.1,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

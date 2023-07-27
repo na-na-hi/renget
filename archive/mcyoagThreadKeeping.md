@@ -41,8 +41,14 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
-https://rentry.org/4i5gm
+>Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
+https://rentry.org/4c3pf
+
+New Artfags:
+Smug Nene
+https://i.4pcdn.org/tg/1690409808573998.png
+Sandatsu intimidating Chris
+https://i.4pcdn.org/tg/1690409885658890.png
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -527,6 +533,8 @@ Writefags (Final)
 https://rentry.org/uzu56
 >Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
 https://rentry.org/4i5gm
+>Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
+https://rentry.org/4c3pf
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -829,6 +837,10 @@ https://rentry.org/kh5sk
 https://rentry.org/go5q8
 >Prelude (Vajar, Carmen, Kin'ike, Ugoki, Amara, Lona, mentions of Caligula, Mahapapapurusa, Unmei, Jahi, Potion Pete and Caniara)
 https://rentry.org/vajar
+>Dragonflies(Kin'ike)
+https://rentry.org/doragonfurai
+>Between the Moon's Reflections (August, Slaine)
+https://rentry.org/zfk7e
 ```
 
 #The City (Reboot)
