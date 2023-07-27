@@ -1,75 +1,47 @@
-#Prodigy Guide for iA3/LoKr - July 2023 
-#### -> old april guide @ rentry.co/dadaptguide <-
+#Prodigy Guide for iA3 - August 2023 
 #### -> written by a nerd who likes to optimize <-
-!!! warning HUGE UPDATE: Captioning was broken until now, no initialization tokens nor class tokens for iA3. Turns out caption_extension needed to be set to .none-use-foldername to use folder name captions or to .txt if using caption files. This along with the fact I've started figuring out regularization for iA3 means that I will be updating all my CivitAI models soon. What has been uploaded so far was completely wrong, which may be a testament to how good iA3 is since I thought the results were normal.
-!!! info The above finding is due to checking bmaltais/kohya_ss' new presets, I noticed some of them (iA3 ones included) have caption_extension set to .none-use-foldername.
-!!! danger EXPECT IA3 JSON TO BE CHANGED COMPLETELY AS MY PAST SETTINGS WERE BASED OFF OF USING NO INIT NOR CLASS TOKEN DUE TO BROKEN CAPTIONING.
-
-##STOP USING ARBITRARY NUMBERS FOR STEPS/EPOCHS, DO IT LIKE THIS.
-![](https://imagizer.imageshack.com/img923/8210/5vzPDb.png)
-##SEE THAT D*LR? CUT IT OFF IF IT SPIKES OR ADJUST SETTINGS SO IT GOES DOWN SMOOTHER.
-####SPIKES CAN BE GOOD, DEPENDS ON YOUR DATASET SIZE AND QUALITY.
-![](https://imagizer.imageshack.com/img924/8109/K5kHtl.png)
-##PINK = D_COEF 1 | CYAN = D_COEF 2 | THANOS = D_COEF 3
-
-####USE D_COEF TO SCALE LR (SHOULD ONLY BE DONE UNTIL YOU FIND A GOOD STARTING LR FOR YOUR DATASET AND OTHER SETTINGS)
-####USE WEIGHT_DECAY AND REGULARIZATION/PRIOR_WEIGHT_LOSS IF OUTPUT BECOMES OVERPOWERING TOO SOON AND YOU DONT WANT TO LOWER STEPS.
-####USE MIN_SNR_GAMMA: 1 - LOWEST = TEXTURE OVER STRUCTURE; 20 HIGHEST = STRUCTURE OVER TEXTURE; 0 = DISABLED > 20 = STRUCTURE OVER TEXTURE.
-####USE ETA_MIN IF LR GOES DOWN TO UNWISE VALUES TOO SOON AND YOU DONT WANT TO INCREASE STEPS.
-####ALL THE ABOVE CAN MAKE YOUR D*LR SPIKE DIFFERENTLY, ALONG WITH REPETITIONS, EPOCHS, BATCH SIZE AND GRADIENT ACCUMULATION.
-####PRODIGY IS ```DETERMINISTIC```.
-
-####EXAMPLE OF LOSS AND LEARNING RATE RELATION:
-![](https://imagizer.imageshack.com/img924/949/QNMtd4.png)
-####YOU CAN SEE CLEARLY THAT IT FOLLOWS THE LR.  THIS IS WHAT YOU AIM FOR, EITHER NO SPIKE OR SMOOTH AND EVEN SPIKES IN WHICH LOSS FOLLOWS.
+#### -> the final entry in the saga...coming full circle after updating this throughout the past month... <-
+!!! warning HUGE UPDATE: Captioning was broken until now, no initialization tokens nor class tokens for iA3. Turns out caption_extension needed to be set to .none-use-foldername to use folder name captions or to .txt if using caption files. Means that I will be updating all my CivitAI models soon. What has been uploaded so far was completely wrong, which may be a testament to how good iA3 is since I thought the results were normal.
+!!! info The above finding is due to checking bmaltais/kohya_ss' new presets, I noticed some of them (iA3 ones included) have caption_extension set to .none-use-foldername. This means that I was using no init nor class tokens so far as all my uploads were with caption_extension set to .txt having wrongly assumed that it'd automatically fall back to folder names.
+!!! danger EXPECT IA3 JSON AND INSTRUCTIONS TO BE CHANGED COMPLETELY AS MY PAST SETTINGS WERE BASED OFF OF USING NO INIT NOR CLASS TOKEN DUE TO BROKEN CAPTIONING.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED SOON)](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
-Prodigy is DAdaptation on steroids, lighter, faster, more controllable.
-iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. ```I only use iA3 now.```
-LoKr is about 1-3mb and is basically a LoHa, possibly the best thing for characters and style for a newbie like (You).
-Both function well for characters and styles given their size.
-
-##Recommendations:
-!!! info It is recommended to always use regularization for subjects (ex: robot, monster, alien, furry, anthro, 1girl/woman, 1boy/man, etc.) and specific area styles (ex: face, breasts, hair, outline, color style, etc.).
-iA3 for everything at great quality while maintaining small size, 200kb.
-!!! info iA3 doesn't need captions if you don't want them.
-!!! danger if iA3 sux for your specific task (skill issue imo) then use LoKr, if LoKr sux (skill issue imo) then use LoHa.
-DyLora as a last resort if you are somehow brain damaged.
-Prodigy is the best optimizer (currently, likely ancient within 5 months), you can go ahead and fight me on this.
+[Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
+[iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. Very lightweight. Consumes the least amount of VRAM.](https://huggingface.co/docs/peft/conceptual_guides/ia3)
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-!!! info VERY IMPORTANT: Change caption_extension to .txt if using captions files.
-!!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger I recommend to always train on Clip Skip 1, even if you are using models trained on other CS.
-!!! danger Use min_snr_gamma, prior_weight_loss (regularization) and weight_decay to control texture bleed and composition. These settings provide great control over the two.
-!!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
-!!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
-!!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
-!!! note Set resolution higher if you want, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.
-!!! danger Personally I don't recommend any kind of noise (Multires/Original).
-!!! note train_on_input means training inwards (good for characters), disabling it means training outwards (good for style).
+!!! info VERY IMPORTANT: ```Regularization is entirely optional but still recommended if youre willing to go the extra length```. The ```.json doesn't use it``` as it depends on a bunch of factors.
+!!! info VERY IMPORTANT: Change ```caption_extension to .txt if using captions files.``` (Not recommended. Unnecessary.)
+!!! info VERY IMPORTANT: iA3 learns extremely quickly, it is ```usually done within 200-600 total steps.```
+!!! info VERY IMPORTANT: Name your ```dataset folder to the trigger word``` as that will be used as your caption.
+!!! info VERY IMPORTANT: Adjust ```min_snr_gamma if you don't get your desired result```. Recommended between 3-10 or disabled (0).
+!!! note Set ```repeats to 1 and use epochs * dataset / batch size * gradient accumulation steps``` to calculate total steps instead.
+!!! note Set ```resolution higher if you want to, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.```
+!!! note ```train_on_input means training inwards (good for characters), disabling it means training outwards (good for style)```.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
+!!! warning Train on ```Clip Skip 1``` always but you're free to experiment.
+!!! warning ```scale_weight_norms is not implemented for iA3 yet but it may be soon```, I have it set in the .json in case that happens.
+!!! warning Clear ```seed``` if you don't want determinism.
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
   "adaptive_noise_scale": 0.000,
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.500\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=600\" \"eta_min=0.000\"",
   "caption_extension": ".none-use-foldername",
-  "epoch": 80,
+  "clip_skip": 1,
   "gradient_accumulation_steps": 1,
   "keep_tokens": 0,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 5,
-  "multires_noise_discount": 0.0,
-  "multires_noise_iterations": 0,
-  "noise_offset": 0.00,
+  "min_snr_gamma": 10,
+  "multires_noise_discount": 0.1,
+  "multires_noise_iterations": 6,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.500,
+  "noise_offset_type": "Multires",
+  "optimizer_args": "\"betas=0.9,0.999\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -86,78 +58,19 @@ Prodigy is the best optimizer (currently, likely ancient within 5 months), you c
   "unet_lr": 1.0,
 }
 ```
+!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. It works fine as is.
+!!! note ```t_max``` is the step scaling for your cosine scheduler, ```best to match exactly to your total steps```. Basically ```scales X axis on your UNET and TE tensorboard graphs```.
+!!! note ```eta_min``` is the lowest point at which your cosine scheduler will drop its LR strength. Basically ```scales Y axis on your UNET and TE tensorboard graphs```. Probably shouldn't be touched when using Prodigy.
+!!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary. Prodigy's initial couple dozen-hundreds of steps normally act as warmup and are ```important``` for calibration, easily noticeable on the d\*lr graph within tensorboard.) 
 
-##Base LoKr Prodigy .json - Characters/Objects:
-!!! info VERY IMPORTANT: Change caption_extension to .none-use-foldername if not using caption files.
-!!! danger Default d_coef is 1.0, it affects the d*lr shown in Tensorboard.
-!!! danger I recommend to always train on Clip Skip 1, even if you are using models trained on other CS.
-!!! danger Use min_snr_gamma, prior_weight_loss (regularization) and weight_decay to control texture bleed and composition. These settings provide great control over the two.
-!!! note t_max is your cosine steps, set it to your total steps to start with and adjust afterwards if you want. Basically scales X axis on your UNET and TE.
-!!! note eta_min is your cosine strength, set it to the minimum LR that you want to drop to. Basically scales Y axis on your UNET and TE.
-!!! note Set train_batch_size, gradient_accumulation_steps and multires noise settings according to your dataset and keep_tokens, caption_dropout_rate according to your captions.
-!!! danger Personally I don't recommend any kind of noise (Multires/Original).
-!!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
-```
-{
-  "LoRA_type": "LyCORIS/LoKr",
-  "adaptive_noise_scale": 0.000,
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1600\" \"eta_min=0.000\"",
-  "caption_extension": ".txt",
-  "caption_dropout_rate": 0,
-  "conv_alpha": 64,
-  "conv_dim": 64,
-  "epoch": 60,
-  "gradient_accumulation_steps": 1,
-  "keep_tokens": 1,
-  "learning_rate": 1.0,
-  "lr_scheduler": "cosine",
-  "lr_warmup": 0,
-  "min_snr_gamma": 5,
-  "multires_noise_discount": 0.0,
-  "multires_noise_iterations": 0,
-  "network_alpha": 64,
-  "network_dim": 64,
-  "network_dropout": 0.1,
-  "noise_offset": 0.00,
-  "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
-  "prior_loss_weight": 0.500,
-  "sample_every_n_epochs": 0,
-  "sample_every_n_steps": 0,
-  "save_every_n_epochs": 0,
-  "save_every_n_steps": 100,
-  "save_last_n_steps": 0,
-  "save_model_as": "safetensors",
-  "scale_weight_norms": 1,
-  "seed": "31337",
-  "shuffle_caption": true,
-  "text_encoder_lr": 1.0,
-  "train_batch_size": 1,
-  "training_comment": "rentry.co/ProdiAgy",
-  "unet_lr": 1.0,
-}
-```
-
-##Experimenting instructions:
-We take what we learnt from rentry.co/dadaptguide with a couple differences:
-
-!!! warning AS WROTE IN DADAPT GUIDE BEFORE AND I REPEAT AGAIN NOW: FIRST AND FOREMOST. NO DUPLICATE DATASET. MANUAL AND LOGICAL CAPTIONING IF YOU WANT CAPTIONING AT ALL. DATASET WILL ALWAYS REMAIN IMPORTANT. BACKGROUND REMOVAL GOOD.
-- train_batch_size and gradient_accumulation_steps both can have a negative impact on training on datasets below 30 images.
-- Toy with noise_offset/adaptive_noise_scale/multires_noise_discount/multires_noise_iterations only. Unset the seed if you want variations.
-
-That is all, it is a massive upgrade from every single past method, not much else to do, it's that simple now.
-
-##More resources at www.sdcompendium.com
-######though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances
+# -> Training time should be around 2 minutes on 1 BS / 1 GAS / 768x768 @ 400 total steps. <-
+# -> A lot faster if you adjust the three. <-
+## -> More resources at www.sdcompendium.com <- 
+###### -> though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances <- 
 
 #### -> fk you 32mb+ lora makers and a moment of silence for your wasted gpus and time <-
-#### -> now you should know how to do it properly <-
 #### -> also fk you civitai, fk you 4chin <-
-
-p.s reps are entirely and utterly useless, use only epochs
-gradient accumulation is probably bad when not using captions
-batch size might also be bad when not using captions
-youre free to test them though
+#### -> now you should know how to do it properly <-
 
 Credits: 
 bmaltais for github and  reddit posts that inspired me to look into iA3 and LoKr myself and check out which settings would be best.

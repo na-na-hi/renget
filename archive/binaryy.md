@@ -8,4 +8,4 @@
 **dnfi**: [basic shit](https://basicdnficriteria.carrd.co/), -15, weirdos, 🔞 **/** nsfw accs, proshippers **/** profic **/** anti-anti etc, unicode font user, cat hater, ill just block u if i dont like u
 
 
--> **extra**: pls be direct with me i cannot take hints, may not fb if no/not alot of info is visible, i dont use tonetags often but will clarify tone if asked, i block **ALOT** of people, i like **most** ships ->
+-> **extra**: pls be direct with me i cannot take hints, may not fb if no/not alot of info is visible, i dont use tonetags often but will clarify tone if asked, i block **ALOT** of people ->

@@ -7,7 +7,6 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Mario Kart 8 Deluxe - Booster Course Pass Wave 1, 2, 3, 4 & 5 out currently
 「!」 Super Mario Brothers movie has officially released
 
 Future Release Dates:

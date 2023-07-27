@@ -13,6 +13,9 @@ https://rentry.org/xpastas
 >Creepypasta Games, Web Series/ARGs, SlenderARGs and Fearvlogs
 https://rentry.org/Exeg-games-and-web-series-archives
 
+>Sonic.exe the Disaster 2D remake
+https://gamejolt.com/games/disaster2dr/780541
+
 >Old Man Reads Vidya Creepypastas
 https://www.youtube.com/watch?v=T339A8wlzgs
 https://www.youtube.com/watch?v=pRL0Rhyrz9g

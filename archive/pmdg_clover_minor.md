@@ -10,4 +10,4 @@ Team Marsh (Squishy & Berry) | M/F | East Sea Gastrodon and Quagsire |[Ace Rank 
 Dewott | M | Dewott | [Toge's Former Partner](https://rentry.org/pmdg_clover_minor_personalities#dewott)
 Porygon2 (aka Terry) | N/A | Porygon2 | [Mystery Dungeon Information Repository](https://rentry.org/pmdg_clover_minor_personalities#porygon2)
 Ampharos | M | Ampharos | [Veteran Explorer, Pika's Mentor](https://rentry.org/pmdg_clover_minor_personalities#ampharos)
-Team Marsh (Cooper & Testa) | M/F | Torchic & Squirtle |[Platinum Rank Rescue Team, Clover Guild Members](https://rentry.org/pmdg_clover_minor_personalities#team-buckler)
+Team Buckler (Cooper & Testa) | M/F | Torchic & Squirtle |[Platinum Rank Rescue Team, Clover Guild Members](https://rentry.org/pmdg_clover_minor_personalities#team-buckler)

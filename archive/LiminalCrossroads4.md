@@ -123,9 +123,7 @@ A coy, feminine voice interjects. Bill had *never* expected that sound to come o
 
 The large red canine slowly paces around the cyndaquil, closing a circle with a playful tail swish that brushes the mouse’s face.
 
-“...so, like… I wouldn’t mind having someone to keep me… *company* to show me how it’s done. You really do strike a chord with me, don’t you, Mr. Cyndaquil…?
-
-…Mr. Cyndaquil?”
+“...so, like… I wouldn’t mind having someone to keep me… *company* to show me how it’s done. You really do strike a chord with me, don’t you, Mr. Cyndaquil…? …Mr. Cyndaquil?”
 
 Cyndaquil’s bravado has all but evaporated.
 
@@ -157,7 +155,7 @@ Behind the frightened Cyndaquil is an annoyed-looking orange bird the same size 
 
 Flanking her are two other animals of similar height: A miniature sky blue elephant bearing a tired expression on his face and a bipedal, darker blue reptile resembling an anthropomorphic crocodile of sorts. Matching Cyndaquil, they all wear similar bandannas, the reptile also being clad in a bandolier strap carrying all kinds of salves and liquids.
 
-“*...they have to be salves, right? The can’t all be alcohol?*” Bill quickly muses as he analyzes the instantly recognizable scent.
+“*...they have to be salves, right? They can’t all be alcohol?*” Bill quickly muses as he analyzes the instantly recognizable scent.
 
 All in all, they look like a strange bunch.
 

@@ -455,7 +455,7 @@ https://civitai.com/models/114281/spinel-or-steven-universe
 https://civitai.com/models/89598/amethyst-steven-universe
 	+ Garnet
 https://civitai.com/models/88907/garnet-steven-universe-
--Droners
+- Droners
 	+ Corto Heilani
 https://civitai.com/models/42392?modelVersionId=47066
 	- Mouse

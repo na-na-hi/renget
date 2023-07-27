@@ -72,6 +72,7 @@ SONIC 2011 | [PRESS START](https://gamejolt.com/games/sonic/783884)
 Nintendo.exe | [PRESS START](https://gamejolt.com/games/nintendoexe/245013)
 kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
 SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
+Sonic.exe the Disaster 2D remake | [PRESS START](https://gamejolt.com/games/disaster2dr/780541)
 
 ##Mods/ROM Hacks/Wads
 Mods List | Links

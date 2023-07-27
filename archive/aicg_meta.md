@@ -18,18 +18,17 @@ If you're curious about a service, the OP should have the information you need.
 | Claude (API)   | 🏆   | 🏆  | 🥈     | 🏆         | 🥈           | FREE   | 🥈        |
 | Claude (Slack) | 🥈   | 🏆  | 🌱     | 🏆         | 🥈           | FREE   | 🌱        |
 | Davinci-3      | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |
-| NovelAI (Clio) | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |
 | Turbo          | 🥈   | 🥈  | 🥈     | 🥈         | 🌱           | LOW    | 🥈        |
+| NovelAI (Clio) | 🥈   | 🥈  | 🥈     | 🥈         | 🌱           | MEDIUM | 🥈        |
 | CAI            | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
 | Claude (Poe)   | ⛔   | 🥈  | 🌱     | 🏆         | 🌱           | FREE   | 🏆        |
 | Pyg (LLaMA)    | 🥈   | 🥈  | 🌱     | 🌱         | 🌱           | FREE   | 🌱        |
 | NovelAI        | 🌱   | 🌱  | 🌱     | 🌱         | 🌱           | MEDIUM | 🥈        |
 | Pyg 6B         | 🌱   | ⛔  | 🌱     | 🌱         | 🌱           | FREE   | 🥈        |
-| Claude (Slaude2) | ?   | ?  | ?     | ?         | ?           | FREE   | 🌱        |
 
 Notes:
 - Someone needs to do this for the recent local models, seriously.
-- Currently, best results on Clio when using another model for the first few messages, or bots with long example messages. Expect short answers otherwise.
+- Currently, best results on Clio when using another model for the first few messages, or bots with long example messages.
 
 Quick notes on how to access each:
 - GPT-4: Join the [official waitlist](https://openai.com/waitlist/gpt-4-api) (make a convincing application), or use a reverse proxy that has it ([proxy links](https://alwaysfindtheway.github.io) / [agnai video guides](https://rentry.org/agnai_guides) / [tavern guide](https://rentry.org/Tavern4Retards))
