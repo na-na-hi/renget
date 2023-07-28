@@ -15,5 +15,5 @@
 ## -> [Running a cat cafe with anthro cat girls](https://rentry.org/aicgthemedweek1) <-
 ## -> [Jealous robogirl attempts to imitate humans](https://rentry.org/discardedthemedweek) <-
 ## -> [God of something unremarkable](https://rentry.co/aicgthemedweek2) <-
-## -> 26.07.2023 Randomness and probability <-
+## -> Randomness and probability <-
 ***

@@ -483,6 +483,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
+###[Clover Guild Drawing Tutorial](https://rentry.org/CloverGuildDrawingTutorial)
 [Clover Drawboard Request List](https://rentry.org/CloverDrawRequest)
 ###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)

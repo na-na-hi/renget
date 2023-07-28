@@ -88,7 +88,7 @@ HolyPupperVT|[Twitter](https://twitter.com/HolyPupperVT) [Twitch](https://www.tw
 ReichuTV|[Twitter](https://twitter.com/ReichuTV) [Twitch](https://www.twitch.tv/ReichuLIVE/)|
 Toriidoki|[Twitter](https://twitter.com/Toriidoki) [Twitch](https://www.twitch.tv/toriidoki)|
 Kiki_Nene_|[Twitter](https://twitter.com/kiki_nene_) [Twitch](http://twitch.tv/kiki_nene_)|
-Akiajimargo|[Twitter](https://twitter.com/akiajimargo) [Twitch](https://www.twitch.tv/akiajimargo)|
+Akiajimargo|[Twitter](https://twitter.com/akiajimargo) [Twitch](https://www.twitch.tv/akiajimargo)|Retro, art, fujoshi, showa era nostalgia
 Yanabells|[Twitter](https://twitter.com/yanabellsexe) [Twitch](https://www.twitch.tv/yanabells)|
 Sulkycats|[Twitter](https://twitter.com/sulkycats) [Twitch](https://www.twitch.tv/sulkycats)|
 SilverDawnbreak|[Twitter](https://twitter.com/SilverDawnbreak) [Twitch](https://www.twitch.tv/silver_dawnbreak)|
@@ -223,6 +223,7 @@ eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https:
 ひらりー hillary |[Twitter](https://twitter.com/hillary3006) [Twitch](https://www.twitch.tv/hillary300)|Voiceroid, playthroughs
 TheAnglerCh[EN]|[Twitter](https://twitter.com/TheAnglerCh) [Twitch](https://twitch.tv/theanglerch)|Luchador
 Rusty_FC[EN]|[Twitter](https://twitter.com/Rusty_FC_) [Twitch](https://www.twitch.tv/rusty_fc)|
+Sirshabby[EN]|[Twitter](https://twitter.com/SirShabby1) [Twitch](https://www.twitch.tv/sirshabby)|
 
 ---
 

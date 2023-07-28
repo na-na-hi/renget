@@ -837,10 +837,16 @@ https://rentry.org/kh5sk
 https://rentry.org/go5q8
 >Prelude (Vajar, Carmen, Kin'ike, Ugoki, Amara, Lona, mentions of Caligula, Mahapapapurusa, Unmei, Jahi, Potion Pete and Caniara)
 https://rentry.org/vajar
->Dragonflies(Kin'ike)
+>Dragonflies (Kin'ike)
 https://rentry.org/doragonfurai
 >Between the Moon's Reflections (August, Slaine)
 https://rentry.org/zfk7e
+>For Want of Tea (Unmei)
+https://rentry.org/ForWantofTea
+>Corkscrew Airline (Potion Pete, Mahapapapurusa, Cormelia)
+https://rentry.org/knat3
+>Chance Encounters (Suzerain, Caligula, Caniara)
+https://rentry.org/thewindblows
 ```
 
 #The City (Reboot)
