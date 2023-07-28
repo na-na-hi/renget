@@ -60,7 +60,7 @@ The next step you'll need to do now that git is installed, is cloning Cohee's re
 
 You can do it by using this command, `git clone https://github.com/Cohee1207/SillyTavern`
 
-Alternatively, if you want to use the dev branch, which has more features and is more constantly updated, you can use this command instead, `git clone -b dev https://github.com/Cohee1207/SillyTavern` or `cd SillyTavern && git switch dev` if you want to switch to dev if you're already using the main branch. Take note, as it is the dev version, it might break at anytime.
+Alternatively, if you want to use the dev branch, which has more features and is more constantly updated, you can use this command instead, `git clone -b dev https://github.com/Cohee1207/SillyTavern` or `cd SillyTavern && git switch staging` if you want to switch to staging or the development branch if you're already using the release or main branch. Take note, as it is the development version, it might break at anytime.
 
 After that it should start cloning the repository, after it's done go to the SillyTavern directory, you can do it using this, `cd SillyTavern`.
 
@@ -96,6 +96,10 @@ After that there should be an indication on the termux that tavern is running, a
 # Downloading and running TAI-Extras
 
 WARNING: INSTALLING ST EXTRAS ON YOUR WIMPY LITTLE PHONE IS NOT SUPPORTED AND COULD NOT WORK AT ALL, OR EVEN BRICK IT! DO THIS AT YOUR OWN RISK, ANY DAMAGES DONE OR NUCLEAR REACTION WILL BE YOUR OWN RESPONSIBILITY! 
+
+UPDATE: Considering pytorch isn't the only problem you'll face even when you're already using proot,  you will have to do some digging up or seearching, a lot of editing the requirements.txt files like deleting specific modules or programs that just don't work. 
+
+NOTE: I won't post any more fixes or recommendations on what modules would work or not, you need to do it by yourself since it's officially unsupported now by the devs, and you've probably already read my WARNING anyway.
 
 Pytorch doesn't  work on native android, and as such won't work on the default termux command line. The only way you can run it is through a proot, a proot is basically let's you use another Distro or Distributions in Linux's CLI or command line interface. Basically you will get a VM Terminal or CMD if you're on Windows. So for this one, we'll use a Ubuntu Distro Proot. To install it, go to termux, and write this command. `pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22.sh -O ubuntu22.sh && chmod +x ubuntu22.sh && bash ubuntu22.sh`
 
@@ -180,6 +184,6 @@ This is more of a precaution and is not necessarily needed. Phantom process kill
 
 You can follow this guide to do it manually on termux. Credits to the owner, it isn't mine. https://www.youtube.com/watch?v=IhK55QfWdYc
 
-P.S: Will probably update this to add info on how to change avatar etc. I'm spent already so just wait for that, or you can just hit me up on discord, ArroganceComplex#2659, you can see me lurking on the Pygmalion Server as Arro, mostly in #help-and-questions though. Thats all, Bye!
+P.S: Will probably update this to add info on how to change avatar etc. I'm spent already so just wait for that, or you can just hit me up on discord, ArroganceComplex#arrochi, you can see me lurking on the Pygmalion Server as Arro, mostly in #help-and-questions though. Thats all, Bye!
 
 P.S.2: I recommend you allow termux even at high background power consumption, try fiddling with your battery settings, you'll see it in no time.

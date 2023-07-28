@@ -1,4 +1,23 @@
 ▶NEW CLIPS
+>Images of the 177th Marine Regiment's combat work to destroy AFU equipment on the Zaporizhzhya direction
+https://files.catbox.moe/a3xluj.mp4
+>NATO thrust from another angle
+https://files.catbox.moe/ac1iif.MP4
+>big hohol refuses invitation
+https://files.catbox.moe/a3dtc3.mp4
+>Hohols vs pyramids/tank trench
+https://files.catbox.moe/51xe6f.mp4
+>NATO armored wave tactics aka the main thrust
+https://files.catbox.moe/ygyb1o.mp4
+>Missiles in the wild
+https://files.catbox.moe/2i5hjt.mp4
+https://files.catbox.moe/womkh0.mp4
+>MaxxPro graveyard
+https://files.catbox.moe/ebet3f.mp4
+>Mykola goes 1v1 with FPV drone
+https://files.catbox.moe/2k5xq5.mp4
+>Reckless and environmentally unsound Su-35S
+https://files.catbox.moe/rnoeu5.mp4
 >Russian GoPro footage compilation
 https://files.catbox.moe/gg85h6.mp4
 >Leopard 2A6 added to endangered species list

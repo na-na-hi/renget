@@ -51,6 +51,7 @@ https://www.kaggle.com/code/klaytrop/sdg4u
 ##Try online without registration
 ###txt2img
 https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://www.patience.ai
 https://beta.dreamstudio.ai
 https://dezgo.com
 https://pornpen.ai
@@ -212,6 +213,7 @@ https://rentry.org/54d9o
 	---------------------------
 ##SD plugins
 ###Krita
+https://github.com/JasonS09/comfy_sd_krita_plugin
 https://www.flyingdog.de/sd/en
 https://github.com/sddebz/stable-diffusion-krita-plugin
 https://github.com/Interpause/auto-sd-krita

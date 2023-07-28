@@ -68,26 +68,26 @@ Dragon Girl
 - [ ] Test & Update
 
 Twi'Lek
-- [ ] Char. Defs (WIP, Turbo doesn't like the quirk.)
+- [ ] Char. Defs (drafted.)
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
 
 Togruta
-- [ ] Char. Defs (WIP, Turbo doesn't like the quirk.)
+- [ ] Char. Defs ()
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
 
 Fairy
-- [ ] Char. Defs (WIP, Turbo doesn't like the quirk.)
+- [ ] Char. Defs ()
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
 
 ***
 RPG
-- [ ] Char. Defs 
+- [ ] Char. Defs (drafted.)
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update

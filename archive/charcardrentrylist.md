@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Cerunlanwe](https://files.catbox.moe/6rmhj5.png), [Minkhius](https://files.catbox.moe/90deo2.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Cap'n Pippin](https://files.catbox.moe/ijyyxk.png), [Mr. Chedda](https://files.catbox.moe/z8zt56.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Gulliver](https://files.catbox.moe/pxv5o0.png), [Gunter](https://files.catbox.moe/4w6atb.png), [The Duke of Dusk](https://files.catbox.moe/1x5edj.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Constance](https://files.catbox.moe/f91bh6.png)|
@@ -38,13 +39,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Louise](https://files.catbox.moe/8wa0zv.png), [Victoria](https://files.catbox.moe/miuzw6.png)|
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc |[Ravenna](https://files.catbox.moe/1kou9x.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Hajime](https://files.catbox.moe/lflink.png)|
-[Tipzanon](https://rentry.co/tipzanon) | Misc |[Calle](https://files.catbox.moe/jqus5b.png)|[Marin](https://files.catbox.moe/mgv46p.png)
-[SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc |[Luca](https://files.catbox.moe/vvkva7.png)|
+[Argalia](https://rentry.org/gayanon) | Malebots ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||[Marin](https://files.catbox.moe/mgv46p.png)
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Helm's fundraiser (VN)](https://files.catbox.moe/3os7rg.png), [Voyeurphoto Club](https://files.catbox.moe/jmcm1g.png)
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
+[SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
@@ -61,7 +63,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||
-[AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
@@ -82,7 +83,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Avarice Inc](https://rentry.org/AvariceINC) | Furry ||
-[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [AIC Industries](https://rentry.org/aicin) | Maids ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||

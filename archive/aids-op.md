@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://cdn.vox-cdn.com/thumbor/f__425NZ4IdW65uTX020WJfMOOU=/155x0:1210x703/920x613/filters:focal(155x0:1210x703):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/35473818/New_Challenger_Approaching.0.jpg)
-Duress Edition
+![suggested OP image]()
+ Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>439553996
+Last thread: >>439723081
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -33,14 +33,13 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Concoct prompts about next week's theme, Potions/Alchemy Friday! >>439632358!
+Concoct prompts about next week's theme, Potions/Alchemy Friday! >>439632358!
  
 ▶News
-\>(07/24) The Retnet source code is out. Also, https://imgur.com/M9GP4ra https://github.com/microsoft/torchscale/commit/bf65397b26469ac9c24d83a9b779b285c1ec640b
-(07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100. Imagine the seethe.
-(07/23) CarperAI/Stability drops new 70b finetune to LLamA2
-(07/20) NAI drops https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
-(07/18) LLaMA 2 released: https://ai.meta.com/llama
+\>(07/28) Is it better than Davinci?
+(07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100.
+(07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama
+(07/20) NAI adds https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
 
 
 

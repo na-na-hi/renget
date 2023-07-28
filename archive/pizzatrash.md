@@ -1,7 +1,7 @@
 #####Current Info
 
 Latest thread: https://boards.4chan.org/trash/thread/58327909
-Latest Aggie: https://aggie.io/0_0q_j_7ak
+Latest Aggie: https://aggie.io/lx8egpmuqs
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -99,3 +99,4 @@ https://aggie.io/onx7y3eqr5 /pizzatrash/ Aggie: End of June Edition
 https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
 https://aggie.io/aodbu7wnsb The Weekly /pizzatrash/ Aggie - now with /ptg/!
 https://aggie.io/0_0q_j_7ak /pizzatrash/ aggie NUMA #24 !!
+https://aggie.io/lx8egpmuqs /pizzatrash/ Aggie #25: Supreme Edition

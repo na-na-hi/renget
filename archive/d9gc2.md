@@ -30,7 +30,19 @@ Had to [wake Bae up](https://twitter.com/nanashimumei_en/status/1683638208339513
 | Mumei, Bae, Mori|  【MORI24】24 HOUR STREAM - PART 4 | [Timestamp](https://www.youtube.com/watch?v=X87xP_Suo-w&t=20193s)|Impromptu call-in with Bae during Mori's 24 hr stream.|
 |Mumei, Bae|  ≪OFF COLLAB≫ Mermaids: The Body Found Watchalong w/ Mumei | [Link](https://www.youtube.com/watch?v=i1_RAqeB9yg)|First off-collab watchalong. Same mockumentary mentioned in the [Megalodon stream](https://www.youtube.com/watch?v=C4Zv0kyLaFA). |
 
+Also had a [date with Anya](https://twitter.com/anyamelfissa/status/1683855161436024836).
+
 **Day 8 - 2023-07-26**
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
 |Mumei, Bae|  【OFF COLLAB】Manager Bae and Manager Mumei   |[Link](https://www.youtube.com/watch?v=lt-SM0UiUxc) |First stream on her channel in a while. Planned zatsu changed to this stream.|
+
+**Day 9 - 2023-07-27**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D|  【ULTIMATE FISHING SIMULATOR】Summer Fishing !!! | [Link](https://www.youtube.com/watch?v=cDCvWOJWUTc)|First proper solo stream since arriving in Japan. Cute sleep deprived stream.|
+|Bae|≪HOLOSUMMER: BINGO≫ Learning how to play the Otamatone #hololivesummer2023 |[Link](https://youtu.be/akfZjZZPGUI)|[Grocery shopping with Mumei and sub-manager duties](https://youtu.be/akfZjZZPGUI?t=4928)|
+|Anya|【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D |[Link](https://youtu.be/W-4jmrf7VL0)|[More about their dinner date](https://youtu.be/W-4jmrf7VL0?t=2957)|
+
+
+**Day 11 - 2023-07-29**

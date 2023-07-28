@@ -814,6 +814,8 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89700452
 >Professor Khuldor the Transmuter (Human Green Mage)
 >>89705236
+>Corvus
+>>89733343
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
@@ -847,6 +849,8 @@ https://rentry.org/ForWantofTea
 https://rentry.org/knat3
 >Chance Encounters (Suzerain, Caligula, Caniara)
 https://rentry.org/thewindblows
+>A Jolly Adventure (Mahapapapurusa)
+https://pastebin.com/v4LNpcXi
 ```
 
 #The City (Reboot)

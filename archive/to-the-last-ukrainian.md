@@ -138,9 +138,10 @@
 [ [catbox](https://files.catbox.moe/0vi7ff.webm) | [ipfs](https://ipfs.io/ipfs/QmZkscXyYKotdd9vdpbn1hnnWDpVPhhRKqwThbobmmo2sw) ] - Throwing stones in the face of mobilizer [REVENGE]
 [ [catbox](https://files.catbox.moe/5t5fja.MP4) | [ipfs](https://ipfs.io/ipfs/QmNQroGXWQpzbU1DodQknuFHm8VtZbhS2s1wj6sFX2ULKw) ] - 6 vs 1
 [ [catbox](https://files.catbox.moe/wxlean.mp4) | [ipfs](https://ipfs.io/ipfs/QmNn5dU8YHLvpw2kbCxSLpLKnh9FJ5sQBaMcN2rGUdqxFv) ] - Polite invitation
+[ [catbox](https://files.catbox.moe/ny88zi.mp4) | [ipfs](https://ipfs.io/ipfs/QmdndTWZm58GyFSpFah3SCdLThF1Q2fqUPdNbnRdXmKeFJ) ] - Cold shower for an officer [REVENGE]
 
 !!! info
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmXa6ozB98UmZD7vRJDR4tcbF4WHvqrJQ5Fiz6XGUnnLfP)
+	Full archive: [ipfs](https://ipfs.io/ipfs/QmbJYAy6nAXY6AVF593rJNPx6LR1dpHd9ajKfZumvU84As)

@@ -8,6 +8,7 @@
 ***
 Date | Update Notes | New Cards
 :---- | :----: | ----:
+28/07/23 | 10/12 Published | Cerunlanwe, Minkhius. / Had some HDD trouble recently, seems okay now. Hopefully get the last two up in the next day or two. / Would appriciate feedback on any of the Vol. 3 cards; I haven't tested them as throughly as I did Vol. 2.
 17/07/23 | 8/12 Published | Velaya, Metsutami, Karenylla.
 06/07/23 | 5/12 Published | Kiyomi, Sephira. + Bonus Card: Ninsunu.
 01/07/23 | 3/12 Published |  Dominque, Renena. + Bad End WIP: Feedback appreciated.
@@ -24,7 +25,7 @@ Date | Update Notes | New Cards
 ->**Feedback, Questions etc? anon_doofus@proton.me**<-
 ***
 [TOC2]
-![Vol.3 Art is WIP](https://files.catbox.moe/5tgch1.jpg)
+![Vol.3 Art is WIP](https://files.catbox.moe/xoejta.jpg)
 ***
 
 ## Volume Three - WIP (7/12 Published, 1 WIP Released, 2/2 Bonus Cards)
@@ -78,13 +79,14 @@ Image | Description | Link
 ###Cerunlanwe
 Image | Description | Link
 :---- | :----: | ----:
-![1927 (1244 Permanent Tokens)](link) | Explore the enchanting world of two fishermen as they navigate the serene lakes. Dive into a tale of friendship and desire as you join Cerunlanwe on his quest for both fish and affection. Brace yourself for a gradually evolving relationship that transcends boundaries and electrifies the senses. | [CHUB link](link)
+![1927 (1244 Permanent Tokens)](https://files.catbox.moe/6rmhj5.png) | Explore the enchanting world of two fishermen as they navigate the serene lakes. Dive into a tale of friendship and desire as you join Cerunlanwe on his quest for both fish and affection. Brace yourself for a gradually evolving relationship that transcends boundaries and electrifies the senses. | [CHUB link - "Soon"](link)
 
+>>Concept taken from an Anon, modified slightly.
 ***
 ###Minkhius
 Image | Description | Link
 :---- | :----: | ----:
-![1809 Tokens (1452 Permanent)](link) | Step into the warm and inviting world of a generous and gentle bull baker. Experience his journey as he strives to provide for his community while navigating the complexities of love and relationships. Will he find his perfect match amidst the aroma of freshly baked bread? Join him on this heart-warming adventure filled with flour-dusted smiles and tantalizing treats. | [CHUB link](link)
+![1809 Tokens (1452 Permanent)](https://files.catbox.moe/90deo2.png) | Step into the warm and inviting world of a generous and gentle bull baker. Experience his journey as he strives to provide for his community while navigating the complexities of love and relationships. Will he find his perfect match amidst the aroma of freshly baked bread? Join him on this heart-warming adventure filled with flour-dusted smiles and tantalizing treats. | [CHUB link - "Soon"](link)
 
 ***
 ###Petronia
@@ -227,6 +229,7 @@ Image | Description | Link
 ***
 ##Prompts 
 Intended for Nu-Turbo, I don't have access to GPT-4/Claude. There are likely much better prompts to use than these; but they do the trick *most of the time*.
+>Update: I've stopped these almost entirely, using Hochi's fourth set of prompts instead - the one without a NSFW prompt. **Highly** recommend it.
 Prompt | Text
  ----- | -----
 Main | Write {{Char}}'s next reply in a fictional chat between {{Char}} and {{User}}. Be proactive, creative and drive the plot and conversation forward. Always stay in character and avoid repetition. Write 1 reply only in internet RP style, utilize markdown formatting, italicize actions and use quotation marks for spoken dialogue. Vocalize moans, groans, grunts, screams using onomatopoeia within dialogue, also include onomatopoeia for other sounds, such as tearing, thudding, slapping, or clapping as actions instead.

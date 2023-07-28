@@ -12,12 +12,12 @@
 [iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. Very lightweight. Consumes the least amount of VRAM. Eats a lot of learning rate for breakfast.](https://huggingface.co/docs/peft/conceptual_guides/ia3)
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-!!! danger OMEGA IMPORTANT: ```Use weight_decay if you want to push LR higher in that 8e-3 - 1e-2 range. Recommended 0.1-1.0.```
-!!! info VERY IMPORTANT: ```Regularization is entirely optional but still recommended if youre willing to go the extra length```. The ```.json doesn't use it``` as it depends on a bunch of factors.
+!!! danger OMEGA IMPORTANT: ```Use weight_decay if you want to push LR higher in that 8e-3 - 1e-2 range. Recommended 0.1-1.0```
+!!! info VERY IMPORTANT: ```Regularization is very good sometimes if youre willing to go the extra length (think of it as trading captions for regularization instead)```. The ```.json doesn't use it``` as it depends on a bunch of factors.
 !!! info VERY IMPORTANT: Change ```caption_extension to .txt if using captions files.``` (Not recommended. Unnecessary.)
-!!! info VERY IMPORTANT: iA3 learns extremely quickly with recommended d\*lr being in the 5e-3 - 1e-2 ranges. ```The .json is already set to a high d_coef so you'll most likely want to use weight_decay.``` iA3 is ```usually done within 200-600 total steps.```
+!!! info VERY IMPORTANT: iA3 learns extremely quickly with ```recommended d*lr near the 5e-3 - 1e-2 ranges```. iA3 is ```usually done within 200-600 total steps.```
 !!! info VERY IMPORTANT: Name your ```dataset folder to the trigger word``` as that will be used as your caption.
-!!! info VERY IMPORTANT: Adjust ```min_snr_gamma if you don't get your desired result.``` Recommended between 1-10. Lower better for characters and learns faster. Higher better for style and learns slower. If using low values I recommend lowering ```d_coef``` or dropping initial d*\lr using ```d0```.
+!!! info VERY IMPORTANT: Adjust ```min_snr_gamma if you don't get your desired result. It also affects Prodigy's d*lr, scale accordingly using d_coef after you decided.``` Recommended between 1-10. Lower better for characters and learns faster. Higher better for style and learns slower.
 !!! note Set ```repeats to 1 and use epochs * dataset / batch size * gradient accumulation steps``` to calculate total steps instead.
 !!! note Set ```resolution higher if you want to, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.```
 !!! note ```train_on_input means training inwards (good for characters), disabling it means training outwards (good for style)```.
@@ -37,12 +37,13 @@
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
-  "min_snr_gamma": 3,
+  "min_snr_gamma": 5,
   "multires_noise_discount": 0.2,
   "multires_noise_iterations": 8,
   "optimizer": "Prodigy",
   "noise_offset_type": "Multires",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=3.0\" \"weight_decay=0.300\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.010\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "prior_loss_weight": 0.00,
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -59,11 +60,14 @@
   "unet_lr": 1.0,
 }
 ```
-!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```Very much the only recommended way to increase or decrease d\*lr```
+!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```Very much the only recommended way to increase or decrease d*lr. Probably not worth going higher than 12.0.```
 !!! danger ```Default d0 is 1e-6, it sets the initial LR for Prodigy```. Not worth changing, use ```d_coef``` instead.
-!!! note ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine by setting it to less than your total steps. ```Start with it equal to your total steps and adjust if you get d\*lr spikes further into training.```
+!!! note ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps. ```Start with it equal to your total steps and adjust if you get d*lr spikes further into training.```
 !!! note ```eta_min``` is the lowest point at which your cosine scheduler will drop its LR strength. Basically ```scales Y axis on your UNET and TE tensorboard graphs.``` Probably shouldn't be touched when using Prodigy.
 !!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary. Prodigy's initial couple dozen-hundreds of steps normally act as warmup and are ```important``` for calibration, easily noticeable on the d\*lr graph within tensorboard.) 
+
+# -> NOTE: <-
+###WAIT FOR MY CIVITAI UPLOADS TO BE UPDATED AND CHECK THEIR METADATA TO SEE WHAT I PERSONALLY DO, I WILL UPDATE THOSE SOON WHEN I HAVE TIME.
 
 # -> Training time should be around 2 minutes on 1 BS / 1 GAS / 768x768 @ 400 total steps. <-
 # -> A lot faster if you adjust the three. <-

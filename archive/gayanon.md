@@ -1,6 +1,8 @@
+!!! danger Busy with JP translation work. Might be back around eventually.
 ![](https://files.catbox.moe/pr0u6d.png)
 #Argalia's Bots
 ***
+
 ->My personal bot collection.<-
 ->You can find my chub here: https://www.chub.ai/users/argalia<-
 ->If you want to contact me for any reason: blue.reverberation@proton.me<-
@@ -8,8 +10,6 @@
 While I make my bots with malepov in mind, they can be used with either gender PC. I write in third person & present tense; if you prefer second person go ahead and edit the starting message, I really don't care. I generate all card art myself.
 Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. I enjoy working with the AI in creating a story, which is evident in my works.
 I fine-tune for GPT4 personally, but I make sure to test public releases on Turbo & Claude.
-
-!!! info Current plan is to update most cards to have V2 alt greetings while working on a lorebook at the same time.
 
 ##Syngrapha
 Mages are born usually one in every ~10,000 humans (the parents can be any mix) and humans aren't able to become mages through training. Some humans utilize technological magic that's fueled by the soul gems of deceased mages, although it's not widely popular. As you can guess, there's always been a conflict between humans and mages.

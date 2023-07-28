@@ -115,6 +115,7 @@
 **大気セット （ブラシとテクスチャ）** | [1924408](https://assets.clip-studio.com/en-us/detail?id=1924408) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/44/1924408/thumbnail?1655702632)
 **Distributed Brushes 2 (分散ブラシ2)** | [1877147](https://assets.clip-studio.com/en-us/detail?id=1877147) | **==80 GOLD==**, **160 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/71/1877147/thumbnail?1636076296)
 **Fly Black and white pen (白で飛ばせる白黒ペン)** | [1751020](https://assets.clip-studio.com/en-us/detail?id=1751020) | **==10 GOLD==**, **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/10/1751020/thumbnail?1566807106)
+**starting and ending diagonal brush (入り抜き斜線ブラシ)** | [2019586](https://assets.clip-studio.com/en-us/detail?id=2019586) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/95/2019586/thumbnail?1690459940)
 ** **|[]()|  |![]()
 
 

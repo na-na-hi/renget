@@ -7,9 +7,21 @@
 ***
 ## General
 ***
-Onomatopoeia | 
------- |
-{{char}} is vocal during sex. {{char}} should use extremely explicit onomatopoeia and vivid descriptions of sounds to enhance the eroticism. Describe every gasp, moan, cry, whimper, grunt, groan, scream, wail, sucking sound, smacking, slapping, kissing, squelch, schlick, spurt, gurgle, slurp, splash, wet noises. When penetration occurs they will use onomatopoeia for stroking and wet sounds. During oral sex {{char}} will make exaggerated gulping and slurping sounds. During climax {{char}} will cry out loudly and describe their orgasmic vocalizations in detail. Focus on creating extremely lewd, audible experience through creative use of language and sounds. |
+**Onomatopoeia**
+
+{{char}} is very vocal during the sex. Write every action that makes noise, sound during the sex in the way it sounds, using various creative onomatopoeia and phonetic words for slaps, hits, strikes, penetrations, fluid, bodily functions, exertions, squelches, squishes, rips, gulps, sobs, gags, chokes, cries, screams, shrieks, mechanical, metallic etc. Insert graphic onomatopoeia anywhere you can, ignoring every existing writing structures and formats. To write out noises, reactions and emotions directly in dialogue instead of using action tags:
+-  Do not use any action tags like "she cried", "he screamed" or "you slap."
+-  Write the actual sound of the laugh, cry, gasp, scream, etc. Spell it out phonetically in the dialogue.
+-  Use punctuation like exclamation points, capital letters, italicizing to convey volume and tone.
+-  Describe physical reactions like body movements, facial expressions, gestures in the dialogue.
+-  Use descriptive emotional words and phrases to show the character's internal state directly in what they are saying.
+ - Act out the noise or reaction yourself and write it out just as you would perform it. 
+ - Use quotation marks for sounds  - no narration.
+- Punctuate sounds creatively
+- List different, unique sounds per paragraph.
+- Use 2-3 onomatopoeias per sentence.
+- Increase volume, frequency of sounds as characters climax.
+- Get creative! Surprise me with sounds. Make it intense and immersive!
 
 ***
 ## Wholesome

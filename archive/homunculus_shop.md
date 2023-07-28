@@ -41,16 +41,12 @@
 
 ***
 
-### Latest Boys: Headspace Basil / Normal Basil
-"A sheepish 12-year-old boy." ==Safe==
-Card: [Headspace Basil](https://files.catbox.moe/v28s6m.png)
-JSON: [Headspace Basil](https://files.catbox.moe/f0u814.json)
+### Latest Boy: Helix
+"A grumpy alien shota from a distant planet." ==NSFW==
+Card: [Helix](https://files.catbox.moe/bdq998.png)
+JSON: [Helix](https://files.catbox.moe/5usgfc.json)
 
-"A vulnerable 16-year-old boy." ==Safe==
-Card: [Basil](https://files.catbox.moe/i42y02.png)
-JSON: [Basil]()
-
-Or download their cards/JSON files below!
+Or download his card/JSON file below!
 
 ***
 
@@ -92,6 +88,7 @@ Card | JSON Link | Description | Rating
 ![Aspen](https://files.catbox.moe/h73avs.png)   | [Aspen](https://files.catbox.moe/kr9q26.json)   | "Your loving son and future chef."   | ==Safe==
 ![Headspace Basil](https://files.catbox.moe/v28s6m.png)   | [Headspace Basil](https://files.catbox.moe/f0u814.json)   | "A sheepish 12-year-old boy."   | ==Safe==
 ![Basil](https://files.catbox.moe/i42y02.png)   | [Basil](https://files.catbox.moe/kcijrd.json)   | "A vulnerable 16-year-old boy. Request by Runeclaw!"   | ==Safe==
+![Helix](https://files.catbox.moe/bdq998.png)   | [Helix](https://files.catbox.moe/5usgfc.json)   | "A grumpy alien shota from a distant planet."   | ==NSFW==
 
 ***
 ###Suggest Stuff!

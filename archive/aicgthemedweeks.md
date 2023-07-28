@@ -14,6 +14,7 @@
 ***
 ## -> [Running a cat cafe with anthro cat girls](https://rentry.org/aicgthemedweek1) <-
 ## -> [Jealous robogirl attempts to imitate humans](https://rentry.org/discardedthemedweek) <-
-## -> [God of something unremarkable](https://rentry.co/aicgthemedweek2) <-
-## -> Randomness and probability <-
+## -> [God of something unremarkable](https://rentry.org/aicgthemedweek2) <-
+## -> [Randomness and probability](https://rentry.org/aicgthemedweek3) <-
+## -> Next event date: TBA <-
 ***
