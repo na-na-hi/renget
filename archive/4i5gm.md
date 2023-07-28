@@ -179,7 +179,7 @@ The two kept on walking passed a series of game stalls such as the Majestic Lase
 
 "Must be cool getting secret Legion missions," Inigo mused as they looked around. "You got the final part of that package, right? What was in it?"
 
-Junichi shrugged, "I'm not sure. The key opened the pack and I found this." He held out a black syringe with a red liquid inside. "No labels or anything. I heard some higher up from Tokyo's been sending them to random low members. I just happened to be lucky enough. Some kind of experimental drug. All it said was to use it in case of an emergency. The label says "TR-D2C"."
+Junichi shrugged, "I'm not sure. The key opened the pack and I found this." He held out a black syringe with a red liquid inside. "I heard some higher up from Tokyo's been sending them to random low members. I just happened to be lucky enough. Some kind of experimental drug. All it said was to use it in case of an emergency. The label says "TR-D2C"."
 
 Inigo frowned, "I got a bad feeling. Take it from someone born in that crowd. I've seen drugs that just blow up your jaw, or turn your blood into jelly. It's messed up. I'd just throw it away."
 

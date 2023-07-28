@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. Chespin playing cards. Alone.
 1. ["Ah, eto... bleh!"](https://www.youtube.com/watch?v=SYCP71qcYZw)
 1. The "You look lonely" scene from Bladerunner, but with Booker as Ryan Gosling and Sneasel as the hologram girl, captioned something like ">literally bee"/"omg he's literally bee"
 1. Sad, disappointed Smith looking at his plate of food, which holds normal, clean, non-grimy food.

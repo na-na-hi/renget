@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: MMBN2 rando postgame at 2UTC (Telemelt)**
 **FRI: Rockman X7 (PS2) at 2UTC (Parsec)**
-**SAT: - at 2UTC ()**
+**SAT: Castlevania Harmony of Dissonance at 2UTC (Telemelt)**
 **SUN: Golden SUN at 18:00UTC (Telemelt)** probably
 
 ##Cytubes

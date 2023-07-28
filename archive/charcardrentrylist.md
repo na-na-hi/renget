@@ -45,8 +45,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Helm's fundraiser (VN)](https://files.catbox.moe/3os7rg.png), [Voyeurphoto Club](https://files.catbox.moe/jmcm1g.png)
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
-[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||

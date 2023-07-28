@@ -19,11 +19,9 @@ Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work 
 * Season 3 lasts until September 22nd
 	* New Raider: The Ginyu Force
 	* New Survivors skins: Fortuneteller Baba (Dragon Tier reward), Dende, King Kai (Both for TP)
-	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan)
-* Hearts of Justice banner released June 30th
-	* New Transpheres: Great Saiyaman, Great Saiyawoman, Pan (GT)
-* New Event: Star Festival Campaign
--> ![Event Image](https://i.imgur.com/kXcc80k.jpg) <-
+	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan), Pan (GT), Great Saiyaman, Great Saiyawoman
+* Rival Spirits Vol. 2 released July 28th
+	* New Transpheres: Captain Ginyu, Golden Freeza, Kid Buu
 
 ###Useful Information
 
