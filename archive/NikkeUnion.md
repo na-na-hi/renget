@@ -4,7 +4,6 @@
 !!! info
     -> No fun allowed! <-
     -> Old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs. <-
-    
    
     
 ##Server: NA
@@ -61,5 +60,3 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | B
 Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | Joke Union?
 :----: | ------ | ------ | ------  | ------ | ------ | ------ | ------      
 **?** | SAMSUNGS | ==**17414**== |OPEN| SAMSUNG | 1/20 | N | Y
-
--> Hall of shame! https://rentry.co/nikghallofshame <-

@@ -53,7 +53,7 @@ Certain countries are blocked from playing Blue Archive, hop on a VPN if you are
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## Banner Guide 
-[/bag/ guide](https://i.imgur.com/n4teYue.jpeg)
+[/bag/ guide](https://i.imgur.com/8kBklFD.jpeg)
 Last update: 16/07/23
 
 [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) 

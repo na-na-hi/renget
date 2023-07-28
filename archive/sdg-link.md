@@ -85,7 +85,7 @@ https://github.com/comfyanonymous/ComfyUI
 https://github.com/Stability-AI/StableSwarmUI
 https://github.com/invoke-ai/InvokeAI
 https://github.com/vladmandic/automatic
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/11862
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ###Download SDXL v1.0
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0

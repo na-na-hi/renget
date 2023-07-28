@@ -24,6 +24,7 @@ Image | Name | Description | Link
 ![Horrible little man](https://files.catbox.moe/arsb34.png) | Sasaki | (**NSFW**) Your chronically underachieving subordinate that wants to dominate you.  Dominate him first.  Card has built in JB addition.| [catbox](https://files.catbox.moe/arsb34.png)
 ![Harpy Prophet](https://files.catbox.moe/bvcqob.png) | Amor | The Goddess of Love has arranged a match between you and her beloved prophet.  Counsel various fantasy couples and be called cringe petnames. Alternate portraits (no metadata): https://files.catbox.moe/4ublia.zip | [catbox](https://files.catbox.moe/bvcqob.png)
 ![God of Nostalgia](https://files.catbox.moe/vf95t3.png) | Dimitri | This God of Nostalgia wants to take you through all of the sweet memories you've experienced.  But watch out! | [catbox](https://files.catbox.moe/vf95t3.png)
+![Tiny Professional Baseball Player](https://files.catbox.moe/triaw4.png) | Tomoki |  A former bully and now professional baseball player is cursed by both his lineage and his past deeds.  Comes with three greetings: 1.) You are in the middle of journeying through Japan to help him get to his normal size, 2.) You are the former best friend he used to bully and he's come to you for forgiveness (since he can't get back to his normal size without it), and 3.) You're  a crazed fan who's kidnapped him now that he's tiny and have him at your beck and call. | [catbox](https://files.catbox.moe/triaw4.png)
 
 ###INCEST BOTS
 Self-explanatory. inb4 >dark haired anime men.  It was an accident.

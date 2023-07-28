@@ -8,7 +8,7 @@ Game Server IP				: emeraldclover.net:2302
 Game Password				: gamermania
 Teamspeak server IP			: emeraldclover.net
  
-Call to Arms usually looks like this:
+Call to Armas usually looks like this:
 /Milsim/ Mission in ~(TIME)
 Game Server IP				: emeraldclover.net
 Game Server Password		: gamermania

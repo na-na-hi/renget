@@ -297,6 +297,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * Porygon
 	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
+	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) *Non-Canon* *Not on Table*
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -480,6 +481,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Chespin's Week](https://rentry.org/chespinsweek)
 * {||} [Team Moxie Introduction](https://rentry.org/fehwy)
 * {||} [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) 
+* {||} [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) *Non-Canon*
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

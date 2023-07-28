@@ -41,14 +41,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
-https://rentry.org/4c3pf
-
-New Artfags:
-Smug Nene
-https://i.4pcdn.org/tg/1690409808573998.png
-Sandatsu intimidating Chris
-https://i.4pcdn.org/tg/1690409885658890.png
+>Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
+https://rentry.org/cucs2
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -535,6 +529,8 @@ https://rentry.org/uzu56
 https://rentry.org/4i5gm
 >Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
 https://rentry.org/4c3pf
+>Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
+https://rentry.org/cucs2
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -645,7 +641,7 @@ Mutants:
 >Ramses
 >>89696221
 >The Nymphs - Glimmer / Bliss / Doe / Kitty / Sprite
->>89675010
+>>89724946
 >Samson
 >>89675689
 >Karnak
@@ -709,8 +705,6 @@ Page 3
 Writefags:
 >Piss Break (Nymphs)
 https://rentry.org/4cfx3
->The Midwife (Georgia)
-https://rentry.org/nn577
 >Rumors of the Wasteland! (Lance)
 https://rentry.org/6nzas
 >Lockley Intro (Lockley, Ricky)
@@ -745,7 +739,8 @@ https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/
 https://pastebin.com/58dq47ZA
 >Mutant Pilgrimage Part 1 (Ramses, Karnak, Dr. Acheron, Sasha)
 https://rentry.org/MutantPilgrimage
-
+>The Midwife (Updated!) (Georgia)
+https://rentry.org/nn577
 
 Artfags:
 >ANT KING and ants
@@ -814,7 +809,7 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89700452
 >Professor Khuldor the Transmuter (Human Green Mage)
 >>89705236
->Corvus
+>Corvus (Human Spirit Talker)
 >>89733343
 ```
 
