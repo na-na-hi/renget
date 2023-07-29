@@ -32,14 +32,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Library of Babel](https://files.catbox.moe/j95sbh.png), [Junko Pao](https://files.catbox.moe/jdng3r.png), [Amira Wagner](https://files.catbox.moe/xo87y3.png)|[Aiko](https://files.catbox.moe/mcfhzf.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc |[The Town of Chance](https://files.catbox.moe/huqgz7.png), [Russian Roulette](https://files.catbox.moe/m5pw95.png)|[The Town of Chance](https://files.catbox.moe/huqgz7.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Shiori](https://files.catbox.moe/99wdxp.png)|[Shiori](https://files.catbox.moe/99wdxp.png) [MV]
-[Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png), [Philo](https://files.catbox.moe/txqgbt.png)|
+[Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png)|
 [OAnon](https://rentry.org/OAnon-AK) | Arknights |[Skadi](https://files.catbox.moe/crwsvv.png), [Projekt Red](https://files.catbox.moe/dtepk9.png)|[Kroos](https://files.catbox.moe/uqkwhy.png), [Mori Calliope](https://files.catbox.moe/6yscby.png)
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Lunaese](https://files.catbox.moe/rpdjh0.png), [Yotsuba](https://files.catbox.moe/2snote.png)|[Alejandra Mendoza](https://files.catbox.moe/u8tia5.png)
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Wikipe-tan](https://files.catbox.moe/q05bvi.png), [HighTierMan](https://files.catbox.moe/2gmyw8.png), [Sex Education with Yui](https://files.catbox.moe/vf5xax.png)|[Koharu](https://files.catbox.moe/jzw2t0.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[SCP-9261](https://files.catbox.moe/yomq42.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Louise](https://files.catbox.moe/8wa0zv.png), [Victoria](https://files.catbox.moe/miuzw6.png)|
-[The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc |[Ravenna](https://files.catbox.moe/1kou9x.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots ||
+[The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||[Marin](https://files.catbox.moe/mgv46p.png)
 [Clutch](https://rentry.org/cominginclutch) | Misc ||

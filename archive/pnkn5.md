@@ -1,3 +1,10 @@
+######"FNF misc work: Vitamin D Deficiency Hours Stream"
+######https://youtu.be/ENEbMlbG43o
+
+- Dave is drawing "special" FNF art related to the game.
+- Dave's thoughts on ghost tapping are regressing after playing DDR.
+- Dave states that programming is taking the longest time of development, since he has a lot of assets waiting to be implemented into the game.
+
 ######"Wat da Funk this boi up 2"
 ######https://youtu.be/D4FK5JfntJk
 

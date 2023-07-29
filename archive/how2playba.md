@@ -580,8 +580,8 @@ I wish they did too.
 >I can't beat X what do I do? 
 Go on youtube and look at a video. You'll find that is the answer to a lot of problems in life. 
 
->WTF I'm stuck in the story help! 
-[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. 
+>WTF I'm stuck in the story help! It's at volume 3 chapter 3 episode 24
+[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
 
 >What is UE / EW? 
 Unique Equipment, or Exclusive Weapon in Global. 

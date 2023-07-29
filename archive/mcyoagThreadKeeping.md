@@ -762,6 +762,9 @@ Page 1
 >Rules
 15 Basic/15 Advanced, follow the colors.
 You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (any type/color).
+>JRPG Compile
+https://rentry.org/JRPG_MP
+Edit Code: JRPGCompile
 
 >Ella Adikia (Half-Elf Warrior)
 >>89641508
