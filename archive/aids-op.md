@@ -1,11 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/poi6KWe.mp4)
-https://files.catbox.moe/lxc0a8.webm
-
-Manboob Edition
+![suggested OP image](https://i.imgur.com/AjbVjhP.jpg)
+F.I.R.E. Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>439723081
+Last thread: >>439765229
  
 \>READ FIRST: https://i.imgur.com/epzXM2T.png
 
@@ -38,7 +36,7 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Concoct prompts about next week's theme, Potions/Alchemy Friday! >>439632358!
  
 ▶News
-\>(07/28) Evals score Kayra higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
+(07/28) Evals score Kayra higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
 (07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100.
 (07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama
 (07/20) NAI adds https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html

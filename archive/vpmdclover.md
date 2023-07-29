@@ -338,6 +338,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
+* Tropius
+	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro) *Not on Table*
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * Non-Applicable
@@ -482,6 +484,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Team Moxie Introduction](https://rentry.org/fehwy)
 * {||} [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) 
 * {||} [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) *Non-Canon*
+* {||} [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

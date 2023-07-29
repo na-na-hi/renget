@@ -1,3 +1,4 @@
+To clear some stuff up, some of those keys were disabled on the request of the token owner. Reasons include accidentally using the key on another proxy because of how presets work.
 ```
 Total Prompts: 2124381
 Token ...b846, Prompt Count: 40575, IP Count: 26

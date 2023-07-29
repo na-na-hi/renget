@@ -18,13 +18,14 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tomoki](https://files.catbox.moe/triaw4.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Helix](https://files.catbox.moe/bdq998.png), [Basil](https://files.catbox.moe/i42y02.png), [Aspen](https://files.catbox.moe/h73avs.png)|[Basil](https://files.catbox.moe/i42y02.png) [MV]
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Cerunlanwe](https://files.catbox.moe/6rmhj5.png), [Minkhius](https://files.catbox.moe/90deo2.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Cap'n Pippin](https://files.catbox.moe/ijyyxk.png), [Mr. Chedda](https://files.catbox.moe/z8zt56.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Gulliver](https://files.catbox.moe/pxv5o0.png), [Gunter](https://files.catbox.moe/4w6atb.png), [The Duke of Dusk](https://files.catbox.moe/1x5edj.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Constance](https://files.catbox.moe/f91bh6.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Ducky](https://files.catbox.moe/tdrhj9.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Tobias](https://files.catbox.moe/jsr3yo.png), [Chara](https://files.catbox.moe/0ngbg9.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Tobias](https://files.catbox.moe/jsr3yo.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Juno](https://files.catbox.moe/ffrdcq.png)|[Juno](https://files.catbox.moe/ffrdcq.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[BT-42 Team](https://files.catbox.moe/wt7id1.png)|[BT-42 Team](https://files.catbox.moe/wt7id1.png) [MV]
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[maeve](https://uncoolreisen.neocities.org/img/maeve.png)|[maeve](https://uncoolreisen.neocities.org/img/maeve.png) [MV]
@@ -45,7 +46,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Helm's fundraiser (VN)](https://files.catbox.moe/3os7rg.png)
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
-[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||

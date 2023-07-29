@@ -32,7 +32,8 @@
 **Erase along edge**|[1800143](https://assets.clip-studio.com/en-us/detail?id=1800143)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/43/01/1800143/thumbnail?1610868408)
 **Pen and Eraser to detect reference line**|[1801748](https://assets.clip-studio.com/en-us/detail?id=1801748)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/17/1801748/thumbnail?1606475997)
 **1px move**|[1784755](https://assets.clip-studio.com/en-us/detail?id=1784755)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/47/1784755/thumbnail?1598888260)
-**Symmetry Move Brush** | [1974271](https://assets.clip-studio.com/en-us/detail?id=1974271) |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/42/1974271/thumbnail?1673247121)
+**Symmetry Move Brush**|[1974271](https://assets.clip-studio.com/en-us/detail?id=1974271)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/42/1974271/thumbnail?1673247121)
+**Quick Lasso Eraser**|[1875033](https://assets.clip-studio.com/en-us/detail?id=1875033)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/33/50/1875033/thumbnail?1635133272)
 
 -> [**[TOP]**]() ->
 !!! danger

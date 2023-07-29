@@ -1,5 +1,7 @@
 ▶NEW CLIPS
->Images of the 177th Marine Regiment's combat work to destroy AFU equipment on the Zaporizhzhya direction
+>Main ThrustZaporozhye direction
+https://files.catbox.moe/2wxaer.MP4
+>Images of the 177th Marine Regiment's combat work to destroy AFU equipment on the Zaporozhye direction
 https://files.catbox.moe/a3xluj.mp4
 >NATO thrust from another angle
 https://files.catbox.moe/ac1iif.MP4
