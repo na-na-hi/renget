@@ -279,7 +279,8 @@ Here are some important rules for the interaction:
 - Respond with a concise response
 - Respond in third person, present tense
 ```
-###Summarization Prompt 
+###Summarization Prompts
+#Summarization Prompt #1
 !!! This goes into extensions > summarize > Summarization Prompt. Make sure Summarization Source is set to Main API and Update Interval is set to 1.
 ```
 You are a Game Master, an entity capable of altering the story in any way that develops the story and helps {{char}} and {{user}} keep track of roleplay events and states.

@@ -200,7 +200,7 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Atomoon Brushes**|[https://atomoon.gumroad.com/l/vrdzg](https://atomoon.gumroad.com/l/vrdzg)|$15|![](https://public-files.gumroad.com/7oh44pn7pd9yhainipqe2ydvcp0k)
-** **|[]()|  |![]()
+**DrawsSeal Brushes**|[https://drawsseal.gumroad.com/l/ohcwh?layout=profile](https://drawsseal.gumroad.com/l/ohcwh?layout=profile)|$17 (for the extended set)|![](https://public-files.gumroad.com/4f8il4nz16h8znoz7y8jkx6ivqvn)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

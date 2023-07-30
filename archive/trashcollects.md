@@ -734,6 +734,13 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 	https://anonfiles.com/e2u8p644zf/kicks_rar
 	https://anonfiles.com/V3u2q74fz0/kicks2_rar
 
+# Kha'Zix (League of Legends)
+>also make sure to use all of these tags so you can get his anatomy more accurately:
+>khazix, insect, purple exoskeleton, antennae, spikes, green eyes, insect wings, red skin, red body, claws, sharp teeth, brown fur
+
+	LoRA: https://pixeldrain.com/u/aVDqbBNN
+	Dataset: https://pixeldrain.com/u/whXDQFBz
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

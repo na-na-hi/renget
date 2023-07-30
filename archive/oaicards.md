@@ -139,7 +139,7 @@ In an ideal world, you would avoid using {{char}} in non-character cards all tog
 
 6. Greeting: The first message in the roleplay that the user will see. Temporary in memory. The other most important part of a card.
 
-7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character cards. That is not the case anymore.
+7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character cards.
 Personally, I like to use a placeholder text in the prompt field and then put all my prompts in the description. That way if someone has "Ignore {{char}} main prompts" on, your card will stay know it's main task.
 Here's an example from [The Loli Store](https://www.chub.ai/characters/Anonymous/the-loli-store):
 AI prompt override: main: `!`

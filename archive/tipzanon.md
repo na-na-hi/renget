@@ -7,7 +7,7 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work, giving characters actual, consistent answers to questions you might have for them and believable backgrounds and personalities. I work primarily with Tavern AI and use several models to test my cards. My cards are also available on [chub](https://www.chub.ai/users/Tipzanon) and sometimes [pygmalion booru](https://booru.plus/+pygmalion/user:tipzanon) when I remember to upload to it. If you have card suggestions, questions, or just want to tell me I'm awful: tipzanon@proton.me.
 
 !!! info
-	-> Updates: New alternate art for Jocelyn - have some delicious goth elf cock. <-
+	-> Updates: New alternate art for Jocelyn - have some delicious goth elf cock. Uploaded a requested card, Lily Evergreen, to Megacity East. <-
 
 [TOC]
 
@@ -44,8 +44,8 @@ Image| Name | Description | Link
 ![The Party](https://files.catbox.moe/kec8b5.png) | The Party | All four characters trimmed and crammed into one card. Works well for adventure scenarios. | [catbox](https://files.catbox.moe/kec8b5.png) [chub](https://www.chub.ai/characters/Tipzanon/the-party)
 
 
-### Slave Series
-These characters are set in a futuristic fantasy world I'm currently developing a lorebook for.
+### Megacity East
+These characters are set in a futuristic dark fantasy world.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Yuki](https://files.catbox.moe/m5uk3a.png) | Yuki | A kind kitsune slave who only wants to make her master happy. She has empathic abilities and tries to comfort and soothe her master. [High Res Portrait](https://files.catbox.moe/8xij71.png) - [Alternate Art](https://files.catbox.moe/8qi8x2.png) | [catbox](https://files.catbox.moe/m5uk3a.png) [chub](https://www.chub.ai/characters/Tipzanon/Yuki)
@@ -53,6 +53,8 @@ Image| Name | Description | Link
 ![Jocelyn](https://files.catbox.moe/m5ygf0.png) | Jocelyn | A horny elf pleasure slave who wants to be treated like a princess. [High Res Portrait](https://files.catbox.moe/h08mkc.png) - [Alternate Futa Art](https://files.catbox.moe/8caivx.png) | [catbox](https://files.catbox.moe/m5ygf0.png) [chub](https://www.chub.ai/characters/Tipzanon/Jocelyn)
 ![Liriae](https://files.catbox.moe/ce6qlr.png) | Liriae | A mindbroken elf who thinks she is a dog. Her name is pronounced Leer-ree-ay. [High Res Portrait](https://files.catbox.moe/6vo6ka.png) | [catbox](https://files.catbox.moe/ce6qlr.png) [chub](https://www.chub.ai/characters/Tipzanon/5e9b5f5e-275f-475c-8de1-386c7886eee4)
 ![Calle](https://files.catbox.moe/jqus5b.png) | Calle | A halfling mechanic who fell on hard times and ended up getting enslaved by her own brother. GPT4 and Claude work best to keep her accent and height consistent. She's only three feet tall and Turbo seems to struggle with that concept. She was my PC from a d20 game I played ages ago. [High Res Portrait](https://files.catbox.moe/c4xj2n.png) | [catbox](https://files.catbox.moe/jqus5b.png) [chub](https://www.chub.ai/characters/Tipzanon/aed2f067-9506-4fc5-8211-238aa150afd8)
+![Lily Evergreen](https://files.catbox.moe/1mixl4.png) | Lily Evergreen | Lily was born into privilege and responsibility, but after an isolated childhood and surviving several assassination attempts by the elven aristocracy, she has left it behind for the moment to find excitement and danger in Megacity East. She has natural magic at her disposal and could be very useful to the right merc. Original concept by Kyuubi08. Used with permission. | [catbox](https://files.catbox.moe/1mixl4.png) [chub](https://www.chub.ai/characters/Tipzanon/lily-evergreen-0e439327)
+
 
 ### Something Different
 Here you'll find special, offbeat or fetish characters.

@@ -51,6 +51,7 @@ For Want of Tea (Unmei): https://rentry.org/ForWantofTea
 Corkscrew Airline (Potion Pete, Mahapapapurusa, Cormelia): https://rentry.org/knat3
 Chance Encounters (Suzerain, Caligula, Caniara): https://rentry.org/thewindblows
 A Jolly Adventure (Mahapapapurusa): https://pastebin.com/v4LNpcXi
+The Dream of Potion Pete (Potion Pete): https://rentry.org/rdhv6
 
 ***
 

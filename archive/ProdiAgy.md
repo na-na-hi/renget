@@ -9,13 +9,13 @@
 
 ##What is it?
 [Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
-[iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. Very lightweight. Consumes the least amount of VRAM. Eats a lot of learning rate for breakfast.](https://huggingface.co/docs/peft/conceptual_guides/ia3)
+[iA3 is like TI for the UNET and done at a very small size, about 200kb, works amazing on both characters and style. Very lightweight. Consumes the least amount of VRAM. Eats a lot of learning rate for breakfast. ```iA3 is usually done within 200-600 total steps but if using Prodigy then it'll be done once you have a smooth cosine downwards without having spiked for a while, each spike indicates calibration.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
+
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-!!! danger OMEGA IMPORTANT: ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```10.0 is generally good for iA3, adjust min_snr_gamma instead.``` iA3 learns extremely quickly with ```recommended d*lr near the 5e-3 - 1e-2 ranges```. iA3 is ```usually done within 200-600 total steps.```
-!!! danger OMEGA IMPORTANT: Adjust ```min_snr_gamma if you don't get your desired result. It affects Prodigy's d*lr, scale accordingly so you're within a good LR.``` Recommended between 1-10. Lower better for characters and learns faster, it also lowers d\*lr. Higher better for style and learns slower, it also increases d\*lr.
-!!! danger OMEGA IMPORTANT: ```weight_decay is recommended at 0.0-0.3. Already set but you can adjust if needed, if you do use weight_decay then that usually means you're putting in a lot of lr so you'll start with an overtrained mess and by the end it will be good.```
-!!! danger OMEGA IMPORTANT: ```Regularization is never recommended with iA3. You already do enough with just weight_decay and min_snr_gamma.```
+!!! danger OMEGA IMPORTANT: Adjust ```min_snr_gamma if you don't get your desired result.``` Recommended between 1-10. Lower better for characters and learns faster, it also lowers d\*lr. Higher better for style and learns slower, it also increases d\*lr.
+!!! danger OMEGA IMPORTANT: ```weight_decay is recommended at 0.0-0.3. Already set but you can adjust if needed ex: Prodigy calibrates LR too high.```
+!!! danger OMEGA IMPORTANT: ```Regularization is never recommended with iA3. You already do enough with just Prodigy's calibration, weight_decay and min_snr_gamma.```
 !!! info VERY IMPORTANT: Change ```caption_extension to .txt if using captions files.``` (Not recommended. Unnecessary.)
 !!! info VERY IMPORTANT: Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! note Set ```repeats to 1 and use epochs * dataset / batch size * gradient accumulation steps``` to calculate total steps instead.
@@ -28,7 +28,7 @@
 {
   "LoRA_type": "LyCORIS/iA3",
   "adaptive_noise_scale": 0.000,
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1000\" \"eta_min=0.000\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1200\" \"eta_min=0.000\"",
   "caption_extension": ".none-use-foldername",
   "gradient_accumulation_steps": 1,
   "keep_tokens": 0,
@@ -36,9 +36,9 @@
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "75",
-  "min_snr_gamma": 10,
+  "min_snr_gamma": 3,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=10.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.999\" \"d0=5e-3\" \"d_coef=2.0\" \"weight_decay=0.00005\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -55,10 +55,11 @@
   "unet_lr": 1.0,
 }
 ```
-!!! danger ```Default d0 is 1e-6, it sets the initial LR for Prodigy```.
-!!! note ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps. ```Set equal to your total steps.```
+!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```Shouldn't need to touch this, let Prodigy calibrate to its own LR over t_max, it'll be slower than manually setting a higher initial LR but that is by design.```
+!!! danger ```Default d0 is 1e-6, it sets the initial LR for Prodigy```. Been set to 5e-3 for iA3, don't touch this and let Prodigy calibrate to its own LR over t_max, it'll be slower than manually setting a higher initial LR but that is by design.
+!!! danger ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps. ```It affects Prodigy's d*lr, scale accordingly so you're within a good LR.```
 !!! note ```eta_min``` is the lowest point at which your cosine scheduler will drop its LR strength. Basically ```scales Y axis on your UNET and TE tensorboard graphs.``` Probably shouldn't be touched when using Prodigy.
-!!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary.) 
+!!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary. Prodigy should calibrate itself instead.) 
 
 # -> NOTE: <-
 ###WAIT FOR MY CIVITAI UPLOADS TO BE UPDATED AND CHECK THEIR METADATA TO SEE WHAT I PERSONALLY DO, I WILL UPDATE THOSE SOON WHEN I HAVE TIME.

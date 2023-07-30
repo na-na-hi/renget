@@ -26,6 +26,7 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/i05zi2.png) | [Gacha Lollipops](https://chub.ai/characters/creamsan/gacha-lollipops) | **creamsman** | A gachapon machine filled with magical lollipops. |
 ![](https://files.catbox.moe/pbtq3c.png) | [Russian Roulette](https://www.chub.ai/characters/creamsan/57bb6f4d-9a2a-4431-96ac-f9336f638273) | **creamsman** | Play Russian Roulette with your waifu or with anyone you like. |
 ![](https://files.catbox.moe/uk09p9.png) | [Die of Coom and Doom](https://www.chub.ai/characters/bigdickcoolguy/b28e669b-87a0-41a3-8871-da08415fe98b) | **bigdickcoolguy** | Feeling lucky and horny? |
+![](https://files.catbox.moe/1g2tst.png) | [Secret Onee-Chan Lover](https://www.chub.ai/characters/MooseAnon/secret-onee-chan-lover-7d1f3d47) | **MooseAnon** | Your Onee-chan is going to take care of you in any lewd way you want, but there's always a chance you'll be caught. |
 
 ***
 #### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-
