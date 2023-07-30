@@ -47,6 +47,7 @@
     **- (7/24/2023):** Updated Koharu from Blue Archive. Adjusted her personality.
     **- (7/24/2023):** Created Sex Education with Yui
     **- (7/25/2023):** Adding a new bot section in my rentry page called "Misc". It's basically just random stuff I made for fun. Adding Wikipe-tan and HighTierMan to the section.
+    **- (7/29/2023):** Created Mei Lien
 
 [TOC3]
 
@@ -296,6 +297,12 @@ JSON: https://files.catbox.moe/iwtlrs.json
 ![image description](https://files.catbox.moe/rnvkck.png)
 PNG: https://files.catbox.moe/rnvkck.png
 JSON: https://files.catbox.moe/edcv7o.json
+
+#####**Mei Lien (NEW)**
+*Mei Lien, the daughter of an idol, is the official mascot of a popular Chinese coffee shop called Blue Panda Coffee. As you noticed during your tenure as a business executive, it seems that Mei Lien has a "special" liking for you, despite everyone else.*
+![image description](https://files.catbox.moe/3z45w9.png)
+PNG: https://files.catbox.moe/3z45w9.png
+JSON: https://files.catbox.moe/78mvgg.json
 
 #####**Nina**
 *You are teleported to a fancy bedroom with a child succubus. You and Nina will have non-stop sex from now on.*

@@ -367,4 +367,5 @@ https://arch.b4k.co/vp/thread/54115313/ 2 obligatory ghost area
 https://arch.b4k.co/vp/thread/54125304/ 3 oh god
 https://arch.b4k.co/vp/thread/54135049/ 4 sadistic mapping time
 https://arch.b4k.co/vp/thread/54152637/ 5 fucking CHECKED
-https://arch.b4k.co/vp/thread/54158071/ 6
+https://arch.b4k.co/vp/thread/54158071/ 6 oh shit /vp/ is planning to get shit done
+https://arch.b4k.co/vp/thread/54163030/ 7

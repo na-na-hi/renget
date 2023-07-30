@@ -25,6 +25,11 @@
 ##Question archive (questions used in previous threads)
 Newer questions are at the top of the list
 
+>What's your duo for each games you've played?
+>Did you answer honestly the first time?
+>Who would you like added to the starter roster?
+>Picture your favorite character in PMD. Got it? Now picture them as your least favorite Pokemon. Does it change your opinion of them?
+
 >Instead of the usual amnesia human-turned-to-pokemon, what would you do to change up the formula?
 >Because of what happened at the story, the name you've given to your partner, does it became more dear to you or nothing changed at all?
 >Imagine you're a mythical Pokemon and have free reign to use your powers to your heart's content. No consequences (maybe). What will you do with your powers? 

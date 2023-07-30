@@ -9,7 +9,6 @@
 1. The "You look lonely" scene from Bladerunner, but with Booker as Ryan Gosling and Sneasel as the hologram girl, captioned something like ">literally bee"/"omg he's literally bee"
 1. Sad, disappointed Smith looking at his plate of food, which holds normal, clean, non-grimy food.
 1. Tropius's bananas falling off, followed by various guildmons rushing to grab some, much to Tropius's displeasure
-1. Princess Wooper
 1. Chespin doing the "No Way Fag" Expression
 1. Someone asking Chespin "You call breaking a glass bottle over an enemy's head a combat art?" with Chespin saying "Hey, as long as it works."
 1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
@@ -122,6 +121,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Princess Wooper](https://arch.b4k.co/vp/thread/54121838/#54136878)
 
 Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!" -- 2 versions [by Porygon-anon](https://cloverguild.com/booru/post/602) and [by Ribombee-anon](https://cloverguild.com/booru/post/603)
 

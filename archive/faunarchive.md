@@ -800,5 +800,22 @@ Set list (stream starts at 0:55):
 
 [warosu](warosu.org/vt/thread/51940336#p51941180)
 
+#### July 2023
+
+##### Holosummer relay
+[2023-07-29](https://www.youtube.com/watch?v=uBaEeULFNZg)
+
+[magnet](magnet:?xt=urn:btih:4aa1455f266a082b6c79c6fbdb7470ce6afc0072&dn=%5B20230730%5D%20Unarchived%20Summer%20Song%20Relay%20%28Fauna%29&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+
+[audio only mega](https://mega.nz/file/txxDTChb#XYse8kAQD-hSDO31b5DCNEUH27YhR1DWR10eQnoYiMk)
+
+Set list (stream starts at 0:18):
+1. Britney Spears - Toxic (1:21)
+2. Panic! at the Disco - House of Memories (5:14)
+3. Arctic Monkeys - 505 (9:06)
+4. Lana Del Rey - Video Games (13:30)
+5. Muse - Time Is Running Out (incomplete due to relay time constraints; 18:26)
+
+[warosu](warosu.org/vt/thread/54574378#p54574906)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

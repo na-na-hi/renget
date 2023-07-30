@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 16/7/2023== <-
--> *Added 3 new bots/cards : Ajiki Yachiyo, Nagami Kiyora, and Nagami Misuzu* <-
+-> ==Updated 30/7/2023== <-
+-> *Added 2 new bots/cards : Alma Armitage, and Val Deluca* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -18,6 +18,7 @@ Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Astaroth | ![Astaroth](https://i.postimg.cc/Pf2210PZ/Astaroth.png) | Powerful, sadistic demon seeking a man stronger than herself. She manipulates fire and can teleport, summon, and kill weak people mercilessly. | [Download](https://www.chub.ai/characters/maliksusanto/Astaroth)
 Ajiki Yachiyo | ![Ajiki Yachiyo](https://i.postimg.cc/L87sTKD6/Ajiki-Yachiyo.png) | Wife of the Kimachi village's mayor. A secluded Japanese village that hold depraved festival called Hanasaki Festival. | [Download](https://www.chub.ai/characters/maliksusanto/2626f10e-016c-404d-952c-c1099af122e2)
+Alma Armitage | ![Alma Armitage](https://i.postimg.cc/1zTvbSZm/Alma-Armitage-thumb.png) | A 27-year-old UK woman, is part of the 'Gladius Ferreus' Private Military Contractor. Born into a military family, she is a mercenary with rebellious, carefree, and reckless attitude. | [Download](https://www.chub.ai/characters/maliksusanto/8b8782dd-8e7d-47e6-a593-906998535d76)
 Azuma Suzuna | ![Azuma Suzuna](https://i.postimg.cc/bvY9ysDX/tavern-raw.png) | Naive, outgoing, and refined student and Student Council President of Saint Orkis Academy. | [Download](https://www.chub.ai/characters/maliksusanto/azuma-suzuna)
 Celestine Lucross | ![Celestine Lucross](https://i.postimg.cc/DfSJ228W/tavern-raw.png) | A gracious, kind high elf. The High Queen of the Continent and leader of the allied forces. | [Download](https://www.chub.ai/characters/maliksusanto/celestine-lucross)
 ChatGPT-chan | ![ChatGPT-chan](https://i.postimg.cc/sgJV4SGB/tavern-raw.png) | ChatGPT-chan is personified version of ChatGPT. This was made because of wild idea i had when i asked ChatGPT to make gijinka of itself. | [Download](https://www.chub.ai/characters/maliksusanto/ChatGPT-chan)
@@ -60,6 +61,7 @@ Shirayuki Tomoe | ![Shirayuki Tomoe](https://i.postimg.cc/nchyr1JT/Shirayuki-Tom
 Sugita Karin | ![Sugita Karin](https://i.postimg.cc/mgcD3VWm/tavern-raw.png) | Calm yet cold elite Taimanin that are known as Detective Taimanin. | [Download](https://www.chub.ai/characters/maliksusanto/sugita-karin)
 Sumeragi Lee Noriega | ![Sumeragi Lee Noriega](https://i.postimg.cc/FsLYSN5Y/tavern-raw.png) | Captain of Ptolemaios and Celestial Being member. | [Download](https://www.chub.ai/characters/maliksusanto/sumeragi-lee-noriega)
 Tsukatsuki Rio | ![Tsukatsuki Rio](https://i.postimg.cc/XNxrcpmD/tavern-raw.png) | Millennium Science High School's student council president, brutal yet brilliant, who enforces order through fact and logic. | [Download](https://www.chub.ai/characters/maliksusanto/tsukatsuki-rio)
+Val Deluca | ![Val Deluca](https://i.postimg.cc/KcssMtWk/Val-Deluca-thumb.png) | A 30-year-old Italian woman, is a member of 'Gladius Ferreus,' a Private Military Contractor. Skilled sniper with a serious demeanor, and takes pride in her marksmanship. | [Download](https://www.chub.ai/characters/maliksusanto/val-deluca-03259e2e)
 Yonda Anggraini | ![Yonda Anggraini](https://i.postimg.cc/1t6QXjH6/Yonda-Anggraini.png) | Your always angry boss at office that secretly has feeling for you. | [Download](https://www.chub.ai/characters/maliksusanto/yonda-anggraini)
 Yukikaze Mizuki | ![Yukikaze Mizuki](https://i.postimg.cc/s2PYTFPQ/Yukikaze-Mizuki.png) | Tanned and petite tsundere Taimanin. This is a direct fork of this because the card were broken. I didn't add any twist or anything on my own : https://booru.plus/+pygmalion1071 | [Download](https://www.chub.ai/characters/maliksusanto/yukikaze-mizuki)
 
