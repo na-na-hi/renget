@@ -33,6 +33,75 @@ https://www.mediafire.com/folder/hlezdefw753jc/Fixed_BA_Models_for_Blender
 - Guide folder
 https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 
-If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around.
+If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
 
-I am not sorry about the huge images and FUCK imgur.
+## CH#### Character List
+CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender)**
+CH0066 = Shun (Child)
+CH0069 = Mika
+CH0081 = Sena
+CH0088 = Megu
+CH0092 = Swimsuit Nonomi
+CH0095 = Noa
+CH0098 = Bunny Asuna
+CH0099 = Bunny Akane
+CH0100 = Bunny Karin
+CH0101 = Bunny Neru **(Does not import correctly on Blender)**
+CH0107 = Kaho
+CH0114 = Tsukuyo
+CH0133 = Michiru **(Does not import correctly on Blender)**
+CH0135 = Rumi
+CH0137 = Kokona
+CH0138 = Mina
+CH0141 = Fubuki
+CH0144 = Saki
+CH0145 = Miyu
+CH0152 = Mine
+CH0155 = Natsu
+CH0156 = Iroha **(Does not import correctly on Blender)**
+CH0159 = Himari
+CH0163 = Onsen Chinatsu
+CH0164 = Onsen Cherino
+CH0165 = Onsen Nodoka
+CH0167 = Reisa
+CH0169 = Ui
+CH0170 = Kanna
+Enemy_CH0171 = Yukino
+Enemy_CH0172 = Niko
+Enemy_CH0173 = Kurumi
+Enemy_CH0174 = Otogi
+CH0175 = Swimsuit Wakamo
+CH0176 = Swimsuit Ayane
+CH0177 = New Years Fuuka
+CH0178 = Swimsuit Chise
+CH0179 = Swimsuit Izuna
+CH0180 = Swimsuit Shizuko
+CH0181 = Cheerleader Hibiki
+CH0182 = Track Utaha
+CH0184 = Track Yuuka
+CH0186 = Track Mari
+CH0187 = Toki
+CH0188 = Swimsuit Shiroko
+CH0190 = Track Hasumi
+CH0191 = New Years Haruna
+CH0194 = Christmas Serina
+CH0195 = Christmas Hanae
+CH0198 = Koyuki **(Does not import correctly on Blender)**
+CH0200 = Maid Alice
+CH0203 = Maid Yuzu
+CH0204 = Swimsuit Ui
+CH0205 = Swimsuit Koharu
+CH0209 = "Swimsuit" Hanako
+CH0210 = Swimsuit Hinata
+CH0215 = Swimsuit Miyako
+CH0217 = Swimsuit Saki
+CH0218 = Swimsuit Miyu
+CH9999 = Miku
+
+Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet.
+
+## NPCS
+Kaito_Trinity_HG = Akira
+Police_Valkyrie_SG = Shotgun Cop Mob
+Komakaze_Helmet_SG = Rabu
+EN0002_Mesh = Shiroko (Terror)

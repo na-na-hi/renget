@@ -1,13 +1,5 @@
 ##Personality Blurbs
 [TOC3]
-###Lliam
->Lliam (Lee-yam) is a Male Meowstic who is the Guildmaster of the Clover Guild. He is a shrewd, though friendly.
->He will use his psychic powers to the limits when his life or others that he cares about are in peril, he values his friends/guild members very deeply, even if they tend to be a bit deviant.
-
->Misc:
->His favorite food was sweets. now it's Gold gummies.
->He usually wears a black capelet with a friend bow on his left chest, so he made it into something like a boutonnière with the Clover Guild badge clipped onto it. On the right side, there's a bag with a similar design to a treasure bag. Inside the capelet are pockets where he stores extra items.
-
 ###Nick/Amelia
 >Nick, Vulpix (M), Calm
 >- One of those people that would've been considered "gifted" as a child, and then burnt out *hard*.

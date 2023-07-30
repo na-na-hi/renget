@@ -544,6 +544,8 @@ Noah the Saint: https://desuarchive.org/tg/thread/89615875/#89625515
 Sally Getting Drilled from Behind (In Color): https://desuarchive.org/tg/thread/89625880/#89628318
 Kaylee in the hospital bed: https://desuarchive.org/tg/thread/89637421/#89644891
 Katsuragi Enjoyers: https://desuarchive.org/tg/thread/89679599/#89683133
+Smug Nene: https://desuarchive.org/tg/thread/89708552/#89717661
+Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -792,7 +794,10 @@ Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy): https://ren
 Wrong Answers (Mirror Devil, Challenger): https://rentry.org/umx6c
 Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D): https://rentry.org/udt96
 I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn): https://rentry.org/uzu56
-
+Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others): https://rentry.org/4i5gm
+Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students): https://rentry.org/4c3pf
+Understanding (Mirror Devil, Maru (maru), Smokin' Sexy): https://rentry.org/cucs2
+Misadventures at the Dojo Part 2.5: Aftermath (Drekus, Karma, Feral, Aquarius, Walpurgis, Nebulous Storm, Midas): https://rentry.org/DojoMisadventureExtra
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

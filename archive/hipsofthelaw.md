@@ -108,3 +108,158 @@ Alright I'm gonna start this before heading to bed
 >"As if! Our boss man, no matter what he says, always returns to plow us because we are that good!"
 >"Well Anon hasn't exactly touched you for a week ever since that snake oil incident."
 >"Not the time Rib!"
+
+>Ok you got your arms free
+>You lay on your side as you lean forward to reach for your tied up legs
+>Your hands could barely reach to the sides of your ankles with the knife
+>Just a little closer
+>Sucking in your gut to make more room to lean in, the tip of the blade was now touching the rope
+>However, you see the door to the outside open with the mouse sheriff looking mighty pissed
+>You drop the knife immediately and put your hands in the air
+" I can assure you this isn't an escape and I'm innocent of everything."
+>He locks eyes on you and starts stomping towards your prone form
+>For once, you felt scared on what he was going to do to you
+>Until the pear-shaped mouse lands his tush against your face with hesitation
+>"How about we settle this for real then boys?!"
+>You could hear Rupert talk to someone but his voice is muffled by the sheer amount of ass
+>A set of footsteps approached you two
+>"You're on! I think Boss man Anon will fucking enjoy our bodies more than you pig!"
+>Was that Rob's voice?
+>"Yeah! After this, he'll be permanently allergic to a government bootlicker like you! 
+>And Rib's?
+>Did- did these fuckers sell you out!
+
+>The human below Sheriff Rupert continued to throw punches in the air, the mouse delicately removed Anon's pants
+>As soon as the beast was exposed, all three of the mice's nose twitch in the air
+>They sniffed about, taking in the musky smell before settling on the twitching cock laid down on Anon's crotch
+>Their faces squeezed together on one spot to inhale the male scent that was driving them insane
+>"His cock~"
+>"So manly~"
+>"Anon~!"
+>Their mouths dove in to different spots to get a taste of the outlaw's sausage
+
+>You stopped your struggling as soon as you felt three mouths hungrily devour your exposed head, shaft, and balls respectively
+>The sheriff's fat ass above you pressed down lending your hot breath to tickle his anus
+>Fuck the mouse was so heavy you could feel his cheeks melding with your head
+>You tried grab his waste to pull him off but it was no use
+>The heat on your face and the sensation below was keeping you from concentrating
+>You hate to admit it but they were sucking you off good
+
+>Back to the trio, Rib was busy suckling on your testicles like a babe, feeling your impending orgasm
+>Rupert was busy shaft like a tender lover, kissing and sucking on it all over
+>Rob was on your tip like a possessed beast, weeks on not getting off led to him slobbering on your tip
+>Despite the three's opposite reputations, they were like a machine trying to get you off 
+>Rupert was the first to stop his ministrations and nuzzled on your stem
+>"H-Had enough? I could go all day."
+>Rob could only look down at the sheriff to give him the middle finger
+>Rib lets go of Anon's coin purse and sniffed on it like an addict
+>"H-He's close. I could feel him."
+>That kicked the other two into working Anon's cock harder
+>Each of their dicks twitched in anticipation as well, one hand over their own guns to fire off like a firing squad
+
+>Fuck so close
+>And to think, the two bastards under your wing sold you off 
+>Now you're probably going to be sex slave to some creep mouse who's too lonely for his own good
+>The mouth on your tip stopped slobbering and just sucking on your head like a barnacle
+>That was enough to set you off
+>With a single thrust, you feel somehow the mouth swallow all of your length and cum inside inside its throat
+
+>"Mother of god, Rob!"
+>Rib could only watch as his brother suddenly took your entire shaft and swallow all of its load
+>Rupert felt cheated but nonetheless enjoyed the overwhelmed face of his rival
+>One of Rob's eyes closed as he felt Anon's load deposit into his throat, some leaking on his nostrils
+>Perseverance pushed into his mind and pulled away. Alongside his orgasm drooling all over the floor
+>He coughed up the excess semen but realized what had he just did
+>"Afhh! Hfs cfm!"
+>The panicked mouse started licking away all the wasted cum on the floor
+>"Hah! Lightweight."
+>The white mouse graciously licked all over the fluids that surround the softening member
+>He sucked on to the tip, wanting drink the rest of the load
+>Rib pointed at the smug mouse
+>"Y-You cheated!"
+>"Oh please, I'm not the one who bit more than he could swallow."
+
+>God, that felt good
+>Too good
+>Whatever's on the other end of what happened, at least some of your frustration is gone now
+>The weight on your face is lifted and light floods your vision
+>You see Rib looking angrily at the sheriff, said sheriff is standing tall mocking the two mice
+>Rob is... what ever the hell he is doing
+>"Now if you'll excuse me, I'll be claiming my prize~"
+>The sheriff walked over you and positioned his butt on your lap
+>You on the other hand, were focused on the two traitors
+"Rib... Rob... You rats!"
+>You coughed up from the sudden intake of air and Rib was suddenly at your side
+>"Boss! Boss! Please, just focus on me! Whatever you do, don't turn to the light of the law!"
+"What in the sam hill are you talkin' about?!"
+>The feeling of warmth enveloping your sensitive cock cuts your mind off 
+
+>Rupert could only smile in ecstasy as at last the handsome outlaw's cock was inside him
+>He bit his lip as his ass pulled away from just Anon's tip before descending again with a loud clap
+>Each bounce earned him a firm tug on his prostate and a groan from his soon mister
+
+>Shit
+>Shit!
+>He feels way too tight and hotter than these two idiots
+>Now that offer from earlier was starting to get tempting
+>"Boss! Remember the light! Turn away!"
+>Goddammit Rib shut up for once! You're tired and horny and you want all of this to end right now!
+>You grab the sheriffs ass and pulled up to meet his big cheeks
+>He practically sings as he wasn't expecting you to fight back
+>"No! Rob what do I do? He's starting to fall for the sheriff!"
+>Said mouse currently on the floor recovering from getting choked by the excess cum
+>"R-Remind him the good times we *urf* had!"
+>"Hey boss! Remember the snake oil incident?"
+>Such a reminder just made you angrier, specifically at Rob, and started thrusting up harder
+>"Not that one! Another memory!"
+>"R-Remember that time you and me with the dress-"
+>Actually you did and you are tired of whatever these two were doing right now
+>You grab Rib by the back of his head and mash your lips against his to shut him up
+>The mouse's hand went on to jerk himself off as he made out with you
+
+>Once again, Rob felt he was excluded in another sex session out of spite
+
+>"Ah~ Y-Ya gettin' close handsome? Don't think I'm gonna be a dead fish compared to these two!"
+>Rupert's ass continued to jackhammer on your waist while his erect penis was starting to shake
+>His mind was starting to get mushy on what else this stud's gonna do when he brings him home
+>Anon's cock continue to rib through his cavern and bring out more sensations he couldn't possibly know
+>He could practically feel him starting to twitch again
+>His ass planted himself on his crotch and started gyrating
+>Anon chocked on Rib's mouth and pulled away as he shook with another orgasm
+
+>You shot your first load deep within Rupert's ass, your tip rearranging his guts and spreading its seed all over
+>Even you felt his orgasm as well as he straightened up while he came hands free
+>Rib finally was able to get his release as he shot his load on to the floor as well, panting from the lack of air
+>Rupert hiccuped from the excess cum on his stomach as fell backwards and landed on your chest
+>His hand reached for your chin and tickled it with a smile on his face
+>"'See? I told you I could handle ya?"
+>Rib sidled up towards your face and nuzzled next to you
+>While Rob just hobbled next to you and took his brother's opposite side
+>All of you lied down there for a few minutes just savoring each other's company
+>You cut off the silence with a question
+"All of you had fun?"
+>All three of them nodded with smiles on their faces
+"Good."
+>You grab Rib's ear and Rupert's hair with your left, and Rob's ear with your right
+>All of them had a sudden emotion of fear in their face
+>"Uh oh."
+
+>The townsfolk could only watch with curiosity as they heard slapping sounds outside of the sheriff's office
+>All of them thought it was  some dastardly criminal getting punished for their crimes
+
+>You give another hard slap on Rib's ass with a paddle
+>"Gah!"
+>The three horny mice were strung up like skinned pigs with their asses exposed in front of you
+>"A-Ah thought we had something special Anon?! Don't you want to get away from these two hooligans?"
+>Wood hits Rupert's bottom instantly
+>"Ngah!
+"Tell them Rib."
+>"He- He's our boss! He was the one who planned our robberies, thefts, cons *WACK* everything!"
+>Even though the red sore on his ass was growing, his cock continued to leak out precum
+>Bastards were starting to enjoy this
+>"H-How!? I thought an upstanding human like you- *WACK* Neugh!"
+>That one made him spurt out a few strings
+"Next time, don't assume some 'weak' human to be following orders from these two idiots."
+>"Guh... Can you at least hit me harder boss~?"
+>Rob had a thick puddle of semen building up below him
+"No. You enjoy this too much"

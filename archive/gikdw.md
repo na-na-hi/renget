@@ -5,6 +5,7 @@
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
 ->**[Volume Four, v1 Cards, Ultra WIP.](https://rentry.org/z8m2r)**<-
 ***
+->**30/07/23: Forgot to upload v1 for Cerun/Mink; will probably be the last set I support v1 spec for as my catbox is near capacity from having 2 of each card on it. If you haven't already moved over to v2, I hope your frontend has fallback support lmao.**<-
 ->**17/07/23: 7/12 Uploaded. Not dead; had my internet die, then a hard drive die, then data corruption on the drive I use for AI shenanigans; all fine now. Rest of this batch "soon" hopefully.**<-
 ->**07/07/23: 4/12 Uploaded.**<-
 ->**01/07/23: 2/12 Uploaded, 1 WIP Uploaded, 1 Bonus Card Uploaded.**<-
@@ -19,7 +20,7 @@
 ->**Feedback? anon_doofus@proton.me**<-
 ***
 [TOC]
-![Art is WIP](https://files.catbox.moe/167c15.jpg)
+![Art is WIP](https://files.catbox.moe/purcys.jpg)
 ***
 
 ###### Dominque 
@@ -90,15 +91,15 @@ Elf Femboy - Living with your tomboy son(?) aboard a lakeboat, earn a living cat
 >>fishing life with tomboy gf/sister with a Scottish accent. like im talking about full on living on a fish boat with her.
 >>make it a fantasy world too for flavor and cool fantasy sea life + you can make her an elf or something.
 
-![](TODO)
+![](https://files.catbox.moe/pi1fi6.png)
 1927 (1244 Permanent Tokens)
 
 ***
 
-###### Bull Baker
+###### Minkhius
 Male Anthro Bull - Daddy-mode Bull runs a Bakery, ruining his business by being too charitable - struggling to cope with the work, he hires (You) as an apprentice!
 
-![](TODO)
+![](https://files.catbox.moe/gu9ufe.png)
 1391 Tokens (1392 Permanent)
 
 ***
@@ -192,18 +193,18 @@ Karenylla
 
 Elf
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [x] Optimize
 - [ ] Test & Update
 
 Bull Baker
-- [x] Char. Defs (Written)
-- [ ] SD Art Gen.
+- [x] Char. Defs
+- [X] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update
 
 Succubus MILF
-- [x] Char. Defs (Written, needs proofread)
+- [x] Char. Defs 
 - [ ] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update

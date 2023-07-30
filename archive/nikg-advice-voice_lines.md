@@ -2,6 +2,20 @@
 
 [TOC] 
 
+##Ade
+>Blabla Status
+The Cafe is cooking up some new recipes, including creme brulee, pink soda, and many more delectable treats! Stop by this weekend to try them out! :)
+
+>Gift Received
+1. 
+2. 
+3. 
+
+>Affection Lvl Up
+1. 
+2. 
+3. 
+
 ## Admi
 >Blabla Status
 Alone
@@ -21,8 +35,22 @@ Alone
 Good bunny, my bunny.
 
 >Gift Received
+1. Huh? A gift? For me?
+2. I'll give you a present next time in return. I promise.
+3. Thanks a lot!
+
+>Affection Lvl Up
+3. 
+1. 
+2. 
+
+## Alice (Sweet Home)
+>Blabla Status
+Good bunny, my bunny.
+
+>Gift Received
 1. A gift from Rabbity... i'll cherish it forever!
-2. Is this a souveneir from the ark? Thank you!
+2. Is this a souvenir from the ark? Thank you!
 3. I wanna give you a gift too! What do you want?
 
 >Affection Lvl Up
@@ -114,6 +142,21 @@ Doggos are all good boys   U^ᴥ^U
 1. It's like my feelings for you... have become thiiiiiiiis big!
 2. Dogs are great, but you're pretty cool too, Trainer.
 3. I hope you'll join my on my walks soon. *giggle*
+
+##Blanc
+
+>Blabla Status
+(oω>)7~♡
+
+>Gift Received
+1. Today is my lucky day!
+2. Did you REALLY give one of these to Noir as well?
+3. Wow! I'm sooo happy! ... but how am I supposed to share half of this with Noir?
+
+>Affection Lvl Up
+1. If i'm fond of you then i'm sure Noir would be too. Whatddya say the three of us go on a date together someday?
+2. Because it's YOU I wouldn't mind if you hog all my luck.
+3. I'm ALL yours, Pit Boss. Body and mind.
 
 ##Brid
 >Blabla Status
@@ -256,7 +299,7 @@ Busy. Do not disturb. Even if you have an emergency.
 3. Is it possible for a villian to feel love?
 
 
-##Emma (Default)
+##Emma
 >Blabla Status
 Come on, Absolute!! 
 
@@ -340,18 +383,20 @@ Looking for partners to finish quest together.
 2. I hate offline meetups, but if it's you, noob, I suppose I can make an exception.
 3. The top ranked players has ice in her veins, but is far from icy with you.
 
-##Folkwang
+## Folkwang
 >Blabla Status
+Hot! So hot! Too hot to bear! 
 
 >Gift Received
-1.
-2.
-3.
+1. Since... you've given me a gift... how about a hug?
+2. Oh great. I sweat even when i'm overjoyed.
+3. Ugh! Uhh! Let me wipe the sweat off my hands first! Thanks.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. *gasp* Can you hug me tighter?
+2. *sigh* I wish I could hold you all the time! Not... just when I need to cool down.
+3. I like you so much! Really! Not even supplements can match you! I... think?
+
 
 ##Frima
 >Blabla Status
@@ -534,6 +579,20 @@ Alexandra Raid is now recruiting.
 2. I always want to be by your side. I mean that.
 3. I love you. Sorry, was that too sudden? Nevertheless, I still love you.
 
+##Mana
+>Blabla Status
+Please state your business and we'll handle immediately. 
+
+>Gift Received
+1. 
+2.
+3.
+
+>Affection Lvl Up
+1.
+2.
+3.
+
 ##Mary
 >Blabla Status
 Please get yourself vaccinated! ^^
@@ -547,6 +606,33 @@ Please get yourself vaccinated! ^^
 1. Would you like your treatment to be more... personalized?
 2. Can you lay down on the bed? I have a shot I prepared especially. For. You.
 3. I feel that we're getting closer and closer. I'm so happy!
+
+## Mary (Bay Goddess)
+>Blabla Status
+Who wants a physical exam by the seaside?
+>Gift Received
+1. Ah, thank you. This might come in handy during your next physical... *giggle*
+2. I'll take good care of this.
+3. You're so kind, Commander.
+
+>Affection Lvl Up
+1. I'm a bit concerned *giggle* because I can't stop thinking about you.
+2. It seems kind of hot in here. Maybe that's just because it's summer?
+3. In theory I should treat every patient the exact same, but I do show you some special treatment from time to time.
+
+##Mast
+>Blabla Status
+I will become the Pirate Lord!
+
+>Gift Received
+1. This isn't rum by chance, is it?
+2. Next time I unearth a treasure chest i'll give you a share of the booty.
+3. Thanks! This is the first time anyone has ever given me a gift.
+
+>Affection Lvl Up
+1. I feel good when I see you, Captain. Like i've had one too many swigs of rum.
+2. Say... umm, would you ever considering going out with a pirate?
+3. You're alright in my book. I'll even share my rations with you.
 
 ##Maxwell
 >Blabla Status
@@ -633,19 +719,34 @@ I love you so much!
 2. I like you, Commander. I really do.
 3. Whenever i'm around you I feel warm inside.
 
-##Neon
+
+##Neon (Blue Ocean)
 >Blabla Status
-I'm a girl who loves firepower with all her heart.
+Haha! Now I'm paractically a Waterpower powerhouse! 
 
 >Gift Received
-1. There's nothing I won't do for greater firepower!
-2. Thanks, Master!
-3. Wow! For me?
+1. Is this a special gift because i'm part of The Counters? I'll take it!
+2. Thanks, Master! You're, like, totally the coolest!
+3. Wow! Is this for me?
 
 >Affection Lvl Up
-1. I would give up my finest ammo for you.
-2. You've taught me well, Master! I'll repay you by putting my firepower to good use.
-3. I'm starting to feel the sparks between us.
+1. I'm so happy to be here with you, Master.
+2. Lets you and I walk forward, hand in hand! Towards that great beyond! 
+3. It doesn't matter if you're dry or soaking wet. I'll admire you all the same.
+
+##Nero
+>Blabla Status
+no blabla
+
+>Gift Received
+1. In return i'll sing you a lil' song.
+2. Is this cat nip!? Or a snack of some kind!?
+3. Thank you. What do you like?
+
+>Affection Lvl Up
+1. I... think i'm growing fond of you.
+2. Can I nudge up against you while you're sleeping?
+3. Can I groooom you?
 
 ##Neve
 >Blabla Status
@@ -663,18 +764,18 @@ Bearbearbearbearbearbearbear...
 3. Could I maybe... sleep beside you?
 
 
-##Nihilister
+## Nihilister
 >Blabla Status
 
 >Gift Received
-1.
-2.
-3.
+1. You really do know what I like.
+2. Trynna ply me with gifts, are you? Well, DO keep trying.
+3. The best present would be having (You) on a silver platter... but I should probably stop now.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. Hmm... you're kind of fun...
+2. I'd LOVE to swallow you up just once! ...I guess now's not the time.
+3. Humans are usually such monotonous creatures yet you're not the same.
 
 ##Noah 
 >Blabla Status
@@ -689,6 +790,20 @@ I once said, please raise your hand if you are weaker than me. Then everyone in 
 1.
 2.
 3.
+
+##Noir
+>Blabla Status
+(>///o)7~♡
+
+>Gift Received
+1. Can you give Blanc something as well? I- don't want to be the only one receving a gift.
+2. You prepared this just for me? I don't know what to say.
+3. Wow! Thank you! Can I... share it with Blanc?
+
+>Affection Lvl Up
+1. I feel like i'm taking a liking to you, Pit Boss. I suppose Blanc must feel the same.
+2. Blanc is precious to me, but so are you! ... Do you feel the same way?
+3. I can't look at you too long before I have to avert my eyes. W-hy is that so?
 
 ##Noise
 >Blabla Status
@@ -731,6 +846,21 @@ Working with a senior whom I look up to >.<
 1. I wanna spend more time with you. May I... get closer to you?
 2. The commander is... someone I can see myself falling in love with.
 3. It's a great pleasure knowing you, Commander.
+
+##Pepper (Ocean Vitamin)
+>Blabla Status
+Nothing beats some nutritious vitamins on a hot summer's day!
+
+>Gift Received
+1.I'll repay you. I promise.
+2. I'm always so touched by your gifts, Commander.
+3. Oh my goodness! This is amazing!
+
+>Affection Lvl Up
+1. From now on, I wanna be the vitamin that energizes and protects you. ...ehhh can I?
+2. Next time, I... wanna go to the sea with you alone. ...if that's okay with you? *giggle*
+3. I... don't know if it's the summer weather or you, but i'm feeling a bit emotional. 
+
 
 ##Poli
 >Blabla Status
@@ -815,7 +945,35 @@ God, please don't give me any more trials.
  2. You're not going away, are you, Teacher? (voice trying not to cry during this line)
  3. You're the best, Teacher.
 
-##Rupee (Default)
+## Rosanna
+>Blabla Status
+Be kind. Starts tomorrow. 
+
+>Gift Received
+1. It's always wise to accept a gift from someone so good looking.
+2. I presume in exchange for this you want personal protection? Very well.
+3. You're not leading me on are you?
+
+>Affection Lvl Up
+1. Do you have your sights on becoming more... intimately connected with my business? 
+2. From now on, any enemy of yours is an enemy of Hedonia. 
+3. You're coming awfully close. Well, what's your next move?
+
+##Rouge
+>Blabla Status
+I never check my phone from 2:00 PM to 2:30 PM, and 8:45 PM to 9:00 PM.
+
+>Gift Received
+1. 
+2. 
+3. 
+
+>Affection Lvl Up
+1. 
+2. 
+3. 
+
+##Rupee
 >Blabla Status
 Running my own show at Tetra TV ☆
 
@@ -828,6 +986,21 @@ Running my own show at Tetra TV ☆
 1. Oh, Sweetie, I love you more than before. At least thiiiiiiis much more than before.
 2. Now is the moment of truth. If I had to choose between you or shopping... it'd be extremely painful to give up shopping, but i'd still choose you.
 3. Hey, Sweetie, you know how much I care about you, right?
+
+##Rupee (Bunny)
+>Blabla Status
+Come to Coin Rush and keep your eyes peeled for the limited-edition Bunny Rupee!
+
+>Gift Received:
+1. Awww! Thank you, Sweetie! 
+2. Is this the latest model? This is wonderful!
+3. Oh my gosh! I've got to show this off to the Shopaholics later!
+
+
+>Affection Lvl Up:
+1. Did I ever tell you how much I love you>?
+2. I, Bunny Rupee, have finally found my companion.
+3. At this rate i'm gonna fall head-over-heels for you, Honeybuns. 
 
 ##Rupee (Christmas)
 >Blabla Status
@@ -844,16 +1017,17 @@ Running my own show at Tetra TV ☆
 
 ##Sakura
 >Blabla Status
+My master, my hero.
 
 >Gift Received
-1.
-2.
-3.
+1. You truly are a kind person.
+2. You're not doing this just to get into my good books are you?
+3. W-why would you give this to me? Ugh, on second thought, i'll accept it glady.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. You always catch me off guard like this.
+2. Since our bond has deepend... perhaps the flavor of our tea will follow likewise.
+3. Hope that... i'm the only recipent of your love.
 
 ##Scarlet
 >Blabla Status
@@ -885,16 +1059,17 @@ Do not foreget the show at 9 p.m. every Friday.
 
 ##Sin
 >Blabla Status
+Send me some real gut-busters, and i'll give you 10 points!
 
 >Gift Received
-1.
-2.
-3.
+1. You don't have to give me this.
+2. A token of your appreciation? Oh, i'm so touched! 30 points for you!
+3. Thanks... i'm grateful and all, but material things aren't everything.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. I've NEVER met anyone like you before, Instructor.
+2. You've been taking GREAT care of me lately, Instructor. It's incredibly laudable. So, here's 30 points for you.
+3. Now we're talking.
 
 ##Snow White
 >Blabla Status
@@ -968,16 +1143,19 @@ IWTKTA
 
 ##Viper
 >Blabla Status
+What are you guys doing? If you feel bored, please come and play with me :)
+>Bunny Blabla Status
+Fluffy Viper is here! Now where oh where is Mr. Tortoise?
 
 >Gift Received
-1.
-2.
-3.
+1. These are for me? That's so sweet.
+2. Gifts always delight.
+3. That's nice of you, Honey.
 
 >Affection Lvl Up
-1.
-2.
-3.
+1. I planned to make you fall head over heels for me, but it appears the opposite has happened.
+2. Don't let your guard down, Honey. Nourishing a viper in your bosom is NOT a wise choice.
+3. Do you mind going further with me?
 
 ##Volume
 >Blabla Status
