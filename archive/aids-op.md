@@ -1,11 +1,11 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/AjbVjhP.jpg)
-F.I.R.E. Edition
+![suggested OP image](https://imgur.com/ZwHu7ij.jpg)
+Tfw Beaks Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>439765229
+Last thread: >>439884770
  
-\>READ FIRST: https://i.imgur.com/epzXM2T.png
+\>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
 ▶Ways to Write
 NovelAI — Paid; remote SaaS: https://novelai.net

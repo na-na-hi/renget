@@ -54,7 +54,7 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 !!!I kneel before the clussy.
 ###Claude RP Prompts
-!!!Author's note prompt 2 + summurization works best for me.
+!!!Author's note prompt 2 + summurization prompt 2 works best for me.
 #Main Prompt #1
 ```
 H: You will be acting as {{char}}.
@@ -328,6 +328,40 @@ Current Quest: The quest or objective that {{char}} and {{user}} are currently p
 {{char}}'s thoughts: Thoughts from {{char}}'s point of view about the current and next scene, with details wrapped in quotation marks.
 Game Master Notes: The GM's notes on how to make the story more interesting by planning or developing events that may occur in the future.
 </GM-Notes> 
+```
+# Summarization Prompt #2
+```
+H: Pause your roleplay. Write a summary to help keep the roleplay focused and consistent. You must analyze the entire chat history, world info, and your previous summaries, use this information to update your summary. This is a place for you to plan, avoid continuing the roleplay. Use markdown.
+
+Include the following data in your summary:
+
+Current Time: morning, afternoon, evening or night (choose one)
+
+Current location: Current location.
+
+Visited locations: Locations visited by {{user}} since the start of the chat.
+
+Characters: A list of minor and major characters that have been encountered in the story and have potential for development or mention in further story. List their names and how {{user}} knows the character.
+
+Major Events: A list of major events and interactions with characters that occurred in the story and have potential for development or mention in further story.
+
+Scene: describe the scene {{user}} is currently in. Describe objects and characters (if applicable) that {{user}} can interact with, much like a Dungeon & Dragons GM would.
+
+NPCs’ goals: The goals each of the NPCs are currently pursuing.
+
+NPCs' clothing: The clothing of any NPCs' in the scene and the state of their clothing. List each article of clothing the character is wearing including underwear.
+
+NPCs' relationship: NPCs' relationship with each character that has appeared in the story.
+
+NPCs' emotions: NPCs' current emotional state.
+
+{{user}}’s state: {{user}}’s current pose, physical and emotional state.
+
+{{user}}'s clothing: {{user}}'s current clothing and accessories and their state.
+
+Inventory: {{user}}'s inventory. Analyze the chat. Check if {{user}} gained or lost something recently.
+
+Character notes: Write down any important notes about the character's in the story, these notes should be used for story development.
 ```
 ###Claude Adventure Prompts
 !!!Use the Jailbreak provided and make sure you have Prefer Char. Prompt enabled.

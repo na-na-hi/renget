@@ -41,8 +41,7 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
-https://rentry.org/cucs2
+MHA is storing up energy!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -741,7 +740,14 @@ https://pastebin.com/58dq47ZA
 https://rentry.org/MutantPilgrimage
 >The Midwife (Updated!) (Georgia)
 https://rentry.org/nn577
-
+>Mike's Long, Hard, Ride (featuring Mike the Driver, and Tinker West-Gacy).
+https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/edit?usp=sharing
++Alt Link: https://controlc.com/f38cb3a5
+```
+****
+Page 4
+****
+```
 Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
@@ -759,12 +765,12 @@ https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 Page 1
 ***
 ```
+JRPG Rentry: https://rentry.org/JRPG_MP (Edit Code: JRPGCompile)
+
 >Rules
-15 Basic/15 Advanced, follow the colors.
+You get 15 Basic and 15 Advanced tokens as well as any powers given by your Fighting Style.
+Ignore tokens gained anywhere else.
 You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (any type/color).
->JRPG Compile
-https://rentry.org/JRPG_MP
-Edit Code: JRPGCompile
 
 >Ella Adikia (Half-Elf Warrior)
 >>89641508

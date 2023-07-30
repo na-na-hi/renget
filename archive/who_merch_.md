@@ -17,10 +17,14 @@ Splash Party Online Concert (26 & 27th August, 2000 JST)
 **Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
 https://www.zan-live.com/en/live/detail/10292
 **Merch**
-Acrylic Stands 
+Acrylic Stands (Yukata) 
 https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 Keychains and assorted goods
-https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1- - -
+https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
+Acrylic diorama 
+https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
+Acrylic Stand (Swimsuit)
+https://shop.hololivepro.com/en/products/hololivesummer2023_acrylicstand_ssp?variant=44007949533404
 
 \* * *
 - - -

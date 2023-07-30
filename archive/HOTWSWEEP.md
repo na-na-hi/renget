@@ -115,6 +115,10 @@ Hunting Trogs in a World Where the Ground is Lava (Lockley Aimes): https://rentr
 Mike Gets an Apprentice (Mike the Driver, Tinker Gacy): https://docs.google.com/document/d/1uCPP2IBORXvv49xIonAdhiF32nMaiZkhFfDRdqMftBQ/edit?usp=sharing
 The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus): https://pastebin.com/58dq47ZA
 Mutant Pilgrimage Part 1 (Ramses, Karnak, Dr. Acheron, Sasha): https://rentry.org/MutantPilgrimage
+Mike's Long, Hard, Ride (featuring Mike the Driver, and Tinker West-Gacy).
+https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/edit?usp=sharing
+
+
 ### Mission Logs
 Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions
 

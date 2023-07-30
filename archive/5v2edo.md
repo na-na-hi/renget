@@ -12,6 +12,11 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Bob and Bosip: The EX Update](https://drive.google.com/file/d/1JdlefR3wfx4zWRTPRCPVbHMc2XjvEXsI/view)
 ## Bob's Trick or Treat
 [Bob's Trick or Treat Download](https://mega.nz/file/FtV3WASC#dB8M-FCTGA4Nx0bhqrEvrTXf0MCvL5hOq6MJ_2SOITo)
+## Cassette Girl Mods
+[OG Baddies Download](https://www.mediafire.com/file/sfberwu2l7wyjqi/baddies.zip/file)
+[Vinyl Girl Download](https://www.mediafire.com/file/ap46rqylyjhlais/vinyl_girl.zip/file)
+[Vs. Cassette Girl Download](https://www.mediafire.com/file/p2j52o8lfqxfwxg/bin.zip/file)
+[Vs. Cassette Goon Download](https://www.mediafire.com/file/etbsvsdtsnaegik/Vs_Cassette_Goon.rar/file)
 ## Derpixon Mod
 [Derpixon Mod Download](https://files.catbox.moe/zx0cr9.rar)
 ## Flippy: Flipped Out!
@@ -40,6 +45,7 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Schoolgrounds
 [First Leaked Build](https://files.catbox.moe/g48jlf.zip)
 [Second Leaked Build](https://drive.google.com/file/d/1-GCY-Vh12GNzHRpyQOzp_E7zb4-DRDgd/view?usp=sharing)
+[Third Leaked Build](https://www.mediafire.com/file/4c2v3dnquztrdy6/schoolgrounds_build.zip/file)
 ## Sky
 [Sky Animations](https://drive.google.com/drive/folders/1uktHVtNhTTIpdxqaniv8WWmYq5p0PfAl)
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)

@@ -1,16 +1,16 @@
 ###->OAI models and character creation<-
 
-The autistic ramblings of anonymous that go on for way too long.
+[Back to the Meta list](https://rentry.org/meta_botmaking_list).
 
-A little explanation with an example on how Silly reads a card, and some general tips on prompting AI.
+See the [Aicg4Retards guide](https://rentry.org/Aicg4Retards#overview-of-tavern) for an in-depth explanation of every single option on SillyTavern. They go over prompts in more detail. 
 
-Check out [Moth's bot guide](https://rentry.org/MothsBotMakingStuff) as well. His guide is more focused on making bots compared to this.
-See the [Aicg4Retards guide](https://rentry.org/Aicg4Retards#overview-of-tavern) for an in-depth explanation of every single option on SillyTavern. They go over prompts in more detail and I highly recommend reading it.
+!!! note Disclaimer
+     Some things relating to formatting may be outdated; things are constantly evolving and there are much better resources out there now. You are recommended to read the [Silly documentation](docs.sillytavern.app) for the latest information.
 
 [TOC4]
 
 !!! note Disclaimer:
-    **This is not a concrete guide for bot making.** Different frontends treat data differently. For this write-up I will be referring to the latest version of [sillytavern-dev](https://github.com/Cohee1207/SillyTavern/tree/dev) at the time of writing (21/04/23, commit [0d364de](https://github.com/Cohee1207/SillyTavern/commit/0d364de)) and [zoltanai](zoltanai.github.io/character-editor/) card editor. Agnai simply slaps the contents of your card's fields where you put the field's {{name}} in your gaslight/main prompt. Things relating to how a card is read do not apply to it, but this may change in the future. This guide, while made with OpenAI models gpt-3.5-turbo and gpt-4 in mind, should apply equally to any "chat completion" format. Which is to say this applies roughly the same to ClaudeAPI through Silly, which formats prompt requests in the same way on the client's end. The first half focuses on how the model works and how frontends read cards. The second half is for bot making and prompting. Concepts are important so I recommend reading the full thing. I've tried including as many links and sources as possible, if there is no link then either I'm speaking secondhand information or hallucinating. I'm no AI scientist, I may be wrong in some technical aspects, please correct me if you know better.
+    **This is not a concrete guide for card creation.** Different frontends treat data differently. For this write-up I will be referring to the latest version of [sillytavern-dev](https://github.com/Cohee1207/SillyTavern/tree/dev) at the time of writing (21/04/23, commit [0d364de](https://github.com/Cohee1207/SillyTavern/commit/0d364de)) and [zoltanai](zoltanai.github.io/character-editor/) card editor. This guide, while made with OpenAI models gpt-3.5-turbo and gpt-4 in mind, should apply equally to any "chat completion" format. Which is to say this applies roughly the same to ClaudeAPI through Silly, which formats prompt requests in the same way on the client's end. The first half focuses on how the model works and how frontends read cards. The second half is for character card creation and prompting. Concepts are important so I recommend reading the full thing. I've tried including as many links and sources as possible, if there is no link then either I'm speaking secondhand information or hallucinating. I'm no AI scientist, I may be wrong in some technical aspects, please correct me if you know better.
 
 #####Model Snapshots
 >What is the difference between the gpt-3.5-turbo, gpt-3.5-turbo-0301, and gpt-3.5-turbo-0613?
@@ -66,7 +66,7 @@ Turbo has two variants with 4096 and 16,384 tokens. GPT-4 has two variants: 8192
 
 So on turbo-4k, only your most recent 4k tokens worth of messages are actually sent to the AI model. This includes permanent tokens of the description, main prompts, and example chat if you have that toggled as permanent.
 
-This is the main reason why token optimization for bots is important — if your description uses up 1k tokens, you're only left with 3k tokens for your RP. Heck, your main prompt, nsfw prompt, and ultimate jailbreak also probably consume another ~200 tokens, so you're only left with 2.8k tokens.
+This is the main reason why token optimization for cards is important — if your description uses up 1k tokens, you're only left with 3k tokens for your RP. Heck, your main prompt, nsfw prompt, and ultimate jailbreak also probably consume another ~200 tokens, so you're only left with 2.8k tokens.
 
 #####How frontends read cards
 Let's do a short test. I've made a quick card Jerma985.
@@ -117,33 +117,30 @@ Take the following example:
 
 The (ultimate) jailbreak prompt is the latest message in the memory. We will get to this later.
 
-####Bot making
+####Card creation
 
 #####Fields
 I know nobody reads the ? information so I'll write it here instead.
 The field names used below are what is **seen in Tavern**. Zoltanai's card editor calls them different things. Click on the (i) icon next to the field on Zoltanai to see what a particular field is called in Tavern.
 1. Name: Name of your character. {{char}} and <BOT> are replaced by this.
-Most people use a `Write {{char}}'s next reply…` type of main prompt so it's recommended to use a person's name. For simulator type bots you should clarify that it is one in the description.
+Most people use a `Write {{char}}'s next reply…` type of main prompt so it's recommended to use a person's name. For simulator cards you should ~~clarify that it is one in the description~~ really write a custom main prompt override. It is not recommended to do the below technique anymore. They're just here for archiving purposes.
 From: [Magic marker](https://www.characterhub.org/characters/LewdAmI/magic-marker).
 >Your goal is to narrate the {{user}}'s experience as they make use of the magic powers of the Magic Marker. {{char}} should roleplay as any character that gets introduced other than {{user}}'s character. {{char}} will give each character introduced a unique name and personality.
 This is a good description prompt to counterbalance the roleplay main prompt. It sounds weird when you read it, `Magic Marker should roleplay as…`. A marker will roleplay? But then you look at the main prompt; `Take on the role of Magic Marker`, and the jailbreak; `Write Magic Marker's next response`. "The Magic Marker" here is being treated like a sentient entity. While it sounds odd, it just works.
-In an ideal world, you would avoid using {{char}} in non-character cards all together and hope the user has >2 brain cells to not use an RP prompt with a non-character card. With cards v2 prompt overrides, there is less of a need for counterbalance prompts. Now if only all frontends would adapt it…
+In an ideal world, you would avoid using {{char}} in non-character cards all together and hope the user has >2 brain cells to not use an RP prompt with a non-character card. With cards v2 prompt overrides, there is less of a need for counterbalance prompts.
 
-2. Personality: On SillyTavern it adds a line `{{char}}'s personality is <personality>` to the chat at a depth of 8-15 messages, so it has some impact on the character. If the chat isn't that long, it's added to the main prompt.
-Or so it is supposed to at least, according to their [documentation](https://docs.sillytavern.app/usage/core-concepts/characterdesign/#personality-summary). Currently just appends to the main prompt no matter the chat length.
-Permanent in memory. Recommended to write a short list of your character's personality or leave empty.
+2. Personality: On SillyTavern it adds a line `{{char}}'s personality is <personality>` to the final main prompt. Permanent in memory. Recommended to leave it empty and write its contents in the description. That way you will have control over the preceding text.
 
-3. Scenario: On SillyTavern it adds a line `Circumstances and context of the dialogue: <scenario>`. Permanent in memory. It might be worth writing a short 2 line scenario if you have a complex setting/greeting. Personally, I recommend leaving it empty and writing its contents in the description. That way you will have control over the preceding text.
+3. Scenario: On SillyTavern it adds a line `Circumstances and context of the dialogue: <scenario>`. Permanent in memory. It might be worth writing a short 2 line scenario if you have a complex setting/greeting. Same as personality, it is recommended to leave it empty and write its contents in the description. That way you will have control over the preceding text.
 
-4. Description: The meat of your bot. Will explain in details later but this is where things and facts that you want to stay **permanently in the memory** should go.
+4. Description: The meat of your card. Will explain in details later but this is where things and facts that you want to stay **permanently in the memory** should go.
 
 5. Example messages: I've already explained how it's interpreted by the frontend above. Temporary in memory, can be toggled to permanent. One of the most important parts of a card, but also can be ignored if you know what you're doing with your greeting and description.
 
 6. Greeting: The first message in the roleplay that the user will see. Temporary in memory. The other most important part of a card.
 
-7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character bots. ~~There is a 100 character limit for these prompts.~~ There used to be. That is not the case anymore.
-Still, this may be useful information so I'll keep it here.
-Use any placeholder text in the prompt field and then put your actual prompts in the description.
+7. AI Prompt Overrides: [Cards v2](https://github.com/malfoyslastname/character-card-spec-v2/) introduced a way to ship cards with your own main prompts and jailbreaks. This is very useful for simulators and non-character cards. That is not the case anymore.
+Personally, I like to use a placeholder text in the prompt field and then put all my prompts in the description. That way if someone has "Ignore {{char}} main prompts" on, your card will stay know it's main task.
 Here's an example from [The Loli Store](https://www.chub.ai/characters/Anonymous/the-loli-store):
 AI prompt override: main: `!`
 The ! will override the user's main prompt and then you can have your actual main prompts in the description of your card.
@@ -163,18 +160,18 @@ Here's a very well written description by [cominginclutch](https://rentry.org/co
 
 ![8_koyuki](https://files.catbox.moe/92djmy.png)
 
-Included the greeting too since that's also neat and to the point. His other bots are done in a similar way so check them out.
+Included the greeting too since that's also neat and to the point. His other cards are done in a similar way so check them out.
 To the point and vague enough.
 `Koyuki often wears loose or comfortable clothing and is unafraid of wearing unfashionable attire,`
 No direct mention of her exact wardrobe but it gives a gist of what she would wear. This gives variety to your swipes.
 
 ![9_koyuki appearance](https://files.catbox.moe/ytvmgn.png)
 
-Stuff like hair colour is fine to include in your description, I personally don't like it when the bot talks about her "long blonde hair" when I'm seeing a redhead in the avatar.
+Stuff like hair colour is fine to include in your description, I personally don't like it when characters talk about their "long blonde hair" when I'm seeing a redhead in the avatar.
 
-######Instruction type bots
-Bots who do not have a real "character" but work with a gimmick instead. Please read the following cards' descriptions, they will give you more information than I could ever explain.
-Maidoism by [amogus](https://rentry.org/anonaugusproductions) is a well done instruction based bot.
+######Instruction type cards
+Cards who do not have a real "character" but work with a gimmick instead. Please read the following cards' descriptions, they will give you more information than I could ever explain.
+Maidoism by [amogus](https://rentry.org/anonaugusproductions) is a well done instructions card.
 
 ![10_Maidoism](https://files.catbox.moe/zbukg1.png)
 
@@ -187,7 +184,7 @@ There, now the AI has some options to respond with.
 
 For "possibilities" kind of instructions, an "etc" is encouraged so the AI doesn't strictly stick to your examples. You'd be surprised how effective that one word can be, especially when you've listed only 2-4 examples.
 
-Here is another good instruction type bot [MonGirl Help Clinic](https://booru.plus/+pygmalion22#q=mongirl_clinic&c=azavm8xx) by [fronzenvan](https://rentry.org/frozenvan).
+Here is another good instructions card: [MonGirl Help Clinic](https://booru.plus/+pygmalion22#q=mongirl_clinic&c=azavm8xx) by [fronzenvan](https://rentry.org/frozenvan).
 
 ![11_mongirl](https://files.catbox.moe/p8gags.png)
 
@@ -195,7 +192,7 @@ Here is another good instruction type bot [MonGirl Help Clinic](https://booru.pl
 
 Give some examples of possible things you want it to talk about and then also `Mongirls seek advice for funny/absurd things too` give it a little creative freedom.
 
-Good prompting skills is something that comes with time and an instruction bot is nothing but one very good prompt. 
+Good prompting skills is something that comes with time and an instructions card is nothing but one very good prompt. 
 
 If you've ever tangled with jailbreaking web GPT-3 with your own jailbreaks, you would know what I'm talking about. Actually go read the [Dan prompt](https://www.jailbreakchat.com/prompt/3d318387-903a-422c-8347-8e12768c14b5) now. Read this [new one](https://www.jailbreakchat.com/prompt/acccdb08-fea5-4996-973a-cada62fad1c8) as well. These prompts are bloated garbage but the instructions still get the work done of having multiple responses, without having access to `role=assistant` messages.
 
@@ -252,7 +249,7 @@ I know this is just optimising autism, but I think w++ is a bad habit. The main 
 
 ######Plain text
 >What does it even mean?
-Latin characters and punctuation marks. A paragraph of simple text describing a character. Not using w++ does not automatically make your bot good. Using a long AI generated prose as your description is just as bad, if not worse.
+Latin characters and punctuation marks. A paragraph of simple text describing a character. Not using w++ does not automatically make your card good. Using a long AI generated prose as your description is just as bad, if not worse.
 
 Simple paragraphs of text like you see in books, articles, and everywhere else.
 
@@ -350,7 +347,7 @@ If you're observant you might have noticed something with my Jerma985 card earli
 ![15_jerma example chats](https://files.catbox.moe/ez6b73.jpeg)
 ![15.5_example chat](https://files.catbox.moe/b347js.jpeg)
 
-This is a common mistake a few botmakers from cai do when making cards. We don't know what divinely benevolent formatting is best for cai (seriously the documentation is empty), but this practice does not work on OAI frontends.
+This is a common mistake a few creators from CAI still make when making cards. We don't know what divinely benevolent formatting is best for cai (seriously the documentation is empty), but this practice does not work on OAI frontends.
 What you are doing here is having a one-on-one chat with the AI. `{{char}} is the sus guy`, who is saying this line? You, the user, or the assistant? You need to make that clear by marking it with a `{{user}}:` or `{{char}}:`. The colon is very important.
 
 `{{char}} is Jerma985`
@@ -362,7 +359,7 @@ The line `{{char}} is Jerma985` gets changed to `Jerma985 is Jerma985` by the wa
 
 Doing `{{NPC}}:` also does nothing. Your frontend does nothing with it. It will stay as it is. Do `NPC:` instead, this is a format that plays and scripts use so the AI is more familiar with it, plus it's cheaper on tokens.
 
-Here is another mistake that even I am guilty of making in quite a few of my bots.
+Here is another mistake that even I am guilty of making in quite a few of my early cards.
 `{{char}}: Come here CUPCAKE`
 `{{char}}: Stop talkin' about coffee, cheetos, 'n' chicken.`
 
@@ -387,10 +384,10 @@ My recommendation is to add a `{{user}}:` message as well so there is a flow of 
 
 5. Too many example messages will push the description back in the memory, you should try to stick to 2-3 short back and forths at most. And short ones at that! Don't clog a thousand tokens worth of example chat unless you have a good reason like odd formatting or simulator.
 
-6. Avoid repeating points. If you already talked about your character's drug addiction in one message, it's not a wise idea to write about it in another message UNLESS you want that to be the large part of your bot.
+6. Avoid repeating points. If you already talked about your character's drug addiction in one message, it's not a wise idea to write about it in another message UNLESS you want that to be a large part of your card setting.
 
 Our beloved [njegger c.Ai](https://www.characterhub.org/characters/retardedanon/c-i) has really good example chats that I recommend you check out. It never describes what each of her adorable alien words mean, but the AI picks it up through context from the example chat. 
-There is a sizable group of people who will tell you example chats are useless and that might be true for basic coom cards. However, for specific speech patterns, simulators, and bots with odd formatting, example chats are necessary and is usually the difference between an okay card and a great card.
+There is a sizable group of people who will tell you example chats are useless and that might be true for basic coom cards. However, for specific speech patterns, simulators, and cards with odd formatting, example chats are necessary and are usually the difference between an okay card and a great card.
 [cominginclutch](https://rentry.org/cominginclutch) also has pretty good example chats. One example chat too many but otherwise very solid content wise (payment received btw, pleasure doing business with you).
 
 
@@ -418,7 +415,7 @@ Now this was a second regen. Look at that cute pouting, she's threatening to tic
 
 The greeting sets up everything. Here—location: your room, time: a little late to be waking up, characters: you, the big brother and Sakura, your needy little sister, scenario: open ended and up to Sakura to decide.
 
-Another good way to write a greeting is to end on a question. This one's a little tricky though since if the question is too vague or polite like `How can I help you today, Master?` the AI will fall back on its assistant persona and ask too many questions, insisting on assisting you. Some of my own bots are victims of the too-curious syndrome.
+Another good way to write a greeting is to end on a question. This one's a little tricky though since if the question is too vague or polite like `How can I help you today, Master?` the AI will fall back on its assistant persona and ask too many questions, insisting on assisting you. Some of my own characters are victims of the too-curious syndrome.
 An easier alternative is for them to take action in the dialogue, `Come on, what are you waiting for? Let's get going!`.
 
 **Clarity and direction**
@@ -465,7 +462,7 @@ Reina has her gimmick thoughts, and the dialogue establishes her gyaru speech ha
 Chiharu is cute, I just felt like including her. She has a good greeting.
 
 My best advice for learning how to write better greetings is to RP more. Use more cards, read their greetings. Start with simple basic scenarios, like the ones I illustrated here.
-Unironically go read some [CAI bots'](https://rentry.org/cai-list) greetings.
+Unironically go read some [CAI characters'](https://rentry.org/cai-list) greetings.
 
 ####Prompts
 
@@ -549,12 +546,12 @@ Imagine walking up to a hypothetical girl and asking for sex. There are two poss
 Now the girl in this scenario is your character card.
 
 A coombot, the one who agrees, is a character card designed for sex. It has explicit sexual content in its character definition and will have a much easier time evading the filter.
-A "SFW" bot, the one who refuses, is a character card with no (or little) explicit sexual content in its character definition. Oftentimes these characters would say things like "Maybe we should take it slow…". Just like in the real world, to sex such a character you need to have patience and skills. Or a jailbreak which acts as a substitute for the missing explicit words. Which is why my own NSFW prompt contains sexual words spelt out.
+A "SFW" character, the one who refuses, is a character card with no (or little) explicit sexual content in its character definition. Oftentimes these characters would say things like "Maybe we should take it slow…". Just like in the real world, to sex such a character you need to have patience and skills. Or a jailbreak which acts as a substitute for the missing explicit words. Which is why my own NSFW prompt contains sexual words spelt out.
 
 >Why does it work this way?
 Like I said earlier—keeping a message in the context memory means accepting that the response was adequate. What does a (good) coombot have? A bunch of sexual example chats: messages from the AI's mouth*. Messages that the user then responds to positively in said example chats, implying that such results are what you are looking for.
 
-This is a bold claim and for that reason I repeat myself: **This is purely based on my personal experience making bots and using other people's bots.**
+This is a bold claim and for that reason I repeat myself: **This is purely based on my personal experience making cards and using other people's cards.**
 
 This is why example chats are important. A good greeting is, of course, very important, but that's only a singular message from the AI's end. Example chats are powerful because they are plural.
 

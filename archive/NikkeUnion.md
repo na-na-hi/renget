@@ -18,7 +18,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | G
 **5** | N1KKAS | ==**1888**== |PERMISSION | BUTZ | 32/32 | N | N
 **4** | 404TH | ==**4033**== |PERMISSION | YUKIKAZE| 32/32 | N | N
 **5** | CUNNYWOW | ==**4496**== |OPEN | FRIEDKUN | 32/32 | N | N
-**5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 31/32 | N | N
+**5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 32/32 | N | N
 **3** |EPITAPH| ==**7975**== |PRIVATE | BURGER | N/A | N  | N
 **5** | NIKG | ==**6459**== |PERMISSION | HELIOS | 32/32 | Y | N 
 **3** |TOGEMURA| ==**10050**== |OPEN | THERAS| 32/32 | N | N

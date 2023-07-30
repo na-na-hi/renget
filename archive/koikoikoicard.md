@@ -30,3 +30,7 @@ https://files.catbox.moe/8wa0zv.png
 ![Victoria](https://files.catbox.moe/sq2lpg.png)
 *Captain Victoria! Sweet and maternal underneath all that composure.*
 https://files.catbox.moe/miuzw6.png
+
+![Roman](https://files.catbox.moe/kq9990.png)
+*Roman, aloof street urchin and your partner-in-crime.*
+https://files.catbox.moe/kq9990.png
