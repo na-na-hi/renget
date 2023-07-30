@@ -133,7 +133,7 @@ The answer is Core Dust
 You may think that getting XP or credits will help you get more powerful faster, but there are several levels that require core dust to get past them (40, 60, 80... you get the drift) and not having the dust ready can stall your progress for days because the outpost generates much less dust compared to credits and XP
 
 If you can clear the hard stages buying the extra entries for gems is absolutely recommended, you get a huge amount of boxes
-![Entries](https://i.imgur.com/ZlUrwcV.png) The item changes every event but the concept it's the same
+![Entries](https://i.imgur.com/ZlUrwcV.png) The item changes every event but the concept is the same
 
 There's a google sheets linked on the OP that you can use to see exactly how much dust you need for each milestone
 Also, past level 200 every level is a core dust wall so you'll never have enough

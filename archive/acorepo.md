@@ -273,8 +273,11 @@ https://civitai.com/models/45401/snow-white
 - Jasmine (Aladdin)
 https://civitai.com/models/48875/jasmine-aladdin-disney-princess-by-yeiyeiart
 https://civitai.com/models/5709?modelVersionId=6648 (TI)
-- Jane Porter (Tarzan)
+- Tarzan
+	- Jane Porter 
 https://civitai.com/models/56273/jane-porter-lora
+	- Queen La
+https://civitai.com/models/117666/queen-la-tarzan
 - Madam Mim (The Sword in the Stone)
 https://civitai.com/models/89034/sexy-madam-mim
 - Helga Sinclair (Atlantis)
@@ -349,6 +352,8 @@ https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 https://civitai.com/models/114812/huntress-dc-comics
 	+ Livewire 
 https://civitai.com/models/92381?modelVersionId=98491
+	- Black Canary
+https://civitai.com/models/118161/black-canary-dc-comics
 - Marvel Comics
 	+ Star/Ripley Ryan
 https://civitai.com/models/14831/star-ryan-ripley
@@ -382,7 +387,7 @@ https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
 https://civitai.com/models/105877/mary-jane-watson-spider-man-the-animated-series
 - Felicia Hardy (Spider-man: TAS)
 https://civitai.com/models/107823/felicia-hardy-spider-man-the-animated-series
-- Spider-man/woman comics
+- Spider-Man/Woman comics
 	+ Black Cat
 https://civitai.com/models/115407/black-cat-spider-man
 	+ Jessica Drew
@@ -432,6 +437,8 @@ https://civitai.com/models/90976/adventure-time-princess-bubblegum
 	- Fionna the Human
 https://civitai.com/models/6111/artraccoonee-fionna-the-human (*hypernetwork*)
 https://civitai.com/models/81074/fionna-the-human-adventure-time
+	- Susan
+https://civitai.com/models/91620/susan-adventure-time
 	- "Princess Pack"
 https://civitai.com/models/8779/adventure-time-princess-pack
 	+ BMO
@@ -439,8 +446,8 @@ https://civitai.com/models/16439?modelVersionId=19403
 - Steven Universe
 	- Lapis Lazuli
 https://civitai.com/models/25729/lapis-lazuli
+https://civitai.com/models/109071/lapis-lazuli-from-steven-univerese-lora
 https://civitai.com/models/24880/lapis-lazuli
-https://civitai.com/models/26397/lapis-lazuli-steven-universe
 	+ Blue Diamond
 https://civitai.com/models/108240/blue-diamond-steven-universe
 	+ Peridot
@@ -586,18 +593,27 @@ https://civitai.com/models/113168/pristine-the-oblongs
 https://civitai.com/models/21663/wuya
 https://civitai.com/models/87335/wuya-xiaolin-showdown
 - Winx Club
-	+ Icy
+	- Bloom
+https://civitai.com/models/111102/bloom-winx-club-s1
+	- Darcy
+https://civitai.com/models/117668/darcy-winx-club-s1
+	- Icy
 https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
+	- Musa
+https://civitai.com/models/113572/musa-winx-club-s1
 	+ Stella
 https://civitai.com/models/111697/stella-winx-club-s1
-	+ Bloom
-https://civitai.com/models/111102/bloom-winx-club-s1
+	- Stormy
+https://civitai.com/models/117850/stormy-winx-club-s1
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Atomic Betty
 https://civitai.com/models/62771/atomic-betty-atomic-betty
-- Marge Simpson (The Simpsons)
+- The Simpsons
+	+ Marge
 https://civitai.com/models/22953/fonglets-marge-simpson
+	+ Homer
+https://civitai.com/models/117699/homer-simpson
 - Futurama
 	+ Amy Wong
 https://civitai.com/models/115489/amy-wong-futurama
@@ -912,7 +928,7 @@ https://civitai.com/models/92471/sera-dai
 	- Desire Demon
 https://civitai.com/models/90217?modelVersionId=96075
 - The Witcher 3
-https://rentry.org/acorepo2#the-witcher
+https://rentry.org/acorepo2#the-witcher-3
 - Rayne (BloodRayne)
 https://civitai.com/models/94577/bloodrayne
 https://civitai.com/models/16844/rayne-bloodrayne
@@ -1021,6 +1037,8 @@ https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms
 https://civitai.com/models/115232/sindel-mortal-kombat-embedding (TI)
 	- Skarlet
 https://civitai.com/models/88846/skarlet-mortal-kombat-mk9mk11
+- Jenny (Bloody Roar)
+https://civitai.com/models/83569/jenny-human-form-bloody-roar
 - Sally Boyle (We Happy Few)
 https://civitai.com/models/84912/sally-boyle-we-happy-few
 - Morgan Yu (Prey)

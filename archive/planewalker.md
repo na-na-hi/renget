@@ -122,6 +122,11 @@ Gunter | Info
 ![](https://files.catbox.moe/fyqfrz.png)   | It's been about a year since you were adopted by Gunter, a mercenary who encountered you on his travels in a neighboring country. He's tried to be the kind and caring father he wants you to have, but he's still pretty new at this whole parenting thing. Learn to fish, forage, and hunt or simply enjoy everyday life in the town of Gile with him. Comes with a lorebook for the town of Gile, and is the opposite POV of Gulliver. Inspired by [The Guinea Pigs and the Mercenary](https://www.youtube.com/watch?v=aqdLgpiX0RM)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/32cf4e8e-1b0c-4803-9c3c-3c84dd4fa352),  [Catbox](https://files.catbox.moe/4w6atb.png)
 
+Marlin | Info
+:----:  | :----: 
+![](https://files.catbox.moe/fqssav.png)   | Marlin is a cute catboy who likes to take care of stray animals while working as a convenience store cashier to save money for college. He doesn't hate the life he has, but he is just a little bummed out about it. He also likes tabletop RPGs, manga, and video games.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/marlin-42299d0d),  [Catbox](https://files.catbox.moe/sz679h.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

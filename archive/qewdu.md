@@ -35,7 +35,7 @@ https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 
 If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
 
-## CH#### Character List
+## CH#### Chibi Character List
 CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender)**
 CH0066 = Shun (Child)
 CH0069 = Mika
@@ -84,6 +84,7 @@ CH0187 = Toki
 CH0188 = Swimsuit Shiroko
 CH0190 = Track Hasumi
 CH0191 = New Years Haruna
+CH0192 = New Years Junko
 CH0194 = Christmas Serina
 CH0195 = Christmas Hanae
 CH0198 = Koyuki **(Does not import correctly on Blender)**
@@ -93,15 +94,16 @@ CH0204 = Swimsuit Ui
 CH0205 = Swimsuit Koharu
 CH0209 = "Swimsuit" Hanako
 CH0210 = Swimsuit Hinata
+CH0211 = Bunny Toki
 CH0215 = Swimsuit Miyako
 CH0217 = Swimsuit Saki
 CH0218 = Swimsuit Miyu
 CH9999 = Miku
 
-Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet.
-
-## NPCS
+## Chibi NPCS
 Kaito_Trinity_HG = Akira
 Police_Valkyrie_SG = Shotgun Cop Mob
 Komakaze_Helmet_SG = Rabu
 EN0002_Mesh = Shiroko (Terror)
+
+Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet. These are the ones I have looked into so far.

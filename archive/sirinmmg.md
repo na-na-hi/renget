@@ -8,6 +8,28 @@ Sirin Gears: https://rentry.co/siringears
 [TOC]
 
 ---
+#####GENERAL INFO
+- Sirin [Miracle☆ Magical Girl] - S-rank MECH Fire + Ignite DPS. Chakram user.
+
+Available in War Treasury shop. 
+
+Card Price (One time purchase):
+- Price in v6.9-7.1: 480 AW + 480 AL
+- Price in v7.2+ : 640 AW + 640 AL
+
+Sirin fragment:
+- Price: 8 AW + 8 AL
+- Weekly limit: 4 + 2 more after you unlock SS-rank
+
+Sirin Event Equipment Supply
+- Guarantees signature chakram in 50 pulls. 
+- Wishing well available for G4 Fire stigma [Good Times] set
+
+G4 Fire stigma [Good Times] set is available in forge:
+- Leeuwenhoek + 140 G4 Red + 200 Red Convectron + 1100 Ether Fuel per piece
+- Leeuwenhoek will also be in v6.9 Battle Pass
+
+---
 
 #####LEADER
 Team Ignite DMG +21%/22%/23%. Team Fire DMG +28%/29%/30%. 
@@ -75,8 +97,8 @@ When Basic ATK SEQ 4 hits a target, if the target is ignited, deal additional 40
 Tap Ult to create a magical domain expansion, sealing enemies in a magic mirror, deal 1500% ATK of Fire DMG in a large area. Ult stops time.
 
 __ULTIMATE 1__
-When casting Ultimate, if the enemy is ignited, for every Ignite stack, Ultimate will deal additional [Ignite stack count x 50% ATK] of Fire DMG, max 15 ignite stacks (15 x 50% ATK of Fire DMG). Remove [Magical Girl Time] state.
-(Marisa's note: The removal of Magical Girl Time state means that ignite stacks will be reduced to 1 stack after using Ult)
+When casting Ultimate, if the enemy is ignited, for every Ignite stack, Ultimate will deal additional [Ignite stack count x 50% ATK] of Fire DMG, max 15 ignite stacks (15 x 50% ATK of Fire DMG). Remove [Magical Girl Time] stacks
+(Marisa's note: The removal of Magical Girl Time stacks means that ignite stacks will be reduced to 1 stack after using Ult)
 
 __ULTIMATE 2 __
 [S2] During Charged Mode period (refer to Charged ATK section), continuously deal additional dmg, max 12 x 9999 points of DMG can be dealt (count as HP loss)
@@ -108,7 +130,7 @@ Upon entering the field, when you cast [Judgement] or [Split], gain Fire DMG +45
 
 #####CONSTELLATION
 
-S1:  UNLOCK: Fire DMG dealt by Ultimate counts as Ignite DMG.
+S1:  UNLOCK: (Toggle) Fire DMG dealt by Ultimate counts as Ignite DMG.
 
 S2: UNLOCK: Initial SP +40. In Open World, this effect triggers every 10 mins.
 

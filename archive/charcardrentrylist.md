@@ -18,6 +18,9 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Marlin](https://files.catbox.moe/sz679h.png), [Gulliver](https://files.catbox.moe/pxv5o0.png), [Gunter](https://files.catbox.moe/4w6atb.png)|
+[Tipzanon](https://rentry.co/tipzanon) | Misc |[Lily](https://files.catbox.moe/1mixl4.png)|
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png)|[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Jiko.eth](https://files.catbox.moe/bidmxj.png), [Cap'n Pippin](https://files.catbox.moe/ijyyxk.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png), [Tobias](https://files.catbox.moe/jsr3yo.png)|
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Mei Lien](https://files.catbox.moe/3z45w9.png)|
@@ -27,7 +30,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tomoki](https://files.catbox.moe/triaw4.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Helix](https://files.catbox.moe/bdq998.png), [Basil](https://files.catbox.moe/i42y02.png)|[Basil](https://files.catbox.moe/i42y02.png) [MV]
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Cerunlanwe](https://files.catbox.moe/6rmhj5.png), [Minkhius](https://files.catbox.moe/90deo2.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Gulliver](https://files.catbox.moe/pxv5o0.png), [Gunter](https://files.catbox.moe/4w6atb.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Constance](https://files.catbox.moe/f91bh6.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Ducky](https://files.catbox.moe/tdrhj9.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Juno](https://files.catbox.moe/ffrdcq.png)|[Juno](https://files.catbox.moe/ffrdcq.png) [MV]
@@ -37,13 +39,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Creamsan](https://rentry.org/oqhyw) | Misc |[The Town of Chance](https://files.catbox.moe/huqgz7.png)|[The Town of Chance](https://files.catbox.moe/huqgz7.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Shiori](https://files.catbox.moe/99wdxp.png)|[Shiori](https://files.catbox.moe/99wdxp.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png)|
-[OAnon](https://rentry.org/OAnon-AK) | Arknights |[Skadi](https://files.catbox.moe/crwsvv.png), [Projekt Red](https://files.catbox.moe/dtepk9.png)|[Kroos](https://files.catbox.moe/uqkwhy.png), [Mori Calliope](https://files.catbox.moe/6yscby.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
+[OAnon](https://rentry.org/OAnon-AK) | Arknights ||[Kroos](https://files.catbox.moe/uqkwhy.png), [Mori Calliope](https://files.catbox.moe/6yscby.png)
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
