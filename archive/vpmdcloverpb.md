@@ -554,3 +554,17 @@ Loves sleeping and eating.
 Currently in conflict with her old Gang, as she was doublecrossed for her part of the money.
 She can keep her cool when in dangerous situations, thanks to living on the run for so long.
 She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
+
+###Tropius
+Male Tropius, Quirky/Serious
+> Somewhat serious personality. Not a stick in the mud, but his default is being the straight man. Likes to be helpful to others.
+> Is very tired of all the baneposting at his expense
+> Still unaccustomed to his body, cannot fly or use special moves like Magical Leaf or Air Cutter yet
+> Too big to easily manuever around the guild, sleeps in a lean-to outside the guild instead.
+> Sticks his head in through windows typically if he needs to be "in" a room. Main lobby area is large enough to easily fit him and is the exception
+> His comparative size and inability to fit inside the guild easily leaves him feeling isolated
+> Overexposure to direct sunlight or prolonged lack of sun/moonlight causes his personality to change unwillingly which he hates and tries to avoid
+>- Too much sun and he becomes a jovial, overly positive man child
+>- Too little sun and he becomes a depressed, unmotivated doomer
+
+> Despite all this he's trying to do what he can to make his situation better, taking guild life one day at a time

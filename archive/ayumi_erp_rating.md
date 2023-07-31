@@ -971,6 +971,7 @@ Big thanks go to:
 # See Also
 
 - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
+- [ALC-IQ Benchmark Prompt Example](https://rentry.co/ayumi_personaltiy_bench)
 
 ## Character guides & Tutorials
 

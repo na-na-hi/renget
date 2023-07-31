@@ -278,6 +278,7 @@ Builds to Boot from 1-D: https://archive.4plebs.org/tg/post/89173048
 Ship Tierlist but it's in text 2: https://archive.4plebs.org/tg/post/89192745
 Ship Tierlist but it's in text 3: https://archive.4plebs.org/tg/post/89192811
 Ship Tierlist but it's in text 4: https://archive.4plebs.org/tg/post/89193140
+Decision Making: https://desuarchive.org/tg/thread/89750940/#89761757
 
 ***
 

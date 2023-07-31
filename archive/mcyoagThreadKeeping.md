@@ -530,6 +530,10 @@ https://rentry.org/4i5gm
 https://rentry.org/4c3pf
 >Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
 https://rentry.org/cucs2
+>Misadventures at the Dojo Part 2.5: Aftermath (Drekus, Karma, Feral, Aquarius, Walpurgis, Nebulous Storm, Midas)
+https://rentry.org/DojoMisadventureExtra
+>Stimulation (Seiryu, Honoken, Karma, Fluegel, Rika Eichi, Popsy)
+https://rentry.org/g6f8r
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -855,6 +859,8 @@ https://rentry.org/knat3
 https://rentry.org/thewindblows
 >A Jolly Adventure (Mahapapapurusa)
 https://pastebin.com/v4LNpcXi
+>The Dream of Potion Pete
+https://rentry.org/rdhv6
 ```
 
 #The City (Reboot)

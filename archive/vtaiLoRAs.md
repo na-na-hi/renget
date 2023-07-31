@@ -290,37 +290,38 @@
 ### -> Prism Project <-
 -> ![PRISM PROJECT](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b7/PRISM_Project_-_Logo.png/revision/latest?cb=20210521202700) <-
 ***
-#### -> Sara Nagare <-
-!!! note Recommended weight: ?
+#### -> Nagare Sara <-
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(nagare sara, armlet, black dress, black footwear, black hair, bracelet, dark-skinned female, earrings, halterneck, high heels, navel cutout, ponytail, side slit, (single glove, elbow gloves white gloves:1.2), single gauntlet)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/8fhBQSba) <-
 
 #### -> Oumiya Emma <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(oumiya emma, blue hair, orange eyes, long hair, hair between eyes, ahoge, halter dress, horns, headpiece, pelvic curtain, navel cutout, leg tattoo, (black fur trim:1.3), fur-trimmed capelet, long sleeves, wide sleeves, veil)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/NNogCYZb) <-
 
 ### -> Idol Corp <-
 -> ![IDOL](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9e/Idol_corporation_logo.png/revision/latest?cb=20220312090425) <-
 ***
 #### -> Rin Penrose <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	(rin penrose, black footwear, black hair, white hair, multicolored hair, short hair, blue eyes, red eyes, heterochromia, mini crown, ribbon, thigh boots, two-tone shirt, gloves, epaulettes)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/8fhBQSba) <-
 
 #### -> Juna Unagi <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(juna unagi, yellow eyes, (black jacket:1.2), blonde hair, brown hair, cleavage cutout, white leotard, long hair, multicolored hair, star hair ornament, streaked hair, tail, white thighhighs)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/xKgxgYga) <-
 
 #### -> Pochi Wanmaru <-
-!!! note Recommended weight: ?
+!!! info Her features are very RNG heavy so don't expect to get her perfect.
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(pochi wanmaru, ahoge, black thighhighs, blue eyes, orange hair, dog ears, dog girl, dog tail, hair ornament, bare shoulders, (pink hoodie, black hoodie, multicolored hoodie:1.3), hood down, long hair, pink shorts, thigh strap, two-tone hair, white hair, white shirt)
 -> [Catbox](https://files.catbox.moe/4etgnx.safetensors) <-
 
 #### -> Yuko Yurei <-

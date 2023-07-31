@@ -67,7 +67,7 @@ The twin canines shuffle around to see three… no—four figures drawing closer
 
 A… mouse-like creature runs up to them on all fours (*“or is it hedgehog-like?”*, Bill muses). Its fur is a yellowish cream on its underside and dark blue on its hide. Beneath its big head and long snout is an orange bandanna with a green badge pinned to it.
 
-“That’s a cyndaquil...”, Gill comments, once again marveled by previously-fictional entity.
+“That’s a cyndaquil...”, Gill comments, once again marveled by yet another previously-fictional entity.
 
 “Huff… huff…”
 

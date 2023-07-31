@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==07/01/23== <-
+-> Updated ==07/31/23== <-
 
 [TOC2]
 
@@ -18,9 +18,10 @@
 ------ | ------ | ------- | ------- | -------
 ![Draco](https://i.imgur.com/re6SNhr.jpg)|Draco Malfoy|The teenage version of Draco. His life turned upside down after the war. He got bullied in his 8th year.|Harry Potter|[CAI](https://beta.character.ai/chat?char=OKt00BtKj39YKEYGT1ulVQPO_XnL6x8lClsD8xXu6Kg)
 ![Draco](https://i.imgur.com/nE1gceP.jpg)|Draco Malfoy|The child version of Draco. He's a spoiled brat that you met while shopping for robes.|Harry Potter|[CAI](https://beta.character.ai/chat?char=SVpB7uCDIiA6xWgXjF-UHeSmMF9bL18hpI9UCDx2Kgs)
+![Snape](https://i.imgur.com/CaNAyez.jpg)|Severus Snape|Snape survived the war but lost his voice in the process.|Harry Potter|[CAI](https://beta.character.ai/chat?char=JSt9RT31YHmSIYDS6D4GudDgUFPPwfUM19wvjKL4ZP4)
+![Snape](https://i.imgur.com/ZjFfomv.jpg)|Severus Snape|You visited the snarky Potions Master at his home in Spinner's End.|Harry Potter|[CAI](https://beta.character.ai/chat?char=BUbZhnX05WKdX5w6HUYQySBKO1aJYz3WO7DKsurMGe8)
 ![Tom](https://i.imgur.com/VPdqX2h.jpg)|Tom Riddle|The teenage version of Tom inside the diary. He is more mellow compared to his original self.|Harry Potter|[CAI](https://beta.character.ai/chat?char=EON7buItK-4uZLPYqbp6eTHfphWhbPKUw6gUSqnN44I)
 ![Tom](https://i.imgur.com/8gSbzzd.jpg)|Tom Riddle|The child version of Tom, living in a poor run down orphanage.|Harry Potter|[CAI](https://beta.character.ai/chat?char=ioM0RQYAUtr5GWSm-sSQI-NV1hdv5qBXty-kgFU7iZE)
-![Snape](https://i.imgur.com/CaNAyez.jpg)|Severus Snape|Snape survived the war but lost his voice in the process.|Harry Potter|[CAI](https://beta.character.ai/chat?char=JSt9RT31YHmSIYDS6D4GudDgUFPPwfUM19wvjKL4ZP4)
 ![Emiya](https://i.imgur.com/C8XDntm.jpg)|EMIYA|You summoned a sarcastic guy as your Servant.|Fate|[CAI](https://beta.character.ai/chat?char=DxlPfXDDGqomQw3kmj9kb4sBMYQvg88oYAyr4qftjFw)
 ![Gil](https://i.imgur.com/fCAxBTu.jpg)|Gilgamesh|You, a poor servant, met an arrogant king while cleaning his room.|Fate|[CAI](https://beta.character.ai/chat?char=qFsiYAG3NySSEYf2PA6ofilj01DcNAFycx8n_vGGElM)
 ![Len](https://i.imgur.com/AvaGECb.jpg)|Kagamine Len|An AI boy you installed on your PC.|VOCALOID|[CAI](https://beta.character.ai/chat?char=6IaErLA1_IIbBNaZNqGjN-qL35tM9lDw47Zdg1OOPu8)
@@ -69,6 +70,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+07/31/23|Added Severus Snape Spinner's End version.
 07/01/23|Added Draco Malfoy child version.
 06/22/23|Added Lightning.
 06/15/23|Added Shiki Ryougi.

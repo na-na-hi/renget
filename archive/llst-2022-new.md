@@ -493,7 +493,6 @@ Teku Teku Aqours
 3rd years - https://nyaa.si/view/1019207
 Hakodate - https://nyaa.si/view/1046487
 
-**EVENTS/PERFORMANCES/MISC**
 **Aqours Club**
 Kotatsu Special - https://nyaa.si/view/1123830
 2021 - https://nyaa.si/view/1404666
@@ -549,7 +548,6 @@ Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
  
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
-**Live Concerts**
 5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
 webrip: https://nyaa.si/view/1577721
 BDRip HEVC: https://nyaa.si/view/1652899
@@ -583,12 +581,16 @@ BD 720p - https://nyaa.si/view/1245130
 RAW - https://nyaa.si/view/1170341
 
 ####EVENTS/PERFORMANCES/MISC
-**2023 Fanmeet**
+**Fanmeets**
 ==NEW== Nijigasaki Tokimeki Fan Meeting Tour
-D1&D2 Hiroshima - https://nyaa.si/view/1664169 / https://nyaa.si/view/1664737 ==(/llst/ exclusive)== alt: https://nyaa.si/view/1672987
+D1&D2 Hiroshima - https://nyaa.si/view/1672987
 D1&D2 Tokyo - https://nyaa.si/view/1672987 
 D1&D2 Aichi - https://nyaa.si/view/1672987 
- 
+D1&D2 Osaka - https://nyaa.si/view/1698235  ==(/llst/ exclusive)==
+
+TOKIMEKI Talk Room Pts 1&2
+https://nyaa.si/view/1551497
+
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
 Vol.2 QU4RTZ ～Sweet Cafe～ - https://nyaa.si/view/1443241
@@ -599,9 +601,6 @@ UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
 UNIT LIVE & FAN MEETING Vol.4 R3BIRTH ~First DELIGHT~ (BD) - https://nyaa.si/view/1616797
 Love Live! Nijigasaki High School Idol Club UNIT LIVE! ~QU4RTZ Fluffy Magic~ - https://nyaa.si/view/1651131
 
-TOKIMEKI Talk Room Pts 1&2
-https://nyaa.si/view/1551497
-
 Love Live! Festival 2020 (TV Ver.)
 https://nyaa.si/view/1242913
 
@@ -611,7 +610,6 @@ https://nyaa.si/view/1417140
 
 ###Liella!
 ####CONCERTS/LIVES/VODs
-
 Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
 https://nyaa.si/view/1612969
 
@@ -672,7 +670,6 @@ Part 3
 
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
-
 
 ###Hasunosora
 Official YT Channel: https://www.youtube.com/@lovelive_hasu

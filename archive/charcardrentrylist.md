@@ -26,7 +26,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png), [Tobias](https://files.catbox.moe/jsr3yo.png)|
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Mei Lien](https://files.catbox.moe/3z45w9.png)|
 [Malik](https://rentry.co/maliksusanto) | Misc |[Val Deluca](https://i.postimg.cc/KcssMtWk/Val-Deluca-thumb.png), [Alma Armitage](https://i.postimg.cc/1zTvbSZm/Alma-Armitage-thumb.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Abigail](https://files.catbox.moe/ivj6js.png)|[Abigail](https://files.catbox.moe/ivj6js.png) [MV]
+[Genoo](https://rentry.org/295se) | Sizeplay |[Abigail](https://files.catbox.moe/ivj6js.png)|[Kurisu Makise](https://files.catbox.moe/igqdk8.png), [Abigail](https://files.catbox.moe/ivj6js.png) [MV]
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Roman](https://files.catbox.moe/kq9990.png)|[Roman](https://files.catbox.moe/kq9990.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tomoki](https://files.catbox.moe/triaw4.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Helix](https://files.catbox.moe/bdq998.png), [Basil](https://files.catbox.moe/i42y02.png)|[Basil](https://files.catbox.moe/i42y02.png) [MV]
@@ -37,7 +37,6 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[BT-42 Team](https://files.catbox.moe/wt7id1.png)|[BT-42 Team](https://files.catbox.moe/wt7id1.png) [MV]
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[maeve](https://uncoolreisen.neocities.org/img/maeve.png)|[maeve](https://uncoolreisen.neocities.org/img/maeve.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Library of Babel](https://files.catbox.moe/j95sbh.png), [Junko Pao](https://files.catbox.moe/jdng3r.png)|
-[Creamsan](https://rentry.org/oqhyw) | Misc |[The Town of Chance](https://files.catbox.moe/huqgz7.png)|[The Town of Chance](https://files.catbox.moe/huqgz7.png) [MV]
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
@@ -45,6 +44,7 @@ Botmaker | Category | New Bots | Updated Bots
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||[Kroos](https://files.catbox.moe/uqkwhy.png), [Mori Calliope](https://files.catbox.moe/6yscby.png)
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
+[Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
