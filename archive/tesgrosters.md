@@ -21,7 +21,7 @@ Hedgehog <-
 -> ![Gaell](https://i.postimg.cc/0253g0dW/Gaell.jpg)
 Gaell <-
 
--> ![Snakestone](https://i.postimg.cc/PqdvKNkw/Snakestone.jpg)
+-> ![Snakestone](https://i.postimg.cc/D02FNq38/Snakestone.jpg)
 Snakestone <-
 
 -> ![Yarti](https://i.postimg.cc/YC5tsGFS/Yarti.jpg)

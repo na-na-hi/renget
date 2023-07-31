@@ -52,16 +52,16 @@ https://rentry.org/gedg-books
 
 ***
 
-## Games by /gedg/
+## Games and Engines by /gedg/
 
 Make sure to provide some kind of evidence that it was made by a /gedg/ poster. Examples can include any of the following:
 
-* Reference to /gedg/ in the game description.
-* Referencing /gedg/ in a README or another kind of doc if the game is open source.
+* Reference to /gedg/ in the game / engine description.
+* Referencing /gedg/ in a README or another kind of doc if the game / engine is open source.
 * Linking to posts made during dev. A good archive website for this kind of thing is https://desuarchive.org/.
 * Having dev that was posted on /gedg/ that is well known by the posters of /gedg/.
 
-Of course, game jam entries should be added to the list of games without any fuss. Entries that are submitted to /agdg/ events that have also appeared on /gedg/ will still be listed.
+Of course, game jam and Progress Day entries should be added to the list without any fuss. In addition to games and engines you can submit a plethora of tools used for dev like engine plugins, libraries, frameworks, and other tools. Entries that are submitted to /agdg/ events that have also appeared on /gedg/ will still be listed.
 
 Itch collection:  https://itch.io/c/3342796/gedg-collection
 
@@ -80,7 +80,9 @@ Yes.
 > Can I use ai?
 Do what you want, make the games how you want.
 
-For progress days you post your work monthly. Unlike game jams you can work on something old. Submit to itch.io like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days.
+For Progress Day you post your work monthly. Unlike game jams you can work on something old. You can submit a game, engine, tool, etc.
+
+ Submit to itch.io for Progress Day like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days. 
 
 [List of Jams and Progress Days](https://rentry.org/gedg-jams)
 
@@ -94,4 +96,5 @@ For progress days you post your work monthly. Unlike game jams you can work on s
 
 Polls are used as an effort to keep things democratic on the general.
 
-Currently no active polls.
+Poll to adjust the frequency of Progress Day:
+https://strawpoll.com/XOgONEEEQn3/results

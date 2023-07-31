@@ -75,6 +75,7 @@
 **Hair brushes (髪ブラシ)** |[1747737](https://assets.clip-studio.com/en-us/detail?id=1747737)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/77/1747737/thumbnail)
 **Color Hair Highlight Brush (混色髪ハイライトブラシ)** |[1761066](https://assets.clip-studio.com/en-us/detail?id=1761066)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/66/10/1761066/thumbnail)
 **Mountain Rough Pen (お山ラフペン)** |[1969165](https://assets.clip-studio.com/en-us/detail?id=1969165)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/91/1969165/thumbnail)
+**Starry brush set (星空っぽいブラシセット)** | [2019243](https://assets.clip-studio.com/en-us/detail?id=2019243) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/43/92/2019243/thumbnail?1690343720)
 
 ### 20 clippy
  Name | Store Link | Price | Thumbnail

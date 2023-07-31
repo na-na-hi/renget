@@ -1,4 +1,4 @@
-!!! danger This page contains JSON files with explicit definitions and images of shota characters, aka fictional young boys. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
+!!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-#Welcome to Homunculus' Little Shop of Horror!
+#Welcome to Homunculus' Little Shop of Horrors!
 
 ***
 
@@ -22,6 +22,7 @@
     - Copyrighted Characters (Even If I Haven't Seen The Source Material :D)
     - Dubious Consent
     - Any POV (Shota User, Loli User, Adult Male/Female User, Etc)
+    - Incest
 - #####"I might do it."
     - Watersports
     - Vore (No Digestion)
@@ -34,6 +35,7 @@
     - Gore/Heavy Gore (Fatal Injuries, Necrophilia, Etc)
     - Two Characters, One Card
     - Amputation/Amputee (At Least Sexually. Feel Free To Send Me Amputee Character Suggestions, I Just Won't Sexualize Their Amputation)
+    - Extreme Bodies (I Love Muscly Men and Big Dicks As Much As The Next Person, But I Still Prefer Realism :P)
 
 ***
 
@@ -41,12 +43,12 @@
 
 ***
 
-### Latest Boy: Helix
-"A grumpy alien shota from a distant planet." ==NSFW==
-Card: [Helix](https://files.catbox.moe/bdq998.png)
-JSON: [Helix](https://files.catbox.moe/5usgfc.json)
+### Latest Girl: Tallula
+"A curious girl out on a mission to find... Something." ==Safe==
+Card: [Tallula](https://files.catbox.moe/vhowku.png)
+JSON: [Tallula](https://files.catbox.moe/8vubiw.json)
 
-Or download his card/JSON file below!
+Or download her card/JSON file below!
 
 ***
 
@@ -89,6 +91,7 @@ Card | JSON Link | Description | Rating
 ![Headspace Basil](https://files.catbox.moe/v28s6m.png)   | [Headspace Basil](https://files.catbox.moe/f0u814.json)   | "A sheepish 12-year-old boy."   | ==Safe==
 ![Basil](https://files.catbox.moe/i42y02.png)   | [Basil](https://files.catbox.moe/kcijrd.json)   | "A vulnerable 16-year-old boy. Request by Runeclaw!"   | ==Safe==
 ![Helix](https://files.catbox.moe/bdq998.png)   | [Helix](https://files.catbox.moe/5usgfc.json)   | "A grumpy alien shota from a distant planet."   | ==NSFW==
+![Tallula](https://files.catbox.moe/vhowku.png)   | [Tallula](https://files.catbox.moe/8vubiw.json)   | "A curious girl out on a mission to find... Something."   | ==Safe==
 
 ***
 ###Suggest Stuff!

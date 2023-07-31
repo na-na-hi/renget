@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/07/27-23/07/30 (yy/mm/dd)
+##23/08/03-23/08/06 (yy/mm/dd)
 
 ##Melts
 
-**THU: MMBN2 rando postgame at 2UTC (Telemelt)**
-**FRI: Rockman X7 (PS2) at 2UTC (Parsec)**
+**THU: - at 2UTC ()**
+**FRI: - at 2UTC ()**
 **SAT: Castlevania Harmony of Dissonance at 2UTC (Telemelt)**
-**SUN: Golden SUN at 18:00UTC (Telemelt)** probably
+**SUN: Minemelt at 17:30UTC (Minecraft)**
 
 ##Cytubes
 
-**SAT: Rockman.exe Axess at 16UTC** Episodes 44-51
-**SUN: - at 15UTC**
+**SAT: Rockman.exe Stream+Axess at 16UTC** Episodes 1-7, Axess Episodes 44-45
+**SUN: Rockman.exe Axess at 15UTC** Episodes 46-51
 >-
 nothing
 

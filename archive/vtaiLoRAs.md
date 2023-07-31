@@ -309,7 +309,7 @@
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
 	(rin penrose, black footwear, black hair, white hair, multicolored hair, short hair, blue eyes, red eyes, heterochromia, mini crown, ribbon, thigh boots, two-tone shirt, gloves, epaulettes)
--> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/8fhBQSba) <-
+-> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/NOowCYLa) <-
 
 #### -> Juna Unagi <-
 !!! note Recommended weight: 0.8
@@ -335,45 +335,46 @@
 ***
 !!! warning THE LINK IS THE SAME FOR EVERYONE BELOW, SINCE ITS A FULL AGENCY LORA
 #### -> Maru Nanamona <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.6
 !!! info Example Prompt
-	
+	(maru nanamona, hair ornament, short hair, purple eyes, brown hair, black pantyhose, long sleeves, fur-trimmed cape, goat horns, grey skirt, white jacket, white cape, white footwear)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 #### -> Hitoshiro Itsuki <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.6
 !!! info Example Prompt
-	
+	(hitoshiro itsuki, blue eyes, blue hair, hair ornament, ponytail, antlers, black jacket, short hair, blue skirt, long sleeves, cross tie, white shirt, thigh strap, black socks, black footwear)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 #### -> Kagase Uno <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.75
 !!! info Example Prompt
-	
+	(kagase uno, blonde hair, orange eyes, hair between eyes, horns, bare shoulders, black shirt, black shorts, multicolored jacket, long hair, twintails, long sleeves, open jacket, wide sleeves, zipper, ankle socks, white footwear)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 #### -> Alba Sera <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.45
 !!! info Example Prompt
-	
+	(alba sera, black footwear, black gloves, black jacket, blue eyes, boots, fishnets, gloves, grey eyes, grey hair, hair ornament, high heel boots, high heels, jacket, long sleeves, medium hair, pantyhose, thighhighs, medium breasts)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 #### -> Kashi Otoha <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.75
 !!! info Example Prompt
-	
+	(kashi otoha, bandages, red-framed eyewear, semi-rimless eyewear, (single horn:1.3), pink eyes, pink hair, white jacket, hooded jacket, hood down, white footwear, black pantyhose, long sleeves, off shoulder, white tank top)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 ### -> Voms <-
 -> ![VOMS](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/VOMS_Logo_2nd.png/revision/latest?cb=20210912081908) <-
 ***
 #### -> Amano Pikamee <-
+!!! warning  DO NOTE THIS IS A LYCORIS/LOCON SO YOU WILL HAVE TO USE THE LYCORIS EXTENSION https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris OR UPDATE TO SD 1.5.0 
 !!! note Recommended weight: ?
 !!! info Example Prompt
 	
 -> [MEGA](https://mega.nz/folder/uZBBmIqQ#N6MYzNgBc-RHI_iunjahdA/folder/TMJwHTLY) <-
 
-!!! warning THE LINK IS THE SAME FOR EVERYONE BELOW, SINCE ITS A FULL AGENCY LORA
+!!! warning THE LINK IS THE SAME FOR EVERYONE BELOW, SINCE ITS A FULL AGENCY LORA (probably possible to get pikamee as well, unsure though)
 #### -> Jitomi Monoe <-
 !!! note Recommended weight: 0.6
 !!! info Example Prompt
