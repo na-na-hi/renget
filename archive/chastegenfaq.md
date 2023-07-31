@@ -48,6 +48,7 @@ Generally, there are two different styles. Padlock, and integrated. Most cages a
 Integrated locks are built into the cage body itself. Most use a style similar to the [Burg Wachter ME/2](https://www.amazon.com/Burg-Wachter-Lock-Blocker-Furniture/dp/B07P6HQV5T) furniture lock, or something similar. They offer a sleeker design and are often styled/hidden with the cage itself for aesthetics. Great for discretion and lighter-weight chastity solutions, but you could argue that you lose some security since the locks themselves can be on the cheaper end. I'll note that integrated locks can easily be made into padlock types with some light conversion, but pad-lock styles cannot be easily made into an integrated style.
 
 Beyond those, there are the new click-to-lock HolyTrainer V5 that claims to offer better stability and security for the same/smaller footprint, and Allen key screw-in locks that is featured in some flat or inverted cage designs.
+
 ***
 ###### How do I size a cage?
 Your major measurements are split between those for the cage, and those for the ring. You want the cage to be snuggly fitted while flaccid, so you need to measure your **flaccid** length and girth. Girth is usually less important on mass-produced cages, but important if you go into the custom space, or if you have a very girthy dick that may become uncomfortable or painful when engorged. A well fitted cage is important for hygiene and comfort, and while too small isn't often an issue, too big can cause misalignment leading to messing yourself while peeing and may lead to the cage slipping off more regularly.
@@ -67,7 +68,8 @@ You will probably get it wrong with the first cage or two. It takes a while to f
 - [Cellmate](https://www.qiui.store/collections/smart-toys-by-qiui) (Bio-Resin, remote controlled)
 - [BirdLocked](http://www.birdlocked.com/male-chastity-device/male-chastity.asp) (Silicone)
 
-And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076) and [Happygo](https://www.aliexpress.com/store/1101019036) being recommended for decent quality. These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.\
+And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076) and [Happygo](https://www.aliexpress.com/store/1101019036) being recommended for decent quality. These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.
+
 ***
 ###### How do I actually put on the thing?
 You want to be as flaccid as possible going into the cage. Go slowly and stop at each step to calm back down if you start getting erect. A cold shower or getting a quickie in beforehand can definitely help.
@@ -86,6 +88,7 @@ The above process is just the base recommend. You may find other ways that work 
 If you are having troubles fitting into a tighter cage or having troubles with alignment in a closed-tube design, you can try the "stocking method". Get some stockings (pantyhose) and put it around your flaccid member. Get your bits through the ring, then feed the excess of the stocking through the cage itself, and out of the urethral hole at the end of the cage. Pull the stockings (and therefore your dick) through the cage, getting you in there with less friction and helping to align things. Continue to pull and remove the stockings.
 
 Finally, for lining things up in an open-style cage, you can take a q-tip or use your fingers to prod at your member through the cage to get it to seat properly.
+
 ***
 ###### How do I determine if a cage is a good fit once I have it?
 Once you found a cage you like and ordered it, you want to test for any pinches, aches, pains, or bluing of the balls.
@@ -108,6 +111,22 @@ As for a checklist:
 - [ ] Do I pinch or rub badly in everyday clothes and positions?
 
 ***
+###### Do I need to know anything more if I have a foreskin?
+Foreskin can become an issue while in chastity in two major ways:
+1. **Peeing**. As your member moves around during the day, your foreskin may slide forward to cover the opening of either your urethra or the cage itself.
+2. **Spillage**. You foreskin may also slip past the tip of the cage, protruding out of the end of the chastity cage. Being sensitive skin, it can be prone to chafing pinching, and to general discomfort as the pressure of your clothes will be concentrated into a small area.
+
+Everyone is different, so the actual *how* to mitigate some of these issues is varied.
+| | |
+|---|---|
+|**Pulling the skin back.**| By retracting the foreskin either partially or full past the glans of your dick, you stop both issues above (at least temporarily) by making your foreskin a non-issue. Especially with a tighter cage with less wiggle room girth wise, retracting the foreskin prior to inserting into the device can "lock" it in the retracted position for the duration you stay caged. Watch out though for loss of sensitivity to the glans as it is no longer covered, and this carries a risk of developing Paraphimosis, where the foreskin swells and gets painfully trapped behind the glans. |
+|**Readjustment on the fly.**| If you remember to stay lubed/moisturized up while in the cage, you can allow for easier movement and readjustment if the foreskin slips into any unwanted positions. With the help of Q-tips or your fingers you can push it back into place either through the holes in an open-cage design or through the urethral spout in both open and closed cages. |
+|**Pulling even more out.**| If you are particularly gifted in foreskin, some have reported to pulling *even more* skin out of the tip of the cage when spillage occurs. While hindering peeing, the large surface area you are exposing to the rubbing and chafing of everyday life will decrease the pin-point pressure that makes spillage painful. |
+|**Padding the tip of the cage.**| By placing something over the opening of the cage, you can keep spillage to a minimum. This can be a pad of Toilet paper, taping the entrance closed, or even using a [Silicone Toe Protector](https://www.amazon.com/ZenToes-Pack-Gel-Toe-Protector/dp/B074JGZFG3) over the tip of the cage have been reported as good, removable ways to temporarily cover the end of the cage and prevent any rubbing. |
+|**Switching Cages.**| Foreskin issues are usually reported more often in open-style cages as they are usually a little roomier and allow for movement in the cage. Thus, swapping to a closed tube cage can help with keeping things in place. For specific cages, HolyTrainers are often recommended for those with foreskin, and recently some [purpose-built cages have entered the 3D printed space](https://comfyne.com/). Though, any cage that is either a well-fitting inner diameter, or has a flared tip where material extends past the end of the cage will help. |
+|**Getting a PA piercing.**| A Prince Albert piercing is done beneath the foreskin, limiting how much it can slip forward depending on the barbell you install within the piercing. Especially when using a PA-compatible cage and using your piercing as part of locking the cage, the risk of your foreskin repositioning to either block urination or causing spillage is minimized. |
+
+***
 ###### How can I step up the fun while in chastity?
 Chastity works in harmony with several other fetishes. Want to give some sexual control to another person? Try a keyholder. Need a new way to masturbate while locked? Try some anal, nipple play, etc. Want to keep to just chastity? Try some more intense play with either urethral plugs, sounding, or try out a smaller cage, even going into the inverted cage realm!
 ***
@@ -117,6 +136,7 @@ If you already have a partner, try to introduce them to your chastity and ask if
 Without a partner, there a number of different services that link chastity-wearers to key-holders, such as EmlaLock.com, ChastityLocked.com, TeamLocked.com, and the thread favorite chaster.app. Chaster also allows for crowdsourcing lock-timers for those who want some fun but not the baggage that comes with a keyholder. Self-keyholding is also an option, with timed lockboxes being available on the market.
 
 While remote keyholding is something to work out with your holder, it usually involves mailing a key/padlock between participants, or some form of lockable safe the key can be placed in. Another option that is starting to develop is remote-locking chastity cages themselves, such as the CellMate from Qiui.
+
 ***
 ###### What do I need to know for long-term or 24/7 wear?
 Long-term wear can be different for everyone. It can just be daywear, full-time with exceptions (such as cleaning, exercise, and travel) or true 24/7 wear. Each progressively adds more logistical challenges to dealing with chastity without hurting yourself or decreasing your quality of life. Traveling, hygiene, maintenance, your activities, and hobbies, and more can all be facets you want to look at before going in. Basically, various questions to consider include,
@@ -135,17 +155,21 @@ You are going to want to go through different trial periods to try to work out a
 1. Make sure that you can do all that you do in the cage. Work-out? Make sure it is comfortable running, lifting, swimming, etc. Travel a lot? Make sure your cage can get through a metal detector or work out a way around it. Sleeping, lounging, basically anything you do in your everyday features a unique position for you test chastity in.
 
 Start finding these out in smaller bursts, and always have a key (or sympathetic keyholder) available for bailouts. Work up from daywear to full-time for a few days, to a week, and eventually get it up to 24/7 wear. Even the best 24/7 wearers still need to take it off once in a blue moon for emergency hygiene concerns, sex, whatever, so don't throw yourself under the bus if 24/7 is your goal but you still find needs to take your cage off.
+
 ***
 ###### What are the logistics of traveling in chastity?
 This is a process to work out with your holder (or yourself) and functions almost like remote keyholding. [Portable key boxes exist](https://www.amazon.com/SAFEGO-Portable-Outdoor-Combination-Compact/dp/B07QFCKQYG/ref=asc_df_B07QFCKQYG/?tag=hyprod-20&linkCode=df0&hvadid=642098416729&hvpos=&hvnetw=g&hvrand=1676780486435985029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007814&hvtargid=pla-841318144696&psc=1&gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_kVLenLatKq5pEQNoSEaSQCG272OnjOEzAmm8lNvY_ARBdepmvFESoaAnOzEALw_wcB) that can be used to keep the keys with you, but to keep them locked with only your holder knowing the code.
 
 Going through security is another issue, and while a plastic/silicone cage with a plastic lock may work, they may still detect "anomalies" in the groin region with some of the newer machines and need an extra pat-down. Best to take it off before going through, and putting it back on after, if able.
+
 ***
 ###### My cage keeps pulling away when I get hard, what do?
 The easy solution is to get some sort of strap around your waist, such as a shoestring, twine, ribbon, or a purpose-made strap [like this one](https://www.aliexpress.us/item/2255801074734121.html?spm=a2g0o.store_pc_groupList.8148356.27.63897147PpQS0h&pdp_npi=3%40dis%21USD%21US%20%247.99%21US%20%245.99%21%21%21%21%21%402101f49a16892062096854562eef11%2110000015506493028%21sh%21US%214328586802) that can attach to the cage and help keep it pressed against your body. Note that because it does add mass on the ring, you may find a need to size-up your ring if it is too tight with it on.
+
 ***
 ###### I have a metal cage that doesn't stay on my body, what do?
 Again, like with a cage that pulls away, [a strap](https://www.aliexpress.us/item/2255801074734121.html?spm=a2g0o.store_pc_groupList.8148356.27.63897147PpQS0h&pdp_npi=3%40dis%21USD%21US%20%247.99%21US%20%245.99%21%21%21%21%21%402101f49a16892062096854562eef11%2110000015506493028%21sh%21US%214328586802), shoelace, ribbon, etc. can be useful to keep it next to your body.
+
 ***
 ###### How do I clean while in chastity?
 Taking care of hygiene (cleaning, shaving, etc.) can be taken care of either with the cage on, or you and your holder can use that time as a "rest" period for your member, and do it uncaged (and possibly supervised). 
@@ -153,10 +177,12 @@ Taking care of hygiene (cleaning, shaving, etc.) can be taken care of either wit
 For locked cleanings, there are different methods with degrees of success depending on your cage design. For closed cages, getting a spray bottle with some soapy water and spraying it into the tube can work well, and with open cages you can clean almost normally, with a popular method just being to get a handful of suds and "smoosh" it into your cage, like you are trying to make a suction between your hands.
 
 Drying off is best done with something like a hair dryer, especially for closed cage designs, with a little baby powder thrown in for some light relubrication and to absorb any remaining moisture.
+
 ***
 ###### How do I get funky smells out of my cage?
 I've found that soaking it in a diluted solution of vinegar, dish soap, and hot water works really well. Let it steep for 30 minutes or so, then dry and the smell should be more diluted or gone entirely. Repeat until satisfied.
-***
+
+*** 
 ###### I am worried about someone in my house seeing my deliveries, what do?
 Most places ship discretely these days, unlike ordering sex toys online in the days of yore. This usually means a nondescript brown box, and I've seen several that have return addresses that do not *directly* link back to the website of purchase (say the name is a more legit-sounding LLC, or a return facility for AliExpress orders). The most conspicuous box I've gotten is from Cherry Keeper, where "Shapeways" is on the packaging itself. That could just be downplayed as any 3D-print you ordered though, not an actual company.
 
@@ -166,6 +192,37 @@ While I am not familiar with other countries, if you cannot stand the thought of
 - For UPS: With a tracking number, you can change the [delivery options to be held in store](https://www.ups.com/us/en/support/tracking-support/change-delivery-options.page).
 - For FedEx: Again, with a tracking number, you can request the [delivery to be held at a location for pick-up](https://www.fedex.com/en-us/shipping/hold-at-location.html)
 - For Amazon Packages: If you have an [Amazon Locker](https://www.amazon.com/ulp) in your area, you can have your package shipped there instead. Note that you can receive Amazon packages at these locations, so they are not a free replacement to a P.O. box.
+
+***
+###### Some cages come with weird things like ball-hooks or multi-stacked rings, what do these do?
+Most extras to a cage are a matter of preference, and the execution can vary wildly.
+| | |
+|---|---|
+|**Ballhooks**| Ball hooks separate the testicles, lift them, and generally remove space in front of the cage. Some people like the snug fit and separation, and other report less rubbing and pulling as the skin is kept more secure while the testicles are limited in movement. |
+|**MutliRings**| You may see some sellers have cages that have several rings stacked behind the main ring where the cage locks on. These add length to a cage, allowing for some more dynamic sizing, but also push your testicles further from your body, and restrict the amount of skin you can pull through, which can become uncomfortable. One benefit to multiple rings is that it adds additional contact with the skin, lessening pin-point pressure pains by spreading out the surface area. This effect can also be achieved by using cock-rings and placing them before the cage as well. |
+|**Urethral rods, tubes, and catheters**| These can be fixed or removable, but they are some form of silicone or metal that is supposed to slide down into your urethra. **`Please investigate sounding and safety around it before getting one, doing it wrong can fuck up your urethra or give you a UTI. Never trust the quality of the metal or tubing from places like AliExpress, it may be good, but err towards skepticism.`** These can help keep you in place and help with peeing, especially in smaller/flat/inverted cages, where they are more frequently found bundled together. |
+
+***
+###### But what about Prince Albert piercings?
+Prince Albert (PA) piercings are gauged piercings that go from your urethra through the bottom of your glans, in front of your frenulum. In chastity, generally all locks are escapable by your dick, as you can just manage to pull the cage forward, and your member up and out. PAs can help with that.
+
+By integrating a PA piercing with a cage, say through a [PA Chastity lock](https://www.amazon.com/Teriya-Stainless-Piercing-Chastity-Restraint/dp/B07B53G61F) looped through the opening at the tip of the cage, and under the cage in some open and closed style cages, you effectively make the chastity inescapable. You can no longer pull it forward and off you without also tearing your member.
+
+*While I am not experienced with a PA piercing, here is some words from another Anon pulled from threads:*
+> You'll likely get pierced between 12ga and 8ga. Just kinda depends on the place and what you ask for. I got pierced at 12ga, and then immediately stretched to 10ga.
+
+>I don't recommend you try to integrate the PA into chastity until you are at least at 8ga (6ga is better tho)
+
+Basically, like any piercing, they start you smaller in the shop as to decrease the healing time (less to heal), then once healed, you can begin gauging it up. The larger gauges are needed both for security in the cage and for safety of yourself. With a larger gauge, there is less of a risk to accidentally pull it out and ripping skin if your dick performs some weird maneuvers inside the cage.
+
+As for recovery,
+> Everyone's body is different, but heal times are anywhere from a month to a few months
+
+>I got mine back in April **[it is nearing the end of July at the time of writing]** and I am very close to being able to get the 6ga
+So, not too bad, but that is time that you can't really go caged, or at least caged with the PA piercing.
+
+Finally, for cages, there are purpose-built cages with PA locks already integrated, both in traditional styles and some that do not rely on a main ring (ball-less chastity). For non-purpose-built cages, if it has a urination hole and a hole under the cage, you can probably integrate a PA piercing into the cage. Kink3D Cobra is a popular option for this.
+
 ***
 ###### Can/will my dick shrink in chastity?
 !!! Danger
@@ -211,7 +268,7 @@ Compared to forcing ED on yourself, with these methods you have a much higher ch
 *Giving yourself ED*
 The other option outside of medication is through just giving yourself ED. There are a slew of problems with this as well, especially if you want to still have a functioning dick when you need it. But usually, the controllable causes of ED are obesity, smoking, and stress. While the hypogonadism path discussed above work on a hormonal level and therefore affect you at all times, ED is much more random, and you may still have night-time and random erections, just not be able to perform when needed instead.
 
-Finally, the last way (**`that I don't recommend`**) is through permanent nerve and tissue damage. If you somehow kill your penile dorsal nerves, through estimming, physical harm, etc., you can and will become permanently numb down there. Same with causing damage and scaring to your erectile tissue, you will just not be able to get it up at all. Without either the ability to get it up, or the sensation to feel aroused down there, it will cut down on spontaneous erections, though.
+Finally, the last way (**`that I don't recommend`**) is through temporary or permanent nerve and tissue damage. Through careful application of estimming or banding, you can technically induce temporary neuropraxia of the dorsal nerves, which will recover after a couple months. That said, continued or extreme use of estimming, banding, physical harm, etc., can and will permanently kill your nerves and leave you forever numb down there. Same with causing damage and scaring to your erectile tissue, you will just not be able to get it up at all. Without either the ability to get it up, or the sensation to feel aroused down there, it will cut down on spontaneous erections, though.
 
 **Promoting Additional Shrinkage**
 Finally, to aid in the above process there are some ways to promote additional shrinkage. The first is with extreme forms of chastity, such as flat and negative cages. Basically, if you give no room for the tissue to expand into, it will accelerate the atrophying process from disuse. This also goes with 24/7 wear of chastity. If you don't give it time to relax and engorge outside of confinement, you will slow down any reversal of atrophied tissue.

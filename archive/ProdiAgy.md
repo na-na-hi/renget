@@ -15,11 +15,12 @@
 ##Base iA3 Prodigy .json - Characters/Objects:
 ###Steps in order of importance:
 !!! danger ```Set only t_max to the steps you want (recommend 1200) and wait for the scheduler to reach eta_min (default 0) then stop training. You'll notice you already finished training by step 100-600.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps.
-!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```You want to adjust this according to how well Prodigy detects the correct LR for your dataset, it tends to only have issues with small datasets below 12ish images.```
+!!! danger ```Default d_coef is 1.0, it scales the d*lr``` shown in Tensorboard. ```You may want to adjust this according to how well Prodigy detects the correct LR for your dataset, it tends to only have issues with small datasets below 12ish images, alternatively if it overshoots leave it like I set it and just wait for the LR to correct itself and decay over more steps.```
 !!! danger ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger ```Different training Clip Skip affects Prodigy's LR a lot. Adjust other settings to compensate, mainly min_snr_gamma and weight_decay, or change clip_skip.```
+!!! danger ```Different training Clip Skip affects Prodigy's LR a lot. Adjust other settings to compensate, mainly d_coef, min_snr_gamma and weight_decay, or change clip_skip.```
 !!! danger Adjust ```min_snr_gamma if you don't get your desired result.``` Recommend between 1 - 10 or 0 (disabled/20+): Lower learns faster and favors texture, it also lowers d\*lr. Higher learns slower and favors structure, it also increases d\*lr. Compensate.
-!!! danger  ```weight_decay is optional for characters but very recommended for styles and small datasets.``` Recommend 0.0 - 1.0 depending on how dulled / regularized you want it to look. Start without and adjust min_snr_gamma instead, if that doesn't do it use weight_decay.
+!!! note Some structure may be better for unusual features on characters. Normal human-like characters don't need structure though. I didn't seem to require min_snr_gamma above 3, I adjusted settings other than it instead.
+!!! danger  ```weight_decay is optional for characters but very recommended for styles and small datasets.``` Recommend 0.0 - 0.5 depending on how dulled / regularized you want it to look. Start without and adjust min_snr_gamma instead, if that doesn't do it use weight_decay.
 !!! danger  ```Regularization is never recommended with iA3. You already do enough with just Prodigy's calibration, weight_decay and min_snr_gamma.```
 !!! info Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! info Change ```caption_extension to .txt if using captions files.``` (Not recommended. Unnecessary.)
@@ -38,9 +39,9 @@
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "75",
-  "min_snr_gamma": 1,
+  "min_snr_gamma": 2,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=10.0\" \"weight_decay=0.100\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=10.0\" \"weight_decay=0.200\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

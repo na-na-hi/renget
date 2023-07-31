@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. Fynn as that police dog from Paw Patrol
 1. Guildmons being pet!
 1. Chespin playing cards. Alone.
 1. ["Ah, eto... bleh!"](https://www.youtube.com/watch?v=SYCP71qcYZw)

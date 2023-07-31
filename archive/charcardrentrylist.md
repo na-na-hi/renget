@@ -37,13 +37,13 @@ Botmaker | Category | New Bots | Updated Bots
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[maeve](https://uncoolreisen.neocities.org/img/maeve.png)|[maeve](https://uncoolreisen.neocities.org/img/maeve.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Library of Babel](https://files.catbox.moe/j95sbh.png), [Junko Pao](https://files.catbox.moe/jdng3r.png)|
 [Creamsan](https://rentry.org/oqhyw) | Misc |[The Town of Chance](https://files.catbox.moe/huqgz7.png)|[The Town of Chance](https://files.catbox.moe/huqgz7.png) [MV]
-[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Shiori](https://files.catbox.moe/99wdxp.png)|[Shiori](https://files.catbox.moe/99wdxp.png) [MV]
-[Crikey](https://rentry.org/crikeyscorner) | Misc |[Chicken Nugget Quest](https://files.catbox.moe/hx5l4d.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||[Kroos](https://files.catbox.moe/uqkwhy.png), [Mori Calliope](https://files.catbox.moe/6yscby.png)
+[KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Shiori](https://files.catbox.moe/99wdxp.png)
+[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||

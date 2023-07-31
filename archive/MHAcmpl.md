@@ -546,7 +546,8 @@ Kaylee in the hospital bed: https://desuarchive.org/tg/thread/89637421/#89644891
 Katsuragi Enjoyers: https://desuarchive.org/tg/thread/89679599/#89683133
 Smug Nene: https://desuarchive.org/tg/thread/89708552/#89717661
 Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
-
+Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#89763266
+Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
 Mio Ball: https://archive.4plebs.org/tg/post/88821971
@@ -798,6 +799,7 @@ Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, menti
 Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students): https://rentry.org/4c3pf
 Understanding (Mirror Devil, Maru (maru), Smokin' Sexy): https://rentry.org/cucs2
 Misadventures at the Dojo Part 2.5: Aftermath (Drekus, Karma, Feral, Aquarius, Walpurgis, Nebulous Storm, Midas): https://rentry.org/DojoMisadventureExtra
+Stimulation (Seiryu, Honoken, Karma, Fluegel, Rika Eichi, Popsy): https://rentry.org/g6f8r
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm
