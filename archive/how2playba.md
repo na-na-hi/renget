@@ -246,7 +246,7 @@ For a 3* you need 120 shards to unlock the student. A hard node drops on average
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/omOJkMe.png)
+![hard nodes to farm](https://i.imgur.com/DEJLISD.png)
 Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/htmlview#), check it out for a more detailed explanation on farmable units.
 
 >Should I farm a unit I don't own?
@@ -356,7 +356,7 @@ No, you can not turn off the auto button in battle.
 The place where u buy stuff and rub Sora's forehead.
 
 >Normal shop
-Buy out the artifacts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Ignore the tickets (unless if you're a korean leviathan whale), because they're not worth your gems; and get the enhancement stones *only if you need them*.
+Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Ignore the tickets (unless if you're a korean leviathan whale), because they're not worth your gems; and get the enhancement stones *only if you need them*.
 Buying the activity reports with credits is kind of bad (as in really bad).
 
 >Eleph shops

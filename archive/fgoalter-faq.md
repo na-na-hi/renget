@@ -59,6 +59,9 @@
 - [FateViewer](https://katboi01.github.io/FateViewer/)
 
 > Other Damage/NP Refund Calculators:
+- [Chaldea App Laplace Battle Simulator](https://chaldea.center/laplace)
+	- Can select any node from any event
+	- Simulation for all servants updated to JP
 - [FGO Noble Phantasm Damage Calculator](https://maketakunai.github.io)
 	- For Raids
 - [FGO 3T Simulator](https://gakiloroth.github.io)

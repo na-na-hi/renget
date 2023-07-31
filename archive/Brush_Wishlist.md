@@ -201,8 +201,6 @@
  ----: | :----: | :----: | :----:
 **Atomoon Brushes**|[https://atomoon.gumroad.com/l/vrdzg](https://atomoon.gumroad.com/l/vrdzg)|$15|![](https://public-files.gumroad.com/7oh44pn7pd9yhainipqe2ydvcp0k)
 **DrawsSeal Brushes**|[https://drawsseal.gumroad.com/l/ohcwh?layout=profile](https://drawsseal.gumroad.com/l/ohcwh?layout=profile)|$17 (for the extended set)|![](https://public-files.gumroad.com/4f8il4nz16h8znoz7y8jkx6ivqvn)
-**Haeyoon Texture Brushes**|[https://oceanofyoon.gumroad.com/l/texture?layout=profile](https://oceanofyoon.gumroad.com/l/texture?layout=profile)|$6|![](https://public-files.gumroad.com/9r6zx7ietv0bty12crmlkpwb72s0)
-**Haeyoon Portrait brushes**|[https://oceanofyoon.gumroad.com/l/Seayun?layout=profile](https://oceanofyoon.gumroad.com/l/Seayun?layout=profile)|$12)|![](https://public-files.gumroad.com/qmpgojsyuc9mftogmqrxsln2vty5)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
