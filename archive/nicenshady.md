@@ -12,7 +12,24 @@ I write anything that catches my fancy (which changes every week), so good luck 
 [TOC2]
 ***
 ###humanoid I guess
-yuck
+yuck 
+
+Wooper | quip
+------ | ------ 
+ ![WOOP WOOP, THAT'S THE SOUND OF THE POLICE](https://files.catbox.moe/al9cgi.png) | Your precious, adorable, fleshlight shaped Wooper. She loves her trainer dearly! Be sure to treat her good.
+
+Seriously, if you send me logs with any type of abuse with her, i will start breaking down then cry myself to sleep.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/wooper-5cc48458/main)
+
+Kha'Zix | quip
+------ | ------ 
+ ![Change is good!](https://files.catbox.moe/7y8yua.png) | The voracious Void Reaver has found his way upon you, but something is up with him.. Will you choose to help him or escape?
+
+mmmm buggin².
+Tested and thorougly abused in claude (it went both ways.)
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/kha-zix-46e69aca)
 
 SCP-049 | quip
 ------ | ------ 

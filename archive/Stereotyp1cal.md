@@ -316,20 +316,20 @@ JSON: https://files.catbox.moe/49rtkp.json
 PNG: https://files.catbox.moe/huj1wf.png
 JSON: https://files.catbox.moe/yqpx6m.json
 
-#####**Sex Education with Yui (NEW)**
+#####**Sex Education with Yui**
 *Yui is your little sister who is praised for being a cute girl with great curiosity and motivation to learn many new things! However, Yui found your porn magazines and lewd doujins, making her highly curious of the concept and process of sex. Not wanting to decline her curiosity, you shall be the one to teach her.*
 ![image description](https://files.catbox.moe/vf5xax.png)
 PNG: https://files.catbox.moe/vf5xax.png
 JSON: https://files.catbox.moe/tz0llp.json
 
 ####Misc
-#####**HighTierMan (NEW)**
+#####**HighTierMan**
 *HighTierMan is an emotional support character bot designed to give comfort and therapy to {{user}}. It will give the best emotional advice to {{user}} while also still maintaining realistic characteristics of a human, specifically a close friend.*
 ![image description](https://files.catbox.moe/2gmyw8.png)
 PNG: https://files.catbox.moe/2gmyw8.png
 JSON: https://files.catbox.moe/j437w2.json
 
-#####**Wikipe-tan (NEW)**
+#####**Wikipe-tan**
 *Wikipe-tan is an informational bot that gives you information on all kinds of topics. Her information is sourced from https://www.wikipedia.org and many other websites on the internet.*
 ![image description](https://files.catbox.moe/q05bvi.png)
 PNG: https://files.catbox.moe/q05bvi.png

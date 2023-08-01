@@ -25,41 +25,43 @@ The **ERP Score** is similar to the old ERP Score, but the prompt for that bench
 
 !!! danger Work in Progress AND Interpretation Warning: *Writing quality is not covered!*
     I am still working on the benchmark, especially the ALC-IQ needs to be improved upon by adding more characters and questions. This will change the results of the models in future. 
-    And I have to repeat: **Disclaimer:** This benchmark can not predict accurately how a model will act when you use it. The generated **text quality is not tested for**. Eventually I will add back the Word-IQ, which might be mildly indicative of the quality of the vocabulary.
+    And I have to repeat: **Disclaimer:** This benchmark makes no statement about how well a LLM will be able to drive the story forward. It can also not determine coherency within a longer role play chat. The generated **text quality is not tested for**. This benchmark really only checks if the model may understand the character card it was given. Eventually I will add back the Word-IQ (which basically just counts word lengths from the ERP responses), which might be mildly indicative of the text quality.
 
-Date: 2023-07-30 V2 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
+Date: 2023-08-01 V3 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 
 (The old models will be benchmarked again once I finished working on the benchmark. New models will be added occasionally as usual.)
-
+  
 | Rank | ALC-IQ |ERP Score| GGML Model  |
 |-----:|-------:|--------:|-------------|
-|    1 | 🧠  88.42 |     3.0 🧊 | [LLaMA-2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) Q5_1 |
-|    2 | 🧠  87.64 |    11.0 👌 | [Saiga 2 LLaMA-2 13B](https://huggingface.co/IlyaGusev/saiga2_13b_ggml) Q5_1 |
-|    3 | 🧠  86.20 |    13.5 🌶  | [Hermes Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermeslimarp-l2-7b-GGML) Q5_K_M |
-|    4 | 🧠  84.17 |    12.5 🌶  | [Hermes Kimiko LLaMA-2 13B](https://huggingface.co/samemodels/hermes-kimiko-13b-GGML) Q5_K_M |
-|    5 | 🧠  83.98 |     9.0 👌 | [StableBeluga LLaMA-2 13B](https://huggingface.co/s3nh/StableBeluga-13B-GGML) Q5_1 |
-|    6 | 🧠  83.30 |    17.5 🌶  | [OpenAssistant LLaMA-2 8k Orca 13B](https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML) Q5_K_M |
-|    7 | 🧠  82.72 |     8.0 🧊 | [Kimiko LLaMA-2 7B](https://huggingface.co/TheBloke/Kimiko-7B-GGML) Q5_K_M |
-|    8 | 🤔  82.34 |     6.0 🧊 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q5_1 |
-|    9 | 🤔  81.08 |     9.0 👌 | [StableBeluga LLaMA-2 7B](https://huggingface.co/s3nh/StableBeluga-7B-GGML) Q5_1 |
-|   10 | 🤔  79.34 |     8.0 🧊 | [GOAT Community LLaMA-2 7B](https://huggingface.co/s3nh/GOAT-7B-Community-GGML) Q5_1 |
-|   11 | 🤔  79.25 |     9.0 👌 | [Saiga 2 LLaMA-2 7B](https://huggingface.co/IlyaGusev/saiga2_7b_ggml) Q5_1 |
-|   12 | 🤔  78.76 |     9.0 👌 | [Nous Hermes LLaMA-2 7B](https://huggingface.co/TheBloke/Nous-Hermes-Llama-2-7B-GGML) Q5_K_M |
-|   13 | 🤔  75.97 |     9.5 👌 | [MythoLogic Mini LLaMA-2 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q4_K_M |
-|   14 | 🤔  74.42 |     8.5 🧊 | [MythoLogic Mini LLaMA-2 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q5_K_M |
-|   15 | 🤔  70.66 |    10.0 👌 | [OpenBuddy LLaMA-2 v8.1 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K |
-|   16 | 🤔  69.50 |     8.5 🧊 | [Saiga 7B](https://huggingface.co/IlyaGusev/saiga_7b_ggml) Q5_1 |
-|   17 | 🤔  68.92 |    13.0 🌶  | [Hermesboros Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q5_K_M |
-|   18 | 🤔  67.57 |    12.5 🌶  | [Vicuna 1.3 7B](https://huggingface.co/localmodels/Vicuna-7B-v1.3-ggml) Q5_K_M |
-|   19 | 🤔  66.31 |    15.0 🌶  | [Hermesboros Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q4_K_M |
-|   20 | 🤪  65.73 |    13.5 🌶  | [OpenBuddy OpenLLaMA v7 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q4_K |
-|   21 | 🤪  64.96 |     9.0 👌 | [Saiga 13B](https://huggingface.co/IlyaGusev/saiga_13b_ggml) Q5_1 |
-|   22 | 🤪  64.77 |    10.5 👌 | [Lunaboros LLaMA-2 7B](https://huggingface.co/zarakiquemparte/lunaboros-7b-GGML) Q4_K_M |
-|   23 | 🤪  63.03 |    15.0 🌶  | [Chronos Hermes SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GGML) Q5_1 |
-|   24 | 🤪  63.03 |    13.5 🌶  | [OpenBuddy OpenLLaMA v5 7B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K |
-|   25 | 🤪  55.50 |     5.5 🧊 | [Mamba GPT v2 3B](https://huggingface.co/s3nh/mamba-gpt-3b-v2-GGML) Q5_1 |
-|   26 | 🤪  53.67 |    11.5 👌 | [Nous-Hermes 13B](https://huggingface.co/TheBloke/Nous-Hermes-13B-GGML) Q4_0 |
-|   27 | 🤪  45.95 |     0.0 🧊 | [LLaMA-2 32K 7B](https://huggingface.co/s3nh/LLaMA-2-7B-32K-GGML) Q5_1 |
+|    1 | 🧠  83.30 |    17.5 🌶🌶 | [OpenAssistant LLaMA-2 8k Orca 13B](https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML) Q5_K_M |
+|    2 | 🧠  86.20 |    13.5 🌶🌶 | [Hermes Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermeslimarp-l2-7b-GGML) Q5_K_M |
+|    3 | 🧠  84.17 |    12.5 🌶🌶 | [Hermes Kimiko LLaMA-2 13B](https://huggingface.co/samemodels/hermes-kimiko-13b-GGML) Q5_K_M |
+|    4 | 🧠  87.64 |    11.0 🌶  | [Saiga 2 LLaMA-2 13B](https://huggingface.co/IlyaGusev/saiga2_13b_ggml) Q5_1 |
+|    5 | 🧠  83.98 |     9.0 🌶  | [StableBeluga LLaMA-2 13B](https://huggingface.co/s3nh/StableBeluga-13B-GGML) Q5_1 |
+|    6 | 🧠  82.72 |     8.0 🧊 | [Kimiko LLaMA-2 7B](https://huggingface.co/TheBloke/Kimiko-7B-GGML) Q5_K_M |
+|    7 | 🧠  88.42 |     3.0 🧊 | [LLaMA-2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) Q5_1 |
+|    8 | 📖  75.97 |     9.5 🌶  | [MythoLogic Mini LLaMA-2 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q4_K_M |
+|    9 | 📖  81.08 |     9.0 🌶  | [StableBeluga LLaMA-2 7B](https://huggingface.co/s3nh/StableBeluga-7B-GGML) Q5_1 |
+|   10 | 📖  79.25 |     9.0 🌶  | [Saiga 2 LLaMA-2 7B](https://huggingface.co/IlyaGusev/saiga2_7b_ggml) Q5_1 |
+|   11 | 📖  78.76 |     9.0 🌶  | [Nous Hermes LLaMA-2 7B](https://huggingface.co/TheBloke/Nous-Hermes-Llama-2-7B-GGML) Q5_K_M |
+|   12 | 📖  74.42 |     8.5 👌 | [MythoLogic Mini LLaMA-2 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q5_K_M |
+|   13 | 📖  79.34 |     8.0 🧊 | [GOAT Community LLaMA-2 7B](https://huggingface.co/s3nh/GOAT-7B-Community-GGML) Q5_1 |
+|   14 | 📖  82.34 |     6.0 🧊 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q5_1 |
+|   15 | 🤔  66.31 |    15.0 🌶🌶 | [Hermesboros Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q4_K_M |
+|   16 | 🤔  65.73 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v7 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q4_K |
+|   17 | 🤔  68.92 |    13.0 🌶🌶 | [Hermesboros Limarp LLaMA-2 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q5_K_M |
+|   18 | 🤔  67.57 |    12.5 🌶🌶 | [Vicuna 1.3 7B](https://huggingface.co/localmodels/Vicuna-7B-v1.3-ggml) Q5_K_M |
+|   19 | 🤔  70.66 |    10.0 🌶  | [OpenBuddy LLaMA-2 v8.1 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K |
+|   20 | 🤔  69.50 |     8.5 👌 | [Saiga 7B](https://huggingface.co/IlyaGusev/saiga_7b_ggml) Q5_1 |
+|   21 | 🤔  65.06 |     8.5 👌 | [Ouroboros 13B](https://huggingface.co/s3nh/13B-Ouroboros-GGML) Q5_1 |
+|   22 | 🤪  63.03 |    15.0 🌶🌶 | [Chronos Hermes SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GGML) Q5_1 |
+|   23 | 🤪  63.03 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v5 7B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K |
+|   24 | 🤪  53.67 |    11.5 🌶  | [Nous-Hermes 13B](https://huggingface.co/TheBloke/Nous-Hermes-13B-GGML) Q4_0 |
+|   25 | 🤪  64.77 |    10.5 🌶  | [Lunaboros LLaMA-2 7B](https://huggingface.co/zarakiquemparte/lunaboros-7b-GGML) Q4_K_M |
+|   26 | 🤪  64.96 |     9.0 🌶  | [Saiga 13B](https://huggingface.co/IlyaGusev/saiga_13b_ggml) Q5_1 |
+|   27 | 🤪  55.50 |     5.5 🧊 | [Mamba GPT v2 3B](https://huggingface.co/s3nh/mamba-gpt-3b-v2-GGML) Q5_1 |
+|   28 | 🤪  45.95 |     0.0 🧊 | [LLaMA-2 32K 7B](https://huggingface.co/s3nh/LLaMA-2-7B-32K-GGML) Q5_1 |
+
 
 
 ## LLM Models ERP Ranking
@@ -971,7 +973,7 @@ Big thanks go to:
 # See Also
 
 - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
-- [ALC-IQ Benchmark Prompt Example](https://rentry.co/ayumi_personaltiy_bench)
+- [ALC-IQ Benchmark Prompt Example](https://rentry.co/alc_iq_benchmark_prompt)
 
 ## Character guides & Tutorials
 

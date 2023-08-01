@@ -1,5 +1,6 @@
 #->Elysian Realm recommended builds 6.7<- 
 busy, next update 6.8
+TEMPORARY IMAGES
 dm medbae on discord for any mistakes/feedback or typos in translation
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
@@ -9,6 +10,10 @@ dm medbae on discord for any mistakes/feedback or typos in translation
 translated from 月光中心
 
 click image to jump to valk
+
+!!! info 6.8 Phase 1
+[![rbss](https://i.imgur.com/mmjvwqq.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![rblb](https://i.imgur.com/NIxdOze.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
+
 
 !!! info 6.7 Phase 1
 
@@ -88,6 +93,86 @@ click image to jump to valk
 
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
+
+#->Herrscher of Rebirth Soul Shaper<-
+->![rbss](https://i.imgur.com/mmjvwqq.png)<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Life Harvester's Path: Shared Destiny | Seele: Herrscher of Rebirth set
+
+Cost | Effect
+------ | ------
+0 | RPC
+15 | Weapon type breach
+15 | Combo ATK bonus
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+VC | BKE | Utility
+BR | VC/SS | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Mad King's Mask/Out of Reach
+1st Shop | Memory/Boundless Logos
+16F | Heavy as a Million Lives/Boundless Logos
+
+##->Ego Signets<-
+Spirits 万灵  | Soothingness 安愈 | Shared Destiny 生灭 | Decay 凋换 | Rising Sun 朝曦
+:-: | :-: | :-: | :-: | :-: 
+**Start** | No | No | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 |  Both damage boosts, HP cap up are the key choices, can pick vulnerability, unlock nexus; can pick Burden, TDM from enhanced
+2nd | Hua2 | Breach, both damage boosts, are the key choices, unlock nexus; can pick 60 stacks
+2nd | Mobius1 | Both TDMs, vulnerability are the key choices, unlock nexus ; can pick Dead from enhanced 
+2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus 
+Optional | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus; can also pick Sakura vulnerability, TDM, evasion+1 as reinforcement
+
+#->Herrscher of Rebirth Life Binder<-
+->![rblb](https://i.imgur.com/NIxdOze.png)<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Life Harvester's Path: Shared Destiny | Seele: Herrscher of Rebirth set
+
+Cost | Effect
+------ | ------
+0 | RPC
+15 | Weapon type breach
+15 | Combo ATK bonus
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+SS | BKE | Utility
+BR | SA | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Mad King's Mask/An Old Pal's Legacy
+1st Shop | Memory/An Old Pal's Legacy
+16F | Faraway Ship/Dreamful Gold
+
+##->Ego Signets<-
+ Soothingness 安愈 |  Shared Destiny 生灭 |   Spirits 万灵  | Decay 凋换 | Rising Sun 朝曦
+:-: | :-: | :-: | :-: | :-: 
+**Start** | Optional | No | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 |  Both damage boosts, HP cap up are the key choices, can pick vulnerability, unlock nexus; can pick Burden, TDM from enhanced
+2nd | Hua2 | Breach, both damage boosts, are the key choices, unlock nexus; can pick 60 stacks
+2nd | Mobius1 | Both TDMs, vulnerability are the key choices, unlock nexus ; can pick Dead from enhanced 
+2nd | Pardofelis1 | HP/SP cap up, both damage boost are the key choices, unlock nexus 
+Optional | Vill-V1 | 2 3 5 are the key choices, unlock nexus ; can also pick Griseo Red Yellow, Sakura vulnerability, TDM as reinforcement
 
 #->Sugary Starburst ulti<-
 ->![ssulti](https://i.imgur.com/s2hmIAP.png)<-

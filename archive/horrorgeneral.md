@@ -1,4 +1,4 @@
--> Last update: 2023-06-07 ->
+-> Last update: 2023-08-01 ->
 
 # /horg/ - Horror Games General 
 
@@ -279,8 +279,10 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [The Count Lucanor](https://store.steampowered.com/app/440880/The_Count_Lucanor/) [▶️](https://www.youtube.com/results?search_query=The Count Lucanor+gameplay)
 [The Crooked Man (Remake)](https://store.steampowered.com/app/736570/The_Crooked_Man/) & [Original](https://vgperson.com/games/crookedman.htm) [▶️](https://www.youtube.com/results?search_query=The Crooked Man+gameplay)
 [The White Chamber](https://lockeddoorpuzzle.itch.io/the-white-chamber) [▶️](https://www.youtube.com/results?search_query=The White Chamber+gameplay)
+[Who's Lila?](https://store.steampowered.com/app/1697700/Whos_Lila/)[▶️](https://www.youtube.com/results?search_query=who%27s+lila%3F+gameplay)
 [The Witch's House (Remake)](https://store.steampowered.com/app/885810/The_Witchs_House_MV/) & [Original](https://vgperson.com/games/witchhouse.htm) [▶️](https://www.youtube.com/results?search_query=The Witch's House+gameplay)
 [Torutaru](https://store.steampowered.com/app/1650250/ToruTaru/) [▶️](https://www.youtube.com/results?search_query=XXX+gameplay)
+[Voices of the Void](https://mrdrnose.itch.io/votv)[▶️](https://www.youtube.com/results?search_query=voices+of+the+void+gameplay)
 [Where They Cremate The Roadkill](https://store.steampowered.com/app/705610/Where_They_Cremate_The_Roadkill/) [▶️](https://www.youtube.com/results?search_query=Where They Cremate The Roadkill+gameplay)
 [White Day: A Labryinth Named School](https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/) [▶️](https://www.youtube.com/results?search_query=White Day: A Labryinth Named School+gameplay)
 [World of Horror](https://store.steampowered.com/app/913740/WORLD_OF_HORROR/) [▶️](https://www.youtube.com/results?search_query=World of Horror+gameplay) `Junji Ito-inspired RPG`

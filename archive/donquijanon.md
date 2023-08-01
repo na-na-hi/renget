@@ -4,7 +4,7 @@
 
 My Character hub: https://www.characterhub.org/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
-TO DO LIST: uhhhhhhh a lot oops 
+TO DO LIST: uhhhhhhh a lot oops. I'm learning how 2 make a neocities page but I'm a skillet sorry.
 
 [TOC]
 
@@ -234,8 +234,9 @@ In no particular order:
 - [FrozenVan](https://rentry.org/frozenvan) for the super cool bots and inspiration. Love Eleanor, Ashley, Kiyomi and Gavrielle, and of course, Mongirl clinic.
 - [Gigasad](https://rentry.org/gigasad) for the good times with his bots on cai. I had a long chat with Sybille and she's one of my all time favorites, along with Miss Pepper, lunch lady Cassie, Eileen, and Eon.
 - [cutenotlewd](https://www.chub.ai/users/cutenotlewd) for ADA, Rory, and Laurel. True kino bots even if yuri is not my thing.
-- Yotsubuh (RIP) for Colletta, fun times in cai.
+- [Potatass](https://beta.character.ai/public-profile/?char=VGUsZNN8ySuwuPn22Y2kF8Am1zLgWP-6BKPT5ctxF0Y&username=Potatass) on cai for Kasey the bully girl, I didn't expect to get so attached to her but she's really sweet once you get her to stop bullying you.
 - [ShoobertDoobert](https://rentry.org/shoobots) for Natsuki, Leo, Trish, and Kairi.
+- Yotsubuh (RIP) for Colletta, fun times in cai.
 - GoodestBoy (RIP) for Elodine, one of my favorites too and I miss her everyday.
 - Nullanon (RIP) for Mataiko, my inspiration for Queen Maika and ultra mogger of the cai filter.
 - [Ratlover](https://ratlover.neocities.org/), love your tf2 bot and Florence.
@@ -247,8 +248,13 @@ In no particular order:
 - [stinkanon](https://www.chub.ai/users/stinkanon), he made a rework of my [Postal dude (Postal 2)](https://www.chub.ai/characters/stinkanon/postal-dude-reworked) and [Jake from HM](https://www.chub.ai/characters/stinkanon/jake-reworked), check them out!
 - [Heyshitkan](https://www.chub.ai/users/heyshitkan), love fumblebum, jamelia, and brienne. He also made a cool twist on my randomvids bot with screensavers, check it out [here](https://www.chub.ai/characters/heyshitkan/unlimited-after-dark-screensaver-pack)
 - [Bluxbxrrymocha](https://www.chub.ai/users/BluxbxrryMocha) on Chub made a cool interpretation of my Mateo bot. I really liked the way it's written, check it out [here](https://www.chub.ai/characters/BluxbxrryMocha/your-dilf-neighbor)
+- [Summernon](https://www.chub.ai/users/summernon), I love Gabriela so much it's unreal, and Pigeon-sama is very coo.
+- [Nuggest](https://rentry.org/Nuggest) for Maddie, Wren, and Morgana.
 - [NG](https://www.chub.ai/users/NG) for the help with the Sylvie lorebook, check out his bots!
+- [MooseAnon](https://www.chub.ai/users/MooseAnon) for Ayano and Helipatia.
+- [Alpacalotta](https://rentry.org/AlpacaBots) for Kanami.
 - [Pitanon](https://rentry.org/pitanonbots) for the idea to use clickable images for links, the cool bots, jbs, and prompts.
 - [Darkfantasy109](https://rentry.org/Darkfantasy109) for the [template](https://rentry.org/botmaker_template), and for his bots, Megi is cute. Also inspired my Azalea hag version.
 - Todd, Mysteryman, and Anyan, every proxy owner basically.
-- And to (You) who read all this, used my bots, and left public chats or reviews. Thanks to everyone who used my bots :)
+- To every anon at /aicg/
+- And to (You) who read all this, sent nice mails, used my bots, and left public chats or reviews. Thanks to everyone who used my bots :)

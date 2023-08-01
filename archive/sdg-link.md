@@ -99,6 +99,24 @@ https://comfyanonymous.github.io/ComfyUI_examples/sdxl
 https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 https://github.com/SeargeDP/SeargeSDXL
 
+###SDXL resolutions
+SDXL support generating images at the following dimensions:
+
+1024 x 1024
+1152 x 896
+896 x 1152
+1216 x 832
+832 x 1216
+1344 x 768
+768 x 1344
+1536 x 640
+640 x 1536
+
+Taken from https://platform.stability.ai/docs/features/api-parameters
+
+###Training a LoRA for SDXL
+https://rentry.org/SDXL-Lora-Guide
+
 ###Download the SDXL v0.9 leak
 These models are now outdated with the release of v1.0 above.
 

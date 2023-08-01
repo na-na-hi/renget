@@ -1,4 +1,15 @@
 ▶NEW CLIPS
+>Broken window at IQ tower in Moscow after drone strike
+https://files.catbox.moe/df7ciq.mp4
+>BOBR strike on UA T-72
+https://files.catbox.moe/n6z1b5.mp4
+https://files.catbox.moe/w4b4iq.mp4
+>Lancet boinks mykorola transport
+https://files.catbox.moe/xznjaz.webm
+>Bradley hits mine, second ATGM'd, third nope's the fuck out
+https://files.catbox.moe/zkchnr.mp4
+>Navy Day parade in Vladivostok
+https://files.catbox.moe/khbicp.mp4
 >Fun time for tankers
 https://files.catbox.moe/4tbqhr.mp4
 >The vid that buckbroke r/ukraine

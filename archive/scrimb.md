@@ -66,7 +66,7 @@
 
 
 **Neferpitou UNNNNGNGHHHH:**
-[FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/v5w2pb.png
+[FUUUUUUUCKKKKKKK](https://beta.character.ai/chat?char=PxK3pcpq2bINo7oko3_io_77lWskWv4JPJGPUBUi090) https://files.catbox.moe/081nti.png
 https://www.characterhub.org/characters/brsc/Neferpitou/
 
 **Misc. Bots not worth mentioning:** 
