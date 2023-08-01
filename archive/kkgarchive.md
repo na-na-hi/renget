@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 01.08.2023 16:30 UTC]
+[Last Updated: 01.08.2023 22:30 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7508935/](https://boards.4chan.org/h/thread/7508935/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 615&nbsp;&nbsp;[archiveofsins.com/h/thread/7508935/](https://archiveofsins.com/h/thread/7508935/)&nbsp;&nbsp;&nbsp;&nbsp;(01.08.2023 09:33)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Big Tobacco Edition
 - 614&nbsp;&nbsp;[archiveofsins.com/h/thread/7505071/](https://archiveofsins.com/h/thread/7505071/)&nbsp;&nbsp;&nbsp;&nbsp;(30.07.2023 05:30)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Bekinski Public Library Edition
-- 613&nbsp;&nbsp;[archiveofsins.com/h/thread/7501587/](https://archiveofsins.com/h/thread/7501587/)&nbsp;&nbsp;&nbsp;&nbsp;(28.07.2023 02:01)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Commando Classroom Edition
+- 613&nbsp;&nbsp;[archiveofsins.com/h/thread/7501587/](https://archiveofsins.com/h/thread/7501587/)&nbsp;&nbsp;&nbsp;&nbsp;(28.07.2023 02:01)&nbsp;&nbsp;[980]&nbsp;#&nbsp;Commando Classroom Edition
 - 612&nbsp;&nbsp;[archiveofsins.com/h/thread/7498095/](https://archiveofsins.com/h/thread/7498095/)&nbsp;&nbsp;&nbsp;&nbsp;(25.07.2023 15:52)&nbsp;&nbsp;[959]&nbsp;#&nbsp;too tired to be witty Edition
 - 611&nbsp;&nbsp;[archiveofsins.com/h/thread/7494516/](https://archiveofsins.com/h/thread/7494516/)&nbsp;&nbsp;&nbsp;&nbsp;(23.07.2023 11:52)&nbsp;&nbsp;[1112]&nbsp;#&nbsp;Flustered Bulb Edition
 ---

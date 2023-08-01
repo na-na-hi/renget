@@ -25,6 +25,7 @@ https://www.nexusmods.com/baldursgate3/
 \>No 72h early access for pre-orders
 \>Swen was interviewed by streamers and revealed some new info, a summary of what was said can be found here: https://rentry.org/bgg_swenstreaminfo
 \>Community Update #22 is out: https://store.steampowered.com/news/app/1086940/view/3655285307835439472
+\>Larian recommends uninstalling the EA and deleting your saves at "%localappdata%\Larian Studios\Baldur's Gate 3\PlayerProfiles\" before playing the full game.
 
 \>Polls:
 \>Romance: https://strawpoll.com/NMnQ5kJXYn6

@@ -659,6 +659,8 @@ Mutants:
 >>89604815
 >Subject 2285-J
 >>89681858
+>Bad Mama Dahmer (A.K.A. Jaqualine Dahmer)
+>>89776605
 
 Robots:
 >H0P3
@@ -809,7 +811,7 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >Lona Willow (Half-Elf Black Mage)
 >>89695513
 >August (Human Rogue)
->>89679186
+>>89780609
 >Caniara (Demon Herolike)
 >>89681500
 >Ugoki Ayagi (Demi-Human Magic Knight)

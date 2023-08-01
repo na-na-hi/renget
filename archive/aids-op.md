@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/ZwHu7ij.jpg)
-Tfw Beaks Edition
+![suggested OP image](https://imgur.com/Zv6nZmJ.jpg)
+Superterpe When Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>439884770
+Last thread: >>440272983
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,9 +33,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Concoct prompts about next week's theme, Potions/Alchemy Friday! >>439632358!
+Concoct prompts about this week's theme, Potions/Alchemy Friday!
  
 ▶News
+(7/31) NAI fixed their GPUs probably
 (07/28) Evals score Kayra higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
 (07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100.
 (07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama

@@ -11,6 +11,7 @@ Dr. Acheron (Mutant): archive.4plebs.org/tg/post/89427276
 #### Hillfolk Country
 Sir Philippe Dubois of New Orleans (Settlement Survivor): https://archive.4plebs.org/tg/post/89440740
 Squire Marie Lonelle (Settlement Survivor): https://archive.4plebs.org/tg/post/89470571 
+Bad Mama Dahmer (Mutant): https://desuarchive.org/tg/thread/89769197/#q89776605
 #### Southern Wastes (Highway Patrol + Trailer Park)
 Dr. Charles Crane (Settlement Survivor): https://archive.4plebs.org/tg/post/89380403
 Mike the Driver (Settlement Survivor): https://archive.4plebs.org/tg/post/89398967

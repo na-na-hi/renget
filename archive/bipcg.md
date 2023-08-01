@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Interview with tank commander who solo'd a column of hohols
+https://files.catbox.moe/ix0t3t.mp4
+>IRIS-T launcher destroyed by Lancet
+https://files.catbox.moe/buhauo.mp4
+>North Korea Russian/Soviet music concert
+https://files.catbox.moe/6i0ysf.mp4
 >Broken window at IQ tower in Moscow after drone strike
 https://files.catbox.moe/df7ciq.mp4
 >BOBR strike on UA T-72

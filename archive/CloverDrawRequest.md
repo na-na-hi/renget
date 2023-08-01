@@ -26,7 +26,6 @@
 1. Nick, Macom, and Booker studying Porygon 
 1. Smith and Sneasel sparring 
 1. Clara relaxing with other guildmons 
-1. [This](https://files.catbox.moe/v82nhp.jpg) with Kaiji
 1. A bunch of Macom jumping over a fence
 1. Toge and Dewott as [this](https://files.catbox.moe/07tvv0.png)
 1. Toge doing the Travis Touchdown "Moe~" moment but saying "Cozy~" and with a poster of Team Cozy instead
@@ -124,6 +123,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[This](https://files.catbox.moe/v82nhp.jpg) with [Kaiji](https://cloverguild.com/booru/post/653)
 
 [A fake ID in the style of https://files.catbox.moe/693vdt.jpg with one member of Team Cozy](https://cloverguild.com/booru/post/625)
 

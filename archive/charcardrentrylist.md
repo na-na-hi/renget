@@ -24,7 +24,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Tallula](https://files.catbox.moe/vhowku.png), [Helix](https://files.catbox.moe/bdq998.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Cervina](https://files.catbox.moe/lv74nt.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Jane Madden](https://files.catbox.moe/ugs9rx.png), [Jiko.eth](https://files.catbox.moe/bidmxj.png), [Cap'n Pippin](https://files.catbox.moe/ijyyxk.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Marlin](https://files.catbox.moe/sz679h.png), [Gulliver](https://files.catbox.moe/pxv5o0.png), [Gunter](https://files.catbox.moe/4w6atb.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Marlin](https://files.catbox.moe/sz679h.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Lily](https://files.catbox.moe/1mixl4.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png)|[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png)|[Neferpitou](https://files.catbox.moe/081nti.png)

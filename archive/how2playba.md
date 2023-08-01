@@ -1,8 +1,10 @@
 # /bag/ Newfag guide
 
-![stop asking](https://i.imgur.com/NVzqzgP.png)
-How to play the game for the completely retarded. Not just a reroll guide. 
-Scroll to the bottom for my last edit date.
+Yes, you get the 100 rolls even if you start after the 1st day 
+No, you can't save them for later. 
+You also missed Mika, yes. 
+
+How to play the game for the completely retarded. Not just a reroll guide. Scroll to the bottom for my last edit date.
 
 [TOC] 
 
@@ -51,12 +53,6 @@ You can always switch emulators if nothing works.
 >I'm getting "Server failed to process request. Returning to title screen.", what do I do?
 Certain countries are blocked from playing Blue Archive, hop on a VPN if you are in one.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
-
-## Banner Guide 
-[/bag/ guide](https://i.imgur.com/8kBklFD.jpeg)
-Last update: 16/07/23
-
-[Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#) 
 
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
@@ -132,6 +128,12 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 >Is there a good planner for banners?
 https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/
 Read the yellow highlighted text. 
+
+## Banner Guide 
+[/bag/ guide](https://i.imgur.com/8kBklFD.jpeg)
+Last update: 16/07/23
+[Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
+[stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.

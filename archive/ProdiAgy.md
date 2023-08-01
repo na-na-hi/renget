@@ -5,7 +5,7 @@
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> Nobody believed but me. <-
 
-!!! warning Fixed iA3: Guide is now completely correct and my CivitAI uploads will be updated hopefully by the end of today if I got time.
+!!! info Folder name captions are now working. Prodigy has been calibrated to iA3. All settings have been corrected. The most glorious results will be up on CivitAI soon.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED SOON)](https://civitai.com/user/ia3forchads/models) <-
 ### -> WAIT FOR MY CIVITAI UPLOADS TO BE UPDATED AND CHECK THEIR METADATA TO SEE WHAT I PERSONALLY DO, I WILL UPDATE THOSE SOON WHEN I HAVE TIME. <-
@@ -18,59 +18,63 @@
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: d_coef until LR good & train_on_input true/false -\> weight_decay 0.0-0.3 -\> OPTIONAL: min_snr_gamma 0 or 1-10 -\> OPTIONAL: clip_skip 1-3*== <-
+### -> ==*TL;DR: train_on_input true/false -\> OPTIONAL: d_coef if not in range -\> OPTIONAL: weight_decay 0.0-0.3 (very rare) -\> OPTIONAL: min_snr_gamma 1-10 -\> OPTIONAL: t_max 400-800 if very small dataset*== <-
 ###Instructions:
 !!! danger Do not sample previews. Completely useless and a waste of time. You should instead learn the graphs within Tensorboard. Once you get a feel for those you'll only need a glance at them to see if it looks good or not.
-!!! danger ```Set repetitions to 1 and leave epochs as I set it. Set only t_max to the total steps you want (recommend leaving it on 1200) and wait for the scheduler to reach eta_min (default 0) then stop training. You'll notice on an iA3 that you already finished training anywhere between step 100-1200. Alternatively you can keep going after reaching eta_min as the scheduler will gradually build back up and restart, you can call these scheduler cycles.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps.
+!!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only t_max to the total steps you want (recommend leaving it on 1200 for normal datasets or 400-800 for very very small datasets (as low as 8 images even)) and wait for the scheduler to reach eta_min (default 0) then stop training. You'll notice on an iA3 that you already finished training anywhere between step 100-1200. Alternatively you can keep going after reaching eta_min as the scheduler will gradually build back up and restart, you can call these scheduler cycles.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps.
 !!! note ```Results never get bad over more steps as the way I've set it it overtrains at the very start then decays to normal each scheduler cycle.``` This way you could even train for the entirety of those 31337 epochs and still have a good result. ```It is only a matter of variation/personal preference rather than overtraining.```
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger ==IMPORTANT:== ```Default d_coef is 1.0 (0.2-2.0), it scales the d\*lr (iA3 recommended between 0.006-0.008) for Prodigy.``` You adjust this to correct your initial LR for iA3.
-!!! danger  ==IMPORTANT:== ```weight_decay is very recommended for styles and small datasets.``` Recommend 0.0 - 1.0 depending on how blended in / dulled / regularized you want it to look. Start without and adjust min_snr_gamma instead, if that doesn't do it use weight_decay.
-!!! note Odd datasets (monochrome, pixel, etc.) require higher weight_decay in general. ```0.6 - 1.0 can be good for said minimalistic artstyles/simple characters where you want to adapt the dataset; 0.0 - 0.3 is good for a vast majority of datasets where you wanna keep details (ex: a Transformer with its metal plates), just make sure your LR is higher to compensate. 0.2 is best 99% of times, just adjust d_coef instead.```
-!!! danger ==OPTIONAL:== Adjust ```min_snr_gamma if you don't get your desired result.``` Recommend leaving on 0 first (disabled/20+) then adjusting between 1 - 10: Lower learns faster and favors texture without structure, it also can lower or increase d\*lr. Higher learns slower and includes structure, it also can lower or increase d\*lr. Compensate.
-!!! danger ==OPTIONAL:== ```Different training Clip Skip affects Prodigy's LR a lot. Adjust other settings to compensate, mainly min_snr_gamma and weight_decay, or change clip_skip.```
-!!! note Some structure may be better for small datasets or unusual features on characters which the main model won't recognize with too low of a min_snr_gamma. Normal human-like characters don't need structure unless you want some slight stylization added to them from the dataset. 
-!!! note Too much texture learnt too fast can produce slight artifacts on the subject which are easily noticeable, to fix just increase min_snr_gamma or slightly adjust weight_decay.
-!!! danger  ```Regularization is never recommended with iA3. You already do enough with just Prodigy's d_coef calibration, weight_decay and min_snr_gamma.```
+!!! danger ==OPTIONAL:== ```Default d_coef is 1.0 (0.1-2.0), it scales the d*lr (iA3 recommended initial LR anywhere inbetween 0.006-0.008) for Prodigy.``` You can adjust this to correct your initial LR for iA3 for it is not needed in a vast majority of scenarios.
+!!! danger  ==OPTIONAL:== ```weight_decay is very recommended for styles and small datasets.``` Recommend 0.0 - 1.0 depending on how blended in / dulled / regularized you want it to look. ```What it is set to in the .json is what I believe to be the most optimal value in a very vast majority of scenarios.```
+!!! note Odd datasets (monochrome, pixel, etc.) require higher weight_decay in general. ```0.6 - 1.0 can be good for said minimalistic artstyles/simple characters where you want to adapt the dataset.```
+!!! danger ==OPTIONAL:== Adjust ```min_snr_gamma if you don't get your desired result.``` Recommend leaving on 1 first then adjusting up to a maximum of 10: Lower learns faster and tends to prevent overtraining (weight_decay is still needed), it also can lower or increase d\*lr. Higher learns slower, it also can lower or increase d\*lr. Compensate.
+!!! danger  ```Regularization is never recommended with iA3. You already do enough with just Prodigy's choice of LR, weight_decay and min_snr_gamma.```
 !!! info Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! info Change ```caption_extension to .txt if using captions files.``` (```Not recommended for iA3.``` Unnecessary.)
 !!! note ==OPTIONAL:== Set ```resolution higher if you want to, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning Clear ```seed``` if you don't want determinism.
-### -> ==*TL;DR: d_coef until LR good  & train_on_input true/false -\> weight_decay 0.0-0.3 -\> OPTIONAL: min_snr_gamma 0 or 1-10 -\> OPTIONAL: clip_skip 1-3*== <-
+### -> ==*TL;DR: train_on_input true/false -\> OPTIONAL: d_coef if not in range -\> OPTIONAL: weight_decay 0.0-0.3 (very rare) -\> OPTIONAL: min_snr_gamma 1-10 -\> OPTIONAL: t_max 400-800 if very small dataset*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
   "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1200\" \"eta_min=0.000\"",
+  "cache_latents": true,
+  "cache_latents_to_disk": true,
+  "caption_dropout_every_n_epochs": 0.0,
+  "caption_dropout_rate": 0,
   "caption_extension": ".none-use-foldername",
   "epoch": 31337,
-  "gradient_accumulation_steps": 1,
+  "gradient_accumulation_steps": 1.0,
+  "gradient_checkpointing": false,
   "keep_tokens": 0,
-  "learning_rate": 50.0,
+  "learning_rate": 10.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "75",
-  "min_snr_gamma": 0,
+  "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.999\" \"d0=1e-6\" \"d_coef=1.0\" \"weight_decay=0.200\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-5\" \"d_coef=1.0\" \"weight_decay=0.200\" \"safeguard_warmup=False\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
   "save_every_n_steps": 100,
-  "save_last_n_steps": 0,
   "save_model_as": "safetensors",
   "scale_weight_norms": 0,
   "seed": "31337",
   "shuffle_caption": false,
-  "text_encoder_lr": 1.0,
+  "stop_text_encoder_training": 0,
+  "text_encoder_lr": 10.0,
   "train_batch_size": 1,
   "train_on_input": false,
   "training_comment": "rentry.co/ProdiAgy",
-  "unet_lr": 50.0,
+  "unet_lr": 10.0,
+  "weighted_captions": false
 }
 ```
 !!! danger ```max_token_length affects Prodigy's LR, keep on 75 as you won't be needing more than 75 if you're going captionless folder names as recommended.```
-!!! danger ```Default d0 is 1e-6, it sets the initial LR for Prodigy.``` Don't touch this and let Prodigy calibrate to its own LR over t_max.
+!!! danger ```Default d0 is 1e-6.``` Don't change this from what I set it.
+!!! danger ```Default eps is 1e-8.``` Don't change this from what I set it.
 !!! note ```eta_min``` is the lowest point at which your cosine scheduler will drop its LR strength. Basically ```scales Y axis on your UNET and TE tensorboard graphs.``` ```There is not a need to touch it unless you want to complicate yourself by changing multiple other values``` to go along with it. I won't teach you how to go on that path.
 !!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary. Prodigy should calibrate itself instead.)
 

@@ -26,7 +26,7 @@ Now that you have downloaded the bot and the expression pack. Go to your Silly T
 ##Step 3: Opening the Extensions Colab
 Now that we have the bot and the expressions are loaded and matched with it we need to run SillyTavern's extensions.
 To get a link use the link below OR click on the link pictured below.
-link: ![Extension Colab page](https://colab.research.google.com/github/SillyTavern/SillyTavern/blob/main/colab/GPU.ipynb)
+link: [Extension Colab page](https://colab.research.google.com/github/SillyTavern/SillyTavern/blob/main/colab/GPU.ipynb)
 If you don't use the link above below is a Guide on where to click inside Silly to get to the same place.
 
 Step 1: ![Extension Link](https://i.imgur.com/iRGcBHw.jpg)

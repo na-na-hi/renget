@@ -31,6 +31,7 @@ Knowledge is power, and free knowledge is great.
 
 ##Rendering APIs and the GPU
 
+* [GetIntoGameDev's Vulkan playlist](https://youtube.com/playlist?list=PLn3eTxaOtL2NH5nbPHMK7gE07SqhcAjmk): Video series in C++ that goes through and explains concepts.
 * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems3/contributors): Nvidia's free online book containing a large variety of topics such as N-body and fluid simulation, volumetric light scattering, and AES encryption. 
 * [Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/): Short article by Nathan Reed.
 * [Inigo Quilez's Shadertoy page](https://www.shadertoy.com/user/iq) : Includes raymarching, Mike Wazowski, and more.
