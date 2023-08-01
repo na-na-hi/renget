@@ -14,7 +14,7 @@
 
 #---Tumbleclan---
 
-![tumbleclan part 1](https://imgur.com/ulGkMMl.png)
+![tumbleclan part 1](https://imgur.com/bGXQaVV.png)
 (WIP)
 
 #---Redclan---

@@ -23,6 +23,13 @@ Think of it like saving work down the road on concepts you plan to use often; Wh
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
 
+- | My personal presets:
+------ | ------
+Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
+Kayra   | [Truthfully v1 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1135748105875226726/Truthfully-1-kayra_pume.preset)
+Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
+| *(Enabling Dynamic Range will break the preset.)*
+
 ##Basics
 To open Lorebook in the first place -> click the **📕 button**, or **\[Search for an entry]** in the right tab, or *ALT + L* on desktop.
 Click **\[➕ Add Entry]** to create a new entry:

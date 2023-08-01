@@ -304,6 +304,20 @@ Biography generated!
 ###Stumpy
 [See Linked](https://rentry.org/StumpyOrigin)
 
+###Tropius
+Male Tropius, Quirky/Serious
+> Somewhat serious personality. Not a stick in the mud, but his default is being the straight man. Likes to be helpful to others.
+> Is very tired of all the baneposting at his expense
+> Still unaccustomed to his body, cannot fly or use special moves like Magical Leaf or Air Cutter yet
+> Too big to easily manuever around the guild, sleeps in a lean-to outside the guild instead.
+> Sticks his head in through windows typically if he needs to be "in" a room. Main lobby area is large enough to easily fit him and is the exception
+> His comparative size and inability to fit inside the guild easily leaves him feeling isolated
+> Overexposure to direct sunlight or prolonged lack of sun/moonlight causes his personality to change unwillingly which he hates and tries to avoid
+>- Too much sun and he becomes a jovial, overly positive man child
+>- Too little sun and he becomes a depressed, unmotivated doomer
+
+> Despite all this he's trying to do what he can to make his situation better, taking guild life one day at a time
+
 ###Nida/Pochi
 Pochi 
 Male Poochyena, Naive/Relaxed
@@ -327,6 +341,10 @@ Loves sleeping and eating.
 Currently in conflict with her old Gang, as she was doublecrossed for her part of the money.
 She can keep her cool when in dangerous situations, thanks to living on the run for so long.
 She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
+
+###Cheesecake/Apple
+Cheesecake's held item is a Lucky Ribbon worn as a scarf.
+Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Her held item is a Pecha Scarf.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/vnrgo
@@ -530,41 +548,3 @@ Least Favorite:
 
 ###Psyduck
 >a psyduck with epilepsy that has to sleep and rest a lot more than the average pokemon but i can contribute incredible energy. Kinda punk but also sweet. And extremely, extremely broke
-
-###Pochi 
-Male Poochyena, Naive/Relaxed
-He is young and carefree, which often leads to him being easily tricked.
-He is looking for a place to belong, as his family doesn't care for him.
-Gets lost easily, and has a poor sense of direction.
-He has a great sense of smell, sometimes to his dismay.
-Loves singing.
-He has an enemy in common with Nidorina, the Rabid Gang
-He thinks he is weak, so avoids fights and confrontation as much as possible.
-It's common to see him teaching songs to Nida, which he thinks is a good bonding exercise.
-He is currently working for the police as a Rehabilitation Assistant, Nida being his first case.
-
-###Nida
-Female Nidorina, Gentle/Calm
-She tends to take stuff without asking.
-She is lazy and tends to procrastinate a lot.
-Has been spending the last couple of years in Jail, after being caught in the middle of a heist.
-She can be a lot more proactive if the prospect of money is involved.
-Even though she was part of the Rabid Gang for as long as she remembers, she has no attachment to them, as she was merely a tool for the criminals.
-Loves sleeping and eating.
-Currently in conflict with her old Gang, as she was doublecrossed for her part of the money.
-She can keep her cool when in dangerous situations, thanks to living on the run for so long.
-She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
-
-###Tropius
-Male Tropius, Quirky/Serious
-> Somewhat serious personality. Not a stick in the mud, but his default is being the straight man. Likes to be helpful to others.
-> Is very tired of all the baneposting at his expense
-> Still unaccustomed to his body, cannot fly or use special moves like Magical Leaf or Air Cutter yet
-> Too big to easily manuever around the guild, sleeps in a lean-to outside the guild instead.
-> Sticks his head in through windows typically if he needs to be "in" a room. Main lobby area is large enough to easily fit him and is the exception
-> His comparative size and inability to fit inside the guild easily leaves him feeling isolated
-> Overexposure to direct sunlight or prolonged lack of sun/moonlight causes his personality to change unwillingly which he hates and tries to avoid
->- Too much sun and he becomes a jovial, overly positive man child
->- Too little sun and he becomes a depressed, unmotivated doomer
-
-> Despite all this he's trying to do what he can to make his situation better, taking guild life one day at a time

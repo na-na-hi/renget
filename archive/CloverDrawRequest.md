@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. This https://www.youtube.com/watch?v=RzZaKvhJNiU with Chespin holding an Oran Berry replacing Shadow, and Toge giving a thumbs up in the background. Maybe a KO'd Cyndaquil in the background.
 1. Boss Chiller https://files.catbox.moe/8pv2ws.jpg with Debby and Linoone as the sherrif and deputy, with pelippers being blown up in the background
 1. Fynn as that police dog from Paw Patrol
 1. Guildmons being pet!
@@ -38,7 +39,6 @@
 1. Phanpy's desk 
 1. Ross babysitting several babymons
 1. Beast drawn like King Harkinian
-1. A fake ID in the style of https://files.catbox.moe/693vdt.jpg with one member of Team Cozy
 1. Alakazam holding a klan rally with ice types
 1. KFC, as a Blaziken, wearing [this suit (Colonel Sanders)](https://files.catbox.moe/qia470.jpg).
 1. Chespin and Wooper sharing ice cream
@@ -124,6 +124,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[A fake ID in the style of https://files.catbox.moe/693vdt.jpg with one member of Team Cozy](https://cloverguild.com/booru/post/625)
 
 [Princess Wooper](https://arch.b4k.co/vp/thread/54121838/#54136878)
 

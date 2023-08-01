@@ -12,12 +12,19 @@ The best method is in the first section, that's what I recommended everyone do; 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
 
+- | My personal presets:
+------ | ------
+Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
+Kayra   | [Truthfully v1 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1135748105875226726/Truthfully-1-kayra_pume.preset)
+Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
+| *(Enabling Dynamic Range will break the preset.)*
+
 ##Context
 
 Do you sometimes have the AI make random actions that doesn't make sense to you? It... was going well at first! But now, the AI doesn't seem to exactly know what is going on.
 If you are used to this, you would assumed that this is just the way of the AI. *Ugh, I wish the AI would performed better.*
 
-But no! This is almost certainly because the context window passed by the good part, aka the stuff you had established in the story started falling out of context.
+But no! This is almost certainly because the context window passed by the good part, aka the stuff you had established in the story started falling out of context. (You can check current context.)
 So, we will fix this by telling the AI about what's going on, for example:
 
 > \----

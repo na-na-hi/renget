@@ -369,9 +369,11 @@
 ***
 #### -> Amano Pikamee <-
 !!! warning  DO NOTE THIS IS A LYCORIS/LOCON SO YOU WILL HAVE TO USE THE LYCORIS EXTENSION https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris OR UPDATE TO SD 1.5.0 
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7 / 0.7 / 0.8
 !!! info Example Prompt
-	
+	Normal: (normpika, white pupils, green eyes, hair between eyes, short hair, green hair, blonde hair, multicolored hair, hairband, off shoulder, off-shoulder shirt, black hairband, white shirt, sharp teeth, black shorts, nail polish, aqua nails, wide sleeves)
+	Dino: (dinopika, green hoodie, sharp teeth, hood, blonde hair, tail, green hair, multicolored hair, white pupils, nail polish, green eyes, green nails, hair between eyes, twintails, long sleeves, hood up, bangs)
+	Isekai: (isekaipika, blonde hair, green eyes, multicolored hair, green hair, hair bun, long sleeves, two-tone hair, hairband, double bun, hair ornament, streaked hair, green shirt, two side up, bow, dress, puffy sleeves, frills, green dress, star hair ornament, skirt, shirt, black hairband)
 -> [MEGA](https://mega.nz/folder/uZBBmIqQ#N6MYzNgBc-RHI_iunjahdA/folder/TMJwHTLY) <-
 
 !!! warning THE LINK IS THE SAME FOR EVERYONE BELOW, SINCE ITS A FULL AGENCY LORA (probably possible to get pikamee as well, unsure though)
@@ -382,15 +384,15 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/5W4hVIoJ) <-
 
 #### -> Hikasa Tomoshika <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.6
 !!! info Example Prompt
-	???
+	(hikasa tomoshika, white belt, blue shorts, white crop top, hoodie, hood down, long sleeves, midriff, multicolored hair, red hair, blonde hair, orange eyes, puffy sleeves, navel, sandals, twintails)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/5W4hVIoJ) <-
 
 #### -> Haneuzu Miuneru <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	???
+	(haneuzu miuneru, blue eyes, blue hair, blue skirt, colored inner hair, gloves, multicolored hair, white shirt, white footwear, white hair, white gloves)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/5W4hVIoJ) <-
 
 ### -> 774 inc <-
@@ -418,18 +420,19 @@
 -> ![EIEN](https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/EIEN-Project-YT-Logo.jpg/revision/latest?cb=20230329010957) <-
 ***
 #### -> Riifu Evergreen <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	(riifu evergreen, bare shoulders, dress, elf, pointy ears, blue eyes, green hair, hair ornament, midriff, pelvic curtain, ahoge, long hair, necklace, head wreath, shawl, body markings)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/sG5hTTKK) <-
 
 ### -> VSPO! <-
 -> ![VSPO](https://static.wikia.nocookie.net/virtualyoutuber/images/8/87/VSPO_new_logo-global.png/revision/latest?cb=20221231165119) <-
 ***
 #### -> Ichinose Uruha <-
-!!! note Recommended weight: ?
+!!! info Contains all outfits
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	(aauruha, long hair, multicolored hair, black choker, white hoodie, hood down, green jacket, open jacket, bottomless)
 -> [Civitai](https://civitai.com/models/104059/ichinose-uruha-vspo) <-
 
 ### -> Indies <-
