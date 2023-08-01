@@ -31,3 +31,4 @@ Name|Link|Descrption
 -------|-------|-------
 Guranons Guide about how to fix the looping issue (Might be Outdated/not work anymore)|[Link](https://rentry.org/Guranon_Looping_Issue_Fix)|
 Guranons Guide about how to fix the looping issue (Post ver 1.1 Update) - (Might be Outdated/not work anymore)|[Link](https://rentry.org/Guranon_Looping_Issue_Fix_1_Point_1_Update)|
+/wAIfu/ IRC Channel: |[Link](IRC LINK HERE)|

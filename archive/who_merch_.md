@@ -11,6 +11,9 @@ https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 **Hololive Starting Voices**
 https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 
+**4th Fes Blu ray**
+https://bushiroad-music.com/musics/hoxb-10013
+
 >**HoloSummer**
 - - -
 Splash Party Online Concert (26 & 27th August, 2000 JST)

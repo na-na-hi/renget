@@ -66,7 +66,15 @@ Part of HoloSummer's events. Daily shorts are uploaded to each holomem's channel
 -> [No Sleep・・・！#ホロサマshorts #hololivesummer2023](https://www.youtube.com/watch?v=r0P892jEXPw) <-
 ->[![](https://files.catbox.moe/vg2gvp.jpg)](https://www.youtube.com/watch?v=r0P892jEXPw)<-
 
+###preYdator Shorts
+->![https://twitter.com/nanashimumei_en/status/1686212395805585408](https://files.catbox.moe/8smn3n.jpg)<-
+Mumei and Bae will upload shorts throughout summer. Below are the list of short by the perspective channels they are hosted on.
+|Date|Mumei|Bae|
+|------|------|-----|
+|31-07-2023|[queens](https://www.youtube.com/watch/ue7AfwJ8DwQ) |[lil rat n owl](https://www.youtube.com/watch/QL_hf-yaXLE)|
+
 ###HoloSummer related streams
 | Date | Title | Link | Nature |
 |------|-----|-----|-----|
 |01-07-2023 | Peace Love Moom  |[![](https://files.catbox.moe/5vvfzh.jpg)](https://www.youtube.com/watch?v=lirlhV8zSnY) | Zatsu and first use of her 3D Yukata. Just before Connect. Silly gestures and stuffs.|
+|31-07-2023| 【VOICE CHALLENGE】in the same room? 💙🤎 #gumei |[![](https://files.catbox.moe/vavtve.jpg)](https://www.youtube.com/watch?v=k7dTnCl2pVA )|First use of her 3D swimsuit model.|

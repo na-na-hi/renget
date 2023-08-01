@@ -265,7 +265,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Akari Kito 鬼頭明里**|Akarin|Oct. 16, 1994|[Official site](https://kitoakari.com/) / [Agency site](https://www.raccoon-dog.co.jp/talent/r09-kitou.html) / [Twitter](https://twitter.com/kitoakari_1016) / [Instagram](https://www.instagram.com/akarikito1016/) / [Twitter](https://www.youtube.com/@KitoAkari_Official)|[📷](https://www.raccoon-dog.co.jp/talent/talentpic/r09.jpg)
 **Coco Hayashi 林鼓子**|Koko-chan, Hayamaru|May 15, 2002|[Official site](https://hayashicoco.com/) [Agency Site](https://mittma.com/profile/coco_hayashi/) / [Instagram](https://www.instagram.com/coco_hayashi.official/ ) / [Twitter](https://mobile.twitter.com/cocohayashi515) / [==(Former agency site)==](https://archive.is/ZbOts) |[📷]()
 **Maria Sashide 指出毬亜**|Chunrun, Chun|Sept. 20, 1998|[Agency website](https://withline.jp/talent/maria_sashide) / [Twitter](https://twitter.com/sashide_m) / [Instagram](http://instagram.com/mariasashide_)|[📷]()
-**Chiemi Tanaka 田中ちえ美**|Chiemi, Tanaka~a|October 6, XXXX ==[1]==|[Official site](https://nacherry.jp/) / [Agency site](https://stay-luck.com/talent/tanaka-chiemi/) / [Twitter](https://twitter.com/t_chiemi1006) / [Ameblo](https://ameblo.jp/tanaka-chiemi06/)|[📷]()
+**Chiemi Tanaka 田中ちえ美**|Chiemi, Tanaka~a|October 6, 1994 ==[1]==|[Official site](https://nacherry.jp/) / [Agency site](https://stay-luck.com/talent/tanaka-chiemi/) / [Twitter](https://twitter.com/t_chiemi1006) / [Ameblo](https://ameblo.jp/tanaka-chiemi06/)|[📷]()
 **Moeka Koizumi 小泉萌香**|Moepii, Pippi|Feb. 27, 1996|[Agency website](https://www.amuse.co.jp/artist/A8700/) / [Twitter](https://twitter.com/k_moeka_) / [Instagram](https://www.instagram.com/moeka_koizumi_/)|[📷]()
 **Shu Uchida 内田秀**|Shuushuu|May 24, 1996|[Agency site](https://www.just-pro.jp/talent/voice-actor/uchida_shu/) / [Twitter](https://twitter.com/uchida_shu0524) / [Instagram](https://www.instagram.com/shushu.524/) / [YouTube](https://www.youtube.com/channel/@ShuUchidaShuTube)|[📷]()
 **Akina Homoto 法元明菜**|Homin, Minmin|Aug. 5, 1996|[Agency site](https://www.just-pro.jp/talent/voice-actor/homoto_akina/) / [Official site](https://homoto-akina.com/) / [Twitter](https://twitter.com/homoto_akina) / [YouTube](https://www.youtube.com/channel/@akinasanchi) / [Weibo](https://weibo.com/u/6892466160)|[📷]()
@@ -278,7 +278,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 
 **Note:**
 - ==[1]== Chiemi Tanaka's birth year is not revealed to the public (despite Google analytics erroneously suggesting that she was born in 1997), however allegedly leaked academic documents from her junior high school track and field records reveal that she was indeed born in 1994. [source from 5ch thread](https://fate.5ch.net/test/read.cgi/lovelive/1541687063/?v=pc) [leaked docs](http://web.archive.org/web/20131009130358/http://plaza3.dws.ne.jp/~aklahori127/k-19shizukani2.htm)
-- ==[2]== Tomori Kusunoki was a former member up 03.25.2023 where she had earlier announced that she'll be stepping down from the role months prior due to her lately disclosed [health condition](http://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndromes). Right now she is now focused on her solo VA career as well as her  solo singer-songwriter artist career under the SACRA MUSIC label.
+- ==[2]== Tomori Kusunoki was a former member up until 03.25.2023 where she earlier announced her departure from role months prior due to her   [health condition](http://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndromes). Right now she is solely focused on her solo VA career.
 
  
 ###✨✨ Liella! Seiyuu ✨✨
@@ -289,7 +289,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Liyuu 黎狱/Li Jia 李嘉** |Liyuu, Li-chan|January 9, 1997|[Official website](https://liyuu0109.com/) - [Ameblo](https://ameblo.jp/liyuu0109) - [Twitter](https://twitter.com/Liyu0109) - [Instagram](https://www.instagram.com/koi_liyuu/) - [Youtube](https://www.youtube.com/@liyuuchannel) - [LINEBLOG](https://archive.is/8Hhzn)|[📷](https://lain.bgm.tv/pic/crt/l/03/90/35786_prsn_S1766.jpg?r=1628654423)
 **Naomi Payton ペイトン尚未**|Paychan, Peiko, Pei|July 1, 2003|[Agency website](https://www.sma.co.jp/s/sma/artist/492?ima=0000) / [Twitter](https://twitter.com/_Naomi_Payton_) / [Instagram](https://www.instagram.com/_naomi_payton_) / [YouTube](https://www.youtube.com/@NaomiPayton_official)| [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
 **Nagisa Aoyama 青山なぎさ**|Nagichan, Nagisa|May 16, 1998|[Agency website](https://apollobay.jp/talent/青山なぎさ/) - [Twitter](https://twitter.com/AoyamaNagisa) - [Instagram](https://www.instagram.com/aoyamanagisa_official/) - [TikTok](https://www.tiktok.com/@aoyama_nagisa_official) | [📷](https://apollobay.jp/wp-content/uploads/43ca930a28b03d75acdb03705a494895-scaled.jpg)
-**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1998 ==[1]== ==[2]==|[Artist website](https://lantis.jp/misakinako/) / [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) / [Twitter](https://twitter.com/MisakiNako_) / [Line](https://page.line.me/124ydyji ) / [YouTube](https://www.youtube.com/@MisakiNako_Lantis/) |[📷](https://holypeak.com/wp-content/uploads/2021/01/-2-e1674183742547.jpg) / [instagram](https://www.instagram.com/misakinako_/)
+**Nako Misaki 岬なこ**|Nakonako, Nako-chan, Nako|May 16, 1999 ==[1]== ==[2]==|[Artist website](https://lantis.jp/misakinako/) / [Agency website](https://holypeak.com/talent/voice-actor-women/nakomisaki/) / [Twitter](https://twitter.com/MisakiNako_) / [Line](https://page.line.me/124ydyji ) / [YouTube](https://www.youtube.com/@MisakiNako_Lantis/) / [instagram](https://www.instagram.com/misakinako_/) |[📷](https://holypeak.com/wp-content/uploads/2021/01/-2-e1674183742547.jpg) 
 **Sayuri Date 伊達さゆり**|Sayurin, Sayu, Date-chan|Sept 30, 2002|[Agency website](https://apollobay.jp/talent/伊達さゆり/) - [Twitter](https://twitter.com/sayuridate) - [Instagram](https://www.instagram.com/sayuridate_official/) | [📷](https://apollobay.jp/wp-content/uploads/902dbbbe8c8ed9396cff05e8022d729e-scaled.jpg)
 **Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 11, 2002|[Agency website](https://apollobay.jp/talent/鈴原希実/) - [Twitter](https://twitter.com/nozomisuzuhara) | [📷](https://apollobay.jp/wp-content/uploads/20220329_A1_2088.jpg)
 **Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, 2001 ==[2]==|[Agency Site](https://kenproduction.co.jp/talent/235)|[📷](https://febri.jp/wp/wp-content/uploads/2022/11/V8A7782_1280.jpg)
@@ -652,7 +652,7 @@ WEBRIP - https://nyaa.si/view/1565479
 Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~
 https://nyaa.si/view/1547572
 
-Liella no Doko Iku? Blu-ray Exclusives 
+Liella no Doko Iku? 
 Part 1
 576p - https://nyaa.si/view/1465161
 720p - https://nyaa.si/view/1465162
@@ -713,8 +713,7 @@ Naomi Payton Photodump - https://ibb.co/album/fGFhJG/
  ↳ Gravure/PB Sub-album: https://ibb.co/album/fGFhJG/sub
 Liyuu 1st PB - https://imgur.com/a/cXG3Onu
 Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kMrX0i9
-Sayurin PB 12-2022 -
-https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
+Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
  
 **Videos/Clips/Namas**

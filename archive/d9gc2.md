@@ -45,4 +45,15 @@ Also had a [date with Anya](https://twitter.com/anyamelfissa/status/168385516143
 |Anya|【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D |[Link](https://youtu.be/W-4jmrf7VL0)|[More about their dinner date](https://youtu.be/W-4jmrf7VL0?t=2957)|
 
 
-**Day 11 - 2023-07-29**
+**Day 13 - 2023-07-31**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D|  Oh hi oh (Take 2)  |[Link](https://www.youtube.com/watch?v=UzfFsdq4aGI)|Finally able to do the zatsu scheduled more thana week ago. Cute scatterbrained thoughts.|
+|A-chan|  【ホロのこしかけ 25】夏満喫！青春もライブも24時間も欲張りさんの7月まとめ|[Link](https://youtu.be/WjTzbhDQQvQ?t=461)|Impression after bumping into Mumei in the studio.|
+
+**Day 14 - 2023-08-01**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|Subaru| 【＃生スバル】朗報：11時間寝ました！！！！！雑談：Free Talk|[Link](https://www.youtube.com/watch?v=BjKXNqD-Wuc)|[Meeting Mumei at the studio and getting called birdbrained](https://www.youtube.com/watch?v=BjKXNqD-Wuc&t=1340). Also more Holotori talk.|
+
+Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-shorts)

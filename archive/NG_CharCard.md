@@ -6,7 +6,7 @@ This is meant to be a collection of thoughts on card creation, in no particular 
 This covers Character Cards as used in Silly Tavern / CHUB, and is based on my experience writing in Turbo 3.5 4K in mid-2023. 
 YMMV, and note these AI are emergent... some of below advice will change in time. 
 
-## Tense: First, Second, Third Person Point of View
+##First, Second, Third Person Point of View
 **TLDR: Pick a point of view and keep it consistent**
 
 If you don't know what point of view (POV) is, google it. You were probably taught it at some point. Generally, I stay in 1st and 3rd person POV
@@ -81,8 +81,10 @@ Accents and modes of speech (stuttering, low intelligence) for AIs are tricky. T
 
 * Use it in the intro: Should be obvious. For the above example: ``Oh-em-gee, like, hiiii! Are you {{user}}? I'm {{char}}!!! Are you, like, ready to have, like, the most epic day ever?``
 
-* Definition writing style: This one's sort of interesting. The definition is written IN ALL CAPS, and so the {{char}} tends to respond IN ALL CAPS. I think the ALL CAPS even influences the bot's personality a bit: https://www.chub.ai/characters/ratlover/a-fucking-skeleton 
-My takeaway here is that the way you write the card definition, itself, will influence how the {{char}} responds. If you write cards in prose, consider feeding it back through ChatGPT and asking it to change the tone of the prose to how you want the {{char}} to respond. 
+* Description writing style: This one's sort of interesting: If you write the {{char}} description using the voice you want {{char}} to have, it will be pretty consistent with its responses back. Examples: 
+	* ANGRY ALL CAPS: Definition is written IN ALL CAPS, and so the {{char}} tends to respond IN ALL CAPS. I think the ALL CAPS even influences the bot's personality a bit: https://www.chub.ai/characters/ratlover/a-fucking-skeleton 
+	* Valley Girl: Definition was written in Valley Girl speak, and card is very consistent using that speech pattern in responses: https://www.chub.ai/characters/NG/bambi-california-transplant
+	* The takeaway is that the way you write the card definition, itself, influences how the {{char}} responds. If you write cards in prose, consider feeding it back through ChatGPT and asking it to change the tone of the prose to how you want the {{char}} to respond. Looking over the console log, it should be obvious why this helps: The {{char}} Description is a massive bit of text that is *always* included in the context. 
 
 * Provide example dialog: Example dialog is important and often overlooked (I usually don't provide it) but can strongly influence behavior. If your character speaks like a valley girl, inserting a few examples of that speech will reinforce it. ChatGPT is really good at generating this dialog... give it what you want to say and have it re-write it in the accent you want. 
 

@@ -34,11 +34,13 @@ Alternate Watch | [PRESS START](https://tesseron.itch.io/alternate-watch)
 Lethal Omen | [PRESS START](https://alpine-arts.itch.io/lethal-omen)
 Cave Crawler | [PRESS START](https://store.steampowered.com/app/2282480/Cave_Crawler/)
 Living Abyss | [PRESS START](https://rain3.itch.io/living-abyss)
+No players online | [PRESS START](https://papercookies.itch.io/no-players-online)
 Mario and the music box | [PRESS START](https://ari-games.com/downloads.html)
 Misfortune .gb | [PRESS START](https://misfortune-dot-gb.webs.com/game-download)
 The Theater | [PRESS START](https://newa-studios.itch.io/thetheater)
 The midnight game | [PRESS START](https://www.indiedb.com/games/the-midnight-game)
 Luna Game (warning, GR15) | [PRESS START](https://archive.org/download/LunaGame)
+Dreamy Rainbow  (GR15) | [1](http://www.mediafire.com/?jy3n64jl6jnua4a) , [2](http://www.mediafire.com/?l4sn99ilbxhunac) , [3](http://www.mediafire.com/?2zyzkk31eg2ufk5)
 Escape from lavender town | [PRESS START](https://adriendittrick.itch.io/eflt)
 Giftscop | [PRESS START](https://giftscop.com/)
 grove street 404 | [PRESS START](https://libertycity.net/files/gta-san-andreas/184252-grove-street-404.html)
@@ -47,6 +49,8 @@ creepypasta land | [PRESS START](https://gamejolt.com/games/creepypasta-land/402
 POLYBIUS | [PRESS START](https://store.steampowered.com/app/906120/POLYBIUS/)
 Pacm̬̦̩̹̌͢a̪͓̮̼͍̗͑̿ͫn̛̥͈ͅ | [PRESS START](https://berickcook.itch.io/pacman)
 Mr Mix re-imagined | [PRESS START](https://gamejolt.com/games/MRMIX/827664)
+Voices of the void | [PRESS START](https://mrdrnose.itch.io/votv)
+Eversion | [PRESS START](https://store.steampowered.com/app/33680/eversion/)
 
 ##.exe Games
 Games List | Links
@@ -75,6 +79,7 @@ Nintendo.exe | [PRESS START](https://gamejolt.com/games/nintendoexe/245013)
 kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
 SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
 Sonic.exe the Disaster 2D remake | [PRESS START](https://gamejolt.com/games/disaster2dr/780541)
+Dere Evil exe | [PRESS START (steam)](https://store.steampowered.com/app/871950/DERE_EVIL_EXE/) , [Rebirth of Horror (steam)](https://store.steampowered.com/app/1597110/DERE_EXE_Rebirth_of_Horror/) , [creator's page + rest of the series (itch.io)](https://appsir.itch.io/)
 
 ##Mods/ROM Hacks/Wads
 Mods List | Links
@@ -90,6 +95,16 @@ Sonic.exe Generations, Part 1 | [PRESS START](https://gamebanana.com/mods/363428
 Sonic.exe Mania: Abyss | [PRESS START](https://gamebanana.com/mods/47966)
 Call of Cthulhu | [PRESS START](http://smwdb.me/db/a/a0a9d007669c8b674162dad58e02b12e1720b528/)
 Pokemon Black | [PRESS START](https://www.romhacking.net/hacks/4577)
+
+##Scarewares
+(warning : any damages done to your computer are at your own risk)
+Games List | Links
+------ | ------
+IMSCARED | [PRESS PLAY](https://store.steampowered.com/app/429720/IMSCARED/)
+A dark place | [PRESS PLAY](https://xerstudios.itch.io/a-dark-place)
+A dark place 2 | [PRESS PLAY](https://xerstudios.itch.io/a-dark-place-2)
+Forbidden.exe | [PRESS PLAY](https://www.kloonigames.com/blog/games/forbidden_exe)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Web Series/ARGs

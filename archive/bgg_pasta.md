@@ -1,4 +1,4 @@
-**/bgg/ - Baldur's Gate General**
+**Subject (do not include in the OP): /bgg/ - Baldur's Gate General**
 **XXX** Edition
 
 Release trailer: https://www.youtube.com/watch?v=_TmGocqpY0Y

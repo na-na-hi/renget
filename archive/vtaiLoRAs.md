@@ -7,7 +7,7 @@
 
 !!! warning HEAVY WIP TESTING FOR RECOMMENDED WEIGHTS AND PROMPTS, YOU ARE WELCOME TO TRY THEM OUT IN THE MEANWHILE
 !!! note Prompts with info but still WIP
-	Utatane Nasa, Hakushika Iori, Himemiya Rie, Chisaka Airi, Moriko Kyoho, Snuffy, Onigiri, Dyarikku and Zaion Lanza.
+	Utatane Nasa, Himemiya Rie, Chisaka Airi, Moriko Kyoho, Snuffy, Onigiri and Zaion Lanza.
 !!! note Untested / WIP prompts
 	A lot of them. Sit on tight, I'm on the case as fast as I can.
 
@@ -445,15 +445,15 @@
 -> [MEGA](https://mega.nz/folder/sShj1LpS#Zh5ZxGO3uwK4QEaZ2X6z1w/file/oDgGAJbQ) <-
 
 #### -> Reiny <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	???
+	(reinynormal, reiny, short hair, hair ornament, single braid, yellow eyes, ahoge, short hair, pleated skirt, (yellow neckerchief:1.2), yellow jacket, open jacket, thigh strap, tail, black shirt, black skirt, serafuku)
 -> [Catbox](https://files.catbox.moe/efx770.zip) <-
 
 #### -> Koopa Fortuna <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(koopa fortuna, dress, hair flower, green hair, green eyes, grey sweater, necklace, long hair, hair ornament, red flower, sweater dress, thighhighs, off-shoulder sweater)
 -> [MEGA](https://mega.nz/file/2Ap3ka5T#g6frusjtA1i51lxKklagX8mkCcI9yZhMaK89fM6xWPk) <-
 
 #### -> Skyler Reach <-
@@ -463,41 +463,43 @@
 -> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ) <-
 
 #### -> Nina Saotome <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.6
 !!! info Example Prompt
-	
+	(nina saotome, purple eyes, brown hair, black footwear, black pantyhose, bow, cleavage cutout, high heels, long hair, white dress, purple dress, gradient dress)
 -> [MEGA](https://mega.nz/file/G80zkZIZ#JKVbzO7Kf9hgS_OgQWipUyJDA4YzguoHfISjtlTjW3U) <-
 
 #### -> Anny <-
-!!! note Recommended weight: ?
+!!! info Her tags are sometimes weirdly RNG even if you specify them correctly.
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	Old outfit: (annytf, black thighhighs, (brown eyes, brown hair:1.3), covered navel, fox ears, fox girl, fox tail, hair ornament, long hair, (black sweater, cropped sweater, heart cutout, leotard under clothes, red leotard, long sleeves, turtleneck sweater:1.3), no pants, one side up, star hair ornament, toeless legwear)
+	New outfit: (annytf, black thighhighs, grey hair, purple eyes, covered navel, fox ears, fox girl, fox tail, hair ornament, long hair, no pants, two side up, (highleg leotard, pink leotard:1.3), star hair ornament, stirrup legwear, black panties, toeless legwear)
 -> [Civitai](https://civitai.com/models/27138/anny-annytf-vtuber-lora) <-
 -> [Catbox](https://files.catbox.moe/xx4r9a.safetensors) <-
 
 #### -> Shondo / Fallenshadow <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
--> [MEGA](https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ) <-
+	(fallenshadow, bare shoulder, black dress, brown hair, pink eyes, grey capelet, hood down, pink choker, criss-cross halter, frilled dress, grey legwear, medium hair, single thighhigh, single wristcuff, waist bow, sidelocks, pink ribbon)
+-> [MEGA](https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/q05AVBpJ) <-
 
 #### -> Filian <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(filian \(vtuber\), hair bell, blue sailor collar, fox ears, fox tail, hair between eyes, purple eyes, hair intakes, hair ornament, pink hairband, red neckerchief, serafuku, white hair, short hair, black thighhighs, blue skirt)
 -> [Civitai](https://civitai.com/models/27964/filian) <-
 
 #### -> Reiyu GuiGui <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
--> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ) <-
+	(reiyu guigui, purple eyes, pink hair, blue hair, multicolored hair, flower, hair ribbon, twintails, japanese clothes, hair ornament, red kimono, wide sleeves, long sleeves, off shoulder)
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/VKgCWCyA) <-
 
 #### -> Miilkywayz / Milky <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.75
 !!! info Example Prompt
-	
--> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ) <-
+	(miilkywayz, blue eyes, blue hair, cow ears, cow tail, horns, bare shoulders, detached sleeves, jewelry, medium hair, long sleeves, mole on breast, mole under eye, sleeveless dress, side slit, strapless dress, hair ornament, hair ribbon, black thighhighs, cleavage, huge breasts)
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/pKJmyRxZ) <-
 
 #### -> Oda Nobuhime <-
 !!! note Recommended weight: 1
@@ -527,7 +529,7 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/VOoHTSwS) <-
 
 #### -> Dyarikku <-
-!!! note Recommended weight: ? / 0.8
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
 	(dyarikku \(vtuber\), animal ears, gradient skin, hat, pantyhose, purple eyes, white hair, black bodysuit, fox ears, fox tail, shimenawa)
 ##### -> V2 <-

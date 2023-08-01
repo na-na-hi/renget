@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Byakuren Hijiri](https://files.catbox.moe/eorygf.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Kha'Zix](https://files.catbox.moe/7y8yua.png), [Wooper](https://files.catbox.moe/al9cgi.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[G-800813S](https://files.catbox.moe/1ur7go.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Tallula](https://files.catbox.moe/vhowku.png), [Helix](https://files.catbox.moe/bdq998.png)|
@@ -33,13 +34,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Roman](https://files.catbox.moe/kq9990.png)|[Roman](https://files.catbox.moe/kq9990.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tomoki](https://files.catbox.moe/triaw4.png)|
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Cerunlanwe](https://files.catbox.moe/6rmhj5.png), [Minkhius](https://files.catbox.moe/90deo2.png)|
-[Nuggest](https://rentry.org/Nuggest) | Misc |[Constance](https://files.catbox.moe/f91bh6.png)|
-[Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
+[Nuggest](https://rentry.org/Nuggest) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
@@ -79,7 +80,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||

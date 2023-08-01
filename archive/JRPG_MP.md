@@ -35,7 +35,7 @@ Amara Sarya (Elf Black Mage): https://archive.4plebs.org/tg/post/89697952/
 Cormelia (Elf Spirit Talker): https://archive.4plebs.org/tg/post/89700452/
 Professor Khuldor the Transmuter (Human Green Mage): https://archive.4plebs.org/tg/post/89705236/
 Corvus (Human Spirit Talker): https://archive.4plebs.org/tg/post/89733343/
-
+August, Bastard Prince of Alkia (Human Rogue): https://desuarchive.org/tg/thread/89769197/#89780609
 ***
 
 ## WRITEFAGS
