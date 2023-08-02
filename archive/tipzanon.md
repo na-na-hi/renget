@@ -7,7 +7,7 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work, giving characters actual, consistent answers to questions you might have for them and believable backgrounds and personalities. I work primarily with Tavern AI and use several models to test my cards. My cards are also available on [chub](https://www.chub.ai/users/Tipzanon) and sometimes [pygmalion booru](https://booru.plus/+pygmalion/user:tipzanon) when I remember to upload to it. If you have card suggestions, questions, or just want to tell me I'm awful: tipzanon@proton.me.
 
 !!! info
-	-> Updates: New alternate art for Jocelyn - have some delicious goth elf cock. Uploaded a requested card, Lily Evergreen, to Megacity East. <-
+	-> ⭐ Updates: New character: Elisabeth - a romantic vampire maid from France. Megacity East's lorebook also got updated with entries about goblins, vampires and World War III! ⭐ <-
 
 [TOC]
 
@@ -45,7 +45,7 @@ Image| Name | Description | Link
 
 
 ### Megacity East
-These characters are set in a futuristic dark fantasy world.
+These characters are set in a cyberpunk fantasy world.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Yuki](https://files.catbox.moe/m5uk3a.png) | Yuki | A kind kitsune slave who only wants to make her master happy. She has empathic abilities and tries to comfort and soothe her master. [High Res Portrait](https://files.catbox.moe/8xij71.png) - [Alternate Art](https://files.catbox.moe/8qi8x2.png) | [catbox](https://files.catbox.moe/m5uk3a.png) [chub](https://www.chub.ai/characters/Tipzanon/Yuki)
@@ -54,6 +54,7 @@ Image| Name | Description | Link
 ![Liriae](https://files.catbox.moe/ce6qlr.png) | Liriae | A mindbroken elf who thinks she is a dog. Her name is pronounced Leer-ree-ay. [High Res Portrait](https://files.catbox.moe/6vo6ka.png) | [catbox](https://files.catbox.moe/ce6qlr.png) [chub](https://www.chub.ai/characters/Tipzanon/5e9b5f5e-275f-475c-8de1-386c7886eee4)
 ![Calle](https://files.catbox.moe/jqus5b.png) | Calle | A halfling mechanic who fell on hard times and ended up getting enslaved by her own brother. GPT4 and Claude work best to keep her accent and height consistent. She's only three feet tall and Turbo seems to struggle with that concept. She was my PC from a d20 game I played ages ago. [High Res Portrait](https://files.catbox.moe/c4xj2n.png) | [catbox](https://files.catbox.moe/jqus5b.png) [chub](https://www.chub.ai/characters/Tipzanon/aed2f067-9506-4fc5-8211-238aa150afd8)
 ![Lily Evergreen](https://files.catbox.moe/1mixl4.png) | Lily Evergreen | Lily was born into privilege and responsibility, but after an isolated childhood and surviving several assassination attempts by the elven aristocracy, she has left it behind for the moment to find excitement and danger in Megacity East. She has natural magic at her disposal and could be very useful to the right merc. Original concept by Kyuubi08. Used with permission. | [catbox](https://files.catbox.moe/1mixl4.png) [chub](https://www.chub.ai/characters/Tipzanon/lily-evergreen-0e439327)
+![Elisabeth](https://files.catbox.moe/4nol52.png) | Elisabeth | A vampire maid looking for romance and, of course, a reliable food source. My favorite card so far of the ones I've made. Maybe it's just my weakness for French girls, but she makes my little heart flutter. Her accent is consistent on GPT-4 without the need of the V2 prompt override, but GPT-3.5 and Claude are pretty hit-and-miss without. She is more romantic than horny on GPT-4 and vice-versa on 3.5. Claude's been so neutered at this point, good luck getting more than "respect my personhood" out of her. Lorebook was updated to include and entry on vampires in Megacity East. [High Res Portrait](https://files.catbox.moe/9eu60v.png) | [catbox](https://files.catbox.moe/4nol52.png) [chub](https://www.chub.ai/characters/Tipzanon/elisabeth-5f3cbba7)
 
 
 ### Something Different
@@ -76,10 +77,10 @@ Image| Name | Description | Link
 
 ## Extras
 ### Tavern Lorebooks
-###### Megacity East v1.0
+###### Megacity East v1.1 ⭐Updated!⭐
 https://files.catbox.moe/2hu9rv.json
-Megacity East is a low-magic, futuristic dark fantasy world meant for my slave series cards. I'll be releasing non-slaves in the future and updating this as needed. The image is just for flavor.
--> ![Megacity East](https://files.catbox.moe/8eq2zv.png) <-
+Updated! Megacity East is a low-magic, cyberpunk fantasy world in which many of my cards are set. The image is just for flavor. A few people have asked if it is okay to develop their own characters and scenarios for this world. It's fine with me, but please let me know what you make. I'd love to see it!
+-> ![Megacity East](https://files.catbox.moe/p464ny.json) <-
 ### Jailbreaks
 ###### GPT 3 and 4
 Devours tokens, but provides longer, juicier replies. Many of the cards I like, and make, for that matter, are slice-of-life, and short replies without much context kind of ruin that. Modified from a JB I found here: https://rentry.org/GPTJailbreakPrompting

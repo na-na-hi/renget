@@ -23,19 +23,26 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |31/07/2023|[Timestamp](https://youtu.be/nebLnoSRHwE?t=8926)| **Mention** - Explanation of Nerissa's situation before her debut regarding HoloTori|
-|02/08/2023|[Timestamp](-)| **Mention** - ???|
+|02/08/2023|[Timestamp #1](https://youtu.be/GqWACMhCX_c?t=2932) [Timestamp #2](https://youtu.be/GqWACMhCX_c?t=11002) [Timestamp #3](https://youtu.be/GqWACMhCX_c?t=16711)| **Mention** - Multiple back-and-forth mentions and (in-chat) interactions between Kiara and Narissa during a zatsudan|
+
+
+######Ina
+|Date|Link|Nature & Notes|
+|---|---|---|
+|02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago|
+
 
 #####Advent
 
 ######Bijou
 |Date|Link|Nature & Notes|
 |---|---|---|
-|01/08/2023|[Timestamp](https://youtu.be/LglIMGCMrjs?t=866)|Mention - Explanation how they first met with some really spicy details.|
+|01/08/2023|[Timestamp](https://youtu.be/LglIMGCMrjs?t=866)|**Mention** - Explanation how they first met with some really spicy details.|
 
 ######FUWAMOCO
 |Date|Link|Nature & Notes|
 |---|---|---|
-|02/08/2023|[Timestamp](https://youtu.be/4giLWiqvyVo?t=1178)|Mention - First impressions about Nerissa during their (officially) first FUWAMOCO MORNING.|
+|02/08/2023|[Timestamp](https://youtu.be/4giLWiqvyVo?t=1178)|**Mention** - First impressions about Nerissa during their (officially) first FUWAMOCO MORNING.|
 
 ######Full-gen Collabs
 |Date|Link|Nature & Notes|
@@ -60,5 +67,10 @@
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
 
 ####ID
+
+######Ollie
+|Date|Link|Nature & Notes|
+|---|---|---|
+|02/08/2023|https://twitter.com/i/spaces/1MnGnpMEqXMxO - [Segment](https://files.catbox.moe/n01b0g.mp3) | **Mention** - First impressions during a twitterspace.|
 
 ####Megacollabs

@@ -190,7 +190,7 @@ While I drew quite a few stares while making my way across town, it seemed like 
 
 Porygon2's co-ordinates led me to one stumps that were dotted around the outside of the town itself. This one was one of the larger ones - if the windows that dotted the outside were any indication, this place was at the very least three stories tall, and a little wider than it was high. The wood looked fairly well-worn, a darker shade of green to the others I'd passed by, with another trunk seemingly merged into the side. 
 
-Looking up at it, it was a pretty impressive sight. Still, this was probably my best bet to get any answers.
+Looking up at it, the whole building was a pretty imposing sight. Still, this was the only lead that I had, and probably my best bet to get any answers.
 
 Skirting around the strange hole in the ground that lay outside the front door - while it was covered up by a grate of sorts, I didn't fancy testing how my hovering would work with a surface with big holes in - I moved up to the curtain that covered the front door. And pushed my way through.
 

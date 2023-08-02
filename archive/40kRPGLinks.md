@@ -301,8 +301,8 @@ https://anonfiles.com/laIbB6P3u1/RT08_-_Warpstorm_3_-_Fallen_Suns_oef_pdf
 
 
 # #=Wrath & Glory= #=WANG
-Wrath & Glory (Cubicle 7) - Links Encrypted:
-https://0bin.net/paste/NNmcwAQX#BvJazId1848TZHDi8gDbW8gbZPq3GVa7OxARXrkP0AD
+Wrath & Glory (Cubicle 7) - Replacement link, not sure if this is everything that was in the old 0bin page:
+https://mega.nz/file/R50AkKrS#EP_M1YmbuYe-eXY3jSUelBJ7QeLbIMCWxkQ4oDSk3R4
 
 Adventure - Dark Tides
 https://anonfiles.com/32vbB0Paua/Wrath_Glory_-_Dark_Tides_Adventure_Book_pdf

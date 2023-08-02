@@ -28,7 +28,7 @@ Lewds : #depravencrafts on Twitter
 #####[Demonry of Sound](https://rentry.org/karaokes_songs_v0)
 The music corner where you can find all the links for the music releases and the karaokes (magnets, links in case of archived ones and setlists are also included).
 #####[Stream Recommendation]
-Will open when we'll be 2 months after debut.
+Will open when we'll have enough streams to judge, maybe in 1 or 2 months after debut.
 #####[Members Streams]
 Will open when the first mengen frame will pop-up.
 #####[The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)

@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 31st July. All dates dd/mm.
+!!! Note Last updated: 2nd August. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -106,7 +106,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-None | None | None
+12395 | 中出しの幸せ (cumshot happiness) | Open as of 01/08
 
 ##### Full
 Club ID | Club Name | Club Status

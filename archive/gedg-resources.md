@@ -14,7 +14,7 @@ Knowledge is power, and free knowledge is great.
 
 ## Programming and Architecture
 
-* [C Builds and Libraries for the Inexperienced](https://rentry.org/gedg-cbuild): Tutorial made for /agdg/, /chad/, and /gedg/.
+* [C Builds and Libraries for the Inexperienced](https://rentry.org/gedg-cbuild): Tutorial made for [/agdg/](https://boards.4channel.org/vg/catalog#s=agdg), [/chad/](https://wiki.installgentoo.com/wiki/C_Help_and_Discussion), and /gedg/.
 * [javidx9's A* Video](https://youtu.be/icZj67PTFhc): Video about the A* path finding algorithm.
 * [javidx9's Embedding Lua in C++ video](https://youtu.be/4l5HdmPoynw): Video about the Lua C API in a C++ environment. C users can also obviously learn from it. He has a follow-up video [here](https://youtu.be/E42Lyv2Ra1c) where the topic is coroutines. 
 * [Programming in Lua](https://www.lua.org/pil/contents.html ): Official online book to learn Lua. Lua is great for embedding into software.
@@ -34,7 +34,7 @@ Knowledge is power, and free knowledge is great.
 * [GetIntoGameDev's Vulkan playlist](https://youtube.com/playlist?list=PLn3eTxaOtL2NH5nbPHMK7gE07SqhcAjmk): Video series in C++ that goes through and explains concepts.
 * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems3/contributors): Nvidia's free online book containing a large variety of topics such as N-body and fluid simulation, volumetric light scattering, and AES encryption. 
 * [Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/): Short article by Nathan Reed.
-* [Inigo Quilez's Shadertoy page](https://www.shadertoy.com/user/iq) : Includes raymarching, Mike Wazowski, and more.
+* [Inigo Quilez's Shadertoy page](https://www.shadertoy.com/user/iq): Includes raymarching, Mike Wazowski, and more.
 * [learnopengl](https://learnopengl.com/): Most popular site for getting started with OpenGL.
 * [lighthouse3d](http://www.lighthouse3d.com/tutorials/): Some old but gold OpenGL.
 * [Mike Bailey's Vulkan webpage](https://web.engr.oregonstate.edu/~mjb/vulkan/): This webpage has plenty of useful Vulkan notes and resources.
@@ -45,7 +45,7 @@ Knowledge is power, and free knowledge is great.
 ## Noise
 
 * [Improved Perlin Noise](https://mrl.cs.nyu.edu/~perlin/paper445.pdf):  2002 algorithm by Ken Perlin used for terrain generation. [Here](https://mrl.cs.nyu.edu/~perlin/noise/) is a Java implementation of the algorithm.
-* [Noise-Based RNG](https://youtu.be/LWFzPP8ZbdU) : 2017 GDC Math for Game Programmers talk where Squirrel Eiserloh discuss how RNGs can replace noise functions. An [update of the code](http://eiserloh.net/noise/SquirrelNoise5.hpp) by Squirrel was later created.
+* [Noise-Based RNG](https://youtu.be/LWFzPP8ZbdU) : 2017 GDC Math for Game Programmers talk where Squirrel Eiserloh discusses how RNGs can replace noise functions. An [update of the code](http://eiserloh.net/noise/SquirrelNoise5.hpp) by Squirrel was later created.
 
 ## Fluid Simulation
 

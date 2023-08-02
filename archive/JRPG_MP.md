@@ -29,7 +29,7 @@ Suzerain (Demon Hybrid Bard/Spirit Talker): https://archive.4plebs.org/tg/post/8
 Lona Willow (Half-Elf Black Mage): https://archive.4plebs.org/tg/post/89674402/
 August (Human Rogue): https://archive.4plebs.org/tg/post/89679186/
 Caniara (Demon Jobber): https://archive.4plebs.org/tg/post/89681500/
-Ugoki Ayagi (Demi-Human Magic Knight): https://archive.4plebs.org/tg/post/89682887/
+Ugoki Ayagi (Demi-Human Magic Knight): https://archive.4plebs.org/tg/thread/89686138/#89695858
 Vajar (Elf Black Mage): https://archive.4plebs.org/tg/post/89693400/
 Amara Sarya (Elf Black Mage): https://archive.4plebs.org/tg/post/89697952/
 Cormelia (Elf Spirit Talker): https://archive.4plebs.org/tg/post/89700452/

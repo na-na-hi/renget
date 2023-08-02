@@ -369,4 +369,5 @@ https://arch.b4k.co/vp/thread/54135049/ 4 sadistic mapping time
 https://arch.b4k.co/vp/thread/54152637/ 5 fucking CHECKED
 https://arch.b4k.co/vp/thread/54158071/ 6 oh shit /vp/ is planning to get shit done
 https://arch.b4k.co/vp/thread/54163030/ 7 self derailing plot
-https://arch.b4k.co/vp/thread/54168509/ 8
+https://arch.b4k.co/vp/thread/54168509/ 8 man this chapter sucks
+https://arch.b4k.co/vp/thread/54178952/ 9

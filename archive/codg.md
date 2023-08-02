@@ -3,12 +3,12 @@
 Previous thread:
 
 \>news:
+\>Season 5 patch notes:
+https://www.callofduty.com/patchnotes/2023/08/Call-of-Duty-Modern-Warfare-II-Warzone-2-Season-05-Patch-Notes.html
 \>Season 5 battle pass, black cell, bundles etc.
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-warzone-season-05-content-drop-blackcell-battle-pass-bundles
 \>Season 5 guns, operators, maps, etc.
 https://www.callofduty.com/blog/2023/07/call-of-duty-modern-warfare-II-warzone-season-05-content-drop-maps-modes-hip-hop
-\>season 4 reloaded patch notes:
-https://www.callofduty.com/patchnotes/2023/07/Call-of-Duty-Modern-Warfare-II-Warzone-2-Season-04-Reloaded-Patch-Notes.html
 
 \>tools
 https://www.wzranked.com/

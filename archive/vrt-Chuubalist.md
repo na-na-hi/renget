@@ -135,11 +135,6 @@
 [Streaming Twitch](https://www.twitch.tv/maroony)
 [Twitter](https://twitter.com/maroony_ch)<-
 
-->**Meat**
-![Meat](https://i.warosu.org/data/vt/img/0277/60/1657333066332.png)
-[Streaming Twitch](https://www.twitch.tv/meat)
-[Twitter](https://twitter.com/meatscave)<-
-
 ->**Miaguwu**
 ![Miaguwu](https://i.warosu.org/data/vt/img/0379/39/1669761206920299.png)
 [Streaming Twitch](https://www.twitch.tv/miaguwu)
@@ -200,11 +195,6 @@
 [Streaming Twitch](https://www.twitch.tv/profbloomvtuber)
 [Twitter](https://twitter.com/ProfBloomVtuber)<-
 
-->**Ramrod**
-![Ramrod](https://i.warosu.org/data/vt/img/0414/65/1674453603623611.png)
-[Streaming Twitch](https://www.twitch.tv/rrosenkreutz)
-[Twitter](https://twitter.com/RRosenkreutz)<-
-
 ->**Raiko**
 ![Raiko](https://i.warosu.org/data/vt/img/0414/65/1674453542657404.png)
 [Streaming Twitch](https://www.twitch.tv/raiko_vt)
@@ -261,11 +251,6 @@
 [Streaming Twitch](https://www.twitch.tv/voxandra)
 [Twitter](https://twitter.com/Voxandra)<-
 
-->**Woozie Wannai**
-![Woozie Wannai](https://i.warosu.org/data/vt/img/0369/74/1668396787927904.png)
-[Streaming Youtube](https://www.youtube.com/channel/UCcmX9wpxwcQGNg9L91YDdhg)
-[Twitter](https://twitter.com/wooziewannai)<-
-
 ->**Woozle**
 ![Woozle](https://i.warosu.org/data/vt/img/0273/30/1656855570506.png)
 [Streaming Twitch](https://www.twitch.tv/woozle_ch)
@@ -292,3 +277,8 @@
 ![Sava Safari](https://i.warosu.org/data/vt/img/0369/74/1668397091748973.png)
 [Streaming Youtube](https://www.youtube.com/channel/UCJGTtJdw1gtJKyMm0Fq2eng)
 [Twitter](https://twitter.com/sava_kawaii)<-
+
+->**Woozie Wannai**
+![Woozie Wannai](https://i.warosu.org/data/vt/img/0369/74/1668396787927904.png)
+[Streaming Youtube](https://www.youtube.com/channel/UCcmX9wpxwcQGNg9L91YDdhg)
+[Twitter](https://twitter.com/wooziewannai)<-
