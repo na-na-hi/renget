@@ -2,6 +2,9 @@
 -> ![]()  <-
 
 ##Changelog:
+==2022-8-1==
+- Added nijitabi Osaka Leg link
+
 ==2022-6-11==
 - added new Liella Seiyuu
 
@@ -16,11 +19,6 @@
 - Ideal links updated
 - Added Nijigasaki Fanmeet concert link
 - new seiyuu info format rework is now a go 
-
-==2022-4-23==
-- maintainer updated. I killed the other one. :darktrollface:
-- Nijigasaki April Fanmeet links are now up/being posted 
-
 ***
 ##Table of Contents
 [TOC]
@@ -41,12 +39,13 @@
 [Hasunosora](https://www-lovelive--anime-jp.translate.goog/hasunosora/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
 
 **Love Live Fansites:**
-[LLfrens (JP)](https://ll-fans.jp/)
-[Love Live Plebbit](https://www.reddit.com/r/LoveLive/) (⚠**Warning: cancer**)
-[LATAM-run Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
-[LATAM/ES community LL Blog](https://lovelive-es.blogspot.com/p/home.html)
+[LLFans (JP)](https://ll-fans.jp/)
+[r/LoveLive](https://www.reddit.com/r/LoveLive/) (⚠**Warning: cancer**)
+[LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
+[Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
 [idol.st](https://idol.st/) (⚠**Warning: cancer**)
-[**Unofficial /llst/ discord**](https://discord.gg/6As836P9rN)
+↳ [idol.st seiyuu list](https://idol.st/voiceactresses/)
+[Unofficial /llst/ discord](https://discord.gg/6As836P9rN)
 ##Previous versions:
 https://rentry.org/llst-2021-02-bkup
 ***

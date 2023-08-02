@@ -4,6 +4,7 @@
 
 #Pending Requests
 
+1. A full redraw of that Dr. Doom doots meme with Elm and Gus
 1. This https://www.youtube.com/watch?v=RzZaKvhJNiU with Chespin holding an Oran Berry replacing Shadow, and Toge giving a thumbs up in the background. Maybe a KO'd Cyndaquil in the background.
 1. Boss Chiller https://files.catbox.moe/8pv2ws.jpg with Debby and Linoone as the sherrif and deputy, with pelippers being blown up in the background
 1. Fynn as that police dog from Paw Patrol

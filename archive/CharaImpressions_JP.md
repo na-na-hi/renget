@@ -911,3 +911,66 @@ Cons:
 - No P.def debuff
 - No M.Atk debuff
 - M.Def & P.Atk buffs reaches up to P.Kokkoro
+
+
+### ->Swimsuit Kuuka<-
+**TL;DR: A tank that can hit multiple targets, while debuffing P.atk & M.Atk of enemies by a set amount, buffs self and restoring HP to self based on missing HP. Decent Arena unit but probably not terribly important.**
+S.Kuuka could prove to be an annoyance to bypass without the proper setup, as she can buff herself based on missing HP while reducing the offensive stats of enemies. As her UB actually deals damage, not killing her means she'll most likely heal up and be able to punch back. This is most apparent against multi-target magic comps, where she hits back at squishy targets like Natsune, NY.Homare or Yori as examples. For those lacking answers against these teams, she could be a good answer. Since she's a new unit and welfare, farming her to 3* seems to be a good option. Just don't expect her to light the meta on fire. While her niche already has answers - She could help those without those units.
+
+-> ![S.Kuuka](https://redive.estertion.win/card/full/127031.webp) <-
+
+Pros:
+- UB heals self, increasing based on missing HP
+- Can actually damage enemies with UB 
+- Reduces P.Atk & M.Atk of enemies hit on S1 for 12s
+- Debuffs have large range (750)
+- Restores 150 TP, buffs P.Atk based on missing HP on S2 
+- Buffs both defenses of self only on S2 for 12s
+- 4th most forward unit in the game (Stands behind Rima, Miyako & Kuuka)
+
+Cons:
+- Buffs only to self
+- TP restore only to self
+- Low starting damage
+- No CC
+- Cannot punch through tanky units/shield arena comps
+- Does not offer any damage mitigation to teammates
+- Not tanky enough to survive single target nukes as 1st position (Kyouka, Pyaru)
+- First action gets stunned before it comes out
+
+### ->Swimsuit Ranpha<-
+**TL;DR: Multi-target magic damage dealer/support/buffer unit with TP regeneration. Only missing a debuff, but has fairly strong skills otherwise. Worth a roll if you want to potentially do MT mage comps or clear MT dungeon bosses like EX5/6**
+!!! note Skip the first part including the table if you don't care about autistic explanations about why UBs are amazing or S.Ranpha vs ST.Misaki in general.
+Some have compared her to ST.Misaki, but with damage. At a glance, this seems pretty fair as they have similar buffs. S.Ranpha does have better flat values for her buffs, but there are two key factors at play here: 
+1. >>ST.Misaki's M.Crit Rate buff is on her UB instead of a skill
+	The reason this is so important, is because UBs give the player control over when they occur, whether it's cancelling a skill or refreshing a buff at the right time. As skill loops and actions are set with only UBs to influence their timings, being able to dish out a steady dose of M.Crit Rate buffs without them falling off. S.Ranpha's M.Crit Rate buff is on her S1 and is only used once per loop, meaning that there are only so many times this skill can be used, in relation to the battle timer. Due to the amount of TP buffs/regen/restoration in the game, UBs happen so frequently that the location of a buff being on a skill vs UB is always an important one to keep in mind.
+2. >>Her M.Atk buff requires time to ramp up to the cap based on her own M.Atk, but is a higher value once hitting the cap. 
+	Since S.Ranpha's M.Atk on UB are based on the # of targets, this won't be changing in multi-target fights where the targets do not disappear (Ex. CB bosses) and means the impact from her UB buffs are felt immediately. Most likely more niche than ST.Misaki, due to the simple fact that she can hit her full potential in fights against multiple targets. This is a very important distinction, as S.Ranpha's damage could potentially make up for the fact that she lacks the same M.Atk buff potential. More actions contributing to damage means breaking more often, so more attacks can land during the break period. Of course this is a fine balancing line in your team building, but it's merely theory of course.
+3. >>ST.Misaki has a UE and S.Ranpha does not.
+For the number values, feel freel to look at this table.
+Stage Misaki | Swimsuit Ranpha
+------ | ------
+UB - M.Atk (10+10 x S.LVL, then +Self M.Atk Capped at 90+90 x S.LVL) & M.Crit Rate (180), range 100  | M.Atk Buff (# of Target) range 150 & Damage (# of targets)
+S1+ - M.Atk (5+5 x S.LVL, then +Self M.Atk Capped at 45+45 x S.LVL) & M.Crit dmg (6%), range 100   | S1 - M.Atk Buff (No modifier), M.Crit Rate (700) & M.Crit Damage (10%), range 150
+S2 - 10 TP/s for 12.5s, Barrier only blocks magic damage | S2 - 10 TP/s for 10.5s, 15- range, Barrier blocks both damage types, restores HP
+
+Overall, S.Ranpha is a good unit. A good trade-off if your multi-target Mage comps require a bit more punch with good support and TP/HP restoration + barrier. Generally, anything with TP restoration/Boost/Regeneration is worthwhile to look at. Since Multi-target bosses are a gamble on seeing magic or physical usage, it's difficult to say how useful S.Ranpha is. However, she will certainly pop up into comps where there are 3+ targets as a steady damage dealer/buffer. If she does see usage, there is not another unit like her that can pop into her spot, as she's got a unique mix of damage and desirable buffs.
+While she won't be replacing Ames in any way at this time, there is a world where you may be able to get away with running S.Ranpha as your only barrier provider if P.Kokkoro's UE breaks the game, like offering all units a 25% damage cut and barrier with TP regen on S1+. This is a MASSIVE "if" scenario, so take it with a grain of salt since we don't have any confirmation it'll happen for 5.5 anni. Just remember how many times you need to borrow Ames. in CB.
+
+-> ![S.Ranpha](https://redive.estertion.win/card/full/126931.webp) <-
+
+Pros:
+- Increased damage & M.Atk buff value based on # of targets on UB
+- Deals good damage vs Multiple targets (Ideal scenario is 3+)
+- Large buff to M.Crit chance
+- Buffs reach majority of relevant (Up to A.Yori, reaches all behind her)
+- Good Loop (AA > S2 > S1 > AA > S2)
+- TP & HP regeneration on S2 for 10.5s
+- Barrier from S2 blocks both types of damage
+
+Cons:
+- Only damage dealing ability is UB
+- No M.def shred 
+- Buffs only last 12s
+- Only M.Atk is buffed on UB
+- Not efficient vs ST

@@ -184,10 +184,18 @@ However, they *had* forwarded me a set of co-ordinates. While I didn't have a cl
 ***
 >(wip needs *drastic* editing)
 
-Making my way through the trunks and across the bridges, I made notes of anyplace that might have been of importance in the town. A shop here, what looked to be an Inn of sorts there - it turned out that this was quite the bustling place. While I drew quite a few stares making my way across town, the Pokémon here thankfully didn't seem the type to confront a strange newcomer heading through town. 
+Making my way through the trunks and across the bridges, I made mental notes of anyplace that might have been of importance in the town. A shop here, what looked to be an inn of sorts there - all of them with a large amount of different Pokémon milling about. This town was turning out to be quite was quite hub of activity. 
 
-Porygon2's co-ordinates led me to one stumps that were dotted around the outside of the town itself. This one was one of the larger ones - if the windows that dotted the outside were any indication, this place was at the very least three stories tall, and a little wider than it was high. The wood looked fairly well-worn, a darker shade of green to the others I'd passed by, with another trunk seemingly merged into the side. Looking up at it, it was a pretty impressive sight. Still, this was probably my best bet to get any answers.
+While I drew quite a few stares while making my way across town, it seemed like the Pokémon here thankfully weren't the type to confront a strange-looking newcomer heading through town. 
 
-Skirting around the strange hole in the ground that lay outside the front door - while it was covered up by a grate of sorts, I didn't fancy testing how my hovering would work with a surface with big holes in - I moved up to the curtain that covered the front door. Pushing my way through, I was met with the sight of what appeared to be a relatively large lobby. Two large boards hanging off a wall seemed to dominated the room, presented as the most important thing there.
+Porygon2's co-ordinates led me to one stumps that were dotted around the outside of the town itself. This one was one of the larger ones - if the windows that dotted the outside were any indication, this place was at the very least three stories tall, and a little wider than it was high. The wood looked fairly well-worn, a darker shade of green to the others I'd passed by, with another trunk seemingly merged into the side. 
 
-While this room was vacant, I could hear quite the commotion coming from one of the rooms shooting off from the lobby. Arguing and eating, from the sounds of it. I must have dropped in during the lunch break. Looking around, I could see the marker I had been set was pointing up stairs. After waiting a second or two to see if anyone would come out and meet me in the lobby, I made for the stairs in the centre of the room - heading up to meet Porygon2.
+Looking up at it, it was a pretty impressive sight. Still, this was probably my best bet to get any answers.
+
+Skirting around the strange hole in the ground that lay outside the front door - while it was covered up by a grate of sorts, I didn't fancy testing how my hovering would work with a surface with big holes in - I moved up to the curtain that covered the front door. And pushed my way through.
+
+I was met with the sight of what appeared to be a relatively large lobby. Two large boards dominated the room - posters and notes adorning them as they hung off a wall, presented as the most important thing there.
+
+The room was totally devoid of life, however. From the sounds I could hear coming from one of the rooms that shot off from the lobby - arguing and eating, from what I could tell - I realised that I must have dropped in during the occupant's lunch break.
+
+Glancing around, I could see the waypoint that Porygon2 had set for me was pointing up the spiral staircase that sat in the centre of the room. I lingered for a moment, waiting to see if anyone would come out and meet me in the lobby. After a couple of seconds had passed - with no signs of a welcome party - I made for the stairs, heading up to meet Porygon2.

@@ -43,18 +43,15 @@
 
 ### 📚 [Books](https://rentry.co/megathread-books)
 - Books, like manga, comics, and novels, are a recording medium for information that includes pages composed of text, images, or both.
-- [Old version backup](https://rentry.co/5g76z).
 
 ### 🕹️ [Emulators & ROMs](https://rentry.co/megathread-emulators-and-roms) (Update in progress...)
 - Emulators simulate the actions of gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://rentry.co/megathread-games)
 - Games require interaction with a user interface or input device, such as a controller or keyboard, to produce fun audiovisual feedback.
-- [Old version backup](https://rentry.co/7cznn).
 
 ### 📱 [Mobile](https://rentry.co/megathread-mobile) (Update in progress...)
 - Mobile, or smartphones, are portable devices that integrate computing and telephone functionality into a single OS such as Android or iOS.
-- [Old version backup](https://rentry.co/tcntf).
 
 ### 🎦 [Movies & TV](https://rentry.co/megathread-movies-and-tv)
 - Movies & TV are works of visual art that employ moving pictures to imitate experiences, perceptions, feelings, and beauty.
@@ -62,18 +59,15 @@
 
 ### 🎹 [Music](https://rentry.co/megathread-music)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
-- [Old version backup](https://rentry.co/ko7zq).
 
 ### ⚙️ [Software](https://rentry.co/megathread-software)
 - Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
-- [Old version backup](https://rentry.co/pzfwe).
 
 ### 👟 [Sports](https://rentry.co/megathread-sports) (Update in progress...)
 - Sports refers to physical activity or game, generally competitive, that utilises one's ability and skills while entertaining spectators.
 
 ### 🧰 [Tools](https://rentry.co/megathread-tools) (Update in progress...)
 - Tools for activation, userscripts, download managers, assistants, extensions and a plethora of other supplemental software.
-- [Old version backup](https://rentry.co/6fyps).
 
 &nbsp;
 

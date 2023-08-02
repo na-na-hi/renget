@@ -586,39 +586,39 @@
 -> [Catbox](https://files.catbox.moe/1eoh67.safetensors) <-
 
 #### -> Nanahira <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(nanahi, green hairband bow, very long hair, yellow eyes, light brown hair, hair between eyes, green hoodie, zipper dress, open clothes, white strap dress, single thighhigh, striped thighhigh)
 -> [MEGA](https://mega.nz/folder/uZBBmIqQ#N6MYzNgBc-RHI_iunjahdA/folder/qBh32QQL) <-
 
 #### -> Tomari Mari <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(tomari mari, ahoge, black gloves, black ribbon, black skirt, braid, hair ribbon, long hair, multicolored hair, yellow necktie, pink hair, pleated skirt, halterneck, short sleeves, puffy sleeves, rabbit ears, rabbit girl, rabbit tail, pink eyes, streaked hair, white shirt, white thighhighs, x hair ornament)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/dOph3KLL) <-
 
 #### -> Ririsya <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(ririsya, black hair, purple streaked hair, long hair, blunt bangs, white hair ribbon, purple eyes, choker, pale skin, white dress, black coat, off shoulder, black fur trim, open coat, belt)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/ELI0wJTb) <-
 
 #### -> Mocca <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(mocca liebeskind, ahoge, brown hair, aqua bowtie, single braid, brown eyes, short hair, white dress shirt, grey jacket, hikimayu, hooded jacket, hood down, long sleeves, multicolored hair, shorts, streaked hair, x hair ornament)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/NDp3QIxL) <-
 
 #### -> Moeri <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	(red hair, blue streaked hair, mouse ears, mouse tail, mouse girl, blue eyes, low twin braids, crown, white frilled dress, detached sleeves, coattails, underskirt, blue skirt, white thighhighs, cleavage cutout)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/BWYknBYR) <-
 
 #### -> Omocat <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(cat girl, cat ears, green hair, single braid, long hair, orange eyes, cat eyes, choker, black crop top, midriff, neck bell, open jacket, red jacket, green pleated skirt, bracelet, shinmenawa, kaban \(gold\), shimenawa harness, shimenawa bow)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/JP4DBagD) <-
 
 #### -> Shigure Ui <-
@@ -640,27 +640,27 @@
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/cNxggDwJ) <-
 
 #### -> Peachhana <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(peachhana, raccoon girl, raccoon ears, raccoon tail, orange eyes, black hoodie, short hair, choker)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/ERZECJ7T) <-
 
 #### -> Lumituber <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(lumi, wolf girl, wolf ears, wolf tail, white hair, long hair, neck ribbon, blue eyes, blue skirt, blue dress, long sleeves, white shirt, white thighhighs, black footwear)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/lYhzjIpa) <-
 
 #### -> Osakana Nemu <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(osakana nemu, blue hair, purple hair, multicolored hair, short hair, blue eyes, crown, white hoodie, black shorts)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/VR4nCC5Q) <-
 
 #### -> Pochimaru <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(pochi, grey hair, long hair, blue eyes, white dress, black cape, hat, head wings, hair ornament, long sleeves)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/tFRwFTrL) <-
 
 #### -> Squchan <-
@@ -708,7 +708,7 @@
 #### -> Sinder <-
 !!! note Recommended weight: ?
 !!! info Example Prompt
-	
+		
 -> [Civitai](https://civitai.com/models/15419/sinder-vtuber) <-
 
 #### -> Buffpup <-
@@ -718,16 +718,15 @@
 -> [Civitai](https://civitai.com/models/63753/buffpup) <-
 
 #### -> ViennaC9 <-
-!!! note Recommended weight: 1
+!!! note Recommended weight: ?
 !!! info Example Prompt
-	(vienna (vtuber), black hair, blue hair, gradient hair, red eyes, dragon horns,  long hair,gradient eyes, crescent hair ornament, white crop top, navel, black coat, fur trim, suspenders, high-waist pants, white pants yellow ribbon)
-
+	
 -> [Civitai](https://civitai.com/models/15420/vienna-vtuber) <-
 
 #### -> Saruei <-
-!!! note Recommended weight: 0.8
+!!! note Recommended weight: ?
 !!! info Example Prompt
-	 (rael, raelsuit, bodysuit, semi-rimless eyewear, fingerless gloves, mechanical tail, ponytail, jacket)
+	 
 -> [Civitai](https://civitai.com/models/64410/saruei-vtuber-lora) <-
 
 #### -> Akumi Yoclesh <-
