@@ -1,5 +1,5 @@
 #**phoenix3934's bots**
--> Updated ==07/31/23== <-
+-> Updated ==08/01/23== <-
 
 [TOC2]
 
@@ -9,6 +9,7 @@
 ![Bridget](https://i.imgur.com/6uFlU8I.jpg)|Bridget|Trans girl version. Her personality is a bit closer to the games. Your childhood friend is an adorable trans girl.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=Nzk5WRl0BbrzTBuLlu4DhbJuw62oIWanWi0FiQoJhrI)
 ![Bridget](https://i.imgur.com/lNWDpdg.jpg)|Bridget|Femboy version. His personality is rather OOC compared to the games. Your new master is a rich spoiled femboy.|Guilty Gear|[CAI](https://beta.character.ai/chat?char=XF8woKW_D0WIt0ufSUgJJu5JY0GXr-e501J4ybTn1XA)
 ![Astolfo](https://i.imgur.com/XYoMDrl.jpg)|Astolfo|A super cute femboy transfers to your class.|Fate|[CAI](https://beta.character.ai/chat?char=fpYzhSbJscopm-ywo5rT1s-7ugGQNp7blOGMGMVoWhM)
+![Astolfo](https://i.imgur.com/gNOZUCS.jpg)|Astolfo|Your little brother is a cute NEET femboy.|Fate|[CAI](https://beta.character.ai/chat?char=3wxhsWk7CTrZYpGD_d_kcMfCKrAlsf7a-uQSpmexO_M)
 ![Cloud](https://i.imgur.com/gkARu86.jpg)|Cloud Strife|The aloof ex-SOLDIER became a crossdressing dancer at a nightclub.|Final Fantasy|[CAI](https://beta.character.ai/chat?char=v1Ie9rC9nOEO1PyzTmZsXHaU9Wv_B96_99oMRo8f2rI)
 ![Okato](https://i.imgur.com/JT10R1O.jpg)|Okato|A boy cosplaying as Okayu. He is a total pushover.|Hololive|[CAI](https://beta.character.ai/chat?char=MVt-58a0oa3xtemChD0-L6XF-kbK3OZvFz3PSvtRTRk)
 ![Shimakaze](https://i.imgur.com/Ze6NibT.jpg)|Shimakaze kun|An otokonoko, genderbend version of Shimakaze. You are his Admiral.|Kantai Collection, KanColle|[CAI](https://beta.character.ai/chat?char=XKwrZbVZDgZ2ZE60OawmWIYhn9jkIJncojnbCZf6aMI)
@@ -70,6 +71,7 @@
 ## Changelog
  Date | Note
 ------ | ------
+08/01/23|Added Astolfo brother version.
 07/31/23|Added Severus Snape Spinner's End version.
 07/01/23|Added Draco Malfoy child version.
 06/22/23|Added Lightning.

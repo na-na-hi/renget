@@ -100,3 +100,5 @@ Hobbies/Games (August, Lona, Suzerain, Cormelia, Vajar, Kin'ike): https://archiv
 ## RELATIONSHIP CHARTS
 
 Vajar's Recruitment Thoughts: https://archive.4plebs.org/tg/post/89699020
+Potion Pete Relationship Rentry:
+https://rentry.org/o9a4iz

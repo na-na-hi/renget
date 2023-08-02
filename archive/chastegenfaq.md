@@ -133,7 +133,7 @@ Chastity works in harmony with several other fetishes. Want to give some sexual 
 ###### How do I find a keyholder?
 If you already have a partner, try to introduce them to your chastity and ask if they want to be your holder. You can either give them the key itself or have them lock they keys in a (portable) lockbox so that access can be granted remotely.
 
-Without a partner, there a number of different services that link chastity-wearers to key-holders, such as EmlaLock.com, ChastityLocked.com, TeamLocked.com, and the thread favorite chaster.app. Chaster also allows for crowdsourcing lock-timers for those who want some fun but not the baggage that comes with a keyholder. Self-keyholding is also an option, with timed lockboxes being available on the market.
+Without a partner, there a number of different services that link chastity-wearers to key-holders, such as EmlaLock.com, ChastityLocked.com, TeamLocked.com, and the thread favorite chaster.app. Chaster also allows for crowdsourcing lock-timers for those who want some fun but not the baggage that comes with a keyholder. Self-keyholding is also an option, with timed lockboxes being available on the market. There is also often a chastity thread on /soc/ you can look for a keyholder in.
 
 While remote keyholding is something to work out with your holder, it usually involves mailing a key/padlock between participants, or some form of lockable safe the key can be placed in. Another option that is starting to develop is remote-locking chastity cages themselves, such as the CellMate from Qiui.
 

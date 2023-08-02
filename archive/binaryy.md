@@ -5,7 +5,7 @@
 -> [**ints**](7624) [spotify](https://open.spotify.com/user/ihrb705ewtgmc2uh06izlrhdm?si=_SXKHM2kTaKdFcN1_EFh9A) ⋆ [statsfm](https://stats.fm/starset) [lastfm](https://www.last.fm/user/pixilno) <-
 
 ***
-**dnfi**: [basic shit](https://basicdnficriteria.carrd.co/), -15, weirdos, 🔞 **/** nsfw accs, proshippers **/** profic **/** anti-anti etc, unicode font user, cat hater, ill just block u if i dont like u
+**dnfi**: [basic shit](https://basicdnficriteria.carrd.co/), -15, weirdos, 🔞 **/** nsfw accs, proshippers **/** profic **/** anti-anti etc, unicode font user, cryptobros **/** ai "artists" etc, cat hater, ill just block u if i dont like u
 
 
 -> **extra**: pls be direct with me i cannot take hints, may not fb if no/not alot of info is visible, i dont use tonetags often but will clarify tone if asked, i block **ALOT** of people ->

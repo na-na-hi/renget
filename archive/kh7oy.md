@@ -16,6 +16,8 @@ Future Release Dates:
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
+「!」Mario + Rabbids Sparks of Hope DLC 3: Rayman in the Phantom Show
+https://www.youtube.com/watch?v=ghD4yq9kL-0
 「!」Wave 5 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 https://www.reddit.com/r/mariokart/comments/14xd0tw/mk8dx_version_240_all_balance_changes_and_new/
@@ -23,8 +25,6 @@ https://www.reddit.com/r/mariokart/comments/14xd0tw/mk8dx_version_240_all_balanc
 https://www.youtube.com/watch?v=JStAYvbeSHc
 「!」WarioWare Move It! Revealed
 https://www.youtube.com/watch?v=z4kkqicAeG0
-「!」Mario + Rabbids: Sparks of Hope: The Last Spark Hunter DLC Trailer 
-https://www.youtube.com/watch?v=pt6x7TwvqOk
 「!」Luigi's Mansion Dark Moon for Switch Revealed
 https://www.youtube.com/watch?v=wRhmJD8oRV0
 「!」A New Princess Peach Game Revealed

@@ -1,0 +1,4 @@
+It's the middle of the night, Kiara is finishing a karaoke stream. She's just finished singing the last song 'Owner of a Lonely Heart' when Ame calls in. After a brief bit of chitchat
+Ame: "By the way, do you know who plays 'Owner of a Lonely Heart'?"
+Kiara: "No, who?"
+"No, Yes." "Who?" "No, Yes." "Yes what?" "Plays the song." "Who plays that song?" "No, Yes." Kiara pauses, takes a deep breath. "Ame, do you know the name of the band that plays 'Owner of a Lonely Heart?'" "Yes." "And will you tell me?" "Yes." "So what is the name of the band?" "Yes." "The band plays Lonely Heart?'" "No, we're not even talking about The Band." Kiara goes silent again. "AME!" "Yes, Kiara?" there's smugness in Watsons voice. "Do. You. Know. Who. Plays. Lonely. Heart." "Y-" "DON'T SAY YES, JUST TELL ME WHO!" "Not Who, Yes!" Kiara screams, peaking her mic, then shuts down the stream.

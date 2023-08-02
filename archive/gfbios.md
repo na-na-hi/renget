@@ -1,0 +1,25 @@
+"This is...a test. A person only overcomes trouble when they undergo growth." Those are all the words she needed to convince herself to do it. Risu cocked the handgun.
+
+"You don't want to go down that path, Tupaisen. You cannot kill me, I will not allow it." Reine popped the slugs out of her sawed off, letting them clink on the ground as she reloaded her weapon with new ammunition. Special bullets made with anti-squirrel poison.
+
+Dozens of thoughts went through her head. Would she really be able to do it? Could she kill her own Senpai after all these years they spent together?... No, that wasn't the right question. She knew she would do whatever it took to save her friends. The question was, would she be able to live with herself after the fact? There was only one way to find out. Reine steps out of behind the pillar and rushes towards the next one, firing her shells at the pile of barrels Risu was hiding behind. At this distance, her shots were unlikely to ever hit the squirrel, but they did knock the barrels back which was enough to expose her. Risu yelled out as she began to unload her clip onto the peacock who reloaded like her life depended on it. And it did. A shot hits her right arm, making her stumble to the ground; but not before she herself shot at Risu. Some of the pellets perforated the armor of her leg, one hit the side of her abdomen. Risu shouted in pain, but did not go down.
+
+She kept shooting. Reine rolled behind a pillar for cover, and only the sound of groaning and heavy breathing filled the empty underground garage. *pop* went the sawed off as she unloaded the spent slugs and prepared to load new ones. Risu grabbed the last clip in her leg pouch and slapped the magazine in.
+
+"It does not have to end this way, Reine!" She shouted, groaning in pain. The pellet in her side was causing her a great deal of pain, not to mention the blood. On the other side, Reine grasped her arm with her bloody hand, desperately trying to apply pressure to the wound. She knew something like this wouldn't be immediately fatal, but she could definitely bleed out if this went on for long enough. She was running out of time, she needed to get to the landing zone and Risu had to be 6 feet under by the time the helicopter got here. Ollie's life depended on it. Without the helicopter to get her to a hospital, she would not live.
+
+"The choices we made led us to the paths we see today, Tupaisen. You made your choice! I made mine! And that's all there is to it!" Risu thought back as to the moment it all went wrong. She could not pinpoint one exact moment, but a series of bad choices she truly wished she could change. But it was too late now. The deeds were done. There was only two ways this was going to end, and one of those was clearly not an option.
+
+"So be it."
+
+Reine rolled out from behind her cover, standing on her knees as she stabilized her shottie. Risu shot once, hitting her in the calf, then again, hitting her on her already wounded shoulder. But Reine simply took it, focusing her breath and aim, and then, when the moment was right, she shot. The hit was dead on, hitting directly on the squirrel's plated chest and sending her off her feet several meters back before she landed on the ground, gasping for air. The gasping did not last long before the blood began to spill into her lungs, prompting her to choke on her own self. She coughed out red, struggling to raise her arm off the ground to aim at Reine, then, another blast, sending her hand and gun flying off into the distance as a gory mess.
+
+Reine stood at her feet, tears stuck in her throat as her anger was greater.
+
+"YOU did this. Not me, not them, YOU! Everything was going fine until you decided to just... to just fuck it all up!" Risu continued choking, unable to give an answer. Perhaps, she wasn't even listening. The blast knocked her off her senses.
+
+"... And now... this is the result of your actions. You-... " She couldn't hold her tears in, the painful lump in her throat was too much. Seeing her Senpai on the ground, bloodied, limp and nearly lifeless, in pain, agony.
+
+"... You idiot..." She grabbed Risu's handgun off the ground and aimed it at her head. Risu looked up to her with teary eyes and a sweet smile, just like the ones they used to share, back when they were still friends. And then, she sent her off into the next plane with a single shot to the head. She could not look at the pool of blood that began to form, and so, she just walked off as the sound of the helicopter came near. Because of her choices, Ollie was going to be saved. Was it worth it? She believed so. It wasn't just Ollie, but Anya, and Iofi too. She could save them from having the same fate as Moona did. It didn't change the fact that it wasn't easy. It never was, but this time...
+
+Reine arrived at Ollie's unconscious body. She put her in her arms and carried her off to the landing zone. "C'mon Ollie. Let's go home..."

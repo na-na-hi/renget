@@ -508,21 +508,21 @@
 -> [MEGA](https://mega.nz/folder/y3BnWajK#PxqXj4wXbRS8or7j63068g/file/Dr5WySCI) <-
 
 #### -> Sakura Aoi <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(sakura aoi, green hair, long hair, low twintails, hair ornaments, green eyes, japanese clothes, sailor collar, long sleeves, wide sleeves, black shirt, green skirt, ribbon, black pantyhose, brown geta)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/9P5GUbJZ) <-
 
 #### -> Ci the Jiangshi <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.75
 !!! info Example Prompt
-	
+	(purple hair, blue hair, multicolored hair, streaked hair, double bun, short hair, ofuda, jiangshi, green eyes, purple jacket, long sleeves, white shirt, zipper, stitches)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/QaoQCa6a) <-
 
 #### -> Delutaya <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	(delutaya, green hair, streaked hair, pink hair, multicolored hair, twintails, short hair, asymmetrical bangs, hairclip, fake animal ears, ahoge, red eyes, earrings, sleeveless shirt, bare shoulders, white shirt, black high-waist skirt, black pantyhose, black gloves)
 ##### -> V1 <-
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/FbgSiDZQ) <-
 ##### -> V2 <-
@@ -544,9 +544,9 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/EPgTQa6a) <-
 
 #### -> Kaminari Qpi <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.7
 !!! info Example Prompt
-	
+	(blonde hair, long hair, orange eyes, dark-skinned female, orange hairclip, black jacket, off shoulder, white crop top, midriff, black skirt, thigh strap, choker)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/4LwWGQwL) <-
 
 #### -> Artemis of the Blue <-
@@ -563,9 +563,9 @@
 -> [Catbox](https://files.catbox.moe/fvwioa.safetensors) <-
 
 #### -> Numi <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(akuma nihmune, choker, ear piercing, high heels, horns, off-shoulder jacket, long hair, purple hair, pink eyes, loose necktie, open jacket, pleated skirt, white shirt, necklace, cleavage, garter straps, brown thighhighs, school uniform)
 -> [Catbox](https://files.catbox.moe/gmvbvb.safetensors) <-
 
 #### -> Shylily <-
@@ -718,15 +718,16 @@
 -> [Civitai](https://civitai.com/models/63753/buffpup) <-
 
 #### -> ViennaC9 <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 1
 !!! info Example Prompt
-	
+	(vienna (vtuber), black hair, blue hair, gradient hair, red eyes, dragon horns,  long hair,gradient eyes, crescent hair ornament, white crop top, navel, black coat, fur trim, suspenders, high-waist pants, white pants yellow ribbon)
+
 -> [Civitai](https://civitai.com/models/15420/vienna-vtuber) <-
 
 #### -> Saruei <-
-!!! note Recommended weight: ?
+!!! note Recommended weight: 0.8
 !!! info Example Prompt
-	
+	 (rael, raelsuit, bodysuit, semi-rimless eyewear, fingerless gloves, mechanical tail, ponytail, jacket)
 -> [Civitai](https://civitai.com/models/64410/saruei-vtuber-lora) <-
 
 #### -> Akumi Yoclesh <-

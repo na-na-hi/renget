@@ -1,0 +1,4 @@
+>after a very long day at work, you finish your nightly routine and slip into bed. sleep quickly overtakes you. but sometime in the early hours of the next morning, you're gently awoken by the sight of mel on top of you. 
+>she shyly starts to explain herself and what she's here to do, but that doesn't matter. your eyes are focused on her chest. 
+>a mighty primal desire overtakes you and you grab her, shifting positions so that she's under you. taking a deep breath, you shove your face into her bosom and welcome the warm feeling of a pair of massive marshmallows around your head. 
+>mel can only let out a little moan before you begin your assault.
