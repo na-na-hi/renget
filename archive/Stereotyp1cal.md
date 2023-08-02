@@ -1,3 +1,5 @@
+!!! danger ALERT! DICKSWORD HAS DISABLED ALL OF MY ACCOUNTS LMFAO.
+
 -> ![image description](https://see.fontimg.com/api/renderfont4/J6yx/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjRkZGRUZFIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U3RlcmVvdHlwMWNhbCdzIENoYXRib3Rz/yokelvision.png) <-
 
 -> ![image description](https://files.catbox.moe/ko8ert.png) <-

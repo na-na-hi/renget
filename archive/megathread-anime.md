@@ -89,10 +89,6 @@
 - Following the closing of the original 4anime, this is incredibly fast reskinned alternative where you can view anime and shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/4anime.gg/)
 
-### 🐐 [9anime](https://9anime.me/)
-- With a strong emphasis on anime titles in a variety of genres, you may discover practically any series you want.
-- [URL Safety Results](https://www.urlvoid.com/scan/9anime.me/)
-
 ### ▶️ [AllAnime](https://allanime.to/)
 - A trustworthy resource, scraping numerous different websites with various options.
 - [URL Safety Results](https://www.urlvoid.com/scan/allanime.to/)
@@ -136,6 +132,10 @@
 ### 🐐 [AniWatch](https://aniwatch.to/)
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
+
+### 🐐 [AniWave](https://aniwave.to/)
+- With a strong emphasis on anime titles in a variety of genres, you may discover practically any series you want.
+- [URL Safety Results](https://www.urlvoid.com/scan/aniwave.to/)
 
 ### ▶️ [AnimeXin](https://animexin.vip/) • Donghua
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.

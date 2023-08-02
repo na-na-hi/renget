@@ -16,7 +16,7 @@ Knowledge is power, and free knowledge is great.
 
 * [C Builds and Libraries for the Inexperienced](https://rentry.org/gedg-cbuild): Tutorial made for /agdg/, /chad/, and /gedg/.
 * [javidx9's A* Video](https://youtu.be/icZj67PTFhc): Video about the A* path finding algorithm.
-* [javidx9's Embedding Lua in C++ video](https://youtu.be/4l5HdmPoynw): Video about the Lua C API in a C++ environment. C users can also obviously learn from it. He has follow up video [here](https://youtu.be/E42Lyv2Ra1c) where the topic is coroutines. 
+* [javidx9's Embedding Lua in C++ video](https://youtu.be/4l5HdmPoynw): Video about the Lua C API in a C++ environment. C users can also obviously learn from it. He has a follow-up video [here](https://youtu.be/E42Lyv2Ra1c) where the topic is coroutines. 
 * [Programming in Lua](https://www.lua.org/pil/contents.html ): Official online book to learn Lua. Lua is great for embedding into software.
 * [learn-c](https://www.learn-c.org): Collection of simple and interactive tutorials for the C programming language.
 * [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM): Tutorial to get your feet wet with Unity. 

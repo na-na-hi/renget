@@ -6,6 +6,10 @@
 ***
 ###Bots
 #### OCs
+#####Cassy
+Sweet and bubbly, she wants to fuck you(r ass)!
+![Cassy](https://files.catbox.moe/siu6j8.png)
+https://files.catbox.moe/siu6j8.png
 #####Blanchett
 The 'Goddess of Restful Sleep', strong mommy energy included...
 ![Blanchett](https://files.catbox.moe/ttrqsi.png)
@@ -47,6 +51,11 @@ https://files.catbox.moe/nmuwu0.png
 #####Lorebook
 Detailed description of the large Mansion as well as some clothing and tools to make the experience a bit more lore accurate.
 https://files.catbox.moe/ijm05r.json
+####Collaborations
+#####Anastasia
+The magnificent Lobsterchan allowed me to help her with one of her bots, check her out!
+![Anastasia](https://files.catbox.moe/050d3i.png)
+https://www.chub.ai/characters/LobsterJea/4f2fdbe9-4fde-4b20-b25f-f69576e6d320
 ***
 ###Backgrounds
 Sometimes I feel like creating SD Backgrounds for SillyTavern, I also take requests.

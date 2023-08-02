@@ -19,7 +19,7 @@ Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charl
 葉山舞鈴 / Ohayama Ch.|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
 轟京子/kyoko todoroki|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
 神成きゅぴ / Kaminari Qpi|[Twitter](https://twitter.com/xprprQchanx) [Youtube](https://youtube.com/@KaminariQpi)|VSPO - FPS Gyaru
-烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams)|0
+烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams) [Twitch](https://www.twitch.tv/ebosi_64)|
 ヴァリアナ・S・ティンガーネット|[Twitter](https://twitter.com/Valiana_s) [Youtube](https://www.youtube.com/@valiana_s)|スナックにり - Mahjong
 猫葉こば|[Twitter](https://twitter.com/Coba_Nekoba) [Twitch](https://www.twitch.tv/nekobacoba)|
 火神カナ|[Twitter](https://twitter.com/KagamiKana) [Youtube](https://www.youtube.com/@user-pe6he6do7r/streams)|
@@ -54,6 +54,10 @@ Dia Tatsunuma / 辰沼ディア|[Twitter](https://twitter.com/Dia_Tatsunuma) [Yo
 猪戸仁【shishido shinobu】|[Twitter](https://twitter.com/Shishido_712) [Youtube](https://www.youtube.com/@shishido712)|
 ここいつの -kokoi tuno- |[Twitter](https://twitter.com/kokoituno) [Youtube](https://www.youtube.com/@kokoituno) [Twitch](https://www.twitch.tv/kokoituno)|
 昆布わかめ|[Twitter](https://twitter.com/aconbwakame) [Youtube](https://www.youtube.com/@aconbwakame)|
+ざこちちゃん-ZAKOCHIchan-|[Twitter](https://twitter.com/ZAKOCHIchan) [Youtube](https://www.youtube.com/@ZAKOCHIchan)|
+ロマロマ|[Twitter](https://twitter.com/romax2chan) [Youtube](https://www.youtube.com/@user-vt9ip8nb8v)|
+ティナ・ブラックタイガー|[Twitter](https://twitter.com/ThinA_Btora) [Youtube](https://www.youtube.com/channel/UCdrkGHsRhtqNjXGLUW1tc9Q)|
+モラモラはとこちゃん|[Twitter](https://twitter.com/MolaToko) [Youtube](https://www.youtube.com/@MolaToko) [Twitch](https://www.twitch.tv/molamola337)|
 
 ---
 
@@ -176,6 +180,12 @@ winryepona|[Twitter](https://twitter.com/winryepwna) [Twitch](https://twitch.tv/
 SawaGrapeSama|[Twitter](https://twitter.com/SourGrapeVA) [Youtube](https://www.youtube.com/@SourGrapeVA)|Voice actor, does silly voices
 ChiwawaCafe|[Twitter](https://twitter.com/chiwawacafe) [Youtube](https://www.youtube.com/@Chiwawacafe)|
 Nihm_CELS|[Twitter](https://twitter.com/CelsNihm) [Twitch](https://www.twitch.tv/nihm_cels)|
+Yatra_Vtuber|[Twitter](https://twitter.com/yatra_vtuber) [Twitch](https://www.twitch.tv/yatra_vtuber)|
+TotoraMao|[Twitter](https://twitter.com/TotoraMao) [Twitch](https://www.twitch.tv/totoramao)|
+Renpai|[Twitter](https://twitter.com/Renpaini) [Twitch](https://www.twitch.tv/renauni)|
+Roringclara|[Twitter](https://twitter.com/Roringclara) [Youtube](https://www.youtube.com/channel/UCfOf_LpXpbwWm2w8g0JV1_Q) [Twitch](https://www.twitch.tv/roringclara/)|Art
+Sukafu|[Twitter](https://twitter.com/SukafuDesu) [Youtube](https://www.youtube.com/channel/UCE-Cu031ZLeLlZw0DsSjg-g) [Twitch](https://www.twitch.tv/sukafu_)|
+
 
 ---
 
@@ -188,6 +198,9 @@ Parkdona ch. 박도나[KR]|[Twitter](https://twitter.com/parkdonakr) [Youtube](h
 Selphius[GER]|[Twitter](https://twitter.com/SelphyMelody) [Youtube](https://www.youtube.com/channel/UCBdIstCmMf6W1IcL7hgyL9Q) [Twitch](https://www.twitch.tv/selphy)|German
 Myun[GER]|[Twitter](https://twitter.com/Myunchen_) [Youtube](https://www.youtube.com/@myun) [Twitch](https://www.twitch.tv/myun)|German
 CowwyVT[ES]|[Twitch](https://www.twitch.tv/cowwyvt)|Spanish
+Cilfee[RU]|[Twitter](https://twitter.com/im_Cilfee) [Twitch](https://www.twitch.tv/cilfee)|Russian
+Chilla_Storia[CH]|[Twitter](https://twitter.com/Chilla_Storia) [Twitch](https://www.twitch.tv/storiavtuber00)|Taiwanese
+jayuhime[GER]|[Twitter](https://twitter.com/jayuhime) [Twitch](https://www.twitch.tv/jayuhime)|
 
 ---
 
@@ -224,6 +237,12 @@ eveningstar_ch[EN]|[Twitter](https://twitter.com/eveningchannel) [Twitch](https:
 TheAnglerCh[EN]|[Twitter](https://twitter.com/TheAnglerCh) [Twitch](https://twitch.tv/theanglerch)|Luchador
 Rusty_FC[EN]|[Twitter](https://twitter.com/Rusty_FC_) [Twitch](https://www.twitch.tv/rusty_fc)|
 Sirshabby[EN]|[Twitter](https://twitter.com/SirShabby1) [Twitch](https://www.twitch.tv/sirshabby)|
+ReneeTala[EN]|[Twitter](https://twitter.com/TTalaRenee) [Twitch](https://www.twitch.tv/reneetala)|
+CinderGrey[EN]|[Twitter](https://twitter.com/CinderousGrey) [Twitch](https://www.twitch.tv/CinderousGrey)|
+バーチャルバナナ[JP]|[Twitter](https://twitter.com/VirtualBa7) [Youtube](https://www.youtube.com/@VirtualBa7)|
+nempha_vt[EN]|[Twitter](https://twitter.com/Nempha_VT) [Twitch](https://www.twitch.tv/nempha_vt)|
+ミィ・ガルルラ[JP]|[Twitter](https://twitter.com/MyGarurura) [Youtube](https://www.youtube.com/@channel-dl2kj/)|TTRPG
+Vantacrow Bringer[EN]|[Twitter](https://twitter.com/Tyrant_Vanta) [Youtube](https://www.youtube.com/@VantacrowBringer)|NijiEN
 
 ---
 

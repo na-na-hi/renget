@@ -741,6 +741,13 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 	LoRA: https://pixeldrain.com/u/aVDqbBNN
 	Dataset: https://pixeldrain.com/u/whXDQFBz
 
+# Yuji Uekawa (Sonic Artist)
+>Yuji Uekawa's Sonic style LoRA trained on Fluffyrock megares terminal snr vpred e116 e89.
+
+>Typical tags: by yuji uekawa, sega, sonic the hedgehog \(series\), official art
+
+	https://files.catbox.moe/ntcp6y.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
