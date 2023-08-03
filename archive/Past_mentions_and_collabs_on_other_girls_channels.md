@@ -7,7 +7,7 @@
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on Nerissa's channels![Image description](https://files.catbox.moe/f9inkg.png) <-
 |Date|Link|Collab Partner(s)|
 |---|---|---|
-|02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=ZRZjvb7dU18)|Bijou|
+|02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou|
 
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
@@ -29,10 +29,15 @@
 ######Ina
 |Date|Link|Nature & Notes|
 |---|---|---|
-|02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago|
+|02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago https://twitter.com/ninomaeinanis/status/1686903752211791878|
 
 
 #####Advent
+
+######Shiori
+|Date|Link|Nature & Notes|
+|---|---|---|
+|02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interaction** - Nerissa & Bijou (later joined by the Fuwamoco Twins later) popping-in in Shiori's VC.|
 
 ######Bijou
 |Date|Link|Nature & Notes|
@@ -65,6 +70,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
+|01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment about the "no pants policy" during the AsaKoyo podcast|
 
 ####ID
 

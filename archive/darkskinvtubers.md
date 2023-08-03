@@ -15,9 +15,9 @@ Levimaru ch|[Twitter](https://twitter.com/YatonoLevi) [Youtube](https://www.yout
 しゅがーぐらいだー|[Twitter](https://twitter.com/sugarrrglider) [Youtube](https://www.youtube.com/@LilySyu_PJblue)|One half of a vtuber duo
 Charlotte Channel / 島村シャルロット|[Twitter](https://twitter.com/Charlotte_HNST) [Youtube](https://www.youtube.com/@Charlotte_Shimamura)|774inc.
 みみぴ|[Twitter](https://twitter.com/Mimipi_MMP) [Youtube](https://www.youtube.com/@mimipi_ch/streams)| RPG playthroughs
-魔使マオ -matsukai mao-|[Twitter](https://twitter.com/matsukai_mao) [Youtube](https://www.youtube.com/@MatsukaiMao/streams)|Nijisanji - Horror games
-葉山舞鈴 / Ohayama Ch.|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
-轟京子/kyoko todoroki|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
+魔使マオ -matsukai mao- ![](https://i.imgur.com/4NEZOeq.png)|[Twitter](https://twitter.com/matsukai_mao) [Youtube](https://www.youtube.com/@MatsukaiMao/streams)|Nijisanji - Horror games
+山舞鈴 / Ohayama Ch. ![](https://i.imgur.com/3yFZkXf.png)|[Twitter](https://twitter.com/Hayama_Marin) [Youtube](https://youtube.com/@HayamaMarin)|Nijisanji - Endurance streamer
+轟京子/kyoko todoroki ![](https://i.imgur.com/yyshmG3.png)|[Twitter](https://twitter.com/KT_seeds) [Youtube](https://www.youtube.com/@TodorokiKyoko/streams)|Nijisanji - Artist, Fashion
 神成きゅぴ / Kaminari Qpi|[Twitter](https://twitter.com/xprprQchanx) [Youtube](https://youtube.com/@KaminariQpi)|VSPO - FPS Gyaru
 烏星-ebosi-|[Twitter](https://twitter.com/ebosi_64) [Youtube](https://www.youtube.com/@ebosi/streams) [Twitch](https://www.twitch.tv/ebosi_64)|
 ヴァリアナ・S・ティンガーネット|[Twitter](https://twitter.com/Valiana_s) [Youtube](https://www.youtube.com/@valiana_s)|スナックにり - Mahjong

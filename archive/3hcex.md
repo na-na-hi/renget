@@ -5,9 +5,10 @@ Name: Isha, Princess of the Verzon Tribe
 Setting: Jungle/Multiplayer
 "The poor desert-dwellers are only evil and violent because they don't have an enthronement of lush green"
 
-Starting Points: 200
+Starting Points: 200+27 EP(Points from new DLC)
 
 Archetype: Neo-Barbarian
+Drawback: Boomer(+15 Points)
 "I don't understand: "Com-poot-ur?"  "Ray-dio?" The towers signals teach us much, but its mysteries are something only our greatest shamans can understand."
 
 Abilities: 
@@ -20,6 +21,7 @@ Pretty Face(127)
 
 Skills:
 Wasteland Native
+	Jungle Bunny(21 EP)
 Implacable(109)
 Gift of Tongues(101)
 Silent Tread(93, 29 CR)
@@ -40,6 +42,10 @@ Costner-Brand Recycler(14)
 Remote Detonator(8, 38 CR)
 Gas Mask(0)
 "A battle should end and start in the same moment if the towers guidance is followed"
+Cool Outfit(20 EP, Waitress Outfit)
+"Miss Kara said I'll attract more customers in this!  Isn't it pretty?  I just wish it covered less"
+Praise the Lord and Pass the Ammunition(0 EP)
+"You _don't_ teach your daughters how to make pipe bombs?  How will keep raiders away from their home then?"
 
 Romance Difficulty: 3
 "How kind, but there are certain trials my husband must go through to be deemed worthy of me.  But... we can do those later.."

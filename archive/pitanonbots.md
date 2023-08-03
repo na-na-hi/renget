@@ -28,17 +28,17 @@ Threat Tracker | (18/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](ht
 Party Tracker | (18/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/party-tracker) | https://files.catbox.moe/0dzp0p.png
 
 ###Re:Zero Characters
-| Bot's name | Updated | CHUB Link | Card |
-|---|---|---|---|
+| Bot's name | Updated | CHUB Link | Card | Alternate Art
+|---|---|---|---|---|
 Felix | (29/05/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Felix) | ![](https://files.catbox.moe/cw8gjf.png)
 Shota Felix | (29/05/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Ferris) | ![](https://files.catbox.moe/60mk1z.png)
-Beatrice | (27/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Beatrice) | ![](https://files.catbox.moe/cd3dvp.png)
-Priscilla | (25/05/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Priscilla) | ![](https://files.catbox.moe/rvvdia.png)
+Beatrice | (27/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Beatrice) | ![](https://files.catbox.moe/cd3dvp.png) | https://files.catbox.moe/4e2din.png
+Priscilla | (25/05/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Priscilla) | ![](https://files.catbox.moe/rvvdia.png) | ![](https://files.catbox.moe/f8ufbb.png)
 Rem and Ram | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rem-and-ram) | ![](https://files.catbox.moe/jbhaae.png)
-Rem | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Rem) | ![](https://files.catbox.moe/yzqgee.png)
-Ram | (18/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Ram) | ![](https://files.catbox.moe/6sj47g.png)
-Emilia/w Puck | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Emilia) | ![](https://files.catbox.moe/se1cu1.png)
-Crusch | (1/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Crusch) | ![](https://files.catbox.moe/sw0iqj.png)
+Rem | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Rem) | ![](https://files.catbox.moe/yzqgee.png) | ![](https://files.catbox.moe/hv1sw6.png)
+Ram | (18/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Ram) | ![](https://files.catbox.moe/6sj47g.png) | ![](https://files.catbox.moe/teve3w.png)
+Emilia/w Puck | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Emilia) | ![](https://files.catbox.moe/se1cu1.png) | ![](https://files.catbox.moe/s83l89.png)
+Crusch | (1/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Crusch) | ![](https://files.catbox.moe/sw0iqj.png) | ![](https://files.catbox.moe/06askg.png)
 Echidna | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Echidna) | ![](https://files.catbox.moe/11v164.png)
 
 ###Lorebooks

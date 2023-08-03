@@ -21,3 +21,7 @@
 
 COMING SOON
 (WIP)
+
+#---Outsiders---
+
+![outsiders part 1](https://imgur.com/nBMasK7.png)

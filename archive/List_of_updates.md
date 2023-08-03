@@ -27,11 +27,13 @@
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |01/08/2023|15|Music|Addition of a placeholder for an upcoming cover (announced during the [Unpacking stream](https://youtu.be/gKlDWtpGZsg?t=6760)).|
-|02/08/2023|16|Mentions & Collabs|Deletion of the placeholder for the upcoming 'Untitled Goose' collab with Bijou - Nerissa is streaming on her channel|
-|02/08/2023|17|Mentions & Collabs|Addition of subsection for the collabs specifically on Nerissa's channel|
+|02/08/2023|16 & 17|Mentions & Collabs|Deletion of the placeholder for the upcoming 'Untitled Goose' collab with Bijou - Nerissa is streaming on her channel|
+|02/08/2023|16 & 17|Mentions & Collabs|Addition of subsection for the collabs specifically on Nerissa's channel|
 |02/08/2023|18|Main page|Creation of a dedicated page about merch|
 |02/08/2023|19|Mentions & Collabs|Addition of a timestamp from the TOTK #1 stream from Bijou|
 |02/08/2023|20|Mentions & Collabs|Addition of a timestamp from FUWAMOCO MORNING #1 stream from the Fuwamoco Twins|
 |02/08/2023|21|Mentions & Collabs|Addition of a 3 minutes sound clip from Ollie's Twitterspace about her first impressions about Nerissa|
-|02/08/2023|22|Mentions & Collabs|Addition of a 3 timestamps for the majors interactions or mentions done by Liara during her zatsudan|
+|02/08/2023|22|Mentions & Collabs|Addition of a 3 timestamps for the major interactions or mentions done by Kiara during her zatsudan|
 |02/08/2023|23|Mentions & Collabs|Addition of Ina's Drawing stream|
+|02/08/2023|24|Mentions & Collabs|Addition of a timestamp for Shiori's Virtual Sleepover stream|
+|02/08/2023|25|Mentions & Collabs|Additions of Koyori's first impressions during her AsaKoyo #139 podcast|

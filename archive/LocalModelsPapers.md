@@ -337,3 +337,4 @@
 06/2023|[kaiokendev - Extending Context is Hard…but not Impossible](https://archive.ph/vJC44)
 06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.ph/Rsoai)
 07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities)
+07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.ph/hfbHH)

@@ -32,12 +32,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png)|[Neferpitou](https://files.catbox.moe/081nti.png)
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Mei Lien](https://files.catbox.moe/3z45w9.png)|
 [Malik](https://rentry.co/maliksusanto) | Misc |[Val Deluca](https://i.postimg.cc/KcssMtWk/Val-Deluca-thumb.png), [Alma Armitage](https://i.postimg.cc/1zTvbSZm/Alma-Armitage-thumb.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Abigail](https://files.catbox.moe/ivj6js.png)|[Kurisu Makise](https://files.catbox.moe/igqdk8.png), [Abigail](https://files.catbox.moe/ivj6js.png) [MV]
+[Genoo](https://rentry.org/295se) | Sizeplay |[Abigail](https://files.catbox.moe/ivj6js.png)|[Akane](https://files.catbox.moe/qvf3fs.png), [Kurisu Makise](https://files.catbox.moe/igqdk8.png), [Abigail](https://files.catbox.moe/ivj6js.png) [MV]
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Roman](https://files.catbox.moe/kq9990.png)|[Roman](https://files.catbox.moe/kq9990.png) [MV]
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tomoki](https://files.catbox.moe/triaw4.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Emilia](https://files.catbox.moe/s83l89.png), [Beatrice](https://files.catbox.moe/4e2din.png), [Crusch](https://files.catbox.moe/06askg.png), [Rem](https://files.catbox.moe/hv1sw6.png), [Ram](https://files.catbox.moe/teve3w.png), [Priscilla](https://files.catbox.moe/f8ufbb.png)
 [Bipbots](https://rentry.org/bipbots) | Misc ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
+[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||

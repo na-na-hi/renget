@@ -1,3 +1,5 @@
+Old: >>XXXXXXX
+
 X Edition
 
 >WEBUI SETUP
@@ -10,15 +12,19 @@ Custom Scripts: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Cus
 
 >RESOURCES
 Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
+
 LoRAs/models: https://civitai.com/ | https://huggingface.co/ | https://gitgud.io/gayshit/makesomefuckingporn
 Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https://rentry.org/59xed3
+
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups
 ControlNet: https://rentry.org/dummycontrolnet
 LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
+
 4chanX Catbox userscript: https://rentry.org/hdgcb
 Booru: https://aibooru.online
+
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 
 >Related
@@ -28,5 +34,5 @@ OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk9
 >>>/e/sdg
 >>>/vt/vtai
 >>>/vg/aids
-
-Old: >>XXXXXXX
+>>>/b/degen
+>>>/trash/sdg
