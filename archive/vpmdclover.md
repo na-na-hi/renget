@@ -29,7 +29,8 @@ N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdclo
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
 Nida | F | Nidorina | Poochyena (Pochi, M, Native, Naive/Relaxed) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
-Cheesecake | ? | Wooper | Politoed (Apple, F) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#cheesecakeapple)
+Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
+Cheesecake | M | Wooper | Politoed (Apple, F) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -274,6 +275,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
 	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
+	* [KFC Gets a Win!](https://rentry.org/49yqh)
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
 * Macom the Mareep
@@ -491,6 +493,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) 
 * {||} [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail)
 * {||} [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
+* {||} [KFC Gets a Win!](https://rentry.org/49yqh)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

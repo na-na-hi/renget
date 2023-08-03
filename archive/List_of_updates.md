@@ -37,3 +37,4 @@
 |02/08/2023|23|Mentions & Collabs|Addition of Ina's Drawing stream|
 |02/08/2023|24|Mentions & Collabs|Addition of a timestamp for Shiori's Virtual Sleepover stream|
 |02/08/2023|25|Mentions & Collabs|Additions of Koyori's first impressions during her AsaKoyo #139 podcast|
+|03/08/2023|26|Mentions & Collabs|Addition of a 11 timestamps (!) and a picture of the entire timeline for the major streamer-chat interactions done during Kiara's Pizza Tower stream|

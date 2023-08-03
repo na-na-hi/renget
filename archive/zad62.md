@@ -793,3 +793,45 @@ Rav's eyes searched mine, and for a moment, I felt a connection between us. We w
 As we settled in for the night, I couldn't help but feel a sense of responsibility for this bandit group that had become our companions. Their journey was intertwined with my own, and together, we were embarking on a quest that held both danger and discovery.
 
 The night air was filled with the quiet hum of the desert, and as I closed my eyes, I couldn't shake the feeling that our destinies were etching themselves into the vast expanse of the red sand desert. The road ahead would be challenging, but with Luna by my side and a newfound connection with Rav and his bandits, I felt a newfound determination to see this journey through to its end.
+
+>036: Brute & Soft
+
+In the dim glow of the early morning sun, I found myself drawn to Rav, my curiosity ignited by the weapon he wielded with such proficiency. The barbarian's sword was a stark reflection of his fighting style—raw power and brute force. I approached him, a glimmer of intrigue in my eyes.
+
+"Rav, if you don't mind my asking, could you tell me more about your sword and your unique fighting technique?" I inquired.
+
+Rav's gaze met mine, his expression a mix of surprise and amusement. "You're interested in the way I fight?"
+
+I nodded earnestly. "Absolutely. Your style is unlike anything I've seen before, and I'm genuinely curious to learn more."
+
+A faint smile graced Rav's lips as he unsheathed his sword, its blade reflecting the desert sun's rays. "Very well, then. My fighting style is all about directness and overwhelming force. I rely on the sheer weight and momentum of my strikes to crush my enemies."
+
+His words resonated with me, and I couldn't help but be captivated by his unwavering confidence and skill. But there was something more to his technique, something he revealed with a subtle gesture. As he grazed his fingers along the edge of his blade, a faint shimmer of magic seemed to ripple through the metal.
+
+"It's not just brute force," Rav explained. "I've harnessed a unique form of magic that I use to seal my wounds. Instead of healing, I stop the bleeding and close the wounds, allowing me to continue fighting without hindrance."
+
+I was struck by the ingenuity of his approach. It was a form of magic that veered from the conventional path of healing, yet it served its purpose just as effectively. A term formed in my mind, a description that encapsulated his technique perfectly.
+
+"I'm going to call this the 'Brute Sword' technique," I declared with a hint of excitement. "It's a blend of your raw power and the unconventional use of magic to keep fighting."
+
+Rav's eyes glittered with approval, a sense of pride evident in his demeanor. "I must admit, I rather like that name. 'Brute Sword.' It has a certain ring to it."
+
+As our conversation continued, Rav offered more insights into his sister Nexa's unique combat style. She eschewed direct confrontation, instead employing a delicate balance of offense and defense. Her claw strikes were precise and calculated, her movements elegant and unhurried. But it was her ability to steal the hearts of her foes—both figuratively and literally—that left a lasting impression.
+
+"Her technique is as much psychological as it is physical," Rav mused. "She can disarm her enemies without them even realizing it, leaving them vulnerable to her control."
+
+A name for Nexa's technique surfaced in my thoughts, one that captured the essence of her approach.
+
+"I'm going to call her style the 'Soft Claw' technique," I announced. "It's a reflection of her subtle yet powerful methods."
+
+Rav's eyes crinkled in a smile, his approval evident. "Soft Claw and Brute Sword. I have to say, you have a knack for naming techniques."
+
+Our conversation was a fascinating exploration of combat styles, each one a reflection of the individual's personality and strengths. As I absorbed the knowledge shared by Rav, I couldn't help but marvel at the rich tapestry of skills that existed within the Kash'gon cultures.
+
+The night passed swiftly, and as dawn's first light painted the sky in hues of orange and gold, I found myself lost in thought. Luna, my steadfast companion, had remained by my side, her presence a comforting reassurance in the midst of uncertainty. It was then that I noticed something extraordinary—the flicker of fiery letters dancing in the air.
+
+Turning my gaze to Luna, I read her message with a sense of wonder. She expressed her desire to accompany me on my future journeys, a sentiment that warmed my heart. With a nod and a smile, I accepted her unspoken invitation. Our bond had grown strong, and the prospect of having her by my side filled me with a renewed sense of purpose.
+
+As the sun's radiant glow heralded a new day, we continued our trek through the vast expanse of the red sand desert. The bandits, Luna, and I pressed forward, our destination—the "Twenty Dunes"—loomed ever closer on the horizon. The trials we had faced together had forged an unbreakable connection, and I couldn't help but feel that our journey was hurtling towards a momentous conclusion.
+
+The desert sands stretched out before us, each dune a testament to the challenges we had overcome and the discoveries we had made. With Luna at my side and the memory of the bandits' camaraderie etched in my mind, I took each step with a newfound determination. The final stretch of our journey beckoned, and I was ready to uncover the secrets that awaited us within the Twenty Dunes.

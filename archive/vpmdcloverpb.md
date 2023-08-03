@@ -342,6 +342,9 @@ Currently in conflict with her old Gang, as she was doublecrossed for her part o
 She can keep her cool when in dangerous situations, thanks to living on the run for so long.
 She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
 
+###Topa
+{Pending}
+
 ###Cheesecake/Apple
 Cheesecake's held item is a Lucky Ribbon worn as a scarf.
 Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Her held item is a Pecha Scarf.

@@ -24,6 +24,7 @@
 |---|---|---|
 |31/07/2023|[Timestamp](https://youtu.be/nebLnoSRHwE?t=8926)| **Mention** - Explanation of Nerissa's situation before her debut regarding HoloTori|
 |02/08/2023|[Timestamp #1](https://youtu.be/GqWACMhCX_c?t=2932) [Timestamp #2](https://youtu.be/GqWACMhCX_c?t=11002) [Timestamp #3](https://youtu.be/GqWACMhCX_c?t=16711)| **Mention** - Multiple back-and-forth mentions and (in-chat) interactions between Kiara and Narissa during a zatsudan|
+|03/08/2023|[Timestamp #1](https://youtu.be/bMxjhvXqnCg?t=2071) [Timestamp #2](https://youtu.be/bMxjhvXqnCg?t=2134) [Timestamp #3](https://youtu.be/bMxjhvXqnCg?t=2878) [Timestamp #4](https://youtu.be/bMxjhvXqnCg?t=3307) [Timestamp #5](https://youtu.be/bMxjhvXqnCg?t=7884) [Timestamp #6](https://youtu.be/bMxjhvXqnCg?t=8552) [Timestamp #7](https://youtu.be/bMxjhvXqnCg?t=9015) [Timestamp #8](https://youtu.be/bMxjhvXqnCg?t=10412) [Timestamp #9](https://youtu.be/bMxjhvXqnCg?t=12529) [Timestamp #10](https://youtu.be/bMxjhvXqnCg?t=14910) [Timestamp #11](https://youtu.be/bMxjhvXqnCg?t=17749)| **Stream-Chat Interactions** -Back-and-forth interactions between Kiara and Narissa (being in the chat) during the Pizza Tower Stream. - Possibility in the future for a Perfect Blue collab watchalong. [Timeline](https://files.catbox.moe/yqh8mg.png)|
 
 
 ######Ina

@@ -11,15 +11,18 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
+\>Upcoming
+https://www.youtube.com/watch?v=y6bSgVuN1gg
+\>Past Streams
 Untitled Goose Game
 https://www.youtube.com/watch?v=GU1PhsuLYDI
 Impromtu Zatsu collab during Shiori's Virtual Sleepover Stream with all of Advent (timestamp).
 https://youtu.be/rVNL6MJBQvk?t=4907
 
 \>First cover - Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
-https://www.youtube.com/watch?v=RWU3o_kDixc
+https://music.youtube.com/watch?v=RWU3o_kDixc
 \>Rebellion (Hololive English -Advent- Debut Song)
-https://www.youtube.com/watch?v=pYNYhSsR8EE
+https://music.youtube.com/watch?v=pYNYhSsR8EE
 \>Debut stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
 \>Debut Merch

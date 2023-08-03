@@ -33,10 +33,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png)|[Neferpitou](https://files.catbox.moe/081nti.png)
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Mei Lien](https://files.catbox.moe/3z45w9.png)|
 [Malik](https://rentry.co/maliksusanto) | Misc |[Val Deluca](https://i.postimg.cc/KcssMtWk/Val-Deluca-thumb.png), [Alma Armitage](https://i.postimg.cc/1zTvbSZm/Alma-Armitage-thumb.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Abigail](https://files.catbox.moe/ivj6js.png)|[Akane](https://files.catbox.moe/qvf3fs.png), [Kurisu Makise](https://files.catbox.moe/igqdk8.png), [Abigail](https://files.catbox.moe/ivj6js.png) [MV]
+[Norquinal](https://rentry.org/norquinal/) | Mostly furry ||[Rosita](https://files.catbox.moe/t16fy7.png)
+[Genoo](https://rentry.org/295se) | Sizeplay ||[Akane](https://files.catbox.moe/qvf3fs.png), [Kurisu Makise](https://files.catbox.moe/igqdk8.png)
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Roman](https://files.catbox.moe/kq9990.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
@@ -55,8 +56,8 @@ Botmaker | Category | New Bots | Updated Bots
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
@@ -73,7 +74,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Laathix](https://rentry.co/LaathixsStuffs) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
-[Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Tarkman](https://rentry.org/tarkmanbots) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc ||

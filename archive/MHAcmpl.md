@@ -191,7 +191,7 @@ Sara Torezo HN "Starshooter": https://archive.4plebs.org/tg/post/89029548
 ## RELATIONSHIP CHARTS
 Compilation: https://pastebin.com/rsnEph0b
 Flying Force: https://controlc.com/44584126
-Yamata: https://controlc.com/311a6f66
+Yamata: https://controlc.com/311a6f66 / https://rentry.org/r5xsg
 Blackout: https://rentry.co/9ev7t
 Mahoudeva: https://rentry.co/dbitv
 Archangel: https://rentry.org/hgkmz

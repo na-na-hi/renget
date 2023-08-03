@@ -9,7 +9,20 @@ We asked a series of 17 yes/no questions, 5 times for a total possible score of 
 #### Limitations
 ***
 Tests were done **without** Instruct Mode and. as a result, the instruct models may reflect a lower score than reality (for example, Metharme). As many of these models are mixes, there would be great effort in finding the most ideal instruct mode for each model, and we wanted to keep things simple. Another thing to consider is that the smarter models grab hold of patterns, which means that their score may reflect lower than reality, when used **without** a detailed card/prompt (for example, Lazarus). The sample sizes are also quite low per question (with 5 iterations), so the scores may not hold any statistical significance. The most ideal settings can change depending on the context and model; as this was done with set parameters (Pro Writer), some scores may reflect lower than actuality.
+***
+!!! warning The ranking is being updated slowly because we noticed a flaw with our methodology. Our scoring system did allow us to discern good models, from decent models, from bad models. However, with better models coming out one after the other, we've noticed that it doesn't allow us to discern very good models from amazing models. With the release of LLaMA-2 and its finetunes, we've decided that we needed to change the way we score models because these are so good that we wouldn't be able to score them fairly using our current scoring system. So while our methodology is being reworked, our current 7B, 13B model, and LoRA recommendations are:
 
+	- 7B:
+	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ)
+	-13B:
+	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ)
+	[Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
+	- LoRAs:
+	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2)
+	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA)
+	
+	
+***
 #Leaderboard
 ***
 

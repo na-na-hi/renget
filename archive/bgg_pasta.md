@@ -1,6 +1,7 @@
 **Subject (do not include in the OP): /bgg/ - Baldur's Gate General**
 **XXX** Edition
 
+Launch trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
 Release trailer: https://www.youtube.com/watch?v=_TmGocqpY0Y
 City trailer: https://www.youtube.com/watch?v=t0uYhTLPGLQ
 Panel From Hell: https://youtu.be/MW846h6FyU4?t=14371
