@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10674144 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10715754 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -232,6 +232,7 @@
 | [>>50377010](https://rentry.org/ringotext2#50377010) | Suisei | sweat, smell, ringo |
 | [>>>/d/10657347](https://rentry.org/ringotext2#10657347) | Various | brap, sweat, ringo, choco |
 | [>>>/d/10694833](https://rentry.org/ringotext2#10694833) | Haato | brap |
+| [>>55078413](https://rentry.org/ringotext2#55078413) | Fuwawa, Mococo | ringo |
 
 ## >>249165
 

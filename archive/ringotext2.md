@@ -391,3 +391,62 @@ Sana's limiter makes her body externally smaller but we don't know that it does 
 >Because instead of the mic, she muted the BGM and gave tens of thousands of viewers a welcome home present
 
 -> * * * <-
+
+## >>55078413
+
+>FuwaMoco streaming
+>talking about watching movies together
+>Mococo says, "It's hard to watch them together because Fuwawa always drinks too much soda and needs to pause every 20 minutes!"
+>Fuwawa laughs it off and says, "That's not true, right? Why would I need to pause? We're idols, aren't we?"
+>"Oh, uh... right..."
+>the happy, playful stream continues for the next hour until it's time to put up the end card
+>"BAU BAUUUU"
+>the two of their smiles are lit only by the ambient glow of the computer screen
+>when the room goes dark Fuwawa's eye starts to twitch
+>Mococo leaps to the ground into a dogeza pose immediately
+>"Please wait! I didn't mean to!"
+>the chairs go flying in opposite directions
+>"Do you really think this is something you can just apologize for?"
+>"I'm sorry onee-chan, I really didn't-"
+>she's sent tumbling across the room from a kick to her exposed belly
+>"If you want to act like a stupid bitch, I'll treat you like a stupid bitch."
+>she tries to run for the door, flailing her arms wildly, but falls down face first
+>Fuwawa has an iron grip on her tail
+>she lifts Mococo's backside up into the air and starts kicking her in the groin over and over
+>"What do I need to do every 20 minutes, huh? Show me what you think idols do!"
+>Mococo only screams in pain as her bladder is pounded
+>"DO IT!"
+>she tries to hold on but when she feels the bones in he tail beginning to snap she can't take it anymore
+>the piss runs in a few streams out of her shorts and pools beneath her
+>Fuwawa drops her to the ground with a splat
+>"You gross fucking bitch."
+>Mococo lays where she fell and tries to stay still and silent as she stifles her sobs
+>suddenly the skin on her face is pulled back as Fuwawa yanks two handfuls of her hair
+>she's thrown a couple feet back and then her face is shoved down into the puddle
+>"Look at what you did! Look at what you made me do to you!"
+>her face and hair are soaked as she's dragged back and forth across the rough wooden floor
+>the urine fills her burning eyes and works itself into her skin as more and more cuts are torn open across her face
+>she desperately tries to hold her breath but her lungs begin to collapse
+>just before she thinks she's about to pass out she's pulled up and begins hyperventilating
+>"Does this seem like something an idol would do?! Does it?!"
+>all she can respond with is wheezing sounds as piss rolls off her chin
+>"ANSWER ME WHEN I SPEAK TO YOU BITCH!"
+>"N-no..."
+>"So you can learn. That's good... Now clean it up."
+>Mococo moves her head as much as she can looking for a rag, but ends up trying to use her shirt sleeves
+>her forehead is slammed down onto the hardwood once again
+>"No! Use your tongue."
+>Mococo lets out some whimpering sounds which only makes Fuwawa clench her hair harder
+>she sticks her tongue out and the tip brushes the piss puddle
+>the sharp salty taste makes her gag
+>Fuwawa shakes her and yells "FASTER!"
+>Mococo resolves herself and starts lapping it up as teardrops splash below her
+>Fuwawa lets go and Mococo peaks back to see her onee-chan looking down at her with utter contempt and disgust
+>"Shameless bitch."
+>she kicks her one last time in the kidney
+>Mococo curls up into a ball, covered in piss and blood and snot
+>Fuwawa walks to the door but turns back around
+>"Let's keep doing our best to become idols that can protect everyone's smile, okay? Bau bauuu!!!"
+>"B-bau... bauuu..."
+
+-> * * * <-

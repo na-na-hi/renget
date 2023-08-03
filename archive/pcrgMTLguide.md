@@ -54,7 +54,7 @@ If you are unhappy with some of the translations (like キャルちゃん ending
 
 Since nothing was actually installed, updating PriconeTL is as simple as replacing the files with the new version. The PriconeTL Devs recommend to not just extract over the old files, but to delete them and unpack a fresh version.
 
-1. Grab the most recent version from their [Github](https://github.com/ImaterialC/PriconeTL/releases/latest)
+1. Grab the most recent version from their [Github](https://github.com/ImaterialC/PriconneRe-TL/releases/latest)
 2. Make backups of the following files:
 	2.1 Preprocessor.txt under \priconner\BepInEx\Translation\en\Text
 	2.2 AutoTranslatorConfig.ini under \priconner\BepInEx\config

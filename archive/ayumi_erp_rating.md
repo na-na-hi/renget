@@ -373,7 +373,7 @@ Here are a few sources of character cards:
 - [Muricanpie's Characters - https://rentry.co/mpcs](https://rentry.co/mpcs)
 - [ERP/RP and erotica raw data collection - https://rentry.org/qib8f](https://rentry.org/qib8f)
 
-## Cite as
+# Cite as
 
 ```bibtex
 @misc{weirdconstruct2023-ayumi-llm-role-play-alc-iq-erp-ranking,

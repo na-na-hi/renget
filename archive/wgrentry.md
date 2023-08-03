@@ -1,10 +1,10 @@
 # The /wg/ Rentry
--> *"OP is a faggot, and proud of it." - Anonymous* <-
+-> *"Nice quotes go here." - Anonymous* <-
 __________________________________________________________________________________________________________________________________________________________________
 
-**Note to whoever's baking:** You'll need up to four images. Since you're the one who's baking, they can be whatever you want; just make sure they're about chuubas, they have some sort of theme (ex. all pics of Mel, all pics of Botan, all pics of Umisea members, etc.), and they're not NSFW.  There will always be three instances alluding to the poster's homosexuality at any given time. Any more or less than that means the thread is not legit. That's one image for the OP, and two for the Story Anchor and Story Recap. You'll need the extra image for the /wg/ Contest anchor if there's a contest going on. 
+**Note to whoever's baking:** You'll need up to four images. Since you're the one who's baking, they can be whatever you want; just make sure they're about chuubas, they have some sort of theme (ex. all pics of Mel, all pics of Botan, all pics of Umisea members, etc.), and they're not NSFW (and/or coombait).  That's one image for the OP, and two for the Story Anchor and Story Recap. You'll need the extra image for the /wg/ Contest anchor if there's a contest going on. 
 
-Also, **personalize the filenames of your images, especially the OP image**. The clearer you can make it that the thread was made by a person and not a bot, the better. We're fighting against literal machines here, son. If you ever fancied yourself being John Connor, now's your chance. Good luck!
+Also, when linking the new thread (You) baked to the previous thread, **tell us about a story you wrote** or a story you read (if you're a reader). We have ways of verifying that stuff. The clearer you can make it that the thread was made by a person and not a bot, the better. If you want to go further, you can even **personalize** the OP and anchors using the stuff here as a guideline. We're fighting against literal machines here, son. If you ever fancied yourself being John Connor, now's your chance. Good luck!
 
 One last thing. Please always double check the spelling of the Rentry link! It's https://rentry.org/**wgrentry**, not wg*renty*, or wgren*tyr*, or something else. Fake links may crop up sometime in the future. Don't buy fakes! Buy the original! Buy https://rentry.org/**wgrentry**.
 
@@ -17,7 +17,7 @@ One last thing. Please always double check the spelling of the Rentry link! It's
 /wg/ - Writing General - Contest Edition
 
 **Comment Field:**
-This is the writing thread, for all of your fanfiction needs and desires. We’re currently hosting the /vt/ Writing Rumble, a writing contest for the whole board to get involved in. OP is a fag don't ask why. The info page & contest archive can be found here: rentry.org/WGWC
+This is the writing thread, for all of your fanfiction needs and desires. We’re currently hosting the /vt/ Writing Rumble, a writing contest for the whole board to get involved in. The info page & contest archive can be found here: rentry.org/WGWC
 
 Check the main archive below for everything the thread has put out so far, ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
 https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qzPvU7GgJv6fXdAPmmIv6Qt9H5d5Fzg/exec
@@ -25,7 +25,7 @@ https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qz
 "Isn't this just you fuckers writing fanfiction?"
 Yes.
 
-Previous thread: **(link to previous thread)**
+Previous thread: **(link to previous thread, then a brief summary of that thread)**
 /wg/ rentry: https://rentry.org/wgrentry/
 
 ## /wg/ OP (Normal Version) 
@@ -34,7 +34,7 @@ Previous thread: **(link to previous thread)**
 /wg/ - Writing General - X Edition 
 
 **Comment field:**
-This is the writing thread, for all of your fanfiction needs and desires. Check the archives below for everything the thread has put out so far, OP a homo ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
+This is the writing thread, for all of your fanfiction needs and desires. Check the archives below for everything the thread has put out so far, ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
 
 Collective works so far are available in the archive:
 https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qzPvU7GgJv6fXdAPmmIv6Qt9H5d5Fzg/exec
@@ -42,7 +42,7 @@ https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qz
 "Isn't this just you fuckers writing fanfiction?"
 Yes.
 
-Previous thread: **(link to previous thread)**
+Previous thread: **(link to previous thread, then a brief summary of that thread)**
 /wg/ rentry: https://rentry.org/wgrentry/
 
 ## Story Anchor
@@ -64,7 +64,7 @@ rentry.org/WGWC
 
 Do you have a story you'd like to see written? Reply to this post with it! Try to be as clear and concise as possible; the better you describe your idea, the more likely it is to be picked up!
 
-Consider forwarding your prompt to the prompt archive to keep your idea safe and alive forever! No information is gathered - it's all completely anonymous. Original poster is gay. Use the form below:
+Consider forwarding your prompt to the prompt archive to keep your idea safe and alive forever! No information is gathered - it's all completely anonymous. Use the form below:
 https://docs.google.com/forms/d/e/1FAIpQLScgcr8y7I9NUta22Ni0gFvS51veG5_7XjJrVD1BvJqDtX5_sQ/viewform
 
 Curious to see the prompt archive? Check it out here if you need a little more inspiration!
@@ -75,7 +75,7 @@ https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vR5ZggiHWXX_WSqCC5bvPR2QeLFG
 **(Replace 'X' with the number of stories posted in the last thread. Look at the previous thread's story anchor and count the replies with stories attached)**
 
 Story recap!
-There were **X** stories posted last thread because OP is a fag. 
+There were **X** stories posted last thread.
 
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)

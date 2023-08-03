@@ -12,7 +12,7 @@ Ouu... I can't emphasise the importance of ***steering*** enough—It can't be t
 - | My personal presets:
 ------ | ------
 Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v1 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1135748105875226726/Truthfully-1-kayra_pume.preset)
+Kayra   | [Truthfully v3 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1136710862002999296/Truthfully-3-kayra_pume.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 

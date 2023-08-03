@@ -41,7 +41,7 @@ HFS | HoF† or FK | Herrscher of Flamescion | | PSY | S
 HH | HoHE | Herrscher of Human: Ego | | PSY | S
 HO | HoO | Herrscher of Origin || IMG | S
 HR | HoR | Herrscher of Reason | Tronya | MECH | S
-HRB | HoRB or TLM | Herrscher of Rebirth | Deer | PSY | S
+HRB | HRE | Herrscher of Rebirth | Deer | PSY | S
 HS | HoS | Herrscher of Sentiance | | BIO | S
 HT | HoT | Herrscher of Thunder | | PSY | S
 HTr | HoTr | Herrscher of Truth | Gundam | IMG | S
@@ -53,8 +53,9 @@ KR | AK† | Kriegsmesser | Krieg(s) | PSY | A
 LE | | Lightning Empress | | PSY | S
 LK | | Luna Kindred | | BIO | A
 MA | | Midnight Absinthe | Raven | IMG | A | 
-MC | | Molotov Cherry | Rozaliya or Roza | PSY | S
+MMG | MG | Miracle Magical Girl | Sirin | MECH | S
 MPE | MP | Miss Pink Elf♪ | Elysia | PSY | S
+MC | | Molotov Cherry | Rozaliya or Roza | PSY | S
 NS | | Night Squire | | BIO | A
 PE | | Palatinus Equinox| Juan | IMG | S
 PI | | Phantom Iron | | MECH | A

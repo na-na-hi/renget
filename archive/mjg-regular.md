@@ -2,6 +2,8 @@
 # /mjg/ Regular Tourney
 `Back to Basics edition`
 
+https://mjg-regular.neocities.org/
+
 A regular /mjg/ Tourney. No tricks, no gimmicks. Pure skill.
 
 

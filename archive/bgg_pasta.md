@@ -21,8 +21,6 @@ https://www.nexusmods.com/baldursgate3/
 \>A: No, but they are good games and you should give them a try. If you don't feel like playing them, here's a summary of the events leading up to BG3: https://www.youtube.com/watch?v=__GI7CrYnj8 (alternatively https://www.youtube.com/watch?v=M1TIDZBYuLc and https://www.youtube.com/watch?v=HUoARwbHcZQ)
 
 \>Misc:
-\>Swen was interviewed by streamers and revealed some new info, a summary of what was said can be found here: https://rentry.org/bgg_swenstreaminfo
-\>Community Update #22 is out: https://store.steampowered.com/news/app/1086940/view/3655285307835439472
 \>Larian recommends uninstalling the EA and deleting your saves at "%localappdata%\Larian Studios\Baldur's Gate 3\PlayerProfiles\" before playing the full game.
 
 \>Polls:

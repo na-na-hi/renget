@@ -1,3 +1,6 @@
+!!! note Small Hiatus (~Few Days)
+    I'll be back really soon! :D
+
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***

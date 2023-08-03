@@ -26,7 +26,7 @@ Think of it like saving work down the road on concepts you plan to use often; Wh
 - | My personal presets:
 ------ | ------
 Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v2 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1136564596442939462/Truthfully-2-kayra_pume.preset)
+Kayra   | [Truthfully v3 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1136710862002999296/Truthfully-3-kayra_pume.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 
