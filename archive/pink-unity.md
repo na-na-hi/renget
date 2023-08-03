@@ -109,12 +109,23 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
 *Punkalopi* (EN): https://www.youtube.com/@Punkalopi
 
+###Pink Accented
+Defined below.
+*AZKi* (JP): https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw
+*Mococo Abyssguard* (EN): https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA
+*Lia* (EN): https://www.youtube.com/@RinkouAshelia
+
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:
 Using the [HSV system](https://en.wikipedia.org/wiki/HSL_and_HSV). 
 - The average main diffuse color (Not the color of its specular highlights, or strands of differently colored hair) must have a hue above 280 degrees (out of 360) or below 15 degrees. Extreme cases on either end will likely be added to the "purplish pink" or "salmon pink" categories respectively.
 - The average main diffuse color must have a saturation above 4.
 - The average main diffuse color must have a value above 50.
+
+Admission to the **Pink Accented** category may be granted if a pink fulfilling the above criteria is used as an accent in both the hair and the outfit of the chuuba. This pink must be the most prominent color on the design, with the exception of black, white, and colors close to black and white (very dark blue, pale blonde) which are allowed to be more prominent than the pink accent.
+
+Accession to the list is granted to any chuuba that has used an outfit fulfilling the above criteria for multiple streams.
+
 These requirements may be adjusted as per the thread's will.
 
 This handy calculator can be used to quickly check whether a color is considered pink: https://jscalc.io/calc/sMMoNtRRP8z1fymh

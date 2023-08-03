@@ -62,6 +62,7 @@ Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
 *Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
 *Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
+*A Dame's Great Scoop* (Mario.exe)|[(link)](https://rentry.org/adamesgreatscoop)
 
 ##Non-vidya pastas
 Title|Link

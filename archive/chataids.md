@@ -31,5 +31,6 @@ https://rentry.org/aids-tavern
 ###AgnAIstic
 https://agnai.chat/
 
-###Card Repo
+###Card Repos
 https://www.characterhub.org/
+https://www.chub.ai/

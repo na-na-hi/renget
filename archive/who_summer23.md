@@ -18,7 +18,7 @@ _______________________________
 |Title (& Additional Casts)|Link|
 |-----|---|
 |hololive IDOL PROJECT - Shiny Smily Story (With all of EN) |[![Free Preview Timestamp](https://files.catbox.moe/35wolx.jpg)](https://www.youtube.com/watch?v=-2H-WjJBWsA&t=4315) |
-|常闇トワ/Tokoyami Towa - Palette |[![](https://files.catbox.moe/ooc0yj.png)](https://files.catbox.moe/iqbm2w.mp4) |
+|常闇トワ/Tokoyami Towa - Palette |[![](https://files.catbox.moe/ooc0yj.png)](https://files.catbox.moe/im517g.mp4) |
 |hololive English -Council- - Rise (With Hakos Baelz, Cere Fauna & Ouro Kronii)  |[![](https://files.catbox.moe/svk96k.png)](https://files.catbox.moe/p02r9u.mp4) |
 |hololive English - Connect the World (With all of EN) |[![](https://files.catbox.moe/haaod5.png)](https://files.catbox.moe/s79gg0.mp4)  |
 |[Encore] hololive IDOL PROJECT - キラメキライダー☆/Kirameki Rider☆ (With all of EN)|[![Extra cronchy :P](https://files.catbox.moe/0iulty.png)](https://files.catbox.moe/n05zun.webm)  |

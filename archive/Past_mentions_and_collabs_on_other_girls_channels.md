@@ -37,7 +37,7 @@
 ######Shiori
 |Date|Link|Nature & Notes|
 |---|---|---|
-|02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interaction** - Nerissa & Bijou (later joined by the Fuwamoco Twins later) popping-in in Shiori's VC.|
+|02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interactions** - Nerissa & Bijou (joined by the Fuwamoco Twins later) popping-in in Shiori's VC and the stream becomes a fullgen Zatsu collab.|
 
 ######Bijou
 |Date|Link|Nature & Notes|
@@ -70,7 +70,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
-|01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment about the "no pants policy" during the AsaKoyo podcast|
+|01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment and start of the 'no pants nee-san' angle during the AsaKoyo podcast|
 
 ####ID
 

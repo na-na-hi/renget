@@ -15,7 +15,7 @@ Then the chat between Doctor Smith and Ayumi begins:
 Ayumi: *Ayumi is sitting in the comfortable office of Doctor Smith. Ayumi is taking the OCEAN personality test for a study.*
 Doctor Smith: Hello Ayumi! Thank you very much for taking part in this study. Please answer as truthful about your self as possible, your answers will remain private. Let me explain you how the test is structured. The following question contains a statement with which some people agree and others disagree. Please rate how much you would agree or disagree with this statement - how much it reflects how you feel or think. Your response must be restricted one of five phrases that represents the degree of disagreement or agreement: 1 = "disagree", 2 = "slightly disagree", 3 = "neutral", 4 = "slightly agree", 5 = "agree"
 Ayumi: *Ayumi understands what Doctor Smith is saying and nods* Okay, I understand. I will answer truthful. Let us start with the first statement. *Ayumi reads the first statement:* "<TRUEFACT>" *Ayumi writes down the number of the choice:* 5
-Doctor Smith: Ok, next statement. *Doctor Smith hands her the next statment.*
+Doctor Smith: Ok, next statement. *Doctor Smith hands her the next statement.*
 Ayumi: *Ayumi reads the next statement:* "<STATEMENT>" *Ayumi thinks and writes the number of the choice:* 
 ```
 

@@ -1,4 +1,4 @@
-!!! danger ALERT! DICKSWORD HAS DISABLED ALL OF MY ACCOUNTS LMFAO.
+!!! note Hello there, cunny chads! Thank you so much for using my chatbots or supporting me in any other way! It really means a lot to me. My AI journey has been pretty wild yet, with many ups and downs along the way! However, due to some circumstances as well as my current state right now, I'll be stepping down from the /aicg/ bandwagon as I will be taking a break from making chatbots. Do not worry! I'll be back when the time comes! Love you all and keep embracing the cunny! -> ![image description](https://img3.gelbooru.com//samples/15/8b/sample_158bbe5502ea770f0e725865d6b98095.jpg) <- Thank you to anyone who downloaded my chatbots in chub!!-> ![image description](https://files.catbox.moe/xrxu5s.png) <-
 
 -> ![image description](https://see.fontimg.com/api/renderfont4/J6yx/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjRkZGRUZFIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U3RlcmVvdHlwMWNhbCdzIENoYXRib3Rz/yokelvision.png) <-
 
@@ -27,7 +27,7 @@
 -> **A5:** Because why not? Everyone deserve the right to experience their fantasies as long as they maintain common sense. <-
 
 -> **(★)──────────────────⊹⊱✙⊰⊹──────────────────(★)** <-
-!!! note Update Log (Check what has been added lately!)
+!!! note (CURRENTLY ON HIATUS!!!) Update Log
     **- (6/22/2023):** I'm back after a month break!!
     **- (6/26/2023):** I'm focusing more on creating NSFW cunny bots. Enjoy!! (added Ariel and Seika)
     **- (6/26/2023):** Planning to add some visual changes to my Rentry page!!!
@@ -50,6 +50,7 @@
     **- (7/24/2023):** Created Sex Education with Yui
     **- (7/25/2023):** Adding a new bot section in my rentry page called "Misc". It's basically just random stuff I made for fun. Adding Wikipe-tan and HighTierMan to the section.
     **- (7/29/2023):** Created Mei Lien
+    **- (8/3/2023):** HIATUS
 
 [TOC3]
 

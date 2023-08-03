@@ -38,7 +38,7 @@ https://civitai.com/models/54523/pharah-overwatch-wrise
 - Sombra
 https://civitai.com/models/9722/sombra-overwatch-lora
 https://civitai.com/models/60861/sombra-overwatch-wrise
-- Sojourn
++ Sojourn
 https://civitai.com/models/73186/sojourn-or-overwatch
 - Symmetra
 https://civitai.com/models/15817/symmetra-overwatch-lora
@@ -132,8 +132,7 @@ https://civitai.com/models/112454/darkterror-faceless-void-dota
 	+ Lina 
 https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
 	+ Marci
-https://civitai.com/models/20678/marci-dota-2-lora-wip
-https://civitai.com/models/16219/marci-dota-dragons-blood
+https://civitai.com/models/118664/marci-dota-dragons-blood-commission
 	+ Mirana
 https://civitai.com/models/24894/mirana-dota-dragons-blood
 https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
@@ -255,11 +254,11 @@ https://civitai.com/models/87604/vernon-roche-or-the-witcher-3-wild-hunt
 - Aradia Megido
 https://civitai.com/models/107119/aradia-megido-homestuck
 https://civitai.com/models/44895/aradia-megido-homestuck
-- Feferi Peixes 
++ Feferi Peixes 
 https://civitai.com/models/69595/feferi-peixes-homestuck
 - Jade Harley
 https://civitai.com/models/33511/jade-harley-homestuck-lora
-- Kanaya Mryam 
++ Kanaya Mryam 
 https://civitai.com/models/69646/kanaya-maryam-homestuck
 https://civitai.com/models/111117/kanaya-maryam-homestuck-character-lora
 - Nepeta Leijon
@@ -292,3 +291,38 @@ https://civitai.com/models/97933/lanfeust-of-glinin
 https://civitai.com/models/97926/thanos-lanfeust-of-troy
 - Hebus
 https://civitai.com/models/97708/hebus-lanfeust-of-troy
+
+# Lego Elves
+
+- Azari Firedancer
+https://civitai.com/models/120809/azari-firedancer-lego-elves-secrets-of-elvendale
+- Aira Windwhistler
+https://civitai.com/models/120807/aira-windwhistler-lego-elves-secrets-of-elvendale
+- Secrets of Elvendale
+https://civitai.com/models/120803/emily-jones-lego-elves-secrets-of-elvendale
+- Farren Leafshade
+https://civitai.com/models/120813/farren-leafshade-lego-elves-secrets-of-elvendale
+
+# Mass Effect
+
++ Jane Shepard
+https://civitai.com/models/120131/jane-shepard-mass-effect
+- Sara Ryder
+https://civitai.com/models/120121/sara-ryder-mass-effect-andromeda
++ EDI
+https://civitai.com/models/113837/edi-mass-effect
+- Jack
+https://civitai.com/models/113404/jack-mass-effect
+- Tali'Zhorah
+https://civitai.com/models/22827/talizorah-mass-effect
+https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
+- Liara T'Soni
+https://civitai.com/models/19668/asari-diffusion
+https://civitai.com/models/20081/asari-diffusion-anime
+https://civitai.com/models/16091/liara-
+- Samara
+https://civitai.com/models/88235/samara-mass-effect-lora
+- Pelessaria B'Sayle
+https://civitai.com/models/92603/peebee-mea
+- Cora
+https://civitai.com/models/121666/cora-mass-effect-andromeda

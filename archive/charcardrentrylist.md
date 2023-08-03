@@ -18,7 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Tipzanon](https://rentry.co/tipzanon) | Misc |[Elisabeth](https://files.catbox.moe/4nol52.png), [Lily](https://files.catbox.moe/1mixl4.png)|
+[Tipzanon](https://rentry.co/tipzanon) | Misc |[Elisabeth](https://files.catbox.moe/dmkh1l.png), [Lily](https://files.catbox.moe/1mixl4.png)|[Elisabeth](https://files.catbox.moe/dmkh1l.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Sadie](https://files.catbox.moe/ybs7mq.png)|[Sadie](https://files.catbox.moe/ybs7mq.png) [MV]
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Cassy](https://files.catbox.moe/siu6j8.png), [Queen Anastasia](https://files.catbox.moe/050d3i.png)|
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Byakuren Hijiri](https://files.catbox.moe/eorygf.png)|

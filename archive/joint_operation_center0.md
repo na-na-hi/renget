@@ -4,7 +4,7 @@ This is the still relatively fresh library of /ope/, the Nerissa Ravencroft Gene
 
 
 
-->[![](https://pbs.twimg.com/profile_banners/1656528951303614464/1690339905/600x200)] <-
+->![](https://pbs.twimg.com/profile_banners/1656528951303614464/1690339905/600x200) <-
 
 >Nerissa's Youtube channel
 https://www.youtube.com/@NerissaRavencroft
@@ -39,4 +39,4 @@ Where you can find the collabs from the other holomem channel Nerissia took part
 ######[Changelog](https://rentry.org/List_of_updates)
 
 
-!!! warning About recorders (ytarchive, twitterspaces...), a bunch of neet tools and how to use them, please refer to /who/'s tools guide: https://rentry.org/xu6td. You're going to need and use some of that stuff at some point.
+!!! warning About recorders (ytarchive, twitterspaces...), a bunch of neet tools and how to use them, please refer to /who/'s tools guide: https://rentry.org/xu6td. You're going to need it and you're likely to use some of that stuff at some point, especially for unarchived karaokes.

@@ -107,5 +107,5 @@ https://warosu.org/vt/thread/54989027
 https://warosu.org/vt/thread/54988617
 https://warosu.org/vt/thread/54988043 (yes, he used the same image as in 54992680)
 
-3. Most likely tried to make /wg/ reputation in the board sink right afterward (Just look at that fucking filename).
+3. He also tried to make /wg/'s reputation in the board sink right afterward (Just look at that fucking filename).
 https://warosu.org/vt/thread/54995933
