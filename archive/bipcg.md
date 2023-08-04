@@ -1,4 +1,29 @@
 ▶NEW CLIPS
+
+>Shoigu inspects captured CV-90
+https://files.catbox.moe/ki3z7w.MP4
+>Lancet-chan dabbing on hohol and NATO equipment
+https://files.catbox.moe/3d0alt.mp4
+https://files.catbox.moe/6a5wkz.mp4
+https://files.catbox.moe/apdyxd.mp4
+moar https://files.catbox.moe/z0gr43.webm
+>Hohol POV of another Lend Lease graveyard
+https://files.catbox.moe/9fe7r5.mp4
+>Olenegorsky Gornyak landing ship tugged back to port
+https://files.catbox.moe/2k8qfh.webm
+https://files.catbox.moe/b94kfe.webm
+https://files.catbox.moe/m6trgw.webm
+>Multiple marine UAV destroyed
+https://files.catbox.moe/rbpmso.mp4
+https://files.catbox.moe/4cedq0.webm
+>Z O V
+https://files.catbox.moe/joewfx.webm
+>Russian BTR evacs troops while under fire from cluster munitions
+https://files.catbox.moe/e7unz3.mp4
+>Destroyed hohol column near Robotino
+https://files.catbox.moe/inc7tk.mp4
+>Hohols record Su-34 airstrike and danger close flyby
+https://files.catbox.moe/0cpekr.mp4
 >Interview with tank commander who solo'd a column of hohols
 https://files.catbox.moe/ix0t3t.mp4
 >IRIS-T launcher destroyed by Lancet

@@ -131,6 +131,7 @@ https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
 ##Guides
 ###Wiki
 https://www.sdcompendium.com
+https://codeberg.org/tekakutli/neuralnomicon
 ###Animation
 https://rentry.org/AnimAnon
 ###Deforum
@@ -260,4 +261,4 @@ discord.gg/stablediffusion
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - July 26th - https://pastebin.com/YJMrmTSt
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 4th - https://pastebin.com/Pj5rKvx0

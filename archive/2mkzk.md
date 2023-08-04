@@ -16,7 +16,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream+Axess at 16UTC** Episodes 1-7, Axess Episodes 44-45
+**SAT: Rockman.exe Stream+Axess at 17UTC** Episodes 1-7, Axess Episodes 44-45
 **SUN: Rockman.exe Axess at 15UTC** Episodes 46-51
 >-
 nothing

@@ -69,11 +69,19 @@ DAdaptLionにしたら少し再現度が上がる。ただしCPUボトルネッ�
 DAdaptLionとProdigyの設定: `learning_rate 1 --optimizer_args "betas=0.9,0.999" "weight_decay=0" "d0=1e-06"`
 
 v12がDAdaptLionでv12pがProdigy
+大体4000steps回した。
 ![Image](https://files.catbox.moe/viqgqt.jpg)
 ん？
 dlがDAdaptLionでpdがProdigy
+大体5000steps回した。
 ![Image](https://files.catbox.moe/lv81o9.jpg)
 えーっと、何が変わったのか、分かりません
+
+steps数ごとの変化
+![Image](https://files.catbox.moe/k50kp3.jpg)
+![Image](https://files.catbox.moe/kc53e5.jpg)
+prodigyは学習が速いっていう人いるけどむしろ遅いような・・・設定の問題なのかな？
+
 ProdigyはDyLoRAを使わないならあまり意味はなさそう。
 
 ### DAdaptation系の注意

@@ -57,3 +57,6 @@ Also had a [date with Anya](https://twitter.com/anyamelfissa/status/168385516143
 |Subaru| 【＃生スバル】朗報：11時間寝ました！！！！！雑談：Free Talk|[Link](https://www.youtube.com/watch?v=BjKXNqD-Wuc)|[Meeting Mumei at the studio and getting called birdbrained](https://www.youtube.com/watch?v=BjKXNqD-Wuc&t=1340). Also more Holotori talk.|
 
 Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-shorts)
+
+**Day 15 - 2023-08-02**
+[Got a cold.](https://twitter.com/nanashimumei_en/status/1686634182070726656)

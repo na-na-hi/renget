@@ -1,9 +1,10 @@
 #Unions
--> ![invade](https://imgur.com/WZSs1Bu.png) <-
+-> ![average nikg poster](https://imgur.com/QSlDQER.png) <-
     
 !!! info
-    -> No fun allowed! <-
+    -> Macro bans soon. Hopefully you can at least make it to the top 50 now anons. <-
     -> Old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs. <-
+    
    
     
 ##Server: NA

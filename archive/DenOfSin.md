@@ -205,6 +205,7 @@ Card | Name | Description | Date Added | Updated?
 
 Card | Name | Description | Date Added | Updated?
 ------ | ------ | ------ | ------ | ------
+![Card](https://files.catbox.moe/lh8k3a.png) | The NovelAI Five | Lorebook entries for Clio, Euterpe, Kayra, Krake and Sigurd. | 2023-08-04 | -
 ![Card](https://files.catbox.moe/wlfsil.png) | Mia | Energetic panda girl pilot for a space setting. | 2023-02-28 | -
 ![Card](https://files.catbox.moe/u306l5.png) | Ugly Bastard | Second-person protagonist card that lets you play as a fat bastard. | 2022-07-27 | -
 ![Card](https://files.catbox.moe/meujg7.png) | Uggo Wife | Wife to go along with the above ugly bastard card, also written in second person. | 2022-07-27 | -

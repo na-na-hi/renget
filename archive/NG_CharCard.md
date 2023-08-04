@@ -18,6 +18,7 @@ There are lot of debates about the above. Feel free to read about using 2nd pers
 ## Quotes and Asterisks, and using Markdown format
 **TLDR: Pick one style and keep it consistent**
 
+### OpenAI / Anthropic / Massive Models
 This is another style choice, and mainly just needs to be consistent: How you deal with {{char}} and {{user}} talking, usually following "markdown" format. Silly Tavern supports this by actually coloring the different response types. Here's one way to do it, that I use with Turbo:
 * Actions, descriptions, and internal thoughts are surrounded by asterisks: ```*Julie, the famous engineer, walks into the room*```
 * Verbal responses from {{user}} or {{char}} are unquoted. ```*Julie, the famous engineer, walks into the room* What on earth is going on in here?```
@@ -25,6 +26,14 @@ This is another style choice, and mainly just needs to be consistent: How you de
 There are lot of debates about the above as well; some like to surround all spoken words in quotes, either in Descriptions or Introductions, and/or use them for {{user}} responses. Feel free to read about merits of each. Experiment. But the most important thing is to **pick one and keep it consistent.** This doesn't mess with AI as much as swapping tense around but it seems to create some confusion w/ AI on how to format responses. 
 
 *Markdown format* is an interesting category of its own, and Silly Tavern supports the formatting. If you've not looked it up, google and read up. Rentry uses Markdown as well and it's handy for other quick formatting both with AI bots and other tools. 
+
+### Local Language Models (LLMs)
+** TLDR: LLMs are less forgiving on formatting. **
+Finding that LLMs are a lot more particular about formatting, and a lot less forgiving. My experiences with 13b models favored following:
+* Always use quotes when responding as {{user}} or formating {{char}} intros
+* Background events in plain text
+* Thoughts in asterisk, or when following the {{char}} around without {{user}} present
+If you're finding the LLM isn't tracking correctly between {{user}} and {{char}}, look at this formatting and experiment to see if it's the culprit.
 
 ## AI Breakthrough: Prevention 
 **TLDR: Don't start AI talking for {{user}} to {{char}} in the intro, and lock down the responses in the card**

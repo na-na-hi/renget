@@ -18,10 +18,9 @@ Bot | Creator | Desc | Demo
 ***
 
 ## Bots v2
-Currently none, but at least 2 were promised.
-To make bots use https://build.miku.gg/ & https://rentry.org/EmotionalSprites
+Currently none, 2 were promised but never delivered.
+To make bots use https://build.miku.gg/ ; https://rentry.org/EmotionalSprites ; https://rentry.org/mikugg-emotions-tutorial
 
->To everyone's surprise [anon](https://desuarchive.org/g/thread/94394525#94395684) is alive
 ***
 I don't even know anymore. No one makes any bots to share at /aicg/.
 >The new bot format has been released, all card are now .png and compatible with spec_v2.

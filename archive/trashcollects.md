@@ -748,6 +748,11 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/ntcp6y.safetensors
 
+# Ichi Inukai (Manmosu Marimo)
+Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+
+	https://mega.nz/folder/J6c0GZCT#oBsCILW-X108fwdiRp9L-w
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

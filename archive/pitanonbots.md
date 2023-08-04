@@ -27,9 +27,16 @@ User's Stat Tracker | (18/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png
 Threat Tracker | (18/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/threat-tracker) | https://files.catbox.moe/8qgobm.png
 Party Tracker | (18/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/party-tracker) | https://files.catbox.moe/0dzp0p.png
 
-###Re:Zero Characters
+###Non OC Characters
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Hatsune Miku | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/miku-d1b931c6/main) | ![](https://files.catbox.moe/kxxtsu.png) | ![](https://files.catbox.moe/7lj1vp.png)
+Kagamine Rin | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png
+
+#Re:Zero
+| Bot's name | Updated | CHUB Link | Card | Alternate Art
+|---|---|---|---|---|
+Pandora | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/pandora-246a4d93/main) | ![](https://files.catbox.moe/us8zrv.png) | https://files.catbox.moe/49ekfc.png
 Capella | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/capella-64858c74/main) | ![](https://files.catbox.moe/zjwogb.png) | https://files.catbox.moe/x769ko.png
 Felt | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/felt-c458a1c1/main) | ![](https://files.catbox.moe/z0gpwq.png) | https://files.catbox.moe/dc426p.png 
 Petra | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/petra-a9ea3209/main) | ![](https://files.catbox.moe/xexw5o.png) | https://files.catbox.moe/e4fcoh.png

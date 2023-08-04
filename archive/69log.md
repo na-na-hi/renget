@@ -9,6 +9,27 @@ Translation by Asiram Honkai
 
 [TOC]
 
+#####v2b
+
+**SIRIN**
+
+BASIC ATK
+SEQ 1: Deals 220% ATK of Fire DMG, restore 100 > 150 points of [Determined Star]
+SEQ 2: Deals 220% + 240% x 3 ATK of Fire DMG, restore 250 > 340 points of [Determined Star] in total
+SEQ 3: Deals 200% + 340% ATK of Fire DMG, restore 120 > 150 points of [Determined Star]
+*Only text fix, actual effect is the same
+
+EVASION
+Adjusted description: When triggering evasion skill, press ATK button to launch a counterattack, deal 400% ATK of Fire DMG, and gain a total of 250 points of [Determined Star]. Counterattack can connect to Basic ATK SEQ 3.
+*Only text fix, actual effect is the same
+
+ULT 
+Fixed an issue where xxx skill may fail during Charge mode
+
+OTHERS
+- Fixed Fire G4 stigma 3pc description. Actual effect is the same.
+- Fixed SSS Argent Knight boss description. When Crescent Harvest is exhausted, silver moon disappears, and AKA enters weakness state. In this state, [AKA is vulnerable and greatly reduced anti-interrupt] changed to [trigger 3s time fracture, and AKA gain elemental vulnerability and greatly reduced anti-interrupt]. Only text fix, actual effect is the same
+
 #####v2
 
 KNOWN ISSUE
