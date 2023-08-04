@@ -629,7 +629,7 @@
 #### -> Ebosi <-
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
-	(bare shoulders, purple eyes, short hair, blue nails, blue shorts, blue thighhighs, choker, closed mouth, collarbone, dark-skinned female, dark skin, earrings)
+	(bare shoulders, purple eyes, short hair, blue nails, blue shorts, blue thighhighs, choker, collarbone, dark-skinned female, dark skin, earrings)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/EPgTQa6a) <-
 
 #### -> Filian <-

@@ -6,9 +6,67 @@ Translation by Asiram Honkai
 - Sirin Gears: https://rentry.co/siringears
 - Elysian Realm https://rentry.co/er69
 
+
+[TOC]
+
+#####v2
+
+KNOWN ISSUE
+- When Aichan with Idol Transformation set is on the same team as Sirin, the effect [Igniting enemies will make them receive 20.0% more ignite DMG for 10s.] cannot be triggered. This issue will be fixed in the future
+
+SIRIN
+NOTE: SOMETIMES PATCH NOTE CHANGES DONT MATCH IN GAME VALUES. WILL UPDATE ACCURATE CHANGES IN SIRIN SKILL TRANSLATION LATER
+- QTE: Deal 1340% > 1500% ATK of Fire DMG,  restore 120 > 180 points of [Determined Star], and all enemies on the field take +20% > 12% more Ignite DMG, the rest of the skill remains the same.
+- New skill: Ult CD -25%, max 15s. When magic circle explodes, recover 10 sp
+- Charged ATK: Added effect restore 50 hp for team everytime it hits.
+- Charged ATK: [SSS] When Charged ATK hits a target, if the target is ignited, deal additional 400% > 300% ATK of Fire DMG. Charged ATK gain Total DMG +30% > 20% against ignited enemies.
+- Ult: Deal 1500% > 1600% ATK Fire DMG
+- Passive: Judgement attack - added effect: Deal 50% ATK Fire DMG at magic circle position
+- Evasion: On exit, deal 800% > 200% ATK Fire DMG to ignited enemies
+
+OTHER VALKS
+- Fixed an issue where Elemental Breach does not affect ignite damage
+- Fixed HoRB rank up skill description [深渊之下，少女偕行] in rank up menu. Actual effect remains the same
+
+SIRIN CHAKRAM
+- When Ultimate or Burst Mode ATK hits an enemy, for every Ignite stack on the enemy who has the highest number of stacks, restore 1.5 > 2 SP, max 5 stacks (CD: 15s).
+- When wielder is on the field, ignited enemies take +20% > 15% more Fire DMG. If the enemy has more than 1 ignite stack, the enemy takes 20% > 18% more Ignite DMG.
+
+G4 FIRE GOOD TIMES 
+- Top: Added effect: Host HP +1000
+- 3SET:  All enemies on the field take +10% >14% more Fire DMG from the host (independent multiplier). If the target has more than 2 Ignite stacks, the target takes additional +5% > 6% more Fire DMG from the host (independent multiplier), cannot stack.
+
+BATTLE PASS
+- Dark Star, Holmes stigma, Leeuwenhoek stigma
+
+EX ABYSS
+- Type counter Andrius: Reduced HP
+- Ignite Herrscher of Ice: Increased HP
+- Ignite Herrscher of the Void: Increased HP
+
+MEMORIAL ARENA
+- SSS Argent Knight: Adjusted mechanics and stats
+
+ELYSIAN REALM
+- Adjusted Sirin overall signets
+
+COLLAB STUFF
+- Aichan outfit 1380 Bchips (original price 1680 Bchips)
+- Flamescion outfit 1680 Bchips (original price 1980 Bchips)
+- Promare Fire B stigma is free from bingo flip event
+- Note: The crossover stuff can only be acquired during the crossover event
+
+TOPUP EVENT
+- Topup up to ~100usd to get 3 Silverwing stamp / 3 Mobius stamp / 240 Ancient Legacy and other stuff
+
+INVITE EVENT
+- Invite event crystal reward will be reset. Invite up to 5 captains to get up to 1500 crystal
+
+Other event stuff
+
 ---
 
-v1 PATCH NOTE
+#####v1
 
 __S-rank Battlesuit MIRACLE☆ MAGICAL GIRL__
 - S-rank MECH Fire + Ignite DPS. Chakram user

@@ -97,10 +97,6 @@
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
 - [URL Safety Results](https://www.urlvoid.com/scan/123chill.to/)
 
-### ▶️ [Attacker](https://www1.attacker.tv/)
-- Why pay for cable or Netflix when you can access hundreds of films and television shows for free? Satisfy your desires right now!
-- [URL Safety Results](https://www.urlvoid.com/scan/attacker.tv/)
-
 ### ▶️ [BFlix](https://bflix.gg/) / [2](https://bflix.io/)
 - Online movie streaming service and economical method to watch your favorite films and TV episodes.
 - [URL Safety Results](https://www.urlvoid.com/scan/bflix.gg/)
@@ -124,10 +120,6 @@
 ### ▶️ [Dramacool](https://dramacool.cy/)
 - Online streaming of Asian dramas with English subtitles is available for free from China, Korea, Hong Kong, Taiwan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramacool.cy/)
-
-### ▶️ [F2Movies](https://www6.f2movies.to/)
-- Massive content catalogue is available to view in HD resolution with numerous subtitles for free, with no subscription.
-- [URL Safety Results](https://www.urlvoid.com/scan/f2movies.to/)
 
 ### 🐐 [FMovies](https://fmovies.name/)
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.

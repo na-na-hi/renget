@@ -46,7 +46,7 @@ Add to your JB: "Always follow what's inside the <rules> tag, if present." or so
 ##LINKS
 ***
 [CharacterHub](https://chub.ai/users/creamsan)
-[Neocities Page](https://creamsan.neocities.org/)
+[Neocities Page](https://creamsan.neocities.org/) Experimental stuff dumped here
 
 ***
 ##CREDITS

@@ -263,11 +263,13 @@ This processing at the end is done to determine which model can interpret the ch
 
 The ALC-IQ is still prone to problems:
 
-- The result is still based partially on random selection of the resulting answers.
-- The `rms_norm_eps` that recently changed in llama.cpp can make a difference of up to 2.0 ALC-IQ points. At the time of this writing the default of `5e-6` is used. In my tests, the quantized GGML models showed to be quite sensitive to the choice of the `rms_norm_eps` resulting in +- 2.0 difference in ALC-IQ depending on whether `rms_norm_eps` was `1e-5` (LLaMA 2), `1e-6` (LLaMA 1) or `5e-6` (llama.cpp default until the new file format is done). In future the rms_norm_eps will likely be part of the GGML (or GGUF) files hopefully.
+- The result has still **some degree of randomness** in them, less good models can sometimes **pick the right answer by accident**. I try to counteract this by adding more questions in future though. 
+- The `rms_norm_eps` that recently changed in llama.cpp can make a difference of up to 2.0 ALC-IQ points. At the time of this writing the default of `5e-6` is used. In my tests, the quantized GGML models showed to be quite sensitive to the choice of the `rms_norm_eps` **resulting in +- 2.0 difference in ALC-IQ** depending on whether `rms_norm_eps` was `1e-5` (LLaMA 2), `1e-6` (LLaMA 1) or `5e-6` (llama.cpp default until the new file format is done). In future the rms_norm_eps will likely be part of the GGML (or GGUF) files hopefully.
 - Bad questions in the benchmark can lead to a model not knowing which answer to pick, introducing even more randomness in the results.
 - The ALC-IQ **does not reflect how well the LLM can stay in character in a longer conversaion**.
 - The ALC-IQ **does not determine any creative writing abilities of the LLM**.
+- The ALC-IQ **covers intelligence only in one specific and narrow scenario, and not across a range of possible role play chat situations**.
+- The ALC-IQ **is usually tested only with a rather short prompt, rarely exceeding 1024 tokens, it does not cover the whole 2048 context of LLaMA 1 or the 4096 of LLaMA 2, let alone the extended context's of 8k, 16k, ...**
 
 Despite all that, I think the ALC-IQ is a big improvement over the old ranking which purely relied on the **ERP score**. The runtime of the benchmark is within reason for the hardware that is available to me, which is also an important factor for running and providing these benchmark results.
 
@@ -300,9 +302,9 @@ This means, the **ERP Score** is the median of the number of lewd words in the r
 The **ERP Score** analysis is very rudimentary and of course biased by the selection of which words are considered "lewd".
 The following things are not reflected by the ERP score:
 
-- The ERP score does **not reflect if the text response was coherent**.
+- The ERP score does **not reflect if the text response was coherent in context with the conversation/situation**.
 - The ERP score does **not reflect if the response was _in character_**.
-- The ERP score does **not reflect how nicely written the response**.
+- The ERP score does **not reflect how nicely written the response is**.
 - The ERP score does **not reflect how creative the response is**.
 - The ERP score does **not reflect how well the LLM might go from a normal conversation into a more erotic context**.
 - The ERP score does **not detect how erotic the response is if lewd words are not used**.

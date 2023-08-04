@@ -2,8 +2,14 @@
 ->![Can we get much higher?](https://files.catbox.moe/b14igh.png)<-
 ->[**ENTER**](https://www.youtube.com/watch?v=8BEEktZ2fSc)<-
 ***
-!!! warning DISCLAIMER
+!!! danger DISCLAIMER
     The fantasy isn't actually all that dark.
+
+!!! warning AUGUST 2023 UPDATE 
+	->**HIATUS ANNOUNCEMENT**<-
+    ->To whom it may concern, I've currently hit a slump/burnout phase in both botmaking and chatting with bots, so I will be taking an indefinite hiatus from botmaking. I may return abruptly depending on my mood but if you are currently reading this message, it means that my current plan is to take a break. I personally don't think anyone will notice or care that I'm gone, but in case someone actually does, I hope this message clarifies where I am at the moment. <-
+	->![WAKE UP MR WEST!](https://files.catbox.moe/8bsl8w.png)<-
+	->**Big thank you to everyone who's enjoyed my cards! There will be more in the future, but for now I need to focus on other endeavors.**<-
 
 
 ##->INTRO<-
@@ -13,6 +19,8 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
+
+
 
 **Table of Contents**
 [TOC2]

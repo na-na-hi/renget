@@ -2,7 +2,7 @@
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
-!!! warning Next batch of saved pages : 04/08/2023 - there will be a new .zip file every week
+!!! warning Week 1 https://files.catbox.moe/4tykvq.zip. Next batch of saved pages : 11/08/2023 - there will be a new .zip file every week
 
 [TOC]
 #####July 2023
@@ -38,3 +38,6 @@
 |02/08/2023|24|Mentions & Collabs|Addition of a timestamp for Shiori's Virtual Sleepover stream|
 |02/08/2023|25|Mentions & Collabs|Additions of Koyori's first impressions during her AsaKoyo #139 podcast|
 |03/08/2023|26|Mentions & Collabs|Addition of a 11 timestamps (!) and a picture of the entire timeline for the major streamer-chat interactions done during Kiara's Pizza Tower stream|
+|04/08/2023|27|Mentions & Collabs|Addition of the 3 alternative POVs (Shiori, Bijou & FUWAMOCO Twins) for the Left4Dead 2 Fullgen Collab.|
+|04/08/2023|28|Changelog| J/ope/C Week 1 backup .zip file uploaded|
+|04/08/2023|29|Music|Addition of a placeholder for an announced unarchived Western Songs Karaoke|

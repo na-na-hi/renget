@@ -40,9 +40,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Updated Relationship Chart
->Orochi
-https://rentry.org/r5xsg
+Writefags:
+>The Tournament Continues!
+https://rentry.org/yngpn
+>Last Visit (Yamata, Mirror Devil, Capture Cloth)
+https://rentry.org/xpxk6
+>Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru))
+https://rentry.org/r5v7e
+>Sandatsu is a Receiver
+https://rentry.org/dfkw5
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -535,6 +541,12 @@ https://rentry.org/cucs2
 https://rentry.org/DojoMisadventureExtra
 >Stimulation (Seiryu, Honoken, Karma, Fluegel, Rika Eichi, Popsy)
 https://rentry.org/g6f8r
+>The Tournament Continues!
+https://rentry.org/yngpn
+>Last Visit (Yamata, Mirror Devil, Capture Cloth)
+https://rentry.org/xpxk6
+>Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru))
+https://rentry.org/r5v7e
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -829,6 +841,10 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89733343
 >Skelly Skellyheimer (Demon Hybrid Herolike)
 >>89788596
+>Albayis (Demihuman Herolike)
+>>89799592
+>Stirrer (Demon Hybrid Something)
+>>89800183
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
@@ -866,8 +882,17 @@ https://rentry.org/thewindblows
 https://pastebin.com/v4LNpcXi
 >The Dream of Potion Pete
 https://rentry.org/rdhv6
+>A Day in the Life of JRPG Traitors (Cormelia, Mahapapapurusa, Potion Pete, Aterui)
+https://pastebin.com/37KBsQEy
 
+```
+***
+Page 3
+***
+```
 Relationship Charts
+>Vajar
+https://archive.4plebs.org/tg/post/89699020
 >Potion Pete
 https://rentry.org/o9a4iz
 ```

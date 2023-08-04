@@ -94,4 +94,10 @@ Image| Name
 ![lubby chudder](https://files.catbox.moe/dtqh8b.png) | feral reshiram
 ![turkey](https://desu-usergeneratedcontent.xyz/g/image/1464/64/1464640347676.jpg) | darkness turkey, [prompt here](https://files.catbox.moe/i8xn02.txt)
 ![idk](https://files.catbox.moe/lgc4hx.jpg) | whatever the fuck this is
-i have a burner as well. you can probably guess what it is
+
+###khajiit corner
+![](https://files.catbox.moe/2zjwjs.jpg)
+![](https://files.catbox.moe/ap3fng.jpg)
+
+
+onaholesama@proton.me

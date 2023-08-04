@@ -1,12 +1,14 @@
 #/hpgg/ Autism Sheets
 
+->[Writing Reference Page (scroll down)](https://rentry.org/hpggwriting)<-
+
 ->[Hogwarts Legacy Character Sheet](https://files.catbox.moe/h9g2ou.png)<-
 
 ->[Magic Awakened Character Sheet](https://files.catbox.moe/at764i.png)<-
 
 ->[Magic Awakened Card Templates](https://rentry.org/wq3s8)<-
 
-->[Writing Reference Page (scroll down)](https://rentry.org/hpggwriting)<-
+->[Duelling Sheet](https://files.catbox.moe/9mcc9v.png)<-
 
 ->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
 
@@ -41,7 +43,7 @@
 
 ->[NPC Sheet](https://files.catbox.moe/7vs0lg.png)<-
 
-->[/hpgg/ Speed Dating/Friend-ing Application](https://files.catbox.moe/pegqm9.png)<-
+->[/hpgg/ Speed Dating/Friend-ing (event concluded)](https://files.catbox.moe/pegqm9.png)<-
 
 ->[Deity Sheet](https://rentry.org/6x6dbb)<-
 

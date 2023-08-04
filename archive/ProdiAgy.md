@@ -22,7 +22,7 @@
 ###Instructions:
 !!! danger Do not sample previews. Completely useless and a waste of time. You should instead learn the graphs within Tensorboard.
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger ==OPTIONAL:== ```Set repetitions to 1 and leave epochs as I set it. Set only t_max to the total steps you want (recommend leaving on 1200) and wait for the scheduler to reach eta_min (set to 5 here) then stop training. Alternatively you can keep going after reaching eta_min as the scheduler will gradually build back up and restart, you can call these scheduler cycles.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps.
+!!! danger ==OPTIONAL:== ```Set repetitions to 1 and leave epochs as I set it. Set only t_max to the total steps you want (recommend leaving on 400) and wait for the scheduler to reach eta_min (set to 0 here) then stop training. Alternatively you can keep going after reaching eta_min as the scheduler will restart.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.``` This means you can also use this to restart your cosine scheduler (or switch to cosine with restarts) by setting it to less than your total steps.
 !!! note ```Results should never get bad over more steps.``` You could even train for the entirety of those 31337 epochs and still have a good result.
 !!! danger ==IMPORTANT:== ```Default d_coef is 1.0 (0.1-2.0), it scales the d*lr for Prodigy.``` Recommend leaving it like it is but if you overtrain then lower until you don't.
 !!! danger  ==OPTIONAL:== ```Adjust use_bias_correction and/or weight_decay. They have a regularization effect.``` ==ALREADY SET. SINCE WE ARE USING THIS TRAINING WILL BE LONGER BUT ITS FINE CAUSE IA3 IS WAY TOO FAST ANYWAYS.==
@@ -36,7 +36,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1200\" \"eta_min=5\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingLR\" --lr_scheduler_args \"T_max=1200\" \"eta_min=0.5\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
@@ -46,13 +46,13 @@
   "gradient_accumulation_steps": 1.0,
   "gradient_checkpointing": false,
   "keep_tokens": 0,
-  "learning_rate": 10.0,
+  "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-5\" \"d_coef=1.00\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -62,11 +62,11 @@
   "seed": "31337",
   "shuffle_caption": false,
   "stop_text_encoder_training": 0,
-  "text_encoder_lr": 10.0,
+  "text_encoder_lr": 1.0,
   "train_batch_size": 1,
   "train_on_input": false,
   "training_comment": "rentry.co/ProdiAgy",
-  "unet_lr": 10.0,
+  "unet_lr": 1.0,
   "weighted_captions": false
 }
 ```

@@ -20,6 +20,7 @@
 
 
 ####Karaoke section
-| Karaoke | Magnet / Link | Setlist |
-|------|-----|-----|
-|Japanese Songs Karaoke |Placeholder|Placeholder|
+| Date | Karaoke | Magnet / Link | Setlist |
+|------|-----|-----|-----|
+|06/08/2023|Japanese Songs Karaoke |Placeholder|Placeholder|
+|Unknown|[Uniarchived Western Songs karaoke planned](https://youtu.be/y6bSgVuN1gg?t=3822) |Placeholder|Placeholder|
