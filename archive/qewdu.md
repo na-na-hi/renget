@@ -36,7 +36,10 @@ https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
 
 ## CH#### Chibi Character List
+CH0060 = Swimsuit Tsurugi
 CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender)**
+CH0063 = Swimsuit Hina
+CH0064 = Swimsuit Iori
 CH0066 = Shun (Child)
 CH0069 = Mika
 CH0081 = Sena

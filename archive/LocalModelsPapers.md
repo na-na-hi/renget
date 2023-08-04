@@ -67,6 +67,7 @@
 05/2023|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 05/2023|[Block-State Transformer](https://arxiv.org/abs/2306.09539)
 05/2023|[Randomized Positional Encodings Boost Length Generalization of Transformers](https://arxiv.org/abs/2305.16843)
+08/2023|[From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)

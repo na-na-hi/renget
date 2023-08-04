@@ -370,4 +370,5 @@ https://arch.b4k.co/vp/thread/54152637/ 5 fucking CHECKED
 https://arch.b4k.co/vp/thread/54158071/ 6 oh shit /vp/ is planning to get shit done
 https://arch.b4k.co/vp/thread/54163030/ 7 self derailing plot
 https://arch.b4k.co/vp/thread/54168509/ 8 man this chapter sucks
-https://arch.b4k.co/vp/thread/54178952/ 9
+https://arch.b4k.co/vp/thread/54178952/ 9 fucking nothing 'cept wack
+https://arch.b4k.co/vp/thread/54188603/ 10

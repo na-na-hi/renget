@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://imgur.com/IBOxhTf.png)
-Love Potion Edition
+![suggested OP image](https://i.imgur.com/wIXTYY5.png)
+Smaragdine-Eyed Girls Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>440543836
+Last thread: >>440682630
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,10 +33,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is Potions/Alchemy Friday; reply to the anchorpost with your transmutation prompts! 
+\>Today is still Potions/Alchemy Friday; reply to the anchorpost with your transmutation prompts! Last: >>440682992
  
 ▶News
-(7/31) NAI fixed their GPUs, probably.
+\>(8/03) NAI fixes GPUs probably; Kuru talks shop https://www.youtube.com/watch?v=4uJAqwdVIs4
 (07/28) Evals score Kayra higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
 (07/23) Cofunder of Stability Cyrus Hodes sold stock worth $500,000,000 for $100.
 (07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama

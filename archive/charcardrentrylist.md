@@ -27,16 +27,16 @@ Botmaker | Category | New Bots | Updated Bots
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Kha'Zix](https://files.catbox.moe/7y8yua.png), [Wooper](https://files.catbox.moe/al9cgi.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Tallula](https://files.catbox.moe/vhowku.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Cervina](https://files.catbox.moe/lv74nt.png)|
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Jane Madden](https://files.catbox.moe/ugs9rx.png), [Jiko.eth](https://files.catbox.moe/bidmxj.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Jane Madden](https://files.catbox.moe/ugs9rx.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Marlin](https://files.catbox.moe/sz679h.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png)|[Clumsy Rape Simulator](https://files.catbox.moe/m0vxjt.png) [MV]
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Aita](https://files.catbox.moe/x72gjx.png)|[Neferpitou](https://files.catbox.moe/081nti.png)
-[Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc |[Mei Lien](https://files.catbox.moe/3z45w9.png)|
-[Malik](https://rentry.co/maliksusanto) | Misc |[Val Deluca](https://i.postimg.cc/KcssMtWk/Val-Deluca-thumb.png), [Alma Armitage](https://i.postimg.cc/1zTvbSZm/Alma-Armitage-thumb.png)|
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||[Rosita](https://files.catbox.moe/t16fy7.png)
+[Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||[Akane](https://files.catbox.moe/qvf3fs.png), [Kurisu Makise](https://files.catbox.moe/igqdk8.png)
 [Bipbots](https://rentry.org/bipbots) | Misc ||
+[Scrimbly](https://rentry.org/scrimb) | Misc ||[Neferpitou](https://files.catbox.moe/081nti.png)
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
+[Malik](https://rentry.co/maliksusanto) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||

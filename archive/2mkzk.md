@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: - at 2UTC ()**
+**FRI: Ganbare Goemon 3 at 2UTC (Telemelt)**
 **SAT: Castlevania Harmony of Dissonance at 2UTC (Telemelt)**
 **SUN: Minemelt at 17:30UTC (Minecraft)**
 

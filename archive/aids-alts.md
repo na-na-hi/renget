@@ -46,6 +46,7 @@ https://rentry.org/AI-Voice-Cloning
 https://beta.elevenlabs.io/
 
 ####NAI:
+API Docs: https://api.novelai.net/docs/
 NAI specific wiki: https://naidb.miraheze.org
 Old module guide: https://rentry.org/modguide
 Card Maker: https://grotar00.itch.io/nai-card-editor

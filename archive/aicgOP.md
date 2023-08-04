@@ -65,8 +65,8 @@ https://rentry.org/meta_botmaking_list
 >Meta
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
-key verifier: https://github.com/Buhankoanon/OAI_API_Checker
-extra topics: https://rentry.org/aicg_extra_information - https://github.com/CncAnon1/kkc
+key verifier: https://github.com/Buhankoanon/OAI_API_Checker - https://github.com/Definetelynotbranon/Anthropic_API_Checker - https://github.com/CncAnon1/kkc
+extra topics: https://rentry.org/aicg_extra_information 
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
 aicg themed weeks -> https://rentry.org/aicgthemedweeks
 
@@ -123,7 +123,7 @@ https://rentry.org/meta_botmaking_list
 >Meta
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
-key verifier: https://github.com/Buhankoanon/OAI_API_Checker - https://github.com/CncAnon1/kkc
+key verifier: https://github.com/Buhankoanon/OAI_API_Checker - https://github.com/Definetelynotbranon/Anthropic_API_Checker - https://github.com/CncAnon1/kkc
 extra topics: https://rentry.org/aicg_extra_information
 turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
@@ -181,7 +181,7 @@ https://rentry.org/meta_botmaking_list
 ▶Meta
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
-key verifier: https://github.com/Buhankoanon/OAI_API_Checker - https://github.com/CncAnon1/kkc
+key verifier: https://github.com/Buhankoanon/OAI_API_Checker + https://github.com/Definetelynotbranon/Anthropic_API_Checker + https://github.com/CncAnon1/kkc
 extra topics: https://rentry.org/aicg_extra_information
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
 aicg themed weeks -> https://rentry.org/aicgthemedweeks

@@ -18,6 +18,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ)
 	[Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
 	- LoRAs:
+	[Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B)
 	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2)
 	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA)
 	
