@@ -146,7 +146,7 @@ For Silly Tavern, the default Budget for the lorebook is 200 tokens *(Note: This
 **I generally try to keep lorebook entries under 50 tokens, so that every round Silly Tavern can pull in 3-4 of them, as needed.**
 For example, that might be 2 Named NPCs, as well as their surroundings. 
 
-Why not expand the token budget? Well, for base Turbo you get about 4000 tokens. That 200 Lorebook budget is fighting for space with your character definition(s), NSFW prompt, JB, Author Notes, etc. What's left goes to Context, and generally more Context = Better ERP. Generally, I've found lower token count is better for several reasons: 
+Why not expand the token budget? Well, for base Turbo you get about 4000 tokens. That 200 Lorebook budget is fighting for space with your character definition(s), NSFW prompt, JB, Author Notes, etc. What's left goes to Context, and generally more Context = Better RP. Generally, I've found lower token count is better for several reasons: 
 1. AI responds better to tighter / shorter definitions
 2. Forces bot author to be efficient... do you really need more?
 3. Less tokens = more past chat in Context

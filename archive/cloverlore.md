@@ -1,122 +1,97 @@
-##Clover Guild Lore Reference
-Quick reference of all important events in timeline order to help writers, along with links to miscellaneous lore bins. Spoiler warning for all stories in the bin!
-1. [Locations](https://rentry.org/cloverlore#locations)
-2. [Stories](https://rentry.org/cloverlore#stories)
-	1. [Chronological Order](https://rentry.org/cloverlore#chronological-order)
-	2. [Undated (Release Order)](https://rentry.org/cloverlore#undated)
-3. [Lore Bins](https://rentry.org/cloverlore#lore-bins)
-####Timeline
-![Timeline](https://i.imgur.com/Okw85xk.png)
-####Locations
-A list of unique locations visited by guild members, or canon locations altered by guild members
-#####Capim Town Locations
-######The Clover Guildhall
-Exists in Capim Town on the Grass Continent. Dorm rooms, the guildmaster’s office, a storeroom, a library, and a kitchen have been established as locations. Some form of treasury has also been proposed, but has not appeared in any stories yet. The guild has real beds, a supply of cotton, and some Frisms after the events of [Go to Bed](https://rentry.org/mo6os); (green) blankets and pillows after [Go to Bed 2](https://rentry.org/2dvef); and a garden was built in [The Guild's Garden](https://rentry.org/me5gi).
-The guild’s storeroom is full of junk and unlabeled boxes, with no organization [until Togetic arrives](https://rentry.org/9sy7z). It also has a mirror, a substitute plushie with a sewn up butt, and a box with "Reviver Seeds : )" scribbled over the label (the contents are actual Reviver Seeds, despite the label).
-######Guildhall Layout
-![Guildhall by Kiyo and Booker](https://i.imgur.com/ABnbwza.png)
-######Blue Claw Inn
-An inn/tavern in Capim Town. Notable for being the location where [Gathering](https://rentry.org/h3fdu) occurs and the guild is formed.
-######Ariados the Tailor
-Tailor in Capim Town. The backroom of her store is for clothing storage, and is several floors tall and full of clothes from top to bottom. Uses her silk threads to climb up and down to fetch clothes. Ariados also uses her silk as improvised measuring tape and for weaving her own silk cloth. First appears in [Torchic Crosses the Alps](https://rentry.org/unesm)
-######Library
-A small library run by a Blipbug librarian. Used to be a meeting point for a group of Pokémon roleplaying as humans, but sometime after the events of [Torchic Crosses the Alps](https://rentry.org/unesm) human roleplaying was banned there. Has several extra rules for Fire Pokémon. Fist appears in Torchic Crosses the Alps, then returns in [An Overelming Week](https://rentry.org/overelming).
-######Cake Shop
-A nondescript cake shop run by an Alcremie. Appears in [An Overelming Week](https://rentry.org/overelming).
-#####Other Locations
-######Hot Spring
-A hot spring on top of a mountain near Capim Town, guarded by a Charizard who battles anyone who tries to reach the summit. First visited by Chepin in [Mountain Hike](https://rentry.org/mk77t)
-######Echo Chamber
-A new chamber replacing the trap chest room at the end of Waterfall Cave. First visited by Booker in [The Echo Chamber](https://rentry.org/RibombeeEcho)
-######Apple Woods
-Suffered a large forest fire that destroyed the Perfect Apple tree. Caused by Phanpy's team in [The First Day on the Job](https://rentry.org/pn2fz)
+#（重口慎入！后面有小作文）黑裤袜苇草被极端残酷虐待成重度残废
 
+苇草没抽出来只能拉出来宰了……
+注意画的比较重口味，比较恶心，不喜慎入
 
-####Stories
-Summaries of important events from different completed stories. The goal is to focus on events that would impact other anon's stories, instead of summarizing every written work. Origin/Introduction stories are included and labeled (Intro).
-#####[Gathering (Booker)](https://rentry.org/h3fdu)
-Describes the initial meeting of the Pokemon that would form Clover Guild. A group of humans-turned-Pokemon meet in the Blue Claw Inn in Capim Town, and decide to elect Lliam as their Guildmaster.
+大概小剧情
 
-#####Chronological Order
+某人对苇草内心极其愤恨，找一堆人把她绑架起来拉到废弃厕所里残酷虐杀了，先捅爆裤袜裆部女性器官，让她瞬间去势，然后切掉两个乳房把女性特征全部去除
 
-######[Tybo's Mt. Freeze Adventure (Tybo) (Intro)](https://rentry.org/3ex84z)
-On an exploration of Mt. Freeze, Tybo runs into a human-turned-Pokemon on the run. After tagging along with the former human, Tybo finds himself interested in the subject of humans. When he hears about a guild of humans in Capim Town, Tybo meets with the human's Guildmaster.
-######[Cold Awakening (Bullet) (Intro)](https://rentry.org/5znx3)
-Bullet wakes up in a mystery dungeon and runs into an exploration team
-######[Team Oracle Issue #0 (Charmander) (Intro)](https://rentry.org/oracle0)
-Charmander wakes up in Natu's house, and after adjusting to her new body, agrees to form a team. They then set off for Capim Town.
-######[A Man in Mareep's Clothing (Macom) (Intro)](https://rentry.org/okk4qw)
-Macom arrives, and his last memories as a human hints that he may not be from the same universe as the other guild members.
-######[Chespin's Introduction (Chespin) (Intro)](https://rentry.org/q6gf5)
-Chespin arrives in the world and meets his partner, Wooper.
-######[A Ribombee’s Arrival (Booker) (Intro)](https://rentry.org/RibombeeArrival)
-Booker appears, meets his partner Sneasel, and heads off to Capim Town
-######[A 'Mon, Gus (Gus) (Intro)](https://rentry.org/7ytz9)
-Gus appears, and meets Booker and Sneasel leading into the events of Gathering and the formation of the guild
-######[The Snivy and the Mysterious Rock Path (Tooca) (Intro)](https://rentry.org/eurf8)
-Tooca wakes up as a Snivy and meets an Axew named Lapi
-######[The Echo Chamber (Booker)](https://rentry.org/RibombeeEcho)
-Booker and Sneasel escort a client to the Echo Chamber, a new room at the end of Waterfall Cave with wonderful acoustic properties
-######[Go to Bed (Chespin)](https://rentry.org/mo6os)
-Chespin goes on a journey to rest in a real bed. Comes back with cotton and frisms, unleashing comfy sleep and voice recorders onto the guild.
-######[Go to Bed 2 (Chespin)](https://rentry.org/2dvef)
-Unwilling to rest on his laurels, Chespin goes out and gets blankets and pillows for the guild.
-######[Taliban Mystery Dungeon! (Kaiji) (Intro)](https://rentry.org/xt6xx)
-Kaiji and Kris recover stolen goods from a group of Taliban members turned into Pokemon, then begin their journey to Capim town
-######[An Expedition Report (KFC)](https://rentry.org/gcr6h)
-At the behest of the Federation in charge of exploration teams, KFC seals mysterious rifts that have appeared in mystery dungeons and reports his findings.
-######[Ross's Origin (Ross) (Intro)](https://rentry.org/qag5t)
-Ross enters the stage and joins the guild
-######[Mountain Hike (Chespin)](https://rentry.org/mk77t)
-Chespin's team climb a mountain and discover a hot spring
-######[An Unexpected Find (Chespin)](https://rentry.org/m2kdg)
-Chespin finds a Mew that used to be human and takes her back to the guild. Mew is still getting used to her new body.
-######[Currently Unnamed McNumel Story (Kaiji)](https://rentry.org/7pagq)
-McNumel joins the guild and is put to work under Chef Beast.
-######[The Guild's Garden (Chespin)](https://rentry.org/me5gi)
-Chespin builds a garden for the guild with the aid of Wooper and Booker.
-######[Phanpy-anon and /pmdg/ in Treasure Town (Phanpy) (Intro)](https://rentry.org/9t9oo)
-Phanpy helps the Guildmaster manage a group of human Pokemon in Treasure Town. After meeting a newly arrived Cyndaquil, Guildmaster Lliam puts Phanpy on an exploration team with three other misfits.
-######[The First Day on the Job (Phanpy)](https://rentry.org/pn2fz)
-Phanpy's team goes out on their first job, and finish it by burning down Apple Woods. 
-######[Introducing Capim Town (Phanpy)](https://rentry.org/ry2ek)
-Phanpy's team and the rest of the Treasure Town members arrive in Capim Town.
-######[Branching Out (Elm) (Intro)](https://rentry.org/branching)
-A human wakes up as a Duskull, joins the guild and decides to name himself "Elm". The guild’s storeroom is described as being very messy and full of junk and unlabeled boxes, with no inventory.
-######[An Overelming Week (Elm)](https://rentry.org/overelming)
-In the storeroom Elm scribbles "Reviver Seeds :)" over the label of a box of Reviver Seeds with the intent of causing uncertainty to those who don't know how to differentiate Reviser Seeds from Reviver.
+之后就是挖眼殴打开颅吊首枪击刀切加断肢，一套流程完事她竟然还活着，就直接丢在那里自生自灭吧…………
 
-##### Undated
-Ordered by release date
-######[Raboot's Introduction (Casey) (Intro)](https://arch.b4k.co/vp/thread/53384286/#q53388874)
-Casey wakes up in a field near Capim Town and finds a job board in town
-######[Sableye's History (Sableye) (Intro)](https://rentry.org/zyw8t)
-Sableye arrives in the Pokemon world and tricks a Silicobra into taking the fall on a crime. Silicobra swears a vow of revenge on Sableye and humanity.
-######[The Wag of a Finger (Beast) (Intro)](https://rentry.org/vxugg)
-Chef Beast joins the guild.
-######[Debby's Introduction (Debby) (Intro)](https://arch.b4k.co/vp/thread/53493839/#53498117)
-Debby recruits Solid Linoone into a mail service to surpass Pelipper Post
-######[I am Acrab, Mang (Acrab) (Intro)](https://rentry.org/acrab)
-Acrab arrives in the world and runs into an exploration team
-######[Jimmy Your Ghoul (Jimmy) (Intro)](https://rentry.org/7cwwk)
-Jimmy wakes up as a Gimmighoul and attempts to drive his chest
-######[Percival's Grand Entrance (Percival) (Intro)](https://rentry.org/5ne4g)
-Percival explores the world and seeks out the Clover Guild
-######[Three Strangers Blow Into Town (Kiyo) (Intro)](https://rentry.org/kcb-0)
-A trio of outlaws, Kiyo, Cassie, and Bean, join the Clover Guild as part of scheme to search the guildhall.
-######[Wanderer (Smith) (Intro)](https://rentry.org/cxhk8)
-Smith begins a quest for power
-######[Togetic's Recruitment (Togetic) (Intro)](https://rentry.org/tqb5q)
-Togetic is rescued by Team Cozy
-######[The Marvelous Carrot and Hazel Archive (Carrot) (Intro)](https://rentry.org/carrot-hazel-archive)
-Intro for Carrot and Hazel, plus personality blurbs
-######[It Comes in Pairs (Clara) (Intro)](https://rentry.org/cmxrvt)
-Clara and Smoke intro, they meet some guild members on a mission and Smoke realizes that some of them are human.
-######[SENTRET: Sentret the Sentret (Sentret, Sentret) (Sentret) (Intro)](https://pastebin.com/C7G3EsBs)
-Sentret embarks on a quest to find his dead parents
-####Lore Bins
-List of bins focused entirely on lore
-######[A Detailed Guide to Aura (KFC)](https://rentry.org/PMD_Aura)
-Guide on what aura is and how it can be used
-######[Mysteriosity Study (Lliam)](https://rentry.org/Mysteriosity)
-Description of five levels of dungeon mysteriosity, a measure of how dangerous and unpredictable mystery dungeons are. Also describes possible Distortion Effects and Mysterious Forces that could threaten an exploration team.
+谁捡着算谁的把，估计成这个模样也不会有人看得上了……
+
+==========
+tnnd，周末闷声画了，这个坏女人骗我钱财，回头看口味感觉有点过了，自己看了那个胸和脸都有点恶心…可能和最近不小心看了血腥漫画有关系…以后不再看了…勿喷
+
+编辑==
+画完今早就抽出来了……看来还是有点震慑作用…
+
+编辑== =========
+
+突然来感觉了，简单续写一点正常向小作文yy一下
+
+苇草小姐被残酷虐待后不知几天，她仍然靠着强大的生命力苟活着，舌头被拔掉让她无法发声，她只能在肮脏恶臭的废旧公厕角落里痛苦的抽动
+
+这几天她身边来了至少十几人，她能感觉到，虽然全身剧痛意识濒临消失，但她还是能感觉到这样的自己被强奸了。虽然身体残破如同丢掉的破洋娃娃，但毕竟她的下身印花裤袜美腿还在，很多流浪汉和犯罪人员对她的现在的恐怖外貌并不在乎。
+
+好多人进来把手伸进她的裤袜里狠狠的抠着她的下身，她能大概感觉到，但是非常麻木，她怀疑自己已经半瘫痪了。
+
+就这样浑浑噩噩的过了不知多久，由于剧烈疼痛以及重度感染，苇草小姐的意识彻底消散了，变成了一个类似半植物人的状态。
+
+“喂！老大！我们找到她了！口区……………”
+一个缠着警察制服的男人急匆匆的走进厕所，然后在看到眼前景象后剧烈地呕吐
+
+眼前的苇草小姐散发着难以言语的混合恶臭，漂亮的裙子上全是污血和蛆虫，她的全身被绑的有些诡异，两腿中间散发出一股粪便的味道
+
+当然最令人作呕的就是她被毁的面目全非的脸，能看出来她的面相之前是一个顶尖的美少女…
+
+里面跟上的几个警察和法检人员刚看到的第一反应也都是剧烈的呕吐，警长模样的男人忍住厌恶先发话了
+
+“喂！…吉米，你…去看看尸体的情况……呕…”
+
+法医吉米相对淡定很多，小心的过去查看尸体的状况
+
+但突然之间苇草小姐的头转了一下，直接给吉米医生吓得尿了出来
+
+“呃呃……啊…%^*$@”
+
+眼前的“尸体”不仅动了，还发出微弱的哼哼声
+
+“长官！她还没死！”
+
+警察们面面相觑，只得招呼所谓的尸检人员给苇草小姐运上了担架抬了回去
+
+经过几十小时的紧急处理和手术，苇草小姐活了下来
+
+警长看了下苇草小姐的最终诊断报告
+
+“苇草小姐目前的状况综合评估为一级重度残废，具体表现为，双目缺失，头骨八分之一缺失，脑损伤，舌头缺失，牙齿丢失四分之三，双侧乳房缺失，子宫卵巢膀胱缺失，脊柱第三节以下受损，双臂从大臂以下缺失，左侧身体有8处枪伤，右侧身体有8处刀伤贯穿伤，除此之外全身骨折39处，其中盆骨颈骨和耻骨粉碎性骨折…………”
+
+看到这里警察抬起头停顿了一下
+
+“目前看起来只有腿部和脚部没有受伤，此外受害者下半身不遂，目前有大小便失禁的症状和应激反应障碍”
+
+“真的太凶残了，到底是怎样才会把一个美少女弄成这样…这下是彻底成了废人了……”
+旁边的警察感叹道
+
+几位警察叹息着进入了苇草的病房
+
+此时的苇草小姐已经经过了手术，整个看起来像一个绷带人，头骨缺失的位置由于手术，头发剃光后现在为避免过于惊骇，就用假发遮上了。可惜脸上缝合后的骇人伤疤看起来还是很恐怖，但已经能看出是个美人胚子，并不想之前那样像丧尸一般了。不过目前她的意识还是消散，整个看起来像植物人
+
+警察们简单探望她后就走了
+
+“我想等她意识恢复后问问她要不要安乐死，现在她这个样子看起来过于凄惨了，本来是那种美女现在完全被毁掉了，这样的现实过于残酷了，我觉得她这样还不如直接死掉更体面一些……”
+
+“好的，我赞成”
+
+过了大概几个月，苇草小姐依旧只能躺着，意识已经开始恢复，但是美少女已经不复存在了，现在的她看起来就像一个畸形诡异的怪物，身体上到处充满着伤残的气息，甚至不敢拆开遮伤的器具，因为大多数人会被吓到惊叫
+
+苇草小姐现在仍需要导食导尿，并且严重大小便失禁，每天都过着常人看起来痛苦不堪的生活，现在的苇草小姐已经彻底是个重度残废了
+
+警察们又来到了病房
+
+“苇草小姐，您现在有意识了吗，如果有的话请点点头吧”
+
+苇草缓慢的微弱点了点头
+
+“好的，苇草小姐，我们郑重的在这里咨询您有没有申请安乐死的意愿。经过人道组织的评估，您现在的状态属于不可逆重度残疾，并且目前无法进一步康复，只能以目前的状况甚至更差的状态度过余生，如果您有意愿，可以自主选择放弃生命”
+
+“如果您有意愿就请点点头，如果继续接受治疗的话就请摇摇头，我们会完全尊重您的选择”
+
+过了一会儿，苇草小姐面无表情地微微点点头，这表明她已经对自己绝望了
+
+半个月后苇草小姐进入了安乐死病房，据说注射后她露出了久违的笑容
+
+=======
+突然想了个小故事，文笔真的不行，没怎么写过东西，凑合看吧……

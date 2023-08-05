@@ -1,272 +1,97 @@
-==**Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)**==
-
-[TOC]
-
-#Pending Requests
-
-1. A full redraw of that Dr. Doom doots meme with Elm and Gus
-1. This https://www.youtube.com/watch?v=RzZaKvhJNiU with Chespin holding an Oran Berry replacing Shadow, and Toge giving a thumbs up in the background. Maybe a KO'd Cyndaquil in the background.
-1. Boss Chiller https://files.catbox.moe/8pv2ws.jpg with Debby and Linoone as the sherrif and deputy, with pelippers being blown up in the background
-1. Fynn as that police dog from Paw Patrol
-1. Guildmons being pet!
-1. Chespin playing cards. Alone.
-1. ["Ah, eto... bleh!"](https://www.youtube.com/watch?v=SYCP71qcYZw)
-1. The "You look lonely" scene from Bladerunner, but with Booker as Ryan Gosling and Sneasel as the hologram girl, captioned something like ">literally bee"/"omg he's literally bee"
-1. Sad, disappointed Smith looking at his plate of food, which holds normal, clean, non-grimy food.
-1. Tropius's bananas falling off, followed by various guildmons rushing to grab some, much to Tropius's displeasure
-1. Chespin doing the "No Way Fag" Expression
-1. Someone asking Chespin "You call breaking a glass bottle over an enemy's head a combat art?" with Chespin saying "Hey, as long as it works."
-1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
-1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)
-1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
-1. Kris curled up asleep, with Booker sleeping on the fluff on his head
-1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
-1. Booker, Chespin, and Minun's gardening Youtube channel (based on https://cloverguild.com/booru/post/414)
-1. Gus eating toast. Angrily.
-1. Bill and Gill dressed as Mario and Luigi
-1. Nick, Macom, and Booker studying Porygon 
-1. Smith and Sneasel sparring 
-1. Clara relaxing with other guildmons 
-1. A bunch of Macom jumping over a fence
-1. Toge and Dewott as [this](https://files.catbox.moe/07tvv0.png)
-1. Toge doing the Travis Touchdown "Moe~" moment but saying "Cozy~" and with a poster of Team Cozy instead
-1. Team Marsh feeding an outlaw a handful of Doom Seeds
-1. Lliam doing this https://files.catbox.moe/gn5jy6.jpeg
-1. Chespin going on a chiller tirade during a stand up comedy's act at the Laugh Factory club
-1. Cyndaquil writing his autobiography 
-1. Pikachu, Furret, and Cassie having a picnic 
-1. Elm and Toge hanging out like bros 
-1. Phanpy's desk 
-1. Ross babysitting several babymons
-1. Beast drawn like King Harkinian
-1. Alakazam holding a klan rally with ice types
-1. KFC, as a Blaziken, wearing [this suit (Colonel Sanders)](https://files.catbox.moe/qia470.jpg).
-1. Chespin and Wooper sharing ice cream
-1. Native mons making humansonas based on humon depictions of mankind 
-1. Percival giving Team Misfits a ride 
-1. Gill singing in Capim Town square 
-1. Debby "legalize nuclear bombs"
-1. Totodile and Cyndaquil getting kicked out of a bar
-1. Phanpy throwing Torchic (rope tied) off the roof 
-1. Cyndaquil attemping to romance ??? Guildmon
-1. Pikachu about to walk into one of Elm's pranks
-1. Kaiji and Kris working a gacha stand.
-1. Guildmon themed 2010 rage comic
-1. Ross gets a job
-1. Sneasel raging 
-1. Anonmon being grateful that the booru is back up 
-1. Kiyo and Kris in maid outfits
-1. Anonmon getting pissed that the booru is down
-1. Sneasel proudly wearing a "Please be patient I have autism" hat (optional: have Booker and Toge looking at her in horror)
-1. Ross being immune to sleep hypnosis  
-1. "Which table you sittin' at?" Meme with the guild cafeteria
-1. A humon trying to teach a nativemon how to shitpost on 4chan
-1. Kris screaming (if you want to draw more, maybe after waking up from a dream)
-1. Kiyo stretching like a fox [Active WIP?]
-1. Debby pecking/grooming at Linoone's cheek
-1. Cyndaquil using x-day specs to look at Kiyo's ass through his tails
-1. Kaiji as this https://files.catbox.moe/u4wzp8.jpg
-1. Chespin performing an Electric Wind God Fist from Tekken
-1. Native Pokemon unknowingly following their instincts.
-1. Clara fighting with one of the guildmembers
-1. Togetic standing in front of a coffee maker, half-asleep
-1. Togetic and Team Cozy playing in a river (From Togetic's "Reunion" story)
-1. Gus Pondmaxxing
-1. Booker enjoying the world's smallest ice cream cone
-1. KFC holding a Clover Guild badge saying something like "Wow this badge sure is cool. it must've taken like 10 failed attempts before they got it right."
-1. Togetic as the EB Games guy
-1. Chespin having a quickdraw showdown with Charm. Wooper is Chespin's 'gun' in this case.
-1. Cheerleader Booker
-1. Debby walking away from an explosion
-1. Hell's Kitchen, with Beast as Gordon Ramsey and guild mons as contestants 
-1. cyndaquil has trapped booker in a jar 
-1. ross sleepwalking
-1. anon-mons reenacting Buried Alive with Alakazam https://www.youtube.com/watch?v=N5TWbeav7hI
-1. A Kricketot dancing with a Rawst Berry over his head, with Ronnie staring menacingly in the background.
-1. A bathroom break https://twitter.com/scarletshadowzz/status/1515836606925651970
-1. One of the guild members with Jojo stats (https://d.furaffinity.net/art/bittenhard/1585922600/1585922600.bittenhard_standretsucol02.jpg)
-1. Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
-1. Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm
-1. Debby and Kaz (Solid Linoone) on a date
-1. Sonichu Issue #0 Cover but with Guildmembers
-1. A group of anon-mons (artist's choice) inside a monster house
-1. A group of three or more having a swimming competition 
-1. Guild members reading books on the library
-1. A guild member teaching newbie guild members (w/ whiteboard) about the basics of Mystery Dungeons 
-1. Kiyo and the others entering the guild for the first time
-1. Jimmy decorating the interior of the chest
-1. Guild members (artist's choice) playing in the rain [claimed/claiming this one but i think other people doing it would be fun also if you wanna do it too]
-1. Tocca (Snivy) and Lapi (Axew) doing gardening
-
-1. Percival perched on the guild diligently 
-1. Chespin lifting Minun with his vines to pick an apple from a tree
-1. One or more guild members (artist's choice) wearing (ugly/christmas) sweaters.
-1. A guild member (probably Charm or Kaiji) explaining what 'KFC' actually stands for to KFC
-1. Booker and Gus relaxing to some tunes
-1. Elm using his shadow sneak shoryuken on a Pelipper
-1. Ronnie screaming at a Kricketot
-1. A scene of the artist's choice from A 'Mon, Gus
-1. (assuming you do comics) A small comic about particularly desperate guild members trying in vain to use the request board as a replacement for 4chan
-1. Ronnie running around the infirmary screaming like an idiot and knocking things over
-1. KFC finding Ross, and Ross laughing at KFC's name
-1. Ronnie attacking a Scraggy
-1. Outlaw Smeargle swiping Gus's lunch
-1. Chespin using his vines to hold Wooper like a gun
-1. Lliam and Macom doing their mental card game
-1. Charm and Natu fighting Lowe the Venipede
-1. Gus meeting Booker and Sneasel
-1. Sneasel sleeping in her new cotton bed
-1. Meloetta and Politoed performing on stage
-1. Percival getting racially abused by Tinkaton
-1. "insert guild member here" arriving at Capim town
-1. Phanpy's friend, Totodile, showing his trick at The Blue Claw Inn
-1. Togetic catching Wooper getting drunk and covering for him
-1. Carrot and Hazel arriving to the guild
+# （重口慎入！后面有小作文）黑裤袜苇草被极端残酷虐待成重度残废
 
-#**Finished Requests (Some links pending gallery uploads)**
+苇草没抽出来只能拉出来宰了……
+注意画的比较重口味，比较恶心，不喜慎入
 
-[Booker learning to fly](https://cloverguild.com/booru/post/671)
+大概小剧情
 
-[This](https://files.catbox.moe/v82nhp.jpg) with [Kaiji](https://cloverguild.com/booru/post/653)
+某人对苇草内心极其愤恨，找一堆人把她绑架起来拉到废弃厕所里残酷虐杀了，先捅爆裤袜裆部女性器官，让她瞬间去势，然后切掉两个乳房把女性特征全部去除
 
-[A fake ID in the style of https://files.catbox.moe/693vdt.jpg with one member of Team Cozy](https://cloverguild.com/booru/post/625)
+之后就是挖眼殴打开颅吊首枪击刀切加断肢，一套流程完事她竟然还活着，就直接丢在那里自生自灭吧…………
 
-[Princess Wooper](https://arch.b4k.co/vp/thread/54121838/#54136878)
+谁捡着算谁的把，估计成这个模样也不会有人看得上了……
 
-Booker as Kamina (from Gurren Lagann) saying "Believe in the bee that believes in you!" -- 2 versions [by Porygon-anon](https://cloverguild.com/booru/post/602) and [by Ribombee-anon](https://cloverguild.com/booru/post/603)
+==========
+tnnd，周末闷声画了，这个坏女人骗我钱财，回头看口味感觉有点过了，自己看了那个胸和脸都有点恶心…可能和最近不小心看了血腥漫画有关系…以后不再看了…勿喷
 
-[Nick and Amelia swimming](https://cloverguild.com/booru/post/574)
+编辑==
+画完今早就抽出来了……看来还是有点震慑作用…
 
-[Smith eating grimy food (he loves it)](https://cloverguild.com/booru/post/599)
+编辑== =========
 
-[Porygon being called out by Bill](https://cloverguild.com/booru/post/587) ["You call spamming Hyper Beam a martial art?"](https://files.catbox.moe/rfjvch.png)
+突然来感觉了，简单续写一点正常向小作文yy一下
 
-[Beast pouring two shots of vodka](https://cloverguild.com/booru/post/586)
+苇草小姐被残酷虐待后不知几天，她仍然靠着强大的生命力苟活着，舌头被拔掉让她无法发声，她只能在肮脏恶臭的废旧公厕角落里痛苦的抽动
 
-[Porygon error 404](https://cloverguild.com/booru/post/579)
+这几天她身边来了至少十几人，她能感觉到，虽然全身剧痛意识濒临消失，但她还是能感觉到这样的自己被强奸了。虽然身体残破如同丢掉的破洋娃娃，但毕竟她的下身印花裤袜美腿还在，很多流浪汉和犯罪人员对她的现在的恐怖外貌并不在乎。
 
-[Tired Lliam doing paperwork](https://cloverguild.com/booru/post/578)
+好多人进来把手伸进她的裤袜里狠狠的抠着她的下身，她能大概感觉到，但是非常麻木，她怀疑自己已经半瘫痪了。
 
-[This](https://files.catbox.moe/twhhb3.png) with [the Gardevoir from "Togetic's Mind-Bending Adventure" and Toge](https://cloverguild.com/booru/post/573)
+就这样浑浑噩噩的过了不知多久，由于剧烈疼痛以及重度感染，苇草小姐的意识彻底消散了，变成了一个类似半植物人的状态。
 
-[Pirate KFC for no reason in particular :)))))))](https://cloverguild.com/booru/post/538)
+“喂！老大！我们找到她了！口区……………”
+一个缠着警察制服的男人急匆匆的走进厕所，然后在看到眼前景象后剧烈地呕吐
 
-[Cyndaquil in the sad panda pose](https://cloverguild.com/booru/post/530)
+眼前的苇草小姐散发着难以言语的混合恶臭，漂亮的裙子上全是污血和蛆虫，她的全身被绑的有些诡异，两腿中间散发出一股粪便的味道
 
-[A selection of guildmons (your choice) on a roadtrip](https://cloverguild.com/booru/post/494)
+当然最令人作呕的就是她被毁的面目全非的脸，能看出来她的面相之前是一个顶尖的美少女…
 
-[Debby's staring contest with Pelipper](https://cloverguild.com/booru/post/484) [(2)](https://cloverguild.com/booru/post/485) [(3)](https://cloverguild.com/booru/post/486)
+里面跟上的几个警察和法检人员刚看到的第一反应也都是剧烈的呕吐，警长模样的男人忍住厌恶先发话了
 
-[Guildmembers having dinner together in the dinning hall](https://cloverguild.com/booru/post/237)
+“喂！…吉米，你…去看看尸体的情况……呕…”
 
-[This, but with Booker and Sneasel: https://i.kym-cdn.com/photos/images/original/002/571/641/e6f](https://cloverguild.com/booru/post/468)
+法医吉米相对淡定很多，小心的过去查看尸体的状况
 
-[Linoone doing parkour around Capim Town to deliver a package](https://cloverguild.com/booru/post/437)
+但突然之间苇草小姐的头转了一下，直接给吉米医生吓得尿了出来
 
-[Chespin pouring a Gummi drink into Wooper's mouth, like this picture. https://files.catbox.moe/dv0s1j.jpg](https://cloverguild.com/booru/post/471)
+“呃呃……啊…%^*$@”
 
-[Chespin and Wooper cuddling in bed (no homo)](https://cloverguild.com/booru/post/461)
+眼前的“尸体”不仅动了，还发出微弱的哼哼声
 
-[Someone brings Carrot and Bean to Beast after misunderstanding an ingredient request](https://cloverguild.com/booru/post/457)
+“长官！她还没死！”
 
-[Someone tells Porygon "This statement is false"](https://cloverguild.com/booru/post/441)
+警察们面面相觑，只得招呼所谓的尸检人员给苇草小姐运上了担架抬了回去
 
-[Togetic and Cyndaquil dressed as Greek philosophers arguing over if traps are gay](https://cloverguild.com/booru/post/428)
+经过几十小时的紧急处理和手术，苇草小姐活了下来
 
-[Elm doing a pose while holding a Switcher Wand and using Will-o-Wisp](https://cloverguild.com/booru/post/432)
+警长看了下苇草小姐的最终诊断报告
 
-[Togetic flying over Capim Town at night](https://cloverguild.com/booru/post/386)
+“苇草小姐目前的状况综合评估为一级重度残废，具体表现为，双目缺失，头骨八分之一缺失，脑损伤，舌头缺失，牙齿丢失四分之三，双侧乳房缺失，子宫卵巢膀胱缺失，脊柱第三节以下受损，双臂从大臂以下缺失，左侧身体有8处枪伤，右侧身体有8处刀伤贯穿伤，除此之外全身骨折39处，其中盆骨颈骨和耻骨粉碎性骨折…………”
 
-["Poker night at the inventory" with pokemons](https://cloverguild.com/booru/post/373)
+看到这里警察抬起头停顿了一下
 
-[A bipedal mon riding on a quadrupedal mon while holding a stick up pretending to be a knight (either both of them are into this roleplay or the quadrupedal mon has a puzzled expression)](https://cloverguild.com/booru/post/359)
+“目前看起来只有腿部和脚部没有受伤，此外受害者下半身不遂，目前有大小便失禁的症状和应激反应障碍”
 
-[Sneasel or any other mon flying up a kite with booker being strapped onto said kite](https://cloverguild.com/booru/post/366)
+“真的太凶残了，到底是怎样才会把一个美少女弄成这样…这下是彻底成了废人了……”
+旁边的警察感叹道
 
-[redraw of this but with alakazam and gus in the guild lobby https://pyxis.nymag.com/v1/imgs/805/612/f292217044e7ce8e8485ee8f5e8f1bb405-livelikethis.2x.rhorizontal.w700.jpg](https://cloverguild.com/booru/post/321)
+几位警察叹息着进入了苇草的病房
 
-[Cyndaquil getting powdered Blast Seed thrown in his face](https://cloverguild.com/booru/post/330)
+此时的苇草小姐已经经过了手术，整个看起来像一个绷带人，头骨缺失的位置由于手术，头发剃光后现在为避免过于惊骇，就用假发遮上了。可惜脸上缝合后的骇人伤疤看起来还是很恐怖，但已经能看出是个美人胚子，并不想之前那样像丧尸一般了。不过目前她的意识还是消散，整个看起来像植物人
 
-[Kina pepper spraying Cyndaquil](https://cloverguild.com/booru/post/330)
+警察们简单探望她后就走了
 
-[Togetic wearing custom-made Team Cozy merchandise to show he's their #1 fan](https://cloverguild.com/booru/post/300)
+“我想等她意识恢复后问问她要不要安乐死，现在她这个样子看起来过于凄惨了，本来是那种美女现在完全被毁掉了，这样的现实过于残酷了，我觉得她这样还不如直接死掉更体面一些……”
 
-[Gus wearing a comically large cowboy hat](https://cloverguild.com/booru/post/275)
+“好的，我赞成”
 
-[ross not being able to sleep](https://cloverguild.com/booru/post/327)
+过了大概几个月，苇草小姐依旧只能躺着，意识已经开始恢复，但是美少女已经不复存在了，现在的她看起来就像一个畸形诡异的怪物，身体上到处充满着伤残的气息，甚至不敢拆开遮伤的器具，因为大多数人会被吓到惊叫
 
-[A Wooper version of "Just screaming" https://files.catbox.moe/xwghve.png](https://cloverguild.com/booru/post/4)
+苇草小姐现在仍需要导食导尿，并且严重大小便失禁，每天都过着常人看起来痛苦不堪的生活，现在的苇草小姐已经彻底是个重度残废了
 
-[Togetic ranting at Ross about his paint trails in the storeroom](https://rentry.org/cloverart#ross-loss-of-sleep)
+警察们又来到了病房
 
-[Chespin and Sneasel doing a "high shovel" like in Tails Gets Trolled](https://cloverguild.com/booru/post/298)
+“苇草小姐，您现在有意识了吗，如果有的话请点点头吧”
 
-[Loss](https://rentry.org/cloverart#ross-loss-of-sleep)
+苇草缓慢的微弱点了点头
 
-[The Troll Slaiyers but with Guildmons](https://rentry.org/cloverart#the-troll-slaiyers)
+“好的，苇草小姐，我们郑重的在这里咨询您有没有申请安乐死的意愿。经过人道组织的评估，您现在的状态属于不可逆重度残疾，并且目前无法进一步康复，只能以目前的状况甚至更差的状态度过余生，如果您有意愿，可以自主选择放弃生命”
 
-[Any anon-mons babysitting a baby-mon (job requests tend to get weird)](https://rentry.org/cloverart#kaijis-babysitting-service)
+“如果您有意愿就请点点头，如果继续接受治疗的话就请摇摇头，我们会完全尊重您的选择”
 
-[Nick and Kiyo meeting, idk insert clueless members comparing the two](https://cloverguild.com/booru/post/292)
+过了一会儿，苇草小姐面无表情地微微点点头，这表明她已经对自己绝望了
 
-[Flower viewing (picnic) with the anon-mons, can be at the garden or somewhere that has abundance of flowers](https://rentry.org/cloverart#three-strangers-in-a-garden)
+半个月后苇草小姐进入了安乐死病房，据说注射后她露出了久违的笑容
 
-[Tybo watching Pikachu, a Totodile, and an Absol meeting Ninetales from a distance](https://rentry.org/cloverart#a-meeting-on-mt-freeze)
-
-[Raboot and KFC doing a spar together](https://rentry.org/cloverart#kfc-and-casey-sparring)
-
-[Gus calmly sitting at the docks](https://rentry.org/cloverart#gus-on-the-docks)
-
-[Beast holding a butcher knife as he witnessed someone eating at the pantry](https://rentry.org/cloverart#woopstand)
-
-[Sableye cooking in a cauldron](https://cloverguild.com/booru/post/341)
-
-[Togetic cleaning the storage room](https://rentry.org/cloverart#togetic-cleaning-the-storeroom)
-
-[Waiting room outside the clinic.  Feat. Artist's choice injured pokemon](https://rentry.org/cloverart#therapy)
-
-[A few 2nd wave mons sitting together at a dinner table](https://rentry.org/cloverart#dinner-time)
-
-[Phanpy and friends in winter outfits](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
-
-[Phanpy and friends at the blue claw inn](https://cloverguild.com/booru/post/345)
-
-[Gopnik Totodile squatting in a tracksuit and flat cap with a bottle of vodka outside the guildhall](https://rentry.org/cloverart#gopnik-pok%C3%A9mon-style)
-
-[Alakazam wearing a pointy white sheet over his head](https://cloverguild.com/booru/post/469)
-
-[Chespin holding a large blanket over his head ala Legend of Zelda](https://rentry.org/cloverart#blanket-get)
-
-[Macom preparing to Charge+Discharge](https://rentry.org/cloverart#macoms-charge)
-
-[Bullet sleeping upside down like a bat](https://rentry.org/cloverart#sleepy-bullet)
-
-[A group photo of all the guild members (+ other characters on the background) pre Enter the Federation](https://rentry.org/cloverart#clover-guild-wave-1)
-
-[Guild members stealing Chateaux Cherim from Beast's kitchen](https://rentry.org/cloverart#woopstand)
-
-[Outlaw Smeargle getting hit by Chespin's Solarbeam](https://rentry.org/cloverart#smerglecha)
-
-[Cryogonal getting hit by a Solarbeam](https://rentry.org/cloverart#sooraa-biimu)
-
-[Artist Anon-mons drawing at a canvas or paper together](https://rentry.org/cloverart#cloverdraw)
-
-[gm in swimsuit pls pls pls pls](https://rentry.org/cloverart#lliam-swimsuit-edition)
-
-[Kaiji accidentally flicking a coin into Kris' eye](https://rentry.org/cloverart#kris-got-a-boo-boo)
-
-[Chespin getting drunk](https://rentry.org/cloverart#team-cozy-drunk-by-linoone-and-kiyo)
-
-[Booker trying to get the map from the top of the bookshelf](https://rentry.org/cloverart#bookers-ultimate-challenge)
-
-[Wooper testing his "human detector" on Duskull](https://rentry.org/cloverart#whats-updog)
-
-[Debby and Linoone racing](https://rentry.org/cloverart#debby-and-linoone-race)
-
-[Ross making puppy eyes to Kecleon and Kaiji](https://rentry.org/cloverart#no-money)
-
-[Booker building a slingshot](https://cloverguild.com/booru/post/470)
-
-[Elm the Duskull screaming "OOGA BOOGA!!!" to Sewaddle](https://rentry.org/cloverart#courage-the-cowardly-sewaddle)
-
-[Beast using Numel as an oven](https://rentry.org/cloverart#beast-an-ordinary-stove)
+=======
+突然想了个小故事，文笔真的不行，没怎么写过东西，凑合看吧……

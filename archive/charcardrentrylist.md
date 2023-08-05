@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Ruby](https://files.catbox.moe/8qc7b1.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Vincent](https://files.catbox.moe/nj8vdt.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[David](https://files.catbox.moe/sbymyf.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Halloween Village](https://files.catbox.moe/b90913.png)|
@@ -29,15 +30,15 @@ Botmaker | Category | New Bots | Updated Bots
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc |[Byakuren Hijiri](https://files.catbox.moe/eorygf.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Kha'Zix](https://files.catbox.moe/7y8yua.png), [Wooper](https://files.catbox.moe/al9cgi.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Tallula](https://files.catbox.moe/vhowku.png)|
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Cervina](https://files.catbox.moe/lv74nt.png)|
+[Scrmgn](https://rentry.org/scrmgn) | Misc ||[Sally Acorn](https://files.catbox.moe/jjrv4r.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||[Rosita](https://files.catbox.moe/t16fy7.png)
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||
-[Genoo](https://rentry.org/295se) | Sizeplay ||[Akane](https://files.catbox.moe/qvf3fs.png), [Kurisu Makise](https://files.catbox.moe/igqdk8.png)
+[Genoo](https://rentry.org/295se) | Sizeplay ||[Akane](https://files.catbox.moe/qvf3fs.png)
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||[Neferpitou](https://files.catbox.moe/081nti.png)
-[Horny221](https://rentry.org/hornythings) | Misc / Stink ||[Saya](https://files.catbox.moe/2c04uu.png)
+[Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
@@ -67,7 +68,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
-[Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||

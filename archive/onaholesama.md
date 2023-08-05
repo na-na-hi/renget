@@ -1,9 +1,7 @@
 # onaholesama's furshit
 ->![credit to Kazerad and Prequel Adventure](https://files.catbox.moe/ma62ey.gif)<-
 ***
-i like describing my bots in detail, so thats why they are mostly 700+ tokens each. most of my scenarios have (You) in an anthro world
-
-bots are tested on API claude and slaude, with gpt4 support on some of them
+bots are tested on API claude 1.3, with gpt4 support on some of them
 
 bot ideas are usually from requests in the thread and characters from short stories
 
@@ -27,6 +25,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![PRIME saviorfaggotry](https://files.catbox.moe/8qc7b1.png) | Ruby | self-loathing kangaroo girl that has a tough exterior. based on "A Roo'd Awakening". use the provided main prompt/jb or the bot will talk for you way too much | [CHUB link](https://www.chub.ai/characters/onaholesama/ruby-58820c75)
 ![rangebunny](https://files.catbox.moe/lv74nt.png) | Cervina | gray northern wolf girl, gun range instructor that helps a clueless anon (You) | [CHUB link](https://chub.ai/characters/onaholesama/cervina-bbb042c4)
 ![sorta self-cardy](https://files.catbox.moe/cw2b76.png) | Almond | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
 ![virginity is sacred anon!](https://files.catbox.moe/hymrye.png) | **Kalia** | furry golden retriever girl that protects your virginity from other anthros that go feral on you | [CHUB link](https://www.chub.ai/characters/onaholesama/Kalia)

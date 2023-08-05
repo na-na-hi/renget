@@ -1,5 +1,5 @@
 # Nanashi Mumei merchandise
-**Birthday Merch Yr 2**
+**Birthday Merch Yr 2** (Order period ends 11th September 1800 JST)
  https://shop.hololivepro.com/en/products/nanashimumei_bd2023
 
 **OMOCAT CouncilRys apparel** 

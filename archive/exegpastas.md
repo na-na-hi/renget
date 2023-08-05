@@ -63,6 +63,7 @@ Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
 *Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
 *A Dame's Great Scoop* (Mario.exe)|[(link)](https://rentry.org/adamesgreatscoop)
+*Subjugation* (Sonic.exe)|[(link)](https://rentry.org/ye5n2)
 
 ##Non-vidya pastas
 Title|Link

@@ -39,7 +39,7 @@ If you're finding the LLM isn't tracking correctly between {{user}} and {{char}}
 **TLDR: Don't start AI talking for {{user}} to {{char}} in the intro, and lock down the responses in the card**
 
 I see this in virtually every NSFW/JB, and a lot of cards: ```*Don't speak for {{user}}*```
-It probably needs to be there, but frankly it doesn't get followed. AI's seem to struggle with negatives in direction *(Don't do X)* and generally will break in as {{user}} when they want regardless of you telling them not to. The AI doing this can range from tolerable contribution to completely derailing the ERP. 
+It probably needs to be there, but frankly it doesn't get followed. AI's seem to struggle with negatives in direction *(Don't do X)* and generally will break in as {{user}} when they want regardless of you telling them not to. The AI doing this can range from tolerable contribution to completely derailing the RP. 
 
 To avoid this: 
 1) Don't put {{user}} actions involving,  or worse, their dialog to {{char}} in the Intro
@@ -58,7 +58,7 @@ This sets the scene, and emotional backdrop for {{user}}, while not dictating an
 ``Every turn, display the following: Dialog from {{char}}, description of the surroundings, and {{char}}'s thoughts in asterisk.``
 This indicates to the AI the format to follow... which it usually does. The downside is it tends to prevent other NPCs that are not {{char}} from talking or doing anything. You can play with the above format to include them, but a lot of cards are meants as exclusive conversations with {{user}} and {{char}}, and in that case the above works well. 
 
-3) Longer RP, EPR, #2 works best, but generally you may have to edit the AI responses. Things tend to break down as the context expands. 
+3) Longer RP #2 works best, but generally you may have to edit the AI responses. Things tend to break down as the context expands. 
 
 4) Don't waste tokens putting *Don't respond for {{user}}* in the card if it's already in the NSFW or JB. The JB is the only place it belongs, and saying it 2-3 times won't make it any more likely to be followed. 
 
@@ -173,6 +173,33 @@ Add three lorebook entries tagged with the Keyword "xaab", "xaac" and "xaad" and
 By setting the first one to constant (the keyword doesn't actually matter) and set to appear before character definitions, the nonsense prompt return will have no impact on the context, past triggering the randomly selected Keyword. 
 The other three are set to appear after the author's notes. This way, the "key" (example: xaac) will be high up in the context, while description (example: ``putrid swamp``) would be near prompt.
 Make sure to set recursive scan! Otherwise the above it won't work. 
+
+## KISS Principal
+**TLDR: Keep It Simple, Stupid**
+
+Generally, I see authors putting *way* too much info into their cards. This leads to a bunch of problems. 
+
+* **Self-inconsistencies**  ```{{char}} is angry but friendly.``` What is the LLM supposed to do here? Add 10X more of these inconsistencies (or God help you, start layering them) and you'll end up with a literal robot as the LLM can't decide how to respond and defaults to "helpful instruction" mode. More traits, more risk of inconsistencies for the LLM to try to square. 
+* **Difficult to diagnose problems** If you have 20+ character traits in place it's hard to tell which one is making the bot misbehave. Better to start with a few, then build out or, better, eliminate. 
+* **No room for creativity** Perhaps more of a style choice, but one of the things I like about these LLMs is their ability to create NPCs and situations that I might not have considered. By overdefining the {{char}}, or the situation, you limit, by definition, where the RP can go. That may be your intention, if you're building something very specific that you want to respond in a certain way. But be aware of your choice. 
+* **Inefficiencies** Does your {{char}} really need to be told to like ice cream? This just adds to context, and probably not much to the RP, unless {{char}} is a complete fanatic about ice cream to the point of being a defining characteristic. 
+
+## Writing Cards with no Central Character
+**TLDR: Don't use {{char}}, just define what you want to happen**
+
+Another struggle I see is around writing cards where there's no central character being defined. I say "struggle" because the cards inevitatbly include a bunch of words around ```{{char}} is not a character``` or some such. Some pointers: 
+
+* **Don't use {{char}} at all** You don't need to ever use {{char}} in a definition if {{char}} doesn't represent an NPC. And you definitely don't need to explain to the LLM that {{char}} is not a charector. So just skip it. 
+* **Tell the LLM what you want to happen** Since there is no central NPC... do you want any there? Or is it just you in a room? Give the LLM some direction on what you want to happen. 
+* **Tell the LLM where you are** I usually don't put in {{user}} as part of definition; it's almost required for these cards, as there's little else for the LLM to hook onto otherwise... *this might make for a interesting experiment with atmospherics, later.* So, tell the LLM why you, {{user}}, are in the RP. 
+
+Example from American High School... below is the entire card. As usual for my writing style, it's very short. This was written for a lorebook but probably doesn't require it. It doesn't use {{char}}, explains what {{user}} is doing there, and what is expected to happen. 
+```
+{{user}} exists in a stereotypical sitcom TV version of an American high school. Background events from this trope will occur spontaneously. Other students present will take the initiative to talk with {{user}} or other students during roleplay. 
+Every turn, display the following: Dialog with other students, a stereotypical background event happening nearby, and the other student's thoughts. 
+```
+
+It's available here, and includes a usage gallery showing the output. Overall, it runs very well, for what it is. https://www.chub.ai/characters/NG/american-high-school-card 
 
 ## Other Resources
 * My intro guide to lorebooks in Silly Tavern: https://rentry.org/SillyT_Lorebook
