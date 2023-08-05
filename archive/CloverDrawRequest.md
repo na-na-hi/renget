@@ -97,7 +97,7 @@
 1. Jimmy decorating the interior of the chest
 1. Guild members (artist's choice) playing in the rain [claimed/claiming this one but i think other people doing it would be fun also if you wanna do it too]
 1. Tocca (Snivy) and Lapi (Axew) doing gardening
-1. Booker learning to fly
+
 1. Percival perched on the guild diligently 
 1. Chespin lifting Minun with his vines to pick an apple from a tree
 1. One or more guild members (artist's choice) wearing (ugly/christmas) sweaters.
@@ -124,6 +124,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #**Finished Requests (Some links pending gallery uploads)**
+
+[Booker learning to fly](https://cloverguild.com/booru/post/671)
 
 [This](https://files.catbox.moe/v82nhp.jpg) with [Kaiji](https://cloverguild.com/booru/post/653)
 

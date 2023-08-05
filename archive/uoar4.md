@@ -111,6 +111,7 @@ _______
 | 【歌枠 KARAOKE】It's Been 3 Whole Months !!! 『2023-06-23』| [![](https://files.catbox.moe/8zmjwq.jpg)](magnet:?xt=urn:btih:cff33e587f41005ecffcc705df82b37a650f5940&dn=%5B20230624%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/e7p4t4.txt|
 | sleepy moomin 『2023-06-28』| [![](https://files.catbox.moe/kuc717.jpg)](magnet:?xt=urn:btih:e2c9742f61d8ad0b0e79b57db84fd8c2b0db671c&dn=%5B20230629%5D%20unarchived%20sleepy%20moom%20karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/94gw3b.txt |
 |【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols 『2023-07-13』| [![](https://files.catbox.moe/vstdmf.jpg)](magnet:?xt=urn:btih:d183524a4ce09f8f7207b288d9ad2b85c1d31bc9&dn=%5B20230714%5D%20Unarchived%20BEEGsmols%20Relay%20%28Mumei%29&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/weehlx.txt|
+|【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|-|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -118,7 +119,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#5 |#39 | #7 |51 |
+|#6 |#39 | #7 |52 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

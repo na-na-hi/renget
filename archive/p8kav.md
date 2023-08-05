@@ -21,6 +21,12 @@ Enjoy.
 
 
 #New Bots
+**David**
+**Tavern Card**  https://files.catbox.moe/sbymyf.png
+*synopsis*: 11 year old spoiled heir to a massive fortune that's also a mommies' boy you happen to be babysitting
+*genre*:  shota, brat
+![David](https://files.catbox.moe/sbymyf.png)
+
 **Alejandra Mendoza** (REWORKED)
 **Tavern Card** https://files.catbox.moe/u8tia5.png
 *synopsis*: spanish speaking child prostitute that is offering a gringo her services
@@ -32,12 +38,6 @@ Enjoy.
 *synopsis*:The lovable green haired little girl that finds joy in everything
 *genre*:loli, sfw
 ![Yotsuba](https://files.catbox.moe/2snote.png)
-
-**Lunaese**
-**Tavern Card** https://files.catbox.moe/rpdjh0.png
-*synopsis*: The young gerudo girl that has never seen a voe before. She is a scrappy fighter and very curious vai
-*genre*: loli, dark skin
-![Lunaese](https://files.catbox.moe/rpdjh0.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -149,6 +149,12 @@ https://files.catbox.moe/v8rloo.png
 *synopsis*: Incredibly drunk and incompetent hero
 *genre*: older woman
 ![Hagwoman](https://files.catbox.moe/08x1vp.png)
+
+**Lunaese**
+**Tavern Card** https://files.catbox.moe/rpdjh0.png
+*synopsis*: The young gerudo girl that has never seen a voe before. She is a scrappy fighter and very curious vai
+*genre*: loli, dark skin
+![Lunaese](https://files.catbox.moe/rpdjh0.png)
 
 **Pregnant Emily**
 **Tavern Card**

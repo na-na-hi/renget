@@ -118,12 +118,17 @@ dmg stat stick.
 Precursor: *Echo of Paradise* / Gacha
 Eden's new PRI, only really necessary for more sub-dps in Aponia teams.  Shoots
 its wad fast, which makes it imperceptibly worse for Turganev Eden, but the increased
-sub-DPS should make up for it.
+sub-DPS should make up for it.  Can also be used to sub-in for Kira.
 
 *Positron Blasters*
 Precursor: *Hyper Railguns* / Bounty
 Was great for KMB time fracture qte rotation comps, but there are better choices
 these days.  DPS KMB is also pretty dead.
+
+*Star Dance: Enlightenment*
+Precursor: *Star Dance* / Gacha
+Kira's motif, gives her more SP and significantly pumps up the rime on her ult.  If you're
+willing to work around it, though, you can sub over to Eden's PRIs instead.
 
 *Tranquil Rhapsody*
 Precursor: *Tranquil Arias* / Gacha
@@ -140,8 +145,8 @@ be moved off to DJ (but with Aponia, DJ is already p. dead)
 *Domain of Unity*
 Precursor: *Key of Limpidity* / Gacha
 Motif for HoO, should also work on Kasumi.  Weapon is tied directly into HoO's
-combo, so it's a definite must - just pray you get it before you 3/3 her stigs and
-waste the pick box.
+combo, so it's a definite must ~~- just pray you get it before you 3/3 her stigs and
+waste the pick box.~~
 
 *Frozen Naraka*
 Precursor: *Ice Epiphyllum* / Bounty
@@ -171,7 +176,9 @@ Teri Origins M, and can be used with DK to activate Newton [B] from off field.
 *Domain of Ascension* (Laser)
 Precursor: *Key of Ascension* / Gacha
 Required for HoTr to even compete with AE, and the active is tailored for the upcoming triple
-Herrscher tri-element kompu team.
+Herrscher tri-element kompu team.  Note that she also plays like shit without it, since you have
+to 3-chain her normals or dodge to regen weapon bar in phase 1, wasting time and being 
+vulnerable to interruption.
 
 *Domain of Revelation* (Shell)
 Precursor: *Key of Reason* / Gacha
@@ -288,9 +295,15 @@ for more self damage, faster rune application, and a monster buff to her ult.  D
 worth the upgrade for the instant runestacks > Garmr > stain on rotation, way more
 useful and consistent than 15% diluted TDM when you have proper supports.
 
+*Life Harvester's Path: Shared Destiny*
+Precursor: *Life Harvester's Song* / Gacha
+HoRb's motif, and the only scythe with support skills.  Thankfully, HoRb overwrites the
+weapon skill of whatever scythe she uses, so outside of some numerical creep, she's
+not as hard-locked to her motif as the other newer valks.
+
 *Path to Acheron: Kindred*
 Precursor: *Path to Acheron* / Gacha
-Statstick upgrade for SN - also good on SP Seele.
+Statstick upgrade for SN - also good on SP and HoRb Seele.
 
 *Sanguine Gaze: Union*
 Precursor: *Sanguine Gaze* / Gacha
@@ -375,7 +388,7 @@ Section has been split due to the addition of G2-4 stigmata to the crafting pool
 &nbsp;
 &nbsp;
 	*Dracula*
-		T - Excellent physical filler when using Griseo.
+		T - Excellent physical filler when using Griseo/Sus.
 		M - Loads of SP, but generally 2 good +sp/sec affixes will serve just as well
 		B - Better on LK, since TP loses her stacking crit dmg against mobs.
 		2pc	- One of the better passive damage abilities, just keep critting.  Might
@@ -478,7 +491,8 @@ Section has been split due to the addition of G2-4 stigmata to the crafting pool
 			T	-	Avogadro memes
 			M	-	Better version of Teri Origins [M] - if -10% CD is worth the grind for you
 			B	-	Weapon skill memes
-			2pc	-	May be useful in the future with the right PRI arm, who knows.
+			2pc	-	~~May be useful in the future with the right PRI arm, who knows.~~
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mihoyo goes out of their way to prevent PRI arms from coming in under 9 sec w/cd reduc
 &nbsp;
 ######G2 Stigs
 These stigs are about twice as expensive by materials cost vs G1.  Conversion from G1>G2 costs over half the
@@ -604,6 +618,24 @@ once you forge these.  Each piece costs ~2.5x as much as a G2 (including the pre
 			Note: Where the fuck did the ice-damage-taken debuff go???  Bob Peary [T+M] and Shakes [B] is
 a tolerable placeholder during the multi-month grind (bitch to maintain combo, though.)  Go for 3pc
 Ana or don't bother (T+B>M.)  Competitive with Welt on HoR as a 3pc.
+&nbsp;
+&nbsp;
+		*Avogadro*
+		Precursor: None / Direct Craft
+		T - Junk, there are other, better single slot choices vs just 20% TDM
+		M - Best piece of the set, replaces Sieg/Teri M when you need weapon cooldown
+		B - Also junk, everything seems decoupled from attack speed these days
+		2pc - Some use for the starting SP, but all the good weapons these days are SP0
+		Note: The great, grand era of weapon skill spamming will never come.
+&nbsp;
+&nbsp;
+		*Columbus*
+		Precursor: None / Direct Craft
+		T - Locked to charge phys valks
+		M - Decent M piece, but rekd by all the fucking adds these days
+		B -  Crit rate is far less useful thanks to higher base CRT and HoRb.
+		2pc - Saw some use as T+M vs bosses
+		Note: This is the reskin of the EVA stigs to avoid Anno.
 &nbsp;
 &nbsp;
 		*Dante*

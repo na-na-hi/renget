@@ -55,7 +55,6 @@ https://www.twitch.tv/ohsunny0731
 **-2nd Gen (Insomnia)-**
 **Meme:** https://www.twitch.tv/meme_vlup
 **Sitry:** https://www.twitch.tv/sitry_vlup
-**Yaho:** https://www.twitch.tv/yaho_vlup
  
 >VRecord
 **VRecord:** https://www.twitch.tv/vrecordinfo
@@ -86,7 +85,6 @@ Twitch (KR): https://www.twitch.tv/shabeltonya
 >V-llage
 **Yona (formerly Wiffy):** https://www.twitch.tv/iotayona
 **-1st Gen-**
-**Azarashi Hapu:** https://www.twitch.tv/v_llage_hapu
 **Floweress Loe:** https://www.twitch.tv/v_llage_loe
 **-2nd Gen-**
 **Epione Naxia:** https://www.twitch.tv/v_llage_naxia

@@ -20,7 +20,7 @@
 
 
 ####Karaoke section
-| Date | Karaoke | Magnet / Link | Setlist |
-|------|-----|-----|-----|
-|06/08/2023|Japanese Songs Karaoke |Placeholder|Placeholder|
-|Unknown|[Uniarchived Western Songs karaoke planned](https://youtu.be/y6bSgVuN1gg?t=3822) |Placeholder|Placeholder|
+| Date | Type | Karaoke | Magnet / Link | Setlist |
+|------|-----|-----|-----|-----|
+|06/08/2023|  Archived |【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼 |[![](https://files.catbox.moe/2qho7v.jpg)](https://www.youtube.com/watch?v=GiAWeVZAXIQ)|Placeholder|
+|Unknown| Unarchived | [Uniarchived Western Songs karaoke planned](https://youtu.be/y6bSgVuN1gg?t=3822) |Placeholder|Placeholder|

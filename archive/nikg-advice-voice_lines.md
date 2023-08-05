@@ -58,6 +58,20 @@ Good bunny, my bunny.
 1. I think i'm starting to catch feelings for you, Rabbity.
 2. I wanna be with you forever and ever.
 
+##Anchor
+>Blabla Status
+Startling Starfish
+
+>Gift Received
+1. Is it a starfish!? It must be! ...awww nuts. It's not.
+2. Boop. Probe launched. ...not showing any sea cucumbers. How unfortunate. 
+3. Can I use this as bait?
+
+>Affection Lvl Up
+1. How do you feel when you see me, Captain? I feel this electricity every time we meet.
+2. Spending a day fishing with you would be awesome, Captain!
+3. You're so cool, Captain! You're as cool as, like, ...100 sea cucumbers! 
+
 ## Anis
 >Blabla Status
 Please don't send me weird shit!!!
@@ -71,6 +85,19 @@ Please don't send me weird shit!!!
 1. Well... getting overly attached may be dangerous.
 2. My heart's beating so fast.
 3. So intense... what are these emotions i'm feeling?
+
+## Anis (Summer)
+>Blabla Status
+
+>Gift Received:
+1. 
+2. 
+3. 
+
+>Affection Lvl Up:
+1. 
+2. 
+3. 
 
 ##Anne (N102)
 >Blabla Status
@@ -99,6 +126,11 @@ I hope it snows every day.
 1. I appreciate you spending so much time with me.
 2. This noteboook contains so many wonderful memories now.
 3. I'm always happy whenever i'm with you.
+
+>Outpost Patrol
+1. There are a lot of fun books at the library. I spent the entire day reading.
+2. I get a big kick out of the library. It's full of people's memories.
+3. This place is so warm.... I love it! I wanna come here every day!
 
 ##Aria
 >Blabla Status
@@ -158,6 +190,11 @@ Doggos are all good boys   U^ᴥ^U
 2. Because it's YOU I wouldn't mind if you hog all my luck.
 3. I'm ALL yours, Pit Boss. Body and mind.
 
+>Outpost Patrol
+1. I don't wear this outfit all the time, you know? I'm merely maintaining a professional appearance in front of you.
+2. Have you seen Noir!? It's been 10 minutes since I last saw her.
+3. I sometimes do shows at the theatre during holidays. Would you like to come see my next show?
+
 ##Brid
 >Blabla Status
 Train is in operation. I'll reply later.
@@ -185,6 +222,12 @@ Every day is a new challenge! NEW CHALLENGE!
 1. My heart seems to be beating faster lately. Hope it's not a malfunction!
 2. All these strange emotions i've been feeling. *whine* Ohhh they make my heart race! If only you could repair emotions.
 3. I feel just like I do whenever we finish constructing a building!
+
+>Outpost Patrol
+1. Is that a broken part over there? I'm on it!
+2. Pretty cool workshop, huh? Built it ourselves.
+3. This outpost needs to be reworked from the ground up. Ooooo I love it! 
+
 
 ##Cocoa
 >Blabla Status
@@ -468,6 +511,19 @@ No private donations.
 2. I'm sorry, but i'm not blushing right now am I?
 3. These feelings weren't mentioned in the text book.
 
+##Helm (Summer)
+>Blabla Status
+
+>Gift Received
+1. 
+2. 
+3. 
+
+>Affection Lvl Up
+1. 
+2. 
+3. 
+
 ##Isabel
 >Blabla Status
 Love you.
@@ -537,6 +593,11 @@ Fight for the weak.
 2. Birdie, thank you for everything you've done for me. Now it's my turn to take care of you.
 3. Alright, birdie. I'm going to grant you the honor of accompanying me on my heroic journey.
 
+>Outpost Patrol
+1. Anyone need a hero? If so, i'm your gal!
+2. I'll ensure this place remains safe.
+3. It's always deafeningly loud over at the power station, but you won't hear me complaining. All that commotion means Maxine is busy crafting weapons.
+
 ##Liter
 >Blabla
 Dog lives are best lives.
@@ -550,6 +611,30 @@ Dog lives are best lives.
 1. So you know how to respect your elders after all!
 2. Hmmm... I didn't think someone my age could feel this way. It's... kinda nice.
 3. They say kindness trumps all evil. So maybe I should pay more attention to you, little Rascal!
+
+>Outpost Patrol
+1. Stop by the workshop whenever you got a spare minute. You can always find us there.
+2. This place is perfect for Volt! Plenty of space to run around in!
+3. What a dump! It'll take me forever to fix all of THIS!
+
+##Liter (Guard Fish)
+>Blabla
+
+
+>Gift
+1. 
+2. 
+3. 
+
+>Affection Lvl Up
+1.  
+2. 
+3. 
+
+>Outpost Patrol
+1. I-Is the swimming pool working properly? I-I-Is there anything that needs repairing? 
+2. It's summer alright! It's getting much warmer.
+3. It's much cooler here compared to the ocean up on the surface.
 
 ##Ludmilla
 >Blabla Status
@@ -719,6 +804,11 @@ I love you so much!
 2. I like you, Commander. I really do.
 3. Whenever i'm around you I feel warm inside.
 
+>Outpost Patrol
+1. This place makes me feel warm inside. Just like with you, Commander!
+2. Anis kicked me out of the dormitory because I sprinkled flour everywhere...
+3. Commander, let's go for a wow... w-wall... w-what's the word?  Ahh! That's it! Let's go for a wauuuuk.
+
 
 ##Neon (Blue Ocean)
 >Blabla Status
@@ -804,6 +894,11 @@ I once said, please raise your hand if you are weaker than me. Then everyone in 
 1. I feel like i'm taking a liking to you, Pit Boss. I suppose Blanc must feel the same.
 2. Blanc is precious to me, but so are you! ... Do you feel the same way?
 3. I can't look at you too long before I have to avert my eyes. W-hy is that so?
+
+>Outpost Patrol
+1. Oh jeeze. There's so many people. I feel like they're all staring at me. Ugh. This is so embarrassing!
+2. Iiiis there anywhere I can hid? I don't think I can walk around in an outfit like this...
+3. Have you seen Blanc? We've never been apart this long before.
 
 ##Noise
 >Blabla Status
@@ -1039,9 +1134,14 @@ Feel the flow of breeze and find your inner peace.
 3. In the future the two of us shall partake in the imbibing of spirits. 
 
 >Affection Lvl Up
-1. Laterally, i've been waiting to have a drink with you, my heart full of expenteancy. Such delight goes beyond my wildest imaginations.
+1. Laterally, i've been waiting to have a drink with you, my heart full of expectancy. Such delight goes beyond my wildest imaginations.
 2. To wile away ones days on the surface... is this not something you have pondered?
 3. You managed to delight this soul of mine time and time again.
+
+>Outpost Patrol
+1. I would rather soon part from here fore there is no moon nor breeze for mine eyes to cherish.
+2. My Lord, farmland is what we are in most dire need of here. 
+3. *sigh* A more barren wasteland I have never laid mine eyes upon. 
 
 ##Signal
 >Blabla Status

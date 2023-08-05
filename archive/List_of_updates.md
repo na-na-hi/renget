@@ -41,3 +41,4 @@
 |04/08/2023|27|Mentions & Collabs|Addition of the Neriisa's POV and 3 alternative POVs (Shiori, Bijou & FUWAMOCO Twins) for the Left4Dead 2 Fullgen Collab.|
 |04/08/2023|28|Changelog| J/ope/C Week 1 backup .zip file uploaded|
 |04/08/2023|29|Music|Addition of a placeholder for an announced unarchived Western Songs Karaoke|
+|05/08/2023|30|Music|Addition of the archived Monetization Karaoke link|

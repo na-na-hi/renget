@@ -335,14 +335,14 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;the new trend is using 2x elemental specific (if not valk specific,) supports going forwards.
 
 *Herrscher of Sentience* (HoS/Shiki-chan)		/ Chuu Hua / Limited
-&nbsp;&nbsp;&nbsp;&nbsp;Neo Night Squire (i.e. OP), on the heels of another Bio Phys - was intended to be a CH 
+&nbsp;&nbsp;&nbsp;&nbsp;Neo Night Squire (i.e. OP), on the heels of another Bio Phys - was intended to be a CH
 &nbsp;&nbsp;&nbsp;&nbsp;powercreep, actually powercrept all Bio Phys DPS.  Multi-weapon user, so tons of new
 &nbsp;&nbsp;&nbsp;&nbsp;and flashy animations.  Free gather, forced t-frac on dodge + team sp, impair, and high 
 &nbsp;&nbsp;&nbsp;&nbsp;damage make her the current best Bio Phys.  Wants her gloves, but not necessarily
 &nbsp;&nbsp;&nbsp;&nbsp;her stigmata (Sirin A/Dirac/Dirac work for dps, and Gluttony/Mei PP/Newton work for
 &nbsp;&nbsp;&nbsp;&nbsp;support, but you'll want full swords vs mobs/bosses with adds/dps with extended damage 
-&nbsp;&nbsp;&nbsp;&nbsp;windows.)  Put in 6.4 battle pass, so either she's getting creeped soon, or we're getting
-&nbsp;&nbsp;&nbsp;&nbsp;a 7TR-style DK to replace her motif gloves.
+&nbsp;&nbsp;&nbsp;&nbsp;windows.)  Put in 6.4 battle pass, so either she's getting creeped soon, ~~or we're getting~~
+&nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept by HoRb Seele.
 &nbsp;
 #####Kallen
 **A-valks**
@@ -401,6 +401,12 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;outside of the rare Tonatiuh weather.  Cute butt got Xinnie'd.
 &nbsp;
 **S-valks**
+*Herrscher of Rebirth* (HoRb)		/ Limited
+&nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS), Deereele is the new phys crit/bleed main support of
+&nbsp;&nbsp;&nbsp;&nbsp;choice.  Motif stig wise, she's another B-locked valk, but since she's a herrscher, you
+&nbsp;&nbsp;&nbsp;&nbsp;can move Senti's set over to her to patch the gap - note that in bleed comps, her motif
+&nbsp;&nbsp;&nbsp;&nbsp;still is worse than 2pc holmes.
+
 *Stygian Nymph* (SN)					/ Dorm (as of v5.0)
 &nbsp;&nbsp;&nbsp;&nbsp;Was a do-all semi-powercreep character.  AOE as light seele, ST as dark seele.  Released just 
 &nbsp;&nbsp;&nbsp;&nbsp;after Twilight Paladin (do you see a pattern here?)  Needs her scythe and full Allan Poe,
@@ -504,7 +510,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;SP gain.  Has a gather,and drops a summon when leaving the field, so you can use 
 &nbsp;&nbsp;&nbsp;&nbsp;JST/Newt as tolerable filler.  Can work as both a general support on most teams, provided
 &nbsp;&nbsp;&nbsp;&nbsp;enemies are susceptible to freeze and you have 2pc Bastet - also works as a fill-in ice DPS with
-&nbsp;&nbsp;&nbsp;&nbsp;fullset.  A cat is fine, too.  Going to be replaced next patch as ice support by Shigure Kira.
+&nbsp;&nbsp;&nbsp;&nbsp;fullset.  A cat is fine, too.  Replaced as second ice support by Kira.
 
 *Golden Diva*									/ Eden
 &nbsp;&nbsp;&nbsp;&nbsp;Drunk cake lightning supporter, provides significantly better SP recovery vs AE.  The real coup
@@ -534,7 +540,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;other physical dealers, she deals a "totally not new damage type" where her damage is
 &nbsp;&nbsp;&nbsp;&nbsp;converted to bleed - this means every buff on your supports that helps with crit rate or crit
 &nbsp;&nbsp;&nbsp;&nbsp;damage is utterly useless to her.  Can sub out her stigs for Drac/Dirac/Dirac or Shuijing,
-&nbsp;&nbsp;&nbsp;&nbsp;but since she's the first physical chakram dps, she really needs her weapon.
+&nbsp;&nbsp;&nbsp;&nbsp;but since she's the first physical chakram dps, she really needs her weapon (or Pardo's, lol.)
 
 *Terminal Aide 0017*				/ Prometheus (Prommy/Botnya)
 &nbsp;&nbsp;&nbsp;&nbsp;IMG phys supporter, kit is built as a mix of Drive Kometa and Carole.  Gauntlet user, and
@@ -545,6 +551,12 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;so there might be a stun bar boss in the future.  Has a short 5sec impair on combo, but
 &nbsp;&nbsp;&nbsp;&nbsp;unless we get a quick dump phys DPS, this seems to be mainly for her own usage.
 &nbsp;&nbsp;&nbsp;&nbsp;Rewatched due to balljoints - Desu > Teabitch.
+
+*Sugary Starburst*					/ Shigure Kira 
+&nbsp;&nbsp;&nbsp;&nbsp;Tonedeaf hag idol, replacement for Pardo, has the same non-entry QTE skill as
+&nbsp;&nbsp;&nbsp;&nbsp;Bronie and Zhuge, and has baked in team SP when she QTEs.  Motif stigs are locked
+&nbsp;&nbsp;&nbsp;&nbsp;around the B-piece, but she can use 2pc Bastet or Turg as well as Eden's guns, so
+&nbsp;&nbsp;&nbsp;&nbsp;if you already have older gear, you can just shuffle it around.  Niggurath is hotter.
 
 &nbsp;
 **S-valks**
@@ -690,7 +702,8 @@ Durandal/Elf Elysia) are a little more important if you mald in Memorial.
 &nbsp;&nbsp;&nbsp;&nbsp;Physical support ELF with suction ability - not super important due to all the CC
 &nbsp;&nbsp;&nbsp;&nbsp;available from HoS/Carole's gloves/Zhuge.  At least she gets all her utility at 2 star -
 &nbsp;&nbsp;&nbsp;&nbsp;rank ups are just damage wankery.  3 lines and Durandelf already has more of a 
-&nbsp;&nbsp;&nbsp;&nbsp;personality.
+&nbsp;&nbsp;&nbsp;&nbsp;personality.  Replaced by Project Bunny, so don't pull for her anymore, but if you
+&nbsp;&nbsp;&nbsp;&nbsp;have her, keep using her, unless you're a dumb whale.
 
 &nbsp;
 *Elf Elysia*
@@ -704,6 +717,13 @@ Durandal/Elf Elysia) are a little more important if you mald in Memorial.
 &nbsp;&nbsp;&nbsp;&nbsp;to take advantage of elemental damage taken debuffs from your valks.   Out the
 &nbsp;&nbsp;&nbsp;&nbsp;gate and good to go at 2 star, Fuxi is finally replaced (all the new suits with 2-3
 &nbsp;&nbsp;&nbsp;&nbsp;QTE conditions make the forced fire QTE less desirable than before.)
+
+&nbsp;
+*Project Bunny*
+&nbsp;&nbsp;&nbsp;&nbsp;I guess we're truly into wave 4 of ELF creep.  PB is an incremental upgrade from the
+&nbsp;&nbsp;&nbsp;&nbsp;Dudu ELF, basically the same but with a faster (and thus more frequent) ult application
+&nbsp;&nbsp;&nbsp;&nbsp;and better numbers.  If you already have the dabber, you can skip, otherwise, PB's the
+&nbsp;&nbsp;&nbsp;&nbsp;new physical main ELF.
 
 &nbsp;
 ####Gear
@@ -826,12 +846,10 @@ LoW 2 Egg
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;available, less important.  You'd be better off getting AE/HoTr instead.
 &nbsp;
 &nbsp;
-With the current state of powercreep, *IMO*, you're better off waiting for a HoS focus gacha (unless they announce her
-powercreep, which might be rather soon - we get a patch of advance warning on US/SEA, so use that future sight.)
-With that and good cope stigmatas from foundry/Universal Mirage, you should then focus on pulling good general
-support stigmata (Turganev/Cezanne/Prom's Stigs) and farming fragments for the A-rank support suits (Pardo has 
-good coverage and is dual use.)  With how fast JewHoYo is ramping the powercreep/char replacement rate, support
-gear currently has the longest lifespan, since it can be used on multiple shill bosses that all want different main dps valks.
+With the current state of powercreep, *IMO* you should focus on getting a good general support stigmata set
+(Turganev) and farming fragments for the newer A-rank support suits (mix in a new gacha main DPS to taste.)
+With how fast JewHoYo is ramping the powercreep/char replacement rate, support gear currently has the longest
+lifespan, since it can be used on multiple shill bosses that all want different main dps valks.
 
 Try to restrain your dumber whale urges, unless you just want a reason to shit up the thread at eos.
 
@@ -851,10 +869,9 @@ watching their memorial/abyss runs - just remember that depending on the damage 
 might not translate 1:1 to worse gear.  
 
 As far as Youtube talking heads, Wyverin is probably the most consistently informative as far as
-what alternative stig sets work on upcoming suits.  He seems to get beta access every patch to
-fuck around with a fully unlocked account.
+what alternative stig sets work on upcoming suits.
 
-When you get enough red stigmata resonators (from salvaging spare gacha/foundry stigmatas)
+When you get enough red stigmata resonators (from salvaging duplicate gacha/foundry stigmatas)
 try to get at least one each of Pool Party Mei [M] and Newton [B] from the stigmata exchange.  While
 Mihoyo's been trying to phase them out for a while, they are still two of the better general use
 support pieces, and can be used almost anywhere.

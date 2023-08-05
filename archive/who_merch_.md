@@ -1,4 +1,6 @@
 # Nanashi Mumei merchandise
+**Birthday Merch Yr 2**
+ https://shop.hololivepro.com/en/products/nanashimumei_bd2023
 
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
