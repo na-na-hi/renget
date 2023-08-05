@@ -10,13 +10,10 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Current Stream
-https://www.youtube.com/watch?v=y6bSgVuN1gg
+\>Upcoming Stream / Nerissa's POV
+https://www.youtube.com/watch?v=9YsuHwyYGes
 \>Past Streams
-Untitled Goose Game
-https://www.youtube.com/watch?v=GU1PhsuLYDI
-Impromtu Zatsu collab during Shiori's Virtual Sleepover Stream with all of Advent (timestamp).
-https://youtu.be/rVNL6MJBQvk?t=4907
+https://www.youtube.com/watch?v=y6bSgVuN1gg
 
 \>First cover - Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
 https://music.youtube.com/watch?v=RWU3o_kDixc
@@ -39,4 +36,4 @@ https://rentry.org/1-post-OP
 Joint /ope/rations Center (/ope/'s library that is still relatively bare-bones - also needs an official name)
 https://rentry.org/joint_operation_center0
 
-A word of advice: be smart and don't engage in off-topic or blatant bad faith arguments. To keep peace, just do the necessary you see fit.
+A word of advice: be smart and don't engage in off-topic or blatant bad faith arguments. To keep peace, just do the necessary you see fit: ignore, hide and report is the course to go.

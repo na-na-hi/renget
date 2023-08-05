@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2618* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2626* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -68,7 +68,7 @@
 /\d\nnobody (|\w+ )cares, (|you )(chimp|faggot|vermin|phoneposting|adolescent|underage|college|maggot|worm|\\bape|underage(|d)|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage)/i;boards:trash;op:no
 /(?=.\*stop posting)(?=.\*go back where you came from)/ims;boards:trash;op:no
 /(?=.\*fuck outta here(\\.|,))(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
-/(?=.\*slow)(?=.\*hmofa)(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
+/(?=.\*slow)(?=.\*hmofa)(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|t(|w)eenage))/ims;boards:trash;op:no
 /back to the pit(,|\\.)/i;boards:trash;op:no
 /don't post pornographic (content|images)/i;boards:trash;op:no
 /we only had one drawfag/i;boards:trash;op:no

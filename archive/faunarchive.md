@@ -9,12 +9,12 @@ Dates are relative to the US pacific time zone. Archived member streams are not 
 - _proper_: This release corrects problems in previous releases.
 - _unarchived_: The stream was planned as an unarchived event and made private immediately.
 
-I FUCKING HATE MEGA PLEASE SEED
-
 Want a thumbnail? A lot of the files have it embedded. You can get it by doing the following ffmpeg command (of course replace video.mp4 and thumbnail.png with whatever names you want):
 `ffmpeg.exe -i "video.mp4" -map 0:v -map -0:V -c copy thumbnail.png `
 
 Want descriptions and archives of what she said in livechat? Check holodex or hololyzer if they aren't included in the entries.
+
+
 
 ## Table of contents
 [TOC3]
@@ -30,6 +30,8 @@ Want descriptions and archives of what she said in livechat? Check holodex or ho
 [Animal Crossing](https://youtu.be/G9X3d81EKeI)
 [Pokémon Legends](https://youtu.be/y_2FG2zM4Mw)
 [Skyrim](https://www.youtube.com/playlist?list=PLeLzFij5dykdCkjEZ1XCQ5OyidM4j_2Ae)
+
+[Misc](faunarchive_works)
 
 ### 2021
 
@@ -817,5 +819,7 @@ Set list (stream starts at 0:18):
 5. Muse - Time Is Running Out (incomplete due to relay time constraints; 18:26)
 
 [warosu](warosu.org/vt/thread/54574378#p54574906)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

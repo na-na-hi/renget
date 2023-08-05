@@ -55,7 +55,7 @@
 /\d\nnobody (|\w+ )cares, (|you )(chimp|faggot|vermin|phoneposting|adolescent|underage|college|maggot|worm|\bape|underage(|d)|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e*]w[a-z]|t(|w)eenage)/i;boards:trash;op:no
 /(?=.*stop posting)(?=.*go back where you came from)/ims;boards:trash;op:no
 /(?=.*fuck outta here(\.|,))(?=.*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
-/(?=.*slow)(?=.*hmofa)(?=.*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
+/(?=.*slow)(?=.*hmofa)(?=.*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|t(|w)eenage))/ims;boards:trash;op:no
 /back to the pit(,|\.)/i;boards:trash;op:no
 /don't post pornographic (content|images)/i;boards:trash;op:no
 /we only had one drawfag/i;boards:trash;op:no

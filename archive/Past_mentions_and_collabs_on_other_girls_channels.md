@@ -54,7 +54,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |31/07/2023|[Link](https://www.youtube.com/watch?v=hy6HD6t8XhE)| **Collab** - First ever HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
-|04/08/2023|[Placeholder Nerissa](-)| **Collab** - Second HoloAdvent Group collab on Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=KgpiuAin1XM))|
+|04/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=9YsuHwyYGes)| **Collab** - Second HoloAdvent Group collab on Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=KgpiuAin1XM))|
 
 #####Hololive EN's Channel
 |Date|Link|Nature & Notes|

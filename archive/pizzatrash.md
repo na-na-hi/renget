@@ -1,7 +1,7 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/58327909
-Latest Aggie: https://aggie.io/lx8egpmuqs
+Latest thread: https://boards.4chan.org/trash/thread/58458571
+Latest Aggie: https://aggie.io/_2jxv4xf3b
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -62,6 +62,7 @@ https://desuarchive.org/trash/thread/57922677 /pizzatrash/ 42
 https://desuarchive.org/trash/thread/58069393 /pizzatrash/ 43
 https://desuarchive.org/trash/thread/58194646 /pizzatrash/ 44
 https://desuarchive.org/trash/thread/58327909 /pizzatrash/ 45
+https://desuarchive.org/trash/thread/58458571 /pizzatrash/ 46
 
 #####Aggie
 
@@ -100,3 +101,4 @@ https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
 https://aggie.io/aodbu7wnsb The Weekly /pizzatrash/ Aggie - now with /ptg/!
 https://aggie.io/0_0q_j_7ak /pizzatrash/ aggie NUMA #24 !!
 https://aggie.io/lx8egpmuqs /pizzatrash/ Aggie #25: Supreme Edition
+https://aggie.io/_2jxv4xf3b /pizzatrash/ Aggie #26: Margherita Edition

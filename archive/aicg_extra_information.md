@@ -74,7 +74,7 @@ https://drive.google.com/drive/folders/1saDTGz_N-jcXTZ3Tz7rdEQV8GnZGPJez
 **CharacterHub archive**
 https://chub-archive.evulid.cc
 [](https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw static dump up to 05.07.2023, got deleted)
-- unofficial mirror of chub\.ai; also includes cards from various rentries and the archives linked above
+- unofficial mirror of chub\.ai; also includes cards from various rentries, webring sites, the archives linked above, random catbox links
 
 **4chan meta list**
 - check out the link at the bottom of this rentry
@@ -143,6 +143,10 @@ https://holara.ai
 ##### Other
 https://tao.studio
 - filtered, free, zero control via ui but possibly some via devtools; listed for reference; tested [2023-07-27]
+
+**Some guides on creating character expressions**
+https://rentry.org/EmotionalSprites
+https://rentry.org/mikugg-emotions-tutorial
 
 ***
 

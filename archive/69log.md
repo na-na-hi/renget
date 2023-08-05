@@ -20,7 +20,7 @@ SEQ 3: Deals 200% + 340% ATK of Fire DMG, restore 120 > 150 points of [Determine
 *Only text fix, actual effect is the same
 
 EVASION
-Adjusted description: When triggering evasion skill, press ATK button to launch a counterattack, deal 400% ATK of Fire DMG, and gain a total of 250 points of [Determined Star]. Counterattack can connect to Basic ATK SEQ 3.
+Adjusted description: When triggering evasion skill, press ATK button to launch a counterattack, deal 400% ATK of Fire DMG, and gain a total of 250 > 400 points of [Determined Star]. Counterattack can connect to Basic ATK SEQ 3.
 *Only text fix, actual effect is the same
 
 ULT 

@@ -42,11 +42,11 @@ Miracle Magical Girl has [Determined Star] meter max 600 points. Can conjure a m
 1. Press Weapon Active to deal 100% ATK of Fire DMG, press Weapon Active button again to cast [Judgement];
 2. After Basic ATK SEQ 4, press Weapon Button to cast [Judgement];
 
-[Judgement]: Deal 150% ATK of Fire DMG (counts as Ignite DMG), on hit, recover 300 HP and inflict 5 points of Ignite Trauma.
+Judgement:   **Deal 50% ATK Fire DMG at magic circle position. (v2)** Detonate magic circle, deal 150% ATK of Fire DMG (counts as Ignite DMG), on hit, recover 300 HP and inflict 5 points of Ignite Trauma.
 
 After casting Charged ATK Level 2, press Weapon button to cast [Split]: Deal 500% ATK of Fire DMG (counts as Ignite DMG), on hit, restore 300 HP and inflict 8 points of Ignite Trauma.
 
-On exit, deal 250% ATK Fire DMG to ignited enemies and remove Magical Girl Time stacks and all Determined Star points.
+On exit, deal **250%(v1) > 100%(v2)** ATK Fire DMG to ignited enemies and remove Magical Girl Time stacks and all Determined Star points.
 
 __PASSIVE 1__
 Enemies take +15% [S0] / 20% [SS] Fire DMG from Sirin (independent multiplier)
@@ -63,13 +63,13 @@ Upon entering the field, gain 2 stacks of [Magical Girl Time]. Each stack enable
 #####EVASION
 Ultimate Evasion: Triggers 3s Global Time Fracture, gain higher anti-interrupt, last for 3s (CD: 15s);
 
-When triggering evasion skill, press ATK button to launch a counterattack, deal 400% ATK of Fire DMG, and gain a total of 250 points of [Determined Star]. Counterattack can connect to Basic ATK SEQ 3. 
+When triggering evasion skill, press ATK button to launch a counterattack, deal 400% ATK of Fire DMG, and gain a total of ~~250~~ 400 points of [Determined Star]. Counterattack can connect to Basic ATK SEQ 3. 
 
 __EVASION 1__
 Upon triggering evasion skill, restores 150 HP. 
 
 __EVASION 2 __
-[SS2] On exit, Fire DMG dealt to Ignited enemies is increased from 250% to 800% ATK of Fire DMG. 
+[SS2] On exit, Fire DMG dealt to Ignited enemies is increased from **250% to 800% (v1) > 100% to 200% (v2)** ATK of Fire DMG. 
 
 __EVASION 3 __
 [S2] Initial SP +40. In Open World, this effect triggers every 10 mins.
@@ -77,24 +77,27 @@ __EVASION 3 __
 ---
 
 #####BASIC ATK
-SEQ 1: Deals 220% ATK of Fire DMG, restore 100 points of [Determined Star]
-SEQ 2: Deals 220% + 240% x 3 ATK of Fire DMG, restore 250 points of [Determined Star] in total
-SEQ 3: Deals 200% + 340% ATK of Fire DMG, restore 120 points of [Determined Star]
+SEQ 1: Deals 220% ATK of Fire DMG, restore ~~100~~ 150 points of [Determined Star]
+SEQ 2: Deals 220% + 240% x 3 ATK of Fire DMG, restore ~~250~~ 340 points of [Determined Star] in total
+SEQ 3: Deals 200% + 340% ATK of Fire DMG, restore ~~120~~ 150 points of [Determined Star]
 SEQ 4: Deals 250% ATK of Fire DMG, restore 150 points of [Determined Star]
 
 Basic ATK SEQ 3 and SEQ 4 inflicts 3 points of Ignite Trauma.
 
 __QTE__
-Triggered when enemies are affected by Time Slow or Ignite: Deal 1340% ATK of Fire DMG, inflict 3.5 points of Ignite Trauma, trigger 3s Global Time Fracture, restore 120 points of [Determined Star], and all enemies on the field take +20% more Ignite DMG, restore 10 SP, last for 15s (can be refreshed)
+Triggered when enemies are affected by Time Slow or Ignite: Deal **1340%(v1) > 1500%(v2)** ATK of Fire DMG, inflict 3.5 points of Ignite Trauma, trigger 3s Global Time Fracture, restore ~~120~~ 180 points of [Determined Star], and all enemies on the field take **+20%(v1) > 12%(v2)** more Ignite DMG, restore 10 SP, last for 15s (can be refreshed)
 
 __BASIC ATK 1__
 When Basic ATK SEQ 4 hits a target, if the target is ignited, deal additional 400% ATK of Fire DMG (counts as Ignite DMG). 
+
+__BASIC ATK 2__
+(NEW IN V2) Ult CD -10% [S] / 25% [SS2] , max 15s. When magic circle detonates, recover 10 sp.
 
 ---
 
 #####ULTIMATE
 [SP: 100] [CD: 20s]
-Tap Ult to create a magical domain expansion, sealing enemies in a magic mirror, deal 1500% ATK of Fire DMG in a large area. Ult stops time.
+Tap Ult to create a magical domain expansion, sealing enemies in a magic mirror, deal **1500%(v1) > 1600%(v2)** ATK of Fire DMG in a large area. Ult stops time.
 
 __ULTIMATE 1__
 When casting Ultimate, if the enemy is ignited, for every Ignite stack, Ultimate will deal additional [Ignite stack count x 50% ATK] of Fire DMG, max 15 ignite stacks (15 x 50% ATK of Fire DMG). Remove [Magical Girl Time] stacks
@@ -109,7 +112,7 @@ __ULTIMATE 3 __
 ---
 
 #####CHARGED ATK
-When [Determined Star] is greater than or equal to 300 points, hold ATK button to enter Charged Mode. During Charged Mode, continuously consume Determined Star, gather surrounding enemies and continuously deal Fire DMG, max 12x20% ATK of Fire DMG. During Charged Mode, Sirin gains Iron Body, Total DMG received -80%. 
+When [Determined Star] is greater than or equal to 300 points, hold ATK button to enter Charged Mode. During Charged Mode, continuously consume Determined Star, gather surrounding enemies and continuously deal Fire DMG, max 12x20% ATK of Fire DMG, **and each hit recover 50 HP to the entire team(v2)**. During Charged Mode, Sirin gains Iron Body, Total DMG received -80%. 
 
 Different Charged ATK will be used, based on how long you hold ATK button:
 - Hold and consume 300 points of [Determined Star]: Cast Charged ATK Level 1, deal 320% ATK of Fire DMG, on hit, restore 5 SP
@@ -121,7 +124,7 @@ __CHARGED ATK 1__
 During Charged Mode period, Sirin continuously gains [Magical Girl Time] stacks. For every 0.5s, ignite stack can be increased by 1 stack, max 4 stacks can be gained from this method, last for 15s. [Magical Girl Time] stacks can be refreshed. Every stack makes ignite deal additional 15% ATK of Fire DMG for every 0.5s, and inflict 2 points of Ignite Trauma to enemies every 0.5s.
 
 __CHARGED ATK 2__
-[SSS] When Charged ATK hits a target, if the target is ignited, deal additional 400% ATK of Fire DMG. Charged ATK gain Total DMG +30% against ignited enemies.
+[SSS] When Charged ATK hits a target, if the target is ignited, deal additional **400%(v1) > 300%(v2)** ATK of Fire DMG. Charged ATK gain Total DMG **+30%(v1) > 20%(v2)** against ignited enemies.
 
 __CHARGED ATK 3__
 Upon entering the field, when you cast [Judgement] or [Split], gain Fire DMG +45.7% [S0] / 60% [SS1] , last for 7.5s (can be refreshed).
@@ -142,8 +145,10 @@ SS: Enemies take +15% [S0] > 20% [SS] Fire DMG from Sirin (independent multiplie
 
 SS1: Upon entering the field, when you cast [Judgement] or [Split], gain Fire DMG +45.7% [S0] > 60% [SS1] , last for 7.5s (can be refreshed).
 
-SS2: UNLOCK: On exit, Fire DMG dealt to Ignited enemies is increased from 250% to 800% ATK of Fire DMG. 
+SS2: UNLOCK: On exit, Fire DMG dealt to Ignited enemies is increased from 100% to 200% ATK of Fire DMG. 
+
+SS2: Ult CD -10% [S] > 25% [SS2] , max 15s. 
 
 SS3: Lead
 
-SSS: UNLOCK: When Charged ATK hits a target, if the target is ignited, deal additional 400% ATK of Fire DMG. Charged ATK gain Total DMG +30% against ignited enemies.
+SSS: UNLOCK: When Charged ATK hits a target, if the target is ignited, deal additional 300% ATK of Fire DMG. Charged ATK gain Total DMG +20% against ignited enemies.

@@ -420,7 +420,7 @@ READ NIGGA READ
 ## Crafting Chamber
 
 >Material Synthesis (the normal one)
-**Radiant (highest tier mats) >= BDs > Furniture (if not capped yet in cafe) > Gifts >= Shiny (high tier mats) > Rest**
+**Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Gifts >= Shiny (orange mats) > Rest**
 
 **Do not go past the first node if you don't have mats in abundance.** If you need to ask if you have enough: you don't.
 

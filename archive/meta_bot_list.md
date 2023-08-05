@@ -8,9 +8,9 @@
 - https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
 - https://rentry.org/aicgthemedweeks - small list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
-- https://rentry.org/mikugg - small list of bots; miku\.gg only; `current`
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
+- https://rentry.org/mikugg - small list of bots; miku\.gg only; *deprecated*
 - https://rentry.org/bots_with_expressions - small list of bots; cards with expressions only; *deprecated*
 
 ## [/mlp/chag/](https://boards.4channel.org/mlp/catalog#s=chag)

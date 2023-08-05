@@ -78,7 +78,7 @@
 ###### -> though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances <- 
 
 #### -> Wall of shame (will be removed once the world dadapts itself to iA3): <-
-###### -> Every freak who spreads misinformation which makes people continue using shit settings. I know who you are "guide makers", you should of kept updating your guides, now they are all terribly outdated and people are still following them. <-
+###### -> Every freak who spreads misinformation which makes people continue using shit settings. I know who you are "guide makers", you should have kept updating your guides, by now they are all terribly outdated and yet people are still following them. <-
 ###### -> Everyone who still makes LoRas and defends them. <-
 ###### -> CivitAI for their trash website that breaks 24/7. Hopefully iA3 image embeds will fix that so we can post on boorus instead. <-
 ###### -> 4chan for being clueless yet still barking. <-

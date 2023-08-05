@@ -45,6 +45,9 @@ https://www.deviantart.com/samaster/art/Ninja-Minisode-Part-1-939565468
 Lindsey’s Maturity (Original Work) by FLIMBO | Completed: 2020-07-07
 https://pastebin.com/n6sVAvfU
 
+Pink World: Gamer Girl (Original Work) by Anonymous | Completed: 2023-07-21
+https://docs.google.com/document/d/1PuRa84bc1PrHFBW9oeFZe4VsUhkglXvqPim_UpFwpwk/edit?usp=drivesdk
+
 Becoming a Better Maid (Persona 5) by TheGoldExperience | Completed: 2022-03-17
 https://archiveofourown.org/works/37795558/
 
@@ -133,6 +136,9 @@ https://archiveofourown.org/works/29091651/chapters/71412309/
 Bimbo Edens Zero - Rebecca's Sex Bomb Channel (Eden Zero) by snakebit1995
 https://archiveofourown.org/works/34035793/chapters/84659311/
 
+Fallout-Vegas Live (Fallout; New Vegas) by Photo Anon
+https://rentry.org/Fallout-VegasLive
+
 Sexy Tail (Fairy Tale) by snakebit1995
 https://archiveofourown.org/works/9982052/chapters/22296422/
 
@@ -154,7 +160,7 @@ https://archiveofourown.org/works/16286330/chapters/38088284/
 Bimbo Isekai (Original Work) by snakebit1995
 https://archiveofourown.org/works/30189720/chapters/74385648/
 
-Mrs. Hancock's Dating Game (Original Work) by SAmaster
+Fate of Beck: Mrs. Hancock's Dating Game (Original Work) by SAmaster
 https://www.deviantart.com/samaster/gallery/87911870/mrs-hancock-s-dating-game
 
 P5B (Persona 5) by Anonymous

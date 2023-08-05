@@ -33,7 +33,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | G
 Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | Groomed?
 :----: | ------ | ------ | ------  | ------ | ------ | ------ | ------         
 **5** | NIKG | ==**4893**== |PERMISSION | DEXTRA | 32/32 |Y | N
-**5** | PREFECT | ==**6554**== |PERMISSION | THIL | 32/32 | N | N
+**5** | PREFECT | ==**6554**== |PERMISSION | THIL | 32/32 | Y | N
 **5** | NOPAN | ==**6698**== |PERMISSION | ACE |BRICKED/32 | Y | N
 **5** | VGNIKKE3 | ==**9547**== |PERMISSION | ANON | 32/32 | N | N
 **5** | NIKKUNNY | ==**13395**== |PERMISSION | YOON |32/32 | Y | Y

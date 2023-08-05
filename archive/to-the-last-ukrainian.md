@@ -114,6 +114,10 @@
 >"this is Hlyboka [town]"
 >"yes let's film, because you don't do it like that"
 
+[ [catbox](https://files.catbox.moe/n4zh68.mp4) | [ipfs](https://ipfs.io/ipfs/QmRBqgcSvF3XzoUoNNiXYj2sDhBdyQ8ExE86sQPSGxSS1b) ]
+>"go fuck yourself, go fuck yourself [repeatedly]"
+>"they are drunk aren't they?"
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign
@@ -146,4 +150,4 @@
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmbJYAy6nAXY6AVF593rJNPx6LR1dpHd9ajKfZumvU84As)
+	Full archive: [ipfs](https://ipfs.io/ipfs/QmWWkencnkG5Aniob5jzpT2AVkbSHjCtWJepc3JPYfDh9D)

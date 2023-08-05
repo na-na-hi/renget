@@ -80,6 +80,7 @@
 **Kale's brush**|[1828111](https://assets.clip-studio.com/en-us/detail?id=1828111)|[DL](https://files.catbox.moe/5w95sd.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/11/81/1828111/thumbnail)
 **Moka's Stumpy Pencil **|[1836168](https://assets.clip-studio.com/en-us/detail?id=1836168)|[DL](https://files.catbox.moe/8r3z4y.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/61/1836168/thumbnail)
 **lily brush  **|[1903781](https://assets.clip-studio.com/en-us/detail?id=1903781)|[DL](https://files.catbox.moe/z4cgyz.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/37/1903781/thumbnail)
+**Brush Penmodoki (筆ペンモドキ)**|[1709699](https://assets.clip-studio.com/en-us/detail?id=1709699)|[DL](https://pixeldrain.com/u/UGRUJU52)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/96/1709699/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 -> [**[TOP]**]() ->
