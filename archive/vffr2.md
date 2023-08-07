@@ -342,7 +342,9 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;her stigmata (Sirin A/Dirac/Dirac work for dps, and Gluttony/Mei PP/Newton work for
 &nbsp;&nbsp;&nbsp;&nbsp;support, but you'll want full swords vs mobs/bosses with adds/dps with extended damage 
 &nbsp;&nbsp;&nbsp;&nbsp;windows.)  Put in 6.4 battle pass, so either she's getting creeped soon, ~~or we're getting~~
-&nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept by HoRb Seele.
+&nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept by HoRb Seele, but since we
+&nbsp;&nbsp;&nbsp;&nbsp;still don't have a newer bio phys unit, HoS can still fill a dps niche, and you'll need HoS
+&nbsp;&nbsp;&nbsp;&nbsp;to support DPS HoRb.
 &nbsp;
 #####Kallen
 **A-valks**
@@ -402,10 +404,10 @@ seems to be long gone.
 &nbsp;
 **S-valks**
 *Herrscher of Rebirth* (HoRb)		/ Limited
-&nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS), Deereele is the new phys crit/bleed main support of
-&nbsp;&nbsp;&nbsp;&nbsp;choice.  Motif stig wise, she's another B-locked valk, but since she's a herrscher, you
-&nbsp;&nbsp;&nbsp;&nbsp;can move Senti's set over to her to patch the gap - note that in bleed comps, her motif
-&nbsp;&nbsp;&nbsp;&nbsp;still is worse than 2pc holmes.
+&nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS) as phys supporter, and MPE as psy phys dps, Deereele is a
+&nbsp;&nbsp;&nbsp;&nbsp;new mixed phys crit/bleed main support/psy dps.  Motif stig wise, she's another B-locked
+&nbsp;&nbsp;&nbsp;&nbsp;valk, but since she's a herrscher, you can move Senti's set over to her to patch the gap - 
+&nbsp;&nbsp;&nbsp;&nbsp;note that in bleed comps, her motif still is worse than 2pc holmes.
 
 *Stygian Nymph* (SN)					/ Dorm (as of v5.0)
 &nbsp;&nbsp;&nbsp;&nbsp;Was a do-all semi-powercreep character.  AOE as light seele, ST as dark seele.  Released just 
@@ -456,8 +458,9 @@ seems to be long gone.
 *Miss Pink Elf* (MPE)                 / Farmable (AW+AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Knife-ear replacement for FT in Abyss.  Stigs are available in the foundry for the
 &nbsp;&nbsp;&nbsp;&nbsp;masochistic, but weapon is gacha only.  Recently came out and her exclusive weather
-&nbsp;&nbsp;&nbsp;&nbsp;is rare, fotm'd due to farmability - good generalist choice if you have a HoS/Griseo
-&nbsp;&nbsp;&nbsp;&nbsp;setup.  Don't trust the goblin. 
+&nbsp;&nbsp;&nbsp;&nbsp;is rare, fotm'd due to farmability - ~~good generalist choice if you have a HoS/Griseo~~
+&nbsp;&nbsp;&nbsp;&nbsp;~~setup.~~  Don't trust the goblin.  Dead if you have HoRb, 0/4 HoRb is too close to 4/4 
+&nbsp;&nbsp;&nbsp;&nbsp;SSS MPE to make it worth wasting resources.
 
 *Herrscher of Human: Ego* (HoH/HoHE)		/ Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Kaworu turned up to 11.  SP hungry giga stacy and newest Herrscher in a long ignored 

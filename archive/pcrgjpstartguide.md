@@ -17,7 +17,7 @@ https://dmg.priconne-redive.jp/
 MTL translation instructions 
 https://rentry.org/pcrgMTLguide (Not broken)
 
-###->DMM install (No VPN required) <-
+###->DMM install (VPN required to Launch DMM as of August 7th, 2023 for some) <-
 
 1. Go to https://www.dmm.com/ a DMM account. (Make sure it isn't the EN version)
 2. Go to the https://dmg.priconne-redive.jp/ and click the giant pink button

@@ -71,7 +71,7 @@ If you have no interest in the current banner student(s) use the Regular Recruit
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
 Made by /bag/:
-![Reroll targets](https://i.imgur.com/aITC2Tl.png)
+![Reroll targets](https://i.imgur.com/pValg17.png)
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 
 
@@ -609,6 +609,9 @@ You can only join clubs or add friends from the same region.
 >When did X change get added 
 You'll have to manually look for it. 
 Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
+
+>What does D.U. mean?
+District of Utnapishtim.
 
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 

@@ -129,6 +129,10 @@
 - Safest free movie site in 2023 to instantly view movies and television shows online.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixhq.click/)
 
+### ▶️ [Flixtor](https://flixtor.id/)
+- Best place for movie enthusiasts to watch streaming movies with our regularly updated database.
+- [URL Safety Results](https://www.urlvoid.com/scan/flixtor.id)
+
 ### ▶️ [GOKU](https://goku.sx/)
 - Awesome place for free HD streaming without registration at all, including subtitles in several languages with a single click as well.
 - [URL Safety Results](https://www.urlvoid.com/scan/goku.sx)

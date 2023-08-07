@@ -228,6 +228,7 @@ Thousand Year Old Vampire
 Penciltown
 Pencilvillage
 Pencilquest
+RUNE by Gila RPGs
 
 ###Games under development
 Fires Far Away: A Solitaire Journey
@@ -286,6 +287,7 @@ Silently Sworn
 https://github.com/AnonOfDice/DiceRoller/
 https://www.kickstarter.com/projects/category/solo-sci-fi-sidekick
 Tricube Tales: Solo Rules & Deck
+Plot Unfolding Machine (PUM) by JeansenVaars
 
 ###Android App
 Adventuresmith

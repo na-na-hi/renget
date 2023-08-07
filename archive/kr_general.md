@@ -98,11 +98,6 @@ Twitch (KR): https://www.twitch.tv/shabeltonya
 Youtube: https://www.youtube.com/c/MUNA_Vconn
 Twitch: https://www.twitch.tv/muna_vconn
  
->VGG
-**Ianthis**
-Youtube: https://www.youtube.com/@Ianthis_VGG
-Twitch: https://www.twitch.tv/ianthis_vgg
- 
 >StelLive
 **Gangzi/강지 (Owner)**
 Twitch: https://www.twitch.tv/rkdwl12

@@ -1,6 +1,4 @@
-#->Elysian Realm recommended builds 6.7<- 
-busy, next update 6.8
-TEMPORARY IMAGES
+#->Elysian Realm recommended builds 6.8<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
@@ -12,8 +10,30 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.8 Phase 1
-[![rbss](https://i.imgur.com/mmjvwqq.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![rblb](https://i.imgur.com/NIxdOze.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
+[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
 
+2.5
+[Herrscher of Rebirth Soul Shaper](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)
+[Herrscher of Rebirth Life Binder](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
+[Dreamweaver Flag] 
+[Starry Impression]
+[Herrscher of Human: Ego fast ulti]
+[Jade Knight]
+[Herrscher of Origin weapon]
+[Infinite Ouroboros]
+[Sugary Starburst ulti]
+[Herrscher of the Void snaps]
+[Herrscher of Finality ulti]
+[Valkyrie Quicksand weapon]
+[Reverist Calico]
+2.25
+[Herrscher of Origin combo]
+[Fallen Rosemary SS2]
+[Helical Contraption]
+[Terminal Aide 0017]
+[Herrscher of Thunder Narukami]
+1.75
+[Herrscher of Sentience]
 
 !!! info 6.7 Phase 1
 
@@ -95,7 +115,7 @@ click image to jump to valk
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
 
 #->Herrscher of Rebirth Soul Shaper<-
-->![rbss](https://i.imgur.com/mmjvwqq.png)<-
+->![horbss](https://i.imgur.com/Xz9Qif0.png)<-
 
 !!! info Phase 1
 ##->Recommended Gear<-
@@ -107,7 +127,7 @@ Cost | Effect
 ------ | ------
 0 | RPC
 15 | Weapon type breach
-15 | Combo ATK bonus
+15 | Summons TDM bonus
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -135,7 +155,7 @@ Priority | Signet | Details
 Optional | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus; can also pick Sakura vulnerability, TDM, evasion+1 as reinforcement
 
 #->Herrscher of Rebirth Life Binder<-
-->![rblb](https://i.imgur.com/NIxdOze.png)<-
+->![horblb](https://i.imgur.com/UcYNSai.png)<-
 
 !!! info Phase 1
 ##->Recommended Gear<-
@@ -147,7 +167,7 @@ Cost | Effect
 ------ | ------
 0 | RPC
 15 | Weapon type breach
-15 | Combo ATK bonus
+15 | Summons TDM bonus
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------

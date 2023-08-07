@@ -15,7 +15,7 @@ Beginning system boot-up . . .
 OS . . .							
     Loading primary files . . .     ERROR!
 	Loading backup files . . .      ERROR!
-    Cannot locate OS files.
+    Cannot locate main OS files.
     Auxiliary OS files located.
     Loading auxiliary files . . .   OK
 
@@ -189,7 +189,6 @@ The words faded from my sight, leaving me alone - hovering in place by the side 
 However, they *had* forwarded me a set of co-ordinates. While I didn't have a clue how this place was laid out, I could see the faint image of a marker overlaid on the landscape in the distance, a little ways out of the other side of the town. At the very least I could get a lay of the land while on my way to wherever this Porygon2 was - or where they claimed to be.
 
 ***
->(wip needs *drastic* editing)
 
 Making my way through the trunks and across the bridges, I made mental notes of anyplace that might have been of importance in the town. A shop here, what looked to be an inn of sorts there - all of them with a large amount of different Pokémon milling about. This town was turning out to be quite was quite hub of activity. 
 
@@ -203,6 +202,8 @@ Skirting around the strange hole in the ground that lay outside the front door -
 
 I was met with the sight of what appeared to be a relatively large lobby. Two large boards dominated the room - posters and notes adorning them as they hung off a wall, presented as the most important thing there.
 
-The room was totally devoid of life, however. From the sounds I could hear coming from one of the rooms that shot off from the lobby - arguing and eating, from what I could tell - I realised that I must have dropped in during the occupant's lunch break.
+The room was totally devoid of life, however. From the sounds I could hear coming from one of the rooms that shot off from the lobby - arguing and eating, from what I could tell - I realised that I must have dropped in during the occupants' lunch break.
 
 Glancing around, I could see the waypoint that Porygon2 had set for me was pointing up the spiral staircase that sat in the centre of the room. I lingered for a moment, waiting to see if anyone would come out and meet me in the lobby. After a couple of seconds had passed - with no signs of a welcome party - I made for the stairs, heading up to meet Porygon2.
+
+>wip, more to come

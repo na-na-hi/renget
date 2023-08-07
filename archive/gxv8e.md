@@ -112,3 +112,138 @@ Seconds
 >less aggressive punk and more 80s big hair
 >where did he find hairspray?
 >this world was weird as it was and you were sure your guide would make it weirder
+
+>as you walked you tried to make conversation that didn't tie to sex
+>anything but that right now
+>he was trying really hard to bring it back to that
+>but you insisted on steering away from it
+>at least for now
+>the woods were a small trek
+>really reminded you of up northwest back on earth
+>strange to think that way
+>just in a totally alien environment 
+>and this alien lifeform was dressed in a skintight outfit trying to get your dick
+>this is your life
+>circular conversations about what lovely weather this was wasn't cutting it with Sonic
+>he could tell you were blatantly stalling and you knew he knew
+>so why did you keep up the charade?
+>maybe you were nervous about such a massive upheaval in your life
+>it wasn't like you couldn't eventually get back
+>maybe
+>granted, what was there for you?
+>you'd seen this genre of fiction before, all the thrown into a fantasy world stuff
+>instead of elves and dragons and you being an instant expert on something you were surrounded by animal people
+>Sonic decided to be playful and walked ahead backwards
+>his arms rested behind his head as he casually tried to steer you over to his point of view
+>he wasn't even coy or vague about his words
+>"I mean we could talk about clouds all day. we could. or, and here's an idea, we bang."
+>you were really curious where he learned everything he did
+>"I flipped through your smart phone super fast while we were on the run." 
+>oh goddammit 
+>so that means…
+>he instantly picked up the look on your face
+>"yes I know about the folder"
+>you tried to play it off
+>he was clearly mistaken
+>a joke
+>yeah
+>haha
+>"you have an image labeled buttsluts 13 and it features two guys in cheerleader outfits."
+>his memory was surprisingly good
+>"question is… where were the last 12 buttsluts?"
+>you didn't get it and he sighed
+>"I'm joking. sort of. before you destroyed that phone I got a good look at human culture."
+>he leaned his back against a tree and slowly waved an arm out towards you
+>"apparently, earth culture involves thigh high stockings. who knew?"
+>you realized the outstretched hand was meant to present you once more with his new wardrobe 
+>the smile returned to his face when he knew he was winning the debate
+>fine
+>you were called out
+>fine
+>"see. was that so hard? I knew you wanted it."
+>you did kind of quickly surrender in that hotel room
+>"only difference between those buttsluts and this buttslut is this bullslut is real."
+>please stop saying buttslut
+>"buttslut"
+>you weren't winning that debate either
+>"I guess you'll have to come over here and shut me up."
+>he wagged a finger at you
+>then an epiphany 
+>he just had a brilliant idea and you didn't like that one bit
+>"I'll just have to play hard to get. Buttslut."
+>he just vanished in a blink
+>again
+>how the fuck were you supposed to catch something almost as fast as a jet when he wanted to move?
+>it was time for an idea of your own
+>you used psychology against him
+>you weren't chasing anything
+>in fact, quite the opposite 
+>if you knew anything about him after the brief time together you knew his attention span 
+>while he wasn't all that clingy, you hoped this was his Achilles heel
+>so you sat your ass down next to a tree
+>not 2 minutes had passed 
+>he was back beside you, leaning over you
+>very pouty 
+>that's when you used a little slight of hand
+>sure all it amounted to was saying "what's that over there" and pointing
+>but your other hand clamped tight over his ankle
+>so you won the chase in a second
+>all without having to actually run
+>so maybe he'd help you be a little more honest with yourself 
+>didn't mean you weren't going to punish his ass
+>he accepted the win
+>you had a feeling the hard to get thing was an act
+>while the whole situation would probably never become mundane to you, you were gradually accepting it
+>Sonic was at least the most stable thing you'd gotten
+>never try a hookup site for any of that shit
+>it's how you end up with some 40 year old Teddy Roosevelt looking fucker greeting you at his door
+>got out of there immediately 
+>you still shuddered at that thought
+>this guy here wasn't human
+>but maybe you didn't need that
+>you had pondered briefly more than once if this had made you some sort of beast fucker
+>but you shooed the thought away 
+>you might have gotten weird looks in public but he was sentient and talkative
+>you were just at Captain Kirk level of xenophilia 
+>he was just slightly more out there than a green woman
+>plus he looked pretty
+>so why shouldn't you?
+>maybe see where this leads
+>a little bit of living and learning
+>you'd come around to him and maybe not putting a lockscreen on your phone was a good thing after all
+>Sonic had no time to react when you pulled him into your lap
+>your hand around his ankle moved up to squeezing his thick thigh 
+>the runner thing did leave him looking very ideal below the waist
+>he almost had some smarmy quip when you shoved two of your fingers into his mouth and he submitted instantly 
+>feeling and seeing him suck your digits was getting you in the mood
+>his own erection had been fighting the confines of his spats the entire time but now you could see the head poking up and out
+>they'd gotten bunched up or he had moved them down
+>hard to say with how quickly he could move
+>it would be like him to show this off
+>precum dribbled from the tip as he rolled his hips in your lap
+>he straddled you like he belonged there
+>maybe he did
+>he was right about you batting for the other team
+>it was just the whole talking woodland creature thing that had hung you up
+>but those doubts weren't hanging around now
+>you were just horny enough to made bad decisions now
+>your hand fumbled with his spats, eventually settling on tearing them down
+>you pulled your fingers back from his mouth and he opened his eyes slowly 
+>after suckling on your digits he knew what was happening
+>you reached around and gripped into him like a bowling bowl
+>he rewarded you by arching his back, his cockhead leaking more pre onto you
+>dominating him seemed to hush him up plenty
+>your fingers slipped in and out without a rhythm, just haphazardly thrusting wet fingers into him
+>you saw a drunken smile slowly grow on his face
+>he was loving the attention and he knew this was only the start
+>that eager triumphant look was the end of all your reservations 
+>how one could look like they won when it meant getting a dick in the ass you couldn't figure
+>manhandling him and pinning him to the grass made him squeal
+>"oh you brute you~"
+>he knew he'd won despite you winning the race
+>you'd make the best of this situation 
+>his grin melted when you started wildly thrusting your fingers into him
+>what a fucking bottom
+>all that bragging and attitude
+>well you'd oblige, using your free hand to unzip your pants and pull them down
+>the noise made his ears twitched and he looked down expectantly
