@@ -755,5 +755,19 @@ More damage and increased CC on UB+, but nothing else. Potentially some defense 
 
 Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority: Med
-New player Unit priority:  (Low)
+New player Unit priority:  Low
+[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+
+
+## -> Matsuri<- (JP Release Date: Year 6, August 7th)
+From the most useless unit in the game to a potential niche, there's certainly some hope for Matsuri. Not a lot though.
+- UB+: Increased range from 300 to 450 for damaged units. New additions are a Magic & Physical shield on UB and a buff to the damage and shield based on missing HP.
+- CB: Just don't, this is an Arena unit. If you need more explanation, just read her skills as a whole.
+- Arena: A good choice in comps where you may need to re-direct attention for skills that land on the clostest target and hit within a certain range to mess then up (Ex. Saren 6 Star UB), but her 1st action a simple damage skill from S2 means that her usage comes from being a counter punch after taking hits. This is doubled down on, because her UB gives her shields and damage based on missing HP. Certainly could be a threat in P.Arena comps, but on the defensive side for the most part. Especially given her natural bulk and deceptive survivability from shields.
+- PvE: Unless you need to attract some skills towards a single unit to avoid the rest of your party getting hit, Matsuri has no real usage. This could be something in the future, but certainly not now.
+- Positioning and pulling targeting towards herself to protect her team has always been Matsuri's only strength, but now she actually has the ability to tank hits and survive to make use of it. This doesn't maker her a meta breaker, but she will certainly see usage in prolonged fights where she can either run a train on the backline squishies or soak up damage for her teammates to avoid taking damage.
+
+Bond story priority: Low (Relevant units: W.Matsuri)
+Max level Unit priority: Med
+New player Unit priority: Low
 [Return to Top](https://rentry.org/Six_Star/edit#6-stars)

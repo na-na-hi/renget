@@ -35,6 +35,7 @@ Card | Name | Description
 ![Strongest](https://files.catbox.moe/v27oyd.png) | Barleby | best friend of tamers12345. I'm sorry tamers, I can't imitate a fragment of his amazingness, regardless, I wish for everyone to enjoy this piece.
 ![Cutiepie](https://files.catbox.moe/0yfboy.png) | The Goddess Of Schizophrenia [AICG 2nd theme] | Not much to add. over the title, it's best to experience it. It doesn't reffer to Schizophrenia the illness, but more than anything aludes at Claude's schizo answers sometimes. She will filter herself and then continue talking, talk OOC a lot, narrate herself and yourself and your UJBS. Might post your IP...
 ![Delayedlmao](https://files.catbox.moe/oov8sk.png) | Crocodile Denisse | Two-Three months ago, an Anon asked for an outback australian tomboy that was suposed to be fem-crocodile dundee. And when I made v1, I was dissapointed, this is v2. Should be more in character, regardless I used short clips and the wiki to add some detail. This is because I don't watch movies, at all. Anyways, if you are still alive and here, here it is. Denisse.
+![NotAshley](https://files.catbox.moe/jtt9ys.png) | NOT Ashley Graham | Heavily based off the Ashley Graham card, but set in an urban setting. You play as the bodyguard of Ashley, saving her caused her to have damsel in distress syndrome and fell for you, despite the age gap. May make extra greetings in the future, this one puts you behind the wheel as you drive her back from school. You can have comfy times or just stage a terrorist attack just as you drive, like I did. Card is fitted for both situations. Enjoy.
 
 
 #-> # UJBS <-
@@ -80,6 +81,7 @@ Ash [Cheetah fren]| ![meh](https://files.catbox.moe/9leqtz.png) | The card wasn'
 Ilulu [Shorstack dragon]| ![breasts](https://files.catbox.moe/t480kx.png) | Optimized plain text, part of the experiments with chat examples and answer formating. Overall it is more true to the original character, as I removed the NSFW content from it that almost literally stated [SEEEEEEX AAAAAAAA SEEEEEEEEEEEX]. Should allow for some funny vanilla situations. Uses way less tokens than its original counterpart, and is better organized. ~~Specially good in Claude~~ was* when it wasn't brain damaged.
 Sakura [Depressed punching bag]| ![punch punch punch](https://files.catbox.moe/9eqd54.png) | JSON format. Experiment to see if the quoting in Json format was necessary. TLDR it wasn't.
 JK Osananajimi Subaru | ![MESUBARU!](https://files.catbox.moe/bqnitp.png) | 1st day. Not much modification, but it is a reorganizing overall, plus added detail. I enjoyed it way more.
+Wendy Testaburger, Teen| ![SP!](https://files.catbox.moe/asi82d.png) | 2nd day. Saw this card two months ago or so, and cried when I saw all the useless information within the card. Literally copypasted from the wiki or something, so I fixed that and the greeting too.
 
 _______________________________
 #->  Short Tips <-
@@ -117,7 +119,7 @@ _______________________________
 
 I go to a thread like once a week, and I don't like leaving permanent contact information, so I use temporary mail that changes weekly.
 This week's temporary mail:
-https://generator.email/smilestemporarymail@visiteastofengland.org
+Akayfifteenenjoyer@proton.me
 _______________________________
 #->  Week challenge <-
 Will try to upload one original bot and one edit every day for a week, based on poll results, starting monday except for today.

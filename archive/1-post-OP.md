@@ -18,8 +18,6 @@ https://www.youtube.com/watch?v=5ExD43Qo_9s
 https://music.youtube.com/watch?v=RWU3o_kDixc
 \>Rebellion (Hololive English -Advent- Debut Song)
 https://music.youtube.com/watch?v=pYNYhSsR8EE
-\>Debut stream
-https://www.youtube.com/watch?v=gg3SrFzHn9M
 \>Debut Merch
 https://rentry.org/nerissa_ravencroft_merch
 
@@ -29,7 +27,7 @@ Twitter: https://twitter.com/nerissa_en
 Art Tag: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Previous thread: >>
 
-A word of advice: as per >>1 be smart and don't engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
+A word of advice: as per >>1 (Cross-thread) be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 ----------
 

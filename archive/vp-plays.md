@@ -375,4 +375,5 @@ https://arch.b4k.co/vp/thread/54163030/ 7 self derailing plot
 https://arch.b4k.co/vp/thread/54168509/ 8 man this chapter sucks
 https://arch.b4k.co/vp/thread/54178952/ 9 fucking nothing 'cept wack
 https://arch.b4k.co/vp/thread/54188603/ 10 fucking niggers
-https://arch.b4k/co/vp/thread/54194744/ 11 bugs in anus
+https://arch.b4k.co/vp/thread/54194744/ 11 bugs in anus
+https://arch.b4k.co/vp/thread/54202836/ 12

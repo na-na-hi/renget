@@ -22,5 +22,5 @@
 ####Karaoke section
 | Date | Type | Karaoke | Magnet / Link | Setlist |
 |------|-----|-----|-----|-----|
-|06/08/2023|  Archived |【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼 |[![](https://files.catbox.moe/2qho7v.jpg)](https://www.youtube.com/watch?v=GiAWeVZAXIQ)|Placeholder|
+|06/08/2023|  Archived |【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼 |[![](https://files.catbox.moe/2qho7v.jpg)](https://www.youtube.com/watch?v=GiAWeVZAXIQ)| https://files.catbox.moe/pmpl0f.txt |
 |'In Two Weeks'| Unarchived | [Uniarchived Western Songs karaoke planned](https://youtu.be/y6bSgVuN1gg?t=3822) |Placeholder|Placeholder|

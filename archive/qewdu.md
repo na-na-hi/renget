@@ -37,7 +37,7 @@ If you encounter a character that doesn't import correctly on Blender, post it o
 
 ## CH#### Chibi Character List
 CH0060 = Swimsuit Tsurugi
-CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender)**
+CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0063 = Swimsuit Hina
 CH0064 = Swimsuit Iori
 CH0066 = Shun (Child)
@@ -52,7 +52,7 @@ CH0100 = Bunny Karin
 CH0101 = Bunny Neru **(Does not import correctly on Blender)**
 CH0107 = Kaho
 CH0114 = Tsukuyo
-CH0133 = Michiru **(Does not import correctly on Blender)**
+CH0133 = Michiru **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0135 = Rumi
 CH0137 = Kokona
 CH0138 = Mina
@@ -61,7 +61,7 @@ CH0144 = Saki
 CH0145 = Miyu
 CH0152 = Mine
 CH0155 = Natsu
-CH0156 = Iroha **(Does not import correctly on Blender)**
+CH0156 = Iroha **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0159 = Himari
 CH0163 = Onsen Chinatsu
 CH0164 = Onsen Cherino
@@ -90,7 +90,7 @@ CH0191 = New Years Haruna
 CH0192 = New Years Junko
 CH0194 = Christmas Serina
 CH0195 = Christmas Hanae
-CH0198 = Koyuki **(Does not import correctly on Blender)**
+CH0198 = Koyuki **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0200 = Maid Alice
 CH0203 = Maid Yuzu
 CH0204 = Swimsuit Ui
