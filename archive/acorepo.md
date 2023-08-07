@@ -1,5 +1,4 @@
 [TOC]
-[Second civit list](https://rentry.org/acorepo2) (names are already listed below)
 
 # Characters
 
@@ -246,6 +245,11 @@ https://civitai.com/models/42492/shego-kim-possible
 https://civitai.com/models/5315/shego
 	- Monique
 https://civitai.com/models/109260/monique-kim-possible-lycoris
+- Danny Phantom
+	+ Desiree
+https://civitai.com/models/124089/desiree-danny-phantom
+	- Ember McLain
+https://civitai.com/models/114758/ember-mclain-danny-phantom
 - Samantha (Totally Spies)
 https://civitai.com/models/95201/samantha-sam-simpson-totally-spies
 - Gwen (Total Drama)
@@ -287,6 +291,8 @@ https://civitai.com/models/52372/helga-sinclair-atlantis
 - Chel (The Road to El Dorado)
 https://civitai.com/models/45917/chel-dorado
 https://civitai.com/models/18842/chel
+- Yzma (The Emperor's New Groove)
+https://civitai.com/models/123432/yzma-the-emperors-new-groove-gilf
 - Tiana (The Princess and the Frog)
 https://civitai.com/models/43727/tiana-the-princess-and-the-frog-disney-princess-by-yeiyeiart
 - Hercules
@@ -299,8 +305,6 @@ https://civitai.com/models/46198/aphrodite
 https://civitai.com/models/48946/tinkerbell
 	- Peter Pan
 https://civitai.com/models/63903/peter-pan-character-lora
-- Shanti (The Jungle Book)
-https://civitai.com/models/109721/shanti-the-jungle-book
 Wakfu: The Animated Series
 	+ Evangelyne
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
@@ -358,6 +362,8 @@ https://civitai.com/models/92381?modelVersionId=98491
 https://civitai.com/models/118161/black-canary-dc-comics
 	- Child
 https://civitai.com/models/120693/dc-child
+	- Circe
+https://civitai.com/models/123946/circe-dc-comics
 - Marvel Comics
 	+ Star/Ripley Ryan
 https://civitai.com/models/14831/star-ryan-ripley
@@ -471,6 +477,9 @@ https://civitai.com/models/45282/mouse-droners
 https://civitai.com/models/27689?modelVersionId=33150
 - Gretel Grant-Gomez (Hamster & Gretel)
 https://civitai.com/models/23752?modelVersionId=28377
+- Miko Kubota (Glitch Techs)
+https://civitai.com/models/19524/miko-kubota-from-glitch-techs
+https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Phineas and Ferb
 	+ Linda Flynn-Fletcher
 https://duckduckgo.com/?t=ffab&q=Linda+Flynn&ia=web
@@ -515,9 +524,6 @@ https://civitai.com/models/101219/jenny-wakemanhuman-skin
 https://civitai.com/models/95328/britt-crust-laatr
 	- Tiff Crust
 https://civitai.com/models/101208/tiff-crust
-- Miko Kubota (Glitch Techs)
-https://civitai.com/models/19524/miko-kubota-from-glitch-techs
-https://civitai.com/models/25824/miko-kubota-glitch-techs
 - Frankie Foster (Foster's Home for Imaginary Friends)
 https://civitai.com/models/60224/frankie-foster-incl-cartoon-style-fosters-home-character
 https://civitai.com/models/88781/frankie-foster-or-goofy-ai
@@ -593,18 +599,14 @@ https://civitai.com/models/113168/pristine-the-oblongs
 https://civitai.com/models/21663/wuya
 https://civitai.com/models/87335/wuya-xiaolin-showdown
 - Winx Club
-	- Bloom
-https://civitai.com/models/111102/bloom-winx-club-s1
-	- Darcy
-https://civitai.com/models/117668/darcy-winx-club-s1
-	- Icy
-https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
-	- Musa
-https://civitai.com/models/113572/musa-winx-club-s1
-	+ Stella
-https://civitai.com/models/111697/stella-winx-club-s1
-	- Stormy
-https://civitai.com/models/117850/stormy-winx-club-s1
+https://rentry.org/acorepo2#winx-club
+- Ever After High
+	+ Ramona Badwolf
+https://civitai.com/models/118214/ramona-badwolf-ever-after-high
+	- Apple White
+https://civitai.com/models/118216/apple-white-ever-after-high
+	+ Raven Queen
+https://civitai.com/models/122701/raven-queen-ever-after-high
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Atomic Betty
@@ -636,6 +638,8 @@ https://civitai.com/models/81163/lewis-griffin
 https://civitai.com/models/41006/meg-griffin
 	- Tricia Takanawa
 https://civitai.com/models/119788/tricia-takanawa-family-guy
+	- Diane Simmons
+https://civitai.com/models/124245/diane-simmons-family-guy
 - Donna Tubbs (The Cleveland Show)
 https://civitai.com/models/74513/donna-tubbs-the-cleveland-show
 - Tina Belcher (Bob's Burgers)
@@ -646,6 +650,8 @@ https://civitai.com/models/80251/velma-dinkley-scooby-doo-mystery-incorporated-2
 https://civitai.com/models/7129/old-school-velma
 	+ Daphne (Modern)
 https://civitai.com/models/54925/daphne-blake-scooby-doo-2010
+	- Phantasma (Scooby-Doo and the Ghoul School)
+https://civitai.com/models/122738/phantasma-scooby-doo-and-the-ghoul-school
 - The Flintstones
 	+ Betty Rubble
 https://civitai.com/models/76851/betty-rubble-the-flintstones
@@ -791,8 +797,11 @@ https://civitai.com/models/115541/pocahontas-ralph-breaks-the-internet
 - Moana
 https://civitai.com/models/37052/moana-character-lora
 https://civitai.com/models/43084/vaiana-moana
-- Raya (Raya and the Last Dragon)
+- Raya and the Last Dragon
+	+ Raya
 https://civitai.com/models/93546/raya-disney-wrise
+	+ Namaari
+https://civitai.com/models/123241/namaari-raya-and-the-last-dragon
 - Frozen
 	+ Elsa
 https://civitai.com/models/92550/frozen-elsa
@@ -818,6 +827,8 @@ https://civitai.com/models/94071/voyd-the-incredibles
 https://civitai.com/models/94292/evelyn-the-incredibles
 	+ Mirage
 https://civitai.com/models/106800/mirage-the-incredibles-disney
+	- Edna
+https://civitai.com/models/121935/edna-the-incredibles-gilf
 - Merida (Brave)
 https://civitai.com/models/39097?modelVersionId=45024
 - Inside Out
@@ -831,8 +842,13 @@ https://civitai.com/models/80126/joy-inside-out
 https://civitai.com/models/80207/riley-inside-out
 - Ming Lee (Turning Red)
 https://civitai.com/models/94137/ming-lee-turning-red
-- Mirabel Madrigal (Encanto)
+- Encanto
+	+ Isabela
+https://civitai.com/models/123223/isabela-encanto
+	+ Mirabel Madrigal
 https://civitai.com/models/53557/mirabel-madrigal
+	- Luisa
+https://civitai.com/models/94284/luisa-encanto
 - Disney Fairies (Tinker Bell Movie)
 	- Tinker Bell
 https://civitai.com/models/53367/tinkerbell-disney-fairies-tinker-bell-movie
@@ -879,6 +895,9 @@ https://civitai.com/models/85214/dinocore-kaya
 - Nimona
 https://civitai.com/models/107100/nimona-netflix-film
 https://civitai.com/models/106778/nimona-lora
+- Rayla (The Dragon Prince)
+https://civitai.com/models/119472/rayla-the-dragon-prince-commission
+https://civitai.com/models/122127/rayla-the-dragon-prince-lora-by-artkoikoi
 - AndrAIa (ReBoot)
 https://civitai.com/models/107184/andraia-or-reboot
 
@@ -920,6 +939,8 @@ https://civitai.com/models/102000/visas-marr-kotor-2-lora
 https://civitai.com/models/121218/satele-shan-star-wars-the-old-republic-lora
 	- Lana
 https://civitai.com/models/119861?modelVersionId=130276
+	+ Nadia
+https://civitai.com/models/122571/nadia-grell-star-wars-the-old-republic-locon
 - Mass Effect
 https://rentry.org/acorepo2#mass-effect
 - Dragon Age
@@ -1025,17 +1046,27 @@ https://civitai.com/models/94099/nariko-heavenly-sword
 https://civitai.com/models/109062/faith-connors-mirrors-edge-catalyst
 - Jessica Cannon (SiN) realistic
 https://civitai.com/models/21288/jessica-cannon
+- Jesse Faden (Control)
+https://civitai.com/models/123888/jesse-faden-or-control
+- Amicia de Rune (A Plague Tale)
+https://civitai.com/models/122057/amicia-de-rune-a-plague-tale
 - Catwoman (Arkham City)
 https://civitai.com/models/17661/sxz-catwoman-dc
+	- (Injustice)
+https://civitai.com/models/124214/catwoman-dc-injustice2
 - Harley Quinn (Arkham City) & (Knight)
 https://civitai.com/models/46189/harley-quinn-batman-arkham-city-lora
 https://civitai.com/models/46199/harley-quinn-batman-arkham-knight-lora
 	- (Injustice)
 https://civitai.com/models/121665/harley-quinn-dc-injustice2
+	- (Batman: The Enemy Within)
+https://civitai.com/models/121446/harley-quinn-telltale-batman-the-enemy-within
 - Poison Ivy (Arkham Knight)
 https://civitai.com/models/49951/poison-ivy-batman-arkham-lora
 - Candy Suxxx (Grand Theft Auto)
 https://civitai.com/models/93029/candy-suxxx
+- Shun Ying Lee (Urban Reign)
+https://civitai.com/models/123721/shunyingyee-urban-reign
 - Mortal Kombat
 	+ D'Vorah
 https://civitai.com/models/111823/dvorah-mortal-kombat
@@ -1266,6 +1297,8 @@ https://civitai.com/models/106499/randolph-caldecott-style-lycoris
 https://civitai.com/models/17411?modelVersionId=20582
 - Gustav Klimt
 https://civitai.com/models/104314/gustav-klimt-painting-style
+- Claude Monet
+https://civitai.com/models/122907/claude-monet-style-lora
 - Van Gogh
 https://civitai.com/models/100873/van-gogh-style
 - Vermeer

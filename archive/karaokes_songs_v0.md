@@ -11,7 +11,7 @@
 | Song | Link |
 |------|-----|
 | Love Me, Love Me, Love Me / English cover of Kikuo - 愛して愛して愛して  | [![](https://files.catbox.moe/x48z03.jpg)](https://www.youtube.com/watch?v=RWU3o_kDixc) |
-|Another Cover Song in 2 weeks (announced in the [Unpacking stream](https://youtu.be/gKlDWtpGZsg?t=6760))|Placeholder|
+|Cover release on August 12th |Placeholder|
 
 #####Collab Songs
 | Song | Link |

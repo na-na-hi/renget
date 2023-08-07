@@ -130,16 +130,26 @@ https://civitai.com/models/107642/dota2-jugg
 https://civitai.com/models/112454/darkterror-faceless-void-dota
 - Netflix series
 	+ Lina 
-https://civitai.com/?id=83440&slug=faun-dream&query=dota&view=feed
+https://civitai.com/models/123501/lina-dota-dragons-blood-commission
 	+ Marci
 https://civitai.com/models/118664/marci-dota-dragons-blood-commission
 	+ Mirana
-https://civitai.com/models/24894/mirana-dota-dragons-blood
-https://civitai.com/models/45514/mirana-princess-dota2-dragon-blood
+https://civitai.com/models/123513/mirana-dota-dragons-blood
 	+ Fymryn 
-https://civitai.com/models/40669/fymryn-dota-dragons-blood
+https://civitai.com/models/122544/fymryn-dota-dragons-blood-commission
 	- Filomena
 https://civitai.com/models/48082/filomena-dota-dragons-blood
+	- Rylai 
+https://civitai.com/models/123509/rylai-dota-dragons-blood
+	- Selemene
+https://civitai.com/models/123487/selemene-dota-dragons-blood-commission
+	- Luna
+https://civitai.com/models/123520/luna-dota-dragons-blood
+https://civitai.com/models/123519/luna-dota-dragons-blood
+	+ Auroth
+https://civitai.com/models/122526/auroth-dota-dragons-blood-commission
+	- Davion
+https://civitai.com/models/117001/davion-dota-dragons-blood-commission
 
 # Fortnite
 
@@ -326,3 +336,29 @@ https://civitai.com/models/88235/samara-mass-effect-lora
 https://civitai.com/models/92603/peebee-mea
 - Cora
 https://civitai.com/models/121666/cora-mass-effect-andromeda
+
+# Winx Club
+
+- Bloom
+https://civitai.com/models/111102/bloom-winx-club-s1
+https://civitai.com/models/122328/bloom-or-enchantix-or-winx-club-s3
++ Dark Bloom
+https://civitai.com/models/123235/dark-bloom-or-magic-winx-or-winx-club
+- Darcy
+https://civitai.com/models/124249/darcy-or-disenchantix-or-winx-club
+https://civitai.com/models/117668/darcy-winx-club-s1
+- Icy
+https://civitai.com/models/78215/icy-ice-witch-and-trix-centre-winx-club
+https://civitai.com/models/124252/icy-or-disenchantix-or-winx-club
+- Musa
+https://civitai.com/models/113572/musa-winx-club-s1
++ Stella
+https://civitai.com/models/111697/stella-winx-club-s1
+- Stormy
+https://civitai.com/models/124256/stormy-or-disenchantix-or-winx-club
+https://civitai.com/models/117850/stormy-winx-club-s1
+- Tecna
+https://civitai.com/models/122339/tecna-or-enchantix-or-winx-club-s3
+- Aisha/Layla
+https://civitai.com/models/115107/aishalayla-winx-club-s2
+https://civitai.com/models/122335/aishalayla-or-enchantix-or-winx-club-s3

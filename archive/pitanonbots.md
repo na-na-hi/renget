@@ -36,7 +36,9 @@ Kagamine Rin | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](http
 #Re:Zero
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
-Pandora | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/pandora-246a4d93/main) | ![](https://files.catbox.moe/us8zrv.png) | https://files.catbox.moe/49ekfc.png
+Meili | (7/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/meili-7689d784/main) | ![](https://files.catbox.moe/gf6fas.png) | https://files.catbox.moe/2nbwz2.png
+Minerva | (7/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/minerva-4f8fc9bb) | ![](https://files.catbox.moe/hdmioo.png) | ![](https://files.catbox.moe/w76sbz.png)
+Pandora | (4/08/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/pandora-246a4d93) | ![](https://files.catbox.moe/us8zrv.png) | https://files.catbox.moe/49ekfc.png
 Capella | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/capella-64858c74/main) | ![](https://files.catbox.moe/zjwogb.png) | https://files.catbox.moe/x769ko.png
 Felt | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/felt-c458a1c1/main) | ![](https://files.catbox.moe/z0gpwq.png) | https://files.catbox.moe/dc426p.png 
 Petra | (3/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/petra-a9ea3209/main) | ![](https://files.catbox.moe/xexw5o.png) | https://files.catbox.moe/e4fcoh.png

@@ -50,7 +50,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-5\" \"d_coef=1.5\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-5\" \"d_coef=1.1\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
