@@ -61,7 +61,7 @@
 
 # 📑 2 ➜ Torrents
 
-### 🐐 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
+### 🧲 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
 - Home to some of the most well-known repackers and crackers as well as a vast collection of torrent files.
 - [URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
 
@@ -122,7 +122,7 @@
 - Sizable torrent database with an extensive catalog featuring a diverse range of media and well-seeded.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentdownloads.pro/)
 
-### 🧲 [TorrentGalaxy](https://torrentgalaxy.to/)
+### 🐐 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
 - The emerging star of the p2p world, with a youthful, fresh, and open community where you can discover almost anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentgalaxy.to/)
 

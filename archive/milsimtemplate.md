@@ -40,7 +40,7 @@ https://www.gametracker.com/search/rordh/
 https://pastebin.com/2XX24Ff4
 
 >ARMA 3 Weekend OPS Info
-https://rentry.org/Weekend_Ops
+https://rentry.org/weekendops
 
 >Red Orchestra: Ostfront
 Friday 20:00CET Polack Server, ask in thread for info

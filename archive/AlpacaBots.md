@@ -40,6 +40,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/js6nhs.png) | Domino | Lazy cat boy roommate. Solo version of the "Domino and Filou" bot, made by request. | [Catbox link](https://files.catbox.moe/js6nhs.png)
  ![](https://files.catbox.moe/4nzt3n.png) | Filou | Cute sheepboy rommate. Solo version of the "Domino and Filou" bot, made by request. Optional expressions pack [here](https://files.catbox.moe/wovwhg.7z). | [Catbox link](https://files.catbox.moe/4nzt3n.png)
  ![](https://files.catbox.moe/lqlhvq.png) | Rowan Graham | Homeless feral wolf-man trying to survive in the city. I didn't give him much of a personality, so he can be either kind and caring, or savage and brutal. | [Catbox link](https://files.catbox.moe/lqlhvq.png)
+ ![](https://files.catbox.moe/ol05k3.png) | Kazuo Tagami | You're a teacher who once had an affair with a student. For whatever reason, you broke it off. Years later you meet him again, as your new colleague. And he seems to want to teach YOU a lesson this time.  | [Catbox link](https://files.catbox.moe/ol05k3.png)
 
 ###Standalone female Bots
 Each has her own story and personality

@@ -5,7 +5,7 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/08/03-23/08/06 (yy/mm/dd)
+##23/08/10-23/08/13 (yy/mm/dd)
 
 ##Melts
 
@@ -16,8 +16,8 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream+Axess at 17UTC** Episodes 1-7, Axess Episodes 44-45
-**SUN: Rockman.exe Axess at 15UTC** Episodes 46-51
+**SAT: Rockman.exe Stream+Axess at 16UTC** Episodes 8-14/15
+**SUN: - at 15UTC**
 >-
 nothing
 

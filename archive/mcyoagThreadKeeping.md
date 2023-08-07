@@ -884,6 +884,8 @@ https://pastebin.com/v4LNpcXi
 https://rentry.org/rdhv6
 >A Day in the Life of JRPG Traitors (Cormelia, Mahapapapurusa, Potion Pete, Aterui)
 https://pastebin.com/37KBsQEy
+>Sarru Kissat Mati Albayis (Albayis)
+https://rentry.org/SarruKissatMatiAlbayis
 
 ```
 ***

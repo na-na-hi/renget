@@ -81,6 +81,12 @@ Some examples include but are not limited to:
 *Kai Saikota* (EN): https://www.youtube.com/channel/UCC4hjJp_MttwfZcuWc0OpVQ
 *Nebi Nebu* (EN): https://www.youtube.com/@NebiNebu
 *Lottie Shinju* (EN): https://www.youtube.com/@LottieShinju
+*AiYumeka* (EN): https://www.twitch.tv/aiyumeka
+*Tomari Mari* (JP): https://www.youtube.com/@TOMARI_MARI
+*Kohaku Nuino* (JP): https://www.youtube.com/@KOHAKU_NUINO
+*Shiina Yuika* (JP): https://www.youtube.com/@ShiinaYuika
+*Mimiko Tomomo* (JP): https://www.youtube.com/@MimikoTomomo
+*Morino Merun* (JP): https://www.youtube.com/@MerunCh
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -109,11 +115,12 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
 *Punkalopi* (EN): https://www.youtube.com/@Punkalopi
 
-###Pink Accented
+###Pink Accented:
 Defined below.
 *AZKi* (JP): https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw
-*Mococo Abyssguard* (EN): https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA
+*Mococo Abyssgard* (EN): https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA
 *Lia* (EN): https://www.youtube.com/@RinkouAshelia
+*Fukumaki Yuka* (JP): https://www.youtube.com/@yfukumaki_ch
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

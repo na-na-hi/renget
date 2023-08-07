@@ -8,6 +8,8 @@ RULES:
 > You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (any type/color).
 
 ***
+## JRPG Lore
+https://rentry.org/iwasreadyforthis
 
 ## BUILDS
 
@@ -36,6 +38,12 @@ Cormelia (Elf Spirit Talker): https://archive.4plebs.org/tg/post/89700452/
 Professor Khuldor the Transmuter (Human Green Mage): https://archive.4plebs.org/tg/post/89705236/
 Corvus (Human Spirit Talker): https://archive.4plebs.org/tg/post/89733343/
 August, Bastard Prince of Alkia (Human Rogue): https://desuarchive.org/tg/thread/89769197/#89780609
+Skelly Skellyheimer (Demon Hybrid Herolike)
+https://archive.4plebs.org/tg/post/89788596
+Albayis (Demihuman Herolike)
+https://archive.4plebs.org/tg/post/89799592
+Stirrer (Demon Hybrid Something)
+https://archive.4plebs.org/tg/post/89800183
 ***
 
 ## WRITEFAGS
@@ -52,7 +60,10 @@ Corkscrew Airline (Potion Pete, Mahapapapurusa, Cormelia): https://rentry.org/kn
 Chance Encounters (Suzerain, Caligula, Caniara): https://rentry.org/thewindblows
 A Jolly Adventure (Mahapapapurusa): https://pastebin.com/v4LNpcXi
 The Dream of Potion Pete (Potion Pete): https://rentry.org/rdhv6
-
+A Day in the Life of JRPG Traitors (Cormelia, Mahapapapurusa, Potion Pete, Aterui)
+https://pastebin.com/37KBsQEy
+Sarru Kissat Mati Albayis (Albayis)
+https://rentry.org/SarruKissatMatiAlbayis
 ***
 
 ## TIERLISTS
@@ -73,12 +84,14 @@ Power and Difficulty of Fighting Game Character: https://i.4pcdn.org/tg/16902500
 Race Distribution: https://i.4pcdn.org/tg/1690309953715488.png
 Fate Classes: https://i.4pcdn.org/tg/1690320241500039.jpg
 Type of Spinoff Game You Would Get: https://i.4pcdn.org/tg/1690515919810287.jpg
+Reaction speed: https://desuarchive.org/tg/thread/89797987/#89800305
 
 ***
 
 ## ARTFAGS
 
 Sprite Sheet: https://i.4pcdn.org/tg/1690239478836965.png
+Cormelia, Potion Pete, and Mahapapapurusa together: https://desuarchive.org/tg/thread/89797987/#89802756
 
 ***
 

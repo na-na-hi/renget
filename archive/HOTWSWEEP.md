@@ -28,7 +28,7 @@ David "Profit" Wiles (Settlement Survivor): https://archive.4plebs.org/tg/post/8
 Bob Kilpatrik (Settlement Survivor): https://archive.4plebs.org/tg/post/89426616
 "Ruby" (Settlement Survivor): https://desuarchive.org/tg/thread/89670819/#89676985
 Becka "Queen Bee" (Raider): https://archive.4plebs.org/tg/post/89429924
-Subject 2285-J (Mutant): https://desuarchive.org/tg/thread/89679599/#89681858
+Subject 2285-J (Mutant): https://desuarchive.org/tg/thread/89823232/#q89828219
 #### Nymph-Infested Swamps
 The Nymphs - Glimmer, Bliss, Doe, Kitty, Sprite (Mutants): https://archive.4plebs.org/tg/post/89385405
 Amu (Robot): https://archive.4plebs.org/tg/post/89383565
@@ -118,6 +118,7 @@ The Wasteland Psychiatrist (Remilia, Nikto, Quinn Chase, Ultra Magnus): https://
 Mutant Pilgrimage Part 1 (Ramses, Karnak, Dr. Acheron, Sasha): https://rentry.org/MutantPilgrimage
 Mike's Long, Hard, Ride (featuring Mike the Driver, and Tinker West-Gacy).
 https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/edit?usp=sharing
+A Rude Awakening (featuring Subject 2285-J, cameo by D.J. Lance). https://docs.google.com/document/d/1P13EK-zgyU6dV8CaYbuJjcVkqp2Cto7BNVLOobKFxjE/edit
 
 
 ### Mission Logs

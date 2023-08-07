@@ -143,11 +143,12 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 **Normal** does 100% damage.
 **Resist** does 50% damage.
 
+[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) visually shows you how to build, just go to the 'Teambuilding' sheet (or click on the imgur). 
+
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers, buffers, and tanks you can ignore the environment mood and attack type. 
 Always run full teams (6 students). 
 Supports =/= DPS. They SUPPORT you by bringing CC. They do not deal damage. 
-
 
 For PvE (normal and hard missions, bounties, commissions) you want AOE units. If you're having trouble with a boss, bring in a strong single target (ST) DPS instead.
 At the start you run an evasion tank like Yuuka or Tsubaki, who are the best at tanking damage early on. Eimi is also a solid option thanks to her self-heal EX and very solid damage early on. The damage type of ur tank doesn't matter too much however, since their job is to tank damage (yes, really). After you get access to T4 bags, you can run more orthodox tanks like Hoshino or Haruka (or Tsubaki, because she's still really good).
@@ -180,8 +181,6 @@ Once you have more resources you can branch out to a wider roster.
 **You only need 2 healers and tanks at the start**. Because you need to use at most 2 teams in the missions, limit urself to just 2. Because their attack types don't matter you only need to swap around the DPS 
 
 A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
-
-[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what good units are to invest into for PvE, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
 [Use this for skill priority](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
 [this for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
@@ -363,9 +362,9 @@ Buying the activity reports with credits is kind of bad (as in really bad).
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-If ur a metafag: bring Serina to 2\*, and (if ur too impatient) Kotama to 3\*, who is also available in the raid shop. After that? Whoever is the main hypercarry of a raid you're planning to beat.
+Otherwise bring Serina to 2\*, and (if ur too impatient) Kotama to 3\*, who is also available in the raid shop. After that? Whoever is the main hypercarry of a raid you're planning to beat.
 Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
-Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. 
+Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
 ![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/C1XDx1Z.png)

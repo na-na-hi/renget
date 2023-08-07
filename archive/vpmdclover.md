@@ -181,7 +181,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
 * [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
 * [Enter the Federation - The Quartet](https://rentry.org/r4m9y)
-* [ETF - Ending Commentary: Docs File](https://docs.google.com/document/d/1amKRSwuymZoPKZzXw5ugS6P-urz84V3ufR7uyn7J9p8/edit)
+* [Enter the Federation - Ending](https://docs.google.com/document/d/1amKRSwuymZoPKZzXw5ugS6P-urz84V3ufR7uyn7J9p8/edit)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
@@ -499,7 +499,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
 ###[Clover Guild Drawing Tutorial](https://rentry.org/CloverGuildDrawingTutorial)
 [Clover Drawboard Request List](https://rentry.org/CloverDrawRequest)
-###[Expedition #1 Enter the Federation/Wacky Adventure Ideas/Suggestions Doc](https://docs.google.com/document/d/1lgoF_nrwtPcndm-jL4Aqkq5gRUDXxg9ooH0zw6lxAaQ/edit)
 ###[Clover Guild's Idea Bin](https://rentry.org/cloverIdeabin)
 ###[Clover Lore Quick Reference](https://rentry.org/cloverlore)
 ###[Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264)

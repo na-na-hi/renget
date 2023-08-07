@@ -53,6 +53,8 @@
 - [Space Odysseus Teslafest](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%20/)
 - [Faerie Knights Cup festival](https://arch.b4k.co/vg/search/text/Faerie%20Knights%20Cup%20festival/)
 
+> 3T Teams for Nero Fest 2023 NA:
+- [Nero Fest 2023 NA Lotto Guide](https://docs.google.com/spreadsheets/d/1we9JY-NTdzv_BBxMqId7_4zyrF29wNlH5W8FvFP2wtM/htmlview?usp=sharing#)
 
 ### Tools 
 > FGO Combat Sprites Viewer:

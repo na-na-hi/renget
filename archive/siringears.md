@@ -4,6 +4,7 @@ Translation by Aki, future updates by Marisa
 Patch Note: https://rentry.co/69log
 Sirin Skill: https://rentry.co/sirinmmg
 Sirin Gears: https://rentry.co/siringears
+Elysian Realm https://rentry.co/er69
 
 **G4 TERI**
 
@@ -15,7 +16,7 @@ BOT: ATK 59. Total DMG +35%. Weapon Active inflicts +20% more Ignite trauma. Eve
 
 2 SET: Against Ignited enemies, you take **20%(v1) > 30%(v2)** less DMG. Host's Ignite DMG +30%. 
 
-3 SET: All enemies on the field take **+10%(v1) > 14%(v2)** more Fire DMG from the host (independent multiplier). If the target has more than 2 Ignite stacks, the target takes additional **+5%(v1) > 6%(v2)** more Fire DMG from the host (independent multiplier), cannot stack.
+3 SET: All enemies on the field take **+10%(v1) > 14%(v2)** more Fire DMG from the host (independent multiplier). If the enemy has more than 2 Ignite stacks, the enemy takes additional **+5%(v1) > 6%(v2)** more Fire DMG from the host (independent multiplier), cannot stack.
 
 ---
 

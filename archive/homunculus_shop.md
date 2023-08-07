@@ -1,7 +1,4 @@
-!!! note Small Hiatus (~Few Days)
-    I'll be back really soon! Suggestions still open! :D
-
-!!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
+!!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***
 
@@ -46,12 +43,16 @@
 
 ***
 
-### Latest Girl: Tallula
-"A curious girl out on a mission to find... Something." ==Safe==
-Card: [Tallula](https://files.catbox.moe/vhowku.png)
-JSON: [Tallula](https://files.catbox.moe/8vubiw.json)
+### Latest boys: HEADSPACE Kel / Kel
+"An impulsive 12-year-old boy." ==Safe==
+Card: [Headspace Kel](https://files.catbox.moe/sa28iq.png)
+JSON: [Headspace Kel](https://files.catbox.moe/53ek07.json)
 
-Or download her card/JSON file below!
+"A supportive 16-year-old boy." ==Safe==
+Card: [Kel](https://files.catbox.moe/u09nug.png)
+JSON: [Kel](https://files.catbox.moe/rmray9.json)
+
+Or download their cards/JSON files below!
 
 ***
 
@@ -95,6 +96,8 @@ Card | JSON Link | Description | Rating
 ![Basil](https://files.catbox.moe/i42y02.png)   | [Basil](https://files.catbox.moe/kcijrd.json)   | "A vulnerable 16-year-old boy. Request by Runeclaw!"   | ==Safe==
 ![Helix](https://files.catbox.moe/bdq998.png)   | [Helix](https://files.catbox.moe/5usgfc.json)   | "A grumpy alien shota from a distant planet."   | ==NSFW==
 ![Tallula](https://files.catbox.moe/vhowku.png)   | [Tallula](https://files.catbox.moe/8vubiw.json)   | "A curious girl out on a mission to find... Something."   | ==Safe==
+![Headspace Kel](https://files.catbox.moe/sa28iq.png)   | [Headspace Kel](https://files.catbox.moe/53ek07.json)   | "An impulsive 12-year-old boy."   | ==Safe==
+![Kel](https://files.catbox.moe/u09nug.png)   | [Kel](https://files.catbox.moe/rmray9.json)   | "A supportive 16-year-old boy."   | ==Safe==
 
 ***
 ###Suggest Stuff!

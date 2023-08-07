@@ -6,7 +6,7 @@
 	Instructions:
 	1. Click the edit button at the bottom of the page
 	2. Add your idea to the top of the list so it's seen before older ideas
-	3. Enter 'pokemon' (minus the ' ') in the edit code box at the bottom of the page
+	3. Enter '' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 ***
 Oh no! Your character/team has been framed for a crime they didn't commit, and have been whisked off to jail. What's more, you know the true culprit and he's bound to strike again! Can your team use teamwork and wits to break out of jail, catch the bad guy and prove your innocence?

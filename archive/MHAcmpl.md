@@ -801,6 +801,10 @@ Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students): https
 Understanding (Mirror Devil, Maru (maru), Smokin' Sexy): https://rentry.org/cucs2
 Misadventures at the Dojo Part 2.5: Aftermath (Drekus, Karma, Feral, Aquarius, Walpurgis, Nebulous Storm, Midas): https://rentry.org/DojoMisadventureExtra
 Stimulation (Seiryu, Honoken, Karma, Fluegel, Rika Eichi, Popsy): https://rentry.org/g6f8r
+The Tournament Continues!: https://rentry.org/yngpn
+Last Visit (Yamata, Mirror Devil, Capture Cloth): https://rentry.org/xpxk6
+Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru)): https://rentry.org/r5v7e
+Sandatsu is a Receiver: https://rentry.org/dfkw5
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

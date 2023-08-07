@@ -1,12 +1,68 @@
 #The Nations of the planet Covolo (change name later this is shit)
 
+#General Timeline
+
+1: The world is formed by Yagoo. Sora is created. Humanity is created.
+13: Sora successfully convinces Yagoo to create siblings for her. Roboco is created. 
+14: Suisei is created.
+17: Mel is created.
+21: Chris, Fubuki, Matsuri, Aki, and Haato/Haachama are created.
+22: For the crime of attempting to destroy Yagoo’s Tower, Chris is purged, and her nation scoured from the face of the earth as an example to be made of should any others misbehave. 
+23: Miko and Aqua are created. 
+24: Shion is created. 
+25: Ayame and Choco are created.
+26: Subaru is created.
+29: AZKi is created.
+31: Mio is created. 
+39: Okayu and Korone are created.
+43: Miyabi and Kira are created. 
+44: Izuru is created. 
+46: Pekora and Rushia are created. 
+47: Noel, Flare, and Marine are created.
+49: Aruran and Suzaku are created.
+50: Yogiri is created. 
+52: Rikka is created.
+53: Civia is created. 
+55: Astel and Temma are created. 
+56: Roberu, Coco, Kanata, and Watame are created.
+57: Towa and Luna are created. 
+58: Spade is created. 
+61: Suzaku is slain in battle with Haachama. His lands quickly decay and fall to ruin.  
+63: Doris, Rosalyn, Artia, Risu, Iofi, and Moona are created. 
+64: Shien and Kaoru are created.
+65: Oga is created. 
+70: Kaoru is assassinated with a firearm by a puritan extremist. His lands fall apart within a fortnight as the people flee en masse. Puritans simultaneously fail to assassinate Kira but leave him badly wounded. His injuries trouble him for the rest of his life.
+71: Lamy, Polka, Botan, Nene, and Aloe are created.
+72: Attempting to breach the fog to secure lands for her people, Aloe disappears on an expedition that is lost with all hands. Her lands decay within a year, seemingly confirming her death. 
+73: Mori, Gura, Kiara, Ina, and Amelia are created. 
+78: His health failing him and in terrible pain day after day, Kira asks Yagoo to be granted death in exchange for sparing his people. Yagoo agrees. Kira’s ever youthful body lies in state in a holy mausoleum to this day as a pilgrimage sight known as God’s Grave, never decaying. 
+78: For the crime of conspiring to destroy Yagoo together and replace him with a new system, he enacts judgment upon Doris, Rosalyn, Artia, Civia, Spade, and Yogiri. Artia, the ringleader of the plot, alongside Spade and Civia, are destroyed instantly and their lands reduced to ash. The others struggle to survive the slow and torturous death Yagoo inflicts on them with unrelenting hordes of monsters. He tells the others not to interfere, and witness their judgment. Should they survive the trial, they will be allowed to live. 
+79: Ollie, Reine, and Anya are created. 
+79: Doris falls to the hordes of savage beasts, torn limb from limb. Her lands are depopulated.
+80: Yogiri begs for mercy and receives none, being crucified by the hordes of monsters and puritan fanatics that have joined them. Last to fall is Rosalyn, who burns herself to death in her library as her cities smolder. Both countries become blighted wastelands of nothing but extinction. 
+93: IRyS is created.
+93: Growing tired of the world, Coco asks Yagoo to depart this world in peace but spare her subjects. He grants this request. Rumors persist of a purple haired swordswoman with a similar personality that roams the lands…
+96: Sana, Baelz, Fauna, Kronii, and Mumei are created. 
+102: La+, Iroha, Lui, Chloe, and Koyori are created. 
+108: For the crime of attempting to use necromancy to resurrect her fallen siblings, Rushia and her lands are purged. A foul cloud of plague washes over the Uruha Highlands and spreads to neighboring countries. 
+110: Kobo, Kaela, Zeta, Fuma, Rio, Uyu, and Gamma are created. 
+117: Having grown dissatisfied with the world, Sana requests Yagoo’s permission to leave to explore the stars. He agrees. The inhabitants of her land bid her farewell, knowing they would never see her again. Sightings are sometimes reported in the night sky by observatories of a massive goddess adrift in the far depths of outer space. 
+118: Regis, Vesper, Axel, and Magni are created.
+129: Bettel, Hakka, Flayon, and Shinri are created.
+142: Shiori, Bijou, Fuwawa, Mococo, and Nerissa are created.
+144: Current year. 
+
+![Map of the Known World](https://i.4cdn.org/vt/1691213703644852.png)
+
 ##United Stellar States of Tokino (U.S.S.T.)
+
+![Tokino Sora](https://static.wikia.nocookie.net/virtualyoutuber/images/2/24/Tokino_Sora_-_2020_3D_Model_06-1.png/revision/latest?cb=20210915132954)
 
 ##Leader: Tokino Sora
 
 Size: 25’000 km2
 
-Population: 3.92 Million 
+Population: 4.42 Million 
 
 Founding Date: Year 1
 
@@ -44,11 +100,13 @@ Nevertheless, her reputation is such that such incidents rarely happen, especial
 
 ##Techno Union of Roboco
 
+![Roboco](https://static.wikia.nocookie.net/virtualyoutuber/images/c/cd/Robocosan_V3_Full_Body.png/revision/latest?cb=20221212195900)
+
 ##Leader: Roboco-san
 
 Size: 25’000 km2
 
-Population: 2.86 Million
+Population: 3.12 Million
 
 Founding Date: Year 13
 
@@ -83,6 +141,8 @@ Leader Powers: Roboco, aside from being a robot, possesses the capability to cre
  In coordination with her robotic body, she is more than capable of using this in conjunction with upgrades to become an unstoppable machine on the battlefield. The Techno Union has been facing frequent incursions since day one, and its wastelands offer excellent breeding grounds for monsters, so Roboco is often busy protecting her lands seemingly every week. 
 
 ##Nocturnal State of Yozora
+
+![Yozora Mel](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e8/Yozora_Mel_Full_Body.png/revision/latest?cb=20230610065837)
 
 ##Leader: Yozora Mel
 
@@ -124,4 +184,8 @@ Leader Description: Yozora Mel, beloved by her country (and don’t you dare let
 
 As a vampire however, and especially a powerful one like her, she must occasionally drink blood. While she tries to suppress this urge as much as possible, every now and then a human sacrifice is required. It is considered a great honor among the Nocturnal State to be eaten by Mel, to the point that people opt in for selection, and being selected is seen as the equivalent of winning the lottery. Outsiders wonder if perhaps Mel has used hypnosis on her population to make them love her.
 
-Leader Powers: As a vampire, Mel has all of the powers expected of one in such a role. This includes flight, blood-draining, incredible strength and endurance, and the ability to turn into animals such as bats. Other powers such as hypnosis are also rumored but not confirmed, and Mel has also practiced some level of hemomancy in order to bolster her powers.
+Unlike many of the other demigods who rule their lands, Mel is not a terribly ambitious one. She is quite content with what she has been given. She also does not tend to interfere in the administration of her nation either, leaving this to those she has governed. Mel does not desire a grand state, but simply a functional one, and despite the Nocturnal State’s poverty she seems content. 
+
+Leader Powers: As a vampire, Mel has all of the powers expected of one in such a role. This includes flight, blood-draining, incredible strength and endurance, and the ability to turn into animals such as bats. Other powers such as hypnosis are also rumored but not confirmed, and Mel has also practiced some level of hemomancy in order to bolster her powers. The practice of hemomancy is currently banned to the general public, and no magical studies exist en masse within the Nocturnal State. 
+
+Although not giving the appearance of one who would seem a strong fighter, Mel has proven time and again she is not to be trifled with. A popular account of her tearing a rogue vampire in half with her bare hands in one, single rip, is often used as an example of her innate strength.

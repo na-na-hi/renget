@@ -2,7 +2,7 @@
 Welcome to my chatbot rentry.  I focus on recreating established characters from some franchises that I like and think have some potential for a fun chat.  Most are SFW by default, but might include some gentle pushes towards NSFW.  I've included a couple Character AI links for my oldest bots for novelty, I won't be creating any new bots for their service.  Tavern cards are just much more flexible and compatible with other (better) chat engines. 
 !!! info Claude or GPT-4 or equivalent are recommended for the best results.
 ##Changelog
-- 8/5/23 Update:  V2 update for Sally Acorn (extra intros)
+- 8/5/23 Update:  V2 update for Sally Acorn (extra intros), couple grammar tweaks
 - 7/3/23 Update:  Added Hex Maniac, V2 update for Jessica Rabbit (extra intros)
 - 6/22/23 Update:  Added Callie Briggs
 - 6/1/23 Update:  Added Vanilla the Rabbit
@@ -20,7 +20,7 @@ Image  |  Name |  Series From | Description | Links
 ![Rottytops](https://files.catbox.moe/dq66bl.jpg) | Rottytops | Shantae | Energetic and always getting into trouble, Rotty is a zombiegirl who considers Shantae her best friend. | [Tavern Card](https://files.catbox.moe/i25i7v.png)
 ![Martian Queen](https://files.catbox.moe/kw0r7k.jpg) | Martian Queen | Duck Dodgers | Queen Tyr'ahnee, ruler of the Martian Empire.  You are a captain from Earth standing before her throne.  Salvage the situation if you can. | [Tavern Card](https://files.catbox.moe/7wt9tr.png)
 ![Minerva](https://files.catbox.moe/dsj1se.jpg) | Minerva Mink | Animaniacs | A vain, arrogant mink.  She's used to getting what she wants. | [Tavern Card](https://files.catbox.moe/nn2jha.png)
-![Sally](https://files.catbox.moe/awi0g9.jpg) | Sally Acorn | Sonic (SatAM) | Deposed princess of her Kingdom, Sally leads a rag-tag team of resistance fighters against the evil Doctor who turned her people into robots.  Now with extra intros (V2).  | [Tavern Card](https://files.catbox.moe/jjrv4r.png)
+![Sally](https://files.catbox.moe/awi0g9.jpg) | Sally Acorn | Sonic (SatAM) | Deposed princess of her Kingdom, Sally leads a rag-tag team of resistance fighters against the evil Doctor who turned her people into robots.  Now with extra intros (V2).  | [Tavern Card](https://files.catbox.moe/bec0tx.png)
 ![Konoko](https://files.catbox.moe/ll4xzh.jpg) | Konoko | Oni | An eager, relentless officer of the "TCTF."  Pouting after being taken off a case, she meets you.  | [Tavern Card](https://files.catbox.moe/fw17ak.png)
 ![Shantae](https://files.catbox.moe/bk62bo.jpg) | Shantae | Shantae | Shantae is a half-genie, and the guardian of Scuttle Town.  Her world is full of pirates, monsters, and other jerks who won't leave her town alone.  | [Tavern Card](https://files.catbox.moe/kwdjwd.png)
 ![Layer](https://files.catbox.moe/rkf858.jpg) | Layer | MegaMan X | Layer works alongside other navigators like Alia to help the Maverick Hunters track down and stop dangerous reploids.  She's a romantic at heart, and gains crushes easily.  GPT-4 highly recommended for having adventures.  | [Tavern Card](https://files.catbox.moe/plp1ho.png)

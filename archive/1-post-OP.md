@@ -10,11 +10,9 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Upcoming Stream(s)
-https://www.youtube.com/watch?v=5ExD43Qo_9s
-https://www.youtube.com/watch?v=GiAWeVZAXIQ
 \>Past Streams
-https://www.youtube.com/watch?v=9YsuHwyYGes
+https://www.youtube.com/watch?v=GiAWeVZAXIQ
+https://www.youtube.com/watch?v=5ExD43Qo_9s
 
 \>First cover - Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
 https://music.youtube.com/watch?v=RWU3o_kDixc
@@ -31,10 +29,15 @@ Twitter: https://twitter.com/nerissa_en
 Art Tag: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Previous thread: >>
 
+A word of advice: as per >>1 be smart and don't engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
+
+----------
+
+!!!Warning Second Post
+
+
 \>Thread Tools
 Current OP Template
 https://rentry.org/1-post-OP
 Joint /ope/rations Center (/ope/'s library that is still relatively bare-bones - also needs an official name)
 https://rentry.org/joint_operation_center0
-
-A word of advice: be smart and don't engage in off-topic or blatant bad faith arguments. To keep peace, just do the necessary you see fit: ignore, hide and report is the course to go.

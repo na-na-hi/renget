@@ -1,7 +1,9 @@
 #Welcome to the Citadel!ヽ(o＾▽＾o)ノ
 
 Heya! It's me. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
-Status: Yeah.
+
+Del Status: something unfortunate involving my housing situation happened. won't be able to do anything for a while since I don't have access to my computer. 
+
 [TOC3]
 
 ##Characters

@@ -21,6 +21,9 @@ Likewise, if a thread doesn't have a "new thread" link at the bottom, then it li
 
 LP summaries are color coded - green for completed, blue for ongoing, yellow for on hiatus, and red for softlocked/dropped.
 
+**by the way if 4chan is broken/down, then join this cool mega.nz chatroom, you need an account but you probably have one anyways if you're using that site to send things via links or if you're keeping your old backup archive**
+https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
+
 [TOC2]
 
 ##Rejuvenation V13
@@ -371,4 +374,5 @@ https://arch.b4k.co/vp/thread/54158071/ 6 oh shit /vp/ is planning to get shit d
 https://arch.b4k.co/vp/thread/54163030/ 7 self derailing plot
 https://arch.b4k.co/vp/thread/54168509/ 8 man this chapter sucks
 https://arch.b4k.co/vp/thread/54178952/ 9 fucking nothing 'cept wack
-https://arch.b4k.co/vp/thread/54188603/ 10
+https://arch.b4k.co/vp/thread/54188603/ 10 fucking niggers
+https://arch.b4k/co/vp/thread/54194744/ 11 bugs in anus

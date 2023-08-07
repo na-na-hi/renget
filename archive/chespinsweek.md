@@ -257,6 +257,219 @@ As I drift off to sleep, I think back to the things Cyndaquil said, and what I d
 
 I hope I sent him to the infirmary.
 ####Day 2:
+“What?! You CAN'T be serious!!”
+
+I find myself stood before the guildmaster, who just moments ago gave me an unthinkable task for today. “Surely there has to be someone else that can do this, literally ANYBODY else but me!”
+
+“The outlaw is a dangerous one and everybody else is on their own jobs for the day. Team Misfits will surely need your help, kyukyu~” He twirls a wand around, as if to rub it in. “Besides, you should be able to easily take on that Marshtomp and bring them to justice~”
+
+“But...They're the dregs of the guild! The ones that give us a bad rap! The reason the feds were so antagonistic towards us! The ones with that SICKO Cyndaquil!”
+
+“Well, that's the way the cookie crumbles. Speaking of which, looks like they're here~!” I turn around, my heart sinking at the sight I see before me. A Phanpy with a Torchic walk up to me, accompanied by a Totodile drinking something out of a bottle as well as that degenerate from last night with a bandage around his head. This group is such a downgrade from Wooper that it borders on parody. I look back at the guildmaster, but he's already gone.
+
+The Phanpy looks me over. “You're the one that put him in the infirmary?”
+
+"I don't know what he thought would happen," the Torchic says bluntly. At least these two seem somewhat sane.
+
+Cyndaquil looks at me, without a hint of shame or remorse on his face. “You know, I thought if I was ever going to go to the hospital for asphyxiation that it would be self-inflicted.” Totodile merely stands nearby, drinking from one of his many bottles.
+
+“... You've got the right idea, Totodile. What do you have?” I ask, eager for anything that'll numb the pain of being around Cyndaquil.
+
+“Whiskey, vodka, scotch, that kinda stuff!” Totodile holds a bottle out towards me. “Want some?”
+
+“Too strong for me.” Shaking my head, I run to my room, grabbing a couple Gummi drinks. I walk back to the others, taking a long sip from one of the bottles. “... Let's just get this over with. Where's this outlaw hiding so I can hurry up and feed him a Solarbeam? I got things I'd rather be doing like NOT hanging out with Cyndaquil.”
+
+“Hey, I'm not that bad! You could come to my room where I could show you my s-OUCH!”
+
+Phanpy had smacked Cyndaquil in the back of the head with his trunk. “Keep it to yourself before he puts you in the hospital again.” 
+
+“Okay, okay, sheesh... did you have to hit my bruise?” Cyndaquil rubs the back of his head, wincing in pain.
+
+Torchic looks at me, rolling her eyes. For a moment, we share a silent moment of understanding. Opening her beak to speak, she says, “The outlaw is holed up somewhere on Mt. Bristle. It's a couple of hours away, but if we leave now we might be able to get back without having to set up camp.”
+
+I nod. “Alright, let's get moving then.” I finish off my drink, stuffing the empty bottle back in my bag.
+
+-----
+https://www.youtube.com/watch?v=7Musoke_ZTg
+
+The five of us begin the trek across the plains towards Mt. Bristle. The drink from earlier does its work, washing away my (merited) fear of being stuck on the same team as Cyndaquil. Though I only had one drink, Totodile seems to already be working on his second drink, showing no signs of stopping.
+
+“Do you always drink this much?” I ask.
+
+“You betcha! Makes trips a lot more fun!” Totodile shows me another bottle from his bag. “You sure you don't want one?”
+
+“~~More like makes trips with Cyndaquil more tolerable... ~~I'll stick with the Gummi drinks.”
+
+“Please don't get completely wasted until after we bring the outlaw in, Totodile.” Torchic says.
+
+I let out a small sigh. “So apart from burning forests down, how good are you guys at fighting?”
+
+“I'm a lover, not a fighter,” Cyndaquil says. “But if we have to fight, I know how to use items.”
+
+“Torchic rides on my back and shoots fire at foes, while I charge the enemy head on,” Phanpy says.
+
+“I can shoot water at them, and there was also that time I smashed a bottle over someone's head!” Totodile says, jingling his bag of bottles.
+
+While none of them sound even remotely as capable as Wooper, I find myself liking how Totodile thinks. “I smashed a bottle over a chiller's head once myself. ~~Score one for the good guys.~~”
+
+Torchic gives me a curious look. “... Chiller? Oh, right, you're the guy that really hates ice.”
+
+“You don't know the half of it,” I grumble. “At least this mission doesn't involve one as an outlaw. Anyways, I've got vines, Solarbeams, and sharp quills.”
+
+“Then we should be able to make short work of the outlaw with your help,” Phanpy says. “Speaking of which, we're almost there.”
+
+I pick my head up, the base of the mountain only a few minutes away now.  The sight of Mt. Bristle fills me with anxiety, not because of what we might find on it or how the outlaw will fight, but because of how my current 'team' may fight.
+
+-----
+
+The five of us begin our ascent up the small mountainside. The crag and rocks form paths and 'rooms' as we work our way higher. I let my vines out, keeping them at the ready in case I need to grab or throw some dungeonmon. The four give my vines curious glances, but don't comment further on things, returning their focus to the dungeon. It isn't much longer before we find our first foes, two Starly.
+
+Morbidly curious, I say, “Let's see how you guys fight.” Phanpy nods, charging the Starly on the left. The bird flies out of range, but Torchic keeps shooting small fireballs, eventually scoring a hit. The Starly falls out of the air, landing before me. I kneel down to punch it in the face, my fist crackling with electricity as the foe poofs into dust. Out of the corner of my eye, I spot Totodile getting smacked by his enemy's wings as he tries to reach into his bag.
+
+“Need a little he-”
+
+I'm cut off by the sound of shattering glass as Totodile smashes an empty bottle over the Starly's head, the opponent dissolving into nothingness. “All good here!”
+
+“Not bad,” I say. “From what I've heard of you guys I was expecting a lot worse.”
+
+“Gee, thanks.” the Torchic replies, annoyed.
+
+Realizing what I said, I respond with, “I-I didn't mean it like that!”
+
+“We've done harder missions than this,” Phanpy says.
+
+Totodile pulls out another bottle, taking a long sip from it. “C'mon, Chespin! Lighten up, live a little!”
+
+“It's okay, Chespin. Maybe after this I could give you tips on talking to chicks,” Cyndaquil says.
+
+I clench my fist, letting it spark again. Though I'm extremely tempted to hit him, I know it'd just make the mission more annoying if we had to lug around a knocked out teammate. Taking a deep breath, I say, “... We had better keep climbing.”
+
+As we progress, we take on more Starly, as well as some Spinarak and Machops. Further on, we spot a room with several orbs and some cash scattered across the floor. I shoot out my vines, pulling the others back before they can enter it. “Look out, that room's a trap!”
+
+“We know,” Phanpy says. “But the orbs look helpful, and the enemies we've fought seem weak enough.”
+
+“And the cash'll let me get more drinks!” Totodile says, taking a swig.
+
+“Besides, there's no other way forward,” Cyndaquil says in a rare showing of sanity.
+
+“I hope you guys know what you're doing...” I say, retracting my vines and bracing for the inevitable.
+
+-----
+
+The instant we enter the room, roughly a dozen enemies leap out from behind the rocks, surrounding us. To my left, Phanpy charges a Machop head on as Torchic shoots tiny fires at the Spinarak nearby. Totodile shoots water at a couple of Geodude while Cyndaquil hides in the back and throws rocks at a few other foes. As I pull in a Starly of my own to slam my electrified fist into, I find myself thinking that maybe they aren't that bad at dungeon dives after all.
+
+I hear a thud nearby, along with an “Oof!” Looking over, I notice that Phanpy had tripped over a hidden trap, sending Torchic flying. Both of the others run over to help, getting themselves surrounded even more. Well, that thought didn't last long.
+
+“What are you guys DOING?!” I yell as I smack a Geodude with my vines.
+
+I hear somebody yell “Screw this!” as I see a blue light shine from the cluster of Pokemon. A bluish light surrounds the dungeonmons, causing them to vanish mere seconds later! Just like that, all the foes are gone, Cyndaquil standing there with a shattered orb before him.
+
+“~~Surprised you even know how to use those things...~~ That looked more like you warped them away than beat them.” I say. I reach a vine over to some of the cash lying on the ground, pocketing it for myself. It's only fair that I get some small cut of what we find.
+
+“Hey, a win's a win.” Cyndaquil says, pocketing an orb with a picture of a sunny sky on it. The others grab up the rest of the loot as well, and we continue onward.
+
+-----
+
+Near the summit, we spot a campfire with a strange Pokemon near it. They have several fins along their bluish body, and pointy orange gills on the sides of its head. I can also see a black scarf tied around its neck, as well as a blue-orange bracelet around its right arm. Hoping to get the drop on them, I hold my hands skyward, focusing my attention on the sun. My body begins to glow a bright green... and the light alerts the outlaw! I try to shoot a beam at them, but they leap out of the way just in time. I curse to myself, this could have been over just like that!
+
+“Ah, another gang of do-gooders trying to get me? Well...” The outlaw grabs their bag, slinging it around themselves. “Come and get me! You've got no chance against Marshtomp the Malicious!”
+
+The villain fires a jet of water at us, the attack barely missing as all five of us leap out of the way. Trying to keep my voice low, I say, “Distract him so I can get a good hit on him! Do anything it takes!”
+
+Phanpy nods, charging them head on, zigzagging as he closes the distance. Totodile runs just behind him, while Cyndaquil hides behind a rock and takes potshots with more rocks. I remain stood in place, charging up energy for a second shot. All I need is one good hit...
+
+Phanpy narrowly dodges one final blast of water, slamming into the Marshtomp head-on! The impact is so forceful it causes an explosion! My jaw drops upon seeing this, and I yell out “Phanpy's that strong?!”
+
+I hear Cyndaquil's voice from nearby. “He's never done anything close to that before, something ain't right here.”
+
+As the dust clears, I spot Torchic and Phanpy scattered across the ground. Marshtomp stands there with a smirk across his face, barely harmed. “Ahaha! First time seeing an Explosive Band, huh?” The outlaw holds his hands out, waving towards himself. “C'mon, just TRY to make contact with me! Take your best shot, if you dare.”
+
+“Take my best shot?” I yell. “Alright, FINE!” With a shout, I unleash a beam of energy directly at him! I hear a faint gasp just before the beam hits home, kicking up a cloud of dust as it collides with the foe. Exhaling, I say, “Alright, that should be all we gotta... do...”
+
+The outlaw still stands, somehow seeming even less harmed than before! He raises an arm up, his bracelet shimmering in the sunlight. “Thanks to this bad boy, all your little attack did was heal me. I have no weakness! You should all just give up and go home, you don't have a chance against me!”
+
+“~~of all the rotten luck...~~ We gotta get that bracelet off of him!” I yell. “Keep him busy!”
+
+As fire, water, and rocks fly through the air, I look in my bag for something that'll help. Heal Seed, no... Pecha Berry, no... Quick Seed... yes! Stuffing it into my mouth, I feel energy flow into my limbs. I circle around the Marshtomp, who is too busy trying to keep up with the barrage of small fireballs, rocks, and empty beer bottles to keep track of me creeping closer. Hiding behind a nearby rock, I snake my vines out towards the outlaw... who turns around just as they reach him! Thinking fast, I restrain his left arm with one vine, while stealing the bracelet from the other arm with my other vine! I rush to pocket the item, the effects of the seed beginning to wear off.
+
+“I-Hey! Give that back! I stole that fair and square, you can't just go stealing it from m-OW!” One of Cyndaquil's rocks finally meets its mark, bonking him in the head. 
+
+The bad guy's concentration momentarily broken, Torchic and Totodile unleash their attacks into them! Noticing an opening, I leap out from my hiding spot, giving it all I've got with my vines! As I begin to beat our foe into a corner, I see his scarf begin to glow orange! I quickly turn around and run, but end up blown forward by the explosion! I tumble across the rocky ground, wincing as I stand back up, legs wobbly. My 'armor' seems to have helped, but it looks like the other three fighters got caught in the blast. Torchic lies on the ground, while Phanpy and Totodile seem to be having trouble standing.
+
+“Now I've got you guys!” The outlaw laughs, following with, “Now, to take out that annoying moron with the vines!” He inhales, and just as I manage to stand fully upright, he shoots something truly horrifying. An icy beam of energy.
+
+“NOOOOOOOOOO!” I cry out in pain and horror as the beam hits home. But this time is worse than all the others. I try to move, but I can't. Everything is agony. I'm frozen in a block of ice, and all I can do now is watch. Is this how I'm going to die? Fear dominates my mind as I think back to Wooper. What'll he do if he comes back to the guild and I'm gone?
+
+I... I can't let that happen, I have to try and endure! All I can do for now is watch as the outlaw digs out an Oran Berry from his bag, eating it. He fires a blast of water at Phanpy, slamming him against a wall. Out of the corner of my mind I can spot Cyndaquil creeping closer, using me as cover... or at least I hope that's what he's doing. I see him reach into his bag, pulling out the orb he picked up early... Wait! That's a Sunny Orb!
+
+Cyndaquil smashes the orb on the ground, causing bright sunlight to stream into the arena. Even though my icy jail, the light shines onto me, and I focus my entire being on the light. My body begins to glow green once more... will this really work? Cyndaquil throws more rocks at the villain, but he finally takes a direct blast of water! He tries to stand back up, but falls.
+
+“Ahaha! Five of you couldn't even take on one outlaw?” The Marshtomp heads for Cyndaquil's bag. “Pathetic. Just means more loot for me. He begins rummaging through, looking for valuables. 
+
+The green glow is all-encompassing now, the crook is in front of me and distracted, this is my chance! I focus all of my energy into my hands, warming them up. Finally, my beam of light is unleashed, shattering the block of ice entirely! I hear a faint “Oh n-” from the bad guy as my beam hits home, the attack sending him flying into a rocky outcropping hard enough to shake the arena! I gasp for breath as warmth slowly returns to my body, the agonizing pain subsiding as I stuff my face with Oran Berries.
+
+The others manage to pick themselves back up, but the outlaw looks like he's down for the count. I throw berries to the others to help them, and the five of us surround the crook.
+
+“Looks like we've won,” Phanpy says.
+
+I want to celebrate, but deep down, I'm enraged. This enemy FROZE me! My hands begin to shake as I look at the downed foe. Stealing his exploding scarf, I say, “Oh, really? Let's make SURE!” I punctuate my comment by kicking the Marshtomp in the stomach, eliciting a low groan of pain from them. “How do you like that, huh? This'll teach you to freeze me!”
+
+“Relax, Chespin, we won!” Totodile puts his hand on my shoulder. “You know, drinks usually help warm me up when I'm cold. Want a sip?”
+
+I open my mouth to say no, but I hesitate. “... Screw it, why not.” I swipe the booze from Totodile's hand, chugging the small remainder of it down. I cringe at the horribly bitter taste, but it does make me feel a little warmer.
+
+“Alright, Chespin!” A smile crosses Totodile's face. “We oughta go drinking some night!”
+
+“Maybe that wouldn't be a bad idea...” Holding the bottle in my hand, I get an idea. “Hey Totodile, wanna see something cool?”
+
+“Totally!”
+
+Gripping the bottle in a vine, I stretch it up higher and higher into the air... before slamming the bottle over the Marshtomp's head. “Take that, you good-for-nothing thieving **CHILLER.**”
+
+“... Chiller?” Torchic gives me a strange look. “He wasn't even an ice type.”
+
+“He was every bit as bad as one. He got what he deserved.”
+
+“We had better get this guy back to the cops,” Phanpy says.
+
+-----
+
+We make the trek back to Capim, the still KO'd outlaw riding atop Phanpy. Along the way, I realize something. I only broke out of the ice because of that Sunny Orb. The one that... Cyndaquil used. It just had to be him, didn't it?
+
+I take a deep breath, bracing myself. “... Hey, Cyndaquil? Uh... Thanks for using that Sunny Orb. I'd probably still be frozen if you hadn't done that.”
+
+“You're welcome. It also helped us beat the bad guy.”
+
+“Yeah... Thanks for that, too.”
+
+“So, now that I've helped you out, maybe you could return the favor and come pick up chicks with me later tonight? You could learn the tools of the trade from a master pickup artist.” Cyndaquil gives me a little smirk. “Or we could just have a lad's night out, just the two of us.”
+
+“I think I'd rather remain encased in ice,” I say bluntly. “You seriously can't resist taking any chance you get, can you?”
+
+“You miss 100% of the shots you don't take, Chespin.”
+
+I roll my eyes. “From the sound of things it seems like you miss 100% of the shots you *DO* take.”
+
+“You should learn to live a little, Chespin. Come join Team Onlyphans on a night on the town sometime.”
+
+His team name catches me completely off-guard. I stifle a chuckle at Cyndaquil's made up name, saying, “I thought you guys were Team Misfits?”
+
+“I like my name better,” Cyndaquil says with a smile.
+
+I glance over at Torchic, who says, “It's a good thing he doesn't get to decide those things.”
+
+-----
+
+The five of us dump the outlaw off at the sheriff's office, a Druddigon there handing us our cash reward Taking it back to the guild's dining hall, Phanpy splits it into 5 sections, sliding one towards me. “Couldn't have done it without you today, Chespin.”
+
+“Thanks.” I pocket the coins, wondering what I'll buy with them. “Well, today has been... interesting. But a team like this is a little too... big for what I usually work with. It's usually just me and... Wooper... He's off with his parents on some expedition.”
+
+Torchic takes note of my tone of voice, saying, “I know you're probably worried about him, but if a team like ours can manage to tackle outlaws and missions, then Wooper will be fine.”
+
+“I hope you're right, can't stop worrying...” Letting out a yawn, I say, “I had better get to bed now, good night.”
+
+The others wave me off, Cyndaquil surprisingly not slipping one final comment in, much to my relief.
+
 ####Day 3:
 ####Day 4:
 ####Day 5:

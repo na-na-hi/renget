@@ -1,5 +1,6 @@
 ######Phanpy-anon and /pmdg/ in Treasure Town
 Followed by: [The First Day on the Job](https://rentry.org/pn2fz)
+>Note for future readers: Much of this story was written during the first few threads of brainstorming, before a location for the guild was picked. The follow up stories to this spend some time bringing Phanpy's team into the same location as the rest of the guild.
 
 Chatot paced back and forth in front of my Guildmaster's desk.
 

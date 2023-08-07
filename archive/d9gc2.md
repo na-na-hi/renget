@@ -60,3 +60,9 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 
 **Day 15 - 2023-08-02**
 [Got a cold.](https://twitter.com/nanashimumei_en/status/1686634182070726656)
+
+**Day 18 - 2023-08-05**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D| 【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! #itsMeiBday | [Link](https://www.youtube.com/watch?v=YAcX5PdvJYc)|First time celebrating birthday in Japan. Prerecorded duets and off collab in the latter half of the stream.|
+|Kiara|【GTA IV】NEW HOME IN NEW HOOD anyway lets go bowling| [Link](https://www.youtube.com/watch?v=Woa7VSeNqZ0)| [Timestamp](https://www.youtube.com/watch?v=Woa7VSeNqZ0&t=14483); Talked about a date with Mumei and Bae which Mumei mentioned in snippets before.|

@@ -4,6 +4,7 @@ Translation by Aki.
 Patch Note: https://rentry.co/69log
 Sirin Skill: https://rentry.co/sirinmmg
 Sirin Gears: https://rentry.co/siringears
+Elysian Realm https://rentry.co/er69
 
 [TOC]
 

@@ -1,97 +1,115 @@
-# （重口慎入！后面有小作文）黑裤袜苇草被极端残酷虐待成重度残废
+#Intro to the Clover Guild (F.A.Q.)
 
-苇草没抽出来只能拉出来宰了……
-注意画的比较重口味，比较恶心，不喜慎入
+[TOC2]
 
-大概小剧情
+***
 
-某人对苇草内心极其愤恨，找一堆人把她绑架起来拉到废弃厕所里残酷虐杀了，先捅爆裤袜裆部女性器官，让她瞬间去势，然后切掉两个乳房把女性特征全部去除
+##Good lord what is happening in this thread?! Are you roleplaying?!
 
-之后就是挖眼殴打开颅吊首枪击刀切加断肢，一套流程完事她竟然还活着，就直接丢在那里自生自灭吧…………
+~~Aurora borealis~~
+It's not actual roleplaying, but collaborative writing. The gist of it is that we imagine what would happen if a bunch of anons got transported to the PMD world and decided to form a guild (Clover Guild). Then, we create characters, write stories, and make art about them. We also discuss the setting and what kind of shenanigans these characters would be involved with. It's similar to how the SCP Foundation community started, if you're familiar with that.
 
-谁捡着算谁的把，估计成这个模样也不会有人看得上了……
+***
 
-==========
-tnnd，周末闷声画了，这个坏女人骗我钱财，回头看口味感觉有点过了，自己看了那个胸和脸都有点恶心…可能和最近不小心看了血腥漫画有关系…以后不再看了…勿喷
+##Interesting... I want to learn more.
 
-编辑==
-画完今早就抽出来了……看来还是有点震慑作用…
+You can go [here](https://rentry.org/vpmdclover) to read some of the stories written by us and get a feel of what this is all about.
 
-编辑== =========
+***
 
-突然来感觉了，简单续写一点正常向小作文yy一下
+##There are so many stories! Where do I even start?
 
-苇草小姐被残酷虐待后不知几天，她仍然靠着强大的生命力苟活着，舌头被拔掉让她无法发声，她只能在肮脏恶臭的废旧公厕角落里痛苦的抽动
+It's recommended to start with [Gathering](https://rentry.org/h3fdu) as it is the "origin story" of the Clover Guild and is where several of the characters meet each other.
 
-这几天她身边来了至少十几人，她能感觉到，虽然全身剧痛意识濒临消失，但她还是能感觉到这样的自己被强奸了。虽然身体残破如同丢掉的破洋娃娃，但毕竟她的下身印花裤袜美腿还在，很多流浪汉和犯罪人员对她的现在的恐怖外貌并不在乎。
+After that there are some good options:
 
-好多人进来把手伸进她的裤袜里狠狠的抠着她的下身，她能大概感觉到，但是非常麻木，她怀疑自己已经半瘫痪了。
+- Read them in the [order of publication](https://rentry.org/vpmdclover#list-of-stories-sorted-by-time-published).
+- Read them in the chronological order shown in the [story timeline]( https://rentry.org/vpmdclover#story-timeline). (Some stories aren’t lsited there yet)
+- Got to the [list of stories sorted by author](https://rentry.org/vpmdclover#list-of-stories-sorted-by-author), pick an author, read their stories, then move to another author.
 
-就这样浑浑噩噩的过了不知多久，由于剧烈疼痛以及重度感染，苇草小姐的意识彻底消散了，变成了一个类似半植物人的状态。
+***
+ 
+##Sounds fun! How do I join?
 
-“喂！老大！我们找到她了！口区……………”
-一个缠着警察制服的男人急匆匆的走进厕所，然后在看到眼前景象后剧烈地呕吐
+Just imagine what Pokémon you would want to be transformed into and come up with a story for them. Or, if you don't want to make a self-insert, you can create a character and come up with a personality and traits.
+You also have the option of not creating any characters and just draw/write stuff involving the existing ones. 
 
-眼前的苇草小姐散发着难以言语的混合恶臭，漂亮的裙子上全是污血和蛆虫，她的全身被绑的有些诡异，两腿中间散发出一股粪便的味道
+***
 
-当然最令人作呕的就是她被毁的面目全非的脸，能看出来她的面相之前是一个顶尖的美少女…
+##But I suck at writing/drawing!
 
-里面跟上的几个警察和法检人员刚看到的第一反应也都是剧烈的呕吐，警长模样的男人忍住厌恶先发话了
+==**That's fine!**==
 
-“喂！…吉米，你…去看看尸体的情况……呕…”
+We have authors/artists with varying levels of skill, and even people who never wrote or drew anything before taking part in these threads. We also have people who only write and people who only draw. This is all for fun and we enjoy seeing different writing/drawing styles.
 
-法医吉米相对淡定很多，小心的过去查看尸体的状况
+If you've never written a story before, now is a good time to give it a try!
+If you've never drawn anything before, just grab a piece of paper or download a drawing program like Krita and give it a go! One anon here made a [Sketching Tutorial](https://rentry.org/CloverGuildDrawingTutorial).
 
-但突然之间苇草小姐的头转了一下，直接给吉米医生吓得尿了出来
+-> **Above all else, this image is how we feel about new authors/artists:** <-
+-> ![cakes](https://i.imgur.com/0j5BQ73.png) <-
 
-“呃呃……啊…%^*$@”
+***
 
-眼前的“尸体”不仅动了，还发出微弱的哼哼声
+##I'm having a hard time coming up with a character!
 
-“长官！她还没死！”
+The first thing you should keep in mind is that **this is 4Chan**. What this means is that you don't have to feel pressured into creating super serious and deep characters. To give you some examples of how *unique* our cast of characters is, we have:
+- A coomer Cyndaquil.
+- A drunkard Totodile.
+- A former McDonalds employee Numel who can't leave old habits behind.
+- An autistic Togetic.
 
-警察们面面相觑，只得招呼所谓的尸检人员给苇草小姐运上了担架抬了回去
+That's not to say that you have to make a meme-spewer joke character. The point is that **you can make whatever kind of character you want!**
 
-经过几十小时的紧急处理和手术，苇草小姐活了下来
+Now for some tips:
+- You don't have to make only one character. Some authors create multiple characters to use in their stories (usually Character + Partner).
+- The characters don't have to be part of the guild. We have a Linoone and a Delibird who work in postal services, and a Noivern who is part of an independent guildless team.
+- The characters don't have to be former humans. To give you some examples, one anon's character is a cook Munchlax, while another anon's is an aura specialist Combusken, both being natives to the PMD world.
+- Making an OP flawless character can make it difficult to write about them in the long term. On the other hand, giving them flaws and goals can open up many story possibilities.
+- There is no set rule against having your character be a legendary/mythical Pokémon, but be aware that it takes a skilled writer to make the character not come off as a "muh super special OC" unless we're talking about the "low tier" ones, like Shaymin or Manaphy.
+- We have an [idea bin](https://rentry.org/cloverIdeabin) where people put ideas that they don't feel like executing or don't feel competent enough to pull off. Reading through it might give you some inspiration!
+- Some of the characters in the list are inactive/undeveloped and not used in stories at all. So, if you want to use a certain species that is already in the guild you can ask around to see if that species is "free to grab". But there's no rule against the guild having more than one character of the same Pokémon species, so don't stress over it.
 
-警长看了下苇草小姐的最终诊断报告
+***
 
-“苇草小姐目前的状况综合评估为一级重度残废，具体表现为，双目缺失，头骨八分之一缺失，脑损伤，舌头缺失，牙齿丢失四分之三，双侧乳房缺失，子宫卵巢膀胱缺失，脊柱第三节以下受损，双臂从大臂以下缺失，左侧身体有8处枪伤，右侧身体有8处刀伤贯穿伤，除此之外全身骨折39处，其中盆骨颈骨和耻骨粉碎性骨折…………”
+##I want to include a character from another anon in my story. Is that okay?
 
-看到这里警察抬起头停顿了一下
+It’s more than okay. People here love it when their characters make cameos in other people's stories, and we haven't had any problems regarding that yet!
+Just avoid adding them into questionable stuff like edgy or sexual situations (unless it's Cyndaquil).
 
-“目前看起来只有腿部和脚部没有受伤，此外受害者下半身不遂，目前有大小便失禁的症状和应激反应障碍”
+If you are worried about writing someone else's character wrong, you can ask the author for pointers like "How would X act in this situation?"
+Usually, you can find several of them hanging out in the Aggie drawboard.
 
-“真的太凶残了，到底是怎样才会把一个美少女弄成这样…这下是彻底成了废人了……”
-旁边的警察感叹道
+We also have [personality blurbs](https://rentry.org/vpmdcloverpb) to help with that.
 
-几位警察叹息着进入了苇草的病房
+***
 
-此时的苇草小姐已经经过了手术，整个看起来像一个绷带人，头骨缺失的位置由于手术，头发剃光后现在为避免过于惊骇，就用假发遮上了。可惜脸上缝合后的骇人伤疤看起来还是很恐怖，但已经能看出是个美人胚子，并不想之前那样像丧尸一般了。不过目前她的意识还是消散，整个看起来像植物人
+##Writing Resources
 
-警察们简单探望她后就走了
+**A bunch of stuff that might help you with writing.**
 
-“我想等她意识恢复后问问她要不要安乐死，现在她这个样子看起来过于凄惨了，本来是那种美女现在完全被毁掉了，这样的现实过于残酷了，我觉得她这样还不如直接死掉更体面一些……”
+PMD World Map: https://eddyk28.github.io/PMD%20Map
+(The guild is located in Capim Town, which is in the Grass Continent)
 
-“好的，我赞成”
+Clover Guild Quick Reference: https://rentry.org/cloverlore
+(Contains a WIP layout of the guild and a list of changes/additions that stories applied to the setting)
 
-过了大概几个月，苇草小姐依旧只能躺着，意识已经开始恢复，但是美少女已经不复存在了，现在的她看起来就像一个畸形诡异的怪物，身体上到处充满着伤残的气息，甚至不敢拆开遮伤的器具，因为大多数人会被吓到惊叫
+Guild Members Personality Blurbs: https://rentry.org/vpmdcloverpb
 
-苇草小姐现在仍需要导食导尿，并且严重大小便失禁，每天都过着常人看起来痛苦不堪的生活，现在的苇草小姐已经彻底是个重度残废了
+Idea Bin: https://rentry.org/cloverIdeabin
 
-警察们又来到了病房
+Main Rentry Link: https://rentry.org/vpmdclover
 
-“苇草小姐，您现在有意识了吗，如果有的话请点点头吧”
+***
 
-苇草缓慢的微弱点了点头
+##This all sounds cringe AF. I don't want to take part in this!!!
 
-“好的，苇草小姐，我们郑重的在这里咨询您有没有申请安乐死的意愿。经过人道组织的评估，您现在的状态属于不可逆重度残疾，并且目前无法进一步康复，只能以目前的状况甚至更差的状态度过余生，如果您有意愿，可以自主选择放弃生命”
+That's fine. We are still a PMD general, so feel free to discuss the games or share art ~~~or grieve over no new PMD game again~~.
 
-“如果您有意愿就请点点头，如果继续接受治疗的话就请摇摇头，我们会完全尊重您的选择”
+***
 
-过了一会儿，苇草小姐面无表情地微微点点头，这表明她已经对自己绝望了
+##Is there even anything left to discuss about the games?
 
-半个月后苇草小姐进入了安乐死病房，据说注射后她露出了久违的笑容
+Yes! Several romhacks are finished, though most of them are short story hacks. One anon wrote [reviews for several of them](https://rentry.org/pmdglph) (also linked in the thread OPs).
+We also have an anon in the thread (Wooperdev) who is working on a Sky Quality of Life romhack nicknamed Project Orion.
 
-=======
-突然想了个小故事，文笔真的不行，没怎么写过东西，凑合看吧……
+Also, feel free to share your PMD playthoughs in the thread.

@@ -21,12 +21,12 @@
 |11|Thomas Hammerer|270|
 |12|Phi|258|
 |13|Sasha|248|
-|14|Victor|222|
-|14|Mike|222|
-|16|Calliope|212|
-|17|Marcus|203|
-|18|Nikto|200|
-|19|Subject 2285-J|194|
+|14|Subject 2285-J|235|
+|15|Victor|222|
+|15|Mike|222|
+|17|Calliope|212|
+|18|Marcus|203|
+|19|Nikto|200|
 |20|Isha|190|
 |21|Charles Crane|172|
 |22|Georgia|171|
@@ -83,10 +83,10 @@
 |11|Phi|258|
 |12|Sasha|248|
 |13|Sage|240|
-|14|Victor|222|
-|15|Marcus|203|
-|16|Nikto|200|
-|17|Subject 2285-J|194|
+|14|Subject 2285-J|235|
+|15|Victor|222|
+|16|Marcus|203|
+|17|Nikto|200|
 |18|Isha|190|
 |19|Calliope|167|
 |20|Squire Marie Lonelle|142|
@@ -134,7 +134,7 @@
 |---|---|---|
 |1|Sasha|248|
 |2|Victor|222|
-|3|Subject 2285-J|174|
+|3|Subject 2285-J|190|
 |4|Karnak|131|
 |5|Nikto|110|
 |6|Ramses|103|
@@ -200,11 +200,11 @@
 |3|Sasha|8.67|1|13|
 |5|Becka|9.33|2|24|
 |6|Phi|10.00|7|12|
-|6|Victor|10.00|2|14|
-|8|Hannah|11.33|4|26|
-|9|Nikto|13.00|5|18|
-|9|Subject 2285-J|13.00|3|19|
-|11|Sir Philippe|13.33|9|21|
+|7|Subject 2285-J|10.33|3|14|
+|8|Victor|10.67|2|15|
+|9|Hannah|11.33|4|26|
+|10|Sir Philippe|13.33|9|21|
+|11|Nikto|13.67|5|19|
 |12|Ultra Magnus|15.33|6|33|
 |13|Karnak|17.00|4|26|
 |14|Chloe|17.67|1|51|
@@ -214,7 +214,7 @@
 |18|Ramses|22.33|6|34|
 |19|Sage|23.00|5|51|
 |20|Squire Marie Lonelle|23.67|20|28|
-|20|Calliope|23.67|16|36|
+|21|Calliope|24.00|17|36|
 |22|Quinn|26.00|9|38|
 |22|Maya Liang|26.00|23|31|
 |24|Nick|27.00|10|39|
@@ -234,8 +234,8 @@
 |38|Jonathan Stampe|35.67|27|42|
 |39|Tuma|37.00|29|42|
 |40|Dr Acheron|37.33|16|51|
-|41|Mike|38.33|14|52|
-|42|Dimir|38.67|20|50|
+|41|Mike|38.67|15|52|
+|41|Dimir|38.67|20|50|
 |43|Bob Kilpatrik|40.67|29|49|
 |44|James Nauer|42.33|28|53|
 |45|Tinker Gacy|44.00|37|48|

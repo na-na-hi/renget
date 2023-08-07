@@ -42,3 +42,7 @@
 |04/08/2023|28|Changelog| J/ope/C Week 1 backup .zip file uploaded|
 |04/08/2023|29|Music|Addition of a placeholder for an announced unarchived Western Songs Karaoke|
 |05/08/2023|30|Music|Addition of the archived Monetization Karaoke link|
+|05/08/2023|31|Mentions & Collabs|Addition of placeholders for the probable collabs with Bijou and Shiori next week / in the next weeks|
+|05/08/2023|32|Mentions & Collabs|Addition of a timestamp of a back-and-forth Streamer-Chat interaction with Kiara|
+|06/08/2023|33|Mentions & Collabs|Addition of a placeholder for the Earth Defence Force 6 fullgen collab|
+|06/08/2023|34|Mentions & Collabs|Addition of a placeholder for the upcoming HoloTalk with Advent.|

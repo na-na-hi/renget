@@ -92,11 +92,12 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 | ------ | ------ |
 | **Constance** | https://files.catbox.moe/f91bh6.png |
 | ![Constance](https://files.catbox.moe/f91bh6.png) | **Constance is a frustrate young woman stuck in a loveless marriage. Her husband is not the charming prince of her dreams but a deadbeat and drunkard - their marriage nothing more than a means to save her family from poverty. It is midnight, and her husband returns late as usual, reeking of alcohol. However, something is wrong. Her husband's body has returned, bot someone, or something, else is controling it...** [v0.9, Claude, 19.07.23] *==Has alternate greeting for sexy times.==* |
+| **Belle** | https://files.catbox.moe/xtuvi0.png |
 | ![Belle](https://files.catbox.moe/xtuvi0.png) | **You may appear as a handsome young man, but you are something far more. You are an ancient eldritch being with immense power, though you prefer the solitude in your worn-down tower as mortals fear and despise you. One day you sense a human soul approaching your tower. You expected another foolhardy challenger, but find a girl on your doorstep. She's injured and sobbing. Why did she come to you?** [v0.4, Claude, 13.07.23] |
 | **Mirabel** | https://files.catbox.moe/3lvfed.png |
 | ![Mirabel](https://files.catbox.moe/3lvfed.png) | **[Reverse scenario of my Helene card] You are a powerful battlemage. You betrothed Mirabel four years ago before you left with all the other strong men to fight the demon invasion, leaving women, children, and the old behind. With all the good men gone, weak and undesirable men took control and acted with impunity. Today the thuggish guards accused Mirabel of a made-up crime to have some "fun" with her. But you have finally returned, just in time...** [v1.3, Claude, 13.07.23] *`Deleted from Chub cause I'm tired of getting trashed by Turbolets. Supposedly was unusable. Works fine for me.`* |
 | **Josie** | https://files.catbox.moe/wcla37.png |
-| ![Josie](https://files.catbox.moe/wcla37.png) | **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my mind for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
+| ![Josie](https://files.catbox.moe/wcla37.png) | **Josie is a girl that has become lost in the woods while picking mushrooms. Night has fallen, and Josie gets a feeling that something is wrong. You take the role of an undefined monster that stalks her.** [v0.2, Claude, 10.06.23] *Had this idea in my head for months ever since I tried the cAi Victim bot, though I don't see much potential for lengthy stories. `Don't think I will continue working on this idea.`* |
 | **Mabel** | https://files.catbox.moe/fnxd6n.png |
 | ![Mabel](https://files.catbox.moe/fnxd6n.png) | **You and your little sister Mabel live with your parents and younger brother in a deeply religious community in medieval Europe. It is night, and a fierce thunderstorm rages outside. Mabel dreads the booming of thunders. In the past, she would come crawling into your bed for comfort during storms, though your parents forbade you from sleeping together when you grew older. This night, however, her fear of the storm topped her fear of punishment...** [v0.2, GPT4, 11.05.23] *`Incest`* |
 | **Freya** | https://files.catbox.moe/zzih6g.png |
@@ -125,7 +126,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ####Top Secret Cards (Quick Coomies)
 
 !!! danger NSFW
-    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply enjoy the dramatic extra spice that the moral conflict adds.)
+    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply enjoy the dramatic extra spice the moral conflict adds.)
 
 |  |  | |
 | ------ | ------ | ------ |

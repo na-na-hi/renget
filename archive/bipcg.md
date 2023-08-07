@@ -1,5 +1,14 @@
 ▶NEW CLIPS
-
+>Hohols hiding amongst dead bodies (not comfy) (translated)
+https://files.catbox.moe/o1i9n5.Mp4
+>Hohol Starokonstantinov Air Base in Khmelnitsky
+https://files.catbox.moe/7xiklh.MP4
+>Mastiff PPV caputed by 37th Guards
+https://files.catbox.moe/ppgpyc.MP4
+>SIG oil tanker hit
+https://files.catbox.moe/bgkgid.mp4
+>SMO doggo sings Katyusha
+https://files.catbox.moe/ljo2zi.webm
 >Shoigu inspects captured CV-90
 https://files.catbox.moe/ki3z7w.MP4
 >Lancet-chan dabbing on hohol and NATO equipment

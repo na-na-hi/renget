@@ -185,15 +185,16 @@ Generally, I see authors putting *way* too much info into their cards. This lead
 * **Inefficiencies** Does your {{char}} really need to be told to like ice cream? This just adds to context, and probably not much to the RP, unless {{char}} is a complete fanatic about ice cream to the point of being a defining characteristic. 
 
 ## Writing Cards with no Central Character
-**TLDR: Don't use {{char}}, just define what you want to happen**
+**TLDR: Just define what you want to happen**
 
-Another struggle I see is around writing cards where there's no central character being defined. I say "struggle" because the cards inevitatbly include a bunch of words around ```{{char}} is not a character``` or some such. Some pointers: 
+Another struggle I see is around writing cards where there's no central character being defined. I say "struggle" because the cards inevitably include a bunch of words around ```{{char}} is not a character``` or some such. Some pointers: 
 
-* **Don't use {{char}} at all** You don't need to ever use {{char}} in a definition if {{char}} doesn't represent an NPC. And you definitely don't need to explain to the LLM that {{char}} is not a charector. So just skip it. 
-* **Tell the LLM what you want to happen** Since there is no central NPC... do you want any there? Or is it just you in a room? Give the LLM some direction on what you want to happen. 
-* **Tell the LLM where you are** I usually don't put in {{user}} as part of definition; it's almost required for these cards, as there's little else for the LLM to hook onto otherwise... *this might make for a interesting experiment with atmospherics, later.* So, tell the LLM why you, {{user}}, are in the RP. 
+1) **Reconsider using {{char}} at all in defs** You don't *usually* need to use {{char}} in a definition if {{char}} doesn't represent an NPC. Avoid explaining to the LLM that {{char}} is not a character *unless you find the LLM getting confused.* Usually I don't include {{char}} at all in the card def's, but the problem is {{char}} usually shows up in the Main Prompt, NFSW, and/or JB. Obviously this creates a problem if you name the card something not defined in the card anywhere. 
+Another alternative to ```{{char}} is not a character```: Name the card something defined in the card def's. See below example from American High School.
+2) **Tell the LLM what you want to happen** Since there is no central NPC... do you want any there? Or is it just you in a room? Give the LLM some direction on what you want to happen. 
+3) **Tell the LLM where you are** I usually don't put in {{user}} as part of definition; it's almost required for these cards, as there's little else for the LLM to hook onto otherwise... *this might make for a interesting experiment with atmospherics, later.* So, tell the LLM why you, {{user}}, are in the RP. 
 
-Example from American High School... below is the entire card. As usual for my writing style, it's very short. This was written for a lorebook but probably doesn't require it. It doesn't use {{char}}, explains what {{user}} is doing there, and what is expected to happen. 
+Example from American High School... below is the entire card. As usual for my writing style, it's very short. This was written for a lorebook but probably doesn't require it. It doesn't use {{char}}, explains what {{user}} is doing there, and what is expected to happen. Since the card is called *American High School* the {{char}} appearance in the prompts doesn't confuse the LLM, as it's allueded to in the definitions.  
 ```
 {{user}} exists in a stereotypical sitcom TV version of an American high school. Background events from this trope will occur spontaneously. Other students present will take the initiative to talk with {{user}} or other students during roleplay. 
 Every turn, display the following: Dialog with other students, a stereotypical background event happening nearby, and the other student's thoughts. 

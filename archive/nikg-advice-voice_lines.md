@@ -86,18 +86,24 @@ Please don't send me weird shit!!!
 2. My heart's beating so fast.
 3. So intense... what are these emotions i'm feeling?
 
-## Anis (Summer)
+## Anis (Sparkling Summer)
 >Blabla Status
+At looong last, I put on my swimsuit!
 
 >Gift Received:
-1. 
-2. 
-3. 
+1. Thanks. I'll put this to good use. 
+2. No takebacks, ok?
+3. Wow! Thanks! That's so nice of you, Commander. 
 
 >Affection Lvl Up:
-1. 
-2. 
-3. 
+1. Commander, if you keep coming on to me, one of these days i'm gonna call your bluff.
+2. Is it hot in here? Or is it just me? *giggle* 
+3. You drive me up the wall, but somehow I still end up liking you.
+
+>Outpost Patrol:
+1. What if we created our own ocean inside of the outpost?
+2. Wanna go check out the sea again? Just the two of us?
+3. Shower in the sea!~ Shower in the sea!~ Shower in the sea!~
 
 ##Anne (N102)
 >Blabla Status

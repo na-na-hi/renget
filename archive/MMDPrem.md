@@ -94,6 +94,11 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Kynokoru (キノコル)** <-
 -> [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44045.html) [[Iwara]](https://ecchi.iwara.tv/users/kynokoru) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99014900) [[Pixiv]](https://www.pixiv.net/en/users/542190) [[Twitter]](https://twitter.com/kynokoru) <-
 ***
+-> **lovecelebi** <-
+-> [[3d.nicovideo]](https://3d.nicovideo.jp/users/29825475) [[Booth]](https://lovecelebi.booth.pm/) [[Twitter]](https://twitter.com/lovecelebi) <-
+
+[[Booth]](https://lovecelebi.booth.pm/items/4982022) : Blue Archive - Arona
+***
 -> **MDJSN** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/50789229) [[Booth]](https://mdjsn.booth.pm/) [[DeviantArt]](https://www.deviantart.com/mdjsn) [[Iwara]](https://ecchi.iwara.tv/users/mdjsn) [[Twitter]](https://twitter.com/MDJSN810) <-
 

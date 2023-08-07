@@ -12,12 +12,19 @@ SYSTEM AUTHENTICATED
 
 Beginning system boot-up . . .
 
-OS . . .							OK
-	Refreshing system cache. . . 	OK
-Hardware . . . 						OK
-	Checking Body integrity . . . 	OK
+OS . . .							
+    Loading primary files . . .     ERROR!
+	Loading backup files . . .      ERROR!
+    Cannot locate OS files.
+    Auxiliary OS files located.
+    Loading auxiliary files . . .   OK
 
-SYSTEM STATUS . . . 				GREEN
+Hardware . . . 						
+	Checking hull integrity . . . 	OK
+    Running optics diagnostic . . . OK
+    Propulsion systems . . .        OK
+
+SYSTEM STATUS . . . 				AMBER
 
 Boot-up complete.
 Hello, World!
@@ -172,7 +179,7 @@ PRG2: THIS UNIT IS DESIGNATED (Porygon2).
 PRG2: IDENTIFICATION NUMBER OF UNIT (Porygon) DOES NOT MATCH ANY PORYGON UNITS ON RECORD.
 PRG2: TRANSFERRING CO-ORDINATES OF THIS UNIT.
 PRG2: ASSISTANCE REQUIRED FROM UNIT (Porygon).
-PRGN: WAIT.
+PRGN: WAIT A SECOND.
 
 Connection terminated.
 Exiting. . .

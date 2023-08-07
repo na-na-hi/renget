@@ -8,7 +8,8 @@
 |Date|Link|Collab Partner(s)|
 |---|---|---|
 |02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou|
-
+|07/08/2023| Phasmophobia | Shiori |
+|Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
 !!! note [TOC]
@@ -25,7 +26,8 @@
 |31/07/2023|[Timestamp](https://youtu.be/nebLnoSRHwE?t=8926)| **Mention** - Explanation of Nerissa's situation before her debut regarding HoloTori|
 |02/08/2023|[Timestamp #1](https://youtu.be/GqWACMhCX_c?t=2932) [Timestamp #2](https://youtu.be/GqWACMhCX_c?t=11002) [Timestamp #3](https://youtu.be/GqWACMhCX_c?t=16711)| **Mention** - Multiple back-and-forth mentions and (in-chat) interactions between Kiara and Narissa during a zatsudan|
 |03/08/2023|[Timestamp #1](https://youtu.be/bMxjhvXqnCg?t=2071) [Timestamp #2](https://youtu.be/bMxjhvXqnCg?t=2134) [Timestamp #3](https://youtu.be/bMxjhvXqnCg?t=2878) [Timestamp #4](https://youtu.be/bMxjhvXqnCg?t=3307) [Timestamp #5](https://youtu.be/bMxjhvXqnCg?t=7884) [Timestamp #6](https://youtu.be/bMxjhvXqnCg?t=8552) [Timestamp #7](https://youtu.be/bMxjhvXqnCg?t=9015) [Timestamp #8](https://youtu.be/bMxjhvXqnCg?t=10412) [Timestamp #9](https://youtu.be/bMxjhvXqnCg?t=12529) [Timestamp #10](https://youtu.be/bMxjhvXqnCg?t=14910) [Timestamp #11](https://youtu.be/bMxjhvXqnCg?t=17749)| **Stream-Chat Interactions** -Back-and-forth interactions between Kiara and Narissa (being in the chat) during the Pizza Tower Stream. - Possibility in the future for a Perfect Blue collab watchalong. [Timeline](https://files.catbox.moe/yqh8mg.png)|
-
+|06/08/2023|[Timestamp](https://youtu.be/Woa7VSeNqZ0?t=26364)|**Streamer-chat interaction** - Back-and-forth respond about a possible drawing solo stream or a collab with Kiara during the month of August.|
+|12/08/2023| Placeholder | **Podcast / Zatsudan** - Holotalk with Advent.|
 
 ######Ina
 |Date|Link|Nature & Notes|
@@ -55,6 +57,7 @@
 |---|---|---|
 |31/07/2023|[Link](https://www.youtube.com/watch?v=hy6HD6t8XhE)| **Collab** - First ever HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
 |04/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=9YsuHwyYGes)| **Collab** - Second HoloAdvent Group collab on Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=KgpiuAin1XM))|
+|11/08/2023|Placeholder - Earth Defense Force 6| **Collab** - Third HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
 
 #####Hololive EN's Channel
 |Date|Link|Nature & Notes|
