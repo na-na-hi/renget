@@ -41,14 +41,10 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->The Tournament Continues!
-https://rentry.org/yngpn
->Last Visit (Yamata, Mirror Devil, Capture Cloth)
-https://rentry.org/xpxk6
->Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru))
-https://rentry.org/r5v7e
->Sandatsu is a Receiver
-https://rentry.org/dfkw5
+>Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)):
+https://rentry.org/wzi4x
+>Crush...2 (Hivemind, Mirror Devil (mentioned)):
+https://rentry.org/6rwmw
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -547,6 +543,12 @@ https://rentry.org/yngpn
 https://rentry.org/xpxk6
 >Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru))
 https://rentry.org/r5v7e
+>Sandatsu is a Receiver
+https://rentry.org/dfkw5
+>Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)):
+https://rentry.org/wzi4x
+>Crush...2 (Hivemind, Mirror Devil (mentioned)):
+https://rentry.org/6rwmw
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -762,6 +764,8 @@ https://rentry.org/nn577
 >Mike's Long, Hard, Ride (featuring Mike the Driver, and Tinker West-Gacy).
 https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/edit?usp=sharing
 +Alt Link: https://controlc.com/f38cb3a5
+>My pre-immortal (Dr. Hermione Neighman):
+https://controlc.com/ffde1c52
 ```
 ****
 Page 4
@@ -845,6 +849,8 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89799592
 >Stirrer (Demon Hybrid Something)
 >>89800183
+>Dr. Neighman
+>>89854313
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.
@@ -886,6 +892,8 @@ https://rentry.org/rdhv6
 https://pastebin.com/37KBsQEy
 >Sarru Kissat Mati Albayis (Albayis)
 https://rentry.org/SarruKissatMatiAlbayis
+>Wild Encounters (Suzerain, Caniara)
+https://rentry.org/wild3ncouters
 
 ```
 ***

@@ -341,17 +341,39 @@ Founding Date: Year 56
 
 Capital: Odatsuba
 
-Geography and Infrastructure: The Draconic Khanate is one of the most rural nations in the world, with long chains of mountains running straight through the heart of the country. 
+Geography and Infrastructure: The Draconic Khanate is one of the most rural nations in the world, with long chains of mountains running straight through the heart of the country. The southern portions have wide open plateaus and grassy steppes, while the north has frosty peaks and untamed wilds. A significant number of rivers begin in the Draconic Khanate from the icy mountains flowing down as meltwater and straight into the sea. 
+
+Approximately 40% of the country lives within the capital Odatsuba, a massive sprawling metropolis, with the rest spread across the country in primarily nomadic camps that eschew a more traditional lifestyle. Once, the Khanate was little more than riders. Not just horses, but dragons as well. Primarily in fact. Wildlife continues to thrive even to this day, and dragon riding is an important tradition in this land. 
+
+There is a sharp cultural divide between the urban and rural, similar to Mumei’s nation, although in this case it is more a divide between tradition and modernity as opposed to the direction of civilization. However, it has yet to devolve into open hostilities, and is more of a soft disagreement. Some simply prefer the comforts of air-conditioned apartments to riding atop a dragon’s back and sleeping under the stars. 
+
+Because the urban centers and urban development as a whole are quite new to the country, it is not as advanced or economically prosperous as its neighbors. This does not bother most, however. The people of this land are long used to living with limited resources. This being said, those in the cities are attempting to attract investors, something the land could use. Coco’s lands are bordered by Towa to the north, Watame to the west, Flare to the south, and Kanata to the east. A mountain pass in the north also connects to the endless fog. 
 
 Flag: A large left facing black band bordered by two blood red isosceles triangles. The black band has two smaller orange bands running on the left and right side. In the center of the black band is an eight-toothed orange wheel with a pair of orange dragon horns in the center.
 
-General Overview: 
+General Overview: The history of the Khanate is tricky. In the beginning, the land was wild and primal. Clans of nomads roamed the countryside, warring and surviving in harmony with nature. Kiryu Coco, the khan of the clan named after her, united the tribes over many years, but kept their traditions strong. Dragons flew freely over the skies, a balance between them and humanity managed by Coco, the largest and fiercest of all dragons.
 
-Blessed:
+The first “cities” were large collections of yurts, semi-permanent dwellings. The first true structure was Coco’s famous dragon bone palace at Odasuba, now abandoned but kept in pristine condition. Thanks to the dragons and hardy nature of the people of the khanate, they did not suffer from monsters as much as others, and none dared attack them.
 
-Leader Description: 
+However, the peace did not last. When the six traitors (Holo CN) attempted their ill-fated plot to overthrow Yagoo, it was Coco and Haachama who attempted to halt them. They failed, and Coco was forced to retreat and lick her wounds. She watched on in frustration as her sisters were destroyed, and she blamed herself for the rest of her life.
 
-Leader Powers: 
+Coco became more morose and less invested in her land. She attempted to somewhat modernize the country for fears of becoming obsolete, but change was slow, and Coco lacked the drive she once possessed. Even to this day, much of the nation is rural and undeveloped. Eventually, in the year 93, she’d had enough. 
+
+One night, Coco disappeared. She left a note on her throne explaining she’d asked Yagoo to leave the country in peace, but let her subjects live on without her. Nobody saw her depart, save for a single hunter that saw through the clouds a silhouette of a massive dragon climbing higher and higher before disappearing forever.
+
+Clan Kiryu retains control of the country as Coco’s former clan, but without a demigod to watch over them, things are changing. Dragons are becoming wilder and more vicious, as well as rarer without Coco’s supervision. Other clans have begun to challenge Clan Kiryu’s right to rule, arguing they have become weak and decrepit. 
+
+The storm clouds of conflict are beginning to brew. As of now, the Khanate has been in existence without Coco longer than it had her. It remains to be seen if the Draconic Khanate will survive, or break apart into a massive civil war and disintegrate. Amidst this, there are rumors of a seemingly ageless purple-haired swordswoman that wanders the lands. Only rumors of course…
+
+Blessed: The Blessed of Coco are few now. None have been created since she left this world, and those left are now all seniors. They adopt traits of dragonkind, becoming partially reptilian, and with the ability to shapeshift into a larger and more powerful draconic form. Common traits include horns and long tails. Many eventually live among the dragons, and a few have gone feral without Coco’s guidance. The few Blessed that remain, and it decreases every year, are held in awe by the clans they belong to, and serve as storytellers. Memories to pass on of their beloved, now departed goddess… 
+
+Leader Description: Kiryu Coco was well known for her fiery and boisterous personality. She would often wake her subjects with a rousing call of “Good morning motherfuckers!”, and was particularly fond of rowdy behavior. Coco was not afraid to use force or example in order to corral behavior from her subjects. This was how she was able to successfully unify the clans as well as tame (to an extent and often with violence) the dragons. 
+
+The morose mood that gripped her in her final years as ruler did not significantly nullify this personality of hers. Her behavior often led to ire from puritans, who proclaimed she was not behaving as a goddess should. Coco’s typical response included a raised middle digit and a thwack from her meaty tail.
+
+In the early days before the printing press was widely available in the Khanate, Coco would often deliver the news to her subjects herself. The first television station was her morning AsaCoco news, famous for its quirkiness and troublingly not safe for work content. Coco was famous for not giving a damn what others thought of her, though privately it was rumored she was more sensitive than she seemed. 
+
+Leader Powers: Kiryu Coco’s powers were both simple yet highly effective. As a massive dragon, she could simply use raw power to bring untold devastation to the lands. In her true form she was the largest of all the demigods, save for Sana of course, also now departed. Although her techniques were crude, they were undeniably effective. Few monsters could last more than a moment under her fiery onslaught. 
 
 ##Calliope’s Reaper Underworld
 

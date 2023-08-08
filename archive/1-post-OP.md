@@ -10,6 +10,8 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
+\>Upcoming stream
+https://www.youtube.com/watch?v=6CL5ijOYbZI
 \>Past Streams
 https://www.youtube.com/watch?v=GiAWeVZAXIQ
 https://www.youtube.com/watch?v=5ExD43Qo_9s

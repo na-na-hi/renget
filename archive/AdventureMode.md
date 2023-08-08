@@ -55,7 +55,7 @@ Currently, Gold and Pink EX equips have unique skills applied to characters. For
 
 ### -> EX Equip types <-
 There are currently two categories of EX equipment: Normal and Clan Battle. CB equips have the CB icon at the top left of the icon, while Normal equips have "EX" written in that spot instead. Normal equips cannot be used to equip in the CB slot, but CB equips **CAN** be used in the normal slot.
-Both function as written above. The reason these are split, is because the normal set units have equipped apply to all game modes except for CB. The CB equips only apply to CB of course. One thing to note for these CB equips, is that after using a unit with a CB EX equip, the game will know that the particular CB EX equip has been used in that day. Currently, only weapons exist for CB equips with no indication if we'll get accessories or armors yet. Currently, there is only 1 type of weapon in the CB category per type of character architype, giving the same type of stats per weapon.
+Both function as written above. The reason these are split, is because the normal set units have equipped apply to all game modes except for CB. The CB equips only apply to CB of course. One thing to note for these CB equips, is that after using a unit with a CB EX equip, the game will know that the particular CB EX equip has been used in that day. As of August 2023, CB now has Weapon, Armor & Accessory equips to farm for all types of characters, 
 
 
 Here is a table of the current rarity availability:
@@ -68,10 +68,10 @@ Pink | No| Yes
 
 Type of Equip:
 
-Rarity | CB | Normal 
+Equipment | CB | Normal 
 :----: | :----: | :----: 
 Weapon |Yes | Yes 
-Armor | No | Yes 
+Armor | Yes | Yes 
 Accessory | Yes | Yes 
 
 
@@ -100,4 +100,4 @@ As mentioned above, you can obtain EX Equip shop coins through various methods l
 4. 2H Sword (ブレイブオブホプライト) ![2H Sword](https://cdn.discordapp.com/attachments/751162242258698323/1059228345419702374/image.png)
 5. Depends on what fringe tank/fist unit pops up
 
-Farm World 2 and check which ones fit the needs you have, but you cannot get accessories from World 1.
+Farm World 3 and check which ones fit the needs you have, but you cannot get accessories from World 1 and cannot get armor from World 2.

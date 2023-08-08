@@ -1,3 +1,5 @@
+Out of town until tomorrow
+
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://i.imgur.com/0Y5Adas.png)

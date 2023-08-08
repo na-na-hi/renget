@@ -24,9 +24,9 @@
 - start the `clewd` rproxy by using the `start.bat` or `node clewd.js` - it should just say `clewd v***
 http://127.0.0.1:8444/v1` and report your settings and account status or you did something wrong - read the error and fix it
 
-- set your **updated** frontend to claude - claude-2 and use `http://127.0.0.1:8444/v1` as proxy url - api key `nigger` - streaming has to be enabled
+- set your **updated** frontend to claude - claude-2 and use `http://127.0.0.1:8444/v1` as proxy url - proxy password `nigger` - streaming setting depends on your clewd settings
 
-- for jbs try https://rentry.org/Clewdbros or meaux
+- for jbs search the thread or the archive - they are getting patched fast
 
 !!! warning notes
 	- if you change any setting in silly click on `Connect` again

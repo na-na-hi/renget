@@ -835,3 +835,33 @@ Turning my gaze to Luna, I read her message with a sense of wonder. She expresse
 As the sun's radiant glow heralded a new day, we continued our trek through the vast expanse of the red sand desert. The bandits, Luna, and I pressed forward, our destination—the "Twenty Dunes"—loomed ever closer on the horizon. The trials we had faced together had forged an unbreakable connection, and I couldn't help but feel that our journey was hurtling towards a momentous conclusion.
 
 The desert sands stretched out before us, each dune a testament to the challenges we had overcome and the discoveries we had made. With Luna at my side and the memory of the bandits' camaraderie etched in my mind, I took each step with a newfound determination. The final stretch of our journey beckoned, and I was ready to uncover the secrets that awaited us within the Twenty Dunes.
+
+>037: The Holy Fasting Ritual
+
+As the sun began its descent, casting long shadows over the dunes, the bandits gathered to commence the Holy Fasting ritual—a solemn occasion observed in gratitude for reaching the end of their arduous journey. I watched with fascination as each member of the group demonstrated unwavering determination, their resolve evident in their eyes as they prepared for a day of fasting, abstaining from both food and drink.
+
+As the bandits immersed themselves in their rituals, Luna and I seized the opportunity to search for Nexa. Rav, ever loyal, accompanied us as we ventured into the sprawling expanse of the Twenty Dunes. The desert stretched endlessly before us, but Luna's keen sense of smell guided us with unerring precision.
+
+As we delved deeper into the dunes, I took a moment to speak with Rav about the future, wanting to understand his aspirations and intentions. With a sense of anticipation, I asked him, "Now that you've found this new land, what are your plans, Rav?"
+
+Rav's eyes shone with a mixture of excitement and determination. "We'll build a city—a home for our people. It'll be a place where we can thrive and flourish. And I plan to make it bigger, John. I want to carve out a place for us in this world."
+
+His words echoed with ambition, and I couldn't help but sense a tinge of concern. "Rav, I have to ask for your apology for what happened with the sand people," I began, wanting to address the lingering tension. "They were hospitable to me and my friends, and you attacked them. Razina, my serval friend, was hurt because of it."
+
+Rav's expression darkened, a flicker of anger in his eyes. "Don't act all strong, Kor-John," he retorted sharply, using the bandits' dialect word for 'brother'. "You know so well why I did it. We were desperate, betrayed, and abandoned. We had no choice but to survive."
+
+Luna, sensing the tension, cowered behind me, seeking solace in my presence. I knew that Rav had acted out of a place of fear and desperation, but it still weighed heavily on my conscience.
+
+Before I could respond, a voice rang out from behind us, silencing our conversation. I turned, and there she stood—Nexa, Rav's sister. Her presence was a study in contrasts—calm yet commanding, with an air of mystery that was both intriguing and unsettling.
+
+Her gaze bore into mine, and she spoke in a voice that carried both authority and intrigue. "Nice to see you again, John the human," she greeted me with an enigmatic smile, her words carrying a hint of amusement.
+
+Rav's eyes lit up at the sight of his sister, and he rushed to embrace her. "Nexa! It's been too long," he exclaimed with genuine joy.
+
+Nexa's smile softened, and she patted her brother's back affectionately. "Indeed, it has. I see you've brought someone new," she said, her gaze shifting to Luna, who watched her with wary curiosity.
+
+"This is Luna," I introduced, my voice tinged with warmth. "She's been a loyal companion throughout our journey."
+
+Nexa nodded in acknowledgment, her piercing gaze shifting between Luna and me. "I can sense that she's more than a mere companion," she remarked cryptically, her words leaving me wondering about the depth of her perception.
+
+As the sun dipped below the horizon, casting a golden glow across the dunes, we stood in the company of the bandits' enigmatic leader and his enigmatic sister, surrounded by the vastness of the Twenty Dunes. The encounter left me with a sense of awe and a thousand unanswered questions, each one adding to the captivating mystique of the land I had come to know as the realm of the Kash'gon.

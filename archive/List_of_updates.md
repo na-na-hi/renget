@@ -48,3 +48,4 @@
 |06/08/2023|34|Mentions & Collabs|Addition of a placeholder for the upcoming HoloTalk with Advent.|
 |06/08/2023|35|Music|Addition of the archived Monetization Karaoke setlist|
 |08/08/2023|34|Mentions & Collabs|Addition of Shiori's POV for the Phasmaphobia collab|
+|08/08/2023|35|Mentions & Collabs|Addition of Nerissa's POV for the Phasmaphobia collab|

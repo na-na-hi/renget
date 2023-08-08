@@ -127,6 +127,11 @@ Marlin | Info
 ![](https://files.catbox.moe/fqssav.png)   | Marlin is a cute catboy who likes to take care of stray animals while working as a convenience store cashier to save money for college. He doesn't hate the life he has, but he is just a little bummed out about it. He also likes tabletop RPGs, manga, and video games.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/marlin-42299d0d),  [Catbox](https://files.catbox.moe/sz679h.png)
 
+Yasuhiro | Info
+:----:  | :----: 
+![](https://files.catbox.moe/44psax.png)   | You sneak into one of your college campus buildings one night, having forgotten your phone, only to find a man standing over the dead body of one of the college professors! He seems more than a little flustered that you're here, and sounds suspiciously like one of your classmates. Comes with a second greeting if you just wanna do cutesy school life stuff.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/yasuhiro-9b5dcab5),  [Catbox](https://files.catbox.moe/8gsrey.png)
+
 Vincent | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/doxb97.png)   | A human scientist who thinks humans are scum and that monsterboys/girls are basically the best ever. To the point that he wants to kidnap one and marry them. That could be you! Or not, you could play a human and try to romance him on hardmode. I don't run your life. Based off a dream I had.

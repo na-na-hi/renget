@@ -5,10 +5,10 @@
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on Nerissa's channels![Image description](https://files.catbox.moe/f9inkg.png) <-
-|Date|Link|Collab Partner(s)|
+|Date|Link|Collab Partner(s) & Alternative POV(s) |
 |---|---|---|
 |02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou|
-|07/08/2023| Phasmophobia | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) |
+|07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) |
 |Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
