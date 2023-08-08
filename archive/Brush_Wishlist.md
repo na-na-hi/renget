@@ -76,6 +76,8 @@
 **Color Hair Highlight Brush (混色髪ハイライトブラシ)** |[1761066](https://assets.clip-studio.com/en-us/detail?id=1761066)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/66/10/1761066/thumbnail)
 **Mountain Rough Pen (お山ラフペン)** |[1969165](https://assets.clip-studio.com/en-us/detail?id=1969165)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/91/1969165/thumbnail)
 **Starry brush set (星空っぽいブラシセット)** | [2019243](https://assets.clip-studio.com/en-us/detail?id=2019243) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/43/92/2019243/thumbnail?1690343720)
+**SAFIR PEN**|[1935010](https://assets.clip-studio.com/en-us/detail?id=1935010)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/10/50/1935010/thumbnail?1657891383)
+**Gloss Hair Highlight Pen (つや髪ハイライトペン)** | [1734529](https://assets.clip-studio.com/en-us/detail?id=1734529) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/45/1734529/thumbnail?1548810183)
 
 ### 20 clippy
  Name | Store Link | Price | Thumbnail
@@ -84,6 +86,8 @@
 **(S)oft (S)ketch pencil **|[2011276](https://assets.clip-studio.com/en-us/detail?id=2011276)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/12/2011276/thumbnail)
 **Tinong!♥Brush Set**|[1965421](https://assets.clip-studio.com/en-us/detail?id=1965421)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/54/1965421/thumbnail?1669424315)
 **Background brush**|[2002554](https://assets.clip-studio.com/en-us/detail?id=2002554)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/25/2002554/thumbnail?1684457213)
+**8LEG Pen**|[1822396](https://assets.clip-studio.com/en-us/detail?id=1822396)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/23/1822396/thumbnail?1619359896)
+
 
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
@@ -99,7 +103,6 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Magic Finely painted pen ver.4 (マジック細塗りペンver.4)** | [1738501](https://assets.clip-studio.com/en-us/detail?id=1738501) | **==100 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/01/85/1738501/thumbnail?1552461483)
-**Water-Transparent pen ver. 2 (透けない水性ペンver.2)** | [1738551](https://assets.clip-studio.com/en-us/detail?id=1738551) | **==60 GOLD==**, **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/85/1738551/thumbnail?1552552663)
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)
@@ -117,6 +120,7 @@
 **Distributed Brushes 2 (分散ブラシ2)** | [1877147](https://assets.clip-studio.com/en-us/detail?id=1877147) | **==80 GOLD==**, **160 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/71/1877147/thumbnail?1636076296)
 **Fly Black and white pen (白で飛ばせる白黒ペン)** | [1751020](https://assets.clip-studio.com/en-us/detail?id=1751020) | **==10 GOLD==**, **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/10/1751020/thumbnail?1566807106)
 **starting and ending diagonal brush (入り抜き斜線ブラシ)** | [2019586](https://assets.clip-studio.com/en-us/detail?id=2019586) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/86/95/2019586/thumbnail?1690459940)
+**Ponpon Brush (ほっぺぽんぽんブラシ)**|[1861249](https://assets.clip-studio.com/en-us/detail?id=1861249)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/12/1861249/thumbnail?1629847483)
 ** **|[]()|  |![]()
 
 

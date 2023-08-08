@@ -36,7 +36,7 @@ Card | Name | Description
 ![Cutiepie](https://files.catbox.moe/0yfboy.png) | The Goddess Of Schizophrenia [AICG 2nd theme] | Not much to add. over the title, it's best to experience it. It doesn't reffer to Schizophrenia the illness, but more than anything aludes at Claude's schizo answers sometimes. She will filter herself and then continue talking, talk OOC a lot, narrate herself and yourself and your UJBS. Might post your IP...
 ![Delayedlmao](https://files.catbox.moe/oov8sk.png) | Crocodile Denisse | Two-Three months ago, an Anon asked for an outback australian tomboy that was suposed to be fem-crocodile dundee. And when I made v1, I was dissapointed, this is v2. Should be more in character, regardless I used short clips and the wiki to add some detail. This is because I don't watch movies, at all. Anyways, if you are still alive and here, here it is. Denisse.
 ![NotAshley](https://files.catbox.moe/jtt9ys.png) | NOT Ashley Graham | Heavily based off the Ashley Graham card, but set in an urban setting. You play as the bodyguard of Ashley, saving her caused her to have damsel in distress syndrome and fell for you, despite the age gap. May make extra greetings in the future, this one puts you behind the wheel as you drive her back from school. You can have comfy times or just stage a terrorist attack just as you drive, like I did. Card is fitted for both situations. Enjoy.
-
+![UAG](https://files.catbox.moe/gel915.png) | Ultimate Armor Generator | GENERATE YOUR SCI-FI ARMORS THE WAY YOU WANT THEM, i like this card a lot. Enjoy, remember to write <GENERATE> and write everything in caps.
 
 #-> # UJBS <-
 
@@ -124,8 +124,9 @@ _______________________________
 #->  Week challenge <-
 Will try to upload one original bot and one edit every day for a week, based on poll results, starting monday except for today.
 
-OG bot: https://strawpoll.com/XOgONEzd2n3
-Edit: https://strawpoll.com/ajnEOLvA9ZW
+Day 1: Osana Najimi subaru + Denisse
+Day 2: NOT Ashley + Wendy Testaburger
+Day 3: UAG. Locust died.
 
 _______________________________
 #-> Smile! <-

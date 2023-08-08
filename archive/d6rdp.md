@@ -56,7 +56,7 @@
 
 ##United Stellar States of Tokino (U.S.S.T.)
 
-![Tokino Sora](https://static.wikia.nocookie.net/virtualyoutuber/images/2/24/Tokino_Sora_-_2020_3D_Model_06-1.png/revision/latest?cb=20210915132954)
+![Tokino Sora](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a6/Tokino_Sora_-_2018_3D_Model_04-3.png/revision/latest?cb=20210915132815)
 
 ##Leader: Tokino Sora
 
@@ -140,9 +140,69 @@ Leader Powers: Roboco, aside from being a robot, possesses the capability to cre
 
  In coordination with her robotic body, she is more than capable of using this in conjunction with upgrades to become an unstoppable machine on the battlefield. The Techno Union has been facing frequent incursions since day one, and its wastelands offer excellent breeding grounds for monsters, so Roboco is often busy protecting her lands seemingly every week. 
 
+##Stellar Republic of Hoshimachi
+
+![Hoshimachi Suisei](https://static.wikia.nocookie.net/virtualyoutuber/images/2/2f/Hoshimachi_Suisei_3D_Model_Transparent.png/revision/latest?cb=20221002211704)
+
+##Leader: Hoshimachi Suisei
+
+Size: 25’000 km2
+
+Population: 4.06 Million
+
+Founding Date: Year 14
+
+Capital: Mihoyami
+
+Geography and Infrastructure: The Stellar Republic is seen as the rising star of the nations of the world. Once a harsh backwater that fought incessantly with its neighbors for resources and survival, under the leadership and determination of Suisei, they have grown to become a new regional powerhouse in both might and economy. Proud fighters and infamous for their tenacity, the armies of the Stellar Republic have been aiding the other nations in the perpetual battle against the endless fog.
+
+However, this was not always the case. Once, the Stellar Republic was a troubled and angry nation that lashed out at its neighbors with little regard for what others thought. The Stellar Republic has been at war with every state it borders in the past, many of them unsuccessful save for one which annexed the southern tips of Ayame’s lands, and the northern tip of Mel’s. 
+
+Today the country is modernized. Having focused inward instead of outward for growth, it has gone from the troubled black sheep of the nations near the tower to a shining star that is a superpower in the region, and is currently the largest economy in the region as well, surpassing the Elite Shinto Dynasty of Sakura. They have urbanized significantly, but not to the extent of the bordering Techno Union.
+
+Suisei’s lands are mainly taiga, and have a cooler than average temperature with highs of low 80’s and lows of 20’s in the Fahrenheit scale. Much of the old growth has been chopped down through the decades of urban expansion, though some patches still remain to give the country a natural feel. It is bordered by Roboco in the north, Ayame in the northwest, Choco in the west, Mel in the southwest, Miko in the southeast and east, Yagoo’s Tower in the east, and Sora in the northwest. Most of the cities are heavily developed and linked via a well-maintained system of highways and roads. Poverty and unemployment has been dropping rapidly for the past several decades as well. 
+
+Flag: A white field with two obtuse triangles of ultramarine in the top and bottom respectively, giving the white field the appearance of being diagonal, facing right. A stylized shooting star is in the middle of the flag, facing towards the left. The star itself is a golden five-pointed star overlapping a bronze five-pointed star except for the tips of the bronze star, which jut out from the non-pointed angles of the golden star, giving it the appearance of a ten-pointed star. The overall tail of the comet is composed of three colors and five tails. The first color is a lighter blue with one tail, which overlaps a darker blue with two tails, which overlaps an even dark blue also with two tails, for a total of five tails. 
+
+General Overview: The Stellar Republic is the unlikely story of a nation with all odds stacked against it that, like their leader, arose like a rising star to become a regional superpower. In the beginning, however, the nation was a hard and difficult land to live in. At the time of its creation, much of it was bordered by fog. Although not unusual in those early days, what was unusual was the harsher climate and volume of attacks. 
+
+Because of this, the struggle to survive was much more severe than in other lands of the time. Colder climates made it more difficult to grow food as well. Not only this, but constant disruption due to monster attacks often threatened the viability of crops. 
+
+What began as raids by the desperate soon turned into a tradition of stealing from other lands, which then escalated into constant warfare. Suisei gained a fell reputation as a bloodthirsty warmonger. All confrontations into her behavior were rebuffed, stating that she needed what they had so her country did not go extinct. Indeed, in those days, times were hard. Mortality rates were high, average lifespan was lower than that of other surrounding nations, famine was common, and conscription was mandatory. 
+
+The first change came after an embarrassing defeat by Choco’s much smaller armed forces in the year 58. During yet another dialogue of treaties and land changes, Suisei poured out her frustrations over the years of mistreatment and poor fortune she felt she had received. By now her borders had become more secure. She no longer bordered the fog, though endless warfare and attrition had kept her lands poor. It was a vicious cycle. 
+
+To her surprise, Sora agreed. Though others were sick of her and her constant muddling, Sora proposed thus. Choco, Roboco, and Miko would grant a portion of their lands to Suisei as appeasement. In return, Suisei would not attack them again or risk a combined assault to wipe out her state. What happened afterwards was up to her. 
+
+With peace finally achieved, Suisei reflected. She was rather unpopular, for obvious reasons. To say her nation was the only one with strife was a lie as well, for Mel was in the midst of a brutal and vicious civil war and was still missing, while Roboco and Ayame were dealing with constant barrages of monster assaults. This was a hard world, she mused. 
+
+Suisei decided to change this. For the first several years, she focused on the infrastructure of her lands, a much-needed change. Commodities became more common, resources more available to her people, and, most importantly, a more sophisticated means of preserving and growing food using newer farming techniques and technologies. 
+
+In the year 65, Suisei began to offer her army’s services as hired mercenaries in other nations. They would pay a tithe to Suisei, who would have them guard their lands from monsters. Already battle hardened and with many veterans in their ranks, multiple nations found their borders more secured. Income flowed into the Stellar Republic, and these bands became known as the Comet Legions. 
+
+With the added cash, the country modernized and democratized, transitioning from an authoritarian state into a democratic one as Suisei finally stepped down into an advisory role (though still retaining the traditional title Stellar Leader). So far, she has not acted to remove individuals from government, trusting the will of the people. Indeed, corruption in the Stellar Republic is quite low. 
+
+In modern years, the Stellar Republic is a massive success story. Having successfully urbanized and updated their country into a fully functional one with a massive GDP, the Comet Legions are known across the world as protectors of the peace who, for a price, will keep your lands safe. Though casualties are high, it is considered an honor to serve, for in their mind you are bettering not just your client’s lands but your homelands as well. 
+
+The Stellar Republic has also become famous for its entertainers. Many famous singers originate from these lands. Finest among them is Hoshimachi Suisei herself, who is thought by many to be perhaps the best of all the demigods in terms of musical talents. 
+
+Blessed: The Blessed of Suisei are growing more common with every year. They primarily inherit their demigoddesses’ physical traits, often growing blue hair and becoming slender. A notable talent they all share is an incredible vocal range, one which Suisei herself is famous for. 
+
+They are often found commanding the Comet Legions, as the transformation greatly enhances their reaction times. A fondness for stargazing, optimism, and energetic behavior is also noted to affect their personality, almost as if lost in a dream. This is great contrast to the early Blessed, who were far more bloodthirsty in behavior. 
+
+Leader Description: Hoshimachi Suisei, the shooting star, has come far throughout the years to get to where she is. After countless struggles, she has finally achieved what she sought so long ago, that being a stable, peaceful, and above all powerful country.
+
+Suisei has focused on her musical career in recent years, leaving much of the governing to the citizenry. Among all of the demigods, she perhaps has among the least role in governing these days. She has also worked to patch up her reputation over the years, to a fairly decent degree of success.
+
+It must be noted however that a ruthless streak exists in her that tends to come out when angered. Though one would not suspect it by looking at her, brutality is one of her favorite ways to solve problems. If one visits her personal dwelling, they may note a collection of skulls of those who particularly annoyed her in the past. Some state that the low corruption of the lands has less to do with love than it does with fear.
+
+Leader Powers: Hoshimachi Suisei, as befitting her name, controls a unique form of cosmic and stellar magic that pulls foreign objects from orbit or manifests them. Although this would ordinarily lend itself to a ranged fighting style, Suisei prefers to use it point blank for maximum effect. She also often combos it with her trusty axe which she is never without. 
+
+Her enthusiasm to use her axe to split skulls has often alarmed the others, particularly the way she cackles gleefully as she cleaves skulls, but Suisei has never seemed to mind. However, this is usually how she toys with her foes. When she needs to get serious, she will ascend and begin raining comets down from the skies to absolutely flatten and obliterate all around her. Because of the high chance of friendly fire, her soldiers know the best way to survive is by staying as far away from her as possible. 
+
 ##Nocturnal State of Yozora
 
-![Yozora Mel](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e8/Yozora_Mel_Full_Body.png/revision/latest?cb=20230610065837)
+![Yozora Mel](https://static.wikia.nocookie.net/virtualyoutuber/images/b/ba/Yozora_Mel_3D_Model.png/revision/latest?cb=20221002201426)
 
 ##Leader: Yozora Mel
 
@@ -189,3 +249,132 @@ Unlike many of the other demigods who rule their lands, Mel is not a terribly am
 Leader Powers: As a vampire, Mel has all of the powers expected of one in such a role. This includes flight, blood-draining, incredible strength and endurance, and the ability to turn into animals such as bats. Other powers such as hypnosis are also rumored but not confirmed, and Mel has also practiced some level of hemomancy in order to bolster her powers. The practice of hemomancy is currently banned to the general public, and no magical studies exist en masse within the Nocturnal State. 
 
 Although not giving the appearance of one who would seem a strong fighter, Mel has proven time and again she is not to be trifled with. A popular account of her tearing a rogue vampire in half with her bare hands in one, single rip, is often used as an example of her innate strength.
+
+##Elite Shinto Dynasty of Sakura
+
+![Sakura Miko](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b5/Sakura_Miko_2020_3D_Model.png/revision/latest?cb=20221002205944)
+
+##Leader: Sakura Miko
+
+Size: 32’000 km2
+
+Population: 6.34 Million
+
+Founding Date: Year 23
+
+Capital: Aizen
+
+Geography and Infrastructure: 
+
+Flag: A large white circle over a dark pink background. In the center of the circle are five pink cherry blossom petals, forming a complete cherry blossom.  
+General Overview: 
+
+Blessed:
+
+Leader Description: 
+
+Leader Powers: 
+
+##AZKian Virtual Frontier
+
+![AZKi](https://static.wikia.nocookie.net/virtualyoutuber/images/7/77/AZKi_Fourth_3D_Model.png/revision/latest?cb=20221115204043)
+
+##Leader: AZKi
+
+Size: 28’000 km2
+
+Population: 7.02 Million
+
+Founding Date: Year 29
+
+Capital: Totokumi
+
+Geography and Infrastructure: 
+
+Flag: Two left facing diagonal bands of black and dark pink. The black band has a smaller light blue band running down the right side. In the top left and bottom right corner are two white acute triangles that both point towards the corners of the flag. 
+
+General Overview: 
+
+Blessed:
+
+Leader Description: 
+
+Leader Powers: 
+
+##Angelic Heavens of Amane
+
+![Amane Kanata](https://static.wikia.nocookie.net/virtualyoutuber/images/4/4f/Amane_Kanata_3D_Model_2.png/revision/latest?cb=20230630034518)
+
+##Leader: Amane Kanata
+
+Size: 34’000 km2
+
+Population: 5.58 Million
+
+Founding Date: Year 56
+
+Capital: Hanoseushi
+
+Geography and Infrastructure: 
+
+Flag: A horizontal triband of blue, white, and blue. The white band is quadruple the size of the white bands. Two smaller black bands border the white band on the left and right. In the center is the halo of Kanata outlined in dark yellow. 
+
+General Overview: 
+
+Blessed:
+
+Leader Description: 
+
+Leader Powers: 
+
+##Draconic Khanate of Clan Kiryu
+
+![Kiryu Coco](https://static.wikia.nocookie.net/virtualyoutuber/images/1/10/Kiryu_Coco_3D_Image.png/revision/latest?cb=20210830104805)
+
+##Leader: Clan Kiryu (Formerly Kiryu Coco)
+
+Size: 31’000 km2
+
+Population: 5.04 Million
+
+Founding Date: Year 56
+
+Capital: Odatsuba
+
+Geography and Infrastructure: The Draconic Khanate is one of the most rural nations in the world, with long chains of mountains running straight through the heart of the country. 
+
+Flag: A large left facing black band bordered by two blood red isosceles triangles. The black band has two smaller orange bands running on the left and right side. In the center of the black band is an eight-toothed orange wheel with a pair of orange dragon horns in the center.
+
+General Overview: 
+
+Blessed:
+
+Leader Description: 
+
+Leader Powers: 
+
+##Calliope’s Reaper Underworld
+
+![Mori Calliope](https://static.wikia.nocookie.net/virtualyoutuber/images/4/40/Mori_Calliope_3D_Model.png/revision/latest?cb=20220416023257)
+
+##Leader: Mori Calliope
+
+Size: 30’000 km2
+
+Population: 3.58 Million
+
+Founding Date: Year 73
+
+Capital: Wenbury
+
+Geography and Infrastructure: 
+
+Flag: A black field with a diagonal left facing blood red band running through the middle, The red band is bordered by two smaller gold bands. In the center is a black circle with a white skull, giving the appearance of the band disappearing in the middle. 
+
+General Overview: 
+
+Blessed:
+
+Leader Description: 
+
+Leader Powers:

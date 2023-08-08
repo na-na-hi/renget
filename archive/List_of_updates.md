@@ -46,4 +46,5 @@
 |05/08/2023|32|Mentions & Collabs|Addition of a timestamp of a back-and-forth Streamer-Chat interaction with Kiara|
 |06/08/2023|33|Mentions & Collabs|Addition of a placeholder for the Earth Defence Force 6 fullgen collab|
 |06/08/2023|34|Mentions & Collabs|Addition of a placeholder for the upcoming HoloTalk with Advent.|
-|05/08/2023|35|Music|Addition of the archived Monetization Karaoke setlist|
+|06/08/2023|35|Music|Addition of the archived Monetization Karaoke setlist|
+|08/08/2023|34|Mentions & Collabs|Addition of Shiori's POV for the Phasmaphobia collab|

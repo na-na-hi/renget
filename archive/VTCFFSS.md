@@ -29,6 +29,7 @@
 [HoloFantasy - Chapter 7, Pt. 4 ~ To Save A Burning City](https://docs.google.com/document/u/4/d/e/2PACX-1vQIdNKkcWe1BdPAm3CazuHNpjRvAB1De6d-fMbxNYm3KNTWr9Orc1vhtP7ZNtvJjg8FqdwbZsV3KX77/pub)
 [HoloFantasy - Chapter 7, Pt. 5 ~ Knight in Blackest Armor](https://docs.google.com/document/d/e/2PACX-1vTGcUdKDco3g8lJ-w-qykRaDVsWijFHXLLMTNHVH-0BRpHvIHB8foqo7KTYJV6WTcJxQsil9T5OQ9T1/pub) 
 [HoloFantasy - Chapter 7, Pt. 6 ~ Finally Together](https://docs.google.com/document/u/4/d/e/2PACX-1vRRSHFa3NYnJGZ8rFtVFE2luSj_fJdRkKxtRUo_ABMtjDrwVUl09aO1tQwHq7j6Em1a7sW8x-Sizgb1/pub) (Coco, Polka, Marine, Ina, Rushia, Noel, Kanata, Fubuki, Shien, Roberu, SFW, Action/Adventure, Fantasy)
+[HoloFantasy - Chapter 7, Pt. 7 ~ Distant Longing](https://docs.google.com/document/d/e/2PACX-1vS2XffUv80rBRe9dRfpSYRHFeuonDuMhpOD3mrmgFSS1rUJVmThDUpHmPgjDHIHjNfXgXw_HsiT5xA6/pub) (Coco, Polka, Marine, Fubuki, Ina, Kanata, Noel, SFW, Drama)
 [HoloFantasy / Pure Black PT 1 ~ Petty Thief](https://docs.google.com/document/d/e/2PACX-1vQltgfTOA1MBLlTLG06IYa-ZGd328ZG-mslu_qzrPy-692A8a4obMP9bJM4eROOY_yh420ylzZSc9AQ/pub) (Noel, Bibi, SFW, Action-Adventure, Gore, Snuff) 
 [Holofantasy EXTRA - Daydream Hour 1](https://docs.google.com/document/u/3/d/e/2PACX-1vTw06DtyHka4FqFVz-HMzgZiEUwYfGsn6ljuTRrxiGCWZ1mngvrXwboMGlX4UcRWfHXINmBHxDZft-B/pub) (Short, SFW, comedy)
 [Holofantasy EXTRA - Daydream Hour 2](https://docs.google.com/document/d/e/2PACX-1vTW1vW1R4fuTKqwmX2OUp9SAjJUZT9-SXDygu8cMQ1_8wWPYS3zbxuwSjMnUApSRjyTMOqJ1Zi88ky-/pub) (Short, SFW, comedy)
@@ -403,6 +404,8 @@
 [First Train and Kafka Stop 19 - Daydream Eternal Pt. 2](https://docs.google.com/document/d/e/2PACX-1vSeWWzlBNSK8kFU2C4ISTNz09I2UkQezL0c5_KGpwNuYv_bPJaX3bYRfKHE5owJ07uKskfdZmYWlZyQ/pub) (Anthology, Lui, Non-Sexual Ageplay, Mommy Issues)
  [First Train and Kafka Stop 17: The Stone](https://docs.google.com/document/d/e/2PACX-1vTTAzCrRWgiWZSISUVUZ1H9dJBFU3MdnERv0fUb57vPlgZTlleMFkVOluSUNM2RKjSNcxdlJxGXWH8Q/pub) (Sora, Flare, NSFW, yuri, Abuusive Chuuba/Chuuba Abuse)
 [First Train and Kafka, Stop 18: I am Numb](https://docs.google.com/document/d/e/2PACX-1vSWprgVMpZYQuRmX5t1BVmMudRk4X6TbS2AESE4kDqvJGR4tbStFNXfxItffCNs5U1kagRJumv3VFK9/pub) ( Yozora Mel, underage sex, drugs, masturbation, anthology series)
+[First Train and Kafka: Stop 19](https://docs.google.com/document/d/e/2PACX-1vQoy9w2STuOzF_9FsJ1PwLaetdsVlHujCUGQzBpRiJQGtMUq6O03C9g49bfukLWQr_QmIdR5xKRlQ_9/pub) (anthology series, (you), Suisei, underage sex)
+[First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
 
 #####->*Your Time Is Gonna "Come"*<-
 >Kronii has always been wiping the floor with you anytime she catches you doing your time-travelling shenanigans, but after getting a random helping hand, you're thinking you can do something about her smug attitude and her alarmingly juicy tittes and booty.
@@ -491,6 +494,7 @@
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 33: A Tropical Welcome and a Scorching Sun](https://docs.google.com/document/d/e/2PACX-1vSzHbqEAFDiEWMGNhYovZP2QCdBK8CSLHPMMd5viH8PbHI68VbKg7q7Ere3QdySpCrTuOA6TmmzLDla/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 34: A Beach That Brings Lessons, Magic, and Prizes](https://docs.google.com/document/d/e/2PACX-1vTTTe9aso0DYBVBKaKGxjqbS9AvU8AtVGpdugdLkN8-GY46yabTPWmMrSyMuGV4xLvxq72APPlN5bR7/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 35: A Port Where Trouble Docks](https://docs.google.com/document/d/e/2PACX-1vSSJ7nOHkHMBlQAbD3Wi7gHEkmZBRDgj8KXWzhE5L_TljJOG5AVouQnBBhZQywUtr-NQetQjj908yu9/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
+[HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 36: A Chest Filled With Booty](https://docs.google.com/document/d/e/2PACX-1vSsYOG4TicbM7nlDWCTXXEK1r0YQRG1c3bFX20grHX5UyonUiPPIQLGQS8aoX5QvDk0GsDGgcpGih6a/pub) (Nene, Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys Bard Tales After Midnight: Pond-side With the Champion of Ursol](https://docs.google.com/document/d/e/2PACX-1vRkUA-F5n9N54gzm2-gukQFpkOenzcJ7tKagkPwk99dd1SPeXSu5WgZNyo4cL7hbkT6fyLPBYEx9cAH/pub) (Nene, NSFW)
 
 #####->*Our Cures*<-

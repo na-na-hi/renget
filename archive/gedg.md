@@ -16,7 +16,7 @@ paste your code here
 
 Feel free to post about what you are working on by sharing code, pics, or [making webms](https://wiki.installgentoo.com/wiki/WebM).  The feedback will drive you to keep working! The general is also receptive to in depth conversations on emulation and modding, but you should take questions like "what roms are best?" or "what emulator should I use and how do I configure it?" to [/emugen/](https://boards.4channel.org/vg/emugen).
 
-If you want relevant resources or other additions to the compendium,  ask FroggyGreen !!UYKMqlVW9eC ~~who maintains it~~ after his 3 day vacation. Strong disagreements about the contents of the compendium amongst posters or with Froggy can be handled by holding a vote of what should and shouldn't be present. In the worst case scenario, the markdown file can be easily taken and other posters can branch out with what they think is best. 
+If you want relevant resources or other additions to the compendium,  ask FroggyGreen !!UYKMqlVW9eC who maintains it. Strong disagreements about the contents of the compendium amongst posters or with Froggy can be handled by holding a vote of what should and shouldn't be present. In the worst case scenario, the markdown file can be easily taken and other posters can branch out with what they think is best. 
 
 A lot of the links use rentry.org, if .org is down try .co instead.
 
@@ -96,5 +96,4 @@ For Progress Day you post your work monthly. Unlike game jams you can work on so
 
 Polls are used as an effort to keep things democratic on the general.
 
-Poll to adjust the frequency of Progress Day:
-https://strawpoll.com/XOgONEEEQn3/results
+None right now.

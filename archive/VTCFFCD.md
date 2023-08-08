@@ -2,15 +2,21 @@
 
 ->![Funny](https://files.catbox.moe/e79p25.png)<-
 
-## ->🏖️[Recently added to the archive: 08/01/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 08/07/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 35: A Port Where Trouble Docks](https://docs.google.com/document/d/e/2PACX-1vSSJ7nOHkHMBlQAbD3Wi7gHEkmZBRDgj8KXWzhE5L_TljJOG5AVouQnBBhZQywUtr-NQetQjj908yu9/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
+->(***Series entry!***) [HoloFantasy - Chapter 7, Pt. 7 ~ Distant Longing](https://docs.google.com/document/d/e/2PACX-1vS2XffUv80rBRe9dRfpSYRHFeuonDuMhpOD3mrmgFSS1rUJVmThDUpHmPgjDHIHjNfXgXw_HsiT5xA6/pub) (Coco, Polka, Marine, Fubuki, Ina, Kanata, Noel, SFW, Drama)
+(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 36: A Chest Filled With Booty](https://docs.google.com/document/d/e/2PACX-1vSsYOG4TicbM7nlDWCTXXEK1r0YQRG1c3bFX20grHX5UyonUiPPIQLGQS8aoX5QvDk0GsDGgcpGih6a/pub) (Nene, Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+(***Series entry!***) [First Train and Kafka: Stop 19](https://docs.google.com/document/d/e/2PACX-1vQoy9w2STuOzF_9FsJ1PwLaetdsVlHujCUGQzBpRiJQGtMUq6O03C9g49bfukLWQr_QmIdR5xKRlQ_9/pub) (anthology series, (you), Suisei, underage sex)
+(***Series entry!***) [First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
 (***Series entry!***) [Balsa: Chapter 18](https://docs.google.com/document/d/e/2PACX-1vR8kcoH3PSucgyod3jsV6YDoAWJ-mbmQ6CSNH4T6MhugOEkrxIkCJ-dIg2b7wpLXCAcuIzs1HOH5Sj7/pub) (Ciyana, Iroha, Mel, Civia, SFW, Medieval Fantasy)
-[Kronii's Futa Smoothie](https://rentry.co/2mbtw) (Kronii, NSFW, Futanari, Greentext)
-[Holobrothel Concept](https://docs.google.com/document/d/e/2PACX-1vR8B9-aM1_7QAACkfjk9QjZveItMxNUkxHva9iPqFGOs7PCJ7NZhOCTRfZRpbMdPBOWkpNXNSApXVn2/pub) (Lamy, Aqua, Iroha, Marine, SFW, Greentext Compilation)
-[Ancient Ones Love (You)](https://docs.google.com/document/d/e/2PACX-1vTABmUKo34wCWWgLExZ9kFAGlOgS7ESVVcvpDeNkfsO8DAligNPFDzoyIGv22tOgQmEX5Ijx5hVNEFV/pub) (Ina, SFW, Horror, Greentext Comp)
-[Moth To A Flame](https://docs.google.com/document/d/e/2PACX-1vS01WVyRDf-KXbnz6gBcQWMvSnzOLyrZwlIhTH4v8LWkfmCnJlNTDvIWrZDMjszdTENyyEblDroKwH5/pub) (Shiori Novella, SFW, Fluff)
+[The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult)
+[My Little Ruffian](https://docs.google.com/document/d/e/2PACX-1vRaT-dzuxsBfJClvUjp1i034w_vREgCyG8bu1LNRLvHviJVShGl9YH-dbt97jB49xS7Mx1277cISCpW/pub) (Fuwawa, Mococo, NSFW, Belly Rubs)
+[Pussy Annihilation](https://rentry.org/r95ka) (Okayu, NSFW, Shitpost, Comedy)
+[Post Apocalypse](https://docs.google.com/document/d/e/2PACX-1vQCDq2rhMqEewUdcGjuM8SI7VOkL930rdrlLEhHf5L2H3jpYK9Wg7BtqES7X-YUln6DYSJqQZmVsjkW/pub) (Shiori, SFW, Post Apocalyptic)
+[Sora's Secret greentext compilation](https://docs.google.com/document/d/e/2PACX-1vSGN9Gn4ORDuoIk1mEkOxn-72gfsHBXD2aot8MjIVlWLJk6iWUj6z8qRvITCJJMj0l2lS4JwF4CWw1n/pub) (Sora, Romance, Drama, SFW)
+[Shiori's Secret](https://docs.google.com/document/d/e/2PACX-1vRoeB20FiwGxZH4OJdNG64qAeh4bI1oRXelJ2iJK3qzyKRwk9tmNQnwn8TJmFLjJ14fDpRzGQ8BlgvI/pub) (Shiori, SFW(?), Gore)
+[Fuwa-Moco Fic](https://docs.google.com/document/d/e/2PACX-1vRjCsLDAyS7jQGSp5OpUDPof4EFFCJA4e9g_IPii6afpBlWuVMb8lGDp5GHyK04F4NKnqmXm2E94q88/pub) (Fuwawa, Mococo, NSFW)
 <-
 
 
@@ -1240,3 +1246,10 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Holobrothel Concept](https://docs.google.com/document/d/e/2PACX-1vR8B9-aM1_7QAACkfjk9QjZveItMxNUkxHva9iPqFGOs7PCJ7NZhOCTRfZRpbMdPBOWkpNXNSApXVn2/pub) (Lamy, Aqua, Iroha, Marine, SFW, Greentext Compilation)
 [Ancient Ones Love (You)](https://docs.google.com/document/d/e/2PACX-1vTABmUKo34wCWWgLExZ9kFAGlOgS7ESVVcvpDeNkfsO8DAligNPFDzoyIGv22tOgQmEX5Ijx5hVNEFV/pub) (Ina, SFW, Horror, Greentext Comp)
 [Moth To A Flame](https://docs.google.com/document/d/e/2PACX-1vS01WVyRDf-KXbnz6gBcQWMvSnzOLyrZwlIhTH4v8LWkfmCnJlNTDvIWrZDMjszdTENyyEblDroKwH5/pub) (Shiori Novella, SFW, Fluff)
+[The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult)
+[My Little Ruffian](https://docs.google.com/document/d/e/2PACX-1vRaT-dzuxsBfJClvUjp1i034w_vREgCyG8bu1LNRLvHviJVShGl9YH-dbt97jB49xS7Mx1277cISCpW/pub) (Fuwawa, Mococo, NSFW, Belly Rubs)
+[Pussy Annihilation](https://rentry.org/r95ka) (Okayu, NSFW, Shitpost, Comedy)
+[Post Apocalypse](https://docs.google.com/document/d/e/2PACX-1vQCDq2rhMqEewUdcGjuM8SI7VOkL930rdrlLEhHf5L2H3jpYK9Wg7BtqES7X-YUln6DYSJqQZmVsjkW/pub) (Shiori, SFW, Post Apocalyptic)
+[Sora's Secret greentext compilation](https://docs.google.com/document/d/e/2PACX-1vSGN9Gn4ORDuoIk1mEkOxn-72gfsHBXD2aot8MjIVlWLJk6iWUj6z8qRvITCJJMj0l2lS4JwF4CWw1n/pub) (Sora, Romance, Drama, SFW)
+[Shiori's Secret](https://docs.google.com/document/d/e/2PACX-1vRoeB20FiwGxZH4OJdNG64qAeh4bI1oRXelJ2iJK3qzyKRwk9tmNQnwn8TJmFLjJ14fDpRzGQ8BlgvI/pub) (Shiori, SFW(?), Gore)
+[Fuwa-Moco Fic](https://docs.google.com/document/d/e/2PACX-1vRjCsLDAyS7jQGSp5OpUDPof4EFFCJA4e9g_IPii6afpBlWuVMb8lGDp5GHyK04F4NKnqmXm2E94q88/pub) (Fuwawa, Mococo, NSFW)

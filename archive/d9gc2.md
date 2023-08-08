@@ -66,3 +66,15 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 |------|-----|-----|-----|
 |:D| 【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! #itsMeiBday | [Link](https://www.youtube.com/watch?v=YAcX5PdvJYc)|First time celebrating birthday in Japan. Prerecorded duets and off collab in the latter half of the stream.|
 |Kiara|【GTA IV】NEW HOME IN NEW HOOD anyway lets go bowling| [Link](https://www.youtube.com/watch?v=Woa7VSeNqZ0)| [Timestamp](https://www.youtube.com/watch?v=Woa7VSeNqZ0&t=14483); Talked about a date with Mumei and Bae which Mumei mentioned in snippets before.|
+
+**Day 20 - 2023-08-05**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+| Kiara| 【GTA IV】They see me rolling 🎶 They clucking 🎵 |[Link](https://youtu.be/HoNennPr-PU) | [Timestamp](https://youtu.be/HoNennPr-PU?t=11384); Talked about the Karaoke Mumei had with a bunch of EN and ID girls.|
+|Noel|【朝活雑談】（声枯れ注意！）久々のお喋り系さんでーまっする！！喋りつくそ～～～🌞| [Link](https://youtu.be/GiG02WHOVuk)|[Timestamp](https://youtu.be/GiG02WHOVuk?t=881); Retelling the off-collab she had with ORK during Mumei's birthday stream.|
+
+
+**Day 21 - 2023-08-08**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D|  【TASTE TEST】 Trying Japanese Snacks !!! お菓子の試食 |[Link](https://www.youtube.com/watch?v=uTavTLA9Oac)|Tasting stream and zatsu.|

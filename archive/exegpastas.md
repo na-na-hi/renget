@@ -128,6 +128,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *THE START OF A DARKER SUNSHINE* (Sonic2.exe)|[(link)](https://rentry.org/sonic2exereimagined)
 *SM64DS 09.11.03* (C-N64)|[(link)](https://rentry.org/091103)
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
+*Metallic Frenzy* (Karrie) (WIP)|[(link)](https://rentry.org/metallicfrenzy)
 
 ##Restored/archived/translated by /exeg/
 Title|Link

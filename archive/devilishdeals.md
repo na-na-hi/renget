@@ -1,0 +1,142 @@
+>in an effort to pass your college exams you decide to summon a demon
+>howdidwegehere.wav
+>end up summoning a demon that specializes in astronomy instead
+>fuck
+>instead of being a giant owl with a floating crown above its head it looks like an owl anthro wearing a bathrobe
+>he also looks depressed with all his messy feathers
+>he takes one look at you and just asks what do you want
+>say you want knowledge to pass your math exam
+>"Alright fine, but I need something in return as all contracts do."
+>welp looks like you'll lose your soul in exchange for a diploma
+>however, he asks something different
+>"Could you just, hold me for tonight?"
+>an odd request but alright
+>he suddenly sits on your lap and wraps his arms around you and lays his head on yours
+>it was an awkward position but you reciprocate the hug
+>you two were stuck like this for a few minutes, with the owl sighing like as if a weight just lifted off of him
+>eventually he lets off and produces reading glasses and a book
+>"Alright then, lets see how you fare against algebra. Couldn't be that much different with my daughter"
+
+>its been a few days after your exam
+>still waiting for the results to be posted
+>after your encounter with Stolas, the goetian demon of astronomy, you've had a new perspective in life
+>as in demons are actually real and they might be more chill than you expected
+>at least you think Stolas is an exception
+>still to be alive after summoning a real demon makes you giddy inside
+>you wonder what else this expansion of reality has to offer
+>but you're getting ahead of yourself
+>you turn in for the night and wait for the day of the exam results
+>but you wake up to feel something tickling your back
+>let out a manly scream and find Stolas on your bed wearing the same bathrobe but now untied to show off his fluffy chest
+>he was surprised by your reaction but you had to ask why he was here
+>"Haven't you forgotten? Contracts with demons are for life. So I'm cashing in the amount I'm owed."
+>owed in what you ask
+>"All I ask is to be held, is that so hard? You don't need to think hard about this since this is the most generous agreement I have to offer darling."
+>he didn't need to ask for your permission and he embraced you again, this time your face on his chest
+>the owl sighed once more and rubbed your back
+>you didn't have any room to complain but the idea of serving a demon for life seems dangerous
+>but the deal for now is to just hug him?
+>sounds easy enough
+>you embrace the demon as well while inhaling his scent
+>it honestly feels like hugging a large fluffy pillow
+
+>fast forward to exam results day
+>log in to your college website and look at your course was
+>you pass with flying colors
+>to think you end up here with a help of a demon
+>speaking of whom, Stolas kept visiting you every night from now on
+>he started to open up to you
+>by that you mean he starts dropping info about his personal life
+>his abusive wife, his estranged daughter, that one assassin he sleeps with in order for him to kill humans on earth
+>that last one was concerning 
+>but it all ends with you and him cuddling within each other's arms
+>tonight you tell him of the results of your exam
+>for the first time, he smiles
+>"Oh that is wonderful! Truly, celebrations are in order."
+>his excitement was infectious and you decide to order pizza for the two of you tonight
+>as you wait for the food to arrive he resumes his position with him by your side 
+>but instead of sitting next to you, he sits on your lap
+>howdidigethere.jpg
+>he decides to tell stories about himself to pass the time
+>you tried to listen, but he keeps adjusting his seat which rubs your crotch in all the right ways
+>try not to sport a boner under a guy who could end you instantly
+>the door bell rings and you immediately leave his soda to pick up the pizza
+>the delivery guy couldn't help but notice your boner and chuckle at himself
+>"you waiting on a lady sir?"
+>just tell him to shut up but leave a tip since he at least arrived early enough before stolas to notice your erection
+>place the pizza on the coffee table and you two dig in
+
+>you continue to shoot the shit 
+>divulge on your reasons on taking a college course
+>tell him you want to become an programmer for AI
+>explain what the barebones of it since you are talking about a demon here
+>"So if I were to summarize it correctly, you desire to create a companion?"
+>agree with him as one of those reasons
+>in truth, you thought building giant robots as a kid and it snowballed from there
+>withholding the fact AI can be dangerous if pushed to its limits
+>suddenly, he changes the topic to somewhere else
+>"Well I must congratulate you for passing your exams, but I must ask if there's any more you need of me?"
+>you couldn't think much of anything and say to him you'll think of something later
+>your response seems to pull the wool over his eyes and he went back to being mopey
+>"I see... but I still have the right to continue our current agreement correct?"
+>you were confused on why he was asking but you nodded
+>that seem to make him comfort him but you could tell he was thinking about something
+>eventually, you two share the bed once more 
+>but you could feel he held closer this time, as if you were gonna disappear on him
+
+>a week has passed since that night
+>except Stolas hasn't had a nightly visit since
+>you were a little worried about the demon but that in itself surprised you
+>still you try to enjoy the time spent on your own because you may never know what'll happen if he returns
+>that you did, a new term has started and with that, more things to learn about new subjects
+>you were able to breeze by thanks to Stolas' tips on studying
+>another night alone as you stare at the ceiling about to fall asleep
+>suddenly, your room turns red as a portal opens and Stolas stumbles in with a wine bottle in hand
+>his red eyes hid their puffiness but you could tell he was crying recently
+>you asked him what happened
+>"I don't- *sniff* want to talk about it."
+>with that, he joins you under the bed covers and snuggles with you
+>his head rests under your chin which was awkward considering how tall he was
+>give him an assuring rub on his head and he breathes a sigh of relief
+>sobbing into snores and you feel like you wanna turn in the night as well
+>don't know how to handle a demon owl guy suddenly clinging on you for emotional support
+
+>wake up to being center of tangled limbs 
+>Stolas usually leaves in the morning or before you wake up
+>try to get up but his arms tighten around you
+>you try to wake him up but that felt like a bad idea
+>still Stolas was still sleeping but you could hear him whispering
+>it was too quiet for you too understand but his words were peppered with grunts and moans
+>a thin arm starts to reach down under the blankets and you feel it wrap around your morning wood
+>WOAHNELLY.mp4
+>your shout finally wakes the goetian demon and sits up in shock
+>he takes a look around and realizes he fell asleep in your room
+>"A-Anon I, well- I must apologize for my behavior last night."
+>you weren't too perturbed by it but still this morning took a turn for the weird
+>though he doesn't seem to notice what he just did and stands up.
+
+>"I should return home. My little 'Tavi might get suspicious of my absence."
+>he turns to you with his face with a tint of pink 
+>"G-Goodbye Anon. Call me if you need anything!"
+>a red portal opens up and he immediately zips into it and closes.
+>you have several questions on what happened just now
+>but you have to put those aside later as you have a busy day ahead
+>classes pass by and you had some time in the dorm's cafeteria
+>look at your phone at the time and a notification pops in
+>you have a new unidentified number in your contacts
+>out of curiosity, you dial it in and get picked up
+>"Anon? Anon! Is that you?"
+>Stolas' voice nearly pierced your eardrums and say it is
+>"Oh thank Lucifer, I thought I put the wrong number in your phone. Anyway how are you? Do you need something from me."
+>you ask him how he was able to put his number on your phone
+>"Remember the contract dear? I do need a way of contact to folks who are indebted to me."
+>right...
+>"In any case, do you need something from me? Any more subjects you need help from? Ooh! Maybe Astronomy? I could help you with that."
+>you politely decline and just say you were testing out the number
+>the owl's tone deflates from that 
+>"Oh, still if you need anything from me feel free to ask."
+>Say  your goodbyes to him and close the call
+>you rub your face as you try to comprehend what's happening
+>first he barges into your room, cries into your shoulder, and gives you a handy in the morning
+>then he puts his phone number on your contacts and is practically begging for you to do something that relates to him
+>you don't know where to blur the line between being in debt to a demon and being a shoulder to cry on to an emotionally broken owl
