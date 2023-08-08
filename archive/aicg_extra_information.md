@@ -27,6 +27,7 @@ https://github.com/kwaroran/RisuAI/wiki
 https://github.com/Cohee1207/SillyTavern
 https://rentry.org/aicg4retards
 https://docs.sillytavern.app
+https://rentry.org/uninstallsillytavern
 - frontend for many AI services; local install; feature rich + extensions
 
 ![](https://files.catbox.moe/witert.png)

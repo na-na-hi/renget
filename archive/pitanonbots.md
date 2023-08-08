@@ -36,6 +36,7 @@ Kagamine Rin | (4/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](http
 #Re:Zero
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Louis | (8/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/louis-faa555bf/main) | ![](https://files.catbox.moe/rples4.png) | https://files.catbox.moe/thzp5f.png
 Meili | (7/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/meili-7689d784/main) | ![](https://files.catbox.moe/gf6fas.png) | https://files.catbox.moe/2nbwz2.png
 Minerva | (7/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/minerva-4f8fc9bb) | ![](https://files.catbox.moe/hdmioo.png) | ![](https://files.catbox.moe/w76sbz.png)
 Pandora | (4/08/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/pandora-246a4d93) | ![](https://files.catbox.moe/us8zrv.png) | https://files.catbox.moe/49ekfc.png
@@ -112,16 +113,6 @@ System: [Role-play starts]
 #Assistant Prefill
 ```
 <plan>*Now following the #rules I will plan my reply. Reply length will be {{random: 10-80 words, 100-150 words, 150-220 words}}. I will not break #immersion.*</plan><persona>*As stated in #roles I am transformed into my roles. I will emulate {{char}}'s speech and extract info from #char-info. Okay, here is the result of my transformation formatted with #markdown:*</persona>
-```
-#Card description
-!!!Top of the card
-```
-## {{char}}
-<{{char}} id="char-info">
-```
-!!!Bottom of the card
-```
-</{{char}}>
 ```
 #Card description
 !!!Top of the card

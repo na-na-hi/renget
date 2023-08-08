@@ -148,18 +148,18 @@ As an experiment, try blanking out the Main, NSFW and Jailbreak (JB) fields in S
 
 As you write more bots you'll likely want to add custom prompts. V2 Card Def's allow that. 
 
-## Random Events via Lorebook in Silly Tavern
+## Random Events in Silly Tavern
 
 As of Silly Tavern v1.8, there'a new function to add random events via the lorebook. You can create trigger events, randomly, through the lorebook setting by using "Use Probability" setting. Some notes on this: 
 
-### Simple Random Events Trigger
+### Simple Random Events Trigger, Lorebook
 
 1) "Use Probability" nests with "Constant" or "Key" values. 
 	a) Example event, 10% probability: ``Constant: Checked. Use Probability, 10. Keyword: Blank``
 	b) Example event, 10% probability when "ABC" Key condition met: ``Constant: Unchecked. Use Probability, 10. Keyword: ABC``
 2) Note that for above, if you have several random events, any or all of them could be triggered. 
 
-### Random Selected Event Trigger
+### Random Selected Event Trigger, Lorebook
 
 If you want to set up events that only trigger **one at a time**, see example below: 
 
@@ -173,6 +173,15 @@ Add three lorebook entries tagged with the Keyword "xaab", "xaac" and "xaad" and
 By setting the first one to constant (the keyword doesn't actually matter) and set to appear before character definitions, the nonsense prompt return will have no impact on the context, past triggering the randomly selected Keyword. 
 The other three are set to appear after the author's notes. This way, the "key" (example: xaac) will be high up in the context, while description (example: ``putrid swamp``) would be near prompt.
 Make sure to set recursive scan! Otherwise the above it won't work. 
+
+### Random Events / Subjects, Card
+
+Card level can be tricky, especially for the {{roll}} function, as the LLM tends to ignore the value or consider the random value directional, not definitive. But you can use {random} to push a particular topic at the card level.
+
+Example: 
+> OOC: In the next reply you will talk about {{random:the weather, cats, dogs}}
+
+The downside to this approach is that it always triggers, every round, whereas using Lorebook you can set a probability level. 
 
 ## KISS Principal
 **TLDR: Keep It Simple, Stupid**

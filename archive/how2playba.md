@@ -14,7 +14,7 @@ How to play the game for the completely retarded. Not just a reroll guide. Scrol
 - Rush through normal missions to unlock cafe upgrades and game modes 
 - Splurge ur AP. 1 AP = 1 Account XP, so dump it as fast as you can. 
 - Take advantage of the school bonuses and use CC in Bounty 
-- [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk.
+- [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 
 
 
 ## Downloading/Setting up the game

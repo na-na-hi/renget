@@ -46,6 +46,10 @@ https://rentry.org/865dy
 ###Kaggle
 https://www.kaggle.com/code/miolovers1/stable-diffusion-automatic1111
 https://www.kaggle.com/code/klaytrop/sdg4u
+###Other Cloud Hosts
+https://www.runpod.io/gpu-instance/pricing
+https://cloud.vast.ai/create/
+
 !!! info
 	---------------------------
 ##Try online without registration
@@ -179,7 +183,8 @@ https://rentry.org/sdg_FAQ
 https://rentry.org/hdgpromptassist
 ###Dreambooth
 https://github.com/smy20011/dreambooth-gui
-https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreamboothhttps://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb
+https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth
+https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb
 ###Textual inversion
 https://rentry.org/textard
 ###Training

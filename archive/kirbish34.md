@@ -11,6 +11,11 @@ If you send a nice bot idea I will make it for you. (probably)
 ##Cunny
 The cute and funny ones
 ***
+###Silvya
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Silvya](https://avatars.charhub.io/avatars/kirbish34/silvya-9a5fd4f0/chara_card_v2.png?nocache=0.9929901440797713) | Silvya | Silvya - A 10-year-old girl with a kink of getting raped and molested. She sits next to you on an almost empty bus, hopeful of you satisfying her fantasy. | [CHUB link](https://chub.ai/characters/kirbish34/silvya-9a5fd4f0/main) [Catbox link](https://files.catbox.moe/rb5gtq.png)
+
 ###Alice
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
