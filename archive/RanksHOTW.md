@@ -30,41 +30,42 @@
 |20|Isha|190|
 |21|Charles Crane|172|
 |22|Georgia|171|
-|23|Bob|142|
-|23|Squire Marie Lonelle|142|
-|25|Amu|138|
-|26|Karnak|131|
-|27|Jonathan Stampe|128|
-|28|James Nauer|126|
-|29|Sunny|123|
-|30|David|119|
-|31|Maya Liang|113|
-|32|Billy Kido|110|
-|33|Heli|107|
-|34|Ramses|103|
-|35|Ant King|99|
-|36|Magnus Wang|95|
-|37|Kitty |89|
-|38|Quinn|88|
-|39|Nick|87|
-|40|Tuma|85|
-|41|Doe|84|
-|42|Glimmer|83|
-|43|Bliss|82|
-|43|Kara|82|
-|45|Sprite|79|
-|46|Yuki|78|
-|47|Tinker Gacy|60|
-|48|Richard Major|56|
-|49|Bob Kilpatrik|54|
-|50|Dimir|53|
-|51|Lance|51|
-|51|Dr Acheron|51|
-|53|Remilia|49|
-|54|Alexander S. Luthor|48|
-|55|Harrison Teaford|22|
-|56|H0P3|0|
-|57|Bad Mama Dahmer|-12|
+|23|Dr. Herman|147|
+|24|Bob|142|
+|24|Squire Marie Lonelle|142|
+|26|Amu|138|
+|27|Karnak|131|
+|28|Jonathan Stampe|128|
+|29|James Nauer|126|
+|30|Sunny|123|
+|31|David|119|
+|32|Maya Liang|113|
+|33|Billy Kido|110|
+|34|Heli|107|
+|35|Ramses|103|
+|36|Ant King|99|
+|37|Magnus Wang|95|
+|38|Kitty |89|
+|39|Quinn|88|
+|40|Nick|87|
+|41|Tuma|85|
+|42|Doe|84|
+|43|Glimmer|83|
+|44|Bliss|82|
+|44|Kara|82|
+|46|Sprite|79|
+|47|Yuki|78|
+|48|Tinker Gacy|60|
+|49|Richard Major|56|
+|50|Bob Kilpatrik|54|
+|51|Dimir|53|
+|52|Lance|51|
+|52|Dr Acheron|51|
+|54|Remilia|49|
+|55|Alexander S. Luthor|48|
+|56|Harrison Teaford|22|
+|57|H0P3|0|
+|58|Bad Mama Dahmer|-12|
 
 >No Vehicles CR
 |Rank|Name|Vehicleless CR|
@@ -89,44 +90,45 @@
 |17|Nikto|200|
 |18|Isha|190|
 |19|Calliope|167|
-|20|Squire Marie Lonelle|142|
-|21|Karnak|131|
-|22|Sunny|123|
-|23|Charles Crane|120|
-|24|Maya Liang|113|
-|25|Billy Kido|110|
-|26|Heli|107|
-|27|Ramses|103|
-|28|Georgia|102|
-|29|Bob|94|
-|30|Kitty |89|
-|31|Quinn|88|
-|32|Nick|87|
-|33|Doe|84|
-|34|Glimmer|83|
-|35|Bliss|82|
-|36|Sprite|79|
-|36|David|79|
-|38|Jonathan Stampe|76|
-|39|Magnus Wang|72|
-|40|Remilia|67|
-|41|Ant King|66|
-|42|Tuma|65|
-|43|Richard Major|56|
-|44|Bob Kilpatrik|54|
-|45|Dr Acheron|51|
-|46|Dimir|49|
-|47|Alexander S. Luthor|48|
-|48|Tinker Gacy|42|
-|49|Yuki|41|
-|50|Kara|28|
-|51|Harrison Teaford|22|
-|52|Mike|19|
-|53|James Nauer|12|
-|54|Lance|4|
-|55|H0P3|0|
-|56|Bad Mama Dahmer|-12|
-|57|Amu|-17|
+|20|Dr. Herman|147|
+|21|Squire Marie Lonelle|142|
+|22|Karnak|131|
+|23|Sunny|123|
+|24|Charles Crane|120|
+|25|Maya Liang|113|
+|26|Billy Kido|110|
+|27|Heli|107|
+|28|Ramses|103|
+|29|Georgia|102|
+|30|Bob|94|
+|31|Kitty |89|
+|32|Quinn|88|
+|33|Nick|87|
+|34|Doe|84|
+|35|Glimmer|83|
+|36|Bliss|82|
+|37|Sprite|79|
+|37|David|79|
+|39|Jonathan Stampe|76|
+|40|Magnus Wang|72|
+|41|Remilia|67|
+|42|Ant King|66|
+|43|Tuma|65|
+|44|Richard Major|56|
+|45|Bob Kilpatrik|54|
+|46|Dr Acheron|51|
+|47|Dimir|49|
+|48|Alexander S. Luthor|48|
+|49|Tinker Gacy|42|
+|50|Yuki|41|
+|51|Kara|28|
+|52|Harrison Teaford|22|
+|53|Mike|19|
+|54|James Nauer|12|
+|55|Lance|4|
+|56|H0P3|0|
+|57|Bad Mama Dahmer|-12|
+|58|Amu|-17|
 
 
 >No items CR
@@ -135,120 +137,122 @@
 |1|Sasha|248|
 |2|Victor|222|
 |3|Subject 2285-J|190|
-|4|Karnak|131|
-|5|Nikto|110|
-|6|Ramses|103|
-|7|Phi|100|
-|8|Samson|98|
-|9|Quinn|88|
-|10|Nick|85|
-|11|Taissa|78|
-|12|Big Iron|68|
-|13|Lin|61|
-|14|Kitty |57|
-|15|Doe|52|
-|16|Glimmer|51|
-|16|Magnus Wang|51|
-|16|Dr Acheron|51|
-|19|Bliss|50|
-|20|Dimir|48|
-|21|Sprite|47|
-|21|Sir Philippe|47|
-|23|Maya Liang|45|
-|24|Ant King|43|
-|24|Becka|43|
-|26|Hannah|40|
-|27|Isha|38|
-|28|Squire Marie Lonelle|34|
-|29|Tuma|33|
-|29|Bob Kilpatrik|33|
-|31|David|31|
-|32|Bob|30|
-|33|Ultra Magnus|29|
-|34|Billy Kido|28|
-|35|Heli|26|
-|36|Calliope|25|
-|37|Tinker Gacy|24|
-|38|Katie 230|23|
-|39|Harrison Teaford|22|
-|40|Yuki|21|
-|40|Remilia|21|
-|42|Charles Crane|20|
-|42|Jonathan Stampe|20|
-|44|Thomas Hammerer|17|
-|45|Alexander S. Luthor|14|
-|46|James Nauer|12|
-|46|Richard Major|12|
-|48|Kara|9|
-|49|Mike|8|
-|50|Lance|4|
-|51|Chloe|0|
-|51|Sage|0|
-|51|Georgia|0|
-|51|H0P3|0|
-|55|Amu|-17|
-|56|Bad Mama Dahmer|-29|
+|4|Dr. Herman|146|
+|5|Karnak|131|
+|6|Nikto|110|
+|7|Ramses|103|
+|8|Phi|100|
+|9|Samson|98|
+|10|Quinn|88|
+|11|Nick|85|
+|12|Taissa|78|
+|13|Big Iron|68|
+|14|Lin|61|
+|15|Kitty |57|
+|16|Doe|52|
+|17|Glimmer|51|
+|17|Magnus Wang|51|
+|17|Dr Acheron|51|
+|20|Bliss|50|
+|21|Dimir|48|
+|22|Sprite|47|
+|22|Sir Philippe|47|
+|24|Maya Liang|45|
+|25|Ant King|43|
+|25|Becka|43|
+|27|Hannah|40|
+|28|Isha|38|
+|29|Squire Marie Lonelle|34|
+|30|Tuma|33|
+|30|Bob Kilpatrik|33|
+|32|David|31|
+|33|Bob|30|
+|34|Ultra Magnus|29|
+|35|Billy Kido|28|
+|36|Heli|26|
+|37|Calliope|25|
+|38|Tinker Gacy|24|
+|39|Katie 230|23|
+|40|Harrison Teaford|22|
+|41|Yuki|21|
+|41|Remilia|21|
+|43|Charles Crane|20|
+|43|Jonathan Stampe|20|
+|45|Thomas Hammerer|17|
+|46|Alexander S. Luthor|14|
+|47|James Nauer|12|
+|47|Richard Major|12|
+|49|Kara|9|
+|50|Mike|8|
+|51|Lance|4|
+|52|Chloe|0|
+|52|Sage|0|
+|52|Georgia|0|
+|52|H0P3|0|
+|56|Amu|-17|
+|57|Bad Mama Dahmer|-29|
 
 
 >CR Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
 |---|---|---|---|---|
-|0|Big Iron|4.00|0|12|
-|1|Samson|4.67|3|8|
-|2|Taissa|7.33|5|11|
-|3|Lin|8.67|6|13|
+|0|Big Iron|4.33|0|13|
+|1|Samson|5.00|3|9|
+|2|Taissa|7.67|5|12|
 |3|Sasha|8.67|1|13|
-|5|Becka|9.33|2|24|
-|6|Phi|10.00|7|12|
-|7|Subject 2285-J|10.33|3|14|
+|4|Lin|9.00|6|14|
+|5|Becka|9.67|2|25|
+|6|Phi|10.33|8|12|
+|6|Subject 2285-J|10.33|3|14|
 |8|Victor|10.67|2|15|
-|9|Hannah|11.33|4|26|
-|10|Sir Philippe|13.33|9|21|
-|11|Nikto|13.67|5|19|
-|12|Ultra Magnus|15.33|6|33|
-|13|Karnak|17.00|4|26|
-|14|Chloe|17.67|1|51|
-|15|Katie 230|18.33|8|38|
-|16|Isha|21.67|18|27|
-|16|Thomas Hammerer|21.67|10|44|
-|18|Ramses|22.33|6|34|
-|19|Sage|23.00|5|51|
-|20|Squire Marie Lonelle|23.67|20|28|
-|21|Calliope|24.00|17|36|
-|22|Quinn|26.00|9|38|
-|22|Maya Liang|26.00|23|31|
-|24|Nick|27.00|10|39|
-|24|Kitty |27.00|14|37|
-|26|Bob|28.00|23|32|
-|27|Charles Crane|28.67|21|42|
-|28|Doe|29.67|15|41|
-|29|Magnus Wang|30.33|16|39|
-|29|Billy Kido|30.33|25|34|
-|31|Glimmer|30.67|16|42|
-|32|Heli|31.33|26|35|
-|33|David|32.33|30|36|
-|33|Bliss|32.33|19|43|
-|35|Ant King|33.33|24|41|
-|36|Georgia|33.67|22|51|
-|37|Sprite|34.00|21|45|
-|38|Jonathan Stampe|35.67|27|42|
-|39|Tuma|37.00|29|42|
-|40|Dr Acheron|37.33|16|51|
-|41|Mike|38.67|15|52|
-|41|Dimir|38.67|20|50|
-|43|Bob Kilpatrik|40.67|29|49|
-|44|James Nauer|42.33|28|53|
-|45|Tinker Gacy|44.00|37|48|
-|46|Remilia|44.33|40|53|
-|47|Yuki|45.00|40|49|
-|48|Amu|45.67|25|57|
-|48|Richard Major|45.67|43|48|
-|50|Kara|47.00|43|50|
-|51|Harrison Teaford|48.33|39|55|
-|52|Alexander S. Luthor|48.67|45|54|
-|53|Lance|51.67|50|54|
-|54|H0P3|54.00|51|56|
-|55|Bad Mama Dahmer|56.33|56|57|
+|9|Hannah|11.67|4|27|
+|10|Sir Philippe|13.67|9|22|
+|11|Nikto|14.00|6|19|
+|12|Ultra Magnus|15.67|6|34|
+|12|Dr. Herman|15.67|4|23|
+|14|Karnak|18.00|5|27|
+|14|Chloe|18.00|1|52|
+|16|Katie 230|18.67|8|39|
+|17|Isha|22.00|18|28|
+|17|Thomas Hammerer|22.00|10|45|
+|19|Ramses|23.33|7|35|
+|19|Sage|23.33|5|52|
+|21|Calliope|24.33|17|37|
+|22|Squire Marie Lonelle|24.67|21|29|
+|23|Quinn|27.00|10|39|
+|23|Maya Liang|27.00|24|32|
+|25|Nick|28.00|11|40|
+|25|Kitty |28.00|15|38|
+|27|Bob|29.00|24|33|
+|28|Charles Crane|29.33|21|43|
+|29|Doe|30.67|16|42|
+|30|Magnus Wang|31.33|17|40|
+|30|Billy Kido|31.33|26|35|
+|32|Glimmer|31.67|17|43|
+|33|Heli|32.33|27|36|
+|34|David|33.33|31|37|
+|34|Bliss|33.33|20|44|
+|36|Ant King|34.33|25|42|
+|36|Georgia|34.33|22|52|
+|38|Sprite|35.00|22|46|
+|39|Jonathan Stampe|36.67|28|43|
+|40|Tuma|38.00|30|43|
+|41|Dr Acheron|38.33|17|52|
+|42|Mike|39.33|15|53|
+|43|Dimir|39.67|21|51|
+|44|Bob Kilpatrik|41.67|30|50|
+|45|James Nauer|43.33|29|54|
+|46|Tinker Gacy|45.00|38|49|
+|47|Remilia|45.33|41|54|
+|48|Yuki|46.00|41|50|
+|49|Amu|46.67|26|58|
+|49|Richard Major|46.67|44|49|
+|51|Kara|48.00|44|51|
+|52|Harrison Teaford|49.33|40|56|
+|53|Alexander S. Luthor|49.67|46|55|
+|54|Lance|52.67|51|55|
+|55|H0P3|55.00|52|57|
+|56|Bad Mama Dahmer|57.33|57|58|
 
 ---
 
@@ -294,17 +298,18 @@
 |26|Sir Philippe|4|
 |26|Ruby|4|
 |26|Subject 2285-J|4|
-|35|Kara|3|
-|35|Mike|3|
-|35|Marcus|3|
-|35|Isha|3|
-|35|Ant King|3|
-|35|Phi|3|
-|35|David|3|
-|42|Sage|2|
-|42|Remilia|2|
-|42|Ricky|2|
-|42|Tinker Gacy|2|
+|26|Dr. Herman|4|
+|36|Kara|3|
+|36|Mike|3|
+|36|Marcus|3|
+|36|Isha|3|
+|36|Ant King|3|
+|36|Phi|3|
+|36|David|3|
+|43|Sage|2|
+|43|Remilia|2|
+|43|Ricky|2|
+|43|Tinker Gacy|2|
 
 >Sex difficulty
 |Rank|Name|Sex difficulty|
@@ -351,12 +356,13 @@
 |31|Mike|2|
 |31|Nick|2|
 |31|Yuki|2|
-|37|Becka|1|
-|37|David|1|
-|37|Karnak|1|
-|37|Quinn|1|
-|37|Ricky|1|
-|37|Tinker Gacy|1|
+|31|Dr. Herman|2|
+|38|Becka|1|
+|38|David|1|
+|38|Karnak|1|
+|38|Quinn|1|
+|38|Ricky|1|
+|38|Tinker Gacy|1|
 
 >Chastity Rank of Ranks
 |Rank|Name|Average rank|Best rank|Worst rank|
@@ -384,28 +390,29 @@
 |20|Sasha|15.00|8|22|
 |20|Squire Marie Lonelle|15.00|8|22|
 |22|Alexander S. Luthor|16.50|8|25|
-|23|Kara|17.50|0|35|
+|23|Kara|18.00|0|36|
 |24|Lance|19.00|12|26|
 |24|Nikto|19.00|12|26|
 |24|Sunny|19.00|12|26|
-|24|Ant King|19.00|3|35|
-|28|Calliope|19.50|8|31|
-|28|Nick|19.50|8|31|
-|28|Becka|19.50|2|37|
-|31|Karnak|22.50|8|37|
-|31|Quinn|22.50|8|37|
-|33|Phi|23.50|12|35|
-|34|Maya Liang|24.00|22|26|
+|27|Ant King|19.50|3|36|
+|27|Calliope|19.50|8|31|
+|27|Nick|19.50|8|31|
+|30|Becka|20.00|2|38|
+|31|Karnak|23.00|8|38|
+|31|Quinn|23.00|8|38|
+|33|Phi|24.00|12|36|
+|33|Maya Liang|24.00|22|26|
 |35|Hannah|25.50|25|26|
 |35|Sir Philippe|25.50|25|26|
 |35|Ruby|25.50|25|26|
 |35|Subject 2285-J|25.50|25|26|
-|39|Remilia|27.00|12|42|
-|39|Sage|27.00|12|42|
+|39|Remilia|27.50|12|43|
+|39|Sage|27.50|12|43|
 |41|Yuki|28.50|26|31|
-|42|Isha|33.00|31|35|
-|42|Marcus|33.00|31|35|
-|42|Mike|33.00|31|35|
-|45|David|36.00|35|37|
-|46|Ricky|39.50|37|42|
-|46|Tinker Gacy|39.50|37|42|
+|41|Dr. Herman|28.50|26|31|
+|43|Isha|33.50|31|36|
+|43|Marcus|33.50|31|36|
+|43|Mike|33.50|31|36|
+|46|David|37.00|36|38|
+|47|Ricky|40.50|38|43|
+|47|Tinker Gacy|40.50|38|43|

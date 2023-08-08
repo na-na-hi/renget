@@ -613,6 +613,10 @@ Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event 
 >What does D.U. mean?
 District of Utnapishtim.
 
+>How long does it take to reach max level
+![XP requirements](https://i.imgur.com/AVCuFgu.png)
+At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess it to be anywhere between 7-9 months.
+
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.

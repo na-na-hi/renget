@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=5ExD43Qo_9s
 https://music.youtube.com/watch?v=RWU3o_kDixc
 \>Rebellion (Hololive English -Advent- Debut Song)
 https://music.youtube.com/watch?v=pYNYhSsR8EE
+\>Debut Stream
+https://www.youtube.com/watch?v=gg3SrFzHn9M
 \>Debut Merch
 https://rentry.org/nerissa_ravencroft_merch
 

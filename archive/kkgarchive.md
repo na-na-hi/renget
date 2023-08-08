@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 07.08.2023 19:15 UTC]
+[Last Updated: 08.08.2023 01:30 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7515576/](https://boards.4chan.org/h/thread/7515576/)
+Current thread - [boards.4chan.org/h/thread/7519188/](https://boards.4chan.org/h/thread/7519188/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 618&nbsp;&nbsp;[archiveofsins.com/h/thread/7519188/](https://archiveofsins.com/h/thread/7519188/)&nbsp;&nbsp;&nbsp;&nbsp;(07.08.2023 20:37)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Something Memorable Edition
 - 617&nbsp;&nbsp;[archiveofsins.com/h/thread/7515576/](https://archiveofsins.com/h/thread/7515576/)&nbsp;&nbsp;&nbsp;&nbsp;(04.08.2023 22:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Gym Edition
 - 616&nbsp;&nbsp;[archiveofsins.com/h/thread/7512274/](https://archiveofsins.com/h/thread/7512274/)&nbsp;&nbsp;&nbsp;&nbsp;(03.08.2023 05:08)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Big Toon Edition
-- 615&nbsp;&nbsp;[archiveofsins.com/h/thread/7508935/](https://archiveofsins.com/h/thread/7508935/)&nbsp;&nbsp;&nbsp;&nbsp;(01.08.2023 09:33)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Big Tobacco Edition
+- 615&nbsp;&nbsp;[archiveofsins.com/h/thread/7508935/](https://archiveofsins.com/h/thread/7508935/)&nbsp;&nbsp;&nbsp;&nbsp;(01.08.2023 09:33)&nbsp;&nbsp;[1166]&nbsp;#&nbsp;Big Tobacco Edition
 - 614&nbsp;&nbsp;[archiveofsins.com/h/thread/7505071/](https://archiveofsins.com/h/thread/7505071/)&nbsp;&nbsp;&nbsp;&nbsp;(30.07.2023 05:30)&nbsp;&nbsp;[1194]&nbsp;#&nbsp;Bekinski Public Library Edition
-- 613&nbsp;&nbsp;[archiveofsins.com/h/thread/7501587/](https://archiveofsins.com/h/thread/7501587/)&nbsp;&nbsp;&nbsp;&nbsp;(28.07.2023 02:01)&nbsp;&nbsp;[980]&nbsp;#&nbsp;Commando Classroom Edition
 ---
 Archive:
 
+- 613&nbsp;&nbsp;[archiveofsins.com/h/thread/7501587/](https://archiveofsins.com/h/thread/7501587/)&nbsp;&nbsp;&nbsp;&nbsp;(28.07.2023 02:01)&nbsp;&nbsp;[980]&nbsp;#&nbsp;Commando Classroom Edition
 - 612&nbsp;&nbsp;[archiveofsins.com/h/thread/7498095/](https://archiveofsins.com/h/thread/7498095/)&nbsp;&nbsp;&nbsp;&nbsp;(25.07.2023 15:52)&nbsp;&nbsp;[959]&nbsp;#&nbsp;too tired to be witty Edition
 - 611&nbsp;&nbsp;[archiveofsins.com/h/thread/7494516/](https://archiveofsins.com/h/thread/7494516/)&nbsp;&nbsp;&nbsp;&nbsp;(23.07.2023 11:52)&nbsp;&nbsp;[1112]&nbsp;#&nbsp;Flustered Bulb Edition
 - 610&nbsp;&nbsp;[archiveofsins.com/h/thread/7484692/](https://archiveofsins.com/h/thread/7484692/)&nbsp;&nbsp;&nbsp;&nbsp;(17.07.2023 10:45)&nbsp;&nbsp;[1245]&nbsp;#&nbsp;Rest in pieces Edition

@@ -61,6 +61,9 @@ https://archiveofourown.org/works/45699232/
 Confiding in Ann Takamaki (Persona 5) by Kin12 | Completed: 2023-05-12
 https://archiveofourown.org/works/47130919/
 
+Confiding in the Hermit (Persona 5) by Kin12 | Completed: 2023-08-07
+https://archiveofourown.org/works/49167412/
+
 Desire Given Form (Persona 5) by Kin12 | Completed: 2023-05-15
 https://archiveofourown.org/works/47198077/
 
