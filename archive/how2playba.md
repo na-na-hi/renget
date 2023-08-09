@@ -253,6 +253,11 @@ Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/
 >Should I farm a unit I don't own?
 Yes. With enough shards you can redeem her through the student list. The caveat being that it can take several months before you can actually redeem a specific student. 
 
+>Do I prioritise unlocking all the characters or should I max out the good characters first? 
+Up to you. There are good arguments for both options, it's very dependant. 
+
+As a side tangent, you could farm 540 shards and wait for the girl to spook. This way you can instantly upgrade her to UE50. I personally did this, but this is the hyper autistic minmax option. Very painful, would not recommend.
+
 >Should I redeem X?
 Eh.
 It's more efficient waiting for a spook (non banner girl appearing through the gacha), because a dupe only gives you 30 shards if it's a 3\*. This effectively means you lose out on 90 shards by redeeming. You also need to consider if you have the mats to upgrade her afterwards, too. 

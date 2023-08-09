@@ -71,3 +71,5 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Monika.exe](https://mega.nz/file/p58gTDZQ#UyCK21RJXvDnk9i2DKMKUonXybKi9Y7aanYdaDqMVoc)
 [I AM GOD song + chart](https://mega.nz/file/txtmCbwZ#9hAsL_uGBN0vHJFQCAFZADUNuHs4mcne9hJgnyCOBfQ)
 [X-terion reskin](https://mega.nz/file/xt0mWZyb#0nksdcHBthmwPrhLR_9DkVUKvKa_MCwnYhKQaOcjLb8)
+## Vs. Tabi
+[Update Assets](https://www.mediafire.com/file/g552gytlfh54l4n/vs_tabi_final_assets.rar/file)

@@ -46,6 +46,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |01/08/2023|[Timestamp](https://youtu.be/LglIMGCMrjs?t=866)|**Mention** - Explanation how they first met with some really spicy details.|
+|08/08/2023|[Timestamp #1](https://youtu.be/67hH4EGaH8A?t=1915) [Timestamp #2](https://youtu.be/67hH4EGaH8A?t=4294) [Timestamp #3](https://youtu.be/67hH4EGaH8A?t=4853)|**Mentions** - A few mentions during a Marika stream. Apparently Nerissa is a MLP girl (heh) and is younger than Bijou.|
 
 ######FUWAMOCO
 |Date|Link|Nature & Notes|

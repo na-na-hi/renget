@@ -81,6 +81,5 @@
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [Ducklink](https://ducklink.pages.dev/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
-### 📁 [Piratezparty](https://github.com/SpamVerse/Piratezparty)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)

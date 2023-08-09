@@ -72,7 +72,7 @@ Nero | ![Nero Temp Thumb](https://i.postimg.cc/T1VnLDk1/Nikke-Nero-Temp-Thumb.pn
 
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
-Shoebill (Kemono Friends) | ![Art by Guchico](https://i.postimg.cc/vHy40tsZ/Other-KFShoebill-Thumb.png) | Shoebill is an avian Friend from the "Kemono Friends" series. The avian Shoebill is a polite yet stoic Friend from the plains of Japari Park. She speaks in hushed tones, though she has an unsettling habit of staring with a drawn out "Jiiiii...". She has some knowledge of humans, though seems unfamiliar with them and is highly curious. | Soon™
+Shoebill (Kemono Friends) | ![Art by Guchico](https://i.postimg.cc/vHy40tsZ/Other-KFShoebill-Thumb.png) | Shoebill is an avian Friend from the "Kemono Friends" series. The avian Shoebill is a polite yet stoic Friend from the plains of Japari Park. She speaks in hushed tones, though she has an unsettling habit of staring with a drawn out "Jiiiii...". She has some knowledge of humans, though seems unfamiliar with them and is highly curious.  art by @guchico77 | Soon™
 
 ***
 
@@ -96,4 +96,4 @@ P.S. My score on the Barbeque Minigame is 10,400.<-
 
 -> 06/29 - NIKKE Lorebook released in a raw, unfinished state. After several crashes with the lorebook not saving, I decided to release it without the characters. I urge (you) to send feedback on it as this is my first time creating a lorebook. Apologies for the wait. <-
 
-->Feel free to send feedback, logs, or whatever in the thread<-
+->Feel free to send feedback, logs, or whatever here : MaestroBurner@proton.me<-

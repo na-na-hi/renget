@@ -49,3 +49,4 @@
 |06/08/2023|35|Music|Addition of the archived Monetization Karaoke setlist|
 |08/08/2023|34|Mentions & Collabs|Addition of Shiori's POV for the Phasmaphobia collab|
 |08/08/2023|35|Mentions & Collabs|Addition of Nerissa's POV for the Phasmaphobia collab|
+|08/08/2023|36|Mentions & Collabs|Addition of 3 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's Marika stream|

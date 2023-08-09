@@ -43,16 +43,12 @@
 
 ***
 
-### Latest boys: HEADSPACE Kel / Kel
-"An impulsive 12-year-old boy." ==Safe==
-Card: [Headspace Kel](https://files.catbox.moe/sa28iq.png)
-JSON: [Headspace Kel](https://files.catbox.moe/53ek07.json)
+### Latest boy: Tristan
+"The recently heartbroken boy that you've been hired to take care of." ==Safe==
+Card: [Tristan](https://files.catbox.moe/box4ab.png)
+JSON: [Tristan](https://files.catbox.moe/39yrk2.json)
 
-"A supportive 16-year-old boy." ==Safe==
-Card: [Kel](https://files.catbox.moe/u09nug.png)
-JSON: [Kel](https://files.catbox.moe/rmray9.json)
-
-Or download their cards/JSON files below!
+Or download his card/JSON file below!
 
 ***
 
@@ -98,6 +94,7 @@ Card | JSON Link | Description | Rating
 ![Tallula](https://files.catbox.moe/vhowku.png)   | [Tallula](https://files.catbox.moe/8vubiw.json)   | "A curious girl out on a mission to find... Something."   | ==Safe==
 ![Headspace Kel](https://files.catbox.moe/sa28iq.png)   | [Headspace Kel](https://files.catbox.moe/53ek07.json)   | "An impulsive 12-year-old boy."   | ==Safe==
 ![Kel](https://files.catbox.moe/u09nug.png)   | [Kel](https://files.catbox.moe/rmray9.json)   | "A supportive 16-year-old boy."   | ==Safe==
+![Tristan](https://files.catbox.moe/box4ab.png)   | [Tristan](https://files.catbox.moe/39yrk2.json)   | "The recently heartbroken boy that you've been hired to take care of."   | ==Safe==
 
 ***
 ###Suggest Stuff!

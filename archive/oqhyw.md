@@ -27,6 +27,8 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Outercourse Paradise](https://files.catbox.moe/21l9ht.png) | Outercourse Paradise | Island full of women without sexable orifices. | [CHUB](https://www.chub.ai/characters/creamsan/outercourse-paradise) [Neocities](https://creamsan.neocities.org/#outercourse_paradise)
 ![Stillwater Asylum](https://files.catbox.moe/wi1h6m.png) | Stillwater Asylum | Work in a mental institution where all the patients are beautiful. | [CHUB](https://www.chub.ai/characters/creamsan/stillwater-asylum) [Neocities](https://creamsan.neocities.org/#stillwater_asylum)
 ![The Town of Chance](https://files.catbox.moe/huqgz7.png) | The Town of Chance | You can do whatever you want to anyone in this town as long as you win the games. You can also end the sinister games by defeating the ruler. Recommended to use ST as this uses override jb, {{roll}} and {{random}}. | [CHUB](https://chub.ai/characters/creamsan/1caea601-9a9e-42da-a9e3-08db75985ad5) [Neocities](https://creamsan.neocities.org/#the_town_of_chance)
+![Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png) | Alien Hand Syndrome | A hand with a mind of its own. | [CHUB](https://www.chub.ai/characters/creamsan/alien-hand-syndrome-4879339c) [Neocities](https://creamsan.neocities.org/#alien_hand_syndrome)
+
 
 ***
 ##PROMPTS

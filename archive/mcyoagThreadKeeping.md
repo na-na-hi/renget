@@ -640,6 +640,8 @@ https://rentry.org/HeliMatharom
 >>89426616
 >"Ruby"
 >>89676985
+>Dr. Herman / Hermione Neighman
+>>89854313
 
 Raiders:
 >Calliope, Rocker of the Ruins
@@ -765,7 +767,8 @@ https://rentry.org/nn577
 https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/edit?usp=sharing
 +Alt Link: https://controlc.com/f38cb3a5
 >My pre-immortal (Dr. Hermione Neighman):
-https://controlc.com/ffde1c52
+https://docs.google.com/document/d/1S-maMQoCz5bqHj8iycBk72w-HseBUWFGzS2lH-W5xxU/edit?usp=sharing
++ Alt Link: https://controlc.com/ffde1c52
 ```
 ****
 Page 4
