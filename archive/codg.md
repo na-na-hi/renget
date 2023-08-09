@@ -3,6 +3,8 @@
 Previous thread:
 
 \>news:
+\>MWIII notes and news about content carrying over (TL;DR: shit is getting carried over generally):
+https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-to-modern-warfare-III-carry-forward
 \>Season 5 patch notes:
 https://www.callofduty.com/patchnotes/2023/08/Call-of-Duty-Modern-Warfare-II-Warzone-2-Season-05-Patch-Notes.html
 \>Season 5 battle pass, black cell, bundles etc.

@@ -78,3 +78,8 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
 |:D|  【TASTE TEST】 Trying Japanese Snacks !!! お菓子の試食 |[Link](https://www.youtube.com/watch?v=uTavTLA9Oac)|Tasting stream and zatsu.|
+
+**Day 22 - 2023-08-09**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|Mumei, Bae, Mori, Kronii|  ≪HOLOLIVE ENGLISH 1ST LIVE WATCHALONG!≫ Idols be Idolling | [Link](https://www.youtube.com/watch?v=TxZZxzLcG5I)|Off-collab watchalong party at Mori's place. Mumei and Kronii arrived late due to studio reps.|

@@ -10,7 +10,7 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.8 Phase 1
-[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)
+[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))[![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)
 
 2.5
 [Herrscher of Rebirth Soul Shaper](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)
@@ -27,8 +27,8 @@ click image to jump to valk
 [Valkyrie Quicksand weapon](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)
 [Reverist Calico](https://rentry.org/ElysianRealm/#reverist-calico)
 2.25
-[Herrscher of Origin combo]
-[Fallen Rosemary SS2]
+[Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
+[Fallen Rosemary SS2](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)
 [Helical Contraption]
 [Terminal Aide 0017]
 [Herrscher of Thunder Narukami]
@@ -37,7 +37,7 @@ click image to jump to valk
 
 !!! info 6.7 Phase 1
 
-[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![cnvalk](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi)[![horvalk](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm#herrscher-of-reason)[![hofvalk](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![spavalk](https://i.imgur.com/dgXtZ5c.png)](https://rentry.org/ElysianRealm/#spina-astera)[![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)[![hosvalk](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience-15)
+[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![cnvalk](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi)[![horvalk](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm#herrscher-of-reason)[![hofvalk](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight))[![spavalk](https://i.imgur.com/dgXtZ5c.png)](https://rentry.org/ElysianRealm/#spina-astera[![hosvalk](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience-15)
 
 
 [Sugary Starburst charge](https://rentry.org/ElysianRealm#sugary-starburst-charge)
@@ -46,9 +46,7 @@ click image to jump to valk
 [Herrscher of Flamescion](https://rentry.org/ElysianRealm/#herrscher-of-flamescion)
 [Vermillion Knight: Eclipse](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)
 [Shadow Knight](https://rentry.org/ElysianRealm#shadow-knight)
-[Fallen Rosemary SS2](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)
 [Spina Astera](https://rentry.org/ElysianRealm/#spina-astera)
-[Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
 [Herrscher of Sentience 1.5](https://rentry.org/ElysianRealm/#herrscher-of-sentience-15)
 
 
@@ -897,19 +895,19 @@ Domain of Unity | In the Name of Origin set
 Cost | Effect
 ------ | ------
 5 | SP+30
-10 | Support type DMG boost
+5 | Weapon active vulnerability
 10 | Counter type TDM boost
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-AE | BKE | Utility
+BKE | AE / VKE | Utility
 BR | AE/RC | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Veil of Tears/Falling in Past Light 
-1st Shop | Light as a Bodhi Leaf /Falling in Past Light 
-16F | Heavy as a Million Lives /Falling in Past Light 
+Start | Mad King's Mask/An Old Pal's Legacy
+1st Shop | Memory /An Old Pal's Legacy
+16F | Heavy as a Million Lives /An Old Pal's Legacy or Dreamful Gold
 
 ##->Ego Signets<-
 Expungement 断灭 | Lethal Smite 雷殛 | Ultra 极意 | Inscription 铭印 | Nature 本然 
@@ -919,11 +917,11 @@ Expungement 断灭 | Lethal Smite 雷殛 | Ultra 极意 | Inscription 铭印 | N
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Aponia2 | 1 2 5 are the key choices, unlock nexus ; recommended to pick all enhanced
-2nd | Su1 | TDM, vulnerability, both combo boosts are the key choices , unlock nexus; must pick at least breach from enhanced, can also pick vulnerability
-2nd | Vill-V1 | 3 2 4 are the key choices, unlock nexus 
-2nd | Pardofelis1 | Both silver generation, both damage boosts are the key choices, unlock nexus 
-Optional | Sakura1 | Vulnerability, TDM are the key choices, don't need nexus; can also pick Griseo Red Black, Eden both damage boosts as reinforcement
+1st | Kalpas1 | Both damage boosts, HP cap up are the key choices , unlock nexus; can pick Burden, TDM from enhanced
+2nd | Hua2 | Breach, both damage boosts are the key choices, unlock nexus (must enhance breach fully)
+2nd | Su1 | Vulnerability, both combos are the key choices, unlock nexus 
+2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
+Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can also pick Sakura evasion reset, evasion+1, TDM, vulnerability, Vill-V 3 2 as reinforcement
 
 #->Herrscher of Origin combo<-
 ->![hoocom1](https://i.imgur.com/3VViXf4.png)<-
@@ -1954,34 +1952,33 @@ Iris of Helheim | Handel set
 Cost | Effect
 ------ | ------
 5 | SP+30
-5 | Charged ATK vulnerability
-10 | Support type DMG boost
-10 | Counter type TDM boost
+5 | Weapon active vulnerability
+15 | Weapon type breach
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
 LE | BKE | Utility
-AE | LE/BR | Damage
+AE / RC | BR | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Burden/Because of You
+Start | Gold Goblet/Dreamful Gold
 1st Shop | Light as a Bodhi Leaf /Dreamful Gold
-16F | Heavy as a Million Lives or Ruined Legacy/Dreamful Gold
+16F | Heavy as a Million Lives/Dreamful Gold
 
 ##->Ego Signets<-
  Valfreyja 魔女 | Nocturne 幻夜 | God Eater 神噬 | Soul Siphon 摄魂 | Spirit Servants 役灵
 :-: | :-: | :-: | :-: | :-: 
-**Start** | **1st** | 2nd | 2nd | Optional 
+**Start** | **1st** | 2nd | Optional | Optional 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Kevin1 | Breach, both damage boosts, SP are the key choices, can pick nexus enhancement (if no enhancement, recommended to fully upgrade breach)
-2nd | Su1 | Both combo boosts, TDM, vulnerability, SP are the key choices, unlock nexus; can pick vulnerability from enhanced
-2nd | Griseo1 | Red Yellow Grey are the key choices, unlock nexus
-2nd | Eden1 | Both damage boosts, starting SP are the key choices, unlock nexus 
-2nd | Pardofelis1 | Both damage boosts, are the key choices, unlock nexus
+1st | Eden1 | Starting SP, SP recovery, elemental DMG are the key choices, unlock nexus 
+2nd | Su1 | Both combo boosts, TDM, vulnerability are the key choices, unlock nexus; can pick vulnerability from enhanced
+2nd | Kevin1 | Breach, both damage boosts, SP are the key choices, unlock nexus; can pick nexus enhancement
+2nd | Griseo1 | Red Yellow Grey Black are the key choices, individual signets are fine, nexus is better
+2nd | Pardofelis1 | Both damage boosts, are the key choices, unlock nexus; can also pick Aponia2 nexus ( 4 3 1 5 ) as reinforcement
 
 #->Fallen Rosemary SS2<-
 ->![frvalk1](https://i.imgur.com/ozgVMaS.png)<-

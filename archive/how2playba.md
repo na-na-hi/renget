@@ -218,7 +218,8 @@ If you have trouble with the boss you can charge ur EX bar to 10 the battle befo
 A personal recommendation is to use Tactical Supports. They can carry a lot of the missions by themselves. 
 
 Go as far as you can in the normal mode for the cafe upgrades. They drop every 3 areas at mission 5, that boost your daily AP recovery (this means 3-5, 6-5, ...). If your goal is to get those upgrades early it's fine to 1\* a few missions, first time rewards don't care about ur stars. 
-Don't forget to actually upgrade your cafe.
+
+**Don't forget to actually upgrade your cafe.**
 ![Ranking up the cafe](https://i.imgur.com/WgMiJXG.png)
 (you can press that button)
 

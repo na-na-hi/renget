@@ -67,6 +67,7 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 ###Claude RP Prompts
 #XML Prompt Set
+-> **Updated: 09/08/2023** <-
 !!!DANGER Based on https://rentry.co/CharacterProvider-VersionHistory#beta-v8
 #Main
 ```
