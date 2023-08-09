@@ -67,7 +67,7 @@ Sonic PC port | [Original,](https://www.mediafire.com/file/x4d0cssi6k256nx/sonic
 Sunky the PC PORT | [PRESS START](https://gamejolt.com/games/sunky-the-pc-port/680198)
 Sonic2.exe | [#1,](https://gamejolt.com/games/sonic2-exe-the-game/21631) [#2,](https://gamejolt.com/games/sunshine-exe-sonic2-exe-part-ii-the-game/22071) [#3](https://gamejolt.com/games/insanity-exe-sonic2-exe-part-iii-the-game-full-version/23138)
 Mario '85 | [PRESS START](https://gamejolt.com/games/lucas/667036)
-Sonic Editable Rom | [PRESS START](https://gamejolt.com/games/soniceditablerom/670220)
+Sonic Editable Rom | [PRESS START](https://files.catbox.moe/evb47y.zip)
 Sonic.exe: One More Time | [PRESS START](https://gamejolt.com/games/Sonic-Exe-One-More-Time/642613)
 Too_Late.exe | [PRESS START](https://gamejolt.com/games/Too_Late_exe/691749)
 Sonic.exe: All-Stars | [Original,](https://gamejolt.com/games/SonicAllStarsWIDE/659841) [Remake (Demo)](https://gamejolt.com/games/hbc/430341)

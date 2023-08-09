@@ -223,7 +223,7 @@ Basically, like any piercing, they start you smaller in the shop as to decrease 
 As for recovery,
 > Everyone's body is different, but heal times are anywhere from a month to a few months
 
->I got mine back in April **[it is nearing the end of July at the time of writing]** and I am very close to being able to get the 6ga
+>I got mine \[4 months ago\] and I am very close to being able to get the 6ga
 So, not too bad, but that is time that you can't really go caged, or at least caged with the PA piercing.
 
 Finally, for cages, there are purpose-built cages with PA locks already integrated, both in traditional styles and some that do not rely on a main ring (ball-less chastity). For non-purpose-built cages, if it has a urination hole and a hole under the cage, you can probably integrate a PA piercing into the cage. Kink3D Cobra is a popular option for this.

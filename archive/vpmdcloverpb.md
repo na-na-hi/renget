@@ -349,6 +349,9 @@ She can be seen with her spikes retracted when accompanied by Pochi, as she feel
 Cheesecake's held item is a Lucky Ribbon worn as a scarf.
 Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Her held item is a Pecha Scarf.
 
+###Makky/Asana
+[See linked](https://rentry.org/BulkGuide)
+
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/vnrgo
 TL;DR greentext below

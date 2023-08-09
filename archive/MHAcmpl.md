@@ -549,6 +549,7 @@ Smug Nene: https://desuarchive.org/tg/thread/89708552/#89717661
 Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
 Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#89763266
 Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
+
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
 Mio Ball: https://archive.4plebs.org/tg/post/88821971
@@ -805,6 +806,9 @@ The Tournament Continues!: https://rentry.org/yngpn
 Last Visit (Yamata, Mirror Devil, Capture Cloth): https://rentry.org/xpxk6
 Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru)): https://rentry.org/r5v7e
 Sandatsu is a Receiver: https://rentry.org/dfkw5
+Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)): https://rentry.org/wzi4x
+Crush...2 (Hivemind, Mirror Devil (mentioned)): https://rentry.org/6rwmw
+
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
 First Test (Rosethorn): https://pastebin.com/b9iNtQAm

@@ -77,6 +77,10 @@ https://chub-archive.evulid.cc
 [](https://mega.nz/folder/Q6EASYQT#qAaXd8kmWpzCCyoIwx3Vqw static dump up to 05.07.2023, got deleted)
 - unofficial mirror of chub\.ai; also includes cards from various rentries, webring sites, the archives linked above, random catbox links
 
+**Chatbots Webring**
+https://chatbots.neocities.org
+- a collection of personal pages created by AI character card creators
+
 **4chan meta list**
 - check out the link at the bottom of this rentry
 
@@ -232,6 +236,9 @@ https://github.com/TavernAI/TavernAI
 ##### ~Memories~
 https://mega.nz/folder/LXxV0ZqY#Ej35jnLHh2yYgqRxxOTSkQ
 - collection of /vt/ chatbot logs from old days
+
+https://chatlogs.neocities.org
+- collection of /aicg/ chatbot logs
 
 ##### ~Fun~
 https://rentry.org/weirdbutfunjailbreaksandprompts

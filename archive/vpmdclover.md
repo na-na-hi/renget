@@ -28,9 +28,10 @@ Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcl
 N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#porygon)
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
-Nida | F | Nidorina | Poochyena (Pochi, M, Native, Naive/Relaxed) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
+Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
 Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
 Cheesecake | M | Wooper | Politoed (Apple, F) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#cheesecakeapple)
+Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -97,7 +98,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 10 | [The Echo Chamber (ft. Booker)](https://rentry.org/RibombeeEcho) | | [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw) | | | [Ross Passes The Time](https://rentry.org/RossPassesTheTime)
 11 | [Go to Bed (ft. Chespin)](https://rentry.org/mo6os) | | [Orientation Day (ft. Debby)](https://rentry.org/dyxrn) | | | [Debby's Diary](https://rentry.org/DebbysDiary)
 12 | [the wag of a finger: nobody outpizzas the munch](https://rentry.co/tfisz8) | | [I Am Acrab, Mang](https://rentry.org/acrab) | | | [The Greatest Human Hunter](https://rentry.org/hunt3r)
-13 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Ross's Origin](https://rentry.org/qag5t) | | |
+13 | [Frism Schism (ft. Chespin)](https://rentry.org/tay4x) | | [Ross's Origin](https://rentry.org/qag5t) | | | [Anixety (ft. Gus) [Temp title]](https://rentry.org/mgeaa)
 14 | [Thanks for the Guild, Kind Stranger! (ft. Phanpy)](https://rentry.org/amr2c) | | [Jimmy Your Ghoul](https://rentry.org/7cwwk) | | |
 15 | [Go to Bed: Part 2 (ft. Chespin)](https://rentry.org/2dvef) | | [Percival's Grand Entrance](https://rentry.org/5ne4g) | | |
 16 | [The First Sip (ft. Chespin)](https://rentry.org/yiccz) | | [Three Strangers Blow Into Town](https://rentry.org/kcb-0)  | | |
@@ -109,7 +110,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) | | |
 23 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | [Team Moxie Introduction](https://rentry.org/fehwy) | | |
 24 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro) | | |
-25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | | | |
+25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
 26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | | | |
 28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | | | |
@@ -166,8 +167,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 79 | [Sterling's Purpose ch.5](https://rentry.org/m36g2z) | | | | |
 80 | [Chespin's Week](https://rentry.org/chespinsweek) | | | | |
 81 | [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) | | | | |
-82 | | | | | |
-83 | | | | | |
+82 | [KFC Gets a Win!](https://rentry.org/49yqh) | | | | |
+83 | [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1) | | | | |
 84 | | | | | |
 85 | | | | | |
 
@@ -263,6 +264,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
 	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
+* Gus the Oshawott
+	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
+	* [A 'Mon, Gus](https://rentry.org/7ytz9)
+    * [Anixety (ft. Gus) [Temp title]](https://rentry.org/mgeaa)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -282,13 +287,13 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
+* Makky the Makuhita
+    * [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
+    * [The Great Bulk Guide](https://rentry.org/BulkGuide)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
 	* [Team Moxie Introduction](https://rentry.org/fehwy)
-* Gus the Oshawott
-	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
-	* [A 'Mon, Gus](https://rentry.org/7ytz9)
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
 	* [Percival's Extended Introduction](https://rentry.org/uosgo9)
@@ -494,6 +499,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail)
 * {||} [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
 * {||} [KFC Gets a Win!](https://rentry.org/49yqh)
+* {||} [Anixety (ft. Gus) [Temp title]](https://rentry.org/mgeaa)
+* {||} [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
+* {||} [The Great Bulk Guide](https://rentry.org/BulkGuide)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

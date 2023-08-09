@@ -29,6 +29,7 @@ Bob Kilpatrik (Settlement Survivor): https://archive.4plebs.org/tg/post/89426616
 "Ruby" (Settlement Survivor): https://desuarchive.org/tg/thread/89670819/#89676985
 Becka "Queen Bee" (Raider): https://archive.4plebs.org/tg/post/89429924
 Subject 2285-J (Mutant): https://desuarchive.org/tg/thread/89823232/#q89828219
+Dr. Hermione Neighman (Settlement Survivor): https://desuarchive.org/tg/thread/89851223/#89854313
 #### Nymph-Infested Swamps
 The Nymphs - Glimmer, Bliss, Doe, Kitty, Sprite (Mutants): https://archive.4plebs.org/tg/post/89385405
 Amu (Robot): https://archive.4plebs.org/tg/post/89383565
