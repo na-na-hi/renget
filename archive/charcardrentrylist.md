@@ -32,6 +32,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ruby](https://files.catbox.moe/8qc7b1.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[David](https://files.catbox.moe/sbymyf.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Halloween Village](https://files.catbox.moe/b90913.png)|
+[Gigasad](https://rentry.org/gigasad) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||[Sally Acorn](https://files.catbox.moe/bec0tx.png) [MV]
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
@@ -67,7 +68,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
-[Gigasad](https://rentry.org/gigasad) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Johncock](https://rentry.org/Johncock) | Misc ||

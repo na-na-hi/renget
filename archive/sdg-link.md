@@ -7,7 +7,6 @@
 ##Local Install
 ###Nvidia GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
-https://rentry.org/voldy
 https://github.com/AbdBarho/stable-diffusion-webui-docker
 ###Node-based UI
 https://rentry.org/comfyui
@@ -265,5 +264,10 @@ https://boards.4chan.org/trash/#s=sdg
 discord.gg/stablediffusion
 !!! info
 	---------------------------
+##Community Civitai Profiles
+https://civitai.com/user/PWAnon
+https://civitai.com/user/stunningFlesh
+!!! info
+	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 4th - https://pastebin.com/Pj5rKvx0
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 9th - https://pastebin.com/9Uj0fzhz

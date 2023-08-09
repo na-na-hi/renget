@@ -130,8 +130,7 @@ https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjE
 Read the yellow highlighted text. 
 
 ## Banner Guide 
-[/bag/ guide](https://i.imgur.com/8kBklFD.jpeg)
-Last update: 16/07/23
+[/bag/ guide](https://i.imgur.com/8kBklFD.jpeg) Last update: 28/07/23
 [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
 [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
 

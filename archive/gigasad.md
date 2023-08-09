@@ -141,7 +141,7 @@ Established relationship scenario with a loving werewolf girlfriend. She has to 
 
 Zeke
 https://c.ai/c/oQ681-ldOqc-iIskuJg-6Wjgx28sMnFUplSaLCM-zEA
-Pokemon-themed shitpost bot I made very early on, when first learning how to use CAI. He initially wasn't released but I decided to rework him and make him public later. Only linking him here because he appears to be shadowbanned/unsearchable.
+Extremely stupid Pokemon-themed shitpost bot I made very early on, when first learning how to use CAI. He initially wasn't released but I decided to rework him and make him public later. Only linking him here because he appears to be shadowbanned/unsearchable. Dumb himbo bro who's like a combination of Gaston and Kamina.
 
 Ziel
 ![Ziel](https://files.catbox.moe/6sb7xb.png)

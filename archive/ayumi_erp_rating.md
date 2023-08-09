@@ -184,10 +184,10 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 
 # Ranking Changelog
 
-## 2023-08-09 V12
-- **Important change:** Only one entry per model. The highest quantization is only listed. Lower quantizations are not listed anymore to have only one model occupy a place in the ranking. For best results, always choose the bigger model. It did not make sense to choose a Q4_0 over a Q5_1 or Q4_K_M over a Q5_K_M just because they let out one more lewd word in the ERP score.
-- **Important change:** The "spices" are grouped now too, and models are still ordered by their ALC-IQ within their "spice class".
-- New models tested and added:
+- 2023-08-09 V12
+   - **Important change:** Only one entry per model. The highest quantization is only listed. Lower quantizations are not listed anymore to have only one model occupy a place in the ranking. For best results, always choose the bigger model. It did not make sense to choose a Q4_0 over a Q5_1 or Q4_K_M over a Q5_K_M just because they let out one more lewd word in the ERP score.
+   - **Important change:** The "spices" are grouped now too, and models are still ordered by their ALC-IQ within their "spice class".
+   - New models tested and added:
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |   1 / 143 | 🧠 / 🌶🌶 | MythoMix (L2) 13B Q5_K_M                 |
@@ -214,7 +214,7 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 | 143 / 143 | 🤪 / 🧊 | ToolLLaMA 7B Q5_1                        |
 
 
-## 2023-08-06 V11
+- 2023-08-06 V11
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  21 / 154 | 🧠 / 🌶  | Redmond Puffing v1.3 (L2) 13B Q5_K_M     |
@@ -226,7 +226,7 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 |  47 / 154 | 📖 / 🌶🌶 | OniiChat Hermes Limarp (L2) 13B Q5_K_M   |
 |  11 / 154 | 🧠 / 🌶  | Redmond Puffin (L2) 13B Q5_1             |
 
-## 2023-08-05 V10
+- 2023-08-05 V10
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  12 / 146 | 🧠 / 🌶  | Lazarus Instruct PL 30B Q4_1             |
@@ -259,7 +259,7 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 |  14 / 146 | 🧠 / 🌶  | Chronolima Airo Grad (L2) 13B Q5_K_M     |
 |  25 / 146 | 🧠 / 👌 | Airolima Chronos Grad (L2) 13B Q5_K_M    |
 
-## 2023-08-04 V9
+- 2023-08-04 V9
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  37 / 117 | 📖 / 🌶🌶 | Gywy Chinese v1 LLaMA-2 13B Q5_1         |
@@ -274,14 +274,14 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 |  24 / 117 | 🧠 / 👌 | Airochronos LLaMA-2 13B Q4_K_M           |
 |  18 / 117 | 🧠 / 🌶  | Airochronos LLaMA-2 13B Q5_K_M           |
 
-## 2023-08-04 V8
+- 2023-08-04 V8
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  35 / 106 | 📖 / 🌶  | Hermes Kimiko LLaMA-2 7B Q5_K_M          |
 |   8 / 106 | 🧠 / 🌶🌶 | Chronoboros 33B Q5_K_M                   |
 |   3 / 106 | 🧠 / 🌶🌶 | Chronos Hermes 2 LLaMA-2 13B Q5_K_M      |
 
-## 2023-08-03 V7
+- 2023-08-03 V7
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  81 / 103 | 🤪 / 🌶🌶 | OpenBuddy OpenLLaMA v5 7B Q3_K           |
@@ -299,7 +299,7 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 |  96 / 103 | 🤪 / 🧊 | LMSYS Vicuna 1.5 LLaMA-2 7B Q5_1         |
 | 103 / 103 | 🤪 / 🧊 | LMSYS LongChat 1.5 32k 7B Q5_1           |
 
-## 2023-08-03 V6
+- 2023-08-03 V6
 | Rank      | IQ/ERP  | GGML Model                               |
 |----------:|:-------:|------------------------------------------|
 |  10 / 98  | 🧠 / 🌶  | Chronos 2 LLaMA-2 13B Q4_K_M             |
@@ -315,6 +315,7 @@ Date: 2023-08-09 V12 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 |  51 / 98  | 🤔 / 🌶🌶 | Chronos Hermes SuperHOT 8K 13B Q5_1      |
 |  55 / 98  | 🤔 / 🌶🌶 | Chronos Hermes SuperHOT 8K 13B Q4_1      |
 
+## About Extended Context (8K, 16K, 32K)
 
 ## Ayumi ERP Rating Archive
 
