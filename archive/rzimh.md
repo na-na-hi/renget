@@ -563,7 +563,7 @@ Inigo left the table and walked into the crowd, wondering what awaits him at thi
 
 ####VI. Art Gallery
 
--> !["Popsy: I feel like I'm going crazy, man. Everything seems to jumble up in my head and before I realize it, things are different and don't make sense. You look around and what do you see? Bird people, bird people, bird people! That new crazy girl, Fluegal, bird lady. One of those students at Shiketsu, the white haired kid, bird boy. Don't even get me started on Tatarimokke and Recino. His long uncut fingernails digging their way into everything behind the scenes. You know that incident from two days ago where the news reported about me kicking the mayor's dog? That's not even what happened and yet that's what everyone thinks happened. The world's going crazy, man. Bird people got spies even in Shiketsu!? It's too much. Bird people all over the place. The schools are no good. What other school is there even? That one Rescue Ray runs? You even heard of any students that go there? No? That's what I thought. No doubt it's just a nest for those birds to gather and lay their eggs. Do you think Recino lays eggs? Is that weird to ask? Doesn't matter right now. I'm getting jumbled up again, man. Where's my drink? Asahi Super Dry, my beloved. You always know what to say to make me feel better. What was I even talking about? School or something? Man, you hear all those weird things about Rosethorn? Some kind of incident at the school or something? Those are rough rumors, and I know what I'm talking about when it comes to that kind of bull honky. How do you think Shiketsu can afford all those high rankers to teach for them? Like, I get Rosethorn because she went to school there all those years ago, but like Majestic? What's that son of a bacon bit got to gain from teaching there? Trying to look good since people are always saying he steals credit from lower ranked heroes? That's true, by the way. Seen it myself. Didn't happen to me personally, but the Aoki Brothers totally got the doo doo end of the poop stick because of him. What, never heard of them? My point exactly. Also, you ever notice how many gaijin we've been getting coming in as of recent? Is America going really downhill or something? Why do they keep coming here? You know how many of the freshman class in Shiketsu are foreign? I don't either, but it's gotta be a lot. You think it's a conspiracy or something? You believe in any conspiracies? I don't, but some things I believe in definitely sound like conspiracies. Like how bird people are everywhere. It's true! Look around you- oh, I already talked about this? My bad. I just get off track and jumbled up sometimes. Usually whenever I'm drinking too much. Whoopsie. Gonna need a tall glass of water after this one if I don't want to wake up with the shakes again. What were we talking about again? I can't remember. I'm just too jumbled up right now. The room's spinning a bit too. Holy guacamole, I'm so hungry. Listen, you can even hear my stomach yelling at me. Hear it? Yeah, it means business. Oh, what I wouldn't give for some good old fashioned takoyaki. You just can't get good takoyaki here in Kyoto. Like, if it's not from Osaka, it just ain't takoyaki. Look, just... take a trip to Osaka some time and trust me, you'll get the best gosh darned takoyaki you've ever had in your life! And don't get it from around Tsutenkaku! That place is too tourist heavy, so they don't have time to really put their heart into it, you know? Soulless. If you're not gonna make takoyaki right, don't make it at all! Just stick to sushi if you're just gonna pander to the gaijin! Ahh... I'm so hungry. I want to order delivery, but I can't afford it tonight. Why did you get me started on talking about takoyaki? Now I can't get it out of my head! Oh, I miss it... I want to go back to Osaka... Things were so much simpler back at home... Man, I miss dad. Ah, sheesh, I'm starting to cry a bit. He'd be so disappointed to see how I'm doing now. He was the best hero in the world and look at his little girl, crying on her filthy couch surrounded by cans of beer full of cigarette butts. He'd be on my tuchus about this. He was always telling me about how I could be the best, and now I've gone and just... ruined everything. I can't even keep myself from getting drunk during my therapy sessions! I'm such a mess! Why am I like this!? God... I'm sorry. I'm freaking out and I'm feeling jumbled up. Can we end session early today? Yeah, okay. See ya, doc."](https://i.imgur.com/p1mSFBj.png) <-
+-> !["Popsy: I feel like I'm going crazy, man. Everything seems to jumble up in my head and before I realize it, things are different and don't make sense. You look around and what do you see? Bird people, bird people, bird people! That new crazy girl, Fluegal, bird lady. One of those students at Shiketsu, the white haired kid, bird boy."](https://i.imgur.com/p1mSFBj.png) <-
 
 
 ***
@@ -615,18 +615,18 @@ Behind them, the rest of the Korean clique had appeared, giggling and talking as
 (Ew, that was my dentist.)
 
 
-“I better run.” Inigo winked and walked away. “I’ll go bother someone else.” He waved as he disappeared around the corner.
+“I better run,” Inigo winked and walked away. “I’ll go bother someone else.” He waved as he disappeared around the corner.
 
 “There she is!” Inigo heard Edith yell as he made his way back to the main room of the gala, going the long way around so he wouldn't run into the clique. 
 
 ***  
-Inigo wandered into the gala once more. So this was another part of the hero world that he hadn't seen before. Most of his experience before Shiketsu came from news clips and his Popsy disc-sets. He's been in countless parties much like this one with his family, but this was- different. He didn't belong here. It seemed like his first day at Shiketsu all over again. It felt lonely. 
+Inigo wandered into the gala once more. The party was even more lively. So this was another part of the hero world that he hadn't seen before. Most of his experience before Shiketsu came from news clips and his Popsy disc-sets. He's been in countless parties much like this one with his family, but this was- different. He didn't belong here. It seemed like his first day at Shiketsu all over again. It felt lonely. 
 
 To his surprise, he spied his classmate, Sally at one of the banquet tables by herself. She stood with her back facing a wall. Slightly hunched like she was trying to avoid notice. If anybody knew what if felt like to be a stranger here, it would be the brown-haired beauty from Mountaina. Or was it Monotona? He couldn't remember. He furrowed his brows. She was breaking protocol by not being with Noah right now. She wore a conservative black dress that was only two modifications away from her normal nun outfit, but he could see she went through a lot of effort to modify it to be rich and fancy. She was getting looks from other people. He'd have to give her his tailor's card later. Still, she must've come here to impress a certain someone and he was a firm believer that the heart can overcome any obstacle.
 
-"Well if it isn't my favorite gunslinger!" Inigo shot her finger guns as he joined her, "Noah's a lucky man. That's a nice dress. You don't have to go all out to captivate him, y'know?" He said winking. "You might catch other men."
+"Well if it isn't my favorite gunslinger!" Inigo shot her finger guns as he joined her, "Noah's a lucky man. That's a nice dress. You don't have to go all out to captivate him, y'know?" He said winking.
 
-"Inigo? Shut up! You creep!" He heard clicking coming from her quirk. Surely she wouldn't attack him here, "And thanks- I just, that's nice of you to say but-" Sally said, startled and flustered. There's the Sally he knew.
+"Inigo? Fuck off! You creep!" He heard clicking coming from her quirk. Surely she wouldn't attack him here, "And thanks- I just, that's nice of you to say but-" Sally said, startled and flustered. There's the Sally he knew.
 
 "You're here with Noah, right?" Inigo cut her off and grinned widely. "I saw their table when I came in."
 
@@ -634,7 +634,33 @@ To his surprise, he spied his classmate, Sally at one of the banquet tables by h
 
 "Eh? What's with the face though? You don't like schmoozing with elites? You don't look very happy," Inigo said, grabbing a champagne flute from a nearby waiter and holding it in front of him. He flashed his best smile. "You wanna ditch and run away with me?" he teased.
 
-"Shut up! Of course, waiting for Noah but he's too nice to excuse himself from all those people," She folded her arms together as they stood, backs facing the wall, staring at the party. "I thought this would be fun but I'm dying here, this thing is sooo dull. Nothing at all like the parties back home." 
+"Shut up! Of course, I'm waiting for Noah but he's too nice to excuse himself from all those people," She folded her arms together as they stood, backs facing the wall, staring at the party. 
+
+"I guess, you're right." Inigo said looking towards the crowd of smiling faces.
+
+"So hey, I've been meaning to talk to you," Inigo said, his voice a touch serious.
+
+Sally narrowed her eyes at him. "Huh?"
+
+"Have you seen Desolator since Christopher's accident?"
+
+"What?" she looked at him distrusfully, stepping back.
+
+"I know he's been talking to you. You're not gonna take his offer, right?"
+
+"How do you know him?" she asked suspiciously.
+
+"Well, he's been talking to me too," Inigo fibbed. "So I did some digging, and I thought I'd check up on you."
+
+"I want nothing to do with that bastard and his plans," she said firmly. "You?"
+
+"Same for me," Inigo winked, grinning and giving her a thumbs up. "You're more than your gun quirk, Sally."
+
+"I know that already. Jeez."
+
+"You're a good person, and you're way too pretty to be standing in the corner like this. You wanna go mingle with me? We can make fun of all the rich snobs," he suggested.
+
+Sally sighed. "Not really. I came here for Noah and I thought this would be fun, but I'm dying here. This thing is sooo dull. Nothing at all like the parties back home." 
 
 "What kind of parties are you used to?" Inigo asked, tilting his head.
 
@@ -1192,3 +1218,145 @@ Curie waved a hand airily as she unlocked her apartment. "Doesn't matter. You're
 Inigo considered this and then broke into a grin. "Alright, you got yourself a deal.” He smiled back. “And thanks for your help tonight," he said sincerely. "Get some rest. I'll check in with you tomorrow."
 
 Curie mumbled incoherently into the couch cushion. Inigo took that as his cue to slip out quietly. As he flew off into the night sky, he had to smile thinking about Curie's silly assumption. But also, he made a mental note - he really needed to get a better photo of Hoge one of these days.
+
+####XII. Inigo’s Apartment
+>Recommended music: https://www.youtube.com/watch?v=3_xHISYL9AQ
+-> ![Another beautiful Kyoto morning.](https://i.imgur.com/I0sozMJ.jpg) <-
+
+Bright morning sunlight streamed through the windows of Inigo's apartment. Humming to himself, Inigo rifled through the clutter in his closet, tossing old clothes and boxes aside. Gigan fluttered over his shoulders dodging the thrown objects in a panic.
+
+"Aha, there it is!" Inigo finally extracted a battered manila folder tucked into the corner. He blew dust off the top and carefully opened it, revealing a rumpled sheet of notebook paper covered in his messy handwriting. Behind him, he heard a loud crunch and turned to see Junichi sprawled on his couch playing Mecho Corez on the TV. An open bag of chips rested on his lap.
+
+"What's that?" Junichi asked boredly from the couch, not looking up from the mech battle video game he was fully engrossed in, his thumbs working the controller at lightning speed.
+
+"It's my old list of girls I tried to date when I first started at Shiketsu," Inigo explained, scanning the paper with a nostalgic smile. "Man, I went through so many rejections that first semester. But I was determined to score a girlfriend no matter what!"
+
+Junichi grumbled, "Why do you need to dig that ancient thing up now?"
+
+"I wanted to find it so I can track down all those girls and properly apologize for how I acted back then," Inigo said seriously, carefully folding the paper and tucking it into his pocket. "I was kind of a jerk with my cheesy pick-up lines and not taking no for an answer. If I really want to change and be better, I should own up to my past mistakes, you know? Call it a Reverse All-Out Multi-Target Attack!”
+
+"Uh huh," Junichi muttered, clearly barely listening as he focused on the game. "Well, leave me out of it."
+
+Inigo rolled his eyes. "I would, except you're always here hanging around my apartment! Speaking of which, why are you still crashing on my couch? Uh, don't you have your own place to recover at?"
+
+"Nah, your couch is more comfortable. Oh nice, you unlocked the Terra-mech!" Junichi explained in a monotone, eyes glued to the screen even as he spoke. "Plus your place is closer to the hospital. Now shut up, I'm trying to concentrate."
+
+"Alright, well you can stay as long as you want bro, but what are you doing here?" Inigo asked, turning his head. He looked to Curie sprawled casually on the other end of the couch next to Junichi, leafing through a dance magazine.
+
+Curie glanced up with a breezy smile. "I'm here for my dance lessons, silly. Did you forget you promised to teach me? I got bored cooped up in my dreary apartment all alone, so I figured I'd just come hang out here for a while. Hope that's cool." She brushed a strand of silver hair behind her ear. "By the way, I'm loving what you did with your hair today."
+
+Inigo ran a hand self-consciously through his blond locks. "Oh, thanks. But shouldn't you be at your hospital shift or something?"
+
+"Nope, I'm done for the day," Curie said matter-of-factly. "I'm free as a bird now, so I can stick around here. It’s not like I’m an inventor or crafter like the other supports, and I can pretty much go wherever I please. "
+
+"Right, okay… what about you?" He pointed at Maddie who lazily raised a hand from where she was sprawled across a chair near the window, scrolling on her phone. "Just staying here waiting on some intel to come through. This place has a better signal than the safehouse. Don't mind me."
+
+“Fine.” Inigo trailed off as he heard loud crashes emanating from the kitchen. Whipping around, he saw the hulking form of Drekus rummaging through the fridge, piling food haphazardly on the counter.
+
+"Drekus! What are you doing?" Inigo demanded, marching over.
+
+"Drekus waiting for crushing of Oomori. And Drekus hungry. Make sandwich. Ham sandwich. Yes," the large mutant grunted by way of explanation, already slapping together slices of lunchmeat between two pieces of bread. Crumbs and bits of lettuce scattered across the counter.
+
+Inigo shook his head. He turned to Junichi, Maddie, and Curie. "None of you have a problem with this?" 
+<He's kinda cute.> <Nope!> <No.>
+
+Inigo dragged a hand down his face in exasperation. "Okay fine, but I'm gonna need you guys to lay low because-"
+
+Before Inigo could continue, the doorbell rang. "Damn, that must be her!" he realized after checking the clock. "She's early!"
+
+Inigo rushed over to the front door and peered through the peephole. Sure enough, Hoge stood outside in the hall. Inigo's pulse quickened. It had only been four days since their magical first kiss at the summer festival, but to Inigo it felt like an eternity.
+
+"It's Hoge! She’ll definitely ask questions if she sees any of you. Everyone hide now!" he yelled.
+
+Junichi and Curie immediately dove behind opposite ends of the couch. Maddie flattened herself behind the curtains. Drekus attempted to cram his massive frame into a kitchen cabinet, causing dishes to crash loudly to the floor.
+
+Inigo cringed at the noise. "One second!" he called through the door. He sprinted over to shove Drekus fully into the cabinet and yank it shut.
+
+“Drekus want sandwich!” Drekus stuck his hand out of the closet.
+
+“Fine!” Inigo grabbed the sandwich off the counter and handed it to the mutant, then darted back to the entrance.
+
+He took a deep breath to steady his nerves before opening the door. The moment he saw her, Inigo broke into a huge smile.
+
+“Hoge!” Acting on impulse, he threw his arms around her in an enthusiastic hug. Hoge staggered back a step, letting out a surprised giggle as she hugged him back. They held each other tightly, swaying a little. Inigo breathed in the familiar scentlessness of Hoge's hair, realizing how much he had missed her presence. 
+
+After a long minute, Hoge pulled back, her outline wavering and her cheeks endearingly pink. "S-so "Where’d you been?"" she asked, meeting his gaze.
+
+"Oh, I had some issues I had to deal with." Inigo shrugged. "Some messy family stuff came up, I’ll tell you all about it later. It was rough but I'm much better now that I get to see you." 
+
+Inigo heard a plate crash inside his apartment, followed by several hushed whispering from his unwanted houseguests.
+
+"Ready to go to the hospital?" he said, a little too loudly.
+
+Hoge gave him a strange look. "Yes, but what was that noise just now?"
+
+"Uh, noisy pipes," Inigo explained, he took her hands and spun around with her so she was facing away from the door, just in time as Curie stepped out of her hiding spot to meet Hoge, only to be stopped by Maddie. 
+
+"This building is pretty old." He gave her his most charming grin. “How’d  you been?”
+
+"I've just been studying for the exams," she said, “You know we need to take the qualifying tests before we could go to the license exams, right?” *Ugh. I completely forgot.* Gigan floated apologetically from his shoulder.
+
+“How could I forget? I bet it’s been dull without me around to distract you.”
+
+“It has been dull and a little lonely,” Hoge admitted, looking  a little down “We should go. He’s going to need a lot of help packing and I need to go back to studying.”
+
+“Alright, but just one moment.” Inigo brushed a loose strand of hair from her face, his fingers lingering to caress her cheek. 
+
+Hoge bit her lip. Inigo smiled. “You know I've just been moping around waiting for the chance to see you again.” 
+
+Unable to resist, Inigo gently tilted her chin up and kissed her quickly. Hoge let out a tiny squeak of surprise before melting into the kiss, her hands coming to rest against his chest. Inigo's mind went blissfully blank as they shared the tender moment.
+
+When they parted, both teens were shyly avoiding eye contact, pink tingeing their cheeks. Inigo scratched the back of his neck awkwardly.
+
+“I-is that okay, now?” he muttered awkwardly.
+
+“Since we’re alone. Yes.” Hoge mumbled, fiddling with the hem of her shirt.
+
+Their eyes met and his heart skipped a beat. 
+
+"I missed you, Ini," Hoge mumbled.
+
+Inigo felt his chest swell with emotion. "I missed you too," he said softly. 
+
+He laced his fingers through Hoge's. He was never letting her go again. They started down the hall hand-in-hand, a familiar warmth filled him. Inigo knew he would do whatever it took to be with Hoge even if it was just for a short time to help Christopher leave the hospital.
+
+***
+
+
+As soon as Inigo and Hoge left, the odd assortment of houseguests came out of hiding.
+
+"Ugh, finally!" Junichi muttered, flopping back onto the couch and resuming his video game. "I thought those two were never gonna stop making googly eyes at each other."
+
+Curie watched the door sullenly, a stormy look in her eyes.
+
+Maddie noticed and shook her head. "Don't even think about it, girl. Inigo's found his soulmate, clear as day."
+
+"I wasn't going to do anything!" Curie protested, though her expression said otherwise.
+
+"Mmhmm, sure," Maddie said knowingly. "Leave the lovebirds be. They deserve each other."
+
+"Who made you the romance expert?" Curie grumbled, dropping onto the couch next to Junichi.
+
+"Years of experience, honey, and a little thing called shipping. I’ve been learning it since I arrived in Japan," Maddie replied. "That kind of love doesn't come along every day. We can't stand in the way of fate."
+
+"Ugh.. kill me," Junichi muttered without looking up.
+
+Curie crossed her arms. "Well I think it's dumb. Inigo could do way better than that mousy bookworm."
+
+Maddie gasped dramatically. "How dare you! Hoge is a gem. Don't be bitter just because Inigo chose her over you."
+
+"I'm not bitter! Do you even know her? Or are you just some creepy fan!" Curie accused shrilly.
+
+"They are good sandwiches, like good bread and ham," Drekus rumbled through a mouthful of sandwich as he lumbered into the room.
+
+"Stay out of this!" Curie and Maddie yelled in unison.
+
+"Drekus just saying, they good match," Drekus said placatingly. "Drekus approves."
+
+"Thank you!" Maddie exclaimed. "See Curie, even Drekus agrees. Don't mess with fate."
+
+Curie threw her hands up. "Ugh, you both suck!" She glared sullenly at the door. Inigo was cute, but he clearly had no taste.
+
+Junichi sighed loudly. "Will you guys shut up already? I can't hear the game over your yapping."
+
+The others fell silent. Drekus finished his sandwich and went to raid the fridge again. Curie kept glowering into space. Maddie settled in by the window, looking smug as she watched Inigo and Hoge walk out of the apartment building on their way to the train station.

@@ -865,3 +865,42 @@ Nexa's smile softened, and she patted her brother's back affectionately. "Indeed
 Nexa nodded in acknowledgment, her piercing gaze shifting between Luna and me. "I can sense that she's more than a mere companion," she remarked cryptically, her words leaving me wondering about the depth of her perception.
 
 As the sun dipped below the horizon, casting a golden glow across the dunes, we stood in the company of the bandits' enigmatic leader and his enigmatic sister, surrounded by the vastness of the Twenty Dunes. The encounter left me with a sense of awe and a thousand unanswered questions, each one adding to the captivating mystique of the land I had come to know as the realm of the Kash'gon.
+
+>038: We will meet again
+
+Under the shimmering starlit sky, I found myself sitting down with Nexa, ready to unravel the mysteries that had brought her to the Twenty Dunes. The sand seemed to hold its breath, as if the desert itself was awaiting her words.
+
+"Nexa, I've been wanting to ask you... What happened? Why did you disappear, and why are you here now?" My questions tumbled forth, laden with curiosity and a touch of concern.
+
+Nexa's gaze met mine, her eyes holding an enigmatic depth. "John, our people were punished by Felidae. We were denied the solace of dreams, of finding peace in our own minds. We were lost, wandering through life without the anchor of dreams to guide us."
+
+I listened intently, the gravity of her words sinking in. She continued, her voice steady and resolute, "Felidae designed this test—a way to make us experience what it truly means to be lost in this world. And for that, we needed a guide. We needed someone who could lead us out of this darkness."
+
+I felt a mixture of awe and responsibility. "And that guide was me?"
+
+Nexa nodded. "Yes, John. You were chosen to be our guide, to help us find our way back to purpose and meaning. And now, we've settled here, in the Twenty Dunes."
+
+Her words resonated within me, the weight of the role I had unknowingly taken on settling upon my shoulders. As if acknowledging my contribution, Nexa gave me a title: "The Guide of Twenty Dunes Nomads." It was both an honor and a responsibility that I hadn't anticipated.
+
+I seized the moment to make a humble request. "Nexa, if I may ask a favor... Could you consider Luna an equal among the Caracals here? She has been through so much, and I believe she deserves a chance for a new life."
+
+Nexa regarded Luna with a discerning gaze, then turned her attention back to me, her expression softening. "Very well, John. Luna shall be treated as an equal among our people."
+
+A surge of happiness surged within me, and Luna's joy was palpable as she hugged me tightly. It was a moment of affirmation, a step toward Luna finding her place among the Nomads.
+
+That night, a feast unlike any other unfolded in the heart of the desert. Exotic fruits like Ramba and Kuli-raka were shared, and the air was filled with the aroma of a massive bird the bandits had hunted earlier. The Holy Fasting Ritual had culminated in a celebration that transcended the limits of my imagination.
+
+Amidst the laughter and camaraderie, I found Rav by my side. The weight of past conflicts hung between us, but this time, there was a change in the air. "Rav, I wanted to talk to you," I said, my tone sincere.
+
+He met my gaze, a hint of humility in his eyes. "I know, Ko-John."
+
+His acknowledgment surprised me, and I extended my hand towards him. "I accept your apology, Rav. And I apologize for my initial assumptions about your people."
+
+Rav's grip was firm as our hands clasped. The tension of our past disagreements seemed to dissolve in that simple gesture, replaced by a mutual understanding.
+
+as We shook hands, a silent reconciliation that held the promise of a fresh start. The next morning, I awoke with a sense of purpose. Luna and I began preparing to leave the Nomads, our journey continuing back to the mainland Kash'gon city.
+
+As I readied myself for departure, Rav approached me with a meaningful look. "You know, John, I dreamt again. I dreamt that our paths will cross once more."
+
+A smile tugged at the corners of my lips, a mix of hope and anticipation. The sands of fate had shifted, and as Luna and I embarked on the next chapter of our journey, I couldn't help but believe that destiny had more surprises in store.
+![Image description](https://furrycdn.org/img/view/2023/6/19/249417.jpg)

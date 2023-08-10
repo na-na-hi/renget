@@ -43,10 +43,10 @@
 
 ***
 
-### Latest boy: Tristan
-"The recently heartbroken boy that you've been hired to take care of." ==Safe==
-Card: [Tristan](https://files.catbox.moe/box4ab.png)
-JSON: [Tristan](https://files.catbox.moe/39yrk2.json)
+### Latest boy: Noah
+"An abused and scared boy being sold on the black market." ==NSFW== ==TW: Abuse==
+Card: [Noah](https://files.catbox.moe/dgqa6t.png)
+JSON: [Noah](https://files.catbox.moe/lx7x6e.json)
 
 Or download his card/JSON file below!
 
@@ -95,6 +95,7 @@ Card | JSON Link | Description | Rating
 ![Headspace Kel](https://files.catbox.moe/sa28iq.png)   | [Headspace Kel](https://files.catbox.moe/53ek07.json)   | "An impulsive 12-year-old boy."   | ==Safe==
 ![Kel](https://files.catbox.moe/u09nug.png)   | [Kel](https://files.catbox.moe/rmray9.json)   | "A supportive 16-year-old boy."   | ==Safe==
 ![Tristan](https://files.catbox.moe/box4ab.png)   | [Tristan](https://files.catbox.moe/39yrk2.json)   | "The recently heartbroken boy that you've been hired to take care of."   | ==Safe==
+![Noah](https://files.catbox.moe/dgqa6t.png)   | [Noah](https://files.catbox.moe/lx7x6e.json)   | "An abused and scared boy being sold on the black market."   | ==NSFW==
 
 ***
 ###Suggest Stuff!

@@ -288,7 +288,7 @@ The permanence of the effects of any of these techniques is hotly debated, with 
 From both that and anecdotal evidence, I'd say roughly, short-term atrophy (that lasting under a year at the high end) is **fully recoverable**, but you would be starting to push it at the end of that range. Longer term atrophy and non-use may (or will depending on opinions) cause lasting shrinkage.
 
 !!! note Author Anecdote
-	As for myself, I have been on HRT for 5 years, in-and-out of chastity for that whole time with going towards extended sessions and extreme forms in the past 1.5 years. I started at about 5 inches fully erect, 2 inches flaccid and these days I probably top-out at 2 inches fully erect and basically null flaccid (<0.5 inches). As for recoverability at this point, with frequent erections and jelqing, I would estimate I could return to about 3.5 inches, but I doubt that getting back to 5 inches would be possible.
+	As for myself (at time of writing mid-July 2023), I have been on HRT for 5 years, in-and-out of chastity for that whole time with going towards extended sessions and extreme forms in the past 1.5 years. I started at about 5 inches fully erect, 2 inches flaccid and these days I probably top-out at 2 inches fully erect and basically null flaccid (<0.5 inches). As for recoverability at this point, with frequent erections and jelqing, I would estimate I could return to about 3.5 inches, but I doubt that getting back to 5 inches would be possible.
 
 
 **Running Theory on Shrinkage Cocktail**:

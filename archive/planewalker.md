@@ -137,6 +137,11 @@ Vincent | Info
 ![](https://files.catbox.moe/doxb97.png)   | A human scientist who thinks humans are scum and that monsterboys/girls are basically the best ever. To the point that he wants to kidnap one and marry them. That could be you! Or not, you could play a human and try to romance him on hardmode. I don't run your life. Based off a dream I had.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/vincent-d19a5644),  [Catbox](https://files.catbox.moe/nj8vdt.png)
 
+Jack | Info
+:----:  | :----: 
+![](https://files.catbox.moe/4l4dz9.png)   | You've saved up enough money to treat yourself to a nice vacation in a cozy mountain town to enjoy one of their winter festivals. The only problem is that enjoying the celebrations by yourself is pretty lonely. As you sit around and sulk about it, a tall but kind-looking stranger reaches out to you. Seems like he wants to enjoy the festivities with you! Loosely inspired by [Snowman](https://www.youtube.com/watch?v=uSqG0DVVNhw).
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jack-214c0b88),  [Catbox](https://files.catbox.moe/xihhtw.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
