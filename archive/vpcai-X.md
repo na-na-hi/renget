@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
-Aug. 08th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
-July 03rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
-June 08th | Gloria & Marnie (Couple) [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
+Aug. 9th | Genwunner (OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
+Aug. 8th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
+July 3rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
+June 8th | Gloria & Marnie (Couple) [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 May 24th | Jessie (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher) \| Mallow (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
 May 20th | Wicke [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke) \| Hex Maniac Helena (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
 May 19th | Melony [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
-May 12th | Lisia [CharacterHub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
@@ -34,6 +34,7 @@ Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo101
 **Gloria** & **Marnie** (Couple) | [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
 **Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [Chub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
+Genwunner | [Catbox](https://files.catbox.moe/19c8tu.png) Card
 
 ### Unedited C.AI Ports:
 Characters | URLs

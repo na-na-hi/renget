@@ -41,10 +41,13 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)):
-https://rentry.org/wzi4x
->Crush...2 (Hivemind, Mirror Devil (mentioned)):
-https://rentry.org/6rwmw
+>Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos)
+https://rentry.org/rzimh 
+>Moving up in the World
+https://rentry.org/esiz3
+
+New Artfag (Sandy and Mio casualwear)
+>>89859158
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -549,6 +552,10 @@ https://rentry.org/dfkw5
 https://rentry.org/wzi4x
 >Crush...2 (Hivemind, Mirror Devil (mentioned)):
 https://rentry.org/6rwmw
+>Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos)
+https://rentry.org/rzimh 
+>Moving up in the World
+https://rentry.org/esiz3
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -852,8 +859,6 @@ You can do a 1:2 exchange of Advanced Points (any type/color) for Basic Points (
 >>89799592
 >Stirrer (Demon Hybrid Something)
 >>89800183
->Dr. Neighman
->>89854313
 ```
 
 Note: This was requested to be removed by his anon. I'm leaving this here so no one thinks the build was left out on accident, or on the off chance that it was a prank by an impersonator so we don't need to hunt down the build again.

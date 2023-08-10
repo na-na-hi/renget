@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Crikey](https://rentry.org/crikeyscorner) | Misc |[Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Ayato](https://files.catbox.moe/op172p.png)|[Ayato](https://files.catbox.moe/op172p.png) [MV], [Aimee](https://files.catbox.moe/neyv9r.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Tristan](https://files.catbox.moe/box4ab.png), [Kel](https://files.catbox.moe/u09nug.png)|[Kel](https://files.catbox.moe/u09nug.png) [MV]
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
@@ -30,12 +31,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Kazuo](https://files.catbox.moe/ol05k3.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Atzi](https://files.catbox.moe/x2hgq1.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ruby](https://files.catbox.moe/8qc7b1.png)|
-[Sull](https://rentry.org/p8kav)   | Mostly cunny |[David](https://files.catbox.moe/sbymyf.png)|
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Halloween Village](https://files.catbox.moe/b90913.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||[Sally Acorn](https://files.catbox.moe/bec0tx.png) [MV]
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
+[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
+[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
@@ -57,7 +58,6 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
-[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||

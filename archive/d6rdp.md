@@ -381,6 +381,8 @@ Leader Powers: Kiryu Coco’s powers were both simple yet highly effective. As a
 
 ##Leader: Mori Calliope
 
+Leader: Mori Calliope
+
 Size: 30’000 km2
 
 Population: 3.58 Million
@@ -389,14 +391,40 @@ Founding Date: Year 73
 
 Capital: Wenbury
 
-Geography and Infrastructure: 
+Geography and Infrastructure: The Reaper Underworld as it is called lies in a blasted wasteland where little life exists. This geographical area is known as the Dying Lands, and covers both her, Shien, and Ollie’s territory as well as the former nations of the deceased powers that surround her. The heat above is extreme in this desert nation, which forces the entire population to live in subterranean dwellings. Temperatures never go below 80 Fahrenheit, and in the summer may reach as hot as 140 on the worst of days. Large piles of dust and ash blanket the surface, which is endlessly grinding all down into nothingness. 
+
+Throughout the entirety of this land, the features above depict the ruins of a past unremembered. For as long as the inhabitants of this country can recall, they have always been there. Pools of tar and canyons that seem to dive down endlessly into the earth. Bones of long extinct gigantic creatures and colossal stone crosses that form the graveyard of seeming giants. Even the ruins of long abandoned cyclopean cities made of obsidian exist. It is difficult to say who lived here before Mori, but they were long gone before she arrived. Or perhaps, she cleared them away to make her domain.
+
+A single river runs through this land, though its waters bestow amnesia on those who drink it, before becoming pure when it touches Kiara’s nation. All water is thus drunk from underground reservoirs, as this is the only place it is pure. Although the cities thrive well enough on their own, only the largest structures of utmost importance poke their heads up onto the surface. Because there are few resources available, the Reaper Underworld often goes a long time without creating new infrastructure, and can seem run down or more impoverished than it actually is. Most cities have a somewhat crumbling or abandoned feel to them, as it is easier to build new dwellings than repair the old ones. 
+
+The surface of the Reaper Underworld is simply too hostile. Not only is there no resources, but monsters swarm the lands as easily as if there was fog covering it. Because Mori’s country borders multiple ruined states, the fog blows in often, and to the south, incursions of zombies from Ollie’s raj occur frequently. 
+
+Only the tough can survive here, and all citizens of the Reaper Underworld are expected to contribute to the defense of their homeland. It is said you are not an adult until you take your first life. Mori borders the former lands of Artia and Rosalyn to the south and southeast, Ollie and Reine to the southwest, a small strip of Kiara to the west, Gamma to the northwest, and Uyu to the northeast. 
 
 Flag: A black field with a diagonal left facing blood red band running through the middle, The red band is bordered by two smaller gold bands. In the center is a black circle with a white skull, giving the appearance of the band disappearing in the middle. 
 
-General Overview: 
+General Overview: Although the geography may be among the most hostile of all states, the Reaper Underworld is a successful country with a modern infrastructure and a stable economy. Mori has managed to create a thriving society in what most would consider a death sentence, although her rule is autocratic and with an iron fist. She is the only government. All obey her, or they get the scythe. 
 
-Blessed:
+Mori has always seen it as her duty to protect the cycle of life and death, specifically the latter function. To this end, Mori has always been vehement in purging the lands of the undead and those who would avoid the cycle of death. Within less than five years of her state’s creation, the destruction of the traitorous six states (Holo CN) and the ruination of their lands led to her proclaiming a crusade of death. The citizens of the Reaper Underworld have supported her in this endeavor ever since. 
 
-Leader Description: 
+Little by little, she has been chipping away at the lands once inhabited by Artia and Rosalyn. She has successfully reclaimed some territory, but it is minor. The process is expected to take centuries. She is also engaged in a perpetual war with Ollie that seems to be an endless stalemate of attrition. Some would argue that Ollie could win as her numbers are limitless if she actually cared, but nobody is bold enough to suggest this to Mori.
 
-Leader Powers:
+Because the Reaper Underworld has more limited resources, this has led to the inhabitants becoming tough and very “urban” as it were. Short tempered and rough around the edges, they are used to having to fight to defend their homes from monsters. A large rap culture has also developed in this country, one which Mori herself supports and engages in. 
+
+The worship of the Grim Reaper does occur in this state, one of the few religions outside of the church of Yagoo. As Mori is the apprentice of death, it stands to reason to these individuals that a death deity should exist. The worship of the reaper in fact overpowers Yagoo in this state by popularity. This once led to a puritan onslaught who accused Mori of heresy. However, after a shocking display of violence and slaughter by Mori who massacred the puritans with little regard, they have kept away.
+
+Because the Reaper Underworld is in a constant state of conflict, all individuals are expected to serve militarily. This is combined with an attitude of unity through adversity that makes the people of this land tough it out through the bad times to get to the few good times. Their rough mannerisms however have landed them no friends, save for Kiara who has been rebuffed. They would prefer to get things done themselves so as not to shoulder the burden of their task on others, although they also don’t want anyone to mess things up. 
+
+Although a technical military superpower, the endless fighting has resulted in Mori not becoming a global superpower. Her ultimate goal is to cleanse the lands of her lost siblings of the fog and monsters that dominate them, and after that, some whisper, she may turn on her own living siblings as well. For are not immortal demigods in breach of the cycle?
+
+Still, Mori has rebuffed this. Except for Ollie. She hates Ollie. Kiara too if she can find a way to keep her dead. Only time will tell. 
+
+Blessed: Those who are Blessed of Mori will lose all of their skin, having it slough off literally overnight and becoming living skeletons. Ironic as it is to have the Blessed of a demigoddess who loathes the undead be the undead, she has come to appreciate them, albeit reluctantly. Her annoyance has given rise to the term “Deadbeat” which has been adopted en masse by them. They share Mori’s personality for many things, as well as enthusiasms, which often means they have a serious almost punk-esque attitude to things. They follow Mori regardless of whatever she wishes, sometimes grumbling but never refusing. 
+
+Leader Description: Mori Calliope, the reaper’s apprentice herself, is cool and serious individual who claims to be the apprentice of death. She is also quite relaxed, and rarely loses her demeanor. Mori has no tolerance for dissent in her ranks or troublemaking, and is frequently known to kill those that annoy her with her scythe. This lack of regard for life is generally believed to be because of her philosophy on mortality, that being it is inevitable, and life is both fleeting and one speck between twin eternities of nonexistence. 
+
+Mori’s job is to make sure death functions correctly. This means that in addition to purging monsters and undead from her lands, which are extremely common, she also makes sure that things stay dead. Necromancy is highly illegal in the Reaper Underworld, and she loathes any form of unlife association. It is rumored that when Rushia passed, she celebrated for a week. Those who prolong their life through unnatural means also irritate her.
+
+A state of constant war has existed between her and Ollie since the zombie’s descent into undeath, seeing it as her duty to end her unlife. It is unlikely this will end until one of the two ultimately claims final victory and destroys the other. She also rather despises Rio, Mel, and quite a number of others for similar reasons. Because of this, Mori’s relationship with many of the other demigods is chilly, famously loathing Kiara for her inability to die. Some say she has a sweet side, but it is very well buried if this is the case.
+
+Leader Powers: As Mori embodies death, it is no surprise that she wields magic related to death. Aside from casting spells that kill very easily, her obsidian scythe in particular is a lethally effective weapon. This is because the scythe is capable of killing with a single blow, flawlessly, every time. All it takes is the tiniest cut to end a life, quite literally severing the soul from the body and sending them to the afterlife. As the scythe cuts through everything, it is perhaps the most dangerous weapon in the world, because there is absolutely no defense against it. The other demigods are always respectful around Mori as a result.

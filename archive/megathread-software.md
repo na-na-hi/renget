@@ -117,6 +117,10 @@
 - It offers access to files for the most recent app releases and always changing and improving to keep up with the times.
 - [URL Safety Results](https://www.urlvoid.com/scan/rsload.net/)
 
+### 🔗 [SCloud](https://scloud.ws/) • Sign Up
+- The primary focus is Windows applications. Additional resources include games, specific applications, and more.
+- [URL Safety Results](https://www.urlvoid.com/scan/scloud.ws/)
+
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI
 - Updated often, with complete, unrestricted versions of just the best applications available.
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)

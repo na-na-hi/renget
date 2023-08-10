@@ -517,18 +517,24 @@ No private donations.
 2. I'm sorry, but i'm not blushing right now am I?
 3. These feelings weren't mentioned in the text book.
 
-##Helm (Summer)
+##Helm (Aquamarine)
 >Blabla Status
+SEA YOU EZS
 
 >Gift Received
-1. 
-2. 
-3. 
+1. I can use this to help maintain the Admir- oh, heh heh, nevermind.
+2. I feel bad. You always give me gifts, but I never reciprocate. Is there anything you want?
+3. You've already given me so much, yet you're still giving me MORE?
 
 >Affection Lvl Up
-1. 
-2. 
-3. 
+1. To me, you're just like the ocean. Every time I see you I feel rejuvenated! ...and I always want to see you.
+2. The waters freezing. So why are my cheeks so hot?
+3. Today has been a dream come true. I will never forget it. As a long as I live.
+
+>Outpost Patrol
+1. Have you seen Anchor or Mast? I feel as though they've been lax in their duties ever since we got back from the beach.
+2. I don't know when if ever i'm going to be back here. So i'm going to make the most of it.
+3. When do you think we'll be able to come back to the ocean again.
 
 ##Isabel
 >Blabla Status
@@ -624,6 +630,7 @@ Dog lives are best lives.
 3. What a dump! It'll take me forever to fix all of THIS!
 
 ##Liter (Guard Fish)
+I LITERALLY can't give her any gifts to hear any of those lines because her affection is maxed. 
 >Blabla
 
 
