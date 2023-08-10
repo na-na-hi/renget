@@ -10,10 +10,10 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Current stream
-https://www.youtube.com/watch?v=5s-O3oluZJM
+\>Upcoming stream
+https://www.youtube.com/watch?v=qzOjBoa9vls
 \>Past Stream
-https://www.youtube.com/watch?v=6CL5ijOYbZI
+https://www.youtube.com/watch?v=5s-O3oluZJM
 
 \>First cover - Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
 https://music.youtube.com/watch?v=RWU3o_kDixc

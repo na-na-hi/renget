@@ -22,6 +22,7 @@ https://rentry.org/ubuntuamdsd
 https://rentry.org/ayymd-stable-diffustion-v1_4-guide
 https://rentry.org/sd-amd-gfx803-gentoo
 ###Intel GPU
+https://blog.nuullll.com/ipex-sd-docker-for-arc-gpu/#/getting-started
 https://www.intel.com/content/www/us/en/developer/articles/technical/running-tensorflow-stable-diffusion-on-intel-arc.html
 https://medium.com/intel-analytics-software/stable-diffusion-with-intel-arc-gpus-f2986bba8365
 ###CPU
@@ -119,6 +120,9 @@ Taken from https://platform.stability.ai/docs/features/api-parameters
 
 ###Training a LoRA for SDXL
 https://rentry.org/SDXL-Lora-Guide
+
+###Artists recognised in base SDXL
+https://weirdwonderfulai.art/resources/stable-diffusion-xl-sdxl-artist-study/
 
 ###Download the SDXL v0.9 leak
 These models are now outdated with the release of v1.0 above.
