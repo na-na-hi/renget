@@ -18,10 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Crikey](https://rentry.org/crikeyscorner) | Misc |[Tyana and Lycia](https://files.catbox.moe/4b8cnv.png), [Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Noah](https://files.catbox.moe/dgqa6t.png), [Tristan](https://files.catbox.moe/box4ab.png), [Kel](https://files.catbox.moe/u09nug.png)|[Kel](https://files.catbox.moe/u09nug.png) [MV]
 [Planewalker](https://rentry.org/planewalker) | Misc |[Jack](https://files.catbox.moe/xihhtw.png), [Yasuhiro](https://files.catbox.moe/8gsrey.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Boo](https://files.catbox.moe/cbphzi.png)|[Boo](https://files.catbox.moe/cbphzi.png) [MV]
-[Crikey](https://rentry.org/crikeyscorner) | Misc |[Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Ayato](https://files.catbox.moe/op172p.png)|[Ayato](https://files.catbox.moe/op172p.png) [MV], [Aimee](https://files.catbox.moe/neyv9r.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc |[Helm](https://files.catbox.moe/f33gnx.png), [Amelia Richards](https://files.catbox.moe/25vmnz.png)|
@@ -33,7 +33,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Genoo](https://rentry.org/295se) | Sizeplay |[Atzi](https://files.catbox.moe/x2hgq1.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
-[Scrmgn](https://rentry.org/scrmgn) | Misc ||[Sally Acorn](https://files.catbox.moe/bec0tx.png)
+[Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||

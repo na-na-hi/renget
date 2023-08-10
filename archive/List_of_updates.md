@@ -47,8 +47,8 @@
 |06/08/2023|33|Mentions & Collabs|Addition of a placeholder for the Earth Defence Force 6 fullgen collab|
 |06/08/2023|34|Mentions & Collabs|Addition of a placeholder for the upcoming HoloTalk with Advent.|
 |06/08/2023|35|Music|Addition of the archived Monetization Karaoke setlist|
-|08/08/2023|34|Mentions & Collabs|Addition of Shiori's POV for the Phasmaphobia collab|
-|08/08/2023|35|Mentions & Collabs|Addition of Nerissa's POV for the Phasmaphobia collab|
-|08/08/2023|36|Mentions & Collabs|Addition of 3 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's Marika stream|
-|10/08/2023|37|Mentions & Collabs|Addition of 2 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's second Elder Ring stream|
-|10/08/2023|38|Mentions & Collabs|Addition of a timestamp for the aftermath of Nerissa's raid on Shiori's ASMR/Reading stream|
+|08/08/2023|36|Mentions & Collabs|Addition of Shiori's POV for the Phasmaphobia collab|
+|08/08/2023|37|Mentions & Collabs|Addition of Nerissa's POV for the Phasmaphobia collab|
+|08/08/2023|38|Mentions & Collabs|Addition of 3 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's Marika stream|
+|10/08/2023|39|Mentions & Collabs|Addition of 2 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's second Elder Ring stream|
+|10/08/2023|40|Mentions & Collabs|Addition of a timestamp for the aftermath of Nerissa's raid on Shiori's ASMR/Reading stream|

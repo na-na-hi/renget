@@ -485,6 +485,7 @@ Natives, whats your favorite food from the Pokemon World?
 >**Beast:** Before coming to the guild I would deviate from my frugality and purchase *Fromage aux Feuille Précieuse* for myself, which I still believe is best enjoyed by itself.
 >**Wooper:** Is it cheating to say Blue Gummis? Because I love those things.
 >**Natu:** Roasted Kricketune. They're rare around here, but their antennae are ridiculously crunchy. The best parts by far, though the arms are good too!
+>**Amelia:** Ganlon-berry and Starly pie. The ingredients were a bit rare, but my family would always make some for the autumn festivals back home.
 
 Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “[exclusive items](https://bulbapedia.bulbagarden.net/wiki/Exclusive_item)” that are designed for specific Pokemon families (note that an item assigned to one species actually gives its benefit to every member of its evolutionary line). Assuming your species has an item available, which one would you most like to obtain?
 >**Booker**: I heard of one for a Ribombee, but it isn’t on that list... it’s called a Pollen Bow. Apparently it gives you good luck, and you’ll find more Kecleon shops in dungeons if you wear it. I’m not sure if that really works, but it sounds interesting. Also, I heard a description of how it looks, and it sounds really cute. I-I’m not sure I’d actually wear it, though. Especially not in public... Sneasel wouldn’t be able to stop teasing me.
@@ -498,6 +499,8 @@ Everyone: as Phanpy’s team may have mentioned, Wigglytuff’s Guild offers “
 >**Wooper:** There's something called a "Quag Torc." Chespin says it's some kind of ring. I could maybe wrap it around one of my gills, or my tail if it's large enough. It's supposed to make Grass-based attacks heal the wearer! Could you imagine that? I could get hit, and all Chespin would have to do is shoot one of those awesome Solarbeams at me!!
 >**Charm:** A Kindle Scarf, 100%! What? It's for Charmeleon, not Charmander? ...well, I can change that!
 >**Natu:** A Lively Scarf to match Charm's Kindle one. I don't know how it'd work, but I can try to trim it or make it into a tie or something.
+>**Nick:** Some of these items really raise questions about how they were acquired. I'm seeing a lot of hair, fangs, claws...tails? How would you-do you just-? Whatever. Anyway, I think I'd probably go with the Vulpix Tag. Apparently, it decreases how much moves hurt by a bit somehow, which seems like it would be helpful. 
+>**Amelia:** Those aren't just aren't just available to that fraud and his merry little band of loons and con-mons, you know. They're just really expensive otherwise. But a Glare Sash would be useful, as both Nick and I are weak to the ground type.
 
 If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Booker**: What? I... that... w-what? S-sorry, but that question... doesn’t make sense, does it? There’s not enough info to know the captain’s age, right?

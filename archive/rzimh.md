@@ -255,7 +255,7 @@ Turning towards the monster, Impakt charged. Inigo, Yui, and Noah rallied around
 
 With that, they blasted off in a blur.
 
-The police quickly moved in to collect the villain. Inigo and his friends made their escape up one of the rooftops overlooking the battlefield. Inigo smiled ear to ear, he had only seen his classmates briefly during the summer festival and they hadn't talked since the summer break. As soon as others were out of earshot. He hugged his friends from behind, adrenaline still pumping. "Guys! Haven't seen you two in rescue gear for awhile. That was crazy! It's so good to see you two!"
+The police quickly moved in to collect the villain. Inigo and his friends made their escape up one of the rooftops overlooking the battlefield. Inigo smiled ear to ear, he had only seen his classmates briefly during the summer festival and they hadn't talked since the summer break. As soon as others were out of earshot. He hugged his friends from behind, adrenaline still pumping. "Guys! Haven't seen you two in rescue gear for a while. That was crazy! It's so good to see you two!"
 
  "Hey! Watch where you're touching!" Yui yelled in jest, "Seriously, it's been way too long. I missed kicking ass with you losers."
 
@@ -327,7 +327,7 @@ Inigo sat quietly by his friend's side. He placed a lunch box and a small "Get B
 
 Maddox sponged Junichi's forehead with a damp cloth. “He’s got a bad fever, kid.  And there could be permanent complications if he doesn’t wake up soon. I'm worried her might take a turn for the worst.”
 
-Inigo leaned in inches away from his unconscious friend, "I'm here, bro. Sorry it took awhile." He smiled weakly. "Your hair's lookin' shabby by the way. You gotta wake up, okay? I need you to wake up and tell me if you scored with Max during the Festival. Or y'know... tell me to shut up and yell at me. C'mon... Please...." 
+Inigo leaned in inches away from his unconscious friend, "I'm here, bro. Sorry, it took awhile." He smiled weakly. "Your hair's lookin' shabby by the way. You gotta wake up, okay? I need you to wake up and tell me if you scored with Max during the Festival. Or y'know... tell me to shut up and yell at me. C'mon... Please...." 
 
 He placed a hand on Junichi's arm. He was deathly cold. Junichi's breathing was harsh. He muttered soundless words in his delirium.
 
@@ -401,7 +401,7 @@ Curie groaned into the cushions. "It's the worst. I wish I could just live in pe
 
 Inigo nodded sympathetically. He was very worried. This was not the charming yet quiet senpai he remembered from his first semester at Shiketsu. Her depression had gotten worse. Gigan started tidying up the place as Inigo patted Curie on the back. "I'm sure you're doing your best. Believe it or not, I've seen worse. You should see my place after a gaming marathon.” He looked around. “How about I make you some coffee? Then we can talk." 
 
-Curie bolted upright, swaying. "Actually y'know what, screw that! Let's party instead. Wooo!" She cranked up some loud music and started drunkenly dancing. The loud speakers made the room shake.
+Curie bolted upright, swaying. "Actually y'know what, screw that! Let's party instead. Wooo!" She cranked up some loud music and started drunkenly dancing. The loudspeakers made the room shake.
 
 "Oh, uh, maybe we shouldn't—" Inigo tried to protest. "C'mon, dance with me!" Curie grabbed Inigo's hands, spinning herself around wildly. "Isn't this fun?" 
 
@@ -469,7 +469,7 @@ Inigo noticed many familiar faces - his friend Noah sat with his family and Sall
 
 "Fancy meeting you two here!" Inigo said to Hiro and Orochi, "Who knew we looked so good outside of our uniforms?"
 
-"Hey Inigo," Orochi grinned, wearing a silver gown that matched her hair, "Pull up a seat, we're at the kids table since we're still in highschool."
+"Hey Inigo," Orochi grinned, wearing a silver gown that matched her hair, "Pull up a seat, we're at the kid's table since we're still in high school."
 
 Inigo pulled a seat up for Curie before taking his own, "Hey you guys know, Curie, from the support course."
 
@@ -513,7 +513,7 @@ Inigo flashed a grin and placed a hand on her shoulder. "I think you're more her
 
 "Right? I'll be here!" Inigo said, standing up as she did. He watched her leave and disappear into the crowd. He sat back down to amused looks from Hiro and Orochi.
 
-"Sooo.. you two huh?" Orochi said, smiling like the chesire cat.
+"Sooo.. you two huh?" Orochi said, smiling like the Cheshire cat.
 
 Inigo narrowed his eyes, "I'm only here as a favor to her, purely professional."
 
@@ -549,7 +549,7 @@ Inigo and Hiro looked up and saw the tall blue-haired dragon hero: Seiryu, sport
 
 "That's great. Now if you excuse me, I'd like to borrow my cousin for a bit. Come on." He offered a hand to Orochi, who took it impatiently. The two walked away to meet with a group at a different table.
 
-Inigo turned to one of the tables at the front of the party.  A tall dark-haired woman with W-shaped golden earrings caught his attention, she was between two men with expensive looking tuxedos. "Hey Hiro, you go to these places a lot, do you know who those people are?" He nodded towards the table. The large table was flanked by bodyguards and servants.
+Inigo turned to one of the tables at the front of the party.  A tall dark-haired woman with W-shaped golden earrings caught his attention, she was between two men with expensive-looking tuxedos. "Hey Hiro, you go to these places a lot, do you know who those people are?" He nodded towards the table. The large table was flanked by bodyguards and servants.
 
 Hiro looked up from his food, "Hmm? Yeah, I've seen them before, a couple of big shots. That's Baberu Kōgō, she's the CEO of Endless Horizons, the guys she's with is Eugene Kurtz and Kazuma Oomori, both very wealthy businessmen. Why do you ask?"
 
@@ -622,21 +622,21 @@ Behind them, the rest of the Korean clique had appeared, giggling and talking as
 ***  
 Inigo wandered into the gala once more. The party was even more lively. So this was another part of the hero world that he hadn't seen before. Most of his experience before Shiketsu came from news clips and his Popsy disc-sets. He's been in countless parties much like this one with his family, but this was- different. He didn't belong here. It seemed like his first day at Shiketsu all over again. It felt lonely. 
 
-To his surprise, he spied his classmate, Sally at one of the banquet tables by herself. She stood with her back facing a wall. Slightly hunched like she was trying to avoid notice. If anybody knew what if felt like to be a stranger here, it would be the brown-haired beauty from Mountaina. Or was it Monotona? He couldn't remember. He furrowed his brows. She was breaking protocol by not being with Noah right now. She wore a conservative black dress that was only two modifications away from her normal nun outfit, but he could see she went through a lot of effort to modify it to be rich and fancy. She was getting looks from other people. He'd have to give her his tailor's card later. Still, she must've come here to impress a certain someone and he was a firm believer that the heart can overcome any obstacle.
+To his surprise, he spied his classmate, Sally at one of the banquet tables by herself. She stood with her back facing a wall. Slightly hunched like she was trying to avoid notice. If anybody knew what it felt like to be a stranger here, it would be the brown-haired tsun from Mountaina. Or was it Monotona? He couldn't remember. He furrowed his brows. She was breaking protocol by not being with Noah right now. She wore a conservative black dress that was only two modifications away from her normal nun outfit, but he could see she went through a lot of effort to modify it to be rich and fancy. She was getting looks from other people. He'd have to give her his tailor's card later. Still, she must've come here to impress a certain someone and he was a firm believer that the heart can overcome any obstacle.
 
-"Well if it isn't my favorite gunslinger!" Inigo shot her finger guns as he joined her, "Noah's a lucky man. That's a nice dress. You don't have to go all out to captivate him, y'know?" He said winking.
+"Well if it isn't my favorite gunslinger!" Inigo shot her finger guns as he joined her, "Noah's a lucky man. That's a nice dress. You don't have to go all out to captivate him, know?" He said winking.
 
 "Inigo? Fuck off! You creep!" He heard clicking coming from her quirk. Surely she wouldn't attack him here, "And thanks- I just, that's nice of you to say but-" Sally said, startled and flustered. There's the Sally he knew.
 
 "You're here with Noah, right?" Inigo cut her off and grinned widely. "I saw their table when I came in."
 
-"We're with his parents. The Abrams donate a lot to charity and they were kind enough to invite me." She said, gesturing to the table where the Abrams were busy chatting with local religious leaders.
+"We're with his parents. The Abrams donate a lot to charity and they were kind enough to invite me." She said, gesturing to the table where the Abrams was busy chatting with local religious leaders.
 
 "Eh? What's with the face though? You don't like schmoozing with elites? You don't look very happy," Inigo said, grabbing a champagne flute from a nearby waiter and holding it in front of him. He flashed his best smile. "You wanna ditch and run away with me?" he teased.
 
 "Shut up! Of course, I'm waiting for Noah but he's too nice to excuse himself from all those people," She folded her arms together as they stood, backs facing the wall, staring at the party. 
 
-"I guess, you're right." Inigo said looking towards the crowd of smiling faces.
+"I guess, you're right," Inigo said looking towards the crowd of smiling faces.
 
 "So hey, I've been meaning to talk to you," Inigo said, his voice a touch serious.
 
@@ -644,7 +644,7 @@ Sally narrowed her eyes at him. "Huh?"
 
 "Have you seen Desolator since Christopher's accident?"
 
-"What?" she looked at him distrusfully, stepping back.
+"What?" she looked at him distrustfully, stepping back.
 
 "I know he's been talking to you. You're not gonna take his offer, right?"
 
@@ -718,13 +718,13 @@ Before the group could protest, Inigo whisked Curie away back to their table.
 
 Inigo frowned. 
 
-“Yeah.. I know what that’s like.” Sometimes it seemed like it was Gigan who was in the hero course and not him. Like he didn't really matter. He was in a class of geniuses, and he was just a tag along to the shapeshifting dragon. He felt Gigan look up at him from his pocket. *I know it's not your fault, buddy.* Inigo leaned and patted her on the head. 
+“Yeah.. I know what that’s like.” Sometimes it seemed like it was Gigan who was in the hero course and not him. Like he didn't really matter. He was in a class of geniuses, and he was just a tag-along to the shapeshifting dragon. He felt Gigan look up at him from his pocket. *I know it's not your fault, buddy.* Inigo leaned and patted her on the head. 
 
 "Hey. What about all that dancing you did in your apartment? You're clearly very talented." He flashed a smile.
 
 She looked up at him like he had two-heads. "I was drunk..."
 
-"Yeah, but that didn't stop you. I think Curie the world famous dancer, could outdo Curie the healer."
+"Yeah, but that didn't stop you. I think Curie the world-famous dancer, could outdo Curie the healer."
 
 "I'm not comfortable in fancy situations like this, and I'm a mess," she frowned.
 
@@ -746,18 +746,13 @@ Inigo gave her hands a reassuring squeeze. "Nonsense! You're a natural."
 
 She beamed brightly as the waltz slowed them, "Thank you." She was finally enjoying herself.
 
-They danced a few more minutes before a flash of blue suddenly caught Inigo's eye. "Hey follow me," He quickly ducked behind  a nearby table, pulling Curie down with him. "What are you doing?" Curie asked, bewildered by his odd behavior.
+They danced a few more minutes before a flash of blue suddenly caught Inigo's eye. "Hey follow me," He quickly ducked behind a nearby table, pulling Curie down with him. "What are you doing?" Curie asked, bewildered by his odd behavior.
 
-Inigo subtly pointed across the room to where a wealthy looking man, was talking with none other than the villain Cryo Jin. "I'm almost certain that's Cryo Jin, a villain I've fought before," Inigo whispered. "That's Mr. Oomori, right?"
+Inigo subtly pointed across the room to where a wealthy-looking man, was talking with none other than the villain Cryo Jin. "I'm almost certain that's Cryo Jin, a villain I've fought before," Inigo whispered. "That's Mr. Oomori, right?"
 
 Curie leaned out from behind the table to get a better look. "Yeah. He owns a lot of companies in Japan and invests a lot of money in support students. Are you sure you're not mistaken?" she asked uncertainly. They watched the two start to leave through a side entrance and walk into the gardens outside.
 
 "I'd recognize that ice guy anywhere," Inigo insisted. "C'mon, let's follow them."
-
-####VIII. Garden
-
-***
--> ![Are the two villains in a romantic moonlit rendezvous?](https://i.imgur.com/v6pRXXo.jpg) <-
 
 Inigo peered around the corner into the hallway, there was no sign of them. The pair quickly searched the gardens outside as well, but found nothing amiss. Finally, Inigo sighed in defeat, "I guess they got away. Sorry. We should probably head back inside."
 
@@ -767,7 +762,7 @@ Inigo sat on an ornate stone bench surrounded by roses. "It is nice here." He lo
 
  Curie turned around to face Inigo. "You know, I still have that bracelet you gave me back in April," she said a bit shyly. She held out her wrist, showing him a delicate silver chain bracelet with two chibi dragon designs hanging off it.
 
-Inigo winced internally. Crap. How many of those things did he end up giving out. 10? Maybe 20? 30? "Wow, uh, that's...really nice that you kept it," he said, rubbing the back of his neck awkwardly. He felt Gigan's claw poke his leg. Ow!
+Inigo winced internally. Crap. How many of those things did he end up giving out? 10? Maybe 20? 30? "Wow, uh, that's...really nice that you kept it," he said, rubbing the back of his neck awkwardly. He felt Gigan's claw poke his leg. Ow!
 
 Curie smiled softly, gazing down at the bracelet, "You told me you couldn't get me out of your head when you gave it to me. You told me to wait a day to answer, but I never gave you my answer."
 
@@ -823,19 +818,31 @@ Inigo frowned. How did he get back before them, was he here the entire time? He 
 
 "Thanks to you all, we have raised over 1.5 billion yen tonight for this worthy cause."
 
-"And now!" the host announced enthusiastically. "For the final auction item of the evening, from Mr. Derobi's Midsummer Collection, we have the Precious Meteor Spring Jewel. Shall we start the bidding at 1 million yen?" A dazzling light flashed as the jewel was unveiled on stage. Murmurs of awe rippled through the crowd. Inigo leaned forward in his seat to get a better look at the famed jewel. Even from a distance, he could see an intricate web of glowing green veins running through the egg-sized black opal gemstone.
+"And now!" the host announced enthusiastically. "For the final auction item of the evening, from Mr. Derobi's Midsummer Collection, we have the Precious Meteor Spring Jewel. Shall we start the bidding at 100 million?" A dazzling light flashed as the jewel was unveiled on stage. Murmurs of awe rippled through the crowd. Inigo leaned forward in his seat to get a better look at the famed jewel. Even from a distance, he could see an intricate web of glowing green veins running through the egg-sized black opal gemstone.
 
-Suddenly, the lights cut out, plunging the hall into darkness. Confused noises erupted from the guests. Flash lights turned on and glasses crashed to the floor. Inigo immediately stood up, ready to act. Nearby, he saw his friend Noah begin glowing gently, providing additional light.
+Suddenly, the lights cut out, plunging the hall into darkness. Confused noises erupted from the guests. Flashlights turned on and glasses crashed to the floor. Inigo immediately stood up, ready to act. Nearby, he saw his friend Noah begin glowing gently, providing additional light.
 
-"Gigan, form mirrors on Noah." Inigo ordered. The dragon morphed into angled prisms and mirrors that reflected and spread Noah's light around the room. Everyone gasped as they looked on stage. The jewel was gone and all the windows were wide open.
+"Gigan, form mirrors on Noah." Inigo ordered. The dragon morphed into angled prisms and mirrors that reflected and spread Noah's light around the room. Everyone gasped as they looked on stage. The jewel was gone and all the windows were wide open. A woman's laughter echoed from one of the windows and Inigo caught a glimpse of a long curled lizard tail before it disappeared. Seiryu mid-transformation jumped from the crowd of heroes and rushed out the window in a blur. 
 
-Seiryu and the other heroes had already leaped into action, scouring the room for anything suspicious. But it was too late - when the lights returned a minute later, there was no sign of the perpetrator.
+Suddenly, a deep booming laughter filled the hall, seeming to emanate from everywhere at once. All eyes turned upward in shock and alarm as an enormous disembodied head materialized, floating above the stage. The head had deathly pale purple skin and sinister eyes hidden behind a pair of purple-lensed spectacles. Rows of razor sharp teeth filled his grinning mouth and rows of small golden plates and assorted pieces of paper adorned a gaudy violet hat on his head. It was the golden terror, Midas.
 
-The crowd was growing loud and restless. "Everyone remain calm!" The hero Slipstream announced, raising his hands. "We will conduct a thorough search. For your safety, we ask that you proceed to the exits in an orderly fashion." Security and event staff began ushering people toward the doors. Inigo wanted to stay and help with the search but found himself herded outside with the other guests. He took one last look back at the stage as he was ushered out. Mr. Oomori was gone too.
+"Good evening, esteemed guests. I apologize for intruding, but we simply had to take the jewel," the giant head rumbled in amusement. "Thank you for the generous donation. Rest assured, your funds will go to a worthy cause under the Night Parade."
+
+More laughter echoed through the room. Inigo and the heroes tensed, ready to act. But just as suddenly as it appeared, the monstrous head vanished once more.
+
+"Farewell for now," its voice taunted as it faded away entirely. "We'll be seeing you again soon..."
+
+ The room erupted into frightened chatter. Inigo frowned, filing away this mysterious new threat for later investigation. The Pro-heroes leaped were abuzz with action, scouring the room for anything suspicious. But it was too late - when the lights returned a minute later, there was no sign of the perpetrators. The crowd was growing loud and restless. "Everyone remain calm!" The hero Slipstream announced, raising his hands. "We will conduct a thorough search. For your safety, we ask that you proceed to the exits in an orderly fashion." 
+
+Security and event staff began ushering people toward the doors. Inigo wanted to stay and help with the search but found himself herded outside with the other guests. He took one last look back at the stage as he was ushered out. Mr. Oomori was gone too. He had to tell someone. It could be useful to the heroes. He saw Impakt rushing through the crowd.
+
+"Impakt-sama! I have something to-" Inigo hailed the hero as he manuevered through the jostling crowd. 
+
+"Not now, young hero. Evil's afoot!" Impakt said nodding to him as he ran past.
 
 "Thank you all for coming, the gala is now over," the host proclaimed apologetically once they were all gathered outside the building. "Rest assured we are working closely with the heroes to resolve this incident. Please have a safe trip home."
 
-With a frustrated sigh, Inigo turned to leave with Curie, resigning himself to the fact that he wouldn't be able to assist. He looked around at the other hero students outside, they had the same expressions. He was about to convince the others into an impromptu search when his phone rang. Inigo stepped away from everyone.
+With a frustrated sigh, Inigo turned to leave with Curie, resigning himself to the fact that he wouldn't be able to assist. He looked around at the other hero students outside, they had the same expressions. He was about to convince the others into an impromptu search when his phone rang. Inigo made his way to a side exit and stepped away from everyone.
 
 “Hello?”
 
@@ -855,7 +862,7 @@ Curie nodded, a surprisingly determined face replacing her look of annoyance. Sh
 
 Curie wrapped her arms around his neck. With a running leap, Inigo soared off the balcony into the night sky. Curie shrieked and clung to him as the gala shrank below them.
 ***
-####IX. Kyoto Industrial District
+####X. Kyoto Industrial District
 
 -> ![It just had to be raining.](https://i.imgur.com/dUb0YH9.jpg) <-
 
@@ -914,9 +921,9 @@ An ice spike coalesced above Inigo.
 
 “Nope.” He smirked as he gave a thumbs-up to Jin weakly.
 
-"Hmm. Where's that construct of yours?" Jin said suspiciously as he stood  over Inigo. “No shield? No barrier?”
+"Hmm. Where's that construct of yours?" Jin said suspiciously as he stood over Inigo. “No shield? No barrier?”
 
-Inigo sat up, wiping dust from his face. "Sorry, I’m gonna have to cut our chat short."
+Inigo sat up, wiping the dust from his face. "Sorry, I’m gonna have to cut our chat short."
 
 “Huh?” Suddenly Jin yelled as his arms were yanked back by an invisible force. Gigan had been stealthily maneuvering behind him! Bands of green energy wrapped around Jin, trapping his limbs to his sides.
 
@@ -958,7 +965,7 @@ Inigo dove into the car and smashed through the front door. He grabbed Curie fro
 
 "What the hell’s going on?!"she stammered.
 
-“I dunno,” Inigo approached Drekus slowly. This was the same mutant that Impakt had fought before. The villain that burnt the forest near Chihiro’s dojo, but he also delivered Jenkin’s note. Inigo needed to talk to him.
+“I dunno,” Inigo approached Drekus slowly. This was the same mutant that Impakt had fought before. The villain burnt the forest near Chihiro’s dojo, but he also delivered Jenkin’s note. Inigo needed to talk to him.
 
 "Revenge will come!" Drekus declared to the air. "Drekus will SMASH! Where is he?" He choked one of the masked men with one hand.
 
@@ -972,11 +979,11 @@ Inigo nodded. "You're right, I can’t stop you. I just want to understand what'
 
 “Why did you have his letter?” Inigo said, his knight armor glowing around him.
 
-“Jenkins helped Drekus find Oomori. He good information-man. Now he is gone, Drekus find Oomori no more.”  
+“Jenkins helped Drekus find Oomori. He good information man. Now he is gone, Drekus find him no more.”  
 
-Inigo  gestured to the remnants of Mr. Oomori laying on the ground. "Why were you so angry with him?"
+Inigo gestured to the remnants of Mr. Oomori laying on the ground. "Why were you so angry with him?"
 
-Drekus stomped his foot, cracking the pavement. "Oomori evil man! Take from Drekus. Revenge will be had on Charlatan! Drekus gets revenge!"
+Drekus stomped his foot, cracking the pavement. "Evil man! Take from Drekus. Revenge will be had on Charlatan! Drekus gets revenge!"
 
 "He wronged you," Inigo said. "Revenge is understandable. But these other men here," he pointed to the bloody and beaten masked figures, "They didn't hurt you, did they?"
 
@@ -1014,7 +1021,7 @@ Inigo thought for a moment before responding gently, "Because cruelty breeds mor
 
 Inigo walked towards the injured men, glancing over to Drekus who was busy shouting and smashing the Oomori double. Inigo crouched down and began applying first aid to their wounds, using Gigan to apply pressure.
 
-“Get out of the way,” he heard Curie said behind him.She knelt by the men, her hands lighting up once more. Inigo stood by as she poured her energy into their injuries. After another minute, Curie leaned back, the men stabilized. 
+“Get out of the way,” he heard Curie said behind him. She knelt by the men, her hands lighting up once more. Inigo stood by as she poured her energy into their injuries. After another minute, Curie leaned back, the men stabilized. 
 
 She turned to Inigo, her hands glowing again as she reached for him. Inigo leaned away. "Whoa, what? Careful with the hand."
 
@@ -1040,10 +1047,10 @@ The mutant stared at him and started to walk away down an alleyway. "Drekus will
 
 
 
-####X. The Five’s Safehouse
+####XI. The Five’s Safehouse
 >Recommended listening: https://youtu.be/D4Vd1350-a8
 
-The Five’s dreary hideout was in chaos when Inigo arrived with Curie. The doors to the infirmary bursted open. Inigo watched Maddie and Tether move to a backroom as Curie arrived. Two of the facility’s doctors futilely tried to stabilize a violently convulsing Junichi.
+The Five’s dreary hideout was in chaos when Inigo arrived with Curie. The doors to the infirmary burst open. Inigo watched Maddie and Tether move to a backroom as Curie came. Two of the facility’s doctors futilely tried to stabilize a violently convulsing Junichi.
 
 "What are you giving him?" Curie demanded, her voice sharp as she rushed over. Her eyes quickly scanned the medical equipment and medications being used.
 
@@ -1077,7 +1084,7 @@ Junichi groaned as he tried to sit up, pain from his injuries shooting through h
 
 “Not so bad. Almost died.. But at least I didn’t have to hear you yapping. 8 out of 10.”
 
-“Would’ve been a 9 if I was around. You really should stick with low level mook stuff, bro. This is the last time I give you permission to take a mission without me,” He joked, but there was a subtle edge to Inigo's typically carefree tone.
+“Would’ve been a 9 if I was around. You really should stick with low-level mook stuff, bro. This is the last time I give you permission to take a mission without me,” He joked, but there was a subtle edge to Inigo's typically carefree tone.
 
 “I’m not your fucking puppy..”
 
@@ -1099,7 +1106,7 @@ Junichi blinked rapidly, taken aback. Before he could respond, Inigo continued, 
 
 Inigo's shoulders slumped under the weight of it all. He knew he was a hypocrite, continuing the family business that had been ingrained in him since birth. But Christopher and Junichi had a choice...didn't they? They could choose a different path, if only they weren't so strong-willed and determined.  Inigo drew so much strength from their defiant spirits, yet at the same time, they terrified him. His friends had no idea how fragile he truly was beneath the cocky exterior - how the proverbial sword of Damocles hung over his head at all times.
 
-Maddox moved to intervene, giving the two boys a stern look to break up the confrontation. Junichi fell back and looked away silently. A few minutes of tense quiet passed between the two teenagers. Meeting each others gaze, they both sighed and fist-bumped.
+Maddox moved to intervene, giving the two boys a stern look to break up the confrontation. Junichi fell back and looked away silently. A few minutes of tense quiet passed between the two teenagers. Meeting each other's gaze, they both sighed and fist-bumped.
 
 "I'm sorry," Inigo mumbled as he took his seat next to Junichi's bedside once more.
 
@@ -1118,13 +1125,13 @@ Maddox moved to intervene, giving the two boys a stern look to break up the conf
 
 Junichi eyed it critically. "What the hell is that thing..."
 
-“Bro, it’s you. Look he has bone thingies glued on. Boners. Heheh.”
+“Bro, it’s you. Look he has bone thingies glued on. Boners. Hehe.”
 
 “That’s so fucking stupid...”
 
 “Yeah well.. If you don’t want it,” Inigo turned to put it away.
 
-“No!” Junichi’s hand shot forward and grabbed the bear. He ached from the sudden movement. “Y-you can leave it here if you want. Obviously you put a lot of effort into it.. I could burn it for warmth later,” he mumbled, not quite meeting Inigo's amused gaze.
+“No!” Junichi’s hand shot forward and grabbed the bear. He ached from the sudden movement. “Y-you can leave it here if you want. Obviously, you put a lot of useless effort into it. I could burn it for warmth later,” he mumbled, not quite meeting Inigo's amused gaze.
 
 "You got it, bro," Inigo smirked knowingly. "You wanna eat? I got you that tonkatsu stuff you like. Curry's probably cold though, but I can run out and get more."
 
@@ -1147,7 +1154,7 @@ Gigan mewed and nuzzled Junichi’s hand. Inigo took his seat by his bed. "Hey. 
 One side of Junichi's mouth quivered ever so slightly. "I know," he whispered, before drifting off to sleep.
 
  
-####XI. Curie’s Place
+####XII. Curie’s Place
 -> ![This place is too fancy for me.](https://i.imgur.com/RO373lU.jpg) <-
 
 Inigo flew through the evening sky, carrying Curie in his arms. As he approached her apartment building, he angled downward and landed gracefully on the sidewalk outside the entrance. Immediately, a group of stern-looking bodyguards wearing dark suits surrounded them.
@@ -1174,7 +1181,7 @@ Curie leaned against the elevator wall, studying him through half-lidded eyes. "
 
 Inigo tilted his head curiously. "What's that?"
 
-"With the way you're always chasing after girls, and that pretty face, and all the products you use..." Curie smirked knowingly. "No wonder you’re not into me.. You're totally gay for that Junichi guy, aren't you?"
+"With the way, you're always chasing after girls, and that pretty face, and all the products you use..." Curie smirked knowingly. "No wonder you’re not into me.. You're totally gay for that Junichi guy, aren't you?"
 
 "What?" Inigo chuckled. "Junichi and I are just best bros."
 
@@ -1187,7 +1194,7 @@ Inigo frowned, "Seme definitely. You'd think that'd be Junichi, but really he's 
 
 "See, I have a girlfriend! We're very serious." He holds out his phone, showing off a blurry picture.
 
-Curie looked at the blur in Inigo's phone. "That's just a smudge.. and I don't buy it. You sure you're not just in denial?"
+Curie looked at the blur in Inigo's phone. "That's just a smudge.. and I don't buy it. Are you sure you're not just in denial?"
 
 "It's her quirk, okay?" Inigo insisted. "And Junichi has this thing going with a girl, kinda like a will-they-won't-they-kill-each-other thing. Very enemies-to-lovers. They’ve only met up a few times but it's kinda cute. I call em’ the bonezone."
 
@@ -1195,9 +1202,9 @@ Curie still looked skeptical. "If you say so… With the way you two talked back
 
 "I'm 100% positive that I like girls," Inigo stated firmly. “If I was into guys. Yes.  Junichi and I might have chemistry but we would never last as a couple. I’d give it three months tops. Now with Christopher, it'd be another story.
 
-At that, Curie's eyes narrowed sharply. "Uh huh. Riiight."
+At that, Curie's eyes narrowed sharply. "Uh huh. I saw Christopher at the hospital. I can see it. So you like him then?"
 
-Inigo shook his head adamantly. "I promise you I'm into girls. Like, a lot. My girlfriend's name is Hoge and she's amazing," he affirmed. "But thanks for cheering me up though. Seeing Junichi like that wasn’t easy.” 
+Inigo shook his head adamantly. "I'm into girls. Like, a lot. My girlfriend's name is Hoge and she's amazing," he affirmed. "But thanks for cheering me up though. Seeing Junichi like that wasn’t easy.” 
 
 Curie studied him a moment longer before shrugging. "Okay, fine, I believe you," she relented. She seemed to perk up a bit. 
 
@@ -1219,7 +1226,7 @@ Inigo considered this and then broke into a grin. "Alright, you got yourself a d
 
 Curie mumbled incoherently into the couch cushion. Inigo took that as his cue to slip out quietly. As he flew off into the night sky, he had to smile thinking about Curie's silly assumption. But also, he made a mental note - he really needed to get a better photo of Hoge one of these days.
 
-####XII. Inigo’s Apartment
+####XIII. Inigo’s Apartment
 >Recommended music: https://www.youtube.com/watch?v=3_xHISYL9AQ
 -> ![Another beautiful Kyoto morning.](https://i.imgur.com/I0sozMJ.jpg) <-
 
@@ -1249,13 +1256,13 @@ Inigo ran a hand self-consciously through his blond locks. "Oh, thanks. But shou
 
 "Nope, I'm done for the day," Curie said matter-of-factly. "I'm free as a bird now, so I can stick around here. It’s not like I’m an inventor or crafter like the other supports, and I can pretty much go wherever I please. "
 
-"Right, okay… what about you?" He pointed at Maddie who lazily raised a hand from where she was sprawled across a chair near the window, scrolling on her phone. "Just staying here waiting on some intel to come through. This place has a better signal than the safehouse. Don't mind me."
+"Right, okay… what about you?" He pointed at Maddie who lazily raised a hand from where she was sprawled across a chair near the window, scrolling on her phone. "Just staying here waiting on some intel to come through. This place has a better signal than the safe house. Don't mind me."
 
 “Fine.” Inigo trailed off as he heard loud crashes emanating from the kitchen. Whipping around, he saw the hulking form of Drekus rummaging through the fridge, piling food haphazardly on the counter.
 
 "Drekus! What are you doing?" Inigo demanded, marching over.
 
-"Drekus waiting for crushing of Oomori. And Drekus hungry. Make sandwich. Ham sandwich. Yes," the large mutant grunted by way of explanation, already slapping together slices of lunchmeat between two pieces of bread. Crumbs and bits of lettuce scattered across the counter.
+"Drekus waiting for crushing of Oomori. And Drekus is hungry. Make sandwich. Ham sandwich. Yes," the large mutant grunted by way of explanation, already slapping together slices of lunchmeat between two pieces of bread. Crumbs and bits of lettuce are scattered across the counter.
 
 Inigo shook his head. He turned to Junichi, Maddie, and Curie. "None of you have a problem with this?" 
 <He's kinda cute.> <Nope!> <No.>
@@ -1280,7 +1287,7 @@ He took a deep breath to steady his nerves before opening the door. The moment h
 
 “Hoge!” Acting on impulse, he threw his arms around her in an enthusiastic hug. Hoge staggered back a step, letting out a surprised giggle as she hugged him back. They held each other tightly, swaying a little. Inigo breathed in the familiar scentlessness of Hoge's hair, realizing how much he had missed her presence. 
 
-After a long minute, Hoge pulled back, her outline wavering and her cheeks endearingly pink. "S-so "Where’d you been?"" she asked, meeting his gaze.
+After a long minute, Hoge pulled back, her outline wavering and her cheeks endearingly pink. "S-so "Where’d you been?" she asked, meeting his gaze.
 
 "Oh, I had some issues I had to deal with." Inigo shrugged. "Some messy family stuff came up, I’ll tell you all about it later. It was rough but I'm much better now that I get to see you." 
 
@@ -1298,7 +1305,7 @@ Hoge gave him a strange look. "Yes, but what was that noise just now?"
 
 “How could I forget? I bet it’s been dull without me around to distract you.”
 
-“It has been dull and a little lonely,” Hoge admitted, looking  a little down “We should go. He’s going to need a lot of help packing and I need to go back to studying.”
+“It has been dull and a little lonely,” Hoge admitted, looking a little down “We should go. He’s going to need a lot of help packing and I need to go back to studying.”
 
 “Alright, but just one moment.” Inigo brushed a loose strand of hair from her face, his fingers lingering to caress her cheek. 
 
@@ -1310,13 +1317,35 @@ When they parted, both teens were shyly avoiding eye contact, pink tingeing thei
 
 “I-is that okay, now?” he muttered awkwardly.
 
-“Since we’re alone. Yes.” Hoge mumbled, fiddling with the hem of her shirt.
+“Since we’re alone. Yes, but not in front of people.” Hoge mumbled, fiddling with the hem of her shirt.
 
-Their eyes met and his heart skipped a beat. 
+Their eyes finally met and his heart skipped a beat. Inigo felt his chest swell with emotion. "Works for me. I missed you," he said, grinning. 
 
-"I missed you, Ini," Hoge mumbled.
+"I missed you too, Ini," Hoge said softly.
 
-Inigo felt his chest swell with emotion. "I missed you too," he said softly. 
+ He had to ask her. "So, now that we're at first base, maybe we could...make things official?"
+
+Hoge's eyes went wide. "Make what official?"
+
+Inigo grinned, trying to hide his nerves. "You and me! I really like you Hoge. Will you be my girlfriend?"
+
+"Girlfriend? Romance would be irresponsible given our studies..." Hoge frowned in thought.
+
+Inigo pressed his case. "Come on, one boyfriend isn't going to stop you from being an amazing hero! We can make it work."
+
+Hoge seemed to consider it. "Well...I do enjoy spending time together..."
+
+Inigo could barely contain his excitement. "So is that a yes?"
+
+Hoge fidgeted shyly. "I suppose we could try a formal courtship..."
+
+"Woo!" Inigo cheered. "You won't regret it, I promise. I'll be the best boyfriend ever!"
+
+"I do have high expectations now that you have set this precedent," Hoge said seriously.
+
+"And I'll meet them all! We're gonna have so much fun together." Inigo beamed, imagining all the dates ahead.  "Chris, could wait for a bit. C'mon girlfriend, let's go celebrate with some ice cream!" Inigo winked, taking her hand. 
+
+Hoge smiled shyly. "That sounds acceptable...boyfriend."
 
 He laced his fingers through Hoge's. He was never letting her go again. They started down the hall hand-in-hand, a familiar warmth filled him. Inigo knew he would do whatever it took to be with Hoge even if it was just for a short time to help Christopher leave the hospital.
 
@@ -1325,11 +1354,11 @@ He laced his fingers through Hoge's. He was never letting her go again. They sta
 
 As soon as Inigo and Hoge left, the odd assortment of houseguests came out of hiding.
 
-"Ugh, finally!" Junichi muttered, flopping back onto the couch and resuming his video game. "I thought those two were never gonna stop making googly eyes at each other."
+"Finally!" Junichi muttered, flopping back onto the couch and resuming his video game. "I thought those two were never gonna stop making googly eyes at each other."
 
-Curie watched the door sullenly, a stormy look in her eyes.
+Curie watched the door sullenly, a stormy look in her eyes. "So they weren't dating?? He was single!"
 
-Maddie noticed and shook her head. "Don't even think about it, girl. Inigo's found his soulmate, clear as day."
+Maddie shook her head. "Don't even think about it, girl. Inigo's found his soulmate, clear as day."
 
 "I wasn't going to do anything!" Curie protested, though her expression said otherwise.
 
@@ -1341,7 +1370,7 @@ Maddie noticed and shook her head. "Don't even think about it, girl. Inigo's fou
 
 "Ugh.. kill me," Junichi muttered without looking up.
 
-Curie crossed her arms. "Well I think it's dumb. Inigo could do way better than that mousy bookworm."
+Curie crossed her arms. "Well, I think it's dumb. Inigo could do way better than that mousy bookworm."
 
 Maddie gasped dramatically. "How dare you! Hoge is a gem. Don't be bitter just because Inigo chose her over you."
 
@@ -1351,7 +1380,7 @@ Maddie gasped dramatically. "How dare you! Hoge is a gem. Don't be bitter just b
 
 "Stay out of this!" Curie and Maddie yelled in unison.
 
-"Drekus just saying, they good match," Drekus said placatingly. "Drekus approves."
+"Drekus just saying, they good match. That is poison girl who defeated and killed Drekus," Drekus said placatingly. "Drekus approves."
 
 "Thank you!" Maddie exclaimed. "See Curie, even Drekus agrees. Don't mess with fate."
 

@@ -55,6 +55,8 @@ _______________________________
 |Gurame| 【CHAT】OTSUKARE SUMMER! 💦⭐  |[Link](https://youtu.be/4Y0GCDcmSQg&t=3932)|Gura teared up when Mumei sang Palette. |
 |Moona & Ollie| 【Watchalong】hololive English 1st Concert -Connect the World- Watchalong! |[Palette start](https://youtu.be/Qqp2ozEqCXU?t=3018) - [Rise start](https://youtu.be/Qqp2ozEqCXU?t=6022) - [SNOT MC](https://youtu.be/Qqp2ozEqCXU?t=4712) |Watchalong. |
 |A-chan|  【WATCHALONG】hololive English 1st Concert -Connect the World-【A-chan】 | [Timestamp](https://www.youtube.com/watch?v=7P60r500nvo&t=2396s)|Watchalong on the official EN channel.|
+|Mumei, Bae, Mori, Kronii| ≪HOLOLIVE ENGLISH 1ST LIVE WATCHALONG!≫ Idols be Idolling  |[ENTER](https://www.youtube.com/watch?v=TxZZxzLcG5I&t=2110) - [Palette](https://www.youtube.com/watch?v=TxZZxzLcG5I&t=3431) - [SNOT MC section](https://www.youtube.com/watch?v=TxZZxzLcG5I&t=5078)|Watchalong party at Mori's place. Also made various comments about the concert, recommended to watch all the way through.|
+|A-chan|  【#holoENConnect】Let's rewind the Memories! The Final mini-party!【A-chan】 | [Palette](https://www.youtube.com/watch?v=IjtiaXZ-1dg&t=1500) - [SNOT MC section](https://www.youtube.com/watch?v=IjtiaXZ-1dg&t=2552) - [SNOT MC section 2](https://www.youtube.com/watch?v=IjtiaXZ-1dg&t=3982)| Shill stream for the digital photobook. Bascially the same comments as her write-up posted on the [official website (Japanese)](https://hololive.hololivepro.com/events/connecttheworld/).|
 
 _______________________________
 ##HoloSummer

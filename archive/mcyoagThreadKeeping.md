@@ -41,10 +41,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 Writefags:
->Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos)
-https://rentry.org/rzimh 
->Moving up in the World
-https://rentry.org/esiz3
+>Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
+https://rentry.org/rzimh (For those that read the first part, just jump to chapter VI. Art Gallery.)
 
 New Artfag (Sandy and Mio casualwear)
 >>89859158
@@ -552,10 +550,10 @@ https://rentry.org/dfkw5
 https://rentry.org/wzi4x
 >Crush...2 (Hivemind, Mirror Devil (mentioned)):
 https://rentry.org/6rwmw
->Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos)
-https://rentry.org/rzimh 
 >Moving up in the World
 https://rentry.org/esiz3
+>Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
+https://rentry.org/rzimh
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
