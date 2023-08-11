@@ -1,7 +1,7 @@
 !!! Danger This is not a copy-paste jailbreak. I've given you the template you can freely modify based on your liking. I will constantly update the rentry with information.
 
 -> **KaruKaru's Bag of Goodies** <-
--> *Newest update: minor modificationt to gaslighting prompt, again. Also added more alternative words use other than ban (check how to use ban XML tag for brief explanation)*<-
+-> *11/08: yes, Claude filter got strengthen again. I will update the method soon once I'm free in two days (13 August) or so most likely.*<-
 
 -> Currently STILL working on: Finding a better tag for ban, messing around with JB because Claude's filter got strengthen... Again. And it just keeps on getting stronger to be honest. <-
 

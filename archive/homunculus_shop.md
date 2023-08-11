@@ -1,3 +1,6 @@
+!!! info OMORI Characters On Hold!
+    I'm putting my pending Omori characters like Aubrey and Hero on hold for a bit so that I can hopefully go through my backlog of suggestions.
+
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***

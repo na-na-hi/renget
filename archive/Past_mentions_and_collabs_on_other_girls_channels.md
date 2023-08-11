@@ -34,6 +34,12 @@
 |---|---|---|
 |02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago https://twitter.com/ninomaeinanis/status/1686903752211791878|
 
+#####Council
+
+######Fauna
+|Date|Link|Nature & Notes|
+|---|---|---|
+|10/08/2023| [Timestamp](https://youtu.be/3AYhbHQgPrE?t=218)|**Borderline Mention** - While it's not a true mention during her 'YEAH! YOU WANT "THOSE GAMES' RIGHT?' stream, Fauna intended to do DOTA collabs with Kaela, Kobo and two mystery Advent members - one of them implied to be Nerissa|
 
 #####Advent
 

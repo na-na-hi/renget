@@ -52,3 +52,6 @@
 |08/08/2023|38|Mentions & Collabs|Addition of 3 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's Marika stream|
 |10/08/2023|39|Mentions & Collabs|Addition of 2 timestamps containing a mention or a streamer-chat interactions between Nerissa and Bijou during Bijou's second Elder Ring stream|
 |10/08/2023|40|Mentions & Collabs|Addition of a timestamp for the aftermath of Nerissa's raid on Shiori's ASMR/Reading stream|
+|10/08/2023|41|Music|Addition of the God-ish / 神っぽいな cover|
+|10/08/2023|42|Music|Addition of 2 placeholders for upcoming covers|
+|10/08/2023|43|Mentions & Collabs|Addition of a timestamp for what could be an implied mention during Fauna's 'WHAT! YOU WANT "THOSE GAMES" RIGHT?' stream|

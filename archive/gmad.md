@@ -489,3 +489,9 @@ https://www.sofurry.com/view/1976936
 Recent as of 17-07-2023
 Dragon Marine & Xenomorphs Story (Gory/Bad Ending)
 https://rentry.org/z643mo
+
+Recent as of 10-08-2023
+Dragon slit play story
+https://rentry.org/onvkt
+Skyrim Modding Rentry
+https://rentry.org/gmadskyrimmodding

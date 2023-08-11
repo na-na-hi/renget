@@ -11,7 +11,9 @@
 | Song | Link |
 |------|-----|
 | Love Me, Love Me, Love Me / English cover of Kikuo - 愛して愛して愛して  | [![](https://files.catbox.moe/x48z03.jpg)](https://www.youtube.com/watch?v=RWU3o_kDixc) |
-|Cover release on August 12th |Placeholder|
+| PinoccioP - God-ish / 神っぽいな |[![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA)|
+|3rd cover - unknown date |Placeholder|
+|4th cover - unknown date |Placeholder|
 
 #####Collab Songs
 | Song | Link |

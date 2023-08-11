@@ -10,7 +10,7 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Upcoming stream
+\>Current stream
 https://www.youtube.com/watch?v=qzOjBoa9vls
 \>Past Stream
 https://www.youtube.com/watch?v=5s-O3oluZJM
@@ -30,7 +30,7 @@ Twitter: https://twitter.com/nerissa_en
 Art Tag: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Previous thread: >>
 
-A word of advice: as per >>1 (Cross-thread) be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
+A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 ----------
 

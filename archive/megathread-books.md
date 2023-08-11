@@ -188,10 +188,6 @@
 - Very quick, free reader with a huge comics database including manga, manhua, and manhwa!
 - [URL Safety Results](https://www.urlvoid.com/scan/comick.app/)
 
-### 🌸 [Manga Here](https://www.mangahere.cc/)
-- Read the manga you love! There are hundreds of excellent series available for you, and the list is updated every day.
-- [URL Safety Results](https://www.urlvoid.com/scan/mangahere.cc/)
-
 ### 🌸 [MangaLife](https://manga4life.com/)
 - Huge collection for all genres is available on an ad-free manga website where readers may read thousands of manga.
 - [URL Safety Results](https://www.urlvoid.com/scan/manga4life.com/)
@@ -240,7 +236,7 @@
 - All manga is manually updated every day without relying on any automation.
 - [URL Safety Results](https://www.urlvoid.com/scan/mangaread.org/)
 
-### 🌸 [MangaReader](https://mangareader.to/)
+### 🐐 [MangaReader](https://mangareader.to/)
 - Along with a large content collection, this website offers free access to premium features that would otherwise cost money.
 - [URL Safety Results](https://www.urlvoid.com/scan/mangareader.to/)
 
@@ -364,10 +360,10 @@
 - Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
 - [URL Safety Results](https://www.urlvoid.com/scan/academictorrents.com/)
 
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) • Sign Up
+### 🐐 [AudioBook Bay](https://audiobookbay.is/) • Sign Up
 - Superb collection for audiobooks and shares a lot of content with MyAnonamouse.
 - To download without an account, copy the info hash and paste it into your torrent client. Example: `magnet:?xt=urn:btih:INFOHASH`
-- [URL Safety Results](https://www.urlvoid.com/scan/audiobookbay.li/)
+- [URL Safety Results](https://www.urlvoid.com/scan/audiobookbay.is/)
 
 ### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Sign Up
 - Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems.
