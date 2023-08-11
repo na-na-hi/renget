@@ -16,7 +16,7 @@ Translation by Asiram Honkai
 - [SSS] When Charged ATK hits a target, if the target is ignited, deal additional 300% > 500% ATK of Fire DMG. Charged ATK gain Total DMG +20% > 45% against ignited enemies.
 - Charged ATK subskill 3: Max skill level upgrade changed from 7 upgrades to 11 upgrades. At level 7 upgrade, skill value is changed from 45% to 35%
 (Upon entering the field, when you cast [Judgement] or [Split], gain Fire DMG +xx%)
-- Ult: Deal 1500%>1600% ATK Fire DMG
+- Ult: Deal 1600%>1500% ATK Fire DMG
 
 **CHAKRAM PRI**
 - When casting [Split], summon four additional needles, dealing Ignite DMG equal to **200% > 170%** ATK x target's ignite stacks, min 1 stack, max 5 stacks (CD: 15s).

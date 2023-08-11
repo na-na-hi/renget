@@ -153,6 +153,9 @@ https://tao.studio
 https://rentry.org/EmotionalSprites
 https://rentry.org/mikugg-emotions-tutorial
 
+**Very large and detailed image generation styles prompts database**
+https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205
+
 ***
 
 !!! info

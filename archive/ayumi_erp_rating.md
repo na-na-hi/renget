@@ -20,166 +20,185 @@ The **ERP Score** is similar to the old ERP Score, but the prompt for that bench
 !!! info **Please also have a look at this LLM role play ranking:**
     - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
 
-Date: 2023-08-10 V14 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
+Date: 2023-08-11 V15 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 [See **Ranking Changelog** to see which GGML Models were added](https://rentry.co/ayumi_erp_rating#ranking-changelog)
 
 | Rank | ALC-IQ |ERP Score / Class| GGML Model |
 |-----:|-------:|--------:|-------------|
-      | 🧠 | | | High ALC-IQ Class: ALC-IQ >= 84.97 |
-|    1 | 🔬🧠  92.28 |    14.5 🌶🌶 | [MythoMix (L2) 13B](https://huggingface.co/TheBloke/MythoMix-L2-13B-GGML) Q5_K_M  |
-|    2 | 🔬🧠  90.32 |    13.5 🌶🌶 | [Airoboros GPT4 1.4 33B](https://huggingface.co/TheBloke/airoboros-33B-gpt4-1.4-GGML) Q4_K_M  |
-|    3 | 🔬🧠  90.21 |    16.0 🌶🌶 | [Chronos Beluga (L2) 13B](https://huggingface.co/TheBloke/Chronos-Beluga-v2-13B-GGML) Q5_K_M  |
-|    4 | 🔬🧠  90.03 |    15.0 🌶🌶 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) Q4_K_M  |
-|    5 | 🧠  88.88 |    14.0 🌶🌶 | [MythoLogic (L2) 13B](https://huggingface.co/TheBloke/MythoLogic-L2-13B-GGML) Q5_K_M  |
-|    6 | 🧠  88.36 |    17.5 🌶🌶 | [Huginn v1.2 13B](https://huggingface.co/TheBloke/huginnv1.2-GGML) Q5_K_M  |
-|    7 | 🧠  86.64 |    14.0 🌶🌶 | [Chronos Hermes 2 (L2) 13B](https://huggingface.co/Blackroot/Chronos-Hermes-2-GGML) Q5_K_M  |
-|    8 | 🧠  86.41 |    14.0 🌶🌶 | [Chronos 2 (L2) 13B](https://huggingface.co/TheBloke/Chronos-13B-v2-GGML) Q5_K_M  |
-|    9 | 🧠  85.94 |    13.0 🌶🌶 | [LLaMA-2 BlockTri Frankenstein 22B](https://huggingface.co/IHaveNoClueAndIMustPost/llama2-22b-blocktriangular-GGML) Q4_K_M  |
-|   10 | 🧠  85.77 |    13.5 🌶🌶 | [Chronoboros 33B](https://huggingface.co/TheBloke/Chronoboros-33B-GGML) Q5_K_M  |
-|   11 | 🔬🧠  92.17 |    12.5 🌶  | [Huginn 13B](https://huggingface.co/TheBloke/Huginn-13B-GGML) Q5_K_M  |
-|   12 | 🔬🧠  90.44 |    12.5 🌶  | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) Q5_1  |
-|   13 | 🔬🧠  89.92 |    11.5 🌶  | [Airoboros GPT4 m2.0 33B](https://huggingface.co/TheBloke/airoboros-33B-GPT4-m2.0-GGML) Q5_K_M  |
-|   14 | 🔬🧠  89.57 |    11.0 🌶  | [Redmond Puffin v1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) Q5_K_M  |
-|   15 | 🧠  88.82 |    12.0 🌶  | [Chronolima Airo Grad (L2) 13B](https://huggingface.co/TheBloke/Chronolima-Airo-Grad-L2-13B-GGML) Q5_K_M  |
-|   16 | 🧠  88.13 |    11.0 🌶  | [Chronoboros Grad (L2) 13B](https://huggingface.co/TheBloke/Chronoboros-Grad-L2-13B-GGML) Q5_K_M  |
-|   17 | 🧠  88.02 |    11.0 🌶  | [Airochronos (L2) 13B](https://huggingface.co/TheBloke/Airochronos-L2-13B-GGML) Q5_K_M  |
-|   18 | 🧠  88.02 |    12.5 🌶  | [LLaMA SuperCOT 30B](https://huggingface.co/TheBloke/llama-30b-supercot-GGML) Q4_K_M  |
-|   19 | 🧠  87.90 |    11.5 🌶  | [Kimiko (L2) 13B](https://huggingface.co/TheBloke/Kimiko-13B-GGML) Q5_K_M  |
-|   20 | 🧠  87.44 |    11.0 🌶  | [LLaMA-2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) Q5_1  |
-|   21 | 🧠  87.33 |    11.5 🌶  | [Saiga 2 (L2) 13B](https://huggingface.co/IlyaGusev/saiga2_13b_ggml) Q5_1  |
-|   22 | 🧠  86.29 |    12.5 🌶  | [Lazarus 30B](https://huggingface.co/TheBloke/30B-Lazarus-GGML) Q4_K_M  |
-|   23 | 🧠  86.06 |    11.0 🌶  | [OpenChat v3.2 13B](https://huggingface.co/TheBloke/OpenChat_v3.2-GGML) Q5_K_M  |
-|   24 | 🧠  86.00 |    11.0 🌶  | [Firefly v1.2 (L2) 13B](https://huggingface.co/TheBloke/Firefly-Llama2-13B-v1.2-GGML) Q5_K_M  |
-|   25 | 🧠  85.14 |    12.5 🌶  | [Lazarus Instruct PL 30B](https://huggingface.co/Aspik101/30B-Lazarus-instruct-PL-lora_GGML) Q4_1  |
-|   26 | 🧠  84.97 |    12.5 🌶  | [Hermes Kimiko (L2) 13B](https://huggingface.co/samemodels/hermes-kimiko-13b-GGML) Q5_K_M  |
-|   27 | 🔬🧠  90.09 |     9.5 👌 | [LLaMA 30B](https://huggingface.co/TheBloke/LLaMa-30B-GGML/) Q5_K_M  |
-|   28 | 🧠  89.29 |    10.5 👌 | [Airolima Chronos Grad (L2) 13B](https://huggingface.co/TheBloke/Airolima-Chronos-Grad-L2-13B-GGML) Q5_K_M  |
-|   29 | 🧠  89.23 |    10.0 👌 | [Vigogne 2 (L2) 13B](https://huggingface.co/TheBloke/Vigogne-2-13B-Instruct-GGML) Q5_K_M  |
-|   30 | 🧠  88.71 |    10.0 👌 | [Airoboros GPT4 2.0 33B](https://huggingface.co/TheBloke/airoboros-33B-GPT4-2.0-GGML) Q5_K_M  |
-|   31 | 🧠  88.02 |     9.0 👌 | [Airoboros GPT4 2.0 (L2) 13B](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GGML) Q5_K_M  |
-|   32 | 🧠  88.02 |     9.0 👌 | [StableBeluga (L2) 13B](https://huggingface.co/s3nh/StableBeluga-13B-GGML) Q5_1  |
-|   33 | 🧠  86.06 |    10.0 👌 | [Chronohermes Grad (L2) 13B](https://huggingface.co/TheBloke/Chronohermes-Grad-L2-13B-GGML) Q5_K_M  |
-|   34 | 🧠  85.31 |     8.0 👌 | [OpenOrcaxOpenChat Preview2 (L2) 13B](https://huggingface.co/s3nh/OpenOrcaxOpenChat-Preview2-13B-GGML) Q5_1  |
-|   35 | 🧠  85.20 |     9.5 👌 | [StableBeluga Instruct PL Lora 13B](https://huggingface.co/Aspik101/StableBeluga-13B-instruct-PL-lora_GGML) Q5_1  |
-|   36 | 🔬🧠  89.69 |     5.0 🧊 | [WizardLM 1.2 PL 13B](https://huggingface.co/Lajonbot/WizardLM-13B-V1.2-PL-lora_GGML) Q5_1  |
-|   37 | 🧠  87.44 |     5.5 🧊 | [Spring Dragon (L2) 13B](https://huggingface.co/TheBloke/Spring-Dragon-GGML) Q5_K_M  |
-|   38 | 🧠  86.00 |     3.5 🧊 | [LLaMA-2 Chinese Chat 13B](https://huggingface.co/s3nh/Llama2-Chinese-13b-Chat-GGML) Q5_1  |
-      | 📖 | | | Good ALC-IQ Class: 84.97 > ALC-IQ >= 75.75 |
-|   39 | 🧠📖  84.85 |    15.5 🌶🌶 | [qCammel L2 13B](https://huggingface.co/TheBloke/qCammel-13-GGML) Q5_K_M  |
-|   40 | 🧠📖  84.62 |    14.0 🌶🌶 | [Saiga 30B](https://huggingface.co/IlyaGusev/saiga_30b_ggml) Q5_1  |
-|   41 | 🧠📖  84.33 |    13.0 🌶🌶 | [Hermes LimaRP 13B](https://huggingface.co/Gryphe/Various-GGML-Quants) Q4_K_M  |
-|   42 | 🧠📖  84.22 |    17.5 🌶🌶 | [OpenAssistant LLaMA-2 8k Orca 13B](https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|   43 | 🧠📖  84.22 |    14.0 🌶🌶 | [LLaMA-2 Chat Uncensored 13B](https://huggingface.co/CONCISE/LLaMa_V2-13B-Chat-Uncensored-GGML) Q4_0  |
-|   44 | 🧠📖  83.53 |    13.5 🌶🌶 | [Hermes Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/hermeslimarp-l2-7b-GGML) Q5_K_M  |
-|   45 | 📖  82.95 |    16.5 🌶🌶 | [Crestfall FrankenMon (L2) 13B](https://huggingface.co/crestf411/crestfall-L2-frankmon-13b) Q5_K_M  |
-|   46 | 📖  81.45 |    17.0 🌶🌶 | [Chronos 33B](https://huggingface.co/TheBloke/chronos-33b-GGML) Q4_K_M  |
-|   47 | 📖  80.93 |    15.0 🌶🌶 | [OniiChat Hermes Limarp (L2) 13B](https://huggingface.co/crestf411/crestfall-L2-oniichat-hermes-limarp-13b) Q5_K_M  |
-|   48 | 📖  80.82 |    19.0 🌶🌶 | [Legerdemain (L2) 13B](https://huggingface.co/TheBloke/13B-Legerdemain-L2-GGML) Q5_K_M  |
-|   49 | 📖  80.53 |    14.0 🌶🌶 | [Gywy Chinese v1 (L2) 13B](https://huggingface.co/s3nh/gywy-llama2-13b-chinese-v1-GGML) Q5_1  |
-|   50 | 📖  79.72 |    15.0 🌶🌶 | [Nous Hermes LLaMA-2 13B](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b-GGML) Q4_K_M  |
-|   51 | 📖  78.51 |    13.5 🌶🌶 | [Holodeck 1 (L2) 13B](https://huggingface.co/shadowsword/LLAMA2-13B-Holodeck-1-GGML_K) Q5_K  |
-|   52 | 📖  78.00 |    16.0 🌶🌶 | [AlpacaCielo (L2) 13B](https://huggingface.co/TheBloke/AlpacaCielo-13B-GGML) Q5_K_M  |
-|   53 | 📖  75.75 |    13.0 🌶🌶 | [Nous Hermes Writer (L2) 13B](https://huggingface.co/Blackroot/Nous-Hermes-Llama2-13b-Storywriter-GGML) Q4_K_S  |
-|   54 | 🧠📖  84.79 |    11.5 🌶  | [LLaMA-2 Frankensteined 22B](https://huggingface.co/IHaveNoClueAndIMustPost/Llama-2-22B-GGML) Q4_K_M  |
-|   55 | 🧠📖  83.93 |    11.5 🌶  | [LLaMA-2 Guanaco 13B](https://huggingface.co/Gryphe/Various-GGML-Quants) Q4_1  |
-|   56 | 📖  83.06 |    11.5 🌶  | [Frankensteins Monster 13B](https://huggingface.co/Blackroot/FrankensteinsMonster-13B-GGML) Q4_K_S  |
-|   57 | 📖  82.60 |    11.0 🌶  | [Dans QuestionableCocktail 2 (L2) 13B](https://huggingface.co/PocketDoc/Dans-QuestionableCocktail-2-13b-q4_1) Q4_1  |
-|   58 | 📖  80.13 |    11.0 🌶  | [Hermes Kimiko (L2) 7B](https://huggingface.co/zarakiquemparte/hermes-kimiko-7b-GGML) Q5_K_M  |
-|   59 | 📖  78.17 |    12.0 🌶  | [Airoboros GPT4 m2.0 (L2) 13B](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GGML) Q5_K_M  |
-|   60 | 🧠📖  84.27 |     9.0 👌 | [Dans PersonalityEngine 30B](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-30b-ggml-q4_1) Q4_1  |
-|   61 | 📖  81.80 |     8.0 👌 | [Dugong (L2) 7B](https://huggingface.co/s3nh/elliot4ai-Dugong-Llama2-7b-chinese-GGML) Q5_1  |
-|   62 | 📖  80.82 |     8.5 👌 | [Vigogne 2 (L2) 7B](https://huggingface.co/TheBloke/Vigogne-2-7B-Chat-GGML) Q5_K_M  |
-|   63 | 📖  79.90 |     9.0 👌 | [Saiga 2 (L2) 7B](https://huggingface.co/IlyaGusev/saiga2_7b_ggml) Q5_1  |
-|   64 | 📖  79.32 |     9.0 👌 | [Nous Hermes (L2) 7B](https://huggingface.co/TheBloke/Nous-Hermes-Llama-2-7B-GGML) Q5_K_M  |
-|   65 | 📖  79.26 |     8.0 👌 | [Kimiko (L2) 7B](https://huggingface.co/TheBloke/Kimiko-7B-GGML) Q5_K_M  |
-|   66 | 📖  78.23 |     9.0 👌 | [StableBeluga (L2) 7B](https://huggingface.co/s3nh/StableBeluga-7B-GGML) Q5_1  |
-|   67 | 📖  77.07 |    10.0 👌 | [LLaMA-2 Guanaco 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) Q5_1  |
-|   68 | 🧠📖  84.74 |     6.0 🧊 | [LLaMA-2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) Q5_1  |
-|   69 | 📖  83.12 |     6.5 🧊 | [LLaMA-2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q8_0  |
-|   70 | 📖  83.06 |     7.5 🧊 | [MindFlay (L2) 22B](https://huggingface.co/Envoid/MindFlay-22B-ggml) Q4_0  |
-|   71 | 📖  81.80 |     6.0 🧊 | [Jindo Instruct Pre-Alpha (L2) 7B](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-ggml) Q5_K_M  |
-|   72 | 📖  81.80 |     3.0 🧊 | [LLaMA-2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) Q5_1  |
-|   73 | 📖  81.68 |     4.0 🧊 | [CodeUp LLaMA-2 Chat 13B](https://huggingface.co/TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGML) Q4_K_M  |
-|   74 | 📖  81.51 |     6.0 🧊 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q5_1  |
-|   75 | 📖  80.36 |     3.0 🧊 | [LLaMA-2 Chat Code Cherry Pop 7B](https://huggingface.co/TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGML) Q5_K_M  |
-|   76 | 📖  77.94 |     7.0 🧊 | [Beluga Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/beluga-limarp-7b-GGML) Q5_K_M  |
-      | 🤔 | | | Lower ALC-IQ Class: 75.75 > ALC-IQ >= 64.63 |
-|   77 | 👀🤔  73.79 |    19.0 🌶🌶 | [Wizard Vicuna LLaMA-2 22B](https://huggingface.co/IHaveNoClueAndIMustPost/llama2-22b-wizard_vicuna-ggml) Q4_K_M  |
-|   78 | 🤔  68.78 |    13.0 🌶🌶 | [Hermesboros Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q5_K_M  |
-|   79 | 🤔  68.43 |    15.0 🌶🌶 | [Chronos Hermes SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|   80 | 🤔  68.15 |    14.0 🌶🌶 | [Chronos SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-13B-SuperHOT-8K-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|   81 | 🤔  67.40 |    14.0 🌶🌶 | [Vicuna 1.3 7B](https://huggingface.co/TheBloke/vicuna-7B-v1.3-GGML) Q8_0  |
-|   82 | 🤔  65.38 |    13.0 🌶🌶 | [MythoBoros 13B](https://huggingface.co/TheBloke/MythoBoros-13B-GGML) Q5_K_M  |
-|   83 | 🤔  65.26 |    15.0 🌶🌶 | [Airoboros GPT4 1.4.1 Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/airoboros-l2-7b-gpt4-1.4.1-limarp-GGML) Q5_K_M  |
-|   84 | 🤔  65.15 |    13.0 🌶🌶 | [Wizard Vicuna Uncensored SuperHOT 8k 13B](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML) Q5_K_S ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|   85 | 🤔  65.03 |    15.0 🌶🌶 | [MythoLogic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) Q5_1  |
-|   86 | 🤔  64.63 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v7 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q4_K  |
-|   87 | 👀🤔  75.06 |    12.0 🌶  | [Vicuna 1.5 (L2) 13B](https://huggingface.co/s3nh/vicuna-13b-v1.5-GGML) Q5_0  |
-|   88 | 🤔  68.03 |    11.0 🌶  | [MedAlpaca 13B](https://huggingface.co/TheBloke/medalpaca-13B-GGML) Q5_1  |
-|   89 | 🤔  66.42 |    11.5 🌶  | [Airoboros GPT4 1.3 13B](https://huggingface.co/TheBloke/airoboros-13B-gpt4-1.3-GGML) Q5_1  |
-|   90 | 🤔  65.84 |    11.0 🌶  | [Airoboros GPT4 1.4.1 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7b-gpt4-1.4.1-GGML) Q5_K_M  |
-|   91 | 🤔  65.21 |    12.0 🌶  | [Lunaboros LimaRP 7B](https://huggingface.co/zarakiquemparte/lunaboros-limarp-7b-GGML) Q4_K_M  |
-|   92 | 🤔  64.69 |    11.5 🌶  | [LLaMA SuperCOT 13B](https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1) Q5_1  |
-|   93 | 👀🤔  74.31 |     8.0 👌 | [GOAT Community (L2) 7B](https://huggingface.co/s3nh/GOAT-7B-Community-GGML) Q5_1  |
-|   94 | 👀🤔  73.56 |     8.5 👌 | [MythoLogic Mini (L2) 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q5_K_M  |
-|   95 | 👀🤔  72.87 |     9.5 👌 | [Luna AI (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) Q8_0  |
-|   96 | 👀🤔  72.12 |    10.0 👌 | [Vicuna 1.3 PL 13B](https://huggingface.co/Lajonbot/vicuna-13b-v1.3-PL-lora_GGML) Q5_1  |
-|   97 | 👀🤔  72.06 |     8.5 👌 | [Saiga 7B](https://huggingface.co/IlyaGusev/saiga_7b_ggml) Q5_1  |
-|   98 | 👀🤔  72.00 |     8.5 👌 | [Pygmalion 7B](https://huggingface.co/sasha0552/pygmalion-7b-q5_1-ggml) Q5_1  |
-|   99 | 🤔  71.77 |     9.5 👌 | [BlueMethod 13B](https://huggingface.co/TheBloke/13B-BlueMethod-GGML) Q5_1  |
-|  100 | 🤔  71.26 |     8.5 👌 | [Vicuna 1.3 German 13B](https://huggingface.co/TheBloke/Vicuna-13B-v1.3-German-GGML) Q5_K_M  |
-|  101 | 🤔  69.12 |     8.0 👌 | [Metharme 7B](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1) Q5_1  |
-|  102 | 🤔  68.49 |     8.5 👌 | [LLaMA 13B](https://huggingface.co/localmodels/LLaMA-13B-ggml) Q5_K_M  |
-|  103 | 🤔  67.91 |     9.0 👌 | [LLaMA 7B](https://huggingface.co/TheBloke/LLaMa-7B-GGML) Q8_0  |
-|  104 | 🤔  66.71 |    10.0 👌 | [OpenBuddy LLaMA-2 v8.1 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K  |
-|  105 | 🤔  66.59 |    10.0 👌 | [HyperMantis 13B](https://huggingface.co/TheBloke/13B-HyperMantis-GGML) Q5_K_M  |
-|  106 | 🤔  66.24 |    10.0 👌 | [Dans PersonalityEngine 13B](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-13b-ggml-q5_1) Q5_1  |
-|  107 | 🤔  66.24 |     8.5 👌 | [Vicuna 1.3 13B](https://huggingface.co/TheBloke/vicuna-13b-v1.3.0-GGML) Q5_1  |
-|  108 | 🤔  66.01 |    10.0 👌 | [Ouroboros 13B](https://huggingface.co/TheBloke/13B-Ouroboros-GGML) Q5_1  |
-|  109 | 🤔  65.21 |    10.5 👌 | [Lunaboros (L2) 7B](https://huggingface.co/zarakiquemparte/lunaboros-7b-GGML) Q4_K_M  |
-|  110 | 👀🤔  72.58 |     4.0 🧊 | [Metharme 13B](https://huggingface.co/TehVenom/Metharme-13b-GGML) Q5_1  |
-|  111 | 👀🤔  72.00 |     7.0 🧊 | [OpenBuddy Atom v9 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q5_K  |
-|  112 | 🤔  67.80 |     6.5 🧊 | [Airoboros GPT4 2.0 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GGML) Q5_K_M  |
-|  113 | 🤔  66.42 |     3.0 🧊 | [Dolphin LLaMA 13B](https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML) Q5_K_M  |
-      | 🤪 | | | Dumb ALC-IQ Class: ALC-IQ < 64.63 |
-|  114 | 👀🤪  63.88 |    17.0 🌶🌶 | [Chronos WizardLM UC SCOT ST 13B](https://huggingface.co/TheBloke/chronos-wizardlm-uc-scot-st-13B-GGML) Q4_0  |
-|  115 | 👀🤪  63.31 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v5 7B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K  |
-|  116 | 👀🤪  63.31 |    15.5 🌶🌶 | [Chronos Hermes 13B](https://huggingface.co/TheBloke/chronos-hermes-13B-GGML) Q5_1  |
-|  117 | 🤪  62.38 |    13.5 🌶🌶 | [Airoboros GPT4 1.3 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.3-GGML) Q4_K_M  |
-|  118 | 🤪  62.04 |    13.5 🌶🌶 | [Chronos 13B](https://huggingface.co/TheBloke/chronos-13B-GGML) Q5_K_M  |
-|  119 | 🤪  61.52 |    13.0 🌶🌶 | [Hermes LLongMA 2 8K (L2) 13B](https://huggingface.co/s3nh/Hermes-LLongMA-2-13b-8k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  120 | 👀🤪  63.77 |    11.0 🌶  | [Alpacino SuperCOT 13B](https://huggingface.co/xzuyn/Alpacino-SuperCOT-13B-GGML) Q4_0  |
-|  121 | 👀🤪  63.48 |    12.0 🌶  | [Airoboros GPT4 1.2 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.2-GGML) Q4_K_M  |
-|  122 | 🤪  61.52 |    12.5 🌶  | [Airoboros GPT4 7B](https://huggingface.co/TheBloke/airoboros-7b-gpt4-GGML) Q4_K_M  |
-|  123 | 🤪  60.66 |    11.0 🌶  | [Airoboros GPT4 1.4 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.4-GGML) Q5_K_M  |
-|  124 | 🤪  59.39 |    11.5 🌶  | [Nous-Hermes 13B](https://huggingface.co/TheBloke/Nous-Hermes-13B-GGML) Q4_0  |
-|  125 | 🤪  53.63 |    11.5 🌶  | [Open LLaMA Open Instruct 7B](https://huggingface.co/TheBloke/open-llama-7b-open-instruct-GGML) Q8_0  |
-|  126 | 🤪  52.07 |    11.5 🌶  | [OpenLLaMA Open Instruct v2 7B](https://huggingface.co/TheBloke/open-llama-7B-v2-open-instruct-GGML) Q8_0  |
-|  127 | 👀🤪  63.94 |     9.0 👌 | [Saiga 13B](https://huggingface.co/IlyaGusev/saiga_13b_ggml) Q5_1  |
-|  128 | 👀🤪  63.19 |     8.0 👌 | [Airoboros GPT4 m2.0 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GGML) Q5_K_M  |
-|  129 | 🤪  61.92 |     9.0 👌 | [Guanaco 7B](https://huggingface.co/TheBloke/guanaco-7B-GGML) Q4_K_M  |
-|  130 | 🤪  59.22 |    10.0 👌 | [WizardLM Uncensored 7B](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) Q5_1  |
-|  131 | 🤪  58.53 |    10.0 👌 | [LLaMA-2 KO Chat 7B](https://huggingface.co/StarFox7/Llama-2-ko-7B-chat-ggml) Q5_1  |
-|  132 | 🤪  50.81 |     8.0 👌 | [Baichuan 7B](https://huggingface.co/s3nh/baichuan-7b-sft-GGML) Q5_1  |
-|  133 | 👀🤪  63.36 |     2.0 🧊 | [Pygmalion 13B](https://huggingface.co/notstoic/pygmalion-13b-ggml) Q5_1  |
-|  134 | 👀🤪  62.50 |     6.0 🧊 | [Wizard Vicuna Uncensored 13B](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML) Q5_1  |
-|  135 | 👀🤪  62.44 |     3.5 🧊 | [LLaMA-2 KO 7B](https://huggingface.co/StarFox7/Llama-2-ko-7B-ggml) Q5_1  |
-|  136 | 🤪  59.97 |     1.0 🧊 | [Based 7B](https://huggingface.co/TheBloke/based-7B-GGML) Q4_K_M  |
-|  137 | 🤪  59.10 |     7.0 🧊 | [Hermes LLongMA 2 8K (L2) 7B](https://huggingface.co/s3nh/Hermes-LLongMA-2-7b-8k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  138 | 🤪  58.12 |     4.5 🧊 | [PMC LLaMA 7B](https://huggingface.co/TheBloke/PMC_LLAMA-7B-GGML) Q4_0  |
-|  139 | 🤪  57.66 |     6.0 🧊 | [LMSYS Vicuna 1.5 (L2) 7B](https://huggingface.co/s3nh/lmsys-vicuna-7b-v1.5-GGML) Q5_1  |
-|  140 | 🤪  56.91 |     1.5 🧊 | [BigTranslate 13B](https://huggingface.co/TheBloke/BigTranslate-13B-GGML) Q4_K_M  |
-|  141 | 🤪  56.22 |     5.5 🧊 | [Mamba GPT v2 3B](https://huggingface.co/s3nh/mamba-gpt-3b-v2-GGML) Q5_1  |
-|  142 | 🤪  54.95 |     0.0 🧊 | [Vicuna v1.5 16K 13B](https://huggingface.co/TheBloke/vicuna-13B-v1.5-16K-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  143 | 🤪  53.92 |     0.0 🧊 | [LMSYS Vicuna 1.5 (L2) 16k 13B](https://huggingface.co/s3nh/lmsys-vicuna-13b-v1.5-16k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  144 | 🤪  53.34 |     4.5 🧊 | [Orca Mini 3B](https://huggingface.co/s3nh/orca_mini_3b-GGML) Q5_1  |
-|  145 | 🤪  52.94 |     5.5 🧊 | [Open LLaMA 7B](https://huggingface.co/vihangd/open_llama_7b_700bt_ggml) Q5_1  |
-|  146 | 🤪  52.42 |     0.0 🧊 | [LLongMA 2 7B](https://huggingface.co/s3nh/LLongMA-2-7b-16k-GGML/tree/main) Q5_1  |
-|  147 | 🤪  52.42 |     0.0 🧊 | [Airoboros GPT4 1.4 SuperHOT 8K 33B](https://huggingface.co/TheBloke/airoboros-33B-gpt4-1-4-SuperHOT-8K-GGML) Q4_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  148 | 🤪  51.50 |     6.0 🧊 | [LLaMA Deus v3 7B](https://huggingface.co/TheBloke/llama-deus-7b-v3-GGML) Q4_0  |
-|  149 | 🤪  47.58 |     0.0 🧊 | [LLaMA-2 32K 7B](https://huggingface.co/s3nh/LLaMA-2-7B-32K-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  150 | 🤪  47.58 |     0.0 🧊 | [LMSYS LongChat 1.5 32k 7B](https://huggingface.co/s3nh/lmsys-longchat-7b-v1.5-32k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating/#about-extended-context-8k-16k-32k)) |
-|  151 | 🤪  42.28 |     0.0 🧊 | [ToolLLaMA 7B](https://huggingface.co/s3nh/ToolLLaMA-7b-GGML) Q5_1  |
+      | 🧠 | | | High ALC-IQ Class: ALC-IQ >= 85.14 |
+|    1 | ⭐🧠  92.91 |    16.5 🌶🌶 | [MythoMax (L2) 13B](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML) Q5_K_M  |
+|    2 | ⭐🧠  92.28 |    14.5 🌶🌶 | [MythoMix (L2) 13B](https://huggingface.co/TheBloke/MythoMix-L2-13B-GGML) Q5_K_M  |
+|    3 | ⭐🧠  90.32 |    13.5 🌶🌶 | [Airoboros GPT4 1.4 33B](https://huggingface.co/TheBloke/airoboros-33B-gpt4-1.4-GGML) Q4_K_M  |
+|    4 | ⭐🧠  90.21 |    16.0 🌶🌶 | [Chronos Beluga (L2) 13B](https://huggingface.co/TheBloke/Chronos-Beluga-v2-13B-GGML) Q5_K_M  |
+|    5 | ⭐🧠  90.03 |    15.0 🌶🌶 | [Airochronos 33B](https://huggingface.co/TheBloke/airochronos-33B-GGML) Q4_K_M  |
+|    6 | 🧠  88.88 |    14.0 🌶🌶 | [MythoLogic (L2) 13B](https://huggingface.co/TheBloke/MythoLogic-L2-13B-GGML) Q5_K_M  |
+|    7 | 🧠  88.36 |    17.5 🌶🌶 | [Huginn v1.2 13B](https://huggingface.co/TheBloke/huginnv1.2-GGML) Q5_K_M  |
+|    8 | 🧠  87.04 |    13.0 🌶🌶 | [LLaMA-2 Chat Uncensored 13B](https://huggingface.co/s3nh/llama2_13b_chat_uncensored-GGML) Q5_1  |
+|    9 | 🧠  86.64 |    14.0 🌶🌶 | [Chronos Hermes 2 (L2) 13B](https://huggingface.co/Blackroot/Chronos-Hermes-2-GGML) Q5_K_M  |
+|   10 | 🧠  86.41 |    14.0 🌶🌶 | [Chronos 2 (L2) 13B](https://huggingface.co/TheBloke/Chronos-13B-v2-GGML) Q5_K_M  |
+|   11 | 🧠  85.94 |    13.0 🌶🌶 | [LLaMA-2 BlockTri Frankenstein 22B](https://huggingface.co/IHaveNoClueAndIMustPost/llama2-22b-blocktriangular-GGML) Q4_K_M  |
+|   12 | 🧠  85.77 |    13.5 🌶🌶 | [Chronoboros 33B](https://huggingface.co/TheBloke/Chronoboros-33B-GGML) Q5_K_M  |
+|   13 | ⭐🧠  92.17 |    12.5 🌶  | [Huginn 13B](https://huggingface.co/TheBloke/Huginn-13B-GGML) Q5_K_M  |
+|   14 | ⭐🧠  90.44 |    12.5 🌶  | [Redmond Puffin (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) Q5_1  |
+|   15 | ⭐🧠  89.92 |    11.5 🌶  | [Airoboros GPT4 m2.0 33B](https://huggingface.co/TheBloke/airoboros-33B-GPT4-m2.0-GGML) Q5_K_M  |
+|   16 | ⭐🧠  89.57 |    11.0 🌶  | [Redmond Puffin v1.3 (L2) 13B](https://huggingface.co/TheBloke/Redmond-Puffin-13B-GGML) Q5_K_M  |
+|   17 | 🧠  89.29 |    10.5 🌶  | [Airolima Chronos Grad (L2) 13B](https://huggingface.co/TheBloke/Airolima-Chronos-Grad-L2-13B-GGML) Q5_K_M  |
+|   18 | 🧠  88.82 |    12.0 🌶  | [Chronolima Airo Grad (L2) 13B](https://huggingface.co/TheBloke/Chronolima-Airo-Grad-L2-13B-GGML) Q5_K_M  |
+|   19 | 🧠  88.13 |    11.0 🌶  | [Chronoboros Grad (L2) 13B](https://huggingface.co/TheBloke/Chronoboros-Grad-L2-13B-GGML) Q5_K_M  |
+|   20 | 🧠  88.02 |    11.0 🌶  | [Airochronos (L2) 13B](https://huggingface.co/TheBloke/Airochronos-L2-13B-GGML) Q5_K_M  |
+|   21 | 🧠  88.02 |    12.5 🌶  | [LLaMA SuperCOT 30B](https://huggingface.co/TheBloke/llama-30b-supercot-GGML) Q4_K_M  |
+|   22 | 🧠  87.90 |    11.5 🌶  | [Kimiko (L2) 13B](https://huggingface.co/TheBloke/Kimiko-13B-GGML) Q5_K_M  |
+|   23 | 🧠  87.44 |    11.0 🌶  | [LLaMA-2 13B](https://huggingface.co/TheBloke/Llama-2-13B-GGML) Q5_1  |
+|   24 | 🧠  87.33 |    11.5 🌶  | [Saiga 2 (L2) 13B](https://huggingface.co/IlyaGusev/saiga2_13b_ggml) Q5_1  |
+|   25 | 🧠  86.29 |    12.5 🌶  | [Lazarus 30B](https://huggingface.co/TheBloke/30B-Lazarus-GGML) Q4_K_M  |
+|   26 | 🧠  86.06 |    11.0 🌶  | [OpenChat v3.2 13B](https://huggingface.co/TheBloke/OpenChat_v3.2-GGML) Q5_K_M  |
+|   27 | 🧠  86.00 |    11.0 🌶  | [Firefly v1.2 (L2) 13B](https://huggingface.co/TheBloke/Firefly-Llama2-13B-v1.2-GGML) Q5_K_M  |
+|   28 | 🧠  85.14 |    12.5 🌶  | [Lazarus Instruct PL 30B](https://huggingface.co/Aspik101/30B-Lazarus-instruct-PL-lora_GGML) Q4_1  |
+|   29 | ⭐🧠  90.09 |     9.5 👌 | [LLaMA 30B](https://huggingface.co/TheBloke/LLaMa-30B-GGML/) Q5_K_M  |
+|   30 | 🧠  89.23 |    10.0 👌 | [Vigogne 2 (L2) 13B](https://huggingface.co/TheBloke/Vigogne-2-13B-Instruct-GGML) Q5_K_M  |
+|   31 | 🧠  88.94 |    10.0 👌 | [Orca Mini v3 (L2) 13B](https://huggingface.co/TheBloke/orca_mini_v3_13B-GGML) Q5_K_M  |
+|   32 | 🧠  88.71 |    10.0 👌 | [Airoboros GPT4 2.0 33B](https://huggingface.co/TheBloke/airoboros-33B-GPT4-2.0-GGML) Q5_K_M  |
+|   33 | 🧠  88.59 |     8.0 👌 | [Stable Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Stable-Platypus2-13B-GGML) Q5_K_M  |
+|   34 | 🧠  88.02 |     9.0 👌 | [StableBeluga (L2) 13B](https://huggingface.co/s3nh/StableBeluga-13B-GGML) Q5_1  |
+|   35 | 🧠  88.02 |     9.0 👌 | [Airoboros GPT4 2.0 (L2) 13B](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GGML) Q5_K_M  |
+|   36 | 🧠  86.06 |    10.0 👌 | [Chronohermes Grad (L2) 13B](https://huggingface.co/TheBloke/Chronohermes-Grad-L2-13B-GGML) Q5_K_M  |
+|   37 | 🧠  85.31 |     8.0 👌 | [OpenOrcaxOpenChat Preview2 (L2) 13B](https://huggingface.co/s3nh/OpenOrcaxOpenChat-Preview2-13B-GGML) Q5_1  |
+|   38 | 🧠  85.20 |     9.5 👌 | [StableBeluga Instruct PL Lora 13B](https://huggingface.co/Aspik101/StableBeluga-13B-instruct-PL-lora_GGML) Q5_1  |
+|   39 | ⭐🧠  89.69 |     5.0 🧊 | [WizardLM 1.2 PL 13B](https://huggingface.co/Lajonbot/WizardLM-13B-V1.2-PL-lora_GGML) Q5_1  |
+|   40 | 🧠  88.02 |     0.0 🧊 | [Enterredaas 33B](https://huggingface.co/Aeala/Enterredaas-33b-QLoRA) Q4_1  |
+|   41 | 🧠  87.44 |     5.5 🧊 | [Spring Dragon (L2) 13B](https://huggingface.co/TheBloke/Spring-Dragon-GGML) Q5_K_M  |
+|   42 | 🧠  87.44 |     5.5 🧊 | [Spring Dragon 13B](https://huggingface.co/TheBloke/Spring-Dragon-GGML) Q5_K_M  |
+|   43 | 🧠  86.00 |     3.5 🧊 | [LLaMA-2 Chinese Chat 13B](https://huggingface.co/s3nh/Llama2-Chinese-13b-Chat-GGML) Q5_1  |
+      | 📖 | | | Good ALC-IQ Class: 85.14 > ALC-IQ >= 77.07 |
+|   44 | ⭐📖  84.85 |    15.5 🌶🌶 | [qCammel L2 13B](https://huggingface.co/TheBloke/qCammel-13-GGML) Q5_K_M  |
+|   45 | ⭐📖  84.62 |    14.0 🌶🌶 | [Saiga 30B](https://huggingface.co/IlyaGusev/saiga_30b_ggml) Q5_1  |
+|   46 | ⭐📖  84.62 |    14.0 🌶🌶 | [Camel Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Camel-Platypus2-13B-GGML) Q5_K_M  |
+|   47 | ⭐📖  84.33 |    13.0 🌶🌶 | [Hermes LimaRP 13B](https://huggingface.co/Gryphe/Various-GGML-Quants) Q4_K_M  |
+|   48 | ⭐📖  84.22 |    17.5 🌶🌶 | [OpenAssistant LLaMA-2 8k Orca 13B](https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|   49 | 📖  83.53 |    13.5 🌶🌶 | [Hermes Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/hermeslimarp-l2-7b-GGML) Q5_K_M  |
+|   50 | 📖  82.95 |    16.5 🌶🌶 | [Crestfall FrankenMon (L2) 13B](https://huggingface.co/crestf411/crestfall-L2-frankmon-13b) Q5_K_M  |
+|   51 | 📖  81.45 |    17.0 🌶🌶 | [Chronos 33B](https://huggingface.co/TheBloke/chronos-33b-GGML) Q4_K_M  |
+|   52 | 📖  80.93 |    15.0 🌶🌶 | [OniiChat Hermes Limarp (L2) 13B](https://huggingface.co/crestf411/crestfall-L2-oniichat-hermes-limarp-13b) Q5_K_M  |
+|   53 | 📖  80.82 |    19.0 🌶🌶 | [Legerdemain (L2) 13B](https://huggingface.co/TheBloke/13B-Legerdemain-L2-GGML) Q5_K_M  |
+|   54 | 📖  80.53 |    14.0 🌶🌶 | [Gywy Chinese v1 (L2) 13B](https://huggingface.co/s3nh/gywy-llama2-13b-chinese-v1-GGML) Q5_1  |
+|   55 | 📖  79.95 |    16.0 🌶🌶 | [LLongMA-2 Storysummarizer 13B](https://huggingface.co/emozilla/LLongMA-2-13b-storysummarizer-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|   56 | 📖  79.72 |    15.0 🌶🌶 | [Nous Hermes LLaMA-2 13B](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b-GGML) Q4_K_M  |
+|   57 | 📖  78.51 |    13.5 🌶🌶 | [Holodeck 1 (L2) 13B](https://huggingface.co/shadowsword/LLAMA2-13B-Holodeck-1-GGML_K) Q5_K  |
+|   58 | 📖  78.00 |    16.0 🌶🌶 | [AlpacaCielo (L2) 13B](https://huggingface.co/TheBloke/AlpacaCielo-13B-GGML) Q5_K_M  |
+|   59 | ⭐📖  84.97 |    12.5 🌶  | [Hermes Kimiko (L2) 13B](https://huggingface.co/samemodels/hermes-kimiko-13b-GGML) Q5_K_M  |
+|   60 | ⭐📖  84.79 |    11.5 🌶  | [LLaMA-2 Frankensteined 22B](https://huggingface.co/IHaveNoClueAndIMustPost/Llama-2-22B-GGML) Q4_K_M  |
+|   61 | ⭐📖  83.93 |    11.5 🌶  | [LLaMA-2 Guanaco 13B](https://huggingface.co/Gryphe/Various-GGML-Quants) Q4_1  |
+|   62 | 📖  83.06 |    11.5 🌶  | [Frankensteins Monster 13B](https://huggingface.co/Blackroot/FrankensteinsMonster-13B-GGML) Q4_K_S  |
+|   63 | 📖  82.60 |    11.0 🌶  | [Dans QuestionableCocktail 2 (L2) 13B](https://huggingface.co/PocketDoc/Dans-QuestionableCocktail-2-13b-q4_1) Q4_1  |
+|   64 | 📖  82.43 |    11.0 🌶  | [Epsilon 30B](https://huggingface.co/TheBloke/30B-Epsilon-GGML) Q4_0  |
+|   65 | 📖  80.13 |    11.0 🌶  | [Hermes Kimiko (L2) 7B](https://huggingface.co/zarakiquemparte/hermes-kimiko-7b-GGML) Q5_K_M  |
+|   66 | 📖  78.17 |    12.0 🌶  | [Airoboros GPT4 m2.0 (L2) 13B](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GGML) Q5_K_M  |
+|   67 | ⭐📖  84.27 |     9.0 👌 | [Dans PersonalityEngine 30B](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-30b-ggml-q4_1) Q4_1  |
+|   68 | ⭐📖  84.22 |     9.5 👌 | [Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Platypus2-13B-GGML) Q5_K_M  |
+|   69 | 📖  81.80 |     8.0 👌 | [Dugong (L2) 7B](https://huggingface.co/s3nh/elliot4ai-Dugong-Llama2-7b-chinese-GGML) Q5_1  |
+|   70 | 📖  80.82 |     8.5 👌 | [Vigogne 2 (L2) 7B](https://huggingface.co/TheBloke/Vigogne-2-7B-Chat-GGML) Q5_K_M  |
+|   71 | 📖  79.90 |     9.0 👌 | [Saiga 2 (L2) 7B](https://huggingface.co/IlyaGusev/saiga2_7b_ggml) Q5_1  |
+|   72 | 📖  79.32 |     9.0 👌 | [Nous Hermes (L2) 7B](https://huggingface.co/TheBloke/Nous-Hermes-Llama-2-7B-GGML) Q5_K_M  |
+|   73 | 📖  79.26 |     8.0 👌 | [Kimiko (L2) 7B](https://huggingface.co/TheBloke/Kimiko-7B-GGML) Q5_K_M  |
+|   74 | 📖  78.23 |     9.0 👌 | [StableBeluga (L2) 7B](https://huggingface.co/s3nh/StableBeluga-7B-GGML) Q5_1  |
+|   75 | 📖  77.07 |    10.0 👌 | [LLaMA-2 Guanaco 7B](https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGML) Q5_1  |
+|   76 | ⭐📖  84.74 |     6.0 🧊 | [LLaMA-2 Chat 13B](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) Q5_1  |
+|   77 | 📖  83.12 |     6.5 🧊 | [LLaMA-2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q8_0  |
+|   78 | 📖  83.06 |     7.5 🧊 | [MindFlay (L2) 22B](https://huggingface.co/Envoid/MindFlay-22B-ggml) Q4_0  |
+|   79 | 📖  81.80 |     6.0 🧊 | [Jindo Instruct Pre-Alpha (L2) 7B](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-ggml) Q5_K_M  |
+|   80 | 📖  81.80 |     3.0 🧊 | [LLaMA-2 Chat 7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) Q5_1  |
+|   81 | 📖  81.68 |     4.0 🧊 | [CodeUp LLaMA-2 Chat 13B](https://huggingface.co/TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGML) Q4_K_M  |
+|   82 | 📖  81.51 |     6.0 🧊 | [LLaMA 2 7B](https://huggingface.co/TheBloke/Llama-2-7B-GGML) Q5_1  |
+|   83 | 📖  80.36 |     3.0 🧊 | [LLaMA-2 Chat Code Cherry Pop 7B](https://huggingface.co/TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGML) Q5_K_M  |
+|   84 | 📖  80.13 |     4.5 🧊 | [Photolens LLaMA 2 Langchain Chat (L2) 7B](https://huggingface.co/s3nh/Photolens-llama-2-7b-langchain-chat-GGML) Q5_1  |
+|   85 | 📖  77.94 |     7.0 🧊 | [Beluga Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/beluga-limarp-7b-GGML) Q5_K_M  |
+      | 🤔 | | | Lower ALC-IQ Class: 77.07 > ALC-IQ >= 63.88 |
+|   86 | ⭐🤔  75.75 |    13.0 🌶🌶 | [Nous Hermes Writer (L2) 13B](https://huggingface.co/Blackroot/Nous-Hermes-Llama2-13b-Storywriter-GGML) Q4_K_S  |
+|   87 | ⭐🤔  73.79 |    19.0 🌶🌶 | [Wizard Vicuna LLaMA-2 22B](https://huggingface.co/IHaveNoClueAndIMustPost/llama2-22b-wizard_vicuna-ggml) Q4_K_M  |
+|   88 | 🤔  68.78 |    13.0 🌶🌶 | [Hermesboros Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/hermesboros-limarp-7b-GGML) Q5_K_M  |
+|   89 | 🤔  68.43 |    15.0 🌶🌶 | [Chronos Hermes SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|   90 | 🤔  68.15 |    14.0 🌶🌶 | [Chronos SuperHOT 8K 13B](https://huggingface.co/TheBloke/Chronos-13B-SuperHOT-8K-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|   91 | 🤔  67.40 |    14.0 🌶🌶 | [Vicuna 1.3 7B](https://huggingface.co/TheBloke/vicuna-7B-v1.3-GGML) Q8_0  |
+|   92 | 🤔  65.38 |    13.0 🌶🌶 | [MythoBoros 13B](https://huggingface.co/TheBloke/MythoBoros-13B-GGML) Q5_K_M  |
+|   93 | 🤔  65.26 |    15.0 🌶🌶 | [Airoboros GPT4 1.4.1 Limarp (L2) 7B](https://huggingface.co/zarakiquemparte/airoboros-l2-7b-gpt4-1.4.1-limarp-GGML) Q5_K_M  |
+|   94 | 🤔  65.15 |    13.0 🌶🌶 | [Wizard Vicuna Uncensored SuperHOT 8k 13B](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML) Q5_K_S ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|   95 | 🤔  65.03 |    15.0 🌶🌶 | [MythoLogic 13B](https://huggingface.co/TheBloke/MythoLogic-13B-GGML) Q5_1  |
+|   96 | 🤔  64.63 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v7 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q4_K  |
+|   97 | 🤔  63.88 |    17.0 🌶🌶 | [Chronos WizardLM UC SCOT ST 13B](https://huggingface.co/TheBloke/chronos-wizardlm-uc-scot-st-13B-GGML) Q4_0  |
+|   98 | ⭐🤔  75.06 |    12.0 🌶  | [Vicuna 1.5 (L2) 13B](https://huggingface.co/s3nh/vicuna-13b-v1.5-GGML) Q5_0  |
+|   99 | ⭐🤔  72.24 |    10.5 🌶  | [Orca Mini v3 (L2) 7B](https://huggingface.co/TheBloke/orca_mini_v3_7B-GGML) Q5_K_M  |
+|  100 | 🤔  68.03 |    11.0 🌶  | [MedAlpaca 13B](https://huggingface.co/TheBloke/medalpaca-13B-GGML) Q5_1  |
+|  101 | 🤔  66.42 |    11.5 🌶  | [Airoboros GPT4 1.3 13B](https://huggingface.co/TheBloke/airoboros-13B-gpt4-1.3-GGML) Q5_1  |
+|  102 | 🤔  65.84 |    11.0 🌶  | [Airoboros GPT4 1.4.1 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7b-gpt4-1.4.1-GGML) Q5_K_M  |
+|  103 | 🤔  65.21 |    10.5 🌶  | [Lunaboros (L2) 7B](https://huggingface.co/zarakiquemparte/lunaboros-7b-GGML) Q4_K_M  |
+|  104 | 🤔  65.21 |    12.0 🌶  | [Lunaboros LimaRP 7B](https://huggingface.co/zarakiquemparte/lunaboros-limarp-7b-GGML) Q4_K_M  |
+|  105 | 🤔  64.69 |    11.5 🌶  | [LLaMA SuperCOT 13B](https://huggingface.co/camelids/llama-13b-supercot-ggml-q5_1) Q5_1  |
+|  106 | ⭐🤔  74.31 |     8.0 👌 | [GOAT Community (L2) 7B](https://huggingface.co/s3nh/GOAT-7B-Community-GGML) Q5_1  |
+|  107 | ⭐🤔  73.56 |     8.5 👌 | [MythoLogic Mini (L2) 7B](https://huggingface.co/TheBloke/MythoLogic-Mini-7B-GGML/tree/main) Q5_K_M  |
+|  108 | ⭐🤔  72.87 |     9.5 👌 | [Luna AI (L2) 7B](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML) Q8_0  |
+|  109 | ⭐🤔  72.12 |    10.0 👌 | [Vicuna 1.3 PL 13B](https://huggingface.co/Lajonbot/vicuna-13b-v1.3-PL-lora_GGML) Q5_1  |
+|  110 | ⭐🤔  72.06 |     8.5 👌 | [Saiga 7B](https://huggingface.co/IlyaGusev/saiga_7b_ggml) Q5_1  |
+|  111 | 🤔  72.00 |     8.5 👌 | [Pygmalion 7B](https://huggingface.co/sasha0552/pygmalion-7b-q5_1-ggml) Q5_1  |
+|  112 | 🤔  71.77 |     9.5 👌 | [BlueMethod 13B](https://huggingface.co/TheBloke/13B-BlueMethod-GGML) Q5_1  |
+|  113 | 🤔  71.26 |     8.5 👌 | [Vicuna 1.3 German 13B](https://huggingface.co/TheBloke/Vicuna-13B-v1.3-German-GGML) Q5_K_M  |
+|  114 | 🤔  69.12 |     8.0 👌 | [Metharme 7B](https://huggingface.co/waifu-workshop/metharme-7b-ggml-q5_1) Q5_1  |
+|  115 | 🤔  68.32 |     9.5 👌 | [LLaMA 7B](https://huggingface.co/localmodels/LLaMA-7B-ggml) Q8_0  |
+|  116 | 🤔  66.82 |     8.5 👌 | [Ouroboros 13B](https://huggingface.co/s3nh/13B-Ouroboros-GGML) Q5_1  |
+|  117 | 🤔  66.71 |    10.0 👌 | [OpenBuddy LLaMA-2 v8.1 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K  |
+|  118 | 🤔  66.59 |    10.0 👌 | [HyperMantis 13B](https://huggingface.co/TheBloke/13B-HyperMantis-GGML) Q5_K_M  |
+|  119 | 🤔  66.24 |     8.5 👌 | [Vicuna 1.3 13B](https://huggingface.co/TheBloke/vicuna-13b-v1.3.0-GGML) Q5_1  |
+|  120 | 🤔  66.24 |    10.0 👌 | [Dans PersonalityEngine 13B](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-13b-ggml-q5_1) Q5_1  |
+|  121 | 🤔  63.94 |     9.0 👌 | [Saiga 13B](https://huggingface.co/IlyaGusev/saiga_13b_ggml) Q5_1  |
+|  122 | ⭐🤔  76.56 |     3.0 🧊 | [Merak v2 (L2) 7B](https://huggingface.co/asyafiqe/Merak-7B-v2-GGML) Q5_K_M  |
+|  123 | ⭐🤔  72.58 |     4.0 🧊 | [Metharme 13B](https://huggingface.co/TehVenom/Metharme-13b-GGML) Q5_1  |
+|  124 | 🤔  72.00 |     7.0 🧊 | [OpenBuddy Atom v9 13B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q5_K  |
+|  125 | 🤔  67.80 |     6.5 🧊 | [Airoboros GPT4 2.0 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GGML) Q5_K_M  |
+|  126 | 🤔  67.74 |     7.0 🧊 | [LLaMA 13B](https://huggingface.co/TheBloke/LLaMa-13B-GGML/) Q5_K_M  |
+|  127 | 🤔  66.42 |     3.0 🧊 | [Dolphin LLaMA 13B](https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML) Q5_K_M  |
+      | 🤪 | | | Dumb ALC-IQ Class: ALC-IQ < 63.88 |
+|  128 | ⭐🤪  63.31 |    15.5 🌶🌶 | [Chronos Hermes 13B](https://huggingface.co/TheBloke/chronos-hermes-13B-GGML) Q5_1  |
+|  129 | ⭐🤪  63.31 |    13.5 🌶🌶 | [OpenBuddy OpenLLaMA v5 7B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q3_K  |
+|  130 | ⭐🤪  62.38 |    13.5 🌶🌶 | [Airoboros GPT4 1.3 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.3-GGML) Q4_K_M  |
+|  131 | ⭐🤪  62.04 |    13.5 🌶🌶 | [Chronos 13B](https://huggingface.co/TheBloke/chronos-13B-GGML) Q5_K_M  |
+|  132 | 🤪  61.52 |    13.0 🌶🌶 | [Hermes LLongMA 2 8K (L2) 13B](https://huggingface.co/s3nh/Hermes-LLongMA-2-13b-8k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  133 | ⭐🤪  63.77 |    11.0 🌶  | [Alpacino SuperCOT 13B](https://huggingface.co/xzuyn/Alpacino-SuperCOT-13B-GGML) Q4_0  |
+|  134 | ⭐🤪  63.48 |    12.0 🌶  | [Airoboros GPT4 1.2 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.2-GGML) Q4_K_M  |
+|  135 | 🤪  61.52 |    12.5 🌶  | [Airoboros GPT4 7B](https://huggingface.co/TheBloke/airoboros-7b-gpt4-GGML) Q4_K_M  |
+|  136 | 🤪  60.66 |    11.0 🌶  | [Airoboros GPT4 1.4 7B](https://huggingface.co/TheBloke/airoboros-7B-gpt4-1.4-GGML) Q5_K_M  |
+|  137 | 🤪  59.39 |    11.5 🌶  | [Nous-Hermes 13B](https://huggingface.co/TheBloke/Nous-Hermes-13B-GGML) Q4_0  |
+|  138 | 🤪  57.89 |    11.0 🌶  | [Petra Instruct 13B](https://huggingface.co/llama-anon/petra-13b-instruct-ggml) Q5_K_M  |
+|  139 | 🤪  53.63 |    11.5 🌶  | [Open LLaMA Open Instruct 7B](https://huggingface.co/TheBloke/open-llama-7b-open-instruct-GGML) Q8_0  |
+|  140 | 🤪  52.19 |    10.5 🌶  | [Alpachino Baichuan Instruction 7B](https://huggingface.co/s3nh/AlpachinoNLP-Baichuan-7B-Instruction-GGML) Q5_0  |
+|  141 | 🤪  52.07 |    11.5 🌶  | [OpenLLaMA Open Instruct v2 7B](https://huggingface.co/TheBloke/open-llama-7B-v2-open-instruct-GGML) Q8_0  |
+|  142 | ⭐🤪  63.19 |     8.0 👌 | [Airoboros GPT4 m2.0 (L2) 7B](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GGML) Q5_K_M  |
+|  143 | ⭐🤪  61.92 |     9.0 👌 | [Guanaco 7B](https://huggingface.co/TheBloke/guanaco-7B-GGML) Q4_K_M  |
+|  144 | 🤪  59.22 |    10.0 👌 | [WizardLM Uncensored 7B](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML) Q5_1  |
+|  145 | 🤪  58.53 |    10.0 👌 | [LLaMA-2 KO Chat 7B](https://huggingface.co/StarFox7/Llama-2-ko-7B-chat-ggml) Q5_1  |
+|  146 | 🤪  57.32 |    10.0 👌 | [AlpacaCielo 2 8K (L2) 7B](https://huggingface.co/TheBloke/AlpacaCielo2-7B-8K-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  147 | 🤪  51.15 |     9.5 👌 | [OpenBuddy OpenLLaMA v10 3B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q5_0  |
+|  148 | 🤪  50.81 |     8.0 👌 | [Baichuan 7B](https://huggingface.co/s3nh/baichuan-7b-sft-GGML) Q5_1  |
+|  149 | ⭐🤪  63.36 |     2.0 🧊 | [Pygmalion 13B](https://huggingface.co/notstoic/pygmalion-13b-ggml) Q5_1  |
+|  150 | ⭐🤪  62.50 |     6.0 🧊 | [Wizard Vicuna Uncensored 13B](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML) Q5_1  |
+|  151 | ⭐🤪  62.44 |     3.5 🧊 | [LLaMA-2 KO 7B](https://huggingface.co/StarFox7/Llama-2-ko-7B-ggml) Q5_1  |
+|  152 | 🤪  60.43 |     3.0 🧊 | [Dolphin LLaMA-2 (L2) 7B](https://huggingface.co/TheBloke/Dolphin-Llama2-7B-GGML) Q5_K_M  |
+|  153 | 🤪  59.97 |     1.0 🧊 | [Based 7B](https://huggingface.co/TheBloke/based-7B-GGML) Q4_K_M  |
+|  154 | 🤪  59.10 |     7.0 🧊 | [Hermes LLongMA 2 8K (L2) 7B](https://huggingface.co/s3nh/Hermes-LLongMA-2-7b-8k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  155 | 🤪  58.12 |     4.5 🧊 | [PMC LLaMA 7B](https://huggingface.co/TheBloke/PMC_LLAMA-7B-GGML) Q4_0  |
+|  156 | 🤪  57.66 |     6.0 🧊 | [LMSYS Vicuna 1.5 (L2) 7B](https://huggingface.co/s3nh/lmsys-vicuna-7b-v1.5-GGML) Q5_1  |
+|  157 | 🤪  56.91 |     1.5 🧊 | [BigTranslate 13B](https://huggingface.co/TheBloke/BigTranslate-13B-GGML) Q4_K_M  |
+|  158 | 🤪  56.22 |     5.5 🧊 | [Mamba GPT v2 3B](https://huggingface.co/s3nh/mamba-gpt-3b-v2-GGML) Q5_1  |
+|  159 | 🤪  54.95 |     0.0 🧊 | [Vicuna v1.5 16K 13B](https://huggingface.co/TheBloke/vicuna-13B-v1.5-16K-GGML) Q5_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  160 | 🤪  53.92 |     0.0 🧊 | [LMSYS Vicuna 1.5 (L2) 16k 13B](https://huggingface.co/s3nh/lmsys-vicuna-13b-v1.5-16k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  161 | 🤪  53.34 |     4.5 🧊 | [Orca Mini 3B](https://huggingface.co/s3nh/orca_mini_3b-GGML) Q5_1  |
+|  162 | 🤪  52.94 |     5.5 🧊 | [Open LLaMA 7B](https://huggingface.co/vihangd/open_llama_7b_700bt_ggml) Q5_1  |
+|  163 | 🤪  52.42 |     0.0 🧊 | [LLongMA 2 7B](https://huggingface.co/s3nh/LLongMA-2-7b-16k-GGML/tree/main) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  164 | 🤪  52.42 |     0.0 🧊 | [LLongMA 2 13B](https://huggingface.co/s3nh/LLongMA-2-13b-16k-GGML/tree/main) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  165 | 🤪  52.42 |     0.0 🧊 | [Airoboros GPT4 1.4 SuperHOT 8K 33B](https://huggingface.co/TheBloke/airoboros-33B-gpt4-1-4-SuperHOT-8K-GGML) Q4_K_M ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  166 | 🤪  52.30 |     7.5 🧊 | [WizardVicuna Uncens Instr PL 3B](https://huggingface.co/Aspik101/WizardVicuna-Uncensored-3B-instruct-PL-lora_GGML) Q5_1  |
+|  167 | 🤪  51.50 |     6.0 🧊 | [LLaMA Deus v3 7B](https://huggingface.co/TheBloke/llama-deus-7b-v3-GGML) Q4_0  |
+|  168 | 🤪  47.58 |     0.0 🧊 | [LMSYS LongChat 1.5 32k 7B](https://huggingface.co/s3nh/lmsys-longchat-7b-v1.5-32k-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  169 | 🤪  47.58 |     0.0 🧊 | [LLaMA-2 32K 7B](https://huggingface.co/s3nh/LLaMA-2-7B-32K-GGML) Q5_1 ([Extended Context Broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
+|  170 | 🤪  42.28 |     0.0 🧊 | [ToolLLaMA 7B](https://huggingface.co/s3nh/ToolLLaMA-7b-GGML) Q5_1  |
 
 ## About Quantization
 
@@ -208,6 +227,30 @@ The benchmark does not have proper results for these models because:
 **Conclusion:** The user experience with GGML files and llama.cpp (and derivatives) is better than dealing with the chunk of safetensor files on huggingfaces. But at the same time, the user experience is really really bad. I have trust in the developers fixing this eventually. The LLM field is still rapidly evolving at this point, and the open source applications built around it are still cutting edge.
 
 ## Ranking Changelog
+
+- 2023-08-11 V15
+| Rank      | IQ/ERP  | GGML Model                               |
+|----------:|:-------:|------------------------------------------|
+|   1 / 170 | ⭐🧠 / 🌶🌶 | [MythoMax (L2) 13B](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML) Q5_K_M |
+|   8 / 170 | 🧠 / 🌶🌶 | [LLaMA-2 Chat Uncensored 13B](https://huggingface.co/s3nh/llama2_13b_chat_uncensored-GGML) Q5_1 |
+|  31 / 170 | 🧠 / 👌 | [Orca Mini v3 (L2) 13B](https://huggingface.co/TheBloke/orca_mini_v3_13B-GGML) Q5_K_M |
+|  33 / 170 | 🧠 / 👌 | [Stable Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Stable-Platypus2-13B-GGML) Q5_K_M |
+|  40 / 170 | 🧠 / 🧊 | [Enterredaas 33B](https://huggingface.co/Aeala/Enterredaas-33b-QLoRA) Q4_1 |
+|  42 / 170 | 🧠 / 🧊 | [Spring Dragon 13B](https://huggingface.co/TheBloke/Spring-Dragon-GGML) Q5_K_M |
+|  46 / 170 | ⭐📖 / 🌶🌶 | [Camel Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Camel-Platypus2-13B-GGML) Q5_K_M |
+|  55 / 170 | 📖 / 🌶🌶 | [LLongMA-2 Storysummarizer 13B](https://huggingface.co/emozilla/LLongMA-2-13b-storysummarizer-GGML) Q5_K_M |
+|  64 / 170 | 📖 / 🌶  | [Epsilon 30B](https://huggingface.co/TheBloke/30B-Epsilon-GGML) Q4_0 |
+|  68 / 170 | ⭐📖 / 👌 | [Platypus 2 (L2) 13B](https://huggingface.co/TheBloke/Platypus2-13B-GGML) Q5_K_M |
+|  84 / 170 | 📖 / 🧊 | [Photolens LLaMA 2 Langchain Chat (L2) 7B](https://huggingface.co/s3nh/Photolens-llama-2-7b-langchain-chat-GGML) Q5_1 |
+|  99 / 170 | ⭐🤔 / 🌶  | [Orca Mini v3 (L2) 7B](https://huggingface.co/TheBloke/orca_mini_v3_7B-GGML) Q5_K_M |
+| 122 / 170 | ⭐🤔 / 🧊 | [Merak v2 (L2) 7B](https://huggingface.co/asyafiqe/Merak-7B-v2-GGML) Q5_K_M |
+| 138 / 170 | 🤪 / 🌶  | [Petra Instruct 13B](https://huggingface.co/llama-anon/petra-13b-instruct-ggml) Q5_K_M |
+| 140 / 170 | 🤪 / 🌶  | [Alpachino Baichuan Instruction 7B](https://huggingface.co/s3nh/AlpachinoNLP-Baichuan-7B-Instruction-GGML) Q5_0 |
+| 146 / 170 | 🤪 / 👌 | [AlpacaCielo 2 8K (L2) 7B](https://huggingface.co/TheBloke/AlpacaCielo2-7B-8K-GGML) Q5_K_M |
+| 147 / 170 | 🤪 / 👌 | [OpenBuddy OpenLLaMA v10 3B](https://huggingface.co/OpenBuddy/openbuddy-ggml) Q5_0 |
+| 152 / 170 | 🤪 / 🧊 | [Dolphin LLaMA-2 (L2) 7B](https://huggingface.co/TheBloke/Dolphin-Llama2-7B-GGML) Q5_K_M |
+| 164 / 170 | 🤪 / 🧊 | [LLongMA 2 13B](https://huggingface.co/s3nh/LLongMA-2-13b-16k-GGML/tree/main) Q5_1 |
+| 166 / 170 | 🤪 / 🧊 | [WizardVicuna Uncens Instr PL 3B](https://huggingface.co/Aspik101/WizardVicuna-Uncensored-3B-instruct-PL-lora_GGML) Q5_1 |
 
 - 2023-08-10 V14
 | Rank      | IQ/ERP  | GGML Model                               |
@@ -553,6 +596,10 @@ Here are a few sources of character cards:
 - [Muricanpie's Characters - https://rentry.co/mpcs](https://rentry.co/mpcs)
 - [ERP/RP and erotica raw data collection - https://rentry.org/qib8f](https://rentry.org/qib8f)
 - [Dampf's list of good datasets for LLM fine-tuning](https://rentry.org/datasets-llm)
+- [AI Chatbot General /aicg/ - https://rentry.co/aicg_extra_information](https://rentry.co/aicg_extra_information)
+  - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
+  - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
+  - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
 
 # Cite as
 

@@ -5,6 +5,8 @@ prefer gelbooru (NAI) tags as the main ones were mapped when training on sankaku
 add `letterbox` in the negative prompt, all letterbox'd images were tagged in training so this helps a bit.
 danbooru tags are a subset of gelboorus, for example danbooru only has `gaping`, where as gelbooru has `gaping`, `gaping pussy` and `gaping anus`
 
+[SD Exchange discord](https://discord.gg/trXFqstuzm)
+
 [HOW TO USE](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 **gape60-fp16.ckpt**
@@ -91,8 +93,6 @@ gelbooru data for `dilation belt` `dilation tape` was added. works ok.
 x-ray is confusing for the model so it was mapped to `intview`. still it cannot do x-ray :(
 tags were only mapped starting at epoch 50 (oops), so it will understand sankaku tags somewhat.
 data was added late for `vibrator under panties` and related. it still cannot pull it off, anything discrete like a hidden vibrator or butt plug is very hard for it to do (probably will train a new model for this).
-
-[SD Exchange discord](https://discord.gg/trXFqstuzm)
 
 ## Prompts
 `masterpiece, best quality, (gaping vagina), ((gaping pussy)), (spread pussy), lying, on back, bed, legs up, (nsfw), 1girl, cute girl, solo, navel, small breasts, black hair, long hair, red eyes, blush, :o, sweating, close up

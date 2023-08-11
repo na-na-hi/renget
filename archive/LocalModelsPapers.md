@@ -175,6 +175,7 @@
 07/2023|[Focused Transformer: Contrastive Training for Context Scaling (LongLLaMA](https://arxiv.org/abs/2307.03170)
 07/2023|[Rhythm Modeling for Voice Conversion (Urhythmic)](https://arxiv.org/abs/2307.06040)
 07/2023|[Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/abs/2307.14995)
+08/2023|[Separate Anything You Describe](https://arxiv.org/abs/2308.05037)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

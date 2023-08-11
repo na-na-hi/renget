@@ -811,7 +811,7 @@ Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)): https://rentry.org/
 Crush...2 (Hivemind, Mirror Devil (mentioned)): https://rentry.org/6rwmw
 Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos): https://rentry.org/rzimh
 Moving up in the World: https://rentry.org/esiz3
-There is nothing to be afraid of (Faith Kang): https://rentry.org/8qvb4
+There is nothing to be afraid of (Faith, Hailey, Minnie, Max, Edie): https://rentry.org/8qvb4
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

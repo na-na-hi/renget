@@ -1208,7 +1208,7 @@ Inigo shook his head adamantly. "I'm into girls. Like, a lot. My girlfriend's na
 
 Curie studied him a moment longer before shrugging. "Okay, fine, I believe you," she relented. She seemed to perk up a bit. 
 
-As the elevator slowed to a stop with a ding, she turned to him with a sly smile. "You know you still owe me though, right?"
+As the elevator slowed to a stop with a ding, she turned to him with a sly smile. "You know you still owe me, right?"
 
 Inigo blinked. "What? No I don't, I already took you to that gala thing."
 
@@ -1218,13 +1218,13 @@ She stepped out of the elevator into her apartment's entryway. Inigo followed be
 
 "I don't remember agreeing to that..."
 
-Curie waved a hand airily as she unlocked her apartment. "Doesn't matter. You're going to give me dance lessons for healing. I had fun at the party and I think I'll take a shot at it. I don't really have any hobbies so..” 
+Curie waved a hand airily as she unlocked her apartment. "Doesn't matter. You're going to give me dance lessons for healing. I had fun at the party and I think I'll take a shot at it. I don't really have any hobbies. I lost all my passion for my work during my first year. Maybe some of your spark could rub off on me if I stick around.” Curie smiled at him before stumbling over to her couch and flopping down dramatically. 
 
-“I really lost all my passion for my work during my first year. Maybe some of your spark could rub off on me if I stick around.” Curie smiled at him before stumbling over to her couch and flopped down dramatically. 
+Inigo considered this and then broke into a grin. "Alright, you got yourself a deal.” He smiled back. “And thanks for your help tonight," he said sincerely. "Get some rest. I'll check in with you tomorrow?"
 
-Inigo considered this and then broke into a grin. "Alright, you got yourself a deal.” He smiled back. “And thanks for your help tonight," he said sincerely. "Get some rest. I'll check in with you tomorrow."
+Curie mumbled incoherently into the couch cushion.  Inigo took that as his cue to slip out quietly. 
 
-Curie mumbled incoherently into the couch cushion. Inigo took that as his cue to slip out quietly. As he flew off into the night sky, he had to smile thinking about Curie's silly assumption. But also, he made a mental note - he really needed to get a better photo of Hoge one of these days.
+As he flew off into the night sky, he had to smile thinking about Curie's silly assumption. But also, he made a mental note - he really needed to get a better photo of Hoge one of these days.
 
 ####XIII. Inigo’s Apartment
 >Recommended music: https://www.youtube.com/watch?v=3_xHISYL9AQ
@@ -1248,15 +1248,15 @@ Inigo rolled his eyes. "I would, except you're always here hanging around my apa
 
 "Nah, your couch is more comfortable. Oh nice, you unlocked the Terra-mech!" Junichi explained in a monotone, eyes glued to the screen even as he spoke. "Plus your place is closer to the hospital. Now shut up, I'm trying to concentrate."
 
-"Alright, well you can stay as long as you want bro, but what are you doing here?" Inigo asked, turning his head. He looked to Curie sprawled casually on the other end of the couch next to Junichi, leafing through a dance magazine.
+"Alright, well you can stay as long as you want bro, but what are you doing here?" Inigo asked, turning his head. He looked to Curie on her lying on her stomach casually on the other end of the couch next to Junichi, leafing through a dance magazine.
 
-Curie glanced up with a breezy smile. "I'm here for my dance lessons, silly. Did you forget you promised to teach me? I got bored cooped up in my dreary apartment all alone, so I figured I'd just come hang out here for a while. Hope that's cool." She brushed a strand of silver hair behind her ear. "By the way, I'm loving what you did with your hair today."
+Curie glanced up with a breezy smile. "I'm here for my dance lessons, silly. Did you forget you promised to teach me? I got bored cooped up in my dreary apartment all alone, so I figured I'd just come hang out here for a while. Hope that's cool." She brushed a strand of silver hair behind her ear and winked. "By the way, I'm loving what you did with your hair today."
 
 Inigo ran a hand self-consciously through his blond locks. "Oh, thanks. But shouldn't you be at your hospital shift or something?"
 
 "Nope, I'm done for the day," Curie said matter-of-factly. "I'm free as a bird now, so I can stick around here. It’s not like I’m an inventor or crafter like the other supports, and I can pretty much go wherever I please. "
 
-"Right, okay… what about you?" He pointed at Maddie who lazily raised a hand from where she was sprawled across a chair near the window, scrolling on her phone. "Just staying here waiting on some intel to come through. This place has a better signal than the safe house. Don't mind me."
+"Right, okay… what about you?" He pointed at Maddie who lazily raised a hand from where she was sitting across a chair near the window, scrolling on her phone. "Just staying here waiting on some intel to come through. This place has a better signal than the safe house. Don't mind me."
 
 “Fine.” Inigo trailed off as he heard loud crashes emanating from the kitchen. Whipping around, he saw the hulking form of Drekus rummaging through the fridge, piling food haphazardly on the counter.
 
@@ -1271,7 +1271,7 @@ Inigo dragged a hand down his face in exasperation. "Okay fine, but I'm gonna ne
 
 Before Inigo could continue, the doorbell rang. "Damn, that must be her!" he realized after checking the clock. "She's early!"
 
-Inigo rushed over to the front door and peered through the peephole. Sure enough, Hoge stood outside in the hall. Inigo's pulse quickened. It had only been four days since their magical first kiss at the summer festival, but to Inigo it felt like an eternity.
+Inigo rushed over to the front door and peered through the peephole. Sure enough, Hoge stood outside in the hall, rocking back and forth on her heels. Inigo's pulse quickened. It had only been four days since their magical first kiss at the summer festival, but to Inigo it felt like an eternity.
 
 "It's Hoge! She’ll definitely ask questions if she sees any of you. Everyone hide now!" he yelled.
 
@@ -1287,9 +1287,9 @@ He took a deep breath to steady his nerves before opening the door. The moment h
 
 “Hoge!” Acting on impulse, he threw his arms around her in an enthusiastic hug. Hoge staggered back a step, letting out a surprised giggle as she hugged him back. They held each other tightly, swaying a little. Inigo breathed in the familiar scentlessness of Hoge's hair, realizing how much he had missed her presence. 
 
-After a long minute, Hoge pulled back, her outline wavering and her cheeks endearingly pink. "S-so "Where’d you been?" she asked, meeting his gaze.
+After a long minute, Hoge pulled back, her outline wavering and her cheeks endearingly pink. "S-so where’d you been?" she asked, meeting his gaze.
 
-"Oh, I had some issues I had to deal with." Inigo shrugged. "Some messy family stuff came up, I’ll tell you all about it later. It was rough but I'm much better now that I get to see you." 
+"Oh, I had some issues I had to deal with." Inigo shrugged. "Some messy family stuff came up, I’ll tell you all about it later. It was rough but I'm  better now that I get to see you." 
 
 Inigo heard a plate crash inside his apartment, followed by several hushed whispering from his unwanted houseguests.
 
@@ -1309,7 +1309,7 @@ Hoge gave him a strange look. "Yes, but what was that noise just now?"
 
 “Alright, but just one moment.” Inigo brushed a loose strand of hair from her face, his fingers lingering to caress her cheek. 
 
-Hoge bit her lip. Inigo smiled. “You know I've just been moping around waiting for the chance to see you again.” 
+Hoge bit her lip. Inigo smiled. “You know I've just been moping around waiting for the chance to see you again and do this.” 
 
 Unable to resist, Inigo gently tilted her chin up and kissed her quickly. Hoge let out a tiny squeak of surprise before melting into the kiss, her hands coming to rest against his chest. Inigo's mind went blissfully blank as they shared the tender moment.
 

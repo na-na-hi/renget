@@ -1,9 +1,4 @@
 # /bag/ Newfag guide
-
-Yes, you get the 100 rolls even if you start after the 1st day 
-No, you can't save them for later. 
-You also missed Mika, yes. 
-
 How to play the game for the completely retarded. Not just a reroll guide. Scroll to the bottom for my last edit date.
 
 [TOC] 
@@ -15,6 +10,7 @@ How to play the game for the completely retarded. Not just a reroll guide. Scrol
 - Splurge ur AP. 1 AP = 1 Account XP, so dump it as fast as you can. 
 - Take advantage of the school bonuses and use CC in Bounty 
 - [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 
+- You can pat girls' head. 
 
 
 ## Downloading/Setting up the game

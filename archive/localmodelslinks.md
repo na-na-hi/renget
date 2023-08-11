@@ -122,6 +122,7 @@
 [Anticipation](https://github.com/jthickstun/anticipation)|Controllable music generation models based on anticipatory infilling (MIDI currently)
 [Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)
 [AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|Suite of various audio related foundational models for use with a LLM (use basaran for local) 
+[AudioSep](https://github.com/Audio-AGI/AudioSep)|Foundation model for open-domain sound separation with natural language queries
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
 [TorchGeo](https://github.com/microsoft/torchgeo)|Geosat imagery foundation model and related resources from Microsoft 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 

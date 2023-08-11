@@ -74,8 +74,10 @@ Here you can find all the SFW fics that have been submitted for the contest.
 
 [Meat is Murder](https://rentry.org/t9nz5c) (Mumei, Fauna, /meat/, SFW)
 [The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult-ish)
+[Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, western, comedy)
 
 ###NSFW archive
 Here you can find all the NSFW fics that have been submitted for the contest.
 
 [Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
+[House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (NSFW, Koseki Bijou, Nerissa Ravencroft, Shiori Novella, cunnilingus)
