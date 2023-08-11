@@ -569,7 +569,7 @@ Inigo left the table and walked into the crowd, wondering what awaits him at thi
 ***
 Inigo wandered away from the glittering gala, feeling downcast. He couldn't stop thinking about his injured friends. The lively music and dancing felt a little hollow. Seeking some solitude, Inigo slipped into a quiet part of the museum filled with contemporary art exhibits. As he walked past minimalist paintings and abstract sculptures, he heard the flick of a lighter. Peering around a marble statue, he spotted Maxine standing alone in front of a painting, her dark hair was swept back elegantly and she wore an embroidered black gown.
 
-She flicked her lighter repeatedly, cursing under her breath as it failed to ignite a cigarette in her mouth. She had her phone out, which displayed a news story about the recent Pro Hero fight with the Five. She was upset. Her mascara seemed off. Thinking back, he did see Junichi and Max running together during his fight with Luccione.  Inigo hesitated and made his way back. He pretended to enter the hall for the first time.
+She pursed her lips around her slim vaporizer, blowing out a cloud of smoke. Her phone lit up her face as she scrolled through a news article, marring her perfect makeup with a furrowed brow. She tucked a styled curl behind her diamond earring, dabbing delicately under her eyes to avoid smudging her expertly applied mascara. Thinking back, Inigo did see Junichi and Max running together during the fight. Was she worried about him? Inigo paused, patent leather shoes squeaking on the marble floor. He glanced over his tailored tuxedo shoulder down the empty hall, then turned and shuffled back the way he came. With a deep breath, he pushed through the ornate doors, pretending that he had just arrived as his footsteps echoed.
 
 He whistled. “Oh, man! Gigan, did we go the wrong way? Where are all the paintings of naked chicks? You lied to me, buddy,” he said loudly. Gigan stuck its head out of Inigo’s pocket and facepalmed. He walked slower giving her time to compose herself as he walked behind the statue. “Yo Max! Fancy meeting you here,” He said while walking towards her.
 
@@ -577,17 +577,13 @@ He whistled. “Oh, man! Gigan, did we go the wrong way? Where are all the paint
 
 “I have you know, they have a red carpet in the backdoor for us street rats too.” He smirked and paused to stare at the painting that she was looking at, a sumi-e style painting of two seabirds by the shore. 
 
-“Need a light?” He said, producing a lighter.
-
-“Thanks.” She said, hastily grabbing his lighter and lighting her cigarette. 
-
 “Didn’t know you were into paintings, or is it the birds? This painting feels kinda lonely right?”
 
 “Can you like, not talk if you’re gonna be here?”
 
 “Eh, I could try.” She seemed oddly non-combative. “Hey, are you alright?”
 
-“I’m fine.” She took a long inhale of her cigarette. “Go bother someone else.” She shot him an annoyed haughty look.
+“I’m fine.” She took a long inhale of her vape pen. “Go bother someone else.” She shot him an annoyed haughty look.
 
 “You hear about the pro heroes battle against the Five? Pretty brutal huh? Lots of reported injuries.”
 
@@ -1244,13 +1240,13 @@ Junichi grumbled, "Why do you need to dig that ancient thing up now?"
 
 "Uh huh," Junichi muttered, clearly barely listening as he focused on the game. "Well, leave me out of it."
 
-Inigo rolled his eyes. "I would, except you're always here hanging around my apartment! Speaking of which, why are you still crashing on my couch? Uh, don't you have your own place to recover at?"
+Inigo rolled his eyes. "I would, except you're always here hanging around my apartment! Speaking of which, why are you still crashing on my couch? Don't you have your own place to recover at?"
 
 "Nah, your couch is more comfortable. Oh nice, you unlocked the Terra-mech!" Junichi explained in a monotone, eyes glued to the screen even as he spoke. "Plus your place is closer to the hospital. Now shut up, I'm trying to concentrate."
 
-"Alright, well you can stay as long as you want bro, but what are you doing here?" Inigo asked, turning his head. He looked to Curie on her lying on her stomach casually on the other end of the couch next to Junichi, leafing through a dance magazine.
+"Alright, well you can stay as long as you want bro, but what are **you** doing here?" Inigo asked, turning his head. He looked to Curie on her lying on her stomach casually on the other end of the couch next to Junichi, leafing through a dance magazine.
 
-Curie glanced up with a breezy smile. "I'm here for my dance lessons, silly. Did you forget you promised to teach me? I got bored cooped up in my dreary apartment all alone, so I figured I'd just come hang out here for a while. Hope that's cool." She brushed a strand of silver hair behind her ear and winked. "By the way, I'm loving what you did with your hair today."
+Curie glanced up with a breezy smile. "I'm here for my dance lessons, silly. Did you forget you promised to teach me? I got bored cooped up in my dreary apartment all alone, so I figured I'd just come hang out here with you for a while. Hope that's cool." She brushed a strand of silver hair behind her ear and winked. "By the way, I'm loving what you did with your hair today."
 
 Inigo ran a hand self-consciously through his blond locks. "Oh, thanks. But shouldn't you be at your hospital shift or something?"
 

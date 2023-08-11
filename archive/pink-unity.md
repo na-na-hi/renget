@@ -20,7 +20,7 @@ Some examples include but are not limited to:
 *Chibidoki* (EN): https://www.twitch.tv/chibidoki
 *Suo Sango* (JP): https://www.youtube.com/@SuoSango
 *Himemori Luna* (JP): https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw
-*Mikeneko* (JP): https://www.youtube.com/@ch-qk4ng
+*Mikeneko* (JP): https://www.youtube.com/@mikenekoko
 *Cayena* (EN): https://www.twitch.tv/cayena
 *Amoria* (EN): https://youtube.com/@AmoriaVNU
 *Minato Aqua* (JP): https://www.youtube.com/@MinatoAqua

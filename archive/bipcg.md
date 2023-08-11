@@ -1,7 +1,16 @@
 ▶NEW CLIPS
+>22nd Spetsnaz brigade take out Leopard with ATGM near Rabotino
+https://files.catbox.moe/obclia.mp4
+>Rabotino complilation
+https://files.catbox.moe/g8d2p4.mp4
+>Three hohols defect across Dnieper to surrender near Zavodovka
+https://files.catbox.moe/1kfkll.mp4
 >POV: Tank vs 23 hohols
 https://files.catbox.moe/8jwifl.MP4
+>Hohol Bradley abandons crew of a destroyed Leopard
+https://files.catbox.moe/0bza75.mp4
 >Zaporozhye foreign merc hotel gets kalibrated
+https://files.catbox.moe/nna974.mp4
 https://files.catbox.moe/2rqq4g.mp4
 https://files.catbox.moe/6xsn8y.mp4
 https://files.catbox.moe/73ejs2.mp4

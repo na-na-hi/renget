@@ -109,7 +109,7 @@ Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
 GreAnne | SS | F | SS | SS | No | No
 Misora | A | F | SS | S | No | No
-Croce | ?? | B | S | A | No | No
+Croce | A | B | S | A | No | No
 
 ##->Limited targets<-
 These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
@@ -125,6 +125,7 @@ These units are only available during their specific banners, which are typicall
 ### Arena
 **Swimsuit Saren** - Massive TP restoration to all teammates on 1st skill for instant UBs. Sees use in all game modes, but extremely useful in Arena. Grab her when possible.
 **Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. Not necessary to hit 1st, but a strong unit.
+**New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Saw some usage in CB on release month and has not shown up in a big way for a while. First action magic damage nuke similar to S.Hatsune, very good in Arena defenses and offenses.
 
 ### PvE
 Nothing that is specific to PvE here.

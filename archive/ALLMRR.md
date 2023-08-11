@@ -13,17 +13,20 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 !!! warning The ranking is being updated slowly because we noticed a flaw with our methodology. Our scoring system did allow us to discern good models, from decent models, from bad models. However, with better models coming out one after the other, we've noticed that it doesn't allow us to discern very good models from amazing models. With the release of LLaMA-2 and its finetunes, we've decided that we needed to change the way we score models because these are so good that we wouldn't be able to score them fairly using our current scoring system. So while our methodology is being reworked, our current 7B, 13B model, and LoRA recommendations are:
 
 	- 7B:
-	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- for chatting
-	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- for RP
-	-13B:
+	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
+	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
+	- 13B:
 	[WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
-	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting
-	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP
+	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
+	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.
 	[Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
+	[MythoMax-L2-13B-GPTQ](https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ) <- Amazing SFW but struggles with NSFW, goes great with the Kimiko lora.
+	[Spring-Dragon-GPTQ](https://huggingface.co/TheBloke/Spring-Dragon-GPTQ) <- Special model, made for adventure style roleplay (AI Dungeon).
 	- LoRAs:
-	[Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B)
-	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2)
-	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA)
+	[Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B) <- More verbose, easier to do NSFW.
+	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2) <- More verbose, easier to do NSFW.
+	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
+	[spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
 	
 	
 ***

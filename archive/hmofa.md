@@ -1,6 +1,6 @@
 #**/HMoFA/ Masterbin**
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) <-
--> Last updated at #2501 ( Wed 05/03/23 13:31:16 ETC ) <-
+-> Last updated at #2633 ( Fri 08/11/23 11:16:08 ETC ) <-
 
 == **LINKS**
 - [Masterbin](https://rentry.org/hmofa)
@@ -68,6 +68,9 @@ https://rentry.org/dm94o
 `A New Life`
 https://git.io/J3pWR
 
+`A Night to Remember`
+https://rentry.org/hivn3
+
 `A Night with Sharkgirls.`
 https://git.io/Js8yA
 
@@ -83,8 +86,14 @@ https://rentry.org/AnonAndTheDodo
 `Anon Boops a Snoot and Fucking Dies`
 https://rentry.co/dpe3n
 
+`Anon Does the Doe`
+https://rentry.org/anondoesthedoe
+
 `Anon Meets a Stoner Trashlord`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-MU0rx
+
+`Anon's Friendship With a Gym Lioness`
+https://rentry.org/4x664
 
 `Apprentice and Mistress`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-Dfe1H
@@ -176,6 +185,9 @@ https://git.io/JZ9X3
 `Insectoid In the Stars`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-ZsiQj
 
+`Into the Unknown` (/HMOFA/ S.T.A.L.K.E.R/EFT Story)
+https://rentry.org/rmizo
+
 `Ironic Snekposting Is Still Snekposting`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-bPge4 (part 1)
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-JAfHn (part 2)
@@ -240,8 +252,14 @@ https://hardbin.com/ipfs/QmXzF5aDS5ygHmBGzZKzSmaATi5h6u8DtPRMrnAiJT95Yy/#8R33q51
 `Sheriff Anon and the Pangolin Outlaw`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-j5qJY
 
+`Smexy Time With a Lioness`
+https://rentry.org/Smexytimewithalioness
+
 `Space Lizard` (Working title)
 https://git.io/Js8SZ
+
+`Sticky Fingers`
+https://rentry.org/ur9gz
 
 `Stuck`
 https://git.io/Js8Ss
@@ -257,9 +275,6 @@ https://hardbin.com/ipfs/QmVFeJ7Zj7AtHALiKbxP2NdKx3jKpVS6qqp7YpcL6ck5hi/#ASg1LDJ
 
 `The Forest Gypsy`
 https://git.io/Js8yN
-
-`The Kash'gons Chronicles`
-https://rentry.org/oebpx
 
 `The Knight and the Rabbits`
 https://git.io/Js8Sh
@@ -414,9 +429,12 @@ https://www.sofurry.com/view/1914957 (ch.2)
 https://www.sofurry.com/view/1662041
 
 `HMOFA Weekly Newsletter`
-https://files.catbox.moe/hyqeal.pdf (Nov. 12)
-https://files.catbox.moe/6hnlxo.pdf (Nov. 19)
-https://files.catbox.moe/c0ixz4.pdf
+https://www.sofurry.com/view/2034359 (archive)
+https://files.catbox.moe/hyqeal.pdf (Nov. 12, issue 1)
+https://files.catbox.moe/6hnlxo.pdf (Nov. 19, issue 2)
+https://files.catbox.moe/c0ixz4.pdf (issue 3)
+https://files.catbox.moe/kck2v1.pdf (issue 4, part 1)
+https://files.catbox.moe/u8u789.pdf (issue 4, part 2)
 
 `I WILL SAVE YOU!`
 https://www.sofurry.com/view/1663017
@@ -612,14 +630,25 @@ https://git.io/J3MEV
 `Ain't Nice`
 https://archiveofourown.org/works/36513490
 
-`Broken`
-https://archiveofourown.org/works/36859939
-
 `Half-Windsor`
 https://archiveofourown.org/works/36215563
 
-`Risk Assessment`
+-> **=== Broken ===** <-
+`Broken`
+https://archiveofourown.org/works/36859939
+
+`Kintsugi`
+https://archiveofourown.org/works/47141308
+
+-> **=== Risk ===** <-
+`Assignment Risk`
 https://archiveofourown.org/works/32093365
+
+`Risk Assessment`
+https://archiveofourown.org/works/36084505
+
+`Risk Compensation`
+https://archiveofourown.org/works/46265299
 
 ‌
 
@@ -874,6 +903,17 @@ https://git.io/J3MB1
 
 `Yeen Green`
 https://archiveofourown.org/works/38442268
+
+‌
+
+---
+
+---
+#####Anonymer_Beobachter
+
+`Untitled Green That Got Out of Hand`
+https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/rentry-ktymx
+https://rentry.org/ktymx
 
 ‌
 
@@ -1215,10 +1255,14 @@ https://git.io/J39yv
 ---
 #####BoxCrate
 
-`Electroluxe!`
+`Electrgluxe!`
 https://www.sofurry.com/view/1967472 (ch. 1)
 https://www.sofurry.com/view/1975115 (ch. 2)
 https://www.sofurry.com/view/1980068 (ch. 3)
+https://www.sofurry.com/view/1986146 (ch. 4)
+https://www.sofurry.com/view/1998163 (ch. 5)
+https://www.sofurry.com/view/2013295 (ch. 6)
+https://www.sofurry.com/view/2029010 (ch. 7)
 
 `Instinct`
 https://www.sofurry.com/view/1804861 (ch. 1)
@@ -1433,6 +1477,24 @@ https://archiveofourown.org/works/28154172
 `Cataclysm Over the Forest Moon`
 https://archiveofourown.org/works/29122629
 
+`Deer to my Heart`
+https://archiveofourown.org/works/35634802
+https://www.sofurry.com/view/1795088 (ch. 1)
+https://www.sofurry.com/view/1795093 (ch. 2)
+https://www.sofurry.com/view/1795095 (ch. 3)
+https://www.sofurry.com/view/1795098 (ch. 4)
+https://www.sofurry.com/view/1806301 (ch. 5)
+https://www.sofurry.com/view/1806309 (ch. 6)
+https://www.sofurry.com/view/1841227 (ch. 7)
+https://www.sofurry.com/view/1841229 (ch. 8)
+https://www.sofurry.com/view/1884928 (ch. 9)
+https://www.sofurry.com/view/1884929 (ch. 10)
+https://www.sofurry.com/view/2001789 (ch. 11)
+https://www.sofurry.com/view/2001797 (ch. 12)
+https://www.sofurry.com/view/2001801 (ch. 13)
+https://www.sofurry.com/view/2001803 (ch. 14)
+https://www.sofurry.com/view/2001806 (epilogue)
+
 `Grabbing It By the Horns`
 https://archiveofourown.org/works/30587507
 https://www.sofurry.com/view/1705044
@@ -1461,19 +1523,6 @@ https://www.sofurry.com/view/1687414 (ch. 12)
 https://www.sofurry.com/view/1702758 (ch. 13)
 https://www.sofurry.com/view/1702766 (ch. 14)
 https://www.sofurry.com/view/1724908 (ch. 15)
-
-`​​Deer to my Heart`
-https://archiveofourown.org/works/35634802
-https://www.sofurry.com/view/1795088 (ch. 1)
-https://www.sofurry.com/view/1795093 (ch. 2)
-https://www.sofurry.com/view/1795095 (ch. 3)
-https://www.sofurry.com/view/1795098 (ch. 4)
-https://www.sofurry.com/view/1806301 (ch. 5)
-https://www.sofurry.com/view/1806309 (ch. 6)
-https://www.sofurry.com/view/1841227 (ch. 7)
-https://www.sofurry.com/view/1841229 (ch. 8)
-https://www.sofurry.com/view/1884928 (ch. 9)
-https://www.sofurry.com/view/1884929 (ch. 10)
 
 ‌
 
@@ -2055,6 +2104,10 @@ https://archiveofourown.org/works/32878354
 ---
 #####DesperateWinter
 
+`A Game of Skill`
+https://archiveofourown.org/works/48034120
+https://www.sofurry.com/view/2005872
+
 `A Spare in the Trunk`
 https://archiveofourown.org/works/43485082
 https://www.sofurry.com/view/1787029 (ch. 1)
@@ -2070,6 +2123,8 @@ https://www.sofurry.com/view/1930004 (ch. 10)
 https://www.sofurry.com/view/1947027 (ch. 11)
 https://www.sofurry.com/view/1964602 (ch. 12)
 https://www.sofurry.com/view/1978754 (ch. 13)
+https://www.sofurry.com/view/1982840 (ch. 14)
+https://www.sofurry.com/view/1997732 (ch. 15)
 
 ‌
 
@@ -2278,7 +2333,10 @@ https://archiveofourown.org/works/36949432
 ---
 
 ---
-#####Driss
+#####Driss (Driss1)
+
+`Pencroft's Plight With Piracy`
+https://archiveofourown.org/works/47010958
 
 `The Birds, the Snake, and the Hermit`
 https://archiveofourown.org/works/43434915
@@ -2650,11 +2708,13 @@ https://git.io/J39yu
 ---
 
 ---
-#####Gold_Eagle
+#####Gold_Eagle (Gold_Eagle_RSR)
+
+`Chains and Chances`
+https://archiveofourown.org/works/46436269
 
 `Tertia Optio`
-https://archiveofourown.org/works/30716630
-https://archiveofourown.org/works/42596151 ()(reupload)
+https://archiveofourown.org/works/46038256
 
 ‌
 
@@ -2916,6 +2976,11 @@ https://archiveofourown.org/works/40176663
 https://www.sofurry.com/view/1872348 (ch. 1)
 https://www.sofurry.com/view/1910015 (ch. 2)
 
+`Emotional Support Human`
+https://archiveofourown.org/works/47832940
+https://www.sofurry.com/view/2001280 (ch. 1)
+https://www.sofurry.com/view/2002323 (ch. 2)
+
 `Love is a Feline`
 https://archiveofourown.org/works/43260876
 https://www.sofurry.com/view/1925427 (part 1)
@@ -2927,12 +2992,16 @@ https://www.sofurry.com/view/1912457 (ch. 1)
 https://www.sofurry.com/view/1915214 (ch. 2)
 https://www.sofurry.com/view/1918354 (ch. 3)
 https://www.sofurry.com/view/1927444 (ch. 4)
-https://www.sofurry.com/view/1952744 (ch .5)
-https://www.sofurry.com/view/1958224 (ch .6)
-https://www.sofurry.com/view/1962035 (ch .7)
-https://www.sofurry.com/view/1968264 (ch .8)
-https://www.sofurry.com/view/1972184 (ch .9)
-https://www.sofurry.com/view/1980584 (ch .10)
+https://www.sofurry.com/view/1952744 (ch. 5)
+https://www.sofurry.com/view/1958224 (ch. 6)
+https://www.sofurry.com/view/1962035 (ch. 7)
+https://www.sofurry.com/view/1968264 (ch. 8)
+https://www.sofurry.com/view/1972184 (ch. 9)
+https://www.sofurry.com/view/1980584 (ch. 10)
+https://www.sofurry.com/view/1985395 (ch. 11)
+https://www.sofurry.com/view/1999701 (ch. 12)
+https://www.sofurry.com/view/2023995 (ch. 13)
+https://www.sofurry.com/view/2033802 (ch. 14)
 
 `Paula Wolf`
 https://archiveofourown.org/works/34203898
@@ -2942,6 +3011,14 @@ https://www.sofurry.com/view/1864631 (part 3)
 
 `Sonnie's Dulling`
 https://archiveofourown.org/works/46803106
+
+-> **=== Tales from the /Trash/bin ===** <-
+`Detective Anon`
+https://archiveofourown.org/works/47953339/chapters/121251031
+
+`I Just Want Some Sleep!`
+https://archiveofourown.org/works/47953339/chapters/120905014
+https://www.sofurry.com/view/2003861
 
 ‌
 
@@ -3052,6 +3129,16 @@ https://archiveofourown.org/works/35026540
 
 `Susie: The Abs-olutely Stronk Dragon`
 https://archiveofourown.org/works/34590136
+
+‌
+
+---
+
+---
+#####IntergalacticFlyingToaster
+
+`Chronicles of the Resistance`
+https://archiveofourown.org/works/33250798
 
 ‌
 
@@ -3410,6 +3497,8 @@ https://www.sofurry.com/view/1977490 (ch. 7)
 https://www.sofurry.com/view/1977493 (ch. 8)
 https://www.sofurry.com/view/1978015 (ch. 9)
 https://www.sofurry.com/view/1978016 (ch. 10)
+https://www.sofurry.com/view/2001373 (ch. 11)
+https://www.sofurry.com/view/2029254 (ch. 12)
 
 `Deathroll in Dade`
 https://archiveofourown.org/works/24306580?view_adult=true
@@ -3485,6 +3574,9 @@ https://www.sofurry.com/view/1914990 (ch. 48)
 https://www.sofurry.com/view/1947341 (ch. 49)
 https://www.sofurry.com/view/1947342 (ch. 50)
 https://www.sofurry.com/view/1965993 (ch. 51)
+https://www.sofurry.com/view/1983752 (ch. 52)
+https://www.sofurry.com/view/2026366 (ch. 53)
+https://www.sofurry.com/view/2034076 (ch. 54)
 
 `Mountains aren’t so Bad` (Mountain goat or something)
 https://git.io/JZ9XS
@@ -3554,19 +3646,6 @@ https://git.io/Js8yc
 
 `Thirsty for Love`
 https://git.io/Js8yC
-
-‌
-
----
-
----
-#####KilledKella
-
-`Coronation Day`
-https://git.io/JZ96V
-
-`The Heartless Ranger`
-https://git.io/J3pCs
 
 ‌
 
@@ -3700,24 +3779,40 @@ https://archiveofourown.org/works/46156069
 `Beeg Problems`
 https://archiveofourown.org/works/43793265
 
+`Emerald on the River`
+https://archiveofourown.org/works/47406985
+
 `Jagwife and BoatAnon's Beeg Beech Vaycay`
 https://archiveofourown.org/works/46309102
-
-`Negligent Discharge`
-https://archiveofourown.org/works/40953000
-https://archiveofourown.org/works/44719186 (Love Gun)(takes place after intro)
 
 `Onyx in the Dunes`
 https://archiveofourown.org/works/46808233/chapters/117900304
 
 `Spider Slayer`
-https://archiveofourown.org/works/46776454
+https://archiveofourown.org/works/46776454-w
+
+`Stars and Stripes:`
+https://archiveofourown.org/works/48351448
 
 `The She-Wolf That Followed Me Home`
 https://archiveofourown.org/works/45972355
 
+`Tiger Appreciation Day`
+https://archiveofourown.org/works/48968923
+
 `Untitled College Story`
 https://archiveofourown.org/works/42973101
+
+-> **=== Negligent Discharge ===** <-
+`Negligent Discharge`
+https://archiveofourown.org/works/40953000
+https://archiveofourown.org/works/44719186 (Love Gun)(takes place after intro)
+
+`Negligent Discharge` (Rebecca Path)
+https://archiveofourown.org/works/40973790 (Rebecca Path)
+
+`Negligent Discharge: Rebecca Normal Path `
+https://archiveofourown.org/works/48739096
 
 ‌
 
@@ -4011,6 +4106,9 @@ https://www.sofurry.com/view/1964372 (ch. 2)
 https://www.sofurry.com/view/1967052 (ch. 3)
 https://www.sofurry.com/view/1974645 (ch. 4)
 https://www.sofurry.com/view/1982336 (ch. 5)
+https://www.sofurry.com/view/2000747 (ch. 6)
+https://www.sofurry.com/view/2021319 (ch. 7)
+https://www.sofurry.com/view/2034393 (ch. 8)
 
 -> **=== Candace being Candace ===** <-
 `Cages`
@@ -4212,6 +4310,16 @@ https://www.sofurry.com/view/1788643 (part 14)
 
 `What Happens at Spacial Combat Training...`
 https://www.sofurry.com/view/1666900
+
+‌
+
+---
+
+---
+#####Mountlear
+
+`Bedside Manner`
+https://archiveofourown.org/works/48487228
 
 ‌
 
@@ -4624,15 +4732,32 @@ https://www.sofurry.com/view/1797945
 https://www.sofurry.com/view/1915890
 https://archiveofourown.org/works/42856260
 
+`Natural Twenty`
+https://archiveofourown.org/works/42672645/chapters/118648129
+https://www.sofurry.com/view/2027498
+
+`Orange Mocha Frappuccino!`
+https://archiveofourown.org/works/42672645/chapters/120197230
+
+`So Many Miles Away`
+https://archiveofourown.org/works/48823594/chapters/123163903
+https://www.sofurry.com/view/2028352
+
 `Spare Parts and Analog Hearts`
 https://archiveofourown.org/works/38115391
 https://www.sofurry.com/view/1837651
+
+`Summoning a Little Mischief`
+https://archiveofourown.org/works/49118134
 
 `Triplet Caution 2: Holiday Humbling`
 https://archiveofourown.org/works/43836307
 https://www.sofurry.com/view/1936557
 
 -> **=== Garden of Greens ===** <-
+`Disturbance in the Neighborhood`
+https://www.sofurry.com/view/2030356
+
 `Garden of Greens`
 https://www.sofurry.com/view/1912563
 https://archiveofourown.org/works/42672645
@@ -5125,6 +5250,9 @@ https://www.sofurry.com/view/1662829
 https://git.io/JZ9Kg
 https://www.sofurry.com/view/1662833
 
+`Furry Knight Heat!`
+https://www.sofurry.com/view/2014490
+
 `Magna Opus`
 https://git.io/JZ966
 https://www.sofurry.com/view/1662836
@@ -5238,6 +5366,9 @@ https://www.sofurry.com/view/1962356
 https://archiveofourown.org/works/31512731
 https://git.io/J3hRz
 https://www.sofurry.com/view/1697631
+
+`RBHOS: Baking`
+https://archiveofourown.org/works/47970421
 
 ‌
 
@@ -5731,8 +5862,14 @@ https://git.io/J3MEb
 ---
 #####spicyhazard
 
-`Love Can Be Confusing `
+`Kitsune Konsultation`
+https://archiveofourown.org/works/49104808
+
+`Love Can Be Confusing`
 https://archiveofourown.org/works/46530355
+
+`The Snerd`
+https://archiveofourown.org/works/46939222
 
 ‌
 
@@ -6182,6 +6319,9 @@ https://git.io/J39DE
 `Scarred`
 https://git.io/J39Du
 
+`Unlikely Meetings`
+https://archiveofourown.org/works/46924471
+
 -> **=== FCP ===** <-
 `Coiled at First Sight`
 https://archiveofourown.org/works/45637864/chapters/114839641
@@ -6294,6 +6434,16 @@ https://git.io/J3M4b
 ---
 
 ---
+#####TheAxolotl
+
+`Unlikely Harmony`
+https://archiveofourown.org/works/47709172
+
+‌
+
+---
+
+---
 #####TheShotgunScout
 
 `BE PREPARED`
@@ -6305,6 +6455,9 @@ https://git.io/J3jtj
 
 ---
 #####TheSignalRemains
+
+`Blood in the Dark`
+https://archiveofourown.org/works/47282515
 
 `Wilderness Hearts`
 https://archiveofourown.org/works/36365845
@@ -6732,6 +6885,16 @@ https://git.io/J3pCs
 ---
 
 ---
+#####Whovian4110 and Akella
+
+`The Heartless Ranger`
+https://git.io/J3pCs
+
+‌
+
+---
+
+---
 #####widequest7268
 
 `Foundations of Family`
@@ -6813,6 +6976,19 @@ https://git.io/J3jte
 ---
 
 ---
+#####Wizdoggo
+
+`Communist Canine Chronicles: Katyusha's House of Red`
+https://rentry.org/zv83z
+
+`The Kash'gons Chronicles`
+https://rentry.org/oebpx
+
+‌
+
+---
+
+---
 #####WritefriendSnippet
 
 `Courtship the Human Way`
@@ -6863,16 +7039,6 @@ https://archiveofourown.org/works/31197068
 
 `Toons in Tinseltown`
 https://archiveofourown.org/works/39369480
-
-‌
-
----
-
----
-#####YFHA
-
-`The HEL Jumper`
-https://git.io/J3pCf
 
 ‌
 

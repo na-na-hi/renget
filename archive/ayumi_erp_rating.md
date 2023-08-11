@@ -19,6 +19,8 @@ The **ERP Score** is similar to the old ERP Score, but the prompt for that bench
 
 !!! info **Please also have a look at this LLM role play ranking:**
     - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
+    - [New Model RP Comparison/Test (7 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15ogc60/new_model_rp_comparisontest_7_models_tested/)
+    - [Big Model Comparison/Test (13 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15lihmq/big_model_comparisontest_13_models_tested/)
 
 Date: 2023-08-11 V15 of \*NEW\* LLM ALC-IQ ERP Ranking (**Beta**)
 [See **Ranking Changelog** to see which GGML Models were added](https://rentry.co/ayumi_erp_rating#ranking-changelog)
@@ -418,6 +420,9 @@ If you have better ideas how to rate or rank models for suitability in a role pl
 
 Alternative benchmarks or rankings:
 - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
+- [New Model RP Comparison/Test (7 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15ogc60/new_model_rp_comparisontest_7_models_tested/)
+- [Big Model Comparison/Test (13 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15lihmq/big_model_comparisontest_13_models_tested/)
+
 
 **If you want to base your work on this, feel free to cite this as:**
 

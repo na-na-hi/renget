@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 317 - Broodmother Edition: https://desuarchive.org/trash/thread/58715372/
 Thread 316 - Bimbo Effect Edition: https://desuarchive.org/trash/thread/58616066/
 Thread 315 - Eeveelutions Edition: https://desuarchive.org/trash/thread/58539865/
 Thread 314 - Jen 10 Edition: https://desuarchive.org/trash/thread/58187647/
