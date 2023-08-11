@@ -9,6 +9,39 @@ Translation by Asiram Honkai
 
 [TOC]
 
+#####v3
+
+**SIRIN**
+- Charged ATK: Consume 600 energy to deal 1200% > 1000% ATK Fire DMG
+- [SSS] When Charged ATK hits a target, if the target is ignited, deal additional 300% > 500% ATK of Fire DMG. Charged ATK gain Total DMG +20% > 45% against ignited enemies.
+- Charged ATK subskill 3: Max skill level upgrade changed from 7 upgrades to 11 upgrades. At level 7 upgrade, skill value is changed from 45% to 35%
+(Upon entering the field, when you cast [Judgement] or [Split], gain Fire DMG +xx%)
+- Ult: Deal 1500%>1600% ATK Fire DMG
+
+**CHAKRAM PRI**
+- When casting [Split], summon four additional needles, dealing Ignite DMG equal to **200% > 170%** ATK x target's ignite stacks, min 1 stack, max 5 stacks (CD: 15s).
+
+**G4 FIRE GOOD TIMES STIGMA**
+- TOP:
+V2: Host HP +1000
+V3: Team HP +1000 (cannot stack), this bonus is not affected by percentage hp increase bonus.
+- 2 SET: Against Ignited enemies, you take 30% > 12% less DMG. Host's Ignite DMG +30% > 20%
+
+**SUPERSTRING DIMENSION**
+- Type Andrius: Reduced interrupt power
+- Ignite Herrscher of the Void: Reduced HP
+- Ignite Herrscher of Ice: Reduced HP
+
+**MEMORIAL ARENA**
+- SSS Argent Knight: Adjusted mechanic and stats
+
+**ELYSIAN REALM**
+- Adjusted Sirin signets
+- Adjusted bonus signets:
+- Gold and Helix + 2 > Stars and Helix +2
+- Bodhi and ??? + 2 > Bodhi and Setsuna + 2
+
+
 #####v2b
 
 **SIRIN**

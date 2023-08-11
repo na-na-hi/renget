@@ -549,6 +549,7 @@ Smug Nene: https://desuarchive.org/tg/thread/89708552/#89717661
 Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
 Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#89763266
 Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
+Sandy and Mio casualwear: https://desuarchive.org/tg/thread/89851223/#89859158
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -808,6 +809,9 @@ Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru)): https:
 Sandatsu is a Receiver: https://rentry.org/dfkw5
 Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)): https://rentry.org/wzi4x
 Crush...2 (Hivemind, Mirror Devil (mentioned)): https://rentry.org/6rwmw
+Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Yamata, Overdose, a bunch of cameos): https://rentry.org/rzimh
+Moving up in the World: https://rentry.org/esiz3
+There is nothing to be afraid of (Faith Kang): https://rentry.org/8qvb4
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

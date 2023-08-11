@@ -66,7 +66,7 @@
 |---|---|---|
 |31/07/2023|[Link](https://www.youtube.com/watch?v=hy6HD6t8XhE)| **Collab** - First ever HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
 |04/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=9YsuHwyYGes)| **Collab** - Second HoloAdvent Group collab on Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=KgpiuAin1XM))|
-|11/08/2023|Placeholder - Earth Defense Force 6| **Collab** - Third HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
+|11/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=VRdVncNa0FE)| **Collab** - Third HoloAdvent Group collab (with [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=DC8VQsff7sA))|
 
 #####Hololive EN's Channel
 |Date|Link|Nature & Notes|

@@ -95,6 +95,7 @@ Image| Name
 ![idk](https://files.catbox.moe/lgc4hx.jpg) | whatever the fuck this is
 
 ###khajiit corner
+![](https://files.catbox.moe/gc8u1s.jpg)
 ![](https://files.catbox.moe/2zjwjs.jpg)
 ![](https://files.catbox.moe/ap3fng.jpg)
 

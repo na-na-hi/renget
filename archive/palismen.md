@@ -1,3 +1,1 @@
--> [![an old computer showing various blue screens](https://media.discordapp.net/attachments/1007182318496133151/1033090888542453820/IMG_4269.gif)](https://rentry.co/sillyboard) <-
-
--> click here <-
+-> [![purple butterfly pixel](https://media.discordapp.net/attachments/1088293002113470475/1138841894110109756/image0.gif)](hmph) <-

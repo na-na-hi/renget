@@ -1,3 +1,1 @@
--> [![an old computer showing various blue screens](https://media.discordapp.net/attachments/1007182318496133151/1033090888542453820/IMG_4269.gif)](https://rentry.co/sillyboard) <-
-
--> click here <-
+-> [![jellyfish pixel](https://64.media.tumblr.com/3e54b87f05c9a62ee34b95354d705b77/fc195eab02d4bd0d-c9/s75x75_c1/f12e6772807492f046fe887ba1ecbcd845327af8.gifv)](/weepingsea) <-

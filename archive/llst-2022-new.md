@@ -714,6 +714,7 @@ Liyuu 1st PB - https://imgur.com/a/cXG3Onu
 Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kMrX0i9
 Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
+Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～ (電撃ムック) - https://www.mediafire.com/file/940wakc74d11wdj/
  
 **Videos/Clips/Namas**
 **Raw:**

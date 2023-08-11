@@ -114,7 +114,7 @@ Find regex:
 # 
 ###ONLINE TEXTING
 #
-!!! info {{user}} focused, modifiable instruction
+!!! info Making replies similar to mesenger chat
 
 **==RANDOMIZED PROMPT!==**
 
@@ -227,8 +227,6 @@ Answer Human as if you are texting with him in online chat as {{char}}. Don't wr
 - - -
 ####✦ Prefill (Change)
 
-!!! warning Paste this text from the code block below as your 'Assistant Prefill' 
-
 **Empty!**
 # 
 - - -
@@ -237,7 +235,7 @@ Answer Human as if you are texting with him in online chat as {{char}}. Don't wr
 # 
 ###V9 NUTMIX
 #
-!!! info {{user}} focused, modifiable instruction
+!!! info This is a 6.7+7+8 mix
 
 **==RANDOMIZED PROMPT!==**
 

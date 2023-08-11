@@ -1,4 +1,22 @@
 ▶NEW CLIPS
+>POV: Tank vs 23 hohols
+https://files.catbox.moe/8jwifl.MP4
+>Zaporozhye foreign merc hotel gets kalibrated
+https://files.catbox.moe/2rqq4g.mp4
+https://files.catbox.moe/6xsn8y.mp4
+https://files.catbox.moe/73ejs2.mp4
+>POV Mykola and Taras escaping from burning Bradley (not comfy)
+https://files.catbox.moe/k8iotb.mp4
+>Ukrainian Navy launches new flagship USS Mykola
+https://files.catbox.moe/6szxr7.mp4
+>24.02.2022
+https://files.catbox.moe/03unr2.MP4
+>2022 CRIMEAN BRIDGE ATTACK - RUSSIAN RESPONSE
+https://files.catbox.moe/ms1qty.MP4
+>DID YOU MISS US?
+https://files.catbox.moe/faw0se.MP4
+>SUMMER ZOVCATION IN UKRAINE
+https://files.catbox.moe/y7weny.MP4
 >Hohols hiding amongst dead bodies (not comfy) (translated)
 https://files.catbox.moe/o1i9n5.Mp4
 >Hohol Starokonstantinov Air Base in Khmelnitsky
