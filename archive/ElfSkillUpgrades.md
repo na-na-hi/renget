@@ -442,9 +442,9 @@ Skill | Text
 
 ## Elf Comparisons by Reinbex
 Reinbex has already authored some wonderful guides about the ELFs, so I have no real reason to offer my own opinions about what to get or upgrade first. Check them out!
+<https://www.hoyolab.com/article/20585658>
 <https://www.hoyolab.com/article/16340241>
 <https://www.hoyolab.com/article/8827179>
-<https://www.hoyolab.com/article/3509277>
+![Reinbex Physial](https://upload-os-bbs.hoyolab.com/upload/2023/08/07/6504700/e041c8a7c39afbc52745224f6b8205f2_3423044453300359523.png)
 ![Reinbex Fire+Lightning](https://upload-os-bbs.hoyolab.com/upload/2023/02/18/6504700/3bcff14b150c4b911a7bdc829b3d6acb_3178290141371280120.png)
 ![Reinbex Ice](https://upload-os-bbs.hoyolab.com/upload/2022/09/13/6504700/9f0bced49bda7e58e18470d50263534b_1195645684517845747.png)
-![Reinbex Physial](https://upload-os-bbs.hoyolab.com/upload/2022/02/24/6504700/1286e21b6891c5a7d139833743bb8bc4_5525924243478650130.png)

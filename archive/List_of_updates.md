@@ -57,3 +57,4 @@
 |10/08/2023|43|Mentions & Collabs|Addition of a timestamp for what could be an implied mention during Fauna's 'WHAT! YOU WANT "THOSE GAMES" RIGHT?' stream|
 |11/08/2023|44|Mentions & Collabs|Addition of a 5 timestamps and a picture of the entire timeline for the major streamer-chat interactions done during Kiara's Minecraft HoloID Cup Practicing stream|
 |11/08/2023|45|Mentions & Collabs|Addition of the HoloTalk with Advent podcast stream with Kiara.|
+|12/08/2023|46|Mentions & Collabs|Addition of 6 timestamps with mentions from Kaela's Minecraft stream.|

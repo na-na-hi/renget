@@ -74,7 +74,7 @@
 |---|---|---|
 |31/07/2023|[Link](https://www.youtube.com/watch?v=oC4WJdkWfO0)| **Watchalong** - Watchalong of Nerissa's debut with A-Chan and Mori|
 
-####JP
+###JP
 ######Marine
 |Date|Link|Nature & Notes|
 |---|---|---|
@@ -86,11 +86,16 @@
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
 |01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment and start of the 'no pants nee-san' angle during the AsaKoyo podcast|
 
-####ID
+###ID
 
 ######Ollie
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|https://twitter.com/i/spaces/1MnGnpMEqXMxO - [Segment](https://files.catbox.moe/n01b0g.mp3) | **Mention** - First impressions during a twitterspace.|
 
-####Megacollabs
+######Kaela
+|Date|Link|Nature & Notes|
+|---|---|---|
+|12/08/2023|[Timestamp #1](https://youtu.be/DMABvQgtXuE?t=1338) [Timestamp #2](https://youtu.be/DMABvQgtXuE?t=1480) [Timestamp #3](https://youtu.be/DMABvQgtXuE?t=1576) [Timestamp #4](https://www.youtube.com/watch?v=DMABvQgtXuE&t=1795) [Timestamp #5](https://youtu.be/DMABvQgtXuE?t=2400) [Timestamp #6](https://www.youtube.com/watch?v=DMABvQgtXuE&t=2692)|**Mentions** - During a Minecraft stream, Kaela mentions that Nerissa send her DMs for playing League of Legends with her and the group comprised of Fauna & Kobo. Some of the timestamps are also related to Kaela wanting a new Minecraft friend. That new Minecraft friend being Nerissa.|
+
+###Megacollabs

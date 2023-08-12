@@ -31,6 +31,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Silvya](https://files.catbox.moe/rb5gtq.png)|
 [Smile](https://rentry.org/HelpanonSmile) | Misc |[ULTIMATE ARMOR GENERATOR [UAG]](https://files.catbox.moe/gel915.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yara and Amellie](https://files.catbox.moe/fje5hg.png)|
+[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
@@ -38,7 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||

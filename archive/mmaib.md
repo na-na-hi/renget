@@ -280,8 +280,53 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 
 **Lamy**
 
--Hailing from Argennian nobility, Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+-Hailing from Argenian nobility, Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
 >Home: Diarnuit
 
 **Botan**
--After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan
+-After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan can be described as nigh unflappable in every situation. Her combat skills are peerless, combining masterful archery with her innate ability to turn into a majestic and fierce white lion like the rest of the Shishiro bloodline. At court, she is always credited with being the most level-headed among the royal council when they convene to discuss Savanese affairs. In this looming war, her weak side may finally be revealed to many and her more beastly side unleashed, as the safety and wellbeing of her people grow ever more threatened.
+>Home: Savan
+
+**(!)Mio**
+-The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with Tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and defends her with elder magic learned alongside her divining magics.
+>Home: Savan
+>(!)How to acquire: Defeat the chapter boss before the turn limit.
+
+#### Chapter 8
+
+**Calliope**
+-The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hardwork make her an inspiration as well as the target of a few jealous whispers. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as Rex Mortis as he ever nears his impending retirement
+>Home: Nero Eterna
+
+ 
+**Gura**
+-Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few carryovers from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
+>Home: Cita Azul
+
+**Suisei**
+-Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Another indicator of her alleged heritage is her axe. She and her axe have cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+>Home: Polaria
+
+#### Chapter 9
+
+**(!)Kronii**
+
+#### Chapter 10
+
+**Haato**
+**(!)Ollie**
+
+#### Chapter 11
+
+**Choco**
+**Kanata**
+**Towa**
+**Amelia**
+**Polka**
+
+#### Chapter 12
+
+**Jenma**
+**Oga**
+**Astel**
+**Luna**

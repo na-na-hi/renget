@@ -34,7 +34,7 @@ https://mega.nz/folder/vxkRQbJJ#hLCWjupwYoaPxeWDpShq2A
 - Maria, Emilia, Kim
 https://mega.nz/folder/BmpxBYpL#1TVy5v8BJOABm9qkiO0Y3Q
 - Crysta
-https://mega.nz/folder/Fjpn3awS#dYenm0fD8SEZQL-l3_dYuQ
+https://mega.nz/folder/xrxRiIrA#dYenm0fD8SEZQL-l3_dYuQ
 - Maddie Kim (Pantheon)
 https://files.catbox.moe/evj8gm.7z
 - Maddie Fenton
@@ -644,14 +644,17 @@ https://civitai.com/models/124245/diane-simmons-family-guy
 https://civitai.com/models/74513/donna-tubbs-the-cleveland-show
 - Tina Belcher (Bob's Burgers)
 https://civitai.com/models/75798/tina-belcher-bobs-burgers
-- Scooby Doo
+- Scooby-Doo
 	+ Velma (Modern and old)
 https://civitai.com/models/80251/velma-dinkley-scooby-doo-mystery-incorporated-2010
 https://civitai.com/models/7129/old-school-velma
 	+ Daphne (Modern)
 https://civitai.com/models/54925/daphne-blake-scooby-doo-2010
-	- Phantasma (Scooby-Doo and the Ghoul School)
+Scooby-Doo and the Ghoul School
+	+ Phantasma 
 https://civitai.com/models/122738/phantasma-scooby-doo-and-the-ghoul-school
+	- Sibella
+https://civitai.com/models/123232/sibella-scooby-doo-and-the-ghoul-school
 - The Flintstones
 	+ Betty Rubble
 https://civitai.com/models/76851/betty-rubble-the-flintstones
@@ -769,9 +772,11 @@ https://civitai.com/models/92144/rapunzel-disney-wrise
 - Miraculous: Tales of Ladybug & Cat Noir
 	+ Marinette Dupain-Cheng
 https://civitai.com/models/63659/marinette-dupain-cheng-ladybug
-https://civitai.com/models/54164/miraculous-ladybug
+https://civitai.com/models/127100/marinette-dupain-cheng
 	+ Cat Noir
 https://civitai.com/models/58595/miraculous-cat-noir
+	- Chloe Bourgeois
+https://civitai.com/models/126572/chloe-bourgeois-miraculous-ladybug
 - Big Hero 6
 	+ Honey Lemon
 https://civitai.com/models/91154/honey-lemon-big-hero-6
@@ -878,8 +883,6 @@ https://civitai.com/models/105555/princess-fiona-human-sherk-dreamworks-by-yeiye
 https://civitai.com/models/106178/princess-fiona-ogre-sherk-by-yeiyeiart-comissions-open
 - Astrid Hofferson (How To Train Your Dragon)
 https://civitai.com/models/64580/astrid-hofferson-or-how-to-train-your-dragon
-- Dawn Betterman (The Croods)
-https://civitai.com/models/72073/dawn-betterman-the-croods
 - Goldilocks (Puss in Boots)
 https://civitai.com/models/72127/goldilocks-puss-in-boots
 https://civitai.com/models/107441/goldilocks-puss-in-boots-dreamworks-by-yeiyeiart-comissions-open
@@ -1324,16 +1327,10 @@ https://files.catbox.moe/bmipuq.safetensors
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~
+- Dawn Betterman (The Croods)
+https://mega.nz/file/QnA1UR4T#RBDTEU2VidpUHPpB6z3vYK-4vojI3bMslO7dp540Ob8
+~~https://civitai.com/models/72073/dawn-betterman-the-croods~~
 
----
-- Psylocke (X-Men)
-~~https://civitai.com/models/77450/psylocke-x-men-lora~~
-- Kitty Pryde (X-Men)
-~~https://civitai.com/models/77503/kitty-pryde-x-men-lora~~
-- X-23 (X-Men)
-~~https://civitai.com/models/76153/x-23laura-kinney-x-men-lora~~
-- Emma Frost (X-Men)
-~~https://civitai.com/models/76369/emma-frost-x-men-lora~~
 
 # TI embeddings
 

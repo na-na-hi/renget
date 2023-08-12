@@ -187,7 +187,7 @@ https://files.catbox.moe/f6yt18.png
 *synopsis*: Your innocent and naive unicorn obsessed little sister
 ![Meena](https://files.catbox.moe/8r2fhw.png)
 
-**Eliza**
+**Eliza** - https://beta.character.ai/chat?char=t3T4e3N2eQnP3-yyPzNdGcquSCMePyLrU1Y4wgUP2rs
 **Tavern card** https://files.catbox.moe/s4o27l.png
 *genre*: Toddler, baby
 *synopsis*:The 9 month old you were tasked to take care of for the afternoon

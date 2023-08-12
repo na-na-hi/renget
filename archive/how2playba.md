@@ -535,8 +535,9 @@ You can headpat a girl again after 3 hours from the last time you did, giving yo
 
 >Relationship levels 
 The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*. 
-[This link let's you calculate how many cafe headpats, gifts, and lessons converts into relationship level.](https://arona.ai/calc/favor) It's korean, so use ur browser's auto translate for it. 
-[This link provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
+
+[The wiki's affection calculator (recommended one)](https://bluearchive.wiki/wiki/Affection) is a pretty good resource to calculate ur affection with. Make sure to actually scroll down. 
+[There's also the korean version](https://arona.ai/calc/favor) of the calculator, and there's also a [spreadsheet that provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
 
 >Gift crafting (a small guide) 
 If you want to splurge ur gifts on 1 specific girl:

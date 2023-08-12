@@ -25,7 +25,7 @@ DA | | Dea Anchora | | BIO | S
 DB | | Dimension Breaker | | MECH | S
 DiP | Apo | Disciplinary Perdition | Aponia | BIO | S
 DP | | Divine Prayer | | PSY | 
-DW| | Dreamweaver | HARE | MECH | S
+DW| | Dreamweaver | Hare | MECH | S
 DK | | Drive Kometa | | PSY | A | Augment of **YA**
 FR | | Fallen Rosemary | | QUA | S
 FT | | Fervent Tempo Δ  | Delta or Roza Aug | PSY | S | Augment of **MC**
@@ -60,7 +60,7 @@ NS | | Night Squire | | BIO | A
 PE | | Palatinus Equinox| Juan | IMG | S
 PI | | Phantom Iron | | MECH | A
 PX | PHX† | Phoenix | | PSY | S
-PV | PdV | Prinzessin der Verurteilung! | Fischl | BIO | A | **SP** Valkyrie
+PV | | Prinzessin der Verurteilung! | Fischl | BIO | A | **SP** Valkyrie
 RC | | Reverist Calico | Pardofelis | IMG | A | **SP** Valkyrie 
 RI | IR | Ritual Imayoh | Imayoh Ritual | MECH | A
 SR | | Sakuno Rondo | | PSY | A
@@ -77,13 +77,13 @@ SN | | Stygian Nymph | | QUA | S
 SJ | | Sündenjäger | Sin Hunter | MECH | 
 SB | SSB | Sugery Starburst | Kira | MECH | **SP** Valkyrie 
 SP | | Swallowtail Phantasm | | QUA | A
-SNS | SG | Sweet 'n' Spicy | Carole | MECH | A | **SP** Valkyrie
+SNS | | Sweet 'n' Spicy | Carole | MECH | A | **SP** Valkyrie
 TA | | Terminal Aide | Prometheus | IMG | A | **SP** Valkyrie
 TP | | Twilight Paladin | | MECH | S | Augment of **VE**
 UR | | Umbral Rose | | PSY | A
 VA | | Valkyrie Accipiter | | PSY | A
 VB | | Valkyrie Bladestrike | | BIO | A
-VS* | VBSF† or StFu† | Striker Fulminata | | BIO | A | Augment of **VB**
+VBS | VS* or StFu† | Striker Fulminata | | BIO | A | Augment of **VB**
 VC | | Valkyrie Chariot | | PSY | B
 VG | | Valkyrie Gloria | | QUA | A
 VP | | Valkyrie Pledge | | PSY | A
