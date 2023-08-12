@@ -9,7 +9,13 @@
 	3. Enter '' (minus the ' ') in the edit code box at the bottom of the page
 	4. Click Save
 ***
+
+Human gets turned into a Shedinja and is constantly stressing over having only 1 HP. Being deadly afraid of everything while thinking that something like touching a small flame or some pebbles will kill him.
+
+***
+
 Oh no! Your character/team has been framed for a crime they didn't commit, and have been whisked off to jail. What's more, you know the true culprit and he's bound to strike again! Can your team use teamwork and wits to break out of jail, catch the bad guy and prove your innocence?
+
 ***
 [Genre: Adventure, Hurt/Comfort, Romance; or Found Family if Romance isn’t your thing]
 Standard PMD fare at first; an Anon is isekai’d to the Pokemon world with amnesia and is befriended by a female Pokemon. The two become fast friends, with the native telling Anon about her own past as they both try to learn more about Anon’s. Anon is about as laid-back as a standard protagonist, but is still somewhat curious about his past and enjoys spending time with his newfound friend, even possibly developing feelings for her. Eventually the two meet Uxie, who reads their hidden memories and confirms their suspicions that Anon used to be a human, and why he was brought to the Pokemon world.

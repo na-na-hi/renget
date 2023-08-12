@@ -33,7 +33,7 @@ https://www.youtube.com/@oshiroito
 https://www.youtube.com/@HiyoriChihiyo
 
 #Vee Dev-C
-- URIYONE
+- Uriuone
 https://www.youtube.com/@URIYONE
 - Cotonoha
 https://www.youtube.com/@Cotonoha
@@ -45,7 +45,7 @@ https://www.youtube.com/@AomiyaYozuri
 https://www.youtube.com/@AnewUparu
 
 #Vee Dev-D
-- YURIKAWA YUN
+- Yurikawa Yun
 https://www.youtube.com/@yurikawayun
 - Erai Amae
 https://www.youtube.com/@EraiAmae
@@ -53,9 +53,19 @@ https://www.youtube.com/@EraiAmae
 https://www.youtube.com/@kakapo_research
 
 #Vee Dev-E
- - KOKUYOU LIRA
+ - Kokuyou Lira
 https://www.youtube.com/@KOKUYOU_LIRA
-- AMENIWA YAE
+- Ameniwa Yae
 https://www.youtube.com/@AMENIWA_YAE
 - Geppaku Lui
 https://www.youtube.com/@Geppaku_Lui
+
+#Vee Dev-F
+ - Linon Amakomo
+https://www.youtube.com/@LinonAmakomo
+- Anshinin Misa
+https://www.youtube.com/@AnshininMisa
+- Kanra Deity
+https://www.youtube.com/@KanraDeity
+
+edit code NKfigXn5

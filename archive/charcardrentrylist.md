@@ -29,7 +29,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc |[Helm](https://files.catbox.moe/f33gnx.png), [Amelia Richards](https://files.catbox.moe/25vmnz.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Silvya](https://files.catbox.moe/rb5gtq.png)|
-[Smile](https://rentry.org/HelpanonSmile) | Misc |[ULTIMATE ARMOR GENERATOR [UAG]](https://files.catbox.moe/gel915.png), [Wendy Testaburger](https://files.catbox.moe/asi82d.png), [Ashley](https://files.catbox.moe/jtt9ys.png)|
+[Smile](https://rentry.org/HelpanonSmile) | Misc |[ULTIMATE ARMOR GENERATOR [UAG]](https://files.catbox.moe/gel915.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yara and Amellie](https://files.catbox.moe/fje5hg.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||

@@ -44,9 +44,6 @@ Writefags:
 >Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
 https://rentry.org/rzimh (For those that read the first part, just jump to chapter VI. Art Gallery.)
 
-New Artfag (Sandy and Mio casualwear)
->>89859158
-
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
 
@@ -900,6 +897,8 @@ https://pastebin.com/37KBsQEy
 https://rentry.org/SarruKissatMatiAlbayis
 >Wild Encounters (Suzerain, Caniara)
 https://rentry.org/wild3ncouters
+>Two nerds fight (Bastian, Ella)
+https://pastebin.com/uzitGYng
 
 ```
 ***

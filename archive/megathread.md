@@ -55,7 +55,6 @@
 
 ### 🎦 [Movies & TV](https://rentry.co/megathread-movies-and-tv)
 - Movies & TV are works of visual art that employ moving pictures to imitate experiences, perceptions, feelings, and beauty.
-- [Old version backup](https://rentry.co/wkirm).
 
 ### 🎹 [Music](https://rentry.co/megathread-music)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.

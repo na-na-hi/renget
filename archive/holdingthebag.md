@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 10th August. All dates dd/mm.
+!!! Note Last updated: 12th August. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-6358 | ヒナまつり | Open as of 23/11
+None | None | None
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -97,6 +97,7 @@ Club ID | Club Name | Club Status
 1793 | Horny | Full as of 22/10
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
+6358 | ヒナまつり | Full as of 10/08
 13107 | アオダマ | Full as of 06/06
 20269 | BigBoiClub | Full as of 22/10
 

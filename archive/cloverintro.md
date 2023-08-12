@@ -7,7 +7,7 @@
 ##Good lord what is happening in this thread?! Are you roleplaying?!
 
 ~~Aurora borealis~~
-It's not actual roleplaying, but collaborative writing. The gist of it is that we imagine what would happen if a bunch of anons got transported to the PMD world and decided to form a guild (Clover Guild). Then, we create characters, write stories, and make art about them. We also discuss the setting and what kind of shenanigans these characters would be involved with. It's similar to how the SCP Foundation community started, if you're familiar with that.
+It's not roleplaying, but collaborative writing. The gist of it is that we imagine what would happen if a bunch of anons got transported to the PMD world and decided to form a guild (Clover Guild). Then, we create characters, write stories, and make art about them. We also discuss the setting and what kind of shenanigans these characters would be involved with. It's similar to how the SCP Foundation community started, if you're familiar with that.
 
 ***
 
@@ -25,7 +25,7 @@ After that there are some good options:
 
 - Read them in the [order of publication](https://rentry.org/vpmdclover#list-of-stories-sorted-by-time-published).
 - Read them in the chronological order shown in the [story timeline]( https://rentry.org/vpmdclover#story-timeline). (Some stories aren’t lsited there yet)
-- Got to the [list of stories sorted by author](https://rentry.org/vpmdclover#list-of-stories-sorted-by-author), pick an author, read their stories, then move to another author.
+- Go to the [list of stories sorted by author](https://rentry.org/vpmdclover#list-of-stories-sorted-by-author), pick an author, read their stories, then move to another author.
 
 ***
  

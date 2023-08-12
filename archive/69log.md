@@ -39,7 +39,7 @@ V3: Team HP +1000 (cannot stack), this bonus is not affected by percentage hp in
 - Adjusted Sirin signets
 - Adjusted bonus signets:
 - Gold and Helix + 2 > Stars and Helix +2
-- Bodhi and ??? + 2 > Bodhi and Setsuna + 2
+- Bodhi and Vicissitude + 2 > Bodhi and Setsuna + 2
 
 
 #####v2b

@@ -10,10 +10,11 @@
 ->If you have any recommendations or things you think I should add or change, feel free to DM me on discord **.trappu**<-
  
 ##-> See also <-
-Wondering which models to use my bots on? AliCat and I are currently working on an [LLM Roleplay Ranking](https://rentry.co/ALLMRR) so feel free to check it out! It gets updated pretty regularly.
+- Wondering which models to use my bots on? AliCat and I are currently working on an [LLM Roleplay Ranking](https://rentry.co/ALLMRR) so feel free to check it out! It gets updated pretty regularly.
 
-Wanna learn how to write characters in PLists + Ali:Chat? Check out my comprehensive guide on character creation: https://wikia.schneedc.com/en/bot-creation/Trappu/PLists_+_AliChat_bot_creation_guide
-AliCat's Ali:Chat guide (contains very valuable info even if you're not using Ali:Chat): https://rentry.co/alichat
+- Wanna learn how to write characters in PLists + Ali:Chat? Check out my comprehensive guide on character creation: https://wikia.schneedc.com/en/bot-creation/Trappu/PLists_+_AliChat_bot_creation_guide
+
+- AliCat's Ali:Chat guide (contains very valuable info even if you're not using Ali:Chat): https://rentry.co/alichat
 
 !!! danger I super duper recommend reading [the section about Ali:Chat Lite!](https://rentry.org/trappusrentry#what-are-alichat-lite-cards) It contains a few tips that will be useful no matter what kind of card you use, whether it is PList, Ali:Chat, W++ or even plain text!
 !!! danger I reaaaaaaaaally insist you read that part or I'll be very mad!

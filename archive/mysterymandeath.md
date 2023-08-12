@@ -1,1 +1,1 @@
-It was fun, /aicg/.
+I won.

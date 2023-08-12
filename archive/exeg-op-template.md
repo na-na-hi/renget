@@ -2,6 +2,8 @@ Welcome to the Vidya Creepypasta General. Feel free to discuss video game-based 
 
 ROOM #??? - ??? Edition
 
+>Slender : Return to Rosswood park
+https://gamejolt.com/games/slender_returntorosswood/826508
 
 >Video Game Creepypastas & Gaming Urban Legends
 https://rentry.org/creepypasta-centered-wiki
