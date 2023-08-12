@@ -14,332 +14,12 @@ Ability to send enemies to the moon
 DMG boost
 [Table of Contents](#table-of-contents)
 
-### Characters: What can Divine Prayer's Ultimate skill do?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Continuously heal the whole team during Burst**
-Enhance enemy ATK
-Reduce enemy ATK
-Increase DMG received by enemies
-[Table of Contents](#table-of-contents)
-
-### Characters: Sixth Serenade is good at fighting:
-> *Hint: Tap "Check the Answer" to learn more!*
-**MECH-type enemy mobs**
-BIO-type enemy mobs
-MECH-type solo enemy
-BIO-type solo enemy
-[Table of Contents](#table-of-contents)
-
-### Characters: How does Herrscher of the Void activate her Herrscher Form?
-> *Hint: Tap "Check the Answer" to learn more!*
-**At no less than 240 Herrscher Charge, hold \[ATK\] during the 5-sequence Basic ATK to unleash a Charged ATK**
-Unleash Ultimate
-Perform Ultimate Evasion
-Score a crit hit
-[Table of Contents](#table-of-contents)
-
-### Characters: What is the type of Drive Kometa?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Psychic**
-Biologic
-Quantum
-Mecha
-[Table of Contents](#table-of-contents)
-
-### Characters: What role does Drive Kometa play on a team?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Physical support**
-Physical DMG dealer
-Elemental support
-Elemental DMG dealer
-[Table of Contents](#table-of-contents)
-
-### Characters: Drive Kometa's Ultimate skill has many supporting effects. Which of the following is not one of them?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Deal Cyberpunk shocks to all enemies on the battlefield**
-Reset shield
-Pull in enemies
-After Ultimate activation, the third sequence in Burst mode inflicts Time Lock on the target
-[Table of Contents](#table-of-contents)
-
-### Characters: Drive Kometa is one of the best supports for Stygian Nymph. How does Drive Kometa trigger Stygian Nymph's QTE?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Inflict Crippling Field with uncharged Basic ATKs**
-Have dinner with Stygian Nymph
-Go shopping with Stygian Nymph
-Enter Herrscher Form
-[Table of Contents](#table-of-contents)
-
-### Characters: Drive Kometa's Perfect Defense can trigger many effects. Which of the following is not one of them?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Captain gains 30 Stamina**
-Global Time Fracture
-Team restores SP
-Reset shield
-[Table of Contents](#table-of-contents)
-
 ### Characters: Which of the following actions restores Stygian Nymph's Ego/Id?
 > *Hint: Tap "Check the Answer" to learn more!*
 **Unleash Ultimate**
 Scream "Please..."
 Call Bronya
 Her Ego/Id auto-regens on standby
-[Table of Contents](#table-of-contents)
-
-### Characters: How does Stygian Nymph consume Ego/Id to deal massive DMG?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Hold \[ATK\] near an enemy to unleash a Charged ATK**
-Unleash Honkai Hyakuretsu Ken
-Switch character
-Use the weapon active of Path to Acheron
-[Table of Contents](#table-of-contents)
-
-### Characters: Stygian Nymph's Charged ATKs have powerful effects. Which of the following statements about them is wrong?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Her Charged ATK summons a 20-meter-diameter Honkai Aura**
-Tap \[ATK\] during the last sequence of Basic ATK with full Ego/Id to auto-consume Ego/Id for a Charged ATK
-Only Charged ATKs consuming Ego/Id resonate with marks
-Charged ATKs can be unleashed without full Ego/Id
-[Table of Contents](#table-of-contents)
-
-### Characters: Stygian Nymph's Ultimate skill is her main DMG source. Which of the following statements about it is wrong?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Her Ultimate stops all enemies on the battlefield from thinking**
-Her Ultimate fully restores Ego/Id for her
-After switching to Veliona, her Basic ATKs become Heavy ATKs
-Her Ultimate inflicts Collapse on QUA-type enemies once
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following debuffs triggers Stygian Nymph's QTE?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Time Slow**
-Coma
-Tripping up
-Shaking
-[Table of Contents](#table-of-contents)
-
-### Characters: How to trigger Stygian Nymph's Ultimate Evasion?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Pass through enemies**
-Zigzag across the battlefield
-Wear a belt
-Drink quantum water
-[Table of Contents](#table-of-contents)
-
-### Characters: Hawk of the Fog is good at fighting:
-> *Hint: Tap "Check the Answer" to learn more!*
-**MECH-type Titans**
-BIO-type Zombies
-DEMON-type Honkai Beasts
-ANGEL-type Wendy
-[Table of Contents](#table-of-contents)
-
-### Characters: Hawk of the Fog's Ultimate skill deals massive DMG. How much SP does it consume?
-> *Hint: Tap "Check the Answer" to learn more!*
-**50**
-100
-500
-1000
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following actions enables Hawk of the Fog to enter Elektrance status?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Unleash Ki: Lightning Pounce**
-Switch to Phoenix
-Switch to Night Squire
-Switch to Shadow Knight
-[Table of Contents](#table-of-contents)
-
-### Characters: Hawk of the Fog's Ultimate skill deals massive Lightning DMG and is her main source of DMG. How to unleash it？
-> *Hint: Tap "Check the Answer" to learn more!*
-**Hold \[ULT\] after Kei: Tunneling Blossom**
-Hold \[ULT\] after QTE
-Hold \[ULT\] when KE is over 100
-Hold \[ULT\] after Basic ATK
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Snaring Flame\] (mixed-colored stacks) trigger?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Pull in enemies and immobilize them, also restore SP for the Valkyries on the battlefield upon hit**
-Blind enemies
-Slow enemies
-Banish enemies
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Magma Melt\] (black stacks) trigger?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Increase team Elemental DMG against enemies hit**
-Slowly drain team HP
-Splash ink into enemies' eyes to blind them
-Suck enemies into a drawing of mountains and seas
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Empyrean Fire\] (white stacks) trigger?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Additionally restore SP for Azure Empyrea upon hit**
-Inflict humidity on enemies
-Paralyze enemies
-Petrify enemies
-[Table of Contents](#table-of-contents)
-
-### Characters: Azure Empyrea is able to provide the Elemental Breach buff for the team, which enables the team to partially ignore enemies' Resistance. How to proc this buff?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Unleash Ultimate**
-Melt enemy shields with ink
-Summon Project Bunny
-Do Tai Chi
-[Table of Contents](#table-of-contents)
-
-### Characters: Which one of Azure Empyrea's skills ignites enemies?
-> *Hint: Tap "Check the Answer" to learn more!*
-**The last hit of the 4th sequence of Basic ATK**
-Raksha's Rage: Fire Release
-Red Infernal
-Scorching Foxfire
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following battlesuits is Azure Empyrea the best support for?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Vermilion Knight: Eclipse**
-Bright Knight: Excelsis
-Cabbage Knight: Ai-chan
-Chatterbox Knight: Hellmaru
-[Table of Contents](#table-of-contents)
-
-### Characters: How does Herrscher of Reason restore Konstruktyom?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Hit enemies with Basic ATKs**
-Charge Project Bunny
-Charge her Herrscher Core
-Unleash her Charged ATKs
-[Table of Contents](#table-of-contents)
-
-### Characters: How does Herrscher of Reason inflict Analyzed state on enemies?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Use the weapon active of Key of Reason**
-Study the enemy's structure
-Shoot dissolution beams
-Analyze enemies using her Herrscher Core
-[Table of Contents](#table-of-contents)
-
-### Characters: Herrscher of Reason can inflict a unique Analyzed state on enemies. What effect does it have?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Increase Total DMG received by enemies**
-Lower enemies' IQ
-Slow enemies
-Deconstruct enemies to melt them
-[Table of Contents](#table-of-contents)
-
-### Characters: Herrscher of Reason's Charged ATK is one of her main sources of DMG. Which of the following statements about it is true?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Charged ATK effects differ on and off USAGI Kinetik**
-Charged ATKs restore Konstruktyom
-Charged ATK is disabled when USAGI Kinetik is on
-Charged ATKs can summon Herrscher Core
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following actions induces Herrscher of Reason's Herrscher mode?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Hold \[ATK\] to launch Charged ATKs**
-Use Key of Reason's active to unleash the Herrscher Core
-Use Basic ATKs at max Konstruktyom
-Perform Ultimate Evasion
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following debuffs triggers Darkbolt Jonin's QTE?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Ignition**
-Shieldbreak
-Petrification
-Enchantment
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following skills inflicts Darkbolt Marks?
-> *Hint: Tap "Check the Answer" to learn more!*
-**SP Skill: Darkbolt Pursuit**
-Gacha Luck Curse
-Ai-chan beam attack! Pew!
-Aneki's Back
-[Table of Contents](#table-of-contents)
-
-### Characters: Darkbolt Jonin is able to render enemies Conductive. Which of the following skills of hers does that?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Ultimate: Raksha's Rage**
-Megavolts
-SP Skill: Darkbolt Pursuit
-Wrath of Thor
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following actions enables Darkbolt Jonin to cast numerous kunai (darts) forward?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Tap \[ATK\] when a light circle appears on her**
-Buy kunai at a ninja store
-Go home and grab her kunai
-Hold \[ULT\]
-[Table of Contents](#table-of-contents)
-
-### Characters: Darkbolt Jonin's Combo ATK \[Naraka Finisher\] is one of her main sources of DMG. How do you perform it?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Hold \[ATK\] at sufficient Zakti**
-Ctrl+C
-Ctrl+V
-Shake the device
-[Table of Contents](#table-of-contents)
-
-### Characters: Which of the following actions restores Darkbolt Jonin's Zakti?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Cast Ultimate or kill enemies with Combo ATKs**
-Eat onigiri made by Kallen
-Turn invisible
-Drink a Stamina Potion
-[Table of Contents](#table-of-contents)
-
-### Characters: How many Zakti bars can Darkbolt Jonin have at the most?
-> *Hint: Tap "Check the Answer" to learn more!*
-**6**
-10
-50
-100
-[Table of Contents](#table-of-contents)
-
-### Characters: Celestial Hymn's Ultimate skill can heavily impair enemies. Which of the following statements is true?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Her Ultimate reduces enemy DEF by 75%**
-Her Ultimate only works on PSY-type enemies
-Her Ultimate does not consume SP and has no CD
-Her Ultimate only works on MECH-type enemies
-[Table of Contents](#table-of-contents)
-
-### Characters: Celestial Hymn's evasion skill has many effects. Which of the following is not one of them?
-> *Hint: Tap "Check the Answer" to learn more!*
-**Brainwash all enemies on the field into TeRiRi fans**
-Equip the team with 1 stack of Blade Barrier that greatly improves their Ignore Interrupt
-The Blade Barrier deals small amounts of DMG at short intervals, and the hits add to combo count
-Exiting triggers evasion and grants Blade Barrier to the team
-[Table of Contents](#table-of-contents)
-
-### Characters: What is the type of Swallowtail Phantasm?
-> *Hint: Swallowtail Phantasm is the first QUA-type character. QUA type has no counter relations with BIO type, PSY type, or MECH type.*
-**Quantum**
-Biologic
-Mecha
-No type
-[Table of Contents](#table-of-contents)
-
-### Characters: What happens when Swallowtail Phantasm's QTE hits an enemy?
-> *Hint: Trigger Time Slow to proc Swallowtail Phantasm's QTE to restore her Veil and SP.*
-**Swallowtail Phantasm restores Veil and SP and enters Phase Warp**
-Swallowtail Phantasm enters Burst mode
-Enemies suffer Quantum Implosion
-Enemies turn into QUA-type
-[Table of Contents](#table-of-contents)
-
-### Characters: How to prolong Swallowtail Phantasm's Burst mode?
-> *Hint: Swallowtail Phantasm relies on her Burst mode to deal massive DMG. Try to make it last longer by triggering Ultimate Evasion or casing the weapon active of Undine's Tale.*
-**Perform Ultimate Evasions to restore Veil**
-Threaten the enemies
-Hit as many enemies as possible
-Switch character
 [Table of Contents](#table-of-contents)
 
 ### ELFs: What type of DMG does Blood Embrace deal?
@@ -420,6 +100,94 @@ Physical
 Summon a magic circle to seal enemies within and make them take more Total DMG
 Enable the Valkyrie on the field to deal more Physical DMG
 Restore SP for the Valkyrie on the field
+[Table of Contents](#table-of-contents)
+
+### Characters: How does Stygian Nymph consume Ego/Id to deal massive DMG?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Hold \[ATK\] near an enemy to unleash a Charged ATK**
+Unleash Honkai Hyakuretsu Ken
+Switch character
+Use the weapon active of Path to Acheron
+[Table of Contents](#table-of-contents)
+
+### Characters: Stygian Nymph's Charged ATKs have powerful effects. Which of the following statements about them is wrong?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Her Charged ATK summons a 20-meter-diameter Honkai Aura**
+Tap \[ATK\] during the last sequence of Basic ATK with full Ego/Id to auto-consume Ego/Id for a Charged ATK
+Only Charged ATKs consuming Ego/Id resonate with marks
+Charged ATKs can be unleashed without full Ego/Id
+[Table of Contents](#table-of-contents)
+
+### Characters: Stygian Nymph's Ultimate skill is her main DMG source. Which of the following statements about it is wrong?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Her Ultimate stops all enemies on the battlefield from thinking**
+Her Ultimate fully restores Ego/Id for her
+After switching to Veliona, her Basic ATKs become Heavy ATKs
+Her Ultimate inflicts Collapse on QUA-type enemies once
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following debuffs triggers Stygian Nymph's QTE?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Time Slow**
+Coma
+Tripping up
+Shaking
+[Table of Contents](#table-of-contents)
+
+### Characters: How to trigger Stygian Nymph's Ultimate Evasion?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Pass through enemies**
+Zigzag across the battlefield
+Wear a belt
+Drink quantum water
+[Table of Contents](#table-of-contents)
+
+### Characters: Hawk of the Fog is good at fighting:
+> *Hint: Tap "Check the Answer" to learn more!*
+**MECH-type Titans**
+BIO-type Zombies
+DEMON-type Honkai Beasts
+ANGEL-type Wendy
+[Table of Contents](#table-of-contents)
+
+### Characters: Hawk of the Fog's Ultimate skill deals massive DMG. How much SP does it consume?
+> *Hint: Tap "Check the Answer" to learn more!*
+**50**
+100
+500
+1000
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following actions enables Hawk of the Fog to enter Elektrance status?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Unleash Ki: Lightning Pounce**
+Switch to Phoenix
+Switch to Night Squire
+Switch to Shadow Knight
+[Table of Contents](#table-of-contents)
+
+### Characters: Hawk of the Fog's Ultimate skill deals massive Lightning DMG and is her main source of DMG. How to unleash it？
+> *Hint: Tap "Check the Answer" to learn more!*
+**Hold \[ULT\] after Kei: Tunneling Blossom**
+Hold \[ULT\] after QTE
+Hold \[ULT\] when KE is over 100
+Hold \[ULT\] after Basic ATK
+[Table of Contents](#table-of-contents)
+
+### Characters: What can Divine Prayer's Ultimate skill do?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Continuously heal the whole team during Burst**
+Enhance enemy ATK
+Reduce enemy ATK
+Increase DMG received by enemies
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Snaring Flame\] (mixed-colored stacks) trigger?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Pull in enemies and immobilize them, also restore SP for the Valkyries on the battlefield upon hit**
+Blind enemies
+Slow enemies
+Banish enemies
 [Table of Contents](#table-of-contents)
 
 ### Monsters: Which of the following monsters does not have shield skills?
@@ -580,6 +348,94 @@ Ferocious
 Lightning Empress, Divine Prayer and Shadow Knight
 Molotov Cherry, Blueberry Blitz and Yamabuki Armor
 Squad Snowwolf
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Magma Melt\] (black stacks) trigger?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Increase team Elemental DMG against enemies hit**
+Slowly drain team HP
+Splash ink into enemies' eyes to blind them
+Suck enemies into a drawing of mountains and seas
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following effects can Azure Empyrea's Combo ATK \[Senpo: Empyrean Fire\] (white stacks) trigger?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Additionally restore SP for Azure Empyrea upon hit**
+Inflict humidity on enemies
+Paralyze enemies
+Petrify enemies
+[Table of Contents](#table-of-contents)
+
+### Characters: Azure Empyrea is able to provide the Elemental Breach buff for the team, which enables the team to partially ignore enemies' Resistance. How to proc this buff?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Unleash Ultimate**
+Melt enemy shields with ink
+Summon Project Bunny
+Do Tai Chi
+[Table of Contents](#table-of-contents)
+
+### Characters: Which one of Azure Empyrea's skills ignites enemies?
+> *Hint: Tap "Check the Answer" to learn more!*
+**The last hit of the 4th sequence of Basic ATK**
+Raksha's Rage: Fire Release
+Red Infernal
+Scorching Foxfire
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following battlesuits is Azure Empyrea the best support for?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Vermilion Knight: Eclipse**
+Bright Knight: Excelsis
+Cabbage Knight: Ai-chan
+Chatterbox Knight: Hellmaru
+[Table of Contents](#table-of-contents)
+
+### Characters: How does Herrscher of Reason restore Konstruktyom?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Hit enemies with Basic ATKs**
+Charge Project Bunny
+Charge her Herrscher Core
+Unleash her Charged ATKs
+[Table of Contents](#table-of-contents)
+
+### Characters: How does Herrscher of Reason inflict Analyzed state on enemies?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Use the weapon active of Key of Reason**
+Study the enemy's structure
+Shoot dissolution beams
+Analyze enemies using her Herrscher Core
+[Table of Contents](#table-of-contents)
+
+### Characters: Herrscher of Reason can inflict a unique Analyzed state on enemies. What effect does it have?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Increase Total DMG received by enemies**
+Lower enemies' IQ
+Slow enemies
+Deconstruct enemies to melt them
+[Table of Contents](#table-of-contents)
+
+### Characters: Herrscher of Reason's Charged ATK is one of her main sources of DMG. Which of the following statements about it is true?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Charged ATK effects differ on and off USAGI Kinetik**
+Charged ATKs restore Konstruktyom
+Charged ATK is disabled when USAGI Kinetik is on
+Charged ATKs can summon Herrscher Core
+[Table of Contents](#table-of-contents)
+
+### Characters: Sixth Serenade is good at fighting:
+> *Hint: Tap "Check the Answer" to learn more!*
+**MECH-type enemy mobs**
+BIO-type enemy mobs
+MECH-type solo enemy
+BIO-type solo enemy
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following actions induces Herrscher of Reason's Herrscher mode?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Hold \[ATK\] to launch Charged ATKs**
+Use Key of Reason's active to unleash the Herrscher Core
+Use Basic ATKs at max Konstruktyom
+Perform Ultimate Evasion
 [Table of Contents](#table-of-contents)
 
 ### Equipment: The T,M,B pieces of Shakespeare set provide __, __, __ Elemental DMG buffs respectively.
@@ -830,6 +686,94 @@ Jingwei (M)
 Jin Shengtan (T)
 [Table of Contents](#table-of-contents)
 
+### Characters: Which of the following debuffs triggers Darkbolt Jonin's QTE?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Ignition**
+Shieldbreak
+Petrification
+Enchantment
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following skills inflicts Darkbolt Marks?
+> *Hint: Tap "Check the Answer" to learn more!*
+**SP Skill: Darkbolt Pursuit**
+Gacha Luck Curse
+Ai-chan beam attack! Pew!
+Aneki's Back
+[Table of Contents](#table-of-contents)
+
+### Characters: Darkbolt Jonin is able to render enemies Conductive. Which of the following skills of hers does that?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Ultimate: Raksha's Rage**
+Megavolts
+SP Skill: Darkbolt Pursuit
+Wrath of Thor
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following actions enables Darkbolt Jonin to cast numerous kunai (darts) forward?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Tap \[ATK\] when a light circle appears on her**
+Buy kunai at a ninja store
+Go home and grab her kunai
+Hold \[ULT\]
+[Table of Contents](#table-of-contents)
+
+### Characters: Darkbolt Jonin's Combo ATK \[Naraka Finisher\] is one of her main sources of DMG. How do you perform it?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Hold \[ATK\] at sufficient Zakti**
+Ctrl+C
+Ctrl+V
+Shake the device
+[Table of Contents](#table-of-contents)
+
+### Characters: Which of the following actions restores Darkbolt Jonin's Zakti?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Cast Ultimate or kill enemies with Combo ATKs**
+Eat onigiri made by Kallen
+Turn invisible
+Drink a Stamina Potion
+[Table of Contents](#table-of-contents)
+
+### Characters: How many Zakti bars can Darkbolt Jonin have at the most?
+> *Hint: Tap "Check the Answer" to learn more!*
+**6**
+10
+50
+100
+[Table of Contents](#table-of-contents)
+
+### Characters: Celestial Hymn's Ultimate skill can heavily impair enemies. Which of the following statements is true?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Her Ultimate reduces enemy DEF by 75%**
+Her Ultimate only works on PSY-type enemies
+Her Ultimate does not consume SP and has no CD
+Her Ultimate only works on MECH-type enemies
+[Table of Contents](#table-of-contents)
+
+### Characters: Celestial Hymn's evasion skill has many effects. Which of the following is not one of them?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Brainwash all enemies on the field into TeRiRi fans**
+Equip the team with 1 stack of Blade Barrier that greatly improves their Ignore Interrupt
+The Blade Barrier deals small amounts of DMG at short intervals, and the hits add to combo count
+Exiting triggers evasion and grants Blade Barrier to the team
+[Table of Contents](#table-of-contents)
+
+### Characters: How does Herrscher of the Void activate her Herrscher Form?
+> *Hint: Tap "Check the Answer" to learn more!*
+**At no less than 240 Herrscher Charge, hold \[ATK\] during the 5-sequence Basic ATK to unleash a Charged ATK**
+Unleash Ultimate
+Perform Ultimate Evasion
+Score a crit hit
+[Table of Contents](#table-of-contents)
+
+### Characters: What is the type of Swallowtail Phantasm?
+> *Hint: Swallowtail Phantasm is the first QUA-type character. QUA type has no counter relations with BIO type, PSY type, or MECH type.*
+**Quantum**
+Biologic
+Mecha
+No type
+[Table of Contents](#table-of-contents)
+
 ### GK: How to earn more pts in a Memorial Arena stage?
 > *Hint: Memorial Arena has a combat racing mechanism. Clear the stages as quickly as you can to score higher.*
 **Clear the stage faster**
@@ -854,6 +798,30 @@ Each player can fight the Bosses unlimited times a day (excluding Training Mode)
 A Valkyrie can be deployed to fight two different Bosses
 [Table of Contents](#table-of-contents)
 
+### Characters: What happens when Swallowtail Phantasm's QTE hits an enemy?
+> *Hint: Trigger Time Slow to proc Swallowtail Phantasm's QTE to restore her Veil and SP.*
+**Swallowtail Phantasm restores Veil and SP and enters Phase Warp**
+Swallowtail Phantasm enters Burst mode
+Enemies suffer Quantum Implosion
+Enemies turn into QUA-type
+[Table of Contents](#table-of-contents)
+
+### Characters: How to prolong Swallowtail Phantasm's Burst mode?
+> *Hint: Swallowtail Phantasm relies on her Burst mode to deal massive DMG. Try to make it last longer by triggering Ultimate Evasion or casing the weapon active of Undine's Tale.*
+**Perform Ultimate Evasions to restore Veil**
+Threaten the enemies
+Hit as many enemies as possible
+Switch character
+[Table of Contents](#table-of-contents)
+
+### Characters: What is the type of Drive Kometa?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Psychic**
+Biologic
+Quantum
+Mecha
+[Table of Contents](#table-of-contents)
+
 ### System: AE Imaginon can be used to forge or upgrade weapons. It can be obtained by completing:
 > *Hint: Adventure Tasks is a major source of AE Imaginon*
 **Adventure Tasks in Open World**
@@ -876,6 +844,14 @@ FRI
 Chronicles
 Open World
 Drift World
+[Table of Contents](#table-of-contents)
+
+### Characters: What role does Drive Kometa play on a team?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Physical support**
+Physical DMG dealer
+Elemental support
+Elemental DMG dealer
 [Table of Contents](#table-of-contents)
 
 ### What role does Disciplinary Perdition play on a team?
@@ -904,7 +880,7 @@ Convince Kalpas.
 
 ### Which effect is unavailable to Golden Diva?
 > *Hint: Go to Strategy Hub to learn more!*
-**Inflicts Rime Trauma.**
+**Rime Trauma.**
 Restores team SP.
 Inflicts Paralyze Trauma.
 Triggers Global Time Fracture.
@@ -982,7 +958,7 @@ Freeze enemies with her Ultimate.
 Trigger her Special, Predation.
 [Table of Contents](#table-of-contents)
 
-### Which of Reverist Calico's ATKs is unable to inflict Rime Trauma?
+### Which of Reverist Calico's attacks is unable to inflict Rime Trauma?
 > *Hint: Go to Strategy Hub to learn more!*
 **Her Combo ATK Frozen Can.**
 Her Ultimate.
@@ -1244,4 +1220,412 @@ Restores additional SP for the entire team upon hitting Combo ATK.
 When enemies within the smoke's range are Ignited.
 When enemies within the smoke's range are attacked.
 When enemies within the smoke's range die.
+[Table of Contents](#table-of-contents)
+
+### Jade Knight can fully stack Blade Sanction using Basic ATK and trigger Sword Array with Wild Swords, but it takes a lot of time. What's the other way to trigger Sword Array?
+> *Hint: Go to Strategy Hub to learn more!*
+**QTE entry triggers Wild Swords and induces Sword Array.**
+Ultimate triggers Sword Array.
+With Azure Empyrea on the team, Sword Array is triggered upon entry.
+No other way.
+[Table of Contents](#table-of-contents)
+
+### In Sword Array, after tapping \[ULT\] to cast Bolt Slash 3 times, Jade Knight can cast Back Wind Slash. What does Back Wind Slash do?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Hitting enemies restores bonus SP.
+Ranged attacks by any team member in non-burst mode deal more Ice DMG.
+Deals Ice DMG multiple times.
+[Table of Contents](#table-of-contents)
+
+### In Sword Array, holding \[ATK\] can trigger Jade Knight's skill Heart Piercer. What does it do?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+At Rank SS1, casting Heart Piercer boosts Ice DMG dealt by any team member's Basic ATK, burst mode attacks, and ranged attacks.
+You can switch characters during the skill cast.
+It deals Ice DMG repeatedly.
+[Table of Contents](#table-of-contents)
+
+### Jade Knight's Ultimate Blade Eminence offers strong buffs. Which of the following isn't one of them?
+> *Hint: Go to Strategy Hub to learn more!*
+**A giant Jingwei falls down from the sky.**
+Team members who can deal Ice DMG obtain Elemental Breach.
+The team deals more DMG to shields.
+Extra SP cost boosts Ice DMG dealt by any team member's Basic ATK, burst mode attacks, and ranged attacks.
+[Table of Contents](#table-of-contents)
+
+### In Elysian Realm, Jade Knight has more ways to restore Blade Sanction. How to do it?
+> *Hint: Go to Strategy Hub to learn more!*
+**Casting Ultimate restores full Blade Sanction.**
+Killing enemies restores full Blade Sanction.
+Entering battle restores full Blade Sanction.
+When Azure Empyrea is the support Valkyrie, Blade Sanction is fully restored.
+[Table of Contents](#table-of-contents)
+
+### Triggering Ego Blossom can boost Herrscher of Human: Ego's DMG. How to do it?
+> *Hint: Go to Strategy Hub to learn more!*
+**Cast Weapon Skill or Special Weapon Skill to hit enemies inflicted with Pristine Bloomage.**
+Hit enemy weakspots with Weapon Skill.
+Hit enemies 3 times with Charged ATK.
+Unleash Ultimate.
+[Table of Contents](#table-of-contents)
+
+### Herrscher of Human: Ego tracks teammates' SP consumption to recharge herself. Are the recharged amount influenced by stigma affixes from teammates that reduce SP cost?
+> *Hint: Go to Strategy Hub to learn more!*
+**Yes, the recharged amount is the same as the SP points actually consumed.**
+No, the recharged amount is free from the influence.
+Yes, the recharged amount will be reset to zero.
+No, the recharged amount is fixed to be 300 points.
+[Table of Contents](#table-of-contents)
+
+### Some stigmata can boost DMG in Herrscher Form. In which statuses can Herrscher of Human: Ego enjoy such boosts?
+> *Hint: Go to Strategy Hub to learn more!*
+**All the time. Herrscher of Human: Ego is always in Herrscher Form.**
+When casting Charged ATK.
+When casting Ultimate.
+When casting QTE.
+[Table of Contents](#table-of-contents)
+
+### In Herrscher of Origin form, Herrscher of Human: Ego's Special Weapon Skill can deal high DMG but has a long CD. How can it be shortened?
+> *Hint: Go to Strategy Hub to learn more!*
+**In Herrscher of Origin form, hitting enemies with Charged ATK resets Special Weapon Skill's CD.**
+In Herrscher of Origin form, maxing Herrscher Charge resets Special Weapon Skill's CD.
+In Herrscher of Origin form, hitting enemies reduces Special Weapon Skill's CD by 2s per hit.
+In Herrscher of Origin form, triggering Ultimate Evasion Skill resets Special Weapon Skill's CD.
+[Table of Contents](#table-of-contents)
+
+### When casting Ultimate, Herrscher of Human: Ego creates Stars of the Past. What does it do?
+> *Hint: Go to Strategy Hub to learn more!*
+**All of the rest are correct.**
+Restores SP per second for Ice DMG dealers on the team.
+Inflicts Rime Trauma per second on enemies.
+When Ice DMG dealers on the team deal DMG, enemies hit suffer from additional HP loss.
+[Table of Contents](#table-of-contents)
+
+### How does Helical Contraption enter Weapon Mode?
+> *Hint: Go to Strategy Hub to learn more!*
+**Tap \[ATK] or [ULT\].**
+Make a turret on the field.
+Perform a magic.
+Leave it to the Expert.
+[Table of Contents](#table-of-contents)
+
+### What does the Climax Approaching status grant Helical Contraption?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Restore bonus SP per second.
+Charged ATK deals bonus Total DMG in Weapon Mode.
+Revolving Gatling: Applause and Heavy Cannon: Exclamation have higher DMG multipliers.
+[Table of Contents](#table-of-contents)
+
+### How does Helical Contraption restore Chariot Heat Value in burst mode?
+> *Hint: Go to Strategy Hub to learn more!*
+**Restore passively over time.**
+Hitting enemies restores Chariot Heat Value.
+Keeping moving restores Chariot Heat Value.
+Modify the code and restore full value.
+[Table of Contents](#table-of-contents)
+
+### How does Helical Contraption switch Loud Armaments?
+> *Hint: Go to Strategy Hub to learn more!*
+**Tap \[Weapon\]**
+Tap \[EVA\]
+Hold \[ATK\]
+Tap \[ULT\]
+[Table of Contents](#table-of-contents)
+
+### How does Helical Contraption inflict Collapse on QUA enemies?
+> *Hint: Go to Strategy Hub to learn more!*
+**Cast Ultimate.**
+Tap \[ULT\] in burst mode to launch self-explosion.
+Block any enemy attack in Weapon Mode.
+Hit enemies with Charged ATK.
+[Table of Contents](#table-of-contents)
+
+### Chrono Navi's Ultimate Λ Impact offers powerful buffs. Which isn't one of them?
+> *Hint: Go to Strategy Hub to learn more!*
+**Summons three mini Ai-chans to launch Ai-chan beams.**
+Boosts Total DMG for the team.
+Boosts Total DMG from any team member's ranged and melee attacks.
+Upgrades Aimer-γ Cutter to Aimer-Λ Domain.
+[Table of Contents](#table-of-contents)
+
+### How does Chrono Navi upgrade Aimer-γ Cutter to Aimer-Λ Domain?
+> *Hint: Go to Strategy Hub to learn more!*
+**Cast Ultimate when there's Aimer-γ Cutter present.**
+Call mini Ai-chans to help.
+Control Hyperion to force-upgrade it.
+Cast Ultimate without anything on the field.
+[Table of Contents](#table-of-contents)
+
+### Which weapon is a chakram?
+> *Hint: Go to Strategy Hub to learn more!*
+**Rudder in Dream Λ-I**
+Astral Divide: Pisces
+Stellar Vortex
+Silver Reaper
+[Table of Contents](#table-of-contents)
+
+### Which character can Chrono Navi support well?
+> *Hint: Go to Strategy Hub to learn more!*
+**Herrscher of Flamescion**
+Cabbage Knight: Hegotchu-Maru
+Herrscher of Thunder
+Herrscher of Reason
+[Table of Contents](#table-of-contents)
+
+### After casting Charged ATK, how can Chrono Navi deflect Aimer-β chakram units?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Cast Weapon Skill: Counterattack Order
+Basic ATK
+Evasion ATK
+[Table of Contents](#table-of-contents)
+
+### In Elysian Realm, Herrscher of Truth can leave her mecha and detonate it to deal high DMG to enemies. Which of the following can make her leave the mecha?
+> *Hint: Go to Strategy Hub to learn more!*
+**Cast Ultimate.**
+Scream: This is too OP!
+Cast Weapon Skill
+Cast Combo ATK
+[Table of Contents](#table-of-contents)
+
+### Which character can Herrscher of Truth support well?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Herrscher of Flamescion
+Disciplinary Perdition
+Helical Contraption
+[Table of Contents](#table-of-contents)
+
+### Herrscher of Truth's Ultimate: Narrative of Infinite Truth can buff the team up. Which one isn't one of the buffs?
+> *Hint: Go to Strategy Hub to learn more!*
+**Summon Project Bunny.**
+Grant Herrscher of Truth Elemental Breach in Continuation form.
+Restore SP for herself.
+Grant Lightning & Fire DMG dealers on the team Elemental Breach.
+[Table of Contents](#table-of-contents)
+
+### In Extremum form, how can Herrscher of Truth unlock mecha weapons in Continuation form?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Basic ATK SEQ 4
+QTE & Switch Skill
+Cast Key of Ascension's Weapon Skill
+[Table of Contents](#table-of-contents)
+
+### In Continuation form, what will happen when Herrscher of Truth casts Combo ATK?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+She triggers Echo of the World and boosts Fire DMG and Lightning DMG for the team after exit.
+Insta-kills Nihilus Seeds whose HP is below 20%.
+Triggers Time Fracture.
+[Table of Contents](#table-of-contents)
+
+### In Continuation form, what can't Herrscher of Truth's mecha weapons do?
+> *Hint: Go to Strategy Hub to learn more!*
+**Help Bronya make Arahato.**
+Restore bonus SP for Herrscher of Truth.
+Boost Total DMG in Continuation form.
+Boost SP regen for the team after she exits in Continuation form.
+[Table of Contents](#table-of-contents)
+
+### What's one of the features of ELF Kiana Kaslana?
+> *Hint: Go to Strategy Hub to learn more!*
+**Gather**
+Paralyze
+Ignite
+Freeze
+[Table of Contents](#table-of-contents)
+
+### What can ELF Kiana Kaslana's Ultimate do?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Reduce switch CD.
+Make enemies take bonus Elemental DMG.
+Inflict inflammable/conductive debuffs on enemies based on the team leader's DMG type.
+[Table of Contents](#table-of-contents)
+
+### What's the cap on Herrscher of Finality's Descent?
+> *Hint: Go to Strategy Hub to learn more!*
+**8 points**
+1 point
+100 points
+50 points
+[Table of Contents](#table-of-contents)
+
+### How can Herrscher of Finality trigger Absolute Time Fracture?
+> *Hint: Go to Strategy Hub to learn more!*
+**Hold \[EVA\] with 2 stacks of Time Wave.**
+Kill enemies.
+Unleash Ultimate.
+Combo ATK
+[Table of Contents](#table-of-contents)
+
+### How can Herrscher of Finality restore Descent?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+QTE ATK
+Enter upon Joint Bursting
+Basic ATK
+[Table of Contents](#table-of-contents)
+
+### With Herrscher of Truth and Herrscher of Origin on the team, how much SP does Herrscher of Finality's Joint Ultimate cost?
+> *Hint: Go to Strategy Hub to learn more!*
+**125**
+50
+0
+200
+[Table of Contents](#table-of-contents)
+
+### How many stacks of Twisted Origin does Herrscher of Origin need to unleash Malice Expunged?
+> *Hint: Go to Strategy Hub to learn more!*
+**3**
+100
+20
+50
+[Table of Contents](#table-of-contents)
+
+### How does Herrscher of Origin stack Twisted Origin in battle?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Cast Key of Limpidity's Weapon Skill to block attacks.
+QTE & Switch Skill
+Tap \[ATK\] after Ultimate Evasion.
+[Table of Contents](#table-of-contents)
+
+### Which of the following is wrong about Herrscher of Finality's Absolute Time Fracture?
+> *Hint: Go to Strategy Hub to learn more!*
+**It can summon Mei to attack enemies.**
+She has Invincibility during Absolute Time Fracture.
+It lasts up to 30s.
+It boosts her Fire DMG.
+[Table of Contents](#table-of-contents)
+
+### Valkyrie Quicksand's Ultimate can cause multiple effects when triggering Perfect Judgment. Which isn't one of them?
+> *Hint: Go to Strategy Hub to learn more!*
+**Deprive enemies of their fighting will with perfect dancing.**
+Deal bonus DMG.
+Restore bonus SP for herself.
+Restore HP for herself.
+[Table of Contents](#table-of-contents)
+
+### Who is the best Valkyrie against Pishacha, a boss with Bleed Vulnerability?
+> *Hint: Go to Strategy Hub to learn more!*
+**Valkyrie Quicksand**
+Cabbage Knight: Higokumaru
+Herrscher of Human: Ego
+Disciplinary Perdition
+[Table of Contents](#table-of-contents)
+
+### How can Valkyrie Quicksand inflict Bleed Trauma on enemies?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+QTE & Switch Skill
+Basic ATK SEQ 4
+Combo ATK
+[Table of Contents](#table-of-contents)
+
+### How can Valkyrie Quicksand trigger Weapon Skill's Perfect Judgment?
+> *Hint: Go to Strategy Hub to learn more!*
+**After casting Weapon Skill, tap \[Weapon\] when the icon flashes.**
+Show enemies graceful dancing steps.
+Spray gems on the ground.
+Attack enemies attentively.
+[Table of Contents](#table-of-contents)
+
+### How can Valkyrie Quicksand stack Confidence?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Basic ATK
+Ultimate Evasion.
+Trigger Agile Steps and cast Weapon Skill.
+[Table of Contents](#table-of-contents)
+
+### Valkyrie Quicksand's Ultimate can deal a lot of Bleed DMG. What's the SP cost?
+> *Hint: Go to Strategy Hub to learn more!*
+**125**
+300
+1000
+500
+[Table of Contents](#table-of-contents)
+
+### Terminal Aide 0017 can protect her teammates with Dense Neutron Shield. What can't it do?
+> *Hint: Go to Strategy Hub to learn more!*
+**Block all DMG taken by the character.**
+Increase the character's shield-breaking efficiency.
+Make enemeis take bonus Total DMG.
+Block 50% of DMG taken by the character.
+[Table of Contents](#table-of-contents)
+
+### Which weapon suits Terminal Aide 0017 the best?
+> *Hint: Go to Strategy Hub to learn more!*
+**Pandora's Box 18th**
+Key of Reason
+Briareus EX
+5th Sacred Relic
+[Table of Contents](#table-of-contents)
+
+### How can Terminal Aide 0017 restore Dense Neutron Shield's HP?
+> *Hint: Go to Strategy Hub to learn more!*
+**All other options are right.**
+Combo ATK: Simulation: Neural Network
+Defensive Status
+Ultimate: Existence: Configuration Manifold
+[Table of Contents](#table-of-contents)
+
+### What effect can be triggered when Terminal Aide 0017 breaks an enemy shield for the first time with SP Skill: Regen: Superpartner?
+> *Hint: Go to Strategy Hub to learn more!*
+**Freeze enemy shield recovery.**
+Reveal enemy weakspots using a neural network.
+Smash the battlefield.
+Make enemies drop tears.
+[Table of Contents](#table-of-contents)
+
+### Which weapon is a javelin?
+> *Hint: Go to Strategy Hub to learn more!*
+**Prophetic Dreams**
+Osahoko
+Star of Eden
+Sleeping Beauty
+[Table of Contents](#table-of-contents)
+
+### How can Dreamweaver fight in her astral body?
+> *Hint: Go to Strategy Hub to learn more!*
+**Cast Ultimate.**
+Send enemies into a dream to fight her astral body.
+Wave the banner and call PROMETHEUS for help.
+Hurl the short spears to fully charge the javelin.
+[Table of Contents](#table-of-contents)
+
+### Dreamweaver's Ultimate can consume extra SP to deal bonus DMG. What the cap on the extra SP cost?
+> *Hint: Go to Strategy Hub to learn more!*
+**50**
+10
+200
+500
+[Table of Contents](#table-of-contents)
+
+### Characters: Drive Kometa's Ultimate skill has many supporting effects. Which of the following is not one of them?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Deal Cyberpunk shocks to all enemies on the battlefield**
+Reset shield
+Pull in enemies
+After Ultimate activation, the third sequence in Burst mode inflicts Time Lock on the target
+[Table of Contents](#table-of-contents)
+
+### Characters: Drive Kometa is one of the best supports for Stygian Nymph. How does Drive Kometa trigger Stygian Nymph's QTE?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Inflict Crippling Field with uncharged Basic ATKs**
+Have dinner with Stygian Nymph
+Go shopping with Stygian Nymph
+Enter Herrscher Form
+[Table of Contents](#table-of-contents)
+
+### Characters: Drive Kometa's Perfect Defense can trigger many effects. Which of the following is not one of them?
+> *Hint: Tap "Check the Answer" to learn more!*
+**Captain gains 30 Stamina**
+Global Time Fracture
+Team restores SP
+Reset shield
 [Table of Contents](#table-of-contents)

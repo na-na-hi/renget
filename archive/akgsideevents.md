@@ -20,8 +20,8 @@ Twilight of Wolumonde (Folinic) 32OP
 Who is Real (Lava The Purgatory) 30OP
 Dossoles Holiday* 40OP 
 >hard tier
-A Walk in the Dust 27OP
 Maria Nearl (Whislash) 28DP
+A Walk in the Dust 27OP
 Near Light 41 OP
 Stultifera Navis 36OP
 
@@ -81,5 +81,6 @@ Speaking of, they also added an option to discontinued themes which allows you t
 
 ## Stationary Security Service
 
-Not worth actively grinding for a new player, but you'll want to be able to do them eventually. Just be mindful that, while also sanity free to play, it does not award anything a new player urgently needs. The only reward from playing this mode are module upgrade materials, which you can only put to use after promoting an operator to E2 AND after unlocking its module. All of this costs a ton of resources you want to put towards a balanced roster first. 
+Not worth actively grinding for a new player, but you'll want to be able to do them eventually. Just be mindful that, while also sanity free to play, it does not award anything a new player urgently needs. The only reward from playing this mode regularly are module upgrade materials, which you can only put to use after promoting an operator to E2 AND after unlocking its module. All of this costs a ton of resources you want to put towards a balanced roster first. 
 Most importantly, it does not award Module Data Blocks except as a first clear reward, which you need to unlock the modules in the first place. And most tragically, the only renewable source of Module Data Blocks comes from the red cert shop, with only 4 available per month at a whooping 500 red certs. If you're even remotely interested in modules, you should at the very least hit AP-5 regularly and build a healthy stack of reds - you're going to need them.
+After the rework, the mode is significantly easier and has a set of seasonal rewards for completing specific missions. These are mostly comprised of high tier materials and are worth shooting for.

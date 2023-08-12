@@ -114,6 +114,7 @@ _______
 |【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols 『2023-07-13』| [![](https://files.catbox.moe/vstdmf.jpg)](magnet:?xt=urn:btih:d183524a4ce09f8f7207b288d9ad2b85c1d31bc9&dn=%5B20230714%5D%20Unarchived%20BEEGsmols%20Relay%20%28Mumei%29&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/weehlx.txt|
 |【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|(Lacks a setlist on stream) https://files.catbox.moe/0r94r1.txt|
 |  【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!!  『2023-08-11』| [![](https://files.catbox.moe/2ldhi1.jpg)](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/hrahck.txt |
+| 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|https://files.catbox.moe/lf4ozr.txt (On-stream setlist is incomplete)|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -121,7 +122,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#6 |#40 | #7 |53 |
+|#7 |#40 | #7 |54 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

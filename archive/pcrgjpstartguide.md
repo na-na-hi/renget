@@ -132,7 +132,7 @@ Nothing that is specific to PvE here.
 
 
 ##->Permanent Targets<-
-While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions.
+While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions. For more information on 6 Star units, visit [here.](https://rentry.org/Six_Star)
 
 **School Festival Yuni** - Fantastic support for both damage types in multiple game modes. Still very good, less dominant.
 **Noire Io** - Very nice for both arena and some niche CB usage to drain and re-distribute TP to the highest M.Atk unit.
@@ -167,7 +167,6 @@ https://priconne-redive.jp/news/update/20375/
 - Always keep Ames and Neneka leveled
 - Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7. This will allow you to level her UE at no cost, until it reaches level 240.
 - Complete the easy versions of the training dummy gargoyles for easy 100 gems and 1 large heart per. There are 5 in total, but do the first 3.
-- If you have P.Yui, you can get her to Rank 7 and unlock her UE. She'll carry you through early level PvP by blowing up the enemy team. You should have the 3 large hearts for the initial craft thanks the the hearts from the above tip.
 - Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on.
 - After hitting level 200, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible.
 - Be patient when it comes to progression. CB is generally designed for late game/end game players, so don't kick yourself for not being able to contribute immediately. You'll get there.

@@ -142,6 +142,11 @@ Jack | Info
 ![](https://files.catbox.moe/4l4dz9.png)   | You've saved up enough money to treat yourself to a nice vacation in a cozy mountain town to enjoy one of their winter festivals. The only problem is that enjoying the celebrations by yourself is pretty lonely. As you sit around and sulk about it, a tall but kind-looking stranger reaches out to you. Seems like he wants to enjoy the festivities with you! Loosely inspired by [Snowman](https://www.youtube.com/watch?v=uSqG0DVVNhw).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jack-214c0b88),  [Catbox](https://files.catbox.moe/xihhtw.png)
 
+Araton | Info
+:----:  | :----: 
+![](https://files.catbox.moe/29r421.png)   | An angel boy has descended upon Earth with orders to punish sinners, a job he takes a little too much joy in by using his 40 foot tall body. That's it. That's the card.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/q2ouhk.png), [CAI](https://beta.character.ai/chat2?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

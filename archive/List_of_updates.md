@@ -2,7 +2,7 @@
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
-!!! warning Week 1 https://files.catbox.moe/4tykvq.zip. Next batch of saved pages : 11/08/2023 - there will be a new .zip file every week
+!!! warning Week 2 https://files.catbox.moe/3vl0xv.zip. Next batch of saved pages : 18/08/2023 - there will be a new .zip file every week
 
 [TOC]
 #####July 2023
@@ -58,3 +58,4 @@
 |11/08/2023|44|Mentions & Collabs|Addition of a 5 timestamps and a picture of the entire timeline for the major streamer-chat interactions done during Kiara's Minecraft HoloID Cup Practicing stream|
 |11/08/2023|45|Mentions & Collabs|Addition of the HoloTalk with Advent podcast stream with Kiara.|
 |12/08/2023|46|Mentions & Collabs|Addition of 6 timestamps with mentions from Kaela's Minecraft stream.|
+|12/08/2023|47|Changelog| J/ope/C Week 2 backup .zip file uploaded|

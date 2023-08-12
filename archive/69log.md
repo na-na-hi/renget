@@ -225,7 +225,7 @@ v1C
 v1D
 - G4 Fire Mid: Adjusted part of the stigma skill:
 Previous:  Ignited enemies take +20% more Fire DMG (independent multiplier, cannot stack)
-New: Ignited enemies take +20% more Fire DMG (independent multiplier)
+New: Ignited enemies take +20% more Fire DMG from the host (independent multiplier)
 - SSS Argent Knight: Fixed an issue where sometimes the stage is stuck after transition phase.
 - Hot on the Trail: Adjusted Argent Knight boss skill description
 - Hot on the Trail: Adjusted Hunting Instinct skill value for Elemental and Physical zone.

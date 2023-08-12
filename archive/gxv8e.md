@@ -247,3 +247,57 @@ Seconds
 >all that bragging and attitude
 >well you'd oblige, using your free hand to unzip your pants and pull them down
 >the noise made his ears twitched and he looked down expectantly
+
+>if he was going to fucking tease
+>well
+>you pulled your fingers out and used that hand to guide your dick
+>if he was going to dress like a girl he was getting railed like one
+>when you slid in you did so gently at first
+>then he realized you were going easy
+>he clicked his heels behind your back like a rider spurring a horse
+>"I know you're tougher than that."
+>well fine
+>be that way
+>you hilted in roughly and threw the word "buttslut" right back at him
+>you grabbed him by the thin waist and shocked him by picking him up, your dick still buried in him
+>"just want to make it clear I'm a buttslut and not a buttwhore"
+>your thrust wiped away that smart ass attitude
+>his hands went to grab a nearby tree as you sawed your cock in and out of the hedgehog boy
+>he'd get what he wanted
+>if he didn't want to sit down he wasn't going to sit down
+>you were using him like a fleshlight as he he barely held onto a tree
+>his own cock bouncing back and forth, the first of many loads splattering everywhere
+>so he was a buttslut
+>he'd just have to deal with it
+>if he was going to be a tease well, you were into furries now
+>the way he squeezed and thrust back into you made you thrust harder
+>his body was so tight and hot, practically burning 
+>you felt his body relax in your grip
+>he completely submitted and enjoyed himself
+>well he was definitely burning off energy today
+>every time he climaxed he threatened to push you over the edge
+>his outfit would probably be tatters but he was just wearing something girlier next time
+>eventually his arms gave out and his shoulders were in the grass
+>you just jackhammered down harder and harder
+>you felt mischievous and pointed his cock right towards his face when your efforts got a 3rd load out of him
+>goddamn this world might be an improvement
+>Sonic's blue fur was covered in streaks of white
+>his seed wasted across his own face
+>you could swear he was getting off to the emasculation 
+>getting punished for being so bratty
+>he reached up and touched at your stomach
+>a surprising amount of affection in such a small gesture
+>your thrusts pushed him hard into the grass, each one having your full weight behind it
+>another climax had his body shuddering and his hole grasping tighter on your manhood
+>that was enough to make you finally cum deep inside him
+>painting his insides instantly cleared your mind
+>you had the strength to set him down and lay on top of him
+>that lasted only a few seconds when you realized with how small he was by comparison to you
+>so you flipped around
+>the mess you planted in his stomach leaking out as he got his smirk back
+>"so~"
+>you were already dreading what ever he was going to say
+>he gently poked your forehead and 
+>"it's safe to say you think pink is my color, right?"
+>welp might as well enjoy the ride
+>you gripped his blue ass with both hands and got ready for another round

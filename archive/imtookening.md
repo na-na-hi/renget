@@ -3,6 +3,10 @@
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
+**Maëlys** ~1.8k Tokens, very expensive elf prostitute. Racist but tries to be professional, it'll slip eventually. Alternate intro message that adds lore but probably shouldn't be used, especially for Claude because he doesn't know what the fuck to do without having his hand held.
+I've been cooking this damn card since nearly mid June, between having to hunt proxies and some irl nonsense I haven't been able to keep up with the chaos. That being said, I think it turned out pretty good. She hates you but she's obedient, that was all I really wanted. Tested with a lot of clod and a little bit of turbo, GPT does better with the flipflopping personality shit but Claude is (was?) more willing to treat her like a skilled prostitute.
+![](https://files.catbox.moe/eaaiui.png)
+[*image source*](https://beta.sankakucomplex.com/post/show/13913684) [charhub](https://chub.ai/characters/hitogami/maelys-34ae080b)
 
 **Kikutsugami** ~1.2k tokens. Lonely lolibaba kitsune, totally unfamiliar with modern times. And her own. She's just hopeless. 
 Not totally SFW but I only baked a little bit of lewdness in to the defs. She's a pushover so you won't have to try hard anyway, bribe her with food or something. The extent of the lore for this card comes down to 'you accidentally freed her and now she's clingy.' more details in the example messages and defs. Slightly different flavor of dialogue between gpt4 and claude but they both have a good grasp on the idea, take your pick. ofuda pantsu.

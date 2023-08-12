@@ -46,24 +46,26 @@ aa: Nijongis visits, Rojoris visits
 150: Covernius and Auroia sire the first inhabitants of Aurorai: the auroras and the lesser deities (including Omega and Irys)
 200: Covernius sires the mortals from different lands and women
 350: Argument between Covernius and Auroia ensues after Auroia found out about the former's dalliances, they split off.
-360: Split between Covernius and Auroia ends, all of Covernius' children agreed to be housed in Aurorai
-365: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant.
-370: End of the Celes years, new era designated as Holomini
-1H: Polaria is formed
- a H Blancopolis is formed
-2H : Savan is formed
-a H: Jour De Nuit is formed
-a H: Atlantis is formed
-7 H: Negazion is formed
-16 H: The Neronian Secession
+400: Split between Covernius and Auroia ends, all of Covernius' children agreed to be housed in Aurorai
+865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant.
+866: The newly-settled mortals fan out for places to settle.
+1000: End of the Celes years, new era designated as Holomini
+***
+1H: Polaria is established.
+ a H Blancopolis is established.
+2H : Savan is established.
+a H: Jour De Nuit is established.
+a H: Atlantis is established.
+7 H: Negazion is established.
+16 H: The Neronian Secession happens after opposing groups of shamans argued about developing possibly dangerous spells.
 aa H: Nero Eterna is formed
 17 H: The Blue Anaconda tribe wins the Snake Wars
 aa H: After a decade and more of tribal war, the tribes unite under Blue Anaconda's chieftess Kondia, who names the new nation Anakonia, after herself and her tribe.
-40H: Seafarers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria
+40H: Explorers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria
 56H: Jour De Nuit renames to Diarnuit for ease of writing documents; The Divide is enacted, assigning elves, angels, fairies and similar to the eastern part, while dwarves, goblins, hobbits and other similar races were assigned to the western part.
-57H: The Council in Diarnuit is formally founded.
+57H: The Sky Council in Diarnuit is formally founded.
 62 H: The Avian Uprising happens
-101 H: The Avian Period ends, with a deal struck between the opposing sides to let the bird anthros occupy the northern island of Savan.
+101 H: The Avian Period ends, with a deal struck between the opposing sides to let the avian races occupy the northern island of Savan, under the recently-crowned Bolion Shishiro's rule.
 103 H: The Consejo de Azur is convened for the first time to have a cohesive government in the nation.
 135 H: Kizuna Ai is born.
 140 H: Negazion under Tyrannus Maopla launch an invasion into the rest of Aurorai
@@ -75,10 +77,10 @@ aa H: After a decade and more of tribal war, the tribes unite under Blue Anacond
 154 H: Diarnuit, Savan, Blancopolis, and Polaria join forces.
 aaa H: Negazion and Atlantis join forces
 aaa H: Coerce Cita Azur and Nero Eternalis to join them.
-220 H: Negazion loses Nero Eternalis
-235 H: Atlantis lost Cita Azur
-312 H: Kizuna Ai defeats Tyrannus Maopla at Blackstar Castle
-314 H: Diarnuit and Savan forces rout the last stand of Neptune Castle
+220 H: Negazion loses Nero Eternalis to Blanc and Polarian forces.
+235 H: Atlantis lost Cita Azur to Diarnuitian and Savanese forces
+312 H: Kizuna Ai defeats Tyrannus Maopla at the siege of Blackstar Castle.
+314 H: Diarnuitian, Savanese and Azurian forces rout the last stand of Neptune Castle.
 315 H: Last pockets of resistance eliminated
 316 H: The Sinking was enacted by the Celestium as punishment for Negazion and Atlantis, sinking the latter while reducing the former to an archipelago of barren wastelands.
 346 H: Kizuna Ai laid to rest after dying of old age and battle wear

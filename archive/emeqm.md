@@ -627,3 +627,140 @@
 >you wondered how his ass was
 >the urge to just up a switch was there but you both cumming put a halt on that 
 >you wearily enjoyed the afterglow, his gills working slightly against your cheek as he trembled in your arms
+
+>"that was a rush," he confessed
+>you assumed as much
+>his voice was ragged and you were shocked to see him start to gasp in deep breaths 
+>at first you thought Alex was just overwhelmed 
+>then an idea struck when you saw a slight spark of panic in his eyes
+>part shark
+>of course 
+>you let him down gently and ran the floor mounted mop sink in the closet 
+>it wasn't ideal but you figured he'd need something
+>he was showing signs of actual distress now
+>playing havoc with his genetics had to have some drawback and this was it
+>Alex realized what you were doing and dunked his head and neck into the sink
+>he took in deep gulps of water 
+>you stayed by his side and it seemed to be doing the trick 
+>his breathing returned to normal and you ran your hand over his back to comfort him
+>best to help him along
+>after a few minutes he slowly pulled away from the sink
+>"he had not exerted myself like that before. the hybrid DNA has a drawback in my case it seems."
+>he leaned against you, his wet hair dripping onto your legs
+>"thank you for the fast thinking."
+>you were just thankful you found this out in the janitor's closet 
+>the now shark man relaxed against your lap
+>"thank you for helping."
+>so he needed water if he was going to exert himself a lot
+>noted
+>you'd done the deed with a shark mutant
+>that hit you 
+>but it was still Alex in there
+>you ran your hand through his hair 
+>that part was still soft to the touch
+>you were trying not to think about how you weren't wearing pants and his face was right next to your crotch 
+>you weren't pushing for anything
+>you didn't want to get greedy 
+>instead, Alex pushed the issue
+>he moved and pressed his snout towards your crotch
+>you didn't jump in shock or anything
+>his tongue licked up the length as he slowly tasted you
+>he broke the worship to instruct you to sit in the basin
+>sure it was deep enough to be waist high if you awkwardly sat in it
+>but why
+>you did it without pause though
+>you have a feeling it had to do with the water
+>your legs dangled out of it and you felt ridiculous 
+>when his head vanished under the water once more you had your answer to the mystery 
+>his hands on your thighs felt strange
+>he wasn't completely rough on his palms thankfully
+>you did have a thought though
+>teeth
+>you had seen those teeth
+>he'd shown you enough documentaries about said teeth
+>those teeth
+>around your dick
+>you debated whether you should allow lust to win over reason here
+>he meant well
+>but even before the transformation he could be a little clumsy with his blowjob
+>now he had a smile full of steak knives
+>would a slice make him go apeshit like a feeding frenzy?
+>then his soft broad tongue worked over the shaft of your cock
+>reasoning was losing
+>he breathed under the water as he worked, his loose hair like a black octopus spreading tendrils everywhere
+>he didn't have to do much to fit your cock in his mouth
+>with his new form he could swallow you in one gulp
+>you relaxed in the cool water and tried not to worry about teeth
+>watching his ass casually sway with that new tail was helping
+>maybe Alex would let you go all the way with him now
+>that thought had all but drowned out teeth concerns
+>he had an awkward time blowing you now with his new more but there was effort behind it
+>his warm tongue contrasted nicely with the water
+>soon you were throbbing against his licks
+>when you gripped his hair you realized under the inky mop of hair, his eyes were locked up and watching you
+>his tongue worked over your dick, your balls, and even the spot right below
+>was he savoring you?
+>his hands gripped your thighs as he felt you buck up
+>your second orgasm was closer than your first and then when he started striking you with a hand you truly lost it
+>a load shot deep down his throat as you groaned out his name
+>all the while his eyes looked up at you
+>only when you were tapped out did he pull his head up
+>"I wondered if the changes affected my senses in new ways. Taste is lessened, smell heightened."
+>well you guessed it was good he still wanted to play doctor
+>"watching the electricity surge through you on orgasm was most satisfying however."
+>that had you curious
+>he caught your raised eyebrow and realized he should explain
+>he recognized that look 
+>"I explained before the 'sixth sense' that sharks have. how to describe it first hand eludes me at the moment."
+>he sat back, lost in thought as he went over it
+>"I can 'see' without my eyes. everyone is electrical pulses thanks to a nervous system. seems to have a limit in the vicinity however."
+>he just gulped down your load and he was going over research 
+>he sat on the floor half naked musing over things
+>you'd had enough of the water and pulled yourself up
+>a nearby towel wasn't in the best shape but it would do
+>he had his glasses held to his head again and he was muttering over results from this latest "experiment"
+>he tensed up when you used another towel to dry his hair
+>so he needed water to breath when things got heated
+>you stood over his as you softly dried his hair
+>he mulled over the details of his new biology silently now
+>you did however ask why he was just now figuring out his new body?
+>you'd figured he would want to experiment right away
+>"I wanted to share it with you in particular. you seemed to appreciate my work more than most. it felt right."
+>was that a little confession?
+>maybe the closest you'd get
+>he looked at his hand in silent contemplation 
+>you were satisfied he was dry but you allowed him the time to think
+>"I have done irreversible damage to myself. if you want to walk away, the opportunity is there."
+>your response was nonverbal
+>you crouched behind him and wrapped your arms over his shoulders, clasping him into a hug
+>that seemed to get through to him and he adjusted his glasses silently
+>you made a note to figure out a fix for that
+>"if you wish to stay we can explore further later."
+>so you could possibly get laid
+>at least that was something to look forward to
+>"we can use the hot tub in the executive's part of the building."
+>wait
+>those guys gave themselves a fucking hot tub? 
+>you picked Alex up by his armpits
+>he was light in your hands
+>that much didn't change 
+>though the tail added a few pounds
+>"you are more affectionate than I reasoned with the situation. I appreciate it."
+>you embraced him from behind and he ceased studying himself to lean back to you
+>his hand ran over your arms
+>at least he was him
+>you couldn't help but start kissing along his neck
+>"as much as I would prefer we continue, I have work to do."
+>you had to ask what needed doing?
+>"I am worried about getting caught unawares"
+>Gensyn?
+>"among others."
+>you were curious
+>"if I go further, if I take all of the this to its logical conclusion, will you still be here? with me?"
+>Alex avoided looking over his shoulder, focused on the ground
+>you didn't quite understand what he meant by that
+>but you wouldn't have left before
+>there's no reason to leave now
+>"I am giving you every opportunity to stay out of this and you keep wanting to stay. why?"
+>you loved him
+>that reply gave him pause
