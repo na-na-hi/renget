@@ -275,3 +275,13 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 **Korone**
 -A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
 >Home: Savan
+
+#### Chapter 7
+
+**Lamy**
+
+-Hailing from Argennian nobility, Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+>Home: Diarnuit
+
+**Botan**
+-After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan

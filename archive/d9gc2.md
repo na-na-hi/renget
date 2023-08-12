@@ -78,8 +78,14 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
 |:D|  【TASTE TEST】 Trying Japanese Snacks !!! お菓子の試食 |[Link](https://www.youtube.com/watch?v=uTavTLA9Oac)|Tasting stream and zatsu.|
+|Bae| ≪JUST CHATTING≫ very long overdue zatsu  |[Timestamp](https://www.youtube.com/watch?v=GwNQYK6rkyg&t=2868s) | Rrat sub-manager has been taking care of her sickness.|
 
 **Day 22 - 2023-08-09**
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
 |Mumei, Bae, Mori, Kronii|  ≪HOLOLIVE ENGLISH 1ST LIVE WATCHALONG!≫ Idols be Idolling | [Link](https://www.youtube.com/watch?v=TxZZxzLcG5I)|Off-collab watchalong party at Mori's place. Mumei and Kronii arrived late due to studio reps.|
+
+**Day 25 - 2023-08-12**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D| 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! | [magnet](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| First unarchived she did in Japan. Been busy for the past few days.|

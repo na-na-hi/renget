@@ -114,9 +114,9 @@
 - To use the search function, you'll need to sign up.
 - [URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
 
-### 🧲 [snowfl](https://snowfl.com/)
-- This torrent aggregator distributes software, movies, games, ebooks, TV programmes, and music via other torrent search engines.
-- [URL Safety Results](https://www.urlvoid.com/scan/snowfl.com/)
+### 🧲 [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org/)
+- With a recognizable UI and additional functions, it was created to honor what RARBG previously was.
+- [URL Safety Results](https://www.urlvoid.com/scan/therarbg.com/)
 
 ### 🧲 [Torrent Downloads](https://www.torrentdownloads.pro/)
 - Sizable torrent database with an extensive catalog featuring a diverse range of media and well-seeded.

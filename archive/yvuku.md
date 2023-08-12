@@ -131,6 +131,15 @@ http://twitch.tv/denpafish
 Kiyomi Pyon-Pyon, or Kiki for short is an adorable autistic Aussie chuuba. She's a wicked bright, and super sweet girl with a passion for animals and her champyons!
 https://www.youtube.com/c/KikiCh-
 https://twitter.com/bunnyonvt
+>mugi
+cult leader, denpa and ryona enthusiast little sister. streams on the same channel as older sister
+https://www.twitch.tv/maikyua
+https://twitter.com/Maikyua
+https://www.youtube.com/channel/UCSmgeorzXa5ht-PKyFr8vhA
+>yuiidere
+creepy bunny imouto parasite
+https://www.twitch.tv/yuiidere
+https://twitter.com/yuiidere
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko

@@ -2,6 +2,7 @@
 [TOC3]
 ###Nick/Amelia
 >Nick, Vulpix (M), Calm
+>Age:  mid-twenty-something/"Young Adult"
 >- One of those people that would've been considered "gifted" as a child, and then burnt out *hard*.
 >    - As a human, was stuck in a dead-end job, and felt generally ineffectual.
 >    - Views this as an opportunity to do new things that he never had a chance to, but worried he's eventually just going to return to old habits. 
@@ -15,6 +16,7 @@
 >- **Garb**: Multiple storage options when on an expedition, usually at least a pair of (size-appropriate) saddlebags and a pouch/toolband on his right foreleg. Also usually a blue scarf (kerchief) with a green clover marking.
 
 >Amelia, Shinx (F), Quiet
+>Age:  mid-twenty-something/"Young Adult"
 >- Comes from a small village/tribe of Luxray in the Grass Continent's Amp Plains.
 >    - Area is having a rough go of it due to the demands of several competing tribes and the increasingly encroaching mystery dungeons as well.
 >    - Has a lot of practical knowledge due to her upbringing, but not much booksmarts.
