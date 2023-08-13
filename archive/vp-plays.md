@@ -378,4 +378,6 @@ https://arch.b4k.co/vp/thread/54188603/ 10 fucking niggers
 https://arch.b4k.co/vp/thread/54194744/ 11 bugs in anus
 https://arch.b4k.co/vp/thread/54202836/ 12 thread died due to FUCKING NOTHING being revealed by game freak
 https://arch.b4k.co/vp/thread/54220517/ 13 niggers in britain
-https://arch.b4k.co/vp/thread/54234176/ 14
+https://arch.b4k.co/vp/thread/54234176/ 14 why can't we just shoot him?
+https://arch.b4k.co/vp/thread/54233079/ 15 where the fuck is writefag
+https://arch.b4k.co/vp/thread/54252144/ 16 nigga moments

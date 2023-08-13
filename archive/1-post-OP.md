@@ -10,16 +10,14 @@ For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Nerissa's POV for the current collab
-https://www.youtube.com/watch?v=VRdVncNa0FE
 \>Upcoming stream
-https://www.youtube.com/watch?v=0Q9FLtcAY0s
+https://www.youtube.com/watch?v=5BdUa7aAgnM
 \>Past Stream
-https://www.youtube.com/watch?v=qzOjBoa9vls
+https://www.youtube.com/watch?v=0Q9FLtcAY0s
 
-\>Upcoming cover of PinoccioP - God-ish / 神っぽいな
+\>Cover of PinoccioP - God-ish / 神っぽいな
 https://www.youtube.com/watch?v=s0jypGHFbnA
-\>First cover - Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
+\>Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
 https://music.youtube.com/watch?v=RWU3o_kDixc
 \>Rebellion (Hololive English -Advent- Debut Song)
 https://music.youtube.com/watch?v=pYNYhSsR8EE

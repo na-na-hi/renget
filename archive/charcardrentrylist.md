@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png), [Ayato](https://files.catbox.moe/op172p.png)|[Ayato](https://files.catbox.moe/op172p.png) [MV], [Aimee](https://files.catbox.moe/neyv9r.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png), [Yasuhiro](https://files.catbox.moe/8gsrey.png)|
@@ -27,7 +28,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Gaston](https://files.catbox.moe/7pii9f.png), [Tyana and Lycia](https://files.catbox.moe/4b8cnv.png), [Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Noah](https://files.catbox.moe/dgqa6t.png), [Tristan](https://files.catbox.moe/box4ab.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Boo](https://files.catbox.moe/cbphzi.png)|[Boo](https://files.catbox.moe/cbphzi.png) [MV]
-[123123232](https://rentry.org/g2u47) | Sizeplay |[Ayato](https://files.catbox.moe/op172p.png)|[Ayato](https://files.catbox.moe/op172p.png) [MV], [Aimee](https://files.catbox.moe/neyv9r.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc |[Helm](https://files.catbox.moe/f33gnx.png), [Amelia Richards](https://files.catbox.moe/25vmnz.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Silvya](https://files.catbox.moe/rb5gtq.png)|
@@ -65,8 +65,8 @@ Botmaker | Category | New Bots | Updated Bots
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
