@@ -20,12 +20,12 @@
 ###Instructions:
 !!! danger Do not sample previews. Completely useless and a waste of time. You should instead learn the graphs within Tensorboard. You want to quickly start at a good d\*lr then smoothly go down for the most part.
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger ==OPTIONAL:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want (recommend leaving on 1200) and wait for the scheduler to reach eta_min (set to 0.5 here) then stop training.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
+!!! danger ==OPTIONAL:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want (recommend leaving on 1200) and wait for the scheduler to reach eta_min (set to 0 here) then stop training.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! note ```Results should never get overtrained after more steps if Prodigy doesn't inflate the LR by a lot.``` You could even train for the entirety of those 31337 epochs and still have a good result.
 !!! warning ```Even if you can train for longer I do not recommend it. iA3 learns extremely fast, if it doesn't then it's an LR issue, you want high LR at the start, it is crucial.```
 !!! danger ==IMPORTANT:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.``` ==Recommend letting Prodigy do whatever it wants as long as it is within 0.02-0.01 starting LR and doesn't spike like crazy.==
 !!! warning If you increase weight_decay you can afford having a lot higher d\*lr. example: weight_decay 0.5, d\*lr 0.05
-!!! danger  ==OPTIONAL:== ```Adjust weight_decay. It has a regularization effect that prevents you from ruining training, use as little as you possibly can for your dataset and d*lr, normally you don't have to use it at all as long as your d_coef is set right and apart from that it is only needed when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! danger  ==OPTIONAL:== ```Adjust weight_decay or add in regularization images and use prior_loss_weight. They have a regularization effect that prevents you from ruining training, use as little as you possibly can for your dataset and d*lr, normally you don't have to use these at all as long as your d_coef is set right and apart from that it is only needed when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! info Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! note ==OPTIONAL:== Set ```resolution higher if you want to, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
@@ -34,7 +34,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=1200\" \"T_mult=1\" \"eta_min=5e-0\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=1200\" \"T_mult=1\" \"eta_min=0e-0\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,

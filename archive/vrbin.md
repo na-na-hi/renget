@@ -200,9 +200,12 @@ Over here!
 Everyone has their reason (reloading, ironsights, general feel/speed, tons of gore, the author, etc)...
     ...but ultimately, nobody should care. Cause, well, >opinions
 
-**Soundfonts?**
-Doomkid: [Combining Soundfonts and Using Them](https://www.youtube.com/watch?v=tm620oCA9iY)
-[Soundfont Comparison 1](https://www.youtube.com/watch?v=2Mefb9UvwZU), [Comparison 2](https://www.youtube.com/watch?v=LFWBqUK4G_Q), [Comparison 3](https://www.youtube.com/watch?v=OfztYSgRTmg)
+**What are soundfonts?**
+Music in Doom is in MIDI format, which means you can change how the individual instruments sound. A soundfont file is a collection of such instruments.
+Doomkid covers this topic in the the following video;
+[Improve DOOM Music! MIDI Soundfont Tutorial w/ VirtualMIDISynth](https://www.youtube.com/watch?v=tm620oCA9iY)
+Comparisons of different soundfonts:
+[Comparison 1](https://www.youtube.com/watch?v=2Mefb9UvwZU), [Comparison 2](https://www.youtube.com/watch?v=LFWBqUK4G_Q), [Comparison 3](https://www.youtube.com/watch?v=OfztYSgRTmg)
 
 **Other pastebins**
 Hosting with BE tutorial: https://pastebin.com/XLeN2pxe

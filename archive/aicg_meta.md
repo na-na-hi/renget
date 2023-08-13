@@ -56,7 +56,7 @@ Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 | NovelAI API   | ✅        | ✅   | ✅    | ⛔       |
 | Scale         | ✅        | ⛔   | ✅    | ⛔       |
 | Poe           | ⛔        | ⛔   | ⛔    | ⛔       |
-| Slaude        | ✅ (fork) | ⛔   | ✅    | ⛔       |
+| Slaude        | ⛔        | ⛔   | ✅    | ⛔       |
 | Horde         | ✅        | ✅   | ✅    | ⛔       |
 | Oobabooga     | ✅        | ✅   | ✅    | ✅       |
 | OpenRouter    | ✅        | ✅   | ✅    | ⛔       |
@@ -66,6 +66,8 @@ Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 | Palm2 API     | ⛔        | ✅   | ⛔    | ⛔       |
 | Novelist API  | ⛔        | ✅   | ⛔    | ⛔       |
 | Mancer API    | ✅        | ⛔   | ✅    | ⛔       |
+
+Slaude works on local Agnai and Risu, or might work using localtunnel/ngrok/etc.
 
 ## Frontend (features)
 
@@ -78,21 +80,21 @@ Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 | **Image caption** |⛔|? |✅(ext) | ⛔|
 | **Image generation** | Horde, Stable Diffusion, NAI | Stable Diffusion | (ext) Horde, Stable Diffusion )|Stable Diffusion |
 | **Summary** |⛔| OAI/Claude | HF/OAI/Claude |⛔ |
-| **Screenshot** |✅|⛔ |⛔ |⛔ |
+| **Screenshot** |✅|✅ |⛔ |⛔ |
 | **TTS** | Web Speech Synthesis, 11labs, NAI | Web Speech Synthesis, 11labs, VOICEVOX | 11labs, Silero, System, Edge, Coqui, NAI | 11labs, Azure, NAI |
 | **STT** |✅| ⛔| ⛔| ⛔|
 | **Emotion packs** |⛔|✅|✅|✅|
-| **Scenes** |⛔|⛔| ⛔|✅|
-| **Embeddings** |✅| ?| ✅(ext)| ⛔|
+| **Scenes** |⛔|✅| ⛔|✅|
+| **Embeddings** |✅| ✅| ✅(ext)| ⛔|
 | **Character sprites** |✅| ⛔| ⛔| ⛔|
 | **UI styling** |✅|✅|✅|✅|
 | **Bias** |⛔|✅| ✅|?|
-| **AI writes for you** |🌱(add a card with your name as character participant) |✅ (auto-suggest)| ✅ (impersonate)|?|
+| **AI writes your message** |🌱(add a card with your name as character participant) |✅ (auto-suggest)| ✅ (impersonate)|?|
 | **Translation** |? |✅|✅ | ? |
 | **Lorebooks** |✅|✅| ✅| ?|
 | **Regex search and replace** |⛔ |✅| ✅|⛔ |
 | **Phone use** |✅|✅|🌱|?|
-| **CYOA** |✅| ⛔|⛔ |⛔ |
+| **CYOA** |✅| ✅ (trigger feature)|⛔ |⛔ |
 
 - Only agnai has support for choosing which character speaks at any time in multi-user rooms, although on the flipside it doesn't support fully automatic mode
 - (ext) means you have to install [the Silly extras](https://github.com/Cohee1207/SillyTavern-extras#modules). They can be a little complicated to setup for non-technical users.

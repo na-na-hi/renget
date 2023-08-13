@@ -9,39 +9,48 @@ Always announce when you're making the next thread, so we're avoiding doubles.
 For the xth time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
-
-\>Upcoming stream
+\---
+\>Streams
+Upcoming stream
 https://youtu.be/pGQBbTk164s
-\>Past Stream
+Past streams
 https://www.youtube.com/watch?v=5BdUa7aAgnM
 https://www.youtube.com/watch?v=0Q9FLtcAY0s
-
-\>Cover of PinoccioP - God-ish / 神っぽいな
+\---
+\>Songs
+Cover of PinoccioP - God-ish / 神っぽいな
 https://www.youtube.com/watch?v=s0jypGHFbnA
-\>Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
+Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
 https://music.youtube.com/watch?v=RWU3o_kDixc
-\>Rebellion (Hololive English -Advent- Debut Song)
+Rebellion (Hololive English -Advent- Debut Song)
 https://music.youtube.com/watch?v=pYNYhSsR8EE
-\>Debut Stream
-https://www.youtube.com/watch?v=gg3SrFzHn9M
-\>Debut Merch
-https://rentry.org/nerissa_ravencroft_merch
-
+\---
 \>Useful Links
 YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
-Art Tag: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
+Art Tags: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
+Merch: https://rentry.org/nerissa_ravencroft_merch
 Previous thread: >>
-
+\---
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
-----------
 
-!!!Warning Second Post
+!!!warning Second OP Post
 
-
-\>Thread Tools
+\>Introduction
+Debut Stream
+https://www.youtube.com/watch?v=gg3SrFzHn9M
+Crunchyroll Interviews
+https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
+https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
+\---
+\>Tools
+/ope/'s library (the stream curated page and the membership page aren't up yet)
+https://rentry.org/joint_operation_center0
+Nerissa's Sounds
+https://rentry.org/c793m
+Schedule
+https://twitter.com/nerissa_en/status/1690750320773644288
+https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OP
-Joint /ope/rations Center (/ope/'s library that is still relatively bare-bones - also needs an official name)
-https://rentry.org/joint_operation_center0

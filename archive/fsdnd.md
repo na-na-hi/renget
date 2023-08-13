@@ -69,7 +69,7 @@
 /(?=.\*stop posting)(?=.\*go back where you came from)/ims;boards:trash;op:no
 /(?=.\*fuck outta here(\\.|,))(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|n[e\*]w[a-z]|t(|w)eenage))/ims;boards:trash;op:no
 /(?=.\*slow)(?=.\*hmofa)(?=.\*(chimp|vermin|phoneposting|adolescent|underage|twerp|chimp|maggot|worm|cretin|insect|spawn|scum|(|discord )z[o0][o0]mer|t(|w)eenage))/ims;boards:trash;op:no
-/back to the pit(,|\\.)/i;boards:trash;op:no
+/back to the pit(,|\\.|$)/i;boards:trash;op:no
 /don't post pornographic (content|images)/i;boards:trash;op:no
 /we only had one drawfag/i;boards:trash;op:no
 /(^|\d\n)It's only going to get worse(\\.|$)/i;boards:trash;op:no

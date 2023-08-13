@@ -38,7 +38,7 @@
 
 > The bold, albeit cold one of the group. He ensures that karma flows naturally and the mortals are rewarded or punished for their works. He is credited with inspiring most, if not all of Aurorai's legal constitutions and penal codes. His true form rivals that of Covernius in musculature, but his hair is a bold shade of red instead of his gold. He stands in armor consisting of heavy pauldrons flowing into a battle worn cape and similarly heavy looking bracers and leg armor. Where Covernius has flowing designs, he has rough ones, to convey the hard justice that can befall a mortal. He wields a huge steel gavel that can be used as a warhammer or a magical sceptre.
 
-
+***
 ### Aurorai's History
 
 (aaa: same year)
@@ -78,23 +78,26 @@ aa H: After a decade and more of tribal war, the tribes unite under Blue Anacond
 140 H: Negazion under Tyrannus Maopla launch an invasion into the rest of Aurorai
 141 H: Nero Eternalis is occupied by Negazion
 143 H: Polaria and Blancopolis declare war on Negazion
-144 H: Atlantis attacks Diarnuit
+aaa H: The Valkyries are formed by the Polarian King, with Kizuna Ai as leader.
+144 H: Atlantis attacks Diarnuit, bribes Anakondia.
 145 H: Atlantis forms an alliance with Negazion, Diarnuit and Savan jointly declare war on Atlantis
-150 H: Cita Azur occupied by Atlantis
+150 H: Cita Azur occupied by Atlantis.
 154 H: Diarnuit, Savan, Blancopolis, and Polaria join forces.
-aaa H: Negazion and Atlantis join forces
+aaa H: Negazion and Atlantis join forces, Anakondia stays "neutral". (But just really accepting who benefits them better)
 aaa H: Coerce Cita Azur and Nero Eternalis to join them.
 220 H: Negazion loses Nero Eternalis to Blanc and Polarian forces.
 235 H: Atlantis lost Cita Azur to Diarnuitian and Savanese forces
 312 H: Kizuna Ai defeats Tyrannus Maopla at the siege of Blackstar Castle.
 314 H: Diarnuitian, Savanese and Azurian forces rout the last stand of Neptune Castle.
 315 H: Last pockets of resistance eliminated
-316 H: The Sinking was enacted by the Celestium as punishment for Negazion and Atlantis, sinking the latter while reducing the former to an archipelago of barren wastelands.
+316 H: The Sinking was enacted by the Celestium as punishment for Negazion and Atlantis, drowning the majority of both nations.
+***
 346 H: Kizuna Ai laid to rest after dying of old age and battle wear
 aaa H : Fallen Star Graveyard constructed
 347 H: Kizuna declared a hallowed figure by all of Polaria
 350 H: Phoenixes and Dragons break away peacefully from Diarnuit
 351 H: Stadt Des Feuers is formed, with Kohryu as its first leader.
+501 H: Last of the Polarian Valkyries dies in peace.
 582 H: Guild Tempus is formed with Polaris Tempest as its first Guild Leader.
 593 H:  Sora Tokino is born.
 610 H: King Covigo ascends the throne from his father, the former King Covaki.
@@ -124,7 +127,7 @@ aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of 
 #### Polaria
 ***
 Capitol: Holopolis
-Current ruler: King Covigo(7th)
+Current ruler: King Covigo(16th)
 Established: 1 H
 
 >Found in the center of Aurorai, Polaria is home to the biggest amount of mortals in the land, a big percentage of such being humans. Has a temperate climate excellent for farming or city life. Throughout the Holomini years, the country's leaders have enjoyed their inputs being followed by the rest of Aurorai. They also have appointed their own Hand, a trusted ally to oversee the daily operatjons of the castle and assisting the King/Queen. Kizuna Ai and the First Knights from the olden days of The Great Aurorai War trace their origins here. Polaria is reputed as the place to make it big although its cities may be too busy for someone not too used to them. Units hailing from here are Sora, Shion, Noel, Temma, Luna, Miko and Amelia, as well as most of Guild Tempus.
@@ -133,7 +136,7 @@ Established: 1 H
 #### Savan
 ***
 Capitol: Lionsgard
-Current Ruler: Queen Botan Shishiro(12th)
+Current Ruler: Queen Botan Shishiro(14th)
 Established: 2 H
 
 >The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 72 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The King or Queen has a Council of their own choosing guiding her decisions, which still exists until this day . Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Savan has Territories that make up the land. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
@@ -200,6 +203,8 @@ Established: 7 H
 The main cast of the game. The Guardians are your key to averting this crisis and bring peace to Aurorai once more.
 
 >Characters are ordered and grouped according to order of appearance.
+
+***
 
 #### Prologue
 
@@ -321,14 +326,19 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Chapter 9
 
 **(!)Kronii**
--A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
-She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland.
+-A spear flier obsessed with perfection and herself. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
+She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland. Her time as Warden may have contributed to her dour and sarcastic outlook in life, but despite this, she still can be sweet about people she cares about. Contrary to her imposing demeanor, she can be emotional. 
 >Home: Blancopolis
 
 #### Chapter 10
 
 **Haato**
+-A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato and the enemy would be looking to harness the dark side at their command.
+Home: Polaria
+
 **(!)Ollie**
+-Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her home in Nero Eterna. Above all, she proves to be smart and heartful despite both malfunctioning for her physically.
+>Home: Nero Eterna
 
 #### Chapter 11
 

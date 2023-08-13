@@ -34,3 +34,7 @@ https://files.catbox.moe/miuzw6.png
 ![Roman](https://files.catbox.moe/kq9990.png)
 *Roman, aloof street urchin and your partner-in-crime.*
 https://files.catbox.moe/kq9990.png
+
+![Aiko](https://files.catbox.moe/td6o2r.png)
+*Aiko, zealous revolutionary with an androgynous figure. Either get inducted in her circle, plan your next moves with her, or 'play around' with her as an interrogator, all in three different greetings!*
+https://files.catbox.moe/k9fxiz.png
