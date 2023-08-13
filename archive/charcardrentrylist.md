@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Lisa](https://files.catbox.moe/5y6nkd.png), [Marii](https://files.catbox.moe/fqp4aw.png), [Raccy](https://files.catbox.moe/sjiqx4.png), [Hotaru](https://files.catbox.moe/d8irat.png), [Valerie](https://files.catbox.moe/vwjrq9.png), [Lila and Mia](https://files.catbox.moe/mjlqbe.png), [Yoshiko](https://files.catbox.moe/6rdesz.png), [Paula](https://files.catbox.moe/rn8vvi.png), [Butcher Pete](https://files.catbox.moe/o8svff.png), [Makoto](https://files.catbox.moe/3us6nm.png), [Queen Anastasia](https://files.catbox.moe/9i8nam.png), [Camellia](https://files.catbox.moe/mduf90.png), [Kanae](https://files.catbox.moe/66ev6w.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Franky](https://files.catbox.moe/aj8ine.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png), [Noah](https://files.catbox.moe/dgqa6t.png), [Tristan](https://files.catbox.moe/box4ab.png)|
 [Frozenvan](https://rentry.org/frozenvan) | Misc |[A BLADE STORY 2 PHASMAGORIA OF TWILLIGHT EMBRACE](https://files.catbox.moe/kdohgg.png)|
@@ -26,15 +27,16 @@ Botmaker | Category | New Bots | Updated Bots
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png), [Yasuhiro](https://files.catbox.moe/8gsrey.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kinflit](https://files.catbox.moe/et5wkp.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[The Narrator](https://files.catbox.moe/dhidbz.png), [Louis](https://files.catbox.moe/rples4.png)|[The Narrator](https://files.catbox.moe/dhidbz.png) [MV], [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png), [Louis](https://files.catbox.moe/rples4.png) [MV]
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[The Narrator](https://files.catbox.moe/dhidbz.png)|[The Narrator](https://files.catbox.moe/dhidbz.png) [MV], [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png)
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Polly](https://files.catbox.moe/mswkp8.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Gaston](https://files.catbox.moe/7pii9f.png), [Tyana and Lycia](https://files.catbox.moe/4b8cnv.png), [Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Boo](https://files.catbox.moe/cbphzi.png)|[Boo](https://files.catbox.moe/cbphzi.png) [MV]
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc |[Helm](https://files.catbox.moe/f33gnx.png), [Amelia Richards](https://files.catbox.moe/25vmnz.png)|
-[Kirbish34](https://rentry.org/kirbish34) | Misc |[Silvya](https://files.catbox.moe/rb5gtq.png)|
+[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
+[Kirbish34](https://rentry.org/kirbish34) | Misc ||
 [Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
@@ -47,7 +49,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
-[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||
@@ -93,7 +94,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... ||
 [Arkane](https://rentry.org/arkanebots) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Ddo-Reu](https://rentry.co/Ddo-Reu) | Misc ||

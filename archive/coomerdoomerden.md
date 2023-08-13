@@ -56,6 +56,7 @@ https://files.catbox.moe/ijm05r.json
 The magnificent Lobsterchan allowed me to help her with one of her bots, check her out!
 ![Anastasia](https://files.catbox.moe/050d3i.png)
 https://www.chub.ai/characters/LobsterJea/4f2fdbe9-4fde-4b20-b25f-f69576e6d320
+https://rentry.org/lobsterchan#anastasia-the-cruel-queen
 ***
 ###Backgrounds
 Sometimes I feel like creating SD Backgrounds for SillyTavern, I also take requests.

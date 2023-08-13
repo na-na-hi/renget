@@ -13,8 +13,7 @@
 	Added Chuubas: Nekomiya Hinata, Ophelia Midnight, Nanase Eru, Yousa Ling, Civia, Azusa, Li Dousha, Hizuki Rurufu, Doris, Mahiru, Shinomiya Runa, OkuriSae, LumiVSinger, Park Dona, Nekomata Okayu, Artia, Cchan, Vesperbell Yomi, Katya, Reine, Amemori Sayo, Sophia Valentine, Sonii, Amiya Aranha, Coni Confetti, Fuyo Cloverfield, Poko Rakun, Roca Rourin, Punkalopi, Akatsuki Ban Mai, Sansin Jin, Mayumi, Yua
 	Updated Chuubas: Miki
 !!! info Planned v1.3 Updates
-	Rescale/transparent the logos (most of them are huge while others are tiny)
-	Add Rosedoodle's Lora (v2 in the works)
+	Rescale/transparent the logos (✓) - WIP! Still have to fix a few issues with Production Kawaii, VOMS, 774 Inc, Meridian Project, LITMEDIA and Nijigen Logos.
 	Add Generations/Group info (next to name to tell which gen they are apart of)
 	More Loras! MORE UPDATES..?
 
@@ -23,7 +22,7 @@
 ## -> Agencies <-
 
 ### -> Hololive <-
--> ![HOLOLIVE](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fc/Hololive_production_Logo.png/revision/latest?cb=20200519001500) <-
+-> ![HOLOLIVE](https://files.catbox.moe/yryvkr.png) <-
 ***
 !!! note While HLL has holo's baked into it, it can't do outfits as well for the early chuubas. Read the notes.
 
@@ -127,7 +126,7 @@
 -> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ) <-
 
 ### -> Nijisanji <-
--> ![NIJISANJI](https://static.wikia.nocookie.net/virtualyoutuber/images/0/08/Nijisanji_Logo_%28Global%29.png/revision/latest?cb=20210924182923) <-
+-> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
 !!! note While HLL has niji's baked into it, it can't do everyone perfectly. Read the notes.
 
@@ -271,7 +270,7 @@
 -> [Civitai](https://civitai.com/models/16765/zaion-lanza-locon-loras) <-
 
 ### -> Production Kawaii <-
--> ![PRODUCTION KAWAII](https://static.wikia.nocookie.net/virtualyoutuber/images/6/63/Kawaii_-_Logo.png/revision/latest?cb=20210426220253) <-
+-> ![PRODUCTION KAWAII](https://files.catbox.moe/4nnxhg.png) <-
 ***
 #### -> Nene Amano <-
 !!! note Recommended weight: 1
@@ -280,7 +279,7 @@
 -> [Civitai](https://civitai.com/models/72286) <-
 
 ### -> Phase-Connect <-
--> ![PHASE-CONNECT](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Phase-Connect_-_Logo.png/revision/latest?cb=20210619095648) <-
+-> ![PHASE-CONNECT](https://files.catbox.moe/m0y3ka.png) <-
 ***
 !!! Credit goes to /pcg/ loras and pcg-invaders lora rentry's!
 
@@ -390,7 +389,7 @@
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/AdhiWIhQ) <-
 
 ### -> VShojo <-
--> ![VSHOJO](https://static.wikia.nocookie.net/virtualyoutuber/images/6/61/VShojo_Logo_-_New.svg/revision/latest?cb=20210820092923) <-
+-> ![VSHOJO](https://files.catbox.moe/35i05q.png) <-
 ***
 #### -> Amemiya Nazuna <-
 !!! note Recommended weight: 0.8
@@ -406,7 +405,7 @@
 -> [MEGA](https://mega.nz/folder/sShj1LpS#Zh5ZxGO3uwK4QEaZ2X6z1w/folder/gLwn0KDZ) <-
 
 ### -> Tsunderia <-
--> ![TSUNDERIA](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/Tsunderia-Logo.png/revision/latest?cb=20210517192635) <-
+-> ![TSUNDERIA](https://files.catbox.moe/tk8w65.png) <-
 ***
 #### -> Amiya Aranha <-
 !!! info Her spider legs are somewhat RNG
@@ -428,7 +427,7 @@
 -> [MEGA](https://mega.nz/folder/IfhWWJoC#kI-DbIIs7N960N345Gb1Nw/folder/NThQnAaQ) <-
 
 ### -> Prism Project <-
--> ![PRISM PROJECT](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b7/PRISM_Project_-_Logo.png/revision/latest?cb=20210521202700) <-
+-> ![PRISM PROJECT](https://files.catbox.moe/0uafwq.png) <-
 ***
 #### -> Miyoshino Shiki <-
 !!! note Recommended weight: 0.7
@@ -449,7 +448,7 @@
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/NNogCYZb) <-
 
 ### -> Idol Corp <-
--> ![IDOL](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9e/Idol_corporation_logo.png/revision/latest?cb=20220312090425) <-
+-> ![IDOL](https://files.catbox.moe/me68yc.png) <-
 ***
 #### -> Coni Confetti <-
 !!! note Recommended weight: 0.7
@@ -514,7 +513,7 @@
 -> [Catbox](https://files.catbox.moe/omfpwl.safetensors) <-
 
 ### -> VERSEⁿ <-
--> ![VERSEN](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f0/VERSE%E2%81%BF_-_Logo.png/revision/latest?cb=20220630030650) <-
+-> ![VERSEN](https://files.catbox.moe/jc81dx.png) <-
 ***
 !!! warning THE LINK IS THE SAME FOR EVERYONE BELOW, SINCE ITS A FULL AGENCY LORA
 #### -> Alba Sera <-
@@ -548,7 +547,7 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/oahXhKZS) <-
 
 ### -> Voms <-
--> ![VOMS](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/VOMS_Logo_2nd.png/revision/latest?cb=20210912081908) <-
+-> ![VOMS](https://files.catbox.moe/gzajly.png) <-
 ***
 #### -> Amano Pikamee <-
 !!! warning  DO NOTE THIS IS A LYCORIS/LOCON SO YOU WILL HAVE TO USE THE LYCORIS EXTENSION https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris OR UPDATE TO SD 1.5.0 
@@ -580,7 +579,7 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/5W4hVIoJ) <-
 
 ### -> 774 inc <-
--> ![Nanashiinku](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f9/774_Inc._Logo.png/revision/latest?cb=20230320163541) <-
+-> ![Nanashiinku](https://files.catbox.moe/y72xo4.png) <-
 ***
 #### -> And Uge <-
 !!! note Recommended weight: 0.8
@@ -607,7 +606,7 @@
 -> [Civitai](https://civitai.com/models/16652/sougetsu-eli) <-
 
 ### -> EIEN Project<-
--> ![EIEN](https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/EIEN-Project-YT-Logo.jpg/revision/latest?cb=20230329010957) <-
+-> ![EIEN](https://files.catbox.moe/0oi7ca.png) <-
 ***
 #### -> Riifu Evergreen <-
 !!! note Recommended weight: 0.7
@@ -616,7 +615,7 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/sG5hTTKK) <-
 
 ### -> VSPO! <-
--> ![VSPO](https://static.wikia.nocookie.net/virtualyoutuber/images/8/87/VSPO_new_logo-global.png/revision/latest?cb=20221231165119) <-
+-> ![VSPO](https://files.catbox.moe/kg3m4l.png) <-
 ***
 #### -> Ichinose Uruha <-
 !!! info Contains all outfits
@@ -644,7 +643,7 @@
 -> [Civitai](https://civitai.com/models/88956/yakumo-beni-vspo) <-
 
 ### -> Univirtual <-
--> ![UNIVIRTUAL](https://files.catbox.moe/3hq3ix.png) <-
+-> ![UNIVIRTUAL](https://files.catbox.moe/9ktpbm.png) <-
 ***
 #### -> Shiratama Utano <-
 !!! note Recommended weight: 0.7
@@ -653,7 +652,7 @@
 -> [Civitai](https://civitai.com/models/119741/shiratama-utano-univirtual-vtuber) <-
 
 ### -> Meridian Project <-
--> ![MERIDIAN PROJECT](https://files.catbox.moe/zxrr9a.png) <-
+-> ![MERIDIAN PROJECT](https://files.catbox.moe/km705l.png) <-
 ***
 #### -> Mizuki <-
 !!! note Recommended weight: 0.7
@@ -662,7 +661,7 @@
 -> [Civitai](https://civitai.com/models/27443/mizuki-meridian-project-vtuber) <-
 
 ### -> ProPro Production <-
--> ![PROPRO PRODUCTION](https://static.wikia.nocookie.net/virtualyoutuber/images/6/6f/Propro_Production_Logo.jpg/revision/latest?cb=20210714115055) <-
+-> ![PROPRO PRODUCTION](https://files.catbox.moe/nqehhd.png) <-
 ***
 #### -> Hanakumo Rin <-
 !!! note Recommended weight: 0.7
@@ -671,7 +670,7 @@
 -> [Civitai](https://civitai.com/models/26394/hanakumo-rin-propro-production-vtuber) <-
 
 ### -> vReverie <-
--> ![VREVERIE](https://static.wikia.nocookie.net/virtualyoutuber/images/2/26/VReverie_logo.png/revision/latest?cb=20230409202252) <-
+-> ![VREVERIE](https://files.catbox.moe/8qi38g.png) <-
 ***
 #### -> Aokami Nova <-
 !!! note Recommended weight: 0.5
@@ -686,7 +685,7 @@
 -> [Civitai](https://civitai.com/models/121020/ophelia-midnight-vreverie) <-
 
 ### -> Project SP <-
--> ![PROJECT SP](https://static.wikia.nocookie.net/virtualyoutuber/images/d/df/PSP_Logo.png/revision/latest?cb=20210629064153) <-
+-> ![PROJECT SP](https://files.catbox.moe/w78az8.png) <-
 ***
 #### -> Li Dousha <-
 !!! note Recommended weight: 0.8
@@ -701,7 +700,7 @@
 -> [Civitai](https://civitai.com/models/18976/xingxiseki-psp) <-
 
 ### -> Varium <-
--> ![VARIUM](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9c/Varium_logo.png/revision/latest?cb=20221019024341) <-
+-> ![VARIUM](https://files.catbox.moe/3xrii5.png) <-
 ***
 #### -> Nanase Eru <-
 !!! note Recommended weight: 0.8
@@ -710,7 +709,7 @@
 -> [Civitai](https://civitai.com/models/24599/nanase-eru-varium-vtuber) <-
 
 ### -> LITMEDIA <-
--> ![LITMEDIA](https://files.catbox.moe/8dykth.png) <-
+-> ![LITMEDIA](https://files.catbox.moe/x4h76z.png) <-
 ***
 #### -> Park Dona <-
 !!! note Recommended weight: 1
@@ -719,7 +718,7 @@
 -> [Civitai](https://civitai.com/models/121539/park-dona-vtuber-lora) <-
 
 ### -> NIJIGEN Project <-
--> ![NIJIGEN PROJECT](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d0/NIJIGEN_LOGO.png/revision/latest?cb=20210716015413) <-
+-> ![NIJIGEN PROJECT](https://files.catbox.moe/u17vb3.png) <-
 ***
 #### -> Akatsuki Ban Mai <-
 !!! note Recommended weight: 0.4
@@ -728,7 +727,9 @@
 -> [Civitai](https://civitai.com/models/121724/akatsuki-ban-mai-or-vtuber) <-
 
 ### -> Indies <-
--> ![YOUTUBE](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png) OR ![TWITCH](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-twitch/contentbuilder/logo-final_DkOO8q1.svg) <-
+-> ![YOUTUBE](https://files.catbox.moe/frpo6u.png) <-
+-> **OR** <-
+-> ![TWITCH](https://files.catbox.moe/vkg6jm.png) <-
 ***
 #### -> Ai Candii <-
 !!! note Recommended weight: 0.85

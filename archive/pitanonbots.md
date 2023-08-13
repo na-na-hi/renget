@@ -67,8 +67,12 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 ###Claude RP Prompts
 #XML Prompt Set
--> **Updated: 09/08/2023** <-
-!!!DANGER Based on https://rentry.co/CharacterProvider-VersionHistory#beta-v8
+-> **Updated: 13/08/2023** <-
+!!! Prompt list: https://files.catbox.moe/dmutus.json
+!!!DANGER Delete your Author's Note and edit the Persona prompt instead of using the tab if you use the prompt list, also change the new chat field to "[Role-play starts]"
+
+
+-> **Based on https://rentry.co/CharacterProvider-VersionHistory#beta-v8** <-
 #Main
 ```
 # SCENARIO

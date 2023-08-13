@@ -1,4 +1,4 @@
-!!! note Last Updated: 2023/08/08
+!!! note Last Updated: 2023/08/13
 
 ->![/vr/ FAQ](https://i.imgur.com/ZQBoUWe.png)<-
 
@@ -199,6 +199,10 @@ Over here!
 **Why do people love/hate Brutal Doom**
 Everyone has their reason (reloading, ironsights, general feel/speed, tons of gore, the author, etc)...
     ...but ultimately, nobody should care. Cause, well, >opinions
+
+**Soundfonts?**
+Doomkid: [Combining Soundfonts and Using Them](https://www.youtube.com/watch?v=tm620oCA9iY)
+[Soundfont Comparison 1](https://www.youtube.com/watch?v=2Mefb9UvwZU), [Comparison 2](https://www.youtube.com/watch?v=LFWBqUK4G_Q), [Comparison 3](https://www.youtube.com/watch?v=OfztYSgRTmg)
 
 **Other pastebins**
 Hosting with BE tutorial: https://pastebin.com/XLeN2pxe

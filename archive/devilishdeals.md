@@ -173,3 +173,39 @@
 >"...Do you think I'm cute Anonymous?"
 >shit what do you say to that
 >the owl sat there with an expectant look
+
+>well the Stolas looks terrifying, at first glance
+>but he had proven himself to be a good, yet clingy, companion
+>the way he reacts to the world could also contribute to his cuteness
+>he gravitates on parts of anime that are cute or comfy
+"I think you act cute?"
+>his eyes widened at your response
+"I'm sorry if that sounded like a question. But the way I see it you sort of carry yourself like a-"
+>don't say puppy don't say puppy
+"-child"
+>FUCK
+>Stolas pursed his (beak?) before turning towards the show with a dejection
+>"So you don't see me as an adult?"
+"No! No. What I mean is, the way you react to stuff common here, like this show, or the courses I'm taking, and even the way you talk about yourself."
+"I think it's endearing to see someone so happy about being himself."
+>he perked up from what you said and turned away
+>"D-Do you mean it? That it's cute for me to be myself?"
+>from your point of view, you don't see the creeping, blushing grin on his face
+"Sure, I guess."
+>he rubs his shoulder before clearing his throat
+>"I think I should leave for tonight Anonymous dear. Maybe we could catch up with show on a different night yes?"
+>you were a bit surprised on his sudden urge to leave
+"You're not staying?"
+>he pauses for a minute before speaking
+>"I'm afraid I important business to take care of"
+>Stolas says his goodbyes and leaves 
+>putting you all alone in a saturday night
+>you rub the bridge of your nose and hope you didn't say something wrong
+
+>Stolas laid down under the covers of the bed staring at the ceiling
+>sleep continued to elude him after what you said
+>he rubbed his face while trying to put down the growing heat on his cheeks
+>"Stolas you old fool."
+>it was one thing find someone react to his quirks and behaviors in a positive way
+>but to find him cute? 
+>his feathers ruffled at the mere thought

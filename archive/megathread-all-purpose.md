@@ -101,10 +101,6 @@
 - Software, movies, games, ebooks, TV shows, and music are all distributed through magnet links by this torrent aggregator.
 - [URL Safety Results](https://www.urlvoid.com/scan/magnetdl.com/)
 
-### 🧲 [RARBG DUMP INDEX](https://rarbg.best/)
-- As an index directory, the fallen RARBG is preserved, with all old and new public trackers added.
-- [URL Safety Results](https://www.urlvoid.com/scan/rarbg.best/)
-
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Russian UI
 - Prominent warez forum with news, discussions about many media genres, torrents, and magnet links is also available for downloading.
 - [URL Safety Results](https://www.urlvoid.com/scan/rustorka.com/)
@@ -113,10 +109,6 @@
 - Has a vast library with many different genres. Is well-seeded and regarded as the most comprehensive public tracker. 
 - To use the search function, you'll need to sign up.
 - [URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
-
-### 🧲 [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org/)
-- With a recognizable UI and additional functions, it was created to honor what RARBG previously was.
-- [URL Safety Results](https://www.urlvoid.com/scan/therarbg.com/)
 
 ### 🧲 [Torrent Downloads](https://www.torrentdownloads.pro/)
 - Sizable torrent database with an extensive catalog featuring a diverse range of media and well-seeded.
