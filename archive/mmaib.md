@@ -9,20 +9,26 @@
  The War of the Dark Aurorai
 
 
-### Foreword
+## Foreword
 
-> Aurorai started life as a proposed story to a very different fangame which the author was part of the writing team. The head honchos however, deemed his work too dark for the game. Humbled, he accepts the judgment, but thought that his draft would be a waste if he just trashed it. Then one day, he had an epiphany. Why not make a Fire Emblem mod with the story, he said. And so that day, the Aurorai we know is born.
+> Aurorai started life as a proposed story to a very different fangame which the author was part of the writing team. The head honchos however, deemed his work too dark for the game. Humbled, he accepts the judgment, but thought that his draft would be a waste if he just trashed it. Then one day, he had an epiphany. Why not make a Fire Emblem mod with the story, he said. And so that day, the Aurorai we know is born. In this guide, I shall guide you to everything there is to know about Aurorai. 
+
+>With that, enjoy!
+
+***
 
 ### The Celestium and Aurorai's Creation
 
 > The Celestium is a council of four deities who got together to create and keep watch over Aurorai. The continent is named Aurorai, after the auroras that dance around the night skies as the sign of favor of  The Celestium. Born from a great shift in the infinite seas, there arose a new and promising land full of potential. All four can take on any appearance they please, but they all have their true forms and can wield various weapons, according to their domain.
 
+***
+
 #### Covernius
-> Strong and just, all mortals of Aurorai owe their genealogy to him, even if its furthest removed. He is responsible for birthing the myriad kinds of mortals that inhabit Aurorai today, much to the chagrin of his true love and compatriot. He leads the deity quartet and his doctrine stands to this day as the prevailing moral guide amongst the land. His true form is a hulking, absolutely sculpted man with immaculate golden hair arranged in a neat manner. His face is chiseled like fine marble, with eyes made of white fire. He is wearing a cape attached to a small chestpiece, and bracers and leg armor colored white with a gold trim adorned with a divine design and triangles. He wears a crown on his head with yet another triangle and wield the Polaris Blade, a sword shaped after the popular depiction of the North Star.
+> Strong and just, all mortals of Aurorai owe their genealogy to him, even if its furthest removed. He is responsible for fathering the myriad kinds of mortals that inhabit Aurorai today, much to the chagrin of his true love and compatriot. He leads the deity quartet and his doctrine stands to this day as the prevailing moral guide amongst the land. His duties include going through the general state of Aurorai from the reports of his colleagues and his own observations. With such information, he formulates plans of action for Aurorai's greatest good. His true form is a hulking, absolutely sculpted man with immaculate golden hair arranged in a neat manner. His face is chiseled like fine marble, with eyes made of white fire. He is wearing a cape attached to a small chestpiece, and bracers and leg armor colored white with a gold trim adorned with a divine design and triangles. He wears a crown on his head with yet another triangle and wield the Polaris Blade, a sword shaped after the popular depiction of the North Star.
 
 #### Auroia
 
-> A nurturing woman, Auroia is essentially the mother of Aurorai. She is responsible for releasing auroras into the night sky as a sign that The Celestium watches over them. She is Covernius' true love and never leaves him, despite the many dalliances his lover had. She governs the skies above Aurorai and the day-night cycle. Her true appearance reflects the beauty of the night skies: black hair that streaks into blue and violet that sparkles with actual stars within, a motherly feminine figure and pale skin smoother than finest silk, topped off with a gentle face that has eyes change color on emotion. The auroras themselves manifest as her clothing, the dancing colors rippling across her bosom and her rear all the way to her legs. Her bracers are colored like dusk on the trim and dawn on the main. They emanate radiance whenver she moves her hands.
+> A nurturing woman, Auroia is essentially the mother of Aurorai. She is the one who named the land, after herself. She is responsible for releasing auroras into the night sky as a sign that The Celestium watches over them. She is Covernius' true love and never leaves him, despite the many dalliances his lover had. She governs the skies above Aurorai and the day-night cycle. Her true appearance reflects the beauty of the night skies: black hair that streaks into blue and violet that sparkles with actual stars within, a motherly feminine figure and pale skin smoother than finest silk, topped off with a gentle face that has eyes change color on emotion. The auroras themselves manifest as her clothing, the dancing colors rippling across her bosom and her rear all the way to her legs. Her bracers are colored like dusk on the trim and dawn on the main. They emanate radiance whenver she moves her hands.
 
 #### Nijongis
 
@@ -43,10 +49,11 @@
 aa: Auroia visits the landmass
 aa: Nijongis visits, Rojoris visits
 85: All 4 visit together, form The Celestium.
-150: Covernius and Auroia sire the first inhabitants of Aurorai: the auroras and the lesser deities (including Omega and Irys)
+144: Covernius and Auroia sire the first inhabitants of Aurorai: the auroras and the lesser deities (including Omega and Irys)
 200: Covernius sires the mortals from different lands and women
 350: Argument between Covernius and Auroia ensues after Auroia found out about the former's dalliances, they split off.
 400: Split between Covernius and Auroia ends, all of Covernius' children agreed to be housed in Aurorai
+512: The earliest mortals arrive in Aurorai.
 865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant.
 866: The newly-settled mortals fan out for places to settle.
 1000: End of the Celes years, new era designated as Holomini
@@ -97,8 +104,10 @@ aaa H: Additional members were later added
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade
 aaa H: Rumors abound that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate.
 618-622 H: The Order expansion continues, launching Second Brigade, the famed Fantasia Brigade, the Fourth Force Brigade, the Red Star brigade and the Bamboo Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
-620 H:The Red Coup happens, ending swiftly with then-Bishop Damaso forcefully ascending to Grand Pontifex.
-623 H: Vermel Darkstar ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
+619 H:The Red Coup erupts, then-Bishop Damaso leads the coup.
+620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in lighy of Damaso's men occupying Corte Blanca.
+623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Pollux to a fight to the death. for the throne of Negazion after Rojoris visits him privately in his chambers.
+aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
 624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Fourth Force Brigade.
 625-628 H: The Order gains widespread fame and adoration. Suntempo Knights and TriNero Knights established, Penta Brigade, widely acclaimed Mythos Brigade, and Poloro Brigade added.
 626H: Grand Hydra Karonda ascends the Anakondian throne
@@ -312,6 +321,9 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Chapter 9
 
 **(!)Kronii**
+-A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
+She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland.
+>Home: Blancopolis
 
 #### Chapter 10
 
@@ -323,12 +335,19 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 **Choco**
 **Kanata**
 **Towa**
-**Amelia**
-**Polka**
+**(!)Amelia**
+**(!)Polka**
 
 #### Chapter 12
 
 **Jenma**
 **Oga**
-**Astel**
-**Luna**
+**(!)Astel**
+**(!)Luna**
+
+#### Chapter 12x
+
+**Regis**
+**Magni**
+**Axel**
+**Vesper**

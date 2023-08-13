@@ -140,3 +140,36 @@
 >first he barges into your room, cries into your shoulder, and gives you a handy in the morning
 >then he puts his phone number on your contacts and is practically begging for you to do something that relates to him
 >you don't know where to blur the line between being in debt to a demon and being a shoulder to cry on to an emotionally broken owl
+
+>classes end and you head back to your dorm room
+>find stolas on your bed sniffing about
+>he sits up in surprise 
+>"A-Anon! You're already back!"
+>the owl runs up to you for an embrace
+>get a mouthful of floofy bird feathers
+>"Oh Anon! I had an awful day. First Blitzy refused to answer my calls, then my favorite soap opera was delayed for a day. A DAY!"
+>and so Stolas talked your ear off for the rest of the night
+>while still clinging on to you
+>you had to figure out a way to keep him off you
+>so you decided to introduce him to a medium you think hell never had
+>anime
+>open up your laptop and play one your favorite animes
+>it was a classic saturday monday romcom about a guy and a girl and their wacky adventures
+>stolas was basically hooked on the first episode
+>thanks to the fact he has two pairs of eyes so he can watch the show and the subtitles
+>he was glued to the screen which left you all alone with your phone for tonight
+>hopefully nothing can go wrong
+
+>Stolas would still visit you from time to time
+>now he would demand to watch "animays" show with you
+>apart from being forced into a cuddle position, it was actually nice to watch it with someone
+>this time it was another romcom (apparently he likes those) but this time the main love interest was a trap
+>at first he was confused on why the mc is freaking on about
+>so you had to explain what a trap is
+>"Oh, so it's a man dressing up like a woman, a crossdresser?"
+"Something to that extent. Well, traps usually lean into the more cuter side for their appeal."
+>"I see."
+>he sat silent for a moment before speaking
+>"...Do you think I'm cute Anonymous?"
+>shit what do you say to that
+>the owl sat there with an expectant look

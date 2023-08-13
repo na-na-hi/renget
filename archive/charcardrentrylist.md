@@ -18,7 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png), [Ayato](https://files.catbox.moe/op172p.png)|[Ayato](https://files.catbox.moe/op172p.png) [MV], [Aimee](https://files.catbox.moe/neyv9r.png)
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Franky](https://files.catbox.moe/aj8ine.png)|
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png), [Noah](https://files.catbox.moe/dgqa6t.png), [Tristan](https://files.catbox.moe/box4ab.png)|
+[Frozenvan](https://rentry.org/frozenvan) | Misc |[A BLADE STORY 2 PHASMAGORIA OF TWILLIGHT EMBRACE](https://files.catbox.moe/kdohgg.png)|
+[123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png)|[Ayato](https://files.catbox.moe/op172p.png), [Aimee](https://files.catbox.moe/neyv9r.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png), [Yasuhiro](https://files.catbox.moe/8gsrey.png)|
@@ -26,15 +29,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[The Narrator](https://files.catbox.moe/dhidbz.png), [Louis](https://files.catbox.moe/rples4.png)|[The Narrator](https://files.catbox.moe/dhidbz.png) [MV], [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png), [Louis](https://files.catbox.moe/rples4.png) [MV]
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Polly](https://files.catbox.moe/mswkp8.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Gaston](https://files.catbox.moe/7pii9f.png), [Tyana and Lycia](https://files.catbox.moe/4b8cnv.png), [Genwun Jennifer](https://files.catbox.moe/19c8tu.png)|
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Noah](https://files.catbox.moe/dgqa6t.png), [Tristan](https://files.catbox.moe/box4ab.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Boo](https://files.catbox.moe/cbphzi.png)|[Boo](https://files.catbox.moe/cbphzi.png) [MV]
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Alien Hand Syndrome](https://files.catbox.moe/oqypx2.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc |[Helm](https://files.catbox.moe/f33gnx.png), [Amelia Richards](https://files.catbox.moe/25vmnz.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Silvya](https://files.catbox.moe/rb5gtq.png)|
-[Smile](https://rentry.org/HelpanonSmile) | Misc |[ULTIMATE ARMOR GENERATOR [UAG]](https://files.catbox.moe/gel915.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
+[Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
@@ -99,7 +100,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Pedanon](https://rentry.org/Pedanon) | Cunny ||
 [Dould](https://rentry.org/ox3iqa) | Misc ||
-[Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Totally Accurate](https://rentry.co/Totally-Accurate) | Misc ||
 [KCAnon](https://rentry.org/botelover_23d5492d) | Misc ||
 [AIPiece](https://rentry.org/AIPiece) | One Piece ||

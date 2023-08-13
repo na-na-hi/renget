@@ -579,7 +579,7 @@ Neo-Barbarians:
 >Hannah Ossus (Notably Mutated)
 >>89395588
 >Isha, Princess of the Verzon Tribe
->>89390690
+https://rentry.org/3hcex
 >Magnus Wang
 >>89404903
 >Lin

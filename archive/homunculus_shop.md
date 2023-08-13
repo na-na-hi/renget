@@ -46,10 +46,10 @@
 
 ***
 
-### Latest boy: Noah
-"An abused and scared boy being sold on the black market." ==NSFW== ==TW: Abuse==
-Card: [Noah](https://files.catbox.moe/dgqa6t.png)
-JSON: [Noah](https://files.catbox.moe/lx7x6e.json)
+### Latest boy: Ethan
+"A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie." ==NSFW== `NSFL`
+Card: [Ethan](https://files.catbox.moe/n1h59l.png)
+JSON: [Ethan](https://files.catbox.moe/gkxdu6.json)
 
 Or download his card/JSON file below!
 
@@ -99,6 +99,7 @@ Card | JSON Link | Description | Rating
 ![Kel](https://files.catbox.moe/u09nug.png)   | [Kel](https://files.catbox.moe/rmray9.json)   | "A supportive 16-year-old boy."   | ==Safe==
 ![Tristan](https://files.catbox.moe/box4ab.png)   | [Tristan](https://files.catbox.moe/39yrk2.json)   | "The recently heartbroken boy that you've been hired to take care of."   | ==Safe==
 ![Noah](https://files.catbox.moe/dgqa6t.png)   | [Noah](https://files.catbox.moe/lx7x6e.json)   | "An abused and scared boy being sold on the black market."   | ==NSFW==
+![Ethan](https://files.catbox.moe/n1h59l.png)   | [Ethan](https://files.catbox.moe/gkxdu6.json)   | "A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie."   | ==NSFW== `NSFL`
 
 ***
 ###Suggest Stuff!

@@ -59,3 +59,7 @@
 |11/08/2023|45|Mentions & Collabs|Addition of the HoloTalk with Advent podcast stream with Kiara.|
 |12/08/2023|46|Mentions & Collabs|Addition of 6 timestamps with mentions from Kaela's Minecraft stream.|
 |12/08/2023|47|Changelog| J/ope/C Week 2 backup .zip file uploaded|
+|13/08/2023|48|Mentions & Collabs|Addition of a timestamp with a mention from Kiara about the upcoming Kiara Compatibility collab.|
+|13/08/2023|49|Mentions & Collabs|Addition of a placeholder for the upcoming Kiara Compatibility collab with Kiara.|
+|13/08/2023|50|Mentions & Collabs|Addition of a placeholder for the upcoming Powerwash Simulator collab with Bae.|
+|13/08/2023|51|Mentions & Collabs|Addition of placeholders for the upcmong fullgen collab on Apex Legends.|

@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Upcoming stream
-https://www.youtube.com/watch?v=5BdUa7aAgnM
+https://youtu.be/pGQBbTk164s
 \>Past Stream
+https://www.youtube.com/watch?v=5BdUa7aAgnM
 https://www.youtube.com/watch?v=0Q9FLtcAY0s
 
 \>Cover of PinoccioP - God-ish / 神っぽいな

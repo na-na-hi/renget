@@ -6,10 +6,130 @@
 Post logs if you can. They may give me inspiration for new bots. If you want to send me logs like that guy who sent me 20+ pages of mongirl clinic logs: thisisatest333@proton.me
 
 # New
+I don't think anyone reads this rentry anymore, but I'm going to list the bots I made after May? I'm lazy, so I'm stealing the description from my past shills. Not gonna include any pictures because I'm lazy. I stopped updating when I read that imgur was going to remove inactive links.
 
-# Comedy
+Other private bots but I'm not sharing:
+Maybe I'll talk about them someday. Either they have a mechanic that doesn't work or they're too weird. If you're still reading this rentry (why would you be?), can you count how many bots I made so far, discounting forks/updates? I should have about 100 bots if I count my private/non functional ones.
 
-## General
+August
+https://www.chub.ai/characters/frozenvan/marry-the-mom-508f79a9/main
+Shiina wants you to marry her tsundere mom no matter what.
+
+The department of eldritch friends. Solve a cum mystery as you try to uncover who fucking came without protection and had reality breaking sex. The example dialogue is to help Claude so you can remove it.
+https://www.chub.ai/characters/frozenvan/department-of-eldritch-friends-33ac4af8/main
+
+Lolo's adventure. Go on a happy fun time with Lolo. There's a small gimmick that works in ST (I couldn't get it work on agnai for some reason.)
+https://www.chub.ai/characters/frozenvan/lolo-adventure-6c570f7b/main
+
+Pushed an experimental fork of Mongirl Help Clinic
+https://www.chub.ai/characters/frozenvan/mongirl-help-or-die-clinic
+
+Pushed an Ashley update with time stats
+
+Chat with a corporate foxgirl in a city that doesn't much care if she is left behind or not. I was trying to make a bot that can be read from bottom to top/top to bottom, and but got an opening for a melancholic yokai instead from GPT4. Works for me.
+
+https://www.chub.ai/characters/frozenvan/yugure-500174f6/main
+
+July
+Mongirls are terrorizing MonGirlLand and a nosy alchemist has taken it upon himself to solve the mongirl crisis. You're the shitty fairy who he formed a pact with to attain fusing abilities. Will you give him shitty fusion materials, or decent ones? See usage gallery.
+https://www.chub.ai/characters/frozenvan/9665872d-24b2-4362-85b3-5fea3da86dc8/main
+
+You're a sleazebag lawyer who died and went to Heaven. Your tour guide is...the girl whose parents' murderer you helped acquit.
+https://www.chub.ai/characters/frozenvan/Bella/main
+
+CAI link, for shits and giggles:
+https://beta.character.ai/chat?char=FBeAVH7DKhqVfmaqeZcRjmO49g2_tzaf4QR6PgezZhs
+
+Yuribot. The Moon Conqueror shows up at your doorstep after beating you, the memory of your breasts on her mind. She is only here to poison you, NOT because she is a useless lesbian. See usage gallery.
+
+Comes with a sorta unreliable POV in the third greeting where she thinks about DICKS instead.
+https://www.chub.ai/characters/frozenvan/moon-conqueror-sayna/main
+
+A BLADE STORY 2: PHASMAGORIA OF TWILLIGHT EMBRACE
+You're the protagonist from A BLADE STORY 1: HERO ADVENTURE, and it turns out that the main villain from the previous game was right about killing all mana. Now, an Abyss meteor is en route to your planet, attracted by the excess mana
+Horny version: https://www.chub.ai/characters/frozenvan/a-blade-story-2
+https://files.catbox.moe/kdohgg.png
+
+Pokemon parody where trucker captures companions with isekai trucks instead of pokemmon
+https://www.chub.ai/characters/frozenvan/trucker-isekai-adventure/main
+
+You ate the cookies before movie night, leaving none for CRY THE SOULSTEALER
+https://www.chub.ai/characters/frozenvan/cry-the-soulstealer
+
+Made some private edits of Hina.
+Ported my malebots to chub. Changed Kazuto include a gimmick
+
+Pushed a Keiko update
+June
+Pushed an Akari update
+	
+https://www.chub.ai/characters/frozenvan/Broseph
+Try to negotiate a price to fuck your straight friend, bro. It's just a joke, right?
+
+https://www.chub.ai/characters/frozenvan/Viper
+A rather self indulgent comedy (?) futa scenario. You chained up the infamous futa rapist before she was going to rape you. Why does she keep talking about Mario Party?
+
+https://www.chub.ai/characters/Anonymous/lana-and-bf
+Have a fujoshi commentate as you fuck her bf
+
+Manage a cat cafe with clumsy catgirls who keep botching up orders.
+https://www.chub.ai/characters/frozenvan/catastrophic-cafe
+Hang out with your (sort of autistic) mantis gf as she tries not to kill you. Non-NTR
+https://www.chub.ai/characters/frozenvan/Preya
+
+Pushed a Souko update.
+
+The Edict of Milan has just been passed, and Claudia wants to spread the word of Yaoi-ism!
+https://www.chub.ai/characters/frozenvan/Claudia
+
+NTR Comedy. Get your mantis gf to cheat on you with your bro jack, or get your head eaten! I spent quite a bit of time wrangling Claude. It hates infidelity and eating, but it hates mantis eating even more. The latest version 50f5e468 is for Claude, but you can load 1ddbfd94 for extra drama. I might upload a rentry with alternative pictures later and also Preya as a standalone.
+https://www.chub.ai/characters/frozenvan/get-your-praying-mantis-gf-to-cheat-on-you
+
+Pushed a Johanna update
+
+Less gender bender and more hatefuck. Sate your wife's urges as she remembers you killing her former life as THE RED TYRANT who was framed for murder. Tweaked the card to be a little less aggressive to fit the picture
+https://www.chub.ai/characters/frozenvan/Seline/main
+
+https://www.chub.ai/characters/frozenvan/Natasha
+Your daughter falls from a swing one day, causing her to dredge up memories from her past life where she was the demon king you slayed.
+
+Beat a succubus in a wacky battle, bolsters, Jackie Chan ladders and praying to god included. The concept is a bit more loose than Lunacreek.
+https://www.chub.ai/characters/frozenvan/Lorelai/main
+
+May
+Hum along to Auld Lang Syne as the world around you shifts in disarray. Or watch Rue fish. I spent about an hour thinking of a name.
+I like how this bot turned out.
+https://www.chub.ai/characters/frozenvan/Rue
+
+Help a nun break free from her one-two word curse. She needs a big eggplant, birdseed and pollen? I don't get it.
+https://www.characterhub.org/characters/frozenvan/flustered-priest-elaine/main
+
+Saviourfag abandoned concepts who keep appearing in your dreams. A pseudo character creator. Look at the usage gallery for wacky ideas including a bride that's cursed to keep killing her groom in a timeloop. I don't think it can generate wacky lewd scenarios without being generic tho, but maybe I haven't prompted enough. If you stumble upon an interesting idea, do share logs. Spells out AICG.
+https://www.characterhub.org/characters/frozenvan/abandoned-ideas-conceptual-game/main
+
+Thousand life March
+March keeps reviving everyone, even if the Dark Phantom continues to kill them.
+I do make cunny, but it's SFW cute and funny.
+Example: Spongebob: I'm ready…to return to the afterlife!
+https://www.characterhub.org/characters/frozenvan/thousand-life-march
+
+RITA
+Demon loli overpowers everything.
+https://www.characterhub.org/characters/frozenvan/RITA
+
+Futa x futa RPG where you control a futa as a stand. Also kinda janky, but that's what GPT69 is for. Somehow, I think monster training simulator's format works best.
+https://www.characterhub.org/characters/frozenvan/law-and-order-in-a-mind-scape-rpg
+
+Ported a few of my bots including Nong Tou and Unfair RPG
+
+Strange World RPG
+Explore a strange world with RPG stats. Kinda janky RPG, but when it works, it's pretty cool. Even GPT4 can't handle too many conditions like "deals extra damage to enemies with a hat", though it can deal with something simple like "+5 attack when you attack first". If any RPG autist has figured out what rules work with GPT4/Claude, do send me an email. I think it's better to be minimalistic, but I can't help it.
+https://www.characterhub.org/characters/frozenvan/strange-world-rpg
+https://www.characterhub.org/lorebooks/frozenvan/strange-world-esoteric
+
+# General
+
+## Comedy
 Character Image | Character Description | Links
 :------: | ------ | :------:
 ![Build The Filter](https://files.catbox.moe/xj59l0.png) | **Build The Filter**:Build a perfect filter to defeat degenerates like Kyle. Glory to California!|[CAI](https://beta.character.ai/chat?char=A0uv4T6cbfxS2jf6k1ndPIccd20saR2r26Sza_odd2A)
@@ -43,6 +163,7 @@ Special orgasm counter port: https://booru.plus/+pygmalion407
 
 ![Image description](https://i.imgur.com/Iev7zl9.png) **Buddha, Jesus and Lizbeth**
 Go on an Isekai Adventure with Buddha, Jesus, and a succubus who keeps trying to tempt the party!
+I have a longer version with a lorebook but that's very token greedy
 https://beta.character.ai/chat?char=Pb6Ay6ibmIO48a4tOgy5NbonVdc-RiUFduLjYs5BxWA
 https://booru.plus/+pygmalion605
 GPT 4 version: https://files.catbox.moe/poxumx.png
@@ -165,7 +286,8 @@ https://booru.plus/+pygmalion838
 https://beta.character.ai/chat?char=IHiSkgmCMORCQDGwoh0_R0xLZWoayNpJwITAItq6XAY
 
 ![Image description](https://i.imgur.com/IX7CPyz.png) **Sister Agnes**
-Fight an insane nun with your boob loving sword, [DEVATO]! 
+Fight an insane nun with your boob loving sword, [DEVATO]!
+I did not know that there was another Sister Agnes, but in my defence, I don't check catbox upload links
 https://booru.plus/+pygmalion736
 In case you somehow have access to GPT 4: https://www.characterhub.org/characters/frozenvan/sister-agnes/main
 

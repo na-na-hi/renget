@@ -1,6 +1,8 @@
 # /bag/ Newfag guide
 How to play the game for the completely retarded. Not just a reroll guide. Scroll to the bottom for my last edit date.
 
+Going on vacation, if I don't update after a month I'm dead.
+
 [TOC] 
 
 ##Top Tips 

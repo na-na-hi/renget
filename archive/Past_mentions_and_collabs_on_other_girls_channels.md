@@ -9,6 +9,8 @@
 |---|---|---|
 |02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou|
 |07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) |
+|14/08/2023 | Kiara Compatibility |Kiara|
+|16/08/2023 | PowerWash Simulator |Bae|
 |Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
@@ -29,6 +31,7 @@
 |06/08/2023|[Timestamp](https://youtu.be/Woa7VSeNqZ0?t=26364)|**Streamer-chat interaction** - Back-and-forth respond about a possible drawing solo stream or a collab with Kiara during the month of August.|
 |11/08/2023|[Timestamp #1](https://youtu.be/yvSlrIZeSRc?t=9879) [Timestamp #2](https://youtu.be/yvSlrIZeSRc?t=10470) [Timestamp #3](https://youtu.be/yvSlrIZeSRc?t=13620) [Timestamp #4](https://youtu.be/yvSlrIZeSRc?t=14520) [Timestamp #5](https://youtu.be/yvSlrIZeSRc?t=16052)|**Mentions & Streamer-Chat interactions** - Back-and-forth interactions with Kiara during her Minecraft stream. A fair chuck of those were related to the upcoming HoloTalk podcast with Advent and the possibilty of a 4-men collab on Baldur's Gate with Mori and Bijou [Timeline](https://files.catbox.moe/w760vk.png)|
 |12/08/2023| [Link](https://www.youtube.com/watch?v=0Q9FLtcAY0s) | **Podcast / Zatsudan** - Holotalk with Advent.|
+|13/08/2023|[Timestamp](https://youtu.be/60dP0VxEdIA?t=5386)| **Mention** - Explanation on the first collab with Nerissa|
 
 ######Ina
 |Date|Link|Nature & Notes|
@@ -68,6 +71,7 @@
 |31/07/2023|[Link](https://www.youtube.com/watch?v=hy6HD6t8XhE)| **Collab** - First ever HoloAdvent Group collab (with Shiori, Bijou and the FUWAMOCO Twins)|
 |04/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=9YsuHwyYGes)| **Collab** - Second HoloAdvent Group collab on Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=KgpiuAin1XM))|
 |11/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=VRdVncNa0FE)| **Collab** - Third HoloAdvent Group collab on Earth Defense Force 6 (with [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=DC8VQsff7sA))|
+|18/08/2023|[Nerissa's POV](-)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](-) and the [FUWAMOCO Twins](-)) - Shiori was absent|
 
 #####Hololive EN's Channel
 |Date|Link|Nature & Notes|
