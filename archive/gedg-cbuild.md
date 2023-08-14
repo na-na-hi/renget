@@ -170,18 +170,18 @@ People often skip step by step compilation without ever trying it once.
 
 THIS IS BAD!
 
-When we discuss libraries later, we'll see the importance of stopping the build process before the linking stage. Of course, now that you understand that the compiler had these different stages, there is no harm running
+When we discuss libraries later, we'll see the importance of stopping the build process before the linking stage. Of course, now that you understand that the compiler has these different stages, there is no harm running
 	
 ```bash
 gcc main.c
 ./a.out
 ```
 
-to do all four steps, run the program, and print the same result. For our purposes, if there is anything you need to take away from this, it's that it is useful to understand how to stop the build process before the linking stage.
+to do all four steps and then run the program, printing the same result. For our purposes, if there is anything you need to take away from this, it's that it is useful to understand how to stop the build process before the linking stage.
 	
 ### CMake
 
-In order to make the compilation process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. I won't go through creating makefiles from scratch, but we'll use CMake to create makefiles for us.  
+In order to make the build process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. I won't go through creating makefiles from scratch, but we'll use CMake to create makefiles for us.  If you want an idea of how a makefile works, you can look at an example with C++ [here](https://youtu.be/_r7i5X0rXJk). For an in depth look, I refer you to the official [GNU Make documentation](https://www.gnu.org/software/make/manual/).
 
 CMake involves the use of high-level 'targets' that represent libraries and binaries as well as our own custom targets. To get our feet wet, we should try using CMake for the most basic of examples. First lets clean up what we built with gcc.
 
@@ -427,7 +427,13 @@ rm -r src/bacon/cake/pizza
 
 ## One Function Static Library
 
-The thing is, we still haven't touched on how great CMake is when using a library! This should be quick, we are going to reuse all the C code from earlier, and just move things around. In your projects directory 
+Before moving forward I highly recommend watching the video below. In particular, watch it to get an idea about what libraries are and how we use them.
+
+https://youtu.be/JbHmin2Wtmc
+https://youtu.be/\_kIa4D7kQ8I
+https://stackoverflow.com/a/9688536
+
+We are going to reuse all the C code from earlier, and just move things around. In your projects directory 
 
 ```bash
 mkdir sumlib && cd sumlib
@@ -447,13 +453,13 @@ What we are going to be making is a static library. The idea is to seperately co
 After copying the files make sure you are in ```sumlib``` before we start. First lets make the object file for our entry point; so we need to stop before the linking stage in the build process. Do you remember how we did things in the 'Howdy World' program?
 
 ```bash
-mkdir obj
+mkdir bin obj
 gcc src/main.c -c -I lib/include -o obj/main.o
 ``` 
 
 Remember, we include ```add.h``` in ```main.c``` as if they were in the same directory, so we have to use the flag ```-I```.
 
-To build a library we archive all the library's object files (in this example we only have one) together with ```ar```.  If you've ever compressed a file into a zip,rar or whatever, this should be somewhat familiar. People like to make libraries out as these weird esoteric things, but this is really all we are doing here.
+To build a library we archive all the library's object files (in this example we only have one) together with ```ar```.  If you've ever compressed a file into a zip,rar or whatever, this should be somewhat familiar. 
 
 ```bash
 gcc lib/src/add.c -c -I lib/include -o obj/sum.o
@@ -465,23 +471,34 @@ An important rule of C libraries is that they must start with 'lib'! For a stati
 Now we can link it! To link a library, use  the ```-l``` flag followed by the name of the library. To tell the compiler where to find libraries, use the ```-L``` flag.
 
 ```bash
-mkdir bin
 gcc obj/main.o -L obj -l sum -o bin/add
 ```
-Note that when we want to link  'libsum.a' we just type out 'sum'. Now runwith ```./bin/add``` to see some high level math. 
+Note that when we want to link  'libsum.a' we just type out 'sum'.  Because we linked a static library, the library code has been incorporated into our binary. If we want we can get rid of it and all the other object files.
+
+```bash
+./bin/add
+ls obj
+rm obj/main.o obj/sum.o
+./bin/add
+ls obj
+rm -r obj
+./bin/add
+```
+
+The program will run all three times. Keep this in your head for when we move on to shared libraries after this next CMake section.
 
 ### CMake
 
 Now copy the build script from the earlier project```sum/build.sh```  into  ```sumlib/build.sh``` and clean up.
 
 ```bash
-rm -r bin obj
+rm -r bin
 ```
 
 The way we'll handle things is by creating two CMakelists files, a main file and a file in the ```lib``` directory.
 
 ```bash
-touch CMakelists.txt lib/CMakelists.txt
+touch CMakeLists.txt lib/CMakeLists.txt
 ```
 
 The contents are
@@ -508,6 +525,82 @@ target_link_libraries(app sum)
 ```
 
 The CMakeList file in the directory ```lib``` creates a CMake library target. Then we tell the main CMakeLists file where to find the other file with ```add_subdirectory```. The last two lines of the main file tells us where to find the libraries and which libraries to link. This should remind you of the ```-L``` and ```-l``` gcc flags.
+
+```bash
+./build.sh
+./bin/add
+```
+yields the familiar result. Take a peak in ```build/lib``` and you should see the library. Try deleting it and running the program again to see that the program still runs. Keep this in mind for the next section.
+
+## One Function Shared Library
+
+In your project directory duplicate the static library project
+
+```bash
+cp - r sumlib/shared_sumlib/
+cd shared_sumlib/
+```
+
+### gcc
+
+This is a Linux leaning guide, so in this gcc section we'll just cover shared libraries (.so) and not dlls. We start by compiling main.o.
+
+```bash
+mkdir obj bin
+gcc src/main.c -c -I lib/include -o obj/main.o
+```
+Next we create the shared library.
+
+```bash
+gcc lib/src/add.c -c  -fPIC -I lib/include -o obj/sum.o
+mkdir bin/shared
+gcc -shared obj/sum.o -o  bin/shared/libsum.so
+```
+Compare this to the similar step when creating the static library. Note that we use .so instead of .a, that we use gcc with the ```-shared``` flag instead of ```ar```, and finally notice that we use the flag ```-fPIC``` (position-independent code). Then we link the shared lib.
+
+```bash
+gcc obj/main.o -L bin/shared -l sum -o bin/add
+```
+Now if you are overeager and try running ```./bin/add``` you will get the following error:
+
+```bash
+./bin/add: error while loading shared libraries: libsum.so: cannot open shared object file: No such file or directory
+```
+That is because we need to indicate where the shared library is unless it is installed in some default location (like /usr/lib, for example). Try ```echo $LD_LIBRARY_PATH```, we need to set this environment variable to where our lib is. Try running the following in the command line and compare it to the static lib version of our lib.
+
+```bash
+LD_LIBRARY_PATH=$(pwd)/bin/shared ./bin/add
+rm -r obj
+LD_LIBRARY_PATH=$(pwd)/bin/shared ./bin/add
+rm -r bin/shared
+LD_LIBRARY_PATH=$(pwd)/bin/shared ./bin/add
+```
+The program only works the first two times. Unlike a static lib, we need the shared library at runtime!
+
+### cmake
+
+Now clean up from the previous section.
+
+```bash
+rm -r bin
+```
+
+We need to edit the the library CMakelists file that we copied over from the static lib project.
+
+```lib/CMakeLists.txt```
+```CMake
+add_library(sum  SHARED src/add.c)
+target_include_directories(sum PRIVATE include)
+```
+
+So easy, all we did is add 'SHARED' ! On Windows this will create a dll instead of a  non-Windows (.so) shared library.
+
+```bash
+./build.sh
+./bin.sh
+```
+
+And just like that we go from a program with static linking to one with dynamic linking! Take a peak in ```build/lib``` and you should see the library. Try deleting it and running the program again to see that the program won't run. Compare this to when we deleted the static library previously.
 
 ## Howdy Window with raylib
 
@@ -578,5 +671,5 @@ Note: Be careful, in this case the sub-directory and library have the same name.
 I didn't want this tutorial to be too long (at least not for those early drafts), but I'll add things as the ideas come to me.
 
 TODO : 
-* Dynamic Libraries
 * Preprocessor stuff, in particular defining macros with gcc and CMake. Maybe give an example on how to set up a build and debug configuration with a logger.
+* System libraries and find_package()

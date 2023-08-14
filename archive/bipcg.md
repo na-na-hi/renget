@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>The Ukraine shoots down 100% of incoming missiles and drones over Odessa
+https://files.catbox.moe/mkwycd.mp4
+https://files.catbox.moe/5gqmi0.mp4
+https://files.catbox.moe/2b73ok.mp4
+https://files.catbox.moe/f3alhl.mp4
+https://files.catbox.moe/n3f2kd.mp4
+https://files.catbox.moe/tok2y5.mp4
+>The 85th brigade of 2nd Army Corps (LNR) give hohol absolute hell in Klesheevka area
+https://files.catbox.moe/50cu51.mp4
+>Suicide drones hunting for Ukrainian reconnaissance team
+https://files.catbox.moe/079mjt.mp4
+https://files.catbox.moe/5wc0pf.webm
 >22nd Spetsnaz brigade take out Leopard with ATGM near Rabotino
 https://files.catbox.moe/obclia.mp4
 >Rabotino complilation

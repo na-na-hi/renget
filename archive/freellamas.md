@@ -1,10 +1,10 @@
 # HUFFLEPUFF!
 
-#### Currently serving:
+#### Currently serving: None, paused to improve.
 
-**Model:** **MythoMax-l2-13b scaled to 8k**
+**Model:** ~~**MythoMax-l2-13b scaled to 8k**~~
 
-Blocking API URL: ```https://joshua-managers-desert-infrared.trycloudflare.com```
+Blocking API URL: ```N/A```
 
 **System prompt:**
 ```

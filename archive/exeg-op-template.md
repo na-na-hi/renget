@@ -29,9 +29,6 @@ https://docs.google.com/document/d/1IMDuGnREYJksMrhrAVnY6N6M9CeDWXa5P_bPrDMxlu0/
 >/exeg/ Archives
 https://rentry.org/exeg-archives
 
->/exeg/ Booru
-https://booru.plus/+exeg
-
 >/exeg/ CyTube
 https://cytu dot be/r/sexeg
 

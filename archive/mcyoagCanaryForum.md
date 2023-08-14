@@ -38,3 +38,6 @@ BROS! BROS, WE'RE BACK FOR REAL THIS TIME!!!
 lmaoing at the bozo who went to sleep right before
 
 See you all next time!
+
+
+Did you guys get nuked for real or just secret hour

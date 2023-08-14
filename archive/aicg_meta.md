@@ -14,7 +14,7 @@ If you're curious about a service, the OP should have the information you need.
 
 |                 | NSFW | SFW | MEMORY | CREATIVITY | COMPLEX DEFS | PRICE  | EASE OF USE
 |-----------------|------|-----|--------|------------|--------------|--------|------------
-| GPT-4           | 🏆   | 🏆  | 🏆     | 🥈         | 🏆           | HIGH   | 🥈        |
+| GPT-4           | 🏆   | 🏆  | 🏆     | 🏆         | 🏆           | HIGH   | 🥈        |
 | Claude (API)    | 🏆   | 🏆  | 🥈     | 🏆         | 🥈           | FREE   | 🥈        |
 | Claude (Slaude) | 🥈   | 🏆  | 🌱     | 🏆         | 🥈           | FREE   | 🌱        |
 | Davinci-3       | 🥈   | 🥈  | 🥈     | 🥈         | 🥈           | MEDIUM | 🥈        |

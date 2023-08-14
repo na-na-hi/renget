@@ -5,9 +5,9 @@
 BAU BAU edition
  
 \>Upcoming Stream
-https://www.youtube.com/watch?v=wU-LEcQpxXM
+https://www.youtube.com/watch?v=VdRKCMgF-Ug
 \>Most Recent Stream
-https://www.youtube.com/watch?v=pwUMUwjyrYs
+https://www.youtube.com/watch?v=wU-LEcQpxXM
 \>Youtube
 https://www.youtube.com/@FUWAMOCOch
 \>Twitter

@@ -145,16 +145,16 @@
 ==Following items have a history of **unethical conduct**, or are **fake clones**.==
 
 ### ⚠️ 1377x
--  **Fake Clone** | https://www-1377x-to
+-  **Fake Clone** | 1377x-to
 
 ### ⚠️ KickassTorrents
-- **Fake Clone** | https://kickasstorrents-to
+- **Fake Clone** | kickasstorrents-to
 
 ### ⚠️ The Pirate Bay
-- **Unethical Conduct** | https://thepiratebay-org
+- **Unethical Conduct** | thepiratebay-org
 
 ### ⚠️ TheRarBg
-- **Fake Clone** | https://therarbg-com
+- **Fake Clone** | therarbg-com
 
 &nbsp;
 

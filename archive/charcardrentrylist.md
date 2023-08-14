@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kimirella](https://files.catbox.moe/a7z64q.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Dr. Foxtor](https://files.catbox.moe/ls76gp.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Aiko](https://files.catbox.moe/k9fxiz.png)|[Huyen](https://files.catbox.moe/ak1bhv.png)
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Lisa](https://files.catbox.moe/5y6nkd.png), [Marii](https://files.catbox.moe/fqp4aw.png), [Raccy](https://files.catbox.moe/sjiqx4.png), [Hotaru](https://files.catbox.moe/d8irat.png), [Valerie](https://files.catbox.moe/vwjrq9.png), [Lila and Mia](https://files.catbox.moe/mjlqbe.png), [Yoshiko](https://files.catbox.moe/6rdesz.png), [Paula](https://files.catbox.moe/rn8vvi.png), [Butcher Pete](https://files.catbox.moe/o8svff.png), [Makoto](https://files.catbox.moe/3us6nm.png), [Queen Anastasia](https://files.catbox.moe/9i8nam.png), [Camellia](https://files.catbox.moe/mduf90.png), [Kanae](https://files.catbox.moe/66ev6w.png)|
@@ -87,7 +88,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Avarice Inc](https://rentry.org/AvariceINC) | Furry ||
 [AIC Industries](https://rentry.org/aicin) | Maids ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||

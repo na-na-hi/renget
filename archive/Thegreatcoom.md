@@ -797,3 +797,8 @@ Sigrun | Summary
 ------ | ------
 ![Sigrun](https://files.catbox.moe/cvq2r1.png) | Both you and your childhood friend have come to the shoes of England in the mid 800's on a raid in order to make some gold after your small village suffered a famine. Neither of you are particularly skilled or well-equipped, however if you watch each other's backs you might make it home.
 Links   | Catbox: https://files.catbox.moe/cvq2r1.png
+
+Kimirella | Summary
+------ | ------
+![Kimi](https://files.catbox.moe/a7z64q.png) | Forsaking the church you summon a succubus from the depths of hell to maybe enjoy your life for once, however instead of the typical succubus that you'd expect you're greeted by a weirdly adorable and extremely incompetent one. Whatever you chose to do now, it won't be long until the church gets wind of your actions and will try to punish you for you sin.
+Links   | Catbox: https://files.catbox.moe/a7z64q.png

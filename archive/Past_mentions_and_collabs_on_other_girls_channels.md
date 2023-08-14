@@ -10,7 +10,7 @@
 |02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou| True collab|
 |07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) | True collab|
 |02/08/2023|[Terraria](https://www.youtube.com/watch?v=pGQBbTk164s)|Mori, Bijou, Kiara| Impromptu collab|
-|14/08/2023 | Kiara Compatibility |Kiara| True collab|
+|14/08/2023 | [Kiara Compatibility](https://www.youtube.com/watch?v=vdmr7B__G3s) |Kiara| True collab|
 |16/08/2023 | PowerWash Simulator |Bae| True collab|
 |Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
@@ -46,6 +46,11 @@
 |---|---|---|
 |10/08/2023| [Timestamp](https://youtu.be/3AYhbHQgPrE?t=218)|**Borderline Mention** - While it's not a true mention during her 'YEAH! YOU WANT "THOSE GAMES' RIGHT?' stream, Fauna intended to do DOTA collabs with Kaela, Kobo and two mystery Advent members - one of them implied to be Nerissa|
 
+######Mumei
+|Date|Link|Nature & Notes|
+|---|---|---|
+|13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
+
 #####Advent
 
 ######Shiori
@@ -65,6 +70,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|[Timestamp](https://youtu.be/4giLWiqvyVo?t=1178)|**Mention** - First impressions about Nerissa during their (officially) first FUWAMOCO MORNING.|
+|14/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 
 ######Full-gen Collabs
 |Date|Link|Nature & Notes|

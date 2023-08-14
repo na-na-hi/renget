@@ -8,7 +8,7 @@ Elysian Realm https://rentry.co/er69
 
 **G4 FIRE GOOD TIMES**
 
-TOP: ATK 105. Fire DMG +20%. Against Ignited enemies, gain additional Fire DMG +40%. **Host HP +1000 (v2) > Team HP +1000 (cannot stack), this bonus is not affected by percentage hp increase bonus. (v3)**
+TOP: ATK 105. Fire DMG +20%. Against Ignited enemies, gain additional Fire DMG +40%. ~~Host HP +1000 (v2)~~ **Team HP +1000 (cannot stack), this bonus is not affected by ~~percentage hp increase bonus.(v3)~~ max HP percentage increase bonus. (v3b)**
 
 MID: Total DMG +20%.  Host’s attacks inflict +25% more Ignite Trauma. Ignited enemies take +20% more Fire DMG from the host (independent multiplier)
 

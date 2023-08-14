@@ -1,6 +1,8 @@
 # FART LORA: https://civitai.com/models/126756 https://huggingface.co/bringonthegas/Ultimate_Fart_LoRA/tree/main
 
-# OLD, OUTDATED SECTION ARCHIVED FOR THOSE WHO NEED IT. I AM KEEPING THIS PURELY FOR ARCHIVAL PURPOSES, USE THE LORA.
+# EVERYTHING BELOW IS AN OLD, OUTDATED SECTION FOR THOSE WHO NEED IT. I AM KEEPING THIS PURELY FOR ARCHIVAL PURPOSES, USE THE LORA.
+
+# IF YOU NEED HELP SETTING UP DIFFUSION FOR THE FIRST TIME, THERE IS HELPFUL INFORMATION IN THIS GUIDE UNTIL THE "BRAP GUIDE" SECTION. ONCE YOU REACH "THE BRAP GUIDE" IGNORE EVERYTHING AND SETUP THE FART LORA LINKED ABOVE. IF YOU NEED HELP WITH PROMPTING, CHECK OUT THE EXAMPLES IN THE CIVITAI POST. ALL PROMPT INFORMATION ON THOSE GENERATIONS CAN BE FOUND BY CLICKING ON THE IMAGES.
 
 [TOC]
 
@@ -72,7 +74,9 @@ Once everything is correctly setup, do the Asuka test in order to ensure that ev
 
 After this, you're done. There are guides on prompting, inpainting and everything in the Hentai Diffusion General threads on /h/. I highly recommend you go there to expand your knowledge on Stable Diffusion. You will need to figure out how prompting works in order to follow this guide. Stable DIffusion prompt tags roughly resemble the Danbooru ones, so I recommend opening up Danbooru and entering the specific tags you want from there. Make sure you've prefaced your prompts with "masterpiece, best quality" as well as inputted the negative prompts.
 
-## The Brap Guide:
+# EVERYTHING BEYOND THIS POINT IS AN OLD, ARCHAIC AND NOT RECOMMENDED WAY OF PRODUCING AI GENERATED BRAP ART. PLEASE READ THE INFORMATION AT THE TOP OF THIS PAGE IF YOU SKIPPED IT!
+
+## The Brap Guide: 
 
 There are two guides for making brap art. Automatic and Manual. Automatic is generating the brap image itself in its entirety, usually with a specific trained model or with luck using regular AI models. Manual involves generating images on their own and then either using an external program to edit in a gas effect or crudely drawing a gas effect and then inpainting it in by prompting. Automatic via a trained model is the easiest method of generating fart art, however manual may give you more creative freedom.
 
