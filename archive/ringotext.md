@@ -234,6 +234,7 @@
 | [>>>/d/10657347](https://rentry.org/ringotext2#10657347) | Various | brap, sweat, ringo, choco |
 | [>>>/d/10694833](https://rentry.org/ringotext2#10694833) | Haato | brap |
 | [>>55078413](https://rentry.org/ringotext2#55078413) | Fuwawa, Mococo | ringo |
+| [>>56073953](https://rentry.org/ringotext2#56073953) | Calli, Kiara, Ame, Ina, Gura | brap |
 
 ## >>249165
 

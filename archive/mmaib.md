@@ -79,7 +79,7 @@ aa H: After a decade and more of tribal war, the tribes unite under Blue Anacond
 141 H: Nero Eternalis is occupied by Negazion
 143 H: Polaria and Blancopolis declare war on Negazion
 aaa H: The Valkyries are formed by the Polarian King, with Kizuna Ai as leader.
-144 H: Atlantis attacks Diarnuit, bribes Anakondia.
+144 H: Atlantis attacks Diarnuit, bribes Anakondia to supplant its numbers.
 145 H: Atlantis forms an alliance with Negazion, Diarnuit and Savan jointly declare war on Atlantis
 150 H: Cita Azur occupied by Atlantis.
 154 H: Diarnuit, Savan, Blancopolis, and Polaria join forces.
@@ -89,9 +89,10 @@ aaa H: Coerce Cita Azur and Nero Eternalis to join them.
 235 H: Atlantis lost Cita Azur to Diarnuitian and Savanese forces
 312 H: Kizuna Ai defeats Tyrannus Maopla at the siege of Blackstar Castle.
 314 H: Diarnuitian, Savanese and Azurian forces rout the last stand of Neptune Castle.
-315 H: Last pockets of resistance eliminated
+315 H: Last pockets of resistance eliminated all over Aurorai.
 316 H: The Sinking was enacted by the Celestium as punishment for Negazion and Atlantis, drowning the majority of both nations.
 ***
+330 H: Nero Eterna and Cita Azul are recognized once more as autonomous states.
 346 H: Kizuna Ai laid to rest after dying of old age and battle wear
 aaa H : Fallen Star Graveyard constructed
 347 H: Kizuna declared a hallowed figure by all of Polaria
@@ -108,7 +109,8 @@ aaa H: Additional members were later added
 aaa H: Rumors abound that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate.
 618-622 H: The Order expansion continues, launching Second Brigade, the famed Fantasia Brigade, the Fourth Force Brigade, the Red Star brigade and the Bamboo Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
 619 H:The Red Coup erupts, then-Bishop Damaso leads the coup.
-620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in lighy of Damaso's men occupying Corte Blanca.
+620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in light of Damaso's men occupying Corte Blanca.
+621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria refuses the demand.
 623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Pollux to a fight to the death. for the throne of Negazion after Rojoris visits him privately in his chambers.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
 624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Fourth Force Brigade.
@@ -337,23 +339,42 @@ She barely escaped with her chronomancy channeled through her heirloom lance. Re
 >Home: Polaria
 
 **(!)Ollie**
--Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her home in Nero Eterna. Above all, she proves to be smart and heartful despite both malfunctioning for her physically.
+-Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her village in Nero Eterna, aiding whoever she can however she could. Above all, she proves to be smart and heartful despite both lacking a living brain or heart.
 >Home: Nero Eterna
+>(!)How to acquire: Visit a certain destroyed house.
 
 #### Chapter 11
 
 **Choco**
+-A well-loved head nurse of Nero Eterna's top academy Academia Il Nero, Choco is as caring as she is beautiful. Her physique and looks have attracted quite a number of admirers but none stuck around for too long. With the ongoing civil war in her home country, the Academia has been shut down to prevent further damage. Out of a job, she then roams nearby areas to treat wounded and tend to them till they're ready to fight again. This demon isnt all beauty though, as she has demonstrated cooking skills most who have tasted her work first hand would say "top-notch". In addition, she is quite learned in her field, which is part of why she is a well-respected personality in the academy.
+>Home: Nero Eterna
+
 **Kanata**
+-The daughter to a fast-rising court official and a descendant of the current Sky Regent, Kanata can appear reserved around people she doesn't know. As far back as her time with the Seraphim Officer Academy, she is reputed as "The Iron Hand" due to how much grip strength she can hold, allowing her to wield weapons efficiently despite appearing small and frail compared to most of her peers.
+>Home: Diarnuit
+
 **Towa**
+>Home: Nero Eterna
+
 **(!)Amelia**
+>Home: Polaria
+
 **(!)Polka**
+>Home: Savan
 
 #### Chapter 12
 
 **Jenma**
+>Home: Polaria
+
 **Oga**
+>Home: Nero Eterna
+
 **(!)Astel**
+>Home: Diarnuit
+
 **(!)Luna**
+>Home: Polaria
 
 #### Chapter 12x
 

@@ -1,13 +1,13 @@
 \#halo
-boards:vg; /[h \\n]+[aàáâãäåæ4@ \*\\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[oòóôõöð0 \*\\n]+/i;
+boards:vg; /[h \\n]+[aàáâãäåæ4@ \*\\n]+[il1|ìíîï\[\\]¡¦ \*\\n]+[oòóôõöð0 \*\\n]+/i;
 \#endless
-boards:vg; /[eèéêë3 \*\\n]+[n \\n]+[d \\n]+[il1|ìíîï\[\\]¡¦e \\n]+[eèéêë3 \*\\n]+[s$5 \n]+/i;
+boards:vg; /[eèéêë3 \*\\n]+[n \\n]+[d \\n]+[il1|ìíîï\[\\]¡¦ \\n]+[eèéêë3 \*\\n]+[s$5 \n]+/i;
 \#atriox
-boards:vg; /[7t \\n]+[r \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[oòóôõöð0 ]+[x+ \\n]/i;
+boards:vg; /[7t \\n]+[r \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[oòóôõöð0 ]+[x+× \\n]/i;
 \#banished
 boards:vg; /[b6 \\n]+[aàáâãäåæ4@ \*\\n]+[n \\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[s$5 \\n]+[h \\n]+[eèéêë3 \*\\n]+[d \\n]+/i;
 \#grizzle
-boards:vg; /[g9 \\n]+[r \\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[z \\n]+[il1|ìíîï\[\\]¡¦e \\n]+/i;
+boards:vg; /[g9 \\n]+[r \\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[z \\n]+[il1|ìíîï\[\\]¡¦ \\n]+/i;
 \#unsc
 boards:vg; /[uùúûüv \\n]+[n \\n]+[s$5 \\n]+[c¢ç(\[ \\n]+/i;
 \#master chief
@@ -193,3 +193,12 @@ boards:vg; /[s$5 \\n]+[p \\n]+[aàáâãäåæ4@ \*\\n]+(\[h \\n]+|[r \\n]+)+[7t
 /nGz/BCJXiEI2yW63fU0sWQ\==/
 /olWlAcrVLtn1YBMB+CcChQ\==/
 /9Ilr+f21TIAbTFV8y7roqA\==/
+/qS2uCz0YSRoELND+OTTmNQ\==/
+/PeZupZmsVU2Ux9IczFed2w\==/
+/wDfueLzuOgbEzPcspXsekw\==/
+/33c7F26CfkDdxcbJPqcZyw\==/
+/esN3VeNFSwsoIgV5smkY7Q\==/
+/0rFFGP/JIwXOtkZ7a8yO7w\==/
+/JmdIGbiwYLv+7Dly5+LReA\==/
+/4DMJ56Q20Eu/6Aa8cfP1XQ\==/
+/SpnbsGPcN0v9t+QctIS1YQ\==/

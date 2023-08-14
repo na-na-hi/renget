@@ -450,3 +450,29 @@ Sana's limiter makes her body externally smaller but we don't know that it does 
 >"B-bau... bauuu..."
 
 -> * * * <-
+
+## >>56073953
+
+HoloEN Myth Fart Chart
+
+>Mori
+
+Mori's farts range from no smell at all to absolutely rancid depending on her current diet. Also a hint of stress and sometimes booze farts.
+
+>Kiara
+
+Probably the most normal smelling farts out of EN. Ranges from no smell to slightly pungent, and same as Mori with a hint of stress
+
+>Ame
+
+Smell depends on if she's had any gluten. If she has, prepare yourself for the farts of death. Otherwise normal smell, maybe slightly more pungent than your average person.
+
+>Ina
+
+Hope you like kimchi farts! Ina's farts are not only pungent with strong korean undertones, they could also strip wallpaper off of a wall with the way they linger.
+
+>Gura
+
+Gura's farts are almost Kiara tier, but that's because she forgets to eat sometimes. Her farts range from no smell to slightly pungent, with a hint of strawberry right after she's eaten a box of them
+
+-> * * * <-

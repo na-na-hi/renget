@@ -4,8 +4,6 @@ This guide was made for [/agdg/](https://boards.4channel.org/vg/catalog#s=agdg),
 
 In this world if anything is eternal, it is the learning curve of building C projects. The problem is that, like any subject, people turn something easy into something hard by skipping fundamental steps. This might not be your fault. You might ask: "How do I use a library?", and someone answers with "CMake". And while CMake is useful, it is NOT what you should be using for libraries the very first time you learn about them. It is important to build and link a simple library using the compiler before trying it in CMake. That being said, you might have to do a lot of reading, but none of this is actually hard to do.
 
-We will build your understanding up from the base until you are a C (static) lib master. And perhaps at some point, the contents of this tutorial will be expanded further.
-
 This tutorial assumes you already know how to build and run small programs like "Hello World"  from the command line and that you understand how to read and write code in the C language. The reader should definitely have some command line literacy and be able to clone repositories with git. 
 
 I also assume you are using a GNU/Linux distro and the programs listed.  If not, you will need to find the equivalent programs and follow the equivalent steps in those programs. I don't assume you've built a project that used a library, outside of the standard library, which your typical compiler handles for you automatically.
@@ -181,7 +179,7 @@ to do all four steps and then run the program, printing the same result. For our
 	
 ### CMake
 
-In order to make the build process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. I won't go through creating makefiles from scratch, but we'll use CMake to create makefiles for us.  If you want an idea of how a makefile works, you can look at an example with C++ [here](https://youtu.be/_r7i5X0rXJk). For an in depth look, I refer you to the official [GNU Make documentation](https://www.gnu.org/software/make/manual/).
+In order to make the build process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. A cool thing about makefiles is that you can break a project up so that only the files that are altered have to be recompiled.  I won't go through creating makefiles from scratch, but we will use CMake to create makefiles for us.  If you want an idea of how a makefile works, you can look at an example with C++ [here](https://youtu.be/_r7i5X0rXJk). For an in depth look, I refer you to the official [GNU Make documentation](https://www.gnu.org/software/make/manual/).
 
 CMake involves the use of high-level 'targets' that represent libraries and binaries as well as our own custom targets. To get our feet wet, we should try using CMake for the most basic of examples. First lets clean up what we built with gcc.
 

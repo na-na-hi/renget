@@ -1,6 +1,11 @@
 # BASIC NAI SETTINGS AND GUIDE
 ***
-DISCLAIMER: Most of this is my own experimentation.  Whatever works for *me* may not work perfectly for *you*, and I encourage you to experiment with things at your own pace.  This will be a **SillyTavern** focused guide, assuming you are using **1.9.7** and the **Opus tier** for NAI.  I'm still experimenting with how it works with lorebooks and multi character cards, so this is the most basic (but attempting to be comprehensive) guide.
+DISCLAIMER: Most of this is my own experimentation.  Whatever works for *me* may not work perfectly for *you*, and I encourage you to experiment with things at your own pace.  This will be a **SillyTavern** focused guide, assuming you are using **1.9.7** and the **Opus tier** for NAI.  I'm still experimenting with how it works with lorebooks and multi character cards, so this is the most basic (but attempting to be comprehensive) guide.  For web users, see: https://rentry.org/NAIChatbot
+- EDIT 8/14/23: 
+	- Edited FAQ to be more readable and clearer about model limitations.  
+	- Added Tesseract to Configs and other config WIPS.  
+	- Working on style and genre guide.
+	- Cleared up Instruct section with more clear example.
 ***
 **Table of Contents**
 [TOC2]
@@ -24,7 +29,7 @@ Now that you're all set up with the API, it's time to fuck around with Settings.
 	- This is necessary in order to keep the bot from replying on your behalf whenever you hit 'Continue.'  Underneath the Advanced Formatting tab on Silly (A), there is a section on the right-hand side that says 'Custom Stopping Strings (KoboldAI/Textgen/NovelAI).  In the text box beneath that, type in:
 	!!!info
 		"\n{{user}}: " 
-	exactly as-is.  The space after the colon **is** necessary.  Silly replaces {{user}} with the persona/name you're currently using, so you have no need to put all of your different, specific persona 		names.  This will keep the AI from replying 'User: I ahh ahh mistress etc. etc.' when you hit continue.
+	exactly as-is.  The space after the colon **is** necessary.  Silly replaces {{user}} with the persona/name you're currently using, so you have no need to put all of your different, specific persona names.  This will keep the AI from replying 'User: I ahh ahh mistress etc. etc.' when you hit continue.
 2. Context
 	- Click 'Unlock' on the Context Size and then type in the context amount you intend to use.  For Opus, that's 8k.  With both me and the bot writing about two to three paragraphs each, I can get about 45-48 messages before context starts to run out.
 3. Preamble
@@ -35,17 +40,29 @@ Now that you're all set up with the API, it's time to fuck around with Settings.
 ###CONFIG PRESETS AND INSTRUCT
 Probably among the biggest things that will affect both the length and quality of your replies.  While it's a general rule of thumb that a longer reply will give you a longer response from the AI, it's not a hard and fast rule.  First, though, let's go through my personal preferred configs for NAI.  I'm not going to go into all of them, just the top three I use the most.
 
-- **Instruct'** is NAI's version of (OOC: Do this).  Whenever you want the AI to do something, whether it's to direct the scene more or to tell it to add more detail, just put whatever instructions you want in between curly brackets.  Example: {Go into more detail about {{char}}'s ass and titties.} Instruct should work on all configs.
-	==IMPORTANT: While you do not have to close the curly brackets on the site, you have to do so in Silly otherwise it will autocomplete it for you.==
+- **Instruct** is NAI's version of (OOC: Do this).  Whenever you want the AI to do something, whether it's to direct the scene more or to tell it to add more detail, just put whatever instructions you want in between curly brackets.  Example: {Go into more detail about {{char}}'s ass and titties.} Instruct should work on all configs.
+	==IMPORTANT: While you do not have to close the curly brackets on the site, you have to do so in Silly otherwise it will autocomplete it for you.  For example, if you put "{Make {{char}} moan more" as a reply, the AI would respond something like "and describe her cock.} (Rest of AI reply here)."  Not necessarily a deal breaker, but it is annoying if you didn't want the bot to describe her nonexistent futa cock or something.==
 
 1. Fresh Coffee
 	- This is the most instruct-friendly config and the one that I prefer to use when starting an RP completely fresh with no logs to build off of.  It's the config that is supposed to listen the most and the one I have most consistency with card details.
 2. Stelenes
-	- This config has an emphasis on having a more unique response with each swipe, but not as wild and random as other more creative configs.  I use this when I want to see the different, more reasonable responses the AI can give.  
+	- This config has an emphasis on having a more unique response with each swipe, but not as wild and random as other more creative configs.  I use this when I want to see the different, more reasonable responses the AI can give.  Occasionally freaks out a little bit after a 'Continue' but a swipe usually fixes that.
 3. Green Active Writer
 	- The most creative and wild variations on replies.  However, it's also prone to breaking format, occasionally using shit grammar and completely butchering/making up/combining words.  I only use this sparingly when I want to really spice up the rp.  Writer's Daemon allegedly is the same as Green Active Writer, but for some reason it generates completely blank responses when I try.
+4. Tesseract
+	- Another preset that an anon suggested as making the model closer to a Turbo-like experience if the other presets aren't doing it for you.  It takes a little bit longer to generate, but not so much as one would think.  Still under 20 seconds for the initial reply.  According to NAI, it's more loyal to style and maintaining consistency, but I also think that as a result, simpler cards make the chat more predictable.  However, if occasional schizoing out or logical leaps piss you off, this would be a good preset for you.
+5. Pilotfish
+	- WIP
+6. Asper
+	- WIP
+7. Carefree
+	- WIP
+8. Block
+	- WIP
+9. Blended Coffee
+	- WIP
 
-Something to note: There currently, as far as I can see, no way for you to save your default values for TopK/P/A etc and they're reset to default every time you switch to a different config, therefore, if you want to experiment heavily with those values, I suggest working primarily on the website itself.
+==Something to note: There currently, as far as I can see, no way for you to save your default values for TopK/P/A etc and they're reset to default every time you switch to a different config, therefore, if you want to experiment heavily with those values, I suggest working primarily on the website itself.  Please look to [this guide](https://rentry.org/NAIChatbot) for more information.==
 
 ***
 
@@ -60,14 +77,19 @@ That's a big difference for a one-sentence reply, right?  That's the power of th
 !!!info
 	{Replies are long, with dynamic sentence structure and length, in the form of (whatever style of writing you want here). Speech uses casual and colloquial language fitting of the characters. Descriptions are highly detailed and leave little to the imagination in order to immerse the reader.. Be graphic while describing the sensory details and inner thoughts/emotions of the character to bring the scenario and interaction to life. You must stay in character at all times, matching speech patterns, mannerisms, behaviors, reactions and the overall personality of the character as established. Changes or additions are done subtly and naturally.}
 ***
+###AUTHOR/GENRE STYLES
+WIP
+***
 ##FAQ
 - "Is this as good as Claude/GPT4?"
-	No,  obviously .  It's a 13B, but I think it's pretty damn good for a 13B and I don't regret my purchase.
+	- **No,  obviously.**  It's a 13B, but I think it's pretty damn good for a 13B and I don't regret my purchase.  Anyone who tries to tell you otherwise is trying to get a rise out of you.
 - "Is it uncensored?"
-	Yeah, it hasn't said 'No' to me yet.
-- "Is it sub Turbo?"
-	That's for you to decide.  I quit Turbo cold turkey after it went full positivity bias on me and I enjoy being able to be as fucked up and negative as I like with as many generations as I want.  The freedom of not having to worry about whether I'll be sent an OAI warning letter or my sekrit club shutting down is fun and I'd rather do this than doom.
+	- Yeah, it hasn't said 'No' to me yet and I've been able to do some fucked up shit that other models would attempt to cuck me out of.  Incest, rape, power imbalances, forcing two cocks into the same hole, says 'cunny' unprompted, things like that.
+- "Is it more cost-effective than Turbo?"
+	- That's for you to decide and is heavily affected by if you're a heavy user, your own personal standards, as well as if you're more willing to jump through hoops to keep your OAI access.  I quit Turbo cold turkey after it went full positivity bias on me and I enjoy being able to be as fucked up and negative as I like with as many generations as I want.  The freedom of not having to worry about whether I'll be sent an OAI warning letter or my sekrit club shutting down is fun and I'd rather do this than doom.
+- "But is it as smart as Turbo?"
+	- No, not if you want it to stat track and it often, as most smaller models do, loses track of clothing and positions.  That said, I think it's more creative than Turbo for ERP specifically.  With the different configs, you can get wildly varied responses and due to its erotic content training, you can get things that Turbo won't bring up without some leading.  Think of Kayra as a very experienced prostitute with a third grade math education: It'll give you a good time, but don't expect coding or accurate research help.
 - "What about local models?"
-	I think they're neat and I'm also looking into them but I'm a techlet.  I tried a 13B from Freellamas anon that was pretty good so keep an eye out on the threads to try it out for yourself.  I'm optimistic, but until I get a 3090 or decide to cloud host, this works decently for me.  I'm not sure I'll keep the 25 tier forever, but it's always worth it to have as many options as possible.
+	- I think they're neat and I'm also looking into them but I'm a techlet.  I tried a 13B from Freellamas anon that was pretty good so keep an eye out on the threads to try it out for yourself.  I'm optimistic, but until I get a 3090 or decide to cloud host, this works decently for me.  I'm not sure I'll keep the 25 tier forever, but it's always worth it to have as many options as possible.
 - "$0.03 has been deposited into your account."
-	Man, I wish.
+	- Man, I wish.

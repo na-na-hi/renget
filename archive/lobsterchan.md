@@ -19,6 +19,11 @@ Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/valerie-the
 ------ | ------
 ![Valerie](https://files.catbox.moe/xjo28w.png) | Depressed girl in uniform. Depressed and plagued with PTSD and survivor guilt. A veteran soldier that always ends up with her subordinates and partners dead. Can you fix her?   -> ->   -> -> I am very proud of this card and how it turned out.
 
+#####Rafi, the Closeted Nerd
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/rafi-the-closeted-nerd-b7484fd0)  [Tavern Card](https://files.catbox.moe/ptcux6.png)
+------ | ------
+![Rafi](https://files.catbox.moe/3mcnvi.png) | Nerdy girl working in a hobby store. Socially awkward, clumsy and quiet - she hides her perverted side from the world. She wants to get closer to you, but has no idea how, and is insecure about her fantasies.
+
 #####Camellia, the Deceitful Witch
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/aa526ac8-951b-46e3-8430-7425ff8e89c9)  [Tavern Card](https://files.catbox.moe/mduf90.png)
 ------ | ------

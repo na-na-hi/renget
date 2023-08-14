@@ -29,3 +29,6 @@ paedo\*
 irl
 dogshit
 scat
+worthless
+bl@cked
+racemix\*
