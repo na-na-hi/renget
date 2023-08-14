@@ -30,7 +30,7 @@ Notes:
   - Prompting properly may require some tweaking, **we are in dire need of a rentry guide for NAI usage on chat frontends**
 - Local models:
   - Check out /lmg/'s rankings: https://rentry.org/ayumi_erp_rating
-  - Check out of an /lmg/ proxy is up: https://rentry.org/freellamas
+  - Check out if an /lmg/ proxy is up: https://rentry.org/freellamas
 
 Quick notes on how to access each:
 - GPT-4:

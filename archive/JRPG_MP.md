@@ -64,6 +64,7 @@ A Day in the Life of JRPG Traitors (Cormelia, Mahapapapurusa, Potion Pete, Ateru
 https://pastebin.com/37KBsQEy
 Sarru Kissat Mati Albayis (Albayis): https://rentry.org/SarruKissatMatiAlbayis
 Wild Encounters (Suzerain, Caniara): https://rentry.org/wild3ncouters
+Two nerds fight (Bastian, Ella): https://pastebin.com/uzitGYng
 ***
 
 ## TIERLISTS

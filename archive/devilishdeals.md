@@ -209,3 +209,41 @@
 >it was one thing find someone react to his quirks and behaviors in a positive way
 >but to find him cute? 
 >his feathers ruffled at the mere thought
+
+>Blitzo was already at the door and slammed it shut after their monthly ordeal
+>Stolas felt cold again
+>even after a hot shower, he still felt cold
+>and alone
+>he sighed and reminisced about his other business partner
+>what are they to Anonymous
+>even he knows there's a level of fear the human has for him
+>but that's just part of being a demon
+>still the human admitted he was 'cute' because of the way he acted
+>acted
+>that just means the way he looks is a turn off for the man
+>his thousand-year old brain racked on what could make the human think otherwise
+>then he remembered the animays he was shown 
+>about the cute cross dresser who was trying to win over his object of affections
+>that's it!
+>maybe he needs to spice up his appearance and ditch this dirty little bathrobe
+>but what to wear
+>Stolas' eyes wandered over his wife's wardrobe
+>he shuddered when he remembered what type of clothes she likes to wear when they made Octavia
+>then he had another idea
+>no no no, he is already on thin ice with his dear little starlight, he couldn't possibly be-
+
+>the owl rummaged through his daughter's and pulled up an old uniform
+>it was a miniskirt accompanied with a black dress shirt and star-patterned tie
+>it was an old school uniform his daughter worn before she decided to change her fashion sense to be more-
+>-braver? more subdued as it were
+>in any case it should fit him
+>demons don't grow fat no matter how much they consume food
+>that's what Gluttony is for!
+>he rushed towards his private closet and tried it on
+>the skirt tight in his waist, and the shirt was too small for him and it was more like a crop top
+>it didn't look bad, but it needed something more oomf
+>so he decided to add the dark red g-string he bought for his sessions with Blitzy but it was never used 
+>still... he was going to use it now!
+>with his new attire complete he posed in front of the mirror
+>he leaned forward to make the lacy fabric be stretched and exposed under his skirt
+>yes, this could work

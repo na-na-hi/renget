@@ -18,12 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Dr. Foxtor](https://files.catbox.moe/ls76gp.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Aiko](https://files.catbox.moe/k9fxiz.png)|[Huyen](https://files.catbox.moe/ak1bhv.png)
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Lisa](https://files.catbox.moe/5y6nkd.png), [Marii](https://files.catbox.moe/fqp4aw.png), [Raccy](https://files.catbox.moe/sjiqx4.png), [Hotaru](https://files.catbox.moe/d8irat.png), [Valerie](https://files.catbox.moe/vwjrq9.png), [Lila and Mia](https://files.catbox.moe/mjlqbe.png), [Yoshiko](https://files.catbox.moe/6rdesz.png), [Paula](https://files.catbox.moe/rn8vvi.png), [Butcher Pete](https://files.catbox.moe/o8svff.png), [Makoto](https://files.catbox.moe/3us6nm.png), [Queen Anastasia](https://files.catbox.moe/9i8nam.png), [Camellia](https://files.catbox.moe/mduf90.png), [Kanae](https://files.catbox.moe/66ev6w.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Franky](https://files.catbox.moe/aj8ine.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png), [Noah](https://files.catbox.moe/dgqa6t.png)|
 [Frozenvan](https://rentry.org/frozenvan) | Misc |[A BLADE STORY 2 PHASMAGORIA OF TWILLIGHT EMBRACE](https://files.catbox.moe/kdohgg.png)|
-[123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png)|[Ayato](https://files.catbox.moe/op172p.png)
+[123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png)|
@@ -95,7 +96,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Arkane](https://rentry.org/arkanebots) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
-[Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Ddo-Reu](https://rentry.co/Ddo-Reu) | Misc ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Pedanon](https://rentry.org/Pedanon) | Cunny ||

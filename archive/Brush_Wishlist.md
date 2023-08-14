@@ -87,6 +87,7 @@
 **Tinong!♥Brush Set**|[1965421](https://assets.clip-studio.com/en-us/detail?id=1965421)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/54/1965421/thumbnail?1669424315)
 **Background brush**|[2002554](https://assets.clip-studio.com/en-us/detail?id=2002554)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/25/2002554/thumbnail?1684457213)
 **8LEG Pen**|[1822396](https://assets.clip-studio.com/en-us/detail?id=1822396)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/23/1822396/thumbnail?1619359896)
+**Regency Brush Set** | [1997049](https://assets.clip-studio.com/en-us/detail?id=1997049) | 20 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/70/1997049/thumbnail?1682025724)
 
 
 ### 30~100 clippy

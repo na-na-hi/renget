@@ -361,7 +361,7 @@ https://arch.b4k.co/vp/thread/54092082/ 26 convoluted bullshit
 https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
 
 ##Wagiedos's Desolation Nuzlocke
-!!! info Status: Ongoing
+!!! note Status: Completed
     It's a nuzlocke of Desolation ran by the other main tripfag, Wagiedos. Hopefully this attempt won't cause Wagie to ragequit due to padding and shitty mapping.
     There's pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause will apply instead.
 
@@ -381,3 +381,4 @@ https://arch.b4k.co/vp/thread/54220517/ 13 niggers in britain
 https://arch.b4k.co/vp/thread/54234176/ 14 why can't we just shoot him?
 https://arch.b4k.co/vp/thread/54233079/ 15 where the fuck is writefag
 https://arch.b4k.co/vp/thread/54252144/ 16 nigga moments
+https://arch.b4k.co/vp/thread/54262612/ 17 it's over

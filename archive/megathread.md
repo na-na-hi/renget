@@ -11,7 +11,7 @@
 
 !!! note ➜ Bookmark this URL
 	- ✅ This **Megathread is often updated** and subject to rigorous quality control checks.
-    - We have a complete replica of the Megathread over at our [r/Piracy Subreddit](https://www.reddit.com/r/Piracy/).
+    - Visit both our [**r/Piracy**](https://www.reddit.com/r/Piracy/) and [**r/torrents**](https://www.reddit.com/r/torrents/) subreddits for all the sailing discussions.
 
 !!! danger ➜ Disclaimer
 	- In the Megathread, trustworthy links that were formerly safe may occasionally turn hazardous.
@@ -33,7 +33,7 @@
 
 &nbsp;
 
-# 🏆 1 ➜ Greatest Treasures
+# 🏆 ➜ Greatest Treasures
 
 ### 🧭 [All Purpose](https://rentry.co/megathread-all-purpose)
 - All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as much public content as possible.
@@ -74,7 +74,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Other Treasures
+# 📑 ➜ Other Treasures
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)

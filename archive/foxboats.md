@@ -14,3 +14,4 @@ fennec friends, you're an orphaned baby fox taken in by a new family | [be nice 
 eye fox, eye fox | [iphox](https://files.catbox.moe/2x8kav.png)
 oyakodon friends, a woman and her gran invite you and force you to eat really awful oyakodon | [yum](https://files.catbox.moe/hyl4q5.png)
 freelancer simulator, the only game where you can be an underpaid and overworked remote executioner | [whoopeee](https://files.catbox.moe/8ls5oe.png)
+doctor foxtor, went to gloucester... | [whats up](https://files.catbox.moe/ls76gp.png)

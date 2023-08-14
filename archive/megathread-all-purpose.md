@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🔗 [DirtyWarez](https://forum.dirtywarez.com/) • Sign Up
 - Fantastic community that host a wide variety of media content across almost all genres.
@@ -59,7 +59,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🧲 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
 - Home to some of the most well-known repackers and crackers as well as a vast collection of torrent files.
@@ -133,6 +133,28 @@
 ### 🧲 [SolidTorrents](https://solidtorrents.to/)
 - DHT-based torrent search engine that strives to make discovering and downloading torrents simple for anybody.
 - [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.to/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# ☣️ ➜ Untrustworthy
+
+==Following items have a history of **unethical conduct**, or are **fake clones**.==
+
+### ⚠️ 1377x
+-  **Fake Clone** | https://www-1377x-to
+
+### ⚠️ KickassTorrents
+- **Fake Clone** | https://kickasstorrents-to
+
+### ⚠️ The Pirate Bay
+- **Unethical Conduct** | https://thepiratebay-org
+
+### ⚠️ TheRarBg
+- **Fake Clone** | https://therarbg-com
 
 &nbsp;
 

@@ -333,8 +333,8 @@ She barely escaped with her chronomancy channeled through her heirloom lance. Re
 #### Chapter 10
 
 **Haato**
--A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato and the enemy would be looking to harness the dark side at their command.
-Home: Polaria
+-A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato and the enemy would be looking to harness this dark side at their command.
+>Home: Polaria
 
 **(!)Ollie**
 -Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her home in Nero Eterna. Above all, she proves to be smart and heartful despite both malfunctioning for her physically.

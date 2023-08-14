@@ -335,7 +335,7 @@ Cost | Effect
 Support 1 | Support 2 | Type
 ------ | ------ | ------
 SS | BKE | Utility
-SA | SA | Damage
+SS | SA | Damage
 
 Time | Emblem 
 ------ | ------ 
