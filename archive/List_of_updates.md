@@ -63,3 +63,4 @@
 |13/08/2023|49|Mentions & Collabs|Addition of a placeholder for the upcoming Kiara Compatibility collab with Kiara.|
 |13/08/2023|50|Mentions & Collabs|Addition of a placeholder for the upcoming Powerwash Simulator collab with Bae.|
 |13/08/2023|51|Mentions & Collabs|Addition of placeholders for the upcmong fullgen collab on Apex Legends.|
+|13/08/2023|52|Mentions & Collabs|Addition of the first Terraria stream as an accidental collab.|

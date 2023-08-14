@@ -5,12 +5,13 @@
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on Nerissa's channels![Image description](https://files.catbox.moe/f9inkg.png) <-
-|Date|Link|Collab Partner(s) & Alternative POV(s) |
-|---|---|---|
-|02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou|
-|07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) |
-|14/08/2023 | Kiara Compatibility |Kiara|
-|16/08/2023 | PowerWash Simulator |Bae|
+|Date|Link|Collab Partner(s) & Alternative POV(s) | Nature|
+|---|---|---|---|
+|02/08/2023|[Untitled Goose Game](https://www.youtube.com/watch?v=GU1PhsuLYDI)|Bijou| True collab|
+|07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) | True collab|
+|02/08/2023|[Terraria](https://www.youtube.com/watch?v=pGQBbTk164s)|Mori, Bijou, Kiara| Impromptu collab|
+|14/08/2023 | Kiara Compatibility |Kiara| True collab|
+|16/08/2023 | PowerWash Simulator |Bae| True collab|
 |Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-

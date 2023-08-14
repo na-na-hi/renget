@@ -35,7 +35,7 @@ https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 
 If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
 
-## CH#### Chibi Character List
+## CH#### Chibi and/or Portrait Character List
 CH0060 = Swimsuit Tsurugi
 CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0063 = Swimsuit Hina
@@ -43,6 +43,8 @@ CH0064 = Swimsuit Iori
 CH0066 = Shun (Child)
 CH0069 = Mika
 CH0081 = Sena
+CH0086 = New Years Kayoko
+CH0087 = New Years Haruka
 CH0088 = Megu
 CH0092 = Swimsuit Nonomi
 CH0095 = Noa
@@ -56,6 +58,7 @@ CH0133 = Michiru **(Does not import correctly on Blender, Fixed version in the m
 CH0135 = Rumi
 CH0137 = Kokona
 CH0138 = Mina
+CH0139 = Kisaki **(Portrait Only)**
 CH0141 = Fubuki
 CH0144 = Saki
 CH0145 = Miyu
@@ -81,6 +84,7 @@ CH0179 = Swimsuit Izuna
 CH0180 = Swimsuit Shizuko
 CH0181 = Cheerleader Hibiki
 CH0182 = Track Utaha
+CH0183 = Swimsuit Mimori **(Portrait Only)**
 CH0184 = Track Yuuka
 CH0186 = Track Mari
 CH0187 = Toki
@@ -88,19 +92,30 @@ CH0188 = Swimsuit Shiroko
 CH0190 = Track Hasumi
 CH0191 = New Years Haruna
 CH0192 = New Years Junko
+CH0193 = Track Haruna **(Portrait Only)**
 CH0194 = Christmas Serina
 CH0195 = Christmas Hanae
+CH0196 = New Years Akari **(Portrait Only)**
+CH0197 = New Years Izumi **(Portrait Only)**
 CH0198 = Koyuki **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
+CH0199 = Shiroko (Terror) **(Portrait Only)**
 CH0200 = Maid Alice
+CH0201 = Maid Momoi **(Portrait Only)**
+CH0202 = Maid Midori **(Portrait Only)**
 CH0203 = Maid Yuzu
 CH0204 = Swimsuit Ui
 CH0205 = Swimsuit Koharu
 CH0209 = "Swimsuit" Hanako
 CH0210 = Swimsuit Hinata
 CH0211 = Bunny Toki
+CH0212 = Akira **(Portrait Only)**
+CH0213 = Kai **(Portrait Only)**
+CH0214 = Minori **(Portrait Only)**
 CH0215 = Swimsuit Miyako
+CH0216 = Swimsuit Moe **(Portrait Only)**
 CH0217 = Swimsuit Saki
 CH0218 = Swimsuit Miyu
+CH0222 = Nagusa **(Portrait Only)**
 CH9999 = Miku
 
 ## Chibi NPCS

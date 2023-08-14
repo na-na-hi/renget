@@ -5,18 +5,20 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/08/10-23/08/13 (yy/mm/dd)
+##23/08/17-23/08/20 (yy/mm/dd)
 
 ##Melts
+one day to be reserved for EoSmelt
+no, not that one
 
 **THU: - at 2UTC ()**
-**FRI: Ganbare Goemon 3 at 2UTC (Telemelt)**
-**SAT: Castlevania Harmony of Dissonance at 2UTC (Telemelt)**
-**SUN: Minemelt at 17:30UTC (Minecraft)**
+**FRI: . at 2UTC ()**
+**SAT: - at 2UTC ()**
+**SUN: Golden Sun at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream+Axess at 16UTC** Episodes 8-14/15
+**SAT: Rockman.exe Stream at 16UTC** Episodes 14-21
 **SUN: - at 15UTC**
 >-
 nothing

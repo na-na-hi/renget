@@ -40,9 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Writefags:
->Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
-https://rentry.org/rzimh (For those that read the first part, just jump to chapter VI. Art Gallery.)
+MHA builds be like 'Honk shoo, honk shoo'. Except the ones that be like 'Honk mimimimi, honk mimimimi'.
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
