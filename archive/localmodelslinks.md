@@ -97,7 +97,7 @@
 [Honest LLaMa](https://github.com/likenneth/honest_llama)|Inference-Time Intervention shifting model activations during inference to increase accuracy
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
-[LLM RP Test Framework](https://github.com/lmg-anon/llm-rp-test-framework)|Project to help evaluate RP ability of different models/finetunes/quantizations
+[EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge Editing Framework for LLMs
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
 [AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models

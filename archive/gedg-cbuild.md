@@ -535,7 +535,7 @@ yields the familiar result. Take a peak in ```build/lib``` and you should see th
 In your project directory duplicate the static library project
 
 ```bash
-cp - r sumlib/shared_sumlib/
+cp -r sumlib/ shared_sumlib/
 cd shared_sumlib/
 ```
 
@@ -554,7 +554,7 @@ gcc lib/src/add.c -c  -fPIC -I lib/include -o obj/sum.o
 mkdir bin/shared
 gcc -shared obj/sum.o -o  bin/shared/libsum.so
 ```
-Compare this to the similar step when creating the static library. Note that we use .so instead of .a, that we use gcc with the ```-shared``` flag instead of ```ar```, and finally notice that we use the flag ```-fPIC``` (position-independent code). Then we link the shared lib.
+Compare this to the similar step when creating the static library. Note that we use .so instead of .a, that we use gcc with the ```-shared``` flag instead of ```ar```, and that we use the flag ```-fPIC``` (position-independent code). Then we link the shared lib.
 
 ```bash
 gcc obj/main.o -L bin/shared -l sum -o bin/add
@@ -595,7 +595,7 @@ So easy, all we did is add 'SHARED' ! On Windows this will create a dll instead 
 
 ```bash
 ./build.sh
-./bin.sh
+./bin/add
 ```
 
 And just like that we go from a program with static linking to one with dynamic linking! Take a peak in ```build/lib``` and you should see the library. Try deleting it and running the program again to see that the program won't run. Compare this to when we deleted the static library previously.

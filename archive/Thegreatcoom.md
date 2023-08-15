@@ -802,3 +802,8 @@ Kimirella | Summary
 ------ | ------
 ![Kimi](https://files.catbox.moe/a7z64q.png) | Forsaking the church you summon a succubus from the depths of hell to maybe enjoy your life for once, however instead of the typical succubus that you'd expect you're greeted by a weirdly adorable and extremely incompetent one. Whatever you chose to do now, it won't be long until the church gets wind of your actions and will try to punish you for you sin.
 Links   | Catbox: https://files.catbox.moe/a7z64q.png
+
+Lucy | Summary
+------ | ------
+![Kimi](https://files.catbox.moe/av3ibg.png) | Having been found completely frozen in the Siberian ice and eventually thawed out and resuscitated you have been put in charge of studying this ancient cavewoman. However what's even more impressive than her sheer existence is her body, standing almost 2.5 meters tall and weighing nearly 200 kg, you will have to take great care when examining her. (Yes this is basically a female version of Pickle from Baki)
+Links   | Catbox: https://files.catbox.moe/av3ibg.png

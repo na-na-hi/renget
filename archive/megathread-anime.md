@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🔗 [Anime Time](https://www.animetime.pw/)
 - Anime encoding and direct downloads in high quality for all anime lovers.
@@ -41,7 +41,7 @@
 - Destination that offers anime series and movies in either English Dubbed or Subbed.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesenpai4u.com/)
 
-### 🔗 [ ChauThanh](https://chauthanh.info/)
+### 🔗 [ChauThanh](https://chauthanh.info/)
 - Download anime, drama, and soundtracks for free. Get high-quality files and links for more than 5000 series. 
 - [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
 
@@ -79,7 +79,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Streaming
+# 📑 ➜ Streaming
 
 ### ▶️ [123anime](https://123anime.info/)
 - Easy access to a nice selection of anime. Dependable stream and updates from the most recent releases.
@@ -129,6 +129,10 @@
 - Fast streaming servers and that allow you to watch your favorite anime, material is updated everyday.
 - [URL Safety Results](https://www.urlvoid.com/scan/animesuge.to/)
 
+### ▶️ [AnimeXin](https://animexin.vip/) • Donghua
+- Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
+- [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
+
 ### 🐐 [AniWatch](https://aniwatch.to/)
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
@@ -137,9 +141,9 @@
 - With a strong emphasis on anime titles in a variety of genres, you may discover practically any series you want.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwave.to/)
 
-### ▶️ [AnimeXin](https://animexin.vip/) • Donghua
-- Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
-- [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
+### ▶️ [Anix](https://anix.to/)
+- Draws influence from the well-known AniMixPlay platform that features a minimalist layout.
+- [URL Safety Results](https://www.urlvoid.com/scan/anix.to/)
 
 ### ▶️ [Enime](https://enime.moe/)
 - A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
@@ -148,10 +152,6 @@
 ### ▶️ [Gogoanime](https://gogoanime.gr/)
 - Because it is so simple, all you have to do is choose an episode and begin viewing.
 - [URL Safety Results](https://www.urlvoid.com/scan/gogoanime.gr/)
-
-### ▶️ [Gogo-play](https://gogohd.net/)
-- You've come to the right place if you're searching for something fresh and intriguing.
-- [URL Safety Results](https://www.urlvoid.com/scan/gogohd.net/)
 
 ### ▶️ [Kaido](https://kaido.to/)
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.
@@ -177,9 +177,9 @@
 - You can watch anime online for free on this streaming service, and sure to find more shows and movies here.
 - [URL Safety Results](https://www.urlvoid.com/scan/nanime.one/)
 
-### ▶️ [Otakuz](https://otakuz.live/)
-- Presenting the most recent and popular anime series, with new episodes released on a regular basis.
-- [URL Safety Results](https://www.urlvoid.com/scan/otakuz.live/)
+### ▶️ [Playtaku](https://gogohd.net/)
+- You've come to the right place if you're searching for something fresh and intriguing.
+- [URL Safety Results](https://www.urlvoid.com/scan/anihdplay.com/)
 
 ### ▶️ [YugenAnime](https://yugenanime.tv/)
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.
@@ -191,7 +191,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🧲 [Anime Time](https://animetime.cc/)
 - Great place that provides torrents and magnet links and has an easy-to-use search feature

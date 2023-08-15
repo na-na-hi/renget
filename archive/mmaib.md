@@ -298,7 +298,7 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 
 **Lamy**
 
--Hailing from Argenian nobility, Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+-Hailing from nobility in Argenia (a cold land in northeast Diarnuit), Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face and enchanting speaking voice belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
 >Home: Diarnuit
 
 **Botan**
@@ -318,11 +318,11 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 
  
 **Gura**
--Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few carryovers from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
+-Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
 >Home: Cita Azul
 
 **Suisei**
--Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Another indicator of her alleged heritage is her axe. She and her axe have cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+-Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. She and her axe have cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
 >Home: Polaria
 
 #### Chapter 9
@@ -350,10 +350,11 @@ She barely escaped with her chronomancy channeled through her heirloom lance. Re
 >Home: Nero Eterna
 
 **Kanata**
--The daughter to a fast-rising court official and a descendant of the current Sky Regent, Kanata can appear reserved around people she doesn't know. As far back as her time with the Seraphim Officer Academy, she is reputed as "The Iron Hand" due to how much grip strength she can hold, allowing her to wield weapons efficiently despite appearing small and frail compared to most of her peers.
+-Daughter to a fast-rising court official named Sayuri Amane and a descendant of the current Sky Regent, Kanata can appear reserved around people she doesn't know. As far back as her time with the Seraphim Officer Academy, she is reputed as "The Iron Hand" due to how much grip strength she can hold, allowing her to wield weapons efficiently despite appearing small and frail compared to most of her peers. Complimenting her meek nature is her habit to tend after her comrades in battle, being the battle medic of sorts of the squad. She can be clingy to people she admires, but she tries to keep herself reasonable and professional all the time.
 >Home: Diarnuit
 
 **Towa**
+-Energetic and friendly, Towa breaks the norm from the average Neronian; that being more reserved, introvert, and averse to outdoors. Often, peers tease her as "an angel in devil's wings" with how affectionate and wholesome she can be towards people. Her wyvern, Bibi has been with her since she was a child demon, gifted to her by her dad after graduating from Minor Circle. Towa and Bibi struck together ever since, the latter part of the reason why the former took up a flying role in Nero Eterna's reserve army. With her on the back of her beloved wyvern, Towa has encountered many kinds of people, including who would end up being her fellow Guardians. Her outgoing nature helps newer Guardians to feel at home with The Order. Despite her cool, put-together demeanor, she can be a bratty mess to handle if she doesnt get her fill of sweets.
 >Home: Nero Eterna
 
 **(!)Amelia**

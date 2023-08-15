@@ -345,8 +345,7 @@ She can keep her cool when in dangerous situations, thanks to living on the run 
 She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
 
 ###Topa
-{Pending}
-Topa: Age 22
+Age 22
 Male
 Born 3/24
 Native mon

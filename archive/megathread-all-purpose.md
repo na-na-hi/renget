@@ -140,9 +140,10 @@
 
 &nbsp;
 
-# ☣️ ➜ Untrustworthy
+# ☣️ ➜ Untrustworthy Loot
 
--> ==Following items have a history of **unethical conduct**, or are **fake clones**.== <-
+- **Unethical Conduct** = No longer fully regulated, chance of getting malware quite high.
+- **Fake Clone** = Dishonorably luring users by leveraging the name of an older, well-known brand.
 
 WEBSITE | URL | REASON
 :----: | :----: | :----:

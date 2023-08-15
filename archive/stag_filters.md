@@ -202,3 +202,17 @@ boards:vg; /[s$5 \\n]+[p \\n]+[aàáâãäåæ4@ \*\\n]+(\[h \\n]+|[r \\n]+)+[7t
 /JmdIGbiwYLv+7Dly5+LReA\==/
 /4DMJ56Q20Eu/6Aa8cfP1XQ\==/
 /SpnbsGPcN0v9t+QctIS1YQ\==/
+/tR4IkWgMXpA/Nh3jZkg/aQ\==/
+/GCsDs0r59nvGXrO8WOPiGw\==/
+/1s9KKOgYgftIjAdaffUXnA\==/
+/vrAEeHkX33wvxxG8bsymqg\==/
+/ndZJpgUoW9N0TuWiVW/Pug\==/
+/pbCXplCHEmTCQn2l63xXzw\==/
+/7dflAmTFOnlDjlH7xWzUxw\==/
+/U0oDvYzyO7dtW0U1xEdysA\==/
+/X7xgsCHgH/CvQWPTdTVWwQ\==/
+/L+K90CuMD5L8Xg8r9U81Fg\==/
+/G96CJc06icVsNKs8egR+NQ\==/
+/BliWNHkvhoNOqga/K5Kg2g\==/
+/kVo7OFUi9gDE0SicmgF5yw\==/
+/fgDnk0cotFZXaaPtO/4zpg\==/

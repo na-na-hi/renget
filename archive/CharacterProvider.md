@@ -31,6 +31,12 @@ Date | Update | Description
 - - -
 - - -
 # 
+[![](https://files.catbox.moe/t61xa1.png)](https://rentry.co/CharacterProvider-GuideToBotmaking)
+# 
+- - -
+- - -
+- - -
+# 
 ###Quick note
 You need only complete steps from **YELLOW BLOCKS**. Everything else is just my comments and descriptions. Mostly you will need just to copy-paste things form code blocks...
 !!! warning Hello there, I am a step you need to complete!

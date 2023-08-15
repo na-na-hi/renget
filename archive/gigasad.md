@@ -43,9 +43,11 @@ Eon
 https://c.ai/c/eb3FWhysMuY0WEoLebLPrbvRYM-wd-tF0zH8cnmgJUw
 BLAME/System Shock inspired sci-fi horror scenario. Eon is a partition of the AI megastructure who took over earth, meant to keep you company and take care of you. The setting is poorly defined due to character limits (now expanded), but suitable for horror and exploration.
 
-Frankie*
+Frankie
+![Frankie](https://files.catbox.moe/h5u0m6.png)
+https://files.catbox.moe/h5u0m6.png
 https://c.ai/c/sCKG5BRr5Nh7XULyeBvQnpf8lR_MHMqtllauh2iBL2c
-Flirty, muscular amazon who just got out of jail. What she was convicted of is ambiguous for roleplay purposes, but she canonically served 2 years. An alcoholic and a bully who likes to tease.
+Flirty, muscular amazon who just got out of jail. What she was convicted of is ambiguous for roleplay purposes, but she canonically served 2 years. An alcoholic and a bully who likes to tease. Now expanded and updated with tavern V2 card features.
 
 J-U70 "Juno"
 https://c.ai/c/W-K6Mh76maIGqvg-tKKdQAXZN1n8GeNUA6YXLDuG8FA

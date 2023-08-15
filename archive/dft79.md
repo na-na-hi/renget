@@ -22,6 +22,9 @@ Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work 
 	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan), Pan (GT), Great Saiyaman, Great Saiyawoman
 * Rival Spirits Vol. 2 released July 28th
 	* New Transpheres: Captain Ginyu, Golden Freeza, Kid Buu
+* New Event: Summer Carnival
+
+![Image description](https://i.imgur.com/PfsEkpm.jpg)
 
 ###Useful Information
 

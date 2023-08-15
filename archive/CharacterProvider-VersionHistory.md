@@ -34,8 +34,12 @@ Date | Update | Description
 - - -
 # 
 [![](https://files.catbox.moe/8rfhw1.png)](https://rentry.co/CharacterProvider-Explanation)
-
-How does it work? What can be modified? You can know more about the prompt structure.
+# 
+- - -
+- - -
+- - -
+# 
+[![](https://files.catbox.moe/t61xa1.png)](https://rentry.co/CharacterProvider-GuideToBotmaking)
 # 
 - - -
 - - -

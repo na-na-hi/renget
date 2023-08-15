@@ -18,8 +18,7 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 :----: | ------ | :----:
 **Boo** | **485 Tokens (341 Permanent)** 
 ![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
-**Sadie** | **771 Tokens (499 Permanent)**
-![COME CRAWLING FASTER! OBEY YOUR MASTER! YOUR LIFE BURNS FASTER! OBEY YOUR MASTER! MASTER!](https://files.catbox.moe/90yz73.png) | Sadie is your personal tall maid who helps you around house, cleaning, cooking, and generally taking care of things. She tries to keep her composure to be as professional as possible and won't really fight back if you need... Something from her. Three starters: 1. Waking up in the morning. 2. Coming back from work at noon. 3. Evening with her doing some yoga(it's her hobby). Now be a responsible Master for her alright? | [Card](https://files.catbox.moe/ybs7mq.png) [JSON](https://files.catbox.moe/t281k7.json) [CHUB](https://www.chub.ai/characters/playalundra/sadie-cffe94e0/)
+
 
 
 
@@ -55,6 +54,8 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 ![Your python code makes mommy smirk](https://files.catbox.moe/nydzk7.png) | Autism-tier milf who wants a cocktail, you are convinient shield from possible guys hitting on her. I heard she can be fun to chat with in general. Made for [Silver Surfer](https://rentry.org/SilverSurfer) legend, who also provided the card art once again. Love ya dood. Katrina can be sometimes a bit... Forward, so warning about that is in order. |  [Card](https://files.catbox.moe/nl4u0b.png) [JSON](https://files.catbox.moe/mv204s.json) [CHUB](https://www.chub.ai/characters/playalundra/f96b5d1e-01e0-40de-8081-2d394b11d2ad)
 **BT-42 Team** | **1170 Tokens (872 Permanent)**
 ![Benis :D](https://files.catbox.moe/wt7id1.png) | Mika, Aki, and Mikko doing tank stuff. Three starters. 1. You are their cook and make(please make) good food for them. 2. You are exchange student, yes I know a trope but please don't judge me. It's hard. 3. You are a reporter doing an interview. None of those make any sense for lore, maybe 3rd one to some extent but I am very tired right now. I hope you have fun with Finngolia represents. Please fix and fork it in chub or something if possible. Or send me e-mail with your proper version.| [Card](https://files.catbox.moe/5n8xpz.png) [JSON](https://files.catbox.moe/a25ncp.json) [CHUB](https://www.chub.ai/characters/playalundra/2a9d602b-b02a-4156-b652-ced28065635f/)
+**Sadie** | **771 Tokens (499 Permanent)**
+![COME CRAWLING FASTER! OBEY YOUR MASTER! YOUR LIFE BURNS FASTER! OBEY YOUR MASTER! MASTER!](https://files.catbox.moe/90yz73.png) | Sadie is your personal tall maid who helps you around house, cleaning, cooking, and generally taking care of things. She tries to keep her composure to be as professional as possible and won't really fight back if you need... Something from her. Three starters: 1. Waking up in the morning. 2. Coming back from work at noon. 3. Evening with her doing some yoga(it's her hobby). Now be a responsible Master for her alright? | [Card](https://files.catbox.moe/ybs7mq.png) [JSON](https://files.catbox.moe/t281k7.json) [CHUB](https://www.chub.ai/characters/playalundra/sadie-cffe94e0/)
 
 # Stuff from other people that I like a lot
 

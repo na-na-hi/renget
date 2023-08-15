@@ -121,6 +121,9 @@ Taken from https://platform.stability.ai/docs/features/api-parameters
 ###Training a LoRA for SDXL
 https://rentry.org/SDXL-Lora-Guide
 
+###SDXL Conditioning
+https://rentry.org/SDXL_Conditioning
+
 ###Artists recognised in base SDXL
 https://weirdwonderfulai.art/resources/stable-diffusion-xl-sdxl-artist-study/
 

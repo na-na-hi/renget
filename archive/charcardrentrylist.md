@@ -18,27 +18,27 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Gigasad](https://rentry.org/gigasad) | Misc |[Frankie](https://files.catbox.moe/h5u0m6.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Lucy](https://files.catbox.moe/av3ibg.png), [Kimirella](https://files.catbox.moe/a7z64q.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Rafi](https://files.catbox.moe/ptcux6.png), [Lisa](https://files.catbox.moe/5y6nkd.png), [Marii](https://files.catbox.moe/fqp4aw.png), [Raccy](https://files.catbox.moe/sjiqx4.png), [Hotaru](https://files.catbox.moe/d8irat.png), [Valerie](https://files.catbox.moe/vwjrq9.png), [Lila and Mia](https://files.catbox.moe/mjlqbe.png), [Yoshiko](https://files.catbox.moe/6rdesz.png), [Paula](https://files.catbox.moe/rn8vvi.png), [Butcher Pete](https://files.catbox.moe/o8svff.png), [Makoto](https://files.catbox.moe/3us6nm.png), [Queen Anastasia](https://files.catbox.moe/9i8nam.png), [Camellia](https://files.catbox.moe/mduf90.png), [Kanae](https://files.catbox.moe/66ev6w.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Franky](https://files.catbox.moe/s7dpyb.png)|[Franky](https://files.catbox.moe/s7dpyb.png) [MV]
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Kimirella](https://files.catbox.moe/a7z64q.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Dr. Foxtor](https://files.catbox.moe/ls76gp.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Aiko](https://files.catbox.moe/k9fxiz.png)|[Huyen](https://files.catbox.moe/ak1bhv.png)
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png), [Noah](https://files.catbox.moe/dgqa6t.png)|
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png)|
 [Frozenvan](https://rentry.org/frozenvan) | Misc |[A BLADE STORY 2 PHASMAGORIA OF TWILLIGHT EMBRACE](https://files.catbox.moe/kdohgg.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Hana](https://files.catbox.moe/9eqza8.png), [Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kinflit](https://files.catbox.moe/et5wkp.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Polly](https://files.catbox.moe/mswkp8.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Gaston](https://files.catbox.moe/7pii9f.png), [Tyana and Lycia](https://files.catbox.moe/4b8cnv.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[The Narrator](https://files.catbox.moe/dhidbz.png), [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png)
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[The Narrator](https://files.catbox.moe/dhidbz.png), [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png)
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
-[Gigasad](https://rentry.org/gigasad) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Misc ||

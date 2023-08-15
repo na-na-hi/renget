@@ -15,7 +15,7 @@ The best method is in the first section, that's what I recommended everyone do; 
 - | My personal presets:
 ------ | ------
 Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v4 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1137576127053959320/Truthfully-4-kayra_pume.preset)
+Kayra   | [Truthfully v6 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1141012595722166302/Truthfully-6-kayra_pume.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 
