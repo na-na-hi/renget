@@ -1,5 +1,6 @@
 Filter List for Kanchelle Loreux's spam
 
+
 tran\*
 tro*
 agp
@@ -32,3 +33,9 @@ scat
 worthless
 bl@cked
 racemix\*
+bio\*
+\*anny
+\*oon
+
+
+ex: boards:trash,aco;/agp/i;op:no

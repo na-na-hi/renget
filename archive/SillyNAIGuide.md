@@ -31,7 +31,7 @@ Now that you're all set up with the API, it's time to fuck around with Settings.
 		"\n{{user}}: " 
 	exactly as-is.  The space after the colon **is** necessary.  Silly replaces {{user}} with the persona/name you're currently using, so you have no need to put all of your different, specific persona names.  This will keep the AI from replying 'User: I ahh ahh mistress etc. etc.' when you hit continue.
 2. Context
-	- Click 'Unlock' on the Context Size and then type in the context amount you intend to use.  For Opus, that's 8k.  With both me and the bot writing about two to three paragraphs each, I can get about 45-48 messages before context starts to run out.
+	- Click 'Unlock' on the Context Size and then type in the context amount you intend to use.  For Opus, that's 8k.  With both me and the bot writing about two to three paragraphs each, I can get about 35-38 messages before context runs out and messages start getting cut.  Sometimes more, sometimes less.  Experiment with your own writing style to know where and when you want to summarize before continuing.
 3. Preamble
 	- Preamble is your basic style guide and already has some keywords already put in.  Feel free to add or take some away at your discretion, but I tend to put my style and description focus in the Author's Note, which I'll explain later with some images to illustrate the differences.
 

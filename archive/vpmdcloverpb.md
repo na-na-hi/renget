@@ -346,6 +346,17 @@ She can be seen with her spikes retracted when accompanied by Pochi, as she feel
 
 ###Topa
 {Pending}
+Topa: Age 22
+Male
+Born 3/24
+Native mon
+Timid Nature
+Parents: George (marowak, male) Dinece (sableye, female,)
+
+-Hates going into dungeons more than 2-3 floors. He was dragged into one when younger by a gang of digletts and was saved by his dad.
+-Father taught him all he knows about rocks and got advice from a beedrill on how to start a business.
+-Will stone anyone who talks shit on his shop or his way of living.
+-Usually kinda nervous but can become more confident when talking about rocks and his shop.
 
 ###Cheesecake/Apple
 Cheesecake's held item is a Lucky Ribbon worn as a scarf.

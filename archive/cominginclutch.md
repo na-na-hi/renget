@@ -3,9 +3,10 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: July 24th | Current Status: Continued hiatus, returning soon.
-	I intend to return to /aicg/ next sometime next month once I've returned to and settled into my next semester at uni. I may not begin sharing new bots straight away as I already know there will be new things I will need to learn upon my return.
-	Everything under the Release Information and Character Requests sections should now be considered outdated and invalid until the next rentry update, as I already know there are some characters which I no longer intend to work on and others which I will hold off on to prioritize others.
+    Last Status Update: August 14th | Current Status: Returned and mostly active.
+	I'm back at university and back to having fun making and messing with bots. Many of the characters I wish to make now are ones I will be starting from scratch, and I've decided to scrap others which previously had progress. So in terms of progress, I'm back to square one again for this batch.
+	I will also be working on the next batch at a slower pace as I also intend to spend some time researching new/current metas since I've been away.
+	The Release Information and Character Requests sections have been updated to reflect what I'm currently interested in working on.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	Make sure to tag my anchored posts to make sure I see it.
@@ -72,7 +73,7 @@ https://beta.character.ai/chat?char=8J5-noMs5hnXb4uSODkK0xJtHbETwWh4knE2qG77uxY 
 
 ## Star Wars
 !!! Info There are many ways to describe Star Wars, but for the sake of these bots, they're intended to be oriented around action and drama, though what you do is up to you, of course. Each of my Star Wars bots are OCs. I don't intend on making existing canonical or legends-based Star Wars characters.
-	Expect more of these in the future.
+	Don't expect many more of these in the future.
 ### Jedi Master Vo Notok
 After the death of your Sith Master, you've isolated yourself to in an attempt to meditate and consider where your path is leading you. As you do so, you soon discover you've been tracked. (Request)
 ![Jedi Master Vo Notok](https://characterai.io/i/400/static/avatars/uploaded/2023/3/6/Wrq8FUqhauU43ySl82PG82lUOD1CzuoxElh6Z1bpqrg.webp)
@@ -296,8 +297,7 @@ As thanks for all the support up to this point, I'm providing a list of hints fo
 >3x OC characters
 >>2x Abusive celebrity OC (Alternate versions)
 >>Lamia servant OC
->1x Grisaia Series character
->>Makina
+>1x Female mod-related video game character (New series)
 >4x Pokemon female characters
 >>Bebe
 >>Brigette
@@ -305,14 +305,14 @@ As thanks for all the support up to this point, I'm providing a list of hints fo
 >2x Angel Beats! characters
 >>Kanade Tachibana
 >>Male character
->1x Male Star Wars OC
->1x Flash animation character (New series)
 >2x Hentai game characters (New series, different series)
->1x /aicg/-related character
 >1x Female manga character (New series)
->2x Male anime characters (New series, different series)
+>2x Female anime characters (New series, different series)
+>1x Male anime characters (New series)
+>2x Flash animation characters (New series)
 >1x Male video game character (New series)
 >1x Male movie character (New series)
+
 
 ### Day 1:
 
@@ -442,34 +442,34 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 	Make sure to check the MOTD to find the status of the current or next batch.
 Recently Accepted Requests:
 - Idol/Celebrity taking advantage of you (OC):
-	- Confirmed for Batch 4.
+	- Still confirmed for Batch 4.
 - Lamia Servant (OC):
-	- Confirmed for Batch 4.
+	- Still confirmed for Batch 4.
 	- This suggestion was not directed towards me in an anchored post, but in an anonymous conversation in a thread instead. However, I intend to fulfil the request all the same.
-- Makina (Grisaia series):
-	- Confirmed for Batch 4.
 - Brigette (Pokemon):
-	- Confirmed for Batch 4.
+	- Still confirmed for Batch 4.
 - Bebe (Pokemon):
-	- Confirmed for Batch 4.
+	- Still confirmed for Batch 4.
 
 Currently Pending Requests:
-- Non-obscure female Star Wars character(s).
-	- Existing canon/legends character, non-OC. May or may not update to include characters being considered.
-    - Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
-- Starwars milsim vs the Jedi.
-	- Disclaimer: I intend to keep this closer to a roleplay character which fits the theme and scenario of the request rather than create a simulator bot.
-	- Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
-- Help a schizophrenic Sith Inquisitior to become a colicoid.
-	- Extensive research required, both on Sith Inquisitors and colicoids during the Post-Manderon period or later.
-	- Will be considered for Batch 5. No current stance one or the other. Will make final determination after Batch 4 finishes release.
-- General request for more The Old Republic bots.
-	- Will be taken into account with all current undecided requests.
 - Clarify that Vo Notok's time takes place after the Galactic Empire as opposed to "The Empire".
 	- Not really a request, just temporarily placing this here as a self-reminder.
 
 Recently Denied Requests:
-- N/A
+- Makina (Grisaia series):
+	- No longer interested in working on this character further.
+	- Additionally, Spartan977 authored a Makina Irisu character. While their version could use improvements, such as leaning further into her speech patterns and inserting more of her behaviors, it is an accurate version of her that is worth using.
+	- If this character gets requested again, it will be considered.
+- Most Star Wars-related requests:
+	- Non-obscure female Star Wars character(s).
+		- Not interested in making existing Star Wars characters, nor interested in creating any new Star Wars characters at this time.
+	- Starwars milsim vs the Jedi.
+		- A fantastic idea that I would love to see as well. However, there are botmakers much more suited for creating adventure scenario/narrative-styled bots than I.
+	- General request for more The Old Republic bots.
+		- TOR is far from my area of expertise with Star Wars lore since I've never had an interest in it. If you would like a TOR-related character, chances are you could do it better than I could, especially for specific requests.
+	- Help a schizophrenic Sith Inquisitior to become a colicoid.
+		- See reason on the above denied request.
+		
 
 # Commentary
 - I am primarily a CAItard and rarely use current alternatives. Unless I change which AI platform I primarily use in the future, **I do not plan on putting effort into tuning the Tavern Cards and JSONs to work more appropriately for said alternatives.**

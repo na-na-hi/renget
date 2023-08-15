@@ -27,7 +27,6 @@ https://github.com/kwaroran/RisuAI/wiki
 https://github.com/Cohee1207/SillyTavern
 https://rentry.org/aicg4retards
 https://docs.sillytavern.app
-https://rentry.org/uninstallsillytavern
 - frontend for many AI services; local install; feature rich + extensions
 
 ![](https://files.catbox.moe/witert.png)
@@ -194,11 +193,17 @@ https://github.com/ggerganov/llama.cpp [CPU]
     #### Other
     Various things that don't fit into previous sections.
 
+https://rentry.org/aicg_meta
+- comparison between the different services/models and frontends used by /aicg/
+
 https://rentry.org/waifutext
 - receive texts from your waifu as notifications on Android and more; uses OpenAI
 
 https://rentry.org/TavernAIExtrasGuide
 - set up character expressions in SillyTavern
+
+https://rentry.org/uninstallsillytavern
+- uninstall SillyTavern with all dependencies
 
 ##### Character\.AI
 https://c.ai
@@ -224,6 +229,11 @@ https://naidb.miraheze.org/wiki/Main_Page
 
 https://boards.4channel.org/vg/catalog#s=aids
 - the /vg/aids/, AI Dynamic Storytelling General, is mostly utilizing NAI; a lot of useful info
+
+**Guides**
+*At the moment there are no guides widely accepted as well-written, and some misconceptions were reported regarding the following recommendations, but it's still something instead of nothing so thanks to the authors.*
+https://rentry.org/SillyNAIGuide
+https://rentry.org/NAIChatbot
 
 ##### Miku\.gg
 https://docs.miku.gg
