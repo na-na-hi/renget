@@ -425,7 +425,7 @@ rm -r src/bacon/cake/pizza
 
 ## One Function Static Library
 
-Before moving forward I highly recommend watching the video below. In particular, watch it to get an idea about what libraries are and how we use them.
+Before moving forward I highly recommend viewing the links below. In particular, try to get an idea about what libraries are and how we use them.
 
 https://youtu.be/JbHmin2Wtmc
 https://youtu.be/\_kIa4D7kQ8I
@@ -607,7 +607,7 @@ Now lets use a library that someone else made. I'm choosing raylib because it sh
 Go to your projects directory. Then
 
 ```bash
-"Howdy Window" && cd "Howdy Window"
+mkdir "Howdy Window" && cd "Howdy Window"
 git clone https://github.com/raysan5/raylib
 ```
 

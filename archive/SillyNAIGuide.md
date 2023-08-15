@@ -5,7 +5,8 @@ DISCLAIMER: Most of this is my own experimentation.  Whatever works for *me* may
 	- Edited FAQ to be more readable and clearer about model limitations.  
 	- Added Tesseract to Configs and other config WIPS.  
 	- Working on style and genre guide.
-	- Cleared up Instruct section with more clear example.
+	- Cleared up Instruct section with a more clear example.
+	- Fixed some typos.
 ***
 **Table of Contents**
 [TOC2]
@@ -19,7 +20,7 @@ The first thing you want to do after you've subscribed is to get your API key.
 3. Get Persistent API Token, copy it.  You can always get a new one if you fuck it up somehow, just delete the one before.
 4. Go to API tab on Silly, select NovelAI, and then paste the key in its entirety there.
 
-After you've done all that, you should be able to choose which model to use, and what tier you're on.  Now, you have the NovelAI API key to play with.  However, if you want more than barebones replies/shit replies where Kayra replies for you.  **Allegedly, if you're not on the Opus tier, the API may be different, but I can't say for sure since I went for Opus immediately.**
+After you've done all that, you should be able to choose which model to use, and what tier you're on.  Now, you have the NovelAI API key to play with.  **Allegedly, if you're not on the Opus tier, the API may be different, but I can't say for sure since I went for Opus immediately.**
 
 ***
 
@@ -29,7 +30,7 @@ Now that you're all set up with the API, it's time to fuck around with Settings.
 	- This is necessary in order to keep the bot from replying on your behalf whenever you hit 'Continue.'  Underneath the Advanced Formatting tab on Silly (A), there is a section on the right-hand side that says 'Custom Stopping Strings (KoboldAI/Textgen/NovelAI).  In the text box beneath that, type in:
 	!!!info
 		"\n{{user}}: " 
-	exactly as-is.  The space after the colon **is** necessary.  Silly replaces {{user}} with the persona/name you're currently using, so you have no need to put all of your different, specific persona names.  This will keep the AI from replying 'User: I ahh ahh mistress etc. etc.' when you hit continue.
+	exactly as-is.  The space after the colon **is** necessary.  Silly replaces {{user}} with the persona/name you're currently using, so you have no need to put all of your different, specific persona names.  This will keep the AI from replying 'User: I ahh ahh mistress etc. etc.' when you hit continue.  **You need to hit Continue at least once for decent reply size, but since NAI gives you unlimited gens, it shouldn't be a big issue.**
 2. Context
 	- Click 'Unlock' on the Context Size and then type in the context amount you intend to use.  For Opus, that's 8k.  With both me and the bot writing about two to three paragraphs each, I can get about 35-38 messages before context runs out and messages start getting cut.  Sometimes more, sometimes less.  Experiment with your own writing style to know where and when you want to summarize before continuing.
 3. Preamble

@@ -142,19 +142,14 @@
 
 # ☣️ ➜ Untrustworthy
 
-==Following items have a history of **unethical conduct**, or are **fake clones**.==
+-> ==Following items have a history of **unethical conduct**, or are **fake clones**.== <-
 
-### ⚠️ 1377x
--  **Fake Clone** | 1377x-to
-
-### ⚠️ KickassTorrents
-- **Fake Clone** | kickasstorrents-to
-
-### ⚠️ The Pirate Bay
-- **Unethical Conduct** | thepiratebay-org
-
-### ⚠️ TheRarBg
-- **Fake Clone** | therarbg-com
+WEBSITE | URL | REASON
+:----: | :----: | :----:
+⚠️ 1377x | 1377x-to | **Fake Clone**
+⚠️ KickassTorrents | kickasstorrents-to | **Fake Clone**
+⚠️ The Pirate Bay | thepiratebay-org | **Unethical Conduct**
+⚠️ TheRarBg | therarbg-com | **Fake Clone**
 
 &nbsp;
 

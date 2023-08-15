@@ -26,18 +26,18 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ethan](https://files.catbox.moe/n1h59l.png), [Noah](https://files.catbox.moe/dgqa6t.png)|
 [Frozenvan](https://rentry.org/frozenvan) | Misc |[A BLADE STORY 2 PHASMAGORIA OF TWILLIGHT EMBRACE](https://files.catbox.moe/kdohgg.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Tadashi](https://files.catbox.moe/v66lyg.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
+[Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Hana](https://files.catbox.moe/9eqza8.png), [Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png), [Jack](https://files.catbox.moe/xihhtw.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kinflit](https://files.catbox.moe/et5wkp.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Polly](https://files.catbox.moe/mswkp8.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Gaston](https://files.catbox.moe/7pii9f.png), [Tyana and Lycia](https://files.catbox.moe/4b8cnv.png)|
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Boo](https://files.catbox.moe/cbphzi.png)|[Boo](https://files.catbox.moe/cbphzi.png) [MV]
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[The Narrator](https://files.catbox.moe/dhidbz.png), [Party's stats](https://files.catbox.moe/h2kijg.png), [Threats](https://files.catbox.moe/vjifmi.png), [User's Stats](https://files.catbox.moe/tkwbla.png)
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||

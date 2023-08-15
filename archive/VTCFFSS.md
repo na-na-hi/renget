@@ -429,6 +429,7 @@
 [A Predator's Touch, A Hazy Yellow Line (Part 1)](https://docs.google.com/document/d/e/2PACX-1vSYWLpC1UOezwFHahNkpqZsJq6dXqYx6_Dfk-O9a0BcDBIm2-R-nswgkchfG0xowASdSVT8jqqN8LpI/pub)
 [A Predator's Touch - A Hazy Yellow Line (Part 2](https://docs.google.com/document/d/e/2PACX-1vQghOZupNeWJGPHC6nVEeIf8H4eLnWK3RiMJQwItjuUx0xkPplRBKUG9lUnrnbpY3zNc9Z-RHSqrKwB/pu) (Botan, Koyori, Moona, SFW)
 [A Predator's Touch, A Hazy Yellow Line (Part 3)](https://docs.google.com/document/d/e/2PACX-1vQVPsZhWoEprE8oP_7Sz3nbM-3-2hAmBU-MwtFyKAiRs2R4-UbGWS7xoyrRdSZgiqGj_DqiChMEWHWu/pub) (Botan, Koyori, Moona, Subaru, SFW)
+[A Predator's Touch, A Hazy Yellow Line (Pt. 4](https://docs.google.com/document/d/e/2PACX-1vRcvehOWvdN1muInIUlkyHywne02DCjphnfL0P-Lew_9lVDGFYQsXgrJWUbe0JvRG3ne3xjwDZnl4Kg/pub) (Subaru, Ame, Koyori, Botan, SFW, Drama)
 
 #####->*Let Me Feel Your Pain*<-
 >Description to go here.
@@ -496,6 +497,8 @@
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 35: A Port Where Trouble Docks](https://docs.google.com/document/d/e/2PACX-1vSSJ7nOHkHMBlQAbD3Wi7gHEkmZBRDgj8KXWzhE5L_TljJOG5AVouQnBBhZQywUtr-NQetQjj908yu9/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 36: A Chest Filled With Booty](https://docs.google.com/document/d/e/2PACX-1vSsYOG4TicbM7nlDWCTXXEK1r0YQRG1c3bFX20grHX5UyonUiPPIQLGQS8aoX5QvDk0GsDGgcpGih6a/pub) (Nene, Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys Bard Tales After Midnight: Pond-side With the Champion of Ursol](https://docs.google.com/document/d/e/2PACX-1vRkUA-F5n9N54gzm2-gukQFpkOenzcJ7tKagkPwk99dd1SPeXSu5WgZNyo4cL7hbkT6fyLPBYEx9cAH/pub) (Nene, NSFW)
+[HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
+[Ame Helps You Shed](https://rentry.co/kea5e) (Ame, SFW, Fluff?)
 
 #####->*Our Cures*<-
 >Ayame Nakiri, also known as 'the hottest girl in school', has made it her mission to have sex with every single male student in her grade to flaunt her superiority over the boys at her school, all of which are infatuated with her. All but one. In your eyes, she's nothing but a dirty slut that you would do anything to avoid. So when she approaches you, the last person she needs to fuck to finish her little game, you are quick to reject her advances. Little did you know that doing so would only make things much harder, and upheave your lonely, mundane life into one of chaos, drama, fun and of course, some eroticism. Who knows, maybe you're better off sticking it out until the end.
@@ -559,3 +562,4 @@
 [Balsa: Chapter 16](https://docs.google.com/document/d/e/2PACX-1vSaNa0jnoOgjvF9NzXhfQ3i7Joi7xLjpyO_jGI6oUlZLNEzN--8siuEknULYiABFICm-gY7l3vRRqrP/pub) (Botan, Watame, Civia, Koyori, SFW, Medieval Fantasy, Magic)
 [Balsa: Chapter 17](https://docs.google.com/document/d/e/2PACX-1vTsDnhulNvzASfSi9_V6PyyMhm1XOvALiYK0Yawz50fdELYRHcRQnHrZgyx_5jqCrMCIXRG_s9-P_oW/pub) (Botan, Koyori, Mel, Medieval Fantasy)
 [Balsa: Chapter 18](https://docs.google.com/document/d/e/2PACX-1vR8kcoH3PSucgyod3jsV6YDoAWJ-mbmQ6CSNH4T6MhugOEkrxIkCJ-dIg2b7wpLXCAcuIzs1HOH5Sj7/pub) (Ciyana, Iroha, Mel, Civia, SFW, Medieval Fantasy)
+[Balsa: Chapter 19](https://docs.google.com/document/d/e/2PACX-1vTjnRkePMoovpwUl3Vkgd83eX0dAVkGbZ2-uRZOqW9XjpTFo508LnT6nDwGtRcyGCvsfafXs2JMIWg_/pub) (Ayame, Botan, Civia, medieval fantasy, NSFW)

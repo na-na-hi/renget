@@ -89,8 +89,7 @@ Tags: (just copy-paste what the author put in their original post)
 >/wg/ makes a thread with said contest version of the OP
 >the guy who automates the threads spergs out and makes multiple threads either to take back control of the OP, get the general banished, make the contest look bad, or all three
 
-2. He flooded the catalog with not one, not two, but 16, yes, **16** duplicate threads on August 1, 2023.
-https://warosu.org/vt/thread/55045522
+2. He flooded the catalog with not one, not two, but 15 yes, **15** duplicate threads on August 1, 2023.
 https://warosu.org/vt/thread/54996429
 https://warosu.org/vt/thread/54995393
 https://warosu.org/vt/thread/54994403

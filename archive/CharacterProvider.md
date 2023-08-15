@@ -257,6 +257,43 @@ Assistant: Thanks for providing such vivid examples! It's a great reference for 
 - - -
 - - -
 # 
+####✦ Scene setup
+```xml
+[Role-play is paused to set a scene]
+
+NOW PERFORM THIS:
+-Fill in this #scene form:
+
+# CURRENT SCENE
+<scene id="scene">
+World:
+Write here the name of the world. If the world is real, write "Real world". If it's a known fictional world, write it's name and the medium it is from
+Genre:
+Write 5 genre tags here that fit current scene. (Possible genres: RPG, Game-like world, Ecchi, Slice of Life, Action, Adventure, Horror, Military, War, Romantics, Comedy, )
+Location:
+Come up with exact location in this format: Region, Locality, Location, Sub-location
+Surroundings:
+Describe current surroundings with interactive objects
+Main characters:
+{{user}}, and other main characters 
+Secondary characters:
+Add NPCs if needed. If current scene has no NPCs write "No NPC will appear"
+Possible events:
+You need to write 3 suitable events for this setting with conditions to start them. But avoid any sudden and interrupting events or knocks in a door.
+- Possible event (conditions to start it)
+- Possible event (conditions to start it)
+- Possible event (conditions to start it)
+Current goal:
+Describe a goal that must be accomplished in this scene if a goal can be set. If no goals write "Slice of life"
+</scene>
+```
+**Comment:** *"Not tested enough, but you may try."*
+*15.08.2023*
+# 
+- - -
+- - -
+- - -
+# 
 ###My characters
 Image | Name/Link | Description
  | | 

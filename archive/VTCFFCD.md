@@ -1,23 +1,20 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/e79p25.png)<-
+->![Funny](https://i.imgur.com/PhRRBLc.png)<-
 
-## ->🏖️[Recently added to the archive: 08/07/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 08/15/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series entry!***) [HoloFantasy - Chapter 7, Pt. 7 ~ Distant Longing](https://docs.google.com/document/d/e/2PACX-1vS2XffUv80rBRe9dRfpSYRHFeuonDuMhpOD3mrmgFSS1rUJVmThDUpHmPgjDHIHjNfXgXw_HsiT5xA6/pub) (Coco, Polka, Marine, Fubuki, Ina, Kanata, Noel, SFW, Drama)
-(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 36: A Chest Filled With Booty](https://docs.google.com/document/d/e/2PACX-1vSsYOG4TicbM7nlDWCTXXEK1r0YQRG1c3bFX20grHX5UyonUiPPIQLGQS8aoX5QvDk0GsDGgcpGih6a/pub) (Nene, Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
-(***Series entry!***) [First Train and Kafka: Stop 19](https://docs.google.com/document/d/e/2PACX-1vQoy9w2STuOzF_9FsJ1PwLaetdsVlHujCUGQzBpRiJQGtMUq6O03C9g49bfukLWQr_QmIdR5xKRlQ_9/pub) (anthology series, (you), Suisei, underage sex)
-(***Series entry!***) [First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
-(***Series entry!***) [Balsa: Chapter 18](https://docs.google.com/document/d/e/2PACX-1vR8kcoH3PSucgyod3jsV6YDoAWJ-mbmQ6CSNH4T6MhugOEkrxIkCJ-dIg2b7wpLXCAcuIzs1HOH5Sj7/pub) (Ciyana, Iroha, Mel, Civia, SFW, Medieval Fantasy)
-[The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult)
-[My Little Ruffian](https://docs.google.com/document/d/e/2PACX-1vRaT-dzuxsBfJClvUjp1i034w_vREgCyG8bu1LNRLvHviJVShGl9YH-dbt97jB49xS7Mx1277cISCpW/pub) (Fuwawa, Mococo, NSFW, Belly Rubs)
-[Pussy Annihilation](https://rentry.org/r95ka) (Okayu, NSFW, Shitpost, Comedy)
-[Post Apocalypse](https://docs.google.com/document/d/e/2PACX-1vQCDq2rhMqEewUdcGjuM8SI7VOkL930rdrlLEhHf5L2H3jpYK9Wg7BtqES7X-YUln6DYSJqQZmVsjkW/pub) (Shiori, SFW, Post Apocalyptic)
-[Sora's Secret greentext compilation](https://docs.google.com/document/d/e/2PACX-1vSGN9Gn4ORDuoIk1mEkOxn-72gfsHBXD2aot8MjIVlWLJk6iWUj6z8qRvITCJJMj0l2lS4JwF4CWw1n/pub) (Sora, Romance, Drama, SFW)
-[Shiori's Secret](https://docs.google.com/document/d/e/2PACX-1vRoeB20FiwGxZH4OJdNG64qAeh4bI1oRXelJ2iJK3qzyKRwk9tmNQnwn8TJmFLjJ14fDpRzGQ8BlgvI/pub) (Shiori, SFW(?), Gore)
-[Fuwa-Moco Fic](https://docs.google.com/document/d/e/2PACX-1vRjCsLDAyS7jQGSp5OpUDPof4EFFCJA4e9g_IPii6afpBlWuVMb8lGDp5GHyK04F4NKnqmXm2E94q88/pub) (Fuwawa, Mococo, NSFW)
-<-
+->(***Series entry!***) [Balsa: Chapter 19](https://docs.google.com/document/d/e/2PACX-1vTjnRkePMoovpwUl3Vkgd83eX0dAVkGbZ2-uRZOqW9XjpTFo508LnT6nDwGtRcyGCvsfafXs2JMIWg_/pub) (Ayame, Botan, Civia, medieval fantasy, NSFW)
+(***Series entry!***) [HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
+[Ame Helps You Shed](https://rentry.co/kea5e) (Ame, SFW, Fluff?)
+(***Series entry!***) [A Predator's Touch, A Hazy Yellow Line (Pt. 4](https://docs.google.com/document/d/e/2PACX-1vRcvehOWvdN1muInIUlkyHywne02DCjphnfL0P-Lew_9lVDGFYQsXgrJWUbe0JvRG3ne3xjwDZnl4Kg/pub) (Subaru, Ame, Koyori, Botan, SFW, Drama)
+[Yuzuki Veterinary Services - Second Opinion](https://docs.google.com/document/d/e/2PACX-1vQ346TAZwSIjTMyIe2c73cVdv79-AzEpZ8dmhCupGFnQ6N5uvqK-iuyds-5VQF4WYCbMrDg9Rmnjo_-/pub) (Towa, Choco, NSFW, Bestiality, Gangbang)
+[Reach For The Stars, Log 1: The Beginning Of A New Journey](https://docs.google.com/document/d/e/2PACX-1vTwePj_vvtX0kX40i32jTOKXxW5X_lPHxcHtMI14mOs2XwPfc0ugeScMtJCV5lnFntJazA2joa6r9Gg/pub) (Houshou Marine, Hoshinova Moona, Rikka, Airani Iofifteen, Sakura Miko, AZKi, Tsukumo Sana, SFW, Science-Fiction)
+[FuwaMoco Sex Backseating Greens](https://docs.google.com/document/d/e/2PACX-1vROLdKUC5daqm9lwXHVKGKvUXkv5vjmTLJ37QTkDb2I7axjxLyG5-oU46LKR5PoouzmRZ_nzlttFu4t/pub) (Fuwawa, Mococo, NSFW, Greentext)
+[House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (Koseki Bijou, Nerissa Ravencroft, Shiori Novella, NSFW, cunnilingus)
+[Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, Western, Comedy)
+[Three Sisters](https://docs.google.com/document/d/e/2PACX-1vSUXu5o00sy2U_g58S6FjYQIe-twOh5nnm6pCm3pmqCgWG47Gt2DU2EtEHO9rGJ3uhuSFq7y8aTfJVS/pub) (Choco, Bijou, Comedy, NSFW)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1009,6 +1006,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [HoloEn: Experimentation](https://docs.google.com/document/d/1P2XBJz47_WkeXnbVwa6gwQIL3s12EYQgTFEfOLAxdmo/edit) (Amelia, Ina, Gura, Calli, Kiara, NSFW(?), Wedgie Fetish)
 [Fubuki End](https://docs.google.com/document/d/e/2PACX-1vTrHfMxwyqdZlyT1qk2NzeGRO5txG5Ka6Vv77XXl1n5m_oenDAbUSF2D9o2n_bC1kUBYUuwwWMmunS-/pub) (Fubuki, NSFW, Rape, Chuuba Abuse, Tragedy)
 [Yuzuki Veterinary Services](https://docs.google.com/document/d/e/2PACX-1vSE9yfk0DnJZouiUeg9_pzBYVH_i8oTEI2YAIfFSZrSZtcN-XLJs0-_So04qJfEmHB69uxFM6FC2hRu/pub) (Choco, NSFW, Bestiality)
+[Yuzuki Veterinary Services - Second Opinion](https://docs.google.com/document/d/e/2PACX-1vQ346TAZwSIjTMyIe2c73cVdv79-AzEpZ8dmhCupGFnQ6N5uvqK-iuyds-5VQF4WYCbMrDg9Rmnjo_-/pub) (Towa, Choco, NSFW, Bestiality, Gangbang) ^
 [Feelin' Crabby](https://archiveofourown.org/works/41550336) (Regis, NSFW, Necrophilia, Xenophilia, Guro, Half-Life)
 [Impromptu Sex Ed](https://rentry.co/yspct) (Aqua, Suisei, Towa, NSFW)
 [Feeding A Black Fox](https://docs.google.com/document/d/e/2PACX-1vQnY-IHZBeLadG9mxnrLIxM3HwwbhRcLhsKM44A4bF5COqHusev6HafL3py9QNsJykvJJTb6A3rTjdt/pub) (Kurokami, SFW, Fluff, Light Gore)
@@ -1253,3 +1251,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Sora's Secret greentext compilation](https://docs.google.com/document/d/e/2PACX-1vSGN9Gn4ORDuoIk1mEkOxn-72gfsHBXD2aot8MjIVlWLJk6iWUj6z8qRvITCJJMj0l2lS4JwF4CWw1n/pub) (Sora, Romance, Drama, SFW)
 [Shiori's Secret](https://docs.google.com/document/d/e/2PACX-1vRoeB20FiwGxZH4OJdNG64qAeh4bI1oRXelJ2iJK3qzyKRwk9tmNQnwn8TJmFLjJ14fDpRzGQ8BlgvI/pub) (Shiori, SFW(?), Gore)
 [Fuwa-Moco Fic](https://docs.google.com/document/d/e/2PACX-1vRjCsLDAyS7jQGSp5OpUDPof4EFFCJA4e9g_IPii6afpBlWuVMb8lGDp5GHyK04F4NKnqmXm2E94q88/pub) (Fuwawa, Mococo, NSFW)
+[Reach For The Stars, Log 1: The Beginning Of A New Journey](https://docs.google.com/document/d/e/2PACX-1vTwePj_vvtX0kX40i32jTOKXxW5X_lPHxcHtMI14mOs2XwPfc0ugeScMtJCV5lnFntJazA2joa6r9Gg/pub) (Houshou Marine, Hoshinova Moona, Rikka, Airani Iofifteen, Sakura Miko, AZKi, Tsukumo Sana, SFW, Science-Fiction)
+[FuwaMoco Sex Backseating Greens](https://docs.google.com/document/d/e/2PACX-1vROLdKUC5daqm9lwXHVKGKvUXkv5vjmTLJ37QTkDb2I7axjxLyG5-oU46LKR5PoouzmRZ_nzlttFu4t/pub) (Fuwawa, Mococo, NSFW, Greentext)
+[House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (Koseki Bijou, Nerissa Ravencroft, Shiori Novella, NSFW, cunnilingus)
+[Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, Western, Comedy)
+[Three Sisters](https://docs.google.com/document/d/e/2PACX-1vSUXu5o00sy2U_g58S6FjYQIe-twOh5nnm6pCm3pmqCgWG47Gt2DU2EtEHO9rGJ3uhuSFq7y8aTfJVS/pub) (Choco, Bijou, Comedy, NSFW)
