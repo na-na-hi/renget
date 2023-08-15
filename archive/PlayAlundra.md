@@ -2,11 +2,12 @@
 
 ->![Please play Alundra it is a cool 2D "Zelda-like" even when that term does Alundra disservice. It focuses more on puzzles and story than Zelda but not in PS4-PS5 way. You can jump in it as well! It's a cool adventure! Do give it a shot on emulator with a legal .iso file you got from making back-ups from your own disc you bought from a retailer back when PS1 games were sold. Or buy it on some Playstation I dunno. Or just Yarr Harr or something.](https://files.catbox.moe/8xtfya.jpg)<-
 
-->Yo<-
+->Yo<- 
 I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
 All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude on Silly Tavern
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
 If you want to contact me for a reason or another, here is my e-mail: playalundra@proton.me
+Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](https://rentry.org/SilverSurfer) ![He's a cool nice dude](https://files.catbox.moe/k4om3c.png)
 [TOC]
 
 # Get some standards
@@ -16,6 +17,10 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Kobayashi** | **558 Tokens (298 Permanent)**
+![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
+**Wren** | **764 Tokens (418 Permanent)** 
+![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/jroyjg.png) [JSON](https://files.catbox.moe/rj1scx.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
 **Boo** | **485 Tokens (341 Permanent)** 
 ![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
 
@@ -29,9 +34,9 @@ If you want to contact me for a reason or another, here is my e-mail: playalundr
 **Ilulu**  | **871 Tokens (340 Permanent Tokens).** 
 ![But where is the lore?](https://files.catbox.moe/mdy0fe.png) | Ilulu paizuri rapes you in an alleyway. Completely off-character but is based on pre-Kobayashi friendship Ilulu. Lore nowhere to be found, it's just you and the rapist Dragon. Get ready for her to pin your arms above your head if using Claude, seems to have trouble with size difference and such.  | [Card](https://files.catbox.moe/j41mha.png) [JSON](https://files.catbox.moe/yht6u8.json)
 **Sanna** | **495 Tokens (268 Permanent).** ==My most popular card for some reason==
-![Dude, she is like 11](https://files.catbox.moe/0dlzpn.png) | Random OC I came up with one day, Naive oppai loli. Likes being helpful and fantasizes about romance. She likes ice cream, is way too easy to manipulate. She is also completely oblivious of her gigantic breasts.  Take her, fuck her, I don't care, go on, ya'-- Thank you [Silver Surfer Anon](https://rentry.org/SilverSurfer) for making the art, such a legend, I KNEEL. |  [Card](https://files.catbox.moe/p0fxrd.png) [JSON](https://files.catbox.moe/ao1a7y.json) [CHUB](https://www.chub.ai/characters/playalundra/Sanna)
+![Dude, she is like 11](https://files.catbox.moe/0dlzpn.png) | Random OC I came up with one day, Naive oppai loli. Likes being helpful and fantasizes about romance. She likes ice cream, is way too easy to manipulate. She is also completely oblivious of her gigantic breasts.  Take her, fuck her, I don't care, go on, ya'-- Thank you [Silver Surfer Anon](https://rentry.org/SilverSurfer) for making the art, such a legend. |  [Card](https://files.catbox.moe/p0fxrd.png) [JSON](https://files.catbox.moe/ao1a7y.json) [CHUB](https://www.chub.ai/characters/playalundra/Sanna)
 **Dixie** |  **421 Tokens (282 Permanent).**
-![She's 12? What a hag](https://files.catbox.moe/8tg1kw.png) | Small country girl with ridiculously big breasts is having some fun country life yeehaw. Isn't naive like Sanna, instead likes teasing a bit. Things seems to escalate fast everytime, dunno if it's just me.  Has 3 different starters now that I know they exist. If you want to have more fun, add lactation in defs. Once again, thank you [Silver Surfer Anon](https://rentry.org/SilverSurfer) for making the art. I KNEEL. |  [Card](https://files.catbox.moe/3x6cp6.png) [JSON](https://files.catbox.moe/0u93rd.json ) [CHUB](https://www.chub.ai/characters/playalundra/Dixie)
+![She's 12? What a hag](https://files.catbox.moe/8tg1kw.png) | Small country girl with ridiculously big breasts is having some fun country life yeehaw. Isn't naive like Sanna, instead likes teasing a bit. Things seems to escalate fast everytime, dunno if it's just me.  Has 3 different starters now that I know they exist. If you want to have more fun, add lactation in defs. Once again, thank you [Silver Surfer Anon](https://rentry.org/SilverSurfer) for making the art. |  [Card](https://files.catbox.moe/3x6cp6.png) [JSON](https://files.catbox.moe/0u93rd.json ) [CHUB](https://www.chub.ai/characters/playalundra/Dixie)
 
 ## MISC
 

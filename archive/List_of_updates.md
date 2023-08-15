@@ -67,3 +67,4 @@
 |14/08/2023|53|Mentions & Collabs|Addition of 2 timestamp from Mumei's HoloCure Early Access streams containing mentions and Chat-Streamer interactions.|
 |14/08/2023|54|Mentions & Collabs|Addition of the Kiara Comptibility collab.|
 |14/08/2023|55|Mentions & Collabs|Addition of a timestamp from the sixth MWMC MORNING.|
+|15/08/2023|56|Mentions & Collabs|Addition of a timestamp from Kobo's New Outfit Reveal.|

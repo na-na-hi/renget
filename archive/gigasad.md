@@ -80,7 +80,7 @@ Mean Girl Eileen
 ![Eileen](https://files.catbox.moe/r3zqjh.png)
 https://files.catbox.moe/r3zqjh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-First bot. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Her personal story is left open-ended. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine. The CAI link here is the original character.
+First bot. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. Setting her output settings to low token counts is recommended, to keep her responses short and curt. Now remade for tavern with expanded defs. Doomer girl Eileen on characterhub, as well as her CAI version is an excellent bot but not mine. The CAI link here is the original character.
 
 Mean Lady Nadine
 ![Nadine](https://files.catbox.moe/pm73bl.png)

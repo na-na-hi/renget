@@ -109,4 +109,9 @@
 |---|---|---|
 |12/08/2023|[Timestamp #1](https://youtu.be/DMABvQgtXuE?t=1338) [Timestamp #2](https://youtu.be/DMABvQgtXuE?t=1480) [Timestamp #3](https://youtu.be/DMABvQgtXuE?t=1576) [Timestamp #4](https://www.youtube.com/watch?v=DMABvQgtXuE&t=1795) [Timestamp #5](https://youtu.be/DMABvQgtXuE?t=2400) [Timestamp #6](https://www.youtube.com/watch?v=DMABvQgtXuE&t=2692)|**Mentions** - During a Minecraft stream, Kaela mentions that Nerissa send her DMs for playing League of Legends with her and the group comprised of Fauna & Kobo. Some of the timestamps are also related to Kaela wanting a new Minecraft friend. That new Minecraft friend being Nerissa.|
 
+######Kobo
+|Date|Link|Nature & Notes|
+|---|---|---|
+|15/08/2023|[Timestamp](https://youtu.be/4CbH8pcq9C4?t=2869)|**Mentions** - A little less than a mention, just a call out about the pre-debut interactions concerning Nerissa's buttwings and flying with Kiara. This happened toward the end of her new outfit reveal.|
+
 ###Megacollabs

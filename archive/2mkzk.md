@@ -8,12 +8,10 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##23/08/17-23/08/20 (yy/mm/dd)
 
 ##Melts
-one day to be reserved for EoSmelt
-no, not that one
 
 **THU: - at 2UTC ()**
 **FRI: . at 2UTC ()**
-**SAT: - at 2UTC ()**
+**SAT: Red Bull Rockman & Tatakae! Team Shachi at 2UTC (Parsec)**
 **SUN: Golden Sun at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes

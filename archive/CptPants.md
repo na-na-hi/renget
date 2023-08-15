@@ -1,6 +1,6 @@
 #CptPants's Bots
--> Last updated: June 24 <-
-Bots by the fella who goes by CptPants.
+-> Last updated: August 15 <-
+Bots by the fella who goes by CptPants. Currently inative due to a lack of GPT4 access.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
 *Assume all bots were made for NSFW unless they're tagged otherwise.*
