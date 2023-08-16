@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/ybp3v5.jpg)
-Lazy Edition
+![suggested OP image](https://files.catbox.moe/6oob6y.png)
+Cubed Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>442118790
+Last thread: >>442289515
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,12 +36,11 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 \>Write knife-eared prompts for this week's theme, Elf Friday!
  
 ▶News
+\(8/15) Kayra roids out https://i.4cdn.org/vg/1692132836524566.png ; Cube preset is pretty good
 (8/11) Kayra for all tiers; NAI Reddit AMA: https://www.reddit.com/r/NovelAi/comments/15nne4b/we_are_anlatan_the_team_behind_novelainet
 (8/03) NAI fixes GPUs probably; Kuru talks shop https://www.youtube.com/watch?v=4uJAqwdVIs4
-(07/28) Evals score Kayra higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
+(07/28) Kayra evals higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
 (07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama
-(07/20) NAI adds https://docs.novelai.net/text/phrasereppen.html and https://docs.novelai.net/text/cfg.html
-
 
 
 #Perma-Template

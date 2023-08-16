@@ -34,7 +34,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post
+!!!warning Second OP Post - Tag schedule : F3a_prcW0AAymxQ
 
 \>Introduction
 Debut Stream

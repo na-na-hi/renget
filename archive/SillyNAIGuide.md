@@ -1,12 +1,12 @@
 # BASIC NAI SETTINGS AND GUIDE
 ***
 DISCLAIMER: Most of this is my own experimentation.  Whatever works for *me* may not work perfectly for *you*, and I encourage you to experiment with things at your own pace.  This will be a **SillyTavern** focused guide, assuming you are using **1.9.7** and the **Opus tier** for NAI.  I'm still experimenting with how it works with lorebooks and multi character cards, so this is the most basic (but attempting to be comprehensive) guide.  For web users, see: https://rentry.org/NAIChatbot
-- EDIT 8/14/23: 
-	- Edited FAQ to be more readable and clearer about model limitations.  
-	- Added Tesseract to Configs and other config WIPS.  
-	- Working on style and genre guide.
-	- Cleared up Instruct section with a more clear example.
-	- Fixed some typos.
+- EDIT 8/15/23: 
+	- Cleared up more sections
+	- Edited formatting on Author's Note.
+	- Added Possible Hiccups
+
+- If you have anything you want to see on here/problems with the guide that I may not have explained well enough or properly, send an email to my burner: ghaboo@proton.me.  This is my very first time making a guide so I welcome any advice you may have for me.
 ***
 **Table of Contents**
 [TOC2]
@@ -76,10 +76,16 @@ Notice the single, short reply.  Now, let's try the exact same one with the exac
 
 That's a big difference for a one-sentence reply, right?  That's the power of the Author's Note.  This is the one I use to get the latter reply.  Change out the parenthesis for whatever style you want (3rd person POV in the style of G.R.R. Martin, etc.).  Specifying word length doesn't do much since it'll stop on its own no matter what through Silly, though I think adding specific counts help since 'long replies' can be subjective, but if you hit Continue on Silly, it will finish any incomplete sentences in a reply:
 !!!info
-	{Replies are long, with dynamic sentence structure and length, in the form of (whatever style of writing you want here). Speech uses casual and colloquial language fitting of the characters. Descriptions are highly detailed and leave little to the imagination in order to immerse the reader.. Be graphic while describing the sensory details and inner thoughts/emotions of the character to bring the scenario and interaction to life. You must stay in character at all times, matching speech patterns, mannerisms, behaviors, reactions and the overall personality of the character as established. Changes or additions are done subtly and naturally.}
+	{ Replies are long, with dynamic sentence structure and length, in the form of (whatever style of writing you want here). Speech uses casual and colloquial language fitting of the characters. Descriptions are highly detailed and leave little to the imagination in order to immerse the reader.. Be graphic while describing the sensory details and inner thoughts/emotions of the character to bring the scenario and interaction to life. You must stay in character at all times, matching speech patterns, mannerisms, behaviors, reactions and the overall personality of the character as established. Changes or additions are done subtly and naturally. }
+
+**The space after the first curly bracket and the one at the end are your best bet, as the default preamble on Silly also includes them.**
 ***
 ###AUTHOR/GENRE STYLES
 WIP
+***
+###POSSIBLE HICCUPS (8/15/23)
+- Make sure you unclick 'Trim incomplete sentences' in Advanced Formatting so that you're not losing part of the text you're generating when you want to hit 'Continue' for a full-fledged reply and not one that's purely speaking for you/from your perspective.
+- Cards without example chats tend to give shorter replies on average, especially if the greeting is very short.  I'm working on a guide on how to extend greetings and for possible example chats so that the bot has more to go off of.  It's still a 13B, so you need to feed it to be fed in return.
 ***
 ##FAQ
 - "Is this as good as Claude/GPT4?"
@@ -87,10 +93,10 @@ WIP
 - "Is it uncensored?"
 	- Yeah, it hasn't said 'No' to me yet and I've been able to do some fucked up shit that other models would attempt to cuck me out of.  Incest, rape, power imbalances, forcing two cocks into the same hole, says 'cunny' unprompted, things like that.
 - "Is it more cost-effective than Turbo?"
-	- That's for you to decide and is heavily affected by if you're a heavy user, your own personal standards, as well as if you're more willing to jump through hoops to keep your OAI access.  I quit Turbo cold turkey after it went full positivity bias on me and I enjoy being able to be as fucked up and negative as I like with as many generations as I want.  The freedom of not having to worry about whether I'll be sent an OAI warning letter or my sekrit club shutting down is fun and I'd rather do this than doom.
+	- That's for you to decide and is heavily affected by if you're a heavy user, your own personal standards, as well as if you're more willing to jump through hoops to keep your OAI access.  I quit Turbo cold turkey after it went full positivity bias on me and I enjoy being able to be as fucked up and negative as I like with as many generations as I want.  The freedom of not having to worry about whether I'll be sent an OAI warning letter or my sekrit club shutting down is fun and I'd rather do this than doom.  If you have a local set up that already works for you, then obviously ignore the guide.
 - "But is it as smart as Turbo?"
 	- No, not if you want it to stat track and it often, as most smaller models do, loses track of clothing and positions.  That said, I think it's more creative than Turbo for ERP specifically.  With the different configs, you can get wildly varied responses and due to its erotic content training, you can get things that Turbo won't bring up without some leading.  Think of Kayra as a very experienced prostitute with a third grade math education: It'll give you a good time, but don't expect coding or accurate research help.
 - "What about local models?"
-	- I think they're neat and I'm also looking into them but I'm a techlet.  I tried a 13B from Freellamas anon that was pretty good so keep an eye out on the threads to try it out for yourself.  I'm optimistic, but until I get a 3090 or decide to cloud host, this works decently for me.  I'm not sure I'll keep the 25 tier forever, but it's always worth it to have as many options as possible.
+	- I think they're neat and I'm also looking into them but I'm a techlet.  I tried a 13B from Freellamas anon that was pretty good so keep an eye out on the threads to try it out for yourself.  I'm optimistic, but until I get a 3090 or decide to cloud host, this works decently for me.  I'm not sure I'll keep the 25 tier forever, but it's always worth it to have as many options as possible.  If you want to try a good 13B model, MythoMax is a good one.
 - "$0.03 has been deposited into your account."
 	- Man, I wish.

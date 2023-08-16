@@ -1,5 +1,5 @@
 !!! note -> 🪶  **Japan Arc 2: Holosummer edition Annex**  🪶 <-
-	Owl in Japan again. Recordings for concert, birthday projects and more. Also off-collab opportunities and a even longer stay than her visit in Janurary. Any time and dates mentioned below are JST time. Click here fot the [first Japan Arc](https://rentry.org/nydbm).
+	Owl in Japan again. Recordings for concert, birthday projects and more. Also off-collab opportunities and a even longer stay than her visit in Janurary. Cover also provided her with a streaming setup so there were| solo streams comapred to the last Japan arc. Any time and dates mentioned below are JST time. Click here fot the [first Japan Arc](https://rentry.org/nydbm).
 [Go back to the Main Page](https://rentry.org/46mci)
 [Go back to the Recommendation page](https://rentry.org/cgy92)
 [Go back to the M.E.S. page](https://rentry.org/t59a7)
@@ -89,3 +89,13 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 | Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
 |------|-----|-----|-----|
 |:D| 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! | [magnet](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| First unarchived she did in Japan. Been busy for the past few days.|
+
+**Day 26 - 2023-08-13**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D|  歌枠 but Mumei sings songs she doesn't know very well with a cold | [Link](https://www.youtube.com/watch?v=w241Wd4asJE)| Late night unlisted karaoke in Japan. Result of [nighttime caffiene intake](https://twitter.com/nanashimumei_en/status/1690370778704068610). Reminiscent of the old sugar rush arc.?|
+
+**Day 27 - 2023-08-14**
+| Member (s)| Title | Link | Nature + Timestamps of Mentions/Apperances |
+|------|-----|-----|-----|
+|:D|  【HOLOCURE】Early Moom Gets The Update !!! | [Link](https://www.youtube.com/watch?v=5kEVYZ307sY)|[Stayed up late](https://twitter.com/nanashimumei_en/status/1690722817908916224) to grind and running on [2 hours of sleep](https://twitter.com/nanashimumei_en/status/1690812633900019712). Had to delay because she only woke up just before the [scheduled start time](https://hololyzer.net/youtube/realtime/supana/5kEVYZ307sY.html). Lots of noises.|

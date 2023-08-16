@@ -1,5 +1,7 @@
 ##/PMDG/ Clover Guild
 ![Wave 1](https://i.imgur.com/98HmV9t.png)
+!!! danger
+	Please do not publicly share edit codes for any of the archives. If something  needs to be changed, please either ask a maintainer or *privately* ask for the codes.
 [TOC3]
 ###Where to Start
 [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -30,7 +32,7 @@ Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
 Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
 Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
-Cheesecake | M | Wooper | Politoed (Apple, F) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#cheesecakeapple)
+Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member(?) | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
@@ -264,6 +266,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
 	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
+	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)

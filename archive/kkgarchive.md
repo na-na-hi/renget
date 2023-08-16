@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 15.08.2023 22:45 UTC]
+[Last Updated: 16.08.2023 04:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7531453/](https://boards.4chan.org/h/thread/7531453/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 621&nbsp;&nbsp;[archiveofsins.com/h/thread/7531453/](https://archiveofsins.com/h/thread/7531453/)&nbsp;&nbsp;&nbsp;&nbsp;(15.08.2023 20:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Raining Chika's Edition
 - 620&nbsp;&nbsp;[archiveofsins.com/h/thread/7527028/](https://archiveofsins.com/h/thread/7527028/)&nbsp;&nbsp;&nbsp;&nbsp;(12.08.2023 23:12)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;The Future is a Dismal Place Full of Rats and AI Art Edition
-- 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lounge edition
+- 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Lounge edition
 - 618&nbsp;&nbsp;[archiveofsins.com/h/thread/7519188/](https://archiveofsins.com/h/thread/7519188/)&nbsp;&nbsp;&nbsp;&nbsp;(07.08.2023 20:37)&nbsp;&nbsp;[1117]&nbsp;#&nbsp;Something Memorable Edition
 - 617&nbsp;&nbsp;[archiveofsins.com/h/thread/7515576/](https://archiveofsins.com/h/thread/7515576/)&nbsp;&nbsp;&nbsp;&nbsp;(04.08.2023 22:03)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Gym Edition
 ---

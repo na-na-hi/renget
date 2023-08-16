@@ -327,9 +327,9 @@ https://civitai.com/models/113404/jack-mass-effect
 https://civitai.com/models/22827/talizorah-mass-effect
 https://civitai.com/models/20855/talizorah-vas-normandy-mass-effect
 - Liara T'Soni
+https://civitai.com/models/120646/liara-tsoni-mass-effect-or-2-outfits-locon-or-1-outfit-lora
 https://civitai.com/models/19668/asari-diffusion
 https://civitai.com/models/20081/asari-diffusion-anime
-https://civitai.com/models/16091/liara-
 - Samara
 https://civitai.com/models/88235/samara-mass-effect-lora
 - Pelessaria B'Sayle
@@ -362,3 +362,19 @@ https://civitai.com/models/122339/tecna-or-enchantix-or-winx-club-s3
 - Aisha/Layla
 https://civitai.com/models/115107/aishalayla-winx-club-s2
 https://civitai.com/models/122335/aishalayla-or-enchantix-or-winx-club-s3
+
+# Mortal Kombat
+
++ D'Vorah
+https://civitai.com/models/111823/dvorah-mortal-kombat	- Mileena
+https://civitai.com/models/111851/mileena-mortal-kombat-mk10-3d-era	- Kitana
+https://civitai.com/models/93307?modelVersionId=99482
+- Sheeva
+https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms	- Sindel 
+https://civitai.com/models/115232/sindel-mortal-kombat-embedding (TI)
+- Skarlet
+https://civitai.com/models/88846/skarlet-mortal-kombat-mk9mk11
+- Cetrion
+https://civitai.com/models/127934/cetrion-mortal-kombat-mk11
+- Cassie Cage
+https://civitai.com/models/125444/cassie-cage-mortal-kombat-mk11

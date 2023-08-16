@@ -47,6 +47,9 @@ https://beta.elevenlabs.io/
 
 ####NAI:
 API Docs: https://api.novelai.net/docs/
+https://docs.novelai.net/text/phrasereppen.html
+https://docs.novelai.net/text/cfg.html
+
 NAI specific wiki: https://naidb.miraheze.org
 Old module guide: https://rentry.org/modguide
 Card Maker: https://grotar00.itch.io/nai-card-editor

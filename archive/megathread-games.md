@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Sign Up
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with a vast amount of knowledge.
@@ -109,7 +109,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Browser Games
+# 📑 ➜ Browser Games
 
 ### 🌐 [Addicting Games](https://www.addictinggames.com/)
 - One of the most popular gaming websites ever reaching more than ten million different users each month.
@@ -145,7 +145,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Search Engines
+# 📑 ➜ Search Engines
 
 ### 🔍 [Programmable Search Engine](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 - Powered by a quick and effective custom Google search engine that searches several reliable sources.
@@ -165,7 +165,7 @@
 
 &nbsp;
 
-# 📑 4 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🐐 [DODI Repacks](https://dodi-repacks.site/)
 - Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector.
@@ -200,6 +200,32 @@
 -> ![](https://take-me-to.space/FYQpFtp.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 🪦 ➜ Untrustworthy Graveyard
+
+- Following items have historically or still currently show unethical behavior, poor regulation, or the deliberate injection of malware. Some of them are misleading fake clones that dishonorably employ the name of a previous, well-known brand to lure users.
+
+WEBSITE | URL
+:---- | :----
+⚠️ AIMHAVEN | aimhaven-com
+⚠️ ApunKaGames | apunkagames-com
+⚠️ Crohasit | crohasit-net
+⚠️ Descarga Game | descargagame-com
+⚠️ Game3rb | game3rb-com
+⚠️ IGGGames | igg-games-com
+⚠️ NexusGames | nexus-games-net
+⚠️ nosTeam | nosteamgames-ro
+⚠️ Ocean of Games | oceansofgamesscom
+⚠️ Repack-Games | repack-games-com
+⚠️ Steam-Repacks | steam-repacks-com
+⚠️ STEAMUNLOCKED | steamunlocked-net
+⚠️ Worldofpcgames | worldof-pcgames-net
 
 &nbsp;
 

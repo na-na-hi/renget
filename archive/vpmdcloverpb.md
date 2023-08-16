@@ -358,8 +358,22 @@ Parents: George (marowak, male) Dinece (sableye, female,)
 -Usually kinda nervous but can become more confident when talking about rocks and his shop.
 
 ###Cheesecake/Apple
-Cheesecake's held item is a Lucky Ribbon worn as a scarf.
-Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Her held item is a Pecha Scarf.
+>Cheesecake, Wooper (M), Relaxed
+> The glue and heart of Team Gumbo, Cheesecake is a happy-go-lucky little guy who is always up for some fun. He may be a little naive at times, but he's as sweet as his namesake and always willing to help.
+> - Loves sweet treats.
+> - **Held Item:** Lucky Ribbon (worn as a scarf)
+> - **Special Identifier:** Skin is a patchy combination of normal and shiny Wooper coloration.
+
+>Apple, Politoed (F), Timid
+> Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Though she is soft-spoken, she is protective of Cheesecake and almost sees him as a little brother. This is the original reason she decided to form Team Gumbo with him, to keep him safe.
+> - Holds the team's item bag
+> - **Held Item:** Pecha Scarf
+> - **Special Identifier:** Has freckles across her face (cheeks, nose, under eyes) and on her knees and elbows.
+
+>Etouffee, Corphish (M), Hasty/Rash
+> A former outlaw assigned to Team Gumbo for "rehabilitation", the grumpy crawfish has a soft spot for Cheesecake and they share the sort of friendship said to have once been seen between an outlaw Armaldo and a young Igglybuff. However, he is quick to anger and a bit selfish, often butting heads with Apple. The two personalities clashing is the reason for his nickname; during a tiff between Etouffee and Apple, the frog Pokemon made a vague threat to make an etouffee out of the crustacean, and since then Cheesecake obliviously started calling him "Etouffee." No one knows Etouffee's real name, if he has one.
+> - **Held Item:** Fierce Bandanna (tied on his arm, between his claw and body)
+> - **Special Identifier:** Has a broken middle horn, a scar on his right "cheek", and another scar across his left eye. Has various smaller scratches in various places.
 
 ###Makky/Asana
 [See linked](https://rentry.org/BulkGuide)

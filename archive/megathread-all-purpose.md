@@ -142,15 +142,15 @@
 
 # ☣️ ➜ Untrustworthy Loot
 
-- **Unethical Conduct** = No longer fully regulated, chance of getting malware quite high.
-- **Fake Clone** = Dishonorably luring users by leveraging the name of an older, well-known brand.
+- Following items have historically or still currently show unethical behavior, poor regulation, or the deliberate injection of malware. Some of them are misleading fake clones that dishonorably employ the name of a previous, well-known brand to lure users.
 
-WEBSITE | URL | REASON
-:----: | :----: | :----:
-⚠️ 1377x | 1377x-to | **Fake Clone**
-⚠️ KickassTorrents | kickasstorrents-to | **Fake Clone**
-⚠️ The Pirate Bay | thepiratebay-org | **Unethical Conduct**
-⚠️ TheRarBg | therarbg-com | **Fake Clone**
+WEBSITE | URL
+:---- | :----
+⚠️ 1377x | 1377x-to
+⚠️ KickassTorrents | kickasstorrents-to
+⚠️ RARBG DUMP INDEX | rarbg-best
+⚠️ The Pirate Bay | thepiratebay-org 
+⚠️ TheRarBg | therarbg-com
 
 &nbsp;
 
