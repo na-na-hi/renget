@@ -1,4 +1,4 @@
-!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs & mentions on other streams.![Image description](https://files.catbox.moe/f9inkg.png) <-
+!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)The Lover of Idols![Image description](https://files.catbox.moe/f9inkg.png) <-
 
     This is a list of collabs, complementary POVs and cameos done by Nerissain the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom is not counted, the only exceptions are breakdowns or aftermaths of previous streams like offcollabs that she took part of. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP.
 
@@ -11,7 +11,7 @@
 |07/08/2023| [Phasmophobia](https://www.youtube.com/watch?v=6CL5ijOYbZI) | [Shiori](https://www.youtube.com/watch?v=ehbTci8o8NA) | True collab|
 |02/08/2023|[Terraria](https://www.youtube.com/watch?v=pGQBbTk164s)|Mori, Bijou, Kiara| Impromptu collab|
 |14/08/2023 | [Kiara Compatibility](https://www.youtube.com/watch?v=vdmr7B__G3s) |Kiara| True collab|
-|16/08/2023 | PowerWash Simulator |Bae| True collab|
+|16/08/2023 | [PowerWash Simulator](https://youtu.be/HYY7Z2M5g6A) |Bae| True collab|
 |Unknown - maybe next week | Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
@@ -64,13 +64,15 @@
 |---|---|---|
 |01/08/2023|[Timestamp](https://youtu.be/LglIMGCMrjs?t=866)|**Mention** - Explanation how they first met with some really spicy details.|
 |08/08/2023|[Timestamp #1](https://youtu.be/67hH4EGaH8A?t=1915) [Timestamp #2](https://youtu.be/67hH4EGaH8A?t=4294) [Timestamp #3](https://youtu.be/67hH4EGaH8A?t=4853)|**Mentions** - A few mentions during a Marika stream. Apparently Nerissa is a MLP girl (heh) and is younger than Bijou.|
-|10/08/2023|[Timestamp #1](https://youtu.be/4cu0466F_B0?t=994) [Timestamp #2](https://youtu.be/4cu0466F_B0?t=2512)|**Streamer-chat interactions** - Greetings, mentions & lore-focused discussions about Nerissa.|
+|10/08/2023|[Timestamp #1](https://youtu.be/ixMyHJmLHLI?t=7445) [Timestamp #2](https://youtu.be/4cu0466F_B0?t=2512)|**Streamer-chat interactions** - Greetings & mention of the 400k subscribers plus the God-Ish / 神っぽいな cover.|
 
 ######FUWAMOCO
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|[Timestamp](https://youtu.be/4giLWiqvyVo?t=1178)|**Mention** - First impressions about Nerissa during their (officially) first FUWAMOCO MORNING.|
 |14/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
+|15/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
+|16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
 
 ######Full-gen Collabs
 |Date|Link|Nature & Notes|
@@ -86,6 +88,11 @@
 |31/07/2023|[Link](https://www.youtube.com/watch?v=oC4WJdkWfO0)| **Watchalong** - Watchalong of Nerissa's debut with A-Chan and Mori|
 
 ###JP
+######Suisei
+|Date|Link|Nature & Notes|
+|---|---|---|
+|01/08/2023|[Timestamp](-)| **Mention** - Pending until the timestamp is found."
+
 ######Marine
 |Date|Link|Nature & Notes|
 |---|---|---|

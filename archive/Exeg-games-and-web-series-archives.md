@@ -1,3 +1,4 @@
+you retards make it really hard for me to not make the blackout permanent
 #/exeg/'s Collection
 -> ![gaming](https://files.catbox.moe/2kygql.png) <-
 -> ![gayming](https://cdn.discordapp.com/attachments/622592283598127104/1065383789464928287/exegtanmain_1.png) <-

@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🔗 [4DOWNLOAD](https://4download.net/)
 - Complete software downloads, audio samples, tutorials, e-books, and videos may all be found here.
@@ -131,7 +131,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Fonts
+# 📑 ➜ Fonts
 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Sign Up
 - This selection of free fonts for commercial use will help you choose the ideal type for your upcoming project.
@@ -211,7 +211,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Search Engines
+# 📑 ➜ Search Engines
 
 ### 🔍 [Rave Software Search](https://ravesoftwaresearch.pages.dev/)
 - Users are helped by the search engine in finding free software downloads. It includes fresh links as well as a list of updated sites.
@@ -223,7 +223,7 @@
 
 &nbsp;
 
-# 📑 4 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 - Torrents for a variety of useful utilities, applications, games, and plugins for graphic design, video editing, and motion graphics.
@@ -263,7 +263,9 @@ WEBSITE | URL
 ⚠️ FTUApps | ftuapps-dev
 ⚠️ Get Into PC | getintopc-com
 ⚠️ Karan PC | karanpc-com
+⚠️ Portable4PC | portable4pc-com
 ⚠️ SadeemPC | sadeempc-com
+⚠️ S0ft4PC | s0ft4pc-com
 
 &nbsp;
 

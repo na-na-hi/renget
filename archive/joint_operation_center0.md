@@ -18,7 +18,7 @@ https://rentry.org/nerissa_ravencroft_merch
 RavenCrafts on X
 RavenCraft, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Danbooru : https://danbooru.donmai.us/posts?page=1&tags=Nerissa_Ravencroft
-A search for an alternative to azure-gallery is ongoing.
+A search for an alternative to azure-gallery is still ongoing.
 Lewds : #depravencrafts on Twitter
 
 
@@ -26,11 +26,11 @@ Lewds : #depravencrafts on Twitter
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Library & Streams**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 #####[Demonry of Sound](https://rentry.org/karaokes_songs_v0)
-The music corner where you can find all the links for the music releases and the karaokes (magnets, links in case of archived ones and setlists are also included).
+The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
 #####[Stream Recommendation]
 Will open when we'll have enough streams in order to poll the general on a weekly basis. Will open on August 27th.
 #####[Members Streams]
-Will open when the first mengen frame will pop-up.
+Will open when the first mengen frame will pop-up. Will contain the link hidden in the thumbnail (just click it) and a brief description of each stream.
 #####[The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
 Where you can find the collabs from the other holomem channel Nerissia took part of. Major mentions are also stored in it.
 

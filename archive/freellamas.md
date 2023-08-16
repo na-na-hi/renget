@@ -44,11 +44,11 @@ Mirostat Eta: 0.4
 Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no statistics, not even prompt count.
 
 ##### Known issues
-- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use OOC, or use simple-proxy-for-tavern below.
+- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use simple-proxy-for-tavern below.
 Here's a card that will generate medium responses: https://files.catbox.moe/tlyy9k.png
 - Some models with too much GPT training data are bad at writing explicit smut and will try to conclude the scene as soon as possible.
 - I still can't get text-generation-interface to work on Windows so everybody will have to wait their turn in a single queue for now.
-- 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them, instead of replying with "ahh ahh mistress".
+- 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - Stop using W++ cards, don't use "You" as your name because it will confuse the model, use novel formatting to avoid fucked-up asterisks.
 
 ##### How to use this with simple-proxy-for-tavern

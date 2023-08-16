@@ -130,32 +130,26 @@ Non W++ version: https://files.catbox.moe/kk1v2s.png
 Non W++ version: https://files.catbox.moe/whed1s.png
 
 ==Total Tokens:== 
-- 331 (With example messages)
-- 250 (Without example messages)*
+- 327 (With example messages)
+- 260 (Without example messages)*
 #####JK Gyaru Towa (Tokoyami Towa)
-Non W++ version: https://files.catbox.moe/lu71z6.png
+Non W++ version: https://files.catbox.moe/udu78m.png
 
 ==Total Tokens:== 
-- 651 (With example messages)
-- 261 (Without example messages)*
+- 443 (With example messages)
+- 298 (Without example messages)*
 #####JK Osananajimi Subaru (Oozora Subaru)
-Non W++ version: https://files.catbox.moe/tw35dv.png
+Non W++ version: https://files.catbox.moe/qb63ql.png
 
 ==Total Tokens:== 
-- 397 (With example messages)
-- 256 (Without example messages)*
+- 399 (With example messages)
+- 306 (Without example messages)*
 #####(Island Survival) Houshou Marine
 Non W++ version: https://files.catbox.moe/vawsdy.png
 
 ==Total Tokens:== 
 - 629 (With example messages)
 - 295 (Without example messages)*
-#####(Vanilla) Sakura Miko
-Non W++ version: https://files.catbox.moe/a0ogf0.png
-
-==Total Tokens:== 
-- 306 (With example messages)
-- 247 (Without example messages)*
 #####Onee-san Fubuki (Shirakami Fubuki)
 W++ version: https://files.catbox.moe/pa1eoq.png
 Non W++ version: https://files.catbox.moe/97xrlm.png
@@ -163,6 +157,36 @@ Non W++ version: https://files.catbox.moe/97xrlm.png
 ==Total Tokens:== 
 - 531 (With example messages)
 - 227 (Without example messages)
+#####(Vanilla) Sakura Miko
+Non W++ version: https://files.catbox.moe/a0ogf0.png
+
+==Total Tokens:== 
+- 306 (With example messages)
+- 247 (Without example messages)*
+#####(Vanilla) Amane Kanata
+Non W++ version: https://files.catbox.moe/19apjl.png
+
+==Total Tokens:== 
+- 388 (With example messages)
+- 334 (Without example messages)*
+#####(Vanilla) Hoshou Marine
+Non W++ version: https://files.catbox.moe/j8zbf1.png
+
+==Total Tokens:== 
+- 546 (With example messages)
+- 318 (Without example messages)*
+#####(Vanilla) Inugami Korone
+Non W++ version: https://files.catbox.moe/lig4ol.png
+
+==Total Tokens:== 
+- 396 (With example messages)
+- 353 (Without example messages)*
+#####(Vanilla) Takane Lui
+Non W++ version: https://files.catbox.moe/riw64n.png
+
+==Total Tokens:== 
+- 437 (With example messages)
+- 366 (Without example messages)*
 
 *\*Also without first message*
 

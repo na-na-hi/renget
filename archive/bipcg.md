@@ -1,4 +1,13 @@
 ▶NEW CLIPS
+>Soldiers of the Ryzhy company of the 60th separate motorized rifle brigade immediately after repulsing the hohol meat assault (not-comfy)
+https://files.catbox.moe/aiqmvj.mp4
+>Four hohol saboteurs neutralized, while trying to cross border to Bryansk region
+https://files.catbox.moe/7plec2.mp4
+https://files.catbox.moe/a2hwwp.mp4
+>31 lost vehicles for the village of Staromayorskoye
+https://files.catbox.moe/qsvrgb.mp4
+>Two Leopard tanks check on Russian positions, only one comes back
+https://files.catbox.moe/bookbt.mp4
 >Бобр hits more armor including T-72
 https://files.catbox.moe/rcsor2.mp4
 https://files.catbox.moe/odlkp7.mp4

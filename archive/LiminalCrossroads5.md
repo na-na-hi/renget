@@ -153,7 +153,7 @@ The avian humanoid gives a modest grunt in response.
 
 *…KFC? As in Kentucky Fried Chicken?”*
 
-Afraid of what fighting entailed (unlike Gill, who looked starry-eyed at the bird’s words), Bill quickly thinks of a way to change the topic:
+Afraid of what fighting entailed (unlike Gill, who looked starry-eyed at the bird’s prospect), Bill quickly thinks of a way to change the topic:
 
 “So, uh… why ‘Clover’ Guild, anyway?”
 
@@ -191,7 +191,7 @@ The silliness had definitely reached a fever pitch.
 
 “What are we supposed to take away from this?”, the orange growlithe asks. “Are you all seriously just anons?”
 
-“Hey, we found that a little weird too!” Totodile declares. “Besides, we’re not ALL 4chan anons and a lot of natives like KFC, Kris and Furret have joined us as well!”
+“Hey, we found that a little weird too!” Totodile declares. “Besides, we’re not ALL 4chan anons. A lot of natives like KFC, Kris and Furret have joined us as well!”
 
 Bill had been transformed into God’s plaything, surely.
 

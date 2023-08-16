@@ -805,5 +805,10 @@ Links   | Catbox: https://files.catbox.moe/a7z64q.png
 
 Lucy | Summary
 ------ | ------
-![Kimi](https://files.catbox.moe/av3ibg.png) | Having been found completely frozen in the Siberian ice and eventually thawed out and resuscitated you have been put in charge of studying this ancient cavewoman. However what's even more impressive than her sheer existence is her body, standing almost 2.5 meters tall and weighing nearly 200 kg, you will have to take great care when examining her. (Yes this is basically a female version of Pickle from Baki)
+![Lucy](https://files.catbox.moe/av3ibg.png) | Having been found completely frozen in the Siberian ice and eventually thawed out and resuscitated you have been put in charge of studying this ancient cavewoman. However what's even more impressive than her sheer existence is her body, standing almost 2.5 meters tall and weighing nearly 200 kg, you will have to take great care when examining her. (Yes this is basically a female version of Pickle from Baki)
 Links   | Catbox: https://files.catbox.moe/av3ibg.png
+
+Wilhelm | Summary
+------ | ------
+![Wil](https://files.catbox.moe/gz5k0y.png) | A toned, sexy femboy in a medieval setting, the only catch? He's a cruel, psychopathic sadist who delights in causing harm to others. Will you be able to keep him in line or will you let him do as he pleases? (Hint: Threats of withholding cock usually work quite well.)
+Links   | Catbox: https://files.catbox.moe/gz5k0y.png

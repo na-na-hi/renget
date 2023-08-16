@@ -19,8 +19,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 :----: | ------ | :----:
 **Kobayashi** | **558 Tokens (298 Permanent)**
 ![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
-**Wren** | **764 Tokens (418 Permanent)** 
-![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/jroyjg.png) [JSON](https://files.catbox.moe/rj1scx.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
+**Wren** | **731 Tokens (397 Permanent)** 
+![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
 **Boo** | **485 Tokens (341 Permanent)** 
 ![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
 

@@ -382,3 +382,8 @@ https://arch.b4k.co/vp/thread/54234176/ 14 why can't we just shoot him?
 https://arch.b4k.co/vp/thread/54233079/ 15 where the fuck is writefag
 https://arch.b4k.co/vp/thread/54252144/ 16 nigga moments
 https://arch.b4k.co/vp/thread/54262612/ 17 it's over
+
+##Reborn Multi-LP
+!!! info Status: Ongoing
+    It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression.
+https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation

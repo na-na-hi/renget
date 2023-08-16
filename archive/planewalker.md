@@ -73,8 +73,8 @@ Leo | Info
 
 Adonis | Info
 :----:  | :----: 
-![](https://files.catbox.moe/3bpkob.png)   | A carpenter who has the body of a spider from the waist down. Encouraging, supportive, and looking for an apprentice to teach. Set in the same universe as Zeke, and just so happens to be his friend.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Adonis),  [Catbox](https://files.catbox.moe/pp39h9.png)
+![](https://files.catbox.moe/3bpkob.png)   | A carpenter who has the body of a spider from the waist down. Encouraging, supportive, and looking for an apprentice to teach. Set in the same universe as Zeke, and just so happens to be his friend. Now has an alternate full-body portrait you can use, gifted to me by N!
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Adonis),  [Catbox](https://files.catbox.moe/pp39h9.png) [Alternate card art](https://files.catbox.moe/v2gnvr.png)
 
 Professor Wordsworth | Info
 :----:  | :----: 
