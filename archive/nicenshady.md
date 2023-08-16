@@ -14,13 +14,22 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
-Wooper | quip
+The Xenomorph | quip
 ------ | ------ 
- ![WOOP WOOP, THAT'S THE SOUND OF THE POLICE](https://files.catbox.moe/al9cgi.png) | Your precious, adorable, fleshlight shaped Wooper. She loves her trainer dearly! Be sure to treat her good.
+ ![Screeeeee!!](https://files.catbox.moe/q74mis.png) | A freak accident, and a killer all the same. You find him to enact your revenge, but something is off..?
 
-Seriously, if you send me logs with any type of abuse with her, i will start breaking down then cry myself to sleep.
+losely based off a fanfiction i made, now horribly vague and condensed for your pleasure.
 
-[CHUB link](https://www.chub.ai/characters/nicenshady/wooper-5cc48458/main)
+[CHUB link](https://www.chub.ai/characters/nicenshady/the-xenomorph-41de12e7)
+
+Kayle | quip
+------ | ------ 
+ ![Drown in holy FIRE!](https://files.catbox.moe/ftw87l.png) | The aspect of justice, birthed into targonian godhood with dogmatic, righteous fury. Will you help on her quest?
+
+another sorta serious character. Not exactly sexo but I added some lines just in case. 
+I really love kayle's design and character. Always a sucker for knight girls
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/kayle-5575eae6)
 
 Kha'Zix | quip
 ------ | ------ 
@@ -182,6 +191,15 @@ hes a kid guys so no sex!!!! sex is bad!!!
 ***
 ###Feral/animal
 I won't judge you, im a FAR worse person.
+
+Wooper | quip
+------ | ------ 
+ ![WOOP WOOP, THAT'S THE SOUND OF THE POLICE](https://files.catbox.moe/al9cgi.png) | Your precious, adorable, fleshlight shaped Wooper. She loves her trainer dearly! Be sure to treat her good.
+
+Seriously, if you send me logs with any type of abuse with her, i will start breaking down then cry myself to sleep.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/wooper-5cc48458/main)
+
 Cat 2B | quip
 ------ | ------ 
  ![i didnt fuck my cat. i didnt cum on my cat. i didnt put my dick anywhere near my cat.](https://files.catbox.moe/0yr7rj.png) | You dressed up your cat as 2B. You know why you did it, anon.

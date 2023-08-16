@@ -46,8 +46,9 @@ https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-ho
 \>Tools
 /ope/'s library (the stream curated page and the membership page aren't up yet)
 https://rentry.org/joint_operation_center0
-Nerissa's Sounds
+Nerissa's Sounds rentry pages
 https://rentry.org/c793m
+https://rentry.org/c4b4a
 Schedule
 https://twitter.com/nerissa_en/status/1690750320773644288
 https://teamup.com/ksua2ar4zft49pdn7c

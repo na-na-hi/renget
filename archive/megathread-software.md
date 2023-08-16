@@ -57,10 +57,6 @@
 - Tonne of goods including LUTS, textures, sound effects, video editing + plugins, motion graphics, and even more.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadpirate.com/)
 
-### 🔗 [FileCR](https://filecr.com/)
-- Simplifying access to files for Windows, MacOS, and Android by continually improving and offering a user-friendly interface.
-- [URL Safety Results](https://www.urlvoid.com/scan/filecr.com/)
-
 ### 🔗 [Freepreset](https://freepreset.net/)
 - Dedicated to assisting you in obtaining premium lightroom presets, luts, photoshop actions and a plethora of other design materials.
 - [URL Safety Results](https://www.urlvoid.com/scan/freepreset.net/)
@@ -250,6 +246,24 @@
 -> ![](https://take-me-to.space/FYQpFtp.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# ☣️ ➜ Untrustworthy Websites
+
+- Following items have historically or still currently show unethical behavior, poor regulation, or the deliberate injection of malware. Some of them are misleading fake clones that dishonorably employ the name of a previous, well-known brand to lure users.
+
+WEBSITE | URL
+:---- | :----
+⚠️ FileCR | filecr-com
+⚠️ FTUApps | ftuapps-dev
+⚠️ Get Into PC | getintopc-com
+⚠️ Karan PC | karanpc-com
+⚠️ SadeemPC | sadeempc-com
 
 &nbsp;
 

@@ -12,6 +12,7 @@
 ######CHOOSE PREFERED VERSION:
 Date | Update | Description
  |  | 
+16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider-VersionHistory#v10-faworki) | Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 14.08.2023 |  A minor V9 update | Added one little sentence in prefill to keep characters a bit more truthful to their personas
 11.08.2023 | [ONLINE TEXTING](https://rentry.co/CharacterProvider-VersionHistory#online-texting) | Modifies output like you are texting with {{char}} in messenger chat
 11.08.2023 | [V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider-VersionHistory#v9-nutmix) | A mix of 6.7+7+8
@@ -102,6 +103,17 @@ scenario
 #
 - - -
 #
+####✦ Preset import
+![](https://files.catbox.moe/5ow9bb.png)
+#
+- - -
+#
+####✦ Prompts import
+![](https://files.catbox.moe/hd9c5j.png)
+!!! danger Unfortunately you'll have to import this in EVERY new chat!
+#
+- - -
+#
 ####✦ No more italics regex (if you had enough with formatting)
 
 ![](https://files.catbox.moe/6v8527.jpg)
@@ -112,6 +124,34 @@ Find regex:
 ```
 **Comment:** *"I just decided to give up..."*
 *09.08.2023* 
+# 
+- - -
+- - -
+- - -
+# 
+###V10 FAWORKI
+#
+
+**Preset and Prompts**
+Created a [Preset](https://rentry.co/CharacterProvider-VersionHistory#preset-import) and [Prompts](https://rentry.co/CharacterProvider-VersionHistory#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+#
+**Advanced formatting**
+**`[x] Disable description formatting`**
+**`[x] Disable scenario formatting`**
+**`[x] Disable personality formatting`**
+**`[x] Disable example chats formatting`**
+**`[x] Disable chat start formatting`**
+**`[x] Trim spaces`**
+#
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
+#
+!!! info **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider-VersionHistory#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider-VersionHistory#prompts-import) You'll have to do it in every new chat!)
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
 # 
 - - -
 - - -

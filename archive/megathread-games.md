@@ -207,7 +207,7 @@
 
 &nbsp;
 
-# 🪦 ➜ Untrustworthy Graveyard
+# ☣️ ➜ Untrustworthy Websites
 
 - Following items have historically or still currently show unethical behavior, poor regulation, or the deliberate injection of malware. Some of them are misleading fake clones that dishonorably employ the name of a previous, well-known brand to lure users.
 
@@ -221,7 +221,7 @@ WEBSITE | URL
 ⚠️ IGGGames | igg-games-com
 ⚠️ NexusGames | nexus-games-net
 ⚠️ nosTeam | nosteamgames-ro
-⚠️ Ocean of Games | oceansofgamesscom
+⚠️ Ocean of Games | oceansofgamess-com
 ⚠️ Repack-Games | repack-games-com
 ⚠️ Steam-Repacks | steam-repacks-com
 ⚠️ STEAMUNLOCKED | steamunlocked-net

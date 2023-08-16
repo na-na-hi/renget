@@ -24,6 +24,21 @@ You want to run her with a 4pc Longevous Disciple set or the Streetboxing set. T
 
 Good LCs on her are her signature LC as the best and on the fall of an aeon at S5 with other 4* options being inferior. Blade and IL Dan LCs are great on her too if for some strange reason you happen to have those LCs and aren't using them on Blade/Dan.
 
+##Do we know what the next banners are? Is there any way to know?
+
+As of Kafka banner, this is the currently speculated banner order
+
+1. [Imbibitor Lunae](https://hsr.yatta.top/en/archive/avatar/1213/dan-heng-imbibitor-lunae?mode=details)
+2. [Fu Xuan](https://hsr.yatta.top/en/archive/avatar/1208/fu-xuan?mode=details)
+3. Jingliu
+4. Topaz
+5. Huohuo
+6. Argenti
+
+Banner order up to Topaz has been confirmed via reliable/official sources but this is still **Subject to change**
+If there no reruns or changes made to the banner order, Huohuo should be next then Argenti.
+Lynx is a 4-star and will be included in Fu Xuan's banner.
+
 ##Is there a good tierlist anywhere if I want to see how characters compare to each other?
 There's a decent one here but please remember tierlists are stupid and do not tell the entire story. Characters do not exist alone in a vacuum and their performance greatly depends on what content they're being used, against what enemy and what characters you're taking with them. It's best to ask for teambuilding help or what is best for your own particular account rather than take tierlists as facts.
 

@@ -33,9 +33,9 @@ https://www.mediafire.com/folder/hlezdefw753jc/Fixed_BA_Models_for_Blender
 - Guide folder
 https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 
-If you encounter a character that doesn't import correctly on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
-
-## CH#### Chibi and/or Portrait Character List
+If you encounter a character that doesn't import its rigging on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
+***
+## -> CH#### Chibi and/or Portrait Character List <-
 CH0060 = Swimsuit Tsurugi
 CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0063 = Swimsuit Hina
@@ -117,11 +117,13 @@ CH0217 = Swimsuit Saki
 CH0218 = Swimsuit Miyu
 CH0222 = Nagusa **(Portrait Only)**
 CH9999 = Miku
-
-## Chibi NPCS
+***
+## -> Chibi NPCS <-
 Kaito_Trinity_HG = Akira
 Police_Valkyrie_SG = Shotgun Cop Mob
 Komakaze_Helmet_SG = Rabu
-EN0002_Mesh = Shiroko (Terror)
+EN0002 = Shiroko (Terror)
+EN0001 = Phrenapates
 
 Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet. These are the ones I have looked into so far.
+-> ![Cute NMGK](https://files.catbox.moe/8gndgg.png) <-

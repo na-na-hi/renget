@@ -1,5 +1,16 @@
 ▶NEW CLIPS
+>Бобр hits more armor including T-72
+https://files.catbox.moe/rcsor2.mp4
+https://files.catbox.moe/odlkp7.mp4
+>Lancet his M109 "Paladin" artilllery
+https://files.catbox.moe/iba6rn.mp4
+>Lancet hits hohol truck and nearby piggers
+https://files.catbox.moe/zuhw1e.MP4
+>Shahed drone hitting port of Reni
+https://files.catbox.moe/k1en0w.mp4
+https://files.catbox.moe/2pz8qa.mp4
 >Wunderwaffels on display
+https://files.catbox.moe/in3iup.mp4
 https://files.catbox.moe/wrqi9t.mp4
 >The face you make when 'winning'
 https://files.catbox.moe/vbebgo.mp4
