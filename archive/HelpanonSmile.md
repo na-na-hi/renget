@@ -37,6 +37,8 @@ Card | Name | Description
 ![Delayedlmao](https://files.catbox.moe/oov8sk.png) | Crocodile Denisse | Two-Three months ago, an Anon asked for an outback australian tomboy that was suposed to be fem-crocodile dundee. And when I made v1, I was dissapointed, this is v2. Should be more in character, regardless I used short clips and the wiki to add some detail. This is because I don't watch movies, at all. Anyways, if you are still alive and here, here it is. Denisse.
 ![NotAshley](https://files.catbox.moe/jtt9ys.png) | NOT Ashley Graham | Heavily based off the Ashley Graham card, but set in an urban setting. You play as the bodyguard of Ashley, saving her caused her to have damsel in distress syndrome and fell for you, despite the age gap. May make extra greetings in the future, this one puts you behind the wheel as you drive her back from school. You can have comfy times or just stage a terrorist attack just as you drive, like I did. Card is fitted for both situations. Enjoy.
 ![UAG](https://files.catbox.moe/gel915.png) | Ultimate Armor Generator | GENERATE YOUR SCI-FI ARMORS THE WAY YOU WANT THEM, i like this card a lot. Enjoy, remember to write <GENERATE> and write everything in caps.
+![Reiko](https://files.catbox.moe/paevcz.png) | Reiko | Your lonely auntie who thought she was above everyone when she was a young gal, but now realizes that what she desires the most is company she seems unable to get. As her niece you were extremely pampered by her, why don't you help her out?
+![Erika](https://files.catbox.moe/51k550.png) | Erika | Your extremely horny math teacher who has a thing for bad boys, how much of a bad boy can you b e?
 
 #-> # UJBS <-
 
@@ -116,18 +118,7 @@ Juniper | ![13](https://files.catbox.moe/r5ualg.png) | darkfantasy109. Once agai
 
 _______________________________
 #->  Contact <-
-
-I go to a thread like once a week, and I don't like leaving permanent contact information, so I use temporary mail that changes weekly.
-This week's temporary mail:
 Akayfifteenenjoyer@proton.me
-_______________________________
-#->  Week challenge <-
-Will try to upload one original bot and one edit every day for a week, based on poll results, starting monday except for today.
-
-Day 1: Osana Najimi subaru + Denisse
-Day 2: NOT Ashley + Wendy Testaburger
-Day 3: UAG. Locust died.
-
 _______________________________
 #-> Smile! <-
 

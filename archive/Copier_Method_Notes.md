@@ -30,6 +30,7 @@ Creating photo and image affects is easy enough but I am not sure this could be 
 
 > Will the end result be affected by the style I am using in my dataset
 Copier Method seems to work by extracting differences so if your base images are realistic or 2D for the most part the only thing that should be extracted is the difference, not the style. I haven't much style imprinting using Honey select, Koikatsu, or even my own art as a base for certain things.
+To further clarify: If you are training an object with a style as I did below the style **of that object** will carry over more unless you provide more material for difference training.
 
 >How did you make this dataset? or How can I prep data for this method in general?
 - I used Koikatsu Studio 
@@ -48,7 +49,7 @@ Copier Method seems to work by extracting differences so if your base images are
 >When I generate sample images in kohya dataset B looks like A
 Because you are training on the merged checkpoint so this is as intended.
 
-### Concept Training Coke-Bottle Glasses
+### Concept Training: Coke-Bottle Glasses
 Positive: `x` of Hatsune Miku,
 Negative: nsfw, (worst quality, low quality:1.4)
 #### 1 Image training
@@ -57,6 +58,7 @@ Material A | Material B
 :----: | :----:
 ![](https://files.catbox.moe/9j9kjw.png)   | ![](https://files.catbox.moe/vso49m.png)
 500 steps | 500 steps
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
 [Supermerger default LoRA multiplier 1](https://files.catbox.moe/8z3cgb.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/vsb1sx.safetensors)
 ![](https://files.catbox.moe/blft33.png) | ![](https://files.catbox.moe/ewex9n.png)
 
@@ -68,9 +70,11 @@ Material A | Material B
 :----: | :----:
 ![](https://files.catbox.moe/gv5plq.png)   | ![](https://files.catbox.moe/cztg2i.png)
 500 steps Train Both | 500 steps Train Both 
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
 [Supermerger default LoRA multiplier 1](https://files.catbox.moe/kjf99r.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/zg86ey.safetensors)
 ![](https://files.catbox.moe/vvg7m7.png) | ![](https://files.catbox.moe/5bjc1d.png)
 500 steps Train Unet | 500 steps Train Unet
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
 [Supermerger default LoRA multiplier 1](https://files.catbox.moe/bydy8y.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/k72zuq.safetensors)
 ![](https://files.catbox.moe/7mja1t.png) | ![](https://files.catbox.moe/h500fp.png)
 
@@ -82,12 +86,49 @@ Material A | Material B
 :----: | :----:
 ![](https://files.catbox.moe/per5la.png)   | ![](https://files.catbox.moe/mm900y.png)
 500 steps | 500 steps
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
 [Supermerger default LoRA multiplier 1](https://files.catbox.moe/zxvesj.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/ht63lb.safetensors)
 ![](https://files.catbox.moe/vvg7m7.png) | ![](https://files.catbox.moe/5bjc1d.png)
 2000 steps | 2000 steps
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
 [Supermerger default LoRA multiplier 1](https://files.catbox.moe/tfc18o.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/eeihca.safetensors)
 ![](https://files.catbox.moe/7mja1t.png) | ![](https://files.catbox.moe/h500fp.png)
 
+
+### Character Training: Face & Hair (Under construction)
+
+#### 1 Image training
+
+Material A | Material B
+:----: | :----:
+![](https://files.catbox.moe/eyhdri.png)   | ![](https://files.catbox.moe/766aif.png)
+500 steps | 500 steps
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
+[Supermerger default LoRA multiplier 1](https://files.catbox.moe/nrpx22.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/2odzyh.safetensors)
+Positive: `x` of `(lora)` | Negative: nsfw, (worst quality, low quality:1.4)
+![](https://files.catbox.moe/s1lhk3.png) | ![](https://files.catbox.moe/7362ar.png)
+Positive: `x` of `(lora)` green eyes, purple hair, pointy ears,  short hair, star (symbol), colored skin, symbol-shaped pupils, closed mouth, star-shaped pupils,  +_+ | Negative: nsfw, (worst quality, low quality:1.4), monochrome
+![](https://files.catbox.moe/j0nlxa.png) | ![](https://files.catbox.moe/wu4thu.png)
+
+#### 4 Image training
+
+Material A | Material B
+:----: | :----:
+![](https://files.catbox.moe/blu3fq.png)   | ![](https://files.catbox.moe/khx6fj.png)
+500 steps | 500 steps
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
+[Supermerger default LoRA multiplier 1](https://files.catbox.moe/cnasm6.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/qgmkda.safetensors)
+Positive: `x` of `(lora)` | Negative: nsfw, (worst quality, low quality:1.4)
+![](https://files.catbox.moe/nl1i8b.png) | ![](https://files.catbox.moe/e7rnbg.png)
+Positive: `x` of `(lora)` green eyes, purple hair, pointy ears,  short hair, star (symbol), colored skin, symbol-shaped pupils, closed mouth, star-shaped pupils,  +_+ | Negative: nsfw, (worst quality, low quality:1.4), monochrome
+![](https://files.catbox.moe/wu4thu.png) | ![](https://files.catbox.moe/u1dq82.png)
+500 steps **auto TAGGED** | 500 steps **auto TAGGED**
+Results after training B into A below ⬇️ | ⬇️⬇️⬇️
+[Supermerger default LoRA multiplier 1](https://files.catbox.moe/uz0kld.safetensors) | [Supermerger default LoRA multiplier 2](https://files.catbox.moe/5vmb3k.safetensors)
+Positive: `x` of `(lora)` | Negative: nsfw, (worst quality, low quality:1.4)
+![](https://files.catbox.moe/vfuiz1.png) | ![](https://files.catbox.moe/4qhnkz.png)
+Positive: `x` of `(lora)` green eyes, purple hair, pointy ears,  short hair, star (symbol), colored skin, symbol-shaped pupils, closed mouth, star-shaped pupils,  +_+ | Negative: nsfw, (worst quality, low quality:1.4), monochrome
+![](https://files.catbox.moe/8edjnd.png) | ![](https://files.catbox.moe/n6o94h.png)
 
 ## TL;DR workflow
 1. Prepare dataset A and B

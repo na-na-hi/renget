@@ -24,7 +24,7 @@ Does not see any usage, a stat stick for her other versions.
 Bond story priority: Low (Relevant for O.Kyaru, Pyaru)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not help clear EX3+ faster)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kokkoro <- (JP release date: Year 2, August 31st)
 Can be a decent stop-gap for tanking and healing if you're missing some, but definitely an outclassed support.
@@ -37,7 +37,7 @@ Can be a decent stop-gap for tanking and healing if you're missing some, but def
 Bond story priority: Low (Relevant for C.Kokkoro, NY.Kokkoro)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher,  unless you have no healers)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Pecorine <- (JP release date: Year 2, August 31st)
 Still has a niche in Arena offense, but no longer relevant in a meta sense. 
@@ -50,7 +50,7 @@ Still has a niche in Arena offense, but no longer relevant in a meta sense.
 Bond story priority: Low (Relevant for P.Peco)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Rino <- (JP release date: Year 2, September 30th)
 Extremely niche and outclassed, not worth grabbing over other B.Arena units.
@@ -63,7 +63,7 @@ Extremely niche and outclassed, not worth grabbing over other B.Arena units.
 Bond story priority: Luxury (Rino has no good versions to note for this)
 Max level Unit priority: Low
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Rima <- (JP release date: Year 2, October 31st)
 Even after all these years, Rima is still here and plays a part in Arena.
@@ -76,7 +76,7 @@ Even after all these years, Rima is still here and plays a part in Arena.
 Bond story priority: Luxury (Rima has no bonds worth speaking about)
 Max level Unit priority: Med
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Io <- (JP release date: Year 2, November 30th)
 Io 6* is another Arena unit that is required to fight for top spots in a comfy manner. Still used defenses & offense, though in fewer comps. 
@@ -89,7 +89,7 @@ Io 6* is another Arena unit that is required to fight for top spots in a comfy m
 Bond story priority: Low (Relevant for Noir Io)
 Max level Unit priority: High
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Yukari <- (JP release date: Year 2, December 31st)
 Yukari is still going to show up and there's nothing we can do about it. Her TP charge is too valuable to fall out of meta in at least Arena.
@@ -102,7 +102,7 @@ Yukari is still going to show up and there's nothing we can do about it. Her TP 
 Bond story priority: High (Relevant for X.Yukari, herself)
 Max level Unit priority: Top (Why wouldn't you have her?)
 New player Unit priority: Top (Can help clear EX3/4 if missing units that provide TP)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Maho <- (JP release date: Year 3, January  31st)
 Still used in CB, still causing level autism, good Arena unit and worst of all - Extends timelines to incredibly high times because of how often units will UB. Another unit that has never left the meta and continues to see usage in all game modes still. There is no reason to not get this unit ASAP.
@@ -115,7 +115,7 @@ Still used in CB, still causing level autism, good Arena unit and worst of all -
 Bond story priority: Low (Relevant for C.Maho)
 Max level Unit priority: Top (Why wouldn't you have her?)
 New player Unit priority: Top (Necessary for early EX3/4)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Yui <- (JP Release Date: Year 3, February 29th)
 Mostly not used, but easy to farm with so many nodes.
@@ -128,7 +128,7 @@ Mostly not used, but easy to farm with so many nodes.
 Bond story priority: Low (Relevant for S.Yui)
 Max level Unit priority: Low 
 New player Unit priority: Low (Can assist for early EX3/4 comps, but not a main piece.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Hiyori <- (JP Release Date: Year 3, February 29th)
 Hiyori has been relegated to niche Arena solutions, but at least it's something.
@@ -141,7 +141,7 @@ Hiyori has been relegated to niche Arena solutions, but at least it's something.
 Bond story priority: Med (Relevant for Piyori, maybe S.Hiyori)
 Max level Unit priority: Low 
 New player Unit priority: Low (Can help in a pinch for EX3/4 comps, certainly not a main piece.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Rei <- (JP Release Date: Year 3, February 29th)
 Rei is just okay, but no longer has a spot.
@@ -154,7 +154,7 @@ Rei is just okay, but no longer has a spot.
 Bond story priority: Low (Relevant for P.Rei, possibly S.Rei)
 Max level Unit priority: Low 
 New player Unit priority: Low (Can help in a pinch for EX3/4 comps, certainly not a main piece.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Hatsune <- (JP Release Date: Year 3, March 31st)
 Do well in P.Arena to farm Anna instead, because Hatsune is on the bench.
@@ -167,7 +167,7 @@ Do well in P.Arena to farm Anna instead, because Hatsune is on the bench.
 Bond story priority: Low (Relevant for S.Hatsune)
 Max level Unit priority: Low 
 New player Unit priority: Low (Can help clear lower level physical 6* quests)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Tamaki <- (JP Release Date: Year 3, April 30th)
 Tamaki's still kicking, just in a minor role.
@@ -179,7 +179,7 @@ Tamaki's still kicking, just in a minor role.
 Bond story priority: Med (Relevant for Ca.Tamaki)
 Max level Unit priority: Med 
 New player Unit priority: Med (Can help clear lower level magic 6* quests, assist in alternative anti-magic solutions in Arena and CB)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 
 ## -> Mifuyu <- (JP Release Date: Year 3, May 31st)
@@ -193,7 +193,7 @@ A quick 1st action stun means Mifuyu will always have some relevance, just varyi
 Bond story priority: Luxury (Mifuyu has no relevant alts)
 Max level Unit priority: Med 
 New player Unit priority: Low (helps in Arena efforts, just watch level difference for unexpected stun % chance misses.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Shizuru <- (JP Release Date: Year 3, June 30th)
 Niche in both Arena and CB, you can't really go wrong with Shizuru.
@@ -206,7 +206,7 @@ Niche in both Arena and CB, you can't really go wrong with Shizuru.
 Bond story priority: Luxury (Relevant alts: Noir Shizuru)
 Max level Unit priority: Med
 New player Unit priority: Low (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Ayane <- (JP Release Date: Year 3, August 6th)
 Supposed to be an Arena unit, but just doesn't have enough tools to complete with power creep.
@@ -219,7 +219,7 @@ Supposed to be an Arena unit, but just doesn't have enough tools to complete wit
 Bond story priority: Med (Relevant alts: Ex. Ayane)
 Max level Unit priority: Low
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Saren <- (JP Release Date: Year 3, September 7th) **Next to be updated**
 Saren is purely a TP battery who sometimes cleans up enemy teams if she's lucky enough.
@@ -232,7 +232,7 @@ Saren is purely a TP battery who sometimes cleans up enemy teams if she's lucky 
 Bond story priority: Med (Relevant alts: Ex. Aki/Saren. X.Saren, S.Saren)
 Max level Unit priority: Low
 New player Unit priority: Low (Could make EX3/EX4 clears easier by charging P.Rei, but not much else)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Akino <- (JP Release Date: Year 3, September 7th)
 The former borrow queen, reduces to nothing but bond stats or a new-player band-aid towards while building towards other units if you somehow get lucky on her shards.
@@ -245,7 +245,7 @@ The former borrow queen, reduces to nothing but bond stats or a new-player band-
 Bond story priority: Low (Relevant alts: Ex. Aki/Saren)
 Max level Unit priority: Low
 New player Unit priority: Low (Can help as a cleanup unit, but not a main piece)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Ninon <- (JP Release Date: Year 3, October 7th)
 She's still good in Arena, but no longer the Meta-defining unit she once was. UB+ is the only reason she's worth anything.
@@ -258,7 +258,7 @@ She's still good in Arena, but no longer the Meta-defining unit she once was. UB
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: Med (Arena only)
 New player Unit priority: Low (Does not help clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Mahiru <- (JP Release Date: Year 3, November 5th)
 Mahiru is pretty shit aside from some silly defenses that get shit on normally. She's actually used for her bonds, because X.Mahiru has CB niche usage.
@@ -271,8 +271,7 @@ Mahiru is pretty shit aside from some silly defenses that get shit on normally. 
 Bond story priority: Low (Relevant Alts: X.Mahiru)
 Max level Unit priority: Low 
 New player Unit priority: Luxury (Does not help clear EX3/4+)
-
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Suzuna <- (JP Release Date: Year 3, December 7th)
 One of the more useless 6 Stars at this point. Selfish archer DPS with zero actual impact.
@@ -285,7 +284,7 @@ One of the more useless 6 Stars at this point. Selfish archer DPS with zero actu
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not help clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Akari <- (JP Release Date: Year 4, January 7th)
 Many better supports exist, so Akari is no longer used in most cases.
@@ -298,7 +297,7 @@ Many better supports exist, so Akari is no longer used in most cases.
 Bond story priority: Low (Relevant Alts: X.Akari)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not help clear EX3/4+ outside of X.Akari bonds assisting)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Yori <- (JP Release Date: Year 4, February 8th)
 Yori has her niche in Arena offenses and blind P.Arena defenses.
@@ -311,7 +310,7 @@ Yori has her niche in Arena offenses and blind P.Arena defenses.
 Bond story priority: High (Relevant Alts: A.Yori, X.Yori)
 Max level Unit priority: Med
 New player Unit priority: Low (Can assist in cleaning up EX3/4+, but not a center piece of a comp)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Misogi <- (JP Release Date: Year 4, March 5th)
 Stat stick for S.Misogi, nothing else.
@@ -324,7 +323,7 @@ Stat stick for S.Misogi, nothing else.
 Bond story priority: Med (Relevant Alts: S.Misogi)
 Max level Unit priority: Luxury
 New player Unit priority: Luxury (Does not help in clearing EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Mimi <- (JP Release Date: Year 4, March 5th)
 Mimi was useless, now she isn't... Barely, in Arena.
@@ -337,7 +336,7 @@ Mimi was useless, now she isn't... Barely, in Arena.
 Bond story priority: Low (Relevant Alts: S.Mimi)
 Max level Unit priority: Low
 New player Unit priority: Low (Can help in clearing paries of EX3/4+, budget replacement for a missing key unit.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kyouka<- (JP Release Date: Year 4, March 5th)
 The most popular of the three, KMR clearly wanted her to return and she has.
@@ -350,7 +349,7 @@ The most popular of the three, KMR clearly wanted her to return and she has.
 Bond story priority: Low (No relevant alts)
 Max level Unit priority:  Med
 New player Unit priority: Low (Can help in clearing paries of EX3/4+, not a main piece.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Nozomi <- (JP Release Date: Year 4, April 7th)
 The original tank unit comes back to reclaim her throne in non-CB modes. Easy to farm up.
@@ -363,7 +362,7 @@ https://youtu.be/qXb4CMDndr4?t=402
 Bond story priority: High (Relevant alts: S.Nozomi, L.Nozomi)
 Max level Unit priority:  High
 New player Unit priority: Top (Helps clearing PvE content for lower levels)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Suzume <- (JP Release Date: Year 4, May 7th)
 No more RNG, Suzume's got an actual function now. Too bad she is only clan coin shop farmable.
@@ -376,7 +375,7 @@ No more RNG, Suzume's got an actual function now. Too bad she is only clan coin 
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority:  Low
 New player Unit priority: Low (Can help clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kurumi <- (JP Release Date: Year 4, June 7th)
 Dogshit unit turned into Arena tank, Kurumi actually serves a purpose and carves a niche.
@@ -389,7 +388,7 @@ Dogshit unit turned into Arena tank, Kurumi actually serves a purpose and carves
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority:  Low
 New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kaori <- (JP Release Date: Year 4, July 8th)
 Ousted from her role, because selfish DPS units need at least some sort of reason to be used. Kaori does not have one.
@@ -402,7 +401,7 @@ Ousted from her role, because selfish DPS units need at least some sort of reaso
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority:  Luxury
 New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Aoi<- (JP Release Date: Year 4, August 6th)
 Aoi's always had one niche, now she gets to do more cool poison things in Arena.
@@ -414,7 +413,7 @@ Aoi's always had one niche, now she gets to do more cool poison things in Arena.
 Bond story priority: Med (Relevant alts: SA.Aoi)
 Max level Unit priority:  Med
 New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Djeeta<- (JP Release Date: Year 4, September 7th)
  If you want the short version, Laby UE + X.Miyako + Christina may have pushed Djeeta out of the meta.
@@ -429,7 +428,7 @@ New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
 Bond story priority: Low (Relevant alts: W.Djeeta?)
 Max level Unit priority:  High
 New player Unit priority: High (Does help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Nanaka<- (JP Release Date: Year 4, October 7th)
 Has no place in any mode unless you're sniping non-shielded units in Arena.
@@ -442,7 +441,7 @@ Has no place in any mode unless you're sniping non-shielded units in Arena.
 Bond story priority: Luxury (No Relevant alts)
 Max level Unit priority:  Luxury
 New player Unit priority: Luxury (Does help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Arisa<- (JP Release Date: Year 4, November 8th)
 Risen from the ashes, Arisa's got a solid role with a 6 Star in hand.
@@ -455,7 +454,7 @@ Risen from the ashes, Arisa's got a solid role with a 6 Star in hand.
 Bond story priority: N/A (No alts)
 Max level Unit priority:  High
 New player Unit priority: Med (Can help as a backline damage dealer in various comps)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Monika<- (JP Release Date: Year 4, November 8th)
 Monika now having an actual UB means that she gets to be useful as a support for both magic and physical teams.
@@ -468,7 +467,7 @@ Monika now having an actual UB means that she gets to be useful as a support for
 Bond story priority: Med (Relevant unit: MS.Monika)
 Max level Unit priority:  Top
 New player Unit priority: Top
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Misaki<- (JP Release Date: Year 4, December 7th)
 Another previously useless unit pulled straight into the meta of Arena.
@@ -481,7 +480,7 @@ Another previously useless unit pulled straight into the meta of Arena.
 Bond story priority: High (Relevant unit: ST.Misaki)
 Max level Unit priority:  Top
 New player Unit priority: Med (Rushing her without proper support is a bad idea, Misaki needs proper TP restoration to UB twice ASAP.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Chika <- (JP Release Date: Year 5, January 7th)
 Not very useful as other supports are just more effective.
@@ -494,7 +493,7 @@ Not very useful as other supports are just more effective.
 Bond story priority: Med (Relevant Alts: S.Chika)
 Max level Unit priority:  Low
 New player Unit priority: Luxury (Does not help in clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> S.Kokkoro<- (JP Release Date: Year 5, March 7th)
 Amazing support for physical comps, good thing side stories are a thing.
@@ -507,7 +506,7 @@ Amazing support for physical comps, good thing side stories are a thing.
 Bond story priority: Med (Relevant unit: NY.Kokkoro, C.Kokkoro )
 Max level Unit priority:  Top
 New player Unit priority: High
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> S.Kyaru<- (JP Release Date: Year 5, March 7th)
 While able to push the soft cap, S.Kyaru's been made mostly irrelevant in the game by the fact that magic has better units.
@@ -520,7 +519,7 @@ While able to push the soft cap, S.Kyaru's been made mostly irrelevant in the ga
 Bond story priority: Med (Relevant unit: Pyaru, O.Kyaru)
 Max level Unit priority:  Low
 New player Unit priority: Luxury (Can help in damaging parties, but the cost is too great)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> S.Pecorine<- (JP Release Date: Year 5, March 7th)
 Excellent physical multi-target damage unit that needs to tank.
@@ -533,7 +532,7 @@ Excellent physical multi-target damage unit that needs to tank.
 Bond story priority: Luxury (Relevant unit: P.Peco)
 Max level Unit priority:  Med
 New player Unit priority: Luxury (Can help in damaging parties, but the cost is too great)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kuuka<- (JP Release Date: Year 5, April 7th)
 Doesn't change much, aside from updating her to be a massive magic wall again. Still worse than Nozomi in most cases.
@@ -546,7 +545,7 @@ Doesn't change much, aside from updating her to be a massive magic wall again. S
 Bond story priority: Med (Relevant unit: N.Kuuka)
 Max level Unit priority:  Low
 New player Unit priority: Luxury (Can help clear maps if you have enough damage while she soaks it all up, but can have Nozomi do a similar job.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Rin <- (JP Release Date: Year 5, May 9th)
 Mostly an Arena unit, there's no place for her in CB at this time.
@@ -559,7 +558,7 @@ Mostly an Arena unit, there's no place for her in CB at this time.
 Bond story priority: Med (Relevant unit: H.Rin, R.Rin)
 Max level Unit priority:  Med
 New player Unit priority: Med (Can assist against magic damage for physical units, does not help EX 3/4+ clears)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Miyako <- (JP Release Date: Year 5, June 6th)
 If you hated Miyako before, you'll hate her even more now.
@@ -572,7 +571,7 @@ If you hated Miyako before, you'll hate her even more now.
 Bond story priority: High (Relevant unit: X.Miyako)
 Max level Unit priority:  Med
 New player Unit priority: Med (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Misato <- (JP Release Date: Year 5, July 6th)
 Has not seen any sort of relevant usage.
@@ -585,7 +584,7 @@ Has not seen any sort of relevant usage.
 Bond story priority: Med (Relevant unit: NY.Misato)
 Max level Unit priority:  Low
 New player Unit priority: Luxury (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Eriko <- (JP Release Date: Year 5, August 8th)
 Reduced to an OF unit, because she only brings damage and nothing else.
@@ -598,7 +597,7 @@ Reduced to an OF unit, because she only brings damage and nothing else.
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: Med
 New player Unit priority: Low (Can help clear EX3/4+ earlier, but she is single target)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Shinobu <- (JP Release Date: Year 5, September 7th)
 Not a great unit so far. More of an arena unit, but very niche.
@@ -611,7 +610,7 @@ Not a great unit so far. More of an arena unit, but very niche.
 Bond story priority: Low (Relevant Units: P.Shinobu)
 Max level Unit priority: Med
 New player Unit priority: Low (Does not help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Ilya <- (JP Release Date: Year 5, September 7th)
 No longer can crit herself to death, Ilya's got use now.
@@ -624,7 +623,7 @@ No longer can crit herself to death, Ilya's got use now.
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: Med
 New player Unit priority: Med (Can help clear EX3/4+ earlier with proper support)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Tomo <- (JP Release Date: Year 5, October 5th)
 Action speed buffs are amazing and Tomo's got one. She also does damage, unlike Monika.
@@ -637,7 +636,7 @@ Action speed buffs are amazing and Tomo's got one. She also does damage, unlike 
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: High
 New player Unit priority: Med (Can help clear EX3/4+ earlier)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Shefi <- (JP Release Date: Year 5, November 7th)
 Niche self buffer that can buff P.Atk for all teammates within range.
@@ -650,7 +649,7 @@ Niche self buffer that can buff P.Atk for all teammates within range.
 Bond story priority: Low (Relevant Units: NY.Shefi)
 Max level Unit priority: High
 New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Mitsuki <- (JP Release Date: Year 5, December 7th)
 A reliable debuff attached to her UB, probably a unit to keep an eye out for in the future.
@@ -663,7 +662,7 @@ A reliable debuff attached to her UB, probably a unit to keep an eye out for in 
 Bond story priority: Med (Relevant Units: O.Mitsuki)
 Max level Unit priority: Med
 New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Jun <- (JP Release Date: Year 6, January 5th)
 UB went from whatever to fantastic. When you need a tank, Jun is a good choice.
@@ -676,7 +675,7 @@ UB went from whatever to fantastic. When you need a tank, Jun is a good choice.
 Bond story priority: Med (Relevant Units: X.Jun)
 Max level Unit priority: High
 New player Unit priority: Med (Can help clear EX3/4+ earlier, but not as a main piece)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Ayumi <- (JP Release Date: Year 6, February 6th)
 The bane of physical Arena comps is back and she's here to stay.
@@ -689,7 +688,7 @@ The bane of physical Arena comps is back and she's here to stay.
 Bond story priority: Med (No relevant alts)
 Max level Unit priority: High
 New player Unit priority: Med (Does not help clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Christina <- (JP Release Date: Year 6, March 5th)
 Ultimate Chris domination so far, welcome back. Another damage cap circumventor, you're gonna hear her UB voice line a lot.
@@ -702,7 +701,7 @@ Ultimate Chris domination so far, welcome back. Another damage cap circumventor,
 Bond story priority: Top (Relevant alts: X.Christina, W.Christina )
 Max level Unit priority: Top
 New player Unit priority: High (Helps clear EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Anna <- (JP Release Date: Year 6, April 5th)
 She's a giant nuke now. Either she kills everyone, or she'll explode due to lose 100% of her defenses after UB.
@@ -715,7 +714,7 @@ She's a giant nuke now. Either she kills everyone, or she'll explode due to lose
 Bond story priority: Low (No Relevant alts)
 Max level Unit priority: Top
 New player Unit priority: Low (Can help in Arena with proper support but not as potent in low level.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 ## -> Muimi<- (JP Release Date: Year 6, May 8th)
 More damage with damage cap circumvent, a CC immunity and 6 Star stats means Muimi might make a return to her former glory..
@@ -728,7 +727,7 @@ More damage with damage cap circumvent, a CC immunity and 6 Star stats means Mui
 Bond story priority: High (Relevant units: L.Muimi, NY.Muimi)
 Max level Unit priority: Top
 New player Unit priority: High (Can be a main piece in clearing EX3/4+)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[[Return to Top](https://rentry.org/Six_Star)
 
 
 ## -> Yuki <- (JP Release Date: Year 6, June 6th)
@@ -742,7 +741,7 @@ More CC, tankiness and an interesting way to let his charm land more consistentl
 Bond story priority: High (Relevant units: O.Yuki)
 Max level Unit priority: High
 New player Unit priority: Med (Can help in clearing EX3/EX4+, but not a main piece. Helps cheese fights.)
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 
 ## -> Tsumugi <- (JP Release Date: Year 6, July 7th)
@@ -756,7 +755,7 @@ More damage and increased CC on UB+, but nothing else. Potentially some defense 
 Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority: Med
 New player Unit priority:  Low
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
 
 
 ## -> Matsuri<- (JP Release Date: Year 6, August 7th)
@@ -770,4 +769,18 @@ From the most useless unit in the game to a potential niche, there's certainly s
 Bond story priority: Low (Relevant units: W.Matsuri)
 Max level Unit priority: Med
 New player Unit priority: Low
-[Return to Top](https://rentry.org/Six_Star/edit#6-stars)
+[Return to Top](https://rentry.org/Six_Star)
+
+
+## -> Makoto <- (JP Release Date: Year 6, September)
+From the most useless unit in the game to a potential niche, there's certainly some hope for Matsuri. Not a lot though.
+- UB+: TBD
+- CB: TBD
+- Arena: TBD
+- PvE: TBD
+- TBD
+
+Bond story priority: TBD (Relevant units: )
+Max level Unit priority: TBD
+New player Unit priority: TBD
+[Return to Top](https://rentry.org/Six_Star)

@@ -904,3 +904,40 @@ As I readied myself for departure, Rav approached me with a meaningful look. "Yo
 
 A smile tugged at the corners of my lips, a mix of hope and anticipation. The sands of fate had shifted, and as Luna and I embarked on the next chapter of our journey, I couldn't help but believe that destiny had more surprises in store.
 ![Image description](https://furrycdn.org/img/view/2023/6/19/249417.jpg)
+
+>039: I HAVE NO MOUTH AND I WANT TO SCREAM
+As Luna and I journeyed through the vast expanse of the desert, I found myself captivated by her presence. Though she couldn't speak, her actions spoke volumes, and I was eager to know more about her past. With a gentle and curious expression, I turned toward her, silently inviting her to share her story.
+
+Luna looked at me, her eyes reflecting a mixture of emotions. She drew a deep breath, her gaze never leaving mine, and then began to communicate with her unique form of magic. Flames danced in the air before us, forming words that told a tale of hardship and resilience.
+
+"I was born mute," the fiery letters formed by her magic spelled out. "From the very beginning, my inability to speak set me apart from others."
+
+As her story unfolded through the fiery words, I couldn't help but feel a surge of empathy for Luna. To be silenced by circumstances beyond one's control must have been incredibly isolating.
+
+"Many treated me as if I were less, as if my voicelessness defined my worth," Luna continued. The flames shifted and reformed, each word a testament to her strength in the face of adversity.
+
+"My parents were my sanctuary," the words flickered and glowed. "They loved me unconditionally and supported me in a world that often seemed unkind."
+
+The story she painted was both heartbreaking and inspiring. Luna's parents stood as pillars of love amidst a society that often failed to understand the beauty of her uniqueness.
+
+"One day, they were gone," the fiery script continued, conveying Luna's deep loss and the sudden void that had entered her life. "I was left alone in the unforgiving desert, a place that had become both my home and my challenge."
+
+I watched as the flames danced, illuminating Luna's memories. Her survival against all odds spoke to a resilience that was nothing short of remarkable.
+
+"Kidnapped and sold as a slave," the words spelled out with a flicker of anger. "The cruelty of others forced me into a world of captivity and fear."
+
+As the flames etched her tale, I could feel the weight of Luna's experiences pressing on my heart. But even through the darkness, her spirit remained unbroken.
+
+"Yet, I escaped," the fiery letters glowed with determination. "In the midst of a fierce sandstorm, I found freedom and a chance to reclaim my life."
+
+Luna's story was a testament to her strength and the unyielding will to overcome challenges that life had thrown at her.
+
+With her narrative complete, Luna looked at me, her eyes carrying a mixture of emotions. I felt a deep connection to her, a shared understanding of the trials she had faced.
+
+"You are incredible, Luna," I whispered softly, my voice a mere undertone to the roaring flames of her magic. "Your resilience and bravery inspire me."
+
+She smiled, her eyes shimmering with gratitude. Her magic wove a final message in the air, a simple yet profound sentiment that encapsulated our newfound bond.
+
+"Thank you, John," the fiery words read, illuminating the space between us. "For being the best part of my journey."
+
+Touched by her words, I reached out and gently placed my hand on her shoulder. In that moment, words seemed unnecessary as our connection spoke louder than any language ever could.

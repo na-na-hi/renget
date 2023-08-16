@@ -459,8 +459,3 @@ Voldy guide pre-Table of Contents (9/15) https://rentry.org/voldyold
 The original hlky guide (replaced as of 9/8/22) is here: https://rentry.org/GUItard
 Japanese hlky guide https://news.livedoor.com/article/detail/22794512/ 
 The original guide (replaced as of 8/25/22) is here: https://rentry.org/kretard
-
-->**APPROXIMATE RENDER TIME BY GPU (50 steps)**<-
-![Time](https://i.ibb.co/yd7SZ32/chartthin.png)
-->**SAMPLER COMPARISON**<-
-![Sampler Comparison](https://i.ibb.co/vm4fm7L/1661440027115223.jpg)

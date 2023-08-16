@@ -34,6 +34,7 @@ Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild
 Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
 Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member(?) | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
+??? | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -171,8 +172,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 81 | [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4) | | | | |
 82 | [KFC Gets a Win!](https://rentry.org/49yqh) | | | | |
 83 | [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1) | | | | |
-84 | | | | | |
-85 | | | | | |
+84 | [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1) | | | | |
+85 | [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5) | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 
@@ -293,6 +294,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Makky the Makuhita
     * [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
+    * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -505,6 +507,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Anixety (ft. Gus) [Temp title]](https://rentry.org/mgeaa)
 * {||} [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
 * {||} [The Great Bulk Guide](https://rentry.org/BulkGuide)
+* {||} [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
+* {||} [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

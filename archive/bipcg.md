@@ -1,4 +1,15 @@
 ▶NEW CLIPS
+>Evacuation of wounded hohols after Rabotino offensive
+https://files.catbox.moe/2pe1wu.mp4
+https://files.catbox.moe/1p3sr7.mp4
+>Hohols drive over mine on a NATO vehicle during a tense assault
+https://files.catbox.moe/whj10k.mp4
+>FPV drone hits group of hohols riding on top of a BMP
+https://files.catbox.moe/5bx1u9.mp4
+>Lancet hits hohol Strela-10
+https://files.catbox.moe/cunct1.MP4
+>Multiple destroyed Stryker near Rabotino
+https://files.catbox.moe/5p0i0c.mp4
 >Soldiers of the Ryzhy company of the 60th separate motorized rifle brigade immediately after repulsing the hohol meat assault (not-comfy)
 https://files.catbox.moe/aiqmvj.mp4
 >Four hohol saboteurs neutralized, while trying to cross border to Bryansk region

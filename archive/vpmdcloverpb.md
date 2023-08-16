@@ -209,8 +209,8 @@ Ross (M), Smeargle
 >He's the sort of person who can be incredibly resourceful and creative but only if something's causing him frustration or creating a problem for him
 >Constantly forgets that his tail drags behind him and leaves a trail of paint wherever he goes unless he's tucked it into his belt - this can come in handy though as it means he's easy to find most of the time.
 
-Ability: Insomnia (probably)
-Moves: Sketch (hasn't figured it out yet)
+>Ability: Insomnia (probably)
+>Moves: Sketch (hasn't figured it out yet)
 
 ###Togetic
 [Togetic personality in full (Read This)](https://rentry.org/w4ygz)
@@ -228,9 +228,9 @@ Moves: Sketch (hasn't figured it out yet)
 [See Linked](https://rentry.org/kcb-01)
 
 ###Smith/Furret
-Name: Smith
-Species: Skorupi 
-Sex: Male 
+>Name: Smith
+>Species: Skorupi 
+>Sex: Male 
 
 (still subject to change but stuff is more established now)
 >Quiet natured. He typically only speaks when necessary, and often keeps his statements as brief and to-the-point as possible.
@@ -255,11 +255,11 @@ Sex: Male
 >Can't read native language.
 >Has a petty rivalry with Kiyo, due to the two exchanging insults in the past.
 
-Ability: Sniper
-Confirmed moves: Rock Tomb
+>Ability: Sniper
+>Confirmed moves: Rock Tomb
 
-Furret
-Sex: Female
+>Furret
+>Sex: Female
 >Extremely peppy and outgoing. The foil to Smith's reserved personality. She frequently forces him out of his shell.
 >Talks a lot, especially when she's excited, to the point of running out of breath.
 >Easily excited. Runs around fast and often.
@@ -307,7 +307,7 @@ Biography generated!
 [See Linked](https://rentry.org/StumpyOrigin)
 
 ###Tropius
-Male Tropius, Quirky/Serious
+>Male Tropius, Quirky/Serious
 > Somewhat serious personality. Not a stick in the mud, but his default is being the straight man. Likes to be helpful to others.
 > Is very tired of all the baneposting at his expense
 > Still unaccustomed to his body, cannot fly or use special moves like Magical Leaf or Air Cutter yet
@@ -321,51 +321,53 @@ Male Tropius, Quirky/Serious
 > Despite all this he's trying to do what he can to make his situation better, taking guild life one day at a time
 
 ###Nida/Pochi
-Pochi 
-Male Poochyena, Naive/Relaxed
-He is young and carefree, which often leads to him being easily tricked.
-He is looking for a place to belong, as his family doesn't care for him.
-Gets lost easily, and has a poor sense of direction.
-He has a great sense of smell, sometimes to his dismay.
-Loves singing.
-He has an enemy in common with Nidorina, the Rabid Gang
-He thinks he is weak, so avoids fights and confrontation as much as possible.
-It's common to see him teaching songs to Nida, which he thinks is a good bonding exercise.
+>Nida
+>Female Nidorina, Gentle/Calm
+>She tends to take stuff without asking.
+>She is lazy and tends to procrastinate a lot.
+>Has been spending the last couple of years in Jail, after being caught in the middle of a heist.
+>She can be a lot more proactive if the prospect of money is involved.
+>Even though she was part of the Rabid Gang for as long as she remembers, she has no attachment to them, as she was merely a tool for the criminals.
+>Loves sleeping and eating.
+>Currently in conflict with her old Gang, as she was doublecrossed for her part of the money.
+>She can keep her cool when in dangerous situations, thanks to living on the run for so long.
+>She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
 
-Nida
-Female Nidorina, Gentle/Calm
-She tends to take stuff without asking.
-She is lazy and tends to procrastinate a lot.
-Has been spending the last couple of years in Jail, after being caught in the middle of a heist.
-She can be a lot more proactive if the prospect of money is involved.
-Even though she was part of the Rabid Gang for as long as she remembers, she has no attachment to them, as she was merely a tool for the criminals.
-Loves sleeping and eating.
-Currently in conflict with her old Gang, as she was doublecrossed for her part of the money.
-She can keep her cool when in dangerous situations, thanks to living on the run for so long.
-She can be seen with her spikes retracted when accompanied by Pochi, as she feels safe around him.
+>Pochi 
+>Male Poochyena, Naive/Relaxed
+>He is young and carefree, which often leads to him being easily tricked.
+>He is looking for a place to belong, as his family doesn't care for him.
+>Gets lost easily, and has a poor sense of direction.
+>He has a great sense of smell, sometimes to his dismay.
+>Loves singing.
+>He has an enemy in common with Nidorina, the Rabid Gang
+>He thinks he is weak, so avoids fights and confrontation as much as possible.
+>It's common to see him teaching songs to Nida, which he thinks is a good bonding exercise.
 
 ###Topa
-Age 22
-Male
-Born 3/24
-Native mon
-Timid Nature
-Parents: George (marowak, male) Dinece (sableye, female,)
+>Age 22
+>Male
+>Born 3/24
+>Native mon
+>Timid Nature
+>Parents: George (marowak, male) Dinece (sableye, female,)
 
--Hates going into dungeons more than 2-3 floors. He was dragged into one when younger by a gang of digletts and was saved by his dad.
--Father taught him all he knows about rocks and got advice from a beedrill on how to start a business.
--Will stone anyone who talks shit on his shop or his way of living.
--Usually kinda nervous but can become more confident when talking about rocks and his shop.
+>-Hates going into dungeons more than 2-3 floors. He was dragged into one when younger by a gang of digletts and was saved by his dad.
+>-Father taught him all he knows about rocks and got advice from a beedrill on how to start a business.
+>-Will stone anyone who talks shit on his shop or his way of living.
+>-Usually kinda nervous but can become more confident when talking about rocks and his shop.
 
 ###Cheesecake/Apple
 >Cheesecake, Wooper (M), Relaxed
 > The glue and heart of Team Gumbo, Cheesecake is a happy-go-lucky little guy who is always up for some fun. He may be a little naive at times, but he's as sweet as his namesake and always willing to help.
+>Despite growing up pretty much an outcast in his family due to his odd coloring, he never let that bring him down and struck out on his own as soon as he was able.
 > - Loves sweet treats.
 > - **Held Item:** Lucky Ribbon (worn as a scarf)
 > - **Special Identifier:** Skin is a patchy combination of normal and shiny Wooper coloration.
 
 >Apple, Politoed (F), Timid
 > Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Though she is soft-spoken, she is protective of Cheesecake and almost sees him as a little brother. This is the original reason she decided to form Team Gumbo with him, to keep him safe.
+> Apparently lost her memory, but she doesn't seem to think she's a human. Remembers living in an area made of swamps and overgrown forests, and being raised in a culture equivalent to cajuns in the human world, but not much else.
 > - Holds the team's item bag
 > - **Held Item:** Pecha Scarf
 > - **Special Identifier:** Has freckles across her face (cheeks, nose, under eyes) and on her knees and elbows.
@@ -377,6 +379,11 @@ Parents: George (marowak, male) Dinece (sableye, female,)
 
 ###Makky/Asana
 [See linked](https://rentry.org/BulkGuide)
+
+###Ninetales/Luka
+>Luka "BIG MEATY PAWS" is the Persian. He's unusually large for his species. A gruff, intimidating exterior can make it hard to see his heart of gold. Luka favours heavy, close-range physical attacks, and so it's no surprise that he managed to crack his gem so young. There is nothing Ninetales won't tease him over.
+
+>Ninetales "Ninetales" is warm and observant. He is Luka's childhood friend. Of the two, it will be he who does the talking. Although he and Luka are both equals, Ninetales's natural charm and confidence have ordained him as the duo's unofficial leader. Luka is happy to follow him in his (many) ambitions.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/vnrgo

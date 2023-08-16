@@ -2,8 +2,8 @@
 Recent C.AI Updates: | ⠀ | ⠀
 :-: | :- | :-
 -> **Newest Pokémon Bots** <- | -> ![Leaf](https://characterai.io/i/80/static/avatars/uploaded/2023/8/9/H5z5NcZyPQHJ0D96lmMO1nXOljyDDOFqjpu5_PvE92Q.webp) <- -> [Leaf](https://c.ai/c/bLfKQIxiju06L_YtRX6nD1GdeDbJmODJpFOJqN5rUQM) <- | -> ![Plasma Goddesses](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/MG7bWwnOO6l3QnEvF88rGqMKCOtOjDeK7A_Lcz93R_A.webp) <- -> [Anthea  *&* Concordia](https://c.ai/c/RvyIHKk2KvLoPG16TkTF6pKKZGtpHlPBze88rRmjvnM) <- 
--> **Newest Non-Pokémon Bots** <- | -> ![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) <- -> [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU) (*&* [Ise *Kai*](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) *new URL*) <- | -> ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) <- -> [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) <- 
--> **Close to Completion** <- | -> ![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) <- -> [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) (*FE*) <- | -> ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) <- -> Demeter (*SMT*) <-
+-> **Newest Non-Pokémon Bots** <- | -> ![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) <- -> [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) (*FE*) <- | -> ![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) <- -> [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU) (*&* [Ise *Kai*](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) *new URL*) <- 
+-> **Close to Completion** <- | -> Rip van Winkle (*HELLSING*) <- | -> ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) <- -> Demeter (*SMT*) <-
 -> **Far from Completion** <- | -> ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) <- -> [Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) <- | -> ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) <- -> Arachne (*SMT*) <-
 
 ***
@@ -36,6 +36,7 @@ Character | C.AI
 ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) | [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) - Fates
  ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright
 ![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest
+![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) | [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) - Heroes
 
 ## -> Azur Lane <-
 Character | C.AI

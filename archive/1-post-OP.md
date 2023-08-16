@@ -12,9 +12,9 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 \---
 \>Streams
 Upcoming stream
-https://youtu.be/A6sX1yjQq_k
+https://youtu.be/HYY7Z2M5g6A
 Past stream
-https://www.youtube.com/watch?v=vdmr7B__G3s
+https://youtu.be/A6sX1yjQq_k
 \---
 \>Songs
 Cover of PinoccioP - God-ish / 神っぽいな
@@ -46,9 +46,8 @@ https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-ho
 \>Tools
 /ope/'s library (the stream curated page and the membership page aren't up yet)
 https://rentry.org/joint_operation_center0
-Nerissa's Sounds rentry pages
+Nerissa's Sounds
 https://rentry.org/c793m
-https://rentry.org/c4b4a
 Schedule
 https://twitter.com/nerissa_en/status/1690750320773644288
 https://teamup.com/ksua2ar4zft49pdn7c

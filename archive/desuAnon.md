@@ -28,6 +28,10 @@ https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
 
 https://rentry.org/SpecialTokens
 
+**Auto-Censoring Claude Refusals with the <META\> Token**
+
+https://rentry.org/ClaudeTokens
+
 ---
 
 ![desu](https://files.catbox.moe/7ofhvn.jpg)

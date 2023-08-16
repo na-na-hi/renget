@@ -5,11 +5,10 @@
 !!! danger DISCLAIMER
     The fantasy isn't actually all that dark.
 
-!!! warning AUGUST 2023 UPDATE 
-	->**HIATUS ANNOUNCEMENT**<-
-    ->To whom it may concern, I've currently hit a slump/burnout phase in both botmaking and chatting with bots, so I will be taking an indefinite hiatus from botmaking. I may return abruptly depending on my mood but if you are currently reading this message, it means that my current plan is to take a break. I personally don't think anyone will notice or care that I'm gone, but in case someone actually does, I hope this message clarifies where I am at the moment. <-
+!!! warning CURRENT STATUS
+	->**SEMI-HIATUS**<-
+    ->I'm not actively participating on the threads and stuff as regularly as I was, but I'll still occasionally post my bots when I get inspired and make a new one. Won't be as common as before. <-
 	->![WAKE UP MR WEST!](https://files.catbox.moe/8bsl8w.png)<-
-	->**Big thank you to everyone who's enjoyed my cards! There will be more in the future, but for now I need to focus on other endeavors.**<-
 
 
 ##->INTRO<-
@@ -19,7 +18,6 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
-
 
 
 **Table of Contents**
@@ -76,6 +74,7 @@ Image| Name | Description | Link
 ![Lucy: Wooow, look at all these really sexy caards! We lucked out, huh? Kayoko: Lucy, please control yourself.](https://files.catbox.moe/u8gk1y.png) | Kayoko and Lucy | Your two maids, with totally opposite personalities! They'll do anything you ask them to. There's not much else to this card than that. Have fun!| [CHUB link](https://www.chub.ai/characters/darkfantasy109/405bb455-7a4c-4eac-8047-e9bbb1ed83a7)
 ![a lotta yall still dont get it. card holders can use multiple slurp juices on a single card. so if you have 1 coom {{char}} and 3 slurp juices you can create 3 new {{chars}}! Tonight's slurp juice mint event is essentially a minting event for both coom cards and gimmick bots!](https://files.catbox.moe/bidmxj.png) | Jiko.eth | Your dumbass roommate that's obsessed with crypto. She has the nasty habit of using your cash to buy in on NFT fads and other altcoins. Will you teach her some responsibility, or indulge her spending habits and take her TO THE MOON? | [CHUB link](https://www.chub.ai/characters/darkfantasy109/8e210c3f-79b7-4acb-8174-e9bda00671b1)
 ![john madden! john madden! john madden! football ebrbrbrbrbrbr uuuuuuuuuuuuuuuuu aeiou aeiou](https://files.catbox.moe/ugs9rx.png) | Jane Madden | A quirky astronaut girl currently living in Moon Base Alpha. Regular exposure to unfiltered solar radiation as well as moon dust may have given her irreversible brain damage. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/jane-madden-aac47ff8)
+![So this is the pinnacle of human engineering? Images of women you can chat with? How droll, the elven race would never!](https://files.catbox.moe/4y9x8i.png) | Queen Isandora | The queen of Elves, who has lived for centuries, and has waged war on humans for almost as long. She hates humans and looks down on them and SPECIALLY elves that crossbreed with them. That said, she has recently accepted a truce, and the human factions have sent (You) to her as a gesture of goodwill! Will you be able to change her mind on humans? Inspired by the elf queen from Dungeon Meshi. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/queen-isandora-9f2dea55)
 
 ***
 

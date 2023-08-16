@@ -54,7 +54,7 @@ aa: Nijongis visits, Rojoris visits
 350: Argument between Covernius and Auroia ensues after Auroia found out about the former's dalliances, they split off.
 400: Split between Covernius and Auroia ends, all of Covernius' children agreed to be housed in Aurorai
 512: The earliest mortals arrive in Aurorai.
-865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant.
+865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant between mortals and The Celestium, =promising a safety measure if any of them goes rogue.=
 866: The newly-settled mortals fan out for places to settle.
 1000: End of the Celes years, new era designated as Holomini
 ***
@@ -70,7 +70,7 @@ aa H: Nero Eterna is formed
 aa H: After a decade and more of tribal war, the tribes unite under Blue Anaconda's chieftess Kondia, who names the new nation Anakonia, after herself and her tribe.
 40H: Explorers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria
 56H: Jour De Nuit renames to Diarnuit for ease of writing documents; The Divide is enacted, assigning elves, angels, fairies and similar to the eastern part, while dwarves, goblins, hobbits and other similar races were assigned to the western part.
-57H: The Sky Council in Diarnuit is formally founded.
+57H: The Sky Council in Diarnuit is formally founded and with it, designate their first Sky Regent through a vote amongst the Council.
 62 H: The Avian Uprising happens
 101 H: The Avian Period ends, with a deal struck between the opposing sides to let the avian races occupy the northern island of Savan, under the recently-crowned Bolion Shishiro's rule.
 103 H: The Consejo de Azur is convened for the first time to have a cohesive government in the nation.
@@ -83,7 +83,7 @@ aaa H: The Valkyries are formed by the Polarian King, with Kizuna Ai as leader.
 145 H: Atlantis forms an alliance with Negazion, Diarnuit and Savan jointly declare war on Atlantis
 150 H: Cita Azur occupied by Atlantis.
 154 H: Diarnuit, Savan, Blancopolis, and Polaria join forces.
-aaa H: Negazion and Atlantis join forces, Anakondia stays "neutral". (But just really accepting who benefits them better)
+aaa H: Negazion and Atlantis join forces, Anakondia stays "neutral". (But just really accepting offers from who benefits them better)
 aaa H: Coerce Cita Azur and Nero Eternalis to join them.
 220 H: Negazion loses Nero Eternalis to Blanc and Polarian forces.
 235 H: Atlantis lost Cita Azur to Diarnuitian and Savanese forces
@@ -108,10 +108,10 @@ aaa H: Additional members were later added
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade
 aaa H: Rumors abound that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate.
 618-622 H: The Order expansion continues, launching Second Brigade, the famed Fantasia Brigade, the Fourth Force Brigade, the Red Star brigade and the Bamboo Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
-619 H:The Red Coup erupts, then-Bishop Damaso leads the coup.
+619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling.
 620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in light of Damaso's men occupying Corte Blanca.
 621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria refuses the demand.
-623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Pollux to a fight to the death. for the throne of Negazion after Rojoris visits him privately in his chambers.
+623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
 624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Fourth Force Brigade.
 625-628 H: The Order gains widespread fame and adoration. Suntempo Knights and TriNero Knights established, Penta Brigade, widely acclaimed Mythos Brigade, and Poloro Brigade added.
@@ -211,27 +211,27 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Prologue
 
 **Sora**
--The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
+-The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
 >Home: Polaria
 
 **A'chan**
--Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page.
+-Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page.
 >Home: Polaria
 
 #### Chapter 1
 
 **Noel**
--A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
+-A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. Rumor has it that she does things with younger boys that are enchanted at the idea of a beauty as her being a Knight of Polaria. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
 >Home: Polaria
 
 **Flare**
--An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, a flame that would lead the way. Regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend.
+-An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. The decision was made seeing how most people outside Diarnuit saw elves as all bow-wielders, even those elves that used them less often. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, a frank colleague, and a flame that would lead the way. Regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend. Rumor has it that it goes deeper.
 >Home: Diarnuit
 
 #### Chapter 2
 
 **Aruran**
--A half-breed of a human and elf, he is half-brother to Flare, but both care not for the distinction. They both are fathered by an elf named Lack. He is a gentleman that runs a restaurant con bar in uptown Holopolis, hosting people from all walks of life, organizing parties every once in a while. His Knight colleagues make him the butt of jokes often but he takes it all in good fun.
+-A half-breed of a human and elf, he is half-brother to Flare, but both care not for the distinction. They both are fathered by an elf named Laack. He is a gentleman that runs a restaurant that doubles as a tavern in uptown Holopolis, hosting people from all walks of life, organizing parties every once in a while. His Knight colleagues make him the butt of jokes often but he takes it all in good fun.
 >Home: Polaria
 
 **Enma**
@@ -245,21 +245,21 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Chapter 3
 
 **Izuru**
--A tacticurn agent, he prefers empty, quiet spaces to himself. Born to a dying mother and deadbeat father, Izuru tried to make ends meet at a tender age. His efforts were futile as his beloved mother passed at age 10. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. He owes the King deeply for this.
+-A tacticurn agent of The Order, he prefers empty, quiet spaces to himself. Born to a dying mother and deadbeat father, Izuru tried to make ends meet at a tender age. His efforts were futile as his beloved mother passed at age 10. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. He owes the King deeply for this.
 >Home: Polaria
 
 **Miko**
--Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and aced them, despite her usual antics. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of  Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's.
+-Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up her wage being a Guardian to move themselves to a better neighborhood.
 >Home: Polaria
 
 #### Chapter 4
 
 **Aqua**
--An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch ran off to after the great invasion.
+-An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
 >Home: Polaria
 
 **Shion** 
--A prodigy of the Polarian Magical Academy, her confidence is backed by results. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place.
+-A prodigy of the Polarian Magical Academy, her confidence is backed by results. Such results include topping every exam she's subjected to, to the point she gets an aceeleration to even the odds. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place.
 >Home: Polaria
 
 #### Chapter 4x
@@ -285,13 +285,13 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Chapter 5
 
 **Ayame**
--A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical nobility activities, she left the Nakiri estate despite the protests of her parents. One day, she met with Fubuki Shirakami unprompted in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back homes as well as the opportunity to master her two blades.
+-A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she met with Fubuki Shirakami unprompted in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
 >Home: Nero Eterna
 
 #### Chapter 6
 
 **Korone**
--A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
+-A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. For such a mundane species such as herself, what she can do is amazing; a product of her rigorous physical routine. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
 >Home: Savan
 
 #### Chapter 7
@@ -309,6 +309,12 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 -The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with Tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and defends her with elder magic learned alongside her divining magics.
 >Home: Savan
 >(!)How to acquire: Defeat the chapter boss before the turn limit.
+
+#### Chapter 7
+
+**Aki**
+-Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men bedazzled over her. She doesn't let race get in her way of fun; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
+>Home: Diarnuit
 
 #### Chapter 8
 

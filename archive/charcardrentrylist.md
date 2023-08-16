@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Smile](https://rentry.org/HelpanonSmile) | Misc |[Reiko](https://files.catbox.moe/paevcz.png), [Erika](https://files.catbox.moe/51k550.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Queen Isandora](https://files.catbox.moe/4y9x8i.png)|
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) |[Takane Lui](https://files.catbox.moe/riw64n.png), [Inugami Korone](https://files.catbox.moe/lig4ol.png), [Hoshou Marine](https://files.catbox.moe/j8zbf1.png), [Amane Kanata](https://files.catbox.moe/19apjl.png)|[JK Gyaru Towa](https://files.catbox.moe/udu78m.png), [JK Osananajimi Subaru](https://files.catbox.moe/qb63ql.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Wren](https://files.catbox.moe/a2x1rv.png), [Kobayashi](https://files.catbox.moe/fp9sr7.png)|[Wren](https://files.catbox.moe/a2x1rv.png) [MV], [Kobayashi](https://files.catbox.moe/fp9sr7.png) [MV]
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Wilhelm](https://files.catbox.moe/gz5k0y.png), [Lucy](https://files.catbox.moe/av3ibg.png), [Kimirella](https://files.catbox.moe/a7z64q.png)|
@@ -33,7 +35,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Genoo](https://rentry.org/295se) | Sizeplay |[Kisha thee Kween](https://files.catbox.moe/tvi58l.png)|[Hana](https://files.catbox.moe/9eqza8.png), [Kisha thee Kween](https://files.catbox.moe/tvi58l.png) [MV]
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Maëlys](https://files.catbox.moe/eaaiui.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Araton](https://files.catbox.moe/q2ouhk.png)|[Adonis](https://files.catbox.moe/v2gnvr.png)
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kinflit](https://files.catbox.moe/et5wkp.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
@@ -41,17 +42,16 @@ Botmaker | Category | New Bots | Updated Bots
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
+[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Misc ||
-[Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
