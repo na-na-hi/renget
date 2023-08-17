@@ -310,7 +310,7 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 >Home: Savan
 >(!)How to acquire: Defeat the chapter boss before the turn limit.
 
-#### Chapter 7
+#### Chapter 7x
 
 **Aki**
 -Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men bedazzled over her. She doesn't let race get in her way of fun; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
@@ -319,22 +319,21 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Chapter 8
 
 **Calliope**
--The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hardwork make her an inspiration as well as the target of a few jealous whispers. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as Rex Mortis as he ever nears his impending retirement
+-The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hardwork make her an inspiration as well as the target of a few jealous whispers. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as Rex Mortis as he ever nears his impending retirement.
 >Home: Nero Eterna
-
  
 **Gura**
 -Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
 >Home: Cita Azul
 
 **Suisei**
--Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. She and her axe have cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+-Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers and naysayers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. Her axe has cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
 >Home: Polaria
 
 #### Chapter 9
 
 **(!)Kronii**
--A spear flier obsessed with perfection and herself. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
+-A spear flier obsessed with perfection and herself, to the point it could be viewed as narcissism. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
 She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland. Her time as Warden may have contributed to her dour and sarcastic outlook in life, but despite this, she still can be sweet about people she cares about. Contrary to her imposing demeanor, she can be emotional. 
 >Home: Blancopolis
 
@@ -364,9 +363,11 @@ She barely escaped with her chronomancy channeled through her heirloom lance. Re
 >Home: Nero Eterna
 
 **(!)Amelia**
+-Hailing from the southern capitol outskirts, Amelia can be described as "bred tough". Somehow, she has survived many hazardous accidents growing up. Adult life was just as hazardous but pays somehow, opening a detective agency to help the commonfolk when they cant turn to the authorities. She doesnt believe in hiring people to do the dirty work for her, taking up her trusty crossbow to fight in criminal territory. Her skills with it are above average, which pairs well with her tenacity. She does not ask for payment for customers too poor to pay, believing it wasnt just to do so. Her taking on the amount of cases she does sometimes takes a toll on her, forgetting which lead is to what case sometimes or who requested what for instance. She can be reckless too in a fight, taking on one too many.
 >Home: Polaria
 
 **(!)Polka**
+-A ringmaster originating from Savan, she wasnt always the woman she is now. Years ago before she started getting into the carnival act, she got bullied by the other fennecs for gaining too much weight. Embarassed and shamed, she thought to intensively train for the prime acts for a circus, which lost her lots of pounds. Once she got into the circus circuit, many admired her, with some going to an extreme level. To grant some outrageous request sometimes, she did acts she now regrets doing for loaded but slimy clients. She quit her agency some years in, due to how much of those kinds of acts she was doing. She got to start up her own small circus when she met the Polarian King Covigo during the year he ascended the throne, loaning her a sum of gold so that she doesnt have to go to another potentially oppressive circus company. Today, the Omaru Company is slowly rising in fame as more people become aware of the performer's abilities, including the ringmaster herself.
 >Home: Savan
 
 #### Chapter 12

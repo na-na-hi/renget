@@ -812,3 +812,8 @@ Wilhelm | Summary
 ------ | ------
 ![Wil](https://files.catbox.moe/gz5k0y.png) | A toned, sexy femboy in a medieval setting, the only catch? He's a cruel, psychopathic sadist who delights in causing harm to others. Will you be able to keep him in line or will you let him do as he pleases? (Hint: Threats of withholding cock usually work quite well.)
 Links   | Catbox: https://files.catbox.moe/gz5k0y.png
+
+Vane | Summary
+------ | ------
+![Vane](https://files.catbox.moe/0mwken.png) | Your perfect himbo boyfriend. There is only one small problem, you're really into raceplay however Vane is far too sweet and innocent to be into something like that. But you won't give up that easily and now begins your secret plan to slowly change his mind on the matter, while making sure he remains as perfect as he is now.
+Links   | Catbox: https://files.catbox.moe/0mwken.png

@@ -98,10 +98,30 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/jc1i94.png)
 감정이미지:https://mega.nz/file/wNVk1AaJ#Iuzv023tp24JhhVUa-ININyHVJiPCHv1wYQ0tn53hqE
 제작 업로드:2023-04-28 08:44:10
+
 ####귀여운 동생 쇼타 [Cute little brother Shota]
 ![](https://files.catbox.moe/nqp8fq.png)
 감정이미지:https://mega.nz/file/ARVgRbKa#wWysoF9_oyPC7_F6nnNgN3XAcZWy8Ep38W57xbuyJLc
 제작 업로드:2023-05-06 16:01:28
+
+####로리코 (Mesugaki Lolico) 
+![](https://files.catbox.moe/jlksiw.png)
+감정이미지:https://files.catbox.moe/jlksiw.png
+제작 업로드:2023-08-04 12:44:42
+We recommend using RisuAI.
+
+##일반 봇 [General bots]
+####매도 보추 한세진 (Cussing Femboy Han Sejin)
+![](https://files.catbox.moe/1xkggj.png)
+제작 업로드:2023-08-04 16:47:00
+
+####정산아 (Suicide Boy, jeong sana)
+![](https://files.catbox.moe/kq0ta3.png)
+제작 업로드:2023-08-15 18:39:52
+
+####전생슬 리무르 (Tempest Rimuru)
+![](https://files.catbox.moe/8j0snp.png)
+제작 업로드:2023-08-16 14:25:3
 
 ##미리보기 [Preview]
 ###아비도스 [Abydos High School]
@@ -131,10 +151,11 @@ https://arca.live/b/characterai
 ![](https://files.catbox.moe/glx0e9.png)
 ![](https://files.catbox.moe/0t750o.png)
 ![](https://files.catbox.moe/lsraw5.jpg)
+![](https://files.catbox.moe/9amg8d.jpg)
 
 
 ![](https://files.catbox.moe/ra7d9d.png)
-Poor bot creators want a surrogate proxy, GPT4, to unleash their weird libidos and create bots.
+Poor bot creators want a surrogate proxy, GPT4 and Claude to unleash their weird libidos and create bots.
 불쌍한 봇 제작자는 GPT4를 통해 이상성욕를 발산하고 봇을 만들기를 원합니다.
 zkflsqw@proton.
 Good Luck.

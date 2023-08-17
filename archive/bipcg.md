@@ -1,4 +1,11 @@
 ▶NEW CLIPS
+>Evacuation of wounded hohols after Rabotino offensive
+https://files.catbox.moe/cii6jf.mp4
+https://files.catbox.moe/2pe1wu.mp4
+https://files.catbox.moe/1p3sr7.mp4
+>Hohols drive over mine in Humvee during a tense assault
+https://files.catbox.moe/7zxzx5.mp4
+https://files.catbox.moe/whj10k.mp4
 >Two more Leopard A2's demilitarized on the Zaporozhe front.
 https://files.catbox.moe/en68nl.mp4
 >FSB delete hohol recon group trying to cross into Russia in Bryansk area
@@ -6,11 +13,6 @@ https://files.catbox.moe/moqz0i.mp4
 https://files.catbox.moe/np7l0i.mp4
 >Another burning Stryker outside Rabotino
 https://files.catbox.moe/q8q1ju.mp4
->Evacuation of wounded hohols after Rabotino offensive
-https://files.catbox.moe/2pe1wu.mp4
-https://files.catbox.moe/1p3sr7.mp4
->Hohols drive over mine on a NATO vehicle during a tense assault
-https://files.catbox.moe/whj10k.mp4
 >FPV drone hits group of hohols riding on top of a BMP
 https://files.catbox.moe/5bx1u9.mp4
 >Lancet hits hohol Strela-10

@@ -381,9 +381,9 @@ Biography generated!
 [See linked](https://rentry.org/BulkGuide)
 
 ###Ninetales/Luka
->Luka "BIG MEATY PAWS" is the Persian. He's unusually large for his species. A gruff, intimidating exterior can make it hard to see his heart of gold. Luka favours heavy, close-range physical attacks, and so it's no surprise that he managed to crack his gem so young. There is nothing Ninetales won't tease him over.
-
 >Ninetales "Ninetales" is warm and observant. He is Luka's childhood friend. Of the two, it will be he who does the talking. Although he and Luka are both equals, Ninetales's natural charm and confidence have ordained him as the duo's unofficial leader. Luka is happy to follow him in his (many) ambitions.
+
+>Luka "BIG MEATY PAWS" is the Persian. He's unusually large for his species. A gruff, intimidating exterior can make it hard to see his heart of gold. Luka favours heavy, close-range physical attacks, and so it's no surprise that he managed to crack his gem so young. There is nothing Ninetales won't tease him over.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/vnrgo
