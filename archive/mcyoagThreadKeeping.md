@@ -40,7 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA builds be like 'Honk shoo, honk shoo'. Except the ones that be like 'Honk mimimimi, honk mimimimi'.
+>A Hard Conversation (Mirror Devil, Drone, Arena)
+https://rentry.org/kmx3ty
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -549,7 +550,8 @@ https://rentry.org/6rwmw
 https://rentry.org/esiz3
 >Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
 https://rentry.org/rzimh
-
+>A Hard Conversation (Mirror Devil, Drone, Arena)
+https://rentry.org/kmx3ty
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
@@ -769,6 +771,8 @@ https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/
 >My pre-immortal (Dr. Hermione Neighman):
 https://docs.google.com/document/d/1S-maMQoCz5bqHj8iycBk72w-HseBUWFGzS2lH-W5xxU/edit?usp=sharing
 + Alt Link: https://controlc.com/ffde1c52
+>Mi Casa, Su Casa(Kara, Isha, Lance Lots of small cameos)
+https://rentry.org/tnvc29
 ```
 ****
 Page 4

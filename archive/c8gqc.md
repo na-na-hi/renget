@@ -152,6 +152,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 *Hall of Fame*
 • 7Hz H-07
 • Azla SednaEarFit Vivid
+• Azla SednaEarFit Xelastic
 • Dunu S&S
 • KBEAR 07
 • Moondrop Spring Tips
@@ -163,7 +164,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 *Honorable Mentions*
 • Anjirui Spirals
 • Azla SednaEarFit Light
-• Azla SednaEarFit Xelastic
 • BGVP W01
 • FiiO HS18
 • Final Type E

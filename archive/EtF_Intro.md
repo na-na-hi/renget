@@ -142,7 +142,7 @@ Before KFC could finish his sentence Chatot and President Alakazam barged into t
 
 Alakazam snarled. “Lying to my face… as expected of the garbage student of that Delphox.” he sniped, already sick of the human put in front of him.
 
-Lliaim kept his true thoughts of Alakazam hidden to keep the peace as he finished cramming all his unsorted paperwork into the desk drawer, Lliam said, “As you can see, I’m very busy, so make this quick and tell me why you’re here.”
+Lliam kept his true thoughts of Alakazam hidden to keep the peace as he finished cramming all his unsorted paperwork into the desk drawer, Lliam said, “As you can see, I’m very busy, so make this quick and tell me why you’re here.”
 
 Chatot, waiting for this moment all day, could barely contain his excitement as declared, “We’re here to shut you down!”
 
@@ -167,7 +167,6 @@ Lliam, without missing a beat, jumped at the opportunity. “Great! Then I’d l
 The Guildmaster’s heart sank. “...I don’t have that much. Is there anything I can do to get you to give the test right now?”
 
 “No, but it’s for the best anyway…” Alakazam said as he turned to leave. “After all, a bunch of filthy humans led by a filthy human guildmaster living in a filthy guild doesn't stand a chance of passing anyway.” 
-
 
 KFC, who had stayed silent the entire time, decided to chime in now. “Well, I think they do. Despite how they look, most of the teams here are competent.”
 

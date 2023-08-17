@@ -81,3 +81,4 @@ Here you can find all the NSFW fics that have been submitted for the contest.
 
 [Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
 [House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (NSFW, Koseki Bijou, Nerissa Ravencroft, Shiori Novella, cunnilingus)
+[Yuzuki Veterinary Services-Second Opinion](https://docs.google.com/document/d/e/2PACX-1vQ346TAZwSIjTMyIe2c73cVdv79-AzEpZ8dmhCupGFnQ6N5uvqK-iuyds-5VQF4WYCbMrDg9Rmnjo_-/pub) (NSFW, Towa, Choco, Bestiality, Gangbang)

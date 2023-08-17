@@ -387,3 +387,4 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 !!! info Status: Ongoing
     It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression.
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
+https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system

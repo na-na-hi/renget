@@ -41,3 +41,5 @@ See you all next time!
 
 
 Did you guys get nuked for real or just secret hour
+
+4chan as a whole is still up, but /tg/ seems to have been nuked..

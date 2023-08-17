@@ -209,7 +209,10 @@
 
 # ☣️ ➜ Untrustworthy Websites
 
-- Following items have historically or still currently show unethical behavior, poor regulation, or the deliberate injection of malware. Some of them are misleading fake clones that dishonorably employ the name of a previous, well-known brand to lure users.
+- Unethical behavior, poor regulation, or the deliberate injection of malware. 
+- Fake clones that dishonorably employ the name of a well-known brand to lure users.
+
+&nbsp;
 
 WEBSITE | URL
 :---- | :----

@@ -12,6 +12,8 @@ Some Pokemon, Asana especially, might think he's an idiot due to his loud, reckl
 
 Makuhita is a slow, yet sturdy brawler, usually goading his opponents to attack while Asana picks them apart. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize special attack. For example, if Asana hit him with a few bolts of Confusion, she could beat him very easily.
 
+He also struggles against speedy opponents, [Hitmontop](https://rentry.org/GreatBulk2) being a good example of this.
+
 Moveset:
 Arm Thrust
 Tackle
@@ -21,9 +23,11 @@ Sex: Female
 Ability: Pure Power
 A harsh and haughty, yet competitive and driven Meditite who is an Aura Sensor. She has a remarkable sensing range for someone as inexperienced and unskilled as herself, but she has trouble discerning the subtleties of aura, such as colors beyond a Pokemon's primary one, and the movement of it through their bodies. She had a desire to focus on her aura mastery and skill in fighting full-time, but due to needing to pay her bills, she was shackled with caravan guard duty, a job she hated. She only quit and moved to the bounty hunting business at Makuhita's urging, and is taking quickly to it.
 
-Her relationship with Makuhita started as being tense, bordering on outright antagonistic, due to how their personalities conflicted. She saw him as a boorish, oafish dolt who almost ate her out of house and home and regarded his attempts at concealing his origin with suspicion, but she is slowly warming up to him. Even if he annoys her sometimes, she is able to recognize Makuhita's faithfulness as an ally, and even though she doesn't want to admit it, has a small degree of respect for him.
+Her relationship with Makuhita started as being tense, bordering on outright antagonistic, due to how their personalities conflicted. She saw him as a boorish, oafish dolt who almost ate her out of house and home and regarded his attempts at concealing his origin with suspicion, but she is slowly warming up to him. Even if he still annoys her sometimes, she considers him the first friend she's ever had, and is unsure why he puts up with her behavior.
 
-She has a very low opinion of outlaws and criminals, deeming them all to be parasites who refuse to work or provide for themselves. Her fighting style is a skilled mixture of both psychic and physical combat, but she relies on avoiding hits, rather than tanking them. She has a habit of underestimating her opponents which cost her an eye against the first outlaw she helped turn in, and nearly resulted in her death. She can dish out tons of damage, but she can't take it in return.
+Due to being a Sensor at birth, she grew up with a sense of pride and superiority to others around her. However, due to the realities of adult life, she had to take caravan work to make ends meet, and there, her pride morphed into arrogance. It's only due to Makuhita that it's slowly beginning to melt away, but a part of her doesn't want to leave it behind - her arrogance was her shield against the world around her, and without it, she'd feel defenseless.
+
+Her fighting style is a skilled mixture of both psychic and physical combat. She can dish out tons of damage, but she can't take it in return.
 
 Moveset:
 Brick Break
@@ -33,7 +37,7 @@ Detect
 Aura Abilities:
 Basic Long-Ranged Sensing (Can sense for quite a long distance, but cannot read the more intricate details of auras)
 
-She has also been training Aura Expression for a long time, and had no luck with it, due to her training methods. Meditation was good for developing her Sensing, but as part of Expression requires movement, that on top of her lack of connection to herself meant she made zero progress before meeting Makuhita. She achieved it for the first time in [Basic Training](https://rentry.org/GreatBulkInter1) in the middle of a match with her partner, in a fit of anger where her pride as a fighter felt threatened.
+Crude Expression (Can aura-boost limbs and moves, although the latter tires her out greatly)
 
 ##The Bad:
 #####Team Verdant:
@@ -98,6 +102,24 @@ This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunn
 
 Moveset:
 Irrelevant.
+
+#####Independents:
+~~Hitmontop~~:
+Bounty: 3,500 Poke:
+Rank: A
+Wanted For: Assault, Theft
+Sex: Male
+Ability: Technician
+Distinctive Features: Wore a Power Band around his mouth.
+Held Item: ~~Power Band~~ Given to Asana.
+
+A stylish outlaw who used a mixture of skill and flashiness to attack numerous exploration and outlaw hunting teams as both a means of thrill-seeking and gaining notoriety. He gave Makky his first loss, although Asana beat him thanks to a combination of her Aura Sensing skills and preparedness. Due to Asana unintentionally reminding him of his mortality and some words from Makky, he might change his ways once he's done serving his time.
+
+Moveset:
+Rolling Kick
+Triple Kick
+Double Team
+
 ##The Others:
 Jolteon:
 Sex: Female
@@ -118,6 +140,8 @@ The North is, like much of the Sand Continent, rather mountainous, and is marked
 
 #####The South:
 The South is split into two sub-regions, the Southeast and the Southwest. The Southwest, unlike the rest of the Sand Continent, is rather frigid. Notable Mystery Dungeons include the Hall of Magic and Snowy Cave. The Southeast is primarily made up of deserts, mountains, and coastline, and is where Sahra Town is located.
+######Krabby Cave:
+A small Mystery Dungeon to the south of Sahra Town. As the name implies, its entrance is in the shape of a Krabby. It's rather small, and mostly home to Water-types. Hitmontop used to use the bottom of this dungeon as a hideout.
 
 
 ##Miscellaneous Notes and Lore Tidbits

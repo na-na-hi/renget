@@ -295,6 +295,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
+	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -509,6 +510,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk Guide](https://rentry.org/BulkGuide)
 * {||} [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 * {||} [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
+* {||} [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

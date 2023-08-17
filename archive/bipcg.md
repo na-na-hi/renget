@@ -1,4 +1,11 @@
 ▶NEW CLIPS
+>Two more Leopard A2's demilitarized on the Zaporozhe front.
+https://files.catbox.moe/en68nl.mp4
+>FSB delete hohol recon group trying to cross into Russia in Bryansk area
+https://files.catbox.moe/moqz0i.mp4
+https://files.catbox.moe/np7l0i.mp4
+>Another burning Stryker outside Rabotino
+https://files.catbox.moe/q8q1ju.mp4
 >Evacuation of wounded hohols after Rabotino offensive
 https://files.catbox.moe/2pe1wu.mp4
 https://files.catbox.moe/1p3sr7.mp4

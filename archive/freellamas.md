@@ -20,6 +20,7 @@ Stop Sequence: `</s>`
 **Recommended parameters for this model:**
 ```
 Streaming: Off
+Unlock context size (in ST)
 Context: 8192
 New Tokens: 380 - optimal for 13b llamas
 Temperature: 0.7 - 1

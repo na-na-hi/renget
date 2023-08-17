@@ -292,17 +292,48 @@ Although not giving the appearance of one who would seem a strong fighter, Mel h
 *Capital: Aizen*
 
 ###Geography and Infrastructure
+The Elite Shinto Dynasty is a peaceful landlocked nation with many quiet forests, tall snowy mountains, serene fields of grass and gently trickling waterfalls. Its cities are primarily made of wood, and are well-developed yet fitting in well with nature so as not to overwhelm it. There is a symbiosis in this country between man and wildlife which makes it a very comfortable place to live. The average altitude of the country is higher than normal. 
+
+Shintoism is the dominant religion in this land, unlike the worship of Yagoo. Best described as a mixture between animism and polytheism with traces of Buddhism, numerous shrines exist throughout the nation. Even the smallest villa will have at least one shrine. When leaving on a journey, it is a custom to visit your shrine before you go to bring you good luck. 
+
+A singular volcano sits outside of the capital Aizen, known as Mt. Kazan. This volcano is mostly dormant, and plays a key role in the art as a prominent backdrop. A famous incident in Miko’s life led to her somehow simultaneously falling into the volcano and triggering an eruption which destroyed most of the capital in the year 38. The exact circumstances of this incident have been suppressed on Miko’s orders. 
+
+The nation is bordered to the north by Yagoo’s Tower and Suisei, Mel to the west, AZKi to the Southwest, Fubuki to the southeast, the ruins of Chris to the east, and Matsuri to the northeast. 
 
 ###Flag
 A large white circle over a dark pink background. In the center of the circle are five pink cherry blossom petals, forming a complete cherry blossom.  
-General Overview: 
+
+###General Overview
+The Elite Shinto Dynasty is somewhat of a misnomer, as the nation’s titular dynasty consists of exactly one individual who has no real government function. It instead operates as a unitary parliamentary constitutional monarchy, with Miko having willingly stepped down from operating as head of government after realizing she simply wasn’t very good at it. This peaceful transition to power not only saved the nation but allowed it to thrive. 
+
+Miko is technically the head of state, religion, and military all at the same time. In theory this gives her almost unlimited power. However, in practice she can be vetoed by nearly every branch of society she operates in. As a result, Miko, despite being loved and respected, does not command much power within her own country, being almost redundant. Miko is allowed to advise or make decisions in most matters, and is well regarded, but often others will go around her or adjust her ideas. 
+
+Although she could certainly go on a rampage and use force if she wished to usurp back power, Miko simply isn’t that sort of person, and is quite tolerant of the masses so long as they don’t try and take away her comforts. In fact, she does not participate much in decision making these days unless she feels it’s crucial. 
+
+The country’s origins lie in the murky past in the early days of the world, and coming fresh off the destruction of Chris. Much of Miko’s territory bordered this ruined fogland. Put in charge of a new country, Miko found that the logistics of building up her country as well as fending off attacks and managing her religion were too much for her to manage. So, she delegated the task to her people.
+
+In the year 43, Miko handed power over to her countrymen. What was widely seen as an impoverished and failing state began to slowly turn around. Always a bit disinterested in such aspects of civilization, Miko was able to focus more on defending her homeland and shrines while the people managed the resources of the land. The new arrangement greatly worked in her favor, as it lessened her workload significantly and made her much more focused. This continued when in the year 103, Miko also gave up her military and religious powers for a more facial based role instead as opposed to function. 
+
+Content with lazing about and occasionally showing up for various functionaries, Miko has become complacent in her life. So complacent in fact that she did not mind when her royal position as empress and high priestess of the realm became little more than a title with a tax break. Miko has yet to complain. As far as she’s concerned, she’s succeeded, as befits an “elite” demigoddess like her. So far, she has not yet made an effort to find an heir, though there are rumors she may one day grow bored and depart. 
+
+The Elite Shinto Dynasty is like a well-organized machine. The trains run on time, the lands are well-guarded, and the economy is good. It is the largest country in the region, and was even larger in the past before forfeiting some lands to Suisei. Its shrines are also home to a strong if localized religious community. Miko spends a fair portion of her free time making sure shrines are kept up to quality, and that proper rites are being observed. As often as she is accused of being lazy, a badly maintained shrine is one of the few things to get her going. 
+
+One notable problem of the country is corruption, particularly bribery. With the demigod of the state being lax, politicians in all levels of the nation hold more allegiance to coin than to country. As Miko is quite happy with letting her people run the show, and nothing so far has come of it besides annoyance, it is unlikely to be solved anytime soon. Travelers should bring extra cash for bribes lest the wheels of bureaucracy churn slowly. 
 
 ###Blessed
-
+The Blessed of Miko are known for their pink hair, and a shocking decline in dexterity related functions, becoming very clumsy. Although many would not see this as a boon, her Blessed fervently maintain this is a symbol of them becoming closer to her. They mainly act in a high priest function for the religion of the land, as their clumsiness renders them unsuitable for many tasks. Thus, they devote their life to studying Shinto, and become very knowledgeable in the magic and rites that their god shares with them. Miko often consorts with them to garner knowledge of the country during times she is preoccupied with other matters. 
 
 ###Leader Description
+Sakura Miko is certainly an interesting demigod. From an outside perspective she seems airheaded, clumsy, and a bit pompous. This is not technically incorrect, but it hides a much more intelligent personality than she lets on. Miko is aware very much she does not make for a great leader, not possessing the capabilities to properly organize a nation. By keeping the country run by the people, she keeps them happy, and herself happy. 
+
+Miko maintains positive relations with all of her neighboring states, especially Fubuki, of whom the kami ridden forests mesh well with the Shinto shrines of her country. In the past she devoted serious time and effort to creating magic to cleanse what was once the lands of Chris from monsters, but has largely given up from lack of progress. 
+
+Miko often professes herself to be “elite” and has a somewhat haughty streak that can get her into trouble. The most famous of these incidents led to the capital being burnt down and her refusing to go near open flame of any sort for the rest of her life. Miko finds herself humiliated and humbled time and again, but always seems to bounce back regardless. What she lacks in motor coordination she makes up for in tenacity.
+
+Some often question why she is so inactive in the modern world. The truth is quite simple, and it’s that she puts her own needs first. Feeling that her reward should be to enjoy life for defending the people (though these days she only intervenes when necessary), Miko has created a land designed around being as easy for her to relax in as possible. While others fight for survival, Miko chills out on the couch and watches television. The best way to get her to act is if she thinks the country’s future is in imminent danger. She’ll work extra hard so she doesn’t have to work at all if that’s the case. 
  
 ###Leader Powers
+Miko’s powers are somewhat unusual. As a shrine maiden, much of her powers relate to Shintoism. She specializes in magic, specifically rituals and purification, making her an expert in dealing with ghosts and spirits. Miko is widely recognized as the greatest exorcist in the world. When not cleansing the lands, she uses her powers to heal or augment others, or make the lines blur between reality and the spirit world to attack from unusual spots.  
 
 ##AZKian Virtual Frontier
 
@@ -405,7 +436,7 @@ The Blessed of Coco are few now. None have been created since she left this worl
 ###Leader Description
 Kiryu Coco was well known for her fiery and boisterous personality. She would often wake her subjects with a rousing call of “Good morning motherfuckers!”, and was particularly fond of rowdy behavior. Coco was not afraid to use force or example in order to corral behavior from her subjects. This was how she was able to successfully unify the clans as well as tame (to an extent and often with violence) the dragons. 
 
-The morose mood that gripped her in her final years as ruler did not significantly nullify this personality of hers. Her behavior often led to ire from puritans, who proclaimed she was not behaving as a goddess should. Coco’s typical response included a raised middle digit and a thwack from her meaty tail.
+The morose mood that gripped her in her final years as ruler did not significantly nullify this personality of hers. Her behavior often led to ire from puritans, who proclaimed she was not behaving as a goddess should. Coco’s typical response included a raised middle digit and a thwack from her meaty tail, or, if she was in the mood, simply eating them. 
 
 In the early days before the printing press was widely available in the Khanate, Coco would often deliver the news to her subjects herself. The first television station was her morning AsaCoco news, famous for its quirkiness and troublingly not safe for work content. Coco was famous for not giving a damn what others thought of her, though privately it was rumored she was more sensitive than she seemed. 
 

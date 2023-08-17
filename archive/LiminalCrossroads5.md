@@ -127,7 +127,7 @@ Phanpy stops eating for a moment, tilting his head at one of the bowls in the mi
 
 “Yeah,” says a shy, but friendly voice coming from a frankly *horrifying* purple scorpion-like bug sitting at a nearby table. Bill had tried his hardest to avert his gaze at him so far. “I also spent weeks out in the wild just foraging food in the nearby forests and dungeons. Probably wasn’t a good course of action in retrospect, but eh… I grew way stronger, that’s for sure.”
 
-“You also found me! Don’t forget that!”, a squeaky voice coming from a much more adorable source expresses. This time it appears to be the long ferret-like being that the twins had spotted during their stroll through the town.
+“You also found me! Don’t forget that!” a squeaky voice coming from a much more adorable source expresses. This time it appears to be the long ferret-like being that the twins had spotted during their stroll through the town.
 
 “I-I guess,” says the flustered scorpion, looking like he’d want the ground to swallow him whole.
 
@@ -204,7 +204,7 @@ The Hisuian growlithe quickly pokes his brother, followed by him nodding to hims
 
 __________________________
 
-“...but then right afterwards, like… okay, so get this…” the lavender bipedal cat sitting across them narrates, barely able to contain a snicker as he tells his ludicrous tale over the half-finished plates. “The goofy fuck—and I *swear* I’m not making this up… the motherfucker pauses for a bit… and shouts ‘**ALLAHU AKBAR!**‘, *blasting* us both to the wall with his Disarming Voice!”
+“...but then right afterwards, like… okay, so get this…” a lavender bipedal cat sitting across them narrates, barely able to contain a snicker as he tells his ludicrous tale over the half-finished plates. “The goofy fuck—and I *swear* I’m not making this up… the motherfucker pauses for a bit… and shouts ‘**ALLAHU AKBAR!**‘, *blasting* us both to the wall with his Disarming Voice!”
 
 “Naaaah!” Gill nearly yells as he’s overcome by laughter.
 
@@ -290,7 +290,7 @@ Cyndaquil's head is swatted away by a flexible sky blue trunk belonging to Phanp
 
 "I'll even pay you a wage for it!", Lliam butts in. "We've been making a pretty penny since the last Federation visit! We have more than enough disposable income!"
 
-The orange growlithe sighs.
+The orange growlithe sighs:
 
 "I'll mull it over."
 
@@ -300,7 +300,7 @@ He turns around to see his brother wide-eyed at something.
 
 That something turns out to be the absol. His unnatural thousand-yard stare looks equal parts horrified and concentrated as he gazes at the twins. It looks like his trembling red irises are about to burst at any moment...
 
-"Oh! Yeah, there we go, that's more like it!" Kaiji stands up, patting his large partner in one of his white forelegs. "Like I told you two dogs before, Kris gets these very dark and grim 'visions' from time to time, pay them no mind. Most of the time they're either grossly exaggerated or bullshit. He'll probably go off about one of you drowning or something—"
+"Oh! Yeah, there we go, that's more like it!" Kaiji stands up, patting his large partner in one of his white forelegs. "Like I told you two dogs before, Kris gets these very dark and grim 'visions' from time to time, pay them no mind. Most of the time they're either grossly exaggerated or too cryptic to matter. He'll probably go off about one of you getting splashed with water or something—"
 
 The piercing red pupils slowly dilate. Kris's terrified stare eventually fades.
 

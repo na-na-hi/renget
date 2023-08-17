@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=pt2qpC2Ko-I
 https://docs.google.com/document/d/1IMDuGnREYJksMrhrAVnY6N6M9CeDWXa5P_bPrDMxlu0/edit?usp=sharing
 
 >/exeg/ Archives
-https://rentry.org/exeg-archives
+https://rentry.org/exeg-images-archives
 
 >/exeg/ CyTube
 https://cytu dot be/r/sexeg
