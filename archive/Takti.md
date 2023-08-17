@@ -3,7 +3,9 @@
 
 
 
-[TOC3]
+[TOC2]
+
+##Build
 
 #####Body
 Race: [Neko], [Mazoku]
@@ -17,6 +19,9 @@ Bust: [Small]
 Hips: [Thicc]
 Butt: [Large]
 Fitness: [Fit]
+
+Height: 150cm
+Weight: 44.4kg, 71kg with genitalia included.
 
 "I've been eating too meowny satiation potions lately..."
 
@@ -65,8 +70,37 @@ Alchemical 5
 Light 3
 Dark 1
 
-Stats:
-Height: 150cm
-Weight: 44.4kg, 71kg with genitalia included.
-
 Without comments: https://rentry.co/TaktiBuild
+
+##Profile
+##### Nyan Line Description
+Your friendly neighbourhood horned nyalchemist.
+
+##### Backstory
+Born to a Neko & Mazoku couple in Nocturne, Takti had a penchant for sneaking into alchemist labs to practice her own nyalchemy, but was quickly caught and offered the choice of being sold to slavery, executed, or taken in as an indentured servant.
+She fled Nocturne after an incident with some homemade extra powerful jello powder turned a major harbor in Nocturne into (tasty) jello.
+
+##### Violence Comfort Level
+Ideally none, but ah.. I tend to slip with regards to inflicting.
+
+##### Lewd Okay?
+Generally yes, but ask. Don't expect me to write explicit cont- wait no fuck I've done that.
+
+##### Kinks
+Catgirls
+Futanari
+Laura
+Kemonomimi
+Lactation
+Cum inflation
+Hyper Dick (on futa)
+Hyper Breasts
+Inconvenience brought on by the above two
+Catgirls
+Pregnancy
+Milking (breasts)
+Larger Insertions
+Nerdy girls
+Tomboys
+Size difference
+Heat/Rut

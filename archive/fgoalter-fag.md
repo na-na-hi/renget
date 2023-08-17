@@ -45,16 +45,10 @@
 5. Reopen up the target instance, click the "ID: Tap here to display" at the bottom and it should show your FC if done correctly.
 
 > 3T Looping Teams for Future Lottos:
-- [Grand Nerofest 1st Term](https://arch.b4k.co/vg/search/text/Nerofest%201st%20term%2090%2B%20node/)
-- [Grand Nerofest 2nd Term](https://arch.b4k.co/vg/search/text/Nerofest%202nd%20term%2090%2B%20node/)
-- [Grand Nerofest 3rd Term](https://arch.b4k.co/vg/search/text/Nerofest%203rd%20term%2090%2B%20node/)
 - [Summer 6 90+ Treasure Chests node](https://arch.b4k.co/vg/search/text/Summer%206%2090%2B%20Treasure%20Chests%20node/)
 - [Christmas 7 90+](https://arch.b4k.co/vg/search/text/Christmas%207%2090%2B%20node/)
 - [Space Odysseus Teslafest](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%20/)
 - [Faerie Knights Cup festival](https://arch.b4k.co/vg/search/text/Faerie%20Knights%20Cup%20festival/)
-
-> 3T Teams for Nero Fest 2023 NA:
-- [Nero Fest 2023 NA Lotto Guide](https://docs.google.com/spreadsheets/d/1we9JY-NTdzv_BBxMqId7_4zyrF29wNlH5W8FvFP2wtM/htmlview?usp=sharing#)
 
 ### Tools 
 > FGO Combat Sprites Viewer:

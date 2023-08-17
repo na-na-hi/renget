@@ -36,6 +36,9 @@ racemix\*
 bio\*
 \*anny
 \*oon
-
+girldick
+girlcock
+gock
+toilet
 
 ex: boards:trash,aco;/agp/i;op:no

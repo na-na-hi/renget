@@ -4,8 +4,6 @@ Characters marked with a * are ones I know have been converted to different form
 
 Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 and 3.5 Turbo using Agnai's fault settings, but I'm working on testing with Kayra and will specify in the descriptions which bots are optimized for use with NovelAI's Kayra 1.1 model. 
 
-(update: adding *** to the beginning and end of my OpenAI cards' sample dialogue fields seems to work fine for Kayra, and preserved the original characters without changing format. If you have API access and want to try one of my bots with NAI, that's all you need to do to get the current card versions working.)
-
 My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions.
 
 Aiyu

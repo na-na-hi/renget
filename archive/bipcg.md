@@ -1,7 +1,10 @@
 ▶NEW CLIPS
+>AFU attack in the South Donetsk direction near the village of Urozhaynoye
+https://files.catbox.moe/ztfljv.mp4
+>Grandson of "SS Galicia" reckon apologizes to a trannie
+https://files.catbox.moe/abxaqx.mp4
 >Kino tank battle at Zaporozhe front
-https://files.catbox.moe/xb0wpr.mp4
-https://files.catbox.moe/n61h97.mp4
+https://files.catbox.moe/l5b0xu.mp4
 >Captured NATO equipment report by RT
 https://files.catbox.moe/l40oen.mp4
 >Bobr hitting hohols in trench

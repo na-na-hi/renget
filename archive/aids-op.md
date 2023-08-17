@@ -1,7 +1,7 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
- Edition
+![suggested OP image](https://i.imgur.com/Hz4YpcH.png)
+Frienday Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>442541171
  
@@ -33,7 +33,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write knife-eared prompts for this week's theme, Elf Friday!
+\>Today is Elf Friday; reply to the anchorpost with your knife-eared prompts!
  
 ▶News
 \>(8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good

@@ -114,7 +114,7 @@ Chub Venus AI is an online frontend managed by [Lore](https://www.chub.ai/users/
 
 1. Create an account at Chub Venus if you don't have one already.
 2. Choose between a backend, either KoboldAI or the Text Generation Web UI, Venus AI supports both. In either case, you're going want to backend accessible to the internet. You can do this in KoboldAI by running the `remote-play.bat` file, for Text Generation Web UI you need to use the `--api --public-api` parameters. Both of these will generate a Cloudflare link(s) that Venus AI can use to connect to your backend.
-3. Load your model of choice on either backend. I'm going to assume you already have a model you'd like to use in mind. If not, you can refer to the [Airobors-7B-SuperHOT](https://rentry.org/better-llama-roleplay/#airoboros-7b-superhot) portion of this guide below.
+3. Load your model of choice on either backend. I'm going to assume you already have a model you'd like to use in mind. If not, you can refer to the [Airoboros-7B-SuperHOT](https://rentry.org/better-llama-roleplay/#airoboros-7b-superhot) portion of this guide below.
 4. Navigate to your character of choice in Venus AI and start a new chat with them. Then click on the burger menu at the top right to bring down the option menu, from there you'll select `API Settings`. Then choose either `Kobold` or `Ooba` (Text Generation Web UI) and input your API URL.
 5. Setup a prompt format. This can be anything, but this guide will show you how to setup the Simple Proxy's [verbose format](https://github.com/anon998/simple-proxy-for-tavern/blob/main/prompt-formats/verbose.mjs) since that's the Simple Proxy uses by default and the one most people use anyway.
 	1. In the `System Prompt` box, add the following:
