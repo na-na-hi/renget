@@ -147,6 +147,11 @@ Araton | Info
 ![](https://files.catbox.moe/29r421.png)   | An angel boy has descended upon Earth with orders to punish sinners, a job he takes a little too much joy in by using his 40 foot tall body. That's it. That's the card.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/q2ouhk.png), [CAI](https://beta.character.ai/chat2?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg)
 
+Carmelo | Info
+:----:  | :----: 
+![](https://files.catbox.moe/uyum3e.png)   | A male witch who lives in a gingerbread house and loves to bake magical sweets that have effects both silly and erotic when eaten. One day, while experimenting with his magic as usual, a cupcake he had made gave him a prophetic vision of meeting with you...leading him to be completely obsessed with the idea that you're his soulmate. Comes with two greetings where you first meet him and where you're already living with him.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/carmelo-62c18643),  [Catbox](https://files.catbox.moe/6sn9bk.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

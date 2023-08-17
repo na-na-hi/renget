@@ -1,4 +1,15 @@
 ▶NEW CLIPS
+>Kino tank battle at Zaporozhe front
+https://files.catbox.moe/xb0wpr.mp4
+https://files.catbox.moe/n61h97.mp4
+>Captured NATO equipment report by RT
+https://files.catbox.moe/l40oen.mp4
+>Bobr hitting hohols in trench
+https://files.catbox.moe/hzynrl.mp4
+>Hohols btfo by KAB airstrike near Staromayorskoye
+https://files.catbox.moe/1buye8.mp4
+>Hohols getting rekt near Urozhaine
+https://files.catbox.moe/p6mmcg.mp4
 >Evacuation of wounded hohols after Rabotino offensive
 https://files.catbox.moe/cii6jf.mp4
 https://files.catbox.moe/2pe1wu.mp4

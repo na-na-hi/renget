@@ -33,6 +33,8 @@ Params | 7B | 13B | 33B | 70B
 ------ | ------ | ------ | ------ | ------
  **VRAM recommended** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.3k-3.6k context | 48GB for 16k context thanks to GQA
 
+If you only serve yourself, run at least Q5_K_M ggml with full GPU offloading for the optimal quality tradeoff, if you can afford it. Oobabooga already supports llama.cpp loader.
+
 ###### 4. Load the model
 a. Go to oobabooga web UI.
 b. Click on models tab, select the model and model loader, either exllama (faster, uses more VRAM) or exllama_hf (has more samplers, uses less VRAM).

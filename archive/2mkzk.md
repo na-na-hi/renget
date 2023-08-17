@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: . at 2UTC ()**
+**FRI: - at 2UTC ()** Great Battle V if remains empty
 **SAT: Red Bull Rockman & Tatakae! Team Shachi at 2UTC (Parsec)**
 **SUN: Golden Sun at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 

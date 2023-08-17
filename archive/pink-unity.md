@@ -87,6 +87,9 @@ Some examples include but are not limited to:
 *Shiina Yuika* (JP): https://www.youtube.com/@ShiinaYuika
 *Mimiko Tomomo* (JP): https://www.youtube.com/@MimikoTomomo
 *Morino Merun* (JP): https://www.youtube.com/@MerunCh
+*Siru Mii* (JP): https://www.youtube.com/@Siru_mii
+*Minon* (JP): https://www.youtube.com/@MINON_MAOUKOUHO318
+*Momo Maru* (EN): https://www.youtube.com/@MomoMaruVT
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -107,6 +110,7 @@ To be *only* discussed within the context and as relating to their transient pin
 *Pink Shylily* (EN): https://www.twitch.tv/shylily
 *Uruha Rushia* (JP): https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ
 *Filian* (EN): https://www.twitch.tv/filian
+"Miori Celesta* (EN): https://www.youtube.com/@MioriCelesta
 
 ###Pink Halflings:
 Defined as vtubers whose hair is around half *solid* pink (Not highlights or underlayer), usually vertically divided.

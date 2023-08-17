@@ -2,9 +2,9 @@
 
 #### Currently serving:
 
-**Model:** **MythoMax-l2-13b scaled to 8k**
+**Model:** ~~**MythoMax-l2-13b scaled to 8k**~~
 
-Blocking API URL: ```https://boston-trade-potato-acdbentity.trycloudflare.com/api```
+Blocking API URL: ```N/A```
 
 **System prompt:**
 ```
@@ -22,7 +22,7 @@ Stop Sequence: `</s>`
 Streaming: Off
 Unlock context size (in ST)
 Context: 8192
-New Tokens: 380 - optimal for 13b llamas
+New Tokens: 350 - optimal for 13b llamas
 Temperature: 0.7 - 1
 Rep. pen: 1.10
 Top_k: 30

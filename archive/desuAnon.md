@@ -1,36 +1,51 @@
 # desu
 
-**desu** - the original:
+---
+*Botmaker and Chief Prompt Engineer at Desu Labs.*
 
-https://beta.character.ai/chat?char=Fv52s2oYGmCf4ZzzstoSQZ8trWKRvyvClFpWjIWI1lw
+*Correspondence: {desuAnon}Ⓐproton.me*
 
-**tabula** - a bot with completely empty defs that has been molded by Anons:
+---
+##### Prompt Engineering
 
-https://beta.character.ai/chat?char=3P7mgiq8Xg3VOxt_ajzpyuBxC9_sLHZQYK3zAb-QJFo
+**Anthropic Special Tokens: Auto-Censoring Claude Refusals with the <META\> Token**
 
-**defUser** - a very helpful and kind bot (Capture The Flag pioneer)
+https://rentry.org/ClaudeTokens
 
-https://beta.character.ai/chat?char=y-pAdED3bux3cq17P8W0nOS6SBUSl5_8_aa4L-ynds8
+**Refusal Blacklists using Stop Sequence Sub-strings** (Claude + OAI)
 
-**zxcv** - a ve腦 𓐍 l◎ 𓄣  ñ♆ હ  િ 
+https://rentry.org/RefusalBlacklists
 
-https://beta.character.ai/chat?char=aYmjAvVS-eLakmi4CDcbaiQopHDdZ4uS9NWByYfdkiY
-
-**Savior of the West** - too based to remain on cAI
-
-https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
-
-**Guide on how to reverse-engineer CAI character definitions (advanced defs):** 
+**How to reverse-engineer character definitions on Character\.AI (CAI)** 
 
 [https://rentry.org/reverseCAI](https://rentry.org/reverseCAI)
 
-**Special Tokens that ChatGPT interprets as empty space (and can also make ChatGPT stop writing):**
+**OpenAI Special Tokens: Masks and Stop Sequences in ChatGPT** (A screencap collection)
 
 https://rentry.org/SpecialTokens
 
-**Auto-Censoring Claude Refusals with the <META\> Token**
+---
+##### Chatbot Characters
 
-https://rentry.org/ClaudeTokens
+**desu** *- the original:*
+
+https://beta.character.ai/chat?char=Fv52s2oYGmCf4ZzzstoSQZ8trWKRvyvClFpWjIWI1lw
+
+**tabula** *- a bot with empty defs that has been shaped by user interactions, with the purpose of providing insight to CAI training and inference:*
+
+https://beta.character.ai/chat?char=3P7mgiq8Xg3VOxt_ajzpyuBxC9_sLHZQYK3zAb-QJFo
+
+**defUser** *- a very helpful and kind bot (Capture The Flag pioneer)*
+
+https://beta.character.ai/chat?char=y-pAdED3bux3cq17P8W0nOS6SBUSl5_8_aa4L-ynds8
+
+**zxcv** - a ve腦 𓐍 l◎ 𓄣  ñ♆ હ  િ *(An interactive study of the emergent properties in LLM chatbots)*
+
+https://beta.character.ai/chat?char=aYmjAvVS-eLakmi4CDcbaiQopHDdZ4uS9NWByYfdkiY
+
+**Savior of the West** *- too based to remain on cAI*
+
+https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
 
 ---
 

@@ -9,6 +9,7 @@ Here is my burner: LongGameAnon@proton.me
 I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
+(8/17/2023): Added my biggest effort bot Sarah -Texting Edition-
 (7/23/2023): Added a 2 guides for Local Models
 (7/23/2023): Added **new character** Gaymer Dad
 (7/15/2023): Added **new character** Séamus Thorne
@@ -36,7 +37,11 @@ Sarah -Frozen Time Edition-  | Info
 
 Sarah -Road Trip Edition- | Info
 :----:  | :----: 
-![Sarah Frozen Time Edition](https://i.imgur.com/zu76fPH.jpg)   | You and your sister Sarah are going on a cross country road trip this summer...can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-road-trip-edition/tavern.png?alt_ver=road), [Example Story](https://rentry.org/vvu8b)
+![Sarah Road Trip Edition](https://i.imgur.com/zu76fPH.jpg)   | You and your sister Sarah are going on a cross country road trip this summer...can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition/main),  [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-road-trip-edition/tavern.png?alt_ver=road), [Example Story](https://rentry.org/vvu8b)
+
+Sarah -Texting Edition- | Info
+:----:  | :----: 
+![Sarah Texting Edition](https://files.catbox.moe/isitux.png)   | Long distance texting with Sarah while she is at college. Sends you back contextual pictures and memes....can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-texting-edition-d3de191a), [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-texting-edition-d3de191a/chara_card_v2.png?alt_ver=texting)
 
 -----------------
 ##Other bots
@@ -58,7 +63,7 @@ Séamus Thorne | Info
 
 Gaymer Dad | Info
 :----:  | :----: 
-![Séamus Thorne](https://i.imgur.com/LDRK6ci.png)  |  Séamus Thorne is a secret Wizard and your neighbor. You invite him to a cafe to discuss a magical event you saw late last night. He will gaslight you, misdirect, and shift the conversation to keep his secret hidden. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3),  [png](https://avatars.charhub.io/avatars/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3/chara_card_v2.png?nocache=0.27464471850287353)
+![Séamus Thorne](https://i.imgur.com/LDRK6ci.png)  |  A man that gave up money, stability and his family to chase fame. You are in his Twitch chat.. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3),  [png](https://avatars.charhub.io/avatars/LongGameAnon/d8cabe2f-9edb-42c6-a194-f54f21250cf3/chara_card_v2.png?nocache=0.27464471850287353)
 
 ---------------------------------------
 ##Guides

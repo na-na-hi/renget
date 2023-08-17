@@ -621,6 +621,10 @@ District of Utnapishtim.
 ![XP requirements](https://i.imgur.com/AVCuFgu.png)
 At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess it to be anywhere between 7-9 months.
 
+# Resources 
+In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/baggguides)
+It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
+
 # Afternote 
 Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
