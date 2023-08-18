@@ -93,7 +93,7 @@ Reaction speed: https://desuarchive.org/tg/thread/89797987/#89800305
 
 Sprite Sheet: https://i.4pcdn.org/tg/1690239478836965.png
 Cormelia, Potion Pete, and Mahapapapurusa together: https://desuarchive.org/tg/thread/89797987/#89802756
-
+Potion Pete Pokemon Card: https://desuarchive.org/tg/thread/89946265/#89948450
 ***
 
 ## PROMPTS

@@ -124,9 +124,9 @@ https://civitai.com/models/21912/windranger-arcana-dota-lora
 https://civitai.com/models/27705/traxex-the-drow-ranger-dota2-lora
 - Muerta
 https://civitai.com/models/41186/muerta-from-dota-2
-	+ Juggernaut
+- Juggernaut
 https://civitai.com/models/107642/dota2-jugg
-	- Void
+- Void
 https://civitai.com/models/112454/darkterror-faceless-void-dota
 - Netflix series
 	+ Lina 
@@ -365,12 +365,15 @@ https://civitai.com/models/122335/aishalayla-or-enchantix-or-winx-club-s3
 
 # Mortal Kombat
 
-+ D'Vorah
-https://civitai.com/models/111823/dvorah-mortal-kombat	- Mileena
-https://civitai.com/models/111851/mileena-mortal-kombat-mk10-3d-era	- Kitana
+- D'Vorah
+https://civitai.com/models/111823/dvorah-mortal-kombat	
+- Mileena
+https://civitai.com/models/111851/mileena-mortal-kombat-mk10-3d-era	
+- Kitana
 https://civitai.com/models/93307?modelVersionId=99482
 - Sheeva
-https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms	- Sindel 
+https://civitai.com/models/84900/sheeva-mk39-mortal-kombat-2-arms	
+- Sindel 
 https://civitai.com/models/115232/sindel-mortal-kombat-embedding (TI)
 - Skarlet
 https://civitai.com/models/88846/skarlet-mortal-kombat-mk9mk11

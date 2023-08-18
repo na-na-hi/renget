@@ -54,9 +54,10 @@ aa: Nijongis visits, Rojoris visits
 350: Argument between Covernius and Auroia ensues after Auroia found out about the former's dalliances, they split off.
 400: Split between Covernius and Auroia ends, all of Covernius' children agreed to be housed in Aurorai
 512: The earliest mortals arrive in Aurorai.
-865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant between mortals and The Celestium, =promising a safety measure if any of them goes rogue.=
+865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant between mortals and The Celestium, ==promising a safety measure if any of them goes rogue.==
 866: The newly-settled mortals fan out for places to settle.
-1000: End of the Celes years, new era designated as Holomini
+902: Mortals start domesticating land for living.
+1000: End of the Celes years, new era designated as Holomini.
 ***
 1H: Polaria is established.
  a H Blancopolis is established.
@@ -106,10 +107,10 @@ aaa H : Fallen Star Graveyard constructed
 616 H: The Order of Iridescent Guardians ia formed by King Covigo, selecting Sora Tokino as its first member of many
 aaa H: Additional members were later added
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade
-aaa H: Rumors abound that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate.
+aaa H: Rumors surface that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate.
 618-622 H: The Order expansion continues, launching Second Brigade, the famed Fantasia Brigade, the Fourth Force Brigade, the Red Star brigade and the Bamboo Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
-619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling.
-620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in light of Damaso's men occupying Corte Blanca.
+619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling and who in The Celestium is "worthy" of worship.
+620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Franxis stepped down in light of Damaso's men occupying Corte Blanca by force.
 621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria refuses the demand.
 623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
@@ -129,7 +130,7 @@ aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of 
 #### Polaria
 ***
 Capitol: Holopolis
-Current ruler: King Covigo(16th)
+Current Leader: King Covigo(16th)
 Established: 1 H
 
 >Found in the center of Aurorai, Polaria is home to the biggest amount of mortals in the land, a big percentage of such being humans. Has a temperate climate excellent for farming or city life. Throughout the Holomini years, the country's leaders have enjoyed their inputs being followed by the rest of Aurorai. They also have appointed their own Hand, a trusted ally to oversee the daily operatjons of the castle and assisting the King/Queen. Kizuna Ai and the First Knights from the olden days of The Great Aurorai War trace their origins here. Polaria is reputed as the place to make it big although its cities may be too busy for someone not too used to them. Units hailing from here are Sora, Shion, Noel, Temma, Luna, Miko and Amelia, as well as most of Guild Tempus.
@@ -138,7 +139,7 @@ Established: 1 H
 #### Savan
 ***
 Capitol: Lionsgard
-Current Ruler: Queen Botan Shishiro(14th)
+Current Leader: Queen Botan Shishiro(14th)
 Established: 2 H
 
 >The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 72 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The King or Queen has a Council of their own choosing guiding her decisions, which still exists until this day . Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Savan has Territories that make up the land. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
@@ -146,7 +147,7 @@ Established: 2 H
 #### Diarnuit
 ***
 Capitol: Le Eclipse
-Ruler: Uriel Amane(8th) (angel)
+Current Leader: Uriel Amane(8th) (angel)
 Established: 2 H
 
 >Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. Units like Lamy, Kanata, Aki and Flare, come from here.
@@ -187,7 +188,7 @@ Capitol: Jaggeskal
 Current Ruler: Grand Hydra Karonda (12th)
 Established: 17 H
  
->Home to a group of united reptilian amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of the Red Ovulation, a long ritualistic hunting session spanning the whole of the month Virgo where they kidnap any male they come across for slavery and breeding purposes. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
+>Home to a group of united reptilian amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
 
 #### Negazion
 ***
@@ -215,7 +216,7 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 >Home: Polaria
 
 **A'chan**
--Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page.
+-Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page to tend to her.
 >Home: Polaria
 
 #### Chapter 1
@@ -239,7 +240,7 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 >Home: Polaria
 
 **Ina**
--Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. She has been given leave by them to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
+-Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
 >Home: Nero Eterna
 
 #### Chapter 3
@@ -286,93 +287,111 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 
 **Ayame**
 -A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she met with Fubuki Shirakami unprompted in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
+
 >Home: Nero Eterna
 
 #### Chapter 6
 
 **Korone**
--A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. For such a mundane species such as herself, what she can do is amazing; a product of her rigorous physical routine. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
+- A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. For such a mundane species such as herself, what she can do is amazing; a product of her rigorous physical routine. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
+
 >Home: Savan
 
 #### Chapter 7
 
 **Lamy**
 
--Hailing from nobility in Argenia (a cold land in northeast Diarnuit), Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face and enchanting speaking voice belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+- Hailing from nobility in Argenia ;a cold land in northeast Diarnuit, Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face and enchanting speaking voice belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+
 >Home: Diarnuit
 
 **Botan**
--After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan can be described as nigh unflappable in every situation. Her combat skills are peerless, combining masterful archery with her innate ability to turn into a majestic and fierce white lion like the rest of the Shishiro bloodline. At court, she is always credited with being the most level-headed among the royal council when they convene to discuss Savanese affairs. In this looming war, her weak side may finally be revealed to many and her more beastly side unleashed, as the safety and wellbeing of her people grow ever more threatened.
+- After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan can be described as nigh unflappable in every situation. Her combat skills are peerless, combining masterful archery with her innate ability to turn into a majestic and fierce white lion like the rest of the Shishiro bloodline. At court, she is always credited with being the most level-headed among the royal council when they convene to discuss Savanese affairs. In this looming war, her weak side may finally be revealed to many and her more beastly side unleashed, as the safety and wellbeing of her people grow ever more threatened.
+
 >Home: Savan
 
 **(!)Mio**
--The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with Tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and defends her with elder magic learned alongside her divining magics.
+- The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with Tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and defends her with elder magic learned alongside her divining magics.
 >Home: Savan
 >(!)How to acquire: Defeat the chapter boss before the turn limit.
 
 #### Chapter 7x
 
 **Aki**
--Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men bedazzled over her. She doesn't let race get in her way of fun; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
+- Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech not just in Diarnuit, but all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men bedazzled over her. She doesn't let race get in her way of fun; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
+
 >Home: Diarnuit
 
 #### Chapter 8
 
 **Calliope**
--The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hardwork make her an inspiration as well as the target of a few jealous whispers. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as Rex Mortis as he ever nears his impending retirement.
+- The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hardwork make her an inspiration as well as the target of a few jealous whispers. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as Rex Mortis as he ever nears his impending retirement.
 >Home: Nero Eterna
  
 **Gura**
--Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
+- Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War.
+
 >Home: Cita Azul
 
 **Suisei**
--Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers and naysayers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. Her axe has cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+- Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers and naysayers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. Her axe has cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+
 >Home: Polaria
 
 #### Chapter 9
 
 **(!)Kronii**
--A spear flier obsessed with perfection and herself, to the point it could be viewed as narcissism. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces
-She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland. Her time as Warden may have contributed to her dour and sarcastic outlook in life, but despite this, she still can be sweet about people she cares about. Contrary to her imposing demeanor, she can be emotional. 
+- A spear flier obsessed with perfection and herself, to the point it could be viewed as narcissism. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces. She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest Warden of Clover Island, they deemed her a traitor when she protested against the cruelties of Grand Pontifex Damaso's gender segregation laws, which she has seen herself in the Blanc mainland. Her time as Warden may have contributed to her dour and sarcastic outlook in life, but despite this, she still can be sweet about people she cares about. Contrary to her imposing demeanor, she can be emotional.
+
 >Home: Blancopolis
 
 #### Chapter 10
 
 **Haato**
--A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato and the enemy would be looking to harness this dark side at their command.
+- A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato and the enemy would be looking to harness this dark side at their command.
+
 >Home: Polaria
 
 **(!)Ollie**
--Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her village in Nero Eterna, aiding whoever she can however she could. Above all, she proves to be smart and heartful despite both lacking a living brain or heart.
+- Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her village in Nero Eterna, aiding whoever she can however she could. Above all, she proves to be smart and heartful despite both lacking a living brain or heart.
+
 >Home: Nero Eterna
 >(!)How to acquire: Visit a certain destroyed house.
 
 #### Chapter 11
 
 **Choco**
--A well-loved head nurse of Nero Eterna's top academy Academia Il Nero, Choco is as caring as she is beautiful. Her physique and looks have attracted quite a number of admirers but none stuck around for too long. With the ongoing civil war in her home country, the Academia has been shut down to prevent further damage. Out of a job, she then roams nearby areas to treat wounded and tend to them till they're ready to fight again. This demon isnt all beauty though, as she has demonstrated cooking skills most who have tasted her work first hand would say "top-notch". In addition, she is quite learned in her field, which is part of why she is a well-respected personality in the academy.
+- A well-loved head nurse of Nero Eterna's top academy Academia Il Nero, Choco is as caring as she is beautiful. Her physique and looks have attracted quite a number of admirers but none stuck around for too long. With the ongoing civil war in her home country, the Academia has been shut down to prevent further damage. Out of a job, she then roams nearby areas to treat wounded and tend to them till they're ready to fight again. This demon isnt all beauty though, as she has demonstrated cooking skills most who have tasted her work first hand would say "top-notch". In addition, she is quite learned in her field, which is part of why she is a well-respected personality in the academy.
+
 >Home: Nero Eterna
 
 **Kanata**
--Daughter to a fast-rising court official named Sayuri Amane and a descendant of the current Sky Regent, Kanata can appear reserved around people she doesn't know. As far back as her time with the Seraphim Officer Academy, she is reputed as "The Iron Hand" due to how much grip strength she can hold, allowing her to wield weapons efficiently despite appearing small and frail compared to most of her peers. Complimenting her meek nature is her habit to tend after her comrades in battle, being the battle medic of sorts of the squad. She can be clingy to people she admires, but she tries to keep herself reasonable and professional all the time.
+- Daughter to a fast-rising court official named Sayuri Amane and a descendant of the current Sky Regent, Kanata can appear reserved around people she doesn't know. As far back as her time with the Seraphim Officer Academy, she is reputed as "The Iron Hand" due to how much grip strength she can hold, allowing her to wield weapons efficiently despite appearing small and frail compared to most of her peers. Complimenting her meek nature is her habit to tend after her comrades in battle, being the battle medic of sorts of the squad. She can be clingy to people she admires, but she tries to keep herself reasonable and professional all the time.
+
 >Home: Diarnuit
 
 **Towa**
--Energetic and friendly, Towa breaks the norm from the average Neronian; that being more reserved, introvert, and averse to outdoors. Often, peers tease her as "an angel in devil's wings" with how affectionate and wholesome she can be towards people. Her wyvern, Bibi has been with her since she was a child demon, gifted to her by her dad after graduating from Minor Circle. Towa and Bibi struck together ever since, the latter part of the reason why the former took up a flying role in Nero Eterna's reserve army. With her on the back of her beloved wyvern, Towa has encountered many kinds of people, including who would end up being her fellow Guardians. Her outgoing nature helps newer Guardians to feel at home with The Order. Despite her cool, put-together demeanor, she can be a bratty mess to handle if she doesnt get her fill of sweets.
+- Energetic and friendly, Towa breaks the norm from the average Neronian; that being more reserved, introvert, and averse to outdoors. Often, peers tease her as "an angel in devil's wings" with how affectionate and wholesome she can be towards people. Her wyvern, Bibi has been with her since she was a child demon, gifted to her by her dad after graduating from Minor Circle. Towa and Bibi struck together ever since, the latter part of the reason why the former took up a flying role in Nero Eterna's reserve army. With her on the back of her beloved wyvern, Towa has encountered many kinds of people, including who would end up being her fellow Guardians. Her outgoing nature helps newer Guardians to feel at home with The Order. Despite her cool, put-together demeanor, she can be a bratty mess to handle if she doesnt get her fill of sweets.
+
 >Home: Nero Eterna
 
 **(!)Amelia**
--Hailing from the southern capitol outskirts, Amelia can be described as "bred tough". Somehow, she has survived many hazardous accidents growing up. Adult life was just as hazardous but pays somehow, opening a detective agency to help the commonfolk when they cant turn to the authorities. She doesnt believe in hiring people to do the dirty work for her, taking up her trusty crossbow to fight in criminal territory. Her skills with it are above average, which pairs well with her tenacity. She does not ask for payment for customers too poor to pay, believing it wasnt just to do so. Her taking on the amount of cases she does sometimes takes a toll on her, forgetting which lead is to what case sometimes or who requested what for instance. She can be reckless too in a fight, taking on one too many.
+- Hailing from the southern capitol outskirts, Amelia can be described as "bred tough". Somehow, she has survived many hazardous accidents growing up. Adult life was just as hazardous but pays somehow, opening a detective agency to help the commonfolk when they cant turn to the authorities. She doesnt believe in hiring people to do the dirty work for her, taking up her trusty crossbow to fight in criminal territory. Her skills with it are above average, which pairs well with her tenacity. She does not ask for payment for customers too poor to pay, believing it wasnt just to do so. Her taking on the amount of cases she does sometimes takes a toll on her, forgetting which lead is to what case sometimes or who requested what for instance. She can be reckless too in a fight, taking on one too many.
+
 >Home: Polaria
+>(!)How to acquire: Visit a specific house with any of Ina, Gura or Calliope
 
 **(!)Polka**
--A ringmaster originating from Savan, she wasnt always the woman she is now. Years ago before she started getting into the carnival act, she got bullied by the other fennecs for gaining too much weight. Embarassed and shamed, she thought to intensively train for the prime acts for a circus, which lost her lots of pounds. Once she got into the circus circuit, many admired her, with some going to an extreme level. To grant some outrageous request sometimes, she did acts she now regrets doing for loaded but slimy clients. She quit her agency some years in, due to how much of those kinds of acts she was doing. She got to start up her own small circus when she met the Polarian King Covigo during the year he ascended the throne, loaning her a sum of gold so that she doesnt have to go to another potentially oppressive circus company. Today, the Omaru Company is slowly rising in fame as more people become aware of the performer's abilities, including the ringmaster herself.
+- A ringmaster originating from Savan, she wasnt always the woman she is now. Years ago before she started getting into the carnival act, she got bullied by the other fennecs for gaining too much weight. Embarassed and shamed, she thought to intensively train for the prime acts for a circus, which lost her lots of pounds. Once she got into the circus circuit, many admired her, with some going to an extreme level. To grant some outrageous request sometimes, she did acts she now regrets doing for loaded but slimy clients. She quit her agency some years in, due to how much of those kinds of acts she was doing. She got to start up her own small circus when she met the Polarian King Covigo during the year he ascended the throne, loaning her a sum of gold so that she doesnt have to go to another potentially oppressive circus company. Today, the Omaru Company is slowly rising in fame as more people become aware of the performer's abilities, including the ringmaster herself.
+
 >Home: Savan
+>(!)How to acquire: Visit a specific house with either Botan or Lamy
 
 #### Chapter 12
 
 **Jenma**
+- A gentle soul, she is head healer of Polaria's army and an Adviser in The Order, taking care of Kiara. Often, her family and herself would take a pilgrimage to Citablanca in Blancopolis every year for The Feast of Celestians, a week of prayer and merriment in honor of the Celestium. That stopped when in 620, Damaso assumed the title of Grand Pontifex and rewrote the festival to only include Rojoris and those who help with enforcing the cruel Red Doctrine. Believing this to be a sacrilege, she organized the old feast in Polaria in 628 H. In a fight, she is never starting one, but can sufficiently finish it with her anima and light magics. This action raised a few eyebrows in cleric school, but those she ignored.
+
 >Home: Polaria
 
 **Oga**

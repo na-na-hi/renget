@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Tank battle near Rabotino explained
+https://files.catbox.moe/izag63.mp4
 >AFU attack in the South Donetsk direction near the village of Urozhaynoye
 https://files.catbox.moe/ztfljv.mp4
 >Grandson of "SS Galicia" reckon apologizes to a trannie

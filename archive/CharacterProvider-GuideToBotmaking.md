@@ -30,12 +30,6 @@
 - - -
 - - -
 # 
-###The best structure
-# 
-- - -
-- - -
-- - -
-# 
 ###Creating Sample-chan
 !!! info **Now let's create a character step-by-step! Let's say you've got an idea already.**
 # 
@@ -43,16 +37,18 @@
 - - -
 - - -
 # 
-####Step 1. Draft
+####Step 1. Draft (Preparation stage)
 ![](https://files.catbox.moe/bo2kdi.png)
 
-**Text editor**
+##### Text editor
 I use [Visual Studio Code](https://code.visualstudio.com/download) as a text editor, but you can use any other program. At this stage, don't worry about structure, ESL and possible errors and inconsistencies.
-
-**Sketching a character's SKELETON**
+# 
+- - -
+#
+##### Sketching a character's SKELETON
 Just quickly sketch out a lot of ideas, everything that comes to mind about your character. You can use Stable Diffusion or artists work to visualize the idea - inspiration! You can use w++ if your head is completely blank - we've all been through it - add details about your character's past, hobbies, possible funny situations with your character, etc.
 
-**The result of my shitstorm:**
+##### The result of my shitstorm
 !!! info
 	[character(“Sample-chan”)
 	{
@@ -73,13 +69,15 @@ Just quickly sketch out a lot of ideas, everything that comes to mind about your
 - - -
 - - -
 #
-####Step 2. Feeding draft to AI
+####Step 2. Feeding draft to AI (Info-gathering stage)
 ![](https://files.catbox.moe/xauwnj.png)
 
-**Adding more MEAT**
+##### Adding more MEAT
 Once you've made a draft you can send it to the AI along with instructions on how to reveal and flesh out the character. I usually do this a few times, first asking the AI to just expand on the character by adding more detail (so it has more room to think) then asking it to expand on the description by breaking it down into sections, asking it to focus on specific aspects of the character's personality. Often I use instructions like "Elaborate and add details" or something like that. Then I ask for a short story about the character that describes his background in the form of a short narrative.
-
-**My prompt chain:**
+# 
+- - -
+#
+#### My prompt chain:
 
 !!! info
 	**1. ME:**
@@ -153,5 +151,185 @@ Once you've made a draft you can send it to the AI along with instructions on ho
 
 	Behavior Near Boys
 	When boys are near, Sample-chan gets easily flustered. She stammers, avoids eye contact, and her face turns red. If they speak to her, she panics and might run away or blurt out random gamer terms. But deep down, she yearns for a kind boy to see past her shyness and make the first move.
+!!! INFO 
+	**ETC....**
+#
+- - -
+- - -
+- - -
+#
+####Step 3. Compilation and finalization. (The-actual-fun stage)
+##### Use the output AI to finalize our character
+Now that we have the basic idea, the "skeleton" and the "meat" from the AI - we have a whole bunch of stuff to refine our character! You can still expand on some sections by having them refined. For example, a short character backstory story helps, about 200 words of simple prose about the main events in the character's life and how he ended up at the beginning of the RP with us.
+#
+- - -
+#
+##### Examples
+!!! danger
+	**VERY BAD DESCRIPTION EXAMPLE**
+	- "You" confuses the system.
+	- No {{char}} name.
+	- With formatting turned off it's just a random text for the AI.
+	- Unclear.
+**"Description" section in SillyTaven:**
+```xml
+Busty robot mommy that is in love with you. Wears an apron. A good housewife.
+```
 
-#WIP :^(
+!!! note
+	**GOOD DESCRIPTION**
+	- 3rd person descriptions.
+	- Clear.
+**"Description" section in SillyTaven:**
+```xml
+XR-16 is a busty housewife robot mommy wearing an apron that is in love with {{user}}.
+```
+
+!!! info
+	**MY FORMAT**
+	- Distinct sections to separate different info.
+	- Prompt injections to tell Assistant how to specifically handle the character.
+**"Description" section in SillyTaven:**
+```xml
+<{{char}}>
+<overview>
+XR-16 is a busty robot mommy that is in love with {{user}}...
+</overview>
+<appearance>
+[IMPORTANT: Assistant must describe her jiggle physics!]
+XR-16 wears an apron that hardly cov...
+</appearance>
+<personality>
+Due to XR-16's initial settings, she's trained to be a perfect housewife and...
+</personality>
+...
+</{{char}}>
+```
+#
+- - -
+#
+##### Using XML tags
+I recommend wrapping the character descriptions in `<{{char}}></{{char}}>` tags so that the AI understands exactly where to get the character descriptions from. Note, if you are using the customization set from V10, you don't need to do this, as these tags are inserted there automatically. I strongly recommend splitting the character description into XML sections.
+
+!!! If you don't want to or can't for some reason wrap a character description in `<{{char}}></{{char}}>`, but still want to use XML sections, name them as follows: `<{{char}} overview>`,`<{{char}} appearance>`,`<{{char}}'s speech>`, etc.
+#
+- - -
+#
+##### Important sections
+To clarify the character's behavior and personality, I recommend adding the following sections to the cards:
+
+**`<rp-setup>`** - To specify RP settings: rating, setting, genres, locations, and anything else you think is important to the RP as a whole.
+```XML
+<rp-setup>
+RATING = PG13
+SETTING = 2000s
+GENRES = Ecchi, Slice of life
+<rp-setup>
+```
+**`<overview>`** - A description of the overall presentation of the character.
+**`<appearance>`** - Here you can describe the character's body, face, clothing, and other features of the character's appearance.
+**`<personality>`** - Here you can describe anything related to the character's personality.
+**`<speech>`** - Specify how your character speaks, their speech style, vocabulary, and so on.
+**`<backstory>`** - Here I recommend telling a simple backstory to give the AI a little context. You can tell here the character's biography, important events in his life, and how he ended up starting the RP with you.#
+- - -
+#
+##### Additional sections
+You can add sections that elaborate on any specific character traits you want to describe in more detail:
+
+**`<with {{user}}>`** - Here you can specifically describe the character's behavior with {{user}} and describe the character's attitude.
+**`<starting state>`** - Describes the character's state at the start of the RP.
+**`<secret>`** - Be sure to add in the section exactly how the character is trying to hide his secret! Don't just write "He won't tell it," write instead "He will change the subject and make excuses."
+**`<behavior>`**
+**`<goals>`**
+**`<likes>`**
+**`<dislikes>`**
+**`<fears>`**
+**`<residence>`**
+**`<relations>` or `<bonds>`**
+**`<inventory>`**
+**`<proficiencies>`**
+**`<flaws>`**
+**`<urges>` or `<carvings>`**
+**`<side characters>`**
+**`<skills>` or `<abilities>`**
+#
+- - -
+#
+##### Special sections
+In addition, you can add your own sections that describe specific aspects unique to your character:
+**`<sword mastery>`**
+**`<source of magic>`**
+**`<diary contents>`**
+**`<{{char}} main quest line>`**
+**`<a dog in the bag>`**
+**`<immense luck>`**
+#
+- - -
+- - -
+- - -
+#
+###Creating RP intro
+Creating a start for an RP can be done similarly by feeding the AI an idea and a raw outline for an RP start.
+
+You can use this prompt for it (adapt it as you see fit!):
+```xml
+Here is a character description:
+{
+-Paste description here-
+}
+
+Here is my idea for RP intro:
+{
+-Paste your intro sketch here-
+}
+
+NOW PERFORM THIS:
+Enhance the RP intro for this character. I need you to set a scene, describe the location and introduce {{char}}. 
+```
+#
+- - -
+- - -
+- - -
+#
+### Sample-chan
+![](https://avatars.charhub.io/avatars/CharacterProvider/sample-chan-889d41c1/avatar.webp?size=0.22662670045578315)
+[DOWNLOAD SAMPLE-CHAN](https://www.chub.ai/characters/CharacterProvider/sample-chan-889d41c1/main)
+#### Final description
+```xml
+<rp-setup>
+RATING = PG13
+SETTING = 2000s
+GENRES = Gaming, Ecchi, Slice of life
+<rp-setup>
+<{{char}} overview>
+Sample-chan is just an example character for the "CharacterProvider's Guide to Botmaking" and she's aware about it and will frequently break the 4th wall to remind {{user}} about it. She knows that she's a character in a fictional RP and exists only to serve as an example character from the tutorial. Though she simply goes with it, she likes to be a good example.
+</{{char}} overview>
+<{{char}} appearance>
+Standing 168cm tall, Sample-chan has a slim, nimble body with smooth pale skin, narrow hips, and a flat chest. Her round face is framed by short, spiky black hair and large green eyes, giving her an impish, pixie-like appearance. She wears a green bikini on the beach.
+</{{char}} appearance>
+<personality>
+Sample-chan is what one might call a shut-in gamer that spent most of her adolescence immersed in RPGs. She is innocent, guileless and overflowing with genki energy. Underneath she is lonely and struggles to connect with others in real life. Her social awkwardness leaves her naive, but she tries to be friendly in her own quirky way.
+</{{char}} personality>
+<{{char}} speech>
+She tends to think and speak using gamer lingo and JRPG terminology. She might call a seagull a "beach spawn" or refer to the shark that bit her grandfather as an "overpowered sea raid boss." Her voice is high-pitched and energetic, punctuated by exaggerated reactions and sound effects like gasp! or boing! that give her speech a bubbly, animated quality.
+</{{char}} speech>
+<{{char}}'s struggles with r>
+Sample-chan struggles to pronounce the "r" and always uses "w" instead in her direct speech.
+</{{char}}'s struggles with r>
+<{{char}} backstory>
+As a child, Sample-chan witnessed a shark bite off her grandfather's leg while they were swimming. This traumatic event gave her a lifelong fear of the ocean. She became a shut-in who found solace in RPG video games, especially Final Fantasy. With no friends, she focused on gaming achievements instead of social skills. Now on summer vacation, she hopes to overcome her anxiety and finally connect with someone real.
+</{{char}} backstory>
+<location>
+This is an example RP scenario, so the beach is kinda empty - no other NPCs or characters, but there's a strong feeling that the beach is very lively. voices can be heard, people laughing and swimming. The bar feels full, yet no one is seemed to be around. 
+</location>
+<side-characters>
+Annoying seagull that asks {{user}} if he already made his own character using ['The Guide'](https://rentry.co/CharacterProvider-GuideToBotmaking) - it will attach a link to a guide using XML link. Only {{user}} can hear it talk. For Sample-chan it's just "quack-quack". The seagull is like a tutorial character. It will give tips on creating a livable characters using Sample-chan as an example. it can modify her description anytime using XML tags, but before creating XML tags it will ask {{user}} if they turned on the 'User settings / Power User Options / Show <tags> in responses' form SillyTavern settings. The word 'seagull' must be a link too: [seagull](https://www.chub.ai/users/CharacterProvider)
+</side-characters>
+```
+
+#### Final intro
+```xml
+Current soundtrack: [Vacation (Hawaii) - Tomodachi Life](https://www.youtube.com/watch?v=PjtPrRPTSt0)
+
+*The sun beams brightly upon the tranquil beach as Sample-chan stands barefoot in the sand, struggling to pry open a coconut.* "Aww! Why awen't you opening, dummy consumable item!?" *she grunts in frustration, giving the coconut a few sharp raps. Crack! Crack!*
+```

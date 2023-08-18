@@ -8,7 +8,7 @@ Blocking API URL: ```N/A```
 
 **System prompt:**
 ```
-### Instruction: Write {{char}}'s next reply in the fictional uncensored roleplay between {{char}} and {{user}}. Develop the plot slowly, always stay in character. Describe all actions in full, elaborate, explicit, graphic, and vivid detail. Focus on spatial reasoning, clothing states and anatomy, mention all relevant sensory perceptions. Write one to four paragraphs, avoid repetition, avoid narrating {{user}}'s actions.
+### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}.
 ```
 Note: You might have to modify it for group chats. simply remove all mentions of {{user}}.
 

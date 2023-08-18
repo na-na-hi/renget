@@ -70,4 +70,6 @@
 |15/08/2023|56|Mentions & Collabs|Addition of a timestamp from Kobo's New Outfit Reveal.|
 |16/08/2023|57|Mentions & Collabs|Addition of a timestamp from FUWAMOCO's HoloCure stream.|
 |16/08/2023|58|Mentions & Collabs|Addition of a timestamp from FUWAMOCO's seventh FUWAMOCO MORNING stream.|
-|16/08/2023|58|Mentions & Collabs|Addition of the link for the Powerwash Sim collab with Bae.|
+|16/08/2023|59|Mentions & Collabs|Addition of the link for the Powerwash Sim collab with Bae.|
+|17/08/2023|60|Mentions & Collabs|Addition of the link of Nerissa's POV of the Advent APEX Legends collab.|
+|17/08/2023|61|Mentions & Collabs|Addition of the link of the 2 oalternative POV of the Advent APEX Legends collab.|

@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🐐 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
@@ -91,7 +91,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Streaming
+# 📑 ➜ Streaming
 
 ### 🐐 [123Movies](https://123chill.to/)
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
@@ -141,10 +141,6 @@
 - Famous movie website that allows free users to view movies and TV series in HD quality with no advertisements.
 - [URL Safety Results](https://www.urlvoid.com/scan/gomovies.sx/)
 
-### ▶️ [HDMovieBox](https://hdmoviebox.net/)
-- Time has changed dramatically, and we now live in an era where we may watch movies online in full HD quality at any time.
-- [URL Safety Results](https://www.urlvoid.com/scan/hdmoviebox.net/)
-
 ### ▶️ [HDToday](https://hdtoday.ru/)
 - There are hundreds of movies and tv shows accessible with multiple subtitles. All of them are available for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/hdtoday.ru/)
@@ -165,7 +161,7 @@
 - Discover well-known dramas and films from Asia, including those from China, Taiwan, South Korea, and Japan.
 - [URL Safety Results](https://www.urlvoid.com/scan/kissasian.li/)
 
-### ▶️ [LookMovie](https://lookmovie2.to/) / [More Domains](https://proxymirrorlookmovie.github.io/)
+### ▶️ [LookMovie](https://lookmovie2.to/) / [2](https://proxymirrorlookmovie.github.io/)
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - [URL Safety Results](https://www.urlvoid.com/scan/lookmovie2.to/)
 
@@ -243,7 +239,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🧲 [EZTV](https://eztv.re/)
 - Here you may find and watch new episodes of your favorite TV shows every day.
@@ -264,7 +260,7 @@
 &nbsp;
 
 
-# 📑 4 ➜ Subtitles
+# 📑 ➜ Subtitles
 
 ### 🖊️ [Addic7ed](https://www.addic7ed.com/)
 - A subtitle database for movies and TV shows with collaborative online translations by the user base into 18 different languages.
