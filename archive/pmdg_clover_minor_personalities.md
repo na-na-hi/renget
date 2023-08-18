@@ -121,3 +121,6 @@ Sex: Male
 > In battle, she takes the role of a tank, using her sturdy shell to her advantage. She acts as a mobile shield for Cooper, attacking enemies when she has an opening, and protecting him with her body when he needs cover. Her moves are Scald, Ice Beam, Brick Break, and Bite. However, she can adjust the temperature of her water, so Scald can also be used as a typical Water Gun.
 
 > She wears a red bandanna, on which her Clover Guild badge and old Platinum Badge are pinned together. She carries a leather shoulder bag slung across her body, and she pins Cooper’s two badges on it. The bag always contains at least one Confuse Wand, along with various other useful items.
+
+####Weezil & Morgel
+[See Linked](https://rentry.org/darkies)

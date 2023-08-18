@@ -161,6 +161,7 @@ https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f
     #### Local models
     This is what anons use to gain independence from corpos.
 
+##### Some info
 https://rentry.org/lmg_template
 - /𝖑𝖒𝖌/ 𝕷𝖔𝖈𝖆𝖑 𝕸𝖔𝖉𝖊𝖑 𝕲𝖊𝖓𝖊𝖗𝖆𝖑 𝕺𝕻 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊 𝖜𝖎𝖙𝖍 𝖆𝖑𝖑 𝖙𝖍𝖊𝖎𝖗 𝖑𝖎𝖓𝖐𝖘
 
@@ -170,6 +171,12 @@ https://rentry.org/ayumi_erp_rating
 https://docs.alpindale.dev
 - official Pygmalion manual, very extensive and detailed
 
+##### Some guides
+https://rentry.org/hostfreellamas
+https://rentry.org/colabfreellamas
+- how to host a llama proxy for yourself or for others
+
+##### Some stuff that is still unsorted
 
 *Following links are legacy, if you want to learn more about current local models use aforementioned links:*
 

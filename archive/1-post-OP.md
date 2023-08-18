@@ -12,9 +12,9 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 \---
 \>Streams
 Upcoming stream
-https://www.youtube.com/watch?v=ckE64pHsT3w
+https://youtu.be/T40-yg1CEgE
 Past stream
-https://youtu.be/HYY7Z2M5g6A
+https://www.youtube.com/watch?v=ckE64pHsT3w
 \---
 \>Songs
 Cover of PinoccioP - God-ish / 神っぽいな

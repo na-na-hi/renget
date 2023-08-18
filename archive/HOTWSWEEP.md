@@ -98,6 +98,7 @@ ANT KING: https://archive.4plebs.org/tg/post/89395657
 Kara Ramirez: https://archive.4plebs.org/tg/post/89418140
 Maya Liang: https://archive.4plebs.org/tg/post/89430183 
 Nikto: https://archive.4plebs.org/tg/post/89443745 
+Lockley Aimes Pokemon Card: https://desuarchive.org/tg/thread/89946265/#89954317
 ### Writefags
 Piss Break (Nymphs): https://rentry.org/4cfx3
 The Midwife (Georgia Dolittle & Bob): https://rentry.org/nn577

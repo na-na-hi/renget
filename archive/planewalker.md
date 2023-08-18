@@ -150,7 +150,7 @@ Araton | Info
 Carmelo | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/uyum3e.png)   | A male witch who lives in a gingerbread house and loves to bake magical sweets that have effects both silly and erotic when eaten. One day, while experimenting with his magic as usual, a cupcake he had made gave him a prophetic vision of meeting with you...leading him to be completely obsessed with the idea that you're his soulmate. Comes with two greetings where you first meet him and where you're already living with him.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/carmelo-62c18643),  [Catbox](https://files.catbox.moe/6sn9bk.png)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/carmelo-62c18643),  [Catbox](https://files.catbox.moe/6sn9bk.png), [CAI](https://beta.character.ai/chat2?char=SqQ5yznKtK-jTkaZ6jFY-Sfr2X3TYTfl8-6tNAHcBx8)
 
 Shameful Codespawn | Info
 :----:  | :----: 

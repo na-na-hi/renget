@@ -11,3 +11,4 @@ Dewott | M | Dewott | [Toge's Former Partner](https://rentry.org/pmdg_clover_min
 Porygon2 (aka Terry) | N/A | Porygon2 | [Mystery Dungeon Information Repository](https://rentry.org/pmdg_clover_minor_personalities#porygon2)
 Ampharos | M | Ampharos | [Veteran Explorer, Pika's Mentor](https://rentry.org/pmdg_clover_minor_personalities#ampharos)
 Team Buckler (Cooper & Testa) | M/F | Torchic & Squirtle |[Platinum Rank Rescue Team, Clover Guild Members](https://rentry.org/pmdg_clover_minor_personalities#team-buckler)
+Weezil & Morgel | F/M | Weavile & Morgrem | [Human-hunting Outlaws(?)](https://rentry.org/pmdg_clover_minor_personalities#weezil-morgel)

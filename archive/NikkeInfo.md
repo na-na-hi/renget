@@ -8,7 +8,7 @@ Choose the one closest to you for ping purposes, "Global" servers are in Europe
 #####I just started, do I reroll? and how?
 That's up to how much time do you want to invest, but having top tier units at the start of the game will make the campaign smoother.
 You can reroll with salted emails, they disabled guest accounts because the chinks were nuking the servers
-Emulator is recommended if you have a beefy PC because you can have multiple instances going on at the same time
+Emulator was the way to go for speed but sadly you can't do it anymore
 You get a guaranteed SSR on the tutorial pull that can only get you a character from the SSR units from launch, so no newer units nor Pilgrims
 Then you have to clear a bit of the campaign to unlock the mail and you can claim free gibs, the amount will differ based on if they are running some sort of promotion or reward
 #####Pilgrims?
