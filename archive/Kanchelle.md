@@ -41,4 +41,8 @@ girlcock
 gock
 toilet
 
-ex: boards:trash,aco;/agp/i;op:no
+
+Hide all filtered posts/stubs: ;stub:no  (ex: boards:trash,aco;/agp/i;op:no;stub:no)
+
+Hide all imageless posts: boards:trash;//i;file:no
+(Alternatively use Fappe Tyme on 4chanx)

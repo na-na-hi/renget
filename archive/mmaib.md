@@ -98,7 +98,7 @@ aaa H: Coerce Cita Azur and Nero Eternalis to join them.
 aaa H : Fallen Star Graveyard constructed
 347 H: Kizuna declared a hallowed figure by all of Polaria
 350 H: Phoenixes and Dragons break away peacefully from Diarnuit
-351 H: Stadt Des Feuers is formed, with Kohryu as its first leader.
+351 H: Stadt Des Feuers is formed, with Kohryu Shenloong as its first leader.
 501 H: Last of the Polarian Valkyries dies in peace.
 582 H: Guild Tempus is formed with Polaris Tempest as its first Guild Leader.
 593 H:  Sora Tokino is born.
@@ -171,7 +171,7 @@ Established: 16 H
 ***
 Capitol:  Flammiena
 Current Ruler: Coco Kiryu (4th)
-Established: 350 H
+Established: 351 H
 >The youngest nation of all Aurorai, Stadt Des Feuers is located in a small island state off the coast of Cita Azur. The island they reside was all that was left of the old nation of Atlantis, banished to the depths as punishment for their crimes in The Great Aurorai War. Weather here is warm and balmy but not humid which the residents are thankful for due to the island in its current form having high above- sea levels. Aside from Coco, Kiara also appears as a unit as well as her Kiara's Fighter Phoenix squad; a small squad of phoenixes and fiery-hearted warriors in general under her name.
 
 #### Blancopolis
@@ -212,81 +212,91 @@ The main cast of the game. The Guardians are your key to averting this crisis an
 #### Prologue
 
 **Sora**
--The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
+- The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. Sora can be rather clumsy and precocious as a child, as her longtime friend A'chan can attest. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
+
 >Home: Polaria
 
 **A'chan**
--Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page to tend to her.
+- Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. She was King Covigo's first appointment as King. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep and putting her into an apt resting place, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page to tend to her.
+
 >Home: Polaria
 
 #### Chapter 1
 
 **Noel**
--A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. Rumor has it that she does things with younger boys that are enchanted at the idea of a beauty as her being a Knight of Polaria. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
+- A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. Her body growing was the source of many whispers; of ogling from  boys, of jealousy from girls. Rumor has it that she does things with younger boys that are enchanted at the idea of a beauty as her being a Knight of Polaria. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
+
 >Home: Polaria
 
 **Flare**
--An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. The decision was made seeing how most people outside Diarnuit saw elves as all bow-wielders, even those elves that used them less often. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, a frank colleague, and a flame that would lead the way. Regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend. Rumor has it that it goes deeper.
+- An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. The decision was made seeing how most people outside Diarnuit saw elves as all bow-wielders, even those elves that used them less often. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, never letting anybody dictate her choices and making them respect said choices. She regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend. Rumor has it that it goes deeper.
+
 >Home: Diarnuit
 
 #### Chapter 2
 
 **Aruran**
--A half-breed of a human and elf, he is half-brother to Flare, but both care not for the distinction. They both are fathered by an elf named Laack. He is a gentleman that runs a restaurant that doubles as a tavern in uptown Holopolis, hosting people from all walks of life, organizing parties every once in a while. His Knight colleagues make him the butt of jokes often but he takes it all in good fun.
+- A half-breed of a human and elf, he is half-brother to Flare, but both care not for the distinction. He cares for his family deeply, running to the aid of any of his half-siblings. They both are fathered by an elf named Laack. He is a gentleman that runs a restaurant that doubles as a tavern in uptown Holopolis, hosting people from all walks of life, organizing parties every once in a while. His Knight colleagues make him the butt of jokes often but he takes it all in good fun.
+
 >Home: Polaria
 
 **Enma**
--An aloof swordfighter raised in the hustle and bustle of the capitol city of Polaria. In studying the blade, her journey led her to many places all over Aurorai before getting the call by King Covigo to be an Advisor in The Order. She takes care personally of Ina, Gura and Amelia, and is very protective of them. She will take any length to support them and keep them from harm.
+- An aloof swordfighter raised in the hustle and bustle of the capitol city of Polaria. She can be single-minded, in the sense that she lets her blade do the arguing most times. In most situations, she prefers action rather than words, believing action is far more impactful. In studying the blade, her journey led her to many places all over Aurorai before getting the call by King Covigo to be an Advisor in The Order. She takes care personally of Ina and is very protective of her. She will take any length to support them and keep them from harm.
 >Home: Polaria
 
 **Ina**
--Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
+- Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
+
 >Home: Nero Eterna
 
 #### Chapter 3
 
 **Izuru**
--A tacticurn agent of The Order, he prefers empty, quiet spaces to himself. Born to a dying mother and deadbeat father, Izuru tried to make ends meet at a tender age. His efforts were futile as his beloved mother passed at age 10. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. He owes the King deeply for this.
+- A tacticurn agent of The Order, he prefers empty, quiet spaces to himself. Born to a dying mother and deadbeat father, Izuru tried to make ends meet at a tender age. His efforts were proven futile as his beloved mother passed at age 10. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. He owes the King deeply for this.
 >Home: Polaria
 
 **Miko**
--Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up her wage being a Guardian to move themselves to a better neighborhood.
+- Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up her wage being a Guardian to move themselves to a better neighborhood.
 >Home: Polaria
 
 #### Chapter 4
 
 **Aqua**
--An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
+- An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
 >Home: Polaria
 
 **Shion** 
--A prodigy of the Polarian Magical Academy, her confidence is backed by results. Such results include topping every exam she's subjected to, to the point she gets an aceeleration to even the odds. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place.
+- A prodigy of the Polarian Magical Academy, her confidence is backed by results. Such results include topping every exam she's subjected to, to the point she gets an aceeleration to even the odds. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place.
 >Home: Polaria
 
 #### Chapter 4x
 (Shinove's bio would not be present here despite appearing as playable here.)
 
-**The Aspirant**
+==**The Aspirant**==
 (Aka Avatar)(M/F variants)
--A fan of the Guardians, they have dreamed all their lives of being called to join their ranks. They come from the latest line of a knightly House from Polaria that have lost their lives in defense of the manor in the Negazian onslaught, including them. But they get a second chance from Omega, reviving them to fight again. Now, they carry the honor of their entire knightly House and the burden of avenging his family and all who served their House.
+- A fan of the Guardians, they have dreamed all their lives of being called to join their ranks. They come from the latest line of a knightly House from Polaria that have lost their lives in defense of the manor in the Negazian onslaught, including them. But they get a second chance from Omega, reviving them to fight again. Now, they carry the honor of their entire knightly House and the burden of avenging his family and all who served their House.
+
 >Home: Polaria
 
 **Temma**
--Cheerful and eccentric if not downright dark, he is a Knight of Polaria. He is friendly towards the citizens but can be merciless against those who would threaten them. To talk to more people, he studies the different languages of Aurorai in his spare time. After he and a few others on castle guard duty fled the Negazian onslaught, guilt haunts him; thinking he failed Polaria. On the run, he meets an eccentric pair...
+- Cheerful and eccentric if not downright dark, he is a Knight of Polaria. He is friendly towards the citizens but can be merciless against those who would threaten them. To talk to more people, he studies the different languages of Aurorai in his spare time. After he and a few others on castle guard duty fled the Negazian onslaught, guilt haunts him; thinking he failed Polaria. On the run, he meets an eccentric pair...
+
 >Home: Polaria
 
 **Pekora**
--The shy but devious heir of the Pekoland territory in Savan. Her tenure as a Guardian is a story of personal development, from being as closed as a clam to being more open to her peers, with their help. The disturbance in House Usada after pretenders to Duke Piko's throne spurred on by Negazion made her flee along with her trusted retainer, Moona, to not put her family in any more danger. She puts her ability to wield light magic into wacky and zany uses much to the chagrin of both her pursuers and bystanding citizens alike.
+- The shy but devious heir of the Pekoland territory in Savan. Her tenure as a Guardian is a story of personal development, from being as closed as a clam to being more open to her peers, with their help. The disturbance in House Usada after pretenders to Duke Piko's throne spurred on by Negazion made her flee along with her trusted retainer, Moona, to not put her family in any more danger. She puts her ability to wield light magic into wacky and zany uses much to the chagrin of both her pursuers and bystanding citizens alike.
+
 >Home: Savan
 
 **Moona**
--Atop her pegasus, Moona is an illustration of beauty in the face of battle, her long lilac hair flowing in the wind as she swoops down upon enemies or merely ferrying her liege Pekora around. Becoming her retainer marked a dramatic turn in her personality, becoming more unabashed and open with expressing herself. Unbeknownst to most, within her is a minor moon goddess named Hoshinova, who amplifies her combat abilities, including latent magic only ever seen radiating around her.
+- Atop her pegasus, Moona is an illustration of beauty in the face of battle, her long lilac hair flowing in the wind as she swoops down upon enemies or merely ferrying her liege Pekora around. Becoming her retainer marked a dramatic turn in her personality, becoming more unabashed and open with expressing herself. Unbeknownst to most, within her is a minor moon goddess named Hoshinova, who amplifies her combat abilities, including latent magic only ever seen radiating around her.
+
 >Home: Diarnuit
 
 #### Chapter 5
 
 **Ayame**
--A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she met with Fubuki Shirakami unprompted in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
+- A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she met with Fubuki Shirakami unprompted in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
 
 >Home: Nero Eterna
 

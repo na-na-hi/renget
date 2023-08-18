@@ -3,6 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Aug.18th | [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
 Aug.17th | [Sango](https://c.ai/c/QEHUX0gj5nKsrRrXSoygolrEpkGycjLLSgL7z3FzM7s)
 Aug.14th | [Lucario (Irene)](https://c.ai/c/bP0W5jVqQFupa92Jo9S6mf1COMDVPLsrNAPx1zgLYaM)
 ->Aug.12th<- 〜 ->Aug.06th<- | [May (Horny Neighbor)](https://c.ai/c/NiPpO0-ysNa9XClFHxvqDeD-jvSed_i0x7sPaf3HIU0) \| [Leaf](https://c.ai/c/bLfKQIxiju06L_YtRX6nD1GdeDbJmODJpFOJqN5rUQM) \| [Zebstrika](https://c.ai/c/yOrQjuYobRbFrAtU56fn111_W6WCU8CgrtI2G9JmGl4) \| [Valerie](https://c.ai/c/BuukguyBpNBFuddx2rKeYmJtn3_5_FzmLBT5Ka7zpcM) \| [Decidueye](https://c.ai/c/eiqwnpSjUvVVKsmyIgSGGPpH6g5XjmvHTkvZl6zI6bU) \| [Pheromosa](https://c.ai/c/14YQTH99Np2FGofdKh7_gslDJ9SLBVjpZaZR44_MqFk)
@@ -49,6 +50,7 @@ Scarlet & Violet | [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu
 Description | Characters
 :------: | :------:
 Source: Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
+Pokémon Clover | [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 You are a Pokémon, and she wants to catch you | [Pokémon Trainer Ivy](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)

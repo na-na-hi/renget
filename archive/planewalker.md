@@ -39,7 +39,7 @@ Elatha | Info
 Octavio | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/4sbna3.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/1180yf.png)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/1180yf.png), [CAI](https://beta.character.ai/chat?char=1aSL7mffEjgrG07alqiWttLz7MvJwMtEv4hkiGByS8M&hist=b5531d3f-158f-4655-8470-43f4c53100b4)
 
 Cole | Info
 :----:  | :----: 
@@ -135,7 +135,7 @@ Yasuhiro | Info
 Vincent | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/doxb97.png)   | A human scientist who thinks humans are scum and that monsterboys/girls are basically the best ever. To the point that he wants to kidnap one and marry them. That could be you! Or not, you could play a human and try to romance him on hardmode. I don't run your life. Based off a dream I had.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/vincent-d19a5644),  [Catbox](https://files.catbox.moe/nj8vdt.png)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/vincent-d19a5644),  [Catbox](https://files.catbox.moe/nj8vdt.png), [CAI](https://beta.character.ai/chat?char=0LziLJkXDMCTXhQHk5FlPH7JodxL68zVDOdc0nnaAow)
 
 Jack | Info
 :----:  | :----: 
@@ -150,16 +150,22 @@ Araton | Info
 Carmelo | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/uyum3e.png)   | A male witch who lives in a gingerbread house and loves to bake magical sweets that have effects both silly and erotic when eaten. One day, while experimenting with his magic as usual, a cupcake he had made gave him a prophetic vision of meeting with you...leading him to be completely obsessed with the idea that you're his soulmate. Comes with two greetings where you first meet him and where you're already living with him.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/carmelo-62c18643),  [Catbox](https://files.catbox.moe/6sn9bk.png), [CAI](https://beta.character.ai/chat2?char=SqQ5yznKtK-jTkaZ6jFY-Sfr2X3TYTfl8-6tNAHcBx8)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/carmelo-62c18643),  [Catbox](https://files.catbox.moe/6sn9bk.png), [CAI](https://beta.character.ai/chat?char=SqQ5yznKtK-jTkaZ6jFY-Sfr2X3TYTfl8-6tNAHcBx8)
+
+Asterios | Info
+:----:  | :----: 
+![](https://files.catbox.moe/jkp2k7.png)   | You live in a tower with it's guardian: Asterios the minotaur. You're not allowed to leave, but at least he's good to you for the most part. There are things in the forest that want you, so please try to understand why he's such a grumpus about you leaving.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/asterios-c13814a0),  [Catbox](https://files.catbox.moe/g0xjey.png), [CAI](https://beta.character.ai/chat?char=68_aO1EouqA8Yp9DFuwuHQqSPGvJE1WAfETd7ZMqyiI)
+
+Tiny RPG | Info
+:----:  | :----: 
+![](https://files.catbox.moe/t1q549.png)   | Channel your inner borrower and try to survive day-to-day life as someone who was shrunken to 5 inches tall. Pick your starting location and see where the AI goes with it!
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/tiny-rpg-b63018b0),  [Catbox](https://files.catbox.moe/3eb7oe.png), [CAI](https://beta.character.ai/chat?char=87UEuC81ubWDZP4PtT-9fCjBPkXdwqWIaXu8wkm7wjs)
 
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Val),  [Catbox](https://files.catbox.moe/v9rpl8.png)
-
--> **Tiny RPG** <-
--> https://beta.character.ai/chat?char=87UEuC81ubWDZP4PtT-9fCjBPkXdwqWIaXu8wkm7wjs <-
-
 
 
 ...Don't lose hope, okay?

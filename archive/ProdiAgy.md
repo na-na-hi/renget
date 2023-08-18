@@ -4,7 +4,7 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info Updating CivitAI is next, will be reuploading everything as fixed versions when I have time these following days.
+!!! info Might make some changes to the scheduler and rewrite some instructions then reupload to CivitAI again. Doing some testing.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED SOON)](https://civitai.com/user/ia3forchads/models) <-
 

@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Russian soldiers inspecting trenches and dugouts in the broken hohol positions.
+https://files.catbox.moe/pu8n0p.mp4
 >Tank battle near Rabotino explained
 https://files.catbox.moe/izag63.mp4
 >AFU attack in the South Donetsk direction near the village of Urozhaynoye

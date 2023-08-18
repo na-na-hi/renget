@@ -1,7 +1,7 @@
 #####Current Info
 
 Latest thread: https://boards.4chan.org/trash/thread/58690168
-Latest Aggie: https://aggie.io/7xf5oo9wx1
+Latest Aggie: https://aggie.io/veul_fpsgp
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -105,3 +105,4 @@ https://aggie.io/0_0q_j_7ak /pizzatrash/ aggie NUMA #24 !!
 https://aggie.io/lx8egpmuqs /pizzatrash/ Aggie #25: Supreme Edition
 https://aggie.io/_2jxv4xf3b /pizzatrash/ Aggie #26: Margherita Edition
 https://aggie.io/7xf5oo9wx1 /pizzatrash/ Aggie #27 - Boo! White canvas time.
+https://aggie.io/veul_fpsgp /pizzatrash/ Aggie #28: Neapolitan Edition

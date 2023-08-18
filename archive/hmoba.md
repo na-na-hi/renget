@@ -1,5 +1,5 @@
 # /hmoba/ Masterbin
-->Updated - 30 Jul 2023 20:06 UTC<-
+->Updated - 18 Aug 2023 13:29 UTC<-
 ***
 !!! note Golden Rule: 
 	Remember to keep stories on topic – If it does not center around a masculine male human top with a femboy anthro bottom, it does not belong here!
@@ -45,12 +45,15 @@ https://rentry.org/MilitaryHare1
 https://rentry.org/Dak07A
 	==Secretary for a Day==
 https://archiveofourown.org/works/15763029
-	==Anon the Jade Hunter== (NEW!)
+	==Anon the Jade Hunter==
 https://rentry.org/welldressed
 	==Bully Bois==
 https://rentry.org/bullybois
 	==Hips of the Law==
 https://rentry.org/hipsofthelaw
+    ==Narcissistic Possessive==
+https://rentry.org/narcissisticpossessive
+
 2. ######Auren
 ==Starstruck==
 https://archiveofourown.org/works/46748620
@@ -81,7 +84,7 @@ https://archiveofourown.org/works/45287857
 4 https://vocaroo.com/13uJPDPEbHGY
 EX https://vocaroo.com/1gfkFta8u11j
 9. ######spicyhazard
-	==Just Bros Being Bros== (NEW!)
+	==Just Bros Being Bros==
 https://archiveofourown.org/works/46667341 
 9. ######WritefriendSnippet
 	==Bunboy Ashley==

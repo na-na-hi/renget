@@ -1,17 +1,15 @@
-!!!danger **UNDERGOING HUGE MAITNANCE - WILL LOOK BETTER THAN EVER SOON**![]()***!***
-!!!warning
 ***
-->![](https://cdn.discordapp.com/attachments/1073946521038504019/1125514743692656752/Untitled405_20230703155333.png)<-
-->[![](https://cdn.discordapp.com/attachments/1073946521038504019/1125511018404122675/Untitled404_20230703153842.png)](urlcollection)
-![](https://cdn.discordapp.com/attachments/1073946521038504019/1125523753963626637/Untitled406_20230703162924.png)
-![](https://cdn.discordapp.com/attachments/1073946521038504019/1125513555484086453/ezgif-1-af5f90bc43.gif) **[**`MY`**](SAPPHlRES) BEEEE-AUTIFUL URLS***!!***** ![](https://pixelbank.neocities.org/decome/voca/f1370934.gif)
-![](https://pixels.crd.co/assets/images/gallery52/93a2231a.png?v=b73bf4ea) i'm completely open to trading*!* ![](https://pixels.crd.co/assets/images/gallery02/ff4dfac3.gif?v=b73bf4ea)<-
-``` python
-☆ italics = iffy on trading × bold = favorite url × italibold = nft × linked = using/decorated ☆
-```
-==⇉ ꒲==[==***`wishlist`***==](-wishlist) ![](https://cdn.discordapp.com/attachments/1073946521038504019/1125530880849485876/ezgif-5-d54fd59a65.gif)
-->![](https://cdn.discordapp.com/attachments/1073946521038504019/1125523753963626637/Untitled406_20230703162924.png)
-[![](https://cdn.discordapp.com/attachments/1073946521038504019/1125524739750903938/Untitled407_20230703163316.png)](urls1)[![](https://cdn.discordapp.com/attachments/1073946521038504019/1125525307718385684/Untitled407_20230703163437.png)](urls2)[![](https://cdn.discordapp.com/attachments/1073946521038504019/1125525313124839544/Untitled407_20230703163457.png)](urls3)[![](https://cdn.discordapp.com/attachments/1073946521038504019/1125525329876893736/Untitled407_20230703163536.png)](urls4)
-![](https://cdn.discordapp.com/attachments/1073946521038504019/1125514751552782397/Untitled405_20230703155336.png)<-
+->![](https://cdn.discordapp.com/attachments/1073946521038504019/1141672924298887178/Untitled638_20230817060021.png)<-
+->![](https://cdn.discordapp.com/attachments/1073946521038504019/1141674999808262155/Untitled640_20230817060839.png) ![](https://cdn.discordapp.com/attachments/1073946521038504019/1141671300528615515/ezgif-5-560b52325c.gif) ![](https://cdn.discordapp.com/attachments/1073946521038504019/1141675219753390141/Untitled640_20230817060845.png)<-
+->![](https://cdn.discordapp.com/attachments/1073946521038504019/1141760763388760085/Untitled648_20230817114830.png)<-
+->**┌───────────────┐**
+![](https://cdn.discordapp.com/attachments/1073946521038504019/1141683417663160410/Untitled646_20230817064211.png)
+-
+**♱**ー꒰ ⁝  [![](https://cdn.discordapp.com/attachments/1073946521038504019/1141676226289881128/Untitled641_20230817061338.png)](wwords) ⁝ ꒱ー**♱**
+**♱**ー꒰ ⁝  [![](https://cdn.discordapp.com/attachments/1073946521038504019/1141694822353219634/Untitled641_20230817072732.png)](mmedia) ⁝ ꒱ー**♱**
+**♱**ー꒰ ⁝  [![](https://cdn.discordapp.com/attachments/1073946521038504019/1141756625074540615/Untitled641_20230817113259.png)](eext) ⁝ ꒱ー**♱**
+**└───────────────┘**<-
+->𝐂ontact the angelic being 
+~~[here](SAPPHlRES)~~ to trade。![](https://supplies.ju.mp/assets/images/tiny1/24796272_original.gif?v=8cd1d9b0)<-
+->![](https://cdn.discordapp.com/attachments/1073946521038504019/1141672935317323816/Untitled638_20230817060029.png)<-
 ***
-!!!warning

@@ -8,13 +8,13 @@ Blocking API URL: ```N/A```
 
 **System prompt:**
 ```
-### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}.
+### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
 ```
-Note: You might have to modify it for group chats. simply remove all mentions of {{user}}.
 
 **Sequences:**
 Input Sequence: `### Input:`
-Output Sequence: `### Response (engaging, natural, authentic, descriptive, creative, one to four paragraphs long):`
+Output Sequence: `### Response:`
+Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
 
 **Recommended parameters for this model:**
@@ -22,9 +22,10 @@ Stop Sequence: `</s>`
 Streaming: Off
 Unlock context size (in ST)
 Context: 8192
-New Tokens: 350 - optimal for 13b llamas
+New Tokens: 350 - optimal for 13b llamas, use "Continue" button if the reply gets cut off
 Temperature: 0.7 - 1
 Rep. pen: 1.10
+Rep. pen range: 2048
 Top_k: 30
 Top_p: 0.9
 Mirostat: 2.0
@@ -38,7 +39,7 @@ Mirostat Eta: 0.4
  ![T](https://files.catbox.moe/sl6hbc.png)
 
 ##### 2. Advanced menu:
- ![T](https://files.catbox.moe/aewcez.png)
+ ![T](https://files.catbox.moe/0vnd5m.png)
 
 
 ##### Are my prompts logged?
@@ -62,7 +63,8 @@ koboldApiUrl: "https://winston-interior-exit-command.trycloudflare.com",
 
 ##### How to host your own proxy
 Because I won't keep hosting forever. This is experimental and will stop any day.
-https://rentry.org/hostfreellamas
+On your own machine: https://rentry.org/hostfreellamas
+On Google Colab for free: https://rentry.org/colabfreellamas
 
 ##### Contact
 Sacrifice your village's virgin to me at sandwich4093@proton.me

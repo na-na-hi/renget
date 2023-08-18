@@ -23,6 +23,7 @@ https://rentry.org/ayymd-stable-diffustion-v1_4-guide
 https://rentry.org/sd-amd-gfx803-gentoo
 ###Intel GPU
 https://blog.nuullll.com/ipex-sd-docker-for-arc-gpu/#/getting-started
+https://github.com/openvinotoolkit/stable-diffusion-webui/tree/master
 https://www.intel.com/content/www/us/en/developer/articles/technical/running-tensorflow-stable-diffusion-on-intel-arc.html
 https://medium.com/intel-analytics-software/stable-diffusion-with-intel-arc-gpus-f2986bba8365
 ###CPU

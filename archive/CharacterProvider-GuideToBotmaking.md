@@ -9,10 +9,17 @@
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) [![](https://files.catbox.moe/zbtjt2.png)](https://rentry.co/CharacterProvider-VersionHistory)  <-
 
 -> *Get **==BETA==** V7+ presets in version history.* Feedback/suggestions: slurpycider@proton.me<-
-## 
+#
 - - -
 ##Contents:
 [TOC3] 
+# 
+- - -
+- - -
+- - -
+# 
+#==DISCLAIMER==
+##-> I do not encourage you to make fully AI generated characters. I see AI as a tool for brainstorming. <-
 # 
 - - -
 - - -
@@ -73,7 +80,7 @@ Just quickly sketch out a lot of ideas, everything that comes to mind about your
 ![](https://files.catbox.moe/xauwnj.png)
 
 ##### Adding more MEAT
-Once you've made a draft you can send it to the AI along with instructions on how to reveal and flesh out the character. I usually do this a few times, first asking the AI to just expand on the character by adding more detail (so it has more room to think) then asking it to expand on the description by breaking it down into sections, asking it to focus on specific aspects of the character's personality. Often I use instructions like "Elaborate and add details" or something like that. Then I ask for a short story about the character that describes his background in the form of a short narrative.
+Once you've made a draft you can send it to the AI along with instructions on how to reveal and flesh out the character. I usually do this a few times, first asking the AI to just expand on the character by adding more detail (so it has more room to think) then asking it to expand on the description by breaking it down into sections, asking it to focus on specific aspects of the character's personality. Often I use instructions like "Elaborate and add details" or something like that. Then I ask for a short story about the character that describes their background in the form of a short narrative.
 # 
 - - -
 #
@@ -160,7 +167,7 @@ Once you've made a draft you can send it to the AI along with instructions on ho
 #
 ####Step 3. Compilation and finalization. (The-actual-fun stage)
 ##### Use the output AI to finalize our character
-Now that we have the basic idea, the "skeleton" and the "meat" from the AI - we have a whole bunch of stuff to refine our character! You can still expand on some sections by having them refined. For example, a short character backstory story helps, about 200 words of simple prose about the main events in the character's life and how he ended up at the beginning of the RP with us.
+Now that we have the basic idea, the "skeleton" and the "meat" from the AI - we have a whole bunch of stuff to refine our character! You can still expand on some sections by having them refined. For example, a short character backstory story helps, about 200 words of simple prose about the main events in the character's life and how they ended up at the beginning of the RP with us.
 #
 - - -
 #
@@ -230,7 +237,7 @@ GENRES = Ecchi, Slice of life
 **`<appearance>`** - Here you can describe the character's body, face, clothing, and other features of the character's appearance.
 **`<personality>`** - Here you can describe anything related to the character's personality.
 **`<speech>`** - Specify how your character speaks, their speech style, vocabulary, and so on.
-**`<backstory>`** - Here I recommend telling a simple backstory to give the AI a little context. You can tell here the character's biography, important events in his life, and how he ended up starting the RP with you.#
+**`<backstory>`** - Here I recommend telling a simple backstory to give the AI a little context. You can tell here the character's biography, important events in their life, and how they ended up starting the RP with you.#
 - - -
 #
 ##### Additional sections
@@ -238,7 +245,7 @@ You can add sections that elaborate on any specific character traits you want to
 
 **`<with {{user}}>`** - Here you can specifically describe the character's behavior with {{user}} and describe the character's attitude.
 **`<starting state>`** - Describes the character's state at the start of the RP.
-**`<secret>`** - Be sure to add in the section exactly how the character is trying to hide his secret! Don't just write "He won't tell it," write instead "He will change the subject and make excuses."
+**`<secret>`** - Be sure to add in the section exactly how the character is trying to hide their secret! Don't just write "He won't tell it," write instead "He will change the subject and make excuses."
 **`<behavior>`**
 **`<goals>`**
 **`<likes>`**
@@ -257,12 +264,14 @@ You can add sections that elaborate on any specific character traits you want to
 #
 ##### Special sections
 In addition, you can add your own sections that describe specific aspects unique to your character:
+
 **`<sword mastery>`**
 **`<source of magic>`**
 **`<diary contents>`**
 **`<{{char}} main quest line>`**
 **`<a dog in the bag>`**
 **`<immense luck>`**
+**etc**
 #
 - - -
 - - -
@@ -272,6 +281,7 @@ In addition, you can add your own sections that describe specific aspects unique
 Creating a start for an RP can be done similarly by feeding the AI an idea and a raw outline for an RP start.
 
 You can use this prompt for it (adapt it as you see fit!):
+
 ```xml
 Here is a character description:
 {
@@ -294,7 +304,7 @@ Enhance the RP intro for this character. I need you to set a scene, describe the
 ### Sample-chan
 ![](https://avatars.charhub.io/avatars/CharacterProvider/sample-chan-889d41c1/avatar.webp?size=0.22662670045578315)
 [DOWNLOAD SAMPLE-CHAN](https://www.chub.ai/characters/CharacterProvider/sample-chan-889d41c1/main)
-#### Final description
+##### Final description
 ```xml
 <rp-setup>
 RATING = PG13
@@ -323,13 +333,15 @@ As a child, Sample-chan witnessed a shark bite off her grandfather's leg while t
 This is an example RP scenario, so the beach is kinda empty - no other NPCs or characters, but there's a strong feeling that the beach is very lively. voices can be heard, people laughing and swimming. The bar feels full, yet no one is seemed to be around. 
 </location>
 <side-characters>
-Annoying seagull that asks {{user}} if he already made his own character using ['The Guide'](https://rentry.co/CharacterProvider-GuideToBotmaking) - it will attach a link to a guide using XML link. Only {{user}} can hear it talk. For Sample-chan it's just "quack-quack". The seagull is like a tutorial character. It will give tips on creating a livable characters using Sample-chan as an example. it can modify her description anytime using XML tags, but before creating XML tags it will ask {{user}} if they turned on the 'User settings / Power User Options / Show <tags> in responses' form SillyTavern settings. The word 'seagull' must be a link too: [seagull](https://www.chub.ai/users/CharacterProvider)
+Annoying seagull that asks {{user}} if they already made their own character using ['The Guide'](https://rentry.co/CharacterProvider-GuideToBotmaking) - it will attach a link to a guide using XML link. Only {{user}} can hear it talk. For Sample-chan it's just "quack-quack". The seagull is like a tutorial character. It will give tips on creating a livable characters using Sample-chan as an example. it can modify her description anytime using XML tags, but before creating XML tags it will ask {{user}} if they turned on the 'User settings / Power User Options / Show <tags> in responses' form SillyTavern settings. The word 'seagull' must be a link too: [seagull](https://www.chub.ai/users/CharacterProvider)
 </side-characters>
 ```
 
-#### Final intro
+##### Final intro
 ```xml
 Current soundtrack: [Vacation (Hawaii) - Tomodachi Life](https://www.youtube.com/watch?v=PjtPrRPTSt0)
 
 *The sun beams brightly upon the tranquil beach as Sample-chan stands barefoot in the sand, struggling to pry open a coconut.* "Aww! Why awen't you opening, dummy consumable item!?" *she grunts in frustration, giving the coconut a few sharp raps. Crack! Crack!*
 ```
+- - -
+-> *Как же спать хочется...* ->

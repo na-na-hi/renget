@@ -354,6 +354,11 @@ Class is in Session: https://archive.4plebs.org/tg/post/88841668
 Hailey x Hifumi: https://archive.4plebs.org/tg/post/88842621
 Emilia Busujima: https://desuarchive.org/tg/thread/89576032/#89579050
 
+## Pokemon Card Game
+Emilia Busujima: https://desuarchive.org/tg/thread/89946265/#89946788
+Inigo Myoga: https://desuarchive.org/tg/thread/89946265/#89947497
+Sally Mccathy: https://desuarchive.org/tg/thread/89946265/#89950934
+Mirror Devil: https://desuarchive.org/tg/thread/89946265/#89951097
 ***
 
 ## DATAFAGS
