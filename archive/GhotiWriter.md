@@ -10,13 +10,16 @@
 Last update 2022-10-31
 
 ###In Progress
-####Anon's Stalker
+####Anon's Stalker 
+(terminal hiatus until i firgure out where im going with this. please provide suggestions in the general)
 [Chapter 1](https://rentry.org/569nv)
 [Chapter 2](https://rentry.org/y92bh)
 [Chapter 3](https://rentry.org/9zf7i)
 [Chapter 4](https://rentry.org/vifg8)
 Last update 2023-03-15
 
+###Shorts
+[cop anon](https://rentry.org/ckuyt)
 
 ###Scraps and Outlines
 #####Fools Errand outlines

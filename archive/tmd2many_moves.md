@@ -248,7 +248,7 @@ Heat Crash | - | 7 AP | ≥2 | Fire | Physical | Uses the User's HP Stat in dama
 Heavy Slam | - | 7 AP | ≥2 | Steel | Physical | Uses the User's HP Stat in damage calculation. 0; 2 BP. 1-2; 4 BP. 3-4; 6 BP. 5-6; 8 BP. 7-8; 10 BP. 9-10; 12 BP.
 Hex | 6 BP | 7 AP | ≥2 | Ghost | Special | If the Opponent has Major Status Condition, BP is increased by 6.
 Hidden Power | 6 BP | 6 AP | ≥2 | Normal | Special | Unown; Move is Super-Effective. Other; Type dependent on User.
-High Horsepower | 10 BP | 7 AP | ≥2 | Ground | Physical | No secondary effect.
+High Horsepower | 9 BP | 7 AP | ≥2 | Ground | Physical | No secondary effect.
 High Jump Kick | 13 BP | 7 AP | ≥3 | Fighting | Physical | If the Move misses, the User loses half of their Max HP.
 Hold Back | 4 BP | 4 AP | ≥2 | Normal | Physical | The Move is unable to KO the Opponent.
 Horn Attack | 7 BP | 5 AP | ≥2 | Normal | Physical | No secondary effect.

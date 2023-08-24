@@ -15,6 +15,7 @@ https://rentry.org/hostfreellamas
 
 https://rentry.org/colabfreellamas
 - guide on how to set up a local model either for yourself or for others - `free` on colab (paid available but overpriced: vast\.ai, paperspace or runpod suggested instead)
+(~~see https://desuarchive.org/g/thread/95578945#95579604 for the updated colab script until anon updates the rentry~~ updated)
 
 https://vast.ai/docs/guides/oobabooga
 - guide on how to set up a local model either for yourself or for others - `paid` (anon was shilling this, no idea how much it costs)

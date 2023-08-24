@@ -49,7 +49,7 @@ https://rentry.org/joint_operation_center0
 Nerissa's Sounds
 https://rentry.org/c793m
 Schedule
-https://twitter.com/nerissa_en/status/1690750320773644288
+https://twitter.com/nerissa_en/status/1693795548502093832
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OP

@@ -23,10 +23,15 @@ Rank: Newbie.
 >holy fucking shit 
 
 >>By (DELETED USER)
->> lmao was it this one? 
+>> lmao was it this one? Found the link on TinyLovers
 >>[MediaIce](https://rentry.org/uv6o9s)
 >>Password is BigFatMilkers123 btw
 >dude what the fuck is wrong with you why aren't the admins banning your ass
+
+>>>By (DELETED USER)
+>>>[MediaIce](https://rentry.org/uv6o9s)
+>>By RipperRapper
+>>You are a GOD! Thanks a bunch.
 
 ->Page 3<-
 

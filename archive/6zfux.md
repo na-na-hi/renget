@@ -1,3 +1,8 @@
+#24.08.2023 Ninjamuffin Mini-AMA summary#
+
+>Since the last time PA has been on /funkg/, progress on the update has been significant for the past few weeks.
+>Cassette Girl will be removed from the game in light of the allegations.
+
 #27.04.2023 Ninjamuffin & Phantom Arcade AMA summary#
 **Ninja:**
 >The FAG is planned to be DRM free and the source code will (ideally) come with all the art assets and such.

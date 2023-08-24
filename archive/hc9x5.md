@@ -24,9 +24,11 @@ Rank: Newbie.
 >The next day I went again, and the same thing happened.
 >I told her I wanted to stop, but she beat me, and she hit hard. She told me that she saw me spying on her one time and that she would get me thrown in jail if I didn't do as she said.
 
+>She forced me to touch her, to eat her out, to strip, to wear my friend's clothes and to take pictures with her
+
 >And now I found a video she made of her raping me online.
 
->I'm super fucking fragile right now, someone please tell me what I can do.
+>I'm feeling super fucking fragile right now, someone please tell me what I can do.
 
 ->Page 1 <-
 

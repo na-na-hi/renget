@@ -6,6 +6,7 @@
 Post logs if you can. They may give me inspiration for new bots. If you want to send me logs like that guy who sent me 20+ pages of mongirl clinic logs: thisisatest333@proton.me
 
 # New
+Stop reading this rentry and listen to Ginger Root: https://www.youtube.com/watch?v=hMCAF8tZ7ZE
 I don't think anyone reads this rentry anymore, but I'm going to list the bots I made after May? I'm lazy, so I'm stealing the description from my past shills. Not gonna include any pictures because I'm lazy. I stopped updating when I read that imgur was going to remove inactive links.
 
 Other private bots but I'm not sharing:

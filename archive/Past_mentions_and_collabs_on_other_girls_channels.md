@@ -64,6 +64,7 @@
 |---|---|---|
 |02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interactions** - Nerissa & Bijou (joined by the Fuwamoco Twins later) popping-in in Shiori's VC and the stream becomes a fullgen Zatsu collab.|
 |10/08/2023|[Timestamp](https://youtu.be/PxyS3lRyktA?t=1809)|**Mention after a raid** - Greetings after a raid done by Nerissa following her Story of Seasons stream.|
+|23/08/2023|[Timestamp #1](https://youtu.be/XOBVamb8svQ?t=4769) [Timestamp #2](https://youtu.be/XOBVamb8svQ?t=5851) [Timestamp #3](https://youtu.be/XOBVamb8svQ?t=6227)|**Streamer-chat interactions** during Shiori's Amanda the Adventurer stream. Nerissa counted for a certain percentage of the votes for the decisions in these timestamps.|
 
 ###### 🗿 Bijou
 |Date|Link|Nature & Notes|
@@ -72,7 +73,8 @@
 |08/08/2023|[Timestamp #1](https://youtu.be/67hH4EGaH8A?t=1915) [Timestamp #2](https://youtu.be/67hH4EGaH8A?t=4294) [Timestamp #3](https://youtu.be/67hH4EGaH8A?t=4853)|**Mentions** - A few mentions during a Marika stream. Apparently Nerissa is a MLP girl (heh) and is younger than Bijou.|
 |10/08/2023|[Timestamp #1](https://youtu.be/ixMyHJmLHLI?t=7445) [Timestamp #2](https://youtu.be/4cu0466F_B0?t=2512)|**Streamer-chat interactions** - Greetings & mention of the 400k subscribers plus the God-Ish / 神っぽいな cover.|
 |19/08/2023|[Timestamp](https://youtu.be/ze4SGtNX_9s?t=2703) |**Mentions** - Mention by Bijou about Nerissa's cluelessness about 'helpers and the case of "Nerissa's XXL Milkers".|
-|26/08/2023|[Linkl](-) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
+|23/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=G4sq5b7zmtE&t=21826s) [Timestamp #2](https://youtu.be/G4sq5b7zmtE?t=23337)|**Streamer-chat interactions** during Bijou's Elder Ring #4 stream. Nerissa was watching in order to give Bijou's instructions regarding work.|
+|26/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
 
 
 ###### 🐾 FUWAMOCO
@@ -82,7 +84,7 @@
 |14/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |15/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
-|27/08/2023|[Linkl](-) |**Watchalong** - Watchalong of Splash Party! Night! with Advent".|
+|27/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Night! with Advent".|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|
