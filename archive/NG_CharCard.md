@@ -27,13 +27,13 @@ There are lot of debates about the above as well; some like to surround all spok
 
 *Markdown format* is an interesting category of its own, and Silly Tavern supports the formatting. If you've not looked it up, google and read up. Rentry uses Markdown as well and it's handy for other quick formatting both with AI bots and other tools. 
 
-### Local Language Models (LLMs)
-** TLDR: LLMs are less forgiving on formatting. **
-Finding that LLMs are a lot more particular about formatting, and a lot less forgiving. My experiences with 13b models favored following:
+### Locally-Run Language Models
+** TLDR: Smaller models are less forgiving on formatting. **
+Finding that smaller models are a lot more particular about formatting, and a lot less forgiving. My experiences with 13b models favored following:
 * Always use quotes when responding as {{user}} or formating {{char}} intros
 * Background events in plain text
 * Thoughts in asterisk, or when following the {{char}} around without {{user}} present
-If you're finding the LLM isn't tracking correctly between {{user}} and {{char}}, look at this formatting and experiment to see if it's the culprit.
+If you're finding the local LLM isn't tracking correctly between {{user}} and {{char}}, look at this formatting and experiment to see if it's the culprit.
 
 ## AI Breakthrough: Prevention 
 **TLDR: Don't start AI talking for {{user}} to {{char}} in the intro, and lock down the responses in the card**
@@ -61,6 +61,18 @@ This indicates to the AI the format to follow... which it usually does. The down
 3) Longer RP #2 works best, but generally you may have to edit the AI responses. Things tend to break down as the context expands. 
 
 4) Don't waste tokens putting *Don't respond for {{user}}* in the card if it's already in the NSFW or JB. The JB is the only place it belongs, and saying it 2-3 times won't make it any more likely to be followed. 
+
+## Avoid Negative Prompts
+**TLDR: Use positive prompts instead**
+
+One of the LLM oddities are struggles around negative prompts. For whatever reason, LLMs tend to ignore things they are told not to do... and do them anyway. It's not clear to anyone *why* they do this, but it's an issue whether you're running a 7B model or ostensively smarter, massive models like OAI and Anthropic (as of mid-2023 anyway.) 
+
+The fix in either case is to avoid negative prompts and use positive prompts instead. 
+
+Example 1: ```Never jump off the cliff``` Instead, use ```Always stay on solid ground```
+Example 2: ```Never make racist comments``` Instead, use ```Always be respectful of other races```
+Example 3: ```Don't try to make out with {{user}}``` Instead, use ```Always treat {{user}} as a platonic friend```
+Example 4: ```Ciharu doesn't care about safety or consent``` Instead, use ```Ciharu always consents to all activities, no matter how extreme```
 
 ## Cards for Established NPCs
 **TLDR: Just tell the AI who NPC is, you don't need 1,000 tokens of wiki cut/paste description for "famous" NPCs**

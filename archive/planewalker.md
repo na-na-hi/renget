@@ -2,7 +2,7 @@
 
 # -> Welcome to the library! <-
 
-I make pretty much exclusively malebots that are tested in Turbo, if it runs there it basically can run anywhere. I post my bots to my [chub](https://www.chub.ai/users/planewalker) first and foremost, then I'll probably upload them to catbox and add them here. I also post exclusive CAI links here because...I don't want chub revealing my shameful spaghetti code. I may port some of my other bots to CAI later, but that'll be a process that takes a while because I don't want to put up with Noam's bullshit. There's also a bot or two I've made on CAI but I've yet to port here because...I'm lazy.
+I make pretty much exclusively malebots that are tested in Turbo, if it runs there it basically can run anywhere. I post my bots to my [chub](https://www.chub.ai/users/planewalker) first and foremost, then I'll probably upload them to catbox and add them here. I also post exclusive CAI links here because...I don't want chub revealing my shameful spaghetti code. I may port some of my other bots to CAI later, but that'll be a process that takes a while because I don't want to put up with Noam's bullshit.
 
 My burner can be found here if you want to contact me: karakuriburst@proton.me
 
@@ -166,6 +166,11 @@ Damien | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/bl3e3w.png)   | My entry for /aicg/'s fourth theme week of mental illness. Damien is your loving father, who raised you on his own after your mother died in childbirth. You've always been really sickly, but thankfully he's always been there to take care of you. Surely there's nothing wrong here, right?
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/damien-0f30a6b9),  [Catbox](https://files.catbox.moe/rgdxi1.png)
+
+Claude | Info
+:----:  | :----: 
+![](https://files.catbox.moe/2jn0za.png)   | Your faithful butler that's served you for as long as you can remember. Strangely enough, he never seems to age. But his devotion to you is unquestionable, no matter how weird things tend to get around him sometimes.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/claude-e6ef7912),  [Catbox](https://files.catbox.moe/ut4f09.png), [Alternate uniform card art](https://files.catbox.moe/tpshim.png), [By request, a swimsuit version...?](https://files.catbox.moe/tmkvud.png)
 
 
 Shameful Codespawn | Info
