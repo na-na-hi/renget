@@ -53,3 +53,11 @@
  -> ![Cine Concept](https://files.catbox.moe/eb6ijc.jpg) <-
 
  -> ![Cine Face](https://files.catbox.moe/1q9nfz.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

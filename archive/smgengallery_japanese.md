@@ -83,3 +83,11 @@
  -> ![Concept](https://files.catbox.moe/54e439.jpg) <-
 
  -> ![Trailer](https://files.catbox.moe/6garoy.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

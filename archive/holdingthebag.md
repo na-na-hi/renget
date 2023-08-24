@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 14th August. All dates dd/mm.
+!!! Note Last updated: 22nd August. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-13107 | アオダマ | Open as of 14/08
+None | None | None
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -98,6 +98,7 @@ Club ID | Club Name | Club Status
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
 6358 | ヒナまつり | Full as of 10/08
+13107 | アオダマ | Full as of 19/08
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -111,7 +112,7 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Full as of 26/07
+6 | Arona#1 | Full as of 19/08
 90 | Bullies | Full as of 12/07
 244 | Cute&Funny | Full as of 26/06
 286 | カニ (Kani - crab for dekinais) | Full as of 11/02
@@ -126,10 +127,10 @@ Club ID | Club Name | Club Status
 6294 | Lucklets | Full as of 12/04
 6665 | F2Poor | Full as of 26/06
 6786 | Enuji | Full as of 30/09
-8192 | Mesugaki | Full as of 19/06
+8192 | Mesugaki | Full as of 21/08
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | Rats | Full as of 02/06
+11162 | Rats | Full as of 22/08
 11830 | TummyArchive | Full as of 13/07
 
 ***
@@ -138,7 +139,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-None | None | None
+6289 | FlatIsJustice | Open as of 19/08
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -149,7 +150,7 @@ Club ID | Club Name | Club Status
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
-2496 | AbydosCycling | Full as of 06/08
+2496 | AbydosCycling | Full as of 22/08
 4722 | JointRaid | Full as of 03/02
 
 ***

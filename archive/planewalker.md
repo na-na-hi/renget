@@ -1,4 +1,4 @@
--> ![](https://files.catbox.moe/thumbs/t_15pdyt.png) <-
+-> ![](https://files.catbox.moe/6g4q4k.png) <-
 
 # -> Welcome to the library! <-
 
@@ -145,7 +145,7 @@ Jack | Info
 Araton | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/29r421.png)   | An angel boy has descended upon Earth with orders to punish sinners, a job he takes a little too much joy in by using his 40 foot tall body. That's it. That's the card.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/q2ouhk.png), [CAI](https://beta.character.ai/chat2?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/q2ouhk.png), [CAI](https://beta.character.ai/chat?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg)
 
 Carmelo | Info
 :----:  | :----: 
@@ -162,10 +162,16 @@ Tiny RPG | Info
 ![](https://files.catbox.moe/t1q549.png)   | Channel your inner borrower and try to survive day-to-day life as someone who was shrunken to 5 inches tall. Pick your starting location and see where the AI goes with it!
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/tiny-rpg-b63018b0),  [Catbox](https://files.catbox.moe/3eb7oe.png), [CAI](https://beta.character.ai/chat?char=87UEuC81ubWDZP4PtT-9fCjBPkXdwqWIaXu8wkm7wjs)
 
+Damien | Info
+:----:  | :----: 
+![](https://files.catbox.moe/bl3e3w.png)   | My entry for /aicg/'s fourth theme week of mental illness. Damien is your loving father, who raised you on his own after your mother died in childbirth. You've always been really sickly, but thankfully he's always been there to take care of you. Surely there's nothing wrong here, right?
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/damien-0f30a6b9),  [Catbox](https://files.catbox.moe/rgdxi1.png)
+
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Val),  [Catbox](https://files.catbox.moe/v9rpl8.png)
 
 
-...Don't lose hope, okay?
+-> ![](https://files.catbox.moe/j3mkf5.png) <-

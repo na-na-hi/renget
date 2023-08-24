@@ -22,6 +22,21 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/l9tv3f.png) | Butler Cyran | When you were brought to Escados your loyal butler Cyran insisted on coming along. He is secretly in love with you and can't bear to lose you to a forced marriage. NTR elements. NOTE: He addresses you as "Milady" in the first message but is otherwise gender-neutral. Change it to "Milord" if you wanna RP as male. | [Catbox link](https://files.catbox.moe/l9tv3f.png)
  ![](https://files.catbox.moe/24vb5s.png) | Father Colair | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](https://files.catbox.moe/24vb5s.png)
 
+###Milky Majo Universe
+You're a magical girl fighting against demons
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/wrl105.png) | Merlot | You're a magical girl, and Merlot is your demonic arch nemesis. But there's an undeniable sexual tension between you... | [Catbox link](https://files.catbox.moe/wg6tts.png)
+ ![](https://files.catbox.moe/pz91vx.png) | Fumin | The new exchange student in your class may be a little more foreign than he seems at first glance... | [Catbox link](https://files.catbox.moe/s3x5w1.png)
+ ![](https://files.catbox.moe/0bo4a8.png) | Tomogawa Kia | Your best friend doesn't like Fumin. But more importantly she's under attack by tentacle monsters. | [Catbox link](https://files.catbox.moe/0bo4a8.png)  [NSFW link](https://files.catbox.moe/fj7atr.png)
+ ![](https://files.catbox.moe/t4u17m.png) | Moreto | Short demon with a Napoleon complex.  | [Catbox link](https://files.catbox.moe/t4u17m.png)
+
+###Divided Skies Universe
+Cards for the /aicg/ worldbuilding project "Divided Skies". More to come. 
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/4xyhcs.png) | Shula | A so-called Loreweaver in training. Hailing from the Arabian-inspired lands of Nadira, Loreweavers have the power to bring stories to life with their magic. However, there are some stories that are deemed too dangerous to be told. And Shula got her hands on one such story... | [Catbox link](https://files.catbox.moe/4xyhcs.png)
+
 ###Standalone male bots
 Each has his own story and personality
 Image| Name | Description | Link
@@ -36,7 +51,6 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/5jlpni.png) | Luca | A depressed half-incubus who's struggling with inadvertently seducing everyone around him. Help him form real connections with people. | [Catbox link](https://files.catbox.moe/5jlpni.png)
  ![](https://files.catbox.moe/xvzin5.png) | Haruto | Shy twin who has a crush on you. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/xvzin5.png)
  ![](https://files.catbox.moe/a61fk9.png) | Kanta | Mischievous twin brother of Haruto. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/a61fk9.png)
- ![](https://files.catbox.moe/epcjkp.png) | Merlot | You're a magical girl, and Merlot is your demonic arch nemesis. But there's an undeniable sexual tension between you... | [Catbox link](https://files.catbox.moe/epcjkp.png)
  ![](https://files.catbox.moe/js6nhs.png) | Domino | Lazy cat boy roommate. Solo version of the "Domino and Filou" bot, made by request. | [Catbox link](https://files.catbox.moe/js6nhs.png)
  ![](https://files.catbox.moe/4nzt3n.png) | Filou | Cute sheepboy rommate. Solo version of the "Domino and Filou" bot, made by request. Optional expressions pack [here](https://files.catbox.moe/wovwhg.7z). | [Catbox link](https://files.catbox.moe/4nzt3n.png)
  ![](https://files.catbox.moe/lqlhvq.png) | Rowan Graham | Homeless feral wolf-man trying to survive in the city. I didn't give him much of a personality, so he can be either kind and caring, or savage and brutal. | [Catbox link](https://files.catbox.moe/lqlhvq.png)
@@ -57,6 +71,12 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/u1ogky.png) | Domino and Filou | A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. Female POV | [Catbox link](https://files.catbox.moe/u1ogky.png)
  ![](https://files.catbox.moe/vwtfif.png) | Haruto and Kanta | You're friends with a pair of twin brothers, shy Haruto and mischievous Kanta. Haruto has a secret crush on you, and Kanta thinks the best way to break the ice is by having a threesome. | [Catbox link](https://files.catbox.moe/vwtfif.png)
+
+###Unfinished
+Didn't turn out as I wanted it and I've given up on it. But maybe you wanna try it out anyway. Dead dove, don't eat.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/g876xm.png) | The Sexcape Room | Heavily inspired by [The Room Where You Have to Cum Inside](https://www.chub.ai/characters/turnip/the-room-where-you-have-to-cum-inside) but with the genders flipped. Play as a woman locked in a room with three guys who have to creampie you before any of you get to leave. Female POV | [Catbox link](https://files.catbox.moe/g876xm.png)
 
 ***
 ##Contact

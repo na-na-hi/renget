@@ -385,7 +385,15 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 
 ##Reborn Multi-LP
 !!! info Status: Ongoing
-    It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression.
+    It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
-https://arch.b4k.co/vp/thread/54287275/ 3
+https://arch.b4k.co/vp/thread/54287275/ 3 golden ipod award
+https://arch.b4k.co/vp/thread/54289828/ 4 the awful tournament
+https://arch.b4k.co/vp/thread/54295699/ 5 oops, all NFEs!
+https://arch.b4k.co/vp/thread/54296872/ 6 into the insane asylum
+https://arch.b4k.co/vp/thread/54303602/ 7 warning: biohazardous
+https://arch.b4k.co/vp/thread/54307464/ 8 weedle infestation
+https://arch.b4k.co/vp/thread/54309922/ 9 the one that I kinda slept through
+https://arch.b4k.co/vp/thread/54316821/ 10 cults and cancer
+https://arch.b4k.co/vp/thread/54326134/ 11 the circus

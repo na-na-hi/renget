@@ -236,3 +236,48 @@ https://rentry.org/qyr6n
 https://rentry.org/99s2y
 >Exam no Jutsu, Part One (Maru(maru), Class 1-D)
 https://rentry.org/EnJ-p1
+>The Tale of Chudstal Miokiller
+https://rentry.org/MIOMUSTDIE
+----------------------------------------------------------------------------------------------------------------------------
+Page 4
+----------------------------------------------------------------------------------------------------------------------------
+>Gossip 5 (Hivemind)
+https://controlc.com/66ba4c1cWritefag:
+>A Trip to Nagoya (Sally, Christopher, 1-D)
+https://rentry.org/6qgyr
+>Ako at the Beach (Capture Cloth, Yamata, Mirror Devil, Ryu-kishi, Popsy)
+https://rentry.org/niz38
+>Broken Mirror (Mirror Devil, Recoil, Radius, Drone, Desolator, The Doctor (brief), Rosethorn):
+https://rentry.org/pit2d
+>Succession (Recoil)
+https://controlc.com/2f2fcb7a
+>Exam no Jutsu (Part Two): Key Player (Maru(maru))
+https://rentry.org/a3mki
+>Ninjas in Space (Maru(maru), The Ghoulie Grabber)
+https://rentry.org/m54to5
+>Hold my Cap, it's License Time! Part 1 (Ryu-Kishi, Arena, Forget-Me-Not, Ryusei, Rescue Ray, Karaburan, Class 1-D)
+https://rentry.org/xn8hc
+>Each Conclusion Will Decide The Lonely Heart (Mahoudeva, Blackout, Majestic, Forget-Me-Not)
+https://rentry.org/w77aw
+>Amateur In His First Psychic War (Mahoudeva, Forget-Me-Not, Blackout, Mirror Devil, Ryu-kishi, Marumaru, Challenger, Sunlight Man, Archangel, Rosethorn, Recoil, Drone, Arena, Radius, Spark)
+https://rentry.org/vqo97t
+>You Sure Love To Ball (Class 1-D, Rosethorn, Ippon, Forget-Me-Not)
+https://rentry.org/o82q7
+>A Soft Touch (Mirror Devil, Last Rite, Ryukishi, Mahoudeva, Capture Cloth)
+https://rentry.org/4d2gw
+>Exam no Jutsu (Part 3) - Shūban (Maru, Last Rite, Impakt)
+https://rentry.org/axzx6
+>The Tournament Arc Prologue! (Anzu, Rosethorn, Class 1-D)
+https://rentry.org/czmcm
+>Manly Ramen Enjoyers Unite! (Hifumi, Bobby, Inigo, Sandatsu)
+https://rentry.org/x3ovn
+>A Dragon's Fairy Tale (Ryukishi, Mirror Devil, The Five, Class 1-D)
+https://rentry.org/32stx
+>Karaoke part 1 (1-D, Nene, cameo of Karma, Feral and Drekus)
+https://rentry.org/x8kh9
+>Gossip 6 (Hivemind, mentions of Inigo, Christopher, and Desolator)
+https://controlc.com/b2b5a64a
+>SHIT POST STATUS: DOUBLE QUIRKED UP ON A THURSDAY AFTERNOON (The Boys group chat)
+https://rentry.org/qyamz
+>The Saint and the Sinner(Last Rite, Archangel)
+https://rentry.org/okwbp

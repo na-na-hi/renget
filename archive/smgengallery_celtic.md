@@ -53,3 +53,11 @@
  -> ![Concept](https://files.catbox.moe/wd8tct.jpg) <-
 
  -> ![Trailer](https://files.catbox.moe/9z6g2e.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

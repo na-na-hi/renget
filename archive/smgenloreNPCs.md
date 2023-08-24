@@ -139,33 +139,24 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
 ***
 
--> **Surt(r) (Norse)** - The Conquest Fire Giant <-
--> ......*at least..... ahhh... well... uhhh... 'kind of'...* <-
+-> ***Possibly* Tartarus (Greek)** - The Season 10 Conquest Fire Giant <-
 
-   The Giant who, after Ymir's death, took up Ymir's title as leader of the Jotunn come Ragnarok *(others such as Skrymir being leaders until then, Surtr occupying Muspelheim, Skrymir occupying Jotunnheim)*, Surt was a colossal Fire Giant with a blade of light who is destined to triumph in battle against the forces of Valhalla at Vigridr and clean up the remaining Norse Gods (specifically Freyr, using Freyr's own sword against him), before dying to Thor, minutes before Thor is destined to take his final stand against Jormungandr.
-   Otherwise, a relatively inert entity, simply waiting at the Gates of Muspelheim, the Sea / Realm of Flames, patiently and solemnly in wait at the for the prophesized calls of Ragnarok to begin ~~and for all shit to kick off~~. A general metaphor for both volcanic eruptions and the barbarians / people South of the Nordic region *(with the Norse notion that going South also meant going vertically down)*.
+Previously, and for the first 10+ years of the game's lifespan, the title of the Fire Giant was held by.... well, the Fire Giant, Surtr. ~~The development team did get this wrong a few times, but I'm glad they corrected themselves in the end.~~ If you want to see all the versions of Surtr while he was doing his Jungle-Boss dayjob, I've 'elevated' his previous Gallery to the [Norse Pantheon Gallery](https://rentry.org/smgengallery_norse) .
 
-   *So when I said 'kind of'... well... Surtr in SMITE isn't really a 'single' entity, as much as it seems to be a 'title' for some weird reason; that has been currently held by **5** clearly different beings over the course of the game's history.*
-   *These have been the three Fire Giants that have featured in Conquest, the second main boss in the Adventure 'Shadows over Hercopolis' and the Surtr seen in the To Hell and Back cinematic.*
+But then along came Season 10, a hype-as-fuck release with Surtr being added as a playable character, and thus a vacant spot for who exactly the Fire Giant 'is'. Currently I can't find any concept art for the Season 10 Map at all *(which is odd, but is probably just a timed NDA)*, but I have seen two mentions now, that the new guy is apparently Tartarus.
+The imagery of the Omega-chain around his neck, a similar design to the 'Tartarus Titan's SPL Team Logo, coupled with the 'shackles of Tartarus' mechanic that appeared during the Y10S3 map that allowed the Titans to move free of their base *(and a bug which meant the sound cue for the shackles being broken was identical to the new Fire Giant's death-call)* - I can believe it, but it's not something I can fully endorse as FACT... but on the other hand, the names to all it's attacks are still in reference to Ragnarok *(unchanged back  fromwhen it was Surtr performing the attacks)*.
 
-   *\*All of them have been explicitly stated to be Surtr.\* ~~Which is even weirder considering Ymir paradoxically helps fight Surtr in the cinematic.~~*
+This one's up to you if you trust it or not.
 
-   *Furthermore, the 'current' Conquest Fire Giant was said to have defeated the previous Conquest Fire Giant (hence why the previous Fire Giant's sword was in his general pit-area in the Season 5 version of the Conquest Map, behind the Pyromancer), so assumably in SMITE lore, the initial Surtr / Fire Giant defeated the Surtr / Fire Giant in the Shadows over Hercopolis ~~which was just a grey Vulcan with Perses axe-hammer rigged to the Fire Giant skeleton with the initial Fire Giant's armor~~, and the Shadow over Hercopolis Surtr defeated the Cinematic Surtr (or in some kind of similar order). I don't really know what the fuck they're doing in this regard, but in simple terms, Surtr is just the Fire Giant and has had an odd amount of redesigns, don't think about it too hard. If it's 'any' of them right now, the current Fire Giant for any given mode is Surtr.*
-   *~~Also they forgot to update his buff UI indicator, so for the last +7 years, you've still been able to see his old, more humanoid design in on your buff bar whenever you kill him.~~*
+Tartarus itself is the Greek Primordial concept of the 'plane' of the Underworld itself. As in, the entire 'reality' of the Underworld.
+The realm of Hades (ruled by Hades), is but a small subsection located within the wider plane of Tartarus, much like how Mt. Olympus is located on Gaia / Earth, and is only a small 'region' of it. While Hades's area wa somewhat close to the surface, the realm of Tartarus extended much, much further underworld, all the way until the edges of reality / Chaos itself - the parable being that it would take an Anvil nine whole days to fall to the bottommost pit within Tartarus *(back when the prevailing theory was that the Earth was flat)*. Hades was the defacto 'ruler' of Tatarus (the region), as his dominion extended across the entire Underworld region; but there's no accounts of him governing over Tartarus in any way, past sentencing some people to the place, and he is associated very little with it, compared to than his own personal and distinctly different domain of Hades. Other cthonic deities are dotted around the Underworld in relation to Hades and Tartarus - for example, Hypnos's bedchamber is described as closer to the realm of Hades (Theogeny) while Hecate's personal palace is described as deep within the bowels of Tartarus (Orpheus).
+Tartarus (or at least one region of it) was most iconically given as the Titan's final prison, as punishment for the Titanomachia - the ultimate Alcatraz of the Divine, guarded by the Three Hecatoncheires (the fifty-headed, hundred-armed colossuses), known as Aegaeon, Cottus and Gyges. Nothing got in, nothing got out, and it was the ultimate Hell for the most terrible and uncontainable of all divine beings *(so famous in fact, that is retained it's notoriety long into the Medieval European period, as a name also with synchronous the Christian Hell)*. The Titans might have been the main stock of the prisoners, but other named inmates included myths like Ixion, Sisyphus and Tantalus. Another aspect *(that at the very minimum gave Tartarus some degree of 'form' past being a conceptual being / place)*, is that he was the most commonly given father of Typhon (with Gaia / Terra as the mother) - and thus Ancestral Father of most Monsters in Greek Mythology (most Gods coming from the Uranus side of the family tree).
 
--> ![Curr. Surt Model](https://files.catbox.moe/cuq8vt.png) <-
+If this is indeed the Primordial being in question, this means that the only un-depicted Protogenoi left would be Primordial Chaos itself ~~and Achlys~~; since Erebus is more of a post-Primordial being, as Nyx's {Nox's} brother and selfcest-spawn of Chaos, rather than one of the 'Big Original 4' that Chaos, Gaia {Terra}, Tartarus and Eros {Cupid} are.
 
--> ![Curr. Surt Turn](https://files.catbox.moe/0r38bh.jpg) <-
 
--> ![S2 Surt Model](https://files.catbox.moe/bvk6b3.jpg) <-
+-> ![Tartarus?](https://files.catbox.moe/e5bn98.jpg) <-
 
--> ![S2 Surt Concept](https://a.pomf.cat/bxlbgh.jpg) <-
-
--> ![Beta Surt](https://files.catbox.moe/dax3qp.jpg) <-
-
--> ![Adv. Surt](https://files.catbox.moe/ytkbro.jpg) <-
-
--> ![Cine Surt](https://files.catbox.moe/79r1o1.jpg) <-
 
 ***
 
@@ -180,9 +171,9 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
    *Come Season 5, and the Fury yet again received a model upgrade into what it is now, associating it more with it's reward and fitting it closer to the new artstyle SMITE has retained since. While neither stated or even fitting, you 'could' make a reach and say the Primal (Dread) and Oni (Rage) Fury are her sisters, **Megaera** (Spite / Envy) & **Alekto** (Rage) respectively, since their etymological naming themes fit their debuffs respectively ...even if they look oddly Mayan / Japanese for some Greek entities. For posterity, Tisiphone herself was the Fury that represented Downfall / Destruction, matching the effect of her Greed debuff.*
    *~~In all honesty, these just seem like generic designs, over intending to actually be representative of the 3 Furies.~~*
 
--> ![GFury](https://files.catbox.moe/iukgs5.jpg) <-
+-> ![GFury](https://files.catbox.moe/4r3zwo.jpg) <-
 
--> ![GFury Face](https://files.catbox.moe/psj7qu.jpg) <-
+-> ![GFury Face](https://files.catbox.moe/rbt9ph.jpg) <-
 
 -> ![GFury Model](https://files.catbox.moe/cuttx2.jpg) <-
 

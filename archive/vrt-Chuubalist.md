@@ -10,11 +10,6 @@
 [Streaming Twitch](https://www.twitch.tv/akiajimargoch)
 [Twitter](https://twitter.com/akiajimargo)<-
 
-->**All-Bones Jones**
-![All-Bones Jones](https://i.warosu.org/data/vt/img/0271/16/1656610066473.png)
-[Streaming Twitch](https://www.twitch.tv/all_bonesjones)
-[Twitter](https://twitter.com/AllBonesjones)<-
-
 ->**Amiya Aranha**
 ![Amiya Aranha](https://i.warosu.org/data/vt/img/0271/16/1656584806462.png) 
 [Streaming Youtube](https://www.youtube.com/@AmiyaAranha)
@@ -75,15 +70,15 @@
 [Streaming Twitch](https://www.twitch.tv/hanavyakuta)
 [Twitter](https://twitter.com/HanavYakuta)<-
 
-->**Hespera**
-![Hespera](https://warosu.org/data/vt/img/0525/51/1688331769569156.png)
-[Streaming Twitch](https://www.twitch.tv/hesperavt)
-[Twitter](https://twitter.com/HesperaVT)<-
-
 ->**Haru Mizuki**
 ![Haru Mizuki](https://warosu.org/data/vt/img/0521/72/1687912748570423.png)
 [Streaming Twitch](https://www.twitch.tv/harumizukich)
 [Twitter](https://twitter.com/harumizukich)<-
+
+->**Hespera**
+![Hespera](https://warosu.org/data/vt/img/0525/51/1688331769569156.png)
+[Streaming Twitch](https://www.twitch.tv/hesperavt)
+[Twitter](https://twitter.com/HesperaVT)<-
 
 ->**Jean Faymas**
 ![Jean Faymas](https://warosu.org/data/vt/img/0527/91/1688615480627343.png)
@@ -95,15 +90,15 @@
 [Streaming Twitch](https://www.twitch.tv/madoh_jinx)
 [Twitter](https://twitter.com/madoh_jinx)<-
 
-->**Josabelle**
-![Josabelle](https://i.warosu.org/data/vt/img/0273/30/1656794260896.png)
-[Streaming Twitch](https://www.twitch.tv/josabelledemon)
-[Twitter](https://twitter.com/JosabelleDemon)<-
-
 ->**Jorunna**
 ![Jorunna](https://i.warosu.org/data/vt/img/0414/65/1674453481256171.png)
 [Streaming Twitch](https://www.twitch.tv/jorunnav)
 [Twitter](https://twitter.com/JorunnaV/media)<-
+
+->**Josabelle**
+![Josabelle](https://i.warosu.org/data/vt/img/0273/30/1656794260896.png)
+[Streaming Twitch](https://www.twitch.tv/josabelledemon)
+[Twitter](https://twitter.com/JosabelleDemon)<-
 
 ->**Karin**
 ![Karin](https://i.warosu.org/data/vt/img/0495/38/1684270726970518.png)
@@ -256,7 +251,22 @@
 [Streaming Twitch](https://www.twitch.tv/woozle_ch)
 [Twitter](https://twitter.com/woozle_ch)<-
 
+->**Yuno Nightingale**
+![Yuno Nightingale](https://warosu.org/data/vt/img/0566/99/1692763251529131.png)
+[Streaming Youtube](https://www.youtube.com/@YunoNightingale)
+[Twitter](https://twitter.com/yunonightingale)<-
+
+->**Yumanea**
+![Yumanea](https://warosu.org/data/vt/img/0566/99/1692763314022349.png)
+[Streaming Twitch](https://www.twitch.tv/yumanea_)
+[Twitter](https://twitter.com/yumanea_)<-
+
 # Graduated/Indefinite Hiatus
+
+->**All-Bones Jones**
+![All-Bones Jones](https://i.warosu.org/data/vt/img/0271/16/1656610066473.png)
+[Streaming Twitch](https://www.twitch.tv/all_bonesjones)
+[Twitter](https://twitter.com/AllBonesjones)<-
 
 ->**Chapipi Iekushi**
 ![Chapipi Iekushi](https://i.warosu.org/data/vt/img/0425/69/1675805924510444.png)

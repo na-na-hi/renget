@@ -16,7 +16,7 @@
 ***
 
  -> *If you just want to get started and don't really care about the additional stuff; start here:* <-
- -> https://rentry.co/smgenlorePh1#foundational-core-lore-the-elysian-uprising <-
+ -> https://rentry.org/smgenlorePh1#foundational-core-lore-the-elysian-uprising <-
  -> *There are links within the docs to take you to the next ones along. Enjoy!* <-
 
 ***
@@ -52,7 +52,7 @@
 
 ### Introductory Notes (Skip)
 
-https://rentry.co/smgenlorepreface
+https://rentry.org/smgenlorepreface
 This Doc covers the following arcs:
  - Foreword (Skippable)
  - What is and is not canon? (Skippable)
@@ -65,7 +65,7 @@ This Doc covers the following arcs:
 
 ###Actual Mythology (>3,500BC to 2012) + The Gallery
 
-https://rentry.co/smgenloreclassics
+https://rentry.org/smgenloreclassics
 
    *Huge doc - will probably take longer to read than the lore. BUT if it wasn't important, I wouldn't have made it.*
 
@@ -75,7 +75,7 @@ https://rentry.co/smgenloreclassics
 
 ###First Phase (2011 to 2017)
 
-https://rentry.co/smgenlorePh1
+https://rentry.org/smgenlorePh1
 This Doc covers the following 'Arcs':
  - Pre-Lore / Non-Canon Lore Attempts
  - Core Lore / Foundational Lore / Canon Backstory Snippets
@@ -83,7 +83,7 @@ This Doc covers the following 'Arcs':
 
 ###Second Phase - Part 1  (2017 to 2020)
 
-https://rentry.co/smgenlorePh2P1
+https://rentry.org/smgenlorePh2P1
 This Doc covers the following Arcs:
  - ~~Apocrypha (Discoveries / Odysseus' Journey / Land of the Rising Sun / Celestial Voyage)~~
  - O-O's Bizarre Adventure: Stardust Crus-Hades (The Odyssey / The Fall of War / Divine Uprising)
@@ -92,7 +92,7 @@ This Doc covers the following Arcs:
 
 ###Second Phase - Part 2  (2020 to 2022)
 
-https://rentry.co/smgenlorePh2P2
+https://rentry.org/smgenlorePh2P2
 This Doc covers the following Arcs:
  - Cheap Chinese Knockoff Gods (Jade Corruption / Grim Omens)
  - AAAAAAAAAAAAAA NIGGERMAN SAVE MEEEEEEEE (New Moon / Odyssey: Reckoning / SMITE Friends / Dawn of Babylon)
@@ -100,9 +100,10 @@ This Doc covers the following Arcs:
 
 ###~~Second Phase - Part 3 OR Third Phase (2022 to 2024)~~
 
-https://rentry.co/
+https://rentry.org/
 This is just a placeholder for if the game / lore is still alive by then. *Hopefully I'm also still alive.*
- - ??? (Heavenly Light / ~~Nickelodeon~~ Courage & Honor / ??? / ... )
+ - ??? (Heavenly Light / Courage & Honor / Odyssey: Soaring Isles / Yulefest 2022)
+ - ??? (The Bright Sword / Hope Reborn / Prism of Souls / ??? / ... )
  - X
  - Y
  - Z
@@ -119,13 +120,13 @@ https://rentry.org/smgenloreAsidesPt1
 https://rentry.org/smgenloreAsidesPt2
 
 Non-playable In-game Gods & Unused Designs
-https://rentry.co/smgenloreNPCs
+https://rentry.org/smgenloreNPCs
 
 Item Shop Mythos
-https://rentry.co/smgenloreItems
+https://rentry.org/smgenloreItems
 
 Voice Actors Aside
-https://rentry.co/smgenloreVAs
+https://rentry.org/smgenloreVAs
 
 
 ##   -> ~ = ~ = ~ = ~ = ~ = ~ = ~ = ~ = ~ = ~ <-
@@ -402,7 +403,7 @@ https://rentry.co/smgenloreVAs
 
  - More People = More Gods = More Conflict
  - Zeus dies, killed by someone
- - Big conflicts in Egypt + Scandinavia kicks off as Greeks try to find whodunnit
+ - Big conflicts in Egypt + Scandinavia kicks off, as Greeks try to find whodunnit
  - Ragnarok begins, because Hel / Fenrir escaped as a result of above
  - Susano-O goes on an adventure. The Morrigan was the one instigating most of everything. Ragnarok is still ongoing
  - Ares goes on an adventure, kills loads of Gods. Finishes up with Anubis, who was scapegoated for Zeus's death

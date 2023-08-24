@@ -23,9 +23,11 @@ Ironmouse Vod Channel| [Link](https://www.youtube.com/c/IRONMOUSEVODS)| Twitch: 
 Vei Vod Channel| [Link](https://www.youtube.com/@veibaevods)| Twitch: https://www.twitch.tv/vei
 Silvervale Vod Channel| [Link](https://www.youtube.com/@SilvervalesTwitchArchive)| Twitch: https://www.twitch.tv/Silvervale
 Project Melody Vod Channel| [Link](https://www.youtube.com/c/ProjektMelodyTwitchArchive)| Twitch: https://www.twitch.tv/projektmelody
-Haruka Karubu Vod Channel| [Link](https://www.youtube.com/c/harukakaribuvods)| Twitch: https://www.twitch.tv/harukakaribu
+Haruka Karibu Vod Channel| [Link](https://www.youtube.com/c/harukakaribuvods)| Twitch: https://www.twitch.tv/harukakaribu
 Zentreya Vod Channel| [Link](https://www.youtube.com/@zentreyatwitchvods8870/videos)| Twitch: https://www.twitch.tv/zentreya
 Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)| Twitch: https://www.twitch.tv/apricot
+Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
+Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
 
 
 

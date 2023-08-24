@@ -1,3 +1,11 @@
--> [![an old computer showing various blue screens](https://media.discordapp.net/attachments/1007182318496133151/1033090888542453820/IMG_4269.gif)](https://rentry.co/sillyboard) <-
+-> ![](https://i.ibb.co/brxG463/meow.jpg) <-
+->MY TAPEWORM TELLS ME WHAT TO DO <-
+-> ![](https://i.ibb.co/c3XNNkf/meow.jpg) <-
 
--> click here <-
+-> ![](https://i.ibb.co/tBxMkqw/meow.png) <-
+->⠀⠀⠀.⋆ ![](https://i.postimg.cc/tJNM36qq/image.gif) **YUL** *or* **𝓒**a͟rt͟e͟r﹗⠀![](https://i.imgur.com/oWaNEXC.png)⠀she **ﾉ** **h**er⠀‧₊˚<-
+->⠀⠀⠀1**7**⠀![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)⠀![](https://i.postimg.cc/xC012Wst/image.gif) ![](https://i.postimg.cc/KYhY9KtX/image.gif) ·₊̣̇ ⠀**entp** 8w7 *sloei* sp/so⠀![](https://i.postimg.cc/7hVH3YZr/image.gif)<-
+->⠀⠀⠀![](https://i.postimg.cc/tgJhKZ50/image.gif)  ʾ˖⠀greek-egyptian⠀![](https://i.postimg.cc/XYc6BCdt/image.gif)⠀ask4irls <-
+-> ![](https://i.ibb.co/rs04Skc/meow.jpg) <-
+-> PULL THE TAPEWORM OUT OF YOUR ASS <-
+-> ![](https://i.ibb.co/c3XNNkf/meow.jpg) <-

@@ -1,5 +1,6 @@
 ## ->Chinese Gallery<-
 
+
  -> **Yu Huang** <-
  -> = *Jade Emperor* <-
  -> *{It's not a name (unlike how Sun Wukong / 孫悟空 is the actual name of the Monkey King / 猴王 / Hou Wang), it's a literal title and warrants being translated + spoken in English as one. Yu = Jade, Huang = Emperor. You sound retarded and psudeointellectual if you refuse to translate, unless you want to speak in full Chinese while discussing him, which I know you ~~won't~~ can't, 鬼佬人渣. 你都不明白我是怎么侮辱你的, 是吗? ~~>inb4 你需要一个翻译, 就像你是绿色的戴绿帽子一样 .~~ The Jade Emperor is otherwise nameless, as it's given that the personal name of any given Emperor is exclusively known to the court in question and out of the knowledge of ~~the peasants, commoners and plebs / mortals~~ those whose affairs it does not pertain to - the same such rule likewise applies to the Yellow Emperor, Flame Emperors or any other irl historic Chinese Emperors you may have heard of}* <-
@@ -12,13 +13,13 @@
 
  -> ![Splash](https://files.catbox.moe/oo4yvs.jpg) <-
 
- -> ![Concept](https://a.pomf.cat/idhgvh.jpg) <-
+ -> ![Concept](https://files.catbox.moe/x4or3u.png) <-
 
- -> ![Cine Concept](https://a.pomf.cat/djvasy.jpg) <-
+ -> ![Cine Concept](https://files.catbox.moe/afr38u.jpg) <-
 
- -> ![Pearl Dragon Concept](https://a.pomf.cat/bawyfj.jpg) <-
+ -> ![Pearl Dragon Concept](https://files.catbox.moe/s5zcnl.jpg) <-
 
- -> ![Pearl Dragon Cine Concept](https://a.pomf.cat/akmavd.jpg) <-
+ -> ![Pearl Dragon Cine Concept](https://files.catbox.moe/isv56g.jpg) <-
 
  -> **Guan Yu** <-
  -> = *G(w)'an Yu* <-
@@ -34,7 +35,7 @@
 
  -> ![Classic Splash](https://files.catbox.moe/22y7gk.jpg) <-
 
- -> ![Classic Splash](https://files.catbox.moe/9dz7go.jpg) <-
+ -> ![Classic Model](https://files.catbox.moe/9dz7go.jpg) <-
 
  -> **Nu Wa** <-
  -> = *Nuwa* <-
@@ -53,7 +54,7 @@
 
  -> ![Splash](https://files.catbox.moe/krolys.jpg) <-
 
- -> ![Concept](https://a.pomf.cat/wyctjc.jpg) <-
+ -> ![Concept](https://files.catbox.moe/orekbp.jpg) <-
 
  -> **Chang'E** <-
  -> = *(t)chan'(g)uhr* <-
@@ -73,11 +74,11 @@
 
  -> ![Splash](https://files.catbox.moe/3su9as.jpg) <-
 
- -> ![Promo](https://a.pomf.cat/pitnsq.jpg) <-
+ -> ![Promo](https://files.catbox.moe/62ts0r.jpg) <-
 
  -> ![Classic Splash](https://files.catbox.moe/bs0yc4.jpg) <-
 
- -> ![Classic Concept](https://a.pomf.cat/fyemey.jpg) <-
+ -> ![Classic Concept](https://files.catbox.moe/99c767.jpg) <-
 
  -> **Ne Zha** <-
  -> = *Nah Zshja* <-
@@ -87,18 +88,21 @@
 
  -> ![Classic Splash](https://files.catbox.moe/0e33c4.jpg) <-
 
- -> ![Classic Concept Obsc.](https://a.pomf.cat/zauuyg.jpg) <-
+ -> ![Classic Concept Obsc.](https://files.catbox.moe/4x8t46.jpg) <-
 
  -> ![Classic Model](https://files.catbox.moe/yizl54.jpg) <-
 
  -> **Erlang Shen** <-
  -> = *Er-Lan(g) Sh-enn* <-
  -> *{The G is gutteral, bottom of the throat and near silent.}* <-
+
  -> *{Sorry for the splash quality.... it's the best I could patch together of what remains out there...}* <-
 
- -> ![Splash](https://a.pomf.cat/tsbgye.png) <-
+ -> ![Splash](https://files.catbox.moe/oozbkh.png) <-
 
- -> ![Concept](https://files.catbox.moe/7p02p7.jpg) <-
+ -> ![Smaller Splash](https://files.catbox.moe/iv8o2v.png) <-
+
+ -> ![Concept](https://files.catbox.moe/r9ld35.jpg) <-
 
  -> ![Trailer](https://files.catbox.moe/hwqhbn.jpg) <-
 
@@ -106,19 +110,19 @@
  -> = *Z-Hon(n) Qu-ee* <-
  -> *{The last word is not pronounced Ku-i / Koo-i. Between the two words, the inflection between the extended / silent n(n) and the 'Q' phonetic naturally feigns the same phonetic as the G, so if you ignore the G you'll pronounce it better than going out of your way to say 'ong'}* <-
 
- -> ![Splash](https://a.pomf.cat/eeqybz.png) <-
+ -> ![Splash](https://files.catbox.moe/kg7q4q.png) <-
 
- -> ![Classic Splash](https://a.pomf.cat/layxze.jpg) <-
+ -> ![Classic Splash](https://files.catbox.moe/96ecn4.jpg) <-
 
- -> ![Concept Face](https://a.pomf.cat/hsodpb.jpg) <-
+ -> ![Concept Face](https://files.catbox.moe/qo4qw0.jpg) <-
 
- -> ![Promo](https://a.pomf.cat/ubmvin.jpg) <-
+ -> ![Promo](https://files.catbox.moe/1ujofv.jpg) <-
 
  -> **Xing Tian** <-
  -> = *Shing (t)Chi-Ann* <-
  -> *{Don't ask. The name is onomatopoeic for clashing blades}* <-
 
- -> ![Splash](https://a.pomf.cat/hwfunc.jpg) <-
+ -> ![Splash](https://files.catbox.moe/75vd16.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/jm5vux.jpg) <-
 
@@ -141,6 +145,8 @@
  -> *{jing wei2}* <-
  -> *{jing wei3}* <-
 
+ -> *{The 'name' Jing Wei is technically a title. Her 'original' name back when she was mortal, was 'Nu Wa'....... but that might case some confusion.}* <-
+
  -> ![Splash](https://files.catbox.moe/mkf6kf.png) <-
 
  -> ![Concept](https://files.catbox.moe/rciqib.jpg) <-
@@ -151,7 +157,7 @@
  -> = *Da Dji* <-
  -> *{Looks off, but the J is the closest letter in English to the phonetic in Ji - however misses on some of the pronunciation detail. It's not Da Gee, there's a definite sharper syllable at the start of it}* <-
 
- -> ![Splash](https://a.pomf.cat/mqfjym.jpg) <-
+ -> ![Splash](https://files.catbox.moe/egdqjs.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/f5sdvc.jpg) <-
 
@@ -165,7 +171,7 @@
 
  -> ![Disguise](https://files.catbox.moe/suuhhj.jpg) <-
 
- -> ![Concept](https://a.pomf.cat/ntnsyk.jpg) <-
+ -> ![Concept](https://files.catbox.moe/9guwi1.jpg) <-
 
  -> ![Promo](https://files.catbox.moe/ycvfh7.jpg) <-
 
@@ -183,3 +189,11 @@
  -> ![Classic Splash](https://files.catbox.moe/do857u.jpg) <-
 
  -> ![Classic Model](https://files.catbox.moe/n8dutt.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

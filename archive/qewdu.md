@@ -54,6 +54,7 @@ CH0100 = Bunny Karin
 CH0101 = Bunny Neru **(Does not import correctly on Blender)**
 CH0107 = Kaho
 CH0114 = Tsukuyo
+CH0124 = Meru
 CH0133 = Michiru **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0135 = Rumi
 CH0137 = Kokona
@@ -86,6 +87,7 @@ CH0181 = Cheerleader Hibiki
 CH0182 = Track Utaha
 CH0183 = Swimsuit Mimori
 CH0184 = Track Yuuka
+CH0185 = Cheerleader Kotori **(Portrait Only)**
 CH0186 = Track Mari
 CH0187 = Toki
 CH0188 = Swimsuit Shiroko
@@ -110,20 +112,22 @@ CH0210 = Swimsuit Hinata
 CH0211 = Bunny Toki
 CH0212 = Akira **(Portrait Only)**
 CH0213 = Kai **(Portrait Only)**
-CH0214 = Minori **(Portrait Only)**
+CH0214 = Minori
 CH0215 = Swimsuit Miyako
 CH0216 = Swimsuit Moe **(Portrait Only)**
 CH0217 = Swimsuit Saki
 CH0218 = Swimsuit Miyu
 CH0222 = Nagusa **(Portrait Only)**
+CH0228 = Yakumo **(Portrait Only)**
+CH0229 = Takane **(Portrait Only)**
 CH9999 = Miku
 ***
 ## -> Chibi NPCS <-
 Kaito_Trinity_HG = Akira
 Police_Valkyrie_SG = Shotgun Cop Mob
 Komakaze_Helmet_SG = Rabu
-EN0002 = Shiroko (Terror)
 EN0001 = Phrenapates
+EN0002 = Shiroko (Terror)
 
 Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet. These are the ones I have looked into so far.
 -> ![Cute NMGK](https://files.catbox.moe/8gndgg.png) <-

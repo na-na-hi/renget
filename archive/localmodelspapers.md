@@ -97,6 +97,8 @@
 06/2023|[Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
 07/2023|[Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3leon)](https://archive.ph/pGJls)
 07/2023|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://archive.ph/nHQ15)
+08/2023|[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://archive.ph/J8xMD)
+08/2023|[D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://arxiv.org/abs/2308.12284)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -122,6 +124,7 @@
 06/2023|[Textbooks Are All You Need (phi-1)](https://arxiv.org/abs/2306.11644)
 07/2023|[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945)
 07/2023|[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+08/2023|[Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference](https://arxiv.org/abs/2308.12066)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -176,6 +179,7 @@
 07/2023|[Rhythm Modeling for Voice Conversion (Urhythmic)](https://arxiv.org/abs/2307.06040)
 07/2023|[Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/abs/2307.14995)
 08/2023|[Separate Anything You Describe](https://arxiv.org/abs/2308.05037)
+08/2023|[StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data](https://arxiv.org/abs/2308.10253)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -328,6 +332,7 @@
 07/2023|[CoRe Optimizer: An All-in-One Solution for Machine Learning](https://arxiv.org/abs/2307.15663)
 08/2023|[ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://arxiv.org/abs/2308.03793)
 08/2023|[EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269)
+08/2023|[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

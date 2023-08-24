@@ -148,6 +148,13 @@ Again - I'm not going out of my way just to make this some shitty fanfic, I'm ju
 
   *Have a diagram if your head's hurting, because in literal terms it is applied mythology-based theoretical astrophysics.*
 
--> ![Model](https://a.pomf.cat/xofskw.png) <- 
+-> ![Model](https://files.catbox.moe/skrzdj.png) <- 
 
  -> *"Or, lorefag, they're just fuckin' bullshitting their way through and making it up as they go along" - You, just now.* <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Link back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-

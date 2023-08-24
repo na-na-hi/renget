@@ -109,6 +109,14 @@
 
  -> ![Splash](https://files.catbox.moe/zml7bq.jpg) <-
 
- -> ![Concept](https://files.catbox.moe/vuxmj7.jpg) <-
+ -> ![Concept](https://files.catbox.moe/ncxrsb.jpg) <-
 
  -> ![Classic Splash](https://files.catbox.moe/uurt5c.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

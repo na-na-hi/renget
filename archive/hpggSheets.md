@@ -8,9 +8,11 @@
 
 ->[Magic Awakened Card Templates](https://rentry.org/wq3s8)<-
 
-->[Duelling Sheet](https://files.catbox.moe/9mcc9v.png)<-
+->[Beach Party Sheet](https://files.catbox.moe/x302ek.png)<-
 
 ->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
+
+->[Duelling Sheet](https://files.catbox.moe/9mcc9v.png)<-
 
 ->[Combat Info Sheet](https://files.catbox.moe/ncejtw.jpg)<-
 
@@ -37,13 +39,9 @@
 
 ->[Divination/Futures Sheet](https://files.catbox.moe/nvcw90.jpg)<-
 
-->[Outfit/Info Sheet (not from /hpgg/)](https://files.catbox.moe/1bor7p.jpg)<-
-
 ->[Animagus Sheet](https://files.catbox.moe/3spyy1.jpg)<-
 
 ->[NPC Sheet](https://files.catbox.moe/7vs0lg.png)<-
-
-->[/hpgg/ Speed Dating/Friend-ing (event concluded)](https://files.catbox.moe/pegqm9.png)<-
 
 ->[Deity Sheet](https://rentry.org/6x6dbb)<-
 

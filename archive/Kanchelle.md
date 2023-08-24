@@ -40,6 +40,11 @@ girldick
 girlcock
 gock
 toilet
+:3
+;3
+shill\*
+reddit\*
+feces
 
 
 Hide all filtered posts/stubs: ;stub:no  (ex: boards:trash,aco;/agp/i;op:no;stub:no)

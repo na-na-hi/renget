@@ -25,7 +25,7 @@ Unnamed Undertale pasta|*Undertale*|[(link)](https://arch.b4k.co/vg/thread/41871
 *Skinned State*|*Super Mario 64*|[(link)](https://rentry.org/skinnedstate)
 *Goosebumps: The Masked Mutant's Devastation*|*Goosebumps: Attack of the Mutant*|[(link)](https://rentry.org/maskedmutant)
 *Walking Specimen*|*Elden Ring*|[(link)](https://rentry.org/walkingspecimen)
-Unnamed Item Monitor pasta (WIP)|*Sonic the Hedgehog 2*, various others|[(part 1)](https://rentry.org/ewq95), [(part 2)](https://rentry.org/7v3xn)
+Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*, various others|[(part 1)](https://rentry.org/ewq95), [(part 2)](https://rentry.org/7v3xn)
 *Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
 *New Record*|*Mario Kart 64*|[(link)](https://rentry.org/qg9ky)
 *Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)

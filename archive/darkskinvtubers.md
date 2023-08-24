@@ -108,7 +108,6 @@ StellalunaVT|[Twitter](https://twitter.com/StellaLunaVT) [Twitch](https://www.tw
 Trinity_vtuber_|[Twitter](https://twitter.com/Trinityin4) [Twitch](https://www.twitch.tv/trinity_vtuber_)|
 BrewwVT|[Twitter](https://twitter.com/Breww_VT) [Twitch](https://www.twitch.tv/brewwvt)|
 ArcticAaliyah|[Twitter](https://twitter.com/ArcticAaliyah) [Twitch](https://www.twitch.tv/arcticaaliyah)|
-justSasha|[Twitter](https://twitter.com/SashasCastle) [Twitch](https://www.twitch.tv/justSasha)|
 Kalmia_Amanita|[Twitter](https://twitter.com/kalmia_ama) [Twitch](https://www.twitch.tv/kalmia_amanita)|Retro PC games and garage kits
 Tomakeys|[Twitter](https://twitter.com/KeysTomama) [Twitch](https://www.twitch.tv/tomakeys)|Monkey who loves cartoons and toys
 Bodega_RRat|[Twitter](https://twitter.com/bodega_rat) [Twitch](https://www.twitch.tv/bodega_rrat)|Art/ASMR/Variety
@@ -168,7 +167,6 @@ Serina Maiko|[Twitter](https://twitter.com/SerinaMaiko) [Youtube](https://www.yo
 ffSade|[Twitter](https://twitter.com/ffSade) [Youtube](https://www.youtube.com/@ffSade) [Twitch](https://www.twitch.tv/ffsade)| Artist, Fighting games
 KiraOmori|[Twitter](https://twitter.com/KiraOmori) [Youtube](https://www.youtube.com/@KiraOmori)|
 Sena Bonbon|[Twitter](https://twitter.com/Bonbon_Sena) [Youtube](https://www.youtube.com/@senabonbon)|
-NYANA SEXTYN9|[Twitter](https://twitter.com/NYANASEXTYN9) [Youtube](https://www.youtube.com/@NYANASEXTYN9)|FlaVR
 Mixie Mixin|[Twitter](https://twitter.com/MixinMixie/) [Youtube](https://www.youtube.com/@mixiemixin)|FlaVR - Rhythm gamer, likes counting
 Sakumintsu|[Twitter](https://twitter.com/sakumintsu) [Twitch](https://www.twitch.tv/sakumintsu)|
 ceelio|[Twitter](https://twitter.com/ceelio_ch) [Twitch](https://www.twitch.tv/ceelio)|

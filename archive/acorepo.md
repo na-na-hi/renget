@@ -33,8 +33,8 @@ https://files.catbox.moe/swnfr8.safetensors
 https://mega.nz/folder/vxkRQbJJ#hLCWjupwYoaPxeWDpShq2A
 - Maria, Emilia, Kim
 https://mega.nz/folder/BmpxBYpL#1TVy5v8BJOABm9qkiO0Y3Q
-- Crysta
-https://mega.nz/folder/xrxRiIrA#dYenm0fD8SEZQL-l3_dYuQ
+- Crysta, Jasmine
+https://mega.nz/folder/BypjXDab#ME-p3_6iDnBpa1jRzorCEQ
 - Maddie Kim (Pantheon)
 https://files.catbox.moe/evj8gm.7z
 - Maddie Fenton
@@ -43,8 +43,6 @@ https://drive.google.com/file/d/1T4HpMyJlGGHQPnkKAu1q1lQfef0PV9dn/view?usp=share
 https://files.catbox.moe/5inpwl.safetensors
 - Frankie Foster
 https://files.catbox.moe/ekwjfi.safetensors
-- Jasmine
-https://mega.nz/folder/U6oEDB5R#gN-7zyiIZ7B-oHUxN9jAyA
 
 ---
 
@@ -77,6 +75,13 @@ https://civitai.com/models/103208/will-witch
 https://civitai.com/models/119664/hay-witch
 	+ Taranee
 https://civitai.com/models/108458/taranee-witch
+	- Cornelia 
+https://civitai.com/models/130719/cornelia-hale-or-witch-or
+- Archie
+	- Veronica 
+https://civitai.com/models/131982/edob-veronica-lodge-dan-parent
+	- Betty
+https://civitai.com/models/131991/edob-betty-dan-parent
 - Lanfeust of Troy
 https://rentry.org/acorepo2/#lanfeust-of-troy
 - Emmy the Robot
@@ -147,7 +152,8 @@ https://civitai.com/models/114227/holli-would
 https://civitai.com/models/23001/hello-nurse
 	+ Minerva Minks
 https://civitai.com/models/114505/minerva-mink-animaniacs
-
+- Freakazoid
+https://civitai.com/models/129100/freakazoid
 - The Pirates of Dark Water
  	+ Tula
 https://civitai.com/models/79186/tula-the-pirates-of-dark-water
@@ -159,6 +165,8 @@ https://civitai.com/models/18846/panda-delgado
 https://civitai.com/models/95508/cavewoman-budd-root-character-lora
 - Julie Winters (The Maxx)
 https://civitai.com/models/82274/julie-winters-the-maxx
+- Mistress Pavlov (The Secret Files of the Spy Dogs)
+https://civitai.com/models/131366/mistress-pavlov-the-secret-files-of-the-spy-dogs-character-lora
 - The Legend of Korra
 	+ Korra
 https://civitai.com/models/74725/korra-or-the-legend-of-korra
@@ -241,8 +249,11 @@ https://civitai.com/models/124089/desiree-danny-phantom
 https://civitai.com/models/114758/ember-mclain-danny-phantom
 - Samantha (Totally Spies)
 https://civitai.com/models/95201/samantha-sam-simpson-totally-spies
-- Gwen (Total Drama)
+Total Drama
+	+ Gwen
 https://civitai.com/models/17658/gwen-total-drama-island-character-lora
+	+ Zoey
+https://civitai.com/models/131360/edob-zoey-total-drama
 - Candide Sampson (Clone High)
 https://civitai.com/models/128058/candide-sampson-clone-high
 - Miss Tonitini (The Weekenders)
@@ -261,6 +272,8 @@ https://civitai.com/models/66649/terra-teen-titans
 	- [*style*](#styles)
 - Pocahontas
 https://civitai.com/models/23886/pocahontas
+- Esmeralda (The Hunchback of Notre Dame)
+https://civitai.com/models/130431/cartoonesmeralda-10
 - Mulan
 https://civitai.com/models/91504/mulan-disney-movie
 - Cinderella
@@ -302,7 +315,7 @@ https://civitai.com/models/46198/aphrodite
 https://civitai.com/models/48946/tinkerbell
 	- Peter Pan
 https://civitai.com/models/63903/peter-pan-character-lora
-Wakfu: The Animated Series
+- Wakfu: The Animated Series
 	+ Evangelyne
 https://civitai.com/models/31757/evangelyne-wakfu-character-lora
 	- Amalia Sheran
@@ -318,6 +331,10 @@ https://civitai.com/models/115034/atom-eve-invincible
 https://civitai.com/models/128031/shrinking-ray-invincible
 	- Monster Girl
 https://civitai.com/models/126942/monster-girl-invincible
+	- Debbie
+https://civitai.com/models/130159/debbie-grayson-invincible
+	- Amber
+https://civitai.com/models/129108/amber-bennett-invincible
 - Harley Quinn 2019 Series
 	+ Harley Quinn
 https://civitai.com/models/77425/harley-quinn-2019-serie
@@ -354,7 +371,10 @@ https://civitai.com/models/64691/rocket-young-justice-lora
 https://civitai.com/models/54580/wondergirl-young-justice-lora
 	- Zatanna
 https://civitai.com/models/62247/zatanna-young-justice-lora
-- Supergirl/Galatea (DC Animated Universe)
+DC Animated Universe
+- Batgirl
+https://civitai.com/models/129659/batgirl-barbara-gordon-dcau-style-lycoris
+- Supergirl/Galatea 
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 - DC Comics
 	+ Huntress
@@ -367,6 +387,12 @@ https://civitai.com/models/118161/black-canary-dc-comics
 https://civitai.com/models/120693/dc-child
 	- Circe
 https://civitai.com/models/123946/circe-dc-comics
+	- Volcana
+https://civitai.com/models/131232/volcana-dc-comics
+	- Phantom Girl
+https://civitai.com/models/130689/phantom-girltinya-wazzo-from-legion-of-super-heroes-2006
+	- Miss Martian
+https://civitai.com/models/129194/miss-martian-white-martian-form-young-justice-dc-comics
 - Marvel Comics
 	+ Star/Ripley Ryan
 https://civitai.com/models/14831/star-ryan-ripley
@@ -379,6 +405,8 @@ https://civitai.com/models/107092/khamala-khan-marvel
 https://civitai.com/models/83715/polaris-x-factor-anime-comic-and-realistic
 	- Lady Hellbender
 https://civitai.com/models/115776/lady-hellbender-marvel
+	- Singularity
+https://civitai.com/models/131377/singularity-marvel-comics-character-lora
 - X-Men
 	- Rogue
 https://civitai.com/models/84349/rogue-x-men
@@ -428,10 +456,6 @@ https://civitai.com/models/105744/dallas-grimes
 https://civitai.com/models/67075/honey-bee-black-dynamite-character-lora
 - Entrapta (She-Ra)
 https://civitai.com/models/75021/entrapta-from-she-ra
-- Pidge (Voltron)
-https://civitai.com/models/77325/pidge-voltron
-- Reagan Ridley (Inside Job)
-https://civitai.com/models/32051/reagan-ridley
 - The Legend of Vox Machina
 	+ Keyleth
 https://civitai.com/models/93518/keyleth-or-vox-machina
@@ -485,6 +509,10 @@ https://civitai.com/models/88907/garnet-steven-universe-
 https://civitai.com/models/42392?modelVersionId=47066
 	- Mouse
 https://civitai.com/models/45282/mouse-droners
+- Pidge (Voltron)
+https://civitai.com/models/77325/pidge-voltron
+- Reagan Ridley (Inside Job)
+https://civitai.com/models/32051/reagan-ridley
 - Hilda (2018 TV series)
 https://civitai.com/models/27689?modelVersionId=33150
 - Gretel Grant-Gomez (Hamster & Gretel)
@@ -521,6 +549,8 @@ https://civitai.com/models/126310/wendy-corduroy-gravity-falls
 	- Amity Blight
 https://civitai.com/models/97921/amity-blight-the-owl-house-season-1-redux
 https://civitai.com/models/97303/amity-blight-the-owl-house-season-2
+	- Eda Clawthorne
+https://civitai.com/models/131195/eda-clawthorne-the-owl-house
 	- Luz Noceda
 https://civitai.com/models/94728/luz-noceda
 https://civitai.com/models/110069/luz-noceda-timeskip-or-the-owl-house
@@ -565,6 +595,8 @@ https://civitai.com/models/21148/sedusa
 https://civitai.com/models/104156/deb-turnbull-character-lora
 - Dr. Ghastly (Bill and Mandy)
 https://civitai.com/models/114013/drghastly-billy-and-mandy
+- Ami Onuki (Hi Hi Puffy AmiYumi)
+https://civitai.com/models/131431/ami-onuki
 - Gaz (Invader Zim)
 https://civitai.com/models/112058/gaz-invader-zim
 - Olga Pataki (Hey Arnold!)
@@ -628,6 +660,24 @@ https://civitai.com/models/118214/ramona-badwolf-ever-after-high
 https://civitai.com/models/118216/apple-white-ever-after-high
 	+ Raven Queen
 https://civitai.com/models/122701/raven-queen-ever-after-high
+- Monster High
+	- Rochelle Goyle
+https://civitai.com/models/122712/rochelle-goyle-monster-high
+	- Spectra Vondergeist
+https://civitai.com/models/124705/spectra-vondergeist-monster-high
+	- Toralei Stripe
+https://civitai.com/models/122711/toralei-stripe-monster-high
+	- Lagoona Blue
+https://civitai.com/models/114846/lagoona-blue-monster-high
+	- Draculaura
+https://civitai.com/models/106219/draculaura-monster-high
+https://civitai.com/models/106219/draculaura-monster-high
+	- Frankie Stein
+https://civitai.com/models/104083/frankie-stein-monster-high
+	- Clawdeen
+https://civitai.com/models/95200/clawdeen-monster-high
+	- Cleo DeNile
+https://civitai.com/models/97326/cleo-denile-monster-high
 - Dora the Explorer
 https://civitai.com/models/44473/dora-the-explorer
 - Atomic Betty
@@ -653,6 +703,8 @@ https://civitai.com/models/110692/jessica-from-rick-and-morty-lora
 https://civitai.com/models/119084/fonglets-beth-smith
 	- Supernova
 https://civitai.com/models/125156/supernova-or-rick-and-morty
+	- Gwendolyn
+https://civitai.com/models/129392/gwendolyn-rick-and-morty
 - Family Guy
 	+ Lois Griffin
 https://civitai.com/models/81449/lois-griffin-pacenkun
@@ -915,14 +967,18 @@ https://civitai.com/models/81353/smurfette-the-smurfs
 - Katie Michelle (The Michells vs. the Machines)
 https://civitai.com/models/94146/katie-mitchell-the-mitchells-vs-the-machines
 - Fiona (Shrek)
+https://civitai.com/models/131310/princess-fiona-ogre
 https://civitai.com/models/105555/princess-fiona-human-sherk-dreamworks-by-yeiyeiart-comissions-open
-https://civitai.com/models/106178/princess-fiona-ogre-sherk-by-yeiyeiart-comissions-open
 - The Croods
 	+ Dawn Betterman
 https://mega.nz/file/QnA1UR4T#RBDTEU2VidpUHPpB6z3vYK-4vojI3bMslO7dp540Ob8
 ~~https://civitai.com/models/72073/dawn-betterman-the-croods~~
 	- Eep
 https://civitai.com/models/126960/eep-the-croods
+	- Hope
+https://civitai.com/models/128996/hope-the-croods
+	- Ugga
+https://civitai.com/models/128962/ugga-the-croods
 - Astrid Hofferson (How To Train Your Dragon)
 https://civitai.com/models/64580/astrid-hofferson-or-how-to-train-your-dragon
 - Goldilocks (Puss in Boots)
@@ -940,9 +996,12 @@ https://civitai.com/models/85214/dinocore-kaya
 - Nimona
 https://civitai.com/models/107100/nimona-netflix-film
 https://civitai.com/models/106778/nimona-lora
-- Rayla (The Dragon Prince)
+- The Dragon Prince
+	+ Rayla 
 https://civitai.com/models/119472/rayla-the-dragon-prince-commission
 https://civitai.com/models/122127/rayla-the-dragon-prince-lora-by-artkoikoi
+	+ Queen Sarai
+https://civitai.com/models/132113/queen-sarai-or-the-dragon-prince
 - AndrAIa (ReBoot)
 https://civitai.com/models/107184/andraia-or-reboot
 

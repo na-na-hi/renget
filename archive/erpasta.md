@@ -25,6 +25,7 @@ These planners are missing features and are therefore incomplete, or they are to
 - [AR calculator by Tom Clark](https://eldenring.tclark.io/)
 - [Poise breakpoints by Basscannon90](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit)
 - [Frame data by sovietspaceship](https://er-frame-data.nyasu.business/)
+- [Scaling data by Chrightt](https://docs.google.com/spreadsheets/d/1zoJIRmr-00XC1Rd-SwIpeNoHNpehY2kRHoh-4WeACxc/edit)
 - [Class optimizer by mugenmonkey](https://www.mugenmonkey.com/eldenring)
 - Stuff by Negator13: [Build planner](https://negator13-eldenring.azurewebsites.net/build) - [AR calculator](https://negator13-eldenring.azurewebsites.net/calculator) - [Class optimizer](https://negator13-eldenring.azurewebsites.net/optimizer) - [Weapon data](https://negator13-eldenring.azurewebsites.net/weapons) - [Armor data](https://negator13-eldenring.azurewebsites.net/armor) - [Item drop chance](https://negator13-eldenring.azurewebsites.net/item-drops)
 - Stuff by CrypidTracker: [AR calculator](https://docs.google.com/spreadsheets/d/1q8GBymIayKbQivML-k8yCzUSYGm8YWSFGetIH8mDrbQ/edit) - [Optimal catalyst calculator](https://docs.google.com/spreadsheets/d/11Lv9SczTNECgGbYDXNDZN16Dv8x863zo9bPJ6ykrjvU/edit) - [Poise Optimiser](https://docs.google.com/spreadsheets/d/1pQsSPWTfKk8qxKld0l7ZEzdg8whp0orHFYAwnzb4-hI/edit) - [Block calculator](https://docs.google.com/spreadsheets/d/1dnaAeUlajRAZahmkUMYWgyjHgeE0NIAKlYrgYydUwRw/edit)

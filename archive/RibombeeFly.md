@@ -1,3 +1,5 @@
+!!! Note: This is a copy of the original version of "Learning to Fly". I originally wanted to publish it as one part, but as it grew longer, I decided to split it into multiple parts to avoid hitting rentry's character limit. The first part of the rework can be found here: https://rentry.org/RibombeeFly1. It's almost identical to this version.
+
 ###(Work in Progress)
 
 

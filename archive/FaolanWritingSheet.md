@@ -27,4 +27,4 @@ Link to my Writings: https://rentry.org/axpio
 ![Image description](https://files.catbox.moe/p73owc.png)
 ![Image description](https://files.catbox.moe/ftz0c0.png)
 ![Image description](https://files.catbox.moe/t4m251.jpg)
-![Image description](https://files.catbox.moe/a1ngla.png)
+![Image description](https://files.catbox.moe/biy9uy.png)

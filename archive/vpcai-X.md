@@ -2,7 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
-Aug. 18th | Mozzamazel (Pokémon Clover) -> [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
+Aug. 18th | Ace Trainer Amanda (Pokémon Clover) [Catbox](https://files.catbox.moe/bz6nc2.png) Card \| -> Mozzamazel [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
 Aug. 9th | Genwunner (OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
 Aug. 8th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
 July 3rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
@@ -35,7 +35,8 @@ Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo101
 **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
 **Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [Chub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 Genwunner | [Catbox](https://files.catbox.moe/19c8tu.png) Card
-**Mozzamazel** -> (Pokémon Clover) <- | [Catbox](https://files.catbox.moe/gf64w5.png) Card
+Ace Trainer **Amanda** -> (Pokémon Clover) <- | [Catbox](https://files.catbox.moe/bz6nc2.png) Card
+**Mozzamazel** | [Catbox](https://files.catbox.moe/gf64w5.png) Card
 
 ### Unedited C.AI Ports:
 Characters | URLs

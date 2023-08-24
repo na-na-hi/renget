@@ -7,14 +7,14 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
 Some articles are already sold-out for certain sizes for the OMOCAT merch. 
 
-**CouncilRyS Beegsmols plushies** (Order period ends 14th August 1800 JST)
-https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
-
 **Hololive Starting Voices**
 https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 
 **4th Fes Blu ray**
 https://bushiroad-music.com/musics/hoxb-10013
+
+**Council 2nd Anniversary Merch (Bangles)**
+https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
 >**HoloSummer**
 - - -
@@ -96,3 +96,6 @@ OMOCAT Hoodie & bag
 https://www.omocat-shop.com/collections/omocat-x-hololive-en
 
 \* * *
+
+**CouncilRyS Beegsmols plushies** (Order period ends 14th August 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys

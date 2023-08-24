@@ -23,3 +23,9 @@
  -> ![Cine Face](https://files.catbox.moe/97pw4b.jpg) <-
 
 ***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

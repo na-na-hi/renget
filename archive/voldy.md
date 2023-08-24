@@ -6,7 +6,7 @@
 ==[**SD News**](https://rentry.org/sdupdates3)==
 ==[**Japanese guide here 日本語ガイド**](https://gigazine.net/news/20220907-automatic1111-stable-diffusion-webui/)== [(JP Resources)](https://rentry.org/zqr4r)
 ==**[NovelAI FAQ](https://rentry.org/sdg_FAQ)**== 
-(3/21/23): 
+
 Interested in LoRA training? Try the [Quickstart LoRA Guide](https://rentry.org/ezlora)
 
 [TOC]
@@ -51,7 +51,7 @@ Powerful All-purpose Model, Stylized Art & Realism Focus   | Oil Painting-like P
 ![A](https://i.imgur.com/CHTowTy.jpeg)   | ![W](https://i.imgur.com/HYQWzWT.png)
 *A fan favorite anime model mix, highly versatile*   | *A model trained on heaps of Danbooru images*
 
--> *(Many more models can be found on [CivitAI](https://civitai.com/))* <-
+-> **(Many more models can be found on [CivitAI](https://civitai.com/))** <-
 
 
 **==Step 4:==** Rename your .ckpt or .safetensors file file to "model.ckpt" or "model.safetensors", and place it in the `/models/Stable-diffusion`folder
@@ -78,6 +78,43 @@ It may *seem* "stuck" but it isn't. It may take up to 10-15 minutes.
 - Enter the address into your browser to enter the GUI environment
 Tip: Hover your mouse over UI elements for tooltips about what they do
 - To exit, close the CMD window
+
+#->`--TI, HYPERNETWORKS, AND LORAS--`<-#
+It's possible to fine-tune your Stable Diffusion experience beyond just the model itself by using 'add-ons' of pre-trained data
+You can download a wide selection of them all at [**CivitAI**](https://civitai.com/)
+There are 3 major ways this data is introduced:
+!!! info
+    **Textual Inversion (TI)**
+Small files typically used to introduce new concepts and characters to Stable Diffusion
+They are passively loaded into memory on startup and can be activated by using their name in any prompt
+Comes in either .pt or .bin file format
+**How to use TIs:**
+- Move your Textual Inversion files into `stable-diffusion-webui/embeddings`
+- Use the name of the file normally without it's extension in your prompt
+eg "1girl, blonde hair, in the style of `arcane`"
+Adjust or decrease strength using ((())) or [[]] around the trigger word
+
+!!! info
+    **Hypernetworks**
+Larger packs of trained data that can be loaded on top of any given model, affects all results regardless of prompt while active
+Often used for replicating distinct artstyles & aesthetics
+Only *one* hypernetwork can be active at a time
+Comes in .pt file format
+**How to use Hypernetworks:**
+- Move your Hypernetwork .pt files into `stable-diffusion-webui/models/hypernetworks`
+- Press the **🎴** button under 'generate' in the WebUI
+- Navigate to hypernetworks and hit "refresh"
+- Select the desired Hypernetwork and adjust it's strength in the prompt eg. `<hypernet:asuka:0.82>`
+!!! info
+    **LoRAs (Low Rank Adaptation)**
+Advanced networks that can be [easily trained](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english#kohyas-script)
+Comes in .safetensor file format
+**How to use LoRAs:**
+- Navigate to the 'Extensions' tab in the WebUI
+- Move your .safetensors LoRA files into `stable-diffusion-webui/models/lora`
+- Press the **🎴** button under 'generate' in the WebUI
+- Navigate to LoRAs and hit "refresh"
+- Select the desired LoRA and adjust it's strength in the prompt eg. `<lora:asuka:0.82>`
 
 #->`--NOVELAI SETUP--`<-#
 *Provided in service to freedom of information, testing and research*
@@ -148,42 +185,6 @@ Note: You may see very slight variation if you are using an optimization such as
 - [Prompt converter](https://seesaawiki.jp/nai_ch/d/%a5%d7%a5%ed%a5%f3%a5%d7%a5%c8%ca%d1%b4%b9) (Convert NovelAI prompt Syntax to WebUI)
 - [Emoji Prompts](https://rentry.org/xnpkp)
 
-#->`--TI, HYPERNETWORKS, AND LORAS--`<-#
-It's possible to fine-tune your Stable Diffusion experience beyond just the model itself by using 'add-ons' of pre-trained data
-You can download a wide selection of them all at [**CivitAI**](https://civitai.com/)
-There are 3 major ways this data is introduced:
-!!! info
-    **Textual Inversion (TI)**
-Small files typically used to introduce new concepts and characters to Stable Diffusion
-They are passively loaded into memory on startup and can be activated by using their name in any prompt
-Comes in either .pt or .bin file format
-**How to use TIs:**
-- Move your Textual Inversion files into `stable-diffusion-webui/embeddings`
-- Use the name of the file normally without it's extension in your prompt
-eg "1girl, blonde hair, in the style of `arcane`"
-Adjust or decrease strength using ((())) or [[]] around the trigger word
-
-!!! info
-    **Hypernetworks**
-Larger packs of trained data that can be loaded on top of any given model, affects all results regardless of prompt while active
-Often used for replicating distinct artstyles & aesthetics
-Only *one* hypernetwork can be active at a time
-Comes in .pt file format
-**How to use Hypernetworks:**
-- Move your Hypernetwork .pt files into `stable-diffusion-webui/models/hypernetworks`
-- Press the **🎴** button under 'generate' in the WebUI
-- Navigate to hypernetworks and hit "refresh"
-- Select the desired Hypernetwork and adjust it's strength in the prompt eg. `<hypernet:asuka:0.82>`
-!!! info
-    **LoRAs (Low Rank Adaptation)**
-Advanced networks that can be [easily trained](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english#kohyas-script)
-Comes in .safetensor file format
-**How to use LoRAs:**
-- Navigate to the 'Extensions' tab in the WebUI
-- Move your .safetensors LoRA files into `stable-diffusion-webui/models/lora`
-- Press the **🎴** button under 'generate' in the WebUI
-- Navigate to LoRAs and hit "refresh"
-- Select the desired LoRA and adjust it's strength in the prompt eg. `<lora:asuka:0.82>`
 #->`--RUNNING ON 4GB (And under!)--`<-#
 ==These parameters are also useful for regular users who want to make larger images or batch sizes!==
 It is possible to drastically reduce VRAM usage with **some modifications:**
@@ -323,6 +324,8 @@ So it is recommended to use flags like `--medvram` in combination with it
 - Having too high of a CFG level will also introduce color distortion, your CFG should be between 5-15
 - On older systems, you may have to change `cudatoolkit=11.3` to `cudatoolkit=9.0`
 - Make sure your installation is on the C: drive
+- If you have an error installing which mentions **.cache\huggingface\* *
+ you need to clear `C:\Users\YOU\.cache\huggingface\`
 - This guide is designed for NVIDIA GPUs *only*, as stable diffusion requires cuda cores.
   AMD users should try [THIS GUIDE](https://rentry.org/ayymd-stable-diffustion-v1_4-guide)
 

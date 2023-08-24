@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/Hz4YpcH.png)
-Frienday Edition
+![suggested OP image](https://i.imgur.com/30gjkzr.png)
+Pringles Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>442541171
+Last thread: >>443342927
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,14 +33,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is Elf Friday; reply to the anchorpost with your knife-eared prompts!
+\>Elf Friday is over; theme suggestions for next week are being taken! >>443379023
  
 ▶News
-\>(8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good
+(8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY
+(8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good
 (8/11) Kayra for all tiers; NAI Reddit AMA: https://www.reddit.com/r/NovelAi/comments/15nne4b/we_are_anlatan_the_team_behind_novelainet
-(8/03) NAI fixes GPUs probably; Kuru talks shop https://www.youtube.com/watch?v=4uJAqwdVIs4
-(07/28) Kayra evals higher than DaVinci https://i.imgur.com/tRhgZq3.jpg
-(07/23) CarperAI/Stability drops 70b finetune to LLaMA2 https://ai.meta.com/llama
+(8/03) NAI fixes GPUs; Kuru talks shop https://www.youtube.com/watch?v=4uJAqwdVIs4
+(07/23) CarperAI/Stability drops 70b LLaMA2 finetune https://ai.meta.com/llama
 
 
 #Perma-Template

@@ -2,10 +2,10 @@
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
-!!! warning Week 2 https://files.catbox.moe/3vl0xv.zip. Next batch of saved pages : 18/08/2023 - there will be a new .zip file every week
+!!! warning J/ope/C Week 3 https://files.catbox.moe/kjyqxe.zip. Next batch of saved pages : 27/08/2023 - there will be a new .zip file every week
 
-[TOC]
-#####July 2023
+!!! note [TOC]
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) July 2023
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |27/07/2023|1|-|Creation of the first version of the Library / Creation of the Collabs & Mentions and Music pages|
@@ -23,7 +23,9 @@
 |31/07/2023|13|Music|Addition of Rebellion|
 |31/07/2023|14|Mentions & Collabs|Addition of a mention from Marine during a zatsudan and a brief summary from an anon about the timestamp.|
 
-#####August 2023
+->[Go back to the TOC](https://rentry.org/List_of_updates)->
+
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) August 2023
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |01/08/2023|15|Music|Addition of a placeholder for an upcoming cover (announced during the [Unpacking stream](https://youtu.be/gKlDWtpGZsg?t=6760)).|
@@ -73,3 +75,31 @@
 |16/08/2023|59|Mentions & Collabs|Addition of the link for the Powerwash Sim collab with Bae.|
 |17/08/2023|60|Mentions & Collabs|Addition of the link of Nerissa's POV of the Advent APEX Legends collab.|
 |17/08/2023|61|Mentions & Collabs|Addition of the link of the 2 oalternative POV of the Advent APEX Legends collab.|
+|18/08/2023|62|Mentions & Collabs|Addition of 5 timestamps with mentions from Kiara's HoloCure stream from 16/08/2023.|
+|19/08/2023|63|Mentions & Collabs|Addition of 7 timestamps with mentions from Kiara's GTA4 stream from 19/08/2023.|
+|19/08/2023|64|Changelog| J/ope/C Week 3 backup .zip file uploaded|
+|19/08/2023|65|Mentions & Collabs|Addition of placeholders for possible Nerissa's POV and alts for the Baldur's Gate 3 collab with Kiara, Mori & Bijou|
+|19/08/2023|66|Mentions & Collabs|Addition of a timestamp for a mention during Bijou's Elden Ring stream from 19/08/2023|
+|20/08/2023|67|Music|Probable date for the upcoming third cover|
+|20/08/2023|68|Mentions & Collabs|Addition of placeholders for the upcoming Terraria VC collab with FWMC.|
+|20/08/2023|69|Mentions & Collabs|Addition of placeholders for the upcoming Phasmophobia collab with Advent|
+|20/08/2023|70|Mentions & Collabs|Addition of placeholders for the upcoming Splash Party! Sunshine! with Advent|
+|20/08/2023|71|Mentions & Collabs|Addition of placeholders for the upcoming Splash Party! Night! with Advent|
+|20/08/2023|72|Mentions & Collabs|Addition of a timestamp for a mention done by Suisei during her Mr. Driller Encore stream from 01/08/2023|
+|20/08/2023|73|Frontpage|Slight change of aesthetics|
+|20/08/2023|74|Mentions & Collabs|Addition of comeback buttons for ergonomic purposes|
+|20/08/2023|75|Music|Addition of comeback buttons for ergonomic purposes|
+|20/08/2023|76|Changelog|Addition of comeback buttons for ergonomic purposes|
+|20/08/2023|77|Music|Slight change of aesthetics|
+|20/08/2023|78|Mentions & Collabs|Slight change of aesthetics|
+|20/08/2023|79|Changelog|Slight change of aesthetics|
+|20/08/2023|80|Mentions & Collabs|Addition of 3 timestamps with mentions from Kiara's GTA4 stream from 20/08/2023.|
+|20/08/2023|81|Music|Addition of a torrent link and a temporary MEGA link for Unarchived Karaoke #1 : Singing 2000's bops!|
+|20/08/2023|82|Mentions & Collabs|Addition of Mori's POV from the BG3 collab.|
+|21/08/2023|83|Mentions & Collabs|Addition of Nerissa & Kiara POVs from the BG3 collab.|
+|21/08/2023|84|Mentions & Collabs|Addition of FWMC's POV from the Terraria collab.|
+|22/08/2023|85|Mentions & Collabs|Addition of Bijou's POV from the BG3 collab.|
+|23/08/2023|86|Mentions & Collabs|Addition of 5 timestamps with mentions from Kiara's solo BG3 stream from 23/08/2023.|
+|23/08/2023|87|Mentions & Collabs|Addition of a timestamp with a streamer-chat interaction with Fauna during her 3D beach stream from 23/08/2023.|
+
+->[Go back to the TOC](https://rentry.org/List_of_updates)->

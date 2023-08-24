@@ -25,7 +25,7 @@ When it comes to the Switch, such software can include save managers, emulators,
 
 #####Atmosphere
 ***
-A free and open source CFW created by [ReSwitched](https://github.com/reswitched).
+A free and open source CFW created and maintained by [SciresM](https://github.com/SciresM) and [other contributors](https://github.com/Atmosphere-NX/Atmosphere/graphs/contributors).
 
 #####SXOS
 ***

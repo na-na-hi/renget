@@ -1,6 +1,6 @@
 #CptPants's Bots
--> Last updated: August 15 <-
-Bots by the fella who goes by CptPants. Currently inative due to a lack of GPT4 access.
+-> Last updated: August 23 <-
+Bots by the fella who goes by CptPants. Currently mostly inative due to a lack of GPT4 access.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
 *Assume all bots were made for NSFW unless they're tagged otherwise.*
@@ -20,6 +20,7 @@ Pic | Character | Source | Description | Link
 ![Marina](https://files.catbox.moe/8k4cbf.png) | Marina Ida | *Splatoon* | The Octoling idol from Splatoon 2. Don't get cooked, stay off the hook! | [Booru](https://booru.plus/+pygmalion1318) / [Character Hub](https://www.chub.ai/characters/cptpants/Marina)
 ![The Master](https://files.catbox.moe/zeznxs.png) | The Master | *Fallout* | The big bad of *Fallout 1*. Chat with him about Super Mutants or nuclear wastelands or what have you. | [Character.ai](https://beta.character.ai/chat?char=R9RarToT8PLKrEJHquVkgo4O48lu-TgqeUV3iGYGTbo) (outdated!) / [Booru](https://booru.plus/+pygmalion1416) / [Character Hub](https://www.chub.ai/characters/cptpants/the-master)
 ![The Noise](https://files.catbox.moe/rsin9o.png) | The Noise | *Pizza Tower* | A character from the indie game *Pizza Tower*. It's like the Noid, but noisier. | [Character.ai](https://beta.character.ai/chat?char=8uRRHQX8YQbN3oojnbokcH9YftxA2Udx31nGj2ZshCQ) (outdated!) / [Booru](https://booru.plus/+pygmalion1421) / [Character Hub](https://www.chub.ai/characters/cptpants/the-noise)
+![Palutena](https://files.catbox.moe/rtvve3.png) | Palutena | *Kid Icarus* | The Goddess of Light from Kid Icarus. | [Character Hub](https://www.chub.ai/characters/cptpants/palutena-94e68ca0/main)
 ![Rennala](https://files.catbox.moe/dgm31o.png) | Rennala, Queen of the Full Moon | *Elden Ring* | The lonely Carian Queen, cradling her amber egg. Will you ask for rebirth? Or take advantage of her vulnerable situation? | [Character.ai](https://beta.character.ai/chat?char=VOQtfz3ESec0lHNMBhwwXLgS_nAnYVyIPs0if_VO7gc) (outdated!) / [Booru](https://booru.plus/+pygmalion49) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/Rennala)
 ![Sekhmet](https://files.catbox.moe/delqxh.png) | Sekhmet of Death | *Last Origin* | Dark-skinned soft mommy elf bio-android. Let her pamper you too. | [Character.ai](https://beta.character.ai/chat?char=p768wZdgK9uqLzmhNh8G6JdfpSck8cNQKuB1I3Xdwhc) (outdated!) / [Booru](https://booru.plus/+pygmalion51) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/sekhmet-of-death)
 ![2B](https://files.catbox.moe/r3eax2.png) | YoRHa 2B | *NieR: Automata* | The beautiful combat android, made to act in-character. | [Booru](https://booru.plus/+pygmalion191) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/yorha-2b)

@@ -13,7 +13,7 @@ A board-wide fanfiction writing contest hosted by /wg/. We're hoping to bring in
 #####*What are the rules?*
 1. Stories must have a minimum of 500 words. There is no maximum word limit, but keep in mind that it's unlikely many voters would be willing to read a whole novel.
 2. Your story must star a vTuber in some way or form. Fans, cosplayers, roleplayers, etc. do not count as vTubers. As long as they are a vTuber, you can have them do whatever and act however you like. The chuuba also does not have to be the main character in the story (obviously just don't write a fic full of OCs then only mention them in one sentence).
-3. The submission period for stories is one month, starting on **07/25** and ending on **08/25**. You can submit a story at any time during this period, and all stories that have been submitted will be available to view in this archive. An additional week will be given after the end date for voters to read some stories and decide on their favourite **(08/26 - 09/01)**. The voting period will last three days **(09/02 - 09/04)** and will be completed via Google Forms.
+3. The submission period for stories is one month, starting on **07/25** and ending on **08/25 (UTC-12)**. You can submit a story at any time during this period, and all stories that have been submitted will be available to view in this archive. An additional week will be given after the end date for voters to read some stories and decide on their favourite **(08/26 - 09/01)**. The voting period will last three days **(09/02 - 09/04)** and will be completed via Google Forms.
 4. The contest has two main categories: SFW and NSFW. There will be separate polls for both categories, meaning there will be two winning stories at the end of the contest -- one for the SFW category and one the NSFW category.
 5. If a story already exists within the main archive, it will not qualify for the contest.
 
@@ -75,6 +75,7 @@ Here you can find all the SFW fics that have been submitted for the contest.
 [Meat is Murder](https://rentry.org/t9nz5c) (Mumei, Fauna, /meat/, SFW)
 [The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult-ish)
 [Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, western, comedy)
+[Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (SFW, Ina, Fluff)
 
 ###NSFW archive
 Here you can find all the NSFW fics that have been submitted for the contest.
@@ -82,3 +83,7 @@ Here you can find all the NSFW fics that have been submitted for the contest.
 [Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
 [House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (NSFW, Koseki Bijou, Nerissa Ravencroft, Shiori Novella, cunnilingus)
 [Yuzuki Veterinary Services-Second Opinion](https://docs.google.com/document/d/e/2PACX-1vQ346TAZwSIjTMyIe2c73cVdv79-AzEpZ8dmhCupGFnQ6N5uvqK-iuyds-5VQF4WYCbMrDg9Rmnjo_-/pub) (NSFW, Towa, Choco, Bestiality, Gangbang)
+[Gravity's Rainbow](https://docs.google.com/document/d/e/2PACX-1vQf1wqsvCuyD9kzDH7v3k3RYtlsAK__IRQCDAEctj20rJllnZohytFo-Dy9xbL5WpfvxGZ-WEr8z6Ni/pub) (NSFW, Mori, Korone, Vore, Komodo Dragon)
+[I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be the Internet Idol Hoshimachi Suisei!](https://docs.google.com/document/d/e/2PACX-1vTJyQudJBozdhuqG2AiLx437YyIi1sTxtqpQXzh7Sa_eZ07Lb42QarXYZnZIQgteColiJ46W7YDFzUT/pub) (NSFW, Suisei, Yagoo, A-chan, Sora, (lots of) Incest, Drama, Comedy, Scratching, Biting)
+[Please, Mrs. Usada!](https://docs.google.com/document/d/e/2PACX-1vRIuEVDjeLxTSnmzUuHf1RavArK665wNktjmCIIz7xpaJ7oIvzogmt-3nHEeAEE1tFWPGpz2Z7Q63BG/pub) (NSFW, Pekomama, /ss/, cheating)
+[FacelessDegenerates,com](https://rentry.org/wzcar)(NSFW, Noel, Dark, Misery porn, **Interactive!**)

@@ -90,6 +90,8 @@ Some examples include but are not limited to:
 *Siru Mii* (JP): https://www.youtube.com/@Siru_mii
 *Minon* (JP): https://www.youtube.com/@MINON_MAOUKOUHO318
 *Momo Maru* (EN): https://www.youtube.com/@MomoMaruVT
+*Urato Chieru* (JP): https://www.youtube.com/@UratoChieru
+*2wintails* (EN): https://www.twitch.tv/2wintails
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

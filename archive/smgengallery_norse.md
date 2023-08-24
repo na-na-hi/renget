@@ -22,7 +22,7 @@
 
  -> **Ullr** <-
  -> = *Ul* <-
- -> *{Nothing more to it, the -lr is silent, and is more to describe the natural recovery-inflection you'll make when you pronounce it correctly. It really is that simple. It's just Ul}* <-
+ -> *{Nothing more to it, the -lr is silent, and is more to describe the natural recovery-inflection you'll make when you pronounce it correctly. It's not even 'oooolur'. It really is that simple. It's just Ul, same phonetic as the last half of the word 'Hull'}* <-
 
  -> ![Splash](https://files.catbox.moe/pyvefc.png) <-
 
@@ -95,6 +95,44 @@
 
  -> ![Concept](https://files.catbox.moe/yviua9.jpg) <-
 
+
+ -> **Surtr** <-
+ -> = *Sur-t-r* <-
+ -> *{Hardswitch from T to R, no Turr, it's quite literally 'T-R'}* <-
+
+ -> *{Having been the previous Fire Giant.... he's had a lot of styles and designs over the years}* <-
+
+
+ -> ![Splash](https://files.catbox.moe/nns36i.jpg) <-
+
+ -> ![Concept](https://files.catbox.moe/dl5bwy.jpg) <-
+
+ -> ![Prev. Versions](https://files.catbox.moe/z6zqyz.jpg) <-
+
+ -> ![Weapon Concept](https://files.catbox.moe/12xo09.jpg) <-
+
+ -> ![Cinematic Concept]() <-
+
+ -> ![Cinematic Face](https://files.catbox.moe/aqsust.png) <-
+
+ -> ![Cinematic Face FG ](https://files.catbox.moe/je225e.png) <-
+
+-> ![Fire Giant S5-9](https://files.catbox.moe/cuq8vt.png) <-
+
+-> ![Fire Giant S5-9 Surt Turn](https://files.catbox.moe/nfdrar.jpg) <-
+
+-> ![Fire Giant S2](https://files.catbox.moe/bvk6b3.jpg) <-
+
+-> ![Fire Giant S2 Concept](https://files.catbox.moe/fehgh2.jpg) <-
+
+-> ![Beta Fire Giant](https://files.catbox.moe/dax3qp.jpg) <-
+
+-> ![Adv. Surt](https://files.catbox.moe/ytkbro.jpg) <-
+
+-> ![HaB Cinematic Surt](https://files.catbox.moe/0qpkzz.jpg) <-
+
+-> ![HaB Cinematic Surt Gif](https://files.catbox.moe/mzqk48.gif) <-
+
  -> **Loki** <-
  -> = *L-oh-Key* <-
  -> *{You should know this...}* <-
@@ -111,7 +149,7 @@
 
  -> ![Concept](https://files.catbox.moe/7pis22.jpg) <-
 
- -> ![Promo](https://files.catbox.moe/uxebd8.png) <-
+ -> ![Promo](https://files.catbox.moe/wso0v0.png) <-
 
  -> ![Classic Splash (Young Hel form)](https://files.catbox.moe/2qoxh8.jpg) <-
 
@@ -119,6 +157,7 @@
  -> = *Fen-R-ii(z)s* <-
  -> *{Don't ask ~~because in this case... I uhh... actually have no idea how or why or it came to be spelt with a -r suffix, and everyone I know who also knowledgeable in the field doesn't actually know either (which is contextually pretty fuckin rare). I think this is just kind of one of those semi-retarded quirks of history we'll never get to the bottom of, and is best stated as ''probably just caught on'' with the transition from the Old Norse language~~}* <-
  -> = *{Almost a hard -s, best said with a silent z inflection. The big dawg has quite a few names, and ironically, the anglacisation of one of them puts across his correct pronunciation better, Fenrisulfr ~~further adding to the bewilderment of the -r suffix (like, seriously, ???)~~. If you weren't aware 'Fen' is a different way to say wetlands, (typically Peat-bog wetlands, common in Scandinavia), while -Ulf (-wolf) is the same pronunciation found in the word for the Norse Werewolves (the Ulfhedinn); Fenrisulfr literally translating as (the) Wolf Fenrir, or (the) Wolf of the Fens. Hence simplest translations would be, Fenrir = 'That which lives in the Wetlands' and Fenrisulfr = 'Wolf of the Wetlands'. ~~Damnsite easier than his other name... 'Hrodvitnir'~~}* <-
+
  -> = *{tl;dr Fenris, Don't ask why, and yes, people will understand who you're talking about if you call the damn mutt Fen-Rear}* <-
 
  -> ![Splash](https://files.catbox.moe/ujmp3j.jpg) <-
@@ -149,3 +188,11 @@
  -> ![Splash](https://files.catbox.moe/s71pcb.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/meg4pg.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

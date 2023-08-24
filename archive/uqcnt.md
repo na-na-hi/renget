@@ -4,3 +4,5 @@ Part 3: https://rentry.org/m8n2x
 Part 4: https://rentry.org/t3zmm
 Part 5: https://rentry.org/s43ag
 Part 6: https://rentry.org/ouzz3
+
+Fantasy Scribbles: https://rentry.org/hykw5

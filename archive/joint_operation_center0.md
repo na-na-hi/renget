@@ -6,12 +6,15 @@ This is the still relatively fresh library of /ope/, the Nerissa Ravencroft Gene
 
 ->![](https://pbs.twimg.com/profile_banners/1656528951303614464/1690339905/600x200) <-
 
+**Useful Links**
 >Nerissa's Youtube channel
 https://www.youtube.com/@NerissaRavencroft
 >Nerissa's Twitter
 https://twitter.com/nerissa_en
->Debut Stream (on 30/31.07.2023)
+>Debut Stream (on 30/31.07.2023) & Crunchyroll interviews.
 [![](https://files.catbox.moe/8oyixc.jpg)](https://www.youtube.com/watch?v=gg3SrFzHn9M)
+https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
+https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
 >Merch
 https://rentry.org/nerissa_ravencroft_merch
 >Art tags / Danbooru
@@ -25,18 +28,18 @@ Lewds : #depravencrafts on Twitter
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Library & Streams**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-#####[Demonry of Sound](https://rentry.org/karaokes_songs_v0)
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [Demonry of Sound](https://rentry.org/karaokes_songs_v0)
 The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
-#####[Stream Recommendation]
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [Stream Recommendation]
 Will open when we'll have enough streams in order to poll the general on a weekly basis. Will open on August 27th.
-#####[Members Streams]
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [Members Streams]
 Will open when the first mengen frame will pop-up. Will contain the link hidden in the thumbnail (just click it) and a brief description of each stream.
-#####[The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
 Where you can find the collabs from the other holomem channel Nerissia took part of. Major mentions are also stored in it.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Technical**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-######[Changelog](https://rentry.org/List_of_updates)
+###### ![Image description](https://files.catbox.moe/f9inkg.png) [Changelog](https://rentry.org/List_of_updates)
 
 
 !!! warning About recorders (ytarchive, twitterspaces...), a bunch of neet tools and how to use them, please refer to /who/'s tools guide: https://rentry.org/xu6td. You're going to need it and you're likely to use some of that stuff at some point, especially for unarchived karaokes.

@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-07-27)==<-
+->==(Updated 2023-08-19)==<-
 ***
 [TOC2]
 ***
@@ -27,8 +27,8 @@ Edit: 22 Apr 2023 11:04 UTC
 https://rentry.org/oaicards
 
 Pub: [23 Apr 2023 No.92969512](https://desuarchive.org/g/thread/92968243/#92969512)
-Edit: 21 Jun 2023 14:31 UTC
-- 7945 words, 42 minutes read
+Edit: 30 Jul 2023 11:15 UTC
+- 7862 words, 42 minutes read
 
 *"A little explanation with an example on how Silly reads a card, and some general tips on prompting AI."*
 ***
@@ -55,7 +55,7 @@ Edit: -
 https://rentry.org/SillyT_Lorebook
 
 Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
-Edit: 13 Jul 2023 13:31 UTC
+Edit: 05 Aug 2023 11:38 UTC
 - 2078 words, 12 minutes read
 
 *"A how-to on Lorebooks. What they are, how to use them, with examples."*
@@ -66,8 +66,8 @@ Edit: 13 Jul 2023 13:31 UTC
 https://rentry.org/NG_CharCard
 
 Pub: [12 Jul 2023 No.94641345](https://desuarchive.org/g/thread/94640653/#94641345)
-Edit: 13 Jul 2023 13:31 UTC
-- 2844 words, 16 minutes read
+Edit: 08 Aug 2023 13:48 UTC
+- 3752 words, 21 minutes read
 
 *"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***

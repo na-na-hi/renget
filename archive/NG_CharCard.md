@@ -183,7 +183,7 @@ Example:
 
 The downside to this approach is that it always triggers, every round, whereas using Lorebook you can set a probability level. 
 
-## KISS Principal
+## KISS Principle
 **TLDR: Keep It Simple, Stupid**
 
 Generally, I see authors putting *way* too much info into their cards. This leads to a bunch of problems. 

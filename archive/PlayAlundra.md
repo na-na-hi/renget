@@ -17,12 +17,13 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
-**Kobayashi** | **558 Tokens (298 Permanent)**
-![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
+**Puppeteer** | **770 Tokens (605 Permanent)**
+![Rip FoBS updates, Zell please please continue it even when your newer stuff is good ;-;](https://files.catbox.moe/dhg6sd.png) | Puppeteer from Forest of Blue Skin, she controls three dolls/puppets that milk the mc in different ways. Well, now they milk **YOU** in different ways. Very very self-indulged card. If you have played FoBS, you most likely know what this card is about, but I hope you like it anyway. Didn't make it have "Bad end" like in game tho, so I understand if that makes you bit angeru. Might edit it to have one someday. | [Card](https://files.catbox.moe/xjhzds.png) [JSON](https://files.catbox.moe/etzcus.json) [CHUB](https://www.chub.ai/characters/playalundra/puppeteer-abf005c6)
+**Victoria** | **1044 Tokens (708 Permanent)**
+![No suburban sprawl here.](https://files.catbox.moe/xtsm1e.png) | Retro-futuristic Victorian-era steampunk battle maid. Her limbs are replaced by mechanical ones. She owns a bakery. This is, believe it or not, more vanilla focused bot. It has 4 starters. Last starter is about you being her child. I hope you like it. Protip, listen some ghibli music with this card. | [Card](https://files.catbox.moe/41izyw.png) [JSON](https://files.catbox.moe/8sioh6.json) [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e/)
 **Wren** | **731 Tokens (397 Permanent)** 
 ![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
-**Boo** | **485 Tokens (341 Permanent)** 
-![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
+
 
 
 
@@ -31,8 +32,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **Oppai Lolis** | *They are short, are or look young, and have big boobas*  | Links here
 :----: | ------ | :----:
-**Ilulu**  | **871 Tokens (340 Permanent Tokens).** 
-![But where is the lore?](https://files.catbox.moe/mdy0fe.png) | Ilulu paizuri rapes you in an alleyway. Completely off-character but is based on pre-Kobayashi friendship Ilulu. Lore nowhere to be found, it's just you and the rapist Dragon. Get ready for her to pin your arms above your head if using Claude, seems to have trouble with size difference and such.  | [Card](https://files.catbox.moe/j41mha.png) [JSON](https://files.catbox.moe/yht6u8.json)
+**Ilulu**  | **556 Tokens (306 Permanent)** 
+![But where is the lore?](https://files.catbox.moe/mdy0fe.png) | Ilulu paizuri rapes you in an alleyway. Completely off-character but is based on pre-Kobayashi friendship Ilulu. Lore nowhere to be found, it's just you and the rapist Dragon. Get ready for her to pin your arms above your head if using Claude, seems to have trouble with size difference and such. Also, I edited it to use less tokens tho I wonder if anyone has ever even used this card... | [Card](https://files.catbox.moe/46uoh2.png) [JSON](https://files.catbox.moe/ko2aea.json)
 **Sanna** | **495 Tokens (268 Permanent).** ==My most popular card for some reason==
 ![Dude, she is like 11](https://files.catbox.moe/0dlzpn.png) | Random OC I came up with one day, Naive oppai loli. Likes being helpful and fantasizes about romance. She likes ice cream, is way too easy to manipulate. She is also completely oblivious of her gigantic breasts.  Take her, fuck her, I don't care, go on, ya'-- Thank you [Silver Surfer Anon](https://rentry.org/SilverSurfer) for making the art, such a legend. |  [Card](https://files.catbox.moe/p0fxrd.png) [JSON](https://files.catbox.moe/ao1a7y.json) [CHUB](https://www.chub.ai/characters/playalundra/Sanna)
 **Dixie** |  **421 Tokens (282 Permanent).**
@@ -50,6 +51,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![No running in the library](https://files.catbox.moe/0hqpsk.png) | A mysterious house appears next to your usual forest path, and you find a quiet doll there keeping her own small library. Wanna keep her company? Maybe help her maintain the small library? Who am I kidding, we both know what you will do to her. Enjoy. Art by the amazing [Silver Surfer Anon](https://rentry.org/SilverSurfer) | [Card](https://files.catbox.moe/07042p.png) [JSON](https://files.catbox.moe/rg6nkk.json) [CHUB](https://www.chub.ai/characters/playalundra/pupa-emily-godwin/)
 **Goddess of MS Paint doodles** | **918 Tokens (634 Permanent)**
 ![CalArts got nothin' on this!](https://files.catbox.moe/7us75b.png) | **The greatest Goddess walk upon this mortal world, the one, the only, the one who saves the righteous and strikes down the evil. The one whose songs will be sang for the eternity! THE GODDESS OF MS PAINT DOODLES!** Her name is Mina Sofia. Like MicroSoft. | [Card](https://files.catbox.moe/3b2usz.png) [JSON](https://files.catbox.moe/m7ghaj.json) [CHUB](https://www.chub.ai/characters/playalundra/goddess-of-ms-paint-doodle)
+**Boo** | **485 Tokens (341 Permanent)** 
+![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
 
 ##Boring humans
 
@@ -61,6 +64,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![Benis :D](https://files.catbox.moe/wt7id1.png) | Mika, Aki, and Mikko doing tank stuff. Three starters. 1. You are their cook and make(please make) good food for them. 2. You are exchange student, yes I know a trope but please don't judge me. It's hard. 3. You are a reporter doing an interview. None of those make any sense for lore, maybe 3rd one to some extent but I am very tired right now. I hope you have fun with Finngolia represents. Please fix and fork it in chub or something if possible. Or send me e-mail with your proper version.| [Card](https://files.catbox.moe/5n8xpz.png) [JSON](https://files.catbox.moe/a25ncp.json) [CHUB](https://www.chub.ai/characters/playalundra/2a9d602b-b02a-4156-b652-ced28065635f/)
 **Sadie** | **771 Tokens (499 Permanent)**
 ![COME CRAWLING FASTER! OBEY YOUR MASTER! YOUR LIFE BURNS FASTER! OBEY YOUR MASTER! MASTER!](https://files.catbox.moe/90yz73.png) | Sadie is your personal tall maid who helps you around house, cleaning, cooking, and generally taking care of things. She tries to keep her composure to be as professional as possible and won't really fight back if you need... Something from her. Three starters: 1. Waking up in the morning. 2. Coming back from work at noon. 3. Evening with her doing some yoga(it's her hobby). Now be a responsible Master for her alright? | [Card](https://files.catbox.moe/ybs7mq.png) [JSON](https://files.catbox.moe/t281k7.json) [CHUB](https://www.chub.ai/characters/playalundra/sadie-cffe94e0/)
+**Kobayashi** | **558 Tokens (298 Permanent)**
+![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
 
 # Stuff from other people that I like a lot
 

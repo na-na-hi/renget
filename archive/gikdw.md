@@ -3,24 +3,20 @@
 ->**[Full Card Collection, v2 Cards](https://rentry.org/dpg2w)**<-
 ->**[Volume One, v1 Cards](https://rentry.co/d4gkb2)**<-
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
-->**[Volume Four, v1 Cards, Ultra WIP.](https://rentry.org/z8m2r)**<-
+->**[Volume Four, WIP.](https://rentry.org/z8m2r)**<-
 ***
+->**19/08/23: 12/12 uploaded.**<-
 ->**30/07/23: Forgot to upload v1 for Cerun/Mink; will probably be the last set I support v1 spec for as my catbox is near capacity from having 2 of each card on it. If you haven't already moved over to v2, I hope your frontend has fallback support lmao.**<-
 ->**17/07/23: 7/12 Uploaded. Not dead; had my internet die, then a hard drive die, then data corruption on the drive I use for AI shenanigans; all fine now. Rest of this batch "soon" hopefully.**<-
 ->**07/07/23: 4/12 Uploaded.**<-
 ->**01/07/23: 2/12 Uploaded, 1 WIP Uploaded, 1 Bonus Card Uploaded.**<-
-***
-->**In the process of trying to flesh out a few rough concepts - I've accidently made a few extra cards. Adding some into this batch, this and the next are 12 each. ~~plus two bonus cards, lmao~~**<-
-***
-->**Not including example chatlogs, I doubt anyone ever bothered to read them.**<-
-->**Hoping to have these ready to start publishing to Chub, before I finish slowly rolling out Volume Two there.**<-
 ***
 ->**{{User}} is usually defined in the Scenario - change if you want.**<-
 ***
 ->**Feedback? anon_doofus@proton.me**<-
 ***
 [TOC]
-![Art is WIP](https://files.catbox.moe/purcys.jpg)
+![](https://files.catbox.moe/2rbin9.jpg)
 ***
 
 ###### Dominque 
@@ -104,22 +100,22 @@ Male Anthro Bull - Daddy-mode Bull runs a Bakery, ruining his business by being 
 
 ***
 
-###### Succubus MILF
+###### Petronia
 Female Succubus - Mommy-mode Succubus sneaks herself into your room in the night for a slurpy snack.
 
-![](TODO)
+![](https://files.catbox.moe/8ji8n4.png)
 1401 Tokens (1402 Permanent)
-[World Info](TODO) Some 1780 Tokens. Six optional Chars, and expands a quirk.
+[World Info](https://files.catbox.moe/jw8mkn.json) Some 1780 Tokens. Six optional Chars, and expands a quirk.
 >Has a few, optional Characters tied into a quirk I implemented, will world info them to reduce token count.
->>SillyTavern **seems** to finally support built-in world info now, so that's conviently timed. 
+>>SillyTavern **seems** to finally support built-in world info now, so that's conveniently timed. 
 
 ***
 
-###### Chimera
+###### Norirna
 Futanari Monster - Spooky cave crawler finds (You) stumbling about in 'her' tunnels - and decides you look like fun~! Meet her friend deeper inside!
-~~Be very suprised when she mistakes you for a chick she can breed!~~
+~~Be very surprised when she mistakes you for a chick she can breed!~~
 
-![](TODO)
+![](https://files.catbox.moe/4u2ndf.png)
 3134 Tokens (1723 Permanent)
 [I've made an adorable monster. I regret everything.](https://files.catbox.moe/avnh02.png)
 >Inspired by "Amy" in "Monster Girl Dreams".
@@ -142,6 +138,12 @@ Low effort, "high" quality rewrite of an existing card. Some Brony shilled his s
 ![](https://files.catbox.moe/495025.png)
 2278 Tokens (1486 Permanent
 >I'm not a Ponyfag - I have no idea how well this will scratch your itch if you are.
+
+###### Bonus: Kirishima
+Saw a request for a CanvasSolaris OC card on the SillyTavern Discord. Decided to maek it since nobody else had, I like CS's art, and because I felt like it.
+
+![](https://files.catbox.moe/cmypm9.png)
+3220 Tokens (2158 Permanent)
 
 ***
 Dominque
@@ -205,13 +207,13 @@ Bull Baker
 
 Succubus MILF
 - [x] Char. Defs 
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update
 
 Chimera
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [x] Optimize
 - [ ] Test & Update
 ***

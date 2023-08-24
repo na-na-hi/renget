@@ -17,12 +17,14 @@ Take a shot every time:
     -Steve Blum Fast Food/theme restaurant
 -Someone mentions how one of the drinking games is fatal
 
-Unicorn: Warriors Eternal
--Emma denies being gothic elf chick
--Buddha Boy looks particularly high
--there's a shot focusing on Foxy Lady's bunda
--some English Bobbies show up just to get wrecked
--finish your drink if there's a random tragic twist in the last 5 minutes, then go get the rest of your drinks and finish those if it still hurts
+My Adventures with Superman
+-Clark spills spaghetti
+-Clark swaps outfits
+-Lois does something to inspire the lust of tomboyfags
+-Lois acts unreasonably
+-Jimmy talks about a conspiracy
+-A legacy villain is reintroduced
+-Superman goes supermansaiyan
 
 Doctor Soap
 -they invent something new

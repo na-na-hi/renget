@@ -15,3 +15,11 @@
  -> ![Splash](https://files.catbox.moe/utoq14.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/80ax9w.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

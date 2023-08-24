@@ -1,4 +1,7 @@
-!!! note Last Updated: 2023/08/13
+!!! note Last Updated: 2023/08/20
+	Last major update: added complevel section
+
+
 
 ->![/vr/ FAQ](https://i.imgur.com/ZQBoUWe.png)<-
 
@@ -10,7 +13,7 @@ Want to play Doom but don't know how? Follow the three steps listed below. It bo
 ######Get an IWADs
 Doom runs using .wad files. These can be PWAD files (patch-wad, for custom maps and such) and IWAD files (internal-wad, full game assets).
 You **need** an IWAD to play Doom/Hexen/etc and their mods.
-You can buy most of them through Steam/GOG/etc but here they are in case you don't want to spend money on a 30 year old game.
+You can buy most IWADs through Steam/GOG/etc (the IWAD will be in the game files) but here they are in case you don't want to spend money on 30 year old games.
 
 Link | Size | Contents
 ---|---|---
@@ -69,13 +72,51 @@ If you still want to get good, be it singleplayer or multiplayer, here are some 
 * *PRO DOOM MONSTER STRATS*
 [Youtube Video](https://www.youtube.com/watch?v=HJcf0aOwmiA)
  
+
+###What is Boom, MBF, limit-removing, etc? What are complevels?
+![boom-compat](https://i.imgur.com/bGvfRxD.png)
+You might have heard these terms before. These tell you which sourceports/settings you need to use in order to play the WAD in its intended way. If you can't bother reading all this, there are some videos in the *More info* subsection.
+
+If you plan on playing everything on GZDoom regardless; that's fine, a lot of people already do this. You can skip this section. Otherwise keep reading, especially if you plan on mapping.
+
+######What does it all mean?
+
+There are many mapping standards for Doom, and map makers will pick one to make their map with. They will give this information in the readme or wherever they released their map, which will determine which sourceport(s) you can use to play the map.  
+Most common standards include:
+
+**Vanilla compatible:** DOS exe or a sourceport that emulates it perfectly. If a sourceport emulates the exe perfectly but doesn't crash due to hardcoded limits (e.g. map too complex), then it is said to be **limit removing**. Chocolate Doom is currently the only mainstream sourceport that is *vanilla compatible* but isn't *limit removing*.
+
+**Boom/MBF/MBF21 compatible:** Supports advanced features for mappers to make cool stuff with. Boom is the predecessor of MBF, which is the predecessor of MBF21. However none of them obsolete, and if anything Boom is the most popular among these standards.
+
+!!! info Some ports like GZDoom or Eternity support all of the above, however they don't do it *perfectly* and can't record demos, so they're not considered under these categories. You can still play your WADs using them if you'd like.
+
+**GZDoom/Eternity:** These engines boast a ton of advanced features, and so a map made for GZDoom will only run on GZDoom (or sometimes a related port like Zandronum) and a map made for Eternity will only run on Eternity, unless stated otherwise.
+
+######What is complevel?
+Some ports like DSDA Doom and Woof! support many standards, and they allow you to switch between them. You just need to use the `-complevel` parameter when launching a WAD, short for "compatibility level". For a list, see the "More info" section or [click here](https://doomwiki.org/wiki/PrBoom%2B#Compatibility_modes) (yes both DSDA and Woof! use PrBoom+'s parameters, although [Woof!'s is a bit more limited](https://doomwiki.org/wiki/Woof!#Compatibility_modes)). 
+
+Since these ports emulate these standards perfectly, they also allow you to record and play demos without having desync issues. Demos are useful for giving feedback to mapmakers, or speedrunning if that's your cup of autism.  
+Note that DSDA Doom has a `-dsdademo` parameter that allows you to save/load while recording a demo, which is normally not possible. Such demos can only be played back on DSDA Doom.
+
+For majority of cases, you're gonna be using `-complevel 2` or `-complevel 9` which are vanilla Doom (v1.9) and Boom respectively.
+
+It should be noted that some ports like Eternity have similar parameters for vanilla Doom only (for Eternity its `-vanilla`). 
+
+######More info
+[PrBoom+'s Compatibility Levels Explained](https://www.youtube.com/watch?v=XFZFNE0a82w) by Decino (applies to DSDA Doom and Woof also)
+
+[What even IS "Vanilla Doom"](https://www.youtube.com/watch?v=zA-TJxkgZuU) by Doomkid
+
+[Compatibility Modes](https://doomwiki.org/wiki/PrBoom%2B#Compatibility_modes) on DoomWiki
+
+[Comparison of Source Ports: Comparison by Compatibility](https://doomwiki.org/wiki/Comparison_of_source_ports#Comparison_by_compatibility) on DoomWiki (rest of the page is also a good resource)
  
 ###How to make maps/mods
 
 **Isn't it difficult to make maps?**
-Not at all, it's actually really easy. This video will give you an idea of the basic process:
+Not at all, it's actually really easy to get a basic one going. This video will give you an idea of the process:
 
-[*ANYONE can make a DOOM map* by Jimmy](https://youtu.be/c4-5d10dCyQ)
+[*ANYONE can make a DOOM map*](https://youtu.be/c4-5d10dCyQ) by Jimmy
  
 ######How to start mapping?
 Download Ultimate Doom Builder. It comes with support for pretty much all map formats, and it's the most popular editor so it'll be easier to seek help when you need it. Some tutorials are linked below.
@@ -196,16 +237,19 @@ Over here!
  
 ###Miscellaneous 
 
-**Why do people love/hate Brutal Doom**
-Everyone has their reason (reloading, ironsights, general feel/speed, tons of gore, the author, etc)...
-    ...but ultimately, nobody should care. Cause, well, >opinions
-
 **What are soundfonts?**
 Music in Doom is in MIDI format, which means you can change how the individual instruments sound. A soundfont file is a collection of such instruments.
 Doomkid covers this topic in the the following video;
 [Improve DOOM Music! MIDI Soundfont Tutorial w/ VirtualMIDISynth](https://www.youtube.com/watch?v=tm620oCA9iY)
 Comparisons of different soundfonts:
 [Comparison 1](https://www.youtube.com/watch?v=2Mefb9UvwZU), [Comparison 2](https://www.youtube.com/watch?v=LFWBqUK4G_Q), [Comparison 3](https://www.youtube.com/watch?v=OfztYSgRTmg)
+
+**Why do people love/hate Brutal Doom**
+Everyone has their reason (reloading, ironsights, general feel/speed, tons of gore, the author, etc)...
+    ...but ultimately, nobody should care. Cause, well, >opinions
+
+**Is Nu-Doom good**
+This is the retro board so Doom 2016 and Doom Eternal aren't discussed here. If you're wondering what /vr/ thinks, some like it, some don't.
 
 **Other pastebins**
 Hosting with BE tutorial: https://pastebin.com/XLeN2pxe

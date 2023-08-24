@@ -35,7 +35,7 @@ If you are prompting an image of a tree, you do not put "tree" in both the posit
 
 ##### How should I set my negative then?
 
-I don't know.
+I don't know, but ComfyUI's defaults seem to work well.
 
 ##### If Width and Height represent original image dimensions, something like 4096x4096 should look best then?
 

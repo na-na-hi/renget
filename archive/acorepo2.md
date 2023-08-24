@@ -320,6 +320,7 @@ https://civitai.com/models/120131/jane-shepard-mass-effect
 - Sara Ryder
 https://civitai.com/models/120121/sara-ryder-mass-effect-andromeda
 + EDI
+https://civitai.com/models/130323/edi-mass-effect
 https://civitai.com/models/113837/edi-mass-effect
 - Jack
 https://civitai.com/models/113404/jack-mass-effect

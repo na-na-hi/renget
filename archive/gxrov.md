@@ -1,25 +1,7 @@
 This is a list of recommended games and applications for VR. These are grouped by genre and very roughly ordered by popularity.
-Game recommendations are primarily focused on PC VR headsets, but some games in this list have also been ported to Quest and PSVR. Quest and PSVR sections only contain exclusives for their respective platforms.
+Game recommendations are primarily focused on PC VR headsets, but some games in this list have also been ported to Quest and PSVR. Quest section only contains details about exclusives.
  
-#####--- Legend ---
- 
->[Introductory Demos]
->[Utilities]
->[Applications]
->[Social and Metaverse]
->[VR FPS]
->[Rhythm & Active Games]
->[Simulation]
->[Flight]
->[Flat Game Ports]
->[Flat Game Mods]
->[VRMMO]
->[Swords & Sorcery]
->[Puzzles, Strategy, & Platforming]
->[VN and Experiences]
->[NSFW]
->[Quest]
->[PSVR]
+[TOC]
  
 #####--- Reviews from a Welsh Anon ---
 There are a few in depth video reviews for certain games. Check them out below.

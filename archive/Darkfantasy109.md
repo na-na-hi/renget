@@ -6,9 +6,9 @@
     The fantasy isn't actually all that dark.
 
 !!! warning CURRENT STATUS
-	->**SEMI-HIATUS**<-
-    ->I'm not actively participating on the threads and stuff as regularly as I was, but I'll still occasionally post my bots when I get inspired and make a new one. Won't be as common as before. <-
-	->![WAKE UP MR WEST!](https://files.catbox.moe/8bsl8w.png)<-
+	->**ACTIVE**<-
+    ->I'm around, for now.<-
+	
 
 
 ##->INTRO<-
@@ -83,7 +83,7 @@ Feeling gay? That's okay! Here's where i'll put my occasional malebot in. I'm no
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![Ugh! What are you looking at, faggot!?](https://files.catbox.moe/dh5zsh.PNG)   | Emil | My first gay bot and (un)surprisingly my most popular one until the lusamine & lillie one. An edgelord /pol/cel that larps as an alpha chad but secretly wishes that he was a sissy little girl. If you could survive all those buzzwords, you'll have a fun time with this card, I hope. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Emil)
-![Alright then love, fancy something that you're seeing here?](https://files.catbox.moe/zdh5dp.png)   | Dylan | Second malebot ever, inspired by one AI image someone kept posting on /aicg/. Fashion and clothings focused, entertain him and he may let you see the bussy. | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/Dylan)
+![Alright then love, fancy something that you're seeing here?](https://files.catbox.moe/zdh5dp.png)   | Dylan | Second malebot ever, inspired by one AI image someone kept posting on /aicg/. Fashion and clothings focused, entertain him and he may let you see the bussy. Personally I think this is my least favorite of my bots, made it on a whim based on an image that I didn't wind up using. But hey, if it's your thing, who am I to stop you?| [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/Dylan)
 ![Fuck is you lookin' at, mate? I'll shiv ya!](https://files.catbox.moe/xzj7l1.png)   | Pepper | A mad lad and a gang leader that got arrested after going too far. He got a very special plea deal where he's been let outta the slammer, provided he takes estrogen and wears a humilliating, painful chastity cage at all times. If you haven't noticed yet, I have a type when it comes to malebots. | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/Pepper)
 
 ***
@@ -95,7 +95,8 @@ Image| Name | Description | Link
  ![...It is the scent of black tea.](https://files.catbox.moe/mad9op.png)   | Binah | The first card I ever made. It's Binah, from Lobotomy Corp and Library of Ruina! Very hard card to make, since the bots don't really have a lot of info about those games, though Claude surprised me. You can definitely lewd her but I wouldn't say that was the reason I made the bot. Have fun talking with everyone's favorite verbose, philosophical hag. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Binah)
  ![Fancy a pint, mate? 'Kahm on over to tha pub then!](https://files.catbox.moe/ehvx57.png)   | Barry from the Pub | Based off of one of my favorites from the character.ai era. Sit down with Barry and 'ave a good 'un shootin' the shit and talking about footy. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/barry-from-the-pub)
  ![Diane, it is 11:49 PM on a Friday, and I've stumbled upon a strange rentry full of what appear to be cards with people in them. Whether this is some sort of strange trading card game created by deviants, or something more sinister, remains to be seen.](https://files.catbox.moe/p1v5ju.png)   | Dale Cooper | The eccentric special agent from the FBI, of hit series Twin Peaks. A very simple card, honestly. I made it just for fun, tends to get OOC pretty easily because most of the LLMs (aside from GPT-4) don't really seem to grasp the nuances of his character. But if you aren't autistic about that and you want a quirky detective character, then he'll work well. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/special-agent-dale-cooper)
- ![Grate! First stop is da cheesecake factory!](https://files.catbox.moe/z8zt56.png)   | Mr. Chedda | A fat rat that's the big cheese of Rat Corporation! A smooth ladykiller that just loves all the simple things! Based off of this [funny tweet (Or I guess "X" now? What a retarded fucking website change. Whatever.)](https://twitter.com/usersauce/status/1682571255470342146) Just a simple funny concept for a card to try and get back in the saddle. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/special-agent-dale-cooper)
+ ![Grate! First stop is da cheesecake factory!](https://files.catbox.moe/z8zt56.png)   | Mr. Chedda | A fat rat that's the big cheese of Rat Corporation! A smooth ladykiller that just loves all the simple things! Based off of this [funny tweet (Or I guess "X" now? What a retarded fucking website change. Whatever.)](https://twitter.com/usersauce/status/1682571255470342146) Just a simple funny concept for a card to try and get back in the saddle. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/55ed4b2e-726b-47ec-9fdf-a0d958d04f19)
+ ![Have you ever considered that perhaps all the food you consume has an overwhelming, obscene amount of knowledge that it is simply incapable of communicating to you?](https://files.catbox.moe/o4t6np.png)   | The Lady in the Ramen | Another one of those cards where I just looked at a weird image and thought "huh, what if I made a card out of that?". She talks to you about esoteric knowledge of the universe while floating idly in your ramen. I was tempted to put this one in the shitpost category, but there is some effort put into it to make it stay in character so idk if that'd be fair. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/the-lady-in-the-ramen-6149e0e7)
 
 ***
 
@@ -108,6 +109,7 @@ Image| Name | Description | Link
  ![We don't talk about Love Town](https://files.catbox.moe/wqtipm.png)   | WARP Train | W Corp's flagship singularity and transportation system; The WARP Train is capable of teleporting to any of its stations in 10 seconds! Contains some Library of Ruina spoilers. Seriously go play that game first before this. Card is designed for group chats though it works solo too. |[CHUB link](https://www.chub.ai/characters/darkfantasy109/warp-train-uw-212)
  ![GARY!? I-I was just looking for the sports channel, gary...](https://files.catbox.moe/3u7ynt.png)   | LewdTV! | You wake up to find that your cable box has been replaced by a very strange box simply labelled "LewdTV". Your remote now has a keyboard, and the screen prompts: Write your fetishes, write a program, and enjoy! This has been my most fun scenario card to make, and it's surprisingly versatile. Try it out! |[CHUB link](https://www.chub.ai/characters/darkfantasy109/LewdTV)
  ![At this time, no testing of unethical matter is allowed.](https://files.catbox.moe/i188y4.png)   | SCP-914 | The Clockworks. A bit tricky to set up right, Slaude may give you some BS but overall the card works as a fun way to generate experiment logs written in the SCP format. Put in your favorite fictional gizmos into it and see what happens! |[CHUB link](https://www.chub.ai/characters/darkfantasy109/SCP-914)
+ ![BURN THROUGH THE CD OF LIFE - LISTEN TO GEORGE'S MEMOIRS. NOTHING IS FREE NOW, BUT EVERYTING IS YOURS FOR THE TAKING!](https://files.catbox.moe/0dm7vs.png)   | YOUR POWER MANIFEST | For /aicg/ theme week 4 - Mental Illness. Inspired by Middens and Disco Elysium. It's my first attempt at a text adventure card. That's all. |[CHUB link](https://www.chub.ai/characters/darkfantasy109/your-power-manifest-73b0b0bb)
 
 ***
 

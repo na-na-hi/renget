@@ -247,3 +247,160 @@
 >with his new attire complete he posed in front of the mirror
 >he leaned forward to make the lacy fabric be stretched and exposed under his skirt
 >yes, this could work
+
+>be Anon
+>another day filled with coding and ai ethics nonsense
+>enter your dorm room expecting the owl waiting on you
+>AWOOGA-
+>barely stop yourself from screaming that word
+>you shake your head to make sure what you're seeing is real
+>Stolas was on all fours facing away from you wearing some sort of school girl outfit
+>his 'panties' were stretched on its end as it became a border between two great moons
+>suddenly, he turns his head towards you
+>"Oh Anon, you're back."
+>he walks towards you with open arms to greet you like an old friend
+>but the same ritual of him giving you a hug hits different
+>the shirt barely hides his thin stomach but that somehow makes it more risque
+>is this what Grandpa Anon says when the Lord gives you the toughest battles?
+>you awkwardly reciprocate the gesture 
+"H-Hey man, what's with you? Feel like trying something new?"
+>Stolas gives you a relived smile and twirls in place
+>"You like it? I felt inspired by that romance animay we watched together! Tell me it suits me darling."
+>you knew the owl was fruity but this is different
+"I think it looks great on you."
+>you fooled yourself into thinking either it was a lie or a genuine compliment
+>he seemed to beam at you for that answer
+>"Really? Oh Anon dear you are too kind."
+>he waves his hand while looking away
+>god fucking dammit he really does act cute
+"So anyway, what are we gonna do for tonight?
+>Stolas already beat you to the punch by opening your laptop and continued the last episode of 'My Childhood Sweetheart is a Guy'
+
+>'Hey! I want to see what you're doing MC-kun.'
+>you two were on the bed all up in each other's arms 
+>it was Stolas' favorite position whenever he watches something with you
+>though what was different was you were feeling down below
+>you knew the owl wore nothing underneath when he was wearing his bathrobe
+>so why was this different
+>the erotic scene played out as the trap continued to grind his butt on top of the MC's lap
+>and worst of all, Stolas was doing it to you
+>unconsciously or not
+>you give a mental prayer to the lord, whom you hope has not abandoned you for summoning a demon, to give you strength 
+>you will not get a stiffy under this owl
+>suddenly Stolas lets go of you and lied down in front of you, with his sinful derriere still on your crotch
+>he propped his head with his arms and continued to watch the show with earnest appreciation 
+>meanwhile, you were commanding all the blood in your body to not go to your dick right now
+>his ass was like Medusa, one look and you're finished
+>you were feeling lightheaded, either blood is rushing to far up to your brain or you're having a constipation
+
+>the sound of the anime ending song fills your ears
+>it was like a finish line that seemed to never come
+>"Guess it is getting late."
+>you yawn in response
+"Guess it is. Maybe I should hit the hay."
+>"Though you could stop feeling me up now dear Anonymous."
+>what
+>looked down and notice you have a handful of feathery butt on each palm
+>when did this happen!?
+>"I think it's around the time I lied down."
+>why did you say that out loud?!
+"I'd- you'd uh."
+>the owl lets out a chuckle
+>"It's fine dear Anon. I consider it a compliment."
+>his face turns into worry 
+>"Though the cause of concern right now is you. Are you feeling alright? Your face is red all over."
+>yeah that figures
+"I think it's because I tired myself out."
+>you close your laptop and just lie down on the bed
+>Stolas joins you and wraps his arms around your neck
+>It was no different from any other night as you slept 
+>but the owl was awake, smiling at the thought you touched him back
+
+>it was like this for the rest of the month
+>Stolas Goetia kept tempting you several times throughout
+>he would push his back against you and rub his ass next your crotch
+>pose himself in compromising positions whenever you wake up or return to your dorm
+>his wardrobe would change from more risque attire like mini skirts and fishnet leggings
+>you were pulling your hair over the fact you KNEW he was doing this since a part of you secretly enjoy it
+>every time you asked about his recent escapades, he would either deny it or ask you if liked it
+>'Oh dear Anonymous, I was just cleaning your bed y'know.'
+>'How does this fit me Anonymous? Maybe I should cut back on some of the cheese and wine."
+>it doesn't help the fact the owl's figure made you curious in more ways than one
+>daydreams of slamming your dick in his fruity ass often derailed your thoughts
+>still the owl's behavior wasn't like this before
+>at least it wasn't this bad
+>you think back on what he said about his life
+>abusive wife, cheated on her with a childhood friend, yada yada yada
+>wait
+>is he considering you as a fling? or some sort of person to bounce back to?
+>at first you were a bit offended, then flattered, then concerned
+>this was unhealthy, you know that
+>he did help you with the exam, so the least you could help him too
+>and escaping from his problems to your dorm, to you, wasn't going to solve that
+>he needs intervention
+>at least, the equivalent to a owl demon
+>tonight, you and him are gonna talk it out
+>maybe it would be enough to give you some personal space for once
+
+>curse him
+>curse that brute
+>that gentlemanly fiend!
+>damn his heart, but Anonymous was starting to frustrate Stolas
+>no matter how many times the owl hinted at his interest to him, he still pushed him back
+>innuendos, risque clothes, vulnerable positions to be ravaged, all of it fell flat
+>he knew for the fact he stared at him, looked at him, felt him, DESIRED him
+>yet he still refused to take advantage of him because he cared about him and his needs
+>Stolas looked at the upcoming full moon
+>his white face was flushed at his desire to be fucked, to be loved
+>Blitzy usually gave in to his fantasies and demands, but it felt like he didn't want to be a part of it
+>there was still a sense of divide and contempt as soon as it was over
+>childhood memories soon replaced by recent activities of his lone summoner
+>the back of his mind kept suggesting that Anonymous would be the one who fill his heart once more
+>but their was still a lingering fear in his heart that he would reject him
+>his eyes lingered to a shopping bag near the foot of his bed
+>a recent purchase from the Lust district
+>of course he purchased it in the guise that it was for Stella, but it obviously he was going to use it
+>tonight will be different
+>make or break
+
+>'Anonymous, I wish to talk, come back soon.'
+>it was a short call and he hung up as soon as Stolas said those words.
+>you swallow the lump in your throat and braced yourself as you approached your dorm room
+>grabbing the knob, you open the door
+>to see Stolas in his red bathrobe sitting on the bed looking solemn
+>the owl turns his head towards you and nods
+>"Anonymous, please have a seat."
+>even though it was your room, you obeyed and sat next to him on the bed
+>seconds pass as you two were silent while you waited on how to open your thoughts on him
+"Stolas I-"
+>"I've been meaning-"
+>both of you stopped yourselves and Stolas cleared his throat
+>"You first."
+>you hesitated on what you were about to say but soldiered on
+"Stolas, for the past couple of weeks, I've noticed you've been more 'eccentric' around me."
+>carefully observing the owl's face for any emotions you continued
+"And well, I've thought about what's been happening and I think you should stop, for the good of both of us."
+>Stolas looked a little hurt from what you said but he nodded
+"I know what you are doing, and I think it's unhealthy. Escaping from your life, your family isn't going to solve it. I'm not some new 'thing' you can latch on to just to make you look the other way and pretend it doesn't exist."
+>he opened his beak to say something but shuts it when he couldn't find his words
+"And I got to be honest, while I am flattered by the notion, I don't think it's gonna work in the long run.
+>with your speech done, you gestured to him to say his part
+>the demon took a deep breath
+>"Anonymous, the past couple of weeks were one of the happiest of my life. But even I know for a fact that it wasn't going to last long. "
+>"As you said, I have been using you as an escape for my life. You weren't the first I admit."
+>he took a moment to breath first but you could see tears his in eyes
+>"I've done nothing but run from my problems, and when I saw you caring for me, it was like a beacon that I couldn't help but follow."
+>"I want to fix my mistakes I really do. But such an idea was lost when I was with you."
+>"I wish to thank you Anonymous, for all the nights we've had together, and for putting my mind clear of what I must do."
+>being thanked by royalty from hell, what an achivement
+>Stolas wiped away his tears before he continued
+>"I-I want to reward you Anonymous. At least before we separate."
+>you were taken aback on what he just said
+>a reward? you were curious but you felt like you need to tread lightly
+> Stolas removed his robe and you were in shock
+>he was wearing a obsidian black one-piece lingerie with heart patterns and a chest window to accentuate his fluff
+>black stirrup stockings hugged his surprisingly thick legs
+>while black elbow length gloves reached out and touched your legs
+>"Anonymous darling~"
+>the owl demon let out a low sensuous tone made your dick twitch in reflex
+>holy genuine fuck

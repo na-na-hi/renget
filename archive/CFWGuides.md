@@ -13,7 +13,7 @@ Here you will find CFW setup guides and CFW migration guides.
 **7**|Migrate from SXOS to Atmosphere | [View](https://rentry.org/mys8q)
 **8**|Migrate your Atmosphere EmuNAND to SXOS | [View](https://rentry.org/AtmosToSXOSEmuNAND)
 **9**|Migrate your EmuNAND to a new SD card | [View](https://rentry.org/EmuNANDNewSDcard)
-**10** | Migrate To Atmosphere 1.5.4 | [View](https://rentry.org/MigrateToAtmosphere1_0_0)
+**10** | Migrate To Atmosphere 1.5.5 | [View](https://rentry.org/MigrateToAtmosphere1_0_0)
 
 ***
 ######[⬅️ Go Back 🦝](https://rentry.org/SwitchHackingIsEasy)

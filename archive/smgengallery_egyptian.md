@@ -160,3 +160,11 @@
  -> ![Splash](https://files.catbox.moe/2suep3.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/jodc2d.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

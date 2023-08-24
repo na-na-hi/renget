@@ -97,4 +97,8 @@ Fanart
 https://www.chub.ai/characters/thiasus/Ada
 ![05.06](https://files.catbox.moe/oe96tx.png)
 https://files.catbox.moe/pqsequ.zip
-***
+####Amazing Lobster Fanart
+https://rentry.org/lobsterchan
+->Anna<-|->Marii<-|
+--- | --- |
+![Anna](https://files.catbox.moe/43rv1z.png)                              | ![Marii](https://files.catbox.moe/by20o5.png)                              |

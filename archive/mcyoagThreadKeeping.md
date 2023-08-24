@@ -40,8 +40,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->A Hard Conversation (Mirror Devil, Drone, Arena)
-https://rentry.org/kmx3ty
+New Artfag!
+>Korean Bug Zapper (Spark)
+>>90018257
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -336,52 +337,6 @@ https://pastebin.com/66ByP2sD
 >Questionnaire Comp
 https://pastebin.com/Ksn0zJ31
 
->Gossip 5 (Hivemind)
-https://controlc.com/66ba4c1cWritefag:
->A Trip to Nagoya (Sally, Christopher, 1-D)
-https://rentry.org/6qgyr
->Ako at the Beach (Capture Cloth, Yamata, Mirror Devil, Ryu-kishi, Popsy)
-https://rentry.org/niz38
->Broken Mirror (Mirror Devil, Recoil, Radius, Drone, Desolator, The Doctor (brief), Rosethorn):
-https://rentry.org/pit2d
->Succession (Recoil)
-https://controlc.com/2f2fcb7a
->Exam no Jutsu (Part Two): Key Player (Maru(maru))
-https://rentry.org/a3mki
->Ninjas in Space (Maru(maru), The Ghoulie Grabber)
-https://rentry.org/m54to5
->Hold my Cap, it's License Time! Part 1 (Ryu-Kishi, Arena, Forget-Me-Not, Ryusei, Rescue Ray, Karaburan, Class 1-D)
-https://rentry.org/xn8hc
->Each Conclusion Will Decide The Lonely Heart (Mahoudeva, Blackout, Majestic, Forget-Me-Not)
-https://rentry.org/w77aw
->Amateur In His First Psychic War (Mahoudeva, Forget-Me-Not, Blackout, Mirror Devil, Ryu-kishi, Marumaru, Challenger, Sunlight Man, Archangel, Rosethorn, Recoil, Drone, Arena, Radius, Spark)
-https://rentry.org/vqo97t
->You Sure Love To Ball (Class 1-D, Rosethorn, Ippon, Forget-Me-Not)
-https://rentry.org/o82q7
->A Soft Touch (Mirror Devil, Last Rite, Ryukishi, Mahoudeva, Capture Cloth)
-https://rentry.org/4d2gw
->Exam no Jutsu (Part 3) - Shūban (Maru, Last Rite, Impakt)
-https://rentry.org/axzx6
->The Tournament Arc Prologue! (Anzu, Rosethorn, Class 1-D)
-https://rentry.org/czmcm
->Manly Ramen Enjoyers Unite! (Hifumi, Bobby, Inigo, Sandatsu)
-https://rentry.org/x3ovn
->A Dragon's Fairy Tale (Ryukishi, Mirror Devil, The Five, Class 1-D)
-https://rentry.org/32stx
->Karaoke part 1 (1-D, Nene, cameo of Karma, Feral and Drekus)
-https://rentry.org/x8kh9
->Gossip 6 (Hivemind, mentions of Inigo, Christopher, and Desolator)
-https://controlc.com/b2b5a64a
-```
-***
-Page 6
-***
-```
-Writefags (Cont.)
->SHIT POST STATUS: DOUBLE QUIRKED UP ON A THURSDAY AFTERNOON (The Boys group chat)
-https://rentry.org/qyamz
->The Saint and the Sinner(Last Rite, Archangel)
-https://rentry.org/okwbp
 >A Parting of Ways (Mirror Devil, Capture Cloth):
 https://rentry.org/y37ak
 >Here's The Deal! (Reaper, Forget-Me-Not, Kampai and cameo of Inigo)
@@ -426,7 +381,7 @@ https://rentry.org/c759z
 https://rentry.org/aydcg
 ```
 ***
-Page 7
+Page 6
 ***
 ```
 Writefags (Cont.)
@@ -471,7 +426,7 @@ https://controlc.com/a4a6767d
 ```
 
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (Cont.)
@@ -518,10 +473,10 @@ https://rentry.org/udt96
 ```
 
 ***
-Page 9
+Page 8
 ***
 ```
-Writefags (Final)
+Writefags (Cont.)
 >I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
 https://rentry.org/uzu56
 >Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
@@ -552,11 +507,36 @@ https://rentry.org/esiz3
 https://rentry.org/rzimh
 >A Hard Conversation (Mirror Devil, Drone, Arena)
 https://rentry.org/kmx3ty
+>Mirror's Date (Noctiluca, Drone, Recoil, Spark, Mirror Devil, Challenger, Sunlight Man, Ryu-kishi, Maru (Maru)):
+https://rentry.org/7u3dpb
+>Boomping (Gossip)
+https://rentry.org/uv6mh
+>A Lesson on Two's  (Hijack, Class 1-D)
+https://rentry.org/n8noh
+>Kraftwerk Hero Agency - Internship Application - Takeda Hifumi
+https://rentry.org/InternshipApplicationTakedaHifumi
+>Too Good to Be True (Capture Cloth, Yamata)
+https://rentry.org/z7ize
+>City Of Silver Gray (Popsy, Seiryu, Noctiluca)
+https://rentry.org/o2f25
+
+```
+***
+Page 9
+***
+```
+Writefags (final)
+>The Pencil (Ryu-kishi, Maru(maru), Mirror Devil)
+https://rentry.org/sdtvh
+>Hitomi-chan's First Date (Feral, Drekus, Reaper)
+https://rentry.org/2tu8m
+
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the controlc
 ```
+
 #Heroes of the Wastes (HOTW)
 ***
 Page 1

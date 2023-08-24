@@ -628,3 +628,7 @@ ________
 	**Name: 「Mirokazu Kaga** *HN: Fight Man* **」**
 	**Quirk: 「Fatigue Boost」** *Transformation*
 	He gets stronger and faster the closer he is to exhaustion. Just before he collapses from fatigue, he is incredibly powerful.
+
+____
+
+Don't believe the trolls. This will continue.

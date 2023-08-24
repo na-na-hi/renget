@@ -1,4 +1,4 @@
-###How to migrate your current Atmosphere setup to 1.5.4
+###How to migrate your current Atmosphere setup to 1.5.5
 ***
 !!! Warning Before you upgrade Atmosphere, please ensure to delete your `/contents/` folder located in `/atmosphere/`.
 

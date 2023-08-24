@@ -1,19 +1,21 @@
 ## /kkg/ Thread Archive
-[Last Updated: 18.08.2023 16:15 UTC]
+[Last Updated: 24.08.2023 07:45 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7534503/](https://boards.4chan.org/h/thread/7534503/)
+Current thread - [boards.4chan.org/h/thread/7541845/](https://boards.4chan.org/h/thread/7541845/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 624&nbsp;&nbsp;[archiveofsins.com/h/thread/7541845/](https://archiveofsins.com/h/thread/7541845/)&nbsp;&nbsp;&nbsp;&nbsp;(23.08.2023 03:35)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Mecha For No Reason In Particular edition
+- 623&nbsp;&nbsp;[archiveofsins.com/h/thread/7537949/](https://archiveofsins.com/h/thread/7537949/)&nbsp;&nbsp;&nbsp;&nbsp;(20.08.2023 15:38)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lunchtime edition
 - 622&nbsp;&nbsp;[archiveofsins.com/h/thread/7534503/](https://archiveofsins.com/h/thread/7534503/)&nbsp;&nbsp;&nbsp;&nbsp;(18.08.2023 01:17)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Back to School Edition
-- 621&nbsp;&nbsp;[archiveofsins.com/h/thread/7531453/](https://archiveofsins.com/h/thread/7531453/)&nbsp;&nbsp;&nbsp;&nbsp;(15.08.2023 20:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Raining Chika's Edition
+- 621&nbsp;&nbsp;[archiveofsins.com/h/thread/7531453/](https://archiveofsins.com/h/thread/7531453/)&nbsp;&nbsp;&nbsp;&nbsp;(15.08.2023 20:03)&nbsp;&nbsp;[1034]&nbsp;#&nbsp;Raining Chika's Edition
 - 620&nbsp;&nbsp;[archiveofsins.com/h/thread/7527028/](https://archiveofsins.com/h/thread/7527028/)&nbsp;&nbsp;&nbsp;&nbsp;(12.08.2023 23:12)&nbsp;&nbsp;[1204]&nbsp;#&nbsp;The Future is a Dismal Place Full of Rats and AI Art Edition
-- 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Lounge edition
-- 618&nbsp;&nbsp;[archiveofsins.com/h/thread/7519188/](https://archiveofsins.com/h/thread/7519188/)&nbsp;&nbsp;&nbsp;&nbsp;(07.08.2023 20:37)&nbsp;&nbsp;[1117]&nbsp;#&nbsp;Something Memorable Edition
 ---
 Archive:
 
+- 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Lounge edition
+- 618&nbsp;&nbsp;[archiveofsins.com/h/thread/7519188/](https://archiveofsins.com/h/thread/7519188/)&nbsp;&nbsp;&nbsp;&nbsp;(07.08.2023 20:37)&nbsp;&nbsp;[1117]&nbsp;#&nbsp;Something Memorable Edition
 - 617&nbsp;&nbsp;[archiveofsins.com/h/thread/7515576/](https://archiveofsins.com/h/thread/7515576/)&nbsp;&nbsp;&nbsp;&nbsp;(04.08.2023 22:03)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Gym Edition
 - 616&nbsp;&nbsp;[archiveofsins.com/h/thread/7512274/](https://archiveofsins.com/h/thread/7512274/)&nbsp;&nbsp;&nbsp;&nbsp;(03.08.2023 05:08)&nbsp;&nbsp;[1341]&nbsp;#&nbsp;Big Toon Edition
 - 615&nbsp;&nbsp;[archiveofsins.com/h/thread/7508935/](https://archiveofsins.com/h/thread/7508935/)&nbsp;&nbsp;&nbsp;&nbsp;(01.08.2023 09:33)&nbsp;&nbsp;[1166]&nbsp;#&nbsp;Big Tobacco Edition

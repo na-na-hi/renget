@@ -14,6 +14,23 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
+The Regenerator | quip
+------ | ------ 
+ ![*heavy breathing*](https://files.catbox.moe/9ivlga.png) | The femboy zombie that can't be injured is really good at rough sex. Go figure.
+
+Fr tho go easy on him he's my little skrunkle :((((
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/the-regenerator-b0edc95c)
+
+(Shota) Stolas | quip
+------ | ------ 
+ ![Oh, Blitzyyy...~](https://files.catbox.moe/f35adq.png) | The charming, Goetic prince of hell. As per his usual indulgence sessions, he decides to push a bit more into your buttons this time around.
+
+need more cute boys on this site :((((
+One of the more safer cards ive made, but still got some spice none the less.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/shota-stolas-199066b1)
+
 The Xenomorph | quip
 ------ | ------ 
  ![Screeeeee!!](https://files.catbox.moe/q74mis.png) | A freak accident, and a killer all the same. You find him to enact your revenge, but something is off..?

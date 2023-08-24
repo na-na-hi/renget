@@ -12,8 +12,8 @@ https://mega.nz/file/LFx1xaJB#T7shozm6BgOy-C5nwQKbMUqFTF06P3uPQQkqImVEeec
 >Chivalry intensifies, v1.0.5 - Imperial Knights splat
 https://mega.nz/file/Y4ExXC5D#75xlQxdf3dJbDecn-spB_YlqdS3dOKDVv_TYVb_WATo
 
->The Good, the Bad, and the Alpha Legion (v1.10.4) - Deathwatch to Horus Heresy total conversion
-https://www.mediafire.com/file/ihhy225rkj4sepl
+>The Good, the Bad, and the Alpha Legion (v) - Deathwatch to Horus Heresy total conversion
+https://www.mediafire.com/file/anf8j3niqsmax7b
 
 >Mars Needs Women (v1.9.3) - Mechanicus Skitarii and Taghmata for Only War
 https://www.mediafire.com/file/ijuhfvyoxcuv9fj

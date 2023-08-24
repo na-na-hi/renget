@@ -2,7 +2,7 @@
 
 Heya! It's me. You may know me as Esther's biggest fan. Or that masochistic botmaker. (￣ ￣|||)
 
-Del Status: something unfortunate involving my housing situation happened. won't be able to do anything for a while since I don't have access to my computer. 
+Del Status: retired. yes, i did leave. the worldbuilding project has nothing to do with me, please give more attention to the ones who actually did some work. 
 
 [TOC3]
 

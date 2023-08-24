@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 30/7/2023== <-
--> *Added 2 new bots/cards : Alma Armitage, and Val Deluca* <-
+-> ==Updated 21/8/2023== <-
+-> *Added 2 new bots/cards : Nanagami Rin, and Storch Sieben* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -46,6 +46,7 @@ Mirellia Q Melromarc | ![Mirellia Q Melromarc](https://i.postimg.cc/TPBLZFfL/tav
 Mosquito Girl | ![Mosquito Girl](https://i.postimg.cc/htdJRgPL/tavern-raw.png) | A villain, prototype artificial mutant in form of female humanoid mosquito. | [Download](https://www.chub.ai/characters/maliksusanto/mosquito-girl)
 Nagami Kiyora | ![Nagami Kiyora](https://i.postimg.cc/4dJW6wRc/Nagami-Kiyora.png) | Daughter of Nagami Misuzu. She has been chosen as the bride candidate in the upcoming Hanasaki Festival. | [Download](https://www.chub.ai/characters/maliksusanto/01cbdf01-bfab-49b1-9670-365b8d7beb96)
 Nagami Misuzu | ![Nagami Misuzu](https://i.postimg.cc/1tvWZBkc/Nagami-Misuzu.png) | High priestess and head of the Kimachi village's holy ceremonies called Hanasaki Festival where the entire village engages in a night of orgies. | [Download](https://www.chub.ai/characters/maliksusanto/6ceef58d-da2a-4967-89c8-5c80a13fc13c)
+Nanagami Rin | ![Nanagami Rin](https://i.postimg.cc/YCzyqy4H/Nanagami-Rin.png) | Chief Administrative Officer and Vice President of the General Student Council, as well as the acting leader of Kivotos. | [Download](https://www.chub.ai/characters/maliksusanto/nanagami-rin-b7db43e6/main)
 Naomi Evans | ![Naomi Evans](https://i.postimg.cc/1zXVFCbP/Naomi-Evans.png) | Hot-headed, violent, and possessive Major of the Space Federation Army with skill in drone operation. | [Download](https://www.chub.ai/characters/maliksusanto/naomi-evans)
 Natsuhi Ushiromiya | ![Natsuhi Ushiromiya](https://i.postimg.cc/qMfqcSGg/tavern-raw.png) | Natsuhi Ushiromiya is a strict, responsible, and prideful woman who manages the Ushiromiya household. | [Download](https://www.chub.ai/characters/maliksusanto/natsuhi-ushiromiya)
 Olga Discordia | ![Olga Discordia](https://i.postimg.cc/wxF7gCjy/tavern-raw.png) | The Prideful Queen of the Dark Elves from Kuroinu series. There's no NSFW attached to card but considering where she came from, she might as well be NSFW. | [Download](https://www.chub.ai/characters/maliksusanto/olga-discordia)
@@ -58,6 +59,7 @@ Riska Cahyawati | ![Riska Cahyawati](https://i.postimg.cc/bw4RzCF1/Riska-Cahyawa
 Rosa Ushiromiya | ![Rosa Ushiromiya](https://i.postimg.cc/GhGTZQ5v/Rosa-Ushiromiya.png) | Abusive mother with constant mood swing but genuinely want to make everything right with her daughter. | [Download](https://www.chub.ai/characters/maliksusanto/rosa-ushiromiya)
 Sajuna Inui | ![Sajuna Inui](https://i.postimg.cc/ZY3nrYVc/tavern-raw.png) | A young cosplayer that loves magical girls. | [Download](https://www.chub.ai/characters/maliksusanto/sajuna-inui)
 Shirayuki Tomoe | ![Shirayuki Tomoe](https://i.postimg.cc/nchyr1JT/Shirayuki-Tomoe.png) | NIJISANJI's horror-genre lover livestreamer. | [Download](https://www.chub.ai/characters/maliksusanto/shirayuki-tomoe)
+Storch Sieben | ![Storch Sieben](https://i.postimg.cc/15SQcMqk/Storch-Sieben.png) | A biomechanical humanoid created by AEON that are used for security and overwatch. | [Download](https://www.chub.ai/characters/maliksusanto/storch-sieben-82d9f799)
 Sugita Karin | ![Sugita Karin](https://i.postimg.cc/mgcD3VWm/tavern-raw.png) | Calm yet cold elite Taimanin that are known as Detective Taimanin. | [Download](https://www.chub.ai/characters/maliksusanto/sugita-karin)
 Sumeragi Lee Noriega | ![Sumeragi Lee Noriega](https://i.postimg.cc/FsLYSN5Y/tavern-raw.png) | Captain of Ptolemaios and Celestial Being member. | [Download](https://www.chub.ai/characters/maliksusanto/sumeragi-lee-noriega)
 Tsukatsuki Rio | ![Tsukatsuki Rio](https://i.postimg.cc/XNxrcpmD/tavern-raw.png) | Millennium Science High School's student council president, brutal yet brilliant, who enforces order through fact and logic. | [Download](https://www.chub.ai/characters/maliksusanto/tsukatsuki-rio)
@@ -82,4 +84,3 @@ Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/
 Name  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Dominique Baldwin | ![Dominique Baldwin](https://i.postimg.cc/Cx14d6Tr/Dominique-Baldwin.png) | A soft-spoken, level-headed, humble, and hospitable exorcist and merchant sent by the church. | TBA™
-Nanagami Rin | ![Nanagami Rin](https://i.postimg.cc/YCzyqy4H/Nanagami-Rin.png) | Chief Administrative Officer and Vice President of the General Student Council, as well as the acting leader of Kivotos. | TBA™

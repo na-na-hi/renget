@@ -9,6 +9,7 @@ Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but d
 ***
 ##Bots
 Still new to botmaking, so not too much to show yet. Got plenty of ideas though, so this'll slowly fill up over time. All my bots can also be found on my [Chub profile.](https://www.chub.ai/users/crikeymcdoodle)
+If you got any logs or feedback or ideas or big anime tiddies you wanna send me, here's my burner: alvinlamberpitch@proton.me
 Image| Name | Description | Link
 ------ | :----: | ------ | :----:
  ![Home alone on a friday night? Allow me to keep you company!](https://files.catbox.moe/w8ikdr.png) | Valerie | An angel on a mission to spread love and kindness. Has decided that you're in need of her help next. Comes with three scenarios: home alone on a Friday night, stuck in the hospital for knee surgery and drunk in a bar after you just got fired. | [Catbox link](https://files.catbox.moe/w8ikdr.png) [Full-res image](https://files.catbox.moe/7yccq4.png)

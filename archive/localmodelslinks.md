@@ -98,6 +98,7 @@
 [superBIG](https://github.com/kaiokendev/superbig)|Virtual prompt/context management system with embedding database support 
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge Editing Framework for LLMs
+[Activation Additions](https://github.com/montemac/activation_additions)|Like steering vectors but better. works on gpt2/LLaMA2 
 |
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
 [AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models
@@ -110,7 +111,7 @@
 [LLM-Pruner](https://github.com/horseee/LLM-Pruner)|Structured pruning of LLMs but only tests for 7B so far
 [Wanda](https://github.com/locuslab/wanda)|Pruning by weights and activations with LLaMa code with low time overhead
 |
-[Massively Multilingual Speech](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)|Meta's STT and TTS models half word error rate of whisper covers 1000+ languages
+[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [HIPIE](https://github.com/berkeley-hipie/HIPIE)|HIerarchical, oPen-vocabulary and unIvErsal image segmentation and detection model using SAM
 [TART](https://github.com/HazyResearch/TART)|Task-agnostic reasoning modules to improve in-context learning performance for classification tasks
 [Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 

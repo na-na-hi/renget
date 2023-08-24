@@ -16,7 +16,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 
 *Honorable Mentions*
 • KBEAR Rosefinch (very bassy) - $20
-• KZ D-Fi (V-shape) - $20
 • QKZ x HBB (bassy) - $20
 • Tangzu Wan'er S.G (mild V) - $20
 

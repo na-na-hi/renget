@@ -83,3 +83,11 @@
  -> ![Splash](https://files.catbox.moe/syosk2.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/jw6gzj.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

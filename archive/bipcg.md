@@ -1,4 +1,33 @@
 ▶NEW CLIPS
+>Crash site of Prigozhin's jet (NOT COMFY)
+https://files.catbox.moe/em26f1.mp4
+>P-18 Radar vs Lacnet
+https://files.catbox.moe/kvo0oj.mp4
+>New Russian Ground Forces ad
+https://files.catbox.moe/bli24y.mp4
+>Prigozhin and Wagner in Africa
+https://files.catbox.moe/4pxxcw.mp4
+>First Stryker kill
+https://files.catbox.moe/s8f1er.MP4
+>Evactuation of the wounded hohols near Rabotino
+https://files.catbox.moe/tgelsx.mp4 (not comfy)
+>Berislav bombing
+https://files.catbox.moe/z0rs1x.mp4
+https://files.catbox.moe/7y9jtc.mp4
+>UAV operators from KASKAD at work
+https://files.catbox.moe/x4qlsi.mp4
+>Hohols are afraid to launch their drones now
+https://files.catbox.moe/wpl17e.mp4
+>Cherniv theather Iskander arrival
+https://files.catbox.moe/dyhzuj.mp4
+https://files.catbox.moe/5y9opj.mp4 (surveillance cam footage)
+https://files.catbox.moe/5fo05y.mp4 (different angle)
+>FPV drone supercut
+https://files.catbox.moe/4z2c5t.mp4
+>Russians crawled right under Ukrainian noses to rescue a single comrade who had been wounded and lost the night before
+https://files.catbox.moe/vztu6e.mp4
+>Kherson bridgehead throphies
+https://files.catbox.moe/ta4whe.MP4
 >Russian soldiers inspecting trenches and dugouts in the broken hohol positions.
 https://files.catbox.moe/pu8n0p.mp4
 >Tank battle near Rabotino explained

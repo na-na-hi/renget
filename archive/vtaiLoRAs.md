@@ -111,6 +111,7 @@
 -> [Civitai](https://civitai.com/models/27398/amelia-watson-hololive-all-outfits) <-
 
 !!! warning BETA RELEASES FOR EN3, WILL BE UPDATED WITH BETTER ONES IN THE FUTURE ONCE AVAILABLE
+	Bijou, Nerissa and Shiori have post-debut updated loras, still looking out for updated fuwamoco lora's though! 
 
 #### -> (HoloAdvent) Fuwawa Abyssgard <-
 !!! note Recommended weight: 0.7
@@ -121,8 +122,9 @@
 #### -> (HoloAdvent) Koseki Bijou <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
-	(koseki bijou, silver hair, purple eyes, long hair, bare legs, crystal, dress, tiara, white dress, wings)
--> [Civitai](https://civitai.com/models/118793/koseki-bijou-hololive) <-
+	(KosekiBijou, hair ornament, white dress, strapless dress, crystal, tiara, detached sleeves, black corset, detached collar, wings, long hair, purple eyes, grey hair, gradient hair, asymmetrical sleeves)
+	If you want, you can change (wings) to (fairy wings) but it likes to give her pointy ears due to it (or its just HLL thinking shes pomu kek)
+-> [Civitai](https://civitai.com/models/129972/koseki-bijou-or-hololive) <-
 
 #### -> (HoloAdvent) Mococo Abyssgard <-
 !!! note Recommended weight: 0.8
@@ -416,6 +418,12 @@
 !!! info Example Prompt
 	(RinkouAshelia, bangs, aqua eyes, pink hair, earrings, lightning bolt symbol, bow, twintails, streaked hair, long hair, hair ornament, jewelry, multicolored hair, star hair ornament)
 -> [MEGA](https://mega.nz/folder/mBhR0JhR#IHuwe5yZyQNWffxrk8Qxbg) <-
+
+#### -> (OriginS) Shisui Michiru <-
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(Shisui Michiru, blue eyes, white hair, purple hair, multicolored hair, black choker, purple coat, long sleeves, white dress, black pants, black footwear, jewelry, witch hat)
+-> [Catbox](https://files.catbox.moe/ikvj06.safetensors) <-
 
 #### -> (OriginS) Tenma Maemi <-
 !!! note Recommended weight: 0.8

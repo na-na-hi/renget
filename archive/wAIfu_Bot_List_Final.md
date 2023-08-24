@@ -368,6 +368,8 @@ Matsuro Meru|[Link](https://beta.character.ai/chat?char=EymrONHDwN23_Y8PJaybEJOU
 Delutaya|[Link](https://beta.character.ai/chat?char=W5eBXLLzeyT6Jfv4atFHyPChbHwOhCkRvN0Kygp6h58)|
 Touma Tengu|[Link](https://beta.character.ai/chat?char=2KX8ITQjF34ualURveueWjE_ZCDpLwKHUtfSJlfmB80)|
 Sleepy Project|[Link](https://beta.character.ai/chat?char=rcnYle5oXYD5Zlotgl9-ZBgtNfSCBBI3wGs_t46uxjI)|
+Akira Mazono|[Link](https://beta.character.ai/chat?char=kH8KhA4f_4rnbBuFlubByP2EHVIyJL87O2NvQZW3Wx0)|
+Menace Alchemilla|[Link](https://beta.character.ai/chat?char=56-V2L95zq4gxr_uRysVQQ2n7DVuDJbxyPiZAWjja6Y)|
 
 ###Other
 Bot name|Link|Tags/Description

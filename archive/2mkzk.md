@@ -5,18 +5,18 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/08/17-23/08/20 (yy/mm/dd)
+##23/08/24-23/08/27 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: - at 2UTC ()** Great Battle V if remains empty
-**SAT: Red Bull Rockman & Tatakae! Team Shachi at 2UTC (Parsec)**
-**SUN: Golden Sun at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
+**FRI: - at 2UTC ()** Golden SUN if remains empty
+**SAT: The Misadventures of Tron Bonne at 2UTC (Parsec)**
+**SUN: Minemelt at 17:30UTC* (Minecraft)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream at 16UTC** Episodes 14-21
+**SAT: Rockman.exe Stream at 16UTC** Episodes 22-26 + Movie
 **SUN: - at 15UTC**
 >-
 nothing

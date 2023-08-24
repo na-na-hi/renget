@@ -8,7 +8,7 @@ Initially the first arcs were very rough and feel more a 'proof of concept' that
 *If you are the in-house loretismo themselves, cautiously checking the haxXx0r known as "For-Chan"'s doc out - hi! I hope you've liked my ~~desecration~~ summarising of your work so far - I'm going to enjoy doing the next part even more!!!!!!!!~*
 
 A rough pattern can be observed in this stage, in that there's usually a fresh new Arc each year / season. This works, in that it prevents there from being that much you needed to know beforehand if you want an 'entry point' each season, since it's accessible to the point that you only really need the QRD of the current season's arc to understand roughly what's going on - however long-term story elements do seem to take more of a hit as a result *(ie; many potential side-plots and writing that can take advantage of the international nature of the Pantheons isn't afforded the attention it could get)*.
-Furthermore, to *a \*very\* loose definition of* the lore's '''''benefit''''', this approach prevents there ever being.... well... 'incidents' that have... *'blessed'* the *'more complex'* and *'more thought out'* lore of other MOBAs *(such as... \*ahem\* Yorick emptying his Vial \*ahem\*... or \*ahem\* Saudi investors paying for their OC self-insert Marci Sue waifu to be put in \*ahem\*... or \*ahem\* 'Netflix canon' \*ahem\*...)* that would immediately lead to the near complete collapse and invalidation of all previous lore by one retarded cashgrabbing area of the studio sniffing around for money.*
+Furthermore, to *a \*very\* loose definition of* the lore's '''''benefit''''', this approach prevents there ever being.... well... 'incidents' that have... *'blessed'* the *'more complex'* and *'more thought out'* lore of other MOBAs *(such as... \*ahem\* Yorick emptying his Vial \*ahem\*... or \*ahem\* Saudi investors paying for their OC self-insert Marci Sue waifu to be put in \*ahem\*... or \*ahem\* 'Netflix canon' \*ahem\*...)* that would immediately lead to the near complete collapse and invalidation of all previous lore by one retarded cashgrabbing area of the studio sniffing around for money.
 
 Finally, this is the phase that began to incorporate multimedia elements - so now on top of just what was written, I've gone to the lengths of summarising and seamlessly weaving in the cinematics, lore-intended art, ingame character interactions, music themes of relevant events ***(open any ♪ ♪ ♪ ♪ ♪'s in a new tab when you see them, ideally set them to loop until you see the next one)*** and anything else relevant to the lore. This multimedia-approach also included map aesthetic reworks and alterations to fit the lore - which I've added as notable 'Interludes' throughout. On the topic of lore-breakaways when relevant, I've also added 'Asides' - these act as additional mythological context linked to something brought up within the lore, but are completely skippable and irrelevant to the lore itself *(they're just interesting aspects of mythos which, if a classicsfag like me found it interesting enough to note, you'll probably find interesting enough to read yourself)*.
 While there are conflicts between these media elements at times *(eg a cinematic showing a described lore-event, but set somewhere wildly different or with characters that weren't present)* ... please work with me and run with it, it's just what we're working with. I'll do my best to explain what part of the cool cinematic is canon and what isn't in advance.
@@ -110,11 +110,11 @@ So, uh, yeah, back on track from Phase 1 moving into Phase 2 of the lore. The Od
  -> And like all good Apocalypses, everybody's fighting one another for a reason they can't quite put their finger on. <-
 
    We intro in on Xing Tian who has gone completely berzerk. Xing has invaded Japan and taken control of (the now actively erupting) Mt. Fuji, and has been terrorising the surrounding area essentially since Ragnarok started.
-   Amaterasu goes up *(fresh from her Summer vacation)*, jobs to Xing while under the volcanic clouds because she has no connection to the Sun, before Susano-O interrupts her imminent execution and deals with Xing for her. They figure out that he's been mind-controlled by a *le evil aura* / a literal black cloud above his head; and so Susano-O decides to go find out what the fuck's really going on.
+   Amaterasu goes up the mountain *(fresh from her Summer vacation)*, jobs to Xing while under the volcanic clouds because she has no connection to the Sun, before Susano-O interrupts her imminent execution and deals with Xing for her. They figure out that he's been mind-controlled by a *le evil aura* / a literal black cloud above his head; and so Susano-O decides to go find out what the fuck's really going on.
    *~~While it's tempting to imply this event is the same as the Adventure mode "Xing Tian's Mountain" that released as the same time, it appears the two are unrelated in terms of lore.~~*
 
    He heads to China, to find the coasts destroyed by a tsunami sourced from Ao Kuang's *(not destroyed)* Palace. He's greeted by Erlang Shen's ~~innocent pibble~~ 'evil cloud'-possessed dog, Erlang gets it under control, and then they chat for a bit. Erlang thinks it's Susano-O's fault (as he arrived at the same time the storms and clouds started), Susano-O dismisses his concern.
-   Another tsunami is about to hit, in which Erlang shows what he'd been doing for most of the ongoing apocalypse so far; turning into a big bird and using the wind-force from flpping his wings to break it up, and protect the survivors behind him. He's about to fail with this one, but Erlang swallows his pride when the two realise Wukong is nearby *(not at the Norse Pantheon any more)*. Erlang asks for help, Wukong shifts into a second big bird and the tsunami is defended against as the two shapeshifters flap along together.
+   Another tsunami is about to hit, in which Erlang shows what he'd been doing for most of the ongoing apocalypse so far; turning into a big bird and using the wind-force from flpping his wings to break it up, and protect the survivors behind him. He's about to fail with this one, but Erlang swallows his pride when the two realise Wukong is nearby *(not at the Norse Pantheon)*. Erlang asks for help, Wukong shifts into a second big bird and the tsunami is defended against as the two shapeshifters flap along together.
    Happy times.
 
 -> Susano-O naruto-runs westward. <-
@@ -124,22 +124,22 @@ So, uh, yeah, back on track from Phase 1 moving into Phase 2 of the lore. The Od
    Now in India, Susano-O finds Agni as a fire-vortex with another ebil cloud above his head.
 
    Susano-O goes to intervene, Agni thinks Susano-O is there to kill him and tries to explain what he knows. Agni explains he's not turned *ebil*, and that the cloud is actually organic; before an unidentifiable corpse lands, showing it's a mysterious winged animal. Agni points Susano-O in the direction of Egypt / Neith for a lead on things.
-   Once there, Neith gives him a cute pep talk to forgive himself over his guilt for Amaterasu, and says it's probably a death god up to no good (since the only divine entities cloud'd so far were the undead and beasts). From there, Anubis makes a spot reappearance, and explains there's a new death God in town that's beginning to make moves for himself in the chaos, that has control over bats (leading to Susano-O to connect the dots with the winged animal corpse).
-   Anubis says he'll take on the new Bat-God in the West *(who could it be?!)* if Susano-O sails North to check if it's the Greek or Norse Death Gods up to no good.
+   Once there, Neith gives him a cute pep talk to forgive himself over his guilt for Amaterasu, and says it's probably a Death God up to no good (since the only divine entities cloud'd so far were the undead and beasts). From there, Anubis makes a spot reappearance, and explains there's a new Death God in town that's beginning to make moves for himself in the chaos, that has control over bats (leading to Susano-O to connect the dots with the winged animal corpse).
+   Anubis says he'll take on the new Bat-God in the West *(who could it be?!)*, provided Susano-O sails North to check out if it's the Greek or Norse Death Gods up to no good.
 
 -> ![Plains](https://files.catbox.moe/74jkmy.jpg) <- 
 
    En-route, Susano-O is jumped by Scylla far away from Messina, who kills half his cre- HOLY FUCKING SHIT SUSANO-O FUCKING KILLS SCYLLA WITH A HEAVY JUMPING DOWNWARD SLASH! *He ain't fucking around.* But alas, not without his ship sinking as a result. After a being slowed from the capsize, his bum-ass washes up in Greece and has to walk the rest of the way.
    He heads through a coastal forest, is pounced by Arachne, and gets his sword ensnar- HOLY FUCKING SHIT SUSANO-O FUCKING CRUMPLES ARACHNE'S JAW WITH ONE PUNCH! It's not clear if she's actually fucking dead from that one strike, has had her jaw shattered completely or is just reeling like a high school girl who just broke a nail, but either way, flying animals overhead, he carries on.
 
-   Once he reaches the throne room of Olympus, he gets swarmed by the mystery flying cloud-animals. Cut to Susano-O doppelgangers kicking the shit out of him on the ground and making him feel really self-conscious over the 'cave incident' with Amaterasu, Hades actually comes out of hiding and *helps* Susano-O by dispelling the swarm for him. Hades friendly-ly explains that Susano-O got cloud'd, and sends him North again to check on Hel ~~to cover his own alibi~~ with a reassuring pat on the back and a trustworthy smile.
+   Once he reaches the throne room of Olympus, he gets swarmed by the mystery flying cloud-animals. Cut to Susano-O doppelgangers kicking the shit out of him on the ground and making him feel really self-conscious over the 'cave incident' with Amaterasu, Hades actually comes out of hiding and then *helps* Susano-O by dispelling the swarm for him. Hades friendly-ly explains that Susano-O got cloud'd, and sends him North again to check on Hel ~~to cover his own alibi~~ with a reassuring pat on the back and a trustworthy smile.
 
    Susano-O, now in the snow-thick Roman countryside, is severely weakened *(since Cold + Inland doesn't work for a Summer Storm + Sea God out of his turf)*.
-   Sylvanus appears and explains that Thor got cloud'd, and is now trying to pick a fight with Terra. Terra is on the defensive, 'trying' to mind her own business - but the two still have still completely ~~obliterated~~ renovated the landscape, creating a huge indentation-valley which they're fighting in. Nobody can hear a thing between the thunder and earthquakes, but Sylvanus takes Susano-O to Terra via some underground caverns. Susano-O uses some of his remaining strength to have the winds clear the sky and take the snowstorm away, which takes away Thor with it. Terra quietly nods to Susano-O in thanks, Susano-O continues to give chase, travelling to Scandinavia - now convinced it's Hel off the back of Ragnarok who's causing all this trouble.
+   Susano stumbles into Sylvanus en-route. Sylvanus explains that Thor got cloud'd, and is now trying to pick a fight with Terra. Terra is on the defensive, 'trying' to mind her own business - but the two still have still completely ~~obliterated~~ renovated the landscape, creating a huge indentation-valley which they're fighting in. Nobody can hear a thing between the thunder and earthquakes, but Sylvanus takes Susano-O to Terra via some underground caverns. Susano-O uses some of his remaining strength to have the winds clear the sky and take the snowstorm away, which takes away Thor with it. Terra quietly nods to Susano-O in thanks, Susano-O continues to give chase, travelling to Scandinavia - now convinced it's Hel off the back of Ragnarok who's causing all this trouble.
 
 -> ![Tundra](https://files.catbox.moe/6ivnom.jpg) <- 
 
-   Now at the Bifrost *(the Norse Interdimensional Rainbow-Bridge)*, Susano-O fights Thor in Asgard proper, which as been completely obliterated by Fenrir (who still on the loose somewhere in the Norse Pantheon); leaving only cloud'd Thor behind. Thor tears the place up even more in blind rage, Susano-O is saved at the last moment by Tyr, who gets Thor to fuck off by appealing to what little consciousness he had left. Susano-O explains it's Hel's fault, except Tyr retorts that it can't be, because it only started after she was 'dealt with' *(hence, after Phase 1, she's been beaten and captured)*.
+   Now at the Bifrost *(the Norse Interdimensional Rainbow-Bridge)*, Susano-O fights Thor in Asgard proper, which as been completely obliterated by Fenrir (who still on the loose somewhere in the Norse Pantheon); leaving only a cloud'd Thor behind. Thor tears Asgard up even more in a blinded rage, Susano-O is saved at the last moment by Tyr, who gets Thor to fuck off by appealing to what little consciousness he had left. Susano-O explains it's Hel's fault, except Tyr retorts that it can't be, because it only started after she was 'dealt with' *(hence, after Phase 1, she's been beaten and captured)*.
    Thor returns, cloud'd again. Susano-O and Tyr pin him down before getting swarm'd by the cloud too. Susano-O manages to resist the doppelganger onslaught this time, before it reveals .... *(?!)*
 
 -> ![Mountains](https://files.catbox.moe/npnbxp.jpg) <- 
@@ -147,13 +147,15 @@ So, uh, yeah, back on track from Phase 1 moving into Phase 2 of the lore. The Od
 ***
 
    Anubis, still on the run from Ares, crosses Atlantis *(this location is never brought up again lol, ~~I think they might have just been trying to say the Atlantic in an overcomplicated historically inaccurate way; given 'the Atlantic' was known as 'Atlantiko(s)' in ancient times~~)*, to reach the Mayan Pantheon.
-   He's ushered to Awilix, quickly explains the situation to her, then Awilix explains that Camazotz is taking full advantage of the havoc to go hunting and feast on easy targets, and asks for some help. Anubis looks for him in the forest, gets swarmed and scratched up, Anubis deathpulses the entire swarm and draws Camazotz out. Camazotz fucks around for a bit with echoes, Anubis figures out which voice is real and grabs Camazotz.
+   He's ushered by some local mortals to Awilix, quickly explains the situation to her, then Awilix explains that Camazotz is taking full advantage of the havoc to go hunting and feast on easy targets, and asks for some help. Anubis looks for him in the forest, gets swarmed and scratched up by small bats, Anubis deathpulses the entire swarm and draws Camazotz out. Camazotz fucks around for a bit by speaking using bounced echoes, Anubis figures out which voice is real and gets a grip of Camazotz.
 \>*“You underestimate me Zotzy"*
 \>*“You overestimate me Noobis"*
 Camazotz explains the clouds abroad aren't bats but... but *crows!?*
 
-   Cut back to Susano-O, and yeah, it's 'revealed' all along that it was the Morrigan just causing chaos and turning people against each other. Just because she could.
+   Cut back to Susano-O, and yeah, it's 'revealed' all along that it was the Morrigan just causing chaos and turning people against each other. Just because she could
+
    No reason.
+
    That's it.
 
    ...
@@ -202,7 +204,7 @@ Camazotz explains the clouds abroad aren't bats but... but *crows!?*
    -> *The music doesn't change for a while so.... well I hope you like this one on repeat.* <-
 
    So now we drop on in to our local OG madman Ares *(there's lots of art this time, and generally more onwards - if you're on a computer, you should be able to drag and drop the images into another tab to see them in full)*.
-   After having torn Egypt a new one, Ares is back on the trail for Anubis and he has a lead that has him head over to the Maya on a *Bizaare Adventure* of his own.
+   After having torn Egypt a new one, Ares is back on the trail for Anubis - and he has a lead that takes him toward the Mayans on a *Bizaare Adventure* of his own.
 
    Chaac is dealing with a logistical nightmare, because he can't summon the rain *(turns out some retards are making it really overcast and thunderous somewhere else on Earth, which is fucking with his own ability to control the rain winds - Divine Realm logic)*. He just can't get it up, he hasn't won a game in years and a riot's about to kick off, over the drought in the rainforest for the crop cycle.
    Ares doesn't give a fuck what Chaac's dealing with and ~~autistically~~ bluntly asks where Anubis is. Chaac spares some time out of his busy schedule and helps him. Chaac points Ares West, after explaining he had to clean up Anubis's bat-bite wounds to get Anubis to fuck off - then Chaac returns his focus on the angry crowd of mortals, as he tries to help them.
@@ -214,7 +216,7 @@ Camazotz explains the clouds abroad aren't bats but... but *crows!?*
 
 -> ![FoW 1b](https://files.catbox.moe/kgo3x8.jpg) <-
    
-After the result of the fight in Scandinavia in Phase 1, all shit's fucked. Fenrir's still on the loose, Asgard is still smashed up from cloud'd Thor's 'rennovation', now there's shadow-things are popping up all over the place and to top things off, most of the Norse Divine Realm is on fire *(just to make things easier)*.
+After the result of the fight in Scandinavia in Phase 1, all shit's fucked. Fenrir's still on the loose, Asgard is still smashed up from cloud'd Thor's 'rennovation', now there's shadow-things are popping up all over the place - and to top things off, most of the Norse Divine Realm is now on fire *(just to make things easier)*.
 Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if the Norse need and more help evacuating. Odin tells Thor to head the evac, Thor does the classic *"but father - I cannot leave you!"* shtick. Final stand at Asgard with Odin / Tyr / Thor vs Fenrir - the men stalling with what remains of the Norse people who are able to fight, while they wait for Athena to evacuate the weaker mortals and then move the Greek army that Ares ditched in Egypt, up Northward to reinforce their defences at Vigridr. Fenrir on the other hand, is sniffing around to bust Hel out of the pound (like how she released him), and is generally a living raid-boss.
 
 -> ![FoW 2a](https://files.catbox.moe/pi1tk5.jpg) <-
@@ -226,12 +228,12 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
 ***
 
    Ares, still on his warpath, now finds himself in Japan - namely at Aokigahara / the Suicide Forest *(Northwestern forest region below Mt Fuji, a well-known 'haunted forest' that many people kill themselves at, even today, in real life)*.
-   *Somebody* has gone and removed the Chibiki Stone that seals Yomi, now conveniently placed in Aokigahara *~~{\*ahem\*} it's never made clear who did it, since it requires the strength of 1,000 men to do so (alternate translation for the Chibiki Stone being the "Rock of a Thousand Pulling", so we'll just assume The Morrigan probably did it or something {\*ahem\*}~~*, so when Ares passes by, Izanami-no-Mikoto lurches at him tied to her ribbons within Yomi, and begs him to free her for any wish.
+   *Somebody* has gone and removed the Chibiki Stone that seals Yomi, now conveniently placed in Aokigahara *~~{\*ahem\*} it's never made clear who did it, since it requires the strength of 1,000 men to do so (alternate translation for the Chibiki Stone being the "Rock of a Thousand Pulling"), and the Rock itself has a patron God / is a God known as Chigaeshi / Michikaeshi, whose sole purpose is to maintain the border between living and dead.... so uhhhh we'll just assume The Morrigan probably did it or something {\*ahem\*}~~*, so when Ares passes by, Izanami-no-Mikoto lurches at him tied to her ribbons within Yomi, and begs him to free her for any wish.
    *~~As of writing, the existence of Yomi and Izanami's assoication with it will certainly be an unintended plothole in the future, because the writer is a mythologylet, for reasons reserved until then.~~*
 
    She tries to seduce Ares with her luscious half-rotten corpse-body, Ares waves her off because he's already banging the literal embodiment of beauty. *(Power move.)*
    She tries to offer him power, Ares doesn't need power because Ares is already the most powerful thing Ares knows. *(Power move.)*
-   Ares is about to walk, Izanami's getting desperate so begs him to make a wish. He asks for Anubis's location, Izanami jumps at the request and begs him to make a promise to free her for it.
+   Ares is about to walk, Izanami's getting desperate so begs him to make a wish. He asks for Anubis's location *(was that it?)*, Izanami jumps at the request and begs him to make a promise to free her for it.
 
    Ares isn't gonna fall for no tricks however, Ares is a thinking man's brute who won't fall for that shit, so he ties her ribbons to his arm (like his chains) and has her lead the way.
 
@@ -244,7 +246,7 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
    Ares looks up and understands where He-Bo is coming from.
 
    He surveys the area, and figures out He-Bo is just protecting his nearby worshippers, so he threatens to use Chaac's axe (the one he stole) to fuck with the rainclouds and drought them all to death. He-Bo's stuck between a rock and a hard place, and reluctantly lets them pass, because he's a nice guy for the mortals on his turf.
-   Izanami's still yapping at Ares to kill him, but Ares is across the river now s- HOLY FUCKING SHIT ARES FUCKING PERMA-DROUGHTS CHYNA ANYWAYS *JUST BECAUSE HE FUCKING COULD*! HOLY FUCKING SHIT ARES DOOMS HE-BO TO BE FORGOTTEN AND LOSE ALL WORSHIPPOWER, TO ENSURE HE DOESN'T EVER COME BACK FROM THIS DOOMED FATE!
+   Izanami's still yapping at Ares to kill him, but Ares is across the river now s- HOLY FUCKING SHIT ARES FUCKING PERMA-DROUGHTS CHYNA ANYWAYS *JUST BECAUSE HE FUCKING COULD*! HOLY FUCKING SHIT ARES DOOMS HE-BO TO BE FORGOTTEN AND LOSE ALL WORSHIPPOWER, TO ENSURE HE DOESN'T EVER COME BACK FROM THIS DOOMED FATE! SAVAGE!
 
 -> ![FoW 4a](https://files.catbox.moe/hq1xdp.jpg) <-
 
@@ -267,7 +269,7 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
 
 -> ![FoW 5b](https://files.catbox.moe/xgvzv1.jpg) <-
 
-   Back in Egypt, Athena is ashamed at 'her' *(her, past tense)* army, as they're lounging around in the spoils of war from Ares's indisputably, unquestionably successful campaign. She forces them to get off their asses and pray to Ra so he can get a Worshippower boost and use it to heal his eyes *(the ones that Ares had gouged out)* - ending the endless eclipse acoss the Earth
+   Back in Egypt, Athena is ashamed at 'her' *(her, past tense)* army, as they're lounging around in the spoils of war from Ares's indisputably, unquestionably successful campaign. She forces them to get off their asses and pray to Ra so he can get a Worshippower boost and use it to heal his eyes *(the ones that Ares had gouged out)* - ending the endless eclipse acoss the Earth.
    Straight away, they mobilise to Asgard, after Ra gives her a free vision that it's doomed to fall and Hel will escape her recent confinement - at least, if they don't hurry the fuck up.
 
 -> ![FoW 6a](https://files.catbox.moe/r37ix9.jpg) <-
@@ -275,7 +277,7 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
 -> ![FoW 6b](https://files.catbox.moe/dh401r.jpg) <-
    
    En-route, now in the Roman countryside *(somehow snow-free, compared to what we recently saw of it)*, Athena's caravan are attacked by the shadow-monsters that were in Asgard.
-   Athena tries to solo an especially huge nearby Frost Giant, gets BTFO, then her Great-Aunt Nox arrives. Nox wipes all the shadowbeasts near-instantly, and uses them to *\*fucking solo the Frost Giant with absolute ease, like, swatting-a-bug tier*\* - just to punctuate their complete power-level difference. Nox then directs Athena to ditch Asgard *(since it's too late for them anyways - however now for the Norse, reinforcements won't ever be coming)*, and instead take them to Greece to deal with *a certain someone* before something more 'cataclysmic' kicks off.
+   Athena tries to solo an especially huge nearby Frost Giant, gets BTFO, then her Great-Aunt Nox arrives. Nox wipes out all the shadowbeasts in the area near-instantly, and uses them to *\*fucking solo the Frost Giant with absolute ease, like, swatting-a-bug tier*\* - just to punctuate their complete power-level difference. Nox then directs Athena to ditch Asgard *(since it's too late for them anyways - however now for the Norse, reinforcements won't ever be coming)*, and instead take the army to Greece to deal with *a certain someone* before something more 'cataclysmic' kicks off.
 
 -> ![FoW 7a](https://files.catbox.moe/9rlp93.jpg) <-   
 
@@ -300,9 +302,10 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
    Hades, quite pleased with himself at getting his two retarded nephews to fight amongst themselves, finishes decorating the throne room ~~with Halloween leftovers~~ and sits back down, watching the two useful idiots take their fight outside. Ares is supplying Hades with his side of the Chaotic Greek Army, Athena is moralfagging with the other half / the Order-loyal side of the Greek army.
 
    So now it's the time for the big reveal!
-   With all the dead that have been accumulating because Ragnarok-Apocalypse, Hades has grown especially powerful, and this is on top of huge levels of Worshippower that come with being the temporary Pantheon Head. Hades produces 'The Soul of Ragnarok' (lent from Hel) and something probably representing the souls he has access to - and by combining the two then absorbing the product, Hades BECOMES.... ~~the little girl~~ **RAGNAROK!!!!!1!!!11!!!!!**
+   With all the dead that have been accumulating because Ragnarok-Apocalypse, Hades has grown especially powerful, and this is on top of the huge levels of Worshippower that come with being the temporary Pantheon Head. The original plan was for Hades to do this alone at his own pace, while everyone else in fighting condition was distracted with the Defence of Asgard to prevent the 'usual' start of the Apocalypse, being Hel / Fenrir - however mommy Noxxy threw the spanner in those works, and as a result, da plan needs to be hurried along a little bit, on the offchance Athena ruins everything.
+	Hades produces 'The Soul of Ragnarok' (lent from Hel) and something probably representing the worshippower / souls he has access to - and by combining the two then absorbing the product, Hades BECOMES.... ~~the little girl~~ **RAGNAROK!!!!!1!!!11!!!!!**
 
--> ![Fusion](https://files.catbox.moe/9iysoy.jpg) <-
+-> ![Fusion](https://files.catbox.moe/gukw32.jpg) <-
 
 -> ![Ragnarok](https://files.catbox.moe/obiaol.jpg) <-
 
@@ -319,7 +322,7 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
 
 ***MAP INTERLUDE TIME** - And it's a biggun' - in part because the new Conquest map itself \*was\* the lore event.*
 
-   *There was no written lore for Ragnarok itself, as it was 'supposed' to be that the fighting that took place on this Conquest map in-game / around the world in general (ie, the other maps - Roman Arena, Norse Assault, Chinese Joust, Egyptian Clash and Mayan Siege) was the events of the narrative, as everyone was just at each other for a while. Essentially, the experience of fighting on the map was the experience that everyone had fighting during Ragnarok. ~~Sounds great as a concept, but that doesn't change that nothing was written, and that it's confusing for people today who weren't playing in 2018.~~*
+   *There was no written lore for Ragnarok itself, as it was 'supposed' to be that the fighting that took place on this Conquest map in-game / around the world in general (ie, the other maps - Roman Arena, Norse Assault, Chinese Joust, Egyptian Clash and Mayan Siege) was the events of the narrative, as everyone was just at each other's throats for a while. Essentially, the experience of fighting on the map was the experience that everyone had fighting during Ragnarok. ~~Sounds great as a concept, but that doesn't change that nothing was written, and that it's confusing for people today who weren't playing in 2018.~~*
    *This new Conquest map pits Athena on the Order side, against Ares on the Chaos side - Olympus vs the Underworld (which Hades had arisen to the surface itself). I don't quite understand why Hades isn't still in Olympus, but let's just roll with it.*
 
    *So, to just take it from the top.*
@@ -345,7 +348,7 @@ Athena gathers mortals to lead them to safety and checks in at Vigridr to ask if
 
 -> ![Conq S5 Duo](https://files.catbox.moe/vigq81.jpg) <-
 
--> ![Conq S5 Towers](https://a.pomf.cat/nglsjy.jpg) <-
+-> ![Conq S5 Towers](https://files.catbox.moe/l81973.jpg) <-
 
    *Finally, to add onto this section - we have a very interesting tale to do with one of the (current) ONLY lore-relevant / canon skins in the ENTIRE game - that being Ragnarok Hades.*
 

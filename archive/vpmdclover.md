@@ -8,7 +8,7 @@
 ###Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam | M | Meowstic | N/A | Clover Guildmaster | [Modest](https://rentry.org/vpmdcloverpb)
+Lliam | M | Meowstic | N/A | Clover Guildmaster | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet, Native) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nickamelia)
 Booker | M | Ribombee | Sneasel (F, Hasty, Native) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#bookersneasel)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
@@ -34,7 +34,7 @@ Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild
 Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
 Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member(?) | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
-??? | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
+Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -89,7 +89,7 @@ Skull | M | Cubone | ??? | Clover Guild Member | [Quiet](https://rentry.org/vpmd
 
 Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | Origin Stories | Lore Dump (i.e. World Building) | Non-Canon | W.I.P
 :-: | :-: | :-: | :-: | :-: | :-: | :-: 
-1 | [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)| [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755) | [The Snivy and the Mysterious Rock Path](https://rentry.org/eurf8) |[A Detailed Guide to Aura](https://rentry.org/PMD_Aura) | [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992) | [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517) 
+1 | [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)| [First Character Prompts](https://rentry.org/1stCharacterPrompt) | [The Snivy and the Mysterious Rock Path](https://rentry.org/eurf8) |[A Detailed Guide to Aura](https://rentry.org/PMD_Aura) | [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992) | [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517) 
 2 | [Map (ft. Booker)](https://rentry.org/e9e5p) | [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874) | [A 'Mon, Gus](https://rentry.org/7ytz9) | [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h) | [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) | [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
 3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdue) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)  | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
@@ -110,7 +110,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 19 | [An Untitled Camel ~~Game~~ Story (ft. Kaiji)](https://rentry.org/7pagq) | | [A New World](https://rentry.org/sm6dx) | | |
 20 | [Mountain Hike (ft. Chespin)](https://rentry.org/mk77t) | |[It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt) | | |
 21 | [Debby's Mishaps](https://arch.b4k.co/vp/thread/53551186/#53553696) | | [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)| | |
-22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/) | | |
+22 | [An Unexpected Find (ft. Chespin)](https://rentry.org/m2kdg) | | [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld) | | |
 23 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | [Team Moxie Introduction](https://rentry.org/fehwy) | | |
 24 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro) | | |
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
@@ -183,8 +183,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Team Cozy (ft. Chespin)](https://rentry.org/9tqka)
 * [Enter the Federation - Thunder Dome (ft. Booker)](https://rentry.org/RibombeeThunder)
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
-* [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
 * [Enter the Federation - The Quartet](https://rentry.org/r4m9y)
+* [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
 * [Enter the Federation - Ending](https://docs.google.com/document/d/1amKRSwuymZoPKZzXw5ugS6P-urz84V3ufR7uyn7J9p8/edit)
 
 ###List of Stories Sorted by Author
@@ -287,6 +287,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [KFC Gets a Win!](https://rentry.org/49yqh)
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
+* Linoone
+	* [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -300,6 +302,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
 	* [Team Moxie Introduction](https://rentry.org/fehwy)
+	* [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg) *Not on Table*
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
 	* [Percival's Extended Introduction](https://rentry.org/uosgo9)
@@ -315,7 +318,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Pikachu
 	* [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
 * Porygon
-	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
+	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld)
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
@@ -474,7 +477,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {2000-7-23||} [Smoke Break (ft. Debby)](https://rentry.org/d5qbc)
 * {||} [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 * {||} [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
-* {||} [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld/)
+* {||} [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld)
 * {||} [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
 * {||} [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 * {||} [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
@@ -511,6 +514,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 * {||} [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 * {||} [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
+* {||} [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
+* {||} [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

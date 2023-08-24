@@ -638,6 +638,10 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 # KX' LoRAs
 
+Anonfiles links seem to be down; KX reuploaded his LoRAs here:
+
+	https://hastebin.com/share/alazotunec.rust
+
 Yzmuya (Artist)
 
 	https://anonfiles.com/e1g8I3x1z1/yzmuya_v1_12_safetensors
@@ -752,6 +756,30 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
 
 	https://mega.nz/folder/J6c0GZCT#oBsCILW-X108fwdiRp9L-w
+
+# Lucy (Legend of Lucy - Webcomic)
+
+	https://files.catbox.moe/k9i6ro.rar
+
+# Female POV Taker / Bottom
+
+	https://files.catbox.moe/mgchby.safetensors
+
+# Emma (Insignificant Otters - Webcomic)
+
+	https://files.catbox.moe/jytnda.rar
+
+# Iris (Scalie Schoolie - Webcomic)
+
+	https://files.catbox.moe/37xlqn.rar
+
+# Rosianna Rabbit (Rosianna Rabbit - Webcomic)
+
+	https://files.catbox.moe/rrq311.rar
+
+# Alex (What's Better Than This? - Webcomic by RushEloc)
+
+	https://files.catbox.moe/9vah4z.rar
 
 ## LORAs from the Discord
 

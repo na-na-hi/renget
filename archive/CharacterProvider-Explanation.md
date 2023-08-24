@@ -8,7 +8,17 @@
 #
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-
 # 
-
+#
+- - -
+- - -
+- - -
+#
+#OUTDATED V8+
+#
+- - -
+- - -
+- - -
+#
 ##Why we use XML?
 **Quote from anthropic docs:** "We can also ask Claude to use XML tags in its response. Doing so can make it easy to extract key information in a setting where the output is automatically processed. Claude is naturally very chatty, so requesting these output XML tags helps separate the response itself from Claude's comments on the response."
 

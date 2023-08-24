@@ -34,14 +34,12 @@ https://chub-archive.evulid.cc/#/
 https://chatbots.neocities.org/
 https://rentry.org/cai-list [CAI]
 https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
-https://avakson.github.io/character-editor/
 
 >Guides + JBs
-https://rentry.org/Aicg4Retards - https://rentry.org/agnai_guides
+https://rentry.org/Aicg4Retards - https://rentry.org/agnai_guides - https://rentry.org/sillytermux
 claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/meaux - https://rentry.org/KaruKaruBagOfGoodies
-turbo -> https://rentry.org/YAnonTurbo - https://rentry.org/HochiTurboTips
-https://rentry.org/sillytermux [Mobile Extras]
-aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
+turbo -> https://rentry.org/YAnonTurbo 
+NAI (Incomplete)- https://rentry.org/SillyNAIGuide - https://rentry.org/NAIChatbot - https://rentry.org/AnotherSillyGuide
 
 >Fronts
 https://github.com/SillyLossy/TavernAI [Tavern]
@@ -55,12 +53,16 @@ https://github.com/kwaroran/RisuAI-release/releases
 https://rentry.org/slaude2 [Slaude 2]
 https://github.com/PandarusAnon/slaude [Slaude]
 https://github.com/bfs15/slaude [Another Slaude]
+aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvN3JraC5tcDQ=
+https://rentry.org/slaude2 [clewd]
 
 >Botmaking
 https://rentry.org/meta_botmaking_list
+https://avakson.github.io/character-editor/
 
 >Local models (Pygmalion, LLaMa)
 >>>/g/lmg/
+https://rentry.org/colabfreellamas
 
 >Meta
 OP templates: https://rentry.org/aicgOP
@@ -191,6 +193,6 @@ Old: --Previous Thread--
 
 ## Extra
 ```
-proxy checked -> https://navigatethecoom.github.io/navigate/
+proxy checked -> https://chub-archive.evulid.cc/proxies
 ```
 Some extra things you might want to add

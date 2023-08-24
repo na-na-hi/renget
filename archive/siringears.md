@@ -1,4 +1,4 @@
-##SIRIN GEARS V3
+##SIRIN GEARS V3C?
 Translation by Aki, future updates by Marisa
 
 Patch Note: https://rentry.co/69log
@@ -16,7 +16,7 @@ BOT: ATK 59. Total DMG +35%. Weapon Active inflicts +20% more Ignite trauma. Eve
 
 2 SET: Against Ignited enemies, you take ~~20%(v1) >~~ **30%(v2) > 12%(v3)** less DMG. Host's Ignite DMG **+30%(v2) > 20%(v3)** 
 
-3 SET: All enemies on the field take ~~+10%(v1) >~~ 14%(v2) more Fire DMG from the host ~~(independent multiplier).~~ If the enemy has more than 2 Ignite stacks, the enemy takes additional ~~+5%(v1) >~~ 6%(v2) more Fire DMG from the host ~~(independent multiplier)~~, cannot stack.
+3 SET: All enemies on the field take ~~+10%(v1) >~~ 14%(v2) more ~~Fire DMG~~ **Total DMG** from the host ~~(independent multiplier).~~ If the enemy has more than 2 Ignite stacks, the enemy takes additional ~~+5%(v1) >~~ 6%(v2) more ~~Fire DMG~~ **Total DMG** from the host ~~(independent multiplier)~~, cannot stack.
 (Note: Independent multiplier clause removed from beta, but as far as we know, take xx% more dmg from host counts as independent multiplier, and even patch note states effect remains the same)
 
 ---

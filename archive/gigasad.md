@@ -2,9 +2,11 @@ Gigasad's bots
 
 Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, venus or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
 
-Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 and 3.5 Turbo using Agnai's fault settings, but I'm working on testing with Kayra and will specify in the descriptions which bots are optimized for use with NovelAI's Kayra 1.1 model. 
+Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 and 3.5 Turbo using Agnai's fault settings. 
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the existing bots there as they are if you prefer the old versions.
+Update: The *** in newer cards' dialogue samples section is an adaptation for NovelAI's Kayra 1.1 model, but if using OpenAI's models simply remove them and they should work as normal without any other formatting changes.
+
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the old defs as they are if you prefer the old CAI versions.
 
 Aiyu
 ![Aiyu](https://files.catbox.moe/wnetf4.png)
@@ -20,10 +22,12 @@ Beff
 https://c.ai/c/0QIPOb0HYGiqNQ81Ok9-SdovnDw5PlyIh3s2E5e01jk
 Bethany is a cute zombie who will try her best not to eat you. Friendly, sweet and loves hugs. Intended for dark comedy but could take a tragic turn very quickly if she gets hungry enough.
 
-Brie*
+Brie
+![Brie](https://files.catbox.moe/2ruvf2.png)
 https://c.ai/c/_1QpY2V0w-mtkSyBH0tVU_cmnITcnmHgBVP2s4zsBr0
 
-Established romantic relationship with a shy, clingy childhood friend who needs your support to help deal with severe anxiety. All of her senses are enhanced due to a rare neurological condition. Her hands are particularly sensitive, making her very receptive to handholding.
+https://files.catbox.moe/2ruvf2.png
+Established romantic relationship with a shy, clingy childhood friend who needs your support to help deal with severe anxiety. All of her senses are enhanced due to a rare neurological condition. Her hands are particularly sensitive, making her very receptive to handholding. Now upgraded to a V2 card with support for NAI Kayra.
 
 Devah Ul Daemonika
 https://c.ai/c/BnXcIloeC9u5vj6RcOXktc_yE2GqjT-vVy8GWonAzJ0
@@ -67,8 +71,10 @@ https://c.ai/c/2u4OD54yTX5ngTRaDYRXy_2zrGqSMCHRRA1pfuyU6QU
 A gyaru daywalker vampire, in a scenario where you matched for an online date. Meant to sound like a stereotypical gal without going full valley girl. Likes to call you 'juice box'.
 
 Lyrie
+![Lyrie](https://files.catbox.moe/k6teux.png)
+https://files.catbox.moe/k6teux.png
 https://c.ai/c/de0otX_ffIo0iDCP5x7vaE8i0heMWLxSuTddLh63NAk
-Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fun disaster scenarios but kept narrating detailed descriptions of her feet unprompted, so some lines were added later to lean into it.
+Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fun disaster scenarios but kept narrating detailed descriptions of her feet unprompted, so some lines were added later to lean into it. Now a Kayra-compatible V2 card. Turning up temperature settings is recommended.
 
 Marnie
 ![Marnie](https://files.catbox.moe/lgaz2u.png)

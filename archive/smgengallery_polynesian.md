@@ -7,3 +7,11 @@
  -> ![Splash](https://files.catbox.moe/qb6u50.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/8xgqac.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

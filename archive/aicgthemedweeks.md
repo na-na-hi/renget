@@ -7,7 +7,7 @@
 #### -> FRIDAY -- Collecting ideas <-
 #### -> SATURDAY -- Running a poll <-
 #### -> WEDNESDAY -- Submission deadline <-
-#### -> FRIDAY -- Cretaing a rentry page <-
+#### -> FRIDAY -- Creating a rentry page <-
 ***
 -> ![](https://files.catbox.moe/63p46y.png) <-
 ### -> Below you can find the list of rentries in order of creation <-
@@ -16,5 +16,5 @@
 ## -> [Jealous robogirl attempts to imitate humans](https://rentry.org/discardedthemedweek) <-
 ## -> [God of something unremarkable](https://rentry.org/aicgthemedweek2) <-
 ## -> [Randomness and probability](https://rentry.org/aicgthemedweek3) <-
-## -> Next event date: 18.08 <-
+## -> Mental illness <-
 ***

@@ -157,11 +157,11 @@
 
  -> ![Splash](https://files.catbox.moe/3w76pe.jpg) <-
 
- -> ![Concept](https://files.catbox.moe/eph45d.jpg) <-
+ -> ![Concept](https://files.catbox.moe/4t351x.jpg) <-
 
  -> ![Promo](https://files.catbox.moe/r70ymd.jpg) <-
 
- -> ![Promo 2](https://a.pomf.cat/ntxxoo.jpg) <-
+ -> ![Promo 2](https://files.catbox.moe/dqvcho.jpg) <-
 
  -> **Atlas** <-
  -> = *At-Las* <-
@@ -247,7 +247,7 @@
  -> = *Ar-Ak(h)-Nee* <-
  -> *{Stem of the word 'Arachnid'}* <-
 
- -> ![Splash](https://files.catbox.moe/3vo434.jpg) <-
+ -> ![Splash](https://files.catbox.moe/znskhy.jpg) <-
 
  -> ![Classic Splash](https://files.catbox.moe/0qi35k.jpg) <-
 
@@ -262,3 +262,11 @@
  -> ![Splash](https://files.catbox.moe/4jd8i9.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/3gab2q.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

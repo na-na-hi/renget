@@ -14,11 +14,14 @@ Advertisements for the Disk Djinn supposedly were common in comic books and maga
 ## Notable effects
 As mentioned previously, the Disk Djinn was seemingly able to change the code of games in ways that were uncharacteristically complex, leading many to believe that the creators of the Disk Djinn made pre-generated hacks that came with the device. However, there was no way at the time for the Disk Djinn to be receiving these premade hacks without physical add-ons being delivered in the mail to owners. Any evidence of such add-ons is little to none. Additionally, the changes made by the Disk Djinn showcase knowledge of the games being modified that wouldn't be at all possible for a computer, such as knowledge of the personalities of the game's characters as well as it's in-universe history. 
 ###Examples of effects
-- levels appearing in different orders or with different tilesets
-- dialogue and cutscenes unique to hacked copies
-- original assets appearing in-game that don't exist in the original product's source code
-- original music and sound effects that accompany and/or replace existing instances
-- characters showcasing unusually complex behavior
-- entirely new levels
 - game-breaking glitches capable of causing damage to hardware
+- original assets appearing in-game that don't exist in the original product's source code
+- dialogue and cutscenes unique to hacked copies
+- levels appearing in different orders or with different tilesets
+- increased/decreased difficulty
+- enemies showcasing unusually complex behavior
+- death animations show more realistic animations
 - texture glitches resembling offensive, eerie, or graphic imagery
+- original music and sound effects that accompany and/or replace existing instances
+- modifications to source code
+- entirely new levels

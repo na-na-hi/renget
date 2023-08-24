@@ -4,17 +4,14 @@
 
 IMO I recommend downloading off CHub as I update there and don't bother updating files.catbox.moe contents. (Also number go up)
 
-Apparently some CHub links are case-sensitive??? (Inconsistently happens with random links, not sure why) https://www.chub.ai/characters/phalannex/docudubery <- leads to 404 for me
-[TOC]
+Got a lorebook with all playable Genshin Impact characters (a brief description of averaged 120~ tokens for each entry. 71 total characters. Might update later.)
+https://chub.ai/lorebooks/phalannex/genshin-impact-characters-b0f98220
 
 # Phalannex's new stuff
 Image | Name | CHub Link | Catbox Link
 ------ | :----: | ------ | ------
 | | ------------------------------------------------------------------------------------------------- |
-![DocuDubery](https://files.catbox.moe/86fxqb.png) | DocuDubery | https://www.chub.ai/characters/phalannex/DocuDubery | https://files.catbox.moe/86fxqb.png
-![Gaggle of British Colonizers](https://files.catbox.moe/xj0vlg.png) | Gaggle of British Colonizers | https://www.chub.ai/characters/phalannex/gaggle-of-british-colonizers | https://files.catbox.moe/xj0vlg.png
-![Raiden Shogun and Ei](https://files.catbox.moe/9n8vwe.png) | Raiden Shogun and Ei (Genshin Impact) | https://www.chub.ai/characters/phalannex/raiden-shogun-and-ei | https://files.catbox.moe/9n8vwe.png
-![Zhongli](https://files.catbox.moe/ta5lht.png) | Zhongli (Genshin Impact) | https://www.chub.ai/characters/phalannex/Zhongli | https://files.catbox.moe/ta5lht.png
+![Nilou](https://files.catbox.moe/wec999.png) | Nilou | https://chub.ai/characters/phalannex/nilou-d3a3e01e | https://files.catbox.moe/wec999.png
 
 # Miscellaneous IP Characters
 Image | Name | CHub Link | Catbox Link
@@ -52,6 +49,7 @@ Image | Name | CHub Link | Catbox Link
 ![Raiden Shogun and Ei](https://files.catbox.moe/9n8vwe.png) | Raiden Shogun and Ei | https://www.chub.ai/characters/phalannex/raiden-shogun-and-ei | https://files.catbox.moe/9n8vwe.png
 ![Zhongli](https://files.catbox.moe/ta5lht.png) | Zhongli | https://www.chub.ai/characters/phalannex/zhongli | https://files.catbox.moe/ta5lht.png
 ![Nahida](https://files.catbox.moe/cuajts.png) | Nahida | https://www.chub.ai/characters/phalannex/nahida | https://files.catbox.moe/cuajts.png
+![Nilou](https://files.catbox.moe/wec999.png) | Nilou | https://chub.ai/characters/phalannex/nilou-d3a3e01e | https://files.catbox.moe/wec999.png
 
 # JoJo's Bizarre Adventure
 Image | Name | CHub Link | Catbox Link

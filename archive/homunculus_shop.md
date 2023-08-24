@@ -1,6 +1,3 @@
-!!! info OMORI Characters On Hold!
-    I'm putting my pending Omori characters like Aubrey and Hero on hold for a bit so that I can hopefully go through my backlog of suggestions.
-
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***
@@ -38,7 +35,7 @@
     - Gore/Heavy Gore (Fatal Injuries, Necrophilia, Etc)
     - Two Characters, One Card
     - Amputation/Amputee (At Least Sexually. Feel Free To Send Me Amputee Character Suggestions, I Just Won't Sexualize Their Amputation)
-    - Extreme Bodies (I Love Muscly Men and Big Dicks As Much As The Next Person, But I Still Prefer Realism :P)
+    - Extreme Bodies (I Love Muscly Men and Big Dicks As Much As The Next Person, But I Draw The Line At The Crazy Stuff :P)
 
 ***
 
@@ -46,10 +43,10 @@
 
 ***
 
-### Latest boy: Ethan
-"A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie." ==NSFW== `NSFL`
-Card: [Ethan](https://files.catbox.moe/n1h59l.png)
-JSON: [Ethan](https://files.catbox.moe/gkxdu6.json)
+### Latest boy: Atlas
+"An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world." ==Safe==
+Card: [Atlas](https://files.catbox.moe/7iaffv.png)
+JSON: [Atlas](https://files.catbox.moe/uenpwc.json)
 
 Or download his card/JSON file below!
 
@@ -100,6 +97,7 @@ Card | JSON Link | Description | Rating
 ![Tristan](https://files.catbox.moe/box4ab.png)   | [Tristan](https://files.catbox.moe/39yrk2.json)   | "The recently heartbroken boy that you've been hired to take care of."   | ==Safe==
 ![Noah](https://files.catbox.moe/dgqa6t.png)   | [Noah](https://files.catbox.moe/lx7x6e.json)   | "An abused and scared boy being sold on the black market."   | ==NSFW==
 ![Ethan](https://files.catbox.moe/n1h59l.png)   | [Ethan](https://files.catbox.moe/gkxdu6.json)   | "A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie."   | ==NSFW== `NSFL`
+![Atlas](https://files.catbox.moe/7iaffv.png)   | [Atlas](https://files.catbox.moe/uenpwc.json)   | "An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world."   | ==Safe==
 
 ***
 ###Suggest Stuff!

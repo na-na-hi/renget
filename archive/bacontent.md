@@ -16,6 +16,8 @@ Link | &nbsp;
 &nbsp;
 [Clockwork Flower Pavane - Special PV Side-A (Animated)](https://www.youtube.com/watch?v=1lBIbTf2btQ)
 [Clockwork Flower Pavane - Special PV Side-B (Animated)](https://www.youtube.com/watch?v=v9j9lIsNTtw)
+[The Ark of Atrahasis Conquest - PV (Animated)](https://www.youtube.com/watch?v=u2d8GHRzxCQ&)
+
 &nbsp;
 [JP Official Youtube Channel](https://www.youtube.com/@BlueArchive_JP/videos)
 [Global Offical Youtube Channel](https://www.youtube.com/@bluearchive_Global/videos)

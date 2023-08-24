@@ -1,9 +1,9 @@
--> ![](https://take-me-to.space/sMOxOsf.png) <-
+-> ![](https://a.imagem.app/b4XMgN.png) <-
 
 # 📜 ➜ **Megathread**
 
 !!! info ➜ Not so fast sailor! Do this first
-    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://take-me-to.space/en2mB3u.png) (*Blocks advertisements & malware*).
+    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://a.imagem.app/b4Xvje.png) (*Blocks advertisements & malware*).
     - [x] Change your DNS settings to one of [these great choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
     - [x] Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
     - [x] Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).

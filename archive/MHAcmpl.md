@@ -607,6 +607,7 @@ Sunlight Man: https://archive.4plebs.org/tg/post/89300955
 Yako: https://archive.4plebs.org/tg/post/89324798  
 Aspara: https://archive.4plebs.org/tg/post/89401642 
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
+Minerva Kim: https://desuarchive.org/tg/thread/90010470/#90018257
 
 ***
 
@@ -819,6 +820,14 @@ Dragon's Visit: Other Side I (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor,
 Moving up in the World: https://rentry.org/esiz3
 There is nothing to be afraid of (Faith, Hailey, Minnie, Max, Edie): https://rentry.org/8qvb4
 A Hard Conversation (Mirror Devil, Drone, Arena): https://rentry.org/kmx3ty
+Mirror's Date (Noctiluca, Drone, Recoil, Spark, Mirror Devil, Challenger, Sunlight Man, Ryu-kishi, Maru (Maru)): https://rentry.org/7u3dpb
+Boomping (Gossip): https://rentry.org/uv6mh
+City Of Silver Gray (Popsy, Seiryu, Noctiluca): https://rentry.org/o2f25
+A Lesson on Two's (Hijack, Class 1-D): https://rentry.org/n8noh
+Kraftwerk Hero Agency - Internship Application (Takeda Hifumi): https://rentry.org/InternshipApplicationTakedaHifumi
+Too Good to Be True (Hailey, Yui, Orochi): https://rentry.org/z7ize
+The Pencil (Ryu-kishi, Maru(maru), Mirror Devil): https://rentry.org/sdtvh
+Hitomi-chan's First Date (Feral, Drekus, Reaper): https://rentry.org/2tu8m
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

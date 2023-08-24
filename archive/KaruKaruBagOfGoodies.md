@@ -1,7 +1,7 @@
 !!! Danger This is not a copy-paste jailbreak. I've given you the template you can freely modify based on your liking. I will constantly update the rentry with information.
 
 -> **KaruKaru's Bag of Goodies** <-
--> *11/08: yes, Claude filter got strengthen again. I will update the method soon once I'm free in two days (13 August) or so most likely.*<-
+-> *23/08: nvm, got busy with college. Haven't tinkered with claude. But XML tag on prefill helps a bit from what I heard. Sorry, really, I'll update with the prefilling template or copy paste once I'm free for real.*<-
 
 -> Currently STILL working on: Finding a better tag for ban, messing around with JB because Claude's filter got strengthen... Again. And it just keeps on getting stronger to be honest. <-
 

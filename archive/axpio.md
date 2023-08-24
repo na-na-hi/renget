@@ -11,10 +11,10 @@
 -> **Current List of writings/requests to do:** <-
 
 SFW:
-The Change
+
 
 NSFW:
-After Match
+
 
 -> • ───────────────── • <-
 -> **Open to Requests** <-
@@ -34,3 +34,5 @@ I'll write SFW or NSFW. Wholesome or Spicy as all hell. Even completely anonymou
   - The Flower and The Bee (Featuring Ioni and Florana): https://rentry.org/i5zen
   - The Bee, The Flower, and The Hound (Featuring Florana, Ioni, and Faolán): https://rentry.org/np68b
   - Exposure Therapy (Featuring Ioni and Werewolf Faolán): https://rentry.org/pkfqw
+  - Reunion (Featuring Florana and Faolán): https://rentry.org/gwt6p
+  - The First Night (Featuring an Unnamed Wizard and Witch): https://rentry.org/hg9zw

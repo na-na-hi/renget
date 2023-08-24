@@ -974,3 +974,25 @@ Cons:
 - Buffs only last 12s
 - Only M.Atk is buffed on UB
 - Not efficient vs ST
+
+
+### ->Swimsuit Shinobu<-
+**TL;DR: Damage dealer that has some debuffs and a unique summon that gets invuln to physical for 6s, but with some low values for other aspects. Doesn't seem necessary unless her Skull Dad is needed for tanking.**
+This unit seems more suited for specific bosses, rather than a general new addition to your roster. With some decent numbers on her skills and UB, she's not got anything super amazing aside from the increase of P.Crit damage at a glance. The idea seems to be allowing her Skull Dad summon to add a tiny bit more punch in terms of debuffs, while being able to invuln himself for a few seconds to physical damage. Otherwise, she seems underwhelming overall.
+
+
+-> ![S.Shinobu](https://redive.estertion.win/card/full/127131.webp) <-
+
+Pros:
+- Invuln on summon to tank otherwise fatal damage potentially
+- P.def shred on S1 and summon's S2
+- Deals decent damage 
+- P.Crit damage increase to boss, for all units to take advantage of
+
+Cons:
+- Stands in front of Christina (Could be good in circumstances where Christina cannot tank and skull dad + S.Shinobu can, not very likely)
+- Buffs are only to self on UB and S2
+- Somewhat low shred values compared to damage dealt
+- Underwhelming damage to compete with other units
+- Summon is not tied to UB, meaning it is more difficult to control/manipulate
+- Not incredibly tanky, given how far forward she is

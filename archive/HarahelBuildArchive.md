@@ -92,6 +92,11 @@ Note: Particularly ravenous specimen of slime, unknown depths of appetite.
 Data: https://rentry.org/yckdvw
 Music:
 
+Name: Bocchi No. 2
+Note: A Sith in Harahel who may or may not also be a Japanese woman who plays in a band — though the latter isn't proven yet.
+Data: https://rentry.org/bocchi02
+Music: 
+
 ## C
 
 

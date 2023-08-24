@@ -23,6 +23,8 @@ https://desuarchive.org/trash/thread/52280033/#52301144
 >Carbon Pink; Cyber Sluts
 https://www.hentai-foundry.com/stories/user/luffy316/55299/Carbon-Pink-Cyber-Sluts
 
+>Planet of Man
+https://desuarchive.org/trash/thread/58777670/#q58976746
 
 ##Donkey Kong
 
@@ -57,6 +59,8 @@ goatboydraws
 VagnerdeSouzaS7
 WeirdOtterDream
 Ninjabunneh
+72hoka
+hyaku
 
 #Monke Hentai
 >Snow Monkey/Yeti Futa Comic by Alek ErectSociety

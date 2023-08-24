@@ -1,78 +1,76 @@
 #Prodigy Guide for iA3 - August 2023 
-### -> A.K.A The Modern LoRa/Variant Guide <-
+### -> A.K.A The Modern LoRa Guide <-
 ##### -> ```stop calling them loras, call them small networks/models. ia3 is not even a lora.``` <-
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info Might make some changes to the scheduler and rewrite some instructions then reupload to CivitAI again. Doing some testing.
+!!! info 21 August: mmm...almost there...
 
-# -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED SOON)](https://civitai.com/user/ia3forchads/models) <-
+# -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
 [Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
-[```iA3 can simply be thought of as LoRa*10, it can be done anywhere from 30-160 steps if not slowing down learning (learning will be slowed in this guide so expect to be done anytime after 400 steps).``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
+[```iA3 can simply be thought of as LoRa*10, it is done anywhere from 40-160 steps and provides the same if not better results than a LoRa.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
 
-!!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is probably due to them not having used correct settings.
+!!! warning iA3 does not need captions and does not need many images. Recommend 10 images as anything above is unnecessary. You can gather only important ones and postprocess by cropping and removing backgrounds.
+
+!!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef if you over/under train due to d\*lr.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef increased/decreased until you overtrain. Keep seed unset and retry until you get a good result.*== <-
 ###Instructions:
-!!! danger Do not sample previews. Completely useless and a waste of time. You should instead learn the graphs within Tensorboard. You want to quickly start at a good d\*lr then smoothly go down for the most part.
+!!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
+!!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
+!!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach eta_min (set to 0 here) then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
+!!! danger ==IMPORTANT:== ```Bucketing sucks don't use it. Crop areas of interest manually. Remove backgrounds optionally.```
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger ==OPTIONAL:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want (recommend leaving on 1200) and wait for the scheduler to reach eta_min (set to 0 here) then stop training.``` ```t_max``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
-!!! note ```Results should never get overtrained after more steps if Prodigy doesn't inflate the LR by a lot.``` You could even train for the entirety of those 31337 epochs and still have a good result.
-!!! warning ```Even if you can train for longer I do not recommend it. iA3 learns extremely fast, if it doesn't then it's an LR issue, you want high LR at the start, it is crucial.```
-!!! danger ==IMPORTANT:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.``` ==Recommend letting Prodigy do whatever it wants as long as it is within 0.02-0.01 starting LR and doesn't spike like crazy.==
-!!! warning If you increase weight_decay you can afford having a lot higher d\*lr. example: weight_decay 0.5, d\*lr 0.05
-!!! danger  ==OPTIONAL:== ```Adjust weight_decay or add in regularization images and use prior_loss_weight. They have a regularization effect that prevents you from ruining training, use as little as you possibly can for your dataset and d*lr, normally you don't have to use these at all as long as your d_coef is set right and apart from that it is only needed when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
-!!! info Name your ```dataset folder to the trigger word``` as that will be used as your caption.
-!!! note ==OPTIONAL:== Set ```resolution higher if you want to, iA3 allows for higher training resolutions. 512,512 uses 5.5 GB ; 768,768 uses 6.5 GB ; 1024,1024 uses 8.5 GB.```
+!!! danger ==OPTIONAL. NOT NEEDED IF T_0 IS SET CORRECTLY:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.```
+!!! note ==OPTIONAL. NOT NEEDED IF T_0 IS SET CORRECTLY: Use Batch Size then adjust t_max accordingly. ```This has been set to 10 here which should fit within 6GB VRAM and above. Recommend standardizing 10 so that even people on low VRAM can get similar training results as you by following metadata.```==
+!!! warning Don't use Gradient Accumulation, it slows training and is worse than its alternative Gradient Checkpointing.
+!!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
+!!! danger  ==OPTIONAL. NOT NEEDED IF DATASET, D_COEF AND T_0 ARE GOOD:== ```Adjust weight_decay, any value from 0 to 1 should provide epic results (based on your d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! note Clip Skipping a layer or two is a good way to regularize training further.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
-!!! warning Clear ```seed``` if you don't want determinism.
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef if you over/under train due to d\*lr.*== <-
+!!! warning I don't recommend noise at all.
+### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef increased/decreased until you overtrain. Keep seed unset and retry until you get a good result.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=1200\" \"T_mult=1\" \"eta_min=0e-0\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=100\" \"T_mult=1\""",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
   "caption_dropout_rate": 0,
   "caption_extension": ".none-use-foldername",
+  "enable_bucket": false,
   "epoch": 31337,
   "gradient_accumulation_steps": 1.0,
-  "gradient_checkpointing": false,
+  "gradient_checkpointing": true,
   "keep_tokens": 0,
-  "learning_rate": 10.0,
+  "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "75",
-  "min_snr_gamma": 1,
+  "min_snr_gamma": 0,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"eps=1e-7\" \"betas=0.9,0.999\" \"d0=1e-5\" \"d_coef=1.1\" \"weight_decay=0.000\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.0\" \"safeguard_warmup=False" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 100,
+  "save_every_n_steps": 20,
   "save_model_as": "safetensors",
   "scale_weight_norms": 0,
-  "seed": "31337",
   "shuffle_caption": false,
   "stop_text_encoder_training": 0,
-  "text_encoder_lr": 10.0,
-  "train_batch_size": 1,
-  "train_on_input": false,
+  "text_encoder_lr": 1.0,
+  "train_batch_size": 10,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
-  "unet_lr": 10.0,
+  "unet_lr": 1.0,
   "weighted_captions": false
 }
 ```
-!!! danger ```max_token_length affects Prodigy's LR, keep on 75 as you won't be needing more than 75 if you're going captionless folder names as recommended.```
-!!! danger ```Default d0 is 1e-6.``` Don't change this.
-!!! danger ```Default eps is 1e-8.``` Don't change this.
-!!! note ```eta_min``` is the lowest point at which your cosine scheduler will drop its LR strength. Basically ```scales Y axis on your UNET and TE tensorboard graphs.``` ```There is not a need to touch this because it makes adjusting Prodigy harder though it is useful sometimes if you don't wanna use t_max or d_coef.```
-!!! note ```safeguard_warmup``` should be enabled ```when using warmup```. (Not recommended. Unnecessary. Prodigy should calibrate itself instead.)
 
 ## -> More resources at www.sdcompendium.com <- 
 ###### -> though i wouldnt recommend older guides as they are suboptimal now, old rentry owners who still havent updated: please delete your rentries as they can be misleading due to recent advances <- 

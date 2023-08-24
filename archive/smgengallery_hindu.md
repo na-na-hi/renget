@@ -18,7 +18,7 @@
 
  -> **Rama** <-
  -> = *Ram-ah* <-
- -> *{Ram-Ah, not Raa-Maa}* <-
+ -> *{Final 'a' syllable is inflected, but not pronounced - Ram-Ah, not Raa-Maa}* <-
 
  -> ![Splash](https://files.catbox.moe/rxe8ty.jpg) <-
 
@@ -82,6 +82,8 @@
 
  -> ![Trailer](https://files.catbox.moe/zowm0a.jpg) <-
 
+ -> ![Promo](https://files.catbox.moe/411wkl.jpg) <-
+
  -> **Kumbakharna** <-
  -> = *~~Ray-piss-T~~* <-
  -> = *Cum-Bak-Har-Na* <-
@@ -101,4 +103,14 @@
 
  -> ![Classic Splash](https://files.catbox.moe/w46p95.jpg) <-
 
+ -> ![Classic Concept](https://files.catbox.moe/qso8ba.jpg) <-
+
  -> ![Classic Model](https://files.catbox.moe/9gn601.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

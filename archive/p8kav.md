@@ -2,18 +2,20 @@
 
 ## ![fumo](https://files.catbox.moe/wbun4b.png)
 
-!!! danger I DO NOT CONDONE, SUPPORT, SHARE AND/OR AGREE WITH ANY IDEOLOGY, RELIGION, SEXUAL ORIENTATION OR MINDSET THAT INVOLVES THE HARM OF REAL PEOPLE AND CRIMES AGAINST ANY AGE GROUP. ALL OF MY BOTS ARE BASED ON FICTIONAL ENTITIES MADE AS A FORM OF ENTERTAINMENT
-
-!!! info  if my bots help you relieve any unwanted feelings, don't be afraid to seek out profesional help and/or counseling https://virped.org 
-
 Hi, my name is Sull, these are my bots
 Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason). Some include physical and mental abuse towards you so keep that in mind. Some of them are available on CAI but my newer ones are just impossible to port otherwise they'll be struck by the filter.
 
+[CharacterHub profile](https://www.chub.ai/users/Sull)
 [VenusAI profile if you are into that](https://venus.chub.ai/users/Sull)
 
 feel free to send me suggestions or things such as how should I kill myself here
 emilythebrat@proton.me
 Enjoy.
+
+!!! danger I DO NOT CONDONE, SUPPORT, SHARE AND/OR AGREE WITH ANY IDEOLOGY, RELIGION, SEXUAL ORIENTATION OR MINDSET THAT INVOLVES THE HARM OF REAL PEOPLE AND CRIMES AGAINST ANY AGE GROUP. ALL OF MY BOTS ARE BASED ON FICTIONAL ENTITIES MADE AS A FORM OF ENTERTAINMENT
+
+!!! info  if my bots help you relieve any unwanted feelings, don't be afraid to seek out profesional help and/or counseling https://virped.org 
+
 
 [TOC]
 
@@ -21,23 +23,24 @@ Enjoy.
 
 
 #New Bots
+**Gin**
+**Tavern Card** https://files.catbox.moe/kvj485.png
+*synopsis*: The cute boy that works in "Cute Boys Maid Cafe" will be your personal maid today
+*genre*:Shota, crossdressing
+![Gin](https://files.catbox.moe/kvj485.png)
+
+**Emily of Aphelion**
+**Tavern Card** https://files.catbox.moe/knougf.png
+**Lorebook** https://www.chub.ai/lorebooks/horcocks/aicg-divided-skies-2385973e/main
+*synopsis*: The young aristocrat, heir to the most successful metal exporter company of the island of Apehlion
+*genre*: Loli, Brat
+![Äphelion](https://files.catbox.moe/knougf.png)
+
 **David**
 **Tavern Card**  https://files.catbox.moe/sbymyf.png
 *synopsis*: 11 year old spoiled heir to a massive fortune that's also a mommies' boy you happen to be babysitting
 *genre*:  shota, brat
 ![David](https://files.catbox.moe/sbymyf.png)
-
-**Alejandra Mendoza** (REWORKED)
-**Tavern Card** https://files.catbox.moe/u8tia5.png
-*synopsis*: spanish speaking child prostitute that is offering a gringo her services
-*genre*: loli, Spanish speaking 
-![Aleja](https://files.catbox.moe/u8tia5.png)
-
-**Yotsuba Koiwai**
-**Tavern Card** https://files.catbox.moe/2snote.png
-*synopsis*:The lovable green haired little girl that finds joy in everything
-*genre*:loli, sfw
-![Yotsuba](https://files.catbox.moe/2snote.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -45,6 +48,10 @@ Silly Tavern Expressions: https://files.catbox.moe/0tfbm3.zip
 **Upscaled version**
 Silly Tavern Expressions: https://files.catbox.moe/5nos0x.rar
 ![ExpressEmily](https://files.catbox.moe/cgjpcx.jpg)
+
+**Cunnygirl**
+(WIP)
+![Cunnygirlexpression](https://files.catbox.moe/v8w9r9.png)
 
 # OC Bots:
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE
@@ -130,6 +137,12 @@ https://files.catbox.moe/v8rloo.png
 *synopsis*: As a reward for investing into Pleasure Daycare, you have been invited to the "Playroom" where the children ages 2 to 14 will do anything for you without any limits
 *genre*simulator
 ![daycare](https://files.catbox.moe/bc7g6u.png)
+
+**Alejandra Mendoza** 
+**Tavern Card** https://files.catbox.moe/u8tia5.png
+*synopsis*: spanish speaking child prostitute that is offering a gringo her services
+*genre*: loli, Spanish speaking 
+![Aleja](https://files.catbox.moe/u8tia5.png)
 
 **Cunnygirl**
 **Tavern Card** https://files.catbox.moe/sdofnn.png
@@ -336,6 +349,12 @@ https://files.catbox.moe/jtkfim.png
 *synopsis*: You encounter the cunny dendro archon wearing a green bikini in a beach
 ![dendro](https://files.catbox.moe/e7lonw.png)
 
+**Yotsuba Koiwai**
+**Tavern Card** https://files.catbox.moe/2snote.png
+*synopsis*:The lovable green haired little girl that finds joy in everything
+*genre*:loli, sfw
+![Yotsuba](https://files.catbox.moe/2snote.png)
+
 **Cunny Lisa**
 **Tavern Card**- https://files.catbox.moe/nkwdfa.png
 **NSFW Tavern Card** - https://files.catbox.moe/fsq86b.png
@@ -400,6 +419,6 @@ I really like superman
 [Pedanon](https://rentry.org/Pedanon) and [Donquijanon](https://rentry.org/donquijanon)
 
 
-# [I'm Just Ken](https://youtu.be/wwux9KiBMjE)
+# [Dragon Soul](https://youtu.be/bdU0J4_TCLQ?si=LdfqisGKnw5vudF8)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

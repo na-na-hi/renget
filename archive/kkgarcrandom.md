@@ -8,31 +8,156 @@ Archive Sitemap: rentry.org/kkgarcmain
     I'm currently not hunting down old threads from /v/ or other places anymore, so most of the stuff here ends around late 2019. 
     Maybe I'll do my archive reps again someday and update them, who knows ¯\\_(ツ)_/¯
 
-  [8kun].................................................................
+##### Threads Related enough to be mentionable
 
-   /hgg/
-   - 03 8kun.top/hgg/res/302899.html               (20.01.2019 05:33) [601+] >>current | Arc - https://archive.is/WoqT9 (18.12.20)
-   - 02 8ch.net/hgg/res/192679.html                (02.05.2018 13:18)  [751] | Arc - https://archive.is/KdCqL
-   - 01 8ch.net/hgg/res/169156.html                (07.03.2018 20:28)  [751] | Arc - http://archive.is/IcN8z
+  [2021+]
+   - archiveofsins.com/h/thread/6218074/ | moved from v
+   - archiveofsins.com/h/thread/6165948/ | moved from v
 
-   /v/
-   - 03 8ch.net/v/res/14761544.html                (09.05.2018 05:08)  [118] | Arc - http://archive.is/qLOxS
-   - 02 8ch.net/v/res/14709574.html                (28.04.2018 15:25)  [303] | Arc - https://files.catbox.moe/bgvdlx.jpg
-   - 01 8ch.net/v/res/14334549.html                (16.02.2018 00:35)  [338] | Arc - https://archive.is/p1Jgl
+   - archived.moe/v/thread/557258013 | Sunshine Announcement Discussion
+   - archived.moe/v/thread/557217560 | Koikatsu Sunshine Announcement
+
+   - archived.moe/d/thread/9800376 | /d/ thread test run a.k.a. /gkg/ #00
+
+ [Since 2019]...........................................................
+
+   - archived.moe/v/thread/542325176/
+   - archived.moe/v/thread/541560638/
+   - archived.moe/v/thread/533338272/
+   - archived.moe/v/thread/517202227/
+   - archived.moe/v/thread/515853076/
+   - archived.moe/v/thread/510947091/
+   - archived.moe/v/thread/504456878/
+   - archived.moe/v/thread/503426673/
+   - archived.moe/v/thread/497993749/
+   - archived.moe/v/thread/488178529/
+   - archived.moe/v/thread/487002596/
+   - archived.moe/v/thread/486397132/
+   - archived.moe/v/thread/485743668/
+   - archived.moe/v/thread/484760627/
+   - archived.moe/v/thread/484635651/
+   - archived.moe/v/thread/483967653/
+   - archived.moe/v/thread/482150543/		(19.10.2019 18:14) [201] deleted 
+   - archived.moe/v/thread/481107301/		(10.10.2019 17:33) [521] 
+   - archived.moe/v/thread/480830982/		(08.10.2019 11:59) [121] 
+   - archived.moe/v/thread/479065727/		(23.09.2019 14:47)  [76] 
+   - archived.moe/v/thread/479004146/		(23.09.2019 03:42)  [83] 
+   - archived.moe/v/thread/478617815/		(19.09.2019 22:53)  [56] 
+   - archived.moe/v/thread/478595793/		(19.09.2019 19:23)  [37]
+   - archiveofsins.com/h/thread/5545443/	(07.09.2019 10:36)   [1] deleted 
+   - archive.nyafuu.org/vp/thread/39906055/	(05.09.2019 02:10)   [2] 
+   - archive.nyafuu.org/vp/thread/39903362/	(04.09.2019 23:36)   [2]
+   - archived.moe/v/thread/475197306/		(23.08.2019 15:13)  [56] pruned 
+   - archived.moe/v/thread/473293273/		(07.08.2019 16:59)  [94] pruned 
+   - archived.moe/v/thread/472920537/		(04.08.2019 18:18) [115]
+   - archiveofsins.com/h/thread/5410087/	(24.07.2019 12:22)   [2] deleted 
+   - archived.moe/v/thread/468438972/		(28.06.2019 19:44)   [8] 
+   - archived.moe/v/thread/468185272/		(27.06.2019 00:28)  [20] 
+   - archived.moe/v/thread/467289592/		(20.06.2019 21:33)  [14] 
+   - archived.moe/v/thread/466309691		(13.06.2019 23:30)   [8] 
+   - archived.moe/v/thread/466283551/		(13.06.2019 20:07) [501] 
+   - archived.moe/v/thread/465731091/		(11.06.2019 00:20)  [16] 
+   - archiveofsins.com/h/thread/5370137/	(10.06.2019 22:27)  [72] 
+   - archived.moe/v/thread/465708469		(10.06.2019 22:05)   [2] 
+   - archived.moe/v/thread/464452486		(02.06.2019 16:37)   [3] 
+   - archived.moe/v/thread/461070284/		(05.05.2019 18:55)  [35] pruned 
 
 
-  [2chan]................................................................
+  [DLC #2 to EmoCre ~ Dec 2018 - Apr 2019]...............................
 
-   Option A
-     futabalog.com/searchtitle/#sw=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84
-   Option B
-     http://futapo.futakuro.com/#server=may_b&mode=4_0&search=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84&searchMode=0&kako=0 | current
-     http://futapo.futakuro.com/#server=may_b&mode=4_0&search=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84&searchMode=0&kako=1 | older
-   Option C
-     http://www.ftbucket.info/scrapshot/ftb/index.php?s=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84
+   - archived.moe/vg/thread/250451770/		(18.04.2019 01:03)	
+   - archived.moe/v/thread/458562515/		(14.04.2019 23:50)   [5] 
+   - archiveofsins.com/h/thread/5308961/	(11.04.2019 04:34)   [4] 
+   - archived.moe/v/thread/458067770/		(10.04.2019 21:03) [158]
+   - archived.moe/v/thread/456957864/		(02.04.2019 04:41)   [8] 
+   - archived.moe/v/thread/456329073/		(29.03.2019 02:40)   [0] 
+   - archived.moe/v/thread/455716413/		(24.03.2019 13:28)  [34] 
+   - archiveofsins.com/h/thread/5250764/	(05.02.2019 01:29)  [30] 
+   - archived.moe/v/thread/448542413/		(27.01.2019 21:45) [121] 
+   - archived.moe/v/thread/447201016/		(17.01.2019 10:39)   [1] 
+   - archiveofsins.com/h/thread/5230861/	(13.01.2019 23:52)  [22] 
+   - archived.moe/v/thread/446725082/		(13.01.2019 17:54)   [2] 
+   - archiveofsins.com/h/thread/5228645/	(11.01.2019 17:24)   [3] 
+   - archived.moe/v/thread/445586270/		(05.01.2019 19:01)  [27] 
+   - archived.moe/v/thread/444192342/		(25.12.2018 12:41) [453]
 
 
-[v archive]................................................................
+  [DLC #1 to DLC #2 ~ Jul-Dec 2018]......................................
+
+   - archived.moe/v/thread/435293126/		(15.10.2018 18:07)    [4]
+   - archived.moe/v/thread/433731981/		(01.10.2018 12:49)  [123] 
+   - archiveofsins.com/h/thread/5135793/	(25.09.2018 15:36)    [2] 
+   - archived.moe/v/thread/431529146/		(14.09.2018 09:40)   [36] 
+   - archived.moe/v/thread/430223634/		(03.09.2018 20:50)  [247] 
+   - archived.moe/v/thread/429884129/		(01.09.2018 01:44)    [5] 
+   - archived.moe/v/thread/429455628/		(28.08.2018 14:50)  [211] 
+   - archived.moe/v/thread/428878978/		(23.08.2018 21:25)  [229] 
+   - archived.moe/v/thread/428344401/		(19.08.2018 17:15)   [19] 
+   - archived.moe/v/thread/427966023/		(16.08.2018 10:50)    [9] 
+   - archived.moe/v/thread/427931790/		(15.08.2018 11:43)   [14] 
+   - archived.moe/v/thread/426417363/		(03.08.2018 17:44)   [83] 
+   - archived.moe/v/thread/426323104/		(02.08.2018 20:31)   [44] pruned 
+   - archived.moe/v/thread/426202045/		(01.08.2018 18:08)  [165]
+   - archived.moe/v/thread/426174936/		(01.08.2018 12:29)   [12] 
+   - archived.moe/v/thread/426161341/		(01.08.2018 08:19)        | #q426161517 
+   - archived.moe/ic/thread/3544412/		(31.07.2018 03:38)    [6] 
+
+
+  [Release to DLC #1 ~ Apr-Jul 2018].....................................
+
+   - archived.moe/v/thread/425569005/		(26.07.2018 19:42)  [513] 
+   - archived.moe/v/thread/425010603/		(21.07.2018 23:50)    [9] 
+   - archived.moe/v/thread/424993558/		(21.07.2018 20:48)   [62] 
+   - archived.moe/v/thread/424955830/		(21.07.2018 14:02)    [8] 
+   - archived.moe/v/thread/424948276/		(21.07.2018 11:58)   [22] pruned 
+   - archived.moe/v/thread/424580631/		(18.07.2018 04:20)   [12] 
+   - archived.moe/v/thread/424423009/		(16.07.2018 20:48)   [25] 
+   - archived.moe/v/thread/424381052/		(16.07.2018 12:28)   [47] 
+   - archived.moe/v/thread/424140182/		(14.07.2018 11:38)  [189] 
+   - archived.moe/v/thread/423954952/		(12.07.2018 20:47)   [27] 
+   - archived.moe/v/thread/423682450/		(10.07.2018 12:29)  [223] 
+   - archiveofsins.com/h/thread/5056299/	(10.07.2018 10:46)   [66] 
+   - desuarchive.org/a/thread/175071781/	(04.07.2018 01:22)    [4]
+   - archived.moe/v/thread/422421332/		(29.06.2018 15:52)   [33]
+   - archived.moe/v/thread/422170410/		(27.06.2018 18:43)   [87] 
+   - archived.moe/vg/thread/219342604/		(27.06.2018 03:39)  [773] | #q219411439
+   - archived.moe/v/thread/421872983/		(25.06.2018 14:58)   [95] pruned 
+   - archived.moe/v/thread/421032921/		(18.06.2018 22:36)  [334] 
+   - archived.moe/v/thread/418086806/		(30.05.2018 14:05)   [77] 
+   - archive.nyafuu.org/vp/thread/35663436/	(26.05.2018 12:55)    [3] 
+   - archived.moe/v/thread/417398934/		(24.05.2018 18:58)  [139] 
+   - archived.moe/v/thread/417141521/		(22.05.2018 13:39)    [4] 
+   - archived.moe/v/thread/417009708/		(21.05.2018 05:44)   [12] 
+   - archived.moe/v/thread/416573648/		(17.05.2018 06:21)  [129] pruned 
+   - archived.moe/v/thread/415936923/		(11.05.2018 12:21)    [3] 
+   - desuarchive.org/r9k/thread/45292494/	(10.05.2018 17:52)    [3] 
+   - archived.moe/v/thread/415511275/		(07.05.2018 11:01)   [36]
+   - desuarchive.org/r9k/thread/45191816/	(06.05.2018 18:14)    [0] 
+   - desuarchive.org/mlp/thread/32326762/	(06.05.2018 08:39)   [15] 
+   - desuarchive.org/qa/thread/2072154/		(05.05.2018 18:25)   [15] 
+   - desuarchive.org/a/thread/172484655/	(05.05.2018 18:25)   [15] 
+   - desuarchive.org/r9k/thread/45151712/	(05.05.2018 02:59)   [26] 
+   - archiveofsins.com/h/thread/4977869/	(03.05.2018 20:58)    [2] 
+   - archived.moe/v/thread/414816939/		(30.04.2018 18:13)   [40] 
+   - archived.moe/v/thread/414772473/		(30.04.2018 06:03)    [8] 
+
+
+  [Pre-Release ~ Feb-Apr 2018]...........................................
+
+   - archiveofsins.com/r/thread/16118542/	(25.04.2018 21:11)    [2] 
+   - archived.moe/v/thread/413607294/ 		(18.04.2018 08:01)  [494] 
+   - archived.moe/v/thread/412140913/ 		(04.04.2018 17:18)   [12]
+   - desuarchive.org/k/thread/37419871/    	(03.04.2018 16:09)   [15] 
+   - desuarchive.org/k/thread/37403851/		(02.04.2018 07:09)   [67] 
+   - archived.moe/v/thread/411744946/ 		(01.04.2018 16:56)   [10] 
+   - archive.nyafuu.org/wsr/thread/460842/	(14.02.2018 16:40)    [3] 
+   - archived.moe/vg/thread/204945809/		(11.02.2018 20:10)    [0] | The attempt of making a /vg/ general...
+   - archived.moe/v/thread/406205151/ 		(09.02.2018 05:57)    [0] | Almost the start of the discussion
+
+
+ .................................
+
+##### /v/ archive
 [Threads 2019].........................................................
 
    - 265 archived.moe/v/thread/476931226/ 	(06.09.2019 08:01)  [266]
@@ -335,141 +460,27 @@ Archive Sitemap: rentry.org/kkgarcmain
 
  .................................
 
- Threads Related enough to be mentionable......................................
- [Since 2019]...........................................................
-
-   - archived.moe/v/thread/542325176/
-   - archived.moe/v/thread/541560638/
-   - archived.moe/v/thread/533338272/
-   - archived.moe/v/thread/517202227/
-   - archived.moe/v/thread/515853076/
-   - archived.moe/v/thread/510947091/
-   - archived.moe/v/thread/504456878/
-   - archived.moe/v/thread/503426673/
-   - archived.moe/v/thread/497993749/
-   - archived.moe/v/thread/488178529/
-   - archived.moe/v/thread/487002596/
-   - archived.moe/v/thread/486397132/
-   - archived.moe/v/thread/485743668/
-   - archived.moe/v/thread/484760627/
-   - archived.moe/v/thread/484635651/
-   - archived.moe/v/thread/483967653/
-   - archived.moe/v/thread/482150543/		(19.10.2019 18:14) [201] deleted 
-   - archived.moe/v/thread/481107301/		(10.10.2019 17:33) [521] 
-   - archived.moe/v/thread/480830982/		(08.10.2019 11:59) [121] 
-   - archived.moe/v/thread/479065727/		(23.09.2019 14:47)  [76] 
-   - archived.moe/v/thread/479004146/		(23.09.2019 03:42)  [83] 
-   - archived.moe/v/thread/478617815/		(19.09.2019 22:53)  [56] 
-   - archived.moe/v/thread/478595793/		(19.09.2019 19:23)  [37]
-   - archiveofsins.com/h/thread/5545443/	(07.09.2019 10:36)   [1] deleted 
-   - archive.nyafuu.org/vp/thread/39906055/	(05.09.2019 02:10)   [2] 
-   - archive.nyafuu.org/vp/thread/39903362/	(04.09.2019 23:36)   [2]
-   - archived.moe/v/thread/475197306/		(23.08.2019 15:13)  [56] pruned 
-   - archived.moe/v/thread/473293273/		(07.08.2019 16:59)  [94] pruned 
-   - archived.moe/v/thread/472920537/		(04.08.2019 18:18) [115]
-   - archiveofsins.com/h/thread/5410087/	(24.07.2019 12:22)   [2] deleted 
-   - archived.moe/v/thread/468438972/		(28.06.2019 19:44)   [8] 
-   - archived.moe/v/thread/468185272/		(27.06.2019 00:28)  [20] 
-   - archived.moe/v/thread/467289592/		(20.06.2019 21:33)  [14] 
-   - archived.moe/v/thread/466309691		(13.06.2019 23:30)   [8] 
-   - archived.moe/v/thread/466283551/		(13.06.2019 20:07) [501] 
-   - archived.moe/v/thread/465731091/		(11.06.2019 00:20)  [16] 
-   - archiveofsins.com/h/thread/5370137/	(10.06.2019 22:27)  [72] 
-   - archived.moe/v/thread/465708469		(10.06.2019 22:05)   [2] 
-   - archived.moe/v/thread/464452486		(02.06.2019 16:37)   [3] 
-   - archived.moe/v/thread/461070284/		(05.05.2019 18:55)  [35] pruned 
 
 
-  [DLC #2 to EmoCre ~ Dec 2018 - Apr 2019]...............................
+#####8kun
 
-   - archived.moe/vg/thread/250451770/		(18.04.2019 01:03)	
-   - archived.moe/v/thread/458562515/		(14.04.2019 23:50)   [5] 
-   - archiveofsins.com/h/thread/5308961/	(11.04.2019 04:34)   [4] 
-   - archived.moe/v/thread/458067770/		(10.04.2019 21:03) [158]
-   - archived.moe/v/thread/456957864/		(02.04.2019 04:41)   [8] 
-   - archived.moe/v/thread/456329073/		(29.03.2019 02:40)   [0] 
-   - archived.moe/v/thread/455716413/		(24.03.2019 13:28)  [34] 
-   - archiveofsins.com/h/thread/5250764/	(05.02.2019 01:29)  [30] 
-   - archived.moe/v/thread/448542413/		(27.01.2019 21:45) [121] 
-   - archived.moe/v/thread/447201016/		(17.01.2019 10:39)   [1] 
-   - archiveofsins.com/h/thread/5230861/	(13.01.2019 23:52)  [22] 
-   - archived.moe/v/thread/446725082/		(13.01.2019 17:54)   [2] 
-   - archiveofsins.com/h/thread/5228645/	(11.01.2019 17:24)   [3] 
-   - archived.moe/v/thread/445586270/		(05.01.2019 19:01)  [27] 
-   - archived.moe/v/thread/444192342/		(25.12.2018 12:41) [453]
+   /hgg/
+   - 03 8kun.top/hgg/res/302899.html               (20.01.2019 05:33) [601+] | Arc - https://archive.is/WoqT9 (18.12.20)
+   - 02 8ch.net/hgg/res/192679.html                (02.05.2018 13:18)  [751] | Arc - https://archive.is/KdCqL
+   - 01 8ch.net/hgg/res/169156.html                (07.03.2018 20:28)  [751] | Arc - http://archive.is/IcN8z
+
+   /v/
+   - 03 8ch.net/v/res/14761544.html                (09.05.2018 05:08)  [118] | Arc - http://archive.is/qLOxS
+   - 02 8ch.net/v/res/14709574.html                (28.04.2018 15:25)  [303] | Arc - https://files.catbox.moe/bgvdlx.jpg
+   - 01 8ch.net/v/res/14334549.html                (16.02.2018 00:35)  [338] | Arc - https://archive.is/p1Jgl
 
 
-  [DLC #1 to DLC #2 ~ Jul-Dec 2018]......................................
+#####2chan
 
-   - archived.moe/v/thread/435293126/		(15.10.2018 18:07)    [4]
-   - archived.moe/v/thread/433731981/		(01.10.2018 12:49)  [123] 
-   - archiveofsins.com/h/thread/5135793/	(25.09.2018 15:36)    [2] 
-   - archived.moe/v/thread/431529146/		(14.09.2018 09:40)   [36] 
-   - archived.moe/v/thread/430223634/		(03.09.2018 20:50)  [247] 
-   - archived.moe/v/thread/429884129/		(01.09.2018 01:44)    [5] 
-   - archived.moe/v/thread/429455628/		(28.08.2018 14:50)  [211] 
-   - archived.moe/v/thread/428878978/		(23.08.2018 21:25)  [229] 
-   - archived.moe/v/thread/428344401/		(19.08.2018 17:15)   [19] 
-   - archived.moe/v/thread/427966023/		(16.08.2018 10:50)    [9] 
-   - archived.moe/v/thread/427931790/		(15.08.2018 11:43)   [14] 
-   - archived.moe/v/thread/426417363/		(03.08.2018 17:44)   [83] 
-   - archived.moe/v/thread/426323104/		(02.08.2018 20:31)   [44] pruned 
-   - archived.moe/v/thread/426202045/		(01.08.2018 18:08)  [165]
-   - archived.moe/v/thread/426174936/		(01.08.2018 12:29)   [12] 
-   - archived.moe/v/thread/426161341/		(01.08.2018 08:19)        | #q426161517 
-   - archived.moe/ic/thread/3544412/		(31.07.2018 03:38)    [6] 
-
-
-  [Release to DLC #1 ~ Apr-Jul 2018].....................................
-
-   - archived.moe/v/thread/425569005/		(26.07.2018 19:42)  [513] 
-   - archived.moe/v/thread/425010603/		(21.07.2018 23:50)    [9] 
-   - archived.moe/v/thread/424993558/		(21.07.2018 20:48)   [62] 
-   - archived.moe/v/thread/424955830/		(21.07.2018 14:02)    [8] 
-   - archived.moe/v/thread/424948276/		(21.07.2018 11:58)   [22] pruned 
-   - archived.moe/v/thread/424580631/		(18.07.2018 04:20)   [12] 
-   - archived.moe/v/thread/424423009/		(16.07.2018 20:48)   [25] 
-   - archived.moe/v/thread/424381052/		(16.07.2018 12:28)   [47] 
-   - archived.moe/v/thread/424140182/		(14.07.2018 11:38)  [189] 
-   - archived.moe/v/thread/423954952/		(12.07.2018 20:47)   [27] 
-   - archived.moe/v/thread/423682450/		(10.07.2018 12:29)  [223] 
-   - archiveofsins.com/h/thread/5056299/	(10.07.2018 10:46)   [66] 
-   - desuarchive.org/a/thread/175071781/	(04.07.2018 01:22)    [4]
-   - archived.moe/v/thread/422421332/		(29.06.2018 15:52)   [33]
-   - archived.moe/v/thread/422170410/		(27.06.2018 18:43)   [87] 
-   - archived.moe/vg/thread/219342604/		(27.06.2018 03:39)  [773] | #q219411439
-   - archived.moe/v/thread/421872983/		(25.06.2018 14:58)   [95] pruned 
-   - archived.moe/v/thread/421032921/		(18.06.2018 22:36)  [334] 
-   - archived.moe/v/thread/418086806/		(30.05.2018 14:05)   [77] 
-   - archive.nyafuu.org/vp/thread/35663436/	(26.05.2018 12:55)    [3] 
-   - archived.moe/v/thread/417398934/		(24.05.2018 18:58)  [139] 
-   - archived.moe/v/thread/417141521/		(22.05.2018 13:39)    [4] 
-   - archived.moe/v/thread/417009708/		(21.05.2018 05:44)   [12] 
-   - archived.moe/v/thread/416573648/		(17.05.2018 06:21)  [129] pruned 
-   - archived.moe/v/thread/415936923/		(11.05.2018 12:21)    [3] 
-   - desuarchive.org/r9k/thread/45292494/	(10.05.2018 17:52)    [3] 
-   - archived.moe/v/thread/415511275/		(07.05.2018 11:01)   [36]
-   - desuarchive.org/r9k/thread/45191816/	(06.05.2018 18:14)    [0] 
-   - desuarchive.org/mlp/thread/32326762/	(06.05.2018 08:39)   [15] 
-   - desuarchive.org/qa/thread/2072154/		(05.05.2018 18:25)   [15] 
-   - desuarchive.org/a/thread/172484655/	(05.05.2018 18:25)   [15] 
-   - desuarchive.org/r9k/thread/45151712/	(05.05.2018 02:59)   [26] 
-   - archiveofsins.com/h/thread/4977869/	(03.05.2018 20:58)    [2] 
-   - archived.moe/v/thread/414816939/		(30.04.2018 18:13)   [40] 
-   - archived.moe/v/thread/414772473/		(30.04.2018 06:03)    [8] 
-
-
-  [Pre-Release ~ Feb-Apr 2018]...........................................
-
-   - archiveofsins.com/r/thread/16118542/	(25.04.2018 21:11)    [2] 
-   - archived.moe/v/thread/413607294/ 		(18.04.2018 08:01)  [494] 
-   - archived.moe/v/thread/412140913/ 		(04.04.2018 17:18)   [12]
-   - desuarchive.org/k/thread/37419871/    	(03.04.2018 16:09)   [15] 
-   - desuarchive.org/k/thread/37403851/		(02.04.2018 07:09)   [67] 
-   - archived.moe/v/thread/411744946/ 		(01.04.2018 16:56)   [10] 
-   - archive.nyafuu.org/wsr/thread/460842/	(14.02.2018 16:40)    [3] 
-   - archived.moe/vg/thread/204945809/		(11.02.2018 20:10)    [0] | The attempt of making a /vg/ general...
-   - archived.moe/v/thread/406205151/ 		(09.02.2018 05:57)    [0] | Almost the start of the discussion
-
-
- .................................
+   Option A
+     futabalog.com/searchtitle/#sw=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84
+   Option B
+     http://futapo.futakuro.com/#server=may_b&mode=4_0&search=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84&searchMode=0&kako=0 | current
+     http://futapo.futakuro.com/#server=may_b&mode=4_0&search=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84&searchMode=0&kako=1 | older
+   Option C
+     http://www.ftbucket.info/scrapshot/ftb/index.php?s=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84

@@ -48,3 +48,16 @@ Shroomers
 https://archiveofourown.org/works/47292694
 Even More Unprofessional Conduct with an Insectile Coworker
 https://archiveofourown.org/works/48184114
+
+##Reccommended Media/Outside Stories (Accepting Recomendations)
+After The Hunt
+https://rdt.trom.tf/r/HFY/comments/ppnrr8/after_the_hunt/
+Melonians (Unfinished)
+https://www.reddit.com/r/HFY/comments/699fhc/longevity/
+https://www.reddit.com/r/HFY/comments/6bjdtu/occontinuity/
+https://www.reddit.com/r/HFY/comments/88ija5/seed_melonians_iii/
+https://www.reddit.com/r/HFY/comments/wqqeb5/skyward_melonians_iv/
+The Princess and the Human
+https://teddit.pussthecat.org/r/HFY/comments/rmacpo/the_princess_and_the_human_ch_1/
+
+Nor Crystal Tears By Alan Dean Foster

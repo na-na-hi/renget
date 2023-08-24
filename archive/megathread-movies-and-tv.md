@@ -1,4 +1,4 @@
--> ![](https://take-me-to.space/ea2Ga1Y.png) <-
+-> ![](https://a.imagem.app/b4XaW9.png) <-
 
 # 🎦 ➜ [Megathread](https://rentry.co/megathread) / **Movies & TV**
  
@@ -52,10 +52,6 @@
 ### 🔗 [GojoMovies](https://gojomovies.lol/)
 - Website that offers the most recent direct download links for your preferred TV shows, films, and other media.
 - [URL Safety Results](https://www.urlvoid.com/scan/gojomovies.lol/)
-
-### 🔗 [Medeberiya](https://medeberiyaa.com/)
-- A website for entertainment that offers the most recent direct download links for your preferred TV shows, films, and other media.
-- [URL Safety Results](https://www.urlvoid.com/scan/medeberiyaa.com/)
 
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.

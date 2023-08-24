@@ -23,6 +23,8 @@ Global - [Play Store](https://play.google.com/store/apps/details?id=com.nexon.bl
 
 Global may require a VPN to play, as it is region-locked. JP is region-locked as well, so if you wish to play it use a VPN. The only server to avoid would be Korea's server as raids are much, much, MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
 
+You can't choose which server your start on, so if you wish to start somewhere else you'll need a VPN for it. See 'How do servers work? What server am I in' for more. 
+
 You can play the game through emulators such as [Nox](https://www.bignox.com/), [Bluestacks](https://www.bluestacks.com/bluestacks-5.html), [Memu](https://www.memuplay.com/) or [LDPlayer](https://www.ldplayer.net/). Make sure to crank up the memory allocation as well. 
 
  If you want the game in something like "tablet mode" (which lets you see more of the screen (some visuals are cut off at default resolution)), consider changing your emulator to the resolution 1440x1080
@@ -607,6 +609,8 @@ JP is Japan, which is ~5 month ahead of Global.
 Global is divided in 5 different regions: Global (= EU), NA, Asia, Taiwan, and Korea.
 CN is the Chinese server, which is behind JP and Global by 2 years.
 You can only join clubs or add friends from the same region. 
+
+If you wish to start in a different region for Global, you'll need to set your VPN to a country of that server *before* you create/start your account. 
 
 ![how to find out your server](https://i.imgur.com/J0Mt5pr.png)
 

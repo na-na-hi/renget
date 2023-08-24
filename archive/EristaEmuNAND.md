@@ -17,7 +17,7 @@ TegraRcmGUI | Hekate | Atmosphere & fusee | SigPatches
 		- This is very important, because your SD card needs to be empty!
 	* Once you have completed setting up your device, ensure that you never format your SD card to exFAT.
 		- exFAT users are more likely to experience SD card corruption than FAT32 users.
-	* Make sure to read [this](https://rentry.org/SwitchFAQ#partition-based-vs-file-based-emunand) so that you may later decide on which EmuNAND type to pick.
+	* Make sure to read [this](https://rentry.org/PartitionVSFileEmuNAND) so that you may later decide on which EmuNAND type to pick.
 
 
 

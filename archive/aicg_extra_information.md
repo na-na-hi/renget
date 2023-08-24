@@ -241,6 +241,7 @@ https://boards.4channel.org/vg/catalog#s=aids
 *At the moment there are no guides widely accepted as well-written, and some misconceptions were reported regarding the following recommendations, but it's still something instead of nothing so thanks to the authors.*
 https://rentry.org/SillyNAIGuide
 https://rentry.org/NAIChatbot
+https://rentry.org/AnotherSillyGuide
 
 ##### Miku\.gg
 https://docs.miku.gg
@@ -296,6 +297,7 @@ Sister rentries:
 - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
 - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
+- https://rentry.org/meta_golocal_list - /aicg/ (and stolen /lmg/) guides on setting up current gen of local models
 
 Email for feedback and suggestions:
 - aicg2023@proton.me

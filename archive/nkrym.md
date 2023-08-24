@@ -5,7 +5,7 @@ Ayame stood next to you, waiting for you to kick things off as she was supposed 
 
 You almost couldn't wait to get your hands on her body, but you also had a role to play. "You know what you did, and why you're here?"
 
-"Yes", she answered confidently, almost playfully. "I was lazy and failed in my duty to obey you, master. I am ready and glad to receive my punishment – a spanking, to be precise."
+"Yes", she answered confidently, almost playfully. "I was lazy and failed in my duty to obey you, sir. I am ready and glad to receive my punishment – a spanking, to be precise."
 
 "Correct. And since it was a serious offense you'll be getting a healthy dose of it today – with this." You grabbed the small wooden paddle lying next to you and showed it to her. You had only used it to discipline her once, and it had not ended well for her.
 
@@ -13,7 +13,7 @@ You almost couldn't wait to get your hands on her body, but you also had a role 
 
 Shoving her clothes up her back with your free left hand, you were finally able to take a good look at the supple oni butt you were about to spank bright red – it looked as tempting as ever, and Ayame knew you loved how she wiggled it slightly. "Any last words before we begin?" Ayame was not allowed to talk during the procedure, so whatever she answered would be her final words, until it was over and she would thank you for the correction once more.
 
-"Um...well, I definitely deserve this with how I've neglected my duties to my boyfriend and master. But could you show at least some mercy to my poor little butt? Please, I promise I won't forget the time while gaming again!"
+"Um...well, I definitely deserve this with how I've neglected my duties to my man. But could you show at least some mercy to my poor little butt? Please, I promise I won't forget the time while gaming again!"
 
 It was never not cute how Ayame's usually cheeky and confident tone would give way to, at least in part, genuinely insecure pleading once she was lying across your lap – submissive, exposed, vulnerable. But as far as you were concerned, letting her cuteness save her had worked enough times in the past. Even though this paddle gave her butt a way harsher treatment than it usually received, you found your rhythm and the most satisfying level of strength to strike with rather quickly. How arousing it was that she just let you do this to her only increased your fixation on getting the most out of this opportunity.
 
@@ -48,7 +48,7 @@ Three times the paddle came down hard and fast, and three times you were rewarde
 
 The last one might have been the hardest hit she had ever received, and at this point the cheeks Ayame had put at your mercy looked almost too hurt for your aesthetic preferences. Ayame's cheeky attitude, amazing body and arousing reaction to pain always made it hard to stop punishing her. But seeing your girlfriend like this, you almost felt equally sorry and sadistic – poor little Ayame. You gently grabbed your punishee by the waist and put her down to the ground on her side, making sure that her abused behind would not touch the floor.
 
-"Thank you for the punishment, master. The pain and the memory of it are what I need to improve my behaviour." After finishing her obligatory words of thanks, Ayame just lay there for a minute while you smiled and admired your work. Her cute butt was an easy 9/10 on its own, but seeing it violated by your own hands made it more beautiful than any other. 
+"Thank you for the punishment, sir. The pain and the memory of it are what I need to improve my behaviour." After finishing her obligatory words of thanks, Ayame just lay there for a minute while you smiled and admired your work. Her cute butt was an easy 9/10 on its own, but seeing it violated by your own hands made it more beautiful than any other. 
 Ayame looked up at you, pained and happy. Even before the afterglow of hurt had faded she spoke casually again. "Wow, that was even worse than I expected...but hey, no tears!" Ayame smiled at her achievement. 
 
 You remained unimpressed, outwardly at least. "Good on you to walk the walk after talking the talk, but still. I'm fine with you giving me attitude to get a punishment, but you don't flat out ignore an order and leave me without dinner after a hard day's work – just because we're roleplaying doesn't mean you get to break whatever boundaries you want. I want to feel like this training leads somewhere." 
@@ -78,4 +78,4 @@ Ayame didn't even pretend to struggle as you carried her through the apartment b
 The animalistic part of your brain was more than eager to bend her over the kitchen table and take her right then and there, but you knew it wasn't the right time to play into her desires – both her and you would get more out of a later climax to this day, and you had to demonstrate that you were in control. Sometimes this whole BDSM relationship felt more like training yourself to reject instant gratification than training Ayame to be a good, submissive girl.
 You managed to leave the kitchen, and the little oni to her cooking devices. It was time to calm down before getting ready for the next part of the evening. "Dinner will be on the table in 20 minutes. And clean yourself up, Niagara."
 
-"Only 20 minu- I mean, as you wish master." Ayame bowed her head and got to work, controlling herself for your sake. She wasn't ignorant of boundaries after all, she just liked pushing them a bit too much.
+"Only 20 minu- I mean, as you wish sir." Ayame bowed her head and got to work, controlling herself for your sake. She wasn't ignorant of boundaries after all, she just liked pushing them a bit too much.

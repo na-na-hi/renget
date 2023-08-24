@@ -244,3 +244,8 @@ boards:vg; /[s$5 \\n]+[p \\n]+[aàáâãäåæ4@ \*\\n]+(\[h \\n]+|[r \\n]+)+[7t
 /XBBEwQyHKUCLiovMnfaDMg\==/
 /5d15zeO5CIuf6U1ZB/XFyg\==/
 /go0Op4P2sz0My6xXoDzzrg\==/
+/JmD7dTbFOrdzGeXNvLV+fQ\==/
+/VLCFj0yCH3PoaWNDVdqgjA\==/
+/Bl1Y+kK7IH4e+ZfQFYJr7g\==/
+/jrrlhZjCJ626Mz2ztcl38A\==/
+/5oUA67ZvvksnSiS0MXkgBQ\==/

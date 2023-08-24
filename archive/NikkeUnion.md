@@ -2,7 +2,7 @@
 -> ![average nikg poster](https://imgur.com/QSlDQER.png) <-
     
 !!! info
-    -> Macro bans soon. Hopefully you can at least make it to the top 50 now anons. <-
+    -> Remember (you) LOST! <-
     -> Old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs. <-
     
    
@@ -16,7 +16,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | G
 **5** | NOPAN | ==**1216**== |PERMISSION | KAKARO | 32/32 | N | N
 **5** | UOH | ==**1435**== |PERMISSION | ??? | ??? | N | N
 **4** | MILKKERS | ==**1491**== |PERMISSION | PLOT | 32/32 | N | N
-**5** | N1KKAS | ==**1888**== |PERMISSION | BUTZ | 32/32 | N | N
+**5** | N1KKAS | ==**1888**== |PERMISSION | ANAL | 32/32 | N | N
 **4** | 404TH | ==**4033**== |PERMISSION | YUKIKAZE| 32/32 | N | N
 **5** | CUNNYWOW | ==**4496**== |OPEN | FRIEDKUN | 32/32 | N | N
 **5** | P愛ZURI | ==**4983**== |PERMISSION | TAMA | 32/32 | N | N

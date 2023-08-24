@@ -19,3 +19,11 @@
  -> ![Concept](https://files.catbox.moe/wjjnkt.jpg) <-
 
  -> ![Cine Face](https://files.catbox.moe/sg0ddz.jpg) <-
+
+***
+
+   -> ~ ~ ~ <-
+   -> *Links back:* <-
+
+   -> **https://rentry.org/smgenloredoc** <-
+   -> **https://rentry.org/smgen** <-

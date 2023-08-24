@@ -6,6 +6,8 @@ Alphinaud & Alisaie (FxM, MxM): https://www.dropbox.com/sh/rngdh0l7cgrt7oy/AADuh
 
 Bun-middie (MxF): https://mega.nz/folder/Jy9SGKyQ#Km_LFMFIqWbOf0DJruXjXQ
 
+Catto (MxM): https://mega.nz/folder/nR8khaZK#y1p5Is1SjfwGmREB0p8k-g
+
 Hrothgar (FxM): 
 Wcat - https://imgchest.com/p/ej7m63p94dl
 Beachlander - https://imgchest.com/p/xny8m6np7bl

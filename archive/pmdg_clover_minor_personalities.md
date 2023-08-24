@@ -124,3 +124,16 @@ Sex: Male
 
 ####Weezil & Morgel
 [See Linked](https://rentry.org/darkies)
+
+####Mr.Goldbird
+>Evil big guy
+>C.E.O of the Pelipper Mail Company
+>Hates business casual (he is business competitive)
+>Mega rich but dislikes snobbish standards  
+>Only wears a white and blue tie (the color of Pelippers)
+>Big cigar smoker
+>Deep connections with important organizations spanning the seven continents
+>Is competent in combat, but his real strength lies in the power he holds over many pokemons and organizations
+>His grandfather was a Pelipper, hence his name being Goldbird
+>Sadistic, likes to hurt pokemon
+>Loves inflicting cock and ball torture

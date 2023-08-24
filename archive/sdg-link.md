@@ -22,8 +22,8 @@ https://rentry.org/ubuntuamdsd
 https://rentry.org/ayymd-stable-diffustion-v1_4-guide
 https://rentry.org/sd-amd-gfx803-gentoo
 ###Intel GPU
+https://github.com/openvinotoolkit/stable-diffusion-webui/wiki/Installation-on-Intel-Silicon
 https://blog.nuullll.com/ipex-sd-docker-for-arc-gpu/#/getting-started
-https://github.com/openvinotoolkit/stable-diffusion-webui/tree/master
 https://www.intel.com/content/www/us/en/developer/articles/technical/running-tensorflow-stable-diffusion-on-intel-arc.html
 https://medium.com/intel-analytics-software/stable-diffusion-with-intel-arc-gpus-f2986bba8365
 ###CPU
@@ -73,6 +73,8 @@ https://clipdrop.co/stable-diffusion
 ##Models, LoRAs & Embeddings
 https://civitai.com
 https://huggingface.co
+https://sd4fun.com
+https://civitai.pro
 https://rentry.org/hdgrecipes
 https://rentry.org/sdg-motherload
 https://rentry.org/animusmixed
@@ -99,10 +101,13 @@ https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
 ###Try SDXL v1.0 online for free
 https://clipdrop.co/stable-diffusion
 
+###Guides for running SDXL on ComfyUI
+https://aituts.com/comfyui-sdxl/
+
 ###Recommended SDXL workflows for ComfyUI
 https://comfyanonymous.github.io/ComfyUI_examples/sdxl
-https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 https://github.com/SeargeDP/SeargeSDXL
+https://github.com/SytanSD/Sytan-SDXL-ComfyUI
 
 ###SDXL resolutions
 SDXL support generating images at the following dimensions:
@@ -119,11 +124,22 @@ SDXL support generating images at the following dimensions:
 
 Taken from https://platform.stability.ai/docs/features/api-parameters
 
+###Control LoRA for SDXL
+https://huggingface.co/stabilityai/control-lora
+
 ###Training a LoRA for SDXL
 https://rentry.org/SDXL-Lora-Guide
 
 ###SDXL Conditioning
 https://rentry.org/SDXL_Conditioning
+
+###SDXL ControlNet
+https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0
+https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-mid
+https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-small
+https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0
+https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-mid
+https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-small
 
 ###Artists recognised in base SDXL
 https://weirdwonderfulai.art/resources/stable-diffusion-xl-sdxl-artist-study/
@@ -279,4 +295,4 @@ https://civitai.com/user/stunningFlesh
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 9th - https://pastebin.com/9Uj0fzhz
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 19th - https://pastebin.com/YiePtdhM

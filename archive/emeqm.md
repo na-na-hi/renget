@@ -764,3 +764,143 @@
 >"I am giving you every opportunity to stay out of this and you keep wanting to stay. why?"
 >you loved him
 >that reply gave him pause
+
+>Alex wasn't accustomed to romance
+>even your earlier encounters could be misconstrued as fuck buddy stuff
+>this was essentially making it formal and out there 
+>you grabbed his hand and held it
+>you weren't leaving 
+>when he began fidgeting with his glasses you knew a nervous tic when you saw it
+>he'd definitely need a fix for those glasses 
+>so you allowed him to break away and you made a note to find a fix
+>so you were fucking around with a possible supervillain 
+>you pondered what he'd call himself if he went full Magneto
+>it wasn't that you considered Alex evil
+>just that he was very… driven
+>very passionate
+>just having a hard time showing it outwardly 
+>and from what you'd learned of Gensyn they might not be as wholesome as you thought
+>bitches hid a hot tub this whole time
+>you broke off from him to search the classified area a little
+>you had an idea but it hinged on them also hiding a pool
+>a few wrong doors and you found exactly that
+>a hot tub and a pool
+>as nice as giving Alex room here you figured he wouldn't take well to pool water
+>breathing chlorine doesn't sound remotely enjoyable
+>he was smart enough to know about that too
+>that wasn't your goal though
+>without going out and shopping you needed a pair of goggles 
+>not for yourself 
+>the strap on them had elastic but snapped tightly to one's head
+>stripping the chunky goggles of their band, you headed back out
+>this would definitely help
+>just jury rig them to his glasses and he'd be able to do whatever
+>his snout meant they rested weird anyways but at least now they wouldn't slip off
+>when you came back to about where you thought he was you were greeted by an argument between some of the team 
+>you really were third wheeling it here so you stayed out
+>from what you gathered a few of the staff were keen to go on the offensive 
+>a preemptive strike
+>Alex and a few others felt the device wasn't prepared for that or wanted to be defensive
+>Alex personally seemed to factor in how much abuse the device would take
+>Gensyn had sunk billions into it but it wasn't like it was perfected yet
+>you hoped to defuse the situation and presented him with the band
+>he ignored you to keep arguing but your presence was noticed by others
+>"so we gotta look like this and your boytoy is safe"
+>a particularly grumpy rhino hybrid on the aggressive side thumbed over to you
+>Alex made eye contact with the rhino and his tone was icy when he spoke up
+>"that is none of your business"
+>his body language was rigid now and he leaned forward just a little
+>this was the most aggressive you'd ever seen him
+>that comment distracted him from the device and his work for the moment
+>Alex glanced over to you while the tension simmered in the air
+>you worried your presence had complicated things
+>you were stuck in the middle of things at the moment though
+>the rhino had a companion who joined in with the complaints 
+>some sort of pigman 
+>the genetic samples must have been all over the place
+>how did they know you were tied to Alex
+>then it hit you
+>they must have a sense of smell comparable to those respective beasts and you no doubt reeked of fish now
+>so you were putting Alex and his work in jeopardy 
+>but pandora's box was opened already
+>in every sense of the word
+>while some didn't want to let Gensyn weaponize this technology they clearly weren't happy about the side effects
+>could you blame them?
+>getting stuck as a giant pigman or fly mutant seemed like hell for you
+>Alex sort of won the lottery with his transformation 
+>while you felt bad for some in the group you didn't exactly sign of for a damn thing here
+>but raising your temper around mutants that weighed about triple of you seemed like a bad idea
+>you'd get ripped in half by some angry polar bear
+>defusing the situation by yourself seemed impossible
+>you thought quickly though
+>why are you all fighting when Gensyn could get what they wanted?
+>all the little divisions you put up wouldn't address the major threat looming on the horizon 
+>this wasn't ideal 
+>you couldn't argue that
+>but Gensyn might do worse with the technology if they stopped this little insurrection 
+>at least when they had hit the button it was unpredictable 
+>what would happen if it was in the hands of someone who knew how best to hurt someone?
+>you didn't have all the expertise to draw on in this field but you painted a worst case scenario with your imagination 
+>what if whoever wanted to weaponize this could turn it from a simple scramble to something that breaks down the DNA
+>if you all didn't stop arguing now and instead just came together for a plan, Gensyn could have the next a bomb in their hands
+>that seemed to sober up the room and remind people
+>you felt it appropriate to remind everyone here you had no idea on any of this
+>you were a stranger in all this ultimately 
+>but you weren't an enemy
+>you hoped the group would see that 
+>the crowd seemed to simmer down 
+>tension was still there but it was buried under the current issue
+>you could bet money it would come back eventually
+>Alex seemed to look a little less tense
+>his body language was a little looser but he was hesitant to turn his back on anyone now
+>the paranoia was somewhat warranted
+>he did however happily accept the band for his glasses
+>you rested a hand on his shoulder and asked if you could help any
+>the shark man relaxed a little more at the gesture
+>he remarked you could check on the subdued security guards
+>they were tied up in another room and watched by another staffer
+>"they might react better to you as opposed to us at the moment."
+>he was trying to make amends with them even after the shootout
+>you remembered why the staff were on edge when you thought about "shootout" 
+>you couldn't be sure but you figured someone died 
+>when Alex readjusted his pants with his free hands you knew you'd have to make a fix for that one too later
+>you pondered if he'd be fine working in a swimsuit
+>Alex at least took to his form better than most
+>he might have been a little upset if he'd become, say, a wombat
+>as you walked away from the labs you realized something 
+>was he protecting you by sending you on an errand?
+>the room could be very dangerous 
+>a lot of these beast men were former lab geeks though
+>even if they could maul you none of them probably had been in a fist fight
+>still
+>and Alex was one of the smaller ones as dangerous as a shark could be
+>perhaps he hoped the distance would keep you safe
+>you headed towards that room and there was some sort of old owl woman watching the door
+>a lot of the staff here was sort of recognizable from your socializing but the DNA scrambling wasn't helping
+>she seemed happy enough to let you into the room
+>sure enough a bunch of banged up guards 
+>all tied up and some looking defeated
+>a few looked up to you and through the gags they panicked a little
+>you wondered if they had any dead in that little revolt 
+>then the door was locked behind you
+>you were a little shocked
+>there were no windows in the room
+>it must have been a store room before this
+>the lights were on but there wasn't much else in the room
+>you were slightly confused
+>you did the only logical thing and ungagged one of the guards
+>he looked a little panicked but you sat down with them
+>at least to put him at ease a little
+>no, you didn't know much of what was going on
+>it seemed unwise to just trust them with any information you did know 
+>instead you asked them what had happened
+>that's when you started getting conflicting info
+>if the guards were to be believed your Alex willingly set off the gene bomb knowing what it would do
+>and supposedly Gensyn wasn't involved in weaponizing it
+>but that sounded like bullshit
+>you decided to check out and knocked on the door
+>no response
+>knock again
+>this wasn't funny
+>nothing
+>an explosion rocked the building from somewhere

@@ -1,20 +1,23 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://i.imgur.com/PhRRBLc.png)<-
+->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 08/15/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 08/23/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series entry!***) [Balsa: Chapter 19](https://docs.google.com/document/d/e/2PACX-1vTjnRkePMoovpwUl3Vkgd83eX0dAVkGbZ2-uRZOqW9XjpTFo508LnT6nDwGtRcyGCvsfafXs2JMIWg_/pub) (Ayame, Botan, Civia, medieval fantasy, NSFW)
-(***Series entry!***) [HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
-[Ame Helps You Shed](https://rentry.co/kea5e) (Ame, SFW, Fluff?)
-(***Series entry!***) [A Predator's Touch, A Hazy Yellow Line (Pt. 4](https://docs.google.com/document/d/e/2PACX-1vRcvehOWvdN1muInIUlkyHywne02DCjphnfL0P-Lew_9lVDGFYQsXgrJWUbe0JvRG3ne3xjwDZnl4Kg/pub) (Subaru, Ame, Koyori, Botan, SFW, Drama)
-[Yuzuki Veterinary Services - Second Opinion](https://docs.google.com/document/d/e/2PACX-1vQ346TAZwSIjTMyIe2c73cVdv79-AzEpZ8dmhCupGFnQ6N5uvqK-iuyds-5VQF4WYCbMrDg9Rmnjo_-/pub) (Towa, Choco, NSFW, Bestiality, Gangbang)
-[Reach For The Stars, Log 1: The Beginning Of A New Journey](https://docs.google.com/document/d/e/2PACX-1vTwePj_vvtX0kX40i32jTOKXxW5X_lPHxcHtMI14mOs2XwPfc0ugeScMtJCV5lnFntJazA2joa6r9Gg/pub) (Houshou Marine, Hoshinova Moona, Rikka, Airani Iofifteen, Sakura Miko, AZKi, Tsukumo Sana, SFW, Science-Fiction)
-[FuwaMoco Sex Backseating Greens](https://docs.google.com/document/d/e/2PACX-1vROLdKUC5daqm9lwXHVKGKvUXkv5vjmTLJ37QTkDb2I7axjxLyG5-oU46LKR5PoouzmRZ_nzlttFu4t/pub) (Fuwawa, Mococo, NSFW, Greentext)
-[House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (Koseki Bijou, Nerissa Ravencroft, Shiori Novella, NSFW, cunnilingus)
-[Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, Western, Comedy)
-[Three Sisters](https://docs.google.com/document/d/e/2PACX-1vSUXu5o00sy2U_g58S6FjYQIe-twOh5nnm6pCm3pmqCgWG47Gt2DU2EtEHO9rGJ3uhuSFq7y8aTfJVS/pub) (Choco, Bijou, Comedy, NSFW)<-
+->(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 37: A Lovely Night For Swashbuckling](https://docs.google.com/document/d/e/2PACX-1vQsEc4Vl5c3ysra9wDu4Oa3nhg6_CpRE5F-tCI7YT_PsePtKk7_-4L__6xv4VL-EJseIGhiYJaQumu_/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+(***Series Entry!***) [Balsa: Chapter 20](https://docs.google.com/document/d/e/2PACX-1vQtlB6-7wARQg6wSwqZnqaO-DrlpuJfswk0FoNolZWo3wib_C05sOKhoEy6Ta-qg0bP9o2aBIIBCzi5/pub) (Civia, Ciyana, SFW, Medieval Fantasy)
+(***Series Entry!***) [A Predator's Touch, A Hazy Yellow Line (Omake](https://docs.google.com/document/d/e/2PACX-1vSl_7V8Ei1mQo3ztW9o4nvnRlmP28osIZ_xHm8-1V8kAgButcn356BzbIWxd9S5cgiTZbwr62e_PsMV/pub) (Botan, NSFW, Femdom, Pegging)
+(***Series Entry!***) [First Train And Kafka Stop 21: Shelter](https://docs.google.com/document/d/e/2PACX-1vRbfriLQc-zaWLLx4A8x70TOqgCfcDmOCAu3Fc1HARSC69xmIRfXzxQopSAXdpruwFPV1-0CESnzqcu/pub) (Sora, Choco, Fubuki, NSFW Anthology Series, Dark)
+[Alt!Suisei greentext and discussion continuation](https://docs.google.com/document/d/e/2PACX-1vQgAUyPexv0xZ1WzhyGmY2C3sJhSxVrkzko5zsM0h03r9U3ZGDaTVjYgDY5_rTaJ8c51y1aADLk7mnh/pub) (Suisei, SFW, Idea Discussion Archive)
+[The Density of Your Semen Can't Be Helped](https://rentry.org/duu2y) (IRyS, NSFW, Futa, Size Queen)
+[Gravity's Rainbow](https://docs.google.com/document/d/e/2PACX-1vQf1wqsvCuyD9kzDH7v3k3RYtlsAK__IRQCDAEctj20rJllnZohytFo-Dy9xbL5WpfvxGZ-WEr8z6Ni/pub) (Mori, Korone, NSFW, Vore, Komodo Dragon)
+[I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be The Internet Idol Hoshimachi Suisei!](https://docs.google.com/document/d/e/2PACX-1vTJyQudJBozdhuqG2AiLx437YyIi1sTxtqpQXzh7Sa_eZ07Lb42QarXYZnZIQgteColiJ46W7YDFzUT/pub) (Suisei, NSFW, Incest, Drama, Comedy, Scratching, Biting)
+[Please, Mrs. Usada!](https://docs.google.com/document/d/e/2PACX-1vRIuEVDjeLxTSnmzUuHf1RavArK665wNktjmCIIz7xpaJ7oIvzogmt-3nHEeAEE1tFWPGpz2Z7Q63BG/pub) (Pekomama, NSFW, /ss/, Cheating)
+[Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (Ina, SFW, Fluff)
+[Alt!Suisei greentext and discussion continuation](https://docs.google.com/document/d/e/2PACX-1vQgAUyPexv0xZ1WzhyGmY2C3sJhSxVrkzko5zsM0h03r9U3ZGDaTVjYgDY5_rTaJ8c51y1aADLk7mnh/pub) (Suisei, SFW, Idea Discussion Archive)
+[Choco Check-up](https://docs.google.com/document/d/e/2PACX-1vSPehxvE3HwVuaobHKRT30NhwMd0Jk3jYjjODoTDxaM4rbpcwdtj-YRPR8qFfibuQ1tOSTgvYouYS0Y/pub) (Choco, NSFW, Short)
+[FacelessDegenerates.com](https://rentry.org/wzcar) (Shirogane Noel, NSFW, Dark, Misery Porn, Interactive Fanfic)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1240,6 +1243,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Iroha vtuber JAV Enthusiast greentext compilation](https://docs.google.com/document/d/e/2PACX-1vRqGnIhOc0oPISded7F98Jzlp8-GEV6MduxeAUR-ONGV-b9xCqRnAIref0d4JVnNU4wnsfmj5VPeMk4/pub) (Iroha, Reine, NSFW, Greentext Comp.)
 [CrossdRySsing](https://docs.google.com/document/d/e/2PACX-1vRCJCDAinfRzzRrSEYKgn6RtwwSJWucyQwWnzm0GCxMMfj0GvyWTbAGqRTxgS6T3eBYO-7o4HIZ34LQ/pub) (IRyS, NSFW, Crossdresing)
 [Alt!Suisei Outlines and Greentext](https://docs.google.com/document/d/e/2PACX-1vQUJON6EBJl_bWYeQEIhqiJilokvY4fSw4kiFcGM0sSKKgXAc1LbqBbiqiugW7JGEFuHjjyp67zHqeU/pub) (Suisei, SFW, Greentext Comp.)
+[Alt!Suisei greentext and discussion continuation](https://docs.google.com/document/d/e/2PACX-1vQgAUyPexv0xZ1WzhyGmY2C3sJhSxVrkzko5zsM0h03r9U3ZGDaTVjYgDY5_rTaJ8c51y1aADLk7mnh/pub) (Suisei, SFW, Idea Discussion Archive) ^
 [Kronii's Futa Smoothie](https://rentry.co/2mbtw) (Kronii, NSFW, Futanari, Greentext)
 [Holobrothel Concept](https://docs.google.com/document/d/e/2PACX-1vR8B9-aM1_7QAACkfjk9QjZveItMxNUkxHva9iPqFGOs7PCJ7NZhOCTRfZRpbMdPBOWkpNXNSApXVn2/pub) (Lamy, Aqua, Iroha, Marine, SFW, Greentext Compilation)
 [Ancient Ones Love (You)](https://docs.google.com/document/d/e/2PACX-1vTABmUKo34wCWWgLExZ9kFAGlOgS7ESVVcvpDeNkfsO8DAligNPFDzoyIGv22tOgQmEX5Ijx5hVNEFV/pub) (Ina, SFW, Horror, Greentext Comp)
@@ -1256,3 +1260,11 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [House of Leaves](https://docs.google.com/document/d/e/2PACX-1vTDyYa6lM0Y8FT-jvdE8NuU40EcNSIY3PQbNVTIQw99963jFGulv6SRmXJECliiDvH0aPgcqGbq9ZjE/pub) (Koseki Bijou, Nerissa Ravencroft, Shiori Novella, NSFW, cunnilingus)
 [Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, Western, Comedy)
 [Three Sisters](https://docs.google.com/document/d/e/2PACX-1vSUXu5o00sy2U_g58S6FjYQIe-twOh5nnm6pCm3pmqCgWG47Gt2DU2EtEHO9rGJ3uhuSFq7y8aTfJVS/pub) (Choco, Bijou, Comedy, NSFW)
+[Ame Helps You Shed](https://rentry.co/kea5e) (Ame, SFW, Fluff?)
+[The Density of Your Semen Can't Be Helped](https://rentry.org/duu2y) (IRyS, NSFW, Futa, Size Queen)
+[Gravity's Rainbow](https://docs.google.com/document/d/e/2PACX-1vQf1wqsvCuyD9kzDH7v3k3RYtlsAK__IRQCDAEctj20rJllnZohytFo-Dy9xbL5WpfvxGZ-WEr8z6Ni/pub) (Mori, Korone, NSFW, Vore, Komodo Dragon)
+[I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be The Internet Idol Hoshimachi Suisei!](https://docs.google.com/document/d/e/2PACX-1vTJyQudJBozdhuqG2AiLx437YyIi1sTxtqpQXzh7Sa_eZ07Lb42QarXYZnZIQgteColiJ46W7YDFzUT/pub) (Suisei, NSFW, Incest, Drama, Comedy, Scratching, Biting)
+[Please, Mrs. Usada!](https://docs.google.com/document/d/e/2PACX-1vRIuEVDjeLxTSnmzUuHf1RavArK665wNktjmCIIz7xpaJ7oIvzogmt-3nHEeAEE1tFWPGpz2Z7Q63BG/pub) (Pekomama, NSFW, /ss/, Cheating)
+[Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (Ina, SFW, Fluff)
+[Choco Check-up](https://docs.google.com/document/d/e/2PACX-1vSPehxvE3HwVuaobHKRT30NhwMd0Jk3jYjjODoTDxaM4rbpcwdtj-YRPR8qFfibuQ1tOSTgvYouYS0Y/pub) (Choco, NSFW, Short)
+[FacelessDegenerates.com](https://rentry.org/wzcar) (Shirogane Noel, NSFW, Dark, Misery Porn, Interactive Fanfic)

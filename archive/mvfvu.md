@@ -41,5 +41,6 @@ https://rentry.org/8s45n
 Sonic says shorts
 https://rentry.org/pcqqq
 https://rentry.org/gxv8e
+https://rentry.org/g94g5x
 One shots
 https://rentry.org/kwmnz

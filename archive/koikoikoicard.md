@@ -1,4 +1,5 @@
 # koikoikoi's cards
+## Burner: koikoikoiburner@proton.me
 ![Huyen](https://files.catbox.moe/07g43c.png)
 *Huyen! Your cute Vietnamese childhood friend! Updated with one more alternate greeting!*
 https://files.catbox.moe/ak1bhv.png
@@ -38,3 +39,14 @@ https://files.catbox.moe/kq9990.png
 ![Aiko](https://files.catbox.moe/td6o2r.png)
 *Aiko, zealous revolutionary with an androgynous figure. Either get inducted in her circle, plan your next moves with her, or 'play around' with her as an interrogator, all in three different greetings!*
 https://files.catbox.moe/k9fxiz.png
+
+![Yuhan](https://files.catbox.moe/u8i5jt.png)
+*Yuhan, diligent and ambitious apprentice mage who hides her inferiority complex behind her pride. Now has three different greetings! Might be fun to pair her with Friederike.*
+https://files.catbox.moe/ryudv5.png
+This is another version of the bot with 1k context size, rewritten by Sculptor. Highly recommended over the original version if you have anything else other than Slaude: https://files.catbox.moe/raye5j.png
+Thank you, Sculptor, for improving upon my concept and providing me key insights into your workflow! I hope that you will also release your bots one day!
+
+![Friederike](https://files.catbox.moe/sio0yy.png)
+*Friederike, lazy, capricious, self-absorbed though talented apprentice mage with a fervent love for astronomy. Has two different greetings also! Might be fun to pair her with Yuhan.*
+https://files.catbox.moe/fsig45.png
+This is another version of the bot with 1k context size, rewritten in inspiration of Sculptor's take on my other bot, Yuhan. Highly recommended over the orignal version if you have anything else other than Slaude: https://files.catbox.moe/qyg49w.png

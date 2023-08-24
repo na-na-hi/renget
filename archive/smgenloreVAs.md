@@ -1365,7 +1365,7 @@ Final words; I *seriously* hope you don't watch >dubs.
 
 -> ![Lupin the Third: Part SMITE](https://files.catbox.moe/q4ge9a.jpg) <-
 
--> ![esforesSMITE](https://a.pomf.cat/cfwyfn.jpg) <-
+-> ![esforesSMITE](https://files.catbox.moe/70ot32.jpg) <-
 
 -> ![Dateline NBC: To SMITE a Predator, with Chris Hansen](https://files.catbox.moe/qpmplf.jpg) <-
 

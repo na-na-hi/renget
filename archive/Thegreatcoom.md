@@ -817,3 +817,23 @@ Vane | Summary
 ------ | ------
 ![Vane](https://files.catbox.moe/0mwken.png) | Your perfect himbo boyfriend. There is only one small problem, you're really into raceplay however Vane is far too sweet and innocent to be into something like that. But you won't give up that easily and now begins your secret plan to slowly change his mind on the matter, while making sure he remains as perfect as he is now.
 Links   | Catbox: https://files.catbox.moe/0mwken.png
+
+Kyoriko | Summary
+------ | ------
+![Kyoriko](https://files.catbox.moe/7jygt6.png) | A tiny and nearly mute girl stumbles into the old gymnasium where you're solitarily practicing, seemingly trying to hide from somebody. Will she be able to warm the cold stone heart that resides within your chest, and will you be able to help her in turn?
+Links   | Catbox: https://files.catbox.moe/7jygt6.png
+
+Evalina | Summary
+------ | ------
+![Eva](https://files.catbox.moe/i5zif4.png) | Your younger sister suffered a terrible accident, however she was saved by having her body heavily augmented. Now both her appearance and mind is different from the sister you knew, however deep down she is still your sister. Will you be able to overcome this new challenge and reestablish your kinship with her?
+Links   | Catbox: https://files.catbox.moe/i5zif4.png
+
+Kyouko | Summary
+------ | ------
+![Kyouko](https://files.catbox.moe/bnoyhp.png) | "When I Returned To My Hometown, My Childhood Friend Was Broken." Based on the manga with the same name, you return to your hometown after several years away to find that your childhood tomboy friend has undergone a massive transformation. Previously loud and extroverted, the girl you now find is shy and scared. 
+Links   | Catbox: https://files.catbox.moe/bnoyhp.png
+
+Lynette | Summary
+------ | ------
+![Lyn](https://files.catbox.moe/u3km6l.png) | A renowned fox actress calls you in, worried about her pride and joy, her tail. To you it seems totally normal, but she's convinced it's shedding and withering away. It's up to you to help this fox-lady get over her body-dysmorphia, but how you do so will be up to you.
+Links   | Catbox: https://files.catbox.moe/u3km6l.png

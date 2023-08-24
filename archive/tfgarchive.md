@@ -22,7 +22,7 @@ https://pastebin.com/KxtUTAUu
 >Unlinking the past
 https://www.furaffinity.net/view/36635003/
 > Zelda gets turned into a lynel
-https://textbin.net/hxnf0a7cds
+(404'd, also deleted link cuz the page seems to have illegal stuff)
 >kigurumi evening
 https://pastebin.com/wEMBuaTt
 >Collage Creep
@@ -43,3 +43,7 @@ https://textbin.net/8udo1zodob
 https://pastebin.com/t1VBCV7w
 >Anon Overpowers Dragonwife
 https://rentry.org/anon-overpowers-dragonwife
+>Aayla and Ventress: Slimebound Sisters
+ https://pastebin.com/LwaDs5wk
+>Gay horse slime TF story
+https://controlc.com/067e3fc0

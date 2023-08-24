@@ -123,6 +123,7 @@ https://docs.google.com/document/d/15UbrVH8YexxBr0hKpH6HqTkFaUguxCwUMRY_BNMgkq0/
 A Rude Awakening (featuring Subject 2285-J, cameo by D.J. Lance). https://docs.google.com/document/d/1P13EK-zgyU6dV8CaYbuJjcVkqp2Cto7BNVLOobKFxjE/edit
 My Pre-Immortal (featuring Dr. Hermione Neighman) https://docs.google.com/document/d/1S-maMQoCz5bqHj8iycBk72w-HseBUWFGzS2lH-W5xxU/edit
 Mi Casa, Su Casa(Kara, Isha, Lance Lots of small cameos): https://rentry.org/tnvc29
+An average robot chit-chat: https://rentry.org/3avwm
 ### Mission Logs
 Heli's Mission Progress: https://rentry.org/HOTW-HeliMissions
 
