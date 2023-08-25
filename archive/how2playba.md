@@ -480,8 +480,10 @@ This is assuming the event starts after the Monday reset. Add 14 hours for story
 Bounties: **if and only if (I.F.F) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 2 tickets you lose out on. 
 
 ## Whaling for dummies
-![pakeji value](https://i.imgur.com/kwVBvea.png)
-Buy out the new player gems first, those are the best value.
+![pakeji value](https://i.imgur.com/IIrB9LU.png)
+Buy out the new player gems first, the numbers are crazy. 
+If you're planning on being a dolphin, like all gacha games the best value pakejis are the monthly/bimonthly ones. More bounty tickets, making scrimmages AP free, and a good pyro income.
+
 The 1 dollar Serika is nice, but pretty unneeded. It's incredibly worth if you're planning on maxing her out and spending big, as it saves a lot of AP farming the nodes. 
 
 I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two. 

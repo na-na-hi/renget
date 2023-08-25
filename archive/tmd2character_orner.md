@@ -1,19 +1,19 @@
-![JOJOREFERENCE](https://cdn.discordapp.com/attachments/730507595244372063/1143865498992398376/JoJOREFERENCE_-_Copy_50.png)
+![Seviper](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7e/latest/20230628040621/Seviper.png/260px-Seviper.png) 
 
-### Matchia ♀
-An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
+### Orner ♀
+==Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss.==
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** The EDO guild, whatever that may be.
+**Origin:** Native | **Guild Role/Occupation:** ==???==
+**Species:** Seviper | **Affiliation:** ==Council of Clans==
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
+**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
+Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -21,20 +21,20 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Health Points | 0 | Species Bonus; Level 5 (20HP) | 20HP
+Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Fake Out | 4 BP | 7(-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect
-Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-None | 0BP | 0AP | ≥2 | None | None | None
+Swagger | - | 4AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
+Wrap | 1BP | 6AP | ≥3 | Normal | Physical | The Opponent is afflicted with *Wrapped*.
+Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
+Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -50,7 +50,7 @@ Eᴍᴘᴛʏ | Description
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
+1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -75,9 +75,9 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+*Worn/Held Item: Oran Berry* | Heals 10HP when health falls under 50%
+*Equipped Item: Blast Seed* | Explodes on contact for 10 true damage.
+1. Power Seed | Increases Attack and Special Attack by 2 stages.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

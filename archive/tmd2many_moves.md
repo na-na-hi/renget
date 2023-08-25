@@ -583,7 +583,7 @@ Aqua Ring | - | 4 AP | - | Water | Status | The User is afflicted with *Aqua Rin
 Aromatic Mist | - | 4 AP | - | Fairy | Status | An Ally's Special Defense is increased by 1.
 **Assist** | - | 4 AP | - | Normal | Status | Roll 1D4; The User uses a Move known by an Ally. AP cost is only counted once.
 Attract | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent is afflicted with *Infatuated*.
-Aurora Veil | - | 4 AP | - | Ice | Status | [Screen.](https://rentry.co/tmd2many_rules#recoil-screens) Fails if it the Weather isn't [Snow](https://rentry.co/tmd2many_rules#weather).
+Aurora Veil | - | 4 AP | - | Ice | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and 2 Allies. Fails if it the Weather isn't [Snow](https://rentry.co/tmd2many_rules#weather). Affects Physical and Special Moves. 
 Autotomize | - | 4 AP | - | Steel | Status | The User's Speed is increased by 1. The User becomes lighter.
 Baby-Doll Eyes | - | 4 AP | ≥2 | Fairy | Status | The Opponent's Attack is decreased by 1.
 Baneful Bunker | - | 4 AP | - | Poison | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Poison*.
@@ -682,7 +682,7 @@ Laser Focus | - | 4 AP | - | Normal | Status | The User's next Move is a Critica
 Leech Seed | - | 4 AP | - | Grass | Status | The Opponent is afflicted with *Seeded.*
 **Leer** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
 **Life Dew** | - | 4 AP | - | Water | Status | The User is healed for 2 HP. The User may select additional Allies to heal at the cost of 2 AP each. Initial healing can be shifted to any nearby Pokémon.
-Light Screen | - | 4 AP | - | Psychic | Status | [Screen](https://rentry.co/tmd2many_rules#recoil-screens). Affects Special Moves.
+Light Screen | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Special Moves.
 Lock-On | - | 4 AP | - | Normal | Status | The User's next Move never misses the Opponent targeted. 
 Lovely Kiss | - | 4 AP | ≥6 | Normal | Status | The Opponent is afflicted with *Sleep.*
 Lucky Chant | - | 4 AP | - | Normal | Status | For 2 round, the Opponents are unable to have Critical Hits.
@@ -739,7 +739,7 @@ Rage Powder | - | 4 AP | - | Bug | Status | For the Opponent's turn, they become
 Rain Dance | - | 4 AP | - | Water | Status | The Weather is changed to [Rain](https://rentry.co/tmd2many_rules#weather).
 Recover | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
 **Recycle** | - | 4 AP | - | Normal | Status | When in battle, the User acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they've used recently. Outside of combat, the User may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
-Reflect | - | 4 AP | - | Psychic | Status | [Screen](https://rentry.co/tmd2many_rules#recoil-screens). Affects Physical Moves.  
+Reflect | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Physical Moves.  
 Reflect Type | - | 4 AP | - | Normal | Status | The User's Type changes to match the Opponent's. 
 Refresh | - | 4 AP | - | Normal | Status | The User is cured of *Poison*, *Burn*, or *Paralysis*. 
 Rest | - | 4 AP | - | Psychic | Status | The User is unable to act for 2 rounds. The User heals to Max HP.
@@ -835,7 +835,7 @@ Yawn | - | 4 AP | - | Normal | Status | After 1 round, the Opponent is afflicted
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | :-: | - | - | ---------
 **Struggle** | 5 BP | - | - | ??? | ??? | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens). Property determined by the User's highest Offensive Stat. Consumes all AP. The most pitiful Move a Pokémon can use, when they have exhausted all options.
-**Baddy Bad** | 9 BP | 6 AP | ≥2 | Dark | Special | [Screen](https://rentry.co/tmd2many_rules#recoil-screens). Affects Physical Moves.
+**Baddy Bad** | 9 BP | 6 AP | ≥2 | Dark | Special | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Physical Moves.
 **Bouncy Bubble** | 9 BP | 6 AP | ≥2 | Water | Special | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
 **Buzzy Buzz** | 9 BP | 6 AP | ≥2 | Electric | Special | The Opponent is afflicted with *Paralysis*.
 **Commander** | - | 4 AP | - | Dragon | Status | The User is afflicted with *Commanding.* An Ally is Afflicted with *Commanded.* The User may select additional Allies to command at the cost of 2 AP each.

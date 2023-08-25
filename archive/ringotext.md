@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Hag Inspection Report 2](https://rentry.org/94pno)* | Various | milk |
 | *[After A Long Night Of Archiving...](https://archiveofourown.org/works/49305760)* | Shiori, Nerissa | ringo, brap, choco |
 | *[Comfort Assistants](https://rentry.org/7og4r)* | Ame, Bae | sweat, brap |
 | *[Shiina's Fetish](https://docs.google.com/document/d/e/2PACX-1vQzk177QcpJZmBScuIFQYCqYhezFu8nsUeRmvN9IKdO-ojrhkexOET9Hy4QE8LWQ1kPHcvGVH7YR0S6/pub)* | Shiina, Airi | sweat, smell |

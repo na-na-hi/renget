@@ -32,8 +32,8 @@ Air Lock | The User nullifies the effect of Weather.
 Anger Point | The User's Attack is increased by 6 when damaged by a Critical Hit.
 Anger Shell | While below ½ HP, the User's Attack, Special Attack, and Speed are increased by 1, but their Defense and Special Defense are decreased by 1.
 Anticipation | The User is alerted if any Opponents know Super-Effective Moves.
-Arena Trap | Opposing Pokémon are unable to flee.
-Armor Tail | Opponents are unable to use Priority Moves against the User or their Allies.
+**Arena Trap** | The User's Basic Attack has a ≥11 chance to afflict *Immobilized*.
+**Armor Tail** | The User may enchant 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 Aroma Veil | The User and their Allies are immune to Move-disabling effects.
 As One | Stupid.
 Aura Break | The effects of Aura Abilities are reversed. 1-10; Aura Moves of all nearby Pokemon miss. 
@@ -49,7 +49,7 @@ Big Pecks | The user's Defense cannot be decreased.
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 Bulletproof | The user is immune to ball and bomb Moves.
 Cheek Pouch | The User is healed for 3 HP on top of each Berry's natural effect.
-Chilling Neigh | Cold horse.
+Chilling Neigh | If the User lands a finishing blow, their Attack is increased by 1.
 Chlorophyll | The User's Speed is increased by 2 while in Harsh Sunlight.
 Clear Body | The User's Stats cannot be decreased by Opponents.
 Cloud Nine | Nullifies the effect of Weather.
@@ -70,7 +70,7 @@ Damp | The User nullifies Explosion Moves.
 Dancer | The User copies Dance Moves used by Opponents for free. 
 Dark Aura | The Damage of Dark-Type Moves is increased by 3 for all Pokémon.
 Dauntless Shield | At the start of the battle, the User's Defense is increased by 1.
-Dazzling | Opponents are unable to use Priority Moves against the User or their Allies.
+**Dazzling** | The User may shine 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Defeatist** | The User's Attack and Special Attack Stats are increased by 1 Stat Point. While below ½ HP, the User's Attack and Special Attack are decreased by 2.
 Defiant | The User's Attack is increased by 2 for for each Stat decreased by an Opponent.
 Delta Stream | The User may summon Strong Winds once per battle.
@@ -108,16 +108,16 @@ Gooey | When the User is hit by a Physical Move, the Opponent's Speed is decreas
 Gorilla Tactics | The User's Attack is increased by 3, but only for the first selected move.
 Grass Pelt | While in Grassy Terrain, the User's Defense is increased by 3.
 Grassy Surge | The User may summon Grassy Terrain once per battle.
-Grim Neigh | Spooky horse. 
+Grim Neigh | If the User lands a finishing blow, their Special Attack is increased by 1.
 Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 instead. The User is immune to Moves and Abilities that would cause them to flee.
 **Gulp Missile** | When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. The User's Basic Attack is replaced with Gulp Missile. 
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
 Hadron Engine | At the start of the battle, the User's Special Attack is increased by 1. The User may summon Electric Terrain once per battle.
 **Harvest** | If a Berry was used last turn, there is a 50% chance they will find a Berry Leaf, 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.
-Healer | When the User uses a Status Move with a roll of or below 6, an Ally is cured of their Status Condition.
+**Healer** | When the User uses a Status Move with a roll greater than or equal to 10, an Ally is cured of their Status Condition.
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
 Heavy Metal | The User is twice as heavy as they normally would be. They also enjoy heavy metal.
-Honey Gather | The Opponent may drop Tasty Honey after the User lands a finishing blow. +1 roll chance every 5 Levels until Level 50.
+**Honey Gather** | If the User lands a finishing blow, roll 1D20. Upon rolling 20, the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
 **Huge Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 Hunger Switch | The User switches between Full-Belly Mode and Hangry Mode every turn.
 Hustle | The User's Attack Stat is increased by 3 Stat Points. The User's Miss Range with Physical Moves is increased by 4.
@@ -126,7 +126,7 @@ Hyper Cutter | The User's Attack cannot be decreased by other Pokémon. The User
 Ice Body | The User heals 2 HP each turn while in Snow.
 **Ice Face** | The User's Defense is increased by 6 until taking damage. 
 Ice Scales | The damage done to the User by Special Moves is decreased by 3. 
-Illuminate | The User's natural light is able to illuminate their surroundings. +2 Perception.
+**Illuminate** | The User's natural light is able to illuminate their surroundings. +2 to Perception rolls in darkness.
 **Illusion** | The User may disguise themselves as another Pokémon they've seen recently.
 Immunity | The User is immune to being Poisoned.
 Impostor | The User takes the shape of the Opponent at the start of the battle, copying all Stats and Moves besides Level and HP.
@@ -134,7 +134,7 @@ Infiltrator | The User bypasses Screen and Safeguard Moves, as well as Substitut
 Innards Out | When the User is KO'd by a damaging Move, the Opponent takes damage equal to the HP of the user before fainting.
 Inner Focus | The User is immune to Intimidate and is unable to Flinch.
 Insomnia | The User is immune to *Sleep*.
-Intimidate | When the User enters a battle, the Opponent has their Attack decreased by 1.
+**Intimidate** | When the User enters a battle, the Opponent has their Attack decreased by 1. +2 to Intimidation rolls.
 Intrepid Sword | At the start of the battle, the User's Attack is increased by 1.
 **Iron Barbs** | When the User is hit by a Physical Move, the Opponent takes Recoil damage.
 Iron Fist | The User's Punching Moves have their damage increased by 3.
@@ -143,7 +143,7 @@ Keen Eye | The User's Accuracy cannot be decreased. The Opponent's Evasion is ig
 Klutz | The User's Worn Item has no effect.
 Leaf Guard | While in Harsh Sunlight, the User is immune to Status Conditions.
 Levitate | The User is Raised.
-**Libero** | The User's Type changes to match the Move they are about to use. 
+**Libero** | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 3. 
 Light Metal | The User is half as heavy as they normally would be. They also enjoy alternative rock.
 **Lightning Rod** | When the User is hit by an Electric-Type Move, they are damaged normally and store the damage indefinitely. While storing, they may Brace their Body or Mind depending on the Property of the Move they were hit by and unleash the damage at an Opponent.
 Limber | The User is immune to Paralysis.
@@ -155,7 +155,7 @@ Magic Bounce | The User reflects Status Moves towards the Opponent.
 Magic Guard | The User is immune to damage from indirect attacks. 
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 Magma Armor | The User is immune to Freeze.
-Magnet Pull | The User attracts Steel-Type Pokémon.
+**Magnet Pull** | The User's Basic Attack has an ≥5 chance to afflict *Immobile* to Steel-Types.
 Marvel Scale | While the User is afflicted with a Status Condition, Defense is increased by 5.
 Mega Launcher | The User's Aura and Pulse Moves have their damage increased by 3.
 Merciless | While the Opponent is Poisoned, the User's Moves are Critical Hits.
@@ -183,8 +183,8 @@ Orichalcum Pulse | -
 Overgrow | While below ⅓ HP, the damage of the User's Grass-Type moves is increased by 5.
 Own Tempo | The User is immune to Intimidate and being Confused.
 **Parental Bond** | The User and her inner Fighting Spirit both attack at once. The Spirit's damage is calculated with an Attack Stat of 0.
-Pastel Veil | The User and their Allies are immune to being Poisoned. 
-Perish Body | When the User is hit by a Physical Move with a roll of or below 6, the User and Opponent will faint after 3 turns.
+**Pastel Veil** | The User may protect 3 Allies from the effects of *Poisoned*. 
+**Perish Body** | When the User is hit by a Physical Move with a roll of or below 6, the User and Opponent are afflicted with *Perishing* for 2 turns.
 Pickpocket | When the User is hit by a Physical Move, they steal the Opponent's Item.
 **Pickup** | The User may salvage an Item the Opponent used last turn. +1 roll chance every 5 Levels until Level 50.
 Pixilate | The User's Normal-Type Moves become Fairy-Type and have their damage increased by 3.
@@ -199,14 +199,14 @@ Prankster | The User's Status Moves have their AP decreased by 1.
 Primordial Sea | The User may summon Heavy Rain once per battle.
 Prism Armor | The damage of the Opponent's Super-Effective Moves is decreased by 3 against the User.
 Propeller Tail | The User's Moves are unaffected by Move-redirecting Moves and Abilities.
-**Protean** | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 2. 
+**Protean** | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 3. 
 Protosynthesis | The User's highest Stat is increased by 2 while in Harsh Sunlight.
 Psychic Surge | The User may summon Psychic Terrain once per battle.
 Punk Rock | The User's Sound Moves have their damage increased by 3. The Opponent's Sound Moves have their damage increased by 3 against the User.
 **Pure Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 **Purifying Salt** | The User recovers from Major Status Conditions in 1 turn. The Opponent's Ghost-Type Moves have their damage decreased by 3 against the User.
 Quark Drive | The User's highest Stat is increased by 2 while in Electric Terrain.
-Queenly Majesty | Opponents are unable to use Priority Moves against the User or their Allies.
+**Queenly Majesty** | The User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Quick Draw** | The User has a 30% chance to increase AP by 1 at the start of the battle.
 Quick Feet | While the User is Burned, Speed is increased by 2.
 Rain Dish | The User heals 2 HP each turn while in Rain.
@@ -298,7 +298,7 @@ Truant | The User's Attack Stat is increased by 2 Stat Points. After using a Mov
 Turboblaze | The User's Moves are unaffected by the Opponent's Ability.
 Unaware | The User's Moves ignore the Opponent's Stat increases and decreases.
 **Unburden** | If the User's Worn/Held Item is completely used or lost, their Max AP is increased by 2 until they faint or equip a new one. While the effect is active, Super-Effective damage against the User is increased by 4. 
-**Unnerve** | The User prevents Opponents from using Items that involve eating, I.E. Berries, Medicine, Apples.
+**Unnerve** | Once per battle, until the User's HP is below ⅓, they can prevent 2 Opponents from using Items that involve eating, I.E. Berries, Medicine, Apples. Other Items are unaffected. 
 Unseen Fist | The User's Physical Moves ignore Protect Moves.
 Vessel of Ruin | Opponents have their Special Attack decreased by 2.
 Victory Star | The User and their Allies have their Miss Range decreased by 2. The User and their Allies are guaranteed to achieve victory.
@@ -324,7 +324,7 @@ Zen Mode | The User is changed into Zen Mode at ½ HP.
 !!! warning Every Pokémon has access to IQ Skills. Only as many IQ Skills as there is IP remaining can be slotted into the active slots at a time, however, a Character may collect as many skills as they can afford.
 Tier | Roll | Name | Description | IQ Required | IP Cost 
 :----: | :----: | ------ | ------ | ------ | ------
-0 | ɴ/ᴀ | Amneplasticity | The User receives an Egg Move or TM of their choice with ≤7BP. May pull from future evolution paths if needed. Granted from Amnesia. | ɴ/ᴀ | 0 IP
+0 | ɴ/ᴀ | Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | ɴ/ᴀ | 0 IP
 0 | ɴ/ᴀ | Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | ɴ/ᴀ | 0 IP
 1 | 1. | Coin Haggler | The User can buy Items for 10% less in shops. | 40 IQ | 3 IP
 1 | 2. | Sales Pitch | The User can sell Items for 10% more in shops. | 40 IQ | 3 IP

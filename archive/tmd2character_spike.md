@@ -1,7 +1,7 @@
 ![Spike](https://archives.bulbagarden.net/media/upload/2/2c/570Zorua_Hisui_Dream.png) 
 
 ### Spike ♂
-"I'm not sure where I am, or if this even real- but I can't afford to act like it's not."
+Subdued and secretive, Spike doesn't care much to speak about himself, but rather to catch a good deal and deal good to others.
 
 · | ->· ->
 ---- | ----
@@ -61,9 +61,8 @@ These may help you in segments where combat is unnecessary or just to simply sho
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
+Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯

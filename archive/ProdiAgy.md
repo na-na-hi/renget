@@ -4,7 +4,7 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info 21 August: mmm...almost there...
+!!! info 24 August: Closer and Closer to Perfection.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
@@ -37,7 +37,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=100\" \"T_mult=1\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
@@ -54,7 +54,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d0=1e-3\" \"d_coef=2.0\" \"weight_decay=0.0\" \"safeguard_warmup=False" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.4\" \"safeguard_warmup=False" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

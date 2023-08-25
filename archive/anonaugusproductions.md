@@ -1,7 +1,8 @@
 Welcome, anons! To this little space of mine on the interwebs!
 Here are my bots for you to enjoy!
 
-All my bots are made to be used with OAI, but they probably work with Pygmalion as well.
+THIS IS OUTDATED: Go to my Chub profile instead for up to date bots:
+https://www.chub.ai/users/anonaugusproductions
 
 If you have suggestions for future bots or something similar, please tell me on the /aicg/ thread when i post there with my bots.
 

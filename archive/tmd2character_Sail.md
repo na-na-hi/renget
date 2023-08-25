@@ -1,19 +1,19 @@
-![JOJOREFERENCE](https://cdn.discordapp.com/attachments/730507595244372063/1143865498992398376/JoJOREFERENCE_-_Copy_50.png)
+![Yarr](https://files.catbox.moe/0trjiv.png)
 
-### Matchia ♀
-An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
+### Sail ♂
+A Goomy with a star piece eyepatch that is able to navigate the sea a bit more easily. A family heirloom belonging to his ancestors. Originally formed a line of seafarers and pirates mostly around the water continent. Though his family decided to settle around the wetter part of the grass continent. Interest in charting the star.
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** The EDO guild, whatever that may be.
+**Origin:** Native | **Guild Role/Occupation:** Astronomer
+**Species:** Goomy | **Affiliation:** Unaffiliation
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
+**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
+Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -22,19 +22,19 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
-Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Special Defense | 1 | Species Bonus | +2 Special Mitigation
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Fake Out | 4 BP | 7(-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect
-Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-None | 0BP | 0AP | ≥2 | None | None | None
+Absorb | 2BP | 5AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
+Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
+Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
+==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -50,7 +50,7 @@ Eᴍᴘᴛʏ | Description
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
+1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -77,9 +77,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Oran Berry | Heals the user for 10HP.
+2. Blast Seed | Explodes on contact for 10 true damage.
+3. Heal Seed | 	Cures all status conditions.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

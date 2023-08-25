@@ -34,6 +34,16 @@ I want to send huge thanks to everyone who sent me artworks! You are amazing!
 --- | --- | --- | --- | --- | ---
 ![Marii](https://files.catbox.moe/g2k59y.png)                              | ![Marii](https://files.catbox.moe/qm958o.png)                              |![Marii](https://files.catbox.moe/dz2pbx.png)                              | ![Marii](https://files.catbox.moe/y64v5m.png)                              |![Marii](https://files.catbox.moe/8qid42.png)                              |![Marii](https://files.catbox.moe/ls5ms9.png)                              |
 
+####Alicia, the Dormant Storm
+->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Alternative outfit<-|->Catgirl sorceress<-|->More mature<-|
+--- | --- | --- | --- | --- | ---
+![Alicia](https://files.catbox.moe/f2f06l.png)                              | ![Alicia](https://files.catbox.moe/0go3ep.png)                              |![Alicia](https://files.catbox.moe/29iidi.png)                              | ![Alicia](https://files.catbox.moe/njvy44.png)                              | ![Alicia](https://files.catbox.moe/tlewg7.png)                              |![Alicia](https://files.catbox.moe/qg0r7h.png)                              |
+
+####Bonnie, the Damage Case
+->Card image<-|->Alternative profile<-|->One of the first drafts<-|->More mature draft<-|->Busty Bonnie<-|->Fan art by CoomerDoomer<-|->Fan art by CoomerDoomer<-|
+--- | --- | --- | --- | --- | --- | ---
+![Bonnie](https://files.catbox.moe/znoirz.png)                              | ![Bonnie](https://files.catbox.moe/m6lz7a.png)                              |![Bonnie](https://files.catbox.moe/y72gyt.png)                              | ![Bonnie](https://files.catbox.moe/ha6sqr.png)                              | ![Bonnie](https://files.catbox.moe/4ell5a.png)                              | ![Bonnie](https://files.catbox.moe/0mn4fa.png)                              | ![Bonnie](https://files.catbox.moe/i5l8s9.png)                              |
+
 ####Anna Ivanova, the Tsundere Prosecutor
 ->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Modern casual - fan art made by CoomerDoomer<-|
 --- | --- | --- | ---

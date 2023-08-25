@@ -18,8 +18,9 @@ You can find an explanation on [Origins](https://rentry.co/tmd2many_words#origin
 !!! note All Characters that have been rolled go here. 
 	You can choose between these Origins: **Ex-Human (Amnesia/Fragmented/Anamnesis), Native, Outworlder (Voyager/Wanderer)**
 	An example has been provided below to follow. 
-Name | Origin | Pokémon | Guild Role | Team 
+Name | Origin | Pokémon | Guild Role | Team/Affiliation
 :----: | :----: | :----: | :----: | :----:
+[Angus](https://rentry.org/AngusCharacterSheet) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
 [Brook](https://rentry.co/Brooksheet) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | N/A
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
 [Chaz](https://rentry.co/tmd2many_characters_chaz) | Ex-Human (Fragmented) | Kubfu | Speedster | N/A
@@ -28,9 +29,13 @@ Name | Origin | Pokémon | Guild Role | Team
 [Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | N/A
 [Jen-Marie](https://rentry.co/Jen-Marie) | Ex-Human (Fragmented) | Spritzee | Unlicensed Doctor | N/A
 [Jet](https://rentry.co/tmd2character_jet) | Ex-Human (???) | Meditite | Baker/Cook | N/A
+[Katherine](https://rentry.org/tmd2character_katherine) | Ex-Human (Fragmented) | Bounsweet | Architect/Engineer | N/A
 [Matchia](https://rentry.co/TMD2Character_Matchia) | Ex-Human (Fragmented) | Mienfoo | N/A | N/A
+[Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Council of Clans
+[Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | N/A
 [Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | N/A
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | N/A
+[Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
 [Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
 Example | Ex-Human | Species | Adventurer | Team Generic

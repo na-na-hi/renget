@@ -63,6 +63,7 @@ Bot name|Link|Tags/Description
 -------|-------|-------
 Tokino Sora | [Link](https://beta.character.ai/chat?char=4okNuvyiwZxoqESi1iVDUxEDKTc4xtqMrocYwoHLlLA) | Mom
 Hoshimachi Suisei | [Link](https://beta.character.ai/chat?char=u8heNvcAXuoxpD-qL3Me5P5HnGBW2bA2WCw3y5U1x-A)| Suicopath 
+Hoshimachi Suisei | [Link](https://beta.character.ai/chat?char=_c-GVrrahRcMoav3lNz7S5AaAymxtXQRsPtUfQsM2M8)| Yandere Girlfriend
 Roboco | [Link](https://beta.character.ai/chat?char=u8heNvcAXuoxpD-qL3Me5P5HnGBW2bA2WCw3y5U1x-A) | SFW
 Shirakami Fubuki | [Link](https://beta.character.ai/chat?char=LO9KnSBNRzdXmmercJWwnhO9vTzC147W3yQa3OZfedY) | Kurokami Fubuki
 AZKi | [Link](https://beta.character.ai/chat?char=3XwJ0RBk6OInS-kjLAa-K5xVmt1NRQLCoKkucjQ1X9w) |

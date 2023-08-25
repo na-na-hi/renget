@@ -1,19 +1,19 @@
-![JOJOREFERENCE](https://cdn.discordapp.com/attachments/730507595244372063/1143865498992398376/JoJOREFERENCE_-_Copy_50.png)
+![REPLACE](image url) 
 
-### Matchia ♀
-An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
+### Vito ♂
+A Doctor who ended up answering the call, driven by his Oath and his desire to heal and help others, Vito is determined, steadfast, and utterly rejecting of violence. Ironic given his new form, but at least he still has dexterous appendages to practice medicine with. A pacifist, but will gladly shield others from harm without hesitation.
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** The EDO guild, whatever that may be.
+**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Head Doctor/Surgeon
+**Species:** Pangoro | **Affiliation:** ==REPLACE==
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *Cap*
+**Worn Item:** *N/A* | **Clothing:** None
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
+Scrappy | The User is immune to Intimidate. The User can hit Ghost-Type Pokémon with Normal and Fighting-Type Moves.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -24,35 +24,35 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Fake Out | 4 BP | 7(-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect
-Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-None | 0BP | 0AP | ≥2 | None | None | None
+Endure | 0BP | 4AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves
+Laser Focus  | 0BP | 4AP | ≥2 | Normal | Status | The User's next Move is a Critical Hit.
+Parting Shot | 0BP | 4AP | ≥2 | Dark | Status | The Opponent's Attack and Special Attack are decreased by 1. The User flees to safety.
+==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description
+Field Surgery | Strong single target heal. The product of twelve years of education.
+Disenfection | Clear most physical negative status effects and DoT. 
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    5/12 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
-3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Rememberance |  The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
+2. Empty | Description | N/A
+3. Empty | Description | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
@@ -76,7 +76,7 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Held Item: N/A* | Vacant Held slot
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -96,7 +96,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Empty | Vacant
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

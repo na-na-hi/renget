@@ -53,6 +53,7 @@
 118: Regis, Vesper, Axel, and Magni are created.
 129: Bettel, Hakka, Flayon, and Shinri are created.
 142: Shiori, Bijou, Fuwawa, Mococo, and Nerissa are created.
+144: Magni and Vesper are killed under unclear circumstances when engaging with monsters near the borders of Nerissa's territory. Rumors spread like wildfire as the realm of both demigods quickly collapse into anarchy. Vesper's realm, already unstable, quickly falls apart. The survivors flee to Magni's land who use heavily experimental alchemy to maintain their realms at terrible human cost. It remains unknown what or why both demigods died, but some speculate it was the result of a freak alchemical accident. 
 144: Current year. 
 
 ![Map of the Known World](https://warosu.org/data/vt/img/0552/05/1691213703644852.png)

@@ -13,18 +13,18 @@ https://www.nexusmods.com/baldursgate3/
 
 \>FAQ:
 \>Q: Do I need to play the previous games?
-\>A: No, but they are good games and you should give them a try. If you don't feel like playing them, here's a summary of the events leading up to BG3: https://www.youtube.com/watch?v=\__GI7CrYnj8 (alternatively https://www.youtube.com/watch?v=M1TIDZBYuLc and https://www.youtube.com/watch?v=HUoARwbHcZQ)
+\>A: No, but you should give them a try. If you don't feel like it, here's a summary of the events: https://www.youtube.com/watch?v=__GI7CrYnj8
 \>Q: Why aren't my companion quests/romances advancing?
-\>A: Companion quests and romances tend to advance after long resting. If your romance appears to be bricked, maybe you didn't long rest enough.
+\>A: Companion quests and romances tend to advance after long resting. If your romance appears to be bricked, maybe you didn't long rest \enough.
 \>Q: Can I recruit Minthara without going down the evil path?
-\>A: If you don't pick sides and just proceed without completing the grove questline, yes. But by doing that you'll miss out on her romance.
-\>Q: Is Durge essentially "Tav+" (ie. Tav with additional content)?
-\>A: Yes. You get a bunch of additional content and dialogue, BUT there are certain points where if you've chosen to resist the Urge and/or don't complete quests in the "right" way, you'll have to pass additional dialogue checks to avoid losing companions permanently.
+\>A: If you don't pick sides and just proceed without completing the grove questline, yes. But you'll miss out on her romance.
+\>Q: Is Durge essentially "Tav+"?
+\>A: Yes. You get additional content, BUT there are points where if you've chosen to resist the Urge and/or don't complete quests the "right" \way, you'll have to pass additional checks to avoid losing companions.
 \>Q: Are there any consequences to tadpolemaxxing?
-\>A: Story-wise? [spoiler]No, you can consume as many tadpoles as you want without consequence and still get the ending you want.[/spoiler] Appearance-wise? [spoiler]Yes, if you consume the Astral-Touched Tadpole your face will become irreversibly "veiny".[/spoiler]
+\>A: [spoiler]No, you can consume as many tadpoles as you want without consequence. HOWEVER, if you consume the Astral-Touched Tadpole your face will become "veiny".[/spoiler]
 
 \>Misc:
-\>If you're updating from EA, make sure to uninstall it and delete your saves at "%localappdata%\Larian Studios\Baldur's Gate 3\PlayerProfiles\" before playing the full game.
+\>If you're updating from EA, delete your saves at "%localappdata%\Larian Studios\Baldur's Gate 3\PlayerProfiles\" before playing.
 
 \>Polls:
 \>Romance: https://strawpoll.com/NMnQ5kJXYn6

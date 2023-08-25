@@ -68,7 +68,7 @@ Along with that, it's important to remember that as a Native (or even an Outworl
 A planet inhabited solely by Pokémon. That's how the story goes each time it's repeated to the freshly transported human. There are a total of five major landmasses; Air, Grass, Mist, Water, and Sand.
 
 **The Air Continent** experiences temperate weathers, with all four seasons available year-round. 
-- Faction: **Clan Councils**
+- Faction: **Council of Clans**
 - Wild and poorly developed, the Air Continent is occupied by multiple clans. Some might have permanent presence in an area, while others lead nomadic lifestyles. What they do all have in common is that they convene for a monthly council, under the peace of their patron, Rayquaza. They are led by a clan elder.
 	- Their clan names are inspired by the earth and all that it contains, as they do not ever believe themselves to be above their protecting patron, Rayquaza, and choosing anything else would be a sign of hubris.
 		- Clan Skarn, elder: Druddigon (name: Elder Two Spirals, Claws Bared)
@@ -80,6 +80,7 @@ A planet inhabited solely by Pokémon. That's how the story goes each time it's 
 		- Clan Almandine
 		- Clan Morion
 		- Clan Galena
+	- There are several villages within the influence of a single clan. Their size and amount of villages can vary, especially depending on the habits of the clan itself.
 
 **The Grass Continent** has a similar range to that of the Air Continent, but normally sees larger open stretches of prairie or savannas. Springs and summers are longer. 
 - Faction: **Ho'oha**

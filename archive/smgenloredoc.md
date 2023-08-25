@@ -96,7 +96,7 @@ https://rentry.org/smgenlorePh2P2
 This Doc covers the following Arcs:
  - Cheap Chinese Knockoff Gods (Jade Corruption / Grim Omens)
  - AAAAAAAAAAAAAA NIGGERMAN SAVE MEEEEEEEE (New Moon / Odyssey: Reckoning / SMITE Friends / Dawn of Babylon)
- - The Gamer Grrrl Great Reset (Talons of Tyranny / Court of Midnight / Odyssey: Perilous Seas / Yuletide / Dharmic Era)
+ - The Gamer Grrrl Great Reset (Talons of Tyranny / Court of Midnight / Odyssey: Perilous Seas / Yulefest / Dharmic Era)
 
 ###~~Second Phase - Part 3 OR Third Phase (2022 to 2024)~~
 

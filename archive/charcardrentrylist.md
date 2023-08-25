@@ -26,7 +26,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Mallory](https://files.catbox.moe/kpya0u.png)|[Mallory](https://files.catbox.moe/kpya0u.png) [MV]
 [CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png), [Victoria](https://files.catbox.moe/41izyw.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV], [Ilulu](https://files.catbox.moe/46uoh2.png), [Victoria](https://files.catbox.moe/41izyw.png) [MV]
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png), [Shula](https://files.catbox.moe/4xyhcs.png), [Sexcape Room](https://files.catbox.moe/g876xm.png)|[Fumin](https://files.catbox.moe/s3x5w1.png) [MV], [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png) [MV]
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png), [Shula](https://files.catbox.moe/4xyhcs.png), [Sexcape Room](https://files.catbox.moe/g876xm.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png) [MV], [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png) [MV]
 [Genoo](https://rentry.org/295se) | Sizeplay |[Candy McGiggles](https://files.catbox.moe/vqnjqq.png), [Sasha](https://files.catbox.moe/mi1syq.png)|[Candy McGiggles](https://files.catbox.moe/vqnjqq.png) [MV], [Mari and Yui](https://files.catbox.moe/fmyxtp.png), [Abigail](https://files.catbox.moe/nlnc80.png), [Diana](https://files.catbox.moe/mzf5jm.png)
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Yuhan](https://files.catbox.moe/raye5j.png), [Friederike](https://files.catbox.moe/qyg49w.png)|[Yuhan](https://files.catbox.moe/raye5j.png) [MV], [Friederike](https://files.catbox.moe/qyg49w.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Laith](https://files.catbox.moe/trkyrz.png), [Naohiro](https://files.catbox.moe/crc3kb.png)|[Laith](https://files.catbox.moe/trkyrz.png) [MV], [Hajime](https://files.catbox.moe/z5v9cr.png)
@@ -46,8 +46,9 @@ Botmaker | Category | New Bots | Updated Bots
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa |[Norirna](https://files.catbox.moe/ds87g3.png), [Petronia](https://files.catbox.moe/8ji8n4.png), [Kirishima](https://files.catbox.moe/9vten2.png)|[Kirishima](https://files.catbox.moe/9vten2.png) [MV]
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Artemis](https://files.catbox.moe/eohktg.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Kirche](https://files.catbox.moe/lbfwxj.png)|
-[Frozenvan](https://rentry.org/frozenvan) | Misc ||
+[Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
+[Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
@@ -84,7 +85,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Tarkman](https://rentry.org/tarkmanbots) | Misc ||
-[Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||

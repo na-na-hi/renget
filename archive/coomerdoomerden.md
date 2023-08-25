@@ -99,6 +99,6 @@ https://www.chub.ai/characters/thiasus/Ada
 https://files.catbox.moe/pqsequ.zip
 ####Amazing Lobster Fanart
 https://rentry.org/lobsterchan
-->Anna<-|->Marii<-|
---- | --- |
-![Anna](https://files.catbox.moe/43rv1z.png)                              | ![Marii](https://files.catbox.moe/by20o5.png)                              |
+->Anna<-|->Marii<-| ->Bonnie 1<- | ->Bonnie 2<- |
+--- | --- | --- | --- |
+![Anna](https://files.catbox.moe/43rv1z.png)                              | ![Marii](https://files.catbox.moe/by20o5.png)                              | ![Bonnie 1](https://files.catbox.moe/sylo49.png)                              | ![Bonnie 2](https://files.catbox.moe/071s90.png)                              |

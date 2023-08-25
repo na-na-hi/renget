@@ -13,7 +13,7 @@
 
 Pokémon's Ability | Description
 ---- | ----
-Protean | A Pokémon with Protean as its Ability will change its type to be the same type as the move it is using.
+Protean | A Pokémon with Protean as its Ability will change its type to be the same type as the move it is using. Super-Effective damage against the User is increased by 2.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-

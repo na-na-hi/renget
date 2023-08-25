@@ -1,19 +1,20 @@
-![JOJOREFERENCE](https://cdn.discordapp.com/attachments/730507595244372063/1143865498992398376/JoJOREFERENCE_-_Copy_50.png)
+-> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
+->![Future fighter/monk](https://pixeldrain.com/api/file/2xuoy3CB)<-
+### Katherine (Bounsweet) (wip) ♀
+Things can only go up!
 
-### Matchia ♀
-An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
-
+She can barely remember things from her world, not even her name! But as the darkness dragged her to this other realms, taking her arms, legs, and other things, she dragged something with her, her experience as a master engineer and architect!
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** The EDO guild, whatever that may be.
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
+**Species:** Bounsweet | **Affiliation:** N/A
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *Cap*
+**Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
+Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -21,20 +22,20 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Health Points | 1 | Specie bonus; Level 5 (20HP) | 22 HP
+Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Fake Out | 4 BP | 7(-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect
-Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-None | 0BP | 0AP | ≥2 | None | None | None
+Splash      | - | 1AP | - | Normal | Status | The User splashes around.
+Play Nice  | - | 4AP | - | Normal | Status | The Opponent's Attack is decreased by 1. Ignores Protect Moves.
+Razor leaf | 5BP | 5AP | ≥2 | Grass | Physical | 18-20; Increased Crit Ratio. Multi-Target. Effective at destroying woodland hazards.
+N/A | - | - | - | - | - | -
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -47,28 +48,20 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
+1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
-Eᴍᴘᴛʏ | Description. | N/A
+Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
 Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+N/A  | Tier **N/A** | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -2,7 +2,7 @@
 -> ![average nikg poster](https://imgur.com/QSlDQER.png) <-
     
 !!! info
-    -> Remember (you) LOST! <-
+    -> Good luck on UR8. Do not job. <-
     -> Old raid graphs by the dorothyfriend can be found here https://rentry.co/NikgRaidGraphs. <-
     
    
