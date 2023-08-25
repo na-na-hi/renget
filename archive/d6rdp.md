@@ -1,4 +1,4 @@
-#The Nations of the planet Covolo (change name later this is shit)
+#The Nations of the planet Covolo
 
 [TOC2]
 
@@ -351,17 +351,44 @@ Miko’s powers are somewhat unusual. As a shrine maiden, much of her powers rel
 *Capital: Totokumi*
 
 ###Geography and Infrastructure 
+The Virtual Frontier is a heavily urbanized nation which has turned the majority of its central country into an urban megacity. Only the outer edges furthest away from the capital retain any trace of greenery left. It is a somewhat hilly country but with few rivers, so it has a slightly arid climate. From all sides it is surrounded by fellow nations, although many of its rivers do link to the sea eventually. 
+
+The train was invented here, which revolutionized transportation and paved the way for further inventions such as automobiles, planes, and the like. Unlike the somewhat reclusive nation of Roboco, the people of the Virtual Frontier have always been extroverted and willing to share their technological gains.
+
+A significant portion of the country is in virtual space, much like their demigoddess AZKi. . It was AZKi herself who created the virtual world when the nation was first founded, though it was significantly more primitive at the timeMost citizens lead a double life in virtual reality independent of their physical form. The nation has advanced so heavily into virtual development that they expect the ability to create virtual life before the century is out. What this means is that most of the population lives two lives at once. This includes the government, of whom a Physical and a Virtual parliament exist. 
+
+The AZKian Virtual Frontier is bordered by Miko to the northeast, Mel to the northwest, Aki to the west, a small portion of Miyabi to the southwest that was taken in a war, Haato/Haachama to the south, and Fubuki to the east. 
 
 ###Flag
 Two left facing diagonal bands of black and dark pink. The black band has a smaller light blue band running down the right side. In the top left and bottom right corner are two white acute triangles that both point towards the corners of the flag. 
 
 ###General Overview 
+As prior mentioned, the Virtual Frontier is distinguished by its neighbors for its openness and virtual reality pioneering. The Virtual Frontier has long encouraged members of the other nations to adopt their virtual reality-based lifestyles too, to mild success. Almost all citizens have an alternate avatar where they can live their private lives, and many dream of one day bridging the gap completely to be with their demigod. 
+
+It was AZKi who first suggested to Sora the benefits of collaborating through the internet as a means of both entertainment and diplomacy. Since the first streams began in the year 94, warfare between the nations has dropped. In a way, it could be said AZKi is the greatest diplomat of her sisters and brothers. 
+
+AZKi primarily operates in the virtual world instead of physical reality, and specializes in virtual monsters, not physical. As a result, her citizens’ best chance to interact with her is to join her in the virtual world, where the cover of anonymity allows for greater confidence. Most of the country operates on a virtual backdrop to its physical counterparts, which means that it is just as large to explore as the nation itself. 
+
+The country is not all sunshine and rainbows, however. Like all utopias, it has its seedy underbelly. For once, cyber crime is a serious felony in this state. This wide reaching term covers aspects such as avatar destruction, hacking, virtualspace terrorism, and various other forms of mischief and larceny that endanger and degrade the virtual world. It is possible to die in the real world if the virtual body sustains enough trauma. There is also the risk of becoming too engrossed. Many are the tales of bodies wasted away to nothing while their minds roam the avatar realms forever, growing wilder and madder. 
+
+After the tragic disappearance of Aloe Mano, AZKi founded the Exploration Corps which aims to map out the known world in spite of the fog by using both virtual and physical exploration. These brave scouts have aided many lost souls trapped close to the endless fog, assisted in the evacuations of doomed countries, and scouted out the physical geography of the fog lands. 
+
+The map of the world, unmarked as it is, has been meticulously scouted and detailed on the Exploration Corps maps. Strange landmarks and features cause many to guess at what Yagoo is building out there, and these maps have also been used to plan out means of defense against future monster attacks. 
 
 ###Blessed
+The Blessed of AZKi lose their physical form entirely, becoming true virtual entities of raw data so complex it would make a computer pop like a balloon if converted onto a hard drive. They gain near unlimited power over virtual space as well, and often assist AZKi by acting as virtual police.  
+
+Of course, absolute power corrupts absolutely. Although exceedingly rare for a Blessed to betray their demigod, it is not impossible. Because of the near unlimited amount of matter warping allocated to these Blessed in the Virtual World, when they go rogue, and it happens more often than other demigods, they become a serious threat, erasing and destroying as they go. 
 
 ###Leader Description
+AZKi is an unusual demigod in that she prefers to exist in the realm of virtual than physical, having often cited she feels uncomfortable in the real world. In her own realm, which she helped create, she sings and performs nearly every day. Entertained subjects are happy ones. This is the creed she has always stuck by, and it has allowed her nation to thrive. The people of the Virtual Frontier are joyous, and love their ruler. 
+
+AZKi is both persistent and playful, someone who doesn’t take things too seriously yet refuses to give up on challenges. Multiple times she has dealt with exhaustive levels of monsters to keep her people safe. Multiple times she has collapsed from exhaustion and overexertion. Because she created the virtual world, she feels responsible for it, and often blames herself when things go wrong. 
 
 ###Leader Powers 
+AZKi, being a virtual diva, has the power to manipulate the space around her as she sees fit. Although incredibly powerful, this only works within the virtual space she has created and helped grow. While making her almost godly in her own territory, it greatly limits her capabilities for combat outside, like a sailor on solid land after years at sea.
+
+Much of her remaining powers specialize in the application of sound. Be it sonic shockwaves that rupture organs or pure noise that overwhelms the senses. She is currently coaching Nerissa in her sonic based powers as well in order to develop them better, as Nerissa has been struggling to control her borders. The core difference between the two is raw volume and controlled sound. 
 
 ##Angelic Heavens of Amane
 

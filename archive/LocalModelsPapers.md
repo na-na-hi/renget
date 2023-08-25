@@ -99,6 +99,7 @@
 07/2023|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://archive.ph/nHQ15)
 08/2023|[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://archive.ph/J8xMD)
 08/2023|[D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://arxiv.org/abs/2308.12284)
+08/2023|[Code Llama: Open Foundation Models for Code](https://archive.ph/O690K)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/b4XUIa.png) <-
+-> ![](https://i.imgur.com/iW8HRGv.png) <-
 
 # 🎮 ➜ [Megathread](https://rentry.co/megathread) / **Games**
 
@@ -197,7 +197,7 @@
 
 &nbsp;
 
--> ![](https://take-me-to.space/FYQpFtp.png) <-
+-> ![](https://i.imgur.com/MdUPUe3.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

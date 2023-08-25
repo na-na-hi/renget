@@ -12,7 +12,7 @@ Please reply to OP if you have suggestions, I'm busy most of the day. I'm sorry.
 Having them be replies to OP makes it easy for me (and others) to see
 
 Please post Miyoshi Takane? She's very cute
-Last read: #3286
+Last read: #3295
 -----------
 #A-HA Conquest Route
 Because I can make lines on MS Paint at 12 midnight like a drunken sailor.
@@ -57,6 +57,10 @@ Take two empty tiles instead of fighting the Justina followers. One more tile th
 
 -----------
 #A-HA Conquest Upgrade Route
+
+FAQ: **But why like this and not just upgrade whatever I feel like?**
+Because upgrading the ones that take lesser resources first and saving the costly ones for later is more efficient.
+
 ##Round 1
 
 **Upgrade the bases in order shown to LEVEL 3**

@@ -94,7 +94,7 @@
 |11/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=VRdVncNa0FE)| **Collab** - Third HoloAdvent Group collab on Earth Defense Force 6 (with [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=DC8VQsff7sA))|
 |18/08/2023|[Nerissa's POV](https://youtu.be/T40-yg1CEgE)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](https://www.youtube.com/watch?v=1L6uZUwIx0o) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=EDeLwLudnqA)) - Shiori was absent|
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
-|25/08/2023|[Link](-)| **Collab** - Fifth HoloAdvent Group collab with Shiori, Bijou and the FUWAMOCO Twins on Phasmophobia|
+|25/08/2023|[Link](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|

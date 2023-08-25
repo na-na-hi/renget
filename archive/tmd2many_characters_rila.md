@@ -1,29 +1,26 @@
-![Seviper](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7e/latest/20230628040621/Seviper.png/260px-Seviper.png) 
-
-### Orner ♀
-==Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss.==
-
+![Riolu](https://m.archives.bulbagarden.net/media/upload/b/b2/0447Riolu.png)
+### Rila ♀
+==REPLACE WITH PARAGRAPH BIO OR DESCRIPTION OF CHARACTER REPLACE==
 · | ->· ->
 ---- | ----
-**Origin:** Native | **Guild Role/Occupation:** ==???==
-**Species:** Seviper | **Affiliation:** ==Council of Clans==
+**Origin:** Ex-Human (Amnesiac) | **Guild Role/Occupation:** ==REPLACE==
+**Species:** Riolu | **Affiliation:** ==REPLACE==
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
+Inner Focus | The User is immune to Intimidate and is unable to Flinch.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 2 | Species Bonus | +2 Physical Damage 
-Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
+Health Points | 0 | No Bonus | 20HP
+Attack | 1 | Species Bonus | +1 Physical Damage 
+Special Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
@@ -31,18 +28,18 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Swagger | - | 4AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Wrap | 1BP | 6AP | ≥3 | Normal | Physical | The Opponent is afflicted with *Wrapped*.
-Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
-Iron Tail | 10BP | 6AP | >8 | Steel | Physical | 14-20; The Opponent's Defense is decreased by 1.
+Quick Attack | 4BP | 5(-1)AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
+Endure | - | 4AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
+Foresight | - | 4AP | - | Normal | Status | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
+Metal Claw | 5BP | 4AP | ≥2 | Steel | Physical | 19-20; The User's Attack is increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Rest | Orner takes a nap.
-Coil | Orner coils up.
+Eᴍᴘᴛʏ | Description
+Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
@@ -50,34 +47,34 @@ Coil | Orner coils up.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
-    These may help you in segments where combat is unnecessary or just to simply show your prowess.
+These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
+Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
+Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
+Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
+Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
+Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
+Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
+Currently Training for Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
+
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Oran Berry* | Heals 10HP when health falls under 50%
-*Equipped Item: Blast Seed* | Explodes on contact for 10 true damage.
-1. Power Seed | Increases Attack and Special Attack by 2 stages.
+*Worn/Held Item: N/A* | Vacant Worn/Held slot.
+*Equipped Item: N/A* | Vacant hand slot.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

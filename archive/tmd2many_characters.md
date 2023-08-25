@@ -32,6 +32,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Katherine](https://rentry.org/tmd2character_katherine) | Ex-Human (Fragmented) | Bounsweet | Architect/Engineer | N/A
 [Matchia](https://rentry.co/TMD2Character_Matchia) | Ex-Human (Fragmented) | Mienfoo | N/A | N/A
 [Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Council of Clans
+[Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A
 [Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | N/A
 [Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | N/A
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | N/A

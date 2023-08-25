@@ -40,9 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Artfag!
->Korean Bug Zapper (Spark)
->>90018257
+MHA is sleeby!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -758,6 +756,13 @@ https://rentry.org/tnvc29
 Page 4
 ****
 ```
+Writefags (Cont):
+>an average robot chit-chat
+https://rentry.org/3avwm
+>Dr. Neighman Starts Again (featuring Dr. Neighman):
+https://docs.google.com/document/d/1QtUCl2VBMGos3kiuek4HvAzvojPlUgRGHbAqzACx7Go/edit?usp=sharing
++Alt Link: https://controlc.com/29887abc
+
 Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png

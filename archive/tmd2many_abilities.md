@@ -112,7 +112,7 @@ Grim Neigh | If the User lands a finishing blow, their Special Attack is increas
 Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 instead. The User is immune to Moves and Abilities that would cause them to flee.
 **Gulp Missile** | When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. The User's Basic Attack is replaced with Gulp Missile. 
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
-Hadron Engine | At the start of the battle, the User's Special Attack is increased by 1. The User may summon Electric Terrain once per battle.
+Hadron Engine | At the start of the battle, Miraidon's Special Attack is increased by 1. Miraidon may summon Electric Terrain as a free Action once per battle.
 **Harvest** | If a Berry was used last turn, there is a 50% chance they will find a Berry Leaf, 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.
 **Healer** | When the User uses a Status Move with a roll greater than or equal to 10, an Ally is cured of their Status Condition.
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
@@ -178,7 +178,7 @@ No Guard | The User's Moves never miss the Opponent, and the Opponent's Moves ne
 Normalize | The User's Non-Normal-Type Moves become Normal-Type and have their damage increased by 3.
 Oblivious |  The User is immune to Intimidate, Taunt, and Infatuation.
 Opportunist | When the Opponent's Stats are increased, the User's Stats are increased as well.
-Orichalcum Pulse | -
+Orichalcum Pulse | At the start of the battle, Koraidon's Attack is increased by 1. Koraidon may summon Electric Terrain as a free Action once per battle.
 **Overcoat** | The User is immune to Effect Spore, Powder and Spore Moves, and the negative effects of Sandstorm and Snow.
 Overgrow | While below ⅓ HP, the damage of the User's Grass-Type moves is increased by 5.
 Own Tempo | The User is immune to Intimidate and being Confused.
@@ -230,11 +230,11 @@ Sand Veil | While in a Sandstorm, the User's Evasion is increased by 1. The User
 Sap Sipper | When hit by a Grass-Type Move, the User's Attack is increased by 1. The User is immune to Grass-Type Moves.
 **Schooling** | Once per battle, the User is changed into School Form, and their Attack, Special Attack, Defense, and Special Defense are increased by 2. The User reverts back into Solo Form at ¼ HP. The User's Attack, Special Attack, Defense, and Special Defense Stats are decreased by 1 Stat Point.
 Scrappy | The User is immune to Intimidate. The User can hit Ghost-Type Pokémon with Normal and Fighting-Type Moves.
-Screen Cleaner | At the start of the battle, the User nullifies all Screen Moves.
+**Screen Cleaner** | While the User is at Max HP, the effects of Screen Moves are nullified.
 **Seed Sower** | Once per battle, the User summons Grassy Terrain when hit by a Move.
 Serene Grace | The User's Moves with secondary effects have their chances doubled.
 **Shadow Shield** | The User's Defense and Special Defense are increased by 6 until taking damage. Works once per battle.
-Shadow Tag | Opposing Pokémon are unable to flee. The User's Moves ignore the Opponent's Evasion increases and decreases. 
+**Shadow Tag** | The User's Basic Attack has a ≥11 chance to afflict *Immobilized*. The User's Moves ignore the Opponent's Evasion increases and decreases. 
 Sharpness | The User's Slicing Moves have their damage increased by 3.
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 Sheer Force | The User's Moves with secondary effects have their damage increased by 3. Secondary effects are removed.
@@ -243,7 +243,7 @@ Shield Dust | The User is immune to the secondary effects of Moves.
 **Shields Down** | The User's Defense and Special Defense Stats are increased by 2 Stat Points. The User's Attack and Special Attack Stats are decreased by 2 Stat Points. The opposite is true while below ½ HP.
 Simple | The User's Stat increases and decreases are doubled.
 Skill Link | The User's Multi-Hit Moves always hit as many times as possible.
-**Slow Start** | Your mother.
+**Slow Start** | Regigigas' Attack, Special Attack, Defense, Special Defense, and Speed Stats are increased by 5, but their Max AP starts at 0 and is increased by 1 every round until 10 Max AP. 
 Slush Rush | While in Snow, the User's Speed is increased by 1.
 Sniper | The User's Critical Hits have their damage increased by 4.
 Snow Cloak | While in Snow, the User's Evasion is increased by 1.
@@ -260,7 +260,7 @@ Stamina | When the User is hit by a Move, their Defense is increased by 1.
 **Stance Change** | When the User uses an attacking Move, their Attack and Special Attack Stats are increased by 2 Stat Points, and their Defense and Special Defense Stats are decreased by 2 Stat Points. When the User uses King's Shield, the opposite is true.
 Static | When the User is hit by a Physical Move with a roll less than or equal to 6, the Opponent is Paralyzed.
 Steadfast | When the User Flinches, their Speed is increased by 1.
-**Steam Engine** | -
+**Steam Engine** | The User
 Steelworker | The User's Steel-Type Moves have STAB.
 Steely Spirit | The User and their Allies' Steel-Type Moves have their damage increased by 3. This Ability stacks with itself.
 Stench | When an Opponent is hit by the User with a roll of or above 19, the Opponent Flinches.

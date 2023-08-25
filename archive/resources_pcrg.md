@@ -8,10 +8,13 @@
 **/pcrg/ clans**
 https://rentry.co/pcrgclans_JP
 
-**JP MTL tool setup**
+**MTL tool setup**
 https://rentry.org/pcrgMTLguide
 
-**JP CB guide for newcuties**
+**CB guide by anon**
+https://rentry.org/pcrgcb
+
+**CB guide for newcuties**
 https://rentry.org/qfz8d
 
 **Wide Hips character impressions**
@@ -24,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1JjK7Ws4gfzKChRs5ueoxEZVN5SXK10nhDC1-nbm0
 **6 star and Unique Equipment**
 https://docs.google.com/spreadsheets/d/1JXbzIF4dWqzmmBwAxuNp74_v8eSM0tuDehWZtN9-lxY
 
-**Adventure Mode JP**
+**Adventure Mode **
 https://rentry.co/AdventureMode
 
 **Quest Efficiency Helper**

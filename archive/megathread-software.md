@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/b4XDwV.png)<-
+-> ![](https://i.imgur.com/YESrQbE.png)<-
 
 # ⚙️ ➜ [Megathread](https://rentry.co/megathread) / **Software**
  
@@ -243,7 +243,7 @@
 
 &nbsp;
 
--> ![](https://take-me-to.space/FYQpFtp.png) <-
+-> ![](https://i.imgur.com/MdUPUe3.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

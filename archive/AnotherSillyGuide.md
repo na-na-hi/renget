@@ -48,6 +48,8 @@ If you find that no more text comes out even when continuing, the model might be
 
 ## Preset
 
+**Edit:** Recently people have found that presets with CFG can cause typos or drop words like articles. If you encounter this, please switch away from Cosmic Cube.
+
 I like Cosmic Cube and use it with some modifications anon has recommended. So, anyhow. Set the preset to CosmicCube-Kayra first, set the AI Module to ~~no module~~Prose Augmenter, make sure the context size is unlocked and set to the correct size. If you are on Scroll (the $15 one), set it to 5980, on Opus (the $25 one), set it to 8000. Set the response length to 150.
 
 I think streaming is nice, so I enable that too.

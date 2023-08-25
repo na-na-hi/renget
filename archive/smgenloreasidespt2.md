@@ -757,7 +757,7 @@ For how far back each Pantheon dates back to:
    So, you know how Greeks seems to have some kind of obsession with everyone being tied into 'le divine family tree'? Scylla... has no idea who her real parents are, and there's double digits of possible mothers and fathers. Let's compare to two girls:
  - Poseidon + Gaia {Terra} = Charybdis
 
-  Simple.
+  Simple? Simple.
 
   As for Scylla's potential parents, we've got:
  - [Unknown] + Crataeis
@@ -793,12 +793,12 @@ For how far back each Pantheon dates back to:
  - Phorbas + Hecate
    *Not Phocys, Phorbas. Disappointingly, there's no confirmation as exactly 'which' Phorbas is the one Hecate had children with, but based off of the various Phorbas's in mythology; the most likely contender is the most popular Phorbas, the tyrant-King Phorbas of Olenus, King of Phlegya, who had many run-ins with the Divine Realm as he personally blockaded the route to Delphi, either forcing pilgrims to pay a tax to pass or fighting and killing them outright to stealing their offerings, until he was eventually killed by Apollon. This would mean that all of Scylla's half-brothers became Argonauts, which she attempted to eat as they passed through the Strait.*
  - Hecate = Crataeis
-   *With this line of logic, all the Crataeis pairings have a potential to be with Hecate too. Almost certainly bullshit, but one faggot ~~Apollonius, author of the Argonautica, the most circulated version of the myth of Jason and the Argonauts as well as a multiple other mythological accounts, such as his version of the Illiad, his lost Nostoi or his version of the Typhonomachia~~  thought it'd be a smart idea to equate Crataeis with Hecate in an attempt to 'fix' Scylla's parentage dispute, when they are quite clearly distinct entities. Basically, secondaries fucking ruining mythology once again, except centuries in the past. You see the damage that can be caused by just making shit up and asserting it as fact? Unbelievable. Both the assertation, and the gall of it all. Faggot should kill himself.*
+   *With this line of logic, all the Crataeis pairings have a potential to be with Hecate too. Almost certainly bullshit, but one faggot ~~Apollonius, author of the Argonautica, the most circulated version of the myth of Jason and the Argonauts as well as a multiple other mythological accounts, such as his version of the Illiad, his lost Nostoi or his version of the Typhonomachia~~  thought it'd be a smart idea to equate Crataeis (the minor river water nymph) with Hecate (the major Goddess) in an attempt to 'fix' Scylla's parentage dispute, when they are quite clearly distinct entities. Basically, secondaries fucking ruining mythology once again, except centuries in the past. You see the damage that can be caused by just making shit up and asserting it as fact? Unbelievable. Both the assertation, and the gall of it all. Faggot should kill himself.*
  - Typhon + Echidna
    *Because of course I'd save the best until last. Typhon and Echidna, famed parents of Monsters - Typhon the writhing mass of snakes who made the entire Divine Realm shit themselves and flee from him and nearly BTFO Zeus to usurp the Olympians during Typhonomachia, Echidna being his beautiful half-snake wife that gave birth to most of the monsters in Greek mythology (especially so if they had no clear parentage). ~~In-game, Medusa is pretty much Echidna's depiction to a T, Medusa's design for 'Medusa' is the inaccurate one~~. This would make Scylla the sister of Cerberus and, depending on account, has sibling-links to most of the Greek NPC jungle mobs in the game.*
 
 
-   *I'm laughing right now, thinking of a baby / toddler Scylla wandering / slithering alone across the Divine Realm with a scrap piece of paper, individually asking if all of the above are her parents, then getting shoved / kicked to the ground and told to fuck off each time.*
+   *I'm laughing right now, thinking of a baby / toddler Scylla wandering / slithering alone across the Divine Realm with a scrap piece of paper and a teddie bear, individually asking if all of the above are her parents, then getting shoved / kicked to the ground and told to fuck off each time.*
     *~~lmfao, fuckin' orphans, they exist to be bullied~~*.
 
   In-lore, Charybdis might be Poseidon's bullied orphan child, but Scylla is the equivalent of a bastard child to an unknown father whose mother left her on the side of the road~~, *so no wonder that she seems to be more unhinged than Chaybdis in-lore*~~.

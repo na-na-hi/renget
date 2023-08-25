@@ -84,7 +84,7 @@ A planet inhabited solely by Pokémon. That's how the story goes each time it's 
 
 **The Grass Continent** has a similar range to that of the Air Continent, but normally sees larger open stretches of prairie or savannas. Springs and summers are longer. 
 - Faction: **Ho'oha**
-- A theocracy known for their colorful and lively festivals, they are led by a high priest, empowered by the favor of their patron, Ho-Oh. Many of these festivals involve fire and symbols or gestures of rebirth. Almost every major settlement has a temple or church dedicated to the worship of Ho-Oh or the legendary beasts.
+- A theocracy known for their colorful and lively festivals, they are led by an Arch Bearer, empowered by the favor of their patron, Ho-Oh. Many of these festivals involve fire and symbols or gestures of rebirth. Almost every major settlement has a temple or church dedicated to the worship of Ho-Oh or the legendary beasts.
 	- One of the most prominent celebrations is known as the "Guiding of the Temple," where many Flying-types or those capable of flight, volunteer to tether themselves to the flying temple of Ho-Oh to bring it across the continent in a specific looping path.
 
 **The Water Continent** has a wet and dry season. Although, "dry" might be an overstatement. Experiencing a tropical climate with periods of heavy raining and flooding, three major rivers run from the core sea in the center.

@@ -103,5 +103,8 @@
 |23/08/2023|87|Mentions & Collabs|Addition of a timestamp with a streamer-chat interaction with Fauna during her 3D beach stream from 23/08/2023.|
 |24/08/2023|88|Mentions & Collabs|Addition of 3 timestamps with streamer-chat interactions with Shiori during her Amanda the Adventurer stream from 23/08/2023.|
 |24/08/2023|89|Mentions & Collabs|Addition of 2 timestamps with streamer-chat interactions with Bijou during her 4th Elden Ring stream from 23/08/2023.|
+|24/08/2023|90|Mentions & Collabs|Addition of Fuwamoco's POV for the Advent Phasmophobia collab.|
+|24/08/2023|91|Mentions & Collabs|Addition of Nerissa's POV for the Advent Phasmophobia collab.|
+|24/08/2023|92|Mentions & Collabs|Addition of Shiori's POV for the Advent Phasmophobia collab.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

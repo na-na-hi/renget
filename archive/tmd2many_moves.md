@@ -786,7 +786,7 @@ Stun Spore | - | 4 AP | ≥6 | Grass | Status | The Opponent is afflicted with *
 Substitute | - | 4 AP | - | Normal | Status | The User loses ¼ of their Max HP. The User is afflicted with *Substitute*.
 Sunny Day | - | 4 AP | - | Fire | Status | The Weather is changed to [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather).
 Supersonic | - | 4 AP | ≥9 | Normal | Status | The Opponent is afflicted with *Confusion*. Ignores Protect Moves and Substitutes.
-Swagger | - | 4 AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with *Confusion*.
+Swagger | - | 4 AP | ≥5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with *Confusion*.
 Swallow | - | 4 AP | - | Normal | Status | The User is healed for 4 HP for every round Stockpile was used, up to 12 HP. Removes all Stat increases from Stockpile. Fails if Stockpile hasn't been used.
 Sweet Kiss | - | 4 AP | ≥6 | Fairy | Status | The Opponent is afflicted with *Confusion*.
 Sweet Scent | - | 4 AP | ≥2 | Normal | Status | The Opponent's Evasion is decreased by 2. The User may select additional Opponents to have their Evasion decreased by 2 at the cost of 2 AP each. 

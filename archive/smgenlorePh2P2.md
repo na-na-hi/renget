@@ -89,6 +89,8 @@ Without further ado, *since you're probably in the middle of reading all at once
    In Valhalla, Ratatoskr (in tune with / LARPing as his inner squirrel) is doing his usual scurrying around, before Odin calls him into his chamber for a situation report. Ratatoskr says that at the surface everything's looks fine with Yggdrasil - but both know something happened to it in some way to cause all the current shit happening. Even Odin's runes are acting up, they start speaking in foreign tongues that neither of them know of before ~~*lmfao*~~ killing themselves.
    Ratatoskr backtracks a bit and says maybe something's up with Yggdrasil, a very tired Odin says that something's definitely fucking with le divine realm, so they both go off to fix it.
 
+***
+
    Now to Baba Yaga. She's alone in the woods doing her thing / speaking to herself *(probably a schizo)*, and knows exactly what's happening, but her only divine 'rule' means she isn't allowed to help or hinder anyone unless they ask. 'Somethings' getting restless though.
    She talks to the shadows that her prized line of skulls cast *(definitely a schizo)*, observing they're nice and obedient *for now* (implying at some point they weren't before) and tells us that she put what she found of a mindbroken Persephone back on her feet then sent her East, a bit humbler than when she arrived, post-commune with Yggdrasil and 'delicate' banishment via Heimdallr. Lucky for Persephone, she evidently got sent to Sea-of-Mists Niflheim and not to instadeath Sea-of-Flames Muspelheim.
    Baba then tells her chicken-house to take herself East, towards Mulan, in hopes she might ask the right questions and listen to the right answers *(since 'new' Gods are apparently ususally less headstrong than established Gods)*.

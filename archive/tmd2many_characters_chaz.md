@@ -1,8 +1,8 @@
 ![Kubfu](https://swordshield.pokemon.com/assets/img/articles/ex/pokemon_kubfu_2_2x.png) 
 
-### Chaz ♂
+### Kaz ♂
 ==REPLACE WITH PARAGRAPH BIO OR DESCRIPTION OF CHARACTER REPLACE==
-Chaz is a country bumpkin from some red-neck area of the US of A.
+Kaz is a country bumpkin from some red-neck area of the US of A.
 Off racing with his BMX friends preparing for the next big competition, of which he is an avid racer, he remembers he has to pick up his little sister from day care!
 On his rush back to civilization, he loses control on a suspicious mud puddle...
 Now he's a...teddy bear???

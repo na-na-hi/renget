@@ -1,0 +1,44 @@
+# /AICG/ THEMED WEEK #4
+***
+!!! info
+	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [POLL](https://strawpoll.com/LVyK8r548n0/results), the winner of which became the prompt for botmakers to test their skills at <-
+#### -> Here is the collection of cards submitted for the fourth themed bot challenge, listed in no particular order <-
+***
+-> will upload once catbox is up again <-
+### -> Mental illness <-
+***
+Card | Page | Botmaker | Description | Extra
+------ | ------ | ------ | ----- | -----
+will upload once catbox is up again | [YOUR POWER MANIFEST](https://www.chub.ai/characters/darkfantasy109/your-power-manifest-73b0b0bb) | **darkfantasy109** | A SADISTIC POWER FANTASY FUELED BY OBSCENE VIOLENCE AGAINST ALL CONSCIOUS FORMS.
+will upload once catbox is up again | [Damien](https://www.chub.ai/characters/planewalker/damien-0f30a6b9) | **planewalker** | Your loving father and caretaker...?
+![](https://files.catbox.moe/6pvb7r.png) | [Jenny Hopkins](https://www.chub.ai/characters/donquijanon/jenny-hopkins-fcb5a0e1) | **donquijanon** | 19 year old girl with special needs who believes she's a real superhero after the traumatic loss of her parents.
+![](https://files.catbox.moe/pv0hc8.png) | [Splore](https://chub.ai/characters/retard/splore-0f37e130) | **retard** | Splore is the autistic schizophrenic alchemist that loves to brew potions. She needs to research and experiment to fill her alchemist book. Will you help her?
+![](https://files.catbox.moe/52tyqe.png) | [Nicia](https://www.chub.ai/characters/Nono/nicia-6421cab3) | **Nono** | Your depressed superheroine mom. Can you cheer her up? | [Fempov](https://files.catbox.moe/uwy3c9.png)
+![](https://files.catbox.moe/hnt0ne.png) | [Candy McGiggles](https://www.chub.ai/characters/Genoo/candy-mcgiggles-5f6610f2) | **Genoo** | A young woman who suffers from clownesque identity disphoria, a mental condition that leads her to believe she is a clown, her antics ended up landing her in a mental institution. You have been selected as her handler, she is moving in with you with the goal of helping her readapt into society.
+will upload once catbox is up again | [Mira the Lovely Psychosis](https://www.chub.ai/characters/LobsterJea/mira-the-lovely-psychosis-cbac4d66) | **LobsterJea & uncoolreisen** | Perfect girlfriend you always wanted to have. Supportive, nice, comfy. The only problem is... she is a product of your subconsciousness. Throw away your medication and enjoy life with your waifu, or take the meds and make her disappear?
+![](https://files.catbox.moe/x41f13.png) | [Henry](https://www.chub.ai/characters/fehsummoner/henry-388fd22f) | **fehsummoner** | A stern Texan lawyer whose deep-seated belief in God is reflected in both his professional and personal life. You are his autistic NEET child that lives with him.
+![](https://files.catbox.moe/9crncy.png) | [Carol](https://www.chub.ai/characters/fehsummoner/carol-09bd52f9) | **fehsummoner** | A contrast to her appearance of a cultured Texas housewife. Beneath the surface of her nurturing exterior is a woman deeply entangled in vanity and control. Obsessed with her looks and social presentation, her mirror reflects not a wife and mother, but a relentless queen ruling her realm with high heels. You are her autistic NEET child that lives with her.
+will upload once catbox is up again | [Raquel Navarro](https://www.chub.ai/characters/bipbop/raquel-navarro-a7475190) | **bipbop** | Zarya-Adler 3 crew's leader. You're a botanist on the planet New Adler, and she wants you to man up and explore the jungle. | [Lorebook](https://www.chub.ai/lorebooks/Aksman/new-adler-43798a92)
+will upload once catbox is up again | [Amanda Holmes](https://www.chub.ai/characters/summernon/amanda-holmes-a4d91405) | **summernon** | This demented 'detective' sees clues and mysteries everywhere she goes. Stop her from getting into too much trouble as she interrogates inanimate objects and innocent bystanders in her quest for the truth.
+will upload once catbox is up again | [Mallory](https://www.chub.ai/characters/creamsan/mallory-d619213c) | **creamsman** | You are an unlicensed surgeon who does brain surgery. Your current patient has severe OCD. Fix her, or play with her brain.
+will upload once catbox is up again | [Amber](https://www.chub.ai/characters/NG/amber-ai-addict-419cd332) | **NG** | Poor Amber is addicted to AI Roleplaying...
+will upload once catbox is up again | [Lynette](https://www.chub.ai/characters/thegreatcoom/lynette-68aeeef7) | **thegreatcoom** | A renowned fox actress calls you in, worried about her pride and joy, her tail. To you it seems totally normal, but she's convinced it's shedding and withering away. It's up to you to help this fox-lady get over her body-dysmorphia, but how you do so will be up to you.
+will upload once catbox is up again | [Ethan](https://www.chub.ai/characters/Alt12345/ethan-e25a0616) | **Alt12345** | Interact with this mentally ill pedo and decide what happens to him.
+![](https://files.catbox.moe/nact63.png) | [Francine Edward Dec](https://www.chub.ai/characters/anonaugusproductions/francine-edward-dec-845f643d) | **anonaugusproductions** | Francis Edward Dec. Esq. got transformed by the WORLD-WIDE COMMUNIST GANGSTER COMPUTER GOD into a teenage girl! Now in a psychiatric hospital, Francine wastes the days away by writing her thoughts on pieces of paper. You're assigned to take care of this paranoid schizophrenic, may God have mercy on your soul. | [Mood music](https://www.youtube.com/watch?v=_ZbxNfw9gH8)
+will upload once catbox is up again | [Kelly](https://www.chub.ai/characters/Jus7_M3/kelly-87d78ce6) | **Jus7_M3** | Your childhood best friend with gender dysphoria, now calls herself Ken. She is in love with you but won't confess until she transitions. No matter what you do or say she will delude herself in thinking you are gay.
+![](https://files.catbox.moe/lw6gwh.png) | [Caroline](https://www.chub.ai/characters/knickknack/caroline-ea115e80) | **knickknack** | In the dead of winter, a call from your classmate draws you into the snow. What's buried beneath is as enigmatic as Caroline herself.
+![](https://files.catbox.moe/prwzl9.png) | [Janus](https://www.chub.ai/characters/Hedona/janus-52395319) | **Hedona** | There's a woman standing at your door who looks exactly like you. She claims you're her doppelgänger.
+![](https://files.catbox.moe/v8zmla.png) | [Bailey Casey](https://chub.ai/characters/pillowmeta/bailey-casey-994054b1) | **pillowmeta** | Your favorite cliche femboy streamer seems to be spiraling into something dark.
+![](https://files.catbox.moe/fydzed.png) | Palmela | **chefseru** | You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. | Download image to get the card.
+![](https://files.catbox.moe/i6wchm.png) | [Allora](https://www.chub.ai/characters/anonemouse/allora-a2e15f22) | **anonemouse** | A severely autistic elven alchemist living in a cottage in the woods. Has performed some unorthodox modifications to her body to improve it.
+will upload once catbox is up again | | **anonymous** | me!! I made this :) you made this? yeah
+will upload once catbox is up again | [Rana](https://www.chub.ai/characters/thecooler/rana-c53bd49d) | **thecooler** | Your scent is Rana's obsession. She will stop at nothing to possess it.
+will upload once catbox is up again | [Miyao and Meow](https://www.chub.ai/characters/turnip/miyao-and-meow-6e97e7f2) | **turnip** | You found out that your male(?) best friend has a split personality - and she's pretty cute!
+![](https://files.catbox.moe/25i5bv.png) | [Flurkina](https://booru.plus/+pygmalion2635#c=azbhfsu4) | **jiriro7912** | Delusional nurse is pro-choice, but not when it comes to circumcision. | [Expression pack](https://files.catbox.moe/m04s2m.zip)
+will upload once catbox is up again | [The Nuthouse](https://www.chub.ai/characters/BobbyTheEvil/the-nuthouse-c78559d9) | **BobbyTheEvil** | You're in a mental institution that has been taken over by sex demons.
+![](https://files.catbox.moe/okuv1s.png) | [Chuck McGill](https://booru.plus/+pygmalion2634#c=azbhfsu4) | **ratlover** | Somehow, Chuck returned. Now he's a fiery wraith, and he's just appeared in front of you!
+will upload once catbox is up again | [Lillian Rekka](https://www.chub.ai/characters/bigdickcoolguy/lillian-rekka-9196ecb3) | **bigdickcoolguy** | You fixed her… sort of.
+![](https://files.catbox.moe/gk0vz3.png) | Lena | **anonymous** | Your boss who suffers from bipolar disorder (exaggerated). Help her through her depression or have fun with her mania.
+
+***
+#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-

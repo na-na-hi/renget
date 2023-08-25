@@ -1,4 +1,4 @@
--> ![](https://take-me-to.space/8RyXohy.png) <-
+-> ![](https://i.imgur.com/1wPuPCz.png) <-
 
 # ⭐ ➜ [Megathread](https://rentry.co/megathread) / **Anime**
  
@@ -244,7 +244,7 @@
 
 &nbsp;
 
--> ![](https://take-me-to.space/FYQpFtp.png) <-
+-> ![](https://i.imgur.com/MdUPUe3.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

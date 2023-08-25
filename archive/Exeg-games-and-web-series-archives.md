@@ -81,6 +81,7 @@ SONIC 2011 | [PRESS START](https://gamejolt.com/games/sonic/783884)
 Nintendo.exe | [PRESS START](https://gamejolt.com/games/nintendoexe/245013)
 kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
 SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
+Sonic.nes | [PRESS START](https://gamejolt.com/games/sonicnes/672383)
 Sonic.exe the Disaster 2D remake | [PRESS START](https://gamejolt.com/games/disaster2dr/780541)
 Dere Evil exe | [PRESS START (steam)](https://store.steampowered.com/app/871950/DERE_EVIL_EXE/) , [Rebirth of Horror (steam)](https://store.steampowered.com/app/1597110/DERE_EXE_Rebirth_of_Horror/) , [creator's page + rest of the series (itch.io)](https://appsir.itch.io/)
 
