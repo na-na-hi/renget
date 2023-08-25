@@ -288,11 +288,11 @@ After a Pokémon faints, they're no longer capable of fighting, and unable to us
 
 ### Changing Stats in Combat
 
-Some Moves can increase Stats for the duration of a battle. These are called Stat Changes; they stack and cannot be increased above 6 in a single Stat. In these cases, they behave similarly to Stat Points, with the exception of Speed. This section is heavily under construction as we still seek to find a balanced way to represent Speed increasing Moves.
+Some Moves can increase Stats for the duration of a battle. These are called Stat Changes; they stack and cannot be increased above 6 in a single Stat. In these cases, they behave similarly to Stat Points, with the exception of *Speed*. *Do not* assume they are completely-identical to Stat Points, instead refer to this when needed. This section is heavily under construction as we still seek to find a balanced way to represent Speed increasing Moves.
 - Accuracy is added (or subtracted) to the Move's Accuracy value.
 - As Crit Ratio increases, the range on a D20 needed to land a Critical Hit is expanded.
 - Evasion Range decides what number roll the a Pokémon must achieve in order to land a hit on an Opponent.
-- Speed can be modified similarly to other Stat increases and decreases, with AP increasing or decreasing by 1 for every stage. Uniquely, these changes, good or bad, will always tick back to 0 by 1 every round.
+- Speed can be modified similarly to other Stat increases and decreases, with AP increasing or decreasing by 1 for every stage, regardless of one's actual Speed Stat. Uniquely, increases will always tick back to 0 by 1 every round after they are applied, while decreases will not.
 
 Stage ↑ or ↓ | Offense/Defense Stats | Accuracy | Crit Ratio Range | Evasion Range
 ------ | :----: | :----: | :----: | :----:

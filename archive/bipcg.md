@@ -1,4 +1,17 @@
 ▶NEW CLIPS
+>Wild trench fight with a lot of confusion (red = rus, blue = hohol)
+https://files.catbox.moe/1gt8kj.mp4
+>Hohols make a fat lesbo wedding video for propaganda
+https://files.catbox.moe/j2kqo9.mp4
+https://files.catbox.moe/6guxp2.mp4
+>Destruction of hohol hideout in a building near the border with Russia
+https://files.catbox.moe/ib225g.mp4
+>Russians storming a hohol dugout (not comfy)
+https://files.catbox.moe/hdcwh8.mp4
+>A tour of captured hohol position (no sub)
+https://files.catbox.moe/lw2fet.mp4
+>Destroyed and abandoned hohol vehicles in the area of Rabotino
+https://files.catbox.moe/ubmjcc.mp4
 >Crash site of Prigozhin's jet (NOT COMFY)
 https://files.catbox.moe/em26f1.mp4
 >P-18 Radar vs Lacnet

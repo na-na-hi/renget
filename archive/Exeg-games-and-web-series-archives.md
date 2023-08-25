@@ -69,6 +69,7 @@ Sonic.exe: The Spirits of Hell | [R1,](https://gamejolt.com/games/SonicExeTSOH/3
 Sonic PC port | [Original,](https://www.mediafire.com/file/x4d0cssi6k256nx/sonic-pcport-patch.exe/file) [Remake](https://gamejolt.com/games/PCPORTREMAKE/527553)
 Sunky the PC PORT | [PRESS START](https://gamejolt.com/games/sunky-the-pc-port/680198)
 Sonic2.exe | [#1,](https://gamejolt.com/games/sonic2-exe-the-game/21631) [#2,](https://gamejolt.com/games/sunshine-exe-sonic2-exe-part-ii-the-game/22071) [#3](https://gamejolt.com/games/insanity-exe-sonic2-exe-part-iii-the-game-full-version/23138)
+Don't leave me | [PRESS PLAY](https://gamejolt.com/games/dontleaveme/484334)
 Mario '85 | [PRESS START](https://gamejolt.com/games/lucas/667036)
 Sonic Editable Rom | [PRESS START](https://gamejolt.com/games/soniceditrom/830784), [mirror](https://files.catbox.moe/evb47y.zip)
 Sonic.exe: One More Time | [PRESS START](https://gamejolt.com/games/Sonic-Exe-One-More-Time/642613)
@@ -83,6 +84,7 @@ kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
 SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
 Sonic.nes | [PRESS START](https://gamejolt.com/games/sonicnes/672383)
 Sonic.exe the Disaster 2D remake | [PRESS START](https://gamejolt.com/games/disaster2dr/780541)
+Whiskas.exe | [reimagined](https://gamejolt.com/games/rewhiskasexe/634410), [original](https://gamejolt.com/games/WhiskasAreBack/475377)
 Dere Evil exe | [PRESS START (steam)](https://store.steampowered.com/app/871950/DERE_EVIL_EXE/) , [Rebirth of Horror (steam)](https://store.steampowered.com/app/1597110/DERE_EXE_Rebirth_of_Horror/) , [creator's page + rest of the series (itch.io)](https://appsir.itch.io/)
 
 ##Mods/ROM Hacks/Wads

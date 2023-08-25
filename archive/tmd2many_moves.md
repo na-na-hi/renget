@@ -81,11 +81,11 @@ Breaking Swipe | 6 BP | 6 AP | ≥2 | Dragon | Physical | Multi-Target. The Oppo
 Brick Break | 7 BP | 6 AP | ≥2 | Fighting | Physical | Ignores and nullifies [Screen Moves.](https://rentry.co/tmd2many_rules#recoil-screens)
 Brine | 6 BP | 7 AP | ≥2 | Water | Special | The Opponent is below ½ HP; Move's BP is increased by 7.
 Brutal Swing | 6 BP | 6 AP | ≥2 | Dark | Physical | Multi-Target.
-Bubble | 4 BP | 5 AP | ≥2 | Water | Special | 19-20; The Opponent's Speed is decreased by 1. Multi-Target.
-Bubble Beam | 6 BP | 6 AP | ≥2 | Water | Special | 19-20; The Opponent's Speed is decreased by 1.
+Bubble | 4 BP | 5 AP | ≥2 | Water | Special | 19-20; The next round, the Opponent's Speed is decreased by 1. Multi-Target.
+Bubble Beam | 6 BP | 6 AP | ≥2 | Water | Special | 19-20; The next round, the Opponent's Speed is decreased by 1.
 Bug Bite | 6 BP | 6 AP | ≥2 | Bug | Physical | If the Opponent has a Berry, the User eats it.
 Bug Buzz | 9 BP | 7 AP | ≥2 | Bug | Special | 19-20; The Opponent's Special Defense is decreased by 1.
-Bulldoze | 6 BP | 6 AP | ≥2 | Ground | Physical | The Opponent's Speed is decreased by 1. Multi-Target.
+Bulldoze | 6 BP | 6 AP | ≥2 | Ground | Physical | The next round, the Opponent's Speed is decreased by 1. Multi-Target.
 Bullet Punch | 4 BP | 5 (-1) AP | ≥2 | Steel | Physical | Priority. AP cost decreased by 1.
 Bullet Seed | 2 BP | 5 AP | ≥2 | Grass | Physical | Multi-Hit.
 Burn Up | 13 BP | 8 AP | ≥2 | Fire | Special | Fire-Type; Thaws User, loses Fire-Type. 
@@ -106,7 +106,7 @@ Blazing Torque | 10 BP | 7 AP | ≥2 | Fighting | Physical | 14-20; The Opponent
 **Comet Punch** | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
 **Comeuppance** | - | 7 AP | ≥2 | Dark | Physical | The User deals the Opponent's damage increased by 5.
 Confusion | 5 BP | 5 AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with *Confusion*.
-Constrict | 1 BP | 4 AP | ≥2 | Normal | Physical | 19-20; The Opponent's Speed is decreased by 1.
+Constrict | 1 BP | 4 AP | ≥2 | Normal | Physical | 19-20; The next round, the Opponent's Speed is decreased by 1.
 Core Enforcer | 10 BP | 7 AP | ≥2 | Dragon | Special | The User nullifies the Opponent's Ability.
 Counter | - | 6 AP | ≥2 | Fighting | Physical | The User deals the Opponent's Physical damage increased by 10.
 Covet | 6 BP | 5 AP | ≥2 | Normal | Physical | The User steals the Opponent's Item.
@@ -150,7 +150,7 @@ Draining Kiss | 5 BP | 7 AP | ≥2 | Fairy | Special | [Draining](https://rentry
 Dream Eater | 10 BP | 6 AP | ≥2 | Psychic | Special | While the Opponent is afflicted with *Sleep*, recoil damage is calculated for HP healed.
 Drill Peck | 8 BP | 6 AP | ≥2 | Flying | Physical | No secondary effect..
 Drill Run | 8 BP | 7 AP | ≥2 | Ground | Physical | 18-20; Increased Crit Ratio. 
-Drum Beating | 8 BP | 7 AP | ≥2 | Grass | Physical | The Opponent's Speed is decreased by 1.
+Drum Beating | 8 BP | 7 AP | ≥2 | Grass | Physical | The next round, the Opponent's Speed is decreased by 1.
 Dual Chop | 4 BP | 6 AP | ≥3 | Dragon | Physical | Hits twice.
 Dual Wingbeat | 4 BP | 7 AP | ≥3 | Flying | Physical | Hits twice.
 ~~Dynamax Cannon~~ | 10 BP | 8 AP | ≥2 | Dragon | Special | ![??????????](https://archives.bulbagarden.net/media/upload/8/8e/Spr_3r_000.png)
@@ -162,7 +162,7 @@ Echoed Voice | 4 BP | 6 AP | ≥2 | Normal | Special | Each consecutive use, BP 
 Egg Bomb | 10 BP | 7 AP | ≥6 | Normal | Physical | No secondary effect.
 Electro Ball | 10 BP | 6 AP | ≥2 | Electric | Special | The Move's BP is decreased by the Opponent's Speed Stat.
 Electro Drift | 10 BP | 8 AP | ≥2 | Fighting | Physical | The Move's Super-Effective damage is increased by 3.
-Electroweb | 5 BP | 6 AP | ≥2 | Electric | Special | The Opponent's Speed is decreased by 1. Multi-Target.
+Electroweb | 5 BP | 6 AP | ≥2 | Electric | Special | The next round, the Opponent's Speed is decreased by 1. Multi-Target.
 Ember | 4 BP | 5 AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Endeavor | - | - | ≥2 | ??? | ??? | ???
 Energy Ball | 9 BP | 7 AP | ≥2 | Grass | Special | 16-20; The Opponent's Special Defense is decreased by 1.
@@ -227,7 +227,7 @@ Giga Drain | 7 BP | 7 AP | ≥2 | Grass | Special | [Draining](https://rentry.co
 Giga Impact | 15 BP | 8 AP | ≥3 | Normal | Physical | The User is afflicted with *Recharging*.
 Gigaton Hammer | 16 BP | 8 AP | ≥2 | Steel | Physical | Cannot be used twice in a row.
 Glacial Lance | 12 BP | 8 AP | ≥2 | Ice | Physical | Multi-Target.
-Glaciate | 6 BP | 7 AP | ≥2 | Ice | Special | The Opponent's Speed is decreased by 1. Multi-Target.
+Glaciate | 6 BP | 7 AP | ≥2 | Ice | Special | The next round, the Opponent's Speed is decreased by 1. Multi-Target.
 **Glaive Rush** | 12 BP | 8 AP | ≥2 | Dragon | Physical | The User takes 7 extra damage from all attacks until they use another Move.
 Grass Knot | - | 6 AP | ≥2 | Grass | Special | Uses the Opponent's HP Stat in damage calculation. 0; 2 BP. 1-2; 4 BP. 3-4; 6 BP. 5-6; 8 BP. 7-8; 10 BP. 9-10; 12 BP.
 Grass Pledge | 8 BP | 7 AP | ≥2 | Grass | Special | I don't really feel like explaining the Pledge Moves right now.
@@ -273,7 +273,7 @@ Ice Shard | 4 BP | 5 (-1) AP | ≥2 | Ice | Physical | Priority.
 Ice Spinner | 8 BP | 6 AP | ≥2 | Ice | Physical | Nullifies Terrain.
 Icicle Crash | 8 BP | 7 AP | ≥3 | Ice | Physical | 14-20; The Opponent Flinches.
 Icicle Spear | 2 BP | 5 AP | ≥2 | Ice | Physical | Multi-Hit.
-Icy Wind | 5 BP | 6 AP | ≥2 | Ice | Special | The Opponent's Speed is decreased by 1. Multi-Target.
+Icy Wind | 5 BP | 6 AP | ≥2 | Ice | Special | The next round, the Opponent's Speed is decreased by 1. Multi-Target.
 Incinerate | 6 BP | 6 AP | ≥2 | Fire | Special | The Opponent's Berry or Gem is destroyed. Multi-Target.
 Infernal Parade | 6 BP | 7 AP | ≥2 | Ghost | Special | 14-20; The Opponent is afflicted with *Burn*. If the Opponent has Major Status Condition, BP is increased by 6.
 Inferno | 10 BP | 8 AP | ≥11 | Fire | Special | The Opponent is afflicted with *Burn*.
@@ -301,7 +301,7 @@ Lick | 3 BP | 5 AP | ≥2 | Ghost | Physical | 16-20; The Opponent is afflicted 
 Light of Ruin | 14 BP | 8 AP | ≥3 | Fairy | Special | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Liquidation | 9 BP | 7 AP | ≥2 | Water | Physical | 18-20; The Opponent's Defense is decreased by 1.
 Low Kick | - | 6 AP | ≥2 | Fighting | Physical | Uses the Opponent's HP Stat in damage calculation. 0; 2 BP. 1-2; 4 BP. 3-4; 6 BP. 5-6; 8 BP. 7-8; 10 BP. 9-10; 12 BP.
-Low Sweep | 6 BP | 6 AP | ≥2 | Fighting | Physical | The Opponent's Speed is decreased by 1.
+Low Sweep | 6 BP | 6 AP | ≥2 | Fighting | Physical | The next round, the Opponent's Speed is decreased by 1.
 **Lumina Crash** | 8 BP | 7 AP | ≥2 | Psychic | Special | The Opponent's Special Defense is decreased by 1.
 Lunge | 8 BP | 6 AP | ≥2 | Bug | Physical | The Opponent's Attack is decreased by 1.
 Luster Purge | 7 BP | 8 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Defense is decreased by 1.
@@ -331,7 +331,7 @@ Moongeist Beam | 10 BP | 8 AP | ≥2 | Ghost | Special | Ignores Abilities.
 **Mortal Spin** | 3 BP | 6 AP | ≥2 | Poison | Physical | The User is cured of Stuck, Constricted, Trapped, Bound, and Seeded. Field Hazards are nullified. Multi-Target.
 Mountain Gale | 10 BP | 7 AP | ≥4 | Ice | Physical | 14-20; The Opponent Flinches.
 Mud Bomb | 7 BP | 7 AP | ≥4 | Ground | Special | 14-20; The Opponent's Accuracy is decreased by 1.
-Mud Shot | 5 BP | 6 AP | ≥2 | Ground | Special | The Opponent's Speed is decreased by 1.
+Mud Shot | 5 BP | 6 AP | ≥2 | Ground | Special | The next round, the Opponent's Speed is decreased by 1.
 Mud-Slap | 2 BP | 5 AP | ≥2 | Ground | Special | The Opponent's Accuracy is decreased by 1.
 **Muddy Water** | 4 BP | 7 AP | ≥4 | Water | Special | 14-20; The Opponents' Accuracy is decreased by 1. Room-Hitter.
 **Multi-Attack** | 9 BP | 7 AP | ≥2 | Normal | Physical | Changes Type based on the User's Type-specific Worn Item.
@@ -348,7 +348,7 @@ Nuzzle | 2 BP | 6 AP | ≥2 | Electric | Physical | The Opponent is afflicted wi
 Oblivion Wing | 8 BP | 7 AP | ≥2 | Flying | Special | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
 Octozooka | 7 BP | 7 AP | ≥4 | Water | Special | 10-20; The Opponent's Accuracy is decreased by 1.
 **Ominous Wind** | 3 BP | 8 AP | ≥2 | Rock | Special | 19-20. The User's Attack, Special Attack, Defense, Special Defense, and Speed are increased by 1. Room-Hitter.
-Order Up | 8 BP | 7 AP | ≥2 | Dragon | Physical | The User's Attack, Defense, or Speed is increased by 1 based on nearby Tatsugiri.
+Order Up | 8 BP | 7 AP | ≥2 | Dragon | Physical | The User's Attack, Defense, or the next round, the User's Speed is increased by 1. Dependent on nearby Tatsugiri.
 Origin Pulse | 11 BP | 7 AP | ≥4 | Water | Special | Multi-Target.
 **Outrage** | 9 BP | 7 AP | ≥2 | Dragon | Physical | While used consecutively, the Move's BP is increased by 1, up to 3 times.
 Overdrive | 8 BP | 7 AP | ≥2 | Electric | Special | Multi-Target.
@@ -521,7 +521,7 @@ Thunder Shock | 4 BP | 5 AP | ≥2 | Electric | Special | 19-20; The Opponent is
 Thunderbolt | 9 BP | 6 AP | ≥2 | Electric | Special | 19-20; The Opponent is afflicted with *Paralysis*.
 Thunderous Kick | 9 BP | 7 AP | ≥2 | Fighting | Physical | The Opponent's Defense is decreased by 1.
 Torch Song | 8 BP | 7 AP | ≥2 | Fire | Special | The User's Special Attack is increased by 1.
-Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The User's Speed is increased by 1.
+Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The next round, the User's Speed is increased by 1.
 Tri Attack | 8 BP | 7 AP | ≥2 | Normal | Special | 16-17; The Opponent is afflicted with *Paralysis*. 18-19; The Opponent is afflicted with *Burn*. 20; The Opponent is afflicted with *Freeze*.
 Triple Arrows | 9 BP | 7 AP | ≥2 | Fighting | Physical | 18-20; Increased Crit Ratio. 10-20; The Opponent's Defense is decreased by 1.
 Triple Axel | 2 BP | 7 AP | ≥3 | Ice | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
@@ -575,7 +575,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Acid Armor | - | 4 AP | - | Poison | Status | The User's Defense is increased by 2.
 **Acupressure** | - | 4 AP | - | Normal | Status | Roll 1D6; The User's Attack/Defense/Special Attack/Special Defense/Speed/Evasion is increased by 2.
 After You | - | 4 AP | - | Normal | Status | The Opponent's Max AP is increased by 2 for 1 round. The round after, their Max AP is decreased by 4 for 1 round.
-Agility | - | 4 AP | - | Psychic | Status | The User's Speed is increased by 2.
+Agility | - | 4 AP | - | Psychic | Status | The next round, the User's Speed is increased by 2.
 Ally Switch | - | 4 AP | - | Psychic | Status | The User switches positions with an Ally.
 Amnesia | - | 4 AP | - | Poison | Status | The User's Special Defense is increased by 2.
 Aqua Ring | - | 4 AP | - | Water | Status | The User is afflicted with *Aqua Ring*.
@@ -584,7 +584,7 @@ Aromatic Mist | - | 4 AP | - | Fairy | Status | An Ally's Special Defense is inc
 **Assist** | - | 4 AP | - | Normal | Status | Roll 1D4; The User uses a Move known by an Ally. AP cost is only counted once.
 Attract | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent is afflicted with *Infatuated*.
 Aurora Veil | - | 4 AP | - | Ice | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and 2 Allies. Fails if it the Weather isn't [Snow](https://rentry.co/tmd2many_rules#weather). Affects Physical and Special Moves. 
-Autotomize | - | 4 AP | - | Steel | Status | The User's Speed is increased by 1. The User becomes lighter.
+Autotomize | - | 4 AP | - | Steel | Status | The next round, the User's Speed is increased by 1. The User becomes lighter.
 Baby-Doll Eyes | - | 4 AP | ≥2 | Fairy | Status | The Opponent's Attack is decreased by 1.
 Baneful Bunker | - | 4 AP | - | Poison | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Poison*.
 Barrier | - | 4 AP | - | Psychic | Status | The User's Defense is increased by 2.
@@ -611,7 +611,7 @@ Conversion 2 | - | 4 AP | - | Normal | Status | The User changes Type according 
 Corrosive Gas | - | 4 AP | ≥2 | Poison | Status | Removes the Opponent's Worn Item. 
 Cosmic Power | - | 4 AP | - | Psychic | Status | The User's Defense and Special Defense are increased by 1.
 Cotton Guard | - | 4 AP | - | Grass | Status | The User's Defense is increased by 3.
-Cotton Spore | - | 4 AP | ≥2 | Grass | Status | The Opponent's Speed is decreased by 2. 
+Cotton Spore | - | 4 AP | ≥2 | Grass | Status | The next round, the Opponent's Speed is decreased by 2. 
 Court Change | - | 4 AP | - | Normal | Status | The effects of [Screens,](https://rentry.co/tmd2many_rules#recoil-screens) Field Hazards, and other battlefield effects switch sides.
 Crafty Shield | - | 4 AP | - | Fairy | Status | The User and their Allies are immune to Status Moves for 1 round.
 Curse | - | 4 AP | - | Ghost | Status | The User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with *Cursed*. Ignores Substitutes.
@@ -686,7 +686,7 @@ Light Screen | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https:/
 Lock-On | - | 4 AP | - | Normal | Status | The User's next Move never misses the Opponent targeted. 
 Lovely Kiss | - | 4 AP | ≥6 | Normal | Status | The Opponent is afflicted with *Sleep.*
 Lucky Chant | - | 4 AP | - | Normal | Status | For 2 round, the Opponents are unable to have Critical Hits.
-**Lunar Dance** | - | 4 AP | - | Psychic | Status | An Ally's HP is fully-restored and their Speed is increased by 1. The User faints.
+**Lunar Dance** | - | 4 AP | - | Psychic | Status | An Ally's HP is fully-restored and the next round, their Speed is increased by 1. The User faints.
 Magic Coat | - | 4 AP | - | Psychic | Status | For 1 round, the User reflects all Status Moves with an Offensive Focus.
 Magic Powder | - | 4 AP | - | Psychic | Status | The Opponent's Type is changed to Psychic.
 **Magic Room** | - | 4 AP | - | Psychic | Status | Until the User faints, Worn and Held Items have no effect. 
@@ -744,18 +744,18 @@ Reflect Type | - | 4 AP | - | Normal | Status | The User's Type changes to match
 Refresh | - | 4 AP | - | Normal | Status | The User is cured of *Poison*, *Burn*, or *Paralysis*. 
 Rest | - | 4 AP | - | Psychic | Status | The User is unable to act for 2 rounds. The User heals to Max HP.
 **Roar** | - | 4 AP | - | Normal | Status | The User roars in an intimidating manner.
-Rock Polish | - | 4 AP | - | Rock | Status | The User's Speed is increased by 2. 
+Rock Polish | - | 4 AP | - | Rock | Status | The next round, the User's Speed is increased by 2. 
 Role Play | - | 4 AP | - | Psychic | Status | The User's Ability is replaced with the Opponent's. 
 Roost | - | 4 AP | - | Flying | Status | For 1 round, the User loses Flying-Type. The User is healed for 4 HP.
 Rototiller | - | 4 AP | - | Ground | Status | All Grounded Grass-Type Pokemon have their Attack and Special Attack increased by 1.
 **Safeguard** | - | 4 AP | - | Normal | Status | For 1 round, all Opponents' Status Moves have their AP cost increased by 2.
 Sand Attack | - | 4 AP | ≥2 | Ground | Status | The Opponent's Accuracy is decreased by 1.
 Sandstorm | - | 4 AP | - | Rock | Status | The Weather is changed to [Sandstorm](https://rentry.co/tmd2many_rules#weather).
-Scary Face | - | 4 AP | ≥2 | Normal | Status | The Opponent's Speed is decreased by 2. 
+Scary Face | - | 4 AP | ≥2 | Normal | Status | The next round, the Opponent's Speed is decreased by 2. 
 Screech | - | 4 AP | ≥4 | Normal | Status | The Opponent's Defense is decreased by 2. 
 Sharpen | - | 4 AP | - | Normal | Status | The User's Attack is increased by 1.
 Shell Smash | - | 4 AP | - | Normal | Status | The User's Attack, Special Attack, and Speed are increased by 2. The User's Defense and Special Defense are decreased by 1. 
-Shift Gear | - | 4 AP | - | Steel | Status | The User's Speed is increased by 2, and their Attack is increased by 1. 
+Shift Gear | - | 4 AP | - | Steel | Status | The next round, the User's Speed is increased by 2, and their Attack is increased by 1. 
 Shore Up | - | 4 AP | - | Ground | Status | The User is healed for 4 HP. While in Sandstorm, the User is healed for 6 HP.
 Simple Beam | - | 4 AP | ≥2 | Normal | Status | The Opponent's Ability is replaced with Simple.
 Sing | - | 4 AP | ≥9 | Normal | Status | The Opponent is afflicted with *Sleep*. Ignores Protect Moves and Substitutes.
@@ -780,7 +780,7 @@ Stealth Rock | - | 4 AP | - | Rock | Status | [Hazard](https://rentry.co/tmd2man
 Sticky Web | - | 4 AP | - | Bug | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Sticky Web. 
 Stockpile | - | 4 AP | - | Normal | Status | The User's Defense and Special Defense are increased by 1. Affects Spit Up and Swallow. Fails if used more than 3 times.  
 Strength Sap | - | 4 AP | ≥2 | Grass | Status | The Opponent's Attack is decreased by 1. The User is healed for HP equal to the Opponent's Attack Stat, including Attack increases or decreases.
-String Shot | - | 4 AP | ≥2 | Bug | Status | The Opponent's Speed is decreased by 2.
+String Shot | - | 4 AP | ≥2 | Bug | Status | The next round, the Opponent's Speed is decreased by 2.
 Stuff Cheeks | - | 4 AP | - | Normal | Status | If the User eats a Berry, the User's Defense is increased by 2. Fails if the User has no Berry to eat. 
 Stun Spore | - | 4 AP | ≥6 | Grass | Status | The Opponent is afflicted with *Paralysis*. Ignores Protect Moves and Substitutes.
 Substitute | - | 4 AP | - | Normal | Status | The User loses ¼ of their Max HP. The User is afflicted with *Substitute*.
@@ -796,7 +796,7 @@ Synthesis | - | 4 AP | - | Grass | Status | The User is healed for 2 HP. HP heal
 Tail Glow | - | 4 AP | - | Bug | Status | The User's Special Attack is increased by 2.
 Tail Whip | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
 **Tailwind** | - | 4 AP | - | Flying | Status | For 3 round, the User shares their Max AP with up to 2 Allies. The Move cannot increase an Ally's Max AP above 8, but may take the User below 4 AP.
-Tar Shot | - | 4 AP | ≥2 | Rock | Status | The Opponent's Speed is decreased by 1. The Opponent's Type resistance to Fire-Type Moves is decreased by 1. 
+Tar Shot | - | 4 AP | ≥2 | Rock | Status | The next round, the Opponent's Speed is decreased by 1. The Opponent's Type resistance to Fire-Type Moves is decreased by 1. 
 **Taunt** | - | 4 AP | ≥2 | Dark | Status | For 2 rounds, the Opponent's Status Moves have their AP cost increased by 2.
 Tearful Look | - | 4 AP | - | Normal | Status | The Opponent's Attack and Special Attack are decreased by 1.
 Teatime | - | 4 AP | - | Normal | Status | The User and Opponent both eat an available Berry. The User may select additional Opponents to snack with at the cost of 2 AP each. 
@@ -809,7 +809,7 @@ Topsy Turvy | - | 4 AP | - | Dark | Status | The Opponent's Stat increases and d
 Torment | - | 4 AP | ≥2 | Dark | Status | The Opponent is unable to use the same move in several times in succession.
 Toxic | - | 4 AP | ≥3 | Poison | Status | The Opponent is afflicted with *Badly Poisoned*. If the User is Poison-Type, the Move never misses.
 Toxic Spikes | - | 4 AP | - | Poison | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Poisoned Spikes.
-Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The Opponent's Speed is decreased by 1, even if the Opponent is immune. 
+Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The next round, the Opponent's Speed is decreased by 1, even if the Opponent is immune. 
 Transform | - | 4 AP | - | Normal | Status | The User's species changes to one they've seen on the current or previous round.
 Trick | - | 4 AP | - | Psychic | Status | The User swaps Worn/Held Items with the Opponent.
 **Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Speed and Speed Stat increases and decreases inverted.
@@ -879,18 +879,18 @@ Environment | Effect | .
 Basic Buildings, Generic Towns, & Miscellaneous | The Opponent is afflicted with *Paralysis*. | .
 Caves & Tunnels | The Opponent is afflicted with *Flinch*. | .
 Sandstone, Loose Dirt, & Gravel | The Opponent's Accuracy is decreased by 1. | .
-Swamps & Marshlands | The Opponent's Speed is decreased by 1. | .
+Swamps & Marshlands | The next round, the Opponent's Speed is decreased by 1. | .
 Water & Underwater | The Opponent's Attack is decreased by 1. | .
 Taiga & Frozen Caves | The Opponent is afflicted with *Freeze*. | .
 Volcanic Earth & Magma | The Opponent is afflicted with *Burn*. | .
 Haunted Territories & Ominous Weather | The Opponent is afflicted with *Flinch*. | .
-Clouds & Strong Winds | The Opponent's Speed is decreased by 1. | .
+Clouds & Strong Winds | The next round, the Opponent's Speed is decreased by 1. | .
 High-Atmosphere | The Opponent is afflicted with *Paralysis*. | .
 Space | The Opponent's Defense is decreased by 1. | .
 Flower Fields, Grasslands, Forests, & Grassy Terrain | The Opponent is afflicted with *Sleep*. | .
 Esoteric Spaces, Mystical Forests, & Misty Terrain | The Opponent's Special Attack is decreased by 1. | .
 Electromagnetic Fields & Electric Terrain | The Opponent is afflicted with *Paralysis*. | .
-Dreams & Psychic Terrain | The Opponent's Speed is decreased by 1. | .
+Dreams & Psychic Terrain | The next round, the Opponent's Speed is decreased by 1. | .
 
 ***
 

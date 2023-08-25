@@ -2,7 +2,7 @@
 
 I make bots of whatever Im feeling like at the moment, regardless of if they align with my fetishes
 I test all my bots for basic functionality on Turbo though they all obviously perform better on better AI like Claude or GPT4
-
+Here is my burner, in case you want to send me ideas, logs, fan mail, hate mail, cat porn, or just say hello: 2385040192@proton.me
 [TOC]
 
 
@@ -36,6 +36,11 @@ You just started college and your roommate is a busty, muscular, HUNG futa who A
 (Tavern Link: https://www.characterhub.org/characters/Arkane/Cindy/)
 Claude makes her very cum-focused, take the "over-productive" part out of her defs if you dont like it
 If you want her to really bully the shit out of you, add "Cruel, Sadistic" to her personality
+
+## NEW Sayaka
+Your younger sister just enrolled into the same college as you and  immediately cucks you, serves you right for outshining her.
+![Image Description](https://files.catbox.moe/umj2fd.png)
+(Chub link: https://www.chub.ai/characters/Arkane/sayaka-5c4b88b6)
 
 # SFW Bots
 NO LEWDING! Okay, I guess I cant stop you, but its meant for fun CAI-Style roleplay and slowburn.

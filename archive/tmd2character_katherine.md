@@ -1,5 +1,5 @@
 -> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
-->![Future fighter/monk](https://pixeldrain.com/api/file/2xuoy3CB)<-
+->![The ball](https://pixeldrain.com/api/file/2xuoy3CB)<-
 ### Katherine (Bounsweet) (wip) ♀
 Things can only go up!
 

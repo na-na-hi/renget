@@ -18,22 +18,22 @@
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef increased/decreased until you overtrain. Keep seed unset and retry until you get a good result.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and thats all. Keep seed unset and retry until you get a good result.*== <-
 ###Instructions:
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
-!!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach eta_min (set to 0 here) then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
+!!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach 0 then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger ==IMPORTANT:== ```Bucketing sucks don't use it. Crop areas of interest manually. Remove backgrounds optionally.```
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
 !!! danger ==OPTIONAL. NOT NEEDED IF T_0 IS SET CORRECTLY:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.```
 !!! note ==OPTIONAL. NOT NEEDED IF T_0 IS SET CORRECTLY: Use Batch Size then adjust t_max accordingly. ```This has been set to 10 here which should fit within 6GB VRAM and above. Recommend standardizing 10 so that even people on low VRAM can get similar training results as you by following metadata.```==
 !!! warning Don't use Gradient Accumulation, it slows training and is worse than its alternative Gradient Checkpointing.
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
-!!! danger  ==OPTIONAL. NOT NEEDED IF DATASET, D_COEF AND T_0 ARE GOOD:== ```Adjust weight_decay, any value from 0 to 1 should provide epic results (based on your d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! danger  ==OPTIONAL. NOT NEEDED IF DATASET, D_COEF AND T_0 ARE GOOD:== ```Adjust weight_decay, any value from 0 to 10 should provide epic results (based on your d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! note Clip Skipping a layer or two is a good way to regularize training further.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. d_coef increased/decreased until you overtrain. Keep seed unset and retry until you get a good result.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and thats all. Keep seed unset and retry until you get a good result.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -54,7 +54,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d0=1e-3\" \"d_coef=1.0\" \"weight_decay=0.4\" \"safeguard_warmup=False" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d0=5e-3\" \"d_coef=0.5\" \"weight_decay=6.0\" \"safeguard_warmup=False" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

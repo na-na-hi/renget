@@ -1,6 +1,8 @@
 ### Important Notice
 **Due to rentry being somewhat unstable recently, as well as lack of options for others to potentially contribute to these documents, any future updates to this document will be made here: https://github.com/solderq35/hitman-tech-tips/blob/main/modding/sarajevo_six.md**
 
+EDIT: As of August 2023, you can now purchase Sarajevo Six as paid DLC ($5). The mod has been taken down from NexusMods.
+
 ## Sarajevo Six Installation Guide
 
 ### Disclaimer

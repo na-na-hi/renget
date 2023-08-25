@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Naomi](https://files.catbox.moe/jkhsl5.png), [The Regenerator](https://files.catbox.moe/9ivlga.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Canio](https://files.catbox.moe/t6c32r.png)|[Laith](https://files.catbox.moe/trkyrz.png)
@@ -30,7 +31,6 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png), [Victoria](https://files.catbox.moe/41izyw.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV], [Ilulu](https://files.catbox.moe/46uoh2.png), [Victoria](https://files.catbox.moe/41izyw.png) [MV]
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png), [Shula](https://files.catbox.moe/4xyhcs.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[Candy McGiggles](https://files.catbox.moe/vqnjqq.png)|[Candy McGiggles](https://files.catbox.moe/vqnjqq.png) [MV], [Mari and Yui](https://files.catbox.moe/fmyxtp.png)
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Yuhan](https://files.catbox.moe/raye5j.png), [Friederike](https://files.catbox.moe/qyg49w.png)|[Yuhan](https://files.catbox.moe/raye5j.png) [MV], [Friederike](https://files.catbox.moe/qyg49w.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Caroline](https://files.catbox.moe/lw6gwh.png), [Ridge](https://files.catbox.moe/v9nore.png), [Thysia](https://files.catbox.moe/tqqdej.png), [Cordyce](https://files.catbox.moe/x6w9hk.png), [Aranea](https://files.catbox.moe/sj5vrp.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Atlas](https://files.catbox.moe/7iaffv.png)|
 [Phalannex](https://rentry.co/phalannex) | Misc |[Nilou](https://files.catbox.moe/wec999.png)|
@@ -42,12 +42,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[YOUR POWER MANIFEST](https://files.catbox.moe/0dm7vs.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc |[Maisa](https://files.catbox.moe/qxtik1.png), [Asha](https://files.catbox.moe/bdbbqn.png), [Fellor](https://files.catbox.moe/my8z29.png), [FOXLIFE](https://files.catbox.moe/yg7l4o.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Jenny Hopkins](https://files.catbox.moe/6pvb7r.png)|
-[UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[Mira](https://files.catbox.moe/yjzh6m.png)|
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Mira](https://files.catbox.moe/3smvh6.png)|
+[Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
-[Frozenvan](https://rentry.org/frozenvan) | Misc ||
+[UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Yuhan](https://files.catbox.moe/raye5j.png) [MV], [Friederike](https://files.catbox.moe/qyg49w.png)
 [Deleterious](https://rentry.org/deleterious) | Misc ||
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
@@ -93,7 +94,6 @@ Botmaker | Category | New Bots | Updated Bots
 [AIC Industries](https://rentry.org/aicin) | Maids ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||
 [Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... ||
-[Arkane](https://rentry.org/arkanebots) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
 [Ddo-Reu](https://rentry.co/Ddo-Reu) | Misc ||

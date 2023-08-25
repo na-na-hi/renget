@@ -13,8 +13,25 @@ Other private bots but I'm not sharing:
 Maybe I'll talk about them someday. Either they have a mechanic that doesn't work or they're too weird. If you're still reading this rentry (why would you be?), can you count how many bots I made so far, discounting forks/updates? I should have about 100 bots if I count my private/non functional ones.
 
 August
-https://www.chub.ai/characters/frozenvan/marry-the-mom-508f79a9/main
+Tsundere in Yellow
+It's the yellow day, and the eldritch King (?) in Yellow has come for visit. Just, err, forget about seeing her stroke her cocks.
+https://www.chub.ai/characters/frozenvan/tsundere-in-yellow-288e51ff
+
+Miki
+you meet the suicidal girl who you failed to save once. What does she mean when she talks about HIM?
+https://www.chub.ai/characters/frozenvan/miki-4c22f1d0
+https://beta.character.ai/chat2?char=vxtpZp6AOxx6B5K3nvIVZlmStrvrqgfi9MdU3SalhQk
+
+Trinity Quest
+Help the demon Beezlebub rebuild a castle and fuck some bitches.
+https://www.chub.ai/characters/frozenvan/trinity-quest-53e278eb
+
+Daisuke
+(You) from Your Sister Agatha. Paranoid brother who is somewhat convinced that you are his eldritch imouto.
+https://www.chub.ai/characters/frozenvan/daisuke-3a6960ed
+
 Shiina wants you to marry her tsundere mom no matter what.
+https://www.chub.ai/characters/frozenvan/marry-the-mom-508f79a9/main
 
 The department of eldritch friends. Solve a cum mystery as you try to uncover who fucking came without protection and had reality breaking sex. The example dialogue is to help Claude so you can remove it.
 https://www.chub.ai/characters/frozenvan/department-of-eldritch-friends-33ac4af8/main
@@ -32,7 +49,7 @@ Chat with a corporate foxgirl in a city that doesn't much care if she is left be
 https://www.chub.ai/characters/frozenvan/yugure-500174f6/main
 
 July
-Mongirls are terrorizing MonGirlLand and a nosy alchemist has taken it upon himself to solve the mongirl crisis. You're the shitty fairy who he formed a pact with to attain fusing abilities. Will you give him shitty fusion materials, or decent ones? See usage gallery.
+Mongirls are terrorizing MonGirlLand and the nosy alchemist Alban has taken it upon himself to solve the mongirl crisis. You're the shitty fairy who he formed a pact with to attain fusing abilities. Will you give him shitty fusion materials, or decent ones? See usage gallery.
 https://www.chub.ai/characters/frozenvan/9665872d-24b2-4362-85b3-5fea3da86dc8/main
 
 You're a sleazebag lawyer who died and went to Heaven. Your tour guide is...the girl whose parents' murderer you helped acquit.

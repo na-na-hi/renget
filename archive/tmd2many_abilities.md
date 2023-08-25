@@ -316,7 +316,7 @@ Wimp Out | While below ½ HP, Evasion is increased by 1, Defense and Special Def
 Wind Power | When the User is hit by a Wind Move, their damage with Electric-Type Moves is increased by 5 for the next turn.
 Wind Rider | When the User is hit by a Wind Move or Tailwind, their Attack is increased by 1.
 Wonder Guard | The User is immune to all non-Super-Effective Moves once per battle.
-Wonder Skin | The Opponent's Miss Range with Status Moves is increased by 10.
+Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to ≥11 against the User.
 Zen Mode | The User is changed into Zen Mode at ½ HP.
 **Zero to Hero** | The User is changed into Hero Form after 2 turns. In Hero Form, the User's Attack is increased by 2, and Special Attack is increased by 1.
 

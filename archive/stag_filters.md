@@ -3,25 +3,25 @@ boards:vg; /[h \\n]+[aàáâãäåæ4@ \*\\n]+[il1|ìíîï\[\\]¡¦ \*\\n]+[oò
 \#endless
 boards:vg; /[eèéêë3 \*\\n]+[n \\n]+[d \\n]+[il1|ìíîï\[\\]¡¦ \\n]+[eèéêë3 \*\\n]+[s$5 \n]+/i;
 \#atriox
-boards:vg; /[7t \\n]+[r \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[oòóôõöð0 ]+[x+× \\n]/i;
+boards:vg; /[7t \\n]+[r \\n]+[il1|ìíîï\\[\\\]¡¦ \*\\n]+[oòóôõöð0 ]+[x+× \\n]/i;
 \#banished
-boards:vg; /[b6 \\n]+[aàáâãäåæ4@ \*\\n]+[n \\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[s$5 \\n]+[h \\n]+[eèéêë3 \*\\n]+[d \\n]+/i;
+boards:vg; /[b6 \\n]+[aàáâãäåæ4@ \*\\n]+[n \\n]+[il1|ìíîï\[\\]¡¦ \*\\n]+[s$5 \\n]+[h \\n]+[eèéêë3 \*\\n]+[d \\n]+/i;
 \#grizzle
-boards:vg; /[g9 \\n]+[r \\n]+[il1|ìíîï\[\\]¡¦e \*\\n]+[z \\n]+[il1|ìíîï\[\\]¡¦ \\n]+/i;
+boards:vg; /[g9 \\n]+[r \\n]+[il1|ìíîï\[\\]¡¦ \*\\n]+[z \\n]+[il1|ìíîï\[\\]¡¦ \\n]+/i;
 \#unsc
 boards:vg; /[uùúûüv \\n]+[n \\n]+[s$5 \\n]+[c¢ç(\[ \\n]+/i;
 \#master chief
-boards:vg; /[m \\n]+[aàáâãäåæ4@ \*\\n]+[s$5 \\n]+[7t \\n]+[eèéêë3 \*\\n]+[r \\n]+.?[c¢ç(\[ \\n]+[h \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[eèéêë3 \*\\n]+[f \\n]+/i;
+boards:vg; /[m \\n]+[aàáâãäåæ4@ \*\\n]+[s$5 \\n]+[7t \\n]+[eèéêë3 \*\\n]+[r \\n]+.?[c¢ç(\[ \\n]+[h \\n]+[il1|ìíîï\\[\\\]¡¦ \*\\n]+[eèéêë3 \*\\n]+[f \\n]+/i;
 \#hunted/scattered
 boards:vg; /[h \\n]+[uùúûüv \\n]+[n \\n]+[7t \\n]+[eèéêë3 \*\\n]+[d \\n]+|[s$5 \\n]+[c¢ç(\[ \\n]+[aàáâãäåæ4@ \*\\n]+[7t \\n]+[eèéêë3 \*\\n]+[r \\n]+[eèéêë3 \*\\n]+[d \\n]+/i;
 \#escharum
 boards:vg; /[c¢ç(\[ \\n]+[h \\n]+[aàáâãäåæ4@ \*\\n]+[r \\n]+[uùúûüv \\n]+[m \\n]+/i;
 \#aviator
-boards:vg; /[vu \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[aàáâãäåæ4@ \*\\n]+[7t \\n]+[oòóôõöð0 \*\\n]+[r \\n]+/i;
+boards:vg; /[vu \\n]+[il1|ìíîï\\[\\\]¡¦ \*\\n]+[aàáâãäåæ4@ \*\\n]+[7t \\n]+[oòóôõöð0 \*\\n]+[r \\n]+/i;
 \#ohohoho
 boards:vg; /[oòóôõöð0 \*\\n]+[h \\n]+[oòóôõöð0 \*\\n]+[h \\n]+[oòóôõöð0 \*\\n]/i;
 \#the nothing
-boards:vg; /[7t \\n]+[h \\n]+[eèéêë3 \*\\n]+[nñ \\n]+[oòóôõöð0 \*\\n]+[7t \\n]+[h \\n]+[il1|ìíîï\\[\\\]¡¦e \*\\n]+[nñ \\n]+[g9 \\n]+/i;
+boards:vg; /[7t \\n]+[h \\n]+[eèéêë3 \*\\n]+[nñ \\n]+[oòóôõöð0 \*\\n]+[7t \\n]+[h \\n]+[il1|ìíîï\\[\\\]¡¦ \*\\n]+[nñ \\n]+[g9 \\n]+/i;
 \#spartan
 boards:vg; /[s$5 \\n]+[p \\n]+[aàáâãäåæ4@ \*\\n]+(\[h \\n]+|[r \\n]+)+[7t \\n]+[aàáâãäåæ4@ \*\\n]+[nñ \\n]+/i;
 
@@ -249,3 +249,22 @@ boards:vg; /[s$5 \\n]+[p \\n]+[aàáâãäåæ4@ \*\\n]+(\[h \\n]+|[r \\n]+)+[7t
 /Bl1Y+kK7IH4e+ZfQFYJr7g\==/
 /jrrlhZjCJ626Mz2ztcl38A\==/
 /5oUA67ZvvksnSiS0MXkgBQ\==/
+/Un8B5RIo50+F6cuyOm/G9g\==/
+/2CxF15AhTmLRisO+ZkpSZQ\==/
+/82QfvHtrpht0irs99qgKYQ\==/
+/MWCd20en93TjZ5S72iIkVQ\==/
+/2YkndMU/uLV3GfQYy65gyA\==/
+/H6rP5mZP+uWcG9Q3i+VuMw\==/
+/jcvudsw7qdg+lT7xdR31mw\==/
+/R8/ASiIzNqg65SmZKviMMw\==/
+/AM+ZrdTUn7jQK5L8NrWnbw\==/
+/y58aXCQAjWbWLirrxRPitA\==/
+/LZeWvlo8PnCnJImhHWnBhw\==/
+/Fq26izTqSITzXbDRyhW37Q\==/
+/tfx2T8qiaWrhfxfVmcxQXw\==/
+/cA1wIGSpHCSLwivuPhiAcA\==/
+/W/C6FGFd0URwDeTEY6rOTg\==/
+/0AV7QxHavn/plkcFwJsOAw\==/
+/Ccux9XbpyiA5VtUbJsmEkg\==/
+/d1R9bxfuvqBr3HMGVddF5w\==/
+/ufXeDx0ctbwJ1QDa1Pwzig\==/
