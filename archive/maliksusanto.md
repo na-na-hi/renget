@@ -6,8 +6,8 @@
 -> *https://www.chub.ai/users/maliksusanto* <-
 -> *https://booru.plus/+pygmalion/user:maliksusanto* <-
 
--> ==Updated 21/8/2023== <-
--> *Added 2 new bots/cards : Nanagami Rin, and Storch Sieben* <-
+-> ==Updated 25/8/2023== <-
+-> *Sex Club Multiverse Lorebook Updated to v1.8 'Final Edition'* <-
 
 ## -> All Bots <-
 -> *List of bots from all kind of copyright source or maybe some OC* <-
@@ -75,7 +75,7 @@ Yukikaze Mizuki | ![Yukikaze Mizuki](https://i.postimg.cc/s2PYTFPQ/Yukikaze-Mizu
 Lorebook |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--: 
 Kivotos City | ![Kivotos City](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/kivotos-city/avatar.webp?size=0.4953452677033401) | Blue Archive's Lorebook for locations, terms, and other essentials. | [Download](https://www.chub.ai/lorebooks/maliksusanto/kivotos-city) v1.5
-Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/sex-club-multiverse/avatar.webp?size=0.7658696659949682) | A club located in pocket dimension that offers to satisfy your desire. The Multiverse is just name added to justify usage of copyrighted character, i don't really elaborate on the L O R E for that. | [Download](https://www.chub.ai/lorebooks/maliksusanto/sex-club-multiverse) v1.7
+Sex Club Multiverse | ![Sex Club Multiverse](https://avatars.charhub.io/avatars/lorebooks/maliksusanto/sex-club-multiverse/avatar.webp?size=0.7658696659949682) | A club located in pocket dimension that offers to satisfy your desire. The Multiverse is just name added to justify usage of copyrighted character, i don't really elaborate on the L O R E for that. | [Download](https://www.chub.ai/lorebooks/maliksusanto/sex-club-multiverse) v1.8
 
 ## -> Work-in-Progress <-
 

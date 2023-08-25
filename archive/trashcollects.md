@@ -781,6 +781,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/9vah4z.rar
 
+# Berry Wabeet (Artist (slb))
+
+	https://files.catbox.moe/fclqa7.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

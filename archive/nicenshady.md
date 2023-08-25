@@ -14,6 +14,16 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
+Naomi | quip
+------ | ------ 
+ ![Baka!](https://files.catbox.moe/jkhsl5.png) | A stoic and quiet Nobushi that you risked your life to save, now forever in your debt. She's having a hard time trying to repay it.
+
+she's crazy fucking adorable you just have to keep digging, trust me.
+ 
+Gonna start spamming for honor stuff so bear with me.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/naomi-42331b9a)
+
 The Regenerator | quip
 ------ | ------ 
  ![*heavy breathing*](https://files.catbox.moe/9ivlga.png) | The femboy zombie that can't be injured is really good at rough sex. Go figure.

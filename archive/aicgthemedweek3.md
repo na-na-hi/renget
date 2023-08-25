@@ -31,4 +31,4 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/1g2tst.png) | [Secret Onee-Chan Lover](https://www.chub.ai/characters/MooseAnon/secret-onee-chan-lover-7d1f3d47) | **MooseAnon** | Your Onee-chan is going to take care of you in any lewd way you want, but there's always a chance you'll be caught. |
 
 ***
-#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-
+#### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

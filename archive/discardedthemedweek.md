@@ -23,4 +23,4 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/narwwu.png) | [Breakfast with Alexa](https://www.chub.ai/characters/horcocks/breakfast-with-alexa) | **horcocks** | Your home automation system just asked you out. This is new. |
 
 ***
-#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-
+#### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

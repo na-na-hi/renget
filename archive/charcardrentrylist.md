@@ -18,11 +18,12 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Nicenshady](https://rentry.org/nicenshady) | Misc |[Naomi](https://files.catbox.moe/jkhsl5.png), [The Regenerator](https://files.catbox.moe/9ivlga.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Canio](https://files.catbox.moe/t6c32r.png)|[Laith](https://files.catbox.moe/trkyrz.png)
 [Planewalker](https://rentry.org/planewalker) | Misc |[Claude](https://files.catbox.moe/ut4f09.png), [Damien](https://files.catbox.moe/rgdxi1.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[ΔΤΔ](https://files.catbox.moe/ragcah.png), [Riley](https://files.catbox.moe/0y9qfq.png)|[Riley](https://files.catbox.moe/0y9qfq.png) [MV], [Juno](https://files.catbox.moe/k7jqub.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Akiko Aname](https://files.catbox.moe/1tbajg.png)|[Akiko Aname](https://files.catbox.moe/1tbajg.png) [MV]
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[The Regenerator](https://files.catbox.moe/9ivlga.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Gin](https://files.catbox.moe/kvj485.png)|[Emily](https://files.catbox.moe/knougf.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Mallory](https://files.catbox.moe/kpya0u.png)|[Mallory](https://files.catbox.moe/kpya0u.png) [MV]
 [CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
@@ -33,7 +34,7 @@ Botmaker | Category | New Bots | Updated Bots
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Caroline](https://files.catbox.moe/lw6gwh.png), [Ridge](https://files.catbox.moe/v9nore.png), [Thysia](https://files.catbox.moe/tqqdej.png), [Cordyce](https://files.catbox.moe/x6w9hk.png), [Aranea](https://files.catbox.moe/sj5vrp.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Atlas](https://files.catbox.moe/7iaffv.png)|
 [Phalannex](https://rentry.co/phalannex) | Misc |[Nilou](https://files.catbox.moe/wec999.png)|
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Lynette](https://files.catbox.moe/u3km6l.png), [Kyouko](https://files.catbox.moe/bnoyhp.png), [Evalina](https://files.catbox.moe/i5zif4.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Lynette](https://files.catbox.moe/u3km6l.png), [Kyouko](https://files.catbox.moe/bnoyhp.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc |[Lyrie](https://files.catbox.moe/k6teux.png), [Brie](https://files.catbox.moe/2ruvf2.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Riktis Von Cleef](https://files.catbox.moe/g00d30.png), [Parm](https://files.catbox.moe/nyanwa.png), [Yaeko](https://files.catbox.moe/7k3kpi.png), [Poppy](https://files.catbox.moe/qdga16.png), [Tsukiko](https://files.catbox.moe/26k3i4.png), [Aina](https://files.catbox.moe/2uknep.png), [Kierine](https://files.catbox.moe/i2h6c0.png), [Faultless Scrolls](https://files.catbox.moe/zewrc3.png), [Eli](https://files.catbox.moe/53dajk.png), [Josie](https://files.catbox.moe/3hfrr7.png), [Dallas](https://files.catbox.moe/9f1dsj.png), [Kumonoue](https://files.catbox.moe/pwx79g.png), [Eri](https://files.catbox.moe/5uo5wr.png), [Kagechi](https://files.catbox.moe/gn3lo0.png), [Hure](https://files.catbox.moe/knzmpa.png), [DaeHyun](https://files.catbox.moe/knxuq3.png), [Midori](https://files.catbox.moe/0ib87y.png), [Aki Habara](https://files.catbox.moe/wvsoxd.png), [Aelura](https://files.catbox.moe/hzo552.png)|[Toby Daniels (Crossdress Scenario)](https://files.catbox.moe/15bl17.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Clementine](https://files.catbox.moe/gs9cte.png)|
@@ -52,7 +53,6 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
-[Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Smile](https://rentry.org/HelpanonSmile) | Misc ||
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||

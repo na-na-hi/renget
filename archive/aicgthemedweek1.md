@@ -33,4 +33,4 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/kapc4e.png) | [Catastrophic Cafe](https://www.chub.ai/characters/frozenvan/catastrophic-cafe) | **frozenvan** | Your clumsy catgirls keep fucking up, so it's to you to gaslight your customers to stay. |
 
 ***
-#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-
+#### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

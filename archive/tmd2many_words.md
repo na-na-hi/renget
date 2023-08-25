@@ -4,6 +4,9 @@
 ->![Just who is ZAP GAK?](https://cdn.imgchest.com/files/l7lxc6qk97o.png)<-
 ->**[BACK TO RULESET](https://rentry.co/tmd2many_rules)**<-
 ***
+->**Supplementary Links**->
+->Other pages that contain useful information relevant to the world:->
+->[List of All Locations & Shops](https://rentry.co/tmd2many_places)->
 
 !!! info Table of contents below:
 [TOC2]

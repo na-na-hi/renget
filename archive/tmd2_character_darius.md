@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Rock Throw | 5BP | 6AP | ≥3 | Rock | Physical | No secondary effect.
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-Assurance | 6BP | 7AP | ≥2 | Dark | Physical | If the User was damaged last round, the Move's damage is increased by 6.
+Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

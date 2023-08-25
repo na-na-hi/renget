@@ -16,6 +16,7 @@
 | PinoccioP - God-ish / 神っぽいな |[![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA)|3m25|
 |3rd cover - probable release on August 26th 2023 |Placeholder|-|
 |4th cover - unknown date |Placeholder|-|
+|5th cover - unknown date |Placeholder|-|
 
 #####Collab Songs
 | Song | Link | Duration |

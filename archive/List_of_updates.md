@@ -106,5 +106,10 @@
 |24/08/2023|90|Mentions & Collabs|Addition of Fuwamoco's POV for the Advent Phasmophobia collab.|
 |24/08/2023|91|Mentions & Collabs|Addition of Nerissa's POV for the Advent Phasmophobia collab.|
 |24/08/2023|92|Mentions & Collabs|Addition of Shiori's POV for the Advent Phasmophobia collab.|
+|25/08/2023|93|Mentions & Collabs|Addition of Bijou's POV for the Advent Phasmophobia collab.|
+|25/08/2023|94|Mentions & Collabs|Addition of the stream link to Advent's HoloSummer Splash Party Night watchalong on FWMC's channel.|
+|25/08/2023|95|Mentions & Collabs|Addition of 5 timestamps for the segment during the HoloSummer Splash Party Night pre-show on the main Hololive channel.|
+|25/08/2023|96|Music|Placeholder for a probable fifth cover|
+|25/08/2023|97|Mentions & Collabs|Addition of 2 timestamps for the segment during Shiori's NSO stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -1,4 +1,4 @@
--> ![](https://i.imgur.com/GUaatM2.png) <-
+-> ![](https://a.imagem.app/bPchHk.png) <-
 
 # 📚 ➜ [Megathread](https://rentry.co/megathread) / **Books**
  
@@ -376,7 +376,7 @@
 
 &nbsp;
 
--> ![](https://i.imgur.com/MdUPUe3.png) <-
+-> ![](https://a.imagem.app/bPcHV9.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

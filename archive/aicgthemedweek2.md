@@ -57,4 +57,4 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/qt3j5g.png) | [Amorosa](https://www.chub.ai/characters/NG/amorosa-hs-annoyances) | **NG** | The Goddess of High School Annoyances. |
 
 ***
-#### -> [BACK TO THE MAIN PAGE](https://rentry.org/aicgthemedweeks) <-
+#### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

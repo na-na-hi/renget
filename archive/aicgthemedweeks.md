@@ -12,9 +12,9 @@
 -> ![](https://files.catbox.moe/63p46y.png) <-
 ### -> Below you can find the list of rentries in order of creation <-
 ***
-## -> [Running a cat cafe with anthro cat girls](https://rentry.org/aicgthemedweek1) <-
-## -> [Jealous robogirl attempts to imitate humans](https://rentry.org/discardedthemedweek) <-
-## -> [God of something unremarkable](https://rentry.org/aicgthemedweek2) <-
-## -> [Randomness and probability](https://rentry.org/aicgthemedweek3) <-
-## -> [Mental illness](https://rentry.org/aicgthemedweek4) <-
+## -> [Running a cat cafe with anthro cat girls](https://rentry.co/aicgthemedweek1) <-
+## -> [Jealous robogirl attempts to imitate humans](https://rentry.co/discardedthemedweek) <-
+## -> [God of something unremarkable](https://rentry.co/aicgthemedweek2) <-
+## -> [Randomness and probability](https://rentry.co/aicgthemedweek3) <-
+## -> [Mental illness](https://rentry.co/aicgthemedweek4) <-
 ***

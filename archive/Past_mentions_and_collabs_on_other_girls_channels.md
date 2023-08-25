@@ -65,6 +65,7 @@
 |02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interactions** - Nerissa & Bijou (joined by the Fuwamoco Twins later) popping-in in Shiori's VC and the stream becomes a fullgen Zatsu collab.|
 |10/08/2023|[Timestamp](https://youtu.be/PxyS3lRyktA?t=1809)|**Mention after a raid** - Greetings after a raid done by Nerissa following her Story of Seasons stream.|
 |23/08/2023|[Timestamp #1](https://youtu.be/XOBVamb8svQ?t=4769) [Timestamp #2](https://youtu.be/XOBVamb8svQ?t=5851) [Timestamp #3](https://youtu.be/XOBVamb8svQ?t=6227)|**Streamer-chat interactions** during Shiori's Amanda the Adventurer stream. Nerissa counted for a certain percentage of the votes for the decisions in these timestamps.|
+|24/08/2023|[Timestamp #1](https://youtu.be/ILrxzxosEvk?t=4182) [Timestamp #2](https://youtu.be/ILrxzxosEvk?t=4359)|**Streamer-chat interactions** during Shiori's Needy Streamer Overload stream. Some greetings after a raid and Nerissa invited Shiori to watch Perfect Blue - nothing groundbreaking.|
 
 ###### 🗿 Bijou
 |Date|Link|Nature & Notes|
@@ -84,7 +85,7 @@
 |14/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |15/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
-|27/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Night! with Advent".|
+|27/08/2023|[Link](https://www.youtube.com/watch?v=w5gAcmMcrGg) |**Watchalong** - Watchalong of Splash Party! Night! with Advent.|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|
@@ -94,7 +95,7 @@
 |11/08/2023|[Nerissa's POV](https://www.youtube.com/watch?v=VRdVncNa0FE)| **Collab** - Third HoloAdvent Group collab on Earth Defense Force 6 (with [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=DC8VQsff7sA))|
 |18/08/2023|[Nerissa's POV](https://youtu.be/T40-yg1CEgE)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](https://www.youtube.com/watch?v=1L6uZUwIx0o) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=EDeLwLudnqA)) - Shiori was absent|
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
-|25/08/2023|[Link](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
+|25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
@@ -121,6 +122,11 @@
 |---|---|---|
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
 |01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment and start of the 'no pants nee-san' angle during the AsaKoyo podcast|
+
+###### Main Channel
+|Date|Link|Nature & Notes|
+|---|---|---|
+|27/07/2023|[Start of the segment](https://youtu.be/8ssW4JqdpcU?t=6553) - [Timestamp for introductions](https://youtu.be/8ssW4JqdpcU?t=6572) - [Timestamp for the question](https://youtu.be/8ssW4JqdpcU?t=6631) - [Timestamp  for the answer](https://youtu.be/8ssW4JqdpcU?t=6711) - [Timestamp  for the confirmation](https://youtu.be/8ssW4JqdpcU?t=6798) | **On-screen appearance** - Question asked by all the Advent members to the holomems present to the pre-concert gameshow of the HoloSummer Splash Party concerning 'Who's the member of Advent not wearing panties all the time?'|
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)->
 
