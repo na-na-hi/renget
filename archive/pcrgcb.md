@@ -55,7 +55,7 @@ Labyrista 5★ Lv280 R29 FULL EX 5/3/5
 
 [Version with 3 manual inputs for 66m](https://www.youtube.com/watch?v=8xtpgWgwUro)
 ![](https://pomf2.lain.la/f/6qg5a6cw.png)
-![](https://pomf2.lain.la/f/8nkk0alk.png)
+![](https://pomf2.lain.la/f/b6ms1b1u.png)
 ### Boss 3
 [B3 58m physical](https://www.youtube.com/watch?v=ZPK2X8-gOk8)
 56-57m with 3★ Kurumi

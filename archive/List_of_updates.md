@@ -113,5 +113,7 @@
 |25/08/2023|97|Mentions & Collabs|Addition of 2 timestamps for the segment during Shiori's NSO stream.|
 |25/08/2023|98|Music|Placeholder for a future karaoke. Probably set in 3 weeks from that update|
 |25/08/2023|99|Mentions & Collabs|Addition of a timestamp containing a mention during Bijou's 4th HoloCure stream.|
+|25/08/2023|100|Music|Placeholder for a probable sixth cover|
+|25/08/2023|101|Music|Addition of the cover of Magia from Kalafina|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

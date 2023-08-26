@@ -114,14 +114,14 @@ Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 inst
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
 Hadron Engine | At the start of the battle, Miraidon's Special Attack is increased by 1. Miraidon may summon Electric Terrain as a free Action once per battle.
 **Harvest** | If a Berry was used last turn, there is a 50% chance they will find a Berry Leaf, 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.
-**Healer** | When the User uses a Status Move with a roll greater than or equal to 10, an Ally is cured of their Status Condition.
+**Healer** | Roll 1D20. 11-20; The User can cure an Ally of all Major Status Conditions at no AP cost, provided they have a Defensive Focus.
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
 Heavy Metal | The User is twice as heavy as they normally would be. They also enjoy heavy metal.
 **Honey Gather** | If the User lands a finishing blow, roll 1D20. Upon rolling 20, the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
 **Huge Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 Hunger Switch | The User switches between Full-Belly Mode and Hangry Mode every turn.
 Hustle | The User's Attack Stat is increased by 3 Stat Points. The User's Miss Range with Physical Moves is increased by 4.
-Hydration | The User is cured of Status Conditions each turn while in Rain.
+Hydration | Each round while in Rain, the User is cured of all Major Status Conditions.
 Hyper Cutter | The User's Attack cannot be decreased by other Pokémon. The User's Basic Attack is replaced with Cut.
 Ice Body | The User heals 2 HP each turn while in Snow.
 **Ice Face** | The User's Defense is increased by 6 until taking damage. 

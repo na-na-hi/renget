@@ -1,3 +1,4 @@
+-> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
 ![Tundra](https://archives.bulbagarden.net/media/upload/2/29/0676Furfrou.png) 
 
 ### Howl Cloaked in Tundra ♂
@@ -11,8 +12,8 @@ While Howl Cloaked in Tundra's legitimacy as a noble is often come into question
 
 · | ->· ->
 ---- | ----
-**Origin:** Native | **Guild Role/Occupation:** Noble
-**Species:** Furfrou | **Affiliation:** Rantrum
+**Origin:** Native | **Occupation:** Noble
+**Species:** Furfrou | **Affiliation:** Rantrum Domini
 **Level:** 50 | **Experience to Next Level:** 200/1500
 **Worn Item:** Silk Scarf | **Clothing:** Noble Cape
 **Pokécoin:** 10,000₽ | **Glorious Gold:** 10 Bars

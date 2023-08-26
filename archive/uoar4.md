@@ -57,6 +57,7 @@ _______
 | Mori's Kawaikute Gomen Cover |[![](https://files.catbox.moe/8tmupu.jpg)](https://www.youtube.com/watch?v=92tvv7PgKeI)|
 |Miko's Kyoufuu All Back Cover| [![](https://files.catbox.moe/vv9ohy.jpg)](https://www.youtube.com/watch?v=U2jl3QIoVws)|
 |Blue Horizon | [![](https://files.catbox.moe/7q56nj.jpg)](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
+|Bae's Yakusoku no Kizuna Cover| [![](https://files.catbox.moe/qr44y0.jpg)](https://www.youtube.com/watch?v=40WoArsMQgQ)|
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->
 

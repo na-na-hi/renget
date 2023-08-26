@@ -51,9 +51,10 @@
 110: Kobo, Kaela, Zeta, Fuma, Rio, Uyu, and Gamma are created. 
 117: Having grown dissatisfied with the world, Sana requests Yagoo’s permission to leave to explore the stars. He agrees. The inhabitants of her land bid her farewell, knowing they would never see her again. Sightings are sometimes reported in the night sky by observatories of a massive goddess adrift in the far depths of outer space. 
 118: Regis, Vesper, Axel, and Magni are created.
+126: For not showing proper respect to Yagoo, Vesper’s western lands are scorched with rays of hellfire, annihilating a good portion of his territory. The land remains uninhabitable to this day. 
 129: Bettel, Hakka, Flayon, and Shinri are created.
 142: Shiori, Bijou, Fuwawa, Mococo, and Nerissa are created.
-144: Magni and Vesper are killed under unclear circumstances when engaging with monsters near the borders of Nerissa's territory. Rumors spread like wildfire as the realm of both demigods quickly collapse into anarchy. Vesper's realm, already unstable, quickly falls apart. The survivors flee to Magni's land who use heavily experimental alchemy to maintain their realms at terrible human cost. It remains unknown what or why both demigods died, but some speculate it was the result of a freak alchemical accident. 
+144: Magni and Vesper are slain under unclear circumstances when engaging with monsters near the borders of Nerissa's territory. Rumors spread like wildfire as the realm of both demigods quickly collapse into anarchy. Vesper's realm, already unstable, quickly falls apart as monsters overwhelm it. The survivors flee to Magni's land who use heavily experimental alchemy to maintain their realms at terrible human cost.
 144: Current year. 
 
 ![Map of the Known World](https://warosu.org/data/vt/img/0552/05/1691213703644852.png)
@@ -278,6 +279,33 @@ As a vampire, Mel has all of the powers expected of one in such a role. This inc
 
 Although not giving the appearance of one who would seem a strong fighter, Mel has proven time and again she is not to be trifled with. A popular account of her tearing a rogue vampire in half with her bare hands in one, single rip, is often used as an example of her innate strength.
 
+##Friendly Union of Shirakami
+
+![Shirakami Fubuki](https://static.wikia.nocookie.net/virtualyoutuber/images/6/63/Shirakami_Fubuki_-_3D_Model_01-4.png/revision/latest?cb=20211006092513)
+
+###Leader: Shirakami Fubuki
+
+*Size: 29’000 km2*
+
+*Population: 7.3 Million*
+
+*Founding Date: Year 21*
+
+*Capital: Nawa*
+
+###Geography and Infrastructure
+
+###Flag
+A vertical pentaband of light blue, white, black, white, and light blue. The white stripes are three times the size of the other stripes. On the right side of the flag is a black left facing triangle with a white pentagram in the center. 
+
+###General Overview 
+
+###Blessed
+
+###Leader Description
+
+###Leader Powers
+
 ##Elite Shinto Dynasty of Sakura
 
 ![Sakura Miko](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b5/Sakura_Miko_2020_3D_Model.png/revision/latest?cb=20221002205944)
@@ -405,17 +433,54 @@ Much of her remaining powers specialize in the application of sound. Be it sonic
 *Capital: Hanoseushi*
 
 ###Geography and Infrastructure
+The lands the Angelic Heavens occupy are the tallest known mountains in the world, with the portion inhabited by Kanata being the coldest and tallest part of them all. Known as the Dragon Spine mountains, they are to all extents and purposes uninhabitable. It is dark and stormy, blanketed with snow all year round. 
+
+To escape this unlivable landscape, the people of the Angelic Heavens were lifted above by Kanata and built their civilization within the clouds. Kanata raised the first sky palace in the year of her nation’s founding, and has since raised many more. These fortifications have been added onto over the years, becoming towering floating islands of tethered pieces of stolen land and extra buildings built up to support a growing population. 
+
+All habitations are built with defense in mind. The means to produce these floating settlements is known only to Kanata, who sacrificed much of her wingspan in order to do so. They are hard to make, and harder to replace, so growth in this country is slow. 
+
+Life at such a high altitude is not without its extremes. The oxygen is very thin, necessitating acclimation for visitors who are forced to wear oxygen masks. Most citizens of the country are quite heavily tanned, and many develop skin cancer. The altitude also presents a constant issue of freezing, so heavy clothing is a necessity. There is also of course the issue of falling. This is circumvented by gliders to travel between settlements, small planes, and even personal aerial devices such as pedaled gyrocopters. 
+
+Water is collected in rain barrels which are lowered to cloud levels via lengthy chains to accumulate precipitation. Because food must be grown to be produced as no natural plant or animal life exists at this altitude beyond the occasional high-flying bird, all citizens are expected to farm plots of their own land. The people of this land exist in a semi-serfdom state as a result. 
+
+The entire northern border of the Angelic Heavens borders the fog, so monster attacks are a constant problem. It is believed that of all border states, they receive some of the most frequent monster attacks due to the ground being untamed. To the east is Okayu, southeast Korone, south Pekora, southwest Flare, and west Coco. A very small passage exists in the northwest corridor to Towa’s lands, and has traditionally been a sight of many battles between these two opposite demigods.
 
 ###Flag
 A horizontal triband of blue, white, and blue. The white band is quadruple the size of the white bands. Two smaller black bands border the white band on the left and right. In the center is the halo of Kanata outlined in dark yellow. 
 
 ###General Overview 
+The Angelic Heavens are a curious land full of hardworking, kindly people that live hard lives for the betterment of all. They are born into a difficult land and expected to work or fight until the day they die, all while being a moral example to others. The term Heimin is often used to refer to the citizens of the Angelic Heavens.
+
+One would expect this to be the description of a dictatorship. The truth is as far from this as possible. Kanata and her Blessed rule the floating sky islands and castles of the Heavens acting not only as a vanguard for other countries and a first line of defense, but also as a bastion of good and proper moral behavior. The best way to describe the Angelic Heavens is a judicial “moralocracy”. 
+
+The meaning of moralocracy, as defined by Kanata herself, is a society ruled by good behavior solely. Laws are enforced around innate goodness in the human spirit and behavior, not necessarily legal specifics. Judges, the highest authority in the land, are expected to make calls not based on prior precedent but by morality and by what they deem to be best in advancing the goodness of the community and person. Theft for the sake of feeding a hungry child may well be forgiven, but excessive rudeness may be punished. Kanata sits as the head of the supreme angelic court, the highest authority in the land. 
+
+The Angelic Heavens receive constant monster attacks from flying enemies on a near daily basis. All members of the nation are expected to serve in some capacity. From twelve to sixty-eight, all citizens are members of the militia and expected to defend their settlements in whatever means necessary. Those wishing to join the military proper become one of the Angel Guard.
+
+The Angel Guard, made up of Blessed and volunteers alike, are the highly trained and disciplined sky knights of Kanta’s land. With mechanical (or real in the Blessed’s case) they soar through the air with crossbow and sword, acting as the first line of defense for not just the country but many nations as well. The Angelic Heavens suffers the brunt of monster attacks that pour down from the fog in the north so those to the south do not suffer. 
+
+When Kanata raised her people aloft, she did so with the expectation they would be a force of good, righteousness through adversity, kindness through hardships. She often emphasizes the heavy burden they bear so that others in the lands below may not suffer. An incredible respect is given to this nation by the others, (save for Towa, her rival) who often pour gifts galore to the inhabitants of this country. 
+
+It is Kanata’s goal that in time they may scour away the fog and return to conquer the lands below. This goal, lofty as their nation, is quite far away from reality. For now, the Angelic Heavens are held together by a communion of good faith and upright morals which earns them the respect of other nations and demigods. 
 
 ###Blessed
+Kanata’s Blessed are often referred to as angels, and for very good reasons. Upon becoming Blessed, they sprout wings from their back, and a halo as well, with four points like Kanata. They serve as the generals and judges of her army in equal measure, and are so willing to risk their lives for the cause that many have fallen in the line of duty.
+
+Only those who display the most genuine and honest moral fiber become Blessed. Their devotion to not just Kanata but to her beliefs must be as fanatical as possible. These are the kinds of people who would donate every last coin to a homeless person, who would volunteer at a senior center every day off, who would never be rude or unkind under any circumstances. They know they must set a good example, because if they do not and faith wanes in Kanata, the entire nation will fall apart. 
 
 ###Leader Description 
+Amane Kanata is an angel. She has a very firm and poignant approach to humanity, and that is that they are beings of ultimate goodness. She has also resolved to strive to bring out the best in human behavior through whatever means necessary, often acting as a moral example.
+
+She has sacrificed much for her land. To lift them from the ground, she destroyed much of her wingspan, limiting her flight capabilities. In battle with a monster, she suffered intense sonic damage which is gradually making her go deaf. Day and night she studies healing skills to better aid the sick.
+
+This does not mean she is meek, however. Kanata is quite infamous for a personality that does not necessarily follow her actions. She can be very crass and loud when she needs to be, and has more than once used “percussive therapy” to solve issues in her ranks that words were not fixing. Still, her sacrifices and diligence ensure her populace remain loyal. Without her, none would be alive.
+
+Coco was great friends with Kanata. After her departure, Kanata became notably less energetic than before, deeply missing her presence. Her rivalry with Towa, her antithetical opposite, is also well known. The two frequently clash, with both nations built on the concepts of good and evil respectively. 
 
 ###Leader Powers 
+Kanata as an angel is not just limited to flight. Her powers rely on the manipulation of light for both offense and defense. She is just as capable of adjusting the wavelengths of her soldiers to make them invisible as she is firing massive bursts of light rays to disintegrate her foes.
+
+In her spare time, she researches medicine and healing magics to better assist her people. Kanata is also quite infamous for her hilariously disproportionate physical strength, leading to her being affectionately referred to as a gorilla instead of an angel. 
 
 ##Draconic Khanate of Clan Kiryu
 

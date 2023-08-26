@@ -12,20 +12,20 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 \---
 \>Streams
 Upcoming streams
-https://youtu.be/3H915-1SDGo
+https://www.youtube.com/watch?v=-P05eG6iN4E
 https://www.youtube.com/watch?v=w5gAcmMcrGg
-Segment with Advent during the Splash Party preshow
-https://youtu.be/8ssW4JqdpcU?t=6553
-Past streams
-https://youtu.be/p-bDMxHux5Q
+Past stream
+https://youtu.be/3H915-1SDGo
 \---
 \>Songs
+Upcoming cover of Kalafina - Magia
+https://www.youtube.com/watch?v=Gaf2ozNgOs8
 Cover of PinoccioP - God-ish / 神っぽいな
 https://www.youtube.com/watch?v=s0jypGHFbnA
-Love Me, Love Me, Love Me (English cover of Kikuo - 愛して愛して愛して ).
-https://music.youtube.com/watch?v=RWU3o_kDixc
-Rebellion (Hololive English -Advent- Debut Song)
-https://music.youtube.com/watch?v=pYNYhSsR8EE
+Songs & Karaokes rentry
+https://rentry.org/karaokes_songs_v0
+Cover playlist
+https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM
 \---
 \>Useful Links
 YouTube: https://www.youtube.com/@NerissaRavencroft

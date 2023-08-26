@@ -109,3 +109,21 @@ Also the start of [preYdator summer.](https://rentry.org/who_summer23#preydator-
 | Member (s)| Title | Link/Timestamp | Nature |
 |------|-----|-----|-----|
 |CouncilRyS| 【3D SHOWCASE】HOPE IS ON THE MOVE! | [Timestamp](https://www.youtube.com/watch?v=dR9q_J-8mfM&t=1111s) | Apperance with the rest of Council on IRyS' 3D.|
+
+**Day 36 - 2023-08-23**
+| Member (s)| Title | Link/Timestamp | Nature |
+|------|-----|-----|-----|
+|CouncilRyS|  ≪#Council2ndAnniversary≫ Off Collab Baking Challenge + HUGE Announcements! w/ Councilrys | [Link](https://www.youtube.com/watch?v=QrfFDaG78so)|Off-collab handcam stream. Cute moments and announced their 3D showcase.|
+|Lui| 【 Minecraft 】競馬場の客席の続きをやって…その後どろ建でダイヤモンド堀り雑談だ‼|[Timestamp](https://www.youtube.com/watch?v=oWTcq2_AtIw&t=2766s)|Brief mention of the Didney trip she invited Mumei to in the birthday stream recording. Fauna and Aki tagged along.|
+
+**Day 37 - 2023-08-24**
+ | Member (s)| Title | Link/Timestamp | Nature |
+|------|-----|-----|-----|
+|Bae, Mumei|  ≪Truth of Beauty Witch - Marine's treasure ship - ≫ AHOYYYYYY!!!! w/ Mumei | [Link](https://www.youtube.com/watch?v=RY1GkF4jMls)| Off-collab. Playing another kusoge made by the Tsugunohi guy.|
+
+Also had a [barbecue](https://twitter.com/takanelui/status/1694711703513219355) with Lui nee and other girls. 
+
+**Day 38 - 2023-08-25**
+ | Member (s)| Title | Link/Timestamp | Nature |
+|------|-----|-----|-----|
+|Bae|  ≪#RatExposed≫ Fan Art Review with The Legendary Eyetracker |[timestamp](https://www.youtube.com/watch?v=olzI2AY-_04&t=5418s) |CouncilRyS hanging out after the anniversary stream.|

@@ -556,6 +556,7 @@ Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
 Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#89763266
 Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
 Sandy and Mio casualwear: https://desuarchive.org/tg/thread/89851223/#89859158
+Marumaru character sheet: https://desuarchive.org/tg/thread/90030958/#90032228
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
