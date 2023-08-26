@@ -76,6 +76,17 @@ Here you can find all the SFW fics that have been submitted for the contest.
 [The Perfect Day](https://docs.google.com/document/d/e/2PACX-1vT8rgRu2fiE27CFKsEcIfklVUpgrJcKQmSlmGRNtq4X1YGaoGE1TSKEk-xK_1j0IbkJHusYjvh0H-5U/pub) (Ina, SFW, Depression, Occult-ish)
 [Thug Hunter](https://docs.google.com/document/d/e/2PACX-1vQgoxanbsfwM7SXISd84mubPB_DMEX3lDRfeclABMANp6sxUHM59N62INKKGSp6aMTiTlyz340ZhNdv/pub) (Botan, NePoLaBo, SFW, western, comedy)
 [Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (SFW, Ina, Fluff)
+[Shark in the Screen](https://docs.google.com/document/d/e/2PACX-1vSXw7JNes4J9Zza3X3xlpshsO_rWifv6_5YMoEANnv4zzmseUFTHUPx2w9EiQH0M28OLnjv3zAGAWE8/pub) (Gura, Kiara, Ina, Omega, Jenma, Gawr, SFW, Drama)
+[A Cursed Dagger](https://docs.google.com/document/d/e/2PACX-1vSQbyKoaRT5ybXTu8N938PibAbQJMKZ2S_ex4cIaKYk6Jc77r02ueP94mNwe9-2XYviS6GfRgyrSOF5/pub) (Anya Melfissa, SFW, Fluff, Comedy, Mind Reading)
+[The Shining](https://docs.google.com/document/d/e/2PACX-1vRCKf0eRje2c58z0_6Af4KLJNghJVCSTQnbeEfoivUJMrhIUNrI__zhFwsDP0eoUGcI-Pao8IpCZ1RS/pub) (SFW, Shiori, Bijou, Nerissa, Fuwamoco)
+[By That Sea - Chapter 1](https://docs.google.com/document/d/e/2PACX-1vSwjUTXwtLshVmmwUFTwPW9q4ybReU3yaNELEqne2klabBxSMCg2Xd6s6qvfgbAZvV6HGM0f_XNSolV/pub) (Marine, SFW, Adventure, Fantasy, Anachronistic elements)
+
+[The Tower of Tattle Part I: The Atrium](https://docs.google.com/document/d/e/2PACX-1vQ2zpVfjL8EUqdmqr-3uJBUGkXBCZQgfirX2vsp4P0td_Mixw8wJU971WIIWHp-bzsu3kSUeWP-2K1j/pub)
+[The Tower of Tattle Part II: The Gate](https://docs.google.com/document/d/e/2PACX-1vSyPbEN-91TTg-yGJETCeMXN3PuVdfxwhNWRzOb9SS8RyOTePiGnpwZPaBU0vJtF5XAyN0NMyJP2--g/pub)
+[The Tower of Tattle Part III: The Stairwell](https://docs.google.com/document/d/e/2PACX-1vS9lYT5zQ4XuS9Bzmby2StrmvoR4oQpruHiFIDM8H9v1tElFRpVeQVtSoUADL-mBb6UMj3JYOswzI3N/pub)
+[The Tower of Tattle Part IV: The Cellar](https://docs.google.com/document/d/e/2PACX-1vRdYOC2kLATTVIwRpAI0tTW6acTXNDNtZRQa8Ioy15RfosNn6Wbvz4e4oPRYIrHt9svUIB3pelGQXSE/pub)
+^(Tags: Shiori, Mystery, SFW, Drama, Adventure, Comedy)
+
 
 ###NSFW archive
 Here you can find all the NSFW fics that have been submitted for the contest.
@@ -86,4 +97,7 @@ Here you can find all the NSFW fics that have been submitted for the contest.
 [Gravity's Rainbow](https://docs.google.com/document/d/e/2PACX-1vQf1wqsvCuyD9kzDH7v3k3RYtlsAK__IRQCDAEctj20rJllnZohytFo-Dy9xbL5WpfvxGZ-WEr8z6Ni/pub) (NSFW, Mori, Korone, Vore, Komodo Dragon)
 [I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be the Internet Idol Hoshimachi Suisei!](https://docs.google.com/document/d/e/2PACX-1vTJyQudJBozdhuqG2AiLx437YyIi1sTxtqpQXzh7Sa_eZ07Lb42QarXYZnZIQgteColiJ46W7YDFzUT/pub) (NSFW, Suisei, Yagoo, A-chan, Sora, (lots of) Incest, Drama, Comedy, Scratching, Biting)
 [Please, Mrs. Usada!](https://docs.google.com/document/d/e/2PACX-1vRIuEVDjeLxTSnmzUuHf1RavArK665wNktjmCIIz7xpaJ7oIvzogmt-3nHEeAEE1tFWPGpz2Z7Q63BG/pub) (NSFW, Pekomama, /ss/, cheating)
-[FacelessDegenerates,com](https://rentry.org/wzcar)(NSFW, Noel, Dark, Misery porn, **Interactive!**)
+[FacelessDegenerates,com](https://rentry.org/wzcar) (NSFW, Noel, Dark, Misery porn, **Interactive!**)
+[Roboco's new upgrade](https://docs.google.com/document/d/e/2PACX-1vRyVEow1X-vyUArSQ7eGfyLTX3inh3lEx2_L8Qwdy4CGlQnxxmh-nF1nU3H9igpjg1I-LVCvoRX8akI/pub) (Roboco, NSFW, insest-ish)
+[Milky way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub) (NSFW, Suisei, Noel, Breast Expansion, Lactation)
+[Tainted idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Tokino Sora, NSFW, fake rape)

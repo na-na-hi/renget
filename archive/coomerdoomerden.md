@@ -99,6 +99,6 @@ https://www.chub.ai/characters/thiasus/Ada
 https://files.catbox.moe/pqsequ.zip
 ####Amazing Lobster Fanart
 https://rentry.org/lobsterchan
-->Anna<-|->Marii<-| ->Bonnie 1<- | ->Bonnie 2<- | -> Rafi <- |
---- | --- | --- | --- | --- |
-![Anna](https://files.catbox.moe/43rv1z.png)                              | ![Marii](https://files.catbox.moe/by20o5.png)                              | ![Bonnie 1](https://files.catbox.moe/sylo49.png)                              | ![Bonnie 2](https://files.catbox.moe/071s90.png)                              | ![Rafi](https://files.catbox.moe/2fci66.png)                              |
+->Anna<-|->Marii<-| ->Bonnie 1<- | ->Bonnie 2<- | -> Rafi <- | -> Sara <- |-> Dahlia <- | -> Inessa <- |
+--- | --- | --- | --- | --- | --- | --- | --- |
+![Anna](https://files.catbox.moe/43rv1z.png)                              | ![Marii](https://files.catbox.moe/by20o5.png)                              | ![Bonnie 1](https://files.catbox.moe/sylo49.png)                              | ![Bonnie 2](https://files.catbox.moe/071s90.png)                              | ![Rafi](https://files.catbox.moe/2fci66.png)                              | ![Sara](https://files.catbox.moe/f2xcx8.png)                              | ![Dahlia](https://files.catbox.moe/qdsiox.png)                              | ![Inessa](https://files.catbox.moe/tatvse.png)                              |

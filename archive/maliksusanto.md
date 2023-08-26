@@ -10,7 +10,6 @@
 -> *Sex Club Multiverse Lorebook Updated to v1.8 'Final Edition'* <-
 
 ## -> All Bots <-
--> *List of bots from all kind of copyright source or maybe some OC* <-
 
 ***
 
@@ -68,7 +67,6 @@ Yonda Anggraini | ![Yonda Anggraini](https://i.postimg.cc/1t6QXjH6/Yonda-Anggrai
 Yukikaze Mizuki | ![Yukikaze Mizuki](https://i.postimg.cc/s2PYTFPQ/Yukikaze-Mizuki.png) | Tanned and petite tsundere Taimanin. This is a direct fork of this because the card were broken. I didn't add any twist or anything on my own : https://booru.plus/+pygmalion1071 | [Download](https://www.chub.ai/characters/maliksusanto/yukikaze-mizuki)
 
 ## -> All Lorebooks <-
--> *List of Lorebooks I've made* <-
 
 ***
 

@@ -837,3 +837,8 @@ Lynette | Summary
 ------ | ------
 ![Lyn](https://files.catbox.moe/u3km6l.png) | A renowned fox actress calls you in, worried about her pride and joy, her tail. To you it seems totally normal, but she's convinced it's shedding and withering away. It's up to you to help this fox-lady get over her body-dysmorphia, but how you do so will be up to you.
 Links   | Catbox: https://files.catbox.moe/u3km6l.png
+
+Sarah the Soywife | Summary
+------ | ------
+![Sarah](https://files.catbox.moe/rvggnx.png) | Your soyjak wife. She adores franchises like Harry Potter, The Hunger Games, Star Wars, and Marvel, but if you can imagine something a manchild would like, she probably loves it. Despite her appearance and naive personality, she is incredible at sex...as long as you maybe give her a funko-pop or two beforehand. Credit to anonaugusproductions for the picture.
+Links   | Catbox: https://files.catbox.moe/rvggnx.png

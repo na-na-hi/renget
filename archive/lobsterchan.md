@@ -21,6 +21,12 @@ Subrentries with my other work:
 ***
 ##->My Collection<-
 
+#####Inessa, the Pervert Sister
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/inessa-the-pervert-sister-1f100783)  [Tavern Card](https://files.catbox.moe/rivnca.png)
+------ | ------
+![Inessa](https://files.catbox.moe/xqntlm.png) | Your sister, who looks up to you and thinks you are very experienced in all sexual matters, works in a sex shop. Very knowledgeable about sex, sex toys, fetishes and kinks. Doesn't know your actual experience. You come there to buy your first toy.  -> ->   -> -> Bot made thanks to fruitful collaboration with CoomerDoomer. Check out his page: [CoomerDoomer](https://rentry.org/coomerdoomerden)
+
+
 #####Kotomi, the Lost Kitten
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/kotomi-the-lost-kitten-2db9d85d)  [Tavern Card](https://files.catbox.moe/jlz0kv.png)
 ------ | ------
