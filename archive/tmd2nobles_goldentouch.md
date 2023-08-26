@@ -1,45 +1,40 @@
-![Kubfu](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/EBKBPjasaxiTEkuIulTLiHps) 
+-> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
+->![The golden touch](https://pixeldrain.com/api/file/6cWWszpu)<-
+### Golden Touch (Absol) (wip) ♀
+####**"How much will it cost?"**
 
-### Kaz ♂
-==REPLACE WITH PARAGRAPH BIO OR DESCRIPTION OF CHARACTER REPLACE==
-Kaz is a country bumpkin from some red-neck area of the US of A.
-Off racing with his BMX friends preparing for the next big competition, of which he is an avid racer, he remembers he has to pick up his little sister from day care!
-On his rush back to civilization, he loses control on a suspicious mud puddle...
-Now he's a...teddy bear???
-He's gotta find a way back home and pick up his sister before Ma and Pa find out!
-
+Born in a noble family, she was not a fan of the control and etiquette due to being the next in line to receive the title, and as such, she escaped with her distant cousin, and became adventurers, that was until a familiar event and a break with her cousin made her decide to take her birthright role as the next in kin of the [TBD] family in the table of the nobles, from then on, discovering a certain affinity with money and investments, she has used her fortune to push the kingdom in the direction she intends, a place of wonders and business, while funding her cousin's team in secret
 · | ->· ->
 ---- | ----
-**Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
-**Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Origin:** Native | **Kingdom Role/Occupation:** Noble/Benefactor
+**Species:** Absol | **Affiliation:** Rantrum Kingdom
+**Level:** 63 | **Experience to Next Level:** 0/50
+**Worn Item:** *N/A* | **Clothing:** Golden bracelets, golden horn ring
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Inner Focus | The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.
+Justified | When the User is hit by a Dark-Type Move, their Attack is increased by 1.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->*N/A*<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Health Points | 1 | Specie bonus; Level 5 (20HP) | 22 HP
+Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-ROCK SMASH | 4BP | 6AP | ≥4 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
-Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-Endure | 0BP | 4AP | ≥2 | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Splash      | - | 1AP | - | Normal | Status | The User splashes around.
+Play Nice  | - | 4AP | - | Normal | Status | The Opponent's Attack is decreased by 1. Ignores Protect Moves.
+Razor leaf | 5BP | 5AP | ≥2 | Grass | Physical | 18-20; Increased Crit Ratio. Multi-Target. Effective at destroying woodland hazards.
+N/A | - | - | - | - | - | -
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -50,30 +45,22 @@ Eᴍᴘᴛʏ | Description
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
-!!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
+!!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯
+    0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | User's IP is increased by 2. Granted from Fragmented or Anamnesis | 0
+1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
-Eᴍᴘᴛʏ | Description. | N/A
+Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
 Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
-These may help you in segments where combat is unnecessary or just to simply show your prowess.
+    These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
-Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
-
+N/A  | Tier **N/A** | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -101,7 +88,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Golden horn ring and bracelets | A mere vanity, and Golden Touch's announcement 
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

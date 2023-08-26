@@ -241,8 +241,10 @@ Here are some name examples. Longer names might be shortened during actual use:
 - Four Stars in Splendor
 - Red Skies Above
 - Comets in a Glass
+- Two Scarves beneath Serenity
 - Broken Circle, Uneven Rhythm
 - Crashing Waves, One Thousand Songs 
+- Hushing Whispers under Waning Moonlight
 
 ### Aging and Maturity
 They tend not to have very long stages of "useless or defenseless infant," compared to a human. While it may vary from species, they still experience a time when they must be taught to understand their surroundings. Usually they can just battle straight out of the egg (with several degrees of "effective"). Even evolution might not signify maturity between individuals. When they have proven themselves capable of handling tough situations and maintaining a level of composure, that is when the other villagers recognize their transition into adulthood.

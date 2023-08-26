@@ -25,6 +25,7 @@ stage 3 routes with no seasonals
 Videos:
 [Vash](https://www.youtube.com/watch?v=8HyPM8H6U9k)
 [Eruru](https://www.youtube.com/watch?v=gCi79eOkJKc)
+[leonmaru](https://www.youtube.com/watch?v=9o9sarR1j_o)
 ### Boss 1
 [B1 47m physical](https://www.youtube.com/watch?v=WrD_8qDqgDI)
 ![](https://pomf2.lain.la/f/l3kb0id.png)

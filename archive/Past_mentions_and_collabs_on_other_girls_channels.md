@@ -75,6 +75,7 @@
 |10/08/2023|[Timestamp #1](https://youtu.be/ixMyHJmLHLI?t=7445) [Timestamp #2](https://youtu.be/4cu0466F_B0?t=2512)|**Streamer-chat interactions** - Greetings & mention of the 400k subscribers plus the God-Ish / 神っぽいな cover.|
 |19/08/2023|[Timestamp](https://youtu.be/ze4SGtNX_9s?t=2703) |**Mentions** - Mention by Bijou about Nerissa's cluelessness about 'helpers and the case of "Nerissa's XXL Milkers".|
 |23/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=G4sq5b7zmtE&t=21826s) [Timestamp #2](https://youtu.be/G4sq5b7zmtE?t=23337)|**Streamer-chat interactions** during Bijou's Elder Ring #4 stream. Nerissa was watching in order to give Bijou's instructions regarding work.|
+|25/08/2023|[Timestamp](https://youtu.be/aN0meN5v6rw?t=4300) |**Mention** - During heer fourth HoloCure stream, Bijou talks about Nerissa sharing videos about who's the flattest Holomem.|
 |26/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
 
 

@@ -13,6 +13,9 @@ Having them be replies to OP makes it easy for me (and others) to see
 
 Please post Miyoshi Takane? She's very cute
 Last read: #3295
+
+**WILL ADD: Mass Erosion, and how to defend against it** (so you don't spend 999999 ap on reclaiming your tiles)
+
 -----------
 #A-HA Conquest Route
 Because I can make lines on MS Paint at 12 midnight like a drunken sailor.

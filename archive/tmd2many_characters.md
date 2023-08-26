@@ -35,6 +35,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A
 [Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | N/A
 [Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | N/A
+[Skitty](https://rentry.org/d6w5h) | Ex-Human (Fragmented) | Skitty | N/A | N/A
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | N/A
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
@@ -47,6 +48,11 @@ Example | Ex-Human | Species | Adventurer | Team Generic
 	An example has been provided below to follow. 
 Name | Origin | Pokémon | Occupation | Affiliation 
 :----: | :----: | :----: | :----: | :----:
+[General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
+[Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
+[Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini
+[Roaring, Burning Darkness](https://rentry.co/tmd2character_RoaringBurningDarkness) | Native | Roaring Moon | Bishop | Ho'oha Priest
+[Roswen Flame Eater](https://rentry.co/roswen) | Native | Walrein | Clan Elder | Clan ???
 [Light](https://rentry.co/tmd2many_characters_light) (Example) | Native | Raboot | Wannabe-Peacekeeper | "Justice" 
 [Shinra](https://rentry.co/tmd2many_characters_shinra) (Example) | Native | Scizor | Guild Master | Globetrotter's Guild
 Example | Native | Species | Outlaw | Tutorial Town

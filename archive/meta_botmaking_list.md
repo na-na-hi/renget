@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-08-19)==<-
+->==(Updated 2023-08-26)==<-
 ***
 [TOC2]
 ***
@@ -71,7 +71,7 @@ Edit: 08 Aug 2023 13:48 UTC
 
 *"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***
-## Some rentries containing tips, but not about botmaking overall
+## Some rentries containing tips for roleplaying, but not about botmaking overall
 
 1. myclaudecantbethiscute
 https://rentry.org/myclaudecantbethiscute
@@ -83,6 +83,11 @@ https://rentry.org/TURBOSHIT
 [27 May 2023 No.93700208](https://desuarchive.org/g/thread/93698139/#93700208)
 *"some quick shitty rentry about some turbo stuff I learned"*
 [](3. HochiTurboTips https://rentry.org/HochiTurboTips [31 May 2023 No.93783480](https://desuarchive.org/g/thread/93781919/#93783480) *"Tips on OAI settings, plus a few prompt sets for old and new Turbo models"*)
+
+3. Fine-tuning gpt-3.5-turbo-0613 for roleplay
+https://rentry.org/turbo_ft
+[26 Aug 2023 No.95604296](https://desuarchive.org/g/thread/95602397#95604296)
+*"a small write-up guide on fine-tuning Turbo with some scripts to make the process easier and example cringe 'dataset' too"*
 
 ***
 ***

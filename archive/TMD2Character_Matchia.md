@@ -6,7 +6,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** The EDO guild, whatever that may be.
+**Species:** Mienfoo | **Affiliation:** Herself
 **Level:** 5 | **Experience to Next Level:** 0/50
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars

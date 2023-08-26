@@ -436,9 +436,13 @@ Moves that always target all available Opponents, such as Earthquake, are called
 
 *Some Moves are more graceful than others, and are not only easier to use, but also often unexpected.*
 
-Moves that have AP Costs lower than what they would normally be, such as Quick Attack, are called Priority Moves. When they are used on an Opponent who has not been damaged by an attack before, they deal increased damage as they are caught by surprise. 
-- When the User uses a Priority Move, they will deal increased damage 1:1 with the decreased AP Cost of the Move when targeting Opponents who haven't been harmed yet, I.E. Quick Attack will deal +1 damage, and Extreme Speed will deal +2 damage.
-	- This effect only activates when the Opponent has not been damaged by an Attacking Move or Status Condition. If they have been damaged by Weather Conditions, Traps, or otherwise, the effect still applies.
+Moves that have AP Costs lower than what they would normally be, such as Quick Attack, are called Priority Moves. When they are used on an Opponent who has not been damaged by an attack before, they deal increased damage as the Opponent is caught by surprise. 
+
+![Eevee used Quick Attack!](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/CnPIGYaIaCuasYlJnrczplsY)
+- When the User uses a Priority Move, they will deal increased damage 1:1 with the decreased AP Cost of the Move when targeting Opponents who *haven't been harmed yet*, I.E. Quick Attack will deal +1 damage, and Extreme Speed will deal +2 damage. This is signified by the (-x) next to the base AP cost of the Move, such as Quick Attack's 5(-1) AP.
+	- This effect **only** activates when the Opponent *has not* been damaged by an Attacking Move or Status Condition. If they have been damaged by Weather Conditions, Traps, or otherwise, the effect *still* applies.
+	- When Priority Moves **lose their Priority**, be it due to Psychic Terrain or Queenly Majesty, their AP reduction is **removed**, and with it, the surprise attack mechanic.
+
 
 #### Healing Moves
 

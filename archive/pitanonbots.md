@@ -74,7 +74,7 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 !!!DANGER Delete your Author's Note and edit the "EDIT YOUR CHARACTER HERE" prompt instead of using the Persona Management tab if you use the prompt list, also change the new chat field to "[Role-play starts]"
 
 
--> **Based on https://rentry.co/CharacterProvider-VersionHistory#beta-v8** <-
+-> **Based on v8 https://rentry.co/CharacterProvider** <-
 #Main
 ```
 # SCENARIO

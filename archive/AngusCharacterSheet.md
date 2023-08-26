@@ -34,7 +34,7 @@ Attack | 1 | Species Bonus | +1 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
+Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description

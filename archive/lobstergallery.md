@@ -24,6 +24,18 @@ I want to send huge thanks to everyone who sent me artworks! You are amazing!
 --- | --- | --- | --- | --- | ---
 ![Valerie](https://files.catbox.moe/g2c8nn.png)                              | ![Valerie](https://files.catbox.moe/xjo28w.png)                              |![Valerie](https://files.catbox.moe/ecdthm.png)                              | ![Valerie](https://files.catbox.moe/6myw4e.png)                              | ![Valerie](https://files.catbox.moe/ln8w18.png)                              | ![Valerie](https://files.catbox.moe/q3ra6g.png)                              |
 
+####Rafi, the Closeted Nerd
+->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Skinnier version<-|->Pregnancy - Fan art by CoomerDoomer<-|
+--- | --- | --- | --- | ---
+![Rafi](https://files.catbox.moe/sgb00j.png)                              | ![Rafi](https://files.catbox.moe/3mcnvi.png)                              |![Rafi](https://files.catbox.moe/da7s0g.png)                              | ![Rafi](https://files.catbox.moe/zmt2bw.png)                              | ![Rafi](https://files.catbox.moe/6s6tg3.png)                              |
+
+
+####Kanae, the Blackmailing Gyaru
+->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Mashup of first ideas<-|->Pigtailed version<-|
+--- | --- | --- | --- | ---
+![Kanae](https://files.catbox.moe/lvajnd.png)                              | ![Kanae](https://files.catbox.moe/3xfpty.png)                              |![Kanae](https://files.catbox.moe/6d1xdp.png)                              | ![Kanae](https://files.catbox.moe/nn330b.png)                              | ![Kanae](https://files.catbox.moe/wzfnm1.png)                              |
+
+
 ####Raccy, the Raccoon Girl
 ->Card image<-|->One of the first drafts<-|->Raccy and Dody - art made by wster<-|->Fan art made by uncoolreisen<-|
 --- | --- | --- | ---

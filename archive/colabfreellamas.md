@@ -1,5 +1,6 @@
 #host a HUFFLEPUFF on Colab for free 
-download the Jupyter Notebook https://files.catbox.moe/kd79da.ipynb (updated: no logs, 7500 context and  --alpha_value to 2.565 set automatically)
+download the Jupyter Notebook https://files.catbox.moe/jgqjre.ipynb (5500 context, use if you have issues with the updated notebook)
+https://files.catbox.moe/kd79da.ipynb (updated: no logs, 7500 context and  --alpha_value to 2.565 set automatically)
 go to https://colab.research.google.com and login and stuff
 upload the notebook, you should now be here
 ![colab](https://files.catbox.moe/4ijyz5.png)

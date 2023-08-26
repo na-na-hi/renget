@@ -55,3 +55,5 @@ e. text-generation-inference command line that worked for me:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic
 ```
+f. Power limit your GPU for marginally less performance - You can limit your GPU to use ~75% of their max power for roughly the same performance, it will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
+![T](https://files.catbox.moe/v6qkcv.jpg)

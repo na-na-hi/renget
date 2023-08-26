@@ -32,5 +32,6 @@
 |------|-----|-----|-----|-----|-----|
 |06/08/2023|  Archived |【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼 [![](https://files.catbox.moe/n3c4sk.png) YT](https://www.youtube.com/watch?v=GiAWeVZAXIQ) |![](https://files.catbox.moe/xt6qz3.jpg)|~30min.| https://files.catbox.moe/pmpl0f.txt |
 |20/08/2023| Unarchived |【UNARCHIVED KARAOKE】Singing 2000's bops! 🎼[🧲 Magnet](magnet:?xt=urn:btih:8cd8e1402d0f317990a79b68bddce8d07e7f0d8f&dn=%5B20230821%5D%20Unarchived%202000s%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)[🔴mega](https://mega.nz/file/CVdEWCTb#p5bLZxS9hEtepnBnJzXfs3NOPGBYZBTN2vN41zQ3fEo) |![](https://files.catbox.moe/d2526y.jpg)|~2h09|https://files.catbox.moe/3q83hv.txt|
+|'In 3 Weeks'| - |-|-|-|-|
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v0)->

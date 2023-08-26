@@ -1,19 +1,21 @@
 ## /kkg/ Thread Archive
-[Last Updated: 25.08.2023 20:30 UTC]
+[Last Updated: 26.08.2023 02:30 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7541845/](https://boards.4chan.org/h/thread/7541845/)
+Current thread - [boards.4chan.org/h/thread/7545435/](https://boards.4chan.org/h/thread/7545435/)
+Trash - [boards.4chan.org/trash/thread/59068586/](https://boards.4chan.org/trash/thread/59068586/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 625&nbsp;&nbsp;[archiveofsins.com/h/thread/7545435/](https://archiveofsins.com/h/thread/7545435/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 00:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Holy Chikarin edition
 - 624&nbsp;&nbsp;[archiveofsins.com/h/thread/7541845/](https://archiveofsins.com/h/thread/7541845/)&nbsp;&nbsp;&nbsp;&nbsp;(23.08.2023 03:35)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Mecha For No Reason In Particular edition
 - 623&nbsp;&nbsp;[archiveofsins.com/h/thread/7537949/](https://archiveofsins.com/h/thread/7537949/)&nbsp;&nbsp;&nbsp;&nbsp;(20.08.2023 15:38)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lunchtime edition
 - 622&nbsp;&nbsp;[archiveofsins.com/h/thread/7534503/](https://archiveofsins.com/h/thread/7534503/)&nbsp;&nbsp;&nbsp;&nbsp;(18.08.2023 01:17)&nbsp;&nbsp;[1381]&nbsp;#&nbsp;Back to School Edition
 - 621&nbsp;&nbsp;[archiveofsins.com/h/thread/7531453/](https://archiveofsins.com/h/thread/7531453/)&nbsp;&nbsp;&nbsp;&nbsp;(15.08.2023 20:03)&nbsp;&nbsp;[1034]&nbsp;#&nbsp;Raining Chika's Edition
-- 620&nbsp;&nbsp;[archiveofsins.com/h/thread/7527028/](https://archiveofsins.com/h/thread/7527028/)&nbsp;&nbsp;&nbsp;&nbsp;(12.08.2023 23:12)&nbsp;&nbsp;[1204]&nbsp;#&nbsp;The Future is a Dismal Place Full of Rats and AI Art Edition
 ---
 Archive:
 
+- 620&nbsp;&nbsp;[archiveofsins.com/h/thread/7527028/](https://archiveofsins.com/h/thread/7527028/)&nbsp;&nbsp;&nbsp;&nbsp;(12.08.2023 23:12)&nbsp;&nbsp;[1204]&nbsp;#&nbsp;The Future is a Dismal Place Full of Rats and AI Art Edition
 - 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Lounge edition
 - 618&nbsp;&nbsp;[archiveofsins.com/h/thread/7519188/](https://archiveofsins.com/h/thread/7519188/)&nbsp;&nbsp;&nbsp;&nbsp;(07.08.2023 20:37)&nbsp;&nbsp;[1117]&nbsp;#&nbsp;Something Memorable Edition
 - 617&nbsp;&nbsp;[archiveofsins.com/h/thread/7515576/](https://archiveofsins.com/h/thread/7515576/)&nbsp;&nbsp;&nbsp;&nbsp;(04.08.2023 22:03)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Gym Edition
@@ -93,6 +95,7 @@ Archive:
 ---
 Trash:
 
+- 015&nbsp;&nbsp;[desuarchive.org/trash/thread/59068586/](https://desuarchive.org/trash/thread/59068586/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 02:22)&nbsp;&nbsp;[0]
 - 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[307]
 - 013&nbsp;&nbsp;[desuarchive.org/trash/thread/56983608/](https://desuarchive.org/trash/thread/56983608/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:39)&nbsp;&nbsp;[309]
 - 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[301]

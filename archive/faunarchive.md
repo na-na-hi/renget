@@ -820,6 +820,36 @@ Set list (stream starts at 0:18):
 
 [warosu](warosu.org/vt/thread/54574378#p54574906)
 
+#### August 2023
 
+##### 【#Faunaversary2023】 Unarchived karaoke in 3D with MOCOPI!
+[2023-08-25](https://www.youtube.com/watch?v=g3UiN2rsqpI)
+
+[magnet](magnet:?xt=urn:btih:8f04cff52f263ab393024c96a0591c47cc72fac1&dn=%5B20230826%5D%20Unarchived%20Faunaversary%203D%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[audio only mega](https://mega.nz/file/5pRgRIZL#OUY0Ry6boVtaLs0xS-v_klvlsz1k8cL0EY5XUhyrdPE)
+
+Set list (stream starts at 2:44):
+1. Village People - Y.M.C.A. (5:41)
+2. Queen - Bohemian Rhapsody (11:35)
+3. My Chemical Romance - Welcome to the Black Parade (19:42)
+4. The Cardigans - Lovefool (26:35)
+5. Vance Joy - Riptide (30:39)
+6. Scissor Sisters - I Can't Decide (34:51)
+7. Conan Gray - Maniac (39:07)
+8. Taylor Swift - Blank Space (42:51)
+9. Smash Mouth - All Star (47:09)
+10. Gorillaz - Feel Good Inc. (52:02)
+10. BENEE, Gus Dappteron - Supalonely (56:30)
+11. Owl City - Vanilla Twilight (1:01:14)
+12. Arctic Monkeys - 505 (1:06:02)
+13. The Ronettes - Be My Baby (1:10:30)
+14. Cascada - Everytime We Touch (1:13:58)
+15. Paramore - Still into You (1:18:04)
+16. OutKast - Hey Ya! (1:23:39)
+17. No Doubt - Don't Speak (1:29:01)
+18. Britney Spears - Toxic (1:34:07)
+
+
+[archive](https://archive.palanq.win/vt/thread/56985000/#56985898)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

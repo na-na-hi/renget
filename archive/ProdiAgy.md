@@ -4,7 +4,7 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info 24 August: Closer and Closer to Perfection.
+!!! info 26 August: Perfect general settings finally reached? Needs more testing on a variety of datasets, will update CivitAI later.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
@@ -18,7 +18,7 @@
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. Keep seed unset and retry until you get a good result.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for 160 steps to finish then manually close. Keep seed unset and retry until you get a good result.*== <-
 ###Instructions:
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
@@ -29,11 +29,11 @@
 !!! note ==OPTIONAL. NOT NEEDED IF T_0 IS SET CORRECTLY: Use Batch Size then adjust t_max accordingly. ```This has been set to 10 here which should fit within 6GB VRAM and above. Recommend standardizing 10 so that even people on low VRAM can get similar training results as you by following metadata.```==
 !!! warning Don't use Gradient Accumulation, it slows training and is worse than its alternative Gradient Checkpointing.
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
-!!! danger  ==OPTIONAL. NOT NEEDED IF DATASET, D_COEF AND T_0 ARE GOOD:== ```Adjust weight_decay, any value from 0 to 10 should provide epic results (based on your d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! danger  ==OPTIONAL. NOT NEEDED IF DATASET, D_COEF AND T_0 ARE GOOD:== ```Adjust weight_decay, any value from 0 to 1 should provide epic results (based on your d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! note Clip Skipping a layer or two is a good way to regularize training further.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: decide on train_on_input true/false and thats all. Keep seed unset and retry until you get a good result.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for 160 steps to finish then manually close. Keep seed unset and retry until you get a good result.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -54,7 +54,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d0=5e-3\" \"d_coef=0.5\" \"weight_decay=6.0\" \"safeguard_warmup=False" \"use_bias_correction=False\"",
+  "optimizer_args": "\"growth_rate=1.3\" \"d0=5e-3\" \"d_coef=0.5\" \"weight_decay=0.3\" \"safeguard_warmup=False\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
