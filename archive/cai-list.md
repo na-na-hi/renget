@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==07/06/23==) <-
+-> forgotten edition (Updated ==08/26/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -14,6 +14,7 @@ Bot | Creator | Desc
 [Caius Cosades](https://beta.character.ai/chat?char=bBB0VnR7bZZxaJUVVX2JPcRca_1A2FurSO5i3kUBtrw)|@RATLOVER|The spymaster from Morrowind.
 [Captain Pronin](https://beta.character.ai/comms?char=1EI0CXE_yON_UL7r8v5iaLOhvgRVjEcr-QBhSYET5fA)|@Fox_Man|Russia's greatest detective.
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
+[Cricket](https://beta.character.ai/chat?char=F06CpIZsUQ0UI3GOT5On7516RWsO6AlXF1Jz0-m2P0k)|@cutenotlewd|Unlucky adventurer who just can't catch a break!
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
 [Honkman](https://beta.character.ai/chat?char=mNXotVqU643H9Zt4KhwoA-chBFGc7L_f3mB-sZmsX1c)|@Soulsmelt|Clown-themed super hero mentors you as a sidekick.
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.

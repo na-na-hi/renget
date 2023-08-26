@@ -7,9 +7,15 @@ Main page|
 -> 🔞SillyTavern enthusiast, Claude enjoyer <-
 
 -> Send a cute m/f kobold, feedback and suggestions here: **slurpycider@proton.me** <-
+-> I read every email and try to implement your suggestions and findings in settings. <-
 #
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-
 # 
+
+!!! warning 
+	[🌴 **Vacation**](https://www.youtube.com/watch?v=6YP_qUFOleU)
+	**ENG:** I am tired. Waiting for a new model to arrive. I still do read emails tho.
+	**RUS:** Я устал и отдыхаю до выхода новой сетки. Отвечаю только на почте и ((там)). 
 
 ######CHOOSE PREFERED VERSION:
 Date | Update | Description
@@ -149,7 +155,7 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
 #
-!!! info **How do I use this?**
+!!! **How do I use this?**
 	1. Download settings
 	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
 	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
@@ -177,10 +183,10 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
 #
-!!! info **How do I use this?**
+!!! **How do I use this?**
 	1. Download settings
 	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import) You'll have to do it in every new chat!)
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!

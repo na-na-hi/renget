@@ -175,6 +175,7 @@ https://docs.alpindale.dev
 https://rentry.org/hostfreellamas
 https://rentry.org/colabfreellamas
 - how to host a llama proxy for yourself or for others
+- also check out the link at the bottom of this rentry, containing the same links and more
 
 ##### Some stuff that is still unsorted
 
@@ -254,6 +255,12 @@ https://rentry.org/mikugg
 https://github.com/TavernAI/TavernAI
 - frontend for OAI and Kobold; local install
 
+***
+
+!!! info
+    #### ~Meta~
+    Various meta things.
+
 ##### ~Memories~
 https://mega.nz/folder/LXxV0ZqY#Ej35jnLHh2yYgqRxxOTSkQ
 - collection of /vt/ chatbot logs from old days
@@ -267,6 +274,10 @@ https://rentry.org/weirdbutfunjailbreaksandprompts
 
 https://rentry.org/jinxbreaks
 - collection of jailbreaks to set the tone of a roleplay
+
+##### ~Tech stuff~
+https://github.com/CncAnon1/TurboFinetuneRP
+- how to fine-tune gpt-3.5-turbo-0613 for roleplay
 
 ***
 

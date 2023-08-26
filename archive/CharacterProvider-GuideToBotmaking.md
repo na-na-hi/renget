@@ -6,9 +6,7 @@
 ##->  CharacterProvider Guide to Botmaking<-
 -> 🔞SillyTavern enthusiast, Claude enjoyer <-
 # 
--> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) [![](https://files.catbox.moe/zbtjt2.png)](https://rentry.co/CharacterProvider-VersionHistory)  <-
-
--> *Get **==BETA==** V7+ presets in version history.* Feedback/suggestions: slurpycider@proton.me<-
+-> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-
 #
 - - -
 ##Contents:

@@ -397,3 +397,6 @@ https://arch.b4k.co/vp/thread/54307464/ 8 weedle infestation
 https://arch.b4k.co/vp/thread/54309922/ 9 the one that I kinda slept through
 https://arch.b4k.co/vp/thread/54316821/ 10 cults and cancer
 https://arch.b4k.co/vp/thread/54326134/ 11 the circus
+https://arch.b4k.co/vp/thread/54332296/ 12 reborn devs try not to make every character insufferable challenge (impossible)
+https://arch.b4k.co/vp/thread/54340819/ 13 ow the edge
+https://arch.b4k.co/vp/thread/54347351/ 14

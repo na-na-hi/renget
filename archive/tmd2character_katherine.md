@@ -1,7 +1,7 @@
 -> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
-->![The ball](https://pixeldrain.com/api/file/2xuoy3CB)<-
+->[![The ball](https://cdn.discordapp.com/attachments/1145015302707499090/1145015928455704627/0761Bounsweet1.png)](https://www.google.com)<-
 ### Katherine (Bounsweet) (wip) ♀
-Things can only go up!
+#####"Things can only go up!"
 
 She can barely remember things from her world, not even her name! But as the darkness dragged her to this other realms, taking her arms, legs, and other things, she dragged something with her, her experience as a master engineer and architect!
 · | ->· ->

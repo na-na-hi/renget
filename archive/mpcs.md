@@ -52,6 +52,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 ##Recently Updated!
 !!!info
 	Toby Daniels (Cross-dressing Scenario) [8/23/23] - Minor updates to intro and description for better clarity.
+	Toby Daniels (SFW&NSFW Variants) [8/26/23] - New, much higher quality art! His older art was over a year old, and needed an update <3
 
 ## Charater Cards [SFW]
 
@@ -75,7 +76,7 @@ Formatted with: Scrip+Boostyle
 [.Json](https://files.catbox.moe/r2wq7m.json)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/s0t87p.png)
+![Tavern Card](https://files.catbox.moe/v2j0xs.png)
 
 ### Test Template [OC] [Female] [Character Template] [Utility]
 
@@ -829,7 +830,7 @@ Formatted with: Scrip+Boostyle
 [SpicyChat](https://spicychat.ai/chat/ae7f001a-0be8-421e-ba64-62ed37e78c1b)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/qymkp2.png)
+![Tavern Card](https://files.catbox.moe/30k0wa.png)
 
 ### Toby Daniels (Cross-dressing Scenario) [OC] [Male] [Nerd] [LGBT] [Variant] [Crossdresser] ==THE SECOND BEST== [HOT] ["The Best Femboy On The Market" - Barack Obama]
 

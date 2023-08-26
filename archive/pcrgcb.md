@@ -57,9 +57,9 @@ Labyrista 5★ Lv280 R29 FULL EX 5/3/5
 ![](https://pomf2.lain.la/f/6qg5a6cw.png)
 ![](https://pomf2.lain.la/f/b6ms1b1u.png)
 ### Boss 3
-[B3 58m physical](https://www.youtube.com/watch?v=ZPK2X8-gOk8)
-56-57m with 3★ Kurumi
-![3](https://pomf2.lain.la/f/5xgkavay.png)
+[B3 59m physical](https://www.youtube.com/watch?v=eQWzCCvfDqs)
+57-58m with 3★ Kurumi
+![3](https://pomf2.lain.la/f/t0gtzw2.png)
 tested with:
 Djeeta 6★ Lv280 R29 FULL, EX 5/3/5
 S.Shinobu 5★ Lv280 R30 FULL, EX 5/3/5
@@ -67,7 +67,7 @@ Christina 6★ Lv280 R30 FULL EX 5/0/5 **NEEDS XCHRIS BONDS if Kurumi is 3★**
 Labyrista 5★ Lv280 R29 FULL EX 5/3/5
 St.Kurumi ★5 Lv280 RANK 29, EX 5/0/5 (Done with R30 as well - 3★ Kurumi needs at least 66241 HP and 39TP Boost to do this TL)
 
-![3](https://pomf2.lain.la/f/g8hvjrqk.png)
+![3](https://pomf2.lain.la/f/rlnmnexr.png)
 
 [B3 55m physical](https://www.youtube.com/watch?v=LTiBKatRrAc)
 ![](https://pomf2.lain.la/f/zbkr6i8u.png)

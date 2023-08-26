@@ -5,7 +5,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** *N/A*
+**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Item Specialist
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
 **Level:** 5 | **Experience to Next Level:** 0/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*

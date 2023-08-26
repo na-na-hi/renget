@@ -115,5 +115,6 @@
 |25/08/2023|99|Mentions & Collabs|Addition of a timestamp containing a mention during Bijou's 4th HoloCure stream.|
 |25/08/2023|100|Music|Placeholder for a probable sixth cover|
 |25/08/2023|101|Music|Addition of the cover of Magia from Kalafina|
+|26/08/2023|102|Mentions & Collabs|Addition of a timestamp containing a mention during Lui's Minecraft stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -30,21 +30,21 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Gin](https://files.catbox.moe/kvj485.png)|[Emily](https://files.catbox.moe/knougf.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc |[Mallory](https://files.catbox.moe/kpya0u.png)|[Mallory](https://files.catbox.moe/kpya0u.png) [MV]
 [CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png), [Victoria](https://files.catbox.moe/41izyw.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV], [Ilulu](https://files.catbox.moe/46uoh2.png), [Victoria](https://files.catbox.moe/41izyw.png) [MV]
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png), [Shula](https://files.catbox.moe/4xyhcs.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png)
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV], [Ilulu](https://files.catbox.moe/46uoh2.png), [Victoria](https://files.catbox.moe/41izyw.png)
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png)
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Caroline](https://files.catbox.moe/lw6gwh.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Atlas](https://files.catbox.moe/7iaffv.png)|
 [Phalannex](https://rentry.co/phalannex) | Misc |[Nilou](https://files.catbox.moe/wec999.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc |[Lyrie](https://files.catbox.moe/k6teux.png), [Brie](https://files.catbox.moe/2ruvf2.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Riktis Von Cleef](https://files.catbox.moe/g00d30.png), [Parm](https://files.catbox.moe/nyanwa.png), [Yaeko](https://files.catbox.moe/7k3kpi.png), [Poppy](https://files.catbox.moe/qdga16.png), [Tsukiko](https://files.catbox.moe/26k3i4.png), [Aina](https://files.catbox.moe/2uknep.png), [Kierine](https://files.catbox.moe/i2h6c0.png), [Faultless Scrolls](https://files.catbox.moe/zewrc3.png), [Eli](https://files.catbox.moe/53dajk.png), [Josie](https://files.catbox.moe/3hfrr7.png), [Dallas](https://files.catbox.moe/9f1dsj.png), [Kumonoue](https://files.catbox.moe/pwx79g.png), [Eri](https://files.catbox.moe/5uo5wr.png), [Kagechi](https://files.catbox.moe/gn3lo0.png), [Hure](https://files.catbox.moe/knzmpa.png), [DaeHyun](https://files.catbox.moe/knxuq3.png), [Midori](https://files.catbox.moe/0ib87y.png), [Aki Habara](https://files.catbox.moe/wvsoxd.png), [Aelura](https://files.catbox.moe/hzo552.png)|[Toby Daniels (Crossdress Scenario)](https://files.catbox.moe/15bl17.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Clementine](https://files.catbox.moe/gs9cte.png)|
+[Malik](https://rentry.co/maliksusanto) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||[Candy McGiggles](https://files.catbox.moe/vqnjqq.png), [Mari and Yui](https://files.catbox.moe/fmyxtp.png)
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
-[Malik](https://rentry.co/maliksusanto) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Yuhan](https://files.catbox.moe/raye5j.png) [MV], [Friederike](https://files.catbox.moe/qyg49w.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Yuhan](https://files.catbox.moe/raye5j.png), [Friederike](https://files.catbox.moe/qyg49w.png)
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||

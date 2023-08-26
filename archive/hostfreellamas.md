@@ -54,6 +54,7 @@ d. How to host on vast.ai:
 Follow the steps in this link, but at the Image Selection step, click Edit and add "--public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![T](https://files.catbox.moe/v05qh5.png)
 Then start the instance, run `cat /app/onstart.log` for your public API link.
+For multi-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
 e. text-generation-inference command line that worked for me:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic

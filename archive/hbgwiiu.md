@@ -115,7 +115,7 @@ These tools let you inject any compatible ROM into a custom Virtual Console titl
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite) - Another backup loader for Wii and GC
 * [Nintendont](https://github.com/FIX94/Nintendont) - Dedicated backup loader for GameCube games, required for some injects
 * [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/) - Save game and Mii manager
-* [UStealth](https://code.google.com/archive/p/u-stealth/) - [Download](https://wiidatabase.de/wii-u-vwii-downloads/pc/ustealth/)) (Hide drives from Wii U for use with vWii USB loaders
+* [UStealth](https://code.google.com/archive/p/u-stealth/) ([Download](https://wiidatabase.de/wii-u-vwii-downloads/pc/ustealth/)) - Hide drives from Wii U for use with vWii USB loaders
 
 **Controllers**
 

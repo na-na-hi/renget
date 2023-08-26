@@ -420,17 +420,22 @@ Rolled 8-16 | Rolled 6-12 | Move lands 3 hits (4BP) | Move lands 3 hits (7BP)
 Rolled 17-18 | Rolled 13-16 | Move lands 4 hits (6BP) | Move lands 4 hits (9BP)
 Rolled 19-20 | Rolled 17-20 | Move lands 5 hits (8BP) | Move lands 5 hits (12BP)
 
-#### Multi-Target Moves
+#### Multi-Target & Room-Hitter Moves
 
 *Not to be confused with Multi-Hit Moves.*
 
-Moves that can target more than one Opponent at a time and hit several different Opponents at once, such as Blizzard, are called Multi-Target Moves. However, for each additional Opponent targeted after the first (Opponents targeted by move >1), a damage penalty of -3 is incurred, subtracted from the final damage number.
-- When the User uses a Multi-Target Move, they can choose how many Opponents they would like to hit with the attack, up to 3 possible targets.
-	- The only moves that are exempt from the damage penalty are Explosion, Self Destruct, and Misty Explosion. Instead, for each additional Opponent targeted, an Ally must also be selected to receive damage in return.
+Moves that can target more than one Opponent at a time and hit several different Opponents at once, such as Dazzling Gleam, are called Multi-Target Moves. However, for each additional Opponent targeted after the first (Opponents targeted by move >1), a damage penalty of -3 is incurred, subtracted from the final damage number.
+- When the User uses a Multi-Target Move, they can choose how many Opponents they would like to hit with the attack, up to **3** possible targets.
+	- The only moves that are exempt from the damage penalty are **Explosion**, **Self Destruct**, and **Misty Explosion**. Instead, for each additional Opponent targeted, an *Ally* must *also* be selected to receive damage in return.
 
-Moves that always target all available Opponents, such as Earthquake, are called Room-Hitters. The penalty is applied differently compared to Multi-Target Moves.
-- When the User uses a Room-Hitter Move, they will always target the maximum amount of Opponents present in a battle. This means they can bypass Multi-Target Moves' limit of 3, however, the User does not have any control over what and how many Opponents get hit.
-	- In the case of Moves that damage Allies, they do not count toward increasing the damage penalty. Allies will still get hit, of course.
+Moves that always target *all* available Opponents, such as Earthquake or Blizzard, are called Room-Hitters. Unlike Multi-Target Moves, they incur an inverse effect.
+- When the User uses a Room-Hitter Move, they will always target the *maximum* number of Opponents present in a battle. This means they can bypass Multi-Target Moves' limit of **3**, however, the User does not have *any* control over what and how many Opponents get hit.
+
+To understand the specifics of Room-Hitter Moves, a few things must be considered:
+- Offensive Stats **do not affect Room-Hitter Moves and their damage output**.
+  - A Character's **Level Bonus**, as well as **Stat increases** or decreases like Swords Dance, however, do.
+- The damage of a Room-Hitter Move is increased by **1** for every **2** Opponents, up to **3** while facing **6** Opponents.
+  - As a side-effect, Room-Hitter Moves can be very ineffective when facing only **1** or **2** Opponents, but shine against groups.  
 
 #### Priority Moves
 

@@ -118,6 +118,11 @@
 |---|---|---|
 |27/07/2023|[Timestamp](https://www.youtube.com/watch?v=xHKW3MXWfOg&t=3286s)| **Mention** - Reaction about Advant debut. According to an anon in the general: "She says they have a lot in common when it comes to their tastes, and would like to Collab/sing with her. She didn't catch what she said about her beyond the fact that she has an IOSYS song, but was happy when chat told her that she likes her. Senchou really loves being loved, kek. Any member telling her she's her oshi will instantly become Senchou's pet. She also missed her reply on Twitter, so she didn't read Nerissa telling her that she loves her in there, so it was news to her."
 
+######🥀 Lui
+|Date|Link|Nature & Notes|
+|---|---|---|
+|26/08/2023|[Timestamp](https://youtu.be/6m2nKFtgrTc?t=5590)| **Mention & invitation** - Possible invitation for a JP learning stream during A Minecraft stream|
+
 ###### 🧪 Koyori
 |Date|Link|Nature & Notes|
 |---|---|---|
