@@ -23,13 +23,13 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Angus](https://rentry.org/AngusCharacterSheet) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
 [Brook](https://rentry.co/Brooksheet) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | N/A
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
-[Chaz](https://rentry.co/tmd2many_characters_chaz) | Ex-Human (Fragmented) | Kubfu | Speedster | N/A
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | N/A
 [Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | N/A
 [Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | N/A
 [Jen-Marie](https://rentry.co/Jen-Marie) | Ex-Human (Fragmented) | Spritzee | Unlicensed Doctor | N/A
 [Jet](https://rentry.co/tmd2character_jet) | Ex-Human (???) | Meditite | Baker/Cook | N/A
 [Katherine](https://rentry.org/tmd2character_katherine) | Ex-Human (Fragmented) | Bounsweet | Architect/Engineer | N/A
+[Kaz](https://rentry.co/tmd2many_characters_chaz) | Ex-Human (Fragmented) | Kubfu | Speedster | N/A
 [Matchia](https://rentry.co/TMD2Character_Matchia) | Ex-Human (Fragmented) | Mienfoo | N/A | N/A
 [Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Council of Clans
 [Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A

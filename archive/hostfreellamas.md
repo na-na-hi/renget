@@ -51,10 +51,11 @@ a. Currently oobabooga doesn't support batch inference, that means everybody usi
 b. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
 c. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged!
 d. How to host on vast.ai:
-Follow the steps in this link, but at the Image Selection step, click Edit and add "--public-api" to the args: https://vast.ai/docs/guides/oobabooga
+Follow the steps in this link, but at the Image Selection step, click Edit and add "--api --public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![T](https://files.catbox.moe/v05qh5.png)
 Then start the instance, run `cat /app/onstart.log` for your public API link.
 For multi-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
+If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
 e. text-generation-inference command line that worked for me:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic

@@ -2,7 +2,7 @@
 ->Send bot requests, LOGS, and feedback to Kingvalntula@proton.me<-
 ***
 https://www.chub.ai/users/kingvalntula1
-Going to be releasing mostly SFW Furbots, especially from Rivals of Aether
+Going to be releasing mostly SFW Anthrobots, especially from Rivals of Aether
 ***
 **The Bots**
 [TOC2]

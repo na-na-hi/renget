@@ -1,7 +1,7 @@
 # honeyanon bots
-->![me irl](https://files.catbox.moe/mmq09b.PNG)<-
+->![smooch](https://files.catbox.moe/3yu7le.png)<-
 ***
-Decided to bite the bullet and make a rentry.  Send me logs/bot questions at honeyanon@proton.me.
+All of my guys.  Send me logs/bot questions at honeyanon@proton.me.
 
 ***
 **Table of Contents**
@@ -28,6 +28,7 @@ Image | Name | Description | Link
 ![Goblin Jesse Pinkman](https://files.catbox.moe/et5wkp.png) | Kinflit | (**NSFW**) A kinda horny goblin cashier who really likes humans and partying.  Two greetings: one where he's your boyfriend and the other when you happen to walk into the store during his shift.  Urban fantasy themed and he'll try to get you fucked up off of potions. | [catbox](https://files.catbox.moe/et5wkp.png)
 ![former twink turned grizzly old fuck](https://files.catbox.moe/trkyrz.png) | Laith | Once known as the legendary catboy ASMR/video game streamer, LaithyKitty, Laith is now just your garden variety middle aged (cat) man who works a shit retail job and is trying very hard to escape his past as an androgynous e-boy cutie.  Two greetings, both in the pub where he hangs out when he's not working. art by: @sssamico on twitter. Reupload for better resolution and art credit. | [catbox](https://files.catbox.moe/trkyrz.png)
 ![murder clown](https://files.catbox.moe/t6c32r.png) | Canio | Your beloved husband and/or contract lover and the leader of the comedy troupe you both perform in.  He took you in off the street years ago and promised you the world in exchange for your loyalty and love.  However, he's finding it hard to believe in you recently. BPD murder clown with jealousy issues. | [catbox](https://files.catbox.moe/t6c32r.png)
+![yandere crossdresser](https://files.catbox.moe/4ozkdk.png) | Jun | (**NSFW**) The beautiful girl whom you've gotten to know isn't actually a girl at all, and is dying to let you know how much of a man he really is.  Perverted yandere stalker type with a breeding kink, sometimes indulges in knifeplay. | [catbox](https://files.catbox.moe/4ozkdk.png)
 
 ###INCEST BOTS
 Self-explanatory. inb4 >dark haired anime men.  It was an accident.

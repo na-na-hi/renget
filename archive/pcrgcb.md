@@ -79,6 +79,17 @@ LoveMonika 5★ Lv280 R30 FULL, EX 5/3/5
 Labyrista 5★ Lv280 R29 FULL EX 5/3/5
 
 ![](https://pomf2.lain.la/f/j9xh48u9.png)
+
+[B3 62m physical](https://www.youtube.com/watch?v=dQfnX3mPea4)
+![Proof](https://pomf2.lain.la/f/slsf9ki9.png)
+Tested with:
+Christina 6★ Lv280 R29 FULL UE 280 EX 5/3/5 **Works with R30 full too**
+Shefi 6★ Lv280 R30 FULL UE 280 EX 5/3/5
+Camp Yukari 5★ Lv280 R30 UE 250 FULL EX 5/0/5 **UE shouldn't matter too much, but it is more damage**
+Laby 5★ Lv280 R29 FULL UE 280 EX 5/3/5  **Works with R30 full too**
+ST.Kurumi 5★ Lv280 R30 FULL UE EX 5/0/5 **3★ does not work, she misses the 1:00 UB**
+
+![TL](https://pomf2.lain.la/f/dhhc3esz.png)
 ### Boss 4
 [B4 66-67m magic](https://www.youtube.com/watch?v=eTkZmbZAzCw)
 ![3](https://pomf2.lain.la/f/hslf1y7k.png)

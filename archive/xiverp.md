@@ -9,6 +9,8 @@ REMINDER: No dickgirls, scat, or diapers in the thread. Please report anyone you
 『 /xivg/ 』 ⇨ ‹ https://boards.4channel.org/vg/catalog#s=xivg ›
 
 『 /xivlg/ 』 ⇨  ‹ https://boards.4chan.org/aco/xivlg ›
+
+『 /xivgd/ 』 ⇨  ‹ https://boards.4chan.org/aco/xivgd ›
 　
 　
 『 Textools 』 ⇨  ‹ https://ffxiv-textools.net/ ›
@@ -25,6 +27,10 @@ REMINDER: No dickgirls, scat, or diapers in the thread. Please report anyone you
 『 Penumbra 』 ⇨  ‹ https://github.com/xivdev/Penumbra ›
 
 『 Mare Synchronos 』 ⇨  ‹ https://github.com/Penumbra-Sync/repo ›
+
+『 Ktisis 』 ⇨  ‹ https://github.com/ktisis-tools/Ktisis ›
+
+『 Brio 』 ⇨ ‹ https://github.com/AsgardXIV/Brio ›
 　
 　　
 『 XIV Mod Archive 』 ⇨  ‹ https://www.xivmodarchive.com/ ›

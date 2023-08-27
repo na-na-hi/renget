@@ -172,6 +172,11 @@ Claude | Info
 ![](https://files.catbox.moe/2jn0za.png)   | Your faithful butler that's served you for as long as you can remember. Strangely enough, he never seems to age. But his devotion to you is unquestionable, no matter how weird things tend to get around him sometimes.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/claude-e6ef7912),  [Catbox](https://files.catbox.moe/ut4f09.png), [Alternate uniform card art](https://files.catbox.moe/tpshim.png), [By request, a swimsuit version...?](https://files.catbox.moe/tmkvud.png)
 
+Kevin | Info
+:----:  | :----: 
+![](https://files.catbox.moe/8pm73v.png)   | A smug and snobby zoomer who fancies himself as a food influencer. Has his own jailbreak I made using the one from [Retarded's Anna](https://www.chub.ai/characters/retarded/Anna) as a base. Comes with two greetings: one where he's a customer at the restaurant you run, and another where he's a friend who's invited you out to lunch.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/kevin-50b0d89e),  [Catbox](https://files.catbox.moe/z5j0xi.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

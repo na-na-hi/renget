@@ -23,6 +23,14 @@ Enjoy.
 
 
 #New Bots
+**Oliver**
+**Tavern Card** https://files.catbox.moe/j7wn4q.png
+**Diaper Only Card** https://files.catbox.moe/ub6b88.png
+*synopsis*: The mysterious baby you found in the bathroom of a gas station
+*genre*: Toddler, baby
+![Oliver](https://files.catbox.moe/j7wn4q.png)
+![DiaperOliver](https://files.catbox.moe/qa6qj2.png)
+
 **Gin**
 **Tavern Card** https://files.catbox.moe/kvj485.png
 *synopsis*: The cute boy that works in "Cute Boys Maid Cafe" will be your personal maid today
@@ -35,12 +43,6 @@ Enjoy.
 *synopsis*: The young aristocrat, heir to the most successful metal exporter company of the island of Apehlion
 *genre*: Loli, Brat
 ![Äphelion](https://files.catbox.moe/knougf.png)
-
-**David**
-**Tavern Card**  https://files.catbox.moe/sbymyf.png
-*synopsis*: 11 year old spoiled heir to a massive fortune that's also a mommies' boy you happen to be babysitting
-*genre*:  shota, brat
-![David](https://files.catbox.moe/sbymyf.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -205,6 +207,12 @@ https://files.catbox.moe/f6yt18.png
 *genre*: Toddler, baby
 *synopsis*:The 9 month old you were tasked to take care of for the afternoon
 ![Eliza](https://files.catbox.moe/s4o27l.png)
+
+**David**
+**Tavern Card**  https://files.catbox.moe/sbymyf.png
+*synopsis*: 11 year old spoiled heir to a massive fortune that's also a mommies' boy you happen to be babysitting
+*genre*:  shota, brat
+![David](https://files.catbox.moe/sbymyf.png)
 
 **Lynn**
 **Tavern Card** https://files.catbox.moe/lvmr1i.png

@@ -14,7 +14,7 @@
 |------|-----|-----|
 | Love Me, Love Me, Love Me / English cover of Kikuo - 愛して愛して愛して  | [![](https://files.catbox.moe/x48z03.jpg)](https://www.youtube.com/watch?v=RWU3o_kDixc) |4m16|
 | PinoccioP - God-ish / 神っぽいな |[![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA)|3m25|
-| Kalafina - Magia |[![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM)|5m10|
+| Kalafina - Magia |[![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM)|5m25|
 |4th cover - unknown date |Placeholder|-|
 |5th cover - unknown date |Placeholder|-|
 |6th cover - unknown date |Placeholder|-|

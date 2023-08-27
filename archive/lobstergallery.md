@@ -76,6 +76,11 @@ I want to send huge thanks to everyone who sent me artworks! You are amazing!
 --- | --- | --- | --- 
 ![Sara](https://files.catbox.moe/te3isu.png)                              | ![Sara](https://files.catbox.moe/pfk1nx.png)                              |![Sara](https://files.catbox.moe/zsxulg.png)                              | ![Sara](https://files.catbox.moe/awsxtd.png)                              |
 
+####Lavie, the Blind Assassin
+->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Bustier version<-|
+--- | --- | --- | --- 
+![Lavie](https://files.catbox.moe/ppoefk.png)                              | ![Lavie](https://files.catbox.moe/zillia.png)                              |![Lavie](https://files.catbox.moe/udzhpj.png)                              | ![Lavie](https://files.catbox.moe/9anult.png)                              |
+
 ####Sayuki, the Yakuza Victim
 ->Card image<-|->Alternative profile<-|->One of the first drafts<-|->Yakuza Wife<-|->Catgirl Maid<-|->Embracing new role - fan art by Anon<-|->After joining Yakuza - fan art made by TurtleSnake<-|->Fan art made by Anon<-|
 --- | --- | --- | --- | --- | --- | --- | ---

@@ -22,7 +22,7 @@ Pokémon's Ability | Description
 Protosynthesis | The User's highest Stat is increased by 2 while in Harsh Sunlight.
 
 ->Gold Rank<-
-->*0/5500 points to Platinum Rank*<-
+->*1400/5500 points to Platinum Rank*<-
 ->![Gold Rank](https://archives.bulbagarden.net/media/upload/2/28/Gold_Rank_RTDX.png)<-
 
 Stat | Points: 13 (+1) | Modifiers | Combat Effect

@@ -795,7 +795,7 @@ Swords Dance | - | 4 AP | - | Normal | Status | The User's Attack is increased b
 Synthesis | - | 4 AP | - | Grass | Status | The User is healed for 2 HP. HP healed affected by the [Weather](https://rentry.co/tmd2many_rules#weather). 
 Tail Glow | - | 4 AP | - | Bug | Status | The User's Special Attack is increased by 2.
 Tail Whip | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
-**Tailwind** | - | 4 AP | - | Flying | Status | For 3 round, the User shares their Max AP with up to 2 Allies. The Move cannot increase an Ally's Max AP above 8, but may take the User below 4 AP.
+**Tailwind** | - | 4 AP | - | Flying | Status | For 3 rounds, the User shares their Max AP with up to 2 Allies. The Move cannot increase an Ally's Max AP above 8, but may take the User below 4 AP.
 Tar Shot | - | 4 AP | ≥2 | Rock | Status | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. The Opponent's Type resistance to Fire-Type Moves is decreased by 1. 
 **Taunt** | - | 4 AP | ≥2 | Dark | Status | For 2 rounds, the Opponent's Status Moves have their AP cost increased by 2.
 Tearful Look | - | 4 AP | - | Normal | Status | The Opponent's Attack and Special Attack are decreased by 1.
@@ -806,7 +806,7 @@ Teleport | - | 4 AP | - | Psychic | Status | The User teleports.
 Thunder Wave | - | 4 AP | ≥3 | Electric | Status | The Opponent is afflicted with *Paralysis*.
 Tickle | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack and Defense are decreased by 1.
 Topsy Turvy | - | 4 AP | - | Dark | Status | The Opponent's Stat increases and decreases are swapped. 
-Torment | - | 4 AP | ≥2 | Dark | Status | The Opponent is unable to use the same move in several times in succession.
+Torment | - | 4 AP | ≥2 | Dark | Status | For 2 rounds, the Opponent is unable to use the same move in several times in succession.
 Toxic | - | 4 AP | ≥3 | Poison | Status | The Opponent is afflicted with *Badly Poisoned*. If the User is Poison-Type, the Move never misses.
 Toxic Spikes | - | 4 AP | - | Poison | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Poisoned Spikes.
 Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1, even if the Opponent is immune. 
