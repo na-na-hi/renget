@@ -1,6 +1,8 @@
 !!! info -> Non-Newtonian Mods and mods hated by the Newtonian fandom <-
 -> ![Image description](https://files.catbox.moe/n6fl4d.png) <-
 ->==**Want to contribute? Add nnm2022 to your post so I can find you in the archive.**==<-
+Aug 27
+Hi friends. I'm not dead, just very busy. I'll clean this page up asap.
 
 [TOC]
 ##**Hogwarts Legacy**
@@ -119,7 +121,7 @@ https://anonfiles.com/15Rco0Z3y3/NoBlakkks_7z
 [Preview](https://files.catbox.moe/paydt8.png)
 
 >Alternate Face for Natsai
-https://anonfiles.com/84Q1PaZ2yf/HL_NatsaiKKK_zip
+https://files.catbox.moe/6mpcmh.zip
 You'll still need the NoBlakkks/More historically-accurate 1800's Hogwarts mod to make her white.
 [Preview](https://files.catbox.moe/9558wi.png)
 
@@ -252,6 +254,7 @@ https://files.catbox.moe/7ckawq.7z
 [Preview](https://files.catbox.moe/1wujve.png)
 
 ##Changelog
+27/8/2023 - Reuploaded white Natsai mod (HL)
 9/3/2023 - Added Spicy Garlick (HL)
 9/3/2023 - Added Nude male, modest pp (HL)
 9/3/2023 - Added Uncensored A2 patch by anon for Goemon 3

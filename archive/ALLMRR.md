@@ -20,8 +20,9 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
 	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.
 	[Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
-	[MythoMax-L2-13B-GPTQ](https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ) <- Amazing SFW but struggles with NSFW, goes great with the Kimiko lora.
+	[MythoMax-L2-13B-GPTQ](https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ) <- AMAZING SFW but struggles with NSFW, goes great with the Kimiko lora.
 	[Spring-Dragon-GPTQ](https://huggingface.co/TheBloke/Spring-Dragon-GPTQ) <- Special model, made for adventure style roleplay (AI Dungeon).
+	[LlongOrca-13B-16K-GPTQ](https://huggingface.co/TheBloke/LlongOrca-13B-16K-GPTQ) <- Not as good as the other models on this list, but the best Llong model I (Trappu) have been able to try, not bad even at max context size.
 	- LoRAs:
 	[Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B) <- More verbose, easier to do NSFW.
 	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2) <- More verbose, easier to do NSFW.

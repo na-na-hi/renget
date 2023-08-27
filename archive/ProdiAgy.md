@@ -18,7 +18,7 @@
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done at 40-80. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done after 40. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
@@ -33,7 +33,7 @@
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done at 40-80. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done after 40. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",

@@ -7,9 +7,6 @@
 	OPs status
 	OP | Status
 	OP1 (trimmed)    | Updated
-    OP2 (trimmed)    | Updated
-	Sturdy           | Fuck you adwhore
-	Kaomoji OP		| https://rentry.org/kaomojibaka
 	**
 	My mail -> PeterGabriel@cock.li
 
@@ -42,7 +39,7 @@ NAI (WIP) - https://rentry.org/Various-NAI-Guides
 >JBs
 claude -> https://rentry.org/ClaudeJB - https://rentry.org/fumblebum - https://rentry.org/pitanonbots#claude-rp-prompts - https://rentry.org/KaruKaruBagOfGoodies
 turbo -> https://rentry.org/YAnonTurbo
-gpt-4 -> https://rentry.org/fa5fv
+gpt-4 -> https://rentry.org/fa5fv - https://rentry.org/lobstersgpt
 
 >Fronts
 https://github.com/SillyLossy/TavernAI [Tavern]

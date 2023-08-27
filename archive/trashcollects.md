@@ -221,6 +221,32 @@ Below are links to the Prototype r10 e7 model; you probably won't need it, but i
 https://archive.org/details/tism-prism-AI
 
 ### Fluffyrock
+What the fuck do all these models MEAN!? (Taken from the Discord on August 27th)
+
+MAIN MODELS (For these, typically download the most recent one):
+e6laion (Combination dataset of LAION and e621 images, can do realism rather well. Currently is being trained with vpred, so will require a YAML file, and for optimal performance needs CFG rescale too.
+uses Lodestone's 3M e621 dataset, almost the entire website)
+fluffyrock-1088-megares-offset-noise-3M-SDXLVAE (Offset-noise version of the model using the 3M dataset, but experimenting with Stable Diffusion XL's VAE. Will produce bad results until more training happens.)
+fluffyrock-1088-megares-offset-noise-3M (Offset-noise version of the model using the 3M dataset, without any fancy vpred, terminal snr, or a different VAE. Fairly reliable, but may not produce as good results as others.
+fluffyrock-1088-megares-terminal-snr-vpred (Vpred and terminal snr version of the model using the 3M dataset. Requires a YAML file to work, and is recommended to install the CFG rescale extension for optimal results.)
+fluffyrock-1088-megares-terminal-snr (Terminal snr version of the model using the 3M dataset. Fairly plug and play, but is some epochs behind compared to the others.)
+fluffyrock-NoPE (Experimental model to try and remove the 75-token limit of Stable Diffusion by removing positional encoding. Uses Vpred, so will require a YAML file, and again, use it with CFG rescale for optimal performance.
+OUTDATED MODELS:
+csv-dump
+fluffyrock-1088-megares
+fluffyrock-2.1-832-multires-offset-noise
+fluffyrock-2.1-832-multires
+fluffvrock-832-multires-offset-noise
+fluffvrock-832-multires
+fluffyrock-1088-megares-offset-noise
+old-768-model
+old-adam-832-model
+old-experimental-512-model
+old-experimental-640-model
+OTHER REPOS:
+Polyfur: e6laion but with autocaptions, so should improve at natural language prompts. Vpred + terminal SNR, will require a YAML and should use CFG rescale
+Pawfect-alpha: 500k images from FurAffinity. Vpred and terminal SNR, so will require YAML and should use CFG rescale.
+
 Artist comparison: `https://files.catbox.moe/rmyw4d.jpg`
 Repository (GO HERE FOR DOWNLOADS): `https://huggingface.co/lodestones/furryrock-model-safetensors`
 CivitAI page: `https://civitai.com/models/92450`
@@ -302,6 +328,14 @@ Description: https://files.catbox.moe/cr137n.png
 	negative embeddings: https://civitai.com/api/download/models/84134?type=Training%20Data
 
 Put embeddings in \stable-diffusion-webui\embeddings, and use the filenames as a tag in the negative prompt.
+
+### EasyFluff
+
+Description: ![EasyFluff V9](https://files.catbox.moe/nbsllc.png)
+A Vpred model, you need both of these files. See here for more info: https://rentry.org/trashfaq#how-do-i-use-vpred-models
+
+	Checkpoint: https://civitai.com/api/download/models/147548?type=Model&format=SafeTensor&size=pruned&fp=fp16
+	Yaml: https://civitai.com/api/download/models/147548?type=Config&format=Other
 
 
 ## Galleries

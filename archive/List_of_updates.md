@@ -2,7 +2,7 @@
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
-!!! warning J/ope/C Week 3 https://files.catbox.moe/kjyqxe.zip. Next batch of saved pages : 27/08/2023 - there will be a new .zip file every week
+!!! warning J/ope/C Week 4 https://files.catbox.moe/vuvt12.zip. Next batch of saved pages : 03/09/2023 - there will be a new .zip file every week
 
 !!! note [TOC]
 #####  ![Image description](https://files.catbox.moe/f9inkg.png) July 2023
@@ -116,5 +116,7 @@
 |25/08/2023|100|Music|Placeholder for a probable sixth cover|
 |25/08/2023|101|Music|Addition of the cover of Magia from Kalafina|
 |26/08/2023|102|Mentions & Collabs|Addition of a timestamp containing a mention during Lui's Minecraft stream.|
+|27/08/2023|103|Frontpage & Recommendation|Activation of the Stream curated page.|
+|27/08/2023|104|Changelog| J/ope/C Week 4 backup .zip file uploaded|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

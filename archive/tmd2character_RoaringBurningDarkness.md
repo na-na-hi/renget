@@ -12,7 +12,7 @@ His role in the clergy was questioned, as being a... prehistoric version of a Po
 · | ->· ->
 ---- | ----
 **Origin:** Native | **Occupation:** Priest
-**Species:** Roaring Moon | **Affiliation:** Ho'oha Clergy
+**Species:** Roaring Moon | **Faction Affiliation:** Ho'oha Clergy
 **Level:** 55 | **Experience to Next Level:** 200/1400
 **Worn Item:** *N/A* | **Clothing:** *Rainbow Wreathe*
 **Pokécoin:** 10,000₽ | **Glorious Gold:** 0 Bars
@@ -24,6 +24,12 @@ Protosynthesis | The User's highest Stat is increased by 2 while in Harsh Sunlig
 ->Gold Rank<-
 ->*1400/5500 points to Platinum Rank*<-
 ->![Gold Rank](https://archives.bulbagarden.net/media/upload/2/28/Gold_Rank_RTDX.png)<-
+
+Important Info | Description
+---- | ----
+Source of Wealth/Standing | He had already amassed a small fortune before becoming a bishop, but after becoming a bishop, he manages to maintain said wealth through the management of his territory. As for his job, he does his best to maintain **Stability** within the continent through donations, aid, and relief. He is also somewhat prominent in **Foreign Relations.**
+Family History | Relatively new to the lines of bishops, he was recognized shortly after he had began his peacekeeping work with gusto. His passionate generosity and aid quickly shot him through the ranks, and made him rather popular within his territory.
+Place of Residence | While Roaring Burn does have a quaint home within his territory, as one of the fastest fliers around, he tends to stick his nose into problems across the continent whenever possible in order to try and keep the peace. This often leaves his home empty half the time, unless there are issues back at his territory.
 
 Stat | Points: 13 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 

@@ -50,3 +50,7 @@ Thank you, Sculptor, for improving upon my concept and providing me key insights
 *Friederike, lazy, capricious, self-absorbed though talented apprentice mage with a fervent love for astronomy. Has two different greetings also! Might be fun to pair her with Yuhan.*
 https://files.catbox.moe/fsig45.png
 This is another version of the bot with 1k context size, rewritten in inspiration of Sculptor's take on my other bot, Yuhan. Highly recommended over the orignal version if you have anything else other than Slaude: https://files.catbox.moe/qyg49w.png
+
+![...](https://files.catbox.moe/mes59g.png)
+*Gunju, an embodiment of death. Chat about the end of our mortal coil with this ethereal entity.*
+https://files.catbox.moe/dtrpa7.png

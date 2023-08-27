@@ -5,7 +5,7 @@
 
 The War of the Dark Aurorai
 ***
-->B A  T  T  L  E    F  O  R   A  U  R  O  R  A  I<-
+->B A  T  T  L  E     F  O  R     A  U  R  O  R  A  I<-
 ***
 ### Foreword
 
@@ -150,7 +150,7 @@ Established: 2 H
 
 Capitol: Le Eclipse
 Current Leader: Uriel Amane(8th) (angel)
-Exec. Center: Keep of Dusk and Dawn
+Exec. Center: Eclipse Sanctuary
 Established: 2 H
 ***
 >Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Angels have won all but one Sky Council election, including this current one.Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. To promote unity in spite of the difference and division, the Sky Council holds a yearly contest of might and wit called The Eclipse Olympiad. Units like Lamy, Kanata, Aki and Flare, come from here.
@@ -168,7 +168,7 @@ Established: 46 H
 
 Capitol: Yozora Eternus
 Current Ruler: Death Muertos (13th)
-Exec. Center: Nero High Hall
+Exec. Center: Notte Piu Nera High Hall
 Established: 16 H
 ***
 >A breakaway from Negazion, Nero Eterna gives demons, imps and the like a home. Most elder magic is said to have originated in this swampy, humid and wet lowland. Rivers snake through the marshland making for a very humid climate especially on the seaside western parts. Denizens make their homes from the imposing and scary-looking trees in their dominion, if not from the relative highlands surrounding the mountain range. The nation has the lowest above-sea levels of all Aurorai, with their highest flatland being equal to average Aurorai above-sea level height. The Fallen Star Graveyard resides here, resting place of many a famed individual, like Kizuna Ai and the First Knights. Units from here include Ayame, Towa, Choco, Calliope and Oga.
@@ -180,7 +180,7 @@ Current Ruler: Coco Kiryu (4th)
 Exec. Center: Hall of Flame
 Established: 351 H
 ***
->The youngest nation of all Aurorai, Stadt Des Feuers is located in a small island state off the coast of Cita Azur. The island they reside was all that was left of the old nation of Atlantis, banished to the depths as punishment for their crimes in The Great Aurorai War. Weather here is warm and balmy but not humid which the residents are thankful for due to the island in its current form having high above- sea levels. Aside from Coco, Kiara also appears as a unit as well as her Kiara's Fighter Phoenix squad; a small squad of phoenixes and fiery-hearted warriors in general under her name.
+>The youngest nation of all Aurorai, Stadt Des Feuers is located in a small island state off the coast of Cita Azur. The island they reside was all that was left of the old nation of Atlantis, banished to the depths as punishment for their crimes in The Great Aurorai War. Weather here is warm and balmy but not humid which the residents are thankful for due to the island in its current form having high above- sea levels. Dragons and phoenixes chiefly reside here in peace along with their followers, mostly Polarian natives. Aside from Coco, Kiara also appears as a unit as well as her Kiara's Fighter Phoenix squad; a small squad of phoenixes and fiery-hearted warriors in general under her name.
 
 #### Blancopolis
 
@@ -207,7 +207,7 @@ Current Ruler: Vermel Darkstar(18th)
 Exec. Center: Blackstar Castle
 Established: 7 H
 ***
->An enigma of a land, Negazion is a barren chain of 3 islands in its current form. Sunk in a great flood for their agression in the Great War, Negazion's landscape is a shadow of their former glory: wide highlands that rival that of Diarnuit's. Today, it's dull yellow sands send a harsh greeting to anybody who dare visit, as well as chronicle the various magical experiments the government made to improve their surroundings for food. Negazian royal mages will push relentlessly for any advantages they can use to get back at the Aurorai mainland; monstrous weapons, overt and covert operations all across Aurorai, and a myriad of fearsome dark spells not even the shamans of Nero Eterna dare invoke. Principal among these is dark spell called Dox Majica, a spell only the highest and most decorated of Negazian royal mages can wield without major repercussions including their own life or sanity. This evil spell feeds on the negative emotions and memories of the victim and drains all positives out, leaving the victim either dead or a husk easily puppeteered by magic. In the catacombs of Blackstar Castle, the royal mages have mastered the science of cloning, which they use to supplant their military numbers including war beasts like horses, pegasi, and wyverns. Ruling succession is a very serious and violent matter, being decided by a duel to the death between the reigning Tyrannus and the challenger. All citizens here have been mandated to not know the history of Aurorai save for their origin, the Great War(highlighting their victories), their defeat, and their efforts to even the score. Being in the military in this nation grants perks normal citizens do not have access to, which only lengthens as they rise up the ranks.
+>An enigma of a land, Negazion is a barren chain of 3 islands in its current form. Sunk in a great flood for their agression in the Great War, Negazion's landscape is a shadow of their former glory: wide and abundant dunes that rival that of Diarnuit's in sea-level. Today, it's dull yellow sands send a harsh greeting to anybody who dare visit, as well as chronicle the various magical experiments the government made to improve their surroundings for food. Negazian military brass will push relentlessly for any advantages they can use to get back at the Aurorai mainland; monstrous weapons, overt and covert operations all across Aurorai, and a myriad of fearsome dark spells not even the shamans of Nero Eterna dare invoke. Principal among these is dark spell called Dox Majica, a spell only the highest and most decorated of Negazian royal mages can wield without major repercussions including their own life or sanity. This evil spell feeds on the negative emotions and memories of the victim and drains all positives out, leaving the victim blanked out while they experience all possible worst-case scenarios in their life. In the catacombs of Blackstar Castle, the royal mages and alchemists have mastered the science of cloning, which they use to supplant their military numbers including war beasts like horses, pegasi, and wyverns. Ruling succession is a very serious and violent matter, being decided by a duel to the death between the reigning Tyrannus and the challenger. All citizens here have been mandated to not know the history of Aurorai save for their origin, the Great War(highlighting their victories), their defeat, and their efforts to even the score. Being in the military in this nation grants perks normal citizens do not have access to, which only lengthens as they rise up the ranks.
 
 ***
 
@@ -294,9 +294,9 @@ Established: 7 H
 
 #### Chapter 4
 
-Aqua
+->**Aqua**<-
 
-    An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Of all the Brigade Guardians, she is reputed as the most shy and introverted. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Bafflingly though, outside of battle, she can be the most clumsy and dull-witted in any given room. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
+>An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Of all the Brigade Guardians, she is reputed as the most shy and introverted. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Bafflingly though, outside of battle, she can be the most clumsy and dull-witted in any given room. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
 
     Home: Polaria
 
@@ -349,40 +349,44 @@ Aqua
 
 ***
 
-Chapter 6
+#### Chapter 6
 
-Korone
+->**Korone**<-
 
-    A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. For such a mundane species such as herself, what she can do is amazing; a product of her rigorous physical routine. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep personal bakery safe and its wares untouched.
-
-    Home: Savan
-
-Chapter 7
-
-Lamy
-
-    She hails from nobility in Argenia; a cold land in northeast Diarnuit. Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. It has been the subject of many a dilemma. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face and enchanting speaking voice belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
-
-    Home: Diarnuit
-
-Botan
-
-    After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan can be described as nigh unflappable in every situation. Her combat skills are peerless, combining masterful archery with her innate ability to turn into a majestic and fierce white lion like the rest of the Shishiro bloodline. At court, she is always credited with being the most level-headed among the royal council when they convene to discuss Savanese affairs. In this looming war, her weak side may finally be revealed to many and her more beastly side unleashed, as the safety and wellbeing of her people grow ever more threatened.
+>A knight of Savan, her boundless energy allows her to take an entire day's guard shift by herself and never doze off. For such a mundane species such as herself, what she can do is amazing; a product of her rigorous physical routine. She has an eccentric fascination with people's fingers, never failing to take notice whenever possible and convenient. As a dogwoman, her heightened hearing and smelling has kept the Lion's Keep own bakery safe and its wares untouched.
 
     Home: Savan
 
-(!)Mio
+***
 
-    The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Mio is reputed to be the most approachable member of the royal council, and for good reason. Such approachability is only rivaled by Councillor Fubuki and the Queen herself. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and policies. She can prove herself in a fight with elder magic learned alongside her divining magics.
+#### Chapter 7
 
-    Home: Savan
-    (!)How to acquire: Defeat the chapter boss before the turn limit.
+->**Lamy**<-
 
-Chapter 7x
+>She hails from nobility in Argenia; a cold land in northeast Diarnuit. Lamy effectively juggles duty between two nations; her native Diarnuit, and her closest friend's Savan, of which said friend is Queen. It has been the subject of many a dilemma. To this day, Lamy is the only non-Savanese to hold a high position in the royal court, something that has resulted in jealous whispers around the Keep. Her gentle face and enchanting speaking voice belies the alcohol tolerance fit for a brigand, not that of a noblewoman like her.
+
+==Home: Diarnuit==
+
+->**Botan**<-
+
+>After beating her male siblings for the throne, she is the first female to rule Savan. A stoic and laidback character in court, Botan can be described as nigh unflappable in every situation. Her combat skills are peerless, combining masterful archery with her innate ability to turn into a majestic and fierce white lion like the rest of the Shishiro bloodline. At court, she is always credited with being the most level-headed among the royal council when they convene to discuss Savanese affairs. In this looming war, her weak side may finally be revealed to many and her more beastly side unleashed, as the safety and wellbeing of her people grow ever more threatened.
+
+==Home: Savan==
+
+->**(!)Mio**<-
+
+>The motherly royal council to Queen Botan, she takes care of feeding everyone who works for Lion's Keep. Mio is reputed to be the most approachable member of the royal council, and for good reason. Such approachability is only rivaled by Councillor Fubuki and the Queen herself. Most of her projects are orphanages and feeding programs, a testament to her motherly nature. She also is a talented practioner in the divining arts, with tarot cards as her medium of choice. With her matured wisdom, she guides her equally matured Queen in her decisions and policies. She can prove herself in a fight with elder magic learned alongside her divining magics.
+
+==Home: Savan==
+ (!)How to acquire: Defeat the chapter boss before the turn limit.
+
+***
+
+#### Chapter 7x
 
 Aki
 
-    Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech not just in Diarnuit, but all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men bedazzled over her. She doesn't let race nor social standing get in the way of "fun"; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
+>Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech not just in Diarnuit, but all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men entranced with her. She doesn't let race nor social standing get in the way of "fun"; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
 
     Home: Diarnuit
 

@@ -40,9 +40,11 @@ A word of advice: as per >>1, be smart and don't reply or engage in off-topic or
 
 !!!warning Second OP Post - Tag schedule : F4GRwddWMAAZ0he
 
-\>Introduction
+\>Introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
+New Jailbirds Guide
+https://rentry.org/ope_curated_streams_list
 Crunchyroll Interviews
 https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
 https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent

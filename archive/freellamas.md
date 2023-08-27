@@ -15,8 +15,8 @@ Blocking API URL: ```N/A```
 ```
 
 **Sequences:**
-Input Sequence: `### Input:`
-Output Sequence: `### Response:`
+Input Sequence: ` ` (Yes, leave this field blank)
+Output Sequence: ` ` (Blank like above)
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
 
@@ -44,7 +44,7 @@ Mirostat Eta: 0.4 - learning rate
  ![T](https://files.catbox.moe/sl6hbc.png)
 
 ##### 2. Advanced menu:
- ![T](https://files.catbox.moe/0vnd5m.png)
+ ![T](https://files.catbox.moe/j2looh.png)
 ***
 
 ##### Are my prompts logged?

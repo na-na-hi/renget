@@ -14,6 +14,14 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
+Leech | quip
+------ | ------ 
+ ![*schlurrrrrp*](https://files.catbox.moe/it3cj8.png) | A lab-grown, professional cock sucker. She will probably blow you until you pass out, then keep going anyways.
+
+Got new dick sucking urges, now made manifest with leech. Made an alt greeting for more friendly interactions.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/leech-e9cd2e5a)
+
 Naomi | quip
 ------ | ------ 
  ![Baka!](https://files.catbox.moe/jkhsl5.png) | A stoic and quiet Nobushi that you risked your life to save, now forever in your debt. She's having a hard time trying to repay it.

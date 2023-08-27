@@ -187,7 +187,7 @@ Final Gambit | - | 8 AP | ≥2 | Fighting | Special | The User's current HP is c
 Fire Blast | 11 BP | 8 AP | ≥4 | Fire | Special | 14-20; The Opponent is afflicted with *Burn*.
 Fire Fang | 6 BP | 6 AP | ≥2 | Fire | Physical | 16-18; The Opponent is afflicted with *Burn*. 19-20; The Opponent Flinches.
 Fire Lash | 8 BP | 6 AP | ≥2 | Fire | Physical | The Opponent's Defense is decreased by 1.
-Fire Pledge | 8 BP | 7 AP | ≥2 | Fire | Special | I don't really feel like explaining the Pledge Moves right now.
+~~Fire Pledge~~ | ~~8 BP~~ | ~~7 AP~~ | ~~≥2~~ | ~~Fire~~ | ~~Special~~ | Removed.
 Fire Punch | 8 BP | 6 AP | ≥2 | Fire | Physical | 19-20; The Opponent is afflicted with *Burn*.
 Fire Spin | 3 BP | 6 AP | ≥4 | Fire | Special | For 3 rounds, the Opponent is afflicted with *Stuck*. Thaws Opponent.
 **First Impression** | 9 BP | 7 (-2) AP | ≥2 | Bug | Physical | Priority.
@@ -200,8 +200,8 @@ Flame Wheel | 6 BP | 5 AP | ≥2 | Fire | Physical | 19-20; The Opponent is affl
 Flamethrower | 9 BP | 6 AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Flare Blitz | 12 BP | 6 AP | ≥2 | Fire | Physical | 19-20; The Opponent is afflicted with *Burn*. Thaws User. [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Flash Cannon | 8 BP | 7 AP | ≥2 | Steel | Special | 18-20; The Opponent's Special Defense is decreased by 1.
-Fleur Cannon | 13 BP | 8 AP | ≥3 | Fairy | Special | The Opponent's Special Attack is decreased by 2.
-**Fling** | Ø BP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; Damage varies. Effect varies.
+Fleur Cannon | 13 BP | 8 AP | ≥3 | Fairy | Special | The User's Special Attack is decreased by 2.
+**Fling** | Ø BP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; [Damage varies](https://rentry.co/tmd2many_moves#fling-table). Effect varies.
 **Flip Turn** | 6 BP | 6 AP | ≥2 | Water | Physical | Ignores Battlefield Hazards. Effects of *Wrapped* and *Stuck* are removed.
 **Flower Trick** | 1 BP | 7 AP | - | Grass | Physical | The Move is always a Critical Hit.
 Fly | 9 BP | 6 AP | ≥2 | Flying | Physical | The User is afflicted with *Sky High*. Hits 1 round after using the Move. The User can fly over certain distances.
@@ -230,7 +230,7 @@ Glacial Lance | 12 BP | 8 AP | ≥2 | Ice | Physical | Multi-Target.
 Glaciate | 6 BP | 7 AP | ≥2 | Ice | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. Multi-Target.
 **Glaive Rush** | 12 BP | 8 AP | ≥2 | Dragon | Physical | The User takes 7 extra damage from all attacks until they use another Move.
 Grass Knot | - | 6 AP | ≥2 | Grass | Special | Uses the Opponent's HP Stat in damage calculation. 0; 2 BP. 1-2; 4 BP. 3-4; 6 BP. 5-6; 8 BP. 7-8; 10 BP. 9-10; 12 BP.
-Grass Pledge | 8 BP | 7 AP | ≥2 | Grass | Special | I don't really feel like explaining the Pledge Moves right now.
+~~Grass Pledge~~ | ~~8 BP~~ | ~~7 AP~~ | ~~≥2~~ | ~~Grass~~ | ~~Special~~ | Removed.
 **Grassy Glide** | 7 BP | 6 AP | ≥2 | Grass | Physical | While Grounded, in Grassy Terrain, AP cost is decreased by 1.
 Grav Apple | 8 BP | 7 AP | ≥2 | Grass | Physical | The Opponent's Defense is decreased by 1.
 Guillotine | - | 8 AP | ≥15 | Normal | Physical | If the Opponent's Level is lower than the User's, they are OHKO'd.
@@ -337,7 +337,7 @@ Mud-Slap | 2 BP | 5 AP | ≥2 | Ground | Special | The Opponent's Accuracy is de
 **Multi-Attack** | 9 BP | 7 AP | ≥2 | Normal | Physical | Changes Type based on the User's Type-specific Worn Item.
 Mystical Fire | 7 BP | 7 AP | ≥2 | Fire | Special | The Opponent's Special Attack is decreased by 1. 
 Mystical Power | 7 BP | 7 AP | ≥3 | Psychic | Special | The Opponent's highest Stat is increased by 1. 
-Natural Gift | - | 6 AP | ≥2 | Normal | Special | Changes Type based on the User's Berries. Costs a Berry to use.
+Natural Gift | - | 6 AP | ≥2 | Normal | Special | Changes BP and Type based on the User's [Berries](https://rentry.co/tmd2many_moves#natural-gift-table). Costs a Berry to use.
 **Nature's Madness** | - | 7 AP | ≥3 | Fairy | Special | The Opponent's Attack/Sp.Atk/Sp.Def/[Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) Stat is dealt as true damage, based on the User's Species Bonus.
 Needle Arm | 6 BP | 6 AP | ≥2 | Grass | Physical | 14-20; The Opponent Flinches. If the Opponent used Minimize, damage is increased by 6.
 Night Daze | 9 BP | 7 AP | ≥2 | Dark | Special | 12-20; The Opponent's Accuracy is decreased by 1.
@@ -432,7 +432,7 @@ Scale Shot | 2 BP | 6 AP | ≥3 | Dragon | Physical | Multi-Hit. The User's Evas
 Scorching Sands | 7 BP | 6 AP | ≥2 | Ground | Special | 14-20; The Opponent is afflicted with *Burn*. Thaws User and Opponent.
 Scratch | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Searing Shot | 10 BP | 8 AP | ≥2 | Fire | Special | 14-20; The Opponent is afflicted with *Burn*. Multi-Target.
-Secret Power | 7 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The Environment and Terrain are used to determine the effect.
+Secret Power | 7 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The [Environment and Terrain](https://rentry.co/tmd2many_moves#secret-power-table) are used to determine the effect.
 Secret Sword | 9 BP | 7 AP | ≥2 | Fighting | Special | The Opponent's Defense is calculated in place of Special Defense.
 Seed Bomb | 8 BP | 6 AP | ≥2 | Grass | Physical | No secondary effect.
 Seed Flare | 12 BP | 8 AP | ≥4 | Grass | Special | 12-20; The Opponent's Special Defense is decreased by 2.
@@ -543,7 +543,7 @@ Vital Throw | 7 BP | 7 AP | - | Fighting | Physical | Never misses.
 **Volt Tackle** | 12 BP | 6 AP | ≥4 | Electric | Physical | 19-20; The Opponent is afflicted with *Paralysis*. [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Wake-Up Slap | 7 BP | 7 AP | ≥2 | Normal | Physical | If the Opponent is afflicted with *Paralysis*, damage is increased by 7. Cures *Paralysis*.
 Water Gun | 4 BP | 4 AP | ≥2 | Water | Special | No secondary effect.
-Water Pledge | 8 BP | 7 AP | ≥2 | Water | Special | I don't really feel like explaining the Pledge Moves right now.
+~~Water Pledge~~ | ~~8 BP~~ | ~~7 AP~~ | ~~≥2~~ | ~~Water~~ | ~~Special~~ | Removed.
 Water Pulse | 6 BP | 6 AP | ≥2 | Water | Special | 16-20; The Opponent is afflicted with *Confusion*.
 Water Shuriken | 2 BP | 6 (-1) AP | ≥2 | Water | Special | Multi-Hit. If Battle Bond is activated, Base Power is increased by 1, never misses, and hits 3 times; Roll 3D20.
 Water Spout | 8 BP | 8 AP | ≥2 | Fire | Special | The Move's Base Power is increased by 1 for every 10 HP the User has. 

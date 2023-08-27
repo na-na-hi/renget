@@ -49,11 +49,11 @@ For personal local use only, simply enter the local link that oobabooga cmdline 
 ###### 6. Resources to go further
 a. Currently oobabooga doesn't support batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga, nor the built-in cloudflare proxy tunnel. You have a lot more control if you can set it up, including ddos protection, statistics, prompt-logging, cloudflare proxy, basically anything you can code out. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
 b. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
-c. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged!
+c. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged for GPU time!
 d. How to host on vast.ai:
 Follow the steps in this link, but at the Image Selection step, click Edit and add "--api --public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![T](https://files.catbox.moe/v05qh5.png)
-Then start the instance, run `cat /app/onstart.log` for your public API link.
+Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
 For multi-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
 e. text-generation-inference command line that worked for me:
@@ -63,6 +63,6 @@ docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io
 f. Power limit your GPU for marginally less performance - You can limit your GPUs to use ~75% of their max power for roughly the same performance, they will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
 ```
 sudo nvidia-smi -i <GPU_No> -pl <Limit_Wattage>
-sudo nvidia-smi -i 0 -pl 280 # Example for my RTX 3090
+sudo nvidia-smi -i 0 -pl 280 # Example for my RTX 3090, trading 7% performance for 25% less power usage
 ```
 ![T](https://files.catbox.moe/v6qkcv.jpg)
