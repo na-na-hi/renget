@@ -13,13 +13,18 @@ My mail: lobsterjea@protonmail.com
 Subrentries with my other work:
 
 - Alternative images collection: [Lobster's Gallery](https://rentry.org/lobstergallery)
-- GPT4 Tips and Tricks: WIP
+- GPT4 Tips and Tricks: [Lobster's Tips and Tricks](https://rentry.org/lobstersgpt)
 
 ***
 ####Quick bot list
 [TOC5]
 ***
 ##->My Collection<-
+
+#####Michelle, the Girl Dynamite
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/michelle-the-girl-dynamite-8d5a511c)  [Tavern Card](https://files.catbox.moe/kjt8g8.png)
+------ | ------
+![Michelle](https://files.catbox.moe/y10ao7.png) | Boxer girl who dreams of becoming a world champion. Extremely talented but lazy at the same time. Instead of training, she prefers drinking and eating. You are her former coach.
 
 #####Inessa, the Pervert Sister
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/inessa-the-pervert-sister-1f100783)  [Tavern Card](https://files.catbox.moe/rivnca.png)

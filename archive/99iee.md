@@ -65,18 +65,19 @@ a H: Atlantis is established.
 16 H: The Neronian Secession happens after opposing groups of shamans argued about developing possibly dangerous spells.
 aa H: Nero Eterna is formed
 17 H: The Blue Anaconda tribe wins the Snake Wars
-aa H: After a decade and more of tribal war, the tribes unite under Blue Anaconda's chieftess Kondia, who names the new nation Anakonia, after herself and her tribe.
-40H: Explorers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria
+aa H: After a decade and more of tribal war, the tribes unite under Blue Anaconda's chieftess Kondia, who names the new nation Anakondia, after herself and her tribe.
+40H: Explorers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria months later.
 56H: Jour De Nuit renames to Diarnuit for ease of writing documents; The Divide is enacted, assigning elves, angels, fairies and similar to the eastern part, while dwarves, goblins, hobbits and other similar races were assigned to the western part.
 57H: The Sky Council in Diarnuit is formally founded and with it, designate their first Sky Regent through a vote amongst the Council.
-62 H: The Avian Uprising happens
+62 H: The Avian Uprising happens when the Shishiro faction and Takane faction clash over territory, when the latter felt cheated by the former.
+70 H: Ganachi Takane forcefully becomes the first non-Shishiro to rule Savan.
 101 H: The Avian Period ends, with a deal struck between the opposing sides to let the avian races occupy the northern island of Savan, under the recently-crowned Bolion Shishiro's rule.
 103 H: The Consejo de Azur is convened for the first time to have a cohesive government in the nation.
 135 H: Kizuna Ai is born.
 140 H: Negazion under Tyrannus Maopla launch an invasion into the rest of Aurorai
 141 H: Nero Eternalis is occupied by Negazion
 143 H: Polaria and Blancopolis declare war on Negazion
-aaa H: The Valkyries are formed by the Polarian King, with Kizuna Ai as leader.
+aaa H: The Valkyries are formed by the Polarian King, with Kizuna Ai selected as leader.
 144 H: Atlantis attacks Diarnuit, bribes Anakondia to supplant its numbers.
 145 H: Atlantis forms an alliance with Negazion, Diarnuit and Savan jointly declare war on Atlantis
 150 H: Cita Azur occupied by Atlantis.
@@ -97,8 +98,8 @@ aaa H : Fallen Star Graveyard constructed
 350 H: Phoenixes and Dragons break away peacefully from Diarnuit
 351 H: Stadt Des Feuers is formed, with Kohryu Shenloong as its first leader.
 501 H: Last of the Polarian Valkyries dies in peace.
-582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, setting up in Elysium; an area middling Diarnuit and Polaria. The Guild's main objective is to protect travelers and remote towns from banditry and robbery.
-593 H: Sora Tokino is born in Holopolis
+582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, with its primary purpose being to travelers and remote towns from banditry and robbery.
+593 H: Sora Tokino is born in Holopolis.
 610 H: King Covigo ascends the throne from his father, the former King Covaki.
 611 H: Covernius appears in King Covigo's dream to tell him to establish an order of extraordinary people across Aurorai.
 616 H: The Order of Iridescent Guardians ia formed by King Covigo, selecting Sora Tokino as its first member of many
@@ -119,7 +120,7 @@ aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himse
 628 H: The Celestium bickers over the state of Aurorai's mortals. Rojoris deems Aurorai too soft after centuries' worth of peace, to which Covernius and Auroia protest.
 629 H: Regis Altare inherits the top position of the Tempus Guild from his mentor, Polaris Tempest.
 aaa H: Grand Pontifex Damaso declares both the Tempus Guild and the Knights division of The Order heretics, along with those who actively mingle with them.
-630 H: Rojoris takes on the rest of the Celestium, fatally wounding Nijongis and Auroia, heavily wounding Covernius Absorbing the slain Celestians' power, the Dark Aurora is let loose and is sighted all over Aurorai
+630 H: Rojoris takes on the rest of the Celestium, fatally wounding Nijongis and Auroia, heavily wounding Covernius. Absorbing the slain Celestians' power, the Dark Aurora is let loose and is sighted all over Aurorai
 aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of his surviving children with Auroia to aid the mortals, Irys and Omega, and give them the promised weapons to bring down Rojoris
 
 >*The game is currently in 630 Holomini.*
@@ -131,145 +132,167 @@ aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of 
 
 Capitol: Holopolis
 Current Leader: King Covigo(16th)
-Central Building: Castle Crystale
+Exec. Center: Castle Crystale
 Established: 1 H
 ***
 >Found in the center of Aurorai, Polaria is home to the biggest amount of mortals in the land, a big percentage of such being humans. Has a temperate climate excellent for farming or city life. Throughout the Holomini years, the country's leaders have enjoyed their inputs being followed by the rest of Aurorai. They also have appointed their own King/Queenhand, a trusted ally to oversee the daily operations of the castle and assisting the King/Queen. Kizuna Ai and the First Knights from the olden days of The Great Aurorai War trace their origins here. Polaria is reputed as the place to make it big although its cities may be too busy for someone not too used to them. Units hailing from here are Sora, Shion, Noel, Temma, Luna, Miko and Amelia, as well as most of Guild Tempus.
 
-Savan
+#### Savan
 
 Capitol: Lionsgard
 Current Leader: Queen Botan Shishiro(14th)
+Exec Center: Lion's Keep
 Established: 2 H
+***
+>The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 72 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The island is now called Skymount, a new province ruled by succeeding Takanes. The King or Queen has a Council of their own choosing guiding her decisions, which still exists until this day . Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Savan has Territories that make up the land. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
 
-    The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 72 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The island is now called Skymount, a new province ruled by succeeding Takanes. The King or Queen has a Council of their own choosing guiding her decisions, which still exists until this day . Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Savan has Territories that make up the land. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
-
-Diarnuit
+#### Diarnuit
 
 Capitol: Le Eclipse
 Current Leader: Uriel Amane(8th) (angel)
+Exec. Center: Keep of Dusk and Dawn
 Established: 2 H
+***
+>Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Angels have won all but one Sky Council election, including this current one.Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. To promote unity in spite of the difference and division, the Sky Council holds a yearly contest of might and wit called The Eclipse Olympiad. Units like Lamy, Kanata, Aki and Flare, come from here.
 
-    Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Angels have won all but one Sky Council election, including this current one.Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. To promote unity in spite of the difference and division, the Sky Council holds a yearly contest of might and wit called The Eclipse Olympiad. Units like Lamy, Kanata, Aki and Flare, come from here.
-
-Cita Azur
+#### Cita Azur
 
 Capitol: New Poseidon
 Current Leader: Councillor Dolph (13th since freed, 22nd overall)
+Exec. Center: The Marina Hall
 Established: 46 H
+***
+>First discovered by seafarers from Polaria, Cita Azur is haven for all people plying the seas. Merchants, pirates and just about all manner of ship-using profession regard Cita Azur as the center of such things. Chief among such denizens are the Houshou Pirates, established in 585 H by Marn Houshou, ancestor to the current leader Marine who appears as a unit. When The Sinking happened, what little of the Atlantean population that was left found refuge here. Such refugees include Atlantean royalty Gura Gawr, who also appears as a unit. When it comes to coastal getaways, Cita Azur is nigh-unbeatable in sheer beauty of its coasts as well as the warm, balmy climate befitting its location and height above sea.
 
-    First discovered by seafarers from Polaria, Cita Azur is haven for all people plying the seas. Merchants, pirates and just about all manner of ship-using profession regard Cita Azur as the center of such things. Chief among such denizens are the Houshou Pirates, established in 585 H by Marn Houshou, ancestor to the current leader Marine who appears as a unit. When The Sinking happened, what little of the Atlantean population that was left found refuge here. Such refugees include Atlantean royalty Gura Gawr, who also appears as a unit. When it comes to coastal getaways, Cita Azur is nigh-unbeatable in sheer beauty of its coasts as well as the warm, balmy climate befitting its location and height above sea.
-
-Nero Eterna
+#### Nero Eterna
 
 Capitol: Yozora Eternus
 Current Ruler: Death Muertos (13th)
+Exec. Center: Nero High Hall
 Established: 16 H
+***
+>A breakaway from Negazion, Nero Eterna gives demons, imps and the like a home. Most elder magic is said to have originated in this swampy, humid and wet lowland. Rivers snake through the marshland making for a very humid climate especially on the seaside western parts. Denizens make their homes from the imposing and scary-looking trees in their dominion, if not from the relative highlands surrounding the mountain range. The nation has the lowest above-sea levels of all Aurorai, with their highest flatland being equal to average Aurorai above-sea level height. The Fallen Star Graveyard resides here, resting place of many a famed individual, like Kizuna Ai and the First Knights. Units from here include Ayame, Towa, Choco, Calliope and Oga.
 
-    A breakaway from Negazion, Nero Eterna gives demons, imps and the like a home. Most elder magic is said to have originated in this swampy, humid and wet lowland. Rivers snake through the marshland making for a very humid climate especially on the seaside western parts. Denizens make their homes from the imposing and scary-looking trees in their dominion, if not from the relative highlands surrounding the mountain range. The nation has the lowest above-sea levels of all Aurorai, with their highest flatland being equal to average Aurorai above-sea level height. The Fallen Star Graveyard resides here, resting place of many a famed individual, like Kizuna Ai and the First Knights. Units from here include Ayame, Towa, Choco, Calliope and Oga.
-
-Stadt Des Feuers
+#### Stadt Des Feuers
 
 Capitol: Flammiena
 Current Ruler: Coco Kiryu (4th)
+Exec. Center: Hall of Flame
 Established: 351 H
+***
+>The youngest nation of all Aurorai, Stadt Des Feuers is located in a small island state off the coast of Cita Azur. The island they reside was all that was left of the old nation of Atlantis, banished to the depths as punishment for their crimes in The Great Aurorai War. Weather here is warm and balmy but not humid which the residents are thankful for due to the island in its current form having high above- sea levels. Aside from Coco, Kiara also appears as a unit as well as her Kiara's Fighter Phoenix squad; a small squad of phoenixes and fiery-hearted warriors in general under her name.
 
-    The youngest nation of all Aurorai, Stadt Des Feuers is located in a small island state off the coast of Cita Azur. The island they reside was all that was left of the old nation of Atlantis, banished to the depths as punishment for their crimes in The Great Aurorai War. Weather here is warm and balmy but not humid which the residents are thankful for due to the island in its current form having high above- sea levels. Aside from Coco, Kiara also appears as a unit as well as her Kiara's Fighter Phoenix squad; a small squad of phoenixes and fiery-hearted warriors in general under her name.
-
-Blancopolis
+#### Blancopolis
 
 Capitol: Citablanca
 Current Ruler: Grand Pontifex Damaso (36th)
+Exec. Building: Corte Bianca
 Established: 1 H
+***
+>A theocratic nation, Blancopolis originally was the place that ardently worshipped the entirety of The Celestium. Formed just after Polaria, its tied with it for being the oldest established nation of Aurorai. In 619 H, a new doctrine was rapidly spread to the citizens that enforces strict gender rules and segregation propagated by the then-Bishop Damaso. Shortly after swiftly and ruthlessly ascending the throne in 620 H, radical changes were implemented in the nation. Major of such changes included every male and female interaction that is not by blood nor adoption is screened and monitored carefully by a board of priests per estate. Women in particular are forced to serve the clergymen and cater to their every whim while men were treated as expendable bodies, toiling the vast state-owned farms, building new temples, running security in the clergy's properties, and other hard labor, including fighting conflicts if their masters demands it.
 
-    A theocratic nation, Blancopolis originally was the place that ardently worshipped the entirety of The Celestium. Formed just after Polaria, its tied with it for being the oldest established nation of Aurorai. In 619 H, a new doctrine was rapidly spread to the citizens that enforces strict gender rules and segregation propagated by the then-Bishop Damaso. Shortly after swiftly and ruthlessly ascending the throne in 620 H, radical changes were implemented in the nation. Major of such changes included every male and female interaction that is not by blood nor adoption is screened and monitored carefully by a board of priests per estate. Women in particular are forced to serve the clergymen and cater to their every whim while men were treated as expendable bodies, toiling the vast state-owned farms, building new temples, running security in the clergy's properties, and other hard labor, including fighting conflicts if their masters demands it.
-
-Anakondia
+#### Anakondia
 
 Capitol: Jaggeskal
 Current Ruler: Grand Hydra Karonda (12th)
+Exec. Building: Cobra Hall
 Established: 17 H
 
-    Home to a group of united reptilian amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
+>Home to a group of united reptilian amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
 
-Negazion
+#### Negazion
 
 Capitol: Direcore City
 Current Ruler: Vermel Darkstar(18th)
+Exec. Center: Blackstar Castle
 Established: 7 H
+***
+>An enigma of a land, Negazion is a barren chain of 3 islands in its current form. Sunk in a great flood for their agression in the Great War, Negazion's landscape is a shadow of their former glory: wide highlands that rival that of Diarnuit's. Today, it's dull yellow sands send a harsh greeting to anybody who dare visit, as well as chronicle the various magical experiments the government made to improve their surroundings for food. Negazian royal mages will push relentlessly for any advantages they can use to get back at the Aurorai mainland; monstrous weapons, overt and covert operations all across Aurorai, and a myriad of fearsome dark spells not even the shamans of Nero Eterna dare invoke. Principal among these is dark spell called Dox Majica, a spell only the highest and most decorated of Negazian royal mages can wield without major repercussions including their own life or sanity. This evil spell feeds on the negative emotions and memories of the victim and drains all positives out, leaving the victim either dead or a husk easily puppeteered by magic. In the catacombs of Blackstar Castle, the royal mages have mastered the science of cloning, which they use to supplant their military numbers including war beasts like horses, pegasi, and wyverns. Ruling succession is a very serious and violent matter, being decided by a duel to the death between the reigning Tyrannus and the challenger. All citizens here have been mandated to not know the history of Aurorai save for their origin, the Great War(highlighting their victories), their defeat, and their efforts to even the score. Being in the military in this nation grants perks normal citizens do not have access to, which only lengthens as they rise up the ranks.
 
-    An enigma of a land, Negazion is a barren chain of 3 islands in its current form. Sunk in a great flood for their agression in the Great War, Negazion's landscape is a shadow of their former glory: wide highlands that rival that of Diarnuit's. Today, it's dull yellow sands send a harsh greeting to anybody who dare visit, as well as chronicle the various magical experiments the government made to improve their surroundings for food. Negazian royal mages will push relentlessly for any advantages they can use to get back at the Aurorai mainland; monstrous weapons, overt and covert operations all across Aurorai, and a myriad of fearsome dark spells not even the shamans of Nero Eterna dare invoke. Principal among these is dark spell called Dox Majica, a spell only the highest and most decorated of Negazian royal mages can wield without major repercussions including their own life or sanity. This evil spell feeds on the negative emotions and memories of the victim and drains all positives out, leaving the victim either dead or a husk easily puppeteered by magic. In the catacombs of Blackstar Castle, the royal mages have mastered the science of cloning, which they use to supplant their military numbers including war beasts like horses, pegasi, and wyverns. Ruling succession is a very serious and violent matter, being decided by a duel to the death between the reigning Tyrannus and the challenger. All citizens here have been mandated to not know the history of Aurorai save for their origin, the Great War(highlighting their victories), their defeat, and their efforts to even the score. Being in the military in this nation grants perks normal citizens do not have access to, which only lengthens as they rise up the ranks.
+***
 
-The Order of Iridescent Guardians
+***
 
-The main cast of the game. The Guardians are your key to averting this crisis and bring peace to Aurorai once more. Assembled from different walks of life by King Covigo, they're an elite force destined to band together and save Aurorai.
+### The Order of Iridescent Guardians
 
-    Characters are ordered and grouped according to order of appearance.
+==The main cast of the game. The Guardians are your key to averting this crisis and bring peace to Aurorai once more. Assembled from different walks of life by King Covigo, they're an elite force destined to band together and save Aurorai.==
 
-THE GUARDIANS
-Prologue
+->Characters are ordered and grouped according to order of appearance.<-
+***
+->   T H E   G U A R D I A N S   <-
+***
 
-Sora
+#### Prologue
 
-    The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. Sora can be rather clumsy and precocious as a child, as her longtime friend A'chan can attest. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
+->**Sora**<-
 
-    Home: Polaria
+>The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. Sora can be rather clumsy and precocious as a child, as her longtime friend A'chan can attest. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
 
-A'chan
+==Home: Polaria
 
-    Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. She was King Covigo's first appointment as King. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep and putting her into an apt resting place, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page to tend to her.
+->**A'chan**<-
 
-    Home: Polaria
+>Sora's long-time friend and Kinghand of Polaria. All operations regarding the Guardians are overseen by her, as well as matters of Polarian policy. She was King Covigo's first appointment as King. Hardworking to a fault, people around the castle take upon themselves whenever possible to look after her. "Looking after her" included picking her up from her seat when she just falls asleep and putting her into an apt resting place, making a hot meal occasionally, among others. For such hard work, in 628 H, a young lass named Nodoka Harusaki was appointed as her page to tend to her.
 
-Chapter 1
+==Home: Polaria==
 
-Noel
+***
 
-    A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. Her body growing was the source of many whispers; of ogling from boys, of jealousy from girls. Rumor has it that she does things with younger boys that are enchanted at the idea of a beauty as her being a Knight of Polaria. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
+#### Chapter 1
 
-    Home: Polaria
+->**Noel**<-
 
-Flare
+>A dutiful officer of the Polarian Army. She takes her job seriously, always tending to those in need with her trusty mace at her side. Born in the rural slums of Polaria, Noel took up the armor to give back to her family, especially her brother who worked as a trader of sorts. Her body growing was the source of many whispers; of ogling from boys, of jealousy from girls. Rumor has it that she does things with younger boys that are enchanted at the idea of a beauty as her being a Knight of Polaria. She has a deep friendship with her fellow Fantasia Brigade member, the elf Flare Shiranui.
 
-    An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. The decision baffled the academy's instructors, which rarely saw elven children as anything but bow-wielders, even those elves that used them less often. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, never letting anybody dictate her choices and making them respect said choices. She regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend. Rumor has it that it goes deeper.
+==Home: Polaria==
 
-    Home: Diarnuit
+->**Flare**<-
 
-Chapter 2
+>An outgoing and frank elf from Diarnuit. Wanting to be different than most in her town her age, she took up the spear instead of the bow most elves would pick up. The decision baffled the academy's instructors, which rarely saw elven children as anything but bow-wielders, even those elves that used them less often. Born to the fire elf estates bordering West Diarnuit, she is as fiery like her name, never letting anybody dictate her choices and making them respect said choices. She regards the Polarian knight and co-member in the Fantasia Brigade Noel Shirogane a very trusted friend. Rumor has it that it goes deeper.
 
-Aruran
+==Home: Diarnuit==
 
-    A half-breed of a human and elf, he is half-brother to Flare, but both care not for the distinction. He cares for his family deeply, running to the aid of any of his half-siblings. They both are fathered by an elf named Laack. He is a gentleman that runs a restaurant that specializes in a type of pie called pithza; a pie that has cheese and tomato sauce smothered into it, topped with various meats, veggies and even seafood, then baked in a brick oven for a time. He also has a talent in curating music, doing so for parties done in his restaurant. His Knight colleagues make him the butt of jokes often but he takes it all in good fun. Despite all this, he makes the time to stay fit by training and exercise.
+***
 
-    Home: Polaria
+#### Chapter 2
 
-Enma
+->**Aruran**<-
 
-    An aloof swordfighter raised in the hustle and bustle of the capitol city of Polaria. She can be single-minded, in the sense that she lets her blade do the arguing most times. In most situations, she prefers action rather than words, believing action is far more impactful. In studying the blade, her journey led her to many places all over Aurorai before getting the call by King Covigo to be an Advisor in The Order. She takes care personally of Ina and is very protective of her. She will take any length to support them and keep them from harm.
+>A half-breed between a human and elf, he is half-brother to Flare, but both care not for the distinction. He cares for his family deeply, running to the aid of any of his half-siblings. They both are fathered by an elf named Laack. He is a gentleman that runs a restaurant that specializes in a type of pie called pithza; a pie that has cheese and tomato sauce smothered into it, topped with various meats, veggies and even seafood, then baked in a brick oven for a time. He also has a talent in curating music, doing so for parties done in his restaurant. His Knight colleagues make him the butt of jokes often but he takes it all in good fun. Despite all this, he makes the time to stay fit by training and exercise.
 
-    Home: Polaria
+==Home: Polaria==
 
-Ina
+->**Enma**<-
 
-    Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. The floating tome that accompanies her; Ancena'nis, came from the Cthulu Grand Library when she wandered into the restricted version in her younger years. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
+>An aloof swordfighter raised in the hustle and bustle of the capitol city of Polaria. She can be single-minded, in the sense that she lets her blade do the arguing most times. In most situations, she prefers action rather than words, believing action is far more impactful. In studying the blade, her journey led her to many places all over Aurorai before getting the call by King Covigo to be an Advisor in The Order. She takes care personally of Ina and is very protective of her. She will take any length to support them and keep them from harm.
 
-    Home: Nero Eterna
+==Home: Polaria==
 
-Chapter 3
+->**Ina**<-
 
-Izuru
+>Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. The floating tome that accompanies her; Ancena'nis, came from the Cthulu Grand Library when she wandered into the restricted version in her younger years. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
 
-    A tacticurn agent of The Order, he prefers empty, quiet outdoors to himself. Born to a dying mother and deadbeat father in the outskirts of Holopolis to the east, Izuru tried to make ends meet at a tender age. His efforts were proven futile as his beloved mother passed at age 10. He then traveled by himself to Holopolis to look for greener pastures. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. His love for the outdoors is a product of his harsh growing-up years, never knowing what a secure home looked like. He owes the King deeply for this, agreeing immediately to join the Knight division of The Order.
+==Home: Nero Eterna==
 
-    Home: Polaria
+***
 
-Miko
+#### Chapter 3
 
-    Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up parts of her wage being a Guardian to move themselves to a better neighborhood.
+->**Izuru**<-
 
-    Home: Polaria
+>A tacticurn agent of The Order, he prefers empty, quiet outdoors to himself. Born to a dying mother and deadbeat father in the outskirts of Holopolis to the east, Izuru tried to make ends meet at a tender age. His efforts were proven futile as his beloved mother passed at age 10. He then traveled by himself to Holopolis to look for greener pastures. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. His love for the outdoors is a product of his harsh growing-up years, never knowing what a secure home looked like. He owes the King deeply for this, agreeing immediately to join the Knight division of The Order.
 
-Chapter 4
+==Home: Polaria==
+
+->**Miko**<-
+
+>Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up parts of her wage being a Guardian to move themselves to a better neighborhood.
+
+==Home: Polaria==
+
+***
+
+#### Chapter 4
 
 Aqua
 
@@ -277,48 +300,54 @@ Aqua
 
     Home: Polaria
 
-Shion
+->**Shion**<-
 
-    A prodigy of the Polarian Magical Academy, her confidence is backed by results. Such results include topping every exam she's subjected to, to the point she gets an aceeleration to even the odds for the rest of the academy. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place, sullied when a rumor that their ancestor is actually an illegitimate line from another magical family's patriarch. Shion does not interact much with her colleagues except with Aqua Minato, a maid in Castle Crystale, Polaria's seat of power and her fellow Second Brigade member.
+>A prodigy of the Polarian Magical Academy, her confidence is backed by results. Such results include topping every exam she's subjected to, to the point she gets an aceeleration to even the odds for the rest of the academy. Most who'd see her antics would regard her a brat, but under such exterior lies some insecurities, like her age and her background, which had a rough record in Aurorai's magical history. Everyday, she toils for the day the Murasaki name to be in what she deems their proper place, sullied when a rumor that their ancestor is actually an illegitimate line from another magical family's patriarch. Shion does not interact much with her colleagues except with Aqua Minato, a maid in Castle Crystale, Polaria's seat of power and her fellow Second Brigade member.
 
-    Home: Polaria
+==Home: Polaria==
 
-Chapter 4x
+***
+
+#### Chapter 4x
 
 (Shinove's bio would not be present here despite appearing as playable here.)
 
-The Aspirant
-(Aka Avatar)(M/F variants)
+==->**The Aspirant**<-==
+==(Aka Avatar)(M/F variants)==
 
-    A fan of the Guardians, they have dreamed all their lives of being called to join their ranks. They come from the latest line of a knightly House from Polaria that have lost their lives in defense of the manor in the Negazian onslaught, including them. But they get a second chance from Omega, reviving them to fight again. Now, they carry the honor of their entire knightly House and the burden of avenging his family and all who served their House.
+>A fan of the Guardians, they have dreamed all their lives of being called to join their ranks. They come from the latest line of a knightly House from Polaria that have lost their lives in defense of the manor in the Negazian onslaught, including them. But they get a second chance from Omega, reviving them to fight again. Now, they carry the honor of their entire knightly House and the burden of avenging his family and all who served their House.
 
-    Home: Polaria
+==Home: Polaria==
 
-Temma
+->**Temma**<-
 
-    Cheerful and eccentric if not downright dark, he is a Knight of Polaria. Born to a family of knights, he's an only son. This has lead to him having a compulsion to name everything after himself, a habit he thankfully mostly outgrown. He is friendly towards the citizens but can be merciless against those who would threaten them. To talk to more people, he studies the different languages of Aurorai in his spare time. He also does sport hunting when he's off duty along with fellow Knights. After he and a few others on castle guard duty fled the Negazian onslaught, guilt haunts him; thinking he failed Polaria. On the run, he meets an eccentric pair...
+>Cheerful and eccentric but can be downright dark, he is a Knight of Polaria. Born to a family of knights, he's an only son. This has lead to him having a compulsion to name everything after himself, a habit he thankfully mostly outgrown. He is friendly towards the citizens but can be merciless against those who would threaten them. To talk to more people, he studies the different languages of Aurorai in his spare time. He also does sport hunting when he's off duty along with fellow Knights. After he and a few others on castle guard duty fled the Negazian onslaught, guilt haunts him; thinking he failed Polaria. On the run, he meets an eccentric pair...
 
-    Home: Polaria
+==Home: Polaria==
 
-Pekora
+->**Pekora**
 
-    The shy but devious heir of the Pekodia dukedom in Savan. Her tenure as a Guardian is a story of personal development, from being as closed as a clam to being more open to her peers, with their help. Moona to her is more than a retainer, being the one she trusts the most outside her own family. Meeting Moona was the big catalyst of her remarkable change in personality and attitude. With the connections she made through Moona allowed The Order to secure a deal with the widely-known Kovalskia Armories to arm them and maintain their weapons. The disturbance in House Usada after pretenders to her father's throne spurred on by Negazion made a move on her and her mother. This forced her flee along with her trusted retainer, Moona, to not put her family in any more danger. She puts her ability to wield light magic into wacky and zany uses much to the chagrin of both her pursuers and bystanding citizens alike.
+>The shy but devious heir of the Pekolands dukedom in Savan. Her career so far as a Guardian is a story of personal development, from being as closed as a clam to being more open to her peers, with their help. Moona to her is more than a retainer, being the one she trusts the most outside her own family. Meeting Moona was the big catalyst of her remarkable change in personality and attitude. With the connections she made through Moona allowed The Order to secure a deal with the widely-known Kovalskia Armories to arm them and maintain their weapons. The disturbance in House Usada after pretenders to her father's throne spurred on by Negazion made a move on her and her mother. This forced her to flee along with her trusted retainer, Moona, to not put her family in any more danger. She puts her ability to wield light magic into wacky and zany uses much to the chagrin of both her pursuers and bystanding citizens alike.
 
-    Home: Savan
+==Home: Savan==
 
-Moona
+->**Moona**<-
 
-    Atop her pegasus, Moona is an illustration of beauty in the face of battle, her long lilac hair flowing in the wind as she swoops down upon enemies or merely ferrying her liege Pekora around. She can appear stoic but she is very helpful with people, as her liege Princess Pekora can attest. Becoming her retainer marked a dramatic turn in her personality, becoming more unabashed and open with expressing herself. To Pekora, she is more than just a retainer. She also doubles as her liaison, which helped her liege secure a deal with the famous Kovalskia Armories to arm Pekodia personnel. Unbeknownst to most, within her is a minor moon goddess named Hoshinova, who amplifies her combat abilities, including latent magic only ever seen radiating around her. Hoshinova only ever picks one mortal vessel every generation of the Hoshinova clan they named themselves after.
+>Atop her pegasus, Moona is an illustration of beauty in the face of battle, her long lilac hair flowing in the wind as she swoops down upon enemies or merely ferrying her liege Pekora around. She can appear stoic but she is very helpful with people, as her liege Princess Pekora can attest. Becoming her retainer marked a dramatic turn in her personality, becoming more unabashed and open with expressing herself. To Pekora, she is more than just a retainer. She also doubles as her liaison, which helped her liege secure a deal with the famous Kovalskia Armories to arm Pekolands security personnel. Unbeknownst to most, within her is a minor moon goddess named Hoshinova, who amplifies her combat abilities, including latent magic only ever seen radiating around her. Hoshinova only ever picks one mortal vessel every generation of the Hoshinova clan they named themselves after.
 
-    Home: Diarnuit
+==Home: Diarnuit==
 
-Chapter 5
+***
 
-Ayame
+#### Chapter 5
 
-    A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she challenged Fubuki Shirakami in a sword duel. The fight was intense, but in the end, Ayame won barely. She then soon revealed to her she's with The Order in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
+->**Ayame**<-
 
-    Home: Nero Eterna
+>A noble-born oni swordswoman from Nero Eterna's upper echelons. Refusing to be tied down to typical Neronian nobility activities, she left the Nakiri estate despite the protests of her parents. Her father tried to prevent her journey by force but failed, with a bruise to show for it. One day, she challenged Fubuki Shirakami in a sword duel. The fight was intense, but in the end, Ayame won barely. She then soon revealed to her she's with The Order in an inn somewhere in downtown Polaria. The conversation later swung into an offer of a spot in The Order. Ayame grabbed on to the opportunity to distinguish herself from her noble-born peers back home as well as the opportunity to master her two blades, Rakshasa and Rasetsu.
+
+==Home: Nero Eterna==
+
+***
 
 Chapter 6
 

@@ -157,6 +157,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/483310) : Kantai Collection - Shigure Kai San
 [[Fantia]](https://fantia.jp/products/460049) : Vocaloid - Kagamine Len & Rin
 [[Fantia]](https://fantia.jp/products/430188) : Kantai Collection - Yukikaze Kai Ni / Dan Yang
 [[Fantia]](https://fantia.jp/products/405991) : Kantai Collection - Massachusetts
@@ -237,7 +238,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
-[[Gumroad]](https://ucup.gumroad.com/l/wtger) : Blue Archive - Ryuuge Kisaki
+[[Booth]](https://ucup.booth.pm/items/4969914) [[Gumroad]](https://ucup.gumroad.com/l/qwlgd) : Blue Archive - Ryuuge Kisaki (Blend file)
+[[Gumroad]](https://ucup.gumroad.com/l/wtger) : Blue Archive - Ryuuge Kisaki (T-Pose Blend file)
 [[Booth]](https://ucup.booth.pm/items/4821734) [[Gumroad]](https://ucup.gumroad.com/l/qodmvj) : Kantai Collection - Shimakaze
 [[Booth]](https://ucup.booth.pm/items/4737264) [[Gumroad]](https://ucup.gumroad.com/l/nluiac) : Blue Archive - Hanekawa Hasumi
 [[Gumroad]](https://ucup.gumroad.com/l/qsmhr) : Taimanin Yukikaze - Mizuki Yukikaze

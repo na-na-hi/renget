@@ -125,3 +125,39 @@ As the sun began to set, casting a warm orange glow over the park, Mark and Mia 
 Mark grinned, his heart full of affection. "I'm starting to think that you might be onto something."
 
 With the pups playfully tugging on their leashes, Mark and Mia left the park with hearts that were lighter than before. The connection between them had deepened, and the possibilities of their journey together seemed more exciting than ever. As they walked side by side, the sun setting on the horizon, Mark couldn't help but feel that he had found something truly special in the midst of unexpected connections and playful bonds.
+
+>Chapter 4: Meeting the Parents
+
+The anticipation hung heavy in the air as Mark stood beside Mia on the doorstep of her childhood home. The white picket fence and well-maintained garden painted the picture of a welcoming, loving environment. Mark adjusted his collar, his palms slightly sweaty, as he took in the sight. Meeting the parents was a milestone in any relationship, and he was determined to make a positive impression.
+
+Mia's parents, a shiba inu couple with a mix of warmth and skepticism in their eyes, welcomed them inside. The cozy living room was adorned with family photos and mementos, a testament to the close-knit bonds that defined this household. The faint scent of a home-cooked meal lingered in the air, evoking feelings of comfort and nostalgia.
+
+"Mom, Dad, this is Mark," Mia introduced, a mix of excitement and nervousness in her voice. "Mark, these are my parents."
+
+Mark offered a warm smile, his posture respectful, as he shook hands with Mia's father and exchanged pleasantries with her mother. He could sense the scrutiny in their eyes, the unspoken questions they had for him.
+
+Dinner proceeded with polite conversation, Mark making an effort to share anecdotes that showcased his personality and values. Mia chimed in with her own stories, laughter and familiarity easing the tension in the room. Yet, beneath the surface, Mark couldn't shake the feeling that he was being measured against an invisible yardstick.
+
+As the main course gave way to dessert, the atmosphere shifted. Mia's father leaned forward, his eyes focused on Mark. "So, Mark, tell us about your intentions with our daughter."
+
+Mark met his gaze, his voice steady as he responded. "I care about Mia deeply. She's an incredible person, and I have a lot of respect for her."
+
+Mia's mother's eyes softened, a hint of approval flickering in them. "Mia's been through a lot in the past. We're just concerned that history might repeat itself."
+
+Mark nodded, understanding the gravity of their worry. "I understand your concerns. I know that Mia's been hurt before, and I can assure you that I would never want to cause her any pain."
+
+Mia's father's gaze remained steady, his expression inscrutable. "Actions speak louder than words, Mark."
+
+The room fell into a thoughtful silence, each moment stretching as Mark grappled with the weight of the situation. He understood that Mia's parents were only looking out for their daughter's well-being, but he felt the pressure to prove himself in their eyes.
+
+Dinner concluded, and Mia's parents bid them goodnight, their expressions revealing a mix of caution and hope. Mark walked beside Mia as they headed back to his car, a heavy feeling settling in his chest.
+
+"I'm sorry if things didn't go as smoothly as you hoped," Mia said softly, her voice laced with empathy.
+
+Mark shook his head, offering her a reassuring smile. "It's not your fault. I understand their concerns, especially considering your past. I just wish I had been able to ease their worries."
+
+Mia's hand found his, her grip gentle but reassuring. "They'll come around, Mark. It just might take some time."
+
+As they drove back home, Mark's thoughts lingered on the evening's events. He realized that changing the view others had of him wasn't something that could be achieved overnight. It required time, effort, and a consistent display of character that proved his commitment to Mia's happiness.
+
+As they settled on the couch, Mia rested her head on Mark's shoulder, her presence a comforting balm. He looked down at her, a mixture of determination and hope in his gaze. It was clear that their journey was far from over, but he was willing to face the challenges ahead if it meant earning the trust and acceptance of the people who meant so much to Mia.
