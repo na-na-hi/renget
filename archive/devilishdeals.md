@@ -404,3 +404,68 @@
 >"Anonymous darling~"
 >the owl demon let out a low sensuous tone made your dick twitch in reflex
 >holy genuine fuck
+
+>Stolas started to crawl over you and overshadow your presence
+>the room's atmosphere seemed to get dark and his eyes glowed like a beacon
+>"Pop quiz Anonymous: What is the demon that uses sex and desire to claim men's souls?"
+"Stolas wait-"
+>A claw reaches your lips as the owl emits a tut
+>"Ah ah ah, it's rude to answer a friend's question."
+>his eyes dig into your soul
+>your reminded on WHY he's a prince of hell right now
+"S-Succubus?"
+>he sits up and applauds your answer
+>"Correct! And how do you think they do it?"
+>you pause and think about it
+"They... fuck them until the guy's empty?"
+>two arms right next to your head and you jolt in place
+>"WRONG!"
+>you swallow the lump in your throat as he breathes down on you
+>"It is a simple misconception of observation really."
+>Stolas starts pulling himself back, dragging his claws over your body
+>his fingers leave rips on your t-shirt and the sensation sends electricity down your spine
+>"Succubi prey on men's desire and lust."
+>he grips the hem of your pants and pulls them down
+>"And since they are selfish and lazy creatures, they just let the men wore themselves out."
+>with one swift movement, he pulls of the article of clothing and tosses it away
+>"Even when the men are dehydrated, sleepless, and hungry, they never stop fucking."
+>the owl's hands return and slides from your ankles to your thighs
+>"All because they tasted a forbidden fruit."
+>he takes a long agonizing lick on your growing chub, separated only by cotton fabric
+>"One. Single. Taste."
+>each word was emphasized with each lewd gesture
+>all the while he never kept his eyes off you
+>his tongue feels godly on your dick
+>or demonic
+"Stolas, this feels wrong. This is what we were just talking about!"
+>he suddenly grips your briefs and rips it apart with one swipe
+>your mast stands full attention and it grabs said said attention of the demonic owl above it
+>you see his face falter for a moment
+>"I know Anonymous. I should've just taken my medication."
+>a claw wraps itself around your shaft and starts pumping it
+>"And by medication, I mean a daily dose of dick prescribed by Anonymous M.D.~"
+>his beak latches itself on to your tip and starts slobbering all over it
+>you bite off a moan as you feel another set of claws caress your coin purse
+>'Scream Anonymous.'
+>your eyes widened as you hear his voice in your head
+>'This room was enchanted to hold in any sound that is emitted inside it.'
+>Stolas gives a loud wet smack on your dick leaving behind black lipstick.
+>'So scream, moan, call out my name! LET IT ALL OUT!'
+"AAAAAAAAHHHH!"
+>you grip your sheets and thrust hard balls deep into the bird's throat
+>load after load of pent up sexual frustration is deposited deep into owl's stomach
+>but he takes it in stride as he moans at the sensation of your cock deep in his maw
+>you're hips were holding up the owl's head for several seconds
+>until it gave up and you landed on the bed with a thud alongside the owl
+>you take agonizing deep breathes as you recovered from the mind-blowing head 
+"F-uck ah... Stolas..."
+>said demon was not moving from where he was
+>but you can feel him continue to suckle on your softening dick
+>post-orgasm sensitivity was starting to kick in and it was too much
+>you tried to push his head away but his arms grab your wrists 
+>Stolas pulls his face up and you see mascara running down on his tomato red cheeks
+>alongside a demented gaze directed at you
+>his beak grips your shaft hard and vacuum sucked all of the remaining cum until it lets go with a pop
+>he licks some of the residue off his face
+>"Human cum~ no wonder some demons get addicted to it."
+>that's all he had to say before he started blowing you again

@@ -175,6 +175,10 @@ Below is the Template Sheet, which does not have anything in it. Be sure to repl
 - Species Bonus is included in the Stat Column. Trained Stats are added to the Current Bonus Associated column, added directly to the bonus. 
 	- Be sure to note that the Trained Stat is directly added into the Combat Effect, as depicted in the Sparks example.
 
+->**Supplementary Links**->
+->Other templates that might be relevant or useful for your interest:->
+->[Character Sheet for Nobles](https://rentry.co/tmd2many_nobles)->
+
 ***
 ```
 ![REPLACE](image url) 

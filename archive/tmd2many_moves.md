@@ -285,7 +285,7 @@ Jet Punch | 4 BP | 6 (-1) AP | ≥2 | Water | Physical | Priority.
 Judgement | 10 BP | 7 AP | ≥2 | ??? | Special | Changes Type according to the power of the Held Plate or the Opponent's weaknesses. Room-Hitter.
 Jump Kick | 10 BP | 7 AP | ≥2 | Fighting | Physical | If the Move misses, the User loses ½ of their Max HP.
 Karate Chop | 5 BP | 5 AP | ≥2 | Fighting | Physical | 18-20; Increased Crit Ratio.
-Knock Off | 6 BP | 6 AP | ≥2 | Dark | Physical | If the Opponent has a Worn Item, damage is increased by 3. Removes the Opponent's Worn Item. 
+Knock Off | 6 BP | 6 AP | ≥2 | Dark | Physical | If the Opponent has a Worn Item, damage is increased by 3. 6-20; Removes the Opponent's Worn Item. 
 Kowtow Cleave | 9 BP | 7 AP | - | Dark | Physical | No secondary effect.
 Land's Wrath | 9 BP | 7 AP | ≥2 | Ground | Physical | Multi-Target.
 Lash Out | 7 BP | 8 AP | ≥2 | Dark | Physical | If the User had a Stat decreased by an Opponent last round, damage is increased by 5.

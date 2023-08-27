@@ -822,6 +822,13 @@ Set list (stream starts at 0:18):
 
 #### August 2023
 
+##### Anirveo 2023 Panel with Ina
+[2023-08-20] - audience recording
+[mega](https://mega.nz/file/gfQUVaoa#IevGvK3UOZxYzIg0YUO93Rrdysn9bRuQAqbvAgrADiY)
+
+[palanq](https://archive.palanq.win/vt/search/text/https%3A%2F%2Fmega.nz%2Ffile%2FgfQUVaoa%23IevGvK3UOZxYzIg0YUO93Rrdysn9bRuQAqbvAgrADiY/)
+
+
 ##### 【#Faunaversary2023】 Unarchived karaoke in 3D with MOCOPI!
 [2023-08-25](https://www.youtube.com/watch?v=g3UiN2rsqpI)
 

@@ -18,14 +18,14 @@
 
 
 ##Base iA3 Prodigy .json - Regularized Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and wait for 160 steps to finish then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach 0 then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger ==IMPORTANT:== ```Bucketing sucks don't use it. Crop areas of interest manually. Remove backgrounds optionally.```
 !!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture).```
-!!! danger  ==OPTIONAL:== ```Enable bias_correction to prevent overtraining and/or adjust weight_decay, any value from 0 to 10 should provide epic results (depends on other settings and d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! danger  ==IMPORTANT. ALREADY ENABLED AND SET:== ```Enable bias_correction to prevent overtraining and/or adjust weight_decay, any value from 0 to 10 should provide epic results (depends on other settings and d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! note Clip Skipping a layer or two is a good way to regularize training further. Doing this will not provide you the best resemblance though, for that I recommend training on Clip Skip 1 always. (NovelAI-based is debatable and soon obsolete.)
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.```
 !!! note ==OPTIONAL: Use Batch Size then adjust t_0 accordingly.== ```This has been set to 10 here which should fit within 6GB VRAM and above. Recommend standardizing 10 so that even people on low VRAM can get similar training results as you by following metadata.```
@@ -33,7 +33,7 @@
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: decide on train_on_input true/false and wait for 160 steps to finish then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -54,7 +54,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"growth_rate=1.01\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=2.0\" \"use_bias_correction=False"",
+  "optimizer_args": "\"growth_rate=1.01\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.3\" \"use_bias_correction=True"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -65,7 +65,7 @@
   "stop_text_encoder_training": 0,
   "text_encoder_lr": 1.0,
   "train_batch_size": 10,
-  "train_on_input": false,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
   "weighted_captions": false
