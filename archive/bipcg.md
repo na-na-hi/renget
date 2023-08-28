@@ -1,5 +1,14 @@
 ▶NEW CLIPS
+>Bradley drops off hohols so they can get pounded by artillery in liberated Rabotino
+https://files.catbox.moe/hoitad.MP4
+>"This is your last chance"
+https://files.catbox.moe/pvm1sb.MP4
+>The eternal austrian undermining NATO
+https://files.catbox.moe/73arx0.mp4
+>Stryker parked the Ukranian way
+https://files.catbox.moe/yxswtc.mp4
 >Wild trench fight with a lot of confusion (red = rus, blue = hohol)
+https://files.catbox.moe/bhqpox.mp4 (subbed)
 https://files.catbox.moe/1gt8kj.mp4
 >Hohols make a fat lesbo wedding video for propaganda
 https://files.catbox.moe/j2kqo9.mp4

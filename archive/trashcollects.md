@@ -713,6 +713,10 @@ Mauzy (Artist)
 	https://anonfiles.com/q9d3m235zd/mauzy_v1_4_safetensors
 >Trained on fluffyrock lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is still mauzystyle
 
+Rocky Rickaby (Lackadaisy)
+
+	https://files.catbox.moe/8dj7dr.safetensors
+>Activation token is "ldrocky", trained at 512*512 resolution, clip skip 1.
 # Xenomorphs
 
 	https://pixeldrain.com/u/3zaypdh5
@@ -733,7 +737,9 @@ Mauzy (Artist)
 
 # Fizz (League of Legends)
 
-	https://files.catbox.moe/c45f9c.zip
+	V2: https://files.catbox.moe/c45f9c.zip
+	V3 - FluffyRock: https://files.catbox.moe/h6r871.zip
+	V3 - YiffyMix: https://files.catbox.moe/1q1mz3.zip
 
 # Tulin (Zelda Tears of the Kingdom)
 
@@ -826,6 +832,14 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 # Helbaa (artist Smutbooru)
 
 	https://files.catbox.moe/e67jh6.rar
+
+# Shasta (ShastaNeedsBooze by Mamabliss)
+
+	https://files.catbox.moe/0jdlzr.rar
+
+# Willy (Blow Me Paws by Oddjuice)
+
+	https://files.catbox.moe/54lpqq.rar
 
 ## LORAs from the Discord
 

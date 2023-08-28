@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=U6SCAK3HuvI&t=30s
 ## Programming and Architecture
 
 * [Game Engine Architecture](https://www.gameenginebook.com/): Powerful and thicc.
+* [Mastering Algorithms with C by Kyle Loudon](https://www.amazon.com/Mastering-Algorithms-Techniques-Sorting-Encryption/dp/1565924533/ref=sr_1_1?crid=3GIFE1JFXSK97&keywords=mastering+algorithms+with+c&qid=1693241531&sprefix=mastering+algori%2Caps%2C146&sr=8-1): Data structures and algorithms explained and written out in C
 * [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628): If you can't build your game in assembly, you may as well settle for this. A legendary tome that is easy to find online for free.
 
 ## Math and Physics

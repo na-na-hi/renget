@@ -18,7 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Kuri](https://files.catbox.moe/c7znja.png), [Puppeteer](https://files.catbox.moe/dhg6sd.png)|[Kuri](https://files.catbox.moe/c7znja.png) [MV], [Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV]
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Kuri](https://files.catbox.moe/c7znja.png)|[Kuri](https://files.catbox.moe/c7znja.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png), [Akiko Aname](https://files.catbox.moe/1tbajg.png)|[Akiko Aname](https://files.catbox.moe/1tbajg.png) [MV]
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|
@@ -32,7 +32,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[ΔΤΔ](https://files.catbox.moe/ragcah.png)|
-[CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
@@ -43,7 +42,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||[Vincent](https://files.catbox.moe/de7rcs.png)
-[Creamsan](https://rentry.org/oqhyw) | Misc ||[Mallory](https://files.catbox.moe/kpya0u.png)
+[Creamsan](https://rentry.org/oqhyw) | Misc ||
+[CptPants](https://rentry.org/CptPants) | Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||

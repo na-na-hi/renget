@@ -12,8 +12,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 \---
 \>Streams
 Upcoming streams
-https://youtu.be/4qh-fL7EGLY
+https://youtu.be/Jbl83vHiCCU
+Impromptu HoloCure VC collab with Kiara
+https://youtu.be/-AaOTmXcZ9I?t=8531
 Past streams
+https://youtu.be/4qh-fL7EGLY
 https://www.youtube.com/watch?v=oSqxygM9V4g
 \---
 \>Songs
@@ -36,7 +39,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule : F4GRwddWMAAZ0he
+!!!warning Second OP Post - Tag schedule : F4oePGLXIAAYLiI
 
 \>Introduction to the new jailbirds
 Debut Stream
@@ -48,7 +51,7 @@ https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive
 https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
 \---
 \>Tools
-/ope/'s library (the stream curated page and the membership page aren't up yet)
+/ope/'s library (the membership page will be up as soon as the membership opening stream ends)
 https://rentry.org/joint_operation_center0
 Nerissa's Sounds
 https://rentry.org/c793m

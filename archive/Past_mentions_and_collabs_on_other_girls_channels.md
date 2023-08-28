@@ -40,6 +40,7 @@
 |20/08/2023|[Timestamp #1](https://youtu.be/QbASOQMFC30?t=8595) [Timestamp #2](https://youtu.be/QbASOQMFC30?t=15658) [Timestamp #3](https://www.youtube.com/watch?v=QbASOQMFC30&t=26630s) | **Streamer-chat interactions & Mentions** - Nerissa sending Eurodance songs to Kiara 'for not reasons' (>), more discussions about the Baldur's Gate 3 collab and a topic on planning collabs with Advent with a bit of back-and-forth with Nerissa in chat. |
 |23/08/2023|[Timestamp #1](https://youtu.be/w_9pVLURw0M?t=16158) [Timestamp #2](https://youtu.be/w_9pVLURw0M?t=18000) [Timestamp #3](https://youtu.be/w_9pVLURw0M?t=20649) [Timestamp #4](https://youtu.be/w_9pVLURw0M?t=22330) [Timestamp #5](https://youtu.be/w_9pVLURw0M?t=22566) | **Streamer-chat interactions & Mentions** - Numerous call-outs from the first session due to Kiara playing solo. On the third timestamp, Kiara suggests Nerissa to play some part of the game solo as well. Timestamp #4 & #5 are actually the Kiarab Owl ones.|
 |28/08/2023|[Timestamp #1](https://youtu.be/20BIp5ihKOY?t=5958) [Timestamp #2](https://youtu.be/20BIp5ihKOY?t=6135) | **Streamer-chat interactions & Mentions** - Two instances of back-and-forth related to in-game events during Kiara's second solo BG3 stream. |
+|28/08/2023|[Impromptu collab](https://youtu.be/-AaOTmXcZ9I?t=8531) | **Impromptu collab + Streamer-chat interactions** - This HoloCure started with two streamer-chat interactions until Kiara asks Nerissa to come in VC in order to give advice on how to play HoloCure and what build to use. |
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -90,6 +91,7 @@
 |15/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
 |27/08/2023|[Link](https://www.youtube.com/watch?v=w5gAcmMcrGg) |**Watchalong** - Watchalong of Splash Party! Night! with Advent.|
+|28/08/2023|[Timestamp](https://youtu.be/wz04zoH_THU?t=699)|**Segment** -Segment about the Magia cover during Fuwamoco Morning #12.|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|

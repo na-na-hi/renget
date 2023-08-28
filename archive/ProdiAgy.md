@@ -4,45 +4,47 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info 26 August: Perfect general settings finally reached? Needs more testing on a variety of datasets, will update CivitAI later.
+!!! info 28 August: Think this should be all. Just gotta reupload to CivitAI later now. 
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
 [Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
-[```iA3 can simply be thought of as LoRa*10, it is done anywhere from 40-160 steps and provides the same if not better results than a LoRa.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
+[```iA3 can simply be thought of as LoRa*10, it is done anywhere from 20-160 steps and provides the same if not better results than a LoRa.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
 
 !!! warning iA3 does not need captions and does not need many images. Recommend 10 images as anything above is unnecessary. You can gather only important ones and postprocess by cropping and removing backgrounds.
+!!! warning iA3 is adapted a lot by quality tags. Prompting matters. If the character looks 70% learnt then it likely is 100% learnt but it's just that your prompting is interfering with it.
 
 !!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done after 40. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set T_0 to your total steps (40-100) and wait for t_0 to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
+!!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 11 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the base model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach 0 then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger ==IMPORTANT:== ```Bucketing sucks don't use it. Crop areas of interest manually. Remove backgrounds optionally.```
-!!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture). Recommend to train on each and X/Y/Z.```
-!!! danger  ==OPTIONAL. T_0 IS MORE IMPORTANT THAN REGULARIZATION:== ```Enable bias_correction to prevent overtraining (not recommended just adjust t_0) and/or adjust weight_decay (not recommended since bias_correction is enough), any value from 0 to 10 should provide epic results (depends on other settings and d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
-!!! note Clip Skipping a layer or two is a good way to regularize training further. Doing this will not provide you the best resemblance though, for that I recommend training on Clip Skip 1 always. (NovelAI-based is debatable and soon obsolete.)
+!!! danger ==IMPORTANT:== ```train_on_input means training IN blocks (structure), disabling it means training OUT blocks (texture). Recommend to train on each and X/Y/Z. IN tends to learn fine, OUT tends to learn better.```
+!!! danger  ==NOT RECOMMENDED AT ALL. CLIP_SKIP SHOULD BE WHAT YOU USE INSTEAD:== ```Enable bias_correction to prevent overtraining (not recommended just adjust clip_skip) and/or adjust weight_decay (not recommended since bias_correction is enough), any value from 0 to 10 should provide epic results (depends on other settings and d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy.```
 !!! note ==OPTIONAL: Use Batch Size then adjust t_0 accordingly.== ```This has been set to 10 here which should fit within 6GB VRAM and above. Recommend standardizing 10 so that even people on low VRAM can get similar training results as you by following metadata.```
 !!! warning Don't use Gradient Accumulation, it slows training and is worse than its alternative Gradient Checkpointing.
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: decide on train_on_input true/false and wait for t_0 to finish then manually close. Make X/Y/Z and check 40-100, should be done after 40. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set T_0 to your total steps (40-100) and wait for t_0 to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=100\" \"T_mult=1\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=80\" \"T_mult=1\" \"eta_min=5e-1\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
   "caption_dropout_rate": 0,
   "caption_extension": ".none-use-foldername",
+  "clip_skip": 4,
   "enable_bucket": false,
   "epoch": 31337,
   "gradient_accumulation_steps": 1.0,
@@ -65,7 +67,7 @@
   "stop_text_encoder_training": 0,
   "text_encoder_lr": 1.0,
   "train_batch_size": 10,
-  "train_on_input": true,
+  "train_on_input": false,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
   "weighted_captions": false

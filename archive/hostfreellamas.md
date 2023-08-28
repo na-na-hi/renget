@@ -54,8 +54,8 @@ d. How to host on vast.ai:
 Follow the steps in this link, but at the Image Selection step, click Edit and add "--api --public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![T](https://files.catbox.moe/v05qh5.png)
 Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
-For multi-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
+For multi-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
 e. text-generation-inference command line that worked for me:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic
@@ -63,6 +63,6 @@ docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io
 f. Power limit your GPU for marginally less performance - You can limit your GPUs to use ~75% of their max power for roughly the same performance, they will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
 ```
 sudo nvidia-smi -i <GPU_No> -pl <Limit_Wattage>
-sudo nvidia-smi -i 0 -pl 280 # Example for my RTX 3090, trading 7% performance for 25% less power usage
+sudo nvidia-smi -i 0 -pl 280 # Example for my RTX 3090, trading 10% performance for 25% less power usage
 ```
 ![T](https://files.catbox.moe/v6qkcv.jpg)

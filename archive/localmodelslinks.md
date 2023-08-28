@@ -100,9 +100,8 @@
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge Editing Framework for LLMs
 [Activation Additions](https://github.com/montemac/activation_additions)|Like steering vectors but better. works on gpt2/LLaMA2 
 |
+[OmniQuant](https://github.com/OpenGVLab/OmniQuant)|Omnibearing wight and activation aware quant method with LLaMa 2 scripts 
 [MeZo](https://github.com/princeton-nlp/MeZO)|Forward pass only finetuning method that is more memory efficient with other benefits
-[AWQ](https://github.com/mit-han-lab/llm-awq)|3/4bit activation aware weight quant method that works on multimodal models
-[LLM Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)|PEFT library adapters that work on LLaMA and other models
 [MixDA](https://github.com/Amano-Aki/Mixture-of-Domain-Adapters)|Mixture-of-Domain-Adapters tuning method with impressive reported results
 [LMFlow](https://github.com/OptimalScale/LMFlow)|Similar as above
 [Alpaca LoRa 4bit](https://github.com/johnsmith0031/alpaca_lora_4bit)|Should be best to use LoRa on the 4bit model in this case LLaMa

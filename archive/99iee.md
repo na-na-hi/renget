@@ -5,13 +5,15 @@
 
 The War of the Dark Aurorai
 ***
-->B A  T  T  L  E     F  O  R     A  U  R  O  R  A  I<-
+->B A  T  T  L  E____>F  O  R<___ A  U  R  O  R  A  I<-
 ***
 ### Foreword
 
  >Aurorai started life as a proposed story to a very different fangame which the author was part of the writing team. The head honchos however, deemed his work too dark for the game. Humbled, he accepts the judgment, but thought that his draft would be a waste if he just trashed it. Then one day, he had an epiphany. Why not make a Fire Emblem mod with the story, he said. And so that day, the Aurorai we know is born. In this guide, I shall guide you to everything there is to know about Aurorai.
 
 >With that, enjoy!
+
+***
 
 ### The Celestium and Aurorai's Creation
 
@@ -390,27 +392,29 @@ Aki
 
     Home: Diarnuit
 
-Chapter 8
+***
 
-Calliope
+#### Chapter 8
 
-    The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hard work make her an inspiration as well as the target of a few jealous whispers and naysayers thinking she doesnt deserve to be a Guardian. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. She also remembers for a long time who's who in court, separating her friends from the secret naysayers and users. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as both Rex Mortis and the Head Reaper as he ever nears his impending retirement.
+->**Calliope**<-
 
-    Home: Nero Eterna
+>The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hard work make her an inspiration as well as the target of a few jealous whispers and naysayers thinking she doesnt deserve to be a Guardian. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. She also remembers for a long time who's who in court, separating her friends from the secret naysayers and users. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as both Rex Mortis and the Head Reaper as he ever nears his impending retirement.
 
-Gura
+==Home: Nero Eterna==
 
-    Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. This newfound popularity however was too much for her, turning to alcohol to drown out her sorrows. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War. She would have to put down the bottle if she were to survive.
+->**Gura**<-
 
-    Home: Cita Azul
+>Carefree and happy-go-lucky she may appear, she carries a great burden. She is among the few survivors from the defunct nation of Atlantis, and even fewer remaining nobility. She came awash into Cita Azur's shores in her robes and carrying her trident, one of the few surviving pieces of Atlantean history. To her surprise, most people were charmed by her demeanor and physique, although some others have less-than-savory designs from her. This newfound popularity however was too much for her, turning to alcohol to drown out her sorrows. She is forced to run from her newfound home however as Negazian tries to round up whatever it can of it's old ally in The Great Aurorai War. She would have to put down the bottle if she were to survive.
 
-Suisei
+==Home: Cita Azul==
 
-    Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers and naysayers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. Her axe has cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
+->**Suisei**<-
 
-    Home: Polaria
+>Her origins are a mystery, allegedly a descendant of Covernius and Auroia. When she first came into rural western Polaria, she felt from the skies with a powerful crash similar to that of a comet. Not helping with such allegations is her beauty, said to be a result of such divine heritage. Beauty and alleged heritage however did not made life easy for her, working hard to prove the jealous whisperers and naysayers wrong. Another indicator of her alleged heritage is her celestially ornamented axe. Her axe has cut down many foes and chilling accounts from those lucky enough to tell the tale say that she did so with glee and in a vicious manner. With such skill and killing drive, she has earned the moniker "Suicopath", an apt name for her battlefield antics.
 
-Chapter 9
+==Home: Polaria==
+
+#### Chapter 9
 
 (!)Kronii
 

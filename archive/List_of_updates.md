@@ -124,5 +124,7 @@
 |28/08/2023|108|Mentions & Collabs|Addition of 2 timestamps for mentions during Bijou's membership opening stream.|
 |28/08/2023|109|Mentions & Collabs|Addition of 2 timestamps for streamers-chat interactions during Reimu Endou's RE:Village stream from 27/08/2023.|
 |28/08/2023|110|Music|Deletion of the 6th placeholder, as it could be a bug as per Nerissa's explanation during the closing parts of her second Mad Father stream|
+|28/08/2023|111|Mentions & Collabs|Addition of a timestamp for a segment talking about the Magia cover during Fuwamoco Morning #12 from 28/08/2023.|
+|28/08/2023|112|Mentions & Collabs|Addition of a timestamp for the impromptu collab with Kiara during her HoloCure stream from 28/08/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

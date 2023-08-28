@@ -178,7 +178,7 @@ Fairy Wind | 4 BP | 4 AP | ≥2 | Fairy | Special | No secondary effect.
 **Fake Out** | 4 BP | 7 (-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
 False Surrender | 8 BP | 7 AP | - | Dark | Physical | No secondary effect.
 False Swipe | 4 BP | 4 AP | ≥2 | Normal | Physical | The Move is unable to KO the Opponent.
-Feint | 3 BP | 7 (-1) AP | ≥2 | Normal | Physical | Priority. Nullifies Protect Moves.
+Feint | 3 BP | 7 (-2) AP | ≥2 | Normal | Physical | Priority. Nullifies Protect Moves.
 **Feint Attack** | 6 BP | 6 AP | - | Dark | Physical | Ignores effects dependent on Physical contact.
 Fell Stinger | 5 BP | 5 AP | ≥2 | Bug | Physical | If the Opponent is KO'd, the User's Attack is increased by 3.
 Fiery Dance | 8 BP | 7 AP | ≥2 | Fire | Special | 10-20; The User's Special Attack is increased by 1.
