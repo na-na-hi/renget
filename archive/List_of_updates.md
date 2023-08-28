@@ -118,5 +118,8 @@
 |26/08/2023|102|Mentions & Collabs|Addition of a timestamp containing a mention during Lui's Minecraft stream.|
 |27/08/2023|103|Frontpage & Recommendation|Activation of the Stream curated page.|
 |27/08/2023|104|Changelog| J/ope/C Week 4 backup .zip file uploaded|
+|27/08/2023|105|Mentions & Collabs|Addition of 2 timestamps containing streamer-chat interactions during Kiara's second solo BG3 stream.|
+|27/08/2023|106|Mentions & Collabs|Addition of placeholders for the second part of the BG3 collab.|
+|27/08/2023|107|Mentions & Collabs|Addition of placeholders for the Advent collab on Pico Park.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

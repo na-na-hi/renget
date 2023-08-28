@@ -13,10 +13,8 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 \>Streams
 Upcoming streams
 https://youtu.be/4qh-fL7EGLY
-https://www.youtube.com/watch?v=oSqxygM9V4g
 Past streams
-https://www.youtube.com/watch?v=-P05eG6iN4E
-https://www.youtube.com/watch?v=w5gAcmMcrGg
+https://www.youtube.com/watch?v=oSqxygM9V4g
 \---
 \>Songs
 Cover of Kalafina - Magia

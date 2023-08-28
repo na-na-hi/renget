@@ -8,19 +8,37 @@ Unknown to the world until a few years ago, his lineage is twofold. His mother i
 
 In court he represents the interests of the Linen Tribe and acts as the sole method of diplomacy between the Rantrum Kingdom and Roaring Thunder, a roaming warlord who commands armies of both ferals and wilders. With these warriors, he pillages both villages and trade routes, holding onto plentiful fruit patches and hunting grounds, as well as posing a threat to the stability of the kingdom.
 
-While Howl Cloaked in Tundra's legitimacy as a noble is often come into question, removing him from his position invites instability. Many see this compramise as appeasement to a hostile force.
+While Howl Cloaked in Tundra's legitimacy as a noble is often come into question, removing him from his position invites instability. Many see this compromise as appeasement to a hostile force.
 
 · | ->· ->
 ---- | ----
-**Origin:** Native | **Occupation:** Noble
-**Species:** Furfrou | **Affiliation:** Rantrum Domini
-**Level:** 50 | **Experience to Next Level:** 200/1500
+**Origin:** Native | **Occupation:** Merchant/Diplomat
+**Species:** Furfrou | **Faction Affiliation:** Rantrum Domini
+**Level:** 50 | **Experience to Next Level:**  200/1500
 **Worn Item:** Silk Scarf | **Clothing:** Noble Cape
-**Pokécoin:** 10,000₽ | **Glorious Gold:** 10 Bars
+
+Important Info | Description
+---- | ----
+Source of Wealth/Standing | Howl Cloaked in Tundra controls the production and trade of high-quality textiles used in various industries, as well as acting as the only reliable means of diplomacy with the infamous warlord Roaring Thunder that regularly threatens the safety of villages and trade routes.
+Family History | ==REPLACE Are they old blood, descending from a long line of nobility? Or are they new to the wealth? A chance of good fortune, or hard work that was recognized?==
+Place of Residence | ==REPLACE Where do they live? In guarded ivory towers, or are they representatives of the common 'mon?==
 
 Pokémon's Ability | Description
 ---- | ----
 Fur Coat | he damage done to the User by Physical Moves is decreased by 3. The User is weak to Fire-Type Moves.
+
+!!! note You have skills that can be Trained and applied to situations where they make sense.
+    These may help you in segments where combat is unnecessary or just to simply show your prowess.
+Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+------ | :----: | :----: | :----:
+Attribute: Tracking **ɪ** | Tier **ɪɪ** | 1/3 | ▮▯▯
+Attribute:  Sewing **ɪɪ** | Tier **ɪɪɪ** | 2/3 | ▮▮▯
+Stat: Attack **ɪ** | Tier **ɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+Training for Attribute: Tracking **ɪɪ** | Tier **ɪɪɪ** | 1/3 | ▮▯▯
+Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+
+### Misc. Information
+Below is information not necessarily important to playing as a Noble.
 
 Stat | Points: 12 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -58,17 +76,7 @@ IQ Skills Active/Inactive | Description of Skill | IP Cost
 3. True Defense | True Damage sources have their damage decreased by 3 against the User. DoT effects have their damage increased by 3 against the User. | 4
 Sales Pitch | The User can sell Items for 10% more in shops. | 3
 
-!!! note You have skills that can be Trained and applied to situations where they make sense.
-These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
------- | :----: | :----: | :----:
-Attribute: Tracking **ɪ** | Tier **ɪɪ** | 1/3 | ▮▯▯
-Attribute:  Sewing **ɪɪ** | Tier **ɪɪɪ** | 2/3 | ▮▮▯
-Stat: Attack **ɪ** | Tier **ɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
-Training for Attribute: Tracking **ɪɪ** | Tier **ɪɪɪ** | 1/3 | ▮▯▯
-Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
-
-**INVENTORY (4 slots)**
+**INVENTORY**
 !!! note Items your character is carrying with them. 
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
@@ -79,26 +87,3 @@ Item Name | Description
 2. Razz Berry | Heals the user for 50HP.
 3. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
 4. Warp Seed | 	Causes random teleportation. Perhaps the chaos can be harnessed...
-
-**STORAGE (2 slots)**
-!!! note Extra slots separate from your normal inventory.
-    Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
-Item Name | Description
------- | :----: 
-1. Razz Berry | Heals the user for 50HP.
-2. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
-
-**RP/QUEST STORAGE (∞ slots)**
-!!! note Inventory dedicated to extra stuff. 
-    Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
-Type | Item Name | Description
------- | ------ | :----: 
-Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Noble Cape | A fine blue cape passed down from one generation of nobles to the next.
-
-**OLD MOVES (∞ slots)**
-These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
-Name of Move | Description
------- | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description

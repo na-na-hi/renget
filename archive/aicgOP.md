@@ -22,6 +22,7 @@
 A general dedicated to discussion & development of AI Chatbots
 
 >New
+https://openai.com/blog (OAI News)
 --News here--
 
 >Bots

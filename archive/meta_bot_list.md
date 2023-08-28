@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-08-23)==<-
+->==(Updated 2023-08-28)==<-
 ***
 [TOC2]
 ***
@@ -8,7 +8,7 @@
 - https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
 - https://rentry.org/aicgthemedweeks - small list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
-- https://rentry.org/aicgworldbuilding2 - small list of bots; themed bots from the worldbuilding project; `current`
+- https://rentry.org/dividedskies - small list of bots; themed bots from the worldbuilding project; `current`
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; *deprecated*
@@ -33,6 +33,7 @@
 ***
 Too old, for historical purposes only:
 - https://pastebin.com/tzNf6a8y - re-upload of /v/'s old pastebin; cai only; *deprecated*
+- https://rentry.org/ftat-original-characters - cai characters created by /trash/ftat/ - fapping to AI together
 ***
 ***
 ***
@@ -40,6 +41,7 @@ Sister rentries:
 - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
 - https://rentry.org/aicg_extra_information - /aicg/ OP overflow, additional info missing from the OP
 - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
+- https://rentry.org/meta_golocal_list - /aicg/ (and stolen /lmg/) guides on setting up current gen of local models
 
 Email for feedback and suggestions:
 - aicg2023@proton.me

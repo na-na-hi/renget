@@ -8,7 +8,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2626* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2653* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -395,6 +395,8 @@
 /we are all travelling backwards/i;boards:trash;op:no
 /spread its touch/i;boards:trash;op:no
 /make them rot/i;boards:trash;op:no
+/i'm the worm/i;boards:trash;op:no
+/unfettered is our spite/i;boards:trash;op:no
 
 /w6QDKXL302E/i;boards:trash;op:no
 /VR1SpWupXAQ/i;boards:trash;op:no

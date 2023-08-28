@@ -13,6 +13,7 @@
 |14/08/2023 | [Kiara Compatibility](https://www.youtube.com/watch?v=vdmr7B__G3s) |Kiara| True collab|
 |16/08/2023 | [PowerWash Simulator](https://youtu.be/HYY7Z2M5g6A) |Bae| True collab|
 |22/08/2023 | [Baldur's Gate 3](https://www.youtube.com/watch?v=5ELJqUCPDYY) |[Mori](https://www.youtube.com/watch?v=ESiXE5Jh80k), [Kiara](https://www.youtube.com/watch?v=8jDTWBc7EQE), [Bijou](https://www.youtube.com/watch?v=owm4Eeb6iwg)|  True collab|
+|30/08/2023 | [Baldur's Gate 3 #2](-) |[Mori](-), [Kiara](-), [Bijou](-)|  True collab|
 |Unknown| Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
@@ -37,7 +38,8 @@
 |16/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=vsneBgDq7RM&t=5449s) [Timestamp #2](https://www.youtube.com/watch?v=vsneBgDq7RM&t=6377s) [Timestamp #3](https://www.youtube.com/watch?v=vsneBgDq7RM&t=8529s) [Timestamp #4](https://www.youtube.com/watch?v=vsneBgDq7RM&t=12515s) [Timestamp #5](https://youtu.be/vsneBgDq7RM?t=16290)| **Streamer-chat interactions & Mentions** - Aftermath of FWMC's raid and Kiara proceeds to talk about the Misunderstanding segment involving Nerissa. Also plans for a Getting Over It with VC with possibly Nerissa as a coach.|
 |19/08/2023|[Timestamp #1](https://youtu.be/4SKNGhIQNA8?t=4107) [Timestamp #2](https://youtu.be/4SKNGhIQNA8?t=4457) [Timestamp #3](https://youtu.be/4SKNGhIQNA8?t=11754) [Timestamp #4](https://youtu.be/4SKNGhIQNA8?t=18673) [Timestamp #5](https://youtu.be/4SKNGhIQNA8?t=23604) [Timestamp #6](https://youtu.be/4SKNGhIQNA8?t=26261) [Timestamp #7](https://youtu.be/4SKNGhIQNA8?t=26600)| **Streamer-chat interactions & Mentions** - Aftermath of the APEX Legends collab that Kiara watched - a few in-depth explanations about Advent's chemistry. Timestamp #5, #6 and #7 explains how the future plans for Baldur's Gate 3|
 |20/08/2023|[Timestamp #1](https://youtu.be/QbASOQMFC30?t=8595) [Timestamp #2](https://youtu.be/QbASOQMFC30?t=15658) [Timestamp #3](https://www.youtube.com/watch?v=QbASOQMFC30&t=26630s) | **Streamer-chat interactions & Mentions** - Nerissa sending Eurodance songs to Kiara 'for not reasons' (>), more discussions about the Baldur's Gate 3 collab and a topic on planning collabs with Advent with a bit of back-and-forth with Nerissa in chat. |
-|23/08/2023|[Timestamp #1](https://youtu.be/w_9pVLURw0M?t=16158) [Timestamp #2](https://youtu.be/w_9pVLURw0M?t=18000) [Timestamp #3](https://youtu.be/w_9pVLURw0M?t=20649) [Timestamp #4](https://youtu.be/w_9pVLURw0M?t=22330) [Timestamp #5](https://youtu.be/w_9pVLURw0M?t=22566) | **Streamer-chat interactions & Mentions** - Numerous call-outs from the first session due to Kiara playing solo. On the third timestamp, Kiara suggests Nerissa to play some part of the game solo as well. Timestamp #4 & #5 are actually the Kiarab Owl ones. |
+|23/08/2023|[Timestamp #1](https://youtu.be/w_9pVLURw0M?t=16158) [Timestamp #2](https://youtu.be/w_9pVLURw0M?t=18000) [Timestamp #3](https://youtu.be/w_9pVLURw0M?t=20649) [Timestamp #4](https://youtu.be/w_9pVLURw0M?t=22330) [Timestamp #5](https://youtu.be/w_9pVLURw0M?t=22566) | **Streamer-chat interactions & Mentions** - Numerous call-outs from the first session due to Kiara playing solo. On the third timestamp, Kiara suggests Nerissa to play some part of the game solo as well. Timestamp #4 & #5 are actually the Kiarab Owl ones.|
+|28/08/2023|[Timestamp #1](https://youtu.be/20BIp5ihKOY?t=5958) [Timestamp #2](https://youtu.be/20BIp5ihKOY?t=6135) | **Streamer-chat interactions & Mentions** - Two instances of back-and-forth related to in-game events during Kiara's second solo BG3 stream. |
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -97,6 +99,7 @@
 |18/08/2023|[Nerissa's POV](https://youtu.be/T40-yg1CEgE)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](https://www.youtube.com/watch?v=1L6uZUwIx0o) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=EDeLwLudnqA)) - Shiori was absent|
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
 |25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
+|01/09/2023|[Nerissa's POV](-)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](-), [Bijou](-) and the [FUWAMOCO Twins](-) on Pico Park|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|

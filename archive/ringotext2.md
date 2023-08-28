@@ -476,3 +476,29 @@ Hope you like kimchi farts! Ina's farts are not only pungent with strong korean 
 Gura's farts are almost Kiara tier, but that's because she forgets to eat sometimes. Her farts range from no smell to slightly pungent, with a hint of strawberry right after she's eaten a box of them
 
 -> * * * <-
+
+## >>57182945
+
+>It's been a week since Shiorin was given an important archiving mission by (You)
+>Her butthole had been shut tight with a plug that reaches as deep as her colon and locked with a key
+>Complete with a cute nyakuza kitty tail at the end for everyone to see as she walks
+>She was told to eat nothing but bugs and foods that are high in fiber (like bran)
+>Her ass and gut feels so full form archiving that she can't walk properly
+>Today's the day where you will unlock her anal archive open
+>You order her to take her clothes off and squat her ass over your face
+>Hesitantly and embarrassingly she does so, preparing for the worse to come
+>You take your pants off and whip your dick out
+>A small metal rod is jutting out of your urethra
+>You pull the rod out and on the other end of it is the key to Shiorin's archive plug lock
+>Unlocking the plug, fecal vapor and methane rushes out, filling the room with a strong aroma of death and pestilence
+>You pull the plug out slowly, Shiorin bracing for the biggest relief she's ever had since she was potty trained
+>As the plug pops out, a wave of liquid feces washes over your face
+>Shiorin's rectum gapes open wider as she relieves herself
+>Mud colored and equally textured archival material rain over your face
+>You engorge yourself in the experience
+>The scent was of cadaver and other various digested foodstuffs
+>The texture of soft mushy feces on his face and body
+>Shiorin's anal experience was so great she orgasms as she sprays the liquids all over you
+>Feces keeps pouring for more than an hour, a meal for days to come
+
+-> * * * <-

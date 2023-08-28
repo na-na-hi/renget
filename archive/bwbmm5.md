@@ -382,6 +382,8 @@
 /we are all travelling backwards/i;boards:trash;op:no
 /spread its touch/i;boards:trash;op:no
 /make them rot/i;boards:trash;op:no
+/i'm the worm/i;boards:trash;op:no
+/unfettered is our spite/i;boards:trash;op:no
 
 /w6QDKXL302E/i;boards:trash;op:no
 /VR1SpWupXAQ/i;boards:trash;op:no

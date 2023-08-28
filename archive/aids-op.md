@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/30gjkzr.png)
-Pringles Edition
+![suggested OP image](https://i.imgur.com/invMhB2.png)
+Shopping Cart Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>443342927
+Last thread: >>443863132
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,14 +33,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Elf Friday is over; theme suggestions for next week are being taken! >>443379023
+Write prompts for next week's Mythology Friday! >>443662198
  
 ▶News
+(8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/
 (8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY
 (8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good
 (8/11) Kayra for all tiers; NAI Reddit AMA: https://www.reddit.com/r/NovelAi/comments/15nne4b/we_are_anlatan_the_team_behind_novelainet
 (8/03) NAI fixes GPUs; Kuru talks shop https://www.youtube.com/watch?v=4uJAqwdVIs4
-(07/23) CarperAI/Stability drops 70b LLaMA2 finetune https://ai.meta.com/llama
 
 
 #Perma-Template

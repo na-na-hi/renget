@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-08-26)==<-
+->==(Updated 2023-08-28)==<-
 ***
 [TOC2]
 ***
@@ -89,11 +89,19 @@ https://rentry.org/turbo_ft
 [26 Aug 2023 No.95604296](https://desuarchive.org/g/thread/95602397#95604296)
 *"a small write-up guide on fine-tuning Turbo with some scripts to make the process easier and example cringe 'dataset' too"*
 
+4. Lobster's GPT Tips and Tricks
+https://rentry.org/lobstersgpt
+[27 Aug 2023 No.95637004](https://desuarchive.org/g/thread/95636430/#95637004)
+*"a few tips and tricks I gathered from my experience with GPT4"*
 ***
 ***
 ***
 Sister rentries:
+- https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
+- https://rentry.org/aicg_extra_information - /aicg/ OP overflow, additional info missing from the OP
 - https://rentry.org/meta_bot_list - meta list of various bot lists from different boards
+- https://rentry.org/meta_golocal_list - /aicg/ (and stolen /lmg/) guides on setting up current gen of local models
+
 
 Email for feedback and suggestions:
 - aicg2023@proton.me
