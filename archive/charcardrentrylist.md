@@ -23,8 +23,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png), [Naomi](https://files.catbox.moe/jkhsl5.png), [The Regenerator](https://files.catbox.moe/9ivlga.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|[Candy McGiggles](https://files.catbox.moe/vqnjqq.png)
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png), [Canio](https://files.catbox.moe/t6c32r.png)|[Laith](https://files.catbox.moe/trkyrz.png)
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Oliver](https://files.catbox.moe/j7wn4q.png), [Gin](https://files.catbox.moe/kvj485.png)|[Oliver](https://files.catbox.moe/j7wn4q.png) [MV]
+[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png), [Canio](https://files.catbox.moe/t6c32r.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png), [Claude](https://files.catbox.moe/ut4f09.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
 [Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
@@ -33,6 +33,7 @@ Botmaker | Category | New Bots | Updated Bots
 [CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV]
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png)
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Shiori](https://files.catbox.moe/du5fij.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
@@ -48,7 +49,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||

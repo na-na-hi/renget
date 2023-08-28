@@ -55,6 +55,11 @@ Silly Tavern Expressions: https://files.catbox.moe/5nos0x.rar
 (WIP)
 ![Cunnygirlexpression](https://files.catbox.moe/v8w9r9.png)
 
+#Character LoRA's
+Chiyo Mihama
+https://civitai.com/models/136014?modelVersionId=150018
+![chiyo](https://files.catbox.moe/xgy30f.png)
+
 # OC Bots:
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE
 **Tavern Card** https://files.catbox.moe/6o3c5j.png

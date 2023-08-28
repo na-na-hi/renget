@@ -19,6 +19,7 @@ https://archiveofourown.org/works/47907736/chapters/120785110 (Warm Blood by Jay
 https://archiveofourown.org/works/48793990 (Three Blind (And Gay) Mice by CauxCauxJambaux)
 https://archiveofourown.org/works/48969358 (A Lopunny's Surprise by CauxCauxJambaux)
 https://archiveofourown.org/works/48072268/chapters/124242334 (Blossoming Love by Jaycee777)
+https://archiveofourown.org/works/48072268/chapters/125392108 (A Brush with Twink Death by Jaycee777)
 https://catbox.moe/c/wby09b (Human Pic Edits)
 https://m.imgur.com/a/nVVsmQs (Conner Imgur archive)
 https://files.catbox.moe/0ho8y3.png (Shortstack Raccoons by anonymous)

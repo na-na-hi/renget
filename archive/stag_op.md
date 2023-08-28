@@ -34,5 +34,4 @@ First gameplay reveal and official Bethesda playlist: https://www.youtube.com/wa
 \>>>OP template<<<
 \>https://rentry.org/stag_op (will be periodically updated)
 
-Previous Planetary Survey:
-\>>**[Previous thread goes here]**
+Previous Planetary Survey: **[Previous thread goes here]**

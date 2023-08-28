@@ -445,7 +445,8 @@ Name | Description
 ------ | ------
 Energized Wand | A straight, Walnut wand with a notch for a gem at one end. It has a sensation of living fire. It contains 2 charges of an inserted move, recharges after battle. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it can fully utilize the TM move.
 Channeling Wand | A gnarly, Alder wand with a notch for a gem at one end. It pulsates wildly with power, drawing from the user. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it has half the TM's BP and provides no secondary effects.
-Enchanting Wand | A twisting, Aspen wand with a space for a stone at one end. It has a soft glow. Requires: **TM** + **Heart of the Star** to construct. *The TM can be freely swapped out once constructed.* Once built, it has no BP, regardless of if the TM was an Attacking Move or Status Move, but retains its Secondary Effects.
+Enchanting Wand | A twisting, Aspen wand with a space for a stone at one end. It has a soft glow. Requires: **TM** + **Heart of the Star** to construct. *The TM can be freely swapped out once constructed.* Once built, it can deal no damage, but retains its Primary and Secondary Effects.
+Awakened Wand | A helical branch from the Tree of Life, carved with unique runes. Pure Smeargle paint is carefully held within the recesses of the wood. You can feel the sheer power coursing through the old bark. The printrune symbol of Mew is laid at the base, glittering a playful aura. *Once activated, it will be destroyed.*
 
 ## Technical Machines 
 !!! warning All TMs, once used, cannot be used again. If it is included in your Pokémon's learnset, they may use the TMs specific to that pool.

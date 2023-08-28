@@ -8,6 +8,10 @@ Bun-middie (MxF): https://mega.nz/folder/Jy9SGKyQ#Km_LFMFIqWbOf0DJruXjXQ
 
 Catto (MxM): https://mega.nz/folder/nR8khaZK#y1p5Is1SjfwGmREB0p8k-g
 
+G.C. Bunboy (MxM):
+Daredevil (2023) - https://imgchest.com/p/xny8wl82ybl
+Galavans Penthouse + To All A Dark Knight  (2022) - https://imgchest.com/p/pg73qjjz4rn
+
 Hrothgar (FxM): 
 Wcat - https://imgchest.com/p/ej7m63p94dl
 Beachlander - https://imgchest.com/p/xny8m6np7bl

@@ -446,7 +446,7 @@ Water is collected in rain barrels which are lowered to cloud levels via lengthy
 The entire northern border of the Angelic Heavens borders the fog, so monster attacks are a constant problem. It is believed that of all border states, they receive some of the most frequent monster attacks due to the ground being untamed. To the east is Okayu, southeast Korone, south Pekora, southwest Flare, and west Coco. A very small passage exists in the northwest corridor to Towa’s lands, and has traditionally been a sight of many battles between these two opposite demigods.
 
 ###Flag
-A horizontal triband of blue, white, and blue. The white band is quadruple the size of the white bands. Two smaller black bands border the white band on the left and right. In the center is the halo of Kanata outlined in dark yellow. 
+A horizontal triband of blue, white, and blue. The white band is quadruple the size of the blue bands. There are two black stripes in-between the two blue bands and the white band. . In the center is the halo of Kanata outlined in dark yellow. 
 
 ###General Overview 
 The Angelic Heavens are a curious land full of hardworking, kindly people that live hard lives for the betterment of all. They are born into a difficult land and expected to work or fight until the day they die, all while being a moral example to others. The term Heimin is often used to refer to the citizens of the Angelic Heavens.

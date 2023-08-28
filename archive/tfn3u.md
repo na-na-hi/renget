@@ -12,7 +12,7 @@ Please reply to OP if you have suggestions, I'm busy most of the day. I'm sorry.
 Having them be replies to OP makes it easy for me (and others) to see
 
 Please post Miyoshi Takane? She's very cute
-Last read: #3295
+Last read: #3317
 
 **WILL ADD: Mass Erosion, and how to defend against it** (so you don't spend 999999 ap on reclaiming your tiles)
 

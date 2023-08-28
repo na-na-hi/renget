@@ -469,3 +469,49 @@
 >he licks some of the residue off his face
 >"Human cum~ no wonder some demons get addicted to it."
 >that's all he had to say before he started blowing you again
+>you hiss as Stolas' tongue expertly worked your cock like it was used to it
+>the owl continued to gorge himself with your length, letting out lewd noises all the way
+>he pulls your arms and directs them on top of his head
+>by instinct you grip his feathers and that seemed to encourage him to go faster
+>he hollowed his cheeks as he seem to try suck more cum out straight from your balls
+>your orgasm isn't further away as you throbbed at the back of his throat
+"P-Please stop! I'm gonna cum again!"
+>he suddenly pulls away, letting the cold air hit your twitching, leaking cock
+>you're just one breath away from exploding again but his grip on your dick seems to stop you
+>"Ooh we can't just waste your precious seed here~"
+>he carefully gets on his knees and presents his crotch in front of you
+>a snap of his claws and his panties open up to his cloaca
+>"Not many beings in this world have gazed upon my sacred organ. Well, aside from Stella and Blitzy but the latter made me take a conventional set of genitals since it creeps him out."
+>he opened the entrance to the slit with two claws and let his head peak out with dripping precum
+>"But you'll be the first to enter it my handsome student~"
+>your quiver in anticipation as he drags a gloved claw on your chin
+>but one ounce of sanity still reaches you
+"You c-can't do this. What about your family, your life?! You can't use me as a crutch for your problems!"
+>he grab your head and brings it closer to his
+>he whispers into your ear
+>"But I'll love you regardless."
+>the statement was sealed with a passionate kiss
+>Stolas explored your mouth as he descended on to your shaft
+>your tip opens his cloaca as both of you formed a symphony of moans in each other
+>but that distracted you for a moment until he suddenly envelops himself over you in a single drop
+>OH SHIT 
+>HE GOT THAT GRIP
+>this is a new level of homo sex no man has ever reached
+>he pulls away from the kiss, a bridge of saliva connecting the two of you
+>"N-Nonnykins~! Make me yours!"
+>he resumes the make-out session as you fully hilt inside the demonic owl
+>Stolas pulls up from your cock as he demon grasps your log like it was an alien lover
+>he doesn't hesitate to wait on your tip before he forces you inside his slit again
+>the heat from his body made you want to cum but the sheer tightness kept you from finishing
+>this continued as he slammed, grind, and bounced on your hips like no tomorrow
+>the demon would whisper into your ear sweet promises of his absolute loyalty and attention
+>a pool of precum was forming between the two of you as the two of you frotted inside the owl
+>you were starting to lose your mind from all the sensation and influence the demon wrought upon you
+>primal instincts took over you and you gripped his plump bird ass and started thrusting back
+>Stolas chirped as soon as your dick hit the floor of his guts
+>"YES! THAT'S IT NONNYKINS~ FUCK ME! LOVE ME!"
+>the gloves on his arms protected your back as he dragged his claws all over your skin
+>both of you were delirious in each others arms as you continued to split his insides 
+>you were already at your limit and you bucked one last time 
+>white flooded the guts of Stolas as he whined at the sensation 
+>his cock finally sprung up from his slit let out a few syrupy loads on your stomach

@@ -5,12 +5,6 @@
 !!! danger DISCLAIMER
     The fantasy isn't actually all that dark.
 
-!!! warning CURRENT STATUS
-	->**ACTIVE**<-
-    ->I'm around, for now.<-
-	
-
-
 ##->INTRO<-
 Welcome to my rentry where I upload my bots. I don't really have any particular themeing beyond just doing shit that I like, though the fetishes I like the most for NSFW bots are pregnancy, lactation and bondage.
 
@@ -19,6 +13,9 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
 
+!!! warning CURRENT STATUS
+	->**SEMI-HIATUS**<-
+    ->Here and there, won't always be around in /aicg/, but feel free to hit me up in my burner (darkfantasy109@proton.me) if you wanna talk! I'm always happy to do that.<-
 
 **Table of Contents**
 [TOC2]

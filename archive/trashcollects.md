@@ -823,6 +823,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/c5nc6d.rar
 
+# Helbaa (artist Smutbooru)
+
+	https://files.catbox.moe/e67jh6.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -829,6 +829,7 @@ Kraftwerk Hero Agency - Internship Application (Takeda Hifumi): https://rentry.o
 Too Good to Be True (Hailey, Yui, Orochi): https://rentry.org/z7ize
 The Pencil (Ryu-kishi, Maru(maru), Mirror Devil): https://rentry.org/sdtvh
 Hitomi-chan's First Date (Feral, Drekus, Reaper): https://rentry.org/2tu8m
+"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marror): https://rentry.org/TheTalkAndBully
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
