@@ -2,7 +2,7 @@
 Hello there dear anon, please come in and pursue my wares, I’m sure there will be something that tickles your fancy….
 
 In all seriousness though, hello! I make bots since I enjoy the creative aspect of it as well as seeing them in action, so if you have any interesting logs feel free to post them.
-If you for some reason want to contact me for bot requests or something else shoot a message to - Thegreatcoom@proton.me
+I'm currently focusing on my studies which means that I won't have time for making bots, but if you want to contact me you can do so at - Thegreatcoom@proton.me
 I've also written a rentry on bot-creativity, if you feel like checking that out - https://rentry.org/TGCsCreativityGuide
 And my bots can be found here - https://www.chub.ai/users/thegreatcoom
 

@@ -54,7 +54,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"growth_rate=1.1\" \"d0=5e-3\" \"d_coef=0.2\" \"weight_decay=0.0\" \"use_bias_correction=False"",
+  "optimizer_args": "\"growth_rate=1.1\" \"d0=5e-3\" \"d_coef=0.2\" \"weight_decay=0.0\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

@@ -77,7 +77,8 @@
 |10/08/2023|[Timestamp #1](https://youtu.be/ixMyHJmLHLI?t=7445) [Timestamp #2](https://youtu.be/4cu0466F_B0?t=2512)|**Streamer-chat interactions** - Greetings & mention of the 400k subscribers plus the God-Ish / 神っぽいな cover.|
 |19/08/2023|[Timestamp](https://youtu.be/ze4SGtNX_9s?t=2703) |**Mentions** - Mention by Bijou about Nerissa's cluelessness about 'helpers and the case of "Nerissa's XXL Milkers".|
 |23/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=G4sq5b7zmtE&t=21826s) [Timestamp #2](https://youtu.be/G4sq5b7zmtE?t=23337)|**Streamer-chat interactions** during Bijou's Elder Ring #4 stream. Nerissa was watching in order to give Bijou's instructions regarding work.|
-|25/08/2023|[Timestamp](https://youtu.be/aN0meN5v6rw?t=4300) |**Mention** - During heer fourth HoloCure stream, Bijou talks about Nerissa sharing videos about who's the flattest Holomem.|
+|25/08/2023|[Timestamp](https://youtu.be/aN0meN5v6rw?t=4300) |**Mention** - During her fourth HoloCure stream, Bijou talks about Nerissa sharing videos about who's the flattest Holomem.|
+|25/08/2023|[Timestamp #1](https://youtu.be/LnAf5icLn-c?t=2218) [Timestamp #2](https://youtu.be/LnAf5icLn-c?t=2340)|**Mentions** - Talks about Nerissa's Magia cover and proceeds to talk about who in Advent would be who in the Madoka universe.|
 |26/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
 
 
@@ -105,6 +106,12 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |31/07/2023|[Link](https://www.youtube.com/watch?v=oC4WJdkWfO0)| **Watchalong** - Watchalong of Nerissa's debut with A-Chan and Mori|
+
+##### ![Image description](https://files.catbox.moe/f9inkg.png) EN - Other Companies
+###### 👻 Reimu Endou 
+|Date|Link|Nature & Notes|
+|---|---|---|
+|27/08/2023|[Timestamp #1](https://youtu.be/xjq_nIonh5M?t=14166) [Timestamp #2](https://youtu.be/xjq_nIonh5M?t=14840)| **Streamer-chat Interactions** - Follow-up of their interaction during the second SOS stream this time on Reimu's channel at the end of her RE:Village stream. Both were bantering about Village and Silent Hill.|
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)->
 

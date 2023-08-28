@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #28 (Monday, 21 August 2023, 15:00 UTC)<-
+->Last updated on thread #29 (Monday, 28 August 2023, 15:30 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -49,6 +49,34 @@ https://archiveofourown.org/works/39383535
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
 ---
+###59115592 Anonymous
+First time trying to write
+>You rest up against a tree completely exhausted
+>You've been traveling along this route for hours now, it's surprising how long it is
+>Your legs are sore from all the walking you've been doing
+>A light breeze hits your skin, the rustling of leaves can be heard
+>You feel calm but also lonely, You decide to release one of your Pokémon to keep you company, Braixen will do
+>You release your Braixen from her Pokéball
+>She yawns and then starts stretching
+>She then stares at you her tail swishing left to right she's happy to see you
+>She runs up to you and sits right next to you
+>She leans her head on your shoulder
+>You put your arm over her shoulder and pull her closer
+[![Braixen and (You): (You).png / 1662659273753.png](https://desu-usergeneratedcontent.xyz/trash/image/1662/65/1662659273753.png)](https://desu-usergeneratedcontent.xyz/trash/image/1662/65/1662659273753.png)
+
+###59103132 Anonymous
+>"C'mon! I saw them over here!"
+S-saw who?! Diane, slow down!
+>"The HUMAN GUYS! Eeeeeeeeee!"
+O-oh dear. Not again.
+>"This won't be like last time!"
+So you aren't going to try to get them to take their shirts off and have me and you give them a 'front massage' with our 'beans?'
+>"Okay you caught me, it's going to be exactly like last time! Eeeeeeeeee!"
+I'd better go with then! Er, to make sure you don't go overboard, Diane!
+>"Sure Mary! That's why you're trying to run faster than me!"
+I am doing no such thing!
+[![Diane & Marian: 93ec0872f2ab89cbb9693b60708c0444.jpg / 1693130328284.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/13/1693130328284.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/13/1693130328284.jpg)
+
 ###58753000 Anonymous
 >"Haaaaay white boy!~"
 >Shaniqua cries out to you
@@ -71,6 +99,7 @@ Don't call yourself that!
 >"Yo where you goin anyways?"
 
 Where are you trying to go without your clingy childhood best friend ghetto-coded fox, Anon?
+[![Saniqua: Black Fox.jpg / 1688231288105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1688/23/1688231288105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1688/23/1688231288105.jpg)
 
 ###Beach greentexts
 (Prompt)
@@ -123,6 +152,7 @@ DO IT NOW.
 >i pull her up from the ice
 >decide to return home to give her a full check up and proper treatment
 >drive with her through the forest and into the winter sunset
+[![Fox GF: 8913bde640be27fd53263c10535ad6bd.jpg / 1689089204864.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/08/1689089204864.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/08/1689089204864.jpg)
 
 ###54997229 Anonymous
 >Be me
@@ -220,6 +250,11 @@ https://e-hentai.org/g/992891/b1bd9973b5/
 !!! info
     ##/Chic-Fil-A/ Food Reviews
 ---
+###Arby's
+####59089071 Anonymous
+`Chicken-Bacon-Swiss`
+I did try the Chicken-Bacon-Swiss at Arby's. The "pepper jack cheese" was very melty and had a texture that made me wonder if it was something that came in a jar like Cheez Wiz and they were spreading it on with a spatula. Not bad, not amazing, kind of wet and drippy. Lots of honey mustard, which either you like or you don't.
+
 ###Chick-fil-A
 ####58943121 Anonymous
 `Chicken Nuggets`
@@ -275,12 +310,53 @@ The sandwich was bigger than I expected, with what looked like an entire split b
 Not amazing, not horrible. It was sufficiently filling that I don't think I'll eat anything else this evening. The fries were the usual seasoned fries, very much like you'd find in any other fast food place. I think it was okay, and the combo came to $8.79 with local sales tax. Nothing about this was amazing, but I don't feel ripped off.
 [![KFC Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
 
+###McDonald's
+####Anonymous 59119870
+`McDonald's Spicy Chicken`
+mickey deez spicy chicken
+it was decent, its the same chicken they use for their biscuits and mcgriddles. slightly on the more expensive side at 4.79. for just the sandwich. it had more meat than culvers and it was a 1.20 cheaper and it tasted better so id say it was pretty good value wise. i probably need to stop getting the spicy option as thats too subjective imo. mcdonalds did not scimp on the spicy sauce they use. id rather the spice be cooked into the chicken but the sauce was p good, some mayo mixture i reckon. the downside of using spicy sauce vs cooking the spice into the chicken is that its messier for one, and the sauce gets on your lips, naturally. but this means your lips get all hot and its annoying imo. the bun wasnt super happy and was squished, probably while being put into its bag. this is probably fine being that it was made at mcdonalds and they have to get food out fast. overall it was pretty good
+[![McDonald's Spicy Chicken: 20230822_130503.jpg / 1693191484947.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191484947.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191484947.jpg)
+
+####Anonymous 59114157
+`Filet-O-Fish & Quarter Pounder with cheese`
+Alright, I'm gonna review the Quarter Pounder with cheese and the Filet of Fish.
+
+The quarter pounder with cheese is THE classic. This neat, juicy sandwich leaves you with a greasy, sweet aftertaste that tears the anus out of even the sweetest candies. Every bite is a chomp, and this unforgiving sandwich will pass through you in chomps too, you WILL feel this sandwich in you. Despite this, it is not truly a quarter pounder. Like it says on the box, this handheld weighs 4 ounces before it's cooked, yet after eating it I somehow gained 4 entire pounds. Crazy how McScience works, huh? The McDonald's McResearch team has devoted millions of dollars to making a more sustainable sandwich, sustainable without the sus, as you're still eating the same 100% beef. As the saying goes, the west is hungry, and billions must dine!
+
+The Filet of Fish kills sloppy joes, beheads sloppy joes, and roundhouse kicks their sauciness into the concrete. Seriously, the Filet of Fish is moist, true to it's origins, and the McDonald's McTartersauce that lathers the McFishslab inside of it will line your mouth in creamy, savory goodness. Not only is this food stack bigger than The Quarter Pounder, but it's more filling, and for a fraction of the price. Despite making up less than 15% of Mickey D's sales, this absolute slapper commits to your taste buds about 50% more than other McDonald's sandwiches. This sandwich will make you associate your girlfriend's fishy scent with a hearty, true-to-the-table meal, with a McCoca-Cola to make it all come down your throat.
+
+While The Quarter Pounder with cheese is THE Macca's classic, you can't deny that the Filet of Fish beats it out of the water. A newer, meatier sandwich for a fraction of the price? Sounds impossible, but McDonald's has it, and in my opinion, it's a hidden gem.
+
+####Anonymous 59090055
+`McRib`
+The McRib is less a sandwich than a meme they re-release every few years because all the cable TV news talking heads give them hours and hours of free advertising by talking about it. The mechanically formed slug of mystery meat is not in and of itself horrible but it is drowned in a sugary, sugary, sugary sauce that seems to be an attempt to convert it into candy. A less sweet, more savory sauce (try tomato paste +
+apple cider vinegar + sweet basil + just a few drops of liquid smoke seasoning, salt, pepper, garlic, paprika, and maybe a tad of cayenne pepper, to taste) would improve it quite a bit. As it is, it is maybe the canonical example and the picture in the dictionary when you look up "mediocre fast food." Foxes are obligate carnivores and even they aren't enthusiastic about the McRib.
+
 ###Popeye's
 ####58200065 Anonymous
 `Spicy Chicken Sandwich`
 Earlier this week, I stopped at a Popeye's on the way home from my workout. They were out of the blackened chicken sandwiches I wanted to try, so I had the "Spicy." It was a bit more expensive and a bit smaller than the KFC spicy chicken sandwich. It had some nice dill pickle slices on it. The sauce seemed like it was mostly hot sauce with a dab of ranch dressing stirred in, and was also really, really salty. All in all I preferred the KFC product.
 It wasn't horrible, and the red beans and rice I ordered on the side was pretty good.
 [![Popeye's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
+
+###Wawa
+####59119936 Anonymous
+`Chicken Parm Hoagie`
+wawa chicken parm hoagie
+it was pretty alright, it filled me up pretty good considering i didnt have breakfast and i ate it for lunch while at work. for 7.99, its pretty good value for a fast way to be not hungry anymore. it was pretty messy and the sauce quickly made the bread soggy, which could be negated by toasting the bread, this however wasnt an option sadly. it could also be considered "fast food" so i guess it gets a pass for the messiness. the mozzarella and parmasan tasted ok and the sauce the same, it isnt exactly olive garden but its not the worst.
+[![Wawa's Chicken Parm Hoagie: 20230823_123426.jpg / 1693191673048.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)
+
+###Wendy's
+####59103608 Anonymous
+`Maple Bacon Chicken Croissant Sandwich`
+The sandwich itself was about $4.
+
+So, yeah, it's still pretty damned good, but I thought it would've been sweeter. The sauce consists of the same shit as the butter and syrup packets you get for typical fast food breakfast, nothing too special there. Has bacon... and it was crispy. Everyone loves bacon except kikes and sand niggers, right? The chicken had nice crispy breading to it even after the sauce melting into it. The chicken itself was an actual cut of chicken breast that was tender enough and as good as their other chicken sandwiches that have that. Honestly, I prefer Wendy's chicken over something like Chic-fil-a. Cheaper, just as good if not better, and don't have to deal with retardly long lines just to overpay for some fast food. Oh, and the croissant that housed the chicken, bacon, and sauce? Idk, it's just a fast food croissant man, flaky and chewy.
+
+It's good af and all, but I think one could make something better themselves. Surely one could just prepare their own breaded chicken breast or buy some frozen chicken tenders that are lightly breaded, get some croissants from a grocery bakery, use actual butter, and pour on some maple syrup of choice to make this sandwich. Sounds better already. Geez, I haven't really done much of this writer kinda shit since I was in school years ago... Sorry lol.
+
+Overall, I recommend giving it a try.
+[![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
 ####58919026 Anonymous
@@ -299,6 +375,15 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
 !!! info
     ##/Chic-Fil-A/ Food Recipes
 ---
+#####59080339 Anonymous
+Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.
+
+######59081144 Anonymous
+\>>59080339
+We /ck/ nao. When you get a seasoning mix like that, shake the container. If the contents feel light and fluffy in spite of the container being full, then it is all or mostly herbs and spices. Salt is much denser and a mix that is high in salt will feel heavy by comparison. If you shake the container and it feels like it's full of ball bearings, then the contents are mostly salt. This is not a bad thing in and of itself, but know what you're working with, know what you're buying. When you cook for fox gf, she'll thank you.
+
+What would you cook for fox gf? Fried chicken, I suppose. Or hard boiled eggs.
+
 #####58729062 Anonymous
 When I was much, much younger, I worked in a few different restaurants. The typical chicken parmagiana recipe was something like:
 

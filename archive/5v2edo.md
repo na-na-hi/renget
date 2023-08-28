@@ -23,6 +23,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Flippy: Flipped Out! Dev Build Download](https://mega.nz/file/iI0UGJ7A#ljsovjiT-06zs9XC49j-Ze7rS2HoNtbDC7OsLFTA7ak)
 ## FNF: ZERO
 [FNF: ZERO Download](https://www.mediafire.com/file/4co7pfki8v2kgqw/FNF_ZERO.zip/file)
+## Funkin at Freddy's
+[Old V2 Build](https://www.mediafire.com/file/0lz0awng2vvietg/faf.rar/file)
 ## Koi V4
 [Koi V4 Download](https://drive.google.com/file/d/1ZnOHVz-NJpkEIx_NQwDgW6mUAMCBUZN-/view)
 ## Kromer Konundrum (Original)

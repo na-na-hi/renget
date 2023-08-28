@@ -121,5 +121,8 @@
 |27/08/2023|105|Mentions & Collabs|Addition of 2 timestamps containing streamer-chat interactions during Kiara's second solo BG3 stream.|
 |27/08/2023|106|Mentions & Collabs|Addition of placeholders for the second part of the BG3 collab.|
 |27/08/2023|107|Mentions & Collabs|Addition of placeholders for the Advent collab on Pico Park.|
+|28/08/2023|108|Mentions & Collabs|Addition of 2 timestamps for mentions during Bijou's membership opening stream.|
+|28/08/2023|109|Mentions & Collabs|Addition of 2 timestamps for streamers-chat interactions during Reimu Endou's RE:Village stream from 27/08/2023.|
+|28/08/2023|110|Music|Deletion of the 6th placeholder, as it could be a bug as per Nerissa's explanation during the closing parts of her second Mad Father stream|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

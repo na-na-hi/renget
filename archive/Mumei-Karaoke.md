@@ -118,7 +118,7 @@ CHAPTER10NAME=09. I See Fire - Ed Sheeran
 CHAPTER11=00:41:05.000
 CHAPTER11NAME=10. Living Room Song - The Wonder Years
 CHAPTER12=00:44:00.000
-CHAPTER12NAME=11. I Miss You - Blink 182
+CHAPTER12NAME=11. I Miss You - Blink-182
 
 ```
 ###### 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]
@@ -196,7 +196,7 @@ CHAPTER20NAME=17. A Thousand Years - Christina Perri
 CHAPTER21=01:20:40.000
 CHAPTER21NAME=18. Jack Sparrow - The Lonely Island (Ft. Michael Bolton)	
 CHAPTER22=01:24:16.500
-CHAPTER22NAME=19. I Dreamed a Dream - Les Miserables
+CHAPTER22NAME=19. I Dreamed A Dream - Les Miserables
 CHAPTER23=01:30:58.000
 CHAPTER23NAME=20. She Used to Be Mine - Sara Bareilles
 CHAPTER24=01:35:47.000
@@ -357,7 +357,7 @@ CHAPTER16NAME=04. Someone Like You - Adele
 CHAPTER17=00:51:11.000
 CHAPTER17NAME=Baby One More Time - Britney Spears
 CHAPTER18=00:53:22.000
-CHAPTER18NAME=05. I Dreamed a Dream - Les Miserables
+CHAPTER18NAME=05. I Dreamed A Dream - Les Miserables
 CHAPTER19=01:00:04.000
 CHAPTER19NAME=Safe & Sound - Taylor Swift
 CHAPTER20=01:11:55.000
@@ -422,7 +422,7 @@ CHAPTER17NAME=14. Circle of Life - from The Lion King
 CHAPTER18=01:26:44.500
 CHAPTER18NAME=15. Wagon Wheel - Darius Rucker
 CHAPTER19=01:32:50.120
-CHAPTER19NAME=16. On My Own - from Les Miserables
+CHAPTER19NAME=16. On My Own - Les Miserables
 
 ```
 ######『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]
@@ -553,7 +553,7 @@ CHAPTER01NAME=Start
 CHAPTER02=00:02:11.000
 CHAPTER02NAME=01. Bohemian Rhapsody - Queen
 CHAPTER03=00:09:42.000
-CHAPTER03NAME=02. I Miss You - blink-182
+CHAPTER03NAME=02. I Miss You - Blink-182
 CHAPTER04=00:14:27.000
 CHAPTER04NAME=03. Halo - Beyonce
 CHAPTER05=00:19:32.500
@@ -646,7 +646,7 @@ CHAPTER34NAME=23. We Will Rock You - Queen
 CHAPTER35=02:29:27.000
 CHAPTER35NAME=24. YMCA - Village People
 CHAPTER36=02:35:53.500
-CHAPTER36NAME=25. ABC - The Jacksons
+CHAPTER36NAME=25. ABC - The Jackson 5
 CHAPTER37=02:40:45.000
 CHAPTER37NAME=Smile - The Story So far (Acapella)
 CHAPTER38=02:42:18.000
@@ -725,7 +725,7 @@ CHAPTER22NAME=18. All I Want - A Day to Remember
 CHAPTER23=01:46:20.000
 CHAPTER23NAME=19. All I Want - Kodaline
 CHAPTER24=01:52:40.000
-CHAPTER24NAME=20. I Dreamed a Dream - Les Miserables
+CHAPTER24NAME=20. I Dreamed A Dream - Les Miserables
 CHAPTER25=01:58:39.000
 CHAPTER25NAME=Stereo Heart - Gym Class Heroes (Acapella)
 CHAPTER26=01:59:14.000
@@ -978,7 +978,7 @@ CHAPTER14NAME=Back
 CHAPTER15=00:50:17.000
 CHAPTER15NAME=10. Someone Like You - Adele
 CHAPTER16=00:55:48.000
-CHAPTER16NAME=11. I Miss You - blink-182
+CHAPTER16NAME=11. I Miss You - Blink-182
 CHAPTER17=01:03:57.000
 CHAPTER17NAME=Too Little, Too Late - JoJo
 CHAPTER18=01:08:51.700
@@ -1071,7 +1071,7 @@ CHAPTER00NAME=Opening
 CHAPTER01=00:01:52.000
 CHAPTER01NAME=Start
 CHAPTER02=00:02:49.000
-CHAPTER02NAME=01. I Dreamed a Dream - Les Miserables
+CHAPTER02NAME=01. I Dreamed A Dream - Les Miserables
 CHAPTER03=00:10:39.000
 CHAPTER03NAME=02. 1985 - Bowling for Soup
 CHAPTER04=00:17:21.000
@@ -1141,7 +1141,7 @@ CHAPTER35NAME=22. Payphone - Maroon 5
 CHAPTER36=02:46:11.000
 CHAPTER36NAME=23. Popular - Wicked
 CHAPTER37=02:50:08.000
-CHAPTER37NAME=24. I Miss You - blink-182
+CHAPTER37NAME=24. I Miss You - Blink-182
 CHAPTER38=02:55:25.000
 CHAPTER38NAME=25. Fireflies - Owl City
 CHAPTER39=03:00:37.000
@@ -2020,7 +2020,7 @@ CHAPTER12NAME=06. Satisfied - Hamilton
 CHAPTER13=01:08:13.420
 CHAPTER13NAME=07. All That Jazz - Chicago
 CHAPTER14=01:13:10.370
-CHAPTER14NAME=08. Dead Mom - Beetlejuice
+CHAPTER14NAME=08. Dead Mom - Beetlejuice The Musical
 CHAPTER15=01:17:36.550
 CHAPTER15NAME=09. Seasons of Love - Rent
 CHAPTER16=01:22:34.470
@@ -2123,7 +2123,7 @@ CHAPTER20NAME=Astrogirl (Accapella)
 CHAPTER21=01:16:32.300
 CHAPTER21NAME=13. Irreplaceable - Beyonce
 CHAPTER22=01:21:58.100
-CHAPTER22NAME=14. I Miss You - Blink 182
+CHAPTER22NAME=14. I Miss You - Blink-182
 CHAPTER23=01:28:19.983
 CHAPTER23NAME=15. Take Me Home, Country Roads - John Denver
 CHAPTER24=01:33:37.182
@@ -2362,7 +2362,7 @@ CHAPTER09NAME=10. All I Want For Christmas Is You - Mariah Carey
 CHAPTER10=00:46:11.000
 CHAPTER10NAME=11. Deck the Halls
 CHAPTER11=00:48:39.000
-CHAPTER11NAME=12. Baby, It's Cold Outside - Idina Menzel
+CHAPTER11NAME=12. Baby, It's Cold Outside - Dean Martin
 CHAPTER12=00:52:15.000
 CHAPTER12NAME=13. Jingle Bell Rock - Bobby Helms
 
@@ -2657,7 +2657,7 @@ CHAPTER31NAME=Stellar Stellar - Suisei (Acapella)
 CHAPTER32=02:41:59.000
 CHAPTER32NAME=21. Palette - Tokoyami Towa (Acapella)
 CHAPTER33=02:45:57.504
-CHAPTER33NAME=Asu no Yozora Shoukaihan - Afterglow (Acapella)
+CHAPTER33NAME=Asu no Yozora Shoukaihan - Orangestar (Acapella)
 CHAPTER34=02:46:57.000
 CHAPTER34NAME=Astrogirl - Tsukumo Sana (Acapella)
 CHAPTER35=02:48:42.000
@@ -2715,7 +2715,7 @@ Dreams - Fleetwood Mac  |   https://files.catbox.moe/3hugma.mp4    |     https:/
 Empty Space - The Story So Far |  https://files.catbox.moe/mm2rdp.mp4       |     https://cldup.com/UIb_X5iWaE.mp4
 I See Fire - Ed Sheeran |  https://files.catbox.moe/93sqok.mp4       |     https://cldup.com/UeWaxr_KU5.mp4
 Living Room Song - The Wonder Years |   https://files.catbox.moe/lchc4f.mp4    |     https://cldup.com/UflJJyiIpT.mp4
-I Miss You - Blink 182 |  https://files.catbox.moe/gmk8rm.mp4       |     https://cldup.com/hpk6ORsOBG.mp4
+I Miss You - Blink-182 |  https://files.catbox.moe/gmk8rm.mp4       |     https://cldup.com/hpk6ORsOBG.mp4
 
 ***
 ######『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]
@@ -2756,7 +2756,7 @@ Dear Maria, Count Me In - All Time Low  |  https://files.catbox.moe/mw273h.mp4  
 Mr. Brightside - The Killers  |  https://files.catbox.moe/s5l50f.mp4      |     https://cldup.com/1BVEuQEsKN.mp4
 A Thousand Years - Christina Perri  | https://files.catbox.moe/6u3haf.mp4       |     https://cldup.com/DZMWRAun9j.mp4
 Jack Sparrow - The Lonely Island (Ft. Michael Bolton)  | https://files.catbox.moe/hr903a.mp4     |    https://cldup.com/axpLHg8knk.mp4
-I Dreamed a Dream - Les Miserables  | https://files.catbox.moe/1v5lj5.mp4       |     https://cldup.com/DGyw19fN-v.mp4
+I Dreamed A Dream - Les Miserables  | https://files.catbox.moe/1v5lj5.mp4       |     https://cldup.com/DGyw19fN-v.mp4
 She Used to Be Mine - Sara Bareilles  |  https://files.catbox.moe/xnxnxm.mp4      |     https://cldup.com/rBZW1pwsIL.mp4
 Take Me Home, Country Roads - John Denver  |  https://files.catbox.moe/x3ajhg.mp4      |     https://cldup.com/QAiiIWDtIj.mp4
 Never Grow Up - Taylor Swift  | https://files.catbox.moe/wr0e1c.mp4       |     https://cldup.com/e8WMTxAZ1f.mp4
@@ -2878,7 +2878,7 @@ Top of the World - The Chicks     |  https://files.catbox.moe/v8zm6p.mp4        
 Song | Catbox | Cloudup
 ------ | ------ | ------
 Bohemian Rhapsody - Queen  |  https://files.catbox.moe/586vfk.mp4     |    https://cldup.com/j6EhLLFc5b.mp4    
-I Miss You - blink-182  |  https://files.catbox.moe/r9cw2l.mp4     |     https://cldup.com/63dD9XGrmp.mp4   
+I Miss You - Blink-182  |  https://files.catbox.moe/r9cw2l.mp4     |     https://cldup.com/63dD9XGrmp.mp4   
 Halo - Beyonce   |  https://files.catbox.moe/iazku2.mp4     |        https://cldup.com/sViP3Kaxzl.mp4
 Landslide - Fleetwood Mac  |   https://files.catbox.moe/eku9sl.mp4    |        https://cldup.com/O3gEWBiT7c.mp4
 I'm Yours - Jason Mraz  |   https://files.catbox.moe/kdwvsy.mp4    |        https://cldup.com/toZPA3zXu6.mp4
@@ -2920,7 +2920,7 @@ Thnks fr th Mmrs - Fall Out Boy   |  https://files.catbox.moe/3bnbrd.mp4    |   
 Wonderwall - Oasis   | https://files.catbox.moe/5z1mfb.mp4     |   https://cldup.com/2U81rbXCS4.mp4
 All I Want - A Day to Remember   | https://files.catbox.moe/phtipy.mp4     |   https://cldup.com/TRCtOjMLnV.mp4
 All I Want - Kodaline   |  https://files.catbox.moe/lr5rs5.mp4    |   https://cldup.com/XJRJwVSJH7.mp4
-I Dreamed a Dream - Les Miserables   | https://files.catbox.moe/7kt0sp.mp4     |   https://cldup.com/3XqaMlrHpu.mp4
+I Dreamed A Dream - Les Miserables   | https://files.catbox.moe/7kt0sp.mp4     |   https://cldup.com/3XqaMlrHpu.mp4
 Wish You Were Here - Avril Lavigne   | https://files.catbox.moe/94fp6k.mp4     |   https://cldup.com/0vi5sRNyZR.mp4
 Love The Way You Lie - Eminem ft. Rihanna   |  https://files.catbox.moe/vfb5j9.mp4    |   https://cldup.com/R-HjcfEl6z.mp4
 Jack Sparrow - The Lonely Island (Ft. Michael Bolton)   |  https://files.catbox.moe/ra6bdr.mp4    |   https://cldup.com/NrdIM1XO_q.mp4
@@ -3028,7 +3028,7 @@ Smile - Lily Allen    | https://files.catbox.moe/r3vh8c.mp4       |     https://
 Somebody To Love - Queen    |  https://files.catbox.moe/5nvf46.mp4      |     https://cldup.com/V_YHuboztp.mp4
 Thnks fr th Mmrs - Fall Out Boy    | https://files.catbox.moe/j9pd07.mp4       |     https://cldup.com/DTiNPcthLb.mp4
 Someone Like You - Adele    | https://files.catbox.moe/ksuv18.mp4       |     https://cldup.com/I5Nucs5SKl.mp4
-I Miss You - blink-182    |  https://files.catbox.moe/x83lnj.mp4      |     https://cldup.com/1FawDn5JBo.mp4
+I Miss You - Blink-182    |  https://files.catbox.moe/x83lnj.mp4      |     https://cldup.com/1FawDn5JBo.mp4
 Burn - Hamilton    | https://files.catbox.moe/h1kc4p.mp4       |     https://cldup.com/AkTRYiCu68.mp4
 Blank Space - Taylor Swift    |  https://files.catbox.moe/jn5if3.mp4      |     https://cldup.com/6rnqW06oUV.mp4
 Skinny Love - Bon Iver    |   https://files.catbox.moe/gpsneh.mp4     |     https://cldup.com/SJrVVgWiGb.mp4
@@ -3065,7 +3065,7 @@ Hikaru Nara - Goose house  |  https://files.catbox.moe/rowmfv.mp4    |   https:/
 [Back to TOC](https://rentry.org/Mumei-Karaoke)
 Song | Catbox | Cloudup
 ------ | ------ | ------
-I Dreamed a Dream - Les Miserables | https://files.catbox.moe/0rg8u8.mp4     |    https://cldup.com/Ujj3enptGu.mp4
+I Dreamed A Dream - Les Miserables | https://files.catbox.moe/0rg8u8.mp4     |    https://cldup.com/Ujj3enptGu.mp4
 1985 - Bowling for Soup | https://files.catbox.moe/pp3ygj.mp4     |    https://cldup.com/y0Th0JDhCn.mp4
 Perfect - Simple Plan | https://files.catbox.moe/leq7kg.mp4     |    https://cldup.com/NbpGTWCLqu.mp4
 Rolling in the Deep - Adele | https://files.catbox.moe/mabvvw.mp4     |    https://cldup.com/vR7X1S9KSG.mp4
@@ -3090,7 +3090,7 @@ Mamma Mia - ABBA | https://files.catbox.moe/610g7d.mp4     |    https://cldup.co
 She Will Be Loved - Maroon 5 | https://files.catbox.moe/ti7b53.mp4      |    https://cldup.com/iw4B9v0CPB.mp4
 Payphone - Maroon 5 | https://files.catbox.moe/aw85zw.mp4    |    https://cldup.com/ge4MmZ5pC9.mp4
 Popular - Wicked | https://files.catbox.moe/kzw5pw.mp4     |    https://cldup.com/ghgQ_siLBw.mp4
-I Miss You - blink-182 | https://files.catbox.moe/jw2rkp.mp4     |    https://cldup.com/VnbJaAVMxA.mp4
+I Miss You - Blink-182 | https://files.catbox.moe/jw2rkp.mp4     |    https://cldup.com/VnbJaAVMxA.mp4
 Fireflies - Owl City | https://files.catbox.moe/j7k4p5.mp4     |    https://cldup.com/LETb6eE1zV.mp4
 Take Me Home, Country Roads - John Denver | https://files.catbox.moe/bu4vtb.mp4     |    https://cldup.com/yA0cz3fmOV.mp4
 Somebody To Love - Queen | https://files.catbox.moe/qcw93v.mp4     |    https://cldup.com/UvpR9y3_Og.mp4
@@ -3421,7 +3421,7 @@ At the Beginning - Anastasia  | https://files.catbox.moe/7lo33x.mp4  |   https:/
 All Too Well - Taylor Swift  | https://files.catbox.moe/iq70g4.mp4  |   https://cldup.com/pgqC22kS69.mp4
 Glimpse of Us - Joji  |  https://files.catbox.moe/ln5mfe.mp4 |   https://cldup.com/MiXoY9KWbC.mp4
 Irreplaceable - Beyonce  | https://files.catbox.moe/yp8sjh.mp4  |   https://cldup.com/kzE6wRVLBY.mp4
-I Miss You - Blink 182  | https://files.catbox.moe/r32nix.mp4  |   https://cldup.com/FNkJBNBDYg.mp4
+I Miss You - Blink-182  | https://files.catbox.moe/r32nix.mp4  |   https://cldup.com/FNkJBNBDYg.mp4
 Take Me Home, Country Roads - John Denver  | https://files.catbox.moe/iqcpec.mp4  |   https://cldup.com/ATnuG4rHnD.mp4
 Still Into You - Paramore  |  https://files.catbox.moe/7ix0t8.mp4 |   https://cldup.com/Aiuyy-Xycx.mp4
 Fireflies - Owl City  | https://files.catbox.moe/52520x.mp4  |   https://cldup.com/kCbP7tdI4V.mp4
@@ -3545,7 +3545,7 @@ Santa Baby - Eartha Kitt  | https://files.catbox.moe/zvpj3b.mp4  |   https://cld
 Last Chirstmas - Taylor Swift  | https://files.catbox.moe/7zh21j.mp4   |   https://cldup.com/OHeMM0DP8j.mp4
 All I Want For Christmas Is You - Mariah Carey  | https://files.catbox.moe/1tmfxs.mp4  |   https://cldup.com/8zIod1aygJ.mp4
 Deck the Halls  | https://files.catbox.moe/iok69d.mp4  |   https://cldup.com/qF12TpwY4T.mp4
-Baby, It's Cold Outside - Idina Menzel  | https://files.catbox.moe/wa5iph.mp4  |   https://cldup.com/qRiomsveeZ.mp4
+Baby, It's Cold Outside - Dean Martin  | https://files.catbox.moe/wa5iph.mp4  |   https://cldup.com/qRiomsveeZ.mp4
 Jingle Bell Rock - Bobby Helms  | https://files.catbox.moe/2hdb50.mp4  |   https://cldup.com/ADlosUSHm9.mp4
 
 ***
@@ -3722,7 +3722,7 @@ We Are Young - fun (Duet w/ Ame) | https://files.catbox.moe/t4o69h.mp4 | https:/
 >『Mumei + 』
 Song | Link
 ------ | ------
-I Miss You - blink-182 (Duet w/ Ame) | https://files.catbox.moe/xu4qie.mp4
+I Miss You - Blink-182 (Duet w/ Ame) | https://files.catbox.moe/xu4qie.mp4
 Livin' La Vida Loca - Ricky Martin (Shrek 2) (Duet w/ Ame) | https://files.catbox.moe/60ztq0.mp4 
 I'm Yours - Jason Mraz	(Duet w/ Bae)  |  https://files.catbox.moe/arfoib.mp4
 Someone Like You - Adele (Duet w/ Ame) | https://files.catbox.moe/z7e13b.mp4
@@ -3747,7 +3747,7 @@ Silhouette - Kana-Boon 『x2』 | https://files.catbox.moe/jv9i8w.mp4
 Burn - Hamilton 『x2』 | https://files.catbox.moe/z9i0b2.mp4
 Satisfied - Hamilton 『x3』 |   https://files.catbox.moe/gs45qf.mp4
 Mamma Mia - ABBA 『x7』 |  https://files.catbox.moe/b6a5qc.mp4
-I Miss You - blink-182 『x5』 | https://files.catbox.moe/xzs085.mp4
+I Miss You - Blink-182 『x5』 | https://files.catbox.moe/xzs085.mp4
 Take Me Home, Country Roads - John Denver  『x3』 | https://files.catbox.moe/amwye6.mp4
 Travelin Soldier - The Chicks 『x2』 | https://files.catbox.moe/36sxx0.mp4
 Jack Sparrow - The Lonely Island  『x3\*』 |  https://files.catbox.moe/dwq4if.mp4
@@ -3851,7 +3851,7 @@ Smile - Lily Allen | https://files.catbox.moe/b9kt1d.mp4
 You Belong With Me - Taylor Swift |  https://files.catbox.moe/aoh2zz.mp4
 Someone Like You - Adele | https://files.catbox.moe/jar7sp.mp4
 Poker Face - Lady Gaga | https://files.catbox.moe/1h799w.mp4
-I Miss You - blink-182 | https://files.catbox.moe/i3s4rx.mp4
+I Miss You - Blink-182 | https://files.catbox.moe/i3s4rx.mp4
 Want U Back - Cher Lloyd | https://files.catbox.moe/nr0io5.mp4
 How to Save a Life - The Fray | https://files.catbox.moe/5tz4cc.mp4
 This Love - Maroon 5 | https://files.catbox.moe/mbjqy0.mp4

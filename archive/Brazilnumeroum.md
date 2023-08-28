@@ -1,4 +1,4 @@
-##->Goodbye<-
+##->:3c<-
 
 ***
 
@@ -7,6 +7,3 @@
 
 
 ***
-
-##->JB<-
-->https://files.catbox.moe/boapo2.txt<-

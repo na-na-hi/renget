@@ -18,11 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Kuri](https://files.catbox.moe/c7znja.png), [Puppeteer](https://files.catbox.moe/dhg6sd.png)|[Kuri](https://files.catbox.moe/c7znja.png) [MV], [Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV]
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png), [Akiko Aname](https://files.catbox.moe/1tbajg.png)|[Akiko Aname](https://files.catbox.moe/1tbajg.png) [MV]
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|[Yuhan](https://files.catbox.moe/raye5j.png), [Friederike](https://files.catbox.moe/qyg49w.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png), [Naomi](https://files.catbox.moe/jkhsl5.png), [The Regenerator](https://files.catbox.moe/9ivlga.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|[Candy McGiggles](https://files.catbox.moe/vqnjqq.png)
+[Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Oliver](https://files.catbox.moe/j7wn4q.png), [Gin](https://files.catbox.moe/kvj485.png)|[Oliver](https://files.catbox.moe/j7wn4q.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png), [Canio](https://files.catbox.moe/t6c32r.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png), [Claude](https://files.catbox.moe/ut4f09.png)|
@@ -31,11 +33,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[ΔΤΔ](https://files.catbox.moe/ragcah.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[Palutena](https://files.catbox.moe/rtvve3.png)|
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Puppeteer](https://files.catbox.moe/dhg6sd.png)|[Puppeteer](https://files.catbox.moe/dhg6sd.png) [MV]
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Moreto](https://files.catbox.moe/t4u17m.png)|[Vincent](https://files.catbox.moe/de7rcs.png), [Fumin](https://files.catbox.moe/s3x5w1.png), [Kia](https://files.catbox.moe/0bo4a8.png) [MV], [Merlot](https://files.catbox.moe/wg6tts.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
-[KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Shiori](https://files.catbox.moe/du5fij.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||[Toby Daniels (nsfw)](https://files.catbox.moe/30k0wa.png), [Toby Daniels](https://files.catbox.moe/v2j0xs.png), [Toby Daniels (Crossdress Scenario)](https://files.catbox.moe/15bl17.png)
 [Malik](https://rentry.co/maliksusanto) | Misc ||
@@ -43,6 +42,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
+[Alpaca](https://rentry.org/AlpacaBots) | Misc ||[Vincent](https://files.catbox.moe/de7rcs.png)
 [Creamsan](https://rentry.org/oqhyw) | Misc ||[Mallory](https://files.catbox.moe/kpya0u.png)
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||

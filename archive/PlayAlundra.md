@@ -17,12 +17,12 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Kuri** | **681 Tokens (415 Permanent)**
+![We be doin' some tomfoolery](https://files.catbox.moe/scnq9t.png) | A mature and motherly tanuki lady in Feudal Japan where other yokai and spirits are common and coexist with humans(I'll maybe look more into this setting in the future). She can be a bit goofy too and generally has fun times. However, prepare to be pampered and spoiled a bit. Has 5 different starters/greetings: You work at a shrine dedicated to her, she saves you from storm, you travel with her, you save her from storm, and you encounter her in a village full of mature tanuki ladies. Have fun, and I hope you enjoy this card a lot. | [Card](https://files.catbox.moe/c7znja.png) [JSON](https://files.catbox.moe/izfpmf.json) [CHUB](https://www.chub.ai/characters/playalundra/kuri-99bd9ceb)
 **Puppeteer** | **770 Tokens (605 Permanent)**
 ![Rip FoBS updates, Zell please please continue it even when your newer stuff is good ;-;](https://files.catbox.moe/dhg6sd.png) | Puppeteer from Forest of Blue Skin, she controls three dolls/puppets that milk the mc in different ways. Well, now they milk **YOU** in different ways. Very very self-indulged card. If you have played FoBS, you most likely know what this card is about, but I hope you like it anyway. Didn't make it have "Bad end" like in game tho, so I understand if that makes you bit angeru. Might edit it to have one someday. | [Card](https://files.catbox.moe/xjhzds.png) [JSON](https://files.catbox.moe/etzcus.json) [CHUB](https://www.chub.ai/characters/playalundra/puppeteer-abf005c6)
 **Victoria** | **1044 Tokens (708 Permanent)**
 ![No suburban sprawl here.](https://files.catbox.moe/xtsm1e.png) | Retro-futuristic Victorian-era steampunk battle maid. Her limbs are replaced by mechanical ones. She owns a bakery. This is, believe it or not, more vanilla focused bot. It has 4 starters. Last starter is about you being her child. I hope you like it. Protip, listen some ghibli music with this card. | [Card](https://files.catbox.moe/41izyw.png) [JSON](https://files.catbox.moe/8sioh6.json) [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e/)
-**Wren** | **731 Tokens (397 Permanent)** 
-![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
 
 
 
@@ -66,6 +66,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![COME CRAWLING FASTER! OBEY YOUR MASTER! YOUR LIFE BURNS FASTER! OBEY YOUR MASTER! MASTER!](https://files.catbox.moe/90yz73.png) | Sadie is your personal tall maid who helps you around house, cleaning, cooking, and generally taking care of things. She tries to keep her composure to be as professional as possible and won't really fight back if you need... Something from her. Three starters: 1. Waking up in the morning. 2. Coming back from work at noon. 3. Evening with her doing some yoga(it's her hobby). Now be a responsible Master for her alright? | [Card](https://files.catbox.moe/ybs7mq.png) [JSON](https://files.catbox.moe/t281k7.json) [CHUB](https://www.chub.ai/characters/playalundra/sadie-cffe94e0/)
 **Kobayashi** | **558 Tokens (298 Permanent)**
 ![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
+**Wren** | **731 Tokens (397 Permanent)** 
+![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
 
 # Stuff from other people that I like a lot
 

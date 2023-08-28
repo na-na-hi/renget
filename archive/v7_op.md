@@ -1,4 +1,4 @@
-A thread dedicated to our very cute Secret Agent of Hololive Indonesia,
+vA thread dedicated to our very cute Secret Agent of Hololive Indonesia,
 Vestia Zeta! [spoiler]she's not sus btw[/spoiler]
 
 [insert edition here] edition
@@ -35,6 +35,9 @@ https://youtu.be/sWB2jpd333Q
 
 >Angelic Angel by Hololive ID:
 https://youtu.be/mYYmMht45hg
+
+>Terhebat by Hololive ID:
+https://youtu.be/PaOMF-g1ZWU
 
 >SNS:
 https://youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ
