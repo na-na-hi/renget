@@ -401,4 +401,5 @@ https://arch.b4k.co/vp/thread/54332296/ 12 reborn devs try not to make every cha
 https://arch.b4k.co/vp/thread/54340819/ 13 ow the edge
 https://arch.b4k.co/vp/thread/54347351/ 14 can we submerge amaria's legs in cement and then toss her inside her underwater murder dungeon already
 https://arch.b4k.co/vp/thread/54350580/ 15 deserts and dickheads
-https://arch.b4k.co/vp/thread/54356283/ 16 glass da jews
+https://arch.b4k.co/vp/thread/54356283/ 16 gauntlets, retards, and actual hell
+https://arch.b4k.co/vp/thread/54362488/ 17

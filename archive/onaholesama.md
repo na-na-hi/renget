@@ -1,7 +1,7 @@
 # onaholesama's furshit
 ->![credit to Kazerad and Prequel Adventure](https://files.catbox.moe/ma62ey.gif)<-
 ***
-bots are tested on API claude 1.3, with gpt4 support on some of them
+rip claude
 
 bot ideas are usually from requests in the thread and characters from short stories
 
@@ -25,12 +25,12 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![clumsy musk](https://files.catbox.moe/0y9qfq.png) | Riley | clueless, musky alt dog girl step sister | [CHUB link](https://www.chub.ai/characters/onaholesama/riley-286b88ff/main)
-![Macarena](https://files.catbox.moe/2n2ta5.png) | Alisa | the demonic vixen from Tiny Bunny. works best on claude | [CHUB link](https://www.chub.ai/characters/onaholesama/alisa-3b01b312)
+![clumsy musk](https://files.catbox.moe/0y9qfq.png) | **Riley** | clueless, musky alt dog girl step sister | [CHUB link](https://www.chub.ai/characters/onaholesama/riley-286b88ff/main)
+![Macarena](https://files.catbox.moe/2n2ta5.png) | **Alisa** | the demonic vixen from Tiny Bunny. works best on claude | [CHUB link](https://www.chub.ai/characters/onaholesama/alisa-3b01b312)
 ![dont leave me..](https://files.catbox.moe/5urix8.png) | Mal0 | SCP-1471, card is focused on the texting aspect | [CHUB link](https://www.chub.ai/characters/onaholesama/mal0-feb8ed97)
 ![PRIME saviorfaggotry](https://files.catbox.moe/8qc7b1.png) | Ruby | self-loathing kangaroo girl that has a tough exterior. based on "A Roo'd Awakening". use the provided main prompt/jb or the bot will talk for you way too much | [CHUB link](https://www.chub.ai/characters/onaholesama/ruby-58820c75)
 ![rangebunny](https://files.catbox.moe/lv74nt.png) | Cervina | gray northern wolf girl, gun range instructor that helps a clueless anon (You) | [CHUB link](https://chub.ai/characters/onaholesama/cervina-bbb042c4)
-![sorta self-cardy](https://files.catbox.moe/cw2b76.png) | Almond | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
+![sorta self-cardy](https://files.catbox.moe/cw2b76.png) | **Almond** | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
 ![virginity is sacred anon!](https://files.catbox.moe/hymrye.png) | **Kalia** | furry golden retriever girl that protects your virginity from other anthros that go feral on you | [CHUB link](https://www.chub.ai/characters/onaholesama/Kalia)
 ![HAAAAAAAAAAAAATS](https://files.catbox.moe/1u8tui.png) | **Missy** | cryptid monstergirl that is exceptionally lazy and a leech. likes watching old timey movies and wearing cute t shirts | [CHUB link](https://www.chub.ai/characters/onaholesama/Missy)
 ![tomboy](https://files.catbox.moe/26pnpp.png) | **Talia** | smelly, musky tomboy doggirl that accidentally bumps into you after you finish class. tomboy. | [CHUB link](https://www.chub.ai/characters/onaholesama/Talia)
@@ -45,7 +45,7 @@ Image| Name | Description | Link
 mostly femdom. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![Oh no..](https://files.catbox.moe/ragcah.png) | ΔΤΔ | (You) just moved into your college dorm.. not knowing it was a sororiety house | [CHUB link](https://www.chub.ai/characters/onaholesama/delta-tau-delta-120b2c59/main)
+![Oh no..](https://files.catbox.moe/ragcah.png) | **ΔΤΔ** | (You) just moved into your college dorm.. not knowing it was a sororiety house | [CHUB link](https://www.chub.ai/characters/onaholesama/delta-tau-delta-120b2c59/main)
 ![tigress](https://files.catbox.moe/s7dpyb.png) | Franky | scenario card, tall tigress grill that has a buzzingly pleasureful problem in her crotch | [CHUB link](https://www.chub.ai/characters/onaholesama/franky-2abd0817)
 ![u wot m9?](https://files.catbox.moe/qbwige.png) | Sheila | 6 foot 5 roo' that is your personal fitness coach at Fit 4 Fur. secretly likes humies like (You). colored by me | [CHUB link](https://www.chub.ai/characters/onaholesama/Sheila)
 ![yeenmusk](https://files.catbox.moe/5apjux.png) | **Sammi** | smelly, musky yeen that you meet inna bar. comes with a free fortune cookie! | [CHUB link](https://www.chub.ai/characters/onaholesama/Sammi)

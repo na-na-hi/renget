@@ -118,3 +118,5 @@ https://files.catbox.moe/pn9bti.jpg
 https://files.catbox.moe/74iqu1.jpg
 https://files.catbox.moe/0yjd29.jpg
 https://files.catbox.moe/x3nn75.jpg
+https://files.catbox.moe/mfxnz2.jpg
+https://files.catbox.moe/lqz9zw.jpg

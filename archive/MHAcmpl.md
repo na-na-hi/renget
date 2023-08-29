@@ -830,6 +830,7 @@ Too Good to Be True (Hailey, Yui, Orochi): https://rentry.org/z7ize
 The Pencil (Ryu-kishi, Maru(maru), Mirror Devil): https://rentry.org/sdtvh
 Hitomi-chan's First Date (Feral, Drekus, Reaper): https://rentry.org/2tu8m
 "The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marror): https://rentry.org/TheTalkAndBully
+Drone's Mirror (Drone, Mirror Devil): https://rentry.org/e3gx4a
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

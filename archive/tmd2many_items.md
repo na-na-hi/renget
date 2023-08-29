@@ -395,7 +395,7 @@ Salac Berry | Strong complementary sweet and sour flavors. Rumored to contain th
 Petaya Berry | A very spicy and bitter flavor. Very nutritious, and often used medicinally. (2 Spicy, 2 Bitter) | 50₽
 Apicot Berry | A berry with a hard, mild flesh on the blue side, and an exceptionally sour flavor green side. (2 Dry, 2 Sour) | 50₽
 Lansat Berry | Sweet-and-sour flavored with a spicy kick. Said to bring joy if held. (2 Spicy, 2 Sweet) | 75₽
-Starf Berry | A mysterious, rare berry with conflicting flavors across the spectrum, described as otherworldly. (2 Sweet, 2 Sour, 2 Spicy) | 200₽
+Starf Berry | A mysterious, rare berry with conflicting flavors across the spectrum, described as otherworldly. (2 Sweet, 2 Sour, 2 Spicy) | 350₽
 Micle Berry | Very dry flesh with a mild flavor, most noted for making other items it's cooked with taste sweeter. (3 Dry, 1 Sweet) | 100₽
 Custap Berry | A sweet, creamy flavor. Has a hard exterior. (3 Sweet, 1 Bitter) | 100₽
 Jaboca Berry | A strong bitter flavor. Its drupelets will pop if not handled carefully. (3 Bitter, 1 Sour) | 100₽
@@ -403,6 +403,9 @@ Rowap Berry | A strong sour flavor that will overpower a dish if it isn't used s
 Roseli Berry | A rich, sweet berry with a sophisticated bitter undertone. (2 Sweet, 1 Bitter) | 50₽
 Kee Berry | A spicy flavor with an extreme bitter aftertaste. (2 Spicy, 2 Dry) | 50₽
 Maranga Berry | A berry with a very bitter exterior, with a very sweet core. (2 Sweet, 2 Bitter) | 50₽
+Canob Berry | A savory berry with a fatty, rich taste. Slightly sweet. Said to be just like meat. (1 Dry, 1 Sweet) | 225₽
+Tame Berry | A savory berry with a juicy, tender flavor. Said to be just like meat. (1 Dry, 1 Sweet) | 250₽
+Kenchic Berry | A fainter, savory flavor of berry, with sinewy fibers. Darkens with time. Said to be just like meat. (1 Dry, 1 Sweet) | 200₽
 
 ## Prepared and Cooked Foods
 !!! note Items that are the result of combining different ingredients to produce a food. 

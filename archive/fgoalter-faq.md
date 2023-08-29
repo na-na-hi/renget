@@ -1,4 +1,4 @@
--> ![LIZ LOVE](https://files.catbox.moe/7sfmwp.png) <- 
+-> ![/alter/ LOVE](https://files.catbox.moe/t01nin.png) <- 
 ## ->/fgoalter/ FAQ and Other Useful Links<-
 
 ### General Info

@@ -1,4 +1,4 @@
-arr[TOC]
+[TOC]
 
 #Threadslaving Basics
 
@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marrow)
-https://rentry.org/TheTalkAndBully
+>Drone's Mirror (Drone, Mirror Devil):
+https://rentry.org/e3gx4a
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -531,6 +531,8 @@ https://rentry.org/sdtvh
 https://rentry.org/2tu8m
 >"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marrow)
 https://rentry.org/TheTalkAndBully
+>Drone's Mirror (Drone, Mirror Devil):
+https://rentry.org/e3gx4a
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

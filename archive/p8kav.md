@@ -8,6 +8,8 @@ Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason).
 [CharacterHub profile](https://www.chub.ai/users/Sull)
 [VenusAI profile if you are into that](https://venus.chub.ai/users/Sull)
 
+[Civitai Profile](https://civitai.com/user/EmilyTheBrat/models)
+
 feel free to send me suggestions or things such as how should I kill myself here
 emilythebrat@proton.me
 Enjoy.

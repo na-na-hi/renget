@@ -174,6 +174,21 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 83 | [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1) | | | | |
 84 | [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1) | | | | |
 85 | [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5) | | | | |
+86 | [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2) | | | | |
+87 | [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od) | | | | |
+88 | [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg) | | | | |
+89 | | | | | |
+90 | | | | | |
+91 | | | | | |
+92 | | | | | |
+93 | | | | | |
+94 | | | | | |
+95 | | | | | |
+96 | | | | | |
+97 | | | | | |
+98 | | | | | |
+99 | | | | | |
+100 | | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 
@@ -297,12 +312,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
-	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2) *Not on Table*
+	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
 	* [Team Moxie Introduction](https://rentry.org/fehwy)
-	* [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg) *Not on Table*
+	* [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
 	* [Percival's Extended Introduction](https://rentry.org/uosgo9)
@@ -343,6 +358,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
+* Solid Linoone the Linoone
+    * [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Sterling the Clampearl
 	* [Sterling's Purpose ch.1](https://rentry.org/4uw36)
 	* [Sterling's Purpose ch.2](https://rentry.org/fau75)

@@ -4,7 +4,7 @@
 	-> Several days ago, anons suggested various concepts they wished to see realized. All of those ideas were compiled into a [POLL](https://strawpoll.com/LVyK8r548n0/results), the winner of which became the prompt for botmakers to test their skills at <-
 #### -> Here is the collection of cards submitted for the fourth themed bot challenge, listed in no particular order <-
 ***
--> WIP <-
+-> ![](https://files.catbox.moe/c5vdq6.jpg) <-
 ### -> Mental illness <-
 ***
 Card | Page | Botmaker | Description | Extra
@@ -34,6 +34,7 @@ Card | Page | Botmaker | Description | Extra
 ![](https://files.catbox.moe/fydzed.png) | Palmela | **chefseru** | You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. | Download image to get the card.
 ![](https://files.catbox.moe/hridow.png) | [Ayuko](https://www.chub.ai/characters/YoshidaMiyu/ayuko-bf36d1cf) | **YoshidaMiyu** | An utterly deranged woman in a straitjacket has crashed your window looking for food!
 ![](https://files.catbox.moe/i6wchm.png) | [Allora](https://www.chub.ai/characters/anonemouse/allora-a2e15f22) | **anonemouse** | A severely autistic elven alchemist living in a cottage in the woods. Has performed some unorthodox modifications to her body to improve it.
+![](https://files.catbox.moe/60a7jd.png) | Cyraxx | **103344982** | VILE. GOBLIN CREATURE. HORRORCOW. | Download image to get the card.
 ![](https://files.catbox.moe/seerk5.png) | | **anonymous** | me!! I made this :) you made this? yeah | Download image to get the card.
 ![](https://files.catbox.moe/v060mk.png) | [Rana](https://www.chub.ai/characters/thecooler/rana-c53bd49d) | **thecooler** | Your scent is Rana's obsession. She will stop at nothing to possess it.
 ![](https://files.catbox.moe/o60zpc.png) | [Miyao and Meow](https://www.chub.ai/characters/turnip/miyao-and-meow-6e97e7f2) | **turnip** | You found out that your male(?) best friend has a split personality - and she's pretty cute!
