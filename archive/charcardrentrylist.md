@@ -18,10 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Muricanpie](https://rentry.co/mpcs) | Misc |[Gitty](https://files.catbox.moe/36qwk1.png)|[Toby Daniels (nsfw)](https://files.catbox.moe/30k0wa.png), [Toby Daniels](https://files.catbox.moe/v2j0xs.png)
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Babe](https://files.catbox.moe/fixad9.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Kuri](https://files.catbox.moe/c7znja.png)|[Kuri](https://files.catbox.moe/c7znja.png) [MV]
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png), [Akiko Aname](https://files.catbox.moe/1tbajg.png)|[Akiko Aname](https://files.catbox.moe/1tbajg.png) [MV]
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png), [Naomi](https://files.catbox.moe/jkhsl5.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
@@ -32,10 +33,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
 [Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[ΔΤΔ](https://files.catbox.moe/ragcah.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
-[Muricanpie](https://rentry.co/mpcs) | Misc ||[Toby Daniels (nsfw)](https://files.catbox.moe/30k0wa.png), [Toby Daniels](https://files.catbox.moe/v2j0xs.png)
 [Malik](https://rentry.co/maliksusanto) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||

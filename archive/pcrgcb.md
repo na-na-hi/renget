@@ -142,6 +142,7 @@ Laby★5 Lv280 RANK 29  FULL, UE 280, EX 5/3/5
 ### Boss 3
 ### Boss 4
 [B4 67-69m magic](https://www.youtube.com/watch?v=kIxdp3eRcZc)
+[B4 68m physical](https://www.youtube.com/watch?v=UWtvIwD26H8)
 
 ### Boss 5
 [B5 67-69m magic](https://www.youtube.com/watch?v=kIxdp3eRcZc)

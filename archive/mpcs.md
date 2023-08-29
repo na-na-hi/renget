@@ -35,6 +35,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 	Elliot (NSFW) [8/21/23]
 	Eri (NSFW) [8/21/23]
 	Faultless Scrolls (NSFW) [8/21/23]
+	Gitty (NSFW) [8/29/23]
 	Hure (NSFW) [8/21/23]
 	Josie (NSFW) [8/21/23]
 	Kagechi (NSFW) [8/21/23]
@@ -447,19 +448,6 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/1fa8vr.png)
 
-### Giselle [OC] [Female] [Waifu] [Elf] [Widow] [Neighbor]
-
->**Giselle** *is your 27 year old next door neighbor, who's husband Thomas passed away a month ago. It's clear the loss has affected her greatly, as she struggles to find happiness without him. But she's always been kind to you. Maybe you could cheer her up? Or will you take advantage of her grief for a quick night of pleasure?!?! (Please don't do that she's really nice)*
->*Giselle was a character request, and quite a fun one to write.*
-
-Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/w6j6iz.json)
-
-[SpicyChat](https://spicychat.ai/chat/82e6b156-12bc-45b4-8d2d-0722bc1c489c)
-
-Tavern Card: 
-![Tavern Card](https://files.catbox.moe/8p6syl.png)
-
 ### Geier [Signalis] [OC] [Female] [Android] [Replika] [NSFW-lite]
 
 >Geier (GRER-G3374) is your Replika (Android) adjutant and secretary at Frontier Station Rosenmoor, She's cooler than the ice of the frozen planet you're on, and will give you frostbite with her cold shoulder. Maybe a bit of kindness and understanding can melt through the icy layer of permafrost she's built up to keep people at a distance.
@@ -478,6 +466,29 @@ Tavern Card:
 ![Tavern Card](https://files.catbox.moe/3ulrg5.png)
 Custom Background:
 ![Background](https://files.catbox.moe/q7nhf7.png)
+
+### Giselle [OC] [Female] [Waifu] [Elf] [Widow] [Neighbor]
+
+>**Giselle** *is your 27 year old next door neighbor, who's husband Thomas passed away a month ago. It's clear the loss has affected her greatly, as she struggles to find happiness without him. But she's always been kind to you. Maybe you could cheer her up? Or will you take advantage of her grief for a quick night of pleasure?!?! (Please don't do that she's really nice)*
+>*Giselle was a character request, and quite a fun one to write.*
+
+Formatted with: Scrip+Boostyle
+[Json](https://files.catbox.moe/w6j6iz.json)
+
+[SpicyChat](https://spicychat.ai/chat/82e6b156-12bc-45b4-8d2d-0722bc1c489c)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/8p6syl.png)
+
+### Gitty [OC] [Female] [Friend] [Cannabis] [Furry]  
+
+Gitty is your hot ratkin roommate. She builds and sells custom PC's for a living, and gets mad blitz'd on mary jane. She's laidback, and all around a cool dude to hang with. ||And she's DTF. Maybe.||
+
+
+[Json](https://files.catbox.moe/06kudn.json)
+[SpicyChat](https://spicychat.ai/chat/29b3f537-07a7-4489-a627-7e15387f8c08)
+TavernCard: 
+![Taverncard](https://files.catbox.moe/36qwk1.png)
 
 ### Gypsum [OC] [Female] [Waifu] [Dark Elf] [Goth] [Chill]
 

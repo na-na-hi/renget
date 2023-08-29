@@ -841,6 +841,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/54lpqq.rar
 
+# Gwen Martin (Gwen Geek by Joaoppereiraus)
+
+	https://files.catbox.moe/xu2gog.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
