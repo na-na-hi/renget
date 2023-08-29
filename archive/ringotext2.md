@@ -502,3 +502,143 @@ Gura's farts are almost Kiara tier, but that's because she forgets to eat someti
 >Feces keeps pouring for more than an hour, a meal for days to come
 
 -> * * * <-
+
+## >>57238017
+
+TIER S (great farts)
+>Fubuki
+Cute fox
+>Mogu
+Same rationale
+>Luna
+Little baby, her farts smell like roses
+>Towa
+Angel so you know her farts smell good
+>Lamy
+Looks like she farts out candy
+>Fuwamoco (1)
+If her farts match her personality, they must smell very nice
+
+TIER A (good farts)
+>Aki
+Looks clean, probably has nice farts
+>Choco
+You know she takes care of herself and can fart well
+>Miko
+Cute as a button, nice farts
+>Pekora
+Cute rabbit, incapable of producing offensive farts
+>Nene
+She's an idol!
+>Gura
+She's a shark (nasty farts) but also a cute loli, so there's no way she farts bad
+>Mumei
+Cute idol farts
+>Fauna
+Ara ara mommy farts (plus vegan diet)
+>Koyori
+As a lesser Lamy she gets Lamy's fart tier, but deranked
+>Iroha
+Cute idol
+
+TIER B (mostly good farts)
+>Mel
+Cute but a vampire, also has big boobs (which usually equates nastier farts)
+>Shion
+Not as cute as the rest, farts are stinkier
+>Suisei
+Doesn't look like she'd fart as good as the other petite idols, still decent
+>Towa
+Her farts would smell better if she didn't smoke
+>Iofi
+Don't know much about her, just took a guess
+>Risu
+Same
+>Anya
+Looks like a B-tier farter
+>Rrat
+Too active to produce higher quality farts, also a coffee drinker
+>Sana
+She looks like she'd somehow produce nice farts despite being massive
+>Lui
+Could produce nice farts, quality has gone down over the years though...
+
+TIER C (neutral farts)
+>Ayame
+Soulless product, when she farts only air comes out
+>Sora
+The vanilla of farts (does not fart vanilla)
+>Watame
+Ruminant (sheep) but cute cancels out to produce a neutral fart with complex, layered flavor
+>Reine
+Unremarkable
+>IRyS
+Just doesn't look like she farts good or bad, you know?
+>Kronii
+Does not care, so why should I? Still ate that spicy subway sandwhich smoothie, though
+>Zeta (or whatever she's called)
+Don't know, don't care
+
+TIER D (bad farts)
+>AZKi
+Gets really bad sweaty farts after concerts
+>Korone
+Likes to mute her mic and fart on stream
+>Matsuri
+You know she's a nasty girl, but she's so small her farts don't hold much power
+>Rushia
+Same, unlike Matsuri she gets really embarrassed about it
+>Subaru
+Her farts stink and she fucking owns it
+>Moona
+Has a weird diet
+>Polka
+She's a carnivore, produces nasty farts & shit
+>Kaela
+Penguin fed on a weird indonesian diet, stays cooped up in her room all day
+>Bijou
+Confidently hides some really stinky farts
+>Nerissa
+You know she's acting like a diva to compensate for how bad her farts are
+>Shiori
+Lost the idol RNG and produces mildly offensive farts
+
+TIER E (real bad farts)
+>Flare
+Nasty person, nasty farts
+>Marine
+Some really big farts under that leotard, especially when she does all her dance moves
+>Mio
+Same problem as Polka (carnivore diet), except it's compounded by her getting on in years
+>Noel
+Can stink up her sealed ASMR booth real bad on a hot day
+>Kiara
+Germans are just built different, and in this case, they are built nastier (why do you think they're all into scat?)
+>Ina
+Korean diet + lack of personal grooming
+>Ame
+Her destroyed GI tract produces some absolutely foul odors
+>La+
+I hold a personal theory that the stinkiness of her farts is responsible for her being such a terrible person
+>Kobo
+Nasty ho farts
+>Fuwamoco (2)
+Does some REALLY nasty farts for no reason, it's gap moe (also provides a good foil to the other Fuwamoco)
+
+TIER F (impressively pungent farts)
+>Aqua
+She's an onion
+>Haachama
+The OG stinky farter, just think about all she eats
+>Coco
+Nasty farty giant
+>Botan
+Have you ever had to clean out the lion enclosure at a zoo?
+>Mori
+Alcoholic, Western, big breasts... where to start?
+>Ollie
+Literally decomposing
+>Chloe
+Left to the imagination of the reader
+
+-> * * * <-

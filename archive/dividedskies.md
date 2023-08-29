@@ -16,7 +16,7 @@ https://files.catbox.moe/22vz6y.json
 https://files.catbox.moe/qrzzg4.lorebook
 
 Second, the sourcebook. Contained herein is the official "canon" of our world, dressed up like a D&D supplement.
-> IT ALSO CONTAINS EVERY SINGLE DIVIDED SKIES BOT, INCLUDING EIGHT NEW BOTS RIGHT HERE RIGHT NOW!!!
+> IT ALSO CONTAINS EVERY SINGLE DIVIDED SKIES BOT, INCLUDING TWELVE BOTS RIGHT HERE RIGHT NOW!!!
 https://homebrewery.naturalcrit.com/share/9diDMr1y0XPy (Desktop)
 https://homebrewery.naturalcrit.com/print/9diDMr1y0XPy (Mobile)
 
@@ -39,10 +39,12 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/zxkemz.png) | The A. A. Mistress | Sail the Divided Skies in a pirate airship!  | [Catbox](https://files.catbox.moe/zxkemz.png) , [CHUB](https://www.chub.ai/characters/horcocks/the-aa-mistress-36edc1e9) 
  ![](https://files.catbox.moe/sj5vrp.png) | Aranea Lunisilk | The enigmatic and elegant heiress of a family that dates to antiquity: a perfect socialite, even as her world ends. Comes with two greetings.  | [Catbox](https://files.catbox.moe/sj5vrp.png), [CHUB](https://www.chub.ai/characters/knickknack/aranea-a75e26cf) 
+ ![](https://files.catbox.moe/121ey6.png) | Askari | Charming rogue with a tragic past needs your help breaking a friend out of prison. | [Catbox](https://files.catbox.moe/121ey6.png), [CHUB](https://www.chub.ai/characters/Alpacalotta/askari-cfa6f8d8) 
  ![](https://files.catbox.moe/flld74.png) | Astrid Ironfist | Magi-tech Mech Battles and Shortstack Waifus! | [Catbox](https://files.catbox.moe/flld74.png), [CHUB](https://www.chub.ai/characters/horcocks/astrid-ironfist-cb07a074) 
  ![](https://files.catbox.moe/txl19p.png) | Cleria  | Cleria is the exhausted Logistician of Bragg's Fine Pharmaceuticals and Gunpowders, a gunpowder manufactory in Exploditoria. Comes with three greetings. |  [Catbox](https://files.catbox.moe/txl19p.png), [CHUB](https://www.chub.ai/characters/snombler/cleria-43087f08) 
  ![](https://files.catbox.moe/x6w9hk.png) | Cordyce | Sometimes peace requires...sacrifices, a fact that the detached and clinical Cordyce knows all too well. Comes with two greetings. |  [Catbox](https://files.catbox.moe/x6w9hk.png), [CHUB](https://www.chub.ai/characters/knickknack/cordyce-9cf18029) 
  ![](https://files.catbox.moe/knougf.png) | Duchess Emily | The heir to the fortune of the biggest metal exporting company of all the islands, and the youngest member of the Aphelion Aristocracy. | [Catbox](https://files.catbox.moe/knougf.png), [CHUB](https://www.chub.ai/characters/Sull/emily-51eeb352/)
+ ![](https://files.catbox.moe/p74lvc.png) | Latif | A mysterious nobleman approaches you as he needs help saving his sister. But there is more to him than meets the eye. (Spoilers in card's description, read them at your own risk.) | [Catbox](https://files.catbox.moe/p74lvc.png), [CHUB](https://www.chub.ai/characters/Alpacalotta/latif-5285471a)
  ![](https://files.catbox.moe/uftxb5.png) | Pif | A spunky teenager who ropes you into being her partner in crime. Help Pif complete various odd jobs in Ersilia's underworld and beyond! | [Catbox](https://files.catbox.moe/uftxb5.png), [CHUB](https://www.chub.ai/characters/bipbop/pif-2b066033/)
  ![](https://files.catbox.moe/4xyhcs.png) | Shula | A so-called Loreweaver in training. Hailing from the Arabian-inspired lands of Nadira, Loreweavers have the power to bring stories to life with their magic. However, there are some stories that are deemed too dangerous to be told. And Shula got her hands on one such story... | [Catbox](https://files.catbox.moe/4xyhcs.png), [CHUB](https://www.chub.ai/characters/Alpacalotta/shula-ba09f986/)
  ![](https://files.catbox.moe/tqqdej.png) | Thysia | A girl who lives for the party, but her appetites trend towards the bloody. She bites...too much! | [Catbox](https://files.catbox.moe/tqqdej.png), [CHUB](https://www.chub.ai/characters/knickknack/thysia-411fbd4d)

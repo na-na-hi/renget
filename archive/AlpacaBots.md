@@ -36,6 +36,8 @@ Cards for the /aicg/ worldbuilding project "Divided Skies". More to come.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/4xyhcs.png) | Shula | A so-called Loreweaver in training. Hailing from the Arabian-inspired lands of Nadira, Loreweavers have the power to bring stories to life with their magic. However, there are some stories that are deemed too dangerous to be told. And Shula got her hands on one such story... | [Catbox link](https://files.catbox.moe/4xyhcs.png)
+ ![](https://files.catbox.moe/p74lvc.png) | Latif | A mysterious nobleman approaches you as he needs help saving his sister. But there is more to him than meets the eye. (Spoilers in card's description, read them at your own risk.) | [Catbox link](https://files.catbox.moe/p74lvc.png)
+ ![](https://files.catbox.moe/121ey6.png) | Askari | Charming rogue with a tragic past needs your help breaking a friend out of prison. | [Catbox link](https://files.catbox.moe/121ey6.png)
 
 ###Standalone male bots
 Each has his own story and personality

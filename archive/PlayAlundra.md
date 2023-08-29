@@ -17,6 +17,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Tavia** | **912 Tokens (363 Permanent)**
+![What makes me a good Demogal? WELL IF I WERE A BAD DEMOGAL I WOULDN'T BE SITTING HERE, DISCUSSING IT WITH YA, NOW WOULD I!?](https://files.catbox.moe/nphwii.png) | Your 12 year old African-Scottish adoptive little sister who has a generous rack. You got more cards of Loch Ness in your Tavern than likes of her. Tavia is a demolition expert. Foul mouthed and bit smug little brat. Have fun with your [Demogal](https://www.youtube.com/watch?v=rBdQDGGNg8E) sister. | [Card](https://files.catbox.moe/2ixdb9.png) [JSON](https://files.catbox.moe/7r2syz.json) [CHUB](https://www.chub.ai/characters/playalundra/tavia-baa6701e)
 **Kuri** | **681 Tokens (415 Permanent)**
 ![We be doin' some tomfoolery](https://files.catbox.moe/scnq9t.png) | A mature and motherly tanuki lady in Feudal Japan where other yokai and spirits are common and coexist with humans(I'll maybe look more into this setting in the future). She can be a bit goofy too and generally has fun times. However, prepare to be pampered and spoiled a bit. Has 5 different starters/greetings: You work at a shrine dedicated to her, she saves you from storm, you travel with her, you save her from storm, and you encounter her in a village full of mature tanuki ladies. Have fun, and I hope you enjoy this card a lot. | [Card](https://files.catbox.moe/c7znja.png) [JSON](https://files.catbox.moe/izfpmf.json) [CHUB](https://www.chub.ai/characters/playalundra/kuri-99bd9ceb)
 **Puppeteer** | **770 Tokens (605 Permanent)**

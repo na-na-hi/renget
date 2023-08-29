@@ -2,22 +2,18 @@
 
 ->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 08/23/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 08/29/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 37: A Lovely Night For Swashbuckling](https://docs.google.com/document/d/e/2PACX-1vQsEc4Vl5c3ysra9wDu4Oa3nhg6_CpRE5F-tCI7YT_PsePtKk7_-4L__6xv4VL-EJseIGhiYJaQumu_/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
-(***Series Entry!***) [Balsa: Chapter 20](https://docs.google.com/document/d/e/2PACX-1vQtlB6-7wARQg6wSwqZnqaO-DrlpuJfswk0FoNolZWo3wib_C05sOKhoEy6Ta-qg0bP9o2aBIIBCzi5/pub) (Civia, Ciyana, SFW, Medieval Fantasy)
-(***Series Entry!***) [A Predator's Touch, A Hazy Yellow Line (Omake](https://docs.google.com/document/d/e/2PACX-1vSl_7V8Ei1mQo3ztW9o4nvnRlmP28osIZ_xHm8-1V8kAgButcn356BzbIWxd9S5cgiTZbwr62e_PsMV/pub) (Botan, NSFW, Femdom, Pegging)
-(***Series Entry!***) [First Train And Kafka Stop 21: Shelter](https://docs.google.com/document/d/e/2PACX-1vRbfriLQc-zaWLLx4A8x70TOqgCfcDmOCAu3Fc1HARSC69xmIRfXzxQopSAXdpruwFPV1-0CESnzqcu/pub) (Sora, Choco, Fubuki, NSFW Anthology Series, Dark)
-[Alt!Suisei greentext and discussion continuation](https://docs.google.com/document/d/e/2PACX-1vQgAUyPexv0xZ1WzhyGmY2C3sJhSxVrkzko5zsM0h03r9U3ZGDaTVjYgDY5_rTaJ8c51y1aADLk7mnh/pub) (Suisei, SFW, Idea Discussion Archive)
-[The Density of Your Semen Can't Be Helped](https://rentry.org/duu2y) (IRyS, NSFW, Futa, Size Queen)
-[Gravity's Rainbow](https://docs.google.com/document/d/e/2PACX-1vQf1wqsvCuyD9kzDH7v3k3RYtlsAK__IRQCDAEctj20rJllnZohytFo-Dy9xbL5WpfvxGZ-WEr8z6Ni/pub) (Mori, Korone, NSFW, Vore, Komodo Dragon)
-[I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be The Internet Idol Hoshimachi Suisei!](https://docs.google.com/document/d/e/2PACX-1vTJyQudJBozdhuqG2AiLx437YyIi1sTxtqpQXzh7Sa_eZ07Lb42QarXYZnZIQgteColiJ46W7YDFzUT/pub) (Suisei, NSFW, Incest, Drama, Comedy, Scratching, Biting)
-[Please, Mrs. Usada!](https://docs.google.com/document/d/e/2PACX-1vRIuEVDjeLxTSnmzUuHf1RavArK665wNktjmCIIz7xpaJ7oIvzogmt-3nHEeAEE1tFWPGpz2Z7Q63BG/pub) (Pekomama, NSFW, /ss/, Cheating)
-[Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (Ina, SFW, Fluff)
-[Alt!Suisei greentext and discussion continuation](https://docs.google.com/document/d/e/2PACX-1vQgAUyPexv0xZ1WzhyGmY2C3sJhSxVrkzko5zsM0h03r9U3ZGDaTVjYgDY5_rTaJ8c51y1aADLk7mnh/pub) (Suisei, SFW, Idea Discussion Archive)
-[Choco Check-up](https://docs.google.com/document/d/e/2PACX-1vSPehxvE3HwVuaobHKRT30NhwMd0Jk3jYjjODoTDxaM4rbpcwdtj-YRPR8qFfibuQ1tOSTgvYouYS0Y/pub) (Choco, NSFW, Short)
-[FacelessDegenerates.com](https://rentry.org/wzcar) (Shirogane Noel, NSFW, Dark, Misery Porn, Interactive Fanfic)<-
+->(***Series Entry!***) [Cover High/Pekora Finale, Pt. 1](https://docs.google.com/document/d/e/2PACX-1vS-c0ofN7S13CwiwV_x4wDsd0-4skzKORUUpy2FVwd6A_7QDg-rSxBp8lb3-t2eIz6u3GaDlyCKAHGG/pub) (Pekora, Gen 3, SFW, Fluff/Romance, Comedy, Chuuni Bullshit)
+[Roboco's New Upgrade](https://docs.google.com/document/d/e/2PACX-1vRyVEow1X-vyUArSQ7eGfyLTX3inh3lEx2_L8Qwdy4CGlQnxxmh-nF1nU3H9igpjg1I-LVCvoRX8akI/pub) (Roboco, NSFW, Incest-ish)
+[Shark In The Screen](https://docs.google.com/document/d/e/2PACX-1vSXw7JNes4J9Zza3X3xlpshsO_rWifv6_5YMoEANnv4zzmseUFTHUPx2w9EiQH0M28OLnjv3zAGAWE8/pub) (Gura, Kiara, Ina, Omega, Jenma, Gawr, SFW, Drama)
+[A Cursed Dagger](https://docs.google.com/document/d/e/2PACX-1vSQbyKoaRT5ybXTu8N938PibAbQJMKZ2S_ex4cIaKYk6Jc77r02ueP94mNwe9-2XYviS6GfRgyrSOF5/pub) (Anya, SFW, Fluff, Comedy, Mind Reading)
+[Milky Way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub) (Suisei, Noel, NSFW, Breast Expansion, Lactation)
+[The Shining](https://docs.google.com/document/d/e/2PACX-1vRCKf0eRje2c58z0_6Af4KLJNghJVCSTQnbeEfoivUJMrhIUNrI__zhFwsDP0eoUGcI-Pao8IpCZ1RS/pub) (Shiori, Bijou, Nerissa, Fuwamoco, SFW)
+[By That Sea - Chapter 1](https://docs.google.com/document/d/e/2PACX-1vSwjUTXwtLshVmmwUFTwPW9q4ybReU3yaNELEqne2klabBxSMCg2Xd6s6qvfgbAZvV6HGM0f_XNSolV/pub) (Marine, SFW, Adventure, Fantasy, Anachronistic Elements)
+[Tainted Idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Sora, NSFW, (fake) Rape)
+[Tower of Tattle - Parts 1 through 4](https://rentry.co/6xqb4) (Shiori, SFW, Mystery, Drama, Adventure, Comedy, Directory Link)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1268,3 +1264,11 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Just Another Lovesick Afternoon](https://docs.google.com/document/d/e/2PACX-1vS8RwDm9hbl4QCzy08W9ZffS16RD9UODYgIs2wxQaAF3NelAgTw8_qChKuWywk3oldO4T2gEZhQ39SM/pub) (Ina, SFW, Fluff)
 [Choco Check-up](https://docs.google.com/document/d/e/2PACX-1vSPehxvE3HwVuaobHKRT30NhwMd0Jk3jYjjODoTDxaM4rbpcwdtj-YRPR8qFfibuQ1tOSTgvYouYS0Y/pub) (Choco, NSFW, Short)
 [FacelessDegenerates.com](https://rentry.org/wzcar) (Shirogane Noel, NSFW, Dark, Misery Porn, Interactive Fanfic)
+[Roboco's New Upgrade](https://docs.google.com/document/d/e/2PACX-1vRyVEow1X-vyUArSQ7eGfyLTX3inh3lEx2_L8Qwdy4CGlQnxxmh-nF1nU3H9igpjg1I-LVCvoRX8akI/pub) (Roboco, NSFW, Incest-ish)
+[Shark In The Screen](https://docs.google.com/document/d/e/2PACX-1vSXw7JNes4J9Zza3X3xlpshsO_rWifv6_5YMoEANnv4zzmseUFTHUPx2w9EiQH0M28OLnjv3zAGAWE8/pub) (Gura, Kiara, Ina, Omega, Jenma, Gawr, SFW, Drama)
+[A Cursed Dagger](https://docs.google.com/document/d/e/2PACX-1vSQbyKoaRT5ybXTu8N938PibAbQJMKZ2S_ex4cIaKYk6Jc77r02ueP94mNwe9-2XYviS6GfRgyrSOF5/pub) (Anya, SFW, Fluff, Comedy, Mind Reading)
+[Milky Way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub) (Suisei, Noel, NSFW, Breast Expansion, Lactation)
+[The Shining](https://docs.google.com/document/d/e/2PACX-1vRCKf0eRje2c58z0_6Af4KLJNghJVCSTQnbeEfoivUJMrhIUNrI__zhFwsDP0eoUGcI-Pao8IpCZ1RS/pub) (Shiori, Bijou, Nerissa, Fuwamoco, SFW)
+[By That Sea - Chapter 1](https://docs.google.com/document/d/e/2PACX-1vSwjUTXwtLshVmmwUFTwPW9q4ybReU3yaNELEqne2klabBxSMCg2Xd6s6qvfgbAZvV6HGM0f_XNSolV/pub) (Marine, SFW, Adventure, Fantasy, Anachronistic Elements)
+[Tainted Idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Sora, NSFW, (fake) Rape)
+[Tower of Tattle - Parts 1 through 4](https://rentry.co/6xqb4) (Shiori, SFW, Mystery, Drama, Adventure, Comedy, Directory Link)

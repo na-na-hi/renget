@@ -118,6 +118,12 @@
 >"go fuck yourself, go fuck yourself [repeatedly]"
 >"they are drunk aren't they?"
 
+[ [catbox](https://files.catbox.moe/ewdvjx.mp4) ]
+>"It hurts, it hurts, let go my hand" [repeatedly]
+>"Dad, dad..."
+>*gunshot sounds*
+>"What did you just..."
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign

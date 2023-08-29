@@ -52,6 +52,7 @@
 [Cover High/Pekora Chapter 6: You Know Why, You Goddamn Rabbit.](https://docs.google.com/document/d/e/2PACX-1vSWM4aDEH7QuoeRnvA4bZbQMcUJGknLH5B0f4ilpFcDyEYxYW0McAAnFv5nwn0Rbn5bDjrLBv7bbO2t/pub) (SFW, Pekora, Moona, Multiple Chuubas, Yagoo, Fluff/Romance, Comedy)
 [Cover High/Pekora Chapter 7: Welcome Back, You Goddamn Rabbit.](https://docs.google.com/document/d/e/2PACX-1vSJTbIokofBkQpPXzmeZJxECYm87aH_bPMAsNCR-2ZJ94M4VaxC0NwhMjMSbd_tQyQRER5IvIvwRF9M/pub) (Pekora, Multiple Chuubas, Fluff/Romance, Comedy, Mild Ryona)
 [Cover High/Pekora Penultimate Chapter](https://docs.google.com/document/u/1/d/e/2PACX-1vT3PzoX8kETLtC-USUEd4G4mmLd76xrwUvO2gQ9-wNkbjSLXpWiZhFVhihN6PjhnZ8NDITjriP_rkro/pub) (Pekora, Pekomama, Fluff/Romance, Comedy)
+[Cover High/Pekora Finale, Pt. 1](https://docs.google.com/document/d/e/2PACX-1vS-c0ofN7S13CwiwV_x4wDsd0-4skzKORUUpy2FVwd6A_7QDg-rSxBp8lb3-t2eIz6u3GaDlyCKAHGG/pub) (Pekora, Gen 3, SFW, Fluff/Romance, Comedy, Chuuni Bullshit)
 [Cover High Table of Contents](https://docs.google.com/document/d/e/2PACX-1vTn60HDU-RFY45m7ftqeZdiZ7MP9ZokzOcgtdCis-aXWjf_c4fo4KI0t1TAHyN9d_3NGxfikjIA3-H4/pub) (**Directory, use if this archive fails to update**)
 
 
