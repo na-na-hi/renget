@@ -19,7 +19,7 @@
 
 
 ##Base iA3 Prodigy .json - Regularized Characters/Objects:
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-100) wait for it to be reached. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) wait for it to be reached. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
@@ -34,7 +34,7 @@
 !!! warning Make sure your cooling is adequate. If it isn't then lower batch size until you're safe.
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning I don't recommend noise at all.
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-100) wait for it to be reached. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) wait for it to be reached. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -56,7 +56,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"growth_rate=1.01\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=1.0\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"growth_rate=1.002\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=0.1\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

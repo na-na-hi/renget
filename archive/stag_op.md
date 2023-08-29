@@ -19,8 +19,7 @@ First gameplay reveal and official Bethesda playlist: https://www.youtube.com/wa
 \>Potential upcoming mods leaked by scraping Nexus: https://rentry.org/stag_leakedmods
 \>Full OST leaked: https://gofile.io/d/OXlf6l
 \>Skill leaks: Tier 1 skills \-\> https://gofile.io/d/2LKzBs and Tier 2 & up skills \-\> https://gofile.io/d/6aWp5M
-\>Previous leaks: you can only explore in a limited radius from your ship, armour looting is RNG and improved by a skill, Sarah got a new look, Earth is a barren desert, Sarah looks terrible in a spacesuit, invisible walls aren't just a "tutorial thing", looting armour doesn't change the corpse model, loot doesn't necessarily match what NPCs are wearing, a bunch of ships and their interiors shown, tech tree skills shown, Black Fleet debunked, planet exploration is done in "tiles" that are generated when you land, new skill leaks (see above), certain dialogue options and gameplay mechanics require an initial skill investment (eg. bribery in dialogues)
-\>Fresh leaks: more ships and a bit of Neon City shown
+\>Previous leaks: you can only explore in a limited radius from your ship, armour looting is RNG and improved by a skill, Sarah got a new look, Earth is a barren desert, Sarah looks terrible in a spacesuit, invisible walls aren't just a "tutorial thing", looting armour doesn't change the corpse model, loot doesn't necessarily match what NPCs are wearing, a bunch of ships and their interiors shown, tech tree skills shown, Black Fleet debunked, planet exploration is done in "tiles" that are generated when you land, new skill leaks (see above), certain dialogue options and gameplay mechanics require an initial skill investment (eg. bribery in dialogues), more ships and a bit of Neon City shown
 **[Add more here if necessary, if it goes over the character limit remove some old ones]**
 
 \>>>FAQ<<<

@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>Missile attack on AFU supply train in the Donestk direction
+https://files.catbox.moe/0c4qhk.mp4
+>Lost ukranian pow
+https://files.catbox.moe/zw6kbi.mp4 (subs)
+https://files.catbox.moe/6k5d6p.mp4
+>Ka-52 working 
+https://files.catbox.moe/6ctoab.MP4
+>Road of death: KASKAD wrecking hohols with ATGMs
+https://files.catbox.moe/us3gid.mp4
+>AFU rap (cringe)
+https://files.catbox.moe/oypyal.mp4
+>"This is your last chance"
+https://files.catbox.moe/sj1x21.mp4 (subs)
+https://files.catbox.moe/pvm1sb.MP4
 >Bradley drops off hohols so they can get pounded by artillery in liberated Rabotino
 https://files.catbox.moe/hoitad.MP4
 >"This is your last chance"

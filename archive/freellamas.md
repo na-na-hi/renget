@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** ~~**MythoMax-l2-13b-q4 scaled to 8k**~~
+**Model:** **MythoMax-l2-13b-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://stretch-pregnant-instrumental-musical.trycloudflare.com```
 
 **System prompt:**
 ```

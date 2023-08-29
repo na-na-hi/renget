@@ -14,7 +14,7 @@ Mopping over wouldn't do any good, so I flapped my wings in some random directio
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
-**Species:** Rufflet | **Affiliation:** ??? 
+**Species:** Rufflet | **Affiliation:** The Rantrum Kingdom
 **Level:** 5 | **Experience to Next Level:** 0/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
