@@ -24,12 +24,12 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Babe](https://files.catbox.moe/fixad9.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png)|
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|[Huyen](https://files.catbox.moe/uxn0ii.png)
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png), [Naomi](https://files.catbox.moe/jkhsl5.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Oliver](https://files.catbox.moe/j7wn4q.png)|[Oliver](https://files.catbox.moe/j7wn4q.png) [MV]
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png), [Canio](https://files.catbox.moe/t6c32r.png)|
+[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
 [Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
@@ -75,8 +75,8 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

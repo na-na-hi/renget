@@ -272,12 +272,65 @@ Wooper gets to his feet, stretching as he lets out a yawn. “Alright, fair's fa
 
 -----
 
-“So... you two are back.” 
-We find ourselves in the former outlaw's shop once again, the Smeargle giving us a pensive look. Continuing, he says, “I trust your time in one another's bodies has been interesting? Educational? ...Fun, perhaps?”
-I nod. “You bet!”
-“Well, you certainly seem happier than... the first time we did this.” The Smeargle shudders, no doubt recalling his capture. “Right. Simply hand over the payment and I'll set things back to normal.”
+I follow Wooper into Smeargle's shop. I call out, yelling “Hey, we're back! You gonna change us back?” Hearing no response, I say, “Helloooo? Anybody home?”
+“Maybe he's out in town?” Wooper says.
+“Something doesn't feel right about this, Wooper...Check the place!”
+Wooper walks further into the shop, entering the backroom. “It's cold back here... Hey, what's this?” I hear Wooper pick up a piece of paper as he begins to read from the note.
 
-Wooper digs into the bag, digging out a handful of coins. Smeargle pockets the change, seeming to avoid eye contact with us. “I'll just... get this done then.”
+
+`The Smeargle you seek works for me now! You will never again return to your normal bodies... Unless you're brave enough to come seek me in the Chilly Cavern, that is! You shall regret the day you ever stole my Frisms! -Cryogonal`
+
+
+I slam my tail against the wall in anger. “That stupid CHILLER! Oh, he wants a fight?! Well, we're gonna GIVE IT TO HIM!” Turning towards the stairway, I shout, “C'mon Wooper, it's time to deliver an ass kicking of biblical proportions!”
+“... Biblical?” Wooper shakes his head, saying, “Nevermind, let's get that monster!”
+“Does our bag have all the good stuff in it?”
+Wooper checks inside the bag. “Yep, we're good to go!”
+“Good. Don't forget about the wand that shoots fire.” Determined to put an end to this, I shout, “The day of the thaw is upon us!”
+
+-----
+
+The two of us run towards the location of our first ever adventure, the icy cave where we found those Frisms, not slowing down until we arrive.
+“It's pretty dark in that cave. Chespin, do you remember how to glow?”
+I nod. “Gotta think happy thoughts. Right now, the happiest thought is the sight of that chiller either shattering or melting” Right on cue, a soft blue light begins to emanate from my body.
+“Nice job, Chespin.” Grabbing the Blast Wand out from the bag, Wooper ventures into the cave, with me following close behind.
+
+I begin to shiver uncontrollably as we delve deeper into the depths. “W-Wooper, c-can you d-do something to help keep me w-warm?”
+Wooper grips the wand tighter, a small flame forming on the end. “This help you out?”
+I stand close to the wand, sighing in relief. “Aah... sweet sweet warmth...”
+“Be ready, Chespin. There's no telling what tricks that Cryogonal's got in store for us this time.”
+
+We arrive at the large icy-covered room that I've seen in my nightmares so many times. Mirror-like walls, snow-covered floor, stalactites all over the ceiling, it's all so familiar to me at this point. Looking around, I spot two shadowy figures, one of which is distinctly snowflake shaped.
+“Chiller detected.” Raising my voice, I shout, “CRYOGONAL! YOU'VE GONE TOO FAR THIS TIME!”
+“Oh, looks like the runts finally decided to show up.” That awful voice... there's no doubt about it. Floating into view, the horrid visage of Cryogonal comes into full view. “Finally, I can exact my revenge. You've melted me, shattered me, but now it will be YOU who is broken before me!”
+“Come off it! You think you can stop us? No way!” If I still had fists, I'd be clenching them right now.
+“Not if my cohort has anything to say about it. Smeargle, tell them.”
+The Smeargle from the other day steps forward, draped in a maroon-colored cloak. “Its high time we finally get our revenge.”
+“You dirty criminal! You won't get away with thi-”
+
+The words catch in my mouth as I hear the sound of glass shattering, a brown cloud swirling from Cryogonal's mouth towards Wooper and I! I lose all feeling in my body, and can do nothing but move my eyes around. Of all the horrible things I was ready for, a Petrify Orb was the last thing I ever expected! Fear rises in my mind as a wave of helplessness washes over me, unable to do anything but await whatever is in store for us.
+Cryogonal spits out the remains of the orb. “Oh, how I've longed for this day! Now that I've got you two right where I want you, I'm going to make sure you never cause me trouble again. But I want a more personal touch for this. Smeargle is going to swap the bodies of me and the green-hatted thief. An explorer being beaten down by the body of his best friend is a fitting way to end this, don't you think? Smeargle, get it done! Feel free to drag it out, I want to savor this.”
+
+“Gladly.” With a quick motion, Smeargle hefts up his tailbrush, slowly walking towards us while clutching his cloak around himself with his free arm. I look down at the ground, trying to distance myself from my horrible reality. As his brush touches Wooper, I hear Smeargle whisper to us in an almost-inaudible voice. “Trust me on this one.”
+Taking a few steps back, Smeargle says, “Oh, I've waited though many days in jail dreaming of this day. Team Cozy, stopped with the aid of my brush!” Turning towards Cryogonal, he says, “However, there's just one thing I want to do before I switch the two of you.”
+“Ahaha, go right ahead!”
+“But of course...” 
+
+Smeargle quickly reaches into his cloak, throwing an Orb I've never seen before in Cryogonal's face. “I don't want to live my life on the run!” Taking out a second orb, he throws it at the ground before Wooper and I, green light flowing out of the shattered remains. Bathed in the glow, I find myself able to move again! Cryogonal quickly bears down on us, but doesn't attack us, much to my confusion.
+Smeargle looks at the two of us. “I threw a Silence Orb at him. He cannot use his mouth for anything right now.
+“But I can!” Inhaling, I fire a massive torrent of water directly into the chiller, slamming him against a stalactite. Cracks begin to form across his body as he recovers from the attack, but Wooper follows by firing off a volley of fireballs from his Blast Wand! Bits of the evil snowflake begin to melt, dripping to the floor as he drifts down to the floor, barely able to move.
+Confidence fills me as I realize how much of an upper hand the three of us have now. “No matter how many times you fight Team Cozy, it'll always end in your defeat. Begone, CHILLER!” Slamming my tail on the ground, the floor erupts underneath Cryogonal, shattering him into pieces!
+
+“Well, this was an unpleasant trip. To think I wasted my day inside some awful cavern of ice because of that vile thing. How dare he steal me away from my home.” Smeargle waves for the two of us. “Let us return to my shop.” Not wanting to spend a minute longer in this icebox, I eagerly follow.
+
+-----
+
+We find ourselves in the former outlaw's shop once again, the Smeargle giving us a pensive look. “I trust your time in one another's bodies has been interesting? Educational? ... Fun, perhaps?”
+I nod. “It was interesting and it got really scary at points, but yeah!”
+“Well, you certainly seem happier than... the first time we did this.” The Smeargle shudders, no doubt recalling his capture. “Right. Simply hand over the payment and I'll set things back to normal.”
+Curious, I ask, “Do we get a discount for fighting your kidnapper?”
+“I don't give out discounts.” Pausing, he follows with, “However... You did save me the trouble of spending who knows how long waiting around in that frigid dump he called a home. I'll give you a 10% discount, and that's final.” Somehow, I'm not surprised Smeargle's that cheap.
+
+Wooper digs into the bag, digging out a handful of coins. Smeargle pockets the change, saying “Time to finish this.”
 Tail in hand, Smeargle quickly paints the swap symbol onto both of us. His brush glows as he hefts it upwards, causing my entire body to go numb! It only lasts a few seconds, and just like that, I'm back in my own body! Or at least, what passes for it in this world.
 “The switch back seems to have been a total success. Now if you'll excuse me, I have a shop to close for the night.”
 Taking the hint, I grab Wooper in my vines, climbing back up into the town proper.

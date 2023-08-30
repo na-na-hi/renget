@@ -18,15 +18,16 @@ Main page|
 	**RUS:** Я устал и отдыхаю до выхода новой сетки. Отвечаю только на почте и ((там)). 
 
 ######CHOOSE PREFERED VERSION:
+!!! note I prefer v10.1/v11 right now
 Date | Update | Description
  |  | 
+30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | Variates assistant's reply start.
 23.08.2023 |  [V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
 16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 14.08.2023 |  A minor V9 update | Added one little sentence in prefill to keep characters a bit more truthful to their personas
 11.08.2023 | [ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | Modifies output like you are texting with {{char}} in messenger chat
 11.08.2023 | [V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | A mix of 6.7+7+8
 09.08.2023 | [V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
-07.08.2023 | V7.4+ | CANCELLED
 07.08.2023 | [V7.4 CHEESECAKE](https://rentry.co/CharacterProvider#v74-cheescake) | Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
 06.08.2023 | [V7.3 CHEESECAKE](https://rentry.co/CharacterProvider#v73-cheesecake) | Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
 06.08.2023 | [V7.2 CHEESECAKE](https://rentry.co/CharacterProvider#v72-cheesecake) | Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
@@ -39,6 +40,17 @@ Date | Update | Description
 21.07.2023 | [V4 NAPOLEON](https://rentry.co/CharacterProvider#v4-napoleon) | Made it even more compact...
 17.07.2023 | [V3 HONEYPIE](https://rentry.co/CharacterProvider#v3-honeypie) | Tried a compact XML - works fine...
 
+# 
+- - -
+- - -
+- - -
+# 
+!!! warning
+	:star: [**Disclaimer**](https://www.youtube.com/watch?v=elaSoKe1gFw)
+	**1.** Each new X.0 version is not a better version. It just provides a different output.
+	**2.** All my prompts are intended for ecchi and rpg-like adventures.
+	**3.** If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase them to perform OOC request.)
+	**4.** Prompts are intended for Claude 100k models.
 # 
 - - -
 - - -
@@ -139,19 +151,31 @@ Find regex:
 - - -
 - - -
 # 
-###V10.1 FAWORKI
+###V11 JAFFA
 #
 
 **Preset and Prompts**
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
-**Advanced formatting**
-**`[x] Disable description formatting`**
-**`[x] Disable scenario formatting`**
-**`[x] Disable personality formatting`**
-**`[x] Disable example chats formatting`**
-**`[x] Disable chat start formatting`**
-**`[x] Trim spaces`**
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/1j1fwz.zip)
+#
+!!! **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
+# 
+- - -
+- - -
+- - -
+# 
+###V10.1 FAWORKI
+#
+
+**Preset and Prompts**
+Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
 #
@@ -172,14 +196,6 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 
 **Preset and Prompts**
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
-#
-**Advanced formatting**
-**`[x] Disable description formatting`**
-**`[x] Disable scenario formatting`**
-**`[x] Disable personality formatting`**
-**`[x] Disable example chats formatting`**
-**`[x] Disable chat start formatting`**
-**`[x] Trim spaces`**
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
 #
@@ -227,7 +243,7 @@ Works best for me, but Anthropic's standard is `0.70 - 5 - 0.70`
 **`[ ] Enhance Definitions`**
 **`[ ] Wrap in Quotes`**
 
-**Advanced formatting**
+**Advanced formatting (outdated)**
 **`[x] Disable description formatting`**
 **`[x] Disable scenario formatting`**
 **`[x] Disable personality formatting`**
@@ -348,7 +364,7 @@ Works best for me, but Anthropic's standard is `0.70 - 5 - 0.70`
 **`[ ] Enhance Definitions`**
 **`[ ] Wrap in Quotes`**
 
-**Advanced formatting**
+**Advanced formatting (outdated)**
 **`[x] Disable description formatting`**
 **`[x] Disable scenario formatting`**
 **`[x] Disable personality formatting`**
@@ -495,7 +511,7 @@ Works best for me, but Anthropic's standard is `0.70 - 5 - 0.70`
 **`[ ] Enhance Definitions`**
 **`[ ] Wrap in Quotes`**
 
-**Advanced formatting**
+**Advanced formatting (outdated)**
 **`[x] Disable description formatting`**
 **`[x] Disable scenario formatting`**
 **`[x] Disable personality formatting`**

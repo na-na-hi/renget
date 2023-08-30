@@ -84,6 +84,7 @@ Mumei and Bae will upload shorts throughout summer. Below are the list of short 
 |20-08-2023|[What a nice day to](https://www.youtube.com/watch?v=K4j1gJu_mUc) |-|
 |21-08-2023|- |[YOGA CHALLENGE ](https://www.youtube.com/watch?v=ed8xFqDOm74)|
 |27-08-2023|-|[jugemu jugemu ](https://www.youtube.com/watch?v=OybGkM04OCM)|
+|29-08-2023|[boing boing](https://www.youtube.com/watch?v=N9Zh6Kh70Z0) |-|
 
 ###HoloSummer related streams
 | Date | Title | Link | Nature |

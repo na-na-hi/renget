@@ -32,8 +32,9 @@ Lewds : #depravencrafts on Twitter
 The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [New Jailbird Guide](https://rentry.org/ope_curated_streams_list)
 A stream curated list based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendation and based on the future stream.
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [Members Streams]
-Will open when the first mengen frame will pop-up. Will contain the link hidden in the thumbnail (just click it) and a brief description of each stream.
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams)
+A page dedicated to the membership content - will contain general informations and a list of the mengens with a short description.
+!!! warning Still in a state of a skeleton - will just contain the general informations until the first mengen frame pops up.
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
 Where you can find the collabs from the other holomem channel Nerissia took part of. Major mentions are also stored in it.
 

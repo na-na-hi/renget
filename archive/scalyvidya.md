@@ -91,15 +91,15 @@ hiss
 ####Dragon's Dogma
 Itsuno from Capcom tries his hand at an action RPG, which garnered something of a cult following. The main antagonist is Grigori, believed to be one of the best vidya dragons around. Play it on PC for a drastically better framerate than on consoles.
 
-*Dragon's Dogma Online*, an MMO spin-off, was taken offline but private server efforts for it are making some tangible progress.
+A sequel is in the works and pending release. *Dragon's Dogma Online*, an MMO spin-off, was taken offline but private server efforts for it are making some tangible progress.
 
 ####Angels With Scaly Wings
 This is a visual novel, not a video game. Anyway, you are the ambassador to a Earth-like world populated with dragons no bigger than a horse. Like some other furry VNs, it can also be depressing.
 
 ####Snoot Game
-A parody VN of Goodbye Volcano High that is not only a high quality shitpost that is better than it should be, but will likely unironically remain better than the actual GVH itself if it ever actually comes out. Any presence of it on /v/ will make janitors **completely** assblasted for reasons unknown.
+A parody VN of Goodbye Volcano High that is not only a high quality shitpost that is better than it should be, but is unironically better than the actual GVH itself, which took the better of roughly three and a half years to come out since its announcement. Any presence of it on /v/ will make janitors **completely** assblasted for reasons unknown.
 
-At least one of the devs has decided to make his own commercial VN afterwards, titled *I Wani Hug That Gator!*.
+One of the devs has decided to make his own commercial VN afterwards, titled *I Wani Hug That Gator!*.
 
 ####Golden Treasure: The Great Green
 An interactive novel about a draak-kin's (feathered wyvern) life, from egg to adulthood. Survive by exploring, getting stronger and avoiding danger. Hunting and fighting have their separate minigames, the latter a bit more involved. After 3 deaths, you lose your save, but can restart from certain points and keep some permanent upgrades that make it much easier later. Very draconic point of view in writing.
@@ -158,7 +158,9 @@ It's a text adventure game where you go through the hardships of being a kobold.
 Coming in both single player and even MUD forms, both are text adventures sharing the premise of the furry apocalypse happening, where defeat in combat, items, and certain scenes can transform the player. There are a few reptilian transformations as with some NPCs. Still under development, the Godot build appears to be a different game entirely.
 
 ####[Grove](https://grovedevelopment.itch.io/groverpgnsfw)
-A gay-oriented RPG Maker game with a humanoid dragon protagonist and some of his kin exploring cursed as fuck lands, with corruption being the overarching theme. Still under development, but reaching the end of story content for a given build at least unlocks a gallery for you to see bad end content without needing to throw battles constantly.
+A gay-oriented RPG Maker game with a humanoid dragon protagonist and some of his kin exploring cursed as fuck lands, with corruption being the game's overarching theme. Still under development, but reaching the end of story content for a given build at least unlocks a gallery for you to see bad end content without needing to throw battles constantly.
+
+The developer has also made a game named Prowler, which is about a discount *Nargacuga*.
 
 ***
 
@@ -173,7 +175,7 @@ Still somehow kicking for over 20 years later despite having a shitty engine, ba
 
 Obviously, it is also up to you on what you will actually do with your avatar afterwards. 
 
-As there are multiple third-party clients available, [Firestorm](https://www.firestormviewer.org/) is typically recommended for general use but others do at least have other niches. If you are doing degenerate things, it does have RLVa built-in as well, an API that allows.
+As there are multiple third-party clients available, [Firestorm](https://www.firestormviewer.org/) is typically recommended for general use but others do at least have other niches. If you are doing degenerate things, it does have RLVa built-in as well, an API that allows for client-side restrictions.
 
 ####VR Sims (VRChat, NeosVR)
 You can pretty much just use any model properly configured for these, but generally speaking you'll likely be stuck with anthropomorphic avatars (that may or may not have digitigrade legs). There's plenty of decent avatars and sometimes free, lesser versions of paid stuff are also around, which do typically have better support. Typically, these are often sold on Gumroad, and come with .blend files, pre-setup Unity Projects for VRChat, and Substance Painter files for making your own textures. There's a bit more of an upfront cost and these are more complicated, but unlike SL you at least own the files and can pretty much do nearly anything you want with them.

@@ -3,6 +3,7 @@
 ![Huyen](https://files.catbox.moe/07g43c.png)
 *Huyen! Your cute Vietnamese childhood friend! Updated with one more alternate greeting!*
 https://files.catbox.moe/ak1bhv.png
+1k context rewrite now available! Generally recommended if you have anything better than Slaude: https://files.catbox.moe/uxn0ii.png
 
 ![The Arms Dealer](https://files.catbox.moe/jfxk9h.png)
 *The Arms Dealer, a mysterious man with a briefcase full of guns...*

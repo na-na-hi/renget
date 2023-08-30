@@ -129,5 +129,6 @@
 |29/08/2023|113|Recommendation|Addition of the third Terraria stream.|
 |29/08/2023|114|Mentions & Collabs|Addition of the second and third Terraria stream.|
 |29/08/2023|115|Mentions & Collabs|Addition of FWMC's POV for the second Terraria stream.|
+|30/08/2023|116|Frontpage & Membership|Activation of the Membership page.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

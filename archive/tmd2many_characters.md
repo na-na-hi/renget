@@ -23,6 +23,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Angus](https://rentry.org/AngusCharacterSheet) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
 [Brook](https://rentry.co/Brooksheet) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | N/A
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
+[Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | N/A
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | N/A
 [Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | N/A
 [Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | N/A

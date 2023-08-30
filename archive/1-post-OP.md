@@ -48,7 +48,7 @@ https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive
 https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
 \---
 \>Tools
-/ope/'s library (the membership page will be up as soon as the membership opening stream ends)
+/ope/'s library
 https://rentry.org/joint_operation_center0
 Nerissa's Sounds
 https://rentry.org/c793m
