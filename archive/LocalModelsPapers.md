@@ -23,6 +23,7 @@
 10/2022|[Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models](https://arxiv.org/abs/2210.13432)
 10/2022|[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 11/2022|[Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
+11/2022|[Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
 02/2023|[Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
 03/2023|[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
 04/2023|[Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)
@@ -335,6 +336,7 @@
 08/2023|[EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269)
 08/2023|[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
 08/2023|[OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137)
+08/2023|[Accelerating LLM Inference with Staged Speculative Decoding](https://arxiv.org/abs/2308.04623)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

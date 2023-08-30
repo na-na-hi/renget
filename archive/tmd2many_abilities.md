@@ -392,8 +392,8 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 2 | -. | Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 30 IQ | 2 IP
 2 | -. | Malpractice | The User's Healing Moves heal an extra 4 HP. After the Ally is healed, if their next roll is below 10, they lose the HP they were healed for. | - IQ | 5 IP
 2 | -. | Field Medic | Even without healing Items or Moves, the User is proficient at diagnosing and mending injuries. +3 to medical-based rolls. When Guarding, the Ally being Guarded is healed for 2 HP. | - IQ | 3 IP
-2 | -. | Resilient | The User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. | - IQ | 7 IP
-2 | -. | Foolhardy | The User's damage is increased by 2, but they are unaffected by all healing sources while in-combat except Draining Moves. | - IQ | 7 IP
+2 | -. | Resilient | The User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | - IQ | 7 IP
+2 | -. | Foolhardy | The User's damage is increased by 2, but they are unaffected by all healing sources while in-combat except Draining Moves. When paired with Resilient, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | - IQ | 7 IP
 2 | -. | Gourmand | Prepared and Cooked Foods the User has made heal +2 HP regardless of their effect. | - IQ | 3 IP
 1 | -. | Wild Spirit | The User is less controversial to Wilds and Ferals. Ferals are less likely to target them in battle. | 30 IQ | 1 IP 
 - | -. | 

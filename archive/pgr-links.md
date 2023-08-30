@@ -28,6 +28,7 @@
 ####In-Depth Guides and Resources
 1. [Fury's PGR Spreadsheet](https://docs.google.com/spreadsheets/d/1OMSxmFW-HN4rQH9jjQi4ORk5Z_HIR9HbITD9jIcrhts/htmlview#) (PGR CN Database, Pain Cage and Warzone strats)
 2. [Weapon Banner Offrates and Priority Tier List](https://imgur.com/a/sNzJ3PF) (Thanks to /pgr/ Anon)
+3. [CUBs and CUBs Skills Priority Tier List](https://docs.google.com/spreadsheets/d/1ElWDGX9p3SbDfQEq-XoAhbrJQHnYKr7npn9yhyDm8Cc/htmlview)
 3. [Which Frame is the Best To SS/SSS?](https://imgur.com/a/D8G3iQE)
 4. [Warzone Lineup Recommendation](https://docs.google.com/spreadsheets/u/2/d/1q3iTdPhDlT1iT08zeJLqprvuQNJeaLb_GONsvu30Jvs/htmlview#)
 5. [Warzone In-Depth Mechanics](https://docs.google.com/document/d/1nJeLR5qIrq7SvueCGPDFz5KsMmYGVxUgqmxoRHZJ0GM/edit)

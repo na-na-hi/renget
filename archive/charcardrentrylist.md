@@ -19,7 +19,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Tavia](https://files.catbox.moe/nphwii.png), [Kuri](https://files.catbox.moe/c7znja.png)|[Tavia](https://files.catbox.moe/nphwii.png) [MV], [Kuri](https://files.catbox.moe/c7znja.png) [MV]
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Askari](https://files.catbox.moe/121ey6.png), [Latif](https://files.catbox.moe/p74lvc.png), [Nao-kun](https://files.catbox.moe/oyiabd.png)|[Vincent](https://files.catbox.moe/de7rcs.png)
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Askari](https://files.catbox.moe/121ey6.png), [Latif](https://files.catbox.moe/p74lvc.png), [Nao-kun](https://files.catbox.moe/oyiabd.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gitty](https://files.catbox.moe/36qwk1.png)|[Toby Daniels (nsfw)](https://files.catbox.moe/30k0wa.png), [Toby Daniels](https://files.catbox.moe/v2j0xs.png)
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Babe](https://files.catbox.moe/fixad9.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
@@ -75,8 +75,8 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
+[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

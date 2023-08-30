@@ -13,6 +13,8 @@
 |14/08/2023 | [Kiara Compatibility](https://www.youtube.com/watch?v=vdmr7B__G3s) |Kiara| True collab|
 |16/08/2023 | [PowerWash Simulator](https://youtu.be/HYY7Z2M5g6A) |Bae| True collab|
 |22/08/2023 | [Baldur's Gate 3](https://www.youtube.com/watch?v=5ELJqUCPDYY) |[Mori](https://www.youtube.com/watch?v=ESiXE5Jh80k), [Kiara](https://www.youtube.com/watch?v=8jDTWBc7EQE), [Bijou](https://www.youtube.com/watch?v=owm4Eeb6iwg)|  True collab|
+|22/08/2023|[Terraria #2](https://www.youtube.com/watch?v=XGuQDiwqbeU)|[FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Bijou & Shiori| True collab|
+|29/08/2023|[Terraria #3](https://youtu.be/A58r2hB_RuU)|Shiori| Impromptu collab|
 |30/08/2023 | [Baldur's Gate 3 #2](-) |[Mori](-), [Kiara](-), [Bijou](-)|  True collab|
 |Unknown| Placeholder - Zatsudan |Bijou|
 

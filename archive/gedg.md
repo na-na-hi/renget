@@ -32,7 +32,7 @@ A lot of the links use rentry.org, if .org is down try .co instead.
 
 ## Resources and Links
 
-In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. 
+In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. You can also check out the [horsefucker paste](https://ponepaste.org/2348).
 
 ### Engines and Libraries
 

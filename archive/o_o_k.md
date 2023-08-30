@@ -60,7 +60,10 @@ VagnerdeSouzaS7
 WeirdOtterDream
 Ninjabunneh
 72hoka
-hyaku
+hyaku (GAY!!!)
+MarquessBronze
+
+
 
 #Monke Hentai
 >Snow Monkey/Yeti Futa Comic by Alek ErectSociety

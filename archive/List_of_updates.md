@@ -126,5 +126,8 @@
 |28/08/2023|110|Music|Deletion of the 6th placeholder, as it could be a bug as per Nerissa's explanation during the closing parts of her second Mad Father stream|
 |28/08/2023|111|Mentions & Collabs|Addition of a timestamp for a segment talking about the Magia cover during Fuwamoco Morning #12 from 28/08/2023.|
 |28/08/2023|112|Mentions & Collabs|Addition of a timestamp for the impromptu collab with Kiara during her HoloCure stream from 28/08/2023.|
+|29/08/2023|113|Recommendation|Addition of the third Terraria stream.|
+|29/08/2023|114|Mentions & Collabs|Addition of the second and third Terraria stream.|
+|29/08/2023|115|Mentions & Collabs|Addition of FWMC's POV for the second Terraria stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->
