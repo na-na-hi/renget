@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-08-23)==<-
+->==(Updated 2023-08-30)==<-
 ***
 [TOC2]
 ***
@@ -19,6 +19,9 @@ https://rentry.org/colabfreellamas
 
 https://vast.ai/docs/guides/oobabooga
 - guide on how to set up a local model either for yourself or for others - `paid` (anon was shilling this, no idea how much it costs)
+
+https://rentry.org/aicglocal
+- guide on how to set up a local model either for yourself with KoboldCpp - `free` on your own machine
 
 https://rentry.org/better-llama-roleplay
 - stolen from /lmg/, listed there under "LLaMA RP Proxy"

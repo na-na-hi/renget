@@ -25,7 +25,7 @@ Botmaker | Category | New Bots | Updated Bots
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|[Shiori](https://files.catbox.moe/du5fij.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|[Huyen](https://files.catbox.moe/uxn0ii.png)
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png), [Naomi](https://files.catbox.moe/jkhsl5.png)|
+[Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Oliver](https://files.catbox.moe/j7wn4q.png)|[Oliver](https://files.catbox.moe/j7wn4q.png) [MV]
@@ -33,17 +33,17 @@ Botmaker | Category | New Bots | Updated Bots
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
 [Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Kota](https://files.catbox.moe/u1o02p.png)|[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
+[CptPants](https://rentry.org/CptPants) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Scrimbly](https://rentry.org/scrimb) | Misc ||[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
 [Malik](https://rentry.co/maliksusanto) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
-[CptPants](https://rentry.org/CptPants) | Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||

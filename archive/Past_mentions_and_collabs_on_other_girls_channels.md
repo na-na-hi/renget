@@ -15,7 +15,7 @@
 |22/08/2023 | [Baldur's Gate 3](https://www.youtube.com/watch?v=5ELJqUCPDYY) |[Mori](https://www.youtube.com/watch?v=ESiXE5Jh80k), [Kiara](https://www.youtube.com/watch?v=8jDTWBc7EQE), [Bijou](https://www.youtube.com/watch?v=owm4Eeb6iwg)|  True collab|
 |22/08/2023|[Terraria #2](https://www.youtube.com/watch?v=XGuQDiwqbeU)|[FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Bijou & Shiori| True collab|
 |29/08/2023|[Terraria #3](https://youtu.be/A58r2hB_RuU)|Shiori| Impromptu collab|
-|30/08/2023 | [Baldur's Gate 3 #2](-) |[Mori](-), [Kiara](-), [Bijou](-)|  True collab|
+|30/08/2023 | Baldur's Gate 3 #2 |[Mori](https://www.youtube.com/watch?v=gNKYCKxuud4), Kiara, Bijou|  True collab|
 |Unknown| Placeholder - Zatsudan |Bijou|
 
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
@@ -94,6 +94,7 @@
 |16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
 |27/08/2023|[Link](https://www.youtube.com/watch?v=w5gAcmMcrGg) |**Watchalong** - Watchalong of Splash Party! Night! with Advent.|
 |28/08/2023|[Timestamp](https://youtu.be/wz04zoH_THU?t=699)|**Segment** -Segment about the Magia cover during Fuwamoco Morning #12.|
+|30/08/2023|[Timestamp](https://www.youtube.com/watch?v=rD_ZE3DrWlY&t=597s)|**Segment** -Another Misunderstanding segment during Fuwamoco Morning #13. Concerning rice this time.|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|
@@ -163,6 +164,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |12/08/2023|[Timestamp #1](https://youtu.be/DMABvQgtXuE?t=1338) [Timestamp #2](https://youtu.be/DMABvQgtXuE?t=1480) [Timestamp #3](https://youtu.be/DMABvQgtXuE?t=1576) [Timestamp #4](https://www.youtube.com/watch?v=DMABvQgtXuE&t=1795) [Timestamp #5](https://youtu.be/DMABvQgtXuE?t=2400) [Timestamp #6](https://www.youtube.com/watch?v=DMABvQgtXuE&t=2692)|**Mentions** - During a Minecraft stream, Kaela mentions that Nerissa send her DMs for playing League of Legends with her and the group comprised of Fauna & Kobo. Some of the timestamps are also related to Kaela wanting a new Minecraft friend. That new Minecraft friend being Nerissa.|
+|30/08/2023|[Timestamp](https://youtu.be/oU95EftWt1M?t=1002)|**Appearance** - Small video of Nerissa singing 'Happy Birthday' during Kaela's final stream of her 24 'burstday' Marathon. Also an invitation to play Terraria and Minecraft with her.|
 
 ###### ☔ Kobo
 |Date|Link|Nature & Notes|

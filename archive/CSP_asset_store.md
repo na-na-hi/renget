@@ -168,6 +168,7 @@
 **Zaku Brushes (ザクザクブラシ)** | [1930959](https://assets.clip-studio.com/en-us/detail?id=1930959) | [DL](https://files.catbox.moe/zn2et7.sut) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/09/1930959/thumbnail?1656895099)
 **Water-Transparent pen ver. 2 (透けない水性ペンver.2)** | [1738551](https://assets.clip-studio.com/en-us/detail?id=1738551) | [DL](https://pixeldrain.com/u/VVrxXLzM) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/85/1738551/thumbnail?1552552663)
 **Line drawing pen for yourself (自分用線画ペン)** | [2020521](https://assets.clip-studio.com/en-us/detail?id=2020521) | [DL](https://files.catbox.moe/s6fdhp.sut) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/05/2020521/thumbnail?1690812213)
+**✤ CHERU HAIR HIGHLIGHT BRUSHES ✤** | [2027493](https://assets.clip-studio.com/en-us/detail?id=2027493) | [DL](https://pixeldrain.com/u/yJkA2Hgd) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/93/74/2027493/thumbnail?1693231856)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()

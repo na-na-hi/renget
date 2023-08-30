@@ -130,5 +130,8 @@
 |29/08/2023|114|Mentions & Collabs|Addition of the second and third Terraria stream.|
 |29/08/2023|115|Mentions & Collabs|Addition of FWMC's POV for the second Terraria stream.|
 |30/08/2023|116|Frontpage & Membership|Activation of the Membership page.|
+|30/08/2023|117|Mentions & Collabs|Addition of Mori's POV for the second BG3 group collab.|
+|30/08/2023|118|Mentions & Collabs|Addition of a timestamp containing a mention during Fuwamoco Morning #13.|
+|30/08/2023|119|Mentions & Collabs|Addition of a timestamp containing a surprise appearance during Kaela's burstday marathon.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

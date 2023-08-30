@@ -5,6 +5,8 @@ I recommend always going for Character Hub links, they have the most updated ver
 
 *Assume all bots were made for NSFW unless they're tagged otherwise.*
 
+Gimme your sekrit club accesses or whatever: cptpants@proton.me
+
 [TOC]
 ***
 
@@ -55,5 +57,3 @@ Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
 ![Goat-chan](https://files.catbox.moe/nqqt2h.png) | Goat-chan | [ENarane](https://twitter.com/enarane) | A cheeky shortstack imp who provokes you into having your way with her. | [Character.ai](https://beta.character.ai/chat?char=IABAmqsuoGs0lAAk9U93wVV-1f4criqU6zc_AaRVKvA) (outdated!) / [Booru](https://booru.plus/+pygmalion47) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/Goat-chan)
 ![Lucoa](https://files.catbox.moe/qvwmrt.png) | Lucoa | *Miss Kobayashi's Dragon Maid* | The big breasted dragon goddess, now as your familiar. | [Booru](https://booru.plus/+pygmalion1317) / [Character Hub](https://www.chub.ai/characters/cptpants/Lucoa)
-
-Contact: cptpants@proton.me
