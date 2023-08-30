@@ -53,7 +53,7 @@ These pages are meant to be read alongside the lore - ideally as optional / addi
    -  **Vidofnir & Hraesvelgr** - Another duo of birds, similar to Vedrfolnir & The Eagle, but rather than being perched at the top branches, they would instead fly around around the upper branches or just above Yggdrasil, placing them at the absolute top of Reality. Vidofnir was a rooster that (again) sat at atop of the beak of the larger bird, but instead of being one of the more famous / cool / well known Apocalypse-alert Roosters that existed throughout the various Realms, he was pretty obscure and had the role of watching the gates of Helheim to make sure there were no escape attempts on behalf of either the dead or Hel herself. Garmr may have been the guard dog and enforcer, but was too friendly towards Hel, and if any souls escaped he would be stuck inside Helheim - Vidofnir was the watchman who tracked the ones who were on the loose for later detainment.
       In this duo however, Hraesvelgr is the more well-known of the two; given as a colossal polymorphed Jotunn with a huge wingspan that was responsible for the source of all winds, as he soared around Yggdrasil (usually in a Northern direction). Also, Hraesvelgr is the only other animal native to Yggdrasil after Ratatoskr who has currently a direct depiction within SMITE - see below.
 
- -> ![Yggdrasil & Hraesvelgr](https://a.pomf.cat/fwerpc.jpg) <-
+ -> ![Yggdrasil & Hraesvelgr](https://files.catbox.moe/cmwzgd.jpg) <-
 
 ***
 
@@ -203,7 +203,7 @@ As a final >inb4, I've deliberately left the Hellenistic period for Greece out. 
 
 Look at this *handsome devil*.
 
-   -> ![handsome devil](https://a.pomf.cat/udauwn.jpg) <-
+   -> ![handsome devil](https://files.catbox.moe/i08wul.jpg) <-
 
    -> *"To R. H. Barlow, {Esq.(uire)}, whose Sculpture* <-
    -> *hath given Immortality to this trivial* <-
@@ -314,7 +314,7 @@ After all...
 
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/cavovp.mp3) <-
 
-   -> ![finally](https://a.pomf.cat/cxofvd.jpg) <-
+   -> ![finally](https://files.catbox.moe/06ve6x.jpg) <-
 
 This is the point in which we actually got some actually decent writing nods that likely went straight over your head, and that shows that ~~the intern that writes the lore~~ the professional writer at Lo-Rez actually did some serviceable research on the mythology, which I'll go on to explain now.
 It's back to the norm shortly after - but we can still enjoy this while it lasts.
@@ -408,7 +408,7 @@ It's back to the norm shortly after - but we can still enjoy this while it lasts
 
 -> ![Ugallu Pre-Concepts](https://files.catbox.moe/rg8cjt.jpg) <-
 
--> ![Ugallu Model](https://a.pomf.cat/fagrub.png) <-
+-> ![Ugallu Model](https://files.catbox.moe/xzhnlr.png) <-
 
 -> ![Ugallu Portrait](https://files.catbox.moe/k5ph10.jpg) <-
 
@@ -442,7 +442,7 @@ It's back to the norm shortly after - but we can still enjoy this while it lasts
    Little concrete is known about them *(again, thank the sands of time and various Great Libraries being destroyed)*, however what is known, is that they characteristically manifested as pitch-black wolves - sometimes with human heads, sometimes with a clouded form, always with their namesake insane / rabid temperament. Their most notable trait however, was that they predated on shadows themselves. They were Sciovores. They ate shadows. The repercussions of something having it's shadow eaten are unknown, however they do appear within the Epic of Gilgamesh / after Tiamat's defeat as servants of Ishtar and Shamash, possibly as messenge-carriers between the Gods. It's unclear as to if the Uridimmu were a race of monsters or a singular entity, however their continued appearences in seemingly unrelated scenes and artefacts seem to indicate it was closer to a species that served the Gods *(much like the Aqrabuamelu)*.
    Later identified as the monster-root of Sphinxes.
 
--> ![Uridimmu](https://a.pomf.cat/vdmsbb.jpg) <-
+-> ![Uridimmu](https://files.catbox.moe/9jzdi4.jpg) <-
 
 -> ![Uridimmu Mural](https://files.catbox.moe/9dqklf.jpg) <-
 
@@ -685,7 +685,7 @@ For how far back each Pantheon dates back to:
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/0msluk.mp3) <-
 
    Because *of course* I would do an Aside on Scylla and Charybdis.
-   Are you kidding me? If it wasn't for their appeal to the lolicons in the gen ![TOT](https://a.pomf.cat/brshzf.png) over the years *(along with Jing Wei's and Da Ji's respective coom-bases)* the gen would be more dead than Tribes - the girls basically deserve this, for poster contributions alone.
+   Are you kidding me? If it wasn't for their appeal to the lolicons in the gen ![TOT](https://files.catbox.moe/5j9l73.png) over the years *(along with Jing Wei's and Da Ji's respective coom-bases)* the gen would be more dead than Tribes - the girls basically deserve this, for poster contributions alone.
    If Da Ji or Jing Wei ever properly show up in the lore outside of those bullshit cameo-mentions *~~like Terra, Geb and Cernunnos get straddled with repeatedly~~*, I'll do a big one for them too - I pwomiiiise~ ~~Plus monsters are just cool, and there's a lot of material to chew into.~~
    *~~And no, I'm not talking about 'that' material.~~*
 

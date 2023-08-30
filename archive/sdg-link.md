@@ -55,19 +55,19 @@ https://cloud.vast.ai/create/
 	---------------------------
 ##Try online without registration
 ###txt2img
-https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://clipdrop.co/stable-diffusion
 https://www.patience.ai
 https://beta.dreamstudio.ai
 https://dezgo.com
 https://pornpen.ai
+https://huggingface.co/spaces/stabilityai/stable-diffusion
 ###img2img
 https://huggingface.co/spaces/huggingface/diffuse-the-rest
 https://dezgo.com/image2image
 ###Inpainting Sites
 https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting 
 https://inpainter.vercel.app/paint
-###SDXL-online
-https://clipdrop.co/stable-diffusion
+
 !!! info
 	---------------------------
 ##Models, LoRAs & Embeddings
@@ -295,4 +295,4 @@ https://civitai.com/user/stunningFlesh
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 19th - https://pastebin.com/YiePtdhM
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 30th - https://pastebin.com/WtFpJFyj

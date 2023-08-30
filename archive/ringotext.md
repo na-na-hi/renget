@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Akshually, It's Not She-Dorky Nerd-Vella](https://archiveofourown.org/works/49731943)* | Shiori, Fauna | ringo, choco |
 | *[Milky Way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub)* | Suisei, Noel | milk |
 | *[Hag Inspection Report 2](https://rentry.org/94pno)* | Various | milk |
 | *[After A Long Night Of Archiving...](https://archiveofourown.org/works/49305760)* | Shiori, Nerissa | ringo, brap, choco |

@@ -117,7 +117,7 @@ Crunch | 8 BP | 6 AP | ≥2 | Dark | Physical | 16-20. The Opponent's Defense is
 Crush Claw | 8 BP | 7 AP | ≥2 | Normal | Physical | 10-20; The Opponent's Defense is decreased by 1.
 **Crush Grip** | 12 BP | 8 AP | ≥2 | Normal | Physical | The Move's BP is decreased by 2 every round they take damage.
 Cut | 5 BP | 5 AP | ≥2 | Normal | Physical | The User can cut certain obstacles.
-Dark Pulse | 8 BP | 6 AP | ≥2 | Dark | Special | 16-20; The Opponent Flinches. 
+Dark Pulse | 8 BP | 6 AP | ≥2 | Dark | Special | 16-20; The Opponent Flinches. Multi-Target.
 Darkest Lariat | 8 BP | 7 AP | ≥2 | Dark | Physical | Ignores Defense and Evasion increases and decreases. 
 Dazzling Gleam | 8 BP | 7 AP | ≥2 | Fairy | Special | Multi-Target.
 Diamond Storm | 10 BP | 8 AP | ≥2 | Rock | Special | 10-20; The User's Defense is raised by 2. Multi-Target.

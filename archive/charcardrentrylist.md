@@ -32,7 +32,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
-[Arkane](https://rentry.org/arkanebots) | Misc |[Sayaka](https://files.catbox.moe/umj2fd.png)|
+[Bipbots](https://rentry.org/bipbots) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
@@ -40,6 +40,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc ||[BD-128](https://files.catbox.moe/rrgle2.png), [BD-214](https://files.catbox.moe/2fywbp.png), [BD-303](https://files.catbox.moe/tyfqs9.png)
 [Malik](https://rentry.co/maliksusanto) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
+[Arkane](https://rentry.org/arkanebots) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
@@ -67,7 +68,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||
-[Bipbots](https://rentry.org/bipbots) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||

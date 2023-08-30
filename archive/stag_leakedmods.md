@@ -104,3 +104,52 @@ The Dulce Papers
 Cthulhu 
 Starfield Main Menu Wallpaper
 Starfield Script Extender (SFSE)
+
+**UPDATE 30/08**
+Relics of Terra
+Unofficial Community Starfield Patch
+Regenesis - Alternate Start
+Interstellar Lumberjack
+Starfield Upscaler - DLSS FSR2 XeSS
+Interstellar Camos
+Interstellar Metallurgist
+Alternate Splash Screen - Windows PC Xbox app
+Temp
+Step Starfield Guide
+Starfield
+New Lands
+There is nothing here 2
+Ship Weapons Expanded
+There is nothing here 3
+There is nothing here 4
+Handheld Weapons Expanded
+Skip Intro Video - DELETED
+xNVSE Support for Starfield - DELETED
+Graphica
+Cat ears for Starfield
+Nether's Companion Framework
+Interstellar Merchant
+Skip Intro Video
+Weapon Mods Expanded
+Enhanced Starmap
+More Landing Areas
+StarUI
+Auto Load Game
+No Intro
+Clean Menu
+Starfield Orbit 4k Desktop Wallpaper - DELETED
+Gate-Network - DELETED
+BUBS ALIEN SEX MOD 2021 2023 RTX MICROSOFT WINDOWS E3 OVERHAUL - NO STRINGS ATTACHED DLC - DELETED
+Culinary - Food Overhaul
+Orbital -  NPC Ship Expansion
+Unofficial Starfield Patch - USFP
+Vacuum - Sound Overhaul
+Nebula - Planet Expansion
+Bastion - POI Expansion
+Eli's Starfield Modder's Resources
+Perplexity - Easter Egg Additions
+Dylan James' Modder's Resources
+Sounds of Starfield - Hello Lurkers
+SOS - Squatting Out Slots Of Starfield Obnoxiously So Others Start Out Slower
+SCP removal tool
+Eli's Starfield Tweaks

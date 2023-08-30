@@ -221,7 +221,7 @@ Max level Unit priority: Low
 New player Unit priority: Luxury (Does not improve clear for EX3 or higher)
 [Return to Top](https://rentry.org/Six_Star)
 
-## -> Saren <- (JP Release Date: Year 3, September 7th) **Next to be updated**
+## -> Saren <- (JP Release Date: Year 3, September 7th)
 Saren is purely a TP battery who sometimes cleans up enemy teams if she's lucky enough.
 - UB+: Deals increased damage, including another increase based on missing HP and a Magic & P.Atk buff for all friendly units.
 - CB: The tiniest of niches if there is an S.Peco OF comp that she is required to change her in, but even then we have alternatives that work better. Outside of that, nothing.

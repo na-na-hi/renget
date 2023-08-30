@@ -7,7 +7,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 **Model:** **MythoMax-l2-13b-q4 scaled to 8k**
 
-Blocking API URL: ```https://bond-magazine-previews-parliament.trycloudflare.com```
+Blocking API URL: ```https://bond-magazine-previews-parliament.trycloudflare.com/api```
 
 **System prompt:**
 ```

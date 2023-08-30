@@ -103,7 +103,7 @@ This Doc covers the following Arcs:
 https://rentry.org/
 This is just a placeholder for if the game / lore is still alive by then. *Hopefully I'm also still alive.*
  - ??? (Heavenly Light / Courage & Honor / Odyssey: Soaring Isles / Yulefest 2022)
- - ??? (The Bright Sword / Hope Reborn / Prism of Souls / ??? / ... )
+ - ??? (The Bright Sword / Hope Reborn / Prism of Souls / Odyssey: Immortal Revelry / ??? / ... )
  - X
  - Y
  - Z

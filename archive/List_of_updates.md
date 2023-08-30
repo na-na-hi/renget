@@ -133,5 +133,7 @@
 |30/08/2023|117|Mentions & Collabs|Addition of Mori's POV for the second BG3 group collab.|
 |30/08/2023|118|Mentions & Collabs|Addition of a timestamp containing a mention during Fuwamoco Morning #13.|
 |30/08/2023|119|Mentions & Collabs|Addition of a timestamp containing a surprise appearance during Kaela's burstday marathon.|
+|30/08/2023|120|Mentions & Collabs|Addition of Nerissa's POV for the second BG3 group collab.|
+|30/08/2023|120|Mentions & Collabs|Addition of Bijou's POV for the second BG3 group collab.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

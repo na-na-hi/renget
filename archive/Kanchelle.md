@@ -18,6 +18,7 @@ smegma
 coal\*
 fart
 hrt
+adult male
 catfish\*
 spam\*
 pedo\*
@@ -47,7 +48,7 @@ reddit\*
 feces
 
 
-Hide all filtered posts/stubs: ;stub:no  (ex: boards:trash,aco;/agp/i;op:no;stub:no)
+Hide all filtered posts/stubs: ;stub:no  (ex: boards:trash,aco;/adult male/i;op:no)
 
 Hide all imageless posts: boards:trash;//i;file:no
 (Alternatively use Fappe Tyme on 4chanx)

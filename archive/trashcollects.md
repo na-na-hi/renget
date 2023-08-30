@@ -845,6 +845,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/xu2gog.rar
 
+# dripdry (by herro)
+
+	https://files.catbox.moe/ra7oj5.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

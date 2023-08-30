@@ -61,6 +61,7 @@ Open koboldcpp.exe. This is how we will be locally hosting the LLaMA model.
 ### Important Settings
 
 - You can switch to ‘Use CuBLAS’ instead of ‘Use OpenBLAS’ if you are on a CUDA GPU (which are NVIDIA graphics cards) for performance gains. AMD/Intel Arc users should go for CLBlast instead, as OpenBLAS is CPU only.
+- **Disable MMAP** should be enabled on Windows, according to llama.cpp CUDA dev.
 - **Streaming Mode** will display the text as it’s generated, instead of the end once the entire generation has finished. This allows you to preview or cut a text generation short.
 - **Context Size** determines how many ‘tokens’ of text the model is able to remember in a single chat. (For reference, the [Navy Seal Copypasta](https://genius.com/Copypasta-navy-seal-copypasta-annotated) is about ~400 tokens.) **4096** context size is the default maximum for llama v2 models/finetunes, but you can go higher using RoPE extension (which, if I remember right, is built into Kobold when you go higher). RoPE can potentially have quality loss the farther along you go, but many users with the hardware are able to run 8k context seemingly without issues; YMMV.
 
@@ -112,7 +113,7 @@ And that’s about it for basic use of LLaMA & SillyTavern for character chats!
 - SmartContext will attempt to condense what has happened so far into a summary if your chat goes beyond the context limit. It’s not perfect, but it’s worth a try if you would rather not have the initial chat history start ‘disappearing’, and I am told you can avoid reprocessing long prompts this way as well.
 - High Priority will help some systems more than others.
 - Low VRAM will maximize the amount of VRAM that your GPU has access to for _generation_. This will make the initial prompt processing time extremely slow, as it will no longer be using your GPU for prompt processing.
-- Disabling MMAP isn’t beneficial for most users.
+- Disabling MMAP is beneficial on Windows.
 - Unban Tokens, from what I understand, is a legacy feature for Pygmalion era models.
 
 
