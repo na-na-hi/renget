@@ -48,5 +48,26 @@ https://beta.character.ai/chat?char=aYmjAvVS-eLakmi4CDcbaiQopHDdZ4uS9NWByYfdkiY
 https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
 
 ---
+##### FAQ
+
+Q: Do you still make bots?
+A: yes.
+
+Q: Do you post cards using alts?
+A: no.
+
+Q: Would you like a key or join my discord?
+A: no thanks.
+
+Q: Are you one of the desuposters in /aicg/?
+A: almost never.
+
+Q: Do you condone desu rudeposting?
+A: never, and neither does she.
+
+Q: Do you run a proxy?
+A: no.
+
+---
 
 ![desu](https://files.catbox.moe/7ofhvn.jpg)

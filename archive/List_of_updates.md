@@ -137,5 +137,6 @@
 |30/08/2023|121|Mentions & Collabs|Addition of Bijou's POV for the second BG3 group collab.|
 |30/08/2023|122|Mentions & Collabs|Addition of 2 timestamps containing a mention during Mumei's new L2D model stream.|
 |30/08/2023|123|Membership|Addition of a placeholder for a possible ASMR stream as the first membership stream next week.|
+|31/08/2023|124|Mentions & Collabs|Creation of a rentry page for all the collabs from August 2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

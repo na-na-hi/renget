@@ -56,7 +56,8 @@ Follow the steps in this link, but at the Image Selection step, click Edit and a
 Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
 For 48GB VRAM dual-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
-e. text-generation-inference command line that worked for me, it's slower than ooba for single-inference, but scales up better:
+e. Inference is always faster on Linux, about 10% to 40% improvement depending on what you run.
+f. text-generation-inference command line that worked for me, it's slower than ooba for single-inference, but scales up better:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic
 ```

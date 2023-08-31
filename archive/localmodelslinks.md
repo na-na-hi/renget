@@ -75,7 +75,7 @@
 |
 **Local Related Gits**|
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
-[Scaled RoPE](https://github.com/jquesnelle/scaled-rope)|Linear, dynamic, and NTK embeddings of scaled RoPe for LLaMa and GPTNeoX
+[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
 [ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo for various foundational models
 [GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements

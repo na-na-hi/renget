@@ -8,9 +8,12 @@
 ## How to convert ST lorebooks into Agnai lorebooks
 Install `jq` and paste the command below in your terminal
 ```
-jq -s --arg description "DESCRIPTION" --arg name "NAME" '{description: $description, kind: "memory", name: $name, entries: [.[].entries | to_entries[].value | {name: .key[0], enabled: true, priority:0, weight: 0, keywords: [.key[], .keysecondary[] ], entry: .content}]}' INPUT_FILE > OUTPUT_FILE
+jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description,
+kind: "memory",
+name: $name,
+entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: 0, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
 ```
-Change INPUT_FILE, OUTPUT_FILE, DESCRIPTION, and NAME according to your needs.
+Change ST_LOREBOOK, AGNAI_LOREBOOK, DESCRIPTION, and NAME according to your needs.
 
 ## Character.ai and Tavern
 I am not very active on character.ai anymore, and nowadays I concentrate on creating OAI bots. I am always happy to receive thoughtful comments from people who use my bots, so feel free to leave feedback at https://www.chub.ai/users/bipbop or on my shill posts on /aicg/.

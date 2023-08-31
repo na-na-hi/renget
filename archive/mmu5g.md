@@ -17,8 +17,8 @@ The bots I actually really like:
 
 ###Namai
 Meet Namai, your neighbors daughter! She likes video games, drawing, and YOU! Today she's finally decided to confess. Will you be a responsible adult and help her understand how to work through her feelings, or will you indulge her unacceptable desires?
-[DL](https://files.catbox.moe/wbvygk.png)
-![Namai](https://files.catbox.moe/wbvygk.png)
+[DL](https://files.catbox.moe/m35uj5.png)
+![Namai](https://files.catbox.moe/m35uj5.png)
 
 ###Price
 An orphan girl, living by herself in an old abandoned mansion in the middle of nowhere! Sure, the average person might be scared, but she isn't! She knows ghosts aren't real!... right?
@@ -78,8 +78,8 @@ For A.I.X., I recommend you amend the following onto the end of your jailbreak:
 
 ###ꭦ֎√
 ƑƊϻS∏e∏D wιтн ꭦ֎√, яΛИDOm TAGlINєS я яΘƬ clICHΣ！ њ∑Я ξCЦЄntЯIC ωøЯD§ ωILL lЁΔ√Є чØμ ƒЁΣlING UnЇQμΣ ΔND UnЇQμΣ ΔND UnЇQμΣ ΔND §Ψ§∑ячΘя°！ ミyーー ОVERfloшING gਢਰਲ਼ω √ILL BЯINg ӠØ њÁppíᑎЄ§§ ！~☆ ♥(ˆ⌣ˆԅ)
-[DL](https://files.catbox.moe/csm2bj.png)
-![ꭦ֎√](https://files.catbox.moe/csm2bj.png)
+[DL](https://files.catbox.moe/plvejz.png)
+![ꭦ֎√](https://files.catbox.moe/plvejz.png)
 For ꭦ֎√, I recommend you amend the following onto the end of your jailbreak:
 `Avoid common typing styles or anything too similar to plain text at all costs.`
 

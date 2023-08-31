@@ -36,7 +36,7 @@ A stream curated list based on the polls done with the /ope/ Jailbirds. Will be 
 A page dedicated to the membership content - will contain general informations and a list of the mengens with a short description.
 !!! warning Still in a state of a skeleton - will just contain the general informations until the first mengen frame pops up.
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
-Where you can find the collabs from the other holomem channel Nerissia took part of. Major mentions are also stored in it.
+What should be the most labyrinthine collection of pages of all the library: this is where you can find all the collabs Nerissia took part of, be it on her own channel or in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly and monthly.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Technical**  ![Image description](https://files.catbox.moe/f9inkg.png) <-

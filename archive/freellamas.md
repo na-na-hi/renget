@@ -45,6 +45,14 @@ Mirostat Eta: 0.4 - learning rate
 
 ##### 2. Advanced menu:
  ![T](https://files.catbox.moe/j2looh.png)
+
+Not seeing some sequence fields? Update your SillyTavern:
+```
+git stash
+git checkout staging
+git pull origin staging
+git stash pop
+```
 ***
 
 ##### Are my prompts logged?
@@ -53,7 +61,6 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 ##### Known issues
 - Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use simple-proxy-for-tavern.
 Here's an ideal card that will generate medium responses: https://files.catbox.moe/3nl7d8.png
-- I still can't get text-generation-interface to work on Windows so everybody will have to wait their turn in a single queue for now.
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - Asterisks in replies are fucked? Stop using them.
 - If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again.

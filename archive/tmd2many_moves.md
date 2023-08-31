@@ -193,7 +193,7 @@ Fire Spin | 3 BP | 6 AP | ≥4 | Fire | Special | For 3 rounds, the Opponent is 
 **First Impression** | 9 BP | 7 (-2) AP | ≥2 | Bug | Physical | Priority.
 Fishious Rend | 8 BP | 7 AP | ≥2 | Water | Physical | If the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) increased last round, damage increased by 8.
 Fissure | - | 8 AP | ≥15 | Ground | Physical | If the Opponent's Level is lower than the User's, they are OHKO'd.
-Flail | - | 6 AP | ≥2 | Normal | Physical | I don't feel like explaining this one right now.
+**Flail** | - | 6 AP | ≥2 | Normal | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 16 BP.
 Flame Burst | 7 BP | 6 AP | ≥2 | Fire | Special | Deals splash damage; 7 damage to two nearby Opponents.
 Flame Charge | 4 BP | 5 (-1) AP | ≥2 | Fire | Physical | Priority. 
 Flame Wheel | 6 BP | 5 AP | ≥2 | Fire | Physical | 19-20; The Opponent is afflicted with *Burn*. Thaws User.

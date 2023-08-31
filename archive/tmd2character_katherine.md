@@ -97,3 +97,49 @@ Name of Move | Description
 ------ | :----: 
 Eᴍᴘᴛʏ | Description
 Eᴍᴘᴛʏ | Description
+
+
+##### TEMPORAL
+
+Katherine 
+
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
+**Species:** Tsareena | **Affiliation:** N/A
+**Level:** 40 | **Experience to Next Level:** 0/50
+**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+
+Pokémon's Ability | Description
+---- | ----
+Queenly Majesty | The User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
+
+Stat | Points: 1 (+1) | Modifiers | Combat Effect
+------ | :----: | :----: | :----: 
+Health Points | 1 | Specie bonus; Level 5 (20HP) | 22 HP
+Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
+Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
+Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
+
+**MOVES (4 slots + Basic Attack)**
+Name | Base Power | Action Points | Accuracy | Type | Property | Description
+--- | -- | - | - | - | - | ---------
+Flail      | - | 6 AP | ≥2 | Normal | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 16 BP.
+Trop Kick  | 7 BP | 6AP | ≥2 | Grass | Physical | The Opponent's Attack is decreased by 1.
+Punishment | 3 BP | 8AP | ≥2 | Dark | Physical | For each of the Opponent's Stat increases, damage is increased by 1.
+Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The next round, the User's Speed is increased by 1.
+Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+
+
+**SPECIAL BONUSES**
+!!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
+    You have 0 points to spend.
+    0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+IQ Skills Active/Inactive | Description of Skill | IP Cost
+------ | :----: | ------
+1. Battle Analyst | Once per turn, the User may see the HP of one Opponent of their choosing, excluding bosses. | N/A
+2. Inspired Fighter | Once per turn, the User can (=20 chance) use a Basic Attack following an Ally's successful Move. The User targets the same enemy the Opponent does. | N/A
+3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
+Eᴍᴘᴛʏ | Description. | N/A

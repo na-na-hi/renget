@@ -10,15 +10,15 @@
 
 ##What is it?
 [Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
-[```iA3 can simply be thought of as a self multiplying LoRa, it is done at about 40 steps and provides the same if not better results than a LoRa.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
+[```iA3 can simply be thought of as a self multiplying LoRa, it is done at about a quarter to a half the steps a LoRa is and provides the same if not better results.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
 !!! warning iA3 does not need captions and does not need many images. Recommend 10 images as anything above is unnecessary. You can gather only important ones and postprocess by cropping and removing backgrounds.
 !!! warning iA3 is adapted a lot by quality tags. Prompting matters. If the character looks 70% learnt then it likely is 100% learnt but it's just that your prompting is interfering with it.
 
 !!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
 
 
-##Base iA3 Prodigy .json - Regularized Characters/Objects:
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (80-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+##Base iA3 Prodigy .json - Characters/Objects:
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
@@ -30,11 +30,11 @@
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning Original/Multires Noise is not recommended.
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (80-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=100\" \"T_mult=1\" \"eta_min=0e-1\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=3e-1\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
@@ -43,8 +43,8 @@
   "clip_skip": 1,
   "enable_bucket": true,
   "epoch": 31337,
-  "gradient_accumulation_steps": 10,
-  "gradient_checkpointing": false,
+  "gradient_accumulation_steps": 1,
+  "gradient_checkpointing": true,
   "keep_tokens": 0,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
@@ -52,7 +52,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"growth_rate=1.004\" \"d0=5e-3\" \"d_coef=1.0\" \"weight_decay=3\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d0=3e-3\" \"d_coef=1.0\" \"weight_decay=0.3\" \"use_bias_correction=False\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
@@ -62,8 +62,8 @@
   "shuffle_caption": false,
   "stop_text_encoder_training": 0,
   "text_encoder_lr": 1.0,
-  "train_batch_size": 1,
-  "train_on_input": false,
+  "train_batch_size": 10,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
   "weighted_captions": false

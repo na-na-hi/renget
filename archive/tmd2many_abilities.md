@@ -335,7 +335,7 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 1 | 7. | Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 50 IQ | 4 IP
 1 | 8. | Pokéglot | The User is great at learning the written and spoken language quickly. | 40 IQ | 2 IP
 1 | 9. | Lockbreaker | The User is better at trying to open locks, +2 Lockpicking. They can attempt a roll once (>15 chance) to pick a Treasure Chest open for no cost. | 50 IQ | 4 IP
-1 | 10. | Extremophile | The User deals with extreme environmental conditions better, such as intense heat or freezing temperatures. While the User is afflicted with *Burn* or *Freeze*, their Defense and Special Defense are increased by 1. | 40 IQ | 2 IP
+1 | 10. | Extremophile | The User deals with extreme environmental conditions better, such as intense heat or freezing temperatures. While the User is afflicted with *Burn* or *Freeze*, their Defense and Special Defense are increased by 1. If acquired via Hot-Headed and Cold-Blooded, the User is no longer immune to *Burn* or *Freeze*, but their negative effects are nullified. | 40 IQ | 2 IP
 1 | 11. | Innocent | The User is perceived as more friendly but they receive a -3 penalty to lying. | 40 IQ | 2 IP
 1 | 12. | Devious | The User receives a +3 bonus to lying, but they are perceived as shifty. | 40 IQ | 2 IP
 1 | 13. | Lightweight | The User is lighter than their species is normally supposed to be. | 30 IQ | 1 IP
@@ -386,8 +386,8 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 2 | -. | Deep Meditation | The User's Break resets Stat changes in increments of ±2. | 130 IQ | 6 IP
 2 | -. | Agile Armor | The User's Dodge instead increases their Defense or Special Defense for 1 round. | 90 IQ | 6 IP
 1 | -. | Trapper | The User is better at spotting traps and hazardous terrain. | 50 IQ | 3 IP
-2 | -. | Hot-Headed | The User is immune to Freeze, but the range in which they are afflicted with Burn is increased by 2. | 70 IQ | 3 IP
-2 | -. | Cold-Blooded | The User is immune to Burn, but the range in which they are afflicted with Freeze is increased by 2. | 70 IQ | 3 IP
+2 | -. | Hot-Headed | The User is immune to Freeze, but the range in which they are afflicted with Burn is increased by 2. While paired with Cold-Blooded, the User gains Extremophile for 0 IP. | 70 IQ | 3 IP
+2 | -. | Cold-Blooded | The User is immune to Burn, but the range in which they are afflicted with Freeze is increased by 2. While paired with Hot-Headed, the User gains Extremophile for 0 IP. | 70 IQ | 3 IP
 2 | -. | Ambusher | For the first round the User attacks, damage is increased by 5, but damage is decreased by 5 the round after. Effect does not function if the User is seen. | 100 IQ | 6 IP
 2 | -. | Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 30 IQ | 2 IP
 2 | -. | Malpractice | The User's Healing Moves heal an extra 4 HP. After the Ally is healed, if their next roll is below 10, they lose the HP they were healed for. | - IQ | 5 IP

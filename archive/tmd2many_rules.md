@@ -526,6 +526,7 @@ As stated earlier, A Character may only use one Status Move during their turn, e
 	- **Leg Hold**: For 1 round, the Afflicted is unable to Focus on anyone but themselves or their last Focus target.
     - **Wishing**: For 1 round, the Afflicted calls upon a Wish. After the effect ends, a Wish is formed. A Wish can be interacted with at any time, and can be used as a bonus action at no cost, healing whoever uses it for 4 HP. There is no limit to the number of Wishes that can be made. Can be stolen by Snatch.
     - **Pain Split**: For 4 rounds, the Afflicted stores the damage they take. At the start of the 4th round, the User may use Pain Split to inflict the stored damage on an Opponent. Effect ends early when the Afflicted faints or they don't use Pain Split, losing the stored damage.
+	- **Splintered**: For 3 rounds, the Afflicted takes *Burn* DoT.
 	- **Commanding**: The User cannot attack, but in-turn, using a Move before Allies causes subsequent Ally Attacking Moves of the same Property to deal +1 damage, increasing every successive use until +6. If the User's Move was a Status Move, subsequent Ally Status Moves cause a +1 to either Defense of Special Defense, whichever is lesser. If both Defense and Special Defense are equal, both are increased. All increases are doubled for Dondozo. If an Ally does not use the correct Property, their increases are nullified. 
 
 ##### Awakening & Berserk
