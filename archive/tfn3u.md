@@ -1,9 +1,6 @@
 I love Mimori
 I hope this helps you
 
-Will add challenges when they unlock, or some time before. (They'll just be video links).
-
-
 -----------
 #Table of Contents
 [TOC]
@@ -12,9 +9,9 @@ Please reply to OP if you have suggestions, I'm busy most of the day. I'm sorry.
 Having them be replies to OP makes it easy for me (and others) to see
 
 Please post Miyoshi Takane? She's very cute
-Last read: #3323
+Last read: #3339
 
-**WILL ADD: Mass Erosion, and how to defend against it** (so you don't spend 999999 ap on reclaiming your tiles)
+hey, sorry about not adding anything I said in the "will add" sections. I've been very busy with life and haven't had time to do so. I'll do it this weekend but I feel as if it may be too late in the event. If it helps even 1 anon then, good enough for me.
 
 -----------
 #A-HA Conquest Route

@@ -58,6 +58,7 @@ _______
 |Miko's Kyoufuu All Back Cover| [![](https://files.catbox.moe/vv9ohy.jpg)](https://www.youtube.com/watch?v=U2jl3QIoVws)|
 |Blue Horizon | [![](https://files.catbox.moe/7q56nj.jpg)](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
 |Bae's Yakusoku no Kizuna Cover| [![](https://files.catbox.moe/qr44y0.jpg)](https://www.youtube.com/watch?v=40WoArsMQgQ)|
+|Kiara's Pineapple|[![](https://files.catbox.moe/j30nyk.jpg)](https://www.youtube.com/watch?v=WuvtwRYkOU0)|
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->
 
@@ -117,6 +118,7 @@ _______
 |【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|(Lacks a setlist on stream) https://files.catbox.moe/0r94r1.txt|
 |  【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!!  『2023-08-11』| [![](https://files.catbox.moe/2ldhi1.jpg)](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/hrahck.txt |
 | 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|https://files.catbox.moe/lf4ozr.txt (On-stream setlist is incomplete)|
+| 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 『2023-08-31』 | [![](https://files.catbox.moe/0o6om9.jpg)](https://www.youtube.com/watch?v=RzzRKWI1Pl8)| placeholder|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -124,7 +126,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#7 |#40 | #7 |54 |
+|#7 |#41 | #7 |55 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

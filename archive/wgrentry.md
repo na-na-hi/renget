@@ -50,14 +50,6 @@ Previous thread: **(link to previous thread, then a brief summary of that thread
 Story anchor.
 Post 'em if you got 'em.
 
-## /wg/ Writing Rumble Story Anchor
-
-/VT/ WRITING RUMBLE STORY ANCHOR
-Reply to this post with your contest submissions.
-
-Submissions are now open, and close on 08/25. Rules, submitted stories and other information can be found at: 
-rentry.org/WGWC
-
 ## Prompt Anchor 
 
 **(image: https://files.catbox.moe/g3jp3i.png)**
@@ -79,6 +71,14 @@ There were **X** stories posted last thread.
 
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)
+
+## /wg/ Writing Rumble Story Anchor (only use when there's a contest happening; I guess we don't need it anymore since submissions are closed?)
+
+/VT/ WRITING RUMBLE STORY ANCHOR
+Reply to this post with your contest submissions.
+
+Submissions are now open, and close on 08/25. Rules, submitted stories and other information can be found at: 
+rentry.org/WGWC
 
 ## Special Section: Why OP Is a Faggot
 

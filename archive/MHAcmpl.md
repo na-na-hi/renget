@@ -832,6 +832,8 @@ Hitomi-chan's First Date (Feral, Drekus, Reaper): https://rentry.org/2tu8m
 "The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marror): https://rentry.org/TheTalkAndBully
 Drone's Mirror (Drone, Mirror Devil): https://rentry.org/e3gx4a
 The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl): https://rentry.org/r4nhp
+Date Gossip: https://rentry.org/f78w2
+Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako): https://rentry.org/6p6na
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

@@ -64,6 +64,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
+|30/08/2023| [Timestamp #1](https://youtu.be/y_L2geW9jOs?t=751) [Timestamp #2](https://youtu.be/y_L2geW9jOs?t=3085)|**Mentions** - Mumei had a nightmare involving Nerissa and was watching her membership opening stream. The second timestamp is an invitation to watch the 'Cats the Musical' movie|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 

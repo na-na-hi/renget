@@ -1,5 +1,8 @@
 [Niamh's spotify playlist! Feel free to check it out!](https://open.spotify.com/playlist/423Ss6QFJAhnfFDWCc6P7A?si=617c9c3b161c41c4)
 
+
+[Roleplay with an AI version of Niamh with Yodayo's Tavern!](https://yodayo.com/tavern/) You must be logged in to access NSFW content.
+
 [Profile theme music for thinking.](https://youtu.be/jRjSG0eTMEY)
 [Profile theme music for listening.](https://youtu.be/WBTwblIOeCw)
 

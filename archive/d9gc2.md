@@ -127,3 +127,11 @@ Also had a [barbecue](https://twitter.com/takanelui/status/1694711703513219355) 
  | Member (s)| Title | Link/Timestamp | Nature |
 |------|-----|-----|-----|
 |Bae|  ≪#RatExposed≫ Fan Art Review with The Legendary Eyetracker |[timestamp](https://www.youtube.com/watch?v=olzI2AY-_04&t=5418s) |CouncilRyS hanging out after the anniversary stream.|
+
+**Day 41 - 2023-08-28**
+[Back in NA.](https://twitter.com/nanashimumei_en/status/1696054578591219796)
+
+** 2023-08-30**
+ | Member (s)| Title | Link/Timestamp | Nature |
+|------|-----|-----|-----|
+|Aki| 真夜中ゲリラ配信！安眠雑談など| [Timestamp](https://www.youtube.com/watch?v=oTZZeFT2rjA&t=1305s)| Talking about the Didney visit. Summary for Nihongo hanasenai [here](https://twitter.com/mianon1205/status/1696583276402704556).|

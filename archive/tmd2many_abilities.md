@@ -200,12 +200,12 @@ Primordial Sea | The User may summon Heavy Rain once per battle.
 Prism Armor | The damage of the Opponent's Super-Effective Moves is decreased by 3 against the User.
 Propeller Tail | The User's Moves are unaffected by Move-redirecting Moves and Abilities.
 **Protean** | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 3. 
-Protosynthesis | The User's highest Stat is increased by 2 while in Harsh Sunlight.
+Protosynthesis | The User's highest Stat is increased by 3 while in Harsh Sunlight.
 Psychic Surge | The User may summon Psychic Terrain once per battle.
 Punk Rock | The User's Sound Moves have their damage increased by 3. The Opponent's Sound Moves have their damage increased by 3 against the User.
 **Pure Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 **Purifying Salt** | The User recovers from Major Status Conditions in 1 turn. The Opponent's Ghost-Type Moves have their damage decreased by 3 against the User.
-Quark Drive | The User's highest Stat is increased by 2 while in Electric Terrain.
+Quark Drive | The User's highest Stat is increased by 3 while in Electric Terrain.
 **Queenly Majesty** | The User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Quick Draw** | The User has a 30% chance to increase AP by 1 at the start of the battle.
 Quick Feet | While the User is Burned, Speed is increased by 2.

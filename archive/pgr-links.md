@@ -41,7 +41,7 @@
 3. [Future Patches Summary](https://docs.google.com/spreadsheets/d/e/2PACX-1vQgasPzrRix58bRLXt17q-LGXl-SBbBoqIcuQu7t4owhHkyGiaFV5LO2gPxBOKrGCnPJ7SadGLlMgjP/pubhtml#)
 4. [Frames Coating List](https://docs.google.com/spreadsheets/d/1uIWrtp3mZEZgQseY788WHGp7_0mZBE8zSkpVOVCWtP8)
 5. [In-Game CG and Wallpaper](https://wiki.biligame.com/zspms/画册) (CN)
-6. [Frames and NPC Portraits](https://drive.google.com/drive/folders/1BPkiDSAn2ay4e5mCN0q2B-Z0ZWrMhV_Q)
+6. [Frames Final Awakening Portraits](https://drive.google.com/drive/folders/1WOZ1vCDLnzMYFpPW86efVKMjM-hQiwRZ)
 7. [PGR Emotes and Chibis](https://drive.google.com/drive/u/0/folders/1-JWQAJ4ue7gQNzOJ4hd0wqgjeY0-bOYO) (CN)
 8. [/pgr/ Commissions Archives](https://drive.google.com/drive/folders/1TyszThlQaXIE4UsEkS9SV15IKOQsCZDf) (NSFW)
 9. [Panini Gray Raven Animation](https://www.youtube.com/playlist?list=PL8PXX9CbWv9aW6X4hphB7Rll8e1goaswd)

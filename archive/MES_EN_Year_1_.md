@@ -6,10 +6,11 @@ _______________________________
 	---
 	| Branch | Season |
 	|-|-----|
-	|**EN** | [Year 1](https://rentry.org/MES_EN_Year_1_)
- 	|**JP & ID** | [Year 1](https://rentry.org/JPID_MES_Year1)
-	|**Megacollabs** | [Year 1](https://rentry.org/Megacollabs_MES_Year1)
+	|**EN & Official** | [Year 1](https://rentry.org/MES_EN_Year_1_) - [Year 2](https://rentry.org/MES_EN_Year_2_)
+ 	|**JP & ID** | [Year 1](https://rentry.org/JPID_MES_Year1_) - [Year 2](https://rentry.org/MES_JPID_Year_2_)
+	|**Megacollabs & Misc.** | [Year 1](https://rentry.org/Megacollabs_MES_Year1_) - [Year 2](https://rentry.org/Megacollabs_MES_Year2_)
 	|**Annexes** | [HoloCure](https://rentry.org/qb6sm) - [RUST](https://rentry.org/2vybpa) - [Japan Arc 1](https://rentry.org/nydbm) - [Japan Arc 2](https://rentry.org/d9gc2) - [Minecraft New Server](https://rentry.org/3rcmh)
+
 
 
 !!!warning -> **EN M.E.S. - Year 1 (August 22nd 2021- August 23rd 2022)**  <-
@@ -229,18 +230,6 @@ _______________________________
 | 2022-01-26 | 【MINISTRY MEETING】Ministry| [Link](https://www.youtube.com/watch?v=OgEsyuN8oKY) | HoloMinistry Meeting on Jackbox Party Games (on Kronii's channel)
 | 2022-08-22 |  ≪1 YEAR ANNIVERSARY≫ One year later... #councilTHEfirst  | [Link](https://www.youtube.com/watch?v=-3ZfeLpr-v8) | Council Anniversary Collab (on Bae's channel)
 
-##EN - Conventions
-
-#####Full Council Panel @Anime NYC 2021
-| Date | Title | Link |
-|------|-----|-----|
-|2021-11-19| hololive English -Council- Anime NYC Special Panel (Cronched by Youtube x1) | lQZFzSDC#jB_6Y-MsMGm-fZZ2yfDlmOcwpdfL689ZVJBm4U3kmcA|
-
-#####SNOT skit @ Hololive CR Expo 2022
-
-| Date | Title | Link |
-|------|-----|-----|
-| 2022-08-05 |  SNOT skit @ Hololive CR Expo 2022 (fixed video) | YUhSMGNITTZMeTlqZVdKbGNtWnBiR1V1YVhNdlR6Qms= |
 
 ->[Go back to the TOC](https://rentry.org/MES_EN_Year_1_)->
 

@@ -6,10 +6,11 @@ _______________________________
 	---
 	| Branch | Season |
 	|-|-----|
-	|**EN** | [Year 1](https://rentry.org/MES_EN_Year_1_)
- 	|**JP & ID** | [Year 1](https://rentry.org/JPID_MES_Year1_)
-	|**Megacollabs** | [Year 1](https://rentry.org/Megacollabs_MES_Year1_)
+	|**EN & Official** | [Year 1](https://rentry.org/MES_EN_Year_1_) - [Year 2](https://rentry.org/MES_EN_Year_2_)
+ 	|**JP & ID** | [Year 1](https://rentry.org/JPID_MES_Year1_) - [Year 2](https://rentry.org/MES_JPID_Year_2_)
+	|**Megacollabs & Misc.** | [Year 1](https://rentry.org/Megacollabs_MES_Year1_) - [Year 2](https://rentry.org/Megacollabs_MES_Year2_)
 	|**Annexes** | [HoloCure](https://rentry.org/qb6sm) - [RUST](https://rentry.org/2vybpa) - [Japan Arc 1](https://rentry.org/nydbm) - [Japan Arc 2](https://rentry.org/d9gc2) - [Minecraft New Server](https://rentry.org/3rcmh)
+
 
 !!!warning ->  Megacollabs M.E.S. - Year 1 (August 22nd 2021- August 23rd 2022)<-
     [TOC]
@@ -347,5 +348,17 @@ Annotation: G (normal game), H&S (Hide-and-Seek), (sus) (imposter)
 | 2022-08-21 |  Bae |  ≪RUST≫ I have but one purpose.  | [Beginning of the collab part](https://youtu.be/fw1_dvetyVM?t=4697)|
 | 2022-08-21 |  Lamy |  【 RUST -Season 2- 】初ギャンブル！豪運を見せろラミィ | [Timestamp](https://www.youtube.com/watch?v=duBFM2d6Q4s&t=405s)|
 
+##EN - Conventions
+
+#####Full Council Panel @Anime NYC 2021
+| Date | Title | Link |
+|------|-----|-----|
+|2021-11-19| hololive English -Council- Anime NYC Special Panel (Cronched by Youtube x1) | lQZFzSDC#jB_6Y-MsMGm-fZZ2yfDlmOcwpdfL689ZVJBm4U3kmcA|
+
+#####SNOT skit @ Hololive CR Expo 2022
+
+| Date | Title | Link |
+|------|-----|-----|
+| 2022-08-05 |  SNOT skit @ Hololive CR Expo 2022 (fixed video) | YUhSMGNITTZMeTlqZVdKbGNtWnBiR1V1YVhNdlR6Qms= |
 
 ->[Go back to the TOC](https://rentry.org/Megacollabs_MES_Year1_)->

@@ -134,6 +134,8 @@
 |30/08/2023|118|Mentions & Collabs|Addition of a timestamp containing a mention during Fuwamoco Morning #13.|
 |30/08/2023|119|Mentions & Collabs|Addition of a timestamp containing a surprise appearance during Kaela's burstday marathon.|
 |30/08/2023|120|Mentions & Collabs|Addition of Nerissa's POV for the second BG3 group collab.|
-|30/08/2023|120|Mentions & Collabs|Addition of Bijou's POV for the second BG3 group collab.|
+|30/08/2023|121|Mentions & Collabs|Addition of Bijou's POV for the second BG3 group collab.|
+|30/08/2023|122|Mentions & Collabs|Addition of 2 timestamps containing a mention during Mumei's new L2D model stream.|
+|30/08/2023|123|Membership|Addition of a placeholder for a possible ASMR stream as the first membership stream next week.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

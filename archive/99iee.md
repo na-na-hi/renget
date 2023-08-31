@@ -5,7 +5,7 @@
 
 The War of the Dark Aurorai
 ***
-->B A  T  T  L  E ____ F  O  R  ___  A  U  R  O  R  A  I<-
+->B A  T  T  L  E ==== F  O  R ==== A  U  R  O  R  A  I<-
 
 ***
 
@@ -111,13 +111,15 @@ aaa H : Fallen Star Graveyard constructed
 508 H: Last of the Polarian Valkyries dies in peace.
 582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, with its primary purpose being to travelers and remote towns from banditry and robbery.
 593 H: Sora Tokino is born in Holopolis.
+604 H: Botan Shishiro ascends the Savanese throne from her father, Leoru Shishiro.
 610 H: King Covigo ascends the throne from his father, the former King Covaki.
 611 H: Covernius appears in King Covigo's dream to tell him to establish an order of extraordinary people across Aurorai.
 616 H: The Order of Iridescent Guardians ia formed by King Covigo, selecting Sora Tokino as its first member of many.
-aaa H: Additional members were later added, the artifice Roboco and the shrine maiden Miko Sakura.
+aaa H: Additional members were later added: the advanced golem Roboco and the shrine maiden Miko Sakura.
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade.
 aaa H: Rumors surface that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate. This persists as a grim tale.
-618-622 H: The Order expansion continues, launching Second Brigade, the famed Fantasia Brigade, the Quad Force Brigade, the new Red Division with the Honse and Hwanse brigade. Islander brigade is launched with the Astral Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
+aaa H: The Order expansion continues, launching Second Brigade. Savan Royal Council member Mio Ookami also inducted.
+618-622 H: The Fantasia Brigade debuts, the Quad Force Brigade, the new Red Division with the Honse and Hwanse brigade. Islander brigade is launched with the Astral Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
 619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling and who in The Celestium is "worthy" of worship.
 620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Obisco stepped down in light of Damaso's men occupying Corte Blanca by force.
 621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria refuses the demand.
@@ -529,6 +531,6 @@ Home: Polaria
 
 Home: Polaria
 
-**->Magni**<-
+->**Magni**<-
 ->**Axel**<-
 ->**Vesper**<-

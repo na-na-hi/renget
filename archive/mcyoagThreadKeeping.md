@@ -40,8 +40,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl)
-https://rentry.org/r4nhp
+>Date Gossip
+https://rentry.org/f78w2
+>Do Not be Afraid(Lasti Rite, Rosethorn, Maru(Maru), Orochi, Yako)
+https://rentry.org/6p6na
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -535,6 +537,10 @@ https://rentry.org/TheTalkAndBully
 https://rentry.org/e3gx4a
 >The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl)
 https://rentry.org/r4nhp
+>Date Gossip
+https://rentry.org/f78w2
+>Do Not be Afraid(Lasti Rite, Rosethorn, Maru(Maru), Orochi, Yako)
+https://rentry.org/6p6na
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

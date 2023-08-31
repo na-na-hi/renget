@@ -26,12 +26,13 @@ Botmaker | Category | New Bots | Updated Bots
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ze'reketh ](https://files.catbox.moe/ocv79t.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Gunju](https://files.catbox.moe/dtrpa7.png)|[Huyen](https://files.catbox.moe/uxn0ii.png)
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Leech](https://files.catbox.moe/it3cj8.png)|
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png), [Inessa](https://files.catbox.moe/rivnca.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Michelle](https://files.catbox.moe/kjt8g8.png)|
+[Genoo](https://rentry.org/295se) | Sizeplay |[Sally Kugasari](https://files.catbox.moe/fabkrx.png)|[Diana](https://files.catbox.moe/7nry7f.png)
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Oliver](https://files.catbox.moe/j7wn4q.png)|[Oliver](https://files.catbox.moe/j7wn4q.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Jun](https://files.catbox.moe/4ozkdk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kevin](https://files.catbox.moe/z5j0xi.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Sarah the Soywife](https://files.catbox.moe/rvggnx.png)|
+[Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
@@ -50,7 +51,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
-[Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [LongGameAnon](https://rentry.org/LongGameAnon) | Misc ||

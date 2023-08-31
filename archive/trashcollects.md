@@ -849,6 +849,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/ra7oj5.rar
 
+# edna (school days by krezz karavan)
+
+	https://files.catbox.moe/ydmap7.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
