@@ -428,6 +428,8 @@ READ NIGGA READ
 
 **Do not go past the first node if you don't have mats in abundance.** If you need to ask if you have enough: you don't.
 
+In case it wasn't clear yet: you get furniture to cap the energy generation from your cafe. 
+
 If you want to go to node 2: use t1-2 mats you don't care about. Not crafting mats.
 
 For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Abundance (credits) > Shiny > Radiant > Mystic (elephs) > The Rest**

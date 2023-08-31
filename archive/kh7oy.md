@@ -16,12 +16,12 @@ Future Release Dates:
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 
 Current News Links:
+「!」Super Mario Bros. Wonder Direct (8.31.2023)
+https://www.youtube.com/watch?v=G0m_uNaSres
 「!」Charles Martinet Retires from Mario's voice, becomes "Mario Ambassador"
 https://twitter.com/nintendoamerica/status/1693624002982314108
 「!」Mario + Rabbids Sparks of Hope DLC 3: Rayman in the Phantom Show
 https://www.youtube.com/watch?v=ghD4yq9kL-0
-「!」New 2D Mario - Super Mario Bros WONDER Revealed
-https://www.youtube.com/watch?v=JStAYvbeSHc
 「!」WarioWare Move It! Revealed
 https://www.youtube.com/watch?v=z4kkqicAeG0
 「!」Luigi's Mansion Dark Moon for Switch Revealed

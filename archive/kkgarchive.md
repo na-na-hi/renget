@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 31.08.2023 10:45 UTC]
+[Last Updated: 31.08.2023 16:45 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7548868/](https://boards.4chan.org/h/thread/7548868/)
+Current thread - [boards.4chan.org/h/thread/7553056/](https://boards.4chan.org/h/thread/7553056/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 627&nbsp;&nbsp;[archiveofsins.com/h/thread/7553056/](https://archiveofsins.com/h/thread/7553056/)&nbsp;&nbsp;&nbsp;&nbsp;(31.08.2023 16:36)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lean on Me Edition
 - 626&nbsp;&nbsp;[archiveofsins.com/h/thread/7548868/](https://archiveofsins.com/h/thread/7548868/)&nbsp;&nbsp;&nbsp;&nbsp;(28.08.2023 15:33)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Chika beside the pool edition
 - 625&nbsp;&nbsp;[archiveofsins.com/h/thread/7545435/](https://archiveofsins.com/h/thread/7545435/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 00:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Holy Chikarin edition
 - 624&nbsp;&nbsp;[archiveofsins.com/h/thread/7541845/](https://archiveofsins.com/h/thread/7541845/)&nbsp;&nbsp;&nbsp;&nbsp;(23.08.2023 03:35)&nbsp;&nbsp;[1248]&nbsp;#&nbsp;Mecha For No Reason In Particular edition
 - 623&nbsp;&nbsp;[archiveofsins.com/h/thread/7537949/](https://archiveofsins.com/h/thread/7537949/)&nbsp;&nbsp;&nbsp;&nbsp;(20.08.2023 15:38)&nbsp;&nbsp;[1468]&nbsp;#&nbsp;Lunchtime edition
-- 622&nbsp;&nbsp;[archiveofsins.com/h/thread/7534503/](https://archiveofsins.com/h/thread/7534503/)&nbsp;&nbsp;&nbsp;&nbsp;(18.08.2023 01:17)&nbsp;&nbsp;[1381]&nbsp;#&nbsp;Back to School Edition
 ---
 Archive:
 
+- 622&nbsp;&nbsp;[archiveofsins.com/h/thread/7534503/](https://archiveofsins.com/h/thread/7534503/)&nbsp;&nbsp;&nbsp;&nbsp;(18.08.2023 01:17)&nbsp;&nbsp;[1381]&nbsp;#&nbsp;Back to School Edition
 - 621&nbsp;&nbsp;[archiveofsins.com/h/thread/7531453/](https://archiveofsins.com/h/thread/7531453/)&nbsp;&nbsp;&nbsp;&nbsp;(15.08.2023 20:03)&nbsp;&nbsp;[1034]&nbsp;#&nbsp;Raining Chika's Edition
 - 620&nbsp;&nbsp;[archiveofsins.com/h/thread/7527028/](https://archiveofsins.com/h/thread/7527028/)&nbsp;&nbsp;&nbsp;&nbsp;(12.08.2023 23:12)&nbsp;&nbsp;[1204]&nbsp;#&nbsp;The Future is a Dismal Place Full of Rats and AI Art Edition
 - 619&nbsp;&nbsp;[archiveofsins.com/h/thread/7522514/](https://archiveofsins.com/h/thread/7522514/)&nbsp;&nbsp;&nbsp;&nbsp;(09.08.2023 22:03)&nbsp;&nbsp;[1022]&nbsp;#&nbsp;Lounge edition

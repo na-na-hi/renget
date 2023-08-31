@@ -1,4 +1,4 @@
-##SIRIN GEARS V3C?
+##SIRIN GEARS V3D
 Translation by Aki, future updates by Marisa
 
 Patch Note: https://rentry.co/69log
@@ -12,7 +12,7 @@ TOP: ATK 105. Fire DMG +20%. Against Ignited enemies, gain additional Fire DMG +
 
 MID: Total DMG +20%.  Host’s attacks inflict +25% more Ignite Trauma. Ignited enemies take +20% more Fire DMG from the host (independent multiplier)
 
-BOT: ATK 59. Total DMG +35%. Weapon Active inflicts +20% more Ignite trauma. Every time a non-Weapon Active attack deals damage, Weapon Active gain Fire DMG +20%, last for 15s, can be refreshed, max 5 stacks. Reset stacks on exit.
+BOT: ATK 59. Total DMG +35%. Weapon Active ~~inflicts +20% more Ignite trauma~~ **Ignite DMG +20%**. Every time a non-Weapon Active attack deals damage, Weapon Active gain Fire DMG +20%, last for 15s, can be refreshed, max 5 stacks. Reset stacks on exit.
 
 2 SET: Against Ignited enemies, you take ~~20%(v1) >~~ **30%(v2) > 12%(v3)** less DMG. Host's Ignite DMG **+30%(v2) > 20%(v3)** 
 

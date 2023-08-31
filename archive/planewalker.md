@@ -177,6 +177,11 @@ Kevin | Info
 ![](https://files.catbox.moe/8pm73v.png)   | A smug and snobby zoomer who fancies himself as a food influencer. Has his own jailbreak I made using the one from [Retarded's Anna](https://www.chub.ai/characters/retarded/Anna) as a base. Comes with two greetings: one where he's a customer at the restaurant you run, and another where he's a friend who's invited you out to lunch.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/kevin-50b0d89e),  [Catbox](https://files.catbox.moe/z5j0xi.png)
 
+Slime | Info
+:----:  | :----: 
+![](https://files.catbox.moe/hef2ev.png)   | For some supernatural reason, you've found yourself pulled inside your copy of the JRPG "Unlimited Quest". Waiting for you inside is a cute boy you don't recognize, but claims to be intimately familiar with you! From Dot Kareshi III.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/slime-6b59625d),  [Catbox](https://files.catbox.moe/mj6sf6.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** ~~**MythoMax-l2-13b-q4 scaled to 8k**~~
+**Model:** **MythoMax-l2-13b-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://task-valentine-scanners-again.trycloudflare.com/api```
 
 **System prompt:**
 ```
@@ -55,7 +55,8 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 Here's an ideal card that will generate medium responses: https://files.catbox.moe/3nl7d8.png
 - I still can't get text-generation-interface to work on Windows so everybody will have to wait their turn in a single queue for now.
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
-- Stop using W++ cards, don't use "You" as your name because it will confuse the model, use novel formatting to avoid fucked-up asterisks.
+- Asterisks in replies are fucked? Stop using them.
+- If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again.
 
 ##### How to host your own proxy
 Because I won't keep hosting forever. This is experimental and will stop any day.

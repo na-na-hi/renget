@@ -29,9 +29,9 @@ c. Enter the repo name in the download box, no need to enter the full url, then 
 It's ideal to use quantized 4bit models, studies show no significant loss between 8bit and 4bit quants but 4bit uses way less VRAM. This guy quantizes: https://huggingface.co/TheBloke.
 When choosing a model that fits your hardware, it's all about VRAM. Loading the model into the GPU costs VRAM, inference also costs some VRAM, GPUs with more CUDA cores and VRAM bandwidth net you more token/s, bigger models are slower.
 Reference table, assuming 4bit quant:
-Params | 7B | 13B | 33B | 70B
------- | ------ | ------ | ------ | ------
- **VRAM recommended** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.3k-3.6k context | 48GB for 16k context thanks to GQA
+Params | 7B | 13B | 33B |34B| 70B
+------ | ------ | ------ | ------ | ------ | ------
+ **VRAM recommended** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.3k-3.6k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
 
 **If you only serve yourself, run at least Q5_K_M ggml for the optimal quality tradeoff, if you can afford it. Oobabooga already supports llama.cpp loader. The quality bump from Q4 is more than the perplexity difference suggests.**
 

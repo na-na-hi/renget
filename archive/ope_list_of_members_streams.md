@@ -23,14 +23,14 @@ There's 3 tiers for the membership:
 - Jailbird +
 - Jailbird Ultra
 - Jailbird Ultra+
-Each with their different degree of prices (Jailbird+ being at 4.99$/€, Jailbird Ultra being at 9.99$/€ and Jailbird Ultra+ being at 24.99$/€). A person with a lower tier of membership has the possibility to upgrade to a higher tier.
+Each tier comes with their own price (Jailbird+ being at 4.99$/€, Jailbird Ultra being at 9.99$/€ and Jailbird Ultra+ being at 24.99$/€). A person with a lower tier of membership has the possibility to upgrade to a higher tier.
 
 #####What type of content is expected for Nerissa's mengens and for the membership overall?
-In theory, there will be no difference in content nor perks even in different degree of membership support. Everybody will get the same emotes to use and will get access to the badges. Everyone joining the membership will also have access to the members special tabs in Nerissa's YouTube page in order to get exclusive updates (membership posts). What is to be expected is also ['goodies' as she puts it during the membership opening stream](https://youtu.be/CQaUs-vNgXo?t=1260) so potentially (monthly) commissioned wallpapers. 
+In theory, there will be no difference in content nor perks even in different degree of membership support - theoretically because tiered member stream is still a possibility. Everybody will get the same emotes to use and will get access to the badges. Everyone joining the membership will also have access to the [members special tab](https://www.youtube.com/@NerissaRavencroft/membership) in Nerissa's YouTube page in order to get exclusive updates (membership posts). What is to be expected is also ['goodies' as she puts it during the membership opening stream](https://youtu.be/CQaUs-vNgXo?t=1260) so potentially (monthly) commissioned wallpapers at some point. 
 ![Image description](https://files.catbox.moe/ekxuw0.jpg)
 *Source: https://twitter.com/nerissa_en/status/1697056409572003997*
 
-As far as content goes, ASMR was the first thing cited as the possible first stream. We know that membership streams aren't limited to ASMR - it can be in fact very varied : it can be zatsudans, karaokes, watchalongs, behind-the-scenes (for projects, unique breakdown or musical production), some sporadic gaming streams with members (although specific to some type of games with special permissions).
+As far as streaming content goes, ASMR was the first thing cited as the possible first stream. Membership streams aren't just limited to ASMR - it can be in fact very varied : it also includes zatsudans, karaokes (unarchived and archived), watchalongs, behind-the-scenes special streams (for projects, unique breakdown or musical production), some sporadic gaming streams with members (although specific to some type of games with special permissions).
 
 ----
 #### ![Image description](https://files.catbox.moe/f9inkg.png) Members streams

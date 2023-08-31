@@ -39,7 +39,7 @@ Image| Name | Description | Link
 ###DDLC bots
 Monika - https://files.catbox.moe/j0z855.png
 Natsuki - https://files.catbox.moe/hn5jwd.png
-Sayori - https://files.catbox.moe/2g4u2m.png
+Sayori - https://files.catbox.moe/dhwkzx.png
 Yuri - https://files.catbox.moe/nr8r2m.png
 
 ###Genshin bots

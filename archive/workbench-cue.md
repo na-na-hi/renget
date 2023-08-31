@@ -1,5 +1,5 @@
 **Workbench.CUE:**
-https://files.catbox.moe/691tl1.png
+https://files.catbox.moe/41ek6f.png
 Copies of *Sonic CD* with oddities related to the Round *"Wacky Workbench."*
 
 The existence of this copy was first reported in July 2007 on a forum, with video footage alongside it.
@@ -33,3 +33,6 @@ Apart from the aforementioned, the game appears to show no other anomalies, in-f
 A few people have reported that it broke their physical copies that weren't in a console at the time. 
 I assume they were either already broken, or they are just lying out of their asses to feel special.
 Someone even stated that they see the angel statue in their sleep taunting them, but their story makes no sense, so they were probably already fucked in the head or, again, are just making up shit.
+
+UP NEXT: Collision.CUE (whenever the motivation is found, likely never lol)
+also workbench.cue will likely be rewritten a bit if collision gets made (to be a little more like a blog post?)

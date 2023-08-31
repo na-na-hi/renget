@@ -1,10 +1,15 @@
 ▶NEW CLIPS
+>This is your last chance, make the right choice
+https://files.catbox.moe/7z5xxr.mp4 (fake hohol edit)
+https://files.catbox.moe/sj1x21.mp4 (original with subs)
+>More hohol degeneracy
+https://files.catbox.moe/eh3a5l.mp4
+>Slava-ACK!!!
+https://files.catbox.moe/dxpnsy.mp4
 >Dnipro police shotting man in front of their kids
 https://files.catbox.moe/649zkm.mp4 (subs)
 >Hohols threaten that Pepe will cuck Russian soldiers if they don't surrender
 https://files.catbox.moe/yp02x3.mp4
->This is your last chance, make the right choice
-https://files.catbox.moe/sj1x21.mp4 (subs)
 >400 thousand dead heroes
 https://files.catbox.moe/yqcu8r.mp4
 >Prigozhin's grave (RIP)
@@ -52,6 +57,7 @@ https://files.catbox.moe/kvo0oj.mp4
 >New Russian Ground Forces ad
 https://files.catbox.moe/bli24y.mp4
 >Prigozhin and Wagner in Africa
+https://files.catbox.moe/ajck9i.mp4 (subs)
 https://files.catbox.moe/4pxxcw.mp4
 >First Stryker kill
 https://files.catbox.moe/s8f1er.MP4
