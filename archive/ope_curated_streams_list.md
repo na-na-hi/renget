@@ -22,11 +22,13 @@ While her content is focused on music with regular release of covers, stream-wis
 #### ![Image description](https://files.catbox.moe/f9inkg.png) Gaming
 #####One-Off Stream
 For the stream featured in the list so far, needless to say that two of them are garnering early legendary status with one finishing Getting Over It in one setting (despite having played on it 11 hours while never passing Orange Hell) and the other one giving birth to the general tendency to create [sound-posts](https://rentry.org/c793m) during and after each stream. One-Hand Clapping is also recommended as being a showcase of her vocals capacity before the first karaoke happened and after the release of Love Me, Love Me, Love Me.
+The newest addition is Papers Please.  While the gaming part is not what we're looking for, it's the comedic aspect you're looking for - thus making a great watch.
 | Date | Title | Link & Thumbnails | Duration | Status |
 |------|-----|-----|-----|-----|
 |02/08/2023|【One Hand Clapping】Using my voice to play~ 🎼|[![](https://files.catbox.moe/l8sm2b.jpg)](https://youtu.be/itPTxlIj8cI)|~2h58|  Recommendation - might become multi-parts |
 |04/08/2023|【Getting Over It】Really? You came to watch me suffer? 🎼|[![](https://files.catbox.moe/siyce9.jpg)](https://youtu.be/y6bSgVuN1gg)|~1h37| Must Watch |
 |11/08/2023|【RING FIT ADVENTURE】Let's get RIPPED Jailbirds! 🎼|[![](https://files.catbox.moe/tem1gj.jpg)](https://www.youtube.com/watch?v=qzOjBoa9vls)|~1h48| Must Watch |
+|31/08/2023|【Papers, Please】If you want in, you gotta go through me first 🎼 |[![](https://files.catbox.moe/cw5whs.jpg)](https://www.youtube.com/watch?v=ANcmuJLXN8E)|~2h02| Recommendation |
 
 #####Multi-parts / Series
 Quite possibly the most chill form of content there is on Nerissa's part. It involves tons of farming, tons of fishing, tons of Nerissa's sound-posts too and most of all a sprinkle of zatsudan. While the Terraria streams should absolutely be in the collab section, Nerissa initiated a whole arc surrounding Terraria before Advent could go to Minecraft due to the collab ban for Advent regarding JP & ID and the servers (old and new) being all-in-one. Terraria also permitted interactions will other ENs aside from Advent.
@@ -72,3 +74,4 @@ Also see the [Lover of Idol](https://rentry.org/Past_mentions_and_collabs_on_oth
 |03/08/2023|【Untitled Goose Game】Wreaking havok with @KosekiBijou 🗿 🎼|[![](https://files.catbox.moe/avodey.jpg)](https://youtu.be/GU1PhsuLYDI)|~2h11| Bijou |
 |05/08/2023|【L4D2】First collab with my girlies! 🎼|[![](https://files.catbox.moe/t3qvk5.jpg)](https://www.youtube.com/watch?v=9YsuHwyYGes)|~2h02| [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) & [FUWAMOCO](https://www.youtube.com/watch?v=KgpiuAin1XM) |
 |12/08/2023|【EDF5】Advent Saves the World! 🎼|[![](https://files.catbox.moe/0zycuj.jpg)](https://www.youtube.com/watch?v=VRdVncNa0FE)|~3h06| [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) & [FUWAMOCO](https://www.youtube.com/watch?v=DC8VQsff7sA) |
+|30/08/2023|【BG3】Helping save the grove!🎼 ]|[![](https://files.catbox.moe/3rp0xt.jpg)](https://www.youtube.com/watch?v=l4ik4FJ_guE) |~3h30| [Mori](https://www.youtube.com/watch?v=gNKYCKxuud4), Kiara & [Bijou](https://www.youtube.com/watch?v=Vq9SJpmLwu4) |

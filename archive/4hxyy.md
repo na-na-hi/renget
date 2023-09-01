@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 320 - Shazam Edition: https://desuarchive.org/trash/thread/59227856/
 Thread 319 - Purah 2.0 Edition: https://desuarchive.org/trash/thread/59113310/
 Thread 318 - Regional Forms Edition: https://desuarchive.org/trash/thread/59052309/
 Thread 317 - Broodmother Edition: https://desuarchive.org/trash/thread/58715372/

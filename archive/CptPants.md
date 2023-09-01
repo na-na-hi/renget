@@ -1,11 +1,11 @@
 #CptPants's Bots
--> Last updated: August 23 <-
-Bots by the fella who goes by CptPants. Currently mostly inative due to a lack of GPT4 access.
+-> Last updated: September 1 <-
+Bots by the fella who goes by CptPants. Only active when GPT4 is available, which is rarely.
 I recommend always going for Character Hub links, they have the most updated version of each bot (the booru doesn't let you update old cards as far as I can tell).
 
 *Assume all bots were made for NSFW unless they're tagged otherwise.*
 
-Gimme your sekrit club accesses or whatever: cptpants@proton.me
+If you must contact me, do it at: cptpants@proton.me
 
 [TOC]
 ***
@@ -27,6 +27,7 @@ Pic | Character | Source | Description | Link
 ![Sekhmet](https://files.catbox.moe/delqxh.png) | Sekhmet of Death | *Last Origin* | Dark-skinned soft mommy elf bio-android. Let her pamper you too. | [Character.ai](https://beta.character.ai/chat?char=p768wZdgK9uqLzmhNh8G6JdfpSck8cNQKuB1I3Xdwhc) (outdated!) / [Booru](https://booru.plus/+pygmalion51) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/sekhmet-of-death)
 ![2B](https://files.catbox.moe/r3eax2.png) | YoRHa 2B | *NieR: Automata* | The beautiful combat android, made to act in-character. | [Booru](https://booru.plus/+pygmalion191) (outdated!) / [Character Hub](https://www.chub.ai/characters/cptpants/yorha-2b)
 ![9S](https://files.catbox.moe/1j04bz.png) | YoRHa 9S | *NieR: Automata* | The dorky scanner android, made to act in-character. | [Booru](https://booru.plus/+pygmalion2147) / [Character Hub](https://www.chub.ai/characters/cptpants/yorha-9s)
+![A2](https://files.catbox.moe/8fiavc.png) | YoRHa A2 | *NieR: Automata* | The renegate android warrior, made to act in-character. Hopefully. | [Character Hub](https://www.chub.ai/characters/cptpants/yorha-a2-aea1bde0)
 
 #Genshin Impact
 

@@ -354,18 +354,16 @@ As you may have noticed, there are a few models currently (2023-08-09) that have
 - LLongMA 2 7B
 - Hermes LLongMA 2 8K (L2) 7B
 
-And a few others. The reason for this is simple: **The GGML file format is a mess**. It will take a few weeks for llama.cpp to finish the new file format called **GGUF**. See here: [PR: GGUF file format specification - https://github.com/ggerganov/ggml/pull/302](https://github.com/ggerganov/ggml/pull/302) and [PR: GGUF - https://github.com/ggerganov/llama.cpp/pull/2398](https://github.com/ggerganov/llama.cpp/pull/2398).
+And a few others. The reason for this is simple: **The GGML file format is a mess**. And even after the new GGUF file format arrived, people still seem to fail to properly quantize the context extended models into a GGUF file. The benchmark does sometimes not have proper results for these models because:
 
-The benchmark does not have proper results for these models because:
-
-- A special setting is required in llama.cpp to enable compatibility with these models. Called `--rope-freq-base` and `--rope-freq-scale`. These need to be set to the right magic values corresponding to the model at hand.
-- Determining these magic ROPE values is not hard, if they were properly documented. But only few pages on huggingfaces that provide GGML file quantizations document these. TheBloke really tries hard, but sometimes even the original model uploaders don't provide any information about the right values.
-- And most importantly: It would require carrying meta data out of band along with each file for me. I don't have the time figuring out the right values. And I believe most users won't ever bother either.
-- There are also other important options which are not mentioned yet, but are crucial for some GGML files to work properly:
-  - `--gqa` (grouped-query attention factor) is one of these, it is required to set to the magic value `8` for LLaMA 2 70B to work.
-  - `--rms-norm-eps` is an epsilon value for inference of the models. This value is different bewettn LLaMA 1 (`1e-6`) and LLaMA 2 (`1e-5`). It makes a difference in how well either model works. The original default `1e-6` was actually replaced recently by `5e-6` which is half way between the both values, and suppsedly should work fine. But in my own tests I saw quite some variance in the performance of the quantized GGML models, which were kind of contradicting to what was stated on llama.cpp. But I decided to not dig further, because there is still too much sampling randomness involved in the ALC-IQ (beta). Which I will eventually fix.
-
-**Conclusion:** The user experience with GGML files and llama.cpp (and derivatives) is better than dealing with the chunk of safetensor files on huggingfaces. But at the same time, the user experience is really really bad. I have trust in the developers fixing this eventually. The LLM field is still rapidly evolving at this point, and the open source applications built around it are still cutting edge.
+- The GGUF file creator messed up somehow (for instance: converted a GGML file to GGUF without the proper rope scaling settings).
+- For GGML Files:
+  - A special setting is required in llama.cpp to enable compatibility with these models. Called `--rope-freq-base` and `--rope-freq-scale`. These need to be set to the right magic values corresponding to the model at hand.
+  - Determining these magic ROPE values is not hard, if they were properly documented. But only few pages on huggingfaces that provide GGML file quantizations document these. TheBloke really tries hard, but sometimes even the original model uploaders don't provide any information about the right values.
+  - And most importantly: It would require carrying meta data out of band along with each file for me. I don't have the time figuring out the right values. And I believe most users won't ever bother either.
+  - There are also other important options which are not mentioned yet, but are crucial for some GGML files to work properly:
+    - `--gqa` (grouped-query attention factor) is one of these, it is required to set to the magic value `8` for LLaMA 2 70B to work.
+    - `--rms-norm-eps` is an epsilon value for inference of the models. This value is different bewettn LLaMA 1 (`1e-6`) and LLaMA 2 (`1e-5`). It makes a difference in how well either model works. The original default `1e-6` was actually replaced recently by `5e-6` which is half way between the both values, and suppsedly should work fine. But in my own tests I saw quite some variance in the performance of the quantized GGML models, which were kind of contradicting to what was stated on llama.cpp. But I decided to not dig further, because there is still too much sampling randomness involved in the ALC-IQ (beta). Which I will eventually fix.
 
 ## Ranking Changelog
 

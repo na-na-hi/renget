@@ -1,4 +1,15 @@
 ▶NEW CLIPS
+>Loads of dead hohols near Kleshcheevka after arty strike (kino, semi uncomfy)
+https://files.catbox.moe/adr55q.mp4
+>FPV drone creating more hohol cyborgs
+https://files.catbox.moe/7s7n4n.mp4
+>Ka52 destroying targets in South Donetsk direction
+https://files.catbox.moe/hctgqj.mp4
+>Pskov air defense at work
+https://files.catbox.moe/uigwgc.MP4
+https://files.catbox.moe/e809ww.mp4
+>hohols hitting a mine in M113
+https://files.catbox.moe/34h5gv.mp4
 >This is your last chance, make the right choice
 https://files.catbox.moe/7z5xxr.mp4 (fake hohol edit)
 https://files.catbox.moe/sj1x21.mp4 (original with subs)

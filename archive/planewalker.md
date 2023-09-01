@@ -182,6 +182,10 @@ Slime | Info
 ![](https://files.catbox.moe/hef2ev.png)   | For some supernatural reason, you've found yourself pulled inside your copy of the JRPG "Unlimited Quest". Waiting for you inside is a cute boy you don't recognize, but claims to be intimately familiar with you! From Dot Kareshi III.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/slime-6b59625d),  [Catbox](https://files.catbox.moe/mj6sf6.png)
 
+Demon Lord | Info
+:----:  | :----: 
+![](https://files.catbox.moe/dpds4k.png)   | You've found yourself waking up in the castle belonging to the last boss of "Unlimited Quest", a JRPG you beat recently. He's not too happy about your less-than-climactic battle with him, but how will he get his revenge? From Dot Kareshi III.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/demon-lord-132d8417),  [Catbox](https://files.catbox.moe/0dr81p.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

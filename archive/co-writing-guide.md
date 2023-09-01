@@ -38,16 +38,22 @@ And also: **Be bold**. You have an editorial power, use it. You know what to do 
 
 #####Token Probabilities and Keyboard Shortcuts
 
-- User setting -\> AI Settings -\> Experimental -\> Enable **Token Probabilities** & **Editor Token Probabilities**
-(Also, go to Interface -\> experimental -\> Use Editor V2; if you don't have this on.)
+There is an option on the right tab: 'Editor Token Probabilities'.   
+It will allow you to see further into the model itself, clicking on an output will give you the ***list*** of words that the AI was considering. *And* you can click an alternative word and retry from there—I can assure you that this is *very* handy.
 
-These two options will allow you to see further into the model itself, clicking on an output will give you the ***list*** of words that the AI was considering. *And* you can click an alternative word and retry from there—I can assure you that this is *very* handy.
-‎
+And did you know? That you can see more than 10 tokens at a time!
+
+- Enable Debug Mode: 
+Top left, Click on profile image -\> At the bottom, try to find  _Version 7?4?e?4_, Can be hard to spot -\> Spam left click until you see "Debug settings enabled." popup.
+- Setting -\> Debug -\> Raise **Logprobs Count** to *30* or values that you want!
+- Make the list more compact:
+Setting -\> Theme -\> scroll down -\> Open *Custom CSS*  -\> Paste `#editor-toolbox {line-height: 12px;}` (or other values) -\> Apply!
+
+Also  
+If you are doing any intense/focus NovelAI session, you would probably be better off using shortcuts than reaching for Send or Retry button. 
 
 - ***Ctrl + Enter*** — to hit send.
 - ***Alt + R*** —to retry gen.
-
-If you are doing any intense/focus NovelAI session, you would probably be better off using shortcuts than reaching for Send or Retry button. 
 
 ####Context
 

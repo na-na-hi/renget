@@ -16,12 +16,12 @@
 Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work together to defeat a more powerful raider. Features CaC from Xenoverse, and many weaker characters from Dragon Ball who have rarely if ever been playable before.
 ###News
 
-* Season 3 lasts until September 22nd
+* Season 3 extended until October 31st
 	* New Raider: The Ginyu Force
 	* New Survivors skins: Fortuneteller Baba (Dragon Tier reward), Dende, King Kai (Both for TP)
-	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan), Pan (GT), Great Saiyaman, Great Saiyawoman
-* Rival Spirits Vol. 2 released July 28th
-	* New Transpheres: Captain Ginyu, Golden Freeza, Kid Buu
+	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan), Pan (GT), Great Saiyaman, Great Saiyawoman, Captain Ginyu, Golden Freeza, Kid Buu
+* Vegeta's Family released September 1st
+	* New Transpheres: Vegeta (Super Saiyan 2), Trunks (Kid) (Super Saiyan)
 * New Event: Summer Carnival
 
 ![Image description](https://i.imgur.com/PfsEkpm.jpg)

@@ -13,7 +13,7 @@ https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 **4th Fes Blu ray**
 https://bushiroad-music.com/musics/hoxb-10013
 
-**Council 2nd Anniversary Merch (Bangles)**
+**Council 2nd Anniversary Merch (Bangles)** (Order period ends 25th September 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
 >**HoloSummer**
@@ -26,6 +26,7 @@ Acrylic Stands (Yukata)
 https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 Keychains and assorted goods
 https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
+**Order period ended**
 Acrylic diorama 
 https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
 Acrylic Stand (Swimsuit)

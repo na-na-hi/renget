@@ -5,19 +5,19 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** ~~**Mythomax-l2-13b-q4 scaled to 8k**~~
+**Model:** **Mythomax-l2-13b-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://colorado-recruiting-sl-her.trycloudflare.com```
 
 ***
 **System prompt:**
 ```
-Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
+### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
 ```
 
 **Sequences:**
 Input Sequence: ` ` (yes, leave blank)
-Output Sequence: ` ` (leave blank like above)
+Output Sequence: ` ` (also leave blank)
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
 

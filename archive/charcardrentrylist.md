@@ -18,11 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Demon Lord](https://files.catbox.moe/0dr81p.png), [Slime](https://files.catbox.moe/mj6sf6.png)|
 [Anonymous](https://rentry.org/charcardanons) | Misc |[Appuru-san](https://files.catbox.moe/1jqyoa.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ryunosuke](https://files.catbox.moe/jxh57r.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Yvolt](https://files.catbox.moe/t5pn18.png), [Venice](https://files.catbox.moe/s7qok8.png)|[Aekevoh](https://files.catbox.moe/tpc6m0.png), [Azura](https://files.catbox.moe/axoe70.png), [Uni](https://files.catbox.moe/kz1mha.png), [Chloe](https://files.catbox.moe/wp4eav.png), [Ferrin](https://files.catbox.moe/j7zzeu.png), [Genevieve](https://files.catbox.moe/6iftiu.png), [Morgana](https://files.catbox.moe/8ecv3u.png), [Lurk](https://files.catbox.moe/u695le.png), [Price](https://files.catbox.moe/mfjhsb.png), [A.I.X](https://files.catbox.moe/6tlplc.png), [ꭦ֎√](https://files.catbox.moe/plvejz.png), [Namai](https://files.catbox.moe/uk37pv.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[Kalan](https://files.catbox.moe/o5txk4.png), [Donella](https://files.catbox.moe/wwn2w0.png), [Daily Smile](https://files.catbox.moe/tca144.png), [Antonia](https://files.catbox.moe/wlz37p.png), [Justin](https://files.catbox.moe/q8or82.png), [Nali](https://files.catbox.moe/y7tiea.png), [Anna](https://files.catbox.moe/2tllkb.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Slime](https://files.catbox.moe/mj6sf6.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Amon](https://files.catbox.moe/9hvk8e.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Tavia](https://files.catbox.moe/nphwii.png), [Kuri](https://files.catbox.moe/c7znja.png)|[Tavia](https://files.catbox.moe/nphwii.png) [MV], [Kuri](https://files.catbox.moe/c7znja.png) [MV]
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Askari](https://files.catbox.moe/121ey6.png), [Latif](https://files.catbox.moe/p74lvc.png), [Nao-kun](https://files.catbox.moe/oyiabd.png)|

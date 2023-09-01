@@ -146,5 +146,9 @@
 |---|---|---|---|
 |01/09/2023|125|Mentions & Collabs|Addition of what should be the unique POV (Shiori's) for the Advent Pico Park Collab.|
 |01/09/2023|126|Mentions & Collabs|Addition of a timestamp for a borderline mention by Ame evoking a VC incident between her and Kiara & Nerissa during the closing parts of her Pizza Time stream from 02/08/2023.|
+|01/09/2023|127|Mentions & Collabs|Addition of Bijou's POV for the Advent Pico Park Collab.|
+|01/09/2023|128|Mentions & Collabs|Addition of Fuwamoco's POV for the Advent Pico Park Collab.|
+|01/09/2023|129|Recommendation|Addition of Papers Please as a recommendation for the One-Off streams.|
+|01/09/2023|130|Recommendation|Addition of the second BG3 collab as a recommended collab.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

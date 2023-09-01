@@ -10,6 +10,8 @@ Rank: Administrator
 
 ---
 
+[Home](https://rentry.org/zspcn)
+
 >Welcome be, oh everyone! 
 
 >If you're reading this post, it's because you're becoming a part of our beautiful community, thus, there are some precautions that you must take.
