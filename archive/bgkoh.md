@@ -5,7 +5,7 @@ You know what to call me!
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** ?
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** 
 **Level:** 5 | **Experience to Next Level:** 0/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*

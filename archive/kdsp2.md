@@ -172,6 +172,9 @@ https://archiveofourown.org/works/36541261/
 PokeBim (Pokémon) by snakebit1995
 https://archiveofourown.org/works/18054653/chapters/42669134/
 
+Pokébim Adventures (Pokémon) by Anonymous
+https://archiveofourown.org/works/40239663/chapters/100788894/
+
 Bimbo RWBY (RWBY) by snakebit1995
 https://archiveofourown.org/works/14601942/chapters/33748335/
 
@@ -196,9 +199,6 @@ https://archiveofourown.org/works/28189092/chapters/69074628/
 
 Pink Pen (Please Don't Bully Me Nagatoro) by decideusernamelater
 https://archiveofourown.org/works/42325617/chapters/106283883/
-
-Pokébim Adventures (Pokémon) by Anonymous
-https://archiveofourown.org/works/40239663/chapters/100788894/
 
 Bimbo Connect! Re:Dive (Princess Connect! Re:Dive) by GachaAnon
 https://archiveofourown.org/works/31691696/chapters/78434510/

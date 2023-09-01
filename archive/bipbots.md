@@ -11,7 +11,7 @@ Install `jq` and paste the command below in your terminal
 jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description,
 kind: "memory",
 name: $name,
-entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: 0, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
+entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
 ```
 Change ST_LOREBOOK, AGNAI_LOREBOOK, DESCRIPTION, and NAME according to your needs.
 

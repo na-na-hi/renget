@@ -904,3 +904,230 @@
 >this wasn't funny
 >nothing
 >an explosion rocked the building from somewhere
+
+>so you may be fucking an eco terrorist
+>you were trapped in a store room
+>and somewhere out there something exploded
+>it wasn't close enough to rattle the room
+>just a muffled thump echoing down the hallway to your door
+>what the fuck were they thinking locking you in
+>what the fuck was going on out there
+>you'd have to deal with what you had at the moment 
+>how to get out 
+>these guards were all subdued
+>but maybe they could help
+>you worried they may matters worse
+>there was always staying until someone freed you
+>but that wouldn't work if those explosions got closer
+>the answer came in the form of a grate
+>you had to climb through the HVAC system
+>that's how it worked in Die Hard
+>you searched for what you could to pry off the grate
+>the room ware pretty bare but one of the guards had a Swiss knife in his chest pocket
+>you were fortunate you didn't have to test the construction by prying on the grate
+>the screws came undone easily
+>hopping on a chair gave you the boost to climb in and you hoped the vents were big enough
+>another explosion gave you pause before you doubled your efforts
+>it was a little tight but you crawled through
+>you'd have a long talk with Alex after this
+>whatever the hell was going on was going to get more people killed
+>what you found out was while Gensyn splurged on a hot tube, they skipped on structural stability for their ventilation system
+>you made a few minutes into the vents before they refused to hold your weight and the thing dumped you out with a cacophony you prayed no one heard
+>you'd been spilled into some other room 
+>a spare lab 
+>couldn't really see anything in the dark but the warm glow of a computer monitor off in the corner
+>no one seemed to be around
+>you hoped the explosions had made your attempt at stealth the least of anyone's worries
+>peeking outside from the door was an option but you worried about getting caught
+>something was going on here
+>Alex possibly acting bipolar may be the least if your concerns
+>the explosions had to mean Gensyn
+>that was your guess
+>you had to check out what was happening outside
+>your hand gently turned the knob
+>you moved as slow and quietly as possible
+>the crack in the door showed no one the way you came from through the vents
+>that didn't mean your right was clear but you opened up anyways
+>nothing
+>thank God
+>now you retraced your steps quietly to the room the lab techies were all in earlier
+>another explosion
+>closer now
+>would Alex fire off that device again?
+>he looked serious
+>then again, when was he ever not serious looking
+>you were aware they'd probably hear you first before you even saw them
+>a room full of random beast men and you were just human
+>one of them had to be able to hear you
+>you turn the corner carefully and were shocked to see no one
+>they'd moved out somewhere
+>fuck this mystery business 
+>you were calling shark boy
+>thankfully his phone was on
+>in hindsight he might be busy but goddamn were you keenly aware things were a mess here 
+>you were given the runaround and you didn't know what was going on
+>though the sexy time in the closet was nice
+>still
+>he didn't initially pick up
+>the first couple rings made you think maybe something happened 
+>after the fourth you were both happy to hear from him and super pissed you got locked in a room
+>you heard gunfire over the phone and that kind of quelled your anger
+>as pissed as you were about the situation you didn't want Alex to die
+>he was brief 
+>sounded like he was fiddling with something while talking
+>no doubt that weapon
+>"I need you to head to that pool you found"
+>what?
+>why?
+>"head there and get under water"
+>well
+>ok
+>you headed over to the location and stripped your shoes and socks off
+>when you stepped in you asked again why
+>"in about ten seconds dive below the water"
+>why?
+>"do it"
+>fuck
+>fine
+>you said you loved him and he hung up after more gun fire
+>the phone was tossed in a pool chair
+>so you counted down and once you hit ten you dove
+>you weren't the best at holding your breath but you'd manage
+>you could only wonder what he was thinking
+>when you just about ran out of air you had to pop up
+>drowning in the shallow end of a pool would be the dumbest way to die
+>you breached the surface and tried listening
+>no explosions 
+>at least not for a while
+>you hung around in the pool for a few minutes just to be safe
+>you climbed out of the pool and gave Alex another call
+>this was a more immediate response
+>"you stayed in the pool, correct?"
+>he sighed when you said yes
+>"good"
+>you asked him what's up
+>the gun fire had stopped
+>"I fired off the device with an increased range. several city blocks."
+>well damn
+>"I found the most effective barrier to the waves it generates are liquids"
+>like water
+>of course
+>you felt yourself and sure enough you were still human
+>"you did not ask for this. I wanted you to leave for a reason."
+>well you were stubborn
+>you asked if he was safe and the confusion the ray blast provided meant the struggle was over
+>for now
+>Gensyn wouldn't send more men just to have the weapon used at them
+>you were worried about the neighboring area
+>you hoped Gensyn cleared the area a little
+>he was returning to check you personally 
+>you'd also ask him about that room business in person 
+>you'd have to get down to the bottom of this
+>you had trust issues right now
+>very well founded trust issues by now
+>when Alex came into the pool room, he found you with your arms folded
+>he didn't initially read the room and was just checking you for mutations 
+>so you had to get it out in the open
+>why the hell were you locked up?
+>he paused at that question
+>you wondered what was going on in his head
+>he thankfully looked like he was unharmed so you could remain pissed
+>if there was even a scratch on him you'd have dropped the outrage
+>the shark boy was very quiet
+>probably trying to work out a solution
+>"I did not think my colleagues were that petty."
+>you were putting the pieces together and between that earlier argument and his reaction now, there still seemed to be bad blood there
+>it would probably only get worse
+>Alex was quiet now
+>he had you strip down and looked over your body before handing you a towel
+>"there are fresh clothes over in those cubbies"
+>he thumbed over to the corner of the pool, where a small changing room existed
+>he seemed content knowing you hadn't change
+>so you had to ask
+>why didn't he want you to be hit by the gene thing
+>"the long term effects could result in anything. I do not want that for you."
+>then what about him?
+>"I considered myself a sacrifice."
+>you flicked him in the nose, causing him to flinch and grab it
+>there was confusion in his eyes as he held his snout
+>you'd heard of that trick from him
+>no, he's not a "sacrifice"
+>none of that
+>he wasn't writing himself off like that
+>there was also the matter of responsibility 
+>Gensyn wanted the genie that they'd slapped together
+>Alex had the morality to know how terrifying a weapon it would be
+>but to just write himself off as a loss wasn't happening
+>you apologized for the nose flick by moving close and kissing his snout where you tapped it
+>then pulling him into a hug
+>between trying to get you to run and this you were going to be stubborn and push back
+>slowly, he reciprocated the hug
+>you'd help shoulder the weight 
+>his body relaxed into yours
+>"I am a bit lost"
+>well you were here to help
+>you both rested your heads on each other's shoulders
+>he must have been so panicked
+>well, panicked for him
+>you picked him up and shocked him
+>your earlier idea for his outfit struck you and it sounded like a good distraction 
+>this morning, you didn't think you'd be bridal carrying a shark mutant that tried to avoid eye contact
+>but life was full of surprises
+>"thank you," he whispered 
+>your boyfriend 
+>damn your life had gotten topsy-turvy 
+>but you still had each other
+>you just hoped there was a flattering bathing suit for him in the changing room
+>Alex held onto you as you made your way to the room
+>you were dealt a weird hand so you'd make the best of it
+>he was strange but his heart was in the right place in all this
+>so you'd take care of him
+>but no more of that martyr shit
+>you hugged him closer to your chest
+>his tail did make this harder, you tried not tripping on his fins
+>you were relieved he didn't argue about earlier
+>he was stubborn as can be but even he saw you didn't like him devaluing himself
+>he was important 
+>if not to himself, then to you
+>his work wasn't worth tossing anyone's life away
+>the thought made it harder to set him down when you got into that room
+>you hadn't explained the swimsuit idea but Alex didn't need to worry about his pants falling down
+>at least not without your involvement 
+>the swimsuit would be a decent distraction for you too
+>there seemed to be a lot of wardrobe choices
+>you picked some spare button up office shirt and shorts
+>when you dug around and presented him with a one piece swimsuit for a woman he immediately suspected ulterior motives
+>his hands on his hips lost any threat to you when you saw he was trying to keep his pants up while also trying to stare a hole into that swimsuit
+>you waved it in front of you with all the enthusiasm of a matador 
+>your selling point of "huh? huh?" wasn't working
+>oh well
+>you needed the levity and he needed a distraction 
+>finally, you pointed out how hard it must be to work with his pants like that
+>only plumbers are that skilled
+>"I am surprised you care about my pants staying up."
+>was that a joke?
+>from your Alex?
+>thankfully, he saw reason and took the sleek black swimsuit
+>you had that Swiss army knife still and used it to cut a tail hole 
+>sure enough it hugged his body like a glove
+>he wasn't one for showing off but it looked good on his new body
+>at least he could wear his lab coat over it if he was feeling immodest 
+>"I will admit, this does feel better"
+>you had to admit it looked better too
+>the swimsuit complimented his thin frame
+>even after the transformation he looked like he'd be 90 lbs wet
+>still had the ass though
+>hell, a little intimacy could do you both some good
+>you stood behind him and grabbed him yet again
+>he wasn't startled
+>just kind of leaned into you like he expected it
+>"you just wanted me in a swimsuit. still, I can work with this"
+>you decided to kiss along his blue scaley shoulders
+>he reached behind and ruffled your hair
+>"the other reason I wanted to protect you is perhaps far more selfish."
+>you were curious and let him continue 
+>"I ask a lot from you to find this new form attractive. I do not think I could do the same. you are very much you and I like you."
+>he was still Alex
+>plus you had to mutter to his ear, the shark thing was still kind of hot
+>you decided to lay on the cheese and ask if he'd heard of sirens
+>when he remarked no, you grabbed at his pecs and said you'd getting him fitted for seashells

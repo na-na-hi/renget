@@ -150,5 +150,6 @@
 |01/09/2023|128|Mentions & Collabs|Addition of Fuwamoco's POV for the Advent Pico Park Collab.|
 |01/09/2023|129|Recommendation|Addition of Papers Please as a recommendation for the One-Off streams.|
 |01/09/2023|130|Recommendation|Addition of the second BG3 collab as a recommended collab.|
+|01/09/2023|131|Mentions & Collabs|Addition of Nerissa's POV for the Advent Pico Park Collab.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

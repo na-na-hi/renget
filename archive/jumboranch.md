@@ -1,18 +1,19 @@
-# JumboRanch's Cards and Junk
+# JumboRanch's Cards (hiatus)
+
+
 ->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/k166sa.png)<-
 ***
-Just a place to keep all my stuff, and shilling new cards/worlds/othershit.
-May add 'SD slop' expression packs since it's been requested, and I already make them to use with some of my cards personally.
-Mostly young female furry or fantasy brats (early teens) and the token autistic femboy.
-For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior!
+**Note -8/31-: Without access to Claude anymore, and GPT4 access too random/volatile I'll probably be taking a break from making anything new. I might downsize and optimize a few bots for MythoMax13B, but gen times are rough (over 600 seconds) so even that I'm not sure. Taking a temporary Hiatus until I can figure something out. You can still contact me with important things at my burner email.**
+For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
+
 ***(WIP)***
-**ALL BOTS** will be on this page.
+***ALL* BOTS** will be on this page.
 ***MOST* BOTS** will be here [https://www.chub.ai/users/jumboranch](https://www.chub.ai/users/jumboranch) 
 ***
 **Table of Contents**
 [TOC2]
 ***
-##BOT LIST
+##Cards
 ***
 ###New or W.I.P.
 For New or Work In Progress stuff

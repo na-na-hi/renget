@@ -1,4 +1,4 @@
-#Prodigy Guide for iA3 - August 2023 
+#Prodigy Guide for iA3 - September 2023 
 ### -> A.K.A The Modern LoRa Guide <-
 ##### -> ```stop calling them loras, call them small networks/models. ia3 is not even a lora.``` <-
 #### -> written by a nerd who likes to optimize <-
@@ -26,7 +26,7 @@
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only T_0 to the total steps you want and wait for the scheduler to reach 0 then stop training.``` ```T_0``` is the step scaling for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger ==IMPORTANT:== ```Bucketing sucks don't use it. Crop areas of interest manually. Remove backgrounds optionally.```
 !!! danger ==IMPORTANT:== ```train_on_input means learned vectors are multiplied with the output activation for attention blocks, disabling it means the learned vectors are multiplied with the input for classic feedforward layers. Recommend to train on each and X/Y/Z.```
-!!! danger  ==OPTIONAL:== ```Adjust weight_decay, any value from 0 to 3 should provide epic results (depends on other settings and d*lr). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
+!!! danger  ==OPTIONAL:== ```Adjust weight_decay (any value is fine as Prodigy adjusts to try and compensate). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning Original/Multires Noise is not recommended.
@@ -34,7 +34,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=3e-1\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=5e-2\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
@@ -52,7 +52,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d0=3e-3\" \"d_coef=1.0\" \"weight_decay=0.3\" \"use_bias_correction=False\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0e-10\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

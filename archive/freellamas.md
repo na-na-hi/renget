@@ -44,16 +44,7 @@ Mirostat Eta: 0.4 - learning rate
 ***
 #### How to use:
 
-##### 1. Proxy menu:
- ![proxy-menu](https://files.catbox.moe/sl6hbc.png)
-
-##### 2. Advanced menu:
- ![classic](https://files.catbox.moe/wxukcn.png)
-
-Alternatively, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
-![simple-proxy-for-tavern](https://files.catbox.moe/zaysk7.png)
-
- Not seeing it? Update your SillyTavern:
+##### 1. Update your SillyTavern:
 ```
 cd SillyTavern/
 git stash
@@ -62,8 +53,16 @@ git pull origin staging
 git stash pop
 ```
 
-***
+##### 2. Proxy menu:
+ ![proxy-menu](https://files.catbox.moe/sl6hbc.png)
 
+##### 3. Advanced menu:
+ ![classic](https://files.catbox.moe/wxukcn.png)
+
+Alternatively, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
+![simple-proxy-for-tavern](https://files.catbox.moe/zaysk7.png)
+
+***
 ##### Are my prompts logged?
 Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no statistics, not even prompt count.
 
@@ -73,7 +72,7 @@ Here's an ideal card that will generate medium responses: https://files.catbox.m
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.
 - Asterisks in replies are fucked? Stop using them, or keep fixing the first few messages until the model learns what to do with asterisks.
-- If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again.
+- If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again. When in doubt, check SillyTavern's console output, the prompt should always end with Last Sequence, followed by `{{char's name}}:`
 
 ##### How to host your own proxy
 Because I won't keep hosting forever. This is experimental and will stop any day.

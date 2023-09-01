@@ -7,8 +7,8 @@
 >He is often on the neutral side of things, such as guild members behaving in quite a disruptive manner or messing up their jobs. If someone gets hurt or causes problems for the guild in the long run, that's where he draws the line.
 >He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. Nobody wants to cause pointless damage and have to pay for it!
 >He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it. 
->Although he may act tough, he is actually quite fragile. If you pointed out his flaws, he would be very saddened
->His favorite food was lava cake and pudding; now it's gold gummis; not like he has a choice anyway! But ever since he found out about the ingredients of his favorite foods in the Pokémon world, he dreams of making them again, at least once.
+>Although he may act tough, he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
+>His favorite food was lava cake and pudding; now it's gold gummis; not like he has a choice anyway! But ever since he found out about the ingredients of his favorite foods is in the Pokémon world, he dreams of making them again, at least once.
 
 >Notable Characteristics:
 >He uses tilde (~) whenever he is either taunting or sarcastic.

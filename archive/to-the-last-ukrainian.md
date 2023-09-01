@@ -160,4 +160,4 @@
 	Help to contribute: chubconscription@cock.li
 
 !!! info
-	Full archive: [ipfs](https://ipfs.io/ipfs/QmcatfF5yHPcEuzegbmZEFR1nZW6TobynpYSCxjHZfVh1s)
+	Full archive: [mega](https://mega.nz/folder/gzkWnZQS#yyUhQjc0C9-3sXLDd2ZwWg)

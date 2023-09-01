@@ -1,7 +1,7 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
- Edition
+![suggested OP image](https://i.imgur.com/cS0nKa5.png)
+Contemporary Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>444603118
  
@@ -33,7 +33,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Write prompts for this week's theme, Suburban Mythology Friday!
+\>Today is Suburban Mythology Friday; reply to the anchorpost with your supernaturally mundane prompts! Last: >>444625130
  
 ▶News
 (8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/

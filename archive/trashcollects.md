@@ -853,6 +853,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/ydmap7.rar
 
+# Matz (by matzzacre)
+
+	https://files.catbox.moe/red94x.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
