@@ -557,6 +557,8 @@ Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#897
 Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
 Sandy and Mio casualwear: https://desuarchive.org/tg/thread/89851223/#89859158
 Marumaru character sheet: https://desuarchive.org/tg/thread/90030958/#90032228
+Chibi Sandatsu Stamp: https://desuarchive.org/tg/post/90104227/
+Inigo's Phone: https://desuarchive.org/tg/post/90102567/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

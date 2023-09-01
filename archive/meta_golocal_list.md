@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-08-30)==<-
+->==(Updated 2023-09-01)==<-
 ***
 [TOC2]
 ***
@@ -23,6 +23,9 @@ https://vast.ai/docs/guides/oobabooga
 https://rentry.org/aicglocal
 - guide on how to set up a local model either for yourself with KoboldCpp - `free` on your own machine
 
+https://rentry.org/llama_v2_sillytavern
+- from /lmg/, guide on how to set up a local model either for yourself with KoboldCpp - `free` on your own machine
+
 https://rentry.org/better-llama-roleplay
 - stolen from /lmg/, listed there under "LLaMA RP Proxy"
 
@@ -31,6 +34,7 @@ https://rentry.org/better-llama-roleplay
 https://rentry.org/ayumi_erp_rating
 - stolen from /lmg/, just grab the model currently listed as best here, accounting for available computing power or desired speed (7B, 13B, more)
 ![pic 23.08.2023, also thanks, Weird Constructor](https://files.catbox.moe/o6cmri.png)
+->pic is old<-
 
 
 

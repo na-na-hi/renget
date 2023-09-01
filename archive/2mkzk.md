@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 2UTC ()**
 **FRI: Rockman X DiVE Offline at 2UTC (Parsec)**
-**SAT: - at 2UTC ()**
+**SAT: Golden SUN at 2UTC (Telemelt)**
 **SUN: Boktai 2 at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes

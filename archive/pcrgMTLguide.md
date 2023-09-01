@@ -2,6 +2,7 @@
 -> ![](https://i.imgur.com/X8QDfDT.gif) <-
 
 !!! The patch works again - the first boot up of PriCon after the patch installation can take up to a minute and might require you to close and restart the game afterwards, this is normal and will happen after game version updates, too
+!!! DMM blocks some countries and ISPs nowadays. You will need a VPN to log into DMM and to start up the game, but once it is running you can turn the VPN off
 
 These resources aren't really mine, I merely summed up the research work others posted in the thread. I hope this helps some other EN players who are not yet ready to leave Landosol behind.
 Note that DMM is a requirement for PriconeTL, and the guide for Sugoi assumes that you have PriconeTL installed.

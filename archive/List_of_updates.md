@@ -140,3 +140,11 @@
 |31/08/2023|124|Mentions & Collabs|Creation of a rentry page for all the collabs from August 2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->
+
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) September 2023
+|Date| n°|Where?|Nature|
+|---|---|---|---|
+|01/09/2023|125|Mentions & Collabs|Addition of what should be the unique POV (Shiori's) for the Advent Pico Park Collab.|
+|01/09/2023|126|Mentions & Collabs|Addition of a timestamp for a borderline mention by Ame evoking a VC incident between her and Kiara & Nerissa during the closing parts of her Pizza Time stream from 02/08/2023.|
+
+->[Go back to the TOC](https://rentry.org/List_of_updates)->

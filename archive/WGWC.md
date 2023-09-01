@@ -101,3 +101,7 @@ Here you can find all the NSFW fics that have been submitted for the contest.
 [Roboco's new upgrade](https://docs.google.com/document/d/e/2PACX-1vRyVEow1X-vyUArSQ7eGfyLTX3inh3lEx2_L8Qwdy4CGlQnxxmh-nF1nU3H9igpjg1I-LVCvoRX8akI/pub) (Roboco, NSFW, insest-ish)
 [Milky way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub) (NSFW, Suisei, Noel, Breast Expansion, Lactation)
 [Tainted idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Tokino Sora, NSFW, fake rape)
+
+###Voting Form
+Here's the voting form for you to pick your favourite stories from the contest! Form closes on September 4th, 11:59PM UTC-12:00.
+https://docs.google.com/forms/d/e/1FAIpQLSdlEP3lOlGJI42lNOAcrM1Lr0rGcxZAGhdF7sl371xLhYsbTg/viewform?usp=sf_link

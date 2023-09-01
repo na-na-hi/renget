@@ -2,7 +2,7 @@
 -> *"Nice quotes go here." - Anonymous* <-
 __________________________________________________________________________________________________________________________________________________________________
 
-**Note to whoever's baking:** You'll need up to four images. Since you're the one who's baking, they can be whatever you want; just make sure they're about chuubas, they have some sort of theme (ex. all pics of Mel, all pics of Botan, all pics of Umisea members, etc.), and they're not NSFW (and/or coombait).  That's one image for the OP, and two for the Story Anchor and Story Recap. You'll need the extra image for the /wg/ Contest anchor if there's a contest going on. 
+**Note to whoever's baking:** You'll need up to four images. Since you're the one who's baking, they can be whatever you want; just make sure they're about chuubas, they have some sort of theme (ex. all pics of Mel, all pics of Botan, all pics of Umisea members, etc.), and they're not NSFW (and/or coombait).  That's one image for the OP, and two for the Story Anchor and Story Recap. You'll need the extra image for the Writing Contest anchor/Voting Form post if there's a contest going on. 
 
 Also, when linking the new thread (You) baked to the previous thread, **tell us about a story you wrote** or a story you read (if you're a reader). We have ways of verifying that stuff. The clearer you can make it that the thread was made by a person and not a bot, the better. If you want to go further, you can even **personalize** the OP and anchors using the stuff here as a guideline. We're fighting against literal machines here, son. If you ever fancied yourself being John Connor, now's your chance. Good luck!
 
@@ -44,6 +44,12 @@ Yes.
 
 Previous thread: **(link to previous thread, then a brief summary of that thread)**
 /wg/ rentry: https://rentry.org/wgrentry/
+
+## /wg/ Writing Rumble Voting Form
+
+The voting form for /wg/'s Writing Rumble is already up! Check it out (it has a nice picture of Subaru at the bottom): https://docs.google.com/forms/d/e/1FAIpQLSdlEP3lOlGJI42lNOAcrM1Lr0rGcxZAGhdF7sl371xLhYsbTg/viewform?usp=sf_link
+
+Voting closes on the 4th of September, 11:59PM UTC -12 to give you guys some extra time to read.
 
 ## Story Anchor
 

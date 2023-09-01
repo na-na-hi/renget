@@ -51,6 +51,11 @@
 |---|---|---|
 |02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago https://twitter.com/ninomaeinanis/status/1686903752211791878|
 
+###### 🔎 Ame
+|Date|Link|Nature & Notes|
+|---|---|---|
+|02/08/2023|[Timetamp](https://www.youtube.com/watch?v=Eohgz-xh7Jw&t=14267s) | **Borderline Mention** - Not a direct mention, Ame had apparently joined a private VC session between Kiara and Nerissa anytime near the 02/08/2023 stream from Kiara.|
+
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Council
 
 ###### 🌿 Fauna
@@ -108,7 +113,7 @@
 |18/08/2023|[Nerissa's POV](https://youtu.be/T40-yg1CEgE)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](https://www.youtube.com/watch?v=1L6uZUwIx0o) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=EDeLwLudnqA)) - Shiori was absent|
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
 |25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
-|01/09/2023|[Nerissa's POV](-)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](-), [Bijou](-) and the [FUWAMOCO Twins](-) on Pico Park|
+|01/09/2023|[On Shiori's channel](https://www.youtube.com/watch?v=ccl7GxH0Osk)| **Collab** - Fifth HoloAdvent Group collab with Shiori, Bijou and the FUWAMOCO Twins on Pico Park|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
