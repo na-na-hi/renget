@@ -9,16 +9,18 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 Blocking API URL: ```https://task-valentine-scanners-again.trycloudflare.com/api```
 
+***
+System prompt and Sequences below are for old SillyTavern versions, upgrade yours for the cookie-cutter template that works better.
+
 **System prompt:**
 ```
-### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
+Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
 ```
 
 **Sequences:**
-Input Sequence: ` ` (Yes, leave this field blank)
-Output Sequence: ` ` (Blank like above)
-Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
-Stop Sequence: `</s>`
+Input Sequence: ` ### INSTRUCTION:`
+Output Sequence: ` ### RESPONSE:`
+***
 
 **Recommended parameters for this model:**
 ```
@@ -44,10 +46,11 @@ Mirostat Eta: 0.4 - learning rate
  ![T](https://files.catbox.moe/sl6hbc.png)
 
 ##### 2. Advanced menu:
- ![T](https://files.catbox.moe/j2looh.png)
+ ![T](https://files.catbox.moe/qrt7mp.png)
 
-Not seeing some sequence fields? Update your SillyTavern:
+Just use the simple-proxy-for-tavern template. Not seeing it? Update your SillyTavern:
 ```
+cd SillyTavern/
 git stash
 git checkout staging
 git pull origin staging
@@ -62,6 +65,7 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 - Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use simple-proxy-for-tavern.
 Here's an ideal card that will generate medium responses: https://files.catbox.moe/3nl7d8.png
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
+- If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.
 - Asterisks in replies are fucked? Stop using them.
 - If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again.
 

@@ -34,12 +34,12 @@ Anger Shell | While below ½ HP, the User's Attack, Special Attack, and Speed ar
 Anticipation | The User is alerted if any Opponents know Super-Effective Moves.
 **Arena Trap** | The User's Basic Attack has a ≥11 chance to afflict *Immobilized*.
 **Armor Tail** | The User may enchant 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
-Aroma Veil | The User and their Allies are immune to Move-disabling effects.
+Aroma Veil | The User may protect 3 Allies from the effects of Move-disabling effects.
 As One | Stupid.
 Aura Break | The effects of Aura Abilities are reversed. 1-10; Aura Moves of all nearby Pokemon miss. 
 Bad Dreams | Sleeping Pokémon are afflicted with *Nightmare*.
 **Ball Fetch** | If an Item is used and fails, the User recovers the Item.
-Battery | Nearby Allies' damage with Special Moves is increased by 2.
+Battery | The User may energize 3 Allies to increase their damage with Special Moves by 2.
 Battle Armor | The User is damaged normally by Critical Hits.
 Battle Bond | The User changes into Ash-Greninja after KO'ing an opponent. 
 Beads of Ruin | Opponents have their Special Defense decreased by 2.
@@ -92,7 +92,7 @@ Filter | Super-Effective Moves used against the User have their damage decreased
 Flame Body | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Burned.
 Flare Boost | While Burned, the User's Special Moves have their damage increased by 3.
 Flash Fire | When the User is hit by a Fire-Type Move, the damage of Fire-Type Moves is increased by 5. The User is immune to Fire-Type Moves.
-Flower Gift | While in Harsh Sunlight, the User and their Allies' Attack and Special Defense is increased by 1, and Cherrim is changed into Sunshine Form.
+Flower Gift | While in Harsh Sunlight, the User and 3 Allies have their Attack and Special Defense increased by 1, and Cherrim is changed into Sunshine Form.
 **Fluffy** | The damage done to the User by Physical Moves is decreased by 3. The User is weak to Fire-Type Moves.
 Forecast | The User changes Types to adapt to different Weather Conditions.
 Forewarn | The User can sense the strongest Move an Opponent has.
@@ -193,7 +193,7 @@ Poison Heal | When the User is Poisoned, they gain the HP they would normally lo
 Poison Point | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Poisoned.
 Power Construct | - 
 Power of Alchemy | The User copies an Ally's Ability after they faint, replacing Power of Alchemy.
-Power Spot | The User increases the damage of all Allies' Moves by 3.
+Power Spot | The User may inspire 3 Allies to increase damage of Moves by 3. 
 Prankster | The User's Status Moves have their AP decreased by 1.
 **Pressure** | The User exerts their Pressure, increasing Opponents' actions' AP cost by 1 if possible.
 Primordial Sea | The User may summon Heavy Rain once per battle.
@@ -262,7 +262,7 @@ Static | When the User is hit by a Physical Move with a roll less than or equal 
 Steadfast | When the User Flinches, their Speed is increased by 1.
 **Steam Engine** | The User
 Steelworker | The User's Steel-Type Moves have STAB.
-Steely Spirit | The User and their Allies' Steel-Type Moves have their damage increased by 3. This Ability stacks with itself.
+Steely Spirit | The User and three Allies' Steel-Type Moves have their damage increased by 3. This Ability stacks with itself.
 Stench | When an Opponent is hit by the User with a roll of or above 19, the Opponent Flinches.
 Sticky Hold | The User's Worn Item cannot be stolen.
 **Storm Drain** | When the User is hit by a Water-Type Move, they are damaged normally and store the damage indefinitely. While storing, they may Brace their Body or Mind depending on the Property of the Move they were hit by and unleash the damage at an Opponent.
@@ -273,7 +273,7 @@ Super Luck | The User's Critical Hit Ratio is increased by 1. Moves Crit at 18-2
 **Supreme Overlord** | For every Ally lost, the User's Attack and Special Attack are increased by 1.
 **Surge Surfer** | While in Electric Terrain, the User's Evasion is increased to 2.
 Swarm | While below ⅓ HP, the damage of the User's Bug-Type moves is increased by 5.
-Sweet Veil | The User and their Allies are immune to Sleep.
+Sweet Veil | The User and three Allies are immune to Sleep.
 Swift Swim | While in Rain, the User's Evasion is increased by 1.
 Sword of Ruin | Opponents have their Defense decreased by 2.
 **Symbiosis** | The User may give an Item to an Ally for no AP cost.
@@ -308,7 +308,7 @@ Wandering Spirit | When the User is hit by a Physical Move, the Opponent's Abili
 Water Absorb | The User heals 2 HP from Water-Type Moves. The User is immune to Water-Type Moves.
 Water Bubble | The User's Water-Type Moves have their damage increased by 3. The Opponent's Fire-Type Moves have their damage decreased by 3 against the User. The User is immune to Burn.
 Water Compaction | When hit by a Water-Type Move, the User's Defense is increased by 2. 
-Water Veil | The User and their Allies are immune to Burn.
+Water Veil | The User and three Allies are immune to Burn.
 Weak Armor | When the User is hit by a Physical Move, their Defense is decreased by 2, and their Speed is increased by 1.
 Well-Baked Body | When hit by a Fire-Type Move, the User's Defense is increased by 2. The User is immune to Fire-Type Moves.
 White Smoke | The User's Stats cannot be decreased by Opponents.
@@ -318,7 +318,7 @@ Wind Rider | When the User is hit by a Wind Move or Tailwind, their Attack is in
 Wonder Guard | The User is immune to all non-Super-Effective Moves once per battle.
 Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to ≥11 against the User.
 Zen Mode | The User is changed into Zen Mode at ½ HP.
-**Zero to Hero** | The User is changed into Hero Form after 2 turns. In Hero Form, the User's Attack is increased by 2, and Special Attack is increased by 1.
+**Zero to Hero** | The User is changed into Hero Form after 2 turns. In Hero Form, the User's Attack is increased by 3, and Special Attack is increased by 1.
 
 ## IQ Skills
 !!! warning Every Pokémon has access to IQ Skills. Only as many IQ Skills as there is IP remaining can be slotted into the active slots at a time, however, a Character may collect as many skills as they can afford.

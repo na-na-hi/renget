@@ -50,8 +50,11 @@ https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
 ---
 ##### FAQ
 
+Q: {{query}}
+A: {{answer}}
+
 Q: Do you still make bots?
-A: yes.
+A: yes; I am alive.
 
 Q: Do you post cards using alts?
 A: no.
@@ -67,6 +70,9 @@ A: never, and neither does she.
 
 Q: Do you run a proxy?
 A: no.
+
+Q: ですか?
+A: です.
 
 ---
 

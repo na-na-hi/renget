@@ -185,11 +185,11 @@ A team:
 
 AP Cost | STAB | Not Very Effective (¼) | Not Very Effective (½) | Super-Effective (2x) | Super-Effective (4x)
 -------- | ------ | ------ | ------ | ------ | ------
-4 | +1 | -6 | -4 | +4 | +6
-5 | +1 | -6 | -4 | +4 | +6
-6 | +2 | -7 | -5 | +5 | +7
-7 | +2 | -7 | -5 | +5 | +7
-8 | +3 | -8 | -6 | +6 | +8
+4 | +1 | -6 | -3 | +3 | +6
+5 | +1 | -6 | -3 | +3 | +6
+6 | +2 | -7 | -4 | +4 | +7
+7 | +2 | -7 | -4 | +4 | +7
+8 | +3 | -8 | -5 | +5 | +8
 
 ### About Stats
 · | ->· ->
@@ -649,9 +649,9 @@ Cleanse Tile | Whoever steps on this feels a sense of relief! The Activator's St
 
 *AP can also be used for Non-Move actions, such as defending another Character, using Items, or other environmental actions.*
 
-**Guard**: Reactively take an incoming hit for a teammate. This uses a turn.
-**Brace**: Increase Defense or Sp.Def by +4 for the turn.
-**Environment**: A Character can interact with something in the environment around them.
+**Block**: Anticipate (predict) an incoming hit for a teammate, foregoing your resistances. Roll a 1d20, where a value of ≤4 means defensive stats are nullified for the duration of the Block. This uses a turn. Priority moves can bypass a block. Blocking can fail if the user is smaller than the teammate.
+**Brace**: Increase Defense or Sp.Def by +4 and consumes your turn.
+**Environment**: A Character can interact with something in the environment around them. You don't specifically have to say "Environment."
 **Break**: Take no actions for a turn to reset both positive *and* negative Stat changes to their neutral state. It returns to neutral in increments of ±1.
 **Dodge**: A Character can elect to use their AP to Dodge. 1 AP spent Dodging decreases the Hit Chance of an incoming attack by 1, at a ratio of 1:1. (Needs to be tested at different values.)
 **Item**: Use an Item. Items have varying AP costs.

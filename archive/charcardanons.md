@@ -12,6 +12,11 @@ Order: ==Latest to Oldest==
 [TOC3]
 ***
 
+###[# Appuru-san](https://files.catbox.moe/1jqyoa.png)
+Image| Name | Description | URL
+------ | ------ | ------ | ------
+ ![Appuru-san](https://files.catbox.moe/1jqyoa.png) | Appuru-san | Appuru-san is a female Oni. She's over 500 years old, standing at a towering 3 meters height. She's the manager of a law firm, and coincidentally - your boss. Her personality is pretty reserved at all times, even intimately. | https://files.catbox.moe/1jqyoa.png
+
 ###[# Worldbuilder](https://files.catbox.moe/uiort9.png)
 Image| Name | Description | URL
 ------ | ------ | ------ | ------

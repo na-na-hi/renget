@@ -43,7 +43,7 @@ The second new item box that I accidentally found while in the second zone of Sa
 
 Now onto Sonic’s controls: I love them! Unlike the final version of the game where there’s no reason to use the Super Peel Out when compared to the Spin Dash (which also sucks in Sonic CD but it sucks relatively less), there’s no reason to use the Spin Dash compared to the Super Peel Out. Going lightning fast and absolutely shredding through enemies, the only drawback it now has is that you can’t jump while using it. Too bad that doesn’t really hinder me from spamming the move as much as I can. It’s still a shame the Spin Dash sucks as much as it does in Sonic CD but hey at least I get to have fun demolishing enemies at what feels like mach 7 speed, especially considering there’s no timer to halt my fun.
 
-The final thing I noticed was how the special stages were changed. There’s a couple of interesting changes in how they play with oil spills now being scattered throughout the level, the ufos being mostly a gray color instead of the typical purple, and the ability to stop whenever which makes all these stages extremely trivial. What really stood out however in the most literal sense was the now present giant Eggman head always staring at me from the background. It didn’t do anything, I think, just kinda creeped me out while I was collecting the Time Stones.
+The final thing I noticed was how the special stages were changed. There’s a couple of interesting changes in how they play with oil spills now being scattered throughout the level, the UFOs being mostly a gray color instead of the typical purple, and the ability to stop whenever which makes all these stages extremely trivial. What really stood out however in the most literal sense was the now present giant Eggman head always staring at me from the background. It didn’t do anything, just creeped me out while I was collecting the Time Stones.
 
 Besides all that I mentioned it was still mostly the okayish Green Hill clone that I remember, just under a new name and with some little changes here and there.
 
@@ -116,3 +116,109 @@ Funnily enough, now not having to worry about the weird-looking Metal Sonic and 
 By the time the time monitor runs out I can see the end of the zone peeking from the edges of my purview. I rush past the Goal Post and exit the stage.
 
 Time for Collision Chaos.
+
+Now standing atop a pink floor, white and blue machinery scattered behind me, in the background heaps of mountains and a sunset giving the sky a dark blue shade, I was finally where I was supposed to be.
+
+Moving to the right I had already come in with the expectation that there’d be no Amy here to give me breathing room, the special stages now my substitute for meditation. When I finally got to where she was supposed to be and saw no trace of her I kept moving in hopes that the tunnel wouldn't have multiple spikes blocking me from entering, and from the greatness of Lady Luck herself my wish was granted.
+
+Charging up my Peel Out I tried to get as close to the end in the little time I felt I had. Popping out of the tunnel I saw him flying from above, but I also noticed an opportunity.
+
+Passing by a Future Time Warp sign I made a mad dash away from Metal Sonic, not only to save my skin but also to build up enough speed to go to the future. Everytime he shot at me and missed it felt like a coin flip, I knew I wasn’t always gonna land heads. Going into the future was my only shot at possibly not having to deal with his electro shock therapy.
+
+Having racked up enough speed I was propelled into a psychedelic haze, traveling through the unknown as multitudes of colors flashed around me until I reappeared in reality.
+
+Looking around I was inside some sort of factory. The wall’s paint coming off, the machines around me heavily rusted yet continuing to do their job, albeit at a snail’s pace, a vast network of conveyor belts, most of which seemingly leading in the same direction. The only feature this area had that resembled the present was the sunset  present throughout the abandoned factory, only known because of the holes plaguing the roof. I hopped on top of one of the conveyor belts, did a pose for one of the many cameras infesting the room, and began my descent into the future. 
+
+As the rackety belts of the factory transported me around this rundown labyrinth, skirting by the occasional compressor that threatened to turn me into a red paste, I gazed upon the world of the forgotten: ladybugs with chipped wings, colorless moths endlessly circling the machinery till a crusher put them out of their misery. Through the belt’s gaps I saw a mantis without his metallic claws, aimlessly dragging his body along the floor as his right eye barely hung onto what little remained of his head.
+
+My ride out of this orphanage for the metallically disabled came to a halt when the factory’s flatteners brought the ceiling almost down to the floor, forcing me to move over them onto the railing lining the building’s walls. So too was this new voyage stopped when from the end of the path lay a teleporter, my desperation luring to jump in.
+
+Coming out the other side with my heart still in my chest I stared in awe as I saw a scourge of mosquitoes, the needles from their heads mangled with each other’s, crushed by a tidal wave of robot parts from the funnels above. The mosquitoes now part of the blob, I follow them along the conveyor, falling deeper into the plantation's pits.
+
+As the mass leads the way I use my down-time to scavenge through the piles of scrap I stand atop of. The item boxes, though in as much of a poor condition as the rest of the rubble heap, still function, the effects are as consistent as the quality of the monitors.
+
+The time monitors, instead of stopping time completely, only partially slow it down or in the case of the more shoddy ones, speed up everything. Almost ended up being burnt alive by one of the factory’s heaters because of that.
+
+The other monitors in the plant like the shield, ring, sneakers, and invincibility, act the same. You hit a shield box, expect it to only cover your left. Come across a ring monitor? Good chance you’ll come out with less instead of more. I didn’t encounter any “S” monitors in the blob and I’m glad so, I prefer not being a glowing pile of goo.
+
+With the track ending off at another passage too small for me to fit through I jumped back onto one of the building’s railings, a Goal Post and a Giant Ring waiting for me at the end, finishing off Act 1 of Collision Chaos.
+
+Entering the special stage the UFOs and mud piles were still there, yet Eggman’s disgusting bald head was no longer there in the background, my head now safe from being pierced by his lifeless eyes. Though his putridness no longer blocked out the sun, what awaited me was too a wretched sight: An empty crater, devoid of either organic or artificial life, odd bumps of stone the area’s only landmarks.
+
+The surroundings devoid of purpose I stuck by the only thing that wasn’t a drab yellow, taking down the UFOs and collecting the fifth Time Stone.
+
+Two left.
+
+Still in this hellhole of a future Collision Chaos’ second zone had me greeted by another teleporter. With a quick sign of the cross I went from a man inside an assembly plant as efficient as the DMV to a man still inside the same post office, this time surrounded by computers.
+
+Breaking through a cluster of tangled wires I found myself inside the factory’s base of operations, the “guards” there frightened by my presence. 
+
+I stared in pity as a legless chicken, Its disjointed beak and arm used to operate its control panel, hop off of its chair and slowly crawl over to an emergency switch on the other side of the room. Using this opportunity to take a piss I came back to see it desperately attempting to gain enough momentum to reach the switch, the other equally disfigured animals dreadfully panning what few eyes they had between me and their boss.
+
+Walking out I used the small sympathy I had for these metallic meanies to avoid accidentally crushing them, my pacifism rewarded not by them but by the world when after leaving the alarm went off… for a couple of seconds at which point its shrieking sounds of a seal hanging itself abruptly stopped.
+
+Exploring the rest of the command center I came across similar sights of robots too mutilated to properly gouge my eyes out shrivel in fear as I passed by all their broken down tech. It became such a recurrent sight that in hopes of not boring myself to death I laid my eyes on what they were watching instead.
+
+The dust-covered screens flooding the room, though primarily tracking the factory’s belts and the whereabouts of certain hoards of animals, gave me a sight into what the future was. Salad Plain, once a subtropical region of waterfalls and palm trees, had been reduced to a gravelly graveyard with lakes lacking water.
+
+Dubious Depths, a roofed forest with an extravagant cave system, had become a blistering field of magma, not even the robotic wildlife taking over had remained.
+
+Every screen told a similar story. Tidal Tempest, Quartz Quadrant, Stardust Speedway, Metallic Madness, all zones were gone. The only areas I couldn’t see were the one I was at, Collision Chaos, and Wacky Workbench.
+
+Finally finding an exit out of that mood killer my mood lightens up as a Goal Post and a Giant Ring await me outside, ending off the second act of Collision Chaos. I hop into the ring, defeat the UFOs, and collect my sixth Time Stone.
+
+One left.
+
+The final stage of Collision Chaos has me back in its labyrinth of “assembly” (you actually think anything is being made?) lines, continuing to be carried along downward into the belly of the beast. Though the belts themselves used to be adjacent to one another, going in opposite directions, they all now point in the same direction. I crouch down and let the gears push me forward.
+
+It was not long after I came face-to-face with the end, a pit too far down to see what it contained. Dodging all the hunks of metal that would’ve pushed me in, I accept my fate as I see that all belts lead here, and fall into the unknown.
+
+Landing on a hill of loose robot pieces, item boxes, and bits of metal, I stand up and drudge myself through the heaps of garbage both below and still coming from above to reach the top of the pile.
+
+Waiting right above, it’s him.
+
+Still in perfect condition after all the time that’s passed he floats from above, continuously throwing bolts of lightning at the pile of trash, every shock of his causing bits of it to move.
+
+Moving closer towards him he gives me a quick glance before going back to what he was doing, ignoring me even as I climb above him.
+
+Having almost reached the top of this mountain the sounds of lightning stop as the floor of junk begins shifting around, my balance being lost as I tumble back to the bottom and hit the room’s floor.
+
+Looming above, he distances himself from the pile as it slowly shifts around, a handful of junk forming to swipe down at me. It barely misses, breaking apart upon contact with the ground and causing the pile to scream out in agony.
+
+Stopping its movement, he flies back towards it and turns both of his arms into cannons, repeatedly striking at the pile until it starts up again.
+
+Now in the swing of things, the pile begins its onslaught at me, attempting to crush me with its barely stable hands, every move whether it hits or misses causing it to shriek. Standing on the pile’s feet my ears barely hear its slow murmurs, begging for mercy, pleading to be set free.
+
+With another miss from the pile its master gets angry, overcharging his cannons and causing his servant to shed big chunks of itself, the assortment of scrap metal rolling down its body towards me. 
+
+Amidst all the turmoil I looked above, not at it or its master, but at the manna falling down. Though the occasional item box containing a couple of rings or a slow down for a few precious seconds has helped, I know that the only way I’m gonna win is by gambling my life.
+
+Seeing an “S” monitor drop from the cliffs above I make my move to grab it before it gets consumed by the pile. Dodging a ball filled with its guts, barely passing by a swipe from its makeshift arms, I can now see how shoddy the monitor’s quality is.
+
+Crossing my fingers, I break it open.
+
+Landing back on the monster I start falling into its guts, disintegrating everything I touch. The only sense left being my hearing, I instinctually Peel-Out through as much of the living heap as I can before my powers wear out, hearing all its screeches right against my ears.
+
+Making it out on the other side of the room I turn around to see the back of the beast, its lack of foundation causing it to start imploding on itself. The rushed blasts coming from a man clinging onto scraps of hope dissipate as in its dying breath the monster consumes its master, bringing the room to a deafening silence.
+
+I climb my way up the now inanimate pile of scrap, its carcass a red carpet entrance to the door outside. 
+
+I take a deep breath.
+
+Open the door.
+
+And confirm my worst nightmares.
+
+Like Salad Plain and Dubious Depths, Collision Chaos has become no more than an empty landmass. A waxing crescent being my light source I edge myself further away from the facility until it's but a mere blip in my eyes, my belief in there being more left in the world than this damned facility keeping me going.
+
+Hours have seemingly passed when I accidentally trip over a fake tarp and fall down a flight of stairs, uncovering another facility in this zone.
+
+Stumbling through the base the lights automatically turn on revealing a spotless hideout. In front of me lies a meticulously organized collection of mint-conditioned parts and pieces, all perfectly made to fit him.
+
+Walking through the rest of the base I notice an assortment of pieces hung up on the walls: grass from Salad Plain, bark from Dubious Depths, even some of the metal once used to replace Collision Chaos’ ecosystem.
+
+At the end of the room is a monitor, a Time Warp to the past, and two Springs staring right at each other. Looking into the camera I notice a prison cell with a hedgehog's skeleton inside, the location being Wacky Workbench.
+
+I run past the Time Warp, move between the two springs, and end up at the end of Act 3 of Collision Chaos, the Goal Post right in front of me. I pass it, finishing off Collision Chaos and going onto Temple Tidest.
+
+I know where I’m heading next.

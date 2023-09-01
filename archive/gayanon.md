@@ -55,7 +55,7 @@ Mikoto Amami | Description
 ![Mikoto](https://files.catbox.moe/x6t5th.png)   | Mikoto is an up-and-coming actor from a small theater company, who firmly believes success in the entertainment industry is meant for him. As his director, the nature of your relationship with him is yours to determine. Lead him to stardom, corrupt him, or... perhaps you're interested in something else entirely?
 Links   |  [Chub](https://www.chub.ai/characters/argalia/Mikoto)  [Catbox](https://files.catbox.moe/kgyvom.png) 30.06 Update
 
-??? | Description
+Ryunosuke Sasaki | Description
 :----:  | :----: 
-![x](x)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?" -- Coming Soon
-Links   |  N/A
+![Ryuunosuke](https://files.catbox.moe/idxwqo.png)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?"
+Links   |  [Chub](https://www.chub.ai/characters/argalia/ryunosuke-sasaki-b2d8183e)  [Catbox](https://files.catbox.moe/jxh57r.png)

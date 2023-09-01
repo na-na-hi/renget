@@ -338,6 +338,7 @@
 08/2023|[OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137)
 08/2023|[Accelerating LLM Inference with Staged Speculative Decoding](https://arxiv.org/abs/2308.04623)
 08/2023|[YaRN: Efficient Context Window Extension of Large Language Models](https://archive.ph/EpDbW)
+08/2023|[LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models](https://arxiv.org/abs/2308.16137)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

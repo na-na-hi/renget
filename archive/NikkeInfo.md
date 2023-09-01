@@ -56,10 +56,10 @@ You can level whoever you want at the beginning and progress with that, just mak
 
 Now, this is important: depending on the number of dupes of a unit you have, they can get to a higher level
 For example this is a SR with 2 dupes (LB2) and a SSR with 0 dupes (LB0)
-![SR LB2](https://i.imgur.com/toV782l.png)![SSR LB0](https://i.imgur.com/ugEjZNd.png)
-As you can see the SR can get up to lvl160 but the SSR only to 80
+![SR LB2](https://i.imgur.com/toV782l.png)![SSR LB0](https://i.imgur.com/TLONLXz.png)
+As you can see both can get up to lvl160 but the SSR but the SR needs 2 dupes to do so
 !!!danger THIS IS VERY VERY IMPORTANT, YOU NEED TO PLAN FOR THIS FROM THE START OF THE GAME
-To be able to get past lvl 160 you need a SSR unit at LB3, that means getting that unit 4 times
+To be able to get past lvl 160 you need an SSR unit at LB3, that means getting that unit 4 times
 And you need 5 units at LB3 or you'll be stuck at lvl 160 for MONTHS/FOREVER
 You will see this commonly referred as the 160 wall, and the anons stuck there as walled
 I'll explain more about the wall after, now we continue with the leveling
@@ -67,7 +67,8 @@ After you beat stage 4-15 you will unlock a building called the Synchro Device, 
 ![empty sync](https://i.imgur.com/uHyko77.png)
 
 The device automatically takes your 5 highest leveled Nikkes and lets you sync other Nikkes to that level
-So the play is to reset the units you have been using on the campaign until then, for 10 gems each, and level 5 SR units that you have at LB2 EQUALLY
+So the play is to reset the units you have been using on the campaign until then, for 10 gems each, and level 5 SSR or SRs that you have at LB2 EQUALLY
+Usually SSRs are better so if you have to choose level the SSRs, this will save you sync slots
 ![Resetting levels](https://i.imgur.com/H7cuG0a.png)
 
 You get refunded all the materials except skill manuals, so be careful about that. You can get up to this point with all the skills at level 1 so you can take your time leveling skills until you have a broader understanding of the good/meta units (or someone spoonfeds you)
