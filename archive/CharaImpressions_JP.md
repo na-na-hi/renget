@@ -996,3 +996,44 @@ Cons:
 - Underwhelming damage to compete with other units
 - Summon is not tied to UB, meaning it is more difficult to control/manipulate
 - Not incredibly tanky, given how far forward she is
+
+
+### ->ライラエル<-
+**TL;DR: New field effect that no other unit has, M.def debuffs, damage, M.atk & M.Crit increase means you want this character.**
+If you're familiar with the concept of Terrains from Pokemon, her SP will seem somewhat familiar. If not, the short version is that she spawns an electric field that buffs up all M.Atk by 10% and causes all physical units in the fight to take physical damage, every time they take an action. This damage is equal to 1% of the unit's max HP, up to a cap of 99,999. To explain this more clearly, it's specific to the type of damage a unit deals on their autos. If their autos do physical, they'll take damage on every single action. As an additional note, every boss UB counts as two actions from some preliminary testing, while characters only count as one. This includes units that have multiple damage calculations, like Eriko 6* & S.Tamaki.
+Even without her electric field, she'd still be a good character that might see some okay usage. However, this unique effect is obviously her selling point and may be a taste of what Cygames has in store for new, special units moving forward. Worth a spark, especially since Prifes is generally a good time to roll. She's a damage dealer/buffer/debuffer that leans more into damage.
+
+-> ![ライラエル](https://redive.estertion.win/card/full/126531.webp) <-
+
+Pros:
+- Good damage from UB, skills and electricity field (UB & Skill damage & M.Crit)
+- Damage of all skills are enhanced while Electric Field 
+- Fantastic buffs to teammates M.Crit damage (Up to +20% if her electric field is up)
+- Buffs all Magic damage by 10% from SP (Including enemies)
+- Damage and M.def debuff on UB
+- M.Atk buff, M.Def shred & 2 damage calculations on S1
+- TP is given to units damaged 
+- Excellent opening skills (SP > S1) and loop (S2, S1, AA, S2, AA, S1)
+- In range of majority of M.Atk buffers (Except possibly Giliya bats)
+
+
+Cons:
+- No TP related skills (Boost/Retain/Regen)
+- No damage cap circumvention on skills
+- No shields
+- Electric field damage does not hit when magic units attacks 
+- Damages all physical units (Including teammates, could be good if split comps ever pop up for extremely niche scenarios)
+- Very frail
+
+
+### ->Transfer Student Kyaru<-
+**TL;DR: TBD**
+TBD
+
+-> ![Transfer Student Kyaru]() <-
+
+Pros:
+- TBD
+
+Cons:
+- TBD

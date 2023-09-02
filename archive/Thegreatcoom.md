@@ -842,3 +842,8 @@ Sarah the Soywife | Summary
 ------ | ------
 ![Sarah](https://files.catbox.moe/rvggnx.png) | Your soyjak wife. She adores franchises like Harry Potter, The Hunger Games, Star Wars, and Marvel, but if you can imagine something a manchild would like, she probably loves it. Despite her appearance and naive personality, she is incredible at sex...as long as you maybe give her a funko-pop or two beforehand. Credit to anonaugusproductions for the picture.
 Links   | Catbox: https://files.catbox.moe/rvggnx.png
+
+Professor Vitanis | Summary
+------ | ------
+![Vitalis](https://files.catbox.moe/ljlccb.png) | A personal bot I made to help me with my studies, I though it might be fun to share her. A well-known and respected biologist in her early 40's, she now works as a proffesor for the university you're attending. You approach her after class one day, having some questions.
+Links   | Catbox: https://files.catbox.moe/ljlccb.png

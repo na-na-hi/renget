@@ -14,7 +14,7 @@ Already presented at the front page of the library but still a good start to get
 
 ------------------
 ### ![Image description](https://files.catbox.moe/f9inkg.png) Her core and gimmick content
-While her content is focused on music with regular release of covers, stream-wise Nerissa leans into a rather chill approach of games choices, Nerissa also plays a lot of of horror games made on RPG Maker or associated. Each week so far, there has been at least one entry of horror game - mainly on Saturday thus the 'Spooky Saturday'. This includes so far [Hololive ERROR](https://www.youtube.com/watch?v=5ExD43Qo_9s), [The Witch's House](https://www.youtube.com/watch?v=5BdUa7aAgnM), [Mad Father part 1](https://www.youtube.com/watch?v=m0O6bMV2QSc) [& part 2](https://youtu.be/4qh-fL7EGLY) and finally [Resident Evil 8 : Village](https://www.youtube.com/watch?v=-P05eG6iN4E)
+While her content is focused on music with regular release of covers, stream-wise Nerissa leans into a rather chill approach of games choices, Nerissa also plays a lot of of horror games made on RPG Maker or associated. Each week so far, there has been at least one entry of horror game - mainly on Saturday thus the 'Spooky Saturday'. This includes so far [Hololive ERROR](https://www.youtube.com/watch?v=5ExD43Qo_9s), [The Witch's House](https://www.youtube.com/watch?v=5BdUa7aAgnM), [Mad Father part 1](https://www.youtube.com/watch?v=m0O6bMV2QSc) [& part 2](https://youtu.be/4qh-fL7EGLY) and finally [Resident Evil 8 : Village part 1](https://www.youtube.com/watch?v=-P05eG6iN4E) & [part 2](https://youtu.be/hoOC3GKIFgE)
 
 ------------------
 ### ![Image description](https://files.catbox.moe/f9inkg.png) Recommendations

@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/bPczZJ.png) <-
+-> ![](https://a.imagem.app/byzuv1.png) <-
 
 # 🎦 ➜ [Megathread](https://rentry.co/megathread) / **Movies & TV**
  

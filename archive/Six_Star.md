@@ -773,14 +773,14 @@ New player Unit priority: Low
 
 
 ## -> Makoto <- (JP Release Date: Year 6, September)
-From the most useless unit in the game to a potential niche, there's certainly some hope for Matsuri. Not a lot though.
+TBD
 - UB+: TBD
 - CB: TBD
 - Arena: TBD
 - PvE: TBD
 - TBD
 
-Bond story priority: TBD (Relevant units: )
+Bond story priority: TBD (Relevant units: None)
 Max level Unit priority: TBD
 New player Unit priority: TBD
 [Return to Top](https://rentry.org/Six_Star)

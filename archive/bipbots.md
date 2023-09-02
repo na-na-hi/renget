@@ -6,14 +6,30 @@
 [TOC]
 
 ## How to convert ST lorebooks into Agnai lorebooks
-Install `jq` and paste the command below in your terminal
+
+[Install jq](https://jqlang.github.io/jq/), then follow the instruction according to your shell and operating system.
+
+### Linux, macOS, Cygwin, MSYS2
+
+run the command below in your terminal
 ```
-jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description,
-kind: "memory",
-name: $name,
-entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
+jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description, kind: "memory", name: $name, entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
 ```
+
+### Windows' `cmd.exe`
+
+First run
+```
+chcp 65001
+```
+then
+```
+jq -s --arg description "DESCRIPTION" --arg name "NAME" "{ description: $description, kind: \"memory\", name: $name, entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }" ST_LOREBOOK > AGNAI_LOREBOOK
+```
+
 Change ST_LOREBOOK, AGNAI_LOREBOOK, DESCRIPTION, and NAME according to your needs.
+!!! danger
+	Avoid using the Powershell included by default in Windows, since it creates a file that agnai cannot properly read.
 
 ## Character.ai and Tavern
 I am not very active on character.ai anymore, and nowadays I concentrate on creating OAI bots. I am always happy to receive thoughtful comments from people who use my bots, so feel free to leave feedback at https://www.chub.ai/users/bipbop or on my shill posts on /aicg/.

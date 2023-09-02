@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** **Mythomax-l2-13b-q4 scaled to 8k**
+**Model:** **Mythomax-l2-q4 scaled to 8k**
 
-Blocking API URL: ```https://colorado-recruiting-sl-her.trycloudflare.com```
+Blocking API URL: ```https://seattle-composition-test-hewlett.trycloudflare.com/api```
 
 ***
 **System prompt:**

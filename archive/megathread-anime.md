@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/bPcG5a.png) <-
+-> ![](https://a.imagem.app/byzQFt.png) <-
 
 # ⭐ ➜ [Megathread](https://rentry.co/megathread) / **Anime**
  
