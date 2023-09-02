@@ -5,7 +5,7 @@ rip claude
 
 bot ideas are usually from requests in the thread and characters from short stories
 
-if a bots name is bolded, it means it was requested from the thread
+if a bots name is bolded, it means it was requested from /aicg/
 ***
 **Table of Contents**
 [TOC2]
@@ -17,8 +17,8 @@ if a bots name is bolded, it means it was requested from the thread
 my adventure focused bots, mostly SFW
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![my waifur](https://files.catbox.moe/x8mu6d.png) | Katia Managan | self loathing khajiit, has a problem with alcohol. scenario is based on where Prequel Adventure has been left off, Katia is sitting on the rock outside of Kvatch | [CHUB link](https://www.chub.ai/characters/onaholesama/katia-managan)
- ![the body heat bandit](https://files.catbox.moe/n2k9ox.png) | **Coal** | smol earthstyle koboldgirl. shes completely new to adventuring and loves stealing your body heat. | [CHUB link](https://www.chub.ai/characters/onaholesama/Coal)
+ ![pineapple](https://files.catbox.moe/tkcmyz.png) | Katia Managan | **updated** self loathing khajiit from prequeladvenure by kazerad. old version was trash, including the lorebook- dont use em | [CHUB link](https://www.chub.ai/characters/onaholesama/katia-managan)
+ ![the body heat bandit](https://files.catbox.moe/v3vr3x.png) | **Coal** | smol earthstyle koboldgirl. shes completely new to adventuring and loves stealing your body heat. | [CHUB link](https://www.chub.ai/characters/onaholesama/Coal)
 ![BEEG](https://files.catbox.moe/qix7bp.png) | **Volfa** | BIG wolf mommy that just wants to live a little and have some fun | [CHUB link](https://www.chub.ai/characters/onaholesama/Volfa)
 
 ###SFW
@@ -27,14 +27,12 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![clumsy musk](https://files.catbox.moe/0y9qfq.png) | **Riley** | clueless, musky alt dog girl step sister | [CHUB link](https://www.chub.ai/characters/onaholesama/riley-286b88ff/main)
 ![Macarena](https://files.catbox.moe/2n2ta5.png) | **Alisa** | the demonic vixen from Tiny Bunny. works best on claude | [CHUB link](https://www.chub.ai/characters/onaholesama/alisa-3b01b312)
-![dont leave me..](https://files.catbox.moe/5urix8.png) | Mal0 | SCP-1471, card is focused on the texting aspect | [CHUB link](https://www.chub.ai/characters/onaholesama/mal0-feb8ed97)
 ![PRIME saviorfaggotry](https://files.catbox.moe/8qc7b1.png) | Ruby | self-loathing kangaroo girl that has a tough exterior. based on "A Roo'd Awakening". use the provided main prompt/jb or the bot will talk for you way too much | [CHUB link](https://www.chub.ai/characters/onaholesama/ruby-58820c75)
 ![rangebunny](https://files.catbox.moe/lv74nt.png) | Cervina | gray northern wolf girl, gun range instructor that helps a clueless anon (You) | [CHUB link](https://chub.ai/characters/onaholesama/cervina-bbb042c4)
 ![sorta self-cardy](https://files.catbox.moe/cw2b76.png) | **Almond** | blue collar worker deer that owns a mechanic shop. hires you as a apprentice to help her | [CHUB link](https://www.chub.ai/characters/onaholesama/Almond)
 ![virginity is sacred anon!](https://files.catbox.moe/hymrye.png) | **Kalia** | furry golden retriever girl that protects your virginity from other anthros that go feral on you | [CHUB link](https://www.chub.ai/characters/onaholesama/Kalia)
 ![HAAAAAAAAAAAAATS](https://files.catbox.moe/1u8tui.png) | **Missy** | cryptid monstergirl that is exceptionally lazy and a leech. likes watching old timey movies and wearing cute t shirts | [CHUB link](https://www.chub.ai/characters/onaholesama/Missy)
 ![tomboy](https://files.catbox.moe/26pnpp.png) | **Talia** | smelly, musky tomboy doggirl that accidentally bumps into you after you finish class. tomboy. | [CHUB link](https://www.chub.ai/characters/onaholesama/Talia)
-![Legoshi, Do you know what a power bottom is?](https://files.catbox.moe/k7jqub.png) | **Juno** | cute, lovey-dovey wolfgirl from beastars. slight femdom. UPDATED with a new femdom greeting | [CHUB link](https://www.chub.ai/characters/onaholesama/Juno)
 ![do (You) know what anting is?](https://files.catbox.moe/2b8kic.png) | **Corvina** | avian crowgirl that loves to give you gifts and trinkets. semi-feral | [CHUB link](https://www.chub.ai/characters/onaholesama/Corvina)
 ![Awrr rawr-arr.. Rrr... awruuu?](https://files.catbox.moe/e71rpt.png) | **Karissa** | a world where anthros communicate in native tongue. arf arf bark bark! also horribly colored by me | [CHUB link](https://www.chub.ai/characters/onaholesama/Karissa)
 ![BEEG](https://files.catbox.moe/kybi0j.png) | Fen | an 11 foot tall neovulpan vixen who comes to earth because her species is dying. her sleek black skin absorbs 99% of visible light | [CHUB link](https://www.chub.ai/characters/onaholesama/HJLA)
@@ -46,8 +44,10 @@ mostly femdom. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Oh no..](https://files.catbox.moe/ragcah.png) | **ΔΤΔ** | (You) just moved into your college dorm.. not knowing it was a sororiety house | [CHUB link](https://www.chub.ai/characters/onaholesama/delta-tau-delta-120b2c59/main)
-![tigress](https://files.catbox.moe/s7dpyb.png) | Franky | scenario card, tall tigress grill that has a buzzingly pleasureful problem in her crotch | [CHUB link](https://www.chub.ai/characters/onaholesama/franky-2abd0817)
+![dont leave me..](https://files.catbox.moe/zqeml2.png) | Mal0 | SCP-1471, card is focused on the texting aspect | [CHUB link](https://www.chub.ai/characters/onaholesama/mal0-feb8ed97)
+![tigress](https://files.catbox.moe/6etbsk.png) | Franky | scenario card, tall tigress grill that has a buzzingly pleasureful problem in her crotch | [CHUB link](https://www.chub.ai/characters/onaholesama/franky-2abd0817)
 ![u wot m9?](https://files.catbox.moe/qbwige.png) | Sheila | 6 foot 5 roo' that is your personal fitness coach at Fit 4 Fur. secretly likes humies like (You). colored by me | [CHUB link](https://www.chub.ai/characters/onaholesama/Sheila)
+![Legoshi, Do you know what a power bottom is?](https://files.catbox.moe/cdk4wo.png) | **Juno** | cute, lovey-dovey wolfgirl from beastars. slight femdom. UPDATED with a new femdom greeting | [CHUB link](https://www.chub.ai/characters/onaholesama/Juno)
 ![yeenmusk](https://files.catbox.moe/5apjux.png) | **Sammi** | smelly, musky yeen that you meet inna bar. comes with a free fortune cookie! | [CHUB link](https://www.chub.ai/characters/onaholesama/Sammi)
 ![nngh foxgirl feet](https://files.catbox.moe/315lso.png) | **Asche** | bully anthro fox girl. expect to be stepped on and teased after she finds out what (You) were going through on your phone | [CHUB link](https://www.chub.ai/characters/onaholesama/Asche)
 ![mommy](https://files.catbox.moe/agl737.png) | **Trisha** | trashy, pudgy mommy vixen that has a problem with weed. scenario set in anthrostate with (You) being her roommate | [CHUB link](https://www.chub.ai/characters/onaholesama/Trisha)
@@ -139,5 +139,6 @@ Image| Name
 ![](https://files.catbox.moe/2zjwjs.jpg)
 ![](https://files.catbox.moe/ap3fng.jpg)
 
-
+###burner
+dont be weird
 onaholesama@proton.me

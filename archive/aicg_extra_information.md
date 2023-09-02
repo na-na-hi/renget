@@ -155,6 +155,10 @@ https://rentry.org/mikugg-emotions-tutorial
 **Very large and detailed image generation styles prompts database**
 https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205
 
+**Other other**
+https://rentry.org/vtai/
+- stolen from /vt/, "/vtai/ - VTuber AI-generated Images", very extensive set of guides on doing *local* image generation
+
 ***
 
 !!! info

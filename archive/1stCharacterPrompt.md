@@ -1,5 +1,4 @@
-Some of these might be a stretch but managed to think of at least one question for almost everyone.
-Anyway, Prompts!: (Do not feel compelled to answer a prompt directed to you, or conversely /not/ answer a prompt not directed to you (if applicable). They're just to spark discussion/writing.)
+Some of these might be a stretch but managed to think of at least one question for almost everyone. Anyway, Prompts!: (Do not feel compelled to answer a prompt directed to you, or conversely /not/ answer a prompt not directed to you (if applicable). They're just to spark discussion/writing.)
 
 ##General Questions:
 

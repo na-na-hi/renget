@@ -30,6 +30,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gitty](https://files.catbox.moe/36qwk1.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Babe](https://files.catbox.moe/fixad9.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Zainab Fadel](https://files.catbox.moe/h1hith.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry ||[Mal0](https://files.catbox.moe/zqeml2.png), [Franky](https://files.catbox.moe/6etbsk.png), [Juno](https://files.catbox.moe/cdk4wo.png), [Coal](https://files.catbox.moe/v3vr3x.png), [Katia Managan](https://files.catbox.moe/tkcmyz.png)
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
@@ -37,10 +39,8 @@ Botmaker | Category | New Bots | Updated Bots
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Sayori](https://files.catbox.moe/dhwkzx.png)
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Huyen](https://files.catbox.moe/uxn0ii.png)
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
@@ -81,8 +81,8 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
+[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

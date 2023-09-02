@@ -207,10 +207,11 @@
 -> [Civitai](https://civitai.com/models/121370/nerissa-ravencroft) <-
 
 #### -> (HoloAdvent) Shiori Novella <-
-!!! note Recommended weight: 1
+!!! warning Current Example prompt and recommended weight were for the older version of the lora that was removed, i'll get to it ASAP! x.x
+!!! note Recommended weight: EMPTY FOR NOW
 !!! info Example Prompt
-	(ShioriNovella, hair ornament, fur trim, black jacket, off shoulder, dress, choker, belt, single thighhigh, asymmetrical legwear)
--> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/folder/sbgy2CoZ) <-
+	EMPTY FOR NOW
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/UW4WVLrA) <-
 
 ### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
