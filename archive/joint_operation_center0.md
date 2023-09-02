@@ -26,7 +26,7 @@ Lewds : #depravencrafts on Twitter
 
 
 !!! info
-     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Library & Streams**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Practical informations (streams, music library, membership)**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [Demonry of Sound](https://rentry.org/karaokes_songs_v0)
 The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
@@ -34,9 +34,16 @@ The music corner where you can find all the links for the music releases and the
 A stream curated list based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendation and based on the future stream.
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams)
 A page dedicated to the membership content - will contain general informations and a list of the mengens with a short description.
-!!! warning Still in a state of a skeleton - will just contain the general informations until the first mengen frame pops up.
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
-What should be the most labyrinthine collection of pages of all the library: this is where you can find all the collabs Nerissia took part of, be it on her own channel or in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly and monthly.
+!!! warning The list of stream proper is still in a state of a skeleton - the page will just contain the general informations until the first mengen frame pops up.
+
+!!! info
+     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **The Lover of Idols (collab pages)**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols I - Collabs on Nerissa's channel](https://rentry.org/Collabs_on_Nerissa_s_channels)
+A list of all the collab Nerissa took part of on her own channel. Was made for clarification and presentation sake and to unclogged the original Lover of Idols page.
+
+##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols II - Collabs on other channels & Mentions](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
+What should be the most labyrinthine collection of pages of all the library: this is where you can find all the collabs Nerissia took part of, be it on in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly and monthly.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Technical**  ![Image description](https://files.catbox.moe/f9inkg.png) <-

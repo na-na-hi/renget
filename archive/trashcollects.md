@@ -857,6 +857,14 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/red94x.rar
 
+# clarice (starhell by pokyuii)
+
+	https://files.catbox.moe/rxckve.rar
+
+# lana (by pulp)
+
+	https://files.catbox.moe/pj785p.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -13,7 +13,7 @@
 
 run the command below in your terminal
 ```
-jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description, kind: "memory", name: $name, entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: 0, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
+jq -s --arg description "DESCRIPTION" --arg name "NAME" '{ description: $description, kind: "memory", name: $name, entries: [ .[].entries | to_entries[].value | { name: .key[0], enabled: true, priority: .order, weight: .order, keywords: [ .key[], .keysecondary[] ], entry: .content } ] }' ST_LOREBOOK > AGNAI_LOREBOOK
 ```
 
 ### Windows' `cmd.exe`

@@ -18,10 +18,11 @@ Main page|
 	**RUS:** Я устал и отдыхаю до выхода новой сетки. Отвечаю только на почте и ((там)). 
 
 ######CHOOSE PREFERED VERSION:
-!!! note I prefer v10.1/v11 right now
+!!! note I prefer using the latest version.
 Date | Update | Description
  |  | 
-30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | Variates assistant's reply start.
+02.09.2023 |  [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
+30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | Variates assistant's reply start (IDK if it's usefull).
 23.08.2023 |  [V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
 16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 14.08.2023 |  A minor V9 update | Added one little sentence in prefill to keep characters a bit more truthful to their personas
@@ -47,10 +48,11 @@ Date | Update | Description
 # 
 !!! warning
 	:star: [**Disclaimer**](https://www.youtube.com/watch?v=elaSoKe1gFw)
-	**1.** Each new X.0 version is not a better version. It just provides a different output.
+	**1.** Each new X.0 version is not a better version and has major changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes
 	**2.** All my prompts are intended for ecchi and rpg-like adventures.
 	**3.** If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase them to perform OOC request.)
 	**4.** Prompts are intended for Claude 100k models.
+	**5.** Sorry if I make mistakes sometimes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
 # 
 - - -
 - - -
@@ -146,6 +148,26 @@ Find regex:
 ```
 **Comment:** *"I just decided to give up..."*
 *09.08.2023* 
+# 
+- - -
+- - -
+- - -
+# 
+###V12 RUM BABA
+#
+
+**Preset and Prompts**
+Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+#
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/dvcq32.zip)
+#
+!!! **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
 # 
 - - -
 - - -

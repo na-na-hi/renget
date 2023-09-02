@@ -1,27 +1,18 @@
-!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)The Lover of Idols![Image description](https://files.catbox.moe/f9inkg.png) <-
+!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)The Lover of Idols - Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-    This is a list of collabs, complementary POVs and cameos done by Nerissa in her own channel and in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
+    This is a list of collabs, complementary POVs and cameos done by Nerissa in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
+[Go To The Lover of Idols I - Collabs on Nerissa's channel page](https://rentry.org/Collabs_on_Nerissa_s_channels)
 
-!!!warning  -> ![Image description](https://files.catbox.moe/f9inkg.png) Collabs on Nerissa's channels (sorted by Year and Month)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
+!!!warning  -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on Nerissa's channels (sorted by Year and Month)](https://rentry.org/Collabs_on_Nerissa_s_channels)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels_August_2023)
- 
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels/#september-2023)
 
-!!!info ->  ![Image description](https://files.catbox.moe/f9inkg.png) Collabs on Nerissa's channels (September 2023)  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-|Date|Link|Collab Partner(s) & Alternative POV(s) | Nature|
-|---|---|---|---|
-|---|---|---|---|
-
-->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)->
-
----
-
-!!!info ->  ![Image description](https://files.catbox.moe/f9inkg.png) Collabs on other holomems channels & mentions  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-!!!note [TOC]
+!!!note -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on other holomems channels & mentions in 2023 (sorted by year and by branch)](https://rentry.org/Collabs_on_Nerissa_s_channels)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
+	[TOC]
 ### ![Image description](https://files.catbox.moe/f9inkg.png) EN
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Myth
 ###### 💀 Mori

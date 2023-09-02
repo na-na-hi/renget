@@ -7,6 +7,11 @@ If you have a request for a niche card, feel free to email me. The_Taste_Of_Heav
 [TOC2]
 ***
 ##Cards
+###New
+Elodie| [CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
+--|---
+![Remember this?](https://files.catbox.moe/o9tv60.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+
 ***
 ###OCs
 

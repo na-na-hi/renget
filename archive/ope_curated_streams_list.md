@@ -68,10 +68,11 @@ While there is yet to be a purely focused stream or there bits-and-pieces of zat
 
 
 #### ![Image description](https://files.catbox.moe/f9inkg.png) Collabs
-Also see the [Lover of Idol](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels) for all the collabs that happened in Nerissa's channels, on the other holomem channels, mentions and other little neat things.
+Also see the Lover of Idol pages [I](https://rentry.org/Collabs_on_Nerissa_s_channels) & [II](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels) for all the collabs that happened in Nerissa's channels (I) and on the other holomem channels, mentions and other little neat things (II).
 | Date | Title | Link & Thumbnails | Duration | Partners |
 |------|-----|-----|-----|-----|
 |03/08/2023|【Untitled Goose Game】Wreaking havok with @KosekiBijou 🗿 🎼|[![](https://files.catbox.moe/avodey.jpg)](https://youtu.be/GU1PhsuLYDI)|~2h11| Bijou |
 |05/08/2023|【L4D2】First collab with my girlies! 🎼|[![](https://files.catbox.moe/t3qvk5.jpg)](https://www.youtube.com/watch?v=9YsuHwyYGes)|~2h02| [Shiori](https://www.youtube.com/watch?v=p_vUrLfFZbo), [Bijou](https://www.youtube.com/watch?v=4rEjFrifaeM) & [FUWAMOCO](https://www.youtube.com/watch?v=KgpiuAin1XM) |
 |12/08/2023|【EDF5】Advent Saves the World! 🎼|[![](https://files.catbox.moe/0zycuj.jpg)](https://www.youtube.com/watch?v=VRdVncNa0FE)|~3h06| [Shiori](https://www.youtube.com/watch?v=vmONUXdNf_4), [Bijou](https://www.youtube.com/watch?v=HqGF9KwMt10) & [FUWAMOCO](https://www.youtube.com/watch?v=DC8VQsff7sA) |
-|30/08/2023|【BG3】Helping save the grove!🎼 ]|[![](https://files.catbox.moe/3rp0xt.jpg)](https://www.youtube.com/watch?v=l4ik4FJ_guE) |~3h30| [Mori](https://www.youtube.com/watch?v=gNKYCKxuud4), Kiara & [Bijou](https://www.youtube.com/watch?v=Vq9SJpmLwu4) |
+|30/08/2023|【BG3】Helping save the grove!🎼 |[![](https://files.catbox.moe/3rp0xt.jpg)](https://www.youtube.com/watch?v=l4ik4FJ_guE) |~3h30| [Mori](https://www.youtube.com/watch?v=gNKYCKxuud4), Kiara & [Bijou](https://www.youtube.com/watch?v=Vq9SJpmLwu4) |
+|01/09/2023|【Pico Park】Can we work together? 🎼|[![](https://files.catbox.moe/xcwhmu.jpg)](https://youtu.be/AAD3QCumnrw) |~2h33| [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) |

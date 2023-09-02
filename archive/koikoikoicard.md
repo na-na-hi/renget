@@ -55,3 +55,8 @@ This is another version of the bot with 1k context size, rewritten in inspiratio
 ![...](https://files.catbox.moe/mes59g.png)
 *Gunju, an embodiment of death. Chat about the end of our mortal coil with this ethereal entity.*
 https://files.catbox.moe/dtrpa7.png
+
+![Put your hand to the constellations...](https://files.catbox.moe/mqkhrh.png)
+*Katherine, the egotistic, overachieving, genius musician. Features three different greetings!*
+*Music for the vibe: https://www.youtube.com/watch?v=FLRgldD8nkc&pp=ygUhZGV2aWwgaW4gYSBuZXcgZHJlc3MgaW5zdHJ1bWVudGFs*
+https://files.catbox.moe/dpqj51.png

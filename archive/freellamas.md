@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** **Mythomax-l2-q4 scaled to 8k**
+**Model:** ~~**Mythomax-l2-q4 scaled to 8k**~~
 
-Blocking API URL: ```https://seattle-composition-test-hewlett.trycloudflare.com/api```
+Blocking API URL: ```N/A```
 
 ***
 **System prompt:**
@@ -68,7 +68,7 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 
 ##### Known issues
 - Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use simple-proxy-for-tavern.
-Here's an ideal card that will generate medium responses: https://files.catbox.moe/x9pui8.png
+Here's an ideal card that will generate medium responses: https://files.catbox.moe/1ytt9w.png
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.
 - Asterisks in replies are fucked? Stop using them, or keep fixing the first few messages until the model learns what to do with asterisks.

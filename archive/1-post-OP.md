@@ -37,23 +37,24 @@ A word of advice: as per >>1, be smart and don't reply or engage in off-topic or
 
 
 !!!warning Second OP Post - Tag schedule : F4oePGLXIAAYLiI
-
-\>Introduction to the new jailbirds
-Debut Stream
-https://www.youtube.com/watch?v=gg3SrFzHn9M
-New Jailbirds Guide
-https://rentry.org/ope_curated_streams_list
-Crunchyroll Interviews
-https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
-https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
-\---
-\>Tools
+\>Tools / Creation by the /ope/ users
 /ope/'s library
 https://rentry.org/joint_operation_center0
-Nerissa's Sounds
+Collection of Nerissa's Soundposts
 https://rentry.org/c793m
+
+\>Library content
+List of recommended streams (/!\ rough sketch after a month and temporary suggestions - might not reflect the reality in the future)
+https://rentry.org/ope_curated_streams_list
+Informations regarding membership (/!\ list of member streams still barren)
+https://rentry.org/ope_list_of_members_streams
+List of collabs & mentions (own channel & other holomem channels)
+https://rentry.org/Collabs_on_Nerissa_s_channels
+https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels
+
+\>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1693795548502093832
+https://twitter.com/nerissa_en/status/1696201651961446739
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OP

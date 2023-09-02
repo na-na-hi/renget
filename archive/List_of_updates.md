@@ -1,10 +1,14 @@
-!!! info
+!!!info
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
 !!! warning J/ope/C Week 4 https://files.catbox.moe/vuvt12.zip. Next batch of saved pages : 03/09/2023 - there will be a new .zip file every week
 
-!!! note [TOC]
+---
+
+!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png) [Updates (sorted by Months)](https://rentry.org/Collabs_on_Nerissa_s_channels)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
+	[TOC]
+
 #####  ![Image description](https://files.catbox.moe/f9inkg.png) July 2023
 |Date| n°|Where?|Nature|
 |---|---|---|---|
@@ -151,5 +155,8 @@
 |01/09/2023|129|Recommendation|Addition of Papers Please as a recommendation for the One-Off streams.|
 |01/09/2023|130|Recommendation|Addition of the second BG3 collab as a recommended collab.|
 |01/09/2023|131|Mentions & Collabs|Addition of Nerissa's POV for the Advent Pico Park Collab.|
+|02/09/2023|132|Recommendation|Addition of the Pico Park collab as a recommended collab.|
+|02/09/2023|133|Frontpage & Collab pages|Activation of the 'Collab on Nerissa's channel' page.|
+|02/09/2023|134 & 135|Lover of Idols pages|Change of aesthetics.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

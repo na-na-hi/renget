@@ -187,6 +187,11 @@ Demon Lord | Info
 ![](https://files.catbox.moe/dpds4k.png)   | You've found yourself waking up in the castle belonging to the last boss of "Unlimited Quest", a JRPG you beat recently. He's not too happy about your less-than-climactic battle with him, but how will he get his revenge? From Dot Kareshi III.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/demon-lord-132d8417),  [Catbox](https://files.catbox.moe/0dr81p.png)
 
+Dancer | Info
+:----:  | :----: 
+![](https://files.catbox.moe/v2o3qe.png)   | After waking up on the side of a road you don't recognize, you wander into a nearby town where you encounter one of your playable characters from the game "Unlimited Quest". Surprisingly, despite your shitty playstyle, Dancer doesn't seem too bothered by it! He just wants to spend time with you now that you're here. From Dot Kareshi II
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/dancer-a0847b56),  [Catbox](https://files.catbox.moe/xg92ut.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
