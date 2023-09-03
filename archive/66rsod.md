@@ -1,6 +1,9 @@
 !!! note
 	###->Random<-
-[Back to Karaoke page](https://rentry.org/Mumei-Karaoke)
+[Go back to the Library of /who/LEXandria](https://rentry.org/46mci)
+[Go back to the "Music (Songs & Karaokes)" Page](https://rentry.org/uoar4)
+[Go back to the "Chapters + Clips + "Music Videos" page](https://rentry.org/Mumei-Karaoke)
+
 
 Name | Url 
 ------ | ------
@@ -32,3 +35,7 @@ Stacy's Mom - Fountains of Wayne 『amv』| https://files.catbox.moe/xgew7b.mp4
 Fuck You - CeeLo Green	『amv』| https://files.catbox.moe/000ww0.mp4
 watermelon | https://files.catbox.moe/hjts9j.mp4
 Always - Blink-182	『amv』| https://files.catbox.moe/z859jh.mp4
+==Added the videos below this== |
+Complicated - Avril Lavigne	『amv』| https://files.catbox.moe/afgh9f.mp4
+Mountain Dew - The Stanley Brothers 『Gochuumon』 | https://files.catbox.moe/aw5edc.mp4
+Angel - Sarah McLachlan | V1 - https://files.catbox.moe/jfq4ry.mp4 / V2 - https://files.catbox.moe/i2vffi.mp4

@@ -38,7 +38,7 @@ _(GPTQ has_ **_better speeds_** _but_ **_harsher VRAM requirements_**_, and appa
 
 Fine-tuned models are modified versions of the original LLaMA, tailored for specific tasks. There are many to choose from. People make these so that they have better performance, and in some cases less censorship, for certain tasks (roleplaying, coding, etc.)
 
-The **most popular Llama v2 model for roleplay/character chat** is [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML). I would recommend the [4\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML/blob/main/mythomax-l2-13b.ggmlv3.q4_K_M.bin).
+The **most popular Llama v2 model for roleplay/character chat** is [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML). I would recommend the [4\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML/blob/main/mythomax-l2-13b.ggmlv3.q4_K_M.bin). Alternatively, pick the [5\_K\_M quantized version](https://huggingface.co/venketh/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.gguf.q5_K_M.bin) if you are willing to put up with mildly slower speeds for a slight quality boost. 
 
 A notable Llama v2 7b model for roleplay/character chat is [Zarablend 7b](https://huggingface.co/zarakiquemparte/zarablend-l2-7b). 7b will fit into most people’s GPUs via GPTQ, so you may want to look into running GPTQ if your primary objective is speed over quality (not recommended). Otherwise (especially if your specs are low-end), your best bet would be the [GGML version](https://huggingface.co/TheBloke/Zarablend-L2-7B-GGML).
 
@@ -83,7 +83,11 @@ Go to your SillyTavern folder and run ‘UpdateAndStart.bat’.
 
 After that you can click ‘Connect’, and if everything went well, you’re connected to the model!
 
-On the right side you’re able to import characters and start chats with the cards you’ve imported:
+**Before we start importing characters,** you might want to try setting your Advanced Formatting settings to be following the "Simple-Proxy" setup. Simply choose the Simple-Proxy context template and you should be good to go, assuming your Instruct Mode is set to it. This will make the outputs more verbose and detailed, but it is not strictly required and is more preference if anything.
+
+![](https://files.catbox.moe/ortq3q.png)
+
+After clicking the top right icon, you’re able to import characters and start chats with the cards you’ve imported:
 
 ![](https://lh6.googleusercontent.com/xYbjPjZlvbsOjhXT-dS1_LT9UStWadLiq45wlhFhwLlSW3x0T1aIDx0L9QmmR8XTwdxYyN1CtFCO5vY4VvAqcfXS0uYfL_Lifokh6kqZ6J3yPmvCnkYOjee8A1fUgKztc7zycnbyMUWKZ33d)
 

@@ -4,6 +4,7 @@
 -> [**[edit this rentry here]**](https://rentry.org/CSP_materials/edit)<-
 !!! info
 	- All Pages can be edited with edit code `4chan`
+	- You can export each page at the bottom in any format you want if you are worried about vandalism
 	- Deeply consider if you want a brush before downloading it or you will have 5000 with no easy way to delete
 	- If you like a brush you may want to support by liking the brush in store
 	- Also consider purchasing if you have clippies to spare so you never have to ask for a re-upload if it gets an update.
@@ -31,6 +32,8 @@
 **Erase along edge**|[1800143](https://assets.clip-studio.com/en-us/detail?id=1800143)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/43/01/1800143/thumbnail?1610868408)
 **Pen and Eraser to detect reference line**|[1801748](https://assets.clip-studio.com/en-us/detail?id=1801748)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/17/1801748/thumbnail?1606475997)
 **1px move**|[1784755](https://assets.clip-studio.com/en-us/detail?id=1784755)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/47/1784755/thumbnail?1598888260)
+**Symmetry Move Brush**|[1974271](https://assets.clip-studio.com/en-us/detail?id=1974271)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/42/1974271/thumbnail?1673247121)
+**Quick Lasso Eraser**|[1875033](https://assets.clip-studio.com/en-us/detail?id=1875033)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/33/50/1875033/thumbnail?1635133272)
 
 -> [**[TOP]**]() ->
 !!! danger

@@ -1,17 +1,17 @@
 !!! note
 	###->"Mumei's" Music Videos<-
 
-[Go back to the Main Page](https://rentry.org/46mci)
+[Go back to the Library of /who/LEXandria](https://rentry.org/46mci)
 [Go back to the "Music (Songs & Karaokes)" Page](https://rentry.org/q375b)
-[Go back to the "MP4" Page](https://rentry.org/5cqt4)
 
 ***
 >>Chapters + Clips + "Music Videos" - https://rentry.org/Mumei-Karaoke
 >Chapters for Mumei's karaoke vods - https://rentry.org/irdxq
 >Karaoke clips - https://rentry.org/5y2mt
 
-!!!info Updates
-	>05/20 - [Added some videos](https://rentry.org/daq7s#bottom-of-the-page)
+!!! info 
+	####->**Updates**<-
+	>09/03 - [Added some videos](https://rentry.org/daq7s#bottom-of-the-page)
 
 ***
 Name | Url | Alt Versions
@@ -107,7 +107,6 @@ Astrogirl - Tsukumo Sana | https://files.catbox.moe/c0ofim.mp4
 Glimpse of Us - Joji | https://files.catbox.moe/x8l6jd.mp4
 Until I Found You - Stephen Sanchez	 | https://files.catbox.moe/w6dvmy.mp4
 deja vu - Olivia Rodrigo	| https://files.catbox.moe/epa7fm.mp4
-==Added the videos below this== |
 Sugar, We're Goin Down - Fall Out Boy | https://files.catbox.moe/xcdt3v.mp4
 Leave It All to Me - Miranda Cosgrove | https://files.catbox.moe/brs3br.mp4
 Drunk - Ed Sheeran | https://files.catbox.moe/5a6vg2.mp4
@@ -119,7 +118,23 @@ I'm Your Treasure Box - Houshou Marine | https://files.catbox.moe/pr80iz.mp4 | D
 The Middle - Jimmy Eat World | https://files.catbox.moe/jlr47t.mp4
 Feel Good Inc - Gorillaz | https://files.catbox.moe/sbb1di.mp4
 Always - Blink-182	| https://files.catbox.moe/byjey2.mp4
-
+==Added the videos below this== |
+Stellar Stellar - Suisei | https://files.catbox.moe/fpkiwa.mp4
+Yeah! - Usher | https://files.catbox.moe/30j6nx.mp4
+Sweet Victory - Spongebob Squarepants | https://files.catbox.moe/wnfbcr.mp4
+Justin Timberlake - SexyBack | https://files.catbox.moe/x1thpt.mp4
+Kanashimi wo Yasashisani - Little by Little / Naruto OP 3 | https://files.catbox.moe/jwlm98.mp4
+Uso - SID / Fullmetal Alchemist Brotherhood ED 1 | https://files.catbox.moe/n53x7k.mp4
+Sweets Parade - Kana Hanazawa / Inu x Boku SS ED 6 | https://files.catbox.moe/ljdblq.mp4
+Niccori^^ Survey Team Theme /  Dance comparison  | https://files.catbox.moe/rmc9ha.mp4 | https://cldup.com/pH2QFvF8bl.mp4
+Sekai - DECO\*27×Shota Horie (kemu)  / Dance comparison | https://files.catbox.moe/obim2t.mp4 | https://cldup.com/yc2Z1y81Y3.mp4
+Hips Don't Lie - Shakira | https://files.catbox.moe/89hrz2.mp4 | https://files.catbox.moe/9fl681.mp4
+We Are Never Ever Getting Back Together - Taylor Swift  | v2 - https://files.catbox.moe/3oby7y.mp4
+I'm Made of Wax Larry, What Are You Made Of? - A Day to Remember | https://files.catbox.moe/lyxzhk.mp4 | https://files.catbox.moe/yz1024.mp4
+Eye of the Tiger - Survivor | https://files.catbox.moe/72apxw.mp4
+Airplanes - B.o.B | https://files.catbox.moe/0q1j4g.mp4
+Stay - The Kid Laro & Justin Bieber | https://files.catbox.moe/3gi6aj.mp4
+U Got It Bad - Usher | https://files.catbox.moe/hc78l5.mp4
 
 ***
 

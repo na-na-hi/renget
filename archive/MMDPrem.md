@@ -49,6 +49,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **Homyu** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/128833189) [[Gumroad]](https://homyu.gumroad.com/) [[Iwara]](https://www.iwara.tv/profile/homyu) [[Patreon]](https://www.patreon.com/homyummd) <-
+
+[[Patreon]](https://www.patreon.com/posts/mmd-model-ho0no-88649046) : Blue Archive - Hoshino
 ***
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-

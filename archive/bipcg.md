@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>RU soldier flanks and engages hohol in hand-to-hand inside trench
+https://files.catbox.moe/7xwfvj.mp4
+>Double Iskander on hohol HQ near Rovnoe
+https://files.catbox.moe/hmok1v.mp4
+>Nice catch after grenade bounced back
+https://files.catbox.moe/ntto5v.mp4
+>Bobr drone hitting a bunch of hohols + hohol POV
+https://files.catbox.moe/817z8j.mp4
 >Loads of dead hohols near Kleshcheevka after arty strike (kino, semi uncomfy)
 https://files.catbox.moe/adr55q.mp4
 >FPV drone creating more hohol cyborgs
