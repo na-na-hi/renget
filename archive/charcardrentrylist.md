@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KingValntula](https://rentry.org/Kingvalntula) | Furry |[Reuben](https://files.catbox.moe/510xce.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Evelina](https://files.catbox.moe/samz8b.png)|[Evelina](https://files.catbox.moe/samz8b.png) [MV], [Diana](https://files.catbox.moe/7nry7f.png)
 [Hedona](https://rentry.org/hedona) | Misc |[Amon](https://files.catbox.moe/r85zgx.png), [Elodie](https://files.catbox.moe/wniyf3.png)|[Amon](https://files.catbox.moe/r85zgx.png) [MV], [Elodie](https://files.catbox.moe/wniyf3.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Stream femboys](https://files.catbox.moe/dtc8u9.png), [Kalan](https://files.catbox.moe/o5txk4.png), [Donella](https://files.catbox.moe/wwn2w0.png), [Daily Smile](https://files.catbox.moe/tca144.png), [Antonia](https://files.catbox.moe/wlz37p.png), [Justin](https://files.catbox.moe/q8or82.png), [Nali](https://files.catbox.moe/y7tiea.png)|
@@ -31,7 +32,6 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Tavia](https://files.catbox.moe/nphwii.png)|[Tavia](https://files.catbox.moe/nphwii.png) [MV]
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Askari](https://files.catbox.moe/121ey6.png), [Latif](https://files.catbox.moe/p74lvc.png), [Nao-kun](https://files.catbox.moe/oyiabd.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gitty](https://files.catbox.moe/36qwk1.png)|
-[KingValntula](https://rentry.org/Kingvalntula) | Furry |[Babe](https://files.catbox.moe/fixad9.png)|
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||[Mal0](https://files.catbox.moe/zqeml2.png), [Franky](https://files.catbox.moe/6etbsk.png), [Juno](https://files.catbox.moe/cdk4wo.png), [Coal](https://files.catbox.moe/v3vr3x.png), [Katia Managan](https://files.catbox.moe/tkcmyz.png)

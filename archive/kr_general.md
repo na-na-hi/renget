@@ -35,6 +35,10 @@ https://2434.kr/ (Youtube/Twitter/Twitch/Twitcasting links)
 [Youtube](https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg)
 
 >Indies
+**Shabel Tonya:** 
+[Youtube (EN)](https://www.youtube.com/c/ShabelTonyaCh)
+[Twitch (KR)](https://www.twitch.tv/shabeltonya)
+[VOD (KR)](https://www.youtube.com/@shabeltonyakor)
 **Seldea:**
 [Twitch](https://www.twitch.tv/seldea)
 [Youtube](https://www.youtube.com/@seldea)
@@ -52,13 +56,7 @@ https://2434.kr/ (Youtube/Twitter/Twitch/Twitcasting links)
 **Sada (formerly Shin Kiru):** 
 [Twitch](https://www.twitch.tv/pelecanus_)
  
->LITMEDIA
-**-EN 1st Generation-**
-**Shabel Tonya:** 
-[Youtube (EN)](https://www.youtube.com/c/ShabelTonyaCh)
-[Twitch (KR)](https://www.twitch.tv/shabeltonya)
-[VOD (KR)](https://www.youtube.com/@shabeltonyakor)
-**-KR 1st Generation (LUVDIA)-**
+>LUVDIA
 [LUVDIA Youtube](https://www.youtube.com/@LUVDIA)
 **박도나 (Park Dona):** 
 [Twitch](https://twitch.tv/pdona_d)

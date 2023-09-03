@@ -187,6 +187,8 @@ This naga has four muscle-laden arms, each with scales spanning from her shoulde
 Benefactum's tail would be a solid turquoise throughout, if not for the coal-colored, banding pattern spaced equidistantly, where said design strays from the anal plate onwards. The tail tapers into a paddle-like and vaguely heart-shaped tip, which is wholly black and surprisingly sensitive. The belly of her tail is segmented and a pallid yellow. Around halfway down the tail is another pair of wings, just like the one at the ophidian's hips. From the posterior of her torso to the tail's tip, the length totals to 20' (6.1 m).
 **Miscellaneous**
 Her skin is smooth and somewhat silk-like, while her scales feel soft and pliable, unlike what one would expect from a snake's scales.
+**Sexual Characteristics**
+Located on the Lamia's pelvis is a parted slit bearing two identical, protruding phalli—one above the other—while below lies another crevice within the crevice: a vagina. Both phalli are segmented with ridges in three parts along each length with tough, rounded bumps spaced equally on their undersides. The heads are tapered, as the edges of the glans are lined with soft barbs with the sole intent of providing pleasure. The testes are internal and located adjacent to the ovaries, like most Lamia.
 
 #### Changeling Appearance
 **Head**

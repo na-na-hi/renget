@@ -2,7 +2,7 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-08-28)==<-
+->==(updated 2023-09-2)==<-
 ***
 [TOC2] 
 ***
@@ -15,6 +15,7 @@ https://rentry.org/fumblebum
 
 https://rentry.org/ClaudeJB
 
+https://rentry.org/aui3u <-- Prefill guide
 
 
 ***

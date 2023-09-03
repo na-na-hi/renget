@@ -540,7 +540,7 @@ https://rentry.org/e3gx4a
 https://rentry.org/r4nhp
 >Date Gossip
 https://rentry.org/f78w2
->Do Not be Afraid(Lasti Rite, Rosethorn, Maru(Maru), Orochi, Yako)
+>Do Not be Afraid(Last Rite, Rosethorn, Maru(Maru), Orochi, Yako)
 https://rentry.org/6p6na
 
 >RELATIONSHIP CHARTS IN HERE

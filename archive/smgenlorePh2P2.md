@@ -627,7 +627,8 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 -> ![Hanging Gardens](https://files.catbox.moe/rx17m4.jpg) <-
 
    ***BUT WAIT: WE'RE STARTING WITH MAP INTERLUDE TIME LOL**, and FINALLY, we have a brand new Conquest Map!*
-	*With Season 8 and the Tiamat Arc, the Conquest Map was shifted from Olympus vs Stardust Crus-Hades (all the way back from S5) into Olympus vs Babylon. As previously mentioned, we were in the Gardens of Olympus before, but now everything's been reset (including Hades's surface-Palace being cleaned up), the Conquest map now takes place on the arisen land conjoining Olympus and Tiamat's Summer House.*
+
+   *With Season 8 and the Tiamat Arc, the Conquest Map was shifted from Olympus vs Stardust Crus-Hades (all the way back from S5) into Olympus vs Babylon. As previously mentioned, we were in the Gardens of Olympus before, but now everything's been reset (including Hades's surface-Palace being cleaned up), the Conquest map now takes place on the arisen land conjoining Olympus and Tiamat's Summer House.*
 	*Basically, we're just on the other side of Mt. Olympus, the Gardens are out of sight on the opposite side of the Order Base. From the Gardens of the Greeks, to the Hanging Gardens of Babylon.*
 
 -> ![S8 Conq Early Concept](https://files.catbox.moe/wzf4y8.jpg) <-
@@ -635,7 +636,7 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 -> ![S8 Conq Phase 1](https://files.catbox.moe/i5t7tt.jpg) <-
 
    *While there's not much to talk of in terms of details relevant to the Mythos, the Babylonian Ziggurat and Chaos-side base was architecturally themed after the Ishtar Gate, the real inner gate within Babylon, that acted as an minor kind-of-portcullis to the ~~Cloud~~ Rich District of Babylon, and would likely have been accurate to the style that both the Hanging Gardens of Babylon and the Tower of Babel would have been modelled after in real life.*
-	*Slight issue with this however - it was about a milennias-worth of time after the time Tiamat would have been worshipped (literally the equivalent of comparing Wattle and Daub to Skyscrapers), given that it was built on-commission by the same Nebuchadrezzar II of the Neo-Babylonian Empire, that features in various Abrahamic religions. Props and credits where it's due however, there's very little in terms of surviving Babylonian or general Mesopotamian archetecture to go off (not the Christians or le jooz this time around - this one's on the Muzzies smashing up / destroying stuff, and in a far more systematic manner owing to their more enforced cultural rule against false idols). The fact HiRez/Titanforge went with the Ishtar Gate to begin with, combined with general understandings of Ziggurats is basically as far as one could reasonably go in a scenario like this, and as a result does make for a relatively accurate Babylonian half of the map.*
+	*Slight issue with this however - it was about a milennias-worth of time after the time Tiamat would have been worshipped (literally the equivalent of comparing Wattle and Daub to Skyscrapers), given that it was built on-commission by the same Nebuchadrezzar II of the Neo-Babylonian Empire, that features in various Abrahamic religions. Props and credits where it's due however, there's very little in terms of surviving Babylonian or general Mesopotamian archetecture to go off (not the Christians or le jooz this time around - this one's on the Muzzies smashing up / destroying stuff, and in a far more systematic manner, owing to their more enforced cultural rule against false idols). The fact HiRez/Titanforge went with the Ishtar Gate to begin with, combined with general understandings of Ziggurats is basically as far as one could reasonably go in a scenario like this, and as a result does make for a relatively accurate Babylonian half of the map.*
 
 -> ![S8 Chaos Concept](https://files.catbox.moe/fel1tk.jpg) <-
 
@@ -645,27 +646,27 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
    *Also, yes, Nebuchadrezzar is the correct spelling; Nebuchadnezzar (the spelling you find the Torah / Bible) is a petty insult and deliberate spelling mistake of his name (basically calling him a donkey) taken as God-ordaned 'fact', because he completely fucking BTFO the Jews harder than Hadrian or Hitler. ~~In that sense, I guess we know what side of the JQ Tiamat stands on, given her choice in architectural inspiration. Bet you wouldn't have been able to think of, let alone infer that without my historic FACTS AND KNOWLEDGE aiding you, thank me later for the entertaining read as your twisted little mind associates Tiamat with everything that comes to mind about Hitl- I mean Nebuchadrezzar II from her choice in building-style.~~*
 
-   *Yeah, I'm just kinda stalling at this point so it's just a complete wall of concept art. Shut the fuck up, it looks cool. One thing to note / as you can see in this concept art, there were plans to make the map more akin to it's competition-MOBA's, adding a river connecting each lane, as well as modified camps and inferrably a new Hydra-boss in the Duo line (of which the creature likely recieved it's internal design rework around this time). The other named creatures (Minotaur, Basilisk, Drake etc) seem to simply be early ideas for what they wanted to do with buff camps.*
+   *Yeah, I'm just kinda stalling at this point so it's just a complete wall of concept art. Shut the fuck up, it looks cool. One thing to note / as you can see in this concept art, there were plans to make the map more akin to it's competition-MOBA's, adding a river connecting each lane, as well as inferrably a new Hydra-boss in the Duo line (of which the creature likely recieved it's internal design rework around this time). The other named creatures (Minotaur, Basilisk, Drake etc) seem to simply be early ideas for what they wanted to do with buff camps.*
 
 -> ![S8 Conq Concept](https://files.catbox.moe/3woedp.jpg) <-
 
 -> ![S8 Conq Gameplay Concept](https://files.catbox.moe/kdsglf.jpg) <-
 
-   *Furthemore as a new mechanic for this season, the map would 'evolve' and be slighly remodelled over this arc to fit a variety of themes as the lore progressed, which I'll touch shortly on each time they happen.*
+   *Furthemore there were multiple new mechanics during this season, as this map would 'evolve' and be slighly remodelled over this arc to fit a variety of themes as the lore progressed, which I'll touch shortly on each time they happen.*
 
-   *For the first map of Season 8, the three major additions were Base-walls, and the Greater / Lesser Scorpions. Yep, up until this point, there wasn't exit points from your base into the Jungle*
-	*Scorpions may have shared a name, but did completely different things. Greater Scorpions served as Team-sided Jungle Bosses. They first spawned in the contested space on top of the Gold Fury and Fire Giant, and would need to be killed to 'enable' the major Jungle Boss there to spawn. Upon defeat, they would augment every Jungle Buff on the allied quarter of the map for a short time (for example, defeating the Fire Giant Scorpion augmented your Blue Buff to gain Cooldown on top of it's Mana focus) and Greater Scorpions would then spawn on each team's side from there on out. Junglers would need to maintain the Greater Scorpion buff, on top of their usual duties, but would often be helped by the Mid or Support after the first, due to the substantial reward as a 'mini-Jungle-Boss'. Invading the enemy Greater Scorpion was also a common tactic during Fire Giant dances, to bait out the enemy into taking a bad engagement, and to deny them buff-augments. In Season 9 they would be simplified to only exist on the Fire Giant side of the map, no longer preventing the Major Bosses from spawning in, and would augment every buff on their half of the map (rather than each quarter), until their timely removal in S10.*
+   *For the first map of Season 8, the three major additions were Base-gates, and the Greater / Lesser Scorpions. Yep, up until this point, there wasn't exit points from your base into the Jungle.*
+	*Scorpions may have shared a name, but did completely different things. Greater Scorpions served as Team-sided Jungle Bosses. They first spawned in the contested space on top of the Gold Fury and Fire Giant, and would need to be killed to 'enable' the major Jungle Boss there to spawn. Upon defeat, they would augment / double the effect of every Jungle Buff on the allied quarter of the map for a short time, and Greater Scorpions would then alternatingly spawn on each team's side from there on out. Junglers would want to maintain the Greater Scorpion buff for their side of the map, on top of their usual duties, but would often be helped by the Mid or Support after the first, due to the substantial reward as a 'mini-Jungle-Boss'. Invading the enemy Greater Scorpion was also a common tactic during Fire Giant dances, to bait out the enemy into taking a bad engagement, and to deny them buff-augments. In Season 9 they would be simplified to only exist on the Fire Giant side of the map, no longer preventing the Major Bosses from spawning in, and would augment every buff on their half of the map (rather than each quarter), until their timely removal in S10.*
 	*Lesser Scorpions on the other hand were much more earlygame-focused, and would take a small healthbar, but also 3 Basic Attacks to kill once downed (similar to Kumbha Passive). One spawned in the middle of the Solo lane, and two of them (one near each tower) in the Duo lane, all three on the outer-wall. These acted as contested objectives, offering a minor reward, but also 'activated' a healing station in their radius, giving the team to kill them some sustain, to the tune of a free Green Potion if you sat in it for the entire duration. These lasted for the duration of S8, but were put on leave after S8 ended, appearing as 'basic' Jungle Monsters from S10 onwards.*
 
    -> ![Minimap](https://files.catbox.moe/f3flzd.png) <-
 
-   *The most notable detail to me however (aside from, well, you know, the complete map rework), is that various map entities are representations of Tiamat's 11 Poison Dragons! Which.... I go into more detail in a tangential Aside!*
+   *The most notable detail to me however (aside from, well, you know, the complete map rework), is that various map entities are representations of Tiamat's 11 Poison Dragons! Which.... I go into more detail in a tangential, optional Aside!*
 
    ***Details, Dragons & Old Gods aside***: *https://rentry.org/smgenloreasidespt2#babylonian-details-and-the-urreligion*
 
 ***
 
-   We enter back into the narrative once again at the Taihang Mountains, once again with Mulan and Persephone meeting up (presumedly picking up on where they left off while *the Cthulhu incident* was ongoing). Persephone's no longer locked out of her house / the Underworld, the two have a chat about how Tiamat's cleaned everything up, but how the Gods are now wary of her overwhelming strength. Conveniently, the Norse Pantheon and Yggdrasil are now completely fine, China's clean of ~~opium~~ Corrupted Jade and everyone feels at peace for the first time in years.
+   So we enter back into the narrative once again at the Taihang Mountains, once again with Mulan and Persephone meeting up (presumedly picking up where they left off, while *the Cthulhu incident* was ongoing). Persephone's no longer locked out of her house / the Underworld, the two have a chat about how Tiamat's cleaned everything up, but how the Gods are now wary of her overwhelming strength. Conveniently, the Norse Pantheon and Yggdrasil are now completely fine, China's clean of ~~opium~~ Corrupted Jade and everyone feels at peace for the first time in years.
    Baba walks on in to speak with the girls. Snarky-bitchsephone derides her, saying her prophecy was not only useless *(ha!)*, but wrong on top *(haha!)*, since Cthulhu got BTFO without needing it's help at all *(hahaha!)*. Baba nonchalently responds that the prophecy wasn't about Cthulhu; and that Cthulhu can in no way be described as 'the dark sea' itself *(since Cthulhu got consumed by the sea)*, followed by a cheeki breeki slavic "YEAH YOU THOUGHT, BITCH".
 
    Mulan has to explain to Persephone that if you readcarefully, the doomsday prophecy was a bait-and-switch about Tiamat, not Cthulhu.
@@ -747,7 +748,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
 -> ![S8 Conq Chaos](https://files.catbox.moe/dk8kzj.jpg) <-
 
-   In her pure seethe, she doesn't notice Neith coming up from behind her - no longer characterized Mercury's teen crush *(all the way back from the Pantheon War Arc)*, but instead is now some kind of ~~ditzy~~ shadow-mastermind - Neith being the one who told Set to wake Tiamat up in the first place. Neith's motive being to have Tiamat help fix the broken weave within le Universe caused by Persephone / Cthulhu's fucking around, and the general disruptions from the Gods.
+   In her pure seethe, she doesn't notice Neith coming up from behind her - no longer characterized Mercury's teen crush *(all the way back from the Pantheon War Arc)*, but instead is now some kind of ~~ditzy~~ shadow-mastermind - Neith being the one who told Set to wake Tiamat up in the first place. Neith's motive being, to have Tiamat help fix the broken weave within le Universe caused by Persephone / Cthulhu's fucking around, and the general disruptions from the Gods.
    Neith then introduces the buddies she brought along, which include Terra, Geb, Sylvannus and Cernunnos *~~each of which don't get a single line of dialogue and are treated more like cameos~~*. Also Persephone's here! Persephone tells Tiamat she's got others who are drifting to her side, Tiamat thus anticipates that lines are slowly being drawn in the sand, for an ensuing conflict she'd wishes she could have avoided - but is inevitable now.
 
 ***
@@ -766,12 +767,12 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
    Back at Olympus *and it's raining. Pretty. Fucking. Hard.*
    *Fore. Shadowing.*
 
-   The Norse / Chinese have finally arrived; quite displeased at the actions taken in their absence. Zeus has unilaterally decided to let Gilgamesh into Olympus *(again, what's the point of keeping Olorun as Kang of Olympus at this point Lo-Rez, fucking retards)*, Heimdallr and the Norse want to hand Gilgamesh over as a peace tithing. Opinions otherwise are generally the same as before. *~~Painstakingly reiterated in full.~~*
+   The Norse / Chinese have finally arrived; quite displeased at the actions taken in their absence. Zeus has unilaterally decided to let Gilgamesh into Olympus *(again, what's the point of keeping Olorun as Kang of Olympus at this point Lo-Rez, fucking retards)*, Heimdallr and the Norse want to hand Gilgamesh over as a peace tithing. Opinions are otherwise generally the same as before. *~~Painstakingly reiterated in full.~~*
 
-   Olorun has taken Gilgamesh to one side to scream and vent at him for starting a new divine war for no real reason, Gilgamesh is too absorbed by the ALPHA BRO grindset to give a fuck what Olorun thinks. *~~Like Zeus, great minds think alike.~~* Hercules and Arthur have a friendly chat at the door, but Arthur is concerned that Tiamat chose recreate Camelot, yet not isekai in / create anybody to live in it for whatever reason.
-   Heimdallr *STORMS* out of the meeting toom, declaring the Norse will be siding with Tiamat to the extent of owing her for rebuilding their Pantheon. Gilgamesh states that letting Tiamat recover after the Cthulhu reboot will only mean she'll recreate the world a second time, this time with all the Gods bar herself deleted from it; which the Roman pantheon backs him up on. The Chinese pantheon are pissed they had no say in proceedings, Zeus doesn't give a fuck and backs his new-bro up regardless.
+   Olorun has taken Gilgamesh to one side to scream him for starting a new divine war for no real reason, Gilgamesh is too absorbed by the ALPHA BRO grindset to give a fuck what Olorun thinks. *~~Like Zeus, great minds think alike.~~* Hercules and Arthur have a friendly chat at the door, but Arthur is concerned that Tiamat chose recreate Camelot for him, yet not isekai in / create anybody to live in it, for whatever reason.
+   Heimdallr *STORMS (foreshadowing)* out of the meeting toom, declaring the Norse will be siding with Tiamat, to the extent of owing her for rebuilding their Pantheon. Gilgamesh states that letting Tiamat recover after the Cthulhu reboot will only mean she'll recreate the world a second time, this time with all the Gods bar herself deleted from it; which the Roman pantheon backs him up on. The Chinese pantheon are pissed they had no say in proceedings, Zeus doesn't give a fuck and backs up his new bro regardless.
 
-   Athena and Ares find some rare common ground, and declare that they'll need to prepare for a siege *(no, not the gamemode)* on Olympus. If anybody wants to leave, Tiamat will probably leave alone any Pantheons that clear out of Olympus now. The dice are finally cast - it's war.
+   Athena and Ares find some rare common ground, and declare that they'll need to prepare for a siege *(no, not the gamemode)* on Olympus. If anybody wants to leave, Tiamat will probably leave any Pantheons that clear out of Olympus alone.... for now. The dice are finally cast - it's war.
 
 ***
 
@@ -779,7 +780,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
    ~~**BOOPI DOOBI DEEBI DOOBO BOOPI DOOBI DEEBI DOOBO BOOPI DOOBI DEEBI DOOBO BOOPI DOOBI DEEBI DOOBO {inhale} WAAAAAAAH PSHH WAAAH PSHH WAAAH PSHH WAAAH PSHH**~~
 
    *~~As an additional note, for the duration of the Stranger Things Pass, the Arena map got a remodel - from it's Underwater iteration, into one themed after Stranger Things. Key differences being there was a huge Mindflayer overlooking the Arena and the Portals were clogged up with roots (along with fairy lights draped across the map). Again, no gameplay differences, because it was a remodel of the default Arena mode.~~*
-   *~~After the pass ended, it returned to it's default S5 Greeks vs Romans; given Cthulhu was already dealt with at this point and the world had narratively been reset.~~*
+   *~~After the pass ended, it returned to it's default S5 Greeks vs Romans rather than the Underwater Arena map; given Cthulhu was already dealt with at this point, and the world had narratively been reset.~~*
 
 -> ![Stranger Arena](https://files.catbox.moe/qd52m7.jpg) <-
 
@@ -795,26 +796,26 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
    .... peaceful.
 
-   After she assumed control of Camelot Castle *(image of which below)*, she quickly found Merlin's basement (*evidently without getting hit by the false door-trap*) and blindly wandered into the SMITEverse. However- when she found herself unable to escape back to *her* Camelot - well, obviously it's all Merlin's fault she can't escape.
+   After she assumed control of Camelot Castle *(image of which below)*, she quickly found Merlin's basement (*evidently without getting hit by the false door-trap*) and blindly wandered into the SMITEverse. However - when she found herself unable to escape back to *her* Camelot - well, obviously it's all Merlin's fault she can't escape.
    Apparently she'd found her way in some time around the Cthulhu arc, and was waiting on the sidelines of the Arthurian / Celtic defence just in case she could help - but was only mentioned in-narrative now.
 
    *tl;dr I'm going to refer to Morgana by her correct name from here on out, because the Arthurian Pantheon is English, not ~~surrendermonkey~~ French.*
 
 -> ![Camelot](https://files.catbox.moe/j5hdq2.jpg) <-
 
-   It's still \**heavily\** *(\*HEAVILY\*) (AS IN, MAYBE IT'S RAINING, A WHOLE FUCKING LOT GUYS) (AS IN, FORESHADOWING)* raining, but in the Gardens of Olympus, Morgana finds Arthur and Merlin at last. She stays hidden while the two of them discuss what to do with the false-Camelot that's appeared. Arthur wants to use his sway with the Celtic neighbours to reserve the land for himself and have Tiamat restore the place fully - Merlin thinks the place isn't Camelot and that since he doesn't understand how Tiamat works, he'd rather steer clear of her.
+   It's still \**heavily\** *(\*HEAVILY\*) (AS IN, MAYBE IT'S RAINING, A WHOLE FUCKING LOT GUYS) (AS IN, FORESHADOWING)* raining, but in the Gardens of Olympus, Morgana finds Arthur and Merlin at last. She stays hidden while the two of them discuss what to do with the false-Camelot that's appeared. Arthur wants to use his sway with the Celtic neighbours to reserve the land for himself and have Tiamat restore the place fully - Merlin thinks the place isn't 'the real' Camelot and that since he doesn't understand how Tiamat works, he'd rather steer clear of her.
 
    When Morgana arrives properly / reveals herself, she's a bit less confrontational than her cinematic implies; and explains what's happened back home, before putting forth the idea that they all just appeal to Tiamat to go back home. *~~Mind you, where she's currently the reigning Queen - but minor details, minor details~~.* Arthur's still too shaky about the whole 'Tiamat = a Dragon' thing, Merlin is still shaky that he doesn't understand Tiamat.
    Morgana asks then, how Merlin knew how to deal with Jormungandr to begin with (in the cinematic she also taunts / reminds Arthur that Merlin is ~~Satanic~~ demonic ~~*not this shit again*~~), at which point Merlin aggros on her, trying to shut her up and shut it down. He freezes the rain above her (Ice Stance 2), Morgana has her sword spin above her a la a Helicopter to act as an umbrella; Merlin immediately goes for a killshot with a fire-beam (Fire Stance 1) to which Morgana flings herself back ready to take Merlin's hot load *(the elegant-maiden T-Pose showing her palms; you know the one)*.
-   Arthur bodyblocks for her as she anticipted , and she smugly looks at Merlin over Arthur's shoulder.
+   Arthur bodyblocks for her as she anticipted, and she smugly looks at Merlin over Arthur's shoulder.
 
    Morgana begins to waltz out of the place, but not before Gilgamesh interrupts, and cautions her that Tiamat isn't known to be generous. Gilgamesh (poorly) tries to force what he thinks a smile looks like, before calling Arthur over for a King-to-King chat as Morgana exits into her invis again.
 
 *It kills me inside to say this... but the cinematic is barely lore-relevant.*
-*Morgana's completely off-character, Arthur's off-character, they're doing the wrong thing, it's a sunny day instead of a rainy night, they're in Camelot and not Olympus.... all that's really right is Morgana taunting about Merlin....*
+*Morgana's completely off-character, Arthur's off-character, they're all doing the wrong thing, it's a sunny day instead of a rainy night, they're in Camelot and not Olympus and they're all far to aggressive with each other.... all that's really right is Morgana taunting about Merlin....*
 *look, at least it was great for marketing Morgana... ~~oh man and these were so good to reference before...~~*
 
-*sad link for posterity, but just... ignore it :( ;* https://youtu.be/hXZ4UzPZBls
+*sad link for posterity, [but just... ignore it :(](https://www.youtube.com/watch?v=hXZ4UzPZBls)*
 
 -> ![Morgana Cine Concept](https://files.catbox.moe/0n9f9d.jpg) <-
 
@@ -825,11 +826,12 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
    Cut to the gardens of Olympus again, now at night, *and the rain's getting even more torrential...~~foreeeshaaaaadoooowiiiiiing....~~*.
 
    Olorun is frustrated they're even having to prepare for another war to begin with, Hera makes an emasculation joke comparing Tiamat's big storm to Zeus's little storms while alone with Olorun ~~(*yeah, ok Lo-Rez / Titanforge*)~~ before discussing the preparations.
-   Ares and Athena are doing their thing in regards to defences, while Gilgamesh has offscreened his way into leading a relatively large pack of Gods into the anti-Tiamat camp. Olorun *(the guy who lost to the tribble pibble)* then declares that he could probably solo Tiamat by himself if he went for another Cthulhu kamehameha to nuke Earth *(the same one that wasn't actually big as he planned when he fired it off, but he doesn't remember because Cthulhu essentially killed him before Tiamat reset everything)* however 'he still feels disconnected from muh stars' so he's not quite at full strength as long as he's on Earth ~~(*sure thing, Lo-Rez / Titanforge*)~~.
+   Ares and Athena are doing their thing in regards to defences, while Gilgamesh has offscreened his way into leading a relatively large pack of Gods into the anti-Tiamat camp. Olorun *(the guy who lost to the tribble pibble)* then declares that he could probably solo Tiamat by himself if he went for another Cthulhu kamehameha to nuke Earth *(the same one that wasn't actually big as he planned when he fired it off, but he doesn't remember because Cthulhu essentially killed him before Tiamat reset everything)* ~~(*sure thing, Lo-Rez / Titanforge*)~~ however 'he still feels disconnected from muh stars' so he's not quite at full strength as long as he's on Earth ~~(*sure thing, Lo-Rez / Titanforge*)~~.
 
    Morgana emerges from her cloak of shitstirring invis, Olorun quickly copes that he could see her all along and just didn't acknowledge her presence, she sighs, cuts the shit and tells them to be cautious of Merlin and to join Tiamat - with the exact same non-backed reasoning that Merlin gave to be cautious of Morgana and not join Tiamat *(deliberately the same, but flipped, just to sew discord)*.
    Merlin catches up to her after chasing her through Olympus, (still seething at her smugness from before) and tries to kill her with a fire beam again, but noe Olorun forceably stops him from casting his magic because - despite losing capital letters due to his prolonged stay on Earth - he's still a **Black God**.
-   Morgana is once again smug, knows she's smug and doesn't hide she's smug. She then repeats the same schtick as she did before to King Arthur, but now to Hera / Olorun - this time adding the idea that Merlin deliberately isekai'd in the Camelotian JormunDragon-*mess-of-writing*-thing to create an opportunity to be a saviour and cement himself in the politics of the SMITE!!!verse, thus bring his idealistic version Camelot to fruition.
+   Morgana is once again smug, knows that she's smug and doesn't hide that she's smug. She then repeats the same Demon-Merlin schtick as she did before to King Arthur, but now to Hera / Olorun - this time adding the idea that Merlin deliberately isekai'd in the Camelotian JormunDragon-*mess-of-writing*-thing to create an opportunity to be a saviour and cement himself in the politics of the SMITE!!!verse, thus bring his idealistic version Camelot to fruition.
+	*~~.....I don't get it either.~~*
 
    Apparently the Arthurian bros have also been more pushy post-Cthulhu offscreen, so after seeing the existence of not!Camelot, Hera and Olorun treat the idea with some credibility. Morgana then shoots herself in the foot, saying not to trust either Merlin or Arthur on whatever they have to say about Gilgamesh - of which Arthur and Gilgamesh were standing behind her, listening unimpressed. Gilgamesh repeats his *Tiamat = selfish meanie >:(* bit again. Olorun finally 'sayz hiz peece' and apparently is now against Tiamat - because to him remaking the reality *in her image* counts as destroying the world, which his what he wants stop, so reasons?
    Morgana smugly shrugs (content that just making her point was enough) then opens a portal with her sword and fucks off for good.
@@ -839,7 +841,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 -> ![Court of Midnight](https://files.catbox.moe/tipp15.jpg) <-
 
    Immediately we follow Morgana through the portal, straight into the upper reaches of Tiamat's Ziggurat.
-   While it wasn't present in the Conquest remodel, Tiamat has fully covered over all the windows with thick vines and thorns, so she doesn't have to look at the *huge, bellowing* thunderstorm outside - so the inside is now nearly pitch black darkness. Tiamat immediately is aware of Morgana and stalks her down; Morgana pledges herself in return for a unnamed favor. Tiamat finds this both hilarious and insulting that Morgana seeks to bargain (when all of Tiamat's other allies came free), but Morgana grovels a bit and gets to keep her life.
+   While it wasn't present in the Conquest remodel, Tiamat has fully covered over all the windows with thick vines and thorns, so she doesn't have to look at the *huge, bellowing* thunderstorm outside - so the inside is now nearly pitch black darkness. Tiamat immediately is aware of Morgana and stalks her down; Morgana pledges herself in return for a unnamed favor. Tiamat finds this both hilarious and insulting that Morgana (a mortal) seeks to bargain (when all of Tiamat's other allies came free), but Morgana grovels a bit and gets to keep her life.
 
    After a back and forth that Tiamat ain't afraid of no Gilgamesh (thus Arthur), Tiamat ~~cracks open a Monster Energy, sighs contentedly and puts on some nu-age boomercore tunes~~ declares that she's already got a contingency plan that she was just about to put into action, that she should have done a long time ago....*now she's back operating at full power again...*...!.....
 
@@ -869,7 +871,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 -> HER. <-
 -> **DEATH!** <-
 
--> FO*OOO*RSA*AAAA*KEEEEN, SHE WA*AAA*AS AWAKENED, <-
+-> FO*OOO*RSA*AAAA*KEEEEN, SHE WA*AAA*AS AWAKE*EEEEE*ENED, <-
 -> BY EGYPT'S ASH IN DARK ABY*YYYYYY*SS. <-
 -> DE-SCEN-DING MISER*RRR*Y*YYYYYYYYY.* <-
 -> NEITHRESTORING THREADS OF TI*IIIIIIIII*IME. <-
@@ -897,7 +899,10 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 -> **IS DROWNING.** <-
 -> **THE ENTIRETY OF EARTH.** <-
 -> **AND THE DIVINE REALM.** <-
--> **IN A FLOOD LIKE NO OTHER.** <-
+-> **IN AN APOCALYPSE FLOOD LIKE NO OTHER.** <-
+-> **TO REMAKE REALITY.** <-
+-> **IN. HER. IMAGE.** <-
+
 ->  ***(THE LAST ONE IN THE BABYLONIAN PANTHEON BEING THE SAME ONE THAT FEATURES IN THE BIBLE)*** <-
 
 ->  **AS TSUNAMIS.** <-
@@ -965,18 +970,21 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 ***
 
    ***CONQUEST MAP INTERLUDE 3: CABIN FEVER LOL** - Unlike the wet fart in-narrative (or at least 'reinforcing' how much of a wet fart it was in-narrative, given it's apparent scope) this round of evolution after the apparent flood saw Conquest's biggest layout alteration of the 'evolving map' cycle for Season 8, along with it's own dedicated trailer.*
+	*In essence, the entire map was levelled, leaving ruins and broken trees everywhere.*
 
- *The vine walls and additional foliage were removed from the map scenery, and the external sides of Solo and Duo lane were olbiterated away by the apparent tidal waves that ravaged the coasts of the world. Solo lane lost almost all vegetation from the outside of the lane to just before the Jungle, and the walls next to the Totem of Ku were replaced by moored, broken up greek ships. The skybox itself was changed from the thunderstorm set against a purple sky, to a stormy vortex swirling around the Ziggurat, in generally a grey / navy blue palatte.*
+ *The vine walls and additional foliage were removed from the map scenery, and the external sides of Solo and Duo lane were olbiterated away by the apparent tidal waves that ravaged the coasts of the world. Solo lane lost almost all nearby vegetation, all the way from the outside of the lane to just before the Jungle, and the walls next to the Totem of Ku were replaced by moored, broken up greek ships. The skybox itself was changed from the thunderstorm set against a purple sky, to a stormy vortex swirling around the Ziggurat, in generally a grey / navy blue palatte.*
 
-   *The more notable changes however were in Duo lane, with the addition / return of a mini side-lane jungle, along with the single large side-harpy camp being 'destroyed' and thus split up into two single-harpy camps.*
-   *In place of what used to be a small tomb at the outskirts of the centre of Duo lane, there was now a small rocky area apparently formed after the flood washed it away (and an oddly out-of-place rotting Ichythosaur corpse washed up on the Chaos-side as the seeming culprit for what collided with / destroyed the outcrop). The resultant gameplay feature of the new side-lane jungle was the addition of the Draugr boss - acting as a strategic defensive buff if killed, that reinforced all towers on the killers side of the map with a stacking structure DR buff depending on how many players were under the structure.*
+   *The more notable changes however were within Duo lane, with the addition / return of the mini side-lane jungle, along with the large side-harpy camp being 'destroyed' and thus split up into two single-harpy camps.*
+   *In place of what used to be a small tomb just out from of the centre of Duo lane, there was now a small rocky area, apparently formed after the flood washed it away (and an oddly out-of-place rotting Ichythosaur corpse washed up on the Chaos-side as the seeming culprit for what collided with / destroyed the outcrop). The resultant gameplay feature of the new side-lane jungle was the addition of the Draugr boss - acting as a strategic defensive buff if killed, that reinforced all towers on the killers side of the map with a stacking structure DR buff depending on how many players were under the structure.*
 
-   *Oh, and while we're here - I'll throw you an optional aside, within an interlude.*
+   *Oh, and while we're here - I'll throw you an optional aside, within a pacing interlude.*
    *'Interludeception'...*
 
 ***On Draugrs and Great Floods - An Aside***:  *https://rentry.org/smgenloreasidespt2#on-draugrs-and-great-floods*
 
 -> ![S8 Conq Phase 3](https://files.catbox.moe/c6qvq3.jpg) <-
+
+-> ![S8 Conq Phase 3 Icyth](https://files.catbox.moe/nr12qf.jpg) <-
 
 ***
 
@@ -984,8 +992,8 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
    We all know who lives in the Strait of Messina.
 
-   Scylla is protecting something and tells her to fuck off, unphased at the in-lore x100 size difference. Scylla's dog-heads snarl at Tiamat - Tiamat shuts them all the fuck up by superheating / crackling the water around her wings and snarling much louder back  *~~Scylla seems to be alive and well after being fucking slaughtered by Susano-O and reset back into existence years later; they seem to have forgotten about that~~*.
-   Tiamat promises they can 'get back at Zeus' if they 'play along' with her. Grooming aside, out of the depth of the cave, comes another small child shuffling out with a huge shackle wrapped around her leg, interested in the proposition.
+   Scylla is protecting something and tells her to fuck off, unphased at the in-lore x100 size difference. Scylla's dog-heads snarl at Tiamat - Tiamat shuts them all the fuck up by superheating / crackling the water around her wings and snarling much, much louder back  *~~Scylla seems to be alive and well after being fucking slaughtered by Susano-O and reset back into existence years later; they seem to have forgotten about that~~*.
+   Tiamat promises they can 'get back at Zeus' if they 'play along' with her. Grooming aside, out from the depths of the cave, comes another small child shuffling out, with a huge shackle wrapped around her leg, interested in the proposition.
 
  -> It's the ~~ugly boy~~ ~~cute girl~~ stinkin' monster, Charybdis! <-
 
@@ -995,13 +1003,13 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
 ***
 
-   Timeski-***H O L Y.  F U C K I N G.  S H I T. CALM DOWN, WAIT, WHAT (?!!!)***
+   Timeski-***H O L Y.  F U C K I N G.  S H I T. CALM DOWN, WAIT, WAIT, WHAT (?!!!)***
 
 -> **SCYLLA AND CHARYBDIS HAVE KILLED SUCH AN INCOMPREHENSIBLY HUGE AMOUNT OF MORTALS BY THEMSELVES *WAIT, WHAT (?!!!)*, THAT IT WAS STARTING TO DIRECTLY FUCKING AFFECT THE TOTAL WORSHIPPOWER OF THE ENTIRE FUCKING DIVINE REALM** ***(AKA THE JORMUNGANDR METHOD OF DRAGGING TO GODS TO YOU, BUT WITH MORE ACTUAL GENOCIDE).*** <-
 -> ***WAI-WAIT, WHAT THE FUCK (?!!!)*** <-
 -> ***WHERE THE FUCK DID THAT COME FROM?*** <-
 
--> *~~Looks like we did get a major fucking happening, this arc after all. As Gordon Ramsey says - "Finally, some good fucking writing".~~* <-
+-> *~~Looks like we did get a major fucking happening, this arc after all.~~* <-
 
 -> *...* <-
 
@@ -1011,16 +1019,18 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
 -> *O\_O* <-
 
-   So...*{woah, just a second, I'm still trying to take that in}*
+   So... *{woah, just a second, I'm still trying to take that in}*
 
 -> *...* <-
 
-   So. These two prepubescent brats spent the last few weeks *~~teleporting bread~~* mercilessly slaughtering an innumerable amount of innocents *(for the scope indicated, by the lore's own admission - easily tens of millions, if not more - 7, digits - XX,XXX,XXX dead by Scylla and Charybdis's personal action)* along various ruined and flooded coastlines - \*basically uncontested\* - right under the noses of the Divine Realm, while the Gods cautiously waited to siege out Tiamat's attack.
-   See, the ~~two girls~~ girl and Charybdis 'claim' to have been trying to bait Zeus out into the open for Tiamat (and themselves) to deal with, but I mean, holy fucking shit calm down - because as of now, Danger-Duo right here easily have the shared highest killcount *in the entire narrative so far as of writing* - the two far more than likely out-killing Ares when he was genociding cthultists.
+   So. These two prepubescent brats spent the last few weeks *~~teleporting bread~~* mercilessly slaughtering an innumerable, incomprehensible amount of innocents *(for the scope indicated, by the lore's own admission - easily tens of millions, if not more - 7, digits - XX,XXX,XXX dead by Scylla and Charybdis's personal action)* along various ruined and flooded coastlines - \*basically uncontested\* - right under the noses of the Divine Realm, while the Gods cautiously waited to siege out Tiamat's attack.
+   See, the ~~two girls~~ girl and Charybdis 'claim' to have been trying to bait Zeus out into the open for Tiamat (and themselves) to deal with, but I mean, holy fucking shit calm down - because as of now, Danger-Duo right here easily have the shared highest killcount *in the entire narrative so far as of writing* - the two far more than likely that not, out-killing Ares when he was deliberately genociding cthultists. Ares was just killing off one figure's followers to piss it off - Scylla and Charybdis did the same... *but for everyone*.
 
 -> *...* <-
 
    *I guess that's what happens when you have nuke-Ults that reset on a kill, vs things that are extremely easy to kill.*
+
+***Scylla, Charybdis & the Strait of Messina aside***: *https://rentry.org/smgenloreasidespt2#scylla-charybdis-the-strait-of-messina*
 
 -> *...* <-
 
@@ -1042,22 +1052,20 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
 ***
 
-   *So uhhh... ye-yeah, back to... uhhhh pro-pr-proceedings...*
+   *So uhhh... ye-yeah, back to... uhhhh back to, back to pro-pr-proceedings...*
 
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/74mttg.mp3) <-
 
    Gilgamesh, Poseidon, Bellona, Mercury, Mulan, King Arthur, Merlin, Yemoja and Susano-O (9v2) have all been dragged in to deal with Scylla & Charybdis's little 'rampage' / temper tantrum genocide, while the majority of the Gods otherwise are still awaiting a major siege *(insert stale gamemode joke)* / attack from Tiamat.
    Alone, the two kids would definitely be easy enough to deal with ~~*(Susano-O should know)*~~, but with them fighting together and compounded with Tiamat's ongoing storm conditions and while *they're still fucking killing mortals as the Gods arrive to deal with them ~~can they not stop for one second?~~*, it's divine double-trouble. They cover each others weaknesses perfectly, and play to each other's strengths - on optimal terrain, with functional hostages.
 
-***Scylla, Charybdis & the Strait of Messina aside***: *https://rentry.org/smgenloreasidespt2#scylla-charybdis-the-strait-of-messina*
-
 -> ![Storm](https://files.catbox.moe/8igal0.png) <-
 
    We intro with a full on naval battle, with the cleanup crew closing in on the ~~girls~~ girl and Charybdis in the Ionian Sea *(the area between Greece and Italy; aka the boundaries being northmost at the tip of the boots heel, southmost being the line between the bottom of Sicily and southwest Greece)*.
    Mercury's running on top of the water to catch people thrown overboard and move them to the shore; Gilgamesh, Mulan and Arthur are helping the mortals out and ordering an evac inland for a nearby mortal fishing village, Yemoja and Susano-O are controlling the storm within the localised area, while Bellona and Poseidon are on brat-containment duty.
 
-   Mercury is violently flung away to the shore by Charydis's 2 (Wave Pulse), Gilgamesh reacts just in time to see and react to Charybdis, before being dommed to the floor by her 1 (Water Shot). Yaranaika. Gilgamesh goes to attack after deflecting a throwing dagger, Poseidon uses his 1 (Tidal Wave) to separate the two and reminds Gilgamesh he's not God-tier yet, telling him to focus on evac'ing the mortals. Bellona, meanwhile, dashes up a capsized and sinking ship to go for Scylla, who's perched at the top, taking potshots at everyone with her Ult as she giggles in delight because she's gets to kill innocents.
-   Poseidon mournfully catches Gilgamesh up with Charybdis's mythology *(except implying he was the one who ordered her to try to flood the land)*; before using another Tidal Wave / 1 to force Bellona away from Scylla, then activating his 2 so he can speed off to deal with Scylla himself. Bellona quickly swims over *~~wet tomboy...~~* to Gilgamesh to complain a bit, then check on the status of the evac, before Mulan gives them a gay-ass lecture on how it's all their fault and the mortals are going to have to deal with the consequences of having fucked up fishing boats etc.
+   Mercury is violently flung away to the shore by Charydis's 2 (Wave Pulse), Gilgamesh reacts just in time to see and react to Charybdis, before being dommed to the floor by her 1 (Water Shot). Yaranaika. Gilgamesh goes to attack after deflecting a throwing dagger, Poseidon uses his 1 (Tidal Wave) to separate the two and reminds Gilgamesh he's not God-tier yet, telling him to focus on evac'ing the mortals. Bellona, meanwhile, dashes up a capsized and sinking ship to go for Scylla, who's perched at the top, taking potshots at everyone with her Ult as she giggles in delight because she gets to kill innocents.
+   Poseidon mournfully catches Gilgamesh up with Charybdis's mythology *(except implying he was the one who ordered her to try to flood the land)*; before using another Tidal Wave / 1 to force Bellona away from Scylla, then activating his 2 so he can speed off to deal with Scylla himself. Bellona quickly swims over *~~wet cheerful tomboy...~~* to Gilgamesh to complain a bit, then check on the status of the evac, before Mulan gives them a gay-ass lecture on how it's all their fault and the mortals are going to have to deal with the consequences of having fucked up fishing boats / being fucking dead etc.
    Bellona just ignores her because she can't help being based, Gilgamesh feels a little bad for kicking it all off.
 
    All this time Arthur was on the shoreline, spamming his non-combo 1 (the sword-shockwave) to break up the mega-waves and any debris before it can pose a threat to the village evacuating behind him - too busy actually saving lives to give a shit what anybody else is whining about, too busy to even care about wherever Merlin had wandered off to.
@@ -1065,9 +1073,9 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
  *Cinematic time... and yet again...\*{sigh}\**
  *They didn't even give Scylla a model.*
 
- *At least it doesn't outright conflict with the lore... it's just, kind of a cool intro, likely around the start of the evac when there were more mortals on the ships - before the events above. The start's kinda gay ~~doesn't even rhyme lole~~ and the >american\_voice\_actor accents are painful to listen to - but hey, it looks pretty good after that.*
+ *At least it doesn't outright conflict with the lore... it's just, kind of a cool intro, likely set around the start of the evac, when there were more mortals on the ships - before the events above. The start's kinda gay ~~doesn't even rhyme lole~~ and the >american\_voice\_actor accents are painful to listen to - but hey, it looks pretty good after that.*
 
-  *Watch it if you want*; https://youtu.be/XeZbwwdMLAg
+  *Watch it [if you want](https://youtu.be/XeZbwwdMLAg?t=23), I've timestamped it to skip the cringey non-cinematic 'intro'.*
 
 -> ![Chary Cine Concept](https://files.catbox.moe/hftey1.jpg) <-
 
@@ -1078,21 +1086,21 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
    Mini-timeskip.
 
    Now that there's no hostages who need catching; Mercury is running across the water trying to use some magical chain to lock down Charybdis again.
-   Fearing for her ~~chastisy~~ freedom, the little tomboy loli backtracks, and is forced back-to-back to make a final stand on the waters surface with Scylla (who isn't really paying attention, and is still just enjoying herself). Turns out they weren't being 'completely' indiscriminate with their unapologetic genocide *(again, quick reminder they killed so many people it forced the collective Divine Realm to pay attention them)*, and were focusing on Zeus-loyal mortals to specifically weaken him. The two manage to knock the magic chain out of Mercury's hand, and it starts to sink into the sea.
+   Fearing for her ~~chastisy~~ freedom, the little tomboy loli backtracks, and is forced back-to-back to make a final stand on the waters surface with Scylla (who isn't really paying attention, and is still just enjoying herself). Turns out they weren't being 'completely' indiscriminate with their unapologetic genocide *(again, quick reminder they killed so many people it forced the collective Divine Realm to pay attention them)*, and were focusing on Zeus-loyal mortals *(and presumably any Gods who sided with him)* to specifically weaken him. The two manage to knock the magic chain out of Mercury's hand, and it starts to sink down into the sea.
 
-   *As for where they are then, while Zeus was widely worshipped simply as Pantheon-head around Greece and in other incarnations around the Mediterranean, few areas specifically focused on him as he was just presumed to be important enough just not need a temple / oracle (passively worshipped at all temples). Of the places located near the coast of the Ionian Sea that actually focused on his worship; the two major ones would be Epirus, his only Oracle in Ancient Greece, located at the northermost point of the Ionian Sea at modern day south Albania / near Corfu*
+   *As for where they are then, while Zeus was widely worshipped simply as Pantheon-head around Greece and in other incarnations around the Mediterranean, few areas specifically focused on him, as he was just presumed to be important enough just not need a temple / oracle (passively worshipped at all temples). Of the places located near the coast of the Ionian Sea that actually focused on his worship; the two major ones would be Epirus, his only Oracle in Ancient Greece, located at the northermost point of the Ionian Sea at modern day south Albania / near Corfu*
  -> *OR* <-
-   *Olympia, where the Olymp-ics were held in honor of him - along with an accompanying Acropolis / pillared temple-fort to him and Hera loacted just at the centre coast of the large landmass of Peloponnesia on the southeast end of the Ionian.*
-  *~~I don't think Lo-Rez knew of, or intended this - but we're better than them, aren't we, dear reader~~*
+   *Olympia, where the Olymp-ics were held in honor of him - along with an accompanying Acropolis / pillared temple-fort to him and Hera, located just at the centre coast of the large landmass of Peloponnesia on the southeast end of the Ionian.*
+  *~~I don't think Lo-Rez knew of, or intended this - but we're better than them, aren't we now, dear reader~~*
 
-Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but looks anyways,
+Mercury points up at something to 'distract' Charybdis, Charydbis almost calls bluff but looks up anyways,
 -> ![Chary looks at the thing](https://files.catbox.moe/9yjagk.jpg) <-
    before Zeus bolts on in top of th- HOLY FUCKING SHIT, ZEUS BRUTALLY PELTS A LIGHTNING BOLT STRAIGHT INTO SCYLLA'S RIBCAGE BEFORE ANYBODY COULD EVEN REACT, KNOCKING HER OUT COLD. HOLY FUCKING SHIT ZEUS STARTS DRAGGING SCYLLA'S UNCONSCIOUS BODY AROUND BY THE COLLAR ATOP THE WAVES!
    Charybdis is scared, tries to walk backwards away from him, and tears up. ~~She~~ ~~He~~ Charybdis tries to hide the tears welling up and stutters that Zeus was a weak coward for needing all the other Gods to tire out some little girls for him. Zeus smugly ~~laughs straight in her face~~ chuckles and ~~gives her the middle finger~~ corrects that to "a uhhh *winning* coward".
    Charybdis copes, seethes and nearly cry-lates about this, on top of facing that she's going to have to go back to solitary confinement, on top of the fact that she's a bullied orphan that'll never be loved ~~*lol, all is well and true in the SMITEverse too it seems*~~.
 
-   Poseidon has his trident pointing into the back of Charybdis's neck, and gloomily says she shouldn't have gone after innocents. Mercury manages to pick up the chain again, Zeus smugly points and laughs at the orphan even mo- HOLY FUCKING SHIT POSEIDON SLAMS THE POLESIDE OF HIS TRIDENT INTO ZEUS'S SIDE (BETRAYAL!), AND USES TWO MEGAWAVES TO FLING MERCURY AWAY AND DRAG DOWN ZEUS UNDER THE SURFACE. Charybdis is frozen in genuine shock that her deadbeat dad both grow some balls and use said balls to stick up for her, as Poseidon tells her they need to GTFO before Zeus recovers and fucking ...SMITE!!!'s them both. To punctuate that notion, there's a very intense lightning storm under the surface of the sea, as Zeus dials his anger up to 11 over what was supposed to be his stress relief orphan-bullying.
-   Charybdis has to remind him to pick up Scylla's unconscious body ~~*lol*~~, Poseidon pauses for far longer than he should have  ~~*lol x2*~~ and considers ditching Scylla anyways despite being barely a few paces away ~~*lol x3*~~ before he cradles the two in his arms and blasts off underwater, towards Tiamat's Ziggurat to seek sanctuary.
+   Poseidon has his trident pointing into the back of Charybdis's neck, and gloomily says she shouldn't have gone after innocents. Mercury manages to pick up the chain again, Zeus smugly points and laughs at the orphan even mo- HOLY FUCKING SHIT POSEIDON SLAMS THE POLESIDE OF HIS TRIDENT INTO ZEUS'S SIDE (BETRAYAL!), AND USES TWO MEGAWAVES TO FLING MERCURY AWAY AND DRAG DOWN ZEUS UNDER THE SURFACE. Charybdis is frozen in genuine shock, both that her deadbeat dad managed to grow some balls and then actually use said balls to stick up for her for once. Poseidon tells her they need to GTFO before Zeus recovers and fucking ...SMITE!!!'s them both. To punctuate that notion, there's a very intense lightning storm under the surface of the sea, as Zeus dials his anger up to 11 over what was supposed to be his stress relief orphan-bullying session.
+   Charybdis has to remind him to pick up Scylla's unconscious body ~~*lol*~~, Poseidon pauses for far longer than he should have like the deadbeat he is ~~*lol x2*~~ and considers ditching Scylla *(his daughters only friend)* anyways, despite being barely a few paces away ~~*lol x3*~~ before he cradles the two in his arms and blasts off underwater, towards Tiamat's Ziggurat to seek sanctuary.
 
 ***
 
@@ -1112,16 +1120,17 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
 
 ****
 
-   Off in the distance, Merlin's skulking around using the same illusion-invis-cloak Morgana previously used to simply observe the fight, not feeling like he needs to intervene and steal any of Arthur's hero-spotlight and not really seeing how otherwise helping would be to his interests.
+   Off in the distance, Merlin's skulking around using the same illusion-invis-cloak Morgana previously used to simply observe the fight, not feeling like he needs to intervene and steal any of Arthur's hero-spotlight, and not really seeing how helping otherwise would be to his interest.
 
-   He proudly watches Arthur explode a projectile-boat with the partially-charged Ult projectile-thing and save more innocents (pretty badass), but is glum that 'Camelot' is now proto-Britannia *(the implication that now they're time travellers, and not dimension-travellers...? ~~the fuck..~~)* and thus just a hollow and primitive imitation of their home. Morgana casually walks up next to him as if he wasn't even invisible *(to Merlin's slightly autistic embarrassment)* and explains that she told-you-so'd Tiamat that it'd end up like this, in that Scylla / Charybdis wouldn't make a B-line for Olympus and would instead go on a rampage.
-   Merlin calmly says her expertise is wasted on Tiamat, and she should help out at King Arthur with Olympus instead. Things nearly get heated at the King Arthur fanclub meeting, until they both explain they're both only there to try to ask Cliodhna some questions on current events, who herself has been drawn out of hiding over the recent genocide, and is now wandering / floating around the coastline of the Mediterranean, following the little darlings who enticed her out.
+   He proudly watches Arthur explode a projectile-boat with the partially-charged Ult projectile-thing and save more innocents (pretty badass), but is glum that 'Camelot' is now proto-Britannia *(the implication that now they're time travellers, and not dimension-travellers...? ~~the fuck..~~)* and thus just a hollow and primitive imitation of their home. Morgana casually walks up next to him as if he wasn't even invisible *(to Merlin's slightly autistic embarrassment)* and explains that she told-you-so'd Tiamat that it'd end up like this, in that Scylla / Charybdis wouldn't make a B-line towards Olympus and would instead go on a mortal-slaying rampage.
+   Merlin calmly says her expertise is wasted on Tiamat, and she should help out at King Arthur with Olympus instead. Morgana disagrees again, and thinks Merlin isn't doing the best thing possible for King Arthur. Things nearly get heated at the King Arthur fanclub meeting, until they both explain they're both only there to try to ask Cliodhna some questions on current events, who herself has been drawn out of hiding over the recent genocide, and is now wandering / floating around the coastline of the Mediterranean, following the two little darling sea monsters who enticed her out.
 
    *Cliodhna's just got a thing for spooking the basically-dead in their final moments; no real evident reason, she's just a tormenting piece of shit. Like, she has her own spectral reality with locks on the doors for the mortals to try to protect themselves with, and this bitch just passes through the door. In the cinematic she's going after a father whose daughter died - just, no standards whatsoever.*
    *Though, if you've been wandering the Earth as a bored ghost for milennia, can you blame her? ~~I mean, I'd probably do the same.~~*
 
   *Once again, God cinematic with nothing to do with the progression of the lore. Even the bit in the sky doesn't happen - Zeus never directly confronts Scylla & Charybdis in battle.*
-   *Watch it or ignore it;* https://youtu.be/Ve44S-evQ28
+
+   *[Watch it](https://www.youtube.com/watch?v=Ve44S-evQ28) or ignore it. It's just how she's entertaining herself, not anything plot-significant.*
 
 -> ![Clio Cine Concept](https://files.catbox.moe/ipvtdl.jpg) <-
 
@@ -1144,7 +1153,7 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
 
    Morgana is confused at what that's supposed to mean, since Tiamat has no stated intent for mindless destruction, only rulership. Cliodhna points out intent =/= results.
    Merlin asks if there's any way to end the painful cycle outright; Cliodhna says that the Gods and Worshippower are like flames burning on semi-finite resources - you can't make it last forever, only temper and extend it so that the flame burns at the same rate as the fuel replenishes. Which inferrably means if 'some' of the Divine Realm wants to survive this loop (instead of Jormungandr just killing them all equally)... well a divine cull is still in order. These are da rulez - you can't get around them. They are the set-in-stone laws of this fictional narrative. No workarounds. We're gonna have some niggas dead by the end of this.
-   Morgana faints as she catches up to Merlins train of thouht (the two almost cordially friendly again), before Merlin suggests they need to get Tiamat in on this.
+   Morgana faints as she catches up to Merlins train of thought (the two almost cordially friendly again), before Merlin suggests they need to get Tiamat in on this.
 
 ***
 
@@ -1155,12 +1164,13 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
    ***CONQUEST MAP INTERLUDE 4: CHRISTMAS SPECIAL LOL** - For the final change of the living Conquest map during Season 8 ~~aside from the usual custom SPL additions in the last patch of the season~~, this alteration saw the entirety of the Conquest covered in a blanket of snow, with an accompanying overcast snowstorm acting as the skybox.*
 
    *Lorewise, this was said to mirror ~~Winter / Christmas of 2021~~ the fact that the Divine-realm / Tiamat conflict had apparently begun to be drawn out ~~???, in-narrative it's barely been a few days / weeks it seems, just poor communication between the lore intern and the rest of the team - it they wanted more realistic bullshit, it'd be better to say it matches the shift in lore-setting from the warm Mediterranean to to the Polar Norse~~, along with the release of Cliodhna, who would haunt the aptly named 'Winter Deadwoods' of the update's namesake.*
-   *The Draugr and newly added Duo lane side-jungle remained - however the new addition for this alteration were Winter Lanterns, placed at various chokes around the map ~~(not the Bloodborne 'oh fuck' moments, just actual stone standing-lanterns)~~. If hit by a single basic attack, these would spill out smoke functionally identical to stationary Nu Wa invisibility clouds, offering invis to any who entered, but breaking invis if the player attacked, was revealed by a ward or if an enemy also entered the mist.*
+   *The Draugr and newly added Duo lane side-jungle remained - however the new addition for this alteration were Winter Lanterns, placed at various chokes around the map ~~(not the Bloodborne 'oh fuck' moments, just actual stone standing-lanterns)~~. If hit by a single basic attack, these would spill out smoke functionally identical to stationary Nu Wa invisibility clouds, offering invis to any who entered, but breaking invis if the player attacked, was revealed by a ward or if an enemy also entered the mist. Naturally, this resulted in ebin 1v5 jumpscares as entire teams would sit inside the Mid Winter Lantern on the Gold Fury side and wait for some unlukcy soul to pass by unaware. Without needing to be told to do so.*
 
-   *While these were a neat gameplay idea as a substitute for mid-lane Stealth Grass as seen in other MOBAs, their locations throughout the map functionally meant they were almost never used for ambushes / escapes, aside from the two mirrored on the outer wall of the Red Buff in the corridor between Mid and the Gold Fury (which sees quite a bit of traffic). The rest were either hidden in a low-traffic area of the Jungle, too close to a wall nobody would choose to path near, or right next to the base (and too far away to be used while pushing Phoenixes).*
+   *While these were a neat gameplay idea as a substitute for mid-lane Stealth Grass as seen in other MOBAs, their locations throughout the map functionally meant they were almost never used for ambushes / escapes, aside from the three around Mid (two mirrored on the outer wall of the Red Buff, in the corridor between Mid and the Gold Fury, which saw quite a bit of traffic; the other one being on the opposite side of the Pyomancer's wall, overlooking a harpy camp). The rest were either hidden in low-traffic areas of the Jungle, too close to a wall nobody would choose to path near, or right next to one of the bases (yet too far away to be used while pushing Phoenixes).*
    *For a provisional addition though, they were generally well-recieved, and perhaps might return in more aggressive positioning within a lane itself in a later patch. ~~(Next time they should place roaming Bloodborne Winter Lantern enemies around the map, maybe for the next Great Old One release, just to see how it plays out lole. It'd be funny to imagine that Junglers are no longer the only things that can oneshot you in the jungle)~~*
 
    *Aside from that, the map was genuinely beuatiful and comfy to just play around on. Top-tier, easily the best and cleanest state the Conquest map has been in, to both look at and play on, especially with how the palatte naturally contrasts with the red enemy outlines and overlays, while not burning your eyes out with bright white.*
+	*Fuck, I miss this map.*
 
 -> ![S8 Conq Phase 4](https://files.catbox.moe/6lbo96.jpg) <-
 
@@ -1168,15 +1178,15 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
 
    Timeskip of a few weeks / months, and we intro back in onto Tiamat and Merlin sat down next to each other atop a snowy mountain, as they quietly watch a small Norse village do it's thing before them.
 
-   *I meantioned a while before, but no, this isn't set in Assault - this is Fafnir's Mountain, which has featured in it's own map for his dedicated Adventure mode, years ago (as in, before the Lore event got going). While easy to pass off as a reach, the description aligns perfectly, the setting is clearly more polar / mountainous than Assault and overall it does feel like it was intended to be set here.*
-   *Ignore the Christmas decorations and Xing Tian under a beach umbrella... that.... uhhhhhh.... w-was the..... uhhh.. th-the event.*
+   *I meantioned a while before, but no, this isn't set in Assault - this is Fafnir's Mountain, which featured in it's own map for his dedicated Adventure mode, years ago (as in, before the Lore event got going). While easy to pass off as a reach, the description aligns perfectly, the setting is clearly more polar / mountainous than Assault and overall it does feel like it was intended to be set here.*
+   *Ignore the Christmas wreath and Xing Tian under a beach umbrella... that.... uhhhhhh.... w-was the..... uhhh.. the... th-the Adventure event.*
 
 -> ![Mount Fafnir](https://files.catbox.moe/1zp2gh.jpg) <-
 
    Tiamat asks what Merlin's deal is, casually looking for any reason whatsoever to kill him. Merlin responds he's just as trustworthy as Morgana and that if Jormungandr gives them some answers on le cycles, they might be able to get a peace treaty out of Olorun and the wider Divine Realm - so instead of subverting Zeus and thus Gilgamesh thus the Anunnaki, just going over their heads entirely. Merlin isn't particularly self-serving, just self-interested - he's got his reasons for doing things, but prefers it when everyone benefits on top of himself. In this case, he only wishes to fix what his actions have unknowingly interfered with, in hopes that it doesn't impact his own plans in the future. Tiamat pokes him like a Rothschild pokes a President or a member of a Royal Family and reminds him they're not frens *(yet)*; unlike Poseidon *(who she became quite fond of, stemming from recent events)*.
-  Tiamat seems to find it quite darkly funny how Merlin manages to get away with saying 'kill-me-where-I-stand' words *(and that's the nature of their relationship)*, and then asks where the fuck Mungo's supposed to be.
+  Tiamat seems to find it quite darkly funny how Merlin is able to get away with saying 'kill-me-where-I-stand' words *(and that's the nature of their relationship)*, and then asks where the fuck Mungo's supposed to be.
 
-*Nice little bit I thought to lift from the source, for you*
+*Nice little bit I thought to lift from the source, for you;*
 *\>Merlin rubbed his chest.*
 *\>“Yes, well, one should know better than to trust the wisdom of monsters.” He hesitated. “Present company excluded, obviously.”*
 *\>“Obviously,” Tiamat said, in an amused growl.*
@@ -1187,10 +1197,10 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
    Both are genuinely about to fucking kill each other *(Mungo uses his laugh emote, then his his 2 / Bellow-Roar; Tiamat uses her Ground 1 / Roar before charing her Aerial 1 / wings)* - but to the readers disappointment... while Merlin is also tempted to watch a badass dragon fight at Mt. not!Smaug *(and see what happens next if Tiamat is by-chance taken out by Mungo)*; Merlin sees Cliodhna getting ready for some spooking nearby and doesn't want to risk another genocide event - so he breaks it up and apologises for getting in Mungo's way.
    Merlin then asks what they need to do to fix le cycle for this loop.
 
-   Mungo sighs, and explains to Merlin that this cycle isn't the first one that skipped a beat and defeated Jormungandr for good - but in the few times he would occasionally fail and couldn't manage to recover in time, the remaining Gods would end up getting into a conflict with each other, doing some shit they didn't understand and then tearing open a hole in reality / to the outer reaches of Chaos, outside of the known Universe - at which point *something* ~~aka a Great Old One~~ would slip on in and somehow genocide all the Gods in Mungo's place anyways, on top of nearly all the mortals. ie - The Third Outcome. While cruel, Jormungandr was doing the Gods *(and more importantly to Mungo, the mortals affected)* a favor by initiating divine culls before this happened; preventing the Divine Realm from even getting to the point they could accidentally let a new Geat Old One in.
-   Those few times he ever was totally defeated by the Gods of that loop and the Third Outcome occurred, Mungo would flee & lay low under the Earth's surface *(like he did previously)*; then he'd begin dealing with whatever Eldritch being was left over each time - hiding out of reach under the crust each time, resting up and repeating any fight in this method until he eventually won against the the Eldritch Being and sealed them away *(yes - at one point Jormungandr and Cthulhu had a badass fight offscreen in a very early loop, which led to Mungo not only defeating Cthulhu, but seeing to it that Cthulhu was completely and near-eternally imprisoned in sleep - despite being a snake with no hands)*.
+   Mungo sighs, and explains to Merlin that this cycle isn't the first one that skipped a beat and defeated Jormungandr for good - but in the few times he would occasionally fail and couldn't manage to recover in time, the remaining Gods would end up getting into a conflict with each other, doing some shit they didn't understand and then tearing open a hole in reality / to the outer reaches of Chaos, outside of the known Universe - at which point *something* ~~aka a Great Old One~~ would slip on in and somehow genocide all the Gods in Mungo's place anyways, on top of nearly all the mortals. ie - The Third Outcome. While cruel, Jormungandr was doing the Gods *(and more importantly to Mungo, the mortals affected)* a favor by initiating divine culls before this happened; preventing the Divine Realm from even getting to the point they could accidentally let a new Great Old One in.
+   Those few times he ever was totally defeated by the Gods of that loop and the Third Outcome occurred, Mungo would flee & lay low under the Earth's surface *(like he did previously)*; then he'd begin dealing with whatever Eldritch being was left over each time - hiding out of reach under the crust each time, resting up and repeating any fight in this method until he eventually won against the the Eldritch Being and sealed it away *(yes - at one point Jormungandr and Cthulhu had a badass fight offscreen in a very early loop, which led to Mungo not only defeating Cthulhu, but seeing to it that Cthulhu was completely and near-eternally imprisoned in sleep - despite being a snake with no hands)*.
 
-   *~~My internal screams as the lore once again sticks it's head up it's ass in what would have been another potentially amazing writing opportunity for a written fight wasted, aside (also don't forget Mungo is still apparently just the Arthurian Dragon, and was happy to attack mortal settlements in the Arthurian reality / timeline / loop + job to King Arthur in his default forme)~~*; Mungo chuckles to himself, proud of his life's work, and goes on that there is still far more powerful Great Old Ones he's had to deal with beforehand than just Cthulhu, all lurking around in the reaches of the unknown *(foreshadowing...)* beyond the boundaries of reality / within outer Chaos. Cthulhu was just the equivalent of an outreach guy / door salesman that Mungo stuffed under the floorboards and forgot about until he figured out how to get rid of it properly.
+   *~~My internal screams as the lore once again sticks it's head up it's ass in what would have been another potentially amazing writing opportunity for a written fight wasted, aside (also don't forget Mungo is still apparently just the Arthurian Dragon, and was happy to attack mortal settlements in the Arthurian reality / timeline / loop + job to King Arthur in his default forme)~~*; Mungo chuckles to himself, proud of his life's work, and goes on that there is still far more powerful Great Old Ones he's had to deal with beforehand than just Cthulhu, all lurking around in the reaches of the unknown *(foreshadowing...)* beyond the boundaries of reality / within outer Chaos. Cthulhu was just the equivalent of an outreach guy / door salesman that Mungo stuffed under the floorboards and tried to forget about, until he figured out how to get rid of it properly.
    At which point Tiamat and Merlin cut to the chase, to ask how best to do 'what they need to do' in Mungo's place...
 
 ***
@@ -1207,16 +1217,16 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
 
 *Cinematic - nothing lore-related here BUUUUT, you could infer this act is him taking on a new burden each cycle, as he's apparently been a constant entity that Jormungandr doesn't really fuck with.*
 
-*Cool music btw*: https://youtu.be/tcb4g-9IDD4
+*[Cool music btw](https://youtu.be/tcb4g-9IDD4)*: 
 
 -> ![Atlas Cine Concept](https://files.catbox.moe/i4h32k.jpg) <-
 
 -> ![Atlas Cine](https://files.catbox.moe/krt49e.jpg) <-
 
-   Atlas is completely motionless, but strains some responses as Tiamat asks him some questions atop the closest mountain. Atlas assumes Zeus had been deposed by Poseidon / Hades / Typhon for them to be here *~~(in this cycle? it's unclear what he's getting at, if the Gods are the same each cycle or not)~~*, and goes on that he otherwise doesn't really care what goes on around him, as he's too busy focusing on holding the cosmos aloft (only noticing minor blips in how heavy it is whenever Jormungandr kicks off the usual Divine Genocides, and that the one he's expecting about now is stalling again). *~~Slightly major plot issue - it's implied Zeus still punished him with carrying the Astrolabe....but also that Atlas is a being from cycles beyond Zeus's.... look, just sigh and carry on like I did...~~*.
+   Atlas is completely motionless, but strains some responses as Tiamat asks him some questions atop the closest mountain. Atlas assumes Zeus had been deposed by Poseidon / Hades / Typhon for them to be here *~~(in this cycle? it's unclear what he's getting at, if the Gods are the same each cycle or not)~~*, and goes on that he otherwise doesn't really care what goes on around him, as he's too busy focusing on holding the cosmos aloft (only noticing minor blips in how heavy it is whenever Jormungandr kicks off the usual Divine Genocides, and that the one he's expecting 'round about now is stalling again). *~~Slightly major plot issue - it's implied Zeus still punished him with carrying the Astrolabe....but also that Atlas is a being from cycles beyond Zeus's.... look, just sigh and carry on like I did...~~*.
 
-   Tiamat tells him to drop it then, and let the cycle fix itself; at which point Atlas gloomily explains it's suicide / mutually assured destruction for himself, as the world would just reset to the chaotic Primordial Sea and reverting everything else with it.
-   Tiamat nods along, because that's exactly the plan now - instead of appealing to Olorun and the other Gods, why not just start out from 0 again, back when she had complete unrestricted admin access to the commandline of the Universe, especially now that she's experienced in coding with it? She can't get back in via her previous collapsed temple, so this is the only way for her to get back in the coding seat. Merlin senses Cliodhna is nearby awaiting a new genocide, and then accepts his fate and nods along with Tiamat in encouragement of Atlas ending the Universe itself.
+   Tiamat tells him to drop it then, and let the cycle fix itself; at which point Atlas gloomily explains it's suicide / mutually assured destruction for himself, as the world would just reset to the chaotic Primordial Sea, and reverting everything else with it.
+   Tiamat nods along, because that's exactly the plan now - instead of appealing to Olorun and the other Gods, why not just start out from 0 again, back when she had complete unrestricted admin access to the commandline of the Universe, especially now that she's experienced in coding with it? She can't get back in via her previous collapsed temple, so this is the only way for her to get back in the coding seat. Merlin senses Cliodhna is nearby awaiting a new genocide, and then accepts his fate and nods along with Tiamat, in encouragement of Atlas ending the Universe itself.
 
 -> ![Atlas Promo](https://files.catbox.moe/pj9jm7.jpg) <-
 
@@ -1226,7 +1236,8 @@ Mercury points up to 'distract' Charybdis, Charydbis almost calls bluff but look
    Tiamat and Merlin look at each other in bewilderment as he wanders off, scratching his ass *(probably towards his Golden Orchard / Daughters)*. Atlas bellows out from above the clouds that the concept of time itself is already fucked beyond repair *~~hold onto this thought~~*; and that in a few minutes space, then the sky / atmosphere, then the Earth will break up. You've just gotta let it run through the motions and do it's own thing before everything returns to the factory settings of the Primordial Sea and Chaos everywhere.
    He calls out that he's going to get some stretching and general R&R done until his next burden arrives come the next Universal Loop, and since he's got some free time to himself while the Apocalypse occurs. Maybe grab some snacks too.
 
-   Tiamat and Merlin shrug in bewilderment and sit down next to each other, as they quietly watch the Apocalypse unfold before them at dusk, *~~Cliodhna furiously masturbating nearby over the deaths of billions to trillions of lifeforms (or more). It's distracting, but the scenery is cooler, so it's easy to ignore~~*. Meteor showers begin to scar the sky, the stars collapse inward to Earth before fading out; and slowly all light fades away to nothing. In the darkness, all that's left is Merlin and Tiamat, until Merlin bids his final goodbye and the two end on good terms - leaving things to Tiamat. Melin feels himself absorbed by the silent, abyssal darkness - and so all that's left is Tiamat, once again.
+   Tiamat and Merlin shrug in bewilderment and sit down next to each other, as they quietly watch the Apocalypse unfold before them at dusk, *~~Cliodhna furiously masturbating nearby over the deaths of billions to trillions of lifeforms (or more). It's distracting, but the scenery is cooler, so it's easy to ignore~~*. Meteor showers begin to scar the sky, the stars collapse inward to Earth before fading out; and slowly all light fades away to nothing.
+	In the final darkness, all that's left is Merlin and Tiamat, until Merlin bids his final goodbye and the two end on good terms - leaving things to Tiamat. Merlin feels himself absorbed by the silent, abyssal darkness - and so all that's left is Tiamat, once again.
     Tiamat cracks her knuckles, and gets to business - time to make Utopia.
 
 And with that - this Universe. This loop. Has ended.
@@ -1237,8 +1248,8 @@ And with that - this Universe. This loop. Has ended.
    Tiamat. Wins.
    The 'villain', actually wins.
 
-   The cycle of rebirth is restored, and Tiamat will remake reality again in her image from the beginning, without contention, perhaps with facets set aside those who allied with her. A full year of setup, with a pristine and logical, yet still somewhat surprising conclusion.
-*Merlin / Morgana might get Camelot back, Poseidon might live in a seaside cottage with his two daughterfu's of Scylla and Charybdis as a big happy family, Persephone might oversee the dead with a hotter and hunkier CHades in an equalist and sympathetic approach, Geb might be reunited with Nut, Neith / Terra / Cernunnos / Sylvannus... might do their... uhh 'thing', Atlas might get to live the rest of his days a free man and Jormungandr might even open up a small church of athiesm in the USA to keep an eye on the remaining rascal Gods*.
+   The cycle of rebirth is restored, and Tiamat will remake reality again in her image from the beginning, without contention, perhaps with facets set aside those who allied with her. A full year of setup, with a pristine and logical; yet still somewhat surprising conclusion.
+*Merlin / Morgana might get Camelot back, Poseidon might live in a seaside cottage with his two daughterfu's of Scylla and Charybdis as a big happy family, Persephone might oversee the dead with a hotter and hunkier CHades in an equalist and sympathetic approach, Geb might be reunited with Nut, Neith / Terra / Cernunnos / Sylvannus... might do their... uhh 'thing', Atlas might get to live the rest of his days a free man and Jormungandr might even open up a small church of athiesm in the USA to keep an eye on them darn remaining rascal Gods*.
 
    Everything turned out better than expected.
 
@@ -2735,7 +2746,7 @@ And with that - this Universe. This loop. Has ended.
 
 .
 
-*And a false-reality artificial Universe created by Tiamat, where the remaining Gods have to remember who was lost along the way, as a perfect way to introduce new Gods going forward after over a year of narrative setup?*
+*And a false-reality artificial Universe created by Tiamat, where the remaining Gods have to remember who was lost along the way, as a perfect way to introduce new Gods going forward, after over a year of narrative setup with a strong, consolidated and nuanced main antagonist?*
 
 .
 
@@ -2748,7 +2759,7 @@ And with that - this Universe. This loop. Has ended.
 .
 
 
-   *You'd think 'time being broken' means that it's not really ticking that much. But... \*{sigh}\* alas...*
+   *You'd think 'time being broken' the moment Atlas dropped his weight means that it's not really ticking that much. But... \*{sigh}\* alas...*
    *We do have a fun scene however, where Olympus implodes and Olorun gets ~~anally~~ vored away into nothing because the lights in space went out before reality proper blew up. Oh, and of course Hera rushes to his side as everything breaks apart, instead of looking for Zeus. Because mature and mythologically respectful characterization.*
 
 .
@@ -2895,12 +2906,14 @@ And with that - this Universe. This loop. Has ended.
 
 ***
 
-*Oh, and this cinematic here - https://youtu.be/CNo8iVUgKww ? \*Literally\* nothing canon about it. Conflicts with everything put forward. May as well be fanfic. Ignore it entirely. I'm not even going to format this like the other cinematic mininterludes, in the genuine hope you skip over it for a better lore experience.*
+*Oh, and this cinematic *[here?](https://youtu.be/CNo8iVUgKww)* ? \*Literally\* nothing canon about it. Conflicts with everything put forward. May as well be fanfic. Ignore it entirely. I'm not even going to format this like the other cinematic mininterludes, in the genuine hope you skip over it for a better lore experience.*
+
+***
 
    So, Ganesha, God of ~~cockblocks~~ Obstructions, hobble-runs though a large flower field like he just shat himself *~~fitting~~*, to do what all Gods of Obstruction do best - summon an obstruction.
    If an elephant could dab, Ganesha has just done that to the entire narrative - with both pairs of arms.
 
-   *Whatever Ganesha did, I'm sure LoRez's 'cultural advisor' isn't going to give half a flying fuck about the lore, and feed the lore intern with bullshit that MUST HAPPEN VERY MUCH which contradicts the logic of this Universe for an overpowered last-minute deus-ex-machina. In a poetic irony, the flowers Ganesha is running through are Spotted Snapweeds, an Indian flower whose latin name is Impatiens Balsamina. 'Impatient', just like the 'end' were about to get and the setup beforehand.*
+   *Whatever Ganesha did, I'm sure LoRez's 'cultural advisor' isn't going to give half a flying fuck about the lore, and feed the lore intern with bullshit that MUST HAPPEN VERY MUCH which contradicts the logic of this Universe for an overpowered last-minute deus-ex-machina. In a poetic irony, the flowers Ganesha is running through are Spotted Snapweeds, an Indian flower whose latin name is Impatiens Balsamina. 'Impatient', just like the 'end' we're about to get and the setup beforehand.*
 
 -> *:T* <-
 
@@ -2919,7 +2932,7 @@ And with that - this Universe. This loop. Has ended.
 
 ***
 
-   *At this point also Morgana, King Arthur, Gilgamesh, Mulan, Persephone and Bellona all unironically step through a plot-convenience portal to 'crash the party'. You'd think Jorm would never let anybody interfere, so the party of nobodys wouldn't know where Tiamat / Merlin are, and yet here they are. And you know what? They unironically do fuck all in the scene except lecture and pander that everyone should get along (they don't even know about last-one-standing rule, they're just a fucking interruption). Complete waste of time and with way too many characters; they shouldn't be here both from a time-is-broken standpoint and from a metanarrative standpoint.*
+   *At this point also Morgana, King Arthur, Gilgamesh, Mulan, Persephone and Bellona all unironically step through a plot-convenience portal to 'crash the party'. You'd think Jorm would never let anybody interfere, so this group of nobodys wouldn't know where Tiamat / Merlin are, and yet here they are. And you know what? They unironically do fuck all in the scene except lecture and pander that everyone should get along (they don't even know about last-one-standing rule, they're just a fucking interruption). Complete waste of time and with way too many characters; they shouldn't be here both from a time-is-broken standpoint and from a metanarrative standpoint.*
    *Hell, Bellona has absolutely nothing to do with the scene, it's obvious she's been forced in as postergirl especially when she's already been established to not give a fuck about the Apocalypse, and just only wants to have fun in war (see Hera).*
    *How do plot conveience portals work to the extent of moving 6 people around, when everything is breaking?*
    *Mulan too? What's she got to do with this arc?*
@@ -2929,7 +2942,7 @@ And with that - this Universe. This loop. Has ended.
 ***
 
    Tiamat semi-nervously tells Merlin to fuck off, seriously, fuck off, of all times not now - unsure if she will be able to recreate things ideally for everyone if he, by some tiny chance, manages to actually injure her. There's timing, and then there's petty power grabs when the fabric of reality is on the line. She doesn't trust he can remake reality anywhere near as capably as she can, and if he fucks it up, Merlin has essentially just guaranteed a needless genocide-apocalpyse. As is, he's already becoming a dangerously irresponsible distraction, which could lead to major fuckups when she remakes things.
-   Merlin... doesn't care about the health of the Universe for some reason any more, and switches to pure-self-serving greed despite his previous morality and motivation to fix what he broke. If he wins, he wins, if he dies, he's already dead. Nothing ventured, nothing gained, nothing personnell kiddo.
+   Merlin... doesn't care about the health of the Universe for some reason any more, and switches to pure-self-serving greed despite his previous morality and motivation to fix what he broke. If he wins, he wins, if he dies, he's already dead. Nothing ventured, nothing gained, nuthin personnell kiddo.
 
    Reality itself is dissoluting, to the point everything's beginnning to look like a watercolor canvas as particles fade apart.
    Tiamat punctuates this by grabbing a handful of rock and running it through her claws like it's wet sand, and reminds Merlin that he's being a real fucking piece of shit right now. Atlas chuckles, Tiamat growls at him not to start with his own powergrab either *~~don't ask why he doesn't, despite the rules he's set out and his ridiculous size + strength advantage, because I don't know either~~* - very pissed off - but Atlas is just enjoying the show. At which point Atlas ~~chomps down on his Golden-Apple popcorn, and~~ points at the big, loud *~~don't ask, because I don't know how she didn't 'hear' it either~~* thing that's been going on behind Tiamat all this time, that Tiamat didn't notice because Merlin was playing games.
@@ -3059,7 +3072,7 @@ And with that - this Universe. This loop. Has ended.
 
 ->**TIAMAT IS *TOO ANGRY TO DIE.* ** <-
 
-   HOLY FUCKING SHIT - HER PURE, UNADULTERATED, ANIMALISTIC, SEETHING RAGE AND HATRED AT HAVING HER PLAN DISRUPTED YET AGAIN IS SINGLEHANDEDLY BINDING HER TOGETHER AT THE SUB-ATOMIC LEVEL AS SHE CHARGES FOR SHIVA, TRYING TO KILL THE BASTARD PAJEET FOR GETTING IN HER WAY. HER LIVID ROARING ITSELF IS TRANSCENDING SPACETIME, AND IS THE ONLY THING HEARD OVER THE LOUD, STEADY BEAT OF SHIVA'S DANCE AND THE SCREAM OF CLIODHNA'S ULTRAGENOCIDE-WAIL.
+   HOLY FUCKING SHIT - HER PURE, UNADULTERATED, ANIMALISTIC, SEETHING RAGE AND HATRED AT HAVING HER PLAN DISRUPTED YET AGAIN IS SINGLEHANDEDLY BINDING HER TOGETHER AT THE SUB-ATOMIC LEVEL AS SHE CHARGES FOR SHIVA, TRYING TO KILL THE BASTARD PAJEET FOR GETTING IN HER WAY. HER LIVID ROARING ITSELF IS TRANSCENDING SPACETIME, AND IS THE ONLY THING HEARD OVER THE LOUD, STEADY BEAT OF SHIVA'S JIVE AND THE SCREAM OF CLIODHNA'S ULTRAGENOCIDE-WAIL.
    TIAMAT IS A LITERAL ONE-GOD PANTHEON, IGNORANT OF EVERYTHING AROUND IT, DETERMINED TO REMAKE THE UNIVERSE IN HER IMAGE. SHE CHARGES SHIVA DOWN AS FAST AS THE BOUNDARY OF REALITY ITSELF IS COLLAPSING IN ON THEM.
    Shiva doesn't even notice her, because he's just so perfect and cool and infallible and amazing. *the out-of-lore pajeet's rage.... finally sated....~~for now~~*.
 
@@ -3087,11 +3100,11 @@ And with that - this Universe. This loop. Has ended.
    *~~Fuck worshippower btw lol, Shiva gets to do this because he's Shiva and because the pajeets would probably bomb Lorez studios if he couldn't. Or at least start another lawsuit.~~*
 
    And just think - this was all because Shiva had to be the one to win, because whining. Tiamat can't just destroy everything and chat with him in the post-Universe before she recreates things, to have everything flow better. Shiva had to be the one to win. Shiva had to be perfect. Because fuck you reader, Shiva does this in Hindu religion, so Shiva must do it in-lore.
-   *~~I kid you not, current year LoRez got in a 'lore advisor' for Shiva for 'mature and mythologically respectful characterization', and it's clear all they've done is hire a shaivist who told LoRez to make Shiva the most overpowered, least fallible concept possible in truly blind dogmatic form. Even in-game, as a Warrior he uniquely has his own model scale, taller than most Guardians, and released completely fucking bustedly OP with a hugely bloated kit.~~*
+   *~~I kid you not, current year LoRez got in a 'lore advisor' for Shiva for 'mature and mythologically respectful characterization', and it's clear all they've done is hire a shaivist who told LoRez to make Shiva the most overpowered, least fallible concept possible in truly blind dogmatic form. Even in-game, he released completely fucking bustedly OP, with a hugely bloated kit.~~*
    *~~While it probably sounded good in their heads, all it did was lay bare blatent favoritism and open up a path of validation for other practicing religions to whine why their Gods aren't perfect and infallible. I wonder where their loyalty will lie when the Chinese start asking where the Yellow Emperor would match up gainst the Hindus - given the two cultures are nearly in an open, hot conflict with each other, and the Hindu Trinity vs Yellow Emperor is a literal metaphor for the racial origins of the two peoples. At least by having the Babylonians / Lovecraftians as the in-Universe top dogs because of age, they're non-practiced (one being dead and actively desecrated in Muzzieland + generally disliked anyways by the Abrahamics, the other being fiction-based) and thus ran no risk of indicating favoritism.~~*
-   *~~Anyways...~~*
+   *~~But anyways...~~*
 
-   The cycle of rebirth is restored, and Shiva will remake reality again in his ideal, from the beginning, without contention, all word-for-word according to Hindu scripture. 
+   The cycle of rebirth is restored, and Shiva will remake reality again in his ideal image, from the beginning, without contention, all word-for-word according to Hindu scripture. 
 
 -> ![Shiva Won](https://files.catbox.moe/kvs1f7.jpg) <-
 
@@ -3228,7 +3241,7 @@ And with that - this Universe. This loop. Has ended.
  - Mulan's getting a powerup training arc sparring with Sun Wukong, Guan keeping an eye on those crazy kids.
  - Shiva is, well, here, at the Atlas mountains still, still being perfect and cool and infallible and amazing. Meanwhile Ganesha's still meditating at the shrine to Shiva *(because Shiva is just so perfect and cool and infallible and amazing)*.
  - Zeus and Hera are once again Rulers of Olympus *~~about time~~*, while Hades and Persephone are in Hades finally having some lovey-dovey-sweetheart-couple-time together in their throne room *~~not sex, you pervert~~*, doing their jobs and sorting the dead again.
- - Horus and Set are once again having a spat at the River Nile.
+ - Horus and Set are once again having a spat along the banks of the River Nile.
  - Literally fucking nothing is going on at the Maya's place *~~new god never lmfao~~*, but Camazotz is silently watching an intruder enter into the watery caves of the Xibalba.
  - Tsukuyomi and Susano-O are having a spat, meanwhile Kuzenbo's getting ~~attacked by~~ a surprise visit from Charybdis *~~she killed so many, and got away with it all...~~*
  - Cliodhna's wails died down for a while (pun intended).
@@ -3242,10 +3255,10 @@ The. End. Don't question any of it.
 
 ***
 
-not!Post-credits time and it's just monologuing.
+not!Post-credits time and it's just monologuing between Shiva and Atlas.
 
    tl;dr Apparently all this time, the issue was that the Gods were wrong because they were working to their own end to 'fix things' as they thought things were broken, and this was wrong because reasons.
-   Shiva fixing everything by the way he sees things is fine because reasons, because he is correct and morally justified because reasons. Shiva is somehow more powerful than the Worshippower-independant Tiamat and Cthulhu *(the Primordial and the Outer-Being pre-Primordial)* despite him or his Pantheon never being as much as alluded to, because reasons. Shiva being more powerful than literally the entire Divine Realm's collective and combined Worshippower is just because reasons. Shiva reaching the commandline / Abyssal Waters before everyone else is never explained, but he got there because reasons. The part where things were actually broken on a 'Da Rulez' level *(you know, limited Worshippower, increasing amount of Gods)* doesn't matter because reasons. Everyone is somehow on the same line to not destroy the Universe because reasons, and this means they'll work together to keep le balance because reasons *(Loki won't want to undermine Shiva's assumed superiority, The Morrigan won't weave another grand conflict, Fenrir / Hel / Jormungandr don't want to kill everything, Apophis / Cthulhu / other potential future Apocalypse deities are ???)* - because reasons.
+   Shiva fixing everything by the way he sees things is fine because reasons, because he is correct and morally justified because reasons. Shiva is somehow more powerful than the Worshippower-independant Tiamat and Cthulhu *(the Primordial and the Outer-Being pre-Primordial)* despite him or his Pantheon never being as much as alluded to, because reasons. Shiva being more powerful than literally the entire Divine Realm's collective and combined Worshippower is just because reasons. Shiva reaching the commandline / Abyssal Waters before everyone else is never explained, but he got there because reasons. The part where things were actually broken on a 'Da Rulez' level *(you know, limited Worshippower, increasing amount of Gods)* doesn't matter because reasons, but they've got a full new tank of fuel now because reasons. Everyone is somehow on the same line to not destroy the Universe because reasons, and this means they'll work together to keep le balance because reasons *(Loki won't want to undermine Shiva's assumed superiority, The Morrigan won't weave another grand conflict, Fenrir / Hel / Jormungandr don't want to kill everything, Apophis / Cthulhu / other potential future Apocalypse deities are ???)* - because reasons.
    Everybody loves ~~Raymond~~ Shiva because reasons.
    Kali didn't show up to the Hindu Apocalypse because reasons. No more major wars (because reasons), but there will still be minor conflicts because apparently they're inevitable (because reasons), which won't get too big (......because reasons). Apparently there's going to be new threats that weren't around before because ~~reasons~~ the game is still getting updates, and new Gods are pretty obviously inevitable, but they won't be \*too\* bad or Universe-threatening because reasons. When another Great Old One inevitably shows up as the game gets updates *(despite Cthulhu being a scrub in their internal scope of power-levels)*, it somehow won't be enough to challenge Shiva's statement here on things never bubbling up to Apocalypse-tier events again because - you guessed it - reasons.
    Because reasons.

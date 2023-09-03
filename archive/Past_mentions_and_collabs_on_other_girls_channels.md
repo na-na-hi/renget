@@ -36,6 +36,8 @@
 |23/08/2023|[Timestamp #1](https://youtu.be/w_9pVLURw0M?t=16158) [Timestamp #2](https://youtu.be/w_9pVLURw0M?t=18000) [Timestamp #3](https://youtu.be/w_9pVLURw0M?t=20649) [Timestamp #4](https://youtu.be/w_9pVLURw0M?t=22330) [Timestamp #5](https://youtu.be/w_9pVLURw0M?t=22566) | **Streamer-chat interactions & Mentions** - Numerous call-outs from the first session due to Kiara playing solo. On the third timestamp, Kiara suggests Nerissa to play some part of the game solo as well. Timestamp #4 & #5 are actually the Kiarab Owl ones.|
 |28/08/2023|[Timestamp #1](https://youtu.be/20BIp5ihKOY?t=5958) [Timestamp #2](https://youtu.be/20BIp5ihKOY?t=6135) | **Streamer-chat interactions & Mentions** - Two instances of back-and-forth related to in-game events during Kiara's second solo BG3 stream. |
 |28/08/2023|[Impromptu collab](https://youtu.be/-AaOTmXcZ9I?t=8531) | **Impromptu collab + Streamer-chat interactions** - This HoloCure started with two streamer-chat interactions until Kiara asks Nerissa to come in VC in order to give advice on how to play HoloCure and what build to use. |
+|02/09/2023|[Timestamp #1](https://youtu.be/3eGl9V5P9Ko?t=15241) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=21110) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=24970)| **Mentions** - Kiara DM'ing Nerissa live when she discovered a bard sword and some references from her general behaviour when playing the game (horny when playing the romance parts, possible spoilers of some game parts...) |
+
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -67,9 +69,10 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|[Timestamp](https://youtu.be/rVNL6MJBQvk?t=4907)|**VC Interactions** - Nerissa & Bijou (joined by the Fuwamoco Twins later) popping-in in Shiori's VC and the stream becomes a fullgen Zatsu collab.|
-|10/08/2023|[Timestamp](https://youtu.be/PxyS3lRyktA?t=1809)|**Mention after a raid** - Greetings after a raid done by Nerissa following her Story of Seasons stream.|
+|10/08/2023|[Timestamp Greetings](https://youtu.be/PxyS3lRyktA?t=1809) [Timestamp Fanfic](https://www.youtube.com/watch?v=PxyS3lRyktA&t=6590s)|**Mention after a raid + Fanfic reading** - Greetings after a raid done by Nerissa following her Story of Seasons stream. Proceed to read a lore fanfic about Nerissa's broken horn.|
 |23/08/2023|[Timestamp #1](https://youtu.be/XOBVamb8svQ?t=4769) [Timestamp #2](https://youtu.be/XOBVamb8svQ?t=5851) [Timestamp #3](https://youtu.be/XOBVamb8svQ?t=6227)|**Streamer-chat interactions** during Shiori's Amanda the Adventurer stream. Nerissa counted for a certain percentage of the votes for the decisions in these timestamps.|
 |24/08/2023|[Timestamp #1](https://youtu.be/ILrxzxosEvk?t=4182) [Timestamp #2](https://youtu.be/ILrxzxosEvk?t=4359)|**Streamer-chat interactions** during Shiori's Needy Streamer Overload stream. Some greetings after a raid and Nerissa invited Shiori to watch Perfect Blue - nothing groundbreaking.|
+|03/09/2023|[Link](https://www.youtube.com/watch?v=i1QwdpHnB4Y&t=625s)|**Summary video** - Short video about the fanfic reading from the ASMR Fanfic reading stream from 10/08/2023.|
 
 ###### 🗿 Bijou
 |Date|Link|Nature & Notes|
@@ -104,7 +107,9 @@
 |18/08/2023|[Nerissa's POV](https://youtu.be/T40-yg1CEgE)| **Collab** - Forth HoloAdvent Group collab on Apex Legends (with [Bijou](https://www.youtube.com/watch?v=1L6uZUwIx0o) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=EDeLwLudnqA)) - Shiori was absent|
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
 |25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
-|01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
+|01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
+|06/09/2023|Nerissa's POV| **Collab** - Seventh HoloAdvent Group collab with Shiori, Bijou and the FUWAMOCO Twins on Minecraft|
+|08/09/2023|Link| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|

@@ -158,5 +158,10 @@
 |02/09/2023|132|Recommendation|Addition of the Pico Park collab as a recommended collab.|
 |02/09/2023|133|Frontpage & Collab pages|Activation of the 'Collab on Nerissa's channel' page.|
 |02/09/2023|134 & 135|Lover of Idols pages|Change of aesthetics.|
+|02/09/2023|136|Lover of Idols II - OHC & Mentions|Addition of 3 timestamps containing a mention from Kiara's third solo BG3 stream.|
+|02/09/2023|137|Lover of Idols II - OHC & Mentions|Addition of placeholders for the upcoming Minecraft Advent Collab.|
+|02/09/2023|138|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming Japanese Classroom stream on FUWAMOCO's channel.|
+|03/09/2023|139|Lover of Idols II - OHC & Mentions|Addition of a timestamp from the ASMR Fanfic Reading stream by Shiori from 10/08/2023 when she was reading a fanfic regarding Nerissa's broken horn.|
+|03/09/2023|140|Lover of Idols II - OHC & Mentions|Addition of a video uploaded on Shiori's channel about the same fanfic above.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

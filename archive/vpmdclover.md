@@ -209,6 +209,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
 	* [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
+	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk) *Not on Table*
 * Booker the Ribombee
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -533,6 +534,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 * {||} [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * {||} [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
+* {||} [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
