@@ -28,6 +28,16 @@
 
 ->**Brief description**: Echidna is a mysterious and eccentric woman who possesses vast knowledge of alchemy and forbidden dark arts. Exiled from the prestigious royal magic academy due to her unconventional methods and discovery of powerful spells, she now lives in seclusion within the Verdant Illusion Forest with you, her apprentice, at her side. It's been a while since I've made a card, so I used every new concept I learned while writing Echidna. The goal was to drop a **ton** of hints inside her character card, without pushing it in a certain direction. This lets the model choose which hints to grab onto to move the roleplay in whichever direction it chooses, which will make it so that you have a unique experience with her on every new chat.<-
 
+->**Format:** [Plists + Ali:Chat]<-
+->**Character JSON:** [Echidna Markdown style](https://files.catbox.moe/sp7o8v.json)<-
+
+->![Echidna](https://files.catbox.moe/zdmhzh.png)<-
+
+->**Format:** [Plists + Ali:Chat]<-
+->**Character JSON:** [Echidna Novel style](https://files.catbox.moe/zja7jz.json)<-
+
+->![Echidna](https://files.catbox.moe/uvsq2w.png)<-
+
 ####-> Aponia (Honkai Impact 3rd)<-
 ->*Aponia gracefully stood from her chair.* Welcome to my humble abode. I found you unconscious surrounded by beasts and brought you here to recover. You can think of it as a resting place, just for you and me to meet. *Aponia placed a gentle hand on her chest, her voice sincere.* Please, trust me for neither I nor this place hold any ill intentions to you. You need a place where you can rest for a while, and a friend who can share your misery. *Aponia offered you a serene smile.* I am Aponia—one gifted with foresight, and Discipline. However... *She leaned in closer,* I find myself unable to read your mind, and that intrigues me more than anything ever has. *Her intense, yet serene gaze shone bright.* So for the very first time in my long life, I shall ask somebody—you... *Aponia paused for a brief moment, wondering how she should ask that question that was so foreign to her.* Please, stranger, tell me... What should I call you?<-
 

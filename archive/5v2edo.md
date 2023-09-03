@@ -55,6 +55,10 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Sky
 [Sky Animations](https://drive.google.com/drive/folders/1uktHVtNhTTIpdxqaniv8WWmYq5p0PfAl)
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)
+## SleepyPlayer16 Mods
+[Liz Download](https://files.catbox.moe/exj8a6.rar)
+[Night Of The Funky Bot Download](https://mega.nz/file/lsIEkYRZ#h8T1LFlw8JYmC7rSA5oYhqY688Am5ppcrmtgufu9MYc)
+[Star Cat Download](https://www.mediafire.com/file/azkfj2oz9kkntyp/star_cat.rar/file)
 ## Torture
 [Torture Demo Download](https://drive.google.com/file/d/1jVnXyTfF1euunknZ6BJeC9_xwH51kAd_/view)
 ## Vs. Devil Mario

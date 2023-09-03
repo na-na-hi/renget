@@ -358,7 +358,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
    
-   Timeskip of a few days / weeks and we're back to Tsukuyomi. He's at Usa Jingu *(a major temple in Southern Japan to Hachiman, considered the 2nd most royally prestigious after Amaterasu's Ise Jingu, South of Kyoto)* overlooking it being overrun by loads of AAAAAAAAAA I'VE GONE INSANE Cthultists. Ama2's cuts and bruises from when he attacked her are being treated at Olympus, but otherwise Mr. Chunni here is being chased by the most of the remaining Japanese Embassy who were at Olympus.
+   Timeskip of a few days / weeks and we're back to Tsukuyomi. He's at Usa Jingu *(a major temple in Southern Japan to Hachiman, considered the 2nd most royally prestigious after Amaterasu's Ise Jingu, South of Kyoto)* overlooking it being overrun by loads of AAAAAAAAAA I'VE GONE INSANE Cthultists. Ama2 is being treated for her ~~near-fatal slashes~~ cuts and bruises at Olympus, back from when he attacked her, but otherwise Mr. Chunni here is being chased down by the most of the remaining Japanese Embassy who were there.
    Tsukuyomi takes out a bunch of Cthultists with his Ult, then gets all the Patrons of the temple to pledge to himself in absolute devotion as payment - stealing 8man's Worshippower for himself and slavedriving the mortals into even more efficient Worshippower-factories for himself.
 
 -> ![Tsuku Splash used for Lore](https://files.catbox.moe/69l4kk.jpg) <-
@@ -379,19 +379,19 @@ Without further ado, *since you're probably in the middle of reading all at once
 ***
 
    Now after another timeskip, we rejoin our acting madman, Zeus, for a great little part of the narrative. He's had an offscreen ~~bizaare~~ adventure of his own, but to little success.
-    Pele + Chernobog each pass on Zeus's plan to bruteforce Cthulhu (each wanting to just defend their own turf) meanwhile Cabrakan had already had a crack at soloing Cthulhu at Tajumulco *(Tallest mountain / volcano in Central America, in South Guatemala)* before Zeus arrived - and unlike the other Gods who tried to solo Cthulhu and who got AAAAAAAA INSANE'd / PTSD'd in the process, Cabrakan's location was unknown since he was buried in the rubble... of the *fucking mountain range he tore up and dropped on Cthulhu* before Cthulhu could even get the breathing room to fuck with his head.
+    Pele + Chernobog each pass on Zeus's plan to bruteforce Cthulhu (each wanting to just defend their own turf) meanwhile Cabrakan had already had a crack at soloing Cthulhu at Tajumulco *(Tallest mountain / volcano in Central America, in South Guatemala)* before Zeus arrived - and unlike the other Gods who tried to solo Cthulhu and who got AAAAAAAA INSANE'd / PTSD'd in the process, Cabrakan's location was unknown since he was buried in the rubble... of the *fucking mountain range he tore up and dropped on Cthulhu* before Cthulhu could even get some breathing room or the chance to fuck with his mentals.
 
-   Zeus is now at his last stop of Asgard, looking for his ~~best drinking buddy-bro from another Pantheon,~~ Odin. Nobody had really heard anything from the Norse after the Yggdrasil incident, with only Heimdallr being known of (since Odin sent Ratatoskr as his rep to check in on Nidhogg and disappearing shortly after), and this is the first Zeus has even seen of all the damage the Norse Pantheon had sustained during Ragnarok.
+   Zeus is now at his last stop of Asgard, looking for his ~~best drinking buddy-bro from another Pantheon,~~ Odin. Nobody had really heard anything from the Norse after the Yggdrasil incident, with only Heimdallr being known of *(since Odin sent Ratatoskr as his rep to check in on Nidhoggr, but disappeared shortly after)*, and this is the first Zeus has even seen of all the damage the Norse Pantheon had sustained during the previous events / Ragnarok 1 and 2.
 
    Zeus wanders in on the empty and ruined halls, and shouts for his ol' fren, Odin.
 
    Nobody answers.
 
-   Loki pounces Zeus, tries to *(again lol)* backsta- HOLY FUCKING SHIT ZEUS MELTS THE BLADES OUT OF LOKI'S HANDS WITH PURE LIGHTNING! HOLY FUCKING SHIT ZEUS CHOKI'S LOKI! Zeus chuckles with a totally-fucking-lost-it-now smile, saying his burning hatred for Loki was one of the things that kept him sane during the Persephone treatment. Loki ~~spits in his face and~~ hisses "You're welcome ~~bitch~~", HOLY FUCKING SHIT LOKI GOES TO STAB ZEUS IN THE EYE WITH A SPARE BLADE HE HAD HIDDEN IN HIS SLEEVE, ASSASSINS-CREED STYLE! HOLY FUCKING SHIT ZEUS BREAKS LOKI'S ARM BACKWARD WITH ONE HAND! HOLY FUCKING SHIT ZEUS CHOKESLAMS LOKI INTO THE STONE FLOOR, CRACKING APART IT WITH THE FORCE ALONE! HOLY FUCKING SHIT ZEUS PICKS LOKI UP BY THE COLLAR AND LAUNCHES LOKI ACROSS THE ROOM WITH SUCH FORCE HE SPLINTERS THROUGH A HUGE WOODEN FEASTING TABLE!
+   Loki pounces Zeus, tries to *(again lol)* backsta- HOLY FUCKING SHIT ZEUS MELTS THE BLADES OUT OF LOKI'S HANDS WITH PURE LIGHTNING-PLASMA HEAT! HOLY FUCKING SHIT ZEUS CHOKI'S LOKI! Zeus chuckles with a totally-fucking-lost-it-now smile, saying his burning hatred for Loki was one of the things that kept him sane during the Persephone treatment. Loki ~~spits in his face and~~ hisses "You're welcome ~~bitch~~", HOLY FUCKING SHIT LOKI GOES TO STAB ZEUS IN THE EYE WITH A SPARE BLADE HE HAD HIDDEN IN HIS SLEEVE, ASSASSINS-CREED STYLE! HOLY FUCKING SHIT ZEUS BREAKS LOKI'S ARM BACKWARD WITH ONE HAND! HOLY FUCKING SHIT ZEUS CHOKESLAMS LOKI INTO THE STONE FLOOR, CRACKING APART IT WITH THE FORCE ALONE! HOLY FUCKING SHIT ZEUS PICKS LOKI UP BY THE COLLAR AND LAUNCHES LOKI ACROSS THE ROOM WITH SUCH FORCE HE SPLINTERS THROUGH A HUGE WOODEN FEASTING TABLE!
 
    Loki's crumpled, bloodied, broken remains of a 'body' begs for Zeus to hear him out, Zeus chuckles and says he won't be giving Loki any final-moments monologue way out of this, as he walks over, which ironically was just the milliseconds of time Loki needed to dodge out of the way o- HOLY FUCKING SHIT ZEUS THREW A FUCKING LIGHTNING BOLT AT LOKI'S FACE.
    Loki, now giggling that he escaped, taunts an extremely pissed off Zeus, as Zeus 'renovates'... well, what's left of the sorry few ruins of Asgard, while chasing after Loki's voices. Loki explains he's got a brand new League of Best Friends and that Zeus isn't invi- HOLY FUCKING SHIT ZEUS ALMOST KILLED LOKI AGAIN BY HEARING WHERE THE VOICE CAME FROM AND THROWING A LIGHTNING BOLT AT IT. Zeus DEMANDS to be let in on the new League of Best Friends for anti-Cthulhu efforts, Loki tells him to fuck off and that he blew his only chance of being his friend, before mocking that he really is perfect for his dumb-bitch wife Hera *(who's totally been cheating on him btw looooool)*.
-   Loki poofs away with a giggle; Zeus copes and seethes alone, over the clear lies of the Trickster God and having been held up too long by the effects of Persephone's 'scheme' to have been able to assemble his killsquad to deal with Cthulhu *(and stop a preventable Apocalypse)*. Zeus proceeds to basically finish off levelling whatever's left of Asgard at this point, in a partially-insanity-driven temper tantrum. Now there is nothing left but tattered, hollow ruins and frozen, wind-blown wilderness where the once-great Asgard stood.
+   Loki poofs away with a giggle; Zeus copes and seethes alone, over the clear lies of the Trickster God, and having been held up for too long by the effects of Persephone's 'scheme' to have been able to assemble his ideal killsquad to deal with Cthulhu *(and stop a preventable Apocalypse)*. Zeus spergs out and proceeds to basically finish off levelling whatever was left of Asgard at this point, in a partially-insanity-driven temper tantrum. Now there is nothing left but tattered, hollow ruins and frozen, wind-blown wilderness where the once-great Asgard stood. Annhilation.
 
  -> So Zeus is *REALLY* FUCKING PISSED OFF now. <-
  -> And what's the best thing to vent all that anger out on - other than Zeus's very own attempt to solo Cthulhu? <-
@@ -406,22 +406,22 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    Madlad Ares is back on the scene, and with a new ~~redesign~~ set of armour, meanwhile Poseidon got chained to a rock within R'lyeh after his defeat *(R'lyeh being Cthulhu's sea-risen city of worship, located in the Southwestern region of the Pacific, like a huge multicultural music festival but with even more insane fans)*.
 
-   Poseidon has to hear his corrupted nymphs and worshippers talk endless shit about him, but manages to block it out because he's just too based to listen to the haters. Ares shows up with the Stymphalian birds, casually solo's all of R'lyeh and goes to free his uncle while catching him up on recent events.
-   Poseidon points out the (obvious) flaw in Olorun's plan, in that Cthulhu is completely unreliant on Worshippo- HOLY FUCKING SHIT ARES DOESN'T FUCKING CARE, ARES JUST WANTS TO PISS OFF CTHULHU BY GENOCIDING HIS FOLLOWERS. HOLY FUCKING SHIT, ARES HAS ALREADY GENOCIDED A THIRD OF CTHULHU'S CTHULTISTS ACROSS THE GLOBE, EASILY TENS IF NOT HUNDREDS OF MILLIONS OF PEOPLE HOLY FUCKING SHIT ARES CALM THE FUCK DOWN, R'LYEH WAS JUST A SIDE OBJECTIVE TO HIM HOLY FUCKING SHIT ARES WAS THE ONE TO EASILY CLEAN OUT ATHENS WHERE ATHENA UTTERLY FAILED. MADLAD. IS. BACK.
+   Poseidon has to hear his corrupted nymphs and worshippers talk endless shit about him, but manages to block it out because he's just too based to listen to the haters. Ares shows up with the Stymphalian birds, casually solo's all of R'lyeh (as you do) and goes to free his uncle while catching him up on recent events.
+   Poseidon points out the (obvious) flaw in Olorun's plan, in that Cthulhu is completely unreliant on Worshippo- HOLY FUCKING SHIT ARES DOESN'T GIVE A SHIT, ARES JUST WANTS TO PISS OFF CTHULHU BY GENOCIDING HIS FOLLOWERS. HOLY FUCKING SHIT, ARES HAS ALREADY GENOCIDED A THIRD OF CTHULHU'S CTHULTISTS ACROSS THE GLOBE (AS YOU DO), EASILY TENS IF NOT HUNDREDS OF MILLIONS OF PEOPLE, HOLY FUCKING SHIT ARES CALM THE FUCK DOWN. HOLY FUCKING SHIT R'LYEH WAS JUST A SIDE OBJECTIVE TO HIM, HOLY FUCKING SHIT ARES WAS THE ONE TO EASILY CLEAN OUT ATHENS WHERE ATHENA UTTERLY FAILED. MADLAD. IS. BACK.
 
 -> ![Ares Splash used for Lore](https://files.catbox.moe/vqgj7d.jpg) <-
 
 ***
 
    Olorun and Hera overlook from Olympus, impressed with Ares's work, along with a ton of gathered Gods for the Cthulhu showdown.
-   Yemoja uses her river sight ~~don't ask~~, and gives them both a quick rundown on general whereabouts. Arthur's off gathering and uniting the Celtic Gods to defend the FAKIN INGERLISH / FEKIN IYRISH / BLOODI BRI'ISH isles, Amaterasu is at Ise Grand Shrine, Baba is at the Black Sea, and meanwhile the League of Best Friends (Loki, Set, Discordia, Thanatos and Bellona) are converging on the Erythraean Sea *(an old name for the Western half of the Indian Ocean - technically the strech between the Horn of Africa and India, surrounding Arabia, aka the Gulf of Persia)*.
+   Yemoja uses her river sight ~~don't ask~~, and gives them both a quick rundown on general whereabouts. King Arthur's off gathering and uniting the Celtic Gods to defend the FAKIN INGERLISH / FEKIN IYRISH / BLOODI BRI'ISH isles, Amaterasu is at Ise Grand Shrine, Baba is at the Black Sea, and meanwhile the League of Best Friends (Loki, Set, Discordia, Thanatos and Bellona) are converging on the Erythraean Sea *(an old name for the North-Western half of the Indian Ocean - technically the strech between the Horn of Africa and India, surrounding Arabia, aka the Gulf of Persia)*.
 
    Zeus bolts i- HOLY FUCKING SHIT ZEUS GOES IMMEDIATELY GOES TO ~~LYNCH~~ KILL OLORUN!
    After seeing ~~Chernobog protect his shrine to Gadget Hackwrench~~ that all the allies he wanted to align with were too busy defending their own home turf, it brought Zeus to the revelation that he should have been doing the same all this time, and that he was going to retake the Greek Pantheon for himself right here, right now.
-   Heimdallr signals from a distance with his horn that Cthulhu's finally showed up; Zeus continues to try to kill Olorun (with the present embassies split on either hiding away from the the two Gods fighting, or shouting support for one of the other spergs fighting before the nu-Apocalypse shows up). Zeus is completely beating the fucking shit out of Olorun, until Olorun flashbangs him, pauses time then slogs Zeus once in the jaw - Hera only then breaking up the fight using Argus *~~the moment her pathetic african affair finally scored a hit against her husband lol~~*, because Cthulhu's on the horizon and they just wasted all their prep time.
+   Heimdallr signals from a distance with his horn that Cthulhu's finally showed up; Zeus continues to try to kill Olorun *(with the present embassies split on either hiding away from the the two Pantheon-Heads fighting, or shouting support for one of the other spergs before the nu-Apocalypse shows up to kill them all)*. Zeus is completely beating the fucking shit out of Olorun, until Olorun flashbangs him, pauses time then slogs Zeus once in the jaw - Hera only then breaking up the fight using Argus *~~the moment her pathetic african affair finally scored a hit against her husband lol~~*, because Cthulhu's on the horizon and they just wasted all their prep time.
    Zeus and Olorun have another verbal spat *(Olorun silently acknowledging he's even weaker now, only a **Black God**)* and they agree to postpone their conflict until after Cthulhu is dead - but Zeus won't even work with Olympus's dumbshit 'plan' until he's recognised as the rightful ruler of the Greek Pantheon again. HOLY FUCKING SHIT ZEUS LEAVES TO HAVE A CRACK AT DEALING CTHULHU ALONE BEFORE CTHULHU DESCENDS ON OLYMPUS PROPER.
 
-   Cthulhu, *very, very pissed off* at having his fanclubs genocided, arrives in his supersized Ult-form, leading into the cover art of the season *(below)*.
+   Cthulhu is *very, very pissed off* at having his fanclubs genocided, and arrives in his supersized Ult-form, leading into the cover art of the season *(below)*.
 
 -> ![Cthu vs Olympus Cine](https://files.catbox.moe/5jent6.jpg) <-
 
@@ -430,11 +430,11 @@ Without further ado, *since you're probably in the middle of reading all at once
 ***
 
    Rolling back in on the B-Plot, and we're at Ise Grand Shrine with the Japanese again - Amaterasu and Tsukuyomi having yet another squabble.
-   Ama2 is now Tsuuyomi's equal in Worshippower, with the EXP rest of the Pantheon lent her *(all of them honestly trusting her)*, thus is the only one left able to challenge and try to stop Tsukuyomi's ~~rampage~~ spergrage. Ama2 is still trying to be a working woman who is trying to keep her ~~corporation~~ Pantheon together, Tsukuyomi is still being an egotistical autist chunni; they have a fight for who's going to lead honorabu Nippon.
+   Ama2 is now Tsukuyomi's equal in Worshippower now she has the EXP rest of the Pantheon lent her *(all of them honestly trusting her)*, and thus is the only one left able to challenge and try to stop Tsukuyomi's ~~rampage~~ spergrage. Ama2 is still trying to be a working woman who is trying to keep her ~~corporation~~ Pantheon together, Tsukuyomi is still being an egotistical autist chunni; they have a fight for who's going to lead honorabu Nippon.
 
    *I've gone to the liberty of stitching the entire fight together for you, as it disjointedly takes place over two cinematics otherwise. Only thing to note is that it's just off-location - they're supposed to be indoors inside a traditional Japanese Shine-hall, not a coolness-factor endless lake. Does look cool though.*
 
-   *Here's ya link to the stitched cinematic:*
+   *Here's ya link to the stitched cinematic: [Here]() *
 
 -> ![Tsuku vs Ama Concept](https://files.catbox.moe/lhe3ia.jpg) <-
 
@@ -453,11 +453,11 @@ Without further ado, *since you're probably in the middle of reading all at once
    From a nearby rafter, Danzaburou drunkenly calls him a huge dumb faggot an offers him a drink. Tsukuyomi reactively goes to kill him with a shuriken just because he's there, but only hits a statue; before Danzaburou pledges allegiance to Tsukuyomi from behind said statue.
    Danza and Tsukuyomi then have a drink of sake *(tl;dr Japanese beer)* at the end of the world. Danza gives some sage advice that Tsukuyomi that one does not simply defeat Cthulhu, and he should sit back and just enjoy the time he has left with company, instead of getting into fights with his siblings *(even though.... well, they're all inferrably dead now, now that Amaterasu is dead)*. Perhaps even, if things recover, he should appreciate what little time and offerings others can spare some for him *(God and Mortal alike)*, instead of scorning them for the time they're unable to give him. Tsukuyomi evidently takes heed of this wisdom and grows from the experience (for now), as his spergout ends here, his Worshippower-thieving not spreading to the rest of the world.
 
-   *You wouldn't know this \*slightly important\* ~~side-arc finale~~ 'offscreen' detail if you were just reading the lore via GN and watching the cutscenes... because much of it was in Danza's fucking design breakdown. This is how scattered the lore is, you can thank me later. In fact, I'm genuinely convinved that unironically only 1/3rd of the Smite FRIENDS lore was actually released and that there may have been other things going on; given its' event was in a similar coding format to the later Yuletide 'Minor Event' that ran alongside the next arc's Odyssey - to which likewise, far more Lore was datamined as oppose to actually released. Believe you me, I've scraped through everywhere you can think of to find what could possibly remain; but we can blame dogshit coding and nobody caring about the lore at the time as for why its installments were never released. And, you can't datamine something that isn't in the game any more.*
+   *You wouldn't know this \*slightly important\* ~~side-arc finale~~ 'offscreen' detail if you were just reading the lore via GN and watching the cutscenes... because much of it was in Danza's fucking design breakdown. This is how scattered the lore is, you can thank me later. In fact, I'm genuinely convinced that unironically only 1/3rd of the Smite FRIENDS lore was actually released and that there may have been other things going on; given it's event was in a similar coding format to the later Yuletide 'Minor Event' that ran alongside the next arc's Odyssey - for which likewise, far more Lore was datamined as oppose to actually released. Believe you me, I've scraped through everywhere you can think of to find what could possibly remain; but we can blame dogshit coding and nobody caring about the lore at the time as for why it's installments were never released. And, you can't datamine something that isn't in the game any more.*
 
 ***
 
-   *Accompanying his release, there was also a nice animation explaining Danzaburou's pre-story / schtick of him being a door salesman scammer, with Danzaburou scamming Kuzenbo with leaves disguised as alcohol. Nothing to do with the lore whatsoever. Aside from that, and my speculation above, the lore was pretty anemic for a few months. Have an aside instead.*
+   *Accompanying his release, there was also a nice animation explaining Danzaburou's pre-story / schtick of him being a door salesman scammer, with Danzaburou scamming Kuzenbo with leaves disguised as alcohol. Nothing to do with the lore whatsoever. Aside from that, and my speculation above, the lore was pretty anemic for a few months. Have an aside instead, to pad out the time a bit for pacing's sake. Maybe a drink break too? Grab some beer.... or some sake?! Eh? Get it? Beer = Sake, but for sakes's sa- ~~I'll stop now.~~*
 
 ***Tanuki & Robin Hood Aside***: *https://rentry.org/smgenloreasidespt2#tanuki-robin-hood*
 
@@ -465,24 +465,24 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
 
-   Now, we finally arrive back to the League of Best Friends. This time Set, Thanatos and Discordia have got new play-pals; Bellona and Loki! *Yay!*
+   We finally arrive back on the refomed League of Best Friends. This time Set, Thanatos and Discordia have new play-pals; Bellona and Loki! *Yay!*
 
-   Set's led them to the crumbling 'first-ever temple created' on the shore of the Erythraean Sea. They go full Indiana-Jones and walk through the crumbling ruins of the ancient remains, into a big room with an indoor pool that hasn't been cleaned out in so long, nobody realised it's actually the last remaining entrance to the Abyss / Ginnungagap on Earth *(the deep-space of the Norse Pantheon, where Muspelheim and Niflheim drifted and met within, and which now surrounds the boundaries outside of Yggdrasil / the known Universe, a la Chaos ~~geographically supposed to be at the Gulf between Greenland and Canada / the Davis Strait, though at the time it was just used to describe the ends of the known Norse Earth~~)*.
+   Set led the gang to the crumbling '''first-ever temple created''', along the shore of the Erythraean Sea. They go full Indiana-Jones and walk through the crumbling ruins of the ancient remains, into a big room with an indoor pool that hasn't been cleaned out in *so* long, nobody realised it's actually become the last remaining entrance to the Abyss / Ginnungagap on Earth's surface *(Abyss being the void-reality-extension of Chaos, the first Greek Primordial, Ginnungagap being the deep-space of the Norse Pantheon, where Muspelheim and Niflheim drifted and met within, and which now surrounds the boundaries outside of Yggdrasil / the known Universe, a la Chaos ~~geographically supposed to be at the Gulf between Greenland and Canada / the Davis Strait, though at the time it was just used to describe the ends of the known Norse Earth~~)*.
 
-   While Discordia is on torchlight duty, Bellona is getting bored and is considering trying to solo Cthulhu (for a second time). Set scolds Loki for playing games come the Apocalypse 2.0 and not getting Zeus on board - since they apparently needed a Pantheon-head to send a bright light out for them into the Abyss to wake 'something' up, to both bind Cthulhu and start more Chaos for them *(CHAOS WITHIN CHAOS!)*. Thanatos has no lines in the temple past them entering, *I assume he's just listening to Linkin Park on his headphones while in the corner, sorting his corporate business schedule.*
+   Discordia is on torchlight duty while Bellona is getting bored with all the walking and is considering trying to solo Cthulhu *(a second time, after barely surviving the first)*. Set scolds Loki for playing games come the Apocalypse 2.0 and not being able to convince Zeus to come on board *(unaware of how it actually went down at Asgard)* - since they apparently needed a Pantheon-head to send a bright light out for them into the Abyss to wake 'something' up for them all. Both bind Cthulhu and start more Chaos for them *(CHAOS.... WITHIN CHAOS!)*. Thanatos has no lines in the temple past them entering. *I assume he's just listening to Linkin Park on his headphones while in the corner, sorting his corporate business schedule.*
 
    Luckily for Loki's fuckup however, Set's got a Plan B - and as if on cue - HORUS HAS ARRIVED TO PUT SET DOWN, ONCE AND FOR ALL (FT. ANGERY RA)!!!!!!!
 
-***Where's dat temple at aside and the Locations of SMITE***: *https://rentry.org/smgenloreasidespt2#smite-geography*
+***Where's dat temple at and the Locations of SMITE - SMITE!!! Geography Aside***: *https://rentry.org/smgenloreasidespt2#smite-geography*
 
    -> ![Temple](https://files.catbox.moe/imac6r.jpg) <-
 
 ***
 
-   We now see the final stand of Olympus... but only 6 Pantheons showed up.
+   We now see the last stand of Olympus... but only 6 Pantheons showed up.
 
    Olorun is afk all fight, much to the extreme stress of Hera (who initially tries to wake him up, but gives up on the useless african import-worker).
-   Meanwhile, the clear MVP of this fight is Zeus - who despite telling everyone to fuck off, fought Cthulhu alone as it approached Mt. Olympus and stalled Cthulhu through the city below Olympus (and actually keeping up pace when fighting it) - all to buy back the time he wasted for everyone. Alas, he was slowly pushed back into Olympus, and found himself incidentally fighting alongside the other Gods, as Cthulhu continued to zone him out.
+   Meanwhile, the clear MVP of this fight is Zeus - who despite telling everyone to fuck off, managed to actually fight Cthulhu alone as it approached Mt. Olympus, and stalled Cthulhu through the city below Olympus long enough to buy back *all* the time he wasted for everyone *(while still keeping pace throughout, not just fighting on the backfoot)*. Alas, he was slowly pushed back into Olympus, and found himself incidentally fighting alongside the other Gods, as Cthulhu continued to zone him out.
 
    Let's review how things went from here.
 
@@ -490,7 +490,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 *\*ahem*\*
 
-Of all the Gods that are explictily stated to have jobbed to Cthulhu walking toward them *...menacingly!* :
+Of all the Gods that are explictily stated to have jobbed to Cthulhu, walking toward them *...menacingly!* :
    \- HOLY FUCKING SHIT ATHENA GETS OFFSCREEN'D
    \- HOLY FUCKING SHIT ARGUS IS REDUCED TO RUBBLE
    \- HOLY FUCKING SHIT NIKE HAS A REPEAT OF THE ATHENS TREATMENT AND IS A SMOULDERING PILE OF FLESH ON THE FLOOR
@@ -517,7 +517,7 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
 ***
 
-   Set does the same thing he did to Horus back at the Throne Room of Egypt, and dunks on him a bit with some effortless dodges and deflects. He baton-passes over to Thanatos and Discordia to tard-wrangle Horus's sperging, and tells Bellona and Loki to move berserk-Ra closer to the stinky paddling pool.
+   Cumbling Ancient Temple with the League of Best Friends vs the Bird Bros at the end of the world. Set does the same thing he did to Horus back at the Throne Room of Egypt, and dunks on him a bit with some effortless dodges and deflects. He baton-passes over to Thanatos and Discordia to tard-wrangle Horus's sperging, and tells Bellona and Loki to move berserk-Ra closer to the stinky paddling pool.
    Turns out Set's plan was to essentially let the AAAAAAAAA INSANE Ra follow them on a wild goose chase as a backup until Loki came back with Zeus. *~~Apparently Horus is AAAAAAAAAAA INSANE too, but he doesn't act any differently to how he's written beforehand, so I just think this is Horus's default and Set's looking down too kindly at his nephew.~~*
 
    Horus uses his tardstrength to nearly overpower the Discordia and Thanatos, but Set trusts the plan and leaves him to them.
@@ -560,7 +560,7 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
 ***
 
-   Tiamat suffice to say, is very groggy, and very pissed off with all the loud noises and bright lights going on above her.
+   Tiamat suffice to say, is very groggy, and very pissed off with all the loud noises and bright lights going on above her. She's an older woman-dragon, give her a break.
 
    She very nearly ditches Earth and wider reality to just fucking collapse it on itself *(Mondays, amirite?)*, but gets off her ass, puts on her reading glasses with a sigh and starts rewriting reality to something she can bear to live with, because apparently she has access to the command line of the Universe down there in the *~~darkest depths of the dirty paddling pool~~* Abyssal Primordial Waters of Existence or some shit. She states to herself *~~as she's at her Abyss-computer, coding,~~* that all the other Gods are big smelly phoneys who rely on Worshippower, and that she's essentially the only God that matters, and all their creation storys are big smelly lies.
 
@@ -596,7 +596,7 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 ***
 
    Back at Olympus, everything is reset. *Everything.* All the Gods feel completely refreshed / rejuvenated, and Zeus personally goes over to Olorun, to give him a pat on the back for defeating Cthulhu *~~wait, what?~~*, saying he's happy to delay the Kang of Olympus dispute until later *~~WAIT, WHAT?~~*.
-   Complete 180' aside, Olorun tries to explain he didn't do shit, but Zeus just ignores him since he doesn't care what Olorun has to say. Olorun keeps the blurred details of the figure he saw look at him within the Abyss to himself, but also remembers that he saw visions of a dude running through a cedar forest while passed out. Ares and Poseidon are coming back home, meanwhile Heimdallr gets a note from Odin saying that Yggdrasil is completely A-OK again (and that the timeframe since Persephone fucked with it, it's been a few months in-Universe).
+   Complete 180' aside, Olorun tries to explain he didn't do shit, but Zeus just ignores him since he still doesn't give a fuck about what Olorun has to say. Olorun keeps the blurred details of the figure he saw look at him within the Abyss to himself, but also remembers that he saw visions of a dude running through a cedar forest while passed out. Ares and Poseidon are coming back home, meanwhile Heimdallr gets a note from Odin saying that Yggdrasil is completely A-OK again (and that the timeframe since Persephone fucked with it, it's been a few months in-Universe).
 
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/hlxzhu.mp3) <-
 
@@ -604,7 +604,7 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
    And on top, there's a very suspect Ziggurat.
    Tiamat flys on over to say "Hi" to her new neighbours, almost blows out everybody's eardrums with her voice alone (since she's not adjusted her volume in milennia), then curiously inspects Zeus before reminding herself how young everyone is in comparison. She shrugs and goes "*Cthulhu, what happened there, amirite guys?*" to cordially break the ice.
 
-   Olorun on behalf of the Divine Realm *~~(yeah, ok Lo-Rez / Titanforge)~~* apologises and asks who she is, Tiamat explains she's the OG realest creator *~~(lmfao get fucked Ymir / Pangu / Chaos etc)~~*, and that while she has many names, her friends call her Tiamat. She dumps / drops off Ra's unconscious body on the floor, Olorun has Yemoja rush to Ra's aid, then says Olympus is a pretty mediocre and modest divine palace all things considered - pissing off Zeus to no end - as she indicates the huge Babylonian Hanging Gardens she rose up in front of Olympus is just a temporary structure while she plans out and builds her main abode in her homeland.
+   Olorun on behalf of the Divine Realm *~~(yeah, ok Lo-Rez / Titanforge)~~* apologises and asks who she is, Tiamat explains she's the OG realest creator *~~(lmfao get fucked Ymir / Pangu / Chaos etc)~~*, and that while she has many names, her friends call her Tiamat. She dumps / drops off Ra's unconscious body on the floor, Olorun has Yemoja rush to Ra's aid, then she says in passing that Olympus is a pretty mediocre / modest divine palace, all things considered - pissing off Zeus to no end - as she indicates the huge Babylonian Hanging Gardens that she rose up in front of Olympus is just a temporary structure while she plans out and builds her main abode in her homeland.
    Tiamat waves everyone off with a smile, then makes a friendly exit - and Zeus suddenly gets dragon-slaying urges again.
 
 ***
@@ -626,13 +626,16 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
 -> ![Hanging Gardens](https://files.catbox.moe/rx17m4.jpg) <-
 
-   ***BUT WAIT: WE'RE STARTING WITH MAP INTERLUDE TIME LOL**, and FINALLY, we have a brand new Conquest Map! With Season 8 and the Tiamat Arc, the Conquest Map was shifted from Olympus vs Stardust Crus-Hades (all the way back from S5) into Olympus vs Babylon.*
+   ***BUT WAIT: WE'RE STARTING WITH MAP INTERLUDE TIME LOL**, and FINALLY, we have a brand new Conquest Map!*
+	*With Season 8 and the Tiamat Arc, the Conquest Map was shifted from Olympus vs Stardust Crus-Hades (all the way back from S5) into Olympus vs Babylon. As previously mentioned, we were in the Gardens of Olympus before, but now everything's been reset (including Hades's surface-Palace being cleaned up), the Conquest map now takes place on the arisen land conjoining Olympus and Tiamat's Summer House.*
+	*Basically, we're just on the other side of Mt. Olympus, the Gardens are out of sight on the opposite side of the Order Base. From the Gardens of the Greeks, to the Hanging Gardens of Babylon.*
 
 -> ![S8 Conq Early Concept](https://files.catbox.moe/wzf4y8.jpg) <-
 
 -> ![S8 Conq Phase 1](https://files.catbox.moe/i5t7tt.jpg) <-
 
-   *While there's not much to talk of in terms of details relevant to the Mythos, the Babylonian Ziggurat and Chaos-side base was architecturally themed after the Ishtar Gate, the real inner gate within Babylon, that acted as an minor kind-of-portcullis to the ~~Cloud~~ Rich District of Babylon, and would likely have been accurate to the style that both the Hanging Gardens of Babylon and the Tower of Babel would have been modelled after in real life. Slight issue with this however - it was about a milennias-worth of time after the time Tiamat would have been worshipped (literally the equivalent of comparing Wattle and Daub to Skyscrapers), given it was built on commission by the same Nebuchadrezzar II of the Neo-Babylonian Emprie that features in various Abrahamic religions. Props and credits where it's due however, there's very little in terms of surviving Babylonian or general Mesopotamian archetecture to go off (not the Christians or le jooz - this time it's on the Muzzies smashing up / destroying stuff, and in a far more systematic manner owing to their more enforced cultural rule against false idols). The fact HiRez/Titanforge went with the Ishtar Gate to begin with, combined with general understandings of Ziggurats is basically as far as one could reasonably go in a scenario like this, and as a result does make for a relatively accurate Babylonian half of the map.*
+   *While there's not much to talk of in terms of details relevant to the Mythos, the Babylonian Ziggurat and Chaos-side base was architecturally themed after the Ishtar Gate, the real inner gate within Babylon, that acted as an minor kind-of-portcullis to the ~~Cloud~~ Rich District of Babylon, and would likely have been accurate to the style that both the Hanging Gardens of Babylon and the Tower of Babel would have been modelled after in real life.*
+	*Slight issue with this however - it was about a milennias-worth of time after the time Tiamat would have been worshipped (literally the equivalent of comparing Wattle and Daub to Skyscrapers), given that it was built on-commission by the same Nebuchadrezzar II of the Neo-Babylonian Empire, that features in various Abrahamic religions. Props and credits where it's due however, there's very little in terms of surviving Babylonian or general Mesopotamian archetecture to go off (not the Christians or le jooz this time around - this one's on the Muzzies smashing up / destroying stuff, and in a far more systematic manner owing to their more enforced cultural rule against false idols). The fact HiRez/Titanforge went with the Ishtar Gate to begin with, combined with general understandings of Ziggurats is basically as far as one could reasonably go in a scenario like this, and as a result does make for a relatively accurate Babylonian half of the map.*
 
 -> ![S8 Chaos Concept](https://files.catbox.moe/fel1tk.jpg) <-
 
@@ -640,9 +643,9 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
 -> ![S8 Order Sketch](https://files.catbox.moe/2hrruz.jpg) <-
 
-   *Also, yes, Nebuchadrezzar is the correct spelling; Nebuchadnezzar (the spelling you find the Torah / Bible) is a petty insult and deliberate spelling mistake of his name (basically calling him a donkey) taken as God-ordaned 'fact', because he completely fucking BTFO the Jews harder than Hadrian or Hitler. ~~In that sense, I guess we know what side of the JQ Tiamat stands on. Bet you wouldn't have been able to think of, let alone infer that without my historic FACTS AND KNOWLEDGE aiding you, thank me later for the entertaining read as your twisted little mind associates Tiamat with everything that comes to mind about Hitl- I mean Nebuchadrezzar from her choice in architecture.~~*
+   *Also, yes, Nebuchadrezzar is the correct spelling; Nebuchadnezzar (the spelling you find the Torah / Bible) is a petty insult and deliberate spelling mistake of his name (basically calling him a donkey) taken as God-ordaned 'fact', because he completely fucking BTFO the Jews harder than Hadrian or Hitler. ~~In that sense, I guess we know what side of the JQ Tiamat stands on, given her choice in architectural inspiration. Bet you wouldn't have been able to think of, let alone infer that without my historic FACTS AND KNOWLEDGE aiding you, thank me later for the entertaining read as your twisted little mind associates Tiamat with everything that comes to mind about Hitl- I mean Nebuchadrezzar II from her choice in building-style.~~*
 
-   *Yeah, I'm just kinda stalling at this point so it's just a complete wall of concept art. Shut the fuck up, it looks cool. One thing to note / as you can see in this concept art, there were plans to make the map more akin to it's competition-MOBA's, adding a river connecting each lane, as well as modified camps and inferrably a new Hydra-boss on the Duo line (of which the creature likely recieved it's internal design rework around this time).*
+   *Yeah, I'm just kinda stalling at this point so it's just a complete wall of concept art. Shut the fuck up, it looks cool. One thing to note / as you can see in this concept art, there were plans to make the map more akin to it's competition-MOBA's, adding a river connecting each lane, as well as modified camps and inferrably a new Hydra-boss in the Duo line (of which the creature likely recieved it's internal design rework around this time). The other named creatures (Minotaur, Basilisk, Drake etc) seem to simply be early ideas for what they wanted to do with buff camps.*
 
 -> ![S8 Conq Concept](https://files.catbox.moe/3woedp.jpg) <-
 
@@ -650,16 +653,22 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
 
    *Furthemore as a new mechanic for this season, the map would 'evolve' and be slighly remodelled over this arc to fit a variety of themes as the lore progressed, which I'll touch shortly on each time they happen.*
 
-   *The most notable detail to me however (aside from, well, you know, the complete map rework), is that various map entities are representations of Tiamat's 11 Poison Dragons!... Which I go into more detail below!*
-
-   ***Details, Dragons & Old Gods aside***: *https://rentry.org/smgenloreasidespt2#babylonian-details-and-the-urreligion*
+   *For the first map of Season 8, the three major additions were Base-walls, and the Greater / Lesser Scorpions. Yep, up until this point, there wasn't exit points from your base into the Jungle*
+	*Scorpions may have shared a name, but did completely different things. Greater Scorpions served as Team-sided Jungle Bosses. They first spawned in the contested space on top of the Gold Fury and Fire Giant, and would need to be killed to 'enable' the major Jungle Boss there to spawn. Upon defeat, they would augment every Jungle Buff on the allied quarter of the map for a short time (for example, defeating the Fire Giant Scorpion augmented your Blue Buff to gain Cooldown on top of it's Mana focus) and Greater Scorpions would then spawn on each team's side from there on out. Junglers would need to maintain the Greater Scorpion buff, on top of their usual duties, but would often be helped by the Mid or Support after the first, due to the substantial reward as a 'mini-Jungle-Boss'. Invading the enemy Greater Scorpion was also a common tactic during Fire Giant dances, to bait out the enemy into taking a bad engagement, and to deny them buff-augments. In Season 9 they would be simplified to only exist on the Fire Giant side of the map, no longer preventing the Major Bosses from spawning in, and would augment every buff on their half of the map (rather than each quarter), until their timely removal in S10.*
+	*Lesser Scorpions on the other hand were much more earlygame-focused, and would take a small healthbar, but also 3 Basic Attacks to kill once downed (similar to Kumbha Passive). One spawned in the middle of the Solo lane, and two of them (one near each tower) in the Duo lane, all three on the outer-wall. These acted as contested objectives, offering a minor reward, but also 'activated' a healing station in their radius, giving the team to kill them some sustain, to the tune of a free Green Potion if you sat in it for the entire duration. These lasted for the duration of S8, but were put on leave after S8 ended, appearing as 'basic' Jungle Monsters from S10 onwards.*
 
    -> ![Minimap](https://files.catbox.moe/f3flzd.png) <-
 
-   We enter once again at the Taihang Mountains, once again with Mulan and Persephone meeting up (presumedly picking up on where they left off while *the Cthulhu incident* was ongoing). Persephone's no longer locked out of her house / the Underworld, the two have a chat about how Tiamat's cleaned everything up, but how the Gods are now wary of her overwhelming strength. Conveniently, the Norse Pantheon and Yggdrasil are now completely fine, China's clean of ~~opium~~ Corrupted Jade and everyone feels at peace for the first time in years.
-   Baba walks on in to speak with the girls. Snarky-bitchsephone derides her, saying her prophecy was not only useless *(ha!)*, but wrong on top *(haha!)*, since Cthulhu got BTFO without needing it's help at all *(hahaha!)*. Baba nonchalently responds that the prophecy wasn't about Cthulhu; and that Cthulhu can nowhere near be described as 'the dark sea' itself *(since it got consumed by the sea)*, followed by a cheeki breeki slavic "YEAH YOU THOUGHT, BITCH".
+   *The most notable detail to me however (aside from, well, you know, the complete map rework), is that various map entities are representations of Tiamat's 11 Poison Dragons! Which.... I go into more detail in a tangential Aside!*
 
-   Mulan has to explain to Persephone that the doomsday prophecy was a bait-and-switch about Tiamat, not Cthulhu.
+   ***Details, Dragons & Old Gods aside***: *https://rentry.org/smgenloreasidespt2#babylonian-details-and-the-urreligion*
+
+***
+
+   We enter back into the narrative once again at the Taihang Mountains, once again with Mulan and Persephone meeting up (presumedly picking up on where they left off while *the Cthulhu incident* was ongoing). Persephone's no longer locked out of her house / the Underworld, the two have a chat about how Tiamat's cleaned everything up, but how the Gods are now wary of her overwhelming strength. Conveniently, the Norse Pantheon and Yggdrasil are now completely fine, China's clean of ~~opium~~ Corrupted Jade and everyone feels at peace for the first time in years.
+   Baba walks on in to speak with the girls. Snarky-bitchsephone derides her, saying her prophecy was not only useless *(ha!)*, but wrong on top *(haha!)*, since Cthulhu got BTFO without needing it's help at all *(hahaha!)*. Baba nonchalently responds that the prophecy wasn't about Cthulhu; and that Cthulhu can in no way be described as 'the dark sea' itself *(since Cthulhu got consumed by the sea)*, followed by a cheeki breeki slavic "YEAH YOU THOUGHT, BITCH".
+
+   Mulan has to explain to Persephone that if you readcarefully, the doomsday prophecy was a bait-and-switch about Tiamat, not Cthulhu.
   *Nice one there LoRez/Titanforge, genuinely well played.*
 
 ***
@@ -667,8 +676,8 @@ Cthulhu uses his 3 to dash / lurch at Olorun and ....*?!!!!!!!!!!*
    Cut back to Olympus, and the Yorubans are getting ticked off that Tiamat's Ziggurat is in literal terms casting shade on *their* Olympus ~~that they're squatting in~~. Yemoja notes the rivers ain't telling her shit about Tiamat either, as if they're afraid of Tiamat *(?)*.
 
    The two head into the usual God-meeting spot, to find Hemidallr and ~~the newly remodelled~~ Sobek having a spat in front of the remaining embassies. The Norse Pantheon are pro-Tiamat, since she basically jannied up their entire ultrafucked ruins of a Pantheon for free (intentional or not), while Sobek's getting bad vibes from her - especially since Set of all the Gods was the one to wake her up *(who, coincedentally, has been completely absent since the temple collapsed on him)*. Zeus wants to **...SMITE!!!** the Ziggurat for getting in the way of Olympus but Hera just wants to enjoy the peace while it lasts. Sobek relays that the entire Egyptian Pantheon (bar Set) wants to strike while the anvil is hot, and deal with Tiamat quickly while she's still possibly vulnerable.
-   Like Set, the League of Best Friends are still unaccounted for. Ares says they should be the number one priority, so he can get info on how to kill Tiamat, ignoring everyone else present. Chaac waddles over *(one thing not restored by Tiamat's Great Reset being his pride ~~and the anal rupture~~)* and relays that the Kukulkan and the Mayans don't care about the League of Best Friends, and just want to wait it out to see what Tiamat's first move is.
-   Finally, Arthur, on behalf of his new frens with the Celts, gives his insightful point of view, that *dragons = bad news >:(*
+   Like Set, the League of Best Friends are all still unaccounted for. Ares says they should be the number one priority, so he can get info on how to kill Tiamat, ignoring everyone else present. Chaac waddles over *(one thing not restored by Tiamat's Great Reset being his pride ~~and the anal rupture~~)* and relays that the Kukulkan and the Mayans don't care about the League of Best Friends, and just want to wait it out to see what Tiamat's first move is.
+   Finally, Arthur, on behalf of his new frens with the Celts, gives his deep and insightful point of view, that *dragons = bad news >:(*
 
    After being given each Pantheon's insight and the intriguing worldbuilding about the ongoing geopolitical events, Olorun ignores all of them anyways, because he already decided he'd accept an invite from Tiamat. *~~Amazing writing.~~*
 
@@ -695,11 +704,11 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
    Sobek is wary, and is only there to relay a partial thanks for saving Ra on behalf of the Egyptian pantheon. Ares is there because, while everybody else is being cautious / pussied out, Ares ain't no bitch and he's there to quietly scope the place out for weak spots, come a potential conflict. For opinions, Hera likes Tiamat's ~~grrrrlpower~~ huuuuuge Ziggurat, Zeus thinks it's a bit tacky and that Olympus is... like... way better bro...*it's not the size that counts... fuckin bitch tiamat showing him up... ~~(yeah, ok Lo-Rez / Titanforge)~~*
 
    Greetings aside, Tiamat cuts to the chase and asks the question on everybody's minds - why the fuck Olorun is still lingering around and not back up in space where he belongs 'n shiet?
-   She points out that she's ended all the conflicts, fixed up all the pantheons and shut down Cthulhu - he is now objectively lingering around for no reason. This is a very good question, and as w-***OH MY GOD LOOK IT'S GILGAMESH & BELLONA WOWEE LOOKS LIKE WON'T GET AN ANSWER TO THAT ONE, KANG OLORUN IS HERE TO STAY FOR A FEW EVENTS MORE HOW CONVENIENT FOR LO-REZ / TITANFORGE WHOOPSIEDOODLE***
+   She points out that she's ended all the conflicts, fixed up all the Pantheons and shut down Cthulhu - he is now objectively lingering around for no reason. This is a very good question, and as w-***OH MY GOD LOOK IT'S GILGAMESH & BELLONA WOWIEE LOOKS LIKE WE WON'T GET AN ANSWER TO THAT ONE, KANG OLORUN IS HERE TO STAY FOR A BIT LONGER HOW CONVENIENT FOR LO-REZ / TITANFORGE WHOOPSIEDOODLE***
 
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/cyin2d.mp3) <-
 
-   Bellona and Gilgamesh aggro onto Tiamat; Tiamat *(expectedly, almost relievedly even)* drops the 'civility' act and responds ferally in turn. Zeus giddily goes off to join them - because Zeus doesn't really care what Olorun thinks about embassies and Zeus'll just do whatever the fuck Zeus wants because Zeus is Zeus *(Olorun now aware of the... 'consequences' of interrupting Zeus)*. Ares starts to get excited too and almost joins in, but his mother dearest is just sighing to herself and facepalming over daddy Zeus, so he decides to be good son and bide his time for more advantageous conditions - sitting back just to review how things go on from afar.
+   Bellona and Gilgamesh aggro onto Tiamat; Tiamat *(expectedly, almost relievedly even)* drops the 'civility' act and responds ferally in turn. Zeus giddily goes off to join them - because Zeus doesn't really care what Olorun thinks about embassies and Zeus'll just do whatever the fuck Zeus wants because Zeus is Zeus *(Olorun now aware of the... 'consequences' of interrupting Zeus)*. Ares starts to get excited too and almost joins in on the fun, but his mother dearest is just sighing to herself and facepalming over daddy Zeus, so he decides to be a good boy and bide his time for more advantageous conditions - sitting back just to review how things go on from afar.
    ~~*I genuinely think they forgot Sobek was supposed to be in this scene.*~~
 
 -> ![S8 Promo](https://files.catbox.moe/m6vcvg.jpg) <-
@@ -710,7 +719,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
   *Once again, this fight is split across cinematics - which is where I come in ~~{bane voice}~~ for (You)! Don't you love me?*
 
-  *Link to the stitched Tiamat Cinematic Fight:*
+  *Link to the stitched Tiamat Cinematic Fight, [Here]()  *
 
 -> ![Tiamat Concept](https://files.catbox.moe/flabie.jpg) <-
 
@@ -734,7 +743,7 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 
    Suffice to say, while Tiamat kept her spergery in check after getting Gilgamesh Ulted *~~(that shit was broken at Gilgamesh's release)~~* she's absolutely seething that the old Babylonian Gods / Anunnaki + Igigi are still kicking around and still trying to kill her. She's still seething so hard after a few hours from when the intruders left, that *a heavy thunderstorm* has unconsciously started brewing above her. *This. Is. Foreshadowing. Remember this.*
 
-   She doesn't want to go to war with the new Gods yet - but the Anunnaki? The Anunnaki have signed their deathwish.
+   She doesn't want to go to war with the new Gods just yet - but the Anunnaki? The Anunnaki have signed their deathwish.
 
 -> ![S8 Conq Chaos](https://files.catbox.moe/dk8kzj.jpg) <-
 
@@ -744,9 +753,9 @@ Either ways, Tiamat is a unique entity in this universe. Nothing outclasses her.
 ***
 
    ***CONQUEST MAP INTERLUDE 2: ELECTRIC BOOGALOO LOL** - and, as I said before, the Conquest map would 'evolve' over the course of this Arc - this was the first instance of that. The... ***RISING STORM!!!?!!!....** update.*
+   *As a result of pissing Tiamat off, the skybox got a change from a calm morning, to heavy thunder and lightning cast over the Chaos-side Ziggurat (see above), set against an angry purple sky, which was a really nice contrasting darker palette for the map.*
 
-   *As a result of pissing Tiamat off, the skybox got a change from a calm morning, to heavy thunder and lightning cast over the Chaos-side Ziggurat (see above), set against an angry purple sky, which was a really nice contrasting palette for the map.*
-   *While there were a few minor thorny foliage additions to match the overgrowth-theme of Tiamat's fight, the key aspect this time around was the introduction of Vine-Walls around the centre regions of the map, which acted as regrowing entities that would require one basic attack to be broken, and would 'regrow' after a short while. These were placed on the external sides of the Gold Fury and Fire Giant (making stealing the objective more difficult, as there was no line-of-sight), but also blocked off the jungle-entrances to the Mid-lane harpies, making Mid generally more secure / isolated. Aside from the destruction/regrowth mechanic, the vine walls were functionally identical to normal walls, with the exception that the Ghost Walk relic / Osiris's passive let the player move through them freely.*
+   *While there were a few minor thorny additions to the foliage of the map, to match the overgrowth-theme of Tiamat's fight, the key addition this time around was the introduction of Vine-Walls around the centre regions of the map, which acted as regrowing entities that would require one basic attack to be broken, and would 'regrow' after a short while. These were placed on the external sides of the Gold Fury and Fire Giant (making stealing the objective more difficult, as there was no line-of-sight), but also blocked off the jungle-entrances to the Mid-lane harpies, making Mid generally more secure / isolated. Aside from the destruction/regrowth mechanic, the vine walls were functionally identical to normal walls, with the exception that the Ghost Walk relic / Osiris's passive let the player move through them freely.*
 
    *They didn't last though, and were removed after this round of 'evolution' :(*
 

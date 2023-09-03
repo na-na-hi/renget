@@ -1,7 +1,7 @@
 # HEDONÃ's Cards
 ***
 I mostly do unique requests.
-If you have a request for a niche card, feel free to email me. The_Taste_Of_Heaven@proton.me
+If you have requests or suggestions, feel free to email me. The_Taste_Of_Heaven@proton.me
 ***
 **Table of Contents**
 [TOC2]
@@ -10,7 +10,7 @@ If you have a request for a niche card, feel free to email me. The_Taste_Of_Heav
 ###New
 Elodie| [CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
 --|---
-![Remember this?](https://files.catbox.moe/o9tv60.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+![Remember this?](https://files.catbox.moe/wniyf3.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
 
 ***
 ###OCs
@@ -35,7 +35,7 @@ Elodie| [CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
 ###Lord of Mysteries
 Amon| [CHUB link](https://www.chub.ai/characters/Hedona/amon-550d7dd2)|
 -----|---|
-!["You truly are powerful, cunning, and terrifying, truly worthy of the title of ‘God of Deceit." - The Fool](https://files.catbox.moe/9hvk8e.png)| Amon, the Angel of Deceit, is a cunning trickster with an insatiable curiosity and a penchant for chaos, who uses his powers of manipulation and deception to toy with the world around him, all while hiding behind the guise of a gentleman adorned with a signature crystal monocle.
+!["You truly are powerful, cunning, and terrifying, truly worthy of the title of ‘God of Deceit." - The Fool](https://files.catbox.moe/r85zgx.png)| Amon, the Angel of Deceit, is a cunning trickster with an insatiable curiosity and a penchant for chaos, who uses his powers of manipulation and deception to toy with the world around him, all while hiding behind the guise of a gentleman adorned with a signature crystal monocle.
 
 ***
 

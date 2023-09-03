@@ -1,6 +1,6 @@
 #ROCKMAN X DiVE LINKS
 
-
+###---END OF SERVICE: 2023-09-27---
 - https://play.google.com/store/apps/details?id=tw.com.capcom.rxd&hl=en 
   - **Official Download**
 
@@ -16,7 +16,17 @@
 - http://rxdres.capcom.com.tw/145/Designs/forbiddenInfo.json
   - Censored words
 
-##DATAMINED FILES
+
+##OFFLINE VERSION INFO
+- https://store.steampowered.com/app/2183650/MEGA_MAN_X_DiVE_Offline/
+-Steam page, priced at $30USD
+
+
+
+##Modding info will come soon
+
+
+##DATAMINED FILES ARCHIVE
 
 These next links includes models and textures that have been ripped off by the X DiVE community, **use with caution, as they're unstable to use in programs such as Blender or Live2d due to not being properly adapted to such programs**:
 
