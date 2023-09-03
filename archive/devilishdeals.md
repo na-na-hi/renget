@@ -515,3 +515,75 @@
 >you were already at your limit and you bucked one last time 
 >white flooded the guts of Stolas as he whined at the sensation 
 >his cock finally sprung up from his slit let out a few syrupy loads on your stomach
+
+>Stolas was shivering in place as he continued to ride out your orgasm
+>his eyes were rolled up while he gripped your body tightly
+>you on the other hand, were thoroughly washed out
+>the demon owl could easily fit the succubus schtick considering he utterly drained you dry
+>minutes pass and Stolas sits up, groaning and a bit woozy as he gazed at you with half-lidded eyes
+>"Mmmm~ Look at what you did to me you bad boy."
+>he pulls away from your cock and spreads his slit wide, letting the liters of cum leak down on the bed
+>above it, his dick was still pulsating from his previous orgasm
+>"I've hadn't had this much fun since forever~"
+>Stolas continued to slur his words before he passes out on top of you
+>his chest smothers your face and it was oddly comfortable sensation
+>you feel drowsy as you sunk into the soft sensation that was Stolas' fluffy feathers
+>...
+>you wake up the sensation of blinding light from your window
+>sighing in frustration, you attempt to stand up but a clawed hand yanks you closer
+>"Mmmmm... Nonny."
+>your eyes bulged out from your sockets as Stolas' hands wrapped themselves around your chest and feel his chin on top of your head
+>last night's events run through your mind and you did the one thing you need to do
+>you screamed
+>Stolas sat straight immediately, pulling the bed covers up to his chest and looked around in panic
+>his feathers were a mess and he was still wearing the lingerie last night
+>he actually looked cute when he's messy
+>wait what are you saying?!
+"Stolas! What the fuck!?"
+>he flinched from your foul language
+>"N-Now Anonymous, I know you're a bit mad-"
+"Mad?! Of course I'm mad! I just said you shouldn't use me as an emotional crutch for your problems!"
+>"I'm sorry! It was that time of the month and I felt lonely! Y-You were just there."
+"Lonely? You were practically fucking the life out of me from how you acted last night!"
+>"Again I'm sorry! I don't usually lead during sex but when I do I get too... 'passionate.'"
+"Well if you used that energy to fix your issues rather than give me the best sex of my life, maybe we'll go somewhere!"
+>"Please Anonymous, I know I can be a bit unbearable but I- wait what was that last part?"
+>oh crap you said too much
+"I-I said that if you just used that energy to-"
+>"Give you. The best sex. Of your life?"
+>the way he rolled the words right off his tongue just gives you more dread
+>he gets on top of you and lets his elbows rest on the sides of your shoulders
+>"Anonymous, my dear DEAR friend, have you enjoyed our coitus from last night?"
+>Stolas looked down on you full judgement and coy
+>your face heats up and that's all the answer he needed
+>he smiles ear to ear before resting his head under your chin
+>a sigh escapes his beak
+>"I've already taken steps to improve myself Anonymous."
+>he clutches your hand and you return the gesture
+>"There are still problems along the way, Octavia's safety, my divorce, my... partnership with Blitzy."
+>you heard a sniffle
+>"They aren't simple problems that's just going to go away. They're complicated, with each step I take I feel like I'm going to fall into a pit."
+>"But with you, you gave me solace. Just time for me to get away for a moment and relax."
+>"I get to think for a moment without any weight on myself. And I enter my life again with a clear head and a new perspective."
+>"To reiterate, I just wanted to say, thank you. For being there to listen."
+>he stayed silent after that
+>you decided to throw in your two cents
+"...Each step counts right? I mean you are trying to improve, in your own way. So that counts. I guess it's kind of stressful being a family man.
+>Stolas props himself up to face you with a smile.
+>"Every step counts."
+>you find yourself smiling back
+>the two of you stared into each others eyes before you feel something stroking your cock
+>you frown but he just continues to smile
+>"Well I did say every step counts, and I need some 'thorough' rest before I seize the day~"
+"Stolas I have classes to attend."
+>he gestures the calendar and you notice it's the start of the weekend
+>oh fuck
+>the entire morning consisted of Stolas introducing to all kinds of kinks you never knew you had
+>at one moment he was rubbing his thighs on your aching dick
+>the next he was making you cum buckets with just a handjob as he peppers kisses all over your face and neck
+>noon finally hit and it was that time Stolas decided to leave you in a sorry state
+>"Ta ta Anonymous~ I'll be sure to put some 'us' time tomorrow. I'll even update you on what I've accomplished after I return!"
+>the portal closes and you were finally alone
+>a sore pelvis, black lipstick all over your body, and a question that persisted from this very day
+>how did i get here
+End

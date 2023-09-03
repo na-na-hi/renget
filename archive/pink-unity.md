@@ -92,10 +92,18 @@ Some examples include but are not limited to:
 *Momo Maru* (EN): https://www.youtube.com/@MomoMaruVT
 *Urato Chieru* (JP): https://www.youtube.com/@UratoChieru
 *2wintails* (EN): https://www.twitch.tv/2wintails
+*Nina Momose* (JP): https://www.youtube.com/@MomoseNina
+*Himaji Pane* (JP): https://www.youtube.com/@HimajiPane-qt3zv
+*kurumizawamomo* (JP): https://www.youtube.com/@kurumizawamomo
+*Aria Synth* (EN): https://www.youtube.com/@AriaSynth
+*Tensyoin Himeno* (JP): https://www.youtube.com/@TensyoinHimeno
+*Babu* (JP): https://www.youtube.com/@babuch.7133
+*Miria Sakuragi* (JP): https://www.youtube.com/@Miria_Sakuragi
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
 *Nekomiya Hinata* (JP): https://www.youtube.com/@NekomiyaHinata
+*Shishido Akari* (JP): https://www.youtube.com/@ShishidoAkari
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
@@ -120,6 +128,7 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Ame Doll* (EN): https://www.twitch.tv/amedoll
 *Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
 *Punkalopi* (EN): https://www.youtube.com/@Punkalopi
+*Hinano Tachibana* (JP): https://www.youtube.com/@hinanotachiba7
 
 ###Pink Accented:
 Defined below.

@@ -406,4 +406,5 @@ https://arch.b4k.co/vp/thread/54362488/ 17 even more of the clown circus, and al
 https://arch.b4k.co/vp/thread/54368308/ 18 more victory road hell + elite 4 
 https://arch.b4k.co/vp/thread/54375113/ 19 birds, dogs, and golems
 https://arch.b4k.co/vp/thread/54387428/ 20 more postgame stuff
-https://arch.b4k.co/vp/thread/54393225/ 21
+https://arch.b4k.co/vp/thread/54393225/ 21 time travel, cute redheads, and raep
+https://arch.b4k.co/vp/thread/54396776/ 22

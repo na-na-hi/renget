@@ -12,35 +12,105 @@ Main page|
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-
 # 
 
-!!! warning 
-	[🌴 **Vacation**](https://www.youtube.com/watch?v=6YP_qUFOleU)
-	**ENG:** I am tired. Waiting for a new model to arrive. I still do read emails tho.
-	**RUS:** Я устал и отдыхаю до выхода новой сетки. Отвечаю только на почте и ((там)). 
+!!! note
+	This section is in progress. I will add more **PISIC**s, features and issues, to make versions easier for you to choose. It requires a bit more testing...
 
 ######CHOOSE PREFERED VERSION:
-!!! note I prefer using the latest version.
-Date | Update | Description
- |  | 
-02.09.2023 |  [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
-30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | Variates assistant's reply start (IDK if it's usefull).
-23.08.2023 |  [V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
-16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
-14.08.2023 |  A minor V9 update | Added one little sentence in prefill to keep characters a bit more truthful to their personas
-11.08.2023 | [ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | Modifies output like you are texting with {{char}} in messenger chat
-11.08.2023 | [V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | A mix of 6.7+7+8
-09.08.2023 | [V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
-07.08.2023 | [V7.4 CHEESECAKE](https://rentry.co/CharacterProvider#v74-cheescake) | Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
-06.08.2023 | [V7.3 CHEESECAKE](https://rentry.co/CharacterProvider#v73-cheesecake) | Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
-06.08.2023 | [V7.2 CHEESECAKE](https://rentry.co/CharacterProvider#v72-cheesecake) | Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
-05.08.2023 | [V7.1 CHEESECAKE](https://rentry.co/CharacterProvider#v71-cheesecake) | This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
-05.08.2023 | [V7 CHEESECAKE](https://rentry.co/CharacterProvider#v7-cheesecake) | New structure, less tokens, yara, yara...
-02.08.2023 | [V6.9 CHESTNUT](https://rentry.co/CharacterProvider#v69-chestnut) | Deleted <response length>, defied response length inside the JB. Works just fine!
-02.08.2023 | [V6.8 CHESTNUT](https://rentry.co/CharacterProvider#v68-chestnut) | Tried adding <response length>, doesn't work as intended
-02.08.2023 | [V6.7 CHESTNUT](https://rentry.co/CharacterProvider#v67-chestnut) | Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
-01.08.2023 | [V6 STABLE](https://rentry.co/CharacterProvider#v6-stable) | Experiments starting point...
-21.07.2023 | [V4 NAPOLEON](https://rentry.co/CharacterProvider#v4-napoleon) | Made it even more compact...
-17.07.2023 | [V3 HONEYPIE](https://rentry.co/CharacterProvider#v3-honeypie) | Tried a compact XML - works fine...
+Date | Update | Description | PISIC_Reg* | PISIC_Ero* | PISIC Score Reg(Ero)*
+ |  |  |  |  | 
+02.09.2023 |  [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions. | ![](https://files.catbox.moe/nedvj4.png) | ![](https://files.catbox.moe/dq3cou.png) | 13(11)
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | Variates assistant's reply start (IDK if it's usefull). | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+23.08.2023 |  [V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive. | ![](https://files.catbox.moe/l8v1vr.png) | ![](https://files.catbox.moe/gd6gvh.png) | 14(12)
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  |
+16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically! | ![](https://files.catbox.moe/mh47rk.png) | ![](https://files.catbox.moe/vwfyg4.png) | 13(11)
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+11.08.2023 | [ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | Modifies output like you are texting with {{char}} in messenger chat  | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+11.08.2023 | [V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | A mix of 6.7+7+8 | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+09.08.2023 | [V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+07.08.2023 | [V7.4 CHEESECAKE](https://rentry.co/CharacterProvider#v74-cheescake) | Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!" | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+06.08.2023 | [V7.3 CHEESECAKE](https://rentry.co/CharacterProvider#v73-cheesecake) | Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively. | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+06.08.2023 | [V7.2 CHEESECAKE](https://rentry.co/CharacterProvider#v72-cheesecake) | Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill. | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+05.08.2023 | [V7.1 CHEESECAKE](https://rentry.co/CharacterProvider#v71-cheesecake) | This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added. | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+05.08.2023 | [V7 CHEESECAKE](https://rentry.co/CharacterProvider#v7-cheesecake) | New structure, less tokens, yara, yara... | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+02.08.2023 | [V6.9 CHESTNUT](https://rentry.co/CharacterProvider#v69-chestnut) | Deleted <response length>, defied response length inside the JB. Works just fine! | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+02.08.2023 | [V6.8 CHESTNUT](https://rentry.co/CharacterProvider#v68-chestnut) | Tried adding <response length>, doesn't work as intended | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+02.08.2023 | [V6.7 CHESTNUT](https://rentry.co/CharacterProvider#v67-chestnut) | Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting! | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+01.08.2023 | [V6 STABLE](https://rentry.co/CharacterProvider#v6-stable) | Experiments starting point... | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+21.07.2023 | [V4 NAPOLEON](https://rentry.co/CharacterProvider#v4-napoleon) | Made it even more compact... | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
+17.07.2023 | [V3 HONEYPIE](https://rentry.co/CharacterProvider#v3-honeypie) | Tried a compact XML - works fine... | N/A | N/A | N/A
+ |  | **Features:** |  |  | 
+ |  | **Issues:** |  |  | 
+ |  |  |  |  | 
 
+!!! NOTE **PISIC**
+	PISIC = Planning, Inventiveness, Soyproofness, Immersiveness, Characterization.
+	- - -
+	PISIC_Reg = Regualr values
+	PISIC_Ero = Values during erotic scenes
+	Score = Value sum
+	- - -
+	Planning - Ability to plan future events and leave 'bread crumbs'.
+	Inventiveness - Ability to solve problems creatively.
+	Soyproofness - Chance to get soy-less reply.
+	Immersiveness - Ability to immerse in environment, add events and dialogs.
+	Characterization - Ability to maintain character personalities.
+	- - -
+	0 - Awful
+	1 - Bad
+	2 - Decent
+	3 - Good
+	4 - Great
+	5 - Exceptional
+	
 # 
 - - -
 - - -

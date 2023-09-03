@@ -48,21 +48,31 @@ https://rentry.co/e8nrn
 >Admiral Brickell's Beach Time
 https://archiveofourown.org/works/46394518
 
->A Drunk Mind Speaks A Sober Heart 
-https://archiveofourown.org/works/45060226
-
 #Monke Artists
-Neurodyne
-Redustheriotact
-Sincastermon
-goatboydraws
-VagnerdeSouzaS7
-WeirdOtterDream
-Ninjabunneh
-72hoka
-hyaku (GAY!!!)
-MarquessBronze
+#####guys who draw ook or have monke ocs
 
+Neurodyne
+![](https://pbs.twimg.com/media/FpNODesXoAIi1aZ?format=jpg&name=small) ![](https://pbs.twimg.com/media/Fv5ojApXoAMvQXH?format=jpg&name=small)
+Redustheriotact
+![](https://pbs.twimg.com/media/Ff2muD5XEBwsRc_?format=webp&name=small) ![](https://pbs.twimg.com/media/FIzYkfXXIAAih9l?format=webp&name=small)
+Sincastermon
+![](https://pbs.twimg.com/media/Fq4ubOXXgAAM1RA?format=jpg&name=900x900) ![](https://pbs.twimg.com/media/FwkBEfgagAA16up?format=jpg&name=small)
+goatboydraws
+![](https://pbs.twimg.com/media/FowHoUIXgAAXz63?format=png&name=900x900) ![](https://pbs.twimg.com/media/F05892WX0AEfRDl?format=jpg&name=small)
+VagnerdeSouzaS7
+![](https://pbs.twimg.com/media/F0yUVXiWcAYOC2o?format=jpg&name=small) ![](https://pbs.twimg.com/media/FxbRV6CXwAAGkGo?format=png&name=small)
+WeirdOtterDream
+![](https://pbs.twimg.com/media/FzbTcFFakAErLTB?format=jpg&name=small) ![](https://pbs.twimg.com/media/F2uPhAhaQAEsijS?format=jpg&name=small)
+Ninjabunneh
+![](https://i.imgur.com/83JShKn.jpg)
+![]()
+72hoka
+![](https://pbs.twimg.com/media/F0AEuS7WAAAajo1?format=jpg&name=small)
+![]()
+hyaku (GAY!!!)
+![](https://pbs.twimg.com/media/FwWKkjfagAcmMna?format=jpg&name=small)
+MarquessBronze
+![](https://pbs.twimg.com/media/FOG8L0mXwAM9AyR?format=jpg&name=small) ![](https://pbs.twimg.com/media/FwtB96jWwAA1BCO?format=jpg&name=small)
 
 
 #Monke Hentai

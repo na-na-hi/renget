@@ -240,6 +240,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Booth]](https://ucup.booth.pm/items/5058895) [[Gumroad]](https://ucup.gumroad.com/l/saxxoe) : Last Origin - Constantia S2
 [[Booth]](https://ucup.booth.pm/items/4969914) [[Gumroad]](https://ucup.gumroad.com/l/qwlgd) : Blue Archive - Ryuuge Kisaki (Blend file)
 [[Gumroad]](https://ucup.gumroad.com/l/wtger) : Blue Archive - Ryuuge Kisaki (T-Pose Blend file)
 [[Booth]](https://ucup.booth.pm/items/4821734) [[Gumroad]](https://ucup.gumroad.com/l/qodmvj) : Kantai Collection - Shimakaze

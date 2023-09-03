@@ -16,8 +16,8 @@ Blocking API URL: ```N/A```
 ```
 
 **Sequences:**
-Input Sequence: ` ` (yes, leave blank)
-Output Sequence: ` ` (also leave blank)
+Input Sequence: ` ### Input:`
+Output Sequence: ` ### Response:`
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
 

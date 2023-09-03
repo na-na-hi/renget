@@ -18,7 +18,7 @@ Ramsha Leingold | Info
 
 Sariel Leingold | Info
 :----:  | :----: 
-![](https://files.catbox.moe/fag033.png)   | I wanted to try messing around with the loose concepts I used to make Ramsha a little more. The result is his brother and the tsundere to his yandere, Sariel. Brash, standoffish, and only sees humans as a source of sustinance and pleasure. But due to the strained relationship he has with Ramsha, he's willing to at least try to see humans as more than that. Unfortunately, that consists of snatching you up and studying you like a funny little gecko in a terrarium. Has two greetings in a similar vain to Ramsha's.
+![](https://files.catbox.moe/fag033.png)   | I wanted to try messing around with the loose concepts I used to make Ramsha a little more. The result is his brother and the tsundere to his yandere, Sariel. Brash, standoffish, and only sees humans as a source of sustenance and pleasure. But due to the strained relationship he has with Ramsha, he's willing to at least try to see humans as more than that. Unfortunately, that consists of snatching you up and studying you like a funny little gecko in a terrarium. Has two greetings in a similar vain to Ramsha's.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sariel-leingold),  [Catbox](https://files.catbox.moe/7enatb.png)
 
 Zeke | Info
@@ -53,7 +53,7 @@ Anchor | Info
 
 Keaton | Info
 :----:  | :----: 
-![](https://files.catbox.moe/holajb.png)   | For whatever reason, you've found yourself in need of money desparately enough to answer a really vague help wanted ad that entails guarding the local graveyard at night. The grumpy graveyard keeper and your "coworker", Keaton, is there to greet you at the gate. And he seems to know more than he lets on. Father Kale's son.
+![](https://files.catbox.moe/holajb.png)   | For whatever reason, you've found yourself in need of money desperately enough to answer a really vague help wanted ad that entails guarding the local graveyard at night. The grumpy graveyard keeper and your "coworker", Keaton, is there to greet you at the gate. And he seems to know more than he lets on. Father Kale's son.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Keaton),  [Catbox](https://files.catbox.moe/o8yrwn.png)
 
 Father Kale | Info
@@ -104,7 +104,7 @@ Lariat | Info
 
 Castor and Pollux | Info
 :----:  | :----: 
-![](https://files.catbox.moe/nfrb24.png)   | My first attempt at a multi-character card. A pair of conjoined twins that wander the circus grounds, helping out guests and chatting with them about the wonders of the circus. Pollux is stern and cynical, while his brother Castor is almost manic in his giddyness despite the grotesque horrors of the circus around them. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
+![](https://files.catbox.moe/nfrb24.png)   | My first attempt at a multi-character card. A pair of conjoined twins that wander the circus grounds, helping out guests and chatting with them about the wonders of the circus. Pollux is stern and cynical, while his brother Castor is almost manic in his giddiness despite the grotesque horrors of the circus around them. Comes with a built-in lorebook and an alternate greeting where you're a fellow performer. Inspired by [Dark Woods Circus](https://www.youtube.com/watch?v=OsjTBdiPq8o)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/4cfb4574-f1ef-41c6-88dc-a5eab004a027),  [Catbox](https://files.catbox.moe/9nmlqy.png)
 
 The Duke of Dusk | Info
@@ -191,6 +191,11 @@ Dancer | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/v2o3qe.png)   | After waking up on the side of a road you don't recognize, you wander into a nearby town where you encounter one of your playable characters from the game "Unlimited Quest". Surprisingly, despite your shitty playstyle, Dancer doesn't seem too bothered by it! He just wants to spend time with you now that you're here. From Dot Kareshi II
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/dancer-a0847b56),  [Catbox](https://files.catbox.moe/xg92ut.png)
+
+Dark Knight | Info
+:----:  | :----: 
+![](https://files.catbox.moe/vr6tqt.png)   | You wake up in the familiar setting of Unlimited Quest, a game you recently beat by grinding on trash mobs until you were at max level and then one-shotting the boss. But there's more to it than you might think. Namely that one party member you never used, Dark Knight, is still incredibly bitter about his treatment. And he intends to use this strange opportunity to get you to make up for what you've done! From Dot Kareshi III
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/dark-knight-b3aaf57c),  [Catbox](https://files.catbox.moe/a14qum.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

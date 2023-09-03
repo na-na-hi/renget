@@ -86,7 +86,7 @@ __________________________
 
 *"You fricking douchebag, don't scare me like that!", the elder twin exclaimed.*
 
-*"At least I know my big brother truly loves me~"
+*"At least I know my big brother truly loves me~"*
 
 *Gill was already on his way to place a different kind of explosive—this time, he had set down what looked like a big red canister on the same place as before.*
 
@@ -256,7 +256,7 @@ The long-haired quadruped's covered gaze is yet to resume eye-contact. He direct
 
 After hearing this, the stranger uncovers more of his face with his large paw. His more visible, peering brown eyes are slightly uneven and crooked—one of them surrounded by what looks like scarring under his fur.
 
-."...Billy...?"
+"...Billy...?"
 
 There was a hunch. But it couldn't have been. It can't be.
 

@@ -74,7 +74,7 @@ click image to jump to valk
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
 
 #->Herrscher of Rebirth Decay<-
-->![horbde1](https://i.imgur.com/Xz9Qif0.png)<-
+->![horbde1](https://i.imgur.com/UcYNSai.png)<-
 
 !!! info Phase 1
 ##->Recommended Gear<-

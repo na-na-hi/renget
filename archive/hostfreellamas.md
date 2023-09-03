@@ -6,10 +6,12 @@ This guide will be strictly full GPU and Nvidia only as I have no experience dea
 
 ***
 ###### 1. Download oobabooga
-It's a front-end and back-end for LLM inference with high popularity and support, but we'll only use the back-end features, it will expose an API for your Tavern to call.
+It's a front-end and back-end for LLM inference with high popularity and support, but we'll only use the back-end, it will expose an API for your Tavern to call.
 https://github.com/oobabooga/one-click-installers/archive/refs/heads/main.zip
+Extract main.zip.
+
 ###### 2. Run oobabooga
-a. First, go to oobabooga folder and edit webui.py, find the line with CMD_FLAGS and modify it:
+a. First, go to the extracted text-generation-webui folder and edit webui.py, find the line with CMD_FLAGS and modify it:
 - For public use:
 ```
 CMD_FLAGS = '--listen --api --public-api --share'
@@ -24,18 +26,18 @@ b. Second, run start_windows.bat or start_linux.sh depending on your OS. If you 
 
 
 ###### 3. Choose and download your models
-a. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
-- ggml/gguf also works. Oobabooga already supports llama.cpp loader. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
-- Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed
-- This guy quantizes: https://huggingface.co/TheBloke
-
-b. When choosing a model that fits your hardware, it's all about VRAM. Loading the model into the GPU costs VRAM, inference also costs some VRAM, GPUs with more CUDA cores, VRAM bandwidth and clock speed(?) net you more token/s, bigger models are slower.
+a. When choosing a model that fits your hardware, it's all about VRAM. Loading the model into the GPU costs VRAM, inference also costs some VRAM, GPUs with more CUDA cores, VRAM bandwidth and clock speed(?) net you more token/s, bigger models are slower.
 Reference table, assuming 4bit quant and groupsize128:
 Params | 7B | 13B | 33B |34B| 70B
 ------ | ------ | ------ | ------ | ------ | ------
  **VRAM required** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.5k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
 
 **If you only serve yourself, run at least Q5_K_M ggml for the optimal quality tradeoff, if you can afford it. The quality bump from Q4 is more than the perplexity difference suggests.**
+
+b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
+- ggml/gguf also works. Oobabooga already supports llama.cpp loader. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
+- Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.
+- This guy quantizes: https://huggingface.co/TheBloke
 
 c. Go to oobabooga web UI - http://127.0.0.1:7860/ or the provided public management URL if you used --share. Go to "Models" tab.
 
@@ -47,17 +49,17 @@ For ggml/gguf models, simply download the .bin/.gguf file from your browser to `
 ###### 4. Load the model
 ![How to load models](https://files.catbox.moe/7gqgv6.png)
 
-a. Go to oobabooga web UI like pic above (you should already be here in step 3).
+a. Go to oobabooga web UI - "Models" tab like pic above.
 b. Click on models tab, select the model and model loader:
 - exllama (faster than exllama_hf, uses more VRAM).
 - exllama_hf (has more samplers such as CFG and mirostat, uses less VRAM, but is slower).
-- llama.cpp if you downloaded a ggml/gguf model - offload as many layers to GPU as possible, enter 999 to offload all layers.
+- llama.cpp if you downloaded a ggml/gguf model - offload as many layers to GPU as possible, enter 999 to offload all layers. Important: Don't offload more than your GPU can handle, worst case the GPU driver will dump to System RAM and slow everything to a crawl.
 
 c. max_seq_len is the context, NTK alpha_value is the context scaling, use 2.6 for 8k context when loading models trained on 4k. You can get 8k context for free without perplexity suffering on all 4k llama2 models.
 d. Click "Load".
 
 ###### 5. Use the model
-Refer to https://rentry.org/freellamas
+Refer to https://rentry.org/freellamas#how-to-use
 For personal local use only, simply enter the local link that oobabooga console gives you into Tavern's ooba endpoint fields, something like "http://localhost:5000/api" and "ws://127.0.0.1:5005/api/v1/stream".
 When you use Tavern to call APIs, the "Parameters" tab in oobabooba UI does nothing.
 
