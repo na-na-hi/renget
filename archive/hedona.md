@@ -10,7 +10,7 @@ If you have requests or suggestions, feel free to email me. The_Taste_Of_Heaven@
 ###New
 Elodie| [CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
 --|---
-![Remember this?](https://files.catbox.moe/wniyf3.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+![Remember this?](https://files.catbox.moe/5mjfpv.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
 
 ***
 ###OCs

@@ -40,11 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Artfag (And elaborate edit):
->Chibi Sandatsu Stamp
->>90104227
->Inigo's Phone
->>90102567
+MHA is storing power!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043

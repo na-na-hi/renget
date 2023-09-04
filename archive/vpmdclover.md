@@ -223,6 +223,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
+	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -273,6 +274,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Debby's Diary](https://rentry.org/DebbysDiary)
 	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
     * [Grandma's Cookies (ft. Margaret the Lilligant)](https://rentry.org/o4cme)
+	* [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3) *Not on Table*
 * Elm the Duskull
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
@@ -538,6 +540,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
 * {||} [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
 * {||} [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
+* {||} [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3)
+* {||} [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

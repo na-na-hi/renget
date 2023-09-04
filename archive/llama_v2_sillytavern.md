@@ -65,7 +65,7 @@ Open koboldcpp.exe. This is how we will be locally hosting the LLaMA model.
 - **Streaming Mode** will display the text as it’s generated, instead of the end once the entire generation has finished. This allows you to preview or cut a text generation short.
 - **Context Size** determines how many ‘tokens’ of text the model is able to remember in a single chat. (For reference, the [Navy Seal Copypasta](https://genius.com/Copypasta-navy-seal-copypasta-annotated) is about ~400 tokens.) **4096** context size is the default maximum for llama v2 models/finetunes, but you can go higher using RoPE extension (which, if I remember right, is built into Kobold when you go higher). RoPE can potentially have quality loss the farther along you go, but many users with the hardware are able to run 8k context seemingly without issues; YMMV.
 
-![](https://lh6.googleusercontent.com/LJDQklcrSSgztEtd4wUbtTDeamyNQHd4XFPALKpYVudY2afx15GVzXJUcqauTqE6t4I4_3zgTIDta-kowP_nSA9CIZ9Lgn2S7DkdcMi3569i412y2WPLZHvjmNO5qE-Hhw6P_whx5TS7KNCb)
+![](https://files.catbox.moe/i6irer.png)
 
 These are the settings I use on a 8GB VRAM graphics card (RTX 2070) with an older CPU.
 
@@ -79,7 +79,7 @@ Select your model and with CuBLAS enabled if you’re a NVIDIA user. Then hit �
 
 Go to your SillyTavern folder and run ‘UpdateAndStart.bat’.
 
-![](https://lh4.googleusercontent.com/MRbtwtIfDysChzaDUNJWKair-XgVdZuLifvq_aLnuw4wb58oRqQJKqEqwFAfz8y6bBHWmQpNFKBbUpxWhuUG69lOdtc7t35jP-gf6N-HU4wF13L9cAwWLm89hl45fRMr_1CRb3oV339GHQkd)
+![](https://files.catbox.moe/hid98g.png)
 
 After that you can click ‘Connect’, and if everything went well, you’re connected to the model!
 
@@ -89,7 +89,7 @@ After that you can click ‘Connect’, and if everything went well, you’re co
 
 After clicking the top right icon, you’re able to import characters and start chats with the cards you’ve imported:
 
-![](https://lh6.googleusercontent.com/xYbjPjZlvbsOjhXT-dS1_LT9UStWadLiq45wlhFhwLlSW3x0T1aIDx0L9QmmR8XTwdxYyN1CtFCO5vY4VvAqcfXS0uYfL_Lifokh6kqZ6J3yPmvCnkYOjee8A1fUgKztc7zycnbyMUWKZ33d)
+![](https://files.catbox.moe/30c04m.png)
 
 In this tab, hit the upload character button to upload a character card (usually PNGs with attached information to them). You can find SillyTavern cards scattered across Discord servers like the official SillyTavern one, but also on [character hub](https://www.characterhub.org/).
 
@@ -101,7 +101,7 @@ After that, you can select a card, and it will begin a new chat.
 
 These are the default settings \[Default-TavernAI] for the presets on the left; mainly, I would ensure that your Context Size matches what you set in kobold.
 
-![](https://lh3.googleusercontent.com/JZiKYhBUNt4bxFz72qtHPgQt5roOOoNXCZsnNoYJfQ6H3gBdKkKh2EWYUsiYIzX5SHka9fnUrTQ7axIL2SFyhyTvSRnbt7e3xu4kvNdTkccW85Z769mNRpFQ_pZ_U3bm4htYWUmKQoZZgh-d)
+![](https://files.catbox.moe/9940vn.png)
 
 Response Length is a hard limit of how many tokens a single response is allowed to have. The other settings here are **hyperparameters**, which are quite advanced and require some manual tinkering if you want to get experimental. Temperature impacts the variability of your outputs the most, while the repetition penalty might need an increase if you notice that the model is gravitating towards the same phrases over and over.
 
@@ -131,7 +131,6 @@ And that’s about it for basic use of LLaMA & SillyTavern for character chats!
 Things I might add later:
 
 - More detailed explanation of hyperparams / presets in Tavern.
-- OpenAI proxy install explanation maybe? Not as useful nowadays.
 
 Original Google Docs guide:
 https://docs.google.com/document/d/1_g-hwrzJ-DPBW2Mxx0HDC610M0B_pIIJexst0zKAjRA/

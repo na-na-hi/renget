@@ -37,7 +37,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule : F4oePGLXIAAYLiI
+!!!warning Second OP Post - Tag schedule : F5IbAthXwAAxdNd
 \>Introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -59,7 +59,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels
 
 \>General Tools
 Schedule
-No new schedule published yet
+https://twitter.com/nerissa_en/status/1698450154703999162
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OP

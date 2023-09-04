@@ -2,7 +2,7 @@
 	-> ![Image description](https://files.catbox.moe/f9inkg.png)  **List of updates**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center0)
-!!! warning J/ope/C Week 4 https://files.catbox.moe/vuvt12.zip. Next batch of saved pages : 03/09/2023 - there will be a new .zip file every week
+!!! warning J/ope/C Week 5 https://files.catbox.moe/kbi879.zip. Next batch of saved pages : 10/09/2023 - there will be a new .zip file every week
 
 ---
 
@@ -163,5 +163,8 @@
 |02/09/2023|138|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming Japanese Classroom stream on FUWAMOCO's channel.|
 |03/09/2023|139|Lover of Idols II - OHC & Mentions|Addition of a timestamp from the ASMR Fanfic Reading stream by Shiori from 10/08/2023 when she was reading a fanfic regarding Nerissa's broken horn.|
 |03/09/2023|140|Lover of Idols II - OHC & Mentions|Addition of a video uploaded on Shiori's channel about the same fanfic above.|
+|03/09/2023|141|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming collab with Ollie.|
+|03/09/2023|142|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps for streamer-chat interactions with Kiara during the closing parts of her Hotline:Miami 2 stream from 3/09/2023.|
+|03/09/2023|143|Changelog| J/ope/C Week 5 backup .zip file uploaded|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

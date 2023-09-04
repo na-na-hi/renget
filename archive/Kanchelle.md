@@ -1,4 +1,4 @@
-Filter List for Kanchelle Loreux's spam
+Filter List for Kanchelle Loreux's spam and repeat terms used primarily in the lowest quality shitposts.
 
 
 tran\*
@@ -11,6 +11,7 @@ nigger\*
 twitt\*
 blacked
 bbc
+groom
 futa
 f+
 greasy
@@ -46,6 +47,11 @@ toilet
 shill\*
 reddit\*
 feces
+guffy
+liora
+melt
+schizo
+groomer
 
 
 Hide all filtered posts/stubs: ;stub:no  (ex: boards:trash,aco;/adult male/i;op:no)
