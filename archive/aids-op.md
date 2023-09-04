@@ -1,3 +1,6 @@
+###Unexpectedly out of town for a week; back on the 12th! Take care of the bread for me, /aids/, love you all lots~
+
+
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://i.imgur.com/cS0nKa5.png)

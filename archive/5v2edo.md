@@ -52,6 +52,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [First Leaked Build](https://files.catbox.moe/g48jlf.zip)
 [Second Leaked Build](https://drive.google.com/file/d/1-GCY-Vh12GNzHRpyQOzp_E7zb4-DRDgd/view?usp=sharing)
 [Third Leaked Build](https://www.mediafire.com/file/4c2v3dnquztrdy6/schoolgrounds_build.zip/file)
+## Singstar Challenge
+[Pickled Build](https://mega.nz/file/NusglLQa#yesh5KmYblVwlFux6kJzic-L9Z2zmm7343_6B9kie6E)
 ## Sky
 [Sky Animations](https://drive.google.com/drive/folders/1uktHVtNhTTIpdxqaniv8WWmYq5p0PfAl)
 [All Sky Content](https://drive.google.com/file/d/1imCgHBeiU6ckE10popam17IG6YcyQGIR/view)

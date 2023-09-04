@@ -85,10 +85,11 @@ Mumei and Bae will upload shorts throughout summer. Below are the list of short 
 |21-08-2023|- |[YOGA CHALLENGE ](https://www.youtube.com/watch?v=ed8xFqDOm74)|
 |27-08-2023|-|[jugemu jugemu ](https://www.youtube.com/watch?v=OybGkM04OCM)|
 |29-08-2023|[boing boing](https://www.youtube.com/watch?v=N9Zh6Kh70Z0) |-|
-|03-9-2023| - | [thunder thighs](https://www.youtube.com/watch?v=2ONnsr-xGVM)|
+|03-09-2023| - | [thunder thighs](https://www.youtube.com/watch?v=2ONnsr-xGVM)|
 
 ###HoloSummer related streams
 | Date | Title | Link | Nature |
 |------|-----|-----|-----|
 |01-07-2023 | Peace Love Moom  |[![](https://files.catbox.moe/5vvfzh.jpg)](https://www.youtube.com/watch?v=lirlhV8zSnY) | Zatsu and first use of her 3D Yukata. Just before Connect. Silly gestures and stuffs.|
 |31-07-2023| 【VOICE CHALLENGE】in the same room? 💙🤎 #gumei |[![](https://files.catbox.moe/vavtve.jpg)](https://www.youtube.com/watch?v=k7dTnCl2pVA )|First use of her 3D swimsuit model.|
+|31-08-2023| 2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 (Unarchived karaoke) |[![](https://files.catbox.moe/0o6om9.jpg)](magnet:?xt=urn:btih:4d3c9ecdb7f6684db334db8d97ce06607ed13a98&dn=%5B20230901%5D%20Unarchived%20Endurance%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) |Proper reveal of her swimsuit model. Also (part of) her 2nd anni stream(s). Better late than never :D|

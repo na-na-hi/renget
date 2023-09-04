@@ -26,7 +26,7 @@ Botmaker | Category | New Bots | Updated Bots
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Evelina](https://files.catbox.moe/sufjho.png)|[Evelina](https://files.catbox.moe/sufjho.png) [MV], [Diana](https://files.catbox.moe/7nry7f.png)
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katherine](https://files.catbox.moe/dpqj51.png)|[Huyen](https://files.catbox.moe/uxn0ii.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katherine](https://files.catbox.moe/dpqj51.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Proffesor Vitanis](https://files.catbox.moe/ljlccb.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[YoRHa A2](https://files.catbox.moe/8fiavc.png)|
 [Anonymous](https://rentry.org/charcardanons) | Misc |[Appuru-san](https://files.catbox.moe/1jqyoa.png)|
@@ -81,8 +81,8 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

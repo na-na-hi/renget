@@ -163,7 +163,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|https://twitter.com/i/spaces/1MnGnpMEqXMxO - [Segment](https://files.catbox.moe/n01b0g.mp3) | **Mention** - First impressions during a twitterspace.|
-|04/09/2023|Placeholder | **Collab** - Placeholder.|
+|04/09/2023|[Link](https://www.youtube.com/watch?v=1t215gusXA4) | **Collab** - Wedding with Nerissa.|
 
 ###### 🔨 Kaela
 |Date|Link|Nature & Notes|

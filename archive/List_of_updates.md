@@ -9,7 +9,7 @@
 !!!info -> ![Image description](https://files.catbox.moe/f9inkg.png) [Updates (sorted by Months)](https://rentry.org/Collabs_on_Nerissa_s_channels)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	[TOC]
 
-#####  ![Image description](https://files.catbox.moe/f9inkg.png) July 2023
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) July 2023 (1-14)
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |27/07/2023|1|-|Creation of the first version of the Library / Creation of the Collabs & Mentions and Music pages|
@@ -29,7 +29,7 @@
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->
 
-#####  ![Image description](https://files.catbox.moe/f9inkg.png) August 2023
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) August 2023 (15-124)
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |01/08/2023|15|Music|Addition of a placeholder for an upcoming cover (announced during the [Unpacking stream](https://youtu.be/gKlDWtpGZsg?t=6760)).|
@@ -145,7 +145,7 @@
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->
 
-#####  ![Image description](https://files.catbox.moe/f9inkg.png) September 2023
+#####  ![Image description](https://files.catbox.moe/f9inkg.png) September 2023 (125-?)
 |Date| n°|Where?|Nature|
 |---|---|---|---|
 |01/09/2023|125|Mentions & Collabs|Addition of what should be the unique POV (Shiori's) for the Advent Pico Park Collab.|
@@ -166,5 +166,7 @@
 |03/09/2023|141|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming collab with Ollie.|
 |03/09/2023|142|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps for streamer-chat interactions with Kiara during the closing parts of her Hotline:Miami 2 stream from 3/09/2023.|
 |03/09/2023|143|Changelog| J/ope/C Week 5 backup .zip file uploaded|
+|04/09/2023|144|Lover of Idols II - OHC & Mentions|Addition of the stream link for the upcoming collab with Ollie.|
+|04/09/2023|145|Lover of Idols I - Collabs on Nerissa's channel|Addition of 2 placeholders for the upcoming collabs on Minecraft and Terraria.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

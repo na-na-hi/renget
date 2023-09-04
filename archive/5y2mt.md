@@ -15,7 +15,8 @@
 
 	>==Audio== 
 	
-	>==Karaoke Clips== - 09/03 - Added 
+	>==Karaoke Clips== 
+	>- **09/03 - Added**
 	>- [#29. 『2022-09-06』 - 【SINGING】A Weird Singing Practice [k0b8vPsTYVc]](https://rentry.org/5y2mt/#2022-09-06-singinga-weird-singing-practice-k0b8vpstyvc) *Timestamps
 	>- [#47. 『2023-06-29』 - sleepy moomin [w805ry9vfss]](https://rentry.org/5y2mt/#2023-06-29-sleepy-moomin-w805ry9vfss)
 	>- [#48. 『2023-07-13』 - 【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols [8t0qNLSGpNo]](https://rentry.org/5y2mt/#2023-07-13-beegsmols-karaoke-relayunarchived-smol-moomin-beegsmols-8t0qnlsgpno)
@@ -23,6 +24,10 @@
 	>- [#50. 『2023-08-11』 - 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! [ds1_32tfVUc]](https://rentry.org/5y2mt/#2023-08-11-%E6%AD%8C%E6%9E%A0-unarchived-800000-subscriber-celebration-ds1_32tfvuc)
 	>- [#51. 『2023-08-12』 - 歌枠 but Mumei sings songs she doesn't know very well with a cold [w241Wd4asJE]](https://rentry.org/5y2mt/#2023-08-12-%E6%AD%8C%E6%9E%A0-but-mumei-sings-songs-she-doesnt-know-very-well-with-a-cold-w241wd4asje) *Timestamps
 	>- [#52. 『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]](https://rentry.org/5y2mt/#2023-08-31-%E6%AD%8C%E6%9E%A0-unarchived-endurance2-years-singing-every-song-ive-sung-in-karaoke-moomin2023-m6bmfnwmcky)
+
+	> - **09/04 - Added**
+	>- [#09. 『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]](https://rentry.org/5y2mt/#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc)
+	>- [#32. 『2022-10-14』 - 【UNARCHIVED】mumei's turn to procrastinate [ajptD_dnhWA]](https://rentry.org/5y2mt/#2022-10-14-unarchivedmumeis-turn-to-procrastinate-ajptd_dnhwa)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -39,9 +44,14 @@
 
 [TOC3]
 
-
->Silhouette - Kana-Boon 
-https://youtu.be/dip1794Rd54?t=141
+***
+>『2021-09-05』 - 【Superchat Reading】Continued!  #holoCouncil [dip1794Rd54]
+1. [Silhouette - Kana-Boon](https://youtu.be/dip1794Rd54?t=141)
+***
+>『2022-08-24』 - 【1 YEAR ANNIVERSARY】 Nanashi Mumei, the Debut (and more!) #itsMEIanniversary [yJgDuD4gxG0]
+1. [A New Start - Nanashi Mumei](https://youtu.be/yJgDuD4gxG0?t=1681)
+2. [Silhouette - Kana-Boon](https://youtu.be/yJgDuD4gxG0?t=2061)
+***
 
 ######『2021-09-28』 - 【UNARCHIVED】what [sWQIkO7txq4]
 [Go back to the top](https://rentry.org/5y2mt)
@@ -201,7 +211,28 @@ On My Own - Les Miserables  | https://files.catbox.moe/wkk7cz.mp4  |   https://c
 [Go back to the top](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
 ------ | ------ | ------
-Dancing Queen - ABBA (Autotuned)  | https://files.catbox.moe/ajiv6l.mp4
+Jingle Bells   |  https://files.catbox.moe/sjj78r.mp4    |   https://cldup.com/85X37DpUuI.mp4
+Feliz Navidad - Jose Feliciano   | https://files.catbox.moe/b4iqhl.mp4     |   https://cldup.com/lsTxgKXoZS.mp4
+Frosty the Snowman   |   https://files.catbox.moe/0a8nla.mp4   |   https://cldup.com/En7HdEup1F.mp4
+Last Christmas - Wham!   |   https://files.catbox.moe/9uxw49.mp4   |   https://cldup.com/73r7e8HEXV.mp4
+Baby, It's Cold Outside - Dean Martin   |   https://files.catbox.moe/poi5d9.mp4   |   https://cldup.com/fqGX2GO1TB.mp4
+You're A Mean One, Mr. Grinch   |  https://files.catbox.moe/1rgzq9.mp4    |   https://cldup.com/YhyxV9tZ9a.mp4
+Let It Snow! Let It Snow! Let It Snow!   |  https://files.catbox.moe/v33aof.mp4    |   https://cldup.com/ibccIaKPGv.mp4
+Winter Wonderland   |   https://files.catbox.moe/0dmf7n.mp4   |   https://cldup.com/UW0fouZlXr.mp4
+Rudolph the Red-Nosed Reindeer   |  https://files.catbox.moe/ewj2un.mp4    |   https://cldup.com/ZYeRK0LB6D.mp4
+We Wish You a Merry Christmas   |   https://files.catbox.moe/sqqaxk.mp4   |   https://cldup.com/mOMw1cB5lj.mp4
+We Wish You a Merry Christmas (Round 2)   |  https://files.catbox.moe/bmtti1.mp4    |   https://cldup.com/a3cmeXXptJ.mp4
+Up On The Housetop   |   https://files.catbox.moe/s1id79.mp4   |   https://cldup.com/afXuvGSK7E.mp4
+Rockin Around the Christmas Tree   |   https://files.catbox.moe/0xrugi.mp4   |   https://cldup.com/2_c2tqfQ7I.mp4
+Grandma Got Run Over by a Reindeer - Elmo & Patsy   |   https://files.catbox.moe/zytvcc.mp4   |   https://cldup.com/HvlXjpzKO0.mp4
+All I Want For Christmas Is You - Mariah Carey   |  https://files.catbox.moe/98kfwy.mp4    |   https://cldup.com/pTC3AZfx9q.mp4
+All I Want For Christmas Is You - Mariah Carey (Round 2)   |  https://files.catbox.moe/rlx3bj.mp4    |   https://cldup.com/mXH1gb9o3Y.mp4
+Padoru (Autotuned)   |  https://files.catbox.moe/53r4nb.mp4    |   https://cldup.com/BmLxe02sqd.mp4
+Mistletoe - Justin Bieber   |  https://files.catbox.moe/rlx3bj.mp4    |   https://cldup.com/YxBICgL3-G.mp4
+Part of Your World - The Little Mermaid   |  https://files.catbox.moe/eiy3jq.mp4    |   https://cldup.com/7dhIsJCnQ6.mp4
+Rolling in the Deep - Adele   |  https://files.catbox.moe/glw7uk.mp4    |   https://cldup.com/a5UQOPcKab.mp4
+Let It Go - Frozen   | https://files.catbox.moe/lihiba.mp4     |   https://cldup.com/UT7XquyGfj.mp4
+Dancing Queen - ABBA (Autotuned)   |  https://files.catbox.moe/ajiv6l.mp4    |   https://cldup.com/YhkAJbGkfs.mp4
 
 ***
 ######『2021-12-22』 - (UNARCHIVED) Karaoke OK! [iUqAVyJ_Gos]
@@ -756,6 +787,30 @@ Poems, Prayers And Promises - John Denver  | https://files.catbox.moe/s2ladp.mp4
 [Go back to the top](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
 ------ | ------ | ------
+Mountain Dew - The Stanley Brothers   |  https://files.catbox.moe/d1sjx4.mp4    |   https://cldup.com/8diR5LtsiX.mp4
+Never Gonna Give You Up - Rick Astley   |   https://files.catbox.moe/20g9vu.mp4   |   https://cldup.com/rMpBFPWu23.mp4
+December - Neck Deep   |  https://files.catbox.moe/ho1wbn.mp4    |   https://cldup.com/CL3UsOWjEa.mp4
+Once Upon a December - Anastasia   |  https://files.catbox.moe/0iv3az.mp4    |   https://cldup.com/p5auWYpLRP.mp4
+Cups (When I'm Gone) - Pitch Perfect   |  https://files.catbox.moe/4k8jc5.mp4    |   https://cldup.com/NwzLcQVylL.mp4
+Enemy - Imagine Dragons   |   https://files.catbox.moe/3ea6nu.mp4   |   https://cldup.com/9xGHaTy8c6.mp4
+Dreams - Fleetwood Mac   |   https://files.catbox.moe/0cec28.mp4   |   https://cldup.com/uEd3RrVgxt.mp4
+The Scientist - Coldplay   |   https://files.catbox.moe/gi5t60.mp4   |   https://cldup.com/sIzmvxmgd2.mp4
+Torn - Natalie Imbruglia (Boyce Avenue acoustic cover)   |  https://files.catbox.moe/lh46rl.mp4    |   https://cldup.com/fatH-xgJUO.mp4
+The Downfall of Us All - A Day To Remember   |   https://files.catbox.moe/ivlbid.mp4   |   https://cldup.com/xE08fS80Mg.mp4
+Demons - Imagine Dragons   |  https://files.catbox.moe/kyg1fw.mp4    |   https://cldup.com/rhTSINgTuW.mp4
+At the Beginning - Anastasia w/ Bae   |  https://files.catbox.moe/hyjtfd.mp4    |   https://cldup.com/hrZ33tNCzX.mp4
+You - Higurashi (Acapella)   |  https://files.catbox.moe/afwf1g.mp4    |   https://cldup.com/vwDZGNjgpH.mp4
+resonance - T.M.Revolution (Acapella TV Size)  |  https://files.catbox.moe/2qqvg9.mp4    |   https://cldup.com/DsgXvjkE32.mp4
+Secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (Acapella)   |  https://files.catbox.moe/qvf57h.mp4    |   https://cldup.com/QUR_WWDcxs.mp4
+Ichiban no Takaramono (Yui final ver.) - LiSA (Acapella)   |  https://files.catbox.moe/7srwcf.mp4    |   https://cldup.com/_RNVcy1kPU.mp4
+Chiisana Tenohira - Clannad After Story (Acapella)   |   https://files.catbox.moe/letfss.mp4   |   https://cldup.com/Y7OkMoBQ1A.mp4
+Dango Daikazoku - Chata (Acapella)   |  https://files.catbox.moe/n8j51g.mp4    |   https://cldup.com/AZZWrR-4gg.mp4
+Toki o Kizamu Uta - Clannad After Story (Acapella)   |  https://files.catbox.moe/gdx0d0.mp4    |   https://cldup.com/mxL81A3hdP.mp4
+Negai ga Kanau Basho - Clannad (Acapella)   | https://files.catbox.moe/nx0h5a.mp4     |  https://cldup.com/01KsvgMRIz.mp4 
+One Piece Rap (Acapella)   |  https://files.catbox.moe/d1ddvy.mp4    |   https://cldup.com/ws5wZLl1TQ.mp4
+The Star-Spangled Banner w/ Ame   |   https://files.catbox.moe/z3d3sr.mp4   |   https://cldup.com/N1i7xsuYUy.mp4
+Lilium - Elfen Lied (Acapella)   |   https://files.catbox.moe/hmvpt7.mp4   |   https://cldup.com/21O0Xb-Kf5.mp4
+Call of Silence - Attack on Titan (Acapella)   |   https://files.catbox.moe/ug7h66.mp4   |   https://cldup.com/shZ7RQn1Y0.mp4
 
 ***
 
@@ -815,7 +870,7 @@ Somewhere Out There - An American Tail  |  https://files.catbox.moe/eh3ji9.mp4 |
 The Confrontation - Les Miserables  | https://files.catbox.moe/t4a1pd.mp4  |   https://cldup.com/qCHXJNCpMa.mp4
 Stars - Les Miserables  | https://files.catbox.moe/oq401e.mp4  |   https://cldup.com/C3f_uaIYtw.mp4
 I'm Your Treasure Box - Houshou Marine  | https://files.catbox.moe/h1lkre.mp4  |   https://cldup.com/peNxrZ4HRb.mp4
-Queen - Kanaria  | https://files.catbox.moe/ipchfl.mp4  |   https://cldup.com/RqX2gWZdSt.mp4
+QUEEN - Kanaria  | https://files.catbox.moe/ipchfl.mp4  |   https://cldup.com/RqX2gWZdSt.mp4
 The Forgotten Song (Accapella)  | https://files.catbox.moe/4zp03e.mp4  |   https://cldup.com/X4Je1qQpR5.mp4
 Dan Dan Chikaku Naru - 40mP (Accapella)  | https://files.catbox.moe/u8w9ub.mp4  |   https://cldup.com/5eSJ9PTA5J.mp4
 Everytime We Touch - Cascada  | https://files.catbox.moe/miijka.mp4  |   https://cldup.com/ltWrh6OupQ.mp4
