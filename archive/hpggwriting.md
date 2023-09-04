@@ -34,6 +34,9 @@ Artorias Draco Black: https://rentry.co/ArtoriasBlack
 Zachariah Haines: rentry.org/qzxqk
 Maddison Caldwell: https://rentry.org/cr3e6
 Zalia Freeman: https://rentry.org/ZailaFreeman
+-
+Magic Awakened Students:
+Eoin O'Dwyer: https://rentry.org/EoinOdwyer
 ->• ───────────────── •<-
 
 Name: Your characters name here so we know who this is about.

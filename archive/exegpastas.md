@@ -154,3 +154,4 @@ Title|Link
 *LETS GO HUNTING FOR SHADOWS*|[(link)](https://rentry.org/9g4vr)
 *Nostalgia Critic Shitpasta*|[(link)](https://arch.b4k.co/vg/thread/430926869/#431001036)
 *Chester Cheeta N64 Trollpasta*|[(link)](https://archive.4plebs.org/x/thread/35215590/#q35215846)
+*Nigker*|[(link)](https://arch.b4k.co/vg/thread/444971476/#445032027)

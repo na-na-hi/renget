@@ -135,3 +135,8 @@ Also had a [barbecue](https://twitter.com/takanelui/status/1694711703513219355) 
  | Member (s)| Title | Link/Timestamp | Nature |
 |------|-----|-----|-----|
 |Aki| 真夜中ゲリラ配信！安眠雑談など| [Timestamp](https://www.youtube.com/watch?v=oTZZeFT2rjA&t=1305s)| Talking about the Didney visit. Summary for Nihongo hanasenai [here](https://twitter.com/mianon1205/status/1696583276402704556).|
+
+**2023-09-04**
+ | Member (s)| Title | Link/Timestamp | Nature |
+|------|-----|-----|-----|
+|:D|  【DON DON!!】 Japan Trip Zatsu + Superchat Reading ! |[Link](https://www.youtube.com/watch?v=idTwgcaiwvk)| Talked about some dates she went to in Japan with the girls.|

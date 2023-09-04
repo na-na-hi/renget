@@ -171,7 +171,7 @@
 
 &nbsp;
 
--> ![](https://a.imagem.app/bPcHV9.png) <-
+-> ![](https://a.imagem.app/byOIhG.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

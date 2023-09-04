@@ -333,7 +333,7 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 1 | 5. | Power Pitcher | The damage of the User's Throwable Items is increased by 3. | 30 IQ | 5 IP
 1 | 6. | Item Catcher | The User always catches Items thrown at them. | 30 IQ | 5 IP
 1 | 7. | Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 50 IQ | 4 IP
-1 | 8. | Type Generalist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 50 IQ | 4 IP
+1 | 8. | Type Generalist | The User's Moves lose their STAB, however, all incoming Super-Effective damage is decreased by 3. | 50 IQ | 4 IP
 1 | 9. | Pokéglot | The User is great at learning the written and spoken language quickly. | 40 IQ | 2 IP
 1 | 10. | Lockbreaker | The User is better at trying to open locks, +2 Lockpicking. They can attempt a roll once (>15 chance) to pick a Treasure Chest open for no cost. | 50 IQ | 4 IP
 1 | 11. | Extremophile | The User deals with extreme environmental conditions better, such as intense heat or freezing temperatures. While the User is afflicted with *Burn* or *Freeze*, their Defense and Special Defense are increased by 1. If acquired via Hot-Headed and Cold-Blooded, the User is no longer immune to *Burn* or *Freeze*, but their negative effects are nullified. | 40 IQ | 2 IP

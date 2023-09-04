@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Swagger | - | 4AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
 Wrap | 1BP | 6AP | ≥3 | Normal | Physical | The Opponent is afflicted with *Wrapped*.
 Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
-Iron Tail | 10BP | 6AP | >8 | Steel | Physical | 14-20; The Opponent's Defense is decreased by 1.
+Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -76,9 +76,9 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Oran Berry* | Heals 10HP when health falls under 50%
-*Equipped Item: Blast Seed* | Explodes on contact for 10 true damage.
-1. Power Seed | Increases Attack and Special Attack by 2 stages.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+*Equipped Item: N/A | Vacant hand slot.
+1. Oran Berry | Heals the user for 10HP.
+2. Oran Berry | Heals the user for 10HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

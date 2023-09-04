@@ -3,7 +3,7 @@
 
 ->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/k166sa.png)<-
 ***
-**Note -8/31-: Without access to Claude anymore, and GPT4 access too random/volatile I'll probably be taking a break from making anything new. I might downsize and optimize a few bots for MythoMax13B, but gen times are rough (over 600 seconds) so even that I'm not sure. Taking a temporary Hiatus until I can figure something out. You can still contact me with important things at my burner email.**
+**Working on a fork card, Ehzi lore, Raccoon and maybe something new**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
 
 ***(WIP)***

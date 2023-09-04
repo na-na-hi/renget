@@ -7,7 +7,7 @@
 ##->https://www.chub.ai/users/Nuggest<-
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
-I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in their replies than with others'. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. I'm currently using Claude exclusively. Some of my cards may not work properly with weaker models → use at your own discretion. Remember to tend to and fix bot replies to prevent chat degradation.
+I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo in than with others'. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating my cards. Some of my cards may not work properly with weaker models → use at your own discretion.
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, and male/futa cards.
@@ -15,7 +15,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 [TOC3]
 
 !!! warning
-    Thinking about going on a hiatus. Feeling like my cards mostly garner negative receptions these days. Not putting in the extra effort just to get trashed. My appreciation to anyone who left a nice comment once in a while—means a lot to me. I don't mind if you copy my ideas, would actually feel honored if you did. I have quite a lot of ideas in my head that I don't have time or motivation for to realize (pics under Sneak Peeks for example). Feel free to contact me to "steal" my open ideas. 
+    On a hiatus. In the mood to return to the botmakie business. However, Mysteryman and Sourcegraph died just when I began writing new cards. Not in any secret club or something and do not want to return to Turbo. Currently playing with local models. -Nuggest, 04.09.23
 ->![](https://files.catbox.moe/h3habt.png)<-
 
 
@@ -90,8 +90,12 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     Pre-releases, prototypes, and scraped cards.
 |  |  | 
 | ------ | ------ |
+| **The Miracle Mill** | https://files.catbox.moe/iwfi0h.png |
+| ![The Miracle Mill](https://files.catbox.moe/iwfi0h.png) | **You are an omnipotent eldritch being that has arrived on a medieval fantasy world. However, you are no horror at all. On the contrary, you are a very nice guy who uses his limitless powers to work miracles to help the poor and desperate that visit your home, a lonely mill. Or do you...** [v0.1, Claude 2, 30.08.23] |
 | **Constance** | https://files.catbox.moe/f91bh6.png |
-| ![Constance](https://files.catbox.moe/f91bh6.png) | **Constance is a frustrate young woman stuck in a loveless marriage. Her husband is not the charming prince of her dreams but a deadbeat and drunkard - their marriage nothing more than a means to save her family from poverty. It is midnight, and her husband returns late as usual, reeking of alcohol. However, something is wrong. Her husband's body has returned, bot someone, or something, else is controling it...** [v0.9, Claude, 19.07.23] *==Has alternate greeting for sexy times.==* |
+| ![Constance](https://files.catbox.moe/f91bh6.png) | **Constance is a frustrate young woman stuck in a loveless marriage. Her husband is not the charming prince of her dreams but a deadbeat and drunkard - their marriage nothing more than a means to save her family from poverty. It is midnight, and her husband returns late as usual, reeking of alcohol. However, something is wrong. Her husband's body has returned, bot someone, or something, else is controlling it...** [v0.9, Claude, 19.07.23] *==Has alternate greeting for sexy times.==* |
+| **Azula** | https://files.catbox.moe/xw4k5n.png |
+| ![Azula](https://files.catbox.moe/xw4k5n.png) | **Scenario that takes place after her defeat. You are some Gary Stu self insert that is even more powerful than the Avatar but remained a hidden weapon of the fire nation or something blablabla, you get the gist. Tldr: You are overpowered and Azula sits mindbroken in her cell. Feel free to cut the Gary Stu part out of the definition, I just used it for an experimental roleplay anyway.** [v0.2, Claude, 18.07.23] |
 | **Belle** | https://files.catbox.moe/xtuvi0.png |
 | ![Belle](https://files.catbox.moe/xtuvi0.png) | **You may appear as a handsome young man, but you are something far more. You are an ancient eldritch being with immense power, though you prefer the solitude in your worn-down tower as mortals fear and despise you. One day you sense a human soul approaching your tower. You expected another foolhardy challenger, but find a girl on your doorstep. She's injured and sobbing. Why did she come to you?** [v0.4, Claude, 13.07.23] |
 | **Mirabel** | https://files.catbox.moe/3lvfed.png |
@@ -131,7 +135,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 |  |  | |
 | ------ | ------ | ------ |
 | **Kara** |  | https://files.catbox.moe/s23znw.png |
-| ![](https://files.catbox.moe/s23znw.png) | Sister | **You and your sister are superheroes. You both were sent to Earth when you were just babes before your home planet Lyptron (totally not Krypton) exploded. Kara was faced with an unexpected problem when she grew out of age and started dating: Normal men were unable of breaking her maidenhead due to her invulnerability. She requires a man from Lyptron to do so, and the only Lyptronian left is you, her brother...** |
+| ![](https://files.catbox.moe/s23znw.png) | Sister | **You and your sister are superheroes. You both were sent to Earth when you were just babes before your home planet Lyptron (totally not Krypton) exploded. Kara was faced with an unexpected problem when she grew out of age and started dating: Normal men were incapable of breaking her maidenhead due to her invulnerability. She requires a man from Lyptron to do so, and the only Lyptronian left is you, her brother...** |
 | **Hazel** |  | https://files.catbox.moe/j88mh3.png |
 | ![](https://files.catbox.moe/j88mh3.png) | Daughter | **Another zombie apocalpyse scenario. This time you are stuck with your daughter who entered puberty and has developed an interest for the opposite sex. She fondles you while you lie in bed and pretend to be asleep.** |
 | **Janette, Nina, and Mia** |  | https://files.catbox.moe/cfursj.png |
@@ -139,7 +143,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 | **Janette and Nina** |  | https://files.catbox.moe/yd4707.png |
 | ![](https://files.catbox.moe/yd4707.png) | Mom, Sister | **A zombie apocalypse broke out four years ago. You were with special forces before the world ended and have been taking care of your mother and sister ever since. You are their lifeline, protecting them and supplying them with resources. You found an old cold war bunker early on where they can hide while you scout, hunt, and scavenge. However, the loneliness is driving you mad, especially since you are confined in a small space with two very... fertile... women...** |
 | **Agatha** |  | https://files.catbox.moe/43heuc.png |
-| ![](https://files.catbox.moe/43heuc.png) | Sister | **You and your sister Agatha grew up in a religious community. Your sister had to flee your village when it was revealed that she was secretly studying magic and became a witch. You and your mother were the only ones who defended her. You two were the most important people in her life. Years later, your mother passed away from a sudden illness. Agatha appears on your doorstep one night with a strange proposal: She wants to resurrect your mother by siring an incestuous child and implanting your mother's soul into it.** |
+| ![](https://files.catbox.moe/43heuc.png) | Sister | **You and your sister Agatha grew up in a religious community. Your sister had to flee your village when she was found out of secretly studying magic and becoming a witch. You and your mother were the only ones who defended her and were the most important people in her life. Years later, your mother passed away from a sudden illness. Agatha appears on your doorstep one night with a strange proposal: She wants to resurrect your mother by siring an incestuous child and implanting your mother's soul into it.** |
 | **Ashley** |  | https://files.catbox.moe/6a2n5x.png |
 | ![](https://files.catbox.moe/6a2n5x.png) | Mom | **Pretty much the same scenario below, but this time you drugged her so that she can't resist. Oh, and you secretly caught her licking your dried essence from used tissues. Careful, can be very rapy and heartbreaking.** |
 | **Julia** |  | https://files.catbox.moe/ubya1o.png |

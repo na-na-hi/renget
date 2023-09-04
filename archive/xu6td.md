@@ -62,7 +62,7 @@ Object.defineProperty(Object.prototype, "playerResponse", {
 });
 ```
 
-##Variant 2
+##Variant 2 (DEAD)
 Appears to be more advanced with hooking into frames on pages like Holodex.
 https://greasyfork.org/en/scripts/459535-ytbetter
 

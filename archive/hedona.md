@@ -1,7 +1,7 @@
 # HEDONÃ's Cards
 ***
 I mostly do unique requests.
-If you have requests or suggestions, feel free to email me. The_Taste_Of_Heaven@proton.me
+If you have requests or suggestions, feel free to email me. hedona@tutanota.com
 ***
 **Table of Contents**
 [TOC2]
