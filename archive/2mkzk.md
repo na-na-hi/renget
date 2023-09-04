@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/08/31-23/09/03 (yy/mm/dd)
+##23/09/07-23/09/10 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()**
-**FRI: Rockman X DiVE Offline at 2UTC (Parsec)**
-**SAT: Golden SUN at 2UTC (Telemelt)**
-**SUN: Boktai 2 at 18UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
+**FRI: - at 2UTC ()**
+**SAT: - at 2UTC ()**
+**SUN: Minemelt at 17:30UTC* (Minecraft)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream at 16UTC** Episodes 27-33
-**SUN: Rockman.exe Stream at 16UTC** Episode 26 + Movie
+**SAT: Rockman.exe Stream at 16UTC** Episodes 34-39
+**SUN: - at 15UTC** 
 >-
 nothing
 

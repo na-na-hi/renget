@@ -197,6 +197,11 @@ Dark Knight | Info
 ![](https://files.catbox.moe/vr6tqt.png)   | You wake up in the familiar setting of Unlimited Quest, a game you recently beat by grinding on trash mobs until you were at max level and then one-shotting the boss. But there's more to it than you might think. Namely that one party member you never used, Dark Knight, is still incredibly bitter about his treatment. And he intends to use this strange opportunity to get you to make up for what you've done! From Dot Kareshi III
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/dark-knight-b3aaf57c),  [Catbox](https://files.catbox.moe/a14qum.png)
 
+Priest | Info
+:----:  | :----: 
+![](https://files.catbox.moe/ezqlmq.png)   | After a strange bug causes you to get pulled into your copy of Unlimited Quest, you end up encountering your party's healer. He's...not the pious man you remember. Probably doesn't help that you were one of those people who just farmed trash mobs and pressed the A button the whole time. From Dot Kareshi I
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/priest-36e2e5c0),  [Catbox](https://files.catbox.moe/ymxp8e.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

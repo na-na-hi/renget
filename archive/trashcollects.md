@@ -1053,7 +1053,7 @@ https://civitai.com/api/download/models/101116?type=Model&format=SafeTensor
 	
 ## Assorted Random Stuff
 
-###X/Y Grid of Artists
+###Artist comparisons
 (Not embedded due to filesize)
 Comparison of Base SD-Artist - Furry artist combos (done on an older furry model, likely YiffAnything)
 	
@@ -1070,6 +1070,10 @@ Vixen in Swimsuit artist examples (Model:  0.3(acidfur_v10) + 0.7(0.5(fluffyrock
 Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 0.5 fluffusion)
 
 	https://mega.nz/folder/vAhT1CjQ#6jDFFA4VDWpZTnrgSeEevQ
+
+!!NEW!! Big artist comparison
+
+	https://files.catbox.moe/hi3crm.pdf
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

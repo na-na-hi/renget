@@ -18,11 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Priest](https://files.catbox.moe/ymxp8e.png), [Dark Knight](https://files.catbox.moe/a14qum.png), [Dancer](https://files.catbox.moe/xg92ut.png), [Demon Lord](https://files.catbox.moe/0dr81p.png), [Slime](https://files.catbox.moe/mj6sf6.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[The Miracle Mill](https://files.catbox.moe/iwfi0h.png), [Azula](https://files.catbox.moe/xw4k5n.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Zetta](https://files.catbox.moe/356ovr.png), [Reuben](https://files.catbox.moe/510xce.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Elodie](https://files.catbox.moe/5mjfpv.png), [Amon](https://files.catbox.moe/r85zgx.png)|[Elodie](https://files.catbox.moe/5mjfpv.png) [MV], [Amon](https://files.catbox.moe/r85zgx.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Stream femboys](https://files.catbox.moe/dsvap7.png), [Kalan](https://files.catbox.moe/o5txk4.png), [Donella](https://files.catbox.moe/wwn2w0.png), [Daily Smile](https://files.catbox.moe/tca144.png), [Antonia](https://files.catbox.moe/wlz37p.png), [Justin](https://files.catbox.moe/q8or82.png)|[Stream femboys](https://files.catbox.moe/dsvap7.png) [MV]
-[Planewalker](https://rentry.org/planewalker) | Misc |[Dark Knight](https://files.catbox.moe/a14qum.png), [Dancer](https://files.catbox.moe/xg92ut.png), [Demon Lord](https://files.catbox.moe/0dr81p.png), [Slime](https://files.catbox.moe/mj6sf6.png)|
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Evelina](https://files.catbox.moe/sufjho.png)|[Evelina](https://files.catbox.moe/sufjho.png) [MV], [Diana](https://files.catbox.moe/7nry7f.png)
@@ -32,6 +32,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonymous](https://rentry.org/charcardanons) | Misc |[Appuru-san](https://files.catbox.moe/1jqyoa.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ryunosuke](https://files.catbox.moe/jxh57r.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Yvolt](https://files.catbox.moe/t5pn18.png), [Venice](https://files.catbox.moe/s7qok8.png)|[Aekevoh](https://files.catbox.moe/tpc6m0.png), [Azura](https://files.catbox.moe/axoe70.png), [Uni](https://files.catbox.moe/kz1mha.png), [Chloe](https://files.catbox.moe/wp4eav.png), [Ferrin](https://files.catbox.moe/j7zzeu.png), [Genevieve](https://files.catbox.moe/6iftiu.png), [Morgana](https://files.catbox.moe/8ecv3u.png), [Lurk](https://files.catbox.moe/u695le.png), [Price](https://files.catbox.moe/mfjhsb.png), [A.I.X](https://files.catbox.moe/6tlplc.png), [ꭦ֎√](https://files.catbox.moe/plvejz.png), [Namai](https://files.catbox.moe/uk37pv.png)
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
@@ -45,7 +47,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
@@ -75,7 +76,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||
-[Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [Horny221](https://rentry.org/hornythings) | Misc / Stink ||
 [The_shadow_dude](https://rentry.co/the_shadow_dude) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||

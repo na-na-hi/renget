@@ -4,7 +4,7 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info 29 August: Tweaking some more things. This is getting really good now.
+!!! info 4 September: [There was possible degradation due to kohya_ss.](https://github.com/bmaltais/kohya_ss/issues/786) Updated and now running some more tests.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
@@ -18,7 +18,7 @@
 
 
 ##Base iA3 Prodigy .json - Characters/Objects:
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-180) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
@@ -30,7 +30,7 @@
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning Original/Multires Noise is not recommended.
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-160) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-180) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -52,7 +52,7 @@
   "max_token_length": "75",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0e-10\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d_coef=1.0\" \"weight_decay=0.01\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
