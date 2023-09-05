@@ -2,18 +2,18 @@
 
 ->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 08/29/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 09/05/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [Cover High/Pekora Finale, Pt. 1](https://docs.google.com/document/d/e/2PACX-1vS-c0ofN7S13CwiwV_x4wDsd0-4skzKORUUpy2FVwd6A_7QDg-rSxBp8lb3-t2eIz6u3GaDlyCKAHGG/pub) (Pekora, Gen 3, SFW, Fluff/Romance, Comedy, Chuuni Bullshit)
-[Roboco's New Upgrade](https://docs.google.com/document/d/e/2PACX-1vRyVEow1X-vyUArSQ7eGfyLTX3inh3lEx2_L8Qwdy4CGlQnxxmh-nF1nU3H9igpjg1I-LVCvoRX8akI/pub) (Roboco, NSFW, Incest-ish)
-[Shark In The Screen](https://docs.google.com/document/d/e/2PACX-1vSXw7JNes4J9Zza3X3xlpshsO_rWifv6_5YMoEANnv4zzmseUFTHUPx2w9EiQH0M28OLnjv3zAGAWE8/pub) (Gura, Kiara, Ina, Omega, Jenma, Gawr, SFW, Drama)
-[A Cursed Dagger](https://docs.google.com/document/d/e/2PACX-1vSQbyKoaRT5ybXTu8N938PibAbQJMKZ2S_ex4cIaKYk6Jc77r02ueP94mNwe9-2XYviS6GfRgyrSOF5/pub) (Anya, SFW, Fluff, Comedy, Mind Reading)
-[Milky Way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub) (Suisei, Noel, NSFW, Breast Expansion, Lactation)
-[The Shining](https://docs.google.com/document/d/e/2PACX-1vRCKf0eRje2c58z0_6Af4KLJNghJVCSTQnbeEfoivUJMrhIUNrI__zhFwsDP0eoUGcI-Pao8IpCZ1RS/pub) (Shiori, Bijou, Nerissa, Fuwamoco, SFW)
-[By That Sea - Chapter 1](https://docs.google.com/document/d/e/2PACX-1vSwjUTXwtLshVmmwUFTwPW9q4ybReU3yaNELEqne2klabBxSMCg2Xd6s6qvfgbAZvV6HGM0f_XNSolV/pub) (Marine, SFW, Adventure, Fantasy, Anachronistic Elements)
-[Tainted Idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Sora, NSFW, (fake) Rape)
-[Tower of Tattle - Parts 1 through 4](https://rentry.co/6xqb4) (Shiori, SFW, Mystery, Drama, Adventure, Comedy, Directory Link)<-
+->(***Series Entry!***) [Balsa Chapter 21: Voracity](https://docs.google.com/document/d/e/2PACX-1vR_u1me2lmIiig7owrU6n2xELjic8HJUM5v-baOaEv-Lc1kGibBoBLVzZNzFKFX8cUgydDlIwmRetWX/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
+(***Series Entry!***) [Balsa Chapter 22: The Best Within Ourselves](https://docs.google.com/document/d/e/2PACX-1vTMysB4Lyr6xSI7XxdzqXa8NzQLX3iJhIhscbP4jHwJpeMSmvjjdfcZtjKSVFU81HeHWv_5Axjxz7eT/pub)
+[Black Narcissus](https://docs.google.com/document/d/e/2PACX-1vQRFQ07fd4QBGKaRTf0qgew5jF7haqRzms1o0QDaKKiiVdapumZmywGhNtnAbICGd9jRqxHDsDtlc1f/pub) (Fubuki, NSFW, Corruption)
+[An Incredible Bitch](https://docs.google.com/document/d/e/2PACX-1vRgagALpUns2Wb5KXFi426-GbNW7zFhDw57j0FjmbUdxWKI6l4Qp_pKm2Iee0lYnjYCIApR_ThZwIW7/pub) (Suisei, NSFW, Hate Sex)
+['A Promotion'](https://docs.google.com/document/d/e/2PACX-1vRAZL78sR3QDJ-y2SGqiJTmGOSZT-8YSSTZNpDaPFnlMw5jVnEGQypQnL0dVWa2bm92s6ZJRUmykOnQ/pub) (Koyori, Laplus, SFW, Fluff)
+[What if Shiori lost her voice?](https://rentry.org/dst8c6) (Shiori, SFW, Depressing/Tragedy)
+[Anon's Shiori GT Dump](https://rentry.co/iib2nz) (Shiori, SFW, Multiple Stories within, Fluff, Tragedy)
+[The Tower of Tattle pt. 5](https://docs.google.com/document/d/e/2PACX-1vQpFNQcufhoQEvtBBFA8imIrVW-h5cZXXPz19bjijhxaWRJ1fXqWwqInKkTmVDOrJLmGoeVrJOu-oAn/pub) (Shiori, SFW, Mystery, Drama, Adventure, Comedy)
+<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1272,3 +1272,9 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [By That Sea - Chapter 1](https://docs.google.com/document/d/e/2PACX-1vSwjUTXwtLshVmmwUFTwPW9q4ybReU3yaNELEqne2klabBxSMCg2Xd6s6qvfgbAZvV6HGM0f_XNSolV/pub) (Marine, SFW, Adventure, Fantasy, Anachronistic Elements)
 [Tainted Idol](https://docs.google.com/document/d/e/2PACX-1vQTKj09xYKImeccizLNJq58dqGKIMHq9GoFdA4KuCgYMyCVCAg9s3wCsDIiUzbxfA5OQJs88mXEWIPb/pub) (Sora, NSFW, (fake) Rape)
 [Tower of Tattle - Parts 1 through 4](https://rentry.co/6xqb4) (Shiori, SFW, Mystery, Drama, Adventure, Comedy, Directory Link)
+[The Tower of Tattle pt. 5](https://docs.google.com/document/d/e/2PACX-1vQpFNQcufhoQEvtBBFA8imIrVW-h5cZXXPz19bjijhxaWRJ1fXqWwqInKkTmVDOrJLmGoeVrJOu-oAn/pub) (Shiori, SFW, Mystery, Drama, Adventure, Comedy) ^
+[Black Narcissus](https://docs.google.com/document/d/e/2PACX-1vQRFQ07fd4QBGKaRTf0qgew5jF7haqRzms1o0QDaKKiiVdapumZmywGhNtnAbICGd9jRqxHDsDtlc1f/pub) (Fubuki, NSFW, Corruption)
+[An Incredible Bitch](https://docs.google.com/document/d/e/2PACX-1vRgagALpUns2Wb5KXFi426-GbNW7zFhDw57j0FjmbUdxWKI6l4Qp_pKm2Iee0lYnjYCIApR_ThZwIW7/pub) (Suisei, NSFW, Hate Sex)
+['A Promotion'](https://docs.google.com/document/d/e/2PACX-1vRAZL78sR3QDJ-y2SGqiJTmGOSZT-8YSSTZNpDaPFnlMw5jVnEGQypQnL0dVWa2bm92s6ZJRUmykOnQ/pub) (Koyori, Laplus, SFW, Fluff)
+[What if Shiori lost her voice?](https://rentry.org/dst8c6) (Shiori, SFW, Depressing/Tragedy)
+[Anon's Shiori GT Dump](https://rentry.co/iib2nz) (Shiori, SFW, Multiple Stories within, Fluff, Tragedy)

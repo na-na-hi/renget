@@ -11,18 +11,19 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ***
 *Hall of Fame*
 • 7Hz Salnotes Zero (bright neutral) - $20
-• Moondrop Chu II (V-shape) - $20
+• Tangzu Wan'er S.G (mild V) - $20
 • Truthear Hola (bassy neutral) - $20
 
 *Honorable Mentions*
 • KBEAR Rosefinch (very bassy) - $20
+• Moondrop Chu II (V-shape) - $20
 • QKZ x HBB (bassy) - $20
-• Tangzu Wan'er S.G (mild V) - $20
 
 ##Budget IEMs ($30 - $100)
 ***
 *Hall of Fame*
 • EPZ G10 (Harman) - $35
+• TKZK Ouranos (mild V) - $55
 • Simgot EA500 (bright neutral) - $80
 • Truthear Hexa (neutral) - $80
 
@@ -31,7 +32,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • BLON x HBB Z300 (bassy) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
 • Simgot EW200 (Harman) - $40
-• TKZK Ouranos (mild V) - $55
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • CVJ Mei (bassy W) - $60
 • Floaudio Bluelover (bassy neutral) - $70 
@@ -42,7 +42,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ***
 *Hall of Fame*
 • Simgot EM6L (Harman) - $110
-• Juzear 41T (neutral) - $165
+• Juzear 41T / Flame (neutral) - $165
 • Letshuoer S12 Pro (V-shape) - $170
 • SeeAudio Yume II (Harman) - $200
 
@@ -100,13 +100,13 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 *Hall of Fame*
 • Tanchjim Zero (bright neutral) - $15
 • Final E500 (dark neutral) - $25 
-• Tanchjim One (V-shape) - $25
 • Tanchjim Tanya DSP (bassy Harman) - $25 
 • Tanchjim One DSP (neutral) - $30
 • Etymotic ER2XR (bassy neutral) - $100
 
 *Honorable Mentions*
 • Moondrop Quarks (neutral) - $15
+• Tanchjim One (V-shape) - $25
 • Tanchjim Tanya (warm V) - $25 
 • Final E2000 (warm bassy) - $45
 • Etymotic ER2SE (neutral) - $100
@@ -119,8 +119,8 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 
 *Honorable Mentions*
 • Yincrow X6 (bassy neutral) - $5
-• NiceHCK EB2S (bright neutral) - $10
 • VE Monk Plus (bright neutral) - $10
+• NiceHCK EB2S (bright neutral) - $15
 • Qian 39 (neutral) - $15
 • Faaeal Rosemary (bassy neutral) - $25
 
@@ -139,7 +139,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 *Honorable Mentions*
 • Tripowin Mirage - $20
 • Tripowin Solstice - $20
-• Tripowin Zoe - $20
 • Juzear Limpid - $25
 • ivipQ
 • Kinera

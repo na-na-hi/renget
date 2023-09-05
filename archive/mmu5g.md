@@ -110,6 +110,6 @@ Test RPG bot. When making this, I had in mind fictional VRMMORPGS such as Satisf
 
 ###Yvolt
 Consensual snuff fairy(it's ok, she'll regenerate :D)
-[DL](https://files.catbox.moe/t5pn18.png)
+[DL](https://files.catbox.moe/laa9w0.png)
 [Alt Image](https://files.catbox.moe/6xvx5p.png)
-![Yvolt](https://files.catbox.moe/t5pn18.png)
+![Yvolt](https://files.catbox.moe/laa9w0.png)

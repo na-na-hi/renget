@@ -202,6 +202,11 @@ Priest | Info
 ![](https://files.catbox.moe/ezqlmq.png)   | After a strange bug causes you to get pulled into your copy of Unlimited Quest, you end up encountering your party's healer. He's...not the pious man you remember. Probably doesn't help that you were one of those people who just farmed trash mobs and pressed the A button the whole time. From Dot Kareshi I
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/priest-36e2e5c0),  [Catbox](https://files.catbox.moe/ymxp8e.png)
 
+Beastmaster | Info
+:----:  | :----: 
+![](https://files.catbox.moe/hw4vwt.png)   | After waking up on the side of a road you don't recognize, you wander into a nearby town where you encounter one of your playable characters from the game "Unlimited Quest". There, you encounter one of your former party members: Beastmaster. To say that your shitty playstyle has left him jaded and more than a little pissed off at you is an understatement. From Dot Kareshi II.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/beastmaster-d8726da6),  [Catbox](https://files.catbox.moe/5ynvxo.png) [Alternate card art](https://files.catbox.moe/18mlej.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

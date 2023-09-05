@@ -37,8 +37,8 @@ Playlist: https://www.youtube.com/playlist?list=PLSJG6WXf5JvGaaP5lsi4xGj4UcgC-ZH
 | Date | Title | Link & Thumbnails | Duration | Status |
 |------|-----|-----|-----|-----|
 |10/08/2023|【SOS:AWL】A quiet life on the farm... (SPOILERS AHEAD) 🎼|[![](https://files.catbox.moe/8h12vx.jpg)](https://www.youtube.com/watch?v=5s-O3oluZJM)|~2h30|  Recommendation |
-|22/08/2023|【SOS:AWL】Let's charm these villagers~ (SPOILERS AHEAD) 🎼 |[![](https://files.catbox.moe/ocpeez.jpg)](https://youtu.be/p-bDMxHux5Q) | - |  -  |
-|05/09/2023|- | - | - |  -  |
+|22/08/2023|【SOS:AWL】Let's charm these villagers~ (SPOILERS AHEAD) 🎼 |[![](https://files.catbox.moe/ocpeez.jpg)](https://youtu.be/p-bDMxHux5Q) | ~3h09 |  -  |
+|05/09/2023| 【SOS:AWL】Summer, the hottest month of the year (SPOILERS AHEAD) 🎼 | [![](https://files.catbox.moe/p7r8df.jpg)](https://youtu.be/DoGK5jSrLaE) | - |  -  |
 
 ######Terraria
 | Date | Title | Link & Thumbnails | Duration | Status |

@@ -1027,7 +1027,7 @@ Cons:
 
 
 ### ->Transfer Student Kyaru<-
-**TL;DR: Unique mix of action speed and flat TP restoration to furthest back unit is very useful. No other good magic unit has this mix of skills.**
+**TL;DR: Unique mix of action speed to magic units and flat TP restoration to furthest away unit from her is very useful. No other good magic unit has this mix of skills.**
 More of a support than damage, this version of Kyaru has her dishing out various buffs to teammates, including TP restore. While she's not going to be pumping out huge damage, her buffs are certainly not bad. Might be a borrowable unit, but she's got a very unique slew of buffs. If she does see usage, there won't be a way to replace her in a single team slot.
 
 -> ![Transfer Student Kyaru](https://redive.estertion.win/card/full/127231.webp) <-
@@ -1036,7 +1036,7 @@ Pros:
 - UB gives 10K M.Atk & 150 M.Crit chance buffs to all magic units
 - Deals decent damage with S1 & UB
 - Action speed buff on S1 to all magic units 
-- TP Restore to all units within 250 range of furthest back unit
+- TP Restore to all units within 250 range of furthest unit from her
 - P/M.Defensive buffs for running squishier teams on S2
 - Good loop (AA > S1 > AA > S2)
 
@@ -1045,4 +1045,4 @@ Cons:
 - Low Crit chance
 - No Debuffs to enemy
 - No shields
-- Some buffs may not reach some key magic units (Ex. W.Djeeta, Giliya, A.Yori)
+- S2 buffs may not reach all party members when targeting the furthest unit from her (O.Kuuka, N.Kuuka, Monika)

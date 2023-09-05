@@ -295,4 +295,4 @@ https://civitai.com/user/stunningFlesh
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - August 30th - https://pastebin.com/WtFpJFyj
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 5th - https://pastebin.com/tWRqeGmf

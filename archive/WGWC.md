@@ -105,3 +105,18 @@ Here you can find all the NSFW fics that have been submitted for the contest.
 ###Voting Form
 Here's the voting form for you to pick your favourite stories from the contest! Form closes on September 4th, 11:59PM UTC-12:00.
 https://docs.google.com/forms/d/e/1FAIpQLSdlEP3lOlGJI42lNOAcrM1Lr0rGcxZAGhdF7sl371xLhYsbTg/viewform?usp=sf_link
+
+###Results!
+The writing contest has concluded, here are the results:
+
+#####SFW Category winners
+1st place - The Perfect Day
+2nd place - A Cursed Dagger
+3rd place - By That Sea
+
+#####NSFW Category winners
+1st place - I Have an Egregiously Forbidden Relationship With My Younger Sister, Who Turned Out To Be the Internet Idol Hoshimachi Suisei!
+2nd place - FacelessDegenerates,com
+3rd place - Yuzuki Veterinary Services-Second Opinion
+
+Thank you to everyone for your participation, whether you were a writer, a voter or a just reader. It's been a blast organising this. See you next time, when the rumbling continues...

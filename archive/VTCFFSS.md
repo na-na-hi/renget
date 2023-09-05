@@ -563,3 +563,6 @@
 [Balsa: Chapter 17](https://docs.google.com/document/d/e/2PACX-1vTsDnhulNvzASfSi9_V6PyyMhm1XOvALiYK0Yawz50fdELYRHcRQnHrZgyx_5jqCrMCIXRG_s9-P_oW/pub) (Botan, Koyori, Mel, Medieval Fantasy)
 [Balsa: Chapter 18](https://docs.google.com/document/d/e/2PACX-1vR8kcoH3PSucgyod3jsV6YDoAWJ-mbmQ6CSNH4T6MhugOEkrxIkCJ-dIg2b7wpLXCAcuIzs1HOH5Sj7/pub) (Ciyana, Iroha, Mel, Civia, SFW, Medieval Fantasy)
 [Balsa: Chapter 19](https://docs.google.com/document/d/e/2PACX-1vTjnRkePMoovpwUl3Vkgd83eX0dAVkGbZ2-uRZOqW9XjpTFo508LnT6nDwGtRcyGCvsfafXs2JMIWg_/pub) (Ayame, Botan, Civia, medieval fantasy, NSFW)
+[Balsa: Chapter 20](https://docs.google.com/document/d/e/2PACX-1vQtlB6-7wARQg6wSwqZnqaO-DrlpuJfswk0FoNolZWo3wib_C05sOKhoEy6Ta-qg0bP9o2aBIIBCzi5/pub) (Civia, Ciyana, SFW, Medieval Fantasy)
+[Balsa Chapter 21: Voracity](https://docs.google.com/document/d/e/2PACX-1vR_u1me2lmIiig7owrU6n2xELjic8HJUM5v-baOaEv-Lc1kGibBoBLVzZNzFKFX8cUgydDlIwmRetWX/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
+[Balsa Chapter 22: The Best Within Ourselves](https://docs.google.com/document/d/e/2PACX-1vTMysB4Lyr6xSI7XxdzqXa8NzQLX3iJhIhscbP4jHwJpeMSmvjjdfcZtjKSVFU81HeHWv_5Axjxz7eT/pub)

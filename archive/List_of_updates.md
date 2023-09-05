@@ -175,5 +175,6 @@
 |04/09/2023|150|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a reaction for the raid by Polka durung her karaoke stream.|
 |04/09/2023|151|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps containing interactions and mentions from Bijou's 6th Elden Ring stream.|
 |04/09/2023|152|Recommendation|Addition of a placeholder for the third SOS : A Wonderful Life stream.|
+|05/09/2023|153 & 154|Recommendation|Addition of the link for the third SOS : A Wonderful Life stream + minor fixes.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -1,6 +1,14 @@
 ▶NEW CLIPS
+>Hohols BOBR'ed
+https://files.catbox.moe/swn4r8.mp4
+again https://files.catbox.moe/dauce8.mp4
+and again https://files.catbox.moe/a2righ.mp4
+>FPV drones working AFU positions
+https://files.catbox.moe/b7u3uz.mp4
+https://files.catbox.moe/wv6nzi.mp4
 >Destroyed Challenger tank
 https://files.catbox.moe/hls3m2.mp4
+https://files.catbox.moe/0s018e.webm (translated)
 >Akhmat commander adress
 https://files.catbox.moe/dj09p7.mp4
 >Ka-52 destroying more armor
