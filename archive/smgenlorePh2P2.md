@@ -43,9 +43,10 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
 
-   ***EARLY MAP ASIDE**; and this lore event was set in the reworked Joust known generally as S7 Joust, or 'Corrupted Joust' (since we already have a Chinese Joust map).*
+   ***EARLY MAP ASIDE**; and this lore event is set in the reworked Joust known generally as S7 Joust, or 'Corrupted Joust' (since we already have a Chinese Joust map).*
 
-   *This map featured corrupted-tree monsters in the new Jungle camps (not any named entities within Chinese mythology, just tree-monster corrupted by le jade that permeates the setting ~~that looked like evil cacti~~). Design-wise, this is the longest and largest Joust map in SMITE, both longer than S3's Chinese Joust and wider than S1's Classic (Arthurian) Joust; and was an attempt to make it more akin to Conquest in complexity, while retaining a more streamlined feel, on top of having numerous thin walls to jump if shit ever hit the fan.*
+   *This map features these corrupted-tree monsters in the new Jungle camps (not any named entities within Chinese mythology, just tree-monster corrupted by le jade that permeates the setting ~~that looked like evil cacti~~), as well as the aforementioned Terracotta Soldiers as the Chaos-side minions.*
+	*Design-wise, this is the longest and largest Joust map in SMITE, both longer than S3's Chinese Joust and wider than S1's Classic (Arthurian) Joust; and was an attempt to make it more akin to Conquest in complexity, while retaining a more streamlined feel, on top of having numerous thin walls to jump if shit ever hit the fan. It also featured many more camps to farm around the map, with a new Harpy camp and a Yellow buff camp on each team's side, surrounding the central lane.*
    *Gameplay-wise, this map allowed Assassins to be viable and an optional Jungler 'role' to be taken up (unlike the other two maps, which require all 3 players to act as a constant deathball), yet generally favoured Tanky, Objective-focused compositions over more Aggro / PvP comps, as the increased amount of jungle camps allowed them to maintain level-pace, and then just use Bull Demon King to take Structures for free. Unlike the S1 Joust map however, Phoenixes was not enclosed, and thus game times were still relatively quick without devolving into Phoenix staring competitions. Currently it's not in the default queue, but you can check it out in custom matches.*
 
 -> ![Corr Joust Chaos](https://files.catbox.moe/ccuzee.jpg) <-
@@ -54,19 +55,24 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    Mulan rides on in, *as swift as a coursing river* to smash a few Terracotta Soldiers up, but the horse she *~~stole~~* was riding bolts on her after seeing fire, as it wasn't trained for war. Thank le heavens that her father fully trained her for combat and she'd already been in a war etcetc blahblahblah *you already know about Mulan, this takes place after what you see in the movies*.
 
-   She smashes a few more Terracotta Soldiers up by going for heavy, blunt blows *with all the force of a great typhoon* to the head/torso - going for shatters, and noting that it's the only way to 'kill' them (with one picking itself back up with a spear lodged in it's abdomen to make that clear).
-   Her peasant army runs in after her, and starts helping smash up the Terracotta Soldiers. Mulan goes on to explain they were from the surrounding area, and quickly trained *with all the strength of a raging fire* (in that basic strategy and teamwork was all that was really needed to beat the Terracotta Soldiers). She then goes on to explain that her posse is the only one of it's kind in the region, and that while she wasn't happy about it, she didn't really expect the Gods to intervene too much. Finally, she notes that her peasant-army are looking up to her a bit too much for comfort...
+   She smashes a few more Terracotta Soldiers up, by going for heavy, blunt blows *with all the force of a great typhoon* to their head/torso - going for shatters, and noting that it's the only way to 'kill' them (with one picking itself back up with a spear lodged in it's abdomen to make that clear).
+   Her peasant militia runs in after her, and starts helping smash up the Terracotta Soldiers. Mulan goes on to explain they were from the surrounding area, and she quickly trained them *with all the strength of a raging fire* (in that basic strategy and teamwork was all that was really needed to beat the Terracotta Soldiers). She then goes on to explain that her posse is the only one of it's kind in the region, and that while she wasn't happy about it, she didn't really expect the Gods to intervene too much. 
+	inally, she notes that her peasant-army are looking up to her a bit too much for comfort...
 
-   The shard-remains of the Terracotta Soldiers with Corrupted Jade still in them creepily watch and shuffle after her, and jade-infested carrion birds circle the town. She notes that they're growing in number, so she thinks she might be getting closer to the scourge source.
-   Further in the village, the Terracotta Soldiers start using bows and basic strategy against her (they're starting to think?!); so she tells her main force to stay back, as she guns for the temple that the Terracotta Soldiers are trying to break into *(in this context, the prominent structure behind the Order side of the map)*. Literally breaking into the place - they're ripping away at the walls / beams like a zombie movie.
-   She unknowingly leads a charge, smashes the Terracotta soldiers up, saves the temple .... but begins glowing - *mysterious as the dark side of the moon*! The peasants, now prostrating before her in thanks.
+   The shard-remains of the Terracotta Soldiers that still have Corrupted Jade in them creepily watch and shuffle after her, and jade-infested carrion birds circle the town. She notes that they're growing in number, so she thinks she might be getting closer to the scourge source.
+   Further in the village, the Terracotta Soldiers start using bows and basic strategy against her (they're starting to think?!); so she tells her main force to stay back, as she guns for the temple that the Terracotta Soldiers are trying to break into *(in this context, the prominent structure behind the Order side of the map)*. As in, the Terracotta Soldiers are literally breaking into the place - they're ripping away at the walls / beams like a zombie movie.
+   She unknowingly leads a charge, smashes the Terracotta soldiers up, saves the temple .... but begins glowing - *mysterious as the dark side of the moon*! The peasants, now prostrating before her in gratitude.
 
 -> *Oh shit, she's a God now.* <-
+-> *...* <-
+-> *...* <-
+-> *wait what* <-
 -> *...* <-
 
 -> *:T* <-
 
 -> *...* <-
+-> *...why?* <-
 -> *...* <-
 -> *...* <-
 
@@ -450,8 +456,8 @@ Without further ado, *since you're probably in the middle of reading all at once
    It was so easy in fact, Tsukuyomi's egotistical autism now feels hollow about the victory. It's as if he didn't get what he really wanted in the end, despite winning.
    He stares at the burning Ise Shrine and smugly (yet emptily) chuckles that his bitchy older sister won't be able to stop his ~~autism~~ plans now with her annoying co-workers... and how he's... like.... totally going to solo Cthulhu... after Olympus weakens Cthulhu for him... or something...
 
-   From a nearby rafter, Danzaburou drunkenly calls him a huge dumb faggot an offers him a drink. Tsukuyomi reactively goes to kill him with a shuriken just because he's there, but only hits a statue; before Danzaburou pledges allegiance to Tsukuyomi from behind said statue.
-   Danza and Tsukuyomi then have a drink of sake *(tl;dr Japanese beer)* at the end of the world. Danza gives some sage advice that Tsukuyomi that one does not simply defeat Cthulhu, and he should sit back and just enjoy the time he has left with company, instead of getting into fights with his siblings *(even though.... well, they're all inferrably dead now, now that Amaterasu is dead)*. Perhaps even, if things recover, he should appreciate what little time and offerings others can spare some for him *(God and Mortal alike)*, instead of scorning them for the time they're unable to give him. Tsukuyomi evidently takes heed of this wisdom and grows from the experience (for now), as his spergout ends here, his Worshippower-thieving not spreading to the rest of the world.
+   From a nearby rafter, Danzaburou drunkenly calls him a huge dumb faggot an offers him a drink. Tsukuyomi reactively goes to kill him with a shuriken just because he's there *(LEAVE NO DISRESPECT UNANSWERED FOR!)*, but only hits a statue; before Danzaburou pledges allegiance to Tsukuyomi from behind said statue.
+   Danza and Tsukuyomi then have a drink of sake *(tl;dr Japanese beer)* at the end of the world. Danza gives some sage advice to Tsukuyomi, that one does not simply defeat Cthulhu, and he should sit back and just enjoy the time he has left with company, instead of getting into fights with his siblings *(even though.... well, they're all inferrably dead right now)*. Perhaps even, if things recover, he should appreciate what little time and offerings others can spare some for him *(God and Mortal alike)*, instead of scorning them for the time they're unable to give him. Tsukuyomi evidently takes heed of this wisdom and grows from the experience (for now), as his spergout ends here, his Worshippower-thieving not spreading to the rest of the world.
 
    *You wouldn't know this \*slightly important\* ~~side-arc finale~~ 'offscreen' detail if you were just reading the lore via GN and watching the cutscenes... because much of it was in Danza's fucking design breakdown. This is how scattered the lore is, you can thank me later. In fact, I'm genuinely convinced that unironically only 1/3rd of the Smite FRIENDS lore was actually released and that there may have been other things going on; given it's event was in a similar coding format to the later Yuletide 'Minor Event' that ran alongside the next arc's Odyssey - for which likewise, far more Lore was datamined as oppose to actually released. Believe you me, I've scraped through everywhere you can think of to find what could possibly remain; but we can blame dogshit coding and nobody caring about the lore at the time as for why it's installments were never released. And, you can't datamine something that isn't in the game any more.*
 

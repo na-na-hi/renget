@@ -128,6 +128,7 @@ Giichi Mikata: https://archive.4plebs.org/tg/post/88198856
 Ginji Gō VN "Silverado, the Desperado": https://archive.4plebs.org/tg/post/88278735
 "Bogey the creeping villain": https://archive.4plebs.org/tg/post/88277889
 "Tomi": https://archive.4plebs.org/tg/post/88387913
+Luccione (NPC): https://desuarchive.org/tg/thread/90136269/#90146415
 >Revolutionaries
 Momotaro Tachibana VN "Nebulous Storm": https://archive.4plebs.org/tg/post/88376954 (further information at https://controlc.com/9cfc38a8)
 Junichi Takagi VN "Marrow": https://archive.4plebs.org/tg/post/88435130 (further information at https://pastebin.com/27Pruk8a)
@@ -836,6 +837,7 @@ Drone's Mirror (Drone, Mirror Devil): https://rentry.org/e3gx4a
 The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl): https://rentry.org/r4nhp
 Date Gossip: https://rentry.org/f78w2
 Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako): https://rentry.org/6p6na
+The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D - https://rentry.org/2ngq2
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

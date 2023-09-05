@@ -24,19 +24,19 @@ Any names of note in **Bold**.
 -> ![Aegis](https://files.catbox.moe/yogbpd.png) <-
  - Anhk of the **Golem** (Jewish): In reference to the unformed mass of clay-like material that YHVH used to form the first man *(as well as the precursor concept to Frankenstein's Monster)*, Golem are given to be mindless constructs that magical jews are able to control with a word (usually God's name) written on the Golem's forehead or inserted into the Golem's mouth. As innately strong as a creature made of rock / clay, Golem are able to turn invisible, perform necromancy and will mindlessly follow orders of it's Jewish invoker to the word (ignoring any others). Nowadays used within Hebrew to refer to the stupid and easily controlled *(somewhat similar to the concept of the goyim, but without the believer / non-believer aspect)*.
 
--> ![Golem](https://files.catbox.moe/smrcsv.jpg) <-
+-> ![Golem]() <-
  - **Ancile** (Roman): One of the legendary Imperium Romanum, whose mere continued existence was said to guarantee the supremacy of Rome, and somewhat equatable to the 3 Sacred Regalia of Japan (Amaterasu's equipment, which to this day legitimises the Emperor of Japan). These included the Needle of Cybele, Jupiter's Terracotta Quadriga / Chariot, the Palladium / Statue of Minerva {Athena} & the sacred fire of Vesta - with sources out as it if there were any others. *~~Unlike the comparatively autistic East-Asian Pantheons, the Europeans didn't name their sacred objects or sets of groupings with an included number.~~* The Ancile itself was said to be a divine shield linked to Mars {Ares}, that fell from the sky - and as the story goes, 11 identical clones were made so anybody who tried to steal one would have a slim chance of grabbing the real one. Sadly, after the Sacking of Constantinople by the Christian conquests and resultant Fall of Constantinople by the Muslim conquests, all the Imperium Romanum (on top of countless other Greco-Roman relics) were destroyed, stolen, sold + melted down on the cheap to fund the Vatican or otherwise lost to history.
 
--> ![Ancile](https://files.catbox.moe/j56xjx.jpg) <-
+-> ![Ancile]() <-
  - **Arondight** (Arthurian): Sir Lancelot's sword, or more specifically it's later romanticized name - Arondight's true name being Saeure. Described as The Fairy Sword, Saeure was a supernatural sword given to Lancelot by The Lady of the Lake when he came of age and left her protection, which was able to duel supernatural beings with ease
    *Think of it somewhat like a Silver Sword within the Witcher franchise (which coincedentally, it cameos in, as the strongest weapon in the 3rd game's finale DLC).*
 
--> ![Arondight](https://a.pomf.cat/bpnpmo.jpg) <-
+-> ![Arondight]() <-
  - **Asi** (Hindu): *Doesn't really belong here, as it is an entity within it's own right.*
 
    *See the NPC aside.*
 
--> ![Asi](https://files.catbox.moe/lulcl2.jpg) <-
+-> ![Asi]() <-
  - **Atalanta**'s Bow (Greek): Reference to the Greek Heroine and worshipper of Artemis, most famously known for her major role within the Calydonian Boar Hunt. 
 
 -> ![Atalanta](https://files.catbox.moe/mn6q8b.jpg) <-
@@ -48,7 +48,7 @@ Any names of note in **Bold**.
 -> ![Bancroft](https://files.catbox.moe/dm5t8n.png) <-
  - **Baron's Brew** (Voodoo): Almost certainly supposed to be Piman Kleren, a type of Caribbean Spiced Rum and ritual ingredient for invoking Baron Samedi, iconically made with 21 chili peppers stewed in during the brewing process *(to give it a special kind of... 'kick')*.
 
--> ![BBrew](https://files.catbox.moe/yx36e8.jpg) <-
+-> ![BBrew]() <-
  - Corrupted **Bluestone** / Brooch / Pendant (Celtic): An overarching term to refer any of the pillars / rocks of Stonehenge. In geological terms, Bluestone is in reference to Diabase / Dolerite, an extremely hard igneous rock - however has also come to refer to Basalt or Slate depending on the nation it's found in.
 
 -> ![Bluestone](https://files.catbox.moe/jwkoqv.jpg) <-
@@ -76,7 +76,7 @@ Any names of note in **Bold**.
    China viewed itself (and commonly refers to itself) as the Central Kingdom, in accordance with the idea that the world was built *(and to a lesser extent revolves around)* China itself, leading it to demand loyalty and tribute from surrounding states regardless of sovereignty *~~(a foreign policy which many times got the Chinese invaded and promptly genocided when arrogantly dealing with the Northern and Western nations, modern day Mongolia / Manchuria and Tibet. Said policy / treatment was also one of the root causes of the Japanese blowing a gasket during WW2 and invading / pillaging / genociding / raping the Chinese in revenge for the centuries / millennia of abuse)~~*.
    The Japanese / Vietnamese were generally reluctant and payed some respect to the Chinese demands *(not wanting to start a war with them)*, however it was the Koreans who were most enthusiastic to help the Chinese - so to that end one could technically say this item is partially in reference to the Koreans who would conscript themselves alongside the Chinese as footsoldiers / legions of the Chinese / Celestial Emperor.
 
--> ![Celestial](https://a.pomf.cat/ejigoy.jpg) <-
+-> ![Celestial]() <-
  - Chalice of the **Oracle** (Greek): Overarching term for those who would relay the words of the Gods to mortals. Most commonly in reference to the various Greek Oracles who would overlook religious affairs within a given city, and oversee the Mortal Realm's affairs with the Divine.
 
 -> ![CotO](https://files.catbox.moe/m7mlay.jpg) <-
@@ -91,7 +91,7 @@ Any names of note in **Bold**.
 -> ![Chrono's Pendant](https://files.catbox.moe/y6ztnp.png) <-
  - Cloak of the **Ascetic** (Wider): An overarching term in reference to those who give up physical pleasures in pursuit of spiritual fulfillment. Behaviour typically exhibited by Eastern monks, most iconically Buddists, but has elements within most ancient and modern religions.
 
--> ![Cloak](https://files.catbox.moe/yxdx3v.jpg) <-
+-> ![Cloak]() <-
  - Cursed **Anhk** (Egyptian): Egyptian Hieroglyph for the concept of Life, similar in use to the Holy Cross within Christian teachings *(even used interchangeably by Egyptian Christians today)*.
 
 -> ![Anhk](https://files.catbox.moe/bdci04.jpg) <-
@@ -100,11 +100,11 @@ Any names of note in **Bold**.
 -> ![DBringer](https://files.catbox.moe/xdlflg.jpg) <-
  - Emperor's Armor (Roman): Almost a direct copy of Julius Caesar's armour; First Emperor of Rome. Later thought to be a divine being in of himself and worshipped within Rome as a major God within the capital *(less so around other areas of the Roman Empire)*.
 
--> ![Emperor's](https://files.catbox.moe/s04t3f.jpg) <-
+-> ![Emperor's]() <-
  - **Eye of Providence** (~~Freemasonry~~ Christianity): https://youtu.be/GRWbIoIR04c Guess what the Eye of ~~the Illuminati~~ God is called. Appears on the back of the American $1 bill too.
    *~~'luminati confim!~~*
 
--> ![Eye](https://a.pomf.cat/mnezum.jpg) <-
+-> ![Eye]() <-
  - **Fail-Not** (Arthurian) = An extremely obscure, but modernly overhyped and misunderstood tool utilised by the Knight of the Round Table, Sir Tristain. *Note the wording - 'tool'.*
    Attested to only within the first *(and shakily canon)* account of the alternate / 'unchivalric' variant of Tristain's legend *(Beroul's account)* the Fail-Not / Failnought isn't actually a type of bow at all - instead, it was a snare mechanism that Tristain employed to hunt with while he was repeatedly exiled from Camelot, based off of a theorised medieval assassination technique. The snare-mechanism itself is the conceptual 'perfect trap' for 'getting rid' of somebody without leaving a trace - the idea that by arming a toilet with an internal crossbow and rigging it with a pressure plate mechanism to only fire when the target sat down, the arrow would enter through the anus, lodge fully within the body, pierce heart / lungs to lead to an instant death... and the resulting reactive clenching from the literal ass-hurt would prevent notable bleeding (the rest running off into the toilet itself or staying in the body as the victim keeled over face-first); all in all, leading to a perfect and traceless murder once the mechanism was removed from the rim. The target would have (theoretically) appeared to have just died of a heart attack on the toilet. No accounts exist of it ever being employed, but due to the secretive nature of European assassination practices (even eluding documentation today), that doesn't necessarily mean it can be written off as purely fictional.
    Back on-topic, bows themselves were highly looked down upon in chivalric culture, and seen as dishonorable and cheap way to kill a well-trained and honorable knight *(crossbows especially, being the realest bitch-made nigga weapon of the knighting world)* - relegated only to sport and forager-hunting. This is also why, unlike the similar Bushido culture of Japan which produced many a famous bowman *(Nasu no Yoichi, Minamoto no Tatemo, Tomoe Gozen etc)* or other Asian cultures, the wider Northwestern European sphere has relatively little in terms of archer-greats *(the only exception being the countercultural and \*definitely\* unchivalric outlaw, Robin Hood)*.
@@ -122,7 +122,7 @@ Any names of note in **Bold**.
    The Genji Monogatari recounts and romatacises the mythical rise of the (real) Minamoto clan, with Genji Hikaru's escapades ranging between 1,000-1,100AD. The word Genji itself is a synonym for the Minamoto clan, who tl;dr were a clan of golden-children rulers and emperors - most famous of which including Minamoto-no-Yoshitsune *(the most famous Japanese folk hero in their history, equatable to King Arthur to the Britons as he overthrew the Taira, only to be betrayed and killed weeks later)* and Minamoto-no-Raiko *(see Oni-Hunter's Garb)*. Generally contrasted with the Heike Monogatari, set later on in the Heian era - but in the Heike's case, instead of being a soap-opera romantic epic, it's better transliterated as an ancient Japanese samurai mafioso tragedy *(the Taira, the clan synonymous with Heike, literally translating to 'The Family')*.
    ~~Also the Genji Monogatari is the first ever Japanese work with a definite Loli tag - Hikaru falls in love with, kidnaps, grooms and then marries a 10yr old girl as a major part of the plot, before living out his days with her in a successful relationship.~~
 
--> ![Genji's](https://files.catbox.moe/ddhjkc.jpg) <-
+-> ![Genji's]() <-
  - *Fatalis / Hastened Fatalis (Roman): Overall bullshit weapon, but the word literally means Deadly in Latin - the word itself is most notable for appearing within the Sabre-Tooth-Tiger's Latin name (Smilodon Fatalis); and as a recurring final boss / ultimate ~~bioengineered lifeform~~ monster within the Monster Hunter Franchise. Take your pick where the SMITE devs borrowed it from.*
 
 -> ![Fatalis](https://files.catbox.moe/zqk526.jpg) <-
@@ -139,7 +139,7 @@ Any names of note in **Bold**.
  - **Jade Emperor**'s Crown (Chinese): Name of the crown of the Divine Chinese Ruler, currently the Jade Emperor, a being of utter perfection *~~except when he fucks up, but ignore that, hong shong fong wong ching chong this how china work~~* that after assisting Yuanshi Tianzun (Primordial God of Heaven, one of the Three Pure Ones), meditated and developed for 326,800,000+ years to earn his position as the 17th Ruler, and to this day has been the longest serving and most successful divine ruler. While he was benevolant pre-ascension, he's generally portrayed as an extremely busy statesman, rarely with enough time to pay attention to us mortals *(and from which an innumberable amount of Chinese myths stem from)*. The position is said to have 55 title-holders before time itself ends (of which Guan Yu is the 18th, next in-line / most deserving).
    The one pictured appears to be the wrong way around - the part that fits over the head is supposed to be in front of the decorative portion. The one the Jade Emperor wears in-game (the Mian Guan, with 12 beads, representing composure and confidence) is usually decorative and reserved for coronation or important statesman affairs; the design used for the item related (a Pu Tou, *~~or at least, it appears too rounded to be a Liang Guan~~*) would be the one typically worn on a day-to-day basis.
 
--> ![Jade Emp's](https://files.catbox.moe/ulzra3.jpg) <-
+-> ![Jade Emp's]() <-
  - **Jotunn**'s Wrath / Vigor / Might (Norse): Reference to the Frost Giant race of the same name that Ymir created in his image. Transliterates better to the traditional idea of a Troll, however their depiction isn't particularly fixed, aside from being borne from Icicles of Ymir.
 
 -> ![Jotunn's](https://files.catbox.moe/ea5obp.png) <-
@@ -213,7 +213,7 @@ Any names of note in **Bold**.
 
    *~~k-popbros....how did those bastard balinese mud farmers get their pantheon in before us....~~*
 
--> ![Rangda's](https://a.pomf.cat/cqahuz.jpg) <-
+-> ![Rangda's]() <-
  - Ring of **Hecate** (Greek): Named after Hecate, Greek Goddess of Witchcraft, Journeys, Boundaries and Necromancy *(and other, less relevant things ~~because this is about the 5th damn fucking time I've had to describe hecate in this doc, and I'm getting sick to death of it~~)*.
    The design is pretty clearly hinting at the 'Necromancy' side of her magical prowess, as the 'undead' within a Greek context were understood to be the same core 'soul' that what once lived *(stolen away from the region of the Underworld they were resting at)*, albeit without a body, and thus manifesting primarily as spooky ghosts. Hecate was the Goddess who literally held the keys of Tartarus's Gaols, and oversaw Thanatos / Charon performing their duties as the dead *'journeyed'* their way to their final destination; and as the holder of those keys, she was the only entity that could / would reliably allow the dead to return to the Earth. Otherwise, once let out of the Underworld, ghosts were free to roam as long as they wanted before returning to the Underworld at any time, at any of the various entrances across the world - Cerberus and the Underworld Nymphs were the guards, but once the soul was free, there wasn't anyone around in the Divine Realm with the specific purpose of recapturing and returning them *(Thanatos only being interested in collecting them for the first time around)*. They'd already been processed, why would they need re-processing? Sounds like a 'their' problem, not the Underworld's.
    So while this might sound like a good deal in concept for the now-'free' soul, when I say they were on their own, they really were on their own - doomed to wander the Earth for an eternity with nobody (not even most Gods) able to see, hear or touch them outside of specific circumstance or ritual, and condemned to a lower-quality afterlife in the Underworld if they weren't expedient in returning back as soon as possible *(which, when to put into simple terms.... are you aware where your closest Underworld entrance is?)*. Lost for all eternity, wailing to themselves, lingering around their corpse / grave for lack of known any way back to the Underworld and doomed to a worse afterlife than the one they were enjoying - hence the stigma against necromancers, especially irresponsible ones.

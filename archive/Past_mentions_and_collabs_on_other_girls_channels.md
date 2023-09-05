@@ -38,6 +38,7 @@
 |28/08/2023|[Impromptu collab](https://youtu.be/-AaOTmXcZ9I?t=8531) | **Impromptu collab + Streamer-chat interactions** - This HoloCure started with two streamer-chat interactions until Kiara asks Nerissa to come in VC in order to give advice on how to play HoloCure and what build to use. |
 |02/09/2023|[Timestamp #1](https://youtu.be/3eGl9V5P9Ko?t=15241) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=21110) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=24970)| **Mentions** - Kiara DM'ing Nerissa live when she discovered a bard sword and some references from her general behaviour when playing the game (horny when playing the romance parts, possible spoilers of some game parts...) |
 |03/09/2023|[Timestamp #1](https://youtu.be/vMmk20VfWgE?t=12860) [Timestamp #2](https://www.youtube.com/watch?v=vMmk20VfWgE&t=13325s)| **Streamer-chat interactions** - These interaction were made during the closing parts of Kiara's Miami Hotline 2 third stream. The first timestamp is about the findings made by Kiara during her latest solo BG3 stream and sharing it with Nerissa being in chat. The second timestamp is questioning the possibility of an offcollab with Nerissa coming to Austria due to visa changes. |
+|07/09/2023|Placeholder| **Collab** - Collab in Minecraft. |
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -84,8 +85,7 @@
 |23/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=G4sq5b7zmtE&t=21826s) [Timestamp #2](https://youtu.be/G4sq5b7zmtE?t=23337)|**Streamer-chat interactions** during Bijou's Elder Ring #4 stream. Nerissa was watching in order to give Bijou's instructions regarding work.|
 |25/08/2023|[Timestamp](https://youtu.be/aN0meN5v6rw?t=4300) |**Mention** - During her fourth HoloCure stream, Bijou talks about Nerissa sharing videos about who's the flattest Holomem.|
 |25/08/2023|[Timestamp #1](https://youtu.be/LnAf5icLn-c?t=2218) [Timestamp #2](https://youtu.be/LnAf5icLn-c?t=2340)|**Mentions** - Talks about Nerissa's Magia cover and proceeds to talk about who in Advent would be who in the Madoka universe.|
-|26/08/2023|[Link](-) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
-
+|04/08/2023|[Entire first segment - Start](https://youtu.be/u3Bprxyl1HQ?t=5380) [S1 - Starts DM'ing about Pillow Princess](https://youtu.be/u3Bprxyl1HQ?t=5470) [S1 - Answer](https://youtu.be/u3Bprxyl1HQ?t=5530) [S1 - 2nd batch of DMs](https://youtu.be/u3Bprxyl1HQ?t=5582) [2nd mention](https://youtu.be/u3Bprxyl1HQ?t=6341)|**DM Interaction & Mention** - Bijou calls a boss 'Pillow Princess' (which she didn't knew that was a yabe term) so she decided to DM Nerissa (after that her chat suggested to her) about the term and got her answer. A second mention happened about Bijou's mom who's also watching Nerissa|
 
 ###### 🐾 FUWAMOCO
 |Date|Link|Nature & Notes|
@@ -94,7 +94,8 @@
 |14/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |15/08/2023|[Timestamp](https://www.youtube.com/watch?v=VdRKCMgF-Ug&t=638s)|**Mention** - Segment about the release of the God-Ish cover during the sixth FUWAMOCO MORNING.|
 |16/08/2023|[Timestamp](https://youtu.be/sUJVYegLEN4?t=821)|**Segment** - Misundertanding corner about 1000 kanjis and 2000 japanese learnt during the seventh FUWAMOCO MORNING. Also naked dogeza.|
-|27/08/2023|[Link](https://www.youtube.com/watch?v=w5gAcmMcrGg) |**Watchalong** - Watchalong of Splash Party! Night! with Advent.|
+|26/08/2023|[Link](https://www.youtube.com/watch?v=w5gAcmMcrGg) |**Watchalong** - Watchalong of Splash Party! Night! with Advent.|
+|27/08/2023|[Link](https://youtu.be/oSqxygM9V4g) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
 |28/08/2023|[Timestamp](https://youtu.be/wz04zoH_THU?t=699)|**Segment** -Segment about the Magia cover during Fuwamoco Morning #12.|
 |30/08/2023|[Timestamp](https://www.youtube.com/watch?v=rD_ZE3DrWlY&t=597s)|**Segment** -Another Misunderstanding segment during Fuwamoco Morning #13. Concerning rice this time.|
 
@@ -137,6 +138,11 @@
 |---|---|---|
 |27/07/2023|[Timestamp](https://www.youtube.com/watch?v=xHKW3MXWfOg&t=3286s)| **Mention** - Reaction about Advant debut. According to an anon in the general: "She says they have a lot in common when it comes to their tastes, and would like to Collab/sing with her. She didn't catch what she said about her beyond the fact that she has an IOSYS song, but was happy when chat told her that she likes her. Senchou really loves being loved, kek. Any member telling her she's her oshi will instantly become Senchou's pet. She also missed her reply on Twitter, so she didn't read Nerissa telling her that she loves her in there, so it was news to her."
 
+######🎪 Polka
+|Date|Link|Nature & Notes|
+|---|---|---|
+04/09/2023|[Timestamp](https://youtu.be/Sq8Q1w_GX9o?t=6224)|**Reaction after a raid** - As the Wedding collab with ollie was ended, the viewers were redirected to Polka's stream. HTe viewers (mainly Jailbirds) started to spam 'Ope' in her chat and Polka tried to pronounce 'Ope'.|
+
 ######🥀 Lui
 |Date|Link|Nature & Notes|
 |---|---|---|
@@ -147,6 +153,7 @@
 |---|---|---|
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
 |01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment and start of the 'no pants nee-san' angle during the AsaKoyo podcast|
+|04/09/2023|[Timestamp](https://youtu.be/4edZ1YcVnhE?t=2765)| **Segment** - Segment during the AsaKoyo podcast about Nerissa being a M.|
 
 ###### Main Channel
 |Date|Link|Nature & Notes|

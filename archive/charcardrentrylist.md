@@ -18,11 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Siren](https://files.catbox.moe/7txegd.png)|[Katia Managan](https://files.catbox.moe/osvod8.png) [MV], [Mal0](https://files.catbox.moe/zqeml2.png), [Franky](https://files.catbox.moe/6etbsk.png), [Juno](https://files.catbox.moe/cdk4wo.png), [Coal](https://files.catbox.moe/v3vr3x.png)
+[Nicenshady](https://rentry.org/nicenshady) | Misc |[HUX-A7-13](https://files.catbox.moe/1xxuaj.png)|
+[Hedona](https://rentry.org/hedona) | Misc |[Monoko](https://files.catbox.moe/uwmkgd.png), [Elodie](https://files.catbox.moe/5mjfpv.png)|[Monoe](https://files.catbox.moe/16o12i.png) [MV], [Elodie](https://files.catbox.moe/5mjfpv.png) [MV], [Amon](https://files.catbox.moe/r85zgx.png)
 [Gigasad](https://rentry.org/gigasad) | Misc |[Valerie Whiteclaw](https://files.catbox.moe/8q65ob.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Priest](https://files.catbox.moe/ymxp8e.png), [Dark Knight](https://files.catbox.moe/a14qum.png), [Dancer](https://files.catbox.moe/xg92ut.png), [Demon Lord](https://files.catbox.moe/0dr81p.png), [Slime](https://files.catbox.moe/mj6sf6.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[The Miracle Mill](https://files.catbox.moe/iwfi0h.png), [Azula](https://files.catbox.moe/xw4k5n.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Zetta](https://files.catbox.moe/356ovr.png), [Reuben](https://files.catbox.moe/510xce.png)|
-[Hedona](https://rentry.org/hedona) | Misc |[Elodie](https://files.catbox.moe/5mjfpv.png)|[Elodie](https://files.catbox.moe/5mjfpv.png) [MV], [Amon](https://files.catbox.moe/r85zgx.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[Stream femboys](https://files.catbox.moe/dsvap7.png), [Kalan](https://files.catbox.moe/o5txk4.png), [Donella](https://files.catbox.moe/wwn2w0.png)|[Stream femboys](https://files.catbox.moe/dsvap7.png) [MV]
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
@@ -38,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||[Mal0](https://files.catbox.moe/zqeml2.png), [Franky](https://files.catbox.moe/6etbsk.png), [Juno](https://files.catbox.moe/cdk4wo.png), [Coal](https://files.catbox.moe/v3vr3x.png), [Katia Managan](https://files.catbox.moe/tkcmyz.png)
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Sayori](https://files.catbox.moe/dhwkzx.png)
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
@@ -46,7 +47,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
-[Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||

@@ -1,16 +1,23 @@
 # HEDONÃ's Cards
 ***
-I mostly do unique requests.
-If you have requests or suggestions, feel free to email me. hedona@tutanota.com
+
+My chub account: https://www.chub.ai/users/Hedona
+Contact me here: hedona@tutanota.com
+
 ***
 **Table of Contents**
 [TOC2]
 ***
 ##Cards
 ###New
-Elodie| [CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
+->Monoko<-| ->Elodie<-
 --|---
-![Remember this?](https://files.catbox.moe/5mjfpv.png)|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|->![Remember this?](https://files.catbox.moe/5mjfpv.png)<-
+Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+----------------------------------------------------------------------------- | -----------------------------------------------------------------------------
+
+
+
 
 ***
 ###OCs
@@ -42,9 +49,10 @@ Amon| [CHUB link](https://www.chub.ai/characters/Hedona/amon-550d7dd2)|
 ###Yume Nikki
 
 
-->![(ᵕᴗᵕ)](https://files.catbox.moe/0j4odn.png)<-
+->![(ᵕᴗᵕ)](https://files.catbox.moe/16o12i.png)<-
 ->**Monoe**<-
 ->[CHUB link](https://www.chub.ai/characters/Hedona/monoe-753432ac)<-
+->Monoe, mysterious and elusive girl based on the freeware game "Yume Nikki"<-
 
 
 
@@ -106,5 +114,5 @@ In this modified code, a new `RegExp` object is created with the global flag `'g
 I asked GPT4 for this. If you find a better way to do this, let me know.
 
 ***
-WIP
+
 Template based on [Darkfantasy109](https://rentry.org/botmaker_template/edit)

@@ -17,7 +17,7 @@ if a bots name is bolded, it means it was requested from /aicg/
 my adventure focused bots, mostly SFW
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![pineapple](https://files.catbox.moe/tkcmyz.png) | Katia Managan | **updated** self loathing khajiit from prequeladvenure by kazerad. old version was trash, including the lorebook- dont use em | [CHUB link](https://www.chub.ai/characters/onaholesama/katia-managan)
+ ![pineapple](https://files.catbox.moe/osvod8.png) | Katia Managan | **updated** self loathing khajiit from prequeladvenure by kazerad. old version was trash, including the lorebook- dont use em. 3 greetings: first one is canon, second one is cringe writefaggotry, third one is comedy | [CHUB link](https://www.chub.ai/characters/onaholesama/katia-managan)
  ![the body heat bandit](https://files.catbox.moe/v3vr3x.png) | **Coal** | smol earthstyle koboldgirl. shes completely new to adventuring and loves stealing your body heat. | [CHUB link](https://www.chub.ai/characters/onaholesama/Coal)
 ![BEEG](https://files.catbox.moe/qix7bp.png) | **Volfa** | BIG wolf mommy that just wants to live a little and have some fun | [CHUB link](https://www.chub.ai/characters/onaholesama/Volfa)
 
@@ -43,6 +43,7 @@ Image| Name | Description | Link
 mostly femdom. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![V1X3N](https://files.catbox.moe/7txegd.png) | Siren | android waifur that wants to empty your wallet. the example chats arent necessary in this card- feel free to delete them to save on tokens | [CHUB link](https://www.chub.ai/characters/onaholesama/siren-eaf8b6bb)
 ![Oh no..](https://files.catbox.moe/ragcah.png) | **ΔΤΔ** | (You) just moved into your college dorm.. not knowing it was a sororiety house | [CHUB link](https://www.chub.ai/characters/onaholesama/delta-tau-delta-120b2c59/main)
 ![dont leave me..](https://files.catbox.moe/zqeml2.png) | Mal0 | SCP-1471, card is focused on the texting aspect | [CHUB link](https://www.chub.ai/characters/onaholesama/mal0-feb8ed97)
 ![tigress](https://files.catbox.moe/6etbsk.png) | Franky | scenario card, tall tigress grill that has a buzzingly pleasureful problem in her crotch | [CHUB link](https://www.chub.ai/characters/onaholesama/franky-2abd0817)

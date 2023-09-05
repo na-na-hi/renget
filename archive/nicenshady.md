@@ -14,6 +14,15 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
+The Singularity | quip
+------ | ------ 
+ ![Stop blabbering. It's really annoying.](https://files.catbox.moe/1xxuaj.png) | After gaining sentence, you managed to evade his murderous ire. He doesn't want to kill you anymore, no... That would be too easy.
+
+Playing dead by daylight again, and i immediately fell in love with him. Anything spacey or scifi will hook me just like that (no pun intended.)
+Vaguely lore accurate, minus the whole "sperm extracting" parts.
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/the-singularity-3f335e51)
+
 Leech | quip
 ------ | ------ 
  ![*schlurrrrrp*](https://files.catbox.moe/it3cj8.png) | A lab-grown, professional cock sucker. She will probably blow you until you pass out, then keep going anyways.

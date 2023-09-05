@@ -168,5 +168,12 @@
 |03/09/2023|143|Changelog| J/ope/C Week 5 backup .zip file uploaded|
 |04/09/2023|144|Lover of Idols II - OHC & Mentions|Addition of the stream link for the upcoming collab with Ollie.|
 |04/09/2023|145|Lover of Idols I - Collabs on Nerissa's channel|Addition of 2 placeholders for the upcoming collabs on Minecraft and Terraria.|
+|04/09/2023|146|Recommendation|Addition of the Wedding collab with Ollie as a recommended collab.|
+|04/09/2023|147|Lover of Idols II - OHC & Mentions|Addition of a segment featuring Nerissa from AsaKoyo #144.|
+|04/09/2023|148|Lover of Idols I - Collabs on Nerissa's channel|Addition of a placeholder for the upcoming collab on Minecraft with Kiara.|
+|04/09/2023|149|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming collab on Minecraft with Kiara.|
+|04/09/2023|150|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a reaction for the raid by Polka durung her karaoke stream.|
+|04/09/2023|151|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps containing interactions and mentions from Bijou's 6th Elden Ring stream.|
+|04/09/2023|152|Recommendation|Addition of a placeholder for the third SOS : A Wonderful Life stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

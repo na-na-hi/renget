@@ -3,20 +3,13 @@
 **Subject: /stag/ - Starfield General #0000 [UPDATE THE COUNT]**
 **[Edition goes here]** Edition
 
-THE DIRECT: https://youtu.be/uMOPoAq5vIA
-
 \>>>The Game<<<
 https://store.steampowered.com/app/1716740/Starfield/
 
-\>>>The Basics<<<
-This general is for the upcoming space RPG made by Bethesda.
-First gameplay reveal and official Bethesda playlist: https://www.youtube.com/watch?v=zmb2FJGvnAw&list=PLSHdOA4o6T_dcf5tYDjJJ6S-nukKFrjxj
-\>Early Access now available! Full release on September 6th.
-
-\>>>The Compiled Bulletin<<<
-\>Potential upcoming mods leaked by scraping Nexus: https://rentry.org/stag_leakedmods
-\>Early Access now available
-**[Add more here if necessary. Might remove this section in a later update since it was only used for listing leaks (pointless now that the game has released)]**
+\>>>News<<<
+\>03/09: Starfield Script Extender is out: https://www.nexusmods.com/starfield/mods/106
+\>01/09: Early Access now available! Full release on September 6th.
+**[Update when appropriate - insert new items at the top and use DD/MM]**
 
 \>>>Resources<<<
 \>Mods: https://www.nexusmods.com/starfield/
@@ -24,11 +17,16 @@ First gameplay reveal and official Bethesda playlist: https://www.youtube.com/wa
 \>>>FAQ<<<
 \>Q: Is Starfield similar to No Man's Sky?
 \>A: No, Starfield isn't a space sim.
+\>Q: Is the space around planets finite?
+\>A: No, but interplanetary travel takes an unreasonably long time without using grav-jumps.
+\>Q: What's the deal with NG+(+...)?
+\>A: Restarts the game with minor changes to the story and world, while keeping your skills. The extent of the game past the first NG+ is currently unknown.
 
 \>>>Misc<<<
+\>Potential upcoming mods leaked by scraping Nexus: https://rentry.org/stag_leakedmods
 \>Character builder: https://nukesdragons.com/starfield/character
 \>Get rid of Gaylospammers with these filters: https://rentry.org/stag_filters
-\>Threadly space music: **[YouTube link]**
+\>Threadly space music: **[Link to some space-related music]**
 
 \>>>OP template<<<
 \>https://rentry.org/stag_op (will be periodically updated)
