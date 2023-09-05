@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 2nd September. All dates dd/mm.
+!!! Note Last updated: 4th September. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -129,7 +129,7 @@ Club ID | Club Name | Club Status
 8192 | Mesugaki | Full as of 21/08
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | Rats | Full as of 22/08
+11162 | Rats | Full as of 04/09
 11830 | TummyArchive | Full as of 29/08
 12395 | 中出しの幸せ (cumshot happiness) | Full as of 30/08
 

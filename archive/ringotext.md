@@ -240,6 +240,7 @@
 | [>>56073953](https://rentry.org/ringotext2#56073953) | Calli, Kiara, Ame, Ina, Gura | brap |
 | [>>57182945](https://rentry.org/ringotext2#57182945) | Shiori | choco |
 | [>>57238017](https://rentry.org/ringotext2#57238017) | Various | brap |
+| [>>57723742](https://rentry.org/ringotext2#57723742) | Gura | choco |
 
 ## >>249165
 

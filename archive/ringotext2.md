@@ -642,3 +642,10 @@ Literally decomposing
 Left to the imagination of the reader
 
 -> * * * <-
+
+## >>57723742
+
+>What is the average size of Gura's poop
+Quite large and hard, so it stretches her hole a lot. That's why there's a pile of piss tshirts next to her toilet. She takes her shirts off to shit, cos the ordeal makes her sweat a lot. The shit starts off hard like rabbit poop bunched together in a large brick, but once gravity takes over and pulls it out of her anus, a long stream of softer, fresher, soft serve poop starts flowing out. This is the moment you want to stick your dick in her anus and push back. Don't mind the smell as your glans sinks into her shit, she want's you to fill her chocolate eclairs with cream. Could push her face into the bowl while you do it. Make her bob for apples.
+
+-> * * * <-

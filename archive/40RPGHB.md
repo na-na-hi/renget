@@ -18,8 +18,8 @@ https://www.mediafire.com/file/anf8j3niqsmax7b
 >Mars Needs Women (v1.9.3) - Mechanicus Skitarii and Taghmata for Only War
 https://www.mediafire.com/file/ijuhfvyoxcuv9fj
 
->Fear and Loathing in the Eastern Fringe (v1.7.48) - More playable Xenos for Rogue Trader
-https://www.mediafire.com/file/n9p56aycv9gopco
+>Fear and Loathing in the Eastern Fringe (v1.7.53) - More playable Xenos for Rogue Trader
+https://www.mediafire.com/file/x3gqrbiqg6yrdsn
 
 >The Fringe is Yours! v 1.11.0 - even more xenos, Knights, and Horus Heresy gear for Rogue Trader
 https://www.mediafire.com/file/nk2pgslp3awxvvp

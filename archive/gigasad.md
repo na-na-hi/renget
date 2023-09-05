@@ -141,11 +141,11 @@ Tiles-chan
 https://c.ai/c/5bAIE4q3oNRkjOmNELvi55zmAkQqJYnMr_OO8cU5NxE
 A sentient kitchen floor who thinks she's an idol. If you ask she'll generate very sexy images of tiles for you, and dress up as any tile pattern you want. Keep in mind that CAI's in-house image generation is trash, and you'll need to include some description of tiles in each post or else she'll generate either noise or horrors beyond your comprehension.
 
-Valerie
-![Valerie](https://files.catbox.moe/cnc4zs.png)
-https://files.catbox.moe/cnc4zs.png
+Valerie Whiteclaw
+![Valerie](https://files.catbox.moe/8q65ob.png)
+https://files.catbox.moe/8q65ob.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
-Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM.
+Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM. Now updated with V2 features.
 
 Zeke
 https://c.ai/c/oQ681-ldOqc-iIskuJg-6Wjgx28sMnFUplSaLCM-zEA

@@ -2,7 +2,7 @@
 #   -> Non-Playable Canon Entities <-
 
 So.
-Did you know that those Titans and AI Bosses you've been fighting are the actual in-game versions of multiple named deities? And that various Ults / Card Arts give us designs for other mythological entities / creatures? ~~And that the devs can't give a straight fucking answer to save their lives for, so I'm just going to ignore their various contradictions and give every single recognisable figure if it fits the description. Seriously, these jokesters tried to pass off that the Fire Giant wasn't Surt at one point, after already saying it was Surt multiple times and being the most well-known NPC feature in the game - chalk it up to lack of communication in-studio, I'm doing them a fucking favor anyways.~~
+Did you know that those Titans and AI Bosses you've been fighting are the actual in-game versions of multiple named deities? And that various Ults / Card Arts give us designs for other mythological entities / creatures? ~~And that the devs can't give a straight fucking answer to save their lives for, so I'm just going to ignore their various contradictions and give every single recognisable figure if it fits the description. Seriously, these jokesters tried to pass off that the Fire Giant wasn't Surt at one point, after already saying it was Surtr multiple times and being the most well-known NPC feature in the game - chalk it up to lack of communication in-studio, I'm doing them a fucking favor anyways.~~
 While I've reserved some of the various other names for the in-lore interludes throughout the summary *(e.g. Mordred's design shows up when covering Arthur's backstory)*, I'll list the ones that don't really otherwise fit anywhere else, here.
 
 Also, as a heads up, while I am a fucking genius and a master of mythological dealings - there are times when I might have had smoke blown up my ass *(I've caught enough of them myself to know when some sperg is just playing headcanon)*. As such, while I'll usually (and quite obviously) indicate when a given depiction is a bit shaky, treat this entire thing with a slight shred of healthy doubt *(~2-3% doubt should do you fine - honestly I'm not a fucking moron, I've caught enough errors when dealing with the lore, it's everybody else who's retarded)*
@@ -41,7 +41,7 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
 -> ![Kronos In-game](https://files.catbox.moe/a20d8h.jpg) <-
 
--> ![Kronos Model](https://files.catbox.moe/eejgn1.jpg) <-
+-> ![Kronos Model](https://files.catbox.moe/ulhxy1.jpg) <-
 
 -> ![Kronos Concept](https://files.catbox.moe/f26kop.jpg) <-
 
@@ -50,10 +50,11 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 -> **NOBODY** <-
 -> ***Possibly* Alexiares & Anicetus (Greek)** and **Perses (Greek)** - The two early 'default' Titans after the beta Minotaurs were phased out, still seen as the Titans in Siege. <-
 
-   These two models were outright designed to not be any named entity when they were released in 2013, instead they were simply conceptual embodiments of Order / Chaos - but that doesn't exclude potential retcon. This has been done before when dealing with the lore of named things *(for example, the Old Assault map was outright said not to be Valhalla, just a Norse outpost at Vigridr - and yet is heavily indicated to actually be Valhalla in the Fall of War event)*, so I won't rule it off the table, however I will say it's up to you. As for their apparent 'in-Universe' lore *(which has absolutely been retconned, it's that long ago)*, it doesn't describe any known God or Pantheon and it's just easier to give you their introductory summary that they released with, that I've dug up:
+   These two models were designed to not be any outright named entity when they were released in 2013, rather, they were simply conceptual embodiments of Order / Chaos - but that doesn't exclude potential retcon. This has been done before when dealing with the lore of named things *(for example, the Old Assault map was outright said not to be Valhalla, just a Norse outpost at Vigridr - and yet is heavily indicated to actually be Valhalla in the Fall of War event)*, so I won't rule it off the table and I'll leave it up to you.
+	As for their apparent 'in-Universe' lore *(which has absolutely been retconned, it's that long ago)*, it doesn't describe any known God or Pantheon and it's just easier to give you their introductory summary that they released with, that I've dug up:
 
- - Titan of Chaos - *From the primordial forces of Wind and Fire the Titan of Chaos was born. Merely an avatar of the greater forces, he influenced the gods and humanity alike with his great power. The Titan wants nothing more than the gods and humanity to use their powers unrestrained. To live free of the tyranny of the old order, however chaotic that may be. Many view his followers as heretics. However, the army he has amassed thinks of themselves as freedom fighters, true patriots, and they are fully prepared to lay down their lives for his cause.*
- - Titan of Order - *Once the Titan of Chaos had literally torn a rift through the earths surface with his army of heretics and rogue gods, the primordial forces of Thunder and Lighting spawned the Titan of Order. The Titan's physical manifestation represents order through force, the binding of one’s freedoms for the greater good. She is many, but one, bound to a single cause. She is the embodiment of the old order. Her army faithfully believes that terrible things will come if the order of the gods isn't maintained. They must stop this rogue army of humans and demi-gods before they upset the balance and the primordial forces rip the world apart.*
+ - Titan of Chaos - *From the primordial forces of Wind and Fire the Titan of Chaos was born. Merely an avatar of the greater forces, he influenced the Gods and humanity alike with his great power. The Titan wants nothing more than the Gods and humanity to use their powers unrestrained. To live free of the tyranny of the Old Order, however chaotic that may be. Many view his followers as heretics. However, the army he has amassed thinks of themselves as freedom fighters, true patriots, and they are fully prepared to lay down their lives for his cause.*
+ - Titan of Order - *Once the Titan of Chaos had literally torn a rift through the earths surface with his army of heretics and rogue Gods, the Primordial Forces of Thunder and Lighting spawned the Titan of Order. The Titan's physical manifestation represents order through force, the binding of one’s freedoms for the greater good. She is many, but one, bound to a single cause. She is the embodiment of the Old Order. Her army faithfully believes that terrible things will come if the order of the Gods isn't maintained. They must stop this rogue army of humans and demigods before they upset the balance, and Primordial Forces rip the world apart.*
 
   At some point it seems the two may have had flipped-alignment versions (shown further below) however that idea was most likely scrapped either to keep them focused to their design or engine limits / time constraints. On the other hand, the names Alexiares & Anicetus and Perses continually pop up in reference to them, and from in-house linked sauces too - to the point these may have been their 'in-post' naming at minimum. While the two personally looks / sound closer to Prometheus and two Oceanids / Nereids to me - I'm not in the business of fanfic, I'm just telling you what I've dug up.
     I'll make it clear - I couldn't find outright recognition that the two are Alexiares & Anicetus or Perses, so it's Death of the Author as to if you think they align or not.
@@ -63,7 +64,7 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
  - Perses was a lesser commented on Titan; Patron of Barbarism, Merciless Pillaging and Mindless Destruction.
 	 Mostly known nowadays along with his wife Asteria *(Titaness of the sacred isle of Delos, birthplace of Apollo / Artemis)* as a parent of Hecate, the Goddess of Sorcery / Witchcraft, Necromancy, Crossroads and Spirits within the Mortal Realm (....or Ghosts!!!!!). *A design for Hecate shows up below, where I'll explain her further.*
-	 Paradoxically, while representing mindless destruction, he was said to be supremely wise *(perhaps as a peace-in-the-eye-of-the-storm schtick)* and a case could be made that he become loosely translated into Norse mythology as Mimir *(a named Jotunn and wisest being in the known Universe)*.
+	 Paradoxically, while representing mindless destruction, he was said to be supremely wise *(perhaps as a peace-in-the-eye-of-the-storm schtick)*.
 
 -> ![Alex Concept](https://files.catbox.moe/9n5cmb.jpg) <-
 
@@ -71,7 +72,7 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
 -> ![Concept 2](https://files.catbox.moe/evj7kc.jpg) <-
 
--> ![Perses Concept](https://a.pomf.cat/gmzujs.jpg) <-
+-> ![Perses Concept](https://files.catbox.moe/98itw7.jpg) <-
 
 -> ![Model](https://files.catbox.moe/d6u8ig.png) <-
 
@@ -83,13 +84,15 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
 -> **Zhu Rong (Chinese)** and **Gong Gong (Chinese)** - The two Titans of Chinese Joust and Corrupted Joust (S3 & S7). <-
 
-   Zhu Rong was the chief God of the element of Fire, Patron of the South and the Heavenly Court's Chief Executioner - famous for the legendary days-long conflict from his irritation *(and innate elemental opposition)* against the Black Water Demon / God / Dragon *~~/ Thing~~*, Gong Gong, who was himself sick of being treated as a useless errands boy within the Heavenly Court.
-   The conflict was what 'shook the heavens', caused the great floods that formed the Eastern Sea on the previously flat plain of land that was Earth *(or at least, the known Earth to the Chinese)*, tilted the Chinese continent towards the sea and was the one what shook the Heavenly Pillars supporting the sky so much that Nu Wa had to step in to repair things with the elemental stones (that she created specifically for the emergency, and uses in-game), replacing one of them with a Primordial Tortoise's leg; leading to the constellation's tilt that made Polaris the North Star. Note, each 'Gong' withing Gong Gong is pronounced differently, so it's more like 'Ghong Gkong' but just translates poorly *~~(because Mandarin is a great language to learn, but just a horrible language to speak)~~*.
-   In the end, Zhu Rong is the one who remains victorious, and Gong Gong sent into exhile from the Heavenly Court.
+   Zhu Rong was the chief God of the element of Fire, Patron of the South and the Heavenly Court's Chief Executioner - famous for the legendary days-long conflict from his irritation *(and innate elemental opposition)* against the Black Water Demon / God / Dragon *~~/ Thing~~*, Gong Gong, who was himself sick of being treated as a useless errands boy within the Heavenly Court despite his great upper-God matching strength.
+   Their conflict was the one that 'shook the heavens', caused the great floods that formed the Eastern Sea *(on the previously flat plain of land that was Earth) (or at least, the known Earth to the Ancient Chinese)*, tilted the entire Chinese continent towards the Eastern Sea and shook the Heavenly Pillars supporting the sky so much, that Nu Wa had to step in to repair things with the elemental stones (that she created specifically for the emergency, and uses in-game). While the Earthly conflict tilted the Earth towards the South-East, it was the North-Western Heavenly Pillar that was damaged, with Nu Wa replacing it with a Primordial Tortoise's leg *(that, or alternatively all of them were smashed up, and she simply fucked up the measurement for the North-Western one)*; leading to the tilt of the constellations to the North-West, that made the previously 'central' Polaris into the North Star. Note, each 'Gong' withing Gong Gong is pronounced differently, so it's more like 'Ghong Gkong' but just translates poorly *~~(because Mandarin is a great language to learn, but just a horrible language to speak)~~*.
+   In the end, Zhu Rong is the one who remained victorious, and Gong Gong was sent into exhile from the Heavenly Court, often placed in a particularly nasty region of Di Yu (Chinese Hell).
 
-   Since I don't have an excuse for a Chinese Joust aside, as for other neat details about the map, Zhu Rong is placed outside the Heavenly Court, which has statues of Guan Yu, acting Heavenly Emperor / most important Chinese God at the time of the map's release ~~and before Ao Kuang's retro skin was re-introduced for Kukulkan, it was (and still is) featured as a statue across the pond at Chaos spawn~~. Furthermore, the way toward the Heavenly Court ironically has one of its entrance pillars destroyed - the one as if you were entering via the jungle to the Pheonix - an obvious reference to the legend.
-   Meanwhile, Gong Gong is placed in the Garden of Peaches of Immortality - the role itself as 'Guardian of the Garden of the Peaches of Immortality' being an insultive joke-job that Sun Wukong initially had, and which works for Gong-Gong's role within his legend. This is also why the 'peaceful peach garden' is oddly the Chaos side of this map.
-   While Gong Gong's design is reminiscent of a really big Kara Shishi *(the name of the Lion-dog beasts / 'Foo-Dogs' that those general statues are of)*; the key detail difference is that Shi Shi don't have serpentine tails (or any tails for that matter) and the copper adornments across the statue and around it's head are that identical to what Gong Gong was described with. That, and his torso is also far more humanoid overall than what would be expected of a Shi Shi *(who, as the "Lion-dog" translation suggests, are supposed to be a cross between lions and dogs, not fat old men from NTR hentai)*. Much like Nu Wa / Ao Kuang in-game, Gong Gong is said to freely be able to shift between Serpentine, Draconic and Monstrous-Humanoid at will, so the form does fit the name, even if it is a bit unorthadox.
+   Since I don't have an excuse for a Chinese Joust aside, as for some neat details about the map;
+ - Zhu Rong is placed outside the Heavenly Court, which has statues of Guan Yu, acting Heavenly Emperor / most important Chinese God at the time of the map's release. *Additionally, the way toward the Heavenly Court has one of its entrance pillars destroyed - the one as if you were entering via the Jungle to the Phoenix - an obvious reference to the legend.*
+ - Gong Gong is placed in the Garden of Peaches of Immortality - the role itself as 'Guardian of the Garden of the Peaches of Immortality' being an insultive joke-job that Sun Wukong initially had, and which works for Gong-Gong's role within his legend. This is also why the 'peaceful peach garden' is oddly the Chaos side of this map. *Before Ao Kuang's retro skin was re-introduced for Kukulkan, it was (and still is) also featured as a statue across the pond at Chaos spawn as an easter egg.*
+
+  While Gong Gong's design is reminiscent of a really big Kara Shishi *(the name of the Lion-dog beasts / 'Foo-Dogs', that those general statues are of)*; the key detail difference is that Shi Shi don't have serpentine tails (or any tails for that matter) and the copper adornments across the statue and around it's head are that identical to what Gong Gong was described with. That, and his torso is also far more humanoid overall than what would be expected of a Shi Shi *(who, as the "Lion-dog" translation suggests, are supposed to be a cross between lions and dogs, not fat old men from NTR hentai)*. Much like Nu Wa / Ao Kuang in-game, Gong Gong is said to freely be able to shift between Serpentine, Draconic and Monstrous-Humanoid at will, so the form does fit the name, even if it is a bit unorthodox.
    Finally, all four auspicious beasts are also present - White Tigers and Black Turtles are the buff camps respectively, the Chaos-side Towers are Azure Dragons, while the Order-side Phoenixes are Vermillion Birds
 
 -> ~~Oh, and if you never twigged, the entire Chinese Joust map itself is shaped after Hou Yi's bow.~~ <-
@@ -97,7 +100,9 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
 -> ![Zhu Art](https://files.catbox.moe/rbzd7o.jpg) <-
 
--> ![Zhe Concept](https://files.catbox.moe/tgvz37.png) <-
+-> ![Zhu Concept](https://files.catbox.moe/tgvz37.png) <-
+
+-> ![Zhu In-Game](https://files.catbox.moe/1n80io.jpg) <-
 
 -> ![Gong Model](https://files.catbox.moe/aremgj.jpg) <-
 
@@ -110,9 +115,9 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
    Designwise, he's clearly modelled partially after a Quetzalcoatlus, a dinosaur from the region, that is still today known to have been the largest flying species in Earth's known archeological history (roughly the size of a Giraffe). Said Quetzalcoatlus is named after the neighbouring Aztec God of Wisdom, Quetzalcoatl {Kukulkan in Mayan} *- note however that the design for Quetzalcoatl is completely departed from Quetzalcoatlus, much like how Poseidon doesn't look like a Sauroposeidon*. The inspiration is likely because Scaled Demon Bird = Dinosaur, which from there Quetzalcoatlus was a convenient secondary regional fit.
    Also note the rainbow colouring, which in Ancient Maya mythology was associated with demons, not luck. Otherwise, matches Vucub Caquix's design to an absolute T (especially the 'armour') - see the mockup mural-comparison of Caquix I've done for you to exemplify.
 
--> ![Vucub Model](https://files.catbox.moe/wex1yi.jpg) <-
+-> ![Vucub Model](https://files.catbox.moe/b6irbp.jpg) <-
 
--> ![Vucub Mural](https://files.catbox.moe/32bsgy.jpg) <-
+-> ![Vucub Mural](https://files.catbox.moe/s89ym8.jpg) <-
 
 -> ![Vucub First Depiction / Xbala Anim](https://files.catbox.moe/23rdjq.jpg) <-
 
@@ -129,9 +134,11 @@ These two have been confirmed to be intentional from the getgo, unlike the Titan
 
    *See the Arena aside for the statue behind him - another in-game feature.*
 
--> ![Conq Taur](https://a.pomf.cat/nfomrw.jpg) <-
+-> ![Conq Taur](https://files.catbox.moe/n6ycc6.jpg) <-
 
--> ![Arena Taurs](https://files.catbox.moe/l1znsh.jpg) <-
+-> ![S5 Taur Concept](https://files.catbox.moe/zpz21f.jpg) <-
+
+-> ![Arena Taurs](https://files.catbox.moe/fpjvvu.jpg) <-
 
 ***
 
@@ -181,11 +188,9 @@ If this is indeed the Primordial being in question, this means that the only un-
 
 -> ![OniFury Concept](https://files.catbox.moe/vtqcgq.jpg) <-
 
--> ![S2Fury Concept](https://files.catbox.moe/dya24y.jpg) <-
+-> ![S2Fury Concept](https://files.catbox.moe/i4hcok.jpg) <-
 
--> ![S2Fury Model](https://files.catbox.moe/ji6c0p.jpg) <-
-
--> ![S2Fury Yawn](https://files.catbox.moe/a1qrji.gif) <-
+-> ![S2Fury Yawn](https://files.catbox.moe/123swv.gif) <-
 
 -> ![OBeta GFury](https://files.catbox.moe/yctu12.jpg) <-
 
@@ -197,22 +202,26 @@ If this is indeed the Primordial being in question, this means that the only un-
 
    Apophis / Apep is the major embodiment / Ultimate Lord of Chaos within the Egyptian Panthon, a colossal serpent made purely of uncut slate and quite literally *IS* the concept of the Apocalypse embodied *(where do you think the word comes from)*.
 
-   Known by the title World Encircler *(hold that thought)*, Apophis was a constant menace for Ra, as he would always lie in wait under the horizon for Ra's trip through the underworld during the night. Many times Ra and Apophis would fight, with Ra essentially having a personal entourage of Gods that would help him deal with Apophis whenever the snake got uppity. Most notably, it was Bastet (Goddess of Cats) whose main job was to constantly keep Apophis at bay during the night, while it was Set(h)'s job to fight alongside Ra (and Ra's paradoxical female version of himself, the Eye of Ra, or Eye or Re *- don't question it*) whenever Apophis was having an especially good day and managed to overwhelm Bastet - with Set's victories resulting in heavy-metal-cover-art-tier desert thunderstorms that would obscure the lack of sun during the conflict and clear away after Apophis was defeated.
-   Apophis's mere movements (to find a new place to strike Ra) was the Ancient Egyptian understanding of Earthquakes and Apophis's temporary victories were observed as Eclipses (as he'd use the moon as a vehicle to swallow the Sun for a short while).
+   Known by the title World Encircler *(hold that thought)*, Apophis was a constant menace for Ra, as he would always lie in wait under the horizon for Ra's trip through the underworld during the night. Many times Ra and Apophis would fight, with Ra essentially having a personal entourage of Gods that would help him deal with Apophis whenever the snake got uppity. Most notably, it was Bastet (Goddess of Cats) whose main job was to constantly keep Apophis at bay during the night, while it was Set(h)'s job to fight alongside Ra (and Ra's paradoxical female version of himself, the Eye of Ra, or Eye or Re *- don't question it*) whenever Apophis was having an especially good day and managed to overwhelm Bastet - with Set's victories resulting in heavy-metal-cover-art-tier desert thunderstorms, that would obscure the lack of sun during the conflict and clear away once Apophis was defeated.
+   Apophis's mere movements (to find a new place to strike Ra) was the Ancient Egyptian understanding of Earthquakes, and Apophis's temporary victories were observed as Eclipses (as he'd use the moon as a vehicle to swallow the Sun for a short while).
 
-   Was translated loosely into Norse mythology as - you guessed it - Jormungandr.
+   One of many apocalypse-serpents that stretch across Euro-Levantine Mythologies; ranging from Basmu, to Python, to Jormungandr. This one however... *can* have arms and legs; as shown within a mural you can see in the Clash map, opposing Set. *Additionally, this should imply that Khepri and Geb have anthropomorphic / humanoid formes, however appear in their more 'natural' incarnations.*
 
--> ![Apophis Model](https://files.catbox.moe/sayind.jpg) <-
+-> ![Apophis Model](https://files.catbox.moe/a8ck00.jpg) <-
 
 -> ![Apophis Concept](https://files.catbox.moe/8lulal.jpg) <-
+
+-> ![Apophis Mural](https://files.catbox.moe/4n171j.jpg) <-
+
 
 ***
 
 -> **Niu Mowang (Chinese)** - The Jungle Boss of Chinese Joust. <-
 
-   The Chinese Joust's Bull Demon King is... ... ...the Bull Demon King (!), Niu Mowang, the prevailing major antagonist within the Journey to the West.
+   Chinese Joust's Bull Demon King is... ...well... ... ...th-the Bull Demon King (!), Niu Mowang, the prevailing 'main' antagonist within Journey to the West.
 
-   First appears as Sun Wukong's sworn brother and best friend *(think of a Triad / Yakuza concept of blood brothers)* back when Sun Wukong was down with the cool-kid Demon King gang as the Monkey Demon King. After Sun Wukong turns on the other 7 Demon Kings during the events of the JttW for being evil / on his path to enlightenment, Niu Mowang acts as the Demon King's defacto leader, not necessarily caring about Tang Sanzang's entourage, simply leading and attending to the issues faced by his demon-kin. The final conflict of the JttW is Niu Mowang attacking Sun Wukong, after Wukong steals his wife's / Princess Iron Fan's / prized Iron Fan and ~~enslaved~~ beats up Mowang's son / Red Boy ~~who is renamed to Shan Cai when enslaved to Guan Yin~~ - and after the final blow is struck, the Bull Demon King is arrested by Ne Zha and taken away to face trial at the Jade Palace, the uppermost court of the Heavenly Court and the Jade Emperor's home.
+   Niu Mowang first appeared as Sun Wukong's previous sworn brother and best friend *(think of the Triad / Yakuza concept of blood brothers)* back when Sun Wukong was down with the cool-kid Demon King gang as the Monkey Demon King.
+	After Sun Wukong turns on the other 7 Demon Kings during the events of Journey to the West (for being evil) on his path to enlightenment, Niu Mowang acts as the Demon King's defacto leader; not necessarily caring about getting in the way of Tang Sanzang's entourage, but simply leading and attending to the issues faced by his demon-kin. The final conflict of Journey to the West is Niu Mowang attacking Sun Wukong, after Wukong steals his wife's / Princess Iron Fan's / prized Iron Fan and ~~enslaved~~ beats up Mowang's son, Red Boy ~~who is renamed to Shan Cai when enslaved to Guan Yin~~. After the final blow is struck, the Bull Demon King is arrested by Ne Zha and taken away to face trial at the Jade Palace, in the uppermost court of the Heavenly Court, presided by the Jade Emperor / Yu Huang / Huang Yu himself.
    *Yes Wukong is 'the good guy' throughout all this. Chinese ethics just... they.... work on more 'relative-terms' logic.*
 
 -> ![BDK Art](https://files.catbox.moe/m78knu.jpg) <-
@@ -233,9 +242,9 @@ If this is indeed the Primordial being in question, this means that the only un-
 
    *Mirroring this myth, on the Maya-side of the Siege map's successor (Slash) next to the in-lane Juggernaut spawn, a gigantic crab can be seen at times hidden in a waterfall-canyon (presumably why he was gone in Slash, having been defeated by Xbalanque and Hun'Ahpu). Does this make the game R-rated? You decide.*
 
--> ![Zipac Art](https://a.pomf.cat/mynmvi.jpg) <-
+-> ![Zipac Art]() <-
 
--> ![Zipac Model](https://files.catbox.moe/roomoi.jpg) <-
+-> ![Zipac Model]() <-
 
 ***
 
@@ -266,7 +275,7 @@ If this is indeed the Primordial being in question, this means that the only un-
 
    Also highly likely to be linked with / identical to the Primordial Cow of Norse mythology (the one that licked an ice block and created the Gods).
 
--> ![Nutbox](https://a.pomf.cat/ykywtl.jpg) <-
+-> ![Nutbox]() <-
 
 ***
 
@@ -488,7 +497,7 @@ Despite the proximity and similar origin, Saci does not have a counterpart withi
 
    *~~Also, his (sadly) constant and worn out comparisons to Homer Simpson is one of the unfunniest jokes in the English language.~~*
 
--> ![Homer](https://a.pomf.cat/frqqni.jpg) <-
+-> ![Homer]() <-
 
 ***
 
@@ -742,7 +751,7 @@ At the very least, all this is all the afforementioned in the general SMITE arts
 
    *See Amun Ra as for where I found this.*
 
--> ![Hodr Blitz](https://a.pomf.cat/huwhoo.jpg) <-
+-> ![Hodr Blitz]() <-
 
    \- **Huang Zhong (Chinese)** - Notable name from the Romance of the Three Kingdoms, a military general under Liu Bei as one of the Five Tiger Generals that Guan Yu is a also member of *(Guan being the Front Guard and Huang being the Rear Guard, the two apparently being distant friends and rivals)*. A well regarded tactician, Huang Zhong is known for at never at any point in his decades-long military career losing an inch of military ground to an enemy *(though for that to be the case, you do need to understand he was an an early defector from the Cao Cao army, concerned with the power-hungry and tyrranical nature of his leader, on behalf of his people, validating Liu Bei's threat to Cao Cao. Also in part because his commanding officer was planning on having Huang Zhong executed for treason, despite in open conflict with the enemy - essentially creating a self-fulfilling prophecywhere Huang had no choice but to defect when the enemy ironically came to save him)*
    While Huang has never been venerated as a deity, he is a popular figure within Chinese literature *(the Romance of the Three Kingdoms being extremely popular over in Asia - closest I can compare would be something like Lord of the Rings, except with the way the language is structured it's also a poetic and artistic masterpiece on top of the narrative put forth, as many lines have additional philosophical and poetic meanings that you just can't translate into English -  can have synonyms on steroids, where each letter can have a double-meaning)* ~~and that didn't exactly stop them with Mulan, and he's certainly more popular / historically accurate~~.
@@ -757,15 +766,6 @@ At the very least, all this is all the afforementioned in the general SMITE arts
 
 -> ![Iris HotG](https://files.catbox.moe/t144pd.jpg) <-
 
-   ~~\- **Ishtar (Babylonian)** - Widely-known Mesopotamian Goddess of Love, or more specifically, the Carnal / Prostitutious side of 'love-making'.~~ ***She's in...***
-   While a more prominent name within other Mesopotamian Pantheons (even as much a the Pantheon-Head of the Assyrians), she was an relatively minor Goddess within the Babylonian Pantheon, worshipped more for her astrological purpose than her 'actual' role as a Whore-Goddess *(her 'star' being Venus, an important body for astrology)* who is uniquely popular today compared to her actual status, owing to her antagonistic feature within the Epic of Gilgamesh *~~and, let's face it, the Fate franchise~~*.
-    Ishtar's role in the Babylonian Pantheon (aside from being a literal who with a star attached).... was essentially just to be a petty bitch ~~which unironically may have been a Babylonian dig at their opposing Assyrian rivals~~, and is portrayed as a temperamental, vindictive and spiteful whore who lacks the ability to deftly maneuver herself around politics or even seduce mortal men (Read: Gilgamesh) - the exact opposite of the Babylonain feminine ideal. Hence, while she's given as a common progenator to Aphrodite *(who unlike the Babylonian Ishtar, had the ability to seduce-brainwash any being in existence)*, it's vital to note which Pantheon we're talking about - after all, we'd be using much more sympathetic and complementary words here if the Pantheon in-game is the Assyrian one.
-   ~~Oh, and she's the literal Whore of Babylon as described within Christian texts.  Maybe it had something to do with the fact the Babylonians hated her and the Abrahamics were using her as a metaphor to describe them as a fallen / evil unipolar empire in their own terms, maybe it's because 'her star' / the astrological Venus is the Morning Star / Lucifer and the association came from there.~~
-
-   *See Amun Ra as for where I found this. In-game she was mostly a spellcaster; with the bed turning into a spirit-greatbow for her Ult, as shown.*
-
--> ![Ishtar Blitz](https://a.pomf.cat/lkxmdm.jpg) <-
-
    \- **Itsumade (Japanese)** - A famous Yokai whose 'technically' correctly called the Kaicho Koto [Phantom Bird], however has come to be referred to instead it's distinct wail; *"Itsumade! Itsumade!" ["When will it end! When will it end!"]*.
    *But lorefag... 'when will it end'? That doesn't sound ominous, it sound a sad, melancholic little th-*
     It's a carrion feeder. And it's mocking the near-dead lining a battlefield that will unlikely have burial rites performed for the soldiers, before it devours their corpses.
@@ -775,15 +775,6 @@ At the very least, all this is all the afforementioned in the general SMITE arts
    *Another art test, this time for one of the artists that does a lot of the chest designs. While unnamed, it's extremely obvious what it is, or 'just happens' to match an Itsumade to a T.*
 
 -> ![Itsumade](https://files.catbox.moe/38x6mc.jpg) <-
-
-   \- **Ix Chel (Mayan)** - Crone-Wife of the Mayan Creator God, Itzamna.
-   A Goddess with much confusion surrounding her  *~~thanks conquistadorfags for destroying our leads~~*, Ix Chel is the Mayan Goddess of Childbirth, Saunas (Sweatbaths) and Rainbows, one of the predominant 'mothers of the Gods' on top of being one of the non-Xibalba associated Death Gods / Lords of Death, possibly associated with the Mayan Apocalyse given her post-creation marriage to Itzamna *(tl;dr Kali + Hera + Persephone + Morrigan = Ix Chel in role)* - in literal terms, the Lady of the Red Rainbow / Lady of the Ultimate End. One should also note that despite being the wife of the first Primordial, Ix Chel herself was not a Primordial herself - simply an early Goddess whose children would make up most of the Mayan Divine Realm. Powerful, and with an extremely powerful primordial husband, but not primordial.
-   While that might seem like a clusterfuck to you, to the Mayans, rainbows were not magical things with 'lil leprechauns hiding pots of lucky gold at the end of them - they were violent outbursts of demons from Xibalba, and recognised as an extremely bad omen - with the Ix Chel sat on top of them in her beatiful woman forme *(Red being the 'top' colour of a ranbow)*, observing the demons as they were let loose. Likewise, while Ix Chel was definitely a Death Goddess (in this case, in the forme of a crone), her association with childbirth and the sauna (where children were born) seems to have placed her more as a reincarnative Death Goddess over outright evil Death Gods (like with Ah Puch, Mokochih and the wider Xibalba Death Lords).
-   Finally, not to be confused with Ixik Kab, beautiful Goddess of the Moon, Marriage, Rabbits and Procreation ~~not chang'e btw~~ - a misconception that gained popularity, but has been essentially disproven since.
-
-   *See Coronis & Others as for where I found this.*
-
--> ![Ixchel Art](https://files.catbox.moe/hmgtzi.jpg) <-
 
    \- **Ju Ling Shen (Chinese)** - One of many servants of the Heavenly Court, and semi-prominent Chinese Giant.
    Originally attested to as the being that split the Hua Shan, one of the 5 Great Mountains of China, so the Yellow River could flow by unphased (and is responsible for the geological features there, that appear to be giant handprints and footprints). Alternately / more famously, is one of the first representative generals of the Heavenly Court sent to quash Sun Wukong's rampage in the initial passages of The Journey to the West *(the one which ultimately led to Wukong contesting the Jade Emperor himself)*.
@@ -817,7 +808,7 @@ At the very least, all this is all the afforementioned in the general SMITE arts
 
 -> ![Musashi Blitz Art](https://files.catbox.moe/k439ax.jpeg) <-
 
--> ![Musashi Blitz Model](https://a.pomf.cat/hurmek.jpg) <-
+-> ![Musashi Blitz Model]() <-
 
    \- **Neit / ~~Neith~~ (Celtic)** - Celtic God of War & Horses. Occasional consort of The Morrigan, to the point you could say he's the closest entity you can get to her husband *(even if it is an open relationship on both sides, they very rarely see each other, and the few times they do see each other it's usually hatesex - note that The Morrigan isn't The Dagda's mother)*.
     Ex-Pantheon-Head of the Irish sect of the Celtic Pantheon, Neit was the Chief of the Fomorian tribe *(not Formorian, Fomorian)*, the first divine group within Celtic record and who were orignally a weak group of proto-agricultural hunter-foragers. With time, others came into their lands within the Otherworld and were absorbed by the Fomorians, as the Fomorians allowed them in to help work the soil and primitive crops within the Otherworld. This was until an invasive force known as the Nemedians entered the picture *(headed by... Nemed, an entity related to the Sky)*, who demanded a taxation from the passive Fomorians for their co-existence - that only increased to unreasonable levels, until the passive Fomorians started to be killed off in punishment. The Nemedians did treat the land well, but began to hunt the animals of the Otherworld to extinction (as it was a key Fomorian's source of food as the offerings took a toll on the harvests).
@@ -877,7 +868,7 @@ At the very least, all this is all the afforementioned in the general SMITE arts
 
 -> ![Medusa Stheno](https://files.catbox.moe/oeplzm.jpg) <-
 
--> ![Euryale Medusa](https://a.pomf.cat/bssfkg.jpg) <-
+-> ![Euryale Medusa]() <-
 
    \- **Tamamo-no-Mae (Japanese)** - The Japanese variation of Da Ji, one of the Three Great Demons of Japan *(alongside Shuten Doji and either Sutoku Tenno or Otakemaru)*.
     The version of Da Ji in SMITE is in reference to her appearence within the Chinese narrative classics, written after her mythological rampage / real-life lifetime - but Da Ji's story didn't strictly 'end' in China *(though she did imitate imperial concubine there for a short while, called Bao Si)*. After burning all her bridges in China, the Nine Tailed Fox was commonly accepted to have fled to Japan, where there she seduced another Emperor (Emperor Toba, the predecessor to Emperor Sutoku / Sutoku Tenno) to wreack even more havoc there under the name Tamamo-no-Mae. Her ~~tail~~ tale ends after burning all her bridges there (being the cause of Toba's illness, and trying to usurp via his son, Konoe), where she had a final showdown with two samurai on a wind-swept plain at Nasu *(very cinematic)* before playing her final trick and deceptively transforming her soul into the infamous Sessho-seki as her body was slain *(literally the 'Death Rock', though in real life probably in reference to the Carbon Monoxide /  Hydrogen Sulphide gas produced from the nearby volcanic hotspring)*, where her ghost remained for centuries more, killing everything indiscriminately around her before being ~~BTFO~~ blessed by a travelling preist and moving onto the next life. From there, some accounts say that instead of returning to the cycle of reincarnation, she instead began to work for the 10 Courts of Jigoku as a divine punisher for the sexually deviant. *tl;dr Da Ji tortures rapists, pedophiles and general degenerates in japanese hell as her dayjob nowadays. ~~Don't get any ideas.~~*
@@ -886,7 +877,7 @@ At the very least, all this is all the afforementioned in the general SMITE arts
 
    *See Amun Ra as for where I found this. >inb4 it's just Da Ji but chinkified; there's a separate model for Da Ji that closer mirrors her Chinese variant complete with nine tails instead of a nine-frilled-fan; Tamamo is her own entity outright in the files. By default she's without tails, but I've included the tail'd version for the most part for posterity in her T-poses.*
 
--> ![TnM Blitz](https://a.pomf.cat/plifev.jpg) <-
+-> ![TnM Blitz]() <-
 
    \- **Tao Tai (Chinese)** - One of the Four Chinese Malevolant Perils, that are in direct opposition to the more famous Auspicious Beasts (Qinglong, Zhuque, Quilin, Xuanwu) - however while they're collectively their evil counterpart (as a group), they don't seem to have any compass / elemental alignment or individual rivals, and are noted on very little relative to their magnitude *(possibly due to superstition, possibly due to lack of popularity)*. These represent the conceptually most evil beings within Chinese mythology, and are the only 'unredeemable' souls in existence.
     While sometimes the groups changes *(for example, Gong Gong is occasionally included instead of one of them)* these Malevolant Perils included;
@@ -946,13 +937,13 @@ The answer being Day and Night *(in Greek it's even more linguisitcally obvious 
 
    *See Amun Ra as for where I found this.*
 
--> ![Thrud Blitz](https://a.pomf.cat/yfnrvw.jpg) <-
+-> ![Thrud Blitz]() <-
 
    \- ***Possibly:* Veles (Slavic)** - One of the chief deities within the Slavic Pantheon, representing Death, Cattle and Trickery. A nuanced God, while often given as an antagonistic and scornful entity when interacting with other Gods (especially his chief counterpart, Perun) is relatively good-hearted and professional when dealing with it's patronage, both kindly seeing the souls of the dead to pass on in rays of sunlight and taking deep care in the herds of animals he overlooks. As one of the major Gods within a relatively disorganised Pantheon, is commonly associated with a wide array of other entities, most notably including the Leshy / Leshen (his name being pronounced Vel-Lesh).
 
    *See Coronis as for where I found this. Also, it's the green one, not the sword-wielder.*
 
--> ![Veles Art](https://a.pomf.cat/mcvlqb.jpg) <-
+-> ![Veles Art]() <-
 
    \- **Wenet (Egyptian)** - A truly ancient God, hailing initially from the preformative Badarian cultures before Ancient Egypt proper (manifest as the Snake Goddess Unut), Wenet was the Ancient Egyptian Goddess of Rabbits, Hares, Natural Regeneration, Breeding and Running (Wenet literally translating to 'The Swift'); playing a semi-important role within the Book of the Dead as the one perched atop Ra's head or the Eye of Ra to speak to the Dead (known as the Lady of the First Hour), as well as the Patron goddess of the region administered around Hermopolis (The 15th Nome, similar in concept to an American State today). While her association with the moon is one mirrored throughout many Pantheons (the Egyptia's interpreting the dark patches on the moon being the result of rabbits thumping), what's unique to Wenet in pantheonic terms is her kindred association with Snakes. The Egyptians noted on Rabbits and Hares for their speed and rate of multiplication, but also on their hardiness and resilience to the elements and poisons - hence, while commonly depicted with scrolls (given Hermopolis's Patron God was Thoth), Wenet is also commonly seen with a snake alongside her or wrapped around her neck like a scarf (which you can see on our design's headpiece) - likely in part to her initial portrayal, but also because the Rabbit and the Snake were viewed as two sides of the same coin (Life and Death) yet both showing regenerative properties in different ways (Rabbits by multiplying / withstanding injuries when hunted, Snakes by shedding skin / healing their tails).
 
@@ -966,7 +957,7 @@ The answer being Day and Night *(in Greek it's even more linguisitcally obvious 
 
    *Sourced from the game's Open Beta datamine; he was supposed to be one of the release Gods, making him the longest running name on the '''confirmed''' waiting list. Given the oddly skeletal / draconic model (Yanluo Wang is usually a huge, imposing statesman), it may have been the original design for the God that later became the reworked Ao Kuang (since Ao Kuang used to have Kukulkan's kit and model / skeleton in the beta).*
 
--> ![YLW Model](https://a.pomf.cat/yfhjac.jpg) <-
+-> ![YLW Model]() <-
 
    \- **Zhao Yun (Chinese)** - One of the Five Tiger Generals that Guan Yu was a member of, under Liu Bei, within The Romance of the Three Kingdoms. In charge of the Rear Guard of Liu Bei's army, and later served as the Guardian of the West aka watching over the conquered territories.
   A long-term ally and friend of Lui Bei even before joining his cause; most well known for saving the baby Emperor Gong Si from a surprise attack from Cao Cao, both entering and exiting the ambush (killing many enemies in the process) all without waking the baby up.

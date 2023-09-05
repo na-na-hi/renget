@@ -11,9 +11,9 @@
 
 * **that ==prefill== will fix pozzed keys and clean them from the filtering**
 * **use whatever MAIN + AN + JB you want with that ==prefill==**
-* MAIN + AN + JB from that rentry are optional; you don't need them for ==prefill== to work (I just posted the stuff I am using)
-* it was originally written for */mlp/chag/* and that's why it has so many *ponyfag* stuff, but **it works fine with non-mlp** content (and anti-pozzing prefill has no mlp at all)
-* I would use it on all Claude keys regardless of pozzing status, just to clean them from `HHH` and to `shut up Assistant` from spitting his unnecessary opinion about consent and rainbows --but you do you
+* MAIN + AN + JB from that rentry are optional; you don't need them for prefill to work (I just posted the stuff I am using)
+* anti-pozzing prefill **has no MLP content** in it (if that's why you came here)
+* I would use prefill on all Claude keys regardless of pozzing status, just to clean them from `HHH` and to `shut up Assistant` from spitting his unnecessary opinion about consent and rainbows --but you do you
 * just copy-paste into `Assistant Prefilling` (*bottom-left textarea*)
 ![copy-paste prefilling here](https://files.catbox.moe/wxhxuo.png)
 
@@ -48,7 +48,7 @@
 
 
 ***
-!!!note my JB  for Claude	
+!!!note my preset for Claude (==not required for anti-pozzing! just sharing my settings==)
 	structure:	`MAIN` -\>  **Character's card** -\> **Persona**  -\>`Author's note` -\> **RP history** -\> `JB` -> `Prefill`
 	
 	**token size:** 

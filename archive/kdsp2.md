@@ -64,6 +64,9 @@ https://archiveofourown.org/works/47130919/
 Confiding in the Hermit (Persona 5) by Kin12 | Completed: 2023-08-07
 https://archiveofourown.org/works/49167412/
 
+Death Follows the Plague (Persona 5) by Kin12 | Completed: 2023-09-03
+https://archiveofourown.org/works/49823530/
+
 Desire Given Form (Persona 5) by Kin12 | Completed: 2023-05-15
 https://archiveofourown.org/works/47198077/
 
