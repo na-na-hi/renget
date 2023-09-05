@@ -66,7 +66,7 @@ Their dreams became his playground. With surgical precision, he insinuated tempt
 
 And like moths to flame, the heroes took the bait. Alarms blared within the agency moments before its doors burst open, the city's would-be protectors sprinting forth to answer screams echoing through the night.
 
-Luccione smiled coldly, fangs glinting in the shadows. "Let's paint their precious halls with with our colors."
+Luccione smiled coldly, fangs glinting in the shadows. "Let's paint their precious halls with our colors."
 
 Midas returned his grin and glided forth, tendrils of gold already trailing from his hands. The real spectacle was about to begin.
 
@@ -82,16 +82,16 @@ Two heroes tried to resist, firing off sonic bursts that went wide of their mark
 
 Luccione tilted his head, inspecting his handiwork. One hero was furiously gathering up scattered bills, gripped by the vision of unlimited wealth Luccione had implanted. Another proclaimed grandiose delusions of power and prestige to the empty lobby, arms raised messianically. The others were similarly incapacitated, lost in worlds of imagined glory and indulgence.
 
-"Look at them. Pathetic," Luccione remarked. 
+"They seem to be having fun," Luccione remarked. 
 
-"Who needs ideals when you have chaos? This is the essence of art." Midas punctuated his words by sending the grandiose hero crashing into a wall with a cackle. The other subdued heroes winced and struggled feebly against their golden bonds to no avail. As more heroes and law enforcement arrived, so did the other members of Night Parade. 
+"Who needs ideals when you have this? This is the essence of art." Midas punctuated his words by sending the grandiose hero crashing into a wall with a cackle. The other subdued heroes winced and struggled feebly against their golden bonds to no avail. As more heroes and law enforcement arrived, so did the other members of Night Parade. 
 
-Greenfinger fought his way besides Luccione as he sent a giant oak flying through an apartment complex. Karma leaped from building to build, taking everything of great value. Tomi created a construct warrior to tear through the crowd.
+Greenfinger fought his way besides Luccione as he sent a giant oak flying through an apartment complex. Karma leaped from building to building, taking everything of great value as she tore through the defenders with claws and fang. Tomi created a construct warrior to cleave through the crowd, laughing in wild amusement.
 
 Luccione allowed himself a faint smile. "I believe the night's symphony still awaits its crescendo. Your team is quite a sight."
 
 Midas's grin was sharpened gold. "Aren't they? Stay here with the others and enjoy yourself. I have something to do inside." Luccione watched the Night Parade's leader casually walk through the chaos and disappear through the agency's door.
-
+***
 Soon the once-pristine walls of the Saurus Agency was cracked and scorched. Luccione strode calmly through the ruined lobby, Greenfinger lumbering behind him. The sounds of chaos echoed from deeper within the building - Midas and the others were keeping the heroes thoroughly occupied.
 
 Luccione's sharp ears picked up approaching footsteps from down the hall. He extended his perceptions, searching for the minds of those drawing near. Aha - two "heroes" approaching, both excited by the promise of violence. Crude beasts, from what he could glean. This could be entertaining.
@@ -114,11 +114,9 @@ Luccione's eyes narrowed. Impudent creature. He summoned Avarice and melded his 
 
 Spikeback stumbled, coughing and clawing at his eyes as the choking haze engulfed him. Luccione concentrated, twisting the fumes into horrifying visions of the lizard's fears and failures. A psychic assault combined with physical pain - exquisite.
 
-While Spikeback was incapacitated, Razor Horn charged, head lowered to skewer them on his massive horns. Fast for his size. But not fast enough.
+While Spikeback was incapacitated, Razor Horn charged, head lowered to skewer them on his massive horns. Fast for his size. But not fast enough. Just before impact, Greenfinger seized the horns and stopped Razor Horn's charge cold. The triceratops struggled futilely against the larger man's freakish strength. Greenfinger brutally wrenched Razor Horn's head to the side, twisting his neck with an ugly crack. Howling, Razor Horn swiped desperately with his fists, but his blows glanced off Greenfinger's dense muscles.
 
-Just before impact, Greenfinger seized the horns and stopped Razor Horn's charge cold. The triceratops struggled futilely against the larger man's freakish strength. Greenfinger brutally wrenched Razor Horn's head to the side, twisting his neck with an ugly crack. Howling, Razor Horn swiped desperately with his fists, but his blows glanced off Greenfinger's dense muscles.
-
-"Pathetic," rumbled Greenfinger. He heaved the triceratops overhead and hurled him through several trees that seem to grow all around them with bone-breaking force. Razor Horn's overmuscled body spasmed as he crumpled amidst shattered concrete.
+"You can't match me," rumbled Greenfinger. He heaved the triceratops overhead and hurled him through several trees that seem to grow all around them with bone-breaking force. Razor Horn's overmuscled body spasmed as he crumpled amidst shattered concrete.
 
 Meanwhile, a recovered Spikeback had maneuvered behind Greenfinger during the scuffle. He inhaled sharply, flames building within his throat - then collapsed as Avarice materialized and clamped its jaws around his neck, venom-tipped fangs digging cruelly into scaled flesh.
 
@@ -142,7 +140,7 @@ Luccione gave a bored wave of his hand. "No need to drag this out. I grow weary 
 
 Greenfinger nodded and, moving faster than his bulk suggested possible, was atop Razor Horn in an instant. A single savage blow shattered the triceratops' jaw and dropped him unconscious to the floor. Greenfinger flexed his hands, still hungry for violence.
 
-Luccione gazed down dispassionately at their broken foes. He got a message on his phone from Midas telling them to retreat. "Come. Our work here is done." Leaving the "heroes" where they lay, the two villains departed into the shadows. A job well-done. 
+Luccione gazed down dispassionately at their broken foes. He got a message on his phone from Midas telling them to retreat. "Come. Our work here is finished." Leaving the "heroes" where they lay, the two villains departed into the shadows. A job well-done. 
 
 ###Chapter 4: The Show
 

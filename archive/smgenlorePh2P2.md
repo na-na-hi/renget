@@ -47,9 +47,11 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    *This map features these corrupted-tree monsters in the new Jungle camps (not any named entities within Chinese mythology, just tree-monster corrupted by le jade that permeates the setting ~~that looked like evil cacti~~), as well as the aforementioned Terracotta Soldiers as the Chaos-side minions.*
 	*Design-wise, this is the longest and largest Joust map in SMITE, both longer than S3's Chinese Joust and wider than S1's Classic (Arthurian) Joust; and was an attempt to make it more akin to Conquest in complexity, while retaining a more streamlined feel, on top of having numerous thin walls to jump if shit ever hit the fan. It also featured many more camps to farm around the map, with a new Harpy camp and a Yellow buff camp on each team's side, surrounding the central lane.*
-   *Gameplay-wise, this map allowed Assassins to be viable and an optional Jungler 'role' to be taken up (unlike the other two maps, which require all 3 players to act as a constant deathball), yet generally favoured Tanky, Objective-focused compositions over more Aggro / PvP comps, as the increased amount of jungle camps allowed them to maintain level-pace, and then just use Bull Demon King to take Structures for free. Unlike the S1 Joust map however, Phoenixes was not enclosed, and thus game times were still relatively quick without devolving into Phoenix staring competitions. Currently it's not in the default queue, but you can check it out in custom matches.*
+   *Gameplay-wise, this map allowed Assassins to be viable and an optional Jungler 'role' to be taken up (unlike the other two maps, which require all 3 players to act as a constant deathball), yet generally favoured Tanky, Objective-focused compositions over more Aggro / PvP comps, as the increased amount of jungle camps allowed them to maintain level-pace, and then just use Bull Demon King to take Structures for free. Unlike the S1 Joust map however, Phoenixes was not enclosed, and thus game times were still relatively quick without devolving into Phoenix staring competitions. If it's not in the default queue, you can check it out in custom matches.*
 
 -> ![Corr Joust Chaos](https://files.catbox.moe/ccuzee.jpg) <-
+
+-> ![Terracotta](https://files.catbox.moe/q6gwk5.jpg) <-
 
 ***
 

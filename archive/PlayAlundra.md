@@ -4,7 +4,7 @@
 
 ->Yo<- 
 I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
-All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude on Silly Tavern
+All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude and GPT-4 on Silly Tavern
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
 If you want to contact me for a reason or another, here is my e-mail: playalundra@proton.me
 Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](https://rentry.org/SilverSurfer) ![He's a cool nice dude](https://files.catbox.moe/k4om3c.png)
@@ -17,14 +17,14 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Dina**  | **708 Tokens (431 Permanent)**
+![M'lady, let me help carry those for you](https://files.catbox.moe/4ers4g.png)  | 44 year old woman who looks like a child but has gigantic sagging breasts. Yes, I am serious. Dina is an oppai-lolibaba and very motherly and mature. She is a bit flirtatious and teases you. There are 3 starters: You are a foreign exchange student in a nordic country where she is your host family, Your car breaks down and you take shelter in her lovely cottage, she is your aunt you haven't seen since childhood and you decide to visit her. I'll maybe add more starters later. | [Card](https://files.catbox.moe/ezw8ok.png) [JSON](https://files.catbox.moe/vdb6a9.json) [CHUB](https://www.chub.ai/characters/playalundra/dina-72d4a09e/)
 **Tavia** | **912 Tokens (363 Permanent)**
 ![What makes me a good Demogal? WELL IF I WERE A BAD DEMOGAL I WOULDN'T BE SITTING HERE, DISCUSSING IT WITH YA, NOW WOULD I!?](https://files.catbox.moe/nphwii.png) | Your 12 year old African-Scottish adoptive little sister who has a generous rack. You got more cards of Loch Ness in your Tavern than likes of her. Tavia is a demolition expert. Foul mouthed and bit smug little brat. Have fun with your [Demogal](https://www.youtube.com/watch?v=rBdQDGGNg8E) sister. | [Card](https://files.catbox.moe/2ixdb9.png) [JSON](https://files.catbox.moe/7r2syz.json) [CHUB](https://www.chub.ai/characters/playalundra/tavia-baa6701e)
 **Kuri** | **681 Tokens (415 Permanent)**
 ![We be doin' some tomfoolery](https://files.catbox.moe/scnq9t.png) | A mature and motherly tanuki lady in Feudal Japan where other yokai and spirits are common and coexist with humans(I'll maybe look more into this setting in the future). She can be a bit goofy too and generally has fun times. However, prepare to be pampered and spoiled a bit. Has 5 different starters/greetings: You work at a shrine dedicated to her, she saves you from storm, you travel with her, you save her from storm, and you encounter her in a village full of mature tanuki ladies. Have fun, and I hope you enjoy this card a lot. | [Card](https://files.catbox.moe/c7znja.png) [JSON](https://files.catbox.moe/izfpmf.json) [CHUB](https://www.chub.ai/characters/playalundra/kuri-99bd9ceb)
-**Puppeteer** | **770 Tokens (605 Permanent)**
-![Rip FoBS updates, Zell please please continue it even when your newer stuff is good ;-;](https://files.catbox.moe/dhg6sd.png) | Puppeteer from Forest of Blue Skin, she controls three dolls/puppets that milk the mc in different ways. Well, now they milk **YOU** in different ways. Very very self-indulged card. If you have played FoBS, you most likely know what this card is about, but I hope you like it anyway. Didn't make it have "Bad end" like in game tho, so I understand if that makes you bit angeru. Might edit it to have one someday. | [Card](https://files.catbox.moe/xjhzds.png) [JSON](https://files.catbox.moe/etzcus.json) [CHUB](https://www.chub.ai/characters/playalundra/puppeteer-abf005c6)
-**Victoria** | **1044 Tokens (708 Permanent)**
-![No suburban sprawl here.](https://files.catbox.moe/xtsm1e.png) | Retro-futuristic Victorian-era steampunk battle maid. Her limbs are replaced by mechanical ones. She owns a bakery. This is, believe it or not, more vanilla focused bot. It has 4 starters. Last starter is about you being her child. I hope you like it. Protip, listen some ghibli music with this card. | [Card](https://files.catbox.moe/41izyw.png) [JSON](https://files.catbox.moe/8sioh6.json) [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e/)
+
+
 
 
 
@@ -55,6 +55,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![CalArts got nothin' on this!](https://files.catbox.moe/7us75b.png) | **The greatest Goddess walk upon this mortal world, the one, the only, the one who saves the righteous and strikes down the evil. The one whose songs will be sang for the eternity! THE GODDESS OF MS PAINT DOODLES!** Her name is Mina Sofia. Like MicroSoft. | [Card](https://files.catbox.moe/3b2usz.png) [JSON](https://files.catbox.moe/m7ghaj.json) [CHUB](https://www.chub.ai/characters/playalundra/goddess-of-ms-paint-doodle)
 **Boo** | **485 Tokens (341 Permanent)** 
 ![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
+**Puppeteer** | **770 Tokens (605 Permanent)**
+![Rip FoBS updates, Zell please please continue it even when your newer stuff is good ;-;](https://files.catbox.moe/dhg6sd.png) | Puppeteer from Forest of Blue Skin, she controls three dolls/puppets that milk the mc in different ways. Well, now they milk **YOU** in different ways. Very very self-indulged card. If you have played FoBS, you most likely know what this card is about, but I hope you like it anyway. Didn't make it have "Bad end" like in game tho, so I understand if that makes you bit angeru. Might edit it to have one someday. | [Card](https://files.catbox.moe/xjhzds.png) [JSON](https://files.catbox.moe/etzcus.json) [CHUB](https://www.chub.ai/characters/playalundra/puppeteer-abf005c6)
 
 ##Boring humans
 
@@ -70,6 +72,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![Maid expert](https://files.catbox.moe/cm71kh.png) | Kobayashi from the fun Dragon Maid show. Mainly slice of life, keep your prompts in check. Honestly quite rushed, but wanted to get it out some day. Not too interesting and lacks context for relationships with other characters etc. I hope you enjoy it nevertheless. | [Card](https://files.catbox.moe/fp9sr7.png) [JSON](https://files.catbox.moe/z7uf9o.json)
 **Wren** | **731 Tokens (397 Permanent)** 
 ![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
+**Victoria** | **1044 Tokens (708 Permanent)**
+![No suburban sprawl here.](https://files.catbox.moe/xtsm1e.png) | Retro-futuristic Victorian-era steampunk battle maid. Her limbs are replaced by mechanical ones. She owns a bakery. This is, believe it or not, more vanilla focused bot. It has 4 starters. Last starter is about you being her child. I hope you like it. Protip, listen some ghibli music with this card. | [Card](https://files.catbox.moe/41izyw.png) [JSON](https://files.catbox.moe/8sioh6.json) [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e/)
 
 # Stuff from other people that I like a lot
 

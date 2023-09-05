@@ -508,6 +508,7 @@
 -> [Civitai](https://civitai.com/models/15344/sui-virtuareal) <-
 
 #### -> (Ex-SEED) Todoroki Kyoko <-
+!!! info Multiple outfits! (check mega for tags)
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
 	(todoroki kyouko, blue eyes, white hair, black collar, dark-skinned female, detached sleeves, white dress, garter straps, long hair, pink skirt, white thighhighs, twintails, bracelet, hair bell)
@@ -956,6 +957,7 @@
 -> [Civitai](https://civitai.com/models/62003/sumire-kaga-or-vspo) <-
 
 #### -> (Solo) Kaminari Qpi <-
+!!! info Multiple outfits! (check mega for tags)
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
 	(blonde hair, long hair, orange eyes, dark-skinned female, orange hairclip, black jacket, off shoulder, white crop top, midriff, black skirt, thigh strap, choker)
@@ -1511,6 +1513,7 @@
 -> [Civitai](https://civitai.com/models/103464/meimei-himari) <-
 
 #### -> Miilkywayz / Milky <-
+!!! info Multiple outfits! (check mega for tags)
 !!! note Recommended weight: 0.75
 !!! info Example Prompt
 	(miilkywayz, blue eyes, blue hair, cow ears, cow tail, horns, bare shoulders, detached sleeves, jewelry, medium hair, long sleeves, mole on breast, mole under eye, sleeveless dress, side slit, strapless dress, hair ornament, hair ribbon, black thighhighs, cleavage, huge breasts)
@@ -1691,6 +1694,7 @@
 -> [Catbox](https://files.catbox.moe/efx770.zip) <-
 
 #### -> Reiyu GuiGui <-
+!!! info Multiple outfits! (check mega for tags)
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
 	(reiyu guigui, purple eyes, pink hair, blue hair, multicolored hair, flower, hair ribbon, twintails, japanese clothes, hair ornament, red kimono, wide sleeves, long sleeves, off shoulder)
@@ -1778,6 +1782,7 @@
 -> [Catbox](https://files.catbox.moe/rtunao.safetensors) <-
 
 #### -> Skyler Reach <-
+!!! info Multiple outfits! (check mega for tags)
 !!! note Recommended weight: 0.55
 !!! info Example Prompt
 	(white hair, low twintails, wavy hair, red bow, hair bow, bangs, violet eyes, outfit1, open jacket, blue jacket, grey shirt, necktie, red corset, white gloves, belts, white pants, mismatched legwear, thigh strap, red beret)

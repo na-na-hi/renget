@@ -36,7 +36,7 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## NEO 3.0 Modified
 [NEO 3.0 Modified Download](https://www.mediafire.com/file/mxe2qozau8ydeya/NEO_patch.zip/file)
 ## OFF Mod
-[Unfinished Build](https://drive.google.com/drive/folders/1PryrNc1Rp9HNHVDAMSNLv6IpCk0N2G98?usp=share_link)
+[Unfinished Build](https://www.mediafire.com/file/ou3pe12cj1z49al/OFF_Mod_v0.IDK.rar/file)
 ## One Shot Mania
 [Build Download](https://files.catbox.moe/rvmool.zip)
 [FLAs and Scrapped Content](https://files.catbox.moe/br9xoz.rar)

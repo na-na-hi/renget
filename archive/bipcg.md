@@ -1,4 +1,19 @@
 ▶NEW CLIPS
+>Destroyed Challenger tank
+https://files.catbox.moe/hls3m2.mp4
+>Akhmat commander adress
+https://files.catbox.moe/dj09p7.mp4
+>Ka-52 destroying more armor
+https://files.catbox.moe/eeu09v.mp4
+https://files.catbox.moe/g2rsip.mp4
+https://files.catbox.moe/55yzg6.mp4
+>Mi-28 shoots down hohol drone previously reported as a failed attempt
+https://files.catbox.moe/9j8r3k.mp4
+>Geran strikes on another port, this time Izmail
+https://files.catbox.moe/g4ttyb.mp4
+https://files.catbox.moe/varkko.mp4
+>POV: Geran strike on port Reni in Odessa oblast
+https://files.catbox.moe/9at5vv.mp4
 >RU soldier flanks and engages hohol in hand-to-hand inside trench
 https://files.catbox.moe/7xwfvj.mp4
 >Double Iskander on hohol HQ near Rovnoe

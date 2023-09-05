@@ -2,9 +2,40 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->>Mumeism = 	4,792 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
+>>Mumeism = 	4,866 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
 Date/Name | Number | Comments
 ------ | ------ | ------
+『2023-09-04』 - 【PORTAL 2 CO-OP】:D with BIJOU [Z6KzayFYieI]   |  004    |   
+『2023-09-03』 - 【DON DON!!】 Japan Trip Zatsu + Superchat Reading ! [idTwgcaiwvk]   |   001   |   
+『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]   |   005   | 
+『2023-08-30』 - 【!!!】 New Moom, Hoo's This_ !!! #MoomIn2023 [y_L2geW9jOs]   |  006    |   
+『2023-08-18』 - 【HOLOCURE】Just One More Game !!! [3q8gYNHec1A]   |  001    |   
+『2023-08-13』 - 【HOLOCURE】Early Moom Gets The Update !!! [5kEVYZ307sY]   |  000    |   
+『2023-08-12』 - 歌枠 but Mumei sings songs she doesn't know very well with a cold [w241Wd4asJE]   |  000    |   
+『2023-08-11』 - 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! [ds1_32tfVUc]   |   009   |   
+『2023-08-07』 - 【TASTE TEST】 Trying Japanese Snacks !!! お菓子の試食 [uTavTLA9Oac]   |   000   |   
+『2023-08-06』 - 【SUPERCHAT READING】 Birthday Don Dons !! [ueLwXe5zK_A]   |   000   |   
+『2023-08-05』 - Premiere - 「Cover」Stellar Stellar - Nanashi Mumei [ql0cz-62ff0] | 000   | 
+『2023-08-04』 - 【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! #itsMeiBday [YAcX5PdvJYc]   |  006    |   
+『2023-07-30』 - Oh hi oh  (Take 2) [UzfFsdq4aGI]   |   001   |   
+『2023-07-26』 - 【ULTIMATE FISHING SIMULATOR】Summer Fishing !!! [cDCvWOJWUTc]   |  000    |   
+『2023-07-25』 - 【OFF COLLAB】Manager Bae and Manager Mumei [lt-SM0UiUxc]   |  000   |   
+『2023-07-22』 - Oh Hi ... Oh ! I'm In Japan !! [-6e7m8CQbow] | 000 | 
+『2023-07-14』 - 【BEEGsmols COLLAB】CouncilRyS Gaming + ANNOUNCEMENT! [r1KUcTmKofA]   |  010    |   
+『2023-07-13』 - 【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols [8t0qNLSGpNo]   |  001    |   
+『2023-07-11』 - 【MEMBERS ONLY】MORE ANCIENT ALIENS Watch-Along [Vra5lyXKeGw]   |   000   |   
+『2023-07-07』 - 【THE GETTING OVER IT TRIALS】 Moomsuke's Moomin POV [mUSK15Pn62k]   |  001    |   
+『2023-07-03』 - 【HOLOLIVE CONNECT THE WORLD】Hoomans Gather Here To Moom !! #hololiveENconnect [XvgLxON_u5w]   |  005    |   
+『2023-07-01』 - Peace Love Moom [lirlhV8zSnY]   |  000    |   
+『2023-06-29』 - 【SUPERCHAT READING】 Don Don For A Don Don [_vdizqxmTu8]   |   001   |   
+『2023-06-29』 - sleepy moomin [w805ry9vfss]   |   007   |   
+『2023-06-25』 - 【MEMBERS ONLY】ANCIENT ALIENS Watch-Along [FUz9XN_JiyQ]   |    003  |   
+『2023-06-24』 - 【歌枠 KARAOKE】It's Been 3 Whole Months !!! [Rr_-RE2TV8M]   |   001   |   
+『2023-06-23』 - It's Me, Your Owl, Nanashi Mumei ! [xKpGYBAUWao]   |  004    |   
+『2023-06-11』 - 【FREE CHAT】A Place To Moom [stXoyjFrVY4] | 007
+『2023-05-29』 - 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! :D [RzgBF2XsT8k]   |   001   |   
+『2023-05-21』 - 【MEMBERS ONLY】Drawing in Silence ! :D [teU_PoMO6Gc]   |  000    |   
+『2023-05-20』 - 【GARTIC PHONE_ HoloJP + HoloEN 】I speak through my art ~ [Bo686D933Sc]   |  000    |   
 『2023-05-17』 - #2【THE LEGEND OF ZELDA_ TOTK】After I jump off this floating rock I can be with the princess, right_ [o57Tl_qW9sQ] | 000
 『2023-05-16』 - 【VALKYRIE CONNECT】Kronii and Mumei in-game__ Play with us! #HoloConnect #ValkyrieConnect #sponsored [rzTWlwjCckQ] | 002
 『2023-05-14』 - #1【THE LEGEND OF ZELDA_ TOTK】Now I can be with the princess forever, right_ [4HorWuO93U4] | 003
@@ -80,7 +111,7 @@ Date/Name | Number | Comments
 『2022-12-13』 - 【MEMBERS ONLY】A Place Further Than The Universe - PART 2 [ZoIDVbRj38I]    |   000 
 『2022-12-12』 - Mumei Learns New Words and Phrases [B6QjT5BAj9I]    |    007
 『2022-12-11』 - 【GETTING OVER IT】 On My Own, In My Lonesome​ [hDeObqjP21g]    |    000
-『2022-12-10』 - 【POKÉMON VIOLET】Shiny Hunt ~ GOING FOR GOLD _D [dNk4QVt89bc]    |    002 | 35 - if you include username
+『2022-12-10』 - 【POKÉMON VIOLET】Shiny Hunt ~ GOING FOR GOLD :D [dNk4QVt89bc]    |    002 | 35 - if you include username
 『2022-12-07』 - 【歌枠 KARAOKE】JP SONGS ~ 日本語で歌ってみる ! [PpsZjdkMoxo]    |    001
 『2022-12-06』 - 【MUMEI'S GAME NIGHT】Crosswords n Trivia ! ~ [FAAOliSDZUo]    |    003
 『2022-12-05』 - Premiere - doo doo doo doo doo [cLdTjcYzNAA]    |    000
@@ -114,7 +145,7 @@ Date/Name | Number | Comments
 『2022-10-28』 - 【OVERWATCH 2 】one more game [kA847T6cGqM]	|	000 - 00
 『2022-10-27』 - 【RESIDENT EVIL 7_ BIOHAZARD】daddy jacky !!! [8B1Wrlp5Prc]     |     004 - 00
 『2022-10-26』 - 【しょぼんのるきみん！】happy thoughts only [UrscwNc9Iyw]     |     005 - 00
-『2022-10-25』 - 【RESIDENT EVIL 7_ BIOHAZARD】it is my first time playing resident evil _D [4eVR2oNBSCM]     |     001 - 00
+『2022-10-25』 - 【RESIDENT EVIL 7_ BIOHAZARD】it is my first time playing resident evil :D [4eVR2oNBSCM]     |     001 - 00
 『2022-10-21』 - 【MEMBERS ONLY】Megalodon_ The Monster Shark Lives Watch-Along [C4Zv0kyLaFA]     |     000 - 00
 『2022-10-21』 - oh hi i feel better [cte06Vr0150]     |     000 - 00
 『2022-10-16』 - 【MEMBERS ONLY】late night check in [CUpdb-51Whw]     |     000 - 00
@@ -141,7 +172,7 @@ Date/Name | Number | Comments
 『2022-09-24』 - ANIMAL Tier Lists [CO2cVh1HTAQ] |  005 - 00
 『2022-09-23』 - 【HOO KNOWS】Another Stream From Nanashi Mumei [kXssLZkmpiY]  | 000 - 00
 『2022-09-20』 - 【VR】Under The Sea FIELD TRIP with (MUMEI POV)​ [BjHCnQY9QfQ]  | 000 - 00
-『2022-09-20』 - 【UNARCHIVED】some tunes before bed _D [ibS0z9N40zA]  | 000 - 00
+『2022-09-20』 - 【UNARCHIVED】some tunes before bed :D [ibS0z9N40zA]  | 000 - 00
 『2022-09-19』 - A Stream Meant For Today [hKX-mQ9KhRY]  | 000 - 00
 『2022-09-12』 - 【COOKING SIMULATOR】There's A Rat Under Her Hat!!! with @Hakos Baelz Ch. hololive-EN [qMu-VgpgTqc]  | 000 - 00
 『2022-09-11』 - 【HOLOCURE】Lvl 5 Halu CHALLENGE !! [GP_0SSBMsCo]  |  000 - 00
@@ -182,8 +213,8 @@ Date/Name | Number | Comments
 『2022-07-20』 - 【COUNCIL+IRYS】__! DEBUT [bFjuKhG2Hzc] | 012 - 00 | ![](https://files.catbox.moe/tlcka7.png) - It was used 6967 / ![](https://files.catbox.moe/k0nq59.png) - It was used 13,367 
 『2022-07-18』 - 【MINECRAFT】Ender Dragon Defeat Caught On Tape [ufLiBwJSqwo] | 005 - 00
 『2022-07-18』 - ANATOMY REVIEW with Calli + Sana + Mumei [60r1O06S4jo] | 000 - 00
-『2022-07-17』 - 【Q&A】Important Questions _D [UwEXsxFZ0dk] | 002 - 00 
-『2022-07-16』 - 【MEMBERS ONLY】oh hi _D [DDxusDp_kx8] | 002 - 00
+『2022-07-17』 - 【Q&A】Important Questions :D [UwEXsxFZ0dk] | 002 - 00 
+『2022-07-16』 - 【MEMBERS ONLY】oh hi :D [DDxusDp_kx8] | 002 - 00
 『2022-07-15』 - Mumei Draws HOLOLIVE #4 [bf-Qm5KZ_Wo] | 001 - 00
 『2022-07-15』 - 【OVERWATCH 2 】jk APEX [r6y4nEftQE0]  |  000 - 00
 『2022-07-11』 - Variety Mumei Stream [zDo7a_t4rAo] | 000 - 00
@@ -260,7 +291,7 @@ Date/Name | Number | Comments
 『2022-03-14』 - 【DOOM ETERNAL】Reddy Shreddy [ZC54FGrBqEc] | 247 - 01
 『2022-03-13』 - 【MEMBERS】Let's Talk About Songs to Cover! [HUmubap39EM] | 000 - 00   
 『2022-03-12』 - 【UNO】IT'S TIME TO D-D-D-DUEL ! ft. Ina, Gura, Mumei and Bae [i3LGQfRa6Kg] |  001 - 00 
-『2022-03-12』 - 【JUMP KING】Jumping At My Own Pace _D #HoloJump [H_UAcvifPos] |   005 - 00
+『2022-03-12』 - 【JUMP KING】Jumping At My Own Pace :D #HoloJump [H_UAcvifPos] |   005 - 00
 『2022-03-10』 - not karaoke [YxaVAjW2uVw] |   062 - 00
 『2022-03-10』 - 【KARAOKE】PRACTICE ! 日本語で歌ってみよう ! ~ [cKwLKXgdl-M] |   001 - 00
 『2022-03-08』 - New Home, Who's This_ [h9cEKzLWA4I] |   000 - 00
