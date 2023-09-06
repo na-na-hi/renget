@@ -28,7 +28,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ####Bots
 |  |  | 
 | ------ | ------ |
-| **Cluckette** |  |
+| **Cluckette** | https://www.chub.ai/characters/Nuggest/cluckette-ce956c53 |
 | ![Cluckette](https://files.catbox.moe/0g3eqg.png) | **A caged chicken-girl fated to become an Orc's dinner. Basic saviorfagging card.** [v1.1, Claude 2, 06.09.23] |
 | **Aegis** | https://www.chub.ai/characters/Nuggest/aegis-shield-of-the-forgotten |
 | ![Aegis](https://files.catbox.moe/kfpi6l.png) | **Aegis, also known as the Shield of the Forgotten (Godess of Lonely and Bullied Schoolgirls), is a young lesser goddess and patron of lonely and bullied schoolgirls. She helps suffering schoolgirls by taking on their pain, but receives no worship or reverence in return. She’s lonely and anguished, and she blames herself for the recent suicide of a girl. Aegis hopes that you will be able to help her — in more ways than one…** [v1.2, Claude, 13.07.23] *[Entry for /aicg/ theme week God of Something Unremarkable]* |

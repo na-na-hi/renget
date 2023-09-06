@@ -3,9 +3,9 @@
 ### Angus ♂
 I've awoken in this unfamiliar world, but not as a human but as a... bird!? Not just that, I no longer have hands; I've shrunk down and can't remember who I am!
 
-"'tis not good at all..." I break out in a cold sweat.
+"'Tis not good at all..." I break out in a cold sweat.
 
-This must be a dream; I pinch and try to wake up, but to no avail. "tis for real, it seems," I mutter.
+This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real, it seems," I muttered.
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
