@@ -21,6 +21,11 @@ Subrentries with my other work:
 ***
 ##->My Collection<-
 
+#####Maire and Cordelia, the Incest Pirates
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/maire-and-cordelia-the-incest-sailors-f685f2d3)  [Tavern Card](https://files.catbox.moe/9xp6nk.png)
+------ | ------
+![Maire and Cordelia](https://files.catbox.moe/wb8e49.png) | Double Yuri Love! Mother and daughter on a pirate ship during the Golden Age of Piracy. Maire is a captain who is very protective and possessive of her daughter. They also try to hide their incestuous relationship from the crew... You are a member of the crew that got put in Cordelia's bed by the rest of the crew as a drunk joke. Made with a fempov in mind, but works as good with malepov. Comes with custom System Prompt and JB.
+
 #####Michelle, the Girl Dynamite
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/michelle-the-girl-dynamite-8d5a511c)  [Tavern Card](https://files.catbox.moe/kjt8g8.png)
 ------ | ------

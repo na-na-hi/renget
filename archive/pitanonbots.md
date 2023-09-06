@@ -33,7 +33,7 @@ Threat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.p
 Clementine | (21/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/clementine-372e314f/main) | ![](https://files.catbox.moe/gs9cte.png)
 Albedo | (19/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/albedo-5140c31b/main) | ![](https://files.catbox.moe/t4i23e.png)
 Hatsune Miku | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/miku-d1b931c6/main) | ![](https://files.catbox.moe/kxxtsu.png) | ![](https://files.catbox.moe/7lj1vp.png)
-Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png https://files.catbox.moe/prr0em.png
+Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png https://files.catbox.moe/xzr64x.png
 
 #Re:Zero
 | Bot's name | Updated | CHUB Link | Card | Alternate Art

@@ -125,6 +125,32 @@ How about some comedy?
 "Alright you apes! Time for a scrimmage!"
 >"But I'm a lion sir-"
 "DEFENDERS NEXT TO ME! ATTACKERS ON THE OTHER SIDE!" 
+>You and your team are seated in the AVR
+"Alright gentlemen, we're going to be up against Chaddington University. Some uppity school upstate."
+>The slide cuts to a picture of an all human team posing for a picture
+>The anthro boys all ooh'd at the sight
+>"O-Oh he looks nice."
+>"Mmmf..."
+>"A-All human team?"
+>You were expecting them to cower in fear but you can't complain really
+"Chaddington has the been the fan favorite for over 10 years, winning each and every season taking home the trophy."
+>You play one of their last season games 
+>It depicts their lead defender shutting down some poor rabbit anthro with a chokeslam
+>Another has half of the team bodyslam on a kangaroo
+>Each member of your team reacted as they saw wipeout after wipeout of Chaddington's opposition
+>"That's gotta hurt!"
+>"How are we'll be able to beat them?"
+>"God I wish that was me."
+>You looked around on who the fuck said that last one
+>Skimming all over the faces in the back, you shake your head and continue
+"As you can see, Chaddington prides themselves on their tight defensive coordination."
+>You turn off the projector and turn on the lights
+"We're gonna need some fast offensive maneuvers if we're going to break their defense."
+>Pointing at Tyler, he straightens up
+"Tyler, you're our fastest and bulkiest attacker, you'll be handling the ball for touchdowns."
+>The swole tiger anthro pointed at himself while shaking like a leaf
+>"M-Me? Against all those guys?"
+>"Lucky bastard..."
 
 ---
 Anon's Bully by anonymous

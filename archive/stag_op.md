@@ -7,6 +7,7 @@
 https://store.steampowered.com/app/1716740/Starfield/
 
 \>>>News<<<
+\>06/09: Game is officially released out of Early Access!
 \>03/09: Starfield Script Extender is out: https://www.nexusmods.com/starfield/mods/106
 \>01/09: Early Access now available! Full release on September 6th.
 **[Update when appropriate - insert new items at the top and use DD/MM]**

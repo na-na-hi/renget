@@ -5,18 +5,18 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** ~~**Stheno-l2-q4 scaled to 8k**~~
+**Model:** **Stheno-l2-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://finished-craps-shakespeare-occasionally.trycloudflare.com```
 
 ***
 **System prompt:**
 ```
-### Instruction: Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
+Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
 ```
 
 **Sequences:**
-Input Sequence: ` ### Input:`
+Input Sequence: ` ### Instruction:`
 Output Sequence: ` ### Response:`
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
@@ -29,13 +29,13 @@ Unlock context size (in ST)
 Context: 8192
 New Tokens: 320 - optimal for 13b llamas, use "Continue" button if the reply gets cut off
 Temperature: 0.7 - 1
-Rep. pen: 1.05 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
+Rep. pen: 1.1 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: 2048 - how many previous tokens to scan for repetition
 Top_p: 0.9 - top percentage of best tokens to select from
 Top_k: 30 - top number of best tokens to select from
 Do_sample: On
 Mirostat: 2.0 - mirostat mode
-Mirostat Tau: 4.0 - 4.2 - dynamically adjust the value of top_k to meet the perplexity defined by this value
+Mirostat Tau: 4.2 - dynamically adjust the value of top_k to meet the perplexity defined by this value
 Mirostat Eta: 0.4 - learning rate
 ```
 

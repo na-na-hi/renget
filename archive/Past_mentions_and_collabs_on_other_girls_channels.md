@@ -110,7 +110,7 @@
 |22/08/2023|[Nerissa's POV ](https://www.youtube.com/watch?v=XGuQDiwqbeU)|Unofficial HoloAdvent Group Collab (with [FWMC](https://www.youtube.com/watch?v=rWDT9vLpTvM), Shiori & Bijou) on Terraria|
 |25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
 |01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
-|06/09/2023|Nerissa's POV| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
+|06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
 |08/09/2023|Link| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel

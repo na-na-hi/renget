@@ -410,15 +410,45 @@ Damage Dealt/Received | Damage Recoiled/Reduced
 
 *Not all Moves are as strong as others, but sometimes, quantity may beat quality.*
 
-These are Moves capable of hitting a single target multiple times at once. Multi-Hit Moves only apply the User's damage modifiers once, and each hit has its damage decreased by the Opponent's Defensive Stats.
+These are Moves capable of hitting a single target multiple times at once, such as Fury Swipes. Multi-Hit Moves are treated a bit differently as opposed to how they are in the mainline Pokemon games. Unlike most Moves, Multi-Hit Moves use *damage dice* in place of BP, meaning a Player will roll the Move's respective damage die a certain number of times, with the sum of said rolls being the resulting damage.
 
-Multi-Hit Roll |  Multi-Hit Roll (Tamper Scarf) | Multi-Hit Amount (15BP) 4AP | Multi-Hit Amount (25BP) 5AP
- --- | --- | --- | ---
-Rolled 2  | *N/A* | Move lands 1 hit (1BP) | Move lands 1 hit (2BP)
-Rolled 3-7 | Rolled 2-5 | Move lands 2 hits (2BP) | Move lands 2 hits (5BP)
-Rolled 8-16 | Rolled 6-12 | Move lands 3 hits (4BP) | Move lands 3 hits (7BP)
-Rolled 17-18 | Rolled 13-16 | Move lands 4 hits (6BP) | Move lands 4 hits (9BP)
-Rolled 19-20 | Rolled 17-20 | Move lands 5 hits (8BP) | Move lands 5 hits (12BP)
+Multi-Hit Moves, similar to Room-Hitters, do **not** accept Offensive Stats directly. Instead, **for every 4 Stat Points** in either Offensive Stat (Attack or Special Attack, whichever applies to the Move), **an extra damage die is added** to the Move's respective **damage dice**. The most common damage dice are D8, and D10, with niche cases excepted. 
+
+Depending on external factors, the damage of these Moves, like all Moves, may be increased or decreased. Here is how such cases are handled.
+ - **Type Effectiveness** affects the final damage number as normal.
+ - **Attack** and **Special Attack** increases and decreases affect the final damage number as normal.
+ - **Defense** and **Special Defense** affect the final damage number as normal.
+ - **STAB** affects the final damage number as normal.
+ - **Critical Hits** *cannot occur naturally* without the use of Laser Focus or Items which guarantee a Crit.
+ - Multi-Hit Moves, in spite of their name, are treated as **1 Attack** mechanically.
+ - When Burned, only **1** damage die can be used, *regardless* of Offensive Stats. However, Tamper Scarf functions as normal.
+ - Opponent Evasion increases and User Accuracy decreases all decrease the final damage number by 1 for each Stage. 
+
+##### Triple-Hit Moves
+
+*If neither quantity nor quality are enough, perhaps a greater gamble will be adequate.*
+
+Some Moves which hit multiple times, such as Triple Axel, are different from traditional Multi-Hit Moves. These Moves function differently from normal Moves, and have more in common with Multi-Hit Moves, but have a few key differences which set them apart.
+
+Multi-Hit Moves, similar to Room-Hitters, do not accept Offensive Stats directly. Instead, for every 5 Stat Points in the Attack Stat, a +1 bonus to the damage and accuracy is applied, but it is done in a peculiar way.
+
+The bonus is as follows:
+Hit | 5 Attack | 10 Attack | - | - | - | - | - | - | - 
+- | - | - | - | - | - | - | - | - | -
+First | +0 | +0 | - | - | - | - | - 
+Second | +1 | +2 | - | - | - | - | - 
+Third | +2 | +4 | - | -  | - | - | - 
+
+Regardless of the bonus, damage per hit **cannot** exceed 10, and a 1 is a miss.
+
+Depending on external factors, the damage of these Moves, like all Moves, may be increased or decreased. Here is how such cases are handled.
+ - **Type Effectiveness** affects the final damage number as normal.
+ - **Attack** and **Special Attack** increases and decreases affect the final damage number as normal.
+ - **Defense** and **Special Defense** affect the final damage number as normal.
+ - **STAB** affects the final damage number as normal.
+ - **Critical Hits** *cannot occur naturally* without the use of Laser Focus or Items which guarantee a Crit.
+ - Triple-Hit Moves, in spite of their name, are treated as **1 Attack** mechanically.
+ - When Burned, only **1** damage die can be used, *regardless* of Offensive Stats.
 
 #### Spread & Room-Hitter Moves
 

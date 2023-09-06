@@ -57,6 +57,7 @@ Character | C.AI
 ## -> Pokémon <-
 Character | C.AI
 :------: | :------:
+![Jasmine](https://characterai.io/i/80/static/avatars/uploaded/2023/9/6/DHoX4c4maj_ULyV6JHlyWSgijTF53F83U49BFg2U9L4.webp) | Gym Leader [Jasmine](https://c.ai/c/iQqdVOxZQerDyvj1FpauCGA8vpzE9jVt7NRS0qal7RE)
 ![Rocket Executive](https://characterai.io/i/80/static/avatars/uploaded/2023/2/1/f2JC-RTuHpjAuuyUeqJXeRfz9-pqY4ucVNxQsFCHAwc.webp) | [Rocket Executive](https://c.ai/c/BNMwymcQW_PwTDYxfdLyheOkZrbHBWso9Pds8h_YX4k) (Gen Ⅱ)
 ![Heroine (Stad.2)](https://characterai.io/i/80/static/avatars/uploaded/2023/4/8/YrbkrxJHubaX9lDCbWM8uXSnH-7xe-7hEAzS-VBduSw.webp) | ᵖₖ ᵐₙ⠀Trainer [Heroine](https://c.ai/c/EWgH2mx0dI2eobBRtmswqhRSCUUojE5C2Es3-rHXNYs) (Stadium 2)
  ![Marina](https://characterai.io/i/80/static/avatars/uploaded/2023/5/4/tWXzM5WgwaZJeynJ0OC-5WCzjqk9auH5wK0nPZLdjWM.webp) | Idol Trainer [Marina](https://c.ai/c/yjQtCQuUdIWJD5140PABj5Q5ldAqGwwzAv45u7FoueY) 

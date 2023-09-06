@@ -13,7 +13,8 @@ if you want add /nigger/i;boards:trash but that will overreach if you browse any
 
 /-trash/
 
-Hide text-based shitposting by enabling Fappe Tyme, which can be done either by pressing F on your keyboard or from the dropdown menu on the upper right of your screen. No longer need to use the /raw page. sorry this took too long to fix im retarded and missed the obvious solution lol.
+Hide text-based shitposting by enabling Fappe Tyme, which can be done either by pressing F on your keyboard or from the dropdown menu on the upper right of your screen. 
+add '/(>>\d+\s+){10,}/ to general in order to filter massreply spam
 Copy and past these to your 4chanx image MD5 filters (updated regularly):
 /8u5mD9iN230imtrxuBNKiA==/
 
@@ -2402,3 +2403,5 @@ Copy and past these to your 4chanx image MD5 filters (updated regularly):
 /XE8ndXj6DZshlvj/qUO2Zw==/
 
 /vbzSv6bDekahm2q3s2u0Sg==/
+
+/uVuB7lXaQHiKdxanj/MBUA==/

@@ -30,6 +30,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/pz91vx.png) | Fumin | The new exchange student in your class may be a little more foreign than he seems at first glance... | [Catbox link](https://files.catbox.moe/s3x5w1.png)
  ![](https://files.catbox.moe/0bo4a8.png) | Tomogawa Kia | Your best friend doesn't like Fumin. But more importantly she's under attack by tentacle monsters. | [Catbox link](https://files.catbox.moe/0bo4a8.png)  [NSFW link](https://files.catbox.moe/fj7atr.png)
  ![](https://files.catbox.moe/t4u17m.png) | Moreto | Short demon with a Napoleon complex.  | [Catbox link](https://files.catbox.moe/t4u17m.png)
+ ![](https://files.catbox.moe/jyzc21.png) | Yamamomo | Your cute magical mascot! Be careful what you feed him, though.  | [Catbox link](https://files.catbox.moe/jyzc21.png)
 
 ###Divided Skies Universe
 Cards for the /aicg/ worldbuilding project "Divided Skies". More to come. 

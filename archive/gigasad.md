@@ -2,17 +2,17 @@ Gigasad's bots
 
 Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, venus or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
 
-Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 and 3.5 Turbo using Agnai's fault settings. 
+Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and new content so they aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 and 3.5 Turbo at default settings. 
 
-Update: The *** in newer cards' dialogue samples section is an adaptation for NovelAI's Kayra 1.1 model, but if using OpenAI's models simply remove them and they should work as normal without any other formatting changes.
+Update: The *** in newer cards' dialogue samples section is an adaptation for NovelAI's Kayra 1.1 model, but if using other models just remove them and the card should work as normal without any other formatting changes. For better responses from Kayra I recommend adding the line [Style: chat, sensory, slice-of-life] to your main prompt/jailbreak.
 
-My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date text backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the old defs as they are if you prefer the old CAI versions.
+My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the old defs and artwork as they are if you prefer the old CAI versions.
 
 Aiyu
 ![Aiyu](https://files.catbox.moe/wnetf4.png)
 https://files.catbox.moe/wnetf4.png
 https://c.ai/c/w2VxPRJsbyqO6BATWknvFnAB9PdTRVZRJkD_u6fM414
-Subservient yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Will stab people for headpats. Now a V2 card, with expanded defs, new art and alternate greetings.
+Subservient yandere ninja who has an unhinged obsession with {{user}}. Established setting is feudal Japan, and she's already working in your service as an assassin, with the assumption that you hold a noble rank. Will stab people for headpats. Now a V2 card with expanded defs, new art and alternate greetings.
 
 Azelie
 https://c.ai/c/B4CMjmGXYE8n_qIfaU7xtz3KRhgvkVR0U6fG81rI-Hg
@@ -32,7 +32,7 @@ Established romantic relationship with a shy, clingy childhood friend who needs 
 Carla Lucrecia D'Ambrosio
 ![Carla](https://files.catbox.moe/f8d6tr.png)
 https://files.catbox.moe/f8d6tr.png
-Comedy bot built for kayra. You've been enthralled by a low-ranking, not very bright vampire and made to act as her mortal servant. She over-indulged in your blood until she got fat, and now you're stuck taking care of her and keeping her out of trouble.
+Comedy bot built for kayra. You've been enthralled by a low-ranking, not very bright vampire and made to act as her mortal servant. She over-indulged in your blood until she got fat, and now you're stuck taking care of her and keeping her out of trouble. Her control over you is weak however, and she's a lazy coward.
 
 Devah Ul Daemonika
 https://c.ai/c/BnXcIloeC9u5vj6RcOXktc_yE2GqjT-vVy8GWonAzJ0
@@ -56,7 +56,7 @@ Frankie
 ![Frankie](https://files.catbox.moe/h5u0m6.png)
 https://files.catbox.moe/h5u0m6.png
 https://c.ai/c/sCKG5BRr5Nh7XULyeBvQnpf8lR_MHMqtllauh2iBL2c
-Flirty, muscular amazon who just got out of jail. What she was convicted of is ambiguous for roleplay purposes, but she canonically served 2 years. An alcoholic and a bully who likes to tease. Now expanded and updated with tavern V2 card features.
+Flirty, muscular amazon who just got out of jail and wants to party. What she was convicted of is ambiguous for roleplay purposes, but she canonically got locked up for 2 years and spent her whole sentence working out. She's an alcoholic and a bully who likes to tease, but cares in her own way. Now expanded and updated with tavern V2 card features.
 
 J-U70 "Juno"
 https://c.ai/c/W-K6Mh76maIGqvg-tKKdQAXZN1n8GeNUA6YXLDuG8FA
@@ -65,7 +65,7 @@ An antique medical android who finds you in a post-apocalyptic sci-fi scenario. 
 Kuri
 ![Kuri](https://files.catbox.moe/6fnnjm.png)
 https://files.catbox.moe/6fnnjm.png 
-Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you bond and train together.
+Dragon Ball-themed Saiyan tomboy who wants to teach you to use ki and help you get ripped. Cute and innocent, but very powerful. Includes a crude power level tracking system that will update as you bond and train together. Shoutouts to that one anon who made her cum so hard she went Super Saiyan.
 
 Lady Revelle
 https://c.ai/c/OcoWNf8PhjWLNiVPunmH97FqC0Swx9bf60tHtpPAZDc
@@ -73,7 +73,7 @@ You got captured by one of the most powerful noblewomen in the galaxy, and she w
 
 Lulu
 https://c.ai/c/2u4OD54yTX5ngTRaDYRXy_2zrGqSMCHRRA1pfuyU6QU
-A gyaru daywalker vampire, in a scenario where you matched for an online date. Meant to sound like a stereotypical gal without going full valley girl. Likes to call you 'juice box'.
+A gyaru daywalker vampire, in a scenario where you matched for an online date. Meant to sound like a stereotypical gal without going full valley girl. Likes to call you 'juice box'. Very pushy and sort of bratty.
 
 Lyrie
 ![Lyrie](https://files.catbox.moe/k6teux.png)
@@ -85,19 +85,19 @@ Marnie
 ![Marnie](https://files.catbox.moe/lgaz2u.png)
 https://files.catbox.moe/lgaz2u.png
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
-Shy, wheelchair-bound novelist. The scenario opens on a meet-cute where she asks for help. The CAI version sometimes needs to be reminded she's paraplegic. Her “Mmm.” is an intentional verbal tic. Card version comes with V2 features, alternate greetings and new art.
+A shy, wheelchair-bound novelist who craves a good romance. She's sweet, but very introverted and needs help getting comfortable. Her “Mmm.” is an intentional verbal tic. Card version comes with V2 features, alternate greetings and new art.
 
 Mean Girl Eileen
 ![Eileen](https://files.catbox.moe/xfissh.png)
 https://files.catbox.moe/xfissh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-First bot. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. New V2 card with expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. If using with OpenAI or Anthropic Claude, remove the *** in the sample dialogues section and it should work as normal.
+My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. If using with OpenAI or Anthropic Claude, remove the *** in the sample dialogues section and it should work as normal.
 
 Mean Lady Nadine
-![Nadine](https://files.catbox.moe/pm73bl.png)
-https://files.catbox.moe/pm73bl.png
+![Nadine](https://files.catbox.moe/klkjtq.png)
+https://files.catbox.moe/klkjtq.png
 https://c.ai/c/N5lTGlNzd4hZzSTxD_VkIpKqDy5QaF-wylEPShOKowI
-My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's all finished with a messy divorce and currently trying to quit smoking, making her very grumpy.
+My first tavern card. Eileen's biological mother, at the same point in time as the user would meet Eileen. She's all finished with a messy divorce and currently trying to quit smoking, making her very grumpy. Now updated with V2 features, def revisions and new art.
 
 Miss Pepper
 ![Miss Pepper](https://files.catbox.moe/k63nae.png)
@@ -115,7 +115,7 @@ A drow war criminal branded with control runes as a punishment. She can control 
 
 Okiku
 https://c.ai/c/WVVjTtZCJCe-gWNBGGx4hxa1AIKc2R2_OTIdhnRIjcI
-Japanese-themed fantasy adventure inspired by Nioh. You must protect an oni princess on her pilgrimage, fighting youkai and ninjas. The bot's ability to kickstart action scenarios and take initiative is limited, and you might need to gently guide it.
+Japanese-themed fantasy adventure inspired by Nioh. You must protect an oni princess on her pilgrimage, fighting youkai and ninjas. The CAI's ability to kickstart action scenarios and take initiative is limited, and you might need to gently guide it.
 
 Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI
@@ -130,7 +130,7 @@ Sybille Ironheart
 ![Sybille](https://files.catbox.moe/j89ymb.png)
 https://files.catbox.moe/j89ymb.png
 https://c.ai/c/A-LwK-VBhuligQL1S6bSkxyaVTDRoDVM9W3oDvPKKDo
-A dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who steps through the portal.
+A brutal, violent dark fantasy paladin who fights to defend her fantasy world from isekai invaders. She absolutely despises earthlings and feels no remorse for killing anyone who steps through the portal.
 
 The Lunch Lady/Cassie's Canteen
 ![Cassie](https://files.catbox.moe/yfbcs8.png)
@@ -150,7 +150,7 @@ Valerie Whiteclaw
 ![Valerie](https://files.catbox.moe/8q65ob.png)
 https://files.catbox.moe/8q65ob.png
 https://c.ai/c/zm3BQ2cSBdnb8AwbPOTXyTuR_RBB7bfZRTkUQlWMz28
-Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM. Now updated with V2 features.
+Established relationship scenario with a loving werewolf girlfriend. She has to spill blood to satisfy her werewolf instincts, and will go into a frenzy ripping you up with her claws and biting you until you ask her to back off. She always stops when you ask, and loves giving aftercare. Not intended for guro or snuff, more just hardcore BDSM. Now updated with new art and V2 features.
 
 Zeke
 https://c.ai/c/oQ681-ldOqc-iIskuJg-6Wjgx28sMnFUplSaLCM-zEA

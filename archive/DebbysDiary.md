@@ -40,3 +40,5 @@ Well, we had to scramble to get it all back of course. Went off without a hitch,
 When I made a special delivery to the Clover Guild today, I bumped into Togetic for the first time! A real kind and helpful fella. I heard he works in the storage, and is a really good organizer. I should ask him for help with unpackin' at home, since I never get around to it on my own. Maybe I'll even convince him to help Delibird Deliveries as part-time. 
 I saw him and a couple friends of his at the cook-off in town later as well. They seemed to be havin' fun, expect Toge looked a little miserable sittin' on the sideline. Don't think he handles crowds well, but he seemed happy to be out with his friends, and ain't that what matters at the end of the day?
 Oh! Also I got lucky with a raffle! Ain't sure what to do with a year's supply of Plain Seeds, but I'm sure there's somethin' we can do with them.
+
+>Reunion
