@@ -97,13 +97,34 @@ NAI models depend quite a bit on the quality of the input (garbage in, garbage o
 **Tags You Might Want to Try**
 *From the Discord:*
 - [ Style: atmospheric, vivid, slow-burn, visceral, sensory, immersive, advanced ]
+(recommendation in the thread: replace 'sensory' with words for each. eg: visual, auditory, tactile, olfactory, gustatory. Maybe 'smell' and 'taste' instead of 'olfactory' and 'gustatory' since those words might be too obscure/weak).
 
 - [ Genre: x; Style: stream of consciousness ]
 [ Style: slow-paced, vivid, advanced ]
 (He recommends you add a Genre to soften the effect of "stream of consciousness," since it's too strong without the genre tag).
 
+A set of generic tags for Memory and an instruct for the Author's Note:
+- [ Tags: eloquent, evocative, beautiful, visceral; Genre: fantasy; Style: advanced, ostentatious ]
+- { Continue the story using descriptive vivid narration and engaging dialogue utilizing previous character descriptions over multiple long paragraphs. }
+(Of course, you want to use **Style: chat.** This is from the NAILM guide, he's got his own preset as well).
+
 A preamble/negative CFG prompt/Preset tweaks recommended in /lmg/ yesterday:
 - https://files.catbox.moe/5m1itq.png
+```
+Try it with mirostat 3, mirostat rl 0.2 and temp 0.7 this in preamble:
+
+[ Style: great characterization, professional novel, in character, coherent, logical, reasoned, lucid, articulate, intelligible, comprehensible, complex, slow-burn, advanced, sensory, vivid, visceral, detailed, visual, verbose, realistic, authentic, introspective, pensive, prose, immersive, rational ; Tags: subtle descriptions, vivid imagery, lively banter, purposeful movement, ; Genre: Fantasy ; ]
+
+{ Maintain spatial understanding to ensure extremely realistic scenes and interactions. Write at a professional level. Stay true to canon. Accurately portray characters including their mannerisms and speech patterns. }
+
+Negative prompt:
+
+[ Style: tropes, bland, poor characterization, summary, ; ]
+
+[ Style: logical error, illogical, incoherent, unintelligible, inarticulate, incomprehensible, out of character, omnipresent, omniscient, summary, forum post, article, OOC, ; ]
+
+{ Stray from canon. Inaccurately portray characters. }
+```
 (I recommend you add Style: chat if you're going to use it)
 
 ##Part 3: My Thoughts and Preferences
@@ -144,5 +165,6 @@ I think that should do it. I'll update if new information comes out, or if anons
 Thanks for reading!
 
 ##Changelog
+5 Sep: bit more discord stuff.
 4 Sep: read some stuff on CFG, plus added recommended settings from /lmg/. Still have no idea how to use it, but I'll share the screenshots I saw.
 21 Aug: No longer WIP. Added illustrations and rewrote from the ground up. (Prior, WIP version here for posterity's sake: https://rentry.org/896hi)

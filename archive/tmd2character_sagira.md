@@ -1,9 +1,13 @@
-![Warlock in the making.](https://cdn.imgchest.com/files/my8xcgxbwn4.png) 
+-> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
+->![Warlock in the making.](https://cdn.imgchest.com/files/my8xcgxbwn4.png)<-
 
-### Sagira ♀
-Eyes up, guardian. 
+### ->Sagira ♀<-
+->Eyes up, guardian.<-
 
-Your head is not all that it seems to be. There's two lives there, you think. Now there's three. A world before the dark, and another drenched in it, with only the dimmest of lights to guide you through. You do definitely remember having hands, though. But whatever trials and tribulations, you know the solar light still burns bright within you. It can't be anything else, can it?
+->*All you have left is your mind. And, all things considered, that's not too bad.*<-
+->–Bond of Refuge<-
+
+->Your head is not all that it seems to be. There's two lives there, you think. Now there's three. A world before the dark, and another drenched in it, with only the dimmest of lights to guide you through. You do definitely remember having hands, though. But whatever trials and tribulations, you know the solar light still burns bright within you. It can't be anything else, can it, o' wanderer mine?<-
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** N/A

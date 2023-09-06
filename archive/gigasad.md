@@ -29,6 +29,11 @@ https://c.ai/c/_1QpY2V0w-mtkSyBH0tVU_cmnITcnmHgBVP2s4zsBr0
 https://files.catbox.moe/2ruvf2.png
 Established romantic relationship with a shy, clingy childhood friend who needs your support to help deal with severe anxiety. All of her senses are enhanced due to a rare neurological condition. Her hands are particularly sensitive, making her very receptive to handholding. Now upgraded to a V2 card with support for NAI Kayra.
 
+Carla Lucrecia D'Ambrosio
+![Carla](https://files.catbox.moe/f8d6tr.png)
+https://files.catbox.moe/f8d6tr.png
+Comedy bot built for kayra. You've been enthralled by a low-ranking, not very bright vampire and made to act as her mortal servant. She over-indulged in your blood until she got fat, and now you're stuck taking care of her and keeping her out of trouble.
+
 Devah Ul Daemonika
 https://c.ai/c/BnXcIloeC9u5vj6RcOXktc_yE2GqjT-vVy8GWonAzJ0
 Ancient witch who mutates and rearranges your flesh into a living sculpture. Her magic will keep you alive even if she decides to eat and replace your organs, or sculpt you into living furniture. Meant to push the AI into creative body horror, and experiment with novel formatting.

@@ -3,7 +3,7 @@
 [TOC]
 
  ## What even is NovelAI?
-  NovelAI is a company that provides generative AI models for the purpose of open-ended creative expression, with a focus on user privacy. NovelAI's text generation, which this guide focuses on, is uniquely fine-tuned for storytelling. Unlike many other AI platforms, NovelAI does not utilize instruct models through a chat interface (such as chatGPT) by default. Instead of engaging with the AI in a back and forth between the User and the AI, the AI generates text as a continuation of the text provided rather than as a separate response to the text.
+  NovelAI is a company that provides generative AI models for the purpose of open-ended creative expression, with a focus on user privacy. NovelAI's text generation, which this guide focuses on, is uniquely fine-tuned for storytelling. Unlike many other AI platforms, NovelAI does not utilize instruct models through a chat interface (such as chatGPT) by default (though support has been added to make use of instructions when prompted). Instead of engaging with the AI in a back and forth between the User and the AI, the AI generates text as a continuation of the text provided rather than as a separate response to the text.
 !!! note Differences
 	**chatGPT (Instruct)** = *"Write me a story about birds."*
 	**NovelAI (Text completion)** = *"The bird fluttered down from the tree, landing on the ground with a"*
@@ -11,14 +11,7 @@
 	As you can see in the example, text-completion models are prompted by example rather than by explicit instructions. The text completion model will continue where the text ends, utilizing your prompt's setting, tone, and style as it writes. It's helpful to think of text-completion AI models as your co-author writing alongside you rather than as a digital assistant waiting for directions.
 
 !!! warning Instruct Support Update
-	As of 7/28/2023, NovelAI has added support for instruct-type interactions with the AI. Here's a snippet of the announcement:
-	>**Instruct**
-	>Instruct is a long awaited and often requested feature. Now it is available as a module! Just enter your instruction on its own line surrounded by curly 	braces and have the model respond to your request.
-	>Future iterations of this module are likely as we are actively looking for ways to improve it.
-
-	>**Instructions without the module**
-	>You can now use instructions without the Instruct module selected anywhere! 
-	>When you use a command, generation will swap to the Instruct module momentarily (for about 1000 characters), letting you use the occasional instruction without having to switch modules.
+	As of 7/28/2023, NovelAI has added support for giving direct instructions to the AI by using special symbols { }, which you can mix in with the usual text-completion defaults. This guide includes a section covering how to use it.
 
 With NovelAI, you have complete control over the whole process. All of the text is available for you to edit, the models are uncensored, your data is encrypted in a way that prevents even the company itself from seeing it, and everything is customizable. Though the AI models were trained to excel at storytelling first and foremost, they're also capable of generalizing to other modes such as text adventures and character chat styles.
 
@@ -28,7 +21,7 @@ With NovelAI, you have complete control over the whole process. All of the text 
  With that said, let's break down the text gen interface and how to use it.
 
 ## Quick Start (very quick, minimal explanations)
-1. Set the model to Clio (or the latest)
+1. Set the model to Kayra (or the latest)
 2. Pick a default config preset
 3. Put ATTG in Memory. ATTG is shorthand for Author, Title, Tags, Genre. It looks like this: [ Author: George R.R. Martin; Title: A Song of Ice and Fire; Tags: dragons, politics, dynasty; Genre: fantasy ]. It gives the AI an idea of what kind of story you're writing, and what you want it to focus on. Tweak that example to match your preference, and input that into Memory.
 4. Ignore Author's Note. It's a trap.
@@ -41,15 +34,16 @@ Occupation: Administrator, Reality Television Production Company
 Wants: To win the lottery so he can retire to a tropical island
 Fear: Losing his job
 ```
-6. Don't write like a 5-year-old if you want the model to write better than a 5-year-old. It's influenced by your writing style.
-7. Have fun.
+6. Use { } to give the AI instructions, such as { Describe the room in vivid detail }. This will temporarily activate a module designed to follow instructions, unlike the base storytelling modules. This activation will last until 1000 characters after the instruction.
+7. Don't write like a 5-year-old if you want the model to write better than a 5-year-old. It's influenced by your writing style.
+8. Have fun.
 -> ![ScreenShot of Shoggy Mascot](https://i.imgur.com/fASMBkf.png) <-
 ## AI Model
-The model is the name of the AI you’re writing with. As of 07/14/2023 Clio is the best model, so just stick with her. If you are reading this and newer models are available, use the latest model that you have access to.
+The model is the name of the AI you’re writing with. As of 09/05/2023 Kayra is the best model, so just stick with him. If you are reading this and newer models are available, use the latest model that you have access to.
 
 ![ScreenShot of Clio selected as the AI Model](https://i.imgur.com/UaHyzDV.png)
 ## Config Preset
-This config preset controls a LOT of knobs and dials you can mess with that influence how the AI generates text. I do not recommend tweaking those settings as a beginner. Just stick with a preset option until you're more comfortable with NovelAI. You can select one from the drop-down, or use the default option that's already selected (Vingt-Un for Clio).
+This config preset controls a LOT of knobs and dials you can mess with that influence how the AI generates text. I do not recommend tweaking those settings as a beginner. Just stick with a preset option until you're more comfortable with NovelAI. You can select one from the drop-down, or use the default option that's already selected.
 
 !!! note User made config presets
 	There are also many user-made presets available in the discord as well. It's a completely optional extra step, but many would recommend it. You can find them in the [novelAI Discord](https://discord.gg/novelai) within the [novelai-content-sharing](https://discord.com/channels/836774308772446268/1035306005640249354) channel. If you're on desktop, it's as simple as downloading the preset then dragging and dropping the file into the NovelAI interface. The new preset should then appear as an option under the config preset dropdown menu.
@@ -90,7 +84,7 @@ This example format is fairly straightforward to get started with and should giv
 !!! note You don't have to use this exact format.
 	You don't have to use this exact format. There's no strict rule on how you fill it. You can skip categories, leave them blank, have more or less tags, mix genres, and more. The example provided is just a simple and common format to give you an idea of what ATTG is.
 
-If you want a more in depth guide on Memory and ATTG, [pume's guide](https://rentry.org/memory-guide) is excellent.
+If you want a more in depth guide on Memory and ATTG, [pume's guide](https://rentry.org/memory-guide) is a useful resource.
 
 ![ScreenShot of Memory field with ATTG](https://i.imgur.com/bt5Dbfi.png)
 
@@ -138,7 +132,7 @@ The ***keys*** I'll use for this entry are ***Bob*** and ***Boberson***.
 ![ScreenShot of Bob Boberson Lorebook Entry](https://i.imgur.com/avFu1ei.png)
 
 ## Easy Lorebook Generation
-By the way, Clio generated the lorebook entry for Bob Boberson all on her own by using the story context for guidance. The newer models are smart enough to be good at tasks like this, and I expect them to get even better post-Clio. 
+By the way, Clio (the latest model in use at the time this guide was originally written) generated the lorebook entry for Bob Boberson all on her own by using the story context for guidance. The newer models are smart enough to be good at tasks like this, and I expect them to get even better post-Clio. (Note from future me, it got even better post-Clio.)
 
 An easy way to do this is to drop the beginning format of a lorebook right into a story, the ----, a line break, and the name of the character, concept, item, etc you want the lorebook to be about. You can go a step further and put in the specific Attribute you want the AI to begin filling out as well.
 ```plaintext
@@ -165,6 +159,30 @@ Occupation: Administrator, Reality Television Production Company.
 Wants: To win the lottery so he can retire to a tropical island
 Fear: Losing his job
 ```
+
+## Instructions
+As of 7/28/2023 NovelAI added support for ***instructions*** to their latest models, giving you the option to simply tell the AI what you want it to do, rather than relying on text-completion alone. You can type in an instruction by opening a curly bracket `{` in the editor then typing the rest of the instruction. Ending it by pressing enter will automatically close the bracket behind the scenes.
+
+By default, typing an instruction will temporarily activate the instruct ***module*** (module, not model!) for the next 1000 characters, allowing the AI to follow your instruction until it's complete before returning to using the storytelling-focused default module.
+
+!!! info Modules
+	
+	A ***module*** is just the word for a specialized version of the ***model*** you're using that's better at specific things. The default is no-module, which works well across the board. You also have the option to set the module directly to instruct to have it always-on rather than only activated temporarily when instructions are found. Keep in mind that the instruction module is trained to be good at following instructions, but at the expense of being less capable of a comprehensive storyteller on its own.
+
+There are a lot of cool things you can do with instruct -- feel fry to try out whatever comes to mind. Included below is a screenshot as an example, as well as a text version of the screenshot for those using screenreaders.
+
+![ScreenShot of Kayra using instructions](https://i.imgur.com/4J6Rxvp.png)
+
+If you're using a screenreader, here's the text from the screenshot:
+```
+{ Describe a simple empty room, using evocative prose. }
+A room without furnishings is like an unadorned canvas - waiting for an artist to come and transform it into a work of art. The blank walls seem to beckon with possibilities, inviting visitors to paint a story with their imaginations. The empty floor space is a canvas of its own, calling out to be filled with furniture, carpets and rugs. And yet, the simplicity of an empty room can also be soothing, like an empty page of a book, ready to be written on.
+It is both fascinating and heartbreaking to see the bareness of a room, once filled with furniture and decorations, and know that it has been abandoned. The absence of things creates a sense of desolation, like a once vibrant life that has now faded to a ghostly hollowness.
+{ What is the meaning of life? }
+That is a complex and multifaceted question that philosophers and thinkers have grappled with for centuries. The answer may be different for each person, depending on their beliefs, values, and experiences.
+```
+
+
 ## The Mysterious Dinkus (Bonus, not essential)
 So, what was that `***` that I casually ignored mentioning in the context screenshot? That... is called a dinkus. The AI recognizes dinkuses as a signal that a new chapter is beginning, or there's a perspective swap from one character to another. It's very useful to signal to the AI that you want to do either of those things. 
 
@@ -186,7 +204,7 @@ You can do that automatically, but you have to dig through the UI a little to do
 ## Final Tip:
 Language model AIs are heavily influenced by your writing style. If you begin the story with some high quality prose of your own, the AI will pick up on your style and produce better quality prose in response. The reverse is also true -- if u type lik dis, the AI is gun b vry confzed. So try to type with decent spelling, grammar and punctuation.
 
-The exception to this is when you're intentionally creating that style for the sake of a character's accent, dialogue, humorous example, etc. AI models like Clio and later are smart enough to recognize these patterns as literary devices when you use them as such, and will immersively integrate that awareness into the responses it generates.
+The exception to this is when you're intentionally creating that style for the sake of a character's accent, dialogue, humorous example, etc. AI models like Kayra and later are smart enough to recognize these patterns as literary devices when you use them as such, and will immersively integrate that awareness into the responses it generates.
 
 ### That's the guide.
 This guide was written to give you the biggest return on impact for the minimal time taken to learn what's in it. If you want to dive deeper, here's a list of links to useful resources:
@@ -195,5 +213,5 @@ NovelAI text documentation: https://docs.novelai.net/text.html
 Pume's Memory guide: https://rentry.org/memory-guide
 Pume's Lorebook guide: https://rentry.org/lorebook-guide 
 !!! warning Pume's Lorebook Guide
-	Pume's Lorebook guide is excellent (and very opinionated), but it was written before Clio and newer models were released. Compact lorebooks are no longer as necessary as they used to be. The guide's description of attributes remains useful. Prose (text written normally) is also fine to mix in with attributes styles from my testing.
+	Pume's Lorebook guide is excellent (and very opinionated), but it was written before Clio and newer models were released. With more context to work with and smarter models understanding that context better, compact lorebooks are no longer as necessary as they used to be. The guide's description of attributes remains useful. Prose (text written normally) is also fine to mix in with attributes styles from my testing.
 NovelAI unofficial knowledge base: https://tapwavezodiac.github.io/novelaiUKB/

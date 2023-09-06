@@ -15,8 +15,11 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 [TOC3]
 
 !!! warning
-    On a hiatus. In the mood to return to the botmakie business. However, Mysteryman and Sourcegraph died just when I began writing new cards. Not in any secret club or something and do not want to return to Turbo. Currently playing with local models. -Nuggest, 04.09.23
+    On a hiatus. In the mood to return to the botmakie business. Got proxy access from a mysterious benefactor. Thanks. Still on the fence on whether I should dive back into the sewer. -Nuggest, 05.09.23
 ->![](https://files.catbox.moe/h3habt.png)<-
+!!! info
+	Updates:
+    05.09.23: Added new card 'Cluckette' under Unreleased Cards
 
 
 ***
@@ -90,6 +93,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     Pre-releases, prototypes, and scraped cards.
 |  |  | 
 | ------ | ------ |
+| **Cluckette** | https://files.catbox.moe/7bk8tz.png |
+| ![Cluckette](https://files.catbox.moe/7bk8tz.png) | **A caged chicken-girl fated to become an Orc's dinner. Basic saviorfagging card.** [v1.0, Claude 2, 05.09.23] |
 | **The Miracle Mill** | https://files.catbox.moe/iwfi0h.png |
 | ![The Miracle Mill](https://files.catbox.moe/iwfi0h.png) | **You are an omnipotent eldritch being that has arrived on a medieval fantasy world. However, you are no horror at all. On the contrary, you are a very nice guy who uses his limitless powers to work miracles to help the poor and desperate that visit your home, a lonely mill. Or do you...** [v0.1, Claude 2, 30.08.23] |
 | **Constance** | https://files.catbox.moe/f91bh6.png |

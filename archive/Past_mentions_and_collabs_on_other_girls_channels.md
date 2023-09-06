@@ -38,6 +38,7 @@
 |28/08/2023|[Impromptu collab](https://youtu.be/-AaOTmXcZ9I?t=8531) | **Impromptu collab + Streamer-chat interactions** - This HoloCure started with two streamer-chat interactions until Kiara asks Nerissa to come in VC in order to give advice on how to play HoloCure and what build to use. |
 |02/09/2023|[Timestamp #1](https://youtu.be/3eGl9V5P9Ko?t=15241) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=21110) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=24970)| **Mentions** - Kiara DM'ing Nerissa live when she discovered a bard sword and some references from her general behaviour when playing the game (horny when playing the romance parts, possible spoilers of some game parts...) |
 |03/09/2023|[Timestamp #1](https://youtu.be/vMmk20VfWgE?t=12860) [Timestamp #2](https://www.youtube.com/watch?v=vMmk20VfWgE&t=13325s)| **Streamer-chat interactions** - These interaction were made during the closing parts of Kiara's Miami Hotline 2 third stream. The first timestamp is about the findings made by Kiara during her latest solo BG3 stream and sharing it with Nerissa being in chat. The second timestamp is questioning the possibility of an offcollab with Nerissa coming to Austria due to visa changes. |
+|05/09/2023|[Timestamp #1](https://youtu.be/fzPURNCxQvM?t=12990) [Timestamp #2](https://youtu.be/fzPURNCxQvM?t=16249)| **Mentions** - During that GTA DLC stream, Kiara mentioned the Wedding collab with Ollie and the future Minecraft 1-on-1 collab. |
 |07/09/2023|Placeholder| **Collab** - Collab in Minecraft. |
 
 ###### 🐙 Ina
@@ -171,6 +172,7 @@
 |---|---|---|
 |02/08/2023|https://twitter.com/i/spaces/1MnGnpMEqXMxO - [Segment](https://files.catbox.moe/n01b0g.mp3) | **Mention** - First impressions during a twitterspace.|
 |04/09/2023|[Link](https://www.youtube.com/watch?v=1t215gusXA4) | **Collab** - Wedding with Nerissa.|
+|05/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=sTss0-q43as&t=1660s) [Timestamp #2](https://youtu.be/sTss0-q43as?t=8665) [Timestamp #3](https://youtu.be/sTss0-q43as?t=10473) [Timestamp #4](https://youtu.be/sTss0-q43as?t=11126) [Timestamp #5](https://youtu.be/sTss0-q43as?t=11509) | **Breakdown** - Most of these timestamps taken from this HoloCure stream and in its closing parts give insights about the Wedding collab and its behind-the-scenes.|
 
 ###### 🔨 Kaela
 |Date|Link|Nature & Notes|

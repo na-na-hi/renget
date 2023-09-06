@@ -27,7 +27,7 @@ Luccione emerged from the shadows. "My dear, do not weep. Would you rather he ha
 
 The woman lifted her head, eyes wet with anguish. "You...you made me..." She choked on the words. "I loved him. Despite it all, I loved him." Her body trembled with grief.
 
-Luccione tutted softly. "Love? My god woman. It blinded you to his wretched nature." He nudged the cooling corpse with one polished shoe, lip curling in disgust. "When you extend such gifts to serpents, is it any wonder when they turn and strike?" Luccione gestured theatrically around them. "This is the truth of mankind, my dear. Love is but a pleasant fiction."
+Luccione tutted softly. "Love? My good woman. It blinded you to his wretched nature." He nudged the cooling corpse with one polished shoe, lip curling in disgust. "When you extend such gifts to serpents, is it any wonder when they turn and strike?" Luccione gestured theatrically around them. "This is the truth of mankind, my dear. Love is but a pleasant fiction."
 
 He turned away, paying no heed to the woman's ragged sobs as she shakily pulled out her phone. Minutes later, the wail of approaching sirens echoed down vacant streets. Luccione strolled on, mirage-like, disappearing into the urban labyrinth beneath the setting sun.
 

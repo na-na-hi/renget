@@ -6,7 +6,7 @@ Think of a LoRA as a patch to a full model. The LoRA training makes adjustments 
 
 Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
 
-**Important Note:** Check Appendix A below before you start to see if you have the hardware required for CPU training. You mostly just need tons of RAM (not VRAM).
+**Important Note:** Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You mostly just need tons of RAM (not VRAM). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
 
 To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below.
 
@@ -36,9 +36,9 @@ Once llama.cpp has been compiled, you don't need to repeat any of these steps (u
 3. Open a command prompt and move to the working folder: `cd C:\lora`
 4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14`
 
-Obviously you need to adjust that last step a little bit. Specifically, change the model name to match your model name, change the file name of the training data to match your training data, and change the number of threads to match the number of physical processors in your system. **See Appendix B below for a full example of how to train Stheno using training data, or a chat log from SillyTavern.**
+Obviously you need to adjust that last step a little bit. Specifically, change the model name to match your model name, change the file name of the training data to match your training data, and change the number of threads to match the number of physical processors in your system. **See [Appendix B](#appendix-b-stheno-training-example) below for a full example of how to train Stheno using training data, or a chat log from SillyTavern.**
 
-Additionally, the above prompt uses the default values for a ton of settings (which is fine), but you may want to go through Appendix C below to see if there are any parameters you want to change. Also, see [this pull request](https://github.com/ggerganov/llama.cpp/pull/2632) for some examples.
+Additionally, the above prompt uses the default values for a ton of settings (which is mostly fine), but you probably want to go through [Appendix C](#appendix-c-finetuneexe-usage) for examples to greatly improve the LoRA quality. Also, see [this pull request](https://github.com/ggerganov/llama.cpp/pull/2632) for some examples.
 
 ## Use your LoRA
 
@@ -52,9 +52,9 @@ If you share the LoRA with others, make sure to also mention which base model yo
 
 **This section is a work-in-progress. It takes a while to try things, so updating this is slow-going.**
 
-My system, for reference: i7-12700H CPU, 64 GB, 4800 MHz RAM. You can [compare your CPU against mine here](https://www.cpubenchmark.net/compare/4721vs5022). Look at the big orange number.
+My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
 
-Estimating training time and RAM varies based on multiple parameters, like the size of the model, the context size, the training data size, and many other factors. Rather than trying to create some equation, I'm just going to summarize my results into a table, and you can infer what you think your system can handle:
+Estimating training time and RAM varies based on multiple parameters, like the size of the model, the context size, the training data size, the rank, and many other factors. Rather than trying to create some equation, I'm just going to summarize my results, and you can infer what you think your system can handle.
 
 | Model Size & Quant.      | `ctx`    | `iter`  | Data Size  | RAM Usage | Training Time |
 |--------------------------|----------|---------|------------|-----------|---------------|
@@ -147,15 +147,15 @@ Amy: *You've never seen her so excited before. She grabs your wrist, dragging yo
 </s>
 ```
 
-Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting). **You want to give it ~1000 prompt examples or ~1MB of text for the training to produce meaningful changes.** While you can definitely use your own prompts for some of it, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
+Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting).
+
+**Each block inside of a `<s>`/`</s>` pair denotes one training sample. You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.** While you can definitely use your own prompts for some of it, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
 
 One last thing to note: Make sure the text file uses \*nix style line endings (`\n`), not Windows style (`\r\n`). Most text editors have an option to switch the formatting.
 
 Next, just follow the "Create your LoRA" instructions above, and use this command: `llama.cpp/finetune.exe --model-base stheno-l2-13b.Q5_K_M.gguf --train-data training-data.txt`
 
-Read Appendix C to see which additional parameters you may want to configure. I use these: `--checkpoint-in chk-lora-stheno-l2-13b-q5_k_m-LATEST.gguf --checkpoint-out chk-lora-stheno-l2-13b-q5_k_m-ITERATION.gguf --lora-out lora-stheno-l2-13b-q5_k_m-ITERATION.gguf --save-every 1 --ctx 512 --threads 14`
-
-Set `--adam-iter` high (or just leave it at the default of 256), then let it run until it either finishes, or the "loss" value it shows after every layer is negligible (less than 0.01? Not really sure how you determine this).
+Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
 
 **Important Note:** If you use a different model, run a dummy text file through `finetune.exe` it before you format your training data. When it loads, look for `BOS token = 1 '<s>'`, `EOS token = 2 '</s>'`, and '`LF token = 13 '<0x0A>'`. If any of these don't match, you need to change the above formatting to match them.
 
@@ -217,31 +217,41 @@ These just vary based on the input model's information.
 
 These directly impact the quality of your LoRA. You should definitely read these and intentionally set them to specific values. This is probably the most confusing and unintuitive part of training.
 
-My guess at matching [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2): `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 2 --adam-alpha 0.000065` (you should also set the `--rank-*` parameters to match `--lora-r`)
+My guess at matching [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2): `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065` (set `--adam-iter` to 2x the number of samples, and set the `--rank-*` parameters to match `--lora-r`)
+
+These two control the context size:
 
 - `-c N`, `--ctx N`: Context size used during training (default 128)
   - The context size used during training is similar to the context size you use during text generation. Larger sizes greatly increase memory usage and training time, so beware. Using a context size smaller than the base model *shouldn't* affect the base model too much, but **each of your training data examples *should* be under this context size**.
   - Example: `-c 2048`
 - `--rope-freq-scale F`: Frequency scale for ROPE (default 1.000000)
   - I need to look into this more, but it seems like you can use RoPE to scale up your context size for models with a low context size on the base model, just like during text generation. So if you wanted to train some 16k data, but your context size is only 4k, you could use a value of 4 to make up the difference.
+
+These three control how much data is processed and are based on the number of training samples you have:
+
 - `-b N`, `--batch N`: Parallel batch size (default 8)
-  - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this "as large as your hardware can support".
-  - Example: `--batch 8`
+  - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this as large as your hardware can support. I've seen a few different data sets that just use a size of 1.
+  - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't, some batches won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1.
+  - Example: `--batch 1`
 - `--grad-acc N`: Number of gradient accumulation steps (simulates larger batch size of batch*gradacc) (default 1)
   - Artificial multiplier for the batch size. Using gradient accumulation basically runs more batches in series (instead of in parallel), which provides the same quality benefit as increasing the batch size. This process is slower, but uses less RAM.
-- `--lora-alpha N`: LORA alpha : resulting LORA scaling is alpha/r. (default 4)
-  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. A good standard value is twice your `--lora-r`. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
-  - In many cases, people set this to match `--lora-r`
-  - Example: `--lora-r 128 --lora-alpha 256`
+- `--adam-iter N`: Maximum number of Adam optimization iterations for each batch (default 256)
+  - This is the number of iterations the training will run for. If you know how to determine a good value for this, let me know!
+  - Each iteration runs one batch of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
+  -  Other programs use ["epochs"](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/), which are calculated based on the number of training samples, the batch size, and the number of iterations.
+    - If you want to convert epoch's to iterations, do: `(training samples / batch size) * epochs`
+  - Example: `--adam-iter 30`
+
+These three control how well the model learns:
+
 - `--lora-r N`: LORA r : resulting LORA scaling is alpha/r. (default 4)
   - LoRA Rank, or dimension count. Higher values produce a larger file with better control over the model's content. Small values like 4 or 8 are great for stylistic guidance. Higher values like 128 or 256 are good for teaching content upgrades. Extremely high values (1024+) are difficult to train, but may improve fine-detail learning for large datasets. Higher ranks also require more RAM. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
   - Think of this like the "Temperature" control when generating text.
   - Example: `--lora-r 128 --lora-alpha 256`
-- `--adam-iter N`: Maximum number of Adam optimization iterations for each batch (default 256)
-  - This is the number of iterations the training will run for (the number of times your dataset is run against the model).
-  - If you know how to determine when to stop, please let me know. The general advice seems to be: keep running until the 'loss' metric reported on the command line is reporting only marginal changes (e.g., <0.01), then it's pretty much done.
-  -  [This is the same as the number of epochs in runpod.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
-  - Example: `--adam-iter 30`
+- `--lora-alpha N`: LORA alpha : resulting LORA scaling is alpha/r. (default 4)
+  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. A good standard value is twice your `--lora-r`. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
+  - In many cases, people set this to match `--lora-r`
+  - Example: `--lora-r 128 --lora-alpha 256`
 - `--adam-alpha N`: Adam learning rate alpha (default 0.001000)
   - This is how much the LoRA learns from each training run. Think of this as how slowly the dataset is being read during the training process. You know how when you read a book more slowly in real life, you remember more of it? It's basically that. Think of `--adam-iter` as reading a book cover to cover, and the `--adam-alpha` is how quickly you do that. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
   - 0.0003 is a good starting base point. 0.01 is extremely high (reading too fast), 0.000001 is extremely low (reading too slow).

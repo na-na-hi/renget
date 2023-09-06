@@ -317,6 +317,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 * Maxi the Trubbish*
+	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) *Not on Table*
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
@@ -538,6 +539,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 * {||} [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * {||} [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
+* {||} [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 * {||} [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
 * {||} [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
 * {||} [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3)

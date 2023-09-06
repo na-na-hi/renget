@@ -12,10 +12,9 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 
 \>Streams
 Current stream
-https://www.youtube.com/watch?v=1t215gusXA4
+https://www.youtube.com/watch?v=DoGK5jSrLaE
 Past streams
-https://youtu.be/hoOC3GKIFgE
-https://youtu.be/AAD3QCumnrw
+https://www.youtube.com/watch?v=1t215gusXA4
 
 \>Songs
 Cover of Kalafina - Magia
@@ -37,7 +36,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule : F5IbAthXwAAxdNd
+!!!warning Second OP Post - Tag schedule : Criw5zhE0bI-HD.jpg 
 \>Introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M

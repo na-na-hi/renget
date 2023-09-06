@@ -67,7 +67,7 @@ Body Slam | 8 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The Opponent is affl
 **Bolt Beak** | 8 BP | 6 AP | ≥2 | Electric | Physical | If the User was damaged last round, the Move's damage is increased by 4.
 Bolt Strike | 10 BP | 8 AP | ≥4 | Electric | Special | 16-20; The Opponent is afflicted with *Paralysis*.
 Bone Club | 7 BP | 6 AP | ≥4 | Ground | Physical | 19-20; The Opponent Flinches.
-Bone Rush | 2 BP | 7 AP | ≥3 | Ground | Physical | Multi-Hit.
+Bone Rush | 2 BP | 6 AP | ≥3 | Ground | Physical | Multi-Hit.
 Bonemerang | 5 BP | 7 AP | ≥3 | Ground | Physical | Hits twice.
 **Boomburst** | 7 BP | 8 AP | ≥2 | Normal | Special | Room-Hitter; Damages Allies.
 Bounce | 9 BP | 7 AP | ≥4 | Flying | Physical | The User is afflicted with *Sky High*. Hits 1 round after using the Move.
@@ -83,7 +83,7 @@ Bug Bite | 6 BP | 5 AP | ≥2 | Bug | Physical | If the Opponent has a Berry, th
 Bug Buzz | 9 BP | 7 AP | ≥2 | Bug | Special | 19-20; The Opponent's Special Defense is decreased by 1.
 Bulldoze | 6 BP | 6 AP | ≥11 | Ground | Physical | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. Spread.
 Bullet Punch | 4 BP | 5 (-1) AP | ≥2 | Steel | Physical | Priority. AP cost decreased by 1.
-Bullet Seed | 2 BP | 5 AP | ≥2 | Grass | Physical | Multi-Hit.
+Bullet Seed | 2 BP | 6 AP | ≥2 | Grass | Physical | Multi-Hit.
 Burn Up | 10 BP | 8 AP | ≥2 | Fire | Special | Fire-Type; Thaws User, loses Fire-Type. 
 Burning Jealousy | 7 BP | 6 AP | ≥2 | Fire | Special | If the Opponent's Stats have increased last round, they are afflicted with *Burn*.
 Ceaseless Edge | 6 BP | 6 AP | ≥3 | Dark | Physical | The Opponent is afflicted with *Splintered*.
@@ -125,10 +125,10 @@ Dive | 8 BP | 6 AP | ≥2 | Water | Physical | Most Moves miss the User on round
 Dizzy Punch | 7 BP | 6 AP | ≥2 | Normal | Physical | 16-20; The Opponent is afflicted with *Confusion*.
 Doom Desire | 14 BP | 8 AP | ≥2 | Steel | Special | The Opponent is *Unremitted*.
 Double Hit | 4 BP | 7 AP | ≥2 | Normal | Physical | Hits twice. 
-Double Iron Bash | 6 BP | 8 AP | ≥2 | Steel | Physical | Hits twice.
-Double Kick | 3 BP | 5 AP | ≥2 | Fighting | Physical | Hits twice.
+Double Iron Bash | 6 BP | 7 AP | ≥2 | Steel | Physical | Hits twice.
+Double Kick | 3 BP | 7 AP | ≥2 | Fighting | Physical | Hits twice.
 Double Shock | 10 BP | 8 AP | ≥2 | Electric | Physical | Electric-Type; Loses Electric-Type. 
-Double Slap | 2 BP | 7 AP | ≥2 | Normal | Physical | Multi-Hit.
+Double Slap | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
 Double-Edge | 10 BP | 8 AP | ≥2 | Normal | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 **Draco Meteor** | 6 BP | 8 AP | ≥3 | Dragon | Special | The User's Special Attack is decreased by 2. Room-Hitter.
 Dragon Ascent | 10 BP | 8 AP | ≥2 | Flying | Physical | The User's Defense and Special Defense are decreased by 2.
@@ -212,7 +212,7 @@ Freezing Glare | 9 BP | 7 AP | ≥2 | Psychic | Special | 19-20; The Opponent is
 Frenzy Plant | 10 BP | 8 AP | ≥3 | Grass | Special | The User is afflicted with *Recharging*.
 **Frost Breath** | 1 BP | 7 AP | ≥3 | Ice | Special | The Move is always a Critical Hit.
 **Frustration** | 6 BP | 5 AP | ≥2 | Normal | Physical | Each round, the Move's BP is increased by 2 until 10 BP. 
-Fury Attack | 1 BP | 6 AP | ≥4 | Normal | Physical | Multi-Hit.
+Fury Attack | 1 BP | 5 AP | ≥4 | Normal | Physical | Multi-Hit.
 Fury Cutter | 4 BP | 6 AP | ≥2 | Bug | Physical | Each consecutive use, BP is increased by 4 until interrupted or after 3 rounds.
 Fury Swipes | 2 BP | 6 AP | ≥4 | Normal | Physical | Multi-Hit.
 Fusion Bolt | 10 BP | 8 AP | ≥2 | Electric | Physical | If Fusion Flare was used last round, damage is increased by 10.
@@ -268,7 +268,7 @@ Ice Punch | 8 BP | 6 AP | ≥2 | Ice | Physical | 19-20; The Opponent is Afflict
 Ice Shard | 4 BP | 5 (-1) AP | ≥2 | Ice | Physical | Priority. 
 Ice Spinner | 8 BP | 6 AP | ≥2 | Ice | Physical | Nullifies Terrain.
 Icicle Crash | 8 BP | 6 AP | ≥3 | Ice | Physical | 14-20; The Opponent Flinches.
-Icicle Spear | 2 BP | 5 AP | ≥2 | Ice | Physical | Multi-Hit.
+Icicle Spear | 2 BP | 6 AP | ≥2 | Ice | Physical | Multi-Hit.
 Icy Wind | 4 BP | 6 AP | ≥11 | Ice | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)is decreased by 1. Spread.
 Incinerate | 6 BP | 5 AP | ≥11 | Fire | Special | The Opponent's Berry or Gem is destroyed.
 Infernal Parade | 6 BP | 5 AP | ≥2 | Ghost | Special | 14-20; The Opponent is afflicted with *Burn*. If the Opponent has Major Status Condition, BP is increased by 6.
@@ -367,7 +367,7 @@ Poison Sting | 2 BP | 4 AP | ≥2 | Poison | Physical | 16-20; The Opponent is a
 Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with *Poison*.
 Pollen Puff | 9 BP | 7 AP | ≥2 | Bug | Special | When used on an Ally, becomes a Status Move and heals 4 HP.
 Poltergeist | 10 BP | 8 AP | ≥3 | Ghost | Physical | The User attacks with the Opponent's Item. Fails if the Opponent has no Item.
-Population Bomb | 2 BP | 7 AP | ≥3 | Normal | Physical | Multi-Hit. Hits up to 10 times. Wow.
+Population Bomb | - | 8 AP | ≥3 | Normal | Physical | Multi-Hit. Hits up to 10 times. Roll 2D20; 1 Accuracy roll and 1 damage roll.
 Pounce | 5 BP | 6 AP | ≥2 | Bug | Physical | The Opponent's Attack is decreased by 1. 
 Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Powder Snow | 4 BP | 5 AP | ≥8 | Ice | Special | 19-20. The Opponent is Frozen. Spread.

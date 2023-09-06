@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #29 (Friday, 1 September 2023, 16:48 UTC)<-
+->Last updated on thread #30 (Tuesday, 5 September 2023, 20:00 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -251,6 +251,14 @@ https://e-hentai.org/g/1032782/e82525bf99/
 
 `Yonhyakunenme no Koimomiji`
 https://e-hentai.org/g/992891/b1bd9973b5/
+
+---
+!!! info
+    ##Selected /HMoFA/ Games
+---
+`The Forgotten Island`
+https://foxtailtale.itch.io/the-forgotten-island (RPG)
+
 ---
 !!! info
     ##/Chic-Fil-A/ Food Reviews
@@ -321,7 +329,11 @@ Not amazing, not horrible. It was sufficiently filling that I don't think I'll e
 [![KFC Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
 
 ###McDonald's
-####59119870 Anonymous: McDonald's Spicy Chicken
+####59239035 Anonymous: Spicy Deluxe Chicken
+`Spicy Deluxe Chicken`
+So, I went to Mickey D's after going to the gym this afternoon. They have a "Spicy Deluxe" chicken sandwich. No pictures, but it looks like every fast food chicken sandwich. It's a battered and fried piece of white meat on a hamburger bun with sliced tomatoes, shredded lettuce, and a bit of something that tastes like ranch dressing with just a few drops of Tabasco sauce mixed in. It is a bit smaller than some other fast food chicken sandwiches, but the sandwich and drink plus sales tax came to $6.55, which is not horrible. I think onion and pickles would have improved the sandwich, but it does not come with them. I think it was okay. Do focks like spicy food?
+
+####59119870 Anonymous: Spicy Chicken
 `McDonald's Spicy Chicken`
 mickey deez spicy chicken
 it was decent, its the same chicken they use for their biscuits and mcgriddles. slightly on the more expensive side at 4.79. for just the sandwich. it had more meat than culvers and it was a 1.20 cheaper and it tasted better so id say it was pretty good value wise. i probably need to stop getting the spicy option as thats too subjective imo. mcdonalds did not scimp on the spicy sauce they use. id rather the spice be cooked into the chicken but the sauce was p good, some mayo mixture i reckon. the downside of using spicy sauce vs cooking the spice into the chicken is that its messier for one, and the sauce gets on your lips, naturally. but this means your lips get all hot and its annoying imo. the bun wasnt super happy and was squished, probably while being put into its bag. this is probably fine being that it was made at mcdonalds and they have to get food out fast. overall it was pretty good
@@ -383,9 +395,22 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
 
 ---
 !!! info
+    ##/Chic-Fil-A/ Drink Reviews
+!!! warning /druk/ discouraged
+---
+#####59249984 Anonymous: Peroni Nastro Azzurro
+`Peroni Nastro Azzurro`
+Peroni Nastro Azzurro Review:
+
+Most dsperate alcoholics run to what appears in Super Bowl adverts: Bud Weiser, Corona, and other bottles of piss. But this bottle of piss is not like those other bottles of piss, and in a couple of swigs this beer will have you stomping on turtles and screaming "VIVA IL RE, VIVA IL DUCE" to save the princess, of course. However, this is a fox thread, so when buying alcohol I made sure the alcohol content was low enough to the point where a baby could drink it and not sustain heavy brain damage. The alc/vol is %5.0 so you won't get drunk from it but a fox perhaps might get slightly tipsy, which is a good thing. Unfortunately, this beer is not so cheap, but you are getting a stronger lager with a crisp taste. It might have "nastro" in the title, but this beer is not nasty at all. In fact, on a water to piss scale from one to ten, it scores a solid 5, where Corona would get a 10 and Bud Light an 11, way past the piss point, where 10 is literal piss. I feel life I could drink 8 of these while operating heavy machinery and not kill anyone because despite it's higher alcohol content than more popular beers, it doesn't taste like it wants you dead. I feel like perhaps one of you creepy ass cunts could pour a few of these into a trough and then get a fox drunk enough to reenact that scene from lady n da tramp with you. Make some capellini and slap some classico onto that shit, maybe chop up a few tomatos and put em in that shit to increase the juiciness, bring you back to those gravies the women used to make. Just imagine the shenanigans you could get into, you sick fuck, and realize your actions have consequences when you get rabies or whatever. Honestly, my head hurts like a bitch and I probably need some fucking water. I've been putting off too much shit in my life at this point and honestly resorting to writing shitty food revers in threads filled with borderline bestiality isn't gonna help. God, I need help bros. The beer is good though.
+[![Peroni Nastro Azzurro: Детская бутылочка.jpg / 1693652072492.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)
+
+---
+!!! info
     ##/Chic-Fil-A/ Food Recipes
 ---
 #####59080339 Anonymous: Chicken with Adobo Seasoning
+`Chicken with Adobo Seasoning`
 Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.
 
 ######59081144 Anonymous
@@ -395,6 +420,7 @@ We /ck/ nao. When you get a seasoning mix like that, shake the container. If the
 What would you cook for fox gf? Fried chicken, I suppose. Or hard boiled eggs.
 
 #####58729062 Anonymous: Chicken Parmigiana
+`Chicken Parmigiana`
 When I was much, much younger, I worked in a few different restaurants. The typical chicken parmagiana recipe was something like:
 
 flattened chicken breast
@@ -412,12 +438,14 @@ Also works on sliced eggplant, zucchini, pounded veal cutlet, etc.
 I wonder whether focks would appreciate Italian food.
 
 #####58728832 Anonymous: Thin Parmesan Chicken
+`Thin Parmesan Chicken`
 Basically Parmesan chicken, but instead you cut thigh meat into thin slices.
 Mix the mayo, Italian style bread crumbs, and Parmesan cheese like normal, but then put your thin slices onto a cookie tray with generous butter and top with a thin layer of the parmesan crusting.
 Bake @350 degrees farenheit until the top is brown.
 Eat them like potato chips.
 
 #####56812358 Anonymous: White Chicken Chili
+`White Chicken Chili`
 Okay. This is off the top of my head and is maybe less a recipe than a set of heuristics that point in a chili-ish direction. Try:
 one pound of boneless chicken thighs. Cut them up. The dark meat is more flavorful than the white meat, that's why.
 A couple tablespoons of bacon grease, if you have some. If not, butter or any cooking oil will do.
@@ -436,7 +464,22 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
 !!! info
     ##/Chic-Fil-A/ Bible Study
 ---
-#####57365191 Dergman
+#####59286414 Anonymous: Deuteronomy 27:21
+Deuteronomy 27:21
+“‘Cursed be anyone who lies with any kind of animal.’ And all the people shall say, ‘Amen.’
+
+Guys?!?!
+
+######59286448 Anonymous
+\>>59286414
+Anthros =\= Animals
+
+######59286507 Anonymous
+\>>59286448
+This.
+More like aliens than animals, and they're always depicted as sexually compatible with humans which is what matters.
+
+#####57365191 Dergman: Matthew 25:14
 Hey guys, its Bible Study time.
 Open your Bibles to Genesis 1.
 >"In the beninging. In the benin...In the beningi...In the benignig..."
@@ -479,7 +522,7 @@ Faith, purity, patience, gentleness, unselfishness, love, all spiritual facultie
 We must not expect to reach rapid results and grow impatient at slow processes. The acorn it takes summers and winters to do it. But however long may the Lord delay His coming, he is sure to come at last and call His savants to account.
 God Himself is continually investing His own talents and making new seeds grow in your life.
 
-#####56622515 Anonymous
+#####56622515 Anonymous: John, Ezekiel, & Revelation
 Some Bible study:
 
 Adam & Eve, when they ate the fruit, brought the curse of death on the whole World. The 'curse of death' essentially being Satan's 'license to kill'.
@@ -507,11 +550,11 @@ Ezekiel 28:16
 >10 And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 Revelation 12:10
 
-#####54330649 Anonymous
+#####54330649 Anonymous: Matthew 8:20
 "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head." -
 Matthew 8:20
 
-#####54328733 Anonymous
+#####54328733 Anonymous: Judges 15:3-5
 Where was Averi during the book of revelations?
 
 

@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Fake Out | 4 BP | 7(-3) AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
 Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect
 Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-None | 0BP | 0AP | ≥2 | None | None | None
+Meditate | - | 4 AP | - | Psychic | Status | The User's Attack is increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

@@ -31,7 +31,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Quick Attack | 4BP | 5(-1)AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
 Endure | - | 4AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
 Foresight | - | 4AP | - | Normal | Status | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
-Metal Claw | 5BP | 4AP | ≥2 | Steel | Physical | 19-20; The User's Attack is increased by 1.
+Metal Claw | 5BP | 5AP | ≥2 | Steel | Physical | 19-20; The User's Attack is increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

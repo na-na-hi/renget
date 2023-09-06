@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** **Stheno-l2-q4 scaled to 8k**
+**Model:** ~~**Stheno-l2-q4 scaled to 8k**~~
 
-Blocking API URL: ```https://alliance-constant-monica-lightbox.trycloudflare.com```
+Blocking API URL: ```N/A```
 
 ***
 **System prompt:**

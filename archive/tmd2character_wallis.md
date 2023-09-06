@@ -1,19 +1,26 @@
-![(image url](https://rotomlabs.net/_next/image?url=https%3A%2F%2Fstatic.rotomlabs.net%2Fimages%2Fofficial-artwork%2F0246-larvitar.webp&w=750&q=75) 
+![Wallis](https://media.discordapp.net/attachments/396824776762720266/1148728490254946384/Wallis_Debut.png) 
 
-### Darius ♂
-"Who am I? Who cares, this is awesome!"
+### Wallis ♀ ☆
+Wallis struggled to understand pokemon during her time as a human, yet she finds herself stuck in a world with nothing else but pokemon.
+“It’s a pain, but I guess I’ll figure something out.”
+Her most recent memory lends to her having a knack for rescuing, so she plays to her strengths as she looks for her lost memories.
+“Y-You’re just trying to get on my good side, aren’t you?!”
+She can be abrasive at times but seems to truly care where it matters. Sometimes even she has trouble reconciling this.
+“That’s private and crossing the line! If you know so much about me, why don’t you fill in my lost memories?!”
+Like she said, she’ll figure something out.
+
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** No clue.
-**Species:** Larvitar | **Affiliation:** N/A
+**Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
+**Species:** Marshtomp | **Affiliation:** N/A
 **Level:** 5 | **Experience to Next Level:** 0/50
-**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to Burn's Attack decrease
+Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -22,27 +29,27 @@ Guts | While the User is afflicted with a Major Status Condition, their Attack i
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 2 | Species Bonus | +2 Physical Damage 
+Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Rock Throw | 5BP | 5AP | ≥3 | Rock | Physical | No secondary effect.
-Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
-Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
+Surf | 4BP | 6AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
+Mud Shot | 5BP | 6AP | ≥2 | Ground | Special | The next round, the Opponent's Speed is decreased by 1.
+Rock Smash | 4BP | 6AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+Wide Guard | - | 4AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description
+Earthquake | Opponent using Dig; The Move's damage is increased by 5. Room-Hitter; Damages Allies.
+Water Gun | No secondary effect.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
@@ -50,7 +57,7 @@ Eᴍᴘᴛʏ | Description
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤7BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0
+1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -102,5 +109,5 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description
+Tackle | No secondary effect.
+Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.

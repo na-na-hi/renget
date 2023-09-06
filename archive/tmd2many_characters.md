@@ -40,6 +40,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Skitty](https://rentry.org/d6w5h) | Ex-Human (Fragmented) | Skitty | N/A | N/A
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | N/A
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
+[Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | N/A
 [Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
 [Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
 Example | Ex-Human | Species | Adventurer | Team Generic
@@ -183,6 +184,7 @@ Below is the Template Sheet, which does not have anything in it. Be sure to repl
 
 ***
 ```
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
 ![REPLACE](image url) 
 
 ### CHARACTER NAME ♂/♀

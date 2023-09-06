@@ -1,16 +1,6 @@
 ![TheBirbIsBraveidk](https://archives.bulbagarden.net/media/upload/2/2d/0627Rufflet.png) 
 
 ### Angus ♂
-I've awoken in a secluded forest in this unfamiliar world, but not as a human but as a... bird!? Not just that, I no longer have hands; I've shrunk down and can't remember who I am!
-
-"'tis not good at all..." I break out in a cold sweat.
-
-This must be a dream; I pinch and try to wake up, but to no avail. "tis for real, it seems," I mutter.
-
-Mopping over wouldn't do any good, so I flapped my wings in some random direction until I found the Rantrum Kingdom.
-
-"Seems like a good place to land," I thought.
-
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???

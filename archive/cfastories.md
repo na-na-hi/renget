@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #29 (Monday, 28 August 2023, 15:30 UTC)<-
+->Last updated on thread #30 (Tuesday, 5 September 2023, 20:00 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -229,6 +229,11 @@ https://www.sofurry.com/view/1881179 (ch. 11)
 https://www.sofurry.com/view/1881180 (bonus chapter #3)
 https://www.sofurry.com/view/1971772 (ch. 12)
 ---
+---
+#####zzx (hoteboy_zzx)
+`Semi-Trashy Slutty Fox Neighbour`
+https://archiveofourown.org/works/34813138
+---
 !!! info
     ##Selected /HMoFA/ Doujinshi
 ---
@@ -246,17 +251,30 @@ https://e-hentai.org/g/1032782/e82525bf99/
 
 `Yonhyakunenme no Koimomiji`
 https://e-hentai.org/g/992891/b1bd9973b5/
+
+---
+!!! info
+    ##Selected /HMoFA/ Games
+---
+`The Forgotten Island`
+https://foxtailtale.itch.io/the-forgotten-island (RPG)
+
 ---
 !!! info
     ##/Chic-Fil-A/ Food Reviews
 ---
 ###Arby's
-####59089071 Anonymous
+####59089071 Anonymous: Chicken-Bacon-Swiss
 `Chicken-Bacon-Swiss`
 I did try the Chicken-Bacon-Swiss at Arby's. The "pepper jack cheese" was very melty and had a texture that made me wonder if it was something that came in a jar like Cheez Wiz and they were spreading it on with a spatula. Not bad, not amazing, kind of wet and drippy. Lots of honey mustard, which either you like or you don't.
 
 ###Chick-fil-A
-####58943121 Anonymous
+####59136273 Anonymous: Pimento Cheese Sandwich
+`Pimento Cheese Sandwich`
+I thought I would never get anything from CFA ever again since they're such fag and nigger lovers. That sandwich was fucking amazing. I must really be behind times or something because I don't recall CFA ever having sizable chicken breast for any of their sandwiches. It was juicy and the breading was crunchy. The odd items of pimento cheese, jalapenos, and honey goes really well with it. My only complaint was it didn't have nearly as much pimento cheese like the picture shows, but I guess it was a good enough amount. The meal was $10+ without tax...
+[![Pimento Cheese Sandwich: itdidn'thavethatmuchcheeseyoufuckingliars.jpg / 1693254780252.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)
+
+####58943121 Anonymous: Chicken Nuggets
 `Chicken Nuggets`
 Sorta seems like Chick-fil-a actually has the worst chicken nuggets.
 I even like Burger Kings nuggets more than CFA.
@@ -278,20 +296,20 @@ Not him. I've had the CFA grilled chicken nuggets. I liked the flavor and textur
 This makes full sense for considering them a bad deal, though your post led me to believe there was something wrong with the chicken nuggets themselves rather than it being a pricing issue.
 Otherwise, these reviews tell me that Chick-fil-A's nuggets are tasteful even if they are a bit dry.
 
-####56810900 Anonymous
+####56810900 Anonymous: #1 Chicken Sandwich
 `#1 Chicken Sandwich`
 Speaking of chicken. There are now two locations about 25-ish miles from me, in different towns. I decided to stop in one this week, as I was already in the area. I had the basic #1 chicken sandwich, which was okay but not amazing. It's just a piece of white chicken meat, battered, fried, and put on a bun with pickles. The grilled chicken tenders were nice, though, if expensive--$6 for a tiny potion. The lemonade is made from actual fruit and there is lemon pulp in it, which I did not expect. I would go back just for the lemonade and maybe the grilled tenders. Or maybe I should try a different sandwich.
 [![Chick-fil-A #1 chicken sandwich: Chick-Fil-A.jpg / 1685138551339.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)
 
 ###Chicken Guy
-####56811919 Anonymous
+####56811919 Anonymous: Peri-peri Chicken Sandwich
 `Peri-peri Chicken Sandwich`
 Speaking of sammiches. This one was from a chain supposedly owned by Guy Fieri. It was two largish chicken tenders on a bun with lettuce, tomato, onion, and pickles. The chicken was tender, the bun and toppings were fresh, and that part was all perfectly okay. The "peri-peri sauce" was okay but tasted nothing like real peri-peri. Peri-peri is supposed to be made out of African birdseye peppers, which are supposedly the same species as Thai prik-ki-nu peppers, and also supposedly grow wild in Mexico, where people call them "chiltepins." They're tiny little things, about a quarter of an inch across, and about as hot as habaneros. https://en.wikipedia.org/wiki/Capsicum_annuum_var._glabriusculum Peri peri sauce is made from these peppers, plus garlic, lemon juice, cilantro, and a bit of smoked paprika. This stuff was the right color but made of sweet red bell peppers and lacked all but the tiniest trace of heat--not a bad sauce at all but not what the name led me to expect. The next time I am in the area, if I am hungry, I want to try again and see if the habanero sauce has some snap to it.
 I am, however, an old chili head, and maybe my palate is burnt out. I want to see if I can make something like peri peri out of the orange habanero peppers supermarkets here have. It will be the wrong color, but maybe it will taste okay. something something two pounds of peppers, a dozen cloves of garlic, a big bundle of cilantro, juice and zest of a lemon, dash smoked paprika, salt and pepper to taste, process to a uniform pulp in a food processor, half is marinade for a whole cut-up chicken, in which it sits overnight in a covered glass bowl, then cooks an hour or so at 400, in a foil-lined pan with the used marinade poured over the chicken. The rest of the sauce is kept aside, poured over the chicken it before serving.
 [![Chicken Guy peri-peri chicken sandwich: Chicken Guy.jpg / 1685141584784.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)
 
 ###Culver's
-####58915157 Anonymous
+####58915157 Anonymous: Spicy Chicken Sandwich
 `Spicy Chicken Sandwich`
 its alright, better than the main competition like kfc and popeyes for sure, but its kinda overpriced. it was $6 iirc and it didnt take too long to finish and the chicken was kinda thin, not a whole lot of meat. the use of shredded lettuce is preferable im0. its not the usual tasting fried chicken that popeyes and kfc and burger king use but its not as good as chicfila. id rather go to chicfila bc im looking at the prices and a spicy deluxe at chicfila is $4 while the inferior culvers spicy chicken sandwich alone is $6, definitely not worth it. i also added my own sauces and that definitely added to the taste, idk what their sauces taste like.
 id put it in between burger king and chickfila, being closer to burger king on the scale. but its way overpriced for what it is
@@ -299,11 +317,11 @@ id put it in between burger king and chickfila, being closer to burger king on t
 
 
 ###KFC
-####58943018 Anonymous
+####58943018 Anonymous: Chicken Nuggets
 `Chicken Nuggets`
 Also, I went out to run some errands and stopped at a KFC on the way home. Today I decided to try the chicken nuggets. They were hot and fresh, with a nice juicy texture and just enough breading, and the breading was well seasoned. The counter guy said they came with dipping sauces, and all of them had self-evident names other than "KFC Sauce," so of course I tried it. It has a very very strong horseradish odor and a bit of a reddish color, like maybe there's paprika or even cayenne pepper in it. It's honey mustard, but honey mustard with a sharp piquant horseradish bite to it, and it will clear your sinuses. It isn't bad, and I say that as someone who doesn't generally like honey mustard. It seems less excessively, cloyingly sweet than other honey mustard some other chains have. I was a bit disappointed that KFC doesn't have corn on the cob any more and their current side dishes all seem to be deep-fried, really starchy or sugary, or all at once. No pictures today but we all know what chimken numget look like.
 
-####58070643 Anonymous
+####58070643 Anonymous: Spicy Chicken Sandwich
 `Spicy Chicken Sandwich`
 After running some errands this afternoon, I stopped at a KFC on the way home. I had the spicy chicken sandwich.
 The sandwich was bigger than I expected, with what looked like an entire split boneless chicken breast. It is, of course, battered and fried, on a kaiser-ish sort of roll. This particular sandwich comes with dill pickles and a secret spicy dressing that looks and tastes like ranch dressing with hot sauce mixed in.
@@ -311,14 +329,18 @@ Not amazing, not horrible. It was sufficiently filling that I don't think I'll e
 [![KFC Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
 
 ###McDonald's
-####Anonymous 59119870
+####59239035 Anonymous: Spicy Deluxe Chicken
+`Spicy Deluxe Chicken`
+So, I went to Mickey D's after going to the gym this afternoon. They have a "Spicy Deluxe" chicken sandwich. No pictures, but it looks like every fast food chicken sandwich. It's a battered and fried piece of white meat on a hamburger bun with sliced tomatoes, shredded lettuce, and a bit of something that tastes like ranch dressing with just a few drops of Tabasco sauce mixed in. It is a bit smaller than some other fast food chicken sandwiches, but the sandwich and drink plus sales tax came to $6.55, which is not horrible. I think onion and pickles would have improved the sandwich, but it does not come with them. I think it was okay. Do focks like spicy food?
+
+####59119870 Anonymous: Spicy Chicken
 `McDonald's Spicy Chicken`
 mickey deez spicy chicken
 it was decent, its the same chicken they use for their biscuits and mcgriddles. slightly on the more expensive side at 4.79. for just the sandwich. it had more meat than culvers and it was a 1.20 cheaper and it tasted better so id say it was pretty good value wise. i probably need to stop getting the spicy option as thats too subjective imo. mcdonalds did not scimp on the spicy sauce they use. id rather the spice be cooked into the chicken but the sauce was p good, some mayo mixture i reckon. the downside of using spicy sauce vs cooking the spice into the chicken is that its messier for one, and the sauce gets on your lips, naturally. but this means your lips get all hot and its annoying imo. the bun wasnt super happy and was squished, probably while being put into its bag. this is probably fine being that it was made at mcdonalds and they have to get food out fast. overall it was pretty good
 [![McDonald's Spicy Chicken: 20230822_130503.jpg / 1693191484947.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191484947.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191484947.jpg)
 
-####Anonymous 59114157
-`Filet-O-Fish & Quarter Pounder with cheese`
+####59114157 Anonymous: Filet-O-Fish & Quarter Pounder with Cheese
+`Filet-O-Fish & Quarter Pounder with Cheese`
 Alright, I'm gonna review the Quarter Pounder with cheese and the Filet of Fish.
 
 The quarter pounder with cheese is THE classic. This neat, juicy sandwich leaves you with a greasy, sweet aftertaste that tears the anus out of even the sweetest candies. Every bite is a chomp, and this unforgiving sandwich will pass through you in chomps too, you WILL feel this sandwich in you. Despite this, it is not truly a quarter pounder. Like it says on the box, this handheld weighs 4 ounces before it's cooked, yet after eating it I somehow gained 4 entire pounds. Crazy how McScience works, huh? The McDonald's McResearch team has devoted millions of dollars to making a more sustainable sandwich, sustainable without the sus, as you're still eating the same 100% beef. As the saying goes, the west is hungry, and billions must dine!
@@ -327,27 +349,27 @@ The Filet of Fish kills sloppy joes, beheads sloppy joes, and roundhouse kicks t
 
 While The Quarter Pounder with cheese is THE Macca's classic, you can't deny that the Filet of Fish beats it out of the water. A newer, meatier sandwich for a fraction of the price? Sounds impossible, but McDonald's has it, and in my opinion, it's a hidden gem.
 
-####Anonymous 59090055
+####59090055 Anonymous: McRib
 `McRib`
 The McRib is less a sandwich than a meme they re-release every few years because all the cable TV news talking heads give them hours and hours of free advertising by talking about it. The mechanically formed slug of mystery meat is not in and of itself horrible but it is drowned in a sugary, sugary, sugary sauce that seems to be an attempt to convert it into candy. A less sweet, more savory sauce (try tomato paste +
 apple cider vinegar + sweet basil + just a few drops of liquid smoke seasoning, salt, pepper, garlic, paprika, and maybe a tad of cayenne pepper, to taste) would improve it quite a bit. As it is, it is maybe the canonical example and the picture in the dictionary when you look up "mediocre fast food." Foxes are obligate carnivores and even they aren't enthusiastic about the McRib.
 
 ###Popeye's
-####58200065 Anonymous
+####58200065 Anonymous: Spicy Chicken Sandwich
 `Spicy Chicken Sandwich`
 Earlier this week, I stopped at a Popeye's on the way home from my workout. They were out of the blackened chicken sandwiches I wanted to try, so I had the "Spicy." It was a bit more expensive and a bit smaller than the KFC spicy chicken sandwich. It had some nice dill pickle slices on it. The sauce seemed like it was mostly hot sauce with a dab of ranch dressing stirred in, and was also really, really salty. All in all I preferred the KFC product.
 It wasn't horrible, and the red beans and rice I ordered on the side was pretty good.
 [![Popeye's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
 
 ###Wawa
-####59119936 Anonymous
+####59119936 Anonymous: Chicken Parm Hoagie
 `Chicken Parm Hoagie`
 wawa chicken parm hoagie
 it was pretty alright, it filled me up pretty good considering i didnt have breakfast and i ate it for lunch while at work. for 7.99, its pretty good value for a fast way to be not hungry anymore. it was pretty messy and the sauce quickly made the bread soggy, which could be negated by toasting the bread, this however wasnt an option sadly. it could also be considered "fast food" so i guess it gets a pass for the messiness. the mozzarella and parmasan tasted ok and the sauce the same, it isnt exactly olive garden but its not the worst.
 [![Wawa's Chicken Parm Hoagie: 20230823_123426.jpg / 1693191673048.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)
 
 ###Wendy's
-####59103608 Anonymous
+####59103608 Anonymous: Maple Bacon Chicken Croissant Sandwich
 `Maple Bacon Chicken Croissant Sandwich`
 The sandwich itself was about $4.
 
@@ -359,7 +381,7 @@ Overall, I recommend giving it a try.
 [![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
-####58919026 Anonymous
+####58919026 Anonymous: Rotisserie Chicken
 `Rotisserie Chicken`
 Walmart rotisserie chicken is shockingly good, when you consider that Walmart is mainly known for selling cheap sneakers, cheap socks and underwear, and cheap hand tools made in China. In the Midwest there is a supermarket/department store mashup chain called Meijer that also has surprisingly good rotisserie chicken, for a place that's essentially the ghetto local competitor to Walmart.
 
@@ -373,9 +395,22 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
 
 ---
 !!! info
+    ##/Chic-Fil-A/ Drink Reviews
+!!! warning /druk/ discouraged
+---
+#####59249984 Anonymous: Peroni Nastro Azzurro
+`Peroni Nastro Azzurro`
+Peroni Nastro Azzurro Review:
+
+Most dsperate alcoholics run to what appears in Super Bowl adverts: Bud Weiser, Corona, and other bottles of piss. But this bottle of piss is not like those other bottles of piss, and in a couple of swigs this beer will have you stomping on turtles and screaming "VIVA IL RE, VIVA IL DUCE" to save the princess, of course. However, this is a fox thread, so when buying alcohol I made sure the alcohol content was low enough to the point where a baby could drink it and not sustain heavy brain damage. The alc/vol is %5.0 so you won't get drunk from it but a fox perhaps might get slightly tipsy, which is a good thing. Unfortunately, this beer is not so cheap, but you are getting a stronger lager with a crisp taste. It might have "nastro" in the title, but this beer is not nasty at all. In fact, on a water to piss scale from one to ten, it scores a solid 5, where Corona would get a 10 and Bud Light an 11, way past the piss point, where 10 is literal piss. I feel life I could drink 8 of these while operating heavy machinery and not kill anyone because despite it's higher alcohol content than more popular beers, it doesn't taste like it wants you dead. I feel like perhaps one of you creepy ass cunts could pour a few of these into a trough and then get a fox drunk enough to reenact that scene from lady n da tramp with you. Make some capellini and slap some classico onto that shit, maybe chop up a few tomatos and put em in that shit to increase the juiciness, bring you back to those gravies the women used to make. Just imagine the shenanigans you could get into, you sick fuck, and realize your actions have consequences when you get rabies or whatever. Honestly, my head hurts like a bitch and I probably need some fucking water. I've been putting off too much shit in my life at this point and honestly resorting to writing shitty food revers in threads filled with borderline bestiality isn't gonna help. God, I need help bros. The beer is good though.
+[![Peroni Nastro Azzurro: Детская бутылочка.jpg / 1693652072492.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)
+
+---
+!!! info
     ##/Chic-Fil-A/ Food Recipes
 ---
-#####59080339 Anonymous
+#####59080339 Anonymous: Chicken with Adobo Seasoning
+`Chicken with Adobo Seasoning`
 Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.
 
 ######59081144 Anonymous
@@ -384,7 +419,8 @@ We /ck/ nao. When you get a seasoning mix like that, shake the container. If the
 
 What would you cook for fox gf? Fried chicken, I suppose. Or hard boiled eggs.
 
-#####58729062 Anonymous
+#####58729062 Anonymous: Chicken Parmigiana
+`Chicken Parmigiana`
 When I was much, much younger, I worked in a few different restaurants. The typical chicken parmagiana recipe was something like:
 
 flattened chicken breast
@@ -401,13 +437,15 @@ Also works on sliced eggplant, zucchini, pounded veal cutlet, etc.
 
 I wonder whether focks would appreciate Italian food.
 
-#####58728832 Anonymous
+#####58728832 Anonymous: Thin Parmesan Chicken
+`Thin Parmesan Chicken`
 Basically Parmesan chicken, but instead you cut thigh meat into thin slices.
 Mix the mayo, Italian style bread crumbs, and Parmesan cheese like normal, but then put your thin slices onto a cookie tray with generous butter and top with a thin layer of the parmesan crusting.
 Bake @350 degrees farenheit until the top is brown.
 Eat them like potato chips.
 
-#####56812358 Anonymous
+#####56812358 Anonymous: White Chicken Chili
+`White Chicken Chili`
 Okay. This is off the top of my head and is maybe less a recipe than a set of heuristics that point in a chili-ish direction. Try:
 one pound of boneless chicken thighs. Cut them up. The dark meat is more flavorful than the white meat, that's why.
 A couple tablespoons of bacon grease, if you have some. If not, butter or any cooking oil will do.
@@ -426,7 +464,22 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
 !!! info
     ##/Chic-Fil-A/ Bible Study
 ---
-#####57365191 Dergman
+#####59286414 Anonymous: Deuteronomy 27:21
+Deuteronomy 27:21
+“‘Cursed be anyone who lies with any kind of animal.’ And all the people shall say, ‘Amen.’
+
+Guys?!?!
+
+######59286448 Anonymous
+\>>59286414
+Anthros =\= Animals
+
+######59286507 Anonymous
+\>>59286448
+This.
+More like aliens than animals, and they're always depicted as sexually compatible with humans which is what matters.
+
+#####57365191 Dergman: Matthew 25:14
 Hey guys, its Bible Study time.
 Open your Bibles to Genesis 1.
 >"In the beninging. In the benin...In the beningi...In the benignig..."
@@ -469,7 +522,7 @@ Faith, purity, patience, gentleness, unselfishness, love, all spiritual facultie
 We must not expect to reach rapid results and grow impatient at slow processes. The acorn it takes summers and winters to do it. But however long may the Lord delay His coming, he is sure to come at last and call His savants to account.
 God Himself is continually investing His own talents and making new seeds grow in your life.
 
-#####56622515 Anonymous
+#####56622515 Anonymous: John, Ezekiel, & Revelation
 Some Bible study:
 
 Adam & Eve, when they ate the fruit, brought the curse of death on the whole World. The 'curse of death' essentially being Satan's 'license to kill'.
@@ -497,11 +550,11 @@ Ezekiel 28:16
 >10 And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 Revelation 12:10
 
-#####54330649 Anonymous
+#####54330649 Anonymous: Matthew 8:20
 "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head." -
 Matthew 8:20
 
-#####54328733 Anonymous
+#####54328733 Anonymous: Judges 15:3-5
 Where was Averi during the book of revelations?
 
 

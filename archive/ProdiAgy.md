@@ -4,7 +4,7 @@
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! info 4 September: [There was possible degradation due to kohya_ss.](https://github.com/bmaltais/kohya_ss/issues/786) Updated and now running some more tests.
+!!! note CivitAI remains to be updated later or if Perfusion comes out by then I'll dive into that.
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
@@ -17,7 +17,7 @@
 !!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
 
 
-##Base iA3 Prodigy .json - Characters/Objects:
+##Base iA3 Prodigy .json - Regularized Characters/Objects:
 ### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-180) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
@@ -34,7 +34,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=5e-2\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=0e-2\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,

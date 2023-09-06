@@ -153,6 +153,12 @@ Pokémon live in all kinds of places, on the land, (sometimes) air, and seas. Th
 - While monospecies communities or settlements are very rare, most will end up finding they live in a village that shares one common type. Of course, it gets a little more obvious if the settlement is underwater, but you get the idea.
 - What is a village? What is a town? Usually, a village tends to be less-developed compared to a town and might even have a smaller population (although this is not always the case). Towns also tend to be situated in favorable locations, along popular roads or travel routes. Villages tend to form from a gathering of a local community.
 
+**Public Services**
+Restricted either by the construction or location of their homes, some Pokémon might travel to public places in a village or town to clean or relax. 
+- Bathhouses & Hot Springs: Services that are generally open all-year round for cleaning and relaxation. Might also be a great place to hear about community news or gossip.
+- Iceboxes: Places for Pokémon who really need negative temperatures to cool off. They are built lower underground and can be very cold. Iceboxes double as places to store food for long periods of time.
+- Greenhouses: For Grass-Types in the colder months where sunlight and warmth become increasingly important. During other seasonal weathers, generally are left empty. However, some Grass-Types with specialty needs might visit these frequently, regardless of current conditions.
+
 #### Guilds
 Together, we're even stronger! Pokémon form Guilds to get benefits from having a large group of adventurers who are always willing to help one another out. Almost like a big family. Guilds construct their bases next to towns and usually have some form of specialty: Rescue, Exploration, Expedition, or even Justice... there's a lot a Guild can do.
 - They are supported by the Guild League, who supplies them with equipment, a steady stream of job requests, and regulates their activities.
