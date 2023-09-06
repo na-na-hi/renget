@@ -127,6 +127,7 @@
 07/2023|[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945)
 07/2023|[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 08/2023|[Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference](https://arxiv.org/abs/2308.12066)
+09/2023|[Efficient RLHF: Reducing the Memory Usage of PPO](https://arxiv.org/abs/2309.00754)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -182,6 +183,7 @@
 07/2023|[Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/abs/2307.14995)
 08/2023|[Separate Anything You Describe](https://arxiv.org/abs/2308.05037)
 08/2023|[StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data](https://arxiv.org/abs/2308.10253)
+09/2023|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://arxiv.org/abs/2309.01950)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -339,6 +341,9 @@
 08/2023|[Accelerating LLM Inference with Staged Speculative Decoding](https://arxiv.org/abs/2308.04623)
 08/2023|[YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 08/2023|[LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models](https://arxiv.org/abs/2308.16137)
+09/2023|[Making Large Language Models Better Reasoners with Alignment](https://arxiv.org/abs/2309.02144)
+09/2023|[Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
+09/2023|[Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices](https://arxiv.org/abs/2309.02411)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

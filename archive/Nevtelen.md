@@ -47,5 +47,11 @@
 
 ->![](https://files.catbox.moe/cxwus1.png)<-
 
+
+### ->[Ankha](https://files.catbox.moe/kaqe52.png)<-
+->In the village, some people bite more than they can chew.<-
+
+->![](https://files.catbox.moe/kaqe52.png)<-
+
 - ->Thank you for coming to my page! I hope you have a wonderful and beautiful day!<-
 ->![](https://files.catbox.moe/h6g8z6.jpg)<-

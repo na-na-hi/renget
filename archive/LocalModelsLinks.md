@@ -5,6 +5,7 @@
 [LLaMa CPU/GPU guide](https://rentry.org/TESFT-LLaMa)|For Nvidia GPU inferencing and CPU inferencing 
 [oobabooga ROCm Installation](https://rentry.org/eq3hg)|For AMD GPU inferencing
 [Tuning Guide](https://rentry.org/llm-training)|For finetuning/lora and general LLM basics
+[Anon's QLoRA Runpod Trainer](https://hub.docker.com/r/reilgun/runpod-qlora-trainer)|This container lets you easily train a LLM QLoRA on runpod.io
 [Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|For longer outputs more conducive to roleplay in TavernAI
 |
 **Models**|
@@ -109,6 +110,7 @@
 [LOMO](https://github.com/OpenLMLab/LOMO)|More memory efficient full parameter fine tune method
 [LLM-Pruner](https://github.com/horseee/LLM-Pruner)|Structured pruning of LLMs but only tests for 7B so far
 [Wanda](https://github.com/locuslab/wanda)|Pruning by weights and activations with LLaMa code with low time overhead
+[BLoRa](https://github.com/sabetAI/BLoRA)|Maximize GPU util by routing inference through multiple LoRAs in the same batch
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [HIPIE](https://github.com/berkeley-hipie/HIPIE)|HIerarchical, oPen-vocabulary and unIvErsal image segmentation and detection model using SAM
@@ -137,5 +139,6 @@
 [Coomer Forums Scrape Rentry](https://rentry.org/qib8f)|Raw RP/ERP/ELIT content
 [Visual Novels EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 |
+[Data-Juicer](https://github.com/alibaba/data-juicer)|Broad featured dataset preparation tool from Alibaba 
 [DSBuild](https://github.com/Justin42/dsbuild)|Dataset preparation tool for LLM training
 [Airoboros](https://github.com/jondurbin/airoboros)|Implementation for self-instruct dataset generation

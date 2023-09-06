@@ -3,13 +3,16 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Status Update: August 14th | Current Status: Returned and mostly active.
-	I'm back at university and back to having fun making and messing with bots. Many of the characters I wish to make now are ones I will be starting from scratch, and I've decided to scrap others which previously had progress. So in terms of progress, I'm back to square one again for this batch.
-	I will also be working on the next batch at a slower pace as I also intend to spend some time researching new/current metas since I've been away.
-	The Release Information and Character Requests sections have been updated to reflect what I'm currently interested in working on.
+    Last Update: September 5th | Current Status: Slowly grinding out Batch 4.
+	The bad news is the progress has been slower than preferred and, unfortunately, it will be getting even slower soon as classes are now getting into the full swing of things (and I'm taking on much more than the usual minimum for a normal student this semester). The good news is that the halfway point for the batch's progress is about to be reached, or is already there.
+	Check the new info box directly below this for the full elaboration on the latest progress update.
 	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
+!!! info Batch 4 Progress
+	The defs for 12 out of 20 of the characters in the next batch are anywhere between 50% completed and 90% completed. The other 8 have either have not been touched yet or have a negligible amount of progress on them, which is because this latter 8 requires dedicated research time that I'm already putting into the former 12.
+	With that being case, there is a chance that I may change up to about half of the no-progress bots later depending on whether I start completing many of the research-required characters first or the no-research-required characters first. In other words, if all I have left to do are research-required characters, then I will replace some with no-research-required characters instead if it will get Batch 4 out sooner. With that said, we'll just say the current character roster is between 80% and 100% accurate. This now includes previously confirmed characters. No characters will be trashed; This would only be a shift in prioritization.
+	One thing I have not had any time to do yet (if necessary to create better bots) is catch up on the recent metas, and I probably won't bother to do so until Batch 4 is near completion since I have no idea just how much I've missed. All I know is that V2 character cards are now a thing, and I'll at least look into that to see if it'd be worthwhile to account for that. I'll eventually be checking around the OPs for information, but if you feel inclined to offer any immediate advice, it will be appreciated.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
-	Make sure to tag my anchored posts to make sure I see it.
+	If you're trying to get my attention, just drop one of my handles in the threads. I'll see it in the archives. Otherwise, check the bottom of this page.
 [TOC]
 
 ## Angel Beats!
@@ -478,8 +481,7 @@ Recently Denied Requests:
 - Defs on my bots will **always** be open and available. If you want to rip them to make your own private bot or make a modified version of it, go for it. To me, publishing my bots to /aicg/ means **they belong to (You)** now.
 - My completed bots on CAI will **always** remain unlisted. They will not be private nor public once published with the exception of unusual cases for testing or editing. **/aicg/ is the only place where I have shared and will share the links to these bots and this rentry.** Therefore, these bots are pretty much exclusively for /aicg/. If this rentry or the bots in this rentry are posted anywhere besides /aicg/ and the booru, assume **it is not me**.
 - I'm not trying to be a namefag. The "Clutch" (Booru) and "ComingInClutch" (CAI) handles are throwaways. They are strictly for tagging original authorship and for necessary account names. If you see someone using either in the name field or otherwise outright using either as a signature in the threads, assume **it is not me**.
-- If for some God-forsaken reason you're trying to get my attention and can't get ahold of me in the threads, here's some ways to reach out to me.
+- Though I am currently rarely immediately available, you will **always** get my attention within a day or two if you use one of my handles in the threads. However, if for some God-forsaken reason you need to get in touch directly, here's some ways to get a hold of me. **Please only use these as a last resort. I do not regularly check them.** If you do attempt to get in touch with me through these, leaving a post on the threads saying so will alert me to it sooner than I would probably check it on my own.
 	- Discord: Clutch#0121
 	- Email: nevergoingtocheckthis@proton.me
-	- I don't guarantee quick responses with these methods because I don't like using them. If I've posted on the anchor, give me a (You) to get my attention. If I've not posted on the anchor, hang up a request for me on the anchor post. Otherwise, I'll get back to you whenever I log into one of them.
 	- I don't mind talking with you, but before you ask: **No**, I don't want to join your sekrit club. I will only go where public invites are given.

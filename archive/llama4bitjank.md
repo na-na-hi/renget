@@ -71,7 +71,3 @@ python aiserver.py
 In the web interface, you can then pick the folder you created in the models folder to load the model, via AI `>` Load model from it's directory `>` the directory
 
 Initial model load is potentially going to take several minutes, especially if you're using the 30B or 65B variant.
-
-***
-
-also be sure to check out [https://iwf.gay](https://iwf.gay) :^)

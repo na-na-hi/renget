@@ -37,7 +37,7 @@
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
 |01/09/2023|[![ 【Pico Park】Can we work together? 🎼 ](https://files.catbox.moe/xcwhmu.jpg)](https://youtu.be/AAD3QCumnrw)|[Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and [FUWAMOCO](https://www.youtube.com/watch?v=yGmu-OXpqxs)|~2h39|Advent Fullgen Collab|
-|06/09/2023|Placeholder Minecraft|Shiori, Bijou and FUWAMOCO|TBD|Advent Fullgen Collab|
+|06/09/2023|Placeholder Minecraft|[Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [FUWAMOCO](https://www.youtube.com/watch?v=mn2yVMiDAGs)|TBD|Advent Fullgen Collab|
 |07/09/2023|Placeholder Minecraft|Kiara|TBD|1-on-1 Collab|
 |10/09/2023|Placeholder Terraria|TBD|TBD|Possible Impromptu VC collab|
 

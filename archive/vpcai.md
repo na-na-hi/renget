@@ -1,5 +1,5 @@
 # ->List of Anon-Made C.AI Characters<- 
-[[Cards and .json Files]](https://rentry.org/vpcai-X/)
+-> [[AISEKAI]](https://rentry.org/vp-kai) • [[Cards and .json Files]](https://rentry.org/vpcai-X/) <-
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:

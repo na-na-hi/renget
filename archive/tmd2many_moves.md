@@ -17,6 +17,10 @@ Formatting | Description
 ~~Strikethrough~~ | Listings with ~~Strikethrough~~ names have been removed from the game, and no longer exist.
 **(Parenthesis)** | Listings with **(Perenthesis)**, usually **Bold** and proceeding a ~~Strikethrough~~, have had their names changed.
 
+## Attacking Moves ![Strike With Force...](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) ![...Or Precision?](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png)
+!!! info Every Pokémon can use Pokémon Moves. Only four of a Pokémon's potential Moves may be a part of their active Moveset at a time.
+    Moves listed in **Bold** have been changed significantly in some way.
+
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | :-: | - | - | ---------
 Absorb | 2 BP | 5 AP | ≥2 | Grass | Special | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
@@ -497,7 +501,7 @@ Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the 
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 
 **Surf** | 4 BP | 6 AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
-**Surging Strikes** | 2 BP | 8 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D20. 18-20; Increased Crit Ratio.
+**Surging Strikes** | 2 BP | 7 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D20. 16-20; Increased Crit Ratio.
 Swift | 6 BP | 5 AP | ∞ | Normal | Special | Never misses.
 Synchronoise | 10 BP | 7 AP | ≥8 | Psychic | Special | If the Opponent shares a Type with the User, deals damage. Spread.
 Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
@@ -521,6 +525,7 @@ Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The next round, the User's 
 Tri Attack | 8 BP | 6 AP | ≥2 | Normal | Special | 16-17; The Opponent is afflicted with *Paralysis*. 18-19; The Opponent is afflicted with *Burn*. 20; The Opponent is afflicted with *Freeze*.
 Triple Arrows | 9 BP | 7 AP | ≥2 | Fighting | Physical | 18-20; Increased Crit Ratio. 10-20; The Opponent's Defense is decreased by 1.
 Triple Axel | 2 BP | 7 AP | ≥3 | Ice | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
+Triple Dive | 2 BP | 7 AP | ≥3 | Water | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
 Triple Kick | 1 BP | 7 AP | ≥3 | Fighting | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
 Trop Kick | 7 BP | 6 AP | ≥2 | Grass | Physical | The Opponent's Attack is decreased by 1.
 **Trump Card** | - | 4 AP | - | Normal | Special | The Move's AP cost is increased by 1 for each use. 4 AP; 4 BP. 5 AP; 5 BP. 6 AP; 6 BP. 7 AP; 8 BP. 8 AP; 20 BP. Never misses.
@@ -559,268 +564,6 @@ X-Scissor | 8 BP | 6 AP | ≥2 | Bug | Physical | No secondary effect.
 Zap Cannon | 10 BP | 8 AP | ≥11 | Electric | Special | The Opponent is afflicted with *Paralysis*.
 Zen Headbutt | 8 BP | 6 AP | ≥3 | Psychic | Physical | 16-20; The Opponent is afflicted with *Flinch*.
 Zing Zap | 8 BP | 6 AP | ≥2 | Electric | Physical | 14-20; The Opponent is afflicted with *Flinch*.
-
-***
-
-## Status Moves ![Enchant The Battlefield!](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png)
-!!! info Not all Moves deal damage. Status Moves are Moves with unique, non-damaging effects, seeking to amplify, debilitate, and otherwise shift the state of the battle through less direct means.
-    Status Moves, with rare exception, always cost 4 AP, and only one may be used per turn. 
-
-Name | Base Power | Action Points | Accuracy | Type | Property | Description
---- | -- | - | :-: | - | - | ---------
-Acid Armor | - | 4 AP | - | Poison | Status | The User's Defense is increased by 2.
-**Acupressure** | - | 4 AP | - | Normal | Status | Roll 1D6; The User's Attack/Defense/Special Attack/Special Defense/[Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)/Evasion is increased by 2.
-After You | - | 4 AP | - | Normal | Status | The Opponent's Max AP is increased by 2 for 1 round. The round after, their Max AP is decreased by 4 for 1 round.
-Agility | - | 4 AP | - | Psychic | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 2.
-Ally Switch | - | 4 AP | - | Psychic | Status | The User switches positions with an Ally.
-Amnesia | - | 4 AP | - | Poison | Status | The User's Special Defense is increased by 2.
-Aqua Ring | - | 4 AP | - | Water | Status | The User is afflicted with *Aqua Ring*.
-**Aromatherapy** | - | 4 AP | - | Grass | Status | The User is cured of all Major Status Conditions. The User may select additional Allies to cure at the cost of 2 AP each.
-Aromatic Mist | - | 4 AP | - | Fairy | Status | An Ally's Special Defense is increased by 1.
-**Assist** | - | 4 AP | - | Normal | Status | Roll 1D4; The User uses a Move known by an Ally. AP cost is only counted once.
-Attract | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent is afflicted with *Infatuated*.
-Aurora Veil | - | 4 AP | - | Ice | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and 2 Allies. Fails if it the Weather isn't [Snow](https://rentry.co/tmd2many_rules#weather). Affects Physical and Special Moves. 
-Autotomize | - | 4 AP | - | Steel | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 1. The User becomes lighter.
-Baby-Doll Eyes | - | 4 AP | ≥2 | Fairy | Status | The Opponent's Attack is decreased by 1.
-Baneful Bunker | - | 4 AP | - | Poison | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Poison*.
-Barrier | - | 4 AP | - | Psychic | Status | The User's Defense is increased by 2.
-Baton Pass | - | 4 AP | - | Normal | Status | The User gives their Stat increases and decreases, and Major and Minor Status Conditions.
-Belly Drum | - | 4 AP | - | Normal | Status | The User's Attack is increased to 6. The User loses ½ of their Max HP. 
-Bestow | - | 4 AP | - | Normal | Status | The User gives their Worn/Held Item to the Opponent. If used with an Item, the User gives their Item to an Ally with the AP cost decreased by 1. Ignores Protect Moves.
-Block | - | 4 AP | - | Normal | Status | The Opponent is afflicted with *Immobile*.  
-Bulk Up | - | 4 AP | - | Fighting | Status | The User's Attack and Defense are increased by 1. 
-Calm Mind | - | 4 AP | - | Psychic | Status | The User's Special Attack and Special Defense are increased by 1.
-Camouflage | - | 4 AP | - | Normal | Status | The User changes Type according to the environment and Terrain.
-Captivate | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent's Special Attack is decreased by 2.
-Celebrate | - | 4 AP | - | Normal | Status | Woohoo! [Victory!](https://youtu.be/Pm4H-H_6Cf0)
-Charge | - | 4 AP | - | Electric | Status | The User's next Electric-Type Move has its Base Power doubled, rounding up.
-Charm | - | 4 AP | ≥2 | Fairy | Status | The Opponent's Attack is decreased by 2. 
-Chilly Reception | - | 4 AP | - | Ice | Status | The Weather is changed to [Snow](https://rentry.co/tmd2many_rules#weather).
-Clangorous Soul | - | 4 AP | - | Dragon | Status | The User's Attack, Defense, Special Attack, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1. The User loses ⅓ of their Max HP.
-Coaching | - | 4 AP | - | Fighting | Status | The Ally's Attack and Defense are increased by 1.
-Coil | - | 4 AP | - | Poison | Status | The User's Attack, Defense, and Accuracy are increased by 1.
-Confide | - | 4 AP | - | Normal | Status | The Opponent's Special Attack is decreased by 1.
-Confuse Ray | - | 4 AP | ≥2 | Ghost | Status | The Opponent is afflicted with [*Confused*](https://rentry.org/tmd2many_rules#status-effects).
-Conversion | - | 4 AP | - | Normal | Status | The User changes Type according to the Move at the top of their Moveset.
-Conversion 2 | - | 4 AP | - | Normal | Status | The User changes Type according to what the Opponent's last-used Move would be least effective against, prioritizing immunities. 
-**Copycat** | - | - | - | Normal | Status | The User replicates a Move used by Opponent or Ally on the current or previous round.
-Corrosive Gas | - | 4 AP | ≥2 | Poison | Status | Removes the Opponent's Worn Item. 
-Cosmic Power | - | 4 AP | - | Psychic | Status | The User's Defense and Special Defense are increased by 1.
-Cotton Guard | - | 4 AP | - | Grass | Status | The User's Defense is increased by 3.
-Cotton Spore | - | 4 AP | ≥2 | Grass | Status | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2. 
-Court Change | - | 4 AP | - | Normal | Status | The effects of [Screens,](https://rentry.co/tmd2many_rules#recoil-screens) Field Hazards, and other battlefield effects switch sides.
-Crafty Shield | - | 4 AP | - | Fairy | Status | The User and their Allies are immune to Status Moves for 1 round.
-Curse | - | 4 AP | - | Ghost | Status | The User's Attack and Defense are increased by 1, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with *Cursed*. Ignores Substitutes.
-**Dark Void** | - | 4 AP | ≥8 | Dark | Status | The Opponent is afflicted with [*Sleep*](https://rentry.org/tmd2many_rules#status-effects). Spread; Accuracy is decreased by ≥15 for each target.
-Decorate | - | 4 AP | - | Fairy | Status | The Ally's Attack and Special Attack are increased by 2. Ignores Protect Moves except Crafty Shield.
-Defend Order | - | 4 AP | - | Bug | Status | The User's Defense and Special Defense are increased by 1. 
-Defense Curl | - | 4 AP | - | Normal | Status | The User's Defense is increased by 1. Increases the damage of Rollout and Ice Ball by 3 for each use.
-**Defog** | - | 4 AP | - | Flying | Status | The Opponent's Evasion is decreased by 1. Removes the effects of [Field Hazards](https://rentry.co/tmd2many_rules#battlefield-hazards), [Terrain](https://rentry.co/tmd2many_rules#terrain), [Screens](https://rentry.co/tmd2many_rules#recoil-screens), Mist, and [Ominous Weather](https://rentry.co/tmd2many_rules#weather).
-**Destiny Bond** | - | 4 AP | - | Ghost | Status | The User and Opponent are afflicted with [*Bound*](https://rentry.org/tmd2many_rules#status-effects). Accuracy is changed to ≥11 and is halved for each consecutive use.
-Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-Disable | - | 4 AP | - | Normal | Status | The Opponent is afflicted with [*Disabled*](https://rentry.org/tmd2many_rules#status-effects).
-Double Team | - | 4 AP | - | Normal | Status | The User's Evasion is increased by 1.
-Dragon Dance | - | 4 AP | - | Dragon | Status | The User's Attack and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1.
-Eerie Impulse | - | 4 AP | - | Electric | Status | The Opponent's Special Attack is decreased by 2.
-Electric Terrain | - | 4 AP | - | Electric | Status | The Terrain is changed to Electric Terrain.
-Electrify | - | 4 AP | - | Electric | Status | The Opponent's Moves are Electric-Type for 1 round.
-Embargo | - | 4 AP | - | Dark | Status | The Opponent is afflicted with [*Embargo*](https://rentry.org/tmd2many_rules#status-effects).
-Encore | - | 4 AP | - | Normal | Status | The Opponent is afflicted with [*Encore*](https://rentry.org/tmd2many_rules#status-effects).
-Endure | - | 4 AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves. 
-Entrainment | - | 4 AP | - | Normal | Status | The Opponent's Ability is changed to the User's.
-Fairy Lock | - | 4 AP | - | Fairy | Status | The Opponent is afflicted with [*Leg Hold*](https://rentry.org/tmd2many_rules#status-effects). Room-Hitter.
-Fake Tears | - | 4 AP | - | Dark | Status | The Opponent's Special Defense is decreased by 2.
-Feather Dance | - | 4 AP | - | Flying | Status | The Opponent's Attack is decreased by 2.
-Flash | - | 4 AP | ≥2 | Normal | Status | The Opponent's Accuracy is decreased by 1. The User may illuminate dark areas.
-Flatter | - | 4 AP | ≥2 | Dark | Status | The Opponent's Special Attack is increased by 2. The Opponent is afflicted with [*Confusion*](https://rentry.org/tmd2many_rules#status-effects).
-Floral Healing | - | 4 AP | - | Fairy | Status | The Ally is healed for 4 HP. When in Grass Terrain, the Ally is healed for 6 HP.
-**Flower Shield** | - | 4 AP | - | Fairy | Status | If the User is Grass-Type, their Defense is increased by 1. If there are other Grass-Type Pokémon in the battle, the User must select additional Grass-Type Allies and Opponents to have their Defense increased by 1 at the cost of 1 AP each.
-Focus Energy | - | 4 AP | - | Normal | Status | The User's Crit Ratio is increased by 2.
-Follow Me | - | 4 AP | - | Normal | Status | The User redirects all Opponent attacks to them.
-Foresight | - | 4 AP | - | Normal | Status | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
-Forest's Curse | - | 4 AP | ≥2 | Grass | Status | The Opponent gains the Grass-Type, even if they are dual-Typed.
-**Gastro Acid** | - | 4 AP | ≥2 | Poison | Status | For 3 rounds, the Opponent's Ability is nullified.
-**Gear Up** | - | 4 AP | - | Steel | Status | The User's Attack and Special Attack are increased by 1. If there are Pokémon with the Abilities Plus or Minus in the battle, the User must select additional Allies and Opponents using Plus or Minus to have their Defense increased by 1 at the cost of 1 AP each.
-Geomancy | - | 4 AP | - | Fairy | Status | Does nothing on round 1. On turn 2, the User's Special Attack, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1. 
-Glare | - | 4 AP | ≥2 | Normal | Status | The Opponent is afflicted with [*Paralysis*](https://rentry.org/tmd2many_rules#status-effects). Affects Ghost-Types.
-Grass Whistle | - | 4 AP | ≥8 | Grass | Status | The Opponent is afflicted with [*Sleep*](https://rentry.org/tmd2many_rules#status-effects).
-Grassy Terrain | - | 4 AP | - | Grass | Status | The Terrain is changed to Grassy Terrain.
-Gravity | - | 4 AP | - | Psychic | Status | All Pokémon in the battle are affected with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
-**Growl** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 
-Growth | - | 4 AP | - | Normal | Status | The User's Attack and Special Attack are increased by 1. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), The User's Attack and Special Attack are increased by 2.
-Grudge | - | 4 AP | - | Ghost | Status | Does nothing on round 1. On round 2, if the User is KO'd by an Attacking Move, the Opponent is afflicted with [*Grudge*](https://rentry.org/tmd2many_rules#status-effects).
-Guard Split | - | 4 AP | - | Psychic | Status | If the User's Defensive Stats are lower than the Opponent's, subtract half of the User's Defensive Stats rounded down from the Opponent's, and add half of the Opponent's Defensive Stats to the User's.
-Guard Swap | - | 4 AP | - | Psychic | Status | The User swaps Defensive Stat changes with the Opponent.
-~~Hail~~ | - | 4 AP | - | Psychic | Status | Move replaced by Snowscape.
-Happy Hour | - | 4 AP | - | Normal | Status | If the Move was used during a battle, after it ends, the User may roll 1D20 for each defeated Opponent the Move was used on for increased prize money.
-Harden | - | 4 AP | - | Normal | Status | The User's Defense is increased by 1.
-Haze | - | 4 AP | - | Ice | Status | All Pokémon in the battle have their Stat changes reset to 0.
-**Heal Bell** | - | 4 AP | - | Normal | Status | The User is cured of all Major Status Conditions. The User may select additional Allies to cure at the cost of 2 AP each.
-**Heal Block** | - | 4 AP | - | Psychic | Status | The Opponent is afflicted with [*Heal Block*](https://rentry.org/tmd2many_rules#status-effects). The User may select additional Opponents to affect with *Heal Block* at the cost of 2 AP each.
-Heal Order | - | 4 AP | - | Bug | Status | The User heals 4 HP.
-Heal Pulse | - | 4 AP | - | Psychic | Status | The User heals an Ally for 4 HP.
-Healing Wish | - | 4 AP | - | Psychic | Status | The User heals an Ally to full HP and cures all Major Status Conditions. The User faints.
-Heart Swap | - | 4 AP | - | Psychic | Status | The User swaps Stat changes with the Opponent. 
-**Helping Hand** | - | 4 AP | - | Normal | Status | For 2 rounds, an Ally's Attack and Special Attack are increased by 1. Non-Combat Actions have advantage; roll 2D20 and the highest roll is used.
-**Hold Hands** | - | 1 AP | - | Normal | Status | It's said that if two Pokémon use this move simultaneously, something wacky and unpredictable will occur.
-Hone Claws | - | 4 AP | - | Dark | Status | The User's Attack and Accuracy are increased by 1.
-**Howl** | - | 4 AP | - | Normal | Status | The User's Attack is increased by 1. The User may select additional Allies to have their Attack increased by 1 at the cost of 2 AP each.
-Hypnosis | - | 4 AP | ≥8 | Psychic | Status | The Opponent is afflicted with [*Sleep*](https://rentry.org/tmd2many_rules#status-effects).
-Imprison | - | 4 AP | - | Psychic | Status | While the User is in-battle, the Opponents are unable to use Moves also known by the User.
-Ingrain | - | 4 AP | - | Grass | Status | The User is afflicted with [*Ingrained*](https://rentry.org/tmd2many_rules#status-effects).
-**Instruct** | - | 4 AP | - | Psychic | Status | The Opponent is forced to use their last-used Move. If used on the same Opponent, Accuracy is changed to ≥11 and is halved for each consecutive use.
-Ion Deluge | - | 4 AP | - | Electric | Status | For 1 round, all Normal-Type Moves are changed to Electric-Type.
-Iron Defense | - | 4 AP | - | Steel | Status | The User's Defense is increased by 2.
-**Jungle Healing** | - | 4 AP | - | Grass | Status | The User is healed for 2 HP and is cured of all Major Status Conditions. The User may select additional Allies to heal and cure at the cost of 2 AP each. Initial healing can be shifted to any nearby Pokémon.
-Kinesis | - | 4 AP | ≥5 | Psychic | Status | The Opponent's Accuracy is decreased by 1.
-King's Shield | - | 4 AP | - | Steel | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-Laser Focus | - | 4 AP | - | Normal | Status | The User's next Move is a Critical Hit. 
-Leech Seed | - | 4 AP | - | Grass | Status | The Opponent is afflicted with *Seeded.*
-**Leer** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
-**Life Dew** | - | 4 AP | - | Water | Status | The User is healed for 2 HP. The User may select additional Allies to heal at the cost of 2 AP each. Initial healing can be shifted to any nearby Pokémon.
-Light Screen | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Special Moves.
-Lock-On | - | 4 AP | - | Normal | Status | The User's next Move never misses the Opponent targeted. 
-Lovely Kiss | - | 4 AP | ≥6 | Normal | Status | The Opponent is afflicted with *Sleep.*
-Lucky Chant | - | 4 AP | - | Normal | Status | For 2 round, the Opponents are unable to have Critical Hits.
-**Lunar Dance** | - | 4 AP | - | Psychic | Status | An Ally's HP is fully-restored and the next round, their [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 1. The User faints.
-Magic Coat | - | 4 AP | - | Psychic | Status | For 1 round, the User reflects all Status Moves with an Offensive Focus.
-Magic Powder | - | 4 AP | - | Psychic | Status | The Opponent's Type is changed to Psychic.
-**Magic Room** | - | 4 AP | - | Psychic | Status | Until the User faints, Worn and Held Items have no effect. 
-Magnet Rise | - | 4 AP | - | Electric | Status | The User is afflicted with [*Raised*](https://rentry.org/tmd2many_rules#status-effects).
-Magnetic Flux | - | 4 AP | - | Electric | Status | The User's Defense and Special Defense are increased by 2.
-**Mat Block** | - | 4 AP | - | Fighting | Status | For 1 round, an Ally's Defense is increased by 4. The User may select additional Allies to block at the cost of 2 AP each. Accuracy is changed to ≥11 and is halved for each consecutive use.
-**Me First** | - | - | - | Normal | Status | The User replicates a Move used by Opponent on the previous turn. STAB is applied to the Move regardless of the User's Type. Can be used immediately before fainting. 
-Mean Look | - | 4 AP | - | Normal | Status | The Opponent is afflicted with *Immobile*.  
-Meditate | - | 4 AP | - | Psychic | Status | The User's Attack is increased by 1.
-Memento | - | 4 AP | - | Dark | Status | The Opponent's Attack and Special Attack are decreased by 3. The User faints.
-Metal Sound | - | 4 AP | ≥4 | Steel | Status | The Opponent's Special Defense is decreased by 2. 
-**Metronome** | - | 4 AP | - | Normal | Status | The User uses a random move. =HELP=
-Milk Drink | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
-**Mimic** | - | 4 AP | - | Normal | Status | The User memorizes a Move used by Opponent or Ally on the current or previous round, replacing this Move until the User faints of the battle ends.
-Mind Reader | - | 4 AP | - | Normal | Status | Until the end of the next round, the User's Moves cannot miss the Opponent.
-Minimize | - | 4 AP | - | Normal | Status | The User's Evasion is increased by 2.
-Miracle Eye | - | 4 AP | - | Psychic | Status | The Opponent is affected by Psychic-Type Moves. The Opponent's Evasion is ignored.
-**Mirror Move** | - | - | - | Flying | Status | The User replicates a Move which affected them on the current or previous round.
-**Mist** | - | 4 AP | - | Ice | Status | The User is protected from to having their Stats decreased by Opponents. The User may select additional protect at the cost of 2 AP each.
-Misty Terrain | - | 4 AP | - | Fairy | Status | The Terrain is changed to Misty Terrain.
-**Moonlight** | - | 4 AP | - | Fairy | Status | The User is healed for 4 HP. Healing dictated by [Weather](https://rentry.org/tmd2many_rules#weather). 
-**Morning Sun** | - | 4 AP | - | Normal | Status | The User is healed for 4 HP. Healing dictated by [Weather](https://rentry.org/tmd2many_rules#weather). 
-**Mud Sport** | - | 4 AP | - | Ground | Status | For 3 rounds, Electric-Type Moves have their damage decreased by 5.
-Nasty Plot | - | 4 AP | - | Dark | Status | The User's Special Attack is increased by 2.
-Nightmare | - | 4 AP | - | Dark | Status | The Opponent is afflicted with *Nightmare*.
-**No Retreat** | - | 4 AP | - | Fighting | Status | The User's Attack, Defense, Special Attack, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1. The User cannot back down once they engage. 
-Noble Roar | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack and Special Attack are decreased by 1.  
-Obstruct | - | 4 AP | - | Dark | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent's Defense is decreased by 2.
-Octolock | - | 4 AP | ≥2 | Fighting | Status | The Opponent is afflicted with *Immobile*. The Opponent's Defense and Special Defense are decreased by 1. 
-Odor Sleuth | - | 4 AP | - | Normal | Status | The Opponent is affected by Normal and Fighting-Type Moves. The Opponent's Evasion is ignored. The User ignores Evasion. 
-**Pain Split** | - | 4 AP | - | Normal | Status | The User is afflicted with *Pain Split*. 
-Parting Shot | - | 4 AP | ≥2 | Dark | Status | The Opponent's Attack and Special Attack are decreased by 1. The User flees to safety. 
-**Perish Song** | - | 4 AP | ≥2 | Normal | Status | The Opponent is afflicted with *Perishing*. 
-Play Nice | - | 4 AP | - | Normal | Status | The Opponent's Attack is decreased by 1. Ignores Protect Moves.
-Poison Gas | - | 4 AP | ≥3 | Poison | Status | The Opponent is afflicted with *Poison*.
-Poison Powder | - | 4 AP | ≥6 | Poison | Status | The Opponent is afflicted with *Poison*.
-Powder | - | 4 AP | ≥2 | Bug | Status | The Opponent is afflicted with *Powdered*.
-Power Split | - | 4 AP | - | Psychic | Status | The User's Offensive Stats change by 2 to be closer to that of the Opponent's Stats.
-Power Swap | - | 4 AP | - | Psychic | Status | The Opponent has their Attack and Special Attack Stat increases and decreases swapped with the User. 
-Power Trick | - | 4 AP | - | Psychic | Status | The User's Attack Stat is swapped with their Defense Stat. 
-Protect | - | 4 AP | - | Normal | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-Psych Up | - | 4 AP | - | Normal | Status | The User copies the Opponent's Stat increases and decreases.
-Psychic Terrain | - | 4 AP | - | Psychic | Status | The Terrain is changed to [Psychic Terrain](https://rentry.co/tmd2many_rules#terrain).
-Psycho Shift | - | 4 AP | ≥2 | Psychic | Status | The User's Major Status Condition is transferred to the Opponent. 
-Purify | - | 4 AP | - | Poison | Status | The User cures an Ally of all Major Status Conditions. If a Major Status Condition is cured, the User is healed for 4 HP.
-Quash | - | 4 AP | ≥2 | Dark | Status | The User halts the Opponent from acting temporarily. 
-Quick Guard | - | 4 AP | - | Fighting | Status | For 1 round, the User and their Allies are immune to Priority Moves.
-Quiver Dance | - | 4 AP | - | Bug | Status | The User's Special Attack, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1. 
-Rage Powder | - | 4 AP | - | Bug | Status | For the Opponent's turn, they become more likely to target the User.
-Rain Dance | - | 4 AP | - | Water | Status | The Weather is changed to [Rain](https://rentry.co/tmd2many_rules#weather).
-Recover | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
-**Recycle** | - | 4 AP | - | Normal | Status | When in battle, the User acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they've used recently. Outside of combat, the User may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
-Reflect | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Physical Moves.  
-Reflect Type | - | 4 AP | - | Normal | Status | The User's Type changes to match the Opponent's. 
-Refresh | - | 4 AP | - | Normal | Status | The User is cured of *Poison*, *Burn*, or *Paralysis*. 
-Rest | - | 4 AP | - | Psychic | Status | The User is unable to act for 2 rounds. The User heals to Max HP.
-**Roar** | - | 4 AP | - | Normal | Status | The User roars in an intimidating manner.
-Rock Polish | - | 4 AP | - | Rock | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 2. 
-Role Play | - | 4 AP | - | Psychic | Status | The User's Ability is replaced with the Opponent's. 
-Roost | - | 4 AP | - | Flying | Status | For 1 round, the User loses Flying-Type. The User is healed for 4 HP.
-Rototiller | - | 4 AP | - | Ground | Status | All Grounded Grass-Type Pokemon have their Attack and Special Attack increased by 1.
-**Safeguard** | - | 4 AP | - | Normal | Status | For 1 round, all Opponents' Status Moves have their AP cost increased by 2.
-Sand Attack | - | 4 AP | ≥2 | Ground | Status | The Opponent's Accuracy is decreased by 1.
-Sandstorm | - | 4 AP | - | Rock | Status | The Weather is changed to [Sandstorm](https://rentry.co/tmd2many_rules#weather).
-Scary Face | - | 4 AP | ≥2 | Normal | Status | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2. 
-Screech | - | 4 AP | ≥4 | Normal | Status | The Opponent's Defense is decreased by 2. 
-Sharpen | - | 4 AP | - | Normal | Status | The User's Attack is increased by 1.
-Shell Smash | - | 4 AP | - | Normal | Status | The User's Attack, Special Attack, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 2. The User's Defense and Special Defense are decreased by 1. 
-Shift Gear | - | 4 AP | - | Steel | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 2, and their Attack is increased by 1. 
-Shore Up | - | 4 AP | - | Ground | Status | The User is healed for 4 HP. While in Sandstorm, the User is healed for 6 HP.
-Simple Beam | - | 4 AP | ≥2 | Normal | Status | The Opponent's Ability is replaced with Simple.
-Sing | - | 4 AP | ≥9 | Normal | Status | The Opponent is afflicted with *Sleep*. Ignores Protect Moves and Substitutes.
-Sketch | - | 4 AP | - | Normal | Status | The User memorizes a Move used by Opponent or Ally on the current or previous round, replacing this Move permanently. 
-Skill Swap | - | 4 AP | - | Psychic | Status | The User's trades Abilities with the Opponent. 
-Slack Off | - | 4 AP | - | Normal | Status | The User heals for 4 HP.
-Sleep Powder | - | 4 AP | ≥6 | Grass | Status | The Opponent is afflicted with *Sleep*.
-**Sleep Talk** | - | 4 AP | - | Normal | Status | If the User is afflicted with *Sleep*, roll 1D4; The User uses a Move in their Moveset. AP cost is only counted once. 
-Smokescreen | - | 4 AP | ≥2 | Normal | Status | The Opponent's Accuracy is decreased by 1. 
-**Snatch** | - | 4 AP | - | Dark | Status | For 1 round, the User steals Status Moves from Opponents. 
-Soak | - | 4 AP | - | Water | Status | The Opponent's Type is changed to Water. 
-Soft-Boiled | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
-Speed Swap | - | 4 AP | - | Psychic | Status | The User swaps their Speed Stat with the Opponent.
-Spider Web | - | 4 AP | - | Bug | Status | The Opponent is afflicted with *Immobile*. 
-Spikes | - | 4 AP | - | Rock | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Spikes. 
-**Spiky Shield** | - | 4 AP | - | Grass | Status | Protect. For 1 round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent takes Recoil damage.
-**Spite** | - | 4 AP | - | Ghost | Status | The Opponent's last-used Move has its AP cost increased by 2 until it's used again.
-Splash | - | 1 AP | - | Normal | Status | The User splashes around.
-Spore | - | 4 AP | ≥2 | Grass | Status | The Opponent is afflicted with *Sleep*. Ignores Protect Moves and Substitutes.
-Spotlight | - | 4 AP | - | Normal | Status | For 1 round, the Opponent is more likely to be attacked. 
-Stealth Rock | - | 4 AP | - | Rock | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Pointed Stones.
-Sticky Web | - | 4 AP | - | Bug | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Sticky Web. 
-Stockpile | - | 4 AP | - | Normal | Status | The User's Defense and Special Defense are increased by 1. Affects Spit Up and Swallow. Fails if used more than 3 times.  
-Strength Sap | - | 4 AP | ≥2 | Grass | Status | The Opponent's Attack is decreased by 1. The User is healed for HP equal to the Opponent's Attack Stat, including Attack increases or decreases.
-String Shot | - | 4 AP | ≥2 | Bug | Status | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2.
-Stuff Cheeks | - | 4 AP | - | Normal | Status | If the User eats a Berry, the User's Defense is increased by 2. Fails if the User has no Berry to eat. 
-Stun Spore | - | 4 AP | ≥6 | Grass | Status | The Opponent is afflicted with *Paralysis*. Ignores Protect Moves and Substitutes.
-Substitute | - | 4 AP | - | Normal | Status | The User loses ¼ of their Max HP. The User is afflicted with *Substitute*.
-Sunny Day | - | 4 AP | - | Fire | Status | The Weather is changed to [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather).
-Supersonic | - | 4 AP | ≥9 | Normal | Status | The Opponent is afflicted with *Confusion*. Ignores Protect Moves and Substitutes.
-Swagger | - | 4 AP | ≥5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with *Confusion*.
-Swallow | - | 4 AP | - | Normal | Status | The User is healed for 4 HP for every round Stockpile was used, up to 12 HP. Removes all Stat increases from Stockpile. Fails if Stockpile hasn't been used.
-Sweet Kiss | - | 4 AP | ≥6 | Fairy | Status | The Opponent is afflicted with *Confusion*.
-Sweet Scent | - | 4 AP | ≥2 | Normal | Status | The Opponent's Evasion is decreased by 2. The User may select additional Opponents to have their Evasion decreased by 2 at the cost of 2 AP each. 
-Switcheroo | - | 4 AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
-Swords Dance | - | 4 AP | - | Normal | Status | The User's Attack is increased by 2. 
-Synthesis | - | 4 AP | - | Grass | Status | The User is healed for 2 HP. HP healed affected by the [Weather](https://rentry.co/tmd2many_rules#weather). 
-Tail Glow | - | 4 AP | - | Bug | Status | The User's Special Attack is increased by 2.
-Tail Whip | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
-**Tailwind** | - | 4 AP | - | Flying | Status | For 3 rounds, the User shares their Max AP with up to 2 Allies. The Move cannot increase an Ally's Max AP above 8, but may take the User below 4 AP.
-Tar Shot | - | 4 AP | ≥2 | Rock | Status | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. The Opponent's Type resistance to Fire-Type Moves is decreased by 1. 
-**Taunt** | - | 4 AP | ≥2 | Dark | Status | For 2 rounds, the Opponent's Status Moves have their AP cost increased by 2.
-Tearful Look | - | 4 AP | - | Normal | Status | The Opponent's Attack and Special Attack are decreased by 1.
-Teatime | - | 4 AP | - | Normal | Status | The User and Opponent both eat an available Berry. The User may select additional Opponents to snack with at the cost of 2 AP each. 
-Teeter Dance | - | 4 AP | ≥2 | Normal | Status | The Opponent is afflicted with *Confusion*. The User may select additional Opponents to afflict with *Confusion* at the cost of 2 AP each. 
-Telekinesis | - | 4 AP | - | Psychic | Status | The Opponent is afflicted with *Raised*. All Moves against the Opponent never miss. 
-Teleport | - | 4 AP | - | Psychic | Status | The User teleports. 
-Thunder Wave | - | 4 AP | ≥3 | Electric | Status | The Opponent is afflicted with *Paralysis*.
-Tickle | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack and Defense are decreased by 1.
-Topsy Turvy | - | 4 AP | - | Dark | Status | The Opponent's Stat increases and decreases are swapped. 
-Torment | - | 4 AP | ≥2 | Dark | Status | For 2 rounds, the Opponent is unable to use the same move in several times in succession.
-Toxic | - | 4 AP | ≥3 | Poison | Status | The Opponent is afflicted with *Badly Poisoned*. If the User is Poison-Type, the Move never misses.
-Toxic Spikes | - | 4 AP | - | Poison | Status | [Hazard](https://rentry.co/tmd2many_rules#battlefield-hazards). The User applies one layer of Poisoned Spikes.
-Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1, even if the Opponent is immune. 
-Transform | - | 4 AP | - | Normal | Status | The User's species changes to one they've seen on the current or previous round.
-Trick | - | 4 AP | - | Psychic | Status | The User swaps Worn/Held Items with the Opponent.
-**Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Speed and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)Speed Stat increases and decreases inverted.
-Trick-Or-Treat | - | 4 AP | ≥2 | Ghost | Status | The Opponent gains the Ghost-Type, even if they already have two Types. 
-Venom Drench | - | 4 AP | ≥2 | Poison | Status | The Opponent's Attack, Special Attack, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are decreased by 1. The User may select additional Opponents to drench at the cost of 2 AP each. Fails if the Opponent is not afflicted with *Poison* or *Badly Poisoned*. 
-Water Sport | - | 4 AP | - | Water | Status | Until the User faints, all Pokemon in the battle have their Fire-Type damage decreased by 5, 
-**Whirlwind** | - | 4 AP | - | Normal | Status | The User blows an Opponent away. 
-Wide Guard | - | 4 AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
-Will-O-Wisp | - | 4 AP | ≥4 | Fire | Status | The Opponent is afflicted with *Burn*.
-**Wish** | - | 4 AP | - | Normal | Status | The User is afflicted with *Wishing*. 
-Withdraw | - | 4 AP | - | Water | Status | The User's Defense is increased by 1. 
-**Wonder Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Defense and Special Defense Stats and Stat increases and decreases flipped.
-Work Up | - | 4 AP | - | Normal | Status | The User's Attack and Special Defense are increased by 1. 
-Worry Seed | - | 4 AP | ≥2 | Grass | Status | The Opponent's Ability is replaced with Insomnia.
-Yawn | - | 4 AP | - | Normal | Status | After 1 round, the Opponent is afflicted with *Sleep*.
 
 ***
 

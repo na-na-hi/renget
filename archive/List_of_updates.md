@@ -178,5 +178,8 @@
 |05/09/2023|153 & 154|Recommendation|Addition of the link for the third SOS : A Wonderful Life stream + minor fixes.|
 |05/09/2023|155|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps containing mentions and breakdown of behind-the-scenes from the Wedding collab on Ollie channel. These timestamps were taken from ollie's HoloCure stream from 05/09/2023.|
 |05/09/2023|156|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Kiara's GTA4 TLAD stream from 05/09/2023.|
+|06/09/2023|157|Lover of Idols II - OHC & Mentions|Addition of Shiori's POV for the Advent Minecraft collab of 06/09/2023.|
+|06/09/2023|158|Lover of Idols II - OHC & Mentions|Addition of FUWAMOCO's POV for the Advent Minecraft collab of 06/09/2023.|
+|06/09/2023|159|Lover of Idols I - Collabs on Nerissa's channel|Addition of both Shiori and FUWAMOCO POVs for the upcoming collab on Minecraft with Advent.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

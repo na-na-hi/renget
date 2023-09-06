@@ -40,3 +40,12 @@ Reverb G2 is still a decent option for sim players if you can find it for a good
 In general, older headsets like the Vive, Rift CV1, or any WMR headset other than the Reverb G2 are only worth picking up if you can find one very cheap.
 
 If you've got any questions, post in the thread, and we'll try to help.
+
+#####--- ADDITIONAL RESOURCES ---#
+
+Old Oculus app versions:
+https://www.reddit.com/r/oculus/comments/m3xfqw/google_drive_folder_of_various_oculus_pc_client/
+Old Oculus Rift Setup Guide:
+https://pastebin.com/QgHwLq8R
+Old HTC Vive Setup Guide:
+https://pastebin.com/QNc18zHd

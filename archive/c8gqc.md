@@ -166,7 +166,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • FiiO HS18
 • Final Type E
 • JVC EP-FX10 Spiral Dot ++
-• KZ Starline (black, use inverted/reversed)
 • Spinfit CP100+
 • Spinfit CP145
 • Tanchjim T-APB

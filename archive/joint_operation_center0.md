@@ -43,7 +43,7 @@ A page dedicated to the membership content - will contain general informations a
 A list of all the collab Nerissa took part of on her own channel. Was made for clarification and presentation sake and to unclogged the original Lover of Idols page.
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols II - Collabs on other channels & Mentions](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)
-What should be the most labyrinthine collection of pages of all the library: this is where you can find all the collabs Nerissia took part of, be it on in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly and monthly.
+What should be the most labyrinthine collection of pages of all the library in the long-term: this is where you can find all the collabs Nerissia took part of, be it on in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly after the debut anniversary.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Technical**  ![Image description](https://files.catbox.moe/f9inkg.png) <-

@@ -37,7 +37,7 @@ A word of advice: as per >>1, be smart and don't reply or engage in off-topic or
 
 
 !!!warning Second OP Post - Tag schedule : Criw5zhE0bI-HD.jpg 
-\>Introduction to the new jailbirds
+\>Basic introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
 Crunchyroll Interviews
