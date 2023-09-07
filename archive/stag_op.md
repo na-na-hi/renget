@@ -7,7 +7,7 @@
 https://store.steampowered.com/app/1716740/Starfield/
 
 \>>>News<<<
-\>06/09: Game is officially released out of Early Access!
+\>06/09: Full release!
 \>03/09: Starfield Script Extender is out: https://www.nexusmods.com/starfield/mods/106
 \>01/09: Early Access now available! Full release on September 6th.
 **[Update when appropriate - insert new items at the top and use DD/MM]**
@@ -21,12 +21,11 @@ https://store.steampowered.com/app/1716740/Starfield/
 \>Q: Is the space around planets finite?
 \>A: No, but interplanetary travel takes an unreasonably long time without using grav-jumps.
 \>Q: What's the deal with NG+(+...)?
-\>A: Restarts the game with minor changes to the story and world, while keeping your skills. The extent of the game past the first NG+ is currently unknown.
+\>A: Restarts the game with minor changes to the story and world, while preserving your powers and skills. The extent of the game past the first NG+ is currently unknown.
 
 \>>>Misc<<<
 \>Potential upcoming mods leaked by scraping Nexus: https://rentry.org/stag_leakedmods
 \>Character builder: https://nukesdragons.com/starfield/character
-\>Get rid of Gaylospammers with these filters: https://rentry.org/stag_filters
 \>Threadly space music: **[Link to some space-related music]**
 
 \>>>OP template<<<

@@ -114,7 +114,11 @@
  -> = *Ar-Tem-Iss* <-
  -> *{Straightforward}* <-
 
- -> ![Splash](https://files.catbox.moe/xy4bsi.jpg) <-
+ -> ![Splash](https://files.catbox.moe/vwafo5.jpg) <-
+
+ -> ![Remodel Concept](https://files.catbox.moe/pv44uj.jpg) <-
+
+ -> ![Classic Splash](https://files.catbox.moe/xy4bsi.jpg) <-
 
  -> ![Promo](https://files.catbox.moe/78har0.jpg) <-
 
@@ -162,6 +166,19 @@
  -> ![Promo](https://files.catbox.moe/r70ymd.jpg) <-
 
  -> ![Promo 2](https://files.catbox.moe/dqvcho.jpg) <-
+
+ -> **Charon** <-
+ -> = *Kh-air-On* <-
+ -> *{Not Char-Grilled Char-on. Not Car-Driving Kaa-Ron.}* <-
+ -> *{The lack of a syllable (air) is this time the English language's fault, in it's refusal to use accentation. The 'ideal' way to spell it would be Kháron, his name in of itself an etymological reference to his (accurately depicted) piercing, glowing blue-grey eyes}* <-
+
+ -> ![Splash](https://files.catbox.moe/bnev38.jpg) <-
+
+ -> ![Concept]() <-
+
+ -> ![Cine Concept]() <-
+
+ -> ![Cine Face]() <-
 
  -> **Atlas** <-
  -> = *At-Las* <-

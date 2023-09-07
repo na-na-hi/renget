@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** 
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*25/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

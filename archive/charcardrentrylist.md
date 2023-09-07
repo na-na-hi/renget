@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Natsuko](https://files.catbox.moe/anpft4.png)|
+[RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Kikuri Hiroi](https://files.catbox.moe/11e1xw.png), [Carol Olston](https://files.catbox.moe/tth8ul.png)|[Yoyoko Ohtsuki](https://files.catbox.moe/sjnnmz.png)
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yamamomo](https://files.catbox.moe/jyzc21.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Maire and Cordelia](https://files.catbox.moe/9xp6nk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Wizard](https://files.catbox.moe/viwusr.png), [Beastmaster](https://files.catbox.moe/5ynvxo.png), [Priest](https://files.catbox.moe/ymxp8e.png), [Dark Knight](https://files.catbox.moe/a14qum.png), [Dancer](https://files.catbox.moe/xg92ut.png)|
@@ -61,7 +63,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||
-[Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [Phalannex](https://rentry.co/phalannex) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
@@ -84,7 +85,6 @@ Botmaker | Category | New Bots | Updated Bots
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
-[RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Johncock](https://rentry.org/Johncock) | Misc ||

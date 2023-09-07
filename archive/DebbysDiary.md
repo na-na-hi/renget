@@ -42,3 +42,7 @@ I saw him and a couple friends of his at the cook-off in town later as well. The
 Oh! Also I got lucky with a raffle! Ain't sure what to do with a year's supply of Plain Seeds, but I'm sure there's somethin' we can do with them.
 
 >Reunion
+Got a letter from Lilac today.
+It's been a while since I heard from him, and I ain't surprised to hear he got in a fight with pops again. This time it's real bad, he's comin' down south for a while to let things cool off. Probably the same old argument. It don't feel right that he's gotta deal with that while I'm here livin' my best life, so I oughta make sure he'll feel welcome. Gotta admit, I'm a little nervous. We didn't part on the best of terms, but I told y'all all about it before. Either he's desperate enough to come to me, or he's forgiven me for leavin'. Maybe both, but hopin' for the latter. I'll apologize when we meet regardless, I know he didn't mean the things he said either. It still hurt hearin' my brother say all that. I know we rarely met eye to eye, but we cared for each other when we were hatchlings.
+Family is always tricky, I figure. Y'all are stuck with them, and y'all gotta stick by them. Momma made sure we learned that. If y'all can't rely on family, who then? Well, I got Kaz now, but that ain't the case for everyone. He sure don't got family to rely on anymore. 
+Not yet at least.

@@ -91,7 +91,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 :-: | :-: | :-: | :-: | :-: | :-: | :-: 
 1 | [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)| [First Character Prompts](https://rentry.org/1stCharacterPrompt) | [The Snivy and the Mysterious Rock Path](https://rentry.org/eurf8) |[A Detailed Guide to Aura](https://rentry.org/PMD_Aura) | [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992) | [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517) 
 2 | [Map (ft. Booker)](https://rentry.org/e9e5p) | [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874) | [A 'Mon, Gus](https://rentry.org/7ytz9) | [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h) | [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) | [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
-3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdue) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
+3 | [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb) | [Chespin's Introduction](https://rentry.org/q6gf5) | [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0) | [A Light-Hearted, Low-Stakes Rescue Mission](https://rentry.org/bbdu) | [Apprehended: Cyndaquil (ft. Phanpy)](https://rentry.org/yp44e) | [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
 4 | [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1) | [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117) | [A Ribombee's Arrival](https://rentry.org/RibombeeArrival) | [Mysteriosity Study](https://rentry.org/Mysteriosity) | [Gopnikification (ft. Phanpy)](https://rentry.org/rtez7)  | [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 5 | [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh) | [Togetic Backstory and Personality](https://rentry.org/w4ygz)  |[Sableye's History](https://rentry.org/zyw8t) |  [Anchorage Logs (WIP)](https://rentry.org/vkvdpm) | [More Apples (ft. Clara)](https://rentry.org/imuwu) | [Learning To Fly (ft. Booker)](https://rentry.org/RibombeeFly)
 6 | [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) | [Smith's Personality Blurb](https://rentry.org/hap2d) | [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) | [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) | [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) | [Enter, Pikachu! (WIP)](https://rentry.org/6p9yk)
@@ -300,7 +300,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
 	* [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
-	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
+	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdu)
 	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
 	* [KFC Gets a Win!](https://rentry.org/49yqh)
 * Kiyo the Alolan Vulpix
@@ -431,7 +431,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
 * {||} [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 * {||} [The First Sip (ft. Chespin)](https://rentry.org/yiccz)
-* {1994-07-11||} [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue)
+* {1994-07-11||} [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdu)
 * {2000-01-08} [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * {||} [Cotton (ft. Booker)](https://rentry.org/RibombeeCotton)
 * {||} [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)

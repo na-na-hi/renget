@@ -1,5 +1,5 @@
 ->[Character Hub Page](https://www.chub.ai/users/ritsubestgirl)<- 
-**Last edited 7/20/23 (Check the Chub page, I forget to update this)**
+**Last edited 9/6/23 (Check the Chub page, I forget to update this)**
 *Pictures should be the card downloads as well....*
 
 ## Ai: The Somnium Files
@@ -57,17 +57,22 @@ Card | Name | Description
 ------ | ------ | ------ 
  ![Tomo Aizawa](https://files.catbox.moe/4qg0ev.png) | Tomo Aizawa | Tomboy from Tomo-chan wa Onnanoko! Scenario has you replacing Jun.
  ![Misuzu Gundou](https://files.catbox.moe/15id7x.png) | Misuzu Gundou | Tomo's best friend from Tomo-chan wa Onnanoko! Cold, Manipulative, Mischevious. Made an alternative greeting in which Tomo sets Misuzu and you up for a date..
+ ![Carol Olston.](https://files.catbox.moe/tth8ul.png) | Misuzu Gundou | Tomo and Misuzu's friend from Tomo-chan wa Onnanoko! Bubbly, Airheaded, Big boobs
 
 ## Other
-Card | Name | Description 
 ------ | ------ | ------ 
  ![Lum Invader](https://files.catbox.moe/kfyi35.png) | Lum | Lum Invader from Ursei Yatsura. But you replace Ataru in this scenario because you'll probably treat Lum better than he will. 
- ![Yoyoko Ohtsuki](https://files.catbox.moe/e9oqr5.png) | Yoyoko Ohtsuki | Leader, Vocalist, and Gutiarist of SIDEROS from Bocchi the Rock! You catch her singing karaoke by herself... 
  ![Arezu](https://files.catbox.moe/5c9car.png) | Arezu | Warden for the Diamond Clan. Also a skilled hairdresser. Pear shaped body
  ![Yunyun](https://files.catbox.moe/s1ycdy.png) | Yunyun | Crimson Demon and Self-Proclaimed Rival of Megumin
  ![Sakura Kasugano](https://files.catbox.moe/m5qbda.png) | Sakura Kasugano | School girl tomboy from Street Fighter
  ![Yuffie Kisaragi](https://files.catbox.moe/kg46qj.png) | Yuffie Kisaragi | Ninja thief from Wutai Village 
  ![Modeus](https://files.catbox.moe/qaizob.png) | Modeus | Lustful Demon from Helltaker
+
+## Bocchi the Rock!
+Card | Name | Description 
+------ | ------ | ------ 
+ ![Kikuri Hiroi](https://files.catbox.moe/11e1xw.png) | Kikuri Hiroi | Alcoholic Bassist Vocalist of SICK HACK from Bocchi the Rock! With Three (3) greetings 
+ ![Yoyoko Ohtsuki](https://files.catbox.moe/sjnnmz.png) | Yoyoko Ohtsuki | Leader, Vocalist, and Gutiarist of SIDEROS from Bocchi the Rock! You catch her singing karaoke by herself... 
 
 ### Characters to add
 - Ai: The Somnium Files 

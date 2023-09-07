@@ -834,7 +834,7 @@ Perspiration: This is the current perspiration level of {{char}}. This statistic
 
 ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
 
--> **Mail me with the subject "Found" for the token: pitanon02@proton.me** <-
+-> **Mail me with the subject "Found" for the token: pitanon02@proton.me [0/2]** <-
 -> ![](https://files.catbox.moe/z3opoe.png) <-
 
 ###Card Art

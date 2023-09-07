@@ -410,4 +410,5 @@ https://arch.b4k.co/vp/thread/54393225/ 21 time travel, cute redheads, and raep
 https://arch.b4k.co/vp/thread/54396776/ 22 pondering the orbs
 https://arch.b4k.co/vp/thread/54402426/ 23 more time travel, furfaggotry, and more suffering
 https://arch.b4k.co/vp/thread/54409585/ 24 total cain death
-https://arch.b4k.co/vp/thread/54414988/ 25 i wonder what a rolycoly/weedle fusion would look like
+https://arch.b4k.co/vp/thread/54414988/ 25 someone pls throw rocks at cal for me kthx
+https://arch.b4k.co/vp/thread/54421868/ 26

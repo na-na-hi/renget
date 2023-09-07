@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 06.09.2023 19:30 UTC]
+[Last Updated: 07.09.2023 01:30 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7560742/](https://boards.4chan.org/h/thread/7560742/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 629&nbsp;&nbsp;[archiveofsins.com/h/thread/7560742/](https://archiveofsins.com/h/thread/7560742/)&nbsp;&nbsp;&nbsp;&nbsp;(05.09.2023 10:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;You are stuck with us Edition!
 - 628&nbsp;&nbsp;[archiveofsins.com/h/thread/7557087/](https://archiveofsins.com/h/thread/7557087/)&nbsp;&nbsp;&nbsp;&nbsp;(03.09.2023 02:56)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;I'm going to post this in every thread until you like it Edition
-- 627&nbsp;&nbsp;[archiveofsins.com/h/thread/7553056/](https://archiveofsins.com/h/thread/7553056/)&nbsp;&nbsp;&nbsp;&nbsp;(31.08.2023 16:36)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lean on Me Edition
+- 627&nbsp;&nbsp;[archiveofsins.com/h/thread/7553056/](https://archiveofsins.com/h/thread/7553056/)&nbsp;&nbsp;&nbsp;&nbsp;(31.08.2023 16:36)&nbsp;&nbsp;[1168]&nbsp;#&nbsp;Lean on Me Edition
 - 626&nbsp;&nbsp;[archiveofsins.com/h/thread/7548868/](https://archiveofsins.com/h/thread/7548868/)&nbsp;&nbsp;&nbsp;&nbsp;(28.08.2023 15:33)&nbsp;&nbsp;[1378]&nbsp;#&nbsp;Chika beside the pool edition
 - 625&nbsp;&nbsp;[archiveofsins.com/h/thread/7545435/](https://archiveofsins.com/h/thread/7545435/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 00:27)&nbsp;&nbsp;[1245]&nbsp;#&nbsp;Holy Chikarin edition
 ---

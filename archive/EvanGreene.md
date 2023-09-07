@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*25/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

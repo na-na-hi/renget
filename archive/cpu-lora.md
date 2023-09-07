@@ -2,17 +2,17 @@
 
 **Note: This feature isn't merged into the master branch YET, but it's [very close](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1705652970). I will update the guide once it's merged.**
 
-Think of a LoRA as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. For more information, please see [the LLM Training Guide rentry](https://rentry.org/llm-training). They have much more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide simple, and accessible.
+Think of a LoRA finetune as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
 
-Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
+For more information, please see the [LLM Training Guide rentry](https://rentry.org/llm-training). They have more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide focused on the llama.cpp implementation.
 
-**Important Note:** Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You mostly just need tons of RAM (not VRAM). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
+**Important Note:** Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You mostly just need tons of RAM (not VRAM, this doesn't use your GPU at all). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
 
-To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below.
+To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below. If you use a different path, just make sure to adjust the commands.
 
 ## Required Tools
 
-You need to be able to compile llama.cpp. You can use [any method under their build instructions](https://github.com/ggerganov/llama.cpp#build), but I'm going to recommend keeping it simple by just downloading the [latest w64devkit release](https://github.com/skeeto/w64devkit/releases/latest).
+You need to be able to compile llama.cpp. You can use [any method under their build instructions](https://github.com/ggerganov/llama.cpp#build), but I'm going to keep it simple and recommend using the [latest w64devkit release](https://github.com/skeeto/w64devkit/releases/latest).
 
 1. Install [`git`](https://git-scm.com/) if you don't already have it installed
 2. Download [`w64devkit-fortran-x.xx.x.zip`](https://github.com/skeeto/w64devkit/releases/download/v1.20.0/w64devkit-fortran-1.20.0.zip)
@@ -21,7 +21,7 @@ You need to be able to compile llama.cpp. You can use [any method under their bu
 ## llama.cpp Setup
 
 1. Open a command prompt and move to our working folder: `cd C:\lora`
-2. Download the latest code `finetune-lora` branch from `xaedes`' repo using `git`: `git clone -b finetune-lora https://github.com/xaedes/llama.cpp.git`
+2. Download the latest `finetune-lora` branch from xaedes' repo (NOT the main llama.cpp repo) using git: `git clone -b finetune-lora https://github.com/xaedes/llama.cpp.git`
 3. Run the compiler tools: `w64devkit\w64devkit.exe`
 4. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
 5. Compile everything: `make all -j`
@@ -29,16 +29,27 @@ You need to be able to compile llama.cpp. You can use [any method under their bu
 
 Once llama.cpp has been compiled, you don't need to repeat any of these steps (unless you update to a newer version of llama.cpp).
 
+### Updating llama.cpp
+
+1. Open a command prompt and move to our llama.cpp folder: `cd C:\lora\llama.cpp`
+2. Download the updates: `git pull`
+3. Move up one directory: `cd ..`
+4. Follow steps 3-6 from "llama.cpp Setup" above.
+
 ## Create your LoRA
 
-1. Download the exact gguf file you would like to use as a base ([E.g., `stheno-l2-13b.Q5_K_M.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
-2. Download or create some training data. Store it in plain text format. Using the same prompt formatting that the model is already used to is generally a good idea. Really, any text file can be used.
+1. Download the exact gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q5_K_M.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
+2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
 4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14`
 
 Obviously you need to adjust that last step a little bit. Specifically, change the model name to match your model name, change the file name of the training data to match your training data, and change the number of threads to match the number of physical processors in your system. **See [Appendix B](#appendix-b-stheno-training-example) below for a full example of how to train Stheno using training data, or a chat log from SillyTavern.**
 
-Additionally, the above prompt uses the default values for a ton of settings (which is mostly fine), but you probably want to go through [Appendix C](#appendix-c-finetuneexe-usage) for examples to greatly improve the LoRA quality. Also, see [this pull request](https://github.com/ggerganov/llama.cpp/pull/2632) for some examples.
+Additionally, the above command uses the default values for a ton of settings (which is mostly fine), but you probably want to go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
+
+### Models with Known Issues
+
+Any model with "grouped-query-attention" will not work. This includes the TheBloke's CodeLlama 34B GGUFs. See the [Pull Request](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1709207792) for details.
 
 ## Use your LoRA
 
@@ -48,9 +59,13 @@ If you're using something like [`koboldcpp`](https://github.com/LostRuins/kobold
 
 If you share the LoRA with others, make sure to also mention which base model you used! Remember to include the full file name, including the quantization!
 
+### Runtime LoRA Scale & Multiple LoRAs
+
+If you use llama.cpp's main.exe, [see the documentation for finetune.](https://github.com/xaedes/llama.cpp/tree/finetune-lora/examples/finetune) Basically you can adjust how strongly the LoRA is applied to the model without retraining, and you can even combine multiple LoRA's at once.
+
 ## Appendix A - Hardware Requirements
 
-**This section is a work-in-progress. It takes a while to try things, so updating this is slow-going.**
+**This section is a work-in-progress. It takes a while to try things, so updating this is slow-going. I'm setting up a script to automate this, so please be patient.**
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
 
@@ -79,7 +94,7 @@ Extra tests (compare against the first row):
 - Using `--no-checkpointing` (instead of the default `--use-checkpointing`), increased to RAM to 16.7 GB, but decreased the time to 45 minutes.
 - Increasing the Rank (`--lora-r 16` & matching all other ranks) increases the RAM to 9.1 GB
 
-TODO: I need to figure out a better format for the above table & extra tests so it can accommodate more inputs. There are many options that affect RAM, and execution time, and if I try to add them all to that table, it's going to become very wide.
+TODO: I need to figure out a better format for the above table & extra tests so it can accommodate more inputs. There are many options that affect RAM, and execution time, and if I try to add them all to that table, it's going to become very wide. I am also currently automating this data collection.
 
 I was unable to load any 34B and 70B models, but I think it's due to the model formatting. They require more RAM than I have anyway.
 
@@ -171,7 +186,7 @@ These parameters just help organize files/control file naming.
   - Example: `--model-base stheno-l2-13b.Q5_K_M.gguf`
 - `--train-data FNAME`: Path from which to load training data (default 'shakespeare.txt')
   - Example: `--train-data roleplay-logs.txt`
-  - See Appendix B for a training example.
+  - See [Appendix B](#appendix-b-stheno-training-example) for training data examples.
 - `--checkpoint-in FNAME`: Path from which to load training checkpoint (default 'checkpoint.gguf')
   - If your training stops prematurely, you can resume from the last checkpoint. This just specifies the filename of the checkpoint to resume from. If the file doesn't exist, it will silently start from scratch, so make sure it matches the 'checkpoint-out' setting!
   - Example: `--checkpoint-in chk-lora-stheno-l2-13b-q5_k_m-LATEST.gguf`
@@ -210,16 +225,16 @@ These only affect system performance: `--threads`, `--use-checkpointing`/`--no-c
 These just vary based on the input model's information.
 
 - `--rope-freq-base F`: Frequency base for ROPE (default 10000.000000)
-  - This number should match the rope freq. base used on the input model. Usually the default is correct, but for code llama models use `1000000`
-  - Example: `--repo-freq-base 1000000`
+  - This number should match the rope freq. base used on the input model. **Usually the default is correct, but for code llama models use `1000000`.**
+  - Example: `--rope-freq-base 1000000`
 
 ### LoRA Quality
 
 These directly impact the quality of your LoRA. You should definitely read these and intentionally set them to specific values. This is probably the most confusing and unintuitive part of training.
 
-My guess at matching [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2): `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065` (set `--adam-iter` to 2x the number of samples, and set the `--rank-*` parameters to match `--lora-r`)
+If you just want settings like [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2), you can use these: `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065` (**Note:** Set `--adam-iter` to 2x the number of samples in your data. They had 1550 samples. Also, `--lora-dropout` [isn't implemented yet](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781) in llama.cpp.)
 
-These two control the context size:
+These first two control the context size:
 
 - `-c N`, `--ctx N`: Context size used during training (default 128)
   - The context size used during training is similar to the context size you use during text generation. Larger sizes greatly increase memory usage and training time, so beware. Using a context size smaller than the base model *shouldn't* affect the base model too much, but **each of your training data examples *should* be under this context size**.
@@ -231,49 +246,53 @@ These three control how much data is processed and are based on the number of tr
 
 - `-b N`, `--batch N`: Parallel batch size (default 8)
   - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this as large as your hardware can support. I've seen a few different data sets that just use a size of 1.
-  - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't, some batches won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1.
+  - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't an integer multiple, some batches just won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1, which keeps it simple.
   - Example: `--batch 1`
 - `--grad-acc N`: Number of gradient accumulation steps (simulates larger batch size of batch*gradacc) (default 1)
-  - Artificial multiplier for the batch size. Using gradient accumulation basically runs more batches in series (instead of in parallel), which provides the same quality benefit as increasing the batch size. This process is slower, but uses less RAM.
+  - This is an artificial multiplier for the batch size. Using gradient accumulation basically runs more batches in series (instead of in parallel), which provides the same quality benefit as increasing the batch size. This process is slower, but uses much less RAM.
 - `--adam-iter N`: Maximum number of Adam optimization iterations for each batch (default 256)
-  - This is the number of iterations the training will run for. If you know how to determine a good value for this, let me know!
-  - Each iteration runs one batch of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
+  - This is the number of iterations the training will run for. **If you are experienced at training LoRA's, please let me know if this section is correct!**
+  - Each iteration runs one `--batch` of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
   -  Other programs use ["epochs"](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/), which are calculated based on the number of training samples, the batch size, and the number of iterations.
     - If you want to convert epoch's to iterations, do: `(training samples / batch size) * epochs`
   - Example: `--adam-iter 30`
+  - Note 1: After all of the training data has been seen once (1 epoch), finetune will reshuffle your training examples, which results in batches with different samples.
+  - Note 2: Currently, if you stop training part-way through and resume from a checkpoint you will end up with a different end result because [certain randomized information isn't stored across runs](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1708761811). So if it's important to you to be able to perfectly reproduce your LoRA, make sure you don't stop and restart the training.
 
 These three control how well the model learns:
 
-- `--lora-r N`: LORA r : resulting LORA scaling is alpha/r. (default 4)
-  - LoRA Rank, or dimension count. Higher values produce a larger file with better control over the model's content. Small values like 4 or 8 are great for stylistic guidance. Higher values like 128 or 256 are good for teaching content upgrades. Extremely high values (1024+) are difficult to train, but may improve fine-detail learning for large datasets. Higher ranks also require more RAM. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
+- `--lora-r N`: LORA r: default rank. Also specifies resulting scaling together with lora-alpha. (default 4)
+  - Sets the default LoRA Rank, or dimension count. Higher values produce a larger file with better control over the model's content. Small values like 4 or 8 are great for stylistic guidance. Higher values like 128 or 256 are good for teaching content upgrades. Extremely high values (1024+) are difficult to train, but may improve fine-detail learning for large datasets. Higher ranks also require more RAM. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
   - Think of this like the "Temperature" control when generating text.
   - Example: `--lora-r 128 --lora-alpha 256`
 - `--lora-alpha N`: LORA alpha : resulting LORA scaling is alpha/r. (default 4)
-  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. A good standard value is twice your `--lora-r`. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
-  - In many cases, people set this to match `--lora-r`
+  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. A good standard value is twice your `--lora-r` ([Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)). In many cases, people set `--lora-alpha` to the same value as `--lora-r`.
   - Example: `--lora-r 128 --lora-alpha 256`
+  - Note: Using llama.cpp's `main.exe`, you can scale the LoRA, even after training using `--lora-scaled your-lora-file-name.gguf 1.0`
 - `--adam-alpha N`: Adam learning rate alpha (default 0.001000)
-  - This is how much the LoRA learns from each training run. Think of this as how slowly the dataset is being read during the training process. You know how when you read a book more slowly in real life, you remember more of it? It's basically that. Think of `--adam-iter` as reading a book cover to cover, and the `--adam-alpha` is how quickly you do that. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
+  - "The learning rate is perhaps the most important hyperparameter. If you have time to tune only one hyperparameter, tune the learning rate." — [Deep Learning](https://amzn.to/2NJW3gE)
+  - This is how much the LoRA learns from each training run. Think of this as how slowly the dataset is being read during the training process. You know how when you read a book more slowly in real life, you remember more of it? It's basically that. Think of an epoch (see `--adam-iter`) as reading a book cover to cover, and the `--adam-alpha` is how quickly you do that. [Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)
   - 0.0003 is a good starting base point. 0.01 is extremely high (reading too fast), 0.000001 is extremely low (reading too slow).
   - Example: `--adam-alpha 0.0003`
 
-I have no idea what these do, so please let me know! But I believe you should set them all to the same value as `--lora-r`.
+I'm still learning the effects of changing these, but by default they all use the value of the `--lora-r` parameter, so you only need to change them if you want to override the value set there:
 
-- `--rank-out N`: LORA rank for output tensor (default 4)
-- `--rank-wq N`: LORA rank for wq tensor (default 4)
-- `--rank-wk N`: LORA rank for wk tensor (default 4)
-- `--rank-wv N`: LORA rank for wv tensor (default 4)
-- `--rank-wo N`: LORA rank for wo tensor (default 4)
-- `--rank-w1 N`: LORA rank for w1 tensor (default 4)
-- `--rank-w2 N`: LORA rank for w2 tensor (default 4)
-- `--rank-w3 N`: LORA rank for w3 tensor (default 4)
+- `--rank-tok-embd N`: LORA rank for token embeddings tensor, overrides default rank.
+- `--rank-out N`: LORA rank for output tensor, overrides default rank.
+  - The output tensor is used for converting embedding to logits for each token
+- `--rank-wq N`: LORA rank for wq tensor, overrides default rank.
+- `--rank-wk N`: LORA rank for wk tensor, overrides default rank.
+- `--rank-wv N`: LORA rank for wv tensor, overrides default rank.
+- `--rank-wo N`: LORA rank for wo tensor, overrides default rank.
+- `--rank-w1 N`: LORA rank for w1 tensor, overrides default rank.
+- `--rank-w2 N`: LORA rank for w2 tensor, overrides default rank.
+- `--rank-w3 N`: LORA rank for w3 tensor, overrides default rank.
 
-I have no idea what these do, so please let me know!
+[These are small, one-dimensional tensors, and it's unlikely you'll want to change them](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781):
 
-- `--rank-att-norm N`: LORA rank for attention norm tensor (default 1)
-- `--rank-ffn-norm N`: LORA rank for feed-forward norm tensor (default 1)
-- `--rank-out-norm N`: LORA rank for output norm tensor (default 1)
-- `--rank-tok-embd N`: LORA rank for token embeddings tensor (default 4)
+- `--rank-att-norm N`: LORA rank for attention norm tensor, overrides default rank. Norm tensors should generally have rank 1.
+- `--rank-ffn-norm N`: LORA rank for feed-forward norm tensor, overrides default rank. Norm tensors should generally have rank 1.
+- `--rank-out-norm N`: LORA rank for output norm tensor, overrides default rank. Norm tensors should generally have rank 1.
 
 ### Miscellaneous
 
@@ -286,11 +305,12 @@ These are things you probably don't want to use, or just don't care about
   - Example: `-s 42069`
 - `--only-write-lora`: Only save llama lora, don't do any training
   - You probably don't want to use this.
-- `--use-lbfgs`: Use LBFGS optimizer instead of default Adam
-  - If memory isn't a concern (it almost always is), LBFGS is more accurate and effective than Adam
-  - You probably want to use the Adam optimizer. See `--use-adam`.
 - `--use-adam`: Use Adam optimizer (default)
   - The Adam optimizer is probably what you want. You don't need to set this as it is the default.
+- `--use-lbfgs`: Use LBFGS optimizer instead of default Adam
+  - If memory isn't a concern (it almost always is), LBFGS is more accurate and effective than Adam. However, during testing 
+  - You probably want to use the Adam optimizer. See `--use-adam`.
+- `--lbfgs-iter N`: Maximum number of LBFGS optimization iterations for each batch (default 256)
 
 ### Unknown
 
@@ -318,7 +338,6 @@ I haven't figured out exactly what these parameters do. If you do know, please s
 - `--adam-beta1 N`: AdamW beta1 in interval \[0,1). How much to smooth the first moment of gradients. (default 0.900000)
 - `--adam-beta2 N`: AdamW beta2 in interval \[0,1). How much to smooth the second moment of gradients. (default 0.999000)
 - `--adam-gclip N`: AdamW gradient clipping. Disabled when zero. (default 1.000000)
-- `--lbfgs-iter N`: Maximum number of LBFGS optimization iterations for each batch (default 256)
 
 ## Appendix D - Q&A
 
@@ -337,9 +356,17 @@ I'm just using this section to compile all the questions I've seen and there ans
 **A:** Assuming you're trying to fine-tune for ERP, pick the smartest model with the nicest prose. It's a lot easier to teach it to be lewd than it is to teach it to be smart.
 
 **Q:** How do I know it's running?/It looks stuck, is this normal?
-**A:** If the last line looks like the text below, it's running. It will just take a while. The "eta" gets more accurate after iteration 2.
+**A:** If the last line looks like the text below, it's running. It will just take a while. The "eta" gets more accurate after iteration 2 or 3.
 ```
 opt_callback: iter=     0 sched=0.000000 loss=0.000000 dt=1.0ms eta=30.0ms |->
 opt_callback: iter=     1 sched=0.010000 loss=3.457290 dt=00:24:17 eta=11:44:33 |->
 ```
 It can also get stuck on `main: tokenize training data` for quite a while if you have a large data set (>50 MB)
+
+## Changelog
+
+- 2023-09-06
+  - Updated for changes in llama.cpp, up to commit xaedes:0c2c9c7.
+  - Added llama.cpp update instructions.
+  - Added a section for problematic models
+  -

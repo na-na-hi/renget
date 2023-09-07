@@ -39,7 +39,7 @@ Aqua Cutter | 7 BP | 6 AP | ≥2 | Water | Physical | 18-20; Increased Crit Rati
 Aqua Jet | 4 BP | 5 (-1) AP | ≥2 | Water | Physical | Priority. AP cost decreased by 1.
 Aqua Step | 8 BP | 6 AP | ≥2 | Water | Physical | The User's Evasion is increased by 1.
 Aqua Tail | 9 BP | 7 AP | ≥3 | Water | Physical | No secondary effect.
-**Arm Thrust** | 2 BP | 6 AP | ≥2 | Fighting | Physical | Multi-Hit.
+**Arm Thrust** | 1D8 | 6 AP | - | Fighting | Physical | Multi-Hit; Roll 1D8. 
 Armor Cannon | 10 BP | 8 AP | ≥2 | Fire | Special | The User's Defense and Special Defense are decreased by 1 stage.
 **Assurance** | 6 BP | 7 AP | ≥2 | Dark | Physical | If the User was damaged last round, the Move's damage is increased by 6.
 Astonish | 3 BP | 5 AP | ≥2 | Ghost | Physical | 14-20; The Opponent Flinches.
@@ -51,7 +51,7 @@ Aurora Beam | 7 BP | 6 AP | ≥2 | Ice | Special | 19-20; The Opponent's Attack 
 **Avalanche** | 6 BP | 7 AP | ≥2 | Ice | Physical | If the User was damaged last round, the Move's damage is increased by 6.
 Axe Kick | 10 BP | 8 AP | ≥3 | Fighting | Physical | 14-20; The Opponent is afflicted with *Confusion*. On miss, lose ≥11 Max HP.
 Barb Barrage | 6 BP | 7 AP | ≥2 | Poison | Physical | 14-20; The Opponent is afflicted with *Poison*; Move's BP is increased by 6.
-**Barrage** | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
+**Barrage** | 1D8 | 5 AP | - | Normal | Physical | Multi-Hit; Roll 1D8. 
 Beak Blast | 10 BP | 6 AP | ≥2 | Flying | Physical | The User attacks at the end of the Opponent's turn. 
 Beat Up | - | 7 AP | ≥2 | Dark | Physical | The User and up to three of their Allies attack the Opponent. The User and their Allies' Attack Stat is dealt as damage.
 Behemoth Bash | 10 BP | 8 AP | ≥2 | Steel | Physical | Big shield.
@@ -71,7 +71,7 @@ Body Slam | 8 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The Opponent is affl
 **Bolt Beak** | 8 BP | 6 AP | ≥2 | Electric | Physical | If the User was damaged last round, the Move's damage is increased by 4.
 Bolt Strike | 10 BP | 8 AP | ≥4 | Electric | Special | 16-20; The Opponent is afflicted with *Paralysis*.
 Bone Club | 7 BP | 6 AP | ≥4 | Ground | Physical | 19-20; The Opponent Flinches.
-Bone Rush | 2 BP | 6 AP | ≥3 | Ground | Physical | Multi-Hit.
+**Bone Rush** | 1D10 | 6 AP | - | Ground | Physical | Multi-Hit; Roll 1D10.
 Bonemerang | 5 BP | 7 AP | ≥3 | Ground | Physical | Hits twice.
 **Boomburst** | 7 BP | 8 AP | ≥2 | Normal | Special | Room-Hitter; Damages Allies.
 Bounce | 9 BP | 7 AP | ≥4 | Flying | Physical | The User is afflicted with *Sky High*. Hits 1 round after using the Move.
@@ -87,7 +87,7 @@ Bug Bite | 6 BP | 5 AP | ≥2 | Bug | Physical | If the Opponent has a Berry, th
 Bug Buzz | 9 BP | 7 AP | ≥2 | Bug | Special | 19-20; The Opponent's Special Defense is decreased by 1.
 Bulldoze | 6 BP | 6 AP | ≥11 | Ground | Physical | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. Spread.
 Bullet Punch | 4 BP | 5 (-1) AP | ≥2 | Steel | Physical | Priority. AP cost decreased by 1.
-Bullet Seed | 2 BP | 6 AP | ≥2 | Grass | Physical | Multi-Hit.
+**Bullet Seed** | 1D10 | 6 AP | - | Grass | Physical | Multi-Hit; Roll 1D10.
 Burn Up | 10 BP | 8 AP | ≥2 | Fire | Special | Fire-Type; Thaws User, loses Fire-Type. 
 Burning Jealousy | 7 BP | 6 AP | ≥2 | Fire | Special | If the Opponent's Stats have increased last round, they are afflicted with *Burn*.
 Ceaseless Edge | 6 BP | 6 AP | ≥3 | Dark | Physical | The Opponent is afflicted with *Splintered*.
@@ -103,7 +103,7 @@ Clear Smog | 5 BP | 6 AP | - | Poison | Special | The Opponent's Stat increases 
 Close Combat | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Defense and Special Defense are decreased by 1. 
 Collision Course | 10 BP | 8 AP | ≥2 | Fighting | Physical | The Move's Super-Effective damage is increased by 3.
 Blazing Torque | 10 BP | 8 AP | ≥2 | Fighting | Physical | 14-20; The Opponent is afflicted with *Paralysis*.
-**Comet Punch** | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
+**Comet Punch** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 **Comeuppance** | - | 7 AP | ≥2 | Dark | Physical | The User deals the Opponent's damage increased by 5.
 Confusion | 5 BP | 5 AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with *Confusion*.
 Constrict | 1 BP | 4 AP | ≥2 | Normal | Physical | 19-20; The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
@@ -132,7 +132,7 @@ Double Hit | 4 BP | 7 AP | ≥2 | Normal | Physical | Hits twice.
 Double Iron Bash | 6 BP | 7 AP | ≥2 | Steel | Physical | Hits twice.
 Double Kick | 3 BP | 7 AP | ≥2 | Fighting | Physical | Hits twice.
 Double Shock | 10 BP | 8 AP | ≥2 | Electric | Physical | Electric-Type; Loses Electric-Type. 
-Double Slap | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
+**Double Slap** | 1D8 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D8.
 Double-Edge | 10 BP | 8 AP | ≥2 | Normal | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 **Draco Meteor** | 6 BP | 8 AP | ≥3 | Dragon | Special | The User's Special Attack is decreased by 2. Room-Hitter.
 Dragon Ascent | 10 BP | 8 AP | ≥2 | Flying | Physical | The User's Defense and Special Defense are decreased by 2.
@@ -216,9 +216,9 @@ Freezing Glare | 9 BP | 7 AP | ≥2 | Psychic | Special | 19-20; The Opponent is
 Frenzy Plant | 10 BP | 8 AP | ≥3 | Grass | Special | The User is afflicted with *Recharging*.
 **Frost Breath** | 1 BP | 7 AP | ≥3 | Ice | Special | The Move is always a Critical Hit.
 **Frustration** | 6 BP | 5 AP | ≥2 | Normal | Physical | Each round, the Move's BP is increased by 2 until 10 BP. 
-Fury Attack | 1 BP | 5 AP | ≥4 | Normal | Physical | Multi-Hit.
+**Fury Attack** | 1D8 | 5 AP | - | Normal | Physical | Multi-Hit; Roll 1D8.
 Fury Cutter | 4 BP | 6 AP | ≥2 | Bug | Physical | Each consecutive use, BP is increased by 4 until interrupted or after 3 rounds.
-Fury Swipes | 2 BP | 6 AP | ≥4 | Normal | Physical | Multi-Hit.
+**Fury Swipes** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Fusion Bolt | 10 BP | 8 AP | ≥2 | Electric | Physical | If Fusion Flare was used last round, damage is increased by 10.
 Fusion Flare | 10 BP | 8 AP | ≥2 | Fire | Physical | If Fusion Bolt was used last round, damage is increased by 10.
 Future Sight | 10 BP | 7 AP | ≥2 | Psychic | Special | The Opponent is afflicted with *Unremitted*.
@@ -272,7 +272,7 @@ Ice Punch | 8 BP | 6 AP | ≥2 | Ice | Physical | 19-20; The Opponent is Afflict
 Ice Shard | 4 BP | 5 (-1) AP | ≥2 | Ice | Physical | Priority. 
 Ice Spinner | 8 BP | 6 AP | ≥2 | Ice | Physical | Nullifies Terrain.
 Icicle Crash | 8 BP | 6 AP | ≥3 | Ice | Physical | 14-20; The Opponent Flinches.
-Icicle Spear | 2 BP | 6 AP | ≥2 | Ice | Physical | Multi-Hit.
+**Icicle Spear** | 1D10 | 6 AP | - | Ice | Physical | Multi-Hit; Roll 1D10.
 Icy Wind | 4 BP | 6 AP | ≥11 | Ice | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)is decreased by 1. Spread.
 Incinerate | 6 BP | 5 AP | ≥11 | Fire | Special | The Opponent's Berry or Gem is destroyed.
 Infernal Parade | 6 BP | 5 AP | ≥2 | Ghost | Special | 14-20; The Opponent is afflicted with *Burn*. If the Opponent has Major Status Condition, BP is increased by 6.
@@ -361,7 +361,7 @@ Petal Blizzard | 9 BP | 8 AP | ≥11 | Grass | Physical | Effective at destroyin
 **Petal Dance** | 10 BP | 8 AP | ≥2 | Grass | Special | While used consecutively, the Move's BP is increased by 1, up to 3 times.
 Phantom Force | 9 BP | 7 AP | ≥2 | Ghost | Physical | The User vanishes round 1. Hits 1 round after the Move is used. Ignores and nullifies Protect Moves.
 Photon Geyser | 10 BP | 8 AP | ≥2 | Psychic | - | Changes Property depending on the User's highest Offensive Stat. Ignores Abilities.
-Pin Missile | 2 BP | 6 AP | ≥2 | Bug | Physical | Multi-Hit.
+**Pin Missile** | 1D10 | 6 AP | - | Bug | Physical | Multi-Hit; Roll 1D10.
 **Plasma Fists** | 10 BP | 8 AP | ≥2 | Electric | Physical | For 2 rounds, all Normal-Type Moves become Electric-Type.
 Play Rough | 9 BP | 7 AP | ≥3 | Fairy | Physical | 19-20; The Opponent's Attack is decreased by 1.
 Pluck | 6 BP | 5 AP | ≥2 | Flying | Physical | The User eats the Opponent's Berry.
@@ -371,7 +371,7 @@ Poison Sting | 2 BP | 4 AP | ≥2 | Poison | Physical | 16-20; The Opponent is a
 Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with *Poison*.
 Pollen Puff | 9 BP | 7 AP | ≥2 | Bug | Special | When used on an Ally, becomes a Status Move and heals 4 HP.
 Poltergeist | 10 BP | 8 AP | ≥3 | Ghost | Physical | The User attacks with the Opponent's Item. Fails if the Opponent has no Item.
-Population Bomb | - | 8 AP | ≥3 | Normal | Physical | Multi-Hit. Hits up to 10 times. Roll 2D20; 1 Accuracy roll and 1 damage roll.
+**Population Bomb** | 2D10 | 8 AP | - | Normal | Physical | Multi-Hit; Roll 2D10.
 Pounce | 5 BP | 6 AP | ≥2 | Bug | Physical | The Opponent's Attack is decreased by 1. 
 Pound | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Powder Snow | 4 BP | 5 AP | ≥8 | Ice | Special | 19-20. The Opponent is Frozen. Spread.
@@ -411,7 +411,7 @@ Revelation Dance | 9 BP | 7 AP | ≥2 | Normal | Special | Changes Type based on
 **Reversal** | - | 6 AP | ≥2 | Fighting | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 16 BP.
 Rising Voltage | 7 BP | 6 AP | ≥2 | Electric | Special | While in Electric Terrain, BP is increased by 7.
 **Roar of Time** | 10 BP | 8 AP | ≥2 | Dragon | Special | Halts the very motion of time itself. Room-Hitter.
-**Rock Blast** | 2 BP | 6 AP | ≥3 | Rock | Physical | Multi-Hit.
+**Rock Blast** | 1D10 | 6 AP | - | Rock | Physical | Multi-Hit; Roll 1D10.
 Rock Climb | 9 BP | 7 AP | ≥4 | Normal | Physical | 16-20; The Opponent is afflicted with *Confusion*. The User can scale uneven terrain and walls.
 Rock Slide | 7 BP | 7 AP | ≥11 | Rock | Physical | 14-20; The Opponent Flinches. Spread.
 Rock Smash | 4 BP | 5 AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
@@ -428,7 +428,7 @@ Salt Cure | 4 BP | 6 AP | ≥2 | Rock | Physical | The Opponent is afflicted wit
 Sand Tomb | 3 BP | 6 AP | ≥2 | Ground | Physical | The Opponent is afflicted with *Trapped*.
 Sandsear Storm | 10 BP | 8 AP | ≥11 | Ground | Special | 14-20. The Opponent is afflicted with *Burn*. Spread.
 Scald | 8 BP | 6 AP | ≥2 | Water | Special | 14-20; The Opponent is afflicted with *Burn*. Thaws User and Opponent.
-Scale Shot | 2 BP | 6 AP | ≥3 | Dragon | Physical | Multi-Hit. The User's Evasion is increased by 1. The User's Defense is decreased by 1.
+**Scale Shot** | 1D10 | 7 AP | - | Dragon | Physical | Multi-Hit; Roll 1D10. The User's Evasion is increased by 1. The User's Defense is decreased by 1.
 Scorching Sands | 7 BP | 6 AP | ≥2 | Ground | Special | 14-20; The Opponent is afflicted with *Burn*. Thaws User and Opponent.
 Scratch | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Searing Shot | 10 BP | 8 AP | ≥11 | Fire | Special | 14-20; The Opponent is afflicted with *Burn*. Spread.
@@ -475,7 +475,7 @@ Spacial Rend | 10 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ra
 Spark | 6 BP | 5 AP | ≥2 | Electric | Physical | 14-20; The Opponent is afflicted with *Paralysis*.
 **Sparkling Aria** | 4 BP | 7 AP | ≥2 | Water | Special | Room-Hitter; Damages Allies. Heals *Burn*.
 Spectral Thief | 9 BP | 7 AP | ≥2 | Ghost | Physical | The User steals the Opponent's Stat increases. Damage is calculated after stealing Opponent Stat increases. Ignores Substitute.
-Spike Cannon | 2 BP | 6 AP | ≥4 | Normal | Physical | Multi-Hit.
+**Spike Cannon** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Spin Out | 10 BP | 8 AP | ≥2 | Steel | Physical | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2.
 Spirit Break | 7 BP | 6 AP | ≥2 | Fairy | Physical | The Opponent's Special Attack is decreased by 1. 
 Spirit Shackle | 8 BP | 6 AP | ≥2 | Ghost | Physical | The Opponent is afflicted with *Immobile*.  
@@ -501,11 +501,11 @@ Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the 
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 
 **Surf** | 4 BP | 6 AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
-**Surging Strikes** | 2 BP | 7 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D20. 16-20; Increased Crit Ratio.
+**Surging Strikes** | 3D6+6 | 6 AP | ≥3 | Water | Physical | Always hits 3 times; Roll 3D6. The Move is always a Critical Hit.
 Swift | 6 BP | 5 AP | ∞ | Normal | Special | Never misses.
 Synchronoise | 10 BP | 7 AP | ≥8 | Psychic | Special | If the Opponent shares a Type with the User, deals damage. Spread.
 Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
-Tail Slap | 2 BP | 6 AP | ≥2 | Normal | Physical | Multi-Hit.
+**Tail Slap** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Take Down | 9 BP | 7 AP | ≥4 | Normal | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Techno Blast | 10 BP | 8 AP | ≥2 | Normal | Special | Changes Type according to the held Drive.
 ~~Tera Blast~~ | ~~8 BP~~ | ~~6 AP~~ | ~~≥2~~ | ~~Normal~~ | ~~???~~ | ~~Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem.~~
@@ -524,9 +524,9 @@ Torch Song | 8 BP | 6 AP | ≥2 | Fire | Special | The User's Special Attack is 
 Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 1.
 Tri Attack | 8 BP | 6 AP | ≥2 | Normal | Special | 16-17; The Opponent is afflicted with *Paralysis*. 18-19; The Opponent is afflicted with *Burn*. 20; The Opponent is afflicted with *Freeze*.
 Triple Arrows | 9 BP | 7 AP | ≥2 | Fighting | Physical | 18-20; Increased Crit Ratio. 10-20; The Opponent's Defense is decreased by 1.
-Triple Axel | 2 BP | 7 AP | ≥3 | Ice | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
-Triple Dive | 2 BP | 7 AP | ≥3 | Water | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
-Triple Kick | 1 BP | 7 AP | ≥3 | Fighting | Physical | Hits 3 times; Roll 3D20. Base Power increases to 4 and 6 on second and third hit. Move ends if any hits miss.
+**Triple Axel** | 3D10 | 7 AP | ≥2 | Ice | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
+**Triple Dive** | 3D10 | 7 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
+**Triple Kick** | 3D10 | 7 AP | ≥2 | Fighting | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
 Trop Kick | 7 BP | 6 AP | ≥2 | Grass | Physical | The Opponent's Attack is decreased by 1.
 **Trump Card** | - | 4 AP | - | Normal | Special | The Move's AP cost is increased by 1 for each use. 4 AP; 4 BP. 5 AP; 5 BP. 6 AP; 6 BP. 7 AP; 8 BP. 8 AP; 20 BP. Never misses.
 Twin Beam | 4 BP | 7 AP | ≥2 | Psychic | Special | Hits 2 times; Roll 2D20.
@@ -546,7 +546,7 @@ Wake-Up Slap | 7 BP | 6 AP | ≥2 | Normal | Physical | If the Opponent is affli
 Water Gun | 4 BP | 4 AP | ≥2 | Water | Special | No secondary effect.
 ~~Water Pledge~~ | ~~8 BP~~ | ~~6 AP~~ | ~~≥2~~ | ~~Water~~ | ~~Special~~ | Removed.
 Water Pulse | 6 BP | 5 AP | ≥2 | Water | Special | 16-20; The Opponent is afflicted with *Confusion*.
-Water Shuriken | 2 BP | 6 (-1) AP | ≥2 | Water | Special | Multi-Hit. If Battle Bond is activated, Base Power is increased by 1, never misses, and hits 3 times; Roll 3D20.
+**Water Shuriken** | 1D8 | 6 (-1) AP | - | Water | Special | Multi-Hit; Roll 1D8. If Battle Bond is activated, roll 3D8.
 Water Spout | 8 BP | 8 AP | ≥2 | Fire | Special | The Move's Base Power is increased by 1 for every 10 HP the User has. 
 Waterfall | 8 BP | 6 AP | ≥2 | Water | Physical | 16-20; The Opponent is afflicted with *Flinch*. The User may scale waterfalls.
 Wave Crash | 10 BP | 8 AP | ≥2 | Water | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).

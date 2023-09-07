@@ -57,7 +57,7 @@ You can level whoever you want at the beginning and progress with that, just mak
 Now, this is important: depending on the number of dupes of a unit you have, they can get to a higher level
 For example this is a SR with 2 dupes (LB2) and a SSR with 0 dupes (LB0)
 ![SR LB2](https://i.imgur.com/toV782l.png)![SSR LB0](https://i.imgur.com/TLONLXz.png)
-As you can see both can get up to lvl160 but the SSR but the SR needs 2 dupes to do so
+As you can see both can get up to lvl160 but the SR needs 2 dupes to do so
 !!!danger THIS IS VERY VERY IMPORTANT, YOU NEED TO PLAN FOR THIS FROM THE START OF THE GAME
 To be able to get past lvl 160 you need an SSR unit at LB3, that means getting that unit 4 times
 And you need 5 units at LB3 or you'll be stuck at lvl 160 for MONTHS/FOREVER
@@ -67,7 +67,7 @@ After you beat stage 4-15 you will unlock a building called the Synchro Device, 
 ![empty sync](https://i.imgur.com/uHyko77.png)
 
 The device automatically takes your 5 highest leveled Nikkes and lets you sync other Nikkes to that level
-So the play is to reset the units you have been using on the campaign until then, for 10 gems each, and level 5 SSR or SRs that you have at LB2 EQUALLY
+So the play is to reset the units you have been using on the campaign until then, for 10 gems each, and level 5 SSR (any level of LB works) or SRs (LB2) EQUALLY
 Usually SSRs are better so if you have to choose level the SSRs, this will save you sync slots
 ![Resetting levels](https://i.imgur.com/H7cuG0a.png)
 
@@ -100,7 +100,7 @@ Second one is the mileage tickets
 This is a spark mechanic, after you do 200 pulls on the Ordinary Banner you can buy a spare body (dupe) of some Nikkes that appear on the mileage store
 !!!warning This does not unlock new Nikkes, you can only get dupes
 These are the units that can appear on the mileage store, every day at reset one of each column is present at random
-![Mileage store](https://i.imgur.com/ppMaQQG.png)
+![Mileage store](https://i.imgur.com/nY3nRsX.png)
 
 Not every unit is there and the only Pilgrim that appears is Noah, so plan accordingly
 !!!warning DO NOT BUY A SPARE AS SOON AS YOU HAVE 200 MILEAGE, WAIT UNTIL IT'S THE LAST COPY YOU NEED TO GET UNWALLED
