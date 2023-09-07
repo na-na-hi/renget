@@ -10,6 +10,7 @@
 ***
 Date | Update Notes | New Cards
 :---- | :----: | ----:
+07/09/23 | 0/12 Published | A few WIPs on the Volume Four, WIP rentry linked above; check 'em out if you don't mind: 1)Unfinished + Mostly untested char definitions, 2) Unfinished art.
 19/08/23 | 12/12 Published | Petronia, Norirna. / Extra Bonus Card: Kirishima. / I have officially given up trying to get a decent looking and derivative SD-gen for Norirna's art. Quite a bit of Vol.4 is already written, *just need to continue suffering through SD hell.*
 28/07/23 | 10/12 Published | Cerunlanwe, Minkhius. / Had some HDD trouble recently, seems okay now. Hopefully get the last two up in the next day or two. / Would appriciate feedback on any of the Vol. 3 cards; I haven't tested them as throughly as I did Vol. 2.
 17/07/23 | 8/12 Published | Velaya, Metsutami, Karenylla.

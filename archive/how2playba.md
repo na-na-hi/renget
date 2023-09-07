@@ -1,8 +1,6 @@
 # /bag/ Newfag guide
 How to play the game for the completely retarded. Not just a reroll guide. Scroll to the bottom for my last edit date.
 
-Going on vacation, if I don't update after a month I'm dead.
-
 [TOC] 
 
 ##Top Tips 
@@ -517,7 +515,7 @@ Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case y
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.
 This part I'm a little unsure about, but I think it's every 5 sweeps you get a blue report and every 30 sweeps you get an orange report. So ideally you'd sweep in multiples of 5 or 30.
-It's pretty useless to minmax though, since you'll always be in report hell. And credit hell. And artifact hell. Just a neat thing you can do to feel cool
+It's a pretty negligible trick though. 
 
 For every level below the recommended level you'll start doing 2% less damage while taking 2% more dmg, up to 20 levels. If you ever wonder why it gets so hard progressing, that's why. This is compared between student and enemy level, not Sensei level. 
 Very important to keep in mind is that you can ignore the recommended level. Until you actually can't get further, ignore it. Otherwise you block urself mentally, instead of the game stopping you. 

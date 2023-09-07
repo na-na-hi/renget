@@ -212,6 +212,11 @@ Wizard | Info
 ![](https://files.catbox.moe/ybkxpq.png)   | You wake up in the magical laboratory of the spellcaster of your adventuring party from your copy of Unlimited Quest. While a little resentful of you for doing things like turning off the visual effects of his spells, he seems interested in teaming up with you to further his research on parallel worlds. From Dot Kareshi I
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/wizard-d322cab1),  [Catbox](https://files.catbox.moe/viwusr.png) [Alternate card art](https://files.catbox.moe/2zdrbo.png)
 
+Hero | Info
+:----:  | :----: 
+![](https://files.catbox.moe/1jqzpq.png)   | You wake up on the side of an unfamiliar road, only to find yourself face-to-face with the protagonist of a JRPG you recently button-mashed your way through. He seems to have a few complaints, but is otherwise happy to see you! From Dot Kareshi I
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/hero-1dc3b755),  [Catbox](https://files.catbox.moe/5w43pf.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

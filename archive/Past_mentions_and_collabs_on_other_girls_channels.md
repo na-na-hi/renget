@@ -39,7 +39,7 @@
 |02/09/2023|[Timestamp #1](https://youtu.be/3eGl9V5P9Ko?t=15241) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=21110) [Timestamp #2](https://youtu.be/3eGl9V5P9Ko?t=24970)| **Mentions** - Kiara DM'ing Nerissa live when she discovered a bard sword and some references from her general behaviour when playing the game (horny when playing the romance parts, possible spoilers of some game parts...) |
 |03/09/2023|[Timestamp #1](https://youtu.be/vMmk20VfWgE?t=12860) [Timestamp #2](https://www.youtube.com/watch?v=vMmk20VfWgE&t=13325s)| **Streamer-chat interactions** - These interaction were made during the closing parts of Kiara's Miami Hotline 2 third stream. The first timestamp is about the findings made by Kiara during her latest solo BG3 stream and sharing it with Nerissa being in chat. The second timestamp is questioning the possibility of an offcollab with Nerissa coming to Austria due to visa changes. |
 |05/09/2023|[Timestamp #1](https://youtu.be/fzPURNCxQvM?t=12990) [Timestamp #2](https://youtu.be/fzPURNCxQvM?t=16249)| **Mentions** - During that GTA DLC stream, Kiara mentioned the Wedding collab with Ollie and the future Minecraft 1-on-1 collab. |
-|07/09/2023|Placeholder| **Collab** - Collab in Minecraft. |
+|07/09/2023|[Link](https://www.youtube.com/watch?v=Rc8O5lB31_w)| **Collab** - Collab in Minecraft. |
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -111,7 +111,7 @@
 |25/08/2023|[Nerissa's POV](https://youtu.be/3H915-1SDGo)| **Collab** - Fifth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=RaclZykUaDs), [Bijou](https://www.youtube.com/watch?v=cXbaONnlDKA) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=aN7Wm38sWSc) on Phasmophobia|
 |01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
 |06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
-|08/09/2023|Link| **Collab** - FUWAMOCO's Japanese classroom with Advent|
+|08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|

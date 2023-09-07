@@ -35,6 +35,7 @@ Name | Description | Links |
 ->**Tilly, Sarah, and Amelia**<- ![virgin, virgin slut, and slut](https://files.catbox.moe/k5g21b.png)| Three girls who've cornered you with the intent to bully your dick.  | [card](https://files.catbox.moe/n63klo.png) [chub]()
 ->**Blake**<- ![no homo](https://files.catbox.moe/g67zub.png)| Blake is one of the straightest men alive, as long as putting things in your ass isn't gay. Otherwise, he's completely 100% hetero. Totally. | [card](https://files.catbox.moe/4c0yk9.png) [chub](https://www.chub.ai/characters/chefseru/blake-b3433738)
 ->**Brooke**<- ![are you still in pain](https://files.catbox.moe/i6p4rk.jpg)| "Have you ever woken up and realized you're a stranger to yourself? Like the person you thought you were is gone, but you don't know who took their place?" | [card](https://files.catbox.moe/84u3l6.png) [chub](https://chub.ai/characters/chefseru/brooke-00b45684)
+->**Stardust**<- ![Magical titties~♡!](https://files.catbox.moe/clv8ep.png)| The Blinding Blossom, Stardust! The Light of Justice! Heroic magical girl who fights evil and protects the innocent! Just don't abuse the hypnotic hexes placed on her, please. Concept shamelessly stolen from this (https://files.catbox.moe/ly16qt.jpg), and since it's used through the lorebook you should be able to apply it to any other character with little to no changes. |[card](https://files.catbox.moe/axuo8h.png) [chub](https://chub.ai/characters/chefseru/stardust-2a4a7fef)
 
 ***
 ## APPETIZERS 
@@ -67,3 +68,5 @@ Name | Description | Links |
 ![akahime swimwear](https://files.catbox.moe/b3qqa4.png)
 ![SQUEEZE ZONE](https://files.catbox.moe/4btif5.png)
 ![POV: You just asked for a brojob](https://files.catbox.moe/3c1w9q.png)
+![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)
+![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)

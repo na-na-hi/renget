@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #30 (Tuesday, 5 September 2023, 20:00 UTC)<-
+->Last updated on thread #30 (Thursday, 7 September 2023, 19:00 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -472,7 +472,7 @@ Guys?!?!
 
 ######59286448 Anonymous
 \>>59286414
-Anthros =\= Animals
+Anthros =\\= Animals
 
 ######59286507 Anonymous
 \>>59286448

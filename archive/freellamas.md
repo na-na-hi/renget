@@ -7,7 +7,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 **Model:** **Stheno-l2-q4 scaled to 8k**
 
-Blocking API URL: ```https://pubmed-place-shaw-operator.trycloudflare.com```
+Blocking API URL: ```N/A```
 
 ***
 **System prompt:**
@@ -59,7 +59,7 @@ git stash pop
 
 You can also download ready-made [template](https://files.catbox.moe/udeo2s.json) and [preset](https://files.catbox.moe/3s9n4v.json) files to import to your SillyTavern.
 
-Alternatively, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
+**Alternatively**, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
 ![simple-proxy-for-tavern](https://files.catbox.moe/zaysk7.png)
 
 ***

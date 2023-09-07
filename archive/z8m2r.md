@@ -5,13 +5,16 @@
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
 ->**[Volume Three, v1 Cards](https://rentry.org/gikdw)**<-
 ***
+->**07/09/23: 5 WIPs uploaded. Klymhessa, Ilofa, Cillamuna, Kheoloee, Cervoel. | I would very much like feedback on them, particularly outside OAI models.**<-
+>probably put 1 or 2 up *tomorrow*. >uploads over two weeks later.
+***
 ->**19/08/23: Not going to support v1 Card Spec anymore, pain in the arse. Just going to put WIPs up here every now and then when I'm mostly happy with them, probably put 1 or 2 up tomorrow.**<-
 
 ->**19/08/23: Picking these up again soon. I rewrote/saved the world info and everything else a while back. Need to finish writing 3 or 4, and pickout a name for a few; otherwise just art to do. I seriously need to figure out a better workflow or something for doing SD gens, takes forever to get results I'm even remotely happy with.**<-
 ***
 ->**Update: So I had a HDD fail a little while ago; recovered the vast majority of my data easily enough, and some from backups. What I didn't get back was almost all my World Infos. (ᗒᗣᗕ). I *did* have an old version in my notes for the Goblin Tribe but lost the Unease & Voracity one completely. Shouldn't delay these any at least; it's the SD gens that take the longest to do.**<-
 ***
-->**Will have two bonus cards, exclusive to Rentry. Probably won't share my RPG/CYOA/Whatever cards outside of Rentry too tbh, doubt most people on CharHub give a shit about those styles of card.**<-
+->**Will have ~~two~~ some bonus cards, exclusive to Rentry. Probably won't share my RPG/CYOA/Whatever cards outside of Rentry too tbh, doubt most people on CharHub give a shit about those styles of card.**<-
 ->**Using a new format/layout for writing these. All the ones I've written thus far have ended up at 2k tokens; it's just too easy to stuff it full of detail. 〣( ºΔº )〣**<-
 ***
 ->**Not including example chatlogs, I doubt anyone ever bothered to read them.**<-
@@ -19,25 +22,26 @@
 ->**Feedback? anon_doofus@proton.me**<-
 ***
 [TOC]
-![](TODO)
+![](https://files.catbox.moe/1uqj5k.jpg)
 ***
 ###### Klymhessa
 Futa Dullahan - Have a fight, go on a date, fuck her, get fucked... 
-	`ToA inspired. The Dullahan lass in that game is a cutie pie.`
+	`ToA. The Dullahan lass in that game is a cutie pie.`
 
-![](TODO) 3301 Tokens (2114 Permanent)
+![](https://files.catbox.moe/o3xq0y.png) 3301 Tokens (2114 Permanent)
 
->Optimize. Turbo is a bastard.
+>Optimize.
+>>Turbo is a bastard. The 'quirk' of her either being a head without a body, or a bodyless head; doesn't work reliably with Turbo; lots of the head trying to move around by itself or the body giving you a look, that sort of thing. Annoying, but not the end of the world; inflated the token count hugely trying to fix it if I remember right.
 ***
 
 ###### Ilofa
 Fem Gobbo Shaman - Wants you to breed her; and her Tribe!
 	`Based on an idea I originally had for Amarlieve's world info.`
 
-![](TODO) 2118 Tokens (1455 Permanent)
+![](https://files.catbox.moe/waraxc.png) 2118 Tokens (1455 Permanent)
 
-[todo: World Info](todo)
 >Shared World Info with Tired Succubus, several side-characters for both the Goblins and Succubae. Currently 3190 Tokens across 16 entries, 9 extra characters.
+>>World Info should be embedded, only lightly tested. 
 
 ***
 
@@ -62,9 +66,8 @@ Male Anthro Jackal.
 
 ###### Cillamuna
 Futa Equine - *Big* girl with **big peepee**. Feminization or Bimboification, Size Difference. 
-	`Ref Picturd captions?`
 
-![](TODO) 4353 Tokens (2085 Permanent)
+![](https://files.catbox.moe/68bodi.png) 4353 Tokens (2085 Permanent)
 
 >(You) interview for a job as a helper to a needy Mare, with a few extra job requirements and perks.
 >>Optimize.
@@ -73,10 +76,9 @@ Futa Equine - *Big* girl with **big peepee**. Feminization or Bimboification, Si
 ###### Kheolea
 Female - Local chocolate cutie wants to date and snuggle.
 
-![](TODO) 2946 Tokens (2323 Permanent)
+![](https://files.catbox.moe/cp4ldq.png) 2946 Tokens (2323 Permanent)
 	`1400 Tokens (777 Permanent) if pruned to use World Info instead; need to check how viable that is.`
->The quirk of this card is like 60% of the tokens. May move to world info; the 'risk' of people not running it kinda ruins the whole intent. Turbo 16k *kinda* makes token counts irrelevant, but still; I need to get out of this bad habit of xbox-huge permanent tokens of mine. ~~literally never going to happen lmao.~~
->>Tested it, becomes very schizoid if using World Info; broke it up into sections to space out the token use, but it activates the entries "out of order" essentially so gets parts confused constantly. Going to try rework it again before trash the WI idea; will try re-optimize if I give up on WI for it.
+>Somewhat similar to Hariera. Not the same type of content, but the same meta-theme. *hink hink wink wink nudge nudge*.
 ***
 
 ###### Pizza Delivery Boi
@@ -141,16 +143,23 @@ Futa Bimbo Kui-Tan - Return home after a hard day of *something*! Be greeted by 
 
 ***
 
-###### Bonus Card: Seraphim
+###### Bonus Card: Cervoel
 Futa Angel - (You) died. Get judged by a unorthodox and old-testament inclined Seraphim.
     `I'm not religious. Don't bully me, or call me a gnostic (whatever the fuck that means); for including references to Dante's Divine Comedy, I thought it was funny to have a literal Angel be a fan of his work.`
-![](TODO) 3590 Tokens (1923 Permanent)
+![](https://files.catbox.moe/39tvw0.png) 3590 Tokens (1923 Permanent)
 
 >Similar to the above; written while being horny. Based on an ancient Modeseven pic, I have no idea what the context, if any, is for the image, but I think it's cockvore; so that's an option here.
 >>Yes, the token count, I know. I got a **little** carried away with what was supposed to be a simple smutbot.
 ***
 
-###### Bonus Shitpost Card: Unnamed Femboy
+###### Bonus Card: Princess Rescue Quest
+Female, Princess. (You) need to rescue a kidnapped Damsel.
+
+![](TODO) 1822 Tokens (1717 Permanent)
+[todo: World Info](todo) | Fairly small, just a optimization to cut down on token counts, relates to the "ending" you get when saving the Princess.
+***
+
+###### Shitpost Card: Unnamed Femboy
 Femboy - Local Alt-Right Femboy, e-Thot and hopeful Tradwife; wants to educate (You) on how der Juden are to blame for everything.
 
 ![](TODO) 2773 Tokens (1534 Permanent)
@@ -160,26 +169,26 @@ Femboy - Local Alt-Right Femboy, e-Thot and hopeful Tradwife; wants to educate (
 ***
 
 Dullahan
-- [X] Char. Defs (WIP, Quirk doesn't work very well.)
+- [X] Char. Defs
 - [ ] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update
 
 Fem Gobbo Tribe
-- [X] Char. Defs (Mostly written; need to re-do world info somewhat.)
-- [ ] SD Art Gen.
+- [X] Char. Defs
+- [X] SD Art Gen. (Mostly happy with it.)
 - [ ] Optimize
 - [ ] Test & Update
 
 Very Tired Succubus
-- [X] Char. Defs (Initial draft + premise)
+- [X] Char. Defs (Mostly written.)
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
 
 Anthro 1
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
@@ -192,13 +201,13 @@ Anthro 2
 
 Mocha Waifu
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [X] Optimize
 - [ ] Move quirk to a world info entry. The quirk is 1.5k tokens; what the fuck is wrong with me.
 - [ ] Test & Update
 
 Pizza Boi
-- [X] Char. Defs (Initial draft + premise)
+- [X] Char. Defs (Mostly written.)
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
@@ -210,13 +219,13 @@ Dragon Girl
 - [ ] Test & Update
 
 Twi'Lek
-- [X] Char. Defs (Initial draft + premise)
-- [ ] SD Art Gen.
+- [X] Char. Defs
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
 Togruta
-- [X] Char. Defs (Initial draft + premise)
+- [X] Char. Defs
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
@@ -248,8 +257,14 @@ Bonus: Seraphim
 - [ ] Optimize
 - [ ] Test & Update
 
-Bonus: Racist Femboy
-- [X] Char. Defs
+Bonus: Princess Rescue Quest
+- [X] Char. Defs (Mostly written.)
+- [ ] SD Art Gen.
+- [ ] Optimize
+- [ ] Test & Update
+
+Shitpost: Racist Femboy
+- [X] Char. Defs (Mostly written.)
 - [ ] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update

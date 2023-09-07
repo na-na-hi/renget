@@ -185,5 +185,7 @@
 |06/09/2023|162|Lover of Idols II - OHC & Mentions|Addition of a timestamp from a Understanding segment from  FWMC Morning #16.|
 |06/09/2023|163 & 164|Lover of Idols Pages|Addition of Nerissa's POV for the Advent Minecraft Collab of 06/09/2023.|
 |06/09/2023|165|Lover of Idols I - Collabs on Nerissa's channel|Addition of Nerissa's POV for the upcoming collab on Minecraft with Kiara.|
+|07/09/2023|166 & 167|Lover of Idols Pages|Addition of Kiara's POV for the Advent Minecraft Collab of 07/09/2023.|
+|07/09/2023|168|Lover of Idols II - OHC & Mentions|Addition of the link for the FUWAMOCO's Japenese Lesson with Advent collab of 08/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->
